@@ -233,9 +233,12 @@ CREATE INDEX play_setcode ON play(setcode);
     }
 
 
-    if (isset(self::$sets[$setcode]['identifier']))
+    if (!isset(self::$sets[$setcode]['identifier']))
+      $identifier = null;
+    else if ( $setcode == 'tc' )
+      $identifier = sprintf ( self::$sets[$setcode]['identifier'], strtoupper( $teinte->filename() ) );
+    else
       $identifier = sprintf ( self::$sets[$setcode]['identifier'], $teinte->filename() );
-    else $identifier = null;
 
     $this->_insert->execute(array(
       $setcode,
