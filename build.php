@@ -83,7 +83,7 @@ class Dramacode
     */
   );
   static $formats = array(
-    'markdown' => '.md',
+    'markdown' => '.txt',
     'iramuteq' => '.txt',
     'html' => '.html',
     'article' => '.html',
