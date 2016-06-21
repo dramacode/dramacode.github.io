@@ -2,7 +2,7 @@
 identifier: scarron_marquisridicule  
 creator: Scarron Paul  
 date: 1646  
-title: Le Marquis ridicule. , ou la comtesse  faite à la hâte. comédie.  
+title: Le Marquis ridicule. , ou la comtesse faite à la hâte. comédie.  
 ---
 
 
@@ -3407,7 +3407,7 @@ Apprenez que j'irais plus loin que Malacca.
 
 [14] L'original porte : "sans poux".
 
-[15] Le mot juillep  est inconnu. Le mot le plus voisin est Julep. 
+[15] Le mot juillep est inconnu. Le mot le plus voisin est Julep. 
 
 [16] Ajuster : S'acommoder proprement, se parer. R
 
@@ -3477,7 +3477,7 @@ Apprenez que j'irais plus loin que Malacca.
 
 [49] Torcher : Frotter, comme on fait avec un torchon, pour nettoyer, pour essuyer. Fig. et populairement. Il n'a qu'à s'en torcher le bec, il ne doit pas compter sur ce qu'il désire. L
 
-[50] Machine :  Fig. invention, rûse, adresse d'esprit, dont on se sert dans quelque affaire. FC
+[50] Machine : Fig. invention, rûse, adresse d'esprit, dont on se sert dans quelque affaire. FC
 
 [51] Sauter : signifie aussi, assaillir, se jetter sur quelqu'un. F
 
