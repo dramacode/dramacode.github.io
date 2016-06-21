@@ -1,0 +1,2293 @@
+---
+identifier: rotrou_herculemourant  
+creator: Rotrou, Jean  
+date: 1634  
+title: Hercule mourant. , tragédie  
+---
+
+
+HERCULE MOURANT
+
+TRAGÉDIE
+
+M. DC. XXXVI AVEC PRIVILÈGE DU ROI.
+
+DE ROTROU.
+
+# PRIVILÈGE DU ROI. Louis par la grâce de Dieu, Roi de France et de Navarre, à nos amés et féaux Conseillers les gens tenants nos cours de parlement, Maître des requêtes ordinaires de notre Hôtel, Baillifs, Sénéchaux, Prévôts, leurs lieutenants, et autres nos justiciers et officiers qu'il appartiendra, Salut. Notre bien aimé ANTHOINE DE SOMMAVILLE, marchand libraire, Nous a fait remontrer qu'il désirait faire imprimer un livre intitulé, Hercule Mourant, tragédie de Rotrou, ce qu'il ne peut faire sans avoir de nos lettres humblement requérant icelles. À ces causes désirant favorablement traiter le dit Livre en tous les lieux et terres de notre obéissance, par tels imprimeurs, en tels marges et caractères, et autant de fois qu'il voudra, durant le temps et espace de sept ans entiers et accomplis, à compter du jour où il sera achevé d'imprimer. Faisant défenses à tous imprimeurs, libraires et autres de quelque condition qu'ils soient, tant étrangers, que de notre royaume, d'imprimer,, vendre ni distribuer en aucun endroit d'icelui ledit livre sans le consentement de l'exposant ou de ceux qui auront droit de lui en vertu des présentes, ni même d'en prendre le titre, ou le contrefaire en telle sorte et manière que ce soit, sous couleur de fausse marge ou autre déguisement, sur peine aux contrevenants de trois mille livres d'amende applicable un tiers à Nous, un tiers à l'Hôtel Dieu de Paris, et l'autre tiers à l'exposant, de confiscation des exemplaires contrefaits, et de tous dépens, dommages et intérêts : mêmes si aucuns libraires et imprimeurs de notre Royaume, ou étrangers trafiquants en icelui étaient trouvés saisis des exemplaires contrefaits, Nous voulons qu'ils soient condamnés en pareille amendes que s'ils les avaient imprimés, à condition qu'il sera mis deux exemplaires dudit livre dans notre bibliothèque publique, et un autres en celle de notre très cher et féal le sieur Séguier Chevalier, Chancelier de France, autant que pouvoir exposer ledit livre en vente, à peine de nullité des présentes. Du contenu desquelles Nous voulons et vous mandons que vous fassiez jouir et user pleinement et paisiblement ledit exposant, ou ceux qui auront charge de lui, faisant cesser tous troubles et empêchements si aucuns leur étaient donnés. Voulons aussi qu'en mettant au commencement ou à la fin dudit du livre un extrait des présentes, elles soient tenues pour dûment signées, et que foi y soit ajoutée comme à l'original. Mandons en outre au premier de notre huissier ou sergent sur ce requis, de faire pour l'exécution des présentes tous exploits nécessaires, sans demander autre permission : Car tel est notre bon plaisir, nonobstant Clameur du Haro, Charte Normande, prise à partie, et lettres à ce contraires. Donné à Paris le 20ème jour d'avril l'an de grâce mille six cent trente six, et de notre règne le vingt-sixième. Par le Roi en son Conseil, CHAPELAIN Et le dit SOMMMAVILLE associé avec lui audit privilège TOUSSAINT QUINAT, aussi marchand libraire, suivant l'accord fait entre eux.Achevé d'imprimé le 28 mai 1636. Les exemplaires ont été fournisÀ Paris, chez ANTHOINE DE SOMMAVILLE, au Palais, dans le Petite Salle, à l'Écu de France.
+
+
+
+# À MONSEIGNEUR L'EMINENTISSIME CARDINAL DUC DE RICHELIEU.
+
+ODE
+Filles à Richelieu si chères,  
+Muses, chastes sœurs du Soleil,  
+Priez cet astre sans pareil  
+D'ouvrir l'oreille à mes prières.  
+En cette agréable saison  
+Où les fleurs rompent la prison  
+De l'élément qui les enserre,  
+Il peut faire, par ses chaleurs,  
+A mon esprit comme à la terre  
+Produire de nouvelles fleurs.  
+Ses forces ne sont pas bornées  
+Par les été et les hivers,  
+Il n'est pas moins père des vers  
+Que des saisons et des années.  
+Sa vertu s'étend plus avant  
+Qu'à donner des jouets au vent  
+Et faire des fleurs et des herbes.  
+C'est elle qui fait les métaux;  
+Et les Ronsards et les Malherbes  
+Se content parmi ses travaux.  
+Mais toi, grand démon de la France,  
+Autre soleil de notre temps,  
+Qui donnes d'un si beau printemps  
+Une si parfaite espérance,  
+Richelieu, rare effort des deux,  
+Juste étonnement de ces lieux,  
+Si tu daignes prendre la peine  
+De jeter un regard sur moi,  
+Quel Apollon peut à ma veine  
+Être plus Apollon que toi ?  
+Pour toi, grand duc, elle est ouverte,  
+C'est pour toi qu'elle veut couler ;  
+Ma nef, commençons de cingler,  
+Puisque notre Ourse est découverte.  
+Je sais bien que sur cette mer  
+Il est malaisé de ramer :  
+Aussi n'est-il point de voyage  
+Qui mérite un si grand effort,  
+Et nous ferons un beau naufrage,  
+Ou nous trouverons un beau port.  
+Tel qu'on voit en son écliptique  
+Le brillant prince des saisons,  
+Le long de ses douze maisons  
+Continuant sa course oblique  
+(Quoi que son char n'arrête point),  
+Ne passer d'un pas ny d'un point  
+Les espaces de sa carrière,  
+Et recevoir si constamment  
+Du lieu d'où lui vient sa lumière  
+Les règles de son mouvement.  
+Tel on voit ton savant génie  
+Au service de notre roi  
+Conduire d'une égale foi  
+Toutes les choses qu'il manie.  
+On ne voit sa sincérité  
+Gauchir d'un ni d'autre côté,  
+Quoi que jamais il ne repose,  
+Et dans ses travaux inouïs  
+L'unique but qu'il se propose  
+Est la volonté de Louis.  
+Tes pas restreints en ces limites  
+Ne savent point d'autre sentier ;  
+Là tu mets ton esprit entier,  
+Là tu bornes tous tes mérites.  
+Là sont par les difficultés  
+Tes hauts desseins sollicités ;  
+Là ton ardeur rompt touts obstacles,  
+Et produit de si grands effets,  
+Que qui ne croit point aux miracles  
+Doit douter de ce que tu faits.  
+Ceux qu'on a vu de notre barque  
+Devant toi régir le timon  
+Ont aussi peu laissé dé nom  
+Que leur vertu laissa de marque.  
+Ou leur zélé s'est trouvé faux,  
+Ou leur savoir eut des défauts,  
+Et tous ont joint si peu de gloire  
+À la beauté des fleurs de lys  
+Qu'ils furent, eux et leur mémoire,  
+En même jour ensevelis.  
+Mais, Armand, loin de complaisance,  
+Quels éloges n'ont mérité  
+Et ton extrême probité ,  
+Et ton extrême suffisance?  
+Jusqu'où n'a-t-on vu ton ardeur  
+De nos lys étendre l'odeur,  
+Et qui de leurs tiges sacrées  
+Peut si loin que toi repousser  
+L'insolent souffle des Borées  
+Qui tâchent de les renverser ?  
+Ô combien du siècle où nous sommes  
+Seront de siècles envieux !  
+Sois-tu de la race des dieux,  
+Ou sois-tu de celle des hommes,  
+Que les grands succès de tes soins  
+Ont d'irréprochables témoins !  
+Que ta gloire est haut établie !  
+Et que le vieux père des ans, .  
+Avant qu'il face qu'on t'oublie,  
+Dévorera de ses enfants !  
+Je sais bien que nos maladies  
+N'ont pas encor atteint leur fin,  
+Et que notre mauvais destin  
+Médite encor des tragédies.  
+Mais, si tu nous veux conserver,  
+Il ne les saurait achever,  
+Et, quelque mal qui nous assaille,  
+Nous ne pouvons avec raison  
+Où tel Esculape travaille  
+Douter de notre guérison.  
+Il n'est force qui ne succombe  
+Quand elle nous voudra heurter :  
+Quelque foudre peut éclater,  
+Mais tu ne crains pas qu'elle tombe.  
+Outre que nos moindres guerriers  
+Sont couverts de trop de lauriers  
+Pour appréhender le tonnerre,  
+Les grands appareils que tu faits  
+Sont des menaces à la guerre  
+Du proche retour de la paix.  
+Quel plus beau séjour que la France  
+Alors pourra charmer les yeux!  
+Et combien lui viendra des deux  
+Et de repos et d'abondance !  
+L'hiver, courant d'un pas léger,  
+De peur de la désobliger,  
+N'y tiendra qu'un mois son empire.  
+Après renaîtront les beaux jours,  
+Et nous verrons cinq mois Zéphyr  
+En l'entretien de ses amours.  
+De l'or d'une perruque blonde  
+La terre en fin se parera,  
+Toute grosse qu'elle sera  
+De l'aliment de tout le monde ;  
+Et, lors que pour se soulager  
+Elle se voudra décharger,  
+Nous n'aurons arbre ni javelle  
+D'où ne tombent tant de trésors,  
+Qu'à peine encor soutiendra-t-elle  
+Tout ce qu'elle aura mis dehors.  
+Bientôt de tes ardentes veilles  
+Nous naîtra ce siècle doré,  
+Où tu seras considéré  
+Comme auteur de tant de merveilles.  
+Lors d'un long bruit en ta faveur,  
+Poussé d'une sainte ferveur,  
+Ta litière sera suivie,  
+Et, si le Ciel entend nos voeux,  
+Il te conservera la vie,  
+Pour le siècle de nos neveux.  
+Ô toi, puissance tutélaire,  
+Qui, mise de la main de Dieu  
+A la garde de Richelieu,  
+Portes le flambeau qui l'éclaire,  
+Saint ministre qui tiens chez lui  
+La même place qu'aujourd'hui  
+Il occupe en cette province,  
+Sauve-le de tout accident,  
+Puis qu'il n'est mal-heur où mon prince  
+Pût tant perdre qu'en le perdant.  
+ROTROU.
+
+À MONSEIGNEUR MONSEIGNEUR L'EMINENTISSIME CARDINAL DUC DE RICHELIEU
+
+
+
+# MONSEIGNEUR,.
+
+Il aurait été avantageux à Hercule que vos gardes lui eussent dénié l'entrée de votre cabinet, ils lui auraient épargné la honte détrembler ; et de rougir, tout déifié qu'il est, lui qui n'étant encor que mortel ne sut jamais connaître la peur. Il s'oublie soi-même à l'abord de VOSTREEMINENCE, et reconnaît, MONSEIGNEUR,que vous faites aujourd'hui l'histoire dont Il n'a fait que la fable ; mais vous l'avez flatté d'une espérance capable de le rassurer, et vous abaissez si courtoisement les yeux sur les choses qui sont au dessous de vous, que sa honte est déjà passée, et qu'il préfère à son immortalité l'honneur qu'il va recevoir de vivre chez vous. Je supplie très humblement VOSTREEMINENCE,MONSEIGNEUR,de souffrir qu'il vous parle de moi, et d'agréer les adorations de la moindre mais de la plus passionnée de vos créatures. C'est tout ce que je demande à ma fortune que d'être souffert de VOSTRE EMINENCE en cette qualité, et c'est le bien sans lequel je renoncerais à tous les autres. Ce ne lui sera pas un petit ouvrage, vu le peu que je suis et que je vaux. Mais, MONSEIGNEUR, si je n'ai pas assez de mérite, vous avez assez de bonté, et vous estes trop généreux pour m'ôter jamais l'incomparable faveur que vous m'avez continuée depuis trois ans de permettre que je me qualifie,
+
+MONSEIGNEUR, De Votre Éminence, Le très humble, très obéissant et très obligé serviteur,
+
+ROTROU.
+
+
+# .
+
+Sur son Hercule Mourant.
+
+Ton Hercule mourant ta va rendre immortel,
+
+Au ciel comme en la Terre, il publiera ta gloire,
+
+Et laissant ici bas un temple à ta Mémoire,
+
+Son bûcher servira, pour te faire un Autel.
+
+MAGD. BEJART
+
+
+# ACTEURS.
+ – HERCULE.
+ – DÉJANIRE, femme d'Hercule.
+ – IOLE, maîtresse d'Hercule.
+ – LUCINDE, suivante de Déjanire.
+ – ARSIDÉS, esclave d'Arcas.
+ – ARCAS, ami d'Iole.
+ – PHILOCTÈTE, confident d'Hercule.
+ – AGIS, confident d'Hercule.
+ – ALCMÈNE, mère d'Hercule.
+ – LICHAS, valet de Déjanire.
+
+
+# ACTE I.
+
+
+## SCÈNE PREMIÈRE.
+
+    HERCULE.
+Puissant moteur des cieux, ferme appui de la terre,  
+Seul être souverain, seul maître du tonnerre,  
+Goûte enfin, roi des dieux, le doux fruit de mes faits,  
+Qui par tout l'univers t'ont établi la paix ;  
+J'ai d'entre tes sujets la trahison bannie,  
+J'ai des rois arrogants puni la tyrannie,  
+Et rendu ton renom si puissant et si beau  
+Que le foudre en tes mains n'est plus qu'un vain fardeau.  
+Des objets de ton bras le mien est l'homicide,  
+Et tu n'as rien à faire après les faits d'Alcide ;  
+Tu n'as plus à tonner ; et le ciel toutefois  
+M'est encor interdit après tous ces exploits.  
+Parais-je encor un fils indigne de mon père ?  
+Junon n'a-t-elle pas assouvi sa colère ?  
+N'a-t-elle point assez, par son aversion,  
+Fait paraître ma force et mon extraction ?  
+N'ai-je pas sous mes lois asservi les deux pôles ?  
+Et celui dont le ciel charge tant les épaules,  
+Et sur qui ce fardeau repose pour jamais,  
+Ne me peut-il porter avec ce rude faix ?  
+Ainsi que mes exploits, rends ma gloire parfaite ;  
+La Parque t'a remis le soin de ma défaite,  
+Et, de quelques efforts qu'elle attaque mes jours,  
+L'impuissante qu'elle est n'en peut borner le cours  
+L'air, la terre, la mer, les infernales rives,  
+Laissent enfin ma vie et mes forces oisives ;  
+Et, voyant sans effet leurs monstres abattus,  
+Ces faibles ennemis n'en reproduisent plus.  
+Père de la clarté, grand astre, âme du monde,  
+Quels termes n'a franchi ma course vagabonde ?  
+Sur quels bords a-t-on vu tes rayons étalés  
+Où ces bras triomphants ne se soient signalés ?  
+J'ai porté la terreur plus loin que ta carrière,  
+Plus loin qu'où tes rayons ont porté ta lumière.  
+J'ai forcé des pays que le jour ne voit pas,  
+Et j'ai vu la nature au-delà de mes pas.  
+Neptune et ses tritons ont vu d'un il timide  
+Promener mes vaisseaux sur leur campagne humide ;  
+L'air tremble comme l'onde au seul bruit de mon nom  
+Et n'ose plus servir la haine de Junon.  
+Mais qu'en vain j'ai purgé le séjour où nous sommes ;  
+Je donne aux immortels la peur que j'ôte aux hommes.  
+Ces monstres, dont ma main a délivré ces lieux,  
+Profitent de leur mort, et s'emparent des cieux.  
+Le Soleil voit par eux ses maisons occupées,  
+Sans en être chassés ils les ont usurpées.  
+Ces vaincus, qui m'ont fait si célèbre aux neveux,  
+Ont au ciel devant moi la place que j'y veux ;  
+Junon, dont le courroux ne peut encor s'éteindre,  
+En a peuplé le ciel pour me le faire craindre.  
+Mais, qu'il en soit rempli de l'un à l'autre bout,  
+Leurs efforts seront vains, ce bras forcera tout.  
+D'une seule beauté le pouvoir redoutable  
+Ôte à ce coeur si grand le titre d'indomptable,  
+Iole seulement le pouvait asservir,  
+Et ce lâche à ce nom d'aise se sent ravir.  
+Allons voir si le temps ne l'a point résolue  
+A rendre par ses voeux ma conquête absolue,  
+Et si je dois enfin... Mais que mal à propos  
+Cet objet importun vient troubler mon repos !  
+
+
+## SCÈNE II. Déjanire, Hercule.
+
+    DÉJANIRE.
+Enfin Iole est votre, et ses caresses prêtes  
+De gloire et de plaisir vont combler vos conquêtes ;  
+lole glorieuse attend, les bras ouverts,  
+Ce héros qui sous soi fait trembler l'univers.  
+Le servage est pour elle une heureuse victoire,  
+Son pays déconfit altère peu sa gloire,  
+Et, voyant par vos mains ses parents expirer,  
+Elle songe bien plus à vous voir qu'à pleurer.  
+Elle a vu sans regret sa province déserte ;  
+Elle aimait le vainqueur et méprisait sa perte.  
+
+    HERCULE.
+Jamais perte aux vaincus n'a tant coûté de pleurs,  
+Son esprit fut troublé, son teint perdit ses fleurs ;  
+Et jamais une mort ne fut tant regrettée,  
+Qu'Iole a regretté la perte d'Euritée.  
+
+    DÉJANIRE.
+Mais combien de transports ont suivi ses regrets ;  
+Combien elle a pour vous poussé de voeux secrets ;  
+Qu'elle a baisé de fois cette main qui l'enchaîne,  
+Et de combien sa joie a surpassé sa peine !  
+
+    HERCULE.
+Que vos jaloux soupçons offensent sa vertu ?  
+Un fort ne se rend point qui n'est point combattu.  
+Jamais d'un seul regard, jamais d'une parole  
+Je n'ai sollicité les caresses d'Iole.  
+Ôtant à ses parents la lumière du jour,  
+J'ai vengé mon honneur, et non pas mon amour.  
+Je ne vous fais nommée aimable ni charmante ;  
+Je la mène en captive, et non pas en amante.  
+
+    DÉJANIRE.
+Quel timide respect à votre amour est joint !  
+Ce qui vous plaît est juste et vous ne faillez point.  
+Vous celez sans sujet cet aimable servage,  
+Et le déguisement trahit votre courage.  
+Quoi ! Vous n'avouez pas un amoureux dessein ?  
+Ma curiosité vous met la peur au sein ;  
+Et ce que n'ont pas fait tous les monstres du monde,  
+Ce qu'ont en vain tenté l'enfer, la terre et l'onde,  
+De mettre en votre esprit le moindre étonnement,  
+Une femme le fait, et si facilement !  
+Contentez, grand héros, votre amoureuse envie,  
+Et ne contraignez point une si belle vie ;  
+Hercule oblige trop de n'aimer qu'en un lieu ;  
+Pour un objet mortel, c'est trop qu'un demi-dieu ;   [1]
+C'est trop que jusqu'à nous Hercule se ravale ;  
+Et, que je le partage avec une rivale,  
+Quelque nouvel objet qui le puisse toucher,  
+Hercule divisé m'est encore trop cher.  
+
+    HERCULE.
+Cruelle, pour témoins de mon amour extrême,  
+Je t'offre seulement tes attraits et toi-même ;  
+Ces traits de tant d'amants autrefois révérés,  
+Que toute l'Oetolie a naguère adoré,  
+Et qui blessent encor tant d'âmes étrangères,  
+Penses-tu qu'ils m'aient fait des blessures légères,  
+Et qu'on puisse guérir de l'aimable tourment  
+Que tes yeux ont fait naître en l'esprit d'un amant ?  
+Non, perds ces faux soupçons et que ta crainte meure ;  
+Cependant, mon souci, soigne que dans une heure  
+Cet holocauste pur que je choisis hier  
+Soit conduit à l'autel prêt à sacrifier ;  
+Lichas y portera l'ornement nécessaire  
+À parler et paraître à l'aspect de mon père.  
+L'Oetolie à la fin soumise à mon pouvoir,  
+Et son tyran défait, m'oblige à ce devoir.  
+Il s'en va.
+
+
+    DÉJANIRE, SEULE.
+Ha, traître ! ha, déloyal ! Que d'une vaine feinte  
+Tu me veux déguiser le sujet de ma crainte !  
+Non, non, je ne suis plus cet objet si charmant  
+Qui força l'inconstance à l'aimer constamment,  
+Qui fit d'un infidèle un amant véritable,  
+Qui s'acquit sur tes sens un pouvoir redoutable...  
+Qui te fut préférable au reste des humains,  
+Et qui fit contre Nesse armer tes fières mains.  
+Le temps, qui forme tout, change aussi toutes choses ;  
+Il flétrit les oeillets, il efface les roses,  
+Et ces fleurs dont jadis mon visage fut peint  
+Ne sont plus à tes yeux qu'un triste et pâle teint,  
+Iole a sur le sien l'ornement nécessaire  
+À faire de ton coeur un lâche tributaire.  
+L'âge lui laisse encor les appas que tu veux,  
+Et sa jeunesse enfin me dérobe tes voeux ;  
+Mais son espoir est vain, et le cours de cet âge  
+Qui m'ôte des attraits me laisse du courage.  
+Si ma force n'est vaine en cette occasion,  
+Je paraîtrai ta femme à ta confusion ;  
+Ta vie, en la fureur dont j'ai l'âme enflammée,   [2]
+Trame un pire lion que celui de Némée,  
+Et ma jalouse humeur t'est un monstre plus fort   [3]
+Que tous ceux dont tes bras ont accourci le sort.  
+
+
+## SCÈNE III. Hercule, Iole.
+
+    HERCULE, APPUYÉ SUR LES GENOUX D'IOLE, QUI TRAVAILLE EN TAPISSERIE.
+Qu'avec moins de travail les mains de la nature  
+Ont bien mis sur ton teint de plus douces peintures !  
+Attends qu'au naturel je figure ces lys  
+Dont elle a ton beau sein et ton front embellis ;  
+Que tu serais charmée, et qu'en ce beau visage  
+Je prendrais le dessein d'un agréable ouvrage !  
+Si je gâte ces fleurs, tu les peux corriger,   [4]
+Ton aiguille à mes doigts est un faix bien léger ;  
+Mais ne t'oppose point à ce jeune caprice,  
+Qu'ils aient avec tes mains un commun exercice,  
+Ou, si ce passe-temps, mon coeur, t'est importun,  
+Que nos yeux aient au moins un passe-temps commun ;  
+Réponds d'un peu d'amour à l'ardeur qui m'enflamme,  
+Et rends-moi les regards que te porte mon âme ;  
+Cruelle ! Hercule ici réclame ton pouvoir,  
+Et tes yeux inhumains dédaignent de le voir.  
+Qu'un regard seulement !  
+
+    IOLE.
+        Ô requête sévère !  
+De quel il puis-je voir le meurtrier de mon père ?  
+J'ai vu, cruel, j'ai vu ce cher corps que je plains  
+Tomber dessous l'effort de vos barbares mains ;  
+Je l'ai vu sous vos coups étendu sur la terre,  
+Finir ses tristes jours et cette injuste guerre.  
+Heureuse si nos corps n'eussent eu qu'un cercueil,  
+Si nous n'eussions tous deux causé qu'un même deuil !  
+
+    HERCULE.
+J'ai plaint à ton sujet le succès de mes armes ;  
+Mais de ton propre mal n'accuse que tes charmes :  
+Iole a fait le meurtre, et son malheur est tel  
+Qu'elle a seule en son sein porté le coup mortel ;  
+Iole, qu'il niait à ma juste requête,  
+Fut l'objet et sera le prix de ma conquête ;  
+Parce que j'aimais trop, je fus un peu cruel,  
+Et ta seule beauté causa notre duel.  
+
+    IOLE.
+Ô cruelle beauté ! Trompeuse ! Image vaine !  
+Que le Ciel m'a vendue au prix de tant de peine,  
+Quelle misère encor me dois-tu procurer,  
+Et combien de malheurs ai-je encor à pleurer ?  
+
+    HERCULE.
+Tu seras plus contente étant plus amoureuse.  
+Quoi ! Possédant Hercule, Iole est malheureuse !  
+Et, tenant dans ma couche un légitime lieu,  
+Elle regrettera d'être fille d'un dieu !  
+
+    IOLE.
+Moi, la fille d'un dieu ! Non, non, que Déjanire  
+Sur vos affections conserve son empire ;  
+Ne traitez qu'en captif ce misérable corps  
+Dont la fausse apparence a causé tant de morts ;  
+Troublez ces yeux d'effroi, chargez ces mains de chaînes,  
+Et que chaque moment renouvelle mes peines ;  
+Après un siècle entier d'ennuis et de prison,  
+Ordonnez moi le fer, la flamme et le poison.  
+Je ne murmure plus du mal qui me consume,  
+Mais vos plus doux baisers auraient de l'amertume ;  
+Baiser de mon pays l'injuste conquérant,  
+Caresser, l'assassin de mon plus cher parent,  
+Et, sans que mes esprits incessamment s'altèrent,  
+Sentir entre mes bras les bras qui l'étouffèrent ;  
+Non, non, prières, pleurs, force ni cruauté,  
+Ne peuvent m'obliger à cette lâcheté.  
+
+    HERCULE.
+N'excite point, cruelle, un courroux légitime  
+Qui ne distinguerait innocence ni crime,  
+Et crois que me déplaire est le pire péché  
+Dont jamais ton esprit pourrait être tâché.  
+Quoi ! Toute chose cède à ma force indomptée,  
+Les lions les plus forts ne l'ont pas évitée,  
+Et je ne pourrais pas amollir ta rigueur ?  
+Et je reconnaîtrais un si faible vainqueur ?  
+Je nourrirais sans fruit le brasier qui me brûle,  
+Et l'on dirait : « Iole a triomphé d'Hercule ! »  
+Non, non, de ta beauté mon coeur sera le prix ;  
+Mais, cédant aux attraits, je vaincrai les mépris.  
+
+    IOLE.
+Le plus fier ennemi, quelque ardeur qui l'enflamme,  
+Dompte malaisément ce qui dépend de l'âme ;  
+Un tyrannique empire et d'injustes efforts  
+Ont soumis à vos lois ce misérable corps.  
+Mais, sous quelque tyran que ce captif respire,  
+Un heureux désespoir en peut ôter l'empire ;  
+Mourant, il peut franchir cette barbare loi,  
+Et, s'il ne s'aime pas, il est maître de soi.  
+
+    HERCULE, À GENOUX.
+Ha ! Voilà rebuter d'un mépris trop sévère  
+Celui qui t'aime seule et seule te révère !  
+Pardonne, belle Iole, à mon affection  
+Cette mauvaise humeur et cette émotion ;  
+Sois moi cruelle, ingrate, inhumaine, farouche,  
+L'amour peut arracher quelques mots de ma bouche,  
+Je puis bien d'injustice accuser tes appas,  
+Mais de t'outrager plus, Hercule ne peut pas.  
+Le Ciel dessus mon chef répande le supplice  
+Dont te peut menacer mon aveugle caprice,  
+Mon père en cet instant me voie avec horreur,  
+Et relance sur moi les coups de ma fureur.  
+
+    IOLE.
+Détournez donc ailleurs cette flamme lascive  
+Et ne croyez avoir en moi qu'une captive,  
+Puisque vos traitements, ou rigoureux ou doux,  
+Ni le temps qui peut tout, ne peuvent rien pour vous.  
+
+    HERCULE.
+Je vaincrai ta rigueur par d'invincibles armes,  
+Hercule s'instruira de l'usage des larmes ;  
+Hercule en même temps saura vivre et mourir,  
+Et s'oubliera soi-même afin de t'acquérir.  
+
+
+## SCÈNE I.. Déjanire, Iole, Hercule.
+
+    DÉJANIRE.
+Quel signe en faut-il plus ? Le voila, le perfide  
+Sur qui si puissamment une esclave préside ;  
+J'ai trop, hélas ! J'ai trop leurs secrets reconnus,  
+J'ai surpris ce grand Mars avecque sa Vénus.  
+
+    HERCULE.
+Ô la femme importune !  
+
+    DÉJANIRE.
+        Adieu, ma compagnie  
+Ne vous apporte pas une joie infinie ;  
+L'amour est avec vous, et cet enfant honteux  
+N'aime pas les témoins et se taît devant eux.  
+
+    HERCULE.
+Il est vrai, mais au moins vois devant ta sortie  
+Quelle âme de ces yeux se serait garantie :  
+As-tu vu des vainqueurs plus dignes de régner,  
+Et pourquoi la raison se dût moins épargner ?  
+Vois comme sans parler cette agréable bouche  
+Appelle mes baisers et dit que je la touche !  
+Vois que sur ce beau sein les lys à peine, éclos  
+Accusent cette main d'un stupide repos !  
+Vois si tu dois tenir ma défaite douteuse  
+Et si la continence ici n'est pas honteuse,  
+Si je dois tant souffrir près d'un si beau secours.  
+
+    DÉJANIRE, S'EN ALLANT.
+Madame est plus charmante encor que vos discours.  
+
+    HERCULE.
+Adieu, plains-toi, jalouse, et de cette aventure  
+Accuse, si tu veux, le Ciel et la nature ;  
+Appelle lâcheté, faiblesse, trahison,  
+L'agréable tourment qui trouble ma raison ;  
+Je suis traître, volage, inconstant, infidèles  
+Je suis ce qu'il te plaît, mais j'aime cette belle.  
+Hercule est glorieux de sa captivité,  
+Et sous de si beaux fers il hait sa liberté.  
+
+    IOLE.
+D'où naît mal à propos cette inutile peine,  
+Qui mettra parmi vous la discorde et la haine ?  
+Usez, brave héros, de votre autorité  
+Contre ces ennemis de votre liberté ?  
+Arrachez de ces mains les yeux qui vous captivent,  
+Laissez vous du repos à ceux qui vous en privent ?  
+Perdez ce qui vous perd, pourquoi différer tant ?  
+Ordonnez que je meure, et vous vivrez content.  
+
+    HERCULE.
+Le temps et les devoirs rendent enfin traitable  
+La plus farouche humeur et la plus indomptable.  
+
+    IOLE.
+Le temps et les devoirs, employés vainement,  
+Joindraient à vos regrets la honte seulement.  
+
+    HERCULE.
+Le plus ferme souvent manque à ce qu'il propose,  
+Et la force au besoin m'obtiendra toute chose.  
+
+    IOLE.
+Ma mort peut empêcher ce honteux accident,  
+Et le désespéré se sauve en se perdant.  
+
+    HERCULE.
+Quel malheur m'a rendu ton humeur si sévère ?  
+
+    IOLE.
+La perte d'Oechalie et la mort de mon père.  
+
+    HERCULE.
+Ingrate, dis plutôt la perte de ton coeur.  
+Arcas te le ravit, Arcas en est vainqueur,  
+Et la foi que je veux, ce captif l'a reçu.  
+Mais apprends en deux mots quelle en sera l'issue :  
+Demain, si je n'obtiens la faveur que je veux,  
+J'immole à mon courroux cet objet de tes voeux ;  
+Ce beau fils, ce mignon, ton âme et tes délices,  
+À tes yeux égorgé, payera mes services.  
+Consulte là-dessus.  
+
+    IOLE, SEULE.
+        Ô rage ! Ô cruauté !  
+Quel avis dois-je suivre en cette extrémité ?  
+
+
+# ACTE II.
+
+
+## SCÈNE PREMIÈRE.
+
+    LUCINDE.
+Dieux ! Que la jalousie en un jeune courage,  
+Alors qu'on aime bien, est une extrême rage !  
+L'Afrique en ses déserts ne présente à nos yeux  
+Rien de si redoutable et de si furieux.  
+Si tôt que ce jeune astre aux regards de la reine  
+Exposa sa clarté si belle et si sereine,  
+Aussitôt qu'à ses yeux Iole se fit voir,  
+Bien loin de se contraindre et de la recevoir,  
+Avec bien plus de cris et bien plus enragée  
+Que Niobe autrefois sur la rive d'AEgée,  
+Par son geste confus figurant son tourment,  
+Elle a tous nos esprits saisis d'étonnement ;  
+Elle court sans dessein, et sa course rapide  
+Cent fois a fait trembler tout le palais d'Alcide.  
+Elle renverse tout, rompt tout, et sous ses pas  
+La maison est étroite et ne lui suffit pas.  
+Sa pâleur fait juger du mal qui la possède,  
+La rougeur tôt après à la pâleur succède ;  
+Elle verse des pleurs, et dans le même instant  
+Du feu sort de ses yeux qui les sèche en sortant ;  
+En diverses façons son visage s'altère,  
+De moment en moment de soi-même il diffère.  
+Elle plaint, elle crie, et partout sa fureur  
+Excite la pitié, la tristesse et l'horreur.  
+Mais on ouvre ; c'est elle, ô dieux ! De quelle sorte  
+Elle court furieuse où sa rage la porte !  
+
+
+## SCÈNE II. Déjanire, Lucinde.
+
+    DÉJANIRE, FURIEUSE.
+D'où que de tes rayons les cieux soient éclairés,  
+Quelque endroit où tu sois en ces champs azurez,   [5]
+Épouse de Jupin, contente ma colère,  
+Ton intérêt est joint à ma juste prière.  
+Ô Junon ! perds ce traître, envoyé un monstre ici,  
+Qui, te satisfaisant, me satisfasse aussi.  
+S'il est quelque serpent, horrible, épouvantable,  
+Capable d'étouffer ce vainqueur redoutable,  
+Et qu'à cette action tu puisses provoquer,  
+Qu'il vienne, qu'il paraisse, et qu'il l'aille attaquer.  
+Ou, s'il n'est point de monstre assez fort pour ta haine,  
+Fais moi capable d'être et son monstre et sa peine ;  
+Change, si tu peux tout, ma figure, et rends moi  
+Telle qu'on peint l'horreur, et la rage, et l'effroi ;  
+Pourquoi perds-tu du temps à tirer de la terre  
+Un monstre nécessaire à lui faire la guerre ?  
+Pourquoi dans les enfers cherches-tu sans effet  
+Tout ce qu'ils ont de pire et ce qu'il a défait ?  
+Si je porte en mon sein de quoi te satisfaire   [6] [7]
+Et si j'ai là-dedans sa Parque et son Cerbère,  
+Tu trouveras en moi les armes qu'il te faut,  
+Prépare seulement mon bras à cet assaut ;  
+Qu'une fois cette main te soit officieuse,  
+Sers-toi d'une enragée et d'une furieuse.  
+Inspire moi, déesse, et m'enflamme le sein,  
+Seconde ma fureur en ce juste dessein.  
+
+    LUCINDE. [8]
+Madame, au nom d'Hymen et par ses flammes saintes,  
+Modérez vos ennuis et réprimez ces plaintes ;  
+Laissez à ces transports succéder le repos,  
+Paraissez Déjanire et femme d'un héros.  
+
+    DÉJANIRE.
+Qu'Hercule me trahisse, et qu'Iole me brave !  
+Qu'une jeune effrontée, une insolente esclave,  
+Dont le père a suivi ses peuples, déconfits,  
+Vienne en ce lieu donner des frères à mes fils,  
+Et, pour avoir charmé les yeux de ce perfide,   [9]
+Soit fille de Jupin et compagne d'Alcide !  
+Non, non, je lui vendrai mon honneur chèrement,  
+Ou je détournerai ce triste événement.  
+Qu'il dispose des cieux et des enfers ensemble,  
+Qu'au seul bruit de son nom toute la terre tremble,  
+Il excité en mes sens une rébellion,   [10]
+Pire que ses serpents, son hydre et son lion.  
+Une captive, ô dieux ! Partagera ma couche !  
+Souillé de ses baisers, il faut que je le touche ;  
+Il faudra que je perde ou divise son coeur,  
+Et les yeux d'une esclave ont vaincu ce vainqueur ?  
+Quand les monstres laissaient sa valeur endormie,  
+Voilà qu'il se présente une pire ennemie ;  
+Une seule captive en pouvait triompher  
+Et fait plus que le ciel, et la terre, et l'enfer ?  
+Il ne daigne à mes yeux cacher sa perfidie,  
+Et peut-être en son coeur déjà me répudie.  
+Ô cruel désespoir ! Ô sensible tourment !  
+Qui ne peut inventer un trop dur châtiment !  
+C'est trop délibérer, imagine une peine  
+Horrible, épouvantable, incroyable, inhumaine ;  
+Que de toi Junon même apprenne à se venger,  
+Et comment d'un grand mal on se doit soulager.  
+
+    LUCINDE.
+Dieux ! Que proposez-vous ? Quel crime épouvantable !  
+D'une telle fureur votre esprit est capable ?  
+En quels lieux inconnus ou du ciel ou du sort  
+Cacheriez vous le bras auteur de cette mort ?  
+Où vous souffrirait-on, si chacun le révère ?   [11]
+Et que ferait le foudre en la main de son père ?  
+
+    DÉJANIRE.
+Ma peur ne rendra pas ce perfide impuni ;  
+Si mon forfait est grand, mon mal est infini.  
+
+    LUCINDE.
+Le plus désespéré, voyant la mort, recule,  
+Et vous mourriez, Madame.  
+
+    DÉJANIRE.
+        Oui, mais femme d'Hercule,  
+Et mon il, de mes pleurs à chaque heure mouillé,  
+Ne verra pas mon lit honteusement souillé.  
+J'éteindrai de son sang avec ses sales flammes,  
+Les torches de l'hymen qui joignit nos deux âmes.  
+S'il redoute l'effet du dessein que je fais,  
+Qu'il ajoute ma mort au nombre de ses faits :  
+Qu'il croisse de ma perte encor sa renommée,  
+Qu'au rang de ses vaincus sa femme soit nommée !  
+Ces membres dénués de sang et de vigueur,  
+Mourant, embrasseront la couche du vainqueur ;  
+Pourvu que cette esclave expire à la même heure,  
+Je mourrai sans regret pourvu qu'Iole meure ;  
+On se perd doucement quand on perd ce qu'on hait,  
+Et qui tue en mourant doit mourir satisfait.  
+
+    LUCINDE.
+Hercule peut aimer cette jeune étrangère,  
+Mais brûler seulement d'une flamme légère,  
+Pour combien de beautés a-t-il eu de l'amour ?  
+Et pour combien aussi n'en a-t-il eu qu'un jour ?  
+
+    DÉJANIRE.
+Sa main peut en cent lieux mépriser sa conquête,  
+Mais ayant bien couru quelqu'une enfin l'arrête ;  
+Ayant pour l'acquérir tant d'efforts entrepris,  
+Crois, crois, que ce vainqueur conservera son prix.  
+À ses plus douces nuits Iole est destinée,   [12]
+Si je ne divertis ce fatal hyménée.  
+
+    LUCINDE.
+Imaginons d'ailleurs un salutaire effet  
+Qui dispense vos mains de tenter ce forfait ;  
+Détournons le dessein où son ardeur le porte,  
+Ruinant par magie une amitié si forte.  
+Je connais un vieillard dont les secrets divers  
+Ont fait naître des fleurs au milieu des hivers ;  
+Il trouble l'Océan, il fait trembler la terre,  
+Il peut d'un mot dans l'air arrêter le tonnerre ;  
+Il fait de cent rochers mouvoir les vastes corps ;  
+Il brise des cercueils et fait parler les morts.  
+Dessus tous les démons sa science préside,  
+Et ses enchantements pourront toucher Alcide.  
+
+    DÉJANIRE.
+Ha ! Quelle arme, Lucinde, et quel charme assez fort,  
+Peuvent sur son esprit faire un utile effort ?  
+Il ne peut par ses vers finir mon infortune  
+Quand il pourrait du ciel faire tomber la Lune,  
+Et, pour faire un miracle à nul autre pareil,  
+De son oblique cercle arracher le Soleil :  
+Mais apprend un secret...  
+
+    LUCINDE.
+    Quel ?  
+
+    DÉJANIRE.
+        Que je te vais dire,  
+Et que dans ce besoin mon souvenir m'inspire.  
+
+    LUCINDE.
+Dites.  
+
+    DÉJANIRE.
+        Écoute ; mais c'est en cette action  
+Que tu dois m'assurer de ton affection.  
+
+    LUCINDE.
+Madame, usez en tout de toute ma puissance,  
+Quand je pourrai pour vous l'employer sans offense.  
+
+    DÉJANIRE.
+Écoute : sous le temple, un peu loin du palais,  
+En un lieu que le jour ne visite jamais,  
+Vaste, sombre et profond, J'ai caché le remède  
+Qui peut seul alléger le mal qui me possède ;  
+Le sang d'un monstre affreux qu'Hercule a combattu,  
+Conservé dans sa corne, aura cette vertu.  
+
+    LUCINDE.
+De quel monstre ?  
+
+    DÉJANIRE.
+        De Nesse ; apprends quelle aventure  
+De ce fameux centaure a purgé la nature ;  
+Un jour, gaie et l'esprit plus content que jaloux.  
+Je suivais en Argos cet infidèle époux,  
+Quand, pensant approcher ce rivage d'Evene,  
+Ce fleuve débordé couvrait toute la plaine.  
+Nesse, qui s'y trouva, nous voyant consulter,  
+Se vint en ce besoin offrir à me porter.  
+Il me met sur sa croupe, où sa course rapide  
+Me rend à l'autre bout et m'éloigne d'Alcide.  
+Là ce monstre commence à bénir son destin :  
+« Vous serez, me dit-il, mon prix et mon butin ;  
+Ce grand, cet indompté, n'a plus de Déjanire. »  
+Moi, je crie à ces mots, je pleure, je soupire ;  
+Mais il rit de mes pleurs, et mes gémissements  
+N'empêchent point sa course et ses embrassements.  
+Hercule, qui nous voit écarter de la rive,  
+Quoi qu'il ne pût alors ouïr ma voix plaintive,  
+Reconnut aisément son lubrique dessein.  
+Il crie, appelle, court ; mais il travaille en vain ;  
+Ce monstre espérait bien par sa course légère  
+Éviter les effets de sa juste col7re.  
+Enfin, las de nous suivre et le voyant voler :  
+« Mes traits iront, dit-il, où je ne puis aller,  
+Ils t'ôteront la vie et ce que tu me voles. »  
+Il eut tiré plutôt qu'achevé ces paroles,  
+Et le monstre, aussitôt blessé mortellement :  
+« Je ne pouvais, dit-il, mourir plus noblement. »  
+Là, de ses fortes mains une corne il s'arrache,  
+Et pleine de son sang : « Tiens, me dit-il, et tache  
+Un de ses vêtements de ce sang précieux,  
+S'il est jamais blessé d'autres que de tes yeux.  
+Il aura la vertu de te rendre son âme,  
+Et le fera brûler de sa première flamme ;  
+Des mages ont prédit qu'au coeur le plus glacé  
+Il pourrait... » Là sa vie et sa voix ont cessé.  
+Il tombe, et ce grand corps couvre un si grand espace  
+Que six hommes ensemble occupent moins de place.  
+J'ai gardé ce présent, éprouvons s'il est tel,  
+Mouillons-en l'ornement qu'il doit prendre à l'autel ;  
+Ce sang, qu'à la couleur il pourrait reconnaître,  
+N'est plus qu'une eau rougeâtre et qui n'y peut paraître.  
+
+    LUCINDE.
+Essuyez donc ces pleurs et forcez ces soupirs.  
+Allons, et que le Ciel seconde vos désirs.  
+
+
+## SCÈNE III. Déjanire, Iole, Arsidès, Lucinde.
+
+    DÉJANIRE.
+Dieux ! Quel sort inhumain, pour augmenter ma peine,  
+Présente à mes regards cet objet de ma haine ?  
+
+    IOLE.
+Puisqu'à nos maux le Ciel refuse du secours,  
+Votre intérêt, Madame, est mon dernier recours.  
+Détournez votre affront, voilà cette captive  
+Qu'on est venu tirer de sa natale rive  
+Aux dépens de son bien et de tout son bonheur,  
+Et peut-être aux dépens même de son honneur.  
+Puisqu'Alcide l'attaque avec tant de licence,  
+Que vous seule pouvez embrasser ma défense,  
+Faites qu'Arcas et moi trouvions contre ses coups  
+Un asile assuré pour vous même et pour nous.  
+Rougissez de mon sang plutôt que de mon crime,  
+Ou que je sois l'objet d'un courroux légitime ;  
+Puisque mes pleurs sont vains et mes cris superflus,  
+Qu'il me voie en état de ne lui plaire plus.  
+Faites sa honte encor et son horreur plus grande,  
+Vous même portés lui ce coeur qu'il me demande ;  
+Forcez-le de rougir de sa déloyauté,  
+Et je serai tenue à votre cruauté.  
+
+    DÉJANIRE.
+Tu crois par ces discours, impudente, effrontée,  
+Prouver que vainement il t'ait sollicitée ;  
+Il te donne des voeux, il daigne de te voir,  
+Et tu veux sur sa honte établir ton pouvoir ;  
+Tu ne partages pas cette ardeur qui le brûle ,  
+Il te faut Jupin même, et c'est trop peu d'Hercule !  
+
+    IOLE.
+Ô Ciel ! Peux-tu souffrir les ennuis que je sens,  
+Si tes yeux sont ouverts dessus les innocents ?  
+
+    DÉJANIRE.
+Ô ! L'innocente humeur ! Âme double et traîtresse,  
+Tu portes sans orgueil le nom de sa maîtresse ?  
+Et tu n'achètes pas d'un amour infini  
+L'honneur de voir ton sort à son destin uni ?  
+Pour une indifférente Alcide se captive ?  
+Il souffre des refus, et sa flamme est oisive ?  
+Ne joins plus, insolente, à l'impudicité  
+Ces mépris orgueilleux et cette vanité,  
+Immole à ce brutal le plus beau de ton âge,  
+Triomphe à mes dépens de cet esprit volage,  
+Vois ce lâche vainqueur à ton pouvoir soumis :  
+Mais ne me fais point voir au moins mes ennemis,  
+Rends par eux seulement ta victoire certaine,  
+Tous tes regards ensemble y suffiront à peine ;  
+Ton visage qu'il prise est horrible à mes yeux,  
+J'appelle mes démons ce qu'il nomme ses dieux.  
+Nous trouvons ton abord différemment funeste ;  
+Lui comme un doux poison et moi comme une peste.  
+En ce qui m'épouvante il trouve des appas.  
+Elle s'en veut aller.
+
+
+    IOLE, PLEURANT ET LA RETENANT.
+Madame !  
+
+    DÉJANIRE, S'EN ALLANT.
+        Arrête, infâme, et ne suis point mes pas !  
+
+    IOLE, SEULE AVEC ARSIDÈS.
+Ô ciel ! Ô terre ! Ô dieux ! quelle est mon infortune  
+Que je serve d'objet à leur plainte commune !  
+Je déplais pour trop plaire, et, contre mon souhait,  
+Je vois que l'un m'adore et que l'autre me hait.  
+Leur haine et leur amour également m'outrage,  
+L'une plaint son affront, l'autre plaint son servage.  
+Tous deux sur mon honneur font un injuste effort ;  
+L'un le veut étouffer, et l'autre le croit mort.  
+De ma perte dépend leur commune allégeance ;  
+L'un prépare le crime, et l'autre la vengeance.  
+Iole, triste objet et de haine et d'amour,  
+Entre ces ennemis tu conserves le jour ?  
+Tu diffères la fin d'une vie importune  
+Et n'oses t'affranchir de mille morts par une ?  
+Veux-tu point voir Arcas à tes yeux égorgé ?  
+Attends-tu qu'en son sein le poignard soit plongé,  
+Et qu'il soit le butin d'une aveugle puissance,  
+Non pas pour ses forfaits, mais pour ton innocence,  
+Mon honneur seulement causera son trépas,  
+Et le crime qu'il fait, c'est que je n'en fais pas.  
+Arcas, roi de mes voeux et de mes destinées,  
+Agréable enchanteur de mes jeunes années,  
+Qu'ai-je à délibérer en ce péril pressant ?  
+Visitons, Arsidés, cet esclave innocent.  
+
+    ARSIDÉS.
+Si parmi ses ennuis on le peut reconnaître,  
+Cet objet de vos voeux paraît à la fenêtre.  
+Voilà ce beau captif de tant d'yeux adoré.  
+Comme dans ces prisons son teint s'est alteré !  
+
+
+## SCÈNE I.. Arcas, Iole, Arsidès.
+
+    ARCAS.
+Est-ce vous, mon soleil ? Quelle heureuse nouvelle  
+Recevrai-je aujourd'hui d'une bouche si belle ?  
+Que vient-elle annoncer au malheureux Arcas ?  
+
+    IOLE.
+La mort.  
+
+    ARCAS.
+        Et qui sera l'auteur de mon trépas ?  
+
+    IOLE.
+Moi-même.  
+
+    ARCAS.
+        Avancez donc, agréable meurtrière.  
+À cet heureux dessein joindrai-je la prière ?  
+Que vos beaux yeux soient las de me voir endurer,  
+C'est prolonger ma mort que de la différer,  
+Puisque j'ai commencé d'abandonner la vie  
+Depuis qu'à mon espoir Iole fut ravie ;  
+Depuis que sous Alcide il languit abattu,  
+Et qu'un vice puissant tient titre de vertu ;  
+Un tyrannique empire, un grand meurtre, un beau crime,  
+Une belle injustice établit son estime ;  
+Toute la Thessalie en parle avec transport,  
+Non parce qu'il fait bien, mais parce qu'il est fort.  
+Iole, tirez donc des mains de ce barbare  
+Celui qui vous aima d'une amitié si rare.  
+Exécutez sur moi ce bienheureux dessein,  
+Je baiserai le fer qui m'ouvrira le sein.  
+C'est ne me perdre pas, que me sauver d'Alcide,  
+Et c'est m'aimer beaucoup, qu'être mon homicide.  
+
+    IOLE.
+N'appelle, cher Arcas, dessein, ni cruauté,  
+Le malheureux effet d'une fausse beauté ;  
+Ce vainqueur insolent à sa brutale envie  
+Veut demain immoler mon honneur, ou ta vie,  
+Sachant que pour toi seul je conserve ma foi,  
+Il croit que ma vertu n'a point d'appui que toi,  
+Et qu'elle doit tomber aussitôt que mes larmes,  
+Quand tu rendras l'esprit sous l'effort de ses armes.  
+
+    ARCAS.
+Ô quel est mon bonheur ! Qu'en cette extrémité  
+Ma mort soit une preuve à votre honnêteté :  
+Madame, qu'à l'instant de cette fin sanglante,  
+De fers, ni de bourreaux, votre il ne s'épouvante ;  
+Apprenez par ma force à ne vous plaindre pas,  
+Songez à ma constance, et non à mon trépas,  
+Montrez un grand courage en un malheur extrême,  
+Et voyez mon tourment de même il que moi-même.  
+
+    IOLE.
+Non, jamais sur ton corps mes yeux ne pleureront,  
+Et mes mains, cher Arcas, les en dispenseront.  
+Alcide espère en vain, quelque effort qu'il propose,  
+Et qui sait bien mourir, sait vaincre toute chose.  
+Adieu, si par ma mort ce tyran ne se rend,  
+Et si tu dois mourir, nomme Iole en mourant ;  
+Là bas, si je t'ai plu, mon âme bien plus belle  
+Te rendra de ses voeux un conte si fidèle  
+Que tu n'auras objet ni plus cher, ni plus beau,  
+Et que tu béniras même notre bourreau.  
+
+
+# ACTE III.
+
+
+## SCÈNE PREMIÈRE. Hercule au Temple, Philoctète, Agis, Lychas.
+Le Temple s'ouvre.
+
+
+    HERCULE.
+Enfin, maître d'Iole et vainqueur d'Oechalie,  
+Où de si dignes faits ont ma gloire établie,  
+Où comme en tout le monde Hercule est révéré,  
+Où même des vaincus mon nom est adoré,  
+Mon père, qui guida mes armes légitimes,  
+Attend de mon devoir des voeux, et des victimes,  
+Que le taureau soit prêt quand j'aurai dans les cieux   [13]
+Poussé le zèle saint d'un coeur dévotieux.  
+Entretenez d'encens cette sainte fumée  
+Tant que soit par le feu l'offrande consumée.  
+À Philoctète.
+
+Toi, ceints de ce rameau ton front majestueux,  
+Et prête à ce devoir un il respectueux.  
+
+    PHILOCTÈTE.
+Priez que le repos couronne le mérite,  
+Qu'enfin de vos travaux la borne soit prescrite,  
+Et que la terre, en vous comprenant tous ses rois.  
+D'un zèle général se range sous vos lois.  
+
+    HERCULE.
+Oyez si mon esprit conçoit une prière  
+Séante dans ma bouche et digne de mon père.  
+Ils se mettent tous à genoux.
+
+Que ce globe azuré soit constant en son cours,  
+Qu'à jamais le soleil y divise les jours,  
+Que d'un ordre éternel sa sur brillante et pure  
+Aux heures de la nuit éclaire la nature ;  
+Que la terre donnée en partage aux humains  
+Ne soit jamais ingrate au travail de leurs mains ;  
+Que le fer désormais ne serve plus au monde  
+Qu'à couper de Cérès la chevelure blonde ;  
+Qu'une éternelle paix règne entre les mortels,  
+Qu'on ne verse du sang que dessus les autels ;  
+Que la mer soit sans flots, que jamais vent n'excite   [14]
+Contre l'art des Nochers le courroux d'Amphitrite,  
+Et que le foudre en fin demeure après mes faits  
+Dans les mains de mon père un inutile faix !  
+Se levant, il dit :
+
+Mais quelle prompte flamme en mes veines s'allume ?  
+Quelle soudaine ardeur jusqu'aux os me consume ?  
+Quel poison communique à ce linge fatal  
+La vertu qui me brûle ? Ô tourment sans égal !  
+Ouvre Enfer à mes cris tes cavernes profondes,  
+Prête contre ce feu le secours de tes ondes ;  
+Souffre Alcide là bas, non pas comme autrefois  
+Pour désarmer la Parque et ruiner ses lois,  
+Mais Alcide souffrant d'insupportables peines,  
+Et qui porte déjà les enfers dans ses veines.  
+Quoi ? Ce linge brûlant, à mon corps attaché,  
+Par mes propres efforts n'en peut être arraché ?  
+De moment en moment ce poison devient pire ?  
+Ô rage ! Ô désespoir ! Ô sensible martyre !  
+
+    PHILOCTÈTE.
+Quel est cet accident ?  
+
+    HERCULE.
+        Toi, funeste porteur  
+De ce présent fatal, apprends moi son auteur.  
+De qui l'as-tu reçu ?  
+
+    LICHAS.
+        Je le tiens de la reine.  
+
+    HERCULE.
+Ta mort sera ton prix, lâche objet de ma haine ;  
+Un traître ne pourra se vanter un moment  
+D'avoir fait endurer Alcide impunément.  
+Il prend sa massue et court après Lychas. Agis le suit.
+
+
+    PHILOCTÈTE, SEUL.
+Dieux ! Par quel accident, par quel malheur étrange,  
+L'implacable Junon sur Hercule se venge !  
+En toute occasion, à toute heure, en tout lieu,  
+Que n'a-t-elle tenté contre ce demi-dieu ?  
+Il ne peut éviter son aveugle colère  
+Et porte le péché des amours de son père.  
+Mais lui-même est coupable, et sa déloyauté  
+Aura porté la reine à cette cruauté.  
+La jalousie est pire en un jeune courage  
+Que monstres, que serpents, que pestes et que rage,  
+Et la mort qui suivra ce poison véhément  
+Sera le triste effet de son ressentiment.  
+
+
+## SCÈNE II. Hercule, Agis le suivant, Philoctète.
+
+    HERCULE, LAISSANT TOMBER SA MASSUE.
+Fais d'un rapide cours, prince de la lumière,  
+À tes chevaux ardents rebrousser leur carrière,  
+Qu'une ombre générale obscurcisse les airs,  
+Et ne fais point de jour alors que je le perds.  
+
+    AGIS.
+Ô Ciel !  
+
+    HERCULE.
+        Alcide meurt sans qu'en cette aventure,  
+Le chaos de retour confonde la nature !  
+La terre en cet effort est ferme sous mes pas !  
+Les astres font leur cours ! Le ciel ne se rompt pas !  
+Vois, Jupin, les effets d'un poison homicide,  
+Tu perds ta sûreté, lorsque tu perds Alcide,  
+La Thessalie encor peut fournir des Titans  
+Capables d'étonner tes plus fiers habitants,  
+De nouveaux Gérions et de nouveaux Typhées  
+Peuvent à tes dépens s'acquérir des trophées ;   [15]
+Encelade fendra ce pénible fardeau  
+Qui lui servit d'échelle et depuis de tombeau.  
+Si tu sais la terreur que mon nom seul leur donne  
+Juge combien ma mort ébranle ta couronne.  
+Préviens avec honneur ce honteux accident,  
+Romps ce qu'on t'ôterait, perds tout en me perdant,  
+Répands sur l'univers le mal qu'il te prépare,  
+Trouble les éléments, tonne, épuise Lypare,  
+Fais voir le monde en feu de l'un à l'autre bout,  
+Et ne fais qu'un brasier, mais qui consomme tout.  
+
+    PHILOCTÈTE.
+Mais vous, puisqu'en vous seul notre salut se fonde,  
+Conservez vous plutôt pour conserver le monde,  
+Et cherchez dans le sein de ce moite élément  
+Â cette extrême ardeur quelque soulagement.  
+
+    HERCULE.
+Ce fleuve m'a reçu dans ses grottes profondes,  
+Mais autour de mon corps j'ai vu bouillir ses ondes,  
+Et ce brasier est tel, dont je me sens atteint,  
+Qu'il peut tout enflammer et que rien ne l'éteint.  
+J'ai du sang de Lychas ces flammes arrosé,  
+Mais j'ai sur moi, sans fruit, ses veines épuisées,  
+Et ce tourment, qu'un Dieu ne pourrait supporter,  
+S'accroît par le secours que j'y veux apporter.  
+Moi qui d'un seul regard fais trembler les monarques,  
+Qui force les enfers, qui désarme les Parques,  
+Qui fus toujours vainqueur, je succombe à mon tour,  
+Et ce n'est pas un fer qui me prive du jour !  
+Pour sauver du mépris ma constance abattue,  
+Je ne puis exalter l'ennemi qui me tue ;  
+Je combats sans effet d'invisibles efforts,  
+Et ce n'est pas un mont qui m'écrase le corps.  
+Je me sens étouffer, je rends l'âme, et ma fosse  
+N'est pas sous Pelion, sous Olympe ou sous Osse,  
+Je doute de quel trait la mort touche mon coeur,  
+Je me trouve vaincu sans savoir mon vainqueur,  
+Et je meurs, ô malheur sur tous incomparable,  
+Sans pouvoir en ma mort faire un coup mémorable !  
+Ô Ciel ! Ô dieux cruels ! Ô sévère destin !  
+Ô d'une belle vie honteuse et lâche fin !  
+Une femme sans plus sera victorieuse  
+D'une si noble vie et si laborieuse !  
+S'il était résolu par les arrêts du sort  
+Que ce sexe impuissant fut auteur de ma mort,  
+La haine de Junon devait m'être funeste ;  
+C'est une femme aussi, mais son être est céleste.  
+Au lieu que je péris, non contre son souhait,  
+Mais par une autre qu'elle et même qu'elle hait.  
+Peux-tu, faible Junon, vanter cette journée  
+Et voir d'un il content finir ma destinée ?  
+Une autre a sur ma perte établi son bonheur,  
+Une mortelle main t'a ravi cet honneur,  
+Une femme à ta honte accomplit son attente,  
+Sa haine a son effet, la tienne est impuissante.  
+
+    AGIS.
+Ô dieux ! Quel changement, quelle noire couleur  
+Dessus ce front mourant figure sa douleur ?  
+Acquérez, grand héros, une dernière gloire,  
+Vous aurez tout vaincu gagnant cette victoire.  
+Par l'air, la terre et l'onde, assailli vainement,  
+Il vous reste à dompter le dernier élément ;  
+Un repos glorieux suivra ce long martyre,  
+Et vous avez vaincu quelque chose de pire.  
+
+    HERCULE.
+Plut à mon père, hélas ! Que ce malheureux corps  
+Du lion de Némée eût senti les efforts ?   [16]
+Que ne fut-il en proie au portier de l'Averne,  
+Ou que, n'expira-t-il sous le serpent de Lerne ?  
+Que n'ont tant de géants accourci mon destin ?  
+Que d'un centaure affreux n'ai-je été le butin ?  
+Que différait l'amour quand elle était si belle ?  
+Noble elle me fuyait. Honteuse elle m'appelle,  
+Parmi de beaux dangers elle évitait mes pas,  
+Afin de me priver d'un glorieux trépas.  
+Une femme exécute où Junon délibère,  
+Elle est pire que l'Hydre et pire que Cerbère ?  
+Je meurs, et sans mourir elle verra ma mort ?  
+Et j'épargne contre elle un légitime effort.  
+Ha ! C'est trop consulter, cours, malheureux Alcide,  
+Et pour dernier exploit défaits ton homicide ;  
+Mange son coeur jaloux, bois son perfide sang,  
+Et qu'entre tes vaincus elle ait le premier rang.  
+
+
+## SCÈNE III. Déjanire, Lucinde.
+
+    DÉJANIRE.
+Lucinde, quel effroi, quelles cruelles peines ?  
+Quelle horrible frayeur se glisse dans mes veines ?  
+Quel trouble, quelle horreur me dresse les cheveux ?  
+Chaque instant m'est un jour, tout objet m'est hideux.  
+Mon coeur épouvanté tremble, frémit, s'altère,  
+Cette frayeur en moi court d'artère en artère,  
+Et dans ce changement mon corps intempéré  
+Ne sent jointures, os, nerf, ni muscle assuré.  
+Ô d'un grand accident infaillible présage !  
+Ô vent impétueux, signe d'un grand orage !  
+Quand le Ciel une fois attaque un grand destin,  
+Il presse rarement qu'il n'étouffe à la fin ;  
+Les plus grands à ses coups sont de plus grandes butes,  
+Et les plus hauts palais font les plus lourdes chutes.  
+
+    LUCINDE.
+Ô dieux ! Quel fondement, quels sujets si pressants ?  
+Quel effroi si soudain altère ainsi vos sens ?  
+
+    DÉJANIRE.
+Las ! Apprends en deux mots quelle crainte me presse,  
+Je crains que le présent taché du sang de Nesse  
+À ce vaillant héros communique un poison  
+Qui cause le débris de toute sa maison.  
+Lorsque je t'ai quittée, et Lychas qui le porte,  
+Une obscure fumée au milieu de la porte  
+M'a fait baisser la vue, et j'ai vu sur le seuil,  
+Ô prodige ! Ô spectacle épouvantable à l'il !  
+Sous deux gouttes de sang par hasard répandues ,  
+Du bois se consumer et des pierres fendues ;  
+L'air en était obscur, la terre en écumait,  
+Le fer en était chaud et le bois en fumait...  
+Mais ce valet qui suit une incertaine route  
+Et qui marche à grands pas me tirera de doute.  
+
+
+## SCÈNE IV. Agis, Déjanire, Lucinde.
+
+    AGIS.
+Allez, courez, fuyez. Et quoi ! Madame, ô dieux !  
+Après cet accident vous restez en ces lieux ?  
+Hélas ! Si quelque route en ce danger extrême  
+Va plus loin que la terre et que l'Erèbe même,  
+Et dont Hercule encor n'ait aucun souvenir,  
+Courez, c'est le chemin que vous devez tenir.  
+
+    DÉJANIRE.
+Ô trop juste frayeur ! Ô sensible épouvante !  
+Parle, quel accident menace une innocente ?  
+
+    AGIS.
+Ce glorieux héros, l'honneur de l'univers,  
+La gloire et la terreur de ce siècle pervers,  
+Qu'en la place du dieu qui lance le tonnerre  
+Le destin des mortels avait mis sur la terre...  
+
+    DÉJANIRE.
+Et bien ?  
+
+    AGIS.
+    Il ne vit plus.  
+
+    DÉJANIRE.
+        Comment ! Hercule est mort ?  
+
+    AGIS.
+Une heure ou moins de temps achèvera son sort.  
+Il meurt par un poison dont la vertu funeste  
+Aura bientôt éteint la vigueur qui lui reste.  
+Sa chemise cachait ce poison dangereux  
+Dont une telle perte est l'effet malheureux.  
+Il se voit consommer et n'a plus de courage  
+Que pour votre ruine et pour servir sa rage.  
+Il court dans le palais, et, s'il atteint vos pas,  
+Tout le monde assemblé ne vous sauverait pas.  
+Lychas, dont il a pris la chemise fatale,  
+Déjà privé du jour, dans l'Erèbe dévale.  
+Il pleure, il tonne, il peste, et ses cris furieux  
+Percent jusqu'aux enfers et montent jusqu'aux cieux.  
+
+    DÉJANIRE.
+Hercule va quitter sa dépouille mortelle,  
+Et tu consultes, lâche, après cette nouvelle ?  
+Hercule va mourir, et ce coupable sein  
+Ne peut former encor qu'un timide dessein ;  
+Que diffère mon bras, et que tarde une épée  
+D'être en ce lâche coeur jusqu'aux gardes trempée ?  
+Cette main, cette main a donné le poison,  
+Le fils de Jupiter meurt par ma trahison ;  
+Ses yeux perdent le jour, et moi je le respire,  
+La main qui tue Hercule épargne Déjanire.  
+Toi, son père et son dieu, jette les yeux ici,  
+Et, puisque tu peux tout, sois son vengeur aussi.  
+Frappe ce lâche sein du trait de ton tonnerre  
+Le plus fort que jamais tu dardes sur la terre,  
+Et dont le pire monstre aurait été vaincu,  
+Si pour te soulager Alcide n'eut vécu ;  
+Lance dessus mon chef le même trait de foudre  
+Dont de tant de géants tu fis si peu de poudre,  
+Ou celui qui causa le funeste accident,   [17]
+D'un qui voulut du jour mener le char ardent.  
+Mais que veux-je du Ciel ; quoi ! La femme d'Hercule  
+Au chemin de la mort est timide, et recule,  
+Elle implore des dieux le moyen de mourir,  
+Et de sa propre main ne se peut secourir ?  
+Lâche, je permettrai qu'on m'impute le blâme  
+Qu'Hercule ait un vengeur plus zélé que sa femme :  
+Non, non, si sous le fer ce bras est engourdi,  
+Si pour fendre ce flanc il n'est assez hardi,  
+Que de cette montagne à tant d'autres fatale  
+Ce corps précipité jusqu'aux enfers dévale ;  
+Que mon sang sur ce mont fasse mille ruisseaux,  
+Qu'à ces pierres mon corps laisse autant de morceaux,  
+Qu'en un endroit du roc ma main reste pendue,  
+Et ma peau déchirée, en d'autres étendue ;  
+Une mort est trop douce, il la faut prolonger,  
+Et mourir d'un seul coup, c'est trop peu le venger.  
+
+    LUCINDE.
+Quittez en ce besoin ces regrets et ces plaintes,  
+Évitez de son bras les mortelles atteintes,  
+Ne vous consommez point d'un inutile ennui,  
+Sauvez, en le perdant, quelque chose de lui :   [18]
+Hylus l'ayant perdu, qu'il lui reste une mère,  
+Sauvez vous pour le fils de la fureur du père ;   [19]
+Cherchons un antre affreux où jamais le soleil...  
+
+    DÉJANIRE.
+Ô timide dessein ! Ô frivole conseil !  
+Prévenons bien plutôt qu'éviter sa venue,  
+Exposons lui ce sein et cette gorge nue :  
+Des monstres furieux il a borné le sort,  
+Et n'aurait pas vaincu la cause de sa mort.  
+Ô traître sang de Nesse ! Ô femme trop crédule !  
+De ne soupçonner pas un ennemi d'Hercule !  
+J'ai cru pour son malheur ce centaure inhumain,  
+Et j'ai pris des présents de sa barbare main.  
+
+    LUCINDE.
+Quoi ! Voulez-vous traîner en ce malheur funeste  
+Toute votre famille, et tout ce qui vous reste ?  
+Pourquoi de tant de coups meurtrissez vous ce sein ?  
+Celui ne pèche pas, qui pèche sans dessein.  
+
+    DÉJANIRE.
+Ô frivole raison ! En un malheur semblable,  
+La plus pure innocence est encor trop coupable ;  
+Au lieu que ton esprit est touché de mon mal,  
+Tu devrais en mon sein porter le coup fatal.  
+Que tarde mon trépas ? Que la terre troublée,  
+Ne fait de tout le monde une seule assemblée,  
+Et qu'en mille morceaux ne vient-on déchirer  
+Les membres de ce corps, si digne d'endurer ;  
+Que chaque nation à l'envi me punisse,  
+Toutes ont intérêt en mon juste supplice,  
+Elles n'ont plus d'appui, de roi, de protecteur,  
+Et de cet accident mon bras seul est auteur.  
+Ha ! Je découvre enfin l'appareil de ma perte,  
+D'affreuses légions la campagne est couverte,  
+Le juste bras du Ciel sur ma tête descend,  
+Les enfers vont s'ouvrir et la terre se fend ;   [20]
+Déjà Mégère sort, et ses noires couleuvres  
+Vont ajouter ma perte à leurs tragiques uvres.  
+Que faut-il ? Ce héros ne veut-il que mon sang ?  
+Il est prêt à sortir, piquez, percez ce flanc.  
+Mais quel dieu, quel démon ou quel bras redoutable  
+Lance contre mon chef ce roc épouvantable ?  
+À ce coup, à ce coup, je vais perdre le jour,  
+Pardon, mon crime, ô Ciel ! N'est qu'un crime d'amour :  
+Mais, que dis-je ? Ma mort est encor incertaine,  
+Et je veux différer une si juste peine ;  
+Non, non, ces ennemis ont un courroux trop lent,  
+Je saurai bien mourir d'un coup plus violent.  
+La main qui tue Hercule est assez généreuse,  
+Pour ne rebrousser pas contre une malheureuse ;  
+Allons de mille coups sur ce coupable corps,  
+Réparer une mort pire que mille morts.  
+
+    LUCINDE.
+Dieux ! Comme furieuse et comme abandonnée,  
+Elle cherche où finir sa triste destinée.  
+Ô Ciel ! Ô justes dieux ! Détournez son trépas.  
+Mais elle est déjà loin, courons, suivons ses pas.  
+
+
+# ACTE IV.
+
+
+## SCÈNE PREMIÈRE. Hercule, Philoctète.
+
+    HERCULE.
+Donc ton fils, ô Jupin ! mourra sans l'allégeance  
+De tirer de sa mort une juste vengeance !  
+Donc ma meurtrière un jour pourra sur mon cercueil  
+Publier sa victoire et fonder son orgueil !  
+Jalouse, quel endroit à ma fureur te cache ?  
+Ton crime serait beau s'il n'était un peu lâche,  
+Et l'on t'attribuerait l'honneur de mon trépas ;  
+Mais tu portes le coup, et tu ne parais pas.  
+Ô tourment sans pareil ! Ô désespoir ! Ô rage !  
+Ô mal plus fort qu'Alcide et plus que son courage !  
+Peuples que j'ai servis, rois que j'ai protégés,  
+Enfers que j'ai vaincus, dieux que j'ai soulagés,  
+Pouvez vous aujourd'hui d'un il assez humide  
+Voir en ce triste corps ce qui reste d'Alcide,  
+Et de ce qu'il était faire comparaison ?  
+D'où me naît cette peste, et quel est ce poison ?  
+Cerbère l'a versé, jadis ce monstre esclave  
+Fit écumer ici sa venimeuse bave,  
+Ou c'est du sang mortel qui de l'hydre jaillit,  
+Et que ce traître esprit peut-être recueillit.  
+De mes nerfs les plus forts cette peste dispose,  
+Et presque à mes regards mes entrailles expose.  
+Moi-même je m'ignore en ce triste accident,  
+Et ce qui fut Alcide est un bûcher ardent.  
+
+    PHILOCTÈTE.
+Que ne m'est ce poison également funeste !  
+Que ne puis-je avec vous partager cette peste !  
+Ou que par mon trépas ne puis-je à l'univers  
+Conserver le vengeur de ce siècle pervers !  
+
+    HERCULE.
+Est-ce donc là ce bras dont les faits sont si rares ?  
+Ce vainqueur des tyrans, cet effroi des barbares,  
+Ce fléau de révolte et des rebellions,  
+Ce meurtrier de serpents, ce dompteur de lions ?  
+Suis-je ce même Alcide ? Ai-je de ces épaules  
+Pour le secours d'Atlas soutenu les deux pôles ?  
+Résisterais-je encor à ce faix glorieux,  
+Et parais-je en ce point être du sang des dieux ?  
+Non, non, par cette mort qui borne ma puissance,  
+Un mortel sera cru l'auteur de ma naissance,  
+Et ceux qui m'adoraient m'estimeront enfin  
+Le fils d'Amphitrion, et non pas de Jupin.  
+Ô cruelle douleur ! Ô tourment ! Ô martyre !  
+Ce lieu brûle déjà de l'air que j'y respire.  
+La place autour de moi fume de toutes parts,  
+Et ces humides fleurs sèchent à mes regards.  
+Tranchez, cruelles surs, cette fatale trame  
+Qui ne peut consommer, qui résiste à la flamme,  
+Achevez de mes jours le pénible fuseau,  
+Et de toutes vos mains pressez-y le ciseau ;   [21]
+Je ne troublerai point vos ténébreuses rives.  
+Ô remède trop lent ! Ô filles trop tardives !  
+Quoi ! Mon mal par la mort ne peut être allégé,  
+Et pour ne mourir point il faut vivre enragé ?  
+
+    PHILOCTÈTE.
+Jusqu'au dernier soupir ce grand coeur doit paraître,  
+Soyez, soyez Alcide en finissant de l'être ;  
+Montrez un esprit fort en un corps abattu,  
+Et que votre douleur cède à votre vertu.  
+
+    HERCULE.
+D'un regard de pitié daigne percer la nue,  
+Et sur ton fils mourant arrête un peu ta vue :  
+Vois, Jupin, que je meurs, mais vois de quelle mort,  
+Et donne du secours ou des pleurs à mon sort,  
+J'ai toujours dû ma vie à ma seule défense,  
+Et je n'ai point encor imploré ta puissance.  
+Quand les têtes de l'Hydre ont fait entre mes bras  
+Cent replis tortueux, je ne te priais pas ;  
+Quand j'ai, dans les Enfers, affronté la mort même,  
+Je n'ai point réclamé ta puissance suprême.  
+J'ai de monstres divers purgé chaque élément  
+Sans jeter vers le ciel un regard seulement ;  
+Mon bras fut mon recours, et jamais le tonnerre  
+N'a, quand j'ai combattu, grondé contre la terre ;  
+Je n'ai rien imploré de ton affection,  
+Et je commence, hélas ! Cette lâche action.  
+Aux prières enfin ce feu m'a fait résoudre,  
+Et pour toute faveur j'implore un coup de foudre.  
+Soit qu'à ce malheureux tu sois cruel ou doux,  
+Ta haine ou ta faveur paraîtront en tes coups.  
+Hâte donc cet exploit et devance la Parque,  
+Que sur elle ton bras ait cette illustre marque !  
+Ou, s'il t'est trop amer de foudroyer ton fils  
+Du bras dont les Titans autrefois tu défis,  
+Si tu crains que ton nom soit tâché de ce blâme,  
+Que ce trait soit lancé par la main de ta femme,  
+Qu'elle obtienne l'honneur qu'elle a tant souhaité,  
+Et que par ses efforts Hercule soit dompté.  
+
+
+## SCÈNE II. Alcmène, Hercule, Philoctète.
+
+    ALCMÈNE.
+Voilà donc ce vainqueur de la terre et de l'onde.  
+Ô cruel changement ! Ô douleur sans seconde !  
+Ô d'un jaloux soupçon épouvantable effet,  
+Et pareil au rapport qu'Agis nous en a fait !  
+
+    HERCULE.
+Voyez où m'a réduit cet accident funeste,  
+Voyez de votre fils le déplorable reste,  
+Contemplez le présent que vous tenez des cieux.  
+Pourquoi de cet objet détournez-vous les yeux ?  
+Est-ce que vous feignez d'ignorer ma naissance,  
+Ou qu'à ce nom de fils votre oreille s'offense ?  
+Cessant d'être indomptable et d'être triomphant,  
+N'aurais-je point cessé d'être aussi votre enfant ?  
+
+    ALCMÈNE, PLEURANT. [22]
+Quel Cerbère nouveau, quel monstre acherontide,  
+Quel lion ou quelle Hydre a triomphé d'Alcide ?  
+
+    HERCULE.
+Un monstre furieux, invincible, sanglant,  
+Et de tous le plus fort et le plus violent.  
+
+    ALCMÈNE.
+Mais quel ?  
+
+    HERCULE.
+    La jalousie.  
+
+    ALCMÈNE.
+        Ô fureur insensée,  
+Qu'à d'étranges desseins tu portes la pensée !  
+Ô détestable femme ! Ô lâche trahison !  
+
+    HERCULE.
+Alcide a vaincu tout et cède à ce poison.  
+Ce feu ne cesse point, la toile qu'il allume,  
+Attachée à ce corps, avec lui se consume.  
+En vain tout mon effort s'emploie à l'arracher :  
+Voilà le sort du fils que vous eûtes si cher.  
+
+    ALCMÈNE.
+Ô déplorable sort !  
+
+    HERCULE.
+        Impuissant dieu des ombres,  
+Vieux monarque des morts, roi des demeures sombres,  
+Lâche que j'affrontai jusqu'au creux des Enfers,  
+Qu'appréhendait ton peuple et que faisaient tes fers ?  
+Que n'as-tu retenu sur tes affreuses rives  
+Ce corps qui jusqu'à toi pousse ces voix plaintives !  
+Ouvre encor à mes cris ton horrible manoir,  
+Et fais qu'en cet état l'enfer me puisse voir ;  
+La Mort ne craindra plus que ce bras la surmonte,  
+Et ma confusion dissipera sa honte.  
+Quoi ! Le monde et l'Enfer, tout est sourd à mes cris !  
+Ô pitié trop cruelle ! Ô barbares esprits !  
+Terre, ingrat élément dont j'ai purgé les vices,  
+Qu'un de tes habitants paye tant de services,  
+Qu'il tente sur ma vie un pitoyable effort,  
+Pour prix de tant d'exploits je ne veux que la mort.   [23] [24]
+Suscite un Géryon, fais paraître un Typhée.  
+Mais je sens par le feu ma voix même étouffée,  
+Et ce corps, dénué de sang et de vigueur,  
+Après tant de tourment, succombe à sa langueur.  
+Il tombe comme évanoui.
+
+
+    ALCMÈNE.
+Mon fils, ô Ciel ! Ô dieux ! Cette extrême faiblesse  
+Prouve l'extrême effort de l'ardeur qui le presse.  
+Son sein est travaillé d'un cruel battement,  
+Et l'air lui donne à peine un peu d'allègement.  
+Ciel, sois nous favorable et soulage sa peine,  
+Oblige l'univers en obligeant Alcmène ;  
+Conserve son vengeur, son prince et son appui,  
+Et, bornant ses douleurs, termine mon ennui.  
+
+    PHILOCTÈTE.
+Madame, réprimez ces plaintes inutiles,  
+Et laissez du repos à ces membres débiles ;  
+Sa guérison peut-être, après ce long tourment,  
+Suivra, selon nos voeux, cet assoupissement.  
+Mais il lève déjà sa tête lourde et lasse,  
+Son travail recommence et son repos se passe.  
+
+    HERCULE.
+Que vois-je ! En quel pays aux mortels inconnu  
+Et si plaisant aux yeux Hercule est-il venu ?  
+Quel favorable sort a fini mes désastres  
+Et m'a fait obtenir un rang entre les astres ?  
+Ô divin changement ! Ô miracle divers !  
+Mon père à ma venue accourt les bras ouverts.  
+Tout me rit, et Junon, par ma mort assouvie,  
+M'offre le vin qui donne une éternelle vie.  
+Je vois sur le soleil et plus haut que le jour  
+Le palais de mon père, et son trône, et sa cour.  
+Suivez, globes d'azur, votre course rapide,  
+Et que toute clarté cède à celle d'Alcide ;  
+Que ces feux éternels, d'eux-mêmes impuissants,  
+Empruntent leur ardeur de celle que je sens !  
+Mais de quelle ombre, ô Ciel ! Ces clartés sont suivies !  
+Quelle nuit m'a si tôt ces merveilles ravies !  
+Ô dieux ! Tout mon bonheur s'efface en un moment,  
+Et je retombe enfin en ce triste élément.  
+Je revois ces forêts et la fatale plaine  
+Où ce mortel poison a commencé ma peine.  
+Ô douleur, infinie ! Ô dure cruauté !  
+Que doit résoudre Alcide en cette extrémité ?  
+De quoi se peut nourrir cette flamme cruelle ?  
+Ce corps, est épuisé de sang et de moelle,  
+Et ce mal toutefois devient plus furieux.  
+Ô tourment trop sensible ! Ô rage ! Ô Ciel ! Ô dieux !  
+
+    ALCMÈNE, À PHILOCTÈTE.
+Hélas ! Suivez ses pas.  
+
+    HERCULE. [25]
+        Dans le sein de Pénée  
+Courons précipiter cette ardeur, obstinée ;  
+Tentons une autre fois la faveur de son eau,  
+Qu'il me soit favorable ou qu'il soit mon tombeau  
+Il sort.
+
+
+    ALCMÈNE.
+Alcmène infortunée, en quel endroit du monde  
+Iras-tu regretter ta perte sans seconde ?  
+Que deviendront les noms qu'on te donne en ce lieu,  
+De mère d'un héros et d'amante d'un Dieu ?  
+Voyant sous un tombeau ces muettes reliques,  
+Qui redonnera plus ces titres magnifiques ?  
+Quels si religieux prieront à son autel,  
+Et quel ne dira pas qu'il était un mortel ?  
+
+
+## SCÈNE III. Agis, Alcmène.
+
+    AGIS.
+Ô maison dzsolée ! Ô perte déplorable !  
+Crédule Déjanire, et Nesse détestable !  
+
+    ALCMÈNE.
+Quel tourment viens-tu joindre à mes autres douleurs ?  
+Et quel nouveau malheur me demande des pleurs ?  
+
+    AGIS.'.
+Déjanire à nos yeux, malgré notre défense,  
+D'un ruisseau de son sang a lavé son offense.  
+
+    ALCMÈNE.
+Son supplice était juste, et mon il ne peut pas  
+Refuser toutefois des pleurs à son trépas.  
+Puisque tu fus présent à la fin de sa vie,  
+Dis-moi de quelle sorte elle se l'est ravie,  
+
+    AGIS.
+Quand elle a su par nous l'accident malheureux  
+Qui sur Alcide exerce un mal si rigoureux,  
+Cette femme aussitôt, furieuse, enragée,  
+De cent coups inhumains à sa face outragée,  
+Et ses yeux pleins de feu, vers les astres portés,  
+Ont grossi d'un torrent de pleurs qu'elle a jetés.  
+« Comment ! a-t-elle dit, quand il cesse de vivre,  
+Je résiste aux assauts que la douleur me livre !  
+Que tarde, malheureuse, un généreux effort,  
+De venger son injure et réparer sa mort ? »  
+Là, plus vite qu'un cerf qui court d'un pas agile,  
+Poursuivi des chasseurs, se chercher un asile,  
+Elle s'est retirée aux vallons d'alentour,  
+Non pour se conserver, mais pour perdre le jour ;  
+Nous la suivons en vain, et, dès notre venue,  
+Elle avait le poignard contre sa gorge nue ;  
+Lucinde à deux genoux, pleurant, joignant les bras  
+De loin la conjurait de ne s'outrager pas,  
+Et j'allais la saisir, lorsque cette cruelle  
+A porté dans son sein la blessure mortelle.  
+Sur les fleurs d'alentour le sang en a jailli,  
+Ses yeux se sont troublés et son teint est pâli.  
+Elle a fini sa vie avec cette parole :  
+« Agis, m'a-t-elle dit, un seul point me console ;  
+J'ai sans intention tramé cet accident,  
+Et mon dessein fut moins criminel qu'imprudent.  
+Par le linge fatal imbu du sang de Nesse,  
+J'espérais seulement l'effet de sa promesse,  
+Et croyais que ce sang, mortel à ce héros,  
+Me dût rendre ses voeux sans troubler mon repos. »  
+Là, cette triste reine, en mes bras étendue,  
+Par un dernier soupir a son âme rendue.  
+
+    ALCMÈNE.
+Ainsi par le pouvoir d'un aveugle destin,  
+Tous les plaisirs du soir sont détruits le matin,  
+Ainsi de nos grandeurs la fortune se joue,  
+Et sans qu'Alcide même ait peu clouer sa roue.  
+
+
+## SCÈNE IV. Hercule, Philoctète, Agis, Alcmène.
+
+    HERCULE.
+Tous remèdes sont vains, et ce feu véhément  
+Convertirait en soi le liquide élément  
+Avant qu'il éteignit cette ardeur violente  
+Qui de ce triste corps fait une ombre parlante.  
+Donc, je ne puis franchir cette sévère loi,  
+Ni donner au vainqueur la moitié de l'effroi.  
+Quel antre si caché, quel endroit, quel asile  
+Rend en ce désespoir ma poursuite inutile,  
+Que déjà de son coeur mon sein n'est le tombeau ?  
+Quel dieu me la refuse et sauve mon bourreau ?  
+
+    ALCMÈNE.
+Sa main a prévenu votre juste colère,  
+Et de son imprudence a payé le salaire.  
+Hélas ! Ce feu, mon fils, nous consomme le sein  
+Contre son espérance et contre son dessein.  
+Jamais telle fureur n'a son âme occupée,  
+Mais sa crédulité par Nesse fut trompée ;  
+Il lui fit espérer que son sang qu'elle prit  
+Lui rendrait au besoin vos voeux et votre esprit,  
+Et ce linge par elle imbu de cette peste  
+Fait d'un dessein d'amour, un accident funeste.  
+
+    HERCULE.
+Mon père en soit loué, mes travaux ont leur fin,  
+Ce que vous m'apprenez explique mon destin.  
+Un chêne prophétique en la forêt de Cyrre  
+Par ces mots à peu prés m'a prédit ce martyre :  
+Appui des dieux et des humains,  
+Victorieux Alcide,  
+Un qui sera mort par tes mains  
+Sera ton homicide.  
+Telle est mon aventure et la loi de mon sort,  
+Un vainqueur insolent ne survit point ma mort.  
+Il reste de choisir une fin mémorable  
+Qui pour tous les neveux laisse un renom durable ;  
+Sus, pour aider le feu dont ce sein est pressé,  
+Qu'au plus haut de ce mont un bûcher soit dressé,  
+Que toute la forêt tombe sous vos épées,  
+Qu'à ce pieux devoir elles soient occupées,  
+Que mes plus chers amis y portent le flambeau  
+Et qu'on me voie entrer en cet heureux tombeau.  
+Toi, fidèle témoin des conquêtes d'Alcide,  
+Gloire de la valeur et du sang Paeantide ;  
+Reçois ce dernier gage et te sers à ton tour  
+De ces traits teints du sang qui me prive du jour.  
+Mais, et ressouviens-toi d'accomplir ma prière,  
+Fais sur le sein d'Arcas leur épreuve première :  
+Il possède le coeur d'une jeune beauté  
+Dont trop indignement le mien fut rebuté.  
+Que ta main de ces traits sur ma tombe l'immole,  
+Et qu'il y rende l'âme aux yeux même d'Iole.  
+
+
+# ACTE V.
+
+
+## SCÈNE PREMIERE. Lucinde, Philoctète.
+
+    LUCINDE.
+Toi qui sais de quel il il vit borner ses jours,  
+Fais-moi de ce trépas le tragique discours.  
+Quelle fut sa vertu ?  
+
+    PHILOCTÈTE.
+        La mort lui parut telle  
+Que la vie à nos yeux ne fut jamais si belle.  
+
+    LUCINDE.
+Dieux ! Et quel lui parut ce brasier dévorant ?  
+
+    PHILOCTÈTE.
+Ce que te paraîtrait un parterre odorant.  
+Il fit sa mort célèbre, il en bénit les causes,  
+Et fut dans les charbons comme parmi des roses.  
+
+    LUCINDE.
+D'un front toujours égal ?  
+
+    PHILOCTÈTE.
+        Et d'un il plus riant  
+Que celui du soleil n'est dessus l'orient.  
+Il acquit sur le feu sa dernière victoire,  
+Et vit finir sa vie en achevant sa gloire.  
+
+    LUCINDE.
+Qui vit avec honneur doit mourir constamment ;  
+Mais fais m'en le récit en deux mots seulement.  
+
+    PHILOCTÈTE.
+Quand il eut résolu cette mort inhumaine,  
+Il fit nos propres mains complices de sa peine.  
+En la forêt d'Oethé, chacun, le fer en main,  
+Sur ses arbres sacrés accomplit son dessein ;  
+Lui-même le premier travaille à sa ruine,  
+Il coupe, arrache, rompt, jusques à la racine.  
+La forêt retentit à ce trouble nouveau,  
+L'un frappe sur le chêne et l'autre sur l'ormeau ;  
+La terre s'ébranla, les dryades gémirent,  
+Et de crainte et d'horreur tous les faunes frémirent.  
+Les arbres, dépouillés de leurs feuillages verts,  
+Se virent bien plus nus qu'au milieu des hivers ;  
+Les cerfs sont étonnés d'y perdre leurs ombrages,  
+Et d'un pas incertain cherchent d'autres feuillages.  
+Le plus petit oiseau ne peut où s'y percher,  
+Et toute la forêt ne devient qu'un bûcher.  
+Il nous presse, et lui-même en de diverses formes  
+Range les troncs coupés des chênes et des ormes.  
+Il dresse avec plaisir ce qui doit l'embraser,  
+Et veut que sa massue aide à le composer.  
+Il y jette la peau du monstre de Némée :  
+« Elle y sera, dit-il, avec moi consumée. »  
+Lors on s'efforce en vain de cacher ses douleurs,  
+Tous se trouvent saisis, et chacun fond en pleurs.  
+Mais sa mère surtout relâche son courage :  
+Elle rompt ses cheveux, déchire son visage,  
+Pousse des cris au ciel, meurtrit son sein de coups,  
+Et plus que ce héros se fait plaindre de tous.  
+« Réprimez, lui dit-il, cette douleur cruelle,  
+Vous ôtez à ma mort la qualité de belle ;  
+Voulez vous de vos pleurs obscurcir mon renom,  
+Et rendre mon trépas agréable à Junon ? »  
+Là de ses propres mains la flamme est allumée,  
+L'air noircit à l'entour d'une épaisse fumée  
+Et l'on voit aussitôt un tel embrasement  
+Que la flamme atteignit jusqu'à son élément.  
+Si proche de sa fin, l'oeil riant, la voix saine :  
+« Quoi ! Vous pleurez, dit-il en s'approchant d'Alcmène,  
+Vous plaignez mon destin quand mon père m'attend,  
+Vous vivrez affligée, et je meurs si content,  
+Ma mère ! » achevait-il... Elle, à ce nom de mère,  
+De nouveau s'abandonne à sa douleur amère,  
+Crie, accuse le Ciel, nomme les dieux jaloux,  
+Et va tomber pâmée à quelques pas de nous.  
+C'est là que la constance eut d'inutiles armes,  
+C'est là qu'il soupira, son il versa des larmes,  
+Il cessa d'être Alcide en ce moment fatal,  
+Et plaignit les regrets dont on plaignait son mal.  
+Mais que cette douleur fut bientôt consolée  
+Et qu'il rétablit tôt sa constance ébranlée !  
+« Fidèle compagnon, dit-il en m'embrassant,  
+Ranime la couleur de ton teint languissant,  
+Et, si tu fus toujours conforme à mon envie,  
+Ne pleure point la mort dont j'achète la vie ;  
+Accompli, seulement l'arrêt qui t'est prescrit,  
+Et fais que sur ma tombe Arcas rende l'esprit. »  
+À ces mots, le teint doux, l'il gai, la face ouverte,  
+Il nous embrasse tous, et tous pleurent sa perte.  
+Il paraît seul content, et, riant de nos pleurs,  
+Entre dans ce bûcher comme en un lit de fleurs.  
+Jamais roi triomphant environné de palme  
+Ne parut en son char plus joyeux ni plus calme ;  
+Son esprit toujours sain ne fut point altéré,  
+Mais presque en un moment son corps fut dévoré.  
+
+    LUCINDE.
+Ô résolution digne de son courage !  
+
+    PHILOCTÈTE.
+La fumée aussitôt forme un épais nuage,  
+Un tonnerre éclatant retentit dans les airs,  
+Et le ciel s'entrouvrit au milieu des éclairs.  
+Sa mère en ce tombeau fit enfermer sa cendre,  
+Et montra pour sa perte un courage si tendre  
+Qu'à voir ses actions tous les coeurs interdits  
+Plaignaient également et la mère et le fils.  
+Mais elle vient ici, vois qu'elle est affligée,  
+Que son geste est confus, et comme elle est changée !  
+
+
+## SCÈNE II. Alcmène, Philoctère, Agis, Lucinde.
+
+    ALCMÈNE, TIRANT UN VASE D'OR DU TOMBEAU.
+Vous qui prenez des droits sur les autres mortels,  
+À qui nos lâchetés élèvent des autels,  
+Petits dieux, méditez sur ce malheur extrême,  
+Et redoutez du sort la puissance suprême.  
+En ce vase chétif tout Hercule est enclos,  
+Je puis en une main enfermer ce héros.  
+Ceci fut la terreur de la terre et de l'onde,  
+Et je porte celui qui soutint tout le monde.  
+
+    AGIS.
+Nos larmes de sa mort sont d'indignes effets,  
+Honorons ses vertus et publions ses faits ;  
+Faisons d'un beau trépas une belle mémoire,  
+Et que nos lâchetés n'altèrent point sa gloire.  
+
+    ALCMÈNE.
+Je ne me plaindrais pas, ô barbare conseil !  
+Je pourrais voir sans pleurs ce malheur sans pareil !  
+Que tarde mon trépas ? Que fera plus Alcmène  
+Que plaindre et que nourrir une éternelle peine ?  
+Quelle vertu réside en ce débile sang ?  
+Quel Hercule nouveau porterai-je en ce flanc ?  
+Quels titres glorieux flatteront ma pensée,  
+Et de quel Jupiter serai-je caressée ?  
+Monarque des Thébains, aimable et cher époux,  
+Qu'heureux fut ton trépas, et que ton sort fut doux !  
+Que la perte du jour était peu regrettable  
+Au père qui laissait un fils si redoutable,  
+Et combien les Enfers, qu'il avait déconfits,  
+Ont respecté le père à cause de son fils !  
+Quel sera mon asile, en quel lieu de la terre  
+Des rois qu'il a domptés puis-je éviter la guerre ?  
+Toi qui trouvas Alcmène agréable à tes yeux,  
+Monarque souverain de la terre et des cieux,  
+Comme a fait ma beauté, que ma douleur te touche,  
+Récompense aujourd'hui les faveurs de ma couche ;  
+Fais-moi suivre ses pas, réuni nos esprits  
+Et que de mes baisers ton foudre soit le prix.  
+
+    PHILOCTÈTE.
+Pour rompre des tyrans les mortelles pratiques,  
+Vous n'aurez seulement qu'à montrer ses reliques :  
+Elles rendront les coeurs et les bras engourdis,  
+Et mettront la frayeur au sein des plus hardis.  
+
+    ALCMÈNE, À PHILOCTÈTE.
+Toi, dont il reconnut l'ardeur et le courage,  
+À qui seul de ses traits il a laissé l'usage,  
+Que tarde leur épreuve, et pourquoi n'as-tu pas  
+Dessus sa tombe encor versé le sang d'Arcas ?  
+À ses mânes sacrés offre ce sacrifice ;  
+Ta foi balance-t-elle en ce dernier office ?  
+
+    PHILOCTÈTE, TENANT LES TRAITS.
+Je dois aveuglément répondre à son espoir ;  
+Mais combien mon esprit répugne à ce devoir !  
+
+    ALCMÈNE.
+Quoi ! Pour le fils d'un dieu tu plains une victime ?  
+
+    PHILOCTÈTE.
+Arcas m'importe peu, mais j'ignore son crime.  
+
+    ALCMÈNE.
+Par les armes mon fils fut maître de son sort,  
+Et la loi des vaincus le rend digne de mort.  
+
+    PHILOCTÈTE.
+Mais ils sont innocents en une juste guerre ;  
+Et que faisait Arcas que défendre sa terre ?  
+
+    ALCMÈNE.
+Il soutint Euritée et sa déloyauté.  
+
+    PHILOCTÈTE.
+Iole était promise à sa fidélité.  
+
+    ALCMÈNE.
+Le père fut coupable, et de cette princesse  
+Alcide avait reçu la première promesse.  
+
+    PHILOCTÈTE.
+Mais en sa perfidie Arcas n'eut point de part.  
+
+    ALCMÈNE.
+Ô que fait ma fureur de paraître si tard !  
+Où sera craint Alcide, où brillera sa gloire,  
+Si déjà ses amis trahissent sa mémoire ?  
+Lâche, rends ce présent.  
+
+    PHILOCTÈTE, SE DÉFENDANT.
+    Madame !  
+
+    ALCMÈNE.
+        Non, ces traits  
+Pour ta profane main sont un trop digne faix,  
+Et je veux de ma main immoler le coupable,  
+Puisque tu ne tiens pas son arrêt équitable.  
+
+    PHILOCTÈTE.
+Il doit être accompli puisqu'Alcide l'a fait,  
+Et je n'ai pas dessein d'en différer l'effet ;  
+De quoi ne voudrait pas contenter son envie  
+Celui qui pour lui plaire immolerait sa vie ?  
+Je répandrais mon sang au pied de son tombeau,  
+Et ne voudrais un sort plus heureux ni plus beau.  
+Son dessein a rendu ce devoir légitime :  
+Qu'un de vos gens, Madame, amène la victime.  
+
+    ALCMÈNE, À AGIS.
+Allez quérir Arcas, et qu'Iole avec lui  
+Vienne en ce lieu fatal partager notre ennui.  
+Révérez ce héros, fuyez, ombres profanes,   [26]
+Du glorieux rivage où reposent ses mânes.  
+Changez, sombres forêts, vos cyprès en lauriers,  
+Qui seuls fassent ombrage à ce roi des guerriers ;  
+Et vous, fatales surs, reines des destinées,  
+Vous, dont les noires mains ourdissent nos années,  
+Cessez à mon fuseau vos travaux superflus ;  
+Que fait Alcmène ici quand Alcide n'est plus ?  
+Si le fils relevait d'un pouvoir si sévère,  
+Quel aveugle destin en exempte la mère ?  
+Tranchez les tristes jours de ce débile corps  
+Que vous verrez tomber sous vos moindres efforts.  
+Que son oncle une fois soit touché de ma peine,  
+Qu'il nous renvoie Alcide ou qu'il reçoive Alcmène !  
+Qu'il le chasse ou m'attire en ce manoir hideux,  
+Qu'il relâche un esprit ou qu'il en prenne deux !  
+
+    LUCINDE.
+Madame, tout est sourd en ce fatal empire,  
+Et la mort fuit plus loin alors qu'on la désire ;  
+Elle épargne ses coups, toute avare qu'elle est ;  
+Mais on amène Arcas...  
+
+    PHILOCTÈTE.
+        Ô rigoureux arrêt !  
+
+
+## SCÈNE III. Phiploctète, Lucinde, Agis, Ddeux Valest amenant Arcas, Iole.
+On lie Arcas au tombeau.
+
+
+    IOLE.
+Barbares, assassins, quelle soif, quelle rage,  
+Du sang des innocents repaît votre courage ?  
+Quel arrêt l'abandonne à cet injuste effort ?   [27]
+Quel dieu, quelle Thémis présidait à sa mort ?  
+Donc son affection ne m'est pas légitime,  
+Je nuis à qui je plais et m'aimer est un crime.  
+Donc, pour ce qu'il m'est cher, je creuse son tombeau  
+Et d'amante d'Arcas on me fait son bourreau.  
+
+    PHILOCTÈTE.
+Madame, avec regret je suis son homicide ;  
+Mais tous respects sont vains contre la loi d'Alcide.  
+
+    ALCMÈNE.
+Laissez selon ses voeux agir sa passion,  
+Et ne différez point cette juste action.  
+
+    IOLE.
+Ô dure cruauté ! Quel droit, quelle police  
+Fait d'un meurtre exécrable un acte de justice ?  
+Quoi ! Pour mon innocence un prince périra,  
+Et pour ma pureté de son sang rougira !  
+Tranchez plutôt le cours de mes tristes années,  
+Que ma vie et ma plainte en ce lieu soient bornées,  
+Dressez contre mon sein ces redoutables traits ;  
+C'est moi qu'Alcide veut, et c'est moi qui lui plais.  
+Que votre affection à son dessein réponde,  
+Et qu'il ait aux enfers ce qu'il n'eut pas au monde.  
+Accordez lui l'objet de ses voeux criminels,  
+Faisant tomber Iole aux antres éternels.  
+
+    ARCAS.
+Souffrez, chaste beauté, leur barbare licence,  
+Laissez à l'injustice opprimer l'innocence :  
+Le Ciel, qui venge enfin l'innocent malheureux,  
+S'ils ont des traits pour nous, a des foudres pour eux.  
+De leurs coeurs inhumains toute crainte est bannie ;  
+Et votre résistance aigrit leur tyrannie.  
+
+    ALCMÈNE.
+La plainte qu'on permet à des désespérés  
+Ne te sauvera pas de ces traits acérés.  
+Sus ! Que différez-vous ? Que tarde son supplice ?  
+Que votre affection est lente en cet office !  
+
+    PHILOCTÈTE, À GENOUX ET PRÊT À TIRER.
+Fils du plus grand des dieux, si du royaume noir  
+Tes mânes sont témoins de ce pieux devoir....  
+
+    IOLE, SE JETTANT SUR LUY.
+Ô sacrifice impie ! Ô piété barbare !  
+Traître, j'attends le coup que ta main lui prépare.  
+En ce sein innocent pousse ton trait vainqueur,  
+Tu frapperas Arcas, puisqu'il est dans mon coeur.  
+Sommes-nous abordés en un séjour sauvage  
+Où l'on vive de sang, de crime et de carnage ?  
+Pourquoi, cruels, pourquoi jusqu'au palais noirci  
+Hercule cherchait-il ce qu'il avait ici ?  
+Quel monstre plus sanglant, quel plus cruel Cerbère  
+Que ses propres parents avait-il à défaire ?  
+Que voit-on en ces lieux que des objets d'horreur ?  
+Et qu'y respire-t-on que meurtre et que fureur ?  
+
+    ARCAS.
+Apaise, mon souci, tes inutiles plaintes.  
+
+    IOLE.
+Elles auraient effet sur des âmes plus saintes.  
+
+    ARCAS.
+La vertu ne peut rien où le vice est puissant.  
+
+    IOLE.
+Qu'ils perdent la coupable et sauvent l'innocent.  
+
+    ARCAS.
+Qu'as tu commis d'injuste et dont tu sois coupable ?  
+
+    IOLE.
+Je t'ai fait odieux, esclave, misérable.  
+
+    ARCAS.
+Mon malheur m'a fait tel, et non pas ton dessein.  
+
+    IOLE.
+C'est moi qui t'ôte l'âme et qui t'ouvre le sein.  
+
+    ARCAS.
+Ainsi la loi du sort marqua ma dernière heure.  
+
+    IOLE, TIRANT UN POIGNARD DE SON SEIN.
+Ainsi la loi du sort ordonne que je meure.  
+Achevez donc, bourreaux, cet injuste trépas,  
+Voici, mon coeur, voici de quoi suivre tes pas.  
+Ce coup, puisque le Ciel permet leur tyrannie,  
+Te donne du courage et de la compagnie.  
+Nous partirons ensemble ; arrêtez, inhumains.  
+
+    ARCAS.
+Ô sensible malheur, sauvez-la de ses mains.  
+
+    IOLE.
+Traîtres, cruels auteurs du mal qui me possède,  
+Vous causez le tourment et m'ôtez le remède ;  
+Alcide ordonna-t-il qu'on prolongeât mes jours  
+Lorsque de ceux d'Arcas on bornerait le cours ?  
+C'est d'égale rigueur nous nuire et nous poursuivre,  
+Que le faire mourir et me forcer de vivre.  
+Donnez, donnez ce fer, ô barbare pitié !  
+
+    AGIS.
+Ô fille malheureuse !  
+
+    LUCINDE.
+        Ô parfaite amitié !  
+Là on entend un grand tonnerre, et le ciel s'ouvre.
+
+
+    ALCMÈNE.
+Quel soudain changement ! Quel horrible tonnerre !  
+De quels éclairs le ciel épouvante la terre !  
+
+    PHILOCTÈTE.
+L'orage se dissipe et les cieux sont ouverts ;  
+Mais quel nouveau soleil illumine les airs ?  
+
+    ALCMÈNE.
+Alcide glorieux fend la voûte azurée,  
+C'est lui même.  
+
+    LUCINDE.
+    Ô merveille !  
+
+    ALCMÈNE.
+        Ô joie inespérée !  
+
+
+## SCÈNE DERNIÈRE. Hercule descendant du ciel.
+
+    HERCULE.
+Admis dans le céleste rang ;  
+Je fais à la pitié céder la jalousie,  
+Ma soif éteinte d'ambroisie  
+Ne vous demande plus de sang.  
+Qu'Arcas ait l'objet de ses voeux,  
+Qu'au sein de sa maîtresse il termine, ses peines  
+Et ne porte plus, d'autres chaînes  
+Que de celles de ses cheveux.  
+À Alcmène.
+
+Vous, vivante source de pleurs,  
+Qui m'avez honoré d'une amitié si tendre,  
+Consolez vous, et sur ma cendre  
+Ne répandez plus que des fleurs.  
+Que tous les peuples de ce lieu  
+Élèvent sur ce mont des autels à ma gloire,  
+Et qu'ils conservent la mémoire  
+De la mort qui m'a fait un dieu.  
+Il remonte au ciel.
+
+
+    ALCMÈNE.
+Dompteur de l'univers, rare honneur de ces lieux,  
+Quoi ! Déjà ta clarté se dérobe à nos yeux !  
+Arrête un seul instant... Mais en vain je l'appelle,  
+Léger il se redonne à la troupe immortelle.  
+Ô divin accident ! rompons, rompons ces fers,  
+Qu'Arcas prenne le prix des maux qu'il a soufferts,  
+Et que par les douceurs d'un heureux hyménée  
+De ce couple d'amants la peine soit bornée.  
+
+    IOLE.
+Ô céleste aventure ! Ô glorieux héros !  
+Qui dessus son débris rétablit son repos.  
+Madame, pardonnez la plainte injurieuse  
+D'un esclave innocent et d'une malheureuse.  
+Que ce fils glorieux vous comble de plaisirs  
+Et rende votre gloire égale à vos désirs.  
+
+    ARCAS, DELIVRÉ.
+Que ce coeur et ce bras soient vôtres sans réserve,  
+Et ne me conservez qu'afin que je vous serve.  
+
+    LUCINDE.
+Ô bonheur sans pareil !  
+
+    PHILOCTÈTE.
+        Ô favorable sort,  
+Qui de deux innocents a diverti la mort !  
+Qu'en plaisirs éternels votre douleur se change.  
+Bénissons ce héros, publions sa louange,  
+Rendons à sa vertu des honneurs immortels,  
+Et d'un commun dessein dressons lui des autels.  
+
+-------
+
+
+[1] Ravaler : Signifie aussi s'humilier, se rabaisser. F
+
+[2] Lion de Némée : Bête terrible qui menaçait le ville de Némée qu'Hercule terrassa. C'est l'un de ses douze travaux.
+
+[3] Accourcir : Rogner, retrancher, rendre plus court. F
+
+[4] Faix : Charge sous laquelle on plie. L
+
+[5] Jupin : nom donné par nos vieux poètes à Jupiter. B
+
+[6] Cerbère : Dans la mythologie grecque, chien à trois têtes, était chargé de la garde des Enfers, et veillait jour et nuit. B
+
+[7] Parques : divinités des Enfers chargées de filer la vie des hommes, étaient au nombre de trois, Clotho, Lachésis, Atropos : Chlotho préside à la naissance et tient le fuseau, Lachésis le tourne et file, Atropos coupe le fil. B
+
+[8] Hymen : Fils de Bacchus et de Vénus, présidait au mariage. B
+
+[9] Alcide : autre nom d'Hercule.
+
+[10] Hercule est traditionnellement représenté avec une massue et la peau du lion de Némée sur le corps.
+
+[11] Foudre : attribut de Jupiter, flamme entortillé avec des dards.
+
+[12] Divertir : Détourner quelqu'un, l'empêcher de continuer son dessein, son entreprise, son travail. F
+
+[13] Dévotieux : C'est la même chose que dévot ; pieux, qui se plaît à servir Dieu. F
+
+[14] Amphitrite : Déesse de la Mer, fille de Nérée ou de l'Océan et de Doris, était l'épouse de Neptune.
+
+[15] Encelade : Géant redoutable, l'un de ceux qui firent la guerre aux Dieux de l'Olympe, était fils du Tartare et de la Terre, et avait cent bras. Jupiter après l'avoir foudroyé, le couvrit du poids énormede l'Etna. B
+
+[16] Averne : Lac de la Campanie, à 16km ouest de Naples, au fond su Gold fe de Vaia. Il a la forme d'un puits profond. Il s'en exhalait des vapeurs méphitiques, ce qui le fit regarder chez les Anciens comme l'Entrée des Enfers. B
+
+[17] Vers 844, allusion à Phaéton, fils du soleil qui voulut guider son cher et qui mourut foudroyé pour en avoir perdu le contrôle. 
+
+[18] Hylus : ou Hylas, compagnon d'Hercule.
+
+[19] Antre : Grande caverne, ou creux souterrain qui s'y est trouvé naturellement. F
+
+[20] Mégère : une des Furies, divinités infernales, Filles de la Nuit et de l'Achéron, étaient chargées de punir les crimes de hommes dans les Enfers, et quelquefois sur la Terre. B 
+
+[21] v. 961-964 , allusion aux Parques qui filent les fils des vies des hommes et qui les coupent quand leur heure est venue.
+
+[22] Achérontide : qui est issu du fleuve Achéron, branche de la rivière souterraine Styx et donc associé aux Enfers.
+
+[23] Géryon : personnage de la mythologie ayant trois têtes et six bras et trois corps attachés à la taille, il fut vaincu par Hercucle. F
+
+[24] Typhée : ou Typhon, fils de Gaia et de Tartare, divinité infernale qui faillit renverser l'Olympe et qui fut enseveli par Zeus sous l'Etna avec Encelade. Il est le père, entre autres, de Cebère, du lion de Némée, du Sphinx et de l'Hydre de Lerne.
+
+[25] Pénée : Fleuve de Thessalie, avait sa source au nud du Pinde et des monts Cambunieris, sur les confins de la Thésalie et de la Macédoine. (...) Selon la Fable, le fleuve Pénée était père de Daphné, qui fut changé en laurier. B 
+
+[26] Mânes : Terme poétique, qui signifie les ombres ou les âmes des morts. F
+
+[27] Thémis : Déesse de la Justice, de la Loi et de l'équité. Souvent représentée avec une balance à deux plateaux. 

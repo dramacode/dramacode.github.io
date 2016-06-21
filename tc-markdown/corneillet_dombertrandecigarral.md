@@ -1,0 +1,4244 @@
+---
+identifier: corneillet_dombertrandecigarral  
+creator: Corneille, Thomas  
+date: 1651  
+title: Don Bertran de Cigarral. , comédie  
+---
+
+
+DON BERTRAN DE CIGARRAL
+
+COMÉDIE
+
+M. DCCIX. avec Privilège des États de Holl. et Westf.
+
+Thomas Corneille
+
+À AMSTERDAM, Chez les Frères Chatelain, près de la Maison de Ville.
+Représenté pour la première fois au mois de mai 1651 au Théâtre du Marais.
+
+
+# ACTEURS.
+ – DON GARCIE de Contreras, Père d'Isabelle.
+ – DON BERTRAN de Cigarral.
+ – DON ALVAR, cousin de Don Bertran.
+ – DON FÉLIX, amoureux d'Isabelle.
+ – LÉONOR, soeur de Don Bertran.
+ – ISABELLE, fille de Don Garcie.
+ – JACINTE, suivante d'Isabelle.
+ – GUZMAN, valet de Don Bertran.
+ – MENDOCE, valet de Don Félix.La Scène est Madrid.
+
+
+# ACTE I.
+
+
+## SCÈNE PREMIÈRE. Isabelle, Jacinte.
+
+    JACINTE.
+L'affaire me paraît bientôt expédiée.  
+Vous, aujourd'hui promise, et demain mariée !  
+
+    ISABELLE.
+Jacinte, que veux-tu  ? J'en suis au désespoir,  
+Mais dans mon déplaisir j'écoute mon devoir,  
+Et me résous enfin aux maux que me prépare  
+L'aveugle ambition d'un Père trop avare.  
+
+    JACINTE.
+Ne vous y trompez point, c'est le jeu du vieux temps,  
+Gardez d'être aujourd'hui trop sage à vos dépens,  
+C'est un étrange noeud que le noeud de l'Hyménée  
+
+    ISABELLE.
+Qu'y puis-je faire enfin  ? Sa parole est donnée,  
+Il le veut, et tu sais qu'il me vient d'avertir  
+Que dans une heure ou deux je sois prête à partir ;  
+Au malheur qui m'accable il n'est point de remède.  
+
+    JACINTE.
+Quoi, vous iriez trouver cet époux à Tolède,  
+Et parce qu'il a bruit d'avoir force ducats,  
+Il est si grand Seigneur qu'il n'en remuerait pas  ?  
+Ma foi, jusqu'à l'Hymen je serais la maîtresse.  
+
+    ISABELLE.
+Mais on me le commande.  
+
+    JACINTE.
+        Ô l'étrange faiblesse !  
+Dût se rompre l'accord je me ferais prier,  
+Il n'est, tout bien pesé, que d'être à marier.  
+Qu'un Amant importune, on l'abandonne, on change ;  
+Fussiez-vous un Démon on vous appelle un Ange.  
+De cent soumissions vous payez un galant  
+En lui laissant baiser le bout de votre gant,  
+Chacun tâche à vous plaire avec un soin extrême ;  
+Mais dans le mariage il n'en va pas de même,  
+Notre bon temps est fait, adieu, c'est assez ri,  
+Qui nous flattait Amant nous rechigne Mari,  
+Le flambeau d'hyménée amortit bien sa flamme,  
+La plus belle Maîtresse est une laide Femme,  
+Et sitôt que l'Amour laisse agir la raison,  
+L'on connaît qu'il n'est point de charmante prison.  
+Peu sous ce triste joug ont l'âme bien contente.  
+
+    ISABELLE.
+Sur cet article-là tu parais bien savante.  
+
+    JACINTE.
+Jadis ma bonne mine avait ses partisans,  
+Je sais ce qu'en vaut l'aune, et j'ai plus de quinze ans,  
+Je connais à peu près le train commun des choses ;  
+Ces matières pour vous sont encor lettres closes,  
+Mais se vendre soi-même est un triste marché,  
+L'on ne s'en dédit point quand le mot est lâché,  
+L'Hymen nous asservit aux caprices d'un homme,  
+Et j'en connais beaucoup, sans que je vous les nomme,  
+Qui n'en ayant jamais examiné les lois,  
+Ont pris le frein aux dents, et s'en mordent les doigts.  
+Croyez-moi, de l'amour c'est un puissant remède,  
+L'on ne fait guère état de ce que l'on possède,  
+Le vrai plaisir consiste au pouvoir de refus,  
+Quand un bien est acquis, dès lors on n'en veut plus,  
+En vain à l'estimer sa valeur nous convie,  
+La difficulté seule échauffe notre envie,  
+Et celui qui nous charme avec le plus d'appas  
+C'est celui qu'obtenant l'on peut n'obtenir pas.  
+
+    ISABELLE.
+Tu n'avais point encor étalé ta science.  
+
+    JACINTE.
+Avec votre devoir et votre obéissance,  
+Si celui qu'on vous donne est bizarre, jaloux  ?  
+
+    ISABELLE.
+Et jaloux et bizarre, il sera mon époux.  
+
+    JACINTE.
+Enfin pour un Mari le Ciel vous a fait naître,  
+Et moi, pour être libre, et pour vivre sans maître,  
+Je n'ai plus rien à dire, et vous plains seulement.  
+
+    ISABELLE.
+Il en faut présumer plus favorablement.  
+
+    JACINTE.
+Je voudrais le pouvoir ; et encor, je vous prie,  
+Ne m'apprendriez-vous point à qui l'on vous marie  ?  
+
+    ISABELLE.
+Mon Père a fait ce choix, et tu sais comme moi  
+Qu'en passant par Tolède il a promis ma foi ;  
+Qu'à son retour tantôt j'en ai su la nouvelle,  
+Et que de mon destin la tyrannie est telle,  
+Que sans vouloir m'entendre, on m'ordonne demain  
+De donner tout ensemble et mon coeur et ma main,  
+Cet époux prétendu ne veut point de remise.  
+
+    JACINTE.
+Il fait déjà le Maître  ?  
+
+    ISABELLE.
+        Un père l'autorise.  
+
+    JACINTE.
+Il est riche  ?  
+
+    ISABELLE.
+        Le coeur secrètement me dit  
+Qu'il a beaucoup de bien, mais qu'il a peu d'esprit.  
+Puis-je juger en lui qu'une âme trop vulgaire  
+Puisqu'il emploie ainsi l'autorité d'un Père  ?  
+S'il n'avait cent défauts, il n'aurait pas voulu  
+Faire agir contre moi son pouvoir absolu,  
+Il me témoignerait qu'il sait comme l'on aime,  
+Ne voudrait obtenir mon coeur que de moi-même,  
+Et de cette conquête il confierait l'espoir  
+À son propre mérite, et non à mon devoir.  
+
+    JACINTE.
+De son nom pour le moins vous êtes informée  ?  
+
+    ISABELLE.
+La curiosité marque une âme enflammée,  
+Je n'en ai demandé ni le rang, ni le nom.  
+
+    JACINTE.
+Et cependant, Madame, à parler tout de bon,  
+Votre ancien Amant, ou bien plutôt votre ombre,  
+Doutez-vous que des morts il n'augmente le nombre,  
+Sitôt qu'il vous saura dans les bras d'un Rival  ?  
+
+    ISABELLE.
+Don Félix  ?  
+
+    JACINTE.
+        Cet hymen lui deviendra fatal.  
+
+    ISABELLE.
+J'aurai ce bien du moins dans ma triste infortune  
+Qu'elle me défera d'une amour importune.  
+Je ne sais quel Démon de mon repos jaloux,  
+Où je dois me trouver, lui donne rendez-vous,  
+Mais partout où je suis, au Temple, dans la rue,  
+C'est le premier objet qui vient frapper ma vue.  
+En effet, c'est une Ombre attachée à mes pas.  
+
+    JACINTE.
+Ah, que pour vous encor l'amour a peu d'appas !  
+
+    ISABELLE.
+Hélas, Jacinte !  
+
+    JACINTE.
+        Et quoi  ? Votre coeur en soupire  ?  
+
+    ISABELLE.
+Tu juges mal.  
+
+    JACINTE.
+    De quoi  ?  
+
+    ISABELLE.
+        Je n'ose te le dire,  
+Et pourtant...  
+
+    JACINTE.
+    Tout de bon, vous aimez  ?  
+
+    ISABELLE.
+        Il est vrai.  
+
+    JACINTE.
+Ô la secrète ! Et qui, de grâce  ?  
+
+    ISABELLE.
+        Je ne sais.  
+
+    JACINTE.
+Vous ne me feriez point confidence du reste  ?  
+
+    ISABELLE.
+Ne te souviens-il plus de l'accident funeste  
+Que je cache avec soin à tout autre qu'à toi,  
+Et qui depuis un mois m'a donné tant d'effroi  ?  
+
+    JACINTE.
+Quoi, ce brave Inconnu qui vous sauva la vie,  
+Par la peur d'un Taureau déjà presque ravie,  
+Lorsqu'à l'insu d'un Père, et sans me l'avoir dit,  
+Une Parente et vous sortîtes de Madrid,  
+Et qu'un mauvais destin vous pensa bien cher vendre  
+Ce peu de liberté que vous osâtes prendre,  
+Serait-ce bien celui qui vous fait soupirer  ?  
+
+    ISABELLE.
+Lui-même.  
+
+    JACINTE.
+        Et vous pouvez aimer sans espérer  ?  
+
+    ISABELLE.
+Sa vie en ma faveur promptement hasardée  
+M'en a fait concevoir une si haute idée,  
+Que malgré moi sans cesse elle offre à mon esprit...  
+
+    JACINTE.
+Ah, sans doute, Madame, il faut quitter Madrid,  
+Voici quelque message.  
+
+    ISABELLE.
+        Adieu toute ma joie.  
+
+
+## SCÈNE II. Isabelle, Jacinte, Guzman.
+
+    ISABELLE.
+Que veux-tu  ?  
+
+    GUZMAN.
+        Don Alvar, Madame, ici m'envoie.  
+
+    ISABELLE.
+Don Alvar  ?  
+
+    GUZMAN.
+        Oui, Madame, un Parent de celui  
+Qui vous est destiné pour époux aujourd'hui,  
+Et qui m'envoie ici vous faire humble requête  
+Que bientôt à partir vous soyez toute prête.  
+
+    ISABELLE.
+Un message pareil de sa part me surprend,  
+Il n'est pas mon époux pour être son Parent.  
+D'où lui vient ce pouvoir  ?  
+
+    GUZMAN.
+        Don Bertran le lui donne.  
+
+    ISABELLE.
+Que ne me le vient-il expliquer en Personne  ?  
+
+    GUZMAN.
+L'ordre est ainsi donné, Madame, il n'oserait.  
+Avecque Don Bertran il faut marcher bien droit,  
+Il est plus difficile à ferrer qu'une mule.  
+
+    ISABELLE.
+Don Bertran ! Que ce nom me semble ridicule !  
+Apprends-nous quel il est.  
+
+    GUZMAN.
+        C'est un galant du temps,  
+Un fort brave jeune homme âgé de soixante ans,  
+Qui pour remédier à la chaleur de l'âge  
+S'est enfin résolu de se mettre en ménage.  
+Il vous écrit.  
+
+    ISABELLE.
+    À moi ! Qui  ?  
+
+    GUZMAN.
+        Ce futur époux,  
+Ce Don Bertran.  
+
+    JACINTE.
+        Voyez si le style en est doux.  
+
+    ISABELLE, LIT.
+Ma fille. J'ai six mille et quarante deux ducats de rente, et Don Alvar, mon cousin et prétendu beau-frère, est mon héritier si je n'ai point d'enfants. On m'a dit qu'en me mariant avec vous j'en pourrais avoir autant que bon me semblera. Venez donc dès aujourd'hui à l'Hostellerie d'Yllescas, où je vous attends pour traiter de l'un, et pour l'autre, nous y aviserons à loisir ; mais souvenez-vous que je suis dans une hostellerie, et qu'il y fait fort cher vivre en cette saison. C'est pourquoi ne perdez point de temps, partez promptement, et mettez un masque avant que mon cousin vous aille trouver de ma part, car le soin de votre honneur commence déjà à me regarder, et vous ne devez point vous laisser voir que je ne le juge à propos. Votre Mari Don Bertran de Cigarral.
+Et l'on peut m'ordonner d'épouser un tel homme !  
+
+    GUZMAN.
+Il n'a point son pareil d'ici jusques à Rome.  
+
+    JACINTE, À ISABELLE.
+Pour peu d'attention qu'on lui veuille prêter,  
+Ce Valet est d'humeur à nous en bien conter.  
+
+    ISABELLE.
+Le joli compliment par où son feu débute !  
+Ah, Jacinte, s'il faut que l'accord s'exécute...  
+
+    JACINTE.
+Selon l'avare humeur de notre bon Vieillard,  
+S'il rompt avecque lui, ce sera grand hasard,  
+Ses ducats vous font tort, et s'il était moins riche...  
+
+    GUZMAN.
+Pour en avoir beaucoup il n'en est pas moins chiche,  
+Et les garde si bien, qu'à parler comme il faut,  
+Je vous plaindrais beaucoup s'il ne mourrait bientôt.  
+Avec un tel Mari vous verrez par épreuve  
+Qu'il n'est point de douceur qu'en l'espoir d'être Veuve,  
+Et vous ne devez point en confirmer le choix  
+S'il ne veut s'obliger de mourir dans six mois,  
+C'est un terme assez long pour faire pénitence.  
+
+    JACINTE.
+Avec grande franchise il dit ce qu'il en pense.  
+
+    ISABELLE.
+Il parle à coeur ouvert.  
+
+    JACINTE.
+        Je vais le mettre en jeu.  
+Mais encor, de ton Maître entretiens-nous un peu.  
+Quelle mine, quel port  ?  
+
+    GUZMAN.
+        Sa mine est équivoque.  
+Quelquefois elle plaît, bien souvent elle choque,   [1]
+Mais quant à la parole, il a grand agrément,  
+Et débite son fait fort nasillardement.  
+
+    JACINTE.
+Cela va bien. L'humeur  ?  
+
+    GUZMAN.
+        N'en est pas fort commune,  
+Gaie ou triste, selon les changements de Lune,  
+Quoiqu'il goûte en tout temps assez peu de repos ;  
+Car il est attaqué de tant et tant de maux,   [2]
+Qu'outre ceux que le corps éprouve accidentaires  
+Il en pourrait compter cinq ou six ordinaires.  
+Il mouche, il tousse, il crache en poumon malaisé,  
+Pour fluxions sans cesse il est cautérisé,  
+Goutteux ce que doit l'être un goutteux d'origine,  
+Toujours vers le poignet muni de la plus fine ;  
+Joignez à tout cela, vilain, jaloux, quinteux,  
+Obstiné plus qu'un Diable, et mutin plus que deux,  
+Malpropre autant que douze en mine, en barbe, en linge,  
+Rusé comme un renard, et malin comme un singe.  
+Quant au savoir, jamais on n'approcha du sien,  
+Il sait mille secrets à ne guérir de rien.  
+Pour tous ces petits maux de rhume, toux, migraine,   [3]
+Il compose à ravir l'onguent mitonmitaine,  
+De chaque saltimbanque il prend leçon exprès ;  
+Au reste fort dévot, à l'intention près.  
+Il fait garder chez lui si souvent l'abstinence  
+Qu'on y jeûne toujours deux Carêmes d'avance.  
+Voilà de ses vertus le fidèle récit.  
+
+    ISABELLE.
+Je passerais partout s'il avait de l'esprit.  
+
+    GUZMAN.
+De l'esprit ! Ah Madame, il fait des Comédies.  
+
+    JACINTE.
+Ce métier est mal propre à guérir ses folies,  
+Il en empirera bien loin d'en amender.  
+
+    GUZMAN.
+Comme un Poète fameux il se fait regarder,  
+Il en a composé déjà plus de vingt paires,  
+Mais les Comédiens n'en représente guères,  
+Le style en est si haut qu'ils n'y comprennent rien.  
+Lui-même toutefois en dit assez de bien,  
+Il en trouve toujours l'intrigue bonne et belle,  
+Et sa démangeaison de les produire est telle,  
+Que faute bien souvent d'auditeurs plus parfaits,  
+Il va les débiter jusques à des laquais ;  
+Mais avant qu'il soit peu vous le pourrez connaître.  
+
+    JACINTE.
+Et bien  ? Jamais Valet servit-il mieux son Maître  ?  
+Il fait tout ce qu'il peut pour vous en dégoûter.  
+
+    GUZMAN.
+Aussi pour deux raisons dois-je le souhaiter.  
+L'une, vous êtes belle, et ce sera dommage  
+Qu'avec lui vous perdiez le plus beau de votre âge,  
+Et l'autre, Don Alvar serait son héritier.  
+
+    ISABELLE.
+Et qui est Don Alvar  ?  
+
+    GUZMAN.
+        Un brave cavalier,  
+Noble, vaillant, civil, bien né, de bonne mine,  
+Discret.  
+
+    JACINTE.
+        Que n'est-ce là celui qu'on vous destine,   [4]
+Et pourquoi votre père, au lieu de ce malfait,  
+N'a-t-il pas pris pour gendre un homme si parfait  ?  
+Il a bien dans ce choix témoigné son caprice.  
+
+    GUZMAN.
+Oui, mais ce Don Alvar comme un autre a son vice,  
+Qui de tant de vertus obscurcit bien l'éclat.  
+
+    ISABELLE.
+Quel peut être ce vice  ?  
+
+    GUZMAN.
+        Il est gueux comme un rat.  
+
+    ISABELLE.
+Si l'esprit n'est content, le bien est peu de chose.  
+
+    GUZMAN.
+À l'hymen toutefois je crois qu'il se dispose,  
+La Soeur de Don Bertran du moins ne le hait pas.  
+Vous la verrez ce soir.  
+
+    ISABELLE.
+        Elle a beaucoup d'appas  ?  
+
+    GUZMAN.
+Autant qu'elle en avait quand elle vint au monde.  
+Jamais fille ne fut si délicate et blonde ;  
+Soit défaut de nature, ou bien excès d'amour,  
+Elle s'évanouit plus de sept fois par jour.  
+
+    JACINTE.
+On doit de ce talent estimer l'avantage.  
+
+
+## SCÈNE III. Don Garcie, Isabelle, Jacinte, Guzman.
+
+    DON GARCIE.
+Et bien, selon ton ordre as-tu fait son message  ?  
+
+    GUZMAN.
+Je l'ai fait tel, Monsieur, que j'ai cru le devoir,  
+Don Alvar cependant vous peut-il venir voir  ?  
+Il attend qu'on lui veuille accorder audience.  
+
+    DON GARCIE.
+Oui, fais qu'il vienne, va.  
+
+    GUZMAN.
+        J'y cours en diligence.  
+
+
+## SCÈNE IV. Don Garcie, Isabelle, Jacinte.
+
+    DON GARCIE.
+Quoi, je te trouve en pleurs  ?  
+
+    ISABELLE.
+        J'y puis bien être, hélas !  
+Si vous ne révoquez l'arrêt de mon trépas.  
+Vous-même jugez-en ; que puis-je me promettre,  
+De qui m'ose envoyer une si belle lettre  ?  
+
+    DON GARCIE.
+Peu de chose souvent brouille un jeune cerveau,  
+Voyons.  
+
+    ISABELLE, LUI DONNANT SA LETTRE.
+        Le compliment en est rare et nouveau.  
+
+    JACINTE, À ISABELLE.
+Ne vous relâchez pas, et quoi qu'il en arrive,  
+Toujours le même ton, ferme, la négative.  
+
+    ISABELLE.
+Il n'en arrivera que ce que j'en prévois,  
+Ses six mille ducats plairont plus qu'à moi,  
+Et son coeur se rendant à de si honteux charmes  
+Sans en être touché, verra couler mes larmes.  
+
+    JACINTE.
+Puisqu'il branle la tête il n'est pas satisfait.  
+
+    DON GARCIE, BAS.
+À dire vrai, ce Gendre a l'esprit bien mal fait.  
+
+    ISABELLE.
+Et bien, que dites-vous d'une telle sottise  ?  
+
+    DON GARCIE.
+Te faut-il étonner qu'il parle avec franchise  ?  
+Cesse d'être alarmée et de t'en indigner,  
+La plus fâcheuse humeur est aisée à gagner.  
+
+    ISABELLE.
+Mais ce n'est qu'un vilain, un avare.  
+
+    DON GARCIE.
+        Ma fille,  
+C'est par là que l'éclat vient dans une famille ;  
+L'épargne est nécessaire à qui veut s'agrandir.  
+
+    ISABELLE.
+Il est capricieux.  
+
+    DON GARCIE.
+        Il lui faut applaudir.  
+
+    ISABELLE.
+Il est opiniâtre, et commande à la baguette. .  
+
+    DON GARCIE.
+Et bien, sois complaisante, et fais ce qu'il souhaite.  
+Mais va quérir son masque.  
+
+    JACINTE SORT, ET IL CONTINUE.
+        Au moins dois-tu d'abord  
+Lui montrer un esprit souple, docile, accort,  
+Et que puisqu'il défend que Don Alvar te voie,  
+À lui plaire aujourd'hui tu mets toute ta joie.  
+
+    ISABELLE.
+C'est bien vouloir ma perte et haïr mon repos  
+Que de me marier ainsi mal à propos.  
+Le ridicule époux ! Ah, j'en perds patience.  
+
+    DON GARCIE.
+J'ai tort de n'avoir pas consulter ta prudence.  
+
+    ISABELLE.
+J'aimerais mieux cent fois entrer dans un Couvent.  
+
+    DON GARCIE.
+Il t'en faut donner un avec la plume au vent,  
+Un de ces fanfarons à l'âme efféminée,   [5]
+Qui mangent tout leur fait dès la première année  ?  
+
+    ISABELLE.
+Mon père, si mes pleurs...  
+
+    DON GARCIE.
+        Ne crois rien obtenir,  
+J'ai donné ma parole, et je la veux tenir,  
+Ma volonté doit être, et sera la plus forte.  
+Mais j'entends, ce me semble, un carrosse à la porte,  
+Cache cette tristesse, et ne témoigne pas...  
+
+
+## SCÈNE V. Don Garcie, Isabelle, Jacinte.
+
+    JACINTE.
+Voyez ce beau Cousin envoyé d'Yllescas,  
+Je l'ai vu dans la cour. Ah, qu'il a bonne mine !  
+
+    DON GARCIE.
+Masque-toi promptement.  
+
+    ISABELLE.
+        Ô coup qui m'assassine !  
+Il est inexorable, et je n'y gagne rien.  
+
+    JACINTE.
+Il s'aime plus que vous, il le témoigne bien.  
+
+
+## SCÈNE VI. Don Garcie, Don Alvar, Isabelle, Jacinte, Guzman.
+
+    DON GARCIE.
+Soyez le bien venu.  
+
+    DON ALVAR.
+        Le Ciel, ô Don Garcie,  
+Vous comble d'un bonheur où chacun porte envie !  
+Vous savez ce qu'ici je viens vous demander.  
+
+    DON GARCIE.
+Holà, des sièges.  
+
+    DON ALVAR.
+        Non, je ne saurais tarder.  
+Il continue à lui parler à l'oreille.
+
+
+    ISABELLE.
+Ô Ciel, que vois-je ! Hélas, Jacinte, c'est lui-même.  
+
+    JACINTE.
+Qui, Madame  ?  
+
+    ISABELLE.
+        C'est lui, cet Inconnu que j'aime.  
+Qui m'a sauvé la vie, et dont je t'ai parlé.  
+
+    DON ALVAR, À GARCIE.
+Enfin par ses désirs mon pouvoir est réglé.  
+Sa volonté le borne, et ma charge est expresse,  
+Je vous dois de sa part demander sa Maîtresse,  
+La mener en carrosse, et la suivre à cheval.  
+
+    DON GARCIE, BAS.
+Tant de précautions sentent bien son brutal.  
+Je n'ose sur ce point vous presser davantage,  
+Et sans plus différer je consens au voyage.  
+Vous voyez Isabelle en état de partir.  
+
+    DON ALVAR, À ISABELLE MASQUÉE.
+Des coups que vous portez on veut me garantir,  
+Madame, et si l'on cache à ma débile vue  
+Les célestes attraits dont vous êtes pourvue,  
+L'on connaît que l'éclat n'en peut être souffert,  
+Que je pourrais me perdre où tout autre se perd,  
+Et malgré le respect où mon âme est forcée,  
+Permettre pour le moins un crime à ma pensée.  
+
+    ISABELLE.
+Vous me confirmer bien ce qu'on m'a toujours dit,  
+Que la civilité n'est pas toute à Madrid.  
+Trouver lieu sans me voir à tant de flatterie,  
+C'est le dernier effet de la galanterie ;  
+Mais peut-être tantôt, lorsque vous me verrez,  
+D'un pareil compliment vous vous repentirez,  
+Vous changerez sans doute et d'âme et de langage.  
+
+    DON ALVAR.
+Moi, Madame, en changer ! Ce sentiment m'outrage,  
+Et vous devez penser qu'au mérite toujours...  
+
+    DON GARCIE.
+C'est trop continuer d'inutiles discours,  
+Partons puisqu'il le faut.  
+
+    DON ALVAR.
+        Il n'est pas nécessaire  
+Que vous quittiez Madrid pour une telle affaire.  
+
+    DON GARCIE.
+Je ne vous suivrais point ! Et par quelle raison.  
+
+    DON ALVAR.
+Don Bertran le défend.  
+
+    DON GARCIE.
+        Moi, garder la maison,  
+Et souffrir que d'un autre il reçoive Isabelle !  
+Il me prend pour un homme à bien lourde cervelle.  
+
+    DON ALVAR.
+Il croit par ce billet que je dois vous laisser,  
+Vous ôter sur ce point tout lieu de balancer,  
+Et veut, comme bon Gendre, épargner à votre âge  
+La peine et l'embarras de faire ce voyage.  
+
+    DON GARCIE.
+En effet, Yllescas est bien loin de Madrid !  
+
+    DON ALVAR.
+Enfin vous résoudrez sur ce qu'il a souscrit.  
+
+    DON GARCIE, LIT. [6]
+Par devant Alonse Ruiz et Domingo Sanchez, Notaire Royaux à Tolède, s'est comparu Don Bertran de Cigarral, lequel de son bon gré, et sans aucune contrainte, a reconnu et confessé avoir reçu de Don Garcie de Contreras une sienne fille, avec ses taches bonnes ou mauvaises, se soumettant d'en faire au plutôt son épouse légitime, et de la lui rendre telle et aussi entière toutefois et quantes qu'elle lui pourra être demandée pour nullité de fait. En témoin de quoi ils ont signé à Tolède ce 19. de Mai 1651.Don BERTRAN DE CIGARRAL, ALONSO RUIZ, DOMINGO SANCHEZ.
+
+    ISABELLE.
+A-t-on jamais parlé de telle extravagance  ?  
+
+    DON GARCIE.
+Il a perdu l'esprit avecque sa quittance.  
+Traiter ainsi ma fille ! Où diable a-t-il pensé,  
+De l'attendre au moyen de son récépissé  ?  
+À Don Alvar.
+
+Mais de grâce, entre nous, qu'est-ce qu'il en soupçonne  ?  
+Croit-il que je la vends, ou bien que je la donne  ?  
+
+    DON ALVAR.
+Ce caprice pour lui m'oblige de rougir,  
+Mais j'ai beau l'en blâmer, c'est sa façon d'agir.  
+Il ne s'en peut défaire.  
+
+    ISABELLE.
+        Elle est assez étrange.  
+
+    DON GARCIE.
+Ne t'inquiète point, en moins de rien on change.  
+Il ne sera pas tel que nous nous figurons,  
+Et nous recevra mieux que nous ne l'espérons,  
+Ne différons donc plus, et partons sans remise.  
+
+    ISABELLE.
+Hélas ! Quelle espérance à mon âme est permise  ?  
+
+
+# ACTE II.
+
+
+## SCÈNE PREMIÈRE. Don Félix, Mendoce.
+
+    MENDOCE.
+À la fin nous voici, Monsieur, dans Yllescas.  
+
+    DON FELIX.
+Ô lieu pour moi funeste ! Hélas, Mendoce, hélas !  
+Ne me demande point le sujet qui m'amène ;  
+Si tu savais mon mal, si tu savais ma peine,  
+Tu me confesserais qu'en de tels déplaisirs  
+C'est peu que d'exhaler sa douleur en soupirs.  
+
+    MENDOCE.
+Je ne sais quel malheur vous avez lieu de craindre,  
+Vous ne songiez rien moins ce matin qu'à vous plaindre,  
+Ce coeur d'aucun souci ne paraissait chargé.  
+Et presque en un moment vous voilà tout changé.  
+Je vous trouve rêveur, inquiet, las de vivre,  
+Vous montez à cheval, et vous me faites suivre,  
+Nous marchons sans parler tout le long du chemin  
+Chez l'Hôte d'Yllescas nous arrivons enfin,  
+Et sans dire le mal dont votre âme est atteinte,  
+Vous redonnez encor de nouveau sur la plainte.  
+Quel est le sujet  ? Tirez-moi de souci.  
+
+    DON FELIX.
+Que te dirai-je  ? Hélas ! Je viens mourir ici,  
+Et rendre témoignage à la Beauté que j'aime,  
+Que comme sa rigueur mon amour est extrême.  
+
+    MENDOCE.
+Vous n'en mourrez donc pas puisqu'il s'agit d'amour.  
+C'est un mal qui commence, et finit en un jour  
+
+    DON FELIX.
+Pour en guérir sitôt la cause en est trop belle.  
+Depuis combien de temps adorai-je Isabelle  
+Sans que jamais refus, ni mépris, ni froideur,  
+Du feu qui me dévore ait modéré l'ardeur  ?  
+Cependant, ô disgrâce à qui raison cède  
+Don Garcie aujourd'hui la marie à Tolède,  
+Don Bertran son époux l'attend ici ce soir,  
+Toute prête à partir on me l'a fait savoir,  
+Et je viens empêcher, ou par force, ou par ruse,  
+Qu'un autre n'ait un bien qu'à ma flamme on refuse.  
+
+    MENDOCE.
+Sans venir vous montrer de son bonheur jaloux,  
+Vous eussiez bien mieux fait de demeurer chez vous.  
+Puisque tout est d'accord, que pouvez-vous prétendre  ?  
+
+    DON FELIX.
+L'espoir est si charmant qu'on ne s'en peut défendre.  
+Malgré de mon destin l'impitoyable loi  
+J'espère en Isabelle, en Don Bertran, en moi.  
+Je sais que son bien seul le rend recommandable,  
+Et qu'il sert à chacun de risée et de fable.  
+Il est brutal, bizarre, et peut-être à le voir,  
+Isabelle oubliera ce trop cruel devoir,  
+Dont l'âpre austérité la force en dépit d'elle  
+De courir en aveugle où sa rigueur l'appelle.  
+Je parlerai, Mendoce, et ce peu que je vaux  
+Se fera mieux connaître auprès tant de défauts,  
+Il pourra m'acquérir le coeur de mon ingrate,  
+Et faire réussir l'espoir dont je me flatte.  
+Que si trop de vertu l'oblige à se trahir  
+Jusqu'à vouloir me perdre en voulant obéir,  
+Comme ce Don Bertran n'agit que par caprice,  
+J'empêcherai par lui que l'Hymen s'accomplisse,  
+Et le faisant entrer en doute de sa foi,  
+Je saurai travailler et pour elle et pour moi.  
+L'artifice en amour fut toujours légitime ;  
+Feindre d'en être aimé n'est pas faire un grand crime,  
+Et peut-être par là mon Jaloux alarmé  
+Me cédera l'objet dont mon coeur est charmé,  
+Et sur un tel soupçon l'âme toute incertaine...  
+
+    MENDOCE.
+On se plaint, écoutez.  
+
+
+## SCÈNE II. Don Bertran, Léonor, Don Félix, Mendoce.
+
+    DON BERTRAN.
+        Je me soutiens à peine,  
+Au Diable soit la mule avec le Muletier.  
+
+    DON FELIX.
+Et bien, Mendoce, vois ce lourdaud, ce grossier,  
+C'est là ce Don Bertran.  
+
+    MENDOCE.
+        Ô l'homme ridicule !  
+
+    DON BERTRAN.
+Quel chien de trot allait cette maudite mule !  
+J'en ai le col démis, et les os tout rompus.  
+
+    LÉONOR.
+Quand vous vous marierez il n'y paraîtra plus.  
+
+    DON BERTRAN.
+Vous parlez donc proverbe, ô Soeur à blonde tresse  ?  
+
+    LÉONOR.
+Toute douleur s'apaise auprès d'une Maîtresse.  
+Ah, si pareil bonheur...  
+
+    DON BERTRAN.
+        C'est bien pour votre nez.  
+
+    LÉONOR.
+Si vous vouliez pourtant...  
+
+    DON BERTRAN.
+        Ah, vous m'importunez.  
+
+    LÉONOR.
+Don Alvar...  
+
+    DON BERTRAN.
+        Don Alvar n'est pas encor trop sage,  
+Je veux laisser mûrir son esprit davantage ;  
+Pour quelque couple d'ans rengainez vos amours.  
+
+    LÉONOR.
+Mais vous ne songez pas que je vieillis toujours.  
+
+    DON BERTRAN.
+N'importe.  
+
+    LÉONOR.
+    Puisqu'il m'aime...  
+
+    DON BERTRAN.
+        Achevons, je vous prie.  
+
+    LÉONOR.
+Vous devriez...  
+
+    DON BERTRAN.
+        Suffit qu'un de nous se marie,  
+Je vous le tranche net devant ce Cavalier.  
+
+    LÉONOR.
+Vous venez donc ici, monsieur, vous marier ?  
+
+    DON BERTRAN.
+À peu près, et ma Soeur semble en être jalouse.  
+Pour peu que vous tardiez vous verrez mon Épouse,  
+Elle viendra bientôt, je l'ai mandée exprès.  
+On m'a dit qu'elle est belle à regarder de près.  
+
+    DON FELIX.
+À voir ce que le ciel aujourd'hui lui prépare,  
+Je la crois d'un mérite et bien haut et bien rare ;  
+L'éclat de son bonheur blessera bien des yeux.  
+
+    DON BERTRAN.
+N'importe, elle m'aura malgré les Envieux ;  
+Mais on m'en vient enfin dire quelque nouvelle,  
+Je vois un de mes gens.  
+
+
+## SCÈNE III. Don Bertran, Don Félix, Léonor, Guzman, Mendoce.
+
+    DON BERTRAN.
+        Et bien, notre Isabelle,  
+Est-elle encore loin  ?  
+
+    GUZMAN.
+        Environ à cent pas.  
+
+    DON BERTRAN.
+Ma lettre, qu'en dit-elle ?  
+
+    GUZMAN.
+        Elle en fait un grand cas.  
+Aussi c'est une aimable et bonne créature,  
+Je n'en n'ai jamais vu de plus belle en peinture,  
+De ses yeux rayonnants l'éclat est sans pareil ;  
+Votre coeur s'y fondra comme cire au Soleil,  
+Prenez bien garde à vous.  
+
+    DON BERTRAN.
+        Mon Cousin l'a-t-il vue ?  
+
+    GUZMAN.
+Je l'avais fait masquer.  
+
+    DON BERTRAN.
+        L'a-t-il entretenue ?  
+
+    GUZMAN.
+Point du tout.  
+
+    DON BERTRAN.
+    Elle m'aime ?  
+
+    GUZMAN.
+        Oui, je crois qu'elle en tient.  
+Savez-vous cependant que le Beau-père vient,  
+Qu'il veut se réjouir et danser à la noce  ?  
+Mais les voici venus, et j'entends le carrosse.  
+
+    DON BERTRAN.
+Pour rire à mes dépends il s'en vient donc exprès  ?  
+C'est bien ici le temps de faire tant de frais,  
+Il peut s'en retourner si c'est ce qui l'amène.  
+
+    DON FELIX.
+Est-il supplice égal à l'excès de ma peine  ?  
+
+
+## SCÈNE IV. Don Garcie, Don Bertran, Don Alvar, Don Félix, Isabelle, masquée, Léonor, Jacinte, Guzman, Mendoce.
+
+    JACINTE.
+Quelle figure d'homme !  
+
+    ISABELLE.
+        Ô le vilain époux !  
+Est-il rien de plus laid  ?  
+
+    DON BERTRAN.
+        Beau-père, approchez-vous.  
+À Don Alvar.
+
+À mes ordres ainsi vous êtes réfractaire,  
+Et vous m'avez enfin amené le beau-père.  
+
+    DON GARCIE.
+Je viens vous témoigner qu'en vain...  
+
+    DON BERTRAN.
+        Sans compliment,  
+Oyez un mot ici.  
+
+    JACINTE, À ISABELLE REGARDANT LÉONOR.
+        C'est elle assurément,  
+C'est cette blonde soeur de Don Alvar éprise.  
+Mais voyez, Don Félix...  
+
+    ISABELLE.
+        Ô Ciel, quelle surprise  ?  
+Que Don Félix ainsi vienne mal à propos  
+Jusqu'ici me déplaire, et troubler mon repos !  
+
+    DON FELIX.
+Mendoce, elle me voit.  
+
+    DON GARCIE, À DON BERTRAN.
+        C'est une affaire faite,  
+Sa volonté se borne à ce que je souhaite.  
+
+    DON BERTRAN.
+Je puis donc lui parler ainsi qu'il me plaira  ?  
+
+    DON GARCIE.
+Sans doute.  
+
+    DON BERTRAN.
+    Et mon discours...  
+
+    DON GARCIE.
+        Soudain la charmera.  
+
+    DON BERTRAN.
+Je m'en vais l'aborder. Ah, Madame Isabelle,  
+Ou bien vous êtres laide, ou bien vous êtes belle.  
+Or si vous êtes laide, il vous faut sur ma foi  
+Ne montrer vos laideurs à personne qu'à moi ;  
+Et si vous êtes belle à bon droit j'appréhende,  
+Car la fragilité du sexe est assez grande.  
+Ainsi soit belle ou laide, et dût-on s'en moquer,  
+C'est fort bien avisé que vous faire masquer.  
+
+    ISABELLE.
+L'impertinent discours! Quelle réponse y faire ?  
+
+    JACINTE.
+Songez-y toutefois, il l'attend.  
+
+    DON BERTRAN.
+        Ho, Beau-père,  
+Elle ne répond point, qui l'en peut empêcher  ?  
+
+    DON GARCIE.
+Contre la modestie elle craint de pécher.  
+
+    DON BERTRAN.
+Sur le point de se voir richement mariée,  
+L'aise la tient ainsi sans doute extasiée  ?  
+
+    DON GARCIE.
+Parler bien à propos est fort rare aujourd'hui.  
+
+    DON BERTRAN.
+Il est vrai, par soi-même on juge mal d'autrui.  
+C'est donc qu'elle n'a pas en main la répartie  ?  
+
+    DON GARCIE.
+Je vous ai déjà dit que c'est par modestie.  
+
+    DON BERTRAN.
+Vous tairez-vous toujours, Objet, ma passion  ?  
+
+    ISABELLE.
+Le silence est l'effet de l'admiration,  
+Et vos rares vertus qui font que je soupire  
+M'étonnent tellement que je ne sais que dire.  
+Leur éclat a surpris mon coeur au dépourvu,  
+Et si sans vous connaître et sans vous avoir vu,  
+Les compliments civils dont votre lettre est pleine  
+M'ont interdit les sens, et mis l'âme à la gêne ;  
+Jugez si je les puis aisément rappeler,  
+En vous voyant vous-même et vous oyant parler.  
+
+    DON ALVAR, À GUZMAN.
+Il ne s'aperçoit pas qu'on le raille.  
+
+    DON BERTRAN.
+        Ah galante !  
+Plus matoise que vous n'est pas trop innocente,  
+Et bien, que dites-vous de ce discours adroit,  
+Ma Soeur  ?  
+
+    LÉONOR.
+        Qu'elle répond comme une autre ferait.  
+
+    DON BERTRAN.
+Et mon Cousin  ?  
+
+    DON ALVAR.
+        Qu'il faut que toute autre lui cède,  
+Et qu'elle a trop d'esprit pour ne pas être laide.  
+
+    DON FELIX, BAS.
+J'éprouve le contraire, hélas, à mes dépens.  
+
+    LÉONOR.
+Faites-la démasquer, mon Frère, il en est temps.  
+
+    DON BERTRAN.
+Oui, ça, voyons un peu qu'elle est votre figure,   [7]
+Et si vous n'êtes point de laide regardure  ?  
+
+    ISABELLE, SE DÉMASQUANT.
+C'est à moi d'obéir puisque vous l'ordonnez.  
+
+    DON ALVAR.
+Que vois-je  ? Hélas ! Guzman.  
+
+    GUZMAN.
+        Quoi donc, vous en tenez  ?  
+
+    DON FELIX, À MENDOCE.
+À la voir seulement que mon âme est ravie !  
+
+    DON ALVAR.
+C'est celle que j'adore, et qui me doit la vie.  
+Je suis perdu, Guzman, si l'hymen s'accomplit.  
+
+    JACINTE, À ISABELLE.
+L'on vous a reconnue, et Don Alvar pâlit.  
+
+    DON BERTRAN.
+Ma foi, je ne sais pas quel en fut l'exemplaire,  
+Mais vous avez bien là réussi, mon Beau-père.  
+
+    DON GARCIE.
+Ce qu'elle a de beauté pour le moins est sans fard.  
+
+    DON BERTRAN. [8] [9]
+Elle a l'oeil à mon gré mignardement hagard ;  
+Et si jamais en vers je dois peindre une Belle,  
+Allez, je pourrai bien prendre patron sur elle.  
+
+    ISABELLE ? À JACINTE.
+As-tu jamais ouï discours plus ennuyeux !  
+
+    JACINTE.
+Écoutez, Don Alvar, il vous parle des yeux.  
+
+    DON BERTRAN, À DON ALVAR.
+Est-elle laide  ? Et bien, le croyez-vous encore  ?  
+
+    DON ALVAR.
+Elle est incomparable, et digne qu'on l'adore.  
+
+    DON BERTRAN, À ISABELLE.
+Oyez-vous ce qu'il dit  ?  
+
+    ISABELLE.
+        Don Alvar est flatteur.  
+
+    DON ALVAR, BAS.
+Tu m'avouerais que non si tu voyais mon coeur.  
+
+    DON BERTRAN.
+Vous me semblez parfaite autant que les parfaites,  
+Vous avez les yeux doux, les paupières bien faites,  
+Qui ne vous aimerait, je le tiendrais pour sot.   [10]
+Ma foi, remasquez-vous, ou je ne dirai mot,  
+Visage découvert, je n'en sais par où prendre.  
+
+    ISABELLE.
+Votre entretien est tel que je n'ose y prétendre ;  
+Cessez de profaner un discours si poli.  
+
+    DON BERTRAN, À DON GARCIE.
+Vous l'avez bien instruite, elle a l'esprit joli ;  
+Son humeur toutefois me semble un peu rêveuse.  
+Mon Cousin, contez-lui quelque histoire amoureuse,  
+Mais qui soit intriguée, et pleine d'incidents.  
+À Isabelle se touchant le front avec la main.
+
+Vous verrez quel esprit s'enferme là-dedans,  
+J'en saurai dès demain en faire une Comédie,  
+Que pour gage d'amour déjà je vous dédie.  
+Vous divertiriez-vous à l'ouïr  ?  
+
+    ISABELLE.
+        Je le crois.  
+
+    DON BERTRAN.
+Dites donc.  
+
+    DON ALVAR.
+        Je commence. Amour, seconde-moi.  
+En un jour de Taureaux, hors Madrid, dans la plaine,  
+Un Cavalier suivait une route incertaine,  
+Lorsqu'un digne spectacle ayant frappé ses yeux  
+Réveilla tout à coup son esprit curieux.  
+Une Dame, en sa taille à nulle autre seconde,  
+Semblait pour être seule avoir fui tout le monde,  
+Et loin des yeux publics venir rêver exprès  
+Où le courant du Fleuve offre un aimable frais.  
+Il s'arrête, et de loin surpris il examine  
+Quel dessein peut avoir cette Beauté divine,  
+Qu'à son port il croit telle, et digne de l'ardeur  
+Dont peut un bel objet enflammer un grand coeur.  
+Mais dans cette surprise il ne demeura guères  
+Qu'un fier Taureau s'échappe, et force les barrières,  
+Et de cette Inconnue eût terminé les jours,  
+S'il n'eût été du Ciel conduit à son secours.  
+Il s'avance, il s'écrie, et voit avecque joie  
+Que toute sa fureur sur lui seul se déploie.  
+Avec un peu d'adresse il évite d'abord  
+Dans sa première rage une infaillible mort,  
+Tant que prenant son temps enfin il sait l'abattre ;  
+Et le met d'un seul coup hors d'état de combattre.  
+Quelle pouvait alors être cette Beauté  
+Qui se croyait encor à peine en sûreté !  
+Il la voit toute pâle, et son charmant visage  
+Cacher tous ses attraits sous un petit nuage,  
+Mais s'étant rassurée au succès du combat,  
+Cette même pâleur en rehaussa l'éclat,  
+Avec qui la pudeur faisant un doux mélange  
+Aux yeux du Cavalier la fit paraître un Ange.  
+Mais quels charmes nouveaux et quels ravissements  
+Quand son esprit parut dans ses remerciements !  
+Avecque tant de grâce elle se plaît à dire  
+Qu'elle tient de lui seul le jour qu'elle respire,  
+Que charmé d'un esprit et si prompt et si vif,  
+De son libérateur il devient son captif ;  
+Dans ses yeux aussitôt sa passion éclate.  
+En ce point toutefois elle se montre ingrate,  
+Qu'osant de sa vertu former quelque soupçon  
+Elle reste obstinée à lui cacher son nom.  
+D'ingratitude en vain son reproche l'accuse,  
+Une raison secrète est toute son excuse,  
+Se découvrir à lui c'est se mettre en danger,  
+Et s'il la veut enfin pleinement obliger,  
+Il faut qu'il se résolve à taire sa victoire,  
+Et qu'il n'en cherche point d'autre fruit que la gloire.  
+Il s'engage au secret, il en donne sa foi,  
+Et de cette parole il se fait une loi.  
+Enfin elle le quitte, et joint une autre Dame,  
+Sans donner plus d'espoir à sa nouvelle flamme.  
+Il les voit tout confus d'un regard curieux,  
+En s'éloignant de lui, jeter sur lui les yeux,  
+Il se donne à les suivre une peine inutile,  
+Entrant dans un carrosse elles gagnent la ville,  
+Ou pendant quelque jour il tâche à découvrir  
+Quel est ce cher Objet qu'il a su secourir.  
+Cependant un Ami, marié par promesse,  
+L'engage d'aller voir avec lui sa Maîtresse ;  
+Mais quel sensible coup à son coeur enflammé,  
+Lorsqu'en elle il connaît l'Objet qui l'a charmé,  
+Qu'il voit un autre heureux, et qu'enfin on s'apprête  
+À l'enrichir bientôt de sa propre conquête !  
+Il soupire, il lui parle, et devant son Rival,  
+Sans qu'il s'en aperçoive, il lui conte son mal.  
+Elle en paraît surprise, il l'attendrit sans doute,  
+Avec émotion il voit qu'elle l'écoute,  
+Mais sa seule espérance est dans le désespoir,  
+Puisqu'elle s'abandonne à son triste devoir.  
+Au récit du malheur dont le destin l'accable.  
+Jugez s'il fut jamais amant plus déplorable.  
+
+    ISABELLE.
+Je plains fort l'un et l'autre, et doute qui des deux   [11]
+En ce triste rencontre est le plus malheureux.  
+Un bienfait peut beaucoup sur un noble courage,  
+Peignant un grand mérite en secret il engage,  
+C'est un fidèle agent qui parle nuit et jour,  
+Dans la reconnaissance il entre un peu d'amour,  
+Sa flamme sous ce masque aisément se déguise,  
+L'on court même au-devant de sa douce surprise ;  
+Tant il est difficile, après un tel bonheur,  
+De donner son estime, et de garder son coeur.  
+De cette Dame ainsi le malheur est extrême,  
+Car enfin elle perd ce que sans doute elle aime,  
+Et pour comble de maux, dans son affliction  
+On la livre à l'objet de son aversion.  
+
+    DON ALVAR.
+Que dites-vous, Madame  ? Ah, s'il osait le croire,  
+Qu'en un si grand malheur il trouverait de gloire !  
+
+    ISABELLE.
+Si par un si grand service il l'a su mériter,  
+Sans l'en juger indigne, il n'en saurait douter.  
+
+    DON ALVAR.
+Vous trouvez cependant qu'ils sont tous deux à plaindre  ?  
+
+    ISABELLE.
+C'est ne l'être pas peu qu'être réduits à feindre.  
+
+    DON ALVAR.
+Si d'un pareil malheur vous ressentiez les coups,  
+Contre ou pour cet Amant que résoudriez-vous  ?  
+
+    ISABELLE.
+Que résoudrais-je, hélas ! Pour le prix de sa flamme  
+Il aurait mes soupirs au défaut de mon âme,  
+Et s'il m'était permis de disposer de moi...  
+
+    DON ALVAR.
+Qu'obtiendrait-il, Madame  ?  
+
+    ISABELLE.
+        Et mon coeur, et ma foi.  
+
+    DON ALVAR.
+Ce serait le combler d'une joie infinie  
+Que...  
+
+    ISABELLE.
+        Tout doux, mon Cousin, et sans cérémonie,  
+Vous vous émancipez ; un peu plus bas d'un ton.  
+Diable, quelle Commère ! Elle entend le jargon !  
+
+    ISABELLE.
+J'ai fait cette réponse avec grande innocence.  
+
+    DON BERTRAN.
+Holà, vous en saurez bien d'autres, que je pense.  
+Rêvez si vous voulez, mais je me trompe bien  
+Si pour vous égayer il vous conte plus rien.  
+
+    DON ALVAR.
+Vous m'aviez demandé quelque histoire amoureuse.  
+
+    DON BERTRAN.
+Vous êtes un causeur, elle est une causeuse.  
+Mais, ma foi, je la veux un peu dépayser,  
+Et voir si dans Tolède on l'entendra jaser,  
+Moi présent, son époux. Oyez, les belles filles,  
+Il faut de grand matin demain trousser ses quilles,  
+Peut-être avant le jour, car j'ai hâte, et je veux  
+Sur mon propre fumier faire un peu l'amoureux ;  
+La station m'en semble et moins chère et meilleure.  
+
+    DON GARCIE.
+Vous n'avez pour partir qu'à nous donner votre heure.  
+
+    DON BERTRAN.
+Celle qu'il me plaira ; chacun peut sur un lit  
+Se tenir toujours prêt sans quitter son habit.  
+Qui ne le sera point restera pour les gages.  
+
+    DON FELIX, À DON BERTRAN.
+Je prends si grande part à tous vos avantages,  
+Que demain avec vous, pour en être témoin,  
+J'irai jusqu'à Tolède.  
+
+    DON BERTRAN.
+        Il n'en est pas besoin,  
+Je sais bien le chemin.  
+
+    DON FELIX.
+    Mais...  
+
+    DON BERTRAN.
+        Mais, ne vous déplaise.  
+
+    DON FELIX.
+Je vous honore assez...  
+
+    DON BERTRAN.
+        Et bien j'en suis fort aise.  
+
+    DON FELIX.
+Vous pourriez aujourd'hui me refuser ce point,  
+À moi qui...  
+
+    DON BERTRAN.
+        À vous qui, je ne vous connais point.  
+
+    DON FELIX.
+J'étais fort grand Ami de Monsieur votre Père,  
+Il m'estimait beaucoup.  
+
+    DON BERTRAN.
+        Je n'y saurais que faire,  
+Il pria qui lui plût quand il se maria,  
+Mais de son temps au mien grand changement y a.  
+Pourvoyez-vous ailleurs.  
+
+    DON FELIX.
+        Quelle étrange saillie !  
+
+    MENDOCE.
+Je l'envoierais au diable avecque sa folie.  
+
+    DON FELIX.
+Adieu, ne craignez point que je suive vos pas.  
+
+    DON BERTRAN.
+Ne me voyez jamais, je n'en pleurerai pas.  
+
+
+## SCÈNE V. Don Garcie, Don Bertran, Don Alvar, Don Félix, Isabelle, Léonor, Jacinte, Guzman.
+
+    DON BERTRAN.
+De pareils estafiers le quart d'une douzaine  
+À désenfler ma bourse aurait bien peu de peine.  
+Où Diable celui-ci s'est-il venu fourrer  ?  
+Se prier de ma noce afin de s'y bourrer  ?  
+Il s'est bien adressé pour rencontrer sa dupe ;  
+Mais comme il se fait tard, un autre soin m'occupe.  
+De quoi souperons-nous  ? Ma Maîtresse, allons voir  
+Si l'hôte a quelque chose à nous donner ce soir,   [12]
+Nous choisissons ensemble un morceau de régale.  
+Venez.  
+Il lui présente sa main sans gant.
+
+
+    ISABELLE.
+    Ah !  
+
+    DON BERTRAN.
+        Ce n'est rien, ce n'est qu'un peu de gale.  
+Je tâche à lui jouer pourtant d'un mauvais tour,  
+Je me frotte d'onguent cinq ou six fois par jour,  
+Il ne m'en coûte rien, moi-même j'en sais faire,  
+Mais elle est à l'épreuve, et comme héréditaire ;  
+Si nous avons lignée elle en pourra tenir.  
+Mon père en mon jeune âge eut soin de m'en fournir,  
+Ma mère, mon aïeule, mes oncles, et mes tantes  
+Ont été de tout temps et galants et galantes,  
+C'est un droit de famille où chacun a sa part ;  
+Quand un de nous en manque il passe pour bâtard.  
+
+    DON GARCIE.
+Elle vous tien donc lieu de lettres de noblesse  ?  
+
+    ISABELLE.
+Le coeur va me manquer si ce discours ne cesse.  
+
+    DON BERTRAN.
+Je vous entends, la belle, allons le raffermir,  
+Et puis nous songerons un moment à dormir.  
+
+
+## SCÈNE VI. Don Alvar, Guzman.
+
+    DON ALVAR.
+Jamais fou plus avant poussa-t-il sa folie  ?  
+
+    GUZMAN.
+S'il n'amende bientôt il faudra qu'on le lie.  
+Mais tantôt à vous voir j'ai resté tout confus,  
+Vous soupiriez  ?  
+
+    DON ALVAR.
+        Hélas ! Ne t'en étonne plus,  
+Je meurs pour Isabelle, et mon âme asservie...  
+
+    GUZMAN.
+Vous m'avez déjà dit qu'elle vous doit la vie,  
+Et je devine trop que cet événement...  
+
+    DON ALVAR.
+Est la source des maux que je souffre en aimant :  
+J'ai rencontré la mort dans mon champ de victoire,  
+Et j'en viens d'en conter la pitoyable histoire.  
+Que si jusqu'ici je t'en ai fait secret,  
+On m'en avait prié, Guzman, je suis discret.  
+
+    GUZMAN.
+Je crois, si Don Bertran savait ce qui se passe,  
+Qu'il vous en pourrait faire assez laide grimace,  
+Et que Léonor même, en ayant quelque vent,  
+S'en évanouirait encore plus souvent ;  
+Car elle vous en veut, Monsieur.  
+
+    DON ALVAR.
+        La digne Amante !  
+
+    GUZMAN.
+Elle vous est, je pense, assez indifférente  ?  
+
+    DON ALVAR.
+Si pesante de corps, et l'esprit si léger,  
+Soeur d'un Frère si fou, qui s'en voudrait charger  ?  
+Mais elle te parlait tantôt  ?  
+
+    GUZMAN.
+        Oui, pour me dire  
+Qu'elle veut cette nuit vous conter son martyre ;  
+Qu'elle ne fermera sa porte qu'à demi,  
+Et que quand vous croirez Don Bertran endormi  
+Vous alliez la trouver, elle vous fera fête,  
+N'y manquez pas.  
+
+    DON ALVAR.
+        J'ai bien d'autres soucis en tête.  
+
+    GUZMAN.
+Quels  ?  
+
+    DON ALVAR.
+    J'aime.  
+
+    GUZMAN.
+        Je le sais, qu'est-ce encor, qu'avez-vous  ?  
+
+    DON ALVAR.
+Un mal beaucoup plus grand, Guzman, je suis jaloux.  
+
+    GUZMAN.
+Déjà  ?  
+
+    DON ALVAR.
+        Ce cavalier me donne de l'ombrage  
+Qui voulait avec nous achever le voyage.  
+Il ne s'est point ici rencontré sans dessein,  
+Sans doute un même feu nous échauffe le sein,  
+Isabelle le charme, il la suit, et peut-être  
+Il a gagné son coeur, il s'en est rendu maître.  
+Guzman, s'il est ainsi, ma flamme a peu d'espoir.  
+
+    GUZMAN.
+Il n'est pas malaisé, Monsieur, de le savoir.  
+Il a certain Valet que je crois fort capable  
+De faire d'un secret confidence amiable ;  
+Je lui saurai ce soir tâter le pouls de près.  
+
+    DON ALVAR.
+Parle donc, et de tout nous résoudrons après.  
+
+
+# ACTE III.
+
+
+## SCÈNE PREMIÈRE. Don Alvar, Guzman.
+
+    GUZMAN.
+Oui, vous dis-je, cessez d'en prendre de l'ombrage,  
+Nous avons tout le soir trinqué de grand courage,  
+Et buvant tête à tête il m'a tout découvert ;  
+Que depuis plus d'un an ce Don Félix la sert,  
+Et qu'ayant d'un Valet appris que Don Garcie  
+Avecque Don Bertran en secret la marie,  
+Et qu'ils s'étaient ici donné le rendez-vous,  
+Il est parti soudain, désespéré, jaloux ;  
+Mais par quelques motifs qu'il se laisse conduire,  
+Aimez en assurance, il ne vous saurait nuire,  
+Il a beau protester qu'il est prêt de mourir,  
+Isabelle s'en moque, et ne le peut souffrir.  
+Poussez à cela prêt votre bonne fortune.  
+
+    DON ALVAR.
+Sa présence à ma flamme est toujours importune.  
+
+    GUZMAN.
+En l'état où je vois cette affaire aujourd'hui,  
+Je trouve Don Bertran plus à craindre que lui.   [13]
+Gardez de prendre ici quatorze au lieu de douze.  
+Si l'hymen se conclue  ? Si demain il l'épouse  ?  
+
+    DON ALVAR.
+Quoi, tu crois qu'Isabelle y pourrait consentir  ?  
+
+    GUZMAN.
+Je ne dis oui ni non de crainte de mentir,  
+Mais chacun dort ici, déjà la nuit s'avance,  
+Prenez l'occasion dans ce profond silence,  
+Tâchez de lui parler.  
+
+    DON ALVAR.
+        Je viens à ce dessein :  
+Frappe, voici sa chambre.  
+
+    GUZMAN.
+        En êtes-vous certain  ?  
+
+    DON ALVAR.
+J'ai bien tout observé de peur d'en être en peine,  
+Don Bertran choisissant cette chambre prochaine  
+A voulu qu'Isabelle eût cet appartement.  
+
+    GUZMAN.
+Je puis donc y frapper  ?  
+
+    DON ALVAR.
+        Oui, frappe assurément.  
+
+    GUZMAN.
+Et s'il faut qu'il s'éveille à ce bruit  ?  
+
+    DON ALVAR.
+        Il n'importe.  
+Mais quelqu'un parle, écoute, on ouvre cette porte,  
+Voyons qui sortira.  
+
+    GUZMAN.
+        Cachons-nous dans ce coin.  
+
+
+## SCÈNE II. Don Alvar, Isabelle, Jacinte, Guzman.
+
+    ISABELLE.
+Non, non, je ne veux pas me manquer au besoin ;  
+Allons trouver mon Père, et quoi qu'enfin prétende...  
+
+    JACINTE.
+Mais du moins attendez...  
+
+    ISABELLE.
+        Que veux-tu que j'attende  ?  
+Que demain de nouveau cet odieux époux  
+M'ôte la liberté d'embrasser ses genoux,  
+Et de le conjurer, s'il m'a donné la vie,  
+De ne pas consentir qu'elle me soit ravie  ?  
+
+    JACINTE.
+J'approuve votre avis, et veux ce qui vous plaît ;  
+Mais nous ne savons point en quelle chambre qu'il est,  
+Où le chercherons-nous  ?  
+
+    ISABELLE.
+        Ô destin trop contraire !  
+Faut-il qu'un peu de bien aveugle tant un Père,  
+Qu'il s'en laisse éblouir, et qu'un si vil poison  
+D'une honteuse atteinte infecte sa raison !  
+Mais sans plus balancer, rendons au vrai mérite  
+Le tribut innocent dont il nous sollicite,  
+Et s'il faut aujourd'hui se résoudre d'aimer,  
+Faisons un digne choix qu'on ne puisse blâmer.  
+Mais que dis-je  ? Il est fait, et ce serait un crime  
+De payer tant d'amour par une simple estime.  
+Vivons pour Don Alvar, et jusques au tombeau,  
+S'il m'aime...  
+
+    GUZMAN, À DON ALVAR.
+        Vous avez bonne part au gâteau.  
+
+    ISABELLE.
+Quelqu'un nous écoutait, et j'ai trahi ma flamme.  
+Ah Ciel !  
+
+    DON ALVAR.
+        Ne craignez rien, c'est Don Alvar, Madame.  
+
+    ISABELLE.
+Don Alvar !  
+
+    DON ALVAR.
+        Écoutez un malheureux Amant  
+Qu'un destin trop cruel poursuit obstinément,  
+Et qui prêt de vous perdre, en son malheur extrême  
+Se croira soulagé s'il vous dit qu'il vous aime.  
+Ce faible allégement dans un tel déplaisir  
+Ne nous saurait coûter tout au plus qu'un soupir.  
+
+    ISABELLE.
+Hélas !  
+
+    DON ALVAR.
+        Enfin, Madame, il n'est plus temps de feindre,  
+Mon amour est trop pur pour le vouloir contraindre ;  
+Qui languit sans espoir peut bien se déclarer,  
+La plus âpre vertu n'en saurait murmurer.  
+Par quel décret fatal me fûtes-vous connue !  
+Je vous perdis soudain après vous avoir vue,  
+Cependant en secret mon coeur porte vos fers,  
+Et quand je vous retrouve aussitôt je vous perds.  
+Ô fortune obstinée à traverser ma joie !  
+À combien de douleurs mets-tu mon âme en proie  ?  
+
+    ISABELLE.
+N'accusez aujourd'hui la fortune de rien,  
+Ce n'est qu'aux malheureux que la plainte sied bien.  
+Je ne cèlerai point que votre amour me touche,  
+Puisque vous avez pu l'apprendre de ma bouche,  
+Et que par cet aveu qui rend mes sens confus  
+Mes derniers sentiments vous sont assez connus.  
+Cessez donc de pleurer ma perte imaginaire,  
+Je ne dépends point tant des volontés d'un Père,  
+Qu'écoutant un devoir à mon repos fatal,  
+Je me laisse contraindre à l'amour d'un brutal.  
+Mon coeur, dût-il souffrir une peine infinie,  
+Saura se dérober à cette tyrannie ;  
+Mais je découvre trop dans ce triste revers  
+Pourquoi vous me perdez, et pourquoi je vous perds,  
+Vous aimez Léonor, Léonor vous engage,  
+Elle seule aujourd'hui charme votre courage,  
+Et je ne puis prétendre à m'acquérir un coeur  
+Qui reconnaît les lois d'un plus noble vainqueur.  
+
+    DON ALVAR.
+Par ce jaloux soupçon, allez, allez, Madame,  
+Au-devant de celui qui règne dans mon âme.  
+
+    ISABELLE.
+D'où vous pourrait venir ce sentiment jaloux,  
+Quand je romps un Hymen seul à craindre pour vous  ?  
+
+    DON ALVAR.
+Seul à craindre pour moi  ? Don Félix vous adore.  
+
+    ISABELLE.
+Que peut-il contre vous  ? Je le hais, je l'abhorre.  
+
+    DON ALVAR.
+Et que peut Léonor, puisqu'un juste mépris  
+Fut toujours de son feu l'unique et digne prix  ?  
+
+    ISABELLE.
+Enfin donc vous m'aimez  ?  
+
+    DON ALVAR.
+        Mon amour est extrême.  
+En puis-je croire autant  ? M'aimez-vous  ?  
+
+    ISABELLE.
+        Je vous aime,  
+Mais il faut empêcher...  
+
+    GUZMAN.
+        Brisez tout court ici,  
+On ouvre quelque porte, entrez.  
+
+    ISABELLE, À DON ALVAR QUI LA SUIT DANS SA CHAMBRE.
+        Quoi, vous aussi  ?  
+
+    JACINTE.
+Que soupçonnerait-on de le voir à telle heure  ?  
+
+    GUZMAN.
+Entrez vite.  
+
+    ISABELLE.
+    Et Guzman  ?  
+
+    DON ALVAR.
+        Il vaut mieux qu'il demeure,  
+Et qu'il fasse le guet, afin de m'avertir  
+Aussitôt qu'il croira que je pourrai sortir.  
+Guzman se retire dans le coin de la galerie.
+
+
+
+## SCÈNE III. Don Félix, Mendoce, Guzman.
+
+    DON FELIX.
+Marche sans faire de bruit.  
+
+    GUZMAN, BAS.
+        L'heure est bien indécente.  
+Sont-ce point des galants qui cherchent la servante  ?  
+
+    MENDOCE.
+Si l'amour tourmentait chacun également,  
+Malheur plus de cent fois à qui serait Amant.  
+Tout le monde à présent paisiblement repose,  
+Et vous seul...  
+
+    DON FELIX.
+        À ma mort souffre que je m'oppose ;  
+Que je voie Isabelle, et tâche à détourner  
+Le coup trop inhumain qui doit m'assassiner.  
+Il faut que je lui parle.  
+
+    MENDOCE.
+        Et vous osez prétendre  
+Qu'Isabelle à minuit soit prête à vous entendre,  
+Elle qui vous méprise avec tant de fierté !  
+
+    DON FELIX.
+Mon amour est pour elle une nécessité,  
+Pour ne pas se résoudre à vivre infortunée  
+Sous les honteuses lois d'un indigne Hyménée.  
+Sais-tu quelle est sa chambre  ? En as-tu pris souci  ?  
+
+    MENDOCE.
+Oui, je crois l'avoir vue entrer en celle-ci.  
+
+    DON FELIX.
+Ne te trompes-tu point  ?  
+
+    MENDOCE.
+        Non, c'est ici sans doute.  
+
+    DON FELIX.
+Frappe tout doucement, s'éveille-t-elle  ? Écoute.  
+
+    MENDOCE.
+Je pense ouïr marcher, l'on ouvre.  
+
+    DON FELIX.
+        Éloigne-toi.  
+
+
+## SCÈNE IV. Don Félix, Léonor, Mendoce, Guzman.
+
+    LÉONOR.
+Qui frappe à cette porte  ? Est-ce vous  ?  
+
+    DON FELIX.
+        Oui, c'est moi,  
+Qui vient vous rendre ici ce qu'un feu pur et tendre.  
+
+    LÉONOR.
+Parlez encor plus bas, on pourrait nous entendre.  
+Que vous me ravisez, et que j'ai souhaité  
+Vous pouvoir un moment parler en liberté !  
+Mais je devrais montrer un peu plus de colère,  
+Vous me voyiez tantôt, et vous pouviez vous taire  ?  
+
+    DON FELIX.
+Mon amour s'exprimait assez par ma langueur,  
+Et mes yeux vous disaient les secrets de mon coeur.  
+Mais devant Don Bertran vous pouvais-je, madame,  
+Parler plus clairement de l'ardeur de ma flamme  ?  
+
+    LÉONOR.
+Il est vrai qu'il s'oppose au bonheur de mes jours,  
+Mais pour moi contre lui n'est-il point de secours  ?  
+
+    DON FELIX.
+Oui, Madame, il en est, et sans que je m'explique,  
+Je puis vous affranchir d'un joug si tyrannique,  
+Mais quoi que j'entreprenne, y consentirez-vous  ?  
+
+    LÉONOR.
+L'amour...  
+
+    DON BERTRAN, DERRIÈRE LE THÉÂTRE.
+    Qui va là  ? Qu'est-ce  ?  
+
+    LÉONOR.
+        Adieu, séparons-nous.  
+Ne vous arrêtez point dans cette galerie,  
+Elle rentre.  
+
+    DON FELIX.
+    Qui peut ainsi crier  ?  
+
+    MENDOCE.
+        Ce sera Don Garcie...  
+
+    DON FELIX.
+Tu m'avais dit qu'ailleurs il s'était retiré.  
+
+    MENDOCE.
+Je l'avais cru.  
+
+    DON FELIX.
+    Rentrons.  
+
+    GUZMAN, SEUL.
+        Qui l'aurait espéré,  
+Que sans être aperçu du Beau ni de la Belle,  
+J'eusse pu si près d'eux rester en sentinelle !  
+Qu'ils paraissent tous deux l'un de l'autre contents !  
+
+
+## SCÈNE V. Don Alvar, Guzman.
+
+    GUZMAN.
+Monsieur.  
+
+    DON ALVAR, ENTROUVRANT LA CHAMBRE D'ISABELLE COMME PRÊT D'EN SORTIR.
+    Puis-je sortir  ?  
+
+    GUZMAN.
+        Oui, vite, il en est temps.  
+Mais j'entends Don Bertran.  
+
+    DON ALVAR.
+        Quel malheur m'accompagne !  
+
+    GUZMAN.
+Rentrez encore un coup, le Diable est en campagne.  
+
+
+## SCÈNE VI. Don Bertran, Guzman.
+
+    DON BERTRAN, L'ÉPÉE NUE À LA MAIN.
+Qui va là  ? Qui va là pour la seconde fois  ?  
+J'ai pourtant à ma porte entendu quelques voix,  
+On y faisait du bruit, il faut que je le sache,  
+Je chercherai partout, malheur à qui se cache.  
+Mais je pense entrevoir un Homme dans ce coin,  
+Tâchons de nous munir de courage au besoin.  
+Parle, qui que tu sois, ou bien je t'estropie.  
+
+    GUZMAN.
+Ne vous pressez point tant, rengainez, je vous prie.  
+
+    DON BERTRAN.
+Dis ton nom.  
+
+    GUZMAN.
+        C'est Guzman, vous m'avez fait blémir.  
+
+    DON BERTRAN.
+Que fais-tu là  ?  
+
+    GUZMAN.
+        Je cherche une place à dormir.  
+
+    DON BERTRAN.
+Le lieu n'est pas mal propre.  
+
+    GUZMAN.
+        Ailleurs, ou là, qu'importe  ?  
+Je fais communément mon gîte à quelque porte.  
+Étant né des Guzmans, digne race des gueux,  
+Je me couche toujours sur la dure comme eux ;  
+Il l'éloigne de la porte d'Isabelle.
+
+Mais de grâce, Monsieur, quelle heure peut-il être  ?  
+Le ciel est étoilé, vous l'y pouvez connaître.  
+
+    DON BERTRAN.
+Sans lune, et sans cadran  ? Mais viens ça, c'était toi  
+Qui frappais à ma porte, il faut dire pourquoi.  
+
+    GUZMAN.
+Je cherchais du repos loin de troubler le vôtre.  
+
+    DON BERTRAN.
+Si quelqu'un avait pris une porte pour l'autre.  
+Je veux m'en éclaircir.  
+Il veut aller à la chambre d'Isabelle, et Guzman le retient.
+
+
+    GUZMAN.
+        Monsieur, il m'en souvient,  
+Ce doit être sans doute un Esprit qui revient,  
+Je crois même avoir vu quelque grande Ombre noire,  
+Et la chose n'est pas trop difficile à croire,  
+Car l'Hôte m'a conté qu'on entend quelquefois  
+Dans cette galerie un bruit confus de voix,  
+Un Lutin qui tantôt soupire, et tantôt gronde,  
+Mais qui ne se fait pas entendre à tout le monde.  
+Vous l'aurez ouï seul, c'est d'où venait ce bruit.  
+
+    DON BERTRAN.
+Et tu viens cependant passer ici la nuit  ?  
+
+    GUZMAN. [14]
+J'incague les esprits.  
+
+    DON BERTRAN.
+        Certain désir me presse  
+D'aller voir en tous cas ce que fait ma maîtresse.  
+Guzman l'arrêtant.
+
+Que pourrait-elle faire à présent  ? Elle dort.  
+
+    DON BERTRAN.
+Écoutons de plus près, ronfle-t-elle bien fort  ?  
+Je ne voudrais pour rien d'une femme ronflante.  
+
+    GUZMAN.
+Soit qu'elle veille ou dorme, elle est fort patiente,  
+On ne l'entend jamais.  
+
+    DON BERTRAN.
+        Je m'en vais l'éveiller,  
+Car j'ai démangeaison beaucoup de babiller.  
+Qu'en pourrait-elle dire  ? Elle est presque ma femme.  
+
+    GUZMAN, L'ARRÊTANT TOUJOURS.
+Qu'avec peu de respect vous auriez peu de flamme,  
+Elle pourrait s'en plaindre avec juste raison ;  
+Mais puisque vous avez cette démangeaison,  
+Je vous prierai...  
+
+    DON BERTRAN.
+    De quoi  ?  
+
+    GUZMAN.
+        La prière est hardie,  
+De me dire des vers de quelque Comédie  
+Car en ayant tant fait, comme célèbre auteur,  
+Vous en savez du moins quinze ou seize par coeur.  
+
+    DON BERTRAN.
+Ma foi, je suis ravi, par ce que tu proposes,  
+De te voir curieux d'ouïr les belles choses ;  
+Je t'en aime encor plus, et veux te faire part  
+D'une pièce admirable où j'ai surpassé l'Art,  
+Elle est bien pathétique, en sentiments fort tendre.  
+
+    GUZMAN.
+Entrons dans votre chambre, afin de mieux l'entendre.  
+
+    DON BERTRAN.
+J'éveillerais ma Soeur qui nous interromprait.  
+Tu verras là-dedans un Galant bien adroit,  
+Et l'Ouvrage surtout merveilleux en conduite.  
+
+    GUZMAN.
+C'est pour être joué cinquante jours de suite.  
+Vous l'appelez  ?  
+
+    DON BERTRAN. [15]
+        Hérode Innocentituant.  
+
+    GUZMAN.
+Le beau titre !  
+
+    DON BERTRAN. [16]
+        Au sujet il est fort congruant,  
+Tu l'avoueras toi-même, et je te fais arbitre  
+S'il pouvait recevoir un plus confortable titre  
+Tout vient dans ce grand poème admirablement bien.  
+
+    GUZMAN.
+Jamais auprès de vous Lope n'y connut rien.  
+
+    DON BERTRAN.
+Aussi jamais travail ne me fit tant de peine ;  
+Mais pour tenir au fait, dans la première scène  
+Je fais entrer Hérode, et trois cents innocents.  
+
+    GUZMAN.
+Deux vers à chacun d'eux, c'en est déjà six cents.  
+Pour peu qu'Hérode encore ait avec lui de pages,  
+Le théâtre est rempli d'assez de personnages.  
+La seconde  ? Sortez.  
+Il dit ce dernier mot à Don Alvar qui paraît avec Jacinte à la porte d'Isabelle.
+
+
+    DON BERTRAN.
+        Qui viens-tu d'avertir  ?  
+
+    GUZMAN.
+Je parle aux Innocents pour les faire sortir,  
+Ils tiennent trop de place. Enfin, dans la seconde  ?  
+
+    DON BERTRAN.
+Je fais dans celle-là le plus beau trait du monde,  
+Au moment qu'ils sont tous condamnés à la mort...  
+Comme Don Alvar est à demi sorti de la chambre d'Isabelle, Don Bertran détourne la tête, ce qui oblige Don Alvar d'y rentrer, et Don Bertran continue.
+
+Mais qu'est-ce ci  ? Je vois ce qui me déplaît fort.  
+
+    DON ALVAR, À JACINTE.
+Ferme vite.  
+
+    DON BERTRAN.
+        Ah, vraiment, ma Maîtresse m'amie,  
+Je vous faisais grand tort de vous croire endormie.  
+
+    GUZMAN.
+Qu'avez-vous vu, Monsieur  ?  
+
+    DON BERTRAN.
+        Un homme seulement  
+Qu'Isabelle en sa chambre enferme galamment,  
+Il allait s'échapper quand j'ai tourné la tête.  
+Tiens en main comme moi la dague toute prête,  
+Je lui veux tout au moins couper jambes et bras.  
+Ouvrez, ouvrez, vous dis-je, ou je mets porte bas.  
+
+    JACINTE DEDANS.
+Qui frappe  ?  
+
+    DON BERTRAN.
+        Moi, Mari de fabrique nouvelle.  
+Isabelle part de sa chambre avec Jacinte qui tient de la lumière.
+
+
+
+## SCÈNE VII. Don Bertran, Isabelle, Jacinte, Guzman.
+
+    DON BERTRAN.
+Vous ne dormiez donc pas, Isabelle la belle  ?  
+
+    ISABELLE.
+Quoi, l'épée en main ! Que veut dire ceci  ?  
+
+    DON BERTRAN.
+Avec malin vouloir je me transporte ici,  
+Vous ne dormiez donc pas  ?  
+
+    ISABELLE.
+        Que me voulez-vous dire  ?  
+
+    DON BERTRAN.
+Que vous ne dormiez pas, mais je n'en fais que rire.  
+Ce galant que je cherche, a-t-il le nez bien fait  ?  
+
+    ISABELLE.
+Faites-vous l'insensé ! L'êtes-vous en effet  ?  
+
+    DON BERTRAN.
+Vous m'estimez donc fou, Madame la Mignonne,  
+Et vous me l'osez dire à moi-même en personne  ?  
+Vous en déplaise ou non, malgré vous et vos dents  
+Je m'en vais fureter et dehors et dedans,  
+Tant que j'aie à la fin trouvé le Personnage.  
+
+    GUZMAN, PRENANT LA CHANDELLE DES MAINS DE JACINTE.
+Je vais vous éclairer, cherchons, faisons ravage.  
+Ah, la tête !  
+Il se laisse tomber et éteint la chandelle.
+
+
+    DON BERTRAN.
+    Qu'as-tu  ?  
+
+    GUZMAN.
+        Je suis tombé tout plat.  
+À l'aide.  
+
+    DON BERTRAN.
+        Et la lumière est éteinte, ô le fat !  
+
+    GUZMAN.
+Je me suis disloqué tout le train de derrière.  
+
+    DON BERTRAN.
+Hôte, Garçon, Servante, holà, de la lumière.  
+
+    JACINTE, TIRANT DON ALVAR HORS DE LA CHAMBRE D'ISABELLE.
+Coulez-vous promptement tandis qu'on ne voit point.  
+
+    DON BERTAN, ARRÊTANT DON ALVAR QUI VEUT S'ÉCHAPPER.
+Qui tiens-je  ? Ah, j'ai saisi mon Galant bien à point.   [17]
+Il allait sans mot dire enfiler la venelle.  
+Le nom.  
+
+    GUZMAN SE METTANT ENTRE DON BERTRAN ET DON ALVAR.
+        C'est moi qui vais rallumer la chandelle.  
+Que vous m'étreignez fort ! C'est Guzman, lâchez-moi.  
+
+    DON BERTRAN.
+La lumière paraît, je verrai si c'est toi.  
+
+    ISABELLE, À JACINTE.
+Que ferai-je !  
+
+    JACINTE.
+        D'un fou vous mettez-vous en peine  ?  
+
+
+## SCÈNE VIII. Don Bertran, Don Alvar, Don Félix, Léonor, Isabelle, Jacinte, Guzman, Mendoce.
+
+    LÉONOR.
+Mon frère, qu'avez-vous  ?  
+
+    DON BERTAN, PRENANT LA CHANDELLE DES MAINS DE SA SOEUR, ET REGARDANT DON ALVAR AU NEZ.
+        Ah, ah mon Capitaine,  
+C'est donc vous  ?  
+
+    GUZMAN.
+        Il est pris, et mieux pris qu'un renard.  
+
+    DON BERTRAN.
+Mon Cousin mon ami, vous n'êtes qu'un Pendard.  
+À Isabelle.
+
+Que faisait-il ici  ? Parlez, la fine mouche.  
+
+    DON ALVAR.
+Le soin de votre honneur comme parent me touche,  
+Et pour y regarder je me cachais exprès.  
+
+    DON BERTRAN.
+Diable, vous y venez regarder de bien près.  
+C'est donc pour mon honneur  ?  
+
+    DON FÉLIX, À DON ALVAR.
+        Vous l'a-t-on mis en garde  ?  
+
+    DON BERTAN, SE DÉTOURNANT TOUT À COUP VERS DON FÉLIX.
+De quoi vous mêlez-vous  ? Je veux qu'il y regarde,  
+Qu'il en prenne le soin quand bon lui semblera,  
+Et malgré tout le monde il y regardera.  
+
+    DON FELIX.
+Ne vous plaignez donc point de voir...  
+
+    DON BERTRAN.
+        Je veux me plaindre,  
+Pour homme tel que vous je dois peu me contraindre.  
+
+    DON FELIX.
+Sachez donc...  
+
+    DON BERTRAN.
+        Commandez de grâce à vos valets,  
+Allez-vous-en dormir, et nous laisser en paix.  
+
+    DON FÉLIX, À MENDOCE.
+Viens, Je renonce enfin à l'amour d'Isabelle.  
+Dans sa chambre un Galant, de nuit ! Ah l'Infidèle !  
+Laissons, laissons au Ciel le soin de la punir.  
+
+    GUZMAN.
+Il sort.  
+
+    DON BERTRAN.
+        Qu'il aille au Diable, et sans en revenir.  
+
+
+## SCÈNE IX. Don Bertran, Don Alvar, Isabelle, Léonor, Jacinte, Guzman.
+
+    LÉONOR.
+Ne m'apprendrez-vous point quel est tout ce mystère ?  
+
+    DON BERTRAN.
+Don Alvar mieux que moi pourra vous satisfaire.  
+
+    LÉONOR.
+Où l'avez-vous trouvé ?  
+
+    DON BERTRAN.
+        Je l'ai surpris ici,  
+Il y vient pour mon compte.  
+
+    LÉONOR.
+        Et pour le sien aussi,  
+Il vient voir Isabelle, il l'aime.  
+
+    DON BERTRAN.
+        Il faut le croire,  
+Ou qu'il venait encor lui conter quelque histoire.  
+À ces contes en l'air son coeur s'épanouit.  
+
+    LÉONOR, S'APPUYANT SUR GUZMAN.
+Hélas, je n'en puis plus.  
+
+    GUZMAN.
+        Elle s'évanouit,  
+Monsieur, son mal la prend.  
+
+    DON BERTRAN.
+        Soutiens-la, de l'eau, vite.  
+
+    ISABELLE.
+Pour la mieux secourir un moment je la quitte,  
+Viens Jacinte.  
+
+    DON BERTRAN.
+        Ce mal est venu tout à coup.  
+
+    ISABELLE.
+Elle a la tête bonne, elle pèse beaucoup.  
+
+    DON BERTRAN.
+Vous voyez, mon Cousin, de quoi vous êtes cause.  
+Mais j'ai certain onguent mixtionné d'eau rose,  
+Il est de grande force, et de sa pâmoison  
+En moins d'une heure ou deux il nous fera raison.  
+Je cours jusqu'à ma chambre.  
+
+
+## SCÈNE X. Don Alvar, Léonor, Guzman.
+
+    DON ALVAR.
+        Ô disgrâce inouïe !  
+Guzman.  
+
+    GUZMAN.
+        Feignez d'aimer la dame évanouie  
+Contez-lui des douceurs, des quolibets d'amour,  
+Afin que Don Bertran les entende au retour,  
+Et qu'ainsi vous croyant le coeur féru d'amour pour elle,  
+Il ne soupçonne rien de l'amour d'Isabelle.  
+Commencez votre rôle.  
+
+    DON ALVAR, SE METTANT À GENOUX DEVANT LÉONOR.
+        Ah, quels déplaisirs !  
+Digne objet de ma flamme, écoutez mes soupirs.  
+Voyez quelle douleur tient mon âme pressée  
+À voir de vos beaux yeux la lumière éclipsée.  
+Vous seule sur mon coeur régnez absolument,  
+Et je n'aime le jour que pour vous seulement.  
+
+
+## SCÈNE XI. Don Alvar, Léonor, Isabelle, Jacinte, Guzman.
+
+    ISABELLE BAS À JACINTE.
+Que vois-je  ? Juste Ciel !  
+
+    DON ALVAR.
+        Enfin, je vous adore,  
+Ma chère Léonor, respirez-vous encore  ?  
+D'un coup d'oeil pour le moins répondez à ma voix.  
+
+    ISABELLE.
+Ne dissimule plus, traître, je te connais.  
+Je vois les sentiments d'une âme toute lâche,  
+Qui sous un faux semblant se déguise et se cache.  
+C'est donc là ce beau feu dont tu t'osais vanter  ?  
+C'est là ce digne amour dont tu m'osais flatter  ?  
+
+    DON ALVAR.
+Madame...  
+
+    ISABELLE.
+        Il me suffit, ne cherche point d'excuses,  
+Don Félix obtiendra ce coeur que tu refuses,  
+Il sera mon époux ; je le hais, mais enfin  
+J'obéis pour te plaire à mon cruel destin,  
+Et pour me punir mieux d'avoir dit que je t'aime,  
+Je ne veux me venger de toi que sur moi-même.  
+
+    DON ALVAR.
+Ah, ne punissez pas avec tant de rigueur  
+Un crime de ma langue, et non pas de mon coeur.  
+Ne vous alarmez point d'une si vaine flamme,  
+Que feignant de nourrir je désavoue en l'âme.  
+De peur que Don Bertran par un soupçon jaloux  
+N'ose imaginer que je brûle pour vous,  
+Exprès pour Léonor je me feins l'âme atteinte.  
+
+    ISABELLE.
+Puisqu'il ne t'entend point, à quoi bon cette feinte  ?  
+Va, tu n'es qu'un ingrat.  
+
+    DON ALVAR.
+        Quel malheur est le mien  ?  
+N'écouterez-vous point...  
+
+    ISABELLE.
+        Non, je n'écoute rien.  
+
+    DON ALVAR.
+Je ne vis que pour vous, seule je vous adore,  
+Votre amour fait ma joie ; en faut-il plus encore  ?  
+J'abhorre Léonor, et par de vains efforts...  
+
+    LÉONOR, SE LEVANT TOUT À COUP.
+Traître, perfide...  
+
+    GUZMAN.
+        À l'aide, elle a le Diable au corps.  
+
+    LÉONOR.
+Il faut te déclarer, imposteur, il faut dire  
+Pour laquelle de nous ton lâche coeur soupire.  
+Et pour elle et pour moi, tu feins les mêmes feux.  
+L'aimes-tu  ? M'aimes-tu  ? Qui trompes-tu des deux  ?  
+
+    ISABELLE.
+Lève le masque enfin, il faut cesser de feindre.  
+
+    GUZMAN.
+Trente sergents en queue il serait moins à plaindre.  
+
+    LÉONOR.
+Parle donc à laquelle as-tu donné ta foi  ?  
+Est-ce à moi, dis, parjure  ?  
+
+    ISABELLE.
+        Infidèle, est-ce à moi  ?  
+
+    LÉONOR.
+Suis-je l'objet d'amour  ?  
+
+    ISABELLE.
+        Suis-je celui de haine  ?  
+
+    GUZMAN.
+Je n'avais jamais vu jusqu'ici d'âme en peine,  
+J'en vois une à présent.  
+
+    LÉONOR.
+    Réponds.  
+
+    DON ALVAR.
+        J'aime, je dis...  
+
+    LÉONOR.
+Tu cherches à fourber puisque tu t'interdis.  
+Mais pourquoi, si tu mets tous tes soins à lui plaire,  
+Cette nuit dans ma chambre as-tu feint le contraire  ?  
+Pourquoi m'as-tu juré pour t'en justifier...  
+
+    DON ALVAR.
+Moi, que dans votre chambre...  
+
+    LÉONOR.
+        Oses-tu le nier  ?  
+
+    ISABELLE.
+Tu l'aimes donc, perfide  ?  
+
+    DON ALVAR.
+        Isabelle, de grâce,  
+Daignez ouïr...  
+
+    LÉONOR.
+        Pour moi tu n'es donc que de glace  ?  
+
+    DON ALVAR.
+Léonor.  
+
+    GUZMAN.
+        Comment Diable en viendra-t-il à bout  ?  
+
+
+## SCÈNE XII. Don Bertran, Don Alvar, Isabelle, Léonor, Jacinte, Guzman.
+
+    DON BERTRAN.
+Voici notre Remède. Ah, vous êtes debout.  
+Où vous tenait ce mal, Soeur un peu trop dolente  ?  
+À Isabelle.
+
+Mais vous avez la mine aussi peu rechignante.  
+Qu'auriez-vous de nouveau  ?  
+
+    ISABELLE.
+        N'en ayez point souci.  
+
+    DON BERTAN, MONTRANT DON ALVAR.
+Et ce joli Mignon, que faisait-il ici  ?  
+
+    ISABELLE.
+Je ne puis vous le dire à moins que je devine.  
+C'était à mon insu...  
+
+    DON BERTRAN.
+        Vous faites donc la fine  ?  
+Dormez tout votre saoul ; je ne partirai point  
+Que l'on ne m'ait appris le tout de point en point.  
+
+    LÉONOR.
+Sans vous inquiéter, dès ce matin, mon Frère,  
+Mariez-vous ici.  
+
+    DON BERTRAN.
+        Vous devriez vous taire,  
+Je suis et bon et sage, et veux ce que je veux.  
+Rentrez.  
+Il fait rentrer Don Alvar et Léonor chacun dans sa chambre, et ensuite dit à Isabelle en s'en allant. .
+
+    Adieu, la Belle.  
+
+    JACINTE.
+        Ô l'étrange amoureux !  
+
+
+# ACTE IV.
+
+
+## SCÈNE PREMIÈRE. Don Bertran, Don Garcie.
+
+    DON BERTRAN.
+Vous n'avez rien ouï de tout ce grand vacarme  ?  
+
+    DON GARCIE.
+Je n'en ai rien ouï.  
+
+    DON BERTRAN.
+        Ni crier à l'alarme  ?  
+
+    DON GARCIE.
+Non.  
+
+    DON BERTRAN.
+        Si le feu de nuit prenait à la maison  
+Vous vous laisseriez donc rôtir comme un oison.  
+Toutefois pour avoir l'âme si sommeillante,  
+Vous avez engendré fille peu dormante.  
+
+    DON GARCIE.
+Quoi, que s'est-il passé ? Ma fille...  
+
+    DON BERTRAN.
+        Allons tout doux,  
+Nous avons tout loisir, et le jour est à nous.  
+Dites-moi, seriez-vous bien aise de m'entendre  ?  
+
+    DON GARCIE.
+J'y suis tout préparé, que m'allez-vous apprendre  ?  
+
+    DON BERTRAN.
+Je m'en vais vous conter un assez vilain cas ;  
+Mais oyez-vous bien clair quand vous ne dormez pas  ?  
+Parlerai-je bien haut  ?  
+
+    DON GARCIE.
+        La question est grande !  
+Suis-je sourd pour me faire une telle demande  ?  
+
+    DON BERTRAN.
+N'interromprez-vous point  ?  
+
+    DON GARCIE.
+    À quoi bon  ?  
+
+    DON BERTRAN.
+        Mon dessein  
+Est de parler longtemps.  
+
+    DON GARCIE.
+        Parlez jusqu'à demain.  
+
+    DON BERTRAN.
+Posément  ?  
+
+    DON GARCIE.
+    Posément.  
+
+    DON BERTRAN.
+        Et vous saurez-vous taire ?  
+
+    DON GARCIE.
+Tant que vous parlerez.  
+
+    DON BERTRAN.
+        Écoutez donc, beau-père.  
+Je prétends être noble, et non pas, Dieu merci,   [18]
+De ceux qui seulement le sont cosi-cosi,  
+Je chasse de plus loin, et ferais bien voir comme  
+L'aïeul de mon aïeul était très gentilhomme.  
+Quoique issu de parents si nobles et si preux,  
+Et moi par conséquent encor plus noble qu'eux,  
+Ma façon de traiter est pourtant assez ronde,  
+Je suis humble, je fais état de tout le monde,   [19]
+Et bien loin d'imiter mille jeunes muguets,  
+Je m'entretiendrais même avecque des laquais.  
+Aussi des bons, dit-on, Don Bertran est la crème,  
+Il n'est dans le pays personne qui ne l'aime,  
+Qui n'en dise du bien, et cela se connaît,  
+Chacun me rit au nez aussitôt qu'il me voit.  
+À monter à cheval je triomphe, j'excelle,  
+Je tombe d'un plein faut à ravir sur la selle,  
+Mais d'un faut si léger que j'éblouis les yeux,  
+Et de la selle en bas je tombe encore mieux.  
+Cent fois m'est avenu sans me rompre os ni veine,  
+Ce qui de mon adresse est marque très certaine,  
+Car beaucoup n'ont tombé qu'une fois seulement,  
+Qui se sont échinés fort maladroitement.  
+Pour vaillant, je le suis, je crève de courage,  
+Je chante comme un cygne, à danser je fais rage,  
+Jusqu'à donner leçon à certain petit chien  
+Qui danse comme un drôle, et qui ne m'en doit rien.  
+D'ailleurs, je me connais assez bien en peinture,   [20]
+De cette propre main j'ai fait ma portraiture,  
+Et n'ai pas moins de grâce à toucher le pinceau  
+Que d'esprit à tirer des vers de mon cerveau ;  
+Car vous n'ignorez pas, sans que je vous le die,  
+Que je sais en six jours faire une Comédie,  
+Et que si le Théâtre était estropié  
+J'ai déjà trop de quoi le remettre sur pied.  
+Quant au fait du ménage où je m'applique l'âme,  
+Je sais comme il faut vivre, et n'en redoute femme.  
+J'ai pourtant le coeur bon, et ne pleure jamais  
+Ou la dépense faire, ou celle que je fais.  
+Qu'un Parent me soit mort, sans qu'on me sollicite,  
+Je me mets en grand deuil pourvu que j'en hérite,  
+Je m'en console ainsi mieux qu'à moi n'appartient,  
+Je prends toujours courage, et le temps comme il vient,  
+L'esprit fort et constant, sans me mettre en cervelle  
+Ce que peut dire un tel ou penser une telle,   [21] [22]
+Je fais nargue au babil, et qui plus est, ma foi,  
+Je me moque de ceux qui se moquent de moi.  
+Pour ma taille, on ne peut la trouver engoncée,  
+J'ai le pied bien tourné, la jambe bien troussée,  
+Le port majestueux, le visage assez doux,  
+Et la mine guerrière autant ou plus que vous.  
+Sans doute vous direz ici que je me loue  ?  
+En cela vous dites vérité, je l'avoue,  
+Je me loue en effet, mais il est à propos,  
+Et pour conclure enfin l'affaire en peu de mots,  
+Las de vivre toujours sans Femme noire ou blonde  
+Par qui pouvoir laisser des Don Bertrans au monde,  
+Noble vaillant, adroit, danseur, dispos, léger,  
+Poète, Musicien, Peintre, bon ménager,  
+Et surtout, qui n'est pas chose fort dégoûtante,  
+Ayant près de sept fois mille ducats de rente,  
+Je viens pour faire honneur à Madame Isabeau,  
+Et par un bon contrat me charger de sa peau,  
+Sans en rien espérer que lorsque la mort fière  
+Par grand bonheur pour moi vous clora la paupière,  
+Jugez jusqu'où pour vous je me suis relâché,  
+Et si ce n'est pas là me vendre à bon marché ;  
+Et malgré tout cela, j'entre en chaud mal de fièvre,  
+Et trouve qu'on me donne un chat au lieu d'un lièvre.  
+
+    DON GARCIE.
+Avez-vous l'esprit sain  ?  
+
+    DON BERTRAN.
+        Laissez-là mon esprit,  
+Nous en disputerons lorsque j'aurai tout dit.  
+
+    DON GARCIE.
+Je devrais bien plutôt...  
+
+    DON BERTRAN.
+        Vous avez l'humeur prompte,  
+Soyez de par le Diable attentif à mon conte,  
+Écoutez jusqu'au bout, vous parlerez après.  
+J'avais mandé, je pense, en termes fort exprès  
+Qu'Isabelle s'en vînt bien et dûment masquée,  
+Bien loin de m'obéir elle s'en est moquée,  
+Et partant de Madrid n'a mis sur son minois,  
+Pour me faire enrager, qu'un masque de trois doigts.  
+Ce qui m'émeut la bile encore davantage,  
+C'est que vous ayez fait sans besoin le voyage,  
+Peut-être sous l'espoir d'attraper un repas ;  
+Cependant en deux mots je ne le voulais pas,  
+Et je vous épargnais la peine de le faire  
+Par un Récépissé passé devant Notaire,  
+Outre que votre fille aime trop le caquet,  
+Tout ce qu'elle m'a dit sent son esprit coquet,  
+Sa tête a des vapeurs qu'on a peine à rabattre,  
+Pour un pied qu'on lui donne elle ose en prendre quatre,  
+Elle est presque toujours sur le raisonnement,  
+Et raisonnant raisonne irraisonnablement ;  
+Force cajolerie et mots galants en bouche,  
+L'oeil souvent en campagne, et l'accueil peu farouche.  
+J'aime de cette humeur la Femme d'un Voisin,  
+Mais je veux que la mienne aille le grand chemin.  
+De plus, un Don Félix, adroit de la prunelle,  
+En dépit que j'en aie a toujours l'oeil sur elle.  
+Même j'ai cette nuit été fort alarmé  
+Trouvant mon beau-Cousin dans sa chambre enfermé,  
+Et j'y suis, m'a-t-il dit, comme un Parent fidèle  
+Qui viens pour votre honneur faire la sentinelle,  
+Et voir si Don Félix oserait s'y couler.  
+
+    DON GARCIE.
+Quoi, Don Félix de nuit aurait pu lui parler  ?  
+
+    DON BERTRAN.
+Non pas, mais toutefois c'est chose assez infâme  
+Qu'un Mari corps pour corps n'ose piéger sa Femme,  
+Qu'il ait quelque scrupule, et demeure en soupçon  
+Si de nuit un galant l'entretenait ou non.  
+Enfin j'aimerais mieux la moindre Paysanne,  
+Il faut à votre fille homme qui porte canne,  
+Allez-en quêter un, j'en suis fort satisfait ;  
+Nourriture de cour n'est point du tout mon fait,  
+Vous le savez fort bien en votre conscience.  
+Payons donc, s'il vous plaît, par moitié la dépense,  
+Tirons chacun du nôtre au sortir de ce lieu,  
+Toute promesse nulle, et bons amis, adieu.  
+Je n'ai plus d'appétit touchant le mariage.  
+
+    DON GARCIE.
+On m'avait bien dit vrai, que vous n'étiez pas sage,  
+Que souvent vous aviez le cerveau démonté,  
+Mais je ne croyais pas que vous l'eussiez gâté.  
+Savez-vous qui je suis  ?  
+
+    DON BERTRAN.
+        Vous êtes Don Garcie,  
+Que je souhaiterais n'avoir vu de ma vie.  
+
+    DON GARCIE.
+Il faut chanter pourtant, et sur un autre ton.  
+
+    DON BERTRAN.
+Criez, jurez, pester, si vous le trouvez bon.  
+Pour moi, si j'en démords je veux bien qu'on m'étrille.  
+Rendez-moi ma quittance, et prenez votre fille.  
+
+    DON GARCIE, TIRANT L'ÉPÉE.
+Ma foi, vous parlerez ainsi que je l'entends.  
+
+    DON BERTRAN.
+À d'autres, rengainez, j'ai plus de soixante ans,  
+Je ne suis plus d'âge à tenter l'enfilade,  
+Et si je porte un fer, ce n'est que par parade.  
+
+    DON GARCIE.
+Ne croyez pas ainsi parer en reculant.  
+
+    DON BERTRAN.
+Ô de tous les Vieillards le plus sanguinolent !  
+
+    DON GARCIE.
+Vous marchandez en vain.  
+
+    DON BERTRAN.
+        Si je suis ma colère...  
+Mais tant s'estomaquer n'est pas fort nécessaire.  
+Voyez-vous, je suis bon, et d'un mot de douceur  
+On m'arracherait l'âme, on me fendrait le coeur.  
+J'accorde et me soumets d'épouser Isabelle,  
+Mais à condition seulement...  
+
+    DON GARCIE.
+        Et bien, quelle  ?  
+
+    DON BERTRAN.
+Que si ce Don Félix venu pour elle exprès  
+Ose l'envisager ou de loin ou de près...  
+
+    DON GARCIE.
+Et quoi, ce Don Félix vous tient-il à la tête  ?  
+Croyez-vous...  
+
+    DON BERTRAN.
+        Croyez-vous que je sois une bête,  
+Et ne connaisse pas clairement aujourd'hui  
+Que sans comparaison je vaux bien mieux que lui  ?  
+Mais aussi bien que moi vous avez osé dire  
+Que fille qui choisit bien souvent prend le pire.  
+Si donc je m'aperçois, et vous fais voir enfin  
+Qu'Isabelle ait pour moi le coeur traître et malin,  
+Vous me rendez soudain, sans sommations nulles,  
+Ce qu'il m'a pu coûter en louage de mules,  
+Ce que j'ai déboursé pour le carrosse aussi,  
+Et ce que depuis hier j'ai fait de frais ici ;  
+Car franchement, à moins qu'Isabelle soit nôtre,  
+Je serais un grand sot de payer pour un autre.  
+Guzman entre.
+
+
+    DON GARCIE.
+Votre demande est juste, et j'y dois consentir.  
+
+    DON BERTRAN.
+Allez donc disposer tout le monde à partir.  
+
+
+## SCÈNE II. Don Bertran, Guzman.
+
+    DON BERTRAN.
+Guzman.  
+
+    GUZMAN.
+        Et bien enfin, avez-vous votre compte  ?  
+Est-ce fait  ?  
+
+    DON BERTRAN.
+        Tu me vois avec ma courte honte,  
+Notre marché tiendra.  
+
+    GUZMAN.
+        Quoi, tout n'est pas rompu ?  
+
+    DON BERTRAN.
+En vain pour m'en tirer j'ai fait ce que j'ai pu,  
+Ce Diable de Beau-père est trop opiniâtre.  
+
+    GUZMAN.
+Ces vieillards sont toujours d'humeur acariâtre.  
+
+    DON BERTRAN.
+Au profit de sa fille ; il a fort peu de bien,  
+Elle empire d'attendre, et je la prends pour rien.  
+La garde d'un tel meuble à la fin peut déplaire.  
+
+    GUZMAN.
+Ce n'est pas d'aujourd'hui qu'il cherche à s'en défaire,  
+Mais le monde à Madrid est plus futé qu'ici.  
+
+    DON BERTRAN.
+Comment ? Je suis donc pris pour dupe ?  
+
+    GUZMAN.
+        Oui, Dieu merci.  
+Vous allez bientôt être un Mari d'importance.  
+
+    DON BERTRAN.
+Ah, que si je pouvais rattraper ma quittance !  
+Mais notre épouse encor, qu'a-t-elle  ?  
+
+    GUZMAN.
+        Un grand défaut.  
+
+    DON BERTRAN.
+Quel ?  
+
+    GUZMAN.
+    Il n'importe.  
+
+    DON BERTRAN.
+    Dis.  
+
+    GUZMAN.
+    Je n'ose.  
+
+    DON BERTRAN.
+        Achève tôt.  
+
+    GUZMAN.
+Mais...  
+
+    DON BERTRAN.
+        Si tu ne le dis, je jouerai de la dague.  
+
+    GUZMAN.
+Vous le voulez savoir  ?  
+
+    DON BERTRAN.
+    Oui, parle.  
+
+    GUZMAN. [23]
+        Elle extravague.  
+
+    DON BERTRAN.
+Elle ?  
+
+    GUZMAN.
+    Elle.  
+
+    DON BERTRAN.
+        Ce n'est donc qu'en de certains moments.  
+
+    GUZMAN.
+Elle a l'esprit gâté d'avoir lu des romans,  
+Et croit qu'étant un jour d'un Taureau poursuivie  
+Sans certain Chevalier elle eût perdu la vie.  
+Elle l'aime en idée, et quoique son époux,  
+Ce chimérique Amant l'emportera sur vous.  
+Elle caresse tantôt l'un, tantôt l'autre,  
+Croyant...  
+
+    DON BERTRAN.
+        Dans sa folie il irait bien du nôtre.  
+Aussi hier à l'abord il m'était fort nouveau  
+Que mon Cousin lui fît un conte de Taureau.  
+
+    GUZMAN.
+Il avait dès Madrid appris sa maladie.  
+La fit-il bien jaser  ?  
+
+    DON BERTRAN.
+        Jaser comme une pie.  
+Tant de raisons en l'air de ceci, de cela,  
+Qu'enfin je crus devoir y mettre le holà.  
+Je suis bien à mon aise avec mon Mariage.  
+
+    GUZMAN.
+Quoi, vous l'épouseriez ? Vous, Monsieur ?  
+
+    DON BERTRAN.
+        J'en enrage,  
+Mais Don Garcie...  
+
+    GUZMAN.
+        Et bien ? Se veut-il mutiner ?  
+
+    DON BERTRAN.
+C'est un vieillard colère, et jusqu'à dégainer.  
+
+    GUZMAN.
+Dégainer.  
+
+    DON BERTRAN.
+        Au besoin tu manques de prudence.  
+S'il faut que je le tue ?  
+
+    GUZMAN.
+        Il sera mort, je pense.  
+
+    DON BERTRAN.
+En suite d'un combat où j'aurai tout risqué,  
+Si mon bien se confisque  ?  
+
+    GUZMAN.
+        Il sera confisqué.  
+
+    DON BERTRAN.
+Toi-même en cas pareil te voudrais-tu bien battre ?  
+
+    GUZMAN, METTANT L'ÉPÉE À LA MAIN.
+Ah ventre ! Ah tête ! Ah sang !  
+
+    DON BERTRAN. [24]
+        Tu fais le Diable à quatre !  
+
+    GUZMAN.
+Qui vive ? Par la mort, vous en avez menti.  
+
+    DON BERTRAN.
+Guzman a du courage ?  
+
+    GUZMAN.
+        Il est déjà parti,   [25]
+Et je tiens comme vous que de flamberge nue  
+La vision est laide, et blesse fort la vue.  
+S'il m'en fallait tâter, je pourrais filer doux,  
+Et je ne me battais, ma foi, non plus que vous.  
+
+    DON BERTRAN.
+L'on y peut beaucoup perdre, et l'on n'y gagne guères.  
+
+    GUZMAN.
+Si le jeu vous déplait, songez à vos affaires.  
+
+    DON BERTRAN.
+Pourquoi ?  
+
+    GUZMAN.
+        Ce Don Félix est un méchant garçon,   [26]
+Et veut faire avec vous le coup d'estramaçon,  
+Comme offensé dit-il, sans raison raisonnable.  
+
+    DON BERTRAN.
+Ces Esprits de Madrid sont prompts comme le Diable.  
+
+    GUZMAN.
+C'est un Lancier bien rude à qui s'ose y jouer.  
+
+    DON BERTRAN.
+Que ne suis-je à Tolède ! Il faut l'amadouer,  
+Car tentant le hasard, sur quoi que je me fonde,  
+Il me faudrait quitter le Pays, ou le Monde,  
+Et je me trouve bien, ma foi, dans tous les deux.  
+Mais Diable, le voici, ce redoutable Preux,  
+Ah, pauvre Don Bertran !  
+
+
+## SCÈNE III. Don Bertran, Don Félix, Guzman.
+
+    DON FELIX.
+        J'ai deux mots à vous dire.  
+
+    DON BERTRAN.
+Dites.  
+
+    DON FÉLIX, MONTRANT GUZMAN.
+        Mais en secret, faites qu'il se retire.  
+
+    DON BERTRAN.
+Quiconque marche droit, sans fraude, et comme il faut,  
+Ne fait rien en cachette, et parle toujours haut.  
+Quant à moi, je ne crains nullement qu'on m'entende.  
+
+    DON FELIX.
+Certes avecque vous la courtoisie est grande,  
+Que vous ne vouliez pas éloigner un Valet.  
+
+    DON BERTRAN.
+Hier quand je vous parlai, je parlai haut et net,  
+Je ne demande rien que je ne veuille faire,  
+Et vous pouvez choisir de parler, ou vous taire.  
+
+    DON FELIX.
+J'ai toujours grand sujet de me louer de vous.  
+
+    DON BERTRAN.
+Il est vrai, je veux bien l'avouer entre nous.  
+Hier transporté d'amour j'eus l'âme un peu hautaine,  
+Vous n'eûtes pas de moi satisfaction pleine,  
+Je fis trop peu d'état de votre compliment,  
+Vous vouliez m'honorer fort amiablement,  
+Venir jusqu'à Tolède avec toute la Bande,  
+Et c'était-là me faire une grâce fort grande,  
+Je devais l'accepter, je l'avoue à ce coup,  
+Car vous êtes brave Homme, et vous valez beaucoup,  
+Gracieux, obligeant ; de plus, je considère  
+Que vous étiez ami de feu Monsieur mon Père.  
+Ainsi par ses raisons, pour refaire la paix,  
+Vous serez de ma noce, et je vous le promets,  
+Prenez place au carrosse auprès de l'épousée,  
+Et pour rendre entre nous cette paix plus aisée,  
+J'aurai deux violons pour nous faire danser.  
+Vous êtes mon ami plus qu'on ne peut penser,  
+Et pour l'amour de vous je me mettrais en pièces.  
+
+    DON FELIX.
+Ce n'est pas là...  
+
+    DON BERTRAN.
+        Combien avez-vous de Maîtresses  ?  
+Je vous trouve bien fait, vous avez l'oeil mignon,  
+Et la mine surtout d'être bon compagnon.  
+
+    DON FELIX.
+Enfin venons, de grâce, au point que je désire.  
+
+    DON BERTRAN.
+Quoi, vous auriez encor quelque chose à me dire  ?  
+
+    DON FELIX.
+Oui, de fort important, j'aurai fait en deux mots.  
+
+    DON BERTRAN.
+Vous ne me direz rien que de fort à propos  ?  
+
+    DON FELIX.
+Vous m'en remercierez.  
+
+    DON BERTRAN.
+        Parlez donc, car je pense  
+Que je suis en humeur de donner audience.  
+
+    DON FELIX.
+Je meurs pour Isabelle, et cet Objet vainqueur  
+Malgré ma résistance a captivé mon coeur,  
+Je l'adore.  
+
+    DON BERTRAN.
+        Tant pis, si vous n'êtes en grâce.  
+Depuis combien de temps lui donnez-vous la chasse  ?  
+
+    DON FELIX.
+Depuis un an ou deux.  
+
+    DON BERTRAN.
+        C'est bien s'être aveuglé  
+Que souffrir si longtemps son esprit déréglé,  
+Car vous en aurez vu quelques extravagances  ?  
+
+    DON FELIX.
+L'Amour se fortifie au milieu des souffrances.  
+J'ai langui sans murmure, et toujours espéré  
+Qu'enfin je pourrais voir son esprit modéré ;  
+Le temps dissipe encor de plus sombres nuages.  
+
+    DON BERTRAN.
+D'une amour réciproque avez-vous quelques gages  ?  
+
+    DON FELIX.
+J'ai poussé jusqu'ici mille soupirs en vain,  
+Mais se voyant réduire à vous donner la main,  
+Avec moi cette nuit elle s'est déclarée,  
+J'ai reçu de sa flamme une preuve assurée,  
+Un doux oui de sa bouche, après tant de mépris,  
+De ma constance enfin se trouve être le prix.  
+
+    DON BERTRAN.
+Quoi, vous ayant toujours fait mine peu civile,  
+Cette nuit seulement elle a changé de style  ?  
+
+    DON FELIX.
+Et n'est-ce pas assez  ?  
+
+    DON BERTRAN, À GUZMAN.
+        Je gagerais ma peau  
+Qu'elle croyait parler à l'homme à son Taureau,  
+Et que sa vision lui tenait à la tête.  
+Mais passons outre ; enfin quelle est votre requête  ?  
+
+    DON FELIX.
+Que sachant qu'elle m'aime, et ne vous aime point,  
+Vous ne sépariez pas ce qui semble être joint,  
+Et sans plus la contraindre à ce qu'elle appréhende...  
+
+    DON BERTRAN.
+Ah, si je la contrains, je veux que l'on me pende ;  
+Mais aussi, si je fais ce coup d'Ami pour vous,  
+Vous satisferez l'Hôte, et vous payerez pour tous.  
+Je fis hier par amour dépense assez complète,  
+Et je vous y transporte et mon droit et la dette.  
+
+    DON FELIX.
+J'accepte l'un et l'autre.  
+
+    DON BERTRAN.
+        À la bonne heure, soit.  
+Mais avecque ma Soeur la voici qui parait,  
+Je veux tout maintenant vous en faire remise.  
+
+
+## SCÈNE IV. Don Bertran, Don Félix, Isabelle, Léonor, Jacinte, Guzman.
+
+    LÉONOR.
+L'heure de déloger, mon Frère, est-elle prise  ?  
+Le Cocher est tout prêt, et l'on attend que vous.  
+
+    DON BERTRAN.
+Oui bientôt. Approchez, belle Nymphe aux yeux doux.  
+Donnez-moi votre main.  
+
+    ISABELLE.
+        Que prétendez-vous faire  ?  
+
+    DON BERTRAN.
+Touchez-là.  
+Il veut obliger Isabelle à toucher dans la main de Don Félix.
+
+
+    ISABELLE.
+    Moi  ?  
+
+    DON BERTRAN.
+        Vous, vite, et sans plus de mystère.  
+Don Félix vous en conte, il est de vous chéri,  
+Je vous fait son épouse, et lui votre Mari.  
+Je ne fus convoiteux jamais du bien d'un autre.  
+
+    ISABELLE.
+Pouvez-vous me donner si je ne suis pas vôtre  ?  
+
+    DON BERTRAN.
+Sachez qu'onques à vous n'appartint tel honneur.  
+
+    DON FÉLIX, À ISABELLE.
+Puisque enfin mon Rival consent à mon bonheur,  
+J'ose vous demander l'effet de vos promesses.  
+
+    ISABELLE.
+Que vous ai-je promis ?  
+
+    DON BERTRAN.
+        Mettons bas les finesses,  
+L'on sait, ce que l'on sait, et... mais je ne dis mot.  
+Si plus on m'y retient, je veux passer pour sot.  
+
+    DON FELIX.
+Madame, à quel dessein voulez-vous ici feindre ?  
+Don Bertran vous cédant, vous n'avez rien à craindre.  
+
+    ISABELLE.
+Quel droit peut-il avoir de me donner à vous ?  
+
+    DON FELIX.
+Me faut-il un tel droit pour être votre époux,  
+Et n'en ai-je pas...  
+
+    ISABELLE.
+    Quoi ?  
+
+    DON FELIX.
+        Déjà reçu parole ?  
+
+    ISABELLE.
+De qui ? Quand ?  
+
+    DON FELIX.
+    Cette nuit, de vous.  
+
+    GUZMAN, À JACINTE.
+        La pièce est drôle.  
+
+    ISABELLE.
+Moi, je vous ai parlé de toute cette nuit  ?  
+
+    DON FELIX.
+Oui, Madame, et prié de me couler sans bruit,  
+Quand une voix soudain m'a fait quitter la place.  
+
+    ISABELLE.
+Vous faites bien un conte, et de fort bonne grâce.  
+
+    DON FELIX.
+Quoi, vous ne m'avez pas demandé du secours  
+Contre un Hymen fatal au bonheur de vos jours,  
+Juré que votre amour serait ma récompense  ?  
+
+    ISABELLE.
+Sans doute vous rêvez.  
+
+    DON BERTRAN.
+        Perd-elle contenance  ?  
+Vous entretenez donc de nuit le cavalier,  
+Et quand à votre chambre on va vous épier,   [27]
+On vous blesse, on fait tort à votre prud'homie.  
+
+    ISABELLE.
+Quoi, peut-on me traiter avec plus d'infamie ?  
+Si j'ai vu de bon oeil Don Alvar ce matin,  
+Apprenez que sans vous...  
+
+    DON BERTRAN.
+        C'est un brave cousin,  
+Il veille à mon honneur comme je le souhaite.  
+
+    LÉONOR.
+Ces soins de votre honneur ne sont qu'une défaite,  
+Car dans sa chambre enfin Don Alvar n'est entré...  
+
+    DON BERTRAN.
+Je sais si c'est par ruse, ou de force, ou de gré,  
+Taisez-vous.  
+
+    LÉONOR.
+    Dois-je pas...  
+
+    DON BERTRAN.
+        Vous êtes forte en gueule.  
+Votre langue a passé de nouveau sous la meule,   [28]
+Elle est bien affilée.  
+
+    LÉONOR.
+        Ah, je ne puis souffrir  
+Qu'un traître...  
+
+    DON BERTRAN.
+        Jusqu'à quand voulez-vous discourir  ?  
+
+    LÉONOR.
+Ai-je tort de tâcher...  
+
+    DON BERTRAN.
+        Diable, que de paroles !  
+Enfin je vous mettrai dehors par les épaules.  
+
+    LÉONOR.
+Quand pour vous détromper je fais ce que je puis.  
+
+    DON BERTRAN, LA REPOUSSANT RUDEMENT.
+C'en est trop, allez voir là dehors si j'y suis.  
+
+    ISABELLE.
+Quelle brutalité !  
+
+    JACINTE.
+        C'est un fou personnage.  
+
+
+## SCÈNE V. Don Bertran, Don Félix, Isabelle, Jacinte, Guzman.
+
+    DON BERTRAN.
+Or sus, nos deux Amants, sans tarder davantage,  
+Parlez, je jugerai de votre différend.  
+
+    ISABELLE.
+Je le tiens tout jugé.  
+
+    DON FELIX.
+        Quoi, mon rival se rend ?  
+Quoi, j'aurai même appris de votre propre bouche  
+Que son feu vous déplaît, que mon amour vous touche,  
+Et tout cela, Madame, à ma confusion ?  
+
+    DON BERTRAN, À DON FÉLIX.
+Vous ai-je pas bien dit que c'était vision,  
+Qu'elle croyait parler à son galant d'idée  ?   [29]
+Cherchez fortune ailleurs, l'affaire en est vuidée.  
+
+    DON FELIX.
+Après m'avoir promis cette nuit d'être à moi,  
+L'Ingrate s'en dédire, et me manquer de foi  ?  
+
+    ISABELLE.
+Je n'examine point ici par quelle adresse  
+Vous voulez m'imputer une fausse promesse,  
+Mais sachez que jamais je ne vous promis rien,  
+Que je n'aie point de nuit souffert votre entretien.  
+Et que loin de me rendre à vos voeux plus sensible,  
+J'eus pour vous de tout temps une haine invincible.  
+Ne vous flattez donc plus, et tenez pour certain  
+Que vous n'aurez jamais ni mon coeur ni ma main.  
+
+    GUSMAN, À JACINTE. [30]
+C'est bien là pour lui faire épanouir la rate.  
+
+    DON FELIX.
+Ah, c'est trop s'exposer aux mépris d'une Ingrate,  
+Quittons ces tristes lieux, et ne balançons plus.  
+
+
+## SCÈNE VI. Don Bertran, Isabelle, Jacinte, Guzman.
+
+    DON BERTRAN.
+À bien et justement raisonner là-dessus,  
+Vous m'aimez mieux que lui  ?  
+
+    ISABELLE.
+        J'obéis à mon Père.  
+
+    DON BERTRAN.
+Mais certain Cavalier ne vous saurait déplaire  ?  
+
+    ISABELLE.
+Quel  ?  
+
+    DON BERTRAN.
+        Celui du taureau. Feinte à part, vous l'aimez ?  
+
+    GUZMAN, À DON BERTRAN.
+Voyez comme ce mot rend ses sens tout charmés.  
+
+    JACINTE.
+Puisqu'il sait l'aventure, avouez tout, Madame.  
+
+    ISABELLE, À DON BERTRAN.
+Son mérite, il est vrai, peut beaucoup sur mon âme,  
+Et je puis bien donner une place en mon coeur  
+À qui je dois la vie, et peut-être l'honneur.  
+
+    DON BERTRAN, SOURIANT À GUZMAN.
+Guzman.  
+
+    GUZMAN.
+        Oyez, Monsieur, et bien, lui fais-je dire  ?  
+Flattez son fol amour, vous la ferez bien rire.  
+
+    DON BERTRAN, À ISABELLE.
+Aimez ce beau Galant, je n'en suis point jaloux.  
+
+    ISABELLE.
+Cet amour sera vain si je ne suis pas mon époux.  
+
+    DON BERTRAN.
+Je consens qu'il le soit, et lui cède ma place.  
+
+    ISABELLE.
+Je n'ose encor songer à vous en rendre grâce,  
+Et crains que mon bonheur ne soit mal affermi.  
+
+    DON BERTRAN.
+Non, j'y consens, vous dis-je, et serai son Ami,  
+Mais à condition qu'il se rendra visible.  
+
+    ISABELLE.
+Il n'est pas malaisé.  
+
+    DON BERTRAN.
+        Si la chose est possible,  
+Faites que je le voie.  
+À Guzman.
+
+    Elle en tient.  
+
+    GUZMAN.
+        Et beaucoup ;  
+Laissez-la rêver seule, il suffit pour ce coup.  
+
+    DON BERTRAN.
+Adieu, jusqu'au revoir, la belle Aventurière.  
+
+
+## SCÈNE VII. Isabelle, Jacinte, Guzman.
+
+    ISABELLE.
+Le Ciel a-t-il enfin exaucé ma prière  ?  
+D'où lui vient cette humeur  ?  
+
+    GUZMAN.
+        Reposez-vous sur moi,  
+Quoi que je lui débite, il me croit sur ma foi.  
+Je saurai l'amener au point que je souhaite.  
+
+    JACINTE.
+C'est donc par toi qu'il sait...  
+
+    GUZMAN.
+        N'en soit donc point inquiète ;  
+Mais il faut le rejoindre et ne le quitter point.  
+Sans nommer Don Alvar, tenez ferme en ce point,  
+D'aimer un Cavalier qui vous sauva la vie ;  
+Vous en verrez l'effet répondre à votre envie.  
+Guzman rentre.
+
+
+    JACINTE.
+S'il tient ce qu'il promet vos désirs sont contents  ?  
+
+    ISABELLE.
+Je n'en sais qu'espérer, mais sans perdre de temps,  
+Va trouver Don Félix, et prenant ma querelle,  
+Fais-lui voir qu'il m'accuse à tort d'être infidèle,  
+Qu'à Léonor sur lui je cède tous mes droits,  
+Et qu'il m'a cette nuit mal connue à la voix.  
+
+
+# ACTE V.
+
+
+## SCÈNE PREMIÈRE. Don Alvar, Guzman.
+
+    DON ALVAR.
+Où l'as-tu donc laissé  ?  
+
+    GUZMAN.
+        Seul avec sa folie,  
+Dans sa chambre enfermé, non sans mélancolie.  
+Il a comme la mer son flux et son reflux,  
+Tantôt il en veut bien, tantôt il n'en veut plus.  
+
+    DON ALVAR.
+Ce Beau-père obstiné le tient bien en cervelle  ?  
+
+    GUZMAN.
+Si pour le satisfaire il épouse Isabelle,  
+Il craint ce dont à peine on échappe en ce cas ;  
+Il craint d'être battu s'il ne l'épouse pas,  
+Et prévoit de tous sens si maligne Influence,  
+Que contre son étoile il peste d'importance.  
+Je l'ai pourtant contraint enfin de faire choix.  
+
+    DON ALVAR.
+Et c'est !  
+
+    GUZMAN.
+        De se laisser assommer mille fois  
+Plutôt que passer outre à la cérémonie.  
+
+    DON ALVAR.
+Tu me donnes, Guzman, une joie infinie.  
+
+    GUZMAN. [31]
+Si je n'eusse su l'empaumer à propos,  
+Vous en teniez pourtant, il eut dit les fins mots ;  
+Mais encor que chacun cherche qui lui ressemble,  
+Il croit qu'elle étant folle, ils seraient mal ensemble ;  
+Sur ma parole seule il change de dessein  
+
+    DON ALVAR.
+Aussi crois...  
+
+    GUZMAN.
+        De cela nous parlerons demain ;  
+Venons à ce qui presse. Enfin, votre Isabelle  ?  
+
+    DON ALVAR.
+Ah, Guzman, je l'adore.  
+
+    GUZMAN.
+        Êtes-vous aimé d'elle  ?  
+
+    DON ALVAR.
+Assez pour avoir lieu de croire que son coeur  
+Est le prix du beau feu dont je ressens l'ardeur.  
+
+    GUZMAN.
+Vous l'avez détrompée, et votre paix est faite  ?  
+
+    DON ALVAR.
+Léonor cette nuit l'a tenue inquiète,  
+Mais elle a trop connu par quel adroit détour  
+Pendant sa pâmoison je feignais de l'amour.  
+J'ai dissipé sans peine un si léger nuage.  
+
+    GUZMAN.
+C'est en quoi Don Bertran me surprend davantage,  
+Il n'en soupçonne rien.  
+
+    DON ALVAR.
+        Loin de s'en défier,  
+Croyant que tout de bon j'ai voulu l'épier,  
+Et que cette action me la rend trop sévère,  
+Il a pris soin pour moi d'apaiser sa colère,  
+Nous a fait embrasser, et promettre tous deux  
+Que jamais...  
+
+
+## SCÈNE II. Don Alvar, Jacinte, Guzman.
+
+    DON ALVAR.
+        Ah, Jacinte, et bien serai-je heureux  ?  
+Sais-tu quels sentiments a pour moi Don Garcie  ?  
+
+    JACINTE.
+Bien moindres qu'il n'aurait s'il suivait notre envie.  
+Ma Maîtresse a parlé de vous adroitement,  
+Sans lui faire paraître aucun engagement  
+Ni d'obligation ni de reconnaissance ;  
+Mais son avare humeur emporte la balance,  
+Et de la vertu seule il fait fort peu d'état  
+À moins que la fortune en soutienne l'éclat.  
+Ainsi la vôtre en vain vous rend considérable,  
+Don Bertran riche et fou lui semble préférable.  
+
+    DON ALVAR.
+N'importe, le temps presse, il faut se déclarer,  
+Ce que j'ai fait pour lui me permet d'espérer.  
+Peut-être qu'à mes voeux il sera moins contraire  
+Sachant que c'est par moi qu'il se voir encor Père.  
+Suivons notre dessein au péril du refus.  
+
+    JACINTE.
+Allez voir Isabelle un moment là-dessus,  
+Vous résoudrez de tout plus aisément ensemble.  
+
+
+## SCÈNE III. Guzman, Jacinte.
+
+    JACINTE.
+Et bien Guzman  ?  
+
+    GUZMAN.
+    Et bien, Jacinte  ?  
+
+    JACINTE.
+        Que t'en semble  ?  
+
+    GUZMAN.
+Le bienheureux à qui ta Maîtresse sera !  
+On s'y presse, on s'y tue, et c'est à qui l'aura.  
+
+    JACINTE.
+Don Alvar seul pourtant en poursuit la conquête,  
+Car Don Bertran voudrait s'être fait moins de fête,  
+Et quant à Don Félix, notre passionné,  
+Je lui viens de porter son congé tout signé.  
+
+    GUZMAN.
+Tu l'as tiré d'erreur  ?  
+
+    JACINTE.
+        Cette seule croyance  
+Qu'Isabelle eût de nuit flatté son espérance,  
+Le faisait s'obstiner ; et son Valet sans moi  
+En eût payé l'amende, et tout du long.  
+
+    GUZMAN.
+        Pourquoi  ?  
+
+    JACINTE.
+De Don Félix son Maître il eut charge expresse  
+De voir dans quelle chambre entrerait ma Maîtresse,  
+Espérant cette nuit lui parler sans témoin ;  
+L'étourdi cependant en prit si peu de soin,  
+Que dans l'obscurité prenant l'une pour l'autre,  
+Il causa ce désordre arrivé dans la nôtre.  
+
+    GUZMAN.
+De sorte qu'en effet il ignorait encor  
+Qu'ainsi pour Isabelle il eût pris Léonor.  
+Qui d'ailleurs attendant Don Alvar à même heure  
+Dans cette même erreur jusqu'à présent demeure  
+
+    JACINTE.
+Elle est à mon avis plus à plaindre que tous  
+D'aimer... mais je l'entends, ce me semble, à sa toux.  
+De peur d'être surprise, adieu, je me retire.  
+
+    GUZMAN.
+Elle me disait vrai, la voilà qui soupire.  
+
+
+## SCÈNE IV. Léonor, Guzman.
+
+    LÉONOR.
+Guzman, que j'ai dans l'âme un déplaisir profond !  
+On rit...  
+
+    GUZMAN.
+        Et bien, riez comme les autres font,  
+C'est contre le chagrin un souverain remède.  
+
+    LÉONOR.
+Si l'on rit, c'est du feu dont l'ardeur me possède.  
+Et pour te découvrir le secret de mon coeur,  
+Le traître Don Alvar se rit de ma langueur.  
+Mais, Guzman, tire-moi de mon inquiétude.  
+Qui le peut obliger à cette ingratitude,  
+Car tu sais jusqu'ici qu'il m'a voulu du bien  ?  
+
+    GUZMAN.
+À vous dire le vrai, ma foi, je n'en sais rien.  
+
+    LÉONOR.
+Toi qui m'as tant de fois découvert sa pensée,  
+Quand de quelque soupçon j'avais l'âme blessée,  
+Tu ne me répons rien aujourd'hui là-dessus  ?  
+
+    GUZMAN.
+Je la savais alors, mais je ne la sais plus.  
+
+    LÉONOR.
+Il se cache de toi  ?  
+
+    GUZMAN.
+        Bien plus qu'à l'ordinaire  
+
+    LÉONOR.
+Mais cette nuit encor, ce qui me désespère,  
+L'ingrat s'est voulu rendre à l'assignation,  
+M'a fait un entretien rempli de passion.  
+Cependant aujourd'hui, pour me couvrir de honte,  
+Il veut faire passer tout cela pour un conte,  
+Il dit qu'il n'en est rien.  
+
+    GUZMAN.
+        C'est fort mal fait à lui.  
+
+    LÉONOR.
+Cet outrage cruel redouble mon ennui,  
+Car pourquoi dénier un point si véritable  ?  
+
+    GUZMAN.
+Tout vilain cas, dit-on, fut toujours reniable,  
+Mais vous parler de nuit n'est point un vilain cas.  
+
+    LÉONOR.
+Isabelle sans doute a pour lui trop d'appas,  
+Et moi... mais Don Félix à grand pas se promène.  
+
+    GUZMAN.
+Le cours à Don Alvar témoigner votre peine,  
+Et si l'on m'en veut croire, allez, tout ira bien.  
+
+    LÉONOR.
+Parle de ton côté, je vais parler du mien.  
+
+
+## SCÈNE V. Don Félix, Léonor.
+
+    LÉONOR.
+Vous rêvez, je m'assure, aux mépris d'Isabelle  ?  
+
+    DON FELIX.
+Ah, laissez-moi, de grâce, oublier l'Infidèle.  
+
+    LÉONOR.
+Vous partez, m'a-t-on dit  ?  
+
+    DON FELIX.
+        Oui, je m'éloigne enfin,  
+Et vais l'abandonner à son mauvais destin.  
+
+    LÉONOR.
+Ah, vous ne savez pas encor ce qui sa passe.  
+Ce n'est qu'à Don Alvar que vous cédez la place,  
+À l'amour de ce traître Isabelle se rend.  
+
+    DON FELIX.
+Don Bertran, Don Alvar, tout m'est indifférent,  
+Et mon départ bientôt lui va faire connaître  
+Qu'elle est en liberté de se choisir un Maître.  
+C'est par le mépris seul qu'on venge le mépris.  
+
+    LÉONOR.
+Et, de grâce, changez un dessein trop tôt pris.  
+Différez ce départ, vous m'êtes nécessaire.  
+
+    DON FELIX.
+Ne pouvant rien pour moi, pour vous que puis-je faire  ?  
+
+    LÉONOR.
+Du traître Don Alvar empêchez le projet.  
+De ses feux Isabelle est le plus cher objet,  
+Et je ne doute point que par votre présence  
+Vous ne trompiez le cours de leur intelligence.  
+
+    DON FELIX.
+Vous l'aimez  ?  
+
+    LÉONOR.
+        Je l'adore, et l'ingrat me trahit.  
+
+    DON FELIX.
+Mais dans un rendez-vous, à ce que l'on m'a dit,  
+Sa flamme cette nuit pour vous s'est fait paraître  ?  
+
+    LÉONOR.
+C'est ce qui me confond, il le veut méconnaître.  
+
+    DON FELIX.
+En quel aveuglement ai-je été jusqu'ici  ?  
+Tu m'as dit vrai, Jacinte, et j'en suis éclairci.  
+
+    LÉONOR.
+Que dites-vous  ?  
+
+    DON FELIX.
+        Enfin soyez désabusée  
+D'une erreur que la nuit entre nous a causée.  
+Dans l'ombre de la nuit, d'amour préoccupés,  
+Nous nous sommes tous deux également trompés,  
+Vous, touchant Don Alvar, moi touchant Isabelle ;  
+Vous me preniez pour lui, je vous prenais pour elle.  
+
+    LÉONOR.
+Quoi, je vous ai parlé cette nuit  ?  
+Ici, Don Bertran paraît qui les écoute.
+
+
+    DON FELIX.
+        Oui, c'est moi  
+Qui cette même nuit vous ai promis ma foi,  
+Et me suis engagé de tout mettre en pratique  
+Pour vous soustraire au joug d'un pouvoir tyrannique  
+Abuser Don Bertran, vous tirer de ses mains,  
+Et faire réussir de plus justes desseins ;  
+Mais j'ai cru qu'en effet...  
+
+
+## SCÈNE VI. Don Bertran, Don Félix, Léonor, Guzman.
+
+    DON BERTRAN.
+        Ah, ma soeur la mutine,  
+Vous traitez donc ainsi l'amour à la sourdine,  
+Tête à tête de nuit, et vous faites complot  
+De mettre voile au vent tous deux sans dire mot  ?  
+
+    LÉONOR.
+Si vous avez ouï...  
+
+    DON BERTRAN.
+        Taisez-vous, je vous prie.  
+Doncques vous rompez tout si l'on ne vous marie  ?  
+
+    LÉONOR.
+C'est à tort...  
+
+    DON BERTRAN.
+        Taisez-vous, vous dis-je, et point de bruit,  
+Vous serez mariée à qui vous en poursuit.  
+
+    DON FELIX.
+Quant à moi...  
+
+    DON BERTRAN.
+        Quant à vous n'ayons point de querelle,  
+Elle vous amourache, aussi faites-vous elle,  
+Vous en voulez par là, j'en suis très fort joyeux ;  
+Mais vous l'épouserez, ma foi, pour ses beaux yeux.  
+Prenez, je vous la livre, elle est et belle et droite,  
+N'a nuls défauts cachés, ne cloche, ni ne boite,  
+C'est comme il vous la faut, vous serez bien conjoints.  
+
+    DON FELIX.
+Me voici marié quand j'y pensais le moins.  
+Mais encor, parmi vous, de grâce, est-ce la mode  
+De se défaire ainsi d'une soeur incommode,  
+Sans avance, sans dot  ?  
+
+    DON BERTRAN.
+        Non, mais quoi qu'il en soit,  
+C'est sa faute et la vôtre, et qui la fait, la boit.  
+Vous en voulez tâter encor qu'il m'en déplaise ;  
+D'accord, oui, passez-en votre envie à votre aise,  
+Mais que je donne rien, ou contribue aux frais...  
+
+    LÉONOR.
+Cessez de vous...  
+
+
+## SCÈNE VII. Don Bertran, Don Félix, Léonor, Guzman, Mendoce.
+
+    MENDOCE, À DON FÉLIX.
+        Monsieur, les chevaux sont tout prêts.  
+
+    DON FELIX.
+Allez, Mendoce, allons. Vous suivrez en carrosse,  
+Je m'en vais préparer le festin de la noce,  
+Je vous attends demain à Madrid pour dîner.  
+
+    DON BERTRAN.
+Laisser ainsi ma Soeur !  
+
+    DON FELIX.
+        Vous pourrez l'amener,  
+Ou comme sous vos lois sa volonté se range,  
+L'envoyer par Amis, ou par lettres de change.  
+Il s'éloigne comme pour s'en aller.
+
+
+    LÉONOR.
+Vous vous faites berner.  
+
+    DON BERTRAN, TIRANT L'ÉPÉE.
+        Je m'en aperçois bien,  
+Mais je l'estropierai.  
+
+    GUZMAN, L'ARRÊTANT.
+        Monsieur, n'en faites rien.  
+
+    DON BERTRAN.
+Il faut...  
+
+    DON FÉLIX, REVENANT.
+    Tirer l'épée, et Guzman...  
+
+    DON BERTRAN.
+        Cet infâme  
+En a, vous le voyez, laissé gâter la lame ;  
+Elle est toute rouillée, et je crois que sans vous  
+Pour son manque de soin je le rouerais de coups.  
+
+    DON FÉLIX, EN RIANT.
+Je craignais autre chose, adieu.  
+
+
+## SCÈNE VIII. Don Bertran, Léonor, Guzman.
+
+    GUZMAN.
+        Votre colère,  
+Elle est passée enfin  ?  
+
+    DON BERTRAN.
+        Ma foi, c'est son affaire,  
+Qu'elle y soigne.  
+
+    LÉONOR.
+        Mais quoi  ? Don Félix tout exprès...  
+
+    DON BERTRAN.
+Si le coeur vous en dit, ma Soeur, courez après,  
+Je ne m'en mêle plus, c'est un point de chicane,  
+Et d'ailleurs, s'il n'a soif, fera-t-on boire un âne  ?  
+
+    LÉONOR.
+Je suis bien malheureuse, au moins si je ne puis  
+Vous obliger d'ouïr l'excès de mes ennuis.  
+Souffrez-moi seulement de parler un quart d'heure.  
+
+
+## SCÈNE IX. Don Garcie, Don Bertran, Léonor, Guzman.
+
+    DON GARCIE.
+Quel débat avez-vous l'un et l'autre  ?  
+
+    DON BERTRAN.
+        Elle pleure,  
+Les oiseaux étaient drus, ils se sont dénichés.  
+Pleurez, ma pauvre Soeur, pleurez pour vos péchés.  
+
+    LÉONOR.
+Il vaut mieux désormais me résoudre à me taire.  
+
+    DON BERTRAN.
+De grâce, dites-moi, mon prétendu Beau-père...  
+
+    DON GARCIE.
+Vous pourriez supprimer ce mot de prétendu.  
+
+    DON BERTRAN.
+Si vous l'êtes jamais, je veux être pendu.  
+Pour la seconde fois j'en jure de la sorte,  
+Si c'est trop peu jurer, que le Diable m'emporte,  
+C'est tout dire, on doit croire un homme à son serment.  
+
+    DON GARCIE.
+Nous en sommes tantôt convenu autrement.  
+Don Félix est parti qui vous faisait ombrage,  
+Rien ne vous peut choquer, ma fille est belle et sage,  
+Ne nous brouillons donc point par de nouveaux détours.  
+
+    DON BERTRAN.
+Vous me pensiez mener par le nez comme un Ours.  
+
+    DON GARCIE, AVEC UN TON DE COLÈRE.
+Quand je parle raison, j'entends qu'on y réponde.  
+
+    DON BERTRAN.
+Vous êtes bilieux autant qu'homme du monde,  
+Vous deviez donner prompt remède à cela.  
+Je compose un onguent...  
+
+    DON GARCIE.
+        Nous n'en sommes pas là.  
+Puisque pour vous ma fille est un parti sortable,  
+Fussiez-vous mille fois plus Diable que le Diable,  
+Vous ne vous moquerez ni d'elle ni de moi,  
+Et vous l'épouserez, ou vous direz pourquoi.  
+
+    DON BERTRAN.
+Je ne suis pas un sot, et cela vous suffise.  
+
+    DON GARCIE.
+Cette sotte raison n'est point ici de mise.  
+
+    DON BERTRAN.
+Et si sa vision la prenant au collet,  
+Elle s'en va sauter au cou de mon valet  
+Le croyant Chevalier de l'Animal à cornes  ?  
+
+    DON GARCIE.
+Ce galimatias n'aura-t-il point de bornes  ?  
+Irez-vous encor loin  ?  
+
+    DON BERTRAN.
+        Ne faites point le fin.  
+Mais dites, son cerveau (car je sais tout enfin)  
+En quel temps reçoit-il cette idée importune  ?  
+Est-ce dans la nouvelle, ou dans la pleine Lune  ?  
+
+    DON GARCIE.
+Je crois, sans vous flatter, que le vôtre en tout temps  
+Vous rend fou passé-maître, et des plus importants.  
+
+    DON BERTRAN.
+Doncques elle n'a point la cervelle blessée  
+De cette chimérique et fantasque pensée,  
+Qu'à la valeur d'un Brave en un pressant danger...  
+Mais la voici qui vient pour vous faire enrager,  
+Nous allons tout savoir.  
+
+
+## SCÈNE X. Don Garcie, Don Bertran, Léonor, Isabelle, Jacinte, Guzman.
+
+    JACINTE À ISABELLE.
+        Jouez bien votre rôle.  
+
+    DON BERTRAN.
+Et bien, la belle, enfin nous tiendrez-vous parole  ?  
+
+    ISABELLE.
+Oui, si vous m'assurez que mon Père avec vous  
+Consent que cet Amant devienne mon époux.  
+
+    DON GARCIE.
+Que dit-elle  ?  
+
+    ISABELLE.
+        Ah, mon Père, il m'a sauvé la vie,  
+Et la reconnaissance à l'aimer me convie ;  
+Je dois m'en souvenir jusque dans le tombeau.  
+
+    DON GARCIE.
+De quoi  ?  
+
+    ISABELLE.
+        Sans son secours un furieux taureau...  
+
+    DON BERTRAN, À DON GARCIE.
+Oyez, mais par ma foi, c'est méchanceté pure,   [32]
+Et vous savez fort bien où lui tient l'enclouure.  
+
+    DON GARCIE.
+J'ignore.  
+
+    DON BERTRAN.
+        Ignorez donc, il m'importe fort peu,  
+Je retire sans bruit mon épingle du jeu.  
+De peur d'engendrer noise, usez-en tout de même.  
+
+    DON GARCIE.
+Pensez-vous m'échapper avec ce stratagème  ?  
+
+    ISABELLE.
+De grâce, en ma faveur modérez ce courroux,  
+Si le Ciel de sa main me choisit un époux...  
+
+    DON BERTRAN, À DON GARCIE.
+C'est stratagème encor  ?  
+
+    DON GARCIE.
+        Explique ce mystère.  
+Aimes-tu donc ailleurs.  
+
+    ISABELLE.
+        Je ne puis vous le taire.  
+Oui, j'aime, et je n'ai pu refuser on amour  
+Au généreux Vainqueur à qui je dois le jour.  
+D'un accident si triste et difficile à croire.  
+Sachez que Don Alvar vous conta hier l'histoire.  
+C'est une vérité que je ne puis nier,  
+Puisque j'en suis la Dame, et lui le Cavalier ;  
+En me sauvant la vie il me la fit captive,  
+Et c'est pour lui qu'il faut désormais que je vive.  
+
+    DON GARCIE.
+Tu voudrais l'épouser, lui qui n'a point de bien  ?  
+
+    LÉONOR.
+De tout ce qu'elle dit apprenez qu'il n'est rien.  
+Cette obligation n'est en effet qu'un conte  
+Pour couvrir un amour dont l'aveu lui fait honte.  
+
+    DON BERTRAN.
+Vous a-t-on demandé votre avis là-dessus  ?  
+Vous tairez-vous jamais  ?  
+
+    LÉONOR.
+        Je ne me tairai plus,  
+Aussi bien il est temps de vous faire connaître  
+Que Don Alvar vous fourbe, et que ce n'est qu'un traître,  
+Qu'il adore Isabelle.  
+
+    DON BERTRAN, À ISABELLE.
+        Est-il vrai  ? Dites-moi,  
+Vous fait-il les yeux doux  ?  
+
+    ISABELLE.
+        Il m'a promis sa foi.  
+
+    DON GARCIE.
+Quelque espoir qui le flatte, il pourra se méprendre  
+S'il prétend que sans bien je l'accepte pour Gendre.  
+
+    ISABELLE.
+Après un tel bienfait...  
+
+    DON GARCIE.
+        Je sais ce qu'il te faut.  
+
+    LÉONOR, À DON BERTRAN.
+Et bien, contre l'ingrat ai-je parlé trop haut  ?  
+
+    DON BERTRAN.
+Quand je vous eusse vu en compétence d'âge,  
+Je voulais avec vous en faire un mariage,  
+Même je l'appelais déjà mon Héritier,  
+Comme si j'eusse dû ne me point marier,  
+Et le galant me joue ! Ah si je ne me venge...  
+
+    LÉONOR.
+Je suis de votre avis si son humeur ne change ;  
+Mais s'il se résolvait enfin à m'épouser  ?  
+
+    DON BERTRAN.
+Je suis bien ennuyé de vous ouïr jaser ;  
+Sans cesse vous parlez si je ne vous fais taire.  
+Mais voici mon Cousin.  
+
+
+## SCÈNE XI. Don Garcie, Don Bertran, Don Alvar, Léonor, Isabelle, Guzman.
+
+    DON BERTRAN.
+        Venez le Débonnaire,  
+Qui faites l'amiable et qui me trahissez.  
+
+    DON ALVAR.
+Moi, vous trahir !  
+
+    DON BERTRAN.
+        J'en sais plus que vous ne pensez,   [33]
+Et vous ferai bien voir que je suis hors de page.  
+Vous n'avez subsisté que par le cousinage,  
+Et sans moi qui fournis, et peut-être dès demain   [34]
+Vous tireriez la laine, ou vous mourriez de faim  ?  
+
+    DON ALVAR.
+Ce reproche est honteux.  
+
+    DON BERTRAN.
+        Je prenais Isabelle  
+Seulement sur le bruit qu'elle avait d'être belle,  
+Car du reste, néant, elle n'a pas un sou.  
+
+    DON ALVAR.
+Qu'en voulez-vous conclure  ?  
+
+    ISABELLE, À JACINTE.
+        Est-il un plus grand fou  ?  
+
+    DON BERTRAN.
+Vous lui parlez d'amour au mépris de ma flamme  ?  
+Mariez-vous sur l'heure, et la prenez pour Femme,  
+C'est par où je prétends me venger de tous deux.  
+Elle, sans aucun bien, vous, passablement gueux,  
+Allez, vous connaîtrez plutôt qu'il ne vous semble  
+Quel Diable de rien c'est, que deux riens mis ensemble.  
+Dans la nécessité vous n'aurez point de paix,  
+L'amour finit bientôt, la pauvreté, jamais.  
+Afin que tout vous semble aujourd'hui lys et roses,  
+J'aurai soin de la noce, et paierai toutes choses,  
+Mais vous verrez demain qu'on a peu de douceur  
+À dîner d'un Ma vie, à souper d'un Mon coeur,  
+Et qu'on est mal vêtu d'un drap de Patience  
+Doublé de Foi partout, et garni de Constance.  
+
+    DON ALVAR, À GUZMAN.
+Écoutons le Beau-père avant que de parler.  
+
+    LÉONOR, À DON BERTRAN.
+Quoi, sur sa trahison loin de le quereller...  
+
+    DON BERTRAN.
+Où je parle, où je suis, c'est à vous de vous taire.  
+Je vous l'ai dit cent fois, vous n'en voulez rien faire,  
+Parlez tout votre saoul, ma Soeur, mais sur ma foi ;  
+Vous ne vous marierez jamais non plus que moi ;  
+Je hais qui comme vous incessamment babille,  
+Et pour vous en punir vous mourrez vieille fille,  
+Allez, n'en doutez point, c'est un coup sûr pour vous.  
+
+    GUZMAN.
+Elle sort bien outrée.  
+
+
+## SCÈNE XII. Don Garcie, Don Bertran, Don Alvar, Isabelle, Jacinte, Guzman.
+
+    DON BERTRAN.
+        Or sus, futurs époux,  
+Vous promettez-vous pas une foi réciproque ?  
+
+    DON GARCIE.
+Mon Gendre Don Alvar  ?  
+
+    DON BERTRAN.
+        Ah, Don Alvar vous choque ?  
+Qu'y trouvez-vous à dire ? Il est beau, doux, bénin,  
+D'assez belle encolure, et de plus, mon Cousin,  
+Cette qualité seule est assez noble et haute ;  
+Il est vrai qu'il est gueux, mais ce n'est pas ma faute,  
+Son Père avait du bien jadis, et...  
+
+    DON GARCIE.
+        Brisons-là,  
+Il n'est pas maintenant question de cela.  
+Vous m'avez demandé ma fille en mariage  ?  
+
+    DON BERTRAN.
+Oui, mais je n'en veux plus puisqu'elle n'est pas sage,  
+Elle aime mon cousin, mon Cousin l'aime aussi ;  
+Qu'il l'épouse s'il veut, j'en prends peu de souci.  
+
+    DON ALVAR, À DON BERTRAN QU'IL TIRE À QUARTIER. [35]
+Je pourrais la connaître et la trouver charmante !  
+Je pourrais soupirer pour une extravagante,  
+Qui s'ose imaginer qu'au péril de mes jours  
+J'ai su contre un Taureau lui parler du secours !  
+
+    DON BERTRAN.
+Quoi, cela n'est pas vrai  ?  
+
+    DON ALVAR.
+        Non, c'est pure folie  
+Qui lui met en l'esprit qu'elle me doit la vie,  
+Et cela va si loin, qu'enfin il m'a fallu  
+Accorder malgré moi tout ce qu'elle a voulu,  
+Et flatter son esprit de quelque espoir frivole.  
+
+    GUZMAN, À DON BERTRAN.
+Je vous l'avais bien dit, Monsieur, qu'elle était folle.  
+
+    DON BERTRAN.
+Ah, Guzman, je croyais que tu m'eusses fourbé.  
+
+    GUZMAN.
+Vous voilà cependant sottement embourbé,  
+Cet obstiné Vieillard n'entend point raillerie.  
+
+    DON BERTRAN, À DON ALVAR.
+N'importe, épousez-là, Cousin, je vous en prie.  
+
+    DON ALVAR.
+Qu'en ferai-je sans bien  ?  
+
+    DON BERTRAN.
+        J'aime mieux tous les ans  
+M'obliger par contrat à vous donner cent francs.  
+
+    DON ALVAR.
+L'offre est avantageuse  ?  
+
+    DON BERTRAN.
+        Au moins il me le semble.  
+
+    DON GARCIE.
+C'est être trop longtemps à consulter ensemble,  
+Je veux avoir réponse.  
+
+    DON BERTRAN.
+        Ah! Vieillard sans pitié.  
+
+    DON GARCIE.
+En un mot, de vos biens donnez-lui la moitié,  
+Je consens en ce cas qu'il l'épouse s'il l'aime ;  
+Sinon, résolvez-vous à l'épouser vous-même,  
+Je vous laisse le choix.  
+
+    DON BERTRAN.
+        La moitié de mon bien!  
+Guzman, le coeur m'en saigne.  
+
+    GUZMAN.
+        Aussi me fait le mien.  
+Mais si vous l'épousez, pensez aux conséquences.  
+
+    DON BERTRAN.
+J'y pense, j'y repense, et plus que tu ne penses,  
+Et je trouve après tout qu'il est fort à propos  
+Que je ne fasse point nombre parmi les Sots.  
+Déjà la Confrérie est assez belle et grande,  
+Sans m'aller de surcroît mettre encor de la bande.  
+Je suis vieux, elle est jeune, et n'a pas l'esprit droit,  
+Et si j'en réchappais le Diable s'en pendrait.  
+
+    DON GARCIE.
+Enfin votre dessein...  
+
+    DON BERTRAN.
+        Vous avez grande hâte,  
+Laissez-moi prendre avis, rien encor ne se gâte.  
+
+    DON GARCIE.
+C'est trop délibérer.  
+
+    DON BERTRAN.
+        Ah, le pressant Grison,  
+Qui fait le raisonnable, et parle sans raison !  
+Puisque aussi bien pour nous c'est un mal nécessaire,  
+J'aimerais mieux avoir deux Femmes qu'un Beau-père.  
+Avecque bouche à Cour, et deux mille ducats,  
+Je crois que mon Cousin ne vous déplaira pas.  
+De pareil revenu j'ai certain héritage  
+Que je lui donne en propre, et dont pourtant j'enrage,  
+Mais je mérite bien qu'on rie à mes dépens.  
+
+    DON GARCIE.
+À ces conditions nous sommes tous contents.  
+
+    DON BERTRAN, À DON ALVAR.
+Vous l'êtes donc aussi  ?  
+
+    DON ALVAR.
+        Pour avoir lieu de l'être  
+Sa folie est trop grande, et se fait trop paraître,  
+J'aurai bien à souffrir d'un esprit si léger ;  
+Mais pour vous satisfaire, et pour vous obliger...  
+
+    DON BERTRAN.
+Si jeune, vous craignez son esprit peu traitable,  
+Vieux, elle me ferait donner cent fois au Diable  
+Pour m'en débarrasser donnez-lui votre foi.  
+
+    DON ALVAR, À DON GARCIE.
+Cet ordre à mon amour est une douce loi,  
+Mais si vous n'approuvez le beau feu qui m'anime...  
+
+    DON GARCIE.
+Pour ne pas l'approuver j'ai pour vous trop d'estime,  
+Et si de l'intérêt écoutant la chaleur...  
+
+    DON ALVAR.
+De grâce oublions tout.  
+
+    DON BERTRAN, REGARDANT DE TOUS CÔTÉS.
+        Je ne vois point ma Soeur.  
+Je crois de cet Hymen qu'elle est peu réjouie.  
+
+    GUZMAN.
+Je pense bien plutôt qu'elle s'est évanouie,  
+L'Hôtesse tout à l'heure appelait au secours.  
+
+    DON BERTRAN.
+Le chien et le sot mal qui la prend tous les jours !  
+
+    DON GARCIE.
+Allons voir ce que c'est.  
+
+    DON ALVAR, À ISABELLE.
+        Puis-je espérer, Madame.  
+
+    DON BERTAN REVENANT APRÈS AVOIR FAIT QUATRE OU CINQ PAS POUR S'EN ALLER, ET SÉPARANT DON ALVAR D'ISABELLE.
+Peut-être que ma Soeur est prête à rendre l'âme,  
+Et vous voulez ici faire le gracieux  ?  
+
+    DON ALVAR.
+Suivons, et devant lui ne parlons que des yeux.  
+
+-------
+
+
+[1] Nasillardement : D'une manière nasillarde. L
+
+[2] Accidentaire : mot improbable qui s'oppose ici à "ordinaire" avec lequel il rime, c'est à dire occasionnellemet ou incidemment.
+
+[3] Miton mitaine : terme proverbial, qui se dit en cette phrase : "C'est de l'onguent miton mitaine", qui ne fait ni bien ni mal, en parlant d'un remède, d'un secours, d'un expedient qui ne sert ni ne nuit. F
+
+[4] Malfait : Qui n'est pas fait dans les règles, qui n'a pas les qualités et les agréements requis. Il se dit tant des personnes que des choses. Un bossu, un homme de mauvaise mine est un homme malfait. Un bourru est un esprit malfait. Un homme infirme est un corps malfait, mal disposé. Un bâtiment malfait, un habit malfait. F
+
+[5] Fait : se dit aussi d'une part de quelque chose qu'on a partagée ensemble. Les deux frères ont partagé la succession de leur père, ils ont eu chacun leur fait. (...) (Dictionnnaire Furetière)
+
+[6] Quantes : Ce mot ne se dit qu'en cette phrase : "Toutesfois et quantes". Un gardien établi par justice est obligé de représenter le dépôt toutesfois et quantes qu'il lui est ordonné. F
+
+[7] Regardure : Vieux mot. Action de regarder. Regard, aspect. T
+
+[8] Mignardement : D'une maniere mignarde. Cet Orfèvre travaille fort mignardement en petits ouvrages. (...) F
+
+[9] Hagard : Qui a quelque chose de rude, de menaçant, de furieux, il ne se dit au propre que du visage, des yeux, de la mine F.
+
+[10] Remasquer : Remettre son masque. Cette Dame s'est demasquée un moment, mais elle s'est remasquée aussitôt (...) F
+
+[11] Recontre : En quelque sens qu'on emploie rencontre, il est toujours féminin, et les bons auteurs n'en usent jamais autrement ; néanmoins en matière de querelle, plusieurs le font masculin, et disent, ce n'est pas un duel, ce n'est qu'un rencontre ; mais le meilleur est de le faire féminin. (Féraud Grammatical) 
+
+[12] Régale : Bonne chère. Il nous a fait un magnifique régale. Donner un régale à un de ses amis. R
+
+[13] Quatorze : on dit proverbialement, "Chercher midi à quatorze heures", pour dire, Rafiner mal-à-propos, chercher des difficultés où il n'y en peut avoir. Ac. 1762)
+
+[14] Iincaguer : défier quelqu'un, se moquer de lui. C'est un homme qui me menace beaucoup, mais je l'incague. F
+
+[15] Mot fabriqué par Thomas Corneille. Cela pourrait être innocentant mais c'est plus tôt tuant les innocents. (NdR)
+
+[16] Congruent : Qui convient à. "Que dites-vous de ma petite oie sorte d'ajustement ? La trouvez-vous congruente à l'habit ?" Molière Les préc. 10. L
+
+[17] Venelle : terme populaire qui se dit en cette phrase, "enfiler la venelle" pour dire, s'enfuir. F vennelle : petite rue
+
+[18] Cosi-Cosi : Mot italien que nous avons adopté et que nous écrivons comme on le prononce, couci-couci. LC
+
+[19] Muguet : Galand, coquet, qui fait l'amour aux Dames, qui est paré et bien mis pour leur plaire. Le Cours, les Tuilleries sont les rendez-vous de tous les muguets. F
+
+[20] Portraiture : Terme vieilli. Portrait. L
+
+[21] Nargue : Dire nargue d'une chose, exprimer le peu de cas qu'on en fait. L
+
+[22] Babil : Abondance de paroles sur des choses de néant ou superflues ; un parler continuel et importun. F
+
+[23] Extravaguer : Dire ou faire quelque chose mal à propos, indiscretement et contre le bon sens, ou la suite du discours, ou la bienseance. F
+
+[24] Diable à quatre : faire beaucoup de bruit, causer beaucoup de désordre (locution qui provient d'une représentation scénique du moyen âge qu'on appelait la grande diablerie à quatre personnages ; celle où il n'y en avait que deux se disait la petite diablerie) L
+
+[25] Flambergue : Grosse espée du Chevalier Regnaut de Montauban, l'aîné des quatre fils Aymon. F
+
+[26] Estramaçon : Coup qu'on donne du trenchant d'une forte espée, d'un coutelas, d'un cimeterre. On le dit aussi de l'arme même. F.
+
+[27] Prud'homie : Probité et sagesse. L
+
+[28] Affiler : Donner le fil à un couteau, à une épée, à une faux, à une cognée, et à tous autres instruments tranchants, en les passant sur la meule, ou sur le grais, ou avec la pierre à aiguiser. F
+
+[29] Vuider : se dit figurément en choses morales, et signifie, terminer, finir une affaire, un differend. F
+
+[30] Rate : Familièrement. Épanouir la rate, désopiler la rate, dilater la rate, divertir, faire rire. L
+
+[31] Empaumer : empaumer quelqu'un, se rendre maître de son esprit. Je vois qu'il a, le traître, empaumé son esprit, voir MOL. Éc. des femmes, III, 5; L
+
+[32] Enclouure : Empêchement, noeud d'une difficulté. "De l'argent, dites-vous, ah ! voilà l'enclouure", MOL. l'Étour. II, 5. L
+
+[33] Hors de page : être hors de page, être hors de toute dépendance. Cette manière de gens qui ne sortent jamais de hors de page qui en philosophie sont toujours écoliers L
+
+[34] Tirer la laine : exercer de nuit, dans les rues, le vol des manteaux et en général de toutes sortes de choses. L
+
+[35] À quartier : Sorte d'adverbe qui signifie à part. R

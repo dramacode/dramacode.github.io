@@ -1,0 +1,2876 @@
+---
+identifier: rotrou_dombernarddecabrere  
+creator: Rotrou, Jean  
+date: 1646  
+title: Don Bernard de Cabrère. , tragi-comédie  
+---
+
+
+DON BERNARD DE CABRERE
+
+TRAGI-COMÉDIE
+
+M. DC. XLVII
+
+de ROTROU
+
+# Extrait du Privilège du Roi. Par grâce et Privilège du Roi donné à Paris le 11 mars 1647. Signé ; par le Roi en son Conseil, LE BRUN, il est permis à ANTOINE DE SOMMAVILLE, Marchand Libraire à Paris, d'imprimer ou faire imprimer une pièce de comédie intitulée, Don Bernard de Cabrere, et ce durant le temps et espace de cinq ans, à compter du jour que le dit livre sera achevé d'imprimer. Et défenses à tous autres d'en vendre ni distribuer d'autre impression de celle qu'aura fait ou fait faire le dit de Sommaville, à peine de cinq cent livres d'amende, ainsi qu'il est plus amplement porté par les dites Lettres ci-dessus datées. Et ledit de Sommaville a associé audit privilège Toussaint Quinet, aussi marchand libraire à Paris, suivant accord fait entr-eux.À PARIS, Chez ANTOINE DE SOMMAVILLE, Au Palais, dans la Galerie des Merciers, à l'Écu de France.Achevé d'Imprimer pour la première fois, le vingt-unième jour d'octobre 1647.
+Représenté pour la première fois en 1646.
+À MONSEIGNEUR MONSEIGNEUR L'ÉMINENTISSIME CARDINAL MAZARIN
+
+
+
+# ELEGIE.
+Soeur du Dieu des saisons que la mélancolie,  
+Dans le tombeau d'ARMAND, avait ensevelie ;  
+Et qui malgré l'éclat d'un bruit doux et flatteur ;  
+Ne pus souffrir ton frère, après ton protecteur,  
+Force enfin, ma Clion, cette douleur extrême,  
+Qui te le ravissant, te ravit à toi-même :  
+Et comme son trépas t'excita cet ennui,  
+Aujourd'hui qu'il renaît, ressuscite avec lui.  
+JULES heureux soutien de mon jeune Alexandre,  
+Comme un autre Phoenix engendré de sa cendre,  
+Fait voir par un miracle égal à son renom,  
+Qu'ARMAND a seulement changé d'âge et de nom ;  
+Oui, du divin ARMAND la haute Intelligence,  
+Soutient encore en lui la splendeur de nos lois,  
+Rend encor notre Roi, l'effroi des autres Rois ;  
+Dessus nos ennemis gagne encor des batailles,  
+Sous les herbes encor fait chercher leurs murailles ;  
+De cent climats divers fait encor les destins,  
+Maintient nos alliés, et contient nos mutins ;  
+Sous lui l'Aigle inexperte à défendre ses terres,  
+Comme dessous ARMAND, lâche encore ses serres :  
+Sous lui l'Espagne tremble et son Lion rugit  
+Effrayé de son sang, dont l'Ibère rougit.  
+Depuis qu'enfin du Ciel les bontés tutélaires  
+Ont mis entre ses mains le timon des affaires ;  
+Notre barque craint moins ni sable ni rocher ;  
+Que quand le Grand ARMAND en était le rocher,  
+Et sans se voir briser, voiles, mâts, ni cordages,  
+De tous ses aquilons surmonte les orages :  
+Mais si les intérêts de l'État seulement,  
+En JULES, ma Clion, te remontraient ARMAND,  
+Et si les tiens encor n'y trouvaient ce Grand homme,  
+Je te pourrais souffrir l'ennui qui te consomme ;  
+Et l'éminent éclat dont il est revêtu,  
+Ni le sort qu'il a fait captif de sa vertu,  
+Ni cet art qu'il enseigne aux puissances suprêmes,  
+De faire sur leurs fronts briller leurs diadèmes ;  
+Ne devraient ranimer ni l'ardeur ni l'espoir,  
+Que l'estime d'ARMAND t'avait fait concevoir :  
+Mais si JULES parfois comme lui se délasse,  
+Des travaux de l'État sur les fleurs du Parnasse,  
+Si sous lui d'Hélicon les deux sommets sacrés,  
+Comme sous RICHELIEU, sont encor révérés,  
+Et si j'ai mérité qu'un des fruits de mes veilles,  
+Sans les faire souffrir, ait touché ses oreilles ;  
+Qu'avons-nous plus perdu, qu'as-tu plus à pleurer,  
+Et quel sujet as-tu de plus désespérer ?  
+Viens, il te souffrira la généreuse audace,  
+Qui te doit inviter d'aspirer à sa grâce ;  
+Et j'ose, sans trembler, lui demander pour toi,  
+Une protection commune avec mon Roi.  
+Mais révérant les soins qu'il rend à ce grand Prince,  
+Épargnons-lui le temps de toute la Province ;  
+Et si jusques à nous il se daigne abaisser ;  
+N'occupons son esprit que pour le délasser.  
+Un jour faisons-lui voir sur ce noble théâtre,  
+Dont nos fameux Acteurs font la Cour idolâtre :  
+Son illustre pays, sous Romule naissant,  
+Un autre sous son joug le monde obéissant,  
+Tantôt sous ses Consuls sa vigueur florissante,  
+Tantôt sa liberté sous ses Rois gémissante :  
+Aujourd'hui pour son vice, un Tarquin détrôné,  
+Demain pour ses vertus, un Trajan Couronné :  
+D'autres fois le grand coeur d'un Curse, ou d'un Scevole  
+Dont l'un se précipite, et dont l'autre s'immole.  
+Ainsi sans se lasser d'un art industrieux,  
+Exposons à Paris toute Rome à ses yeux :  
+Cette Rome sa mère en Héros si féconde,  
+Qu'il pourrait rendre encor la maîtresse du monde,  
+Si son zèle inouï, pour notre nation,  
+N'eut honoré Paris de son adoption.  
+Puis quand lassée enfin du travail de la Scène,  
+Ta vigueur quelquefois voudra reprendre haleine,  
+Pour lui faire ta Cour, porte en son Cabinet,  
+Le divertissement d'une Ode, ou d'un Sonnet ;  
+Ou touchant quelque trait de son mérite extrême,  
+Et comme en un tableau le montrant à lui-même,  
+Ce glorieux soutien du trône de mon Roi,  
+Se regarde en passant, et te vois avec soi.  
+Tu trouveras en lui les sujets les plus vastes,  
+Dont jamais nos Héros aient enrichi nos fastes :  
+Tu peux sans le flatter prendre ces grands projets,  
+Qui de tous nos voisins vont faire nos sujets ;  
+Tu peux parler sans fard de cet esprit solide,  
+Dont l'avis au besoin n'est ni lent ni timide ;  
+Et par qui si LOUIS suit tous ses sentiments,  
+Nous verrons sous ses pieds les trônes Ottomans.  
+Tu peux tracer ses moeurs dans la même innocence,  
+Où le Ciel et la terre étaient en leur naissance ;  
+Et sur tout ce portrait peut encor s'enrichir,  
+D'une fidélité qui ne saurait gauchir ;  
+Et d'un zèle si pur que la même imposture,  
+N'en osera médire à la race future.  
+Oui, JULES, la vertu dont tu nous éblouis,  
+Fait autant prospérer les armes de LOUIS,  
+Que ce grand jugement qui jamais ne sommeille,  
+Et dans tous ses besoins l'assiste et le conseille ;  
+Aussi par un visible et juste soin des Cieux,  
+N'ayant point de défaut, tu n'as point d'envieux ;  
+La fortune pour toi sage et judicieuse,  
+Perdra les noms d'aveugle et de capricieuse,  
+Et quoi qu'elle t'acquière et d'estime et de droit,  
+Croit te donner encor moins qu'elle ne te doit ;  
+Que dis-je, te donner ? si sa splendeur extrême,  
+Sa pompe, son pouvoir lui viennent de toi-même ;  
+Si ses bontés pour toi sont ses propres effets,  
+Si tu lui donnes tout, si c'est toi qui la fais :  
+Et si par tes travaux depuis tant de campagnes ;  
+Elle triomphe en France, aux dépends des Espagnes,  
+Fais-lui sous l'étendard de notre Potentat,  
+Achever tes desseins pour le bien de l'État.  
+Et quand la guerre enfin qui depuis tant de lustres,  
+Nous coûte tant de sang, et tant d'hommes Illustres,  
+Par des événements conformes à tes voeux,  
+Aura mis notre gloire au point où tu la veux,  
+Pour comble des succès de ton soin salutaire,  
+Fais pour notre repos, ce qu'ARMAND n'a su faire ;  
+Et content des lauriers que nous avons cueillis,  
+Fais remonter la paix sur le trône des Lys ;  
+Lors si la Seine encor me compte entre ses cygnes,  
+Et si de tes hauts faits mes sentiments sont dignes,  
+J'épuiserai ma veine à te faire un tableau,  
+Dont si l'antiquité vit jamais rien de beau,  
+Et si d'un faux espoir mon zèle ne me flatte,  
+La touche au gré de tous, sera si délicate,  
+Que qui verra l'ouvrage, en louera l'artisan,  
+Et qu'il n'aura rival qui n'en soit partisan.  
+
+
+# LES ACTEURS.
+ – DON BERNARD DE CABRERE, favori du roi.
+ – DON LOPE DE LUNE, ami de Don Bernard.
+ – DON PEDRE, roi d'Aragon.
+ – L'INFANTE, sa soeur, maîtresse de Don Bernard.
+ – LÉONOR, maîtresse du Roi.
+ – IGNES, suivante.
+ – LE COMTE, capitaine des gardes.
+ – PEREZ, secrétaire du Roi.
+ – LAZARILLE, suivant de Don Lope.
+ – LE GOUVERNEUR DE SARAGOSSE.
+ – SOLDATS.
+ – GARDES.La scène est à Saragosse, dans le Palais du Roi.
+
+
+# ACTE I.
+
+
+## SCÈNE PREMIÈRE. Don Lope de Lune, Lazarille Valet de Chambre.
+
+    DON LOPE.
+Enfin, cher Lazarille, un plus heureux Génie  
+Nous va, de nos destins, forcer la tyrannie,  
+Et ce bras l'aura mise au rang des ennemis,  
+Qu'au joug de cet État ses exploits ont soumis.  
+Don Bernard rend au Prince un digne témoignage  
+Des fruits qu'à l'Aragon a produit mon courage,  
+Qui fera succéder l'espoir que je bâtis,  
+Sur la destruction des Sardes déconfits ;  
+Oui, j'ose sur l'espoir que Don Bernard me donne,  
+Prétendre à des degrés proches de la Couronne ;  
+Et si l'âme est prophète en ses pressentiments,  
+De grands effets suivront ces nobles mouvements ;  
+Qui ne me flattent pas d'une faveur commune,  
+Et me font défier l'orgueil de la fortune.  
+
+    LAZARILLE.
+Le fatal ascendant qui gouverne vos jours,  
+Sera donc bien changé, de ce qu'il fut toujours ;  
+Car depuis qu'à vos pas mon mauvais sort m'attache,  
+Le malheur qui vous suit, n'a guère eu de relâche.  
+
+    DON LOPE.
+Il est vrai que jamais les destins rigoureux  
+N'ont rendu sous le ciel, de jours plus malheureux ;  
+Et que tous les revers du sort et de l'envie,  
+Semblent pour seul objet avoir choisi ma vie.  
+Mes plus heureux succès n'ont jamais vu ce bras,  
+Sans me coûter du sang, achever de combats ;  
+Mes plus justes desseins n'ont jamais eu d'issue  
+Qui remplît mon attente, ou qui ne l'ait déçue.  
+Je suis encor à voir le seul, et premier fruit  
+Que jamais, ou l'amour, ou le jeu m'ait produit.  
+J'espérais à la Cour, vaincre par ma constance,  
+De cet astre inclément la maligne influence,  
+Quand avec Don Bernard, Catalan comme moi,  
+Je vins avec mes voeux, offrir mon bras au Roi,  
+Et comme à la valeur, qui m'est héréditaire,  
+Chercher à succéder aux emplois de mon père ;  
+Mais toujours quelque obstacle arrêtant mes desseins,  
+Pour moi fermait au Prince, et l'oreille, et les mains.  
+Au lieu qu'une fortune à mille autres seconde ;  
+( Mais à qui Don Bernard, n'a rien qui ne réponde )  
+D'abord l'insinuant, en l'estime du Roi  
+Ouvrait toujours pour lui, ce qu'il fermait pour moi,  
+Mit bientôt ce grand homme, au plus haut de sa roue ;  
+Et l'élevant si haut, me laissa dans la boue.  
+Enfin, ayant acquis, par nos communs tributs,  
+Lui de telles faveurs, moi de si longs rebuts ;  
+Les Sardes révoltés nous ont ouvert la lice,  
+Où je pouvais du sort affronter l'injustice ;  
+Et me le soumettant, arracher de ce bras,  
+Les faveurs qu'il me doit, et ne me donne pas.  
+
+    LAZARILLE.
+À voir de quels dédains la fortune me traite,  
+Nous devons être nés dessous même planète ;  
+Jamais occasion d'intérêt, ou d'honneur,  
+Par son événement n'a marqué mon bonheur ;  
+Mais surtout, qu'en mon choix le sort me fut contraire,  
+Quand me donnant à vous, Urfin suivit Cabrere !  
+Son maître auprès du Roi, possède un rang si haut  
+Que tout rit à ses voeux, que rien ne lui défaut :  
+Et dans le triste cours du malheur qui vous presse,  
+Cette lame enrouillée est toute ma richesse.  
+
+    DON LOPE.
+Le service important qu'a rendu ma valeur,  
+Fera bientôt cesser, ta plainte, et mon malheur ;  
+Les fruits de l'amitié dont Cabrere m'honore,  
+Ne peuvent plus tarder et sont tout prêts d'éclore :  
+J'attends de son paquet, que je viens rendre au Roi,  
+L'infaillible faveur d'un honorable emploi :  
+Il cherche en sa poche.
+
+Et puis... mais quelle peine est celle où je me trouve ?  
+Ô de mon mauvais sort la plus fatale épreuve !  
+Et qui de mes malheurs, me rend le plus confus ?  
+Ce paquet...  
+
+    LAZARILLE.
+    Est perdu.  
+
+    DON LOPE.
+        Je ne le trouve plus ;  
+Ô Négligence insigne ! Et surprise importune !  
+J'ai joint si peu de soin, à si peu de fortune ?  
+Et si mal conservé le gage glorieux,  
+Qui devait rendre au Roi, mon nom si précieux ?  
+
+    LAZARILLE.
+Le sort nous en veut trop, il faut qu'il nous achève,  
+Et sa haine est pour nous, sans quartier et sans trêve ;  
+Mais voyez bien, peut être aurez-vous mal cherché ;  
+Vous l'aviez ce matin, où nous avons couché,  
+L'auriez-vous oublié ? Cherchez mieux je vous prie.  
+
+    DON LOPE.
+Je l'aurai pu laisser dedans l'Hôtellerie,  
+Mais retourner si loin, ferait un vain souci,  
+Puisque enfin, aujourd'hui, Cabrere arrive ici ;  
+Et que sur le chemin, ma blessure r'ouverte,  
+De trois, ou quatre jours m'ayant coûté la perte,  
+A fait d'autant de temps, avancer son retour ;  
+Si bien qu'aujourd'hui même, on l'attend à la Cour,  
+Ou la voix suppléant la perte de sa lettre,  
+M'obtiendra les effets, que j'osais m'en promettre :  
+S'il se peut, toutefois, faisons savoir au Roi,  
+Quels exploits en Sardaigne, ont établi sa loi ;  
+Et de ces grands succès lui faisant des peintures,  
+Sans nous manifester, contons nos aventures ;  
+Pour donner audience, il se doit rendre ici.  
+
+    LAZARILLE.
+Quelqu'un sort de sa chambre.  
+
+    DON LOPE.
+        Avançons, le voici.  
+
+
+## SCÈNE DEUXIÈME. Le Roi, Le Comte, Capitaine des Gardes, Suite d'Archers, Don Lope, Lazarille.
+
+    LE COMTE.
+Vos soins du grand Trajan vous font le vif exemple,  
+Si les Rois sont des Dieux, leur Palais est un temple,  
+Où pour tous il est juste, et libre de prier,  
+Et dont jamais l'accès ne se doit dénier.  
+
+    LE ROI.
+Le plus digne degré de la grandeur d'un maître,  
+Est d'être égal aux siens, autant qu'il le peut être ;  
+Il s'élève plus haut par cet abaissement,  
+C'est de sa dignité le plus sûr fondement,  
+Et de l'art de régner la plus haute science.  
+
+    LE COMTE.
+Chacun peut approcher : le Roi donne audience.  
+
+    DON LOPE S'AVANÇANT.
+Si prompt à le servir, je tremble à l'aborder.  
+
+    LAZARILLE.
+L'occasion vous rit.  
+
+    DON LOPE.
+        Ciel, fais la succéder.  
+Mais on m'a prévenu.  
+
+
+## SCÈNE III. Don Sanche, Le Roi.
+
+    DON SANCHE, GOUVERNEUR DE SARAGOSSE.
+        Sire, un bruit populaire,  
+Jette ici la terreur de l'Infant votre frère ;  
+L'armée est décampée, et s'avance à grand pas,  
+L'avantage consiste à ne l'attendre pas ;  
+Et le mal nous pressant, empêcher qu'il n'empire  
+Et ne vienne attaquer le coeur de votre Empire :  
+Vous risquez un grand siège, en attendant plus tard,  
+Saragosse est au trône un important rempart.  
+
+    LE ROI.
+Mes ordres pourvoiront contre cette disgrâce,  
+Cependant, travaillez à bien munir la place ;  
+Et pourvoir de défense aux endroits importants,  
+Sans semer la frayeur parmi les habitants ;  
+Allez qu'un autre approche.  
+
+
+## SCÈNE IV. Le Secrétaire, Le Roi, Le Comte, Don Lope, Lazarille, Soldats.
+
+    DON LOPE S'AVANÇANT.
+        Ô Sort, sois moi propice !  
+Ne voilà pas encor, un trait de son caprice !  
+Vois combien de hasards m'ôtent l'occasion.  
+
+    LAZARILLE.
+Je forcène de rage et de confusion.  
+
+    LE SECRÉTAIRE AU ROI, LUI DONNANT UNE LETTRE.
+Sire, aux moindres faveurs, qu'une maîtresse envoie,  
+C'est trop faire acheter, qu'en retarder la joie.  
+Le Roi la baisant et l'ouvrant.
+
+Cher gage d'une main pleine de tant d'appas,  
+Me viens-tu prononcer l'arrêt de mon trépas ?  
+Ou fléchirai-je enfin la fierté qui rejette  
+Une âme assujettie au joug de sa sujette ?  
+
+    LAZARILLE.
+Quelqu'un profitera du temps que vous perdez.  
+
+    DON LOPE S'AVANÇANT.
+Prince, rare ornement...  
+
+    LE COMTE LE FAISANT RETIRER.
+        Le Roi lit, attendez.  
+
+    LE ROI LISANT LA LETTRE.
+Ne souillez point grand Roi, les glorieuses marques,  
+Qui sur le reste des monarques,  
+Font briller votre Majesté,  
+Par une passion à son repos fatale,  
+D'un indigne attentat de votre âme Royale,  
+Sur mon honnêteté.  
+J'ai trop longtemps souffert à vos ardeurs passées,  
+Ces frivoles écrits, porteurs de vos pensées,  
+Ne m'en honorez plus,  
+On me continuant cet honneur qui m'offense,  
+Ne vous offensez pas, ou d'un juste silence,  
+Ou d'un libre refus ;  
+Il dit, ne lisant plus.
+
+Ô rigueur inhumaine ! ô beauté tyrannique !  
+Qui causant mon amour, défends qu'elle s'explique,  
+Beau, mais funeste écueil, insensible rocher.  
+
+    LAZARILLE.
+Allez.  
+
+    LE COMTE.
+        Il ne lit plus, vous pouvez approcher.  
+
+    DON LOPE S'APPROCHANT.
+Enfin tu seras lasse, ô cruelle fortune !  
+De me persécuter et de m'être importune ;  
+Prince amour des climats, où vous donnez la loi,  
+Et de vos ennemis, la terreur et l'effroi ;  
+Si votre Majesté doit trouver quelques charmes  
+Au fidèle récit du succès de ses armes ;  
+J'ose satisfaisant à ma commission,  
+Me promettre l'honneur de son attention.  
+
+    LE ROI LIT UN MOT, OU DEUX, ET PUIS DIT.
+Et vantons orgueilleux, les droits d'une Couronne,   [1]
+Et le faux ascendant que son éclat nous donne ;  
+Pourrais-je obtenir moins dessous un nom privé,  
+Quand ce grade éminent, où je suis élevé !  
+Une ingrate sujette à ce point me dédaigne !  
+
+    DON LOPE.
+L'état où Don Bernard a réduit la Sardaigne,  
+Fera trembler l'Europe, et de votre fureur,  
+Aux lieux plus écartés sèmera la terreur.  
+
+    LE ROI LISANT.
+Ne m'en honorez plus,  
+Ou me continuant, cet honneur qui m'offense,  
+Ne vous offensez pas, ou d'un juste silence,  
+Ou d'un libre refus.  
+Il dit ensuite.
+
+Traiter de ces froideurs, le feu qui me dévore,  
+Moi son Prince ! son Roi, mais son Roi qui l'adore.  
+
+    DON LOPE.
+Quand l'appareil fut prêt, et que de vos vaisseaux  
+Don Bernard eut ouvert l'humide sein des eaux,  
+Les vents en même instant, furent sans violence,  
+Et volontairement s'imposèrent silence ;  
+La mer avec respect porta ce grand fardeau,  
+Qui des Sardes allait la faire le tombeau.  
+
+    LE ROI.
+Mais, ô trouble frivole et vaine rêverie,  
+Amoureux je puis craindre, et Monarque je prie ;  
+J'aime, et puis observer ces respects superflus,  
+Qui pouvant tout, demande, est digne du refus.  
+
+    DON LOPE.
+L'air et la mer, enfin comme vos tributaires,  
+Prirent votre parti, contre vos adversaires.  
+
+    LE ROI.
+Mais au trouble importun, dont j'étais diverti,  
+N'ayant rien entendu, je n'ai rien réparti ;  
+Cette distraction est un défaut aux Princes,  
+Qui doivent toujours mettre, au bien de leurs Provinces,  
+Leur plus présent objet, et leur soin le plus haut,  
+Rappelons notre esprit, et couvrons ce défaut.  
+Se levant.
+
+Je songe à prévenir le siège qui s'apprête,  
+Si vous m'avez servi, dressez votre requête,  
+J'en verrai le mérite, et j'aurai soin de vous.  
+
+    LAZARILLE LE SUIVANT.
+De nos Astres enfin nous vaincrons le courroux.  
+
+
+## SCÈNE V. Le Roi, Le Comte, Le Secrétaire.
+
+    LE ROI.
+Quoi je règne, et régnant n'ose dire que j'aime !  
+Je sers, et ne puis plaire avec un Diadème !  
+Au Secrétaire.
+
+Toi, de ce triste écrit funeste messager,  
+Auteur de mon ennui, travaille à l'alléger,  
+Et si tu veux qu'encor quelque attente me flatte,  
+Va m'obtenir, Perez, de cette belle ingrate,  
+La faveur de passer en son appartement,  
+Et sans l'incommoder, lui parler un moment.  
+Va j'attends sa réponse : ha comte, est-il possible,  
+Que ce front couronné cache un coeur si sensible !  
+Et qu'une dépendante, et sujette beauté,  
+À de si longs efforts, en cache un indompté ?  
+Par quel droit vantons-nous malheureux que nous sommes,  
+L'avantage des Rois, sur le reste des hommes,  
+Si sujets comme vous à notre passion,  
+Nous soutenons si mal cette présomption,  
+Que d'un seul regard, qu'un bel oeil nous envoie,  
+Nos libertés souvent sont la honteuse proie ?  
+
+    LE COMTE.
+Le malheur de souffrir pour d'aimables objets,  
+Est le sort aussi bien des Rois que des sujets.  
+
+    LE ROI.
+Ma plus sensible peine, en ce que je propose,  
+Est que mon dessein même, à mon dessein s'oppose,  
+Et que pouvant user d'un pouvoir absolu,  
+Je cesse de vouloir, sitôt que j'ai voulu ;  
+Que dans la même cause, et criminel, et juge,  
+De l'objet offensé je deviens le refuge,  
+Et de quelques efforts que je sois combattu,  
+N'ai pas assez d'amour pour manquer de vertu.  
+Ainsi mon coeur pressé par l'un et l'autre extrême,  
+Est le champ d'un combat de moi contre moi-même,  
+Qui lâche, ou généreux, faible, ou fort que je suis,  
+Protège en même temps, l'honneur que je poursuis.  
+
+    LE COMTE.
+C'est par ce beau combat, que vous rendez des marques,  
+Du plus considérable, et plus grand des Monarques ;  
+L'amour est un doux mal commun à tous les Rois,  
+Mais peu de la raison lui font suivre les lois,  
+Peu savent avec lui modérer leur puissance,  
+Et quand il ose trop, réprimer sa licence ;  
+Ces qualités aussi vous attirent nos voeux,  
+De Pedre, et non du Roi, le monde est amoureux ;  
+Et le surnom de Grand que l'Aragon vous donne,  
+Vient plus de vos vertus, que de votre Couronne ;  
+C'est un malheur d'un trône où l'on est élevé,  
+Qu'être toujours en butte, et toujours observé ;  
+Qu'il ne soit mur si fort, dans les Palais des Princes,  
+Que ne puissent percer les yeux de leurs Provinces,  
+Toutes les actions regardant leurs sujets,  
+De leurs sujets aussi, sont toujours les objets ;  
+Avec le peuple enfin ils partagent un titre,  
+Et juges de l'État, l'État est leur arbitre ;  
+Pour votre Majesté, c'est un repos bien doux,  
+De pouvoir sans rien craindre, être jugé de tous ;  
+Et c'est pour un Monarque une vertu sublime,  
+De haïr comme vous, jusqu'à l'ombre du crime ;  
+D'être un si saint exemple, aux yeux de votre Cour,  
+Et pouvoir accorder l'innocence et l'amour.  
+
+    LE ROI.
+L'intérêt qui m'allie avecques la Navarre,  
+Pouvait seul me priver d'une beauté si rare ;  
+Et toute autre raison moins utile à l'État,  
+La splendeur de mon rang, le nom de Potentat,  
+Ni tous les fondements d'une haute espérance,  
+Ne me pourraient ravir l'heur de son alliance.  
+
+
+## SCÈNE VI. Don Lope de Lune, Lazarille, Le Roi, Le Comte, Gardes.
+
+    LAZARILLE.
+L'occasion vous rit, mais ne la manquez pas.  
+
+    DON LOPE.
+Elle est trop favorable, ô sort guide nos pas !  
+
+    LE ROI PRENANT LA REQUÊTE.
+Donnez.  
+
+    DON LOPE.
+        Ce mot, grand Roi, s'il ne vous importune,  
+Vous fera souvenir de Don lope de Lune ;  
+Autrefois par sa charge, illustre en cette Cour,  
+Sous l'heureux Souverain, dont vous tenez le jour ;  
+Qui jusqu'à la mort, paya de sa personne,  
+Et fit de tout son sang, hommage à la Couronne.  
+
+    LE ROI LISANT.
+Don Lope de...  
+
+
+## SCÈNE VII. Le Secrétaire, Le Roi, Don Lope, Le Comte, Lazarille, Gardes.
+
+    LE SECRÉTAIRE.
+        Seigneur, Léonor passe ici.  
+Pour aller chez l'Infante, avancez, la voici.  
+
+    LE COMTE À DON LOPE.
+Hors.  
+
+    DON LOPE SORTANT.
+        Ô de mon malheur, cruelle expérience !  
+
+    LAZARILLE LE SUIVANT.
+Ô la dure vertu, que tant de patience !  
+
+
+## SCÈNE VIII. Léonor, Le Roi, Le Comte, Le Secrétaire, Gardes.
+
+    LE ROI RELEVANT LÉONOR QUI EN ENTRANT FAIT UN FAUX PAS.
+Hé, Madame !  
+
+    LÉONOR.
+        Seigneur, c'est un bonheur pour moi,  
+Le Roi lui donnant la main, laisse tomber la requête par mégarde.
+
+Qu'ayant à choir, ma chute arrive aux pieds du Roi,  
+Dont le rang me prescrit l'état où je me trouve.  
+
+    LE ROI.
+C'est de votre mérite une infaillible preuve,  
+Que pour vous relever et servir au besoin,  
+À mes mains la fortune , en ait commis le soin ;  
+Oui, Madame, ce soin tombe en des mains puissantes,  
+Capables de remplir et passer vos attentes,  
+Qui vous peuvent donner un rang qui vous défaut,  
+Et ne relève point, sans élever bien haut.  
+
+    LÉONOR.
+Que puis-je désormais craindre de la fortune,  
+Si me terrassant même elle m'est importune ;  
+Si ma chute s'élève, et si choir est un saut,  
+Pour me rendre plus ferme, et m'élever plus haut,  
+C'est d'un bonheur insigne une preuve constante.  
+
+    LE ROI.
+Où s'adressent vos pas ?  
+
+    LÉONOR.
+        Je passais chez l'Infante.  
+
+    LE ROI.
+Je vous y rends.  
+
+    LÉONOR.
+    Seigneur !  
+
+    LE ROI.
+        Accordez-moi ce point,  
+Mandez des cruautés, mais n'en exercez point,  
+Rebutez, méprisez, tuez dans une lettre,  
+Mais présente, souffrez ce qui se peut permettre,  
+Et ne refusez pas une civilité.  
+
+    LÉONOR.
+Si j'osais remontrer à votre Majesté,  
+Qu'à quelque si haut point que sa bonté m'oblige,  
+Il m'est de conséquence étant...  
+
+    LE ROI.
+        Allons vous dis-je,  
+Souffrez que je vous rende en son appartement,  
+Et là nous en viendrons sur l'éclaircissement.  
+
+
+## SCÈNE IX. Don Lope de Lune, Lazarille, sortant de l'antichambre.
+
+    LAZARILLE.
+Qu'attendons-nous encor, malheureux que nous sommes ?  
+J'ai bien vu du pays, j'ai bien connu des hommes,  
+Mais je n'en ai point vu, que le ciel en courroux,  
+Rende par leur malheur si célèbres que nous ;  
+Et vous deviendrez Grand, vanité ridicule !  
+Vous pourriez être un Mars, un César, un Hercule  
+Que le sort enragé qui talonne vos pas,  
+Vous heurterait encor, et ne vous rirait pas.  
+
+    DON LOPE.
+Sa rigueur en effet m'oppose tant d'obstacles,  
+Que pour les vaincre tous, il faudrait des miracles ;  
+Mais le Roi peut rentrer, attendons son retour.  
+
+    LAZARILLE.
+Ô l'importun métier, que celui de la Cour !  
+Il trouve la requête, et la ramassant dit.  
+Qu'est-ce ci ? Quelque trait encor de la fortune !  
+
+    DON LOPE.
+Qu'est-ce ?  
+
+    LAZARILLE LISANT.
+        Requête au Roi de Don Lope de Lune ; ...  
+Et votre âme est prophète en ses pressentiments,  
+De grands effets suivront vos nobles mouvements ?  
+Le lui montrant, il dit.
+
+Vous pouvez sur l'espoir que Don Bernard vous donne,  
+Prétendre à des degrés proches de la Couronne :  
+Vous êtes fort avant dedans l'esprit du Roi,  
+Vous ne pouvez manquer d'un honorable emploi :  
+Pour vous seul désormais, les astres s'intéressent,  
+Ô de combien de vent les hommes se repaissent !  
+Lui baillant la requête.
+
+Tenez, votre requête a fait un grand effet,  
+Et vous avez raison d'être fort satisfait,  
+Elle a des pieds du Prince essuyé la poussière.  
+
+    DON LOPE.
+Dieu ! Jamais désespoir eut-il tant de matière ?  
+Don Bernard qui peut tout, en vain me veut du bien,  
+Ma valeur sert l'État, et ne me produit rien :  
+Ma parole est soufferte, et n'est point écoutée,  
+Ma requête est reçue, et puis est rejetée,  
+J'ai toujours lieu d'espoir, jamais d'événement,  
+Tout me rit, tout me flatte, et toujours vainement ;  
+La fortune nous traite avec trop d'injustice,  
+Pour nous permettre plus de vaincre son caprice.  
+Ne nous obstinons plus en une ingrate Cour,  
+Puisque Cabrere arrive, attendons son retour ;  
+Mais sans plus nous flatter d'une espérance vaine,  
+Sans que mes intérêts lui coûtent plus de peine ;  
+Déchirant la requête.
+
+Payons son amitié seulement d'un adieu,  
+Et fuyons pour jamais de ce funeste lieu.  
+
+
+# ACTE II.
+
+
+## SCÈNE PREMIÈRE. Don Bernard, Don Lope, Lazarille.
+
+    DON BERNARD.
+Quoi ce grand coeur s'ébranle, et Don Lope de Lune  
+Veut tourner lâchement le dos à la fortune,  
+Et parmi ses exploits laissera raconter,  
+Qu'il est un ennemi, qu'il a pu redouter ?  
+
+    DON LOPE.
+Après une si longue, et si triste aventure,  
+Après tant de malheurs, et de cette nature ;  
+Après tant de revers, de rebuts, de mépris  
+Capables de lasser les plus fermes esprits ;  
+Quand je ne croirais pas mon malheur invincible,  
+Je serais insensé, si j'étais insensible.  
+
+    DON BERNARD.
+Comme les Souverains n'ont pas des droits communs,  
+Ils veulent quelquefois des devoirs importuns,  
+Et moins par nos effets que par notre constance,  
+De nos affections éprouvent l'importance ;  
+Tel que la Cour rebute ou ne caresse pas,  
+Souvent mal à propos se lasse au dernier pas ;  
+Et sans la lâcheté de retourner arrière,  
+Trouvait une Couronne au bout de sa carrière ;  
+Je sais que le destin qui dispense les rangs,  
+Tient pour nous les donner, des moyens différents ;  
+Par des chemins divers, élève aux grandes choses,  
+Et les sème à son gré, d'épines, ou de roses,  
+Je sais que par un heur qui ne se conçoit pas,  
+Pour arriver si haut, je n'ai pas fait un pas ;  
+Et que tout mon crédit et toute ma puissance,  
+Ne sont qu'un simple effet de mon obéissance ;  
+Que je méritais moins, que vous ne méritez,  
+Et qu'on m'a tout donné ce que vous achetez ;  
+Mais ce même destin dont l'aveugle caprice,  
+Me fait tant de faveur, à vous tant d'injustice,  
+Peut de la même main, dont il m'a fait monter,  
+Et vous mettre en ma place, et m'en précipiter ;  
+De ma part soyez sûr d'une ardeur sans pareille,  
+Et qu'au point où du Roi je possède l'oreille,  
+Pour peu que sa bonté réponde à mes souhaits,  
+Mes soins vous produiront d'infaillibles succès.  
+
+    DON LOPE.
+Quelques traits si perçants dont la douleur me touche,  
+Avec cette bonté vous me fermez la bouche,  
+Et je tiendrai l'honneur de votre affection,  
+Pour le plus digne objet de mon ambition.  
+
+    DON BERNARD.
+Au reste de quel oeil voyez-vous Violante ?  
+
+    DON LOPE.
+Ce nom m'est inconnu.  
+
+    DON BERNARD.
+        Quoi le nom de l'Infante ?  
+Ce nom, par qui le ciel nous voulut exprimer,  
+L'invincible pouvoir qui force de l'aimer ?  
+Et trouve tous les coeurs sans défense, et sans armes ?  
+
+    DON LOPE.
+J'en confondais le nom, mais j'en connais les charmes ;  
+Et si mon mauvais sort m'en permet d'en parler,  
+N'ai rien vu sous le ciel qu'on lui puisse égaler ;  
+Ni qui soumette une âme avecques plus d'empire  
+Mais quelque haut dessein que l'amour vous inspire ;  
+Votre heur et vos vertus, vous la peuvent donner,  
+Et ce leur serait peu que de vous couronner.  
+
+    DON BERNARD.
+Traitons avec respect les dignités suprêmes,  
+Et ne touchons jamais jusqu'aux diadèmes ;  
+Le Ciel qui les sacra, veut qu'ils soient révérés,  
+Et n'ouvre point l'oreille aux voeux immodérés.  
+Allons de nos lauriers faire hommage à ses charmes,  
+Et rendre compte au Roi du succès de ses armes ;  
+Venez les vérités que j'y dirai de vous,  
+Feront de ce récit, les brillants les plus doux.  
+
+
+## SCÈNE II. Le Roi, Le Comte, Gardes.
+
+    LE COMTE VOYANT LE ROI ASSOUPI.
+Quel travail altérant l'air de votre visage,  
+Presque du mouvement vous dérobe l'usage,  
+Et vous cause, Seigneur, cet assoupissement ?  
+
+    LE ROI.
+Le sommeil nous pressant se vainc malaisément ;  
+La musique, le jeu, cent tours à la fenêtre,  
+De cet Astre inhumain, qui m'a daigné paraître,  
+Cent plaintes à sa porte, et cent soupirs sans fruit,  
+M'ont ôté le repos de l'âme et de la nuit ;  
+Tant que m'ayant des sens presque interdit l'usage,  
+Le jour, veut de la nuit, me réparer l'outrage ;  
+Mais Don Bernard arrive, et vient d'un doux réveil,  
+Guérir ma lassitude, et charmer mon sommeil ;  
+Il a tant fait pour moi, que pour sa récompense,  
+Mon pouvoir aujourd'hui connaît son impuissance.  
+
+    LE COMTE.
+Les prix qui d'un grand coeur suivent les grands exploits,  
+Sont les plus clairs brillants des Couronnes des Rois ;  
+Aux grandes actions leur charme nous invite,  
+Par eux l'âme s'élève, et la vertu s'excite ;  
+Par eux il n'est dessein dont on ne vienne à bout,  
+Et ne rien épargner, est l'art d'acquérir tout ;  
+Mais si pour un sujet, jamais vos mains Royales,  
+Ont eu lieu de s'ouvrir, et d'être libérales ;  
+Don Bernard si fameux par tant d'occasions,  
+Est le plus digne objet de vos profusions ;  
+Puisqu'aux nobles travaux de ce courage illustre,  
+Les armes d'Aragon doivent leur plus beau lustre ;  
+Et qu'enfin quelque éclat dont il soit revêtu,  
+Son rang sera toujours moindre que sa vertu.  
+
+    LE ROI.
+Je connais ma faiblesse, à le bien reconnaître,  
+Il épuise ma force, à force de l'accroître :  
+Par nos communs bienfaits, il l'emporte sur moi,  
+Je lui donne en vassal, et lui me donne en Roi :  
+Mais l'amitié qui rend toute chose commune,  
+Lui va comme mon coeur, partager ma fortune,  
+Et sur son seul mérite appuyer mon pouvoir,  
+Il arrive, avançons, allons le recevoir,  
+Et bâtir aujourd'hui le plus haut édifice,  
+Qu'aient jamais élevé le sort et la justice.  
+
+
+## SCÈNE III. Don Bernard de Cabrera, Don Lope, Lazarille, Soldats, Le Roi, Le Comte, Gardes.
+
+    DON BERNARD, AUX PIEDS DU ROI.
+Seigneur !  
+
+    LE ROI.
+        Vous à mes pieds ! Gloire de cet État,  
+Vous de ma dignité le plus brillant éclat ;  
+Heureux restaurateur et soutien de mon trône,  
+Je vous fais Amiral !  
+
+    DON BERNARD.
+    Moi, Sire.  
+
+    LE ROI LE RELEVANT.
+        Et Duc d'Ossone.  
+
+    DON BERNARD.
+Ô Ciel !  
+
+    LE ROI.
+        Joignez aux miens ces invincibles bras,  
+Qui par tant de travaux et par tant de combats,  
+Ont si bien soutenu le faix de mon Empire.  
+
+    DON BERNARD.
+À ma confusion, ils sont plus chargés, Sire,  
+Du faix de vos bienfaits, que du faix des lauriers,  
+Que vous ont moissonnés vos illustres guerriers ;  
+Bien plus qu'eux, et que moi, votre nom est la foudre,  
+Qui tonne, étonne, frappe, et réduit tout en poudre ;  
+Don Pedre seul, absent, porte plus de terreur,  
+Que de nos bras présents la plus chaude fureur ;  
+Et par votre faveur tant de fois confirmée,  
+Vous me payez les prix de votre renommée,  
+Et me reconnaissez de vos propres exploits,  
+Puisque votre seul bruit range tout sous vos lois.  
+
+    LE ROI.
+Faisons qu'avec le temps, l'Aragon puisse apprendre,  
+Qui de nous saura mieux, ou recevoir, ou rendre ;  
+Et qui d'affection aura mieux combattu,  
+Je ne me lasserai qu'après votre vertu ;  
+Et de ce seul combat, vous envierai la gloire,  
+De celui de Sardaigne, apprenez-moi l'Histoire,  
+Il se sied et fait seoir Don Bernard.
+
+Donnez un siège au Comte.  
+
+    DON BERNARD.
+        À peine vos vaisseaux,  
+Déradés traversaient le vaste champ des eaux,  
+Que les vents ennemis de cette humide plaine  
+Selon notre besoin, mesurant leur haleine,  
+D'irrités qu'ils étaient, aussitôt apaisés,  
+Firent voir le respect que vous leur imposez ;  
+Cette sèche forêt, eut enfin de Neptune,  
+L'inconstante faveur, à tel point opportune,  
+Qu'avec un seul Soleil, une nuit seulement,  
+Voit et notre arrivée, et notre embarquement,  
+L'aurore allait sortir, quand je fis prendre terre  
+À ces Mars Espagnols, ces démons de la guerre,  
+Ces fléaux des attentats, et des rebellions,  
+Que l'honneur d'être à vous, rend autant de Lions.  
+Comme l'ardeur peut tout, jointe à l'intelligence,  
+Le temps fut ménagé par tant de diligence ;  
+Que le camp découvert, les murs des ennemis,  
+Avant qu'un vent de flamme en eût porté l'avis,  
+Et que de notre abord Calaris avertie  
+Pût, où nous prîmes port, faire aucune sortie ;  
+Nul ne gardait l'accès de ces perfides murs,  
+Mais pour être déserts, les champs n'étaient pas sûrs.  
+Car cette ingrate ville en ruses trop experte,  
+Avait d'arbres couchés la campagne couverte,  
+Et parsemé de clous les chemins d'alentour,  
+Qui nous firent besoin et d'adresse, et de jour.  
+L'un et l'autre à la fin, nous aidant le passage,  
+Après un long travail du piège nous dégage ;  
+Et suivant un sentier qui descend d'un coteau,  
+À son pied verdissant, nous trouvons un ruisseau,  
+Dans le trouble cristal qui sortait d'une roche,  
+De gens qui le foulaient, nous fit juger l'approche ;  
+Là chacun attentif, considérant les lieux,  
+Un brillant escadron se présente à nos yeux,  
+Dont le maintien superbe, et le riche équipage,  
+Loin de nous étonner, nous enfle le courage,  
+Nous fait sauter de joie, et nous promet le fruit,  
+Du pénible travail de l'onde et de la nuit.  
+Il n'est soldat si las, à qui le coeur ne vole,  
+Et qui n'ait la vigueur comme l'âme Espagnole ;  
+Et presque en un instant tous nos rangs disposés,  
+Séparent les trois corps dont ils sont composés.  
+
+    LE ROI ASSOUPI ET COMME ENDORMI.
+En vain dans cet excès de gloire et d'allégresse,  
+Je tâche à résister au sommeil qui me presse.  
+
+    DON BERNARD.
+L'escadron reconnu, lorsque pour l'investir,  
+Notre avant-garde enfin commença de partir,  
+Au même instant des arcs de ce peuple rebelle,  
+Nous vîmes dessus nous fondre une épaisse grêle,  
+Qui tant que pût durer un choc si violent,  
+À leur témérité fut un rempart volant  
+Il semble à cet effort que nos rangs se séparent,  
+Mais leurs traits épuisés, nos forces se déclarent,  
+Et nous fondons sur eux plus prompts que les éclairs  
+Ne nous frappent la vue, et ne percent les airs ;  
+Le plus hardi s'effraye à ces vives alarmes,  
+Rien ne résiste plus au torrent de nos armes,  
+Et nous pavons le champ d'un mélange confus,  
+De bras, de pieds, de corps, d'arcs, de traits, et d'écus,  
+Ceux enfin que la fuite a sauvés de l'orage,  
+À leur ville alarmée annoncent ce naufrage ;  
+On s'y prépare au siège, on en munit le fort,  
+Et la rébellion tente un dernier effort ;  
+Mais, Sire, ce Héros, ce prodige incroyable,  
+Montrant Don Lope de Lune.
+
+Admirable aux vainqueurs, aux vaincus effroyable,  
+Des siècles à venir, futur étonnement,  
+Et de celui qui court, la gloire et l'ornement ;  
+Le Roi dort.
+
+Pour tout comprendre enfin, le Grand Lope de Lune,  
+Par une invention fameuse, et non commune,  
+Qu'un Grec tenta jadis sur l'empire Latin,  
+A rendu vain l'effort de ce peuple mutin :  
+Il se tire du camp, s'étant avec courage,  
+Découpé d'un poignard, le sein, et le visage,  
+Et dessus un coureur, qu'il rend presque aux abois,  
+À leurs murs arrivé, s'écrie à haute voix,  
+Si chez vous la vertu peut trouver quelque asile,  
+Ô Sardes généreux ! Ouvrez-moi votre ville,  
+Si l'homme, encor pour l'homme a quelque humanité,  
+Sauvez-moi d'un tyran et de sa cruauté,  
+On ouvre, à sa requête ; il obtient audience,  
+Et sur l'esprit de tous, gagne tant de créance,  
+Qu'à la tête souvent de cinq ou six d'entre eux,  
+Nous venant faire au camp des défis généreux,  
+En différentes fois, il se fit des plus braves,  
+Par notre intelligence, un tel nombre d'esclaves,  
+Qu'enfin tous joints ensemble, et s'étant par moyens,  
+Pratiqué le secours de quelques citoyens,  
+Par qui de ce secret je reçus le message,  
+Dans les murs ennemis, ils se firent passage,  
+Et Don Lope, s'acquit un renom glorieux,  
+Qui fait revivre en lui l'éclat de ses aïeux ?  
+
+    LE ROI S'ÉVEILLANT.
+Que dira Don Bernard, d'un si profond silence ?  
+De ce fâcheux sommeil, forçons la violence :  
+Et prêtons mieux l'oreille au récit des combats,  
+De qui si dignement nous a prêté le bras.  
+
+    DON BERNARD.
+Don Raimond de Moncade, a dans cette victoire,  
+Par des faits inouïs éterniser la gloire,  
+Et mérite...  
+
+    LE ROI.
+        Oristan, est son gouvernement.  
+
+    DON BERNARD.
+Le Duc de Ribagorce a servi dignement ;  
+Et d'un coeur indompté, signalé sa vaillance.  
+
+    LE ROI.
+Sassaris et Sora, seront sa récompense.  
+
+    DON BERNARD.
+Don Nugue à notre espoir fut un notable appui,  
+Et d'un bras généreux...  
+
+    LE ROI.
+        Calaris est pour lui ;  
+Et vous restaurateur de la gloire publique,  
+Je vous fait Duc de Vas, et Comte de Modique.  
+
+    DON BERNARD.
+De si hauts rangs, Seigneur, pour un sujet si bas !  
+Semez avec les mains, et ne répandez pas ;  
+Votre profusion en me chargeant, m'accable,  
+Et d'un si lourd fardeau ma force est incapable.  
+
+    LE ROI.
+Ce prix me laisse encor la qualité d'ingrat,  
+Et charge peu le bras qui soutient tout l'État ;  
+Achevons votre Cour, et passons chez l'Infante,  
+Où nous consulterons d'une affaire importante,  
+Pour qui votre retour nous arrive à propos,  
+Et qui ne peut encor vous souffrir de repos.  
+Tous s'en vont hormis D. Lope, et Lazarille.  
+
+
+## SCÈNE IV. Don Lope, Lazarille.
+
+    LAZARILLE.
+Vous aviez bien raison d'attendre sa venue,  
+Voilà votre vertu dignement reconnue ;  
+Votre crédit est grand, on vous de bon oeil,  
+Et le Roi vous a fait un favorable accueil ;  
+Don Bernard...  
+
+    DON LOPE.
+        Que veux-tu ? Ma raison elle-même,  
+S'égare et m'abandonne en ce malheur extrême ;  
+Non tu n'es point pour moi, ( dure fatalité ) !  
+Fille comme on te croit, de la nécessité ;  
+Elle n'établit point ton ordre inévitable,  
+Par ton propre dessein, tu nous es redoutable ;  
+Ma disgrâce n'est plus un caprice du sort,  
+Tu ne me heurtes point par un aveugle effort ;  
+Une haine immortelle, une invincible rage,  
+Un dessein déclaré, t'obstine à cet outrage :  
+En vain par tant d'exploits, je m'acquiers tant de bruit,  
+À qui tu veux du mal, tout travail est sans fruit :  
+Après tant de soucis, j'espérerais des roses,  
+Si tu suivais pour moi, l'ordre commun des choses,  
+Mais tu l'enfreins barbare, et pour moi seulement,  
+Ton aveugle conduite est sans aveuglement,  
+Pour moi seul un prodigue, un généreux Monarque,  
+Jette sur son renom, une honteuse marque,  
+Et ta vigueur en fait par une injuste loi,  
+D'un Auguste pour tous, un Tibère pour moi ;  
+Quoi tant de grands effets, tant d'illustres offices,  
+Perdent donc en mon bras, le titre de services !  
+
+    LAZARILLE.
+Un malheureux enfin, a beau se désoler,  
+Beau se plaindre des Cieux, et beau les quereller ;  
+Ils versent sans dessein les plaisirs et les peines,  
+Ils ne sont point garants des affaires humaines,  
+Et toute la nature en vain leur veut aider,  
+À qui naît sans bonheur, rien ne peut succéder,  
+
+
+## SCÈNE V. Don Bernard, Le Comte, Don Lope, Lazarille.
+
+    DON BERNARD EMBRASSANT DON LOPE.
+Plût au ciel, cher de Lune, et je le dis sans feinte,  
+Que le sort qui vous livre une si rude atteinte,  
+Et contre qui pour vous, tous mes souhaits sont vains,  
+Suivit son inconstance, et nous changeât de mains  
+La disgrâce du Roi, me serait moins sensible,  
+Que le mépris qu'il fait de ce bras invincible ;  
+Qui seul dans la Sardaigne a rétabli ses lois,  
+Et dont un sceptre seul, peut payer les exploits.  
+
+    DON LOPE.
+Votre heur, parfait ami, vous dure autant d'années,  
+Que m'ont duré d'instants mes tristes destinées ;  
+Le Roi vous déposant les charges de l'État,  
+Me fait justice en vous, et ne m'est plus ingrat ;  
+Quoiqu'une même main vous élève, et m'abaisse,  
+Le rebut m'en est doux, puisqu'elle vous caresse ;  
+Et la moitié de moi qu'elle laisse si bas,  
+Éclate en la moitié, qui régit ses États ;  
+Vivez donc d'Aragon, et l'amour et la gloire,  
+Des plus chers favoris effacez la mémoire,  
+Qu'aucun soin ne vous trouble en vos emplois nouveaux,  
+Et Souverain des mers, donnez des freins aux eaux  
+Tandis que de fortune éprouvant l'autre face,  
+Chétif et triste objet d'opprobre, et de disgrâce,  
+Je goûterai chez moi pour le moins le bonheur,  
+De savoir mon ami dans ce haut rang d'honneur ;  
+Et pouvoir opposer à sa rigueur extrême,  
+Le bien qu'elle me fait en un autre moi-même.  
+
+    DON BERNARD.
+Avec plus d'espérance, épargnez ma douleur,  
+Et croyez que je tiens à sensible malheur,  
+De pouvoir opposer à sa faveur extrême,  
+Le mal qu'elle me fait en un autre moi-même.  
+
+    LE COMTE.
+Il est vrai que jamais vertu n'avait produit,  
+De si fameux succès avec si peu de fruit,  
+Et que d'un art savant, et d'un pinceau fidèle ;  
+Don Bernard en a fait la peinture si belle ;  
+Qu'enfin sans vous flatter, il faut qu'à ce récit,  
+Quelque grand soin du Prince ait diverti l'esprit ;  
+Pour en avoir laissé la gloire sans seconde,  
+Si stérile pour vous et pour lui si féconde.  
+
+    DON LOPE.
+Le favorable accès qu'elle a dans vos esprits,  
+Me la rend trop fertile, et m'est un prix sans prix.  
+
+    DON BERNARD.
+Nous reverrons le Roi, la prière obstinée,  
+Succède quelquefois, et vainc la destinée :  
+Ce vous sera du moins un fruit de son refus,  
+Si nous n'obtenons rien, que de n'espérer plus ;  
+Mais il repose, adieu.  
+
+    DON LOPE.
+        Le ciel vous soit propice,  
+Et me fasse acquitter de cet heureux office !  
+Ô faiblesse ! Ô contrainte ! Indigne d'un grand coeur,  
+D'avoir pour la vertu recours à la faveur !  
+Lâche, devrais-je encor...  
+
+
+## SCÈNE VI. Don Lope, Dorothée à la fenêtre, Lazarille.
+
+    DOROTHÉE LUI JETANT UNE LETTRE.
+        Don Lope, cette lettre,  
+Qu'en votre propre main j'ai charge de remettre,  
+Vous invite à mêler du myrte à vos lauriers,  
+Et des succès d'amour, à vos succès guerriers ;  
+Soyez discret, adieu, l'objet qui vous l'adresse,  
+Est d'un rang et d'un sang, digne d'une maîtresse.  
+Elle sort de la fenêtre.
+
+
+    DON LOPE RAMASSANT LA LETTRE.
+Veillons-nous, rêvons-nous ? Puis-je être en même jour,  
+Si mal avec le sort, et bien avec l'amour !  
+
+    LAZARILLE.
+Non non, cet enragé vous étant si contraire,  
+Quelle est la malheureuse, à qui vous pourriez plaire ?  
+
+    DON LOPE.
+Il ouvre la lettre, et lit : À Don Lope de Lune.
+
+Au voyage de Vas, où nous suivions le Roi,  
+Une secrète ardeur, vous engagea ma foi,  
+Et vous ayant depuis conservé mon hommage,  
+Vous en veut aujourd'hui confier le secret,  
+Venez ce soir au parc, seul, fidèle, et discret,  
+En savoir davantage.  
+VIOLANTE
+
+Il continue.
+
+Violante ! Est-ce un songe ! Est-ce une illusion ?  
+De quoi me flattes-tu chère confusion ?  
+Violante ! L'Infante, à mon sujet atteinte !  
+Ô glorieux mélange et d'espoir et de crainte !  
+Beau songe, qui promets plus que je ne prétends,  
+Dissipe-toi bien tard, et dure-moi longtemps.  
+Je vis l'Infante à Vas, ma doute n'est point vaine ;  
+Des appas innocents n'accusons plus la haine,  
+Si de cette Princesse ils m'ont acquis les voeux,  
+L'heur qu'ils m'ont procuré m'élève au-dessus d'eux ;  
+Mais tirons-nous d'ici, que mon transport n'évente,  
+Les secrets mouvements d'une ardeur imprudente,  
+Qui pourrait ruiner le plus heureux espoir,  
+Que l'amour à mortel fit jamais concevoir.  
+
+    LAZARILLE LE SUIVANT.
+L'Infante ! Ô qu'il est vain ! Ô quelle extravagance !  
+Tant de malheur, lui souffre encor tant d'arrogance !  
+Lui, l'Infante ! Un moment l'avait bien relevé !  
+Cherchons, cherchons parti, mon maître est achevé.  
+
+
+# ACTE III.
+
+
+## SCÈNE PREMIÈRE. L'Infante, Léonor.
+
+    L'INFANTE.
+Comtesse, votre esprit trop aisément s'altère,  
+La plus belle vertu n'est pas la plus austère ;  
+Les regards, l'entretien de modestes ébats,  
+Exercent sa candeur et ne l'offensent pas.  
+Si vous n'aimez l'amant, souffrez-en la personne.  
+
+    LÉONOR.
+L'approche en est suspecte avec une Couronne,  
+Toute honnête qu'elle est, elle fait murmurer.  
+Et souvent déshonore, à force d'honorer.  
+Le Roi ne peut déplaire avec toutes les marques,  
+Qui font considérer les plus parfaits Monarques ;  
+Mais d'autant plus l'honneur, qu'il me fait de ses voeux,  
+En jette dans les coeurs, des sentiments douteux.  
+
+    L'INFANTE.
+Fonder sur des soupçons cette rigueur extrême,  
+Est bien mal ménager l'espoir d'un diadème ;  
+Il en peut faire un jour tribut à vos appas,  
+Ses secrets sentiments ne s'en éloignent pas ;  
+De moindres passions ont fait des Souveraines.  
+Et vous êtes d'un sang qui peut donner des Reines.  
+
+    LÉONOR.
+Quelques si doux attraits dont on puisse éclater,  
+Des trônes ne sont pas des prix à mériter.  
+Le ridicule espoir de cet honneur insigne,  
+Le devrait rebuter, et m'en rendrait indigne ;  
+Mais vous sur qui le ciel répand à pleines mains,  
+Les trésors qu'il départ aux plus heureux humains,  
+Et dont les ornements et du corps, et de l'âme,  
+Jettent dans tous les coeurs, le respect, et la flamme ;  
+Vous dont tout le sang règne, et fait partout des lois,  
+C'est pour vous que l'amour a destiné des Rois.  
+La Murcie, et Leon pressent avec instance,  
+Par leurs ambassadeurs, votre illustre alliance ;  
+Et quelque si haut trône, où vous vouliez monter  
+Il sera glorieux de l'heur de vous porter.  
+
+    L'INFANTE.
+Indifférente encor je n'épouse personne,  
+Je laisse au Roi mon frère, à choisir ma Couronne,  
+Et quoi que de mon sort aient ordonné les cieux,  
+Ne prends que par ses mains, ni vois que par ses yeux.  
+
+    LÉONOR.
+Il m'est donc libre enfin de vous ouvrir mon âme,  
+Puisque votre froideur autorise ma flamme ;  
+Et qu'encor sans dessein, et sans élection,  
+Vous pouvez approuver mon inclination ;  
+Je ne le puis nier, j'ai cru qu'en votre grâce,  
+Don Bernard que j'adore, occupait quelque place ;  
+Et dans ce sentiment tâchais de réprimer  
+Le mouvement secret qui me force à l'aimer ;  
+Je sais votre naissance et qu'en ce rang suprême,  
+On ne vous peut prétendre à moins d'un diadème ;  
+Mais d'ailleurs son bonheur à son mérite égal,  
+Fait ( comme par un charme aux libertés fatal, )  
+Presque de tous les coeurs, des conquêtes secrètes,  
+Qui me rendaient suspect l'état que vous en faites.  
+Jalouse, je tenais pour un tribut d'amour,  
+Le favorable accueil qu'a trouvé son retour ;  
+Et quoique tant d'honneur lui soit trop légitime,  
+Ai cru qu'il procédait d'ailleurs que de l'estime ;  
+Mais grâce à vos froideurs, mes voeux sont accomplis,  
+Mes doutes résolus, mes maux ensevelis ;  
+J'ose même espérer que par votre assistance,  
+Le Roi me permettant l'heur de cette alliance,  
+Et perdant un espoir qui ne lui produit rien,  
+Avecques mon repos, rétablira le sien.  
+
+    L'INFANTE.
+Quoique au choix d'un amant, mon âme irrésolue,  
+Sur cette passion, soit encor absolue,  
+Et que ce Don Bernard, de qui les qualités,  
+Triomphent ( dites-vous ) de tant de libertés,  
+Quelques myrtes nouveaux, qui lui couvrent la tête,  
+N'ait pas sujet encor de vanter ma conquête ;  
+Je ne puis toutefois sitôt déterminer,  
+Sur le consentement de vous l'abandonner ;  
+Que l'état que j'en fais, doive passer l'estime.  
+Et sur votre créance, ou fausse, ou légitime.  
+Et le peu de respect que vous me faites voir,  
+D'avoir eu du dessein, où j'en pouvais avoir,  
+Mon coeur déjà touché de ses vertus insignes,  
+Conçoit en sa faveur des sentiments si dignes,  
+Qu'avant que dans résoudre et d'en rien ordonner,  
+Avec plus de loisir, je veux l'examiner ;  
+Qui peut faire d'un Roi négliger le servage,  
+Se pourra bien trouver digne de mon hommage ;  
+Et m'est autant qu'à vous, préférable à des Rois,  
+S'il est assez puissant pour me donner des lois.  
+C'était manquer à vous, d'adresse et de prudence,  
+Que de mettre à mes yeux vos feux en évidence,  
+Sans savoir si mon coeur y pourrait consentir,  
+Puisque si peu de coeurs s'en peuvent garantir.  
+Vous avez dû savoir qu'à l'humeur de la femme,  
+C'était persuader que défendre une flamme ;  
+Et que la jalousie et surtout dans la Cour,  
+Est mère aussi souvent, que fille de l'amour.  
+Le temps me donnera l'avis que je dois prendre,  
+Sur ce que je vous dois ou permettre, ou défendre ;  
+Cependant délivrez votre esprit d'un tourment,  
+Qui lui pourrait durer peut-être vainement.  
+Elle s'en va la regardant de côté.  
+
+
+## SCÈNE II.
+
+    LEONOR SEULE.
+Non non, je n'ai manqué, ni d'art, ni de prudence,  
+Quand j'ai mis à vos yeux, mes feux en évidence ;  
+J'en obtiens les effets que j'en ai souhaités,  
+Puisque j'ai par les miens les vôtres éventés.  
+Jusqu'ici l'abusée avait cru me les taire,  
+Mais l'oeil est aux amants un mauvais secrétaire ;  
+Et l'on voit aisément un feu bien embrasé,  
+Au travers du cristal dont il est composé ;  
+Cent fois dans leurs regards, la rencontre fatale,  
+M'a fait voir cette flamme, et montré ma rivale ;  
+Cent soupirs étouffés, et cent gestes confus,  
+M'avait dit le secret qu'elle ne cache plus ;  
+J'ai mieux lu qu'elle dans sa propre pensée,  
+Sa bonté pour le Prince était intéressée,  
+Et pensant m'éblouir, voulait moins par tant d'art,  
+Le placer dans mon coeur, qu'en chasser Don Bernard,  
+Mais en vain elle attend l'avis qu'elle doit prendre,  
+Sur ce qu'elle me doit, ou permettre, ou défendre ;  
+Où le dessein est pris, son ordre est superflu,  
+Elle n'entreprend pas un coeur irrésolu ;  
+Et quoi qu'elle présume avecques sa puissance,  
+Doit craindre mon amour, plus que moi sa défense.  
+
+
+## SCÈNE III. Le Secrétaire, Léonor.
+
+    LÉONOR.
+Qu'est-ce Perez ?  
+
+    LE SECRETAIRE.
+        Le Roi toujours inquiété,  
+S'informe à tous moments quelle est votre santé.  
+
+    LÉONOR.
+Ses soins m'honorent trop.  
+
+    LE SECRETAIRE.
+        Il se plaint, il soupire,  
+Et vous le possédez, avecques tant d'empire,  
+Que toute sa splendeur n'a rien de précieux,  
+À l'égard d'un regard qu'il reçoit de vos yeux ;  
+Ce trône qu'aujourd'hui tout l'univers révère,  
+Est un siège, où déjà chacun vous considère ;  
+Et tous ses entretiens font aisément juger,  
+Des passions qu'il a de vous le partager.  
+
+    LÉONOR.
+Outre que de l'État les raisons importantes,  
+Au parti de Navarre attachent ses attentes,  
+Je ne sais quel mépris stupide ou généreux,  
+Quelque éclat qu'ait un trône, en détourne mes yeux ;  
+Je t'ai mis à la Cour, et crois sans imprudence,  
+Pouvoir sur un secret, prendre ta confidence,  
+Et m'osant reposer sur ta discrétion,  
+Intéresser tes soins dedans ma passion.  
+
+    LE SECRETAIRE.
+Si vous m'honorer tant, je chéris moins la vie,  
+Que je ne ferai l'heur de vous avoir servie.  
+
+    LÉONOR.
+Pour Cabrere en un mot, mon coeur brûle d'amour :  
+Mais comme ses vertus charment toute la Cour ;  
+Et qu'il trouve partout des voeux si légitimes,  
+Il compte encor l'Infante au rang de ses victimes,  
+Dont le dessein du mien traversera le cours,  
+Si ma flamme en ton art ne trouve un prompt secours.  
+Tu peux de Don Bernard imiter l'écriture,  
+Fais-moi de son amour une vive peinture,  
+Couchez-y tous les traits, dont la main d'un amant  
+Nous peut représenter un sensible tourment ;  
+Et dont on peut toucher le coeur d'une maîtresse,  
+Souscris-la de son nom, la ferme et me l'adresse.  
+Prépare à mon espoir cet heureux fondement,  
+Le reste par mes soins, concerté dextrement :  
+Si beaucoup de malheur n'évente l'artifice,  
+De ses prétentions détruiras l'édifice.  
+
+    LE SECRETAIRE.
+Cent dépêches au Roi, que j'ai de Don Bernard,  
+Me feront imiter sa lettre avec tant d'art,  
+Et si bien succéder le glorieux office  
+Que je me rends moi-même, en vous rendant service,  
+Que Don Bernard lui-même, hésiterait en vain,  
+Et dedans mon écrit reconnaîtrait sa main.  
+
+    LEONOR S'EN ALLANT.
+Je t'attends, mais surtout, sois discret, et fidèle.  
+
+    LE SECRETAIRE.
+Ce service à l'instant, aussi prompt que mon zèle,  
+Dedans ce cabinet vous va prouver ma foi,  
+Puis sur votre santé, je reverrai le Roi.  
+
+
+## SCÈNE IV.
+
+    LE SECRÉTAIRE, SEUL ENTANT DANS LE CABINET, OÙ IL TROUVE UNE ÉCRITOIRE, DU PAPIER, ET DES LETTRES DE DON BERNARD.
+Ma promesse m'engage en un péril extrême,  
+Je trahis Don Bernard, l'Infante, et le Roi même,  
+Mais quel aveugle soin, ne dois-je à qui je dois  
+Ce que j'ai dans la Cour de crédit et d'emploi ?  
+Et pour qui puis-je mieux, ( ô frayeur importune ! )  
+Que pour qui la soutient, hasarder ma fortune ?  
+Il lit une des lettres de Don Bernard.
+
+Sire, par le paquet qu'on me rend aujourd'hui,  
+Il continue.
+
+J'apprends trop... Don Bernard ; cette lettre est de lui.  
+Il en lit une autre.
+
+Notre entreprise, Sire, est si prête d'éclore,  
+Qu'avant que le courrier... cette seconde encore ;  
+Autre.
+
+Sire, avant mon départ, j'aurais exécuté,  
+Les ordres que j'avais de votre Majesté ;  
+Sans l'avis important que je ne vous puis taire.  
+Il continue, ayant lu.
+
+Sur celle-ci ma main forme ton caractère ;  
+Ce genre d'écriture, à qui tu peux vanter  
+La tienne assez conforme, est aisé d'imiter.  
+Il écrit, regardant la lettre de dom Bernard
+
+
+
+## SCÈNE V. Le Roi, Le Secrétaire.
+
+    LE SECRETAIRE.
+N'aurai-je point de trêve, aimable Violence !  
+Soupirs désavoués qui troubles mon silence,  
+Que ma raison condamne et ne peut étouffer !  
+Et d'une ingrate enfin, ne puis-je triompher ?  
+Dois-je longtemps encor insupportables flammes,  
+Sans espoir d'allégeance,  
+Le Secrtaie écrivant.
+
+        Exercent sur les âmes.  
+
+    LE ROI.
+Mais que fait là Perez ? Il sait ma passion,  
+Et s'acquitte si mal de sa commission ?  
+Différant sa réponse, il prolonge mes peines ;  
+Qu'écrit-il ? Approchons.  
+
+    LE SECRETAIRE ÉCRIVANT.
+        Des têtes Souveraines.  
+
+    LE ROI.
+M'ourdit-il quelque trame, et sa fidélité  
+Se relâcheraient-elle à quelque fausseté ?  
+
+    LE SECRETAIRE ÉCRIVANT.
+Mais, belle Léonor, si mon amour extrême.  
+
+    LE ROI.
+Dans un propos d'amour, mêler l'objet que j'aime !  
+
+    LE SECRETAIRE ÉCRIVANT.
+Et les fers glorieux...  
+
+    LE ROI.
+        À celle que je sers,  
+Parler insolemment et de feux et de fers.  
+
+    LE SECRETAIRE ÉCRIVANT.
+L'éclat...  
+
+    LE ROI.
+        Oserait-il sachant que je l'adore,  
+Prétendre, l'arrogant, aux faveurs que j'implore ?  
+Aurait-il l'insolence et la témérité,  
+De former un dessein...  
+
+    LE SECRETAIRE ÉCRIVANT.
+        Et par sa pureté.  
+
+    LE ROI ENTRANT DANS LE CABINET.
+Mais en puis-je être en doute, et si longtemps attendre ?  
+
+    LE SECRETAIRE ÉCRIVANT.
+Je prétends...  
+
+    LE ROI LUI ARRACHANT L'ÉCRIT.
+        Voyons traître, à quoi tu peux prétendre.  
+
+    LE SECRETAIRE SURPRIS.
+À rien, Sire, j'écris...  
+
+    LE ROI.
+        Donne-moi cet écrit.  
+
+    LE SECRETAIRE.
+Dieux !  
+
+    LE ROI.
+        Que dois-je inférer de ce trouble d'esprit ?  
+Perfide ! Quelle foi veux-tu que j'en présume ?  
+
+    LE SECRETAIRE.
+J'écrivais sans dessein, que d'éprouver ma plume.  
+
+    LE ROI LIT.
+Je ne demande pas une source de flammes,  
+Que vous me permettiez une nécessité,  
+Le pouvoir que vos yeux exercent sur les âmes,  
+Doit répondre pour moi de ma captivité.  
+Je sais bien que mon rang déshonore vos chaînes,  
+Et que votre beau joug aux libertés fatal,  
+Semble faisant ployer des têtes Souveraines,  
+Tomber indignement sur le col d'un vassal.  
+Mais, belle Léonor, si mon amour extrême,  
+Et les fers glorieux où je suis arrêté ;  
+Ne brillent par l'éclat que jette un diadème,  
+Ils brillent par ma flamme et par sa pureté.  
+L'hymen où je prétends...  
+
+    LE ROI CONTINUE.
+        Et cette audace, traître !  
+
+    LE SECRETAIRE.
+Seigneur !  
+
+    LE ROI.
+        Est le respect d'un vassal à son maître !  
+J'ai fait un digne choix, et versais mon secret,  
+Dans une âme loyale, et dans un sein discret,  
+Quoi perfide ! une ardeur de sens si dépourvue,  
+Te fait lever les yeux où je porte la vue,  
+Et tes feux insolents me donnent pour rival,  
+L'indigne agent des miens, un Ministre, un vassal  
+C'est avec juste droit, traître que je te fie  
+Les secrets concernant mon honneur et ma vie,  
+Si tu me peux tramer ce détestable tour,  
+Et si tu m'es perfide en un crime d'amour ;  
+C'est là ce zèle ardent que tu faisais paraître ?  
+Holà Gardes !  
+
+
+## SCÈNE VI. Gardes, Le Roi, Le Secrétaire.
+
+    GARDE.
+    Seigneur !  
+
+    LE ROI.
+        Arrêtez-moi ce traître.  
+
+    LE SECRETAIRE.
+Ô Ciel !  
+
+    LE ROI.
+        Et dans l'horreur d'une affreuse prison,  
+Qui ne sera pas noir, comme sa trahison ;  
+Menez-le de son crime attendre le supplice.  
+
+    LE SECRETAIRE.
+Faites-moi grâce, Sire.  
+
+    LE ROI.
+        On te fera justice !  
+
+
+## SCÈNE VII.
+
+    LE ROI SEUL.
+En ne réprimant par cette témérité,  
+J'admets des attentats sur mon autorité,  
+L'offense négligée, à la fin devient nôtre,  
+Qui souffre une licence, en autorise une autre  
+Et qui peut sur ses voeux permettre un attentat,  
+À la même insolence expose son État  
+
+
+## SCÈNE VIII. Le Roi, Le Comte, Don Bernard.
+
+    LE ROI.
+L'Amiral, et le comte ignorants de son crime,  
+Tenteront de fléchir mon courroux légitime,  
+Et priés de sa part, viennent prier pour lui,  
+Mais...  
+
+    DON BERNARD.
+        Grand Roi, du mérite et l'espoir, et l'appui ;  
+Dont l'âme généreuse à chaque instant convie,  
+Les coeurs les moins zélés au mépris de la vie ;  
+Un devoir d'amitié, d'honneur, de piété,  
+Nous rend solliciteurs vers votre Majesté.  
+Pour...  
+
+    LE ROI.
+        Si vous ignorez le sujet de ma haine,  
+Vous venez mal instruits du sujet qui vous mène,  
+Que l'intérêt d'un homme indigne de pitié,  
+N'entre point en commerce, avec notre amitié ;  
+Vous plaignez son malheur, moi je sais son audace  
+Son nom seul vous ferait encourir ma disgrâce ;  
+S'il a lieu de vanter ses mérites passés,  
+Sa dernière action les a tous effacés,  
+Et jette sur sa foi des taches éternelles.  
+
+    LE COMTE.
+Peut-être un faux rapport...  
+
+    LE ROI.
+        Mes yeux me sont fidèles ;  
+Et juge de soi-même, il sait si j'ai raison.  
+
+    DON BERNARD.
+Est-ce une offense, Sire, indigne de pardon ?  
+
+    LE ROI.
+Ce n'est qu'un attentat, qui s'adresse à moi-même.  
+
+    DON BERNARD BAS.
+C'est un trait, cher ami, de ton malheur extrême,  
+Qui te faisant tomber dans quelque aveugle erreur,  
+T'a d'un Prince si juste, excité la fureur !  
+
+    LE ROI.
+Vous savez Amiral, comme en toute autre chose,  
+Votre vouloir du mien absolument dispose ;  
+Proposez, ordonnez, prenez, faites, ôtez,  
+En tout, pour toute loi, suivez vos volontés,  
+Et de grâce exceptez cette seule requête,  
+Sans vous, son attentat lui coûterait la tête ;  
+Seul j'en sais l'insolence, et sans plus m'exprimer,  
+Tiens pour mon ennemi qui l'osera nommer ;  
+Au reste de Carlos, les troupes insolentes,  
+Par le pays voisin comme un foudre volantes,  
+Ce soir même, au rapport de quelques espions,  
+Prétendent s'avancer jusqu'à nos bastions ;  
+Si rencontre, Amiral, fut jamais opportune,  
+Faites voir aujourd'hui quelle est votre fortune ;  
+Tout l'espoir de l'État à vos soins est commis,  
+Coupez avant la nuit, la marche aux ennemis ;  
+De vos troupes à peine encore désarmées,  
+R'alliez sur le champ les ardeurs r'allumées,  
+Et parmi ce péril me conservant vos jours,  
+Soyez ce Don Bernard que vous êtes toujours.  
+
+    DON BERNARD.
+Je ne me prévaudrai dans aucune aventure,  
+Que de la qualité de votre créature ;  
+Mais j'ose me vanter en cette qualité,  
+Et d'un coeur invincible, et d'un bras indompté.  
+Le Roi s'en va embrassant D. Bernard.  
+
+
+## SCÈNE IX. Don Bernard, Don Lope, Lazarille. [2]
+
+    DON LOPE.
+Et bien, mon seul recours, est sincère et fidèle,  
+Ami, des vrais amis le plus parfait modèle,  
+Ai-je lieu d'espérer ? Qu'avez-vous fait pour moi ?  
+Qu'a permis ma fortune ? Avez-vous vu le Roi ?  
+Ha ! J'apprends sa réponse en la vôtre si lente !  
+Cette douleur muette est une voix parlante,  
+Parlez parlez, le sort ne frappe plus en nous,  
+Que des coeurs de longtemps endurcis à ses coups.  
+
+    DON BERNARD.
+Quelle offense Don Lope, aveugle ou volontaire,  
+Vous a si fort du Roi suscité la colère ?  
+
+    DON LOPE.
+Moi l'offenser hélas ! moi m'adresser au Roi,  
+À qui par tant de sang j'ai signalai ma foi !  
+À moi, me reprocher un crime qui le touche !  
+Et ce reproche encor sortir de votre bouche !  
+Vous m'étiez trop bénins, ô destins inhumains !  
+Et voici de vos coups , le seul dont je me plains.  
+Si c'est un crime hélas ! d'avoir fait de mes veines,  
+Aux champs de ses combats de sanglantes fontaines ;  
+Et plus mon ennemi, que tous ses ennemis,  
+M'être mis en l'état, où mon zèle m'a mis ;  
+M'être par une ardeur illustre et non commune,  
+Livré seul en otage aux mains de la fortune,  
+Et contre mon visage à moi-même inhumain,  
+Avoir en sa faveur armé ma propre main ;  
+Si pour ces actions sa haine est légitime,  
+J'en souffre le reproche, et confesse mon crime ;  
+Mais ailleurs des bienfaits et des voeux éternels  
+Seraient le châtiment de pareils criminels.  
+
+    DON BERNARD.
+Quelque ressort du Ciel où nous ne voyons goutte,  
+Fait prendre à nos destins cette diverse route,  
+Fait que par des noeuds d'or, le Roi m'attache à lui  
+Et parsemant de fleurs le chemin que je suis,  
+Semble épuisé pour moi, d'influences bénignes,  
+Ne pouvoir sur vos pas semer que des épines ;  
+Mais ses décrets sans doute aussi sages que saints  
+Sous un si grand malheur cachent de grands desseins ;  
+J'en présume pour vous quelque grande aventure  
+Et doute avec raison si ma route est plus sûre.  
+Au premier mot enfin que j'ai parlé pour vous,  
+Le Roi s'est emporté d'un si bouillant courroux,  
+Et pâlissant m'a vu d'un regard si farouche,  
+Qu'à peine avais-je ouvert, qu'il m'a fermé la bouche ;  
+Ne se plaint pas de moins que d'une trahison,  
+Et nous a défendu jusqu'à votre nom ;  
+Mais pendant que le temps essuiera sa colère,  
+Cher de Lune, et de grâce, acceptez ma prière ;  
+Comptez tout mon crédit, mes biens, mes qualités,  
+Moins au rang de mes biens que de vos dignités ;  
+Tenez malgré le sort dans ce malheur extrême,  
+Tous les bienfaits du Roi, comme faits à vous-même ;  
+L'heur le mieux établi, n'est assuré de rien,  
+Et peut-être qu'un jour vous me le rendrez bien.  
+Nul bien n'est immortel qu'après que nous le sommes,  
+L'homme est mal assuré, quand il se fie aux hommes.  
+Ce qu'on gagne bien tôt, se peut perdre dans peu,  
+Tout dépend du hasard et la vie est un feu.  
+
+    DON LOPE.
+Là ! Plutôt mon malheur dure autant que ma vie,  
+Que jamais aucun trait ou de haine ou d'envie,  
+Attaque la plus noble et plus rare vertu,  
+Dont jamais conquérant ait été revêtu ?  
+Quelque important dessein qu'eut pour moi la fortune,  
+Je tiendrais sa faveur à ce prix importune ;  
+Le Roi vous fait justice, et parmi ses sujets,  
+N'a point pour ses faveurs de si dignes objets,  
+Il ne peut plus sans vous régner, qu'il ne succombe,  
+Et vous ne pouvez choir que son trône ne tombe.  
+
+    DON BERNARD.
+Au reste Don Carlos prêt de nous investir,  
+Sans perdre un seul moment nous presse de partit,  
+Et de faire marcher nos troupes ramassées,  
+Contre ses légions déjà trop avancées ;  
+Votre bras peut du Prince y vaincre le courroux,  
+Et certain du succès, si je le suis de vous,  
+J'ose espérer de voir au retour de l'armée,  
+Votre malheur céder à votre renommée ;  
+Mais le temps presse.  
+
+    DON LOPE.
+        Hélas cette nécessité,  
+De mon destin encor marque la dureté !  
+Et suivant de l'honneur l'ordonnance importune,  
+Je manque un rendez-vous, d'où dépend ma fortune.  
+Mais ô puissants motifs des esprits généreux !  
+Gloire, devoir, honneur, triomphez de mes voeux ;  
+Pour servir qui nous hait, négligeons qui nous aime,  
+Et suivons la vertu pour l'amour d'elle-même.  
+
+    DON BERNARD.
+Mais si ce rendez-vous, vous importe si fort.  
+
+    DON LOPE.
+Laissons-en l'importance au caprice du sort ;  
+Et formons-nous plutôt à souffrir ses outrages,  
+Qu'à laisser de son gré dépendre nos courages ;  
+Faisons tant qu'à la fin de ma gloire confus,  
+Il se laisse compter au rang de mes vaincus.  
+L'adorable beauté qui flatte mon attente,  
+Vaut bien de mon courage une preuve importante :  
+Et me priver un soir du beau jour de ses yeux,  
+Pour une occasion de l'en mériter mieux.  
+
+
+# ACTE IV.
+
+
+## SCÈNE PREMIÈRE. Le Roi, Le Comte, Léonor, Suite de gardes.
+
+    LEONOR VENANT D'UN CÔTÉ, LE ROI DE L'AUTRE.
+Sire, si cette amour dont vous m'avez flattée,  
+Qu'à ma confusion, j'ai si peu méritée ;  
+Quoique sans intérêt, a quelque vérité,  
+J'en demande une preuve à votre Majesté.  
+
+    LE ROI.
+D'un droit plus absolu sur moi que sur vous-même,  
+Sans réserve exercez votre pouvoir suprême ;  
+N'employez à votre aide, autre que votre soin,  
+Et faites-vous le bien dont vous avez besoin ;  
+Vous verrez en effet si cette amour vous flatte,  
+Je ferai vanité d'obliger une ingrate ;  
+Et de persuader un insensible objet,  
+Qu'encor que souverain, je l'adore en sujet ;  
+N'ose nourrir pour lui de flamme intéressée,  
+Ni jusqu'à vos faveurs élever ma pensée ;  
+D'un souverain empire accomplissez vos voeux,  
+Et dites seulement je commande et je veux ;  
+Vous-même exaucez-vous.  
+
+    LÉONOR.
+        Vous agréerez donc, Sire,  
+Qu'en faveur de Perez j'exerce cet empire ;  
+Comte, du Secrétaire, allez briser les fers,  
+C'est par mon ordre, allez.  
+
+    LE COMTE.
+        Madame, je vous sers.  
+
+
+## SCÈNE DEUXIÈME. Le Roi, Léonor, Gardes.
+
+    LE ROI.
+J'ai peine à concevoir quelle humeur inégale,  
+Vous faisant maltraiter une flamme royale,  
+Vous fait prendre intérêt en l'amour d'un vassal.  
+
+    LÉONOR.
+Je comprends beaucoup moins votre esprit inégal  
+Qui ne vous souffrant point de flamme intéressée,  
+Et dans ce grand respect restreignant sa pensée,  
+S'ombrage toutefois d'un acte de pitié,  
+Non pas de mon amour, mais de mon amitié.  
+
+    LE ROI.
+Par quel orgueil peut-on mériter votre haine ?  
+Si l'amitié vous fait lui remettre sa peine,  
+À lui que j'ai surpris vous traçant son amour,  
+Que sa main insolente osait bien mettre au jour ;  
+Et votre autorité protège son audace,  
+Après qu'à Don Bernard, j'ai refusé sa grâce.  
+
+    LÉONOR.
+Sa naissance, Seigneur, et sa condition  
+Justifieront toujours mon inclination :  
+Et croyant proposer un soupçon légitime,  
+Vous auriez mal assis l'honneur de votre estime.  
+C'est une peur aussi qui ne me peut frapper,  
+Et je prends peu de peine à vous en détromper.  
+
+    LE ROI.
+Ce n'est pas d'à présent, insensible, inhumaine,  
+Que pour mes intérêts vous prenez peu de peine ;  
+Et que de vos rigueurs mon esprit combattu,  
+Est forcé d'exercer une austère vertu.  
+
+    LÉONOR.
+Qui peut impunément prendre toute licence,  
+Doit d'autant moins vouloir qu'il a plus de puissance :  
+Et n'acquiert tous les voeux, qu'en modérant les siens :  
+Se posséder soi-même est le plus grand des biens ;  
+Aux Rois non plus qu'à nous, tout n'est pas légitime.  
+
+    LE ROI.
+Ô raison incommode ! Importune maxime !  
+Qui disposant de nous faites d'un Potentat,  
+Moins un Prince absolu qu'un serf de son État ;  
+Si vous ne permettez à des mains Souveraines,  
+Un libre attachement, et le choix de leurs chaînes,  
+Quel est donc notre Empire, et par quelles rigueurs  
+Faut-il former des voeux où répugnent nos coeurs !  
+
+    LÉONOR.
+Aussi bien que l'État, l'Honneur a ses maximes,  
+Qui font sans notre hymen nos voeux illégitimes ;  
+Et l'inégalité de nos conditions,  
+N'admet ni notre hymen, ni nos affections.  
+
+    LE ROI.
+Ainsi donc que le mal, donnez la médecine,  
+Pour en couper le cours, coupez-en la racine ;  
+Et dans l'inquiétude où je languis pour vous,  
+Réprimez mes souhaits par le choix d'un époux ;  
+Pour m'ôter tout l'espoir pour qui mon coeur soupire,  
+Faites un possesseur des faveurs où j'aspire ;  
+Faites un homme heureux, si quelqu'un dans ma Cour,  
+A des conditions dignes de votre amour.  
+Quelque haute splendeur dont l'éclat l'environne,  
+En quelque illustre emploi qu'il serve ma Couronne,  
+Quoi qu'il possède enfin capable de charmer,  
+Il ne vous coûtera qu'un souhait à former,  
+Et mon mal de son bien tirera son remède.  
+
+    LÉONOR.
+Il n'est point de faveur que cette offre n'excède,  
+Et puisqu'il m'est permis de choisir mon vainqueur ;  
+J'ose me déclarer, et vous ouvrir mon coeur :  
+Le vol quoique élevé, que mon amour se donne,  
+N'a point pour but, un front chargé d'une couronne ;  
+Mais un bras qui vous sert et qui s'en peut donner,  
+Quand son ambition le voudra couronner.  
+Un qui veut bien dépendre, et vassal volontaire,  
+Sous le joug de vos lois, tient le sort tributaire ;  
+Lui seul, si quelque objet peut sur ma liberté,  
+Prétendre quelque atteinte, ou quelque autorité ;  
+De ce léger honneur peut flatter son attente.  
+
+    LE ROI.
+Nommez-le donc.  
+
+    LÉONOR.
+        Son nom, est... Mais voici l'Infante.  
+
+
+## SCÈNE III. L'Infante, Le Comte, Le Secrétaire, Le Roi, Léonor, Gardes.
+
+    LE SECRÉTAIRE À GENOUX.
+Sire, quels voeux rendrai-je à votre Majesté ?  
+
+    LE ROI.
+Je n'ai pas ordonné de votre liberté.  
+
+    LÉONOR.
+C'est moi qui vous la rends pour vous l'avoir ravie,  
+Et sa perte sans moi, vous eut coûté la vie ;  
+Soyez-en moins prodigue, et ménagez la mieux.  
+
+    L'INFANTE.
+Seigneur, ce Don Bernard ce vainqueur glorieux,  
+Qui de tant de Héros efface les Histoires,  
+Et qui peut moins compter de jours que de victoires,  
+Dont presque les succès précèdent les souhaits,  
+Suivi de tout le peuple entre dans le Palais,  
+À sa réception sa vertu vous invite.  
+
+    LE ROI.
+Allons et rendons lui l'accueil qu'elle mérite ;  
+Faisons-en un exemple illustre à nos neveux,  
+Et comme ses travaux, rendons ses prix fameux.  
+
+    LEONOR BAS.
+Tu m'opposes amour, une forte adversaire,  
+Mais j'ai contre la soeur, la promesse du frère ;  
+Et ce gage royal assure mon espoir,  
+Contre tout ce qu'elle a de charmes et de pouvoir.  
+
+
+## SCÈNE IV. Don Bernard avec le bâton de Général, Don Lope, Lazarille, Soldats, Le Roi, l'Infante, Léonor.
+
+    DON LOPE ENTRANT DIT À L'OREILLE À DON BERNARD.
+Quelque part que mon bras ait en votre victoire,  
+Des menaces du Roi conservez la mémoire ;  
+Et taisez-lui mon nom au récit du combat.  
+
+    DON BERNARD.
+Je parlerai de vous, sous le nom de soldat.  
+
+    LE ROI L'EMBRASSANT.
+Quoi c'est vous Duc d'Alcale, honneur de ma Province,  
+Glorieux compagnon des soins de votre Prince !  
+Votre retour surprend, et pour vous les instants  
+En gloire si féconds, font l'office des ans ;  
+Je dois aux actions dont votre histoire est pleine,  
+Un triomphe au-dessus de la pompe Romaine :  
+Mais attendant ce prix de vos exploits vainqueurs,  
+Commencez par celui des esprits et des coeurs ;  
+Et lisez sur les fronts l'allégresse publique,  
+Dont en votre faveur, toute la Cour s'explique ;  
+Possédez votre gloire et cependant comptez,  
+Albe, Urgel, et Venosque entre vos qualités.  
+
+    DON BERNARD.
+Ha, Sire ! À vos bienfaits imposez des limites.  
+
+    LE ROI.
+Ils n'en auront jamais non plus que vos mérites ;  
+Apprenez-nous enfin le plus grand des exploits,  
+Qui me font le plus grand et le plus craint des Rois.  
+
+    DON BERNARD.
+D. Bernard salue l'Infante et Léonor.  
+Sitôt que j'eus rejoint vos légions fidèles,  
+Dégoûtantes encor du sang de vos rebelles,  
+Et les coeurs encor pleins de nobles sentiments,  
+Qui portent aux progrès des grands événements.  
+Ce grand corps pour son chef au travail insensible,  
+Cet invincible bras d'un monarque invincible ;  
+Marche sous le pouvoir que vous m'aviez commis,  
+Et brûle de se rendre au camp des ennemis,  
+Nous marchons jusqu'au point que de ses voiles sombres,  
+La nuit sur l'univers vient étendre les ombres,  
+Et que deux espions surpris à Laugarez,  
+M'apprirent effrayés que l'armée était près ;  
+À ce bruit épandu le sang bout, le coeur vole,  
+Nous trouvons en la nuit un obstacle frivole,  
+Nous marchons sans broncher dans les plus sombres lieux,  
+Pour y guider nos pas, nos coeurs nous servent d'yeux,  
+Et l'ardeur qui conduit nos âmes invincibles,  
+Craint d'autant moins les coups, qu'ils seront moins visibles ;  
+Enfin dans le silence et l'ombre de la nuit,  
+Par un taillis épais, nos rangs filant sans bruit,  
+Et de tous les côtés chacun prêtant l'oreille,  
+Dans ce calme profond, un bruit sourd nous réveille ;  
+Que du commencement nous ne distinguons pas,  
+Mais qui s'élève enfin et croît à chaque pas,  
+On fait halte, et la doute est bientôt confirmée ;  
+Nous discernons au bruit la marche de l'armée ;  
+Je cueille les avis en ce besoin instant,  
+Autant à notre honneur qu'à l'État important.  
+Et le dessein formé, fais donner les alarmes,  
+Par un son de tambours, de trompettes et d'armes,  
+Capable par son bruit d'exciter tant d'horreur,  
+Que parmi tout le Camp il jette la terreur ;  
+Pendant qu'il délibère au coup de ce tonnerre,  
+Dans un canton du bois le nôtre se resserre ;  
+Et chacun ( mais toujours par le soin que j'en prends )  
+En état de donner, s'y couche dans ses rangs ;  
+Sur ce temps un soldat de mérite et de marque,  
+Pour qui j'aurais besoin, ô généreux Monarque,  
+De toute l'éloquence et de toutes les voix,  
+Dont le Sénat Romain retentit autrefois ;  
+Et que l'antiquité donne à la renommée,  
+Tirant un Camp volant du gros de notre armée ;  
+Descend une colline, et d'un coeur indompté,  
+Favorisé des lieux et de l'obscurité,  
+Par un sentier secret se jette où l'adversaire,  
+Dessus cette surprise, effrayé délibère ;  
+Il lâche après le pied, recule en combattant  
+Feint de faire retraite, et retourne à l'instant ;  
+Suit enfin si longtemps ce généreux caprice,  
+Et donne aux ennemis un si long exercice,  
+Que les plus aguerris, et les plus gens de coeur,  
+Perdent en ce travail leur plus mâle vigueur,  
+Pendant que dans le bois à l'abri de l'orage,  
+Des nôtres reposants, la force se ménage.  
+
+    LE ROI.
+Sous ce nom de Soldat il parle de ses faits,  
+Et veut, taisant le sien, s'épargner mes bienfaits  
+
+    DON BERNARD.
+À peine de la nuit, le jour tirait les voiles,  
+Et de ses traits dorés faisait fuir les Étoiles,  
+Que nos gens rejoignant ce généreux soldat,  
+Délassés, frais, dispos, et brûlants du combat,  
+Ont paru dans la plaine et fait voir sur leur face,  
+Aux ennemis tremblants leur martiale audace ;  
+Les deux Camps approchés, enfin ce jeune Mars,  
+S'étant saisi d'ardeur, d'un de nos étendards,  
+Pour exciter encor nos vigueurs r'affermies,  
+Le lançant dans les rangs des troupes ennemies,  
+Retirons, a-t-il dit, Coeurs nobles et vaillants,  
+Les drapeaux d'Aragon des mains des Castillans ;  
+Donnons mes compagnons. À ce mot il s'avance,  
+Le Cimeterre en main comme un foudre s'élance,  
+Et sans rien redouter passant de rang en rang,  
+À tout le Camp qui suit, fraye un chemin de sang,  
+Tout l'obstacle où nos bras lancent notre tonnerre,  
+Contre notre valeur, ne semble que du verre ;  
+À ce choc, l'ennemi déjà demi détruit,  
+Par l'incommodité du travail de la nuit,  
+Défend si faiblement et sa vie et sa gloire,  
+Qu'il semble hors d'espoir, négliger la victoire ;  
+Et nous vouloir ôter prévoyant son malheur,  
+La gloire que l'obstacle apporte à la valeur.  
+Ce noble coeur enfin pour presser sa conquête,  
+Du premier qu'il rencontre ayant tranché la tête ;  
+Et l'exposant en vue à tous les deux partis,  
+Le Ciel ( dit-il ) est juste, et nous a garantis ;  
+Ce bras, de Don Carlos, vient d'expier l'audace,  
+Le sang des ennemis à ce discours se glace,  
+Et les plus fiers du sort détestant la rigueur,  
+À peine pour la fuite ont assez de vigueur ;  
+Tout nous fait jour, tout ploie, et par ce stratagème,  
+Notre victoire arrive à sa gloire suprême ;  
+Je n'ose vous nommer ce démon des combats,  
+Mais je le nomme assez en ne le nommant pas :  
+Et n'en puis mieux parler que par la violence,  
+Qui me ferme la bouche, et m'oblige au silence.  
+
+    LE ROI À L'INFANTE.
+C'est assez le nommer, que de taire son nom.  
+
+    L'INFANTE.
+Certes sa modestie est sans comparaison.  
+
+    LEONOR BAS.
+Ô vainqueur fortuné que le ciel me destine !  
+Que ne peut point ton bras, si ton oeil assassine !  
+
+    LE ROI.
+Ce que vous avez dit, et que vous avez tu,  
+M'apprend de ce soldat, le nom et la vertu ;  
+Et mon faible pouvoir sait trop à quoi l'invite,  
+L'inestimable excès d'un si rare mérite.  
+
+    L'INFANTE BAS.
+Mon coeur est le seul prix digne de sa valeur.  
+
+    DON LOPE À LAZARILLE.
+Ma patience enfin lassera mon malheur.  
+
+    LAZARILLE.
+Ménagez donc le temps et vous faites connaître.  
+
+    DON LOPE.
+Attendons que le Roi m'ordonne de paraître.  
+
+    DON BERNARD.
+Don Nugue, et Don Bernard en ce dernier combat,  
+De leur zèle ordinaire ont servi votre État ;  
+Et peu dans cette histoire ont mieux gagné leur place.  
+
+    LE ROI.
+Deux comtés, leur seront des arrhes de ma grâce ;  
+Mais je cherche, amiral, et ne vois point de quoi  
+M'acquitter envers vous de ce que je vous dois.  
+
+    DON BERNARD.
+Sans plus rêver, Seigneur, ce penser vous acquitte,  
+Que de l'heur d'être à vous dépend tout mon mérite ;  
+Et c'est de vos bontés que je tiens tout mon bien,  
+Que je suis aujourd'hui, qu'hier je n'étais rien ;  
+Que mon destin sans vous n'a que l'éclat du verre,  
+Et qu'ayant comme Dieu fait un homme de terre,  
+Comme Dieu quelque jour, vous le pourrez chasser,  
+Et de votre préférence et de votre penser.  
+
+    LE ROI.
+Puis-je à son courroux être à jamais en butte,  
+Et mon trône tomber le jour de votre chute.  
+Je connais ma faiblesse, et sais que je ne puis,  
+Faire rien d'immortel, mortel que je suis ;  
+Mais le mettrai mon heur, et ma gloire suprême,  
+À me faire un vassal plus puissant que moi-même,  
+Et voir par l'union que produiront nos voeux,  
+Douter à l'Aragon qui régnera des deux ;  
+Puisque ma passion après tant d'aventures,  
+Comme votre vertu doit être sans mesures.  
+
+    L'INFANTE BAS.
+Sans moi je le crois pauvre avecques tant de bien,  
+Et ne me donner pas, c'est ne lui donner rien.  
+
+    LEONOR BAS.
+Ses bienfaits sont trop peu pour son mérite extrême,  
+S'il ne lui fait encor un présent de moi-même.  
+Tous s'en vont, le Roi conduit Léonor, et Don Bernard l'Infante.
+
+
+
+## SCÈNE V. Don Lope, Lazarille.
+
+    DON LOPE.
+Quoi ! De tant de fumée il flatte mon espoir,  
+Et plein de mon estime, il s'en va sans me voir ?  
+Quoi ? D'une telle amour j'ose nourrir l'attente,  
+Et ne me puis vanter d'un regard de l'Infante ;  
+Moi qui des mains du frère et des yeux de la soeur,  
+M'étais ( à ce retour ) promis tant de douceurs !  
+Est-ce que l'un diffère, et l'autre dissimule !  
+Mais, ô frivole espoir vanité ridicule !  
+L'un avec tant d'estime, et l'autre tant d'amour,  
+N'auraient pas d'un regard, honoré mon retour ;  
+Mais voici...  
+
+
+## SCÈNE VI. Dorothér, Don Lope.
+
+    DOROTHÉE.
+        Quoi Don lope, une ardeur si sensible,  
+Rencontre-t-elle en vous une âme inaccessible ?  
+Je croyais qu'en amour, traiter si froidement,  
+Ne fût une vertu que pour nous seulement ;  
+Quel rôle jouerons-nous, chétives que nous sommes,  
+Si la rigueur devient la qualité des hommes ?  
+S'ils refusent des voeux à des voeux mutuels,  
+Vraiment il vous sied bien de faire les cruels ;  
+Et vouloir vous mêler de notre personnage,  
+Vous que le Ciel n'a faits que pour nous rendre hommage,  
+Que pour ployer le col sous notre autorité,  
+Et nous faire tribut de votre liberté !  
+
+    DON LOPE.
+Il paraît par l'accueil que m'a fait Violante,  
+Que cette qualité me serait messéante  
+Et l'on redoute peu la rigueur d'un Amant,  
+Qu'on ne daigne honorer d'un regard seulement.  
+
+    DOROTHÉE.
+Qui manque un rendez-vous, fait bien voir qu'il néglige  
+Les plus chères faveurs dont une Amante oblige.  
+
+    DON LOPE.
+J'ai différé d'un soir, les offres de mes voeux,  
+Pour l'aller mériter par un exploit fameux ;  
+Et signalant mon nom en ce combat insigne,  
+N'ai manqué de la voir, que pour m'en rendre digne.  
+
+    DOROTHÉE.
+Je sais bien que l'amour marche après le devoir,  
+Votre excuse est de mise, et se peut recevoir :  
+Mais pour tout réparer, et voir si l'on vous aime,  
+Venez ce soir au parc, la proposer vous-même ;  
+Est-ce vous témoigner un coeur assez épris,  
+Qu'avec une faveur châtier son mépris.  
+Au reste cette amour tendant à l'hyménée,  
+Jugez de la grandeur qui vous est destinée.  
+
+    DON LOPE.
+Puis-je si malheureux n'avoir pas pour suspect,  
+D'un astre si malin ce favorable aspect ?  
+
+    DOROTHÉE.
+Elle a ce seul regret de n'être pas pourvue,  
+De toute la beauté qui peut charmer la vue.  
+
+    DON LOPE.
+Quel plus divin objet peut enchanter les sens ?  
+
+    DOROTHÉE.
+Et de voir que déjà l'avare faux du temps,  
+Ait de ses plus beaux jours ravi quelque partie.  
+
+    DON LOPE.
+Je ne puis que répondre à tant de modestie,  
+Que par tout le respect et la confusion,  
+Dont un coeur est capable en cette occasion.  
+
+    DOROTHÉE.
+Elle prétend de plus avant que le jour passe,  
+Par un gage amoureux vous confirmer sa grâce,  
+Lazarille avec moi viendra le recevoir.  
+
+    DON LOPE.
+Ô caprices du sort qui vous peut concevoir !  
+Contraire il assassine, et favorable accable,  
+D'un heur si surprenant, un homme est-il capable ?  
+
+    LAZARILLE.
+Avec la vanité dont vous vous paissez tous,  
+Vous tiendrez pour affront que le Ciel pleut sur vous ;  
+De plus puissants que vous, acceptez tout sans honte.  
+
+    DOROTHÉE À LAZARILLE.
+Viens.  
+
+    LAZARILLE LA SUIVANT.
+        Je reviens, et vous en rend bon compte.  
+
+
+## SCÈNE VII. Don Bernard, Don Lope.
+
+    DON BERNARD.
+J'admire ( mon cher Lope ) et cet étonnement,  
+Me laisse sans discours et sans raisonnement ;  
+Le courroux obstiné, dont le Ciel vous outrage,  
+Et sa lenteur extrême à vous tourner visage ;  
+Le Roi...  
+
+    DON LOPE.
+        Quelque malheur dont je sois combattu,  
+Un fort espoir renaît à ma faible vertu ;  
+En suite de mes maux dont le torrent s'écoule,  
+Les biens semblent, comme eux, me venir tout en foule,  
+Le ciel qui me semblait même plaindre le jour,  
+S'épuise en ma faveur par les mains de l'amour ;  
+Pardonnez, Amiral, si mon trop lent silence,  
+Vous a de ce beau mal caché la violence ;  
+Puisque je croyais moins par ma discrétion,  
+Vous taire un juste espoir, qu'une présomption ;  
+Mais pouvant aujourd'hui fonder cette espérance,  
+Sur une trop solide et trop claire apparence ;  
+Je vous dois révéler cet important secret,  
+Que je ne puis verser dans un sein plus discret :  
+Mais craignant d'éventer une si belle flamme,  
+Cherchons un lieu plus propre à vous ouvrir mon âme ;  
+Et pouvoir modérer par vos sages avis,  
+Le transport surprenant dont mes sens sont ravis.  
+
+    DON BERNARD.
+J'ai bien cru que du ciel la justice future,  
+Vous devrait réserver quelque haute aventure ;  
+Et que ses jugements aussi sages que saints,  
+Sous de si grands malheurs cachaient de grands desseins.  
+
+
+# ACTE V.
+
+
+## SCÈNE PREMIÈRE.
+
+    DON BERNARD SEUL.
+Jalouse passion, dangereuse couleuvre,  
+Qui pour nuire ou crever, mets tout poison en oeuvre ;  
+Fille à qui te fait naître ingrate et sans pitié,  
+Au moins tuant l'amour, épargne l'amitié ;  
+Et ne m'engendre pas d'une rage commune,  
+Et l'oubli de l'Infante, et la haine de Lune !  
+De Lune dont les faits m'ont servi de degrés,  
+À monter à des rangs de tant d'yeux révérés ;  
+Ce de Lune invaincu dont la valeur extrême,  
+A tant fait pour ma gloire, et si peu pour lui-même.  
+Laissons libres ses voeux à de libres appas,  
+Et complice du sort, ne l'entreprenons pas !  
+Sa rage assez longtemps contre lui mutinée,  
+A sous un mauvais astre ourdi sa destinée :  
+Souffrons-lui les aspects de douceur et d'amour,  
+Dont l'honore aujourd'hui l'astre de cette Cour :  
+La voici, cachons-nous, et détournons la vue,  
+De ce beau basilic, qui charme, mais qui tue.  
+
+
+## SCÈNE II. l'Infante, Don Bernard.
+
+    L'INFANTE.
+Quoi me fuir, Amiral ! quoi vouloir m'éviter !  
+Ai-je des qualités à tant épouvanter ?  
+
+    DON BERNARD.
+Vous rêviez, et j'ai cru que quelque inquiétude,  
+Vous obligeait, Madame, à cette solitude.  
+
+    L'INFANTE.
+Il est vrai, mais vous seul me pouvez relever,  
+Du soin qui m'inquiète et qui me fait rêver  
+Aujourd'hui Don Bernard que la Cour vous contemple,  
+Dans le plus haut éclat, d'un Héros sans exemple ;  
+Qu'on vous voit avec joie, autant et plus puissant,  
+Que fut jamais vassal d'un Roi reconnaissant ;  
+Que l'un et l'autre sexe, en votre heur s'intéresse,  
+Les Dames sont en peine à qui vos voeux s'adressent,  
+Et quels heureux appas, en la guerre des coeurs,  
+Remporteront sur vous le titre des vainqueurs ;  
+Car vous ne voudriez pas qu'on vous crût invincible  
+À la force d'un sexe, à qui tout est possible ;  
+Qui se peut tout soumettre, et de qui les regards  
+Forçaient les Scipions, et domptaient les Césars.  
+Cet honneur s'étant donc fait tant d'ambitieuses ;  
+Moi comme la plus jeune et des plus curieuses,  
+J'ai voulu me charger de la commission  
+De leur faire savoir votre inclination ;  
+Et c'était le sujet de mon inquiétude.  
+
+    DON BERNARD.
+Mon plus ardent désir et ma plus chère étude,  
+Sont de servir ce sexe adorable et charmant,  
+Dont toujours la conquête honore en désarmant.  
+
+    L'INFANTE.
+Ces termes généraux me laissant incertaine,  
+Me laissent sans moyen de les tirer de peine ;  
+Et ne nous obligeant que d'un devoir commun,  
+Pour servir trop d'objets, vous n'en servez pas un.  
+
+    DON BERNARD.
+Vous m'ordonnez, Madame, un excès d'insolence  
+Qu'ont assez publié mes yeux et mon silence,  
+Et quelque vive ardeur dont on soit enflammé,  
+L'importance n'est pas d'aimer mais d'être aimé ;  
+Et fonder son espoir dessus quelque apparence.  
+
+    L'INFANTE.
+Craignez-vous de déplaire ? Aimez sans espérance.  
+
+    DON BERNARD.
+Restreint dans ce respect je puis vous obéir,  
+J'aime donc un objet que nul ne peut haïr ;  
+Qui par vos propres yeux vous a cent fois ravie,  
+Que seule vous pouvez contempler sans envie.  
+Qui vous contemple aussi, sans en être jaloux,  
+Et qui n'a rien d'intime et de cher comme vous ;  
+Un trésor préférable à toute ma fortune,  
+Le seul Soleil enfin digne de cette Lune,  
+Qui se fait redouter par tant d'effets divers,  
+Et qui peut en son cercle enfermer l'Univers.  
+Par votre sage avis souffrant sa préférence,  
+J'aime sans intérêt, et sers sans espérance.  
+Je vois ce clair soleil, je tremble à son aspect,  
+L'amour pour l'amitié s'impose ce respect ;  
+Il s'en va.
+
+L'intérêt de l'ami m'éloigne de l'amante,  
+Mais le temps éteindra cette ardeur, Violante ;  
+Je l'ai nommée, adieu.  
+
+
+## SCÈNE III.
+
+    L'INFANTE SEULE.
+        De ce propos confus,  
+Qu'ai-je lieu d'inférer ou dessein, ou refus,  
+Je cherche des clartés et n'en rencontre aucune,  
+Ni dedans ce Soleil, ni dedans cette Lune ;  
+Pour me tirer de soin, j'augmente mon tourment,  
+Et voulant m'éclaircir, croîs mon aveuglement.  
+À chercher toutefois le sens de ce langage,  
+Quelque rayon de jour pénètre ce nuage ;  
+Cette Lune féconde en tant d'effets divers,  
+Et qui peut en son cercle enfermer l'univers,  
+Est le Prince mon frère, âme de cet empire,  
+Et ce Soleil pour qui l'un et l'autre soupire,  
+Est cette Léonor, pour qui toute la Cour  
+N'a plus que des regards de respect et d'amour ;  
+Mais si la jalousie avec quelque justice,  
+A jamais dans une âme exercé son caprice,  
+Je rabattrai le vol de sa témérité,  
+Avecques tant d'empire et de sévérité,  
+Et saurai de tel air ranger ce grand courage,  
+Que jamais sa beauté ne causera d'ombrage.  
+
+
+## SCÈNE IV. Don Lope, l'Infante.
+
+    DON LOPE.
+Une fois déclaré le sort nous rit toujours,  
+Voici l'Infante, Amour, j'implore ton secours,  
+Je tremble à votre approche, et mon respect, Madame,  
+Avec tous ses efforts veut retenir ma flamme ;  
+Mais ma flamme plus forte enfin que mon respect,  
+M'expose à soutenir votre adorable aspect ;  
+À l'ardeur de vos feux mon âme accoutumée  
+Sait qu'elle ne peut plus en être consommée ;  
+Son repos se rencontre en son embrasement,  
+Et ce qui la détruit, devient son aliment ;  
+Quoique par ma naissance à la vôtre inégale,  
+Mon espoir s'élevant aussitôt se ravale,  
+Et que je semble prendre un vol trop arrogant...  
+
+    L'INFANTE ÉTONNÉE.
+Ô Dieu ! Que veut ce fol ! Et cet extravagant ?  
+
+    DON LOPE.
+Vos propres mains, Madame, ont avoué l'audace,  
+De ce feu qui chez vous rencontre tant de glace ;  
+Et m'ont fait espérer quand vos yeux m'ont blessé.  
+
+    L'INFANTE.
+Qu'entends-je ! Holà, quelqu'un, chassez cet insensé.  
+
+    DON LOPE.
+À tort de mes tributs votre beauté s'irrite,  
+Je ne suis que la loi que vous m'avez prescrite,  
+Je brûle par votre ordre, et par lui je vous sers,  
+Il m'allume mes feux, il m'attache mes fers ;  
+Et ma soumission plus que mon arrogance...  
+
+    L'INFANTE.
+Dieu ! Quelle frénésie, et quelle extravagance !  
+
+    DON LOPE.
+Il ne me manquait plus que cette qualité.  
+Mais de quel vain espoir m'avez-vous donc flatté ?  
+
+    L'INFANTE.
+La fureur le saisit, je crains quelque disgrâce,  
+Aucun ne vient, fuyons et cédons-lui la place.  
+
+    DON LOPE.
+Quoi fol et furieux ! Ô ciel ! Mais le Roi vient.  
+
+    L'INFANTE.
+Sire, oyez quels discours cet insensé me tient.  
+
+
+## SCÈNE V. Le Roi, Gardes, Don Lope, l'Infante.
+
+    DON LOPE.
+Éprouvons aujourd'hui sa haine ou son estime,  
+Ouvrons-nous, oyons tout, le désespoir anime.  
+Sire, après des rebuts si longtemps éprouvés,  
+Je demande audience, et vous me la devez ;  
+Tout mon corps vous parlant par de sanglantes bouches,  
+Dont il aurait touché les coeurs les plus farouches,  
+N'a pu dans votre sein trouvé le coeur d'un Roi,  
+N'ayant pu vous résoudre à rien faire pour moi ;  
+J'ai donc lieu de tenter si la voix ordinaire,  
+N'y rencontrera point un coeur plus débonnaire ;  
+La vertu rebutée après tant de mépris,  
+Sans ternir son éclat, peut demander son prix.  
+Je pourrais ( il est vrai ) passer pour téméraire,  
+Si je vous proposais une vertu vulgaire,  
+Mais la mienne est célèbre, et peu sans vanité,  
+Ont fait ce que j'ai fait pour votre Majesté :  
+Et j'apprends toutefois pour tout fruit de mon zèle,  
+Que vous me soupçonnez du titre d'infidèle.  
+Moi, traître, moi perfide ! En quoi Roi d'Aragon,  
+D'une tache si noire ai-je souillé mon nom ?  
+Et mérité de vous l'injuste violence,  
+Qui veut l'ensevelir dans la nuit du silence ?  
+
+    LE ROI.
+Que veut cet homme ! Ô Ciel !  
+
+    DON LOPE.
+        Homme ! Oui sans me flatter,  
+C'est une qualité dont je me puis vanter :  
+Oui, Seigneur, je suis homme, et quelquefois plus qu'homme,  
+Quand je crois trop l'ardeur qui pour vous me consomme,  
+Et quand dans les dangers où l'on me voit courir,  
+Je crois être immortel et ne pouvoir périr.  
+
+    L'INFANTE.
+Jugez quel embarras me causait sa rencontre ?  
+
+    DON LOPE.
+Juste Ciel !  
+
+    LE ROI.
+    Est-il fol ?  
+
+    L'INFANTE.
+        Son geste vous le montre ?  
+
+    DON LOPE S'APPROCHANT DU ROI.
+Mon mauvais sort, Grand Roi...  
+
+    LE ROI SE RETIRANT/.
+        Passe, que me veux-tu ?  
+
+    DON LOPE.
+À quelle épreuve ô Cieux ! Mettez-vous ma vertu ?  
+Au Roi.
+
+Si de l'abord des Rois le mérite est indigne...  
+
+    LE ROI.
+Gardes mettez le hors ! Ô la folie insigne !  
+
+    GARDES LE TIRANT PAR LES ÉPAULES.
+Tôt dehors.  
+
+    DON LOPE.
+        Ô mon coeur ! Ô mes bras indomptés !  
+Vous m'avez procuré de belles qualités,  
+Pour avoir si bien fait notre fortune est grande,  
+Quand on sert on est sage, et fol quand on demande.  
+
+
+## SCÈNE VI. Le Roi, l'Infante.
+
+    LE ROI.
+Ce fol peint par ces mots, mon destin rigoureux,  
+Et me fait le portrait de moi-même amoureux ;  
+Je brûle sans espoir, je sers sans récompense,  
+Mon service est souffert, et ma prière offense ;  
+L'État, ma chère soeur, où Dieu m'a destiné,  
+Comme je le régis, m'a toujours gouverné ;  
+Y régnant, j'ai suivi les lois qu'il m'a données,  
+J'ai dans ses intérêts mes passions bornées ;  
+Je les épousais seuls ; mais aujourd'hui l'amour  
+Plus absolu que lui, veut régner à son tour.  
+Il ne peut plus souffrir qu'en l'ardeur qui me presse,  
+Il contraigne son maître au choix de sa maîtresse ;  
+Et disposant de moi fasse d'un Potentat,  
+Moins un Prince en effet, qu'un serf de son État ;  
+En cette passion l'intérêt de Cabrere,  
+Seul préférable au mien pourrait m'être contraire ;  
+À quoi que Léonor me réduise aujourd'hui,  
+Ses mépris me plairaient, ses voeux étant pour lui,  
+Et mon respect irait jusqu'à la déférence ;  
+De pouvoir, en amour, souffrir sa préférence.  
+
+    L'INFANTE.
+Ha ! vous pouvez, Seigneur, élever un vassal,  
+Au rang d'un favori, mais non pas d'un rival ;  
+Si ce respect en vous trouvait tant de faiblesse,  
+S'il était si puissant près de votre maîtresse ;  
+À quel point son pouvoir ne s'étendrait-il pas,  
+Et dessus vos sujets, et dessus vos États ?  
+
+    LE ROI.
+Dedans les sentiments que sa vertu m'inspire,  
+Lui pouvant aussi bien déposer mon Empire,  
+Que la prétention d'un objet amoureux,  
+Je voudrais couronner son front, comme ses yeux.  
+Sondons de qui son coeur reconnaît la puissance,  
+Pour m'en faire une loi d'espoir ou de déférence.  
+
+    L'INFANTE LE SUIVANT.
+Enfant père des arts, Ingénieux tourment,  
+Fais régner ma rivale et m'acquiers mon amant.  
+
+
+## SCÈNE VII. Don Bernard, Don Lope.
+
+    DON BERNARD.
+Quoi rien ne vous succède ? Et le Prince et l'Infante,  
+De cet indigne accueil ont traité votre attente ?  
+
+    DON LOPE.
+Ils m'ont traité d'un nom que j'ai bien mérité,  
+Si quelque espoir encore flatte ma vanité,  
+Si sacrifiant plus à mes erreurs passées,  
+J'en fais le fondement de mes folles pensées ;  
+Et si dans les périls d'une fameuse mort,  
+Je ne vais contenter la cruauté du sort.  
+J'ai vu cent fois le port ; et la vague plus forte,  
+Quand j'y pense arriver à l'instant me r'emporte ;  
+J'ai fait tout ce que peut pour preuve de sa foi,  
+Un captif pour son maître, un sujet pour son Roi ;  
+En mille occasions j'ai la Parque affrontée,  
+Même par les mépris ma foi s'est excitée ;  
+Et plus j'ai pour l'État achevé de travaux,  
+Plus il me fait d'injure, et se rit de mes maux ;  
+La terre ainsi de fleurs et de moisson parée,  
+Est prodigue à la main, dont elle est déchirée,  
+Et d'un servile effort ranimant sa vigueur,  
+Donne à qui plus contre elle exerce de rigueur ;  
+Mais le plus rude affront dont je ressens l'atteinte,  
+Est-ce fatal appas, cette mortelle feinte,  
+Dont la superbe Infante a voulu colorer  
+L'espoir qu'elle semait, pour me désespérer ;  
+Quand je n'ose être Amant, on m'ordonne de l'être,  
+Pour me traiter de fol, on me le fait paraître ;  
+Et le frère et la soeur tous deux également,  
+Font de mes passions un divertissement.  
+
+
+## SCÈNE VIII. Lazarille, Don Lope, Don Bernard.
+
+    LAZARILLE APPORTANT UNE ÉCHARPE DE TOILE D'OR, ET UNE LETTRE À DON LOPE.
+Tenez votre fortune est en haute posture,  
+Ô le divin objet ! L'aimable créature !  
+Ses charmes m'ont surpris, et jamais le Soleil,  
+En son oblique tour, n'a rien vu de pareil.  
+Ces gages vous font foi de son amour extrême.  
+
+    DON LOPE.
+Qui te les a donnés ?  
+
+    LAZARILLE.
+        Violante elle-même ;  
+
+    DON LOPE.
+Croirai-je à ses écrits, quand ses yeux inhumains,  
+Par un si froid accueil ont démenti ses mains ?  
+
+    LAZARILLE.
+Mais quelle à votre avis est cette Violante ?  
+
+    DON LOPE.
+J'ai pensé sous ce nom rendre hommage à l'Infante !  
+
+    LAZARILLE RIANT.
+À l'Infante ! Écoutez d'un fidèle pinceau,  
+Je vais de sa beauté vous faire le tableau ;  
+Sous ce nom captieux, je préparais ma vue,  
+Aux célestes attraits dont l'Infante est pourvue ;  
+Mais pour toute merveille Ignes ne m'a fait voir  
+Qu'un Spectre et qu'un fantôme horrible à concevoir,  
+La plus belle moitié de ce mouvant squelette,  
+Couché dessous son lit, et dessous sa toilette ;  
+D'abord que j'ai monté s'ajustant avec soin,  
+Elle a pris ses patins pour me voir de plus loin ;  
+Pour second ornement, j'ai vu sur ses épaules,  
+Un abrégé des monts qui séparent les Gaules ;  
+Son front où l'on dirait que le soc a passé,  
+S'élève à hauts sillons sur un oeil enfoncé,  
+Qu'on peut dire un Soleil non par ce qu'il éclaire,  
+Mais par ce qu'il est seul et, qu'il n'a point de frère,  
+Le temps a pris plaisir par de longs accidents,  
+À ronger et pourrir l'ivoire de ses dents ;  
+D'un art mal agencé le plâtre et la peinture,  
+Sur sa pendante joue ont caché la nature :  
+Rien ne la pare enfin qui ne sois emprunté.  
+Pour son poil il est sien, pour l'avoir acheté ;  
+Mais il fut autrefois celui d'une autre tête.  
+Faites-en bien le vain ; voilà votre conquête  
+Qui chez l'Infante au reste a quelque autorité,  
+Mais je ne vous puis dire en quelle qualité,  
+Sinon qu'elle a son nom, mais non pas son mérite.  
+
+    DON BERNARD.
+C'est une vieille fille et presque décrépite,  
+Qui la sert à la chambre, et dans quelque crédit.  
+
+    DON LOPE JETANT LA LETTRE ET L'ÉCHARPE.
+Quel mortel à ce point fut jamais interdit ?  
+
+    DON BERNARD.
+Moi certes, comme après leur longue expérience,  
+Vos maux viennent à bout de votre patience :  
+J'en demeure confus et pour leur appareil,  
+Me trouve à bout aussi d'adresse et de conseil.  
+
+    DON LOPE COMME DÉSESPÉRÉ.
+Et pour ton faste encor j'exercerais mes armes,  
+Et dans ta vanité je trouverais des charmes,  
+Et je voudrais encor mordre à tes hameçons,  
+Cour ingrate où l'art seul étale ses leçons,  
+Et qui hors d'un ami dont la bonté sincère  
+Lui fait avoir pour moi des sentiments de frère,  
+N'offres dans les malheurs dont je suis combattu,  
+Ni secours, ni soutien à ma faible vertu :  
+Cour où la valeur même est trop favorisée,  
+Alors qu'elle est soufferte, ou n'est que méprisée :  
+Cour fantôme pompeux de qui les vanités,  
+Engagent la prudence à tant de lâchetés !  
+Cour où la vérité passe pour un beau songe,  
+Où le plus haut crédit est le prix du mensonge ;  
+Qui n'est à bien parler, qu'un servage doré,  
+Un supplice agréable, un enfer adoré ;  
+Dans tes pièges encor ma raison retenue,  
+Me pourrait arrêter, quand tu m'es si connue ?  
+Je serais insensible et mes lâches tributs,  
+Justifieraient enfin ma honte, et tes rebuts ;  
+Embrassant Don Bernard.
+
+Adieu parfait ami, seul à qui sans caprice,  
+La Cour est généreuse, et le sort rend justice.  
+Un mortel malheureux au point où je le suis,  
+Par une illustre mort doit borner ses ennuis ;  
+Ou s'il ne perd au moins, doit cacher une vie,  
+À tant d'indignités, et d'affronts asservie ;  
+Voyant Lazarille paré de l'écharpe.  
+Lâche de mon affront veux-tu porter les marques.  
+
+    LAZARILLE.
+Si vous n'en espérez que de soeurs de Monarques ;  
+Et si jamais d'ailleurs nous n'en devons porter,  
+Nous avons tout loisir d'aller les mériter.  
+
+    DON BERNARD VOULANT RETENIR DON LOPE.
+Le temps peut tout changer, cependant cher de Lune,  
+En ma protection bornez votre fortune ;  
+Don Lope s'en va.
+
+Si vous vous éloignez, vous ôtez à l'État,  
+Sa plus noble défense et son meilleur soldat ;  
+Écoutez, attendez.  
+Il continue seul.
+
+        Ô fatale aventure !  
+De la haine du sort effroyable peinture !  
+Et leçon importante à ceux qu'il fait puissants,  
+De se bien soutenir en des pas si glissants.  
+
+
+## SCÈNE IX. Le Roi, Le Comte, Le Secrétaire, Gardes, Don Bernard.
+
+    LE ROI.
+Le voici, prévenons ou fondons son attente,  
+Au Secrétaire.
+
+Amenez Léonor, et vous Comte l'Infante ;  
+Approchez Don Bernard, de ce fameux État  
+Première créature, et second Potentat ;  
+Embrassant Don Bernard.
+
+Le Ciel qui pour mouvoir a besoin de deux pôles,  
+Veut que pour bien régner j'emprunte vos épaules,  
+Et que le lourd fardeau de mon Gouvernement,  
+Sur vous comme sur moi, trouve son mouvement.  
+
+    DON BERNARD.
+Sans réserve, Seigneur, je dois tout à l'Empire,  
+Mais sous l'autorité du joug où je respire ;  
+Sous vos droits absolus mes ordres sont soufferts,  
+Mais bien différemment, vous régnez, et je sers.  
+Un vassal peut d'un Roi soutenir la puissance,  
+Mais s'il se la partage, il prend trop de licence ;  
+Et quand de tant d'honneur il se laisse combler,  
+Il se charge d'un faix qui le doit accabler :  
+Quand d'un oeil trop ardent le Soleil voit la terre,  
+Le Ciel s'en obscurcit, il s'en forme un tonnerre,  
+Et par l'excès d'ardeur qu'il a mal employé,  
+L'objet qu'il caressait, est souvent foudroyé ;  
+Peu de pluie en saison rend la terre fertile,  
+Où trop d'eau la submerge et la rend inutile ;  
+Dans vos faveurs enfin laissez-moi souvenir,  
+Que sorti du néant je puis y revenir.  
+
+    LE ROI.
+Si je ne vous chérit d'un amour ordinaire,  
+Je n'aime pas en vous une vertu vulgaire,  
+Et la veux couronner par un hymen fameux,  
+Où même votre choix n'épargne pas mes voeux,  
+Sans réserve voyez pour cet hymen insigne,  
+Tout ce qu'à vos regards la Cour a de plus digne,  
+Tout ce que l'Aragon a de plus éclatant,  
+Le présent n'en suivra vos voeux que d'un instant.  
+
+    DON BERNARD.
+Leur vol trop orgueilleux m'oblige à les restreindre.  
+
+    LE ROI.
+À quoi m'étant égal ne pouvez-vous atteindre !  
+Vous pouvez Amiral, je vous le dis encor,  
+À mon exclusion prétendre à Léonor :  
+Puisqu'à mon propre bien votre heur m'est préférable,  
+Et que vous m'êtes cher autant qu'elle adorable.  
+
+    DON BERNARD.
+Mon coeur quelque respect qu'il vous ait conservé,  
+Ose tenter un vol encore plus élevé ;  
+Mais taisant cette ardeur qui me fait méconnaître,  
+J'aime mieux me punir, que mériter de l'être.  
+
+    LE ROI.
+Ce vol est trop borné, s'il ne va qu'à ma soeur,  
+Et cette même nuit vous en rend possesseur :  
+Ne me celez donc point si cette amour vous touche.  
+
+    DON BERNARD.
+Sire, au crime du coeur n'engagez point la bouche ;  
+Puisque tous mes travaux et futurs et passés.  
+
+    LE ROI.
+Votre silence parle et me la nomme assez ;  
+L'embrassant.
+
+Oui mon frère en son nom, je reçois votre hommage.  
+
+
+## SCÈNE DERNIÈRE. l'Infante, Le Comte, Léonor, Le Secrétaire d'un côté, Le Roi, Don Bernard d'autre côté.
+
+    LE ROI À L'INFANTE.
+Un amant se déclare à qui je vous engage,  
+Ses voeux ( ma chère soeur ) seront-ils rejetés ?  
+
+    L'INFANTE.
+Non, si de Don Bernard il a les qualités.  
+
+    LE ROI LES FAISANT EMBRASSER.
+Il en a le nom même avecques le mérite.  
+
+    DON BERNARD.
+Ô cher et doux transport que cet espoir m'excite !  
+Si l'heur que je conçois, n'est une vérité,  
+Plutôt qu'un si beau songe, ôte-moi la clarté.  
+
+    LÉONOR.
+Que vois-je ! Ô juste Ciel ! Quoi, Seigneur, la parole !  
+N'est-elle plus aux Rois, qu'un songe, ou qu'une Idole ?  
+Ce matin quelque objet qui ne put enflammer,  
+Ne me devait coûter qu'un souhait à former ;  
+Et cette offre ce soir, me laisse voir l'Infante,  
+Embrassant Don Bernard, étouffer mon attente.  
+
+    LE ROI.
+Si je manque à ma foi, c'est pour vous la donner,  
+L'embrassant.
+
+Pour vous la tenir mieux, et pour vous couronner ;  
+Pour accorder, Madame, à votre amour extrême,  
+Cet heureux Don Bernard en un autre lui-même ;  
+Et sous un noeud sacré soumette en ce beau jour,  
+Les raisons de l'État à celles de l'amour.  
+
+    LÉONOR.
+L'injure qui d'un Roi partage la puissance,  
+Et qui place en son trône, est une heureuse offense.  
+
+    LE ROI.
+Comme sur mon esprit, régnez sur mes États,  
+Allons... Mais quel écrit trouvai-je sous mes pas ?  
+
+    DON BERNARD.
+D'une vieille suivante à ce Lope de Lune,  
+Dont la seule valeur égale l'infortune.  
+Ce prodige animé dont les gestes guerriers,  
+Vous ont couvert le front de vos plus beaux lauriers ;  
+Et de son plus beau lustre embelli votre règne,  
+Qui repoussa l'Infant, qui soumit la Sardaigne,  
+Et dont la renommée avec tant de succès,  
+Dans votre esprit encor n'a su trouver d'accès.  
+
+    LE ROI.
+Quel malheur l'a privé de ma magnificence ?  
+
+    DON BERNARD.
+Sa dernière infortune est encor son absence ;  
+Car après tous mes soins en vain officieux,  
+Vos longs rebuts enfin l'ont chassé de ces lieux.  
+
+    LE ROI.
+Moyennez son retour ; ma grâce avec usure ;  
+Du mérite ignoré réparera l'injure ;  
+Puisque j'éprouve en vous qu'un Roi reconnaissant,  
+À force de donner, en devient plus puissant.  
+
+-------
+
+
+[1] On lit dans l'édition originale : "les droits d'un Couronne"
+
+[2] la scène IX est noté DIXIÈME dans l'édition originale.

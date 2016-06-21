@@ -1,0 +1,3383 @@
+---
+identifier: scarron_gardiendesoimeme  
+creator: Scarron, Paul  
+date: 1655  
+title: Le Gardien de soi-même  
+---
+
+
+LE GARDIEN DE SOI-MÊME
+
+COMÉDIE
+
+M DC LXXXVIII. Avec Privilège du Roi.
+
+DE Mr SCARRON.
+
+# . À PARIS, Chez Guillaume de Luyne, Libraire Juré dans la Salle des Merciers, sous la montée de la Cour des Aides, à la justice.
+Représenté pour le première fois en 1654 au Théâtre de l'Hôtel de Bourgogne.
+
+
+# .
+
+
+
+
+# ACTEURS.
+ – LE ROI DE NAPLES.
+ – LE PRINCE DE SICILE.
+ – ALCANDRE, fils du Roi de Sicile.
+ – ISABELLE, fille du Roi de Naples.
+ – CONSTANCE, nièce du Roi de Naples.
+ – HÉLÈNE.
+ – SABINE.
+ – FILIPIN, un Paysan pris pour Alcandre.
+ – SULPICE, écuyer d'Alcandre.
+ – LICASTE, capitaine des Gardes.
+ – MAURICETTE, Paysanne.
+ – SOLDATS.
+ – PAYSANS.La Scène est dans un Château près de Naples.
+
+
+# ACTE I.
+
+
+## SCÈNE I. Sulpice, Alcandre.
+
+    SULPICE.
+L'accident fut terrible, et nos pauvres chevaux  
+Firent dans ces rochers le dernier de leurs sauts.  
+La terre sous leurs pieds subitement fondue,  
+Leur rendit ce beau saut d'une grande étendue,  
+Et je ne comprends pas comment ces malheureux  
+Sont morts plutôt que nous, qui sommes chus comme eux.  
+Le sort qui nous régit, sur les chutes préside.  
+Telle chute fait rire, et telle est homicide,  
+Pour nous, lorsque avec eux les airs nous traversions,  
+Nous ne nous disions pas ce que nous en pensions :  
+Mais puisque cette chute...  
+
+    ALCANDRE.
+        Ha ! Tais-toi je te prie,  
+Trouves-tu dans mes maux matière à raillerie ?  
+Peux-tu rire songeant au péril que je cours ?  
+Sois capable une fois d'un sérieux discours.  
+
+    SULPICE.
+Vous m'ordonnez, Seigneur, des choses impossibles,  
+Le sérieux, et moi, sommes incompatibles  
+Mais pour vous obéir, je veux bien essayer  
+De vous faire un récit sans beaucoup m'égayer.  
+Comme je vous ai dit, la nuit était fermée,  
+Lorsque j'entrai dans Naples encore toute alarmée ;  
+D'où sans cesse le Roi dans son juste courroux,  
+Commandait des Soldats pour aller après vous.  
+Mon hôte me trahit : je fus pris : on me mène  
+Au Roi : l'on m'interroge, et l'on y perd sa peine.  
+On presse, on intimide, on demande où j'ai pris  
+L'argent qu'on m'a trouvé, sans les bagues de prix.  
+Lors je me dis Marchand : on me refouille en sorte,  
+Qu'on trouve votre lettre, et lors le Roi s'emporte.  
+Alcandre, disait-il, l'ennemi de l'État,  
+Ose troubler ma Cour par un noir attentat !  
+Un Prince que je hais, de mon neveu que j'aime  
+Ose finir les jours en ma présence même.  
+Ce crime peut aller à de plus grands desseins :  
+Mais leur auteur hardi tombera dans mes mains,  
+Et ce Sicilien deviendra par son crime  
+D'un ennemi mortel la sanglante victime.  
+Car on peut bien penser qu'étant pris aussitôt  
+On verra de son sang rougir un échafaud.  
+Mon Maître, dis-je alors, le généreux Alcandre,  
+N'a de Juge que Dieu, quand on le pourrait prendre.  
+Mais il est en Sicile, et votre Majesté  
+Sait qu'un Roi de Sicile est à craindre irrité.  
+Et tu sauras, me dit le Roi fort en colère,  
+Tout ce qu'un Roi de Naples est capable de faire.  
+Alcandre, repartis-je, est Prince égal à vous.  
+Le Roi sort, me disant, aveuglé de courroux,  
+Garde ta hardiesse à souffrir la torture.  
+
+    ALCANDRE.
+Ô ! Malheureuse lettre, ô ! Fâcheuse aventure.  
+Et l'Infante ?  
+
+    SULPICE.
+        L'Infante, elle fait de son mieux ;  
+Devant son père, il n'est lion plus furieux.  
+Elle vous accommode en Prince de Sicile :  
+Mais en particulier elle change de style.  
+Quand elle se vit seule, hé bien, Sulpice, hé bien,  
+Le Prince Alcandre ? Il vit, il aime, et ne craint rien,  
+Lui dis-je. Le Roi rentre, et nous pensa surprendre.  
+L'Infante recommence à pester contre Alcandre.  
+On me mène en prison. L'Infante, cependant,  
+Comme elle a sur son père un puissant ascendant,  
+Le voulut employer à me tirer de peine :  
+Sire, ce prisonnier peut mourir à la géhenne,  
+Dit-elle, et j'ai grand peur pour l'avoir arrêté,  
+Qu'on ne tirera pas la moindre utilité.  
+Outre qu'avoir servi son Maître est tout son crime,  
+Et que mon cher cousin veut une autre victime,  
+Si on le laisse aller, et qu'on l'observe après,  
+Il ne manquera pas d'aller ou loin ou près.  
+Chercher son Maître Alcandre ; une personne adroite  
+Le suivra pas à pas, apprendra sa retraite ;  
+Saura tout ce qu'il fait, vous en informera,  
+La chose est vraisemblable. Et nous réussira,  
+Interrompit le Roi, par ce beau stratagème :  
+Quand je l'espérais moins, je sortis le jour même.  
+J'ai toujours vu depuis l'Infante avec grand soin,  
+Sur ce que je lui dis, elle vous croit bien loin,  
+Et brûle de savoir bientôt de vos nouvelles.  
+Pour moi j'étais pour vous en des peines mortelles,  
+Vous sachant au milieu de tous vos ennemis.  
+
+    ALCANDRE.
+Admire où mon destin extravagant m'a mis.   [1]
+Où je crois me sauver, nos chevaux, cher Sulpice,  
+Tombent avecques nous au fond d'un précipice,  
+Et je me vois réduit, étant bien informé,  
+Que l'on a contre moi tout le Pays armé,  
+Et qu'on m'en a bouché toutes les avenues,  
+De quitter mes habits, et mes armes connues.  
+
+    SULPICE.
+Elles sont, où l'on peut les trouver aisément,  
+Qu'avais-je fait alors de mon beau jugement ?  
+
+    ALCANDRE.
+Et que t'importe-t-il, qu'on trouve ou non mes armes ?  
+Tu te troubles toujours par de vaines alarmes.  
+Je parais dans ces lieux, nu, pauvre et désolé,  
+Et je m'y fais passer pour un Marchand volé.  
+Sans connaître Constance, et savoir que son frère  
+Eût été le rival, que je viens de défaire,  
+J'implore son secours, et je lui fais pitié :  
+Mais sa compassion penche vers l'amitié,  
+Et pour te dire vrai, c'est ce qui m'embarrasse ;  
+Aujourd'hui je me vois par elle dans la place  
+D'un vieillard décédé, qui commandait au fort.  
+
+    SULPICE.
+Ainsi vous commandez où l'on vous hait si fort.  
+Vous a-t-on dit, Seigneur, que cette place forte,  
+Est comme de l'État et la force et la porte,  
+Où d'ordinaire on met les gens de qualité,  
+Que les raisons d'État privent de liberté ?  
+
+    ALCANDRE.
+Je le sais. Maintenant, il faut, ô ! Cher Sulpice,  
+Que je voie Isabelle, ou bien que je périsse,  
+Quand je ne la devrais adorer qu'un moment.  
+Fais-lui bien le portrait de mon cruel tourment,  
+Gouverne mon amour, gouverne ma fortune :  
+Mais sache que des deux la perte m'est toute une ;  
+Et si leurs intérêts ont à se partager,  
+Fais tout pour mon amour, si tu veux m'obliger.  
+J'oublie à t'avertir, que sous le nom d'Ascagne  
+Je me cache en ses lieux, où l'on me croit d'Espagne ;  
+Constance toutefois croit ce nom emprunté,  
+Et me soupçonne aussi d'être de qualité.  
+
+    SULPICE.
+Mais, Seigneur, il faudrait retourner en Sicile.  
+
+    ALCANDRE.
+Ce conseil est fort bon, mais il est inutile.  
+
+    SULPICE.
+Mais si l'on vous connaît...  
+
+    ALCANDRE.
+        Qu'importe de périr ;  
+Puisque j'aurais absent, tout de même à mourir.  
+
+    SULPICE.
+Au moins écrivez donc...  
+
+    ALCANDRE.
+        Écris, dispose, envoie,  
+Mais devant, vois l'Infante, et fais que je la voie.  
+Adieu, va-t'en, je vois des Paysans venir.  
+J'avais encore assez de quoi t'entretenir ;  
+Mais c'est ici le temps qu'en ce lieu solitaire,  
+Constance chaque jour vient regretter son frère.  
+Figure-toi l'excès de ma confusion,  
+Quand moi qui suis l'auteur de son affliction :  
+Contre moi je l'entends, à moi-même me dire  
+Tout ce que la vengeance de son courage inspire ;  
+Mais quand bien je serais d'elle connu, je crois  
+Que bientôt notre paix se ferait d'elle à moi,  
+Nous l'allons rencontrer...  
+
+
+## SCÈNE II. Paysan I, Mauricette, Filipin.
+
+    PREMIER PAYSAN.
+        Il y va trop du nôtre,  
+Pourquoi plutôt que moi ? Pourquoi plutôt qu'un autre ?  
+
+    FILIPIN.
+Peste du cheval...  
+
+    PREMIER PAYSAN.
+        Oui, pourquoi parleras-tu  
+Plutôt que moi ?  
+
+    FILIPIN.
+        Je suis plus sage et mieux vêtu.  
+
+    MAURICETTE.
+Vois-tu Perrin Dandin donne-lui ton suffrage,  
+Philipin est l'honneur de tout notre village,  
+Il sait lire par coeur, pourquoi donc contester ?  
+Son oncle qui du bourg était le Magister...  
+
+    PREMIER PAYSAN.
+Son oncle, comme lui, n'avait point de cervelle.  
+
+    FILIPIN.
+Veux-tu qu'à coups de poing nous vidions la querelle ?  
+
+    PREMIER PAYSAN.
+Non ; mais je sais fort bien, que l'on t'a mal choisi,  
+Et que je m'en retourne au village.  
+
+    FILIPIN.
+        Vas-y.  
+
+    PREMIER PAYSAN.
+Je n'y veux pas aller moi.  
+
+    FILIPIN.
+        N'y va pas compère,  
+Harangue la Princesse.  
+
+    PREMIER PAYSAN.
+        Et je n'en veux rien faire,  
+Moi, suis-je ton valet ? Es-tu mon maître, toi,  
+Pour commander ainsi ?  
+
+    FILIPIN.
+        Je le tiens par moi  
+Fou.  
+
+    MAURICETTE.
+        Tantôt haranguant, ne manque pas de dire  
+Depuis le Prince mort, que nous n'avons vu rire  
+Personne dans le Bourg, et que tous ces Soldats  
+Qui cherchent l'assassin, sont larrons comme chats.  
+
+    FILIPIN.
+C'est assez, discourons sur notre mariage.  
+
+    MAURICETTE.
+Discourons.  
+
+    FILIPIN.
+        Dès l'abord sans tarder davantage,  
+Au lieu qu'un mari neuf s'amuse à caresser,  
+Je veux sur ton museau ma rigueur exercer,  
+Lui faisant de soufflets une salve très rude.  
+
+    MAURICETTE.
+Tu crois donc qu'en frappant on rend sa femme prude ;  
+Outre que je pourrais te le rendre, et bien fort,  
+Sache, toi qui prétend me maltraiter d'abord,  
+Que si tu ne vis pas en mari pacifique,  
+Je t'arbore à coup sûr un timbre magnifique.  
+
+    FILIPIN.
+Toi vilaine ?  
+
+    MAURICETTE.
+        Oui moi, vilain, car parle à moi,  
+Pourquoi me battre ainsi ?  
+
+    FILIPIN.
+        Ce n'est en bonne foi,  
+Qu'à bonne intention, et par pure maxime ;  
+Écoute. Un malheureux avait commis un crime :  
+Se voyant condamné de recevoir comptant,  
+Cinquante coups de fouets d'un bourreau bien fouettant ;  
+(Car chacun sait bientôt ce qu'un bourreau sait faire)  
+Il gagna par argent ce bourreau mercenaire,  
+Afin qu'il modérât la fustigation ;  
+Mais le bourreau d'abord sans modération  
+Lui fit sentir trois coups : le pauvret tout bas peste.  
+Voilà sans ton argent comme eût été le reste  
+Dit le bourreau prudent, et depuis acheva  
+De façon que son dos tout son cuir conserva.  
+À l'application : si par expérience,  
+Je t'ai fait voir que j'ai de battre la science,  
+Tu me redouteras.  
+
+    MAURICETTE.
+        Voyez le bel oiseau !  
+Ma foi l'un de nous deux changera bien de peau,  
+Ou nous verrons beau jeu.  
+
+    FILIPIN.
+        Tais-toi méchante langue  
+Et me laisse plutôt songer à ma harangue.  
+
+    MAURICETTE.
+Vois-tu, ne me fais plus tantôt pour toi rougir.  
+
+    FILIPIN.
+Tu me vas adorer tant je vais bien agir.  
+
+    MAURICETTE.
+Dis bien tout ce qu'il faut.  
+
+    FILIPIN.
+        Et j'en dirai de reste :   [2]
+Mais la voici qui vient ; quelque fat, malepeste,  
+Irait la haranguer, et je ne suis pas prêt ;  
+Qu'un autre au lieu de moi harangue s'il lui plaît.  
+
+
+## SCÈNE I.I. Constance, Alcandre.
+
+    CONSTANCE.
+Ces conseils ne sont bons qu'aux âmes insensibles.  
+Il est vrai, la tristesse a des charmes nuisibles ;  
+Mais j'ai perdu mon frère, et ce dernier malheur  
+Me donne toute entière en proie à la douleur.  
+Ces monts qu'il dépeuplait de leurs bêtes sauvages,  
+Ces rochers, ces vallons, ces plaines, ces bocages,  
+Dont il fut l'ornement et la tranquillité,  
+Sont privés comme moi de leur félicité.  
+Ces lieux où tant de fois mon humeur solitaire  
+Rencontrait des objets capables de lui plaire,  
+Ne feront désormais, qu'augmenter mon ennui ;  
+Puisque mon frère est mort, rien ne me plaît sans lui.  
+
+    ALCANDRE.
+Si ce n'est point, Madame, à moi trop entreprendre,  
+Puis-je savoir de vous, ce que je crains d'entendre.  
+Ce funeste malheur diversement conté,  
+Confond le bruit du peuple avec la vérité.  
+
+    CONSTANCE.
+Depuis sa mort, mon âme en sa douleur constante,  
+Se divertit à faire un récit qui l'augmente.  
+Écoute donc, Ascagne, et tu vas tout savoir.  
+Ce prodige charmant et dangereux à voir,  
+L'Infante ma cousine, en Naples adorée,  
+Et des Princes voisins ardemment désirée,  
+L'objet de mille voeux, et de mille soupirs,  
+Fit à mon frère aussi naître de vains désirs ;  
+Vains, ou plutôt mortels, puisque sa mort cruelle,  
+Est un effet du feu dont il brûla pour elle,  
+Ce feu par les soupirs de son coeur enflammé,  
+Parut bientôt aux yeux qui l'avaient allumé,  
+Et ces visibles Dieux de ce malheureux frère,  
+Virent luire son feu, sans s'en mettre en colère.  
+La Princesse agréait ses soins infortunés,  
+Au dessein de son père ayant les siens bornés,  
+Tout riait à mon frère, et sa haute espérance,  
+N'avait plus rien à craindre, étant sans concurrence,  
+Quand le Roi, qui faisait de sa fille, son Dieu,  
+Souhaita de porter sa gloire en plus d'un lieu.  
+Il prépare sa Cour à des fêtes publiques.  
+Ses Hérauts vont partout en habits magnifiques.  
+Dans Naples en peu de temps, on voit de tous côtés  
+Arriver inconnus les guerriers invités,  
+Un magnifique bal se donne dans le Louvre,  
+Où le Roi trouve bon, que d'un masque on se couvre ;  
+Parce qu'il crût qu'au Bal les Princes inconnus,  
+Sans cette liberté ne fussent pas venus.  
+Un Cavalier masqué, dont la mine héroïque,  
+Le procédé bizarre, et l'habit magnifique,  
+De toute notre Cour se fit considérer,  
+Entra seul dans la salle, et sans délibérer  
+S'alla jeter aux pieds de l'Infante Isabelle,  
+Poussant du bras mon frère à genoux devant elle,  
+Mon frère plus discret, et plus respectueux,  
+Se contenta pour lors de lui parler des yeux.  
+L'autre ayant quelque temps entretenu l'Infante,   [3]
+Regardant mon Germain d'une façon choquante,  
+Règle mieux tes désirs, lui dit-il, et me crois ;  
+Pour aimer Isabelle il faut être né Roi.  
+Cela dit, il porta la main sur son épée,  
+Laissant à l'admirer l'assemblée occupée,  
+Et sortit ; mais d'un air si superbe et si fier,  
+Qu'on ne l'arrêta point : il gagna l'escalier,  
+Et l'épée à la main entre cent hallebardes,  
+Donna de la terreur aux plus hardis des gardes.  
+
+    ALCANDRE.
+Ce guerrier quel qu'il soit, fit un coup bien hardi.  
+
+    CONSTANCE.
+Il le fut encore plus que je ne te le dis.  
+
+    ALCANDRE.
+Quoique son action paraisse téméraire,  
+Elle n'est pourtant pas d'un homme du vulgaire.  
+
+    CONSTANCE.
+Le jour d'après le bal le tournoi commença,   [4] [5]
+Mon frère aux premiers jouts maints Guerriers terrassa,  
+Je ne te dirai point leurs chiffres, leurs livrées,  
+Leurs devises, leurs noms, leurs superbes entrées,  
+Aussi bien après eux l'inconnu cavalier,  
+Ne parût pas plutôt, qu'il les fit oublier.   [6]
+Tel que le Dieu de Thrace est dépeint dans la fable,  
+Il parut sur les rangs même plus redoutable,  
+Ascagne, je ne puis te le peindre autrement ;  
+Car, quoiqu'il soit de moi haï mortellement,  
+Si ces trésors cachés répondent aux visibles ;  
+Je confesse qu'il peut plaire aux plus insensibles,  
+Mon cher frère s'anime en voyant ce rival ;  
+Il choisit une lance, et change de cheval.  
+Ils combattent, enfin, ô malheur effroyable,  
+Mon frère est renversé pâle et froid sur le sable.  
+Tu te peux figurer après un frère mort,  
+Les regrets que je fis, moi qui l'aimais si fort.  
+Le Roi de son balcon, quelques ordres qu'il donne  
+Et tout grand Roi qu'il est, n'est ouï de personne.  
+La place est devenue un spectacle d'horreur.  
+Dans la confusion le superbe vainqueur  
+Rencontre peu d'obstacle à faire sa retraite :  
+S'opposer à ses coups, c'est chercher sa défaite.  
+Il massacre, il renverse, on le craint, on le fuit,  
+Il reçoit du secours d'un guerrier qui le suit ;  
+Et telle est la terreur, qu'il donne à tout le monde,  
+Que l'on craint même aussi celui qui le seconde.  
+
+    ALCANDRE.
+Madame, je crois voir cette confusion  
+Tant l'art est merveilleux de votre expression :  
+Mais se put-il sauver, ce guerrier plein d'audace ?  
+
+    CONSTANCE.
+Comme un vent, comme un foudre, il sortit de la place.  
+Le Roi d'aller après, ordonne vainement.  
+On s'attroupe, on le suit, mais de loin seulement,   [7]
+Cependant son cheval par sa vite carrière,  
+Se dérobant à ceux, qu'il a laissés derrière,  
+Rend leur poursuite vaine, on ne croit pourtant pas,  
+Qu'avec tous les Soldats, qu'on a mis sur ses pas,  
+On ne le prenne enfin : mais qu'il soit pris, qu'il meure,  
+Sa mort me rendra-t-elle un frère que je pleure ?  
+C'est le triste sujet, qui m'amène en ces lieux,  
+Et qui me rend la Cour un sujet odieux.  
+
+
+## SCÈNE IV. Hélène, Constance, Alcandre, Filipin, Paysans.
+
+    HÉLÈNE.
+Madame, vos sujets sont venus du village,  
+Vous faire une harangue en leur grossier langage.  
+
+    CONSTANCE.
+Qu'on les fasse approcher.  
+
+    FILIPIN.
+        Ses regards m'ont troublé.  
+Maudit soit la harangue, et qui m'en a parlé.  
+Madame donc, Madame, on dit que votre frère  
+Est mort, à mon avis il ne pouvais pis faire.  
+Chacun dit qu'il est mort comme feu Pharaon,   [8] [9]
+Ou comme Phaéton, ou comme fanfaron,  
+Enfin comme un des trois, vous choisirez, Madame,  
+Cependant il est mort, Dieu veuille avoir son âme,  
+Pour prendre l'assassin tout est plein de Sergents...  
+
+    CONSTANCE.
+Ascagne, qu'il se taise.  
+
+    ALCANDRE.
+        Allez mes bonnes gens,  
+Madame est empêchée.  
+
+    FILIPIN.
+        Homme que Dieu confonde,  
+Est-ce ainsi que l'on vient interrompre le monde,  
+Et me couper en deux un mot dans le gosier ?  
+Il fait bien l'entendu ce Monsieur l'Écuyer  
+Ou bien Maître d'Hôtel.  
+
+    CONSTANCE.
+        Allez donc vite Hélène,  
+Avertir au Château, qu'un carrosse on amène.  
+
+    MAURICETTE.
+Adieu beau harangueur ; mais comme j'ai le dos.  
+
+    FILIPIN.
+Mâtine, ai-je rien dit qui ne soit à propos.  
+
+    MAURICETTE. ELLE S'EN VA.
+On t'a pourtant fait taire avec ton beau langage.  
+
+    FILIPIN, SEUL. [10]
+Ne me lanterne point malencontreux visage.  
+Sur le premier railleur, qui viendra m'agacer,  
+Je veux de mille coups ma colère passer.  
+Ascagne, qu'il se taise, a dit la dégoûtée,  
+Voyez le grand tourment, elle était bien gâtée  
+D'employer un moment à me bien écouter ;   [11]
+Mais elle a mieux aimé faire la Dame Esther  
+Avec son écuyer, qui la mène et ramène.   [12]
+Vous verrez, qu'elle avait la mère, ou la migraine :  
+Ma harangue ma foi, valait bien un sermon,  
+Et j'allais haranguer comme un Roi Salomon :  
+À son dam, elle y perd plus que moi. Ma bourrique  
+Que je ne trouve point me rend mélancolique.   [13]
+La quinteuse qu'elle est pour se faire chercher,  
+Dans quelque endroit du bois a bien pu se cacher.  
+Dieu la garde des dents tant de loup que de louve,  
+Cependant cherchons-la, quand on cherche l'on trouve.  
+Je puis déjà gager, qu'elle n'est point ici,   [14]
+Ni dans ce gros hallier, ni dans cet autre aussi :  
+Mais que vois-je briller dans cette roche obscure,  
+Si j'allais y trouver quelque bonne aventure,  
+Voyons, en bonne foi, voici bien du butin,  
+C'est un bonnet de fer doublé de bon satin,  
+Bien doré par-dessus, et l'habit lui ressemble.  
+Dans l'Église du Bourg certain Saint ce me semble  
+Est vêtu tout de même auprès d'un gros dragon,  
+Il faut pour le vêtir dépouiller le jupon,   [15]
+Et puis s'aller quarrer au milieu du village :  
+Entrons pour cet effet dans le prochain bocage ;  
+Aussi bien j'aperçois certaine nation,  
+Qui depuis peu chez nous vit à discrétion.  
+
+
+## SCÈNE V. Licaste, Soldats.
+
+    LICASTE.
+Mes compagnons, la fin de notre quête est proche,  
+Le corps de son cheval au pied de cette roche,  
+Fait voir qu'il n'est pas loin, et je serais d'avis,  
+Puisque nos compagnons ne nous ont pas suivis,  
+Que quelqu'un d'entre nous, qui que ce soit n'importe,  
+Pour rendre notre troupe en cas de besoin sorte,  
+Aille les assembler ; car vous n'ignorez pas,  
+Quel homme nous cherchons.  
+
+    PREMIER SOLDAT.
+        J'y vais tout de ce pas.  
+
+    SECOND SOLDAT.
+Son cheval, ou plutôt sa puante carcasse,  
+Depuis longtemps sans doute infecte cette place,  
+Et maint loup, et maint chien s'en est fort bien trouvé,  
+Et l'inconnu depuis peut bien s'être sauvé.  
+
+    LICASTE.
+L'apparence ? A-t-on pas occupé les passages ?  
+Nos gens ne sont-ils pas épars dans les villages ?  
+Les lieux plus éloignés n'en sont-ils pas couverts ?  
+Et tous les ports fermés, qui les aurait ouverts ?  
+
+    SOLDAT.
+Compagnons je l'ai vu.  
+
+    LICASTE.
+    Qui vu ?  
+
+    SOLDAT.
+        Le redoutable ;  
+Celui que nous cherchons, l'inconnu, le grand Diable.  
+
+    LICASTE.
+Vient-il ici ?  
+
+    SOLDAT.
+        Tout droit, armé comme il était,  
+Quand dans Naples lui seul tout Naples il battait.  
+Le voyez-vous qui vient ?  
+
+    LICASTE.
+        C'est lui, cachons-nous vite,  
+Nous serions tous gâtés, s'il nous prenait au gîte.  
+
+
+## SCÈNE VI.
+
+    FILIPIN.
+Parbleu me voilà bon armé comme un soldat.  
+J'étais tantôt David, et je suis Goliath ;  
+Il est vrai que ma taille est un tant soit peu rape,  
+Ma coiffure de fer est faite en chausse-trape,  
+Je m'y suis pris les doigts en haussant et baissant,  
+Tantôt dans notre bourg passant et repassant,  
+Je m'en vais bien reluire en mon bel attelage,  
+À ma grosse dondon, pour qui d'amour j'enrage.  
+J'ai peur qu'elle n'en veuille au neveu du curé,  
+Parce que le Dimanche il est tout bigarré,   [16]
+Et qu'il racle des doigts une vieille guiterne ;   [17]
+Mais ce voyant tantôt ainsi qu'un Olopherne,  
+Elle ouvrira les yeux, et se repentira,   [18]
+D'un certain coup de pied qu'elle me desserra,   [19]
+Comme je la courais dans une chènevière.  
+Elle rue en génisse et devant et derrière ;  
+Mais si nous devenons par le prêtre conjoints,  
+Maître Filipin fait merveille des poings.  
+Tout cet habit de fer pèse autant qu'une enclume,  
+Sans aller au logis chercher un lit de plume,  
+Reposons quelque temps notre malheureux corps.  
+S'en fâche qui voudra, je ronfle quand je dors.  
+
+
+## SCÈNE VII. Licaste, Soldat, Filipin.
+
+    LICASTE.
+Il se livre lui-même et se met dans le piège.  
+
+    FILIPIN S'ENDORMANT.
+Chargé comme je suis j'avais besoin d'un siège.  
+
+    LICASTE.
+Il va dormir, laissons assoupir les esprits ;  
+Car le prendre autrement, c'est pour en être pris.  
+Soldats ne risquons rien, et devant toute chose  
+Lions-lui bien les mains, cependant qu'il repose :  
+Ôtons lui son épée, et puis le saisissant,  
+Et faisant de nos cris approcher les passants,  
+Nous les envoierons chercher nos camarades,  
+Comme nous à sa quête épars dans les bourgades.  
+
+    SOLDAT.
+Le voilà garrotté de la bonne façon,  
+Et même désarmé ce dangereux garçon.  
+
+    LICASTE.
+Éveillez-le.  
+
+    SOLDAT.
+        Holà, ho Cavalier, qui reposes,   [20]
+Il est temps d'entrouvrir tes deux paupières closes.  
+Je le tiens mort ou sourd.  
+
+    LICASTE.
+        La peste comme il dort,  
+S'il ne ronflait en diable, on le prendrait pour mort.  
+Ce Mars n'a pas l'amour peint sur son beau visage,  
+Et sa beauté n'est pas du prix de son courage.  
+Levez-vous, Cavalier.  
+
+    FILIPIN, S'ÉVEILLANT.
+        Qui va là ? Qui va là ?  
+Et qui m'a garrotté les mains comme cela ?  
+
+    LICASTE.
+Monsieur, vous êtes pris, et votre résistance  
+Ne ferait que montrer ici votre impuissance,  
+Vous êtes sans épée.  
+
+    FILIPIN.
+        Et quand bien j'en aurais,  
+C'est encore à savoir, si je m'en défendrais.  
+
+    LICASTE.
+Nous vous connaissons bien, Monsieur, trêve de feinte.  
+
+    FILIPIN.
+Si j'étais dans le Bourg je formerais ma plainte,  
+Et tu serais au moins aux dépens condamné :  
+Mais enfin pourquoi donc m'a-t-on emprisonné.  
+
+    LICASTE.
+Vous avez mis à mort par une audace extrême,  
+Le cher neveu du Roi dans Naples à ses yeux même.  
+
+    FILIPIN.
+Et par qui savez-vous que j'ai fait ce beau coup ?  
+
+    LICASTE.
+Par vos armes.  
+
+    FILIPIN.
+        Ma foi, vous me plaisez beaucoup ;  
+À l'instant seulement je les ai ramassées.  
+Que maudit soit celui qui les a là laissées.  
+Et pour le Prince mort, si c'est le Prince Henri,  
+Je suis né son sujet, et j'en suis fort marri.  
+
+    LICASTE.
+Vous vous cachez en vain sous un grossier langage.  
+
+    FILIPIN.
+Je serais bien caché : mais cependant j'enrage.  
+
+    LICASTE.
+Et cependant marchons. Nous prendrons un cheval  
+Dans le premier village.  
+
+    FILIPIN.
+        On ne fera pas mal,  
+De m'avoir un cheval, s'il faut enfin que j'aille  
+Car j'ai peine à marcher avec tant de ferraille.  
+
+    LICASTE.
+Allons vite.  
+
+    FILIPIN.
+        Tout beau, vous vous précipitez.  
+Lorsque je suis chargé, je marche à pas comptés :  
+Mais soldats ou larrons, qui me venez de prendre,  
+Le Roi vous devrait bien, un beau jour faire pendre,  
+D'éveiller ses sujets lorsqu'ils dorment si bien,  
+Et de me garrotter comme un galérien.  
+
+    LICASTE.
+Allons, allons, Monsieur.  
+
+    FILIPIN.
+        Oui, qui le pourrait faire,  
+Je me tuerai le corps seulement pour vous plaire ;  
+Armez-vous nous verrons votre légèreté,   [21]
+Ou bien courrez devant si vous êtes hâté.  
+
+
+# ACTE II.
+
+
+## SCÈNE I. Constance, Hélène.
+
+    CONSTANCE.
+Hélène sort.
+
+Allez faire venir l'étranger. Insensée,  
+Pourquoi te plais-tu tant en ta folle pensée ?  
+Elle est incompatible avecque ta vertu,  
+Puisque tu la connais, pourquoi t'écoutes-tu ?  
+Étouffe de bonne heure une honteuse flamme ;  
+Crains Ascagne, et le fuis, chasse-le de ton âme,  
+Déjà n'y sens-tu pas augmenter son pouvoir,  
+Et que pour y régner il n'a que le vouloir ?  
+Mais considère Ascagne : il est des plus aimables ;  
+Les mieux faits de la Cour lui sont-ils comparables ?  
+Ne fait-il pas reluire en la moindre action,  
+Je ne sais quoi de grand, et de condition ?  
+Son esprit est charmant, son âme est magnanime,  
+Des biens de la fortune il ne fait nulle estime ;  
+Les répand en prodigue, et ne possédant rien,  
+Il l'a fallu forcer à recevoir du bien.  
+Parfois je le surprends, qui rêve et qui soupire,  
+Je ne puis ignorer ce que cela veut dire,  
+Il me l'a trop appris depuis que je le vois :  
+Mais il peut soupirer pour une autre que moi.  
+Ô ! Si j'étais l'objet de cette rêverie !  
+Mais qu'est-ce que m'inspire une aveugle furie ?  
+Que je ne le sois point : qu'ingrat ou vertueux ;  
+Que trop peu clair-voyant, ou trop respectueux,  
+Il refuse mon coeur ; que même il le méprise,  
+Je croirai lui devoir mon repos, ma franchise,  
+Je lui devrai mon coeur, qu'il n'aura pas voulu.  
+Princesse qu'as-tu dit, et qu'as-tu résolu ?  
+Si ce cher étranger te traitait de la sorte,  
+Crois-tu pour le souffrir d'avoir l'âme assez forte.  
+Le moindre déplaisir te fait pousser des cris,  
+Et tu pourrais souffrir un si cruel mépris.  
+Ha ! Ne te flatte point, la perte de ton frère,  
+Auprès d'un tel mépris, n'est qu'un malheur vulgaire ;  
+Plutôt que de souffrir un semblable malheur,  
+Tu mourrais mille fois de honte et de douleur.  
+Ô Dieux ! Il vient ici, pour comble de ma peine.  
+
+
+## SCÈNE II. Constance, Alcandre.
+
+    CONSTANCE.
+Que cherchez-vous Ascagne ?  
+
+    ALCANDRE.
+        Ayant appris d'Hélène  
+Que votre Altesse...  
+
+    CONSTANCE.
+        Hélène a rêvé, retournez.  
+
+    ALCANDRE.
+Madame, j'obéis.  
+
+    CONSTANCE.
+        Toutefois revenez.  
+
+    ALCANDRE, SEUL.
+Quelle humeur de Princesse, inquiète, interdite,  
+Qui veut, qui ne veut point, qui me cherche, et m'évite.  
+Qui m'envoie appeler, et ne me parle pas.  
+
+    CONSTANCE.
+Ascagne, vous parlez ce me semble tout bas,  
+À quoi rêvez-vous tant ?  
+
+    ALCANDRE.
+        Au bien que vous me faites.  
+Que j'aurai peine à rendre étant ce que vous êtes.  
+Je reçois tous les jours quelques nouveaux bienfaits,  
+Et crois, que vous voulez m'accabler sous leur faix.  
+
+    CONSTANCE.
+Souffrez-vous de la peine à m'être redevable ?  
+
+    ALCANDRE.
+D'un sentiment si bas, je ne suis pas capable.  
+
+    CONSTANCE.
+Quel éclaircissement faites-vous donc ici ?  
+
+    ALCANDRE.
+Je me tais.  
+
+    CONSTANCE.
+    Non, parlez.  
+
+    ALCANDRE.
+        J'ose donc dire aussi,  
+Que je ne puis ouïr sans quelque inquiétude,  
+Votre Altesse blâmer souvent l'ingratitude.  
+Si vous parlez pour moi, si vous m'avertissez  
+De n'être point ingrat, vous-même m'y forcer,  
+Au moindre compliment que je vous en veux faire,  
+Vous changez de discours, et vous me faites taire.  
+
+    CONSTANCE.
+Soyez reconnaissant, et ne le dites point.  
+
+    ALCANDRE.
+Ha ! Madame, est-ce là, ce que l'honneur enjoint ?  
+Et que penseriez-vous de mon ingrat silence ?  
+
+    CONSTANCE.
+Je ne veux point de vous d'autre reconnaissance.  
+
+    ALCANDRE.
+Il m'est fort mal aisé de vous bien obéir.  
+
+    CONSTANCE.
+Il vous est fort aisé de vous faire haïr.  
+
+    ALCANDRE, SEUL.
+Que je puisse mourir, si j'y puis rien comprendre.  
+Mais que ferai-je donc ayant tant à vous rendre ?  
+
+    CONSTANCE.
+Puisque vous l'ignorez, le temps vous l'apprendra.  
+
+    ALCANDRE.
+Cependant je demeure ingrat.  
+
+    CONSTANCE.
+        On le verra.  
+
+    ALCANDRE.
+Si vous me connaissiez.  
+
+    CONSTANCE, SEULE.
+        J'en dirais bien de même.  
+
+    ALCANDRE.
+Vous m'estimeriez moins.  
+
+    CONSTANCE, SEULE.
+        Tu saurais que je t'aime.  
+Ô qu'un tel sentiment va contre ma vertu !  
+Et s'il n'est étouffé qu'il doit être au moins tu !  
+
+    ALCANDRE, SEUL.
+Ô ! Si la soeur savait, que j'ai tué son frère,  
+Et que j'ai mérité sa haine et sa colère...  
+
+    CONSTANCE.
+Vous parlez bas encor.  
+
+    ALCANDRE.
+        Songeant à mon malheur,  
+Je ne puis m'empêcher...  
+
+    CONSTANCE.
+        D'être un fort grand rêveur ;   [22]
+Mais Licaste de Naple arrive.  
+
+
+## SCÈNE III. Licaste, Constance, Alcandre.
+
+    LICASTE.
+        À votre Altesse,  
+Je viens, ou je me trompe adoucir la tristesse,  
+Enfin, Madame, on sait qu'Alcandre est le cruel,  
+Dont le bras nous ravit le feu Prince en duel.  
+
+    CONSTANCE.
+Alcandre de Sicile ?  
+
+    LICASTE.
+    Oui, Madame.  
+
+    CONSTANCE.
+        Ha ! Le traître,  
+Et n'a-t-on pu savoir où l'inhumain peut être ?  
+
+    LICASTE.
+On le sait bien, Madame, et c'est pour ce sujet  
+Que je viens vous trouver.  
+
+    ALCANDRE, SEUL.
+        Je suis pris, c'en est fait.  
+
+    LICASTE.
+Mon ordre est de parler à celui qui commande  
+Depuis peu dans le Fort.  
+
+    CONSTANCE.
+        Ascagne, on vous demande,  
+C'est de la part du Roi.  
+
+    ALCANDRE, SEUL.
+        Qu'attends-je à commencer  
+À gagner une porte, à m'y faire forcer,  
+Enfin, à succomber comme doit faire Alcandre,  
+Percé de mille coups, plutôt que de me rendre. ?  
+
+    CONSTANCE.
+Avez-vous bien ouï ce que je vous ai dit ?  
+Hé quoi toujours rêveur et toujours interdit ?  
+
+    ALCANDRE, À PART.
+Je me trahis moi-même, ô Dieu ! L'erreur étrange.  
+
+    CONSTANCE.
+Approchez, qu'avez-vous ? Le visage vous change,  
+
+    LICASTE.
+Madame, devant vous, il faut qu'en attendant  
+Que l'on présente au Roi ce nouveau Commandant,  
+Il jure de garder le Prince de Sicile,  
+Dont la prise s'ignore encore dans la Ville.  
+On la cèle pour cause, et le soldat armé  
+Qui sous moi sert d'escorte au carrosse fermé,  
+Ne sait pas le chemin qu'il tient, ni ce qu'il porte :  
+Alcandre...  
+
+    CONSTANCE.
+        À ce seul nom la haine me transporte.  
+Ô sexe ! Ô bienséance ! Ô que n'est-il permis,  
+De croire la fureur contre ses ennemis !  
+
+    LICASTE.
+Madame, vous pouvez le voir, sans être vue,  
+
+    CONSTANCE.
+Ha ! Je ne puis point voir un objet qui me tue,  
+Prêtez serment, Ascagne.  
+
+    ALCANDRE.
+        Oui, je jure et promets,  
+À ma fidélité de ne manquer jamais,  
+D'avoir l'oeil sur tous ceux qui me voudraient surprendre :  
+D'avoir le même soin, de bien garder Alcandre.  
+Que j'aurais pour moi-même, et je donne ma foi,  
+Que personne ne peut le mieux garder que moi.  
+
+    CONSTANCE.
+Licaste, livrez-lui ce Prince, Et qu'on le traite,  
+Selon, que vous savez, que le Roi le souhaite :  
+Mais comment l'a-t-on pris ?  
+
+    LICASTE.
+        Suivi de mes soldats,  
+Des deux fiers inconnus, je me mis sur les pas ;  
+Mais mon malheur voulut que je perdis leur trace,  
+Il leur survint de même une rude disgrâce.  
+Je trouvai leurs chevaux dans le fond d'un torrent,  
+De leur chute brisés, l'un et l'autre expirants ;  
+Je reconnus d'abord, et le poil, et la selle  
+De celui du guerrier, qui d'une chute telle,  
+Quoiqu'il se fût sauvé, devait apparemment  
+N'être pas loin du lieu de son trébuchement.  
+Je parle à mes soldats, et je les encourage  
+D'entreprendre un travail qu'avec eux je partage.  
+Je les sépare tous, deux à deux, trois à trois ;  
+Nous montons les rochers, nous visitons les bois  
+Je trouve l'Inconnu, las, à pied, chargé d'armes,  
+Je n'avais avec moi, que deux de mes Gens-d'armes,  
+Je l'attaque pourtant : mais comme il est adroit  
+Autant que valeureux, il gagne un poste étroit,  
+Et d'abord difficile, où seulement de face  
+Nous pouvions l'aborder. Là, sa guerrière audace  
+Des Soldats, que j'avais alors avecque moi,  
+En moins de rien changea le courage en effroi.  
+J'eus beau les animer : seul je me mis en tête,  
+Un guerrier jusqu'alors craint comme la tempête,  
+Enfin me hasardant, je passe dessus lui.  
+Sa valeur, qui n'a point sa pareille aujourd'hui,  
+Soit qu'il fût las, succombe : il fallut donc se rendre.  
+Si bien que je puis dire, avoir moi seul pu prendre  
+Un Héros indompté, que tout un peuple ému,  
+A tâché d'arrêter, et ne l'a jamais pu.  
+
+    ALCANDRE, SEUL.
+Ô le hardi menteur ! Ô l'extrême impudence !  
+
+    LICASTE.
+J'oubliais, qu'il affecte en tout une ignorance,  
+Qui m'a d'abord surpris, fait le mauvais plaisant ;  
+Il parle en Villageois, et croit se déguisant  
+Ne passer pas ici pour Prince de Sicile :  
+Mais il est découvert, sa feinte est inutile.  
+
+    HÉLÈNE.
+Madame, vous allez avoir toute la Cour.  
+Le Roi vient.  
+
+    LICASTE, PARLANT À ALCANDRE.
+        Le carrosse entrera dans la cour,  
+Pour approcher du Fort : Mais le Roi...  
+
+
+## SCÈNE IV. Le Roi, Constance.
+
+    LE ROI.
+        Capitaine,  
+Allez prendre le Prince, et qu'on me l'amène.  
+
+    CONSTANCE.
+Ha ? Sire, trouvez bon, en l'état où je suis,  
+Que j'évite un objet, qu'avec raison je fuis.  
+
+    LE ROI.
+Oui, ma nièce, sortez, il est juste.  
+
+    CONSTANCE.
+        J'espère,  
+Que vous me vengerez de la mort de mon frère.  
+
+    LE ROI.
+Cette affaire n'est plus, ce qu'elle était hier :  
+Car Alcandre n'est pas un simple Cavalier.  
+Constance s'en va.
+
+Il est Prince, il est vrai : mais mon frère était Prince.  
+
+
+## SCÈNE V. Filipin, Licaste, Soldats, Sulpice, Le Roi.
+
+    FILIPIN.
+Pour savoir qui je suis, je me tâte et me pince,  
+Si je m'en crois tout seul, je ne suis qu'un pied plat,  
+Si j'en crois ces gens-ci, je suis un grand soldat.  
+On me mène à la ville, et puis on me translate,  
+Toujours de mal en pis, de Caïphe à Pilate.  
+Au moindre petit bruit, ils sont effarouchés,  
+Et je ne vis jamais des gens plus empêchés :  
+Mais enfin, chers Geôliers : vous fais-je peur ? M'enfuis-je ?  
+Pourquoi me prenez-vous ? Que vous fais-je ? Qui suis-je ?  
+
+    LICASTE.
+Un grand Prince.  
+
+    FILIPIN.
+        Autre fou. Je n'en vis jamais tant,  
+En campagne on me nomme, un brave combattant,  
+Un dangereux pendard : on me nomme à la Ville,  
+Le vaillant Prince Alcandre, ou l'Infant de Sicile.  
+
+    LICASTE.
+Vous êtes découvert, vos gens sont arrêtés.  
+
+    FILIPIN.
+Et vous le croyez tous ?  
+
+    LICASTE.
+    Tous.  
+
+    FILIPIN.
+        Et tous, vous mentez.  
+Je ne suis, par ma foi, ni l'Infant, ni Alcandre,  
+Et moins encore, je sais pourquoi l'on m'a pu prendre ;  
+Car s'habiller de fer, est-ce un si grand forfait ?  
+
+    LE ROI.
+Vainement votre altesse ainsi se contrefait.  
+
+    FILIPIN.
+Altesse ! Hé beau vieillard, qu'est-ce donc qu'une Altesse ?  
+J'espérais en voyant sa barbe et sa vieillesse,  
+De rencontrer enfin, quelque homme sage ici ;  
+Mais cette Altesse-là me met en grand souci.  
+
+    LE ROI.
+Prince encor une fois, la feinte est inutile,  
+Nous vous connaissons tous, pour l'Infant de Sicile.  
+
+    SULPICE.
+Je m'en vais, comme il faut appuyer cette erreur.  
+Mon Maître, c'est donc vous ? Quel insigne bonheur !  
+
+    FILIPIN.
+Quel insigne insensé ! Celui-ci, par mon âme,  
+Est le pire de tous. Grand Dieu, que je réclame,  
+Je ne vois que des fous sur moi se relayant,  
+Je m'aimerais bien mieux, parmi les mécréants.  
+
+    LE ROI.
+S'il feint, on ne peut mieux ; car tout de bon, il pleure,  
+Il faut le remener, Licaste, tout à l'heure,  
+Que l'on le traite en Prince, et d'un tel prisonnier,  
+Donnez ordre, qu'on ait un soin particulier.  
+J'avais cru, me voyant, qu'il cesserait de feindre :  
+Mais il est, ce qu'il feint, et je l'en trouve à plaindre.  
+
+    LICASTE.
+Allons, mon Prince, allons.  
+
+    FILIPIN, SEUL.
+        Où me conduisez-vous ?  
+Je ne saurais, ailleurs, trouver de plus grands fous.  
+J'en viens de voir ici, depuis demi-quart d'heure,  
+Plus que je n'en verrai de ma vie, ou je meure.  
+
+    LE ROI.
+Ma fille, votre esprit, de douleur abattu,  
+Devrait se relever, par sa propre vertu.  
+
+
+## SCÈNE VI. Isabelle, Sabine, Le Roi.
+
+    ISABELLE.
+Mais, Sire, un cher parent.  
+
+    LE ROI.
+        Tout parfait, tout aimable.  
+Mais il était mortel.  
+
+    ISABELLE.
+        Mais je serais blâmable,  
+Si son sang, et le noeud, qui nous devait unir,  
+N'agissaient, comme ils font dedans mon souvenir.  
+Que de mes pleurs mon père, est mauvais interprète !  
+Je chéris, ce qu'il hait, et crains ce qu'il souhaite.  
+
+    LE ROI.
+Quel remède, Sabine, à cette affliction ?  
+
+    SABINE.
+Le meurtrier, du prince, en sa possession.  
+
+    ISABELLE.
+Que tu dis vrai, Sabine ! Et que si j'en dispose,  
+Puisque de ma tristesse, il est la seule cause,  
+À le voir seulement, que j'aurai du plaisir :  
+Mais le Ciel rigoureux, s'oppose à mon désir.  
+
+    LE ROI.
+Dans un rang élevé, les têtes adorées,  
+Des yeux de leurs sujets, sont fort considérées.  
+Quand on les voit mollir, sous leur affliction,  
+On les croit voir manquer, à leur condition,  
+Et l'on attend plus d'eux qu'une valeur commune,  
+Incapable de vaincre une adverse fortune.  
+Cessez donc vos regrets, et vous ressouvenez  
+Qu'il faut mieux soutenir le rang que vous tenez.  
+
+    ISABELLE.
+Mais, sire, vos soldats auront pu se méprendre.  
+Est-on bien assuré, que c'est le Prince Alcandre ?  
+
+    LE ROI.
+Son valet le confirme, et s'afflige de plus,  
+De voir son Maître ainsi, de son bon sens perclus.  
+On n'en doit plus douter, après sa lettre lue,  
+Je dois l'avoir sur moi, si je ne l'ai perdue.  
+
+    ISABELLE.
+Ô ! Que n'a-t-il déjà le mal que je lui veux,  
+Et que le Ciel n'est-il favorable à mes voeux !  
+
+    LE ROI.
+LETTRE.
+
+D'un jeune désir emporté  
+Inconnu je vais voir et Naples, et ses fêtes :  
+Je reviendrai bientôt vers votre Majesté.  
+Et couverts de lauriers, et riche de conquêtes.  
+Comme Roi, vous me blâmerez.  
+Un si hardi dessein vous doit mettre en colère :  
+Mais, vous me le pardonnerez ;  
+Car, que peut à un fils, refuser un bon père ?  
+Sa lettre me surprend, et je ne puis comprendre,  
+Qu'elle soit d'un esprit, tel que celui d'Alcandre.  
+
+    ISABELLE.
+Qu'on le cache à mes yeux, Sire, ce prisonnier,  
+Ou de mes déplaisirs, c e sera le dernier.  
+
+    LE ROI.
+Il s'en va.
+
+Je ne puis plus la voir, de la sorte abattue.  
+Ayez-en soin, Sabine.  
+
+    ISABELLE.
+        Ha, ma douleur me tue !  
+Il est pris, mon Alcandre, et le Ciel a permis  
+Qu'il soit entre les mains de ses grands ennemis.  
+Il faut que je le voie, il faut que ma cousine,  
+Me rende cet office. Ha ! Ma chère Sabine,  
+Qu'un voyage fâcheux, qui t'éloigna de moi,  
+M'a fait voir, que j'ai peine, à me passer de toi.  
+
+    SABINE.
+Madame, vous direz, que je suis bien hardie,  
+D'oser vous avouer que je vous étudie,  
+Et quoiqu'à ce dessein, j'aie l'esprit bandé,  
+Que je ne comprends rien en votre procédé.  
+Vous soupirez sans cesse, et répandez des larmes,  
+Flétrissez votre teint, affaiblissez vos charmes,  
+Et puis, pour les auteurs des maux que vous sentez,  
+Je vous vois des soucis, je vous vois des bontés.  
+Jadis de vos secrets, je fus dépositaire :  
+Mais le plus important, vous m'avez voulu taire.  
+Vous savez pourtant bien, qu'un langage indiscret  
+Ne m'a jamais rendue indigne d'un secret.  
+
+    ISABELLE.
+Oui, Sabine, je veux t'en faire confidence,  
+Pour toi, de plusieurs jours, je romprai le silence,  
+Le secret important que je vais révéler,  
+Est de ceux qu'on voudrait à soi même celer :  
+Écoute, en peu de mots, devant que quelqu'un vienne,  
+Tu ne peux ignorer cette guerre ancienne,  
+Qui des mers de Sicile, a fait rougir les eaux,  
+Et dans ses ports forcés a porté nos vaisseaux.  
+Mais les meilleurs succès ont leurs vicissitudes :  
+Les nôtres à leur tour, en ont eu des plus rudes.  
+Depuis qu'un Prince Alcandre, endosse le harnois,  
+La déité sans yeux, qui fait du bien sans choix :  
+La fortune autrefois, que nous croyons amie,  
+Pour Alcandre éveillée, et pour nous endormie,  
+A conduit ses desseins, et les nôtres trahis,  
+Et l'a fait la terreur de nos tristes Pays,  
+Tandis qu'on s'apprêtait à ces fêtes célèbres,  
+Dont les jeux périlleux devinrent si funèbres.  
+
+    SABINE.
+Ce fut en ce temps-là que je quittai la Cour,  
+Où du Prince on blâmait déjà le fol amour.  
+
+    ISABELLE.
+Je la blâmais aussi cette audace funeste :  
+Mais le Roi l'approuvait. Écoute donc le reste.  
+Un Marchand étranger, dans ma chambre introduit,  
+Des plus riches trésors que l'Orient produit ;  
+À mes yeux étala les pièces les plus rares,  
+Et qui pouvaient le plus saouler les coeurs avares.  
+Une boîte d'émail, que l'art enchérissait,  
+Plus qu'un gros diamant, qui l'oeil éblouissait,  
+Me fit voir en l'ouvrant mon image portraite,  
+Et qui semblait parler tant elle était bien faite,  
+Surprise à cet objet, si jamais je la fus ;  
+Je vis que ce Marchand n'était pas moins confus.  
+Alcandre, me dit-il d'une face étonnée,  
+M'a depuis quelques jours cette boîte donnée.  
+Alcandre de Sicile, un Prince que vos yeux,  
+Font un captif soumis, d'un vainqueur odieux.  
+Votre portrait, Madame, a fait cette merveille,  
+Votre célèbre nom ravissait son oreille.  
+Et quand dans un portrait il vit votre beauté,  
+Ce cher portrait depuis fit sa félicité :  
+Mais d'un si grand trésor ne s'estimant pas digne,  
+Et par cet humble aveu se voulant rendre insigne  
+Entre tous les amants qui souffrent dans vos fers,  
+Ce Prince généreux que j'aime et que je sers,  
+M'a par un ordre exprès commandé de vous rendre,  
+Ce portrait, ou plutôt, tout le bonheur d'Alcandre ;  
+Car je ne doute point, privé de ce portrait,  
+Qu'il ne meure bientôt, vous aimant comme il fait.  
+Après m'avoir tenu ce surprenant langage,  
+Il sortit, me laissant cette boîte pour gage  
+Que dès le jour d'après, il viendrait sans manquer,  
+Contenter mon désir, la vendre, ou la troquer.  
+Je l'ouvris : mais Sabine, au lieu de ma figure,  
+D'Alcandre j'aperçus la galante peinture,  
+Si semblable au Marchand, que je reconnus bien,  
+Qu'Alcandre, et le Marchand ne différaient en rien.  
+
+    SABINE.
+Quoi ! Madame, c'était...  
+
+    ISABELLE.
+        Le Prince Alcandre même.  
+
+    SABINE.
+Ha ! Voilà de l'amour le plus beau stratagème ?  
+Ô que j'aime ce Prince, et ne revint-il plus ?  
+
+    ISABELLE.
+Tu le sauras bientôt, ne m'interromps donc plus,  
+Lors je me figurai, qu'il se pouvait bien faire,  
+Qu'un Prince plein d'amour, en amant téméraire,  
+Aurait pour m'approcher le Marchand contrefait,  
+Et pour se découvrir supposé son portrait.  
+J'y reportai les yeux, et j'y crus voir les marques,  
+Et l'air grand qu le Ciel donne au front des Monarques :  
+Mais insensiblement, je ne m'avisais pas,  
+Qu'en ce fatal portrait, je trouvais trop d'appas.  
+Que te dirai-je plus ? Je le revis encore,  
+Ce Marchand, ou plutôt ce Prince qui m'adore :  
+Mais si beau, si bien fait, n'étant plus déguisé,  
+Que de gagner mon coeur, il lui fut fort aisé :  
+Ainsi l'amour vainquit, et nos coeurs s'échangèrent :  
+Ainsi deux ennemis se réconcilièrent ;  
+Ainsi souvent depuis nos mutuels serments  
+Amusèrent l'espoir de deux jeunes amants.  
+
+    SABINE.
+Je ne devinais pas de vos pleurs l'origine,  
+Et je ne pense pas qu'un autre la devine.  
+
+    ISABELLE.
+Tu peux juger par là que mes yeux languissants,  
+Ne pleurent point les morts, et pleurent les absents.  
+Je sens pour mon cousin, un regret vraisemblable ;  
+J'ai pour mon cher Alcandre une peur véritable ;  
+Les guerres, les discorts qui brouillent nos maisons,  
+Combattent mon amour de puissantes raisons ;  
+Ils lui disent qu'Alcandre au pouvoir de mon père,  
+Ne peut pas éviter les traits de sa colère :  
+Et mon amour leur dit, que ni sexe, ni rang,  
+Ni devoir, ni respect, ni la force du sang,  
+Ne peuvent m'empêcher qu'au meurtrier d'Alcandre,  
+Fût-ce même le Roi, je ne me fasse entendre,  
+Détestant sa rigueur, souhaitant le trépas,  
+Et que même à ses yeux je ne le cherche pas.  
+
+    SABINE.
+L'honneur d'un tel secret m'a beaucoup obligée :  
+Mais, Madame, pour vous je me sens affligée,  
+Je vois plusieurs desseins aux vôtres opposés.  
+
+    ISABELLE.
+Pourvu qu'Alcandre vive, ils me seront aisés  
+Ne perdons point de temps, va savoir de Constance,  
+Quand je la pourrai voir, pour chose d'importance.  
+Si tu m'aimes, va vite, et fais adroitement  
+Qu'elle vienne aussitôt dans mon appartement.  
+
+
+# ACTE III.
+
+
+## SCÈNE I. Constance, Isabelle, Sabine.
+
+    CONSTANCE SUIVIE DE L'INFANTE QUI L'OBSERVE.
+Ô raison qui m'avez sitôt abandonnée,  
+Revenez au secours d'une âme forcenée,  
+De ses désirs esclaves, et qui passe en un jour,  
+D'un deuil inconsolable en une honteuse amour  
+Ô Dieu, l'Infante...  
+
+    ISABELLE.
+        Enfin, je vous y prends, rêveuse.  
+
+    CONSTANCE.
+Madame, je le suis, et de plus malheureuse.  
+
+    ISABELLE.
+J'en puis bien dire autant, je ne la suis pas moins,  
+Puisque je puis ici vous parler sans témoins,  
+Je vous ouvre un secret, ô ! Ma belle cousine,  
+Que vous partagerez avecque ma Sabine.  
+Pour un dessein étrange, et dont je vous dirai,  
+La cause et le progrès, lorsque je le pourrai,  
+Il m'importe de voir le Prince de Sicile,  
+Et c'est pour ce sujet que j'ai quitté la ville,  
+Je m'en vais dans le parc faire un tour ; cependant,  
+Comme vous disposez ici du Commandant,  
+Vous ferez qu'en secret, je puisse voir Alcandre,  
+Je reviens à l'instant.  
+
+    CONSTANCE.
+        Et que viens-je d'entendre,  
+Avec un prisonnier qu'a-t-elle à démêler ?  
+Quel en est le motif, puisqu'il le faut celer ?  
+Me demander à voir l'assassin de mon frère !  
+Le fléau de son pays, l'ennemi de son père !  
+Ascagne, que je vois, me doit tout ; il pourra  
+L'observant, m'informer de ce qu'elle fera,  
+Que fait le prisonnier, Ascagne ?  
+
+
+## SCÈNE II. Alcandre, Constance, Sulpice.
+
+    ALCANDRE.
+        Il se tourmente  
+Et maudit son destin et s'afflige.  
+
+    CONSTANCE.
+        L'Infante  
+Que je viens de quitter, me conjure instamment,  
+De la faire parler à ce Prince un moment.  
+Son dessein me surprend, quelque désir que j'aie  
+D'en trouver la raison, vainement je l'essaie.  
+Vous pouvez m'y servir : ce service rendu  
+Ascagne, auprès de moi ne sera pas perdu.  
+Votre Charge vous rend la chose fort facile,  
+Ayant droit d'observer le Prince de Sicile.  
+Il vous est fort aisé dans cette occasion,  
+De me faire juger de votre affection.  
+Quel est cet homme ?  
+Sulpice paraît.
+
+
+    ALCANDRE.
+        C'est un des sujets d'Alcandre.  
+
+    CONSTANCE.
+L'Infante va venir, vous n'avez qu'à l'attendre,  
+Je vais au-devant d'elle afin de l'avertir,  
+Que l'on fera d'ici tout le monde sortir,  
+Et qu'on fera trouver ce Prince ici sans garde,  
+Seul moyen de le voir sans qu'on n'y prenne garde.  
+
+    ALCANDRE.
+Je saurai son secret, Madame, assurément.  
+
+    CONSTANCE.
+Vous promettez beaucoup.  
+
+    ALCANDRE.
+        N'en doutez nullement.  
+
+    CONSTANCE.
+Retenez ses discours, observez son visage.  
+
+    ALCANDRE.
+Constance s'en va.
+
+Madame, je prétends faire encor davantage.  
+
+    SULPICE.
+Ha ! Mon Maître, ha ! Mon Roi.  
+
+    ALCANDRE.
+        Sulpice, parle bas.  
+
+    SULPICE.
+Tel est bien mon dessein, mais je n'y songe pas.  
+
+    ALCANDRE.
+Que dis-tu de me voir le gardien de moi-même ?  
+Et ma bonne fortune, est-elle pas extrême ?  
+D'avoir gagné le coeur d'une divinité,  
+De qui dans un moment je serai visité.  
+Elle me croit aussi, l'adorable Isabelle,  
+Un prisonnier d'État : je ne le suis que d'elle.  
+Hors d'elle, dont je suis esclave, et que je sers,  
+Je prétends en ces lieux pouvoir donner des fers.  
+
+    SULPICE.
+Vous en pouvez donner à cette grosse bête,  
+Ce fou d'État.  
+
+    ALCANDRE.
+        Non, non, c'est une illustre tête,  
+Sue qui je règne, au moins il ne tiendra qu'à moi.  
+
+    SULPICE.
+Mais, Seigneur, qui vous met si bien auprès du Roi.  
+S'il découvre jamais qu'un Prince de Sicile...  
+
+    ALCANDRE.
+Ne perdons point le temps en discours inutiles  
+En un jour, qui des miens, peut être le dernier.  
+Cependant que je fais venir le prisonnier,  
+Qui de nécessité doit avec moi paraître,  
+Ou je hasarderais de me faire connaître,  
+Tu le tiendras ici. L'Infante va venir :  
+D'indifférents discours songe à l'entretenir.  
+Ne lui découvre rien, afin que je lui fasse,  
+Moi-même le récit, du fou mis en me place ;  
+
+    SULPICE.
+Seigneur, c'est hasarder le paquet grandement,  
+Et c'est agir, me semble, impétueusement.  
+J'ai peur que notre affaire, aussi tendre qu'un verre,  
+Pour être trop poussée, enfin ne donne en terre,  
+L'Infante est imprudente et son zèle indiscret.  
+Ce dessein hasardeux ne peut être secret.  
+Alcandre sort.
+
+Les actions des Grands, de tant d'yeux éclairées,  
+Du public rarement pensent être ignorées,  
+Mais on ouvre.  
+
+
+## SCÈNE III. Isabelle, Sabine, Sulpice.
+
+    ISABELLE.
+        Sabine, entrez, et gardez bien  
+Qu'on écoute, ou qu'on entre ici.  
+
+    SABINE.
+        Ne craignez rien.  
+
+    ISABELLE.
+Ton Maître donc, Sulpice ?  
+
+    SULPICE.
+        À l'instant je l'amène.  
+
+    ISABELLE.
+Va vite, je me sens dans l'aise et dans la peine.  
+Tant que je l'aie vu, mon esprit agité  
+Ne peut être remis dans sa tranquillité,  
+Ha ! Prince malheureux.  
+
+
+## SCÈNE IV. Alcandre, Isabelle.
+
+    ALCANDRE.
+        Ha ! Princesse adorable,  
+Ne parlez point de moi comme dun misérable ;  
+Puisque je puis encor vous voir, et vous parler.  
+En bonheur avec moi qui se peut égaler ?  
+Que le Roi de ma mort se repaisse la vue,  
+J'y marche sans regret, puisque je vous ai vue :  
+Les coups que la fortune a contre moi lancés,  
+D'un seul de vos regards sont trop récompensés.  
+
+    ISABELLE.
+Je ne vous répons pas, Prince, le temps me presse.  
+Vous voyez ce que fait pour vous une Princesse.  
+Vous êtes hors du Fort : vos Gardes n'y sont pas.  
+Le pont-levis du Parc est ouvert. À cent pas  
+Un cheval vous attend, de l'argent et des armes.  
+Sauvez-vous, et jugez de mon coeur par les larmes.  
+Elle se porte un mouchoir au visage.
+
+
+    ALCANDRE.
+Me sauver, ma Princesse, et m'éloigner de vous ?  
+Abandonnez ces lieux où le ciel m'est si doux ?  
+Quand ici je serais accablé sous mes chaînes,  
+Quand j'y succomberais sous le faix de mes peines,  
+Puisque étant délivré je vous éloignerais,  
+Si on me délivrait je m'y renchaînerais.  
+Bien loin d'être en ces lieux prisonnier, j'y commande,  
+Je m'y garde moi-même, et ce que j'appréhende  
+Est moins le déplaisir de m'y voir enfermé,  
+Que celui de m'y voir malgré moi trop aimé.  
+
+    ISABELLE.
+Alcandre, ce discours passe ma connaissance,  
+Ou manque de lumière, ou moi d'intelligence.  
+
+    ALCANDRE.
+Je vais vous l'expliquer, Madame, en peu de mots.  
+Ma fortune mêlée et de biens et de maux,  
+Peut-être le sujet d'une aventure telle,  
+Qu'aucun Roman jamais n'en fournit de plus belle.  
+
+    ISABELLE.
+Mais quelqu'un viens avec Sulpice.  
+
+    ALCANDRE.
+        C'est celui,  
+Par qui j'ai le bonheur de vous voir aujourd'hui.  
+À mon déguisement il sert de couverture,  
+Et nous sommes mêlés dans la même aventure.  
+
+
+## SCÈNE V. Filipin, Sulpice, Alcandre, Isabelle, Sabine.
+Alcandre et Isabelle parlent bas.
+
+
+    FILIPIN.
+Je suis donc devenu grand Prince en un instant ?  
+
+    SULPICE.
+Vous ne fûtes jamais autre chose.  
+
+    FILIPIN.
+        Et pourtant  
+Il est vrai qu'hier au soir, j'étais encor moi-même,  
+Filipin.  
+
+    SULPICE.
+        Monseigneur, dans la douleur extrême  
+Que vous causent les fers d'une rude prison,  
+Vous parlez quelquefois en homme hors de raison.  
+
+    FILIPIN.
+Un homme hors de raison, n'est-ce pas en vulgaire  
+Un fou ?  
+
+    SULPICE.
+        Non tout à fait ; mais il ne s'en faut guère.  
+
+    FILIPIN.
+Je suis Prince et fou ?  
+
+    SULPICE.
+    L'un des deux.  
+
+    FILIPIN.
+        Et le Roi  
+De Sicile est mon père ?  
+
+    SULPICE.
+    Oui, Seigneur.  
+
+    FILIPIN.
+        Par ma foi  
+Je ne l'eusse pas cru : J'ai grand peine à le croire,  
+Et ne le croirai point.  
+
+    SULPICE.
+        Quoi de votre victoire,  
+Vous ne conservez pas le moindre souvenir ?  
+
+    FILIPIN.
+Non plus que...  
+
+    SULPICE.
+        Je vais donc vous en entretenir.  
+Vous parûtes, Seigneur, au milieu de la place  
+Avec votre air guerrier, et votre noble audace.  
+
+    FILIPIN.
+Est-il bien vrai ?  
+
+    SULPICE.
+        Le Prince Henry, neveu du Roi,  
+Courut six ou sept fois contre vous.  
+
+    FILIPIN.
+        Contre moi ?  
+
+    SULPICE.
+Oui, Seigneur : sous vos coups il mordit la poussière,   [23]
+Il fallut se sauver en forçant la barrière.  
+Vous fîtes le Démon.  
+
+    FILIPIN.
+    Peste !  
+
+    SULPICE.
+        Je vous joignis.  
+Il fallut trépaner tous ceux que j'atteignis.  
+
+    FILIPIN.
+N'en trépana-t-on point de ma façon ?  
+
+    SULPICE.
+        Personne :  
+Car quand vous vous battez, votre bras toujours donne  
+Du fendant, non du plat. Or donc pour revenir  
+Au récit commencé, qu'il faut enfin finir.  
+
+    FILIPIN.
+Ne vous pressez pas tant, je me plais à l'entendre.  
+
+    SULPICE.
+On nous suivit bien vite, ô ! Mon bon maître Alcandre !  
+Mais nous fûmes aussi bien vite, et fîmes bien,  
+Ou l'on nous attrapait tous deux en moins de rien,  
+Nous gagnâmes, enfin, une roche fort haute,  
+Nos chevaux par malheur, peut-être par leur faute,  
+Se rompirent le cou, l'on nous surprit armé,  
+Et l'on vous a depuis dans ce fort enfermé,  
+Où vous faites le fou de peur que votre Altesse  
+Ne soit connue ici : mais de votre finesse,  
+Vous ne tirerez pas beaucoup d'utilité  
+Puisqu'on est informé de votre qualité.  
+
+    FILIPIN.
+Vous croyez qu'on la sait ?  
+
+    SULPICE.
+        Je n'en fais point de doute.  
+
+    FILIPIN.
+Et moi, si je la sais, puissé-je ne voir goutte,  
+Et de la savoir mieux, je le donne au plus fin.  
+Si bien qu'on ne veut plus que je sois Filipin.  
+Quand je vois mon habit ; quand je vois qu'on me garde ;  
+Quand je vois maints soldats armés de hallebardes ;  
+Qu'on me sert, que je bois en trou, mange en pourceau,  
+Que je dors à souhait, dans un lit bon et beau,  
+Je crois sans davantage en rechercher la cause,  
+Que si je ne suis Prince, il s'en faut peu de chose.  
+Ensuite de cela, vient ce menteur maudit  
+Me bouleverser l'âme avecque son récit.  
+Il m'appelle son maître, et me dit à ma face,  
+Que je suis fils d'un Roi : puis dans une grand place  
+Me fait paraître armé, comme on dit, jusqu'aux dents,  
+Me fait tuer un Prince, et donner des fendants,  
+Tandis qu'il donne aussi des coups dont on trépane.   [24]
+Puis il dit, que chacun devant moi fait la cane,  
+Devant moi, que la peur fait plonger en canard.   [25]
+Et puis toujours monté sur mon cheval Bayard,  
+Me fait en moins de rien traverser des campagnes ;  
+Ensuite trébucher du sommet des montagnes  
+À me rompre le cou ; puis me fait prendre armé  
+Et se trouve avec moi dans un fort enfermé.  
+Ces deux derniers malheurs sont à moi : mais les autres  
+Ce menteur malgré moi, les met parmi les nôtres.  
+Si comme me soutient ce hardi compagnon,  
+Je suis Prince : je suis un prince Champignon  
+Venu dans une nuit.  
+
+    SULPICE.
+        Cela pourrait bien être.  
+
+    FILIPIN.
+Tout cela supposé, je veux trancher du maître.  
+Sulpice ?  
+
+    SULPICE.
+    Quoi, Seigneur ?  
+
+    FILIPIN.
+        Qui cause en ce coin-là ?  
+
+    SULPICE.
+C'est l'Infante.  
+
+    FILIPIN.
+        L'Infante ! Appelle, appelle-la.  
+Que nous voyons un peu comme est fait une Infante.  
+À la voir, celle-ci paraît divertissante.  
+Isabelle à part avec Alcandre.
+ [26]
+Ma cousine est à craindre en ce rencontre-ci.  
+
+    ALCANDRE.
+C'est elle seulement qui m'inquiète aussi.  
+Les autres ne sont rien, ou ne sont pas à craindre.  
+
+    ISABELLE.
+Vous êtes donc d'avis que nous cessions de feindre.  
+
+    ALCANDRE.
+Oui, c'est le seul moyen, par lequel aisément,  
+Nous pouvons découvrir du Roi le sentiment.  
+Faisons de notre amour à plusieurs confidence :  
+Ou quelqu'un d'eux, ou tous, par l'humaine impuissance  
+De ne pouvoir longtemps un secret conserver,  
+Dira le nôtre au Roi, qu'il faut lors observer.  
+S'il apprend sans courroux cette importante affaire,  
+Nous nous découvrirons sans craindre sa colère.  
+Et s'il s'emporte, alors je vous enlèverai ;  
+De cent vaisseaux armés Naple j'effraierai.  
+Le peuple craint la guerre, il prendra notre cause,  
+Voyant, quoique plus fort, que la paix je propose ;  
+Nos amis agiront, et mous aurons pour nous,  
+Le repos de l'État si nécessaire à tous.  
+
+    ISABELLE.
+J'y vois de l'apparence, il faut aujourd'hui même,  
+Jeter les fondements de notre stratagème.  
+
+    FILIPIN, À L'UN DES BOUTS DU THÉÂTRE.
+Et l'Infante ? Sulpice.  
+
+    SULPICE.
+        Elle s'en va venir.  
+
+    FILIPIN.
+Elle tarde longtemps : se fait-elle tenir ?  
+Ho, ho, vous êtes donc ce qu'une Infante on nomme ?  
+Telle que vous voilà vous valez bien un homme,  
+Peste ! Qu'elle est bien faite, et qu'elle donnera  
+De beaux et grands enfants à qui l'épousera.  
+Nous pourrions bien un jour, moi Prince, elle Princesse,  
+Pour ne pas succomber à l'humaine faiblesse,  
+En pompeux appareil, dans Naple aux yeux de tous,  
+Jouer le personnage, et d'épouse, et d'époux.   [27]
+J'en veux dire deux mots au Roi de Partenope :  
+Au reste, ma moitié doit être Pénélope,  
+N'entretenir jamais d'homme en particulier,  
+Comme présentement vous faites mon Geôlier.  
+Et vous qui me semblez bête un peu trop privée,  
+Pour Geôlier, votre mine est beaucoup relevée ;   [28]
+Ou décoquetez-vous, ou si nous sommes joints,  
+Vous n'approcherez pas ma femme sans témoins ?  
+Ou vous vous laisserez tailler comme un Eunuque,  
+Et raser jusqu'au cuir votre longue perruque.  
+Oui, pour mieux établir notre tranquillité  
+Je veux que l'on renonce à sa virilité.  
+
+    ISABELLE.
+Vous êtes bien jaloux.  
+
+    FILIPIN.
+        Et plus que vous ne direz.  
+Les conversations seront très interdites  
+À ma femme, et sur tout ce qu'on nomme cadeaux,   [29] [30]
+Trébuchets inventés par les godelureaux.  
+
+    ALCANDRE.
+Comment un paysan peut-il savoir ces choses ?  
+
+    FILIPIN.
+Vous ne croyez donc pas dans les métamorphoses ?  
+Paysan dites-vous ? Apprenez idiot,   [31]
+Que l'on peur devenir Prince de pied d'écot ;  
+Que depuis deux soleils aux champs comme à la ville,  
+Je suis le fils aîné du grand Roi de Sicile.  
+Je ne sais pas comment : mais je m'en trouve bien.  
+Et ne changerais pas ma qualité pour rien.  
+Feu mon oncle du bourg était maître d'école,  
+Il avait du savoir, quoique la tête folle,  
+Le pédant me faisait lire à devenir fou,  
+Ce que je dis est pris, je ne puis dire où,   [32]
+Ne vous étonnez point des disparates nôtres,  
+Si nous nous fréquentons, vous en verrez bien d'autres.  
+
+    ISABELLE.
+Son discours me surprend.  
+
+    ALCANDRE.
+        Il me surprend aussi.  
+Sabine entre.
+
+Le Roi vient d'arriver.  
+
+    ISABELLE.
+        Qu'on l'ôte donc d'ici,  
+Sabine tenez-vous cependant à la porte,  
+Je veux parler au Roi de chose qui m'importe.  
+
+    SULPICE.
+Il nous importe à nous de sortir promptement.  
+Mon Prince, retournons dans votre appartement.  
+
+    FILIPIN.
+Si je veux.  
+
+    SULPICE.
+        Non, non, Prince, il n'est Prince qui tienne,  
+Si le Roi vient, il faut que votre Altesse vienne.  
+
+
+# ACTE IV.
+
+
+## SCÈNE I. Constance, Alcandre.
+
+    CONSTANCE.
+Les avez-vous ouïs les discours de l'Infante ?  
+
+    ALCANDRE.
+Oui, Madame, et de plus, l'affaire est importante,  
+Elle n'offrait pas moins au Prince prisonnier,  
+Le premier des brutaux, des hommes le dernier :  
+Qu'un cheval, de l'argent, des armes, un navire ;  
+Enfin de le sauver.  
+
+    CONSTANCE.
+        Qu'est-ce qu'amour inspire ?  
+Si c'est lui, qui produit en elle un tel effet,  
+Pour un Prince qu'on dit avoir l'esprit mal fait.  
+L'avez-vous bien ouïe ?  
+
+    ALCANDRE.
+        Autant que si moi-même  
+Je l'eusse entretenue.  
+
+    CONSTANCE.
+        Il faut bien qu'elle l'aime.  
+Qu'a dit le prisonnier.  
+
+    ALCANDRE.
+        Qu'ayant donné sa foi,  
+Pourvu qu'on le traitât comme le fils d'un Roi,  
+Contre ses ennemis de ne rien entreprendre,  
+Qu'il allait de l'honneur d'un Prince comme Alcandre,  
+De garder sa parole, et qu'il la garderait,  
+Quand le Roi par sa mort la sienne fausserait.  
+
+    CONSTANCE.
+Ce Prince a de l'honneur, quoi que de lui on die  
+Que son âme est mal faite autant qu'elle est hardie.  
+Je vois venir l'Infante, Ascagne, éloignons-nous.  
+
+
+## SCÈNE II. Isabelle, Sabine.
+
+    ISABELLE.
+Personne ne saurait m'y mieux servir que vous.  
+
+    SABINE.
+Madame, ce secret est de ceux que l'on cache.  
+
+    ISABELLE.
+Peut-être fais-je mal de vouloir qu'on le sache :  
+Mais je veux qu'on me serve, et sans chercher pourquoi,  
+Qu'on fasse aller ce bruit de la Cour jusqu'au Roi.  
+
+    SABINE.
+Si vous me commandiez de garder le silence,  
+Peut-être manquerais-je à mon obéissance :  
+Mais quand vous m'ordonnez de ne le garder pas,  
+Vous m'imposer des lois pour moi pleines d'appas.  
+
+    ISABELLE.
+Divulgue ce secret avec quelque mystère,  
+Fais croire que j'ai peur qu'il soit su de mon père,  
+Et surtout prends bien garde à ne pas découvrir,  
+Que c'est Alcandre et moi, qui le faisons courir  
+
+
+## SCÈNE III. Isabelle, Constance, Sabine.
+
+    ISABELLE.
+Ma cousine, j'ai vu ce Prince déplorable,  
+Et je vous en serai pour jamais redevable,  
+Je ne l'oublierai pas, et je vous le rendrai,  
+Dans les occasions que j'en rencontrerai.  
+
+    CONSTANCE.
+Par si peu de service avoir bien pu vous plaire  
+C'est sans l'avoir gagné recevoir son salaire :  
+Mais l'avenir pourra réparer le passé.  
+
+    ISABELLE.
+Ce service est plus grand que vous n'avez pensé,  
+Car enfin ma cousine afin de vous apprendre,  
+Le sujet qui m'oblige à venir voir Alcandre.  
+Sachez, ô Dieu ! J'ai honte, et ne puis révéler  
+Sans rougir un secret, que je devrais celer.  
+Sachez donc que l'estime, et que la valeur haute,  
+De ce Prince captif m'ont fait faire une faute :  
+Si c'est faillir d'avoir laissé prendre son coeur,  
+À celui dont le bras n'est jamais que vainqueur.  
+
+    CONSTANCE.
+La vaillance est aimable, il est vrai ; mais Madame,  
+Alors que la vaillance est seule dans une âme,  
+Et que d'autres vertus ne l'accompagnent pas,  
+Cette vaillance alors n'a pas beaucoup d'appas.  
+
+    ISABELLE.
+Les goûts sont différents.  
+
+    CONSTANCE.
+        Et même l'on publie,  
+Que ce Prince insensé mérite qu'on le lie.  
+
+    ISABELLE.
+Vous ne connaissez pas Alcandre, et je vois bien  
+Que vous prenez pour lui, ce qui de lui n'a rien.  
+
+    CONSTANCE.
+Je ne m'ingère pas de blâmer votre flamme,  
+Ayant à reprocher même chose à mon âme :  
+Car enfin, puisqu'il faut que je rougisse aussi,  
+J'aime, et le cher vainqueur qui m'a prise est ici.  
+
+    ISABELLE.
+Et c'est ?  
+
+    CONSTANCE.
+        Cet étranger Espagnol,  
+
+    ISABELLE.
+        Qui ? Le même  
+Qui dans le fort commande ?  
+
+    CONSTANCE.
+    Oui.  
+
+    ISABELLE.
+    Vous l'aimez ?  
+
+    CONSTANCE.
+        Je l'aime.  
+
+    ISABELLE.
+C'est trop vous oublier dans votre qualité.  
+
+    CONSTANCE.
+L'amour est bien souvent une nécessité.  
+
+    ISABELLE.
+Il ne faut point avoir de passion honteuse.  
+
+    CONSTANCE.
+Celle que j'ai pour lui n'est pas impétueuse,  
+Et ne m'a point portée à lui faire accepter,  
+Les chevaux et l'argent dont je puis l'assister.  
+
+    ISABELLE.
+Je crois que vous avez dessein de me déplaire ?  
+
+    CONSTANCE.
+Quand on est trop poussée, on a peine à se taire.  
+C'est pourquoi je fais bien de m'éloigner de vous.  
+
+    ISABELLE.
+Oui, tu me fais plaisir d'éviter mon courroux.  
+
+
+## SCÈNE IV. Alcandre, Isabelle, Constance.
+
+    ALCANDRE.
+Madame je reviens...  
+
+    ISABELLE.
+        Où reviens-tu ? Perfide,  
+Qui joint le nom d'ingrat à celui d'homicide.  
+
+    ALCANDRE.
+Moi, Madame, un ingrat ?  
+
+    ISABELLE.
+        Non, non, tu ne l'es pas,  
+Et Constance pour toi n'est pas pleine d'appas ?  
+Qui l'a si bien reçue dans son âme amoureuse,  
+Ne peut assez vanter la sienne généreuse.  
+
+    ALCANDRE.
+Que vous ai-je donc fait digne d'un tel dépit ?  
+
+    ISABELLE.
+Et que n'as-tu point fait ? Et que n'as-tu point dit ?  
+
+    ALCANDRE.
+Je me sens innocent.  
+
+    ISABELLE.
+        Je te trouve infidèle  
+Tu ne divertis point aux dépens d'Isabelle,  
+Constance ? Et tu n'as point le secret découvert  
+Des armes, de l'argent, et du cheval offert ?  
+
+    ALCANDRE.
+Il est vrai que je viens de le dire à Constance.  
+
+    ISABELLE.
+Découvrir un secret de cette conséquence !  
+
+    ALCANDRE.
+N'étions-nous pas d'accord qu'il serait publié ?  
+
+    ISABELLE.
+Je veux bien avouer de l'avoir oublié,  
+Et même d'avoir fait une faute importante :  
+Mais tu ne peux nier que tu trahis l'Infante ;  
+Que Constance l'emporte, et que tu l'aimes mieux ;  
+Me crois-tu sans esprit ?  
+
+    ALCANDRE.
+        Me croyez-vous sans yeux ?  
+
+    ISABELLE.
+Tu ne l'aimerais pas ?  
+
+    ALCANDRE.
+        Je l'aimerais, Madame,  
+Après vous avoir fait maîtresse de mon âme ?  
+
+    CONSTANCE PARAÎT CACHÉE EN UN COIN DU THÉÂTRE.
+Je puis les écouter d'ici secrètement.  
+
+    ISABELLE.
+Après t'avoir reçu si favorablement,  
+Lui peux-tu refuser...  
+
+    ALCANDRE.
+        De vous être infidèle :  
+Hors cela je ferais toute chose pour elle.  
+
+    ISABELLE.
+Ha, ne m'en dis pas tant.  
+
+    ALCANDRE.
+        Ce qu'elle a fait pour nous  
+Demeure en mon esprit.  
+
+    ISABELLE.
+        Et rend le mien jaloux.  
+Je veux te l'avouer, mon superbe courage,  
+N'estime point un bien, qu'avec moi l'on partage.  
+Où je n'aurai pas tout, je ne veux rien avoir :  
+Il faut ne la voir plus, ou bien ne me plus voir.  
+
+    ALCANDRE.
+Quoique un peu maltraité de cette jalousie,  
+J'en ose toutefois flatter ma fantaisie,  
+Et j'en ose inférer que je suis bien heureux,  
+Que vous m'aimez autant, que je suis amoureux.  
+
+    ISABELLE.
+N'aime donc plus Constance.  
+
+    CONSTANCE CACHÉE.
+        Et que dira ce traître ?  
+
+    ALCANDRE.
+Madame, je ne puis l'aimer, et vous connaître :  
+Mais je puis sans manquer à ce que je vous dois,  
+Lui rendre mes devoirs.  
+
+    ISABELLE.
+        C'est trop faire à la fois.  
+
+    ALCANDRE.
+Votre miroir devrait vous ôter ces ombrages.  
+Y pouvez-vous bien voir les riches avantages,  
+Dont le ciel vous pourvut si libéralement,  
+Et craindre qu'on vous puisse enlever un amant ?  
+Ce n'est pas aux beautés rares comme la vôtre,  
+Que l'on peut disputer un coeur comme le nôtre,  
+Constance a des appas, mais devant vous elle est,  
+Comme un feu qui pâlit quand le soleil paraît.  
+
+    CONSTANCE.
+Je confesse qu'il m'a richement comparée.  
+
+    ISABELLE.
+S'il est vrai que ton coeur ne l'ait point adorée.  
+Ne me la nomme point, ne m'en parle jamais.  
+Oses-tu le promettre ?  
+Isabelle sort.
+
+
+    ALCANDRE.
+        Oui, je vous le promets.  
+Ô Dieu !  
+
+
+## SCÈNE V. Constance, Alcandre, Sulpice.
+
+    CONSTANCE.
+        Tu le promets ? Tiendras-tu ta parole ?  
+Trop téméraire amant d'une Princesse folle ?  
+Et ce feu qui pâlit à l'aspect du soleil,  
+À ton avis, ingrat, est-il à moi pareil ?  
+Me cacher ton pays, ton nom et ta naissance :  
+Faire aller jusqu'à moi ta lâche médisance,  
+Est-ce savoir bon gré d'un asile accordé ?  
+Et d'avoir plus reçu que tu m'as demandé ?  
+Ce n'est pas d'aujourd'hui que ton âme est éprise :  
+Ce n'est pas sans dessein qu'un méchant se déguise.  
+Mais pour mon intérêt, par celui de l'État,  
+On saura les motifs d'un pareil attentat.  
+Adore ton Infante, ose tout pour lui plaire,  
+Je m'en vais révéler son bonheur à son père ;  
+Je m'en vais me venger, et sur elle et sur toi,  
+Et de sa jalousie, et de ton peu de foi.  
+
+    ALCANDRE.
+Si pour vous apaiser il ne faut que ma vie,  
+Je consens sans regret qu'elle me soit ravie.  
+
+    CONSTANCE.
+Ha ! Garde pour l'Infante un si beau sentiment,  
+On ne me trompe pas deux fois facilement.  
+
+    ALCANDRE.
+Ne vous avoir point dit que j'adore Isabelle,  
+Et que de ses captifs je suis le plus fidèle,  
+Si c'est être un ingrat, et si c'est vous trahir,  
+Vous ne me sauriez trop mépriser ni haïr,  
+Et ce crime sera d'autant moins rémissible,  
+Que de m'en repentir, il ne m'est pas possible :  
+Mais vous avoir promis de ne perdre jamais  
+Le souvenir...  
+
+    CONSTANCE.
+    De quoi, Traître ?  
+
+    ALCANDRE.
+        De vos bienfaits.  
+
+    CONSTANCE.
+Ha de mon mauvais choix ! C'est me faire reproche,  
+Laisse-moi, j'en sais trop : mais le Toi qui s'approche  
+En va savoir assez pour t'apprendre, étranger,  
+Que je te puis punir, si j'ai pu t'obliger.  
+Viens voir de quelle ardeur, je cours à ma vengeance.  
+Sire, dans ma douleur j'aurais de l'allégeance,  
+Si d'un frère, d'un Prince aimable, et plein d'appas,  
+Le trépas se vengeait par un autre trépas :  
+Mais du feu que l'amour aux jeunes coeurs inspire  
+L'Infante...  
+
+
+## SCÈNE VI. Le Roi, Constance.
+
+    LE ROI.
+        Je sais bien ce que vous voulez dire,  
+L'Infante est imprudente, et j'en meurs de douleur.  
+Les obligations du sang, et de l'honneur  
+Quand je serais pour vous sans la moindre tendresse,  
+Inspirent la vengeance à mon esprit sans cesse.  
+Mais un Roi ne doit point agir légèrement.  
+
+    CONSTANCE.
+Il doit encore moins agir timidement.  
+De tout temps, la craintive, et molle politique  
+Est à récompenser comme à punir inique.  
+Un crime est avoué quand il est impuni.  
+Par votre sang versé votre nom est terni.  
+Ce sang est d'un neveu que l'on vous a vu plaindre,  
+Celui qui le versa ne vous est plus à craindre ;  
+Cependant votre bras qui doit l'exterminer,  
+Est à ce que l'on dit prêt à le couronner ;  
+C'est le bruit de la Cour, et que même l'Infante...  
+
+    LE ROI.
+Ma nièce, votre humeur est un peu violente.  
+Le temps vous fera voir.  
+
+    CONSTANCE.
+Elle s'en va.
+
+        Que j'ai perdu le mien,  
+Que je suis malheureuse, et que vous n'aimez rien.  
+
+    LE ROI.
+Dieu le sait si je l'aime, et si j'aimai son frère.  
+Il faut tout endurer d'une Dame en colère,  
+Et n'en être pas moins et bon oncle et bon Roi :  
+Mais Licaste paraît avoir affaire à moi,  
+Me voulez-vous parler ?  
+
+
+## SCÈNE VII. Licaste, Le Roi.
+
+    LICASTE.
+        Sire, Naple alarmée  
+De l'abord imprévu d'une puissante armée,  
+Que le frère d'Alcandre amène à sa faveur,  
+Croit que votre retour dissipera sa peur.  
+Le Héraut de ce Prince en un moment arrive,  
+Et l'on ne doute point que le Prince ne suive.  
+Il demande son frère, et devant tout traité,  
+Il veut absolument qu'il soit en liberté,  
+Naple croit que l'on peut dissiper cet orage,  
+Par une bonne paix, par un bon mariage.  
+
+    LE ROI.
+Je ne veux point d'Alcandre, et veux bien de la paix.  
+
+    LICASTE.
+La paix sans un Hymen ne se fera jamais.  
+L'Infante tel qu'il est.  
+
+    LE ROI.
+        Folle qu'elle est l'adore.  
+Mais dois-je consentir, ce qui me déshonore ?  
+D'un Prince sans esprit me faire un successeur ?  
+
+    LICASTE.
+La prison peut l'avoir jeté dans ce malheur ;  
+Car devant son esprit égalait sa vaillance.  
+
+    LE ROI.
+On règne sans courage, et jamais sans prudence.  
+
+    LICASTE.
+L'Infante pourrait bien l'allant voir en prison,  
+Lui redonner la joie avecque la raison.  
+
+    LE ROI.
+Elle vient à propos, essayons ce remède,  
+Une affaire importante a besoin de votre aide,  
+Ma fille, et vous pouvez votre père obliger,  
+Rendant une visite à ce Prince étranger.  
+
+
+## SCÈNE VIII. L'Infante, Le Roi, Licaste.
+
+    ISABELLE.
+Je veux bien l'aller voir, s'il faut que je le voie.  
+
+    LE ROI, SEUL.
+Ses yeux m'auraient appris son secret par leur joie,  
+Qu'on le fasse venir, et cependant il faut  
+Tâcher de découvrir le secret du héraut.  
+Licaste, j'en remets le soin à votre adresse.  
+Licaste sort.
+
+Ce Prince dont l'esprit accablé de tristesse,  
+N'est pas à ce qu'on dit, tel qu'il fut autrefois,  
+A d'autres qualités digne de votre choix.  
+Au bien de leur État les suprêmes puissances,  
+Plutôt qu'à leurs désirs règlent leurs alliances ;  
+Le valeureux Alcandre est fils aîné d'un Roi ;  
+Une flotte en nos bords va nous donner la loi ;  
+On nous offre la paix pourvu qu'en hyménée,  
+Vous soyez à ce Prince avec Naples donnée ;  
+Consultez-vous, ma fille, et ne craignez jamais  
+Que je vous sacrifie afin d'avoir la paix.  
+
+    ISABELLE.
+Et moi, Sire, je suis toute prête à tout faire  
+Pour le bien de la paix, pour l'honneur de vous plaire.  
+
+    LE ROI. [33]
+Qu'il est aisé de voir ce qu'elle peut celer !  
+
+    LICASTE.
+Alcandre est à la porte, il allait prendre l'air  
+Suivant l'ordre donné de relâcher ses chaînes.  
+
+
+## SCÈNE IX. Filipin, Le Roi, Isabelle, Licaste, Sabine, Alcandre.
+
+    FILIPIN.
+Je vous vois donc ici beau sujet de mes peines,  
+Et quel est ce vieillard si grave ?  
+
+    SULPICE.
+        C'est le Roi.  
+
+    FILIPIN.
+Ils ne sont donc pas faits d'autre façon que moi.  
+Et foin, je devrais bien en Roi mieux me connaître,  
+Depuis deux ou trois jours ayant l'honneur d'en être :  
+Mais un Prince tardif depuis peu transplanté,  
+Peut quelquefois sortir hors de principauté.  
+Mon Altesse sait mal encor comme on en use,  
+Dans l'art, et même aussi dans les termes s'abuse :  
+Mais alors que j'aurai dans le métier vieilli,  
+Qu'on me donne cent coups lorsque j'aurai failli.  
+Le temps amène tout. Sulpice donnez ordre,  
+Et ce sans y trouver à redire ni mordre,  
+Qu'on me serve à dîner de ces poulets de grain,  
+Et que par-dessus tout la soupe abonde en pain.  
+J'aime aussi ces pâtés qu'on sert sur une assiette,  
+Que l'on m'en serve au moins la douzaine complète.  
+Les Princes n'osent-ils manger du Parmesan ?  
+J'en étais fort friand quand j'étais paysan.   [34]
+Sulpice sur mon coeur cette belle Infantine,  
+Fera de grands progrès avec sa bonne mine.  
+Comment diable ? Ses yeux me sont autant d'éclairs,  
+Non pas de ceux qui font scandale dans les airs ;  
+Mais qui sans faire bruit nous surprenant la vue,  
+Se font jusques au coeur passage à l'imprévue.  
+
+    LE ROI.
+Ce Prince est sans remède, et ma fille sans yeux  
+D'aimer un tel brutal.  
+
+    FILIPIN.
+        Vous êtes sérieux  
+Roi de Naple, et je lis en votre front sévère,  
+Que vous ferez sans doute un très fâcheux beau-père :  
+Laissez-nous ici seuls, parmi les jeunes gens,  
+Les vieillards son toujours des animaux changeants.  
+
+    LE ROI.
+Licaste, eusses-tu cru pareille extravagance ?  
+Avec un Prince tel peut-on faire alliance ?  
+Un État tel qu'il soit est-il bien soutenu  
+D'un Prince né peu sage, ou bien tel devenu ?   [35]
+Ha je ne voudrais pas, ni pour fils ni pour gendre,  
+Le plus vaillant des Rois, qui fut fou comme Alcandre.  
+
+    FILIPIN.
+Que dites-vous tout bas, le visage contrit.  
+Vous avez par ma foi quelque chose en l'esprit,  
+J'aime les joviaux, et n'aime pas les sages,  
+Qui craignent en riant de froncer leurs visages.  
+Réjouissez-vous donc, et que cet air obscur,  
+Disparaisse du front d'un beau-père futur.   [36]
+Je vous veux rendre gai par une chansonnette  
+Sur certaines amours depuis peu par moi faite.  
+CHANSON.
+
+Qui surprendra Filipin  
+Soir ou matin,  
+Sans avoir pris de son vin  
+Sera bien fin,  
+Il n'a jamais de chagrin  
+Et sa Mauricette  
+Est comme lui faite.  
+Cette bonne fille et moi  
+En bonne foi,  
+Plus heureux que Reine et Roi.  
+Chacun pour soi,  
+Ne vivrons qu'à notre Loi,  
+Si quelqu'un en souffle,   [37]
+Peste de maroufle.  
+Ô que nous deux esprits prompts !  
+Disputerons :  
+Mais nous nous apaiserons,  
+Et chasserons,  
+Tout autant que nous pourrons :  
+De nous la famine,  
+Et la triste mine.   [38]
+N'est-ce pas bien chanter, et mieux qu'un sansonnet ?  
+Donnez-moi votre voix, ou parlez du bonnet.  
+
+    LE ROI.
+Il faut que malgré moi pour un temps je me prive  
+De l'honneur de vous voir.  
+
+    FILIPIN.
+        Il faut que chacun vive,  
+Ne vous contraignez point : pour moi de mon côté  
+Je m'attends bien aussi de vivre en liberté.  
+
+    LE ROI.
+Je reviendrai bientôt retrouver votre Altesse.  
+
+    FILIPIN.
+Point si vous ne voulez, et que rien ne vous presse,   [39]
+Adieu jusqu'au revoir, soyez le bien sorti,  
+J'aurais bientôt sans vous quelque part pris parti.  
+Disons-nous des douceurs Princesse de mon âme,  
+J'aime ces mots d'amour, de martyre, de flamme,  
+De vos yeux sont mes Dieux ; enfin ces compliments,  
+Et ces termes choisis, qu'on lit dans les Romans.  
+Comment ! Tous deux à deux, au lieu de me répondre  
+Vous Geôlier trop coquet, que Dieu puisse confondre,  
+Vous un peu trop familière à Geôlier,  
+Vous Sulpice un peu trop avec moi familier,  
+Vous Sabine un peu trop avec lui familière,  
+Vous vous parlez tout bas, et me laissez derrière.  
+
+    SULPICE.
+Nous vous laissions parler.  
+
+    FILIPIN.
+        Ce n'était pas mal fait,  
+Car je suis de tout temps grand parleur en effet.  
+Mais pour bien converser, il faut qu'on se réponde,  
+Et l'on converse ainsi ce me semble en ce monde.  
+
+    SULPICE.
+Mon Prince, rions donc.  
+
+    FILIPIN.
+        Non avec vous fripon,  
+Qui sortez avec moi des bornes de bouffon.  
+Je me souviens fort bien de vos actions folles :   [40]
+Étant seuls, elles vont jusqu'à des croquignoles ;  
+Quand c'est devant le monde, aussitôt le respect,  
+Vous arrête les mains, et vous ferme le bec,  
+Je me souviens fort bien d'une nuit mal plaisante,  
+De mes orteils serrés d'uns corde coulante,  
+Je sais qui la tirait de nous deux ; et je sais  
+Que qui croit le plus était le moins blessé.  
+
+    SABINE.
+Et moi, mon Prince ?  
+
+    FILIPIN.
+        Et vous, Sabine la complice  
+De tous les attentats de l'insolent Sulpice,  
+La peste qu'en secret avec lui volontiers,  
+Vous coopéreriez à l'ouvrage d'un tiers,  
+Vous prenez le chemin d'une grande coquette :  
+Le temps découvrira si je suis bon Prophète.  
+
+    ISABELLE.
+Vous rougissez, Sabine.  
+
+    SABINE.
+        Et qui ne rougirait,  
+Des discours surprenants de ce fou maladroit ?  
+
+    FILIPIN.
+Capitaine ou Geôlier qui parlez à l'Infante,  
+Votre main est hardie ou plutôt insolente,  
+Elle serre la sienne, et sans l'en retirer,  
+La facile qu'elle est se la laisse serrer.  
+
+    ISABELLE.
+Je rougis à mon tour.  
+
+    FILIPIN.
+        Ô Madame Isabelle,  
+Si vous vous piquez moins d'être bonne que belle,  
+Qui sera votre époux, soit moi, soit étranger,  
+S'il n'est un franc stupide aura bien à songer.  
+
+    SULPICE.
+Il est malicieux comme un singe, et je meure  
+Si cette nuit il n'a plus d'une mauvaise heure.  
+
+    ALCANDRE.
+Je joue un personnage ici fort hasardeux.  
+Les Rois n'aiment jamais que l'on se moque d'eux,  
+Quand le Roi connaîtra le véritable Alcandre  
+Il vengera son sang que je viens de répandre.  
+
+    ISABELLE.
+Non, Prince : sur ce fou, puisqu'il le prend pour vous  
+Il aurait déjà fait éclater son courroux ;  
+Il suivra les conseils de l'humaine prudence,  
+Et pour avoir la paix oubliera la vengeance.  
+
+    ALCANDRE.
+Mais Constance aura dit ce qu'elle sait de moi.  
+
+    ISABELLE.
+Mieux qu'elle, et mieux que vous je sais l'humeur du Roi.  
+
+    ALCANDRE.
+Pourquoi vous vois-je donc si souvent inquiète ?  
+La Sicile nous offre une sûre retraite,  
+Je suis encor sans fers, vous disposez d'un Port,  
+Je puis vous enlever sans faire un grand effort.  
+
+    ISABELLE.
+Vous flattez mes désirs par là, je le confesse :  
+Mais, que devient par là l'honneur d'une Princesse.  
+
+    ALCANDRE.
+Je me tais.  
+
+    ISABELLE, LUI PARLE BAS.
+    Écoutez.  
+
+    FILIPIN.
+        Ou je suis sans raison,  
+Ou j'aperçois d'ici le haut de ma maison.  
+Je vois celle d'Othon qui mourut de trop boire  
+Et celle de Perrin, qu'on croit fils de Grégoire  
+Le Marguillier du Bourg. J'aperçois le figuier  
+Pour lequel j'ai procès avec le barbier,  
+C'est un maudit menteur. Le clocher du Village  
+Est tout juste en sa place, et je vois le bocage  
+Qui joins le pré commun, et je me trompe fort  
+Ou nous sommes ici dans le donjon du Fort   [41]
+Et par quel dessein donc, par quelle enchanterie.  
+Suis-je ici ? Suis-je Prince ? Aide-moi je te prie,  
+Sulpice, à découvrir la vérité du fait,  
+Je te pardonnerai tout ce que tu m'as fait,  
+L'eau mêlée en mon vin, les deux nuits mal passées,  
+Ces deux cordes d'Enfer en mes pieds enlacées,  
+Dont je me sens encor les orteils écorchés,  
+Et si ce ne sont pas des plus petits péchés.  
+
+    ALCANDRE.
+Sulpice, ôtez ce fou d'au près de la fenêtre  
+Il n'est pas temps encor qu'il s'aille reconnaître.  
+Voilà Licaste.  
+
+
+## SCÈNE X. Licaste, Alcandre, Isabelle, Sulpice, Filipin.
+
+    LICASTE.
+        Il faut, et tout présentement  
+Reconduire ce prince dans son appartement,  
+Et ne permettre pas que personne le voie.  
+C'est un ordre nouveau que le Roi vous envoie.  
+
+    ISABELLE.
+Que fait le Roi ?  
+
+    LICASTE.
+        Je crois qu'il va bientôt donner  
+Audience aux Hérauts que l'on vient d'amener.  
+On sait assurément que le frère d'Alcandre  
+Approche.  
+
+    ISABELLE.
+        Donnez-moi la main, je me veux rendre  
+De bonne heure au Conseil.  
+Licaste et l'Infante sortent.
+
+        On ne l'eût pas tenu  
+Sans votre Altesse.  
+
+    SULPICE.
+        Il faut comme l'on est venu  
+S'en retourner, mon Prince, et vite.  
+
+    FILIPIN. [42]
+        À la malheure  
+M'a-t-on fait fils de Roi.  
+
+    SULPICE.
+        Je crois que ce fou pleure.  
+
+    FILIPIN.
+Et qui ne pleurerait parmi ces enragés,  
+Que pour me tourmenter je crois qu'on a gagés.  
+
+
+# ACTE V.
+
+
+## SCÈNE I. Constance, Sulpice, Hélène.
+
+    CONSTANCE.
+Mais tu me dis encor qu'il n'a point nom Ascagne.  
+
+    SULPICE.
+Qu'il est sicilien, et qu'il n'est point d'Espagne.  
+
+    CONSTANCE.
+Pourquoi se cachait-il ?  
+
+    SULPICE.
+        Qui ne se fut caché ?  
+Voyant à quel dessein Alcandre était cherché :  
+Je me cachai bien moi, qui ne suis que Sulpice  
+Et non pas comme lui d'Alcandre le complice.  
+
+    CONSTANCE.
+Ils s'aiment fort.  
+
+    SULPICE.
+        Si fort, que ce n'est qu'un des deux,  
+Et l'on n'en vit jamais de si conformes qu'eux.  
+Ils ont été nourris dès leur bas âge ensemble,  
+Et bien plus que le sang l'amitié les assemble.  
+
+    CONSTANCE.
+Comment peut-on aimer un Prince sans esprit ?  
+
+    SULPICE.
+Mon Maître n'est pas tel que l'on vous l'a décrit.  
+
+    CONSTANCE.
+Mais dis-tu vrai, Sulpice, est-il parent d'Alcandre ?  
+
+    SULPICE.
+Et si semblable à lui qu'on s'y pourrait méprendre.  
+
+    CONSTANCE.
+Puisque Ascagne d'Alcandre est le vivant portrait,  
+Ascagne à l'esprit près, est un Prince bien fait.  
+
+    SULPICE.
+Madame, encor un coup jugez mieux de mon maître,  
+Il n'est pas la moitié si fou qu'on le croit être.  
+
+    CONSTANCE.
+Il est donc Prince Ascagne ?  
+
+    SULPICE.
+        Il est du sang Royal,  
+Mais n'est-ce point aussi pour lui faire du mal,  
+Que vous le demandez, je suis un pauvre hère,  
+Qui vous ai bonnement découvert ce mystère ;  
+Mon maître s'il le sait ne me verra jamais.  
+
+    CONSTANCE.
+Ne crains point, je tiendrai ce que je te promets.  
+Et quel est son vrai nom ?  
+
+    SULPICE.
+    Alcandre.  
+
+    CONSTANCE.
+        Est-il croyable ?  
+
+    SULPICE.
+Deux Princes peuvent bien avoir un nom semblable.  
+
+    CONSTANCE.
+Mais pour les distinguer ?  
+
+    SULPICE.
+        C'est fort bien objecté,  
+Il possède en Afrique une Principauté,  
+On le nomme à la Cour Prince de la Goulette,  
+Par sa valeur conquise, après l'ample défaite  
+De deux Rois circoncis de Tunis, et d'Alger,  
+Qui s'étaient joints ensemble afin de le charger.  
+
+    CONSTANCE.
+C'est assez.  
+
+    SULPICE SEUL, ET S'EN ALLANT.
+        J'ai menti longtemps sans perdre haleine.  
+
+    CONSTANCE.
+As-tu bien entendu ce qu'il m'a dit, Hélène.  
+
+    HÉLÈNE.
+J'ai bien ouï mentir.  
+
+    CONSTANCE.
+        Pourquoi l'aurait-il fait ?  
+
+    HÉLÈNE.
+Pourquoi vous aurait-il appris un tel secret ?  
+
+    CONSTANCE.
+Est-il plus réservé pour celui de son Maître ?  
+Ha je ne crois que trop ce qu'il m'a dit d'un traître :  
+Mais le Roi m'a promis un époux à mon choix,  
+Tu verras ma vengeance, et ma gloire à la fois.  
+Elle en aura l'affront la jalouse Isabelle,  
+Rivale, que je hais d'autant plus qu'elle est belle.  
+Allons parler au Roi, puis qu'aussi bien mes yeux  
+Découvrent un objet qui leur est odieux.  
+
+
+## SCÈNE II. Alcandre, Sulpice.
+
+    ALCANDRE.
+Elle a jeté sur moi ses yeux pleins de furie,  
+Cette beauté qui m'aime, et qui poursuit ma vie :  
+Mais qu'ai-je à redouter de ses yeux irrités ?  
+Favorisé de ceux qui sont mes déités.  
+Sulpice paraît.
+
+
+    SULPICE.
+Je vous cherchais, seigneur, l'avez-vous rencontrée ?  
+
+    ALCANDRE.
+Qui ?  
+
+    SULPICE.
+    Constance.  
+
+    ALCANDRE.
+        À ma vue elle s'est retirée  
+Me regardant d'un oeil enflammé de courroux.  
+
+    SULPICE.
+Avec elle, Seigneur, j'ai bien menti pour vous :  
+Mais ma foi je prétends mentir à la pareille,  
+Et que vous mentirez quelque jour à merveille  
+Pour votre serviteur, comme présentement,  
+Il a fait pour son maître, et fort utilement.  
+De plus, je vous ai fait après l'ample défaite  
+Des deux Rois circoncis Prince de la Goulette,  
+Et ces Rois Africains...  
+
+    ALCANDRE.
+        Et que me dis-tu là ?  
+Es-tu fou ?  
+
+    SULPICE.
+        Fou ! Je suis tout autre que cela.  
+
+    ALCANDRE.
+Explique-toi donc mieux.  
+
+    SULPICE.
+        Sortons de cette salle  
+D'allants et de venants pleine comme une halle,  
+Qu'ainsi ne soit, voyez les jolis courtisans.  
+
+
+## SCÈNE III. Mauricette, Paysan.
+
+    MAURICETTE.
+Nous nous sommes aimés dès nos plus jeunes ans.  
+Un loup aura mangé dans le bois ce pauvre homme,  
+Je n'en ai pu depuis reposer d'un bon somme.  
+
+    PAYSAN.
+Ne pleurons point encor, il peut bien être allé  
+À Naple où les Soldats après l'avoir volé  
+L'ont assommé peut-être.  
+
+    MAURICETTE.
+        Et Dieu me soit en aide,  
+Tu me consoles-là par un plaisant remède ?  
+Soit mangé, soit tué, n'est-il pas toujours mort ?  
+
+    PAYSAN.
+Il est vrai : mais aussi pourquoi pleurer si fort ?  
+
+    MAURICETTE.
+Il devait m'épouser à la Saint Jean prochaine.  
+
+    PAYSAN.
+Pour un mort on t'en peut fournir une douzaine.  
+Ne laissons pas de voir venir l'Ambassadeur,  
+J'ai déjà vu le Roi, qui sent son Grand Seigneur,  
+Il est droit comme un jonc.  
+
+    MAURICETTE.
+        On dit que la Princesse  
+A de plus beaux habits que n'a notre Maîtresse.  
+
+    PAYSAN.
+Nous verrons tout.  
+
+    MAURICETTE.
+        On dit qu'elle aura pour mari  
+Un fou, qui l'autre jour tua le Prince Henri.  
+
+    PAYSAN.
+Ce sont des bruits du Bourg : sauvons-nous Mauricette  
+Le Roi vient.  
+
+
+## SCÈNE IV. Le Roi, Licaste, Sulpice.
+
+    LE ROI.
+        Ils sont donc descendus à Gaïette.  
+
+    LICASTE.
+Oui, Sire, avec grand ordre, et vous offrent la paix.  
+
+    LE ROI.
+Si l'on parle d'hymen, ils ne l'auront jamais  
+Je veux bien en leurs mains remettre leur Alcandre :  
+Mais j'aime mieux en faire un ennemi qu'un gendre.  
+
+    SULPICE.
+Sire, je viens apprendre à votre Majesté,  
+Que cet Ambassadeur qu'on vous a député,  
+Est le Prince lui-même.  
+
+    LE ROI.
+    Et quel Prince ?  
+
+    SULPICE.
+        Le frère  
+D'Alcandre.  
+
+    LE ROI.
+        Il ne s'est pas déguisé sans mystère.  
+On ne le laissera pas de le bien recevoir,  
+Pour le mettre en son tort, s'il manque à son devoir.  
+
+
+## SCÈNE V. Le Prince de Sicile, Isabelle, Le Roi, etc.
+
+    LE PRINCE DE SICILE, TENANT L'INFANTE PAR LA MAIN.
+Tant que j'aurai de vie, ô Princesse adorable ;  
+J'aurai devant les yeux cet accueil favorable :  
+L'honneur que je reçois de vous donner la main,  
+Tout mortel que je suis rend mon sort plus qu'humain.  
+
+    ISABELLE.
+La présence du Roi m'empêche de répondre.  
+
+    LE PRINCE.
+Et par trop de bontés d'achever de confondre  
+Un homme qui ne vient ici que vous offrir  
+Dix mille hommes, tous prêts de vaincre ou de périr.  
+
+    LE ROI.
+Prince, levez le masque, une héroïque mine  
+Fait d'abord reconnaître une illustre origine :  
+Mais je ne comprends pas, quel important secret  
+Un simple Ambassadeur d'un si grand Prince a fait.  
+
+    LE PRINCE.
+Il est vrai, le désir de voir bientôt Alcandre  
+M'a fait sans consulter ce dessein entreprendre.  
+Saurai-je maintenant de votre Majesté  
+Pourquoi ce Prince fut par votre ordre arrêté ?  
+La parole d'un Roi qui doit être sacrée  
+Donnait dans vos tournois aux étrangers entrée :  
+Par quel droit a-t-on pu traiter de criminel  
+Le glorieux vainqueur d'un combat solennel ?  
+
+    LE ROI.
+Je tairai les raisons que j'eus lors de le faire,  
+Puisqu'une bonne paix vous rendra votre frère.  
+
+    LE PRINCE.
+Rien ne peut l'établir, qu'un mariage heureux,  
+Qui donne à votre fille un époux valeureux,  
+Et pour jamais unit Naples à la Sicile.  
+
+    LE ROI.
+Ce mariage offert rend la paix difficile.  
+Un Prince sans esprit eut-il de la valeur,  
+De ma fille serait l'infaillible malheur,  
+Je souhaite la paix : mais la paix sera chère,  
+Qui me ferait donner ma fille à votre frère.  
+
+    LE PRINCE.
+Le monde a peu de Rois à mon frère pareils,  
+Son bras vous a moins nui que n'ont fait ses conseils,  
+Quoique ce bras souvent tant qu'a duré la guerre  
+Du sang de vos sujets ait fait rougir la terre.  
+
+    LE ROI.
+Alcandre et ses soldats si remplis de valeur,  
+En versant notre sang, y laissèrent du leur.  
+Parlez de vos exploits avecque modestie,  
+Ne vous attirez point quelque aigre répartie.  
+Vous, Licaste, amenez Alcandre : vous verrez  
+Bientôt ce sage frère, et vous en jugerez,  
+Et s'il est sous le ciel un plus fou personnage,  
+Moi-même je veux bien ne passer pas pour sage.  
+Prince, quand je verrais Naples prête à brûler,  
+Par le fer, et le feu mon État désoler,  
+Enfin quand je verrais ma fortune réduite  
+À chercher lâchement mon salut dans la fuite,  
+Si pour me délivrer de ce dernier malheur  
+On m'offrait la Sicile, Alcandre, et sa valeur,  
+Je mourrais mille fois dans Naples mise en cendre,  
+Plutôt que d'accorder ma fille à votre Alcandre :  
+Mais voilà ce cher frère, allez l'entretenir.  
+
+
+## SCÈNE VI. Filipin, Alcandre, Sulpice, etc. dans un balcon.
+
+    FILIPIN.
+Et pourquoi diable ici m'a-t-on donc fait venir ?  
+Sulpice, apprends-le moi ?  
+
+    SULPICE.
+        C'est pour voir votre frère.  
+
+    FILIPIN.
+Je n'en eus jamais qu'un qui mourut en galère.  
+
+    LE PRINCE.
+Vous vivez donc, mon frère, et je vous vois encor.  
+
+    FILIPIN.
+À qui s'adresse donc ce drôle couvert d'or ?  
+
+    SULPICE.
+À vous-même, c'est votre frère.  
+
+    FILIPIN.
+        À la bonne heure,  
+Je le méconnaissais ce cher frère ou je meure,  
+Et je veux de bon coeur qu'il le soit pour longtemps..  
+Ce nouveau fou nous va donner du passe-temps.  
+
+    LE PRINCE.
+Par le plaisir que j'ai d'être en votre présence,  
+Jugez comment j'ai pu supporter votre absence.  
+
+    ALCANDRE.
+Un Prince qui vous aime avecque passion  
+Ne doutera jamais de votre affection.  
+
+    ISABELLE SEULE.
+Il parle pour lui-même, et pour le faux Alcandre.  
+Et le Prince, et le Roi vont par là se méprendre.  
+
+    ALCANDRE.
+Alcandre sait assez combien il vous est cher.  
+
+    MAURICETTE.
+Perrin, nous n'avons plus Filipin à chercher,  
+Le voilà tout trouvé cette grande cage.  
+
+    FILIPIN.
+Je vois ma Mauricette, et Perrin, ha j'enrage !  
+Si je ne les vais voir de près, Fille de Dieu,  
+Hé qui me l'a mise ici ?  
+
+    SULPICE.
+        Mon cher Prince en ce lieu  
+Faut-il faire le fou.  
+
+    FILIPIN.
+        Fripon à toute outrance  
+Est-ce qu'en un balcon l'on garde le silence,  
+Quand d'un balcon l'on voit des gens qu'on connaît bien,  
+Ce balcon défend-il que l'on ne dise rien ?  
+
+    ALCANDRE.
+Sulpice, ôte ce fou.  
+
+    FILIPIN.
+        Le bourreau m'égratigne  
+En me tirant d'ici.  
+
+    LE ROI.
+        Prince ce frère insigne  
+Plus sage que vaillant en a-t-il fait assez  
+Pour vous désabuser.  
+
+    LE PRINCE.
+        Devant les gens sensés,  
+De ce que j'en ai vu l'on ne saurait conclure,  
+À moins que de passer pour la même imposture,  
+Qu'il soit fou.  
+
+    LE ROI.
+        Je vois bien qu'à moins d'être bien près  
+Vous ne discernez pas les objets faux ou vrais.  
+Il faut vous approcher : Licaste, qu'on amène  
+Le Prince Alcandre ici.  
+
+    LE PRINCE, SEUL.
+        Ma raison est mal saine,  
+Ou celle de ce Roi ne se porte pas bien.  
+
+    LE ROI.
+Je vous vais voir confus, Prince.  
+
+    LE PRINCE.
+        Je n'en crois rien.  
+
+
+## SCÈNE VII. Constance, Alcandre, Le Roi.
+
+    CONSTANCE.
+Sire, lorsque mes pleurs vous demandaient vengeance,  
+En vous seul ma douleur trouva de l'allégeance.  
+Vous me promîtes, Sire, et me dites cent fois,  
+Que vous me donneriez un époux à mon choix.  
+
+    LE ROI.
+Je vous le dis encor, et suis prêt de le faire.  
+Un bon époux vaut mieux encore qu'un bon frère :  
+Mais il le faut trouver.  
+
+    CONSTANCE.
+        Un Prince en votre Cour  
+Se cache, et paraîtra devant la fin du jour.  
+
+    LE ROI.
+De ce Prince caché je n'ai point connaissance.  
+Mais j'userai pour vous de toute ma puissance.  
+
+    CONSTANCE.
+Après un tel bienfait j'embrasse vos genoux.  
+
+    LE ROI.
+Non, non, faites plutôt paraître cet époux.  
+
+
+## SCÈNE VIII. Filipin, Sulpice, Le Roi, Le Prince, Constance, etc.
+
+    FILIPIN.
+Double fils de putain que je veux faire pendre.  
+
+    SULPICE.
+Ha, Seigneur.  
+
+    FILIPIN.
+        Tu sauras comme sait battre Alcandre.  
+
+    LE ROI.
+Quelle étrange rumeur ?  
+
+    FILIPIN.
+        Dans un passage obscur,  
+À moi qui craint surtout de tomber en lieu dur,  
+Ce traître et scélérat Ganelon m'a fait faire  
+Un saut tout de mon long de son pied téméraire,  
+Ha, je lui veux moi-même attacher le cordeau,  
+Ou donner pour le moins les ordres au bourreau.  
+
+    CONSTANCE, SEULE.
+N'ai-je point déjà vu quelque part son visage ?  
+
+    LE ROI.
+Vous avez pu juger, Prince, s'il est bien sage,  
+Par ce qu'il vient de faire, hé bien qu'en dites-vous ?  
+
+    LE PRINCE.
+À grand peine je puis retenir mon courroux,  
+Si de fous insensés votre cour est remplie :  
+Est-ce à dire qu'Alcandre ait part en leur folie.  
+
+    LE ROI.
+Vous le trouvez donc sage : avez-vous de bons yeux,  
+De ne connaître pas qu'il est fou furieux ?  
+
+    LE PRINCE.
+En avez-vous vous-même, et voyez-vous Alcandre ?  
+
+    LE ROI.
+Si je le vois, bon Dieu, pour qui m'osez-vous prendre ?  
+
+    LE PRINCE.
+Pour un Roi.  
+
+    LE ROI.
+        Mais à qui parliez-vous donc là-haut ?  
+
+    LE PRINCE.
+À lui, non pas au fou, qu'on me présente.  
+
+    LE ROI.
+        Il faut  
+Qu'un de nous deux ici des fous le nombre augmente.  
+Nous verrons lequel c'est. Approchez-vous Infante,  
+Et qu'on fasse venir celui qui le gardait.  
+
+    FILIPIN, POUSSANT LE ROI.
+Je me suis en tombant quasi rompu le doigt :  
+Mais, place, que je cherche ici ma Mauricette.  
+
+    CONSTANCE.
+Celui qui le gardait Prince de la Goulette,  
+Est-ce Prince inconnu dont je vous ai parlé.  
+
+    LE ROI.
+Quoi ! Ma nièce avez-vous aussi l'esprit troublé ?  
+Prince de la Goulette ! Un Africain ! Un Maure ?  
+
+    CONSTANCE.
+Non Sire, il est Chrétien.  
+
+    LE ROI.
+        Jusqu'ici j'ignore  
+Qu'aucun Prince Chrétien se qualifie ainsi.  
+
+    CONSTANCE.
+Suffit, que je le sache, et qu'il se trouve ici.  
+
+    LE PRINCE.
+Sire, dites-moi donc, qu'est devenu mon frère.  
+
+    LE ROI.
+Ha ! Cette question redouble ma colère,  
+Il est devant vos yeux.  
+
+    LE PRINCE.
+        Enfin c'est me jouer.  
+Je l'ai vu, je ne puis vous le désavouer :  
+Mais depuis qu'on l'a fait de ce balcon descendre  
+Je n'ai plus vu qu'un fou fort différent d'Alcandre.  
+
+    LE ROI.
+Nous ne connaissons point d'autre Alcandre que lui.  
+Sulpice parlant bas à Isabelle.
+
+Ces Princes ne pourront s'accorder d'aujourd'hui.  
+
+    LE PRINCE.
+Apparemment je dois bien connaître mon frère.  
+
+    LE ROI.
+Et je crois n'être pas aussi visionnaire.  
+
+    LE PRINCE, QUI VOIT ENTRER ALCANDRE.
+Ha, mon frère, venez faire connaître au Roi  
+Que nous ne sommes pas des fous, ni vous, ni moi.  
+
+    LE ROI.
+Est-ce là votre frère ?  
+
+    LE PRINCE.
+        Oui, Sire, c'est lui-même.  
+
+    ISABELLE.
+C'est ce Prince insensé qu'on vous a dit, que j'aime  
+Il me vit, il m'aima, je le vis, je l'aimai :  
+Quand j'ai surpris son coeur il a le mien charmé,  
+Votre choix eut-il pu vous acquérir un gendre  
+D'un mérite pareil au mérite d'Alcandre ?  
+
+    ALCANDRE.
+Je suis cet ennemi, je suis ce Prince heureux,  
+Qui portant jusqu'au ciel ses desseins amoureux,  
+À l'objet de ses yeux eut le bonheur de plaire.  
+Je ne vous puis nier ce qu'amour me fit faire,  
+Je sais quel est mon crime, et qu'à vous en parler  
+C'est aigrir votre plaie, et la renouveler.  
+Pour votre sang versé, qui vous coûta des larmes,  
+Je vous offre le mien et mon bras, et mes armes,  
+Un fils obéissant pour un neveu perdu.  
+
+    LE ROI.
+C'est avoir moins ôté que vous n'avez rendu :  
+Mais d'où nous est venu ce fou, ce faux Alcandre ?  
+
+    CONSTANCE.
+Personne ne saurait mieux que moi vous l'apprendre :  
+Mais, Sire, auparavant obtiendrai-je de vous,  
+Selon votre promesse un Prince pour époux ?  
+
+    LE ROI.
+Je vous la dois tenir puisque je vous l'ai faite.  
+
+    CONSTANCE PARLANT À ALCANDRE TOUT BAS.
+Ne vous cachez donc plus, Prince de la Goulette.  
+J'ai fait parler Sulpice, il m'a tout avoué.  
+À peine croirez-vous que vous êtes joué.  
+Sire, il est pourtant vrai, que l'Infante elle-même  
+Se sert pour vous jouer de ce Prince qu'elle aime,  
+Et qu'il n'est point Alcandre.  
+
+    ISABELLE.
+    Et qu'est-il donc ?  
+
+    CONSTANCE.
+        Il est  
+Son parent.  
+
+    ISABELLE.
+        Avez-vous en ce Prince intérêt ?  
+
+    CONSTANCE.
+J'ai celui que du roi la promesse me donne.  
+
+    LE ROI.
+Ma nièce votre erreur et m'afflige et m'étonne,  
+Ouvrez, ouvrez les yeux ce sont vos ennemis,  
+Qui vous ont en la tête un tel fantôme mis.  
+Celui que vous croyez un Prince imaginaire  
+Est Alcandre, ma nièce.  
+
+    CONSTANCE, QUI VOIT L'INFANTE ET ALCANDRE QUI RIENT, ET PARLENT BAS.
+        Oui, qui tua mon frère.  
+Un ingrat qui me joue, et par un lâche tour  
+Me tourne en ridicule envers toute la Cour.  
+
+    LE ROI.
+Constance, je vous plains de l'humeur dont vous êtes,  
+Ne vous prenez qu'à vous du mal que vous vous faites.  
+
+    CONSTANCE.
+Je me plains de l'affront qu'un perfide me fait,  
+D'un ingrat qui me rend le mal pour le bienfait.  
+
+    ALCANDRE.
+Madame, on ne saurait forcer ma destinée,  
+Vous êtes de vertus, et de grâces ornée  
+Et l'on rencontre en vous tous les riches trésors  
+Qui parent un esprit, et font aimer un corps :  
+Mais l'Infante, ornement de la terre où nous sommes,  
+Le chef-d'oeuvre des Dieux, la déité des hommes,  
+Devant que j'eusse encor eu l'honneur de vous voir,  
+Avait déjà réduit mon coeur sous son pouvoir.  
+Puisque je ne puis, donc disposer de mon âme,  
+Je vous offre mon frère, acceptez-le, Madame,  
+Vous gagnerez au change, il vaut bien mieux que moi.  
+Et son bras peut partout le faire bientôt Roi.  
+
+    LE ROI.
+Tirez votre bonheur d'une mauvaise affaire,  
+Ma nièce.  
+
+    CONSTANCE.
+        Je n'ai plus dessein que de vous plaire.  
+
+    LE PRINCE.
+Et vous aurez, Madame, outre ma liberté  
+Un empire absolu dessus ma volonté.  
+
+    ALCANDRE.
+Votre Majesté, Sire, aura plaisir d'apprendre  
+Par quelle erreur il s'est trouvé plus d'un Alcandre.  
+
+    LE ROI.
+J'y songeais, et comment s'est si bien pu cacher  
+Un Prince chez un Roi, qui le faisait chercher :  
+J'ai grande envie aussi, que quelqu'un interprète  
+Ce fantôme de Prince ou Roi de la Goulette.  
+
+    ALCANDRE MONTRANT SULPICE.
+Sulpice des mortels le plus grand imposteur  
+De ces enchantements est le fabricateur.  
+
+    FILIPIN.
+Est le fabricateur, à ce compte-là, Sire,  
+Je ne suis donc ici qu'un Prince à faire rire.  
+Il faut pourtant me semble agir de bonne foi,  
+Ne m'a-t-on pas traité toujours de fils de Roi ?  
+Dans Naples n'ai-je pas par un beau coup de lance  
+Fait voir à vos dépens, quelle était ma vaillance ;  
+Ne m'avez-vous pas dit qu'on me connaissait bien ?  
+Et qu'à me déguiser je ne gagnerais rien ?  
+Sulpice qui pourtant a toujours été traître  
+Ne m'a-t-il pas toujours appelé son cher Maître ?  
+Je puis par là conclure, et nécessairement  
+Que votre chef Royal a peu de jugement.  
+Pourquoi de boucliers cette grande levée ?  
+Pourquoi par des soldats ma personne enlevée ?  
+Prince, vous m'avez fait, tel vous me maintiendrez,  
+Ou le pays saura quel homme vous serez.  
+Je veux être toujours au champ comme à la ville,  
+Car je m'en trouve bien, fils du Roi de Sicile  
+Ou si ma qualité doit bientôt prendre fin,  
+Accordez Mauricette au moins à Filipin.  
+
+    LE ROI.
+De ce château Concierge, et Juge du village  
+Il peut quand il voudra la prendre en mariage.  
+
+    MAURICETTE.
+Je me pourrai vanter d'avoir pour mon époux  
+En un petit mari le plus grand fou des fous.  
+
+-------
+
+
+[1] v. 79, l'ortiginal porte "je me crois sauver", la prammaire impose "je me crois sauvé", sauf si l'on retient le possible : "je crois me sauver".
+
+[2] Malepeste : imprécation qu'on fait contre queloque chose, et quelquefois avec admiration. F
+
+[3] Germain : frère de père et de mère ; et il se dit à la différence de frères utérins. Se dit aussi des proches parents collatéraux, ou courins qui sont les enfants de deux frères ou de deux soeurs. F
+
+[4] Jouts : au lieu de "joutes" féminin. L'auteur privilégie la métrique du vers.
+
+[5] Joute : combat à cheval d'home à homme avec la lance. L
+
+[6] Thrace : Nom de peuple. Les thraces tiraient leur origine et leur nom de Thiras leur patricarche, fils de Japheth (Gen. X,2). (...) Les Dieux de Thrace étaient Diane, Bacchus, Mars, Mercure ... T. Ici, il s'agit de Mars, dieu de la guerre.
+
+[7] Carrière : se dit généralement à toute course, ou cours et mouvement. F Ici, Vite carrière : course rapide.
+
+[8] Phaéton : était le fils du Soleil et de la nymphe Clymène. Pour prouver sa filiation, il voulut prendre la conduite du char du Soleil mais ne sut maitriser les coursiers. Jupiter le foudroya pour éviter qu'il mette le Monde en feu.
+
+[9] Fanfaron : Homme qui fait de la vanité de sa bravoure, de sa naissance, de ses richesses, encore que le plus souvent il n'a rien de tout cela. F
+
+[10] Lanterner : fatiguer, importuner par des discours et des entretiens de néant. F
+
+[11] Esther : Juive, captive de Perse, ou dans la Susiane (pays de Suze) et que sa beauté rendit digne du lit d'Assuréus et du trône de Suze. Esther délivra les juifs ses compatriotes de la mort à laquelle Assuérus les avaient condamnés par les conseils d'aman son favori. T
+
+[12] Mal de Mère : affection de la matrice, et, particulièrement, l'hystérie. L
+
+[13] Quinteuse : celle qui est capricieuse, et qui est sujette aux boutades. R
+
+[14] Hallier : buisson, arbrisseau. F
+
+[15] Quarrer : Marcher avec une certaine affectation d'orgueil et de vanité, comme si on marquait un carré sur la terre avec ses pieds, au lieu de marcher rondement comme les autres; F
+
+[16] Guiterne : sorte de guitare SP
+
+[17] Holopherne : personnage biblique, général de Nabuchodonosor, qui fut décapité ar Judith.
+
+[18] Desserrer : desserer un coup de pied, un coup de fouet, un soufflet, l'appliquer soudainement et avec violence. L
+
+[19] Chenevière : Lieu semé de cheveni pour faire venir du chanvre. F
+
+[20] Clause : v. 404, la version porte "Clause". On lit "clause et fermées" dans les Mémoires de Du Bellay. SP
+
+[21] Hâté : qu'on fait aller vite. L
+
+[22] L'auteur écrit "Naple" sans S pour la métrique.
+
+[23] Barrière : est aussi un petit parc fermé de semblable façon, où on fait des combats de taureaux et où on faisait des joutes, des tournois, des courses de bagues. F
+
+[24] Cane : On dit proverbialement qu'on homme fait la cane, pour dire, qu'il recule par lâcheté dans les entreprises périlleuses, ou qu'il manque à ce qu'il s'était vanté de faire. F
+
+[25] Bayard : était le nom du cheval de Regnault, un des fils d'Aymond.
+
+[26] Rencontre : Vaugelas remarque qu'en quelque sens qu'on emploie rencontre, il est toujours féminin, et que les bons Auteurs n'en usent jamais aûtrement, que néanmoins en matière de querelle, plusieurs le font masculin, et disent : ce n'est pas un duel, mais un rencontre. (....)
+
+[27] Partenope : ville légendaire de Campanie qui fut ensuite remplacée par Naples.
+
+[28] Coqueter : se plaire à cageoler, ou à être cageollée, faire l'amour à divers endroits. F Décoqueter : cesser de coqueter.
+
+[29] Trébuchet : Piége à prendre les petits oiseaux, qui consiste en une cage dont la partie supérieure, couverte de grains, fait bascule, trébuche quand l'oiseau vient s'y poser, et l'enferme. L Ici, sens figuré, piège amoureux.
+
+[30] Godelureau : eune fanfaron, glorieux, pimpant et coquet qui se pique de galanterie, de bonne fortune auprés des femmes, qui est toujours bien propre et bien mis sans avoir d'autres perfections. F
+
+[31] Prince de pied d'écot : expression inconnue.
+
+[32] Disparate : ce mot est espagnol, mais plusieurs s'en servent pour expliquer de grandes inégalités d'esprit, des choses dites ou faites mal à propos.
+
+[33] Celer : Tenir quelque chose cacher, et secrète ; diminuer ; taire. F
+
+[34] Infantine : diminutif d'infante.
+
+[35] Le vers 1330 est absent de l'édition 1688 mais présent dans celle de 1655. 
+
+[36] v. 1337, l'édition 1655 inverse vous et veux.
+
+[37] Maroufle : Terme injurieux qu'on donne aux gens gros de corps, et grossiers d'esprit. F
+
+[38] Sansonnet : Oiseau qui siffle. Il est de la grosseur d'un merle, et de couleur grose et noire. F
+
+[39] Bien sorti : expression parodique antonyme de bienvenu.
+
+[40] Croquignole : Coup qu'on donne sur la tête ou sur le nez avec le second ou le troisième doigt et le pouce. FC
+
+[41] Enchanterie : effet provenant d'une science magique. F
+
+[42] À la malheure : malheureusement. R
