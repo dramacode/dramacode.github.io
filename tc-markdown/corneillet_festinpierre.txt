@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_festinpierre  
-creator: Corneille, Thomas  
+creator: Corneille, ThomasThomas  
 date: 1677  
 title: Le Festin de Pierre. , comédie  
 ---
@@ -14,13 +14,15 @@ M. DC. LXXVII.
 
 par Monsieur Thomas Corneille
 
-# .À AMSTERDAM, Chez les Frères Chatelain, près de la Maison de Ville.
+À AMSTERDAM, Chez les Frères Chatelain, près de la Maison de Ville.
 
 
 
 # AVIS.
 
-Cette Pièce, dont les comédiens donnent tous les ans plusieurs représentations, est la même que feu Mr. de Molière fit jouer en prose peu de temps avant sa mort. Quelques personnes qui ont tout pouvoir sur moi, m'ayant engagé à la mettre en vers, je me réservai la liberté d'adoucir certaines expressions qui avaient blessé les Scrupuleux. J'ai suivi la prose dans tout le reste, à l'exception des scènes du troisième et du cinquième acte, où j'ai fait parler des femmes. Ce sont des scènes ajoutées à cet excellent original, et dont les défauts ne doivent point être imputés au célèbre auteur, sous le nom duquel cette Comédie est toujours représentée.Représenté pour la première fois le 1é février 1677 au Théâtre Guénégaud.
+Cette Pièce, dont les comédiens donnent tous les ans plusieurs représentations, est la même que feu Mr. de Molière fit jouer en prose peu de temps avant sa mort. Quelques personnes qui ont tout pouvoir sur moi, m'ayant engagé à la mettre en vers, je me réservai la liberté d'adoucir certaines expressions qui avaient blessé les Scrupuleux. J'ai suivi la prose dans tout le reste, à l'exception des scènes du troisième et du cinquième acte, où j'ai fait parler des femmes. Ce sont des scènes ajoutées à cet excellent original, et dont les défauts ne doivent point être imputés au célèbre auteur, sous le nom duquel cette Comédie est toujours représentée.
+
+Représenté pour la première fois le 1é février 1677 au Théâtre Guénégaud.
 
 
 # ACTEURS.
@@ -76,7 +78,7 @@ Qu'on l'indemnise mal des frais de celui-ci.
     GUSMAN.
 Et la raison encor ? Dis-moi, je te conjure,  
 D'où te vient une peur de si mauvais augure ?  
-Ton maître là-dessus t'a-t-il ouvert son cour ?  
+Ton maître là-dessus t'a-t-il ouvert son cœur ?  
 T'a-t-il fait remarquer pour nous quelque froideur,  
 Qui d'un départ si prompt...  
 
@@ -250,12 +252,12 @@ Tu le crois ?
     Oui.  
 
     DON JUAN.
-        Ma foi, tu crois juste, et mon cour  
+        Ma foi, tu crois juste, et mon cœur  
 Pour un objet nouveau sent la plus forte ardeur.  
 
     SGANARELLE.
 Eh mon Dieu ! J'entrevois d'abord ce qui s'y passe.  
-Votre cour n'aime point à demeurer en place,  
+Votre cœur n'aime point à demeurer en place,  
 Et sans lui faire tort sur la fidélité,  
 C'est le plus grand coureur qui jamais ait été.  
 Tout est de votre goût, brune ou blonde, n'importe.  
@@ -296,7 +298,7 @@ Va crois-moi, la constance était bonne jadis,
 Où les leçons d'aimer venaient des Amadis ;  
 Mais à présent, on suit des lois plus naturelles.  
 On aime sans façon tout ce qu'on voit de belles,  
-Et l'amour qu'en nos cours la première a produit,  
+Et l'amour qu'en nos cœurs la première a produit,  
 N'ôte rien aux appas de celle qui la suit.  
 Pour moi, qui ne saurais faire l'inexorable,  
 Je me donne partout où je trouve l'aimable,  
@@ -304,7 +306,7 @@ Et tout ce qu'une belle a sur moi de pouvoir,
 Ne me rend point ailleurs incapable de voir.  
 Sans me vouloir piquer du nom d'amant fidèle,  
 J'ai des yeux pour une autre aussi bien que pour elle.  
-Et dès qu'un beau visage a demandé mon cour,  
+Et dès qu'un beau visage a demandé mon cœur,  
 Je ne puis me résoudre à l'armer de rigueur.  
 Ravi de voir qu'il cède à la douce contrainte,  
 Qui d'abord laisse en lui toute autre flamme éteinte,  
@@ -320,7 +322,7 @@ Font goûter aux amants les passions naissantes
 Si pour chaque beauté je m'enflamme aisément,  
 Le vrai plaisir d'aimer est dans le changement.  
 Il consiste à pouvoir, par d'empressés hommages,  
-Forcer d'un jeune cour les scrupuleux ombrages,  
+Forcer d'un jeune cœur les scrupuleux ombrages,  
 À désarmer sa crainte, à voir de jour en jour  
 Par cent petits progrès avancer notre amour ;  
 À vaincre doucement la pudeur innocente,  
@@ -332,14 +334,14 @@ Ne souhaitant plus rien, on n'a plus rien à dire ;
 À l'amour satisfait tout son charme est ôté,  
 Et nous nous endormons dans sa tranquillité,  
 Si quelque objet nouveau, par sa conquête à faire,  
-Ne réveille en nos cours l'ambition de plaire.  
+Ne réveille en nos cœurs l'ambition de plaire.  
 Enfin j'aime en amour les exploits différents ;  
 Et j'ai sur ce sujet l'ardeur des conquérants,  
 Qui sans cesse courant de victoire en victoire,  
 Ne peuvent se résoudre à voir borner leur gloire.  
 De mes vastes désirs le vol précipité  
 Par cent objets vaincus ne peut être arrêté.  
-Je sens mon cour plus loin capable de s'étendre,  
+Je sens mon cœur plus loin capable de s'étendre,  
 Et je souhaiterais, comme fit Alexandre,  
 Qu'il fût un autre monde encor à découvrir,  
 Où je pusse en amour chercher à con quérir.  
@@ -465,7 +467,7 @@ Je la vis par hasard, et j'eus cet avantage,
 Dans le temps qu'ils songeaient à faire leur voyage.  
 Il faut te l'avouer. Jamais jusqu'à ce jour  
 Je n'ai vu deux amants se montrer tant d'amour.  
-De leurs cours trop unis la tendresse visible,  
+De leurs cœurs trop unis la tendresse visible,  
 Me frappant tout à coup, rendit le mien sensible,  
 Et les voyant céder aux transports les plus doux,  
 Si je devins amant, je fus amant jaloux.  
@@ -474,7 +476,7 @@ Qu'ils s'aimassent autant que l'un et l'autre s'aime.
 Ce bizarre chagrin alluma mes désirs ;  
 Je me fis un plaisir de troubler leurs plaisirs,  
 De rompre adroitement l'étroite intelligence,  
-Dont mon cour délicat se faisait une offense.  
+Dont mon cœur délicat se faisait une offense.  
 N'ayant pu réussir, plus amoureux toujours,  
 C'est au dernier remède enfin que j'ai recours.  
 Cet époux prétendu, dont le bonheur me blesse,  

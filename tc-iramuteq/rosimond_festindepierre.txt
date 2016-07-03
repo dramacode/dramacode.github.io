@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1669 *creator_rosimond
+**** *book_ *id_I01 *act_I *date_1669
 
 -*who_carrille
 Oui, l'affaire est conclue, et moi-même j'enrage
@@ -115,7 +115,7 @@ Mettez-vous, s'il vous plaît, dans la chambre prochaine :
 Mon maître doit venir dans un moment ici,
 Et je vais lui parler de vous ; mais le voici.
 
-**** *book_ *id_I02 *act_I *date_1669 *creator_rosimond
+**** *book_ *id_I02 *act_I *date_1669
 
 -*who_donjuan
 Ah, Carrille ! Sais-tu ce que je viens de faire ?
@@ -279,7 +279,7 @@ J'aperçois Léonor.
 -*who_donjuan
       Et qui l'a fait entrer ? Suis-moi.
 
-**** *book_ *id_I03 *act_I *date_1669 *creator_rosimond
+**** *book_ *id_I03 *act_I *date_1669
 
 -*who_leonor
 Quoi ! Don Juan évite ma présence ?
@@ -401,7 +401,7 @@ J'en attends les effets pour en être certain.
 Ô vous qui prenez soin d'appuyer l'innocence,
 Accordez à mes pleurs une prompte vengeance !
 
-**** *book_ *id_I04 *act_I *date_1669 *creator_rosimond
+**** *book_ *id_I04 *act_I *date_1669
 
 -*who_donjuan
 Enfin, m'en voilà quitte.
@@ -433,7 +433,7 @@ Mais depuis qu'ils se sont attachés près de vous,
 Toujours on vous a vu faire de méchants coups.
 Mais je les vois venir.
 
-**** *book_ *id_I05 *act_I *date_1669 *creator_rosimond
+**** *book_ *id_I05 *act_I *date_1669
 
 -*who_donjuan
       Eh bien ?
@@ -515,7 +515,7 @@ Et je crois que pour tout c'est le plus nécessaire.
 -*who_donfelix
 J'approuve votre avis : mais Carrille paraît.
 
-**** *book_ *id_I06 *act_I *date_1669 *creator_rosimond
+**** *book_ *id_I06 *act_I *date_1669
 
 -*who_carrille
 Vous n'avez qu'à partir votre équipage est prêt.
@@ -572,7 +572,7 @@ Autrement...
 Suivre un maître taché de vices détestables,
 Voilà le grand chemin d'aller à tous les diables.
 
-**** *book_ *id_II01 *act_II *date_1669 *creator_rosimond
+**** *book_ *id_II01 *act_II *date_1669
 
 -*who_carrille
 Ah, ah !
@@ -637,7 +637,7 @@ Et prendre un doigt de vin.
 Et je suis résolu pour me remettre enfin,
 Ayant bien bu de l'eau de boire bien du vin.
 
-**** *book_ *id_II02 *act_II *date_1669 *creator_rosimond
+**** *book_ *id_II02 *act_II *date_1669
 
 -*who_ormin
 Rentrez à la maison, vite.
@@ -758,7 +758,7 @@ Et ne tarderai pas à me rendre au logis.
 Si c'était à mon choix... Mais qui vois-je paraître ?
 C'est un de ces Messieurs.
 
-**** *book_ *id_II03 *act_II *date_1669 *creator_rosimond
+**** *book_ *id_II03 *act_II *date_1669
 
 -*who_carrille
       Eh bien ! Monsieur mon maître,
@@ -879,7 +879,7 @@ Monsieur, ne jurez pas, de peur d'être parjure.
 -*who_donjuan
 Faquin, te tairas-tu.
 
-**** *book_ *id_II04 *act_II *date_1669 *creator_rosimond
+**** *book_ *id_II04 *act_II *date_1669
 
 -*who_donjuan
       Je jure et je promets
@@ -1035,7 +1035,7 @@ Pour vous mettre d'accord chacune en votre attente,
 Je veux épouser celle à qui je l'ai promis.
 Toi, Carrille, attends-moi, je ne vais qu'au logis.
 
-**** *book_ *id_II05 *act_II *date_1669 *creator_rosimond
+**** *book_ *id_II05 *act_II *date_1669
 
 -*who_carrille
 Quel abominable homme ! Hélas, mes pauvres filles,
@@ -1096,7 +1096,7 @@ Croyez-le assurément, ce sera pour un jour.
 Que ce sexe est facile à prendre de l'amour !
 Mais je vois Don Felix qui vient avec mon maître.
 
-**** *book_ *id_II06 *act_II *date_1669 *creator_rosimond
+**** *book_ *id_II06 *act_II *date_1669
 
 -*who_donfelix
 Si vous m'aimez, il faut me le faire connaître.
@@ -1164,7 +1164,7 @@ Et qu'on dise de moi ce que l'on dit de lui.
 La nuit semble déjà seconder notre envie,
 Allons, toi, reste ici.
 
-**** *book_ *id_II07 *act_II *date_1669 *creator_rosimond
+**** *book_ *id_II07 *act_II *date_1669
 
 -*who_carrille
       Que je crains pour ma vie !
@@ -1200,7 +1200,7 @@ Si j'avais quelque trou qui me fût favorable,
 Ce serait bien mon fait, mais restons dans ce coin,
 Et servons-nous ici de l'adresse au besoin.
 
-**** *book_ *id_II08 *act_II *date_1669 *creator_rosimond
+**** *book_ *id_II08 *act_II *date_1669
 
 -*who_donjuan
 Don Felix, au plus vite, emportez votre proie.
@@ -1216,7 +1216,7 @@ Je vous ai dit le lieu.
 -*who_donfelix
       J'aurai soin de m'y rendre.
 
-**** *book_ *id_II09 *act_II *date_1669 *creator_rosimond
+**** *book_ *id_II09 *act_II *date_1669
 
 -*who_carrille
 Marchons si doucement qu'on ne nous puisse entendre.
@@ -1325,7 +1325,7 @@ Viendras-tu ?
       Oui, vraiment.
 Ah ! qu'avec un tel maître on souffre de tourments.
 
-**** *book_ *id_III01 *act_III *date_1669 *creator_rosimond
+**** *book_ *id_III01 *act_III *date_1669
 
 -*who_carrille
 Dans l'état où je suis, Monsieur, je ferai rage.
@@ -1399,7 +1399,7 @@ Poltron, ne vois-tu pas...
 -*who_carrille
       Qu'on va nous en conter.
 
-**** *book_ *id_III02 *act_III *date_1669 *creator_rosimond
+**** *book_ *id_III02 *act_III *date_1669
 
 -*who_donjuan
 Carrille, évitons-la.
@@ -1530,7 +1530,7 @@ N'y manquez pas au moins.
 -*who_carrille
       Il n'a garde, vraiment.
 
-**** *book_ *id_III03 *act_III *date_1669 *creator_rosimond
+**** *book_ *id_III03 *act_III *date_1669
 
 -*who_donjuan
 Mais quoi ! Tu prétends donc jaser incessamment,
@@ -1560,7 +1560,7 @@ Si je commets un crime, en portes-tu la honte ?
 Ne m'en parle donc plus, ou tes rares avis
 De cent coups de bâton pourraient être punis.
 
-**** *book_ *id_III04 *act_III *date_1669 *creator_rosimond
+**** *book_ *id_III04 *act_III *date_1669
 
 -*who_donlope
 Nous venons vous chercher, notre perte est jurée,
@@ -1637,7 +1637,7 @@ Mais je connais qu'en vain je m'attache à vous dire
 Qu'il n'est rien ici bas qui par eux ne respire ;
 Il vaut mieux vous laisser dans votre aveuglement.
 
-**** *book_ *id_III05 *act_III *date_1669 *creator_rosimond
+**** *book_ *id_III05 *act_III *date_1669
 
 -*who_donlope
 Don Juan, vous deviez en agir autrement,
@@ -1687,7 +1687,7 @@ Poltron ! te tairas-tu ?
       Monsieur, les voilà deux,
 Trois, quatre, cinq, hélas !
 
-**** *book_ *id_III06 *act_III *date_1669 *creator_rosimond
+**** *book_ *id_III06 *act_III *date_1669
 
 -*who_leprevot
       Sans doute ce sont eux.
@@ -1741,7 +1741,7 @@ Mais sans tarder au moins.
 -*who_donjuan
       Je ne m'arrête pas.
 
-**** *book_ *id_III07 *act_III *date_1669 *creator_rosimond
+**** *book_ *id_III07 *act_III *date_1669
 
 -*who_donjuan
 Hé, Carrille !
@@ -1814,8 +1814,6 @@ Quoi donc...
       Lisez plutôt, ma foi je n'y mets rien.
 
 -*who_donjuan
-
-
 Don Pierre, par la main d'un traître,
 Dans Séville a reçu la mort.
 Son mérite partout s'est assez fait connaître,
@@ -1956,7 +1954,7 @@ Sans perdre ici de temps vient mettre le couvert.
 -*who_carrille
 Ah, mon maître, ma foi vous voilà pris sans vert !
 
-**** *book_ *id_IV01 *act_IV *date_1669 *creator_rosimond
+**** *book_ *id_IV01 *act_IV *date_1669
 
 -*who_donjuan
 Eh bien ! que dites-vous d'une telle aventure ?
@@ -2047,7 +2045,7 @@ Et si par un malheur...
 -*who_carrille
 J'y cours. Ah, que je vais recevoir de plaisir !
 
-**** *book_ *id_IV02 *act_IV *date_1669 *creator_rosimond
+**** *book_ *id_IV02 *act_IV *date_1669
 
 -*who_donjuan
 Eh bien ! que dites-vous du cours de notre vie !
@@ -2143,7 +2141,7 @@ Et soit qu'une beauté soit facile ou sévère,
 Spirituelle ou non, il faut se satisfaire ;
 C'est ce que nous devons tous les trois observer.
 
-**** *book_ *id_IV03 *act_IV *date_1669 *creator_rosimond
+**** *book_ *id_IV03 *act_IV *date_1669
 
 -*who_carrille
 Voilà le souper prêt.
@@ -2322,7 +2320,7 @@ Que ne suis-je bien loin ?
 -*who_donfelix
       La chose est rare à voir.
 
-**** *book_ *id_IV04 *act_IV *date_1669 *creator_rosimond
+**** *book_ *id_IV04 *act_IV *date_1669
 
 -*who_donjuan
 Ombre, tu viens à temps, pour faire bonne chère,
@@ -2617,7 +2615,7 @@ Craignez un même sort.
       Ne t'inquiète pas,
 Suffit que je veux voir quel sera ce repas.
 
-**** *book_ *id_V01 *act_V *date_1669 *creator_rosimond
+**** *book_ *id_V01 *act_V *date_1669
 
 -*who_thomas
 On enlève ma fille ; ah ! Courons après elle.
@@ -2664,7 +2662,7 @@ Abordons-le et sachons où peut être son maître,
 Et prenant des archers que j'ai vus dans ce lieu,
 Nous saisirons l'infâme et nous verrons beau jeu.
 
-**** *book_ *id_V02 *act_V *date_1669 *creator_rosimond
+**** *book_ *id_V02 *act_V *date_1669
 
 -*who_carrille
 Chercherai-je longtemps sans rencontrer mon maître ?
@@ -2755,7 +2753,7 @@ Ah !
 -*who_carrille
 Ah, Monsieur, au secours !
 
-**** *book_ *id_V03 *act_V *date_1669 *creator_rosimond
+**** *book_ *id_V03 *act_V *date_1669
 
 -*who_donjuan
       Quelle est cette insolence ?
@@ -2791,7 +2789,7 @@ Que les Archers y sont.
 -*who_carrille
 Vous devez y songer et... mais, quelqu'un s'avance.
 
-**** *book_ *id_V04 *act_V *date_1669 *creator_rosimond
+**** *book_ *id_V04 *act_V *date_1669
 
 -*who_amarille
 Ah, donne-moi la mort après ta violence,
@@ -2878,7 +2876,7 @@ La source de mes maux, ces détestables charmes,
 Et par des voeux ardents sollicitons les Dieux,
 De punir les forfaits de ce monstre odieux.
 
-**** *book_ *id_V05 *act_V *date_1669 *creator_rosimond
+**** *book_ *id_V05 *act_V *date_1669
 
 -*who_carrille
 Votre façon de vivre à tous moments m'étonne.
@@ -3060,7 +3058,7 @@ Tu sais bien où les prendre, et n'ai-je pas du bien ?
 -*who_carrille
 Ah ! Quand un homme est mort, on dit qu'il n'avait rien.
 
-**** *book_ *id_V06 *act_V *date_1669 *creator_rosimond
+**** *book_ *id_V06 *act_V *date_1669
 
 -*who_voix
 Don Juan !
@@ -3136,7 +3134,7 @@ Fuyons plutôt, Monsieur.
 -*who_donjuan
       Non, non, nous y voici.
 
-**** *book_ *id_V07 *act_V *date_1669 *creator_rosimond
+**** *book_ *id_V07 *act_V *date_1669
 
 -*who_carrille
 Ah ! Que pour mon profit ne suis-je loin d'ici !

@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1677 *creator_racine
+**** *book_ *id_I01 *act_I *date_1677
 
 -*who_hippolyte
 Le dessein en est pris, je pars, cher Théramène,
@@ -176,7 +176,7 @@ Seigneur ?
 Voyons-la, puisque ainsi mon devoir me l'ordonne.
 Mais quel nouveau malheur trouble sa chère Oenone ?
 
-**** *book_ *id_I02 *act_I *date_1677 *creator_racine
+**** *book_ *id_I02 *act_I *date_1677
 
 -*who_oenone
 Hélas, Seigneur ! Quel trouble au mien peut-être égal ?
@@ -193,7 +193,7 @@ Elle vient.
       Il suffit, je la laisse en ces lieux,
 Et ne lui montre point un visage odieux.
 
-**** *book_ *id_I03 *act_I *date_1677 *creator_racine
+**** *book_ *id_I03 *act_I *date_1677
 
 -*who_phedre
 N'allons point plus avant. Demeurons, chère Oenone.
@@ -455,7 +455,7 @@ Tu ne m'affliges plus par d'injustes reproches,
 Et que tes vains secours cessent de rappeler
 Un reste de chaleur, tout prêt à s'exhaler.
 
-**** *book_ *id_I04 *act_I *date_1677 *creator_racine
+**** *book_ *id_I04 *act_I *date_1677
 
 -*who_panope
 Je voudrais vous cacher une triste nouvelle,
@@ -491,7 +491,7 @@ Qu'il n'entraîne après lui tout un peuple volage.
 Panope, c'est assez. La reine qui t'entend,
 Ne négligera point cet avis important.
 
-**** *book_ *id_I05 *act_I *date_1677 *creator_racine
+**** *book_ *id_I05 *act_I *date_1677
 
 -*who_oenone
 Madame, je cessais de vous presser de vivre.
@@ -527,7 +527,7 @@ Vivons, si vers la vie on peut me ramener,
 Et si l'amour d'un fils en ce moment funeste
 De mes faibles esprits peut ranimer le reste.
 
-**** *book_ *id_II01 *act_II *date_1677 *creator_racine
+**** *book_ *id_II01 *act_II *date_1677
 
 -*who_aricie
 Hippolyte demande à me voir en ce lieu ?
@@ -656,7 +656,7 @@ Aurais-je pu fléchir...
       Vous l'entendrez lui-même,
 Il vient à vous.
 
-**** *book_ *id_II02 *act_II *date_1677 *creator_racine
+**** *book_ *id_II02 *act_II *date_1677
 
 -*who_hippolyte
       Madame, avant que de partir,
@@ -777,7 +777,7 @@ Songez que je vous parle une langue étrangère,
 Et ne rejetez pas des voeux mal exprimés,
 Qu'Hippolyte sans vous n'aurait jamais formés.
 
-**** *book_ *id_II03 *act_II *date_1677 *creator_racine
+**** *book_ *id_II03 *act_II *date_1677
 
 -*who_theramene
 Seigneur, la Reine vient, et je l'ai devancée.
@@ -811,7 +811,7 @@ J'accepte tous les dons que vous me voulez faire.
 Mais cet empire enfin si grand, si glorieux,
 N'est pas de vos présents le plus cher à mes yeux.
 
-**** *book_ *id_II04 *act_II *date_1677 *creator_racine
+**** *book_ *id_II04 *act_II *date_1677
 
 -*who_hippolyte
 Ami, tout est-il prêt ? Mais la Reine s'avance.
@@ -819,7 +819,7 @@ Va, que pour le départ tout s'arme en diligence.
 Fais donner le signal, cours, ordonne, et reviens
 Me délivrer bientôt d'un fâcheux entretien.
 
-**** *book_ *id_II05 *act_II *date_1677 *creator_racine
+**** *book_ *id_II05 *act_II *date_1677
 
 -*who_phedre
 Le voici. Vers mon coeur tout mon sang se retire.
@@ -988,7 +988,7 @@ Donne.
 Mais on vient. Évitez des témoins odieux,
 Venez, rentrez, fuyez une honte certaine.
 
-**** *book_ *id_II06 *act_II *date_1677 *creator_racine
+**** *book_ *id_II06 *act_II *date_1677
 
 -*who_theramene
 Est-ce Phèdre qui fuit, ou plutôt qu'on entraîne ?
@@ -1031,7 +1031,7 @@ S'il ne mérite pas d'interrompre ma course,
 Partons, et quelque prix qu'il en puisse coûter,
 Mettons le sceptre aux mains dignes de le porter.
 
-**** *book_ *id_III01 *act_III *date_1677 *creator_racine
+**** *book_ *id_III01 *act_III *date_1677
 
 -*who_phedre
 Ah ! Que l'on porte ailleurs les honneurs qu'on m'envoie.
@@ -1137,7 +1137,7 @@ Ne rougis point de prendre une voix suppliante.
 Je t'avouerai de tout, je n'espère qu'en toi.
 Va, j'attends ton retour pour disposer de moi.
 
-**** *book_ *id_III02 *act_III *date_1677 *creator_racine
+**** *book_ *id_III02 *act_III *date_1677
 
 -*who_phedre
 Ô toi ! Qui vois la honte où je suis descendue,
@@ -1153,7 +1153,7 @@ Déesse, venge-toi, nos causes sont pareilles.
 Qu'il aime ! Mais déjà tu reviens sur tes pas,
 Oenone ? On me déteste, on ne t'écoute pas.
 
-**** *book_ *id_III03 *act_III *date_1677 *creator_racine
+**** *book_ *id_III03 *act_III *date_1677
 
 -*who_oenone
 Il faut d'un vain amour étouffer la pensée,
@@ -1270,7 +1270,7 @@ Dans ses yeux insolents je vois ma perte écrite !
 Fais ce que tu voudras, je m'abandonne à toi.
 Dans le trouble où je suis je ne peux rien pour moi.
 
-**** *book_ *id_III04 *act_III *date_1677 *creator_racine
+**** *book_ *id_III04 *act_III *date_1677
 
 -*who_thesee
 La fortune à mes voeux cesse d'être opposée,
@@ -1285,7 +1285,7 @@ N'a pas en votre absence épargné votre épouse,
 Indigne de vous plaire, et de vous approcher,
 Je ne dois désormais songer qu'à me cacher.
 
-**** *book_ *id_III05 *act_III *date_1677 *creator_racine
+**** *book_ *id_III05 *act_III *date_1677
 
 -*who_thesee
 Quel est l'étrange accueil qu'on fait à votre père,
@@ -1366,7 +1366,7 @@ Entrons. C'est trop garder un doute qui m'accable.
 Connaissons à la fois le crime et le coupable.
 Que Phèdre explique enfin le trouble où je la vois.
 
-**** *book_ *id_III06 *act_III *date_1677 *creator_racine
+**** *book_ *id_III06 *act_III *date_1677
 
 -*who_hippolyte
 Où tendait ce discours qui m'a glacé d'effroi ?
@@ -1383,7 +1383,7 @@ Je pourrai de mon père émouvoir la tendresse,
 Et lui dire un amour qu'il peut vouloir troubler,
 Mais que tout son pouvoir ne saurait ébranler.
 
-**** *book_ *id_IV01 *act_IV *date_1677 *creator_racine
+**** *book_ *id_IV01 *act_IV *date_1677
 
 -*who_thesee
 Ah ! Qu'est-ce que j'entends ! Un traître, un téméraire
@@ -1431,7 +1431,7 @@ Je vous ai dit Seigneur, tout ce qui s'est passé.
 C'est trop laisser la Reine à sa douleur mortelle.
 Souffrez que je vous quitte et me range auprès d'elle.
 
-**** *book_ *id_IV02 *act_IV *date_1677 *creator_racine
+**** *book_ *id_IV02 *act_IV *date_1677
 
 -*who_thesee
 Ah ! Le voici. Grands dieux ! À ce noble maintien
@@ -1593,7 +1593,7 @@ Pour la dernière fois ôte-toi de ma vue.
 Sors, traître. N'attends pas qu'un père furieux
 Te fasse avec opprobre arracher de ces lieux.
 
-**** *book_ *id_IV03 *act_IV *date_1677 *creator_racine
+**** *book_ *id_IV03 *act_IV *date_1677
 
 -*who_thesee
 Misérable, tu cours à ta perte infaillible.
@@ -1607,7 +1607,7 @@ Jamais père en effet fut-il plus outragé ?
 Justes dieux, qui voyez la douleur qui m'accable,
 Ai-je pu mettre au jour un enfant si coupable ?
 
-**** *book_ *id_IV04 *act_IV *date_1677 *creator_racine
+**** *book_ *id_IV04 *act_IV *date_1677
 
 -*who_phedre
 Seigneur, je viens à vous pleine d'un juste effroi.
@@ -1649,7 +1649,7 @@ Espérons de Neptune une prompte justice.
 Je vais moi-même encore au pied de ses autels,
 Le presser d'accomplir ses serments immortels.
 
-**** *book_ *id_IV05 *act_IV *date_1677 *creator_racine
+**** *book_ *id_IV05 *act_IV *date_1677
 
 -*who_phedre
 Il sort. Quelle nouvelle a frappé mon oreille ?
@@ -1674,7 +1674,7 @@ Peut-être a-t-il un coeur facile à s'attendrir.
 Je suis le seul objet qu'il ne saurait souffrir.
 Et je me chargerais du soin de le défendre !
 
-**** *book_ *id_IV06 *act_IV *date_1677 *creator_racine
+**** *book_ *id_IV06 *act_IV *date_1677
 
 -*who_phedre
 Chère Oenone, sais-tu ce que je viens d'apprendre ?
@@ -1818,7 +1818,7 @@ Que puisse faire aux rois la colère céleste.
 Ah, Dieux ! Pour la servir, j'ai tout fait, tout quitté.
 Et j'en reçois ce prix ? Je l'ai bien mérité.
 
-**** *book_ *id_V01 *act_V *date_1677 *creator_racine
+**** *book_ *id_V01 *act_V *date_1677
 
 -*who_aricie
 Quoi vous pouvez vous taire en ce péril extrême ?
@@ -1913,7 +1913,7 @@ Pour cacher mon départ je demeure un moment.
 Allez, et laissez-moi quelque fidèle guide,
 Qui conduise vers vous ma démarche timide.
 
-**** *book_ *id_V02 *act_V *date_1677 *creator_racine
+**** *book_ *id_V02 *act_V *date_1677
 
 -*who_thesee
 Dieux, éclairez mon trouble, et daignez à mes yeux
@@ -1922,7 +1922,7 @@ Montrer la vérité, que je cherche en ces lieux.
 -*who_aricie
 Songe à tout, chère Ismène, et sois prête à la fuite.
 
-**** *book_ *id_V03 *act_V *date_1677 *creator_racine
+**** *book_ *id_V03 *act_V *date_1677
 
 -*who_thesee
 Vous changez de couleur, et semblez interdite,
@@ -1982,7 +1982,7 @@ Je l'affligerais trop, si j'osais achever.
 J'imite sa pudeur, et fuis votre présence
 Pour n'être pas forcée à rompre le silence.
 
-**** *book_ *id_V04 *act_V *date_1677 *creator_racine
+**** *book_ *id_V04 *act_V *date_1677
 
 -*who_thesee
 Quelle est donc sa pensée ? Et que cache un discours
@@ -1996,7 +1996,7 @@ Une seconde fois interrogeons Oenone.
 Je veux de tout le crime être mieux éclairci.
 Gardes. Qu'Oenone sorte et vienne seule ici.
 
-**** *book_ *id_V05 *act_V *date_1677 *creator_racine
+**** *book_ *id_V05 *act_V *date_1677
 
 -*who_panope
 J'ignore le projet que la Reine médite,
@@ -2034,7 +2034,7 @@ J'ai peut-être trop cru des témoins peu fidèles.
 Et j'ai trop tôt vers toi levé mes mains cruelles.
 Ah ! Se quel désespoir mes voeux seraient suivis !
 
-**** *book_ *id_V06 *act_V *date_1677 *creator_racine
+**** *book_ *id_V06 *act_V *date_1677
 
 -*who_thesee
 Théramène est-ce toi ? Qu'as-tu fait de mon fils ?
@@ -2160,7 +2160,7 @@ Et m'acquitter, Seigneur, du malheureux emploi,
 Dont son coeur expirant s'est reposé sur moi.
 Mais j'aperçois venir sa mortelle ennemie.
 
-**** *book_ *id_V07 *act_V *date_1677 *creator_racine
+**** *book_ *id_V07 *act_V *date_1677
 
 -*who_thesee
 Hé bien vous triomphez, et mon fils est sans vie.

@@ -1,6 +1,6 @@
 ---
 identifier: racine_andromaque68  
-creator: Racine, Jean  
+creator: RacineJean  
 date: 1667  
 title: Andromaque. , tragédie  
 ---
@@ -12,10 +12,25 @@ TRAGÉDIE
 
 M. DC. LXVIII. AVEC PRIVILÈGE DU ROI.
 
-
-
-# PRIVILÈGE DU ROI. Ce privilège est celui de l'exemplaire Rés. Yf-3206 de la BnF. Louis par la Grâce de Dieu, Roi de France et de Navarre ; à nos âmes et féaux Conseillers les gens tenants nos Cours de Parlement ; maîtres de requêtes ordinaires de notre hôtel, Prévôt de Paris, Baillifs, Sénéchaux, leurs lieutenants civils, et autres nos justiciers, et officiers qu'il appartiendra, Salut. Notre bien aimé Jean RACINE, prieur de l'Epinay, nous a fait remontrer qu'il a composé une pièce de théâtre, qu'il désirerait faire imprimer, et donner au public, sous le titre de « l'Andromaque », mais il craint qu'ayant fait la dépense de l'impression de ce livre, d'autres n'entreprissent de l'imprimer à son préjudice, s'il n'avait pour ce nos lettres de privilège, qu'il nous a très humblement fait supplier de lui accorder. À ces causes voulant favorablement traiter l'exposant, Nous lui avons permis et accordé, permettons et accordons par ces présentes, de faire imprimer ledit livre, qui a pour titre « l'Andromaque », par tel libraire ou imprimeur qu'il voudra choisir de ceux par Nous réservés, en tel volume, marge caractères, et autant de fois que bon lui semblera, pendant le temps de cinq années, à commencer du jour qu'il sera achevé d'imprimer, et le vendre et distribuer partout notre royaume. Faisons défenses à tous libraires, imprimeurs, ou autres, d'imprimer, faire imprimer, vendre, et distribuer ledit livre sous quelque prétexte que ce soit, même d'impression étrangère, et autrement, sans le consentement de l'exposant, ou de ses ayants cause, sur peine de confiscation des exemplaires contrefaits, quinze cent livres d'amende, dépens, dommages et intérêts, à la charge d'en mettre deux exemplaires en Notre bibliothèque publique, un autre en notre cabinet des livres en notre château du Louvre, et un autre en la bibliothèque de notre très cher, et féal chevalier, Chancelier de France le sieur Séguier, à peine de nullité des présentes, du contenu desquelles Nous vous mandons, et enjoignons de faire jouir l'exposant, et ses ayants cause, pleinement et paisiblement, cessant, et faisant cesser tous troubles et empêchements au contraire. Voulons qu'en mettant au commencement, où à la fin de chacun des livres l'extrait des présentes, elles soient tenues pour dûment signifiées, et qu'aux copies collationnées par l'un de vos âmes, et féaux conseillers et secrétaires, foi soit ajoutée comme à l'original Mandons au premier huissier ou sergent faire pour l'exécution des présentes, toutes significations, défenses, saisies, et autres actes requis et nécessaires, sans demander autre permission : car tel est notre plaisir. Donné à Paris le vingt-huitième jour de décembre l'an de grâce mille six cent soixante-sept, et de notre règne le vingt-cinquième, par le Roi en son conseil ; Signé DEMALON. Et le dit sieur Racine a cédé son droit de Privilège à Théodore Girard, marchand libraire à Paris, suivant l'accord fait entre eux. Et le dit Girard a associé au dit privilège Thomas Jolly, et Claude Barbin, aussi marchands libraires. Registré sur le livre de la communauté.Achevé d'imprimé seconde quinzaine de janvier 1668.À Paris, Chez Théodore Girard, dans la Grand' Salle du Palais, du côté de la cour de Aides, à l'Envie.
 Représenté la première fois 17 novembre 1667, dans l'Appartement de la Reine, et sans doute reprise le 18 novembre 1667 (selon Georges Forestier) au Théâtre de l'Hôtel de Bourgogne.
+
+
+
+# PRIVILÈGE DU ROI.
+
+Ce privilège est celui de l'exemplaire Rés. Yf-3206 de la BnF.
+
+Louis par la Grâce de Dieu, Roi de France et de Navarre ; à nos âmes et féaux Conseillers les gens tenants nos Cours de Parlement ; maîtres de requêtes ordinaires de notre hôtel, Prévôt de Paris, Baillifs, Sénéchaux, leurs lieutenants civils, et autres nos justiciers, et officiers qu'il appartiendra, Salut. Notre bien aimé Jean RACINE, prieur de l'Epinay, nous a fait remontrer qu'il a composé une pièce de théâtre, qu'il désirerait faire imprimer, et donner au public, sous le titre de « l'Andromaque », mais il craint qu'ayant fait la dépense de l'impression de ce livre, d'autres n'entreprissent de l'imprimer à son préjudice, s'il n'avait pour ce nos lettres de privilège, qu'il nous a très humblement fait supplier de lui accorder. À ces causes voulant favorablement traiter l'exposant, Nous lui avons permis et accordé, permettons et accordons par ces présentes, de faire imprimer ledit livre, qui a pour titre « l'Andromaque », par tel libraire ou imprimeur qu'il voudra choisir de ceux par Nous réservés, en tel volume, marge caractères, et autant de fois que bon lui semblera, pendant le temps de cinq années, à commencer du jour qu'il sera achevé d'imprimer, et le vendre et distribuer partout notre royaume. Faisons défenses à tous libraires, imprimeurs, ou autres, d'imprimer, faire imprimer, vendre, et distribuer ledit livre sous quelque prétexte que ce soit, même d'impression étrangère, et autrement, sans le consentement de l'exposant, ou de ses ayants cause, sur peine de confiscation des exemplaires contrefaits, quinze cent livres d'amende, dépens, dommages et intérêts, à la charge d'en mettre deux exemplaires en Notre bibliothèque publique, un autre en notre cabinet des livres en notre château du Louvre, et un autre en la bibliothèque de notre très cher, et féal chevalier, Chancelier de France le sieur Séguier, à peine de nullité des présentes, du contenu desquelles Nous vous mandons, et enjoignons de faire jouir l'exposant, et ses ayants cause, pleinement et paisiblement, cessant, et faisant cesser tous troubles et empêchements au contraire. Voulons qu'en mettant au commencement, où à la fin de chacun des livres l'extrait des présentes, elles soient tenues pour dûment signifiées, et qu'aux copies collationnées par l'un de vos âmes, et féaux conseillers et secrétaires, foi soit ajoutée comme à l'original Mandons au premier huissier ou sergent faire pour l'exécution des présentes, toutes significations, défenses, saisies, et autres actes requis et nécessaires, sans demander autre permission : car tel est notre plaisir. Donné à Paris le vingt-huitième jour de décembre l'an de grâce mille six cent soixante-sept, et de notre règne le vingt-cinquième, par le Roi en son conseil ; Signé DEMALON.
+
+Et le dit sieur Racine a cédé son droit de Privilège à Théodore Girard, marchand libraire à Paris, suivant l'accord fait entre eux.
+
+Et le dit Girard a associé au dit privilège Thomas Jolly, et Claude Barbin, aussi marchands libraires.
+
+Registré sur le livre de la communauté.
+
+Achevé d'imprimé seconde quinzaine de janvier 1668.
+
+À Paris, Chez Théodore Girard, dans la Grand' Salle du Palais, du côté de la cour de Aides, à l'Envie.
 À MADAME
 
 
@@ -81,7 +96,9 @@ Quoi qu'il en soit, le public m'a été trop favorable pour m'embarrasser du cha
  – CLÉONE , confidente d'Hermione.
  – CÉPHISE , confidente d'Andromaque.
  – PHOENIX , gouverneur d'Achille, et ensuite de Pyrrhus.
- – Suite d'Oreste.La scène est à Buthrot, ville d'Épire, dans une salle du palais de Pyrrhus. [1]
+ – Suite d'Oreste.
+La scène est à Buthrot, ville d'Épire, dans une salle du palais de Pyrrhus.
+
 
 
 # ACTE I.
@@ -1269,7 +1286,7 @@ Mais qu'Oreste à son gré m'impute ses douleurs.
 N'avons-nous d'entretien que celui de ses pleurs ?  
 Pyrrhus revient à nous. Hé bien, chère Cléone,  
 Conçois-tu les transports de l'heureuse Hermione ?  
-Sais-tu quel est Pyrrhus ? T'es-tu fait raconter   [2]
+Sais-tu quel est Pyrrhus ? T'es-tu fait raconter   [1]
 Le nombre des Exploits... Mais qui les peut compter ?  
 Intrépide, et partout suivi de la Victoire,  
 Charmant, Fidèle enfin, rien ne manque à sa Gloire.  
@@ -2439,6 +2456,4 @@ S'il reprenait ici sa rage avec ses sens.
 -------
 
 
-[1] Le texte est celui de l'édition 1668.
-
-[2] ambig. conter/compter
+[1] ambig. conter/compter

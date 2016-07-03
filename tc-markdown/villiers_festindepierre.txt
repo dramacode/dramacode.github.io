@@ -1,6 +1,6 @@
 ---
 identifier: villiers_festindepierre  
-creator: Villiers, Claude Deschamps de  
+creator: Villiers Claude DESCHAMPS de  
 date: 1659  
 title: Le Festin de Pierre.  ou le fils criminel, tragi-comédie.  
 ---
@@ -16,8 +16,10 @@ M. DC. LX. Avec Privilège du Roi.
 
 Traduite de l'italien en français par Le Sieur de VILLIERS.
 
-# . À PARIS, Chez CHARLES DE SERCY.
+À PARIS, Chez CHARLES DE SERCY.
+
 Représenté pour le première fois en août 1659 au théâtre de l'Hôtel de Bourgogne.
+
 
 
 # PERSONNAGES.
@@ -39,7 +41,9 @@ Représenté pour le première fois en août 1659 au théâtre de l'Hôtel de Bo
  – LA MARIÉE.
  – L'OMBRE DE DON PIERRE.
  – PHILIPIN, valet de Don Juan.
- – VALETS DE DON PIERRE.La scène est à Séville et dans quelques lieux fort proches de la ville.
+ – VALETS DE DON PIERRE.
+La scène est à Séville et dans quelques lieux fort proches de la ville.
+
 
 
 # ACTE I.
@@ -595,7 +599,7 @@ Quoi ?
     PHILIPIN.
         Rien du tout ; allons, il me rouerait de coups.  
 
-    DON JUAN, SEUL.
+    DON ALVAROS, SEUL.
 Trop pitoyable Ciel, c'est maintenant à vous,  
 Oui, Dieux, c'est maintenant à vous que je m'adresse,  
 Considérez mes pleurs, regardez ma tristesse,  

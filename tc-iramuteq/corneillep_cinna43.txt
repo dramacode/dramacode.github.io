@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1642 *creator_corneille
+**** *book_ *id_I01 *act_I *date_1642
 
 -*who_emilie
 Impatients désirs d'une illustre vengeance
@@ -56,7 +56,7 @@ Montre-toi généreux, souffrant qu'il te surmonte,
 Plus tu lui donneras, plus il te va donner,
 Et ne triomphera que pour te couronner.
 
-**** *book_ *id_I02 *act_I *date_1642 *creator_corneille
+**** *book_ *id_I02 *act_I *date_1642
 
 -*who_emilie
 Je l'ai juré, Fulvie, et je le jure encore,
@@ -160,7 +160,7 @@ Aujourd'hui l'on s'assemble, aujourd'hui l'on conspire,
 L'heure, le lieu, le bras se choisit aujourd'hui,
 Et c'est à faire enfin à mourir après lui.
 
-**** *book_ *id_I03 *act_I *date_1642 *creator_corneille
+**** *book_ *id_I03 *act_I *date_1642
 
 -*who_emilie
 Mais le voici qui vient. Cinna, votre assemblée
@@ -311,7 +311,7 @@ Que tu me dois ton cœur, que mes faveurs t'attendent,
 Que tes jours me sont chers, que les miens en dépendent,
 Et que... Mais quel sujet mène Évandre vers nous ?
 
-**** *book_ *id_I04 *act_I *date_1642 *creator_corneille
+**** *book_ *id_I04 *act_I *date_1642
 
 -*who_evandre
 Seigneur, César vous mande, et Maxime avec vous.
@@ -422,7 +422,7 @@ Soyez en ma faveur moins cruelle à vous-même.
 -*who_emilie
 Va-t'en, et souviens-toi seulement que je t'aime.
 
-**** *book_ *id_II01 *act_II *date_1642 *creator_corneille
+**** *book_ *id_II01 *act_II *date_1642
 
 -*who_auguste
 Que chacun se retire, et qu'aucun n'entre ici.
@@ -740,7 +740,7 @@ Vous n'êtes pas pour elle un homme à dédaigner,
 Je présume plutôt qu'elle en sera ravie.
 Adieu, j'en veux porter la nouvelle à Livie.
 
-**** *book_ *id_II02 *act_II *date_1642 *creator_corneille
+**** *book_ *id_II02 *act_II *date_1642
 
 -*who_maxime
 Quel est votre dessein après ces beaux discours ?
@@ -845,7 +845,7 @@ Dans un lieu si mal propre à notre confidence.
 Sortons, qu'en sûreté j'examine avec vous
 Pour en venir à bout, les moyens les plus doux.
 
-**** *book_ *id_III01 *act_III *date_1642 *creator_corneille
+**** *book_ *id_III01 *act_III *date_1642
 
 -*who_maxime
 Lui-même il m'a tout dit, leur flamme est mutuelle,
@@ -973,7 +973,7 @@ Va, devant qu'il soit peu j'irai retrouver,
 Cinna vient, et je veux en tirer quelque chose
 Pour mieux résoudre après ce que je me propose.
 
-**** *book_ *id_III02 *act_III *date_1642 *creator_corneille
+**** *book_ *id_III02 *act_III *date_1642
 
 -*who_maxime
 Vous me semblez pensif.
@@ -1064,7 +1064,7 @@ De la bonté d'Octave et de votre faiblesse,
 L'entretien des amants veut un entier secret :
 Adieu. Je me retire en confident discret.
 
-**** *book_ *id_III03 *act_III *date_1642 *creator_corneille
+**** *book_ *id_III03 *act_III *date_1642
 
 -*who_cinna
 Que tu sais mal nommer le glorieux Empire
@@ -1109,7 +1109,7 @@ Et, puisque de ses lois je ne puis m'affranchir,
 Faites qu'à mes désirs je la puisse fléchir.
 Mais voici de retour cette belle inhumaine.
 
-**** *book_ *id_III04 *act_III *date_1642 *creator_corneille
+**** *book_ *id_III04 *act_III *date_1642
 
 -*who_emilie
 Grâces aux dieux, Cinna, ma frayeur était vaine,
@@ -1326,7 +1326,7 @@ Et par cette action dans l'autre confondue
 Recouvrera ma gloire aussitôt que perdue.
 Adieu.
 
-**** *book_ *id_III05 *act_III *date_1642 *creator_corneille
+**** *book_ *id_III05 *act_III *date_1642
 
 -*who_fulvie
       Vous avez mis son âme au désespoir.
@@ -1357,7 +1357,7 @@ Et quoi donc ?
       Qu'il achève, et dégage sa foi,
 Et qu'il choisisse après de la mort, ou de moi.
 
-**** *book_ *id_IV01 *act_IV *date_1642 *creator_corneille
+**** *book_ *id_IV01 *act_IV *date_1642
 
 -*who_auguste
 Tout ce que tu me dis, Euphorbe, est incroyable.
@@ -1422,7 +1422,7 @@ Mais puisqu'il a voulu renoncer à ma grâce,
 Allez pourvoir au reste, et faites qu'on ait soin
 De tenir en lieu sûr ce fidèle témoin.
 
-**** *book_ *id_IV02 *act_IV *date_1642 *creator_corneille
+**** *book_ *id_IV02 *act_IV *date_1642
 
 -*who_auguste
 Ciel, à qui voulez-vous désormais que je fie
@@ -1498,7 +1498,7 @@ D'un prince malheureux ordonnez quelque chose,
 Qui des deux dois-je suivre, et duquel m'éloigner ?
 Ou laissez-moi périr, ou laissez-moi régner.
 
-**** *book_ *id_IV03 *act_IV *date_1642 *creator_corneille
+**** *book_ *id_IV03 *act_IV *date_1642
 
 -*who_auguste
 Madame, on me trahit, et la main qui me tue
@@ -1616,7 +1616,7 @@ Qu'il peut en faisant grâce affermir son pouvoir,
 Et qu'enfin la clémence est la plus belle marque
 Qui fasse à l'Univers connaître un vrai monarque.
 
-**** *book_ *id_IV04 *act_IV *date_1642 *creator_corneille
+**** *book_ *id_IV04 *act_IV *date_1642
 
 -*who_emilie
 D'où me vient cette joie, et que mal à propos
@@ -1672,7 +1672,7 @@ Par un trépas si noble et si digne de vous,
 Que d'abord son éclat vous fera reconnaître
 Le sang des grands héros dont vous m'avez fait naître.
 
-**** *book_ *id_IV05 *act_IV *date_1642 *creator_corneille
+**** *book_ *id_IV05 *act_IV *date_1642
 
 -*who_emilie
 Mais je vous vois, Maxime, et l'on vous faisait mort !
@@ -1802,7 +1802,7 @@ Vivez, belle Émilie, et souffrez qu'un esclave...
 Je ne t'écoute plus qu'en présence d'Octave.
 Allons, Fulvie, allons.
 
-**** *book_ *id_IV06 *act_IV *date_1642 *creator_corneille
+**** *book_ *id_IV06 *act_IV *date_1642
 
 -*who_maxime
       Désespéré, confus,
@@ -1840,7 +1840,7 @@ Mon sang leur servira d'assez pure victime,
 Si dans le tien mon bras justement irrité
 Peut laver le forfait de t'avoir écouté.
 
-**** *book_ *id_V01 *act_V *date_1642 *creator_corneille
+**** *book_ *id_V01 *act_V *date_1642
 
 -*who_auguste
 Prends un siège, Cinna, prends, et sur toute chose
@@ -1996,7 +1996,7 @@ Voyons si ta constance ira jusques au bout.
 Tu sais ce qui t'est dû, tu vois que je sais tout,
 Fais ton arrêt toi-même, et choisis tes supplices.
 
-**** *book_ *id_V02 *act_V *date_1642 *creator_corneille
+**** *book_ *id_V02 *act_V *date_1642
 
 -*who_livie
 Vous ne connaissez pas encor tous les complices,
@@ -2138,7 +2138,7 @@ Il faut bien satisfaire aux feux dont vous brûlez,
 Et que tout l'Univers sachant ce qui m'anime
 S'étonne du supplice aussi bien que du crime.
 
-**** *book_ *id_V03 *act_V *date_1642 *creator_corneille
+**** *book_ *id_V03 *act_V *date_1642
 
 -*who_auguste
 Mais enfin le Ciel m'aime, et parmi tant de maux

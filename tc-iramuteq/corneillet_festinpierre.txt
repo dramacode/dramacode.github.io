@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1677 *creator_corneille
+**** *book_ *id_I01 *act_I *date_1677
 
 -*who_sganarelle
 Quoi qu'en dise Aristote, et sa docte Cabale,
@@ -31,7 +31,7 @@ Qu'on l'indemnise mal des frais de celui-ci.
 -*who_gusman
 Et la raison encor ? Dis-moi, je te conjure,
 D'où te vient une peur de si mauvais augure ?
-Ton maître là-dessus t'a-t-il ouvert son cour ?
+Ton maître là-dessus t'a-t-il ouvert son cœur ?
 T'a-t-il fait remarquer pour nous quelque froideur,
 Qui d'un départ si prompt...
 
@@ -163,7 +163,7 @@ C'est à toi là-dessus de te taire ; autrement...
 -*who_gusman
 Ne crains rien.
 
-**** *book_ *id_I02 *act_I *date_1677 *creator_corneille
+**** *book_ *id_I02 *act_I *date_1677
 
 -*who_donjuan
       Avec qui parlais-tu ? Pourrait-ce être
@@ -202,12 +202,12 @@ Tu le crois ?
       Oui.
 
 -*who_donjuan
-      Ma foi, tu crois juste, et mon cour
+      Ma foi, tu crois juste, et mon cœur
 Pour un objet nouveau sent la plus forte ardeur.
 
 -*who_sganarelle
 Eh mon Dieu ! J'entrevois d'abord ce qui s'y passe.
-Votre cour n'aime point à demeurer en place,
+Votre cœur n'aime point à demeurer en place,
 Et sans lui faire tort sur la fidélité,
 C'est le plus grand coureur qui jamais ait été.
 Tout est de votre goût, brune ou blonde, n'importe.
@@ -248,7 +248,7 @@ Va crois-moi, la constance était bonne jadis,
 Où les leçons d'aimer venaient des Amadis ;
 Mais à présent, on suit des lois plus naturelles.
 On aime sans façon tout ce qu'on voit de belles,
-Et l'amour qu'en nos cours la première a produit,
+Et l'amour qu'en nos cœurs la première a produit,
 N'ôte rien aux appas de celle qui la suit.
 Pour moi, qui ne saurais faire l'inexorable,
 Je me donne partout où je trouve l'aimable,
@@ -256,7 +256,7 @@ Et tout ce qu'une belle a sur moi de pouvoir,
 Ne me rend point ailleurs incapable de voir.
 Sans me vouloir piquer du nom d'amant fidèle,
 J'ai des yeux pour une autre aussi bien que pour elle.
-Et dès qu'un beau visage a demandé mon cour,
+Et dès qu'un beau visage a demandé mon cœur,
 Je ne puis me résoudre à l'armer de rigueur.
 Ravi de voir qu'il cède à la douce contrainte,
 Qui d'abord laisse en lui toute autre flamme éteinte,
@@ -272,7 +272,7 @@ Font goûter aux amants les passions naissantes
 Si pour chaque beauté je m'enflamme aisément,
 Le vrai plaisir d'aimer est dans le changement.
 Il consiste à pouvoir, par d'empressés hommages,
-Forcer d'un jeune cour les scrupuleux ombrages,
+Forcer d'un jeune cœur les scrupuleux ombrages,
 À désarmer sa crainte, à voir de jour en jour
 Par cent petits progrès avancer notre amour ;
 À vaincre doucement la pudeur innocente,
@@ -284,14 +284,14 @@ Ne souhaitant plus rien, on n'a plus rien à dire ;
 À l'amour satisfait tout son charme est ôté,
 Et nous nous endormons dans sa tranquillité,
 Si quelque objet nouveau, par sa conquête à faire,
-Ne réveille en nos cours l'ambition de plaire.
+Ne réveille en nos cœurs l'ambition de plaire.
 Enfin j'aime en amour les exploits différents ;
 Et j'ai sur ce sujet l'ardeur des conquérants,
 Qui sans cesse courant de victoire en victoire,
 Ne peuvent se résoudre à voir borner leur gloire.
 De mes vastes désirs le vol précipité
 Par cent objets vaincus ne peut être arrêté.
-Je sens mon cour plus loin capable de s'étendre,
+Je sens mon cœur plus loin capable de s'étendre,
 Et je souhaiterais, comme fit Alexandre,
 Qu'il fût un autre monde encor à découvrir,
 Où je pusse en amour chercher à con quérir.
@@ -417,7 +417,7 @@ Je la vis par hasard, et j'eus cet avantage,
 Dans le temps qu'ils songeaient à faire leur voyage.
 Il faut te l'avouer. Jamais jusqu'à ce jour
 Je n'ai vu deux amants se montrer tant d'amour.
-De leurs cours trop unis la tendresse visible,
+De leurs cœurs trop unis la tendresse visible,
 Me frappant tout à coup, rendit le mien sensible,
 Et les voyant céder aux transports les plus doux,
 Si je devins amant, je fus amant jaloux.
@@ -426,7 +426,7 @@ Qu'ils s'aimassent autant que l'un et l'autre s'aime.
 Ce bizarre chagrin alluma mes désirs ;
 Je me fis un plaisir de troubler leurs plaisirs,
 De rompre adroitement l'étroite intelligence,
-Dont mon cour délicat se faisait une offense.
+Dont mon cœur délicat se faisait une offense.
 N'ayant pu réussir, plus amoureux toujours,
 C'est au dernier remède enfin que j'ai recours.
 Cet époux prétendu, dont le bonheur me blesse,
@@ -461,7 +461,7 @@ Tu ne m'avais pas dit qu'Elvire était ici.
 -*who_sganarelle
 Savais-je que si tôt vous la verriez paraître ?
 
-**** *book_ *id_I03 *act_I *date_1677 *creator_corneille
+**** *book_ *id_I03 *act_I *date_1677
 
 -*who_elvire
 Don Juan voudra-t-il encor me reconnaître,
@@ -648,7 +648,7 @@ Punira tôt ou tard ton manquement de foi ;
 Et si tu ne crains point sa justice blessée,
 Crains du moins la fureur d'une femme offensée.
 
-**** *book_ *id_I04 *act_I *date_1677 *creator_corneille
+**** *book_ *id_I04 *act_I *date_1677
 
 -*who_sganarelle
 Il ne dit mot, il rêve, et les yeux sur les siens...
@@ -660,13 +660,13 @@ Il est temps d'achever l'amoureuse entreprise,
 Qui me livre l'objet dont mon âme est éprise.
 Suis-moi.
 
-**** *book_ *id_I05 *act_I *date_1677 *creator_corneille
+**** *book_ *id_I05 *act_I *date_1677
 
 -*who_sganarelle
       Le détestable ! À quel maître maudit
 Malgré moi si longtemps mon malheur m'asservit !
 
-**** *book_ *id_II01 *act_II *date_1677 *creator_corneille
+**** *book_ *id_II01 *act_II *date_1677
 
 -*who_charlotte
 Notre-dinse, Piarrot, pour les tirer de paine,
@@ -955,7 +955,7 @@ Qui l'eût été nayé ! Qui l'est genty !
       Je vas
 Boire chopaine, aguieu, je ne tarderai pas.
 
-**** *book_ *id_II02 *act_II *date_1677 *creator_corneille
+**** *book_ *id_II02 *act_II *date_1677
 
 -*who_donjuan
 Il n'y faut plus penser, c'en est fait, Sganarelle.
@@ -1186,7 +1186,7 @@ Donnez-moi seulement votre main.
 -*who_donjuan
 Il faut que cent baisers vous marquent l'intérêt...
 
-**** *book_ *id_II03 *act_II *date_1677 *creator_corneille
+**** *book_ *id_II03 *act_II *date_1677
 
 -*who_pierrot
 Tout doucement, Monsieu, tené-vous, si vous plaît.
@@ -1317,7 +1317,7 @@ Voilà ta charité.
 Et j'm'en vas à ta tante en lâché quatre mots,
 Laisse faire.
 
-**** *book_ *id_II04 *act_II *date_1677 *creator_corneille
+**** *book_ *id_II04 *act_II *date_1677
 
 -*who_donjuan
       À la fin il n ous laisse en repos,
@@ -1329,7 +1329,7 @@ Sera-t-il un bonheur égal au mien ?
       Ah, ah.
 Voici l'autre.
 
-**** *book_ *id_II05 *act_II *date_1677 *creator_corneille
+**** *book_ *id_II05 *act_II *date_1677
 
 -*who_mathurine
       Monsieu, qu'es-donc qu'ou faites-là ?
@@ -1463,7 +1463,7 @@ Quand on a vu vos yeux, on n'en peut souffrir d'autres.
 Une affaire me presse, et je cours l'achever.
 Adieu, dans un moment je viens vous retrouver.
 
-**** *book_ *id_II06 *act_II *date_1677 *creator_corneille
+**** *book_ *id_II06 *act_II *date_1677
 
 -*who_charlotte
 C'est moi qui l'y plaît mieux, au moins.
@@ -1480,7 +1480,7 @@ Croyez-moi toutes deux, ne soyez point si promptes
 À vous laisser ainsi duper par de beaux contes.
 Songez à vos oisons, c'est le plus assuré.
 
-**** *book_ *id_II07 *act_II *date_1677 *creator_corneille
+**** *book_ *id_II07 *act_II *date_1677
 
 -*who_donjuan
 D'où vient que Sganarelle est ici demeuré ?
@@ -1522,7 +1522,7 @@ Je le garantis tel.
       Ce seront des bêtes,
 Ceux qui tiendront de lui des discours malhonnêtes.
 
-**** *book_ *id_II08 *act_II *date_1677 *creator_corneille
+**** *book_ *id_II08 *act_II *date_1677
 
 -*who_laramee
 Je viens vous avertir, Monsieur, qu'ici pour vous
@@ -1540,7 +1540,7 @@ Douze Hommes à cheval, commandés pour vous prendre.
 Ils ont dépeint vos traits à ceux qui me l'ont dit,
 Songez à vous.
 
-**** *book_ *id_II09 *act_II *date_1677 *creator_corneille
+**** *book_ *id_II09 *act_II *date_1677
 
 -*who_sganarelle
       Pourquoi s'aller perdre à crédit ?
@@ -1556,7 +1556,7 @@ C'est à moi qui promet, Charlotte.
 -*who_charlotte
       Oh ! C'est à moi.
 
-**** *book_ *id_II10 *act_II *date_1677 *creator_corneille
+**** *book_ *id_II10 *act_II *date_1677
 
 -*who_donjuan
 Il faut céder, la force est une étrange loi.
@@ -1578,13 +1578,13 @@ M'aller faire tuer ?
 Mais dis-moi, lâche, dis, quand cela devrait être,
 N'est-on pas glorieux de mourir pour son maître ?
 
-**** *book_ *id_II11 *act_II *date_1677 *creator_corneille
+**** *book_ *id_II11 *act_II *date_1677
 
 -*who_sganarelle
 Serviteur à la gloire. Ô Ciel, fais qu'aujourd'hui,
 Sganarelle en fuyant ne soit pas pris pour lui.
 
-**** *book_ *id_III01 *act_III *date_1677 *creator_corneille
+**** *book_ *id_III01 *act_III *date_1677
 
 -*who_sganarelle
 Avouez qu'au besoin j'ai l'imaginative
@@ -1818,7 +1818,7 @@ Celle-ci me ravit.
 -*who_sganarelle
 Vous devriez déjà l'être allé demander.
 
-**** *book_ *id_III02 *act_III *date_1677 *creator_corneille
+**** *book_ *id_III02 *act_III *date_1677
 
 -*who_donjuan
 Quel bien plus grand le Ciel pouvait-il m'accorder ?
@@ -2080,7 +2080,7 @@ Ma foi, c'en était fait sans cela.
 Sans rien dire, venez m'attendre ici ce soir,
 Je m'y rendrai.
 
-**** *book_ *id_III03 *act_III *date_1677 *creator_corneille
+**** *book_ *id_III03 *act_III *date_1677
 
 -*who_therese
       Vraiment, j'aime assez à vous voir.
@@ -2190,7 +2190,7 @@ Allons, petite fille, aidez-moi.
 -*who_leonor
       Ça, ma tante.
 
-**** *book_ *id_III04 *act_III *date_1677 *creator_corneille
+**** *book_ *id_III04 *act_III *date_1677
 
 -*who_sganarelle
 Qu'en dites-vous, Monsieur ?
@@ -2259,7 +2259,7 @@ Quels grands coups il allonge ! Il faut le laisser faire.
 Le plus sûr cependant est de m'aller cacher.
 S'il a besoin de moi, qu'il vienne me chercher.
 
-**** *book_ *id_III05 *act_III *date_1677 *creator_corneille
+**** *book_ *id_III05 *act_III *date_1677
 
 -*who_doncarlos
 Ces Voleurs par leur fuite ont fait assez connaître
@@ -2361,7 +2361,7 @@ Faut-il, quand je vous dois le jour que je respire,
 Que j'aie à me venger, et qu'il vous soit permis
 D'aimer le plus mortel de tous mes Ennemis ?
 
-**** *book_ *id_III06 *act_III *date_1677 *creator_corneille
+**** *book_ *id_III06 *act_III *date_1677
 
 -*who_alonse
 Fais boire nos Chevaux, et que l'on nous attende.
@@ -2421,7 +2421,7 @@ Quoi, Monsieur ?
       Notre querelle
 Se doit vider ailleurs.
 
-**** *book_ *id_III07 *act_III *date_1677 *creator_corneille
+**** *book_ *id_III07 *act_III *date_1677
 
 -*who_donjuan
       Holà, ho, Sganarelle,
@@ -2632,7 +2632,7 @@ Allons, sortons d'ici.
       Sortons, je vous promets,
 Quand je serai dehors, de n'y rentrer jamais.
 
-**** *book_ *id_IV01 *act_IV *date_1677 *creator_corneille
+**** *book_ *id_IV01 *act_IV *date_1677
 
 -*who_donjuan
 Cesse de raisonner sur une bagatelle.
@@ -2673,7 +2673,7 @@ Un Siège.
       Va savoir quand Monsieur dînera.
 Dépêche.
 
-**** *book_ *id_IV02 *act_IV *date_1677 *creator_corneille
+**** *book_ *id_IV02 *act_IV *date_1677
 
 -*who_donjuan
       Que veut-on ?
@@ -2760,7 +2760,7 @@ Et qu'arrêtant le cours de tes dérèglements,
 Je prévienne du Ciel les justes châtiments.
 J'en mourrai, mais je dois mon bras à sa colère.
 
-**** *book_ *id_IV03 *act_IV *date_1677 *creator_corneille
+**** *book_ *id_IV03 *act_IV *date_1677
 
 -*who_donjuan
 Mourez quand vous voudrez, il ne m'importe guère.
@@ -2802,7 +2802,7 @@ Un Homme tel que vous, qui sait comme il faut vivre.
 De votre patience on se doit étonner.
 Pour moi, je vous l'aurais envoyé promener.
 
-**** *book_ *id_IV04 *act_IV *date_1677 *creator_corneille
+**** *book_ *id_IV04 *act_IV *date_1677
 
 -*who_laviolette
 Votre marchand est là, Monsieur.
@@ -2839,7 +2839,7 @@ Il les faut tout au moins payer de quelque chose,
 Et sans leur rien donner, je ne manque jamais
 À les faire de moi retourner satisfaits.
 
-**** *book_ *id_IV05 *act_IV *date_1677 *creator_corneille
+**** *book_ *id_IV05 *act_IV *date_1677
 
 -*who_donjuan
 Bonjour, Monsieur Dimanche. Eh, que ce m'est de joie
@@ -3187,7 +3187,7 @@ Je veux...
 -*who_sganarelle
       Fi, vous dis-je.
 
-**** *book_ *id_IV06 *act_IV *date_1677 *creator_corneille
+**** *book_ *id_IV06 *act_IV *date_1677
 
 -*who_sganarelle
 Nous en voilà défaits.
@@ -3332,7 +3332,7 @@ Demeurer avec vous n'étant point votre Femme !
 Je vous ai découvert de grandes vérités.
 Don Juan, craignez tout, si vous n'en profitez.
 
-**** *book_ *id_IV07 *act_IV *date_1677 *creator_corneille
+**** *book_ *id_IV07 *act_IV *date_1677
 
 -*who_sganarelle
 La laisser partir, sans...
@@ -3479,7 +3479,7 @@ Quoi, d'un rien ton courage est sitôt abattu ?
 -*who_sganarelle
 Ah ! Pauvre Sganarelle, où te cacheras-tu ?
 
-**** *book_ *id_IV08 *act_IV *date_1677 *creator_corneille
+**** *book_ *id_IV08 *act_IV *date_1677
 
 -*who_donjuan
 Une Chaise, un Couvert. Je te suis redevable.
@@ -3551,7 +3551,7 @@ Je veux voir comme on est régalé chez les morts.
 -*who_sganarelle
 Pour cent coups de bâton que n'en suis-je dehors.
 
-**** *book_ *id_V01 *act_V *date_1677 *creator_corneille
+**** *book_ *id_V01 *act_V *date_1677
 
 -*who_donlouis
 Ne m'abusez-vous point, et serait-il possible,
@@ -3646,7 +3646,7 @@ Je cours à votre Mère en porter la nouvelle.
 Adieu, prenez courage, et si vous persistez,
 N'attendez plus que joie et que prospérités.
 
-**** *book_ *id_V02 *act_V *date_1677 *creator_corneille
+**** *book_ *id_V02 *act_V *date_1677
 
 -*who_sganarelle
 Monsieur.
@@ -3874,7 +3874,7 @@ Soyez damné tout seul, car pour moi je suis las...
 N'avais-je pas raison ? Regarde, Sganarelle.
 Vient-on au rendez-vous.
 
-**** *book_ *id_V03 *act_V *date_1677 *creator_corneille
+**** *book_ *id_V03 *act_V *date_1677
 
 -*who_donjuan
       Que de joie ! Ah ma belle,
@@ -4040,7 +4040,7 @@ Vous n'êtes pas encor où vous pensez, beau Sire.
 -*who_donjuan
 Doublons le pas ensemble, il faut la laisser dire.
 
-**** *book_ *id_V04 *act_V *date_1677 *creator_corneille
+**** *book_ *id_V04 *act_V *date_1677
 
 -*who_commandeur
 Arrête, Don Juan.

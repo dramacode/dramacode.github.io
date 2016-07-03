@@ -36,6 +36,7 @@ class Dramacode
         ../tcp5/corneillet_*.xml
         ../tcp5/cyrano_*.xml
         ../tcp5/donneaudevise_*.xml
+        ../tcp5/dorimond_*.xml
         ../tcp5/dumas_*.xml
         ../tcp5/gillet_*.xml
         ../tcp5/letellier_*.xml
