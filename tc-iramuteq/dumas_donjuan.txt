@@ -204,13 +204,13 @@ Mais il est donc décidé à vivre toujours, le vieux comte ?
 Tiens, ne m'en parle pas, Juana ; tu as peut-être entendu dire qu'il y a un Père éternel au ciel, n'est-ce pas ?
 Eh bien, je crois, Dieu me pardonne ! qu'il est descendu sur la terre.
 
--*who_ledomestique
+-*who_unvalet
 Monseigneur Don Juan, votre père se meurt.
 
 -*who_donjuan
 Et il m'envoie chercher ?
 
--*who_ledomestique
+-*who_unvalet
 Non ; il a entendu vos éclats de rire, et il ne veut pas vous attrister ; il envoie chercher son confesseur Don Mortès.
 
 -*who_donchristoval
@@ -4141,7 +4141,7 @@ Suis-je donc dans l'île des illusions ?...
 Est-il possible qu'un homme voie de pareilles choses autrement qu'en rêve ? suis-je bien éveillé, voyons, et ce qui m'entoure a-t-il un corps ou n'est ce qu'une ombre ?
 Ceci est-il une coupe ?
 
--*who_unserviteur
+-*who_unvalet
 Que faut-il que je vous serve, Monseigneur ?
 
 -*who_donjuan
