@@ -1,6 +1,6 @@
 <?php
 /**
-Génère les formats détachés et le site statique basique sur Dramacode
+ * Génère les formats détachés et le site statique basique sur Dramacode
  */
 // cli usage
 Dramacode::deps();
@@ -40,6 +40,7 @@ class Dramacode
         ../tcp5/dumas_*.xml
         ../tcp5/gillet_*.xml
         ../tcp5/letellier_*.xml
+        ../tcp5/moliere_tartuffe64.xml
         ../tcp5/racine_*.xml
         ../tcp5/rosimond_*.xml
         ../tcp5/rotrou_*.xml
@@ -85,13 +86,13 @@ class Dramacode
     */
   );
   static $formats = array(
-    'markdown' => '.txt',
-    'iramuteq' => '.txt',
-    'html' => '.html',
-    'article' => '.html',
-    'epub' => '.epub',
-    'kindle' => '.mobi',
-    // 'docx' => '.docx',
+    'epub' => array( "ext"=>'.epub', "mime"=>"application/epub+zip", "title"=>"Livre électronique" ),
+    'kindle' => array( "ext"=>'.mobi', "mime"=>"application/x-mobipocket-ebook", "title"=>"Livre électronique" ),
+    'markdown' => array( "ext"=>'.txt', "mime"=>"text/markdown; charset=UTF-8", "title"=>"Texte brut" ),
+    'iramuteq' => array( "ext"=>'.txt', "mime"=>"text/plain; charset=UTF-8", "title"=>"Texte brut avec métadonnées au format Iramuteq" ),
+    'naked' => array( "ext"=>'.txt', "mime"=>"text/plain; charset=UTF-8", "label"=>"texte nu", "title"=>"Texte dit, sans didascalies" ),
+    'html' => array( "ext"=>'.html', "mime"=>"text/html; charset=UTF-8", "title"=>"Page web complète avec table des matières"),
+    'article' => array( "ext"=>'.html', "mime"=>"text/html; charset=UTF-8", "label"=>"fragment html", "title"=>"Page web insérable dans un site web"),
   );
   /** petite base sqlite pour conserver la mémoire des doublons etc */
   static $create = "
@@ -148,7 +149,7 @@ CREATE INDEX play_setcode ON play(setcode);
     self::$_logger = $logger;
     $this->connect($sqlitefile);
     // create needed folders
-    foreach (self::$formats as $format => $extension) {
+    foreach (self::$formats as $format => $row) {
       if (!file_exists($dir = dirname(__FILE__).'/'.$format)) {
         mkdir($dir, 0775, true);
         @chmod($dir, 0775);  // let @, if www-data is not owner but allowed to write
@@ -179,9 +180,9 @@ CREATE INDEX play_setcode ON play(setcode);
       $teinte->pre(dirname(__FILE__).'/tc-norm.xsl');
     }
     $echo = "";
-    foreach (self::$formats as $format => $extension) {
+    foreach (self::$formats as $format => $row) {
       $dir = $set['predir'].$format;
-      $destfile = dirname(__FILE__).'/'.$dir.'/'.$srcname.$extension;
+      $destfile = dirname(__FILE__).'/'.$dir.'/'.$srcname.$row["ext"];
       if (!$force && file_exists($destfile) && $srcmtime < filemtime($destfile)) continue;
       if ($format == 'kindle') continue; // kindle mobi should be done just after epub
       // delete destfile if exists ?
@@ -192,6 +193,7 @@ CREATE INDEX play_setcode ON play(setcode);
       if ($format == 'article') $teinte->article($destfile);
       else if ($format == 'markdown') $teinte->markdown($destfile);
       else if ($format == 'iramuteq') $teinte->iramuteq($destfile);
+      else if ($format == 'naked') $teinte->naked($destfile);
       else if ($format == 'epub') {
         $livre = new Livrable_Tei2epub($teinte->dom(), self::$_logger);
         $livre->epub($destfile);
@@ -315,11 +317,11 @@ CREATE INDEX play_setcode ON play(setcode);
       echo '      <td>';
       if ($play['source']) echo '<a href="'.$play['source'].'">TEI</a>';
       $sep = ", ";
-      foreach ( self::$formats as $label=>$extension) {
-        if ($label == 'article') continue;
-        if (isset($set['predir'])) $dir = $set['predir'].$label;
-        else $dir = $label;
-        echo $sep.'<a href="'.$dir.'/'.$play['code'].$extension.'">'.$label.'</a>';
+      foreach ( self::$formats as $key=>$format ) {
+        if (isset($set['predir'])) $dir = $set['predir'].$key;
+        else $dir = $key;
+        if ( !isset( $format['label'] ) ) $format['label'] = $key;
+        echo $sep.'<a title="'.$format['title'].'" type="'.$format['mime'].'" href="'.$dir.'/'.$play['code'].$format["ext"].'">'.$format['label'].'</a>';
       }
       echo "      </td>\n";
       echo "    </tr>\n";
