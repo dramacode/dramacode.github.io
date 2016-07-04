@@ -90,7 +90,7 @@ class Dramacode
     'kindle' => array( "ext"=>'.mobi', "mime"=>"application/x-mobipocket-ebook", "title"=>"Livre électronique" ),
     'markdown' => array( "ext"=>'.txt', "mime"=>"text/markdown; charset=UTF-8", "title"=>"Texte brut" ),
     'iramuteq' => array( "ext"=>'.txt', "mime"=>"text/plain; charset=UTF-8", "title"=>"Texte brut avec métadonnées au format Iramuteq" ),
-    'naked' => array( "ext"=>'.txt', "mime"=>"text/plain; charset=UTF-8", "label"=>"texte nu", "title"=>"Texte dit, sans didascalies" ),
+    'naked' => array( "ext"=>'.txt', "mime"=>"text/plain; charset=UTF-8", "label"=>"paroles", "title"=>"Texte dit, sans didascalies ou intitulés structurants" ),
     'html' => array( "ext"=>'.html', "mime"=>"text/html; charset=UTF-8", "title"=>"Page web complète avec table des matières"),
     'article' => array( "ext"=>'.html', "mime"=>"text/html; charset=UTF-8", "label"=>"fragment html", "title"=>"Page web insérable dans un site web"),
   );
