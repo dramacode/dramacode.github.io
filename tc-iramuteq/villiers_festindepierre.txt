@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1659
+**** *book_ *id_I01 *act_I *date_1659 *creator_villiers
 
 -*who_amarille
 Vraiment, vous tardez bien à me venir trouver !
@@ -111,7 +111,7 @@ Si j'étais à ses yeux autant que vous aimable,
 Ne vous en pensez pas moquer, je sais fort bien
 Qu'il ne s'ennuierait pas dedans mon entretien.
 
-**** *book_ *id_I02 *act_I *date_1659
+**** *book_ *id_I02 *act_I *date_1659 *creator_villiers
 
 -*who_donphilippe
 Adorable beauté pour qui mon coeur soupire,
@@ -218,7 +218,7 @@ Aussitôt que le jour fera place à la nuit,
 Venez assurément sans escorte, et sans bruit,
 Je vous entretiendrai dessous cette fenêtre.
 
-**** *book_ *id_I03 *act_I *date_1659
+**** *book_ *id_I03 *act_I *date_1659 *creator_villiers
 
 -*who_donjuan
 Je vous y préviendrai, pour vous faire connaître
@@ -266,7 +266,7 @@ Je vais vous prévenir, et dans la fin du jour
 Vous verrez si je sais contenter mon amour.
 J'entends quelqu'un, sortons.
 
-**** *book_ *id_I04 *act_I *date_1659
+**** *book_ *id_I04 *act_I *date_1659 *creator_villiers
 
 -*who_donalvaros
       Ah, malheur déplorable !
@@ -352,7 +352,7 @@ Le voici.
       Prends pitié d'un père malheureux,
 Ciel, et touche son coeur, en exauçant mes voeux.
 
-**** *book_ *id_I05 *act_I *date_1659
+**** *book_ *id_I05 *act_I *date_1659 *creator_villiers
 
 -*who_donjuan
 Quoi, mon père est ici ! que je suis misérable !
@@ -567,12 +567,12 @@ Il ne faut plus languir, la mort seule est mon choix,
 Oui, plutôt que de voir les maux que j'appréhende,
 Dieux, donnez-moi la mort que mon coeur vous demande.
 
-**** *book_ *id_II01 *act_II *date_1659
+**** *book_ *id_II01 *act_II *date_1659 *creator_villiers
 
 -*who_philipin
 Je voudrais bien savoir que veut dire cela ?
 
-**** *book_ *id_II02 *act_II *date_1659
+**** *book_ *id_II02 *act_II *date_1659 *creator_villiers
 
 -*who_amarille
 À la force, au secours, on m'enlève ! On me tue !
@@ -640,7 +640,7 @@ Perçons-le, et faisons voir par un effet visible
 Mais je n'aperçois pas que je perds du temps ici,
 Tandis qu'il faut chercher...
 
-**** *book_ *id_II03 *act_II *date_1659
+**** *book_ *id_II03 *act_II *date_1659 *creator_villiers
 
 -*who_donphilippe
       Quel désordre est ceci ?
@@ -712,7 +712,7 @@ Mais comment s'est donc fait un coup si malheureux ?
 -*who_amarille
 Qu'un moment coûte cher souvent aux amoureux !
 
-**** *book_ *id_II04 *act_II *date_1659
+**** *book_ *id_II04 *act_II *date_1659 *creator_villiers
 
 -*who_philipin
 Les tueurs sont partis, sortons de ma cachette ;
@@ -736,7 +736,7 @@ Je n'en portais jamais, ni d'argent, ou je meure :
 Quelqu'un vient, je suis pris, hélas ! c'est tout de bon.
 Par où faut-il fuir ? par où se sauve-t-on ?
 
-**** *book_ *id_II05 *act_II *date_1659
+**** *book_ *id_II05 *act_II *date_1659 *creator_villiers
 
 -*who_donjuan
 J'entends du bruit. Qui va là ?
@@ -863,7 +863,7 @@ Je prendrais mieux que lui le Ciel par escalade ;
 Cachons-nous, j'ouïe du bruit, j'entends quelqu'un marcher :
 N'est-ce point le Prévôt qui viendrait nous chercher ?
 
-**** *book_ *id_II06 *act_II *date_1659
+**** *book_ *id_II06 *act_II *date_1659 *creator_villiers
 
 -*who_prevot
 Madame, je sais trop le sujet de vos plaintes,
@@ -973,7 +973,7 @@ J'ouïe du bruit, compagnons. Avance, la Montagne.
 -*who_archers
 Roquetaillade, avance à moi.
 
-**** *book_ *id_II07 *act_II *date_1659
+**** *book_ *id_II07 *act_II *date_1659 *creator_villiers
 
 -*who_philipin
       Le Ciel m'accompagne,
@@ -1062,7 +1062,7 @@ De ces maudits habits tâchons de nous défaire ;
 J'y sue à même temps, et j'y transis d'effroi,
 Et j'y serais pendu malgré mes dents et moi.
 
-**** *book_ *id_III01 *act_III *date_1659
+**** *book_ *id_III01 *act_III *date_1659 *creator_villiers
 
 -*who_pelerin
 Cour, jadis mes plus grandes délices,
@@ -1100,7 +1100,7 @@ Non plus qu'à ses travaux journaliers résister ;
 Ce lieu s'offre à propos, aussi bien il me semble
 Entendre près d'ici des gens parler ensemble.
 
-**** *book_ *id_III02 *act_III *date_1659
+**** *book_ *id_III02 *act_III *date_1659 *creator_villiers
 
 -*who_philipin
 Comment ! vous en doutez ? dites un peu pourquoi.
@@ -1278,7 +1278,7 @@ Et si je trouverai quelques bons matelots
 Qui nous puissent bientôt abîmer sous les flots ;
 Mais que vois-je sortir de cette grotte obscure ?
 
-**** *book_ *id_III03 *act_III *date_1659
+**** *book_ *id_III03 *act_III *date_1659 *creator_villiers
 
 -*who_donjuan
 Arrête, Philipin.
@@ -1482,7 +1482,7 @@ Je m'empêcherais bien de servir de valet
 Au plus méchant... Mais las ! ce n'est pas encore fait.
 Qui diable vient ici ? fuyons, peur de surprise.
 
-**** *book_ *id_III04 *act_III *date_1659
+**** *book_ *id_III04 *act_III *date_1659 *creator_villiers
 
 -*who_donphilippe
 Dans la juste fureur dont mon âme est surprise,
@@ -1505,7 +1505,7 @@ Si j'ose m'emporter et sortir de moi même,
 Et si je vous demande, en suivant mon dessein,
 Qu'il vous plaise punir ce traître par ma main.
 
-**** *book_ *id_III05 *act_III *date_1659
+**** *book_ *id_III05 *act_III *date_1659 *creator_villiers
 
 -*who_donjuan
 Enfin sous cet habit, on ne me peut connaître ;
@@ -1643,7 +1643,7 @@ Va dedans les Enfers rejoindre ton Beau-père.
 À l'aide, mes amis, au secours, je suis mort ;
 Adorable Amarille, hélas ! plaignez mon sort.
 
-**** *book_ *id_IV01 *act_IV *date_1659
+**** *book_ *id_IV01 *act_IV *date_1659 *creator_villiers
 
 -*who_philemon
 Non, non, je ne puis pas croire que de mon âge
@@ -1687,7 +1687,7 @@ Cela n'est pas nouveau, chacun le sait assez ;
 Allons voir si nos gens sont secs et délassés ;
 Les voilà bien changés qui viennent ce me semble.
 
-**** *book_ *id_IV02 *act_IV *date_1659
+**** *book_ *id_IV02 *act_IV *date_1659 *creator_villiers
 
 -*who_donjuan
 Mon hôte, laissez nous un peu parler ensemble.
@@ -1847,7 +1847,7 @@ Rentrons, j'entends du bruit.
 -*who_philipin
       Allons nous faire pendre.
 
-**** *book_ *id_IV03 *act_IV *date_1659
+**** *book_ *id_IV03 *act_IV *date_1659 *creator_villiers
 
 -*who_philemon
 Monsieur, le justaucorps que vous avez laissé ...
@@ -1867,7 +1867,7 @@ Mon castor l'est aussi ?
 -*who_philipin
 Rentrons en cet état, ne nous laissons pas voir.
 
-**** *book_ *id_IV04 *act_IV *date_1659
+**** *book_ *id_IV04 *act_IV *date_1659 *creator_villiers
 
 -*who_belinde
 Ma Mère, sans mentir, presse trop mon devoir.
@@ -2031,7 +2031,7 @@ Resserrons, j'aperçois quelqu'un qui s'achemine.
 -*who_belinde
 C'est un Monsieur fort brave, et de fort bonne mine.
 
-**** *book_ *id_IV05 *act_IV *date_1659
+**** *book_ *id_IV05 *act_IV *date_1659 *creator_villiers
 
 -*who_donjuan
 Oui, mon cher Philipin, c'est un point arrêté,
@@ -2173,7 +2173,7 @@ Comme il est prompt à battre, il l'est à pardonner.
 La voici de retour, la pauvrette éplorée,
 Ne l'effarouchons point, elle est désespérée
 
-**** *book_ *id_IV06 *act_IV *date_1659
+**** *book_ *id_IV06 *act_IV *date_1659 *creator_villiers
 
 -*who_oriane
 Ah ! ma chère compagne ! Ô Ciel trop rigoureux !
@@ -2280,7 +2280,7 @@ Il ne peut éviter d'être bientôt pendu.
 Le voici qui revient ; quelle face effroyable !
 Il porte au front la marque et la griffe du Diable.
 
-**** *book_ *id_IV07 *act_IV *date_1659
+**** *book_ *id_IV07 *act_IV *date_1659 *creator_villiers
 
 -*who_donjuan
 Philipin.
@@ -2317,7 +2317,7 @@ Que l'on m'aurait blâmé de les avoir sauvées ;
 Et si tu veux aider à mes contentements,
 Approuve mes desseins et suis mes mouvements.
 
-**** *book_ *id_IV08 *act_IV *date_1659
+**** *book_ *id_IV08 *act_IV *date_1659 *creator_villiers
 
 -*who_philipin
 Monsieur, voyez-vous bien ?
@@ -2471,7 +2471,7 @@ Ombre, viendrez vous pas ? dites.
 -*who_philipin
       Grand merci.
 
-**** *book_ *id_V01 *act_V *date_1659
+**** *book_ *id_V01 *act_V *date_1659 *creator_villiers
 
 -*who_donjuan
 Philipin.
@@ -2682,7 +2682,7 @@ J'en ai passablement, mais à présent j'enrage
 D'être si négligent, et n'avoir pas le soin
 D'en conserver assez pour servir au besoin.
 
-**** *book_ *id_V02 *act_V *date_1659
+**** *book_ *id_V02 *act_V *date_1659 *creator_villiers
 
 -*who_donjuan
 Suis, suis, poltron, et vois avec quelle assurance...
@@ -2957,7 +2957,7 @@ J'en sers un où j'aurai bien longtemps attendu,
 Ou pour aller au diable, ou pour être pendu :
 Il faut pourtant songer à nous et prendre garde...
 
-**** *book_ *id_V03 *act_V *date_1659
+**** *book_ *id_V03 *act_V *date_1659 *creator_villiers
 
 -*who_philemon
 Messieurs les violons, sonnez nous la gaillarde.
@@ -3021,7 +3021,7 @@ Ne flûtez pas.
       Flûtez ! au diable soit la bête !
 Mais quelqu'un viendrait-il ici troubler la fête ?
 
-**** *book_ *id_V04 *act_V *date_1659
+**** *book_ *id_V04 *act_V *date_1659 *creator_villiers
 
 -*who_donjuan
 C'est à moi que le sort vous destine aujourd'hui.
@@ -3045,7 +3045,7 @@ Lui-même.
 Voilà pis que jamais. Quoi ! faire tant d'efforts,
 Pour moi je ne crois pas qu'il n'ait le diable au corps.
 
-**** *book_ *id_V05 *act_V *date_1659
+**** *book_ *id_V05 *act_V *date_1659 *creator_villiers
 
 -*who_philemon
 Ah, le Démon l'emporte ! adieu, ma pauvre fille !
@@ -3079,7 +3079,7 @@ Et je prévois qu'après un pareil accident,
 Ton gendre n'aura pas besoin de cure-dent.
 Mais voici revenir notre enragé de maître.
 
-**** *book_ *id_V06 *act_V *date_1659
+**** *book_ *id_V06 *act_V *date_1659 *creator_villiers
 
 -*who_philipin
 Vous pouvez bien chercher quelque trou pour vous mettre ;
@@ -3148,7 +3148,7 @@ Frappe, c'est trop parler.
 Tu t'en vas, malheureux, en ce péril extrême,
 En dépit de la mort, chercher la mort toi-même.
 
-**** *book_ *id_V07 *act_V *date_1659
+**** *book_ *id_V07 *act_V *date_1659 *creator_villiers
 
 -*who_spectre
 Il ne faut point heurter, je t'ai bien entendu.
@@ -3281,7 +3281,7 @@ Trébuche, malheureux, dans la nuit éternelle.
 -*who_philipin
 Ah, grands Dieux ! je suis mort.
 
-**** *book_ *id_V08 *act_V *date_1659
+**** *book_ *id_V08 *act_V *date_1659 *creator_villiers
 
 -*who_philemon
       Enfilons la venelle,

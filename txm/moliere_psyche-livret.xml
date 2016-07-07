@@ -1,0 +1,577 @@
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <text>
+    <body>
+      <div/>
+      <div>
+        <sp who="flore">
+          <l n="1" xml:id="l1">Ce n’est plus le temps de la Guerre ;</l>
+          <l n="2" xml:id="l2">Le plus puissant des Rois</l>
+          <l n="3" xml:id="l3">Interrompt ses Exploits</l>
+          <l n="4" xml:id="l4">Pour donner la Paix à la Terre :</l>
+          <l n="5" xml:id="l5">Descendez, Mère des Amours,</l>
+          <l n="6" xml:id="l6">Venez nous donner de beaux jours.</l>
+        </sp>
+        <sp who="choeur-des-divinites">
+          <l n="7" xml:id="l7">Nous goûtons une Paix profonde ;</l>
+          <l n="8" xml:id="l8">Les plus doux Jeux sont ici bas ;</l>
+          <l n="9" xml:id="l9">On doit ce repos plein d’appas</l>
+          <l n="10" xml:id="l10">Au plus grand ROI du Monde :</l>
+          <l n="11" xml:id="l11">Venez nous donner de beaux jours.</l>
+        </sp>
+        <sp who="vertumne">
+          <l n="12" xml:id="l12">Rendez-vous, Beautés cruelles,</l>
+          <l n="13" xml:id="l13">Soupirez à votre tour :</l>
+        </sp>
+        <sp who="palemon">
+          <l n="14" xml:id="l14">Voici la Reine des Belles</l>
+          <l n="15" xml:id="l15">Qui vient inspirer l’amour.</l>
+        </sp>
+        <sp who="vertumne">
+          <l n="16" xml:id="l16">Un bel Objet toujours sévère</l>
+          <l n="17" xml:id="l17">Ne se fait jamais bien aimer.</l>
+        </sp>
+        <sp who="palemon">
+          <l n="18" xml:id="l18">C’est la beauté qui commence de plaire,</l>
+          <l n="19" xml:id="l19">Mais la douceur achève de charmer.</l>
+        </sp>
+        <sp who="palemon vertumne">
+          <l n="20" xml:id="l20">C’est la beauté qui commence de plaire,</l>
+          <l n="21" xml:id="l21">Mais la douceur achève de charmer.</l>
+        </sp>
+        <sp who="vertumne">
+          <l n="22" xml:id="l22">Souffrons tous qu’Amour nous blesse ;</l>
+          <l n="23" xml:id="l23">Languissons, puisqu’il le faut ;</l>
+        </sp>
+        <sp who="palemon">
+          <l n="24" xml:id="l24">Que sert un cœur sans tendresse ;</l>
+          <l n="25" xml:id="l25">Est-il un plus grand défaut ?</l>
+        </sp>
+        <sp who="vertumne">
+          <l n="26" xml:id="l26">Un bel Objet toujours sévère</l>
+          <l n="27" xml:id="l27">Ne se fait jamais bien aimer.</l>
+        </sp>
+        <sp who="palemon">
+          <l n="28" xml:id="l28">C’est la beauté qui commence de plaire,</l>
+          <l n="29" xml:id="l29">Mais la prudence achève de charmer.</l>
+        </sp>
+        <sp who="flore">
+          <l n="30" xml:id="l30">Est-on sage</l>
+          <l n="31" xml:id="l31">Dans le bel âge ?</l>
+          <l n="32" xml:id="l32">Est-on sage</l>
+          <l n="33" xml:id="l33">De n’aimer pas ?</l>
+          <l n="34" xml:id="l34">Que sans cesse</l>
+          <l n="35" xml:id="l35">L’on se presse</l>
+          <l n="36" xml:id="l36">De goûter les plaisirs ici bas ;</l>
+          <l n="37" xml:id="l37">La sagesse</l>
+          <l n="38" xml:id="l38">De la jeunesse</l>
+          <l n="39" xml:id="l39">C’est de savoir jouir de ses appas.</l>
+          <l n="40" xml:id="l40">L’Amour charme</l>
+          <l n="41" xml:id="l41">Ceux qu’il désarme,</l>
+          <l n="42" xml:id="l42">L’Amour charme,</l>
+          <l n="43" xml:id="l43">Cédons lui tous :</l>
+          <l n="44" xml:id="l44">Notre peine</l>
+          <l n="45" xml:id="l45">Serait vaine</l>
+          <l n="46" xml:id="l46">De vouloir résister à ses coups :</l>
+          <l n="47" xml:id="l47">Quelque chaîne</l>
+          <l n="48" xml:id="l48">Qu’un Amant prenne,</l>
+          <l n="49" xml:id="l49">La Liberté n’a rien qui soit si doux.</l>
+        </sp>
+        <sp who="choeur-des-divinites">
+          <l n="50" xml:id="l50">Nous Goûtons une Paix profonde ;</l>
+          <l n="51" xml:id="l51">Les plus doux Jeux sont ici bas ;</l>
+          <l n="52" xml:id="l52">On doit ce repos plein d’appas</l>
+          <l n="53" xml:id="l53">Au plus grand ROI du Monde.</l>
+          <l n="54" xml:id="l54">Descendez Mère des Amours,</l>
+          <l n="55" xml:id="l55">Venez nous donner de beaux Jours.</l>
+        </sp>
+      </div>
+      <div/>
+      <div>
+        <div>
+          <p>Les deux Sœurs de Psyché expriment la jalousie qu’elles ont contre leur Cadette.</p>
+        </div>
+        <div>
+          <p>Elles veulent se rendre agréable à Cléomène, et à Agénor, deux jeunes Princes Amis ; mais elles les découvrent l’un et l’autre amoureux de Psyché.</p>
+        </div>
+        <div>
+          <p>Les deux Princes déclarent leur amour à Psyché.</p>
+        </div>
+        <div>
+          <p>Lycas avec douleur vient chercher Psyché de la part du Roi son Père.</p>
+        </div>
+        <div>
+          <p>Les deux Sœurs apprennent de Lycas la réponse funeste que l’Oracle a rendue au Roi sur la destinée de Psyché.</p>
+        </div>
+      </div>
+      <div>
+        <sp who="mademoiselle-hylaire">
+          <l n="56" xml:id="l56">Deh piagete al pianto mio</l>
+          <l n="57" xml:id="l57">Sassi duri, antiche selve,</l>
+          <l n="58" xml:id="l58">Lagrimate fonti, e belve</l>
+          <l n="59" xml:id="l59">D’un bel volto il fato rio.</l>
+        </sp>
+        <sp who="m-langeais">
+          <l n="60" xml:id="l60">Ahi dolore !</l>
+        </sp>
+        <sp who="m-morel">
+          <l n="61" xml:id="l61">Ahi martire !</l>
+        </sp>
+        <sp who="m-langeais">
+          <l n="62" xml:id="l62">Cruda morte !</l>
+        </sp>
+        <sp who="m-morel">
+          <l n="63" xml:id="l63">Empia morte !</l>
+        </sp>
+        <sp who="mademoiselle-hylaire m-langeais m-morel">
+          <l n="64" xml:id="l64">Che condanni à morir tanto beltà.</l>
+          <l n="65" xml:id="l65">Cieli, stelle, ahi crudeltà.</l>
+        </sp>
+        <sp who="mademoiselle-hylaire">
+          <l n="66" xml:id="l66">Mêlez vos pleurs avec mes larmes,</l>
+          <l n="67" xml:id="l67">Durs Rochers, froides Eaux, et vous Tigres affreux,</l>
+          <l n="68" xml:id="l68">Pleurez le destin rigoureux</l>
+          <l n="69" xml:id="l69">D’un Objet dont le crime est d’avoir trop de charmes.</l>
+        </sp>
+        <sp who="m-langeais">
+          <l n="70" xml:id="l70">Ô Dieux ! quelle douleur !</l>
+        </sp>
+        <sp who="m-morel">
+          <l n="71" xml:id="l71">Ah ! quel malheur !</l>
+        </sp>
+        <sp who="m-langeais">
+          <l n="72" xml:id="l72">Rigueur mortelle !</l>
+        </sp>
+        <sp who="m-morel">
+          <l n="73" xml:id="l73">Fatalité cruelle !</l>
+        </sp>
+        <sp who="mademoiselle-hylaire m-langeais m-morel">
+          <l n="74" xml:id="l74">Faut-il, hélas !</l>
+          <l n="75" xml:id="l75">Qu’un Sort barbare</l>
+          <l n="76" xml:id="l76">Puisse condamner au trépas</l>
+          <l n="77" xml:id="l77">Une Beauté si rare !</l>
+          <l n="78" xml:id="l78">Cieux ! Astres pleins de dureté !</l>
+          <l n="79" xml:id="l79">Ah ! quelle cruauté !</l>
+        </sp>
+        <sp who="mademoiselle-hylaire">
+          <l n="80" xml:id="l80">Rispondete à miei lamenti</l>
+          <l n="81" xml:id="l81">Antri cavi, ascose rupi,</l>
+          <l n="82" xml:id="l82">Deh ridite fondi cupi</l>
+          <l n="83" xml:id="l83">Del mio duolo i mesti accenti.</l>
+        </sp>
+        <sp who="m-langeais">
+          <l n="84" xml:id="l84">Ahi dolore, etc.</l>
+        </sp>
+        <sp who="m-morel">
+          <l n="85" xml:id="l85">Com’esser può fra voi, ò Numi eterni,</l>
+          <l n="86" xml:id="l86">Chi volgia estinta una beltà innocente,</l>
+          <l n="87" xml:id="l87">Ahi che tanto rigor, Cielo inclemente,</l>
+          <l n="88" xml:id="l88">Vince di crudeltà gli stessi inferni.</l>
+        </sp>
+        <sp who="m-langeais">
+          <l n="89" xml:id="l89">Nume fiero.</l>
+        </sp>
+        <sp who="m-morel">
+          <l n="90" xml:id="l90">Dio severo.</l>
+        </sp>
+        <sp who="m-langeais m-morel">
+          <l n="91" xml:id="l91">Perche tanto rigor</l>
+          <l n="92" xml:id="l92">Contro innocente cor.</l>
+          <l n="93" xml:id="l93">Ahi sentenza inudita,</l>
+          <l n="94" xml:id="l94">Dar morte à la Beltà, ch’altrui da vita.</l>
+        </sp>
+        <sp who="mademoiselle-hylaire">
+          <l n="95" xml:id="l95">Répondez à ma plainte, Échos de ces Bocages,</l>
+          <l n="96" xml:id="l96">Qu’un bruit lugubre éclate au fond de ces Forêts :</l>
+          <l n="97" xml:id="l97">Que les Antres profonds, les Cavernes sauvages,</l>
+          <l n="98" xml:id="l98">Répètent les accents de mes tristes regrets.</l>
+        </sp>
+        <sp who="m-langeais">
+          <l n="99" xml:id="l99">Ô Dieux quelle douleur ! etc.</l>
+        </sp>
+        <sp who="m-morel">
+          <l n="100" xml:id="l100">Que de Vous, ô grands Dieux ! avec tant de furie,</l>
+          <l n="101" xml:id="l101">Veut détruire tant de Beauté ?</l>
+          <l n="102" xml:id="l102">Impitoyable Ciel ! par cette barbarie</l>
+          <l n="103" xml:id="l103">Voulez-vous surmonter l’Enfer en cruauté ?</l>
+        </sp>
+        <sp who="m-langeais">
+          <l n="104" xml:id="l104">Dieu plein de haine !</l>
+        </sp>
+        <sp who="m-morel">
+          <l n="105" xml:id="l105">Divinité trop inhumaine !</l>
+        </sp>
+        <sp who="mademoiselle-hylaire m-langeais m-morel">
+          <l n="106" xml:id="l106">Pourquoi ce courroux si puissant</l>
+          <l n="107" xml:id="l107">Contre un Cœur innocent ?</l>
+          <l n="108" xml:id="l108">Ô rigueur inouïe !</l>
+          <l n="109" xml:id="l109">Trancher de si beaux Jours !</l>
+          <l n="110" xml:id="l110">Lorsqu’ils donnent la vie</l>
+          <l n="111" xml:id="l111">À tant d’Amours !</l>
+        </sp>
+        <sp who="mademoiselle-hylaire">
+          <l n="112" xml:id="l112">Ahi ch’indarno si tarda,</l>
+          <l n="113" xml:id="l113">Non resiste a li Dei, mortale affetto,</l>
+          <l n="114" xml:id="l114">Alto impero ne sforza,</l>
+          <l n="115" xml:id="l115">Ove commanda il Ciel, l’Uom cede à forza.</l>
+        </sp>
+        <sp who="mademoiselle-hylaire">
+          <l n="117" xml:id="l117">Que c’est un vain secours, contre un mal sans remède,</l>
+          <l n="118" xml:id="l118">Que d’inutiles pleurs, et des cris superflus !</l>
+          <l n="119" xml:id="l119">Quand le Ciel a donné des Ordres absolus,</l>
+          <l n="120" xml:id="l120">Il faut que l’effort humain cède.</l>
+        </sp>
+      </div>
+      <div>
+        <div>
+          <p>Le Père de Psyché fait éclater sa douleur, et lui dit le dernier adieu.</p>
+        </div>
+        <div>
+          <p>Les deux Sœurs prennent aussi congé de Psyché.</p>
+        </div>
+        <div>
+          <p>Les deux Princes viennent trouver Psyché pour s’opposer ou s’exposer à tous les périls qui la pourront menacer. [en marge : Enlèvement de Psyché.] Elle est enfin enlevée par le Zéphire, qui la fait emporter sur un amas de nuages par un Tourbillon de vent. Les deux Princes qui la perdent de vue s’abandonnent au désespoir.</p>
+        </div>
+      </div>
+      <div>
+        <sp who="vulcain">
+          <lg>
+            <l n="122" xml:id="l122">Dépêchez, préparez ces Lieux,</l>
+            <l n="123" xml:id="l123">Pour le plus aimable des Dieux :</l>
+            <l n="124" xml:id="l124">Que chacun pour lui s’intéresse,</l>
+            <l n="125" xml:id="l125">N’oubliez rien des soins qu’il faut ;</l>
+            <l n="126" xml:id="l126">Quand l’Amour presse</l>
+            <l n="127" xml:id="l127">On n’a jamais fait assez tôt.</l>
+          </lg>
+          <lg>
+            <l n="128" xml:id="l128">Servez bien un Dieu si charmant,</l>
+            <l n="129" xml:id="l129">Il se plaît dans l’empressement :</l>
+            <l n="130" xml:id="l130">Que chacun pour lui s’intéresse,</l>
+            <l n="131" xml:id="l131">N’oubliez rien des soins qu’il faut ;</l>
+            <l n="132" xml:id="l132">Quand l’Amour presse</l>
+            <l n="133" xml:id="l133">On n’a jamais fait assez tôt.</l>
+          </lg>
+          <l n="134" xml:id="l134">L’Amour ne veut point qu’on diffère,</l>
+          <l n="135" xml:id="l135">Travaillez, hâtez-vous,</l>
+          <l n="136" xml:id="l136">Frappez, redoublez vos coups ;</l>
+          <l n="137" xml:id="l137">Que l’ardeur de lui plaire</l>
+          <l n="138" xml:id="l138">Fasse vos soins les plus doux.</l>
+        </sp>
+      </div>
+      <div>
+        <div>
+          <p>Le Zéphire, Confident de l’Amour, lui rend compte de la commission qu’il a eue d’enlever Psyché.</p>
+        </div>
+        <div>
+          <p>Psyché témoigne son étonnement à la vue de ce superbe Palais, qui s’accorde si mal avec ce qu’elle attend.</p>
+        </div>
+        <div>
+          <p>L’Amour, sans se faire connaître, lui découvre sa passion que Psyché reçoit favorablement. Elle lui demande à voir ses Sœurs, l’Amour lui promet de les faire venir, et en donne l’ordre au Zéphire, qui traverse en l’air tout le Théâtre, et s’envole dans les Nuages par un mouvement rapide.</p>
+        </div>
+      </div>
+      <div>
+        <sp who="zephir">
+          <l n="139" xml:id="l139">Aimable Jeunesse,</l>
+          <l n="140" xml:id="l140">Suivez la Tendresse,</l>
+          <l n="141" xml:id="l141">Joignez aux beaux Jours</l>
+          <l n="142" xml:id="l142">La douceur des Amours :</l>
+          <l n="143" xml:id="l143">C’est pour Vous surprendre</l>
+          <l n="144" xml:id="l144">Qu’on Vous fait entendre</l>
+          <l n="145" xml:id="l145">Qu’il faut éviter leurs soupirs,</l>
+          <l n="146" xml:id="l146">Et craindre leurs désirs ;</l>
+          <l n="147" xml:id="l147">Laissez-Vous apprendre</l>
+          <l n="148" xml:id="l148">Quels sont leurs plaisirs.</l>
+        </sp>
+        <sp who="amour1 amour2">
+          <l n="149" xml:id="l149">Chacun est obligé d’aimer</l>
+          <l n="150" xml:id="l150">À son tour,</l>
+          <l n="151" xml:id="l151">Et plus on a de quoi charmer,</l>
+          <l n="152" xml:id="l152">Plus on doit à l’Amour.</l>
+        </sp>
+        <sp who="amour1">
+          <l n="153" xml:id="l153">Un Amour chante seul.</l>
+          <l n="154" xml:id="l154">Un Cœur jeune et tendre</l>
+          <l n="155" xml:id="l155">Est fait pour se rendre,</l>
+          <l n="156" xml:id="l156">Il n’a point à prendre</l>
+          <l n="157" xml:id="l157">De fâcheux détour.</l>
+        </sp>
+        <sp who="amour1 amour2">
+          <l n="158" xml:id="l158">Chacun est obligé d’aimer</l>
+          <l n="159" xml:id="l159">À son tour,</l>
+          <l n="160" xml:id="l160">Et plus on a de quoi charmer,</l>
+          <l n="161" xml:id="l161">Plus on doit à l’Amour.</l>
+        </sp>
+        <sp who="amour2">
+          <l n="162" xml:id="l162">Pourquoi se défendre ?</l>
+          <l n="163" xml:id="l163">Que sert-il d’attendre ?</l>
+          <l n="164" xml:id="l164">Quand on perd un jour,</l>
+          <l n="165" xml:id="l165">On le perd sans retour.</l>
+        </sp>
+        <sp who="amour2 amour1">
+          <l n="166" xml:id="l166">Chacun est obligé d’aimer</l>
+          <l n="167" xml:id="l167">À son tour,</l>
+          <l n="168" xml:id="l168">Et plus on a de quoi charmer,</l>
+          <l n="169" xml:id="l169">Plus on doit à l’Amour.</l>
+        </sp>
+        <sp who="zephir">
+          <l n="170" xml:id="l170">L’Amour a des charmes,</l>
+          <l n="171" xml:id="l171">Rendons lui les armes :</l>
+          <l n="172" xml:id="l172">Ses soins et ses pleurs</l>
+          <l n="173" xml:id="l173">Ne sont pas sans douceurs :</l>
+          <l n="174" xml:id="l174">Un Cœur pour le suivre</l>
+          <l n="175" xml:id="l175">À cent maux se livre,</l>
+          <l n="176" xml:id="l176">Il faut pour goûter ses appas</l>
+          <l n="177" xml:id="l177">Languir jusqu’au trépas,</l>
+          <l n="178" xml:id="l178">Mais c’est ne pas vivre</l>
+          <l n="179" xml:id="l179">Que de n’aimer pas.</l>
+        </sp>
+        <sp who="amour1 amour2">
+          <l n="180" xml:id="l180">S’il faut des soins, et des travaux,</l>
+          <l n="181" xml:id="l181">En aimant,</l>
+          <l n="182" xml:id="l182">On est payé de mille maux</l>
+          <l n="183" xml:id="l183">Par un heureux moment.</l>
+        </sp>
+        <sp who="amour1">
+          <l n="184" xml:id="l184">On craint, on espère,</l>
+          <l n="185" xml:id="l185">Il faut du mystère ;</l>
+          <l n="186" xml:id="l186">Mais on n’obtient guère</l>
+          <l n="187" xml:id="l187">De bien sans tourment.</l>
+        </sp>
+        <sp who="amour1 amour2">
+          <l n="188" xml:id="l188">S’il faut des soins, et des travaux,</l>
+          <l n="189" xml:id="l189">En aimant,</l>
+          <l n="190" xml:id="l190">On est payé de milleux maux</l>
+          <l n="191" xml:id="l191">Par un heureux moment.</l>
+        </sp>
+        <sp who="amour2">
+          <l n="192" xml:id="l192">Que peut-on mieux faire</l>
+          <l n="193" xml:id="l193">Qu’aimer et que plaire ?</l>
+          <l n="194" xml:id="l194">C’est un soin charmant</l>
+          <l n="195" xml:id="l195">Que l’emploi d’un Amant.</l>
+        </sp>
+        <sp who="amour1 amour2">
+          <l n="196" xml:id="l196">S’il faut des soins, et des travaux,</l>
+          <l n="197" xml:id="l197">En aimant,</l>
+          <l n="198" xml:id="l198">On est payé de mille maux</l>
+          <l n="199" xml:id="l199">Par un heureux moment.</l>
+        </sp>
+      </div>
+      <div>
+        <div>
+          <p>Les deux Sœurs de Psyché s’étonnent à la vue de toutes les Merveilles qu’elles rencontrent, et la félicité de Psyché redouble leur jalousie contre Elle.</p>
+        </div>
+        <div>
+          <p>Elles profitent de la bonne foi de Psyché, et lorsqu’elles s’en doivent séparer, le Zéphire les enlève par un Nuage en globe qui descend du Ciel, et qui s’allonge jusqu’à Terre : [en marge : Enlèvement des deux sœurs.] Ce Nuage enveloppe les deux Sœurs, et s’étant étendu sur toute la largeur du Théâtre, il les emporte avec rapidité.</p>
+        </div>
+        <div>
+          <p>Psyché malgré la résistance de l’Amour veut savoir ce qu’il en est ; l’Amour lié par un serment est contraint de se découvrir, et part en colère pour retourner au Ciel. Dans l’instant qu’il s’envole, le superbe Jardin s’évanouit, et Psyché se trouve [en marge : Le Théâtre est une Campagne.] seule au milieu d’une vaste Campagne, et sur le bord sauvage d’une grande Rivière.</p>
+        </div>
+        <div>
+          <p>Psyché au désespoir du départ de son Amant accuse sa curiosité, et se veut précipiter dans le Fleuve.</p>
+        </div>
+        <div>
+          <p>Le Dieu du Fleuve paraît assis sur un amas de Joncs et de Roseaux, et appuyé sur une grande Urne d’où sort une grosse source d’eau. Il retient Psyché, et l’avertit que Vénus la cherche.</p>
+        </div>
+        <div>
+          <p>Vénus fait des reproches à Psyché qui essaie de s’excuser. La Déesse irritée lui ordonne de la suivre pour éprouver sa constance.</p>
+        </div>
+      </div>
+      <div/>
+      <div>
+        <div>
+          <p>Psyché dans une Barque, et après plusieurs travaux, paraît avec la Boite qu’elle a été prendre dans les Enfers par l’ordre de Vénus.</p>
+        </div>
+        <div>
+          <p>Elle trouve les Ombres des deux Princes ses Amants, que le désespoir avait fait mourir.</p>
+        </div>
+        <div>
+          <p>Psyché sans songer au malheur que lui avait produit sa première curiosité, veut essayer sur elle la vertu de ce qu’elle porte dans la Boite, et en l’ouvrant, elle tombe évanouie.</p>
+        </div>
+        <div>
+          <p>[en marge : Descente de l’Amour.] L’Amour descend en volant, et vient promptement au secours de Psyché, il la croit morte, et s’abandonne au désespoir.</p>
+        </div>
+        <div>
+          <p>[Chœur de Vénus.] Vénus paraît en l’Air sur son Char, et la Mère et le Fils s’emportent l’un contre l’autre.</p>
+        </div>
+        <div>
+          <p>Jupiter s’avance pour arrêter leurs emportements, [en marge : Machine de Jupiter.] lorsque Vénus l’aperçoit, elle se retire vers l’un des côtés du Théâtre, Jupiter met enfin d’accord Vénus et son Fils, et commande à l’Amour d’enlever Psyché au Ciel, pour y célébrer leurs Noces.</p>
+        </div>
+      </div>
+      <div>
+        <sp who="apollon">
+          <l n="200" xml:id="l200">Unissons-Nous, Troupe immortelle ;</l>
+          <l n="201" xml:id="l201">Le Dieu d’Amour devient heureux Amant,</l>
+          <l n="202" xml:id="l202">Et Vénus a repris sa douceur naturelle</l>
+          <l n="203" xml:id="l203">En faveur d’un Fils si charmant :</l>
+          <l n="204" xml:id="l204">Il va goûter en paix après un long tourment,</l>
+          <l n="205" xml:id="l205">Une félicité qui doit être éternelle.</l>
+        </sp>
+        <sp who="choeur-des-divinites">
+          <l n="206" xml:id="l206">Célébrons ce grand Jour ;</l>
+          <l n="207" xml:id="l207">Célébrons tous une Fête si belle :</l>
+          <l n="208" xml:id="l208">Que nos Chants en tous lieux en portent la nouvelle ;</l>
+          <l n="209" xml:id="l209">Qu’ils fassent retentir le céleste séjour :</l>
+          <l n="210" xml:id="l210">Chantons, répétons, tour à tour,</l>
+          <l n="211" xml:id="l211">Qu’il n’est point d’Âme si cruelle</l>
+          <l n="212" xml:id="l212">Qui tôt ou tard ne se rende à l’Amour.</l>
+        </sp>
+        <sp who="bacchus">
+          <l n="213" xml:id="l213">Si quelquefois,</l>
+          <l n="214" xml:id="l214">Suivant nos douces Lois,</l>
+          <l n="215" xml:id="l215">La Raison se perd et s’oublie,</l>
+          <l n="216" xml:id="l216">Ce que le vin nous cause en un jour ;</l>
+          <l n="217" xml:id="l217">Mais quand un Cœur est enivré d’Amour,</l>
+          <l n="218" xml:id="l218">Souvent, c’est pour toute la vie.</l>
+        </sp>
+        <sp who="mome">
+          <l n="219" xml:id="l219">Je cherche à médire</l>
+          <l n="220" xml:id="l220">Sur la Terre, et dans les Cieux ;</l>
+          <l n="221" xml:id="l221">Je soumets à ma Satire</l>
+          <l n="222" xml:id="l222">Les plus grands des Dieux.</l>
+          <l n="223" xml:id="l223">Il n’est dans l’Univers que l’Amour qui m’étonne,</l>
+          <l n="224" xml:id="l224">Il est le Seul que j’épargne aujourd’hui ;</l>
+          <l n="225" xml:id="l225">Il n’appartient qu’à Lui</l>
+          <l n="226" xml:id="l226">De n’épargner personne.</l>
+        </sp>
+        <sp who="mars">
+          <l n="227" xml:id="l227">Mes plus fiers Ennemis vaincus ou pleins d’effroi</l>
+          <l n="228" xml:id="l228">Ont vu toujours ma Valeur triomphante</l>
+          <l n="229" xml:id="l229">L’Amour est le Seul qui se vante</l>
+          <l n="230" xml:id="l230">D’avoir pu triompher de Moi.</l>
+        </sp>
+        <sp who="choeur-des-divinites">
+          <l n="231" xml:id="l231">Chantons les plaisirs charmants</l>
+          <l n="232" xml:id="l232">Des heureux Amants.</l>
+          <l n="233" xml:id="l233">Répondez-nous Trompettes,</l>
+          <l n="234" xml:id="l234">Timbales, et Tambours</l>
+          <l n="235" xml:id="l235">Accordez-nous toujours</l>
+          <l n="236" xml:id="l236">Avec le doux son des Musettes,</l>
+          <l n="237" xml:id="l237">Accordez-vous toujours</l>
+          <l n="238" xml:id="l238">Avec le doux chant des Amours.</l>
+        </sp>
+        <sp who="apollon">
+          <lg>
+            <l n="239" xml:id="l239">Le Dieu qui nous engage</l>
+            <l n="240" xml:id="l240">À lui faire la Cour,</l>
+            <l n="241" xml:id="l241">Défend qu’on soit trop sage.</l>
+            <l n="242" xml:id="l242">Les Plaisirs ont leur tour,</l>
+            <l n="243" xml:id="l243">C’est leur plus doux usage</l>
+            <l n="244" xml:id="l244">Que de finir les soins du Jour ;</l>
+            <l n="245" xml:id="l245">La Nuit est le partage</l>
+            <l n="246" xml:id="l246">Des Jeux, et de l’Amour.</l>
+          </lg>
+          <lg>
+            <l n="247" xml:id="l247">Ce serait grand dommage</l>
+            <l n="248" xml:id="l248">Qu’en ce charmant Séjour</l>
+            <l n="249" xml:id="l249">On eut un Cœur sauvage.</l>
+            <l n="250" xml:id="l250">Les Plaisirs ont eu leur tour,</l>
+            <l n="251" xml:id="l251">C’est leur plus doux usage,</l>
+            <l n="252" xml:id="l252">Que de finir les soins du Jour ;</l>
+            <l n="253" xml:id="l253">La Nuit est le partage</l>
+            <l n="254" xml:id="l254">Des Jeux, et de l’Amour.</l>
+          </lg>
+        </sp>
+        <sp who="muses">
+          <l n="255" xml:id="l255">Gardez-vous, Beautés sévères,</l>
+          <l n="256" xml:id="l256">Les Amours font trop d’affaires,</l>
+          <l n="257" xml:id="l257">Craignez toujours de vous laisser charmer :</l>
+          <l n="258" xml:id="l258">Quand il faut que l’on soupire,</l>
+          <l n="259" xml:id="l259">Tout le mal n’est pas de s’enflammer :</l>
+          <l n="260" xml:id="l260">Le martyre</l>
+          <l n="261" xml:id="l261">De le dire,</l>
+          <l n="262" xml:id="l262">Coûte plus cent fois que d’aimer.</l>
+        </sp>
+        <sp who="muses">
+          <l n="263" xml:id="l263">On ne peut aimer sans peines,</l>
+          <l n="264" xml:id="l264">Il est peu de douces chaînes,</l>
+          <l n="265" xml:id="l265">À tout moment on se sent alarmer ;</l>
+          <l n="266" xml:id="l266">Quand il faut que l’on soupire,</l>
+          <l n="267" xml:id="l267">Tout le mal n’est pas de s’enflammer ;</l>
+          <l n="268" xml:id="l268">Le martyre</l>
+          <l n="269" xml:id="l269">De le dire.</l>
+          <l n="270" xml:id="l270">Coûte plus cent fois que d’aimer.</l>
+        </sp>
+        <sp who="bacchus">
+          <l n="271" xml:id="l271">Admirons le Jus de la Treille :</l>
+          <l n="272" xml:id="l272">Qu’il est puissant ! qu’il a d’attraits !</l>
+          <l n="273" xml:id="l273">Il sert aux douceurs de la Paix,</l>
+          <l n="274" xml:id="l274">Et dans la Guerre, il fait merveille :</l>
+          <l n="275" xml:id="l275">Mais surtout pour les Amours,</l>
+          <l n="276" xml:id="l276">Le Vin est d’un grand secours.</l>
+        </sp>
+        <sp who="silene">
+          <l n="277" xml:id="l277">Bacchus veut qu’on boive à longs traits ;</l>
+          <l n="278" xml:id="l278">On ne se plaint jamais</l>
+          <l n="279" xml:id="l279">Sous son heureux Empire :</l>
+          <l n="280" xml:id="l280">Tout le jour on n’y fait que rire,</l>
+          <l n="281" xml:id="l281">Et la nuit on y dort en paix.</l>
+        </sp>
+        <sp who="silene">
+          <l n="282" xml:id="l282">Ce Dieu rend nos vœux satisfaits ;</l>
+          <l n="283" xml:id="l283">Que sa Cour a d’attraits !</l>
+          <l n="284" xml:id="l284">Chantons y bien sa gloire :</l>
+          <l n="285" xml:id="l285">Tout le jour on n’y fait que boire,</l>
+          <l n="286" xml:id="l286">Et la nuit on y dort en paix.</l>
+        </sp>
+        <sp who="satyre1 satyre2 silene">
+          <l n="287" xml:id="l287">Voulez-vous des douceurs parfaites ?</l>
+          <l n="288" xml:id="l288">Ne les cherchez qu’au fond des Pots.</l>
+        </sp>
+        <sp who="satyre1">
+          <l n="289" xml:id="l289">Les Grandeurs sont sujettes</l>
+          <l n="290" xml:id="l290">À cent peines secrètes.</l>
+        </sp>
+        <sp who="satyre2">
+          <l n="291" xml:id="l291">L’Amour fait perdre le repose.</l>
+        </sp>
+        <sp who="satyre1 satyre2 silene">
+          <l n="292" xml:id="l292">Voulez-vous des douceurs parfaites ?</l>
+          <l n="293" xml:id="l293">Ne les cherchez qu’au fond des Pots.</l>
+        </sp>
+        <sp who="satyre1">
+          <l n="294" xml:id="l294">C’est là que sont les Ris, les Jeux, les Chansonnettes.</l>
+        </sp>
+        <sp who="satyre2">
+          <l n="295" xml:id="l295">C’est dans le Vin qu’on trouve les bons mots.</l>
+        </sp>
+        <sp who="satyre1 satyre2 silene">
+          <l n="296" xml:id="l296">Voulez-vous des douceurs parfaites ?</l>
+          <l n="297" xml:id="l297">Ne les cherchez qu’au fonds Pots.</l>
+        </sp>
+        <sp who="mome">
+          <l n="298" xml:id="l298">Folâtrons, divertissons-Nous,</l>
+          <l n="299" xml:id="l299">Raillons, Nous ne saurions mieux faire,</l>
+          <l n="300" xml:id="l300">La Raillerie est nécessaire</l>
+          <l n="301" xml:id="l301">Dans les Jeux les plus doux.</l>
+          <l n="302" xml:id="l302">Sans la douceur que l’on goûte à médire,</l>
+          <l n="303" xml:id="l303">On trouve peu de plaisirs sans ennui ;</l>
+          <l n="304" xml:id="l304">Rien n’est si plaisant que de rire,</l>
+          <l n="305" xml:id="l305">Quand on rit aux dépens d’autrui.</l>
+          <l n="306" xml:id="l306">Plaisantons, ne pardonnons rien,</l>
+          <l n="307" xml:id="l307">Rions, rien n’est plus à la mode,</l>
+          <l n="308" xml:id="l308">On court péril d’être trop incommode</l>
+          <l n="309" xml:id="l309">En disant trop de bien.</l>
+          <l n="310" xml:id="l310">Sans la douceur que l’on goûte à médire,</l>
+          <l n="311" xml:id="l311">On trouve peu de plaisirs sans ennui ;</l>
+          <l n="312" xml:id="l312">Rien n’est si plaisant que de rire,</l>
+          <l n="313" xml:id="l313">Quand on rit aux dépens d’autrui.</l>
+        </sp>
+        <sp who="mars">
+          <l n="314" xml:id="l314">Laissons en paix toute la Terre,</l>
+          <l n="315" xml:id="l315">Cherchons de doux Amusements ;</l>
+          <l n="316" xml:id="l316">Parmi les Jeux les plus charmants,</l>
+          <l n="317" xml:id="l317">Mêlons l’image de la Guerre.</l>
+        </sp>
+        <sp who="choeur">
+          <l n="318" xml:id="l318">Chantons les Plaisirs charmants</l>
+          <l n="319" xml:id="l319">Des heureux Amants :</l>
+          <l n="320" xml:id="l320">Répondez-nous Trompettes,</l>
+          <l n="321" xml:id="l321">Timbales, et Tambours ;</l>
+          <l n="322" xml:id="l322">Accordez-vous toujours</l>
+          <l n="323" xml:id="l323">Avec le doux son des Musettes ;</l>
+          <l n="324" xml:id="l324">Accordez-vous toujours</l>
+          <l n="325" xml:id="l325">Avec le doux chant des Amours.</l>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>

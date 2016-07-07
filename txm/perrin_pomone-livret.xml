@@ -1,0 +1,1235 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <text>
+    <body>
+      <div xml:id="auroy">
+        <pb n="A,1"/>
+        <pb n="3" xml:id="p3"/>
+        <p>Sire,</p>
+        <p>Aprez avoir rendu Vostre Estat victorieux, tranquille &amp; bien-heureux, il ne restoit plus à V.M. qu’à le rendre riche, brillant &amp; magnifique. C’est dans cette veuë qu’elle a transplanté dans son Royaume les Arts Liberaux, le Commerce &amp; les Manufactures, &amp; qu’elle s’est appliquée avec tant de soin à l’embellissement de ses Maisons, &amp; de sa Ville Capitale : C’est cét Esprit de grandeur &amp; de magnificence, dont Vostre Ame Royale est entierement possedée, qui a fait sortir de terre ces grands Palais du Louvre, &amp; de Versailles, &amp; qui les a comblez de cette profusion admirable de meubles &amp; de richesses : C’est luy qui a donné à la France tant de beaux divertissemens, &amp; nouvellement ce Superbe Ballet, qui a fait l’<ref target="#etonnement">étonnement*</ref> de toute l’Europe. Toutes ces choses m’ont persuadé, S I R E, que V. M. auroit agreable que <pb n="4" xml:id="p4"/> l’on introduisit dans son Royaume le seul spectacle &amp; l’unique divertissement dont il estoit privé, qui est celuy des Opera, que l’Italie &amp; l’Allemagne avoient de particuliers, &amp; sembloient nous reprocher tous les jours. V. M. S I RE, a eu la bonté d’approuver mon dessein, &amp; de l’appuyer de son authorité,  &amp; j’ay eu le bon-heur d’estre assisté dans cette entreprise des soins et de la dépense d’un des plus grands Seigneurs tout ensemble, &amp; des plus beaux Genies de Vostre Royaume.  Avec cela, S I R E, V. M. trouvera sans doute que nous avons mal répondu à la grandeur de ses illustres desseins, &amp; à la magnificence de ses Ballets : Mais quelle proportion y peut-il avoir entre le Soleil et les Etoiles, entre de foibles sujets, &amp; le plus grand des Roys. Le courage, S I R E, nous manque moins que les forces : Elles redoubleront, si V. M. honore nos representations de sa Royale presence, &amp; nostre Academie de sa toute-puissante protection : Nous luy demandons tres-humblement l’un &amp; l’autre. Pour moy, S I R E, je suis déja plus que content d’avoir témoigné par cet effort temeraire le <ref target="#zele">zele*</ref> passionné que j’ay pour l’avancement de vostre gloire, &amp; la profonde veneration avec laquelle je suis,</p>
+        <p>SIRE,</p>
+        <p>De V. M.</p>
+        <p rend="right">Le tres-humble, tres-obeïssant, &amp; tres-fidele sujet &amp; serviteur.</p>
+        <p>PERRIN.</p>
+      </div>
+      <div xml:id="avantpropos">
+        <pb n="B,5" xml:id="p5"/>
+        <p>Dez les premieres representations de cét Opera, mes amis m’avertirent que l’on en critiquoit les paroles, &amp; comme ils estoient persuadez que c’estoit injustement, ils me conseillerent pour les justifier de les faire imprimer : Je m’en suis deffendu jusqu’icy, en leur representant que je n’estois point surpris des mauvais bruits que l’on en faisoit courir ; qu’outre que par une <ref target="#fronde">fronde*</ref> de deux années j’estois tout accoustumé &amp; tout preparé aux caquets des <ref target="#envie1">envieux*</ref>, des interessez, &amp; des ignorans, dont le nombre estoit infiny, je ne doutois pas que la <ref target="#nouveaute">nouveauté*</ref> de cette Poësie Lyrique &amp; Dramatique tout ensemble ne frapat d’abord les plus <ref target="#habile">habiles*</ref> , jusqu’à ce qu’ils en eussent pris le goust, &amp; qu’à force de reflechir dessus ils fussent entrez dans son esprit, d’autant plus qu’ils ne trouveroient pas icy ce qu’ils attendoient, qui estoit des Airs &amp; des Chansons de Chambre sur des paroles retournées &amp; pleines de redites continuelles, telles que la Musique Françoise en a produit jusqu’icy, mais d’une manière de Poësie originale et sans modele : Que je devois estre content de voir que contre l’opinion generale j’estois parvenu à ma fin, &amp; que ces Vers si criti- <pb n="B, 6" xml:id="p6"/>quez formoient non seulement un Opera François, que les Maistres de l’Art soûtenoient estre impossible par le deffaut de la langue &amp; des Acteurs ; mais, de l’aveu public, le spectacle le plus surprenant, le plus divertissant &amp; le plus beau que des particuliers ayent donné de nos jours à la France. Que les plus mal intentionnez, apres l’avoir veu &amp; <ref target="#censurer">censuré*</ref> en toutes ses parties, estoient forcez de revenir, &amp; d’avoüer qu’ils ne s’y estoient point ennuyez, &amp; que tout leur <ref target="#chagrin">chagrin*</ref>, apres deux heures &amp; demie de representation, estoit de le voir si-tost finir : Qu’au reste ce n’estoient que des bruits confus &amp; mal articulez, qui n’aboutissoient qu’à blâmer trois ou quatre vers, dont les expressions, disoit-on, estoient trop basses et trop vulgaires, sans considerer ny les personnes qui parlent, ny les choses ausquelles elles sont appliquées, &amp; lesquels mesme j’ay changez pour éviter procez, &amp; pour m’épargner des explications importunes.</p>
+        <p>Que le reste n’estoient que de fausses plaisanteries, que l’on y crioit, disoit-on, des Pommes &amp; des Artichauts, que l’on y parloit de <ref target="#bourrique">Bourriques*</ref>, &amp; de pareils quolibets, qui ne meritoient pas une reflexion. Qu’enfin je devois estre consolé d’apprendre que quatre ou cinq de nos plus <ref target="#habile">habiles*</ref> hommes en Poësie, qui connoissoient par leur propre experience l’Art &amp; la difficulté de composer des paroles pour la Musique, ne disoient pas du mal de celles-cy, &amp; y reprenoient peu de choses, qu’ils confessoient encore estre faciles à corriger.</p>
+        <p><pb n="7" xml:id="p7"/> Mes amis n’ont pas esté satisfaits de ces raisons, &amp; m’ont representé. Que les bruits se fortifioient de jour en jour. Que le venin se glissoit par contagion jusques dans les esprits les plus éclairez, &amp; les personnes les plus desinteressées. Que je leur donnois le temps de former &amp; de debiter de mauvais jugemens, dont apres ils auroient honte &amp; peine de se retracter ; qu’il y alloit non seulement de mon honneur de me justifier en imprimant les vers, mais de l’interest de cét establissement, que ses ennemis tachoient de ruïner par ces calomnies, &amp; qu’enfin je donnasse quelque chose à leur amitié &amp; à leur <ref target="#zele">zele*</ref>, &amp; que je leur fournisse des armes pour me deffendre.</p>
+        <p>Je me suis enfin rendu à leurs raisons &amp; à leurs prieres, &amp; j’ay consenty que la piece fût imprimée plûtost que je ne l’avois resolu, sans toutesfois pretendre de la justifier icy pour plusieurs raisons. L’une que j’aurois mauvaise grace de faire moy-mesme mon Apologie, l’autre que la matiere est trop vaste pour estre renfermée dans un Avant-Propos, &amp; la derniere que je serois obligé d’expliquer les secrets d’un Art que j’ay découverts par un long estude, &amp; que je suis bien aise de me reserver. Je supplie seulement ceux qui ne seront pas satisfaits de la piece d’en faire la critique, &amp; de la donner au jour, nous en profiterons le public &amp; moy. De ma part je pourray me corriger de mes deffauts, et d’ailleurs m’engageans à une responce, ils donneront occasion à une dissertation curieuse sur ce <pb n="8" xml:id="p8"/> sujet, qui pourra tout ensemble instruire et plaire : Je les avertis seulement de remarquer que par les raisons que j’ay dites dans l’Avant-Propos de l’Argument que j’ay fait imprimer, j’ay jugé à propos d’ouvrir le Theatre par une piece Pastorale, bien que j’en eusse trois <ref target="#heroique">Heroïques*</ref> toutes composées, qu’il en faut juger sur ce pied la, &amp; considerer qu’elle est composée de Divinitez, &amp; de Personnages Champestres, &amp; qu’elle conduit tout ensemble, sur les Styles <ref target="#enjoue">enjoüé*</ref> &amp; Rustique, l’intrigue de Theatre, la Musique &amp; la <ref target="#symphonie">Symphonie*</ref> continuelles, la Machine &amp; la Danse.</p>
+        <p>Je leur demande apres cela qu’ils attaquent la place en <ref target="#galant">galants*</ref> hommes ; c’est à dire en soldats &amp; par les formes, et non pas en <ref target="#fronde">frondeurs*</ref> en escarmouchant, &amp; je leur declare que s’ils continuënt de le faire par satyres et par invectives, je leur répondray par un doux silence, &amp; que je donneray toute mon application à composer de nouvelles pieces pour continuer à les divertir.</p>
+        <p>Au reste le champ est ouvert pour mieux faire, &amp; si quelqu’un veut <ref target="#travailler">travailler*</ref> sur cette matiere, &amp; faire l’honneur à l’Academie de luy presenter un Opera, je luy dy de sa part, qu’apres qu’il aura esté examiné par des gens <ref target="#habile">habiles*</ref> et non suspects, s’il est par eux jugé digne d’estre representé, il le sera de bonne foy avec tous les soins &amp; tous les ornemens possibles, &amp; mesme si c’est une personne d’interest, on luy promet une honneste reconnoissance.</p>
+        <pb n="C, 9" xml:id="p9"/>
+      </div>
+      <div xml:id="personnages">
+        <div>
+          <div/>
+          <div>
+            <pb n="10" xml:id="p10"/>
+          </div>
+        </div>
+        <div/>
+        <div/>
+        <div>
+          <p>La veuë de Paris à l’endroit du Louvre.</p>
+          <p>Vergers de Pomone.</p>
+          <p>Parc de Chesnes.</p>
+          <p>Rochers &amp; Verdures.</p>
+          <p>Palais de Pluton.</p>
+          <p>Jardin &amp; Berceau de Pomone.</p>
+          <p>Palais de Vertune.</p>
+        </div>
+      </div>
+      <div>
+        <pb n="11" xml:id="p11"/>
+        <sp who="lanymphedelaseine">
+          <l n="1" xml:id="l1">Toy qui vis autresfois le Fleuve des Romains</l>
+          <l n="2" xml:id="l2">Triompher des humains</l>
+          <l n="3" xml:id="l3">Et porter le sceptre du Monde,</l>
+          <l n="4" xml:id="l4">Vertune, que dis-tu de ma rive feconde ?</l>
+        </sp>
+        <sp who="vertune">
+          <l n="5" xml:id="l5">J’admire tes grandeurs &amp; la <ref target="#felicite">felicité*</ref></l>
+          <l n="6" xml:id="l6">De ta belle Cité ;</l>
+          <l n="7" xml:id="l7">Mais ta <ref target="#merveille">merveille*</ref> la plus grande</l>
+          <l n="8" xml:id="l8">C’est la <ref target="#pompeux">pompeuse*</ref> Majesté</l>
+          <l n="9" xml:id="l9">Du Roy qui la commande.</l>
+          <l n="10" xml:id="l10">Dans l’Auguste LOUIS je trouve un <ref target="#nouveaute">nouveau*</ref> Mars,</l>
+          <l n="11" xml:id="l11">Dans sa ville <ref target="#superbe">superbe*</ref> une <ref target="#nouveaute">nouvelle*</ref> Rome :</l>
+          <l n="12" xml:id="l12">Jamais, jamais un si grand homme</l>
+          <l n="13" xml:id="l13">Ne fut assis au thrône des Cesars.</l>
+        </sp>
+        <sp who="lanymphedelaseine">
+          <l n="14" xml:id="l14">Aussi sur la Terre &amp; sur l’onde, <pb n="12" xml:id="p12"/></l>
+          <l n="15" xml:id="l15">Ce Monarque puissant ne fait point de projets,</l>
+          <l n="16" xml:id="l16">Que le Ciel ne seconde :</l>
+          <l n="17" xml:id="l17">Il est l’Amour.</l>
+        </sp>
+        <sp who="vertune lanymphedelaseine">
+          <l n="18" xml:id="l18">Il est l’Amour &amp; la terreur du monde ;</l>
+          <l n="19" xml:id="l19">L’effroy de ses voisins, le cœur de ses sujets.</l>
+        </sp>
+        <sp who="lanymphedelaseine">
+          <l n="20" xml:id="l20">Mais quel dessein t’amene</l>
+          <l n="21" xml:id="l21">Sur le bord de la Seine ?</l>
+        </sp>
+        <sp who="vertune">
+          <l n="22" xml:id="l22">Moy qui forge les visions,</l>
+          <l n="23" xml:id="l23">Je viens tromper ses yeux de mes illusions,</l>
+          <l n="24" xml:id="l24">Et luy montrer mes anciennes <ref target="#merveille">merveilles*</ref>.</l>
+        </sp>
+        <sp who="vertune lanymphedelaseine">
+          <l n="25" xml:id="l25"><ref target="#sus">Sus*</ref> donc, par nos accords <ref target="#amoureux">amoureux*</ref> &amp; <ref target="#toucher1">touchants*</ref>,</l>
+          <l n="26" xml:id="l26">Commençons de charmer son cœur &amp; ses oreilles :</l>
+          <l n="27" xml:id="l27">Meslons nos voix, &amp; remplissons les champs</l>
+          <l n="28" xml:id="l28">Du doux bruit de nos chants.</l>
+        </sp>
+      </div>
+      <div type="act">
+        <pb n="D,13" xml:id="p13"/>
+        <div type="scene">
+          <sp who="pomone">
+            <l n="29" xml:id="l29">Passons nos jours dans ces vergers,</l>
+            <l n="30" xml:id="l30">Loin des amours &amp; des Bergers.</l>
+            <l n="31" xml:id="l31" part="I">Passons nos jours</l>
+          </sp>
+          <sp who="pomone juturne">
+            <l part="F">passons nos jours</l>
+            <l n="32" xml:id="l32">Loin des Bergers et des amours. <hi rend="i"><ref target="#ritournelle">Ritornele*</ref></hi>.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="33" xml:id="l33">Qui voudra s’engage</l>
+            <l n="34" xml:id="l34">Sous les loix d’amour</l>
+            <l n="35" xml:id="l35">Qui voudra s’engage</l>
+            <l n="36" xml:id="l36">Et fasse la cour</l>
+            <l n="37" xml:id="l37">A ce Dieu <ref target="#volage">volage*</ref>:</l>
+            <l n="38" xml:id="l38">Qui voudra l’adore,</l>
+            <l n="39" xml:id="l39">Pour moy je l’<ref target="#abhorrer">abhorre*</ref></l>
+            <l n="40" xml:id="l40">Le flot de la mer,</l>
+            <l n="41" xml:id="l41">Est moins infidele</l>
+            <l n="42" xml:id="l42">La fleur en est belle<pb n="14" xml:id="p14"/></l>
+            <l n="43" xml:id="l43">Mais le fruit <ref target="#amer">amer*</ref>.</l>
+          </sp>
+          <sp who="pomone juturne">
+            <l n="44" xml:id="l44">La fleur, etc. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+          </sp>
+          <sp who="venilie">
+            <l n="45" xml:id="l45">Qui croit ce <ref target="#cajoler">cajoleur*</ref></l>
+            <l n="46" xml:id="l46">N’a que peine et douleur.</l>
+          </sp>
+          <sp who="juturne">
+            <l n="47" xml:id="l47">Dans l’empire <ref target="#amoureux">amoureux*</ref></l>
+            <l n="48" xml:id="l48">Le sort le plus heureux</l>
+            <l n="49" xml:id="l49">Est le plus dangereux.</l>
+          </sp>
+          <sp who="venilie">
+            <l n="50" xml:id="l50">Le flot de la mer</l>
+            <l n="51" xml:id="l51">Est moins infidele.</l>
+          </sp>
+          <sp who="juturne">
+            <l n="52" xml:id="l52">La fleur en est belle</l>
+            <l n="53" xml:id="l53">Mais le fruit <ref target="#amer">amer*</ref>.</l>
+          </sp>
+          <sp who="juturne venilie">
+            <l n="54" xml:id="l54">La fleur, etc. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+          </sp>
+          <sp who="juturne">
+            <l n="55" xml:id="l55">Le doux plaisir d’<ref target="#amourette">amourette*</ref></l>
+            <l n="56" xml:id="l56">Est une tendre <ref target="#fleurette">fleurette*</ref></l>
+            <l n="57" xml:id="l57">Qui ne dure qu’un matin,</l>
+            <l n="58" xml:id="l58">Il a le destin</l>
+            <l n="59" xml:id="l59">Des plus belles choses,</l>
+            <l n="60" xml:id="l60">Il naist, il fleurit, il passe en un jour</l>
+            <l n="61" xml:id="l61">Les chaisnes d’amour,</l>
+            <l n="62" xml:id="l62">Sont chaisnes de Roses.</l>
+          </sp>
+          <sp who="juturne venilie">
+            <l n="63" xml:id="l63">Les chaisnes, etc. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="64" xml:id="l64">Passons nos jours dans ces vergers, <pb n="15" xml:id="p15"/></l>
+            <l n="65" xml:id="l65">Loin des amours et des Bergers,</l>
+            <l n="66" xml:id="l66" part="I">Passons nos jours,</l>
+          </sp>
+          <sp who="pomone juturne">
+            <l part="F">passons nos jours</l>
+            <l n="67" xml:id="l67">Loin des Bergers et des amours. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="flore">
+            <l n="68" xml:id="l68">Ah ! ma sœur, à quoy penses-tu ?</l>
+            <l n="69" xml:id="l69">Veux-tu bannir de ton empire</l>
+            <l n="70" xml:id="l70">Ce Dieu puissant, dont la vertu</l>
+            <l n="71" xml:id="l71">Anime tout ce qui respire,</l>
+            <l n="72" xml:id="l72">Et dont les fecondes chaleurs</l>
+            <l n="73" xml:id="l73">Font naistre tes fruits et mes fleurs.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="74" xml:id="l74">Je consens que ses flâmes</l>
+            <l n="75" xml:id="l75">Brûlent tout l’univers</l>
+            <l n="76" xml:id="l76">Pourveu que dans nos ames</l>
+            <l n="77" xml:id="l77">Il trouve incessamment la <ref target="#glace">glace*</ref> et les <ref target="#hiver">hyvers*</ref>.</l>
+          </sp>
+          <sp who="flore">
+            <l n="78" xml:id="l78">Ah !si tu connoissois comme moy ses delices !</l>
+          </sp>
+          <sp who="beroe">
+            <l n="79" xml:id="l79">Ah !si tu connoissois comme moi ses <ref target="#malice">malices*</ref> !</l>
+          </sp>
+          <sp who="flore">
+            <l n="80" xml:id="l80">De combien de douçeurs il <ref target="#flatter">flatte*</ref> nos désirs !</l>
+          </sp>
+          <sp who="beroe">
+            <l n="81" xml:id="l81">Combien il cause de soupirs !<pb n="16" xml:id="p16"/></l>
+          </sp>
+          <sp who="flore">
+            <l n="82" xml:id="l82" part="I">Que ses fers</l>
+          </sp>
+          <sp who="beroe">
+            <l part="M">que ses lois</l>
+          </sp>
+          <sp who="flore">
+            <l part="M">sont doux ;</l>
+          </sp>
+          <sp who="beroe">
+            <l part="F">sont inhumaines !</l>
+          </sp>
+          <sp who="flore">
+            <l n="83" xml:id="l83" part="I">Qu’il est beau,</l>
+          </sp>
+          <sp who="beroe">
+            <l part="M"> qu’il est dur,</l>
+          </sp>
+          <sp who="flore beroe">
+            <l part="F">de vivre dans ses chaisnes !</l>
+          </sp>
+          <sp who="pomone">
+            <l n="84" xml:id="l84">Il a des biens, il a des peines ;</l>
+            <l n="85" xml:id="l85">Et je ne veux que des plaisirs.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="ledieudesjardins">
+            <l n="86" xml:id="l86">Soulage donc les flames</l>
+            <l n="87" xml:id="l87">Du grand Dieu des Jardins.</l>
+            <l n="88" xml:id="l88">De plaisirs eternels il sçait remplir les ames,</l>
+            <l n="89" xml:id="l89">Renonce pour jamais à l’amour des <ref target="#blondin">Blondins*</ref><pb n="E,17" xml:id="p17"/></l>
+            <l n="90" xml:id="l90">Foibles trompeurs, inconstans et <ref target="#badin">badins*</ref>,</l>
+            <l n="91" xml:id="l91">Unissons, unissons nos cœurs et nos empires ;</l>
+            <l n="92" xml:id="l92">Ajoûte aux fruits de tes vergers</l>
+            <l n="93" xml:id="l93">Les herbes de mes potagers,</l>
+            <l n="94" xml:id="l94">Join mes Melons à tes Poncires ;</l>
+            <l n="95" xml:id="l95">Et mesle parmy tes Pignons</l>
+            <l n="96" xml:id="l96">Mes Truffes et mes Champignons.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="faune">
+            <l n="97" xml:id="l97">C’est bien à toy, Dieu miserable,</l>
+            <l n="98" xml:id="l98">De pretendre à tes maux quelque soulagement !</l>
+          </sp>
+          <sp who="ledieudesjardins">
+            <l n="99" xml:id="l99">C’est bien à toy, <ref target="#monstre">monstre*</ref> effroyable,</l>
+            <l n="100" xml:id="l100">De servir un <ref target="#objet">objet*</ref> si rare et si charmant !</l>
+          </sp>
+          <sp who="faune">
+            <l n="101" xml:id="l101">Elle a beau resister et faire la <ref target="#mutin">mutine*</ref>,</l>
+            <l n="102" xml:id="l102" part="I">C’est à moy,</l>
+          </sp>
+          <sp who="faune ledieudesjardins">
+            <l part="F">C’est à moy que le Ciel la destine.</l>
+          </sp>
+          <sp who="ledieudesjardins">
+            <l n="103" xml:id="l103">Tout cede</l>
+          </sp>
+          <sp who="ledieudesjardins faune">
+            <l n="104" xml:id="l104">Tout cede, tout se rend à mon pouvoir divin. <pb n="18" xml:id="p18"/></l>
+          </sp>
+          <sp who="flore">
+            <l n="105" xml:id="l105">Vous le dites en vain,</l>
+            <l n="106" xml:id="l106">On vous connoit tous deux, mais éprouvons les vôtres,</l>
+            <l n="107" xml:id="l107">Faites chanter les uns, faites danser les autres.</l>
+          </sp>
+          <sp who="lesjardiniers">
+            <l n="108" xml:id="l108">Vive le Dieu des Jardiniers,</l>
+            <l n="109" xml:id="l109">Il est toujours prest à bien faire,</l>
+            <l n="110" xml:id="l110">Bergeres, portez vos paniers,</l>
+            <l n="111" xml:id="l111">Il a dequoy vous satisfaire.</l>
+            <l n="112" xml:id="l112">Sans luy les jeux, les passe-temps</l>
+            <l n="113" xml:id="l113">N’ont qu’une douceur imparfaite ;</l>
+            <l n="114" xml:id="l114">Et s’il n’est de la feste,</l>
+            <l n="115" xml:id="l115">L’on ne rit pas long-temps.</l>
+            <l n="116" xml:id="l116">Rien n’est si doux que sa <ref target="#furieux2">fureur*</ref></l>
+            <l n="117" xml:id="l117">Ny si plaisant que sa <ref target="#folie2">folie*</ref> ;</l>
+            <l n="118" xml:id="l118">Elle bannit de nostre cœur</l>
+            <l n="119" xml:id="l119">La plus noire mélancolie,</l>
+            <l n="120" xml:id="l120">Sans luy, etc.</l>
+          </sp>
+          <sp who="ledieudesjardins">
+            <l n="121" xml:id="l121">Hé bien ! dans tes buissons,</l>
+            <l n="122" xml:id="l122">Tes Oyseaux chantent-ils de pareilles Chansons ?</l>
+          </sp>
+          <sp who="faune">
+            <l n="123" xml:id="l123">Il est vray que jamais Rossignols d’Arcadie</l>
+            <l n="124" xml:id="l124">N’ont fait plus douce melodie.</l>
+          </sp>
+          <sp who="ledieudesjardins">
+            <l n="125" xml:id="l125">A vous, Bouviers,</l>
+            <l n="126" xml:id="l126">Illustre <ref target="#bande">bande*</ref>,</l>
+            <l n="127" xml:id="l127">Touchez, <ref target="#toucher2">touchez*</ref> n’importe, Menestriers ; <pb n="19" xml:id="p19"/></l>
+            <l n="128" xml:id="l128">Passepied, Menüet, Gavotte ou Sarabande.</l>
+            <p rend="center">Entrée de ballet.</p>
+            <p rend="center">Bouviers.</p>
+          </sp>
+          <sp who="faune">
+            <l n="129" xml:id="l129">Couronnez, il est temps, couronnez le vainqueur,</l>
+            <l n="130" xml:id="l130">Donnez-luy vostre main, donnez-luy vostre cœur.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="131" xml:id="l131">Cueillez, Nymphes, dans ces prairies,</l>
+            <l n="132" xml:id="l132">Cueillez pour eux des guirlandes fleuries.</l>
+            <l n="133" xml:id="l133">Et vous, ma sœur,</l>
+            <l n="134" xml:id="l134">Couronnez le vainqueur.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="faune ledieudesjardins">
+            <l n="135" xml:id="l135">Donnez-luy vostre main, donnez-luy vostre cœur.</l>
+          </sp>
+          <sp who="flore">
+            <l n="136" xml:id="l136">Venez voir couronner vos tendres <ref target="#amourette">amourettes*</ref>,</l>
+            <l n="137" xml:id="l137">Et recevoir le premier de ses dons, <pb n="20" xml:id="p20"/></l>
+            <l n="138" xml:id="l138">Ah !pour un plus heureux on garde les <ref target="#fleurette">fleurettes*</ref>,</l>
+            <l n="139" xml:id="l139">Pour vous l’épine et les chardons.</l>
+          </sp>
+          <sp who="flore juturne venilie beroe">
+            <l n="140" xml:id="l140">Ah !pour un plus heureux, etc.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="faune">
+            <l n="141" xml:id="l141">Voyla le prix de vos Musiques,</l>
+            <l n="142" xml:id="l142">Et ce que meritent vos chants :</l>
+          </sp>
+          <sp who="ledieudesjardins">
+            <l n="143" xml:id="l143">Voyla le fruit du Dieu des champs,</l>
+            <l n="144" xml:id="l144">Et dequoy paistre ses <ref target="#bourrique">Bourriques*</ref>.</l>
+          </sp>
+          <sp who="ledieudesjardins lesjardiniers">
+            <l n="145" xml:id="l145">Voyla le fruit, etc.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="vertune">
+            <l n="146" xml:id="l146">Helas !que me sert-il de changer tous les jours</l>
+            <l n="147" xml:id="l147">De forme et de figure,</l>
+            <l n="148" xml:id="l148">Et de me <ref target="#deguiser">déguiser*</ref> à toute la nature, <pb n="F,21" xml:id="p21"/></l>
+            <l n="149" xml:id="l149">Si je ne puis changer l’<ref target="#objet">objet*</ref> de mes amours !</l>
+            <l n="150" xml:id="l150">J’aime une <ref target="#insensible">insensible*</ref> maistresse,</l>
+            <l n="151" xml:id="l151">Une <ref target="#ingrate">ingrate*</ref> et fiere Deesse,</l>
+            <l n="152" xml:id="l152">Qui se rit du tourment</l>
+            <l n="153" xml:id="l153">Et des soins d’un amant.</l>
+            <l n="154" xml:id="l154">Que ferons-nous, mon cœur, en des peines si dures ?</l>
+            <l n="155" xml:id="l155">Ah ! puis que vainement je dirois mes <ref target="#langueur">langueurs*</ref>,</l>
+            <l n="156" xml:id="l156">Il faut nous transformer, et sous d’autres figures,</l>
+            <l n="157" xml:id="l157">Tacher de vaincre ses <ref target="#rigueur">rigueurs*</ref>.</l>
+            <l n="158" xml:id="l158">Vous que le Ciel soumet à ma puissance,</l>
+            <l n="159" xml:id="l159">Hola, Follets, venez, volez, suivez mes pas,</l>
+            <l n="160" xml:id="l160">Mais ne vous monstrez pas,</l>
+            <l n="161" xml:id="l161">A mes loix seulement rendez obeyssance.</l>
+          </sp>
+        </div>
+      </div>
+      <div/>
+      <div type="act">
+        <div type="scene">
+          <sp who="beroe">
+            <l n="162" xml:id="l162">Ah ! n’est-ce pas assez qu’on aime et qu’on soupire</l>
+            <l n="163" xml:id="l163">Pendant le cours de sa jeune saison ?</l>
+            <l n="164" xml:id="l164">Pourquoy faut-il, Amour, étendre ton Empire<pb n="22" xml:id="p22"/></l>
+            <l n="165" xml:id="l165">Jusques sur nostre âge <ref target="#grison">grison*</ref> ?</l>
+            <l n="166" xml:id="l166">Malgré tous mes efforts, malgré toutes mes feintes,</l>
+            <l n="167" xml:id="l167">Je sents vivre tes feux dans mes cendres éteintes :</l>
+            <l n="168" xml:id="l168">D’une crüelle ardeur je me voy consumer,</l>
+            <l n="169" xml:id="l169">Que la <ref target="#glace">glace*</ref> des ans ne fait que rallumer ;</l>
+            <l n="170" xml:id="l170">J’ayme un Dieu… le voicy, tachons de le surprendre ;</l>
+            <l n="171" xml:id="l171">Il réve à ses amours, cachons-nous pour l’entendre.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="vertune">
+            <l n="172" xml:id="l172">O doux Zephirs</l>
+            <l n="173" xml:id="l173">Vous enflamez la terre</l>
+            <l n="174" xml:id="l174">Par vos soupirs ;</l>
+            <l n="175" xml:id="l175">Et de vos pleurs</l>
+            <l n="176" xml:id="l176">On voit dans ce <ref target="#parterre2">parterre*</ref></l>
+            <l n="177" xml:id="l177">Naistre les fleurs :</l>
+            <l n="178" xml:id="l178">Helas ! ainsi que vous,</l>
+            <l n="179" xml:id="l179">Je suis tendre et fidele,</l>
+            <l n="180" xml:id="l180">Discret et doux ;</l>
+            <l n="181" xml:id="l181">Et mes douleurs</l>
+            <l n="182" xml:id="l182">Ne <ref target="#toucher1">touchent*</ref> point la belle</l>
+            <l n="183" xml:id="l183">Pour qui je meurs.</l>
+            <l n="184" xml:id="l184">Mais pourquoy tant gemir ? poursuy ton entreprise,</l>
+            <l n="185" xml:id="l185">Lache, c’est trop se plaindre et soupirer en vain,</l>
+            <l n="186" xml:id="l186">Use de ton pouvoir divin, <pb n="23" xml:id="p23"/></l>
+            <l n="187" xml:id="l187">Join à l’amour la ruse et la <ref target="#surprise">surprise*</ref>.</l>
+            <l n="188" xml:id="l188">Il faut l’attendre icy ; dans ce <ref target="#bocage">bocage*</ref> vert,</l>
+            <l n="189" xml:id="l189">Elle cherche souvent le frais et le <ref target="#couvert">couvert*</ref>.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="beroe">
+            <l n="190" xml:id="l190">Quoy toujours inflexible,</l>
+            <l n="191" xml:id="l191">Toujours sourd à mes vœux,</l>
+            <l n="192" xml:id="l192">Et toûjours <ref target="#amoureux">amoureux*</ref></l>
+            <l n="193" xml:id="l193">D’une belle <ref target="#insensible">insensible*</ref> ?</l>
+          </sp>
+          <sp who="vertune">
+            <l n="194" xml:id="l194">Le ridicule <ref target="#objet">objet*</ref>* !</l>
+            <l n="195" xml:id="l195">L’Enfer l’amene icy pour troubler mon projet.</l>
+          </sp>
+          <sp who="beroe">
+            <l n="196" xml:id="l196" part="I">Quoy ? tant d’amour ? ingrat !</l>
+          </sp>
+          <sp who="vertune">
+            <l part="F">évitons sa poursuite.</l>
+          </sp>
+          <sp who="beroe">
+            <l n="197" xml:id="l197">Arreste, et voy du moins ma peine et mes <ref target="#langueur">langueurs*</ref>,</l>
+            <l n="198" xml:id="l198">Un moment encor et je meurs.</l>
+          </sp>
+          <sp who="vertune">
+            <l n="199" xml:id="l199">Il faut l’épouvanter et luy donner la fuite.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <pb n="24" xml:id="p24"/>
+          <sp who="beroe">
+            <l n="200" xml:id="l200">Que voyez-vous mes yeux ?</l>
+            <l n="201" xml:id="l201">Quel Dragon <ref target="#furieux1">furieux*</ref> ?</l>
+            <l n="202" xml:id="l202">Mais non, rasseurons-nous, c’est luy qui se transforme</l>
+            <l n="203" xml:id="l203">En ce <ref target="#monstre">monstre*</ref> difforme.</l>
+            <l n="204" xml:id="l204">Hé bien ! cruël, <ref target="#souler">saoule*</ref>-toy de mon sang,</l>
+            <l n="205" xml:id="l205">Contente ton <ref target="#envie2">envie*</ref>,</l>
+            <l n="206" xml:id="l206">Dechire moy le flanc,</l>
+            <l n="207" xml:id="l207">Arrache moy la vie</l>
+            <l n="208" xml:id="l208">Je béniray mon sort,</l>
+            <l n="209" xml:id="l209">Et je ne puis mourir d’une plus douce mort.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="beroe">
+            <l n="210" xml:id="l210">Mais quel éclair ? quel horrible tonnerre ?</l>
+            <l n="211" xml:id="l211">Quel tremblement de terre ?</l>
+            <l n="212" xml:id="l212">Quels Fantômes affreux et quelles visions ?</l>
+            <l n="213" xml:id="l213">Que de <ref target="#monstre">monstres*</ref> armez de feu, de fer, de <ref target="#foudre">foudre*</ref>,</l>
+            <l n="214" xml:id="l214">Pour me reduire en <ref target="#poudre">poudre*</ref>?</l>
+            <l n="215" xml:id="l215">Je vous connoy, Follets, et vos illusions.</l>
+            <l n="216" xml:id="l216">Vous croyez m’<ref target="#etonnement">étonner*</ref> par cette allarme feinte,<pb n="G,25" xml:id="p25"/></l>
+            <l n="217" xml:id="l217">Et me joüer à vostre tour :</l>
+            <l n="218" xml:id="l218">Mais l’on ne peut former les <ref target="#glace">glaces*</ref> de la crainte,</l>
+            <l n="219" xml:id="l219">Où regnent les feux de l’amour.</l>
+            <p rend="center">Entrée de ballet.</p>
+            <p rend="center"><ref target="#fantome">Fantomes*</ref>.</p>
+          </sp>
+          <sp who="beroe">
+            <l n="220" xml:id="l220">Hé bien, Follets, est-ce assez d’<ref target="#imposture">impostures*</ref>,</l>
+            <l n="221" xml:id="l221">De grimaces et de <ref target="#posture">postures*</ref> ?</l>
+            <l n="222" xml:id="l222">Et croyez-vous encor sous ce <ref target="#masque">masque*</ref> trompeur,</l>
+            <l n="223" xml:id="l223">Me donner de la peur ?</l>
+          </sp>
+          <sp who="beroe">
+            <l n="224" xml:id="l224">Au secours, je suis morte,</l>
+            <l n="225" xml:id="l225">On m’entraisne, on m’emporte.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="ledieudesjardins lesjardiniers">
+            <l n="226" xml:id="l226">Pauvre Nourrisse, helas ! tes cris sont superflus.</l>
+            <l n="227" xml:id="l227">Donnons, donnons, frapons dessus.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="follets-bergeres1">
+            <l n="228" xml:id="l228" part="I">Tu veux m’assassiner ?</l>
+          </sp>
+          <sp who="ledieudesjardins">
+            <l part="F">Ah ! ma chere voisine !</l>
+          </sp>
+          <sp who="jardinier1">
+            <l n="229" xml:id="l229" part="I">Ma sœur !</l>
+          </sp>
+          <sp who="jardinier2">
+            <l part="M">ma femme !</l>
+          </sp>
+          <sp who="jardinier3">
+            <l part="F">ma cousine !</l>
+          </sp>
+          <sp who="follets-bergeres5">
+            <l n="230" xml:id="l230" part="I">C’est toy, Philandre, helas !</l>
+          </sp>
+          <sp who="jardinier4">
+            <l part="F">c’est toy chere Cloris !</l>
+          </sp>
+          <sp who="follets-bergeres2">
+            <l n="231" xml:id="l231" part="I">Mon aymable Alcidor !</l>
+          </sp>
+          <sp who="jardinier3">
+            <l part="F">ma <ref target="#charmer">charmante*</ref> Doris !</l>
+          </sp>
+          <sp who="follets-bergeres3">
+            <l n="232" xml:id="l232" part="I">Ah Damon !<pb n="27" xml:id="p27"/></l>
+          </sp>
+          <sp who="jardinier4">
+            <l part="F">ah ! Climene !</l>
+            <l n="233" xml:id="l233">O Dieux ! qui vous amene</l>
+            <l n="234" xml:id="l234">En ces bords étrangers ?</l>
+          </sp>
+          <sp who="follets-bergeres3">
+            <l n="235" xml:id="l235">Le desir de revoir nos aymables Bergers</l>
+          </sp>
+          <sp who="follets-bergeres1">
+            <l n="236" xml:id="l236">Depuis que vous cessez de cultiver nos terres,</l>
+            <l n="237" xml:id="l237">La mousse et les buissons croissent dans nos <ref target="#parterre1">parterres*</ref> :</l>
+          </sp>
+          <sp who="follets-bergeres2">
+            <l n="238" xml:id="l238">On voit sur nostre teint une jaune <ref target="#paleur">pasleur*</ref>,</l>
+          </sp>
+          <sp who="follets-bergeres3">
+            <l n="239" xml:id="l239" part="I">Nous n’avons plus de Lys</l>
+          </sp>
+          <sp who="follets-bergeres4">
+            <l part="F">nous n’avons plus de Roses,</l>
+          </sp>
+          <sp who="follets-bergeres5">
+            <l n="240" xml:id="l240">Et nos fleurs demy closes</l>
+            <l n="241" xml:id="l241">Fletrissent de douleur.</l>
+          </sp>
+          <sp who="jardinier3">
+            <l n="242" xml:id="l242">Depuis vostre absence,</l>
+            <l n="243" xml:id="l243">Ce n’est que souffrance,</l>
+            <l n="244" xml:id="l244">Tristesse et <ref target="#langueur">langueur*</ref></l>
+          </sp>
+          <sp who="jardinier4">
+            <l n="245" xml:id="l245">Dez la moindre peine,</l>
+            <l n="246" xml:id="l246">Nous perdons haleine,</l>
+            <l n="247" xml:id="l247">Courage et vigueur.</l>
+          </sp>
+          <sp who="jardinier3">
+            <l n="248" xml:id="l248">Nos peaux sont plus seches</l>
+            <l n="249" xml:id="l249">Que des parchemins, <pb n="28" xml:id="p28"/></l>
+          </sp>
+          <sp who="jardinier3 follets-bergeres4">
+            <l n="250" xml:id="l250">Et nos pauvres <ref target="#beche">beches*</ref></l>
+            <l n="251" xml:id="l251">Nous tombent des mains.</l>
+          </sp>
+          <sp who="jardinier2">
+            <l n="252" xml:id="l252" part="I">Allons, Bergers,</l>
+          </sp>
+          <sp who="jardinier1">
+            <l part="F">allons, Bergeres.</l>
+          </sp>
+          <sp who="jardinier1 jardinier2 jardinier3 jardinier4">
+            <l n="253" xml:id="l253">Allons Bergers, allons, Bergeres</l>
+            <l n="254" xml:id="l254">Gouster les douceurs du retour.</l>
+          </sp>
+          <sp who="follets-bergeres1 follets-bergeres2">
+            <l n="255" xml:id="l255">Allons sur les vertes fougeres</l>
+            <l n="256" xml:id="l256">Cueillir les doux fruits de l’amour.</l>
+          </sp>
+          <sp who="jardinier1 jardinier2 jardinier3 jardinier4">
+            <l n="257" xml:id="l257">Allons sur les vertes etc.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="ledieudesjardins lesjardiniers">
+            <l n="258" xml:id="l258"><ref target="#peste2">Peste*</ref> !quel <ref target="#changement2">changement*</ref> ?quelle metamorphose ?</l>
+            <l n="259" xml:id="l259">Ah !nous trouvons l’épine, où nous cherchons la Rose !</l>
+          </sp>
+          <sp who="ledieudesjardins">
+            <l n="260" xml:id="l260">Que viens-tu faire en ce lieu,</l>
+            <l n="261" xml:id="l261">Pauvre Dieu ?</l>
+            <l n="262" xml:id="l262">Tu brûles de vaines flâmes,<pb n="H,29"/></l>
+            <l n="263" xml:id="l263">Et tu souffres cent mépris,</l>
+            <l n="264" xml:id="l264">Toy qui fus l’amour des Dames,</l>
+            <l n="265" xml:id="l265">Et la terreur des maris.</l>
+            <l n="266" xml:id="l266">Est-ce à toy de soûpirer</l>
+            <l n="267" xml:id="l267">Et prier,</l>
+            <l n="268" xml:id="l268">Toy qu’à genoux on implore ?</l>
+            <l n="269" xml:id="l269">Va soulager les desirs</l>
+            <l n="270" xml:id="l270">De la belle qui t’adore,</l>
+            <l n="271" xml:id="l271">Et qui meurt pour tes plaisirs.</l>
+          </sp>
+          <sp who="follets">
+            <l n="272" xml:id="l272">Cesse, grand Dieu, cesse tes plaintes vaines.</l>
+          </sp>
+          <sp who="ledieudesjardins">
+            <l n="273" xml:id="l273">Qu’enten-je ? quelle voix sort des rives prochaines,</l>
+            <l n="274" xml:id="l274">Echos, Arbres, Rochers ; est-ce vous, est-ce vous ?</l>
+          </sp>
+          <sp who="follets">
+            <l n="275" xml:id="l275">Nous sommes deux Nymphes des Chesnes,</l>
+            <l n="276" xml:id="l276">Et le Ciel t’annonce par nous,</l>
+            <l n="277" xml:id="l277">Qu’un jour il finira tes peines.</l>
+          </sp>
+          <sp who="ledieudesjardins">
+            <l n="278" xml:id="l278">Helas ! hé quand viendra ce bien-heureux moment ?</l>
+          </sp>
+          <sp who="follets">
+            <l n="279" xml:id="l279">Quand tu seras discret et fidele en aymant.</l>
+          </sp>
+          <sp who="ledieudesjardins">
+            <l n="280" xml:id="l280">Taisez-vous, taisez-vous, impertinents oracles,</l>
+            <l n="281" xml:id="l281">Amour en ma faveur fait bien d’autres miracles,</l>
+            <l n="282" xml:id="l282">Apprenez, apprenez qu’en l’empire <ref target="#amoureux">amoureux*</ref></l>
+            <l n="283" xml:id="l283">On perd tout pour attendre, <pb n="30" xml:id="p30"/></l>
+            <l n="284" xml:id="l284">Et que le vigoureux</l>
+            <l n="285" xml:id="l285">Est souvent plus heureux</l>
+            <l n="286" xml:id="l286">Que le sage et le tendre.</l>
+          </sp>
+          <sp who="ledieudesjardins lesjardiniers">
+            <l n="287" xml:id="l287">Apprenez, apprenez, etc.</l>
+          </sp>
+        </div>
+      </div>
+      <div/>
+      <div type="act">
+        <div type="scene">
+          <sp who="vertune">
+            <l n="288" xml:id="l288">A la fin délivré d’une troupe importune,</l>
+            <l n="289" xml:id="l289">Je puis me transformer et paréstre à ses yeux.</l>
+            <l n="290" xml:id="l290">La voicy, cachons-nous : Destin, Amour, Fortune,</l>
+            <l n="291" xml:id="l291">Favorisez mes vœux.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="pomone venilie">
+            <l n="292" xml:id="l292">Sortez, petits Oyseaux, sortez de vos boccages,</l>
+            <l n="293" xml:id="l293">Quittez, quittez vos nids et vos buissons,</l>
+            <l n="294" xml:id="l294">Et meslez vos tendres <ref target="#ramage">ramages*</ref><pb n="31" xml:id="p31"/></l>
+            <l n="295" xml:id="l295">A nos agreables Chansons. <hi rend="i">Flutes</hi>.</l>
+            <l n="296" xml:id="l296">Volez, doux Rossignols, volez dans ces feüillages,</l>
+            <l n="297" xml:id="l297">Venez, Serins, venez, venez Pinsons,</l>
+            <l n="298" xml:id="l298">Et meslez, etc.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="vertune-pluton">
+            <l n="299" xml:id="l299">Charmé de tes accents, adorable Pomone,</l>
+            <l n="300" xml:id="l300">Mais plus charmé de l’éclat de tes yeux,</l>
+            <l n="301" xml:id="l301">Je sors de mon empire et je viens en ces lieux,</l>
+            <l n="302" xml:id="l302">Du plus riche des Dieux</l>
+            <l n="303" xml:id="l303">T’offrir et le cœur et le throne.</l>
+            <l n="304" xml:id="l304">Si tu doutes de mes ardeurs</l>
+            <l n="305" xml:id="l305">Dans mes regards tu les pourras connestre :</l>
+            <l n="306" xml:id="l306">Si tu doutes de mes grandeurs</l>
+            <l n="307" xml:id="l307">Voy de quels biens je suis le maistre.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <pb n="32" xml:id="p32"/>
+          <sp who="vertune-pluton">
+            <l n="308" xml:id="l308">Mon throne et mes tresors, ma flame et mes <ref target="#langueur">langueurs*</ref></l>
+            <l n="309" xml:id="l309">Ne pourront-ils, Deesse ? adoucir tes <ref target="#rigueur">rigueurs*</ref>.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="310" xml:id="l310">Non, non, garde ton or, tes pierres et tes marbres,</l>
+            <l n="311" xml:id="l311">Mon unique tresor sont mes fruits et mes arbres.</l>
+          </sp>
+          <sp who="vertune-pluton">
+            <l n="312" xml:id="l312">Si tu bornes là tes plaisirs,</l>
+            <l n="313" xml:id="l313">J’ay dequoy pleinement contenter tes desirs.</l>
+            <l n="314" xml:id="l314">Voy-tu ces Bigarrades,</l>
+            <l n="315" xml:id="l315">Elles sont toutes d’or, et ces belles Grenades,</l>
+            <l n="316" xml:id="l316">Leurs grains sont rubis pretieux ;</l>
+            <l n="317" xml:id="l317">Je puis en peupler tous ces lieux.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="318" xml:id="l318">Il me suffit de mon partage,</l>
+            <l n="319" xml:id="l319">Et je ne veux rien davantage ;<pb n="I,33"/></l>
+            <l n="320" xml:id="l320">Moins de biens, moins de biens, et plus de liberté.</l>
+          </sp>
+          <sp who="pomone juturne">
+            <l n="321" xml:id="l321">Liberté, liberté.</l>
+          </sp>
+          <sp who="vertune-pluton">
+            <l n="322" xml:id="l322">Hé bien garde ta pauvreté,</l>
+            <l n="323" xml:id="l323">Adieu, c’est trop aimer une <ref target="#ingrate">ingrate*</ref> beauté.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="juturne venilie">
+            <l n="324" xml:id="l324">Liberté, liberté.</l>
+          </sp>
+          <sp who="venilie">
+            <l n="325" xml:id="l325">O la grande foiblesse !</l>
+            <l n="326" xml:id="l326">De cherir les tresors,</l>
+            <l n="327" xml:id="l327">O la grande foiblesse !</l>
+            <l n="328" xml:id="l328">C’est prendre l’ombre pour le corps,</l>
+            <l n="329" xml:id="l329">Et suivre un bien qui nous füit et nous laisse.</l>
+          </sp>
+          <sp who="juturne">
+            <l n="330" xml:id="l330">Bannir de son cœur la noire tristesse,</l>
+            <l n="331" xml:id="l331">La folle tendresse,</l>
+            <l n="332" xml:id="l332">Les soins, les desirs :</l>
+            <l n="333" xml:id="l333">Rire, chanter, passer en plaisirs</l>
+            <l n="334" xml:id="l334">Sa belle jeunesse,</l>
+            <l n="335" xml:id="l335">C’est la veritable sagesse,</l>
+            <l n="336" xml:id="l336">La grandeur, la richesse</l>
+            <l n="337" xml:id="l337">N’est qu’ombre et vanité.</l>
+          </sp>
+          <sp who="pomone venilie juturne">
+            <l n="338" xml:id="l338">Liberté, liberté.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <pb n="34" xml:id="p34"/>
+          <sp who="vertune">
+            <l n="339" xml:id="l339">J’ay perdu mes soins et mes pas :</l>
+            <l n="340" xml:id="l340">Mais je ne me rends pas :</l>
+            <l n="341" xml:id="l341">Achevons l’<ref target="#imposture">imposture*</ref>,</l>
+            <l n="342" xml:id="l342">Et l’abordons sous une autre figure.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
+            <l n="343" xml:id="l343">Place, place voisins,</l>
+            <l n="344" xml:id="l344">Place au Dieu des raisins. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+          </sp>
+          <sp who="vertune-bacchus">
+            <l n="345" xml:id="l345">Remply d’amour et de tendresse,</l>
+            <l n="346" xml:id="l346">Je viens, belle Déesse,</l>
+            <l n="347" xml:id="l347">Comme les autres Dieux</l>
+            <l n="348" xml:id="l348">Rendre hommage à tes yeux,</l>
+            <l n="349" xml:id="l349">Et t’offrir à mon tour mon sceptre et ma couronne.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="350" xml:id="l350">Je sçay qu’elle a beaucoup d’éclat et de splendeur :</l>
+            <l n="351" xml:id="l351">Mais je renferme ma grandeur</l>
+            <l n="352" xml:id="l352">Dans celle que le Ciel me donne.</l>
+          </sp>
+          <sp who="vertune-bacchus">
+            <l n="353" xml:id="l353">Ta couronne est illustre et ton pouvoir divin, <pb n="35" xml:id="p35"/></l>
+            <l n="354" xml:id="l354">Mais le mien se répand sur la Terre et sur l’Onde,</l>
+            <l n="355" xml:id="l355">Et t’offrant l’empire du vin,</l>
+            <l n="356" xml:id="l356">Je t’offre l’empire du monde.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="357" xml:id="l357">N’ay-je pas dans le mien un <ref target="#jus">jus*</ref> doux et charmant,</l>
+            <l n="358" xml:id="l358">Que l’on cherit également ?</l>
+          </sp>
+          <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
+            <l n="359" xml:id="l359">O la comparaison étrange,</l>
+            <l n="360" xml:id="l360">Du Cidre au <ref target="#jus">jus*</ref> de la vandange !</l>
+            <l n="361" xml:id="l361">Vive nostre aymable liqueur.</l>
+          </sp>
+          <sp who="pomone juturne venilie">
+            <l n="362" xml:id="l362">Vive nostre aymable liqueur,</l>
+          </sp>
+          <sp who="juturne">
+            <l n="363" xml:id="l363" part="I">Elle charme le goust,</l>
+          </sp>
+          <sp who="follets-satyres1">
+            <l part="F">elle échauffe le cœur.</l>
+          </sp>
+          <sp who="venilie">
+            <l n="364" xml:id="l364" part="I">C’est le nectar des Dieux,</l>
+          </sp>
+          <sp who="follets-satyres2">
+            <l part="F">c’est l’honneur de la table.</l>
+          </sp>
+          <sp who="juturne">
+            <l n="365" xml:id="l365" part="I">Rien n’est si doux,</l>
+          </sp>
+          <sp who="follets-satyres3">
+            <l part="F">rien n’est si delectable.</l>
+          </sp>
+          <sp who="follets-satyres1 follets-satyres2 follets-satyres3 pomone juturne venilie vertune-bacchus">
+            <l n="366" xml:id="l366">Vive nostre aymable liqueur. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <pb n="36" xml:id="p36"/>
+          <sp who="faune">
+            <l n="367" xml:id="l367">O Dieux ! quelle chaleur m’enflame !</l>
+            <l n="368" xml:id="l368">Je suis dans un double brasier,</l>
+            <l n="369" xml:id="l369">La soif altere mon gosier,</l>
+            <l n="370" xml:id="l370">Et l’amour échauffe mon ame.</l>
+            <l n="371" xml:id="l371">Que je te rencontre à propos,</l>
+            <l n="372" xml:id="l372">Grand Dieu des verres et des pots,</l>
+            <l n="373" xml:id="l373">Ah ! j’implore ta grace</l>
+            <l n="374" xml:id="l374">Et ton secours divin,</l>
+            <l n="375" xml:id="l375">Verse, helas ! dans ma tasse</l>
+            <l n="376" xml:id="l376">Une larme de vin.</l>
+          </sp>
+          <sp who="vertune-bacchus">
+            <l n="377" xml:id="l377" part="I">Il faut le secourir,</l>
+          </sp>
+          <sp who="faune">
+            <l part="F">il y va de ta gloire.</l>
+          </sp>
+          <sp who="vertune-bacchus">
+            <l n="378" xml:id="l378">Donnez-luy du meilleur du muy,</l>
+            <l n="379" xml:id="l379">Enfants, faites-le boire, et beuvez avec luy.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <pb n="K,37" xml:id="p37"/>
+          <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
+            <l n="380" xml:id="l380">Beuvons tous à la ronde,</l>
+            <l n="381" xml:id="l381">Beuvons au Dieu fallot ;</l>
+            <l n="382" xml:id="l382">Que chacun me seconde ;</l>
+            <l n="383" xml:id="l383">Beuvons tous à la ronde</l>
+            <l n="384" xml:id="l384">A ce vieux sibilot :</l>
+            <l n="385" xml:id="l385">Fringue la tasse, fringue,</l>
+            <l n="386" xml:id="l386">Masse à luy, tope et tingue.</l>
+          </sp>
+          <sp who="faune">
+            <l n="387" xml:id="l387">Versez, versez à rouge bord,</l>
+          </sp>
+          <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
+            <l n="388" xml:id="l388">Masse à luy, tope et tingue.</l>
+          </sp>
+          <sp who="faune">
+            <l n="389" xml:id="l389">Donnez-donc, je meurs,</l>
+          </sp>
+          <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
+            <l n="390" xml:id="l390" part="I">Masse à luy, tope et tingue.</l>
+          </sp>
+          <sp who="faune">
+            <l part="F">je suis mort.</l>
+            <l n="391" xml:id="l391">Donnez, donnez, quelle fadese !</l>
+          </sp>
+          <sp who="follets-satyres2">
+            <l n="392" xml:id="l392">Tien,  bon-homme, fay nous raison,</l>
+            <l n="393" xml:id="l393">Et pour estre mieux à ton ayse</l>
+            <l n="394" xml:id="l394">Couche toy-là sur le gazon.</l>
+          </sp>
+          <sp who="faune">
+            <l n="395" xml:id="l395">O quel plaisir, quand on est alteré, <pb n="38" xml:id="p38"/></l>
+            <l n="396" xml:id="l396">De voir autour de ses oreiles</l>
+            <l n="397" xml:id="l397">Un cercle inesperé</l>
+            <l n="398" xml:id="l398">De pots et de bouteilles !</l>
+            <l n="399" xml:id="l399">Beuvons, beuvons, mais qu’est cecy ?</l>
+            <l n="400" xml:id="l400">La bouteille s’enfuit, et la seconde aussi.</l>
+            <l n="401" xml:id="l401">A l’ayde, le Demon l’entraisne.</l>
+            <l n="402" xml:id="l402">Et toy, joly flacon, te prendra-t-on ainsi ;</l>
+            <l n="403" xml:id="l403">Quoy toute la demy douzaine ?</l>
+            <l n="404" xml:id="l404">Ah ! du moins j’auray celle-cy,</l>
+            <l n="405" xml:id="l405">Et j’en rempliray ma bedaine.</l>
+          </sp>
+          <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
+            <l n="406" xml:id="l406">Ah! le <ref target="#fat">fat*</ref> ! ah! le <ref target="#badin">badin*</ref>!</l>
+            <l n="407" xml:id="l407">Il boit de l’eau pour du vin.</l>
+          </sp>
+          <sp who="faune">
+            <l n="408" xml:id="l408">On me berne, on me raille,</l>
+            <l n="409" xml:id="l409">Courez dessus Bouviers,</l>
+            <l n="410" xml:id="l410">Suivons cette <ref target="#racaille">racaille*</ref></l>
+            <l n="411" xml:id="l411">A grand coups de <ref target="#levier">leviers*</ref>.</l>
+          </sp>
+          <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
+            <pb n="39" xml:id="p39"/>
+            <l n="412" xml:id="l412">Ah ! le <ref target="#fat">fat*</ref>, etc.</l>
+          </sp>
+        </div>
+      </div>
+      <div/>
+      <div type="act">
+        <div type="scene">
+          <sp who="beroe">
+            <l n="413" xml:id="l413">Sors de mon cœur,</l>
+            <l n="414" xml:id="l414">Folle <ref target="#furieux1">fureur*</ref>,</l>
+            <l n="415" xml:id="l415">Aveugle frenesie,</l>
+            <l n="416" xml:id="l416">Brutale ardeur, maudite jalousie ;</l>
+            <l n="417" xml:id="l417"><ref target="#peste1">Peste*</ref> des cœurs, dont le poison</l>
+            <l n="418" xml:id="l418">Détruit l’amour et la raison,</l>
+            <l n="419" xml:id="l419">Sors de mon cœur et de ma <ref target="#fantaisie">phantaisie*</ref>.</l>
+            <l n="420" xml:id="l420">C’est trop d’affronts soufferts,</l>
+            <l n="421" xml:id="l421">Rompons, brisons nos fers,</l>
+            <l n="422" xml:id="l422">Vengeons nous de qui nous méprise ;</l>
+            <l n="423" xml:id="l423">Et renversons du moins toute son entreprise,</l>
+            <l n="424" xml:id="l424">Mais le voicy qui medite en son cœur</l>
+            <l n="425" xml:id="l425">De <ref target="#nouveaute">nouveaux*</ref> artifices,</l>
+            <l n="426" xml:id="l426">Et n’a pas épuisé sa ruse et ses <ref target="#malice">malices*</ref>,</l>
+            <l n="427" xml:id="l427">Observons ses desseins, fourbe, lâche <ref target="#imposture">imposteur*</ref>.</l>
+          </sp>
+        </div>
+        <div type="scene"> <pb n="40" xml:id="p40"/>
+            
+          <sp who="vertune"><l n="428" xml:id="l428">Amour, dy-moy, que dois-je faire,</l><l n="429" xml:id="l429">Pour la fléchir et pour luy plaire ?</l><l n="430" xml:id="l430">Amour, dy-moy, que dois-je faire ?</l><l n="431" xml:id="l431">En qui me transformer ? des plus puissans des Dieux,</l><l n="432" xml:id="l432">Cette <ref target="#insensible">insensible*</ref> a méprisé les vœux.</l><l n="433" xml:id="l433">Mais pourquoy l’attaquer sous la forme d’un autre ?</l><l n="434" xml:id="l434">Peut-estre pourrions-nous luy plaire sous la nostre.</l><l n="435" xml:id="l435">Tachons de la surprendre une derniere fois,</l><l n="436" xml:id="l436">Prenons de Beroé la figure et la voix,</l><l n="437" xml:id="l437">Cette vieille insensée</l><l n="438" xml:id="l438">Possede entierement son cœur et sa pensée.</l><l n="439" xml:id="l439">Et si dans cet habit je ne puis la tenter,</l><l n="440" xml:id="l440">Je veux me presenter,</l><l n="441" xml:id="l441">Et luy parler moy-mesme</l><l n="442" xml:id="l442">De mon amour extréme,</l><l n="443" xml:id="l443">Je veux…mais la voicy.</l></sp>
+          </div>
+        <div type="scene">
+          <sp who="pomone">
+            <l n="444" xml:id="l444">Qui cause ce soûpir</l>
+            <l n="445" xml:id="l445">De <ref target="#langueur">langueur*</ref> et de flame ?</l>
+          </sp>
+          <sp who="flore">
+            <l n="446" xml:id="l446">L’absence de Zephir, <pb n="L,41"/></l>
+            <l n="447" xml:id="l447">Qui tourmente mon ame.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="448" xml:id="l448">Pour <ref target="#charmer">charmer*</ref> les <ref target="#ennui">ennuis*</ref></l>
+            <l n="449" xml:id="l449">Dont elle est <ref target="#travailler">travaillée*</ref>,</l>
+            <l n="450" xml:id="l450">Allons sous la verte feüillée</l>
+            <l n="451" xml:id="l451">Voir danser nos cüeilleurs de fruits.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="pomone">
+            <l n="452" xml:id="l452">Mais te voila, Nourrisse,</l>
+            <l n="453" xml:id="l453">Hé qui t’a fait absenter si long-temps ?</l>
+            <l n="454" xml:id="l454">Il faut qu’un baiser t’en punisse.</l>
+            <l n="455" xml:id="l455">Mets-toy là, bonne mere, et voy nos passetemps.</l>
+          </sp>
+        </div>
+        <div type="scene"/>
+        <div type="scene">
+          <pb n="42" xml:id="p42"/>
+          <sp who="pomone">
+            <l n="456" xml:id="l456">Hé bien ! que dis-tu ma sœur</l>
+            <l n="457" xml:id="l457">De nostre charmante vie ?</l>
+          </sp>
+          <sp who="flore">
+            <l n="458" xml:id="l458">Je dy que sa douceur</l>
+            <l n="459" xml:id="l459">Me donne peu d’<ref target="#envie2">envie*</ref> :</l>
+            <l n="460" xml:id="l460">Sans le plaisir d’amour tous les autres plaisirs,</l>
+            <l n="461" xml:id="l461">Lassent facilement nos cœurs et nos desirs.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="462" xml:id="l462">Tu me conseilles donc desormais de le suivre ?</l>
+          </sp>
+          <sp who="flore">
+            <l n="463" xml:id="l463">Qui commence d’aymer, il commence de vivre.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="464" xml:id="l464" part="I">Nourisse, qu’en dis-tu ?</l>
+          </sp>
+          <sp who="vertune-beroe">
+            <l part="F">Croiras-tu mes avis ?</l>
+          </sp>
+          <sp who="pomone">
+            <l n="465" xml:id="l465">Je les ay jusqu’icy fidelement suivis.</l>
+          </sp>
+          <sp who="vertune-beroe">
+            <l n="466" xml:id="l466">Je detestois l’amour et traitois ses delices</l>
+            <l n="467" xml:id="l467">De crime et de supplices :</l>
+            <l n="468" xml:id="l468">Mais depuis que j’ay veu Vertune ton amant,</l>
+            <l n="469" xml:id="l469">J’ay bien changé de sentiment.</l>
+            <l n="470" xml:id="l470">Qu’il a d’amour ! qu’il a de charmes !</l>
+            <l n="471" xml:id="l471">Il me dit l’autre jour les peines qu’il ressent,</l>
+            <l n="472" xml:id="l472">D’un air si doux, si languissant,<pb n="43" xml:id="p43"/></l>
+            <l n="473" xml:id="l473">Qu’il m’attendrit et me tira des larmes.</l>
+            <l n="474" xml:id="l474">Je le dy franchement,</l>
+            <l n="475" xml:id="l475">Si j’estois jeune et belle,</l>
+            <l n="476" xml:id="l476">Mon cœur à cét amant</l>
+            <l n="477" xml:id="l477">Ne seroit point rebelle.</l>
+          </sp>
+          <sp who="beroe">
+            <l n="478" xml:id="l478" part="I">Le rusé, l’imposteur* !</l>
+          </sp>
+          <sp who="pomone">
+            <l part="F">il seroit à mes yeux</l>
+            <l n="479" xml:id="l479">Le plus parfait des Dieux,</l>
+            <l n="480" xml:id="l480">Qu’à son amour je serois <ref target="#insensible">insensible*</ref> !</l>
+            <l n="481" xml:id="l481">Non, non, ce cœur est invincible.</l>
+          </sp>
+          <sp who="beroe">
+            <l n="482" xml:id="l482">Allons le démentir.</l>
+          </sp>
+          <sp who="vertune-beroe">
+            <l n="483" xml:id="l483">Souvent le plus constant</l>
+            <l n="484" xml:id="l484">S’ébranle en un instant.</l>
+          </sp>
+          <sp who="beroe">
+            <l n="485" xml:id="l485">Je te tiens, fourbe, lâche.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="vertune">
+            <l n="486" xml:id="l486">Dequoy m’accuses-tu ? quel crime ay-je commis ?</l>
+            <l n="487" xml:id="l487">Ah ! n’ay-je pas sans-toy d’assez fiers ennemis ?</l>
+          </sp>
+          <sp who="beroe">
+            <l n="488" xml:id="l488">Hélas ! en le voyant ma <ref target="#furieux1">fureur*</ref> se relâche.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="489" xml:id="l489">Qu’il a l’air fier et doux ! ha ! qu’est-ce que je sents ? <pb n="44" xml:id="p44"/></l>
+            <l n="490" xml:id="l490">Un mouvement secret me transporte les sens. <anchor xml:id="rime"/></l>
+          </sp>
+          <sp who="vertune">
+            <l n="491" xml:id="l491">J’ay failly toutesfois, je suis un témeraire,</l>
+            <l n="492" xml:id="l492">D’aspirer, ô Deesse ! à l’honneur de te plaire.</l>
+          </sp>
+          <sp who="beroe">
+            <l n="493" xml:id="l493" part="I">O Ciel ! que ferons-nous ?</l>
+          </sp>
+          <sp who="vertune">
+            <l part="F">aussi jusqu’à ce jour</l>
+            <l n="494" xml:id="l494">Le respect m’a contraint de cacher mon amour :</l>
+            <l n="495" xml:id="l495">Mais enfin emporté par son ardeur extreme,</l>
+            <l n="496" xml:id="l496">Je viens à tes genoux te dire que je t’aime,</l>
+          </sp>
+          <sp who="pomone">
+            <l n="497" xml:id="l497" part="I">O Dieux ! il m’attendrit.</l>
+          </sp>
+          <sp who="vertune">
+            <l part="F">et me voir condamner</l>
+          </sp>
+          <sp who="pomone">
+            <l n="498" xml:id="l498" part="I">Je n’en puis plus !</l>
+          </sp>
+          <sp who="vertune">
+            <l part="F">à des peines mortelles,</l>
+          </sp>
+          <sp who="pomone">
+            <l n="499" xml:id="l499" part="I">Helas !</l>
+          </sp>
+          <sp who="vertune">
+            <l part="F">et d’autant plus cruelles</l>
+          </sp>
+          <sp who="pomone">
+            <l n="500" xml:id="l500" part="I">Et je sents</l>
+          </sp>
+          <sp who="vertune">
+            <l part="F">que la mort ne peut les terminer,</l>
+          </sp>
+          <sp who="pomone">
+            <l n="501" xml:id="l501" part="I">Et je sents<pb n="M,45"/></l>
+          </sp>
+          <sp who="vertune">
+            <l part="M">que dis-tu ?</l>
+          </sp>
+          <sp who="pomone">
+            <l part="F">ce que je n’ose dire</l>
+            <l n="502" xml:id="l502">Et je sents que mon cœur partage ton martire.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="pomone flore vertune">
+            <l n="503" xml:id="l503">O puissance d’amour ! ô divin <ref target="#changement2">changement*</ref> !</l>
+            <l n="504" xml:id="l504">Ce que l’esprit et la <ref target="#finesse">finesse*</ref>,</l>
+            <l n="505" xml:id="l505">Les honneurs, la richesse</l>
+            <l n="506" xml:id="l506">Ont tenté vainement ;</l>
+            <l n="507" xml:id="l507">L’amour et la beauté le font en un moment.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="faune">
+            <l n="508" xml:id="l508">Pauvre Dieu des Jardins !</l>
+          </sp>
+          <sp who="ledieudesjardins">
+            <l n="509" xml:id="l509">Pauvre Dieu de Village !</l>
+          </sp>
+          <sp who="faune">
+            <pb n="46" xml:id="p46"/>
+            <l n="510" xml:id="l510">Voicy ce que le Ciel te reserve en partage.</l>
+          </sp>
+          <sp who="ledieudesjardins">
+            <l n="511" xml:id="l511" part="I">Voicy le mien</l>
+            <l part="F">Voyla le tien.</l>
+          </sp>
+          <sp who="faune">
+            <l n="512" xml:id="l512" part="I">Voicy le mien</l>
+            <l part="F">Voyla le tien.</l>
+          </sp>
+          <sp who="faune ledieudesjardins">
+            <l n="513" xml:id="l513">Voicy le mien,</l>
+            <l n="514" xml:id="l514">Voyla le tien.</l>
+          </sp>
+          <sp who="venilie">
+            <l n="515" xml:id="l515">Si d’un Vulcain aussi difforme</l>
+            <l n="516" xml:id="l516">Le Ciel me faisoit la Venus ;</l>
+            <l n="517" xml:id="l517">Il en auroit le front aussi bien que la forme,</l>
+            <l n="518" xml:id="l518">Et ne cederoit point aux Dieux les plus cornus.</l>
+          </sp>
+        </div>
+      </div>
+      <div/>
+      <div type="act">
+        <div type="scene">
+          <sp who="pomone">
+            <l n="519" xml:id="l519">En vain tu veux me faire voir</l>
+            <l n="520" xml:id="l520">L’estat de ton empire et ton divin pouvoir, <pb n="47" xml:id="p47"/></l>
+            <l n="521" xml:id="l521">Grand Dieu, ce que mon ame</l>
+            <l n="522" xml:id="l522">Ressent pour toy de tendresse et d’ardeur,</l>
+            <l n="523" xml:id="l523">Tu le dois à ta flame.</l>
+            <l n="524" xml:id="l524">Bien plus qu’à ta grandeur.</l>
+            <l n="525" xml:id="l525">C’est assez….</l>
+          </sp>
+          <sp who="vertune">
+            <l n="526" xml:id="l526">Je sçay trop que ta flame <ref target="#amoureux">amoureuse*</ref></l>
+            <l n="527" xml:id="l527">Est pure et <ref target="#genereux">genereuse*</ref> :</l>
+            <l n="528" xml:id="l528">Mais ce que je pretends</l>
+            <l n="529" xml:id="l529">Te montrer de puissance</l>
+            <l n="530" xml:id="l530">Est plus un passe-temps</l>
+            <l n="531" xml:id="l531">Qu’une magnificence.</l>
+            <l n="532" xml:id="l532">Mais voicy nostre sœur, dont le soin <ref target="#complaisant">complaisant*</ref></l>
+            <l n="533" xml:id="l533">Nous regale aujourd’huy d’un aimable present.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="flore">
+            <l n="534" xml:id="l534">Vous ne manquez pas de couronne,</l>
+            <l n="535" xml:id="l535">Heureux amants, et le Ciel vous en donne</l>
+            <l n="536" xml:id="l536">Des plus nobles de l’Univers :</l>
+            <l n="537" xml:id="l537">Mais pour un cœur qu’amour tient dans ses fers,</l>
+            <l n="538" xml:id="l538">La plus belle et la plus charmante</l>
+            <l n="539" xml:id="l539">Est le Chappeau d’Hymen que ma main vous presente.</l>
+            <l n="540" xml:id="l540">Passez dans ses plaisirs et les jours et les nuits,</l>
+            <l n="541" xml:id="l541">Portez ses fleurs, goustez ses fruits. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <pb n="48" xml:id="p48"/>
+          <sp who="ledieudesjardins">
+            <l n="542" xml:id="l542">Je vous offre, grands Dieux, le present d’un pauvre homme,</l>
+            <l n="543" xml:id="l543">Mais le <ref target="#ragout">ragoust*</ref> en est <ref target="#friand">friand*</ref> et chaud,</l>
+            <l n="544" xml:id="l544">Et dans un jour pareil la Truffe et l’Artichaut</l>
+            <l n="545" xml:id="l545">Vallent mieux que la Pomme.</l>
+          </sp>
+          <sp who="vertune">
+            <l n="546" xml:id="l546">Suivons nostre dessein : sus, <ref target="#sus">sus*</ref>, Lares, Follets,</l>
+            <l n="547" xml:id="l547">Qu’on bastisse un Palais</l>
+            <l n="548" xml:id="l548">A ma belle maistresse.</l>
+            <l n="549" xml:id="l549">Pages, valets,</l>
+            <l n="550" xml:id="l550">Qu’on serve ma Deesse.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="vertune">
+            <l n="551" xml:id="l551">Qu’on enfonce mille tonneaux,</l>
+            <l n="552" xml:id="l552">Que le vin coule à plein ruisseaux.</l>
+            <l n="553" xml:id="l553">Que le Haut-bois s’apreste<pb n="N,49" xml:id="p49"/></l>
+            <l n="554" xml:id="l554">A celebrer la feste.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="vertune">
+            <l n="555" xml:id="l555">Vous, Esclaves, dansez,</l>
+            <l n="556" xml:id="l556">Et la divertissez.</l>
+          </sp>
+          <sp who="vertune">
+            <l n="557" xml:id="l557">Hola, follets, paroissez dans les airs,</l>
+            <l n="558" xml:id="l558">Sous mille plaisantes images,</l>
+            <l n="559" xml:id="l559">Et pour la divertir, formez dans les nüages</l>
+            <l n="560" xml:id="l560">Des spectacles charmants, et d’aymables <ref target="#concert">concerts*</ref>.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="follets-amours">
+            <pb n="50" xml:id="p50"/>
+            <l n="561" xml:id="l561">Venez, Dieux et mortels, à cette grande feste,</l>
+            <l n="562" xml:id="l562">Celebrez ce jour de conqueste,</l>
+            <l n="563" xml:id="l563">Ce jour illustre et bienheureux :</l>
+            <l n="564" xml:id="l564">Nostre Dieu va gouster les plaisirs <ref target="#amoureux">amoureux*</ref>,</l>
+            <l n="565" xml:id="l565">Sautons, rions, dansons, et chantons à sa gloire</l>
+            <l n="566" xml:id="l566">Des chants d’amour et de victoire. <hi rend="i">Rit.</hi></l>
+          </sp>
+          <sp who="juturne venilie">
+            <l n="567" xml:id="l567">Courez, courez à pas legers,</l>
+            <l n="568" xml:id="l568">Courez, Satyres et Bergers,</l>
+            <l n="569" xml:id="l569">Sautez, riez, dansez, et chantez, etc. <hi rend="i">Rit. par les violons</hi>.</l>
+          </sp>
+          <sp who="follets-amours">
+            <l n="570" xml:id="l570">Et vous, Follets, qui formez dans les airs</l>
+            <l n="571" xml:id="l571">La <ref target="#foudre">foudre*</ref> et les éclairs,</l>
+            <l n="572" xml:id="l572">Des vents et des nuages,</l>
+            <l n="573" xml:id="l573">Arbitres souverains,</l>
+            <l n="574" xml:id="l574">Rendez les Cieux tranquilles et serains,</l>
+            <l n="575" xml:id="l575">Et chassez loin de nous la <ref target="#foudre">foudre*</ref> et les orages.</l>
+            <l n="576" xml:id="l576">Voicy le jour, voicy le temps,</l>
+            <l n="577" xml:id="l577">Des jeux des ris, des passe-temps.</l>
+            <l n="578" xml:id="l578">Sautons, rions, dansons, et chantons, etc. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="faune">
+            <l n="579" xml:id="l579">Sautons, rions, dansons, etc.</l>
+            <l n="580" xml:id="l580">On attrappe aujourd’huy le plus fin des <ref target="#renard">Renards*</ref>,</l>
+            <l n="581" xml:id="l581"> Aujourd’huy se grossit le nombre des <ref target="#cornard">Cornards*</ref>.</l>
+            <l n="582" xml:id="l582">Sans troubler nos <ref target="#humeur">humeurs*</ref> paisibles,</l>
+            <l n="583" xml:id="l583">Nous les porterons sur le front ; <pb n="51" xml:id="p51"/></l>
+            <l n="584" xml:id="l584">Mais les miennes y paroistront,</l>
+            <l n="585" xml:id="l585">Les siennes seront invisibles.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="faune">
+            <l n="586" xml:id="l586">Et toy, Nourisse, aussi,</l>
+            <l n="587" xml:id="l587">Tu viens paréstre icy ?</l>
+            <l n="588" xml:id="l588">Pauvre vieille insensée,</l>
+            <l n="589" xml:id="l589">Ne crains-tu pas de cet amant</l>
+            <l n="590" xml:id="l590">La hayne et le ressentiment ?</l>
+            <l n="591" xml:id="l591">Oses-tu regarder ta maistresse offensée ?</l>
+          </sp>
+          <sp who="beroe">
+            <l n="592" xml:id="l592">Avant la fin du jour</l>
+            <l n="593" xml:id="l593">Mes fautes dans l’oubly seront ensevelies,</l>
+            <l n="594" xml:id="l594">Et qui ressent les plaisirs de l’amour,</l>
+            <l n="595" xml:id="l595">En pardonne aysement le crime et les <ref target="#folie1">folies*</ref>.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="596" xml:id="l596">Non, non, sans m’offencer tu peux l’aymer toûjours,</l>
+            <l n="597" xml:id="l597">Nourisse, ne crains rien et poursuy tes amours.</l>
+          </sp>
+          <sp who="vertune">
+            <l n="598" xml:id="l598">Vivons, vivons amis.</l>
+          </sp>
+          <sp who="vertune faune ledieudesjardins pomone flore beroe">
+            <l n="599" xml:id="l599" part="I">Vivons, vivons amis. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+          </sp>
+          <sp who="flore faune">
+            <l part="F">que par toute la terre</l>
+            <l n="600" xml:id="l600">On chasse les <ref target="#ennui">ennuis*</ref>, on bannisse la guerre.</l>
+          </sp>
+          <sp who="faune beroe pomone vertune ledieudesjardins">
+            <l n="601" xml:id="l601">Que par toute la terre, etc. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>. <pb n="52" xml:id="p52"/></l>
+          </sp>
+          <sp who="pomone">
+            <l n="602" xml:id="l602" part="I">Que l’Automne,</l>
+          </sp>
+          <sp who="flore">
+            <l part="F">que le Printemps,</l>
+          </sp>
+          <sp who="pomone flore">
+            <l n="603" xml:id="l603">Brillent de jeux, de passe-temps ;</l>
+          </sp>
+          <sp who="juturne">
+            <l n="604" xml:id="l604">Qu’on y cüeille les <ref target="#fleurette">fleurettes*</ref>,</l>
+            <l n="605" xml:id="l605">Et les doux fruits d’<ref target="#amourette">amourettes*</ref>.</l>
+          </sp>
+          <sp who="flore">
+            <l n="606" xml:id="l606">Que pendant nos belles saisons,</l>
+            <l n="607" xml:id="l607">On fasse l’amour sur nos terres.</l>
+          </sp>
+          <sp who="ledieudesjardins">
+            <l n="608" xml:id="l608" part="I">Dans les jardins,</l>
+          </sp>
+          <sp who="vertune">
+            <l part="F">dans les maisons,</l>
+          </sp>
+          <sp who="faune">
+            <l n="609" xml:id="l609" part="I">Les champs,</l>
+          </sp>
+          <sp who="pomone">
+            <l part="M">les vergers,</l>
+          </sp>
+          <sp who="flore">
+            <l part="F">les <ref target="#parterre2">parterres*</ref>.</l>
+          </sp>
+          <sp who="faune beroe pomone vertune ledieudesjardins">
+            <l n="610" xml:id="l610">Dans les jardins, dans les maisons,</l>
+            <l n="611" xml:id="l611">Les champs, les vergers, les <ref target="#parterre2">parterres*</ref>.</l>
+          </sp>
+        </div>
+      </div>
+      <div>
+        <p>Louis par la grace de Dieu, Roy de France et de Navarre : A tous ceux qui ces presentes Lettres verront ; SALUT. Nôtre amé et feal Pierre Perrin, Conseiller en nos Conseils, et Introducteur des Ambassadeurs prés la personne de feu nostre tres-cher et bien-amé Oncle le Duc d’Orleans, nous a tres-humblement fait remonstrer, que depuis quelques années les Italiens ont estably diverses Academies, dans lesquelles il se fait des Representations en Musique, qu’on nomme OPERA ; Que ces Academies estans composées des plus excellens Musiciens du Pape et autres Princes, mesme de personnes d’honneste famille, Nobles et Gentils-hommes de naissance, tres-sçavans et experimentez en l’Art de la Musique, qui y vont chanter, font à present les plus beaux Spectacles et les plus agreables divertissemens, non seulement des Villes de Rome, Venise et autres Cours d’Italie ; Mais encore ceux des Villes et Cours d’Allemagne et Angleterre, où lesdites Academies ont esté pareillement établies à l’imitation des Italiens ; Que ceux qui font les frais necessaires pour lesdites Representations se<pb n="54" xml:id="p54"/> remboursent de leurs avances sur ce qui se prend du Public à la Porte des lieux où elles se font. Enfin que s’il nous plaisoit luy accorder la permission d’establir dans nostre Royaume de pareilles Academies, pour y faire chanter en public de pareils OPERA , ou Representations en Musique en Langue Françoise ; Il espere que non seulement ces choses contribuëroient à nostre divertissement et à celuy du Public, mais encore que nos Sujets s’accoustumans au goust de la Musique, se porteroient insensiblement à se perfectionner en cet Art, l’un des plus nobles des Liberaux.</p>
+        <p>A CES CAUSES, desirant contribuer à l’avancement des Arts dans nostre Royaume, et traitter favorablement ledit Exposant, tant en consideration des services qu’il a rendus à feu nostre tres-cher et bien-amé Oncle le Duc d’Orleans, que de ceux qu’il Nous rend depuis plusieurs années en la composition des paroles de musique qui se chantent tant en nostre Chapelle, qu’en nostre Chambre : Nous avons audit Perrin accordé et octroyé, accordons et octroyons, par ces presentes signées de nôtre main, la permission d’establir en notre bonne ville de Paris, et autres de nostre Royaume, des Academies composées de tel nombre et qualité de Personnes qu’il avisera, pour y representer et chanter en public des OPERA et representations en Musique en Vers François, pareilles et semblables à celles d’Italie. Et pour dédommager l’Exposant des grands frais qu’il conviendra faire pour lesdites representations, tant pour les <pb n="55" xml:id="p55"/>Théâtres, Machines, Decorations, Habits, qu’autres choses necessaires ; Nous luy permettons de prendre du Public telles sommes qu’il avisera, et à cette fin d’establir des Gardes et autres Gens necessaires à la porte des Lieux où se feront lesdites representations ; Faisant tres-expresses inhibitions et deffences à toutes personnes de quelque qualité et condition qu’elles soient, mesme aux Officiers de nostre Maison, d’y entrer sans payer, et de faire chanter de pareilles OPERA ou representations en Musique en vers françois, dans toute l’étenduë de nostre Royaume pendant douze années, sans le consentement et permission dudit Exposant, à peine de dix mil livres d’amende, confiscation des Theatres, Machines et Habits, applicable un tiers à Nous, un tiers à l’Hospital General, et l’autre tiers audit Exposant. Et attendu que lesdits OPERA et Representations sont des ouvrages de Musique tous differents des Comedies recitées, et que Nous les erigeons par cesdites presentes sur le pied de celles des Academies d’Italie, où les Gentil-hommes chantent sans déroger : VOULONS et nous plaist, que tous Gentil-hommes, Damoiselles, et autres personnes, puissent chanter ausdits OPERA, sans que pour ce ils dérogent au tiltre de Noblesse ny à leurs Privileges, Charges, Droits et Immunitez. REVOQUONS par ces presentes toutes Permissions et Privileges que Nous pourrions avoir cy-devant donnez et accordez, tant pour raison desdits OPERA, que pour reciter des <pb n="56" xml:id="p56"/> Comedies en Musique, sous quelques noms, qualitez, conditions et pretextes que ce puisse estre. SI DONNONS EN MANDEMENT à nos amez et feaux Conseillers les Gens tenans nostre Cour de Parlement à Paris, et autres nos Justiciers et Officiers qu’il appartiendra, que ces presentes ils ayent à faire lire, publier et enregistrer, et du contenu en icelles, faire joüir et user ledit Exposant pleinement et paisiblement, cessant et faisant cesser tous troubles et empéchemens au contraire : CAR tel est nostre plaisir. DONNÉ à S. Germain en Laye le 28. Jour de Juin 1669. Et de nostre Regne le vingt-septiéme. Signé LOUIS ; et sur le reply, par le Roy, COLBERT. Et scellé du grand Sceau de cire jaune.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

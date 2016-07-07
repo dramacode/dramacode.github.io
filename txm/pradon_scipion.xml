@@ -1,0 +1,1988 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <text>
+    <body>
+      <div xml:id="preface">
+        <p><hi rend="i">Si le succés d’un Ouvrage doit le défendre contre la critique, et si la premiere et la plus infaillible regle du Theatre est celle de plaire</hi><hi rend="i">, j’ose dire que Scipion l’Africain ayant eu ce bonheur, je pourois me dispenser de répondre au critiques qu’on en a faites. Cependant sans me prévaloir des applaudissemens que le public luy a donnez, je vais tâcher en peu de mots d’en justifier la conduite. On me reproche d’avoir fait Scipion amoureux ; mais je soûtiens que le mettant sur la Scene, j’ay dû luy donner ce caractere, qui releve son</hi><pb n="II"/><hi rend="i"> action principale, qui est de vaincre sa passion, et de rendre sa Maîtresse à son Rival. Aristote nous aprend qu’on peut ajoûter quelque chose de vray-semblable au vray</hi><hi rend="i"> ; et il est vray-semblable que Scipion à l’âge de vingt-quatre ans, ayant pris la plus belle personne de l’Univers, ait été sensible à sa beauté et qu’il ait rendu quelques combats, avant que de la rendre à Lucejus Prince des Celtiberiens, à qui elle estoit promise. D’ailleurs si Scipion avoit remis sa captive sans la voir, son action n’auroit pas été si belle, que de la rendre aprés l’avoir veuë, et aprés en avoir esté vivement touché</hi><hi rend="i"> ; car comme dit le grand Corneille</hi>, </p>
+        <p>
+          <pb n="III"/>
+          <hi rend="i"> Il me semble même que Scipion auroit bien douté de sa vertu, et du pouvoir qu’il avoit sur luy de n’oser voir une tres-belle personne, de peur d’en être tenté</hi>
+          <hi rend="i">. Comme l’Histoire ne nomme point cette belle captive, je la fais Niéce d’Annibal, pour donner un plus grand contraste à l’amour de Scipion qu’il combat, et dont enfin il triomphe, et je puis dire que cette action a plû trop generalement dans le cinquiéme Acte pour me repentir de l’avoir fait. Il y a des gens qui s’étonnent qu’Annibal vienne demander la Paix avecque une assez grosse Armée ; mais il n’est pas permis d’ignorer un fait historique aussi connu que celuy-là. Il est constant qu’Annibal fut rapellé par le Senat de Cartage pour</hi>
+          <pb n="IV"/>
+          <hi rend="i"> défendre sa patrie, qu’il quitta l’Italie, qu’il revint en Afrique, et qu’il y trouva les affaires en un si mauvais état, qu’il n’eût point d’autre party à prendre pour sauver Cartage, que celuy de demander la Paix</hi>
+          <hi rend="i"> ; mais il la demande d’une maniere assez noble, et cette Scene a toujours paru tres-belle, et tres-bien conduite ; je ne doute point qu’il n’y ait bien des choses qui auroient pû être mieux dans cette Piece, mais je ne suis pas infaillible, et je ne donne point cecy pour un ouvrage achevé. Il suffit qu’il ait réussi, pour en devoir être content, et pour m’encourager à travailler à l’avenir avec encor plus de soin et plus d’exactitude.</hi>
+        </p>
+      </div>
+      <div xml:id="privilege">
+        <p>Par Grace &amp; Privilege du Roy, donné à Paris le vingt-uniéme Mars 1697. Signé, Par le Roy en son Conseil, LE FEVRE. Il est permis à THOMAS GUILLAIN, Marchand Libraire à Paris, de faire imprimer, vendre &amp; debiter <hi rend="i">le Recueil des Tragedies du Sieur</hi> PRADON, pendant le temps de six années, à compter du jour qu’elles seront achevées d’imprimer pour la premiere fois, en vertu des presentes, pendant lequel temps tres-expresses inhibitions &amp; défenses sont faites à toutes personnes de quelque qualité &amp; condition qu’elles soient ; de faire imprimer, vendre ny debiter desdites Tragedies conjointement, ou separément, d’autre Edition que celles de l’Exposant, ou de ceux qui auront droit de luy, à peine de quinze cens livres d’amende, payable sans déport par chacun des Contrevenans, de confiscation des Exemplaires contrefaits, &amp; de tous dépens, dommages &amp; interests, &amp; autres peines portées plus au long par lesdites Lettres de Privilege.</p>
+        <p rend="i">Registré sur le Livre de la Communauté des Imprimeurs et Libraires de la Ville de Paris, le 26 Mars 1697.</p>
+        <p rend="right">
+          <hi rend="i">Signé P. AUBOUIN, Syndic.</hi>
+        </p>
+        <p>Achevé d’imprimer pour la premiere fois le premier Avril 1697.</p>
+        <p><hi rend="i">Le prix est vingt sols</hi>.</p>
+      </div>
+      <div xml:id="acteurs"/>
+      <div type="act" xml:id="I">
+        <pb n="A,1" xml:id="p1"/>
+        <div type="scene" xml:id="I01">
+          <sp who="lepide" xml:id="I01-1">
+            <l n="1" xml:id="l1">Seigneur, en attendant que Scipion vous voye,</l>
+            <l n="2" xml:id="l2">Je me tiens honoré de l’ordre qu’il m’envoye,</l>
+            <l n="3" xml:id="l3">De vous entretenir pendant quelques momens,</l>
+            <l n="4" xml:id="l4">Nous sçaurons d’Annibal les secrets sentimens,</l>
+            <l n="5" xml:id="l5">C’est vous qui dans ce Camp annoncez sa venuë.</l>
+          </sp>
+          <sp who="aurilcar" xml:id="I01-2">
+            <pb n="2" xml:id="p2"/>
+            <l n="6" xml:id="l6">Oüy, Seigneur, Annibal souhaite une entreveuë,</l>
+            <l n="7" xml:id="l7">Je viens la demander, c’est son intention</l>
+            <l n="8" xml:id="l8">Que de voir aujourd’huy le fameux Scipion ;</l>
+            <l n="9" xml:id="l9">Aux plaines de Zama nous sommes l’un &amp; l’autre,</l>
+            <l n="10" xml:id="l10">Nôtre Armée est campée assez prés de la vôtre ;</l>
+            <l n="11" xml:id="l11">Mais Annibal <ref target="#pretendre1">prétend*</ref> avec luy conferer,</l>
+            <l n="12" xml:id="l12">Et je viens en ce Camp pour en déliberer,</l>
+            <l n="13" xml:id="l13">Avant que de rien faire &amp; de rien entreprendre.</l>
+          </sp>
+          <sp who="lepide" xml:id="I01-3">
+            <l n="14" xml:id="l14"><ref target="#sans-doute">Sans doute*</ref> qu’on ne peut refuser de l’entendre ;</l>
+            <l n="15" xml:id="l15">Nous verrons aujourd’huy ces deux grands Citoyens,</l>
+            <l n="16" xml:id="l16">Tous deux de leur païs la gloire &amp; les soûtiens,</l>
+            <l n="17" xml:id="l17">Donner ce peu de tréve à cette longue guerre,</l>
+            <l n="18" xml:id="l18">Pour décider entre-eux du destin de la terre,</l>
+            <l n="19" xml:id="l19">Et de leur conference on attend desormais</l>
+            <l n="20" xml:id="l20">Le jour de la bataille, ou celuy de la paix.</l>
+          </sp>
+          <sp who="aurilcar" xml:id="I01-4">
+            <l n="21" xml:id="l21">Je ne m’explique point des desseins de mon Maître,</l>
+            <l n="22" xml:id="l22">Il paroîtra luy-même, &amp; les fera connoître,</l>
+            <l n="23" xml:id="l23">Il marche sur mes pas : mais que d’heureux <ref target="#succes">succés*</ref>,</l>
+            <l n="24" xml:id="l24">Seigneur, de Scipion ont remply les projets ?</l>
+            <l n="25" xml:id="l25">La victoire en tous lieux à son bras enchaînée</l>
+            <l n="26" xml:id="l26">Semble de l’Univers faire la destinée ;</l>
+            <l n="27" xml:id="l27">Jeune encor, on a vû ses grandes actions</l>
+            <l n="28" xml:id="l28">Suivre, &amp; même passer celles des Scipions,</l>
+            <l n="29" xml:id="l29">Et digne rejeton de cette illustre <ref target="#race">race*</ref>,</l>
+            <l n="30" xml:id="l30">A vingt ans on l’a vû commander en leur place ;</l>
+            <l n="31" xml:id="l31">Il nous chassa d’Espagne aprés quatre combats,</l>
+            <l n="32" xml:id="l32">Où Rome triompha par l’<ref target="#effort1">effort*</ref> de son bras,</l>
+            <l n="33" xml:id="l33">Le voicy dans l’Affrique <ref target="#etonner1">étonnée*</ref>, affoiblie,</l>
+            <l n="34" xml:id="l34">Il arrache Annibal du sein de l’Italie[,]</l>
+            <l n="35" xml:id="l35">Et contraint ce Heros de voler en ces lieux,<pb n="3" xml:id="p3"/></l>
+            <l n="36" xml:id="l36">Pour défendre à son tour sa patrie &amp; ses Dieux.</l>
+          </sp>
+          <sp who="lepide" xml:id="I01-5">
+            <l n="37" xml:id="l37">S’il acheve, Seigneur, cette heureuse campagne,</l>
+            <l n="38" xml:id="l38">Dans l’Affrique il fera ce qu’il fit en Espagne :</l>
+            <l n="39" xml:id="l39">Un des plus puissans Rois qui fût dans l’Univers,</l>
+            <l n="40" xml:id="l40">L’infidelle Syphax a pery dans ses fers,</l>
+            <l n="41" xml:id="l41">Asdrubal &amp; Xantus ont perdu trois batailles,</l>
+            <l n="42" xml:id="l42">Cartage va nous voir au pied de ses murailles,</l>
+            <l n="43" xml:id="l43">Cette <ref target="#superbe1">superbe*</ref> ville est contrainte aujourd’huy</l>
+            <l n="44" xml:id="l44">D’appeller Annibal pour luy servir d’appuy ;</l>
+            <l n="45" xml:id="l45">Scipion la menace, &amp; l’on voit ce grand homme</l>
+            <l n="46" xml:id="l46">Luy rendre tout l’effroy qu’Annibal fit à Rome.</l>
+          </sp>
+          <sp who="aurilcar" xml:id="I01-6">
+            <l n="47" xml:id="l47">Il vient de ses succés interrompre le cours,</l>
+            <l n="48" xml:id="l48">Et promet à l’Affrique un fidele secours.</l>
+            <l n="49" xml:id="l49">Son nom seul raffermit nos Provinces craintives ;</l>
+            <l n="50" xml:id="l50">Mais puis-je m’informer des illustres captives</l>
+            <l n="51" xml:id="l51">Que Zama pris d’assaut vit tomber dans vos fers ;</l>
+            <l n="52" xml:id="l52">La Niéce d’Annibal les a-t-elle souffers ?</l>
+            <l n="53" xml:id="l53">Et la Fille d’Hannon, la <ref target="#superbe2">superbe*</ref> Erixene,</l>
+            <l n="54" xml:id="l54">S’est-elle accoûtumée à porter une chaîne ?</l>
+          </sp>
+          <sp who="lepide" xml:id="I01-7">
+            <l n="55" xml:id="l55">Que leur chaîne, Seigneur, est facile à porter ?</l>
+            <l n="56" xml:id="l56">Elles ont des <ref target="#vertu3">vertus*</ref> qui les font respecter,</l>
+            <l n="57" xml:id="l57">Au Camp de Scipion elles sont souveraines,</l>
+            <l n="58" xml:id="l58">Il les traite bien moins en esclaves qu’en Reines,</l>
+            <l n="59" xml:id="l59">Il n’a plus de <ref target="#fierte1">fierté*</ref> si-tôt qu’il est vainqueur,</l>
+            <l n="60" xml:id="l60">Sa bonté, sa clemence égalent sa valeur ;</l>
+            <l n="61" xml:id="l61">Oüy, son bras aux vaincus ne fut jamais <ref target="#funeste1">funeste*</ref>,</l>
+            <l n="62" xml:id="l62">La victoire ne sert qu’à le rendre modeste,</l>
+            <l n="63" xml:id="l63">Egal dans la <ref target="#fortune3">fortune*</ref> &amp; dans l’adversité,</l>
+            <l n="64" xml:id="l64">Il n’est jamais <ref target="#superbe1">superbe*</ref> en la prosperité.</l>
+            <l n="65" xml:id="l65">La Niéce d’Annibal, l’<ref target="#adorable">adorable*</ref> Isperie,<pb n="4" xml:id="p4"/></l>
+            <l n="66" xml:id="l66">Fit briller tant d’éclat &amp; tant de modestie</l>
+            <l n="67" xml:id="l67">Qu’il en fut ébloüy : mais enfin sa beauté</l>
+            <l n="68" xml:id="l68">Porte un <ref target="#charme">charme*</ref> secret dont on est <ref target="#enchanter">enchanté*</ref>.</l>
+            <l n="69" xml:id="l69">Au Prince Lucejus elle se vit promise,</l>
+            <l n="70" xml:id="l70">Il devoit l’épouser quand Zama fut surprise ;</l>
+            <l n="71" xml:id="l71">Ce jour infortuné si <ref target="#funeste2">funeste*</ref> pour eux</l>
+            <l n="72" xml:id="l72">Sépara ces Amans sur le point d’estre heureux :</l>
+            <l n="73" xml:id="l73">Elle ignore où ce Prince a sçû porter ses armes,</l>
+            <l n="74" xml:id="l74">Et souvent ses beaux yeux pour luy versent des larmes :</l>
+            <l n="75" xml:id="l75">Mais, Seigneur, Erixene en ce lieu doit venir,</l>
+            <l n="76" xml:id="l76">Scipion luy permet de vous entretenir,</l>
+            <l n="77" xml:id="l77">Je vois qu’elle s’avance, &amp; vous laisse avecque elle.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I02">
+          <sp who="erixene" xml:id="I02-1">
+            <l n="78" xml:id="l78">On nous vient d’annoncer une grande nouvelle,</l>
+            <l n="79" xml:id="l79">Annibal en Affrique est enfin de retour.</l>
+          </sp>
+          <sp who="aurilcar" xml:id="I02-2">
+            <l n="80" xml:id="l80">Vous le verrez, Madame, avant la fin du jour.</l>
+          </sp>
+          <sp who="erixene" xml:id="I02-3">
+            <l n="81" xml:id="l81">Je sçay que dans l’état où l’Affrique est reduite,</l>
+            <l n="82" xml:id="l82">Elle n’espere plus qu’en sa seule <ref target="#conduite1">conduite*</ref> ;</l>
+            <l n="83" xml:id="l83">Ne me déguisez rien sur ses nouveaux projets,</l>
+            <l n="84" xml:id="l84">Je prévois, Aurilcar, qu’ils tendent à la paix.</l>
+          </sp>
+          <sp who="aurilcar" xml:id="I02-4">
+            <pb n="5" xml:id="p5"/>
+            <l n="85" xml:id="l85">Vous avez penetré ce que veut sa prudence,</l>
+            <l n="86" xml:id="l86">Une paix de Cartage est l’unique esperance ;</l>
+            <l n="87" xml:id="l87">Mais, Madame, que dit, &amp; que fait Scipion ?</l>
+            <l n="88" xml:id="l88">Son jeune cœur n’a-t-il que de l’ambition ?</l>
+            <l n="89" xml:id="l89">Les <ref target="#charme">charmes*</ref> d’Erixene, ou les yeux d’Isperie</l>
+            <l n="90" xml:id="l90">N’ont-ils pû rendre encor sa grande ame attendrie ?</l>
+            <l n="91" part="I" xml:id="l91">Pardonnez…</l>
+          </sp>
+          <sp who="erixene" xml:id="I02-5">
+            <l part="F">Apprenez un secret important,</l>
+            <l n="92" xml:id="l92"><ref target="#sans-doute">Sans doute*</ref> Scipion n’est plus indifferent.</l>
+            <l n="93" xml:id="l93">Depuis peu dans son Camp sa flâme est allumée,</l>
+            <l n="94" xml:id="l94">Bien que sa passion dans son cœur renfermée</l>
+            <l n="95" xml:id="l95">Prenne soin à nos yeux toujours de se cacher,</l>
+            <l n="96" xml:id="l96">Qu’il fasse des <ref target="#effort2">efforts*</ref> en vain pour l’arracher,</l>
+            <l n="97" xml:id="l97">J’ay <ref target="#connaitre1">connu*</ref> cependant, même par sa contrainte,</l>
+            <l n="98" xml:id="l98">Que d’un feu violent son ame étoit atteinte.</l>
+          </sp>
+          <sp who="aurilcar" xml:id="I02-6">
+            <l n="99" xml:id="l99">Il faut d’un tel secret qu’Annibal soit instruit,</l>
+            <l n="100" xml:id="l100">Sa prudence pouroit en tirer quelque fruit ;</l>
+            <l n="101" xml:id="l101">Car si de Scipion on fléchit le courage,</l>
+            <l n="102" xml:id="l102">Il pouroit s’adoucir en faveur de Cartage.</l>
+            <l n="103" xml:id="l103">Hé quoy ? si de l’amour il ressentoit les coups ?</l>
+            <l n="104" xml:id="l104">Et s’il étoit <ref target="#charme">charmé*</ref> d’Isperie, ou de vous,</l>
+            <l n="105" xml:id="l105"><ref target="#sans-doute">Sans doute*</ref> que la paix en seroit plus facile.</l>
+          </sp>
+          <sp who="erixene" xml:id="I02-7">
+            <l n="106" xml:id="l106">A <ref target="#connaitre1">connoître*</ref> les cœurs je ne suis pas habile ;</l>
+            <l n="107" xml:id="l107">Mais j’ay crû démesler dans son trouble secret,</l>
+            <l n="108" xml:id="l108">Qu’il aime une des deux, &amp; qu’il l’aime à regret ;</l>
+            <l n="109" xml:id="l109">Plus j’observe pour nous ses yeux et sa conduite,</l>
+            <l n="110" xml:id="l110">Plus je vois qu’il nous cherche alors qu’il nous évite ;</l>
+            <l n="111" xml:id="l111">Quand il nous voit ensemble il demeure <ref target="#interdit">interdit*</ref>,</l>
+            <l n="112" xml:id="l112">Il rougit quelquefois de honte &amp; de dépit</l>
+            <l n="113" xml:id="l113">Et quand il s’aperçoit du trouble de son ame,<pb n="6" xml:id="p6"/></l>
+            <l n="114" xml:id="l114">Il semble s’indigner de sa naissante flâme,</l>
+            <l n="115" xml:id="l115">Il fremit de sentir l’amour qu’il veut dompter,</l>
+            <l n="116" xml:id="l116">Et que tout son courage a peine à surmonter.</l>
+            <l n="117" xml:id="l117">Voila le plan d’un cœur difficile à <ref target="#connaitre1">connoître*</ref> ;</l>
+            <l n="118" xml:id="l118">Mais pour aprofondir qui peut en estre maître,</l>
+            <l n="119" xml:id="l119">Je sçay trop qu’Isperie a des <ref target="#charme">charmes*</ref> puissans,</l>
+            <l n="120" xml:id="l120">Que sa beauté d’abord peut <ref target="#enchanter">enchanter*</ref> les sens,</l>
+            <l n="121" xml:id="l121">Mais à son cher Amant elle est trop attachée,</l>
+            <l n="122" xml:id="l122">Et par nul autre <ref target="#objet1">objet*</ref> n’en peut estre arrachée,</l>
+            <l n="123" part="I" xml:id="l123">Scipion le <ref target="#connaitre1">connoît*</ref>.</l>
+          </sp>
+          <sp who="aurilcar" xml:id="I02-8">
+            <l part="F">Madame, &amp; plût aux Dieux !</l>
+            <l n="124" xml:id="l124">Que ce Vainqueur sentît le pouvoir de vos yeux ?</l>
+          </sp>
+          <sp who="erixene" xml:id="I02-9">
+            <l n="125" xml:id="l125">Je ne m’en <ref target="#flatter1">flatte*</ref> point, mais sans estre trop <ref target="#vain">vaine*</ref>,</l>
+            <l n="126" xml:id="l126">Scipion sans rougir pouroit porter ma chaîne,</l>
+            <l n="127" xml:id="l127">Que dis-je ? ce Heros, le plus grand des mortels,</l>
+            <l n="128" xml:id="l128">A qui Rome déja consacre des Autels,</l>
+            <l n="129" xml:id="l129">D’un cœur tel que le mien peut devenir le maître,</l>
+            <l n="130" xml:id="l130">Et s’il n’est mon Amant il est digne de l’estre.</l>
+            <l n="131" xml:id="l131">Peut-estre j’en dis trop, &amp; j’avouë à regret</l>
+            <l n="132" xml:id="l132">Un foible, dont mon cœur me faisoit un secret ;</l>
+            <l n="133" xml:id="l133">Mais quoy ? Si l’on faisoit la paix avec Cartage,</l>
+            <l n="134" xml:id="l134">Plût au Ciel ! que l’amour en ébauchât l’ouvrage,</l>
+            <l n="135" xml:id="l135">Et du moins je voudrois pour <ref target="#flatter1">flater*</ref> ma <ref target="#fierte2">fierté*</ref>,</l>
+            <l n="136" xml:id="l136">Que l’heureuse Erixene eût part à ce traité.</l>
+            <l n="137" xml:id="l137">Adieu, Scipion vient, &amp; vous allez l’entendre.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I03">
+          <pb n="7" xml:id="p7"/>
+          <sp who="scipion" xml:id="I03-1">
+            <l n="138" xml:id="l138">Est-il donc vray, Seigneur, ce qu’on vient de m’apprendre,</l>
+            <l n="139" xml:id="l139">Que le grand Annibal cherche à m’entretenir ?</l>
+          </sp>
+          <sp who="aurilcar" xml:id="I03-2">
+            <l n="140" xml:id="l140">Seigneur, sur ce sujet je viens vous prévenir,</l>
+            <l n="141" xml:id="l141">Occupé tout entier du <ref target="#soin1">soin*</ref> de sa patrie,</l>
+            <l n="142" xml:id="l142">Annibal, par ma bouche aujourd’huy vous en prie ;</l>
+            <l n="143" xml:id="l143">Une telle entreveuë utile à son païs,</l>
+            <l n="144" xml:id="l144">Et même necessaire à tous les deux partis,</l>
+            <l n="145" xml:id="l145">Pouroit en ce grand jour décidant de la guerre,</l>
+            <l n="146" xml:id="l146">Donner un plein repos au reste de la terre.</l>
+          </sp>
+          <sp who="scipion" xml:id="I03-3">
+            <l n="147" xml:id="l147">Annibal me surprend par ce nouveau dessein,</l>
+            <l n="148" xml:id="l148">Je ne le croyois voir que le fer à la main,</l>
+            <l n="149" xml:id="l149">Et seur de sa valeur &amp; de sa renommée,</l>
+            <l n="150" xml:id="l150">Je l’attendois toujours en tête d’une Armée.</l>
+          </sp>
+          <sp who="aurilcar" xml:id="I03-4">
+            <l n="151" xml:id="l151">Elle approche de vous, &amp; marche sur ses pas ;</l>
+            <l n="152" xml:id="l152">Avant que de tenter le <ref target="#destin">destin*</ref> des combats,</l>
+            <l n="153" xml:id="l153">Il a cru pour le bien de chaque Republique,</l>
+            <l n="154" xml:id="l154">Qu’il devoit avec vous en sage politique,</l>
+            <l n="155" xml:id="l155">Examiner à fond les divers interests</l>
+            <l n="156" xml:id="l156">Qui troublent nos Etats par des ressors secrets,</l>
+            <l n="157" xml:id="l157">Et les ayant tous mis dans la juste balance,<pb n="8" xml:id="p8"/></l>
+            <l n="158" xml:id="l158">En peser à loisir les raisons, l’importance,</l>
+            <l n="159" xml:id="l159">Pour garder à chacun &amp; sa gloire &amp; son rang ;</l>
+            <l n="160" xml:id="l160">Souvent une entreveuë épargne bien du sang,</l>
+            <l n="161" xml:id="l161">Ainsi pour Annibal je la demande encore.</l>
+          </sp>
+          <sp who="scipion" xml:id="I03-5">
+            <l n="162" xml:id="l162">Hé bien ? pour luy marquer à quel point je l’honore[,]</l>
+            <l n="163" xml:id="l163">J’accepte l’entreveuë, &amp; veux bien differer</l>
+            <l n="164" xml:id="l164">La bataille où j’ay cru devoir me préparer ;</l>
+            <l n="165" xml:id="l165">Pour lever tout ombrage &amp; toute défiance,</l>
+            <l n="166" xml:id="l166">Qu’il choisisse un lieu <ref target="#propre">propre*</ref> à cette conference,</l>
+            <l n="167" xml:id="l167">Je m’y rendray, Seigneur, au jour qu’il nommera,</l>
+            <l n="168" xml:id="l168">Et ne seray suivy qu’autant qu’il le sera.</l>
+          </sp>
+          <sp who="aurilcar" xml:id="I03-6">
+            <l n="169" xml:id="l169">Il <ref target="#pretendre2">prétend*</ref> dans ce Camp venir bien-tôt luy-même.</l>
+          </sp>
+          <sp who="scipion" xml:id="I03-7">
+            <l n="170" xml:id="l170">Quoy ! luy-même en mon Camp, ma surprise est extrême ?</l>
+            <l n="171" xml:id="l171">Mais quel ôtage encor exige-t-il de moy ?</l>
+            <l n="172" part="I" xml:id="l172">Que [me] demande-t-il qui puisse…</l>
+          </sp>
+          <sp who="aurilcar" xml:id="I03-8">
+            <l part="F">Vôtre <ref target="#foi1">foy*</ref>.</l>
+          </sp>
+          <sp who="scipion" xml:id="I03-9">
+            <l n="173" xml:id="l173">Hé quoy ? donc Annibal ne veut point d’autre ôtage ?</l>
+          </sp>
+          <sp who="aurilcar" xml:id="I03-10">
+            <l n="174" xml:id="l174">Il veut de Scipion la parole pour gage,</l>
+            <l n="175" xml:id="l175">Hé quel ôtage peut remplacer Annibal ?</l>
+          </sp>
+          <sp who="scipion" xml:id="I03-11">
+            <l n="176" xml:id="l176">Je sçay qu’il n’en est point pour un tel General.</l>
+            <l n="177" xml:id="l177">Et puisqu’il se <ref target="#confier">confie*</ref> en ma seule parole,</l>
+            <l n="178" xml:id="l178">Je jure par les Dieux appuis du Capitole,</l>
+            <l n="179" xml:id="l179">Qu’il peut en seureté se fier à ma <ref target="#foi1">foy*</ref>,</l>
+            <l n="180" xml:id="l180">Il n’aura dans mon Camp pour ôtage que moy.</l>
+          </sp>
+          <sp who="aurilcar" xml:id="I03-12">
+            <pb n="9" xml:id="p9"/>
+            <l n="181" part="I" xml:id="l181">Seigneur, c’en est assez.</l>
+          </sp>
+          <sp who="scipion" xml:id="I03-13">
+            <l part="F">Allez, je vais l’attendre,</l>
+            <l n="182" xml:id="l182">Je me fais un plaisir de le voir, de l’entendre,</l>
+            <l n="183" xml:id="l183">Mais pressez l’entreveuë où j’ay dû consentir,</l>
+            <l n="184" xml:id="l184">Et voyez Isperie avant que de partir.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I04">
+          <sp who="scipion" xml:id="I04-1">
+            <l n="185" xml:id="l185">Lepide, que crois-tu de cette conference</l>
+            <l n="186" xml:id="l186">Qu’Annibal me demande avecque tant d’instance ;</l>
+            <l n="187" xml:id="l187">Son invincible bras, la terreur des Romains,</l>
+            <l n="188" xml:id="l188">Son grand <ref target="#coeur">cœur*</ref>, sa <ref target="#conduite1">conduite*</ref>, &amp; ses vastes desseins</l>
+            <l n="189" xml:id="l189">Avoient mis l’Italie aux bords du précipice,</l>
+            <l n="190" xml:id="l190">Long-temps de la <ref target="#fortune2">fortune*</ref> il fixa le caprice ;</l>
+            <l n="191" xml:id="l191">De Trebie, &amp; sur tout de Cannes le malheur,</l>
+            <l n="192" xml:id="l192"><ref target="#monument">Monumens*</ref> éternels de sa rare valeur,</l>
+            <l n="193" xml:id="l193">Sur les deux Scipions sa derniere victoire,</l>
+            <l n="194" xml:id="l194">Tout enfin a servy de trophée à sa gloire :</l>
+            <l n="195" xml:id="l195">Cependant ce vainqueur aprés tant de combats</l>
+            <l n="196" xml:id="l196">Envoye à Scipion, &amp; fait les premiers pas,</l>
+            <l n="197" xml:id="l197">Il dément la <ref target="#fierte1">fierté*</ref> de son ame <ref target="#hautain1">hautaine*</ref>.</l>
+            <l n="198" xml:id="l198">Que me vient proposer ce fameux Capitaine ?</l>
+            <l n="199" xml:id="l199">Dieux ! seroit-ce la paix ? mon esprit agité</l>
+            <l n="200" xml:id="l200">Fremit en ce moment du seul mot de traité.</l>
+          </sp>
+          <sp who="lepide" xml:id="I04-2">
+            <pb n="10" xml:id="p10"/>
+            <l n="201" xml:id="l201">S’il demande la paix, n’estes-vous pas le maître</l>
+            <l n="202" part="I" xml:id="l202">D’accepter, d’imposer…</l>
+          </sp>
+          <sp who="scipion" xml:id="I04-3">
+            <l part="F">Apprens à me <ref target="#connaitre1">connoître*</ref>.</l>
+            <l n="203" xml:id="l203">Si dans cette entreveuë il propose la paix,</l>
+            <l n="204" xml:id="l204">Ma gloire me défend d’y consentir jamais.</l>
+            <l n="205" xml:id="l205">Quelques conditions que j’impose à Cartage,</l>
+            <l n="206" xml:id="l206">Quand Rome la verroit reduite à l’esclavage,</l>
+            <l n="207" xml:id="l207">Je ne fais rien pour moy, si dans un jour <ref target="#fatal3">fatal*</ref></l>
+            <l n="208" xml:id="l208">Scipion n’est vainqueur de l’illustre Annibal :</l>
+            <l n="209" xml:id="l209">Voila donc l’interest le premier de ma gloire ;</l>
+            <l n="210" xml:id="l210">J’en ay d’autres secrets que tu ne pouras croire,</l>
+            <l n="211" xml:id="l211">Je ne sçay si mon <ref target="#coeur">cœur*</ref> se seroit <ref target="#dementir">démenty*</ref>,</l>
+            <l n="212" xml:id="l212">Je sens ce que jamais je n’avois ressenty.</l>
+          </sp>
+          <sp who="lepide" xml:id="I04-4">
+            <l n="213" part="I" xml:id="l213">Vous, Seigneur ?</l>
+          </sp>
+          <sp who="scipion" xml:id="I04-5">
+            <l part="F">Je te veux ouvrir toute mon ame,</l>
+            <l n="214" xml:id="l214">Je ne sçay si je dois donner le nom de flâme</l>
+            <l n="215" xml:id="l215">A ce trouble <ref target="#mortel2">mortel*</ref> dont je suis agité ;</l>
+            <l n="216" xml:id="l216">Qu’on l’ignore à jamais dans la posterité ?</l>
+            <l n="217" xml:id="l217">Que toy seul sois témoin de ma foiblesse extrême ?</l>
+            <l n="218" xml:id="l218">Lepide, quelquefois j’ay pitié de moy-même,</l>
+            <l n="219" xml:id="l219">Je combats, mais en vain un rapide penchant,</l>
+            <l n="220" xml:id="l220">Qui de tous mes <ref target="#effort2">efforts*</ref> est toujours triomphant ;</l>
+            <l n="221" xml:id="l221">Je rougis d’en sentir les <ref target="#mortel2">mortelles*</ref> atteintes,</l>
+            <l n="222" xml:id="l222">J’ay voulu te cacher mon desordre, mes craintes ;</l>
+            <l n="223" xml:id="l223">Mais il faut t’avoüer mon foible avec douleur.</l>
+            <l n="224" xml:id="l224">La prise de Zama coûte cher à mon cœur.</l>
+          </sp>
+          <sp who="lepide" xml:id="I04-6">
+            <l n="225" xml:id="l225">Je vous entends, Seigneur, des atteintes si vives</l>
+            <l n="226" part="I" xml:id="l226">Sont de l’amour…</l>
+          </sp>
+          <sp who="scipion" xml:id="I04-7">
+            <pb n="11" xml:id="p11"/>
+            <l part="F">Ecoûte, une de mes captives,</l>
+            <l n="227" xml:id="l227">Je tremble seulement d’en prononcer le nom,</l>
+            <l n="228" xml:id="l228">A soûmis, a vaincu le <ref target="#coeur">cœur*</ref> de Scipion ;</l>
+            <l n="229" xml:id="l229">Pourois-je t’en tracer une assez vive image ?</l>
+            <l n="230" xml:id="l230">Un <ref target="#charme">charme*</ref> ébloüissant brille sur son visage,</l>
+            <l n="231" xml:id="l231">Un air plein de grandeur, une noble <ref target="#fierte2">fierté*</ref>,</l>
+            <l n="232" xml:id="l232">L’éclat &amp; la douceur jointe à la majesté,</l>
+            <l n="233" xml:id="l233">Mille &amp; mille <ref target="#vertu3">vertus*</ref>, une grace infinie…</l>
+            <l n="234" xml:id="l234">Enfin ne dois-tu pas reconnoître Isperie.</l>
+          </sp>
+          <sp who="lepide" xml:id="I04-8">
+            <l n="235" xml:id="l235">Hé ? Qui pouroit la voir sans en estre surpris,</l>
+            <l n="236" xml:id="l236">Seigneur, avec raison vous en estes épris,</l>
+            <l n="237" part="I" xml:id="l237">Ses yeux…</l>
+          </sp>
+          <sp who="scipion" xml:id="I04-9">
+            <l part="F">Ne <ref target="#flatter2">flate*</ref> point mon panchant, ma foiblesse,</l>
+            <l n="238" xml:id="l238">Et loin de me laisser <ref target="#languir1">languir*</ref> dans la <ref target="#molesse">molesse*</ref>,</l>
+            <l n="239" xml:id="l239">Contre un feu si <ref target="#fatal1">fatal*</ref> prête-moy du secours,</l>
+            <l n="240" xml:id="l240">Sauve-moy, s’il se peut, de l’abîme où je cours :</l>
+            <l n="241" xml:id="l241">D’Isperie, il est vray, je redoutois la veuë,</l>
+            <l n="242" xml:id="l242">Je sentois à ses yeux mon ame trop émeuë,</l>
+            <l n="243" xml:id="l243">J’ay voulu l’éviter, vaine précaution !</l>
+            <l n="244" xml:id="l244">Par l’absence j’ay cru vaincre ma passion,</l>
+            <l n="245" xml:id="l245">J’ay tenu quelque temps contre de si doux <ref target="#charme">charmes*</ref> ;</l>
+            <l n="246" xml:id="l246">Mais enfin je la vis, elle versoit des larmes,</l>
+            <l n="247" xml:id="l247">C’estoit pour son Amant, &amp; j’en fus offensé,</l>
+            <l n="248" xml:id="l248">D’un <ref target="#mouvement">mouvement*</ref> jaloux je me sentis pressé,</l>
+            <l n="249" xml:id="l249">Et ses pleurs, ses soûpirs, sa <ref target="#languir2">langueur*</ref>, sa <ref target="#tristesse">tristesse*</ref>,</l>
+            <l n="250" xml:id="l250">Me firent vivement ressentir ma foiblesse,</l>
+            <l n="251" xml:id="l251">Je n’en suis plus le maître, &amp; malgré mes <ref target="#effort2">efforts*</ref></l>
+            <l n="252" xml:id="l252">Je succombe, Lepide, à de si doux transports.</l>
+          </sp>
+          <sp who="lepide" xml:id="I04-10">
+            <pb n="12" xml:id="p12"/>
+            <l n="253" xml:id="l253">Il est vray qu’elle est belle, &amp; digne d’estre aimée.</l>
+          </sp>
+          <sp who="scipion" xml:id="I04-11">
+            <l n="254" xml:id="l254">Plus je resiste, &amp; plus j’en ay l’ame <ref target="#charme">charmée*</ref>,</l>
+            <l n="255" xml:id="l255">L’<ref target="#effort2">effort*</ref> que je me fais <ref target="#irriter2">irrite*</ref> mes desirs,</l>
+            <l n="256" xml:id="l256">Prés d’elle je contrains, j’étouffe mes soûpirs :</l>
+            <l n="257" xml:id="l257">Mais dieux ! elle est sans cesse en de <ref target="#triste1">tristes*</ref> allarmes,</l>
+            <l n="258" xml:id="l258">Je me vois aujourd’huy la cause de ses larmes,</l>
+            <l n="259" xml:id="l259">Ma <ref target="#fatal2">fatale*</ref> victoire a trahy ses desseins,</l>
+            <l n="260" xml:id="l260">Elle doit me haïr, Lepide, &amp; je le crains.</l>
+          </sp>
+          <sp who="lepide" xml:id="I04-12">
+            <l n="261" xml:id="l261">Vous pouriez voir, Seigneur, vôtre flâme trompée,</l>
+            <l n="262" xml:id="l262">Du Prince Lucejus elle est préocupée,</l>
+            <l n="263" xml:id="l263">Vous l’avez enlevée aux bras de cet époux.</l>
+          </sp>
+          <sp who="scipion" xml:id="I04-13">
+            <l n="264" xml:id="l264">Il l’épousoit ? ah Ciel ! que son <ref target="#sort1">sort*</ref> étoit doux [!]</l>
+            <l n="265" xml:id="l265">Qu’il alloit estre heureux [,] &amp; qu’Isperie est belle [!]</l>
+            <l n="266" xml:id="l266">Est-il dans l’univers rien qui soit digne d’elle ?</l>
+            <l n="267" xml:id="l267">Mais que veut Annibal ? quel accord, quel traité ?</l>
+            <l n="268" xml:id="l268">Voudra-t-il de sa Niéce avoir la liberté ?</l>
+            <l n="269" xml:id="l269">Est-ce pour Lucejus, pour elle, ou pour Cartage</l>
+            <l n="270" xml:id="l270">Qu’il vient… dure à jamais plûtôt son esclavage !</l>
+            <l n="271" xml:id="l271">Apprens que Scipion ne la rendra jamais,</l>
+            <l n="272" xml:id="l272">Elle est seule un obstacle invincible à la paix ;</l>
+            <l n="273" xml:id="l273">Ainsi donc plus d’accord, ny même d’entreveuë.</l>
+          </sp>
+          <sp who="lepide" xml:id="I04-14">
+            <l n="274" xml:id="l274">Mais vous l’avez promise, &amp; dans peu la venuë</l>
+            <l n="275" part="I" xml:id="l275">D’Annibal en ce Camp…</l>
+          </sp>
+          <sp who="scipion" xml:id="I04-15">
+            <l part="F">Il est vray, j’ay promis</l>
+            <l n="276" xml:id="l276">D’entendre le plus <ref target="#hautain2">fier*</ref> de tous nos ennemis ;</l>
+            <l n="277" xml:id="l277">Mais je dois pour ma gloire oublier Isperie,</l>
+            <l n="278" xml:id="l278">Je dois la regarder en <ref target="#mortel1">mortelle*</ref> ennemie,</l>
+            <l n="279" xml:id="l279">La Niéce d’Annibal tenteroit ma <ref target="#vertu1">vertu*</ref> ?<pb n="B, 13" xml:id="p13"/></l>
+            <l n="280" xml:id="l280">Le plus grand ennemy que jamais Rome ait eu ?</l>
+            <l n="281" xml:id="l281">Non, Lepide, aujourd’huy je dois briser ma chaîne.</l>
+          </sp>
+          <sp who="lepide" xml:id="I04-16">
+            <l n="282" xml:id="l282">Seigneur, portez vos vœux du côté d’Erixene.</l>
+            <l n="283" xml:id="l283">Elle est fille d’Hannon ennemy d’Annibal,</l>
+            <l n="284" xml:id="l284">Dans Cartage ce Chef fut toujours son rival.</l>
+            <l n="285" xml:id="l285">Toujours dans le Senat à ce Heros <ref target="#contraire">contraire*</ref>,</l>
+            <l n="286" xml:id="l286">Dans Rome il n’eut jamais de plus grand adversaire,</l>
+            <l n="287" xml:id="l287">Et s’opposant sans cesse à ses justes desseins,</l>
+            <l n="288" xml:id="l288">Il paroissoit plûtôt l’allié des Romains ;</l>
+            <l n="289" xml:id="l289">Aux <ref target="#charme">charmes*</ref> d’Isperie opposez Erixene,</l>
+            <l n="290" xml:id="l290">Et prenez un amour conforme à vôtre haine,</l>
+            <l n="291" xml:id="l291">Elle peut balancer vos desirs à son tour,</l>
+            <l n="292" xml:id="l292">Et même elle pouroit répondre à vôtre amour.</l>
+          </sp>
+          <sp who="scipion" xml:id="I04-17">
+            <l n="293" part="I" xml:id="l293">Erixene !</l>
+          </sp>
+          <sp who="lepide" xml:id="I04-18">
+            <l part="F">Oüy, Seigneur, &amp; j’ay cru le <ref target="#connaitre1">connoître*</ref>,</l>
+            <l n="294" xml:id="l294">Toute sa <ref target="#fierte2">fierté*</ref> tombe en [v]ous voyant paroître :</l>
+            <l n="295" xml:id="l295">Quand on parle de vous, il le faut avoüer,</l>
+            <l n="296" xml:id="l296">Elle prend du plaisir, Seigneur, à vous loüer,</l>
+            <l n="297" xml:id="l297">Et lorsque vos regards tournent vers Isperie,</l>
+            <l n="298" xml:id="l298">Dans son dépit secret on lit sa jalousie ;</l>
+            <l n="299" xml:id="l299">Elle voudroit bien voir ses <ref target="#charme">charmes*</ref> <ref target="#effacer1">effacez*</ref>,</l>
+            <l n="300" xml:id="l300">Elle la hait enfin, en est-ce pas assez ?</l>
+          </sp>
+          <sp who="scipion" xml:id="I04-19">
+            <l n="301" xml:id="l301">Elle hait Isperie, ah Ciel ! quelle injustice ?</l>
+            <l n="302" xml:id="l302">Par quelle jalousie, ou plûtôt quel caprice,</l>
+            <l n="303" xml:id="l303">Malgré tant de beautez cette Erixene hait</l>
+            <l n="304" xml:id="l304">Ce que la main des Dieux forma de plus parfait.</l>
+            <l n="305" xml:id="l305">Je m’égare, Lepide, &amp; tu vois ma foiblesse,</l>
+            <l n="306" xml:id="l306">C’est envain que je veux déguiser ma tendresse ;</l>
+            <l n="307" xml:id="l307">Apprenons cependant ce qu’Aurilcar a fait,<pb n="14" xml:id="p14"/></l>
+            <l n="308" xml:id="l308">Peut-estre qu’Isperie aura sçû quel projet</l>
+            <l n="309" xml:id="l309">Annibal peut former, &amp; quelle est sa <ref target="#conduite2">conduite*</ref>,</l>
+            <l n="310" xml:id="l310">De ses desseins <ref target="#sans-doute">sans doute*</ref> elle doit estre instruite ;</l>
+            <l n="311" xml:id="l311">Je veux sonder son cœur, je veux estre éclaircy</l>
+            <l n="312" xml:id="l312">Des secretes raisons qui l’amenent icy.</l>
+            <p rend="center">Fin du premier Acte.</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act" xml:id="II">
+        <pb n="15" xml:id="p15"/>
+        <div type="scene" xml:id="II01">
+          <sp who="isperie" xml:id="II01-1">
+            <l n="313" xml:id="l313"><ref target="#languir2">Languirais*</ref>-je toujours en des craintes <ref target="#mortel2">mortelles*</ref> ?</l>
+            <l n="314" xml:id="l314">Du Prince Lucejus on n’a point de nouvelles,</l>
+            <l n="315" xml:id="l315">Aurilcar m’a parlé sans m’avoir rien appris</l>
+            <l n="316" xml:id="l316">Qui puisse redonner le calme à mes esprits ;</l>
+            <l n="317" xml:id="l317">Il m’apprend qu’Annibal, ce Heros que j’honore,</l>
+            <l n="318" xml:id="l318">Viendra ; mais Lucejus ne paroît point encore ;</l>
+            <l n="319" xml:id="l319">Devoit-il pas aller au devant de ses pas ?</l>
+            <l n="320" xml:id="l320">Le <ref target="#joindre">joindre*</ref> dans son Camp, y mener ses soldats ?</l>
+            <l n="321" xml:id="l321">Que fait-il ? en quels lieux avec indifference,</l>
+            <l n="322" xml:id="l322">Depuis deux mois entiers <ref target="#souffrir1">souffre*</ref>-t-il mon absence ?</l>
+            <l n="323" xml:id="l323">Il n’ose rien tenter, il n’a rien entrepris,</l>
+            <l n="324" xml:id="l324"><ref target="#sans-doute">Sans doute*</ref> que mon cœur est d’un trop foible prix ;</l>
+            <l n="325" xml:id="l325">Et ne devoit-il pas au peril de sa teste,</l>
+            <l n="326" xml:id="l326">Ravir à Scipion une telle conqueste ;</l>
+            <l n="327" xml:id="l327">Il n’a rien fait encor pour me prouver sa <ref target="#foi2">foy*</ref>,</l>
+            <l n="328" xml:id="l328">Je ne merite pas qu’il s’expose pour moy.</l>
+          </sp>
+          <sp who="ermilie" xml:id="II01-2">
+            <pb n="16" xml:id="p16"/>
+            <l n="329" xml:id="l329">Eh ? pouvez-vous douter que ce Prince vous aime,</l>
+            <l n="330" xml:id="l330">Madame, rapellez son desespoir extrême,</l>
+            <l n="331" xml:id="l331">Quand Zama pris d’assaut le sépara de vous :</l>
+            <l n="332" xml:id="l332">Ce malheureux Amant dans son juste couroux,</l>
+            <l n="333" xml:id="l333">Guidé par sa fureur s’alloit ôter la vie,</l>
+            <l n="334" xml:id="l334">Je desarmay son bras au seul nom d’Isperie,</l>
+            <l n="335" part="I" xml:id="l335">Et peut-estre…</l>
+          </sp>
+          <sp who="isperie" xml:id="II01-3">
+            <l part="F">Dequoy viens-tu m’entretenir ?</l>
+            <l n="336" xml:id="l336">Pourquoy me rapeller ce <ref target="#triste2">triste*</ref> souvenir ?</l>
+            <l n="337" xml:id="l337">O nuit ! qui preceda la <ref target="#fatal2">fatale*</ref> journée</l>
+            <l n="338" xml:id="l338">Qui devoit éclairer un heureux hymenée !</l>
+            <l n="339" xml:id="l339">Au lieu de me livrer au malheur qui me suit,</l>
+            <l n="340" xml:id="l340">Que n’es-tu devenuë une éternelle nuit ?</l>
+            <l n="341" xml:id="l341">Lors qu’on vint nous donner de si vives allarmes,</l>
+            <l n="342" xml:id="l342">Que tout retentissoit de l’affreux bruit des armes,</l>
+            <l n="343" xml:id="l343">Que le fer à la main je vis tant de soldats</l>
+            <l n="344" xml:id="l344">En foule en mon Palais précipiter leurs pas ;</l>
+            <l n="345" xml:id="l345">Il t’en doit souvenir, dans tes bras Ermilie</l>
+            <l n="346" xml:id="l346">Je demeuray long-temps immobile &amp; sans vie,</l>
+            <l n="347" xml:id="l347">Scipion m’aperçût, son <ref target="#zele1">zele*</ref> officieux</l>
+            <l n="348" xml:id="l348">Me prêta du secours, me fit ouvrir les yeux,</l>
+            <l n="349" xml:id="l349">A son air, à son port je <ref target="#connaitre1">connus*</ref> ce grand homme,</l>
+            <l n="350" xml:id="l350">La terreur de Cartage &amp; la gloire de Rome,</l>
+            <l n="351" xml:id="l351">Et sans qu’il eût besoin qu’on prononçât son nom,</l>
+            <l n="352" xml:id="l352">Son front majestueux découvrit Scipion,</l>
+            <l n="353" xml:id="l353">Depuis de mille <ref target="#soin3">soins*</ref> je luy suis redevable ;</l>
+            <l n="354" xml:id="l354">Cependant aujourd’huy c’est luy seul qui m’accable,</l>
+            <l n="355" xml:id="l355">Il fait couler mes pleurs malgré tant de <ref target="#vertu1">vertus*</ref>,</l>
+            <l n="356" xml:id="l356">Et sans luy je serois unie à Lucejus.</l>
+          </sp>
+          <sp who="ermilie" xml:id="II01-4">
+            <pb n="17" xml:id="p17"/>
+            <l n="357" xml:id="l357">Madame pouvez-vous murmurer de sa chaîne ?</l>
+            <l n="358" xml:id="l358">Ce Heros vous regarde &amp; traite en souveraine,</l>
+            <l n="359" xml:id="l359">Vôtre nom dans Zama seroit moins respecté,</l>
+            <l n="360" xml:id="l360">Vous estes dans son Camp en pleine liberté,</l>
+            <l n="361" xml:id="l361">Sans gardes, sans témoins, il met toute sa gloire</l>
+            <l n="362" xml:id="l362">A vous faire oublier cette <ref target="#triste2">triste*</ref> victoire,</l>
+            <l n="363" xml:id="l363">Et si je m’en raporte à des regards plus doux,</l>
+            <l n="364" xml:id="l364">Le seul respect n’est pas tout ce qu’il sent pour vous.</l>
+          </sp>
+          <sp who="isperie" xml:id="II01-5">
+            <l n="365" xml:id="l365">Helas ! trop attentive à mon <ref target="#destin">destin*</ref> <ref target="#funeste2">funeste*</ref>,</l>
+            <l n="366" xml:id="l366">Je songe à mon Amant &amp; néglige le reste,</l>
+            <l n="367" xml:id="l367">Tous les autres <ref target="#objet1">objets*</ref> me touchent foiblement,</l>
+            <l n="368" xml:id="l368">Qu’un cœur est malheureux d’aimer si tendrement ?</l>
+            <l n="369" xml:id="l369">Mais ce Prince m’oublie &amp; j’en suis <ref target="#outrager">outragée*</ref>,</l>
+            <l n="370" xml:id="l370">Il n’y faut plus penser pour en estre vangée,</l>
+            <l n="371" xml:id="l371">Dans un lâche repos s’il est <ref target="#enseveli">ensevely*</ref>,</l>
+            <l n="372" xml:id="l372">Il merite ma haine, ou plûtôt mon oubly ;</l>
+            <l n="373" xml:id="l373">Me laisser si long-temps <ref target="#languir2">languir*</ref> dans l’esclavage ?</l>
+            <l n="374" xml:id="l374">Est-ce faute d’amour, ou faute de courage ?</l>
+            <l n="375" xml:id="l375">Tous deux également me donnent de l’effroy,</l>
+            <l n="376" xml:id="l376">S’il manque de courage est-il digne de moy ?</l>
+            <l n="377" xml:id="l377">Ce penser contre luy me revolte, m’indigne,</l>
+            <l n="378" xml:id="l378">Et s’il manque d’amour en sera-t-il plus digne ?</l>
+            <l n="379" part="I" xml:id="l379">Mais que vois-je ? est-ce luy ? grands Dieux !…</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II02">
+          <pb n="18" xml:id="p18"/>
+          <sp who="lucejus" xml:id="II02-1">
+            <l part="F">N’en doutez plus,</l>
+            <l n="380" xml:id="l380">Madame, &amp; <ref target="#connaitre1">connoissez*</ref> aujourd’huy Lucejus :</l>
+            <l n="381" xml:id="l381">Le fidele Celsus fut captif de mon pere,</l>
+            <l n="382" xml:id="l382">Il le renvoya libre, &amp; j’en ay le salaire,</l>
+            <l n="383" xml:id="l383">C’est luy qui m’a conduit prés de vous en ces lieux,</l>
+            <l n="384" xml:id="l384">Je viens briser vos fers, ou mourir à vos yeux.</l>
+          </sp>
+          <sp who="isperie" xml:id="II02-2">
+            <l n="385" part="I" xml:id="l385">Ciel ! qu’entens-je ?</l>
+          </sp>
+          <sp who="lucejus" xml:id="II02-3">
+            <l part="F">Voila le sujet qui m’ameine,</l>
+            <l n="386" xml:id="l386">Mes soldats sont cachez dans la forest <ref target="#prochain">prochaine*</ref>,</l>
+            <l n="387" xml:id="l387">Jusqu’au prés de ce Camp nous sommes parvenus</l>
+            <l n="388" xml:id="l388">Par des lieux écartez, des chemins inconnus,</l>
+            <l n="389" xml:id="l389">Je n’ay pris avec moy que des troupes d’élite,</l>
+            <l n="390" xml:id="l390">Indibilis m’attend, il en a la conduite,</l>
+            <l n="391" xml:id="l391">Avecque un Camp volant Mandonius le suit,</l>
+            <l n="392" xml:id="l392">Nous devons attaquer ce quartier cette nuit ;</l>
+            <l n="393" xml:id="l393">Je n’ay fié qu’à moy le <ref target="#soin1">soin*</ref> de reconnoistre,</l>
+            <l n="394" xml:id="l394">En quel endroit du Camp vos tentes pouvoient être,</l>
+            <l n="395" xml:id="l395">Je le sçais à present, &amp; j’en rends grace aux Dieux,<pb n="19" xml:id="p19"/></l>
+            <l n="396" xml:id="l396">Il faudra profiter &amp; du temps &amp; des lieux,</l>
+            <l n="397" xml:id="l397">Et si le Ciel répond à ce que je projete,</l>
+            <l n="398" xml:id="l398">Tout le Camp d’Annibal nous offre une retraite,</l>
+            <l n="399" xml:id="l399">Il n’est pas loin d’icy ; mais j’ay voulu sans luy</l>
+            <l n="400" xml:id="l400">Tenter ce grand <ref target="#effort3">effort*</ref> que je fais aujourd’huy ;</l>
+            <l n="401" xml:id="l401">Je craignois qu’Annibal par sa lente prudence</l>
+            <l n="402" xml:id="l402">Ne servît mal ma flâme &amp; mon impatience :</l>
+            <l n="403" xml:id="l403">Ainsi, sans differer… Madame, vous tremblez,</l>
+            <l n="404" xml:id="l404">Vos sens sont <ref target="#interdit">interdits*</ref>, vos esprits sont troublez,</l>
+            <l n="405" xml:id="l405">Vous ne répondez rien, &amp; vous versez des larmes.</l>
+          </sp>
+          <sp who="isperie" xml:id="II02-4">
+            <l n="406" xml:id="l406">Que je ressens pour vous de <ref target="#mortel2">mortelles*</ref> allarmes ?</l>
+            <l n="407" xml:id="l407">Qu’allez-vous entreprendre ? &amp; qui peut m’assurer</l>
+            <l n="408" part="I" xml:id="l408">Du succés…</l>
+          </sp>
+          <sp who="lucejus" xml:id="II02-5">
+            <l part="F">Oui, Madame, il faut tout esperer,</l>
+            <l n="409" xml:id="l409">A quiconque aime bien il n’est rien d’impossible,</l>
+            <l n="410" xml:id="l410">L’ardeur de vous servir doit me rendre invincible,</l>
+            <l n="411" xml:id="l411">Si le <ref target="#sort2">sort*</ref> me trahit, ou si je meurs au moins,</l>
+            <l n="412" xml:id="l412">Madame, vos beaux yeux en seront les témoins,</l>
+            <l n="413" xml:id="l413">J’auray fait mon devoir s’il m’en coûte la vie,</l>
+            <l n="414" xml:id="l414">Du moins je la perdray pour sauver Isperie.</l>
+          </sp>
+          <sp who="isperie" xml:id="II02-6">
+            <l n="415" xml:id="l415">Et c’est ce que je crains, que pourez-vous, ah Dieux ?</l>
+            <l n="416" xml:id="l416">Vous allez attaquer un Camp victorieux,</l>
+            <l n="417" xml:id="l417">Vous perirez, Seigneur, &amp; tout me le fait croire,</l>
+            <l n="418" xml:id="l418">Vous allez contre vous <ref target="#irriter1">irriter*</ref> la victoire,</l>
+            <l n="419" xml:id="l419">Je vous verray sanglant, &amp; tout percé de coups,</l>
+            <l n="420" part="I" xml:id="l420">Tomber peut-être…</l>
+          </sp>
+          <sp who="lucejus" xml:id="II02-7">
+            <l part="F">Helas ! que mon <ref target="#sort1">sort*</ref> sera doux</l>
+            <l n="421" part="I" xml:id="l421">Si je puis…</l>
+          </sp>
+          <sp who="isperie" xml:id="II02-8">
+            <pb n="20" xml:id="p20"/>
+            <l part="F">Non, Seigneur, gardez-vous d’entreprendre</l>
+            <l n="422" xml:id="l422">Si je l’ay souhaité, je dois vous le défendre ;</l>
+            <l n="423" xml:id="l423">Loin de vous j’accusois vôtre trop de lenteur,</l>
+            <l n="424" xml:id="l424">J’allois jusqu’à douter même de vôtre <ref target="#coeur">cœur*</ref> :</l>
+            <l n="425" xml:id="l425">Pardonnez-moy, j’étois injuste, criminelle,</l>
+            <l n="426" xml:id="l426">De soupçonner ce <ref target="#coeur">cœur*</ref> <ref target="#genereux1">genereux*</ref> &amp; fidelle :</l>
+            <l n="427" xml:id="l427">Mais enfin, grace au Ciel, je vous vois de retour,</l>
+            <l n="428" xml:id="l428">Et je retrouve en vous un Heros plein d’amour,</l>
+            <l n="429" part="I" xml:id="l429">C’est assez.</l>
+          </sp>
+          <sp who="lucejus" xml:id="II02-9">
+            <l part="F">Non, Madame, il faut <ref target="#tantot">tantôt*</ref> me suivre,</l>
+            <l n="430" xml:id="l430">Ou choisir de me voir dans peu cesser de vivre,</l>
+            <l n="431" xml:id="l431">Dissipez vos <ref target="#chagrin">chagrins*</ref>, &amp; n’ayez point d’effroy,</l>
+            <l n="432" xml:id="l432">Cette entreprise est digne &amp; de vous &amp; de moy.</l>
+            <l n="433" xml:id="l433">Hé quoy donc Scipion vous peut voir à toute heure,</l>
+            <l n="434" xml:id="l434">Vous le <ref target="#souffrir2">souffrez*</ref> helas ! quand il faut que je meure,</l>
+            <l n="435" xml:id="l435">Il joüit des momens qui m’estoient destinez,</l>
+            <l n="436" xml:id="l436">Je traîne loin de vous des jours infortunez,</l>
+            <l n="437" xml:id="l437">Vous le voyez souvent, pardonnez-moy, Madame,</l>
+            <l n="438" xml:id="l438">L’éclat de sa grandeur pouroit toucher une ame,</l>
+            <l n="439" xml:id="l439">Il a trop de <ref target="#vertu1">vertus*</ref>, &amp; mon transport jaloux…</l>
+          </sp>
+          <sp who="isperie" xml:id="II02-10">
+            <l n="440" xml:id="l440">Il a tout le respect que j’attendrois de vous,</l>
+            <l n="441" xml:id="l441">Sa bonté, sa clemence, <ref target="#enlever">enlevent*</ref> mon estime,</l>
+            <l n="442" xml:id="l442">Je ne m’en défens point puisqu’elle est legitime[.]</l>
+            <l n="443" xml:id="l443">Mais enfin Scipion n’est point vôtre rival,</l>
+            <l n="444" xml:id="l444">Il n’aime que la gloire, &amp; ne hait qu’Annibal.</l>
+          </sp>
+          <sp who="lucejus" xml:id="II02-11">
+            <l n="445" xml:id="l445">Moy, je hay ce Romain dont vous portez la chaîne,</l>
+            <l n="446" xml:id="l446">Et pour luy mon estime est égale à ma haine ;</l>
+            <l n="447" xml:id="l447">Mais, Madame, songez qu’il fait tous nos malheurs,</l>
+            <l n="448" xml:id="l448">Vous devez le haïr, il vous coûte des pleurs,</l>
+            <l n="449" xml:id="l449">Il nous a séparez, &amp; je suis à la <ref target="#gene">gêne*</ref>,<pb n="21" xml:id="p21"/></l>
+            <l n="450" xml:id="l450">De vous voir dans son Camp encor porter sa chaîne.</l>
+            <l n="451" xml:id="l451">Non, non, &amp; cette nuit il en faudra sortir,</l>
+            <l n="452" part="I" xml:id="l452">Ou j’iray…</l>
+          </sp>
+          <sp who="isperie" xml:id="II02-12">
+            <l part="F">Non, Seigneur, je n’y puis consentir,</l>
+            <l n="453" xml:id="l453">Annibal vient bien-tôt, attendons sa venüe,</l>
+            <l n="454" xml:id="l454">Aprenons le <ref target="#succes">succés*</ref> d’une telle entrevüe,</l>
+            <l n="455" xml:id="l455">Il va parler de paix, j’auray la liberté,</l>
+            <l n="456" xml:id="l456">Et nous serons tous deux compris dans le traité ;</l>
+            <l n="457" xml:id="l457">Peut-estre sans risquer une si chere vie</l>
+            <l n="458" xml:id="l458">Demain en liberté vous verrez Isperie,</l>
+            <l n="459" xml:id="l459">Ne précipitez rien, Seigneur, retirez-vous,</l>
+            <l n="460" xml:id="l460">Je tremble qu’en ces lieux quelqu’un ne vienne à nous ;</l>
+            <l n="461" xml:id="l461">Si vous tardez long-temps on peut vous y surprendre ;</l>
+            <l n="462" xml:id="l462">Sur tout, au nom des Dieux, avant que d’entreprendre,</l>
+            <l n="463" xml:id="l463">Si j’ay sur vôtre cœur de veritables droits,</l>
+            <l n="464" xml:id="l464">Je <ref target="#pretendre1">prétends*</ref> vous parler une seconde fois ;</l>
+            <l n="465" xml:id="l465">Seigneur[,] suivez Celsus en qui je me <ref target="#confier">confie*</ref>,</l>
+            <l n="466" xml:id="l466">Il poura dans sa tente assurer vôtre vie,</l>
+            <l n="467" part="I" xml:id="l467">Attendez quelque temps.</l>
+          </sp>
+          <sp who="lucejus" xml:id="II02-13">
+            <l part="F">Madame j’obéis.</l>
+            <l n="468" xml:id="l468">Mais enfin, si vos vœux &amp; les miens sont trahis[,]</l>
+            <l n="469" part="I" xml:id="l469">Vous partirez.</l>
+          </sp>
+          <sp who="isperie" xml:id="II02-14">
+            <l part="F">Seigneur, je promets de vous suivre,</l>
+            <l n="470" xml:id="l470">Et même de mourir si vous cessez de vivre.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II03">
+          <pb n="22" xml:id="p22"/>
+          <sp who="isperie" xml:id="II03-1">
+            <l n="471" xml:id="l471">A present je respire ! il a rempli mes vœux,</l>
+            <l n="472" xml:id="l472">Cet Amant que je vois fidelle &amp; <ref target="#genereux1">genereux*</ref>,</l>
+            <l n="473" xml:id="l473">De tant de <ref target="#mouvement">mouvemens*</ref> dont j’avois l’ame atteinte,</l>
+            <l n="474" xml:id="l474">Il ne me reste plus que l’amour &amp; la crainte ;</l>
+            <l n="475" xml:id="l475">Mais helas ! qu’elle est vive &amp; <ref target="#sensible1">sensible*</ref> à mon cœur [!]</l>
+            <l n="476" xml:id="l476">Je sens mille transports de joye &amp; de douleur,</l>
+            <l n="477" xml:id="l477">Il est digne de moy, je dois trop le <ref target="#connaitre1">connoître*</ref> ;</l>
+            <l n="478" xml:id="l478">Mais il va s’exposer, &amp; perira peut-estre ;</l>
+            <l n="479" xml:id="l479">Que dis-je, son amour va tenter un <ref target="#effort3">effort*</ref></l>
+            <l n="480" xml:id="l480">Qui luy fera trouver Scipion &amp; la mort ;</l>
+            <l n="481" xml:id="l481">Justes Dieux ! détournez ce <ref target="#funeste1">funeste*</ref> présage !</l>
+            <l n="482" xml:id="l482">Inspirez Annibal pour la paix de Cartage !</l>
+            <l n="483" xml:id="l483">C’est ma seule esperance en cette occasion,</l>
+            <l n="484" xml:id="l484">Et sur tout portez-y le cœur de Scipion :</l>
+            <l n="485" part="I" xml:id="l485">Il vient, que me veut-il ?</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II04">
+          <pb n="23" xml:id="p23"/>
+          <sp who="scipion" xml:id="II04-1">
+            <l part="F">Je vous cherchois, Madame ;</l>
+            <l n="486" xml:id="l486">Mais quel trouble nouveau frape &amp; saisit vôtre ame !</l>
+            <l n="487" xml:id="l487"><ref target="#etonner2">Etonnée*</ref>, <ref target="#interdit">interdite*</ref>, à mon premier <ref target="#abord">abord*</ref>,</l>
+            <l n="488" xml:id="l488">Je vois combien pour moy vous vous faites d’<ref target="#effort2">effort*</ref>.</l>
+          </sp>
+          <sp who="isperie" xml:id="II04-2">
+            <l n="489" part="I" xml:id="l489">Seigneur, ne croyez pas…</l>
+          </sp>
+          <sp who="scipion" xml:id="II04-3">
+            <l part="F">Ma presence vous <ref target="#gener">gêne*</ref>,</l>
+            <l n="490" xml:id="l490">Et je seray toujours l’objet de vôtre haine,</l>
+            <l n="491" part="I" xml:id="l491">Je la merite peu cependant.</l>
+          </sp>
+          <sp who="isperie" xml:id="II04-4">
+            <l part="F">Moy, Seigneur ?</l>
+            <l n="492" xml:id="l492">Vous haïr ? mon respect vous répond de mon cœur,</l>
+            <l n="493" xml:id="l493">Et j’ay pour vos <ref target="#vertu1">vertus*</ref> une si haute estime…</l>
+          </sp>
+          <sp who="scipion" xml:id="II04-5">
+            <l n="494" xml:id="l494">Madame, vous croyez la haine legitime,</l>
+            <l n="495" xml:id="l495">La prise de Zama vous a coûté des pleurs,</l>
+            <l n="496" xml:id="l496">Du Prince vôtre Amant j’ay causé les malheurs,</l>
+            <l n="497" xml:id="l497">Et vous vous en plaignez du moins sans vous contraindre,</l>
+            <l n="498" xml:id="l498">Il est d’autres malheurs dont on n’ose se plaindre.</l>
+          </sp>
+          <sp who="isperie" xml:id="II04-6">
+            <pb n="24" xml:id="p24"/>
+            <l n="499" xml:id="l499">Seroit-il des malheurs comparables aux siens ?</l>
+            <l n="500" xml:id="l500">Tout prêts à nous unir par les plus beaux liens,</l>
+            <l n="501" xml:id="l501">Ce jeune Prince helas ! attendoit la journée</l>
+            <l n="502" xml:id="l502">Qui devoit couronner un <ref target="#pompeux">pompeux*</ref> hymenée, </l>
+            <l n="503" xml:id="l503">Pardonnez-moy, Seigneur, ce <ref target="#triste2">triste*</ref> souvenir,</l>
+            <l n="504" xml:id="l504">De ma memoire encor je ne puis le bannir,</l>
+            <l n="505" xml:id="l505">C’est vous qui luy causez les malheurs de sa vie,</l>
+            <l n="506" xml:id="l506">Errant, infortuné, separé d’Isperie,</l>
+            <l n="507" xml:id="l507">Il nourit loin de moy d’inutiles regrets,</l>
+            <l n="508" xml:id="l508">Peut-estre ses <ref target="#tourment1">tourmens*</ref> ne finiront jamais ;</l>
+            <l n="509" xml:id="l509">Si vous aimiez, Seigneur, vous sçauriez par vous-même</l>
+            <l n="510" xml:id="l510">Dans quel afreux <ref target="#tourment2">tourment*</ref> est un cœur quand il aime,</l>
+            <l n="511" xml:id="l511">Et qu’il est separé de l’<ref target="#objet1">objet*</ref> de ses vœux ?</l>
+            <l n="512" xml:id="l512">Helas ! qu’il est à plaindre ? &amp; qu’il est malheureux ?</l>
+            <l n="513" part="I" xml:id="l513">Que son <ref target="#triste1">triste*</ref> <ref target="#destin">destin*</ref>…</l>
+          </sp>
+          <sp who="scipion" xml:id="II04-7">
+            <l part="F">Qu’il est digne d’envie !</l>
+            <l n="514" xml:id="l514">Peut-on rien ajoûter au bonheur de sa vie ?</l>
+            <l n="515" xml:id="l515">Lucejus est choisi pour estre vôtre époux,</l>
+            <l n="516" xml:id="l516">Il vous aime, &amp; de plus il est aimé de vous.</l>
+            <l n="517" xml:id="l517">Mais ç’en est trop, il faut combattre dans vôtre ame,</l>
+            <l n="518" xml:id="l518">Et bannir pour jamais cette inutile flâme.</l>
+          </sp>
+          <sp who="isperie" xml:id="II04-8">
+            <l n="519" part="I" xml:id="l519">Moy ! Seigneur ?</l>
+          </sp>
+          <sp who="scipion" xml:id="II04-9">
+            <l part="F">Ouy, pour vous Rome a d’autres desseins,</l>
+            <l n="520" xml:id="l520">Et puisqu’il est enfin ennemy des Romains</l>
+            <l n="521" xml:id="l521">Cet Amant, qu’il combat contre la Republique,</l>
+            <l n="522" xml:id="l522">Tout s’opose à ses vœux, raison, &amp; politique,</l>
+            <l n="523" xml:id="l523">Pouroit-elle <ref target="#souffrir2">souffrir*</ref> qu’il devînt vôtre époux ?<pb n="C, 25" xml:id="p25"/></l>
+            <l n="524" xml:id="l524">Et d’ailleurs cet hymen est indigne de vous.</l>
+          </sp>
+          <sp who="isperie" xml:id="II04-10">
+            <l n="525" part="I" xml:id="l525">Lucejus est né Prince.</l>
+          </sp>
+          <sp who="scipion" xml:id="II04-11">
+            <l part="F">Et fust-il Roy, Madame,</l>
+            <l n="526" xml:id="l526">Il ne merite point une si belle flâme [;]</l>
+            <l n="527" xml:id="l527">Que vous connoissez peu le prix de vôtre cœur ?</l>
+            <l n="528" xml:id="l528">Vous ignorez encor jusqu’à quel point d’honneur…</l>
+            <l n="529" xml:id="l529">Non, à vôtre merite il n’est rien qui réponde,</l>
+            <l n="530" xml:id="l530">Il est trop au dessus de tous les Rois du monde,</l>
+            <l n="531" xml:id="l531">Et pour mieux soûtenir l’honneur de vôtre choix,</l>
+            <l n="532" xml:id="l532">Il faut un des vainqueurs, un des maistres des Rois,</l>
+            <l n="533" part="I" xml:id="l533">En un mot, un Romain.</l>
+          </sp>
+          <sp who="isperie" xml:id="II04-12">
+            <l part="F">La grandeur, la <ref target="#fortune1">fortune*</ref></l>
+            <l n="534" xml:id="l534">Peut faire impression sur une ame commune ;</l>
+            <l n="535" xml:id="l535">Mais quoy ! tout son éclat mis dans son plus beau jour</l>
+            <l n="536" xml:id="l536">N’ébloüit point un cœur éclairé par l’amour.</l>
+          </sp>
+          <sp who="scipion" xml:id="II04-13">
+            <l n="537" part="I" xml:id="l537">Quoy ? vous pouriez, Madame ?…</l>
+          </sp>
+          <sp who="isperie" xml:id="II04-14">
+            <l part="F">Eh ! Seigneur, que m’importe</l>
+            <l n="538" xml:id="l538">Que ces vainqueurs des Rois… Mais helas ! je m’emporte,</l>
+            <l n="539" xml:id="l539">Je dois les respecter, &amp; je suis dans leurs fers ;</l>
+            <l n="540" xml:id="l540">Qu’à leur gré les Romains gouvernent l’Univers,</l>
+            <l n="541" xml:id="l541">Tout doit fléchir sous eux ? Mais encor à quels titres</l>
+            <l n="542" xml:id="l542">Veulent-ils de nos cœurs devenir les arbitres ?</l>
+          </sp>
+          <sp who="scipion" xml:id="II04-15">
+            <l n="543" xml:id="l543">Il faut <ref target="#justifier">justifier*</ref>, Madame, leurs desseins,</l>
+            <l n="544" xml:id="l544">Et vous apprendre icy l’interest des Romains ;</l>
+            <l n="545" xml:id="l545">Pour rendre sa puissance &amp; sa gloire affermie,<pb n="26" xml:id="p26"/></l>
+            <l n="546" xml:id="l546">Rome ne peut <ref target="#souffrir2">souffrir*</ref> d’alliance ennemie,</l>
+            <l n="547" xml:id="l547">Syphax, ce Roy <ref target="#superbe1">superbe*</ref> a payé cherement</l>
+            <l n="548" xml:id="l548">La <ref target="#fatal2">fatale*</ref> douceur d’un tel engagement :</l>
+            <l n="549" xml:id="l549">Il estoit nôtre amy ; mais de dangereux <ref target="#charme">charmes*</ref></l>
+            <l n="550" xml:id="l550">Luy firent contre nous soudain prendre les armes,</l>
+            <l n="551" xml:id="l551">Sophonisbe luy plut, il devint son époux,</l>
+            <l n="552" xml:id="l552">(Madame, elle estoit belle, &amp; moins belle que vous)</l>
+            <l n="553" xml:id="l553">La fille d’Asdrubal a donc sçû le détruire,</l>
+            <l n="554" xml:id="l554">Et vient de luy coûter la vie avec l’Empire ;</l>
+            <l n="555" xml:id="l555">D’un Chef Cartaginois, du fameux Hyerbal</l>
+            <l n="556" xml:id="l556">Isperie est la fille, &amp; niéce d’Annibal,</l>
+            <l n="557" xml:id="l557">Plus <ref target="#charme">charmante*</ref> cent fois, plus redoutable encore,</l>
+            <l n="558" xml:id="l558">Et Rome <ref target="#souffrir2">souffriroit*</ref> quand Lucejus l’<ref target="#adorer">adore*</ref>,</l>
+            <l n="559" xml:id="l559">Qu’il unît à Cartage avec de tels liens</l>
+            <l n="560" xml:id="l560">Tout le peuple nombreux des Celtiberiens ;</l>
+            <l n="561" xml:id="l561">Si Sophonisbe seule a coûté trois batailles,</l>
+            <l n="562" xml:id="l562">Combien coûteriez-vous de sang, de funerailles ?</l>
+            <l n="563" xml:id="l563">Vous pouriez soûlever vingt Rois nos ennemis,</l>
+            <l n="564" xml:id="l564">Unir Mandonius avecque Indibilis,</l>
+            <l n="565" xml:id="l565">Et suscitant à Rome une éternelle guerre,</l>
+            <l n="566" xml:id="l566">Vos yeux pouroient contr’elle armer toute la terre.</l>
+          </sp>
+          <sp who="isperie" xml:id="II04-16">
+            <l n="567" xml:id="l567">Mais si la paix, Seigneur, par de plus doux projets</l>
+            <l n="568" part="I" xml:id="l568">Pouvoit unir un jour…</l>
+          </sp>
+          <sp who="scipion" xml:id="II04-17">
+            <l part="F">Madame, point de paix,</l>
+            <l n="569" xml:id="l569">Point d’accord, c’est envain en former l’esperance,</l>
+            <l n="570" xml:id="l570">Il faut de Rome, il faut poursuivre la vangeance,</l>
+            <l n="571" xml:id="l571">On me l’a confiée, &amp; j’en dois prendre <ref target="#soin1">soin*</ref>,</l>
+            <l n="572" xml:id="l572">Et si j’en crois mon <ref target="#coeur">cœur*</ref> je la porteray loin,</l>
+            <l n="573" part="I" xml:id="l573">Madame, vous pleurez.</l>
+          </sp>
+          <sp who="isperie" xml:id="II04-18">
+            <l part="F">Il faut bien que je pleure,<pb n="27" xml:id="p27"/></l>
+            <l n="574" xml:id="l574">Puisque par cet Arrest vous voulez que je meure ;</l>
+            <l n="575" xml:id="l575">Vous serez satisfait, cet ordre rigoureux</l>
+            <l n="576" xml:id="l576">Dans peu fera perir deux Amans malheureux,</l>
+            <l n="577" xml:id="l577">Nous avions dans la paix encor quelque esperance,</l>
+            <l n="578" xml:id="l578">Mais vous voulez de Rome achever la vangeance.</l>
+            <l n="579" xml:id="l579">Achevez-la, Seigneur, mais du moins le trépas,</l>
+            <l n="580" xml:id="l580">Au defaut de la paix ne nous manquera pas.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II05">
+          <sp who="scipion" xml:id="II05-1">
+            <l n="581" xml:id="l581">Et le <ref target="#sort5">sort*</ref>, juste Ciel ! &amp; les yeux pleins de larmes</l>
+            <l n="582" xml:id="l582">Attendrissent mon cœur, &amp; m’arrachent les armes, </l>
+            <l n="583" xml:id="l583">Je suis prêt d’oublier ma gloire, mes projets,</l>
+            <l n="584" xml:id="l584">Et presqu’en ce moment je consens à la paix ;</l>
+            <l n="585" xml:id="l585">Ouy, puisqu’elle le veut, il faut finir la guerre,</l>
+            <l n="586" xml:id="l586">En rendre un plein repos, un plein calme à la terre ;</l>
+            <l n="587" xml:id="l587">Mais quel <ref target="#triste2">triste*</ref> penser me frape en ce moment ?</l>
+            <l n="588" xml:id="l588">Elle ne veut la paix que pour voir son Amant,</l>
+            <l n="589" xml:id="l589">Que pour combler ses vœux d’un heureux hymenée,</l>
+            <l n="590" xml:id="l590">Et j’en avancerois la <ref target="#fatal1">fatale*</ref> journée ?</l>
+            <l n="591" xml:id="l591">C’est donc pour Lucejus qu’elle aspire à la paix :</l>
+            <l n="592" xml:id="l592">Qu’elle l’aime grand Dieux ! grands Dieux que je le hais ?</l>
+            <l n="593" xml:id="l593">Mais pourquoy son nom seul me fait-il de la peine ?</l>
+            <l n="594" xml:id="l594">D’où vient que Lucejus est l’objet de ma haine ?</l>
+            <l n="595" xml:id="l595">D’où vient que contre luy je me trouve <ref target="#animer">animé*</ref> ?<pb n="28" xml:id="p28"/></l>
+            <l n="596" xml:id="l596">Dieux ! par quelles raisons ? Lucejus est aimé ?</l>
+            <l n="597" xml:id="l597">Les voilà ces raisons ? &amp; mon ame saisie…</l>
+            <l n="598" xml:id="l598">Ah ! je te reconnois affreuse jalousie,</l>
+            <l n="599" xml:id="l599">Tu viens porter la haine &amp; le trouble en mon cœur,</l>
+            <l n="600" xml:id="l600">Et tu me fais sentir que l’amour est vainqueur,</l>
+            <l n="601" xml:id="l601">Dans quel temps ? dans le temps qu’Annibal va paroître,</l>
+            <l n="602" xml:id="l602">Et que de mes transports je dois estre le maître,</l>
+            <l n="603" xml:id="l603">Je pousse des soûpirs, je m’égare, ah du moins</l>
+            <l n="604" xml:id="l604">De mes égaremens je n’ay point de témoins,</l>
+            <l n="605" xml:id="l605">Mais dois-je succomber au panchant qui m’entraîne [?]</l>
+            <l n="606" xml:id="l606">Punissons Isperie en voyant Erixene,</l>
+            <l n="607" xml:id="l607">Méprisons ses attraits, &amp; peut-être en ce jour</l>
+            <l n="608" xml:id="l608">Qu’Erixene sçaura détruire cet amour :</l>
+            <l n="609" xml:id="l609">Je veux rendre un hommage éclatant à ses <ref target="#charme">charmes*</ref>,</l>
+            <l n="610" xml:id="l610">Abandonnons des yeux toujours noyez de larmes,</l>
+            <l n="611" xml:id="l611">Tout le veut, la raison, la gloire, l’équité,</l>
+            <l n="612" xml:id="l612">Il faut par d’autres fers me mettre en liberté.</l>
+            <p rend="center">Fin du second Acte.</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act" xml:id="III">
+        <pb n="29" xml:id="p29"/>
+        <div type="scene" xml:id="III01">
+          <sp who="barce" xml:id="III01-1">
+            <l n="613" xml:id="l613">Tandis que Scipion fait ranger son armée,</l>
+            <l n="614" xml:id="l614">Que pour en soûtenir l’éclat, la renommée[,]</l>
+            <l n="615" xml:id="l615">Il en veut étaler la <ref target="#pompe">pompe*</ref> à son rival,</l>
+            <l n="616" xml:id="l616">(Spectacle digne enfin des regards d’Annibal)</l>
+            <l n="617" xml:id="l617">En attendant qu’icy nous le voyons paroître,</l>
+            <l n="618" xml:id="l618">De grace, aprenez-moy si ce <ref target="#superbe2">superbe*</ref> maître,</l>
+            <l n="619" xml:id="l619">Ce fameux Scipion qui marchoit sur vos pas</l>
+            <l n="620" xml:id="l620">A rendu les respects qu’il doit à vos <ref target="#apas">apas*</ref> ;</l>
+            <l n="621" xml:id="l621">Ouy, son front desarmé de la <ref target="#fierte1">fierté*</ref> Romaine</l>
+            <l n="622" xml:id="l622">Sembloit le préparer à porter vôtre chaîne ;</l>
+            <l n="623" xml:id="l623">Loin de vous par respect je n’ay pas entendu</l>
+            <l n="624" xml:id="l624">Assez distinctement cet homage rendu :</l>
+            <l n="625" xml:id="l625">Mais helas ! je vous vois les yeux pleins de <ref target="#tristesse">tristesse*</ref>,</l>
+            <l n="626" xml:id="l626">A cacher vos <ref target="#chagrin">chagrins*</ref> vous mettez vôtre adresse,</l>
+            <l n="627" xml:id="l627">Vous ne répondez rien, vous devorez vos pleurs,</l>
+            <l n="628" part="I" xml:id="l628">Madame, &amp; ce silence…</l>
+          </sp>
+          <sp who="erixene" xml:id="III01-2">
+            <l part="F">Aprens tous mes malheurs,</l>
+            <l n="629" xml:id="l629">Barcé, puisque tu veux que je t’en rende conte,<pb n="30" xml:id="p30"/></l>
+            <l n="630" xml:id="l630">Aprens ma passion, ma douleur, &amp; ma honte ;</l>
+            <l n="631" xml:id="l631">Que les yeux d’une Amante helas ! sont clairvoyans ?</l>
+            <l n="632" xml:id="l632">J’ay vû de Scipion les feux les plus ardans,</l>
+            <l n="633" xml:id="l633">Il m’est venu trouver pour m’en faire un homage,</l>
+            <l n="634" xml:id="l634">Mais que son cœur ah Dieux ! démentoit son langage ?</l>
+            <l n="635" xml:id="l635">A son discours confus, son air embarassé,</l>
+            <l n="636" xml:id="l636">J’ay vû qu’il me rendoit un homage forcé ;</l>
+            <l n="637" xml:id="l637">Au nom de Lucejus toute sa jalousie</l>
+            <l n="638" xml:id="l638">Me l’a fait voir remply des <ref target="#charme">charmes*</ref> d’Isperie,</l>
+            <l n="639" xml:id="l639">Il la cherchoit encore en voulant me parler,</l>
+            <l n="640" xml:id="l640">Il découvroit un feu qu’il tâchoit de celer,</l>
+            <l n="641" xml:id="l641">Et son aveu pour moy d’une flâme <ref target="#fatal4">fatale*</ref></l>
+            <l n="642" xml:id="l642">M’a fait voir seulement qu’il aimoit ma rivale.</l>
+          </sp>
+          <sp who="barce" xml:id="III01-3">
+            <l n="643" part="I" xml:id="l643">Que dites-vous ? ah Ciel !</l>
+          </sp>
+          <sp who="erixene" xml:id="III01-4">
+            <l part="F">Tout ce que j’ay trop vû,</l>
+            <l n="644" xml:id="l644">Ce que mon <ref target="#triste1">triste*</ref> cœur avoit déjà prévû,</l>
+            <l n="645" xml:id="l645">Ouy, j’ay de mes malheurs l’affreuse certitude,</l>
+            <l n="646" xml:id="l646">Et n’ay plus la douceur de mon inquietude ;</l>
+            <l n="647" xml:id="l647">Ce n’est pas qu’il n’ait fait d’inutiles effors</l>
+            <l n="648" xml:id="l648">Pour s’arracher luy-même à ses premiers transports :</l>
+            <l n="649" xml:id="l649">Je voyois qu’il tâchoit de me rendre les armes,</l>
+            <l n="650" xml:id="l650">Qu’il vouloit tout entier se livrer à mes <ref target="#charme">charmes*</ref>,</l>
+            <l n="651" xml:id="l651">Qu’il combattoit en vain contre un cœur mutiné</l>
+            <l n="652" xml:id="l652">Qui suivoit malgré luy son panchant obstiné :</l>
+            <l n="653" xml:id="l653">En parlant d’Isperie un dédain legitime</l>
+            <l n="654" xml:id="l654">Affectoit un mépris qui marquoit son estime,</l>
+            <l n="655" xml:id="l655">Il vouloit à mes yeux rabaisser ses attraits,</l>
+            <l n="656" xml:id="l656">Mais les siens me sembloient égarez &amp; distraits :</l>
+            <l n="657" xml:id="l657">Il nommoit Isperie, il nommoit Erixene,<pb n="31" xml:id="p31"/></l>
+            <l n="658" xml:id="l658">Il montroit de l’amour, il marquoit de la haine,</l>
+            <l n="659" xml:id="l659">Il s’efforçoit Barcé d’aimer &amp; de haïr,</l>
+            <l n="660" xml:id="l660">Et son cœur en suspens refusoit d’obéïr.</l>
+          </sp>
+          <sp who="barce" xml:id="III01-5">
+            <l n="661" xml:id="l661">Mais, Madame, après tout s’il <ref target="#adorer">adore*</ref> Isperie,</l>
+            <l n="662" xml:id="l662">Son ame d’un tel feu doit estre assez punie,</l>
+            <l n="663" xml:id="l663">Elle aime Lucejus, &amp; leurs cœurs embrasez</l>
+            <l n="664" xml:id="l664">Puniront Scipion de vos feux méprisez,</l>
+            <l n="665" part="I" xml:id="l665">Sa tendresse…</l>
+          </sp>
+          <sp who="erixene" xml:id="III01-6">
+            <l part="F">Et pourquoy sans dessein de luy plaire</l>
+            <l n="666" xml:id="l666">Me ravit-elle un cœur à ses vœux si contraire ?</l>
+            <l n="667" xml:id="l667">Ou pourquoy ce Heros s’est-il laissé <ref target="#charme">charmer*</ref></l>
+            <l n="668" xml:id="l668">D’un <ref target="#objet2">objet*</ref> qui ne peut &amp; ne doit pas l’aimer ?</l>
+            <l n="669" xml:id="l669">Quand il voit aujourd’huy la <ref target="#superbe2">superbe*</ref> Erixene</l>
+            <l n="670" xml:id="l670">Soûpirer, &amp; courir au devant de sa chaîne :</l>
+            <l n="671" xml:id="l671">Isperie est aimée ? ah jalouse fureur !</l>
+            <l n="672" xml:id="l672">De mon cruel <ref target="#destin">destin*</ref> vois-tu toute l’horreur ?</l>
+            <l n="673" xml:id="l673">Il faut pour me vanger d’une ardeur si <ref target="#fatal1">fatale*</ref></l>
+            <l n="674" xml:id="l674">Qu’il en coûte des pleurs, du sang à ma rivale,</l>
+            <l n="675" xml:id="l675">Et mon cœur <ref target="#irriter1">irrité*</ref> sera plus satisfait</l>
+            <l n="676" xml:id="l676">Si je puis la punir du vol qu’elle m’a fait :</l>
+            <l n="677" xml:id="l677">Mais pourquoy la punir d’un crime involontaire ?</l>
+            <l n="678" xml:id="l678">C’est <ref target="#sans-doute">sans doute*</ref> à regret qu’elle a trop sçû luy plaire,</l>
+            <l n="679" xml:id="l679">Pourois-je l’accabler de mon inimitié</l>
+            <l n="680" xml:id="l680">Quand son <ref target="#sort1">sort*</ref> &amp; le mien sont dignes de pitié :</l>
+            <l n="681" xml:id="l681">On l’<ref target="#adorer">adore*</ref>, &amp; sa flâme est ailleurs allumée,</l>
+            <l n="682" xml:id="l682">Et moy, j’aime un ingrat sans espoir d’estre aimée.</l>
+          </sp>
+          <sp who="barce" xml:id="III01-7">
+            <l n="683" xml:id="l683">Que vôtre cœur si <ref target="#fier">fier*</ref> rappelle sa raison,</l>
+            <l n="684" xml:id="l684">Madame, soûtenez l’éclat de vôtre nom.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III02">
+          <pb n="32" xml:id="p32"/>
+          <sp who="lepide" xml:id="III02-1">
+            <l n="685" xml:id="l685">Annibal dans ces lieux à l’instant va se rendre,</l>
+            <l n="686" xml:id="l686">Scipion suit mes pas, Madame, &amp; vient l’attendre,</l>
+            <l n="687" part="I" xml:id="l687">J’ay dû vous avertir…</l>
+          </sp>
+          <sp who="erixene" xml:id="III02-2">
+            <l part="F">Lepide, c’est assez.</l>
+            <l n="688" part="I" xml:id="l688">Barcé, retirons-nous.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III03">
+          <sp who="scipion" xml:id="III03-1">
+            <l part="F">Mes desirs empressez</l>
+            <l n="689" xml:id="l689">Seront bien-tôt remplis, &amp; suivant mon attente</l>
+            <l n="690" xml:id="l690">Je vais voir Annibal, Lepide, en cette tente :</l>
+            <l n="691" xml:id="l691">J’ay pour le recevoir fait ranger mes soldats,</l>
+            <l n="692" xml:id="l692">Sextus va par mon ordre au devant de ses pas,</l>
+            <l n="693" xml:id="l693">Je rends tous les honneurs qu’on doit à ce grand homme,<pb n="33" xml:id="p33"/></l>
+            <l n="694" xml:id="l694">Et je vais soûtenir les interêts de Rome :</l>
+            <l n="695" xml:id="l695">Il faut reprendre icy toute ma fermeté,</l>
+            <l n="696" xml:id="l696">Oublier les transports de mon cœur agité,</l>
+            <l n="697" xml:id="l697">J’en ay rougy cent fois, &amp; j’y fus trop <ref target="#sensible2">sensible*</ref>,</l>
+            <l n="698" xml:id="l698">A l’<ref target="#aspect">aspect*</ref> d’Annibal je dois estre inflexible,</l>
+            <l n="699" xml:id="l699">Et je veux aujourd’huy plein d’une noble ardeur[,]</l>
+            <l n="700" xml:id="l700">Malgré ma passion luy découvrir le <ref target="#coeur">cœur*</ref></l>
+            <l n="701" xml:id="l701">D’un Romain, d’un Consul, de qui la politique</l>
+            <l n="702" xml:id="l702">Ne songe qu’à sa gloire &amp; qu’à la Republique.</l>
+          </sp>
+          <sp who="lepide" xml:id="III03-2">
+            <l n="703" xml:id="l703">Sur vous de l’Univers vous attachez les yeux,</l>
+            <l n="704" xml:id="l704">Seigneur, &amp; vos succés vous font des envieux,</l>
+            <l n="705" xml:id="l705">Qui ne peuvent <ref target="#souffrir1">souffrir*</ref> sans quelque jalousie</l>
+            <l n="706" xml:id="l706">Le cours trop éclatant de vôtre illustre vie :</l>
+            <l n="707" xml:id="l707">Je n’ose qu’à regret en prononcer le nom,</l>
+            <l n="708" xml:id="l708">Mais j’y compte, Seigneur, Fabius &amp; Caton,</l>
+            <l n="709" xml:id="l709">Qui souvent contre vous animez d’un faux <ref target="#zele2">zele*</ref></l>
+            <l n="710" xml:id="l710">Fatiguent le Senat d’une plainte éternelle.</l>
+          </sp>
+          <sp who="scipion" xml:id="III03-3">
+            <l n="711" xml:id="l711">Je le sçais trop, Lepide, &amp; toujours Fabius</l>
+            <l n="712" xml:id="l712">A tenté contre moy des <ref target="#effort1">efforts*</ref> <ref target="#superflu">superflus*</ref>,</l>
+            <l n="713" xml:id="l713">Il vouloit empêcher mon voyage en Affrique,</l>
+            <l n="714" xml:id="l714">Mais c’est l’esprit jaloux de chaque Republique,</l>
+            <l n="715" xml:id="l715">Qui craint ses citoyens dés qu’ils sont trop fameux,</l>
+            <l n="716" xml:id="l716">La <ref target="#vertu1">vertu*</ref> des Heros est un crime chez eux,</l>
+            <l n="717" xml:id="l717">Et lorsqu’on s’agrandit avec trop de courage</l>
+            <l n="718" xml:id="l718">L’éclat des Conquerans leur donne de l’ombrage :</l>
+            <l n="719" xml:id="l719">Caton &amp; Fabius en ont conçû pour moy,</l>
+            <l n="720" xml:id="l720">Et peut-estre en secret jaloux de mon employ,</l>
+            <l n="721" xml:id="l721">A me nuire au Senat l’un &amp; l’autre s’aplique,<pb n="34" xml:id="p34"/></l>
+            <l n="722" xml:id="l722">Mais il faut terminer cette guerre d’Affrique,</l>
+            <l n="723" xml:id="l723">C’est à moy de <ref target="#remplir">remplir*</ref> la gloire de mon <ref target="#sort4">sort*</ref>,</l>
+            <l n="724" xml:id="l724">Je n’écoûteray rien si l’on parle d’accord,</l>
+            <l n="725" xml:id="l725">Il faut que par mon bras Cartage soit punie,</l>
+            <l n="726" xml:id="l726">Il faut vaincre Annibal &amp; la guerre est finie, </l>
+            <l n="727" xml:id="l727">Il vient, que son <ref target="#abord">abord*</ref> inspire de respect,</l>
+            <l n="728" part="I" xml:id="l728">Allez.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III04">
+          <sp who="annibal" xml:id="III04-1">
+            <l part="F">Si j’ay paru surpris à vôtre <ref target="#aspect">aspect*</ref>,</l>
+            <l n="729" xml:id="l729">Et si quelques momens j’ay gardé le silence,</l>
+            <l n="730" xml:id="l730">Seigneur, accusez-en vôtre auguste presence ;</l>
+            <l n="731" xml:id="l731">On ne peut regarder sans admiration</l>
+            <l n="732" xml:id="l732">L’éclat, la majesté du fameux Scipion,</l>
+            <l n="733" xml:id="l733">Et mon <ref target="#etonnement">étonnement*</ref> est qu’en un si jeune âge,</l>
+            <l n="734" xml:id="l734">Vous ayez fait trembler Annibal pour Cartage :</l>
+            <l n="735" xml:id="l735">Ouy, Seigneur, je l’avouë, aprenant vos exploits</l>
+            <l n="736" xml:id="l736">Pour elle j’ay pâly pour la premiere fois ;</l>
+            <l n="737" xml:id="l737">J’ay quitté l’Italie encor toute fumante,</l>
+            <l n="738" xml:id="l738">Et dont pendant seize ans mon nom [fut] l’épouvante ;</l>
+            <l n="739" xml:id="l739">J’avois compté pour peu tant de <ref target="#fier">fiers*</ref> Generaux<pb n="35" xml:id="p35"/></l>
+            <l n="740" xml:id="l740">Qui furent si long-temps mes trop foibles rivaux,</l>
+            <l n="741" xml:id="l741">Et les jours de Trebie, &amp; ceux de Thrasymene,</l>
+            <l n="742" xml:id="l742">Qui me firent raison de la <ref target="#fierte1">fierté*</ref> Romaine[,]</l>
+            <l n="743" xml:id="l743">M’avoient accoûtumé d’en être le vainqueur[;] </l>
+            <l n="744" xml:id="l744">Tant de prosperitez devoient m’enfler le <ref target="#coeur">cœur*</ref>[,]</l>
+            <l n="745" xml:id="l745">Mais, Seigneur, vous venez d’un courage heroïque</l>
+            <l n="746" xml:id="l746">Délivrer l’Italie en attaquant l’Affrique,</l>
+            <l n="747" xml:id="l747">Sans m’avoir combatu je vois avec regret</l>
+            <l n="748" xml:id="l748">Que vôtre bras détruit ce que le mien a fait :</l>
+            <l n="749" xml:id="l749">Mon retour en ces lieux est vôtre grand ouvrage,</l>
+            <l n="750" xml:id="l750">Vous avez sauvé Rome allant droit à Cartage,</l>
+            <l n="751" xml:id="l751">Et pour elle aujourd’huy par de justes projets</l>
+            <l n="752" xml:id="l752">Vous voyez Annibal vous demander la paix.</l>
+          </sp>
+          <sp who="scipion" xml:id="III04-2">
+            <l n="753" xml:id="l753">Je ne m’attendois pas qu’un si grand Capitaine</l>
+            <l n="754" xml:id="l754">Vînt icy desarmé de colere &amp; de haine,</l>
+            <l n="755" xml:id="l755">Qu’Annibal si long-temps couronné de lauriers,</l>
+            <l n="756" xml:id="l756">Le modelle &amp; l’effroy des plus fameux Guerriers,</l>
+            <l n="757" xml:id="l757">Nourry presque toujours au sein de la victoire,</l>
+            <l n="758" xml:id="l758">Pût <ref target="#ralentir">rallentir*</ref> en luy le desir de la gloire,</l>
+            <l n="759" xml:id="l759">Et qu’un Heros illustre après tant de hauts faits</l>
+            <l n="760" xml:id="l760">Pût jamais se resoudre à demander la paix.</l>
+          </sp>
+          <sp who="annibal" xml:id="III04-3">
+            <l n="761" xml:id="l761">Je le veux, je le dois : la <ref target="#fortune3">fortune*</ref> éclatante</l>
+            <l n="762" xml:id="l762">Qui fut assez long-temps pour moy ferme &amp; constante,</l>
+            <l n="763" xml:id="l763">Ne m’a point ébloüy ; ses inégalitez</l>
+            <l n="764" xml:id="l764">M’ont fait voir quelquefois ses infidelitez,</l>
+            <l n="765" xml:id="l765">Et bien qu’elle ait paru s’attacher à mes traces,</l>
+            <l n="766" xml:id="l766">Ses faveurs m’ont instruit bien moins que ses disgraces.<pb n="36" xml:id="p36"/></l>
+            <l n="767" xml:id="l767">Pour vous, Seigneur, je crains qu’un éternel bonheur</l>
+            <l n="768" xml:id="l768">Du dessein de la paix n’éloigne vôtre cœur,</l>
+            <l n="769" xml:id="l769">Jusqu’icy la <ref target="#fortune2">fortune*</ref> à vos vœux fut fidelle,</l>
+            <l n="770" xml:id="l770">Vous n’avez point encor esté trompé par elle,</l>
+            <l n="771" xml:id="l771">Commandant dans un âge où l’on doit obéïr[,]</l>
+            <l n="772" xml:id="l772">Mille &amp; mille succés ont dû vous ébloüir ?</l>
+            <l n="773" xml:id="l773">La <ref target="#vertu2">vertu*</ref>, la valeur vous fut hereditaire,</l>
+            <l n="774" xml:id="l774">Vous vangeâtes d’abord vôtre oncle &amp; vôtre pere,</l>
+            <l n="775" xml:id="l775">(Illustres <ref target="#monument">monumens*</ref> de vôtre pieté)</l>
+            <l n="776" xml:id="l776">Cette même valeur avec rapidité</l>
+            <l n="777" xml:id="l777">Arracha de nos mains, reconquit les Espagnes,</l>
+            <l n="778" xml:id="l778">L’Affrique à vôtre bras a coûté deux campagnes,</l>
+            <l n="779" xml:id="l779">Je viens d’y voir perir deux freres <ref target="#genereux1">genereux*</ref>,</l>
+            <l n="780" xml:id="l780">Qui rehaussent l’éclat de vos exploits heureux :</l>
+            <l n="781" xml:id="l781">Vous avez de Syphax conquis le vaste Empire,</l>
+            <l n="782" xml:id="l782">L’Univers <ref target="#etonner1">étonné*</ref> vous craint &amp; vous admire,</l>
+            <l n="783" xml:id="l783">Mais dans ce haut degré de gloire &amp; de splendeur</l>
+            <l n="784" xml:id="l784">Scipion, redoutez vôtre propre grandeur,</l>
+            <l n="785" xml:id="l785">La <ref target="#fortune2">fortune*</ref> est volage, il ne faut qu’un caprice,</l>
+            <l n="786" xml:id="l786">Un seul jour, un instant nous meine au précipice,</l>
+            <l n="787" xml:id="l787">Le <ref target="#sort1">sort*</ref> de Regulus effraya l’Univers,</l>
+            <l n="788" xml:id="l788">Du plus haut point de gloire il tomba dans nos fers,</l>
+            <l n="789" xml:id="l789">Et n’eût pas éprouvé tant d’affreuses miseres</l>
+            <l n="790" xml:id="l790">S’il eût donné la paix que demandoient nos peres :</l>
+            <l n="791" xml:id="l791">Le <ref target="#sort2">sort*</ref> d’une bataille est toujours incertain,</l>
+            <l n="792" xml:id="l792">Mais celuy de la paix est tout en vôtre main,</l>
+            <l n="793" xml:id="l793">Pour Scipion, pour Rome étant pleine de gloire,</l>
+            <l n="794" xml:id="l794">Elle aura plus d’éclat pour vous qu’une victoire :</l>
+            <l n="795" xml:id="l795">Pour Cartage, j’avouë avec sincerité</l>
+            <l n="796" xml:id="l796">Qu’elle aura moins d’honneur &amp; plus d’utilité :</l>
+            <l n="797" xml:id="l797">Mais j’aime mieux encor pour la cause commune</l>
+            <l n="798" xml:id="l798">Suivre icy la raison que l’aveugle <ref target="#fortune2">fortune*</ref> ;</l>
+            <l n="799" xml:id="l799"><ref target="#souffrir3">Souffrez*</ref> donc que j’en vienne aux termes d’un accord,<pb n="D, 37" xml:id="p37"/></l>
+            <l n="800" xml:id="l800">Dont les conditions regleront nôtre <ref target="#sort1">sort*</ref>,</l>
+            <l n="801" xml:id="l801">Et si nous vous cedons tous nos droits sur l’Espagne,</l>
+            <l n="802" xml:id="l802">Vous quittant la Sicile ainsi que la Sardaigne,</l>
+            <l n="803" xml:id="l803">Si nous abandonnons tant de païs conquis,</l>
+            <l n="804" xml:id="l804">Qui furent de la guerre &amp; la cause, &amp; le prix,</l>
+            <l n="805" xml:id="l805">Si nous nous resserrons en d’étroites limites,</l>
+            <l n="806" xml:id="l806">Qui par l’ordre des Dieux nous vont être prescrites,</l>
+            <l n="807" xml:id="l807">Pourons-nous à la fin obtenir une paix</l>
+            <l n="808" xml:id="l808">Qui va presque nous mettre au rang de vos sujets ?</l>
+            <l n="809" xml:id="l809">Mais je lis dans vos yeux qu’après tant de batailles</l>
+            <l n="810" xml:id="l810">Vous voulez de Cartage attaquer les murailles,</l>
+            <l n="811" xml:id="l811">C’est là vôtre dessein, je le vois, &amp; je viens</l>
+            <l n="812" xml:id="l812">Ménager un accord pour mes concitoyens ;</l>
+            <l n="813" xml:id="l813">Jusqu’à vous en prier je fléchis mon courage,</l>
+            <l n="814" xml:id="l814">Mais j’immole ma gloire au salut de Cartage,</l>
+            <l n="815" xml:id="l815">Et je croy faire plus pour l’eclat de mon nom</l>
+            <l n="816" xml:id="l816">Que si j’avois soûmis &amp; Rome, &amp; Scipion.</l>
+          </sp>
+          <sp who="scipion" xml:id="III04-4">
+            <l n="817" xml:id="l817"><ref target="#souffrir3">Souffrez*</ref> que je démesle avant que de répondre</l>
+            <l n="818" xml:id="l818">De pressants interêts qu’on ne doit pas confondre,</l>
+            <l n="819" xml:id="l819">Et je dois balancer avecque un <ref target="#soin2">soin*</ref> égal</l>
+            <l n="820" xml:id="l820">Le mien, celuy de Rome, &amp; celuy d’Annibal ;</l>
+            <l n="821" xml:id="l821">Pour le vôtre, Seigneur, je <ref target="#souffrir3">souffrirois*</ref> sans peine</l>
+            <l n="822" xml:id="l822">Que Rome par la paix pût éteindre sa haine ;</l>
+            <l n="823" xml:id="l823">Je <ref target="#connaitre1">connois*</ref> vos <ref target="#vertu1">vertus*</ref>, j’admire vos exploits,</l>
+            <l n="824" xml:id="l824">Mais pour ma gloire il faut vous combattre une fois :</l>
+            <l n="825" xml:id="l825">Si Fabius acquit une immortelle gloire</l>
+            <l n="826" xml:id="l826">D’éviter Annibal, &amp; de fuïr la victoire,</l>
+            <l n="827" xml:id="l827">Si Rome l’aplaudit de n’estre pas vaincu,</l>
+            <l n="828" xml:id="l828">En triomphant de vous quelle gloire eut-il eu ?</l>
+            <l n="829" xml:id="l829">Je n’ose m’en <ref target="#flatter1">flater*</ref>, je serois temeraire,<pb n="38" xml:id="p38"/></l>
+            <l n="830" xml:id="l830">Mais du moins, il est beau de tenter de le faire,</l>
+            <l n="831" xml:id="l831">D’essayer de vous mettre au nombre des vaincus,</l>
+            <l n="832" xml:id="l832">Et d’aller aujourd’huy plus loin que Fabius.</l>
+          </sp>
+          <sp who="annibal" xml:id="III04-5">
+            <l n="833" xml:id="l833">Peut-être ferez-vous un <ref target="#effort3">effort*</ref> inutile ?</l>
+            <l n="834" xml:id="l834">Scipion, le chemin en sera difficile,</l>
+            <l n="835" xml:id="l835">Je le rendray <ref target="#penible">penible*</ref>, &amp; <ref target="#sans-doute">sans doute*</ref> <ref target="#fatal2">fatal*</ref></l>
+            <l n="836" xml:id="l836">A quiconque voudra triompher d’Annibal.</l>
+          </sp>
+          <sp who="scipion" xml:id="III04-6">
+            <l n="837" xml:id="l837">Et c’est là ce qui doit en rehausser la gloire.</l>
+          </sp>
+          <sp who="annibal" xml:id="III04-7">
+            <l n="838" xml:id="l838">J’ay bien prévû, Seigneur, qu’ardant à la victoire</l>
+            <l n="839" xml:id="l839">Vous pouriez dédaigner celle de Fabius,</l>
+            <l n="840" xml:id="l840">Mais regardez le <ref target="#sort1">sort*</ref> du <ref target="#fier">fier*</ref> Minutius ;</l>
+            <l n="841" xml:id="l841">Ce Chef impetueux par un esprit contraire,</l>
+            <l n="842" xml:id="l842">Emporté d’une ardeur boüillante &amp; temeraire</l>
+            <l n="843" xml:id="l843">Accusoit Fabius de crainte &amp; de lenteur,</l>
+            <l n="844" xml:id="l844">J’eus bien-tôt <ref target="#ralentir">rallenty*</ref> son inutile ardeur,</l>
+            <l n="845" xml:id="l845">Quand le prudent Consul m’évitant par sagesse,</l>
+            <l n="846" xml:id="l846">Avec cette lenteur fatigua mon adresse,</l>
+            <l n="847" xml:id="l847">Et toujours devant moy ce grand homme ployant,</l>
+            <l n="848" xml:id="l848">Rétablit sa patrie &amp; sçût vaincre en fuyant.</l>
+          </sp>
+          <sp who="scipion" xml:id="III04-8">
+            <l n="849" xml:id="l849">Je m’accommode peu de pareille victoire,</l>
+            <l n="850" xml:id="l850">Et laisse à Fabius sa lenteur &amp; sa gloire,</l>
+            <l n="851" xml:id="l851">Rome qui veut de moy de plus puissants <ref target="#effort3">efforts*</ref>,</l>
+            <l n="852" xml:id="l852">Est dans un autre état qu’elle n’étoit alors ;</l>
+            <l n="853" xml:id="l853">Mais Cartage, Seigneur, &amp; perfide, &amp; cruelle</l>
+            <l n="854" xml:id="l854">Est indigne après tout que vous parliez pour elle ;</l>
+            <l n="855" xml:id="l855">Nos Alliez [par] elle indignement traitez[,]</l>
+            <l n="856" xml:id="l856">Croyant estre à l’abry sur la <ref target="#foi3">foy*</ref> des traitez,</l>
+            <l n="857" xml:id="l857">Ont senty les premiers toute sa perfidie,</l>
+            <l n="858" xml:id="l858">Vos combats trop heureux l’ont depuis enhardie,</l>
+            <l n="859" xml:id="l859">Les Mammertins vaincus, les Sagontins défaits,<pb n="39" xml:id="p39"/></l>
+            <l n="860" xml:id="l860">L’Italie embrasée après tant de succés,</l>
+            <l n="861" xml:id="l861">Nos Consuls terrassez, Rome presque assiegée,</l>
+            <l n="862" xml:id="l862">Tout cela veut que Rome à la fin soit vangée.</l>
+          </sp>
+          <sp who="annibal" xml:id="III04-9">
+            <l n="863" xml:id="l863">Vous ferez plus pour elle en accordant la paix,</l>
+            <l n="864" xml:id="l864">La victoire toujours ne suit pas nos souhaits ;</l>
+            <l n="865" xml:id="l865">De plus, considerez qu’en l’état où nous sommes[,]</l>
+            <l n="866" xml:id="l866">Je me vois à la tête encor de cent mille hommes,</l>
+            <l n="867" xml:id="l867">Que je fais avancer &amp; camper à vos yeux,</l>
+            <l n="868" xml:id="l868">Nous combatrons, le reste est en la main des Dieux :</l>
+            <l n="869" xml:id="l869">Elle sçaura regler vôtre <ref target="#sort1">sort*</ref> &amp; le nôtre,</l>
+            <l n="870" xml:id="l870">Mais songez que la paix est encor en la vôtre.</l>
+            <l n="871" xml:id="l871">J’ay négligé, Seigneur, de vous parler d’abord</l>
+            <l n="872" xml:id="l872">D’un lien qui pouroit cimenter un accord ;</l>
+            <l n="873" xml:id="l873">Jusqu’icy vous n’avez aucun nœud qui vous lie :</l>
+            <l n="874" xml:id="l874">Si ma Niéce, Seigneur, si l’heureuse Isperie</l>
+            <l n="875" xml:id="l875">A ce suprême honneur meritoit d’aspirer…</l>
+            <l n="876" xml:id="l876">Mais le cœur d’un Romain ne sçait pas soûpirer,</l>
+            <l n="877" xml:id="l877">Et le vôtre trop <ref target="#fier">fier*</ref> &amp; trop inexorable…</l>
+          </sp>
+          <sp who="scipion" xml:id="III04-10">
+            <l n="878" xml:id="l878">Je respecte Isperie, elle est toute <ref target="#adorable">adorable*</ref>,</l>
+            <l n="879" xml:id="l879">Elle pouroit fléchir le plus <ref target="#superbe2">superbe*</ref> cœur,</l>
+            <l n="880" xml:id="l880">Mais pour la meriter il faut être vainqueur,</l>
+            <l n="881" xml:id="l881">Et ce seroit pour moy le comble de la gloire,</l>
+            <l n="882" xml:id="l882">Que l’hymen d’Isperie après une victoire,</l>
+            <l n="883" xml:id="l883">Je ne m’en défens point[,] j’<ref target="#adorer">adore*</ref> ses <ref target="#vertu3">vertus*</ref>, </l>
+            <l n="884" xml:id="l884">Cependant vous l’avez promise à Lucejus,</l>
+            <l n="885" part="I" xml:id="l885">Et vôtre <ref target="#foi1">foy*</ref> Seigneur…</l>
+          </sp>
+          <sp who="annibal" xml:id="III04-11">
+            <l part="F">Cette promesse est vaine,</l>
+            <l n="886" xml:id="l886">Ce lien est rompu par sa nouvelle chaîne,</l>
+            <l n="887" xml:id="l887">Elle est vôtre captive, &amp; ne peut être à luy,<pb n="40" xml:id="p40"/></l>
+            <l n="888" xml:id="l888">Et pouroit être à vous, Seigneur, dés aujourd’huy.</l>
+          </sp>
+          <sp who="scipion" xml:id="III04-12">
+            <l n="889" part="I" xml:id="l889">Dieux !</l>
+          </sp>
+          <sp who="annibal" xml:id="III04-13">
+            <l part="F">Heureux ! si mon sang avoit cet avantage</l>
+            <l n="890" xml:id="l890">De cimenter la paix que demande Cartage,</l>
+            <l n="891" xml:id="l891">Je réponds d’Isperie, elle y doit consentir,</l>
+            <l n="892" xml:id="l892">J’attens vôtre réponse avant que de partir,</l>
+            <l n="893" xml:id="l893">En l’attendant <ref target="#souffrir3">souffrez*</ref> que je parle à ma Niéce.</l>
+          </sp>
+          <sp who="scipion" xml:id="III04-14">
+            <l n="894" part="I" xml:id="l894">Seigneur, vous le pouvez.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III05">
+          <sp who="scipion" xml:id="III05-1">
+            <l part="F"><ref target="#connaitre1">Connoît*</ref>-il ma tendresse ?</l>
+            <l n="895" xml:id="l895">Ah Ciel ! que m’a-t-il dit ! il <ref target="#prevenir">prévient*</ref> mon ardeur,</l>
+            <l n="896" xml:id="l896">A-t-il lû dans mes yeux le secret de mon cœur ?</l>
+            <l n="897" xml:id="l897">Lorsque je veux éteindre une servile flâme,</l>
+            <l n="898" xml:id="l898">Il vient la rallumer dans le fond de mon ame ?</l>
+            <l n="899" xml:id="l899">Il me donne Isperie ? ah ! quel saisissement</l>
+            <l n="900" xml:id="l900">Vient de fraper mon cœur dans ce <ref target="#fatal1">fatal*</ref> moment ?</l>
+            <l n="901" xml:id="l901">Ayant mal dans mon Camp déguisé ma tendresse,</l>
+            <l n="902" xml:id="l902">Il est par Aurilcar instruit de ma foiblesse,</l>
+            <l n="903" xml:id="l903">Et ce grand politique autant que grand guerrier</l>
+            <l n="904" xml:id="l904">M’a <ref target="#sans-doute">sans doute*</ref> gardé ce trait pour le dernier ;</l>
+            <l n="905" xml:id="l905">Mais pourquoy refuser l’accord qu’il me demande ?<pb n="41" xml:id="p41"/></l>
+            <l n="906" xml:id="l906">Qui s’opose à mes vœux ? qu’est-ce que j’aprehende ?</l>
+            <l n="907" xml:id="l907">Quoy pour Rome la paix est-elle à dédaigner ?</l>
+            <l n="908" xml:id="l908">Que de pleurs [,] que de sang nous pouvons épargner [!]</l>
+            <l n="909" xml:id="l909">Le Senat m’a remis une pleine puissance</l>
+            <l n="910" xml:id="l910">De faire les Traitez de paix &amp; d’alliance,</l>
+            <l n="911" xml:id="l911">Et ménageant sa gloire avec ses interêts,</l>
+            <l n="912" xml:id="l912">Rome sçaura souscrire à tout ce que je fais[.]</l>
+            <l n="913" xml:id="l913">A Cartage d’ailleurs cette paix est honteuse,</l>
+            <l n="914" xml:id="l914">A Rome elle ne peut être que glorieuse,</l>
+            <l n="915" xml:id="l915">Annibal a fléchy, son orgueil a plié,</l>
+            <l n="916" xml:id="l916">Et par là n’est-il pas assez humilié ?</l>
+            <l n="917" xml:id="l917">Que faire cependant en ce desordre extrême ?</l>
+            <l n="918" xml:id="l918">Dois-je accorder la paix &amp; m’oublier moy-même ?</l>
+            <l n="919" xml:id="l919">Dieux ! soûtenez ma gloire, &amp; versez dans mon sein</l>
+            <l n="920" xml:id="l920">Un conseil salutaire à l’<ref target="#empire">Empire*</ref> Romain.</l>
+            <p rend="center">Fin du troisiéme Acte.</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act" xml:id="IV">
+        <pb n="42" xml:id="p42"/>
+        <div type="scene" xml:id="IV01">
+          <sp who="ermilie" xml:id="IV01-1">
+            <l n="921" xml:id="l921">Ouy, Madame, Annibal par l’éclat de vos <ref target="#charme">charmes*</ref></l>
+            <l n="922" xml:id="l922">Du fameux Scipion a suspendu les armes ;</l>
+            <l n="923" xml:id="l923">On dit qu’il a d’abord rejetté <ref target="#fierement">fierement*</ref></l>
+            <l n="924" xml:id="l924">Jusqu’au moindre projet d’un accomodement,</l>
+            <l n="925" xml:id="l925">Mais qu’à la fin quittant son <ref target="#superbe2">superbe*</ref> langage,</l>
+            <l n="926" xml:id="l926">De Rome il a <ref target="#connaitre1">connu*</ref> la gloire, l’avantage ;</l>
+            <l n="927" xml:id="l927">Qu’il a vû que la paix qu’il tenoit en sa main</l>
+            <l n="928" xml:id="l928">Etoit avantageuse à l’<ref target="#empire">Empire*</ref> Romain,</l>
+            <l n="929" xml:id="l929">Qu’il pouvoit accorder l’amour, la politique,</l>
+            <l n="930" xml:id="l930">Et suivant son panchant servir sa Republique ;</l>
+            <l n="931" xml:id="l931">Vos yeux ont captivé cet illustre Vainqueur. </l>
+          </sp>
+          <sp who="isperie" xml:id="IV01-2">
+            <l n="932" xml:id="l932">Annibal veut qu’il soit le maître de mon cœur[.]</l>
+            <l n="933" xml:id="l933">Justes Dieux ! de la paix je seray la victime,</l>
+            <l n="934" xml:id="l934">Ou si je la refuse il va m’en faire un crime,</l>
+            <l n="935" xml:id="l935">Il va parler en maître, Aurilcar a voulu</l>
+            <l n="936" xml:id="l936">Déjà me preparer à cet ordre absolu ;</l>
+            <l n="937" xml:id="l937">Je ne le vois que trop, sa <ref target="#hautain3">fiere*</ref> politique<pb n="43" xml:id="p43"/></l>
+            <l n="938" xml:id="l938">Veut me sacrifier au repos de l’Affrique ;</l>
+            <l n="939" xml:id="l939">Que fera Lucejus helas ! contre Annibal,</l>
+            <l n="940" xml:id="l940">Lorsque dans Scipion il rencontre un rival,</l>
+            <l n="941" xml:id="l941">Ce Prince infortuné, dont j’expose la vie,</l>
+            <l n="942" xml:id="l942">Il va venir, ah Dieux, que luy dire Ermilie ?</l>
+            <l n="943" xml:id="l943">Mais toy-même, va, cours au devant de ses pas,</l>
+            <l n="944" xml:id="l944">Va dire à Lucejus qu’il ne paroisse pas,</l>
+            <l n="945" xml:id="l945">Qu’il parte de ce Camp, qu’il m’évite, qu’il fuye</l>
+            <l n="946" xml:id="l946">Les regards d’Annibal &amp; les yeux d’Isperie,</l>
+            <l n="947" xml:id="l947">Que c’est moy qui l’ordonne, &amp; qu’enfin je <ref target="#pretendre1">prétens*</ref></l>
+            <l n="948" xml:id="l948">Qu’il m’obéïsse… Ah Ciel ! il vient, il n’est plus temps.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV02">
+          <sp who="lucejus" xml:id="IV02-1">
+            <l n="949" xml:id="l949">He bien, aprenez-moy quelle est ma destinée ?</l>
+            <l n="950" xml:id="l950">Madame, est-elle heureuse ? est-elle infortunée ?</l>
+            <l n="951" xml:id="l951">Que j’ay souffert, grands Dieux ! attendant ce moment[,]</l>
+            <l n="952" xml:id="l952">Mais qu’a-t-on resolu ? quel accommodement ?</l>
+            <l n="953" part="I" xml:id="l953">Quel accord Annibal a-t-il fait ?…</l>
+          </sp>
+          <sp who="isperie" xml:id="IV02-2">
+            <l part="F">Ciel ! je tremble[!]</l>
+            <l n="954" xml:id="l954">Partez, Seigneur, je crains qu’il ne nous voye ensemble,</l>
+            <l n="955" xml:id="l955">Sçavez-vous quels perils vous courez en ces lieux [?]<pb n="44" xml:id="p44"/></l>
+            <l n="956" xml:id="l956">Pour la derniere fois recevez mes adieux.</l>
+          </sp>
+          <sp who="lucejus" xml:id="IV02-3">
+            <l n="957" xml:id="l957">Je ne partiray point, &amp; de grace, Madame</l>
+            <l n="958" xml:id="l958">Parlez, expliquez-moy le trouble de vôtre ame.</l>
+          </sp>
+          <sp who="isperie" xml:id="IV02-4">
+            <l n="959" xml:id="l959">On veut que de la paix je sois le nœud <ref target="#fatal1">fatal*</ref>,</l>
+            <l n="960" part="I" xml:id="l960">C’est vous en dire assez.</l>
+          </sp>
+          <sp who="lucejus" xml:id="IV02-5">
+            <l part="F">Hé quoy donc Annibal…</l>
+          </sp>
+          <sp who="isperie" xml:id="IV02-6">
+            <l n="961" part="I" xml:id="l961">Me donne à Scipion.</l>
+          </sp>
+          <sp who="lucejus" xml:id="IV02-7">
+            <l part="F">Barbare politique ?</l>
+            <l n="962" xml:id="l962">Malgré tant de sermens voilà la <ref target="#foi1">foy*</ref> punique !</l>
+            <l n="963" xml:id="l963">Je m’en étois douté ; quoy ? malgré vôtre <ref target="#foi2">foy*</ref>,</l>
+            <l n="964" xml:id="l964">L’<ref target="#aveu">aveu*</ref> d’un pere helas ! qui vous donnoit à moy,</l>
+            <l n="965" xml:id="l965">Le crüel vous engage en une autre alliance,</l>
+            <l n="966" xml:id="l966">Je veux le voir, je veux courir à la vangeance,</l>
+            <l n="967" part="I" xml:id="l967">Laissez-moy luy parler &amp; j’y vais…</l>
+          </sp>
+          <sp who="isperie" xml:id="IV02-8">
+            <l part="F">Arrestez,</l>
+            <l n="968" xml:id="l968">Aprenez les malheurs que vous vous aprestez ;</l>
+            <l n="969" xml:id="l969">Fuyez, Seigneur, fuyez de ce Camp redoutable,</l>
+            <l n="970" xml:id="l970">Où vous venez chercher un <ref target="#destin">destin*</ref> <ref target="#deplorable">déplorable*</ref>,</l>
+            <l n="971" xml:id="l971">Vous n’y pouvez trouver que la mort ou les fers.</l>
+          </sp>
+          <sp who="lucejus" xml:id="IV02-9">
+            <l n="972" xml:id="l972">Et qu’ai-je à ménager encor si je vous perds [?]</l>
+            <l n="973" xml:id="l973">Annibal, Scipion, je cherche l’un, ou l’autre,</l>
+            <l n="974" xml:id="l974">Je veux percer un cœur qui m’arrache le vôtre ;</l>
+            <l n="975" xml:id="l975">Encor pour Scipion, s’il vous aime aujourd’huy,</l>
+            <l n="976" xml:id="l976">Madame, en vous voyant qui feroit moins que luy,</l>
+            <l n="977" xml:id="l977">Je dois luy pardonner une tendresse extrême,</l>
+            <l n="978" xml:id="l978">Il n’a pû l’éviter, j’en juge par moy-même,</l>
+            <l n="979" xml:id="l979">Vos yeux me répondoient qu’il seroit mon rival,<pb n="45" xml:id="p45"/></l>
+            <l n="980" xml:id="l980">Mais je dois me vanger du perfide Annibal,</l>
+            <l n="981" part="I" xml:id="l981">C’est sur luy…</l>
+          </sp>
+          <sp who="isperie" xml:id="IV02-10">
+            <l part="F">Moderez cette vaine colere,</l>
+            <l n="982" xml:id="l982">Attendez tout de moy quand tout vous est <ref target="#contraire">contraire*</ref> :</l>
+            <l n="983" xml:id="l983">Je ne rompray jamais le serment solemnel</l>
+            <l n="984" xml:id="l984">Que m’impose un lien qui doit être éternel,</l>
+            <l n="985" xml:id="l985">Ny Scipion, ny Rome, &amp; toute sa puissance</l>
+            <l n="986" xml:id="l986">N’obtiendront point de moy de lâche obéïssance,</l>
+            <l n="987" xml:id="l987">Je réponds de mon cœur, répondez-moy de vous,</l>
+            <l n="988" xml:id="l988">Mais de grace évitez Annibal en couroux, </l>
+            <l n="989" xml:id="l989">Partez, car je fremis, &amp; tout mon sang se glace</l>
+            <l n="990" xml:id="l990">Dans un si grand peril de vous voir tant d’audace ;</l>
+            <l n="991" xml:id="l991">Si vous m’aimez, Seigneur, partez au nom des Dieux,</l>
+            <l n="992" xml:id="l992">Sauvez-vous au plûtôt de ces <ref target="#funeste1">funestes*</ref> lieux,</l>
+            <l n="993" xml:id="l993">Mais n’entreprenez rien pour la <ref target="#triste1">triste*</ref> Isperie, </l>
+            <l n="994" xml:id="l994">Pour le prix de sa <ref target="#foi2">foy*</ref> conservez vôtre vie,</l>
+            <l n="995" xml:id="l995">Peut-être Scipion quoyque vôtre rival,</l>
+            <l n="996" xml:id="l996">Sera bien moins pour vous à craindre qu’Annibal,</l>
+            <l n="997" xml:id="l997">Il va venir, Seigneur, évitez sa colere.</l>
+          </sp>
+          <sp who="lucejus" xml:id="IV02-11">
+            <l n="998" xml:id="l998">Et je demeurerois tranquille pour vous plaire ?</l>
+            <l n="999" xml:id="l999">J’attaqueray ce Camp, Madame, avant la nuit,</l>
+            <l n="1000" xml:id="l1000">Quand une mort certaine en deviendroit le fruit ;</l>
+            <l n="1001" xml:id="l1001">Permettez seulement si les Dieux me secondent,</l>
+            <l n="1002" xml:id="l1002">Si d’un heureux <ref target="#succes">succés*</ref> à mes vœux ils répondent,</l>
+            <l n="1003" xml:id="l1003">Si je puis penetrer jusqu’à vous dans ces lieux,</l>
+            <l n="1004" xml:id="l1004">Que mon bras vous arrache à ce Camp odieux,</l>
+            <l n="1005" xml:id="l1005">Madame, ou si le <ref target="#sort2">sort*</ref> trahit mon entreprise,</l>
+            <l n="1006" xml:id="l1006">Conservez-moy la <ref target="#foi2">foy*</ref> que vous m’avez promise,</l>
+            <l n="1007" xml:id="l1007">Honorez de vos pleurs un Amant, un époux,<pb n="46" xml:id="p46"/></l>
+            <l n="1008" xml:id="l1008">Et si je meurs, du moins, songez que c’est pour vous ;</l>
+            <l n="1009" part="I" xml:id="l1009">Adieu, Madame.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV03">
+          <sp who="isperie" xml:id="IV03-1">
+            <l part="F">Helas ! que va-t-il entreprendre ?</l>
+            <l n="1010" xml:id="l1010">Il va perir, c’est tout ce que j’en dois attendre ?</l>
+            <l n="1011" xml:id="l1011">Détournez ce malheur, guidez ses pas[,] grands Dieux !</l>
+            <l n="1012" xml:id="l1012">Donnez à cet Amant un destin plus heureux,</l>
+            <l n="1013" xml:id="l1013">Qu’il regagne son Camp, &amp; qu’enfin il revienne</l>
+            <l n="1014" xml:id="l1014">Soûtenir dignement &amp; sa gloire &amp; la mienne ?</l>
+            <l n="1015" part="I" xml:id="l1015">Dieux ! Annibal paroît…</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV04">
+          <pb n="47" xml:id="p47"/>
+          <sp who="isperie" xml:id="IV04-1">
+            <l part="F">J’embrasse vos genoux,</l>
+            <l n="1016" part="I" xml:id="l1016">Seigneur, que vos bontez…</l>
+          </sp>
+          <sp who="annibal" xml:id="IV04-2">
+            <l part="F">Madame, levez-vous.</l>
+          </sp>
+          <sp who="isperie" xml:id="IV04-3">
+            <l n="1017" xml:id="l1017">Seigneur, si vous usez par un ordre severe</l>
+            <l n="1018" xml:id="l1018">Du pouvoir que sur moy vous a donné mon pere,</l>
+            <l n="1019" xml:id="l1019">Qu’Hyerbal en mourant remit à vôtre <ref target="#foi1">foy*</ref>,</l>
+            <l n="1020" xml:id="l1020">Si vous n’avez pitié du trouble où je me voy,</l>
+            <l n="1021" xml:id="l1021">Et si vous violez une sainte promesse,</l>
+            <l n="1022" xml:id="l1022">Sur qui mon cœur soûmis a reglé sa tendresse…</l>
+          </sp>
+          <sp who="annibal" xml:id="IV04-4">
+            <l n="1023" xml:id="l1023">Non, ne m’oposez point de frivolles ardeurs,</l>
+            <l n="1024" xml:id="l1024">L’amour ne regle pas le destin des grands cœurs,</l>
+            <l n="1025" xml:id="l1025">Il le faut immoler au bien de la patrie,</l>
+            <l n="1026" xml:id="l1026">Et songez que Cartage aujourd’huy vous en prie.</l>
+          </sp>
+          <sp who="isperie" xml:id="IV04-5">
+            <l n="1027" xml:id="l1027">Et pourquoy cette paix, Seigneur, n’avez-vous pas</l>
+            <l n="1028" xml:id="l1028">Cent mille hommes encor dont les <ref target="#coeur">cœurs*</ref> &amp; les bras…</l>
+          </sp>
+          <sp who="annibal" xml:id="IV04-6">
+            <l n="1029" xml:id="l1029">Oüy, je me vois encore une nombreuse Armée,</l>
+            <l n="1030" xml:id="l1030">Mais Dieux ! elle n’est plus à vaincre acoûtumée,</l>
+            <l n="1031" xml:id="l1031">Madame, je n’ay plus d’intrepides soldats,<pb n="48" xml:id="p48"/></l>
+            <l n="1032" xml:id="l1032">Leurs <ref target="#coeur">cœurs*</ref> sont affoiblis aussi bien que leurs bras,</l>
+            <l n="1033" xml:id="l1033"><ref target="#fatal2">Fatalles*</ref> voluptez, délices de Capoüe !</l>
+            <l n="1034" xml:id="l1034">Vous nous coûtâtes cher, il est vray, je l’avoüe,</l>
+            <l n="1035" xml:id="l1035">Nous avions triomphé dans les adversitez,</l>
+            <l n="1036" xml:id="l1036">Et nous fûmes vaincus par les prosperitez,</l>
+            <l n="1037" xml:id="l1037">Et ce repos des miens <ref target="#mollir">molissant*</ref> le courage,</l>
+            <l n="1038" xml:id="l1038">Capoüe a sauvé Rome &amp; menace Cartage.</l>
+          </sp>
+          <sp who="isperie" xml:id="IV04-7">
+            <l n="1039" xml:id="l1039">Si le <ref target="#coeur">cœur*</ref> des soldats au vôtre est inégal,</l>
+            <l n="1040" xml:id="l1040">Ils retrouvent en vous le même General ;</l>
+            <l n="1041" xml:id="l1041">Seigneur, vôtre valeur &amp; vôtre renommée…</l>
+          </sp>
+          <sp who="annibal" xml:id="IV04-8">
+            <l n="1042" xml:id="l1042">Qu’on me fasse trouver aussi la même Armée ?</l>
+            <l n="1043" xml:id="l1043">Annibal répondant de semblables <ref target="#succes">succés*</ref></l>
+            <l n="1044" xml:id="l1044">Ne seroit pas reduit à demander la paix ;</l>
+            <l n="1045" xml:id="l1045">Mais il me reste peu de troupes aguerries,</l>
+            <l n="1046" xml:id="l1046">Dans le sein du repos celles-cy sont nouries,</l>
+            <l n="1047" xml:id="l1047">J’ay Scipion en tête avec trop de <ref target="#vertu1">vertus*</ref>,</l>
+            <l n="1048" xml:id="l1048">Et je n’ay plus à faire à des Flaminius.</l>
+            <l n="1049" xml:id="l1049">Madame, à cet aveu j’ay bien voulu descendre,</l>
+            <l n="1050" xml:id="l1050">Pour marquer l’interest que vous y devez prendre ;</l>
+            <l n="1051" xml:id="l1051">Il faut donc en ce jour épouser ce Heros,</l>
+            <l n="1052" xml:id="l1052">Pour rendre aux Africains la gloire &amp; le repos, </l>
+            <l n="1053" xml:id="l1053">Il faut que de la paix vous soyez un seur gage,</l>
+            <l n="1054" xml:id="l1054">Vôtre hymen va sauver &amp; l’Afrique &amp; Cartage,</l>
+            <l n="1055" xml:id="l1055">Quel triomphe [pour] vous en vous laissant fléchir ?</l>
+            <l n="1056" xml:id="l1056">Ce n’est plus moy, c’est vous qui pouvez l’affranchir.</l>
+          </sp>
+          <sp who="isperie" xml:id="IV04-9">
+            <l n="1057" part="I" xml:id="l1057">Moy, Seigneur ?</l>
+          </sp>
+          <sp who="annibal" xml:id="IV04-10">
+            <l part="F">N’ai-je pas sacrifié ma gloire ?</l>
+            <l n="1058" xml:id="l1058">J’ay demandé la paix, ah Ciel ! qui l’eût pu croire ?</l>
+            <l n="1059" xml:id="l1059">Madame, &amp; cet <ref target="#effort2">effort*</ref> a cent fois plus coûté<pb n="E, 49" xml:id="p49"/></l>
+            <l n="1060" xml:id="l1060">A l’orgueil d’Annibal, à toute sa <ref target="#fierte1">fierté*</ref>,</l>
+            <l n="1061" xml:id="l1061">Qu’il n’en poura jamais coûter à vôtre flâme,</l>
+            <l n="1062" xml:id="l1062">J’en ay donné l’exemple, imitez-moy, Madame,</l>
+            <l n="1063" xml:id="l1063">Il faut sacrifier vos feux à vôtre tour.</l>
+          </sp>
+          <sp who="isperie" xml:id="IV04-11">
+            <l n="1064" xml:id="l1064">J’immoleray ma vie &amp; non pas mon amour,</l>
+            <l n="1065" xml:id="l1065">A la perdre, Seigneur, me voilà toute prête,</l>
+            <l n="1066" xml:id="l1066">Ordonnez de mon <ref target="#sort1">sort*</ref>, disposez de ma tête,</l>
+            <l n="1067" xml:id="l1067">Je l’immole à Cartage, &amp; ne puis rien de plus ;</l>
+            <l n="1068" xml:id="l1068">Mais je conserveray mon cœur à Lucejus.</l>
+          </sp>
+          <sp who="annibal" xml:id="IV04-12">
+            <l n="1069" xml:id="l1069">A Lucejus ? ah Ciel ! quand Scipion vous aime,</l>
+            <l n="1070" xml:id="l1070">Ce Heros revêtu d’une gloire suprême,</l>
+            <l n="1071" xml:id="l1071">Se peut-il que le Chef des Celtiberiens</l>
+            <l n="1072" xml:id="l1072">Ose luy disputer l’honneur de vos liens ?</l>
+            <l n="1073" xml:id="l1073">Et lorsque vous voyez dans vos fers ce grand homme</l>
+            <l n="1074" xml:id="l1074">Qui va mettre à vos pieds la puissance de Rome,</l>
+            <l n="1075" xml:id="l1075">En vous faisant un <ref target="#sort4">sort*</ref> qui soit digne de vous,</l>
+            <l n="1076" xml:id="l1076">Songez-vous que l’honneur en rejaillit sur nous :</l>
+            <l n="1077" xml:id="l1077">Ah ma Niéce ! pour vous croyez-en ma tendresse,</l>
+            <l n="1078" xml:id="l1078">Icy pour vôtre gloire Annibal s’<ref target="#interesser">interesse*</ref>,</l>
+            <l n="1079" xml:id="l1079">Secondez aujourd’huy de si justes desseins,</l>
+            <l n="1080" xml:id="l1080">Et prenez pour époux le plus grand des Romains.</l>
+          </sp>
+          <sp who="isperie" xml:id="IV04-13">
+            <l n="1081" xml:id="l1081">Me faisant souvenir que je suis vôtre Niéce[,]</l>
+            <l n="1082" xml:id="l1082">A soûtenir ce nom ma gloire s’<ref target="#interesser">interesse*</ref>,</l>
+            <l n="1083" xml:id="l1083">Je suis Cartaginoise, &amp; fille d’Hyerbal,</l>
+            <l n="1084" xml:id="l1084">Et pour dire encor plus la Niéce d’Annibal ;</l>
+            <l n="1085" xml:id="l1085">Seigneur, j’ose ajoûter que je suis Africaine,</l>
+            <l n="1086" xml:id="l1086">Et que mon cœur dédaigne enfin d’estre Romaine.</l>
+          </sp>
+          <sp who="annibal" xml:id="IV04-14">
+            <l n="1087" xml:id="l1087">Je voy que c’est en vain employer la douceur</l>
+            <l n="1088" xml:id="l1088">Pour fléchir ou pour vaincre un si <ref target="#superbe1">superbe*</ref> cœur ;</l>
+            <l n="1089" xml:id="l1089">Mais il faut étouffer cette vaine tendresse,<pb n="50" xml:id="p50"/></l>
+            <l n="1090" xml:id="l1090">Je ne dis plus qu’un mot, Madame, &amp; je vous laisse.</l>
+            <l n="1091" xml:id="l1091">Tournez vers Scipion vôtre cœur &amp; vos vœux,</l>
+            <l n="1092" xml:id="l1092">Vous l’allez voir ; sur tout songez que je le veux.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV05">
+          <sp who="isperie" xml:id="IV05-1">
+            <l n="1093" xml:id="l1093">Cruel ? à Lucejus mon cœur sera fidelle,</l>
+            <l n="1094" xml:id="l1094">Et je seray toujours à cet ordre rebelle,</l>
+            <l n="1095" xml:id="l1095">Il faut dans ces momens par un noble couroux,</l>
+            <l n="1096" xml:id="l1096">Montrer que nôtre cœur ne dépend que de nous,</l>
+            <l n="1097" xml:id="l1097">J’aperçois Scipion, armons-nous de courage,</l>
+            <l n="1098" xml:id="l1098">Et soûtenons le nom, la gloire de Cartage.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV06">
+          <sp who="scipion" xml:id="IV06-1">
+            <l n="1099" xml:id="l1099">On veut que vous soyez le gage d’une paix,</l>
+            <l n="1100" xml:id="l1100">Qui <ref target="#sans-doute">sans doute*</ref> n’est pas conforme à vos souhaits ;</l>
+            <l n="1101" xml:id="l1101">Mais, Madame, aujourd’huy je croirois faire un crime</l>
+            <l n="1102" xml:id="l1102">De <ref target="#souffrir2">souffrir*</ref> qu’Annibal vous en fist la victime ;</l>
+            <l n="1103" xml:id="l1103">J’honore vos <ref target="#vertu3">vertus*</ref>, j’<ref target="#adorer">adore*</ref> vos <ref target="#apas">apas*</ref>,</l>
+            <l n="1104" xml:id="l1104">Mais sans contraindre un cœur s’il ne se donne pas,</l>
+            <l n="1105" xml:id="l1105">Loin d’en être tyran j’en abhorre le titre,</l>
+            <l n="1106" xml:id="l1106">De vôtre <ref target="#sort1">sort*</ref>, du mien, je vous laisse l’arbitre,</l>
+            <l n="1107" xml:id="l1107">Vous avez ou la paix, ou la guerre en vos mains,</l>
+            <l n="1108" xml:id="l1108">Le destin de l’Afrique &amp; celuy des Romains.</l>
+          </sp>
+          <sp who="isperie" xml:id="IV06-2">
+            <pb n="51" xml:id="p51"/>
+            <l n="1109" xml:id="l1109">Que dites-vous, Seigneur ? ah Ciel ! pourois-je croire</l>
+            <l n="1110" xml:id="l1110">Qu’un cœur tel que le mien meritât tant de gloire,</l>
+            <l n="1111" xml:id="l1111">Que le <ref target="#sort1">sort*</ref> de l’Afrique &amp; celuy des Romains</l>
+            <l n="1112" xml:id="l1112">Fust par vous aujourd’huy remis entre mes mains ?</l>
+            <l n="1113" xml:id="l1113">Lorsque du mien, Seigneur, je ne suis plus maîtresse,</l>
+            <l n="1114" xml:id="l1114">Qu’engagée à tenir une sainte promesse…</l>
+          </sp>
+          <sp who="scipion" xml:id="IV06-3">
+            <l n="1115" part="I" xml:id="l1115">Je vois trop…</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV07">
+          <sp who="sextus" xml:id="IV07-1">
+            <l part="F">Pardonnez si je vous interromps,</l>
+            <l n="1116" xml:id="l1116">Seigneur[,] de Lucejus on voit les escadrons,</l>
+            <l n="1117" xml:id="l1117">J’ay dû vous avertir qu’il paroît à leur tête,</l>
+            <l n="1118" xml:id="l1118">Et que vers nôtre Camp à marcher il s’aprête,</l>
+            <l n="1119" xml:id="l1119">Qu’avec ses étendarts on voit ceux des deux Rois.</l>
+          </sp>
+          <sp who="isperie" xml:id="IV07-2">
+            <l n="1120" xml:id="l1120">Ah ! je respire enfin pour la premiere fois.</l>
+          </sp>
+          <sp who="scipion" xml:id="IV07-3">
+            <l n="1121" xml:id="l1121">C’en est assez, Sextus, allez les reconnoître,</l>
+            <l n="1122" xml:id="l1122">J’attens vôtre retour. Lucejus va paroître,</l>
+            <l n="1123" xml:id="l1123">Madame, &amp; je vois bien que pour vos interêts</l>
+            <l n="1124" xml:id="l1124">Nous aurons un combat, &amp; non pas une paix ;</l>
+            <l n="1125" xml:id="l1125"><ref target="#sans-doute">Sans doute*</ref> que ce Prince avance &amp; vient lui-même<pb n="52" xml:id="p52"/></l>
+            <l n="1126" xml:id="l1126">Pour rejoindre Annibal… Dieux ! quel desordre extrême ?</l>
+            <l n="1127" xml:id="l1127">Vous en étiez instruite, il vient vous secourir ;</l>
+            <l n="1128" xml:id="l1128">Mais je vais le combattre &amp; veux vous conquerir,</l>
+            <l n="1129" xml:id="l1129">Je vois par la frayeur dont vôtre ame est atteinte…</l>
+          </sp>
+          <sp who="isperie" xml:id="IV07-4">
+            <l n="1130" xml:id="l1130">Non, Seigneur, je commence à dissiper ma crainte,</l>
+            <l n="1131" xml:id="l1131">Malgré tous mes malheurs je reprends quelque espoir,</l>
+            <l n="1132" xml:id="l1132">S’il vient me secourir il remplit son devoir.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV08">
+          <sp who="scipion" xml:id="IV08-1">
+            <l n="1133" xml:id="l1133">Il remplit son devoir [?] Ah ! quelle confiance [!]</l>
+            <l n="1134" xml:id="l1134">Son Amant luy redonne une <ref target="#fier">fiere*</ref> assurance[,]</l>
+            <l n="1135" xml:id="l1135">Elle s’en promet tout. Vos vœux trop empressez</l>
+            <l n="1136" xml:id="l1136">N’en sont pas, Isperie, encore où vous pensez [,]</l>
+            <l n="1137" xml:id="l1137">J’y mettray quelque obstacle, &amp; ce ferme courage…</l>
+            <l n="1138" xml:id="l1138">Ah ! je sens redoubler &amp; ma haine, &amp; ma rage,</l>
+            <l n="1139" xml:id="l1139">Il faut combattre, il faut rompre ce nœud <ref target="#fatal1">fatal*</ref> ;</l>
+            <l n="1140" xml:id="l1140">Ce Prince étoit <ref target="#sans-doute">sans doute*</ref> attendu d’Annibal,</l>
+            <l n="1141" xml:id="l1141">Sous pretexte de paix, ce Chef adroit peut-être</l>
+            <l n="1142" xml:id="l1142">N’est venu dans mon camp que pour le reconnoître,</l>
+            <l n="1143" xml:id="l1143">Que pour gagner du temps sur l’espoir d’un traité ?</l>
+            <l n="1144" xml:id="l1144">Dieux ! de quel <ref target="#mouvement">mouvement*</ref> je me sens agité !</l>
+            <l n="1145" xml:id="l1145">Par ces projets <ref target="#pompeux">pompeux*</ref> de paix &amp; d’alliance,</l>
+            <l n="1146" xml:id="l1146">Il tâchoit d’endormir mes <ref target="#soin2">soins*</ref>, ma vigilance,</l>
+            <l n="1147" xml:id="l1147">Tout m’est suspect en luy, Lepide, je le voy,<pb n="53" xml:id="p53"/></l>
+            <l n="1148" xml:id="l1148">A bien d’autres qu’à nous il a manqué de <ref target="#foi1">foy*</ref>,</l>
+            <l n="1149" xml:id="l1149">Il vient, je ne dois plus le tenir en balance.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV09">
+          <sp who="annibal" xml:id="IV09-1">
+            <l n="1150" xml:id="l1150">Ne me soupçonnez pas d’aucune intelligence,</l>
+            <l n="1151" xml:id="l1151">Seigneur, quand Lucejus vient pour ses interêts,</l>
+            <l n="1152" xml:id="l1152">Les armes à la main s’oposer à la paix,</l>
+            <l n="1153" xml:id="l1153">On a vû ses drapeaux, &amp; ma juste colere…</l>
+          </sp>
+          <sp who="scipion" xml:id="IV09-2">
+            <l n="1154" xml:id="l1154">Ce Prince ne fait rien que ce qu’il devoit faire,</l>
+            <l n="1155" xml:id="l1155">Qu’il est heureux [!] il sert sa gloire &amp; son amour,</l>
+            <l n="1156" xml:id="l1156">Seigneur, il vient grossir vôtre armée en ce jour,</l>
+            <l n="1157" xml:id="l1157">Vous attendiez <ref target="#sans-doute">sans doute*</ref> encor cet avantage.</l>
+          </sp>
+          <sp who="annibal" xml:id="IV09-3">
+            <l n="1158" xml:id="l1158">Seigneur, qu’osez-vous dire ? un tel soupçon m’<ref target="#outrager">outrage*</ref>.</l>
+          </sp>
+          <sp who="scipion" xml:id="IV09-4">
+            <l n="1159" xml:id="l1159">J’ose dire, Seigneur, ce que j’ay dû penser.</l>
+          </sp>
+          <sp who="annibal" xml:id="IV09-5">
+            <l n="1160" xml:id="l1160">Vous en dites assez enfin pour m’offenser.</l>
+          </sp>
+          <sp who="scipion" xml:id="IV09-6">
+            <l n="1161" xml:id="l1161">Vous êtes dans mon Camp, Seigneur, je vous respecte,</l>
+            <l n="1162" xml:id="l1162">Mais la <ref target="#foi1">foy*</ref> de Cartage aux Romains est suspecte.</l>
+          </sp>
+          <sp who="annibal" xml:id="IV09-7">
+            <pb n="54" xml:id="p54"/>
+            <l n="1163" part="I" xml:id="l1163">Ah ! c’en est trop, il faut…</l>
+          </sp>
+          <sp who="scipion" xml:id="IV09-8">
+            <l part="F">Seigneur, n’en parlons plus,</l>
+            <l n="1164" xml:id="l1164">Et quittons des soupçons incertains &amp; confus ;</l>
+            <l n="1165" xml:id="l1165">Il faut que vôtre ardeur à la mienne réponde,</l>
+            <l n="1166" xml:id="l1166">Nous devons decider de l’<ref target="#empire">Empire*</ref> du Monde,</l>
+            <l n="1167" xml:id="l1167">Annibal, si les Dieux ont mis entre nos mains</l>
+            <l n="1168" xml:id="l1168">Le destin de l’Afrique, &amp; celuy des Romains,</l>
+            <l n="1169" xml:id="l1169">Il faut dans ce grand jour sans tarder davantage,</l>
+            <l n="1170" xml:id="l1170">Faire triompher Rome, ou délivrer Cartage,</l>
+            <l n="1171" xml:id="l1171">Il faut voir l’une ou l’autre, ou libre, ou dans les fers,</l>
+            <l n="1172" xml:id="l1172">Et donner un seul maître enfin à l’Univers.</l>
+          </sp>
+          <sp who="annibal" xml:id="IV09-9">
+            <l n="1173" xml:id="l1173">Vous faites voir un cœur trop avide de gloire,</l>
+            <l n="1174" xml:id="l1174">Et déjà vous croyez courir à la victoire,</l>
+            <l n="1175" xml:id="l1175">Scipion, mais je veux seconder vos souhaits ;</l>
+            <l n="1176" xml:id="l1176">Vous m’avez soupçonné, je renonce à la paix,</l>
+            <l n="1177" xml:id="l1177">Ouy, j’accepte aujourd’huy la bataille, &amp; j’espere</l>
+            <l n="1178" xml:id="l1178">Vous mettre au même état où j’ay mis vôtre pere ;</l>
+            <l n="1179" xml:id="l1179">Je me rends à ma haine, il faut <ref target="#remplir">remplir*</ref> mon <ref target="#sort4">sort*</ref>,</l>
+            <l n="1180" xml:id="l1180">J’ay promis de haïr Rome jusqu’à la mort,</l>
+            <l n="1181" xml:id="l1181">En naissant j’ay juré la guerre au Capitole,</l>
+            <l n="1182" xml:id="l1182">Jusqu’au dernier soûpir je luy tiendray parole.</l>
+          </sp>
+          <sp who="scipion" xml:id="IV09-10">
+            <l n="1183" xml:id="l1183">A la fin d’Annibal j’ay piqué la <ref target="#fierte1">fierté*</ref>,</l>
+            <l n="1184" xml:id="l1184">J’ay rompu grace au Ciel cet indigne traité :</l>
+            <l n="1185" xml:id="l1185">Et vous, Dieux ! protecteurs du sacré Capitole,</l>
+            <l n="1186" xml:id="l1186">Il faut dans ce combat vous vanger, &amp; j’y vole :</l>
+            <l n="1187" xml:id="l1187">Rome, vous attendez cette grande action,</l>
+            <l n="1188" xml:id="l1188">Qu’Annibal suive un jour le char de Scipion.</l>
+            <p rend="center">Fin du quatriéme Acte.</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act" xml:id="V">
+        <pb n="55" xml:id="p55"/>
+        <div type="scene" xml:id="V01">
+          <sp who="isperie" xml:id="V01-1">
+            <l n="1189" xml:id="l1189">Ne m’abandonne point, viens, ma chere Ermilie,</l>
+            <l n="1190" xml:id="l1190">Partager les frayeurs dont mon ame est saisie,</l>
+            <l n="1191" xml:id="l1191">Quel combat [!] quelle horreur [!] quelle confusion [!]</l>
+            <l n="1192" xml:id="l1192">Lucejus est aux mains avecque Scipion,</l>
+            <l n="1193" xml:id="l1193">Il a <ref target="#joindre">joint*</ref> Annibal ; ah ! <ref target="#fatal2">fatale*</ref> journée</l>
+            <l n="1194" xml:id="l1194">Qui va de mon Amant faire la destinée [!]</l>
+            <l n="1195" xml:id="l1195">Je ne dis point la mienne, ah Dieux ! vous sçavez bien</l>
+            <l n="1196" xml:id="l1196">Que je n’auray jamais d’autre <ref target="#sort1">sort*</ref> que le sien !</l>
+            <l n="1197" xml:id="l1197">As-tu vû comme moi ce Heros intrepide,</l>
+            <l n="1198" xml:id="l1198"><ref target="#animer">Animé*</ref> par l’amour qui luy servoit de guide,</l>
+            <l n="1199" xml:id="l1199">Pousser de Lelius les escadrons épars,</l>
+            <l n="1200" xml:id="l1200">Et déjà prés de nous planter ses étendars,</l>
+            <l n="1201" xml:id="l1201">Quand le <ref target="#fier">fier*</ref> Scipion est venu plein de rage</l>
+            <l n="1202" xml:id="l1202">De son Camp ébranlé ranimer le courage.</l>
+            <l n="1203" xml:id="l1203">Je l’ay vû tout d’un coup fondre sur Lucejus,</l>
+            <l n="1204" xml:id="l1204">J’en ay pâly grands Dieux ! &amp; n’ay rien vû de plus ;</l>
+            <l n="1205" xml:id="l1205">Tout s’est mêlé pour lors, le tumulte des armes,</l>
+            <l n="1206" xml:id="l1206">Les perils d’un Amant m’ont fait verser des larmes,</l>
+            <l n="1207" xml:id="l1207">Que je tremble pour luy malgré ses grands <ref target="#effort1">efforts*</ref> [!]<pb n="56" xml:id="p56"/></l>
+            <l n="1208" xml:id="l1208">Helas ! il est tombé peut-être entre les morts.</l>
+          </sp>
+          <sp who="ermilie" xml:id="V01-2">
+            <l n="1209" xml:id="l1209">Rassurez-vous, Madame, ayez quelque esperance ;</l>
+            <l n="1210" xml:id="l1210">La valeur d’Annibal met le <ref target="#sort3">sort*</ref> en balance,</l>
+            <l n="1211" xml:id="l1211">Ce Heros qui combat fera voir son grand <ref target="#coeur">cœur*</ref></l>
+            <l n="1212" xml:id="l1212"><ref target="#sans-doute">Sans doute*</ref>, &amp; Scipion n’est pas encor vainqueur,</l>
+            <l n="1213" xml:id="l1213">Les Dieux pouront… Mais quoy ? j’aperçois Erixene.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V02">
+          <sp who="erixene" xml:id="V02-1">
+            <l n="1214" xml:id="l1214">Madame c’en est fait, nôtre esperance est vaine,</l>
+            <l n="1215" xml:id="l1215">Annibal est vaincu, Scipion est vainqueur,</l>
+            <l n="1216" xml:id="l1216">Tout succombe, tout cede à sa rare valeur ;</l>
+            <l n="1217" xml:id="l1217">Bien qu’Annibal ait fait un <ref target="#effort1">effort*</ref> incroyable</l>
+            <l n="1218" xml:id="l1218">Pour rallier les siens d’un <ref target="#soin4">soin*</ref> infatigable,</l>
+            <l n="1219" xml:id="l1219">Tout son Camp par avance étoit saisi d’effroy,</l>
+            <l n="1220" xml:id="l1220">Tout fuit, &amp; j’en pâlis &amp; pour vous &amp; pour moy ;</l>
+            <l n="1221" xml:id="l1221">Scipion triomphant va nous parler en maître,</l>
+            <l n="1222" xml:id="l1222">Nos fers sont redoublez, &amp; son amour peut-être…</l>
+            <l n="1223" part="I" xml:id="l1223">Vous fremissez, Madame.</l>
+          </sp>
+          <sp who="isperie" xml:id="V02-2">
+            <l part="F">Hé que fait Lucejus ?</l>
+            <l n="1224" xml:id="l1224">Aprenez-moy son <ref target="#sort1">sort*</ref> ; peut-être il ne vit plus.</l>
+          </sp>
+          <sp who="erixene" xml:id="V02-3">
+            <l n="1225" xml:id="l1225">J’ignore son <ref target="#destin">destin*</ref>, ny quelle est sa <ref target="#conduite2">conduite*</ref>,</l>
+            <l n="1226" xml:id="l1226">Mais avecque Annibal les deux Rois sont en fuite,</l>
+            <l n="1227" xml:id="l1227">Peut-être qu’avecque eux cherchant un pareil <ref target="#sort1">sort*</ref>…<pb n="57" xml:id="p57"/></l>
+          </sp>
+          <sp who="isperie" xml:id="V02-4">
+            <l n="1228" xml:id="l1228">Il ne fuit point, Madame, &amp; <ref target="#sans-doute">sans doute*</ref> il est mort ;</l>
+            <l n="1229" xml:id="l1229">Quoy ? Lucejus fuiroit en perdant ce qu’il aime,</l>
+            <l n="1230" xml:id="l1230">Je connois sa valeur &amp; son amour extrême,</l>
+            <l n="1231" xml:id="l1231">Il aura combatu jusqu’au dernier soûpir,</l>
+            <l n="1232" xml:id="l1232">Madame, il a voulu me sauver ou perir.</l>
+            <l n="1233" xml:id="l1233">Dieux, que je suis en proye à mon inquietude ?</l>
+            <l n="1234" xml:id="l1234">Je ne puis demeurer dans cette incertitude,</l>
+            <l n="1235" xml:id="l1235">Sortons, allons-le <ref target="#joindre">joindre*</ref>, &amp; je veux aujourd’huy</l>
+            <l n="1236" xml:id="l1236">S’il est parmy les morts expirer avec luy.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V03">
+          <sp who="erixene" xml:id="V03-1">
+            <l n="1237" xml:id="l1237">O <ref target="#fortune1">Fortune*</ref> ! ô journée à toutes deux <ref target="#fatal2">fatale*</ref> !</l>
+            <l n="1238" xml:id="l1238">Mais je dois envier le <ref target="#sort1">sort*</ref> de ma rivale ;</l>
+            <l n="1239" xml:id="l1239">Je ne sçaurois la plaindre, &amp; malgré ses douleurs</l>
+            <l n="1240" xml:id="l1240">Pour un Amant fidelle elle verse des pleurs ;</l>
+            <l n="1241" xml:id="l1241">Du moins, ou s’il est mort elle n’a qu’à le suivre ;</l>
+            <l n="1242" xml:id="l1242">C’est le moindre des maux que de cesser de vivre ;</l>
+            <l n="1243" xml:id="l1243">Que vais-je devenir ? quel doit être mon <ref target="#sort1">sort*</ref> ?</l>
+            <l n="1244" xml:id="l1244">Pour moy ? de tous côtez je ne voy que la mort ;</l>
+            <l n="1245" xml:id="l1245">Ouy, trop cruel amour il faut que je te domte,</l>
+            <l n="1246" xml:id="l1246">Retournons dans Cartage ensevelir ma honte,</l>
+            <l n="1247" xml:id="l1247">On la doit assieger, j’y finiray mes jours,</l>
+            <l n="1248" xml:id="l1248">J’attends de Scipion ce <ref target="#funeste1">funeste*</ref> secours ;</l>
+            <l n="1249" part="I" xml:id="l1249">Je l’aperçois, parlons.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V04">
+          <pb n="58" xml:id="p58"/>
+          <sp who="scipion" xml:id="V04-1">
+            <l part="F">Qu’on observe Isperie ?</l>
+            <l n="1250" xml:id="l1250">Qu’on la suive ? &amp; sur tout ayez soin de sa vie.</l>
+          </sp>
+          <sp who="erixene" xml:id="V04-2">
+            <l n="1251" xml:id="l1251">Enfin je vous revoy vainqueur &amp; triomphant,</l>
+            <l n="1252" xml:id="l1252">Seigneur, &amp; vôtre nom encor plus éclatant</l>
+            <l n="1253" xml:id="l1253">Par cette memorable &amp; derniere victoire</l>
+            <l n="1254" xml:id="l1254">Vous met en ce grand jour au comble de la gloire ;</l>
+            <l n="1255" xml:id="l1255">Vous êtes <ref target="#genereux2">genereux*</ref>, daignez briser mes fers,</l>
+            <l n="1256" xml:id="l1256">Je les ay sans regret à ma honte souffers ;</l>
+            <l n="1257" xml:id="l1257">Nous vous allons bien-tôt voir assieger Cartage,</l>
+            <l n="1258" xml:id="l1258"><ref target="#souffrir3">Souffrez*</ref> que ma presence <ref target="#animer">anime*</ref> son courage, </l>
+            <l n="1259" xml:id="l1259">L’amour de ma patrie allumant mon ardeur,</l>
+            <l n="1260" xml:id="l1260">Je veux y terminer ma vie &amp; mon malheur.</l>
+          </sp>
+          <sp who="scipion" xml:id="V04-3">
+            <l n="1261" xml:id="l1261">Qu’un pareil sentiment me touche &amp; m’<ref target="#interesser">interesse*</ref> ?</l>
+            <l n="1262" xml:id="l1262">Ouy, de vôtre destin je vous rends la maîtresse,</l>
+            <l n="1263" xml:id="l1263">Soyez libre, Madame, &amp; d’un <ref target="#coeur">cœur*</ref> affermy</l>
+            <l n="1264" xml:id="l1264">Allez <ref target="#joindre">joindre*</ref> Annibal mon illustre ennemy ;</l>
+            <l n="1265" xml:id="l1265">Ma victoire n’a fait qu’enfler sa renommée,</l>
+            <l n="1266" xml:id="l1266">Luy seul a combatu dans toute son Armée,</l>
+            <l n="1267" xml:id="l1267">J’ay malgré sa défaite admiré sa valeur,</l>
+            <l n="1268" xml:id="l1268">Il n’a jamais été plus grand qu’en ce malheur[.]</l>
+            <l n="1269" xml:id="l1269">Vous pourez aujourd’huy le revoir dans Cartage,<pb n="59" xml:id="p59"/></l>
+            <l n="1270" xml:id="l1270">Contre moy je luy donne un puissant avantage :</l>
+            <l n="1271" xml:id="l1271">Cependant vous pouvez partir, allez Sextus,</l>
+            <l n="1272" xml:id="l1272">Et rendez les honneurs qu’on doit à ses <ref target="#vertu3">vertus*</ref>.</l>
+          </sp>
+          <sp who="erixene" xml:id="V04-4">
+            <l n="1273" xml:id="l1273">Je n’attendois pas moins d’un heros magnanime,</l>
+            <l n="1274" xml:id="l1274">Et j’emporte de vous une si haute estime,</l>
+            <l n="1275" xml:id="l1275">Que mon cœur penetré d’un si noble dessein,</l>
+            <l n="1276" xml:id="l1276">Me fera reverer toujours le nom Romain.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V05">
+          <sp who="lepide" xml:id="V05-1">
+            <l n="1277" xml:id="l1277">Ainsi vous l’envoyez secourir sa patrie :</l>
+            <l n="1278" xml:id="l1278">Mais, Seigneur, qu’allez-vous ordonner d’Isperie ?</l>
+            <l n="1279" xml:id="l1279">Maître de son destin dans ce <ref target="#fatal3">fatal*</ref> moment,</l>
+            <l n="1280" xml:id="l1280">Vous avez dans vos mains la Maîtresse &amp; l’Amant,</l>
+            <l n="1281" part="I" xml:id="l1281">Qu’allez-vous decider de leur <ref target="#sort1">sort*</ref> ?</l>
+          </sp>
+          <sp who="scipion" xml:id="V05-2">
+            <l part="F">Ah ! Lepide,</l>
+            <l n="1282" xml:id="l1282">Je tremble que l’amour ne me serve de guide,</l>
+            <l n="1283" xml:id="l1283">Je ne suis plus Romain, je suis foible, &amp; je sens</l>
+            <l n="1284" xml:id="l1284">Que contre ma <ref target="#vertu1">vertu*</ref> se revoltent mes sens ;</l>
+            <l n="1285" xml:id="l1285">La gloire, la pitié, l’amour, tout me déchire,</l>
+            <l n="1286" xml:id="l1286">Que je souffre grands Dieux ! j’en rougis, j’en soûpire,</l>
+            <l n="1287" xml:id="l1287">Qu’il me faut rendre encor de terribles combats ?<pb n="60" xml:id="p60"/></l>
+            <l n="1288" xml:id="l1288">Annibal est vaincu, mais l’amour ne l’est pas.</l>
+          </sp>
+          <sp who="lepide" xml:id="V05-3">
+            <l n="1289" xml:id="l1289">Hé [!] Seigneur, profitez des droits de la victoire ?</l>
+            <l n="1290" xml:id="l1290">Pouroit-on refuser un Heros plein de gloire ?</l>
+            <l n="1291" xml:id="l1291">Cartage va tomber, &amp; le soldat Romain</l>
+            <l n="1292" xml:id="l1292">Vous honore déjà du titre d’Africain,</l>
+            <l n="1293" xml:id="l1293">Seigneur vous pouvez tout, &amp; vous êtes le maître.</l>
+          </sp>
+          <sp who="scipion" xml:id="V05-4">
+            <l n="1294" xml:id="l1294">En <ref target="#flatter2">flatant*</ref> mon amour que me fais-tu <ref target="#connaitre2">connoître*</ref> ?</l>
+            <l n="1295" xml:id="l1295">Ouy, si j’en consultois les transports de mon cœur,</l>
+            <l n="1296" xml:id="l1296">Peut-être deviendrois-je un <ref target="#superbe1">superbe*</ref> vainqueur :</l>
+            <l n="1297" xml:id="l1297">Elle viendra bien-tôt cette tendre Isperie,</l>
+            <l n="1298" xml:id="l1298">De son heureux Amant me demander la vie ;</l>
+            <l n="1299" xml:id="l1299">Elle ignore son <ref target="#sort1">sort*</ref> que je luy fais cacher,</l>
+            <l n="1300" xml:id="l1300">Envain parmy les morts elle le fait chercher :</l>
+            <l n="1301" xml:id="l1301">Mais helas ! ce qui rend sa gloire plus parfaite,</l>
+            <l n="1302" xml:id="l1302">Il contraint son vainqueur d’envier sa defaite,</l>
+            <l n="1303" xml:id="l1303">Tantost dans le combat j’ay <ref target="#connaitre3">connu*</ref> son grand <ref target="#coeur">cœur*</ref>,</l>
+            <l n="1304" xml:id="l1304">J’ay senti redoubler mon amour, ma fureur ;</l>
+            <l n="1305" xml:id="l1305">Il tâchoit de sauver une Amante fidelle,</l>
+            <l n="1306" xml:id="l1306">Je voyois à regret qu’il étoit digne d’elle :</l>
+            <l n="1307" xml:id="l1307">Il étoit des momens où malgré mon couroux</l>
+            <l n="1308" xml:id="l1308">Je trouvois Annibal moins digne de mes coups :</l>
+            <l n="1309" xml:id="l1309">Mais que fait cet Amant ? a-t-il la même audace ?</l>
+            <l n="1310" xml:id="l1310">De quel œil maintenant reçoit-il sa disgrace ?</l>
+          </sp>
+          <sp who="lepide" xml:id="V05-5">
+            <l n="1311" xml:id="l1311">Indigné d’avoir fait un inutile <ref target="#effort3">effort*</ref>,</l>
+            <l n="1312" xml:id="l1312">Il nous a conjurez de luy donner la mort :</l>
+            <l n="1313" xml:id="l1313">Quel <ref target="#soin3">soin*</ref> cruel, dit-il, prenez-vous de ma vie ?</l>
+            <l n="1314" xml:id="l1314">Scipion est vainqueur, &amp; je perds Isperie ;</l>
+            <l n="1315" xml:id="l1315">Lelius le console, &amp; d’un <ref target="#soin3">soin*</ref> <ref target="#genereux2">genereux*</ref>…</l>
+          </sp>
+          <sp who="scipion" xml:id="V05-6">
+            <l n="1316" xml:id="l1316">Non, c’en est fait, il faut qu’il étouffe ses feux,</l>
+            <l n="1317" xml:id="l1317">Je veux que Lucejus abandonne Isperie,<pb n="F, 61" xml:id="p61"/></l>
+            <l n="1318" xml:id="l1318">A ce prix je mettray sa liberté, sa vie[,]</l>
+            <l n="1319" xml:id="l1319">C’est à luy d’obéïr… Mais quel est mon dessein ?</l>
+            <l n="1320" xml:id="l1320">Suis-je encor Scipion ? ou suis-je encor Romain ?</l>
+            <l n="1321" xml:id="l1321">Justes Dieux [!] est-ce ainsi que je suis les exemples</l>
+            <l n="1322" xml:id="l1322">Des Heros à qui Rome a consacré des Temples ?</l>
+            <l n="1323" xml:id="l1323">Est-ce ainsi que je suis la noble austerité</l>
+            <l n="1324" xml:id="l1324">Qui les rendra fameux à la posterité ?</l>
+            <l n="1325" xml:id="l1325">Etouffons un amour… Ah Dieux ! que vais-je faire ?</l>
+            <l n="1326" xml:id="l1326">De ma victoire un autre aura-t-il le salaire ?</l>
+            <l n="1327" xml:id="l1327">Mais je vois Isperie, ah ! j’ay mal combatu,</l>
+            <l n="1328" xml:id="l1328">A ses yeux j’ay besoin de toute ma <ref target="#vertu2">vertu*</ref>.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V06">
+          <sp who="isperie" xml:id="V06-1">
+            <l n="1329" xml:id="l1329">Ah ! Seigneur, tirez-moy du plus cruël martyre[,]</l>
+            <l n="1330" xml:id="l1330">De grace, &amp; m’aprenez si Lucejus respire ;</l>
+            <l n="1331" xml:id="l1331">On me refuse helas ! de m’apprendre son <ref target="#sort1">sort*</ref>,</l>
+            <l n="1332" xml:id="l1332">Ce Prince malheureux a-t-il trouvé la mort ?</l>
+            <l n="1333" xml:id="l1333">Puis-je me retracer l’épouvantable image</l>
+            <l n="1334" xml:id="l1334">D’un champ couvert de morts &amp; remply de carnage ?</l>
+            <l n="1335" xml:id="l1335">Ces cadavres sanglants tous pâles, tous glacez,</l>
+            <l n="1336" xml:id="l1336">Qui n’offroient à mes yeux que des traits <ref target="#effacer2">effacez*</ref>,</l>
+            <l n="1337" xml:id="l1337">Ah ! Seigneur, concevez mon desespoir extrême,</l>
+            <l n="1338" xml:id="l1338">Dans toutes ses horreurs je cherchois ce que j’aime.</l>
+          </sp>
+          <sp who="scipion" xml:id="V06-2">
+            <l n="1339" xml:id="l1339">Ne craignez plus pour luy, dissipez vôtre effroy,</l>
+            <l n="1340" xml:id="l1340">Lucejus est vivant, &amp; plus heureux que moy.</l>
+          </sp>
+          <sp who="isperie" xml:id="V06-3">
+            <pb n="62" xml:id="p62"/>
+            <l n="1341" xml:id="l1341">Il est vivant, mais quoy vous en êtes le maître [!]</l>
+            <l n="1342" xml:id="l1342">Vous pouvez disposer de son <ref target="#sort1">sort*</ref>, &amp; peut-être</l>
+            <l n="1343" xml:id="l1343">La haine d’un rival qui vous a combatu…</l>
+            <l n="1344" xml:id="l1344">Mais je soupçonne à tort, Seigneur, vôtre <ref target="#vertu1">vertu*</ref>,</l>
+            <l n="1345" xml:id="l1345">Songez que dans vos fers il n’a pour toutes armes</l>
+            <l n="1346" xml:id="l1346">Que mes <ref target="#triste1">tristes*</ref> soûpirs, &amp; que mes foibles larmes.</l>
+          </sp>
+          <sp who="scipion" xml:id="V06-4">
+            <l n="1347" xml:id="l1347">Et c’est ce qui me tüe : il cause vos douleurs</l>
+            <l n="1348" xml:id="l1348">Ce trop heureux Amant, il fait couler vos pleurs, </l>
+            <l n="1349" xml:id="l1349">Il coûte des soûpirs qui sont dignes d’envie,</l>
+            <l n="1350" xml:id="l1350">Madame, &amp; je voudrois les payer de ma vie.</l>
+          </sp>
+          <sp who="isperie" xml:id="V06-5">
+            <l n="1351" xml:id="l1351">Pardonnez-moy, Seigneur, si dans mes <ref target="#deplaisir">déplaisirs*</ref></l>
+            <l n="1352" xml:id="l1352">Je pousse devant vous d’inutiles soûpirs :</l>
+            <l n="1353" part="I" xml:id="l1353">Vous détournez vos yeux.</l>
+          </sp>
+          <sp who="scipion" xml:id="V06-6">
+            <l part="F">Eh ! détournez les vôtres :</l>
+            <l n="1354" xml:id="l1354">Et puisque leurs regards sont destinez pour d’autres,</l>
+            <l n="1355" xml:id="l1355">Laissez m’en éviter l’éclat imperieux ;</l>
+            <l n="1356" xml:id="l1356">Vous voyez les combats que je rends, justes Dieux !</l>
+            <l n="1357" xml:id="l1357">Que dois-je faire enfin ? je fremis quand j’y pense,</l>
+            <l n="1358" xml:id="l1358">Madame, j’ay besoin de toute ma constance ;</l>
+            <l n="1359" xml:id="l1359">Mais c’en est trop, malgré tant de vœux <ref target="#superflu">superflus*</ref></l>
+            <l n="1360" xml:id="l1360">Que l’on fasse venir le Prince Lucejus ?</l>
+          </sp>
+          <sp who="isperie" xml:id="V06-7">
+            <l n="1361" xml:id="l1361">Quel est vôtre dessein ? qu’en devons-nous attendre,</l>
+            <l n="1362" part="I" xml:id="l1362">Seigneur ?</l>
+          </sp>
+          <sp who="scipion" xml:id="V06-8">
+            <l part="F">Dans un moment vous le pourez apprendre.</l>
+          </sp>
+          <sp who="isperie" xml:id="V06-9">
+            <l n="1363" xml:id="l1363">Que dois-je croire, ah Dieux ! dans cette extremité ?</l>
+            <l n="1364" xml:id="l1364">Quand d’un trouble si grand je vous vois agité,</l>
+            <l n="1365" xml:id="l1365">Que vos regards sur moy ne tombent qu’avec peine,<pb n="63" xml:id="p63"/></l>
+            <l n="1366" xml:id="l1366">Deviendrois-je, Seigneur, l’objet de vôtre haine ?</l>
+          </sp>
+          <sp who="scipion" xml:id="V06-10">
+            <l n="1367" xml:id="l1367">Madame, &amp; plût aux Dieux que l’on pût vous haïr ?</l>
+            <l n="1368" xml:id="l1368">Que je m’épargnerois un <ref target="#mortel2">mortel*</ref> <ref target="#deplaisir">déplaisir*</ref> !</l>
+            <l n="1369" xml:id="l1369">Si malgré moy j’évite une <ref target="#fatal2">fatale*</ref> veuë,</l>
+            <l n="1370" xml:id="l1370">Un <ref target="#objet1">objet*</ref> tel que vous porte un <ref target="#charme">charme*</ref> qui tuë.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V07">
+          <sp who="lucejus" xml:id="V07-1">
+            <l n="1371" xml:id="l1371">Seigneur, ne croyez pas que la peur de la mort</l>
+            <l n="1372" xml:id="l1372">Me fasse repentir d’un <ref target="#genereux1">genereux*</ref> <ref target="#effort3">effort*</ref>,</l>
+            <l n="1373" xml:id="l1373">Je vous ay voulu perdre, &amp; ce bras temeraire</l>
+            <l n="1374" xml:id="l1374">S’il étoit libre encor tâcheroit de le faire ;</l>
+            <l n="1375" xml:id="l1375">Vous êtes mon rival, vous m’avez tout ôté,</l>
+            <l n="1376" xml:id="l1376">Vous devez m’immoler à vôtre seureté,</l>
+            <l n="1377" xml:id="l1377">Je suis vôtre captif aussi bien qu’Isperie,</l>
+            <l n="1378" xml:id="l1378">J’en fremis ; mais de grace immolez une vie</l>
+            <l n="1379" xml:id="l1379">Qui deviendroit <ref target="#funeste1">funeste*</ref> à vos jours glorieux,</l>
+            <l n="1380" xml:id="l1380">J’irois les attaquer à la face des Dieux,</l>
+            <l n="1381" xml:id="l1381"><ref target="#prevenir">Prevenez*</ref> par ma mort mon desespoir, mon crime,</l>
+            <l n="1382" xml:id="l1382">Perdant ce que je perds tout seroit legitime.</l>
+          </sp>
+          <sp who="scipion" xml:id="V07-2">
+            <l n="1383" xml:id="l1383">Je pardonne aisément à ce transport jaloux,</l>
+            <l n="1384" xml:id="l1384">Si j’étois Lucejus je l’aurois comme vous,</l>
+            <l n="1385" xml:id="l1385">Vous m’avez dû haïr &amp; ce n’est point un crime,</l>
+            <l n="1386" xml:id="l1386">Prince, pour un rival la haine est legitime,</l>
+            <l n="1387" xml:id="l1387">Je le suis, je l’avouë, ah Dieux ! vous le sçavez</l>
+            <l n="1388" xml:id="l1388">De quels feux j’ay brûlé, mais de grace, achevez</l>
+            <l n="1389" xml:id="l1389">Un triomphe immortel dont la gloire semée<pb n="64" xml:id="p64"/></l>
+            <l n="1390" xml:id="l1390">De tout ce que j’ay fait passe la renommée,</l>
+            <l n="1391" xml:id="l1391">Pour laisser un exemple à la posterité</l>
+            <l n="1392" xml:id="l1392">Rare, mais cependant qui puisse être imité :</l>
+            <l n="1393" xml:id="l1393">Oüy, Madame, aujourd’huy je veux, quoy qu’il m’en coûte,</l>
+            <l n="1394" xml:id="l1394">Enseigner aux mortels cette nouvelle route,</l>
+            <l n="1395" xml:id="l1395">Leur montrer comme on peut domter sa passion,</l>
+            <l n="1396" xml:id="l1396">Et vainqueur d’Annibal vaincre encor Scipion :</l>
+            <l n="1397" xml:id="l1397">Prince, rassurez-vous, je vous donne la vie,</l>
+            <l n="1398" xml:id="l1398">Je fais plus, de ma main recevez Isperie.</l>
+          </sp>
+          <sp who="lucejus" xml:id="V07-3">
+            <l n="1399" xml:id="l1399">Ah ! Seigneur, permettez qu’embrassant vos genoux</l>
+            <l n="1400" part="I" xml:id="l1400">Je rende à vos <ref target="#vertu1">vertus*</ref>…</l>
+          </sp>
+          <sp who="scipion" xml:id="V07-4">
+            <l part="F">Non, Prince, levez-vous.</l>
+          </sp>
+          <sp who="isperie" xml:id="V07-5">
+            <l n="1401" xml:id="l1401">Quelle grace, Seigneur, devons-nous pas vous rendre ?</l>
+            <l n="1402" xml:id="l1402">Mais du grand Scipion nous devions tout attendre.</l>
+          </sp>
+          <sp who="scipion" xml:id="V07-6">
+            <l n="1403" xml:id="l1403">Retournez à Zama couronner vôtre <ref target="#foi2">foy*</ref>,</l>
+            <l n="1404" xml:id="l1404">Elle est un present digne &amp; de vous, &amp; de moy ;</l>
+            <l n="1405" xml:id="l1405">Je ne demande icy pour toute recompense,</l>
+            <l n="1406" xml:id="l1406">Pour le prix &amp; le nœud d’une étroite alliance,</l>
+            <l n="1407" xml:id="l1407">Prince, que vous soyez en luy donnant la main</l>
+            <l n="1408" xml:id="l1408">Amy de Scipion, &amp; du peuple Romain ;</l>
+            <l n="1409" xml:id="l1409">Je vais me preparer au Siege de Cartage,</l>
+            <l n="1410" xml:id="l1410">Par sa prise je dois achever mon ouvrage,</l>
+            <l n="1411" xml:id="l1411">Et j’espere dans peu la rangeant sous mes loix</l>
+            <l n="1412" xml:id="l1412">Triompher d’Annibal une seconde fois.</l>
+            <l n="1413" part="I" xml:id="l1413">Adieu, vivez heureux.</l>
+          </sp>
+          <sp who="lucejus" xml:id="V07-7">
+            <l part="F">Admirons ce grand homme,</l>
+            <l n="1414" xml:id="l1414">Le plus parfait Heros qu’ait jamais produit Rome.</l>
+            <p rend="center">FIN.</p>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,505 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <text>
+    <body>
+      <div xml:id="personnages"/>
+      <div/>
+      <div>
+        <sp who="lanymphedelaseine">
+          <l n="1" xml:id="l1">Toy qui vis autrefois le Fleuve des Romains</l>
+          <l n="2" xml:id="l2">Triompher des humains,</l>
+          <l n="3" xml:id="l3">Et porter le Sceptre du monde ?</l>
+          <l n="4" xml:id="l4">Vertumne, que dis-tu, de ma rive feconde.</l>
+        </sp>
+        <sp who="vertumne">
+          <l n="5" xml:id="l5">J’admire, j’admire tes grandeurs, et la felicité</l>
+          <l n="6" xml:id="l6">De ta belle Cité ;</l>
+          <l n="7" xml:id="l7">Mais ta merveille la plus grande,</l>
+          <l n="8" xml:id="l8">C’est la pompeuse Majesté</l>
+          <l n="9" xml:id="l9">Du Roy qui la commande,</l>
+          <l n="10" xml:id="l10">Dans l’Auguste LOUIS, je trouve un nouveau Mars,</l>
+          <l n="11" xml:id="l11">Dans sa Ville superbe une nouvelle Rome ?</l>
+          <l n="12" xml:id="l12">Jamais, Jamais un si grand homme,</l>
+          <l n="13" xml:id="l13">Ne fut assis au Thrône des Cesars ; (<hi rend="i">bis</hi>)</l>
+        </sp>
+        <sp who="lanymphedelaseine">
+          <l n="14" xml:id="l14">Aussi sur la Terre et sur l’Onde,</l>
+          <l n="15" xml:id="l15"> Ce Monarque puissant ne fait point de projets</l>
+          <l n="16" xml:id="l16">que le Ciel ne seconde ?</l>
+          <l n="17" xml:id="l17">Il est l’amour,</l>
+        </sp>
+        <sp who="vertumne">
+          <l n="18" xml:id="l18"> Il est l’amour et la terreur,</l>
+        </sp>
+        <sp who="lanymphedelaseine vertumne">
+          <l n="19" xml:id="l19">Il est l’amour et la terreur du monde,</l>
+        </sp>
+        <sp who="vertumne">
+          <l n="20" xml:id="l20">L’effroy de ses voisins,</l>
+        </sp>
+        <sp who="lanymphedelaseine">
+          <l n="21" xml:id="l21">Le cœur des ses sujets,</l>
+        </sp>
+        <sp who="lanymphedelaseine vertumne">
+          <l n="22" xml:id="l22">L’effroy de ses voisins, Le cœur de ses sujets ;</l>
+        </sp>
+        <sp who="lanymphedelaseine">
+          <l n="23" xml:id="l23">Mais quel dessein t’amene,</l>
+          <l n="24" xml:id="l24">Sur le bord de la Seine.</l>
+        </sp>
+        <sp who="vertumne">
+          <l n="25" xml:id="l25">Moy qui forge les visions,</l>
+          <l n="26" xml:id="l26"> Je viens tromper ses yeux de mes illusions,</l>
+          <l n="27" xml:id="l27">Et luy montrer mes anciennes merveilles ?</l>
+        </sp>
+        <sp who="lanymphedelaseine">
+          <l n="28" xml:id="l28">Sus donc</l>
+        </sp>
+        <sp who="vertumne">
+          <l n="29" xml:id="l29">Sus donc</l>
+        </sp>
+        <sp who="lanymphedelaseine vertumne">
+          <l n="30" xml:id="l30">Par nos accords amoureux, par nos accords amoureux et touchans,</l>
+          <l n="31" xml:id="l31"> Commençons de charmer son cœur et ses oreilles,</l>
+          <l n="32" xml:id="l32">Meslons nos voix, et remplissons les Champs,</l>
+          <l n="33" xml:id="l33">Du doux bruit de nos Chants.</l>
+          <l n="34" xml:id="l34">Meslons nos voix, et remplissons les Champs,</l>
+        </sp>
+        <sp who="vertumne">
+          <l n="35" xml:id="l35">Du doux bruit</l>
+        </sp>
+        <sp who="lanymphedelaseine">
+          <l n="36" xml:id="l36">Du doux bruit du doux bruit</l>
+        </sp>
+        <sp who="vertumne lanymphedelaseine">
+          <l n="37" xml:id="l37">De nos Chants.</l>
+        </sp>
+      </div>
+      <div/>
+      <div type="act">
+        <div type="scene">
+          <sp who="pomone">
+            <l n="38" xml:id="l38">Passons nos jours</l>
+            <l n="39" xml:id="l39">Dans ces vergers,</l>
+            <l n="40" xml:id="l40">Loin des amours</l>
+            <l n="41" xml:id="l41">Et des Bergers ?</l>
+            <l n="42" xml:id="l42" part="I">Passons nos jours,</l>
+          </sp>
+          <sp who="pomone">
+            <l part="F">passons nos jours</l>
+            <l n="43" xml:id="l43">Loin des Bergers et des amours.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="44" xml:id="l44"> Qui voudra s’engage</l>
+            <l n="45" xml:id="l45">Sous les loix d’amour,</l>
+            <l n="46" xml:id="l46"> Qui voudra s’engage,</l>
+            <l n="47" xml:id="l47">Et fasse la cour</l>
+            <l n="48" xml:id="l48"> A ce Dieu volage ;</l>
+            <l n="49" xml:id="l49">Qui voudra l’adore,</l>
+            <l n="50" xml:id="l50"> Pour moy je l’abhorre,</l>
+            <l n="51" xml:id="l51">Le flot de la mer</l>
+            <l n="52" xml:id="l52">Est moins infidele,</l>
+            <l n="53" xml:id="l53">La fleur en est belle,</l>
+            <l n="54" xml:id="l54">Mais le fruit amer.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="55" xml:id="l55"> La fleur en est belle,</l>
+            <l n="56" xml:id="l56">Mais le fruit amer.</l>
+          </sp>
+          <sp who="venilie">
+            <l n="57" xml:id="l57"> Qui croit ce Cajolleur,</l>
+            <l n="58" xml:id="l58">N’a que peine et douleur.</l>
+          </sp>
+          <sp who="juturne">
+            <l n="59" xml:id="l59">Dans l’empire amoureux</l>
+            <l n="60" xml:id="l60"> Le sort le plus heureux,</l>
+            <l n="61" xml:id="l61"> Est le plus dangereux ;</l>
+          </sp>
+          <sp who="venilie">
+            <l n="62" xml:id="l62">Le flot de la mer est moins infidele,</l>
+          </sp>
+          <sp who="juturne">
+            <l n="63" xml:id="l63">La fleur en est belle,</l>
+            <l n="64" xml:id="l64">Mais le fruit amer.</l>
+          </sp>
+          <sp who="juturne venilie">
+            <l n="65" xml:id="l65">La fleur en est belle,</l>
+            <l n="66" xml:id="l66">Mais le fruit amer.</l>
+          </sp>
+          <sp who="venilie">
+            <l n="67" xml:id="l67">Le doux plaisir d’amourette,</l>
+            <l n="68" xml:id="l68">Est une tendre fleurette,</l>
+            <l n="69" xml:id="l69">Qui ne dure qu’un matin,</l>
+            <l n="70" xml:id="l70">Il a le destin</l>
+            <l n="71" xml:id="l71">Des plus belles choses,</l>
+            <l n="72" xml:id="l72">Il naist, il fleurit, il passe en un jour,</l>
+            <l n="73" xml:id="l73">Les chaisnes d’amour</l>
+            <l n="74" xml:id="l74"> Sont chaisnes de roses, <hi rend="i">(bis)</hi></l>
+          </sp>
+          <sp who="venilie">
+            <l n="75" xml:id="l75">Les chaisnes d’amour</l>
+            <l n="76" xml:id="l76"> Sont chaisnes de roses,</l>
+            <l n="77" xml:id="l77">Les chaisnes d’amour</l>
+            <l n="78" xml:id="l78"> Sont chaisnes</l>
+          </sp>
+          <sp who="pomone">
+            <l n="79" xml:id="l79"> Passons nos jours</l>
+            <l n="80" xml:id="l80">Dans ces vergers,</l>
+            <l n="81" xml:id="l81">Loin des amours</l>
+            <l n="82" xml:id="l82">Et des Bergers ?</l>
+            <l n="83" xml:id="l83">Passons nos jours,</l>
+          </sp>
+          <sp who="pomone venilie juturne beroe">
+            <l n="84" xml:id="l84">Passons nos jours,</l>
+            <l n="85" xml:id="l85">Loin des Bergers et des amours. </l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="flore">
+            <l n="86" xml:id="l86">Ah ! ma Sœur, à quoy penses-tu,</l>
+            <l n="87" xml:id="l87">Veux tu bannir de ton empire,</l>
+            <l n="88" xml:id="l88"> Ce Dieu puissant dont la vertu</l>
+            <l n="89" xml:id="l89">Anime tout ce qui respire,</l>
+            <l n="90" xml:id="l90">Et dont les fecondes chaleurs,</l>
+            <l n="91" xml:id="l91">Font naistre tes fruits et mes fleurs.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="92" xml:id="l92">Je consens que ses flames</l>
+            <l n="93" xml:id="l93"> Bruslent tout l’Univers ;</l>
+            <l n="94" xml:id="l94"> Pourveu que dans nos ames,</l>
+            <l n="95" xml:id="l95">Il trouve incessamment la glace et les hyvers ?</l>
+          </sp>
+          <sp who="flore">
+            <l n="96" xml:id="l96">Ah ! si tu connoissois comme moy ses delices ?</l>
+          </sp>
+          <sp who="beroe">
+            <l n="97" xml:id="l97">Ah ! si tu connoissois comme moy ses malices.</l>
+          </sp>
+          <sp who="flore">
+            <l n="98" xml:id="l98"> De combien de douceurs il flate nos desirs.</l>
+          </sp>
+          <sp who="beroe">
+            <l n="99" xml:id="l99"> Combien il cause de soûpirs,</l>
+          </sp>
+          <sp who="flore">
+            <l n="100" xml:id="l100" part="I"> Que ses fers</l>
+          </sp>
+          <sp who="beroe">
+            <l part="M">Que ses loix</l>
+          </sp>
+          <sp who="flore">
+            <l part="M">sont doux ,</l>
+          </sp>
+          <sp who="beroe">
+            <l part="F">sont inhumaines,</l>
+          </sp>
+          <sp who="flore">
+            <l n="101" xml:id="l101" part="I">Qu’il est beau</l>
+          </sp>
+          <sp who="beroe">
+            <l part="F">Qu’il est dur</l>
+          </sp>
+          <sp who="flore beroe">
+            <l n="102" xml:id="l102">de vivre dans ses chaisnes.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="103" xml:id="l103"> Il a ses biens, il a ses peines, </l>
+            <l n="104" xml:id="l104">Et je ne veux que des plaisirs.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="dieudesjardins">
+            <l n="105" xml:id="l105">Soulage donc les flames du grand Dieu des Jardins.</l>
+            <l n="106" xml:id="l106">De plaisirs eternels il sçait remplir les ames,</l>
+            <l n="107" xml:id="l107">Renonce pour jamais à l’amour des blondins,</l>
+            <l n="108" xml:id="l108">Foibles, trompeurs, inconstans et badins,</l>
+            <l n="109" xml:id="l109">Unissons, Unissons nos cœurs et nos empires,</l>
+            <l n="110" xml:id="l110"> Adjouste au fruit de tes vergers,</l>
+            <l n="111" xml:id="l111">Les herbes de mes potagers ;</l>
+            <l n="112" xml:id="l112"> Joint mes Melons à tes Poncires,</l>
+            <l n="113" xml:id="l113">Et mesle parmy tes pignons,</l>
+            <l n="114" xml:id="l114">Mes truffes et mes champigons.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="faune">
+            <l n="115" xml:id="l115">C’est bien à toy, Dieu miserable,</l>
+            <l n="116" xml:id="l116">De pretendre à tes maux quelque soulagement ;</l>
+          </sp>
+          <sp who="dieudesjardins">
+            <l n="117" xml:id="l117">C’est bien à toy, Monstre effroyable,</l>
+            <l n="118" xml:id="l118">De servir un objet si rare et si charmant ?</l>
+          </sp>
+          <sp who="faune">
+            <l n="119" xml:id="l119">Elle a beau resister et faire la mutine ?</l>
+            <l n="120" xml:id="l120" part="I">C’est à moy,</l>
+          </sp>
+          <sp who="dieudesjardins">
+            <l part="M">C’est à moy,</l>
+          </sp>
+          <sp who="faune">
+            <l part="M">C’est à moy,</l>
+          </sp>
+          <sp who="dieudesjardins">
+            <l part="F">C’est à moy,</l>
+          </sp>
+          <sp who="faune dieudesjardins">
+            <l n="121" xml:id="l121">C’est à moy, C’est à moy que le Ciel la destine :</l>
+          </sp>
+          <sp who="dieudesjardins">
+            <l n="122" xml:id="l122" part="I">Tout cede,</l>
+          </sp>
+          <sp who="faune">
+            <l part="M">Tout se rend,</l>
+          </sp>
+          <sp who="dieudesjardins">
+            <l part="M">Tout cede,</l>
+          </sp>
+          <sp who="faune">
+            <l part="F">Tout se rend,</l>
+          </sp>
+          <sp who="faune dieudesjardins">
+            <l n="123" xml:id="l123">Tout cede, tout se rend à mon pouvoir divin:/ ?</l>
+          </sp>
+          <sp who="flore">
+            <l n="124" xml:id="l124">Vous le dites en vain,</l>
+            <l n="125" xml:id="l125">On vo° connoist tous deux,</l>
+            <l n="126" xml:id="l126">Mais éprouvons les vostres?</l>
+            <l n="127" xml:id="l127">Faites danser les uns, faites chanter les autres:</l>
+          </sp>
+          <sp who="jardinier2">
+            <l n="128" xml:id="l128">Vive le Dieu des Jardiniers, il est toûjours prest à bien faire;</l>
+          </sp>
+          <sp who="jardinier1 jardinier2 jardinier3">
+            <l n="129" xml:id="l129">Vive le Dieu des Jardiniers, il est toûjours prest à bien faire;/?/;</l>
+          </sp>
+          <sp who="jardinier2">
+            <l n="130" xml:id="l130">Bergeres portez vos paniers, il a dequoy vous satisfaire,</l>
+          </sp>
+          <sp who="jardinier1 jardinier2 jardinier3">
+            <l n="131" xml:id="l131"> Bergeres, portez vos paniers, il a dequoy vous satisfaire:</l>
+          </sp>
+          <sp who="jardinier1">
+            <l n="132" xml:id="l132"> Sans luy les Jeux, les Passe temps Ont une douceur imparfaite,</l>
+            <l n="133" xml:id="l133">Et s’il n’est de la Feste,</l>
+            <l n="134" xml:id="l134"> L’on ne rit pas longtemps<hi rend="i">, (bis)</hi></l>
+          </sp>
+          <sp who="jardinier1 jardinier2 jardinier3">
+            <l n="135" xml:id="l135">Et s’il n’est de la Feste,</l>
+            <l n="136" xml:id="l136">L’on ne rit pas longtemps. <hi rend="i">(bis)</hi></l>
+          </sp>
+          <sp who="jardinier1">
+            <l n="137" xml:id="l137">Rien n’est si doux que sa fureur,</l>
+            <l n="138" xml:id="l138">Ny si plaisant que sa folie,</l>
+            <l n="139" xml:id="l139"> Elle bannit de nostre cœur</l>
+            <l n="140" xml:id="l140">La plus noire melancholie?</l>
+            <l n="141" xml:id="l141">Sans luy les Jeux, les Passe temps,</l>
+            <l n="142" xml:id="l142">N’ont qu’une douceur imparfaite,</l>
+            <l n="143" xml:id="l143"> Et s’il n’est de la Feste,</l>
+            <l n="144" xml:id="l144"> L’on ne rit pas longtemps. <hi rend="i">(bis)</hi></l>
+          </sp>
+          <sp who="jardinier1 jardinier2 jardinier3">
+            <l n="145" xml:id="l145"> Et s’il n’est de la Feste, l’on ne rit pas longtemps. <hi rend="i">(bis)</hi></l>
+          </sp>
+          <sp who="dieudesjardins">
+            <l n="146" xml:id="l146">He bien: dans tes buissons,</l>
+            <l n="147" xml:id="l147"> Tes Oyseaux, chantent-ils de pareilles Chansons :</l>
+          </sp>
+          <sp who="faune">
+            <l n="148" xml:id="l148">Il est vray que jamais Rossignols d’Arcadie,</l>
+            <l n="149" xml:id="l149">N’ont fait, N’ont fait plus douce melodie.</l>
+          </sp>
+          <sp who="dieudesjardins">
+            <l n="150" xml:id="l150">A vous Bouviers, illustre bande,</l>
+            <l n="151" xml:id="l151">Touchez, Touchez n’importe Menestriers,</l>
+            <l n="152" xml:id="l152">Passepied, Menüet, Gavote ou Sarabande. </l>
+          </sp>
+          <sp who="dieudesjardins">
+            <l n="153" xml:id="l153">Couronnez il est temps, couronnez le vainqueur:</l>
+          </sp>
+          <sp who="faune">
+            <l n="154" xml:id="l154">Donnez-lui vostre main.</l>
+          </sp>
+          <sp who="dieudesjardins">
+            <l n="155" xml:id="l155">Donnez-luy,</l>
+          </sp>
+          <sp who="faune">
+            <l n="156" xml:id="l156"> Donnez-luy,</l>
+          </sp>
+          <sp who="dieudesjardins">
+            <l n="157" xml:id="l157"> Donnez-luy,</l>
+          </sp>
+          <sp who="faune dieudesjardins">
+            <l n="158" xml:id="l158">Donnez-luy vostre cœur.</l>
+          </sp>
+          <sp who="pomone">
+            <l n="159" xml:id="l159">Cueillez Nymphes dans ces prairies,</l>
+            <l n="160" xml:id="l160">Cueillez pour eux des guirlandes fleuries,</l>
+            <l n="161" xml:id="l161">Et vous ma sœur couronnez le vainqueur.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="dieudesjardins">
+            <l n="162" xml:id="l162" part="I">Donnez-luy vostre main,</l>
+          </sp>
+          <sp who="faune">
+            <l part="F">Donnez-luy vostre cœur,</l>
+          </sp>
+          <sp who="dieudesjardins">
+            <l n="163" xml:id="l163">Donnez-luy,</l>
+          </sp>
+          <sp who="faune">
+            <l n="164" xml:id="l164">Donnez-luy,</l>
+          </sp>
+          <sp who="dieudesjardins">
+            <l n="165" xml:id="l165" part="I">Donnez-luy,</l>
+          </sp>
+          <sp who="faune dieudesjardins">
+            <l part="F">Donnez-luy vostre cœur.</l>
+          </sp>
+          <sp who="flore">
+            <l n="166" xml:id="l166">Venez voir couronner vos tendres amourettes,</l>
+            <l n="167" xml:id="l167">Et recevoir le premier de ses dons?</l>
+            <l n="168" xml:id="l168">Ah! pour un plus heureux on garde les fleurettes,</l>
+            <l n="169" xml:id="l169" part="I">Pour vous l’Epine et les chardons?</l>
+          </sp>
+          <sp who="flore venilie">
+            <l part="F">Ah!</l>
+          </sp>
+          <sp who="flore venilie juturne">
+            <l n="170" xml:id="l170">Ah ! Pour un plus heureux on garde, on garde les fleurettes,</l>
+            <l n="171" xml:id="l171">Pour vous, Pour vous l’Epine et les chardons.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="faune">
+            <l n="172" xml:id="l172">Voila le prix de vos Musiques,</l>
+            <l n="173" xml:id="l173">Et ce que meritent vos Chans?</l>
+            <l n="174" xml:id="l174">Voila le prix, Voila le prix de vos Musiques.</l>
+            <p rend="b">SECONDE ENTRÉE DES BOUVIERS. </p>
+          </sp>
+          <sp who="dieudesjardins">
+            <l n="175" xml:id="l175">Voila le fruit du Dieu des Champs,</l>
+            <l n="176" xml:id="l176">
+              <hi rend="b">Et dequoy paistre ses bourriques. <hi rend="i">(bis)</hi> </hi>
+            </l>
+          </sp>
+          <sp who="jardinier1 jardinier2 jardinier3">
+            <l n="177" xml:id="l177">Voicy le fruit du Dieu des Champs,</l>
+            <l n="178" xml:id="l178"> Et dequoy paistre, paistre ses bourriques.</l>
+            <l n="179" xml:id="l179">Voicy le fruit du Dieu des Champs,</l>
+            <l n="180" xml:id="l180">
+              <hi rend="b">Et dequoy paistre ses bourriques. <hi rend="i">(bis)</hi></hi>
+            </l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="vertumne">
+            <l n="181" xml:id="l181">Helas ! Que me sert-il de changer tous les jours</l>
+            <l n="182" xml:id="l182">De forme et de figure,</l>
+            <l n="183" xml:id="l183">Et de me déguiser à toute la nature,</l>
+            <l n="184" xml:id="l184">Si je ne puis changer l’objet de mes amours :</l>
+            <l n="185" xml:id="l185">J’ayme une insensible Maistresse,</l>
+            <l n="186" xml:id="l186">Une ingrate et fiere Déesse,</l>
+            <l n="187" xml:id="l187">Qui se rit du tourment,</l>
+            <l n="188" xml:id="l188">Et des soins d’un Amant:</l>
+            <l n="189" xml:id="l189" part="I"> Que ferons-nous mon cœur</l>
+            <l part="F">en des peines si dures?</l>
+            <l n="190" xml:id="l190">Ah! Puisque vainement je dirois mes langeurs,</l>
+            <l n="191" xml:id="l191">Il faut nous transformer, et sous d’autres figures,</l>
+            <l n="192" xml:id="l192">Tacher de vaincre ses rigueurs:</l>
+            <l n="193" xml:id="l193"> Vous que le Ciel soûmet à mon obeïssance?</l>
+            <l n="194" xml:id="l194">Hola!folets venez, volez, suivez mes pas;</l>
+            <l n="195" xml:id="l195"> Mais ne vous montrez pas, </l>
+            <l n="196" xml:id="l196">A mes loix seulement rendez obeïssance.</l>
+            <p rend="center">Fin du premier Acte.</p>
+            <p><hi rend="sc">Entr’acte. [</hi>INTERMEDE I. Symphonie.]</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <div type="scene">
+          <sp who="beroe">
+            <l n="197" xml:id="l197">Ah! N’est-ce pas assez qu’on ayme et qu’on soûpire,</l>
+            <l n="198" xml:id="l198">Pendant le cours de sa jeune saison?</l>
+            <l n="199" xml:id="l199">Pourquoy faut-il amour étendre ton empire.</l>
+            <l n="200" xml:id="l200">Jusques sur nostre aage grison:</l>
+            <l n="201" xml:id="l201">Malgré tous mes efforts, malgré toutes mes feintes,</l>
+            <l n="202" xml:id="l202"> Je sens vivre tes feux dans mes cendres éteintes,</l>
+            <l n="203" xml:id="l203"> D’une cruelle ardeur je me voy, je me voy consumer,</l>
+            <l n="204" xml:id="l204"> Que la glace des ans ne fait que r’allumer:</l>
+            <l n="205" xml:id="l205">J’ayme un Dieu, le voicy, tachons de le surprendre,</l>
+            <l n="206" xml:id="l206">Il resve à ses amours, </l>
+            <l n="207" xml:id="l207">Cachons-nous pour l’entendre.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="vertumne">
+            <l n="208" xml:id="l208">O Doux Zephir vous enflammez la terre par vos soûpirs,</l>
+            <l n="209" xml:id="l209">Et de vos pleurs,</l>
+            <l n="210" xml:id="l210"> On voit dans ce parterre naistre des fleurs?</l>
+            <l n="211" xml:id="l211">Helas! Ainsi que vous je suis tendre et fidelle, discret et doux,</l>
+            <l n="212" xml:id="l212">Et mes douleurs ne touchent point la belle</l>
+            <l n="213" xml:id="l213">Pour qui je meurs.</l>
+            <l n="214" xml:id="l214">Mais pourquoy tant gemir, poursuy ton entreprise,</l>
+            <l n="215" xml:id="l215">Lasche c’est trop se plaindre et soûpirer en vain,</l>
+            <l n="216" xml:id="l216">Use de ton pouvoir divin,</l>
+            <l n="217" xml:id="l217">Joins à l’amour la ruse et la surprise;</l>
+            <l n="218" xml:id="l218">Il faut l’attendre icy dans ce boccage vert,</l>
+            <l n="219" xml:id="l219">Elle y cherche souvent le frais et le couvert.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="beroe">
+            <l n="220" xml:id="l220">Quoy? Toûjours inflexible,</l>
+            <l n="221" xml:id="l221">Toûjours sourd à mes vœux,</l>
+            <l n="222" xml:id="l222">Et toûjours amoureux</l>
+            <l n="223" xml:id="l223">D’une belle insensible.</l>
+          </sp>
+          <sp who="vertumne">
+            <l n="224" xml:id="l224">Le ridicule objet,</l>
+            <l n="225" xml:id="l225"> l’Enfer l’amene icy pour troubler mon projet.</l>
+          </sp>
+          <sp who="beroe">
+            <l n="226" xml:id="l226" part="I">Quoy? Tant d’amour. ingrat:</l>
+          </sp>
+          <sp who="vertumne">
+            <l part="F">Evitons sa poursuite?</l>
+          </sp>
+          <sp who="beroe">
+            <l n="227" xml:id="l227">Arreste et voy du moins ma peine et mes langueurs,</l>
+            <l n="228" xml:id="l228">Un moment encor et je meurs.</l>
+          </sp>
+          <sp who="vertumne">
+            <l n="229" xml:id="l229">Il faut l’épouvanter et luy donner la fuite?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <sp who="beroe">
+            <l n="230" xml:id="l230">Que voyez-vous mes yeux,</l>
+            <l n="231" xml:id="l231">Quel Dragon furieux ;</l>
+            <l n="232" xml:id="l232"> Mais non r’assurons-nous, c’est luy qui se transforme</l>
+            <l n="233" xml:id="l233">En ce Monstre difforme ?</l>
+            <l n="234" xml:id="l234">Hé bien ? Hé bien, cruel saoule toy de mon sang,</l>
+            <l n="235" xml:id="l235">Contente ton envie,</l>
+            <l n="236" xml:id="l236">Dechire-moy le flanc,</l>
+            <l n="237" xml:id="l237">Arrache-moy la vie,</l>
+            <l n="238" xml:id="l238">Je beniray mon sort,</l>
+            <l n="239" xml:id="l239">Et je ne puis mourir,</l>
+            <l n="240" xml:id="l240"> Et je ne puis mourir d’une plus douce mort ?</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <l n="241" xml:id="l241">Mais quel éclair, quel horrible tonnerre,</l>
+          <l n="242" xml:id="l242">Quel tremblement de terre ?</l>
+          <l n="243" xml:id="l243">Quels fantosmes affreux et quelles visions ?</l>
+          <l n="244" xml:id="l244"> Que de Monstres armez, de feu, de fer, de foudre,</l>
+          <l n="245" xml:id="l245">Pour me reduire en poudre ?</l>
+          <l n="246" xml:id="l246"> Je vous connois folets et vos illusions ;</l>
+          <l n="247" xml:id="l247"> Vous croyez m’étonner par ces alarmes feintes,</l>
+          <l n="248" xml:id="l248">Et me joüer à vostre tour :</l>
+          <l n="249" xml:id="l249">Mais l’on ne peut for-</l>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

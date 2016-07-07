@@ -1,0 +1,2861 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <text>
+    <body>
+      <div xml:id="acteurs"/>
+      <div xml:id="I" type="act">
+        <div type="scene" xml:id="I01">
+          <sp xml:id="I01-1" who="alcipe">
+            <l n="1" xml:id="l1">Arreste, nous voicy dans la ruë, où demeure<pb n="A ; 1"/></l>
+            <l n="2" xml:id="l2">L’inflexible beauté, qui <ref target="#consentir">consent*</ref> que je meure ;</l>
+            <l n="3" xml:id="l3" part="I">J’apperçoy son logis.</l>
+          </sp>
+          <sp xml:id="I01-2" who="sylvain">
+            <l part="F">Appercevez aussi</l>
+            <l n="4" xml:id="l4">Que de vostre tourment elle a peu de soucy.</l>
+            <l n="5" xml:id="l5">Depuis cinq ou six mois que vous brûlez pour elle,<pb n=" 2"/></l>
+            <l n="6" xml:id="l6">Ne vous est elle pas également cruelle ?</l>
+            <l n="7" xml:id="l7">L’absence d’un mari vous flate sans raison,</l>
+            <l n="8" xml:id="l8">L’amour qu’elle luy porte, est sans comparaison.</l>
+            <l n="9" xml:id="l9">En quelque lieu qu’il soit, il possede son ame,</l>
+            <l n="10" xml:id="l10">Et la vertu du sexe, est toute en cette femme ;</l>
+            <l n="11" xml:id="l11">Je ne suis qu’un valet ignorant et brutal,</l>
+            <l n="12" xml:id="l12">Mais si vous me croyez, vous ne feriez pas mal,</l>
+            <l n="13" xml:id="l13">Cessez d’une poursuite <ref target="#juste">injuste*</ref> autant que vaine,</l>
+            <l n="14" xml:id="l14">Vous ferez plus ailleurs avecques moins de peine</l>
+            <l n="15" xml:id="l15">Et n’offencerez pas dans vostre passion,</l>
+            <l n="16" xml:id="l16">D’un ancien amy la pure affection.</l>
+          </sp>
+          <sp xml:id="I01-3" who="alcipe">
+            <l n="17" xml:id="l17">Oüy, tu n’es qu’un valet, ce propos me le montre ;</l>
+            <l n="18" xml:id="l18">L’on ne respecte rien en pareille <ref target="#rencontre">rencontre*</ref>.</l>
+            <l n="19" xml:id="l19">Les plus parfaits amis, les plus proches parents</l>
+            <l n="20" xml:id="l20">Ne passent en amour que pour indifferents.</l>
+            <l n="21" xml:id="l21">Leandre, je l’avouë, est bien dans mon estime ;</l>
+            <l n="22" xml:id="l22">Mon bras pour le servir tiendroit tout legitime :</l>
+            <l n="23" xml:id="l23">Mais au terme où sa femme aujourd’huy m’a rendu ;</l>
+            <l n="24" xml:id="l24">Croy que pour en joüyr, rien ne m’est deffendu.</l>
+            <l n="25" xml:id="l25">Suy moi sans repliquer, je m’en vais à sa porte</l>
+            <l n="26" xml:id="l26">Prendre l’occasion que quelqu’un entre ou sorte.</l>
+            <l n="27" xml:id="l27" part="I">Esteind donc le flambeau.</l>
+          </sp>
+          <sp xml:id="I01-4" who="sylvain">
+            <l part="M">Cela vaut fait.<pb n="3" xml:id="p3"/></l>
+          </sp>
+          <sp xml:id="I01-5" who="alcipe">
+            <l part="F">Allons,</l>
+            <l n="28" xml:id="l28">Mais ciel qu’heureusement j’entens des violons !</l>
+            <l n="29" xml:id="l29">Ils ne sont au plus loin qu’en la place prochaine :</l>
+            <l n="30" xml:id="l30">Si tu m’aimes Sylvain, cours viste et les ameine :</l>
+            <l n="31" xml:id="l31">De ces doux instrumens les sons melodieux</l>
+            <l n="32" xml:id="l32">Divertiront l’<ref target="#objet">objet*</ref> qui plaist tant à mes yeux.</l>
+            <l n="33" xml:id="l33">Leandre c’est trop tard que tu me fais reproche,</l>
+            <l n="34" xml:id="l34">J’aime trop mes plaisirs, et je m’en croy trop proche.</l>
+            <l n="35" xml:id="l35">Donne tréve à la plainte, et c’est un vain discours</l>
+            <l n="36" xml:id="l36">Qui ne peut m’empécher d’arriver où je cours.</l>
+            <l n="37" xml:id="l37">Tu m’opposes la loy d’une amitié jurée,</l>
+            <l n="38" xml:id="l38">J’oppose à ceste loy tous les <ref target="#charme2">charmes*</ref> d’Astrée.</l>
+            <l n="39" xml:id="l39">Selon les sentimens d’un coeur comme le mien,</l>
+            <l n="40" xml:id="l40">Où l’on void tant d’<ref target="#appas">appas*</ref>, un amy n’est plus rien.</l>
+            <l n="41" xml:id="l41">Son respect peut beaucoup ; mais sa force est petite,</l>
+            <l n="42" xml:id="l42">Où la beauté se treuve avecque le merite ;</l>
+            <l n="43" xml:id="l43">Astrée a l’une et l’autre, et cét <ref target="#objet">objet*</ref> <ref target="#charme2">charmant*</ref></l>
+            <l n="44" xml:id="l44">Me rend traistre envers toy sans mon consentement :</l>
+            <l n="45" xml:id="l45">Quelque attrait qu’en ses yeux je découvre et j’admire,<pb n="4" xml:id="p4"/></l>
+            <l n="46" xml:id="l46">Je ne m’y porte pas, leur vif éclat m’attire,</l>
+            <l n="47" xml:id="l47">Et vouloir resister à leurs puissans <ref target="#effort2">efforts*</ref>,</l>
+            <l n="48" xml:id="l48">C’est m’estreindre de noeuds plus <ref target="#preignant">preignants*</ref> et plus forts.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I02">
+          <sp xml:id="I02-1" who="alcipe">
+            <l n="49" xml:id="l49">Amis concertez vous, et que vostre harmonie</l>
+            <l n="50" xml:id="l50">Soulage, s’il se peut ma langueur infinie,</l>
+            <l n="51" xml:id="l51">Par vos divers accords essayez de toucher</l>
+            <l n="52" xml:id="l52">Un esprit insensible ou plûtost un rocher.</l>
+            <l n="53" xml:id="l53">C’est assez, quelqu’un vient d’ouvrir une fenestre :</l>
+            <l n="54" xml:id="l54">Retirez vous, Sylvain songe à les reconnoistre.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I03">
+          <sp xml:id="I03-1" who="astree">
+            <l n="55" xml:id="l55" part="I">N’est-ce pas vous Alcipe ?<pb n="5" xml:id="p5"/></l>
+          </sp>
+          <sp xml:id="I03-2" who="alcipe">
+            <l part="F">Oüy, Madame, c’est moy,</l>
+            <l n="56" xml:id="l56">Avec tout le respect et l’amour que je doy.</l>
+          </sp>
+          <sp xml:id="I03-3" who="astree">
+            <l n="57" xml:id="l57">Puis qu’en un fol espoir vostre coeur persevere,</l>
+            <l n="58" xml:id="l58">Retenez les avis d’une femme en cholere :</l>
+            <l n="59" xml:id="l59">Alcippe, je suis lasse, et vos vaines ardeurs</l>
+            <l n="60" xml:id="l60">Bien loing de m’enflamer augmentent mes froideurs.</l>
+            <l n="61" xml:id="l61">J’ay long-temps par mépris negligé vostre peine ;</l>
+            <l n="62" xml:id="l62">Mais ce mépris se change en une forte haine.</l>
+            <l n="63" xml:id="l63">Evitez-en l’effet, en vous ostant du sein</l>
+            <l n="64" xml:id="l64">L’espoir d’executer vostre lâche dessein :</l>
+            <l n="65" xml:id="l65">Pour estre sans mari, ma vertu n’est pas moindre.</l>
+            <l n="66" xml:id="l66">A vostre vain <ref target="#effort1">effort*</ref>, l’enfer se pourroit joindre ;</l>
+            <l n="67" xml:id="l67">Tout l’Univers enfin me viendroit assaillir,<pb n="6" xml:id="p6"/></l>
+            <l n="68" xml:id="l68">Sans qu’en ce grand assaut mon honneur pût faillir.</l>
+            <l n="69" xml:id="l69">Apres un tel discours qu’avez-vous à <ref target="#pretendre">pretendre*</ref> ?</l>
+            <l n="70" xml:id="l70">Craignez, craignez plustost le retour de Leandre.</l>
+            <l n="71" xml:id="l71">Il viendra pour punir vos projets insensez,</l>
+            <l n="72" xml:id="l72">Plustost que je ne dis, et que vous ne pensez.</l>
+            <l n="73" xml:id="l73">Adieu, nourrissez-vous d’esperances frivolles ;</l>
+            <l n="74" xml:id="l74">Mais interpretez bien mes dernieres parolles.</l>
+          </sp>
+          <sp xml:id="I03-4" who="sylvain">
+            <l n="75" xml:id="l75" part="I">Qu’en dites-vous, Monsieur ?</l>
+          </sp>
+          <sp xml:id="I03-5" who="alcipe">
+            <l part="F">Menace ni mépris,</l>
+            <l n="76" xml:id="l76">Ne me peut destourner du chemin que j’ay pris,</l>
+            <l n="77" xml:id="l77">Deussè-je avec l’honneur y perdre la lumiere,</l>
+            <l n="78" xml:id="l78">Je veux aller au bout, et franchir la carriere.</l>
+          </sp>
+          <sp xml:id="I03-6" who="sylvain">
+            <l n="79" xml:id="l79">Comment le pourrez vous, si Leandre revient ?</l>
+          </sp>
+          <sp xml:id="I03-7" who="alcipe">
+            <l n="80" xml:id="l80">L’on m’en a menacé, Sylvain, il m’en souvient,</l>
+            <l n="81" xml:id="l81">Mais je connois assez que l’ingratte que j’aime,</l>
+            <l n="82" xml:id="l82">Pour esprouver mon coeur, trouve ce stratagéme.</l>
+            <l n="83" xml:id="l83">C’est pour mieux s’asseurer si je suis resolu,<pb n="7" xml:id="p7"/></l>
+            <l n="84" xml:id="l84">Et ne me dédis point de ce que j’ay voulu.</l>
+            <l n="85" xml:id="l85">Mais que Leandre vienne ; et qu’apres tout sa femme,</l>
+            <l n="86" xml:id="l86">D’un langage <ref target="#indiscret">indiscret*</ref> luy découvre ma flame,</l>
+            <l n="87" xml:id="l87">Je n’ignore pas l’art de luy persuader</l>
+            <l n="88" xml:id="l88">Que je m’en tenois prés, afin de la garder ;</l>
+            <l n="89" xml:id="l89" part="I">Que je ne la priois…</l>
+          </sp>
+          <sp xml:id="I03-8" who="sylvain">
+            <l part="F">Monsieur, quelqu’un s’avance.</l>
+          </sp>
+          <sp xml:id="I03-9" who="alcipe">
+            <l n="90" xml:id="l90">Tirons nous à l’écart, et gardons le silence.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I04">
+          <sp xml:id="I04-1" who="picard">
+            <l n="91" xml:id="l91">Malgré l’ombre et l’horreur de cet air obscurcy,<pb n="8" xml:id="p8"/></l>
+            <l n="92" xml:id="l92">Je ne me trompe pas : <ref target="#heurter">heurtons*</ref> fort, c’est icy.</l>
+          </sp>
+          <sp xml:id="I04-2" who="alcipe">
+            <l n="93" xml:id="l93">A voir de ce garçon l’habit et la <ref target="#posture">posture*</ref>,</l>
+            <l n="94" xml:id="l94">Il semble un <ref target="#officier">officier*</ref> du <ref target="#bureau">Bureau*</ref> de Mercure.</l>
+          </sp>
+          <sp xml:id="I04-3" who="picard">
+            <l n="95" xml:id="l95">Déja dans ce logis chacun est endormi,</l>
+            <l n="96" xml:id="l96">Redoublons toutesfois en Maistre, ou comme ami.</l>
+          </sp>
+          <sp xml:id="I04-4" who="alcipe">
+            <l n="97" xml:id="l97">Ah ! je n’en doute plus, c’est un de ces infames,</l>
+            <l n="98" xml:id="l98">Qui vendent la jeunesse et la beauté des femmes ;</l>
+            <l n="99" xml:id="l99">L’infidelle à dessein m’a traitté rudement ;</l>
+            <l n="100" xml:id="l100">Pour s’aller divertir avec un autre amant.</l>
+          </sp>
+          <sp xml:id="I04-5" who="astree">
+            <l n="101" xml:id="l101">Insolent c’en est trop, vostre impudence est telle,<pb n="9 ; B"/></l>
+            <l n="102" xml:id="l102">Qu’un propos de mépris, n’est pas assez pour elle :</l>
+            <l n="103" xml:id="l103">Je ne sçay qui me tient, qu’en mon <ref target="#juste">juste*</ref> courroux</l>
+            <l n="104" xml:id="l104">Je ne fasse sortir les voisins <ref target="#dessus">dessus*</ref> vous.</l>
+            <l n="105" xml:id="l105"><ref target="#heurter">Heurter*</ref> violemment, et de nuit à ma porte !</l>
+            <l n="106" xml:id="l106">Traitte-t’on de cét air les femmes de ma sorte ?</l>
+            <l n="107" xml:id="l107" part="I">Retirez-vous, ou bien.</l>
+          </sp>
+          <sp xml:id="I04-6" who="picard">
+            <l part="F">Cette male-façon</l>
+            <l n="108" xml:id="l108">Fay naistre en mon esprit je ne sçay quel soupçon ;</l>
+            <l n="109" xml:id="l109" part="I">Mais desabusons-la.</l>
+          </sp>
+          <sp xml:id="I04-7" who="astree">
+            <l part="F">Quelle audace est la vostre ?</l>
+          </sp>
+          <sp xml:id="I04-8" who="picard">
+            <l n="110" xml:id="l110">Madame, appaisez-vous, vous prenez l’un pour l’autre,</l>
+            <l n="111" xml:id="l111" part="I">Je suis valet d’Orphise.</l>
+          </sp>
+          <sp xml:id="I04-9" who="astree">
+            <l part="F">Ah ! bon Dieu que j’ay tort !</l>
+            <l n="112" xml:id="l112">Pourquoy viens-tu si tard, et <ref target="#heurter">heurtes*</ref>-tu si fort ?</l>
+          </sp>
+          <sp xml:id="I04-10" who="picard">
+            <l n="113" xml:id="l113">Pour vous donner advis de venir <ref target="#tout-a-heure">tout à l’heure*</ref>,<pb n="10" xml:id="p10"/></l>
+            <l n="114" xml:id="l114">Autrement sans vous voir, il faudra qu’elle meure.</l>
+          </sp>
+          <sp xml:id="I04-11" who="astree">
+            <l n="115" xml:id="l115">Quel mal à ma cousine est-il donc survenu ?</l>
+          </sp>
+          <sp xml:id="I04-12" who="picard">
+            <l n="116" xml:id="l116">Je ne vous le puis dire, il ne m’est pas connu.</l>
+          </sp>
+          <sp xml:id="I04-13" who="astree">
+            <l n="117" xml:id="l117" part="I">Attends moy, je m’en vay.</l>
+          </sp>
+          <sp xml:id="I04-14" who="sylvain">
+            <l part="F">Vostre esprit quand j’y pense,</l>
+            <l n="118" xml:id="l118">Establit un soupçon <ref target="#dessus">dessus*</ref> peu d’apparence.</l>
+          </sp>
+          <sp xml:id="I04-15" who="alcipe">
+            <l n="119" xml:id="l119">Que veux-tu, tout me choque, et quiconque aime bien,</l>
+            <l n="120" xml:id="l120">Craind, pense mal de tout, et ne se fie à rien.</l>
+          </sp>
+          <sp xml:id="I04-16" who="picard">
+            <l n="121" xml:id="l121">A qui pouvoit Astrée addresser ses menaces ?</l>
+            <l n="122" xml:id="l122">Peut-estre à quelque Amant hors de ses bonnes graces.</l>
+            <l n="123" xml:id="l123">Quelque galand <ref target="#possible">possible*</ref> autresfois en faveur,<pb n="11" xml:id="p11"/></l>
+            <l n="124" xml:id="l124">Est aujourd’huy puni d’avoir esté causeur,</l>
+            <l n="125" xml:id="l125">L’apparence à cela donne quelque ouverture.</l>
+            <l n="126" xml:id="l126">L’absence de Leandre en croist la conjecture,</l>
+            <l n="127" xml:id="l127">Toutesfois, tels soupçons souvent sont mal conceus,</l>
+            <l n="128" xml:id="l128">Et d’ailleurs je n’ay rien à gloser là dessus.</l>
+          </sp>
+          <sp xml:id="I04-17" who="alcipe">
+            <l n="129" xml:id="l129">Voyez l’opinion de ce dernier des hommes.</l>
+          </sp>
+          <sp xml:id="I04-18" who="astree">
+            <l n="130" xml:id="l130">Allons, ce n’est pas loing : en trois pas nous y sommes.</l>
+          </sp>
+          <sp xml:id="I04-19" who="alcipe">
+            <l n="131" xml:id="l131">L’occasion est belle, agissons sans parler.</l>
+          </sp>
+          <sp xml:id="I04-20" who="sylvain">
+            <l n="132" xml:id="l132">Monsieur, que pensez-vous ? où voulez vous aller ?</l>
+          </sp>
+          <sp xml:id="I04-21" who="alcipe">
+            <l n="133" xml:id="l133">Sylvain, je la veux suivre, et puisque la prière</l>
+            <l n="134" xml:id="l134">Ne peut rien m’obtenir de cette femme altiere,</l>
+            <l n="135" xml:id="l135">Je me sens resolu dans mes brûlans <ref target="#transport">transports*</ref>,</l>
+            <l n="136" xml:id="l136">Pour vaincre son orgueil, d’en venir aux <ref target="#effort1">efforts*</ref>.</l>
+          </sp>
+          <sp xml:id="I04-22" who="sylvain">
+            <l n="137" xml:id="l137">Surmontez cette humeur, et si chaude et si prompte.<pb n="12" xml:id="p12"/></l>
+            <l n="138" xml:id="l138">Vous verrez vos <ref target="#effort1">efforts*</ref> tourner à vostre honte.</l>
+            <l n="139" xml:id="l139">Les voisins sortiront au moindre de ses cris,</l>
+            <l n="140" xml:id="l140">Et vous aurez l’affront de fuyr, ou d’estre pris.</l>
+          </sp>
+          <sp xml:id="I04-23" who="alcipe">
+            <l n="141" xml:id="l141">Il ne m’importe pas ; cette fiere ennemie</l>
+            <l n="142" xml:id="l142">Aura du moins sa part dedans cette infamie.</l>
+            <l n="143" xml:id="l143">Allons sans plus tarder, au poinct de son retour,</l>
+            <l n="144" xml:id="l144">Contenter à la fois ma haine et mon amour.</l>
+          </sp>
+          <sp xml:id="I04-24" who="sylvain">
+            <l n="145" xml:id="l145" part="I">Monsieur, encor un coup.</l>
+          </sp>
+          <sp xml:id="I04-25" who="alcipe">
+            <l part="M">Tay toy.</l>
+          </sp>
+          <sp xml:id="I04-26" who="sylvain">
+            <l part="F">Pour vous je tremble.</l>
+          </sp>
+          <sp xml:id="I04-27" who="alcipe">
+            <l n="146" xml:id="l146">Retirons nous d’icy, quelqu’un vient, ce me semble.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I05">
+          <sp xml:id="I05-1" who="leandre">
+            <l n="147" xml:id="l147">Je rends graces au Ciel, nous sommes arrivez ;<pb n="13" xml:id="p13"/></l>
+            <l n="148" xml:id="l148">J’en sens plus de plaisir que vous n’en concevez.</l>
+          </sp>
+          <sp xml:id="I05-2" who="filemon">
+            <l n="149" xml:id="l149">Je me trouve lassé du chemin et du coche.</l>
+          </sp>
+          <sp xml:id="I05-3" who="leandre">
+            <l n="150" xml:id="l150">Vous vous delasserez, nostre logis est proche.</l>
+            <l n="151" xml:id="l151">Avec affection, nous vous y recevrons,</l>
+            <l n="152" xml:id="l152">Et vous serez traitté le mieux que nous pourrons.</l>
+          </sp>
+          <sp xml:id="I05-4" who="filemon">
+            <l n="153" xml:id="l153">Sans autre <ref target="#compliment">compliment*</ref>, cher amy, je vous prie ;</l>
+            <l n="154" xml:id="l154">Permettez moy d’aller en mon <ref target="#hostellerie">Hostellerie*</ref>.</l>
+            <l n="155" xml:id="l155">Ne vous opposez pas à ce <ref target="#juste">juste*</ref> desir.</l>
+          </sp>
+          <sp xml:id="I05-5" who="leandre">
+            <l n="156" xml:id="l156">J’Escoute ce discours avec peu de plaisir.</l>
+            <l n="157" xml:id="l157">Quoy j’auray fait chez vous si long-temps ma demeure,<pb n="14" xml:id="p14"/></l>
+            <l n="158" xml:id="l158">Et vous iriez ailleurs ? non ferez, ou je meure,</l>
+            <l n="159" xml:id="l159">Il ne faut que <ref target="#heurter">heurter*</ref>, voicy nostre maison.</l>
+          </sp>
+          <sp xml:id="I05-6" who="filemon">
+            <l n="160" xml:id="l160" part="I">Adieu.</l>
+          </sp>
+          <sp xml:id="I05-7" who="leandre">
+            <l part="F">De tels Adieux ne sont pas de saison,</l>
+            <l n="161" xml:id="l161">Vivons avec <ref target="#franchise">franchise*</ref>, et méprisons la mode.</l>
+          </sp>
+          <sp xml:id="I05-8" who="filemon">
+            <l n="162" xml:id="l162">Faut-il qu’à mon sujet, chez vous l’on s’incommode ?</l>
+          </sp>
+          <sp xml:id="I05-9" who="leandre">
+            <l n="163" xml:id="l163">Certes vous agissez d’autre <ref target="#air">air*</ref> que je n’agis :</l>
+            <l n="164" xml:id="l164">Ce propos, Filemon, me <ref target="#piquer1">pique*</ref>, et j’en rougis.</l>
+          </sp>
+          <sp xml:id="I05-10" who="filemon">
+            <l n="165" xml:id="l165">Mais me dois-je produire en habit de campagne ?</l>
+          </sp>
+          <sp xml:id="I05-11" who="leandre">
+            <l n="166" xml:id="l166">La grace et l’<ref target="#air">air*</ref> de Cour toûjours vous accompagne.</l>
+          </sp>
+          <sp xml:id="I05-12" who="filemon">
+            <l n="167" xml:id="l167">Leandre encor un coup, s’il vous plaist, consentez.</l>
+          </sp>
+          <sp xml:id="I05-13" who="leandre">
+            <l n="168" xml:id="l168">Je m’offence à la fin de vos civilitez.<pb n="15" xml:id="p15"/></l>
+            <l n="169" xml:id="l169">Aucun ne nous répond, ma femme est endormie.</l>
+          </sp>
+          <sp xml:id="I05-14" who="filemon">
+            <l n="170" xml:id="l170">Il se peut faire en ville avecques quelque amie. </l>
+          </sp>
+          <sp xml:id="I05-15" who="leandre">
+            <l n="171" xml:id="l171">Des maximes qu’elle a, vous estes mal instruit,</l>
+            <l n="172" xml:id="l172">Elle sort peu de jour, et point du tout de nuit :</l>
+            <l n="173" xml:id="l173">Quoy que belle, que jeune, et que Parisienne,</l>
+            <l n="174" xml:id="l174">L’on trouve peu d’<ref target="#humeurs">humeurs*</ref> semblables à la sienne ;</l>
+            <l n="175" xml:id="l175">Elle aime la retraitte, et fait son entretien</l>
+            <l n="176" xml:id="l176">D’un Livre, dont l’Autheur à son gré parle bien.</l>
+            <l n="177" xml:id="l177">Elle ne fut jamais jusqu’à ce point hardie,</l>
+            <l n="178" xml:id="l178">De voir sans mon <ref target="#aveu">aveu*</ref>, ni bal, ni <ref target="#comedie">Comedie*</ref> ;</l>
+            <l n="179" xml:id="l179">Et croit trop accorder à ses yeux innocens,</l>
+            <l n="180" xml:id="l180">Quand par une fenestre, elle void les passans.</l>
+          </sp>
+          <sp xml:id="I05-16" who="filemon">
+            <l n="181" xml:id="l181">De son sexe elle est donc l’exemple et la merveille,</l>
+            <l n="182" xml:id="l182">Et Paris n’en a pas encor une pareille ;</l>
+            <l n="183" xml:id="l183">Cependant, entre nous, je diray, s’il vous plaist</l>
+            <l n="184" xml:id="l184">Qu’on tarde à demander qui <ref target="#heurter">heurte*</ref>, et ce que c’est.</l>
+          </sp>
+          <sp xml:id="I05-17" who="leandre">
+            <l n="185" xml:id="l185">Je m’en vay redoubler, mais d’une main si forte,<pb n="16" xml:id="p16"/></l>
+            <l n="186" xml:id="l186">Que s’ils ne sont tous morts, ils viendront à la porte.</l>
+          </sp>
+          <sp xml:id="I05-18" who="filemon">
+            <l n="187" xml:id="l187">Certes apres ce bruit, il nous sera permis</l>
+            <l n="188" xml:id="l188">De les estimer morts aussi-tost qu’endormis.</l>
+            <l n="189" xml:id="l189">Les vitres ont tremblé de ces coups de tonnerre,</l>
+            <l n="190" xml:id="l190">Et j’ay <ref target="#dessous">dessous*</ref> mes pieds senty fremir la terre.</l>
+          </sp>
+          <sp xml:id="I05-19" who="leandre">
+            <l n="191" xml:id="l191">L’on ne vient point ouvrir ; surpris, triste, confus,</l>
+            <l n="192" xml:id="l192">Et troublé de soupçons, si jamais je le fus,</l>
+            <l n="193" xml:id="l193">Je croy trop convaincu d’une telle apparence,</l>
+            <l n="194" xml:id="l194">Qu’Astrée indignement me traitte en mon absence.</l>
+          </sp>
+          <sp xml:id="I05-20" who="filemon">
+            <l n="195" xml:id="l195">N’ayez pas ce penser d’un miracle d’amour,</l>
+            <l n="196" xml:id="l196">Qui ne sort point de nuit, et rarement de jour ;</l>
+            <l n="197" xml:id="l197">D’une Parisienne, et jeune, et bien aimable,</l>
+            <l n="198" xml:id="l198">Dont le bon naturel n’eut jamais de semblable ;</l>
+            <l n="199" xml:id="l199">Qui se plaist d’estre seule, et qu’un Livre bien-fait</l>
+            <l n="200" xml:id="l200">Du soir jusqu’au matin instruit et satisfait.</l>
+            <l n="201" xml:id="l201">D’une femme soûmise, et qui vous idolatre,</l>
+            <l n="202" xml:id="l202">Jusqu’à vous consulter pour aller au Theatre ;</l>
+            <l n="203" xml:id="l203">Et qui croit qu’à ses yeux c’est beaucoup accorder,<pb n="17 ; C"/></l>
+            <l n="204" xml:id="l204">De souffrir qu’en la ruë ils puissent regarder.</l>
+          </sp>
+          <sp xml:id="I05-21" who="leandre">
+            <l n="205" xml:id="l205">Est-ce ainsi qu’en raillant, amy, tu me consoles ?</l>
+            <l n="206" xml:id="l206">Pourquoy m’adresses-tu ces piquantes paroles ?</l>
+            <l n="207" xml:id="l207">Il est vray que l’ingratte avec son suborneur,</l>
+            <l n="208" xml:id="l208">Sans respect de l’<ref target="#hymen">Hymen*</ref>, me blesse dans l’honneur.</l>
+            <l n="209" xml:id="l209">Je n’en doy plus douter, l’apparence l’asseure,</l>
+            <l n="210" xml:id="l210">Et je l’apperçoy trop dans cette nuit obscure.</l>
+          </sp>
+          <sp xml:id="I05-22" who="filemon">
+            <l n="211" xml:id="l211" part="I"><ref target="#heurter">Heurtez*</ref> encor un coup.</l>
+          </sp>
+          <sp xml:id="I05-23" who="leandre">
+            <l part="F">Je le feray sans fruit.</l>
+          </sp>
+          <sp xml:id="I05-24" who="un-voisin">
+            <l n="212" xml:id="l212">Qui sont ceux qui là bas font si long-temps du bruit ?</l>
+          </sp>
+          <sp xml:id="I05-25" who="leandre">
+            <l n="213" xml:id="l213">Mon amy, c’est Leandre, ou le mari d’Astrée.</l>
+          </sp>
+          <sp xml:id="I05-26" who="un-voisin">
+            <l n="214" xml:id="l214">Un quart-d’heure plustost, vous l’eussiez rencontrée ;</l>
+            <l n="215" xml:id="l215">Elle est sortie alors, pour aller secourir<pb n="18" xml:id="p18"/></l>
+            <l n="216" xml:id="l216">Sa cousine malade en danger de mourir.</l>
+          </sp>
+          <sp xml:id="I05-27" who="leandre">
+            <l n="217" xml:id="l217">Il me suffit, voisin, je vous en remercie ;</l>
+            <l n="218" xml:id="l218">Que d’un doutte fâcheux, mon ame est éclaircie !</l>
+            <l n="219" xml:id="l219">Soupçon injurieux, mensonge que je hays !</l>
+            <l n="220" xml:id="l220">Va, sors de mon esprit, et n’y rentre jamais.</l>
+            <l n="221" xml:id="l221">Vous avez comme moy, mal pensé de ma femme.</l>
+          </sp>
+          <sp xml:id="I05-28" who="filemon">
+            <l n="222" xml:id="l222">L’on garde comme vous un déplaisir en l’ame.</l>
+          </sp>
+          <sp xml:id="I05-29" who="leandre">
+            <l n="223" xml:id="l223">Vous plaist-il demeurer icy seul un moment,</l>
+            <l n="224" xml:id="l224">Je vay chez ma parente, et reviens promptement.</l>
+          </sp>
+          <sp xml:id="I05-30" who="filemon">
+            <l n="225" xml:id="l225">Volontiers, qu’aisément <ref target="#dessus">dessus*</ref> peu d’apparence,</l>
+            <l n="226" xml:id="l226">Il nous arrive à tous d’accuser l’innocence !</l>
+            <l n="227" xml:id="l227">Mais où va cette Dame, il me le faut sçavoir,</l>
+            <l n="228" xml:id="l228">Et sans qu’elle me voye, essayer de la voir.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I06">
+          <sp xml:id="I06-1" who="astree">
+            <l n="229" xml:id="l229">Retourne t’en Picard, c’est assez d’Hypolite :<pb n="19" xml:id="p19"/></l>
+            <l n="230" xml:id="l230">Ma frayeur de ce soir n’a pas esté petite.</l>
+            <l n="231" xml:id="l231">Ma cousine toûjours sentant le moindre mal</l>
+            <l n="232" xml:id="l232">M’allarme, et me remplit d’un trouble sans égal.</l>
+            <l n="233" xml:id="l233">Mets la clef à la porte, Hyppolite, et te haste.</l>
+          </sp>
+          <sp xml:id="I06-2" who="alcipe">
+            <l n="234" xml:id="l234" part="I">Arrestez.</l>
+          </sp>
+          <sp xml:id="I06-3" who="astree">
+            <l part="M">Pour Alcipe.</l>
+          </sp>
+          <sp xml:id="I06-4" who="alcipe">
+            <l part="F">Oüy, pour Alcipe, ingratte.</l>
+            <l n="235" xml:id="l235">La force m’obtiendra ce qu’en vain les soûpirs</l>
+            <l n="236" xml:id="l236">Ont tâché d’obtenir à mes ardens desirs.</l>
+          </sp>
+          <sp xml:id="I06-5" who="astree">
+            <l n="237" xml:id="l237">Au secours, justes Cieux ! pouvez -vous sans vangeance,<pb n="20" xml:id="p20"/></l>
+            <l n="238" xml:id="l238">Souffrir d’un effronté la brutale insolence ?</l>
+          </sp>
+          <sp xml:id="I06-6" who="filemon">
+            <l n="239" xml:id="l239">Deffends toy, temeraire, et reçoy de ma main,</l>
+            <l n="240" xml:id="l240">De tes lâches <ref target="#effort2">efforts*</ref>, le chastiment soudain.</l>
+          </sp>
+          <sp xml:id="I06-7" who="alcipe">
+            <l n="241" xml:id="l241" part="I">O Ciel, je suis blessé !</l>
+          </sp>
+          <sp xml:id="I06-8" who="filemon">
+            <l part="F">C’est encor mon envie,</l>
+            <l n="242" xml:id="l242">Que tu sois sans parole, et sans force, et sans vie.</l>
+          </sp>
+          <sp xml:id="I06-9" who="sylvain">
+            <l n="243" xml:id="l243" part="I">Fuyons, c’est le plus seur.</l>
+          </sp>
+          <sp xml:id="I06-10" who="filemon">
+            <l part="F">Fuyez, lâches, fuyez,</l>
+            <l n="244" xml:id="l244">Vous faites des affronts, mais vous les essuyez.</l>
+            <l n="245" xml:id="l245">Heureux en ce combat autant qu’on le peut estre,</l>
+            <l n="246" xml:id="l246">J’ay vangé vostre affront, et desarmé ce traistre.</l>
+          </sp>
+          <sp xml:id="I06-11" who="astree">
+            <l n="247" xml:id="l247">Genereux Cavalier, sçauray-je vostre nom ?<pb n="21" xml:id="p21"/></l>
+          </sp>
+          <sp xml:id="I06-12" who="filemon">
+            <l n="248" xml:id="l248">Ceux qui le sçavent bien, me nomment Filemon.</l>
+          </sp>
+          <sp xml:id="I06-13" who="astree">
+            <l n="249" xml:id="l249" part="I">Lyonnois ?</l>
+          </sp>
+          <sp xml:id="I06-14" who="filemon">
+            <l part="M">Lyonnois.</l>
+          </sp>
+          <sp xml:id="I06-15" who="astree">
+            <l part="F">Grand amy de Leandre ?</l>
+          </sp>
+          <sp xml:id="I06-16" who="filemon">
+            <l n="250" xml:id="l250">Nous venons d’arriver, et je suis à l’attendre.</l>
+          </sp>
+          <sp xml:id="I06-17" who="astree">
+            <l n="251" xml:id="l251">Si pour mes interests, je puis vous émouvoir,</l>
+            <l n="252" xml:id="l252">Taisez luy l’action que vous venez de voir.</l>
+            <l n="253" xml:id="l253">Quoy qu’en moy quelquesfois se forment des chimeres,</l>
+            <l n="254" xml:id="l254">Et conçois des soupçons de choses plus legeres ;</l>
+            <l n="255" xml:id="l255">Cavalier, je vous croy discret jusqu’à ce poinct.</l>
+          </sp>
+          <sp xml:id="I06-18" who="filemon">
+            <l n="256" xml:id="l256">Pour de plus grands secrets, je ne parlerois point ;<pb n="22" xml:id="p22"/></l>
+            <l n="257" xml:id="l257">Mesme pour éviter qu’en voyant cette espée</l>
+            <l n="258" xml:id="l258">De quelque faux <ref target="#ombrage">ombrage*</ref>, il ait l’ame occupée,</l>
+            <l n="259" xml:id="l259">Je la sçauray fort bien dérober à ses yeux.</l>
+          </sp>
+          <sp xml:id="I06-19" who="astree">
+            <l n="260" xml:id="l260">Hyppolite, prends-la, c’est encor pour le mieux.</l>
+          </sp>
+          <sp xml:id="I06-20" who="filemon">
+            <l n="261" xml:id="l261">Tant de precaution que pareille occurence</l>
+            <l n="262" xml:id="l262">N’est pas en mon avis de fort bonne apparence.</l>
+            <l n="263" xml:id="l263">J’interprete sa peur de mauvaise façon,</l>
+            <l n="264" xml:id="l264">Et rentre, peu s’en faut, dans mon premier soupçon.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I07">
+          <sp xml:id="I07-1" who="leandre">
+            <l n="265" xml:id="l265" part="I">Je ne l’ay pas trouvée.<pb n="23" xml:id="p23"/></l>
+          </sp>
+          <sp xml:id="I07-2" who="filemon">
+            <l part="F">Elle est aussi venuë.</l>
+          </sp>
+          <sp xml:id="I07-3" who="leandre">
+            <l n="266" xml:id="l266">Par ce chemin, sans doute, et moi par cette ruë :</l>
+            <l n="267" xml:id="l267">Ma cousine n’est pas si preste de mourir.</l>
+            <l n="268" xml:id="l268">Semblable maladie est promte à se guarir,</l>
+            <l n="269" xml:id="l269">J’ay sçeu du Medecin et de l’Appoticaire ;</l>
+            <l n="270" xml:id="l270">Que ce n’estoit qu’un mal aux femmes ordinaire.</l>
+            <l n="271" xml:id="l271" part="I">Entrons sans <ref target="#compliment">compliment*</ref>.</l>
+          </sp>
+          <sp xml:id="I07-4" who="filemon">
+            <l part="F">Je n’en sçay faire aucun.</l>
+          </sp>
+          <sp xml:id="I07-5" who="leandre">
+            <l n="272" xml:id="l272" part="I">Passez-donc.<pb n="24" xml:id="p24"/></l>
+          </sp>
+          <sp xml:id="I07-6" who="filemon">
+            <l part="F">Je le veux, de peur d’estre importun.</l>
+            <p rend="center">Fin de l’Acte premier.</p>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="II" type="act">
+        <div type="scene" xml:id="II01">
+          <sp xml:id="II01-1" who="alcipe">
+            <l n="273" xml:id="l273">Donne moy ton espée, il faut que mon <ref target="#courage">courage*</ref><pb n="25 ; D"/></l>
+            <l n="274" xml:id="l274">Me vange hautement de ce sensible outrage.</l>
+            <l n="275" xml:id="l275">Avant que le Soleil nous rameine le jour,</l>
+            <l n="276" xml:id="l276">J’esteindray dans leur sang leur criminelle amour.</l>
+            <l n="277" xml:id="l277">L’insolent, dont la main plus heureuse qu’adraitte</l>
+            <l n="278" xml:id="l278">M’a de son premier coup contraint à la retraitte,</l>
+            <l n="279" xml:id="l279">Pend au bras de l’ingratte, et reçoit à l’<ref target="#envy">envy*</ref></l>
+            <l n="280" xml:id="l280">Le doux contentement qu’en vain j’ay poursuivy !</l>
+            <l n="281" xml:id="l281">C’est le second mary de cette ame infidelle ;</l>
+            <l n="282" xml:id="l282">Auroit-il autrement <ref target="#entreprendre">entrepris*</ref> sa <ref target="#querelle">querele*</ref> ?</l>
+            <l n="283" xml:id="l283">L’apparence en ce poinct, marque sa trahison,</l>
+            <l n="284" xml:id="l284">Persuade mes yeux, et convainct ma raison.</l>
+          </sp>
+          <sp xml:id="II01-2" who="sylvain">
+            <l n="285" xml:id="l285">Il est vray qu’à juger de chaque circonstance,<pb n="26" xml:id="p26"/></l>
+            <l n="286" xml:id="l286">Astrée avec cét homme a de l’<ref target="#intelligence">intelligence*</ref>.</l>
+            <l n="287" xml:id="l287">Entrer dans son logis ! Et pour son interest,</l>
+            <l n="288" xml:id="l288">Estre à vous attaquer et si prompt et si prest,</l>
+            <l n="289" xml:id="l289">Montre aux moins avisez et clairement explique,</l>
+            <l n="290" xml:id="l290">Qu’ils fomentent entr’eux une ardeur impudique.</l>
+          </sp>
+          <sp xml:id="II01-3" who="alcipe">
+            <l n="291" xml:id="l291">Il est entré le traistre ! Et celle qu’il seduit,</l>
+            <l n="292" xml:id="l292">Le croit faire sortir, et dans l’ombre et sans bruit ;</l>
+            <l n="293" xml:id="l293">Mais d’un semblable espoir en vain elle se flatte,</l>
+            <l n="294" xml:id="l294">Il faut que mon <ref target="#depit">dépit*</ref> et que sa honte éclatte ;</l>
+            <l n="295" xml:id="l295">Sors, lâche, je t’attends, et mon coeur <ref target="#irriter">irrité*</ref></l>
+            <l n="296" xml:id="l296">Prepare un chatiment à ta temerité.</l>
+          </sp>
+          <sp xml:id="II01-4" who="sylvain">
+            <l n="297" xml:id="l297">Hé de grace, Monsieur, voyez ce que vous faites ;</l>
+            <l n="298" xml:id="l298">L’appeler au combat tout blessé que vous estes ?</l>
+          </sp>
+          <sp xml:id="II01-5" who="alcipe">
+            <l n="299" xml:id="l299">Si pour tirer raison de cét audacieux,</l>
+            <l n="300" xml:id="l300">Mon bras ne me sert bien, je le tuëray des yeux.</l>
+          </sp>
+          <sp xml:id="II01-6" who="sylvain">
+            <l n="301" xml:id="l301" part="I">L’on sort.<pb n="27" xml:id="p27"/></l>
+          </sp>
+          <sp xml:id="II01-7" who="alcipe">
+            <l part="F">Ciel, c’est Leandre avec mon adversaire !</l>
+            <l n="302" xml:id="l302">En cette occasion qu’imaginer ? que faire ?</l>
+          </sp>
+          <sp xml:id="II01-8" who="sylvain">
+            <l n="303" xml:id="l303">Continuez toûjours vos menaçants propos ;</l>
+            <l n="304" xml:id="l304">Asseurez vous du reste, et soyez en repos.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II02">
+          <sp xml:id="II02-1" who="leandre">
+            <l n="305" xml:id="l305">En des maisons d’honneur apporter du scandale !<pb n="28" xml:id="p28"/></l>
+            <l n="306" xml:id="l306">A t’on jamais parlé d’une insolence égale ?</l>
+          </sp>
+          <sp xml:id="II02-2" who="alcipe">
+            <l n="307" xml:id="l307">Les lâches, les marauts, les traitres, les filoux,</l>
+            <l n="308" xml:id="l308">Ils seroient bien hardis, s’ils ne craignoient les loups !</l>
+            <l n="309" xml:id="l309">Me prendre à l’<ref target="#impourveu">impourveuë*</ref>, et saisir mon espée ?</l>
+            <l n="310" xml:id="l310">D’un mortel <ref target="#deplaisir">déplaisir*</ref> j’en ay l’ame occupée ;</l>
+            <l n="311" xml:id="l311">Je me meurs, je deteste, et du <ref target="#depit">dépit*</ref> que j’ay,</l>
+            <l n="312" xml:id="l312">Je ne me connois plus, et suis pis qu’enragé.</l>
+          </sp>
+          <sp xml:id="II02-3" who="leandre">
+            <l n="313" xml:id="l313">Je ne me trompe pas, c’est Alcipe luy-méme.</l>
+            <l n="314" xml:id="l314">Qu’en cét évenement, ma surprise est extréme !</l>
+          </sp>
+          <sp xml:id="II02-4" who="alcipe">
+            <l n="315" xml:id="l315">N’estes vous pas encor de ces <ref target="#courage">courages*</ref> bas,<pb n="29" xml:id="p29"/></l>
+            <l n="316" xml:id="l316">Qui, s’ils ne voloient point, ne subsisteroient pas ?</l>
+            <l n="317" xml:id="l317">Rien que deux contre moy, vous sçaurez <ref target="#tout-a-heure">tout à l’heure*</ref></l>
+            <l n="318" xml:id="l318">Qu’il n’arrive jamais qu’un affront me demeure.</l>
+          </sp>
+          <sp xml:id="II02-5" who="leandre">
+            <l n="319" xml:id="l319">Ces propos envers nous ne vous sont pas permis ;</l>
+            <l n="320" xml:id="l320">Alcipe, connoissez vos anciens amis.</l>
+          </sp>
+          <sp xml:id="II02-6" who="alcipe">
+            <l n="321" xml:id="l321">Infames, mes amis n’ont rien qui vous ressemble.</l>
+          </sp>
+          <sp xml:id="II02-7" who="filemon">
+            <l n="322" xml:id="l322">C’est luy que j’ay <ref target="#tantost">tantost*</ref> desarmé, ce me semble.</l>
+          </sp>
+          <sp xml:id="II02-8" who="leandre">
+            <l n="323" xml:id="l323">Vos propos à la fin sont trop injurieux.</l>
+          </sp>
+          <sp xml:id="II02-9" who="sylvain">
+            <l n="324" xml:id="l324">Excusez les <ref target="#transport">transports*</ref> d’un homme <ref target="#furieux">furieux*</ref>.</l>
+            <l n="325" xml:id="l325">Monsieur, r’entrez en vous, et me veüillez entendre,</l>
+            <l n="326" xml:id="l326" part="I">C’est Leandre.</l>
+          </sp>
+          <sp xml:id="II02-10" who="alcipe">
+            <l part="F">Est-il vray ! seroit-ce vous, Leandre ?<pb n="30" xml:id="p30"/></l>
+          </sp>
+          <sp xml:id="II02-11" who="leandre">
+            <l n="327" xml:id="l327" part="I">Oüy, c’est moy.</l>
+          </sp>
+          <sp xml:id="II02-12" who="alcipe">
+            <l part="F">Pardonnez, ce qu’un <ref target="#juste">juste*</ref> courroux</l>
+            <l n="328" xml:id="l328">Me faisoit addresser à tout autre qu’à vous.</l>
+          </sp>
+          <sp xml:id="II02-13" who="leandre">
+            <l n="329" xml:id="l329">Dittes-nous le sujet de ce desordre extréme ?</l>
+          </sp>
+          <sp xml:id="II02-14" who="alcipe">
+            <l n="330" xml:id="l330">Sylvain vous le peut dire aussi bien que moy-méme :</l>
+            <l n="331" xml:id="l331">Cependant j’essayray de rappeller mes sens,</l>
+            <l n="332" xml:id="l332">Et sortir tout à fait de ces <ref target="#transport">transports*</ref> puissans.</l>
+          </sp>
+          <sp xml:id="II02-15" who="sylvain">
+            <l n="333" xml:id="l333">Mon Maistre revenoit de faire une visite :</l>
+            <l n="334" xml:id="l334">Je vous laisse à penser si l’<ref target="#objet">objet*</ref> le merite ;</l>
+            <l n="335" xml:id="l335">Quand au coin de la ruë il se trouve surpris</l>
+            <l n="336" xml:id="l336">De cinq ou six filoux des mieux faits de Paris :</l>
+            <l n="337" xml:id="l337">Ils demandent <ref target="#d-abord">d’abord*</ref> ou la bourse ou la vie ;</l>
+            <l n="338" xml:id="l338">Mais son coeur et son bras combattent cette envie.</l>
+            <l n="339" xml:id="l339">Il presse, il est pressé ; mais luy seul contre eux tous,<pb n="31" xml:id="p31"/></l>
+            <l n="340" xml:id="l340">Comment se pourroit-il garantir de leurs coups ?</l>
+            <l n="341" xml:id="l341">On le blesse à la main dont il tient son épée.</l>
+            <l n="342" xml:id="l342">Elle tombe, aussi-tost la mienne est occupée ;</l>
+            <l n="343" xml:id="l343">Il la prend, il s’en sert, et chaud en ce combat,</l>
+            <l n="344" xml:id="l344">Les attaque en lyon, et les charge, et les bat.</l>
+            <l n="345" xml:id="l345">Au signal d’un sifflet, leur troupe se dissipe,</l>
+            <l n="346" xml:id="l346">Et je me vois alors tout seul avec Alcipe.</l>
+          </sp>
+          <sp xml:id="II02-16" who="leandre">
+            <l n="347" xml:id="l347">D’où vient donc qu’il s’emporte avecque tant d’excez ?</l>
+            <l n="348" xml:id="l348">Si ton recit s’accorde avecque le succez,</l>
+            <l n="349" xml:id="l349">Sa valeur en ce choc, n’a pas esté trompée.</l>
+          </sp>
+          <sp xml:id="II02-17" who="sylvain">
+            <l n="350" xml:id="l350">C’est qu’un de ces filoux emporte son espée ;</l>
+            <l n="351" xml:id="l351">Et qu’il est affligé plus que tous les humains,</l>
+            <l n="352" xml:id="l352">De sçavoir qu’elle passe en de si viles mains.</l>
+          </sp>
+          <sp xml:id="II02-18" who="leandre">
+            <l n="353" xml:id="l353">Le sujet est petit, pour de si grandes plaintes.</l>
+          </sp>
+          <sp xml:id="II02-19" who="alcipe">
+            <l n="354" xml:id="l354">J’en ressens toutesfois de mortelles atteintes,</l>
+            <l n="355" xml:id="l355">Et ne sçaurois penser à ce sanglant affront,</l>
+            <l n="356" xml:id="l356">Qu’avec la rage au coeur, et la rougeur au front.</l>
+          </sp>
+          <sp xml:id="II02-20" who="leandre">
+            <l n="357" xml:id="l357">Mais pourquoy rudement <ref target="#heurter">heurter*</ref> à cette porte ?<pb n="32" xml:id="p32"/></l>
+          </sp>
+          <sp xml:id="II02-21" who="sylvain">
+            <l n="358" xml:id="l358">Pour vous mieux obliger à nous prester main-forte.</l>
+          </sp>
+          <sp xml:id="II02-22" who="leandre">
+            <l n="359" xml:id="l359">De qui donc sçaviez-vous mon retour à Paris ?</l>
+          </sp>
+          <sp xml:id="II02-23" who="sylvain">
+            <l n="360" xml:id="l360">D’un Marchand de Lyon, qui nous l’avoit apris.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II03">
+          <sp xml:id="II03-1" who="astree">
+            <l n="361" xml:id="l361">Voulez-vous demeurer toûjours dans cette ruë ?<pb n="33 ; E"/></l>
+            <l n="362" xml:id="l362">Pour de si longs discours n’est-il pas heure induë ?</l>
+            <l n="363" xml:id="l363">Vous avez des secrets au moins un million ;</l>
+            <l n="364" xml:id="l364">Mais où peut estre allé vostre amy de Lyon ?</l>
+          </sp>
+          <sp xml:id="II03-2" who="leandre">
+            <l n="365" xml:id="l365">Il n’en faut pas douter, ce <ref target="#genereux">genereux*</ref> <ref target="#courage">courage*</ref></l>
+            <l n="366" xml:id="l366">Court apres les filoux, pour vanger vostre outrage,</l>
+            <l n="367" xml:id="l367" part="I">Je vay le secourir.</l>
+          </sp>
+          <sp xml:id="II03-3" who="alcipe">
+            <l part="F">Les miens suivroient vos pas ;</l>
+            <l n="368" xml:id="l368">Mais mon coeur seroit mal secondé de mon bras.</l>
+          </sp>
+          <sp xml:id="II03-4" who="leandre">
+            <l n="369" xml:id="l369">Alcipe demeurez ; tout le pouvoir des <ref target="#charme1">charmes*</ref></l>
+            <l n="370" xml:id="l370">Ne le peut empécher de tomber sous nos armes.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II04">
+          <sp xml:id="II04-1" who="astree">
+            <l n="371" xml:id="l371" part="I">Je rentre.<pb n="34" xml:id="p34"/></l>
+          </sp>
+          <sp xml:id="II04-2" who="alcipe">
+            <l part="M">Je vous suy.</l>
+          </sp>
+          <sp xml:id="II04-3" who="astree">
+            <l part="F">N’allez pas plus avant.</l>
+          </sp>
+          <sp xml:id="II04-4" who="alcipe">
+            <l n="372" xml:id="l372" part="I">Madame !</l>
+          </sp>
+          <sp xml:id="II04-5" who="astree">
+            <l part="F">C’est donner des paroles au vent ;</l>
+            <l n="373" xml:id="l373">Quoy dedans ma maison j’introduirois un homme</l>
+            <l n="374" xml:id="l374">Que l’impudique ardeur d’un fol amour consomme ?</l>
+            <l n="375" xml:id="l375">Et qui depuis long-temps sans crainte et sans respect,</l>
+            <l n="376" xml:id="l376">Tient ma vertu forcée, et mon honneur suspect ?</l>
+            <l n="377" xml:id="l377">Un infidele ami, de qui l’ame est si noire,<pb n="35" xml:id="p35"/></l>
+            <l n="378" xml:id="l378">Qu’il tâche de soüiller de son amy la gloire ;</l>
+            <l n="379" xml:id="l379">Et contre tous les droits d’amour et d’amitié,</l>
+            <l n="380" xml:id="l380">Voudroit ingratement luy ravir sa moitié :</l>
+            <l n="381" xml:id="l381">C’estoit peu d’employer d’inutiles amorces.</l>
+            <l n="382" xml:id="l382">Vous en estes venu jusqu’à d’injustes forces ;</l>
+            <l n="383" xml:id="l383">Mais le Ciel favorable, en ce besoin pressant,</l>
+            <l n="384" xml:id="l384">Oüy le Ciel a rendu vostre <ref target="#effort1">effort*</ref> impuissant.</l>
+          </sp>
+          <sp xml:id="II04-6" who="alcipe">
+            <l n="385" xml:id="l385">Madame, ce reproche est juste, je l’avouë :</l>
+            <l n="386" xml:id="l386">Le principe en est noble, et méme je le louë.</l>
+            <l n="387" xml:id="l387">Je fus trop insolent, et trop audacieux</l>
+            <l n="388" xml:id="l388">De me flatter du bien d’agréer à vos yeux,</l>
+            <l n="389" xml:id="l389">Rien d’impur ne peut plaire à ces Astres sans tache.</l>
+            <l n="390" xml:id="l390">Ils penetrent un coeur, ils voyent ce qu’on y cache.</l>
+            <l n="391" xml:id="l391">Dans son aveuglement, il en est éclairé :</l>
+            <l n="392" xml:id="l392">S’il a quelque soüillure, il en est espuré.</l>
+            <l n="393" xml:id="l393">Et si sa passion s’accroist et persevere,</l>
+            <l n="394" xml:id="l394">Ils sçavent l’en guerir d’un regard de colere.</l>
+            <l n="395" xml:id="l395">Je ressens dans le mien, ce prompt et rare effet ;</l>
+            <l n="396" xml:id="l396">Mes illicites feux sont esteints tout à fait ;</l>
+            <l n="397" xml:id="l397">Je ne suis plus pressé de ces <ref target="#transport">transports*</ref> estranges,</l>
+            <l n="398" xml:id="l398">Et je vous aime enfin comme on aime les Anges,</l>
+            <l n="399" xml:id="l399">D’un amour pur et saint, exempt de tout remorts,</l>
+            <l n="400" xml:id="l400"><ref target="#franchise">Franc*</ref> des impressions qui nous viennent du corps :</l>
+            <l n="401" xml:id="l401">Et s’il faut qu’en un mot, je m’exprime, Madame,<pb n="36" xml:id="p36"/></l>
+            <l n="402" xml:id="l402">Plus pur que le Soleil, aussi pur que vostre ame.</l>
+          </sp>
+          <sp xml:id="II04-7" who="astree">
+            <l n="403" xml:id="l403">Si vous parlez sans fard, mon courroux affoibly</l>
+            <l n="404" xml:id="l404"><ref target="#possible">Possible*</ref> avec le temps mettra tout en oubly :</l>
+            <l n="405" xml:id="l405">Mais jusqu’à ce moment, ou par grace, ou par crainte,</l>
+            <l n="406" xml:id="l406">Redoutez de mes yeux une seconde atteinte.</l>
+            <l n="407" xml:id="l407">Evitez ma presence, et vous affermissez</l>
+            <l n="408" xml:id="l408">Dedans le repentir de vos projets passez.</l>
+          </sp>
+          <sp xml:id="II04-8" who="alcipe">
+            <l n="409" xml:id="l409">Quoy m’imposer, Madame une Loy si severe ?</l>
+          </sp>
+          <sp xml:id="II04-9" who="astree">
+            <l n="410" xml:id="l410">Le <ref target="#soin">soin*</ref> de vostre bien m’ordonne de le faire ;</l>
+            <l n="411" xml:id="l411">C’est pour vostre repos que j’en dispose ainsi,</l>
+            <l n="412" xml:id="l412">Ne trouvez pas mauvais que je vous laisse icy.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II05">
+          <sp xml:id="II05-1" who="alcipe">
+            <l n="413" xml:id="l413">Ne trouvez pas mauvais que j’en tire vangeance :<pb n="37" xml:id="p37"/></l>
+            <l n="414" xml:id="l414">Mon feu conserve encor toute sa violence.</l>
+            <l n="415" xml:id="l415">Ma langue avec mon coeur, ne s’accordoit pas bien,</l>
+            <l n="416" xml:id="l416">Lors que je vous disois, qu’il ne m’en restoit rien.</l>
+          </sp>
+          <sp xml:id="II05-2" who="sylvain">
+            <l n="417" xml:id="l417">Estouffez-en plûtost, et le tout, et le reste :</l>
+            <l n="418" xml:id="l418">Vous vous delivrerez, d’un poison, d’une peste,</l>
+            <l n="419" xml:id="l419">D’un mal de tous les maux le plus contagieux</l>
+            <l n="420" xml:id="l420">Que l’on reçoit dans l’ame, et qu’on prend par les yeux.</l>
+          </sp>
+          <sp xml:id="II05-3" who="alcipe">
+            <l n="421" xml:id="l421">Sylvain, tu me surprends, tu parois habille homme.</l>
+          </sp>
+          <sp xml:id="II05-4" who="sylvain">
+            <l n="422" xml:id="l422">Il se trouve des Clercs, plus ignorans à Rome.</l>
+            <l n="423" xml:id="l423">Et sans faire du vain, je jurerois ma foy,<pb n="38" xml:id="p38"/></l>
+            <l n="424" xml:id="l424">Qu’on en void dans Paris de plus badauts que moy.</l>
+            <l n="425" xml:id="l425">Mon esprit a paru dedans mon personage,</l>
+            <l n="426" xml:id="l426">Lors que de ces filoux j’ay supposé l’outrage.</l>
+          </sp>
+          <sp xml:id="II05-5" who="alcipe">
+            <l n="427" xml:id="l427">Oüy certes, tu t’en es dignement acquitté ;</l>
+            <l n="428" xml:id="l428">J’ay connu ton Genie, et ta dexterité :</l>
+            <l n="429" xml:id="l429">Mais quelque bon succez qu’ait eu nostre mensonge,</l>
+            <l n="430" xml:id="l430">Un soupçon dissipé dans un autre me plonge ;</l>
+            <l n="431" xml:id="l431">Leandre est abusé ; mais l’ami de Lyon</l>
+            <l n="432" xml:id="l432">N’est pas asseurément de mesme opinion :</l>
+            <l n="433" xml:id="l433">Il m’a connu sans doute, et s’est fait violence</l>
+            <l n="434" xml:id="l434">De me voir, de m’<ref target="#ouir">oüyr*</ref> et garder le silence.</l>
+          </sp>
+          <sp xml:id="II05-6" who="sylvain">
+            <l n="435" xml:id="l435">Ils reviennent tous deux, nous serions bien trompez,</l>
+            <l n="436" xml:id="l436">S’ils avoient en courant nos filoux attrapez.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II06">
+          <sp xml:id="II06-1" who="filemon">
+            <l n="437" xml:id="l437">Ma peine, grace au Ciel, n’a pas esté trompée ;<pb n="39" xml:id="p39"/></l>
+            <l n="438" xml:id="l438">Ne vous affligez plus, j’apporte vostre espée.</l>
+          </sp>
+          <sp xml:id="II06-2" who="leandre">
+            <l n="439" xml:id="l439">Tout cede, tout se rend au brave Filemon.</l>
+          </sp>
+          <sp xml:id="II06-3" who="alcipe">
+            <l n="440" xml:id="l440" part="I">Les filoux !</l>
+          </sp>
+          <sp xml:id="II06-4" who="filemon">
+            <l part="F">Ha ! toubeau, vous sçavez mal leur nom.</l>
+            <l n="441" xml:id="l441">Et comme les objets se grossissent dans l’ombre,</l>
+            <l n="442" xml:id="l442">A vos sens <ref target="#estonner">estonnez*</ref> un seul homme a fait nombre.</l>
+          </sp>
+          <sp xml:id="II06-5" who="alcipe">
+            <l n="443" xml:id="l443" part="I">Un seul homme !</l>
+          </sp>
+          <sp xml:id="II06-6" who="filemon">
+            <l part="M">Un seul homme.<pb n="40" xml:id="p40"/></l>
+          </sp>
+          <sp xml:id="II06-7" who="alcipe">
+            <l part="F">Ils estoient plus de six.</l>
+          </sp>
+          <sp xml:id="II06-8" who="filemon">
+            <l n="444" xml:id="l444">Cavalier, parlez-en d’un esprit plus rassis,</l>
+            <l n="445" xml:id="l445">Vous nous feriez juger dedans cette occurence,</l>
+            <l n="446" xml:id="l446">Que la peur vous osta jusqu’à la connoissance ;</l>
+            <l n="447" xml:id="l447">Qu’en des temps seulement vous estes <ref target="#genereux">genereux*</ref>,</l>
+            <l n="448" xml:id="l448">Et que la mort pour vous est d’un aspect affreux.</l>
+            <l n="449" xml:id="l449">Un seul avantagé de sa bonne conduite,</l>
+            <l n="450" xml:id="l450">Vous a mis sans deffence, et contraint à la fuitte.</l>
+          </sp>
+          <sp xml:id="II06-9" who="leandre">
+            <l n="451" xml:id="l451">Vous me parlez icy d’un langage inconnu.</l>
+          </sp>
+          <sp xml:id="II06-10" who="filemon">
+            <l n="452" xml:id="l452">Nous estions separez quand vous estes venu,</l>
+            <l n="453" xml:id="l453">Et celuy dont je parle, et pour qui je respire,</l>
+            <l n="454" xml:id="l454">M’avoit dit à peu prés ce que je vay vous dire.</l>
+            <l n="455" xml:id="l455">Vous vous méprenez trop, de crier aux filoux,</l>
+            <l n="456" xml:id="l456">Arrestez, et m’<ref target="#ouir">oyez*</ref> Alcipe, si c’est vous.</l>
+            <l n="457" xml:id="l457">La mortelle frayeur d’une attaque impreveuë<pb n="41 ; F"/></l>
+            <l n="458" xml:id="l458">Vous a troublé l’esprit aussi bien que la veuë.</l>
+            <l n="459" xml:id="l459">De tous les gens d’honneurs je professe la Loy ;</l>
+            <l n="460" xml:id="l460">Si vous estes blessé, sçachez que c’est de moy.</l>
+            <l n="461" xml:id="l461">Je n’ay pû supporter l’extréme violence</l>
+            <l n="462" xml:id="l462">Dont vostre aveugle amour usoit en ma presence ;</l>
+            <l n="463" xml:id="l463">Et crois avoir agi comme un homme de coeur,</l>
+            <l n="464" xml:id="l464">D’avoir pris le parti d’une femme d’honneur.</l>
+          </sp>
+          <sp xml:id="II06-11" who="alcipe">
+            <l n="465" xml:id="l465" part="I">Ce brave est fanfaron.</l>
+          </sp>
+          <sp xml:id="II06-12" who="filemon">
+            <l part="F">Ce brave a du courage,</l>
+            <l n="466" xml:id="l466">Et je ne pense pas qu’il change de langage,</l>
+          </sp>
+          <sp xml:id="II06-13" who="leandre">
+            <l n="467" xml:id="l467">Vous vous piquez, ce semble, Alcipe, à quel sujet ?</l>
+            <l n="468" xml:id="l468">Il ne dit rien de luy, c’est un recit qu’il fait.</l>
+          </sp>
+          <sp xml:id="II06-14" who="alcipe">
+            <l n="469" xml:id="l469" part="I">C’est un conte <ref target="#ennuyeux">ennuyeux*</ref>.</l>
+          </sp>
+          <sp xml:id="II06-15" who="filemon">
+            <l part="F">Achevez de m’entendre.</l>
+          </sp>
+          <sp xml:id="II06-16" who="alcipe">
+            <l n="470" xml:id="l470" part="I">Je ne puis.<pb n="42" xml:id="p42"/></l>
+          </sp>
+          <sp xml:id="II06-17" who="filemon">
+            <l part="F">En tout cas, je m’adresse à Leandre,</l>
+            <l n="471" xml:id="l471">Je laisse quelque temps l’inconnu dans l’erreur.</l>
+            <l n="472" xml:id="l472">Il parle en menaçant, j’écoute sans terreur :</l>
+            <l n="473" xml:id="l473">Mon silence le choque, il veut que je réponde,</l>
+            <l n="474" xml:id="l474">Il demeure à ma voix le plus surpris du monde,</l>
+            <l n="475" xml:id="l475">Six en attaquer un, le prendre en trahison ;</l>
+            <l n="476" xml:id="l476">Il faut qu’en ce moment vous m’en fassiez raison,</l>
+            <l n="477" xml:id="l477">Luy dis-je, et si la mort n’a point pour vous de <ref target="#charme2">charmes*</ref>,</l>
+            <l n="478" xml:id="l478">Que vous vous disposiez à me rendre les armes.</l>
+            <l n="479" xml:id="l479">Vous me redoutez peu, mais en vous assaillant,</l>
+            <l n="480" xml:id="l480">Vous sçaurez si je suis temeraire ou vaillant.</l>
+            <l n="481" xml:id="l481">S’il vous est plus aisé de me vaincre qu’un autre ;</l>
+            <l n="482" xml:id="l482">Je prends son interest, soustenez bien le vostre.</l>
+            <l n="483" xml:id="l483">Lors l’oeil bon, le pied ferme, et le bras prompt et fort ;</l>
+            <l n="484" xml:id="l484">Je luy porte, il s’écrie, ah ! Cavalier, j’ay tort,</l>
+            <l n="485" xml:id="l485">L’ombre a fait mon abus que vostre voix dissippe,</l>
+            <l n="486" xml:id="l486">Je vous ay creu d’abord, et traitté comme Alcippe.</l>
+            <l n="487" xml:id="l487">L’abus est pardonnable où la nuit vous a mis,</l>
+            <l n="488" xml:id="l488">Je le connois, luy dis-je, et nous sommes amis.</l>
+            <l n="489" xml:id="l489">J’en ressens, répond-il, un plaisir incroyable :<pb n="43" xml:id="p43"/></l>
+            <l n="490" xml:id="l490">Je vous feray de tout un recit veritable. 490</l>
+            <l n="491" xml:id="l491">Si mon juste motif n’est pas raison pour vous,</l>
+            <l n="492" xml:id="l492">Je porte à mon costé de quoy la faire à tous.</l>
+            <l n="493" xml:id="l493">Cela dit, il commence à peu prés en ces termes.</l>
+            <l n="494" xml:id="l494">Que l’on void peu d’amis veritables et fermes !</l>
+            <l n="495" xml:id="l495">Alcipe en avoit un qui le vouloit trahïr ;</l>
+            <l n="496" xml:id="l496">Il en aimoit la femme, et c’estoit le haïr.</l>
+            <l n="497" xml:id="l497">Pour elle, il eut au coeur une illicite flâme.</l>
+            <l n="498" xml:id="l498">Il creut en triompher, parce qu’elle estoit femme.</l>
+            <l n="499" xml:id="l499">L’absence d’un mari flatta son lâche espoir,</l>
+            <l n="500" xml:id="l500">Il en venoit toûjours, ou toûjours l’alloit voir.</l>
+            <l n="501" xml:id="l501">Tout ce que l’Art d’aimer, ou plustost de seduire ;</l>
+            <l n="502" xml:id="l502">Peut en un tel dessein suggerer et prescrire :</l>
+            <l n="503" xml:id="l503">Tout ce qu’un lâche Amant sçauroit s’imaginer</l>
+            <l n="504" xml:id="l504">Pour plaire, pour surprendre, enfin pour suborner,</l>
+            <l n="505" xml:id="l505">Alcipe le pratique, Alcipe l’execute.</l>
+            <l n="506" xml:id="l506">Sans relâche il poursuit, sans cesse il persecute ;</l>
+            <l n="507" xml:id="l507">Aujourd’huy les soûpirs parlent pour son amour ;</l>
+            <l n="508" xml:id="l508">Ce sont demain les dons, la plainte un autre jour ;</l>
+            <l n="509" xml:id="l509">Mais la beauté qu’il aime, en espouse fidelle</l>
+            <l n="510" xml:id="l510">S’oppose, et répond mal aux pensées qu’il a d’elle.</l>
+            <l n="511" xml:id="l511">Et comme en l’element où vont les matelots,</l>
+            <l n="512" xml:id="l512">Une Roche resiste à la fureur des flots ;</l>
+            <l n="513" xml:id="l513">Elle repousse Alcipe, et sa vertu s’explique ;</l>
+            <l n="514" xml:id="l514">Plus ce brutal <ref target="#courage">courage*</ref>, ou s’échauffe, ou se <ref target="#piquer2">pique*</ref>.</l>
+            <l n="515" xml:id="l515">Cette rare vertu qu’il devroit respecter,<pb n="44" xml:id="p44"/></l>
+            <l n="516" xml:id="l516">Loin de guerir son mal, ne fait que l’<ref target="#irriter">irriter*</ref>.</l>
+            <l n="517" xml:id="l517">Privé de tout espoir d’obtenir ce qu’il pense,</l>
+            <l n="518" xml:id="l518">Il le veut emporter avecque violence.</l>
+            <l n="519" xml:id="l519">Il choisit le temps propre à ce honteux dessein,</l>
+            <l n="520" xml:id="l520">Il tient à cette Dame un poignard sur le sein :</l>
+            <l n="521" xml:id="l521">Et la nuit secondant sa criminelle envie,</l>
+            <l n="522" xml:id="l522">Il tâche à luy ravir, ou l’honneur, ou la vie.</l>
+            <l n="523" xml:id="l523">Lors vers luy par le Ciel heureusement conduit,</l>
+            <l n="524" xml:id="l524">Je voy cette action plus noire que la nuit :</l>
+            <l n="525" xml:id="l525">Dedans le mesme instant ma main paroist armée,</l>
+            <l n="526" xml:id="l526">Et sert plus promptement qu’elle n’est reclamée.</l>
+            <l n="527" xml:id="l527">Le nom de Cavalier, mon <ref target="#courage">courage*</ref>, mon rang,</l>
+            <l n="528" xml:id="l528">Pour satisfaction me demandent du sang.</l>
+            <l n="529" xml:id="l529">Je donne à ce brutal une soudaine allarme ;</l>
+            <l n="530" xml:id="l530">J’attaque, je poursuis, je blesse, je desarme :</l>
+            <l n="531" xml:id="l531">Il fuit pour éviter de plus funestes coups,</l>
+            <l n="532" xml:id="l532">Et se croit bien vangé de crier aux filoux.</l>
+            <l n="533" xml:id="l533">Voila sans <ref target="#deguiser">déguiser*</ref> le recit veritable</l>
+            <l n="534" xml:id="l534">Du glorieux motif d’un courroux équitable ;</l>
+            <l n="535" xml:id="l535">Voila pourquoy ce coeur jamais noble à demi,</l>
+            <l n="536" xml:id="l536">A <ref target="#genereux">genereusement*</ref> <ref target="#entreprendre">entrepris*</ref> vostre ami.</l>
+            <l n="537" xml:id="l537">Si vous n’approuvez pas cét Acte magnanime,</l>
+            <l n="538" xml:id="l538">Vous me voyez tout prest à soûtenir mon crime.</l>
+            <l n="539" xml:id="l539">Je ne m’en repends point, de si nobles forfaits</l>
+            <l n="540" xml:id="l540">N’apportent point de honte à ceux qui les ont faits.</l>
+          </sp>
+          <sp xml:id="II06-18" who="alcipe">
+            <l n="541" xml:id="l541">Vous avez bonne grace à retirer un conte.<pb n="45" xml:id="p45"/></l>
+          </sp>
+          <sp xml:id="II06-19" who="filemon">
+            <l n="542" xml:id="l542">Qui fait qu’un peu de sang au visage vous monte ;</l>
+            <l n="543" xml:id="l543">Mais sans plus vous aigrir, puis que ce nom vous plaist,</l>
+            <l n="544" xml:id="l544">Je m’en vais achever le conte comme il est.</l>
+          </sp>
+          <sp xml:id="II06-20" who="leandre">
+            <l n="545" xml:id="l545">Soit conte, soit histoire, Alcipe faites tréve ;</l>
+            <l n="546" xml:id="l546">Et pour l’amour de moy permettez qu’il achéve.</l>
+          </sp>
+          <sp xml:id="II06-21" who="filemon">
+            <l n="547" xml:id="l547"><ref target="#estonner">Estonné*</ref> des propos que tient le Cavalier,</l>
+            <l n="548" xml:id="l548">Si je fay des <ref target="#effort1">efforts*</ref>, c’est à le supplier ;</l>
+            <l n="549" xml:id="l549">Obligé par raison d’estouffer ma colere :</l>
+            <l n="550" xml:id="l550">Du parler arrogant, je passe à la priere,</l>
+            <l n="551" xml:id="l551">Cavalier j’ignorois ce que je viens d’<ref target="#ouir">oüyr*</ref> ;</l>
+            <l n="552" xml:id="l552">Mais le flambeau d’amour nous peut tous ébloüyr.</l>
+            <l n="553" xml:id="l553">Qu’est-ce qu’un bel <ref target="#objet">objet*</ref> me peut tenter, luy dis-je,</l>
+            <l n="554" xml:id="l554">Et n’aimer pas l’<ref target="#aimable">aimable*</ref>, est-ce pas un prodige ?</l>
+            <l n="555" xml:id="l555">Sans lâcheté l’on cede à de divins <ref target="#appas">appas*</ref> ;</l>
+            <l n="556" xml:id="l556">Si l’on manquoit de coeur, on n’y cederoit pas.</l>
+            <l n="557" xml:id="l557">Alcipe à dire vray, me semble peu coupable ;<pb n="46" xml:id="p46"/></l>
+            <l n="558" xml:id="l558">Et puis qu’elle est d’amour, sa faute est excusable.</l>
+            <l n="559" xml:id="l559">Devenez bons amis, cherissez-vous tous deux.</l>
+            <l n="560" xml:id="l560">Et faites un accord sincere, et <ref target="#genereux">genereux*</ref>.</l>
+            <l n="561" xml:id="l561">Ma haine, répond-il, est toute dissipée ;</l>
+            <l n="562" xml:id="l562">Pour vous en asseurer, je vous rends son espée.</l>
+            <l n="563" xml:id="l563">Si son <ref target="#courage">courage*</ref> imite et seconde le mien,</l>
+            <l n="564" xml:id="l564">L’ami qu’il trahissoit n’en sçaura jamais rien.</l>
+            <l n="565" xml:id="l565">Là ses adieux se font, les miens se font de mesme,</l>
+            <l n="566" xml:id="l566">Resolu de l’aimer, et d’aimer ce qu’il aime.</l>
+          </sp>
+          <sp xml:id="II06-22" who="leandre">
+            <l n="567" xml:id="l567">Alcippe à vostre ami, faire un pareil affront !</l>
+            <l n="568" xml:id="l568">Ce discours me regarde autant qu’il me confond.</l>
+          </sp>
+          <sp xml:id="II06-23" who="alcipe">
+            <l n="569" xml:id="l569">Me soupçonneriez-vous d’une telle insolence ?</l>
+          </sp>
+          <sp xml:id="II06-24" who="leandre">
+            <l n="570" xml:id="l570">Oüy, si j’estois d’humeur à croire l’apparence.</l>
+            <l n="571" xml:id="l571">Quel autre en peut avoir de plus <ref target="#juste">justes*</ref> soupçons ?</l>
+          </sp>
+          <sp xml:id="II06-25" who="alcipe">
+            <l n="572" xml:id="l572">Des soupçons qu’a fait naistre un conteur de chansons.</l>
+          </sp>
+          <sp xml:id="II06-26" who="filemon">
+            <l n="573" xml:id="l573">Ce nom luy convient mal, on le tient <ref target="#honneste">honneste*</ref> homme ;<pb n="47" xml:id="p47"/></l>
+            <l n="574" xml:id="l574">Je le connois fort bien et sçay comme il se nomme.</l>
+            <l n="575" xml:id="l575">Que si le moindre mot vous choque en mon recit,</l>
+            <l n="576" xml:id="l576">Il vous le soutiendra, je vous l’ay déja dit.</l>
+          </sp>
+          <sp xml:id="II06-27" who="alcipe">
+            <l n="577" xml:id="l577">Je vous l’ay dit aussi, quoy qu’on se persuade,</l>
+            <l n="578" xml:id="l578">Qu’il sçait la raillerie et la rodomontade.</l>
+          </sp>
+          <sp xml:id="II06-28" who="filemon">
+            <l n="579" xml:id="l579">Nous voyons toutesfois, et vous le confessez,</l>
+            <l n="580" xml:id="l580">Que l’on vous compte au rang de ceux qu’il a blessez.</l>
+          </sp>
+          <sp xml:id="II06-29" who="alcipe">
+            <l n="581" xml:id="l581" part="I">Ah ! ce reproche…</l>
+          </sp>
+          <sp xml:id="II06-30" who="leandre">
+            <l part="F">Alcipe où va vostre colere ?</l>
+          </sp>
+          <sp xml:id="II06-31" who="alcipe">
+            <l n="582" xml:id="l582" part="I">Ailleurs…</l>
+          </sp>
+          <sp xml:id="II06-32" who="filemon">
+            <l part="F">Le mesme bras toûjours prest à bien faire.</l>
+          </sp>
+          <sp xml:id="II06-33" who="leandre">
+            <l n="583" xml:id="l583">De grace, Filemon, terminez ce propos.<pb n="48" xml:id="p48"/></l>
+          </sp>
+          <sp xml:id="II06-34" who="filemon">
+            <l n="584" xml:id="l584">Cavalier autre part nous en dirons deux mots.</l>
+            <l n="585" xml:id="l585" part="I">Adieu.</l>
+          </sp>
+          <sp xml:id="II06-35" who="leandre">
+            <l part="F">Je sçauray bien adoucir ce <ref target="#courage">courage*</ref>.</l>
+          </sp>
+          <sp xml:id="II06-36" who="alcipe">
+            <l n="586" xml:id="l586" part="I">C’est assez.</l>
+          </sp>
+          <sp xml:id="II06-37" who="leandre">
+            <l part="F">Je le suy, montrez-vous le plus sage.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II07">
+          <sp xml:id="II07-1" who="sylvain">
+            <l n="587" xml:id="l587">Il vous a balotté d’une estrange façon,<pb n="49 ; G"/></l>
+            <l n="588" xml:id="l588">Dessus le bout du doigt il sçavoit sa leçon :</l>
+            <l n="589" xml:id="l589">Apres ce traittement <ref target="#pretendre">pretendez*</ref> vous encore</l>
+            <l n="590" xml:id="l590">D’entretenir long-temps le feu qui vous devore ?</l>
+            <l n="591" xml:id="l591">Voulez vous abusé d’un espoir <ref target="#decevoir">decevant*</ref>,</l>
+            <l n="592" xml:id="l592"><ref target="#dessus">Dessus*</ref> la mer d’amour cingler à contre-vent ?</l>
+          </sp>
+          <sp xml:id="II07-2" who="alcipe">
+            <l n="593" xml:id="l593">Oüy, je veux persister malgré tous les obstacles,</l>
+            <l n="594" xml:id="l594">En faveur des amants le temps fait des miracles :</l>
+            <l n="595" xml:id="l595">J’auray par l’<ref target="#artifice">artifice*</ref>, y deusse-je perir,</l>
+            <l n="596" xml:id="l596">Ce qu’en vain mes soûpirs ont tâché d’acquerir.</l>
+            <p rend="center">Fin de l’Acte second.</p>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="III" type="act">
+        <div type="scene" xml:id="III01">
+          <sp xml:id="III01-1" who="astree">
+            <l n="597" xml:id="l597">Cousine à quel propos vous donner cette peine ?<pb n="50" xml:id="p50"/></l>
+            <l n="598" xml:id="l598">Ne me le <ref target="#celer">celez*</ref> point, autre chose vous meine,</l>
+            <l n="599" xml:id="l599">Apprenant vostre mal, j’ay deu vous visiter ;</l>
+            <l n="600" xml:id="l600">Et rien ne vous oblige à vous en acquiter.</l>
+          </sp>
+          <sp xml:id="III01-2" who="orphise">
+            <l n="601" xml:id="l601">Sans paroistre incivile, et manquer de conduitte ;</l>
+            <l n="602" xml:id="l602">Je ne pouvois d’un jour differer ma visite.</l>
+            <l n="603" xml:id="l603">Mon devoir m’obligeoit de respondre à vos soins,</l>
+            <l n="604" xml:id="l604">Et pour n’y pas manquer pouvois-je faire moins ?</l>
+            <l n="605" xml:id="l605">Mais de grace cousine, ostez moy d’une peine,</l>
+            <l n="606" xml:id="l606">Quelle autre chose encor croyez vous qui m’ameine ?</l>
+            <l n="607" xml:id="l607">Quelque secret penser que vous puissiez avoir,<pb n="51" xml:id="p51"/></l>
+            <l n="608" xml:id="l608">N’en imaginez rien que l’honneur de vous voir.</l>
+          </sp>
+          <sp xml:id="III01-3" who="astree">
+            <l n="609" xml:id="l609">Hyppolite au matin vous a dit à l’Eglise,</l>
+            <l n="610" xml:id="l610">Qu’un jeune Cavalier, vous rougissez Orphise !</l>
+          </sp>
+          <sp xml:id="III01-4" who="orphise">
+            <l n="611" xml:id="l611">Qu’un jeune Cavalier, et bien qu’en pensez-vous ?</l>
+          </sp>
+          <sp xml:id="III01-5" who="astree">
+            <l n="612" xml:id="l612">Arrivé d’hyer au soir estoit logé chez nous.</l>
+            <l n="613" xml:id="l613">Si le vray s’accommode avec ma conjecture,</l>
+            <l n="614" xml:id="l614">Elle vous en a fait l’agreable peinture ;</l>
+            <l n="615" xml:id="l615">Et le desir secret de voir l’original,</l>
+            <l n="616" xml:id="l616">Vous a fait, je m’assure, oublier vostre mal.</l>
+          </sp>
+          <sp xml:id="III01-6" who="orphise">
+            <l n="617" xml:id="l617">Cousine, vostre esprit se forme une pensée,</l>
+            <l n="618" xml:id="l618">Dont toute autre que moy se tiendroit offencée ;</l>
+            <l n="619" xml:id="l619">Ce Cavalier a-t’il tant, et de tels <ref target="#appas">appas*</ref>,</l>
+            <l n="620" xml:id="l620">Que pour les admirer on doive faire un pas ?</l>
+          </sp>
+          <sp xml:id="III01-7" who="astree">
+            <l n="621" xml:id="l621">Cousine avecques moy, soyez plus <ref target="#ingenu">ingenuë*</ref>,</l>
+            <l n="622" xml:id="l622">Ne l’avez vous pas veu quand vous estes venuë ?</l>
+            <l n="623" xml:id="l623">C’estoit luy qui lisoit, et dont le <ref target="#compliment">compliment*</ref>,<pb n="52" xml:id="p52"/></l>
+            <l n="624" xml:id="l624">Vous a semblé <ref target="#d-abord">d’abord*</ref> si doux et si <ref target="#charme2">charmant*</ref>.</l>
+          </sp>
+          <sp xml:id="III01-8" who="orphise">
+            <l n="625" xml:id="l625">Vous en dittes beaucoup, je ne m’y connois guere,</l>
+            <l n="626" xml:id="l626">Ou tout ce qu’il m’a dit est d’un stile ordinaire.</l>
+            <l n="627" xml:id="l627">Que voit-on dans son port qu’on ne remarque ailleurs ?</l>
+          </sp>
+          <sp xml:id="III01-9" who="astree">
+            <l n="628" xml:id="l628">Vostre oreille et vos yeux ne sont pas des meilleurs.</l>
+            <l n="629" xml:id="l629">Il n’ignore pas un des termes à la mode,</l>
+            <l n="630" xml:id="l630">A tout ce que l’on veut son esprit s’accommode.</l>
+            <l n="631" xml:id="l631">Qu’on le mette au cageol, ou sur le serieux,</l>
+            <l n="632" xml:id="l632">Il s’en rencontre peu qui s’en demélent mieux.</l>
+            <l n="633" xml:id="l633">Vous parlez de son port ; que voit-on qui n’agrée ?</l>
+            <l n="634" xml:id="l634">Cousine avoüez-le, vous faites la sucrée ;</l>
+            <l n="635" xml:id="l635">Ou si vos sentimens se produisent sans fard,</l>
+            <l n="636" xml:id="l636">Vous n’aimâtes jamais et n’en sçavez pas l’Art.</l>
+          </sp>
+          <sp xml:id="III01-10" who="orphise">
+            <l n="637" xml:id="l637">Si ce discours Cousine explique bien les vostres,</l>
+            <l n="638" xml:id="l638">Je vous y croy sçavante autant et plus que d’autres :</l>
+            <l n="639" xml:id="l639">Cét hoste si bien fait au rapport de vos yeux,</l>
+            <l n="640" xml:id="l640">S’il garde le secret, ne sçauroit estre mieux.</l>
+            <l n="641" xml:id="l641">Cousine vous l’aimez, afin que je m’exprime ;</l>
+            <l n="642" xml:id="l642">Si l’amour n’accompagne, il suit de prés l’estime.</l>
+          </sp>
+          <sp xml:id="III01-11" who="astree">
+            <l n="643" xml:id="l643">C’est aller trop avant, cousine je m’en plains,<pb n="53" xml:id="p53"/></l>
+            <l n="644" xml:id="l644">Je regle mieux mes yeux, mon coeur et mes desseins.</l>
+            <l n="645" xml:id="l645">Quoy qu’en ce Cavalier l’on trouve d’agreable :</l>
+            <l n="646" xml:id="l646">Leandre est l’homme seul qui me paroist <ref target="#aimable">aimable*</ref>.</l>
+            <l n="647" xml:id="l647">J’expireray devant que lui manquer de foy ;</l>
+            <l n="648" xml:id="l648">Mais d’où naist le soupçon que vous avez de moy ?</l>
+            <l n="649" xml:id="l649" part="I">Respondez ma cousine.</l>
+          </sp>
+          <sp xml:id="III01-12" who="orphise">
+            <l part="F">Il naist de l’apparence ;</l>
+            <l n="650" xml:id="l650">Vous loüez l’Estranger avec trop d’eloquence.</l>
+            <l n="651" xml:id="l651">Celles que l’<ref target="#hymen">Hymenée*</ref> attache à des maris,</l>
+            <l n="652" xml:id="l652">Ne parlent en ce sens que de leurs favoris.</l>
+          </sp>
+          <sp xml:id="III01-13" who="astree">
+            <l n="653" xml:id="l653">Que vostre intention explique mal la mienne !</l>
+            <l n="654" xml:id="l654">Ma vertu se soûtient, sans que l’on la soûtienne,</l>
+            <l n="655" xml:id="l655">Au prix de mon mari l’estranger ne m’est rien,</l>
+            <l n="656" xml:id="l656">C’est pour l’amour de vous que j’en ay dit du bien ;</l>
+            <l n="657" xml:id="l657">C’est à vostre sujet que j’ay voulu moy-méme</l>
+            <l n="658" xml:id="l658">Vous parler hautement de son merite extréme :</l>
+            <l n="659" xml:id="l659">Ses parens dans Lyon peuvent tout aujourd’huy,</l>
+            <l n="660" xml:id="l660">Et je voulois de loing vous incliner pour luy.</l>
+          </sp>
+          <sp xml:id="III01-14" who="orphise">
+            <l n="661" xml:id="l661">Ah ! ma chere cousine excusez moy de grace ;<pb n="54" xml:id="p54"/></l>
+            <l n="662" xml:id="l662">Je brûle, et j’essayois de paroistre de glace,</l>
+            <l n="663" xml:id="l663">J’ay veu ce Cavalier, son visage m’a pleu.</l>
+          </sp>
+          <sp xml:id="III01-15" who="astree">
+            <l n="664" xml:id="l664" part="I">En un mot vous l’aimez ?</l>
+          </sp>
+          <sp xml:id="III01-16" who="orphise">
+            <l part="F">Non pas, mais je l’ay veu.</l>
+          </sp>
+          <sp xml:id="III01-17" who="astree">
+            <l n="665" xml:id="l665">Avant que de ceder, vous ne resistez guere :</l>
+            <l n="666" xml:id="l666">Quoy ce jeune Estranger a pû si-tost vous plaire ?</l>
+            <l n="667" xml:id="l667">Ce Cavalier a-t’il des <ref target="#charme2">charmes*</ref> si puissans,</l>
+            <l n="668" xml:id="l668">Qu’ils triomphent <ref target="#d-abord">d’abord*</ref> de l’esprit et des sens ?</l>
+          </sp>
+          <sp xml:id="III01-18" who="orphise">
+            <l n="669" xml:id="l669">Honteuse d’avoüer le foible de mon ame,</l>
+            <l n="670" xml:id="l670">Je montrois des glaçons et cachois de la flâme ;</l>
+            <l n="671" xml:id="l671">Mais helas les brasiers que j’avois au dedans </l>
+            <l n="672" xml:id="l672">Pour estre plus secrets, n’estoient pas moins ardens.</l>
+          </sp>
+          <sp xml:id="III01-19" who="astree">
+            <l n="673" xml:id="l673">A ce mal si pressant il faut trouver remede.</l>
+          </sp>
+          <sp xml:id="III01-20" who="orphise">
+            <l n="674" xml:id="l674">Puis-je sans vanité me promettre de l’aide ?<pb n="55" xml:id="p55"/></l>
+            <l n="675" xml:id="l675">Ce noble Cavalier si chery dans Lyon,</l>
+            <l n="676" xml:id="l676">N’y passoit pas le temps sans inclination :</l>
+            <l n="677" xml:id="l677">Et ma presomption sembleroit bien estrange</l>
+            <l n="678" xml:id="l678">De croire qu’il voulut pour moy courir au change.</l>
+          </sp>
+          <sp xml:id="III01-21" who="astree">
+            <l n="679" xml:id="l679">Ne desesperez rien, menageons vos amours ;</l>
+            <l n="680" xml:id="l680">Encor qu’on soit aimé, l’on aime pas toûjours.</l>
+            <l n="681" xml:id="l681">Le Lyonnois <ref target="#possible">possible*</ref> et sans fers et sans flâme,</l>
+            <l n="682" xml:id="l682">Est venu dans Paris afin d’y prendre femme ;</l>
+            <l n="683" xml:id="l683">Son valet à propos dresse ses pas icy,</l>
+            <l n="684" xml:id="l684">Il rendra sur ce point nostre doute éclaircy.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III02">
+          <sp xml:id="III02-1" who="astree">
+            <l n="685" xml:id="l685" part="I">Escoute un mot.<pb n="56" xml:id="p56"/></l>
+          </sp>
+          <sp xml:id="III02-2" who="valentin">
+            <l part="F">Le temps ne me le peut permettre,</l>
+            <l n="686" xml:id="l686">Je vay voir au Courier s’il n’a point quelque lettre.</l>
+          </sp>
+          <sp xml:id="III02-3" who="astree">
+            <l n="687" xml:id="l687" part="I">De Lyon ?</l>
+          </sp>
+          <sp xml:id="III02-4" who="valentin">
+            <l part="M">De Lyon.</l>
+          </sp>
+          <sp xml:id="III02-5" who="astree">
+            <l part="M">Pour ton Maistre ?</l>
+          </sp>
+          <sp xml:id="III02-6" who="valentin">
+            <l part="F">Pour luy.<pb n="57 ; H"/></l>
+          </sp>
+          <sp xml:id="III02-7" who="astree">
+            <l n="688" xml:id="l688" part="I">De la part ?</l>
+          </sp>
+          <sp xml:id="III02-8" who="valentin">
+            <l part="F">D’un <ref target="#objet">objet*</ref> qui l’enflame aujourd’huy.</l>
+          </sp>
+          <sp xml:id="III02-9" who="orphise">
+            <l n="689" xml:id="l689" part="I">Ah ! je meurs à ces mots.</l>
+          </sp>
+          <sp xml:id="III02-10" who="astree">
+            <l part="F">Qu’ont-ils de si funeste ?</l>
+            <l n="690" xml:id="l690">Venez l’entretenir, je conduiray le reste.</l>
+          </sp>
+          <sp xml:id="III02-11" who="orphise">
+            <l n="691" xml:id="l691">Les lettres sont dis-tu de la part d’un <ref target="#objet">objet*</ref></l>
+            <l n="692" xml:id="l692">Dont ton Maistre amoureux est esclave et sujet,</l>
+            <l n="693" xml:id="l693">De qui depuis long-temps il supporte les chaisnes ;</l>
+            <l n="694" xml:id="l694">Et seul aujourd’huy fait ses liens et ses peines.</l>
+          </sp>
+          <sp xml:id="III02-12" who="valentin">
+            <l n="695" xml:id="l695">Il est ainsi, Madame, et permissent les Cieux</l>
+            <l n="696" xml:id="l696">Qu’il portast autre part sa pensée et ses yeux !</l>
+          </sp>
+          <sp xml:id="III02-13" who="astree">
+            <l n="697" xml:id="l697">Va viste, et fay si bien que tu me les apporte.<pb n="58" xml:id="p58"/></l>
+          </sp>
+          <sp xml:id="III02-14" who="orphise">
+            <l n="698" xml:id="l698">Qui t’oblige à former des souhaits de la sorte ?</l>
+            <l n="699" xml:id="l699">Celle de qui ton Maistre est si fort enflammé,</l>
+            <l n="700" xml:id="l700">A-t’elle rien qui soit indigne d’estre aimé ?</l>
+            <l n="701" xml:id="l701">N’est-elle pas bien noble, et bien riche, et bien belle ?</l>
+          </sp>
+          <sp xml:id="III02-15" who="valentin">
+            <l n="702" xml:id="l702">Toutes ces qualités se rencontrent en elle ;</l>
+            <l n="703" xml:id="l703" part="I">Mais.</l>
+          </sp>
+          <sp xml:id="III02-16" who="orphise">
+            <l part="M">Explique ce mais.</l>
+          </sp>
+          <sp xml:id="III02-17" who="valentin">
+            <l part="F">Ce poinct m’est deffendu,</l>
+            <l n="704" xml:id="l704">Mon Maistre le sçauroit, et je serois perdu.</l>
+          </sp>
+          <sp xml:id="III02-18" who="astree">
+            <l n="705" xml:id="l705">Nous ignorons de tout ; et nos bouches sont closes ;<pb n="59" xml:id="p59"/></l>
+            <l n="706" xml:id="l706">Apres qu’on nous a dit en secret quelques choses.</l>
+            <l n="707" xml:id="l707" part="I">Parle.</l>
+          </sp>
+          <sp xml:id="III02-19" who="valentin">
+            <l part="F">Mon Maistre vient, Ciel quel est mon <ref target="#soucy">soucy*</ref>,</l>
+            <l n="708" xml:id="l708">Que ne dira-t’il pas de me trouver icy !</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III03">
+          <sp xml:id="III03-1" who="filemon">
+            <l n="709" xml:id="l709">Quoy maraut, quoy coquin, quoy perfide, quoy traistre ?<pb n="60" xml:id="p60"/></l>
+            <l n="710" xml:id="l710">C’est ainsi que tu suis les ordres de ton Maistre ;</l>
+            <l n="711" xml:id="l711">Mes Dames pardonnez, si mon <ref target="#juste">juste*</ref> courroux</l>
+            <l n="712" xml:id="l712">Envers ce miserable éclate devant vous :</l>
+            <l n="713" xml:id="l713">J’attends par le Courrier des lettres d’importance,</l>
+            <l n="714" xml:id="l714">Pour qui j’ay des desirs et de l’impatience ;</l>
+            <l n="715" xml:id="l715">Va viste mal-heureux, mille coups aujourd’huy,</l>
+          </sp>
+          <sp xml:id="III03-2" who="astree">
+            <l n="716" xml:id="l716">Nous sommes elle et moy, plus coupables que luy :</l>
+            <l n="717" xml:id="l717">Nous l’avons retenu, soyez luy moins severe.</l>
+          </sp>
+          <sp xml:id="III03-3" who="filemon">
+            <l n="718" xml:id="l718">Mes Dames à ce mot, je suis hors de colere,</l>
+            <l n="719" xml:id="l719">Rends grace à ces beautez de qui je suy les Loix,<pb n="61" xml:id="p61"/></l>
+            <l n="720" xml:id="l720">Et sois à me servir plus prompt une autre fois.</l>
+          </sp>
+          <sp xml:id="III03-4" who="orphise">
+            <l n="721" xml:id="l721">Nous ne demandons pas si c’est quelque Maistresse</l>
+            <l n="722" xml:id="l722">Que vostre éloignement retient dans la tristesse ;</l>
+            <l n="723" xml:id="l723">Et qui pour soulager son tourment amoureux</l>
+            <l n="724" xml:id="l724">Vous doit dans ses écrits exaggerer ses feux.</l>
+          </sp>
+          <sp xml:id="III03-5" who="filemon">
+            <l n="725" xml:id="l725">Je veux bien l’avoüer, les lettres que j’espere</l>
+            <l n="726" xml:id="l726">Sont de douces faveurs d’une main qui m’est chere ;</l>
+            <l n="727" xml:id="l727">D’un <ref target="#objet">objet*</ref> plus <ref target="#aimable">aimable*</ref> encor qu’il n’est aimé :</l>
+            <l n="728" xml:id="l728">Mais pour qui vainement mon coeur est enflammé.</l>
+          </sp>
+          <sp xml:id="III03-6" who="orphise">
+            <l n="729" xml:id="l729">Pourrions nous Cavalier sçavoir cette avanture ?</l>
+          </sp>
+          <sp xml:id="III03-7" who="filemon">
+            <l n="730" xml:id="l730">Elle est certainement bien estrange et bien dure.</l>
+            <l n="731" xml:id="l731">Oüy vous sçaurez l’estat de mes tristes amours</l>
+            <l n="732" xml:id="l732">Que la suitte du temps vous aprendroit toûjours.</l>
+            <l n="733" xml:id="l733">J’aimay dedans Lyon, et fus aimé de mesme,</l>
+            <l n="734" xml:id="l734">D’une Dame <ref target="#charme2">charmante*</ref> et de merite extréme,</l>
+            <l n="735" xml:id="l735">Jeune, de noble sang, et mesme dont les biens</l>
+            <l n="736" xml:id="l736">S’ils ne les surpassoient, ne cedoient pas aux miens ;</l>
+            <l n="737" xml:id="l737">Elle souffroit pour moy, si je brûlois pour elle ;<pb n="62" xml:id="p62"/></l>
+            <l n="738" xml:id="l738">Nous avions en un mot une amour mutuelle.</l>
+            <l n="739" xml:id="l739">Mais une vielle haine entre nos deux maisons,</l>
+            <l n="740" xml:id="l740">S’oppose au doux <ref target="#hymen">Hymen*</ref> que nous nous proposons.</l>
+            <l n="741" xml:id="l741">Nous tâchons vainement de reünir nos peres ;</l>
+            <l n="742" xml:id="l742">Plus nous les en prions, plus ils nous sont contraires,</l>
+            <l n="743" xml:id="l743">Ainsi n’esperant rien que du sort et des Cieux,</l>
+            <l n="744" xml:id="l744">Je quitte pour six mois le <ref target="#charme2">charme*</ref> de mes yeux.</l>
+            <l n="745" xml:id="l745">Rome, Naples, Venize, et Padoüe, et Florence ;</l>
+            <l n="746" xml:id="l746">Furent pendant ce temps, tesmoins de ma souffrance.</l>
+            <l n="747" xml:id="l747">L’Esté quand je partis commençoit ses chaleurs,</l>
+            <l n="748" xml:id="l748">L’Hyver quand je revins, exerçoit ses rigueurs :</l>
+            <l n="749" xml:id="l749">Florinde à mon <ref target="#abord">abord*</ref> ne fut pas oubliée ;</l>
+            <l n="750" xml:id="l750">L’on m’asseura <ref target="#d-abord">d’abord*</ref> qu’elle estoit mariée,</l>
+            <l n="751" xml:id="l751">(Florinde, c’est le nom de l’<ref target="#objet">objet*</ref> souverain,</l>
+            <l n="752" xml:id="l752">A qui j’ay tant rendu de services en vain)</l>
+            <l n="753" xml:id="l753">Si j’en sentis au cœur, une mortelle atteinte,</l>
+            <l n="754" xml:id="l754">Si mon ressentiment s’exprima par la plainte ;</l>
+            <l n="755" xml:id="l755">Et si mes vains regrets furent si-tost passez,</l>
+            <l n="756" xml:id="l756">Je ne vous le dy pas, vous le jugez assez.</l>
+            <l n="757" xml:id="l757">Je revoy cependant cette <ref target="#aimable">aimable*</ref> personne,</l>
+            <l n="758" xml:id="l758">Toûjours dans les respects que le devoir ordonne.</l>
+            <l n="759" xml:id="l759">Son mari trop enclin aux jalouses erreurs,</l>
+            <l n="760" xml:id="l760">En conçoit contre nous de secrettes fureurs.</l>
+            <l n="761" xml:id="l761">Toutes nos actions, luy donnent de l’<ref target="#ombrage">ombrage*</ref>,<pb n="63" xml:id="p63"/></l>
+            <l n="762" xml:id="l762">Il croit que nous parlons de tout nostre visage.</l>
+            <l n="763" xml:id="l763">Que nos yeux concertez s’entretiennent d’amour,</l>
+            <l n="764" xml:id="l764">Qu’ils se marquent le lieu, qu’ils se donnent le jour.</l>
+            <l n="765" xml:id="l765">Cela n’arreste pas le cours de mes visites,</l>
+            <l n="766" xml:id="l766">Je revere toûjours Florinde, et ses merites ;</l>
+            <l n="767" xml:id="l767">Enfin qu’arriva-t’il ? nous estions elle et moy</l>
+            <l n="768" xml:id="l768">A nous entretenir de je ne sçay plus quoy ;</l>
+            <l n="769" xml:id="l769">Quand son petit Laquais contre son ordinaire,</l>
+            <l n="770" xml:id="l770">Ferma sur nous la porte, et creut beaucoup nous plaire.</l>
+            <l n="771" xml:id="l771">La clef tombe en fermant : il ne l’avise pas,</l>
+            <l n="772" xml:id="l772">Nous demeurons en haut, et luy descend en bas.</l>
+            <l n="773" xml:id="l773">Par un nouveau mal-heur, nostre jaloux arrive,</l>
+            <l n="774" xml:id="l774">Florinde est à sa voix aussi morte que vive :</l>
+            <l n="775" xml:id="l775">Il heurle, l’on ne peut ouvrir par le dedans.</l>
+            <l n="776" xml:id="l776">Il redouble, et tout bas murmure entre ses dents.</l>
+            <l n="777" xml:id="l777">Enfin cét <ref target="#ombrage">ombrageux*</ref> à tel excez s’emporte,</l>
+            <l n="778" xml:id="l778">Que d’un grand coup de pied il enfonce la porte.</l>
+            <l n="779" xml:id="l779">Il entre, et sans parler, cét homme <ref target="#furieux">furieux*</ref></l>
+            <l n="780" xml:id="l780">Vient donner à Florinde un souflet à mes yeux.</l>
+            <l n="781" xml:id="l781">Il relevoit la main pour en donner un autre,</l>
+            <l n="782" xml:id="l782">Quand je luy dis : Monsieur, quel caprice est le vostre ?</l>
+            <l n="783" xml:id="l783">Faut-il que vous suiviez ces <ref target="#ombrage">ombrages*</ref> legers ?</l>
+            <l n="784" xml:id="l784">Faittes mieux, n’ayez plus ces indignes pensers. </l>
+            <l n="785" xml:id="l785">Et n’en venez jamais à telles violences,</l>
+            <l n="786" xml:id="l786">Pour des soupçons fondez <ref target="#dessus">dessus*</ref> des apparences.</l>
+            <l n="787" xml:id="l787">L’apparence est trop claire, et mon bras <ref target="#irriter">irrité*</ref><pb n="64" xml:id="p64"/></l>
+            <l n="788" xml:id="l788">En vange le soupçon comme une verité.</l>
+            <l n="789" xml:id="l789">Il me porte à ces mots un ou deux coups d’espée ;</l>
+            <l n="790" xml:id="l790">La mienne en ma deffence est soudain occupée.</l>
+            <l n="791" xml:id="l791">Je passe, et plus adroit, ou plus aimé du sort,</l>
+            <l n="792" xml:id="l792">Je le mets sur la place, et le laisse pour mort.</l>
+            <l n="793" xml:id="l793">Sa cheute fait du bruit, j’entends quelqu’un qui monte,</l>
+            <l n="794" xml:id="l794">Si l’accident est prompt, ma retraitte est plus prompte.</l>
+            <l n="795" xml:id="l795">Le coup se fit le soir, je partis le matin.</l>
+            <l n="796" xml:id="l796">Voila de mes amours l’histoire et le destin ;</l>
+            <l n="797" xml:id="l797">Les lettres que j’attends sont de l’infortunée,</l>
+            <l n="798" xml:id="l798">Qui seule à tant de maux se void abandonnée.</l>
+          </sp>
+          <sp xml:id="III03-8" who="astree">
+            <l n="799" xml:id="l799">Que peut-elle esperer de vostre affection ?</l>
+          </sp>
+          <sp xml:id="III03-9" who="filemon">
+            <l n="800" xml:id="l800">Je m’en retourneray s’il le faut à Lyon ;</l>
+            <l n="801" xml:id="l801">Et si pour cette mort la justice l’arreste,</l>
+            <l n="802" xml:id="l802">Jusques sur l’échaffaut j’iray porter ma teste.</l>
+          </sp>
+          <sp xml:id="III03-10" who="orphise">
+            <l n="803" xml:id="l803" part="I">Mais avez vous tué ?</l>
+          </sp>
+          <sp xml:id="III03-11" who="filemon">
+            <l part="F">Je n’en suis pas certain,<pb n="65 ; I"/></l>
+            <l n="804" xml:id="l804">Mon <ref target="#courage">courage*</ref> en ce cas desavouëroit ma main.</l>
+          </sp>
+          <sp xml:id="III03-12" who="orphise">
+            <l n="805" xml:id="l805">Et cette veufve un jour deviendroit vostre femme ?</l>
+          </sp>
+          <sp xml:id="III03-13" who="filemon">
+            <l n="806" xml:id="l806">Elle craint autrement les soupçons et le blâme,</l>
+            <l n="807" xml:id="l807">Elle aimoit son espoux ; et feroit son effort</l>
+            <l n="808" xml:id="l808">D’immoler le vivant sur la tombe du mort.</l>
+          </sp>
+          <sp xml:id="III03-14" who="astree">
+            <l n="809" xml:id="l809">N’esperant donc plus rien que vangeance et que larmes,</l>
+            <l n="810" xml:id="l810">Que ne devenez-vous sensible à d’autres <ref target="#charme2">charmes*</ref> ?</l>
+            <l n="811" xml:id="l811">Que ne faites-vous choix de quelque digne <ref target="#objet">objet*</ref>,</l>
+            <l n="812" xml:id="l812">Dont vous soyez ensemble et Monarque et Sujet ?</l>
+          </sp>
+          <sp xml:id="III03-15" who="filemon">
+            <l n="813" xml:id="l813">Je n’ay pas tant tardé de perdre ma <ref target="#franchise">franchise*</ref> ;</l>
+            <l n="814" xml:id="l814">Presque dés mon <ref target="#abord">abord*</ref> elle vous fut surprise :</l>
+            <l n="815" xml:id="l815">Depuis le peu de temps que je suis dans Paris,</l>
+            <l n="816" xml:id="l816">On m’a volé mon coeur : deux beaux yeux me l’ont pris.</l>
+          </sp>
+          <sp xml:id="III03-16" who="orphise">
+            <l n="817" xml:id="l817">Ne connoistrons-nous point ces voleurs admirables,<pb n="66" xml:id="p66"/></l>
+            <l n="818" xml:id="l818">Qu’on aime d’autant plus qu’on les trouve coupables ?</l>
+          </sp>
+          <sp xml:id="III03-17" who="filemon">
+            <l n="819" xml:id="l819">M’en plaindre et les nommer, il ne m’est pas permis ;</l>
+            <l n="820" xml:id="l820">Ils touchent de trop prés à l’un de mes amis.</l>
+            <l n="821" xml:id="l821">Que ce mot soit assez, le temps et mes affaires</l>
+            <l n="822" xml:id="l822">M’empéchent de parler en paroles plus claires ;</l>
+            <l n="823" xml:id="l823">Vous connoistrez un jour ces yeux remplis d’<ref target="#appas">appas*</ref>,</l>
+            <l n="824" xml:id="l824">Si je voy que mes feux ne leur deplaisent pas.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III04">
+          <sp xml:id="III04-1" who="filemon">
+            <l n="825" xml:id="l825">Et bien m’apportes-tu les lettres desirées ?<pb n="67" xml:id="p67"/></l>
+          </sp>
+          <sp xml:id="III04-2" who="valentin">
+            <l n="826" xml:id="l826" part="I">Ah ! Monsieur.</l>
+          </sp>
+          <sp xml:id="III04-3" who="filemon">
+            <l part="M">Qu’est-ce donc ?</l>
+          </sp>
+          <sp xml:id="III04-4" who="valentin">
+            <l part="F">On les a retirées,</l>
+            <l n="827" xml:id="l827">Quelqu’un de vostre part les est allé querir.</l>
+          </sp>
+          <sp xml:id="III04-5" who="filemon">
+            <l n="828" xml:id="l828"> Ce coup est suffisant de me faire mourir.</l>
+            <l n="829" xml:id="l829">Voila, méchant coquin ! l’effet de ta paresse.</l>
+          </sp>
+          <sp xml:id="III04-6" who="astree">
+            <l n="830" xml:id="l830" part="I">Vous nous avez promis.<pb n="68" xml:id="p68"/></l>
+          </sp>
+          <sp xml:id="III04-7" who="filemon">
+            <l part="F">Je tiendray ma promesse,</l>
+            <l n="831" xml:id="l831">Permettez cependant que changeant de propos,</l>
+            <l n="832" xml:id="l832">J’aille sur ce sujet écrire un ou deux mots.</l>
+            <l n="833" xml:id="l833">Je veux donner avis de cette procedure,</l>
+            <l n="834" xml:id="l834">Afin qu’une autre fois l’on change d’écriture,</l>
+            <l n="835" xml:id="l835">D’adresse, de cachet, de qualitez, de nom,</l>
+            <l n="836" xml:id="l836">Et que ce soit Alcandre, au lieu de Filemon.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III05">
+          <sp xml:id="III05-1" who="astree">
+            <l n="837" xml:id="l837">Vous estes, ma cousine, à present soulagée ;<pb n="69" xml:id="p69"/></l>
+            <l n="838" xml:id="l838">Son ame dans Lyon ne s’est point engagée ;</l>
+            <l n="839" xml:id="l839">J’espere que l’<ref target="#hymen">Hymen*</ref>, vous fera son lien.</l>
+          </sp>
+          <sp xml:id="III05-2" who="orphise">
+            <l n="840" xml:id="l840">Je le souhaitte helas ! Et n’en espere rien.</l>
+            <l n="841" xml:id="l841">Ne vous souvient-il pas des choses qu’il a dittes ?</l>
+            <l n="842" xml:id="l842">Qu’il adore un <ref target="#objet">objet*</ref> sans égal en merites ;</l>
+            <l n="843" xml:id="l843">Qu’il n’estoit presque pas arrivé dans Paris,</l>
+            <l n="844" xml:id="l844">Qu’il apperceut des yeux dont son coeur fut espris.</l>
+          </sp>
+          <sp xml:id="III05-3" who="astree">
+            <l n="845" xml:id="l845">Ce n’est que d’hyer au soir qu’il est en cette ville ;</l>
+            <l n="846" xml:id="l846">Ainsi de son discours le sens est bien facile.</l>
+            <l n="847" xml:id="l847">Il n’a pû voir encor personne que nous deux.</l>
+            <l n="848" xml:id="l848">Conjecturez de-là, que vous causez ses feux.</l>
+          </sp>
+          <sp xml:id="III05-4" who="orphise">
+            <l n="849" xml:id="l849" part="I">Il vous a veuë aussi.<pb n="70" xml:id="p70"/></l>
+          </sp>
+          <sp xml:id="III05-5" who="astree">
+            <l part="F">Mais l’<ref target="#hymen">Hymen*</ref> qui me lie,</l>
+            <l n="850" xml:id="l850">Dit trop qu’il n’en peut rien esperer sans folie.</l>
+          </sp>
+          <sp xml:id="III05-6" who="orphise">
+            <l n="851" xml:id="l851">Il aima bien Florinde, et mesme noeud pourtant.</l>
+          </sp>
+          <sp xml:id="III05-7" who="astree">
+            <l n="852" xml:id="l852">Vous me vaincrez enfin, si vous en dittes tant.</l>
+            <l n="853" xml:id="l853">A juger toutesfois selon les apparences,</l>
+            <l n="854" xml:id="l854">Vous seule asseurément fondez ses esperances.</l>
+          </sp>
+          <sp xml:id="III05-8" who="orphise">
+            <l n="855" xml:id="l855">Cousine, que ce mot me soit encor permis,</l>
+            <l n="856" xml:id="l856">Vous touchez de plus prés à l’un de ses amis.</l>
+          </sp>
+          <sp xml:id="III05-9" who="astree">
+            <l n="857" xml:id="l857">Vous me mettez, Orphise, en une peine extréme,</l>
+            <l n="858" xml:id="l858">Je doute si c’est vous ou si c’est moy qu’il aime.</l>
+            <l n="859" xml:id="l859">L’apparence est égale, et de tous les costez,</l>
+            <l n="860" xml:id="l860">J’y vois de mesmes nuicts et de mesmes clartez.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III06">
+          <sp xml:id="III06-1" who="hyppolite">
+            <l n="861" xml:id="l861">J’ay le paquet, Madame, et si j’ay fait promettre<pb n="71" xml:id="p71"/></l>
+            <l n="862" xml:id="l862">Qu’on me reconnoistra s’il vient quelqu’autre lettre.</l>
+          </sp>
+          <sp xml:id="III06-2" who="astree">
+            <l n="863" xml:id="l863">Voyons en le secret, et si le Cavalier</l>
+            <l n="864" xml:id="l864">N’a rien au fond du coeur de plus particulier.</l>
+            <p rend="center">Lettre de Florinde à Filemon.</p>
+            <p>MONSIEUR.</p>
+            <p xml:id="lettre-III6">Le Ciel a voulu pour ma joye et pour vostre repos, que mon mary ait presque esté aussi-tost guary que blessé ; si une demarche qu’il fit, ne le garentit pas tout à fait du coup que vous lui portâtes, il le rendit leger. Le pied luy manqua, non la force, ni la resolution. Il se porte aussi bien qu’auparavant ; mais<pb n="72" xml:id="p72"/>j’en suis plus mal-traittée que jamais : Ses Soupçons le travaillent sans tréve, et luy me persecute sans relasche. S’il continuë, je vous le <ref target="#mander">manderay*</ref> ; mais partez aussi-tost, et si vous estes <ref target="#genereux">genereux*</ref>, venez delivrer de peine l’innocente autant qu’affligée</p>
+            <p rend="right">FLORINDE.</p>
+          </sp>
+          <sp xml:id="III06-3" who="astree">
+            <l n="865" xml:id="l865">Nous mettrons tant la ruse, et l’intrigue en usage,</l>
+            <l n="866" xml:id="l866">Que nous l’empécherons de faire ce voyage.</l>
+          </sp>
+          <sp xml:id="III06-4" who="orphise">
+            <l n="867" xml:id="l867">Destournez ce papier, Leandre vient à nous.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III07">
+          <sp xml:id="III07-1" who="leandre">
+            <l n="868" xml:id="l868">Que craignez vous de moy, quel écrit cachez vous ?<pb n="73 ; K"/></l>
+            <l n="869" xml:id="l869">A voir vostre maintien vous paroissez surprise.</l>
+            <l n="870" xml:id="l870" part="I">Qu’est-ce ?</l>
+          </sp>
+          <sp xml:id="III07-2" who="astree">
+            <l part="F">Ce sont des vers qu’on a fait pour Clorise.</l>
+          </sp>
+          <sp xml:id="III07-3" who="leandre">
+            <l n="871" xml:id="l871" part="I">D’Amour ?</l>
+          </sp>
+          <sp xml:id="III07-4" who="astree">
+            <l part="M">Peut estre bien.</l>
+          </sp>
+          <sp xml:id="III07-5" who="orphise">
+            <l part="F">Vous voulez tout sçavoir ?</l>
+          </sp>
+          <sp xml:id="III07-6" who="leandre">
+            <l n="872" xml:id="l872">Ne vous en fâchez point, je ne les veux pas voir ;<pb n="74" xml:id="p74"/></l>
+            <l n="873" xml:id="l873">Mais je desirerois d’entendre de vous mesme,</l>
+            <l n="874" xml:id="l874">Si nostre nouvel hoste est indigne qu’on l’aime.</l>
+          </sp>
+          <sp xml:id="III07-7" who="orphise">
+            <l n="875" xml:id="l875">Il n’est pas hayssable, il le faut avoüer,</l>
+            <l n="876" xml:id="l876">Mais qu’a-t’il tant aussi que l’on doive loüer ?</l>
+          </sp>
+          <sp xml:id="III07-8" who="astree">
+            <l n="877" xml:id="l877">Vous vous connoissez mal au merite des hommes ;</l>
+            <l n="878" xml:id="l878">Il est un doux aimant du sexe que nous sommes.</l>
+            <l n="879" xml:id="l879">Vous ne vistes jamais de Cavalier mieux fait ;</l>
+            <l n="880" xml:id="l880">Il n’est point d’agreement, ni de <ref target="#vertu">vertu*</ref> qu’il n’ait.</l>
+            <l n="881" xml:id="l881">S’il parle, on est ravy dés qu’il ouvre la bouche.</l>
+            <l n="882" xml:id="l882">Il <ref target="#charme2">charme*</ref> sur le luth lors que sa main le touche,</l>
+            <l n="883" xml:id="l883">Aux armes il est craint, il ravit dans le bal ;</l>
+            <l n="884" xml:id="l884">Et le Dieu des combats n’est pas mieux à cheval.</l>
+          </sp>
+          <sp xml:id="III07-9" who="leandre">
+            <l n="885" xml:id="l885">Quelle naïveté se compare à la vostre ?</l>
+            <l n="886" xml:id="l886">Ce discours seroit mieux en la bouche d’une autre.</l>
+            <l n="887" xml:id="l887">Madame, une autre fois parlez d’autre façon,</l>
+            <l n="888" xml:id="l888">Un mary plus credule en auroit du soupçon.</l>
+          </sp>
+          <sp xml:id="III07-10" who="astree">
+            <l n="889" xml:id="l889">Mais vous n’estes pas homme à prendre de l’<ref target="#ombrage">ombrage*</ref>.<pb n="75" xml:id="p75"/></l>
+            <l n="890" xml:id="l890">Je vous diray de plus, que je crains qu’on l’outrage,</l>
+            <l n="891" xml:id="l891">Il a des ennemis qui conspirent sa mort,</l>
+            <l n="892" xml:id="l892">On ne les connoist pas, il est perdu s’il sort.</l>
+          </sp>
+          <sp xml:id="III07-11" who="leandre">
+            <l n="893" xml:id="l893">Comment le sçavez-vous, pourquoy faut-il qu’il craigne ?</l>
+          </sp>
+          <sp xml:id="III07-12" who="astree">
+            <l n="894" xml:id="l894">Des hommes inconnus, sous une fausse enseigne,</l>
+            <l n="895" xml:id="l895">Ont surpris aujourd’huy ses lettres au Courrier.</l>
+          </sp>
+          <sp xml:id="III07-13" who="leandre">
+            <l n="896" xml:id="l896">Vostre crainte est prudente, il s’en faut deffier.</l>
+          </sp>
+          <sp xml:id="III07-14" who="astree">
+            <l n="897" xml:id="l897">Ce sont quelques amis du mary de Florinde.</l>
+          </sp>
+          <sp xml:id="III07-15" who="leandre">
+            <l n="898" xml:id="l898">Je prise Filemon plus que tout l’or de l’Inde.<pb n="76" xml:id="p76"/></l>
+          </sp>
+          <sp xml:id="III07-16" who="astree">
+            <l n="899" xml:id="l899">Faites donc qu’on le <ref target="#celer">cele*</ref>, et qu’il ne sorte pas.</l>
+          </sp>
+          <sp xml:id="III07-17" who="leandre">
+            <l n="900" xml:id="l900">Je vay touchant ce poinct le trouver de ce pas.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III08">
+          <sp xml:id="III08-1" who="astree">
+            <l n="901" xml:id="l901">Connoissez vous le but de ce prompt stratagéme ?<pb n="77" xml:id="p77"/></l>
+            <l n="902" xml:id="l902">Il iroit s’il sortoit, chez le Courrier luy mesme ;</l>
+            <l n="903" xml:id="l903">Recevroit ses paquets, feroit response aussi,</l>
+            <l n="904" xml:id="l904">Et <ref target="#possible">possible*</ref> demain s’eloignera d’icy.</l>
+          </sp>
+          <sp xml:id="III08-2" who="orphise">
+            <l n="905" xml:id="l905" part="I">J’admire vostre esprit.</l>
+          </sp>
+          <sp xml:id="III08-3" who="astree">
+            <l part="F">Ce n’est pas tout encore,</l>
+            <l n="906" xml:id="l906">Le Lyonnois écrit à l’<ref target="#objet">objet*</ref> qu’il adore ;</l>
+            <l n="907" xml:id="l907">Il faut avoir sa lettre, et pour n’y pas manquer,</l>
+            <l n="908" xml:id="l908">Hyppolite, écoutez, ce qu’il faut pratiquer.</l>
+          </sp>
+          <sp xml:id="III08-4" who="orphise">
+            <l n="909" xml:id="l909">Amour qui sçait mon mal aide à nostre entreprise.</l>
+          </sp>
+          <sp xml:id="III08-5" who="astree">
+            <l n="910" xml:id="l910">Mes ordres sont donnez, retirons nous Orphise.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III09">
+          <sp xml:id="III09-1" who="hyppolite">
+            <l n="911" xml:id="l911">Que l’esprit d’une femme a de ressors divers !<pb n="78" xml:id="p78"/></l>
+            <l n="912" xml:id="l912">Qu’il sçait de faux sentiers et de chemins couverts,</l>
+            <l n="913" xml:id="l913">Qui croit nous voir dedans, ne nous void qu’en l’écorce,</l>
+            <l n="914" xml:id="l914">Nous faisons plus par air que les hommes par force.</l>
+            <l n="915" xml:id="l915">Les plus ruzez d’entr’eux s’y trouvent confondus,</l>
+            <l n="916" xml:id="l916">Et se prennent aux rets que nous avons tendus.</l>
+            <l n="917" xml:id="l917">Filemon le sçaura ; mais son valet s’approche,</l>
+            <l n="918" xml:id="l918">Et tire en mon avis des lettres de sa poche :</l>
+            <l n="919" xml:id="l919">Elles sont de la part du jeune Lyonnois.</l>
+            <l n="920" xml:id="l920">Il les faut attrapper pour la seconde fois,</l>
+            <l n="921" xml:id="l921">Et pour y reüssir, me servir de l’<ref target="#adresse">addresse*</ref>,</l>
+            <l n="922" xml:id="l922">Dont me vient en secret d’instruire ma Maistresse.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III10">
+          <sp xml:id="III10-1" who="valentin">
+            <l n="923" xml:id="l923" part="I">Adieu belle Hyppolite !<pb n="79" xml:id="p79"/></l>
+          </sp>
+          <sp xml:id="III10-2" who="hyppolite">
+            <l part="F">Adieu beau Valentin.</l>
+          </sp>
+          <sp xml:id="III10-3" who="valentin">
+            <l n="924" xml:id="l924">Ce que c’est qu’en un mois me peigner un matin ;</l>
+            <l n="925" xml:id="l925">Encor un coup, adieu, je vay porter ma lettre.</l>
+          </sp>
+          <sp xml:id="III10-4" who="hyppolite">
+            <l n="926" xml:id="l926">En quel mortel danger, ne te vas tu pas mettre ?</l>
+            <l n="927" xml:id="l927">Tu n’en reviendras pas, songe à ton testament,</l>
+            <l n="928" xml:id="l928" part="I">J’en pleure de douleur.</l>
+          </sp>
+          <sp xml:id="III10-5" who="valentin">
+            <l part="F">Hyppolite, comment ?</l>
+          </sp>
+          <sp xml:id="III10-6" who="hyppolite">
+            <l n="929" xml:id="l929">Comment pauvre garçon ? es-tu sans conjecture,<pb n="80" xml:id="p80"/></l>
+            <l n="930" xml:id="l930">De te voir accueilly d’une triste avanture,</l>
+            <l n="931" xml:id="l931">Où t’allois-tu jetter, où t’es-tu presque mis ?</l>
+            <l n="932" xml:id="l932">Ton Maistre n’a-t’il pas de secrets ennemis.</l>
+            <l n="933" xml:id="l933">N’a-t’on pas aujourd’huy ses lettres <ref target="#divertir">diverties*</ref> ?</l>
+            <l n="934" xml:id="l934">Que l’on fait contre luy de funestes parties,</l>
+            <l n="935" xml:id="l935">Je te plains s’il avient qu’une fois tu sois pris :</l>
+            <l n="936" xml:id="l936">Ils t’assassineront pour avoir ses écrits,</l>
+            <l n="937" xml:id="l937" part="I">Qu’en croy-tu Valentin ?</l>
+          </sp>
+          <sp xml:id="III10-7" who="valentin">
+            <l part="F">Hyppolite, je pense</l>
+            <l n="938" xml:id="l938">Qu’on garde des soupçons dessus moins d’apparence ;</l>
+            <l n="939" xml:id="l939">Mais ce paquet tout seul, ira-t’il au Courrier.</l>
+          </sp>
+          <sp xml:id="III10-8" who="hyppolite">
+            <l n="940" xml:id="l940">Reçoit de mon amour ce plaisir tout entier,</l>
+            <l n="941" xml:id="l941" part="I">Donne.</l>
+          </sp>
+          <sp xml:id="III10-9" who="valentin">
+            <l part="M">Tu m’aimes donc ?</l>
+          </sp>
+          <sp xml:id="III10-10" who="hyppolite">
+            <l part="F">O la belle demande !</l>
+          </sp>
+          <sp xml:id="III10-11" who="valentin">
+            <l n="942" xml:id="l942">J’aurois tort d’en douter, l’apparence en est grande,<pb n="81 ; L"/></l>
+            <l n="943" xml:id="l943" part="I">Parlons de nostre amour.</l>
+          </sp>
+          <sp xml:id="III10-12" who="hyppolite">
+            <l part="F">Non, disons-nous adieu,</l>
+            <l n="944" xml:id="l944">Ton Maistre pesteroit s’il venoit en ce lieu.</l>
+          </sp>
+          <sp xml:id="III10-13" who="valentin">
+            <l n="945" xml:id="l945">J’y suis depuis ce mot pied-nuds sur des espines.</l>
+            <l n="946" xml:id="l946">Le retour, comme on dit, seroit pis que matines ;</l>
+            <l n="947" xml:id="l947" part="I">Adieu donc, Hyppolite !</l>
+          </sp>
+          <sp xml:id="III10-14" who="hyppolite">
+            <l part="F">Adieu donc Valentin,</l>
+            <l n="948" xml:id="l948">Que sois-tu quelque jour mon réveille-matin.</l>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="IV" type="act">
+        <div type="scene" xml:id="IV01">
+          <sp xml:id="IV01-1" who="astree">
+            <l n="949" xml:id="l949">Il faut de plus en plus que nostre esprit s’exerce<pb n="82" xml:id="p82"/></l>
+            <l n="950" xml:id="l950">A prendre leurs écrits, et rompre leur commerce.</l>
+            <l n="951" xml:id="l951">L’<ref target="#adresse">addresse*</ref> d’Hypolite a secondé vos veux,</l>
+            <l n="952" xml:id="l952">Deplions cette lettre, et lisons toutes deux.</l>
+            <p rend="center">Lettre de Filemon à Florinde.</p>
+            <p>MADAME.</p>
+            <p>Je vous donne avis que vostre mari a mis ordre de surprendre nos lettres. Ce procedé me fait croire que<pb n="83" xml:id="p83"/>les soupçons qu’il a pû concevoir, s’augmentent d’heure à autre ; S’il est ainsi, quoy que vous n’en soiez pas mal traittée maintenant vous le pourrez estre un jour. Je le crains</p>
+            <p rend="right">FILEMON.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV02">
+          <sp xml:id="IV02-1" who="orphise">
+            <l n="953" xml:id="l953" part="I">Cachez…<pb n="84" xml:id="p84"/></l>
+          </sp>
+          <sp xml:id="IV02-2" who="leandre">
+            <l part="F">Encor un coup, ce procedé me fâche ; </l>
+            <l n="954" xml:id="l954">Que puis-je presumer d’un écrit qu’on me cache ?</l>
+            <l n="955" xml:id="l955">Dissimulons pourtant, et nous fermons les yeux ;</l>
+            <l n="956" xml:id="l956">L’on est souvent puny d’estre trop curieux.</l>
+            <l n="957" xml:id="l957">J’ay fait ce que j’ay pû, sans le pouvoir reduire :</l>
+            <l n="958" xml:id="l958">Filemon ne croit rien capable de luy nuire.</l>
+            <l n="959" xml:id="l959">Son <ref target="#coeur">coeur*</ref> pour le peril ne s’est point dementy ;</l>
+            <l n="960" xml:id="l960">Il sortira bien-tost s’il n’est déja sorty.</l>
+          </sp>
+          <sp xml:id="IV02-3" who="astree">
+            <l n="961" xml:id="l961">Il faut l’en empécher quelque soit son envie,</l>
+            <l n="962" xml:id="l962">C’est à vous plus qu’à luy de conserver sa vie.</l>
+            <l n="963" xml:id="l963">Il est logé chez vous, vous l’avez amené.</l>
+            <l n="964" xml:id="l964">Du destin qu’il auroit vous seriez soupçonné.</l>
+            <l n="965" xml:id="l965">Ma priere <ref target="#possible">possible*</ref> aura plus d’efficace,<pb n="85" xml:id="p85"/></l>
+            <l n="966" xml:id="l966">J’en obtiendray ce poinct ou de force ou de grace ;</l>
+            <l n="967" xml:id="l967">Ma cousine venez, en ce pressant danger,</l>
+            <l n="968" xml:id="l968">Nous avons tout à craindre, et rien à negliger.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV03">
+          <sp xml:id="IV03-1" who="leandre">
+            <l n="969" xml:id="l969">A mille autres ces soins donneroient de l’<ref target="#ombrage">ombrage*</ref> ;</l>
+            <l n="970" xml:id="l970">Mais le Ciel n’est pas dur, ou bien Astrée est sage.</l>
+            <l n="971" xml:id="l971">Ses plus secrets desirs se conforment aux miens.</l>
+            <l n="972" xml:id="l972">Elle suit mon humeur, mes pensers sont les siens.</l>
+            <l n="973" xml:id="l973">J’estime Filemon, Astrée en fait de mesme :</l>
+            <l n="974" xml:id="l974">Et l’aime seulement à cause que je l’aime.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV04">
+          <sp xml:id="IV04-1" who="sylvain">
+            <l n="975" xml:id="l975">Il me faut aquiter de ma commission.<pb n="86" xml:id="p86"/></l>
+          </sp>
+          <sp xml:id="IV04-2" who="leandre">
+            <l n="976" xml:id="l976" part="I">Sylvain, qui cherche tu ?</l>
+          </sp>
+          <sp xml:id="IV04-3" who="sylvain">
+            <l part="F">Vôtre amy de Lyon.</l>
+          </sp>
+          <sp xml:id="IV04-4" who="leandre">
+            <l n="977" xml:id="l977" part="I">Pourquoy ?</l>
+          </sp>
+          <sp xml:id="IV04-5" who="sylvain">
+            <l part="F">Pour luy donner le billet que je porte.</l>
+          </sp>
+          <sp xml:id="IV04-6" who="leandre">
+            <l n="978" xml:id="l978" part="I">De la part ?</l>
+          </sp>
+          <sp xml:id="IV04-7" who="sylvain">
+            <l part="M">De mon Maistre.<pb n="87" xml:id="p87"/></l>
+          </sp>
+          <sp xml:id="IV04-8" who="leandre">
+            <l part="F">En user de la sorte !</l>
+            <l n="979" xml:id="l979" part="I">Donne le moy.</l>
+          </sp>
+          <sp xml:id="IV04-9" who="sylvain">
+            <l part="M">Je crains.</l>
+          </sp>
+          <sp xml:id="IV04-10" who="leandre">
+            <l part="F">Donne sans resister,</l>
+            <l n="980" xml:id="l980">Il luy fait un deffi ; je n’en doy pas douter.</l>
+            <l n="981" xml:id="l981">En voicy le cartel, tout semble me le dire :</l>
+            <l n="982" xml:id="l982">J’en ferois un serment avant que de le lire.</l>
+            <l n="983" xml:id="l983">Alcipe, vos respects sont feints et dangereux ;</l>
+            <l n="984" xml:id="l984">Ce n’est pas là le trait d’un homme <ref target="#genereux">genereux*</ref>.</l>
+            <l n="985" xml:id="l985">Appeler mon amy ! je commence à connoistre</l>
+            <l n="986" xml:id="l986">Que vous ne l’estes pas, ou ne voulez plus l’estre.</l>
+            <l n="987" xml:id="l987">Je liray ce billet, non pour m’en asseurer ;</l>
+            <l n="988" xml:id="l988">Mais pour en voir le style, et puis le déchirer.</l>
+            <p rend="center">Lettre d’Alcipe à Filemon.<pb n="88" xml:id="p88"/></p>
+            <p rend="i">MONSIEUR .</p>
+            <p xml:id="lettre-IV3">J’ay fait reflexion sur le sujet de nôtre different ; j’eus tort de m’emporter, et j’avoüe que vôtre recit fut plus obligeant qu’outrageux. Je vous recherche d’amitié, si vous n’estes moins <ref target="#genereux">genereux*</ref> que je me le persuade, vous ne refuserez pas qu’ayant aujourd’huy à visiter Leandre pour quelque chose de secret, nous nous entrevoyons, et estouffions toute nôtre haine dans nos embrassemens, je vous en prie, et suis vôtre tres affectionné serviteur, et si vous le voulez dés maintenant,</p>
+            <p rend="right">
+              <hi rend="i">Vostre tres intime amy Alcipe.</hi>
+            </p>
+            <l n="989" xml:id="l989">Je demeure confus, ma surprise est estrange.</l>
+            <l n="990" xml:id="l990">Alcipe, mon regret me punit et vous vange ;</l>
+            <l n="991" xml:id="l991">Je meurs de <ref target="#deplaisir">déplaisir*</ref> qu’un soupçon si tost pris</l>
+            <l n="992" xml:id="l992">M’ait fait parler de vous avec tant de mépris.</l>
+            <l n="993" xml:id="l993">Indices <ref target="#decevoir">decevants*</ref>, clartez fausses et sombres.</l>
+            <l n="994" xml:id="l994">C’est la derniere fois que je suivray vos ombres,</l>
+            <l n="995" xml:id="l995">C’est la derniere fois que je seray <ref target="#decevoir">deceu*</ref>,</l>
+            <l n="996" xml:id="l996">Et mon repos troublé d’un soupçon mal conceu.</l>
+            <l n="997" xml:id="l997">Va retrouver ton Maistre, et luy dis qu’avec joye<pb n="89 ; M"/></l>
+            <l n="998" xml:id="l998">J’ay receu de ta main le billet qu’il envoye.</l>
+            <l n="999" xml:id="l999">J’attends icy qu’il vienne, au reste <ref target="#celer">cele*</ref> luy</l>
+            <l n="1000" xml:id="l1000">Ce qu’un trompeur soupçon m’a fait dire de luy.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV05">
+          <sp xml:id="IV05-1" who="alcipe">
+            <l n="1001" xml:id="l1001">Mon secret est pressant, et ne m’a pû permettre</l>
+            <l n="1002" xml:id="l1002">D’attendre pour venir, response de ma lettre.</l>
+            <l n="1003" xml:id="l1003">Au surplus cher amy ! voyez moy d’un bon œil.</l>
+            <l n="1004" xml:id="l1004">J’ay salüé vostre hoste, et luy m’a fait accueil :</l>
+            <l n="1005" xml:id="l1005">Nos petits differens sont esteins sans reserve,</l>
+            <l n="1006" xml:id="l1006">Et j’entreprendray tout s’il faut que je le serve.</l>
+          </sp>
+          <sp xml:id="IV05-2" who="leandre">
+            <l n="1007" xml:id="l1007">Les grands coeurs d’ordinaire ont de prompts mouvements ;</l>
+            <l n="1008" xml:id="l1008">Mais ces nobles chaleurs ne durent pas long-temps.</l>
+            <l n="1009" xml:id="l1009">Un important secret vous amenoit encore ?</l>
+          </sp>
+          <sp xml:id="IV05-3" who="alcipe">
+            <l n="1010" xml:id="l1010">Ce secret est l’aveu d’un feu qui me devore,<pb n="90" xml:id="p90"/></l>
+            <l n="1011" xml:id="l1011">Et qui rendu plus grand depuis vostre retour,</l>
+            <l n="1012" xml:id="l1012">Ne sçauroit differer à se produire au jour ;</l>
+            <l n="1013" xml:id="l1013">N’osant rien esperer de ma propre personne,</l>
+            <l n="1014" xml:id="l1014">Si ce feu ne vous plaist, tout espoir m’abandonne ;</l>
+            <l n="1015" xml:id="l1015">Et si vôtre <ref target="#credit">credit*</ref> n’agit en ma faveur,</l>
+            <l n="1016" xml:id="l1016">Je mourray du beau trait qui m’a blessé le coeur.</l>
+          </sp>
+          <sp xml:id="IV05-4" who="leandre">
+            <l n="1017" xml:id="l1017">Pour vos felicitez si je puis quelque chose,</l>
+            <l n="1018" xml:id="l1018">Il n’est rien que je craigne, il n’est rien que je n’ose ;</l>
+            <l n="1019" xml:id="l1019">Il n’est rien où mes soins ne veüillent témoigner</l>
+            <l n="1020" xml:id="l1020">Qu’un amy me fait tort, qui pense m’épargner ;</l>
+            <l n="1021" xml:id="l1021">Declarez moy d’où naist vostre amoureux martyre :</l>
+            <l n="1022" xml:id="l1022">J’employeray le <ref target="#credit">credit*</ref>, la priere et l’empire.</l>
+            <l n="1023" xml:id="l1023">Je n’entreprends jamais une chose à demy,</l>
+            <l n="1024" xml:id="l1024">Et sçay bien le devoir d’un veritable amy.</l>
+          </sp>
+          <sp xml:id="IV05-5" who="alcipe">
+            <l n="1025" xml:id="l1025">La divine beauté dont mon ame est esprise ;</l>
+            <l n="1026" xml:id="l1026">C’est et sera toûjours l’incomparable Orphise ;</l>
+            <l n="1027" xml:id="l1027">Mais qu’avecques raison, je crains que ses attraits</l>
+            <l n="1028" xml:id="l1028">Soient peu d’intelligence avecques mes souhaits !</l>
+            <l n="1029" xml:id="l1029">Cher Leandre vous seul favorable à ma plainte,<pb n="91" xml:id="p91"/></l>
+            <l n="1030" xml:id="l1030">Pouvez facilement dissiper cette crainte :</l>
+            <l n="1031" xml:id="l1031">Orphise vous est proche, et si vous l’y portez,</l>
+            <l n="1032" xml:id="l1032">Son inclination suivra vos volontez.</l>
+          </sp>
+          <sp xml:id="IV05-6" who="leandre">
+            <l n="1033" xml:id="l1033">Oüy je vous le promets, je feray mon possible</l>
+            <l n="1034" xml:id="l1034">Pour la rendre à vos voeux <ref target="#exorable">exorable*</ref> et <ref target="#sensible">sensible*</ref> :</l>
+            <l n="1035" xml:id="l1035">Un plus noble party ne se peut proposer ;</l>
+            <l n="1036" xml:id="l1036">J’essairay dés <ref target="#tantost">tantost*</ref> de la l’y disposer.</l>
+          </sp>
+          <sp xml:id="IV05-7" who="alcipe">
+            <l n="1037" xml:id="l1037">Je croy qu’il vaudroit mieux, avant que luy rien dire,</l>
+            <l n="1038" xml:id="l1038">Tâcher de m’acquerir sur elle quelque empire ;</l>
+            <l n="1039" xml:id="l1039">Luy faire les doux yeux, luy marquer mon tourment ;</l>
+            <l n="1040" xml:id="l1040">L’incliner à l’amour sans qu’elle sçeut comment ;</l>
+            <l n="1041" xml:id="l1041">Et par la complaisance aux Amants ordinaire,</l>
+            <l n="1042" xml:id="l1042">Avant que de parler, m’asseurer de luy plaire.</l>
+          </sp>
+          <sp xml:id="IV05-8" who="leandre">
+            <l n="1043" xml:id="l1043">L’avis est raisonnable, et me fait presumer</l>
+            <l n="1044" xml:id="l1044">Que vous composeriez un nouvel Art d’aimer.</l>
+          </sp>
+          <sp xml:id="IV05-9" who="alcipe">
+            <l n="1045" xml:id="l1045">Cependant à l’<ref target="#objet">objet*</ref> qui mes ardeurs excite<pb n="92" xml:id="p92"/></l>
+            <l n="1046" xml:id="l1046">Chez vous sous vôtre <ref target="#aveu">aveu*</ref>, je puis rendre visite.</l>
+          </sp>
+          <sp xml:id="IV05-10" who="leandre">
+            <l n="1047" xml:id="l1047">Vous y pouvez venir comme en vôtre maison.</l>
+          </sp>
+          <sp xml:id="IV05-11" who="alcipe">
+            <l n="1048" xml:id="l1048">Adieu ; cette faveur est sans comparaison,</l>
+            <l n="1049" xml:id="l1049">Mon esperance croist, et ma peur se dissipe.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV06">
+          <sp xml:id="IV06-1" who="leandre">
+            <l n="1050" xml:id="l1050">Ce papier est tombé de la poche d’Alcipe,<pb n="93" xml:id="p93"/></l>
+            <l n="1051" xml:id="l1051">Seroit-ce à son insceu, seroit ce par dessein ?</l>
+            <l n="1052" xml:id="l1052">Je n’en sçaurois former un jugement certain.</l>
+            <l n="1053" xml:id="l1053">Liray-je cét écrit, dois-je ne le pas lire ?</l>
+            <l n="1054" xml:id="l1054">Secret empressement, ne me le peux tu dire ?</l>
+            <l n="1055" xml:id="l1055">Mouvement curieux ne sçaurois-tu juger</l>
+            <l n="1056" xml:id="l1056">S’il doit me satisfaire ou s’il doit m’affliger ?</l>
+            <l n="1057" xml:id="l1057">Enfin quelque en mon coeur en puisse estre l’atteinte ;</l>
+            <l n="1058" xml:id="l1058">La curiosité l’emporte sur la crainte.</l>
+            <p rend="center">Billet d’Alcipe à Leandre.</p>
+            <p>LEANDRE.</p>
+            <p>Connoissez mieux vos veritables amis, des deux que vous croyez avoir, l’un vous sert et l’autre vous trahit. Je ne nomme personne ; mais je suis asseuré que si vous estiez revenu seul de Lyon, vôtre femme vivroit avecques plus d’honneur, et vous avec moins d’infamie.</p>
+            <l n="1059" xml:id="l1059">Tu te méprends Alcippe, ou le flambeau des Cieux,<pb n="94" xml:id="p94"/></l>
+            <l n="1060" xml:id="l1060">N’est qu’un Comete en l’air qui paroist à nos yeux :</l>
+            <l n="1061" xml:id="l1061">L’air un rien complaisant, et la terre une boulle</l>
+            <l n="1062" xml:id="l1062">Qui se meut de tout temps, et que le destin roule :</l>
+            <l n="1063" xml:id="l1063">L’Ocean un amas de feux et de buchers ;</l>
+            <l n="1064" xml:id="l1064">Ses poissons des oyseaux ; des hommes ses rochers ?</l>
+            <l n="1065" xml:id="l1065">Tu te trompes, te dis-je, et ton advis offence</l>
+            <l n="1066" xml:id="l1066">Et la sagesse mesme et la méme innocence.</l>
+            <l n="1067" xml:id="l1067">Astrée et la vertu s’accordent en ce poinct,</l>
+            <l n="1068" xml:id="l1068">Qu’où l’une ne peut estre, aussi l’autre n’est point.</l>
+            <l n="1069" xml:id="l1069">Alcipe toutesfois mon interest te touche,</l>
+            <l n="1070" xml:id="l1070">Ce n’est qu’un envers moy que ton coeur et ta bouche ;</l>
+            <l n="1071" xml:id="l1071">Tu me cheris sans fard, et ta sincerité</l>
+            <l n="1072" xml:id="l1072">M’apprend que cét écrit n’est pas sans verité.</l>
+            <l n="1073" xml:id="l1073">Mais que mal-aisément, et qu’avec peine extréme</l>
+            <l n="1074" xml:id="l1074">Un homme se resoult à blâmer ce qu’il aime !</l>
+            <l n="1075" xml:id="l1075">Que difficilement il demeure d’accord</l>
+            <l n="1076" xml:id="l1076">Des choses qu’il redoute à l’égal de la mort !</l>
+            <l n="1077" xml:id="l1077">Astrée, il est trop vray que vous m’estes parjure ; </l>
+            <l n="1078" xml:id="l1078">J’en ay pour mon mal-heur plus d’une conjecture :</l>
+            <l n="1079" xml:id="l1079">J’en rencontre à regret dedans mon souvenir</l>
+            <l n="1080" xml:id="l1080">Trop d’indices puissants, que j’en voudrois bannir.</l>
+            <l n="1081" xml:id="l1081">Par deux diverses fois surprise à l’<ref target="#impourveu">impourveuë*</ref>,</l>
+            <l n="1082" xml:id="l1082">N’avez vous pas caché des écrits à ma veuë ?</l>
+            <l n="1083" xml:id="l1083">N’avez vous pas loüé d’un air, que j’ay repris<pb n="95" xml:id="p95"/></l>
+            <l n="1084" xml:id="l1084">L’insolent qui me traitte avec tant de mépris,</l>
+            <l n="1085" xml:id="l1085">Le temeraire amy, l’ame perfide et noire,</l>
+            <l n="1086" xml:id="l1086">Qui soüille ingrattement et mon lict et ma gloire ?</l>
+            <l n="1087" xml:id="l1087">C’estoit peu, lâche femme, infidelle moitié ; </l>
+            <l n="1088" xml:id="l1088">Seul et digne sujet de mon inimitié !</l>
+            <l n="1089" xml:id="l1089">Tu m’as enveloppé dans tes <ref target="#sale">sales*</ref> pratiques,</l>
+            <l n="1090" xml:id="l1090">J’ay servi d’instrument à tes feux impudiques.</l>
+            <l n="1091" xml:id="l1091">J’ay moy-méme à ton gré supplié ton Amant</l>
+            <l n="1092" xml:id="l1092">Qu’il se tint au logis, ou sortit rarement.</l>
+            <l n="1093" xml:id="l1093">C’estoit pour le mieux voir, et selon ton envie</l>
+            <l n="1094" xml:id="l1094">Estre en ta <ref target="#sale">sale*</ref> ardeur à toute heure assouvie.</l>
+            <l n="1095" xml:id="l1095">Si tu crois t’excuser, tu le pretends en vain ;</l>
+            <l n="1096" xml:id="l1096">Rien ne peut m’arracher le poignard de la main.</l>
+            <l n="1097" xml:id="l1097">De tes brutalitez j’ay trop de connoissances, </l>
+            <l n="1098" xml:id="l1098">En pourrois-je douter apres tant d’apparences ?</l>
+            <l n="1099" xml:id="l1099">Non non, je ne le puis, et je ne le doi pas ;</l>
+            <l n="1100" xml:id="l1100">Mais vanger mon affront et haster son trépas :</l>
+            <l n="1101" xml:id="l1101" part="I">Tu mourras, il le faut.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV07">
+          <sp xml:id="IV07-1" who="hyppolite">
+            <l part="F">De qui parle Leandre,<pb n="96" xml:id="p96"/></l>
+            <l n="1102" xml:id="l1102">Son discours est obscur, tâchons à le comprendre.</l>
+          </sp>
+          <sp xml:id="IV07-2" who="leandre">
+            <l n="1103" xml:id="l1103">Rien ne te peut parer de ce funeste coup,</l>
+            <l n="1104" xml:id="l1104">Je te plainds toutesfois, et je me plainds beaucoup ;</l>
+            <l n="1105" xml:id="l1105">Mais mon honneur le veut, sois y donc preparée ;</l>
+            <l n="1106" xml:id="l1106">Je tiendray ma parole, et tu mourras Astrée !</l>
+          </sp>
+          <sp xml:id="IV07-3" who="hyppolite">
+            <l n="1107" xml:id="l1107">Qu’a-t’il dit, qu’ay-je <ref target="#ouir">oüy*</ref>, Ciel quelle est sa fureur !</l>
+            <l n="1108" xml:id="l1108">Allons par nos avis empécher ce mal-heur.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV08">
+          <sp xml:id="IV08-1" who="leandre">
+            <l n="1109" xml:id="l1109">Amy qui mieux que moy decouvres l’<ref target="#artifice">artifice*</ref>,<pb n="97 ; N"/></l>
+            <l n="1110" xml:id="l1110">Que ne te dois-je pas pour un si bon <ref target="#office">office*</ref> ?</l>
+            <l n="1111" xml:id="l1111">Tous deux m’assassinoient par un si lâche tour ;</l>
+            <l n="1112" xml:id="l1112">Puisque le poinct d’honneur m’est plus cher que le jour.</l>
+            <l n="1113" xml:id="l1113">Tu brûles pour Orphise, ah deviens froid pour elle !</l>
+            <l n="1114" xml:id="l1114">Elle est d’intelligence avec mon infidelle ;</l>
+            <l n="1115" xml:id="l1115">Tu courrois mesme sort, et bien-tost mesme affront</l>
+            <l n="1116" xml:id="l1116">Noirciroit ta memoire, et rougiroit ton front.</l>
+            <l n="1117" xml:id="l1117">De ce pressentiment le motif est bien ample, </l>
+            <l n="1118" xml:id="l1118">Elle frequente Astrée, elle en suivroit l’exemple.</l>
+            <l n="1119" xml:id="l1119">Elle vient la perfide, avec une chaleur</l>
+            <l n="1120" xml:id="l1120">Qui montre assez les feux qu’elle cache en son coeur.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV09">
+          <sp xml:id="IV09-1" who="astree">
+            <l n="1121" xml:id="l1121">Monsieur informez moy de l’outrage ou du crime,<pb n="98" xml:id="p98"/></l>
+            <l n="1122" xml:id="l1122">Pour qui ma mort vous semble aujourd’huy legitime ?</l>
+            <l n="1123" xml:id="l1123">Je viens sçavoir de vous le sujet du dessein</l>
+            <l n="1124" xml:id="l1124">Qui vous porte à me mettre un poignard dans le sein.</l>
+            <l n="1125" xml:id="l1125">De quoy vous plaignez vous, de quoy suis-je coupable ;</l>
+            <l n="1126" xml:id="l1126">Quel crime ay-je commis, m’en croyez vous capable ?</l>
+            <l n="1127" xml:id="l1127">Expliquez-vous, Leandre, ou mes <ref target="#juste">justes*</ref> douleurs</l>
+            <l n="1128" xml:id="l1128">Previendront en ce lieu, l’effet de vos fureurs.</l>
+          </sp>
+          <sp xml:id="IV09-2" who="leandre">
+            <l n="1129" xml:id="l1129">L’innocente personne ! il est juste, Madame,</l>
+            <l n="1130" xml:id="l1130">Que je vous ouvre icy jusqu’au fond de mon ame ;</l>
+            <l n="1131" xml:id="l1131">Mais qu’Hyppolite sorte, un homme est peu <ref target="#discret">discret*</ref>,</l>
+            <l n="1132" xml:id="l1132">Qui declare à plusieurs un semblable secret.</l>
+          </sp>
+          <sp xml:id="IV09-3" who="hyppolite">
+            <l n="1133" xml:id="l1133">Je le comprends assez sans que l’on me le die,<pb n="99" xml:id="p99"/></l>
+            <l n="1134" xml:id="l1134">Il la veut poignarder, Cieux quelle perfidie !</l>
+            <l n="1135" xml:id="l1135">A quel aveuglement s’est-il abandonné ?</l>
+            <l n="1136" xml:id="l1136">Mais détournons ce coup avant qu’il soit donné.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV10">
+          <sp xml:id="IV10-1" who="astree">
+            <l n="1137" xml:id="l1137" part="I">Hyppolite est sortie.<pb n="100" xml:id="p100"/></l>
+          </sp>
+          <sp xml:id="IV10-2" who="leandre">
+            <l part="F">Il faut fermer la porte,</l>
+            <l n="1138" xml:id="l1138">Aucun ne doit entendre un secret de la sorte.</l>
+          </sp>
+          <sp xml:id="IV10-3" who="astree">
+            <l n="1139" xml:id="l1139">Il va trancher mes jours, l’indice en est trop grand.</l>
+            <l n="1140" xml:id="l1140">J’en voy venir le coup que mon <ref target="#courage">courage*</ref> attend ;</l>
+            <l n="1141" xml:id="l1141">Quel desespoir le meut, quelle fureur l’inspire ?</l>
+          </sp>
+          <sp xml:id="IV10-4" who="leandre">
+            <l n="1142" xml:id="l1142">Ne vous doutez vous point de ce que je veux dire ?</l>
+          </sp>
+          <sp xml:id="IV10-5" who="astree">
+            <l n="1143" xml:id="l1143">Vôtre trouble present d’où procede le mien,<pb n="101" xml:id="p101"/></l>
+            <l n="1144" xml:id="l1144">Est un fâcheux Enigme où je ne comprends rien :</l>
+            <l n="1145" xml:id="l1145">Toutesfois ma memoire en ce mal-heur heureuse,</l>
+            <l n="1146" xml:id="l1146">Mais pour le croistre aussi peut-estre ingenieuse,</l>
+            <l n="1147" xml:id="l1147">Me propose qu’Alcipe estoit tantost icy. </l>
+            <l n="1148" xml:id="l1148">J’augure que luy seul cause vôtre <ref target="#soucy">soucy*</ref> ;</l>
+            <l n="1149" xml:id="l1149">Et que ce faux amy dissimulant sa haine,</l>
+            <l n="1150" xml:id="l1150">Vous a fait des discours qui vous mettent en peine.</l>
+          </sp>
+          <sp xml:id="IV10-6" who="leandre">
+            <l n="1151" xml:id="l1151">Madame apprenez moy de qui vous le tenez.</l>
+            <l n="1152" xml:id="l1152">Vous en estes instruite, ou vous le devinez :</l>
+            <l n="1153" xml:id="l1153">Ce que j’ay sçeu de luy, trouble en effet ma joye,</l>
+            <l n="1154" xml:id="l1154">Et vous fera mourir, si le Ciel n’y pourvoye.</l>
+          </sp>
+          <sp xml:id="IV10-7" who="astree">
+            <l n="1155" xml:id="l1155">Il invente, il suppose et ce méchant esprit</l>
+            <l n="1156" xml:id="l1156">Ne tend qu’à vous tromper de parole ou d’écrit.</l>
+            <l n="1157" xml:id="l1157">Ne vous y fiez pas, jugez mieux de son ame ; </l>
+            <l n="1158" xml:id="l1158">Que l’amitié defere à l’amour d’une femme.</l>
+            <l n="1159" xml:id="l1159">La malice qu’il a, ne peut s’imaginer,</l>
+            <l n="1160" xml:id="l1160">Alcipe me veut perdre, et vous veut ruïner.</l>
+          </sp>
+          <sp xml:id="IV10-8" who="leandre">
+            <l n="1161" xml:id="l1161">Ni vostre opinion, ni vostre médisance,<pb n="102" xml:id="p102"/></l>
+            <l n="1162" xml:id="l1162">Ne sçauroit en ce poinct affoiblir ma croyance. </l>
+            <l n="1163" xml:id="l1163">Alcipe est veritable, il ne suppose rien,</l>
+            <l n="1164" xml:id="l1164">Mon interest le touche, il veille pour mon bien ;</l>
+            <l n="1165" xml:id="l1165">S’il songe à mon honneur, je songe au sien de mesme ;</l>
+            <l n="1166" xml:id="l1166">Il me sert, je le sers ; il me cherit, je l’aime.</l>
+            <l n="1167" xml:id="l1167">Bref entre mes amis il n’est pas le dernier :</l>
+            <l n="1168" xml:id="l1168">Mais que sers ce discours ? vous m’allez tout nier.</l>
+          </sp>
+          <sp xml:id="IV10-9" who="astree">
+            <l n="1169" xml:id="l1169">Oüy je vay tout nier ; pour plaire à son envie,</l>
+            <l n="1170" xml:id="l1170">Accorderay-je un poinct si fatal à ma vie ?</l>
+          </sp>
+          <sp xml:id="IV10-10" who="leandre">
+            <l n="1171" xml:id="l1171">Vous le confessez-donc, vous en devez mourir.</l>
+          </sp>
+          <sp xml:id="IV10-11" who="astree">
+            <l n="1172" xml:id="l1172">Oüy, le Ciel mesme à tort me voudroit secourir :</l>
+            <l n="1173" xml:id="l1173">Sans marquer mon regret par des ruisseaux de larmes,</l>
+            <l n="1174" xml:id="l1174">Mes mains mes propres mains auroient recours aux armes.</l>
+          </sp>
+          <sp xml:id="IV10-12" who="leandre">
+            <l n="1175" xml:id="l1175">L’Arrest en est donné, c’est fait de vostre sort ;</l>
+            <l n="1176" xml:id="l1176">Mon honneur m’y contraint, attendez donc la mort.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV11">
+          <sp xml:id="IV11-1" who="filemon">
+            <l n="1177" xml:id="l1177">Cruel, impitoyable, inhumain, sanguinaire !<pb n="103" xml:id="p103"/></l>
+            <l n="1178" xml:id="l1178">Ouvrez, ou vous verrez, ce qu’un <ref target="#effort1">effort*</ref> peut faire.</l>
+          </sp>
+          <sp xml:id="IV11-2" who="leandre">
+            <l n="1179" xml:id="l1179" part="I">User de violence !</l>
+          </sp>
+          <sp xml:id="IV11-3" who="filemon">
+            <l part="F">Ouvrez vous dis-je, ouvrez.</l>
+          </sp>
+          <sp xml:id="IV11-4" who="leandre">
+            <l n="1180" xml:id="l1180" part="I">Que je sçache pourquoy ?</l>
+          </sp>
+          <sp xml:id="IV11-5" who="filemon">
+            <l part="F"><ref target="#tantost">Tantost*</ref> vous le sçaurez.<pb n="104" xml:id="p104"/></l>
+            <l n="1181" xml:id="l1181">Quelle aveugle fureur, quelle soudaine rage</l>
+            <l n="1182" xml:id="l1182">Vous conseille aujourd’huy ce criminel outrage ?</l>
+            <l n="1183" xml:id="l1183">Par quelle aversion, par quelle inimitié</l>
+            <l n="1184" xml:id="l1184">Vostre bras s’arme-t’il contre vostre moitié ?</l>
+            <l n="1185" xml:id="l1185">Et pour dire en un mot, quelle brutale envie,</l>
+            <l n="1186" xml:id="l1186">Vous fait, mari barbare, attenter sur sa vie ?</l>
+          </sp>
+          <sp xml:id="IV11-6" who="leandre">
+            <l n="1187" xml:id="l1187">Moy vouloir accourcir la trame de ses jours ?</l>
+            <l n="1188" xml:id="l1188">D’elle, sans qui des miens j’arresterois le cours ?</l>
+            <l n="1189" xml:id="l1189">D’où vous naist ce soupçon, d’où vous vient cette crainte ?</l>
+          </sp>
+          <sp xml:id="IV11-7" who="filemon">
+            <l n="1190" xml:id="l1190">C’est inutilement recourir à la feinte,</l>
+            <l n="1191" xml:id="l1191">C’est nous cacher en vain ce que nous connoissons ;</l>
+            <l n="1192" xml:id="l1192">Un indice trop fort establit nos soupçons,</l>
+            <l n="1193" xml:id="l1193">Hyppolite parlez, et dittes à sa honte</l>
+            <l n="1194" xml:id="l1194">Les propos qu’a tenus sa colere trop prompte.</l>
+          </sp>
+          <sp xml:id="IV11-8" who="leandre">
+            <l n="1195" xml:id="l1195">Qu’est-ce donc que j’ay dit, qu’as-tu donc entendu ?</l>
+          </sp>
+          <sp xml:id="IV11-9" who="hyppolite">
+            <l n="1196" xml:id="l1196">Ces mots dont mon esprit est resté confondu ;<pb n="105 ; O"/></l>
+            <l n="1197" xml:id="l1197">Mais mon honneur le veut, sois y donc preparée </l>
+            <l n="1198" xml:id="l1198">Je tiendray ma parole, et tu mourras Astrée.</l>
+          </sp>
+          <sp xml:id="IV11-10" who="leandre">
+            <l n="1199" xml:id="l1199">Propos mal entendus, discours mal digerez,</l>
+            <l n="1200" xml:id="l1200">Soupçons injurieux, et mal conjecturez !</l>
+            <l n="1201" xml:id="l1201">J’ay prononcé ces mots, je ne m’en puis deffendre,</l>
+            <l n="1202" xml:id="l1202">Mais elle, Astrée et vous les deviez mieux entendre.</l>
+            <l n="1203" xml:id="l1203">Escoutez seulement, vous serez convaincus :</l>
+            <l n="1204" xml:id="l1204">Alcipe m’est venu demander mil écus,</l>
+            <l n="1205" xml:id="l1205">Il les doit, on le presse, il les faut sans <ref target="#demeure">demeure*</ref> ;</l>
+            <l n="1206" xml:id="l1206">Par mal-heur je n’ay pas cette somme pour l’heure ;</l>
+            <l n="1207" xml:id="l1207">L’amitié toutesfois qui m’a parlé pour luy,</l>
+            <l n="1208" xml:id="l1208">M’a fait la luy promettre au plus tard aujourd’huy.</l>
+            <l n="1209" xml:id="l1209">Je ne sçay d’où l’avoir ; dans le temps où nous sommes</l>
+            <l n="1210" xml:id="l1210">Emprunter de l’argent, c’est poignarder les hommes.</l>
+            <l n="1211" xml:id="l1211">L’on ne preste plus rien, et moins que mille écus</l>
+            <l n="1212" xml:id="l1212">Feroient qu’un honneste homme auroit mille refus :</l>
+            <l n="1213" xml:id="l1213">Obligé neantmoins de tenir ma promesse,</l>
+            <l n="1214" xml:id="l1214">Je me suis en <ref target="#resver">révant*</ref> avisé d’une <ref target="#adresse">adresse*</ref>,</l>
+            <l n="1215" xml:id="l1215">C’est de faire <ref target="#tantost">tantost*</ref> venir des joüailliers,</l>
+            <l n="1216" xml:id="l1216">Leur proposer bijous, bagues, pendants, coliers,</l>
+            <l n="1217" xml:id="l1217">Ce qu’Astrée en un mot peut avoir de plus rare,<pb n="106" xml:id="p106"/></l>
+            <l n="1218" xml:id="l1218">Et dont selon son gré parfois elle se pare ;</l>
+            <l n="1219" xml:id="l1219">Je sçay comment son sexe aime ces petits biens,</l>
+            <l n="1220" xml:id="l1220">Qu’ils sont tous ses plaisirs, et tous ses entretiens.</l>
+            <l n="1221" xml:id="l1221">J’ay crû que pour Alcipe executant mon <ref target="#zele">Zele*</ref>,</l>
+            <l n="1222" xml:id="l1222">Astrée en souffriroit une peine eternelle,</l>
+            <l n="1223" xml:id="l1223">Et que la dépoüiller de ces petits thresors,</l>
+            <l n="1224" xml:id="l1224">Ce seroit d’un seul coup luy donner mille morts.</l>
+            <l n="1225" xml:id="l1225">L’ame de ce penser diversement émeuë,</l>
+            <l n="1226" xml:id="l1226">Je me deliberois d’en éviter l’issuë,</l>
+            <l n="1227" xml:id="l1227">Quand l’objet d’un ami nuisible à mon repos,</l>
+            <l n="1228" xml:id="l1228">M’a fait, je m’en souviens prononcer ce propos ;</l>
+            <l n="1229" xml:id="l1229">Mais mon honneur le veut, sois y donc preparée,</l>
+            <l n="1230" xml:id="l1230">Je tiendray ma parole, et tu mourras Astrée ;</l>
+            <l n="1231" xml:id="l1231">Voila de vos soupçons les indices puissans ;</l>
+            <l n="1232" xml:id="l1232">Mais de ce que j’ay dit, le veritable sens.</l>
+          </sp>
+          <sp xml:id="IV11-11" who="filemon">
+            <l n="1233" xml:id="l1233" part="I">Certes nous avons tort.</l>
+          </sp>
+          <sp xml:id="IV11-12" who="astree">
+            <l part="F">Leandre est seul coupable,</l>
+            <l n="1234" xml:id="l1234">Et si je l’oze dire, il n’est pas excusable ;</l>
+            <l n="1235" xml:id="l1235">A-t’il deu presumer qu’estant ce que je suis,</l>
+            <l n="1236" xml:id="l1236">Un absolu refus augmentast ses ennuys ?</l>
+            <l n="1237" xml:id="l1237">Recevez cette clef, allez sans plus attendre,<pb n="107" xml:id="p107"/></l>
+            <l n="1238" xml:id="l1238">Prendre en mon cabinet, les choses qu’il faut vendre,</l>
+            <l n="1239" xml:id="l1239">Satistaites Alcipe avant la fin du jour,</l>
+            <l n="1240" xml:id="l1240">Et recevez de moy cette preuve d’amour.</l>
+          </sp>
+          <sp xml:id="IV11-13" who="leandre">
+            <l n="1241" xml:id="l1241">O femme genereuse ! ô femme complaisante,</l>
+            <l n="1242" xml:id="l1242">Que ce consentement me plaist et me contente,</l>
+            <l n="1243" xml:id="l1243">Que ce trait de bonté remplit bien mes souhaits :</l>
+            <l n="1244" xml:id="l1244">Ami, parole, honneur vous serez satisfaits.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV12">
+          <sp xml:id="IV12-1" who="astree">
+            <l n="1245" xml:id="l1245"><ref target="#genereux">Genereux*</ref> Cavalier, je ne sçaurois moins faire<pb n="108" xml:id="p108"/></l>
+            <l n="1246" xml:id="l1246">Que de vous appeler mon Ange tutelaire ;</l>
+            <l n="1247" xml:id="l1247">Encor que le peril ne fut que supposé</l>
+            <l n="1248" xml:id="l1248">Pour l’eloigner de moy, vous avez tout osé.</l>
+            <l n="1249" xml:id="l1249">Le pouvoir d’un mari, ses fureurs, son <ref target="#ombrage">ombrage*</ref>,</l>
+            <l n="1250" xml:id="l1250">N’ont point intimidé vôtre illustre <ref target="#courage">courage*</ref>.</l>
+          </sp>
+          <sp xml:id="IV12-2" who="filemon">
+            <l n="1251" xml:id="l1251">Il n’est point de danger que je n’affronte ainsi</l>
+            <l n="1252" xml:id="l1252">Pour vous servir, Madame, et vous Madame aussi.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV13">
+          <sp xml:id="IV13-1" who="orphise">
+            <l n="1253" xml:id="l1253">Qu’en dirons nous cousine, et qu’en devons nous croire,<pb n="109" xml:id="p109"/></l>
+            <l n="1254" xml:id="l1254">Laquelle de nous deux occupe sa memoire ?</l>
+            <l n="1255" xml:id="l1255">Vous servir luy seroit un glorieux employ ;</l>
+            <l n="1256" xml:id="l1256">Il dit en mesme temps, mesme chose de moy.</l>
+            <l n="1257" xml:id="l1257">Qu’en devons nous juger, laquelle est ce qu’il aime ?</l>
+            <l n="1258" xml:id="l1258">Si mon amour est grand, mon soupçon est extréme,</l>
+            <l n="1259" xml:id="l1259">Il me parloit de feux, mais pour vous secourir,</l>
+            <l n="1260" xml:id="l1260">L’a-t’il fallu presser, a-t’il craint de mourir ?</l>
+          </sp>
+          <sp xml:id="IV13-2" who="astree">
+            <l n="1261" xml:id="l1261">Vôtre soupçon, cousine, est juste, je l’avouë,</l>
+            <l n="1262" xml:id="l1262">Dans le doute où je suis, je le blâme et le louë ;</l>
+            <l n="1263" xml:id="l1263">S’il m’aime, il se méprend : s’il vous aime, il fait bien ;</l>
+            <l n="1264" xml:id="l1264">D’Orphise il aura tout, d’Astrée il n’aura rien.</l>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="V" type="act">
+        <div type="scene" xml:id="V01">
+          <sp xml:id="V01-1" who="leandre">
+            <l n="1265" xml:id="l1265">Sacré respect d’<ref target="#hymen">Hymen*</ref>, sentimens de tendresse,<pb n="110" xml:id="p110"/></l>
+            <l n="1266" xml:id="l1266">Silence, abandonnez une espouse traistresse,</l>
+            <l n="1267" xml:id="l1267">Je croy, je sçay, je voy son infidelité, </l>
+            <l n="1268" xml:id="l1268">Ce n’est plus un soupçon, c’est une verité,</l>
+            <l n="1269" xml:id="l1269">Leur lâche trahison, me paroist toute nuë,</l>
+            <l n="1270" xml:id="l1270">Cette lettre convainc ma raison et ma veuë,</l>
+            <l n="1271" xml:id="l1271">Cét infidelle écrit dit tout fidellement,</l>
+            <l n="1272" xml:id="l1272">Et quoy qu’il soit müet il parle hautement,</l>
+            <l n="1273" xml:id="l1273">J’y lis leur lâchetez, j’y voy leur artifice,</l>
+            <l n="1274" xml:id="l1274">Chaque trait de leur plume, en est un de malice,</l>
+            <l n="1275" xml:id="l1275">Le Ciel à qui nos coeurs ne sçauroient rien cacher,</l>
+            <l n="1276" xml:id="l1276">Me fournit ce témoin qu’on ne peut reprocher.</l>
+            <p rend="center">Lettre de Filemon à Florinde.<pb n="111" xml:id="p111"/></p>
+            <p>MADAME.</p>
+            <p>Je vous donne avis que vostre mari a mis ordre de surprendre nos lettres. Ce procedé me fait croire que les soupçons qu’il a pû concevoir, s’augmentent d’heure à autre ; s’il est ainsi quoy que vous n’en soiez pas mal-traittée maintenant vous le pourrez estre un jour. Je le crains, mais si ma crainte est vraye, declarez le moy, rien ne m’empéchera de vous voir, et de trouver si vous y consentez, le moyen de vous delivrer de sa tyrannie ; au reste comme vostre réponse nous importe à tous deux également, ne la confiez qu’à Hyppolite, qui me la fera tenir, et pour chercher en tout nostre seureté, que la suscription soit d’autre main que de la vôtre, changez de cachet, et faittes l’adresse non plus à Filemon, mais au Cavalier Alcandre chez Arimant dans la Place-Royale.</p>
+            <l n="1277" xml:id="l1277">Traistre ami, qui me rend mon espouse ennemie,</l>
+            <l n="1278" xml:id="l1278">Pourquoy m’as-tu jetté dedans cette infamie ?</l>
+            <l n="1279" xml:id="l1279">Pourquoy de cét opprobre as-tu chargé mon front ?</l>
+            <l n="1280" xml:id="l1280">Ah ! je me vangeray de ce sensible affront,</l>
+            <l n="1281" xml:id="l1281">Ma colere sera pleinement assouvie ;<pb n="112" xml:id="p112"/></l>
+            <l n="1282" xml:id="l1282">Tu m’as osté l’honneur, je t’osteray la vie,</l>
+            <l n="1283" xml:id="l1283">Quand on noircit ainsi les hommes de mon rang,</l>
+            <l n="1284" xml:id="l1284">Pour laver cette tâche, ils demandent du sang.</l>
+            <l n="1285" xml:id="l1285">Et toy perfide femme autre fois tant aimée !</l>
+            <l n="1286" xml:id="l1286">Pourquoy si lâchement trahir ta renommée ?</l>
+            <l n="1287" xml:id="l1287">Pourquoy jusqu’à ce poinct dementir ta vertu ?</l>
+            <l n="1288" xml:id="l1288">Qui t’en peut excuser, quel sujet en as-tu ?</l>
+            <l n="1289" xml:id="l1289">N’as-tu pas dessus moy toûjours eu cét <ref target="#empire">Empire*</ref>,</l>
+            <l n="1290" xml:id="l1290">Que l’amour nous demande et que l’<ref target="#hymen">Hymen*</ref> desire ;</l>
+            <l n="1291" xml:id="l1291">T’ay-je rien refusé, qu’est-ce en quoy mes désirs</l>
+            <l n="1292" xml:id="l1292">Ont jamais négligé de suivre tes plaisirs ? </l>
+            <l n="1293" xml:id="l1293">Quelque reste d’amour en ta faveur s’exprime,</l>
+            <l n="1294" xml:id="l1294">Je tâche de trouver quelque excuse à ton crime ;</l>
+            <l n="1295" xml:id="l1295">Mais je n’en trouve point, et puis je dois sçavoir</l>
+            <l n="1296" xml:id="l1296">Qu’un tel aveuglement n’en peut jamais avoir ;</l>
+            <l n="1297" xml:id="l1297">Ta faute est sans excuse, elle sera sans grace. </l>
+            <l n="1298" xml:id="l1298">J’apprends de mon honneur ce qu’il faut que je fasse ;</l>
+            <l n="1299" xml:id="l1299">Son rigoureux desir s’accorde à mon souhait,</l>
+            <l n="1300" xml:id="l1300">Il demande ta mort, il sera satisfait.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V02">
+          <sp xml:id="V02-1" who="leandre">
+            <l n="1301" xml:id="l1301">O vous ami parfait accourez à mon aide !<pb n="113 ; P"/></l>
+            <l n="1302" xml:id="l1302">Par vous j’ay sçeu mon mal, donnez y du remede.</l>
+            <l n="1303" xml:id="l1303">Toute chose est commune aux amis <ref target="#genereux">genereux*</ref>,</l>
+            <l n="1304" xml:id="l1304">Joignons donc nos <ref target="#effort1">efforts*</ref> et nous vangeons tous deux.</l>
+          </sp>
+          <sp xml:id="V02-2" who="alcipe">
+            <l n="1305" xml:id="l1305" part="I">Dequoy ?</l>
+          </sp>
+          <sp xml:id="V02-3" who="leandre">
+            <l part="F">L’ignorez-vous ? d’une femme infidelle,</l>
+            <l n="1306" xml:id="l1306">D’un lâche et faux ami qui m’outrage avec elle ;</l>
+            <l n="1307" xml:id="l1307">De deux objets aimez, de qui je suis hai,</l>
+            <l n="1308" xml:id="l1308">De qui je suis trompé, de qui je suis trahi :</l>
+            <l n="1309" xml:id="l1309">De Filemon, d’Astrée, et s’il vous faut tout dire,</l>
+            <l n="1310" xml:id="l1310">De celle qui sur vous s’est acquis de l’empire :</l>
+            <l n="1311" xml:id="l1311">D’Orphise, d’Hyppolite, enfin de tous les miens ;<pb n="114" xml:id="p114"/></l>
+            <l n="1312" xml:id="l1312">Voyez ce qu’en depose un écrit que je tiens.</l>
+          </sp>
+          <sp xml:id="V02-4" who="alcipe">
+            <l n="1313" xml:id="l1313">Apres ce témoignage on ne peut que respondre.</l>
+            <l n="1314" xml:id="l1314">Quelque excuse qu’on cherche, il la sçaura confondre,</l>
+            <l n="1315" xml:id="l1315">Orphise toutesfois n’est point nommée ici.</l>
+          </sp>
+          <sp xml:id="V02-5" who="leandre">
+            <l n="1316" xml:id="l1316">L’amour parle pour elle, et vous aveugle aussi.</l>
+            <l n="1317" xml:id="l1317">Ignorez vous encor qu’elle et ma lâche femme</l>
+            <l n="1318" xml:id="l1318">Semblent dedans deux corps n’avoir qu’une seule ame ?</l>
+            <l n="1319" xml:id="l1319">Que l’une ne fait rien que l’autre ne l’ait sçeu ?</l>
+            <l n="1320" xml:id="l1320">Elle vous <ref target="#decevoir">decevroit*</ref> comme elle m’a <ref target="#decevoir">deceu*</ref>.</l>
+          </sp>
+          <sp xml:id="V02-6" who="alcipe">
+            <l n="1321" xml:id="l1321">Il n’en faut plus parler, j’ay l’ame trop outrée :</l>
+            <l n="1322" xml:id="l1322">J’aime dés maintenant Orphise moins qu’Astrée ;</l>
+            <l n="1323" xml:id="l1323">Mais comment cét écrit qui les accuse tous,</l>
+            <l n="1324" xml:id="l1324">A-t’il pû de leurs mains passer jusques à vous ?</l>
+          </sp>
+          <sp xml:id="V02-7" who="leandre">
+            <l n="1325" xml:id="l1325">Mon ingratte moitié, seul objet de ma haine,</l>
+            <l n="1326" xml:id="l1326">A le tenir secret mettoit toute sa peine ;</l>
+            <l n="1327" xml:id="l1327">Mais dans son cabinet introduit par bon-heur,<pb n="115" xml:id="p115"/></l>
+            <l n="1328" xml:id="l1328">Je l’ay veu, je l’ay pris, j’ay leu mon dés-honneur.</l>
+          </sp>
+          <sp xml:id="V02-8" who="alcipe">
+            <l n="1329" xml:id="l1329">Que pretendez vous faire en cette conjoncture ?</l>
+          </sp>
+          <sp xml:id="V02-9" who="leandre">
+            <l n="1330" xml:id="l1330">Ce que veut un affront de pareille nature,</l>
+            <l n="1331" xml:id="l1331">Ce que le poinct d’honneur conseille aux nobles cœurs ;</l>
+            <l n="1332" xml:id="l1332">Esteindre dans leur sang leurs coupables ardeurs.</l>
+          </sp>
+          <sp xml:id="V02-10" who="alcipe">
+            <l n="1333" xml:id="l1333">Joignez le jugement avecques le <ref target="#courage">courage*</ref> :</l>
+            <l n="1334" xml:id="l1334">Filemon doit tout seul perir dans cét orage ;</l>
+            <l n="1335" xml:id="l1335">Les autres ne sont pas pour supporter vos coups,</l>
+            <l n="1336" xml:id="l1336">Il faut que le sujet se mesure au courroux.</l>
+            <l n="1337" xml:id="l1337">Qu’il ait pareille force, et que la resistance</l>
+            <l n="1338" xml:id="l1338">Soit cause que le coup ait plus de violence ;</l>
+            <l n="1339" xml:id="l1339">Abandonnez Astrée : Un <ref target="#genereux">genereux*</ref> dédain,</l>
+            <l n="1340" xml:id="l1340">Luy sera plus mortel qu’un coup de vostre main.</l>
+          </sp>
+          <sp xml:id="V02-11" who="leandre">
+            <l n="1341" xml:id="l1341">J’écoute vôtre avis que je pourray bien suivre ;</l>
+            <l n="1342" xml:id="l1342">Mais mon perfide ami demain ne doit plus vivre.</l>
+            <l n="1343" xml:id="l1343">Quelque Dieu qu’à son aide il invoque aujourd’huy,</l>
+            <l n="1344" xml:id="l1344">Mes sanglantes fureurs doivent fondre sur luy.</l>
+            <l n="1345" xml:id="l1345">Oüy le juste dessein de chatier ce traistre,<pb n="116" xml:id="p116"/></l>
+            <l n="1346" xml:id="l1346">Est tout prest d’éclatter, s’il sçavoit où paroistre.</l>
+            <l n="1347" xml:id="l1347">Car de me l’immoler dedans nôtre maison,</l>
+            <l n="1348" xml:id="l1348">Cét acte auroit des traits de quelque trahison.</l>
+            <l n="1349" xml:id="l1349">Pour perfide qu’il soit, pour lâche qu’on le nomme,</l>
+            <l n="1350" xml:id="l1350">Je le voudrois pourtant traitter en <ref target="#honneste">honneste*</ref> homme.</l>
+            <l n="1351" xml:id="l1351">Le voir hors de chez moy, l’y punir, me vanger ;</l>
+            <l n="1352" xml:id="l1352">Contenter mon dépit, ou du moins l’alleger.</l>
+            <l n="1353" xml:id="l1353">Mais quoy ce criminel, si digne de ma haine,</l>
+            <l n="1354" xml:id="l1354">Est par cette raison à <ref target="#couvert-de">couvert*</ref> de sa peine.</l>
+            <l n="1355" xml:id="l1355">Il ne sort point du tout, et simple que je suis,</l>
+            <l n="1356" xml:id="l1356">J’ay moy-mesme adjousté ce comble à mes <ref target="#ennuy">ennuis*</ref> !</l>
+          </sp>
+          <sp xml:id="V02-12" who="alcipe">
+            <l n="1357" xml:id="l1357">Si c’est ce sujet seul qui s’oppose au tonnere</l>
+            <l n="1358" xml:id="l1358">Dont l’éclat foudroyant le doit jetter par terre ;</l>
+            <l n="1359" xml:id="l1359">Je sçais et rien du tout ne l’en peut garentir,</l>
+            <l n="1360" xml:id="l1360">L’infaillible moyen de l’en faire sortir.</l>
+            <l n="1361" xml:id="l1361">Allez, d’un seul moment n’en differez l’issuë,</l>
+            <l n="1362" xml:id="l1362">Vous n’avez qu’à l’attendre en la prochaine ruë.</l>
+          </sp>
+          <sp xml:id="V02-13" who="leandre">
+            <l n="1363" xml:id="l1363">J’y vay dans le dessein de ne rien pardonner,</l>
+            <l n="1364" xml:id="l1364">D’y recevoir la mort, ou bien de la donner.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V03">
+          <sp xml:id="V03-1" who="alcipe">
+            <l n="1365" xml:id="l1365">Courage, mon amour augmente et persevere :<pb n="117" xml:id="p117"/></l>
+            <l n="1366" xml:id="l1366">La fortune se rend, tout me devient prospere.</l>
+            <l n="1367" xml:id="l1367">Je touche au doux moment si long-temps attendu, </l>
+            <l n="1368" xml:id="l1368">Je m’en vais tout gagner, où j’avois tout perdu.</l>
+            <l n="1369" xml:id="l1369">Soit que Leandre tuë, ou soit tué luy mesme ;</l>
+            <l n="1370" xml:id="l1370">L’un et l’autre trespas rend mon bon-heure extréme.</l>
+            <l n="1371" xml:id="l1371">La fin de ce combat ne peut trahir mes voeux,</l>
+            <l n="1372" xml:id="l1372">D’un et d’autre costé j’obtiens ce que je veux.</l>
+            <l n="1373" xml:id="l1373">S’il tuë il faut qu’il fuye, et cependant ma flâme</l>
+            <l n="1374" xml:id="l1374">Pourra tout à loisir solliciter sa femme.</l>
+            <l n="1375" xml:id="l1375">S’il est tué, mon sort ne sera pas moins doux,</l>
+            <l n="1376" xml:id="l1376">J’aime Astrée et pourrois devenir son espoux.</l>
+            <l n="1377" xml:id="l1377">Toy, Sylvain, qui tantost reprenois ma conduitte ;</l>
+            <l n="1378" xml:id="l1378">Tiens un autre discours, admires-en la suitte ;</l>
+            <l n="1379" xml:id="l1379">Si j’avois écouté tes conseils et ta peur,</l>
+            <l n="1380" xml:id="l1380">Je ne me verrois pas si prés de mon bon-heur.</l>
+          </sp>
+          <sp xml:id="V03-2" who="sylvain">
+            <l n="1381" xml:id="l1381">On se trompe parfois, et contre l’apparence,<pb n="118" xml:id="p118"/></l>
+            <l n="1382" xml:id="l1382">Un orage impreveu destruit nôtre esperance.</l>
+            <l n="1383" xml:id="l1383">On eschouë à la rade, et vos pareils souvent,</l>
+            <l n="1384" xml:id="l1384">Croyans tenir un corps, n’embrassent que du vent.</l>
+            <l n="1385" xml:id="l1385">Quelque soit vôtre joye, elle est mal asseurée,</l>
+            <l n="1386" xml:id="l1386">Et crains qu’elle ne soit de fort peu de durée.</l>
+          </sp>
+          <sp xml:id="V03-3" who="alcipe">
+            <l n="1387" xml:id="l1387">Tay-toy, tu me déplais de tenir ce discours ;</l>
+            <l n="1388" xml:id="l1388">Tout me rit, j’apperçoy l’objet de mes amours.</l>
+            <l n="1389" xml:id="l1389">Filemon la conduit, feignons de bonne grace,</l>
+            <l n="1390" xml:id="l1390">Et l’obligeons par ruse à nous ceder la place.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V04">
+          <sp xml:id="V04-1" who="alcipe">
+            <l n="1391" xml:id="l1391">Ah ! Madame, j’allois, il y va, je l’ay veu,<pb n="119" xml:id="p119"/></l>
+            <l n="1392" xml:id="l1392">Sans second, on le dit, il est vray, je l’ay sçeu ;</l>
+            <l n="1393" xml:id="l1393">C’est pour tirer raison d’une injure receuë :</l>
+            <l n="1394" xml:id="l1394">Ils se doivent trouver dans la prochaine ruë,</l>
+            <l n="1395" xml:id="l1395">Inhumain envers vous, à soy-mesme cruel</l>
+            <l n="1396" xml:id="l1396" part="I">Leandre.</l>
+          </sp>
+          <sp xml:id="V04-2" who="astree">
+            <l part="M">Qu’est-ce donc ?</l>
+          </sp>
+          <sp xml:id="V04-3" who="alcipe">
+            <l part="F">Va se battre en duel,</l>
+            <l n="1397" xml:id="l1397">Si j’avois la main libre, on verroit mon espée</l>
+            <l n="1398" xml:id="l1398">En cette occasion volontiers occuppée.</l>
+          </sp>
+          <sp xml:id="V04-4" who="filemon">
+            <l n="1399" xml:id="l1399">Il suffit de la mienne, et d’un <ref target="#zele">zele*</ref> aussi grand<pb n="120" xml:id="p120"/></l>
+            <l n="1400" xml:id="l1400">Je feray repentir quiconque l’entreprend.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V05">
+          <sp xml:id="V05-1" who="alcipe">
+            <l n="1401" xml:id="l1401">Leandre a de l’adresse autant que de courage ;</l>
+            <l n="1402" xml:id="l1402">Mais le sort en ce poinct imite le visage.</l>
+            <l n="1403" xml:id="l1403">Qu’il paroist different, qu’il est souvent trompeur,</l>
+            <l n="1404" xml:id="l1404">Qu’il dement la pensée et qu’il trahit le coeur !</l>
+          </sp>
+          <sp xml:id="V05-2" who="astree">
+            <l n="1405" xml:id="l1405">Son bon droict maintenu de la faveur celeste,</l>
+            <l n="1406" xml:id="l1406">Détournera de luy tout accident funeste.</l>
+          </sp>
+          <sp xml:id="V05-3" who="alcipe">
+            <l n="1407" xml:id="l1407">Mais enfin, si le Ciel permettoit son trespas ?</l>
+          </sp>
+          <sp xml:id="V05-4" who="astree">
+            <l n="1408" xml:id="l1408">Je le suivrois de prés, j’irois dessus ses pas.<pb n="121 ; Q"/></l>
+          </sp>
+          <sp xml:id="V05-5" who="alcipe">
+            <l n="1409" xml:id="l1409">Quoy cedant à l’excez d’une douleur profonde,</l>
+            <l n="1410" xml:id="l1410">D’un si rare ornement vous priveriez le monde ?</l>
+            <l n="1411" xml:id="l1411">Vous laisseriez perir tant de divins attraits ?</l>
+            <l n="1412" xml:id="l1412">Toute la terre en dueil en feroit des regrets,</l>
+            <l n="1413" xml:id="l1413">Tous les yeux pleureroient cette perte commune,</l>
+            <l n="1414" xml:id="l1414">Et Charon passeroit cent milles ames pour une.</l>
+            <l n="1415" xml:id="l1415">Formez d’autres desseins, tenez d’autres discours,</l>
+            <l n="1416" xml:id="l1416">Et souhaittez plustost d’eterniser vos jours.</l>
+            <l n="1417" xml:id="l1417">De quelle vaine crainte estes vous allarmée ?</l>
+            <l n="1418" xml:id="l1418">Une galante veuve est toûjours estimée.</l>
+            <l n="1419" xml:id="l1419">C’est toûjours un objet cherissable et cheri,</l>
+            <l n="1420" xml:id="l1420">Qui ne manque jamais d’amant ou de mari.</l>
+          </sp>
+          <sp xml:id="V05-6" who="astree">
+            <l n="1421" xml:id="l1421">Alcipe gardez bien d’en dire davantage.</l>
+            <l n="1422" xml:id="l1422">De quel front osez vous me tenir ce langage ?</l>
+            <l n="1423" xml:id="l1423">Est-ce là le respect que vous m’avez promis ?</l>
+            <l n="1424" xml:id="l1424">Qu’est devenu ce coeur si pur et si soûmis ?</l>
+            <l n="1425" xml:id="l1425">Vos illicites feux se r’allument sans doute ;</l>
+            <l n="1426" xml:id="l1426">Vôtre flâme renaist ; mais estouffez la toute.</l>
+            <l n="1427" xml:id="l1427">Ma vertu continuë, et mes severitez<pb n="122" xml:id="p122"/></l>
+            <l n="1428" xml:id="l1428">Vous puniroient enfin de vos temeritez.</l>
+          </sp>
+          <sp xml:id="V05-7" who="alcipe">
+            <l n="1429" xml:id="l1429">N’importe, à vostre gré soyez douce ou severe.</l>
+            <l n="1430" xml:id="l1430">Oüy, ma flame renaist, elle croist, et j’espere :</l>
+            <l n="1431" xml:id="l1431">La douceur ne peut rien, la force pourra tout,</l>
+            <l n="1432" xml:id="l1432">J’entreprends rarement que je n’en vienne à bout.</l>
+            <l n="1433" xml:id="l1433" part="I">Consentez…</l>
+          </sp>
+          <sp xml:id="V05-8" who="astree">
+            <l part="M">Insolent !</l>
+          </sp>
+          <sp xml:id="V05-9" who="alcipe">
+            <l part="M">Consentez ou…</l>
+          </sp>
+          <sp xml:id="V05-10" who="hyppolite">
+            <l part="F">Madame,</l>
+            <l n="1434" xml:id="l1434">Rentrez, et vous sauvez des mains de cét infame.</l>
+          </sp>
+          <sp xml:id="V05-11" who="alcipe">
+            <l n="1435" xml:id="l1435">Vous fuyez ; mais en vain, j’irois pour vous trouver,</l>
+            <l n="1436" xml:id="l1436">Où le flambeau du jour ne sçauroit arriver.</l>
+          </sp>
+          <sp xml:id="V05-12" who="sylvain">
+            <l n="1437" xml:id="l1437" part="I">Monsieur.</l>
+          </sp>
+          <sp xml:id="V05-13" who="alcipe">
+            <l part="M">Ne me di rien.<pb n="123" xml:id="p123"/></l>
+          </sp>
+          <sp xml:id="V05-14" who="sylvain">
+            <l part="F">Mais Leandre peut estre…</l>
+          </sp>
+          <sp xml:id="V05-15" who="alcipe">
+            <l n="1438" xml:id="l1438">Leandre ne vit plus, ou n’ose plus paroistre.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V06">
+          <sp xml:id="V06-1" who="leandre">
+            <l n="1439" xml:id="l1439">Je le voy le perfide, il vient le suborneur.<pb n="124" xml:id="p124"/></l>
+            <l n="1440" xml:id="l1440">Mourons dans ce combat, ou vangeons nôtre honneur :</l>
+            <l n="1441" xml:id="l1441" part="I">Deffends-toy, lasche ami.</l>
+          </sp>
+          <sp xml:id="V06-2" who="filemon">
+            <l part="M">Leandre.</l>
+          </sp>
+          <sp xml:id="V06-3" who="leandre">
+            <l part="F">L’<ref target="#artifice">artifice*</ref></l>
+            <l n="1442" xml:id="l1442">Ne sçauroit d’un moment reculer ton supplice.</l>
+          </sp>
+          <sp xml:id="V06-4" who="filemon">
+            <l n="1443" xml:id="l1443" part="I">Vous me méconnoissez.</l>
+          </sp>
+          <sp xml:id="V06-5" who="leandre">
+            <l part="F">Non, infidele, non.</l>
+          </sp>
+          <sp xml:id="V06-6" who="filemon">
+            <l n="1444" xml:id="l1444" part="I">Considerez, je suis…<pb n="125" xml:id="p125"/></l>
+          </sp>
+          <sp xml:id="V06-7" who="leandre">
+            <l part="F">Le traistre Filemon.</l>
+          </sp>
+          <sp xml:id="V06-8" who="filemon">
+            <l n="1445" xml:id="l1445">Je m’offence à ce mot, Leandre que je sçache,</l>
+            <l n="1446" xml:id="l1446">Qui vous fait me traitter d’infidelle et de lasche ?</l>
+          </sp>
+          <sp xml:id="V06-9" who="leandre">
+            <l n="1447" xml:id="l1447">Tu ne le sçais que trop ; mais sans plus repliquer,</l>
+            <l n="1448" xml:id="l1448">Ce n’est que par ce fer que je veux m’expliquer,</l>
+            <l n="1449" xml:id="l1449" part="I">Deffends-toy donc.</l>
+          </sp>
+          <sp xml:id="V06-10" who="filemon">
+            <l part="F">Le sang au visage me monte,</l>
+            <l n="1450" xml:id="l1450">Tout autre esprouveroit ma colere plus prompte.</l>
+            <l n="1451" xml:id="l1451">Je vous satisferay n’en doutez nullement :</l>
+            <l n="1452" xml:id="l1452">Mais ne me <ref target="#nier">niez*</ref> pas cét éclaircissement.</l>
+            <l n="1453" xml:id="l1453">Que je connoisse au moins la nature du crime</l>
+            <l n="1454" xml:id="l1454">Qui m’acquiert vostre haine, et m’oste vostre estime.</l>
+          </sp>
+          <sp xml:id="V06-11" who="leandre">
+            <l n="1455" xml:id="l1455">Ce crime est le plus noir qu’on ait jamais commis ;<pb n="126" xml:id="p126"/></l>
+            <l n="1456" xml:id="l1456">Horrible et detestable à tous les vrais amis.</l>
+            <l n="1457" xml:id="l1457">Attenter sur mon lict, abuser de ma femme !</l>
+            <l n="1458" xml:id="l1458">Sus l’espée à la main, ce penser seul m’enflamme.</l>
+          </sp>
+          <sp xml:id="V06-12" who="filemon">
+            <l n="1459" xml:id="l1459">Je ne la l’y mets point, l’innocent opprimé</l>
+            <l n="1460" xml:id="l1460">Se tient plus fort tout nud, qu’un criminel armé ;</l>
+            <l n="1461" xml:id="l1461">Tenez voila mon sein, faites une ouverture :</l>
+            <l n="1462" xml:id="l1462">Vous verrez dans mon coeur une amitié plus pure.</l>
+          </sp>
+          <sp xml:id="V06-13" who="leandre">
+            <l n="1463" xml:id="l1463" part="I">A la fin j’auray tort !</l>
+          </sp>
+          <sp xml:id="V06-14" who="filemon">
+            <l part="F">Vous l’aurez en effet,</l>
+            <l n="1464" xml:id="l1464">Avec le repentir de l’affront qui m’est fait.</l>
+            <l n="1465" xml:id="l1465">Quel indice avez vous qui marque mon offence ?</l>
+          </sp>
+          <sp xml:id="V06-15" who="leandre">
+            <l n="1466" xml:id="l1466">J’en ay plus d’une preuve et plus d’une apparence ;</l>
+            <l n="1467" xml:id="l1467">Mais pour n’en faire pas un importun recit :</l>
+            <l n="1468" xml:id="l1468">Consultez ce billet, et voyez ce qu’il dit.</l>
+            <pb n="127" xml:id="p127"/>
+            <l n="1469" xml:id="l1469" part="I">Vous demeurez confus.</l>
+          </sp>
+          <sp xml:id="V06-16" who="filemon">
+            <l part="F">J’imagine, je songe</l>
+            <l n="1470" xml:id="l1470">Qui peut avoir écrit cét horrible mensonge ?</l>
+            <l n="1471" xml:id="l1471">Quiconque l’a pû faire, est certain de sa mort :</l>
+            <l n="1472" xml:id="l1472">Ce projet de mon coeur est un Arrest du sort.</l>
+          </sp>
+          <sp xml:id="V06-17" who="leandre">
+            <l n="1473" xml:id="l1473" part="I">C’est,</l>
+          </sp>
+          <sp xml:id="V06-18" who="filemon">
+            <l part="M">Poursuivez.</l>
+          </sp>
+          <sp xml:id="V06-19" who="leandre">
+            <l part="M">Alcipe.</l>
+          </sp>
+          <sp xml:id="V06-20" who="filemon">
+            <l part="F">Alcipe, le perfide !</l>
+            <l n="1474" xml:id="l1474">Fut-il un Gerion, je seray son Alcide.</l>
+            <l n="1475" xml:id="l1475">Je ne vous ay jamais à ce point offencé ;</l>
+            <l n="1476" xml:id="l1476" part="I">C’est un traistre imposteur.</l>
+          </sp>
+          <sp xml:id="V06-21" who="leandre">
+            <l part="F">Je l’avois bien pensé.</l>
+          </sp>
+          <sp xml:id="V06-22" who="filemon">
+            <l n="1477" xml:id="l1477">Ne m’osant attaquer avec la force ouverte,<pb n="128" xml:id="p128"/></l>
+            <l n="1478" xml:id="l1478">Sa malice en secret tente tout pour ma perte :</l>
+            <l n="1479" xml:id="l1479">Mais le lâche qu’il est, se le promet en vain.</l>
+            <l n="1480" xml:id="l1480">Sçachez que sa blesseure est un coup de ma main.</l>
+            <l n="1481" xml:id="l1481">Que vous estes celuy dont il aimoit la femme,</l>
+            <l n="1482" xml:id="l1482">Et que pas un que moy n’a puni cét infame.</l>
+            <l n="1483" xml:id="l1483">Vous apprendrez un jour cette histoire à loisir.</l>
+          </sp>
+          <sp xml:id="V06-23" who="leandre">
+            <l n="1484" xml:id="l1484">Alcipe m’auroit fait ce sanglant déplaisir !</l>
+            <l n="1485" xml:id="l1485">Non cela ne se peut, si je l’aime, il m’honore.</l>
+            <l n="1486" xml:id="l1486">A cét autre témoin que direz vous encore ?</l>
+          </sp>
+          <sp xml:id="V06-24" who="filemon">
+            <l n="1487" xml:id="l1487">Ce témoin me convainct bien moins que le premier.</l>
+            <l n="1488" xml:id="l1488">Cét écrit est de moy ; je ne le puis nier,</l>
+            <l n="1489" xml:id="l1489">Je l’adresse à Florinde, et <ref target="#mander">mande*</ref> à cette belle,</l>
+            <l n="1490" xml:id="l1490">Que j’ay le mesme coeur qu’autre fois j’eus pour elle ;</l>
+            <l n="1491" xml:id="l1491">Et que si son mari la traitte rudement,</l>
+            <l n="1492" xml:id="l1492">J’en meditte et resous le dernier chatiment.</l>
+          </sp>
+          <sp xml:id="V06-25" who="leandre">
+            <l n="1493" xml:id="l1493">Mais en ce grand dessein que peut faire Hyppolite ?<pb n="129 ; R"/></l>
+          </sp>
+          <sp xml:id="V06-26" who="filemon">
+            <l n="1494" xml:id="l1494">Qu’aisement un soupçon dans vôtre ame s’excite !</l>
+            <l n="1495" xml:id="l1495">Hyppolite est parente et confidente aussi</l>
+            <l n="1496" xml:id="l1496">De la belle affligée à qui j’écris ceci :</l>
+            <l n="1497" xml:id="l1497">Ressouvenez vous en, vous l’avez cent fois veuë </l>
+            <l n="1498" xml:id="l1498">Dans le bal, au Theatre, au Temple, et dans la ruë.</l>
+          </sp>
+          <sp xml:id="V06-27" who="leandre">
+            <l n="1499" xml:id="l1499">Oüy je m’en ressouviens, et reçois des clartez</l>
+            <l n="1500" xml:id="l1500">Qui dissipent mon doute et mes obscuritez.</l>
+          </sp>
+          <sp xml:id="V06-28" who="filemon">
+            <l n="1501" xml:id="l1501">Leandre à vôtre tour tirez moy d’une peine.</l>
+            <l n="1502" xml:id="l1502">D’où vous vient cét écrit ? faittes que je l’apprenne.</l>
+            <l n="1503" xml:id="l1503">Vous avez au rapport qu’Alcipe vous a fait,</l>
+            <l n="1504" xml:id="l1504">Corrompu le Courrier, ou gagné mon valet.</l>
+            <l n="1505" xml:id="l1505">L’apparence le dit, et m’oblige à le croire.</l>
+          </sp>
+          <sp xml:id="V06-29" who="leandre">
+            <l n="1506" xml:id="l1506">Vous m’accusez à tort d’une action si noire.</l>
+            <l n="1507" xml:id="l1507">J’use moins d’<ref target="#artifice">artifice*</ref>, et ma sincerité</l>
+            <l n="1508" xml:id="l1508">Ne me permit jamais une infidelité.</l>
+          </sp>
+          <sp xml:id="V06-30" who="filemon">
+            <l n="1509" xml:id="l1509" part="I">Mais cette lettre enfin ?<pb n="130" xml:id="p130"/></l>
+          </sp>
+          <sp xml:id="V06-31" who="leandre">
+            <l part="F">Consultez en Astrée ;</l>
+            <l n="1510" xml:id="l1510">C’est dans son cabinet que je l’ay <ref target="#rencontrer">rencontré*</ref>.</l>
+          </sp>
+          <sp xml:id="V06-32" who="filemon">
+            <l n="1511" xml:id="l1511">Allons donc la trouver et nous éclaircissons</l>
+            <l n="1512" xml:id="l1512">Sur les divers motifs de nos fâcheux soupçons.</l>
+            <l n="1513" xml:id="l1513">Qu’aujourd’huy nôtre erreur tout à fait se dissipe ;</l>
+            <l n="1514" xml:id="l1514">Hastons nous, nous pourrons y rencontrer Alcippe ;</l>
+            <l n="1515" xml:id="l1515">Et le traistre avoüera, s’il n’aime mieux perir,</l>
+            <l n="1516" xml:id="l1516">Qu’un autre plus que moy, ne vous sçauroit cherir.</l>
+          </sp>
+          <sp xml:id="V06-33" who="leandre">
+            <l n="1517" xml:id="l1517">Justes Cieux accordez à mon ame tremblante,</l>
+            <l n="1518" xml:id="l1518">Qu’Alcipe soit coupable, et ma femme innocente !</l>
+            <l n="1519" xml:id="l1519">Que j’apprenne de l’un le <ref target="#zele">Zele*</ref> dangereux,</l>
+            <l n="1520" xml:id="l1520">De l’autre l’innocence et l’amour <ref target="#genereux">genereux*</ref>.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V07">
+          <sp xml:id="V07-1" who="orphise">
+            <l n="1521" xml:id="l1521">L’insolent vous parloit avec tant d’impudence ?<pb n="131" xml:id="p131"/></l>
+          </sp>
+          <sp xml:id="V07-2" who="astree">
+            <l n="1522" xml:id="l1522">Il a mesme passé jusqu’à la violence.</l>
+            <l n="1523" xml:id="l1523">Il m’a dessus la gorge osé porter la main,</l>
+            <l n="1524" xml:id="l1524">Et fait quelqu’autre <ref target="#effort1">effort*</ref> plus grand ; mais aussi vain.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V08">
+          <sp xml:id="V08-1" who="hyppolite">
+            <l n="1525" xml:id="l1525" part="I">Il revient.<pb n="132" xml:id="p132"/></l>
+          </sp>
+          <sp xml:id="V08-2" who="astree">
+            <l part="F">Temeraire avez vous donc envie ?…</l>
+          </sp>
+          <sp xml:id="V08-3" who="alcipe">
+            <l n="1526" xml:id="l1526">D’obtenir vos faveurs, ou d’avoir vostre vie.</l>
+          </sp>
+          <sp xml:id="V08-4" who="astree">
+            <l n="1527" xml:id="l1527" part="I">Ah ! le lâche <ref target="#courage">courage*</ref>.</l>
+          </sp>
+          <sp xml:id="V08-5" who="alcipe">
+            <l part="F">Ah ! le coeur sans pitié.</l>
+          </sp>
+          <sp xml:id="V08-6" who="astree">
+            <l n="1528" xml:id="l1528">Le <ref target="#genereux">genereux*</ref> amour ! la parfaitte amitié !<pb n="133" xml:id="p133"/></l>
+          </sp>
+          <sp xml:id="V08-7" who="alcipe">
+            <l n="1529" xml:id="l1529">Ne parlez plus d’ami, quand la vie est esteinte,</l>
+            <l n="1530" xml:id="l1530">Le coeur le plus <ref target="#zele">zelé*</ref> n’a qu’une amitié feinte ;</l>
+            <l n="1531" xml:id="l1531">Leandre ne vit plus, la mort vous le ravit,</l>
+            <l n="1532" xml:id="l1532">Et je veux obtenir sa place en vostre lit.</l>
+          </sp>
+          <sp xml:id="V08-8" who="astree">
+            <l n="1533" xml:id="l1533">S’il ne vit plus, méchant, le Ciel le ressuscite</l>
+            <l n="1534" xml:id="l1534">Pour prendre une vangeance égale à son merite.</l>
+          </sp>
+          <sp xml:id="V08-9" who="sylvain">
+            <l n="1535" xml:id="l1535" part="I">Filemon l’accompagne.</l>
+          </sp>
+          <sp xml:id="V08-10" who="alcipe">
+            <l part="F">Ah ! je suis découvert.</l>
+          </sp>
+          <sp xml:id="V08-11" who="sylvain">
+            <l n="1536" xml:id="l1536" part="I">Je vous l’avois bien dit.</l>
+          </sp>
+          <sp xml:id="V08-12" who="alcipe">
+            <l part="F">Tout me nuit, tout me perd ;</l>
+            <l n="1537" xml:id="l1537">Mais que tarday-je plus ? évitons leur colere,</l>
+            <l n="1538" xml:id="l1538" part="I">Fuyons Sylvain.<pb n="134" xml:id="p134"/></l>
+          </sp>
+          <sp xml:id="V08-13" who="sylvain">
+            <l part="F">Fuyons, nous ne sçaurions mieux faire.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V09">
+          <sp xml:id="V09-1" who="leandre">
+            <l n="1539" xml:id="l1539" part="I">Tien le bien Hyppolite.</l>
+          </sp>
+          <sp xml:id="V09-2" who="filemon">
+            <l part="M">Arreste.</l>
+          </sp>
+          <sp xml:id="V09-3" who="sylvain">
+            <l part="F">J’obeïs.</l>
+          </sp>
+          <sp xml:id="V09-4" who="filemon">
+            <l n="1540" xml:id="l1540">Au brave qui s’enfuit, tu donnois des avis,</l>
+            <l n="1541" xml:id="l1541">Et suivant d’aujourd’huy le Proverbe <ref target="#vulgaire">vulgaire*</ref>,<pb n="135" xml:id="p135"/></l>
+            <l n="1542" xml:id="l1542">Estois de ses secrets le grand depositaire ?</l>
+          </sp>
+          <sp xml:id="V09-5" who="sylvain">
+            <l n="1543" xml:id="l1543">Monsieur, s’il eust voulu suivre mes sentimens,</l>
+            <l n="1544" xml:id="l1544">Je ne recevrois pas ces mauvais traittemens.</l>
+            <l n="1545" xml:id="l1545">Luy dedans la chaleur d’une <ref target="#indiscret">indiscrette*</ref> flame,</l>
+            <l n="1546" xml:id="l1546">N’auroit pas attenté sur l’honneur de Madame ;</l>
+            <l n="1547" xml:id="l1547">Ni de ce bras vainqueur, le juste et prompt secours,</l>
+            <l n="1548" xml:id="l1548">Presque esteind dans son sang le flambeau de ses jours ;</l>
+            <l n="1549" xml:id="l1549">Car enfin les filoux n’estoient qu’imaginaires,</l>
+            <l n="1550" xml:id="l1550">Leurs coups que fiction, nos clameurs que chimeres :</l>
+            <l n="1551" xml:id="l1551">Et bien-tost en ce jeu l’on m’eut veu le trahir,</l>
+            <l n="1552" xml:id="l1552">N’eust esté qu’un valet doit toûjours obeïr.</l>
+          </sp>
+          <sp xml:id="V09-6" who="filemon">
+            <l n="1553" xml:id="l1553">Apres un tel aveu, quel soupçon vous demeure ?</l>
+            <l n="1554" xml:id="l1554">Meritay-je de vivre, ou faut-il que je meure ?</l>
+            <l n="1555" xml:id="l1555" part="I">Suis-je un perfide ami ?</l>
+          </sp>
+          <sp xml:id="V09-7" who="leandre">
+            <l part="F">Mais ne le suis-je pas ?</l>
+            <l n="1556" xml:id="l1556">Pour ma punition, est-ce assez d’un trespas ?</l>
+            <l n="1557" xml:id="l1557"><ref target="#hymen">Hymen*</ref>, ami, vertu que j’ay tant offencée ;</l>
+            <l n="1558" xml:id="l1558">Remarquez de quel trait j’en ay l’ame blessée,</l>
+            <l n="1559" xml:id="l1559">Et que vostre Justice ait égard aujourd’huy<pb n="136" xml:id="p136"/></l>
+            <l n="1560" xml:id="l1560">A ne me punir pas des malices d’autruy.</l>
+            <l n="1561" xml:id="l1561">Toy de mon faux ami confident et complice,</l>
+            <l n="1562" xml:id="l1562">Tu devrois esprouver un rigoureux supplice ;</l>
+            <l n="1563" xml:id="l1563">Mais puis qu’avec regret tu suivois ses desseins,</l>
+            <l n="1564" xml:id="l1564">Ton mal ne sera pas si grand que tu le crains.</l>
+            <l n="1565" xml:id="l1565">Cependant à mes yeux n’oze jamais paraistre,</l>
+            <l n="1566" xml:id="l1566">Et porte de ma part ce soufflet à ton Maistre.</l>
+          </sp>
+          <sp xml:id="V09-8" who="valentin">
+            <l n="1567" xml:id="l1567">Voila pauvres valets, comme on nous traitte tous,</l>
+            <l n="1568" xml:id="l1568">Quand nostre sort permet que nous servions des fous.</l>
+          </sp>
+          <sp xml:id="V09-9" who="leandre">
+            <l n="1569" xml:id="l1569">La verité connuë a dissipé mes douttes ;</l>
+            <l n="1570" xml:id="l1570">Et comme eux, cher ami, mes craintes le sont toutes :</l>
+            <l n="1571" xml:id="l1571">Je joüis maintenant d’un repos accomply.</l>
+          </sp>
+          <sp xml:id="V09-10" who="filemon">
+            <l n="1572" xml:id="l1572">Pour moy, je n’ay pas mis cette lettre en oubly.</l>
+            <l n="1573" xml:id="l1573">Son secret m’inquiette, et je prirois Madame</l>
+            <l n="1574" xml:id="l1574">De donner sur ce poinct quelque jour à mon ame.</l>
+          </sp>
+          <sp xml:id="V09-11" who="astree">
+            <l n="1575" xml:id="l1575">Je le veux ; aussi bien de vostre part aussi,</l>
+            <l n="1576" xml:id="l1576">Il me reste un soupçon qui doit estre éclairci :</l>
+            <l n="1577" xml:id="l1577">Vous estes noble, riche, adroit en toute chose :<pb n="137 ; S"/></l>
+            <l n="1578" xml:id="l1578">Qui vous void une fois vous aime ou s’y dispose.</l>
+            <l n="1579" xml:id="l1579">Je vous connois <ref target="#discret">discret*</ref>, modeste et <ref target="#genereux">genereux*</ref>,</l>
+            <l n="1580" xml:id="l1580">Je souhaittois de plus de vous voir amoureux,</l>
+            <l n="1581" xml:id="l1581">Mais d’un digne sujet, et de qui l’<ref target="#hymen">Hymenée*</ref></l>
+            <l n="1582" xml:id="l1582">Avecque vôtre sort joignit la destinée.</l>
+            <l n="1583" xml:id="l1583">J’ay creu, (vostre coeur mesme en a fait un aveu)</l>
+            <l n="1584" xml:id="l1584">Que vous pouviez nourrir en secret quelque feu ;</l>
+            <l n="1585" xml:id="l1585">Et qu’ayant le merite égal à la fortune,</l>
+            <l n="1586" xml:id="l1586">Vous vous faisiez partout cent Maistresses pour une.</l>
+            <l n="1587" xml:id="l1587">J’ay pensé d’autre part que dans l’éloignement</l>
+            <l n="1588" xml:id="l1588">Une lettre entretient l’Amante avec l’Amant :</l>
+            <l n="1589" xml:id="l1589">Que c’est où leur amour à bien feindre s’exerce,</l>
+            <l n="1590" xml:id="l1590">Et j’ay fait mon pouvoir d’en rompre le commerce.</l>
+          </sp>
+          <sp xml:id="V09-12" who="valentin">
+            <l n="1591" xml:id="l1591" part="I">Je suis perdu, Madame.</l>
+          </sp>
+          <sp xml:id="V09-13" who="filemon">
+            <l part="F">Encor à quel dessein ?</l>
+          </sp>
+          <sp xml:id="V09-14" who="orphise">
+            <l n="1592" xml:id="l1592" part="I">Cousine.</l>
+          </sp>
+          <sp xml:id="V09-15" who="astree">
+            <l part="F">De vous mettre une autre ardeur au sein.</l>
+          </sp>
+          <sp xml:id="V09-16" who="filemon">
+            <l n="1593" xml:id="l1593">Il n’estoit pas besoin incomparable Astrée !<pb n="138" xml:id="p138"/></l>
+            <l n="1594" xml:id="l1594">Admirable en beauté plus encor qu’admirée ;</l>
+            <l n="1595" xml:id="l1595">Il n’estoit pas besoin de prendre ce souci :</l>
+            <l n="1596" xml:id="l1596">J’ay bien dedans le sein une autre ardeur aussi.</l>
+            <l n="1597" xml:id="l1597">Dois-je la declarer, non non je la doy taire :</l>
+            <l n="1598" xml:id="l1598">Dans cette passion, je suis trop temeraire.</l>
+            <l n="1599" xml:id="l1599">Leandre, s’il le veut, m’y pourroit bien aider ;</l>
+            <l n="1600" xml:id="l1600">Mais l’en prier aussi, c’est trop se hazarder.</l>
+            <l n="1601" xml:id="l1601" part="I">Toutesfois</l>
+          </sp>
+          <sp xml:id="V09-17" who="astree">
+            <l part="F">Filemon, n’achevez pas de grace.</l>
+          </sp>
+          <sp xml:id="V09-18" who="orphise">
+            <l n="1602" xml:id="l1602" part="I">Il l’aime et non pas moy.</l>
+          </sp>
+          <sp xml:id="V09-19" who="filemon">
+            <l part="F">Que faut-il que je fasse ?</l>
+            <l n="1603" xml:id="l1603">Escoutez un Amant à demy consumé</l>
+            <l n="1604" xml:id="l1604">D’un feu que vous avez en partie allumé.</l>
+          </sp>
+          <sp xml:id="V09-20" who="leandre">
+            <l n="1605" xml:id="l1605" part="I">Que pourroit-il pretendre ?</l>
+          </sp>
+          <sp xml:id="V09-21" who="astree">
+            <l part="F">Encor un coup silence.<pb n="139" xml:id="p139"/></l>
+          </sp>
+          <sp xml:id="V09-22" who="filemon">
+            <l n="1606" xml:id="l1606">Ami, souscrirez-vous à cette violence ?</l>
+            <l n="1607" xml:id="l1607">C’est me donner la mort, que me <ref target="#nier">nier*</ref> ce bien.</l>
+          </sp>
+          <sp xml:id="V09-23" who="leandre">
+            <l n="1608" xml:id="l1608">Vous tenez un propos où je ne comprends rien.</l>
+          </sp>
+          <sp xml:id="V09-24" who="filemon">
+            <l n="1609" xml:id="l1609">Il faut donc m’adresser à la divine Orphise :</l>
+            <l n="1610" xml:id="l1610">Elle en prendra le sens, ainsi que ma <ref target="#franchise">franchise*</ref>.</l>
+            <l n="1611" xml:id="l1611">C’est elle qui m’enchaine, et qui me fait brûler ;</l>
+            <l n="1612" xml:id="l1612">C’est le souverain bien dont je voulois parler.</l>
+          </sp>
+          <sp xml:id="V09-25" who="astree">
+            <l n="1613" xml:id="l1613" part="I">O Ciel ! quelle surprise ?</l>
+          </sp>
+          <sp xml:id="V09-26" who="orphise">
+            <l part="F">Cousine qu’elle est douce !</l>
+          </sp>
+          <sp xml:id="V09-27" who="filemon">
+            <l n="1614" xml:id="l1614">Vostre visage change, est-ce qu’il se courrouce ?</l>
+            <l n="1615" xml:id="l1615">Astrée, Orphise, ami favorisez mes feux,<pb n="140" xml:id="p140"/></l>
+            <l n="1616" xml:id="l1616">Et n’éconduisez pas un discret amoureux.</l>
+          </sp>
+          <sp xml:id="V09-28" who="leandre">
+            <l n="1617" xml:id="l1617">Orphise est trop prudente, et trop respectueuse,</l>
+            <l n="1618" xml:id="l1618">Pour contrefaire ici la fille dédaigneuse.</l>
+            <l n="1619" xml:id="l1619">Ma cousine parlez, vainquez vôtre <ref target="#pudeur">pudeur*</ref> ;</l>
+            <l n="1620" xml:id="l1620">Ne repondez vous pas à cette noble ardeur ?</l>
+          </sp>
+          <sp xml:id="V09-29" who="orphise">
+            <l n="1621" xml:id="l1621">Estant vostre parente et sous vostre tutele,</l>
+            <l n="1622" xml:id="l1622">Si cette ardeur vous plaist, elle me semble belle.</l>
+          </sp>
+          <sp xml:id="V09-30" who="astree">
+            <l n="1623" xml:id="l1623">Ce mot a mon soupçon tout à fait éclairci.</l>
+            <l n="1624" xml:id="l1624">Vous vous aimiez tous deux, et m’en doutois aussi ;</l>
+            <l n="1625" xml:id="l1625">Mesme pour mieux former ces douces harmonies,</l>
+            <l n="1626" xml:id="l1626">Qui composent un tout de deux ames unies ;</l>
+            <l n="1627" xml:id="l1627">Et de peur qu’en sortant vous ne vinssiez à voir </l>
+            <l n="1628" xml:id="l1628">Quelque agreable objet qui peût vous émouvoir ;</l>
+            <l n="1629" xml:id="l1629">J’ay sçeu sur un soupçon d’une noire entreprise,</l>
+            <l n="1630" xml:id="l1630">Vous retenir toûjours aupres de vostre Orphise.</l>
+          </sp>
+          <sp xml:id="V09-31" who="leandre">
+            <l n="1631" xml:id="l1631">Trop soupçonneux mari, j’ay pris à contre sens,</l>
+            <l n="1632" xml:id="l1632">Ses pensers les plus saints et les plus innocens.</l>
+          </sp>
+          <sp xml:id="V09-32" who="filemon">
+            <l n="1633" xml:id="l1633">Vous m’avez fait, Madame, une faveur <ref target="#insigne">insigne*</ref> ;<pb n="141" xml:id="p141"/></l>
+            <l n="1634" xml:id="l1634">Je ne l’esperois pas, et je m’en crois indigne ;</l>
+            <l n="1635" xml:id="l1635">Mais si tout ce bon-heur n’est pas illusion,</l>
+            <l n="1636" xml:id="l1636">Allons tout quatre ensemble en écrire à Lyon.</l>
+          </sp>
+          <sp xml:id="V09-33" who="valentin">
+            <l n="1637" xml:id="l1637">Hyppolite di moy si tu m’aimes encore ?</l>
+          </sp>
+          <sp xml:id="V09-34" who="hyppolite">
+            <l n="1638" xml:id="l1638">Non, c’est peu de t’aimer, Valentin, je t’adore.</l>
+          </sp>
+          <sp xml:id="V09-35" who="valentin">
+            <l n="1639" xml:id="l1639">Je pensois échapper de tes mignons appas.</l>
+          </sp>
+          <sp xml:id="V09-36" who="hyppolite">
+            <l n="1640" xml:id="l1640">Tu le peu faire encor ; car je ne t’aime pas.</l>
+            <p rend="center">FIN.</p>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="privilege">
+        <p>Par grace et Privilege du Roy donné à Paris le 9. jour de Juillet 1650. Signé, Par le Roy en son Conseil, LEBRUN. Il est permis à Toussainct Quinet Marchand Libraire à Paris, d’imprimer ou faire imprimer, vendre et distribüer une piece de Theatre intitulée, <hi rend="i">Les Soupçons sur les Apparences</hi>, pendant le temps de cinq ans entiers et accomplis. Et defenses sont faites à tous Imprimeurs, Libraires et autres, de contrefaire ledit Livre, ni de vendre ou exposer en vente d’autre impression que de celle qu’il a fait faire, à peine de trois mil livres d’amende, et de tous dépens, dommages et interests, ainsi qu’il est plus amplement porté par lesdittes Lettres, qui seront en vertu du premier Extraict tenuës pour bien et deuëment signifiées, à ce qu’aucun n’en pretende cause d’ignorance.</p>
+        <p>Achevé d’imprimer pour la premiere fois le 28. Juillet 1650.</p>
+        <p rend="center">
+          <hi rend="i">Les exemplaires ont esté fournis.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

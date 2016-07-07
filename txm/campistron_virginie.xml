@@ -1,0 +1,2179 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <text>
+    <body>
+      <div xml:id="dedicace" type="dedication">
+        <p>Monseigneur,</p>
+        <p rend="i">Si je prends la liberté de vous offrir cette Trage[IV] die, je ne songe qu’à vous rendre des graces publiques de la puissante et genereuse protection dont vous avez toûjours honoré ma famille ; elle vous a des obligations infinies, et toute la reconnoissance que j’en puis marquer est de l’apprendre à tout le monde ; c’est l’unique dessein que je me suis proposé, Vous ne verrez aucun Eloge dans cette Epistre, celuy que je fairois de Vous, <hi rend="sc">Monseigneur</hi>, auroit trop peu de force pour un si grand sujet, et j’ay [V] vû tant de gens plus habiles que moy échoüer dans cette mesme entreprise, que je dois profiter de leur exemple, et me taire lorsqu’il est trop dangereux de parler. Mais quand je serois assez hardy pour entreprendre une chose si difficile, que pourrois-je dire de vous, <hi rend="sc">Monseigneur</hi>, que toute la France ne sçache aussi bien que moy ? elle regarde avec admiration cette penetration vive, et cette integrité inébranlable qui après s’estre consommées dans les plus importantes [VI] Charges de la Robe vous firent choisir par <hi rend="sc">Louis le Grand</hi>, pour estre le Chef du second Parlement du Royaume, dans un âge où il n’est permis qu’aux hommes extraordinaires de pretendre à de pareilles dignitez : Heureux sont les peuples qui peuvent voir briller de pres vos éminentes vertus dans cette Auguste Place, et ressentir à toute heure les effets de votre Justice. Ils poussent sans doute des vœux continuels au Ciel pour la conservation d’une vie aussi glorieuse que la vô[VII] tre, et qui leur est si necessaire ; mais c’est ce que je fais plus que tous, puisque je connois mieux que personne ces verités éclatantes, et que je suis avec un profond respect. </p>
+        <p rend="i">Monseigneur,</p>
+        <p rend="right">Vostre tres-humble, et</p>
+        <p rend="right">tres-obeïssant serviteur</p>
+        <p rend="right">C * * *</p>
+      </div>
+      <div type="set" xml:id="acteurs"/>
+      <div xml:id="acte1" type="act">
+        <div type="scene" xml:id="acte101">
+          <pb n="1" xml:id="A1"/>
+          <sp xml:id="acte101-1" who="clodius">
+            <l n="1" xml:id="l1">De ma temerité Rome entiere surprise,</l>
+            <l n="2" xml:id="l2">Demande les raisons d’une telle entreprise,</l>
+            <l n="3" xml:id="l3">Le Peuple compatit à la juste douleur</l>
+            <l n="4" xml:id="l4">D'un <ref target="#amant">amant<hi rend="sup">*</hi></ref> éperdu, d’une mere en <ref target="#fureur">fureur<hi rend="sup">*</hi></ref> :</l>
+            <l n="5" xml:id="l5">Il est temps d’informer Rome, Icile et Plautie</l>
+            <l n="6" xml:id="l6">Des droits qui m’ont permis d’enlever Virginie.</l>
+            <l n="7" xml:id="l7">Qu'ils aprennent, Seigneur, et sans plus differer...<pb n="2" xml:id="p2"/></l>
+          </sp>
+          <sp xml:id="acte101-2" who="appius">
+            <l n="8" xml:id="l8" part="I">Helas !</l>
+          </sp>
+          <sp xml:id="acte101-3" who="clodius">
+            <l part="F">Qui peut encor vous faire <ref target="#soupirer">soûpirer<hi rend="sup">*</hi></ref> ?</l>
+            <l n="9" xml:id="l9">Quel injuste <ref target="#chagrin">chagrin<hi rend="sup">*</hi></ref> et vous <ref target="#troubler1">trouble<hi rend="sup">*</hi></ref> et vous <ref target="#gesner">gesne<hi rend="sup">*</hi></ref> ?</l>
+            <l n="10" xml:id="l10" part="I">Que craignez-vous ?</l>
+          </sp>
+          <sp xml:id="acte101-4" who="appius">
+            <l part="F">Je crains l’aspect d’une inhumaine.</l>
+            <l n="11" xml:id="l11">Je crains de nos projets le succés dangereux ;</l>
+            <l n="12" xml:id="l12">Que puis-je attendre enfin d’un amour malheureux,</l>
+            <l n="13" xml:id="l13">D'un amour dans mon cœur formé sans esperance,</l>
+            <l n="14" xml:id="l14">Et dont le desespoir accroist la violence ;</l>
+            <l n="15" xml:id="l15">Je me laissay surprendre aux yeux qui m’ont <ref target="#charmer1">charmé<hi rend="sup">*</hi></ref>,</l>
+            <l n="16" xml:id="l16">Sçachant depuis long-temps qu’Icile estoit aimé ;</l>
+            <l n="17" xml:id="l17">Quand le don de leur <ref target="#foy1">foy<hi rend="sup">*</hi></ref>, quand leur amour si tendre</l>
+            <l n="18" xml:id="l18">Deffendoit à mes <ref target="#voeux1">vœux</ref> de pouvoir rien pretendre.</l>
+            <l n="19" xml:id="l19">Dieux ! que n’entreprend point un cœur au desespoir [ ? ]</l>
+            <l n="20" xml:id="l20">Je ne me souvins plus des loix de mon devoir</l>
+            <l n="21" xml:id="l21">Et pour semer entr'eux un eternel divorce</l>
+            <l n="22" xml:id="l22">Mon amour employa l’artifice et la force.</l>
+            <l n="23" xml:id="l23">Je t’apris mes malheurs, ton <ref target="#amitie1">amitié<hi rend="sup">*</hi></ref> pour moy</l>
+            <l n="24" xml:id="l24">Déja par cent <ref target="#effort1">efforts<hi rend="sup">*</hi></ref> m’assuroit de ta <ref target="#foy2">foy</ref>,</l>
+            <l n="25" xml:id="l25">Et contre Icile enfin ta haine inexorable</l>
+            <l n="26" xml:id="l26">Te rendoit à mes <ref target="#voeux1">vœux</ref> encor plus favorable.</l>
+            <l n="27" xml:id="l27">Ainsi je t’engageay dans mes desseins secrets,</l>
+            <l n="28" xml:id="l28">Ton zele aveuglément a pris mes interests,</l>
+            <l n="29" xml:id="l29">Cependant quand je voy l’entreprise avancée</l>
+            <l n="30" xml:id="l30">Mille perils divers s’offrent à ma pensée ;</l>
+            <l n="31" xml:id="l31">Mais je tremble sur tout qu’un odieux Rival</l>
+            <l n="32" xml:id="l32">Au repos de mes jours ne soit encor <ref target="#fatal1">fatal</ref>.</l>
+          </sp>
+          <sp xml:id="acte101-5" who="clodius">
+            <pb n="3" xml:id="p3"/>
+            <l n="33" xml:id="l33">De mon zele pour vous assuré dés l’enfance</l>
+            <l n="34" xml:id="l34">Vous m’avez honoré de vostre confiance,</l>
+            <l n="35" xml:id="l35">Seigneur, et vostre main par de nouveaux bienfaits</l>
+            <l n="36" xml:id="l36">A semblé chaque jour prevenir<hi rend="sup">*</hi> mes souhaits.</l>
+            <l n="37" xml:id="l37">Mais le plus grand de tous, Seigneur, je le confesse,</l>
+            <l n="38" xml:id="l38">C'est d’avoir employé mes <ref target="#soins2">soins</ref> et mon adresse,</l>
+            <l n="39" xml:id="l39">Pour rompre le bonheur qu’Icile s’est promis ;</l>
+            <l n="40" xml:id="l40">Je le hay plus luy seul que tous mes ennemis.</l>
+            <l n="41" xml:id="l41">Depuis que par sa brigue assurant ma <ref target="#disgrace2">disgrace</ref></l>
+            <l n="42" xml:id="l42">Je l’ay vû dans nos Camps commander en ma place ;</l>
+            <l n="43" xml:id="l43">Et par l’injuste choix de Rome et du Senat</l>
+            <l n="44" xml:id="l44">Des honneurs qu’on me doit obtenir tout l’eclat<hi rend="sup">*</hi>.</l>
+            <l n="45" xml:id="l45">Que je serois <ref target="#heureux1">heureux<hi rend="sup">*</hi></ref> de le pouvoir detruire !</l>
+            <l n="46" xml:id="l46">Je goûteray du moins le plaisir de luy nuire,</l>
+            <l n="47" xml:id="l47">Puisqu’enfin vôtre amour me permet aujourd’huy</l>
+            <l n="48" xml:id="l48">D'<ref target="#attacher1">attacher</ref> à ses jours un éternel <ref target="#ennuy">ennuy<hi rend="sup">*</hi></ref>.</l>
+            <l n="49" xml:id="l49">Mais je n’aurois pas crû, quelque ardeur qui vous <ref target="#presser1">presse<hi rend="sup">*</hi></ref>,</l>
+            <l n="50" xml:id="l50">Que le cœur d’Appius fit voir tant de foiblesse ;</l>
+            <l n="51" xml:id="l51">Tout <ref target="#flatter1">flatte<hi rend="sup">*</hi></ref> vos desirs, tout succede à vos <ref target="#voeux1">vœux</ref>,</l>
+            <l n="52" xml:id="l52">Vous n’avez qu’à vouloir, Seigneur, pour estre <ref target="#heureux1">heureux<hi rend="sup">*</hi></ref>,</l>
+            <l n="53" xml:id="l53">Cependant un Rival que vostre amour accable</l>
+            <l n="54" xml:id="l54">Vous <ref target="#gesner">gesne</ref> et vous paroist encore redoutable ?</l>
+            <l n="55" xml:id="l55">Il vous le falloit craindre en cet instant <ref target="#cruel1">cruel<hi rend="sup">*</hi></ref></l>
+            <l n="56" xml:id="l56">Que conduisant déja Virginie à l’autel,</l>
+            <l n="57" xml:id="l57">Par les liens sacrez d’un <ref target="#heureux3">heureux<hi rend="sup">*</hi></ref> Hymenée</l>
+            <l n="58" xml:id="l58">Il alloit à son sort joindre sa destinée,</l>
+            <l n="59" xml:id="l59">Lors que tout estoit prest ; la coupe, le couteau,</l>
+            <l n="60" xml:id="l60">La victime, l’encens, le Prestre, le flambeau :</l>
+            <l n="61" xml:id="l61">Quand Plautie elle même à ses desirs propice</l>
+            <l n="62" xml:id="l62">Pour l’hymen de sa fille offroit un sacrifice ;</l>
+            <l n="63" xml:id="l63">C'estoit alors, Seigneur, qu’on eût pû pardonner</l>
+            <l n="64" xml:id="l64">Le <ref target="#trouble2">trouble<hi rend="sup">*</hi></ref> où vostre cœur semble s’abandonner,</l>
+            <l n="65" xml:id="l65">Mais j’ay mis à ces <ref target="#noeuds">nœuds<hi rend="sup">*</hi></ref> un invincible obstacle,<pb n="4" xml:id="p4"/></l>
+            <l n="66" xml:id="l66">Et pour vous épargner ce <ref target="#funeste1">funeste<hi rend="sup">*</hi></ref> spectacle</l>
+            <l n="67" xml:id="l67">J'ay ravy la conqueste à cet <ref target="#heureux1">heureux<hi rend="sup">*</hi></ref> <ref target="#amant">amant<hi rend="sup">*</hi></ref>,</l>
+            <l n="68" xml:id="l68">Dans le Temple, à l’Autel, dans le même moment</l>
+            <l n="69" xml:id="l69">Qu'il formoit ce lien à vostre amour contraire,</l>
+            <l n="70" xml:id="l70">Et malgré les <ref target="#soupir">soûpirs<hi rend="sup">*</hi></ref> et les pleurs d’une mere,</l>
+            <l n="71" xml:id="l71">Malgré tous les <ref target="#effort2">efforts</ref> d’un <ref target="#amant">amant<hi rend="sup">*</hi></ref> <ref target="#furieux1">furieux<hi rend="sup">*</hi></ref>,</l>
+            <l n="72" xml:id="l72">J'ay conduit[, ] j’ay remis Virginie en ces lieux.</l>
+            <l n="73" xml:id="l73">Vôtre repos enfin de vous seul va dépendre,</l>
+            <l n="74" xml:id="l74">Il ne vous reste plus, Seigneur, qu’à faire <ref target="#entendre1">entendre<hi rend="sup">*</hi></ref></l>
+            <l n="75" xml:id="l75">Une fausse équité qui soûtiendra mes droits</l>
+            <l n="76" xml:id="l76">Et qui mettra le crime à l’ombre de nos loix.</l>
+            <l n="77" xml:id="l77">Parlons, et publions enfin que Virginie,</l>
+            <l n="78" xml:id="l78">N'est point du noble sang dont on la croit sortie,</l>
+            <l n="79" xml:id="l79">Que chez moy d’un esclave elle a receu le jour[, ]</l>
+            <l n="80" xml:id="l80">Qu’elle doit estre aussi mon esclave à son tour,</l>
+            <l n="81" xml:id="l81">Et suivant le destin de ceux qui l’ont fait naistre,</l>
+            <l n="82" xml:id="l82">Heriter de leurs <ref target="#fers">fers<hi rend="sup">*</hi></ref> et m’accepter pour maistre.</l>
+          </sp>
+          <sp xml:id="acte101-6" who="appius">
+            <l n="83" xml:id="l83">Differons un <ref target="#eclat1">éclat<hi rend="sup">*</hi></ref> mortel à son honneur,</l>
+            <l n="84" xml:id="l84">Seule encor de son sort elle sçait la rigueur ;</l>
+            <l n="85" xml:id="l85">Peut-estre se voyant au bord du precipice,</l>
+            <l n="86" xml:id="l86">Son peril à mes <ref target="#voeux1">vœux</ref> la rendra plus propice.</l>
+            <l n="87" xml:id="l87">N'<ref target="#exposer1">exposons</ref> point sa honte aux yeux de l’Univers,</l>
+            <l n="88" xml:id="l88">Elle craint, il suffit, de tomber dans les <ref target="#fers">fers<hi rend="sup">*</hi></ref>,</l>
+            <l n="89" xml:id="l89">Elle fremit des maux d’un sort si déplorable.</l>
+          </sp>
+          <sp xml:id="acte101-7" who="clodius">
+            <l n="90" xml:id="l90">Profitez-donc, Seigneur, de ce temps favorable,</l>
+            <l n="91" xml:id="l91">Et donnant un cours libre à vos secrets <ref target="#soupir">soûpirs<hi rend="sup">*</hi></ref>,</l>
+            <l n="92" xml:id="l92">Courez à Virginie <ref target="#expliquer1">expliquer<hi rend="sup">*</hi></ref> vos desirs.</l>
+          </sp>
+          <sp xml:id="acte101-8" who="appius">
+            <l n="93" xml:id="l93">Je me suis tu long-temps et veux me taire encore,</l>
+            <l n="94" xml:id="l94">Loin de faire <ref target="#eclater1">éclatter<hi rend="sup">*</hi></ref> ce feu qui me devore,</l>
+            <l n="95" xml:id="l95">Je doy plus que jamais le cacher en ce jour ;</l>
+            <l n="96" xml:id="l96">Tout m’y contraint, l’honneur, mon devoir, mon amour :</l>
+            <l n="97" xml:id="l97">Quel temps pour declarer ma temeraire flame :<pb n="5" xml:id="p5"/></l>
+            <l n="98" xml:id="l98">A quel <ref target="#trouble2">trouble<hi rend="sup">*</hi></ref> nouveau je livrerois son ame ?</l>
+            <l n="99" xml:id="l99">Je ne ferois helas ! qu’<ref target="#irriter1">irriter<hi rend="sup">*</hi></ref> ses douleurs,</l>
+            <l n="100" xml:id="l100">Mes <ref target="#discours">discours<hi rend="sup">*</hi></ref> grossiroient la source de ses pleurs,</l>
+            <l n="101" xml:id="l101">C'est assez qu’arrachée à l’<ref target="#amant">amant<hi rend="sup">*</hi></ref> qu’elle <ref target="#adorer">adore<hi rend="sup">*</hi></ref>,</l>
+            <l n="102" xml:id="l102">Captive dans ces lieux elle ait apris encore,</l>
+            <l n="103" xml:id="l103">Qu’elle est preste à tomber dans la honte des <ref target="#fers">fers<hi rend="sup">*</hi></ref>,</l>
+            <l n="104" xml:id="l104">Ce seroit à la fois trop de malheurs divers :</l>
+            <l n="105" xml:id="l105">Attendons pour luy faire un aveu si terrible</l>
+            <l n="106" xml:id="l106">Que le temps ait rendu sa douleur moins sensible,</l>
+            <l n="107" xml:id="l107">Epargnons ses <ref target="#soupir">soupirs<hi rend="sup">*</hi></ref> et cherchons un moment</l>
+            <l n="108" xml:id="l108">Où je trouve son cœur moins plein de son <ref target="#amant">amant<hi rend="sup">*</hi></ref>.</l>
+            <l n="109" xml:id="l109">Mais cachons-luy sur tout que c’est moy qui l’oprime,</l>
+            <l n="110" xml:id="l110">Et puisqu’enfin l’amour me couste un si grand crime</l>
+            <l n="111" xml:id="l111">Que j’en rougisse seul, ou que ma honte au moins</l>
+            <l n="112" xml:id="l112">N'ait dans tous mes remords que tes yeux pour témoins.</l>
+          </sp>
+          <sp xml:id="acte101-9" who="clodius">
+            <l n="113" xml:id="l113">Prenez garde, Seigneur, qu’une injuste contrainte</l>
+            <l n="114" xml:id="l114">Ne renverse à la fin tout le fruit de ma feinte,</l>
+            <l n="115" xml:id="l115">Vous nourrissez un feu prest à vous consumer,    </l>
+            <l n="116" xml:id="l116" part="I">Vous languirez toûjours...</l>
+          </sp>
+          <sp xml:id="acte101-10" who="appius">
+            <l part="F">Cesse de t’allarmer[.]</l>
+            <l n="117" xml:id="l117">J'ay mes raisons ; je veux qu’une action si noire,</l>
+            <l n="118" xml:id="l118">Loin de finir ma vie en releve la <ref target="#gloire1">gloire<hi rend="sup">*</hi></ref>,</l>
+            <l n="119" xml:id="l119">Déguisons ce forfait, couvrons-en la noirceur</l>
+            <l n="120" xml:id="l120">Et faisons <ref target="#admirer">admirer<hi rend="sup">*</hi></ref> ce qui feroit horreur.</l>
+            <l n="121" xml:id="l121">Si la <ref target="#vertu1">vertu<hi rend="sup">*</hi></ref> souvent passe pour imposture</l>
+            <l n="122" xml:id="l122">Le crime imite aussi la <ref target="#vertu1">vertu<hi rend="sup">*</hi></ref> la plus pure,</l>
+            <l n="123" xml:id="l123">Et mon coupable amour sera mieux écouté,</l>
+            <l n="124" xml:id="l124">Sous un pretexte adroit de <ref target="#generosite">generosité<hi rend="sup">*</hi></ref>.</l>
+            <l n="125" xml:id="l125">Je vay donc annoncer moy-même à Virginie</l>
+            <l n="126" xml:id="l126">Qu'à la tirer des <ref target="#fers">fers<hi rend="sup">*</hi></ref> la <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref> me convie,</l>
+            <l n="127" xml:id="l127">Et que rien desormais ne la peut secourir,<pb n="6" xml:id="p6"/></l>
+            <l n="128" xml:id="l128">Que la main et la <ref target="#foy1">foy<hi rend="sup">*</hi></ref> que je luy viens offrir ;</l>
+            <l n="129" xml:id="l129">Sous ces dehors flateurs je cacheray mon crime,</l>
+            <l n="130" xml:id="l130">Par là je gagneray son cœur ou son estime,</l>
+            <l n="131" xml:id="l131">Et l’on imputera par ce subtil détour,</l>
+            <l n="132" xml:id="l132">A la seule pitié les effets de l’amour.</l>
+          </sp>
+          <sp xml:id="acte101-11" who="clodius">
+            <l n="133" xml:id="l133">Je me rends au dessein que l’amour vous suggere,</l>
+            <l n="134" xml:id="l134">De nôtre intelligence il couvre le mystere ;</l>
+            <l n="135" xml:id="l135">Mais il faudroit aussi pour ne rien negliger,</l>
+            <l n="136" xml:id="l136">Eloigner un Rival qui cherche à se vanger.</l>
+            <l n="137" xml:id="l137">Prevenez<hi rend="sup">*</hi> les <ref target="#transports1">transports<hi rend="sup">*</hi></ref> d’un <ref target="#amant">amant<hi rend="sup">*</hi></ref> en <ref target="#furie1">furie<hi rend="sup">*</hi></ref>,</l>
+            <l n="138" xml:id="l138">Prest à tout <ref target="#hazarder1">hazarder<hi rend="sup">*</hi></ref> pour sauver Virginie.</l>
+          </sp>
+          <sp xml:id="acte101-12" who="appius">
+            <l n="139" xml:id="l139">Eh c’est où je l’attens. J'ay sçû déja prévoir</l>
+            <l n="140" xml:id="l140">Les effets de sa rage, et de son desespoir :</l>
+            <l n="141" xml:id="l141">Mais à nôtre dessein sa colere est utile,</l>
+            <l n="142" xml:id="l142">Aussi loin de bannir ce redoutable Icile,</l>
+            <l n="143" xml:id="l143">Bien loin de luy cacher l’<ref target="#objet1">objet<hi rend="sup">*</hi></ref> de son amour[, ]</l>
+            <l n="144" xml:id="l144">Je pretens qu’il la voye, et même dés ce jour.</l>
+            <l n="145" xml:id="l145">Ouy, je veux qu’il joüïsse icy de sa presence</l>
+            <l n="146" xml:id="l146">Afin de le porter à plus de violence ;</l>
+            <l n="147" xml:id="l147">Cet <ref target="#objet1">objet<hi rend="sup">*</hi></ref> douloureux <ref target="#aigrir">aigrira<hi rend="sup">*</hi></ref> sa <ref target="#fureur">fureur<hi rend="sup">*</hi></ref>,</l>
+            <l n="148" xml:id="l148">Il voudra la vanger et finir son malheur,</l>
+            <l n="149" xml:id="l149">Ce Rival odieux pour servir ce qu’il aime</l>
+            <l n="150" xml:id="l150">A mes <ref target="#transports1">transports<hi rend="sup">*</hi></ref> jaloux viendra s’offrir luy-même.</l>
+            <l n="151" xml:id="l151">Et dés le moindre <ref target="#effort3">effort<hi rend="sup">*</hi></ref> qu’il osera tenter[, ]</l>
+            <l n="152" xml:id="l152"><ref target="#sans-bruit">Sans bruit<hi rend="sup">*</hi></ref> dans ce Palais je le fais arrester.</l>
+          </sp>
+          <sp xml:id="acte101-13" who="clodius">
+            <l n="153" xml:id="l153" part="I">Ah ! je prevoy...</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte102">
+          <pb n="7" xml:id="p7"/>
+          <sp xml:id="acte102-1" who="fabian">
+            <l part="F">Plautie, aux pleurs abandonnée,</l>
+            <l n="154" xml:id="l154">Seigneur, à vous attendre est toûjours obstinée,</l>
+            <l n="155" xml:id="l155">Elle veut vous parler, et ses frequens <ref target="#soupir">soûpirs<hi rend="sup">*</hi></ref>...</l>
+          </sp>
+          <sp xml:id="acte102-2" who="appius">
+            <l n="156" xml:id="l156">Qu'elle entre cependant pour <ref target="#flatter1">flater<hi rend="sup">*</hi></ref> ses desirs,</l>
+            <l n="157" xml:id="l157">Dans cet apartement conduisez Virginie,</l>
+            <l n="158" xml:id="l158">Allez, et dites-luy qu’elle y verra Plautie,</l>
+            <l n="159" xml:id="l159">Vous d’une Mere en pleurs évitez les <ref target="#transports1">transports<hi rend="sup">*</hi></ref>,</l>
+            <l n="160" xml:id="l160" part="I">Eloignez-vous.</l>
+          </sp>
+          <sp xml:id="acte102-3" who="clodius">
+            <l part="F">Seigneur, c’est mon dessein. Je sors.</l>
+            <l n="161" xml:id="l161">Ma presence <ref target="#doute">sans doute<hi rend="sup">*</hi></ref> <ref target="#aigrir">aigriroit<hi rend="sup">*</hi></ref> sa colere.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte103">
+          <sp xml:id="acte103-1" who="plautie">
+            <l n="162" xml:id="l162">Ah Seigneur, écoutez les douleurs d’une Mere,</l>
+            <l n="163" xml:id="l163">Et puisqu’aprés deux jours d’un mortel desespoir</l>
+            <l n="164" xml:id="l164">Vous avez bien voulu consentir à me voir,<pb n="8" xml:id="p8"/></l>
+            <l n="165" xml:id="l165" part="I">Pourray-je me <ref target="#flatter1">flatter<hi rend="sup">*</hi></ref> ?</l>
+          </sp>
+          <sp xml:id="acte103-2" who="appius">
+            <l part="F">Ne doutez point, Madame,</l>
+            <l n="166" xml:id="l166">Que je ne sois frapé du <ref target="#trouble1">trouble<hi rend="sup">*</hi></ref> de vostre ame ;</l>
+            <l n="167" xml:id="l167">J'ay craint avec raison de vous voir en ces lieux,</l>
+            <l n="168" xml:id="l168">Et que vostre douleur n’<ref target="#eclater1">éclatast<hi rend="sup">*</hi></ref> à mes yeux,</l>
+            <l n="169" xml:id="l169">J'ay fait plus, j’ay tâché long temps de me défendre</l>
+            <l n="170" xml:id="l170">De causer tant de pleurs que je vous vois répandre,</l>
+            <l n="171" xml:id="l171">Mais mon <ref target="#cruel2">cruel<hi rend="sup">*</hi></ref> devoir le plus fort dans mon cœur</l>
+            <l n="172" xml:id="l172">D'une pitié craintive est demeuré vainqueur,</l>
+            <l n="173" xml:id="l173">J'ay cedé, j’ay suivy la severe Justice :</l>
+            <l n="174" xml:id="l174">Enfin que vouliez-vous, Madame, que je fisse ?</l>
+            <l n="175" xml:id="l175"><ref target="#charger2">Chargé</ref> par tout l’Etat du pouvoir Souverain...</l>
+          </sp>
+          <sp xml:id="acte103-3" who="plautie">
+            <l n="176" xml:id="l176">Osez-vous vous parer d’un pretexte si vain ?</l>
+            <l n="177" xml:id="l177">Quoy ? vous ordonne-t’il ce devoir temeraire</l>
+            <l n="178" xml:id="l178">D'enlever sans pitié Virginie à sa Mere ?</l>
+            <l n="179" xml:id="l179">Dans le temps que son Pere à la guerre occupé</l>
+            <l n="180" xml:id="l180">Peut-estre va mourir pour ceux qui l’ont trompé,</l>
+            <l n="181" xml:id="l181">Mais pourquoy dans ces lieux retenez-vous ma fille,</l>
+            <l n="182" xml:id="l182">Pourquoy l’arrache-t’on du sein de ma famille ?</l>
+            <l n="183" xml:id="l183">Pour quel crime commis vos barbares soldats</l>
+            <l n="184" xml:id="l184">Viennent-ils la ravir au Temple dans mes bras ?</l>
+            <l n="185" xml:id="l185" part="I">Pourquoy...</l>
+          </sp>
+          <sp xml:id="acte103-4" who="appius">
+            <l part="F">De son destin n’estes-vous pas instruite ?</l>
+          </sp>
+          <sp xml:id="acte103-5" who="plautie">
+            <l n="186" xml:id="l186">Helas ! dans ce Palais tout le monde m’évite,</l>
+            <l n="187" xml:id="l187">En vain depuis deux jours errante dans ces lieux</l>
+            <l n="188" xml:id="l188">Les pleurs que j’ay versez ont épuisé mes yeux,</l>
+            <l n="189" xml:id="l189">En vain de tous costez mes cris se font <ref target="#entendre2">entendre</ref>,</l>
+            <l n="190" xml:id="l190">De son destin encor je n’ay pû rien aprendre,</l>
+            <l n="191" xml:id="l191">Et je trouve par tout dans mes <ref target="#soins1">soins<hi rend="sup">*</hi></ref> empressez</l>
+            <l n="192" xml:id="l192">Des Gardes interdits, des visages glacez,</l>
+            <l n="193" xml:id="l193">Qui redoutent ma veuë, et prest à se <ref target="#confondre1">confondre<hi rend="sup">*</hi></ref><pb n="9" xml:id="p9"/></l>
+            <l n="194" xml:id="l194">Se dérobent à moy, sans daigner me répondre,</l>
+            <l n="195" xml:id="l195" part="I">Par vos ordres <ref target="#cruel2">cruels<hi rend="sup">*</hi></ref>...</l>
+          </sp>
+          <sp xml:id="acte103-6" who="appius">
+            <l part="F">Cessez de m’accuser</l>
+            <l n="196" xml:id="l196">Et ne me forcez pas de vous desabuser,</l>
+            <l n="197" xml:id="l197" part="I">Quand je vous auray dit...</l>
+          </sp>
+          <sp xml:id="acte103-7" who="plautie">
+            <l part="F">Quoy ? que pourrez-vous dire,</l>
+            <l n="198" xml:id="l198" part="I"><ref target="#expliquer2">Expliquez</ref>-vous.</l>
+          </sp>
+          <sp xml:id="acte103-8" who="appius">
+            <l part="F">Je sçay qu’il faut vous en instruire ;</l>
+            <l n="199" xml:id="l199">Mais, Madame, je crains de redoubler vos pleurs.</l>
+            <l n="200" xml:id="l200">Je vais vous annoncer le plus grand des malheurs :</l>
+            <l n="201" xml:id="l201">Cette fille, l’<ref target="#objet2">objet<hi rend="sup">*</hi></ref> d’une <ref target="#amitie1">amitié<hi rend="sup">*</hi></ref> si tendre</l>
+            <l n="202" xml:id="l202">Que vous me demandez, que vous venez défendre,</l>
+            <l n="203" xml:id="l203">Cette fille qui fit vos plaisirs les plus doux,</l>
+            <l n="204" xml:id="l204">Un autre vous l’enleve, elle n’est plus à vous.</l>
+          </sp>
+          <sp xml:id="acte103-9" who="plautie">
+            <l n="205" xml:id="l205" part="I">Dieux ! qu’entens<hi rend="sup">*</hi>-je ? comment ?</l>
+          </sp>
+          <sp xml:id="acte103-10" who="appius">
+            <l part="F">Ce n’est plus un mistere,</l>
+            <l n="206" xml:id="l206">Je suis de Virginie ici depositaire ;</l>
+            <l n="207" xml:id="l207">Claudius sçait enfin la noire trahison,</l>
+            <l n="208" xml:id="l208">Qui la fit autrefois sortir de sa maison ;</l>
+            <l n="209" xml:id="l209">Où d’un esclave infame elle a receu la vie ;</l>
+            <l n="210" xml:id="l210">Oüy, Madame, voila le sort de Virginie,</l>
+            <l n="211" xml:id="l211">Cet esclave mourant, par ses remords <ref target="#presser2">pressé</ref></l>
+            <l n="212" xml:id="l212">N'a pû dissimuler tout ce qui s’est passé,</l>
+            <l n="213" xml:id="l213">Le traître a declaré que dans vostre famille,</l>
+            <l n="214" xml:id="l214">Par un échange adroit il fit entrer sa fille,</l>
+            <l n="215" xml:id="l215">Et plusieurs Citoyens appellez à sa mort</l>
+            <l n="216" xml:id="l216">Sont prests de confirmer son <ref target="#funeste1">funeste<hi rend="sup">*</hi></ref> rapport,</l>
+            <l n="217" xml:id="l217">Cet étrange secret a droit de vous <ref target="#confondre1">confondre<hi rend="sup">*</hi></ref>.</l>
+          </sp>
+          <sp xml:id="acte103-11" who="plautie">
+            <l n="218" xml:id="l218">Je demeure stupide, et ne sçais que répondre,</l>
+            <l n="219" xml:id="l219">D'un autre, Virginie, auroit receu le jour !<pb n="10" xml:id="p10"/></l>
+            <l n="220" xml:id="l220">Non, non, elle est ma fille, et j’en crois mon amour,</l>
+            <l n="221" xml:id="l221">Mon cœur fremit, mon sang s’émeut de cette injure[, ]</l>
+            <l n="222" xml:id="l222">Je sens trop fortement s’<ref target="#expliquer1">expliquer<hi rend="sup">*</hi></ref> la nature,</l>
+            <l n="223" xml:id="l223">Et je cede à la voix de ces instincts secrets</l>
+            <l n="224" xml:id="l224">Qui parlant à nos cœurs ne les trompent jamais,</l>
+            <l n="225" xml:id="l225">Sur Virginie enfin, quoy qu’on ose entreprendre[, ]</l>
+            <l n="226" xml:id="l226">Contre tout l’Univers je sçauray la défendre.</l>
+            <l n="227" xml:id="l227">Ouvrez les yeux, Seigneur, un perfide aujourd’huy</l>
+            <l n="228" xml:id="l228">Pour me percer le cœur implore vostre appuy,</l>
+            <l n="229" xml:id="l229">Et vous le soûtenez ? quoy vostre propre <ref target="#gloire1">gloire<hi rend="sup">*</hi></ref>,</l>
+            <l n="230" xml:id="l230">De mes sacrez ayeux l’immortelle mémoire,</l>
+            <l n="231" xml:id="l231">De mon illustre Epoux les éclattans exploits,</l>
+            <l n="232" xml:id="l232">Son sang pour le pays répandu tant de fois,</l>
+            <l n="233" xml:id="l233">Les égards que l’on doit à la <ref target="#vertu1">vertu<hi rend="sup">*</hi></ref> trahie,</l>
+            <l n="234" xml:id="l234">N'ont pas dans vostre cœur défendu Virginie ;</l>
+            <l n="235" xml:id="l235">Ah ! rendez-moy Seigneur, ce tresor precieux[, ]</l>
+            <l n="236" xml:id="l236">Ma fille, seul present que j’ay receu des Dieux.</l>
+            <l n="237" xml:id="l237">Avec tant d’<ref target="#amitie1">amitié<hi rend="sup">*</hi></ref> dans mon sein elevée,</l>
+            <l n="238" xml:id="l238">De cent perils divers par moy seule sauvée,</l>
+            <l n="239" xml:id="l239">Pour qui j’ay pris enfin, tant de penibles <ref target="#soins2">soins</ref>,</l>
+            <l n="240" xml:id="l240">Seigneur, dont vos yeux mesme ont esté les témoins.</l>
+          </sp>
+          <sp xml:id="acte103-12" who="appius">
+            <l n="241" xml:id="l241">Madame, à vos desirs je voudrois satisfaire,</l>
+            <l n="242" xml:id="l242">Inexorable loy d’un devoir trop severe</l>
+            <l n="243" xml:id="l243">Qui nous fait bien souvent condamner à regret</l>
+            <l n="244" xml:id="l244">Ceux pour qui nostre cœur se declare en secret.</l>
+            <l n="245" xml:id="l245">C'est à vous d’éviter le <ref target="#coups1">coup<hi rend="sup">*</hi></ref> qui vous menace,</l>
+            <l n="246" xml:id="l246">Combattez Clodius, <ref target="#confondre2">confondez</ref> son <ref target="#audace1">audace</ref>,</l>
+            <l n="247" xml:id="l247">Madame, et vous verrez les suplices tous prests</l>
+            <l n="248" xml:id="l248">Vous vanger d’un perfide, et punir ses forfaits,</l>
+            <l n="249" xml:id="l249">Cependant Virginie en ce lieu se doit rendre,</l>
+            <l n="250" xml:id="l250">On peut en liberté luy parler et l’<ref target="#entendre3">entendre</ref>,</l>
+            <l n="251" xml:id="l251">Vous la verrez, Madame, avant que de sortir,<pb n="11" xml:id="p11"/></l>
+            <l n="252" xml:id="l252">Moy-mesme en ce moment je l’ay fait avertir,</l>
+            <l n="253" xml:id="l253" part="I">Elle entre, je vous laisse.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte104">
+          <sp xml:id="acte104-1" who="virginie">
+            <l part="F">Ah quel comble de joye !</l>
+            <l n="254" xml:id="l254">Madame, enfin le Ciel souffre que je vous voye,</l>
+            <l n="255" xml:id="l255">Quel plaisir de pouvoir en ces <ref target="#heureux3">heureux<hi rend="sup">*</hi></ref> momens,</l>
+            <l n="256" xml:id="l256">Oublier mes douleurs dans vos <ref target="#embrassement">embrassemens<hi rend="sup">*</hi></ref>.</l>
+          </sp>
+          <sp xml:id="acte104-2" who="plautie">
+            <l n="257" xml:id="l257">Ma fille, ils seroient doux pour le cœur d’une Mere ;</l>
+            <l n="258" xml:id="l258">Mais helas ! ils ne font qu’augmenter ma misere,</l>
+            <l n="259" xml:id="l259">Une crainte mortelle en corrompt les douceurs,</l>
+            <l n="260" xml:id="l260">Tremble, fremis, entens<hi rend="sup">*</hi> le plus grand des malheurs,</l>
+            <l n="261" xml:id="l261" part="I">Le traistre Clodius...</l>
+          </sp>
+          <sp xml:id="acte104-3" who="virginie">
+            <l part="F">J'ay tout appris Madame.</l>
+            <l n="262" xml:id="l262">Si l’horreur de ce <ref target="#coups2">coup<hi rend="sup">*</hi></ref> a pû fraper mon ame,</l>
+            <l n="263" xml:id="l263">Revenuë à l’instant de ce <ref target="#trouble2">trouble<hi rend="sup">*</hi></ref> soudain,</l>
+            <l n="264" xml:id="l264">J'ay veu pour m’en parer le remede certain,</l>
+            <l n="265" xml:id="l265">Ne craignez point pour moy l’horreur de l’esclavage[, ]</l>
+            <l n="266" xml:id="l266">Le sang a dans mon sein transmis vostre <ref target="#courage1">courage<hi rend="sup">*</hi></ref>,</l>
+            <l n="267" xml:id="l267">Attentive aux leçons qu’ont tracé mes ayeux,</l>
+            <l n="268" xml:id="l268">Leur exemple sans cesse est present à mes yeux,</l>
+            <l n="269" xml:id="l269">De mes jours malheureux je finiray la course,</l>
+            <l n="270" xml:id="l270">Sans qu’aucune foiblesse en ternisse la source,<pb n="12" xml:id="p12"/></l>
+            <l n="271" xml:id="l271">Le plus <ref target="#cruel3">cruel<hi rend="sup">*</hi></ref> trépas me semblera trop doux,</l>
+            <l n="272" xml:id="l272">Mourant avec le nom que j’ay receu de vous.</l>
+          </sp>
+          <sp xml:id="acte104-4" who="plautie">
+            <l n="273" xml:id="l273">Non, non, je <ref target="#prevenir1">previendray</ref> ta <ref target="#funeste2">funeste<hi rend="sup">*</hi></ref> <ref target="#disgrace1">disgrace<hi rend="sup">*</hi></ref>,</l>
+            <l n="274" xml:id="l274">J'<ref target="#admirer">admire<hi rend="sup">*</hi></ref> de ton cœur la genereuse<hi rend="sup">*</hi> <ref target="#audace2">audace<hi rend="sup">*</hi></ref>,</l>
+            <l n="275" xml:id="l275">Le dessein de mourir pour conserver ton rang,</l>
+            <l n="276" xml:id="l276">Est digne de ma fille, est digne de mon sang,</l>
+            <l n="277" xml:id="l277">Mais je n’en puis souffrir la <ref target="#cruel3">cruelle<hi rend="sup">*</hi></ref> pensée,</l>
+            <l n="278" xml:id="l278">Rome dans ton destin est trop <ref target="#interesser">interressée<hi rend="sup">*</hi></ref>,</l>
+            <l n="279" xml:id="l279">Virginius déja par mes <ref target="#soins2">soins</ref> averty,</l>
+            <l n="280" xml:id="l280">Pour te venir défendre est <ref target="#doute">sans doute<hi rend="sup">*</hi></ref> party.</l>
+            <l n="281" xml:id="l281">Dés le mesme moment que tu me fus ravie,</l>
+            <l n="282" xml:id="l282">Sans prevoir les horreurs qui menacent ta vie,</l>
+            <l n="283" xml:id="l283">J'envoyay vers le camp, et je ne doute pas,</l>
+            <l n="284" xml:id="l284">Que ton pere vers nous ne s’avance à grands pas,</l>
+            <l n="285" xml:id="l285">Icile <ref target="#furieux2">furieux<hi rend="sup">*</hi></ref>, menace, prie, exhorte,</l>
+            <l n="286" xml:id="l286">Aux plus hardis projets sa tendresse l’emporte,</l>
+            <l n="287" xml:id="l287">Enfin pour te sauver il suffira de moy,</l>
+            <l n="288" xml:id="l288">Que ne pourray-je point en agissant pour toy,</l>
+            <l n="289" xml:id="l289">Nous attendons beaucoup du secours de leurs armes,</l>
+            <l n="290" xml:id="l290">Mais n’espere pas moins de celuy de mes larmes,</l>
+            <l n="291" xml:id="l291">De cet affreux Palais j’ouvriray les chemins,</l>
+            <l n="292" xml:id="l292">Je serviray de Chef aux premiers des Romains,</l>
+            <l n="293" xml:id="l293">Et mes brûlans <ref target="#soupir">soûpirs<hi rend="sup">*</hi></ref> verseront dans leur ame,</l>
+            <l n="294" xml:id="l294">Cette boüillante ardeur qui m’anime et m’enflame,</l>
+            <l n="295" xml:id="l295" part="I">Adieu je cours...</l>
+          </sp>
+          <sp xml:id="acte104-5" who="virginie">
+            <l part="F">Helas ! vous me quittez si tost,</l>
+            <l n="296" xml:id="l296" part="I">Madame...</l>
+          </sp>
+          <sp xml:id="acte104-6" who="plautie">
+            <l part="F">J'en fremis, mais ma fille il le faut,</l>
+          </sp>
+          <sp xml:id="acte104-7" who="virginie">
+            <l n="297" xml:id="l297">Est-ce trop peu de maux, dont je suis déchirée,</l>
+            <l n="298" xml:id="l298">Seray-je d’avec vous encore separée !</l>
+            <l n="299" xml:id="l299">Aprés tant de <ref target="#soupir">soûpirs<hi rend="sup">*</hi></ref>, à peine je vous voy...</l>
+          </sp>
+          <sp xml:id="acte104-8" who="plautie">
+            <pb n="B. p.13"/>
+            <l n="300" xml:id="l300">Crois-tu qu’à te quitter je souffre moins que toy,</l>
+            <l n="301" xml:id="l301">Quand à partir d’icy je me crois toute preste,</l>
+            <l n="302" xml:id="l302">Malgré tous mes <ref target="#effort2">efforts</ref> ma tendresse m’arreste,</l>
+            <l n="303" xml:id="l303">Cet amour toutefois ardent à ton secours,</l>
+            <l n="304" xml:id="l304">Demande des effets, et non pas des <ref target="#discours">discours<hi rend="sup">*</hi></ref>,</l>
+            <l n="305" xml:id="l305">Je te quitte, ou plûtost je vais tarir tes larmes,</l>
+            <l n="306" xml:id="l306">Te rendre à ta famille, et finir nos allarmes,</l>
+            <l n="307" xml:id="l307">Le <ref target="#soins2">soin</ref> de te sauver m’arrache de ce lieu,</l>
+            <l n="308" xml:id="l308">On m’attend, et j’y vole, adieu ma fille, adieu.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte105">
+          <sp xml:id="acte105-1" who="virginie">
+            <l n="309" xml:id="l309">Camille connois-tu l’excez de ma misere,</l>
+            <l n="310" xml:id="l310" part="I">Quel triste sort !</l>
+          </sp>
+          <sp xml:id="acte105-2" who="camille">
+            <l part="F">Je crains bien moins que je n’espere,</l>
+            <l n="311" xml:id="l311">Les premiers des Romains se declarent pour vous,</l>
+            <l n="312" xml:id="l312">Contre vostre ennemy le Peuple est en courroux,</l>
+            <l n="313" xml:id="l313">Vostre Pere est aimé dans Rome, et dans l’armée,</l>
+            <l n="314" xml:id="l314">Le jeune Icile enfin, dont vous estes <ref target="#charmer1">charmée<hi rend="sup">*</hi></ref>,</l>
+            <l n="315" xml:id="l315">Et qui doit par l’hymen s’unir à vostre sort,</l>
+            <l n="316" xml:id="l316">Ne fera pas pour vous un inutile <ref target="#effort3">effort<hi rend="sup">*</hi></ref>,</l>
+            <l n="317" xml:id="l317" part="I"><ref target="#doute">Sans doute<hi rend="sup">*</hi></ref> en ce moment...</l>
+          </sp>
+          <sp xml:id="acte105-3" who="virginie">
+            <l part="F">Excuse ma foiblesse,</l>
+            <l n="318" xml:id="l318">Crois-tu qu’en ma faveur Icile <ref target="#interesser">s’interesse<hi rend="sup">*</hi></ref> ?</l>
+            <l n="319" xml:id="l319">Crois-tu qu’il me conserve une fidelle ardeur,</l>
+            <l n="320" xml:id="l320">Mes <ref target="#disgrace1">disgraces<hi rend="sup">*</hi></ref> peut-estre auront changé son cœur.<pb n="14" xml:id="p14"/></l>
+            <l n="321" xml:id="l321">Ah ! si le mien privé seulement de sa veuë,</l>
+            <l n="322" xml:id="l322">Ne resiste qu’à peine au <ref target="#chagrin">chagrin<hi rend="sup">*</hi></ref> qui me tuë,</l>
+            <l n="323" xml:id="l323">Dieux ! contre ma douleur où trouver du secours,</l>
+            <l n="324" xml:id="l324">Camille, s’il falloit le perdre pour toûjours ?</l>
+            <l n="325" xml:id="l325">N'importe en ce moment, quoy que le Ciel ordonne,</l>
+            <l n="326" xml:id="l326">A ses ordres sacrez mon ame s’abandonne,</l>
+            <l n="327" xml:id="l327">Je respecte les traits qui partent de sa main,</l>
+            <l n="328" xml:id="l328">Et je vay sans murmure attendre mon destin.</l>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="acte2" type="act">
+        <pb n="15" xml:id="p15"/>
+        <div type="scene" xml:id="acte201">
+          <sp xml:id="acte201-1" who="severe">
+            <l n="329" xml:id="l329">Oui, vous pouvez, Seigneur, aussi bien que Plautie,</l>
+            <l n="330" xml:id="l330">Entrer dans ce Palais, parler à Virginie,</l>
+            <l n="331" xml:id="l331">Vous ne vous plaindrez plus de l’injuste pouvoir,</l>
+            <l n="332" xml:id="l332">Qui vous a jusqu’icy défendu de la voir,</l>
+            <l n="333" xml:id="l333">Dans cet apartement où l’on va la conduire,</l>
+            <l n="334" xml:id="l334">De tous vos sentimens elle pourra s’instruire ;</l>
+            <l n="335" xml:id="l335">Mais pourquoy la revoir ? mon esprit incertain,</l>
+            <l n="336" xml:id="l336">Ne comprend pas encor quel est vostre dessein,</l>
+            <l n="337" xml:id="l337">Je ne sçay que juger de vostre impatience,</l>
+            <l n="338" xml:id="l338">Quel interest vous porte à chercher sa presence,</l>
+            <l n="339" xml:id="l339">Seigneur, est-ce un effet de la seule pitié,</l>
+            <l n="340" xml:id="l340">Ou le simple devoir d’un reste d’<ref target="#amitie2">amitié<hi rend="sup">*</hi></ref> ?</l>
+            <l n="341" xml:id="l341">Car je ne pense pas dans sa misere extréme,</l>
+            <l n="342" xml:id="l342">Averty de son sort par Plautie elle-mesme,</l>
+            <l n="343" xml:id="l343">Quand le Ciel l’abandonne au plus <ref target="#cruel2">cruel<hi rend="sup">*</hi></ref> malheur,</l>
+            <l n="344" xml:id="l344">Que vous sentiez pour elle une honteuse ardeur.</l>
+            <l n="345" xml:id="l345">Non, je ne croiray point qu’un aussi grand <ref target="#courage2">courage<hi rend="sup">*</hi></ref>,</l>
+            <l n="346" xml:id="l346">Puisse avilir ses <ref target="#voeux3">vœux<hi rend="sup">*</hi></ref> jusques dans l’esclavage,<pb n="16" xml:id="p16"/></l>
+            <l n="347" xml:id="l347">Qu'Icile jusques-là pût jamais s’abaisser.</l>
+          </sp>
+          <sp xml:id="acte201-2" who="icile">
+            <l n="348" xml:id="l348">Severe que dis-tu ? Ciel ! qu’oses-tu penser ?</l>
+            <l n="349" xml:id="l349">Crois-tu de Clodius la noire calomnie ?</l>
+            <l n="350" xml:id="l350">Mais quand les Dieux auroient fait naistre Virginie,</l>
+            <l n="351" xml:id="l351">Dans la honte des <ref target="#fers">fers<hi rend="sup">*</hi></ref>, et dans un rang plus bas,</l>
+            <l n="352" xml:id="l352">Quel que fut son destin je ne changerois pas :</l>
+            <l n="353" xml:id="l353">Plus on veut l’abaisser, plus je sens que je l’aime,</l>
+            <l n="354" xml:id="l354">Si ses malheurs sont grands mon amour est extréme :</l>
+            <l n="355" xml:id="l355">Qu'ay-je fait jusqu’icy pour luy prouver ma <ref target="#foy3">foy<hi rend="sup">*</hi></ref>,</l>
+            <l n="356" xml:id="l356">Je luy rendois des <ref target="#soins3">soins<hi rend="sup">*</hi></ref>, qui n’eut fait comme moy ?</l>
+            <l n="357" xml:id="l357">Tout ne <ref target="#flatter1">flattoit<hi rend="sup">*</hi></ref>-il pas mes <ref target="#voeux3">vœux<hi rend="sup">*</hi></ref>, et ma tendresse,</l>
+            <l n="358" xml:id="l358"><ref target="#gloire2">Gloire<hi rend="sup">*</hi></ref>, biens, dignitez[, ]  pouvoir, credit, noblesse,</l>
+            <l n="359" xml:id="l359">Sa main me donnoit tout, qui n’eut pû presumer,</l>
+            <l n="360" xml:id="l360">Que mon ambition me portoit à l’aimer ?</l>
+            <l n="361" xml:id="l361">Mais du moins aujourd’huy mon amour seul <ref target="#eclater1">éclate<hi rend="sup">*</hi></ref>,</l>
+            <l n="362" xml:id="l362">Et mon ambition n’ayant rien qui la <ref target="#flatter1">flate<hi rend="sup">*</hi></ref>,</l>
+            <l n="363" xml:id="l363">Je feray hautement triompher en ce jour,</l>
+            <l n="364" xml:id="l364">La <ref target="#generosite">generosité<hi rend="sup">*</hi></ref>, la constance, et l’amour.</l>
+          </sp>
+          <sp xml:id="acte201-3" who="severe">
+            <l n="365" xml:id="l365">Dieux ! qu’est-ce que j’entens<hi rend="sup">*</hi> ? vostre <ref target="#discours">discours<hi rend="sup">*</hi></ref> m’<ref target="#estonner">estonne<hi rend="sup">*</hi></ref>,</l>
+            <l n="366" xml:id="l366">A quel <ref target="#fatal2">fatal<hi rend="sup">*</hi></ref> projet l’amour vous abandonne,</l>
+            <l n="367" xml:id="l367">Une fille sans nom, et qu’on va condamner...</l>
+          </sp>
+          <sp xml:id="acte201-4" who="icile">
+            <l n="368" xml:id="l368">Parce qu’on la trahit, dois-je l’abandonner ?</l>
+            <l n="369" xml:id="l369">Et ne luy faisant voir qu’une <ref target="#amitie2">amitié<hi rend="sup">*</hi></ref> commune,</l>
+            <l n="370" xml:id="l370">Regler ma passion au gré de la fortune :</l>
+            <l n="371" xml:id="l371">S'il est des cœurs mal faits, et d’indignes <ref target="#amant">amans<hi rend="sup">*</hi></ref>,</l>
+            <l n="372" xml:id="l372">Qui suivent dans leurs <ref target="#voeux3">vœux<hi rend="sup">*</hi></ref> ces lâches sentimens.</l>
+            <l n="373" xml:id="l373">Pour moy n’en doute point, quand j’aime Virginie,</l>
+            <l n="374" xml:id="l374">C'est à d’autres <ref target="#objet2">objets<hi rend="sup">*</hi></ref> que mon cœur sacrifie,</l>
+            <l n="375" xml:id="l375">Les grandeurs que le sort peut ravir en un jour,</l>
+            <l n="376" xml:id="l376">N'ont jamais attiré mes <ref target="#voeux1">vœux</ref> ny mon amour,</l>
+            <l n="377" xml:id="l377">La fermeté d’esprit, la grandeur de <ref target="#courage2">courage<hi rend="sup">*</hi></ref>,</l>
+            <l n="378" xml:id="l378">La pureté de cœur, voilà ce qui m’engage ;<pb n="17" xml:id="p17"/></l>
+            <l n="379" xml:id="l379">Ce qui dépend du sort est pour moy sans appas,</l>
+            <l n="380" xml:id="l380">Et j’aime les <ref target="#vertu1">vertus<hi rend="sup">*</hi></ref> qui n’en dépendent pas.</l>
+          </sp>
+          <sp xml:id="acte201-5" who="severe">
+            <l n="381" xml:id="l381">Vous suivez trop, Seigneur, une aveugle tendresse.</l>
+          </sp>
+          <sp xml:id="acte201-6" who="icile">
+            <l n="382" xml:id="l382">Ah ! ne t’oppose plus à l’ardeur qui me <ref target="#presser1">presse<hi rend="sup">*</hi></ref> ;</l>
+            <l n="383" xml:id="l383">Cependant Virginie est long-temps à venir,</l>
+            <l n="384" xml:id="l384">Quel obstacle nouveau pourroit la retenir ?</l>
+            <l n="385" xml:id="l385">Quand verray-je cesser l’<ref target="#ennuy">ennuy<hi rend="sup">*</hi></ref> qui me devore,</l>
+            <l n="386" xml:id="l386">Neglige-t-elle helas ! un <ref target="#amant">amant<hi rend="sup">*</hi></ref> qui l’<ref target="#adorer">adore<hi rend="sup">*</hi></ref> ?</l>
+            <l n="387" xml:id="l387">Dieux ! que puis-je penser de son retardement,</l>
+            <l n="388" xml:id="l388">Que je souffre de maux en ce <ref target="#cruel1">cruel<hi rend="sup">*</hi></ref> moment,</l>
+            <l n="389" xml:id="l389">Que je suis déchiré ! mais je la voy, Severe,</l>
+            <l n="390" xml:id="l390" part="I">Elle vient.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte202">
+          <sp xml:id="acte202-1" who="icile">
+            <l part="F">Le destin ne m’est plus si contraire,</l>
+            <l n="391" xml:id="l391">Madame, je vous voy, et je puis en ce jour,</l>
+            <l n="392" xml:id="l392">Faire encor à vos yeux <ref target="#eclater1">éclatter<hi rend="sup">*</hi></ref> mon amour,</l>
+            <l n="393" xml:id="l393">Qui l’eut crû que si prés d’un <ref target="#heureux3">heureux<hi rend="sup">*</hi></ref> Himenée,</l>
+            <l n="394" xml:id="l394">Nostre amour à ces maux deust estre condamnée.</l>
+            <l n="395" xml:id="l395">Mais suspendez l’<ref target="#effort3">effort<hi rend="sup">*</hi></ref> de toutes vos douleurs,</l>
+            <l n="396" xml:id="l396">Que la joye un moment regne seule en nos cœurs :</l>
+            <l n="397" xml:id="l397">Pour moy, je l’avoüeray, quand le sort me menace,</l>
+            <l n="398" xml:id="l398">Du bien que je reçois je luy dois rendre grace,<pb n="18" xml:id="p18"/></l>
+            <l n="399" xml:id="l399">J'estois absent de vous, inquiet, desolé,</l>
+            <l n="400" xml:id="l400">Je vous vois, je vous parle, et je suis consolé ;</l>
+            <l n="401" xml:id="l401">Le <ref target="#trouble2">trouble<hi rend="sup">*</hi></ref>, la douleur qui déchiroit mon ame,</l>
+            <l n="402" xml:id="l402">Tout s’est evanoüy devant vos yeux, Madame,</l>
+            <l n="403" xml:id="l403">Ma presence fait-elle au moins dans vostre cœur,</l>
+            <l n="404" xml:id="l404" part="I">L'effet que vostre veuë...</l>
+          </sp>
+          <sp xml:id="acte202-2" who="virginie">
+            <l part="F">Eh le puis je, Seigneur ?</l>
+            <l n="405" xml:id="l405">Puis-je de mes douleurs calmer la violence,</l>
+            <l n="406" xml:id="l406">Je les sens augmenter mesme en vostre presence,</l>
+            <l n="407" xml:id="l407">Ce qui devroit causer mes plaisirs les plus doux,</l>
+            <l n="408" xml:id="l408">Porte à mon triste cœur les plus sensibles <ref target="#coups3">coups<hi rend="sup">*</hi></ref> :</l>
+            <l n="409" xml:id="l409">Jugez dans quels malheurs le Ciel me precipite,</l>
+            <l n="410" xml:id="l410">Oüy je sens qu’à vous voir ma <ref target="#tristesse">tristesse<hi rend="sup">*</hi></ref> s’<ref target="#irriter1">irrite<hi rend="sup">*</hi></ref>,</l>
+            <l n="411" xml:id="l411">Helas ! j’en connois mieux la perte que je fais,</l>
+            <l n="412" xml:id="l412">Car enfin je vous perds, et vous perds pour jamais.</l>
+          </sp>
+          <sp xml:id="acte202-3" who="icile">
+            <l n="413" xml:id="l413">Ah ! Madame, éloignez cette injuste pensée,</l>
+            <l n="414" xml:id="l414">Par ce <ref target="#cruel2">cruel<hi rend="sup">*</hi></ref> <ref target="#discours">discours<hi rend="sup">*</hi></ref> ma flame est offensée,</l>
+            <l n="415" xml:id="l415">Pourquoy perdre un espoir à nostre amour si doux,</l>
+            <l n="416" xml:id="l416" part="I">Qui peut nous separer ?</l>
+          </sp>
+          <sp xml:id="acte202-4" who="virginie">
+            <l part="F"> Helas ! l’ignorez-vous ?</l>
+            <l n="417" xml:id="l417">C'est le <ref target="#funeste2">funeste<hi rend="sup">*</hi></ref> <ref target="#effort4">effort<hi rend="sup">*</hi></ref> du destin qui me brave,</l>
+            <l n="418" xml:id="l418">Et si je sors du sang d’un malheureux esclave,</l>
+            <l n="419" xml:id="l419">Je voy qu’à vostre Hymen je ne dois plus penser,</l>
+            <l n="420" xml:id="l420">Qu'à cet espoir si doux, il me faut renoncer ;</l>
+            <l n="421" xml:id="l421">Oüy, Seigneur, nous cessons de vivre l’un pour l’autre,</l>
+            <l n="422" xml:id="l422">Mais Dieux ! que mon malheur est different du vostre,</l>
+            <l n="423" xml:id="l423">Vous ne perdez en moy qu’un cœur infortuné,</l>
+            <l n="424" xml:id="l424">Au comble des horreurs par le sort condamné,</l>
+            <l n="425" xml:id="l425">Et pour vous consoler de cette foible perte,</l>
+            <l n="426" xml:id="l426">Il est plus d’une voye à vostre amour offerte.</l>
+            <l n="427" xml:id="l427">Je ne vous parle point d’un Hymen plus <ref target="#heureux3">heureux<hi rend="sup">*</hi></ref>,<pb n="19" xml:id="p19"/></l>
+            <l n="428" xml:id="l428">Car je n’ose penser qu’un cœur si <ref target="#genereux">genereux<hi rend="sup">*</hi></ref>,</l>
+            <l n="429" xml:id="l429">Aprés les doux <ref target="#transports2">transports<hi rend="sup">*</hi></ref> d’une ardeur mutuelle,</l>
+            <l n="430" xml:id="l430">Puisse brûler jamais d’une flame nouvelle,</l>
+            <l n="431" xml:id="l431">Mais l’honneur immortel, qu’au milieu des combats,</l>
+            <l n="432" xml:id="l432">Vostre rare valeur promet à vostre bras,</l>
+            <l n="433" xml:id="l433">Le <ref target="#genereux">genereux<hi rend="sup">*</hi></ref> desir de servir la patrie,</l>
+            <l n="434" xml:id="l434">Pourront de vostre esprit effacer Virginie,</l>
+            <l n="435" xml:id="l435">Ou si ces nobles <ref target="#soins2">soins</ref> ne peuvent l’en bannir,</l>
+            <l n="436" xml:id="l436">Pour en combattre au moins le triste souvenir,</l>
+            <l n="437" xml:id="l437">Vous pourrez opposer aprés vostre victoire,</l>
+            <l n="438" xml:id="l438">Aux <ref target="#chagrin">chagrins<hi rend="sup">*</hi></ref> de l’amour, les plaisirs de la <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref>,</l>
+            <l n="439" xml:id="l439">Mais moy desesperée, en l’estat où je suis,</l>
+            <l n="440" xml:id="l440">Je sens de toutes parts augmenter mes <ref target="#ennuy">ennuis<hi rend="sup">*</hi></ref>,</l>
+            <l n="441" xml:id="l441">Je perds l’<ref target="#heureux3">heureux<hi rend="sup">*</hi></ref> espoir d’un illustre Hymenée,</l>
+            <l n="442" xml:id="l442">Et je perds avec luy le rang où je suis née,</l>
+            <l n="443" xml:id="l443">Enfin pour m’accabler dans ce <ref target="#funeste1">funeste<hi rend="sup">*</hi></ref> jour,</l>
+            <l n="444" xml:id="l444">Je voy d’intelligence, et la <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref>, et l’amour.</l>
+          </sp>
+          <sp xml:id="acte202-5" who="icile">
+            <l n="445" xml:id="l445">Ainsi vous renoncez à ce juste Hymenée,</l>
+            <l n="446" xml:id="l446">Que deviendra la <ref target="#foy1">foi<hi rend="sup">*</hi></ref> que vous m’avez donnée ?</l>
+            <l n="447" xml:id="l447">Lié par mes sermens, et presque vostre Epoux[, ]</l>
+            <l n="448" xml:id="l448" part="I">N'auray-je...</l>
+          </sp>
+          <sp xml:id="acte202-6" who="virginie">
+            <l part="F">Cette foy<hi rend="sup">*</hi> n’est plus digne de vous.</l>
+            <l n="449" xml:id="l449" part="I">Le sort injurieux...</l>
+          </sp>
+          <sp xml:id="acte202-7" who="icile">
+            <l part="F">Eh bien que peut-il faire ?</l>
+            <l n="450" xml:id="l450">Son pouvoir ne peut rien contre un amour sincere.</l>
+          </sp>
+          <sp xml:id="acte202-8" who="virginie">
+            <l n="451" xml:id="l451">Penseriez-vous à moy dans cet estat honteux.</l>
+          </sp>
+          <sp xml:id="acte202-9" who="icile">
+            <l n="452" xml:id="l452">Ah croyez-moy, Madame, un peu plus <ref target="#genereux">genereux<hi rend="sup">*</hi></ref>,</l>
+            <l n="453" xml:id="l453">Rendez plus de justice à mon ardente flame,</l>
+            <l n="454" xml:id="l454">Vostre merite seul l’alluma dans mon ame ;</l>
+            <l n="455" xml:id="l455">Et je jure à vos yeux qu’il n’est rien que la mort,<pb n="20" xml:id="p20"/></l>
+            <l n="456" xml:id="l456">Qui puisse desormais separer nostre sort,</l>
+            <l n="457" xml:id="l457">Que par tant de sermens engagés l’un à l’autre,</l>
+            <l n="458" xml:id="l458" part="I">Les Dieux mesme...</l>
+          </sp>
+          <sp xml:id="acte202-10" who="virginie">
+            <l part="F">Ah ! Seigneur, quelle erreur est la vostre,</l>
+            <l n="459" xml:id="l459">Lorsque vous me verrez dans un rang odieux…</l>
+          </sp>
+          <sp xml:id="acte202-11" who="icile">
+            <l n="460" xml:id="l460">J'auray le mesme cœur, j’auray les mesmes yeux,    </l>
+            <l n="461" xml:id="l461">Vous conserverés tout ce que mon cœur <ref target="#adorer">adore<hi rend="sup">*</hi></ref>,</l>
+            <l n="462" xml:id="l462">Vous aurez vos <ref target="#vertu1">vertus<hi rend="sup">*</hi></ref> ; et vous aurez encore,</l>
+            <l n="463" xml:id="l463">Pour m’<ref target="#attacher2">attacher<hi rend="sup">*</hi></ref> à vous par un lien plus fort,</l>
+            <l n="464" xml:id="l464">Vos craintes, vos douleurs, les injures du sort :</l>
+            <l n="465" xml:id="l465">Oüy, pour serrer les <ref target="#noeuds">nœuds<hi rend="sup">*</hi></ref> d’une chaîne si belle,</l>
+            <l n="466" xml:id="l466">Vos <ref target="#disgrace1">disgraces<hi rend="sup">*</hi></ref> auront une force nouvelle,</l>
+            <l n="467" xml:id="l467">Ah ! si c’est un devoir pour un cœur <ref target="#genereux">genereux<hi rend="sup">*</hi></ref>,</l>
+            <l n="468" xml:id="l468">De plaindre, de servir, d’aider les malheureux,</l>
+            <l n="469" xml:id="l469">Pour mon cœur enflammé quelle douceur extréme,</l>
+            <l n="470" xml:id="l470">De soulager en vous le digne <ref target="#objet1">objet<hi rend="sup">*</hi></ref> qu’il aime,</l>
+            <l n="471" xml:id="l471">De finir vos malheurs, et de pouvoir enfin,</l>
+            <l n="472" xml:id="l472">Vanger vostre <ref target="#vertu1">vertu<hi rend="sup">*</hi></ref> des affrons du destin.</l>
+          </sp>
+          <sp xml:id="acte202-12" who="virginie">
+            <l n="473" xml:id="l473">Ah ! Seigneur, cet aveu rend mon ame <ref target="#charmer2">charmée<hi rend="sup">*</hi></ref>,</l>
+            <l n="474" xml:id="l474">Quel plaisir de me voir si tendrement aimée,</l>
+            <l n="475" xml:id="l475">Mais quand l’amour pour moy vous porte à vous trahir,</l>
+            <l n="476" xml:id="l476">A vos <ref target="#voeux3">vœux<hi rend="sup">*</hi></ref> indiscrets, Seigneur, dois-je obeïr ?</l>
+            <l n="477" xml:id="l477">Non, non, remplissons mieux nos devoirs l’un et l’autre,</l>
+            <l n="478" xml:id="l478">Ma <ref target="#generosite">generosité<hi rend="sup">*</hi></ref> doit seconder la vostre,</l>
+            <l n="479" xml:id="l479">Et refusant un bien que j’ay tant souhaité,</l>
+            <l n="480" xml:id="l480">Faire connoistre au moins que je l’ay merité.</l>
+          </sp>
+          <sp xml:id="acte202-13" who="icile">
+            <l n="481" xml:id="l481">Que ce noble <ref target="#discours">discours<hi rend="sup">*</hi></ref> pleinement justifie,</l>
+            <l n="482" xml:id="l482">Le veritable sang dont vous estes sortie,</l>
+            <l n="483" xml:id="l483">Un cœur dans l’esclavage, et d’un vil sang formé,</l>
+            <l n="484" xml:id="l484">D'un <ref target="#courage1">courage<hi rend="sup">*</hi></ref> si grand n’est jamais animé,<pb n="21" xml:id="p21"/></l>
+            <l n="485" xml:id="l485">Et quelque fier qu’il soit toûjours quelque foiblesse,</l>
+            <l n="486" xml:id="l486">Découvre tost ou tard sa premiere bassesse ;</l>
+            <l n="487" xml:id="l487">Mais finissez, Madame, un <ref target="#discours">discours<hi rend="sup">*</hi></ref> si <ref target="#cruel1">cruel<hi rend="sup">*</hi></ref>,</l>
+            <l n="488" xml:id="l488">Et qui rend envers moy vostre cœur criminel,</l>
+            <l n="489" xml:id="l489">Dieux ! est-ce là m’aimer que m’oster l’esperance ?</l>
+          </sp>
+          <sp xml:id="acte202-14" who="virginie">
+            <l n="490" xml:id="l490">Eh qu’a-t’il ce <ref target="#discours">discours<hi rend="sup">*</hi></ref>, Seigneur, qui vous offence ?</l>
+            <l n="491" xml:id="l491">Croyez que ce refus marque mieux mon amour,</l>
+            <l n="492" xml:id="l492">Que tout ce que j’ay fait jusqu’à ce triste jour,</l>
+            <l n="493" xml:id="l493">Ce n’est pas qu’en effet de mon dessein <ref target="#troubler2">troublée</ref>,</l>
+            <l n="494" xml:id="l494">Par ce <ref target="#coups2">coup<hi rend="sup">*</hi></ref> <ref target="#genereux">genereux<hi rend="sup">*</hi></ref> je ne sois accablée,</l>
+            <l n="495" xml:id="l495">J'en fremis par avance, et jugez par mes pleurs...    </l>
+          </sp>
+          <sp xml:id="acte202-15" who="icile">
+            <l n="496" xml:id="l496">Madame, par pitié cachez-moy vos douleurs,</l>
+            <l n="497" xml:id="l497">C'est trop de mes <ref target="#ennuy">ennuis<hi rend="sup">*</hi></ref>, et de vostre <ref target="#tristesse">tristesse<hi rend="sup">*</hi></ref>,</l>
+            <l n="498" xml:id="l498">Mais je la finiray, croyez-en ma promesse,</l>
+            <l n="499" xml:id="l499">Je perdray vos tyrans, et quel que soit leur rang,</l>
+            <l n="500" xml:id="l500">Ces pleurs que vous versez leur cousteront du sang.</l>
+          </sp>
+          <sp xml:id="acte202-16" who="virginie">
+            <l n="501" xml:id="l501" part="I">Ah ! Seigneur arrestez, où courez vous ?</l>
+          </sp>
+          <sp xml:id="acte202-17" who="icile">
+            <l part="F">Madame,</l>
+            <l n="502" xml:id="l502">Ne vous opposez point à l’ardeur qui m’enflame,</l>
+            <l n="503" xml:id="l503">Il faut que l’insolent qui vous ose insulter,</l>
+            <l n="504" xml:id="l504">Aprenne desormais à vous mieux respecter.</l>
+          </sp>
+          <sp xml:id="acte202-18" who="virginie">
+            <l n="505" xml:id="l505" part="I">Mais comment ?</l>
+          </sp>
+          <sp xml:id="acte202-19" who="icile">
+            <l part="F">C'est à moy de vanger vostre injure,</l>
+            <l n="506" xml:id="l506">C'est à moy de convaincre, et punir l’imposture,</l>
+            <l n="507" xml:id="l507" part="I">J'y cours, adieu, Madame.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte203">
+          <pb n="22" xml:id="p22"/>
+          <sp xml:id="acte203-1" who="camille">
+            <l part="F"> Il court vous secourir,</l>
+            <l n="508" xml:id="l508">Les Dieux se sont lassez de vous voir tant souffrir.</l>
+            <l n="509" xml:id="l509">Madame, esperez tout du <ref target="#courage3">courage</ref> d’Icile.</l>
+          </sp>
+          <sp xml:id="acte203-2" who="virginie">
+            <l n="510" xml:id="l510">Ah ? que me fais-tu voir, et qu’ay-je fait Camille,</l>
+            <l n="511" xml:id="l511">Dieux ! devois-je d’Icile accepter le secours,</l>
+            <l n="512" xml:id="l512">Pour mes seuls interests j’ay <ref target="#hazarder2">hazardé<hi rend="sup">*</hi></ref> ses jours,</l>
+            <l n="513" xml:id="l513">Que n’entreprendra point sa tendresse offencée,</l>
+            <l n="514" xml:id="l514">De cent perils mortels sa vie est menacée,</l>
+            <l n="515" xml:id="l515">Helas ! que ce seroit un secours odieux,    515</l>
+            <l n="516" xml:id="l516">S'il brisoit ma prison en mourant à mes yeux ;</l>
+            <l n="517" xml:id="l517">Prevenons<hi rend="sup">*</hi>-le, essayons de finir ma disgrace<hi rend="sup">*</hi>,</l>
+            <l n="518" xml:id="l518">Nous mesme détournons le <ref target="#coups3">coup<hi rend="sup">*</hi></ref> qui nous menace,</l>
+            <l n="519" xml:id="l519">Hastons-nous, empeschons mon <ref target="#amant">amant<hi rend="sup">*</hi></ref> de perir,</l>
+            <l n="520" xml:id="l520">Courons voir Appius, il peut nous secourir,</l>
+            <l n="521" xml:id="l521">Que ses yeux soient témoins de mes vives allarmes,</l>
+            <l n="522" xml:id="l522">Peut estre, sera-t’il, attendry par mes larmes ?</l>
+            <l n="523" xml:id="l523" part="I">Ne nous contraignons plus, le voicy.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte204">
+          <pb n="23" xml:id="p23"/>
+          <sp xml:id="acte204-1" who="virginie">
+            <l part="F">Quoy, Seigneur,</l>
+            <l n="524" xml:id="l524">Ne calmerez-vous pas le <ref target="#trouble2">trouble<hi rend="sup">*</hi></ref> de mon cœur,</l>
+            <l n="525" xml:id="l525">Rendez-vous aux <ref target="#soupir">soûpirs<hi rend="sup">*</hi></ref> que je vous fais <ref target="#entendre2">entendre</ref>,</l>
+            <l n="526" xml:id="l526">Perdray-je tant de pleurs que vous voyez répandre,</l>
+            <l n="527" xml:id="l527">Et n’obtiendray-je point un utile secours,</l>
+            <l n="528" xml:id="l528">Qui des <ref target="#fers">fers<hi rend="sup">*</hi></ref> que je crains sauve mes tristes jours.</l>
+          </sp>
+          <sp xml:id="acte204-2" who="appius">
+            <l n="529" xml:id="l529">Helas n’en doutez point vostre <ref target="#disgrace1">disgrace<hi rend="sup">*</hi></ref> extréme,</l>
+            <l n="530" xml:id="l530">Plus que vous ne pensez me déchire moy-même,</l>
+            <l n="531" xml:id="l531">Et pour porter mon ame à finir vos mal-heurs,</l>
+            <l n="532" xml:id="l532">Vous n’avez pas besoin du secours de vos pleurs,</l>
+            <l n="533" xml:id="l533">Vostre seule jeunesse, et les <ref target="#soins2">soins</ref> d’une Mere,</l>
+            <l n="534" xml:id="l534">A qui mille raisons vous ont rendu si chere,</l>
+            <l n="535" xml:id="l535">D'un Pere si fameux les illustres exploits,</l>
+            <l n="536" xml:id="l536">Lors qu’ils parlent pour vous ont de puissantes voix ;</l>
+            <l n="537" xml:id="l537">Souvent par ces égards mon ame s’est emeuë,</l>
+            <l n="538" xml:id="l538">De vous rendre à leurs cris elle estoit resoluë,</l>
+            <l n="539" xml:id="l539">Si l’austere devoir d’un employ glorieux,</l>
+            <l n="540" xml:id="l540">Cette droite équité prescrite par les Dieux,</l>
+            <l n="541" xml:id="l541">Si la peur des remords qui suivent l’injustice,</l>
+            <l n="542" xml:id="l542">M'eut permis de vous faire un si grand sacrifice ;</l>
+            <l n="543" xml:id="l543">Et n’eut malgré l’<ref target="#effort1">effort<hi rend="sup">*</hi></ref> d’une tendre pitié,</l>
+            <l n="544" xml:id="l544">Fait durer des malheurs dont je sens la moitié,</l>
+            <l n="545" xml:id="l545">Mais enfin plus je tâche à percer le mystere,<pb n="24" xml:id="p24"/></l>
+            <l n="546" xml:id="l546">Plus je trouve à vos <ref target="#voeux2">vœux<hi rend="sup">*</hi></ref> la justice contraire,</l>
+            <l n="547" xml:id="l547">Témoins, indices, droit, tout parle contre nous.</l>
+          </sp>
+          <sp xml:id="acte204-3" who="virginie">
+            <l n="548" xml:id="l548">Eh vous me porterez de si <ref target="#funeste3">funestes<hi rend="sup">*</hi></ref> <ref target="#coups3">coups<hi rend="sup">*</hi></ref>,</l>
+            <l n="549" xml:id="l549" part="I">Helas ! Seigneur…</l>
+          </sp>
+          <sp xml:id="acte204-4" who="appius">
+            <l part="F">Mon ame est toûjours incertaine,</l>
+            <l n="550" xml:id="l550">La pitié me retient quand le devoir m’entraine,</l>
+            <l n="551" xml:id="l551">Sur tout tant de <ref target="#vertu1">vertus<hi rend="sup">*</hi></ref>, tant de charmes divers,</l>
+            <l n="552" xml:id="l552">Ne me semblent point faits pour languir dans les <ref target="#fers">fers<hi rend="sup">*</hi></ref>,</l>
+            <l n="553" xml:id="l553">Ainsi je vous soustiens au bord du precipice,</l>
+            <l n="554" xml:id="l554">Je crains de tous costez de faire une injustice,</l>
+            <l n="555" xml:id="l555">Auquel des deux partis que je donne ma voix,</l>
+            <l n="556" xml:id="l556">J'offense vos <ref target="#vertu1">vertus<hi rend="sup">*</hi></ref>, ou j’offence les loix.</l>
+          </sp>
+          <sp xml:id="acte204-5" who="virginie">
+            <l n="557" xml:id="l557">Helas ! pour me sauver, n’est-il aucune voye ?</l>
+          </sp>
+          <sp xml:id="acte204-6" who="appius">
+            <l n="558" xml:id="l558">Madame, ouvrez la moy, j’y souscris avec joye,</l>
+            <l n="559" xml:id="l559">Parlez, si je le puis sans blesser mon devoir,</l>
+            <l n="560" xml:id="l560">Je feray pour vous plaire agir tout mon pouvoir,</l>
+            <l n="561" xml:id="l561">Inventez un moyen, ma puissance supréme,</l>
+            <l n="562" xml:id="l562" part="I">Va tenter...</l>
+          </sp>
+          <sp xml:id="acte204-7" who="virginie">
+            <l part="F">Ah ! Seigneur, inventez le vous mesme ;</l>
+            <l n="563" xml:id="l563">Que je vous doive tout faites un noble <ref target="#effort5">effort<hi rend="sup">*</hi></ref>,</l>
+            <l n="564" xml:id="l564">Je remets en vos mains tout le <ref target="#soins2">soin</ref> de mon sort :</l>
+            <l n="565" xml:id="l565">Hastez-vous, rasseurez mon ame impatiente.</l>
+          </sp>
+          <sp xml:id="acte204-8" who="appius">
+            <l n="566" xml:id="l566">Hé l’accepterez-vous, si je vous le presente ?</l>
+            <l n="567" xml:id="l567">Si vous voulez sortir de cet affreux danger,</l>
+            <l n="568" xml:id="l568">Je ne voy qu’un chemin pour vous en dégager,</l>
+            <l n="569" xml:id="l569">Mais vostre cœur peut-estre à mes loix infidelle,</l>
+            <l n="570" xml:id="l570">Osera m’opposer une fierté rebelle :</l>
+            <l n="571" xml:id="l571">Cependant je vous jure, et j’atteste les Dieux,</l>
+            <l n="572" xml:id="l572">Que mon dessein, Madame, est juste et glorieux,<pb n="C. p.25"/></l>
+            <l n="573" xml:id="l573">Et que si vos refus le rendent inutile...</l>
+          </sp>
+          <sp xml:id="acte204-9" who="virginie">
+            <l n="574" xml:id="l574">Pour éviter les <ref target="#fers">fers<hi rend="sup">*</hi></ref> tout me sera facile :</l>
+            <l n="575" xml:id="l575">Pourquoy balancez-vous à me le proposer,</l>
+            <l n="576" xml:id="l576">En ce <ref target="#funeste1">funeste<hi rend="sup">*</hi></ref> estat puis-je rien refuser ?</l>
+            <l n="577" xml:id="l577">Ne me le cachez plus, si la pitié vous touche,</l>
+            <l n="578" xml:id="l578" part="I">Par où puis-je ?</l>
+          </sp>
+          <sp xml:id="acte204-10" who="appius">
+            <l part="F"> Il ne faut qu’un mot de vostre bouche :</l>
+            <l n="579" xml:id="l579">Oüy, dés ce mesme jour vous briserez vos <ref target="#fers">fers<hi rend="sup">*</hi></ref>,</l>
+            <l n="580" xml:id="l580">Vous mesme finirez tous vos malheurs divers,</l>
+            <l n="581" xml:id="l581">Et porterez si haut l’<ref target="#eclat2">éclat<hi rend="sup">*</hi></ref> de vostre vie,</l>
+            <l n="582" xml:id="l582">Qu'aux premieres de Rome il pourra faire envie,</l>
+            <l n="583" xml:id="l583" part="I">Si vous voulez...</l>
+          </sp>
+          <sp xml:id="acte204-11" who="virginie">
+            <l part="M">Et quoy ?</l>
+          </sp>
+          <sp xml:id="acte204-12" who="appius">
+            <l part="F">Me prendre pour Epoux,</l>
+            <l n="584" xml:id="l584">Et par des <ref target="#noeuds">nœuds<hi rend="sup">*</hi></ref> sacrez m’<ref target="#attacher2">attacher<hi rend="sup">*</hi></ref> tout à vous,</l>
+            <l n="585" xml:id="l585">Venez, allons au Temple, et que mon Hymenée,</l>
+            <l n="586" xml:id="l586">Repare le malheur de vostre destinée,</l>
+            <l n="587" xml:id="l587">Que Clodius contraint de respecter mon choix,</l>
+            <l n="588" xml:id="l588">N'ose plus <ref target="#exposer2">exposer</ref> ses temeraires droits,</l>
+            <l n="589" xml:id="l589">Venez, en partageant ma puissance supréme,</l>
+            <l n="590" xml:id="l590">Vous acquerir des droits sur Clodius luy-mesme,</l>
+            <l n="591" xml:id="l591">Et prendre sur ses jours à couvert de ses <ref target="#coups4">coups<hi rend="sup">*</hi></ref>,</l>
+            <l n="592" xml:id="l592">La mesme authorité qu’il veut avoir sur vous.</l>
+          </sp>
+          <sp xml:id="acte204-13" who="virginie">
+            <l n="593" xml:id="l593">Qu'entens<hi rend="sup">*</hi>-je juste Ciel ! et le pourray-je croire,</l>
+            <l n="594" xml:id="l594">Que de soupçons, Seigneur, mortels à vostre <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref>,</l>
+            <l n="595" xml:id="l595">Je vois enfin, je vois la cause de mes pleurs,</l>
+            <l n="596" xml:id="l596">Et je connois la main d’où partent mes malheurs,</l>
+            <l n="597" xml:id="l597">Clodius n’a point seul commencé ma <ref target="#disgrace1">disgrace<hi rend="sup">*</hi></ref>,</l>
+            <l n="598" xml:id="l598">C'est un bras plus puissant qui soustient son <ref target="#audace1">audace</ref>,</l>
+            <l n="599" xml:id="l599" part="I">Seigneur, vous m’<ref target="#entendre4">entendez<hi rend="sup">*</hi></ref>.</l>
+          </sp>
+          <sp xml:id="acte204-14" who="appius">
+            <pb n="26" xml:id="p26"/>
+            <l part="F">Ah ! que soupçonnez-vous ?</l>
+            <l n="600" xml:id="l600">Au moment que ma main vous dérobe à ses <ref target="#coups4">coups<hi rend="sup">*</hi></ref></l>
+            <l n="601" xml:id="l601" part="I">Que pensez-vous de moy.</l>
+          </sp>
+          <sp xml:id="acte204-15" who="virginie">
+            <l part="F"> Ce qu’il falloit vous-mesme,</l>
+            <l n="602" xml:id="l602">Me déguiser toûjours avec un <ref target="#soins2">soin</ref> extréme,</l>
+            <l n="603" xml:id="l603">Mais c’est pousser trop loin ce <ref target="#funeste1">funeste<hi rend="sup">*</hi></ref> entretien,</l>
+            <l n="604" xml:id="l604">Faites vostre devoir, et je feray le mien.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte205">
+          <sp xml:id="acte205-1" who="clodius">
+            <l n="605" xml:id="l605">Qu'avez-vous fait, Seigneur, et que faut-il attendre.</l>
+          </sp>
+          <sp xml:id="acte205-2" who="appius">
+            <l n="606" xml:id="l606">Ah ! l’<ref target="#ingrate2">ingrate<hi rend="sup">*</hi></ref> à mes <ref target="#voeux1">vœux</ref> refuse de se rendre.</l>
+          </sp>
+          <sp xml:id="acte205-3" who="clodius">
+            <l n="607" xml:id="l607">Quoy, Seigneur, vostre rang, vos <ref target="#soins3">soins<hi rend="sup">*</hi></ref>, vostre grandeur,</l>
+            <l n="608" xml:id="l608">L'offre de vostre main n’ont pû toucher son cœur.</l>
+          </sp>
+          <sp xml:id="acte205-4" who="appius">
+            <l n="609" xml:id="l609">Si la seule grandeur satisfaisoit une ame,</l>
+            <l n="610" xml:id="l610">Helas ! serois-je en proye à ma <ref target="#cruel1">cruelle<hi rend="sup">*</hi></ref> flame,</l>
+            <l n="611" xml:id="l611">Inutile puissance ! importune grandeur,</l>
+            <l n="612" xml:id="l612">Qui ne peut m’asseurer d’un solide bonheur.</l>
+            <l n="613" xml:id="l613">Malgré tout mon pouvoir mon ame est à la <ref target="#gesne">gesne<hi rend="sup">*</hi></ref>,</l>
+            <l n="614" xml:id="l614">J'aime, j’offre ma main, je trouve une inhumaine,</l>
+            <l n="615" xml:id="l615">Je me voy dédaigner, et mon amour confus,</l>
+            <l n="616" xml:id="l616">Remporte seulement la honte d’un refus.</l>
+          </sp>
+          <sp xml:id="acte205-5" who="clodius">
+            <l n="617" xml:id="l617">D'un <ref target="#discours">discours<hi rend="sup">*</hi></ref> impreveu, Virginie allarmée,</l>
+            <l n="618" xml:id="l618">A suivy le panchant de son ame enflammée,<pb n="27" xml:id="p27"/></l>
+            <l n="619" xml:id="l619">Mais ne vous <ref target="#troubler1">troublez<hi rend="sup">*</hi></ref> point de ce premier <ref target="#transports1">transport<hi rend="sup">*</hi></ref>,</l>
+            <l n="620" xml:id="l620">D'un amour <ref target="#irriter1">irrité<hi rend="sup">*</hi></ref>, c’est le dernier <ref target="#effort3">effort<hi rend="sup">*</hi></ref>.</l>
+            <l n="621" xml:id="l621">Laissez passer, Seigneur, sa premiere surprise,</l>
+            <l n="622" xml:id="l622">Laissez luy peser tout d’une ame un peu remise.</l>
+            <l n="623" xml:id="l623">Lorsque d’un oeil tranquile, et moins preoccupé,</l>
+            <l n="624" xml:id="l624">Son cœur verra le <ref target="#coups3">coup<hi rend="sup">*</hi></ref> dont il seroit frapé,</l>
+            <l n="625" xml:id="l625">D'un costé vostre Hymen, vostre <ref target="#gloire1">gloire<hi rend="sup">*</hi></ref> en partage,</l>
+            <l n="626" xml:id="l626">De l’autre les horreurs qui suivent l’esclavage,</l>
+            <l n="627" xml:id="l627">Son orgueil <ref target="#confondre3">confondu<hi rend="sup">*</hi></ref> par des emplois si bas,</l>
+            <l n="628" xml:id="l628">Eh doutez-vous, Seigneur, qu’elle ne change pas,</l>
+            <l n="629" xml:id="l629">Quand mesme à vostre Hymen il faudroit la contraindre,</l>
+            <l n="630" xml:id="l630">De vostre cruauté, pourroit-elle se plaindre ?</l>
+            <l n="631" xml:id="l631">Vous ne la contraindrez, que pour la mieux servir,</l>
+            <l n="632" xml:id="l632">A ses propres desirs il vous la faut ravir,</l>
+            <l n="633" xml:id="l633">Et l’arrachant par force à cette erreur qu’elle aime,</l>
+            <l n="634" xml:id="l634">Establir son bon-heur en dépit d’elle-mesme.</l>
+          </sp>
+          <sp xml:id="acte205-6" who="appius">
+            <l n="635" xml:id="l635">Je te doy tout, suivons ce conseil important,</l>
+            <l n="636" xml:id="l636">Il determine un cœur, irresolu, flottant ;</l>
+            <l n="637" xml:id="l637">Ne nous contraignons plus par ce vain artifice,</l>
+            <l n="638" xml:id="l638">Tost ou tard on sçaura quelle est mon injustice,</l>
+            <l n="639" xml:id="l639">Ne ménageons plus rien, satisfaisons nos <ref target="#voeux1">vœux</ref>,</l>
+            <l n="640" xml:id="l640">Et ne nous <ref target="#charger1">chargeons<hi rend="sup">*</hi></ref> pas d’un crime infructueux,</l>
+            <l n="641" xml:id="l641">De mon amour dépend le bonheur de ma vie,</l>
+            <l n="642" xml:id="l642">Il n’importe à quel prix j’obtienne Virginie,</l>
+            <l n="643" xml:id="l643">Allons encor un <ref target="#coups5">coup<hi rend="sup">*</hi></ref> luy presenter ma main,</l>
+            <l n="644" xml:id="l644">Allons mettre à ses pieds le pouvoir souverain,</l>
+            <l n="645" xml:id="l645">Et si sa flame encor la seduit ou l’abuse,</l>
+            <l n="646" xml:id="l646">Forçons-la d’accepter l’honneur qu’elle refuse.</l>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="acte3" type="act">
+        <pb n="28" xml:id="p28"/>
+        <div type="scene" xml:id="acte301">
+          <sp xml:id="acte301-1" who="fulvie">
+            <l n="647" xml:id="l647">Madame, où courez-vous, vous verray-je toûjours,</l>
+            <l n="648" xml:id="l648">D'une douleur mortelle entretenir le cours ?</l>
+            <l n="649" xml:id="l649">Sourde à tous nos conseils, desesperée, errante,</l>
+            <l n="650" xml:id="l650">Loin d’adoucir vos maux chaque instant les augmente,</l>
+            <l n="651" xml:id="l651">Un <ref target="#chagrin">chagrin<hi rend="sup">*</hi></ref> devorant precipite vos pas,</l>
+            <l n="652" xml:id="l652">Vous courez en cent lieux où vous n’arrestez pas,</l>
+            <l n="653" xml:id="l653"><ref target="#tantost1">Tantost</ref> parmy le peuple, et tantost solitaire,</l>
+            <l n="654" xml:id="l654">Tout ce que vous voiez ne fait que vous déplaire,</l>
+            <l n="655" xml:id="l655">Aux <ref target="#discours">discours<hi rend="sup">*</hi></ref> des Romains touchez de vos malheurs,</l>
+            <l n="656" xml:id="l656">Vous avez seulement répondu par des pleurs,</l>
+            <l n="657" xml:id="l657" part="I">Leurs <ref target="#soins2">soins</ref> officieux...</l>
+          </sp>
+          <sp xml:id="acte301-2" who="plautie">
+            <pb n="29" xml:id="p29"/>
+            <l part="F">Eh que puis-je répondre,</l>
+            <l n="658" xml:id="l658">Leurs <ref target="#discours">discours<hi rend="sup">*</hi></ref> et leurs <ref target="#soins2">soins</ref> ne font que me <ref target="#confondre3">confondre<hi rend="sup">*</hi></ref>,</l>
+            <l n="659" xml:id="l659">Pour <ref target="#flatter2">flatter<hi rend="sup">*</hi></ref> ma <ref target="#disgrace1">disgrace<hi rend="sup">*</hi></ref>, ils m’en viennent parler,</l>
+            <l n="660" xml:id="l660">Et leur zele ne sert qu’à la renouveller,</l>
+            <l n="661" xml:id="l661">Leur pitié m’assassine, et me devient <ref target="#funeste3">funeste<hi rend="sup">*</hi></ref>,</l>
+            <l n="662" xml:id="l662">Je ne voy point d’<ref target="#objet3">objet<hi rend="sup">*</hi></ref> que mon cœur ne deteste,</l>
+            <l n="663" xml:id="l663">En public, en secret, une égale douleur,</l>
+            <l n="664" xml:id="l664">Accable ma raison, et déchire mon cœur :</l>
+            <l n="665" xml:id="l665">Si je vay me cacher au sein de ma famille,</l>
+            <l n="666" xml:id="l666">Tout m’y semble odieux, je n’y vois plus ma fille,</l>
+            <l n="667" xml:id="l667">Sans elle mon Palais m’est un desert affreux,</l>
+            <l n="668" xml:id="l668">Et quand pour adoucir un sort si rigoureux,</l>
+            <l n="669" xml:id="l669">Pleine de desespoir je cours, je vole au Temple,</l>
+            <l n="670" xml:id="l670">Helas ! par un destin qui n’eut jamais d’exemple,</l>
+            <l n="671" xml:id="l671">Cet azile sacré contre tous nos malheurs,</l>
+            <l n="672" xml:id="l672">Qui toûjours des humains soulage les douleurs,</l>
+            <l n="673" xml:id="l673">La presence des Dieux <ref target="#irriter1">irrite<hi rend="sup">*</hi></ref> ma <ref target="#disgrace1">disgrace<hi rend="sup">*</hi></ref>,</l>
+            <l n="674" xml:id="l674">Puisque mes tristes yeux y remarquent la place,</l>
+            <l n="675" xml:id="l675">Où ces Dieux ont permis que des monstres <ref target="#cruel4">cruels<hi rend="sup">*</hi></ref>,</l>
+            <l n="676" xml:id="l676">M'ayent ravy ma fille au pied de leurs Autels ;</l>
+            <l n="677" xml:id="l677">Comment calmer les maux où mon malheur m’<ref target="#exposer3">expose<hi rend="sup">*</hi></ref>,</l>
+            <l n="678" xml:id="l678">Tout retrace à mes yeux la perte qui les cause,</l>
+            <l n="679" xml:id="l679">Quoy que je fasse enfin pour <ref target="#charmer3">charmer<hi rend="sup">*</hi></ref> mes <ref target="#ennuy">ennuis<hi rend="sup">*</hi></ref>,</l>
+            <l n="680" xml:id="l680">Je rencontre par tout les horreurs que je fuis.</l>
+          </sp>
+          <sp xml:id="acte301-3" who="fulvie">
+            <l n="681" xml:id="l681" part="I">Mais Madame souffrez…</l>
+          </sp>
+          <sp xml:id="acte301-4" who="plautie">
+            <l part="F">J'ay tout perdu Fulvie,</l>
+            <l n="682" xml:id="l682">Et ne puis que traîner une importune vie,</l>
+            <l n="683" xml:id="l683">Tandis que Virginie a lieu d’aprehender,</l>
+            <l n="684" xml:id="l684">Au severe Appius je cours la demander ;</l>
+            <l n="685" xml:id="l685">Non que j’ose esperer qu’il daigne me la rendre,</l>
+            <l n="686" xml:id="l686">Je ne veux seulement que l’obliger d’attendre,</l>
+            <l n="687" xml:id="l687">Que mon Epoux du Camp soit icy de retour,<pb n="30" xml:id="p30"/></l>
+            <l n="688" xml:id="l688">Helas ! ce seul espoir r'asseure mon amour,</l>
+            <l n="689" xml:id="l689">Si je puis le revoir, mes douleurs, et mes craintes,</l>
+            <l n="690" xml:id="l690">Ne me donneront plus que de foibles atteintes,</l>
+            <l n="691" xml:id="l691">Courrons donc essayer... Mais que vois-je grands dieux ?</l>
+            <l n="692" xml:id="l692">Quel <ref target="#objet3">objet<hi rend="sup">*</hi></ref> imprevu se presente à mes yeux ?</l>
+            <l n="693" xml:id="l693">C'est Appius que suit mon ennemy perfide,</l>
+            <l n="694" xml:id="l694">Ah ! je ne sçais que trop le dessein qui le guide,</l>
+            <l n="695" xml:id="l695" part="I">Il luy parle en secret... J'en fremis...</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte302">
+          <sp xml:id="acte302-1" who="plautie">
+            <l part="F">Ah ! Seigneur,</l>
+            <l n="696" xml:id="l696">Ecoutez-vous encor la voix d’un imposteur,</l>
+            <l n="697" xml:id="l697">Que dit-il ? ose-t’il comblant sa perfidie,</l>
+            <l n="698" xml:id="l698">Vous <ref target="#presser1">presser<hi rend="sup">*</hi></ref> d’oprimer la triste Virginie ?</l>
+            <l n="699" xml:id="l699">Ne <ref target="#prevenir1">previendrez<hi rend="sup">*</hi></ref>-vous pas son <ref target="#funeste1">funeste<hi rend="sup">*</hi></ref> dessein,</l>
+            <l n="700" xml:id="l700">Presterez-vous le bras pour me percer le sein ?</l>
+            <l n="701" xml:id="l701">Me refuserez-vous le secours que j’implore,</l>
+            <l n="702" xml:id="l702">Seigneur, entre nous deux balancez-vous encore ;</l>
+            <l n="703" xml:id="l703">Faudra-t’il qu’à mes pleurs on puisse reprocher,</l>
+            <l n="704" xml:id="l704">Qu'ils n’ont pas eu la force, helas ! de vous toucher,</l>
+            <l n="705" xml:id="l705">Dans le temps qu’à vos yeux je suis presque mourante,</l>
+            <l n="706" xml:id="l706">Mon extréme douleur sera-t’elle impuissante,</l>
+            <l n="707" xml:id="l707">D'un barbare projet vous connoissez l’Autheur,</l>
+            <l n="708" xml:id="l708">Et mes tristes <ref target="#soupir">soûpirs<hi rend="sup">*</hi></ref>, mes <ref target="#transports2">transports<hi rend="sup">*</hi></ref>, ma <ref target="#fureur">fureur<hi rend="sup">*</hi></ref>,<pb n="31" xml:id="p31"/></l>
+            <l n="709" xml:id="l709">Mon desespoir mortel, mon ardente priere,</l>
+            <l n="710" xml:id="l710">Tout vous prouve, Seigneur, l’<ref target="#amitie1">amitié<hi rend="sup">*</hi></ref> d’une Mere,</l>
+            <l n="711" xml:id="l711">Faut-il d’autres raisons pour vous persuader ?</l>
+            <l n="712" xml:id="l712">Il en est mille encore à qui tout doit ceder,</l>
+            <l n="713" xml:id="l713">Considerez Seigneur... Mais mon ame <ref target="#troubler4">troublée<hi rend="sup">*</hi></ref>,</l>
+            <l n="714" xml:id="l714">Succombe à tant de maux dont elle est accablée,</l>
+            <l n="715" xml:id="l715">Ma parole se perd... je cede à mes douleurs...</l>
+            <l n="716" xml:id="l716">Helas... je ne vous puis parler que par mes pleurs.</l>
+          </sp>
+          <sp xml:id="acte302-2" who="clodius">
+            <l n="717" xml:id="l717">J’ose encor me <ref target="#flatter1">flatter<hi rend="sup">*</hi></ref> malgré tant d’artifice,</l>
+            <l n="718" xml:id="l718">Que vous suivrez, Seigneur, la severe Justice,</l>
+            <l n="719" xml:id="l719">Je ne vous dis plus rien pour soûtenir mes droits,</l>
+            <l n="720" xml:id="l720">Vingt témoins differens ont d’assez fortes voix,</l>
+            <l n="721" xml:id="l721">Donnez-moy Virginie, et forcez au silence,</l>
+            <l n="722" xml:id="l722">Une femme en <ref target="#fureur">fureur<hi rend="sup">*</hi></ref> dont la plainte m’offense :</l>
+            <l n="723" xml:id="l723">Et qui s’authorisant de l’amour maternel,</l>
+            <l n="724" xml:id="l724">Cache sous ce pretexte un dessein criminel,</l>
+            <l n="725" xml:id="l725" part="I">Ne differez-donc plus... venez...</l>
+          </sp>
+          <sp xml:id="acte302-3" who="plautie">
+            <l part="F">Tay-toy parjure,</l>
+            <l n="726" xml:id="l726">N'ajoûte point encor l’outrage à l’imposture,</l>
+            <l n="727" xml:id="l727">Seigneur, si mes <ref target="#soupir">soûpirs<hi rend="sup">*</hi></ref> peuvent vous émouvoir,</l>
+            <l n="728" xml:id="l728">Eloignez Clodius que je ne sçaurois voir,</l>
+            <l n="729" xml:id="l729">Plus que tous mes malheurs sa <ref target="#funeste4">funeste<hi rend="sup">*</hi></ref> presence,</l>
+            <l n="730" xml:id="l730">De mes profonds <ref target="#ennuy">ennuis<hi rend="sup">*</hi></ref> <ref target="#aigrir">aigrit<hi rend="sup">*</hi></ref> la violence,</l>
+            <l n="731" xml:id="l731">Vous me verrez <ref target="#doute">sans doute<hi rend="sup">*</hi></ref> expirer en ces lieux,</l>
+            <l n="732" xml:id="l732">Si plus long-temps ce traistre est present à mes yeux.</l>
+          </sp>
+          <sp xml:id="acte302-4" who="appius">
+            <l n="733" xml:id="l733">Oüy, Madame, je vais soulager vostre peine,</l>
+            <l n="734" xml:id="l734">Sortez. Retirez-vous dans la chambre prochaine,</l>
+            <l n="735" xml:id="l735">Je sçauray <ref target="#prononcer">prononcer<hi rend="sup">*</hi></ref> lorsqu’il en sera temps.</l>
+          </sp>
+          <sp xml:id="acte302-5" who="clodius">
+            <pb n="32" xml:id="p32"/>
+            <l n="736" xml:id="l736">Vous differez encor, Seigneur[, ] je vous entens<hi rend="sup">*</hi>,</l>
+            <l n="737" xml:id="l737">Vous n’osez de Plautie augmenter la misere,</l>
+            <l n="738" xml:id="l738">Mais un Chef des Romains doit estre plus severe,</l>
+            <l n="739" xml:id="l739">Juste à recompenser, intrepide à punir,</l>
+            <l n="740" xml:id="l740">Il doit voir le passé sans craindre l’avenir,</l>
+            <l n="741" xml:id="l741">Sans qu’aucun interest le retienne ou l’anime,</l>
+            <l n="742" xml:id="l742">Et la pitié d’un Juge est souvent un grand crime,</l>
+            <l n="743" xml:id="l743">Puisque la vostre icy combat vostre devoir,</l>
+            <l n="744" xml:id="l744">Seigneur je vay d’un autre implorer le pouvoir,</l>
+            <l n="745" xml:id="l745">Vostre retardement me servira d’excuse,</l>
+            <l n="746" xml:id="l746">Si je demande ailleurs le bien qu’on me refuse.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte303">
+          <sp xml:id="acte303-1" who="appius">
+            <l n="747" xml:id="l747">Vous le voyez, Madame, il va chercher ailleurs,</l>
+            <l n="748" xml:id="l748">L'inévitable arrest qui comble vos malheurs,</l>
+            <l n="749" xml:id="l749">J'ay craint de <ref target="#prononcer">prononcer<hi rend="sup">*</hi></ref> cet arrest si <ref target="#funeste1">funeste<hi rend="sup">*</hi></ref>,</l>
+            <l n="750" xml:id="l750">Et dans vos déplaisirs cette douceur me reste,</l>
+            <l n="751" xml:id="l751">Qu'une autre main au moins vous portera les <ref target="#coups3">coups<hi rend="sup">*</hi></ref>,</l>
+            <l n="752" xml:id="l752">Dont mon cœur allarmé fremit déja pour vous.</l>
+          </sp>
+          <sp xml:id="acte303-2" who="plautie">
+            <l n="753" xml:id="l753">Eh quoy vostre pitié sera t’elle inutile,</l>
+            <l n="754" xml:id="l754">Ne peut-elle, à mon sang assurer un azile,</l>
+            <l n="755" xml:id="l755">Ne peut-elle, Seigneur, détourner loin de moy,</l>
+            <l n="756" xml:id="l756">Ces <ref target="#coups3">coups<hi rend="sup">*</hi></ref> dont vostre cœur a déja quelque effroy,</l>
+            <l n="757" xml:id="l757">Dans mes justes desirs me seriez vous contraire,</l>
+            <l n="758" xml:id="l758">Servirez vous plustost l’ennemy que la Mere :</l>
+            <l n="759" xml:id="l759">Il demande ma fille, et sur quoy ? par quels droits,<pb n="33" xml:id="p33"/></l>
+            <l n="760" xml:id="l760">Son esclave a parlé, mais il n’a point de voix,</l>
+            <l n="761" xml:id="l761">Un homme que le sort dans les <ref target="#fers">fers<hi rend="sup">*</hi></ref> a fait naistre,</l>
+            <l n="762" xml:id="l762">N'a d’autre volonté que celle de son maistre,</l>
+            <l n="763" xml:id="l763">Plustost mort que vivant comblé d’un long <ref target="#ennuy">ennuy<hi rend="sup">*</hi></ref>,</l>
+            <l n="764" xml:id="l764">Il ne peut ny parler ny vivre que pour luy.</l>
+            <l n="765" xml:id="l765">Seigneur, sans écouter ce suspect témoignage,</l>
+            <l n="766" xml:id="l766">De l’amour d’un Espoux, rendez moy le saint gage,</l>
+            <l n="767" xml:id="l767">Pour <ref target="#prononcer">prononcer<hi rend="sup">*</hi></ref> au moins attendez son retour,</l>
+            <l n="768" xml:id="l768">Vous le verrez <ref target="#doute">sans doute<hi rend="sup">*</hi></ref> avant la fin du jour :</l>
+            <l n="769" xml:id="l769">C'est luy qui soutiendra les droits de sa famille,</l>
+            <l n="770" xml:id="l770">C'est à luy de deffendre et de sauver sa fille.</l>
+            <l n="771" xml:id="l771">Brisera-t’on des <ref target="#noeuds">nœuds<hi rend="sup">*</hi></ref> que le sang a formez,</l>
+            <l n="772" xml:id="l772">Ces saints <ref target="#noeuds">nœuds<hi rend="sup">*</hi></ref> par l’amour, par le temps confirmez,</l>
+            <l n="773" xml:id="l773">En condamnant la fille on condamne le Pere,</l>
+            <l n="774" xml:id="l774">Et peut-on luy ravir ce sacré caractere,</l>
+            <l n="775" xml:id="l775">Que la forte nature a pris <ref target="#soins2">soin</ref> de graver,</l>
+            <l n="776" xml:id="l776">Et dont mesme les Dieux ne sçauroient le priver.</l>
+          </sp>
+          <sp xml:id="acte303-3" who="appius">
+            <l n="777" xml:id="l777">Moderez les terreurs de vostre ame craintive,</l>
+            <l n="778" xml:id="l778">Puisque vous le voulez j’attendray qu’il arrive,</l>
+            <l n="779" xml:id="l779">Madame, mais enfin que fera vostre Espoux,</l>
+            <l n="780" xml:id="l780">Que déja ma pitié n’ait pas tenté pour vous,</l>
+            <l n="781" xml:id="l781">Pour tacher de vous rendre une fille si chere,</l>
+            <l n="782" xml:id="l782">Je n’ay pas attendu les larmes de sa mere.</l>
+            <l n="783" xml:id="l783">J'avois formé <ref target="#tantost2">tantost<hi rend="sup">*</hi></ref> un <ref target="#genereux">genereux<hi rend="sup">*</hi></ref> dessein,</l>
+            <l n="784" xml:id="l784">Et que les Dieux <ref target="#doute">sans doute<hi rend="sup">*</hi></ref> avoient mis dans mon sein,</l>
+            <l n="785" xml:id="l785">J'allois avec <ref target="#eclat2">éclat<hi rend="sup">*</hi></ref> reparer sa misere,</l>
+            <l n="786" xml:id="l786">Mais elle a refusé ce conseil salutaire,</l>
+            <l n="787" xml:id="l787">Et preferé les <ref target="#fers">fers<hi rend="sup">*</hi></ref> qui menacent ses jours,</l>
+            <l n="788" xml:id="l788">A la necessité d’accepter mon secours.</l>
+          </sp>
+          <sp xml:id="acte303-4" who="plautie">
+            <l n="789" xml:id="l789">Que dites vous, Seigneur, l’<ref target="#ingrate1">ingrate<hi rend="sup">*</hi></ref> Virginie,</l>
+            <l n="790" xml:id="l790">Refuse le secours qui la rend à Plautie ?</l>
+            <l n="791" xml:id="l791">Et sans égard pour vous, sans tendresse pour moy,<pb n="34" xml:id="p34"/></l>
+            <l n="792" xml:id="l792">Elle ayme mieux subir une si dure loy ?</l>
+            <l n="793" xml:id="l793">Elle se livre entiere au destin qui la jouë,</l>
+            <l n="794" xml:id="l794">Seigneur, s’il est ainsi mon cœur la desavouë,</l>
+            <l n="795" xml:id="l795">Mais ne puis je sçavoir ce dessein glorieux,</l>
+            <l n="796" xml:id="l796">En faveur de ma fille inspiré par les Dieux.</l>
+          </sp>
+          <sp xml:id="acte303-5" who="appius">
+            <l n="797" xml:id="l797">Je la voy qui paroist, elle peut vous l’aprendre,</l>
+            <l n="798" xml:id="l798">Mais songez que des <ref target="#fers">fers<hi rend="sup">*</hi></ref> rien ne la peut deffendre,</l>
+            <l n="799" xml:id="l799">Si toûjours obstinée en son premier dessein,</l>
+            <l n="800" xml:id="l800">Elle fuit les biens-faits qui partent de ma main.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte304">
+          <sp xml:id="acte304-1" who="plautie">
+            <l n="801" xml:id="l801">Qui pourra m’<ref target="#expliquer2">expliquer</ref> ce <ref target="#trouble1">trouble<hi rend="sup">*</hi></ref> et ce silence[, ]</l>
+            <l n="802" xml:id="l802">Du <ref target="#discours">discours<hi rend="sup">*</hi></ref> d’Appius, que faut-il que je pense,</l>
+            <l n="803" xml:id="l803">Ma fille, devois tu refuser le secours,</l>
+            <l n="804" xml:id="l804">Qui te rend à Plautie, et rassure tes jours.</l>
+          </sp>
+          <sp xml:id="acte304-2" who="virginie">
+            <l n="805" xml:id="l805">Ah ! quand vous le sçaurez ce secours si <ref target="#funeste3">funeste<hi rend="sup">*</hi></ref>,</l>
+            <l n="806" xml:id="l806">Vous le détesterez comme je le déteste,</l>
+            <l n="807" xml:id="l807">Dieux ! à quel prix <ref target="#cruel1">cruel<hi rend="sup">*</hi></ref>, à quelle extremité,</l>
+            <l n="808" xml:id="l808">Le perfide Appius a mis ma liberté !</l>
+            <l n="809" xml:id="l809">Dure, dure toûjours le mal-heur qui me <ref target="#presser2">presse<hi rend="sup">*</hi></ref>,</l>
+            <l n="810" xml:id="l810">Si je n’en puis sortir que par cette bassesse.</l>
+          </sp>
+          <sp xml:id="acte304-3" who="plautie">
+            <l n="811" xml:id="l811">Comment. Que pretend il ? quel injuste dessein ?</l>
+          </sp>
+          <sp xml:id="acte304-4" who="virginie">
+            <l n="812" xml:id="l812">Me forcer malgré moy de luy donner la main,</l>
+            <l n="813" xml:id="l813">Il n’a pu me cacher sa tyrannique flame,<pb n="35" xml:id="p35"/></l>
+            <l n="814" xml:id="l814">Ses yeux et ses <ref target="#discours">discours<hi rend="sup">*</hi></ref> m’ont découvert son ame.</l>
+            <l n="815" xml:id="l815">Que vous diray je enfin, vos craintes, mon mal-heur,</l>
+            <l n="816" xml:id="l816">Sont les tristes effets de sa coupable ardeur.</l>
+          </sp>
+          <sp xml:id="acte304-5" who="plautie">
+            <l n="817" xml:id="l817">O <ref target="#coups2">coup<hi rend="sup">*</hi></ref> ! O trahison à jamais inouye,</l>
+            <l n="818" xml:id="l818">Peut-on jusqu’à ce point pousser la perfidie.</l>
+            <l n="819" xml:id="l819">O Ciel ! as-tu permis que le cœur d’un Romain,</l>
+            <l n="820" xml:id="l820">Ait osé concevoir cet horrible dessein.</l>
+          </sp>
+          <sp xml:id="acte304-6" who="virginie">
+            <l n="821" xml:id="l821">Helas ! dans quel état le tyran m’a laissée,</l>
+            <l n="822" xml:id="l822">Le plus sensible <ref target="#effort3">effort<hi rend="sup">*</hi></ref> de ma douleur passée,</l>
+            <l n="823" xml:id="l823">Tout ce que j’ay souffert ne sçauroit égaler,</l>
+            <l n="824" xml:id="l824">Les maux dont son amour commence à m’accabler :</l>
+            <l n="825" xml:id="l825">Mais grands Dieux ! quel sera le désespoir d’Icile,</l>
+            <l n="826" xml:id="l826">Quand de la trahison averty par Camille,</l>
+            <l n="827" xml:id="l827">Il sçaura qu’Appius ne s’arme contre moy,</l>
+            <l n="828" xml:id="l828">Qu'afin de me contraindre à violer ma <ref target="#foy1">foy<hi rend="sup">*</hi></ref>.</l>
+            <l n="829" xml:id="l829">Ah pour tirer raison d’un si <ref target="#cruel1">cruel<hi rend="sup">*</hi></ref> outrage,</l>
+            <l n="830" xml:id="l830">Que n’entreprendront point sa haine et son <ref target="#courage3">courage</ref>,</l>
+            <l n="831" xml:id="l831">Dans quels nouveaux perils se va t’il engager,</l>
+            <l n="832" xml:id="l832"><ref target="#doute">Sans doute<hi rend="sup">*</hi></ref> en ce moment tout prest à se vanger,</l>
+            <l n="833" xml:id="l833" part="I">Il va...</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte305">
+          <sp xml:id="acte305-1" who="icile">
+            <l part="F">Consolez-vous et retenez vos larmes,</l>
+            <l n="834" xml:id="l834">Madame je sçais tout, et conçois vos allarmes,<pb n="36" xml:id="p36"/></l>
+            <l n="835" xml:id="l835">Mais les gemissemens sont icy superflus,    </l>
+            <l n="836" xml:id="l836">Appius perira, vous ne le craindrez plus,</l>
+            <l n="837" xml:id="l837">Nos <ref target="#genereux">genereux<hi rend="sup">*</hi></ref> amis partagent nostre offense,</l>
+            <l n="838" xml:id="l838">Et brulent d’en tirer une prompte vangeance,</l>
+            <l n="839" xml:id="l839">D'abord que le tyran sortira du Palais,</l>
+            <l n="840" xml:id="l840">Tout son sang repandu lavera ses forfaits,</l>
+            <l n="841" xml:id="l841">Et dans le désespoir, Madame, qui me guide,</l>
+            <l n="842" xml:id="l842">Moy seul je perceray le cœur de ce perfide,</l>
+            <l n="843" xml:id="l843">Attendez cet <ref target="#effort3">effort<hi rend="sup">*</hi></ref> de ma juste <ref target="#fureur">fureur<hi rend="sup">*</hi></ref>.</l>
+          </sp>
+          <sp xml:id="acte305-2" who="plautie">
+            <l n="844" xml:id="l844">O Ciel ! quel doux espoir je sens naistre en mon cœur,</l>
+            <l n="845" xml:id="l845">Vous allez immoler la main qui nous outrage,</l>
+            <l n="846" xml:id="l846">Mais Dieux ! en quel dessein vostre amour vous engage,</l>
+            <l n="847" xml:id="l847">Vous vous <ref target="#flatter1">flattez<hi rend="sup">*</hi></ref> en vain de pouvoir l’accabler.</l>
+          </sp>
+          <sp xml:id="acte305-3" who="virginie">
+            <l n="848" xml:id="l848">Cessez, Seigneur, cessez de nous faire trembler,</l>
+            <l n="849" xml:id="l849">De ce <ref target="#fatal1">fatal</ref> projet vous seriez la victime,</l>
+            <l n="850" xml:id="l850">Et quand vous perdriez le tyran qui m’opprime,</l>
+            <l n="851" xml:id="l851">Qu'Appius périroit, croiez que son trépas,</l>
+            <l n="852" xml:id="l852">D'un esclavage affreux ne me sauveroit pas,</l>
+            <l n="853" xml:id="l853">Neuf tyrans resteroient qui pour vanger sa perte,</l>
+            <l n="854" xml:id="l854">Prendroient pour nous punir l’occasion offerte,</l>
+            <l n="855" xml:id="l855">Je verrois ces <ref target="#cruel2">cruels<hi rend="sup">*</hi></ref> armez contre vos jours,</l>
+            <l n="856" xml:id="l856">Se prester à l’envy de <ref target="#funeste5">funestes<hi rend="sup">*</hi></ref> secours,</l>
+            <l n="857" xml:id="l857">Et presenter enfin à mon ame <ref target="#estonner">estonnée<hi rend="sup">*</hi></ref></l>
+            <l n="858" xml:id="l858">Vostre mort, et les <ref target="#fers">fers<hi rend="sup">*</hi></ref> où je suis destinée.</l>
+          </sp>
+          <sp xml:id="acte305-4" who="icile">
+            <l n="859" xml:id="l859">Ne vous allarmez point, craignez moins leur pouvoir,</l>
+            <l n="860" xml:id="l860">Madame, j’ay preveu tout ce qu’il faut prevoir,</l>
+            <l n="861" xml:id="l861">Perdre un de nos Tyrans sans accabler les autres,</l>
+            <l n="862" xml:id="l862">Ce seroit redoubler vos perils et les nostres,</l>
+            <l n="863" xml:id="l863">Pour terminer l’horreur de vostre triste sort,</l>
+            <l n="864" xml:id="l864">De tous les Decemvirs j’ay resolu la mort,<pb n="D. p.37"/></l>
+            <l n="865" xml:id="l865">Et sans borner mes <ref target="#coups6">coups<hi rend="sup">*</hi></ref> à la perte d’un homme,</l>
+            <l n="866" xml:id="l866">Je veux avec vos <ref target="#fers">fers<hi rend="sup">*</hi></ref> rompre encor ceux de Rome,</l>
+            <l n="867" xml:id="l867">Vous vanger l’une et l’autre, et remplir en ce jour,</l>
+            <l n="868" xml:id="l868">Les devoirs de ma <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref>, et ceux de mon amour :</l>
+            <l n="869" xml:id="l869">Je remarque à vos yeux quelle extréme surprise,</l>
+            <l n="870" xml:id="l870">Jette dans vos esprits une telle entreprise,</l>
+            <l n="871" xml:id="l871"><ref target="#doute">Sans doute<hi rend="sup">*</hi></ref> vous croyez que ce hardy projet,</l>
+            <l n="872" xml:id="l872">Est de mon desespoir un temeraire effet,</l>
+            <l n="873" xml:id="l873">Qu'aujourd’huy seulement j’en ay conceu l’idée,</l>
+            <l n="874" xml:id="l874">Mais d’un noble courroux mon ame possedée</l>
+            <l n="875" xml:id="l875">A formé dés longs-temps ce <ref target="#genereux">genereux<hi rend="sup">*</hi></ref> dessein,</l>
+            <l n="876" xml:id="l876">L'amour ne l’a point seul fait naistre dans mon sein ;</l>
+            <l n="877" xml:id="l877">Seulement les malheurs que pour vous j’apprehende,</l>
+            <l n="878" xml:id="l878">Me font precipiter une action si grande.</l>
+            <l n="879" xml:id="l879">Quand je tremble pour vous, rien ne peut m’arrester,</l>
+            <l n="880" xml:id="l880">Et je suis assez fort pour tout executer,</l>
+            <l n="881" xml:id="l881">Nos Tyrans separez dans nos camps, dans la ville,</l>
+            <l n="882" xml:id="l882">Rendent de ce projet le succez plus facile,</l>
+            <l n="883" xml:id="l883">Horace, Numitor, Valere et Lœlius,</l>
+            <l n="884" xml:id="l884">Doivent au Tribunal immoler Oppius :</l>
+            <l n="885" xml:id="l885">Je dois accompagné d’une nombreuse escorte,</l>
+            <l n="886" xml:id="l886">De ce Palais <ref target="#fatal2">fatal<hi rend="sup">*</hi></ref> environner la porte,</l>
+            <l n="887" xml:id="l887">Dont Appius sortant par mille <ref target="#coups8">coups<hi rend="sup">*</hi></ref> certains</l>
+            <l n="888" xml:id="l888">Nous <ref target="#prevenir1">previendrons</ref> l’horreur de ses lâches desseins ;</l>
+            <l n="889" xml:id="l889">Les Chefs, et les soldats n’attendent à l’Armée,</l>
+            <l n="890" xml:id="l890">Que d’oüïr de nos faits parler la Renommée :</l>
+            <l n="891" xml:id="l891">Et dés le mesme instant de nos exploits jaloux,</l>
+            <l n="892" xml:id="l892">Impatiens, <ref target="#heureux2">heureux<hi rend="sup">*</hi></ref>, et hardis comme nous,</l>
+            <l n="893" xml:id="l893">Vous les verrez poussez d’une ardeur magnanime,</l>
+            <l n="894" xml:id="l894">Se disputer l’honneur d’abattre une victime,</l>
+            <l n="895" xml:id="l895">Et sur huit ennemis <ref target="#confondre4">confondans<hi rend="sup">*</hi></ref> leurs <ref target="#effort3">efforts<hi rend="sup">*</hi></ref>,</l>
+            <l n="896" xml:id="l896">A chacun des Tyrans asseurer mille morts,</l>
+            <l n="897" xml:id="l897">Le Peuple fatigué d’un pouvoir tyrannique,</l>
+            <l n="898" xml:id="l898">Est tout prest de finir la misere publique.</l>
+            <l n="899" xml:id="l899">Déja pour l’animer j’ay sceu peindre à ses yeux,</l>
+            <l n="900" xml:id="l900">Les <ref target="#funeste1">funestes<hi rend="sup">*</hi></ref> horreurs qui desolent ces lieux,<pb n="38" xml:id="p38"/></l>
+            <l n="901" xml:id="l901">Les sacrez Tribunaux ouverts à l’avarice,</l>
+            <l n="902" xml:id="l902">Le commerce honteux qu’on fait de la Justice,</l>
+            <l n="903" xml:id="l903">Le Senat depeuplé des Anciens Senateurs,</l>
+            <l n="904" xml:id="l904">Leur puissance donnée à d’indignes flatteurs,</l>
+            <l n="905" xml:id="l905">Le crime triomphant, l’innocence tremblante,</l>
+            <l n="906" xml:id="l906">Du sang de ses Heros Rome toûjours fumante,</l>
+            <l n="907" xml:id="l907">Les tragiques effets du fer et du poison,</l>
+            <l n="908" xml:id="l908">La violence jointe avec la trahison,</l>
+            <l n="909" xml:id="l909">La pudeur <ref target="#exposer1">exposée</ref> à de coupables flames,</l>
+            <l n="910" xml:id="l910">Les vestales en proye à des monstres infames :</l>
+            <l n="911" xml:id="l911">Tous nos Temples detruits, deserts, ou prophanez ;</l>
+            <l n="912" xml:id="l912">Les augures confus, les Prestres consternez :</l>
+            <l n="913" xml:id="l913">Enfin des maux plus grands, un joug moins suportable,</l>
+            <l n="914" xml:id="l914">Que ne fut de Tarquin le regne abominable.</l>
+            <l n="915" xml:id="l915">Le Ciel me favorise, et je puis en ce jour</l>
+            <l n="916" xml:id="l916">Servir la Republique en servant mon amour,</l>
+            <l n="917" xml:id="l917">Si je reviens vainqueur, ma <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref> est infinie,</l>
+            <l n="918" xml:id="l918">J'affranchis ma patrie, et j’acquiers Virginie,</l>
+            <l n="919" xml:id="l919">Et s’il faut succomber dans un si noble <ref target="#effort5">effort<hi rend="sup">*</hi></ref>,</l>
+            <l n="920" xml:id="l920">Où pourrois-je trouver une si belle mort ?</l>
+          </sp>
+          <sp xml:id="acte305-5" who="virginie">
+            <l n="921" xml:id="l921">Je n’ose condamner l’ardeur qui vous entraîne,</l>
+            <l n="922" xml:id="l922">Je vous aime, et je crains, mais j’ay l’ame Romaine,</l>
+            <l n="923" xml:id="l923">L'interest du païs doit icy prevaloir :</l>
+            <l n="924" xml:id="l924">Tout cede dans mon cœur à ce premier devoir,</l>
+            <l n="925" xml:id="l925">Je ne vous aurois pas <ref target="#hazarder2">hazardé<hi rend="sup">*</hi></ref> pour moy-mesme,</l>
+            <l n="926" xml:id="l926">Mais je consens pour luy d’<ref target="#exposer4">exposer<hi rend="sup">*</hi></ref> ce que j’aime,</l>
+            <l n="927" xml:id="l927">Le <ref target="#genereux">genereux<hi rend="sup">*</hi></ref> amour qui regne dans mon coeur :</l>
+            <l n="928" xml:id="l928">Ne veut point d’un <ref target="#amant">Amant<hi rend="sup">*</hi></ref> enchaîner la valeur,</l>
+            <l n="929" xml:id="l929">Je brûle comme vous de voir Rome sauvée,</l>
+            <l n="930" xml:id="l930">De voir vostre <ref target="#vertu2">vertu<hi rend="sup">*</hi></ref> jusqu’aux Cieux elevée,</l>
+            <l n="931" xml:id="l931">Joignez tous les devoirs de Heros et d’<ref target="#amant">Amant<hi rend="sup">*</hi></ref>,</l>
+            <l n="932" xml:id="l932">Ils se peuvent entre eux secourir puissamment,</l>
+            <l n="933" xml:id="l933">Leur union vous offre une double victoire ;</l>
+            <l n="934" xml:id="l934">Du costé de l’amour, du costé de la <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref>,<pb n="39" xml:id="p39"/></l>
+            <l n="935" xml:id="l935">De toutes parts enfin vous serez couronné,</l>
+            <l n="936" xml:id="l936">Comme illustre Guerrier, comme <ref target="#amant">Amant<hi rend="sup">*</hi></ref> fortuné.</l>
+            <l n="937" xml:id="l937">Les Romains <ref target="#admirer">admirant<hi rend="sup">*</hi></ref> cette grande victoire,</l>
+            <l n="938" xml:id="l938">Dresseront des Autels, Seigneur, à vostre <ref target="#gloire3">gloire<hi rend="sup">*</hi></ref>,</l>
+            <l n="939" xml:id="l939">Et moy n’en doutez point à vostre <ref target="#heureux3">heureux<hi rend="sup">*</hi></ref> retour,</l>
+            <l n="940" xml:id="l940">Je prens sur moy le <ref target="#soins2">soin*</ref> de couronner l’amour.</l>
+          </sp>
+          <sp xml:id="acte305-6" who="icile">
+            <l n="941" xml:id="l941" part="I">Ah ! souffrez...</l>
+          </sp>
+          <sp xml:id="acte305-7" who="virginie">
+            <l part="F">Mais helas ! que je suis insensée,</l>
+            <l n="942" xml:id="l942">Je me laisse seduire à ma douce pensée ;</l>
+            <l n="943" xml:id="l943">Peut-estre que le sort nous menace tous deux,</l>
+            <l n="944" xml:id="l944">Le plus juste party n’est pas toûjours <ref target="#heureux2">heureux<hi rend="sup">*</hi></ref> :</l>
+            <l n="945" xml:id="l945">N'importe, allez Seigneur, et si la destinée,</l>
+            <l n="946" xml:id="l946">Marque de vostre mort cette triste journée,</l>
+            <l n="947" xml:id="l947">Je jure que mon sang par ma main répandu,</l>
+            <l n="948" xml:id="l948">Dans le vostre aussi-tost se verra <ref target="#confondre4">confondu<hi rend="sup">*</hi></ref>,</l>
+            <l n="949" xml:id="l949" part="I">Que mon bras...</l>
+          </sp>
+          <sp xml:id="acte305-8" who="icile">
+            <l part="F">Eloignez cette <ref target="#funeste5">funeste<hi rend="sup">*</hi></ref> image,</l>
+            <l n="950" xml:id="l950">J'accepte seulement vostre premier presage.</l>
+            <l n="951" xml:id="l951">J'espere qu’aujourd’huy, content, victorieux,</l>
+            <l n="952" xml:id="l952">Madame, je viendray vous tirer de ces lieux,</l>
+            <l n="953" xml:id="l953" part="I">Adieu.</l>
+          </sp>
+          <sp xml:id="acte305-9" who="plautie">
+            <l part="F">Je vous suivray, Seigneur, et mon <ref target="#courage1">courage<hi rend="sup">*</hi></ref>,</l>
+            <l n="954" xml:id="l954">Veut avoir quelque part dans ce fameux ouvrage.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte306">
+          <sp xml:id="acte306-1" who="virginie">
+            <l n="955" xml:id="l955" part="I">Quoy vous voulez vous-mesme…</l>
+          </sp>
+          <sp xml:id="acte306-2" who="plautie">
+            <l part="F">Oüy, je veux que mes cris,</l>
+            <l n="956" xml:id="l956">Reveillent la <ref target="#vertu2">vertu<hi rend="sup">*</hi></ref> des Romains assoupis,</l>
+            <l n="957" xml:id="l957">Je veux leur inspirer les transports<hi rend="sup">*</hi> de mon ame,</l>
+            <l n="958" xml:id="l958"><ref target="#doute">Sans doute<hi rend="sup">*</hi></ref> ils rougiront en voyant une femme,</l>
+            <l n="959" xml:id="l959">Moins timide cent fois, et plus Romaine qu’eux,</l>
+            <l n="960" xml:id="l960">Tâcher de ranimer cet esprit <ref target="#genereux">genereux<hi rend="sup">*</hi></ref></l>
+            <l n="961" xml:id="l961">Qu'a versé dans leur sein le sang de leurs ancestres,</l>
+            <l n="962" xml:id="l962">Sans cesse revolté contre d’injustes Maistres.</l>
+            <l n="963" xml:id="l963">Ah ! songe quel triomphe, et quel bonheur pour nous</l>
+            <l n="964" xml:id="l964">Si tandis que l’on voit mon invincible Epoux,</l>
+            <l n="965" xml:id="l965">Des perils du dehors, nous sauver, nous deffendre,</l>
+            <l n="966" xml:id="l966">L'on voit en mesme temps son épouse, et son gendre,</l>
+            <l n="967" xml:id="l967">Affranchir Rome encor du joug des Decemvirs :</l>
+            <l n="968" xml:id="l968">Et le sort secondant nos <ref target="#soins2">soins</ref> et nos desirs,</l>
+            <l n="969" xml:id="l969">Nostre famille seule asseurant sa memoire,</l>
+            <l n="970" xml:id="l970">D'un Empire si saint faire toute la <ref target="#gloire1">gloire<hi rend="sup">*</hi></ref>.</l>
+          </sp>
+          <sp xml:id="acte306-3" who="virginie">
+            <l n="971" xml:id="l971">Je conçois la grandeur d’un si noble dessein,</l>
+            <l n="972" xml:id="l972">Mais helas ! que je crains qu’on ne le tente en vain,</l>
+            <l n="973" xml:id="l973" part="I">Je crains...</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte307">
+          <pb n="41" xml:id="p41"/>
+          <sp xml:id="acte307-1" who="severe">
+            <l part="F">N'attendez plus un secours inutile,</l>
+            <l n="974" xml:id="l974">Madame, c’en est fait, on nous enleve Icile ;</l>
+            <l n="975" xml:id="l975">Un traistre qu’il croyait ferme en ses interests,</l>
+            <l n="976" xml:id="l976">Vient d’instruire Appius de ses desseins secrets,</l>
+            <l n="977" xml:id="l977">Dans le moment qu’Icile alloit tout entreprendre ;</l>
+            <l n="978" xml:id="l978">On l’a mis hors d’estat de vous pouvoir deffendre,</l>
+            <l n="979" xml:id="l979">De sa juste colere on <ref target="#prevenir1">previent</ref> les effets,</l>
+            <l n="980" xml:id="l980">On le vient d’arrester en sortant du Palais.</l>
+          </sp>
+          <sp xml:id="acte307-2" who="plautie">
+            <l n="981" xml:id="l981" part="I">O Ciel !</l>
+          </sp>
+          <sp xml:id="acte307-3" who="virginie">
+            <l part="F"><ref target="#cruel2">Cruel<hi rend="sup">*</hi></ref> destin ! quelle perseverance ?</l>
+            <l n="982" xml:id="l982">Puis-je aprés un tel <ref target="#coups2">coup<hi rend="sup">*</hi></ref> avoir quelque esperance ?</l>
+            <l n="983" xml:id="l983">Vous le voyez, Madame, il n’est plus de secours,</l>
+            <l n="984" xml:id="l984">Il est temps de finir mes déplorables jours,</l>
+            <l n="985" xml:id="l985">Icile est arresté, le Ciel nous est contraire,</l>
+            <l n="986" xml:id="l986">Il nous prive à la fois de l’<ref target="#amant">Amant<hi rend="sup">*</hi></ref> et du Pere ;</l>
+            <l n="987" xml:id="l987">C'en est fait, je me livre à mon seul desespoir.</l>
+          </sp>
+          <sp xml:id="acte307-4" who="plautie">
+            <l n="988" xml:id="l988">Ah ! prens sur toy ma fille un peu plus de pouvoir,</l>
+            <l n="989" xml:id="l989">Mourir lorsque le sort rend la vie importune,</l>
+            <l n="990" xml:id="l990">C'est l’ordinaire effet d’une <ref target="#vertu1">vertu<hi rend="sup">*</hi></ref> commune :</l>
+            <l n="991" xml:id="l991">Mais vivre en essuyant ses plus <ref target="#funeste2">funestes<hi rend="sup">*</hi></ref> <ref target="#coups2">coups<hi rend="sup">*</hi></ref>,</l>
+            <l n="992" xml:id="l992">Luy faire voir un cœur plus grand que son courroux,</l>
+            <l n="993" xml:id="l993">C'est-là que la <ref target="#vertu1">vertu<hi rend="sup">*</hi></ref> doit briller davantage,<pb n="42" xml:id="p42"/></l>
+            <l n="994" xml:id="l994">Dans ces extremitez <ref target="#eclater1">éclate<hi rend="sup">*</hi></ref> un grand <ref target="#courage1">courage<hi rend="sup">*</hi></ref>,</l>
+            <l n="995" xml:id="l995">Que te diray-je, enfin, tu dois par ces <ref target="#effort5">efforts<hi rend="sup">*</hi></ref>,</l>
+            <l n="996" xml:id="l996">Me prouver qu’en effet c’est de moy que tu sors.</l>
+          </sp>
+          <sp xml:id="acte307-5" who="virginie">
+            <l n="997" xml:id="l997">Qu'exigez-vous de moy ? pourquoy vouloir Madame,</l>
+            <l n="998" xml:id="l998">Faire durer les maux qui déchirent mon ame,</l>
+            <l n="999" xml:id="l999">La mort les eût finis : loin de vous allarmer,</l>
+            <l n="1000" xml:id="l1000">A ce juste dessein vous deviez m’animer,</l>
+            <l n="1001" xml:id="l1001">Preste à souffrir des <ref target="#fers">fers<hi rend="sup">*</hi></ref> l’affreuse ignominie,</l>
+            <l n="1002" xml:id="l1002">Rien ne semble à mon cœur si <ref target="#cruel3">cruel<hi rend="sup">*</hi></ref> que la vie :</l>
+            <l n="1003" xml:id="l1003">Helas ! pour me tirer du gouffre où je me voy,</l>
+            <l n="1004" xml:id="l1004">Quelles mains ! quels amis voudront s’armer pour moy.</l>
+          </sp>
+          <sp xml:id="acte307-6" who="plautie">
+            <l n="1005" xml:id="l1005">Tout les Romains[, ] ta cause est la cause commune,</l>
+            <l n="1006" xml:id="l1006">Il s’agit de leur sort comme de ta fortune,</l>
+            <l n="1007" xml:id="l1007">Le perfide Appius a commencé par nous,</l>
+            <l n="1008" xml:id="l1008">Mais demain sur quelque autre il portera ses <ref target="#coups1">coups<hi rend="sup">*</hi></ref>,</l>
+            <l n="1009" xml:id="l1009">Si tous nos citoyens armez pour ta deffence</l>
+            <l n="1010" xml:id="l1010">N'asseurent leur repos en vangeant nostre offense,</l>
+            <l n="1011" xml:id="l1011">Je vay par un recit des maux que je prevoy</l>
+            <l n="1012" xml:id="l1012">Faire trembler les cœurs des Meres comme moy :</l>
+            <l n="1013" xml:id="l1013">Je vay les allarmer pour toute leur famille,</l>
+            <l n="1014" xml:id="l1014">Par l’exemple inoüy des malheurs de ma fille,</l>
+            <l n="1015" xml:id="l1015">Je vay tout animer contre Appius, enfin,    </l>
+            <l n="1016" xml:id="l1016">Je cours perir moy mesme, ou changer ton destin.</l>
+          </sp>
+          <sp xml:id="acte307-7" who="virginie">
+            <l n="1017" xml:id="l1017">Secondez Dieux puissans ce desir legitime,</l>
+            <l n="1018" xml:id="l1018">Que si pour vous fléchir il faut une victime,</l>
+            <l n="1019" xml:id="l1019">Frapez me voilà preste, et par un prompt <ref target="#effort3">effort<hi rend="sup">*</hi></ref>,</l>
+            <l n="1020" xml:id="l1020">Epargnez-moy des maux plus <ref target="#cruel3">cruels<hi rend="sup">*</hi></ref> que la mort.</l>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="acte4" type="act">
+        <pb n="43" xml:id="p43"/>
+        <div type="scene" xml:id="acte401">
+          <sp xml:id="acte401-1" who="clodius">
+            <l n="1021" xml:id="l1021">Ouy ce Rival <ref target="#heureux1">heureux<hi rend="sup">*</hi></ref> par la fin de sa vie,</l>
+            <l n="1022" xml:id="l1022">Bien-tost à vos <ref target="#transports2">transports<hi rend="sup">*</hi></ref> livrera Virginie,</l>
+            <l n="1023" xml:id="l1023">Que tardez-vous, Seigneur, à le faire perir ?</l>
+            <l n="1024" xml:id="l1024">Vangez-vous des tourmens qu’il vous a fait souffrir,</l>
+            <l n="1025" xml:id="l1025">Craignez-vous par sa mort de vous <ref target="#charger1">charger<hi rend="sup">*</hi></ref> d’un crime,</l>
+            <l n="1026" xml:id="l1026" part="I">Croyez-vous...</l>
+          </sp>
+          <sp xml:id="acte401-2" who="appius">
+            <l part="F">Non, je croy sa peine legitime,</l>
+            <l n="1027" xml:id="l1027">N'a-t’il pas hautement par un lâche attentat,</l>
+            <l n="1028" xml:id="l1028">Assemblé ses amis, voulu <ref target="#troubler3">troubler<hi rend="sup">*</hi></ref> l’Etat,</l>
+            <l n="1029" xml:id="l1029">Sa perte en ce moment est juste et necessaire,</l>
+            <l n="1030" xml:id="l1030" part="I">Mais Virginie…</l>
+          </sp>
+          <sp xml:id="acte401-3" who="clodius">
+            <l part="F">Eh bien craignez-vous sa colere,</l>
+            <l n="1031" xml:id="l1031">Detrompez-vous, Seigneur, peut-estre qu’aujourd’huy,</l>
+            <l n="1032" xml:id="l1032">Elle attend un pretexte à renoncer à luy ;<pb n="44" xml:id="p44"/></l>
+            <l n="1033" xml:id="l1033">Peut-estre qu’en secret sensible à vostre <ref target="#gloire1">gloire<hi rend="sup">*</hi></ref>,</l>
+            <l n="1034" xml:id="l1034">Son cœur déja <ref target="#charmer2">charmé<hi rend="sup">*</hi></ref> vous cede la victoire,</l>
+            <l n="1035" xml:id="l1035">Mais l’honneur fier Tyran de ses <ref target="#voeux1">vœux</ref> les plus doux,</l>
+            <l n="1036" xml:id="l1036">L'empesche seulement de s’unir avec vous.</l>
+            <l n="1037" xml:id="l1037">Epargnez-luy, Seigneur, la <ref target="#cruel1">cruelle<hi rend="sup">*</hi></ref> contrainte,</l>
+            <l n="1038" xml:id="l1038">D'entendre<hi rend="sup">*</hi> d’un <ref target="#amant">Amant<hi rend="sup">*</hi></ref> la pitoyable plainte,</l>
+            <l n="1039" xml:id="l1039">Perdez-le, et par sa mort asseurez-vous d’un cœur,</l>
+            <l n="1040" xml:id="l1040">Déja presque insensible à sa premiere ardeur,</l>
+            <l n="1041" xml:id="l1041">Et qui pour se donner n’attend plus rien peut-estre,</l>
+            <l n="1042" xml:id="l1042">Que l’<ref target="#eclat2">éclat<hi rend="sup">*</hi></ref> d’un amour qui doit parler en maistre.</l>
+          </sp>
+          <sp xml:id="acte401-4" who="appius">
+            <l n="1043" xml:id="l1043">Quelle honte pour moy, s’il faut que mon amour,</l>
+            <l n="1044" xml:id="l1044">Pour vaincre mon Rival luy ravisse le jour ;</l>
+            <l n="1045" xml:id="l1045">Quel triomphe pour luy, quelle <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref> immortelle,</l>
+            <l n="1046" xml:id="l1046">De n’avoir jamais veu Virginie infidelle,</l>
+            <l n="1047" xml:id="l1047">D'avoir gardé son cœur, enfin d’avoir vaincu,</l>
+            <l n="1048" xml:id="l1048">Ma grandeur, et mes feux tant qu’il aura vescu.</l>
+          </sp>
+          <sp xml:id="acte401-5" who="clodius">
+            <l n="1049" xml:id="l1049">Et qu’importe, Seigneur, quel scrupule vous <ref target="#presser1">presse<hi rend="sup">*</hi></ref>.</l>
+          </sp>
+          <sp xml:id="acte401-6" who="appius">
+            <l n="1050" xml:id="l1050">J'aime pour mon malheur avec trop de tendresse,</l>
+            <l n="1051" xml:id="l1051">Enfin de mon Rival je me vangeray mieux,</l>
+            <l n="1052" xml:id="l1052">Si je puis épouser Virginie à ses yeux :</l>
+            <l n="1053" xml:id="l1053">J'attens icy l’<ref target="#ingrate2">ingrate<hi rend="sup">*</hi></ref>, et ne veux plus luy taire,</l>
+            <l n="1054" xml:id="l1054">De nos desseins secrets le dangereux mystere ;</l>
+            <l n="1055" xml:id="l1055">Je vay tout employer pour ébranler sa foi,</l>
+            <l n="1056" xml:id="l1056">Priere, <ref target="#soins3">soin<hi rend="sup">*</hi></ref>, respect, amour, menace, effroy.</l>
+            <l n="1057" xml:id="l1057">J'espere que des <ref target="#fers">fers<hi rend="sup">*</hi></ref> l’épouvantable image,</l>
+            <l n="1058" xml:id="l1058">Et qu’Icile mourant fléchiront son <ref target="#courage1">courage<hi rend="sup">*</hi></ref>,</l>
+            <l n="1059" xml:id="l1059">Je vay luy faire voir son <ref target="#amant">Amant<hi rend="sup">*</hi></ref> enchaîné,</l>
+            <l n="1060" xml:id="l1060">Aux plus <ref target="#cruel3">cruels<hi rend="sup">*</hi></ref> tourmens, à la mort condamné,</l>
+            <l n="1061" xml:id="l1061">Il est instruit déja que pour sauver sa vie,</l>
+            <l n="1062" xml:id="l1062">Il doit en ma faveur parler à Virginie,</l>
+            <l n="1063" xml:id="l1063">Qu'il ne peut qu’à ce prix échaper à la mort,<pb n="45" xml:id="p45"/></l>
+            <l n="1064" xml:id="l1064">Peut-estre mon Rival fera-t’il cet <ref target="#effort5">effort<hi rend="sup">*</hi></ref>.</l>
+            <l n="1065" xml:id="l1065">Que je serois <ref target="#heureux1">heureux<hi rend="sup">*</hi></ref> si par cette foiblesse,</l>
+            <l n="1066" xml:id="l1066">Il ne meritoit plus l’<ref target="#objet1">objet<hi rend="sup">*</hi></ref> de sa tendresse,</l>
+            <l n="1067" xml:id="l1067">Qu'en la tenant de luy j’eusse encor la douceur,</l>
+            <l n="1068" xml:id="l1068">D'avoir fletry sa <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref>, et fait trembler son cœur,</l>
+            <l n="1069" xml:id="l1069">Cependant, cours amy, t’informer dans la Ville,</l>
+            <l n="1070" xml:id="l1070">Des <ref target="#discours">discours<hi rend="sup">*</hi></ref>, des desseins des Partisans d’Icile,</l>
+            <l n="1071" xml:id="l1071">Examine avec <ref target="#soins2">soin</ref>, observe exactement,</l>
+            <l n="1072" xml:id="l1072">Les démarches qu’ils font, leur moindre mouvement :</l>
+            <l n="1073" xml:id="l1073">Va, tu m’aprendras tout, comme témoin fidelle,</l>
+            <l n="1074" xml:id="l1074">Virginie entre, il faut m’<ref target="#expliquer2">expliquer</ref> avec elle.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte402">
+          <sp xml:id="acte402-1" who="appius">
+            <l n="1075" xml:id="l1075">Madame, il faut enfin vous découvrir mon cœur,</l>
+            <l n="1076" xml:id="l1076">Il faut de mon amour vous declarer l’ardeur,</l>
+            <l n="1077" xml:id="l1077">En ce moment <ref target="#fatal3">fatal<hi rend="sup">*</hi></ref> je ne sçaurois plus feindre,</l>
+            <l n="1078" xml:id="l1078">Depuis assez longtemps je cherche à me contraindre,</l>
+            <l n="1079" xml:id="l1079">Pour vous j’ay tout trahy <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref>, devoir, employ,</l>
+            <l n="1080" xml:id="l1080">L'amour fait tous mes <ref target="#soins2">soins</ref>, et mon unique loy,</l>
+            <l n="1081" xml:id="l1081">Je suy les mouvemens d’une aveugle tendresse,</l>
+            <l n="1082" xml:id="l1082">Et si vostre pitié pour moy ne <ref target="#interesser">s’interesse<hi rend="sup">*</hi></ref>,</l>
+            <l n="1083" xml:id="l1083">Songez que rien ne peut ébranler mon dessein,</l>
+            <l n="1084" xml:id="l1084">Que je ne perdray pas toute ma <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref> en vain,</l>
+            <l n="1085" xml:id="l1085" part="I">Songez...</l>
+          </sp>
+          <sp xml:id="acte402-2" who="virginie">
+            <l part="F">Vous m’aimez donc, Seigneur, et vostre flame</l>
+            <l n="1086" xml:id="l1086">Par d’illustres effets se declare à mon ame.<pb n="46" xml:id="p46"/></l>
+            <l n="1087" xml:id="l1087">Barbare, de quel front m’osez-vous presenter</l>
+            <l n="1088" xml:id="l1088">Une main <ref target="#attacher2">attachée<hi rend="sup">*</hi></ref> à me persecuter ?</l>
+            <l n="1089" xml:id="l1089">Je fremis à la voir cette main violente,</l>
+            <l n="1090" xml:id="l1090">Qui m’arracha des bras d’une mere tremblante,</l>
+            <l n="1091" xml:id="l1091">Qui m’a déja causé tant de malheurs divers,</l>
+            <l n="1092" xml:id="l1092">Et pour toucher mon cœur me presente des <ref target="#fers">fers<hi rend="sup">*</hi></ref> :</l>
+            <l n="1093" xml:id="l1093">Comment avez-vous crû qu’au mépris de ma <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref></l>
+            <l n="1094" xml:id="l1094">Mon cœur lâche et cedant une indigne victoire,</l>
+            <l n="1095" xml:id="l1095">D'un si <ref target="#funeste1">funeste<hi rend="sup">*</hi></ref> Hymen voulût former les nœuds,</l>
+            <l n="1096" xml:id="l1096">Et joindre l’innocence à vos crimes affreux.</l>
+          </sp>
+          <sp xml:id="acte402-3" who="appius">
+            <l n="1097" xml:id="l1097">Ah <ref target="#cruel5">cruelle<hi rend="sup">*</hi></ref> ! est-ce à vous de parler de mes crimes,</l>
+            <l n="1098" xml:id="l1098">Leur seule cause helas ! les rend trop legitimes,</l>
+            <l n="1099" xml:id="l1099">Est-ce à vous de montrer à mon cœur abbatu,</l>
+            <l n="1100" xml:id="l1100">Qu'il a soüillé sa <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref> et trahy sa <ref target="#vertu1">vertu<hi rend="sup">*</hi></ref> ?</l>
+            <l n="1101" xml:id="l1101">M'osez-vous reprocher mon ardeur criminelle,</l>
+            <l n="1102" xml:id="l1102">Vous qui rendez mon cœur à son devoir rebelle,</l>
+            <l n="1103" xml:id="l1103">Vous qui seule causez mes forfaits odieux,</l>
+            <l n="1104" xml:id="l1104">Ah ! je puis justement en accuser vos yeux,</l>
+            <l n="1105" xml:id="l1105">Leur demander raison des malheurs de ma flame,</l>
+            <l n="1106" xml:id="l1106">De mon repos perdu, du <ref target="#trouble2">trouble<hi rend="sup">*</hi></ref> de mon ame,</l>
+            <l n="1107" xml:id="l1107">D'avoir de mon esprit malgré mes <ref target="#soins2">soins</ref> prudens,</l>
+            <l n="1108" xml:id="l1108">Effacé les leçons de plus de quarante ans,</l>
+            <l n="1109" xml:id="l1109">Et d’avoir fait enfin par un <ref target="#coups7">coup<hi rend="sup">*</hi></ref> effroyable,</l>
+            <l n="1110" xml:id="l1110">D'un Souverain <ref target="#heureux1">heureux<hi rend="sup">*</hi></ref> un <ref target="#amant">Amant<hi rend="sup">*</hi></ref> miserable.</l>
+            <l n="1111" xml:id="l1111">Aussi n’esperez pas de pouvoir m’abuser,</l>
+            <l n="1112" xml:id="l1112">Je connois la raison qui vous fait m’accuser,</l>
+            <l n="1113" xml:id="l1113">Pour un <ref target="#heureux1">heureux<hi rend="sup">*</hi></ref> Rival vostre ardeur empressée,</l>
+            <l n="1114" xml:id="l1114">Fait que de tous mes <ref target="#soins3">soins<hi rend="sup">*</hi></ref> vous estes offensée :</l>
+            <l n="1115" xml:id="l1115">Cet Icile l’<ref target="#objet1">objet<hi rend="sup">*</hi></ref> de vos ardens souhaits,</l>
+            <l n="1116" xml:id="l1116" part="I">Me deffend...</l>
+          </sp>
+          <sp xml:id="acte402-4" who="virginie">
+            <l part="F">Oüy je l’aime autant que je vous hais.</l>
+            <l n="1117" xml:id="l1117">Vous me tyrannisez, il m’a toûjours servie,</l>
+            <l n="1118" xml:id="l1118">Il fait tout le bon-heur, vous l’horreur de ma vie :</l>
+            <l n="1119" xml:id="l1119">Et je voyois enfin dans cet illustre Epoux,<pb n="47" xml:id="p47"/></l>
+            <l n="1120" xml:id="l1120">Encor plus de <ref target="#vertu1">vertus<hi rend="sup">*</hi></ref> que de crimes en vous.</l>
+          </sp>
+          <sp xml:id="acte402-5" who="appius">
+            <l n="1121" xml:id="l1121">On conserve sans peine une entiere innocence,</l>
+            <l n="1122" xml:id="l1122">Quand un bon-heur constant, <ref target="#prevenir2">previent</ref> nostre esperance,</l>
+            <l n="1123" xml:id="l1123">Icile satisfait dans ses <ref target="#voeux1">vœux</ref> les plus doux,</l>
+            <l n="1124" xml:id="l1124">Tranquille, glorieux, enfin aimé de vous ;</l>
+            <l n="1125" xml:id="l1125">A-t’il pû jusqu’icy se <ref target="#charger1">charger<hi rend="sup">*</hi></ref> d’aucun crime ?</l>
+            <l n="1126" xml:id="l1126">Mais si de vos mépris déplorable victime,</l>
+            <l n="1127" xml:id="l1127">Accablé des tourmens que mon cœur a soufferts,</l>
+            <l n="1128" xml:id="l1128">Il avoit ressenty tout le poids de mes <ref target="#fers">fers<hi rend="sup">*</hi></ref>,</l>
+            <l n="1129" xml:id="l1129">Si vous l’aviez contraint d’aimer sans esperance,</l>
+            <l n="1130" xml:id="l1130">Qu'il eut eu comme moy la supréme puissance :</l>
+            <l n="1131" xml:id="l1131">Cet Icile à vos yeux digne de vostre <ref target="#foy1">foy<hi rend="sup">*</hi></ref>,</l>
+            <l n="1132" xml:id="l1132">Seroit peut-estre encor plus coupable que moy,</l>
+            <l n="1133" xml:id="l1133">Ah ! son bon-heur allume un courroux dans mon ame,</l>
+            <l n="1134" xml:id="l1134">Qui pourroit... mais songez à répondre à ma flame,</l>
+            <l n="1135" xml:id="l1135" part="I">Autrement malgré moy...</l>
+          </sp>
+          <sp xml:id="acte402-6" who="virginie">
+            <l part="F">Favorable retour,</l>
+            <l n="1136" xml:id="l1136">Vostre courroux me plaist bien plus que vostre amour,</l>
+            <l n="1137" xml:id="l1137">Menacez, accablez l’impuissante innocence,</l>
+            <l n="1138" xml:id="l1138">Je crains moins les tourments qu’un amour qui m’offence,</l>
+            <l n="1139" xml:id="l1139">Je prefere mes maux à d’injustes bien-faits,</l>
+            <l n="1140" xml:id="l1140">Armez vostre <ref target="#fureur">fureur<hi rend="sup">*</hi></ref>, j’en brave les effets.</l>
+          </sp>
+          <sp xml:id="acte402-7" who="appius">
+            <l n="1141" xml:id="l1141">Hé bien, pour me vanger de vostre <ref target="#ingratitude">ingratitude</ref>,</l>
+            <l n="1142" xml:id="l1142">Vos malheurs ne sont pas un supplice assez rude,</l>
+            <l n="1143" xml:id="l1143">Et je veux desormais vous porter d’autres <ref target="#coups8">coups<hi rend="sup">*</hi></ref>,</l>
+            <l n="1144" xml:id="l1144">Moins <ref target="#funeste1">funestes<hi rend="sup">*</hi></ref> pour moy, mais plus <ref target="#cruel3">cruels<hi rend="sup">*</hi></ref> pour vous,</l>
+            <l n="1145" xml:id="l1145">Je jure qu’il n’est rien que ma <ref target="#fureur">fureur<hi rend="sup">*</hi></ref> ne tente,<pb n="48" xml:id="p48"/></l>
+            <l n="1146" xml:id="l1146">L'<ref target="#amant">Amant<hi rend="sup">*</hi></ref> me répondra des mépris de l’<ref target="#amant">Amante<hi rend="sup">*</hi></ref> ;</l>
+            <l n="1147" xml:id="l1147">C'est luy qui rend pour moy vostre cœur si <ref target="#cruel5">cruel<hi rend="sup">*</hi></ref>,</l>
+            <l n="1148" xml:id="l1148">Et puisque vous l’aimez, il est trop criminel.</l>
+            <l n="1149" xml:id="l1149">Il faut par un seul <ref target="#coups8">coup<hi rend="sup">*</hi></ref> accabler l’un et l’autre ;</l>
+            <l n="1150" xml:id="l1150">Je perceray son cœur qui me ravit le vostre,</l>
+            <l n="1151" xml:id="l1151">Pour gouster à la fois le plaisir sans egal,</l>
+            <l n="1152" xml:id="l1152">De punir vos dédains, et de perdre un Rival.</l>
+          </sp>
+          <sp xml:id="acte402-8" who="virginie">
+            <l n="1153" xml:id="l1153" part="I">Helas Seigneur...</l>
+          </sp>
+          <sp xml:id="acte402-9" who="appius">
+            <l part="F">Pour vous la menace est terrible,</l>
+            <l n="1154" xml:id="l1154">Je vous frape à la fin par vostre endroit sensible,</l>
+            <l n="1155" xml:id="l1155">Mais ne m’accusez point, c’est vous qui l’ordonnez</l>
+            <l n="1156" xml:id="l1156">Et c’est par vos mépris que vous l’assassinez.</l>
+          </sp>
+          <sp xml:id="acte402-10" who="virginie">
+            <l n="1157" xml:id="l1157">Il mourra donc, Seigneur, et c’est moy qui l’opprime,</l>
+            <l n="1158" xml:id="l1158">N'importe, je suivray cette chere victime,</l>
+            <l n="1159" xml:id="l1159">Et par ce grand effet d’une immortelle <ref target="#foy3">foy<hi rend="sup">*</hi></ref>,</l>
+            <l n="1160" xml:id="l1160">Je le vangeray bien si vous brulez pour moy,</l>
+            <l n="1161" xml:id="l1161">Vostre esprit libre alors de sa jalouse envie,</l>
+            <l n="1162" xml:id="l1162">Verra qu’un mesme <ref target="#coups8">coup<hi rend="sup">*</hi></ref> aura finy ma vie,</l>
+            <l n="1163" xml:id="l1163">Et j’auray ce plaisir parmy tous mes mal-heurs,</l>
+            <l n="1164" xml:id="l1164">Que la mort d’un Rival vous coutera des pleurs.</l>
+          </sp>
+          <sp xml:id="acte402-11" who="appius">
+            <l n="1165" xml:id="l1165">Madame, prevenons<hi rend="sup">*</hi> un mal-heur si <ref target="#funeste5">funeste<hi rend="sup">*</hi></ref>,</l>
+            <l n="1166" xml:id="l1166">Du temps que je vous donne employez mieux le reste,</l>
+            <l n="1167" xml:id="l1167">Icile en ce moment va parestre à vos yeux,</l>
+            <l n="1168" xml:id="l1168">J'ay moy mesme ordonné qu’on l’ameine en ces lieux.</l>
+            <l n="1169" xml:id="l1169" part="I">Il vient.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte403">
+          <pb n="E. p.49"/>
+          <sp xml:id="acte403-1" who="appius">
+            <l part="F">Derobez vous au <ref target="#coups1">coup<hi rend="sup">*</hi></ref> qui vous menace,</l>
+            <l n="1170" xml:id="l1170">Icile, par vos <ref target="#soins2">soins</ref> meritez vostre grace ;    </l>
+            <l n="1171" xml:id="l1171">Madame, songez y, vous sçavez mon dessein,</l>
+            <l n="1172" xml:id="l1172">Il me faut dés ce soir son sang ou vostre main,</l>
+            <l n="1173" xml:id="l1173">Je sors pour un moment ; Gardes qu’on se retire :</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte404">
+          <sp xml:id="acte404-1" who="virginie">
+            <l n="1174" xml:id="l1174">Vous avez <ref target="#entendre2">entendu</ref> ce qu’il vient de nous dire,</l>
+            <l n="1175" xml:id="l1175">Cessons de nous <ref target="#flatter1">flatter<hi rend="sup">*</hi></ref>, voicy le jour affreux,</l>
+            <l n="1176" xml:id="l1176">Où l’on va pour jamais nous separer tous deux,</l>
+            <l n="1177" xml:id="l1177">De nostre <ref target="#heureux3">heureux<hi rend="sup">*</hi></ref> Hymen l’esperance est perduë,</l>
+            <l n="1178" xml:id="l1178">Je ne puis qu’un moment jouïr de vostre veuë,</l>
+            <l n="1179" xml:id="l1179">Et vous n’ignorez pas à quel <ref target="#funeste1">funeste<hi rend="sup">*</hi></ref> prix,</l>
+            <l n="1180" xml:id="l1180">Ce dernier entretien vient de m’estre permis.</l>
+          </sp>
+          <sp xml:id="acte404-2" who="icile">
+            <l n="1181" xml:id="l1181">Je sçay que contre moy on met tout en usage,</l>
+            <l n="1182" xml:id="l1182">Mesme pour essayer d’ébranler mon <ref target="#courage1">courage<hi rend="sup">*</hi></ref>,<pb n="50" xml:id="p50"/></l>
+            <l n="1183" xml:id="l1183">On a fait en passant étaler à mes yeux,</l>
+            <l n="1184" xml:id="l1184">De mon trépas certain l’apareil odieux ;</l>
+            <l n="1185" xml:id="l1185">Et les tristes apprests des tourmens redoutables,</l>
+            <l n="1186" xml:id="l1186">Dont la rigueur des loix punit les grands coupables ;</l>
+            <l n="1187" xml:id="l1187">Mais parmy ces <ref target="#objet3">objets<hi rend="sup">*</hi></ref> mon cœur sans s’émouvoir,</l>
+            <l n="1188" xml:id="l1188">N'a songé seulement qu’au plaisir de vous voir :</l>
+            <l n="1189" xml:id="l1189">Madame qu’il m’est doux de vous parler encore,</l>
+            <l n="1190" xml:id="l1190">De pouvoir attendrir la beauté que j’<ref target="#adorer">adore<hi rend="sup">*</hi></ref> ;</l>
+            <l n="1191" xml:id="l1191">Et de voir une fois, au moins avant ma mort,</l>
+            <l n="1192" xml:id="l1192">Vos yeux donner des pleurs à mon <ref target="#funeste5">funeste<hi rend="sup">*</hi></ref> sort ;</l>
+            <l n="1193" xml:id="l1193">Car ne présumez pas que mon ame <ref target="#estonner">étonnée<hi rend="sup">*</hi></ref>,</l>
+            <l n="1194" xml:id="l1194">Vienne vous conseiller un honteux hymenée,</l>
+            <l n="1195" xml:id="l1195">Si le lache Appius estoit digne de vous,</l>
+            <l n="1196" xml:id="l1196">J'oserois vous prier d’en faire vostre Epoux,</l>
+            <l n="1197" xml:id="l1197">Je vous immolerois mon amour et ma vie,</l>
+            <l n="1198" xml:id="l1198">Je serois trop <ref target="#heureux1">heureux<hi rend="sup">*</hi></ref> de vous avoir servie,</l>
+            <l n="1199" xml:id="l1199">Et d’avoir en mourant pû mettre entre vos mains</l>
+            <l n="1200" xml:id="l1200">La supreme puissance, et le sort des Romains ;</l>
+            <l n="1201" xml:id="l1201">Ne pensez pas aussi que je vienne, Madame,</l>
+            <l n="1202" xml:id="l1202">Pour vous solliciter en faveur de ma flame,</l>
+            <l n="1203" xml:id="l1203">Vostre bonté pour moy feroit tomber sur vous,</l>
+            <l n="1204" xml:id="l1204">La <ref target="#fureur">fureur<hi rend="sup">*</hi></ref> d’un Rival tout puissant et jaloux.</l>
+            <l n="1205" xml:id="l1205" part="I">Sauvez-vous...</l>
+          </sp>
+          <sp xml:id="acte404-3" who="virginie">
+            <l part="F">Arrestez, en ce mal-heur extreme,</l>
+            <l n="1206" xml:id="l1206">Je pretens désormais me conseiller moy mesme ;</l>
+            <l n="1207" xml:id="l1207">Je voy ce qu’il faut faire et ne balance plus</l>
+            <l n="1208" xml:id="l1208">Vos conseils et vos <ref target="#soins2">soins</ref> sont icy superflus,</l>
+            <l n="1209" xml:id="l1209">Je sçay par ou finir vos maux et ma misere,</l>
+            <l n="1210" xml:id="l1210" part="I">Et dés ce mesme jour...</l>
+          </sp>
+          <sp xml:id="acte404-4" who="icile">
+            <l part="F">Quoy ? que voulez vous faire,</l>
+            <l n="1211" xml:id="l1211">Par où pretendez vous nous pouvoir secourir ?</l>
+            <l n="1212" xml:id="l1212" part="I">Qu'avez vous resolu, Madame ?</l>
+          </sp>
+          <sp xml:id="acte404-5" who="virginie">
+            <pb n="51" xml:id="p51"/>
+            <l part="F">De mourir,</l>
+          </sp>
+          <sp xml:id="acte404-6" who="icile">
+            <l n="1213" xml:id="l1213" part="I">Ah Ciel !</l>
+          </sp>
+          <sp xml:id="acte404-7" who="virginie">
+            <l part="F">Le sort nous force à perir l’un et l’autre,</l>
+            <l n="1214" xml:id="l1214">Mais souffrez que ma mort precede au moins la vôtre ;</l>
+            <l n="1215" xml:id="l1215">Je le veux, vostre cœur ne doit point l’envier,</l>
+            <l n="1216" xml:id="l1216">Le plus foible des deux doit mourir le premier,</l>
+            <l n="1217" xml:id="l1217">J'ay du <ref target="#courage1">courage<hi rend="sup">*</hi></ref> assez pour m’immoler moy mesme,</l>
+            <l n="1218" xml:id="l1218">Et n’en ay point pour voir expirer ce que j’ayme.</l>
+          </sp>
+          <sp xml:id="acte404-8" who="icile">
+            <l n="1219" xml:id="l1219">Ah renoncez Madame à  ce <ref target="#cruel2">cruel<hi rend="sup">*</hi></ref> dessein !</l>
+            <l n="1220" xml:id="l1220" part="I">J'en fremis...</l>
+          </sp>
+          <sp xml:id="acte404-9" who="virginie">
+            <l part="F">Vous tremblez, et vous estes Romain.</l>
+          </sp>
+          <sp xml:id="acte404-10" who="icile">
+            <l n="1221" xml:id="l1221">Ouy, je tremble <ref target="#doute">sans doute<hi rend="sup">*</hi></ref>, et je vous le confesse,</l>
+            <l n="1222" xml:id="l1222">Mais mon cœur s’aplaudit d’avoir cette foiblesse,</l>
+            <l n="1223" xml:id="l1223">Je verrois vos beaux yeux se fermer pour jamais.</l>
+            <l n="1224" xml:id="l1224" part="I">Ah plutost...</l>
+          </sp>
+          <sp xml:id="acte404-11" who="virginie">
+            <l part="F">Le trépas fait mes plus doux souhaits,</l>
+            <l n="1225" xml:id="l1225">Mourons, puisqu’il le faut <ref target="#genereux">genereux<hi rend="sup">*</hi></ref> et fidelles,</l>
+            <l n="1226" xml:id="l1226">Emportons au tombeau nos ardeurs mutuelles ;</l>
+            <l n="1227" xml:id="l1227">Servons de noble exemple aux siecles à venir,</l>
+            <l n="1228" xml:id="l1228">D'une <ref target="#foy1">foy<hi rend="sup">*</hi></ref> que la mort n’aura pû des-unir,</l>
+            <l n="1229" xml:id="l1229">Remportons du Tyran une entiere victoire,</l>
+            <l n="1230" xml:id="l1230">Mourons, et me laissant partager vostre <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref>,</l>
+            <l n="1231" xml:id="l1231">Faisons que l’univers deplore nostre mort,</l>
+            <l n="1232" xml:id="l1232">Et forçons le Tyran d’envier nostre sort.</l>
+          </sp>
+          <sp xml:id="acte404-12" who="icile">
+            <l n="1233" xml:id="l1233">Non, Madame, vivez... Mais le Tyran s’aproche,</l>
+            <l n="1234" xml:id="l1234">C'en est fait, de ma mort l’instant <ref target="#fatal4">fatal<hi rend="sup">*</hi></ref> est proche,</l>
+            <l n="1235" xml:id="l1235">Le suplice m’attend au sortir de ce lieu,<pb n="52" xml:id="p52"/></l>
+            <l n="1236" xml:id="l1236">L'appareil est tout prest, et pour jamais adieu,</l>
+            <l n="1237" xml:id="l1237">Je ne vous verray plus... mais je vous prie encore,</l>
+            <l n="1238" xml:id="l1238">C'est le dernier souhait d’un cœur qui vous <ref target="#adorer">adore<hi rend="sup">*</hi></ref>,</l>
+            <l n="1239" xml:id="l1239" part="I">De vouloir...</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte405">
+          <sp xml:id="acte405-1" who="appius">
+            <l part="F">Quel succés aura vostre entretien,</l>
+            <l n="1240" xml:id="l1240" part="I">Qu'avez vous resolu, parlez, Icile.</l>
+          </sp>
+          <sp xml:id="acte405-2" who="icile">
+            <l part="F">Rien.</l>
+          </sp>
+          <sp xml:id="acte405-3" who="appius">
+            <l n="1241" xml:id="l1241">C'est donc là tout l’effet d’une telle entreveuë,</l>
+            <l n="1242" xml:id="l1242">C'est ainsi que pour moy vous l’avez resoluë,</l>
+            <l n="1243" xml:id="l1243">J'ay cru que par vos <ref target="#soins3">soins<hi rend="sup">*</hi></ref> je recevrois sa <ref target="#foy1">foy<hi rend="sup">*</hi></ref>.</l>
+          </sp>
+          <sp xml:id="acte405-4" who="icile">
+            <l n="1244" xml:id="l1244">Je n’ay pas seulement daigné penser à toy,</l>
+            <l n="1245" xml:id="l1245">Comment t’es tu <ref target="#flatter1">flatté<hi rend="sup">*</hi></ref> que pour sauver ma vie,</l>
+            <l n="1246" xml:id="l1246">Je viendrois pour tes feux parler à Virginie ;</l>
+            <l n="1247" xml:id="l1247">J'ay dû mieux employer un temps si precieux,</l>
+            <l n="1248" xml:id="l1248">Qu'à servir d’un Tyran les desseins odieux.</l>
+          </sp>
+          <sp xml:id="acte405-5" who="appius">
+            <l n="1249" xml:id="l1249">Ah perfide ! ta mort, mais une mort <ref target="#cruel3">cruelle<hi rend="sup">*</hi></ref>,</l>
+            <l n="1250" xml:id="l1250">Punira de ton cœur l’<ref target="#audace1">audace</ref> criminelle,</l>
+            <l n="1251" xml:id="l1251" part="I">Rien ne te peut sauver, c’en est fait.</l>
+          </sp>
+          <sp xml:id="acte405-6" who="icile">
+            <pb n="53" xml:id="p53"/>
+            <l part="F">Haste toy,</l>
+            <l n="1252" xml:id="l1252">La mort n’a rien d’affreux ny de triste pour moy,</l>
+            <l n="1253" xml:id="l1253">Mais que dis-je ? ma mort encor plus que ma vie,</l>
+            <l n="1254" xml:id="l1254">De ton amour jaloux excitera l’envie,</l>
+            <l n="1255" xml:id="l1255">Je mouray plaint, <ref target="#heureux1">heureux<hi rend="sup">*</hi></ref>, et sans estre trahy.</l>
+            <l n="1256" xml:id="l1256">Tu vivras criminel, malheureux, et hay.</l>
+          </sp>
+          <sp xml:id="acte405-7" who="virginie">
+            <l n="1257" xml:id="l1257">Cesse de te <ref target="#flatter1">flatter<hi rend="sup">*</hi></ref>, en vain ta tyrannie,</l>
+            <l n="1258" xml:id="l1258">S'<ref target="#attacher2">attache<hi rend="sup">*</hi></ref> à separer Icile, et Virginie,</l>
+            <l n="1259" xml:id="l1259">En vain d’un feu si beau tu veux rompre le cours,</l>
+            <l n="1260" xml:id="l1260">L'amour plus fort que toy nous rejoindra toujours.</l>
+          </sp>
+          <sp xml:id="acte405-8" who="appius">
+            <l n="1261" xml:id="l1261">Oüy, vous serez unis... mais c’est vous faire grace,</l>
+            <l n="1262" xml:id="l1262">Il faut bien autrement <ref target="#confondre5">confondre<hi rend="sup">*</hi></ref> vostre <ref target="#audace1">audace</ref>,</l>
+            <l n="1263" xml:id="l1263">Vous voulez m’<ref target="#irriter2">irriter</ref>, un trépas éclattant,</l>
+            <l n="1264" xml:id="l1264">Est le supréme bien que vostre amour attent,</l>
+            <l n="1265" xml:id="l1265">Mais vous vous abusez, mon adroite colere,</l>
+            <l n="1266" xml:id="l1266">Par un long chatiment cherche à se satisfaire :</l>
+            <l n="1267" xml:id="l1267">Je pretens que vos cœurs endurent chaque jour,</l>
+            <l n="1268" xml:id="l1268">Mille tourmens divers, mille maux tour à tour ;</l>
+            <l n="1269" xml:id="l1269">Vous craindrez pour sa vie, il craindra pour la vôtre,</l>
+            <l n="1270" xml:id="l1270">Ainsi vous tremblerez sans cesse l’un et l’autre,</l>
+            <l n="1271" xml:id="l1271">Et pourveu que l’effet réponde à mes projets,</l>
+            <l n="1272" xml:id="l1272">Vous mourez mille fois sans expirer jamais,</l>
+            <l n="1273" xml:id="l1273" part="I">Qu'on les ramene.</l>
+          </sp>
+          <sp xml:id="acte405-9" who="virginie">
+            <l part="M">Adieu, Seigneur.</l>
+          </sp>
+          <sp xml:id="acte405-10" who="icile">
+            <l part="F">Adieu, Madame.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte406">
+          <pb n="54" xml:id="p54"/>
+          <sp xml:id="acte406-1" who="appius">
+            <l n="1274" xml:id="l1274">C'en est fait, bannissons la pitié de mon ame,</l>
+            <l n="1275" xml:id="l1275" part="I">Ne songeons qu’à vanger le mépris...</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte407">
+          <sp xml:id="acte407-1" who="clodius">
+            <l part="F">Ah ! Seigneur.</l>
+            <l n="1276" xml:id="l1276" part="I">Plautie…</l>
+          </sp>
+          <sp xml:id="acte407-2" who="appius">
+            <l part="M">Et bien.</l>
+          </sp>
+          <sp xml:id="acte407-3" who="clodius">
+            <l part="F">Craignez sa <ref target="#fatal2">fatale<hi rend="sup">*</hi></ref> douleur.</l>
+            <l n="1277" xml:id="l1277">On la voit en tous lieux de Romaines suivie,</l>
+            <l n="1278" xml:id="l1278">A tous nos Citoyens demander Virginie ;</l>
+            <l n="1279" xml:id="l1279">Ces femmes à l’<ref target="#envy">envy<hi rend="sup">*</hi></ref> par de tristes accords,</l>
+            <l n="1280" xml:id="l1280">Expriment leurs regrets en des termes si forts,</l>
+            <l n="1281" xml:id="l1281">Qu'il semble que chacune ayant perdu sa fille,</l>
+            <l n="1282" xml:id="l1282">Déplore les malheurs de sa propre famille ;</l>
+            <l n="1283" xml:id="l1283">Les unes par des pleurs exhalent leur courroux,</l>
+            <l n="1284" xml:id="l1284">D'autres pour animer le peuple contre vous,</l>
+            <l n="1285" xml:id="l1285">Poussent jusques au Ciel mille cris pitoyables,</l>
+            <l n="1286" xml:id="l1286">Plusieurs pour éviter des <ref target="#disgrace1">disgraces<hi rend="sup">*</hi></ref> semblables :<pb n="55" xml:id="p55"/></l>
+            <l n="1287" xml:id="l1287"><ref target="#embrassement">Embrassent<hi rend="sup">*</hi></ref> leurs enfans, et courent les cacher,</l>
+            <l n="1288" xml:id="l1288">Craignant que de leurs bras on les vienne arracher :</l>
+            <l n="1289" xml:id="l1289">Enfin à les sauver leur <ref target="#amitie1">amitié<hi rend="sup">*</hi></ref> s’empresse,</l>
+            <l n="1290" xml:id="l1290">Et la peur de les perdre augmente leur tendresse ;</l>
+            <l n="1291" xml:id="l1291">D'ailleurs les Partisans de vostre <ref target="#heureux1">heureux<hi rend="sup">*</hi></ref> Rival,</l>
+            <l n="1292" xml:id="l1292">Sement par tout un <ref target="#bruit1">bruit<hi rend="sup">*</hi></ref> qui vous seroit <ref target="#fatal1">fatal</ref> ;</l>
+            <l n="1293" xml:id="l1293">On dit que c’est l’amour, et non pas ma priere,</l>
+            <l n="1294" xml:id="l1294">Qui vous fait enlever Virginie à sa Mere ;</l>
+            <l n="1295" xml:id="l1295">Pour vous justifier dans l’esprit des Romains,</l>
+            <l n="1296" xml:id="l1296">Il faut dés ce moment la remettre en mes mains,</l>
+            <l n="1297" xml:id="l1297">Attendant que ce <ref target="#bruit1">bruit<hi rend="sup">*</hi></ref> avec le temps s’efface...</l>
+          </sp>
+          <sp xml:id="acte407-4" who="appius">
+            <l n="1298" xml:id="l1298">Vien, suy-moy, nous verrons ce qu’il faut que je fasse.</l>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="acte5" type="act">
+        <pb n="56" xml:id="p56"/>
+        <div type="scene" xml:id="acte501">
+          <sp xml:id="acte501-1" who="plautie">
+            <l n="1299" xml:id="l1299">Quoy l’on me traîne icy ? quel injuste projet.</l>
+          </sp>
+          <sp xml:id="acte501-2" who="pison">
+            <l n="1300" xml:id="l1300">Aux ordres d’Appius j’obeïs à regret,</l>
+            <l n="1301" xml:id="l1301" part="I">Madame, mais...</l>
+          </sp>
+          <sp xml:id="acte501-3" who="plautie">
+            <l part="F">O Dieux ! quelle <ref target="#fureur">fureur<hi rend="sup">*</hi></ref> l’anime,</l>
+            <l n="1302" xml:id="l1302">C'en est fait, ce Tyran marche de crime en crime,</l>
+            <l n="1303" xml:id="l1303">Il retient Virginie, et me fait arrester.</l>
+          </sp>
+          <sp xml:id="acte501-4" who="pison">
+            <l n="1304" xml:id="l1304">Madame à cet <ref target="#effort3">effort<hi rend="sup">*</hi></ref> il a dû se porter,</l>
+            <l n="1305" xml:id="l1305">Le <ref target="#soins1">soin<hi rend="sup">*</hi></ref> de son salut l’a forcé d’y souscrire,</l>
+            <l n="1306" xml:id="l1306">Il n’a pû s’en deffendre, et j’oseray vous dire,</l>
+            <l n="1307" xml:id="l1307">Que son cœur inquiet a long-temps balancé,</l>
+            <l n="1308" xml:id="l1308">Mais d’un peril trop grand il s’est veu menacé ;</l>
+            <l n="1309" xml:id="l1309">Vos pleurs estoient plus forts que les armes d’Icile,<pb n="57" xml:id="p57"/></l>
+            <l n="1310" xml:id="l1310">Déja de toutes parts on voyoit dans la ville,</l>
+            <l n="1311" xml:id="l1311">Les femmes à l’<ref target="#envy">envy<hi rend="sup">*</hi></ref> sur vos pas s’assembler,</l>
+            <l n="1312" xml:id="l1312" part="I">Déja...</l>
+          </sp>
+          <sp xml:id="acte501-5" who="plautie">
+            <l part="F">Quoy nos clameurs l’ont pû faire trembler,</l>
+            <l n="1313" xml:id="l1313">Il craint nostre douleur dont les plus fortes armes,</l>
+            <l n="1314" xml:id="l1314">N'ont esté que des <ref target="#voeux2">vœux<hi rend="sup">*</hi></ref>, des <ref target="#soupir">soûpirs<hi rend="sup">*</hi></ref>, et des larmes,</l>
+            <l n="1315" xml:id="l1315">Mais voila le destin des Tyrans tels que luy,</l>
+            <l n="1316" xml:id="l1316">Ils traînent avec eux un eternel <ref target="#ennuy">ennuy<hi rend="sup">*</hi></ref> ;</l>
+            <l n="1317" xml:id="l1317">Et c’est des justes Dieux un ordre legitime,</l>
+            <l n="1318" xml:id="l1318">Que la crainte sans cesse accompagne le crime :</l>
+            <l n="1319" xml:id="l1319">Sa rage va <ref target="#doute">sans doute<hi rend="sup">*</hi></ref> <ref target="#eclater2">éclatter<hi rend="sup">*</hi></ref> contre moy.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte502">
+          <sp xml:id="acte502-1" who="virginie">
+            <l n="1320" xml:id="l1320">Fuyons Camille. Ah Ciel ! est-ce vous que je voy,</l>
+            <l n="1321" xml:id="l1321">Madame, quel dessein icy vous a conduite :</l>
+          </sp>
+          <sp xml:id="acte502-2" who="plautie">
+            <l n="1322" xml:id="l1322">Mais toy-mesme, quelle est la raison de ta fuite,</l>
+            <l n="1323" xml:id="l1323">Qu'a fait nostre ennemy ? Qu'est-ce qui s’est passé.</l>
+          </sp>
+          <sp xml:id="acte502-3" who="virginie">
+            <l n="1324" xml:id="l1324">Madame, mon Arrest vient d’estre <ref target="#prononcer">prononcé<hi rend="sup">*</hi></ref>.</l>
+          </sp>
+          <sp xml:id="acte502-4" who="plautie">
+            <l n="1325" xml:id="l1325" part="I">Que dis-tu ?</l>
+          </sp>
+          <sp xml:id="acte502-5" who="virginie">
+            <l part="F">Le Tyran sans égard pour sa <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref>,</l>
+            <l n="1326" xml:id="l1326">De ses derniers sermens oubliant la memoire ;<pb n="58" xml:id="p58"/></l>
+            <l n="1327" xml:id="l1327">A suivy les conseils de son <ref target="#funeste4">funeste<hi rend="sup">*</hi></ref> amour,</l>
+            <l n="1328" xml:id="l1328">Et n’a pas de mon Pere attendu le retour ;</l>
+            <l n="1329" xml:id="l1329">Par son ordre <ref target="#tantost2">tantost<hi rend="sup">*</hi></ref> conduite en sa presence,</l>
+            <l n="1330" xml:id="l1330">J'ay conçeu les raisons de son impatience.</l>
+            <l n="1331" xml:id="l1331">J'ay jugé que l’excez d’un amour criminel,</l>
+            <l n="1332" xml:id="l1332">M'alloit abandonner au sort le plus <ref target="#cruel1">cruel<hi rend="sup">*</hi></ref>,</l>
+            <l n="1333" xml:id="l1333">L'effet n’a point trompé mon presage sinistre,</l>
+            <l n="1334" xml:id="l1334">Appius m’a livrée à son lâche Ministre,</l>
+            <l n="1335" xml:id="l1335">Il a fait Clodius le Maistre de mon sort,</l>
+            <l n="1336" xml:id="l1336">Pour éviter les <ref target="#fers">fers<hi rend="sup">*</hi></ref>, je ne voy que la mort,</l>
+            <l n="1337" xml:id="l1337">Il faut mourir, Madame, et que cette journée,</l>
+            <l n="1338" xml:id="l1338">Termine mes malheurs avec ma destinée.</l>
+          </sp>
+          <sp xml:id="acte502-6" who="plautie">
+            <l n="1339" xml:id="l1339">Quel <ref target="#funeste5">funeste<hi rend="sup">*</hi></ref> dessein ! n’est-il point de secours,</l>
+            <l n="1340" xml:id="l1340" part="I">Dieux tous puissans...</l>
+          </sp>
+          <sp xml:id="acte502-7" who="virginie">
+            <l part="F">Les Dieux nous sont <ref target="#cruel2">cruels<hi rend="sup">*</hi></ref> et sourds,</l>
+            <l n="1341" xml:id="l1341">Je n’espere plus rien, et mon ame asseurée,</l>
+            <l n="1342" xml:id="l1342">Au plus grand des tourmens est enfin preparée ;</l>
+            <l n="1343" xml:id="l1343">Clodius me poursuit, des Gardes <ref target="#furieux3">furieux<hi rend="sup">*</hi></ref></l>
+            <l n="1344" xml:id="l1344">Viendront dans un moment m’enlever de ces lieux,</l>
+            <l n="1345" xml:id="l1345">Vous allez voir, Madame, une troupe barbare...</l>
+          </sp>
+          <sp xml:id="acte502-8" who="plautie">
+            <l n="1346" xml:id="l1346">Ah ! quel spectacle encor pour mes yeux se prepare,</l>
+            <l n="1347" xml:id="l1347">Ma fille, je verray de farouches soldats,</l>
+            <l n="1348" xml:id="l1348">Une seconde fois t’arracher de mes bras :</l>
+            <l n="1349" xml:id="l1349">Je t’<ref target="#entendre3">entendray</ref> gemir, et ma tendresse oisive...</l>
+            <l n="1350" xml:id="l1350">Non malgré leurs <ref target="#effort3">efforts<hi rend="sup">*</hi></ref> il faut que je te suive,</l>
+            <l n="1351" xml:id="l1351">En vain ces inhumains voudront nous separer.</l>
+          </sp>
+          <sp xml:id="acte502-9" who="virginie">
+            <l n="1352" xml:id="l1352">Madame, à cet <ref target="#effort2">effort</ref> il faut vous preparer,</l>
+            <l n="1353" xml:id="l1353">Je conçois par les pleurs dont vostre amour m’honore,</l>
+            <l n="1354" xml:id="l1354">Quelle vive douleur, quel <ref target="#chagrin">chagrin<hi rend="sup">*</hi></ref> vous devore,</l>
+            <l n="1355" xml:id="l1355">Et je ne voy que trop qu’une tendre pitié,<pb n="59" xml:id="p59"/></l>
+            <l n="1356" xml:id="l1356">Vous fait de tous mes maux ressentir la moitié :</l>
+            <l n="1357" xml:id="l1357">Cependant retenez vos <ref target="#soupir">soûpirs<hi rend="sup">*</hi></ref> et vos larmes,</l>
+            <l n="1358" xml:id="l1358">Au fond de vostre cœur renfermez vos allarmes,</l>
+            <l n="1359" xml:id="l1359">Clodius va venir faites un noble <ref target="#effort5">effort<hi rend="sup">*</hi></ref>,</l>
+            <l n="1360" xml:id="l1360">De tous vos deplaisirs moderez le <ref target="#transports1">transport<hi rend="sup">*</hi></ref>,</l>
+            <l n="1361" xml:id="l1361">Nos regrets, les <ref target="#ennuy">ennuis<hi rend="sup">*</hi></ref> où nous sommes en proye,</l>
+            <l n="1362" xml:id="l1362">D'un ennemy <ref target="#cruel4">cruel<hi rend="sup">*</hi></ref> redoubleroient la joye,</l>
+            <l n="1363" xml:id="l1363">Ne permettez donc pas que ses barbares yeux,</l>
+            <l n="1364" xml:id="l1364">Joüissent des douleurs de nos derniers adieux ;</l>
+            <l n="1365" xml:id="l1365">Aussi bien prés de luy la plainte seroit vaine,</l>
+            <l n="1366" xml:id="l1366">C'est l’amour d’Appius qui dans les <ref target="#fers">fers<hi rend="sup">*</hi></ref> m’entraine,</l>
+            <l n="1367" xml:id="l1367">J’avois <ref target="#tantost2">tantost<hi rend="sup">*</hi></ref> preveu la rigueur de mon sort,</l>
+            <l n="1368" xml:id="l1368">Et j’allois m’en sauver par une juste mort :</l>
+            <l n="1369" xml:id="l1369">Vous n’avez pas voulu, vous vous estes <ref target="#troubler4">troublée<hi rend="sup">*</hi></ref>,</l>
+            <l n="1370" xml:id="l1370">Vos <ref target="#discours">discours<hi rend="sup">*</hi></ref>, vos <ref target="#soupir">soûpirs<hi rend="sup">*</hi></ref>, vos pleurs m’ont accablée ;</l>
+            <l n="1371" xml:id="l1371">Voyez le triste effet de vos <ref target="#funeste1">funestes<hi rend="sup">*</hi></ref> <ref target="#soins2">soins</ref>,</l>
+            <l n="1372" xml:id="l1372">J'ay souffert plus long-temps, je n’en mouray pas moins,</l>
+            <l n="1373" xml:id="l1373">Et ce qui dans mon sort m’afflige d’avantage,</l>
+            <l n="1374" xml:id="l1374">Je mourois libre alors, je meurs dans l’esclavage.</l>
+          </sp>
+          <sp xml:id="acte502-10" who="plautie">
+            <l n="1375" xml:id="l1375">Ne me reproche point ce <ref target="#funeste1">funeste<hi rend="sup">*</hi></ref> secours,</l>
+            <l n="1376" xml:id="l1376">Que n’aurois-je point fait pour conserver tes jours,</l>
+            <l n="1377" xml:id="l1377">Je me <ref target="#flatter1">flattois<hi rend="sup">*</hi></ref>... Mais Ciel ! nostre ennemy s’avance.</l>
+          </sp>
+          <sp xml:id="acte502-11" who="virginie">
+            <l n="1378" xml:id="l1378">Madame, au nom des Dieux évitez sa presence,</l>
+            <l n="1379" xml:id="l1379">Laissez-moy seule, allez, ne vous <ref target="#exposer4">exposez<hi rend="sup">*</hi></ref> pas,</l>
+            <l n="1380" xml:id="l1380">Aux affronts d’un Perfide, aux <ref target="#transports1">transports<hi rend="sup">*</hi></ref> des soldats,</l>
+            <l n="1381" xml:id="l1381">Il ne reste plus rien pour combler ma misere,</l>
+            <l n="1382" xml:id="l1382">Que de voir leur <ref target="#fureur">fureur<hi rend="sup">*</hi></ref> outrager une mere.</l>
+          </sp>
+          <sp xml:id="acte502-12" who="plautie">
+            <l n="1383" xml:id="l1383">Moy, que je t’abandonne en cette extremité ?</l>
+            <l n="1384" xml:id="l1384">Que j’aille loin de toy chercher ma seureté,<pb n="60" xml:id="p60"/></l>
+            <l n="1385" xml:id="l1385" part="I">Ah ! plûtost le trépas...</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte503">
+          <sp xml:id="acte503-1" who="plautie">
+            <l part="F">Tu viens icy perfide,</l>
+            <l n="1386" xml:id="l1386">Quel dessein criminel te conduit et te guide,</l>
+            <l n="1387" xml:id="l1387">Monstre inhumain, viens-tu me déchirant le flanc,</l>
+            <l n="1388" xml:id="l1388">M'accabler, me ravir le plus pur de mon sang ;</l>
+            <l n="1389" xml:id="l1389">Ta barbare <ref target="#fureur">fureur<hi rend="sup">*</hi></ref> jusqu’en ces lieux me brave,</l>
+            <l n="1390" xml:id="l1390" part="I">Veux-tu ?</l>
+          </sp>
+          <sp xml:id="acte503-2" who="clodius">
+            <l part="F">Je viens icy pour prendre mon esclave,</l>
+            <l n="1391" xml:id="l1391">Cette fille est à moy, je suis son maistre enfin,</l>
+            <l n="1392" xml:id="l1392">Appius à mes loix a soûmis son destin,</l>
+            <l n="1393" xml:id="l1393" part="I">Gardes qu’on la conduise.</l>
+          </sp>
+          <sp xml:id="acte503-3" who="plautie">
+            <l part="F">Ah ! quelle tyrannie,</l>
+            <l n="1394" xml:id="l1394">Leurs criminelles mains vont saisir Virginie,</l>
+            <l n="1395" xml:id="l1395" part="I">Osez-vous...</l>
+          </sp>
+          <sp xml:id="acte503-4" who="virginie">
+            <l part="F"> Arrestez, ne portez point vos mains,</l>
+            <l n="1396" xml:id="l1396">Sur le sang glorieux des plus fameux Romains.</l>
+            <l n="1397" xml:id="l1397">N'aprochez point de moy, je vous suivray sans peine<pb n="F.p.61"/></l>
+            <l n="1398" xml:id="l1398">Dans le honteux estat où le destin m’entraîne,</l>
+            <l n="1399" xml:id="l1399">Trahie, abandonnée, en proye à vos <ref target="#fureur">fureurs<hi rend="sup">*</hi></ref>,</l>
+            <l n="1400" xml:id="l1400">Je n’ay que ma <ref target="#vertu2">vertu<hi rend="sup">*</hi></ref> contre tous mes malheurs :</l>
+            <l n="1401" xml:id="l1401">Mais elle me suffit : je puis tout avec elle,</l>
+            <l n="1402" xml:id="l1402">Adieu, Madame, adieu, vostre douleur mortelle,</l>
+            <l n="1403" xml:id="l1403">Ebranle ma constance, et me fait plus trembler,</l>
+            <l n="1404" xml:id="l1404">Que l’approche des <ref target="#fers">fers<hi rend="sup">*</hi></ref> qui me vont accabler.</l>
+            <l n="1405" xml:id="l1405">Prenez <ref target="#soins2">soin</ref> de vos jours, j’auray <ref target="#soins2">soins</ref> de ma <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref>.</l>
+            <l n="1406" xml:id="l1406">J'ose esperer qu’un jour ma déplorable histoire,</l>
+            <l n="1407" xml:id="l1407">Aprenant ma <ref target="#disgrace1">disgrace<hi rend="sup">*</hi></ref> aux siecles à venir,</l>
+            <l n="1408" xml:id="l1408">Laissera de mon sort un digne souvenir ;</l>
+            <l n="1409" xml:id="l1409">Et faira confesser à la plus noire <ref target="#envie">envie<hi rend="sup">*</hi></ref>,</l>
+            <l n="1410" xml:id="l1410">Que d’illustres Ayeux m’avoient donné la vie,</l>
+            <l n="1411" xml:id="l1411" part="I">Adieu.</l>
+          </sp>
+          <sp xml:id="acte503-5" who="plautie">
+            <l part="M">Je cours...</l>
+          </sp>
+          <sp xml:id="acte503-6" who="pison">
+            <l part="M">Souffrez...</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte504">
+          <sp xml:id="acte504-1" who="plautie">
+            <l part="F">Quoy l’on m’ose arrester,</l>
+            <l n="1412" xml:id="l1412">Inhumains, c’en est trop, je ne la puis quitter,</l>
+            <l n="1413" xml:id="l1413">Souffrez que dans les <ref target="#fers">fers<hi rend="sup">*</hi></ref> je suive Virginie,</l>
+            <l n="1414" xml:id="l1414">Sans ma fille je hais, et mon rang, et ma vie :</l>
+            <l n="1415" xml:id="l1415">Par rage ou par pitié percez mon triste flanc,</l>
+            <l n="1416" xml:id="l1416">Aprés m’avoir ravy la moitié de mon sang,<pb n="62" xml:id="p62"/></l>
+            <l n="1417" xml:id="l1417">Achevez, repandez tout celuy qui me reste ;</l>
+            <l n="1418" xml:id="l1418">Helas ! <ref target="#heureux1">heureuse<hi rend="sup">*</hi></ref> encor en ce moment <ref target="#funeste1">funeste<hi rend="sup">*</hi></ref>,</l>
+            <l n="1419" xml:id="l1419">Si je pouvois au moins par une prompte mort,</l>
+            <l n="1420" xml:id="l1420">Arracher Virginie aux horreurs de son sort,</l>
+            <l n="1421" xml:id="l1421">Ou tourner sur moy-mesme en m’<ref target="#exposer4">exposant<hi rend="sup">*</hi></ref> pour elle,</l>
+            <l n="1422" xml:id="l1422">De son affreux destin l’influence <ref target="#cruel1">cruelle<hi rend="sup">*</hi></ref> ;</l>
+            <l n="1423" xml:id="l1423">Je ne puis la sauver, la suivre, ny mourir,</l>
+            <l n="1424" xml:id="l1424"><ref target="#cruel2">Cruels<hi rend="sup">*</hi></ref> aucun de vous ne veut me secourir,</l>
+            <l n="1425" xml:id="l1425" part="I">Mais que vois-je ? comment...</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte505">
+          <sp xml:id="acte505-1" who="severe">
+            <l part="F">Tout a changé de face,</l>
+            <l n="1426" xml:id="l1426">Madame, vous verrez finir vostre <ref target="#disgrace1">disgrace<hi rend="sup">*</hi></ref>,</l>
+            <l n="1427" xml:id="l1427">Reprenez de l’espoir déja les Dieux plus doux,</l>
+            <l n="1428" xml:id="l1428">M'ont accordé le bien d’arriver jusqu’à vous,</l>
+            <l n="1429" xml:id="l1429">Icile est libre enfin, sa prison est forcée,</l>
+            <l n="1430" xml:id="l1430">J'ay veu par ses amis sa garde dispercée,</l>
+            <l n="1431" xml:id="l1431">Et sans perdre de temps les armes à la main,</l>
+            <l n="1432" xml:id="l1432">Vers l’injuste Appius il s’est fait un chemin ;</l>
+            <l n="1433" xml:id="l1433">Ils sont aux mains, Madame, et le Ciel équitable,</l>
+            <l n="1434" xml:id="l1434">Fera perir <ref target="#doute">sans doute<hi rend="sup">*</hi></ref> un tyran detestable ;</l>
+            <l n="1435" xml:id="l1435">De vostre esprit <ref target="#troubler1">troublé<hi rend="sup">*</hi></ref> dissipez la terreur,</l>
+            <l n="1436" xml:id="l1436">Tout semble vous promettre un tranquille bonheur,</l>
+            <l n="1437" xml:id="l1437">Appius prevenu<hi rend="sup">*</hi> d’une aveugle <ref target="#furie2">furie<hi rend="sup">*</hi></ref>,<pb n="63" xml:id="p63"/></l>
+            <l n="1438" xml:id="l1438">Par ses meilleurs soldats fait garder Virginie,</l>
+            <l n="1439" xml:id="l1439">Et resté presque seul, abandonné, <ref target="#troubler4">troublé<hi rend="sup">*</hi></ref> ;</l>
+            <l n="1440" xml:id="l1440">Sous les <ref target="#effort3">efforts<hi rend="sup">*</hi></ref> d’Icile il doit estre accablé,</l>
+            <l n="1441" xml:id="l1441">Contre tant d’ennemis il ne peut se deffendre,</l>
+            <l n="1442" xml:id="l1442">Icile m’a <ref target="#presser1">pressé</ref> de courir vous l’apprendre,</l>
+            <l n="1443" xml:id="l1443">Et de vous avertir, Madame, qu’en ces lieux,</l>
+            <l n="1444" xml:id="l1444">Vous le verrez bien-tost venir victorieux,</l>
+            <l n="1445" xml:id="l1445" part="I">Je cours le retrouver.</l>
+          </sp>
+          <sp xml:id="acte505-2" who="plautie">
+            <l part="F">Non je pretens vous suivre,</l>
+            <l n="1446" xml:id="l1446">Courons, que j’aille voir la main qui nous delivre,</l>
+            <l n="1447" xml:id="l1447">Aussi bien dans ces lieux on ne me retient plus.</l>
+            <l n="1448" xml:id="l1448">Je voy fuïr à ce <ref target="#bruit2">bruit<hi rend="sup">*</hi></ref> mes Gardes éperdus ;</l>
+            <l n="1449" xml:id="l1449">Allons... mais c’en est fait, et mon ame ravie...</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte506">
+          <sp xml:id="acte506-1" who="icile">
+            <l n="1450" xml:id="l1450">Ouy, c’en est fait, Madame, Appius est sans vie,</l>
+            <l n="1451" xml:id="l1451">Je viens de le punir, enfin tout est sauvé,</l>
+            <l n="1452" xml:id="l1452">Et déja vostre Epoux dans Rome est arrivé.</l>
+          </sp>
+          <sp xml:id="acte506-2" who="plautie">
+            <l n="1453" xml:id="l1453" part="I">Virginius !</l>
+          </sp>
+          <sp xml:id="acte506-3" who="icile">
+            <l part="F">Madame on vient de me l’apprendre,</l>
+            <l n="1454" xml:id="l1454">Le <ref target="#bruit3">bruit<hi rend="sup">*</hi></ref> de son retour partout s’est fait <ref target="#entendre1">entendre<hi rend="sup">*</hi></ref>,</l>
+            <l n="1455" xml:id="l1455">Mais que fait Virginie ? on ne m’en a rien dit,<pb n="64" xml:id="p64"/></l>
+            <l n="1456" xml:id="l1456">Elle seule sans cesse occupe mon esprit.</l>
+          </sp>
+          <sp xml:id="acte506-4" who="plautie">
+            <l n="1457" xml:id="l1457">Clodius escorté d’une troupe <ref target="#cruel4">cruelle<hi rend="sup">*</hi></ref>,</l>
+            <l n="1458" xml:id="l1458" part="I">S'en est saisi, Seigneur.</l>
+          </sp>
+          <sp xml:id="acte506-5" who="icile">
+            <l part="F">Ah courons aprés elle !</l>
+            <l n="1459" xml:id="l1459">Courons la délivrer, et qu’aux yeux des Romains,</l>
+            <l n="1460" xml:id="l1460">Le traistre Clodius soit puny par mes mains,</l>
+            <l n="1461" xml:id="l1461">Que je puisse gouster le plaisir et la <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref>,</l>
+            <l n="1462" xml:id="l1462">Que prepare à mon cœur une pleine victoire.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte507">
+          <sp xml:id="acte507-1" who="plautie">
+            <l n="1463" xml:id="l1463" part="I">Hastez-vous donc, Seigneur ;</l>
+            <l part="F">Que viens-tu m’annoncer,</l>
+            <l n="1464" xml:id="l1464">Dy-moy, que fait ma fille, où l’as-tu pû laisser.</l>
+          </sp>
+          <sp xml:id="acte507-2" who="camille">
+            <l n="1465" xml:id="l1465" part="I">Vostre fille ?</l>
+          </sp>
+          <sp xml:id="acte507-3" who="icile">
+            <l part="F">Aprenez-nous, où faut-il que je vole,</l>
+            <l n="1466" xml:id="l1466">Où sont nos ennemis, que mon bras les immole,</l>
+            <l n="1467" xml:id="l1467">Que Virginie enfin ne les redoute plus,</l>
+            <l n="1468" xml:id="l1468" part="I">Que j’aille...</l>
+          </sp>
+          <sp xml:id="acte507-4" who="camille">
+            <pb n="65" xml:id="p65"/>
+            <l part="F">Moderez des <ref target="#transports1">transports<hi rend="sup">*</hi></ref> superflus,</l>
+            <l n="1469" xml:id="l1469" part="I">Il n’est plus temps.</l>
+          </sp>
+          <sp xml:id="acte507-5" who="icile">
+            <l part="M">Comment ?</l>
+          </sp>
+          <sp xml:id="acte507-6" who="camille">
+            <l part="F">L'aimable Virginie.</l>
+          </sp>
+          <sp xml:id="acte507-7" who="plautie">
+            <l n="1470" xml:id="l1470" part="I">Eh bien ! qu’est ce ?</l>
+          </sp>
+          <sp xml:id="acte507-8" who="camille">
+            <l part="F">A mes yeux vient de perdre la vie.</l>
+          </sp>
+          <sp xml:id="acte507-9" who="plautie">
+            <l n="1471" xml:id="l1471">Ciel, qu’est-ce que j’<ref target="#entendre2">entends</ref> ? Ah destin rigoureux !</l>
+            <l n="1472" xml:id="l1472" part="I">Quel <ref target="#coups2">coup<hi rend="sup">*</hi></ref> ?</l>
+          </sp>
+          <sp xml:id="acte507-10" who="icile">
+            <l part="F">De tous mes maux voicy le comble affreux,</l>
+            <l n="1473" xml:id="l1473">Que puis-je craindre aprés ce que je viens d’apprendre,</l>
+            <l n="1474" xml:id="l1474" part="I">Grands Dieux ?</l>
+          </sp>
+          <sp xml:id="acte507-11" who="camille">
+            <l part="F">Virginius venoit pour la deffendre,</l>
+            <l n="1475" xml:id="l1475">Au moment qu’il l’a veuë au milieu des soldats ;</l>
+            <l n="1476" xml:id="l1476">Ce spectacle <ref target="#cruel1">cruel<hi rend="sup">*</hi></ref> a retenu ses pas :</l>
+            <l n="1477" xml:id="l1477">Il s’arreste, et du peuple il aprend que sa fille</l>
+            <l n="1478" xml:id="l1478">Vient d’estre pour jamais ravis à sa famille,</l>
+            <l n="1479" xml:id="l1479">Qu'elle est soûmise aux <ref target="#fers">fers<hi rend="sup">*</hi></ref> du traistre Clodius,</l>
+            <l n="1480" xml:id="l1480">Et <ref target="#doute">sans doute<hi rend="sup">*</hi></ref> <ref target="#exposer3">exposée<hi rend="sup">*</hi></ref> aux <ref target="#transports2">transports<hi rend="sup">*</hi></ref> d’Appius.</l>
+            <l n="1481" xml:id="l1481">A ce <ref target="#fatal2">fatal<hi rend="sup">*</hi></ref> recit son desespoir extréme,</l>
+            <l n="1482" xml:id="l1482">Fait qu’il veut la sauver, ou se perdre luy mesme :</l>
+            <l n="1483" xml:id="l1483">Il attaque luy seul plus de mille ennemis,</l>
+            <l n="1484" xml:id="l1484">Le succez répond mal à ce qu’il s’est promis,</l>
+            <l n="1485" xml:id="l1485">On le saisit d’abord, il se voit sans épée,</l>
+            <l n="1486" xml:id="l1486">Hé que sert, a-t’il dit, à ma valeur trompée,</l>
+            <l n="1487" xml:id="l1487">L'inutile bon-heur de mes autres exploits,</l>
+            <l n="1488" xml:id="l1488">Puisque je suis vaincu cette dernière fois ;</l>
+            <l n="1489" xml:id="l1489">Mais helas ! permettez <ref target="#cruel2">cruels<hi rend="sup">*</hi></ref>, dans ma <ref target="#disgrace1">disgrace<hi rend="sup">*</hi></ref>,<pb n="66" xml:id="p66"/></l>
+            <l n="1490" xml:id="l1490">Si je perds Virginie, au moins que je l’<ref target="#embrassement">embrasse*</ref>,</l>
+            <l n="1491" xml:id="l1491">De cet <ref target="#embrassement">embrassement<hi rend="sup">*</hi></ref> la puissante douceur,</l>
+            <l n="1492" xml:id="l1492">D'un cœur desesperé <ref target="#flatter2">flatera<hi rend="sup">*</hi></ref> la douleur ;</l>
+            <l n="1493" xml:id="l1493">On le laisse, il y court, la joint malgré la presse,</l>
+            <l n="1494" xml:id="l1494">Par ses <ref target="#embrassement">embrassemens<hi rend="sup">*</hi></ref> il marque sa tendresse ;</l>
+            <l n="1495" xml:id="l1495">Je le suis, et j’entens<hi rend="sup">*</hi> qu’elle luy dit, Seigneur,</l>
+            <l n="1496" xml:id="l1496">Ah ! donnez-moy la mort, et sauvez ma pudeur.</l>
+            <l n="1497" xml:id="l1497">Virginius surpris, <ref target="#admirer">admire<hi rend="sup">*</hi></ref> son <ref target="#courage1">courage<hi rend="sup">*</hi></ref>,</l>
+            <l n="1498" xml:id="l1498">Il <ref target="#soupirer">soûpire<hi rend="sup">*</hi></ref> à la fois, et d’amour, et de rage,</l>
+            <l n="1499" xml:id="l1499">A tes desirs <ref target="#cruel2">cruels<hi rend="sup">*</hi></ref>, dit-il, puis-je obeïr,</l>
+            <l n="1500" xml:id="l1500">Mais ne t’obeïr pas ce seroit te trahir,</l>
+            <l n="1501" xml:id="l1501">Satisfaisons ton ame, et malgré ma foiblesse,</l>
+            <l n="1502" xml:id="l1502">Dérobons ta pudeur au peril qui la <ref target="#presser2">presse<hi rend="sup">*</hi></ref> :</l>
+            <l n="1503" xml:id="l1503">Par un <ref target="#coups2">coup<hi rend="sup">*</hi></ref> rigoureux prouvons nostre <ref target="#amitie1">amitié<hi rend="sup">*</hi></ref>,</l>
+            <l n="1504" xml:id="l1504">Montrons-nous inhumains par excés de pitié,</l>
+            <l n="1505" xml:id="l1505">Et que tout l’Univers sçachant que je suis pere,</l>
+            <l n="1506" xml:id="l1506"><ref target="#admirer">Admire<hi rend="sup">*</hi></ref> mon <ref target="#courage1">courage<hi rend="sup">*</hi></ref>, et plaigne ma misere,</l>
+            <l n="1507" xml:id="l1507">Aprés ces tristes mots, égaré, <ref target="#furieux2">furieux<hi rend="sup">*</hi></ref>,</l>
+            <l n="1508" xml:id="l1508">Il promene par tout ses regards curieux,</l>
+            <l n="1509" xml:id="l1509">Il voit, cherche avec <ref target="#soins2">soin</ref> ; ah <ref target="#disgrace1">disgrace<hi rend="sup">*</hi></ref> impreveuë !</l>
+            <l n="1510" xml:id="l1510">Un <ref target="#funeste4">funeste<hi rend="sup">*</hi></ref> cousteau se presente à sa veuë ;</l>
+            <l n="1511" xml:id="l1511">Il le prend, et poussé d’une indiscrete ardeur</l>
+            <l n="1512" xml:id="l1512">De sa constante fille il veut percer le cœur,</l>
+            <l n="1513" xml:id="l1513">Mais en vain pour ce <ref target="#coups2">coup<hi rend="sup">*</hi></ref> son <ref target="#courage1">courage<hi rend="sup">*</hi></ref> s’apreste.</l>
+            <l n="1514" xml:id="l1514">Quand il croit l’achever sa tendresse l’arreste :</l>
+            <l n="1515" xml:id="l1515">Car à peine a-t’il veu le coûteau prés du sein,</l>
+            <l n="1516" xml:id="l1516">Que la nature semble avoir glacé sa main,</l>
+            <l n="1517" xml:id="l1517">Il demeure immobile, à ce triste spectacle,</l>
+            <l n="1518" xml:id="l1518">On court, à son dessein chacun veut mettre obstacle,</l>
+            <l n="1519" xml:id="l1519">Virginie en tremblant voit venir ce secours,</l>
+            <l n="1520" xml:id="l1520">Qui <ref target="#hazarder1">hazarde<hi rend="sup">*</hi></ref> sa <ref target="#gloire2">gloire<hi rend="sup">*</hi></ref> en conservant ses jours,</l>
+            <l n="1521" xml:id="l1521">Elle se haste alors de terminer sa vie,</l>
+            <l n="1522" xml:id="l1522">S’élance sur le fer, et d’une main hardie,</l>
+            <l n="1523" xml:id="l1523">Prend celle de son pere, et poussant le coûteau,</l>
+            <l n="1524" xml:id="l1524">S'en frape, tombe, et s’ouvre un chemin au tombeau.</l>
+          </sp>
+          <sp xml:id="acte507-12" who="plautie">
+            <pb n="67" xml:id="p67"/>
+            <l n="1525" xml:id="l1525" part="I">Helas !</l>
+          </sp>
+          <sp xml:id="acte507-13" who="camille">
+            <l part="F">Virginius aprés ce sacrifice,</l>
+            <l n="1526" xml:id="l1526">De ce sang precieux demande la justice ;</l>
+            <l n="1527" xml:id="l1527">Il prend entre ses bras ce corps ensanglanté,</l>
+            <l n="1528" xml:id="l1528">Le fait voir aux Romains, le peuple epouvanté,</l>
+            <l n="1529" xml:id="l1529">Fremit en regardant cette victime offerte,</l>
+            <l n="1530" xml:id="l1530">De tous les Decemvirs il conspire la perte,</l>
+            <l n="1531" xml:id="l1531">Il court de tous costez vanger vostre malheur :</l>
+            <l n="1532" xml:id="l1532">Clodius a deja ressenty sa <ref target="#fureur">fureur<hi rend="sup">*</hi></ref>,</l>
+            <l n="1533" xml:id="l1533">Et moy je suis venuë en ce lieu vous aprendre,</l>
+            <l n="1534" xml:id="l1534">Les <ref target="#funeste5">funestes<hi rend="sup">*</hi></ref> horreurs que vous venez d’<ref target="#entendre1">entendre<hi rend="sup">*</hi></ref>,</l>
+            <l n="1535" xml:id="l1535"><ref target="#heureux1">Heureuse<hi rend="sup">*</hi></ref> si ma mort avoit pû devancer,</l>
+            <l n="1536" xml:id="l1536">La douleur que je souffre à vous les annoncer.</l>
+          </sp>
+          <sp xml:id="acte507-14" who="icile">
+            <l n="1537" xml:id="l1537">Ainsi pour mon amour Virginie est perduë,</l>
+            <l n="1538" xml:id="l1538">Voilà cette union que j’avois attenduë,</l>
+            <l n="1539" xml:id="l1539">Mourons, mais d’une mort qui soit utile à tous,</l>
+            <l n="1540" xml:id="l1540">Portons sur nos Tyrans ma rage avec mes <ref target="#coups6">coups<hi rend="sup">*</hi></ref>,</l>
+            <l n="1541" xml:id="l1541">Allons, Madame, allons, et courons l’un et l’autre,</l>
+            <l n="1542" xml:id="l1542">Faire parler par tout ma douleur et la vostre,</l>
+            <l n="1543" xml:id="l1543">Allons, que mille morts marquent ce triste jour,</l>
+            <l n="1544" xml:id="l1544">Puisque Rome l’exige aussi bien que l’amour.</l>
+          </sp>
+        </div>
+      </div>
+      <div type="appendix" xml:id="privilege">
+        <p>Par grace et Privilege du Roy, donné à Paris le 29. Mars 1683. Signé, Par le Roy en son Conseil, <hi rend="sc">Du Gone</hi> : et Scellé. Il est permis à Estienne Lucas, Marchand Libraire à Paris, de faire imprimer une Tragedie, intitulée <hi rend="i">Virginie</hi>, composée par le Sieur * * * : Et deffenses sont faites à toutes sortes de personnes de l’imprimer, vendre ny debiter pendant le temps de six années, à commencer du jour qu’elle sera achevée d’imprimer, à peine d’amende arbitraire, et autres peines portées par ledit Privilege.</p>
+        <p rend="i">Registré sur le Livre de la Communauté des Libraires et Imprimeurs de Paris le 8<hi rend="sup">me</hi>. Avril 1683 suivant l’Arrest du Parlement du 8. Avril 1653. et celuy du Conseil Privé du Roy du 27. Février 1665. </p>
+        <p>Signé, <hi rend="sc">Cangot</hi>, Syndic.</p>
+        <p>Achevé d’imprimer la premiere fois le dernier Avril 1683.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

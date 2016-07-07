@@ -1,0 +1,1380 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <text>
+    <body>
+      <div n="1" type="set" xml:id="argument">
+        <pb n="III"/>
+        <p rend="i">Le Roy ayant donné la Paix à l’Europe, l’Académie Royale de Musique a creu devoir marquer la part qu’elle prend à la joye publique par un Spectacle, où elle pust faire entrer les témoignages de son zele pour la gloire de cet Auguste Monarque. Elle s’y est creuë d’autant plus obligée que la protection qu’il donne aux beaux Arts les a toûjours fait joüir, pendant le cours méme de la Guerre, de l’heureuse tranquillité qui leur est si nécessaire. C’est ce qui a donné occasion à cette Tragedie en Musique. Le Theatre represente d’abord le Parnasse François. Apollon y vient avec les Muses celebrer le retour d’une paix si glorieuse à la France. <ref target="#pan-lexique">Pan</ref> &amp; Bacchus y arrivent en méme temps, &amp; signalent leur joye par des Danses &amp; par des Chants d’allegresse. Mais Apollon pour mieux divertir le plus Grand Prince de la Terre, imagine sur le champ un Spectacle, où luy-méme avec les Muses veut représenter l’Histoire de Bellerophon. Chacun sçait que ce Heros combatit autrefois la <ref target="#chimere">Chimere*</ref>, monté sur <ref target="#pegase">Pegase*</ref>, &amp; que ce fut d’un coup de<pb n="/ IV"/>/ pied de ce Cheval que nâquit ensuite la fameuse Fontaine qui inspire les Vers, &amp; qui a fait naître la Poësie. On ne sçait pas trop bien qui estoit le Pere de Bellerophon. Les uns tiennent que c’estoit Glaucus, les autres le font Fils de Neptune ; &amp; c’est sur cette diversité d’opinions qu’on a formé l’intrigue de cette Piece, &amp; l’Oracle qui en fut le nœud. Amisodar est un Personnage Episodique, fondé sur ce que quelques Mythologistes raportent sur cette Fable, qu’il y a eu une Femme nommée <ref target="#chimere">Chimere*</ref>, qui épousa un Roy de <ref target="#lycie">Lycie*</ref>, appellé Amisodar.</p>
+      </div>
+      <div n="2" type="set" xml:id="acteurs-prologue">
+        <pb n="V"/>
+      </div>
+      <div n="3" type="set" xml:id="acteurs-tragedie">
+        <pb n="VI"/>
+      </div>
+      <div type="preface" xml:id="A">
+        <pb n="VII"/>
+        <sp who="apollon" xml:id="A-1">
+          <l n="1" xml:id="l1">Muses, preparons nos Concerts.</l>
+          <l n="2" xml:id="l2">Le plus grand Roy de l’Univers</l>
+          <l n="3" xml:id="l3">Vient d’asseurer le repos de la Terre ;</l>
+          <l n="4" xml:id="l4">Sur cet heureux Vallon il répand ses bien-faits.</l>
+          <l n="5" xml:id="l5">Apres avoir chanté les <ref target="#fureurs">fureurs*</ref> de la Guerre,</l>
+          <l n="6" xml:id="l6">Chantons les douceurs de la Paix.</l>
+        </sp>
+        <sp who="muses" xml:id="A-2">
+          <l n="7" xml:id="l7">Apres avoir chanté les fureurs de la Guerre,</l>
+          <l n="8" xml:id="l8">Chantons les douceurs de la Paix.</l>
+        </sp>
+        <sp who="apollon" xml:id="A-3">
+          <l n="9" xml:id="l9">Par cet Auguste Roy la discorde est bannie.</l>
+          <l n="10" xml:id="l10">Pour tous les Dieux sa gloire a tant d’<ref target="#appas">appas*</ref>,<pb n="VIII"/></l>
+          <l n="11" xml:id="l11">Que <ref target="#pan-lexique">Pan</ref> luy mesme oubliant nos debats</l>
+          <l n="12" xml:id="l12">Vient icy de nos Chants augmenter l’harmonie.</l>
+          <l n="13" xml:id="l13"><ref target="#bacchus-lexique">Bacchus*</ref> ainsi que luy vient se joindre avec nous,</l>
+          <l n="14" xml:id="l14">Pour rendre nos accords plus charmants &amp; plus doux.</l>
+        </sp>
+        <sp who="bacchus" xml:id="A-4">
+          <l n="15" xml:id="l15">Du fameux bord de l’Inde, où toûjours la Victoire</l>
+          <l n="16" xml:id="l16">Rangea les Peuples sous ma Loy,</l>
+          <l n="17" xml:id="l17">Je viens prendre part à la <ref target="#gloire">gloire*</ref></l>
+          <l n="18" xml:id="l18">D’un Vainqueur aussi grand que moy.</l>
+        </sp>
+        <sp who="pan" xml:id="A-5">
+          <l n="19" xml:id="l19">J’ay quitté les Forests où je tiens mon Empire</l>
+          <l n="20" xml:id="l20">Pour venir comme vous admirer ce <ref target="#heros">Heros*</ref>.</l>
+          <l n="21" xml:id="l21">Nos Plaines &amp; nos Bois luy doivent leur repos,</l>
+          <l n="22" xml:id="l22">C’est par luy seul qu’en nos Champs on respire.</l>
+        </sp>
+        <sp who="tous" xml:id="A-6">
+          <l n="23" xml:id="l23">Chantons le plus grand des Mortels,</l>
+          <l n="24" xml:id="l24">Chantons un Roy digne de nos Autels.</l>
+        </sp>
+        <sp who="apollon muses" xml:id="A-7">
+          <l n="25" xml:id="l25">Par luy tous nos champs refleurissent.</l>
+        </sp>
+        <sp who="bacchus pan" xml:id="A-8">
+          <pb n="IX"/>
+          <l n="26" xml:id="l26">Les tranquilles plaisirs par luy sont de retour.</l>
+        </sp>
+        <sp who="apollon muses" xml:id="A-9">
+          <l n="27" xml:id="l27">De son nom seul les Echos retentissent.</l>
+        </sp>
+        <sp who="bacchus pan" xml:id="A-10">
+          <l n="28" xml:id="l28">Si l’on soûpire encor, ce n’est plus que d’amour.</l>
+        </sp>
+        <sp who="apollon muses" xml:id="A-11">
+          <l n="29" xml:id="l29">Tout rit dans nos douces retraites.</l>
+        </sp>
+        <sp who="bacchus pan" xml:id="A-12">
+          <l n="30" xml:id="l30">Rien ne vient plus troubler le son de nos Musetes.</l>
+        </sp>
+        <sp who="tous" xml:id="A-13">
+          <l n="31" xml:id="l31">Chantons le plus grand des Mortels,</l>
+          <l n="32" xml:id="l32">Chantons un Roy digne des Autels.</l>
+        </sp>
+        <sp who="berger" xml:id="A-14">
+          <l n="33" xml:id="l33">Pourquoy n’avoir pas le cœur tendre ?</l>
+          <l n="34" xml:id="l34">Rien n’est si doux que d’aimer.</l>
+          <l n="35" xml:id="l35">Peut-on aisément s’en défendre ?</l>
+          <l n="36" xml:id="l36">Non, non, non, l’Amour doit tout charmer.</l>
+          <l n="37" xml:id="l37">Que sert la fierté dans les Belles ?<pb n="X"/></l>
+          <l n="38" xml:id="l38">Tout aime enfin à son tour.</l>
+          <l n="39" xml:id="l39">Voit-on des rigueurs eternelles ?</l>
+          <l n="40" xml:id="l40">Non, non, non, rien n’échappe à l’Amour.</l>
+        </sp>
+        <sp who="pan" xml:id="A-15">
+          <l n="41" xml:id="l41">Tout est paisible sur la Terre,</l>
+          <l n="42" xml:id="l42">Voicy l’heureux temps des Amours.</l>
+        </sp>
+        <sp who="bacchus" xml:id="A-16">
+          <l n="43" xml:id="l43">Ils n’ont plus à craindre la Guerre,</l>
+          <l n="44" xml:id="l44">Qui des Amants troubloit les plus beaux jours.</l>
+        </sp>
+        <sp who="pan" xml:id="A-17">
+          <l n="45" xml:id="l45">Aimez, Bergers, aimez, Bergeres,</l>
+          <l n="46" xml:id="l46">Suivez vos plus tendres desirs.</l>
+        </sp>
+        <sp who="bacchus" xml:id="A-18">
+          <l n="47" xml:id="l47">Si l’Amour a des maux, il a mille plaisirs</l>
+          <l n="48" xml:id="l48">Qui rendent ses peines legeres.</l>
+        </sp>
+        <sp who="bacchus pan" xml:id="A-19">
+          <l n="49" xml:id="l49">Si l’Amour a des maux, il a mille plaisirs</l>
+          <l n="50" xml:id="l50">Qui rendent ses peines legeres.</l>
+        </sp>
+        <sp who="apollon" xml:id="A-20">
+          <pb n="XI"/>
+          <l n="51" xml:id="l51">Quittez de si vaines Chansons.</l>
+          <l n="52" xml:id="l52">Il faut par de plus nobles sons</l>
+          <l n="53" xml:id="l53">Honorer en ce jour le <ref target="#heros">Heros*</ref> de la France.</l>
+          <l n="54" xml:id="l54">Transformons-nous en ce moment,</l>
+          <l n="55" xml:id="l55">Et dans un Spectacle charmant</l>
+          <l n="56" xml:id="l56">Celebrons à ses yeux l’heureux Evenement,</l>
+          <l n="57" xml:id="l57">Qui jadis au <ref target="#parnasse">Parnasse*</ref> a donné la naissance.</l>
+          <l n="58" xml:id="l58">Allons, pour ce grand Roy redoublez vos <ref target="#efforts">efforts*</ref>,</l>
+          <l n="59" xml:id="l59">Preparez vos plus doux accords.</l>
+        </sp>
+        <sp who="tous" xml:id="A-21">
+          <l n="60" xml:id="l60">Pour ce Grand Roy redoublons nos efforts,</l>
+          <l n="61" xml:id="l61">Preparons nos plus doux accords.</l>
+          <p>FIN DU PROLOGUE<pb n="XII    1/A"/></p>
+        </sp>
+      </div>
+      <div type="act" xml:id="acte1">
+        <div type="scene" xml:id="acte101">
+          <sp who="stenobee" xml:id="acte101-1">
+            <l n="62" xml:id="l62">Non, les soûlevements d’une Ville rebelle</l>
+            <l n="63" xml:id="l63">Ne m’ont point fait quitter Argos.</l>
+            <l n="64" xml:id="l64">C’est l’Amour seul fatal à mon repos,</l>
+            <l n="65" xml:id="l65">C’est le cruel Amour qui dans ces lieux m’appelle.</l>
+            <l n="66" xml:id="l66">Pretus n’est plus, &amp; desormais sa mort<pb n="2"/></l>
+            <l n="67" xml:id="l67">Me rend maistresse de mon sort ;</l>
+            <l n="68" xml:id="l68">Je puis donner un Diadème,</l>
+            <l n="69" xml:id="l69">Et viens en cette Cour faire un dernier <ref target="#efforts">effort*</ref></l>
+            <l n="70" xml:id="l70">Sur le cœur d’un <ref target="#ingrat">Ingrat*</ref> que j’aime.</l>
+          </sp>
+          <sp who="argie" xml:id="acte101-2">
+            <l n="71" xml:id="l71">Quoy, de Bellerophon l’outrageante froideur</l>
+            <l n="72" xml:id="l72">Ne peut de cet amour dégager vostre cœur ?</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte101-3">
+            <l n="73" xml:id="l73">Malgré tous mes mal-heurs je serois trop heureuse,</l>
+            <l n="74" xml:id="l74">Si les mépris pouvoient guerir l’amour.</l>
+            <l n="75" xml:id="l75">Ma fierté dés long-temps par un juste <ref target="#retour">retour*</ref>,</l>
+            <l n="76" xml:id="l76">M’auroit fait triompher de la <ref target="#flame">flâme*</ref> amoureuse ;</l>
+            <l n="77" xml:id="l77">Mais helas ! ma <ref target="#tendresse">tendresse*</ref> augmente chaque jour.</l>
+            <l n="78" xml:id="l78">Malgré tous mes mal-heurs je serois trop heureuse,</l>
+            <l n="79" xml:id="l79">Si les mépris pouvoient guerir l’amour.</l>
+          </sp>
+          <sp who="argie" xml:id="acte101-4">
+            <l n="80" xml:id="l80">Contre Bellerophon vostre aveugle colere</l>
+            <l n="81" xml:id="l81">Aux plus sanglants <ref target="#effets">effets*</ref> devoit s’authoriser ;</l>
+            <l n="82" xml:id="l82">L’amour vous le fait voir toûjours digne de plaire,</l>
+            <l n="83" xml:id="l83">C’est assez pour vous apaiser.</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte101-5">
+            <l n="84" xml:id="l84">Helas ! à quel excez je portay ma vangeance !</l>
+            <l n="85" xml:id="l85">Je l’accusay malgré son innocence</l>
+            <l n="86" xml:id="l86">De vouloir m’inspirer une coupable <ref target="#ardeur">ardeur*</ref>.</l>
+            <l n="87" xml:id="l87">Ce fut pour luy ravir &amp; l’honneur &amp; la vie,</l>
+            <l n="88" xml:id="l88">Que Pretus l’envoya chez le Roy de <ref target="#lycie">Lycie*</ref>.</l>
+            <l n="89" xml:id="l89">Et quels troubles alors ne sentit point mon cœur !<pb n="3"/></l>
+            <l n="90" xml:id="l90">En vain, quand l’amour est extrême,</l>
+            <l n="91" xml:id="l91">On veut prendre un Ingrat qui nous ose outrager.</l>
+            <l n="92" xml:id="l92">On prend dans ses mal-heurs plus de part que luy-mesme.</l>
+            <l n="93" xml:id="l93">Helas ! quand il se faut vanger de ce qu’on aime,</l>
+            <l n="94" xml:id="l94">Qu’il en coûte pour se vanger !</l>
+          </sp>
+          <sp who="argie" xml:id="acte101-6">
+            <l n="95" xml:id="l95">Ne redoutez plus rien ; ce <ref target="#heros">Heros*</ref> invincible</l>
+            <l n="96" xml:id="l96">Aux plus affreux perils tant de fois exposé,</l>
+            <l n="97" xml:id="l97">A sa <ref target="#valeur2">valeur*</ref> a trouvé tout possible.</l>
+            <l n="98" xml:id="l98">Quel <ref target="#triomphe2">triomphe*</ref> pour vous s’il vous estoit aisé</l>
+            <l n="99" xml:id="l99">De rendre enfin son cœur <ref target="#sensible">sensible*</ref> !</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte101-7">
+            <l n="100" xml:id="l100">Du moins Bellerophon n’a jamais rien aimé,</l>
+            <l n="101" xml:id="l101">C’est à la <ref target="#gloire">gloire*</ref> qu’il se donne,</l>
+            <l n="102" xml:id="l102">Et son cœur peut estre <ref target="#charmer">charmé*</ref></l>
+            <l n="103" xml:id="l103">Par les offres de ma Couronne.</l>
+            <l n="104" xml:id="l104">Espoir, qui seduisez les Amans mal-heureux,</l>
+            <l n="105" xml:id="l105">Pourquoy suspendre ma vangeance ?</l>
+            <l n="106" xml:id="l106">Je sçais, je sçais combien vous estes dangereux,</l>
+            <l n="107" xml:id="l107">Je sçais que vous allez entretenir mes feux*,</l>
+            <l n="108" xml:id="l108">Et redoubler leur violence ;</l>
+            <l n="109" xml:id="l109">Cependant vous rentrez dans mon cœur amoureux,</l>
+            <l n="110" xml:id="l110">Et je sens qu’avec vous il est d’intelligence.</l>
+            <l n="111" xml:id="l111">Espoir, qui séduisez les Amans mal-heureux,</l>
+            <l n="112" xml:id="l112">Pourquoy suspendre ma vangeance ?</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte102">
+          <pb n="4"/>
+          <sp who="philonoe" xml:id="acte102-1">
+            <l n="113" xml:id="l113">Reyne, vous sçavez qu’en ce jour</l>
+            <l n="114" xml:id="l114">Je reçois un Espoux de la main de mon Pere.</l>
+            <l n="115" xml:id="l115">J’attends le choix qu’il doit faire</l>
+            <l n="116" xml:id="l116">Entre tous ces Amants qui remplissent sa Cour.</l>
+            <l n="117" xml:id="l117">Obtenez qu’il n’en délibere</l>
+            <l n="118" xml:id="l118">Que de concert avec l’amour.</l>
+            <l n="119" xml:id="l119">Qu’il est doux de trouver dans un Amant qu’on aime</l>
+            <l n="120" xml:id="l120">Un Espoux que l’on doit aimer !</l>
+            <l n="121" xml:id="l121">Lorsque le cœur a choisi de luy-mesme</l>
+            <l n="122" xml:id="l122">Le seul Objet qui pouvait l’enflamer,</l>
+            <l n="123" xml:id="l123">Qu’il est doux de trouver dans un Amant qu’on aime</l>
+            <l n="124" xml:id="l124">Un Espoux que l’on doit aimer.</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte102-2">
+            <l n="125" xml:id="l125">Quoy, Princesse, à l’amour vous auriez pû vous rendre ?</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte102-3">
+            <l n="126" xml:id="l126">En vain j’ay voulu m’en défendre.</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte102-4">
+            <l n="127" xml:id="l127">Et qui donc aimez-vous ?</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte102-5">
+            <pb n="5"/>
+            <l n="128" xml:id="l128">Un <ref target="#heros">Heros*</ref> que les Dieux</l>
+            <l n="129" xml:id="l129">Ont fait des Conquerans l’exemple glorieux.</l>
+            <l n="130" xml:id="l130">Estimé dans la paix, redouté dans la guerre,</l>
+            <l n="131" xml:id="l131">Il est, &amp; la terreur &amp; l’amour de la Terre.</l>
+            <l n="132" xml:id="l132">Si pour chercher à vaincre il court dans les hazards,</l>
+            <l n="133" xml:id="l133">A ses premiers <ref target="#efforts">efforts*</ref> ses Ennemis se rendent,</l>
+            <l n="134" xml:id="l134">Et s’il aime, il n’est point de cœur qui se défend</l>
+            <l n="135" xml:id="l135">De ses premiers regards.</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte102-6">
+            <l n="136" part="I" xml:id="l136">Ah ! C’est Bellerophon.</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte102-7">
+            <l part="F">C’est luy, je le confesse,</l>
+            <l n="137" xml:id="l137">Ne condamnez point ma <ref target="#tendresse">tendresse*</ref>.</l>
+            <l n="138" xml:id="l138">Quand mille exploits fameux parlent pour un Amant,</l>
+            <l n="139" xml:id="l139">Peut-on résister un moment ?</l>
+            <l n="140" xml:id="l140">Après avoir vaincu deux Nations guerrieres,</l>
+            <l n="141" xml:id="l141">Bellerophon améne en ces lieux fortunez,</l>
+            <l n="142" xml:id="l142">Les Amazones prisonnieres,</l>
+            <l n="143" xml:id="l143">Et les Solymes enchaînez ;</l>
+            <l n="144" xml:id="l144">Il possède mon cœur, je puis tout sur son ame.</l>
+            <l n="145" xml:id="l145">Reyne, favorisez une si belle <ref target="#flame">flâme*</ref>.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte103">
+          <pb n="6"/>
+          <sp who="stenobee" xml:id="acte103-1">
+            <l n="146" xml:id="l146">Et je croyois qu’aucune <ref target="#ardeur">ardeur*</ref></l>
+            <l n="147" xml:id="l147">N’eût jamais enflamé son cœur ?</l>
+          </sp>
+          <sp who="argie" xml:id="acte103-2">
+            <l n="148" xml:id="l148">Un cœur qui paroist invincible</l>
+            <l n="149" xml:id="l149">Peut estre un temps sans se laisser charmer ;</l>
+            <l n="150" xml:id="l150">Mais on a beau se défendre d’aimer,</l>
+            <l n="151" xml:id="l151">Le moment vient d’estre sensible*.</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte103-3">
+            <l n="152" xml:id="l152">C’en est fait, l’outrage est trop grand.</l>
+            <l n="153" xml:id="l153">Si ses cruels refus faisoient tort à ma gloire,</l>
+            <l n="154" xml:id="l154">Au moins il m’estoit doux de croire</l>
+            <l n="155" xml:id="l155">Que mon cœur soûpiroit pour un <ref target="#indifferent">Indifferent*</ref>.</l>
+            <l n="156" xml:id="l156">Mais il aime, &amp; c’est là ce qui me desespere.</l>
+            <l n="157" xml:id="l157">Une autre a fait ce que je n’ay pû faire.</l>
+            <l n="158" xml:id="l158">Venez, haine, vangeance, &amp; versez dans mon cœur</l>
+            <l n="159" xml:id="l159">Votre poison le plus funeste.</l>
+            <l n="160" xml:id="l160">Vous ne sçauriez m’inspirer trop d’horreur</l>
+            <l n="161" xml:id="l161">Pour un <ref target="#ingrat">Ingrat*</ref> que je deteste.</l>
+            <l n="162" xml:id="l162">Suivons, suivons ce désespoir.</l>
+            <l n="163" xml:id="l163">Il faut pour vanger mon outrage</l>
+            <l n="164" xml:id="l164">Qu’Amisodar serve ma rage;<pb n="7"/></l>
+            <l n="165" xml:id="l165">Son Art dans les Enfers luy donne tout pouvoir.</l>
+            <l n="166" xml:id="l166">Il en peut évoquer quelque Monstre effroyable</l>
+            <l n="167" xml:id="l167">Qui porte le ravage &amp; la flâme en ces lieux,</l>
+            <l n="168" xml:id="l168">Il m’aime, &amp; si sur luy je veux jeter les yeux…</l>
+          </sp>
+          <sp who="argie" xml:id="acte103-4">
+            <l n="169" xml:id="l169">Le Roy vient, contraignez l’<ref target="#ennuy">ennuy*</ref> qui vous accable.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte104">
+          <sp who="iobate" xml:id="acte104-1">
+            <l n="170" xml:id="l170">Contre Bellerophon, j’ay fait jusqu’à ce jour</l>
+            <l n="171" xml:id="l171">Ce que Pretus pouvoit attendre</l>
+            <l n="172" xml:id="l172">De l’aveugle <ref target="#zele">zele*</ref> d’un Gendre.</l>
+            <l n="173" xml:id="l173">Vous vouliez comme luy qu’il perît dans ma Cour.</l>
+            <l n="174" xml:id="l174">D’abord, sans connoistre son crime,</l>
+            <l n="175" xml:id="l175">J’abandonnay sa teste aux rigueurs de son sort.</l>
+            <l n="176" xml:id="l176">Pretus croyoit sa perte legitime,</l>
+            <l n="177" xml:id="l177">C’estoit assez pour résoudre sa mort.</l>
+            <l n="178" xml:id="l178">Mais enfin il est temps de vous ouvrir mon ame.</l>
+            <l n="179" xml:id="l179">Apres qu’il s’est rendu l’appuy de mes Estats,</l>
+            <l n="180" xml:id="l180">Je dois me conserver son bras.</l>
+            <l n="181" xml:id="l181">Ma Fille est l’objet de sa flâme,</l>
+            <l n="182" xml:id="l182">Aujourd’huy de ma main elle attend un Espoux,<pb n="8"/></l>
+            <l n="183" part="I" xml:id="l183">C’est luy que je choisis.</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte104-2">
+            <l part="F">Ciel, que me dites-vous ?</l>
+            <l n="184" xml:id="l184">Choisir Bellerophon ! &amp; qui l’auroit pû croire ?</l>
+          </sp>
+          <sp who="iobate" xml:id="acte104-3">
+            <l n="185" xml:id="l185">Ses Exploits l’ont rendu digne de cette gloire.</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte104-4">
+            <l n="186" xml:id="l186">Songez-vous que Pretus vous demanda sa mort ?</l>
+          </sp>
+          <sp who="iobate" xml:id="acte104-5">
+            <l n="187" xml:id="l187">Les Dieux ne m’ont point fait arbitre de son sort.</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte104-6">
+            <l n="188" xml:id="l188">Quoy, vous soûtenez un Coupable ?</l>
+          </sp>
+          <sp who="iobate" xml:id="acte104-7">
+            <l n="189" xml:id="l189">Quoy, vôtre haine est implacable ?</l>
+          </sp>
+          <sp who="iobate stenobee" xml:id="acte104-8">
+            <l n="190" xml:id="l190">Ah, cessez de vous obstiner.</l>
+          </sp>
+          <sp who="iobate" xml:id="acte104-9">
+            <l n="191" xml:id="l191">Malgré vôtre jalouse envie,</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte104-10">
+            <l n="192" xml:id="l192">Malgré vos soins pour luy sauver la vie,</l>
+          </sp>
+          <sp who="iobate stenobee" xml:id="acte104-11">
+            <l n="193" xml:id="l193">Il merite le prix que je luy veux donner. la mort</l>
+            <pb n="9/B"/>
+          </sp>
+          <sp who="stenobee" xml:id="acte104-12">
+            <l n="194" xml:id="l194">A ce bruit éclatant je <ref target="#connoistre">connois*</ref> qu’il s’avance.</l>
+            <l n="195" xml:id="l195">Je ne vous dis plus rien, mais vous devez songer</l>
+            <l n="196" xml:id="l196">Que si vous negligez le soin de ma vangeance,</l>
+            <l n="197" xml:id="l197">Je suis Reyne, &amp; puis me vanger.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte105">
+          <sp who="iobate" xml:id="acte105-1">
+            <l n="198" xml:id="l198">Venez, venez, goûter les doux fruits de la gloire,</l>
+            <l n="199" xml:id="l199">Qui dans tout l’Univers vous fait tant de jaloux.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte105-2">
+            <l n="200" xml:id="l200">Seigneur, quand on combat pour vous</l>
+            <l n="201" xml:id="l201">N’est-on pas seur de la victoire ?</l>
+          </sp>
+          <pb n="10"/>
+          <sp who="iobate" xml:id="acte105-3">
+            <l n="202" xml:id="l202">Apres avoir rangé deux Peuples sous mes Loix,</l>
+            <l n="203" xml:id="l203">Prince, vôtre rare vaillance</l>
+            <l n="204" xml:id="l204">Demeureroit sans recompense</l>
+            <l n="205" xml:id="l205">Si ma Fille n’estoit le prix de vos exploits.</l>
+            <l n="206" xml:id="l206">Vous l’aimez, elle vous aime,</l>
+            <l n="207" xml:id="l207">Soyez heureux, j’y consens.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte105-4">
+            <l n="208" xml:id="l208">Ah Seigneur ! puis je encor me <ref target="#connoistre">connoistre*</ref> moy-mesme ?</l>
+          </sp>
+          <sp who="iobate" xml:id="acte105-5">
+            <l n="209" xml:id="l209">La <ref target="#valeur1">valeur*</ref> obtient tout des cœurs reconnaissans.</l>
+            <l n="210" xml:id="l210">Un <ref target="#heros">Heros*</ref> que la gloire éleve</l>
+            <l n="211" xml:id="l211">N’est qu’à demy récompensé,</l>
+            <l n="212" xml:id="l212">Et c’est peu si l’amour n’acheve</l>
+            <l n="213" xml:id="l213">Ce que la Gloire a commencé.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte105-6">
+            <l n="214" xml:id="l214">Surpris de tant d’honneurs je ne puis que me taire.</l>
+            <l n="215" xml:id="l215">Quel service assez grand pouvoit les meriter ?</l>
+            <l n="216" xml:id="l216">J’eusse esté trop temeraire</l>
+            <l n="217" xml:id="l217">Si j’eusse osé me flatter,</l>
+            <l n="218" xml:id="l218">Moy qu’un Frere a chassé d’Ephyre,</l>
+            <l n="219" xml:id="l219">Où mon Pere Glaucus avait donné la Loy.</l>
+          </sp>
+          <sp who="iobate" xml:id="acte105-7">
+            <l n="220" xml:id="l220">Estre l’appuiy de mon Empire,</l>
+            <l n="221" xml:id="l221">C’est meriter assez d’y regner apres moy.</l>
+            <l n="222" xml:id="l222">Qu’aucun ne garde icy des sujets de tristesse.<pb n="11"/></l>
+            <l n="223" xml:id="l223">A vos Captifs je rends la liberté.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte105-8">
+            <l n="224" xml:id="l224">Faites tous voir vôtre allegresse</l>
+            <l n="225" xml:id="l225">En sortant de captivité.</l>
+          </sp>
+          <sp who="amazones" xml:id="acte105-9">
+            <l n="226" xml:id="l226">Quand un Vainqueur est tout brillant de gloire,</l>
+            <l n="227" xml:id="l227">Qu’il est doux de porter ses <ref target="#fers">fers*</ref> !</l>
+          </sp>
+          <sp who="solymes" xml:id="acte105-10">
+            <l n="228" xml:id="l228">Celuy qui nous soûmit commande à la Victoire,</l>
+            <l n="229" xml:id="l229">Il soûmettra tout l’Univers.</l>
+          </sp>
+          <sp who="amazones solymes" xml:id="acte105-11">
+            <l n="230" xml:id="l230">Disons cent fois ce qu’on ne peut trop dire,</l>
+            <l n="231" xml:id="l231">Heureux qui vît sous son empire !</l>
+          </sp>
+          <sp who="amazones solymes" xml:id="acte105-12">
+            <l n="232" xml:id="l232">Faisons cesser nos <ref target="#alarmes">alarmes*</ref>,</l>
+            <l n="233" xml:id="l233">Goûtons les biens que rend la liberté.</l>
+            <l n="234" xml:id="l234">Celuy dont chacun craint les armes<pb n="12"/></l>
+            <l n="235" xml:id="l235">A fait finir notre captivité.</l>
+            <l n="236" xml:id="l236">Un sort si plein de charmes</l>
+            <l n="237" xml:id="l237">Met nôtre gloire enfin en seureté.</l>
+            <l n="238" xml:id="l238">Rompons le cours de nos larmes,</l>
+            <l n="239" xml:id="l239">Nos déplasirs ont assez éclaté.</l>
+            <l n="240" xml:id="l240">Celuy dont chacun craint les armes</l>
+            <l n="241" xml:id="l241">A fait finir notre captivité.</l>
+            <l n="242" xml:id="l242">Un sort si plein de charmes</l>
+            <l n="243" xml:id="l243">Met nôtre gloire enfin en seureté.</l>
+            <p>FIN DU PREMIER ACTE.</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act" xml:id="acte2">
+        <pb n="13"/>
+        <div type="scene" xml:id="acte201">
+          <sp who="philonoe" xml:id="acte201-1">
+            <l n="244" xml:id="l244">Amour, mes vœux sont satisfaits,</l>
+            <l n="245" xml:id="l245">Il m’est doux de porter tes <ref target="#chaines">chaînes*</ref>,</l>
+            <l n="246" xml:id="l246">Et j’oublie aujourd’huy les peines</l>
+            <l n="247" xml:id="l247">Qui de mon cœur avoient troublé la paix.</l>
+            <l n="248" xml:id="l248">Cruelles inquietudes,</l>
+            <l n="249" xml:id="l249">Soûpirs languissans,</l>
+            <l n="250" xml:id="l250">Si j’ay souffert vos tourments les plus rudes,</l>
+            <l n="251" xml:id="l251">Je n’ay pas trop payé les douceurs que je sens.</l>
+          </sp>
+          <sp who="amazone1" xml:id="acte201-2">
+            <pb n="14"/>
+            <l n="252" xml:id="l252">Les douceurs que l’amour fait trouver dans ses chaînes,</l>
+            <l n="253" xml:id="l253">Aux plus heureux Amans ont coûté des soûpirs.</l>
+          </sp>
+          <sp who="amazone2" xml:id="acte201-3">
+            <l n="254" xml:id="l254">Les plaisirs qui n’ont point commencé par les peines,</l>
+            <l n="255" xml:id="l255">Ne font jamais de vrais plaisirs.</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte201-4">
+            <l n="256" xml:id="l256">Chantez, chantez la <ref target="#valeur1">valeur*</ref> éclatante</l>
+            <l n="257" xml:id="l257">Du plus grand des <ref target="#heros">Heros*</ref> ;</l>
+            <l n="258" xml:id="l258">Si la <ref target="#lycie">Lycie*</ref> est triomphante,</l>
+            <l n="259" xml:id="l259">C’est à luy qu’elle doit sa gloire &amp; son repos.</l>
+          </sp>
+          <sp who="amazone1" xml:id="acte201-5">
+            <l n="260" xml:id="l260">Que de Lauriers sur une seule teste !</l>
+            <l n="261" xml:id="l261">Avec luy la Victoire a peine à respirer.</l>
+          </sp>
+          <sp who="amazone2" xml:id="acte201-6">
+            <l n="262" xml:id="l262">De l’Univers entier il eut fait la conqueste,</l>
+            <l n="263" xml:id="l263">Si son grand cœur n’eût sçeu se moderer.</l>
+          </sp>
+          <sp who="amazones" xml:id="acte201-7">
+            <l n="264" xml:id="l264">Chantons, chantons la valeur éclatante</l>
+            <l n="265" xml:id="l265">Du plus grand des <ref target="#heros">Heros*</ref> ;</l>
+            <l n="266" xml:id="l266">Si la <ref target="#lycie">Lycie*</ref> est triomphante,</l>
+            <l n="267" xml:id="l267">C’est à luy qu’elle doit sa gloire &amp; son repos.<pb n="15"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte202">
+          <sp who="bellerophon" xml:id="acte202-1">
+            <l n="268" xml:id="l268">Princesse, tout conspire à couronner ma <ref target="#flame">flâme*</ref>,</l>
+            <l n="269" xml:id="l269">Tout s’apreste pour mon bon-heur.</l>
+            <l n="270" xml:id="l270">Sentez-vous les plaisirs qui regnent dans mon ame,</l>
+            <l n="271" xml:id="l271">Et les mesmes <ref target="#transports">transports*</ref> charment-ils vôtre cœur ?</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte202-2">
+            <l n="272" xml:id="l272">L’amour qui unit par de si douces <ref target="#chaines">chaînes*</ref></l>
+            <l n="273" xml:id="l273">A dés long-temps uny tous nos desirs ;</l>
+            <l n="274" xml:id="l274">A vos soûpirs cent fois j’ay meslé mes soûpirs,</l>
+            <l n="275" xml:id="l275">Et si j’ay partagé vos peines,</l>
+            <l n="276" xml:id="l276">Je dois partager vos plaisirs.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte202-3">
+            <l n="277" xml:id="l277">Qu’un si doux aveu doit me plaire !</l>
+            <l n="278" xml:id="l278">Qu’il rend mon destin glorieux !</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte202-4">
+            <l n="279" xml:id="l279">Quand ma bouche pourroit se taire,</l>
+            <l n="280" xml:id="l280">L’amour feroit parler mes yeux.</l>
+          </sp>
+          <sp who="philonoe bellerophon" xml:id="acte202-5">
+            <l n="281" xml:id="l281">Que tout parle à l’<ref target="#envy">envy*</ref> de nôtre amour extrême,</l>
+            <l n="282" xml:id="l282">A ses <ref target="#transports">transports*</ref> abandonnons nos cœurs,<pb n="16"/></l>
+            <l n="283" xml:id="l283">Et pour goûter toujours de nouvelles douceurs,</l>
+            <l n="284" xml:id="l284">Disons-nous cent fois : je vous aime.</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte202-6">
+            <l n="285" xml:id="l285">Prince, Adieu ; mon devoir m’appelle auprés du Roy,</l>
+            <l n="286" xml:id="l286">Je vous laisse le soin d’entretenir la Reyne.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte202-7">
+            <l n="287" xml:id="l287">Quel cruel supplice pour moy !</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte203">
+          <sp who="stenobee" xml:id="acte203-1">
+            <l n="288" xml:id="l288">Ma présence icy te fait peine.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte203-2">
+            <l n="289" xml:id="l289">Il est vrai, je frêmis lors que je vous revoy.</l>
+            <l n="290" xml:id="l290">Quel destin ennemy vous améne en <ref target="#lycie">Lycie*</ref> ?</l>
+            <l n="291" xml:id="l291">Y venez vous chercher à troubler mon repos ?</l>
+            <l n="292" xml:id="l292">Vous m’avez fait bannir d’Argos,</l>
+            <l n="293" xml:id="l293">Ne verray-je jamais vôtre haine adoucie ?</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte203-3">
+            <l n="294" xml:id="l294">S’il te souvient des maux que je t’ay faits,</l>
+            <l n="295" xml:id="l295">Qu’il te souvienne aussi de ma <ref target="#tendresse">tendresse*</ref> extrême ;<pb n="17/C"/></l>
+            <l n="296" xml:id="l296">Ne me reproche point, ingrat, que je te hais,</l>
+            <l n="297" xml:id="l297">Ou reproche moy que je t’ayme.</l>
+            <l n="298" xml:id="l298">J’ay tasché de te <ref target="#perdre">perdre*</ref>, &amp; j’ai crû le vouloir.</l>
+            <l n="299" xml:id="l299">J’ay suivy les <ref target="#transports">transports*</ref> d’une aveugle vangeance,</l>
+            <l n="300" xml:id="l300">Mais plus à mon amour j’ay fait de violence,</l>
+            <l n="301" xml:id="l301">Plus sur mon cœur il a pris de pouvoir,</l>
+            <l n="302" xml:id="l302">Et je ne t’ay jamais haï qu’en apparence.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte203-4">
+            <l n="303" xml:id="l303">Vous m’avez sans relâche accablé de mal-heurs,</l>
+            <l n="304" xml:id="l304">Je n’ay point reconnû l’amour dans vos <ref target="#fureurs">fureurs*</ref>.</l>
+            <l n="305" xml:id="l305">Si l’amour quelque fois s’abandonne à la rage,</l>
+            <l n="306" xml:id="l306">Il est toûjours amour mesme quand il outrage.</l>
+            <l n="307" xml:id="l307">Mais vous, toûjours constante à me persecuter,</l>
+            <l n="308" xml:id="l308">Vous n’avez espargné ma <ref target="#gloire">gloire*</ref> ny ma vie,</l>
+            <l n="309" xml:id="l309">Et je ne dois rien écouter</l>
+            <l n="310" xml:id="l310">De ma plus mortelle Ennemie.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte204">
+          <pb n="18"/>
+          <sp who="stenobee" xml:id="acte204-1">
+            <l n="311" xml:id="l311">Tu me quittes, <ref target="#cruel">cruel*</ref> ! arreste. Il fuit, helas !</l>
+            <l n="312" xml:id="l312">Mon amour voit sa honte, &amp; n’en profite pas.</l>
+            <l n="313" xml:id="l313">Vous ne sçauriez guerir le mal qui me tourmente,</l>
+            <l n="314" xml:id="l314">Foibles <ref target="#retour">retours*</ref> de l’impuissant dépit ;</l>
+            <l n="315" xml:id="l315">Des mespris d’un <ref target="#ingrat">Ingrat*</ref> ma <ref target="#flame">flâme*</ref> se nourrit,</l>
+            <l n="316" xml:id="l316">Elle devroit s’éteindre, &amp; devient plus ardente.</l>
+            <l n="317" xml:id="l317">L’amour trop heureux s’affoiblit,</l>
+            <l n="318" xml:id="l318">Mais l’amour mal-heureux s’augmente.</l>
+          </sp>
+          <sp who="argie" xml:id="acte204-2">
+            <l n="319" xml:id="l319">Quoy, vous pourrez toûjours souffrir</l>
+            <l n="320" xml:id="l320">Qu’on vous brave, qu’on vous dédaigne ?</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte204-3">
+            <l n="321" xml:id="l321">Non, il faut dans son sang que mon amour s’éteigne.</l>
+            <l n="322" xml:id="l322"><ref target="#perdre">Perdons*</ref> tout , faisons tout perir.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte205">
+          <pb n="19"/>
+          <sp who="stenobee" xml:id="acte205-1">
+            <l n="323" xml:id="l323">Vous me jurez sans cesse une amour eternelle.</l>
+            <l n="324" xml:id="l324">Croiray-je, Amisodar, croiray-je vos serments ?</l>
+            <l n="325" xml:id="l325">Me serez vous assez fidelle</l>
+            <l n="326" xml:id="l326">Pour ne refuser rien à mes ressentiments ?</l>
+          </sp>
+          <sp who="amisodar" xml:id="acte205-2">
+            <l n="327" xml:id="l327">Lorsque l’amour vous asservit mon ame,</l>
+            <l n="328" xml:id="l328">Votre insensible cœur devroit se contenter</l>
+            <l n="329" xml:id="l329">De ne pas respondre à ma <ref target="#flame">flâme*</ref> ;</l>
+            <l n="330" xml:id="l330">Pourquoy me faire encor outrage d’en douter ?</l>
+            <l n="331" xml:id="l331">Vos froideurs, vôtre indifference,</l>
+            <l n="332" xml:id="l332">Me touchent moins que cette offense,</l>
+            <l n="333" xml:id="l333">Je meurs pour vos divins <ref target="#appas">appas*</ref>,</l>
+            <l n="334" xml:id="l334">Et viens vous demander pour toute recompense</l>
+            <l n="335" xml:id="l335">Que vous n’en doutiez pas.</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte205-3">
+            <l n="336" xml:id="l336">Bellerophon m’a fait une mortelle injure,</l>
+            <l n="337" xml:id="l337">Le Roy la connoist &amp; l’endure,</l>
+            <l n="338" xml:id="l338">Il le choisit pour Gendre au lieu de le punir.</l>
+            <l n="339" xml:id="l339">Troublons l’<ref target="#hymen">Hymen*</ref> qui se prepare</l>
+            <l n="340" xml:id="l340">Par une vangeance <ref target="#barbare">barbare*</ref></l>
+            <l n="341" xml:id="l341">Dont le seul souvenir<pb n="20"/></l>
+            <l n="342" xml:id="l342">Fasse trembler tout l’avenir.</l>
+          </sp>
+          <sp who="amisodar" xml:id="acte205-4">
+            <l n="343" xml:id="l343">Je puis de la nuit infernale,</l>
+            <l n="344" xml:id="l344">Faire sortir un Monstre furieux :</l>
+            <l n="345" xml:id="l345">Mais vous mesme tremblez d’exercer en ces lieux</l>
+            <l n="346" xml:id="l346">Une vangeance si fatale.</l>
+            <l n="347" xml:id="l347">Preparez-vous à voir nos Peuples allarmez,</l>
+            <l n="348" xml:id="l348">Et nos Villes tremblantes.</l>
+            <l n="349" xml:id="l349">Le Monstre couvrira de torrents enflamez</l>
+            <l n="350" xml:id="l350">Nos campagnes fumantes</l>
+            <l n="351" xml:id="l351">Et nos champs ne seront semez</l>
+            <l n="352" xml:id="l352">Que de restes affreux de Victimes sanglantes.</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte205-5">
+            <l n="353" xml:id="l353">Que ce Spectacle sera doux</l>
+            <l n="354" xml:id="l354">A la <ref target="#fureurs">fureur*</ref> qui me transporte !</l>
+            <l n="355" xml:id="l355">Hastez-vous, hastez-vous</l>
+            <l n="356" xml:id="l356">De servir mon couroux,</l>
+            <l n="357" xml:id="l357">Faites ouvrir la terre, &amp; que le Monstre en sorte,</l>
+            <l n="358" xml:id="l358">Hastez-vous, hastez-vous</l>
+            <l n="359" xml:id="l359">De servir mon couroux.</l>
+          </sp>
+          <sp who="amisodar" xml:id="acte205-6">
+            <l n="360" xml:id="l360">Jusqu’au fond des Enfers je vay me faire entendre,</l>
+            <l n="361" xml:id="l361">Fuyez, Reyne, fuyez ;</l>
+            <l n="362" xml:id="l362">Vos yeux seroient trop effrayez</l>
+            <l n="363" xml:id="l363">De l’horreur qu’en ces lieux mes <ref target="#charmes">Charmes*</ref> vont répandre.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte206">
+          <pb n="21"/>
+          <sp who="amisodar" xml:id="acte206-1">
+            <l n="364" xml:id="l364">Que ce jardin se change en Desert affreux.</l>
+            <l n="365" xml:id="l365">Noirs Habitans du séjour tenebreux,</l>
+            <l n="366" xml:id="l366">Pour m’écouter dans vos Demeures sombres,</l>
+            <l n="367" xml:id="l367">Redoublez, s’il se peut, le silence des Ombres.</l>
+            <l n="368" xml:id="l368">Et vous, à me servir employez tant de fois,</l>
+            <l n="369" xml:id="l369">Ministres de mon Art, accourez à ma voix.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte207">
+          <pb n="22"/>
+          <sp who="magiciens" xml:id="acte207-1">
+            <l n="370" xml:id="l370">Parle, nous voilà prests, tout nous sera possible.</l>
+          </sp>
+          <sp who="amisodar" xml:id="acte207-2">
+            <l n="371" xml:id="l371">Faisons sortir un Monstre horrible.</l>
+            <l n="372" xml:id="l372">Pour l’évoquer employez l’Acheron,</l>
+            <l n="373" xml:id="l373">Le Cocyte, le Phlegeton ;</l>
+            <l n="374" xml:id="l374">Faites que vostre voix dans tout l’Enfer résonne.</l>
+            <l n="375" xml:id="l375">C’est moy qui vous l’ordonne.</l>
+          </sp>
+          <sp who="magiciens" xml:id="acte207-3">
+            <l n="376" xml:id="l376">Par ce pressant commandement,</l>
+            <l n="377" xml:id="l377">Promptement, promptement.,</l>
+            <l n="378" xml:id="l378">Que la Tenare s’ouvre,</l>
+            <l n="379" xml:id="l379">Que l’Enfer se découvre ;</l>
+            <l n="380" xml:id="l380">Cocyte, Phlegeton, il nous faut du secours,</l>
+            <l n="381" xml:id="l381">Pour nous entendre arrestez vôtre cours.</l>
+          </sp>
+          <sp who="amisodar" xml:id="acte207-4">
+            <l n="382" xml:id="l382">Poursuivez. Que pour moy vôtre pouvoir éclate ;</l>
+            <l n="383" xml:id="l383">Par Cerbere &amp; la triple Hecate ;</l>
+            <l n="384" xml:id="l384">Parlez, pressez, appellez à grand bruit,<pb n="23"/></l>
+            <l n="385" xml:id="l385">Et la Mort &amp; la Nuit.</l>
+          </sp>
+          <sp who="magiciens" xml:id="acte207-5">
+            <l n="386" xml:id="l386">Nuit, Mort, Cerbere, Hecate, Erebe, Averne,</l>
+            <l n="387" xml:id="l387">Noires Filles du Stix que la <ref target="#fureurs">fureur*</ref> gouverne,</l>
+            <l n="388" xml:id="l388">Entendez nos cris, servez-vous,</l>
+            <l n="389" xml:id="l389">Nous travaillons pour vous.</l>
+          </sp>
+          <sp who="amisodar" xml:id="acte207-6">
+            <l n="390" xml:id="l390">Le Charme est fait, les Monstres vont paroistre,</l>
+            <l n="391" xml:id="l391">La Terre s’ouvre, &amp; me fait connoistre.</l>
+            <l n="392" xml:id="l392">Rendons aux sombres Deïtez</l>
+            <l n="393" xml:id="l393">Les honneurs que de nous elles ont méritez.</l>
+          </sp>
+          <sp who="magiciens" xml:id="acte207-7">
+            <pb n="24"/>
+            <l n="394" xml:id="l394">La Terre nous ouvre</l>
+            <l n="395" xml:id="l395">Ses Gouffres profonds,</l>
+            <l n="396" xml:id="l396">L’Enfer se découvre.</l>
+            <l n="397" xml:id="l397">Chantons, triomphons,</l>
+            <l n="398" xml:id="l398">On voit l’Onde noire</l>
+            <l n="399" xml:id="l399">Pour nous s’arrester.</l>
+            <l n="400" xml:id="l400">Victoire, victoire, victoire,</l>
+            <l n="401" xml:id="l401">Nous avons la gloire</l>
+            <l n="402" xml:id="l402">De tout surmonter.</l>
+            <l n="403" xml:id="l403">Triomphe, Victoire,</l>
+            <l n="404" xml:id="l404">Triomphe, Victoire,</l>
+            <l n="405" xml:id="l405">Nous avons la gloire</l>
+            <l n="406" xml:id="l406">De tout surmonter.</l>
+            <l n="407" xml:id="l407">Non, non, rien ne peut nous resister.</l>
+          </sp>
+          <sp who="amisodar" xml:id="acte207-8">
+            <l n="408" xml:id="l408">Un Monstre seul causeroit peu d’effroy,</l>
+            <l n="409" xml:id="l409">Il faut unir ces trois Monstres ensemble.</l>
+            <l n="410" xml:id="l410">Par un charme plus fort &amp; plus digne de moy,</l>
+            <l n="411" xml:id="l411">Faisons qu’un seul corps les assemble,</l>
+            <l n="412" xml:id="l412">Pour en venir à bout descendons aux Enfers</l>
+            <l n="413" xml:id="l413">Les Gouffres nous en sont ouverts.</l>
+            <l n="414" xml:id="l414">Tout s’abysme, &amp; la Terre se referme.</l>
+            <p>FIN DU SECOND ACTE.<pb n="25"/></p>
+          </sp>
+        </div>
+      </div>
+      <div type="act" xml:id="acte3">
+        <pb n="25/D"/>
+        <div type="scene" xml:id="acte301">
+          <sp who="argie" xml:id="acte301-1">
+            <l n="415" xml:id="l415">Que vous faites couler &amp; de sang &amp; de larmes</l>
+            <l n="416" xml:id="l416">Dans ces tristes climats.</l>
+            <l n="417" xml:id="l417">Tout tremble, tout en est en allarmes.</l>
+            <l n="418" xml:id="l418">On voit regner partout l’image du trespas,</l>
+            <l n="419" xml:id="l419">Et le Monstre animé par la force des <ref target="#charmes">Charmes*</ref></l>
+            <l n="420" xml:id="l420">Marque de mille morts la trace de ses pas.</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte301-2">
+            <pb n="26"/>
+            <l n="421" xml:id="l421">Lieux désolez, &amp; remplis de carnage,</l>
+            <l n="422" xml:id="l422">Campagnes où le Monstre a semé tant d’horreur,</l>
+            <l n="423" xml:id="l423">Ne me reprochez point ma jalouse <ref target="#fureurs">fureur*</ref>,</l>
+            <l n="424" xml:id="l424">Dont votre embrasement est le fatal ouvrage ;</l>
+            <l n="425" xml:id="l425">L’amour desesperé qui regne dans mon cœur</l>
+            <l n="426" xml:id="l426">Vous vange assez de ce ravage.</l>
+          </sp>
+          <sp who="argie" xml:id="acte301-3">
+            <l n="427" xml:id="l427">Quoi, vous ne goûtez point la secrette douceur</l>
+            <l n="428" xml:id="l428">D’avoir troublé l’<ref target="#hymen">Hymen*</ref> qui vous a outragé ?</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte301-4">
+            <l n="429" xml:id="l429">Impuissante vangeance ! inutile secours !</l>
+            <l n="430" xml:id="l430">Dequoy peux-tu servir quand on aime toûjours ?</l>
+            <l n="431" xml:id="l431">Les plus cruels <ref target="#transports">transports*</ref> que la <ref target="#fureurs">fureur*</ref> inspire</l>
+            <l n="432" xml:id="l432">Consolent mal un amour outragé.</l>
+            <l n="433" xml:id="l433">Ce mal-heureux amour apres s’estre vangé,</l>
+            <l n="434" xml:id="l434">N’en fait pas moins sentir son tyrannique empire.</l>
+            <l n="435" xml:id="l435">Impuissante vangeance ! inutile secours !</l>
+            <l n="436" xml:id="l436">Dequoy peux-tu servir quand on aime toûjours ?</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte302">
+          <pb n="27"/>
+          <sp who="iobate" xml:id="acte302-1">
+            <l n="437" xml:id="l437">Que de mal-heurs accablent la <ref target="#lycie">Lycie*</ref> ?</l>
+            <l n="438" xml:id="l438">Si le Ciel luy gardoit de si funestes coups,</l>
+            <l n="439" xml:id="l439">Avant qu’il fist sur elle éclater son courroux,</l>
+            <l n="440" xml:id="l440">Que ne m’a-t-il osté la vie ?</l>
+            <l n="441" xml:id="l441">Je ne vois en tous lieux que des marques d’effroy,</l>
+            <l n="442" xml:id="l442">Que des Objets qui m’épouvantent,</l>
+            <l n="443" xml:id="l443">Et je partage comme Roy</l>
+            <l n="444" xml:id="l444">Les maux que mes Sujets ressentent.</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte302-2">
+            <l n="445" xml:id="l445">Quand vous voyez vos Peuples abbatus,</l>
+            <l n="446" xml:id="l446">Reconnaissez du Ciel la justice suprême.</l>
+            <l n="447" xml:id="l447">Vous n’avez pas vangé l’injure de Pretus,</l>
+            <l n="448" xml:id="l448">Il la vange luy-mesme.</l>
+            <l n="449" xml:id="l449">Bellerophon Victorieux</l>
+            <l n="450" xml:id="l450">Cause tous les mal-heurs dont votre cœur soûpire,</l>
+            <l n="451" xml:id="l451">C’est contre luy seul que les Dieux</l>
+            <l n="452" xml:id="l452">Ont envoyé le Monstre furieux</l>
+            <l n="453" xml:id="l453">Qui desole tout vostre Empire.</l>
+            <l n="454" xml:id="l454">Que sa <ref target="#valeur2">valeur*</ref> en delivre ces lieux,</l>
+            <l n="455" xml:id="l455">Puisque son crime vous attire.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte303">
+          <pb n="28"/>
+          <sp who="bellerophon" xml:id="acte303-1">
+            <l n="456" xml:id="l456">Vous venez consulter l’Oracle d’<ref target="#apollon-oraculaire">Apollon*</ref> ?</l>
+          </sp>
+          <sp who="iobate" xml:id="acte303-2">
+            <l n="457" xml:id="l457">Je viens luy demander ce qu’il faut que j’espere ;</l>
+            <l n="458" xml:id="l458">De mes Estats c’est le Dieu tutelaire.</l>
+            <l n="459" xml:id="l459">Il écoute ma voix, quand j’implore son nom.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte303-3">
+            <l n="460" xml:id="l460">Ce Dieu qui cherit la <ref target="#lycie">Lycie*</ref></l>
+            <l n="461" xml:id="l461">Dans ses mal-heurs voudra la secourir,</l>
+            <l n="462" xml:id="l462">Et l’encens qu’en ces lieux vous luy venez offrir</l>
+            <l n="463" xml:id="l463">Rendra du Ciel la colère adoucie.</l>
+            <l n="464" xml:id="l464">Mais quand le Monstre immole à sa <ref target="#fureurs">fureur*</ref></l>
+            <l n="465" xml:id="l465">Tout le sang qu’il trouve à répandre,</l>
+            <l n="466" xml:id="l466">Verray-je sans rien entreprendre</l>
+            <l n="467" xml:id="l467">Que par luy dans ces lieux tout soit remply d’horreur ?</l>
+          </sp>
+          <sp who="iobate" xml:id="acte303-4">
+            <l n="468" xml:id="l468">Ah, Prince, songez-vous que trois Monstres ensemble</l>
+            <l n="469" xml:id="l469">Sont unis dans ce Monstre affreux ?</l>
+            <l n="470" xml:id="l470">A son aspect il n’est rien qui ne tremble,</l>
+            <l n="471" xml:id="l471">De sa brûlante haleine il pousse mille feux.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte303-5">
+            <pb n="29"/>
+            <l n="472" xml:id="l472">Ces trois Monstres unis n’ont rien qui m’épouvante ;</l>
+            <l n="473" xml:id="l473">Plus le Combat coûte au Vainqueur,</l>
+            <l n="474" xml:id="l474">Plus la Victoire est éclatante,</l>
+            <l n="475" xml:id="l475">Et c’est ce qui flatte un grand Cœur.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte304">
+          <sp who="philonoe" xml:id="acte304-1">
+            <l n="476" xml:id="l476">Seigneur, à vôtre voix je viens joindre la mienne,</l>
+            <l n="477" xml:id="l477">Aux vœux que vous offrez je viens méler mes pleurs,</l>
+            <l n="478" xml:id="l478">Et demander au Ciel que la <ref target="#lycie">Lycie*</ref> obtienne</l>
+            <l n="479" xml:id="l479">La fin de ses mal-heurs.</l>
+          </sp>
+          <sp who="iobate" xml:id="acte304-2">
+            <l n="480" xml:id="l480">Contre le Monstre qui les cause</l>
+            <l n="481" xml:id="l481">Bellerophon veut employer son bras.</l>
+            <l n="482" xml:id="l482">Consentirez-vous qu’il s’expose ?</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte304-3">
+            <l n="483" xml:id="l483">Ah, vous-mesme Seigneur, vous n’y consentez pas ;</l>
+            <l n="484" xml:id="l484">Souffrirez-vous qu’il coure où la mort est certaine ?</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte304-4">
+            <l n="485" xml:id="l485">On court à la Victoire en s’exposant pour vous,</l>
+            <l n="486" xml:id="l486">Croyez-en l’<ref target="#ardeur">ardeur*</ref> qui m’entraîne.</l>
+            <l n="487" xml:id="l487">Helas ! sans les frayeurs dont la <ref target="#lycie">Lycie*</ref> est pleine,<pb n="30"/></l>
+            <l n="488" xml:id="l488">Je serois desja vostre Espoux.</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte304-5">
+            <l n="489" xml:id="l489">Esperons tout des Dieux ; un violent orage</l>
+            <l n="490" xml:id="l490">Améne quelquefois le calme le plus doux.</l>
+          </sp>
+          <sp who="iobate" xml:id="acte304-6">
+            <l n="491" xml:id="l491">Le Temple s’ouvre ; entrons, &amp; par un juste hommage</l>
+            <l n="492" xml:id="l492">Meritons que le Ciel appaise son couroux.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte305">
+          <sp who="choeur-peuple" xml:id="acte305-1">
+            <l n="493" xml:id="l493">Le mal-heur qui nous accable</l>
+            <l n="494" xml:id="l494">Demande un Dieu favorable.</l>
+            <l n="495" xml:id="l495">Entens nous, grand <ref target="#apollon-musagete">Apollon*</ref> :</l>
+            <l n="496" xml:id="l496">Par la défaite du Serpent Python,</l>
+            <l n="497" xml:id="l497">Par l’éclat de la <ref target="#gloire">gloire*</ref><pb n="31"/></l>
+            <l n="498" xml:id="l498">Qui suivit ta victoire,</l>
+            <l n="499" xml:id="l499">Viens nous secourir.</l>
+            <l n="500" xml:id="l500">Hâte-toy, sauve-nous, ou bien nous allons perir.</l>
+            <l n="501" xml:id="l501">Nos soûpirs te font connoistre</l>
+            <l n="502" xml:id="l502">Le mal-heur qui les fait naistre.</l>
+            <l n="503" xml:id="l503">Entends-nous grand <ref target="#apollon-musagete">Apollon*</ref> :</l>
+            <l n="504" xml:id="l504">Par la défaite du Serpent Python,</l>
+            <l n="505" xml:id="l505">Par l’éclat de la gloire</l>
+            <l n="506" xml:id="l506">Qui suivit ta Victoire,</l>
+            <l n="507" xml:id="l507">Viens nous secourir.</l>
+            <l n="508" xml:id="l508">Hâte-toy, sauve nous, ou bien nous allons périr.</l>
+          </sp>
+          <sp who="sacrificateur" xml:id="acte305-2">
+            <l n="509" xml:id="l509">Reçois, grand <ref target="#apollon-musagete">Apollon*</ref>, reçois ce Sacrifice,</l>
+            <l n="510" xml:id="l510">Fais que le Ciel nous soit propice.</l>
+          </sp>
+          <sp who="choeur-peuple" xml:id="acte305-3">
+            <l n="511" xml:id="l511">D’un Cœur soûmis nous t’adressons nos vœux,</l>
+            <l n="512" xml:id="l512">Ecoute un Peuple mal-heureux.</l>
+          </sp>
+          <sp who="sacrificateur" xml:id="acte305-4">
+            <l n="513" xml:id="l513">Par ce vin répandu fais cesser nos allarmes,</l>
+            <l n="514" xml:id="l514">Arreste le cours de nos larmes.</l>
+            <l n="515" xml:id="l515">Tu vois quel triste sort nous accable aujourd’huy ;</l>
+            <l n="516" xml:id="l516">Preste-nous ton appuy.</l>
+            <l n="517" xml:id="l517">Vous qu’à me seconder un <ref target="#zele">zele*</ref> ardent anime,<pb n="32"/></l>
+            <l n="518" xml:id="l518">Avancez, il est temps d’immoler la Victime.</l>
+          </sp>
+          <sp who="choeur-peuple" xml:id="acte305-5">
+            <l n="519" xml:id="l519">Dieux, qui connoissez nos mal-heurs,</l>
+            <l n="520" xml:id="l520">Laissez-vous toucher de nos pleurs.</l>
+          </sp>
+          <sp who="sacrificateur" xml:id="acte305-6">
+            <l n="521" xml:id="l521">Esperons, je ne voy que Signes favorables.</l>
+            <l n="522" xml:id="l522">Nos vœux au Ciel doivent estre agreables.</l>
+          </sp>
+          <sp who="choeur-peuple" xml:id="acte305-7">
+            <l n="523" xml:id="l523">Aprés un <ref target="#augure">augure*</ref> si doux,</l>
+            <l n="524" xml:id="l524">Tâchons de meriter que les Dieux soient pour nous.</l>
+            <l n="525" xml:id="l525">Montrons notre allegresse,</l>
+            <l n="526" xml:id="l526">Ne parlons plus de chagrin</l>
+            <l n="527" xml:id="l527">Renonçons à la tristesse,</l>
+            <l n="528" xml:id="l528">Nos mal-heurs vont prendre fin.</l>
+            <l n="529" xml:id="l529">Quand le Ciel est propice à nos vœux,</l>
+            <l n="530" xml:id="l530">Bannissons l’<ref target="#ennuy">ennuy*</ref> qui nous presse,</l>
+            <l n="531" xml:id="l531">Nous allons tous estre heureux.</l>
+            <pb n="33/E"/>
+            <l n="532" xml:id="l532">Le Ciel veut qu’on espere,</l>
+            <l n="533" xml:id="l533">Il adoucit son courroux.</l>
+            <l n="534" xml:id="l534">Notre hommage a sçeu luy plaire,</l>
+            <l n="535" xml:id="l535">Tout s’est déclaré pour nous.</l>
+            <l n="536" xml:id="l536">Bannissons les soûpirs de ces lieux ;</l>
+            <l n="537" xml:id="l537">Ne craignons plus rien de contraire,</l>
+            <l n="538" xml:id="l538">Nos maux ont touché les Dieux.</l>
+          </sp>
+          <sp who="sacrificateur" xml:id="acte305-8">
+            <l n="539" xml:id="l539">Tout m’apprend qu’<ref target="#apollon-musagete">Apollon*</ref> dans nos vœux s’interesse,</l>
+            <l n="540" xml:id="l540">Redoublez à l’<ref target="#envy">envy*</ref> vos marques d’allegresse.</l>
+          </sp>
+          <sp who="choeur-peuple" xml:id="acte305-9">
+            <l n="541" xml:id="l541">Assez de pleurs</l>
+            <l n="542" xml:id="l542">Ont suivy nos malheurs ;</l>
+            <l n="543" xml:id="l543">De nostre <ref target="#zele">zele*</ref></l>
+            <l n="544" xml:id="l544">Voy l’<ref target="#ardeur">ardeur*</ref> fidelle.</l>
+            <l n="545" xml:id="l545">C’est en toy seul que notre espoir est mis.</l>
+            <l n="546" xml:id="l546">Viens de nos maux adoucir les atteintes.</l>
+            <l n="547" xml:id="l547">Finis nos plaintes</l>
+            <l n="548" xml:id="l548">Calme nos craintes.</l>
+            <l n="549" xml:id="l549">Flechy pour nous les Destins ennemis.</l>
+            <l n="550" xml:id="l550">L’Amour languit troublé de nos <ref target="#alarmes">alarmes*</ref>,</l>
+            <l n="551" xml:id="l551">Rappelle icy tous ses charmes,</l>
+            <l n="552" xml:id="l552">Toy que ses <ref target="#traits">traits*</ref> ont tant de fois soûmis.</l>
+            <l n="553" xml:id="l553">Un monstre affreux<pb n="34"/></l>
+            <l n="554" xml:id="l554">Nous rend tous mal-heureux.</l>
+            <l n="555" xml:id="l555">Fay de sa rage</l>
+            <l n="556" xml:id="l556">Cesser le ravage.</l>
+            <l n="557" xml:id="l557">C’est en toy seul que notre espoir est mis.</l>
+            <l n="558" xml:id="l558">Viens de nos maux adoucir les atteintes,</l>
+            <l n="559" xml:id="l559">Finis nos plaintes,</l>
+            <l n="560" xml:id="l560">Calme nos craintes,</l>
+            <l n="561" xml:id="l561">Flêchy pour nous les Destins ennemis.</l>
+            <l n="562" xml:id="l562">L’Amour languit troublé de nos alarmes ;</l>
+            <l n="563" xml:id="l563">Rapelle icy tous ses charmes,</l>
+            <l n="564" xml:id="l564">Toy que ses <ref target="#traits">traits*</ref> ont tant de fois soûmis.</l>
+          </sp>
+          <sp who="sacrificateur" xml:id="acte305-10">
+            <l n="565" xml:id="l565">Digne Fils de Latone &amp; du plus grand des Dieux,</l>
+            <l n="566" xml:id="l566">Parle, &amp; daigne regler le destin de ces lieux.</l>
+          </sp>
+          <sp who="pythie" xml:id="acte305-11">
+            <l n="567" xml:id="l567">Gardez tous un silence extrême,</l>
+            <l n="568" xml:id="l568"><ref target="#apollon-musagete">Apollon*</ref> vous entend &amp; va parler luy-mesme.</l>
+            <l n="569" xml:id="l569">Son approche désja fait briller les éclairs,</l>
+            <l n="570" xml:id="l570">Entendez résonner le sifflement des airs.</l>
+            <l n="571" xml:id="l571">Escoutez le bruit du Tonnerre.</l>
+            <l n="572" xml:id="l572">Voyez trembler &amp; le Temple &amp; la Terre,</l>
+            <l n="573" xml:id="l573">Il va paroistre, je le vois ;</l>
+            <l n="574" xml:id="l574">A son aspect fremissez comme moy.<pb n="35"/></l>
+          </sp>
+          <sp who="apollon" xml:id="acte305-12">
+            <l n="575" xml:id="l575">Que vostre crainte cesse.</l>
+            <l n="576" xml:id="l576">Un des fils de Neptune appaisera pour vous</l>
+            <l n="577" xml:id="l577">Le celeste courroux.</l>
+            <l n="578" xml:id="l578">Pour l’en recompenser, il faut que la Princesse</l>
+            <l n="579" xml:id="l579">Le prenne pour Espoux.</l>
+          </sp>
+          <sp who="iobate" xml:id="acte305-13">
+            <l n="580" xml:id="l580">Vous l’avez entendu, je n’ay rien à vous dire,</l>
+            <l n="581" xml:id="l581">Je plains vos déplaisirs, comme vous j’en soûpire,</l>
+            <l n="582" xml:id="l582">Mais rien n’est preferable au repos de ces lieux ;</l>
+            <l n="583" xml:id="l583">Soûmettons-nous aux Dieux.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte306">
+          <sp who="bellerophon" xml:id="acte306-1">
+            <l n="584" xml:id="l584">Dans quel accablement cet Oracle me laisse !</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte306-2">
+            <l n="585" xml:id="l585">Ah, cruelle surprise !</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte306-3">
+            <pb n="36"/>
+            <l n="586" xml:id="l586">O funeste revers !</l>
+            <l n="587" xml:id="l587">Quoy ? je vous pers, belle Princesse ?</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte306-4">
+            <l n="588" xml:id="l588">Quoy ? Bellerophon, je vous pers ?</l>
+          </sp>
+          <sp who="philonoe bellerophon" xml:id="acte306-5">
+            <l n="589" xml:id="l589">Helas ! n’avons nous eû le destin favorable,</l>
+            <l n="590" xml:id="l590">Que pour mieux ressentir le coup qui nous accable ?</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte306-6">
+            <l n="591" xml:id="l591">Mes vœux allaient estre contents</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte306-7">
+            <l n="592" xml:id="l592">Jamais sort n’eust esté plus heureux que le nostre.</l>
+          </sp>
+          <sp who="philonoe bellerophon" xml:id="acte306-8">
+            <l n="593" xml:id="l593">Qui croiroit que deux cœurs si tendres, si constants,</l>
+            <l n="594" xml:id="l594">Ne fussent pas destinez l’un pour l’autre ?</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte306-9">
+            <l n="595" xml:id="l595">Vous ne serez donc point à moy ?</l>
+            <l n="596" xml:id="l596">Quel prix d’une <ref target="#ardeur">ardeur*</ref> si fidelle !</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte306-10">
+            <l n="597" part="I" xml:id="l597">N’y pensons plus.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte306-11">
+            <l part="F">Quoy ? vous pourrez, cruelle,</l>
+            <l n="598" xml:id="l598">Engager ailleurs votre foy ?</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte306-12">
+            <pb n="37"/>
+            <l n="599" xml:id="l599">Brisez, brisez une fatale chaîne.</l>
+            <l n="600" xml:id="l600">Quand j’ay receu l’hommage de vos vœux,</l>
+            <l n="601" xml:id="l601">Je croyois que le Ciel consentiroit sans peine</l>
+            <l n="602" xml:id="l602">Que l’<ref target="#hymen">Hymen*</ref> nous rendist heureux,</l>
+            <l n="603" xml:id="l603">Et je n’attendois pas l’Oracle rigoureux</l>
+            <l n="604" xml:id="l604">Qui nous sacrifie à la haine.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte306-13">
+            <l n="605" xml:id="l605">Non, non, quoy qu’il ait ordonné,</l>
+            <l n="606" xml:id="l606">On ne verra jamais que mon amour s’éteigne,</l>
+            <l n="607" xml:id="l607">Je n’<ref target="#examiner">examine*</ref> point ce qu’il faut que je craigne</l>
+            <l n="608" xml:id="l608">De l’Oracle fatal qui vient d’estre donné.</l>
+            <l n="609" xml:id="l609">Que le destin jaloux d’une <ref target="#flame">flâme*</ref> si belle</l>
+            <l n="610" xml:id="l610">Me porte encor des coups plus rigoureux ;</l>
+            <l n="611" xml:id="l611">Au moins je puis etre fidelle,</l>
+            <l n="612" xml:id="l612">Si je ne sçaurois estre heureux.</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte306-14">
+            <l n="613" xml:id="l613">Se peut-il que le Ciel contre un amour si tendre</l>
+            <l n="614" xml:id="l614">Exerce toutes ses rigueurs ?</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte306-15">
+            <l n="615" xml:id="l615">De ses ordres cruels l’Amour doit-il dépendre ?</l>
+          </sp>
+          <sp who="philonoe bellerophon" xml:id="acte306-16">
+            <l n="616" xml:id="l616">Aimons nous malgré nos mal-heurs,</l>
+            <l n="617" xml:id="l617">Ce n’est pas au Destin à separer les cœurs.</l>
+            <p>FIN DU TROISIEME ACTE.</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act" xml:id="acte4">
+        <pb n="38"/>
+        <div type="scene" xml:id="acte401">
+          <sp who="amisodar" xml:id="acte401-1">
+            <l n="618" xml:id="l618">Quel Spectacle charmant pour mon cœur amoureux !</l>
+            <l n="619" xml:id="l619">Ces Morts de tous costez étendus dans les plaines</l>
+            <l n="620" xml:id="l620">Me sont de seurs garands de la fin de mes peines ;</l>
+            <l n="621" xml:id="l621">Tout perit pour me rendre heureux.</l>
+            <l n="622" xml:id="l622">Fontaines, tarissez ; embrassez-vous, Montagnes,</l>
+            <l n="623" xml:id="l623">Brûlez, Forests ; sechez, Campagnes,</l>
+            <l n="624" xml:id="l624">Toutes les horreurs que je voy<pb n="39"/></l>
+            <l n="625" xml:id="l625">Son autant de sujets de <ref target="#triomphe2">triomphe*</ref> pour moy.</l>
+            <l n="626" xml:id="l626">Quand on obtient ce qu’on aime,</l>
+            <l n="627" xml:id="l627">Qu’importe à quel prix ?</l>
+            <l n="628" xml:id="l628">Que tout l’Univers surpris</l>
+            <l n="629" xml:id="l629">Condamne l’amour extrême</l>
+            <l n="630" xml:id="l630">Qui couste tant de sang, de larmes, &amp; de cris,</l>
+            <l n="631" xml:id="l631">Quand on obtient ce qu’on aime,</l>
+            <l n="632" xml:id="l632">Qu’importe à quel prix ?</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte402">
+          <sp who="argie" xml:id="acte402-1">
+            <l n="633" xml:id="l633">Il faut, pour contenter la Reyne,</l>
+            <l n="634" xml:id="l634">Rendre le Monstre à l’eternelle nuit ;</l>
+            <l n="635" xml:id="l635">Bellerophon au desespoir reduit</l>
+            <l n="636" xml:id="l636">S’apreste à le combattre, &amp; sa perte est certaine ;</l>
+            <l n="637" xml:id="l637">Mais cette prompte mort finit trop tost sa peine.</l>
+            <l n="638" xml:id="l638">Quand un fatal Oracle est contraire à ses vœux,</l>
+            <l n="639" xml:id="l639">S’il ne souffre long-temps, il n’est point mal-heureux.</l>
+            <l n="640" xml:id="l640">Puis qu’un fils de Neptune épouse la Princesse,</l>
+            <l n="641" xml:id="l641">Laissez vivre l’Ingrat* dans ses jaloux <ref target="#transports">transports*</ref> ;</l>
+            <l n="642" xml:id="l642">Voir aux mains d’un Rival l’Objet de sa <ref target="#tendresse">tendresse*</ref>,</l>
+            <l n="643" xml:id="l643">C’est tous les jours endurer mille morts.</l>
+          </sp>
+          <sp who="amisodar" xml:id="acte402-2">
+            <pb n="40"/>
+            <l n="644" xml:id="l644">Le laisser vivre ! O Dieux ! que faut-il que je pense ?</l>
+            <l n="645" xml:id="l645">Je voy pour luy la Reyne s’alarmer</l>
+            <l n="646" xml:id="l646">Lors que sa mort est preste à remplir sa vangeance.</l>
+            <l n="647" xml:id="l647">Est-ce le haïr ou l’aimer ?</l>
+          </sp>
+          <sp who="argie" xml:id="acte402-3">
+            <l n="648" xml:id="l648">Montrez que vostre cœur ne cherche qu’à luy plaire.</l>
+            <l n="649" xml:id="l649">Pourquoy penetrer dans le sien ?</l>
+            <l n="650" xml:id="l650">Quand l’objet aimé parle, un Amant doit tout faire,</l>
+            <l n="651" xml:id="l651">Et n’<ref target="#examiner">examiner*</ref> rien.</l>
+          </sp>
+          <sp who="amisodar" xml:id="acte402-4">
+            <l n="652" xml:id="l652">Non, non, que mon Rival perisse,</l>
+            <l n="653" xml:id="l653">Est-ce à moy d’empécher qu’il ne <ref target="#perdre">perde*</ref> le jour ?</l>
+          </sp>
+          <sp who="argie" xml:id="acte402-5">
+            <l n="654" xml:id="l654">Il faut faire à la Reine encor ce Sacrifice,</l>
+            <l n="655" xml:id="l655">Ou renoncer à vostre amour.</l>
+          </sp>
+          <sp who="voix-derriere-theatre" xml:id="acte402-6">
+            <l n="656" xml:id="l656">Tout est perdu, le Monstre avance,</l>
+            <l n="657" xml:id="l657">Sauvons-nous, sauvons-nous.</l>
+          </sp>
+          <sp who="amisodar" xml:id="acte402-7">
+            <l n="658" xml:id="l658">Le Monstre approche, éloignez-vous.</l>
+          </sp>
+          <sp who="argie" xml:id="acte402-8">
+            <l n="659" xml:id="l659">Ciel, contre sa <ref target="#fureurs">fureur*</ref> embrasse ma défense.<pb n="41/F"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte403">
+          <sp who="napee dryade" xml:id="acte403-1">
+            <l n="660" xml:id="l660">Plaignons, plaignons les maux qui desolent ces lieux</l>
+            <l n="661" xml:id="l661">Les pleurs qu’ils font couler devroient toucher les Dieux.</l>
+          </sp>
+          <sp who="dryade" xml:id="acte403-2">
+            <l n="662" xml:id="l662">Il n’est plus d’herbes dans les plaines.</l>
+          </sp>
+          <sp who="napee" xml:id="acte403-3">
+            <l n="663" xml:id="l663">Il n’est plus d’eaux dans les fontaines.</l>
+          </sp>
+          <sp who="dryade" xml:id="acte403-4">
+            <l n="664" xml:id="l664">Tout perit.</l>
+          </sp>
+          <sp who="napee" xml:id="acte403-5">
+            <l n="665" xml:id="l665">Tout tarit.</l>
+          </sp>
+          <sp who="dryade" xml:id="acte403-6">
+            <l n="666" part="I" xml:id="l666">Quel excés d’<ref target="#ennuy">ennuis*</ref> !</l>
+          </sp>
+          <sp who="napee" xml:id="acte403-7">
+            <l part="F">Quelles peines !</l>
+          </sp>
+          <sp who="napee dryade" xml:id="acte403-8">
+            <l n="667" xml:id="l667">Plaignons, plaignons les maux qui désolent ces lieux</l>
+            <l n="668" xml:id="l668">Les pleurs qu’ils font couler devroient toucher les Dieux.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte404">
+          <pb n="42"/>
+          <sp who="dieux-bois" xml:id="acte404-1">
+            <l n="669" xml:id="l669">Les Forests sont en feu, le ravage s’augmente,</l>
+            <l n="670" xml:id="l670">Ce n’est partout qu’épouvante &amp; horreur.</l>
+          </sp>
+          <sp who="napee dryade" xml:id="acte404-2">
+            <l n="671" xml:id="l671">Du Monstre comme vous nous sentons la <ref target="#fureurs">fureur*</ref>,</l>
+            <l n="672" xml:id="l672">Voyez cette Plaine brûlante.</l>
+          </sp>
+          <sp who="dieux-bois" xml:id="acte404-3">
+            <l n="673" xml:id="l673">Helas ! que sont-ils devenus</l>
+            <l n="674" xml:id="l674">Ces Bois dont nous faisions nos retraites tranquilles ?</l>
+          </sp>
+          <sp who="napee dryade" xml:id="acte404-4">
+            <l n="675" xml:id="l675">Ces Eaux qui serpentoient dans ces Plaines fertiles,</l>
+            <l n="676" xml:id="l676">Ces Eaux, helas, ne coulent plus.</l>
+          </sp>
+          <sp who="dieux-bois" xml:id="acte404-5">
+            <l n="677" xml:id="l677">Que de tristess !</l>
+          </sp>
+          <sp who="napee dryade" xml:id="acte404-6">
+            <l n="678" xml:id="l678">Que de sujets de larmes !</l>
+          </sp>
+          <sp who="napee dryade" xml:id="acte404-7">
+            <l n="679" xml:id="l679">Pour adoucir le Ciel qui voit tant de malheurs,</l>
+            <l n="680" xml:id="l680">Joignons nos soûpirs &amp; nos pleurs.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte405">
+          <pb n="43"/>
+          <sp who="iobate" xml:id="acte405-1">
+            <l n="681" xml:id="l681">Ah Prince ! où vous emporte une <ref target="#ardeur">ardeur*</ref> trop guerriere ?</l>
+            <l n="682" xml:id="l682">En vain à cent perils on vous a veu courir,</l>
+            <l n="683" xml:id="l683">En vain vostre grand nom remplit la Terre entière,</l>
+            <l n="684" xml:id="l684">Vous cherchez un Combat où vous allez perir.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte405-2">
+            <l n="685" xml:id="l685">Je ne vay point combattre un Monstre redoutable</l>
+            <l n="686" xml:id="l686">Pour remplir de mon nom l’Univers étonné,</l>
+            <l n="687" xml:id="l687">Je vais, Amant infortuné,</l>
+            <l n="688" xml:id="l688">Finir un sort trop déplorable.</l>
+            <l n="689" xml:id="l689">Cent fois, jusqu’à ce triste jour,</l>
+            <l n="690" xml:id="l690">J’ai hazardé ma vie en cherchant la victoire.</l>
+            <l n="691" xml:id="l691">Ce que j’ay fait animé par la <ref target="#gloire">gloire*</ref>,</l>
+            <l n="692" xml:id="l692">Ne le pourrai-je faire animé par l’amour ?</l>
+          </sp>
+          <sp who="iobate" xml:id="acte405-3">
+            <l n="693" xml:id="l693">Suivre un amour trop temeraire,</l>
+            <l n="694" xml:id="l694">C’est vous livrer vous-mesme au plus funeste sort.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte405-4">
+            <l n="695" xml:id="l695">Accablé de mal-heurs, puis-je craindre la mort ?</l>
+          </sp>
+          <sp who="iobate" xml:id="acte405-5">
+            <pb n="44"/>
+            <l n="696" xml:id="l696">Ménagez vostre vie, elle m’est toujours chere.</l>
+            <l n="697" xml:id="l697">Par ces aimables <ref target="#noeuds">nœuds*</ref></l>
+            <l n="698" xml:id="l698">Que je vous destinois avec mon Diadéme,</l>
+            <l n="699" xml:id="l699">Par la Princesse mesme,</l>
+            <l n="700" xml:id="l700">Accordez, accordez quelque chose à mes vœux.</l>
+            <l n="701" xml:id="l701">Je vais faire à Neptune offrir un Sacrifice.</l>
+            <l n="702" xml:id="l702">Allons sçavoir ses volontez,</l>
+            <l n="703" xml:id="l703">Peut-estre il nous sera propice ?</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte405-6">
+            <l n="704" xml:id="l704">En vain, Seigneur, vous me flattez.</l>
+            <l n="705" xml:id="l705">Puis qu’à son Fils vous devez la Princesse,</l>
+            <l n="706" xml:id="l706">Au moins en combattant laissez-moi faire voir</l>
+            <l n="707" xml:id="l707">Que mon amour meritoit sa <ref target="#tendresse">tendresse*</ref>.</l>
+          </sp>
+          <sp who="iobate" xml:id="acte405-7">
+            <l n="708" xml:id="l708">Ah, que je crains pour vous ce fatal desespoir !</l>
+            <l n="709" xml:id="l709">Adieu, quand le peril ne vous peut émouvoir,</l>
+            <l n="710" xml:id="l710">Je dois vous cacher ma foiblesse.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte406">
+          <pb n="45"/>
+          <sp who="bellerophon" xml:id="acte406-1">
+            <l n="711" xml:id="l711">Heureuse mort, tu vas me secourir</l>
+            <l n="712" xml:id="l712">Dans mon mal-heur extrême.</l>
+            <l n="713" xml:id="l713">Je cours m’offrir au Monstre asseuré de perir,</l>
+            <l n="714" xml:id="l714">Mais je m’en fais un bien supréme.</l>
+            <l n="715" xml:id="l715">Quand on a perdu ce qu’on aime,</l>
+            <l n="716" xml:id="l716">Il ne reste plus qu’à mourir.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte407">
+          <sp who="pallas" xml:id="acte407-1">
+            <l n="717" xml:id="l717">Espere en ta <ref target="#valeur1">valeur*</ref>, Bellerophon, espere,</l>
+            <l n="718" xml:id="l718">Pallas descend du Ciel pour t’ofrir son secours.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte407-2">
+            <pb n="46"/>
+            <l n="719" xml:id="l719">Déesse, en vain tu prens soin de mes jours,</l>
+            <l n="720" xml:id="l720">Quand la mort seule peut me plaire.</l>
+          </sp>
+          <sp who="pallas" xml:id="acte407-3">
+            <l n="721" xml:id="l721">Ton sort est marqué dans les Cieux,</l>
+            <l n="722" xml:id="l722">Viens, monte dans ce Char, &amp; t’abandonne aux Dieux.</l>
+          </sp>
+          <sp who="voix-derriere-theatre" xml:id="acte407-4">
+            <l n="723" xml:id="l723">Quelle horreur ! quel triste ravage !</l>
+            <l n="724" xml:id="l724">Le Monstre redouble sa rage.</l>
+          </sp>
+          <sp who="voix-derriere-theatre" xml:id="acte407-5">
+            <l n="725" xml:id="l725">Un <ref target="#heros">Heros*</ref> s’expose pour nous,</l>
+            <l n="726" xml:id="l726">Dieux, soûtenez son bras, et conduisez ses coups.</l>
+            <pb n="47"/>
+          </sp>
+          <sp who="voix-derriere-theatre" xml:id="acte407-6">
+            <l n="727" xml:id="l727">Le Monstre est défait. Quelle <ref target="#gloire">gloire*</ref> !</l>
+            <l n="728" xml:id="l728">Bellerophon remporte la victoire.</l>
+            <p>FIN DU QUATRIEME ACTE.</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act" xml:id="acte5">
+        <pb n="48"/>
+        <div type="scene" xml:id="acte501">
+          <sp who="iobate" xml:id="acte501-1">
+            <l n="729" xml:id="l729">Preparez vos chants d’allegresse,</l>
+            <l n="730" xml:id="l730">Peuples, c’est en ce lieu que pour nostre bon-heur</l>
+            <l n="731" xml:id="l731">Pallas doit ramener un illustre Vainqueur,</l>
+            <l n="732" xml:id="l732">Que le Ciel pour Espoux destine à la Princesse.</l>
+            <l n="733" xml:id="l733">Enfin nos vœux ont reüssi,<pb n="49/G"/></l>
+            <l n="734" xml:id="l734">Un Oracle confus faisoit notre infortune,</l>
+            <l n="735" xml:id="l735">Mais cet Oracle est esclaircy,</l>
+            <l n="736" xml:id="l736">Bellerophon est le Fils de Neptune.</l>
+            <l n="737" xml:id="l737">Pour nous le declarer, dans son Temple, à nos yeux,</l>
+            <l n="738" xml:id="l738">Ce Dieu des Mers vient de paroistre ;</l>
+            <l n="739" xml:id="l739">Luy-mesme pour son sang a daigné reconnoistre</l>
+            <l n="740" xml:id="l740">Ce <ref target="#heros">Heros*</ref> glorieux.</l>
+            <l n="741" xml:id="l741">D’une Nymphe jalouse il craignit la colere,</l>
+            <l n="742" xml:id="l742">Et quand Bellerophon receût de luy le jour,</l>
+            <l n="743" xml:id="l743">Il voulut que Glaucus feignist d’estre son pere ;</l>
+            <l n="744" xml:id="l744">Il revient Triomphant, celebrez son retour.</l>
+          </sp>
+          <sp who="choeur-peuple" xml:id="acte501-2">
+            <l n="745" xml:id="l745">Viens, digne Sang des Dieux, joüir de ta victoire,</l>
+            <l n="746" xml:id="l746">Chacun est <ref target="#charmer">charmé*</ref> de ta gloire,</l>
+            <l n="747" xml:id="l747">Et pour chanter tes grands exploits,</l>
+            <l n="748" xml:id="l748">Nous allons tous joindre nos voix.</l>
+          </sp>
+          <sp who="iobate" xml:id="acte501-3">
+            <l n="749" xml:id="l749">Et toy, ma Fille, abandonne ton ame</l>
+            <l n="750" xml:id="l750">Aux <ref target="#transports">transports*</ref> de sa <ref target="#flame">flâme*</ref>.</l>
+            <l n="751" xml:id="l751">Bellerophon t’est donné pour Espoux.</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte501-4">
+            <l n="752" xml:id="l752">Apres tant de rudes <ref target="#alarmes">alarmes*</ref>,</l>
+            <l n="753" xml:id="l753">Pouvons nous trop goûter les charmes</l>
+            <l n="754" xml:id="l754">D’un changement si doux ?</l>
+          </sp>
+          <sp who="iobate" xml:id="acte501-5">
+            <l n="755" xml:id="l755">Qu’il est grand ce <ref target="#heros">Heros*</ref>, qui ne voit point d’obstacles !</l>
+            <l n="756" xml:id="l756">Que le Sort contre luy ne forme vainement !</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte501-6">
+            <pb n="50"/>
+            <l n="757" xml:id="l757">Pour tout vaincre, il suffit qu’un <ref target="#heros">Heros*</ref> soit Amant,</l>
+            <l n="758" xml:id="l758">La <ref target="#valeur1">valeur*</ref> &amp; l’amour font toûjours des miracles.</l>
+          </sp>
+          <sp who="philonoe iobate" xml:id="acte501-7">
+            <l n="759" xml:id="l759">La valeur &amp; l’amour font toûjours des miracles.</l>
+          </sp>
+          <sp who="choeur-peuple" xml:id="acte501-8">
+            <l n="760" xml:id="l760">O jour pour la <ref target="#lycie">Lycie*</ref> à jamais glorieux,</l>
+            <l n="761" xml:id="l761">Où le Sang de nos Rois s’unit au Sang des Dieux !</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte502">
+          <sp who="iobate" xml:id="acte502-1">
+            <l n="762" xml:id="l762">Venez vous partager l’allegresse publique ?</l>
+            <l n="763" xml:id="l763">Enfin pour nous le Ciel s’explique,</l>
+            <l n="764" xml:id="l764">Neptune a reconnu Bellerophon pour Fils.</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte502-2">
+            <l n="765" xml:id="l765">Je sais tout. Dieux cruels, vous l’avez donc permis ?</l>
+          </sp>
+          <sp who="iobate" xml:id="acte502-3">
+            <l n="766" xml:id="l766">Bellerophon cause-t-il cette plainte ?</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte502-4">
+            <l n="767" xml:id="l767">C’est luy seul, il est vray, qui fait mon desespoir.</l>
+            <l n="768" xml:id="l768">Du plus ardent amour, j’eûs pour luy l’ame atteinte,</l>
+            <l n="769" xml:id="l769">Et pour toucher son cœur j’ay manqué de pouvoir.<pb n="51"/></l>
+            <l n="770" xml:id="l770">Toujours l’ingrat* dédaigna ma <ref target="#tendresse">tendresse*</ref>.</l>
+            <l n="771" xml:id="l771">Preste à luy voir enfin espouser la Princesse,</l>
+            <l n="772" xml:id="l772">J’ai voulu renverser vos odieux projets.</l>
+            <l n="773" xml:id="l773">Amisodar m’aimoit, j’ay fait agir ses <ref target="#charmes">Charmes*</ref>,</l>
+            <l n="774" xml:id="l774">Et le Monstre par luy remplissant tout d’<ref target="#alarmes">alarmes*</ref>,</l>
+            <l n="775" xml:id="l775">N’a versé que pour moy le sang de vos Sujets.</l>
+          </sp>
+          <sp who="iobate" xml:id="acte502-5">
+            <l n="776" part="I" xml:id="l776">Le Traistre ! qu’on l’arreste.</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte502-6">
+            <l part="F">Il s’est mis par la fuite</l>
+            <l n="777" xml:id="l777">A couvert de vostre poursuite ;</l>
+            <l n="778" xml:id="l778">Mais il traisne avec luy son crime &amp; son amour.</l>
+          </sp>
+          <sp who="iobate" xml:id="acte502-7">
+            <l n="779" xml:id="l779">Quoy, le Ciel souffre encor que vous voyiez le jour ?</l>
+          </sp>
+          <sp who="stenobee" xml:id="acte502-8">
+            <l n="780" xml:id="l780">J’ay prevenu tout ce que peut sa haine.</l>
+            <l n="781" xml:id="l781">La justice que je me rends</l>
+            <l n="782" xml:id="l782">M’a fait par le poison mettre fin à ma peine.</l>
+            <l n="783" xml:id="l783">Je le sens qui désja coule de veine en veine,</l>
+            <l n="784" xml:id="l784">Désja le jour se cache à mes regards mourants.</l>
+            <l n="785" xml:id="l785">Vous, de qui la rigueur m’a toûjours poursuivie</l>
+            <l n="786" xml:id="l786">Avec ses plus funestes <ref target="#traits">traits*</ref>,</l>
+            <l n="787" xml:id="l787">Dieux inhumains, j’abandonne le vie ;</l>
+            <l n="788" xml:id="l788">Estes-vous satisfaits ?</l>
+            <l n="789" xml:id="l789">Et toi, cruel Amour, reçois une Victime</l>
+            <l n="790" xml:id="l790">Que tu cherchois à t’immoler ;</l>
+            <l n="791" xml:id="l791">Je meurs pour expier le crime</l>
+            <l n="792" xml:id="l792">Des feux dont tu m’as fait brusler.<pb n="52"/></l>
+            <l n="793" xml:id="l793">Je n’ay pû m’affranchir de ton <ref target="#barbare">barbare*</ref> empire</l>
+            <l n="794" xml:id="l794">Qu’en renonçant au jour ;</l>
+            <l n="795" xml:id="l795">Voy mes derniers soûpirs, impitoyable Amour,</l>
+            <l n="796" xml:id="l796">J’expire.</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte502-9">
+            <l n="797" part="I" xml:id="l797">Quel excés de <ref target="#fureurs">fureur*</ref> ?</l>
+          </sp>
+          <sp who="iobate" xml:id="acte502-10">
+            <l part="F">Sa mort en est le prix,</l>
+            <l n="798" xml:id="l798">Mais oublions &amp; son crime &amp; sa peine,</l>
+            <l n="799" xml:id="l799">Voicy Bellerophon que Pallas nous ramène,</l>
+            <l n="800" xml:id="l800">Son <ref target="#triomphe1">Triomphe*</ref> doit seul occuper nos esprits.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="acte503">
+          <sp who="pallas" xml:id="acte503-1">
+            <l n="801" xml:id="l801"><ref target="#connoistre">Connoissez*</ref> le Fils de Neptune</l>
+            <l n="802" xml:id="l802">Dans ce jeune <ref target="#heros">Heros*</ref>.</l>
+            <l n="803" xml:id="l803">A sa seule <ref target="#valeur2">valeur*</ref> vous devez le repos<pb n="53"/></l>
+            <l n="804" xml:id="l804">Qui succede à vostre infortune.</l>
+            <l n="805" xml:id="l805">Pallas le raméne en ces lieux.</l>
+            <l n="806" xml:id="l806">C’est luy qui doit espouser la Princesse,</l>
+            <l n="807" xml:id="l807">Faites en tous paroistre une entière allegresse,</l>
+            <l n="808" xml:id="l808">Et rendez grace aux Dieux.</l>
+          </sp>
+          <sp who="bellerophon" xml:id="acte503-2">
+            <l n="809" xml:id="l809">Enfin je vous revoy, Princesse incomparable.</l>
+          </sp>
+          <sp who="philonoe" xml:id="acte503-3">
+            <l n="810" xml:id="l810">O changement à mes vœux favorables !</l>
+          </sp>
+          <sp who="philonoe iobate" xml:id="acte503-4">
+            <l n="811" xml:id="l811">Quel plaisir de voir en ce jour</l>
+            <l n="812" xml:id="l812">Le Destin ceder à l’Amour !</l>
+          </sp>
+          <sp who="iobate" xml:id="acte503-5">
+            <l n="813" xml:id="l813">Joüissez des douceurs que l’<ref target="#hymen">Hymen*</ref> vous prepare,</l>
+            <l n="814" xml:id="l814">Vivez heureux, vivez toûjours Amants.</l>
+            <l n="815" xml:id="l815">Que tous vos moments</l>
+            <l n="816" xml:id="l816">Soient doux &amp; charmants,</l>
+            <l n="817" xml:id="l817">Et qu’un bon-heur sans fin répare</l>
+            <l n="818" xml:id="l818">Ce qu’un sort rigoureux vous causa de tourments.</l>
+          </sp>
+          <sp who="choeur-peuple" xml:id="acte503-6">
+            <pb n="54"/>
+            <l n="819" xml:id="l819">Le plus grand des <ref target="#heros">Heros*</ref> rend le calme à la Terre,</l>
+            <l n="820" xml:id="l820">Il fait cesser les horreur de la Guerre.</l>
+            <l n="821" xml:id="l821">Joüissons à jamais</l>
+            <l n="822" xml:id="l822">Des douceurs de la Paix.</l>
+          </sp>
+          <sp who="choeur-peuple" xml:id="acte503-7">
+            <l n="823" xml:id="l823">Les plaisirs nous preparent leurs charmes,</l>
+            <l n="824" xml:id="l824">Ne songeons plus qu’à passer de beaux jours.</l>
+            <l n="825" xml:id="l825">Si le Ciel nous fit verser des larmes,</l>
+            <l n="826" xml:id="l826">Un heureux sort arreste le cours.</l>
+            <l n="827" xml:id="l827">Puisqu’un <ref target="#heros">Heros*</ref> fait cesser nos <ref target="#alarmes">alarmes*</ref>,</l>
+            <l n="828" xml:id="l828">Cherchons les jeux, les ris &amp; les amours.</l>
+            <l n="829" xml:id="l829">Que la paix qui succede à la peine</l>
+            <l n="830" xml:id="l830">Fait aisément oublier les soûpirs !</l>
+            <l n="831" xml:id="l831">Si le Ciel nous soûmit à la haîne,</l>
+            <l n="832" xml:id="l832">Un heureux sort satisfait nos desirs.</l>
+            <l n="833" xml:id="l833">Dans les beaux jours qu’un <ref target="#heros">Heros*</ref> nous raméne,</l>
+            <l n="834" xml:id="l834">Cherchons les Ris, les Jeux, &amp; les plaisirs.</l>
+            <p>FIN.</p>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

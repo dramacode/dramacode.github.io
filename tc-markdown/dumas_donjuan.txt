@@ -1,8 +1,8 @@
 ---
 identifier: dumas_donjuan  
-creator: DUMAS, Alexandre  
+creator: Dumas, Alexandre  
 date: 1836  
-title: DON JUAN DE MARANA, MYSTÈRE  
+title: Don Juan de Marana  
 ---
 
 

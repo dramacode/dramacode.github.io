@@ -1,0 +1,2205 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <text>
+    <body>
+      <div xml:id="dedicace">
+        <p><hi rend="i">MONSEIGNEUR</hi>,</p>
+        <p><hi rend="i">Plus d’une raison indispensable m’oblige à vous dédier cet Ouvrage</hi> : il est né dans une Province où les Muses font gloire d’être de votre Gouvernement, aussi bien que ses Peuples ; &amp; d’ailleurs, MONSEIGNEUR, vous l’avez trop honoré de votre protection à la Cour, pour paroître sous un autre Nom que le vôtre. Je ne prétens point icy faire votre Eloge ; le plus Grand Monarque du Monde l’a fait luy-mesme, en vous confiant la conduite d’un jeune Prince, qui est déja l’admiration de toute l’Europe ; &amp; il justifie assez par les augustes qualitez qui brillent en sa Personne, le choix que sa Majesté a fait de la vostre pour les cultiver. En effet, MONSEIGNEUR, quelle gloire pour vous de partager avec un si grand Monarque, le soin de l’éducation de ce jeune Heros ? Cette sagesse, cette valeur, &amp; cette prudence consommée qui ont paru dans toutes vos Actions à la gloire de la France, lui servent de regles pour sa conduite, lors que les Actions héroïques de l’Invincible <hi rend="b"><hi rend="i">LOUIS</hi></hi> lui servent d’exemples pour l’animer. Enfin, MONSEIGNEUR, il apprend de Vous dans le Cabinet à gouverner les Peuples, lors qu’il apprend encore de son Auguste Pere, l’art de les vaincre &amp; de se rendre, comme luy, par son propre merite, autant au-dessus des autres Roys, qu’il est par sa naissance au dessus du reste des Hommes. C’est le seul &amp; le plus parfait modelle que vous luy proposez, MONSEIGNEUR ; &amp; sans luy mettre devant les yeux les Alexandres, ny les Cesars,</p>
+        <p>Je n’ay pû m’empescher, MONSEIGNEUR, de repeter icy ces Vers, que j’eus l’honneur de vous presenter il y a quelques années ; Vous les reçeûtes si favorablement, que j’espere un pareil traitement pour Pirame &amp; Thisbé. C’est un coup d’essay pour le Theatre, que vous avez eu la bonté d’approuver ; Ne luy refusez pas la mesme protection sur le papier. C’est donc, MONSEIGNEUR, la continuation de cette mesme bonté que vous demande avec empressement celuy qui est, &amp; qui sera toute sa vie avec son profond respect,</p>
+        <p rend="i">MONSEIGNEUR,</p>
+        <p rend="right">Vostre tres-humble &amp; tres-<lb/>Obeïssant Serviteur,</p>
+        <p rend="right">PRADON.</p>
+      </div>
+      <div xml:id="preface">
+        <p>Apres que le Public est venu en foule à cette Piece, &amp; l’a honnorée assez long-temps de son assiduité, je ne devrois point répondre aux scrupules de quelques Particuliers ; c’est plutost un remerciment qu’une justification que je luy dois aujourd’huy. Cependant sans me prévaloir d’une réüssite qui a bien passé mes esperances ; je diray d’abord ingenuëment, que je ne prétens pas que ce coup d’essay pour le Theatre soit un chef-d’œuvre ; il y a sans doute bien des choses qui pourroient estre mieux tournées ; mais quoy qu’il en soit, elle a eü le bonheur de plaire, &amp; c’est la premiere Regle du Theatre, &amp; celle à qui l’on doit plutost s’attacher, qu’à toutes les Regles de la Poëtique d’Aristote. Je ne me repens donc point d’avoir traité un Sujet où Théophile avait réüssy ; On voit bien que je ne luy ay rien emprunté, que les Noms de Pirame &amp; Thisbé, que le Galant Ovide nous a donnez à tous deux. J'y ay fait un Episode d’Amestris &amp; de Belus, qui quoy que fondez dans l’Histoire, sont des caracteres de mon invention, aussi bien que celuy d’Arsace. Quelques-uns ont voulu dire que cet Episode l’emportoit sur le Sujet principal ; mais si l’on veut prendre la peine d’examiner leurs interests, on verra qu’ils sont si bien meslez avec ceux de Pirame &amp; Thisbé, que toutes les démarches de ces trois Personnes ne tendent qu’à rompre l’intelligence qui est entre ces deux Amans, pour l’interest particulier de leur amour, &amp; qu’enfin Pirame &amp; Thisbé sont le terme &amp; le point fondamental où aboutissent toutes les lignes de ma Pièce, comme à leur centre. Si Belus conserve ses droits contre la violence d’Amestris, &amp; si Amestris par sa politique &amp; par son adresse le veut détourner du Gouvernement de l’Estat, Pirame est l’objet qu’elle regarde, &amp; Thisbé celuy de Belus, &amp; c’est par leurs différents qu’ils causent les cruels embarras de ces Amans malheureux, qui attachent &amp; qui intéressent toûjours le Spectateur jusqu’à la fin de la catastrophe ; la Critique mesme la plus severe y a trouvé assez de conduite pour le Theatre, &amp; les Ames tendres y peuvent voir des sentimens de leur caractere. On a encore trouvé à redire qu’Arsace fit le recit luy-mesme de la mort de son Fils, &amp; de celle de Thisbé ; quelques-uns ont dit que ce recit estoit trop pathetique dans la bouche d’un Pere, &amp; que les grandes douleurs estoient muettes. Je pourrois répondre que j’en ay des exemples &amp; chez les Anciens &amp; chez les Modernes ; Mais enfin quand mesme ce seroit une faute de jugement dans mon Ouvrage, je puis dire que je l’ay faite avec jugement &amp; reflexion, &amp; ce recit a tiré tant de larmes &amp; a fait un si grand effet, que s’il échape à ma Plume une seconde Piece de Theatre, je souhaite de tout mon cœur, qu’elle soit remplie de fautes de cette nature.</p>
+        <p rend="i">Fautes d’Impression.</p>
+        <p>Page 18. sembla le fendre, <hi rend="i">lisez</hi> sembla se fendre. Page 21. Ce Palais où j’estois noury dans les allarmes, <hi rend="i">lisez</hi> loin des allarmes. Page 50. perplexitez, lisez extremitez. Page 69. mes pleurs vous font assez connoistre mon ennuy, lisez enuie.</p>
+        <p>Il y a plusieurs autres fautes dans la ponctuation, où le Lecteur supléera, s’il luy plaist.</p>
+      </div>
+      <div xml:id="acteurs"/>
+      <div xml:id="I" type="act">
+        <div type="scene" xml:id="I01">
+          <sp xml:id="I01-1" who="arsace">
+            <l n="1" xml:id="l1">Je veux te faire part de ma peine secrete.<pb n="1,A" xml:id="p1"/></l>
+            <l n="2" xml:id="l2">Licas, mon Fils m’allarme, &amp; Thisbé m’<ref target="#inquieter">inquiete*</ref> ;</l>
+            <l n="3" xml:id="l3">Tu la vois depuis peu revenuë à la Cour,</l>
+            <l n="4" xml:id="l4">J'en frémis, &amp; crains tout d’un si <ref target="#fatal">fatal*</ref> retour.</l>
+            <l n="5" xml:id="l5">Il semble que Belus a parlé pour Pirame,</l>
+            <l n="6" xml:id="l6">Que la Reine elle-mesme autorise leur <ref target="#flame1">flâme*</ref> :</l>
+            <l n="7" xml:id="l7">Je ne sçay plus qu’en croire, &amp; je vais succomber<pb n="2" xml:id="p2"/></l>
+            <l n="8" xml:id="l8">Sous ce funeste coup qui s’apreste à tomber.</l>
+            <l n="9" xml:id="l9">Quoy, Licas, malgré moy pouray-je voir la Fille</l>
+            <l n="10" xml:id="l10">D'un Ennemy <ref target="#mortel1">mortel*</ref> entrer dans ma Famille ?</l>
+            <l n="11" xml:id="l11">Pouray-je voir mon Fils braver impunément</l>
+            <l n="12" xml:id="l12">Le respect qu’il devoit à mon <ref target="#ressentiment">ressentiment*</ref> ?</l>
+            <l n="13" xml:id="l13">Non, par trop de raisons sa <ref target="#tendresse">tendresse*</ref> me <ref target="#gesner">gesne*</ref>.</l>
+          </sp>
+          <sp xml:id="I01-2" who="licas">
+            <l n="14" xml:id="l14">D'où peut venir, Seigneur, cette implacable haine ?</l>
+            <l n="15" xml:id="l15">L'on vous vit triompher du Pere de Thisbé :</l>
+            <l n="16" xml:id="l16">Oüy, sous vostre faveur Narbal a succombé ;</l>
+            <l n="17" xml:id="l17">Vous estiez Ennemis &amp; Rivaux pour la <ref target="#gloire">gloire*</ref>,</l>
+            <l n="18" xml:id="l18">Mais vostre heureux <ref target="#genie">génie*</ref> emporta la victoire ;</l>
+            <l n="19" xml:id="l19">Il demeura bientôt le Maître &amp; l’on vit bien</l>
+            <l n="20" xml:id="l20">L'ascendant que par tout il avoit sur le sien.</l>
+            <l n="21" xml:id="l21">Apres la mort du Roy, vous seul pres de la Reine</l>
+            <l n="22" xml:id="l22">Eûtes une puissance entiere &amp; souveraine :</l>
+            <l n="23" xml:id="l23">Ce fust par vos conseils que l’on vit Amestris</l>
+            <l n="24" xml:id="l24">Usurper la Couronne &amp; les droits de son Fils,</l>
+            <l n="25" xml:id="l25">L'élever <ref target="#mollement">mollement*</ref>, &amp; <ref target="#nourrir">nourir*</ref> loin du Trône.</l>
+            <l n="26" xml:id="l26">Alors elle chassa Narbal de Babylone ;</l>
+            <l n="27" xml:id="l27">Il est mort en exil ; Cependant aujourd’huy</l>
+            <l n="28" xml:id="l28">Vostre haine n’est pas éteinte avecque luy ?</l>
+          </sp>
+          <sp xml:id="I01-3" who="arsace">
+            <l n="29" xml:id="l29">Bien qu’il soit mort, Licas, ma haine est immortelle ;</l>
+            <l n="30" xml:id="l30">Thisbé revient enfin, &amp; Narbal vit en elle.</l>
+          </sp>
+          <sp xml:id="I01-4" who="licas">
+            <l n="31" xml:id="l31">Mais encor contre vous que peut-elle, Seigneur ?</l>
+          </sp>
+          <sp xml:id="I01-5" who="arsace">
+            <l n="32" xml:id="l32">Pénetres mieux, Licas, le secret de mon cœur ;</l>
+            <l n="33" xml:id="l33">L'<ref target="#interest">intérest*</ref> de mon Fils rallume cette haine ;</l>
+            <l n="34" xml:id="l34">Je voudrois qu’il portât ses vœux jusqu’à la Reine.</l>
+            <l n="35" xml:id="l35">Ce discours te surprend : Mais écoute, j’ay veu</l>
+            <l n="36" xml:id="l36">Du panchant de la Reine un éclat impréveu :</l>
+            <l n="37" xml:id="l37">Oüy, son <ref target="#superbe">superbe*</ref> cœur entraisné vers Pirame,<pb n="3, Aij" xml:id="p3"/></l>
+            <l n="38" xml:id="l38">D'un reste de fierté combat encor sa <ref target="#flame1">flâme*</ref> :</l>
+            <l n="39" xml:id="l39">Mais quand Thisbé parût, certaine émotion</l>
+            <l n="40" xml:id="l40">Par un dédain jaloux trahît sa passion.</l>
+            <l n="41" xml:id="l41">A l’<ref target="#abord">abord*</ref> de mon Fils, je vis sur son visage</l>
+            <l n="42" xml:id="l42">Ce <ref target="#trouble">trouble*</ref>, de l’amour l’infaillible présage,</l>
+            <l n="43" xml:id="l43">Des regards échapez, &amp; des soûpirs perdus,</l>
+            <l n="44" xml:id="l44">Qu'un autre que Pirame auroit bien entendus.</l>
+            <l n="45" xml:id="l45">Sur un si grand espoir mon ame possedée</l>
+            <l n="46" xml:id="l46">De cette trop <ref target="#charmant">charmante*</ref> &amp; trop pompeuse idée,</l>
+            <l n="47" xml:id="l47">A déja devoré le Sceptre pour mon Fils.</l>
+            <l n="48" xml:id="l48">Tu connois, cher Licas, la grandeur d’Amestris,</l>
+            <l n="49" xml:id="l49">Veuve du grand Belus, Reine de Babylone ;</l>
+            <l n="50" xml:id="l50">Elle a bien soûtenu la majesté du Trône ;</l>
+            <l n="51" xml:id="l51">On adore son nom chez cent Peuples divers,</l>
+            <l n="52" xml:id="l52">Et sa main peut donner un Maître à l’Univers.</l>
+            <l n="53" xml:id="l53">Ce qui semble d’ailleurs flater mon espérance,</l>
+            <l n="54" xml:id="l54">La Reine avec son Fils a peu d’intelligence,</l>
+            <l n="55" xml:id="l55">Elle craint que Belus ne conspire en secret,</l>
+            <l n="56" xml:id="l56">Le voit aimé du Peuple, &amp; le voit à regret :</l>
+            <l n="57" xml:id="l57">De cette conjoncture il faut prendre avantage,</l>
+            <l n="58" xml:id="l58">De l’<ref target="#eclat1">éclat*</ref> de son Fils luy donner de l’ombrage,</l>
+            <l n="59" xml:id="l59">Du Peuple &amp; de Belus rendre son cœur jaloux,</l>
+            <l n="60" xml:id="l60">Et sonder son esprit sur le choix d’un Epoux,</l>
+            <l n="61" xml:id="l61">Luy parler de Thisbé, luy parler de Pirame,</l>
+            <l n="62" xml:id="l62">Feindre de consentir devant elle à leur <ref target="#flame1">flâme*</ref>,</l>
+            <l n="63" xml:id="l63">Examiner son <ref target="#air">air*</ref>, sa réponse, &amp; ses yeux.</l>
+            <l n="64" xml:id="l64">Pirame a beau presser. Mon cœur ambitieux</l>
+            <l n="65" xml:id="l65">Tâchant de m’assurer des desseins de la Reine,</l>
+            <l n="66" xml:id="l66">Sçaura mettre les miens à l’ombre de ma haine ;</l>
+            <l n="67" xml:id="l67">S'il parle pour Thisbé, j’opose à ses raisons</l>
+            <l n="68" xml:id="l68">L'inimitié qui regne entre nos deux <ref target="#maison">Maisons*</ref>.</l>
+            <l n="69" xml:id="l69">Mais il paroît ce Fils à mes vœux si contraire.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I02">
+          <sp xml:id="I02-1" who="pirame">
+            <l n="70" xml:id="l70">Seigneur, je <ref target="#connoitre2">connois*</ref> bien que je vais vous <ref target="#deplaire">déplaire*</ref>,<pb n="4" xml:id="p4"/></l>
+            <l n="71" xml:id="l71">Qu'au seul nom de Thisbé…Déja remply d’<ref target="#effroi">éfroy*</ref>,</l>
+            <l n="72" xml:id="l72">Vostre couroux est prest d’éclater contre moy ;</l>
+            <l n="73" xml:id="l73">Pour elle au nom des Dieux désarmez vostre haine,</l>
+            <l n="74" xml:id="l74">Il est temps de finir ou ma vie, ou ma peine ;</l>
+            <l n="75" xml:id="l75">Et si la Reine mesme autorise mon <ref target="#feu1">feu*</ref>,</l>
+            <l n="76" xml:id="l76">Si Belus avecque elle y donne son <ref target="#aveu">aveu*</ref>,</l>
+            <l n="77" xml:id="l77" part="I">Soufrez…</l>
+          </sp>
+          <sp xml:id="I02-2" who="arsace">
+            <l part="F">Pourquoy viens-tu m’importuner sans cesse</l>
+            <l n="78" xml:id="l78">Pour l’aveugle intérest d’une injuste <ref target="#tendresse">tendresse*</ref> ?</l>
+            <l n="79" xml:id="l79">Oubliant ton devoir, tu n’écoutes plus rien,</l>
+            <l n="80" xml:id="l80">Au sang d’un Ennemy tu veux joindre le mien ?</l>
+          </sp>
+          <sp xml:id="I02-3" who="pirame">
+            <l n="81" xml:id="l81">S'il fust vostre Ennemy, sa faveur fist son crime,</l>
+            <l n="82" xml:id="l82">Et vous sçavez, Seigneur, qu’il fust vostre victime.</l>
+            <l n="83" xml:id="l83">J'ay tâché d’étoufer mon amour pour Thisbé,</l>
+            <l n="84" xml:id="l84">Mais malgré mes <ref target="#effort">efforts*</ref> mon cœur a succombé ;</l>
+            <l n="85" xml:id="l85">Je ne puis resister au panchant qui m’entraisne,</l>
+            <l n="86" xml:id="l86">Seigneur, j’ay plus d’amour que vous n’avez de haine.</l>
+          </sp>
+          <sp xml:id="I02-4" who="arsace">
+            <l n="87" xml:id="l87">Souvien-toy que Narbal m’a toûjours outragé,</l>
+          </sp>
+          <sp xml:id="I02-5" who="pirame">
+            <l n="88" xml:id="l88">Et malgré mon amour vous ay-je pas vangé ?</l>
+            <l n="89" xml:id="l89">Vous le sçavez, Seigneur, il sentit ma vangeance,<pb n="5,Aiij" xml:id="p5"/></l>
+            <l n="90" xml:id="l90">Et son sang répandu sçeût laver vostre offense ;</l>
+            <l n="91" xml:id="l91">Narbal privé d’honneurs, depuis fust exilé,</l>
+            <l n="92" xml:id="l92">Ce Prince malheureux fust par vous accablé ;</l>
+            <l n="93" xml:id="l93">Sa <ref target="#maison">Maison*</ref> <ref target="#desole">desolée*</ref> à tous vos coups en bute,</l>
+            <l n="94" xml:id="l94">En tombant avec luy, l’écrasa sous sa chûte.</l>
+            <l n="95" xml:id="l95">Dieux ! n’est-ce pas assez ? n’estes-vous pas content ?</l>
+            <l n="96" xml:id="l96">Est-ce un reste de sang que vostre haine attend ?</l>
+            <l n="97" xml:id="l97">(Ce reste précieux d’une illustre Famille.)</l>
+            <l n="98" xml:id="l98">Le Pere est-il chez vous le crime de la Fille ?</l>
+            <l n="99" xml:id="l99">Cent fois vous m’avez veu pour elle à vos genoux ;</l>
+            <l n="100" xml:id="l100">Mais helas ! je n’ay fait qu’aigrir vostre couroux.</l>
+            <l n="101" xml:id="l101" part="I">Eh du moins pour un Fils flechissez…</l>
+          </sp>
+          <sp xml:id="I02-6" who="arsace">
+            <l part="F">Ah Pirame !</l>
+            <l n="102" xml:id="l102">Si j’osois découvrir tout le fonds de mon ame,</l>
+            <l n="103" xml:id="l103">La tienne prévenuë adore son erreur :</l>
+            <l n="104" xml:id="l104">Mais si tu connoissois jusqu’où va ton bonheur,</l>
+            <l n="105" xml:id="l105" part="I">Si tu sçavois…</l>
+          </sp>
+          <sp xml:id="I02-7" who="licas">
+            <l part="M">Seigneur, la Reine entre.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I03">
+          <sp xml:id="I03-1" who="pirame">
+            <l part="F">Ah Madame !</l>
+            <l n="106" xml:id="l106">Vous venez au secours du malheureux Pirame,</l>
+            <l n="107" xml:id="l107">Et mon heureux destin vous a conduite icy<pb n="6" xml:id="p6"/></l>
+            <l n="108" xml:id="l108">Pour m’aider à flechir un cœur trop endurcy.</l>
+            <l n="109" xml:id="l109">Prononcez en faveur d’une juste <ref target="#tendresse">tendresse*</ref>…</l>
+          </sp>
+          <sp xml:id="I03-2" who="amestris">
+            <l n="110" xml:id="l110">Vous verrez à quel point pour vous je m’<ref target="#interesser2">intéresse*</ref>,</l>
+            <l n="111" xml:id="l111">Prince, &amp; vostre destin vous fera des jaloux,</l>
+            <l n="112" xml:id="l112">Si je puis faire icy quelque chose pour vous :</l>
+            <l n="113" xml:id="l113">Mais, Arsace, en secret j’ay deux mots à vous dire,</l>
+            <l n="114" xml:id="l114">Je parleray pour vous, Prince, qu’on se retire.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I04">
+          <sp xml:id="I04-1" who="amestris">
+            <l n="115" xml:id="l115">Dans le comble où je suis de <ref target="#gloire">gloire*</ref> et de grandeur,</l>
+            <l n="116" xml:id="l116">Plus d’un <ref target="#ennuy">ennuy*</ref> pressant me devore le cœur.</l>
+            <l n="117" xml:id="l117">Bien que depuis longtemps ma <ref target="#gloire">gloire*</ref> sans seconde</l>
+            <l n="118" xml:id="l118">Me rende la Maîtresse ou l’Arbitre du Monde,</l>
+            <l n="119" xml:id="l119">Que tant de Nations flechissent sous mes Loix,</l>
+            <l n="120" xml:id="l120">Le Sceptre a ses <ref target="#chagrin">chagrins*</ref>, &amp; j’en sens tout le poids.</l>
+            <l n="121" xml:id="l121">Il faut le soûtenir. Une Reine qu’on brave,</l>
+            <l n="122" xml:id="l122">De son autorité se doit rendre l’Esclave,</l>
+            <l n="123" xml:id="l123">Et pour se maintenir dans cet illustre rang,</l>
+            <l n="124" xml:id="l124">Abaisser (s’il le faut) jusqu’à son propre <ref target="#sang">sang*</ref>.</l>
+            <l n="125" xml:id="l125">Je suis jalouse, Arsace, &amp; jalouse du Trône ; </l>
+            <l n="126" xml:id="l126">Mon Fils semble à mes yeux regner dans Babylone,</l>
+            <l n="127" xml:id="l127">Le Peuple le chérit, l’idolâtre, &amp; je voy</l>
+            <l n="128" xml:id="l128">Que lors qu’on me neglige, on le regarde en Roy.</l>
+            <l n="129" xml:id="l129">Sur ce Fils (il est vray) j’usurpé la Couronne,</l>
+            <l n="130" xml:id="l130">Mais ma vertu me doit ce que le <ref target="#sang">sang*</ref> luy donne,</l>
+            <l n="131" xml:id="l131">Sa teste estoit trop foible, &amp; je crûs qu’un Enfant<pb n="7, Aiiij" xml:id="p7"/></l>
+            <l n="132" xml:id="l132">Ne pouvoit soûtenir un fardeau si pesant ;</l>
+            <l n="133" xml:id="l133">J'eus, pour l’en soulager, une assez noble audace ;</l>
+            <l n="134" xml:id="l134">Le Roy mort, je voulus seule remplir sa place,</l>
+            <l n="135" xml:id="l135">A grand pas j’ay suivy ceux de Sémiramis,</l>
+            <l n="136" xml:id="l136">Et je regne comme elle aux despens de mon Fils ;</l>
+            <l n="137" xml:id="l137">J'ay comme elle étendu l’Empire d’Assyrie,</l>
+            <l n="138" xml:id="l138">J'ay <ref target="#subjuger">subjugué*</ref> le Pont, la Thrace, &amp; l’Armenie,</l>
+            <l n="139" xml:id="l139">Et jusqu’au fonds de l’Inde allant porter des fers,</l>
+            <l n="140" xml:id="l140">J'en ay vaincu les Rois au bout de l’Univers.</l>
+            <l n="141" xml:id="l141">Ayant donc entassé victoire sur victoire,</l>
+            <l n="142" xml:id="l142">Je me suis mise, Arsace, à l’abry de ma <ref target="#gloire">gloire*</ref> ;</l>
+            <l n="143" xml:id="l143">Et l’<ref target="#eclat1">éclat*</ref> de mon nom me répondant de moy,</l>
+            <l n="144" xml:id="l144">J'affermis une Reine en la place d’un Roy.</l>
+            <l n="145" xml:id="l145">Babylone (il est vray) dans ses Places publiques</l>
+            <l n="146" xml:id="l146">Eleva ma Statuë, &amp; des Arcs magnifiques,</l>
+            <l n="147" xml:id="l147">Pour marquer que mon cœur ennemy du repos,</l>
+            <l n="148" xml:id="l148">Dans un Sexe si foible eût l’ame d’un Héros.</l>
+            <l n="149" xml:id="l149">Depuis j’ay reconnu son ardeur &amp; son zele,</l>
+            <l n="150" xml:id="l150">J'ay rendu sa memoire et la mienne immortelle,</l>
+            <l n="151" xml:id="l151">J'ay relevé ses murs, ses superbes jardins,</l>
+            <l n="152" xml:id="l152">J'ay de Sémiramis achevé les desseins ;</l>
+            <l n="153" xml:id="l153">Enfin, par mes travaux en miracles féconde,</l>
+            <l n="154" xml:id="l154">Babylone se voit la Merveille du Monde.</l>
+            <l n="155" xml:id="l155">Voilà ce que j’ay fait. Et l’Ingrate aujourd’huy</l>
+            <l n="156" xml:id="l156">Contre moy de mon Fils se veut faire un apuy ;</l>
+            <l n="157" xml:id="l157">Sa Cour est à present plus que grosse que la mienne ;</l>
+            <l n="158" xml:id="l158">S'il <ref target="#caballer">caballe*</ref>, je crains qu’elle ne le soûtienne,</l>
+            <l n="159" xml:id="l159">Je veux y donner ordre, &amp; prendre vos avis</l>
+            <l n="160" xml:id="l160">Sur ce qui me regarde, &amp; le Peuple, &amp; mon Fils.</l>
+          </sp>
+          <sp xml:id="I04-2" who="arsace">
+            <l n="161" xml:id="l161">Madame, le grand <ref target="#coeur">cœur*</ref> de Belus m’intimide,</l>
+            <l n="162" xml:id="l162">Le Peuple l’aime, &amp; prend son caprice pour guide,</l>
+            <l n="163" xml:id="l163">La nouveauté luy plaît. Le Prince vostre Fils<pb n="8" xml:id="p8"/></l>
+            <l n="164" xml:id="l164">S'étudie à gagner les cœurs &amp; les esprits.</l>
+            <l n="165" xml:id="l165">Sémiramis, Madame, est l’auguste modelle</l>
+            <l n="166" xml:id="l166">Que vous avez suivy, vous avez fait plus qu’elle ;</l>
+            <l n="167" xml:id="l167">Mais enfin nous voyons le <ref target="#genereux">genéreux*</ref> Belus</l>
+            <l n="168" xml:id="l168">S'écarter du chemin du trop foible Ninus :</l>
+            <l n="169" xml:id="l169">Comme luy nous l’avions <ref target="#nourrir">noury*</ref> dans la <ref target="#mollesse">molesse*</ref>,</l>
+            <l n="170" xml:id="l170">Sans qu’il en ait jamais contracté la foiblesse ;</l>
+            <l n="171" xml:id="l171">Il trompe nostre attente, il est ambitieux,</l>
+            <l n="172" xml:id="l172">Et déja sur ses droits il ouvre trop les yeux.</l>
+          </sp>
+          <sp xml:id="I04-3" who="amestris">
+            <l n="173" xml:id="l173">Sur ses droits ! En a-t-il pour prétendre à ma <ref target="#gloire">gloire*</ref> ?</l>
+            <l n="174" xml:id="l174">S'il a les droits du <ref target="#sang">sang*</ref>, j’ay ceux de la victoire.</l>
+            <l n="175" xml:id="l175">Et quel titre auroit-il sur ces vastes païs,</l>
+            <l n="176" xml:id="l176">Qu'à mes propres périls j’ay moy-mesme conquis ?</l>
+            <l n="177" xml:id="l177">Je veux me conserver la Puissance supréme ;</l>
+            <l n="178" xml:id="l178">Et pour vivre &amp; mourir avec le Diadéme,</l>
+            <l n="179" xml:id="l179">Arsace, je pourois en disposer un jour,</l>
+            <l n="180" xml:id="l180">Et le partager mesme au gré de mon amour.</l>
+          </sp>
+          <sp xml:id="I04-4" who="arsace">
+            <l n="181" xml:id="l181">Vous le pouvez, Madame, &amp; tout vous y convie ;</l>
+            <l n="182" xml:id="l182">Par là vous confondrez l’insolence &amp; l’envie ;</l>
+            <l n="183" xml:id="l183">Et sans tant <ref target="#balancer">balancer*</ref>, choisissez un Epoux</l>
+            <l n="184" xml:id="l184">Qui vous preste son nom, &amp; tienne tout de vous.</l>
+            <l n="185" xml:id="l185">Il faudra que Belus obéïsse à ce Maître ;</l>
+            <l n="186" xml:id="l186">Un Roy de vostre choix l’empeschera de l’estre :</l>
+            <l n="187" xml:id="l187">Cependant vous serez Maîtresse de ce Roy,</l>
+            <l n="188" xml:id="l188">Qui tenant tout de vous, en recevra la loy.</l>
+            <l n="189" xml:id="l189">Nommez-en un, Madame, &amp; le placez au Trône ;</l>
+            <l n="190" xml:id="l190">Vous avez une Armée aupres de Babylone,</l>
+            <l n="191" xml:id="l191">Je doy la commander, vous l’avez résolu ;</l>
+            <l n="192" xml:id="l192">Montrez dans Babylone un pouvoir absolu :</l>
+            <l n="193" xml:id="l193">Vous deviez sur l’Egipte étendre vos conquestes,</l>
+            <l n="194" xml:id="l194">Mais bornez les, Madame, à conserver deux Testes,</l>
+            <l n="195" xml:id="l195">La vostre la premiere, &amp; celle de l’Epoux<pb n="9" xml:id="p9"/></l>
+            <l n="196" xml:id="l196">Que vous aurez choisy pour regner avec vous.</l>
+          </sp>
+          <sp xml:id="I04-5" who="amestris">
+            <l n="197" xml:id="l197">C'est à quoy je pensois, &amp; cet avis fidelle</l>
+            <l n="198" xml:id="l198">Touchant mes intérests me marque vostre zele ;</l>
+            <l n="199" xml:id="l199">Mais pour le reconnoître, &amp; vous ouvrir mon cœur,</l>
+            <l n="200" xml:id="l200">Parlez, qui croiriez-vous digne de cet honneur ?</l>
+            <l n="201" xml:id="l201">Car si je fais un choix, de vous il peut dépendre,</l>
+            <l n="202" xml:id="l202" part="I">Et c’est de vostre main…</l>
+          </sp>
+          <sp xml:id="I04-6" who="arsace">
+            <l part="F">Non, vous devez attendre</l>
+            <l n="203" xml:id="l203">Ce choix de vostre cœur, &amp; non pas de ma main.</l>
+            <l n="204" xml:id="l204">Ne consultez que luy sur un si grand dessein.</l>
+          </sp>
+          <sp xml:id="I04-7" who="amestris">
+            <l n="205" xml:id="l205" part="I">Je ne veux prendre avis que de vous.</l>
+          </sp>
+          <sp xml:id="I04-8" who="arsace">
+            <l part="F">Non, Madame.</l>
+          </sp>
+          <sp xml:id="I04-9" who="amestris">
+            <l n="206" xml:id="l206">Je pouray donc tantôt prendre avis de Pirame.</l>
+          </sp>
+          <sp xml:id="I04-10" who="arsace">
+            <l n="207" xml:id="l207">On croit qu’avec Thisbé vous le voulez unir,</l>
+            <l n="208" xml:id="l208">Et qu’exprés à la Cour vous l’avez fait venir.</l>
+            <l n="209" xml:id="l209">Si vous le commandiez pour vous marquer mon zele…</l>
+          </sp>
+          <sp xml:id="I04-11" who="amestris">
+            <l n="210" xml:id="l210">Qui, moy, le commander ? Quoy, Pirame avecque elle ?</l>
+            <l n="211" xml:id="l211">Et vous consentiriez à haster leur bonheur ?</l>
+            <l n="212" xml:id="l212">Non, je n’exige rien qui <ref target="#gesner">gesne*</ref> vostre cœur.</l>
+            <l n="213" xml:id="l213">A Thisbé voulez-vous unir sa destinée ?</l>
+            <l n="214" xml:id="l214">N'avez-vous plus d’horreur de voir leur hyménée ?</l>
+            <l n="215" xml:id="l215">La Fille de Narbal <ref target="#charmer">charme*</ref>-t-elle vos yeux ?</l>
+          </sp>
+          <sp xml:id="I04-12" who="arsace">
+            <l n="216" xml:id="l216">Le <ref target="#sang">sang*</ref> d’un Ennemy m’est toûjours <ref target="#odieux">odieux*</ref> ;</l>
+            <l n="217" xml:id="l217">Mais par respect, Madame, &amp; par obéïssance,</l>
+            <l n="218" xml:id="l218">Je vous aurois sans <ref target="#doute">doute*</ref> immolé ma vangeance.</l>
+          </sp>
+          <sp xml:id="I04-13" who="amestris">
+            <l n="219" xml:id="l219">Je n’apuiray jamais, Arsace, un tel amour :<pb n="10" xml:id="p10"/></l>
+            <l n="220" xml:id="l220">Si j’'ay fait revenir la Princesse à la Cour,</l>
+            <l n="221" xml:id="l221">J'avois quelques raisons, mais j’ay <ref target="#gouter">gousté*</ref> les vostres,</l>
+            <l n="222" xml:id="l222">Pour vostre Fils encor je puis en avoir d’autres :</l>
+            <l n="223" xml:id="l223">Mais pour luy faire voir quel est mon sentiment,</l>
+            <l n="224" xml:id="l224">Je veux luy reprocher son lâche <ref target="#attachement">attachement*</ref>,</l>
+            <l n="225" xml:id="l225">Et vous verrez…Enfin envoyez-moi Pirame,</l>
+            <l n="226" xml:id="l226" part="I">Je parleray pour vous.</l>
+          </sp>
+          <sp xml:id="I04-14" who="arsace">
+            <l part="F">Tant de bontez, Madame…</l>
+          </sp>
+          <sp xml:id="I04-15" who="amestris">
+            <l n="227" xml:id="l227">Ayant veu vostre Fils, nous pourons entre nous</l>
+            <l n="228" xml:id="l228"><ref target="#consulter">Consulter*</ref> à loisir sur le choix d’un Epoux.</l>
+          </sp>
+          <sp xml:id="I04-16" who="arsace">
+            <l n="229" xml:id="l229" part="I">Je pars &amp; j’obéïs.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I05">
+          <sp xml:id="I05-1" who="amestris">
+            <l part="F">Barsine, peux-tu croire</l>
+            <l n="230" xml:id="l230">Que ce pompeux discours de grandeur &amp; de <ref target="#gloire">gloire*</ref>,</l>
+            <l n="231" xml:id="l231">Ce dehors fastueux, cet orgueil, cet <ref target="#eclat1">éclat*</ref>,</l>
+            <l n="232" xml:id="l232">Coloroient mon amour de maximes d’Estat ?</l>
+            <l n="233" xml:id="l233">S'il faut qu’à cœur ouvert avec toy je m’explique,</l>
+            <l n="234" xml:id="l234">C'est un amour caché qui parle en politique ;</l>
+            <l n="235" xml:id="l235">Je le sens, je l’avouë, &amp; je doute en ce jour</l>
+            <l n="236" xml:id="l236">Si mon ambition égale mon amour.</l>
+            <l n="237" xml:id="l237">Vois donc et reconnois mon ame tout entiere ;<pb n="11" xml:id="p11"/></l>
+            <l n="238" xml:id="l238">Cette Amestris toûjours si <ref target="#superbe">superbe*</ref> &amp; si fiere,</l>
+            <l n="239" xml:id="l239">Au seul nom de Pirame a changé de couleur,</l>
+            <l n="240" xml:id="l240">Et poussé des soûpirs qu’il arrache à mon cœur.</l>
+            <l n="241" xml:id="l241">Fiere Amestris, helas ! malgré ta grandeur d’ame,</l>
+            <l n="242" xml:id="l242">Oüy, ton cœur de Héros est le cœur d’une Femme ;</l>
+            <l n="243" xml:id="l243">Ce cœur qui s’est rendu maître de l’Univers,</l>
+            <l n="244" xml:id="l244">Dans Babylone esclave y languit dans les fers.</l>
+            <l n="245" xml:id="l245">Ah ! j’en rougis, Barsine, &amp; j’ose icy te dire</l>
+            <l n="246" xml:id="l246">Que toute ma fierté frémit quand il soûpire :</l>
+            <l n="247" xml:id="l247">Cependant quand je voy son <ref target="#aimable">aimable*</ref> vainqueur,</l>
+            <l n="248" xml:id="l248">Cette fierté devient une douce langueur.</l>
+          </sp>
+          <sp xml:id="I05-2" who="barsine">
+            <l n="249" xml:id="l249">Madame, vous aimez, &amp; ce n’est pas un crime,</l>
+            <l n="250" xml:id="l250">C'est une passion &amp; tendre &amp; legitime,</l>
+            <l n="251" xml:id="l251">Pirame est Prince, il peut devenir vostre Epoux :</l>
+            <l n="252" xml:id="l252">Cependant si j’osois m’expliquer avec vous,</l>
+            <l n="253" xml:id="l253">Connoissant pour Thisbé son ame prévenuë,</l>
+            <l n="254" xml:id="l254" part="I">Vous l’avez fait venir…</l>
+          </sp>
+          <sp xml:id="I05-3" who="amestris">
+            <l part="F">Et c’est ce qui me tuë.</l>
+            <l n="255" xml:id="l255">Barsine, dans ma Cour je l’ay fait revenir,</l>
+            <l n="256" xml:id="l256">Pour rassurer mon cœur tout prest à se trahir.</l>
+            <l n="257" xml:id="l257">J'ay fait ce que j’ay pû pour éteindre ma <ref target="#flame1">flâme*</ref>,</l>
+            <l n="258" xml:id="l258">J'ay fait venir Thisbé pour l’unir à Pirame ;</l>
+            <l n="259" xml:id="l259">Mais, Dieux, en la voyant, je sçeus trop pressentir</l>
+            <l n="260" xml:id="l260">Que j’en aurois bientôt un jaloux repentir.</l>
+            <l n="261" xml:id="l261">Oüy, quoy que ma fierté combatit ma <ref target="#tendresse">tendresse*</ref>.</l>
+            <l n="262" xml:id="l262">Au retour de Thisbé je connus ma foiblesse,</l>
+            <l n="263" xml:id="l263">Je devins <ref target="#inquiet">inquiete*</ref> &amp; triste à son retour,</l>
+            <l n="264" xml:id="l264">Je la vis à regret le <ref target="#charme">charme*</ref> de ma Cour,</l>
+            <l n="265" xml:id="l265">Et connoissant alors la force de ma <ref target="#flame1">flâme*</ref>,</l>
+            <l n="266" xml:id="l266">Thisbé me fist sentir que j’adorois Pirame.</l>
+            <l n="267" xml:id="l267" part="I">Il vient, que luy diray-je ?</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I06">
+          <sp xml:id="I06-1" who="pirame">
+            <l part="F">Ah Madame ! auriez-vous<pb n="12" xml:id="p12"/></l>
+            <l n="268" xml:id="l268">Pour Thisbé de mon Pere apaisé le couroux ?</l>
+            <l n="269" xml:id="l269">Il m’est venu trouver, &amp; d’un œil moins severe,</l>
+            <l n="270" xml:id="l270">D'un visage content, &amp; me parlant en Pere,</l>
+            <l n="271" xml:id="l271">Allez trouver la Reine, elle a parlé pour vous,</l>
+            <l n="272" xml:id="l272">M'a-t-il dit : Je viens donc <ref target="#embrasser">embrasser*</ref> vos genoux,</l>
+            <l n="273" xml:id="l273">Madame, &amp; vous marquer mon respect &amp; mon zele.</l>
+          </sp>
+          <sp xml:id="I06-2" who="amestris">
+            <l n="274" xml:id="l274">Oüy, j’ay parlé pour vous aussi bien que pour elle ;</l>
+            <l n="275" xml:id="l275">Mais, Prince, il m’a donné de si fortes raisons,</l>
+            <l n="276" xml:id="l276">Il a tourné mon ame, &amp; de tant de façons,</l>
+            <l n="277" xml:id="l277">D'un discours si pressant, que je ne puis comprendre</l>
+            <l n="278" xml:id="l278">De quel front contre luy vous pouvez vous defendre.</l>
+          </sp>
+          <sp xml:id="I06-3" who="pirame">
+            <l n="279" xml:id="l279" part="I">Dieux ! qu’entens-je, Madame ?</l>
+          </sp>
+          <sp xml:id="I06-4" who="amestris">
+            <l part="F">Il m’a fait souvenir</l>
+            <l n="280" xml:id="l280">Qu'il ne pouroit jamais à Thisbé vous unir,</l>
+            <l n="281" xml:id="l281">Dont le <ref target="#sang">sang*</ref> <ref target="#odieux">odieux*</ref> a répandu le vostre,</l>
+            <l n="282" xml:id="l282">Et qu’une forte haine éloigna l’un de l’autre.</l>
+            <l n="283" xml:id="l283">Il m’a fait souvenir de ce combat <ref target="#fatal">fatal*</ref></l>
+            <l n="284" xml:id="l284">Où son mauvais destin fist triompher Narbal :</l>
+            <l n="285" xml:id="l285">Il dit que vous avez oublié cette injure,<pb n="13" xml:id="p13"/></l>
+            <l n="286" xml:id="l286">Que l’amour dans vostre ame étouffe la nature,</l>
+            <l n="287" xml:id="l287">Et qu’il ne peut soufrir que son <ref target="#sang">sang*</ref> répandu</l>
+            <l n="288" xml:id="l288">Dans celui de Narbal soit icy confondu.</l>
+          </sp>
+          <sp xml:id="I06-5" who="pirame">
+            <l n="289" xml:id="l289">Madame, à ces raisons si j’osois vous répondre,</l>
+            <l n="290" xml:id="l290">Devant vous en deux mots je pourois les confondre ;</l>
+            <l n="291" xml:id="l291">Et s’il estoit present, il verroit à son tour</l>
+            <l n="292" xml:id="l292">Que pour luy j’ay longtemps combatu mon amour.</l>
+            <l n="293" xml:id="l293">Ouy, je voyois Thisbé sans luy rendre les armes,</l>
+            <l n="294" xml:id="l294">Mon cœur se refusoit à l’<ref target="#eclat1">éclat*</ref> de ses <ref target="#charme">charmes*</ref> :</l>
+            <l n="295" xml:id="l295">Mais Dieux ! ce mesme jour dans vostre Appartement</l>
+            <l n="296" xml:id="l296">Je la vis, &amp; l’amour prist alors son moment.</l>
+            <l n="297" xml:id="l297">Ses yeux par des regards désarmez de colere,</l>
+            <l n="298" xml:id="l298">Sembloient desavoüer le combat de son Pere ;</l>
+            <l n="299" xml:id="l299">Ils estoient languissans, les miens estoient soûmis,</l>
+            <l n="300" xml:id="l300">Et nos regards enfin n’estoient point d’Ennemis.</l>
+          </sp>
+          <sp xml:id="I06-6" who="amestris">
+            <l n="301" xml:id="l301" part="I">Quoy ? Prince, pouviez-vous…</l>
+          </sp>
+          <sp xml:id="I06-7" who="pirame">
+            <l part="F">Et sçavez-vous, Madame,</l>
+            <l n="302" xml:id="l302">Les <ref target="#effort">efforts*</ref> que je fis à combatre ma <ref target="#flame1">flâme*</ref> ?</l>
+            <l n="303" xml:id="l303">Cruelle politique ! impitoyable honneur !</l>
+            <l n="304" xml:id="l304">De Narbal je devins à regret le vainqueur,</l>
+            <l n="305" xml:id="l305" part="I">Et son sang répandu…</l>
+          </sp>
+          <sp xml:id="I06-8" who="amestris">
+            <l part="F">Je loüé vostre audace,</l>
+            <l n="306" xml:id="l306">Et je pris hautement les intérests d’Arsace ;</l>
+            <l n="307" xml:id="l307">Les vostres me sont chers. Mais enfin aujourd’huy,</l>
+            <l n="308" xml:id="l308">Prince, faites paroître un Fils digne de luy ;</l>
+            <l n="309" xml:id="l309">Plus que vous ne pensez vostre <ref target="#interest">intérest*</ref> me touche :</l>
+            <l n="310" xml:id="l310">J'ay tâché d’adoucir son esprit trop farouche,</l>
+            <l n="311" xml:id="l311">Il ne peut voir Thisbé…Mais quoy ? si la grandeur</l>
+            <l n="312" xml:id="l312">Ou si l’ambition regnoit dans vostre cœur,</l>
+            <l n="313" xml:id="l313">On pouroit…Car l’amour regle une ame commune ;<pb n="14" xml:id="p14"/></l>
+            <l n="314" xml:id="l314">Mais un grand cœur s’éleve &amp; court à la fortune.</l>
+          </sp>
+          <sp xml:id="I06-9" who="pirame">
+            <l n="315" xml:id="l315">Qu'il me coûteroit cher, ce funeste bonheur,</l>
+            <l n="316" xml:id="l316">Qui feroit ma fortune aux despens de mon cœur !</l>
+            <l n="317" xml:id="l317">Mais, Madame, aujourd’huy pour élever Pirame,</l>
+            <l n="318" xml:id="l318">Abaissez sa fortune, &amp; relevez sa <ref target="#flame1">flâme*</ref>.</l>
+          </sp>
+          <sp xml:id="I06-10" who="amestris">
+            <l n="319" xml:id="l319">Mais comment réünir vostre <ref target="#sang">sang*</ref> &amp; le sien ?</l>
+          </sp>
+          <sp xml:id="I06-11" who="pirame">
+            <l n="320" xml:id="l320">Si j’ai versé leur sang, ils ont versé le mien ;</l>
+            <l n="321" xml:id="l321">Helas ! que pour Thisbé j’en ressentis d’<ref target="#alarme">allarmes*</ref> !</l>
+            <l n="322" xml:id="l322">Pour son sang répandu, qu’il me coûta de larmes !</l>
+            <l n="323" xml:id="l323">Pendant deux ans entiers épris des mesmes <ref target="#feu1">feux*</ref>,</l>
+            <l n="324" xml:id="l324">Nous eûmes le loisir d’en répandre tous deux :</l>
+            <l n="325" xml:id="l325">Mais, Madame, arrestez nos larmes &amp; nos plaintes,</l>
+            <l n="326" xml:id="l326">Et devenez sensible à nos vives <ref target="#atteinte">atteintes*</ref>;</l>
+            <l n="327" xml:id="l327">Nos Pêres divisez n’ont pû rien obtenir ;</l>
+            <l n="328" xml:id="l328">L'amour nous unissant, vouloit les réünir ;</l>
+            <l n="329" xml:id="l329">Pour Thisbé flechissez un Pere impitoyable :</l>
+            <l n="330" xml:id="l330">Mais vous seule à l’amour estes inéxorable.</l>
+            <l n="331" xml:id="l331">Vous ne répondez rien, Madame ?</l>
+          </sp>
+          <sp xml:id="I06-12" who="amestris">
+            <l n="332" xml:id="l332" part="I">Ah ! le cruel !</l>
+            <l part="M">J'y répondray, sortez.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I07">
+          <sp xml:id="I07-1" who="amestris">
+            <l part="F">Ah Dieux ! quel coup <ref target="#mortel2">mortel*</ref> !<pb n="15" xml:id="p15"/></l>
+            <l n="333" xml:id="l333">A present je suis libre, exhalez-vous ma <ref target="#flame1">flâme*</ref> ;</l>
+            <l n="334" xml:id="l334">Sortez, lâches soûpirs, avec l’ingrat Pirame :</l>
+            <l n="335" xml:id="l335">Toy, Barsine, aide-moy, m’en donnant de l’horreur,</l>
+            <l n="336" xml:id="l336">A le faire sortir (si tu peux) de mon cœur.</l>
+            <l n="337" xml:id="l337">Malgré tout mon orgueil sa <ref target="#tendresse">tendresse*</ref> m’accable,</l>
+            <l n="338" xml:id="l338">Il me dit qu’à l’amour je suis inéxorable :</l>
+            <l n="339" xml:id="l339">Mais quand je luy parlois à cette heure, en ces lieux,</l>
+            <l n="340" xml:id="l340">Ne devoit-il pas voir cet amour dans mes yeux ?</l>
+            <l n="341" xml:id="l341">Ne devoit-il pas voir ma jalousie extréme ?</l>
+            <l n="342" xml:id="l342">Parlant contre Thisbé, je parlois pour moy-mesme ;</l>
+            <l n="343" xml:id="l343">Mon desordre, mon <ref target="#air">air*</ref>, mon <ref target="#trouble">trouble*</ref>, mon <ref target="#ennuy">ennuy*</ref>,</l>
+            <l n="344" xml:id="l344">Mes soûpirs, tout enfin en disoit trop pour luy.</l>
+            <l n="345" xml:id="l345">Que m’a-t-il répondu ? Son amour qu’il étalle,</l>
+            <l n="346" xml:id="l346">Pour me braver, me vient prier pour ma Rivalle.</l>
+            <l n="347" xml:id="l347">Quels discours, quels <ref target="#transport">transports*</ref>, dans son égarement !</l>
+            <l n="348" xml:id="l348">Que de soûpirs ! Helas ! qu’il aime tendrement !</l>
+            <l n="349" xml:id="l349">Mais c’est contre Thisbé que doit tourner ma rage,</l>
+            <l n="350" xml:id="l350">Pirame est innocent, c’est Thisbé qui m’outrage.</l>
+            <l n="351" xml:id="l351">Que je vais leur causer de <ref target="#mortel2">mortels*</ref> <ref target="#deplaisir">déplaisirs*</ref>,</l>
+            <l n="352" xml:id="l352">Et qu’il en va coûter à Thisbé de soûpirs !</l>
+            <l n="353" xml:id="l353">Pour luy que de <ref target="#transport">transports*</ref> ! pour elle que de larmes !</l>
+            <l n="354" xml:id="l354">Peut-estre que ses yeux en perdront quelques <ref target="#charme">charmes*</ref>.</l>
+            <l n="355" xml:id="l355">Que j’auray de plaisir à les voir malheureux !<pb n="16" xml:id="p16"/></l>
+            <l n="356" xml:id="l356">Va, fais venir Arsace, il est ambitieux,</l>
+            <l n="357" xml:id="l357">Il a sçeu découvrir le secret de mon ame :</l>
+            <l n="358" xml:id="l358">Je veux luy proposer le Sceptre pour Pirame ;</l>
+            <l n="359" xml:id="l359">Et si par son <ref target="#eclat1">éclat*</ref> je ne puis le toucher,</l>
+            <l n="360" xml:id="l360">Si son cœur de Thisbé ne pouvoit s’arracher,</l>
+            <l n="361" xml:id="l361">Il sçaura ce que peut une Reine outragée,</l>
+            <l n="362" xml:id="l362">Et dans peu de Thisbé je me verray vangée.</l>
+            <p rend="center">Fin du Premier Acte.</p>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="II" type="act">
+        <div type="scene" xml:id="II01">
+          <sp xml:id="II01-1" who="thisbe">
+            <l n="363" xml:id="l363">Ismene, penses-tu, nous voyant en ces lieux,<pb n="17, B" xml:id="p17"/></l>
+            <l n="364" xml:id="l364">Que nous ayons flechy la colere des Dieux ?</l>
+            <l n="365" xml:id="l365">Apres avoir soufert de si longues <ref target="#alarme">allarmes*</ref>,</l>
+            <l n="366" xml:id="l366">Après deux ans d’exil, de <ref target="#chagrin">chagrins*</ref>, &amp; de larmes,</l>
+            <l n="367" xml:id="l367">Enfin j’ay veu Pirame, &amp; mon ame en <ref target="#suspens">suspens*</ref></l>
+            <l n="368" xml:id="l368">L'a retrouvé fidelle apres un si long temps :</l>
+            <l n="369" xml:id="l369">Mais, Ismene, d’où vient que de <ref target="#mortel2">mortelles*</ref> craintes</l>
+            <l n="370" xml:id="l370">Me donnent tous les jours de secretes <ref target="#atteinte">atteintes*</ref> ?</l>
+            <l n="371" xml:id="l371">Sur le point d’un Hymen qu’on nous fait esperer,</l>
+            <l n="372" xml:id="l372">Je suis triste, &amp; mon cœur ne fait que soûpirer ;</l>
+            <l n="373" xml:id="l373">Le grand <ref target="#soin">soin*</ref> de Belus m’<ref target="#embarrasser">embarasse*</ref> &amp; me <ref target="#gesner">gesne*</ref>,</l>
+            <l n="374" xml:id="l374">Je n’ose penétrer les froideurs de la Reine ;</l>
+            <l n="375" xml:id="l375">Et l’implacable Arsace augmentant mes frayeurs,</l>
+            <l n="376" xml:id="l376">Jette dans mon esprit de nouvelles horreurs.</l>
+          </sp>
+          <sp xml:id="II01-2" who="ismene">
+            <l n="377" xml:id="l377">Que craindre, si Belus parle pour vostre <ref target="#flame1">flâme*</ref> ?<pb n="18" xml:id="p18"/></l>
+            <l n="378" xml:id="l378">Il semble partager les soûpirs de Pirame,</l>
+            <l n="379" xml:id="l379">Tout répond à vos vœux, on n’adore que vous.</l>
+            <l n="380" xml:id="l380">Ah ! Madame, les Dieux ne sont plus en couroux,</l>
+            <l n="381" xml:id="l381">Vous revoyez la Cour après deux ans d’absence,</l>
+            <l n="382" xml:id="l382">Et vous devez, Madame, avoir quelque espérance.</l>
+          </sp>
+          <sp xml:id="II01-3" who="thisbe">
+            <l n="383" xml:id="l383">Ismene, tu le veux, espérons, j’y consens :</l>
+            <l n="384" xml:id="l384">Tâches donc de calmer le <ref target="#trouble">trouble*</ref> de mes sens ;</l>
+            <l n="385" xml:id="l385">Dissipes, si tu peux, tout l’<ref target="#effroi">effroy*</ref> qui me glace,</l>
+            <l n="386" xml:id="l386">Oublions un moment Belus, la Reine, Arsace,</l>
+            <l n="387" xml:id="l387">Ne songeons qu’à Pirame, il doit icy venir,</l>
+            <l n="388" xml:id="l388">A present sans obstacle il peut m’entretenir ;</l>
+            <l n="389" xml:id="l389">En l’attendant, parlons de nos peines passées,</l>
+            <l n="390" xml:id="l390">Et donnons quelque tréve à nos tristes pensées.</l>
+            <l n="391" xml:id="l391">Helas ! il m’en souvient, quand malgré nos désirs</l>
+            <l n="392" xml:id="l392">Nos Peres ennemis étoufoient nos soûpirs ;</l>
+            <l n="393" xml:id="l393">Si la parole alors nous estoit défenduë,</l>
+            <l n="394" xml:id="l394">Si l’on nous déroboit les plaisirs de la veuë,</l>
+            <l n="395" xml:id="l395">Contre tant de rigueurs l’Amour ingénieux</l>
+            <l n="396" xml:id="l396">Nous prestoit en secret une bouche &amp; des yeux.</l>
+            <l n="397" xml:id="l397">Nos Palais se touchant (il t’en souvient Ismene)</l>
+            <l n="398" xml:id="l398">Un Cabinet secret, pour flater nostre peine,</l>
+            <l n="399" xml:id="l399">Malgré la résistance &amp; l’épaisseur du mur,</l>
+            <l n="400" xml:id="l400">Sembla se fendre exprés par un endroit obscur.</l>
+            <l n="401" xml:id="l401">Je le vis la premiere, &amp; l’apris à Pirame ;</l>
+            <l n="402" xml:id="l402">C'estoit là qu’il m’ouvroit les secrets de son ame ;</l>
+            <l n="403" xml:id="l403">Ce passage commun à nos tendres soûpirs,</l>
+            <l n="404" xml:id="l404">Estoit le confident de tous nos <ref target="#deplaisir">déplaisirs*</ref> :</l>
+            <l n="405" xml:id="l405">Helas ! en nous parlant dans ce lieu solitaire,</l>
+            <l n="406" xml:id="l406">Cent fois nous avons craint la <ref target="#surprise1">surprise*</ref> d’un Pere.</l>
+            <l n="407" xml:id="l407">Pirame dans ces doux &amp; tristes entretiens,</l>
+            <l n="408" xml:id="l408">M'aprenoit ses malheurs, je luy contois les miens ;</l>
+            <l n="409" xml:id="l409">Nous nous disions tous deux nos craintes, nos <ref target="#alarme">allarmes*</ref>,<pb n="19, Bij" xml:id="p19"/></l>
+            <l n="410" xml:id="l410">Souvent sans nous parler nous répandions des larmes,</l>
+            <l n="411" xml:id="l411">Un seul mot de ma bouche apaisoit ses douleurs,</l>
+            <l n="412" xml:id="l412">Et ses soûpirs sechoient la moitié de mes pleurs.</l>
+            <l n="413" xml:id="l413">Que nous formions de vœux, de murmures, de plaintes,</l>
+            <l n="414" xml:id="l414">Quand tous deux <ref target="#ennuye">ennuyez*</ref> de ces dures contraintes,</l>
+            <l n="415" xml:id="l415">Nous prenions à partie &amp; le mur &amp; les Dieux !</l>
+            <l n="416" xml:id="l416">Mais quand il estoit temps d’en venir aux adieux,</l>
+            <l n="417" xml:id="l417">Cent promesses alors tendres &amp; mutuelles,</l>
+            <l n="418" xml:id="l418">Mille &amp; mille sermens de nous estre fidelles,</l>
+            <l n="419" xml:id="l419" part="I">Apuyoient…Mais on vient.</l>
+          </sp>
+          <sp xml:id="II01-4" who="ismene">
+            <l part="F">Madame, c’est Belus.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II02">
+          <sp xml:id="II02-1" who="belus">
+            <l n="420" xml:id="l420">La Princesse est icy ; retirez- vous, Hircus,</l>
+            <l n="421" xml:id="l421">Et sur tout observez les démarches d’Arsace.</l>
+            <l n="422" xml:id="l422">Il faut vous avertir de tout ce qui se passe.</l>
+            <l n="423" xml:id="l423">Vous l’ignoriez, Madame, &amp; jusques à ce jour</l>
+            <l n="424" xml:id="l424">Vous avez mal connu les desseins de la Cour.</l>
+            <l n="425" xml:id="l425">Si mes soupçons sont vrais, je commence à <ref target="#connoitre1">connoître*</ref></l>
+            <l n="426" xml:id="l426">Qu'Arsace veut vous perdre, &amp; me donner un Maître ;</l>
+            <l n="427" xml:id="l427">Il ménage la Reine, &amp; vous devez trembler,</l>
+            <l n="428" xml:id="l428">Madame, pour le coup dont il veut m’accabler.</l>
+            <l n="429" xml:id="l429">ce coup que l’on prépare en secret pour ma teste,</l>
+            <l n="430" xml:id="l430">Pouroit à vostre cœur ravir une conqueste ;</l>
+            <l n="431" xml:id="l431">L'<ref target="#eclat1">éclat*</ref> d’une Couronne ébloüit aisément,<pb n="20" xml:id="p20"/></l>
+            <l n="432" xml:id="l432">Et peut tenter la <ref target="#foy">foy*</ref> du plus fidelle Amant :</l>
+            <l n="433" xml:id="l433">De cet ambitieux nous avons tout à craindre ;</l>
+            <l n="434" xml:id="l434">J'ay les yeux penétrans, s’il sçait bien l’art de feindre ;</l>
+            <l n="435" xml:id="l435">Et si la Reine tourne au gré de ses desirs,</l>
+            <l n="436" xml:id="l436">Il va nous préparer de <ref target="#mortel2">mortels*</ref> <ref target="#deplaisir">déplaisirs*</ref>.</l>
+          </sp>
+          <sp xml:id="II02-2" who="thisbe">
+            <l n="437" xml:id="l437">Quoy, la Reine, Seigneur, aime-t-elle Pirame ?</l>
+          </sp>
+          <sp xml:id="II02-3" who="belus">
+            <l n="438" xml:id="l438">Son <ref target="#chagrin">chagrin*</ref>, ses regards, m’ont découvert sa <ref target="#flame1">flâme*</ref> ;</l>
+            <l n="439" xml:id="l439">Sa jalousie enfin depuis vostre retour</l>
+            <l n="440" xml:id="l440">M'a trop fait voir qu’elle est contraire à vostre amour ;</l>
+            <l n="441" xml:id="l441">J'en ay parlé souvent pour sonder sa pensée,</l>
+            <l n="442" xml:id="l442">Elle a rougy, paru surprise, <ref target="#embarrasser">embarassée*</ref>,</l>
+            <l n="443" xml:id="l443">M'a repeté qu’Arsace y devoit consentir.</l>
+            <l n="444" xml:id="l444">Apres cela, jugez ce qu’on doit pressentir.</l>
+          </sp>
+          <sp xml:id="II02-4" who="thisbe">
+            <l n="445" xml:id="l445">La Reine aimer Pirame ! Ah je ne le puis croire ;</l>
+            <l n="446" xml:id="l446">Pour vous ravir son Trône, elle aime trop sa <ref target="#gloire">gloire*</ref> ;</l>
+            <l n="447" xml:id="l447">Et le devoir du <ref target="#sang">sang*</ref> exige qu’Amestris</l>
+            <l n="448" xml:id="l448">Ne le donne jamais à d’autre qu’à son Fils.</l>
+          </sp>
+          <sp xml:id="II02-5" who="belus">
+            <l n="449" xml:id="l449">Hé Madame, est-ce là sa premiere injustice ?</l>
+            <l n="450" xml:id="l450">Voyez de mon destin le bizarre caprice.</l>
+            <l n="451" xml:id="l451">Quoy que né pour le Trône, elle usurpa mon rang,</l>
+            <l n="452" xml:id="l452">Et tâcha de corrompre en moy son propre <ref target="#sang">sang*</ref> :</l>
+            <l n="453" xml:id="l453">Du moins pour retarder ma haute destinée,</l>
+            <l n="454" xml:id="l454">Elle a tenu longtemps ma valeur enchaînée ;</l>
+            <l n="455" xml:id="l455">Pour amortir l’ardeur de mes nobles desirs.</l>
+            <l n="456" xml:id="l456">Elle me mit en proye aux plus tendres plaisirs :</l>
+            <l n="457" xml:id="l457">Dans des lieux éloignez du commerce du monde,</l>
+            <l n="458" xml:id="l458">Mon ame s’endormoit dans une paix profonde ;</l>
+            <l n="459" xml:id="l459">Mais l’<ref target="#eclat1">éclat*</ref> de sa <ref target="#gloire">gloire*</ref>, &amp; le <ref target="#bruit">bruit*</ref> de ses faits,</l>
+            <l n="460" xml:id="l460">Trahît sa politique, &amp; perça ce Palais,</l>
+            <l n="461" xml:id="l461">Ce Palais où j’estois <ref target="#nourrir">noury*</ref> loin des <ref target="#alarme">allarmes*</ref>,<pb n="21" xml:id="p21"/></l>
+            <l n="462" xml:id="l462">Où l’on me défendoit l’exercice des armes.</l>
+            <l n="463" xml:id="l463">Ce fust là cependant que tant d’exploits fameux</l>
+            <l n="464" xml:id="l464">Me fraperent l’oreille, &amp; m’ouvrirent les yeux :</l>
+            <l n="465" xml:id="l465">Ce fust là qu’à l’aspect du Trône de mon Pere,</l>
+            <l n="466" xml:id="l466">Je <ref target="#connoitre1">connus*</ref> que j’estois l’Esclave de ma Mere ;</l>
+            <l n="467" xml:id="l467">Qu'un <ref target="#genereux">genéreux*</ref> dépit élevant mes desirs,</l>
+            <l n="468" xml:id="l468">J'écarté loin de moy la foule des plaisirs :</l>
+            <l n="469" xml:id="l469">J'en dissipé la nuit, &amp; je vis la lumiere,</l>
+            <l n="470" xml:id="l470">Mon ame à la grandeur se tourna toute entiere ;</l>
+            <l n="471" xml:id="l471">Ma Mere le <ref target="#connoitre1">connut*</ref> , &amp; je la fis trembler,</l>
+            <l n="472" xml:id="l472">Que son Fils ne sçeut trop un jour luy ressembler.</l>
+          </sp>
+          <sp xml:id="II02-6" who="thisbe">
+            <l n="473" xml:id="l473">Soufrirez-vous, Seigneur, qu’on vous ravisse un Trône !</l>
+          </sp>
+          <sp xml:id="II02-7" who="belus">
+            <l n="474" xml:id="l474">Madame, j’ay pour moy les Dieux &amp; Babylone ;</l>
+            <l n="475" xml:id="l475">Et mesme dans l’Armée où j’ay fait des Amis,</l>
+            <l n="476" xml:id="l476">Ma <ref target="#caballe">Caballe*</ref> est puissante, &amp; l’on m’a tout promis.</l>
+            <l n="477" xml:id="l477">Depuis longtemps je <ref target="#briguer">brigue*</ref> &amp; je prens mes mesures ;</l>
+            <l n="478" xml:id="l478">Je me fais tous les jours par tout des Creatures ;</l>
+            <l n="479" xml:id="l479">Et si l’on <ref target="#eclater">éclatoit*</ref>, pour faire un nouveau Roy,</l>
+            <l n="480" xml:id="l480">Je trouverois des Bras qui s’armeroient pour moy.</l>
+            <l n="481" xml:id="l481">Ce que je vous aprens vous <ref target="#etonner">étonne*</ref>, Madame,</l>
+            <l n="482" xml:id="l482">De me voir pour le Sceptre un Rival en Pirame ;</l>
+            <l n="483" xml:id="l483">Mais j’ay des <ref target="#seurete">seûretez*</ref> du costé de la Cour.</l>
+            <l n="484" xml:id="l484">Heureux, si près de vous j’en avois pour l’Amour !</l>
+            <l n="485" xml:id="l485">Heureux, si je pouvois du costé de vostre ame</l>
+            <l n="486" xml:id="l486">Devenir à mon tour le Rival de Pirame !</l>
+          </sp>
+          <sp xml:id="II02-8" who="thisbe">
+            <l n="487" xml:id="l487" part="I">Seigneur, que dites-vous ?</l>
+          </sp>
+          <sp xml:id="II02-9" who="belus">
+            <l part="F">Il faut le déclarer.</l>
+            <l n="488" xml:id="l488">Je vous aime, il est vray, mais c’est sans espérer :</l>
+            <l n="489" xml:id="l489">Avant vostre retour, touchant vostre hyménée,<pb n="22" xml:id="p22"/></l>
+            <l n="490" xml:id="l490">A Pirame pour vous ma parole est donnée ;</l>
+            <l n="491" xml:id="l491">Je luy promettois tout ; mais j’éprouve à mon tour</l>
+            <l n="492" xml:id="l492">Qu'un grand cœur est sensible aux <ref target="#charme">charmes*</ref> de l’Amour.</l>
+            <l n="493" xml:id="l493">Pourquoy vos yeux, Madame, ont-ils tant de puissance ?</l>
+          </sp>
+          <sp xml:id="II02-10" who="thisbe">
+            <l n="494" xml:id="l494">Ne les accusez point d’aucune violence :</l>
+            <l n="495" xml:id="l495">Des yeux comme les miens accoûtumez aux pleurs,</l>
+            <l n="496" xml:id="l496">Seigneur, ignorent l’art d’attenter sur les cœurs ;</l>
+            <l n="497" xml:id="l497" part="I">Ils ont trop de respect pour le vostre…</l>
+          </sp>
+          <sp xml:id="II02-11" who="belus">
+            <l part="F">Ah Madame,</l>
+            <l n="498" xml:id="l498">Que n’ont-ils ce respect pour le cœur de Pirame ?</l>
+            <l n="499" xml:id="l499">Mais en vain j’ay pour luy si longtemps combatu,</l>
+            <l n="500" xml:id="l500">Vos yeux ont triomphé de toute ma vertu,</l>
+            <l n="501" xml:id="l501" part="I">Leur <ref target="#feu1">feu*</ref> <ref target="#charmant">charmant*</ref>…</l>
+          </sp>
+          <sp xml:id="II02-12" who="thisbe">
+            <l part="F">Seigneur, auroient-ils quelques <ref target="#charme">charmes*</ref> ?</l>
+            <l n="502" xml:id="l502">Leur <ref target="#feu1">feu*</ref> (s’ils en avoient) s’est éteint dans mes larmes ;</l>
+            <l n="503" xml:id="l503">Et ce peu de beautez dont l’<ref target="#eclat1">éclat*</ref> est passé,</l>
+            <l n="504" xml:id="l504">Apres deux ans d’<ref target="#ennuy">ennuis*</ref>, n’est que trop effacé.</l>
+            <l n="505" xml:id="l505">Une Princesse, helas ! toûjours infortunée,</l>
+            <l n="506" xml:id="l506">Aux plus <ref target="#mortel2">mortels*</ref> <ref target="#chagrin">chagrins*</ref> sans cesse abandonnée,</l>
+            <l n="507" xml:id="l507">Qui vit mourir son Pere, &amp; ses fiers Ennemis</l>
+            <l n="508" xml:id="l508">Elever leur grandeur sur son triste <ref target="#debris">débris*</ref> ;</l>
+            <l n="509" xml:id="l509">Dans ce funeste état errante &amp; <ref target="#desole">désolée*</ref>,</l>
+            <l n="510" xml:id="l510">Dans le fonds de l’Egipte en secret exilée,</l>
+            <l n="511" xml:id="l511">Sans apuy, sans secours, seule avec mes douleurs,</l>
+            <l n="512" xml:id="l512">Seigneur, qu’aurois-je fait que pleurer mes malheurs ?</l>
+            <l n="513" xml:id="l513">Mais, Seigneur, vostre cœur n’a point tant de foiblesse,</l>
+            <l n="514" xml:id="l514">Il est trop au-dessus d’une indigne <ref target="#tendresse">tendresse*</ref> ;</l>
+            <l n="515" xml:id="l515">Songez plutôt, songez à conserver vos droits,</l>
+            <l n="516" xml:id="l516">A voir fléchir un jour l’Univers sous vos loix ;</l>
+            <l n="517" xml:id="l517">Et pour faire avorter les desseins de la Reine,<pb n="23" xml:id="p23"/></l>
+            <l n="518" xml:id="l518">Ah Seigneur ! empeschez que l’Amour ne l’entraisne.</l>
+          </sp>
+          <sp xml:id="II02-13" who="belus">
+            <l n="519" xml:id="l519">Pour conserver mes droits, pour estre ambitieux,</l>
+            <l n="520" xml:id="l520">Helas ! il me faudroit éloigner de vos yeux ;</l>
+            <l n="521" xml:id="l521">Je sacrifirois tout, &amp; pres de vous, Madame,</l>
+            <l n="522" xml:id="l522">Je voudrois que Belus pût devenir Pirame.</l>
+          </sp>
+          <sp xml:id="II02-14" who="thisbe">
+            <l n="523" xml:id="l523">Craignez plutôt, Seigneur, suivant de tels refus,</l>
+            <l n="524" xml:id="l524">Que Pirame à son tour ne veüille estre Belus :</l>
+            <l n="525" xml:id="l525">Mais quoy ? le verriez-vous regner en vostre place ?</l>
+            <l n="526" xml:id="l526">Ah ! Seigneur, détournez ce coup qui vous menace,</l>
+            <l n="527" xml:id="l527">Prévenez d’Amestris les desseins dangereux,</l>
+            <l n="528" xml:id="l528">N'enviez point le sort d’un Amant malheureux,</l>
+            <l n="529" xml:id="l529">Seigneur, il m’est fidelle, &amp; tout me le fait croire :</l>
+            <l n="530" xml:id="l530">Pour vous, vostre grandeur, la raison, vostre <ref target="#gloire">gloire*</ref>,</l>
+            <l n="531" xml:id="l531">L'<ref target="#eclat1">éclat*</ref> de vostre <ref target="#sang">sang*</ref>, celuy de vos vertus,</l>
+            <l n="532" xml:id="l532">Seigneur, tout cela veut que vous soyez Belus.</l>
+            <l n="533" xml:id="l533" part="I">Vostre parole mesme…</l>
+          </sp>
+          <sp xml:id="II02-15" who="belus">
+            <l part="F">Et c’est ce qui m’accable.</l>
+            <l n="534" xml:id="l534">J'ay donné ma parole, elle est inviolable ;</l>
+            <l n="535" xml:id="l535">Quoy qu’il m’en coûte, helas ! il faut garder ma <ref target="#foy">foy*</ref>,</l>
+            <l n="536" xml:id="l536">Il faut en vous aimant, estre maître de moy.</l>
+            <l n="537" xml:id="l537">Je le seray, Madame ; &amp; si mon cœur soûpire,</l>
+            <l n="538" xml:id="l538">Je sçauray le forcer à ne m’en pas dédire :</l>
+            <l n="539" xml:id="l539">Si Pirame est fidelle, il sera vostre Epoux,</l>
+            <l n="540" xml:id="l540">Contre moy vous voyez ce que je fais pour vous.</l>
+            <l n="541" xml:id="l541">Je me rens donc au Trône, &amp; vous rens à Pirame :</l>
+            <l n="542" xml:id="l542">Mais pour le conserver, &amp; combattre ma <ref target="#flame1">flâme*</ref>,</l>
+            <l n="543" xml:id="l543">Je dois vous éviter, car lors que je vous voy</l>
+            <l n="544" xml:id="l544">Il ne me souvient plus d’une si dure Loy.</l>
+            <l n="545" xml:id="l545" part="I">Adieu, Madame.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II03">
+          <sp xml:id="II03-1" who="thisbe">
+            <l part="F">He bien, que m’a-t-il fait entendre ?<pb n="24" xml:id="p24"/></l>
+            <l n="546" xml:id="l546">Je m’en estois doutée, &amp; tu viens de l’aprendre.</l>
+            <l n="547" xml:id="l547">Tu disois que les Dieux n’estoient plus contre nous,</l>
+            <l n="548" xml:id="l548">Que nous avions fléchy leur haine &amp; leur couroux ;</l>
+            <l n="549" xml:id="l549">Mais nous y succombons, &amp; l’amour de la Reine,</l>
+            <l n="550" xml:id="l550">Et l’amour de Belus, sont des traits de leur haine ;</l>
+            <l n="551" xml:id="l551">La Reine est ma Rivale, &amp; par un coup <ref target="#fatal">fatal*</ref></l>
+            <l n="552" xml:id="l552">Belus est de Pirame un dangereux Rival ;</l>
+            <l n="553" xml:id="l553">La Reine aime Pirame, &amp; me perdra peut-estre ;</l>
+            <l n="554" xml:id="l554">Belus de mon Amant peut devenir le Maître.</l>
+            <l n="555" xml:id="l555" part="I">Si Pirame sçavoit nos malheurs…</l>
+          </sp>
+          <sp xml:id="II03-2" who="ismene">
+            <l part="F">Le voicy.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II04">
+          <sp xml:id="II04-1" who="pirame">
+            <l n="556" xml:id="l556">Je viens de rencontrer Belus sortant d’icy,<pb n="25, C" xml:id="p25"/></l>
+            <l n="557" xml:id="l557">Madame ; Il m’a paru dans un désordre extréme,</l>
+            <l n="558" xml:id="l558">Il marchoit en <ref target="#rever">révant*</ref>, il n’estoit plus luy-mesme.</l>
+            <l n="559" xml:id="l559">Le regard incertain, le visage égaré,</l>
+            <l n="560" xml:id="l560">Il passoit, par respect je me suis retiré :</l>
+            <l n="561" xml:id="l561">Mon <ref target="#abord">abord*</ref> l’a surpris, j’ay veu son ame émeuë,</l>
+            <l n="562" xml:id="l562">Il a mesme changé de couleur à ma veuë,</l>
+            <l n="563" xml:id="l563">Et contre sa coûtume évitant mon <ref target="#abord">abord*</ref>…</l>
+          </sp>
+          <sp xml:id="II04-2" who="thisbe">
+            <l n="564" xml:id="l564" part="I">Ah Seigneur.</l>
+          </sp>
+          <sp xml:id="II04-3" who="pirame">
+            <l part="F">Ah Madame, aprenez-moy mon sort.</l>
+            <l n="565" xml:id="l565">Vous soûpirez ! Pourquoy ces soûpirs ? Ce silence</l>
+            <l n="566" xml:id="l566" part="I">Que veut-il dire ?</l>
+          </sp>
+          <sp xml:id="II04-4" who="thisbe">
+            <l part="F">Helas ! il dit plus qu’on ne pense.</l>
+          </sp>
+          <sp xml:id="II04-5" who="pirame">
+            <l n="567" xml:id="l567">Seroit- ce que Belus, jaloux de mon bonheur,</l>
+            <l n="568" xml:id="l568" part="I">Vous aimeroit, Madame ?</l>
+          </sp>
+          <sp xml:id="II04-6" who="thisbe">
+            <l part="F">Il me l’a dit, Seigneur.</l>
+          </sp>
+          <sp xml:id="II04-7" who="pirame">
+            <l n="569" xml:id="l569">Il vous aime, Madame ! Ah quel amour funeste !</l>
+          </sp>
+          <sp xml:id="II04-8" who="thisbe">
+            <l n="570" xml:id="l570">Ne vous allarmez point, mais écoutez le reste.</l>
+            <l n="571" xml:id="l571">Seigneur, il m’a promis, en faveur de nos <ref target="#feu1">feux*</ref>,<pb n="26" xml:id="p26"/></l>
+            <l n="572" xml:id="l572" part="I">De vaincre son amour.</l>
+          </sp>
+          <sp xml:id="II04-9" who="pirame">
+            <l part="F">Que je suis malheureux !</l>
+          </sp>
+          <sp xml:id="II04-10" who="thisbe">
+            <l n="573" xml:id="l573" part="I">Belus est <ref target="#genereux">genéreux*</ref>…</l>
+          </sp>
+          <sp xml:id="II04-11" who="pirame">
+            <l part="F">Ah que je suis à plaindre !</l>
+            <l n="574" xml:id="l574">Ce Rival <ref target="#genereux">genéreux*</ref> est d’autant plus à craindre,</l>
+            <l n="575" xml:id="l575">Et sous ce faux <ref target="#eclat2">éclat*</ref> de <ref target="#generosite">genérosité*</ref>…</l>
+            <l n="576" xml:id="l576">Mais pardonnez, Madame, à ma crédulité ;</l>
+            <l n="577" xml:id="l577">Belus a le cœur grand, son ame est noble &amp; belle ;</l>
+            <l n="578" xml:id="l578">Mais un Prince accomply peut faire une Infidelle.</l>
+            <l n="579" xml:id="l579">Quoy qu’il vous ait promis, le poura-t-il tenir ?</l>
+            <l n="580" xml:id="l580">D'une telle promesse on perd le souvenir :</l>
+            <l n="581" xml:id="l581">Et si j’avois promis d’étoufer ma <ref target="#tendresse">tendresse*</ref>,</l>
+            <l n="582" xml:id="l582">Je tiendrois mal, Madame, une telle promesse.</l>
+          </sp>
+          <sp xml:id="II04-12" who="thisbe">
+            <l n="583" xml:id="l583">Craindre Belus, Ingrat…Je me trompe, Seigneur ;</l>
+            <l n="584" xml:id="l584">Oüy, vous avez raison de douter de mon cœur :</l>
+            <l n="585" xml:id="l585">Mais enfin un scrupule à mon tour m’<ref target="#inquieter">inquiete*</ref>.</l>
+            <l n="586" xml:id="l586">Sçavez-vous les soupçons où la Reine me jette ?</l>
+            <l n="587" xml:id="l587">Sa froideur avec moy, ses regards envieux ?</l>
+            <l n="588" xml:id="l588">On diroit pour vous voir, qu’elle emprunte mes yeux.</l>
+            <l n="589" xml:id="l589">Une Reine, Seigneur, peut faire un Infidelle.</l>
+          </sp>
+          <sp xml:id="II04-13" who="pirame">
+            <l n="590" xml:id="l590">La seule idée, ah Dieux ! en est trop criminelle.</l>
+          </sp>
+          <sp xml:id="II04-14" who="thisbe">
+            <l n="591" xml:id="l591">Si le rang de Belus a pour moy des appas,</l>
+            <l n="592" xml:id="l592">Seigneur, pour vous la Reyne en auroit-elle pas ?</l>
+            <l n="593" xml:id="l593">Vous l’avez craint pour moy, je crains pour vous de mesme ;</l>
+            <l n="594" xml:id="l594">Sa grandeur m’ébloüit, sa puissance est extréme,</l>
+            <l n="595" xml:id="l595">En vain je veux fermer les yeux sur tant d’<ref target="#eclat1">éclat*</ref>,<pb n="27, Cij" xml:id="p27"/></l>
+            <l n="596" xml:id="l596">Je puis vous voir un jour Maître de cet Estat.</l>
+            <l n="597" xml:id="l597">Ah ! j’en frémis, Seigneur . &amp; quand je considere</l>
+            <l n="598" xml:id="l598">Que la Reine peut tout, qu’Arsace est vostre Pere,</l>
+            <l n="599" xml:id="l599">Elle pouroit, Seigneur, vous prendre pour Epoux ;</l>
+            <l n="600" xml:id="l600">Et moy, dans mes malheurs je ne puis rien pour vous.</l>
+          </sp>
+          <sp xml:id="II04-15" who="pirame">
+            <l n="601" xml:id="l601">Madame, à ce discours faut-il que je réponde ?</l>
+            <l n="602" xml:id="l602">Je vous sacrifirois tous les Trônes du Monde…</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II05">
+          <sp xml:id="II05-1" who="arsace">
+            <l n="603" xml:id="l603">Quoy, jusques à mes yeux l’on me desobéït,</l>
+            <l n="604" xml:id="l604">Fils ingrat ? &amp; ton cœur sans cesse te trahit ?</l>
+            <l n="605" xml:id="l605">Toûjours d’intelligence avec une Ennemie…</l>
+          </sp>
+          <sp xml:id="II05-2" who="thisbe">
+            <l n="606" xml:id="l606">Ah Seigneur, permettez que je le justifie ;</l>
+            <l n="607" xml:id="l607">Accusez-en plutôt un destin malheureux,</l>
+            <l n="608" xml:id="l608">Qui malgré vous &amp; nous, nous entraisne tous deux :</l>
+            <l n="609" xml:id="l609">Mais du moins cet amour toûjours dans l’innocence…</l>
+          </sp>
+          <sp xml:id="II05-3" who="arsace">
+            <l n="610" xml:id="l610">Madame, cet amour est contre ma défense,</l>
+            <l n="611" xml:id="l611">Il suffit ; contre moy vous revoltez mon Fils,</l>
+            <l n="612" xml:id="l612">Et rendez mes desseins &amp; mes desirs trahis ;</l>
+            <l n="613" xml:id="l613">Enfin vostre beauté rallume ma colere,</l>
+            <l n="614" xml:id="l614">Elle seule arme icy le Fils contre le Pere,</l>
+            <l n="615" xml:id="l615">Je ne puis plus soufrir son <ref target="#eclat1">éclat*</ref> <ref target="#odieux">odieux*</ref>,</l>
+            <l n="616" xml:id="l616">Et son crime, Madame, est celuy de vos yeux.</l>
+          </sp>
+          <sp xml:id="II05-4" who="thisbe">
+            <l n="617" xml:id="l617">Ah ! si mes tristes yeux, Seigneur, ont fait son crime,<pb n="28" xml:id="p28"/></l>
+            <l n="618" xml:id="l618">Il faut vous en vanger, voila vostre victime ;</l>
+            <l n="619" xml:id="l619">Et dans ma mort, Seigneur, remplissant vos souhaits,</l>
+            <l n="620" xml:id="l620">Il faudra les fermer, &amp; fermer pour jamais.</l>
+            <l n="621" xml:id="l621">Que ne me laissoit-on à l’exil condamnée,</l>
+            <l n="622" xml:id="l622">Couler dans les douleurs ma triste destinée ?</l>
+            <l n="623" xml:id="l623">Mais la Reine à la Cour ne m’a fait revenir,</l>
+            <l n="624" xml:id="l624">Que pour mieux vous vanger, &amp; pour mieux me punir :</l>
+            <l n="625" xml:id="l625">Ainsi vostre vangeance a pour vous plus de <ref target="#charme">charmes*</ref>,</l>
+            <l n="626" xml:id="l626">Vous voyez de plus pres mes soûpirs &amp; mes larmes ;</l>
+            <l n="627" xml:id="l627">De ce que j’aime helas ! on me fait aprocher,</l>
+            <l n="628" xml:id="l628">Et cependant ce n’est que pour m’en arracher.</l>
+            <l n="629" xml:id="l629">Ah Dieux ! peut-on plus loin pousser la Barbarie ?</l>
+            <l n="630" xml:id="l630">Et n’est-ce pas assez qu’il m’en coûte la vie ?</l>
+            <l n="631" xml:id="l631">Je la perdray bientôt, vous serez satisfait ;</l>
+            <l n="632" xml:id="l632">Je m’en vay reparer le crime que j’ay fait,</l>
+            <l n="633" xml:id="l633">Ma presence vous <ref target="#gesner">gesne*</ref>, &amp; ses pleurs vous aigrissent.</l>
+            <l n="634" xml:id="l634">Finissez mes malheurs, il est temps qu’ils finissent ;</l>
+            <l n="635" xml:id="l635">Je partiray, Seigneur, pour terminer mon sort,</l>
+            <l n="636" xml:id="l636">Et j’attens de la Reine, ou l’exil, ou la mort.</l>
+          </sp>
+          <sp xml:id="II05-5" who="pirame">
+            <l n="637" xml:id="l637">Helas ! si pour un Fils quelque pitié vous reste,</l>
+            <l n="638" xml:id="l638">Détournez, arrestez un dessein si funeste ;</l>
+            <l n="639" xml:id="l639">Perdez plutôt, Seigneur, ce Fils infortuné,</l>
+            <l n="640" xml:id="l640">Puis qu’à tant de malheurs vous l’avez destiné :</l>
+            <l n="641" xml:id="l641">Que vostre haine acheve un si funeste ouvrage,</l>
+            <l n="642" xml:id="l642">De Thisbé dans mon cœur ensanglantez l’image,</l>
+            <l n="643" xml:id="l643">Elle y vit, elle y regne, elle y joignit le sien,</l>
+            <l n="644" xml:id="l644">Et pour percer son cœur, il faut percer le mien.</l>
+          </sp>
+          <sp xml:id="II05-6" who="arsace">
+            <l n="645" xml:id="l645">Je ne demande point ce sanglant sacrifice,</l>
+            <l n="646" xml:id="l646">Je veux que dans ton cœur cette image périsse :</l>
+            <l n="647" xml:id="l647">Mais si la <ref target="#gloire">gloire*</ref> enfin te rendoit tout à toy,<pb n="29, Ciij" xml:id="p29"/></l>
+            <l n="648" xml:id="l648">De Prince né Sujet, tu pourois estre Roy.</l>
+          </sp>
+          <sp xml:id="II05-7" who="pirame">
+            <l n="649" xml:id="l649" part="I">Moy, Seigneur ?</l>
+          </sp>
+          <sp xml:id="II05-8" who="arsace">
+            <l part="F">Ah mon Fils, si tu voulois me croire,</l>
+            <l n="650" xml:id="l650">Ou si jamais ton cœur soûpira pour la <ref target="#gloire">gloire*</ref>,</l>
+            <l n="651" xml:id="l651">Tu dois jusques au Trône élever tes desirs :</l>
+            <l n="652" xml:id="l652">La Reine t’aime, il faut répondre à ses soûpirs,</l>
+            <l n="653" xml:id="l653" part="I">Il faut…</l>
+          </sp>
+          <sp xml:id="II05-9" who="pirame">
+            <l part="F">Qui moy ? Seigneur, je croirois que la Reine…</l>
+          </sp>
+          <sp xml:id="II05-10" who="arsace">
+            <l n="654" xml:id="l654">Tu ne mériterois, Fils ingrat, que sa haine ;</l>
+            <l n="655" xml:id="l655">Mais il faut que ton cœur, par un juste retour,</l>
+            <l n="656" xml:id="l656">L'adorant aujourd’huy, mérite son amour.</l>
+          </sp>
+          <sp xml:id="II05-11" who="pirame">
+            <l n="657" xml:id="l657">Ah ! Seigneur, ce dessein seroit-il legitime ?</l>
+            <l n="658" xml:id="l658">Un Trône est <ref target="#odieux">odieux*</ref>, acheté par un crime ;</l>
+            <l n="659" xml:id="l659">Et l’on ne doit jamais monter à ce haut rang,</l>
+            <l n="660" xml:id="l660">Que par l’ordre des Loix, ou les degrez du <ref target="#sang">sang*</ref>.</l>
+            <l n="661" xml:id="l661">Il faut, Seigneur, il faut que Belus le possede ;</l>
+            <l n="662" xml:id="l662">Les Dieux, le <ref target="#sang">sang*</ref>, les Loix, veulent que tout luy cede :</l>
+            <l n="663" xml:id="l663">La chûte en est à craindre à qui veut y monter,</l>
+            <l n="664" xml:id="l664">Et c’est un crime enfin de l’oser attenter.</l>
+          </sp>
+          <sp xml:id="II05-12" who="arsace">
+            <l n="665" xml:id="l665">Le crime est beau, qui met en nos mains le Tonnerre,</l>
+            <l n="666" xml:id="l666">Et qui range à nos pieds le reste de la Terre.</l>
+          </sp>
+          <sp xml:id="II05-13" who="pirame">
+            <l n="667" xml:id="l667">Mais, Seigneur, le péril où vous vous exposez,</l>
+            <l n="668" xml:id="l668">Me fait déja trembler pour vous, si vous l’osez.</l>
+          </sp>
+          <sp xml:id="II05-14" who="arsace">
+            <l n="669" xml:id="l669">Esclave malheureux d’une <ref target="#tendresse">tendresse*</ref> vaine,</l>
+            <l n="670" xml:id="l670">Tu ne fais que gémir sous le poids de ta chaîne ;</l>
+            <l n="671" xml:id="l671">Je voy trop que ton cœur n’y veut pas consentir,<pb n="30" xml:id="p30"/></l>
+            <l n="672" xml:id="l672">Crains donc pour ta Thisbé, crains de t’en repentir,</l>
+            <l n="673" xml:id="l673">Puis que ton lâche cœur, de peur d’estre infidelle,</l>
+            <l n="674" xml:id="l674">Sçait refuser un Trône où la <ref target="#gloire">gloire*</ref> t’apelle.</l>
+            <l n="675" xml:id="l675">Je connois ton sensible &amp; ton endroit <ref target="#fatal">fatal*</ref>,</l>
+            <l n="676" xml:id="l676">Je te feray trembler pour le <ref target="#sang">sang*</ref> de Narbal ;</l>
+            <l n="677" xml:id="l677">Crains un Pere irrité, crains une auguste Reine,</l>
+            <l n="678" xml:id="l678">Qui poura sur Thisbé faire éclater sa haine.</l>
+            <l n="679" xml:id="l679" part="I">Je te laisse y songer.</l>
+          </sp>
+          <sp xml:id="II05-15" who="pirame">
+            <l part="F">Quel projet plein d’horreur !</l>
+            <l n="680" xml:id="l680">Il perdra ma Princesse, ah Dieux ! Quelle fureur ?</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II06">
+          <sp xml:id="II06-1" who="pirame">
+            <l n="681" xml:id="l681">Ah ! cher Licas, aprens une triste nouvelle.</l>
+          </sp>
+          <sp xml:id="II06-2" who="licas">
+            <l n="682" xml:id="l682">J'en ay tremblé pour vous, aussi-bien que pour elle ;</l>
+            <l n="683" xml:id="l683">Il menace Thisbé, vous vous estes perdu :</l>
+            <l n="684" xml:id="l684">Oüy, Seigneur, je sçais tout, &amp; j’ay tout entendu,</l>
+            <l n="685" xml:id="l685">Il m’en a fait luy-mesme entiere confidence :</l>
+            <l n="686" xml:id="l686">Mais ayant eu l’honneur d’élever vostre enfance,</l>
+            <l n="687" xml:id="l687">Je dois vous avertir que son ambition</l>
+            <l n="688" xml:id="l688">Veut servir d’Amestris l’injuste passion.</l>
+            <l n="689" xml:id="l689">Si le projet est grand, le péril est extréme ;</l>
+            <l n="690" xml:id="l690">Il va vous exposer, &amp; s’exposer luy-mesme ;</l>
+            <l n="691" xml:id="l691">Belus est adoré du Peuple &amp; des Soldats.</l>
+            <l n="692" xml:id="l692">Vous verrez contre vous armer cent mille Bras.</l>
+          </sp>
+          <sp xml:id="II06-3" who="pirame">
+            <l n="693" xml:id="l693">Licas, penetres-tu, dans l’horreur qui m’accable,<pb n="31, Ciiij" xml:id="p31"/></l>
+            <l n="694" xml:id="l694">Tout ce que nous prepare un Destin implacable ?</l>
+            <l n="695" xml:id="l695">De ma Princesse helas ! j’ai hasté le retour ;</l>
+            <l n="696" xml:id="l696">Et je voy contre nous la Nature, l’Amour,</l>
+            <l n="697" xml:id="l697">Une Reine, son Fils, mon Pere, ma <ref target="#tendresse">tendresse*</ref>,</l>
+            <l n="698" xml:id="l698">Tout conspire en ce jour pour perdre ma Princesse ;</l>
+            <l n="699" xml:id="l699">Mon amour l’assassine, &amp; l’amour d’Amestris</l>
+            <l n="700" xml:id="l700">Me rend le plus <ref target="#mortel2">mortel*</ref> de tous ses Ennemis.</l>
+            <l n="701" xml:id="l701">Dans cet afreux état que faire ? que résoudre ?</l>
+            <l n="702" xml:id="l702">Le temps presse, on menace, on va lancer la foudre,</l>
+            <l n="703" xml:id="l703">Il la faut écarter…Le Ciel en ce moment</l>
+            <l n="704" xml:id="l704">M'inspire un artifice…Ah ! malheureux Amant !</l>
+            <l n="705" xml:id="l705">Tu vas trahir tes vœux, ton amour, &amp; ta haine :</l>
+            <l n="706" xml:id="l706">Mais il faut arrester &amp; mon Pere, &amp; la Reine ;</l>
+            <l n="707" xml:id="l707">Partons, sans diférer, viens, suy-moy, cher Licas ;</l>
+            <l n="708" xml:id="l708">Au nom des Dieux, sers-moy, ne m’abandonne pas.</l>
+            <p rend="center">Fin du Second Acte.</p>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="III" type="act">
+        <div type="scene" xml:id="III01">
+          <sp xml:id="III01-1" who="arsace">
+            <l n="709" xml:id="l709">Son retour me surprend ; mais tu sçais sa <ref target="#tendresse">tendresse*</ref>,<pb n="32" xml:id="p32"/></l>
+            <l n="710" xml:id="l710">Son Billet n’est qu’un jeu, son discours qu’une adresse.</l>
+            <l n="711" xml:id="l711">Licas, mon Fils t’abuse, &amp; nous trompe tous deux ;</l>
+            <l n="712" xml:id="l712">Il n’auroit pû si-tôt éteindre tant de <ref target="#feu1">feux*</ref>.</l>
+            <l n="713" xml:id="l713">Aprens donc que s’il parle à present à la Reine,</l>
+            <l n="714" xml:id="l714">Ayant craint pour Thisbé quelque <ref target="#eclat2">éclat*</ref> de sa haine,</l>
+            <l n="715" xml:id="l715">Il l’ébloüit, l’amuse, &amp; parce qu’il la craint,</l>
+            <l n="716" xml:id="l716">Il luy feint un amour dont il n’est pas atteint.</l>
+          </sp>
+          <sp xml:id="III01-2" who="licas">
+            <l n="717" xml:id="l717">Pourquoy feindre, Seigneur, &amp; pourquoy ne pas croire</l>
+            <l n="718" xml:id="l718">Que le desir d’un Trône, ou celuy de la <ref target="#gloire">gloire*</ref>,</l>
+            <l n="719" xml:id="l719">N'ait pû <ref target="#charmer">charmer*</ref> son cœur par un juste retour ?</l>
+            <l n="720" xml:id="l720">La <ref target="#gloire">gloire*</ref> a ses momens, aussi-bien que l’amour.</l>
+          </sp>
+          <sp xml:id="III01-3" who="arsace">
+            <l n="721" xml:id="l721">Quand d’un objet <ref target="#charmant">charmant*</ref> une ame est possedée,<pb n="33" xml:id="p33"/></l>
+            <l n="722" xml:id="l722">Elle immole sa <ref target="#gloire">gloire*</ref> à cette folle idée ;</l>
+            <l n="723" xml:id="l723">Et si l’ambition parle au cœur d’un Amant,</l>
+            <l n="724" xml:id="l724">La <ref target="#gloire">gloire*</ref> en ces momens n’a jamais qu’un moment.</l>
+            <l n="725" xml:id="l725">Mais que ce soit amour, ambition, ou crainte,</l>
+            <l n="726" xml:id="l726">Il n’importe, Licas, je me sers de sa feinte,</l>
+            <l n="727" xml:id="l727">Et tu vois de quel poids elle est à mon projet :</l>
+            <l n="728" xml:id="l728">Car enfin soit qu’il feigne, ou qu’il aime en effet,</l>
+            <l n="729" xml:id="l729">Je vais exagerer sa <ref target="#flame1">flâme*</ref> &amp; sa <ref target="#tendresse">tendresse*</ref>,</l>
+            <l n="730" xml:id="l730">Achever d’entraîner la Reine avecque adresse,</l>
+            <l n="731" xml:id="l731">Et pour cette nuit mesme accomplir mes desseins.</l>
+            <l n="732" xml:id="l732">Je sçauray la presser de nous donner les <ref target="#mains">mains*</ref>,</l>
+            <l n="733" xml:id="l733">Qu'elle parle ? Je suis Maître de Babylone ;</l>
+            <l n="734" xml:id="l734">Encore un mot, Licas, &amp; mon Fils est au Trône ;</l>
+            <l n="735" xml:id="l735">Tous nos Amis sont prests, Hircus m’a tout promis,</l>
+            <l n="736" xml:id="l736">J'ay remis dans ses mains le Billet de mon Fils ;</l>
+            <l n="737" xml:id="l737">Pour la Reine il doutoit de l’amour de Pirame ;</l>
+            <l n="738" xml:id="l738">Mais il m’a demandé ce gage de sa <ref target="#flame1">flâme*</ref>,</l>
+            <l n="739" xml:id="l739">Pour rassurer l’esprit de tous nos Factieux.</l>
+            <l n="740" xml:id="l740">Je dois perdre Belus ; ce Prince ambitieux</l>
+            <l n="741" xml:id="l741">Sans <ref target="#doute">doute*</ref> me perdroit, s’il devenoit mon Maître ;</l>
+            <l n="742" xml:id="l742">Il faut l’en empescher ; &amp; la Reine peut-estre,</l>
+            <l n="743" xml:id="l743">Possedant un Amant dont son cœur est épris,</l>
+            <l n="744" xml:id="l744">Sçaura se consoler de la perte d’un Fils.</l>
+            <l n="745" xml:id="l745">Déja l’Amour chez elle en a fait sa victime ;</l>
+            <l n="746" xml:id="l746">Pour mon Fils la Nature achèvera le crime.</l>
+            <l n="747" xml:id="l747">A nostre seûreté dois-je le refuser ?</l>
+            <l n="748" xml:id="l748">Un Homme comme moy, Licas, peut tout oser ;</l>
+            <l n="749" xml:id="l749">Amestris craint Belus, elle le hait dans l’ame.</l>
+            <l n="750" xml:id="l750">Mais la voicy, sçachons le succés de Pirame,</l>
+            <l n="751" xml:id="l751" part="I">Je sçauray si…</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III02">
+          <sp xml:id="III02-1" who="amestris">
+            <l part="F">J'ay veu le Prince vostre Fils ;<pb n="34" xml:id="p34"/></l>
+            <l n="752" xml:id="l752">A vos ordres, Arsace, il m’a paru soûmïs :</l>
+            <l n="753" xml:id="l753">Il m’a dit que son cœur brûloit d’<ref target="#impatience">impatience*</ref></l>
+            <l n="754" xml:id="l754">De marquer son respect &amp; son obéïssance ;</l>
+            <l n="755" xml:id="l755">Et que si quelque ardeur avoit sçeu le trahir,</l>
+            <l n="756" xml:id="l756">Qu'il adoroit la <ref target="#gloire">gloire*</ref>, &amp; sçauroit obéïr.</l>
+            <l n="757" xml:id="l757">Le changement est grand, &amp; j’auray peine à croire…</l>
+          </sp>
+          <sp xml:id="III02-2" who="arsace">
+            <l n="758" xml:id="l758">Madame, vous aimer, c’est courir à la <ref target="#gloire">gloire*</ref> :</l>
+            <l n="759" xml:id="l759">Oüy, bien qu’il ait paru sensible à d’autres <ref target="#feu1">feux*</ref>,</l>
+            <l n="760" xml:id="l760">Vous estes Reine, <ref target="#aimable">aimable*</ref>, &amp; mon Fils a des yeux ;</l>
+            <l n="761" xml:id="l761">Tantôt devant Licas il m’a fait voir son ame,</l>
+            <l n="762" xml:id="l762">Son respect le fit taire, il étoufa sa <ref target="#flame1">flâme*</ref> ;</l>
+            <l n="763" xml:id="l763">Mais pour toucher un cœur qu’on adore en tremblant,</l>
+            <l n="764" xml:id="l764">Pour une autre on peut feindre un amour éclatant.</l>
+            <l n="765" xml:id="l765">Quand on voit à ses yeux une Rivale aimée,</l>
+            <l n="766" xml:id="l766">D'abord par jalousie une ame est enflamée,</l>
+            <l n="767" xml:id="l767">Se pique du desir d’estre aimée à son tour,</l>
+            <l n="768" xml:id="l768">Et ce desir la presse &amp; l’entraîne à l’amour.</l>
+            <l n="769" xml:id="l769">Oüy, ce fust l’artifice innocent de Pirame,</l>
+            <l n="770" xml:id="l770">Il parloit pour Thisbé, brûlant pour vous, Madame,</l>
+            <l n="771" xml:id="l771">Et ses empressemens, ses soûpirs, son <ref target="#ardeur">ardeur*</ref>,</l>
+            <l n="772" xml:id="l772">Tout enfin ne tendoit qu’à toucher vostre cœur.</l>
+          </sp>
+          <sp xml:id="III02-3" who="amestris">
+            <l n="773" xml:id="l773">Peut-estre que le Trône a sçeu <ref target="#charmer">charmer*</ref> son ame ;<pb n="35" xml:id="p35"/></l>
+            <l n="774" xml:id="l774">C'est par là qu’il me doit son amour &amp; sa <ref target="#flame1">flâme*</ref>.</l>
+            <l n="775" xml:id="l775">Je pouray l’y placer ; &amp; s’il a de bons yeux,</l>
+            <l n="776" xml:id="l776">S'il vous ressemble, Arsace, il est ambitieux :</l>
+            <l n="777" xml:id="l777">D'ailleurs j’ay des raisons de craindre une <ref target="#surprise2">surprise*</ref>,</l>
+            <l n="778" xml:id="l778">Du Peuple &amp; de Belus je crains quelque entreprise* ;</l>
+            <l n="779" xml:id="l779">Il faut les prévenir, &amp; suivant mon avis,</l>
+            <l n="780" xml:id="l780"><ref target="#surprendre">Surprendre*</ref> en mesme temps Babylone &amp; mon Fils :</l>
+            <l n="781" xml:id="l781">Puis que mon intérest est icy joint au vostre,</l>
+            <l n="782" xml:id="l782">Assurez-vous de l’une, &amp; je répons de l’autre,</l>
+            <l n="783" xml:id="l783">Pour arrester Belus je vais tout préparer.</l>
+          </sp>
+          <sp xml:id="III02-4" who="arsace">
+            <l n="784" xml:id="l784">Madame, de Belus laissez-moy m’assurer :</l>
+            <l n="785" xml:id="l785">Mais de peur que la Ville en puisse estre allarmée,</l>
+            <l n="786" xml:id="l786">Je vais secretement rejoindre nostre Armée,</l>
+            <l n="787" xml:id="l787">Disposer nos Soldats, &amp; dés qu’il fera nuit,</l>
+            <l n="788" xml:id="l788">Faire couler icy quelques Troupes sans bruit :</l>
+            <l n="789" xml:id="l789">Alors à la faveur de l’ombre &amp; du silence,</l>
+            <l n="790" xml:id="l790">Dans Babylone ayant plus d’une intelligence,</l>
+            <l n="791" xml:id="l791">Je saisis une Porte, &amp; par les soins d’Hircus</l>
+            <l n="792" xml:id="l792">Nous nous rendrons bientôt les Maîtres de Belus :</l>
+            <l n="793" xml:id="l793">Il est Chef de sa garde, Arcas Chef de la vostre,</l>
+            <l n="794" xml:id="l794">Ils pouront dans ce temps se joindre l’un à l’autre.</l>
+            <l n="795" xml:id="l795">A vostre premier ordre Hircus mesme a promis</l>
+            <l n="796" xml:id="l796">D'aller dans le Palais arrester vostre Fils :</l>
+            <l n="797" xml:id="l797">Il cherche à vous parler ; prenons garde, Madame,</l>
+            <l n="798" xml:id="l798">De laisser échaper ce secret de nostre ame.</l>
+            <l n="799" xml:id="l799" part="I">Belus est penétrant…</l>
+          </sp>
+          <sp xml:id="III02-5" who="amestris">
+            <l part="F">Je sçay dissimuler.</l>
+            <l n="800" xml:id="l800">Qu'il vienne, je l’attens, je sçauray luy parler :</l>
+            <l n="801" xml:id="l801">Je crois avoir, Arsace, un peu de prévoyance,</l>
+            <l n="802" xml:id="l802">Ma bouche ne dit pas toûjours ce que je pense,</l>
+            <l n="803" xml:id="l803">Fiez-vous en à moy. Vous, partez de ces lieux ;<pb n="36" xml:id="p36"/></l>
+            <l n="804" xml:id="l804">Pour un si grand projet le temps est précieux.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III03">
+          <sp xml:id="III03-1" who="amestris">
+            <l n="805" xml:id="l805">Hé bien, foible Amestris, t’y voila résoluë ?</l>
+            <l n="806" xml:id="l806">Ta <ref target="#flame1">flâme*</ref> est en ce jour ta maîtresse absoluë ?</l>
+            <l n="807" xml:id="l807">Cependant laisse entendre à ce cœur abatu</l>
+            <l n="808" xml:id="l808">Le murmure innocent d’un reste de vertu.</l>
+            <l n="809" xml:id="l809">Je vois avec regret toute mon injustice,</l>
+            <l n="810" xml:id="l810">Et je suis en aveugle un aveugle caprice.</l>
+            <l n="811" xml:id="l811">Infortuné Belus, ne te plains point de moy,</l>
+            <l n="812" xml:id="l812">La Nature &amp; la <ref target="#gloire">gloire*</ref> ont combatu pour toy,</l>
+            <l n="813" xml:id="l813">Mon cœur en est témoin, &amp; tu pourois l’en croire,</l>
+            <l n="814" xml:id="l814">Plains-toy donc de l’amour qui m’arrache à ma <ref target="#gloire">gloire*</ref>.</l>
+            <l n="815" xml:id="l815">Mais quoy ? tout l’Univers a veu jusqu’à ce jour</l>
+            <l n="816" xml:id="l816">Que j’ay tout fait pour elle, &amp; rien pour mon amour.</l>
+            <l n="817" xml:id="l817">N'ay-je pas augmenté l’<ref target="#eclat1">éclat*</ref> de ma Couronne ?</l>
+            <l n="818" xml:id="l818">Mon nom luy rend-il pas celuy qu’elle me donne ?</l>
+            <l n="819" xml:id="l819">Par ma seule vertu j’ay soûtenu son poids,</l>
+            <l n="820" xml:id="l820">Et le Sceptre me doit plus que je ne luy dois.</l>
+            <l n="821" xml:id="l821">Oüy, pour le conserver, j’en fais part à Pirame…</l>
+            <l n="822" xml:id="l822">Desirs ambitieux, vous parlez pour ma <ref target="#flame1">flâme*</ref>,</l>
+            <l n="823" xml:id="l823">Je vous entens helas ! ambitieux desirs ;</l>
+            <l n="824" xml:id="l824">Pour Pirame il suffit d’entendre mes soûpirs.</l>
+            <l n="825" xml:id="l825">Mes soûpirs ! Dieux ! faut-il qu’un si grand cœur soûpire ?</l>
+            <l n="826" xml:id="l826">Faut-il que tant d’orgueil…Helas ! que vais-je dire ?</l>
+            <l n="827" xml:id="l827">En vain vous me parlez, je ne vous entens plus,</l>
+            <l n="828" xml:id="l828"><ref target="#gloire">Gloire*</ref>, vertu, grandeur…Mais Dieux ! je voy Belus.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III04">
+          <sp xml:id="III04-1" who="belus">
+            <l n="829" xml:id="l829">Je viens icy, Madame, avec quelque contrainte,<pb n="37" xml:id="p37"/></l>
+            <l n="830" xml:id="l830">Vous faire entendre encore une inutile plainte ;</l>
+            <l n="831" xml:id="l831">Toutefois elle est juste, elle est digne d’un Fils</l>
+            <l n="832" xml:id="l832">Qui descend de Ninus &amp; de Sémiramis.</l>
+            <l n="833" xml:id="l833">Je vois avec chagrin l’autorité d’Arsace ;</l>
+            <l n="834" xml:id="l834">En commandant l’Armée, il occupe ma place,</l>
+            <l n="835" xml:id="l835">Madame, &amp; je devrois en marchant sur vos pas,</l>
+            <l n="836" xml:id="l836">Rechercher les périls, pour signaler mon bras :</l>
+            <l n="837" xml:id="l837">Vous m’en avez donné l’exemple, il faut le suivre ;</l>
+            <l n="838" xml:id="l838">Quand on brave la mort, on est digne de vivre.</l>
+            <l n="839" xml:id="l839">J'ay vescu jusqu’icy dans une obscure nuit,</l>
+            <l n="840" xml:id="l840">Il est temps qu’à son tour mon nom fasse du <ref target="#bruit">bruit*</ref>.</l>
+            <l n="841" xml:id="l841">Soufrez-moy d’acquerir un peu de renommée,</l>
+            <l n="842" xml:id="l842">Vous devez dans l’Egipte envoyer vostre Armée,</l>
+            <l n="843" xml:id="l843" part="I">Commandez qu’à la teste…</l>
+          </sp>
+          <sp xml:id="III04-2" who="amestris">
+            <l part="F">Un si grand <ref target="#coeur">cœur*</ref>, mon Fils,</l>
+            <l n="844" xml:id="l844">Est digne de Ninus, &amp; mesme d’Amestris :</l>
+            <l n="845" xml:id="l845">Cette fierté me plaist, mais je suis vostre Mere,</l>
+            <l n="846" xml:id="l846">Je n’ose hazarder une teste si chere.</l>
+            <l n="847" xml:id="l847">Si vostre cœur vous fait demander des combats,</l>
+            <l n="848" xml:id="l848">Il le doit, mais je dois retenir vostre bras ;</l>
+            <l n="849" xml:id="l849">Sur vous seul aujourd’huy tout mon espoir se fonde,</l>
+            <l n="850" xml:id="l850">Je veux vous élever à l’Empire du Monde ;</l>
+            <l n="851" xml:id="l851">Et sans vous exposer à de si rudes coups,<pb n="38" xml:id="p38"/></l>
+            <l n="852" xml:id="l852">Tout l’<ref target="#eclat1">éclat*</ref> de mon nom se répandra sur vous.</l>
+          </sp>
+          <sp xml:id="III04-3" who="belus">
+            <l n="853" xml:id="l853">Madame, c’est avoir un peu trop de tendresse,</l>
+            <l n="854" xml:id="l854">La vostre iroit pour moy jusques à la foiblesse :</l>
+            <l n="855" xml:id="l855">C'est la pousser trop loin. Mais, Madame, entre nous,</l>
+            <l n="856" xml:id="l856">Craindriez-vous d’avoir un Fils digne de vous ?</l>
+            <l n="857" xml:id="l857">Je voy que je seray, si je veux vous en croire,</l>
+            <l n="858" xml:id="l858">De ces Héros de nom qui dérobent leur <ref target="#gloire">gloire*</ref>,</l>
+            <l n="859" xml:id="l859">Et qui de leurs Ayeux en vain enorgueillis,</l>
+            <l n="860" xml:id="l860">Se couvrent de Lauriers qu’ils n’ont jamais cueillis.</l>
+            <l n="861" xml:id="l861">Mais enfin les grands cœurs de leur sort estant maîtres,</l>
+            <l n="862" xml:id="l862">Veulent se devoir tout, &amp; rien à leurs Ancestres.</l>
+            <l n="863" xml:id="l863">Je tiens du grand Belus le nom, avec le jour ;</l>
+            <l n="864" xml:id="l864">Il est mort, &amp; je veux le luy rendre à mon tour :</l>
+            <l n="865" xml:id="l865">Ses hauts faits me traçant le chemin qu’il faut suivre,</l>
+            <l n="866" xml:id="l866">Dans moy je veux le faire <ref target="#eclater">éclater*</ref> &amp; revivre ;</l>
+            <l n="867" xml:id="l867">Et tirant de l’oubly les faits de mes Ayeux,</l>
+            <l n="868" xml:id="l868">Faire parler de moy, pour faire parler d’eux.</l>
+          </sp>
+          <sp xml:id="III04-4" who="amestris">
+            <l n="869" xml:id="l869">Prince, ces sentimens font voir une grande ame,</l>
+            <l n="870" xml:id="l870">Mais ma prudence doit modérer tant de <ref target="#flame2">flâme*</ref>.</l>
+            <l n="871" xml:id="l871">Si je vous exposois, en suivant vos avis,</l>
+            <l n="872" xml:id="l872">Je mériterois peu de vous avoir pour Fils :</l>
+            <l n="873" xml:id="l873">Déjà de l’Assirie on vous nomme l’Arbitre,</l>
+            <l n="874" xml:id="l874">Déjà vous estes Roy, sans en avoir le titre ;</l>
+            <l n="875" xml:id="l875">Et mon bras qui vous sert, &amp; vous couvre d’<ref target="#eclat1">éclat*</ref>,</l>
+            <l n="876" xml:id="l876">N'est que le défenseur &amp; l’apuy de l’Estat.</l>
+            <l n="877" xml:id="l877">Goûtez paisiblement les fruits de sa victoire ;</l>
+            <l n="878" xml:id="l878">Sans courir ses périls, joüissez de sa <ref target="#gloire">gloire*</ref>;</l>
+            <l n="879" xml:id="l879" part="I">Le Peuple vous adore…</l>
+          </sp>
+          <sp xml:id="III04-5" who="belus">
+            <l part="F">Oüy, Madame, je voy</l>
+            <l n="880" xml:id="l880">Que je suis en effet le fantôme d’un Roy,</l>
+            <l n="881" xml:id="l881">Que je traîne une vie &amp; languissante &amp; sombre,<pb n="39" xml:id="p39"/></l>
+            <l n="882" xml:id="l882">Et vous estes le corps dont je ne suis que l’ombre :</l>
+            <l n="883" xml:id="l883">Mais si nous agissions par de justes ressors,</l>
+            <l n="884" xml:id="l884">Vous n’en seriez que l’ombre, &amp; j’en serois le corps.</l>
+          </sp>
+          <sp xml:id="III04-6" who="amestris">
+            <l n="885" xml:id="l885">Je vous entens, Belus, la Puissance supréme</l>
+            <l n="886" xml:id="l886">Vous déplaist en mes mains, vous la voulez vous-méme :</l>
+            <l n="887" xml:id="l887">Mais enfin croyez-moy, mon Fils, aprehendez</l>
+            <l n="888" xml:id="l888">Que vous n’ayez trop tôt ce que vous demandez.</l>
+            <l n="889" xml:id="l889">Quand vous serez rongé des <ref target="#chagrin">chagrins*</ref> politiques,</l>
+            <l n="890" xml:id="l890">Qu'il faudra pour le bien des affaires publiques</l>
+            <l n="891" xml:id="l891">Vous immoler vous-mesme, &amp; ne rien épargner,</l>
+            <l n="892" xml:id="l892">Vous me direz alors s’il est doux de régner.</l>
+            <l n="893" xml:id="l893">Que vous connoissez mal le poids du diadéme !</l>
+            <l n="894" xml:id="l894">Pour estre à tout le monde, on n’est plus à soy-mesme ;</l>
+            <l n="895" xml:id="l895">On se voit ébloüy de son trop de splendeur ;</l>
+            <l n="896" xml:id="l896">On se sent accablé sous sa propre grandeur ;</l>
+            <l n="897" xml:id="l897">Et dans ce rang pompeux, le <ref target="#chagrin">chagrin*</ref> qui nous brave,</l>
+            <l n="898" xml:id="l898">Du Maître de la Terre, en sçait faire l’Esclave.</l>
+            <l n="899" xml:id="l899">Par combien de périls ay-je acheté ce rang ?</l>
+            <l n="900" xml:id="l900">J'ay souvent cimenté le Trône de mon sang ;</l>
+            <l n="901" xml:id="l901">Et nos Chefs sont témoins que plus d’une victoire</l>
+            <l n="902" xml:id="l902">A payé de ce sang tout l’<ref target="#eclat1">éclat*</ref> de ma <ref target="#gloire">gloire*</ref>.</l>
+            <l n="903" xml:id="l903">Icy combien de fois d’un Peuple furieux</l>
+            <l n="904" xml:id="l904">M'a-t-il fallu calmer l’esprit séditieux,</l>
+            <l n="905" xml:id="l905">Desarmer par mes soins &amp; la rage &amp; l’envie,</l>
+            <l n="906" xml:id="l906">Renverser des complots formez contre ma vie,</l>
+            <l n="907" xml:id="l907">Apaiser de l’Estat les troubles intestins,</l>
+            <l n="908" xml:id="l908">Et changer contre moy les Arrests des Destins ?</l>
+            <l n="909" xml:id="l909">Après cela, Belus, ne mettez plus en doute</l>
+            <l n="910" xml:id="l910">La pesanteur du Sceptre, &amp; le prix qu’il me coûte ;</l>
+            <l n="911" xml:id="l911">Croyez qu’heureux sont ceux dont les justes desirs</l>
+            <l n="912" xml:id="l912">Dans leur tranquille vie ont borné leurs plaisirs,</l>
+            <l n="913" xml:id="l913">De qui l’ambition ne devore point l’ame<pb n="40" xml:id="p40"/></l>
+            <l n="914" xml:id="l914" part="I">Qui dans un doux repos…</l>
+          </sp>
+          <sp xml:id="III04-7" who="belus">
+            <l part="F">Hé goustez-le, Madame,</l>
+            <l n="915" xml:id="l915">Ce repos si charmant, ces tranquilles plaisirs,</l>
+            <l n="916" xml:id="l916">Et remplissez en vous de si justes desirs ;</l>
+            <l n="917" xml:id="l917">Il ne tiendra qu’à vous de vous rendre à vous-mesme,</l>
+            <l n="918" xml:id="l918">Soulagez-vous sur moy du poids du Diadéme,</l>
+            <l n="919" xml:id="l919">Et m’en donnant enfin les pénibles emplois,</l>
+            <l n="920" xml:id="l920">Faites suer mon front sous un si noble poids.</l>
+            <l n="921" xml:id="l921">Laissez-moy dévorer aux <ref target="#chagrin">chagrins*</ref> politiques,</l>
+            <l n="922" xml:id="l922">Madame, accablez-moy des affaires publiques,</l>
+            <l n="923" xml:id="l923">Et cessez de gémir sous ces illustres fers,</l>
+            <l n="924" xml:id="l924">Il est temps qu’à mon tour je serve l’Univers :</l>
+            <l n="925" xml:id="l925">Mais helas ! je crains bien que vostre injuste <ref target="#flame1">flâme*</ref></l>
+            <l n="926" xml:id="l926">Ne charge de ces fers le trop heureux…Madame,</l>
+            <l n="927" xml:id="l927">Vous rougissez…Mais quoy ? ne dois-je pas trembler,</l>
+            <l n="928" xml:id="l928">Que quelqu’autre à mes yeux ne s’en laisse accabler ?</l>
+            <l n="929" xml:id="l929" part="I">Que vous ne partagiez avec luy…</l>
+          </sp>
+          <sp xml:id="III04-8" who="amestris">
+            <l part="F">Teméraire ;</l>
+            <l n="930" xml:id="l930">Aprenez à parler, ou plutôt à vous taire ;</l>
+            <l n="931" xml:id="l931">Vostre peu de respect va me faire songer</l>
+            <l n="932" xml:id="l932">Avec qui je pourois un jour les partager.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III05">
+          <sp xml:id="III05-1" who="belus">
+            <l n="933" xml:id="l933">J'avois voulu par là sonder encor son ame ;<pb n="41, D" xml:id="p41"/></l>
+            <l n="934" xml:id="l934">Mais enfin son discours, le Billet de Pirame,</l>
+            <l n="935" xml:id="l935">Tout fait voir leur projet prest à s’exécuter :</l>
+            <l n="936" xml:id="l936">Mais j’ay donné mon ordre, Hircus doit l’arrester,</l>
+            <l n="937" xml:id="l937">Babylone est pour moy, plusieurs Chefs de l’Armée…</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III06">
+          <sp xml:id="III06-1" who="thisbe">
+            <l n="938" xml:id="l938">Je vous cherchois, Seigneur. Que je suis allarmée !</l>
+            <l n="939" xml:id="l939">Un bruit trop bien fondé me fait craindre pour vous</l>
+            <l n="940" xml:id="l940">Que la Reine en effet ne choisisse un Epoux ;</l>
+            <l n="941" xml:id="l941">Vous me l’aviez bien dit, &amp; je le sçais d’Ismene.</l>
+            <l n="942" xml:id="l942">Oüy, Seigneur, elle a veu Pirame chez la Reine,</l>
+            <l n="943" xml:id="l943">Et ce qui fait encor mon plus grand <ref target="#embarras">embarras*</ref>,</l>
+            <l n="944" xml:id="l944">Il en sort, cherche Arsace &amp; ne me cherche pas.</l>
+            <l n="945" xml:id="l945">Quelques momens apres leur secrete entreveuë,</l>
+            <l n="946" xml:id="l946">J'ay veu passer la Reine encore toute émeuë,</l>
+            <l n="947" xml:id="l947">Son visage sembloit s’aplaudir de ses <ref target="#feu2">feux*</ref>,</l>
+            <l n="948" xml:id="l948">Et j’ay veu trop de joye éclater dans ses yeux.</l>
+            <l n="949" xml:id="l949">Il n’en faut point douter, c’est Pirame qu’elle aime ;<pb n="42" xml:id="p42"/></l>
+            <l n="950" xml:id="l950">Elle sort d’avec vous, l’aimeroit-il de mesme ?</l>
+            <l n="951" xml:id="l951">Son air si satisfait, me trouble &amp; me surprend ;</l>
+            <l n="952" xml:id="l952">Quand on n’est point aimée, a-t-on l’air si content ?</l>
+            <l n="953" xml:id="l953" part="I">Ah ! Seigneur, que je crains !</l>
+          </sp>
+          <sp xml:id="III06-2" who="belus">
+            <l part="F">Vous avez lieu de craindre :</l>
+            <l n="954" xml:id="l954">Oüy, Madame, &amp; pour vous le perfide a sçeu feindre ;</l>
+            <l n="955" xml:id="l955">Il adore la Reine, &amp; vous trompe en effet.</l>
+            <l n="956" xml:id="l956">Je vais vous confirmer par son propre Billet,</l>
+            <l n="957" xml:id="l957">Qu'il l’aime, &amp; qu’il est prest de m’enlever le Trône.</l>
+            <l n="958" xml:id="l958">De plus, je sçais qu’on doit <ref target="#surprendre">surprendre*</ref> Babylone ;</l>
+            <l n="959" xml:id="l959">Sans un fidelle Amy nous serions tous perdus :</l>
+            <l n="960" xml:id="l960">Arsace ayant tenté de suborner Hircus,</l>
+            <l n="961" xml:id="l961">Hircus luy promet tout, afin de tout aprendre.</l>
+            <l n="962" xml:id="l962">Arsace s’ouvre à luy, l’oblige d’<ref target="#entreprendre">entreprendre*</ref>,</l>
+            <l n="963" xml:id="l963">L'engage pour la Reine, &amp; luy dit leur secret,</l>
+            <l n="964" xml:id="l964">Luy fait voir de son Fils l’amour &amp; le Billet ;</l>
+            <l n="965" xml:id="l965">Hircus le prend, le lit, semble aprouver leur <ref target="#flame1">flâme*</ref> :</l>
+            <l n="966" xml:id="l966">Mais luy-mesme dans peu doit arrester Pirame,</l>
+            <l n="967" xml:id="l967">Va soûlever le Peuple, &amp; tout faire pour moy,</l>
+            <l n="968" xml:id="l968">Et nous l’empescherons, s’il se peut d’estre Roy.</l>
+            <l n="969" xml:id="l969">Mais voicy le Billet, il l’écrit à son Pere,</l>
+            <l n="970" xml:id="l970" part="I">Lisez-le.</l>
+          </sp>
+          <sp xml:id="III06-3" who="thisbe">
+            <l part="F">J'y <ref target="#connoitre1">connois*</ref> son <ref target="#seing">seing*</ref>, son <ref target="#caractere">caractere*</ref>.</l>
+            <l n="971" xml:id="l971" rend="i">J'ay fait reflexion sur vos bontez, Seigneur,</l>
+            <l n="972" xml:id="l972" rend="i">Je ne dois point aimer l’objet de vostre haine,</l>
+            <l n="973" xml:id="l973" rend="i">Et n’ay que trop veu la grandeur</l>
+            <l n="974" xml:id="l974" rend="i">Et le merite de la Reine :</l>
+            <l n="975" xml:id="l975" rend="i">Le respect m’a fait taire, &amp; m’a mis à la <ref target="#gesne">gesne*</ref> :</l>
+            <l n="976" xml:id="l976">
+              <hi rend="i">J'ay feint, pour mieux sonder vostre cœur &amp; le sien ;</hi>
+              <pb n="43, Dij" xml:id="p43"/>
+            </l>
+            <l n="977" xml:id="l977" rend="i">Je les connois, voyez le mien ;</l>
+            <l n="978" xml:id="l978" rend="i">Et tandis que Licas va vous ouvrir mon ame,</l>
+            <l n="979" xml:id="l979" rend="i">Je vais avec respect luy découvrir ma <ref target="#flame1">flâme*</ref>.</l>
+            <l n="980" xml:id="l980">Cet outrageant Billet seroit-il de sa main ?</l>
+            <l n="981" xml:id="l981">Mais Dieux ! j’en reconnois l’écriture &amp; le <ref target="#seing">seing*</ref> ;</l>
+            <l n="982" xml:id="l982">Oüy c’est sa propre main, c’est sa mesme écriture.</l>
+            <l n="983" xml:id="l983">Justes Dieux ! se peut-il que Pirame parjure…</l>
+          </sp>
+          <sp xml:id="III06-4" who="belus">
+            <l n="984" xml:id="l984">Son Billet en dit trop, vous n’en sçauriez douter,</l>
+            <l n="985" xml:id="l985">Madame, &amp; vous voyez qu’il est prest d’<ref target="#eclater">éclater*</ref>.</l>
+            <l n="986" xml:id="l986">Mais puis que le perfide ose rompre sa chaîne,</l>
+            <l n="987" xml:id="l987">Qu'il feint de vous aimer quand il aime la Reine,</l>
+            <l n="988" xml:id="l988">Que pour m’oster le Trône il vous ravit son cœur,</l>
+            <l n="989" xml:id="l989" part="I">Aimerez-vous toûjours l’infidelle…</l>
+          </sp>
+          <sp xml:id="III06-5" who="thisbe">
+            <l part="F">Ah Seigneur !</l>
+            <l n="990" xml:id="l990">Tout semble le charger d’une tache si noire ;</l>
+            <l n="991" xml:id="l991">Je le voy, mais enfin je ne sçaurois le croire.</l>
+            <l n="992" xml:id="l992">Oüy, si vous l’eussiez veu (funeste souvenir ! )</l>
+            <l n="993" xml:id="l993">Jurer qu’il m’aimeroit jusqu’au dernier soûpir,</l>
+            <l n="994" xml:id="l994">Sentir pour mon amour d’innocentes <ref target="#alarme">allarmes*</ref>,</l>
+            <l n="995" xml:id="l995">Se jetter à mes pieds, les baigner de ses larmes,</l>
+            <l n="996" xml:id="l996">Vous douteriez, Seigneur, du moins autant que moy,</l>
+            <l n="997" xml:id="l997">Qu'apres tant de sermens il me manquât de <ref target="#foy">foy*</ref>.</l>
+            <l n="998" xml:id="l998">Tantôt mesme, tantôt, que m’a-t-il fait entendre,</l>
+            <l n="999" xml:id="l999">Aprenant vostre amour ? Que sa douleur si tendre,</l>
+            <l n="1000" xml:id="l1000">Que ses jaloux <ref target="#transport">transports*</ref> m’ont <ref target="#charmer">charmée*</ref> en ce jour !</l>
+            <l n="1001" xml:id="l1001">Dieux ! est-on si jaloux, quand on feint de l’amour ?</l>
+            <l n="1002" xml:id="l1002">Tant de vœux, de soûpirs, d’<ref target="#alarme">allarmes*</ref>, &amp; de craintes,</l>
+            <l n="1003" xml:id="l1003">Depuis un si long temps, n’estoit-ce que des feintes ?</l>
+            <l n="1004" xml:id="l1004">Eut-il <ref target="#surprendre">surpris*</ref> mon cœur, sans me donner le sien ?<pb n="44" xml:id="p44"/></l>
+            <l n="1005" xml:id="l1005">Et s’il feignit, Seigneur, que l’Ingrat feignit bien !</l>
+          </sp>
+          <sp xml:id="III06-6" who="belus">
+            <l n="1006" xml:id="l1006">Puis que sa trahison vous est indubitable,</l>
+            <l n="1007" xml:id="l1007">Plus vous l’aimez, Madame, &amp; plus il est coupable.</l>
+          </sp>
+          <sp xml:id="III06-7" who="thisbe">
+            <l n="1008" xml:id="l1008">Non, Seigneur, il sentit un amour trop pressant ;</l>
+            <l n="1009" xml:id="l1009">Et si j’en croy mon cœur, Pirame est innocent.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III07">
+          <sp xml:id="III07-1" who="garde">
+            <l n="1010" xml:id="l1010">Babylone, Seigneur, a pour vous pris les armes.</l>
+          </sp>
+          <sp xml:id="III07-2" who="belus">
+            <l n="1011" xml:id="l1011" part="I">Qu'entens-je ?</l>
+          </sp>
+          <sp xml:id="III07-3" who="garde">
+            <l part="F">Que la Reine a tout mis en <ref target="#mettre-alarme">allarmes*</ref> :</l>
+            <l n="1012" xml:id="l1012">Oüy, Seigneur, pour Pirame elle vient d’<ref target="#eclater">éclater*</ref>.</l>
+            <l n="1013" xml:id="l1013">Quand par vostre ordre Hircus est venu l’arrester,</l>
+            <l n="1014" xml:id="l1014">Et qu’en <ref target="#tumulte">tumulte*</ref> au Fort nostre troupe l’entraîne,</l>
+            <l n="1015" xml:id="l1015">Arcas l’a veu, s’est joint aux Gardes de la Reine,</l>
+            <l n="1016" xml:id="l1016">Et pour le dégager, a chargé nos Soldats :</l>
+            <l n="1017" xml:id="l1017">Mais la Reine à ce bruit accourant à grands pas,</l>
+            <l n="1018" xml:id="l1018">A fait voir dans ses yeux le <ref target="#trouble">trouble*</ref> de son ame ;</l>
+            <l n="1019" xml:id="l1019">Et pour servir d’exemple à dégager Pirame,</l>
+            <l n="1020" xml:id="l1020">Elle-mesme s’est mise à la teste des siens.</l>
+          </sp>
+          <sp xml:id="III07-4" who="belus">
+            <l n="1021" xml:id="l1021">Pardonnez, si je sors pour secourir les miens.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III08">
+          <sp xml:id="III08-1" who="thisbe">
+            <l n="1022" xml:id="l1022">Qu'entens-je ? Ah Dieux ! que vois-je ? où suis-je ? je frissonne ;<pb n="45" xml:id="p45"/></l>
+            <l n="1023" xml:id="l1023">Je tremble. Que d’horreurs ! Pirame m’abandonne !</l>
+            <l n="1024" xml:id="l1024">Fiere Amestris, helas ! tu me viens arracher</l>
+            <l n="1025" xml:id="l1025">Par l’<ref target="#eclat1">éclat*</ref> de ton Trône, un cœur qui m’est si cher !</l>
+            <l n="1026" xml:id="l1026">Malheureuse Princesse ! innocente Victime !</l>
+            <l n="1027" xml:id="l1027">Un Perfide t’immole à l’orgueil de son crime ;</l>
+            <l n="1028" xml:id="l1028">Il te sacrifioit le Trône &amp; la Grandeur,</l>
+            <l n="1029" xml:id="l1029">Et cependant l’Ingrat n’immoloit que ton cœur.</l>
+            <l n="1030" xml:id="l1030">Puis qu’il a veu la Reine, &amp; qu’il ne m’a point veuë,</l>
+            <l n="1031" xml:id="l1031">Quel présage ! Je lis un Billet qui me tuë,</l>
+            <l n="1032" xml:id="l1032">Quelle preuve ! On l’arreste ; &amp; pour le dégager,</l>
+            <l n="1033" xml:id="l1033">La Reine, oüy la Reine, <ref target="#eclater">éclate*</ref> en ce danger.</l>
+            <l n="1034" xml:id="l1034" part="I">Quel secours ! De quel bras ce secours ?</l>
+          </sp>
+          <sp xml:id="III08-2" who="ismene">
+            <l part="F">Mais, Madame,</l>
+            <l n="1035" xml:id="l1035">Peut-estre ignorons-nous les desseins de Pirame ;</l>
+            <l n="1036" xml:id="l1036">Et quoy qu’il en arrive, ou puisse reüssir,</l>
+            <l n="1037" xml:id="l1037">Il faudra luy parler pour vous en éclaircir.</l>
+            <l n="1038" xml:id="l1038">Les dehors sont trompeurs, suspendez vos <ref target="#alarme">allarmes*</ref>.</l>
+          </sp>
+          <sp xml:id="III08-3" who="thisbe">
+            <l n="1039" xml:id="l1039">On m’aprend que pour luy la Reine prend les armes,</l>
+            <l n="1040" xml:id="l1040">Se hazarde elle-mesme, &amp; vole à son secours.</l>
+            <l n="1041" xml:id="l1041">Dieux ! pour un Insensible expose-t-on ses jours ?</l>
+            <l n="1042" xml:id="l1042">Puis que tant de <ref target="#tendresse">tendresse*</ref> anime ma Rivale,<pb n="46" xml:id="p46"/></l>
+            <l n="1043" xml:id="l1043">Pirame à son <ref target="#ardeur">ardeur*</ref> montre une <ref target="#ardeur">ardeur*</ref> égale ;</l>
+            <l n="1044" xml:id="l1044">Il n’en faut plus douter, je le voy, c’en est fait ;</l>
+            <l n="1045" xml:id="l1045">Mais pour le confirmer, écoute son Billet.</l>
+            <l n="1046" xml:id="l1046">Je ne dois point aimer l’objet de vostre haine,</l>
+            <l n="1047" xml:id="l1047">Ecrit-il à son Pere : il adore la Reine.</l>
+            <l n="1048" xml:id="l1048">Mais tiens, pren, lis le reste, Ismene, il faut mourir.</l>
+            <l n="1049" xml:id="l1049">Qu'en dis-tu ? qu’en crois-tu ? Pirame me trahir !</l>
+            <l n="1050" xml:id="l1050">J'ay cent fois soûpiré, voyant le <ref target="#caractere">caractere*</ref></l>
+            <l n="1051" xml:id="l1051">Des traits de cette main &amp; si tendre &amp; si chere :</l>
+            <l n="1052" xml:id="l1052">Mais pouvois-tu penser que cette mesme main</l>
+            <l n="1053" xml:id="l1053">Formât un jour des traits pour me percer le sein ?</l>
+            <l n="1054" xml:id="l1054">Verse, verse des pleurs, Princesse infortunée !</l>
+            <l n="1055" xml:id="l1055">Amante trop credule ! Amante abandonnée !</l>
+            <l n="1056" xml:id="l1056">Puis qu’on te sacrifie à la splendeur du rang,</l>
+            <l n="1057" xml:id="l1057">Va noyer ton amour dans des larmes de sang ;</l>
+            <l n="1058" xml:id="l1058">Etoufe cet amour qui t’a servy de guide.</l>
+            <l n="1059" xml:id="l1059">Mais dois-je m’étonner si Pirame est perfide ?</l>
+            <l n="1060" xml:id="l1060">Je me trahis moy-mesme, &amp; mon cœur aujourd’huy</l>
+            <l n="1061" xml:id="l1061">En l’aimant, m’est-il pas plus perfide que luy ?</l>
+            <l n="1062" xml:id="l1062">Dieux ! tandis que je pleure un Amant infidelle,</l>
+            <l n="1063" xml:id="l1063">Je sens qu’à son secours ma <ref target="#tendresse">tendresse*</ref> m’apelle :</l>
+            <l n="1064" xml:id="l1064">Oüy, peut-estre on me vange, &amp; l’on va le punir ;</l>
+            <l n="1065" xml:id="l1065">J'envisage &amp; je crains un funeste avenir.</l>
+            <l n="1066" xml:id="l1066">Peut-estre que Belus en fera sa Victime.</l>
+            <l n="1067" xml:id="l1067">J'aime le Criminel, si j’abhorre le crime.</l>
+            <l n="1068" xml:id="l1068">Sortons, Ismene, allons, car je veux aujourd’huy</l>
+            <l n="1069" xml:id="l1069">Sauver mon Infidelle, ou mourir avec luy.</l>
+            <p rend="center">Fin du Troisiéme Acte.</p>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="IV" type="act">
+        <div type="scene" xml:id="IV01">
+          <sp xml:id="IV01-1" who="thisbe">
+            <l n="1070" xml:id="l1070">De mon triste destin, Ismene, aprens la suite,<pb n="47" xml:id="p47"/></l>
+            <l n="1071" xml:id="l1071">Et le funeste état où mon ame est réduite ;</l>
+            <l n="1072" xml:id="l1072">Mais comme tu n’as pas le mesme desespoir,</l>
+            <l n="1073" xml:id="l1073">Tes yeux n’auront pas veu ce que je viens de voir.</l>
+            <l n="1074" xml:id="l1074">Pourois-tu comme moy t’en retracer l’image ?</l>
+            <l n="1075" xml:id="l1075">Nous sortons de ces lieux : quel combat ! quel carnage !</l>
+            <l n="1076" xml:id="l1076">Je trouve une Forest de Piques &amp; de Dards,</l>
+            <l n="1077" xml:id="l1077">J'aperçois mille Morts voler de toutes parts,</l>
+            <l n="1078" xml:id="l1078">Je les crains pour Pirame, &amp; chaque trait me tuë.</l>
+            <l n="1079" xml:id="l1079">Juge dans cet état d’une Amante éperduë,</l>
+            <l n="1080" xml:id="l1080">Qui voit tant de Soldats tomber en un moment,</l>
+            <l n="1081" xml:id="l1081">Et parmy ces horreurs, qui cherche son Amant.</l>
+            <l n="1082" xml:id="l1082">Malgré la foule enfin je l’aperçois à peine,</l>
+            <l n="1083" xml:id="l1083">Et dans le mesme instant je voy qu’Hircus l’entraine :</l>
+            <l n="1084" xml:id="l1084">Je l’ay suivy, l’ay joint, &amp; l’ay veu dans le Fort ;<pb n="48" xml:id="p48"/></l>
+            <l n="1085" xml:id="l1085">Mais on dit que la Reine a fait un grand <ref target="#effort">effort*</ref>.</l>
+            <l n="1086" xml:id="l1086">Je t’ay fait demeurer, aprens-moi donc le reste.</l>
+          </sp>
+          <sp xml:id="IV01-2" who="ismene">
+            <l n="1087" xml:id="l1087">La valeur de Belus à la Reine funeste,</l>
+            <l n="1088" xml:id="l1088">Par ses <ref target="#effort">efforts*</ref>, Madame, a bientôt enfoncé</l>
+            <l n="1089" xml:id="l1089">Le gros de ses Soldats que son bras a percé :</l>
+            <l n="1090" xml:id="l1090">Aussitôt qu’elle a veu disparoistre Pirame,</l>
+            <l n="1091" xml:id="l1091">Elle a perdu l’espoir de secourir sa <ref target="#flame1">flâme*</ref> ;</l>
+            <l n="1092" xml:id="l1092">Ses Soldats ont plié, mais elle avec fierté</l>
+            <l n="1093" xml:id="l1093">A fait voir jusqu’au bout son intrépidité,</l>
+            <l n="1094" xml:id="l1094">A rallié sa Garde, &amp; perçant dans la Ville,</l>
+            <l n="1095" xml:id="l1095">Elle s’en est rendu l’issuë assez facile.</l>
+            <l n="1096" xml:id="l1096">Arsace l’a reçeuë ; &amp; les siens repoussez</l>
+            <l n="1097" xml:id="l1097">Par le Peuple &amp; Belus, viennent d’estre chassez.</l>
+            <l n="1098" xml:id="l1098">Belus est maître icy…Vous soûpirez, Madame ?</l>
+          </sp>
+          <sp xml:id="IV01-3" who="thisbe">
+            <l n="1099" xml:id="l1099">Helas ! Belus est maître, &amp; maître de Pirame ;</l>
+            <l n="1100" xml:id="l1100">Mon Amant m’est fidelle, il m’a luy-mesme apris</l>
+            <l n="1101" xml:id="l1101">Le secret du Billet qu’Hircus avoit surpris :</l>
+            <l n="1102" xml:id="l1102">Pour abuser son Pere, &amp; prévenir l’<ref target="#atteinte">atteinte*</ref></l>
+            <l n="1103" xml:id="l1103">Des fureurs de la Reine, il a fait cette feinte.</l>
+          </sp>
+          <sp xml:id="IV01-4" who="ismene">
+            <l n="1104" xml:id="l1104">Avez-vous veu Pirame, &amp; vous ont-ils permis…</l>
+          </sp>
+          <sp xml:id="IV01-5" who="thisbe">
+            <l n="1105" xml:id="l1105">J'estois seule, ils n’avoient que mes yeux d’ennemis.</l>
+            <l n="1106" xml:id="l1106">J'ay volé vers le Fort d’une <ref target="#ardeur">ardeur*</ref> insensée,</l>
+            <l n="1107" xml:id="l1107">A travers des Soldats je me suis empressée ;</l>
+            <l n="1108" xml:id="l1108">Pour escorte, n’ayant que mes propres malheurs ;</l>
+            <l n="1109" xml:id="l1109">Pour armes, que mes cris, mes soûpirs, &amp; mes pleurs ;</l>
+            <l n="1110" xml:id="l1110"> (Un reste de pitié pour moy les <ref target="#interesser1">intéresse*</ref>)</l>
+            <l n="1111" xml:id="l1111">Et ces pleurs m’ont ouvert le passage &amp; la presse.</l>
+            <l n="1112" xml:id="l1112">Ils ont eu du respect, me voyant aprocher ;</l>
+            <l n="1113" xml:id="l1113">J'ay couru vers l’Ingrat, j’allois luy reprocher…</l>
+            <l n="1114" xml:id="l1114">Mais helas ! qu’ay-je veu ? que m’a-t-il fait entendre ?<pb n="49, E" xml:id="p49"/></l>
+            <l n="1115" xml:id="l1115">Qu'il s’est justifié d’une maniere tendre !</l>
+            <l n="1116" xml:id="l1116">Ses yeux que j’évitois, ont rencontré les miens,</l>
+            <l n="1117" xml:id="l1117">Il a veu tous mes <ref target="#feu1">feux*</ref>, &amp; j’ay veu tous les siens ;</l>
+            <l n="1118" xml:id="l1118">Ses discours ont banny mes <ref target="#mortel2">mortelles*</ref> <ref target="#alarme">allarmes*</ref>,</l>
+            <l n="1119" xml:id="l1119">Ses soûpirs ont grossy le torrent de ses larmes,</l>
+            <l n="1120" xml:id="l1120">Elles m’ont entraînée, &amp; malgré mes soupçons</l>
+            <l n="1121" xml:id="l1121">Mon cœur n’a pû tenir contre tant de raisons.</l>
+            <l n="1122" xml:id="l1122">Pour lever tout ombrage alors je suis sortie,</l>
+            <l n="1123" xml:id="l1123">Et pour voir les moyens de luy sauver la vie.</l>
+            <l n="1124" xml:id="l1124">Je crains tout de Belus, puis que Pirame est pris ;</l>
+            <l n="1125" xml:id="l1125">Il arreste, il enchaîne Arsace dans son Fils ;</l>
+            <l n="1126" xml:id="l1126">S'il presse Babylone, on verra sa colere</l>
+            <l n="1127" xml:id="l1127">Sur la teste du Fils punir le bras du Pere,</l>
+            <l n="1128" xml:id="l1128">J'entendray menacer des jours si précieux,</l>
+            <l n="1129" xml:id="l1129" part="I">Je verray contre luy…</l>
+          </sp>
+          <sp xml:id="IV01-6" who="ismene">
+            <l part="F">Madame, faites mieux</l>
+            <l n="1130" xml:id="l1130">Declarez à Belus la feinte pour la Reine</l>
+            <l n="1131" xml:id="l1131" part="I">Dites-luy qu’il n’a point…</l>
+          </sp>
+          <sp xml:id="IV01-7" who="thisbe">
+            <l part="F">Le croira-t-il, Ismene,</l>
+            <l n="1132" xml:id="l1132">Qu'il n’en veut point au Trône ? Et pour n’en croire rien,</l>
+            <l n="1133" xml:id="l1133">Helas ! Belus a-t-il un cœur comme le mien ?</l>
+            <l n="1134" xml:id="l1134">L'<ref target="#ardeur">ardeur*</ref> de mon Amant pour moy fut convaincante,</l>
+            <l n="1135" xml:id="l1135">Mais un Prince jaloux a-t-il des yeux d’Amante ?</l>
+            <l n="1136" xml:id="l1136">Pour Pirame d’ailleurs j’apréhende Amestris,</l>
+            <l n="1137" xml:id="l1137">Je crains plus son amour que tous nos Ennemis,</l>
+            <l n="1138" xml:id="l1138">Et je l’exposerois, découvrant le mystere,</l>
+            <l n="1139" xml:id="l1139">Pour le sauver du Fils, aux fureurs de la Mere,</l>
+            <l n="1140" xml:id="l1140">Car si la Reine alloit triompher à son tour,</l>
+            <l n="1141" xml:id="l1141">Si Babylone estoit reprise quelque jour,</l>
+            <l n="1142" xml:id="l1142">Que Maîtresse absoluë, elle se vit trahie,</l>
+            <l n="1143" xml:id="l1143">Je craindrois qu’à Pirame il n’en coûtât la vie.</l>
+            <l n="1144" xml:id="l1144">Que faire donc, Ismene, en ces extrémitez ?<pb n="50" xml:id="p50"/></l>
+            <l n="1145" xml:id="l1145">Je ne voy que la mort pour nous de tous costez,</l>
+            <l n="1146" xml:id="l1146">Du costé de Belus, de celuy de la Reine,</l>
+            <l n="1147" xml:id="l1147">Tout m’<ref target="#embarrasser">embarrasse*</ref> helas ! tout me met à la <ref target="#gesne">gesne*</ref>,</l>
+            <l n="1148" xml:id="l1148">Je cherche des moyens, &amp; je n’en puis trouver,</l>
+            <l n="1149" xml:id="l1149">Et par tout je le pers, si je veux le sauver.</l>
+          </sp>
+          <sp xml:id="IV01-8" who="ismene">
+            <l n="1150" xml:id="l1150">Du moins devant Belus, Madame, il faudra feindre,</l>
+            <l n="1151" xml:id="l1151">Vous sçavez son amour, vous devez vous contraindre ;</l>
+            <l n="1152" xml:id="l1152">Pirame est dans ses fers, gardez-vous de parler.</l>
+            <l n="1153" xml:id="l1153">Mais le voicy, Madame, il faut dissimuler.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV02">
+          <sp xml:id="IV02-1" who="belus">
+            <l n="1154" xml:id="l1154">Grace aux Dieux, je suis Maître, &amp; tiens en ma puissance</l>
+            <l n="1155" xml:id="l1155">Un Ingrat, dont je viens vous offrir la vangeance,</l>
+            <l n="1156" xml:id="l1156">Madame ; je l’expose à tout vostre couroux,</l>
+            <l n="1157" xml:id="l1157">Et c’est de vostre main que vont tomber les coups.</l>
+            <l n="1158" xml:id="l1158">Oüy, vous-mesme ordonnez de la peine du Traître,</l>
+            <l n="1159" xml:id="l1159">Le Perfide a trahy sa Maîtresse &amp; son Maître,</l>
+            <l n="1160" xml:id="l1160">Je prens vostre intérest, &amp; je veux vous vanger,</l>
+            <l n="1161" xml:id="l1161">Son sort dépend de vous, c’est à vous d’y songer,</l>
+            <l n="1162" xml:id="l1162">Il a voulu vous perdre, &amp; mesme à vostre veuë…</l>
+          </sp>
+          <sp xml:id="IV02-2" who="thisbe">
+            <l n="1163" xml:id="l1163">Epargnez-moy, Seigneur, un discours qui me tuë ;</l>
+            <l n="1164" xml:id="l1164">Et si vous exposez Pirame à mon couroux,<pb n="51, Eij" xml:id="p51"/></l>
+            <l n="1165" xml:id="l1165">Si l’Ingrat de ma main doit attendre les coups,</l>
+            <l n="1166" xml:id="l1166">Seigneur, puis qu’il m’a fait la plus sensible offense,</l>
+            <l n="1167" xml:id="l1167">Reposez-vous sur moy du soin de ma vangeance.</l>
+            <l n="1168" xml:id="l1168">Mais depuis qu’il est pris, l’avez-vous entendu ?</l>
+            <l n="1169" xml:id="l1169">Et de sa trahison s’est-il mal défendu ?</l>
+          </sp>
+          <sp xml:id="IV02-3" who="belus">
+            <l n="1170" xml:id="l1170">Je me trompe, Madame, &amp; commence à comprendre</l>
+            <l n="1171" xml:id="l1171">Que Pirame à vos yeux aura pû se défendre ;</l>
+            <l n="1172" xml:id="l1172">Hircus me l’avoit dit, &amp; vous avez raison</l>
+            <l n="1173" xml:id="l1173">De douter de son ame &amp; de sa trahison :</l>
+            <l n="1174" xml:id="l1174">Mais mon Sceptre &amp; mes jours si proches de leur perte,</l>
+            <l n="1175" xml:id="l1175">Tant de sang, tant de morts dont la terre est couverte,</l>
+            <l n="1176" xml:id="l1176">La Reine, avecque Arsace, une Armée à nos murs,</l>
+            <l n="1177" xml:id="l1177">S'en sont-ils expliquez en des termes obscurs ?</l>
+            <l n="1178" xml:id="l1178">Qu'aura-t-il répondu, quand pour m’oster le Trône ?</l>
+            <l n="1179" xml:id="l1179">Me perdre ? On a voulu <ref target="#surprendre">surprendre*</ref> Babylone,</l>
+            <l n="1180" xml:id="l1180">On l’assiege, &amp; l’on tâche à renverser l’Estat.</l>
+            <l n="1181" xml:id="l1181">Faut-il pour vous convaincre un plus noir attentat ?</l>
+            <l n="1182" xml:id="l1182">Mais si ma destinée est contraire à la sienne,</l>
+            <l n="1183" xml:id="l1183">A luy laisser la vie il y va de la mienne,</l>
+            <l n="1184" xml:id="l1184">Il y va de mon Trône, il y va de mon cœur,</l>
+            <l n="1185" xml:id="l1185">Il y va de vous-mesme, &amp; de tout mon bonheur.</l>
+          </sp>
+          <sp xml:id="IV02-4" who="thisbe">
+            <l n="1186" xml:id="l1186">Ah ! Seigneur, si jamais j’eus pour vous quelques <ref target="#charme">charmes*</ref>,</l>
+            <l n="1187" xml:id="l1187">Si jamais vostre cœur fust touché par des larmes,</l>
+            <l n="1188" xml:id="l1188">Ne précipitez pas…Mes sens embarrassez,</l>
+            <l n="1189" xml:id="l1189">Et mes soûpirs, Seigneur, vous en disent assez.</l>
+          </sp>
+          <sp xml:id="IV02-5" who="belus">
+            <l n="1190" xml:id="l1190">Madame, vous n’avez pour moy que trop de <ref target="#charme">charmes*</ref> ;</l>
+            <l n="1191" xml:id="l1191">Mais je trouve un Perfide indigne de vos larmes,</l>
+            <l n="1192" xml:id="l1192">Et ces tendres soûpirs réveillent tour à tour</l>
+            <l n="1193" xml:id="l1193">Ma haine pour Pirame, &amp; pour vous mon amour.</l>
+            <l n="1194" xml:id="l1194">Quoy ? tout ingrat qu’il est, l’aimeriez-vous, Madame ?<pb n="52" xml:id="p52"/></l>
+            <l n="1195" xml:id="l1195" part="I">Cet amour…</l>
+          </sp>
+          <sp xml:id="IV02-6" who="thisbe">
+            <l part="F">Moy ? Seigneur, moy ? J'aimerois Pirame ?</l>
+            <l n="1196" xml:id="l1196">J'aimerois un Ingrat, qui pour se couronner</l>
+            <l n="1197" xml:id="l1197">Après mille sermens ose m’abandonner ?</l>
+            <l n="1198" xml:id="l1198">Un Perfide qui brise une si belle chaîne ?</l>
+            <l n="1199" xml:id="l1199">Non, Seigneur, non, pour luy je n’ay que de la haine,</l>
+            <l n="1200" xml:id="l1200">Je demande sa grace afin de m’en vanger ;</l>
+            <l n="1201" xml:id="l1201">Si j’ay voulu le voir, c’estoit pour l’outrager,</l>
+            <l n="1202" xml:id="l1202">Et pour luy reprocher toute son injustice,</l>
+            <l n="1203" xml:id="l1203">Mais je veux prolonger sa vie &amp; son suplice,</l>
+            <l n="1204" xml:id="l1204">Je seray comme une ombre attachée à ses pas</l>
+            <l n="1205" xml:id="l1205">Pour luy causer des maux pires que le trépas :</l>
+            <l n="1206" xml:id="l1206">Ainsi je verray mieux ma vangeance assouvie,</l>
+            <l n="1207" xml:id="l1207">Et ma haine sera le bourreau de sa vie.</l>
+            <l n="1208" xml:id="l1208">Donnez-la moy, Seigneur, puis qu’il m’a sçeu trahir,</l>
+            <l n="1209" xml:id="l1209">Qu'il vive, &amp; laissez-moy le soin de le haïr.</l>
+          </sp>
+          <sp xml:id="IV02-7" who="belus">
+            <l n="1210" xml:id="l1210">Hé bien, Madame, hé bien, il faut luy faire grace,</l>
+            <l n="1211" xml:id="l1211">Je veux récompenser son crime &amp; son audace ;</l>
+            <l n="1212" xml:id="l1212">Pour accorder mes droits avec ceux d’Amestris,</l>
+            <l n="1213" xml:id="l1213">Je lui rendray Pirame, &amp; je croy qu’à ce prix</l>
+            <l n="1214" xml:id="l1214">Elle me cedera le Trône de mon Pere.</l>
+            <l n="1215" xml:id="l1215">Et vous, pour vous vanger de l’amour de ma Mere,</l>
+            <l n="1216" xml:id="l1216">Quittez vostre Infidelle, &amp; regnant avec moy…</l>
+          </sp>
+          <sp xml:id="IV02-8" who="thisbe">
+            <l n="1217" xml:id="l1217">Quoy ? Seigneur, je verrois Pirame estre mon Roy ?</l>
+            <l n="1218" xml:id="l1218">Si vous aviez uny la Reine avec ce Traître.</l>
+            <l n="1219" xml:id="l1219">Songez à vostre tour qu’il seroit vostre Maître,</l>
+            <l n="1220" xml:id="l1220">Que vous succomberiez vous-mesme sous vos coups,</l>
+            <l n="1221" xml:id="l1221">Et que vostre vangeance éclateroit sur vous.</l>
+          </sp>
+          <sp xml:id="IV02-9" who="belus">
+            <l n="1222" xml:id="l1222">Laissez, laissez sur moy retomber ma vangeance,<pb n="53, Eiij" xml:id="p53"/></l>
+            <l n="1223" xml:id="l1223">Madame, &amp; consentez à leur juste alliance,</l>
+            <l n="1224" xml:id="l1224" part="I">N'y mettez point d’obstacle.</l>
+          </sp>
+          <sp xml:id="IV02-10" who="thisbe">
+            <l part="F">Ah ! je mettray, Seigneur,</l>
+            <l n="1225" xml:id="l1225">Des obstacles pour vous, pour moy, pour vostre honneur,</l>
+            <l n="1226" xml:id="l1226">Et j’ay trop de raisons de craindre que la Reine</l>
+            <l n="1227" xml:id="l1227">Pour regner seule icy, ne nous livre à sa haine ;</l>
+            <l n="1228" xml:id="l1228">Vous sçavez sa fureur &amp; son emportement,</l>
+            <l n="1229" xml:id="l1229">Et que ne fait-on point, Seigneur, pour un Amant ?</l>
+            <l n="1230" xml:id="l1230">Vous en estes témoin, vous l’avez veu vous-méme,</l>
+            <l n="1231" xml:id="l1231">Il vous en a coûté presque le Diadéme ;</l>
+            <l n="1232" xml:id="l1232">Votre vie exposée en ce dernier combat…</l>
+          </sp>
+          <sp xml:id="IV02-11" who="belus">
+            <l n="1233" xml:id="l1233">Il faut donc l’immoler au repos de l’Estat,</l>
+            <l n="1234" xml:id="l1234">Cet Amant trop heureux qui menace ma vie.</l>
+          </sp>
+          <sp xml:id="IV02-12" who="thisbe">
+            <l n="1235" xml:id="l1235">Ah Seigneur, étoufez cette funeste envie.</l>
+          </sp>
+          <sp xml:id="IV02-13" who="belus">
+            <l n="1236" xml:id="l1236">Madame, vous l’aimez, vostre cœur s’est trahy,</l>
+            <l n="1237" xml:id="l1237">Je vous aime, &amp; je suis malheureux &amp; hay ;</l>
+            <l n="1238" xml:id="l1238">Tout criminel qu’il est, vous excusez son crime ;</l>
+            <l n="1239" xml:id="l1239">Quand je doy l’immoler, je deviens sa Victime ;</l>
+            <l n="1240" xml:id="l1240">Mais son sort &amp; le mien va dépendre de vous,</l>
+            <l n="1241" xml:id="l1241">Si vous craignez pour luy l’<ref target="#eclat2">éclat*</ref> de mon couroux ;</l>
+            <l n="1242" xml:id="l1242">Sa vie est en vos mains, &amp; je vous l’abandonne,</l>
+            <l n="1243" xml:id="l1243">Je hazarde pour vous la mienne, &amp; la Couronne,</l>
+            <l n="1244" xml:id="l1244">Un mot de vostre bouche en fera le destin,</l>
+            <l n="1245" xml:id="l1245">Pour sa teste il me faut promettre vostre main.</l>
+            <l n="1246" xml:id="l1246">A cet unique prix je fais grace à Pirame,</l>
+            <l n="1247" xml:id="l1247">Je vous donne ce jour pour y penser. Madame,</l>
+            <l n="1248" xml:id="l1248">Songez que vostre amour luy peut estre <ref target="#fatal">fatal*</ref>,</l>
+            <l n="1249" xml:id="l1249">Songez qu’il vous trahit, &amp; qu’il est mon Rival.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV03">
+          <sp xml:id="IV03-1" who="thisbe">
+            <l n="1250" xml:id="l1250">Ismene, il faut mourir, &amp; l’heure en est venuë,<pb n="54" xml:id="p54"/></l>
+            <l n="1251" xml:id="l1251">Belus, la Reine, Arsace, &amp; mon amour me tuë ;</l>
+            <l n="1252" xml:id="l1252">Tu sçauras, cher Amant, combien tu m’estois cher,</l>
+            <l n="1253" xml:id="l1253">Je vais percer ce cœur qu’on te veut arracher ;</l>
+            <l n="1254" xml:id="l1254">Oüy, je mourray, Pirame, &amp; je mourray fidelle,</l>
+            <l n="1255" xml:id="l1255">Du plus parfait amour je seray le modelle,</l>
+            <l n="1256" xml:id="l1256">Et nous serons peut-estre un exemple fameux</l>
+            <l n="1257" xml:id="l1257">Des plus tendres Amans &amp; des plus malheureux :</l>
+            <l n="1258" xml:id="l1258">Mais si je meurs, Ismene, empesche que Pirame</l>
+            <l n="1259" xml:id="l1259">Ne me suive, &amp; ne coupe une si belle trame.</l>
+            <l n="1260" xml:id="l1260">Cette pensée helas ! me fait trembler d’efroy.</l>
+            <l n="1261" xml:id="l1261">Je vais mourir pour luy, fais le vivre pour moy ;</l>
+            <l n="1262" xml:id="l1262">Dis-luy, pour détourner cette fatale envie,</l>
+            <l n="1263" xml:id="l1263">Que j’eus mille raisons de sortir de la vie;</l>
+            <l n="1264" xml:id="l1264">Que Belus me pressoit de luy donner la <ref target="#main">main*</ref>,</l>
+            <l n="1265" xml:id="l1265">Que c’estoit luy porter un poignard dans le sein,</l>
+            <l n="1266" xml:id="l1266">Qu'Amestris redoubloit mes <ref target="#mortel2">mortelles*</ref> <ref target="#alarme">allarmes*</ref>,</l>
+            <l n="1267" xml:id="l1267">Qu'un peu de sang versé m’épargne bien des larmes,</l>
+            <l n="1268" xml:id="l1268">Que toûjours son amour se souvienne de moy,</l>
+            <l n="1269" xml:id="l1269">Qu'il vive, &amp; s’il se peut, qu’il me garde sa <ref target="#foy">foy*</ref>.</l>
+          </sp>
+          <sp xml:id="IV03-2" who="ismene">
+            <l n="1270" xml:id="l1270">Quel funeste penser vous accable, Madame ?</l>
+            <l n="1271" xml:id="l1271">Les Dieux auront pitié de vous &amp; de Pirame,</l>
+            <l n="1272" xml:id="l1272">Et vous ne serez pas toûjours si malheureux…</l>
+            <l n="1273" xml:id="l1273">Mais qu’aperçois-je ? ô Ciel ! Pirame dans ces lieux !</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="IV04">
+          <sp xml:id="IV04-1" who="thisbe">
+            <l n="1274" xml:id="l1274">Ah ! Seigneur, se peut-il qu’enfin je vous revoye ?<pb n="55, Eiiij" xml:id="p55"/></l>
+          </sp>
+          <sp xml:id="IV04-2" who="pirame">
+            <l n="1275" xml:id="l1275">Madame, suspendez l’<ref target="#eclat1">éclat*</ref> de vostre joye ;</l>
+            <l n="1276" xml:id="l1276">Je suis libre, il est vray, par les soins de Licas,</l>
+            <l n="1277" xml:id="l1277">Il a gagné du Fort les Chefs &amp; les Soldats,</l>
+            <l n="1278" xml:id="l1278">J'en sors, Madame ; il faut marquer vostre <ref target="#tendresse">tendresse*</ref>,</l>
+            <l n="1279" xml:id="l1279">Il faut fuir à cette heure avec moy, le temps presse,</l>
+            <l n="1280" xml:id="l1280">Tout flate ce dessein; malgré l’obscurité,</l>
+            <l n="1281" xml:id="l1281">La Lune cette nuit nous offre sa clarté ;</l>
+            <l n="1282" xml:id="l1282">Pour ménager Belus avec plus de conduite,</l>
+            <l n="1283" xml:id="l1283">Ismene en demeurant, peut cacher nostre fuite.</l>
+            <l n="1284" xml:id="l1284">Les superbes Jardins que fit Sémiramis,</l>
+            <l n="1285" xml:id="l1285">Ne sont point investis du Camp des Ennemis ;</l>
+            <l n="1286" xml:id="l1286">Rangez pres de l’Eufrate, ils assiegent la Ville,</l>
+            <l n="1287" xml:id="l1287">Par ces lieux écartez l’issuë en est facile ;</l>
+            <l n="1288" xml:id="l1288">Ainsi nous pouvons fuir &amp; gagner la Forest,</l>
+            <l n="1289" xml:id="l1289">Et Licas va nous suivre, &amp; nous tenir tout prest ;</l>
+            <l n="1290" xml:id="l1290">Au tombeau de Ninus il doit bientôt se rendre,</l>
+            <l n="1291" xml:id="l1291">Proche de la Fontaine où nous devons l’attendre.</l>
+            <l n="1292" xml:id="l1292">Hé bien, partirons-nous, Madame, de ces lieux ?</l>
+            <l n="1293" xml:id="l1293">Mais quoy ? je vois tomber des larmes de vos yeux ;</l>
+            <l n="1294" xml:id="l1294">Pourquoy tant de soûpirs, Madame ? &amp; que veut dire…</l>
+          </sp>
+          <sp xml:id="IV04-3" who="thisbe">
+            <l n="1295" xml:id="l1295">Ah ! Seigneur, aprenez pourquoy mon cœur soûpire.</l>
+            <l n="1296" xml:id="l1296">Quoy ? fuirois-je avec vous, seule, &amp; pendant la nuit ?</l>
+            <l n="1297" xml:id="l1297">Pour ma <ref target="#gloire">gloire*</ref>, Seigneur, ah ! quel funeste <ref target="#bruit">bruit*</ref> !</l>
+            <l n="1298" xml:id="l1298">Soüillerois-je mon nom d’une tache si noire ?<pb n="56" xml:id="p56"/></l>
+            <l n="1299" xml:id="l1299">Prince, si vous m’aimez, ayez soin de ma <ref target="#gloire">gloire*</ref>.</l>
+          </sp>
+          <sp xml:id="IV04-4" who="pirame">
+            <l n="1300" xml:id="l1300">A la fuite sans vous pourois-je consentir ?</l>
+            <l n="1301" xml:id="l1301" part="I">Quoy ? Madame, sans vous ?</l>
+          </sp>
+          <sp xml:id="IV04-5" who="thisbe">
+            <l part="F">Oüy, Prince, il faut partir,</l>
+            <l n="1302" xml:id="l1302">Il faut partir sans moy, sans cette Infortunée,</l>
+            <l n="1303" xml:id="l1303">Qui fait tout le malheur de vostre destinée.</l>
+            <l n="1304" xml:id="l1304">Je fuirois avec vous, si j’en croyois mon cœur,</l>
+            <l n="1305" xml:id="l1305">Je vous suivrois par tout ; mais ma <ref target="#gloire">gloire*</ref>, Seigneur,</l>
+            <l n="1306" xml:id="l1306">Retraçant à mes yeux la noirceur de l’envie,</l>
+            <l n="1307" xml:id="l1307">Ne luy veut point donner de prise sur ma vie.</l>
+            <l n="1308" xml:id="l1308">Si vous m’aimez, Pirame, ah ! sortez de ce lieu,</l>
+            <l n="1309" xml:id="l1309">Epargnez à mon cœur ce douloureux adieu,</l>
+            <l n="1310" xml:id="l1310">De mes sens desolez vous redoublez la peine,</l>
+            <l n="1311" xml:id="l1311">Fuyez…Mais n’allez pas vers le Camp de la Reine.</l>
+          </sp>
+          <sp xml:id="IV04-6" who="pirame">
+            <l n="1312" xml:id="l1312">Partirois-je sans vous ? resteriez-vous sans moy ?</l>
+            <l n="1313" xml:id="l1313">Vous abandonnerois-je aux <ref target="#tendresse">tendresses*</ref> d’un Roy ?</l>
+            <l n="1314" xml:id="l1314">Vous laisserois-je en proye aux fureurs d’une Reine</l>
+            <l n="1315" xml:id="l1315">Egalement Victime ou d’amour, ou de haine ?</l>
+            <l n="1316" xml:id="l1316">Et que sçais-je, Madame, en ce funeste jour,</l>
+            <l n="1317" xml:id="l1317">Si vous ne seriez pas la Victime d’Amour ?</l>
+            <l n="1318" xml:id="l1318">Epargnez à mes sens cette funeste image,</l>
+            <l n="1319" xml:id="l1319">Epargnez des <ref target="#transport">transports*</ref> de douleur &amp; de rage,</l>
+            <l n="1320" xml:id="l1320">Et sans nous attendrir en soûpirs superflus,</l>
+            <l n="1321" xml:id="l1321">Fuyons, fuyons ensemble &amp; la Reine &amp; Belus.</l>
+            <l n="1322" xml:id="l1322">Vous craignez (dites-vous) quelques traits de l’envie,</l>
+            <l n="1323" xml:id="l1323">Et ne craignez-vous rien, cruelle, pour ma vie ?</l>
+            <l n="1324" xml:id="l1324">Un sentiment de <ref target="#gloire">gloire*</ref> étoufant vostre amour,</l>
+            <l n="1325" xml:id="l1325">S'il vous coûte des pleurs, me va coûter le jour.</l>
+            <l n="1326" xml:id="l1326">Encore un coup, songez que ma mort est certaine ;</l>
+            <l n="1327" xml:id="l1327">Si vous ne me suivez, je rentre dans ma chaîne,</l>
+            <l n="1328" xml:id="l1328">Je me livre à Belus, &amp; je cours au trépas.<pb n="57" xml:id="p57"/></l>
+            <l n="1329" xml:id="l1329" part="I">Ah Dieux ! si vous m’aimiez…</l>
+          </sp>
+          <sp xml:id="IV04-7" who="thisbe">
+            <l part="F">Je ne vous aime pas,</l>
+            <l n="1330" xml:id="l1330">Ingrat ? de mon amour pouriez-vous estre en doute ?</l>
+            <l n="1331" xml:id="l1331">Et vous voyez si bien les larmes qu’il me coûte :</l>
+            <l n="1332" xml:id="l1332">Mais sur tant de foiblesse enfin fermez les yeux,</l>
+            <l n="1333" xml:id="l1333">Prince, je vais rentrer, sortez au nom des Dieux.</l>
+            <l n="1334" xml:id="l1334">Adieu, Pirame, adieu. Mais je demeure encore,</l>
+            <l n="1335" xml:id="l1335">Je ne puis m’arracher d’un Amant que j’adore ;</l>
+            <l n="1336" xml:id="l1336">Pour la derniere fois adieu, Prince…Ah cruel !</l>
+            <l n="1337" xml:id="l1337">Que ne m’épargnez-vous cet adieu si <ref target="#mortel2">mortel*</ref> ?</l>
+            <l n="1338" xml:id="l1338">Pour vous je tremble, helas ! que d’<ref target="#effroi">éfroy*</ref> ! que d’<ref target="#alarme">allarmes*</ref> !</l>
+            <l n="1339" xml:id="l1339">Quel plaisir prenez-vous à voir couler mes larmes ?</l>
+            <l n="1340" xml:id="l1340">Cher Prince, fuyez donc, qu’un <ref target="#genereux">genéreux*</ref> effort*…</l>
+          </sp>
+          <sp xml:id="IV04-8" who="pirame">
+            <l n="1341" xml:id="l1341">Cruelle, je le voy, vous demandez ma mort,</l>
+            <l n="1342" xml:id="l1342">Peut-estre que Belus…Ah ! penser trop funeste !</l>
+            <l n="1343" xml:id="l1343">Mais, Madame, ma mort vous dira mieux le reste.</l>
+          </sp>
+          <sp xml:id="IV04-9" who="thisbe">
+            <l n="1344" xml:id="l1344">Ah ! Seigneur, étoufez ce sentiment jaloux ;</l>
+            <l n="1345" xml:id="l1345">Non, je crains de traîner mon malheur avec vous,</l>
+            <l n="1346" xml:id="l1346">Je ne sçay quelle horreur me retient &amp; me glace ;</l>
+            <l n="1347" xml:id="l1347">Pirame, au nom des Dieux, soufrez que je vous chasse,</l>
+            <l n="1348" xml:id="l1348">Un mouvement secret m’arreste dans ces lieux,</l>
+            <l n="1349" xml:id="l1349">Il n’en faut point douter, c’est un ordre des Dieux ;</l>
+            <l n="1350" xml:id="l1350">Si je fuis avec vous, qu’en devons-nous attendre ?</l>
+            <l n="1351" xml:id="l1351">Les gardes de Belus viendront pour nous reprendre ;</l>
+            <l n="1352" xml:id="l1352">Je vous verray tout seul contre tant de Soldats</l>
+            <l n="1353" xml:id="l1353">Tomber percé de coups, peut-estre entre mes bras ;</l>
+            <l n="1354" xml:id="l1354">A vos regards mourans, je m’offriray mourante.</l>
+            <l n="1355" xml:id="l1355">Quel spectacle, Seigneur, helas ! pour une Amante !</l>
+          </sp>
+          <sp xml:id="IV04-10" who="pirame">
+            <l n="1356" xml:id="l1356">Non, la mort à mes yeux n’a rien de si <ref target="#fatal">fatal*</ref>,</l>
+            <l n="1357" xml:id="l1357">Que de vous voir en proye à l’amour d’un Rival.</l>
+            <l n="1358" xml:id="l1358">Il n’est point à mes yeux de si grande infortune,<pb n="58" xml:id="p58"/></l>
+            <l n="1359" xml:id="l1359">Je soufre mille morts pour en éviter une,</l>
+            <l n="1360" xml:id="l1360">Pour moy vous la craignez, &amp; vos tristes adieux</l>
+            <l n="1361" xml:id="l1361">Sçauront me la donner, &amp; peut-estre à vos yeux ;</l>
+            <l n="1362" xml:id="l1362">Un moment diferé rend ma perte assurée,</l>
+            <l n="1363" xml:id="l1363">Vous la voyez, cruelle, &amp; vous l’avez jurée.</l>
+            <l n="1364" xml:id="l1364">Si quelqu’un me surprend icy, je suis perdu,</l>
+            <l n="1365" xml:id="l1365">Vous vous repentirez d’avoir trop attendu</l>
+            <l n="1366" xml:id="l1366" part="I">Il ne sera plus temps, je mourray…</l>
+          </sp>
+          <sp xml:id="IV04-11" who="thisbe">
+            <l part="F">Quelle peine !</l>
+            <l n="1367" xml:id="l1367">Hé bien, Seigneur, allons où le sort nous entraîne.</l>
+            <p rend="center">Fin du Quatriéme Acte.</p>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="V" type="act">
+        <div type="scene" xml:id="V01">
+          <sp xml:id="V01-1" who="hircus">
+            <l n="1368" xml:id="l1368">Enfin, Seigneur, les Dieux sont declarez pour vous,<pb n="59" xml:id="p59"/></l>
+            <l n="1369" xml:id="l1369">La Reine est arrestée, Arcas percé de coups,</l>
+            <l n="1370" xml:id="l1370">Son Party cette nuit est défait par le vostre,</l>
+            <l n="1371" xml:id="l1371">Nos Chefs ont fait merveille à l’envy l’un de l’autre ;</l>
+            <l n="1372" xml:id="l1372">Mais le profond respect que l’on doit à son rang,</l>
+            <l n="1373" xml:id="l1373">Leur a fait épargner en elle vostre sang* :</l>
+            <l n="1374" xml:id="l1374">Arsace s’est sauvé dans la Forest prochaine,</l>
+            <l n="1375" xml:id="l1375">On le poursuit, nos Chefs vous amenent la Reine,</l>
+            <l n="1376" xml:id="l1376">Elle est dans Babylone, elle veut vous parler,</l>
+            <l n="1377" xml:id="l1377">Et tout ce grand revers a peine à l’ébranler :</l>
+            <l n="1378" xml:id="l1378">Mais, Seigneur, dans le bien que le Ciel vous envoye,</l>
+            <l n="1379" xml:id="l1379">Pourquoy vous refuser à la publique joye ?</l>
+            <l n="1380" xml:id="l1380" part="I">Et ce sombre <ref target="#chagrin">chagrin*</ref> qui nous paroît…</l>
+          </sp>
+          <sp xml:id="V01-2" who="belus">
+            <l part="F">Helas !<pb n="60" xml:id="p60"/></l>
+            <l n="1381" xml:id="l1381">Ma <ref target="#gloire">gloire*</ref> est satisfaite, &amp; mon cœur ne l’est pas.</l>
+            <l n="1382" xml:id="l1382">Je sens je ne sçay quoy dans l’ame qui me <ref target="#gesner">gesne*</ref>,</l>
+            <l n="1383" xml:id="l1383">Vous, Garde, aprochez, allez trouver la Reine,</l>
+            <l n="1384" xml:id="l1384">Et lors que vous l’aurez conduite jusqu’icy,</l>
+            <l n="1385" xml:id="l1385">Faites sortir Pirame, &amp; l’amenez aussy.</l>
+            <l n="1386" xml:id="l1386">Je veux luy reprocher sa <ref target="#flame1">flâme*</ref> criminelle,</l>
+            <l n="1387" xml:id="l1387">Devant la Reine il faut… Mais s’il estoit fidelle,</l>
+            <l n="1388" xml:id="l1388">Hircus ? Si pour Thisbé… Cependant aujourd’huy</l>
+            <l n="1389" xml:id="l1389">Puis que la Reine mesme a combatu pour luy,</l>
+            <l n="1390" xml:id="l1390">Il faut bien qu’avecque elle il soit d’intelligence.</l>
+          </sp>
+          <sp xml:id="V01-3" who="hircus">
+            <l n="1391" xml:id="l1391">Quand la Reine, Seigneur, courût pour sa défence,</l>
+            <l n="1392" xml:id="l1392">Qu'elle chargea les miens lors que je l’arrestois,</l>
+            <l n="1393" xml:id="l1393">Je l’observois toûjours, moy seul je le tenois ;</l>
+            <l n="1394" xml:id="l1394">Cependant dans l’instant que la Reine elle-mesme</l>
+            <l n="1395" xml:id="l1395">Combatist, &amp; fist voir une <ref target="#tendresse">tendresse*</ref> extréme,</l>
+            <l n="1396" xml:id="l1396">Il ne répondit point à de si beaux <ref target="#transport">transports*</ref>,</l>
+            <l n="1397" xml:id="l1397">Pour se sauver luy-mesme il ne fit point d’<ref target="#effort">efforts*</ref>,</l>
+            <l n="1398" xml:id="l1398">Au contraire il la vit avecque un œil farouche,</l>
+            <l n="1399" xml:id="l1399">Le nom de la Princesse échapa de sa bouche,</l>
+            <l n="1400" xml:id="l1400">Et poussant des soûpirs qu’il ne pût retenir,</l>
+            <l n="1401" xml:id="l1401">(Chere Thisbé, dit-il, que vas-tu devenir ?)</l>
+            <l n="1402" xml:id="l1402">Je l’entraîne, il ne fist aucune resistance,</l>
+            <l n="1403" xml:id="l1403">Il demeura toûjours dans un triste silence,</l>
+            <l n="1404" xml:id="l1404">Dans ses yeux éclatoit une tendre douleur,</l>
+            <l n="1405" xml:id="l1405">Et du reste il estoit stupide à son malheur.</l>
+            <l n="1406" xml:id="l1406">Apres cela, Seigneur, pouvez-vous estre en peine</l>
+            <l n="1407" xml:id="l1407">S'il trahit la Princesse, ou s’il aime la Reine ?</l>
+          </sp>
+          <sp xml:id="V01-4" who="belus">
+            <l n="1408" xml:id="l1408">Ah ! Dieux ; que m’aprens-tu par ce cruel recit ?</l>
+            <l n="1409" xml:id="l1409">Trop fidelle à Thisbé, c’est moy seul qu’il trahit.</l>
+            <l n="1410" xml:id="l1410">Helas ! quand de mes <ref target="#feu1">feux*</ref> je me rendois le maître,<pb n="61" xml:id="p61"/></l>
+            <l n="1411" xml:id="l1411">Qu'un Billet outrageant le fist passer pour traître,</l>
+            <l n="1412" xml:id="l1412">Que l’amour de la Reine apuya nostre erreur,</l>
+            <l n="1413" xml:id="l1413">Je crus Thisbé trompée en consultant mon cœur :</l>
+            <l n="1414" xml:id="l1414">Pour Pirame ayant veu les <ref target="#effort">efforts*</ref> de la Reine,</l>
+            <l n="1415" xml:id="l1415">Cette marque d’amour sçeut desarmer ma haine,</l>
+            <l n="1416" xml:id="l1416">Et sans envisager la mort où je courois,</l>
+            <l n="1417" xml:id="l1417">Mon cœur estoit charmé du péril où j’estois ;</l>
+            <l n="1418" xml:id="l1418">Mais enfin quand je voy ma vie en <ref target="#assurance">assurance*</ref>,</l>
+            <l n="1419" xml:id="l1419">Si la Reine est trahie, helas ! plus d’espérance.</l>
+            <l n="1420" xml:id="l1420">Que la <ref target="#gloire">gloire*</ref> &amp; l’amour dans mes desirs errans</l>
+            <l n="1421" xml:id="l1421">Font sentir à mon cœur de <ref target="#transport">transports*</ref> différens !</l>
+            <l n="1422" xml:id="l1422">La douleur de Thisbé semble augmenter ses <ref target="#charme">charmes*</ref> ;</l>
+            <l n="1423" xml:id="l1423">Quand je voy ses beaux yeux baignez de tant de larmes,</l>
+            <l n="1424" xml:id="l1424">Une tendre pitié presse &amp; saisit mon cœur,</l>
+            <l n="1425" xml:id="l1425">Je veux de mon amour devenir le vainqueur,</l>
+            <l n="1426" xml:id="l1426">Et quand cette pitié rend mon ame abatuë,</l>
+            <l n="1427" xml:id="l1427">Cette pitié devient un amour qui me tuë,</l>
+            <l n="1428" xml:id="l1428">La Princesse &amp; Pirame en sont plus malheureux,</l>
+            <l n="1429" xml:id="l1429">Et je me trouve encor plus infortuné qu’eux.</l>
+            <l n="1430" xml:id="l1430">Mais il faut m’éclaircir du doute qui me presse ;</l>
+            <l n="1431" xml:id="l1431">Oüy, tout-à-l’heure, Hircus, allez chez la Princesse,</l>
+            <l n="1432" xml:id="l1432">Qu'on la fasse venir avecque son Amant.</l>
+            <l n="1433" xml:id="l1433">Voicy la Reine, allez, revenez promptement.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V02">
+          <sp xml:id="V02-1" who="amestris">
+            <l n="1434" xml:id="l1434">Tu triomphes, Belus, &amp; les Dieux m’ont trahie,<pb n="62" xml:id="p62"/></l>
+            <l n="1435" xml:id="l1435">Tu m’arraches le Sceptre, &amp; me laisses la vie ;</l>
+            <l n="1436" xml:id="l1436">Acheve, Fils ingrat, &amp; devenant mon Roy,</l>
+            <l n="1437" xml:id="l1437">Viens me ravir le jour que tu reçeus de moy.</l>
+            <l n="1438" xml:id="l1438">Tu sçais que pour la mort je n’eus jamais de crainte ;</l>
+            <l n="1439" xml:id="l1439">Qui la brava cent fois, en méprise l’<ref target="#atteinte">atteinte*</ref> ;</l>
+            <l n="1440" xml:id="l1440">D'un visage serain je l’attens <ref target="#constamment">constamment*</ref>,</l>
+            <l n="1441" xml:id="l1441">Mais n’attens point de moy d’indigne abaissement.</l>
+            <l n="1442" xml:id="l1442">Pour reparer ma honte, &amp; pour finir ma peine,</l>
+            <l n="1443" xml:id="l1443">Je veux mourir, Belus, &amp; veux mourir en Reine ;</l>
+            <l n="1444" xml:id="l1444">Car aprens aujourd’huy, perdant ce que je perds,</l>
+            <l n="1445" xml:id="l1445">Que l’on doit dans sa chûte <ref target="#etonner">étonner*</ref> l’Univers ;</l>
+            <l n="1446" xml:id="l1446">Que le Trône est placé dans un lieu si sublime,</l>
+            <l n="1447" xml:id="l1447">Qu'à ses pieds le Destin ne fait voir qu’un abîme.</l>
+            <l n="1448" xml:id="l1448">Viens, de tes propres mains, viens m’y précipiter,</l>
+            <l n="1449" xml:id="l1449">Et couvert de mon sang, hastes-toy d’y monter.</l>
+          </sp>
+          <sp xml:id="V02-2" who="belus">
+            <l n="1450" xml:id="l1450">Madame, loin d’avoir cette funeste envie,</l>
+            <l n="1451" xml:id="l1451">Je respecte ce sang qui m’a donné la vie :</l>
+            <l n="1452" xml:id="l1452">Ecoutez un peu moins une aveugle fureur,</l>
+            <l n="1453" xml:id="l1453">Qui va jusqu’à l’excés aigrir vostre douleur.</l>
+            <l n="1454" xml:id="l1454">Vous m’avez voulu perdre, &amp; pour vous satisfaire,</l>
+            <l n="1455" xml:id="l1455">Vous aviez oublié que vous estiez ma Mere ;</l>
+            <l n="1456" xml:id="l1456">Mais dans le triste état où le Sort vous a mis,<pb n="63" xml:id="p63"/></l>
+            <l n="1457" xml:id="l1457">Je veux me souvenir que je suis vostre Fils.</l>
+            <l n="1458" xml:id="l1458">Vous rendant les respects qu’exige la Nature,</l>
+            <l n="1459" xml:id="l1459">Je fais ce que je dois. Si vostre cœur murmure</l>
+            <l n="1460" xml:id="l1460">De me voir dans les mains le Sceptre que je tiens,</l>
+            <l n="1461" xml:id="l1461">La Nature a ses droits, &amp; le Trône a les siens.</l>
+            <l n="1462" xml:id="l1462">Je m’y place, Madame, &amp; moy seul y dois estre,</l>
+            <l n="1463" xml:id="l1463">Il faut que l’Univers connoisse en moy son Maître,</l>
+            <l n="1464" xml:id="l1464">Je ne veux plus languir dans les bras du repos,</l>
+            <l n="1465" xml:id="l1465">Mais marcher comme vous sur les pas des Héros.</l>
+            <l n="1466" xml:id="l1466">Si vous en murmurez, plaignez-vous de vous-mesme,</l>
+            <l n="1467" xml:id="l1467">Je sçauray comme vous porter le Diadéme,</l>
+            <l n="1468" xml:id="l1468">Confier à mon bras l’honneur de mes desseins,</l>
+            <l n="1469" xml:id="l1469">Estre seul mon Ministre, &amp; regner par mes mains.</l>
+          </sp>
+          <sp xml:id="V02-3" who="amestris">
+            <l n="1470" xml:id="l1470">Quoy ? tu veux regner seul ? &amp; ta fierté me brave ?</l>
+            <l n="1471" xml:id="l1471">Prétens-tu de ta Mere avoir fait ton Esclave ?</l>
+            <l n="1472" xml:id="l1472">Etalant à mes yeux d’ambitieux projets,</l>
+            <l n="1473" xml:id="l1473">Déja tu me confonds avecque tes Sujets :</l>
+            <l n="1474" xml:id="l1474">Fay plus, car il te faut une double Victime,</l>
+            <l n="1475" xml:id="l1475">Il faut que ta grandeur te coûte plus d’un crime,</l>
+            <l n="1476" xml:id="l1476">Pirame est déja mort. J'avois seul attenté</l>
+            <l n="1477" xml:id="l1477">Pour conserver mes droits avec ma liberté ;</l>
+            <l n="1478" xml:id="l1478">Mais enfin, donne-moy le destin de Pirame,</l>
+            <l n="1479" xml:id="l1479" part="I">Il estoit innocent…</l>
+          </sp>
+          <sp xml:id="V02-4" who="belus">
+            <l part="F">Non, non, il vit, Madame,</l>
+            <l n="1480" xml:id="l1480">A Thisbé je voudrois qu’il eût manqué de <ref target="#foy">foy*</ref>,</l>
+            <l n="1481" xml:id="l1481">Et qu’il eût avec vous conspiré contre moy ;</l>
+            <l n="1482" xml:id="l1482">Devenu son Rival, ou plutôt sa Victime,</l>
+            <l n="1483" xml:id="l1483">Je crains son innocence, &amp; souhaite son crime ;</l>
+            <l n="1484" xml:id="l1484">Et pour vous dire helas ! ce que mon cœur ressent,</l>
+            <l n="1485" xml:id="l1485">Peut-estre à mon égard est-il trop innocent.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V03">
+          <sp xml:id="V03-1" who="garde">
+            <l n="1486" xml:id="l1486">Ah ! Seigneur, cette nuit Pirame a pris la fuite,<pb n="64" xml:id="p64"/></l>
+            <l n="1487" xml:id="l1487">Il a trompé sa Garde, ou Licas l’a séduite.</l>
+            <l n="1488" xml:id="l1488">Pour le suivre, il estoit déja prest à partir,</l>
+            <l n="1489" xml:id="l1489">Mais, Seigneur, nous l’avons empesché de sortir.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V04">
+          <sp xml:id="V04-1" who="hircus">
+            <l n="1490" xml:id="l1490">Je viens vous avertir, Seigneur, que la Princesse</l>
+            <l n="1491" xml:id="l1491" part="I">N'est plus dans le Palais.</l>
+          </sp>
+          <sp xml:id="V04-2" who="belus">
+            <l part="F">Qu'on la cherche sans cesse.</l>
+          </sp>
+          <sp xml:id="V04-3" who="hircus">
+            <l n="1492" xml:id="l1492">Je l’ay cherchée en vain dans son Apartement.</l>
+          </sp>
+          <sp xml:id="V04-4" who="belus">
+            <l n="1493" xml:id="l1493">Elle aura fuy sans <ref target="#doute">doute*</ref> avecque son Amant ;</l>
+            <l n="1494" xml:id="l1494">Je l’avois pressenty : tout est perdu, Madame,</l>
+            <l n="1495" xml:id="l1495">Courez apres Thisbé, qu’on reprenne Pirame.</l>
+          </sp>
+          <sp xml:id="V04-5" who="hircus">
+            <l n="1496" xml:id="l1496">Pour courir apres eux, mes ordres sont donnez,<pb n="65, F" xml:id="p65"/></l>
+            <l n="1497" xml:id="l1497">Et de tous les costez des Soldats destinez…</l>
+          </sp>
+          <sp xml:id="V04-6" who="belus">
+            <l n="1498" xml:id="l1498">Faites venir Licas, il nous dira, le traître,</l>
+            <l n="1499" xml:id="l1499">En quels lieux auront fuy la Princesse &amp; son Maître.</l>
+            <l n="1500" xml:id="l1500">Pirame vous trahit, Madame, à mon malheur,</l>
+            <l n="1501" xml:id="l1501">Il n’en veut point au Trône, il en veut à mon cœur.</l>
+          </sp>
+          <sp xml:id="V04-7" who="amestris">
+            <l n="1502" xml:id="l1502">Arreste, c’en est trop, Destin impitoyable !</l>
+            <l n="1503" xml:id="l1503">Voila le dernier coup dont ta fureur m’accable ;</l>
+            <l n="1504" xml:id="l1504">Belus, je suis trahie, &amp; ce funeste jour</l>
+            <l n="1505" xml:id="l1505">N'éclaire qu’à ma honte un trop indigne amour.</l>
+            <l n="1506" xml:id="l1506">Ne croy pas cependant, qu’une servile <ref target="#flame1">flâme*</ref></l>
+            <l n="1507" xml:id="l1507">Seule par son <ref target="#ardeur">ardeur*</ref> eût embrasé mon ame,</l>
+            <l n="1508" xml:id="l1508">J'avois ma politique &amp; j’aimois cet Ingrat,</l>
+            <l n="1509" xml:id="l1509">Pour me rendre avec luy Maitresse de l’Etat ;</l>
+            <l n="1510" xml:id="l1510">Je craignois ta fierté, ta faveur, tes intrigues,</l>
+            <l n="1511" xml:id="l1511">Un Epoux m’auroit mise à couvert de tes <ref target="#brigue">brigues*</ref> ;</l>
+            <l n="1512" xml:id="l1512">J'en aurois fait ton Maître, &amp; cette passion</l>
+            <l n="1513" xml:id="l1513">Ne servoit que d’esclave à mon ambition.</l>
+            <l n="1514" xml:id="l1514">Cependant j’en frémis, &amp; je sens ma foiblesse,</l>
+            <l n="1515" xml:id="l1515">Je sens mon triste cœur qui soûpire sans cesse,</l>
+            <l n="1516" xml:id="l1516">J'effaceray sa honte, &amp; je sçauray punir</l>
+            <l n="1517" xml:id="l1517">Ses indignes soûpirs par son dernier soûpir ;</l>
+            <l n="1518" xml:id="l1518">Il faut pour rapeler tout l’<ref target="#eclat1">éclat*</ref> de ma vie,</l>
+            <l n="1519" xml:id="l1519">Par une illustre mort faire taire l’envie ;</l>
+            <l n="1520" xml:id="l1520">Mais du moins, pour le prix du Trône que je perds,</l>
+            <l n="1521" xml:id="l1521">Fay poursuivre Pirame au bout de l’Univers ;</l>
+            <l n="1522" xml:id="l1522">Dans ma juste douleur, que ma fureur éclate ;</l>
+            <l n="1523" xml:id="l1523">Vange-moy d’un Ingrat, vange-toy d’une Ingrate ;</l>
+            <l n="1524" xml:id="l1524">Que leurs cœurs arrachez, pour estre réünis,</l>
+            <l n="1525" xml:id="l1525">Vangent par tout leur sang tous nos soûpirs trahis.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V05">
+          <sp xml:id="V05-1" who="hircus">
+            <l n="1526" xml:id="l1526" part="I">Seigneur, Arsace est pris, on l’ameine.<pb n="66" xml:id="p66"/></l>
+          </sp>
+          <sp xml:id="V05-2" who="arsace">
+            <l part="F">Ah ! Madame,</l>
+            <l n="1527" xml:id="l1527">J'ay tout perdu pour vous, quand j’ay perdu Pirame.</l>
+            <l n="1528" xml:id="l1528">Seigneur, vangez un Fils sur un Pere inhumain</l>
+            <l n="1529" xml:id="l1529">De qui l’aveugle orgueil vient d’estre l’assassin ;</l>
+            <l n="1530" xml:id="l1530">Mon bras m’eût épargné ce recit trop funeste,</l>
+            <l n="1531" xml:id="l1531">Mais enfin l’on m’a pris…mes pleurs disent le reste ;</l>
+            <l n="1532" xml:id="l1532">Contre moy seul, Seigneur, armez vostre couroux.</l>
+          </sp>
+          <sp xml:id="V05-3" who="belus">
+            <l n="1533" xml:id="l1533">Parlez plus clairement, Arsace, expliquez-vous,</l>
+            <l n="1534" xml:id="l1534">Nous sçavons que Licas avoit tramé sa fuite.</l>
+          </sp>
+          <sp xml:id="V05-4" who="arsace">
+            <l n="1535" xml:id="l1535">Hé bien, aprenez-en la déplorable suite.</l>
+            <l n="1536" xml:id="l1536">La Princesse &amp; Pirame à peine estoient venus</l>
+            <l n="1537" xml:id="l1537">Dans la Forest prochaine au Tombeau de Ninus ;</l>
+            <l n="1538" xml:id="l1538">Ils attendoient Licas, Licas alloit s’y rendre,</l>
+            <l n="1539" xml:id="l1539">Quand il fût arresté : Mon Fils las de l’attendre,</l>
+            <l n="1540" xml:id="l1540">Fait demeurer Thisbé, sort &amp; fust quelque temps</l>
+            <l n="1541" xml:id="l1541">Au bord de la Forest à compter les momens.</l>
+            <l n="1542" xml:id="l1542">Moy, dans ce temps, Seigneur, dans l’horreur qui me guide,</l>
+            <l n="1543" xml:id="l1543">Nostre Party défait, je pousse à toute bride</l>
+            <l n="1544" xml:id="l1544">Du costé de ce Bois, où je trouve mon Fils.<pb n="67, Fij" xml:id="p67"/></l>
+            <l n="1545" xml:id="l1545">Si-tôt qu’il m’aperçoit, il s’enfuit, je le suis;</l>
+            <l n="1546" xml:id="l1546">Il perce la Forest, je le joins, je le presse,</l>
+            <l n="1547" xml:id="l1547">Il me dit qu’il venoit de quitter la Princesse,</l>
+            <l n="1548" xml:id="l1548">Mais ne la trouvant plus, il la cherche en tremblant,</l>
+            <l n="1549" xml:id="l1549">Et rencontre à ses pieds son Voile tout sanglant ;</l>
+            <l n="1550" xml:id="l1550">Nous voyons de Thisbé quelques traces formées,</l>
+            <l n="1551" xml:id="l1551">Et celles d’un Lion sur ces pas imprimées,</l>
+            <l n="1552" xml:id="l1552">L'herbe teinte de sang, ce Voile déchiré :</l>
+            <l n="1553" xml:id="l1553">Pirame alors demeure interdit, égaré,</l>
+            <l n="1554" xml:id="l1554">Un long frémissement le saisit &amp; le glace,</l>
+            <l n="1555" xml:id="l1555">De ce Lion encore examinant la trace,</l>
+            <l n="1556" xml:id="l1556">Il la suit, la démesle, &amp; voit de tous costez</l>
+            <l n="1557" xml:id="l1557">Des morceaux de ce Voile épars, ensanglantez.</l>
+            <l n="1558" xml:id="l1558">Ah Seigneur (me dit-il) Thisbé meurt, puis-je vivre ?</l>
+            <l n="1559" xml:id="l1559">C'est moy qui l’ay pressée &amp; forcée à me suivre,</l>
+            <l n="1560" xml:id="l1560">Ah ! sans doute un Lion aprochant de cette eau</l>
+            <l n="1561" xml:id="l1561">A surpris ma Princesse, &amp; j’en suis le Bourreau.</l>
+            <l n="1562" xml:id="l1562">Viens cruel (disoit-il) pour m’ouvrir tes entrailles,</l>
+            <l n="1563" xml:id="l1563">De Thisbé donne-moy les mesmes funérailles,</l>
+            <l n="1564" xml:id="l1564">Je suis le criminel qu’il falloit déchirer,</l>
+            <l n="1565" xml:id="l1565">Et du moins par pitié reviens me devorer ;</l>
+            <l n="1566" xml:id="l1566">Mais non, ce n’est point toy, c’est moy seul qui la tuë,</l>
+            <l n="1567" xml:id="l1567">A ces mots, d’un poignard il se perce à ma veuë,</l>
+            <l n="1568" xml:id="l1568">Je me jette sur luy, j’arrache ce poignard,</l>
+            <l n="1569" xml:id="l1569">J'arreste en vain son sang, Dieux ! il estoit trop tard ;</l>
+            <l n="1570" xml:id="l1570">Il tombe, il voit ce coup qui n’a rien qui l’éfraye,</l>
+            <l n="1571" xml:id="l1571">Et de ses propres mains il agrandit sa playe,</l>
+            <l n="1572" xml:id="l1572">Et malgré mes <ref target="#effort">efforts*</ref> s’ouvrant ainsi le flanc…</l>
+            <l n="1573" xml:id="l1573">Mais, Seigneur, pardonnez ces larmes à mon <ref target="#sang">sang*</ref>.</l>
+          </sp>
+          <sp xml:id="V05-5" who="amestris">
+            <l n="1574" xml:id="l1574">Qu'ay-je fait ? que d’horreurs où mon ame est plongée !</l>
+            <l n="1575" xml:id="l1575">Pirame est mort, ah Ciel ! vous m’avez trop vangée.</l>
+          </sp>
+          <sp xml:id="V05-6" who="belus">
+            <l n="1576" xml:id="l1576" part="I">Et la Princesse, Arsace ?<pb n="68" xml:id="p68"/></l>
+          </sp>
+          <sp xml:id="V05-7" who="arsace">
+            <l part="F">Ah ! triste souvenir !</l>
+            <l n="1577" xml:id="l1577">Dans ces instans, je vis la Princesse venir ;</l>
+            <l n="1578" xml:id="l1578">Me prenant pour Pirame, elle dit hors d’haleine,</l>
+            <l n="1579" xml:id="l1579">Qu'un Lion plein de sang venant vers la Fontaine,</l>
+            <l n="1580" xml:id="l1580">L'avoit fait fuir, qu’enfin son Voile estoit tombé ;</l>
+            <l n="1581" xml:id="l1581">Mais, Seigneur, concevez ce que devint Thisbé,</l>
+            <l n="1582" xml:id="l1582">Concevez (s’il se peut) son horreur impréveuë,</l>
+            <l n="1583" xml:id="l1583">Quand mon Fils estant prest d’expirer à sa veuë,</l>
+            <l n="1584" xml:id="l1584">La reconnût encore, &amp; luy tendant les bras</l>
+            <l n="1585" xml:id="l1585">Sembla, pour luy parler, retarder son trépas,</l>
+            <l n="1586" xml:id="l1586">Et luy dit son erreur d’une voix languissante.</l>
+            <l n="1587" xml:id="l1587">Alors je vis tomber Thisbé pasle, mourante,</l>
+            <l n="1588" xml:id="l1588">Et ne pûs discerner en cet afreux instant</l>
+            <l n="1589" xml:id="l1589">Qui de nous trois estoit le vif, ou le mourant ;</l>
+            <l n="1590" xml:id="l1590">Nos soûpirs seuls marquôient quelque reste de vie ;</l>
+            <l n="1591" xml:id="l1591">Je crûs que la Princesse estoit évanoüye,</l>
+            <l n="1592" xml:id="l1592">Moy j’estois immobile ; Helas ! dans ce moment</l>
+            <l n="1593" xml:id="l1593">Thisbé voit le fer teint du sang de son Amant,</l>
+            <l n="1594" xml:id="l1594">Soudain elle s’en perce, &amp; prenant la parole ;</l>
+            <l n="1595" xml:id="l1595">Arreste encore un peu ton ame qui s’envole,</l>
+            <l n="1596" xml:id="l1596">Cher Prince (a-t-elle dit) vois mon sang répandu.</l>
+            <l n="1597" xml:id="l1597">A ces funestes mots, je me tourne éperdu,</l>
+            <l n="1598" xml:id="l1598">Je luy saisis le bras, mais son sang qui boüillonne</l>
+            <l n="1599" xml:id="l1599">Rejailit sur Pirame, il le voit, en frissonne,</l>
+            <l n="1600" xml:id="l1600">Et ranimant encor un regard presque éteint,</l>
+            <l n="1601" xml:id="l1601">Par ce regard mourant il l’accuse, &amp; se plaint,</l>
+            <l n="1602" xml:id="l1602">Il veut parler, murmure, &amp; n’acheve qu’à peine :</l>
+            <l n="1603" xml:id="l1603">Un reproche confus, lors que la mort l’entraine ;</l>
+            <l n="1604" xml:id="l1604">Thisbé le suit de pres, un soûpir douloureux<pb n="69" xml:id="p69"/></l>
+            <l n="1605" xml:id="l1605">Avance son trépas, &amp; les unit tous deux,</l>
+            <l n="1606" xml:id="l1606">Et voyant expirer mon Fils &amp; la Princesse,</l>
+            <l n="1607" xml:id="l1607">La pitié malgré moy fait naitre une tendresse,</l>
+            <l n="1608" xml:id="l1608">Jusqu’alors inconnuë à mon barbare cœur,</l>
+            <l n="1609" xml:id="l1609">Et qui vange Thisbé de son Persécuteur :</l>
+            <l n="1610" xml:id="l1610">Oüy, Seigneur, tout remply de ma douleur amere,</l>
+            <l n="1611" xml:id="l1611">Quand il n’en est plus temps, je sens que je suis Pere,</l>
+            <l n="1612" xml:id="l1612">Leur image sanglante à toute heure me suit,</l>
+            <l n="1613" xml:id="l1613">Je n’ay que de l’horreur pour le jour qui me luit,</l>
+            <l n="1614" xml:id="l1614">Mes pleurs vous font assez connoitre mon envie :</l>
+            <l n="1615" xml:id="l1615">Hé de grace, Seigneur, qu’on m’arrache à la vie,</l>
+            <l n="1616" xml:id="l1616">C'est la seule faveur que demande à genoux</l>
+            <l n="1617" xml:id="l1617">Un Pere infortuné criminel envers vous,</l>
+            <l n="1618" xml:id="l1618">Aux Dieux, à la Nature, à vous, rendez justice,</l>
+            <l n="1619" xml:id="l1619">Et pour vanger le Fils, que le Pere périsse ;</l>
+            <l n="1620" xml:id="l1620">Je l’aurois déja fait, Seigneur, mais vos Soldats</l>
+            <l n="1621" xml:id="l1621">Ont eü la cruauté de m’arrester le bras.</l>
+          </sp>
+          <sp xml:id="V05-8" who="belus">
+            <l n="1622" xml:id="l1622">Quand je pleure Thisbé, je plains vostre infortune,</l>
+            <l n="1623" xml:id="l1623">Arsace, &amp; nous faisons une perte commune,</l>
+            <l n="1624" xml:id="l1624">Mon amour de ce crime a commis la moitié,</l>
+            <l n="1625" xml:id="l1625">Et je sens moins pour vous d’aigreur que de pitié.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="V06">
+          <sp xml:id="V06-1" who="hircus">
+            <l n="1626" xml:id="l1626">Ah Seigneur ! aprenez une étrange <ref target="#aventure">avanture*</ref>,<pb n="70" xml:id="p70"/></l>
+            <l n="1627" xml:id="l1627">Qui touche également l’Amour &amp; la Nature.</l>
+            <l n="1628" xml:id="l1628">On portoit au Palais les corps des deux Amans,</l>
+            <l n="1629" xml:id="l1629">Babylone éclatoit toute en gémissemens,</l>
+            <l n="1630" xml:id="l1630">La Reine a rencontré cet objet à sa veuë,</l>
+            <l n="1631" xml:id="l1631">Vos Gardes par respect ne l’ont point retenuë,</l>
+            <l n="1632" xml:id="l1632">Elle aproche, elle voit leurs corps ensanglantez</l>
+            <l n="1633" xml:id="l1633">Dans l’horreur de la mort conserver leurs beautez,</l>
+            <l n="1634" xml:id="l1634">Une tranquille paix marquoit sur leur visage</l>
+            <l n="1635" xml:id="l1635">Les traces de l’amour plutôt que de la rage,</l>
+            <l n="1636" xml:id="l1636">Et sans avoir cet air pasle, afreux de la mort,</l>
+            <l n="1637" xml:id="l1637">Tous morts ils paroissoient satisfaits de leur sort.</l>
+            <l n="1638" xml:id="l1638">La Reine à ce spéctacle a répandu des larmes,</l>
+            <l n="1639" xml:id="l1639">Et prenant la parole, elle a plaint tant de <ref target="#charme">charmes*</ref> :</l>
+            <l n="1640" xml:id="l1640">Helas ! (a-t-elle dit) Amans infortunez,</l>
+            <l n="1641" xml:id="l1641">Je vous ay par ma <ref target="#flame1">flâme*</ref> à la mort entrainez,</l>
+            <l n="1642" xml:id="l1642">Mais j’iray vous rejoindre en vos demeures sombres,</l>
+            <l n="1643" xml:id="l1643">Et je feray ma paix avec vos cheres Ombres ;</l>
+            <l n="1644" xml:id="l1644">N'attendez plus de moy de soûpirs, ny de pleurs,</l>
+            <l n="1645" xml:id="l1645">Je répandray du sang pour vanger vos malheurs ;</l>
+            <l n="1646" xml:id="l1646">Oüy, c’est icy qu’il faut montrer toute mon ame,</l>
+            <l n="1647" xml:id="l1647">Et qu’un bras de Héros punisse un cœur de Femme.</l>
+            <l n="1648" xml:id="l1648">A ces mots, d’un poignard caché pour ce dessein,</l>
+            <l n="1649" xml:id="l1649">Qu'elle a voulu porter devant nous dans son sein,</l>
+            <l n="1650" xml:id="l1650">J'ay rompu, grace aux Dieux, &amp; la force &amp; l’<ref target="#atteinte">atteinte*</ref> ;<pb n="71" xml:id="p71"/></l>
+            <l n="1651" xml:id="l1651">Mais, Seigneur, sa douleur nous donne de la crainte.</l>
+          </sp>
+          <sp xml:id="V06-2" who="belus">
+            <l n="1652" xml:id="l1652">Malgré son desespoir, allons la secourir,</l>
+            <l n="1653" xml:id="l1653">Elle est ma Mere, il faut l’empescher de mourir.</l>
+          </sp>
+          <sp xml:id="V06-3" who="arsace">
+            <l n="1654" xml:id="l1654">O Ciel ! ne laisse pas mon audace impunie ;</l>
+            <l n="1655" xml:id="l1655">Si Belus par pitié veut épargner ma vie,</l>
+            <l n="1656" xml:id="l1656">Que ta foudre me soit favorable aujourd’huy,</l>
+            <l n="1657" xml:id="l1657">Et soit moins pitoyable, ou plus juste que luy.</l>
+            <p rend="center">FIN.</p>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="privilege">
+        <p>Par Grace &amp; privilege du Roy, donné à Versailles le 22. jour de Fevrier 1674. Signé, Par le Roy en son Conseil, DES VIEUX : il est permis au Sieur Pradon, de faire imprimer, vendre &amp; debiter par tel Imprimeur ou Libraire qu’il voudra choisir, une Tragedie intitulée, PIRAME &amp; THISBÉ, de sa composition, &amp; ce durant le temps &amp; espace de six années entieres, à compter du jour que la dite Tragedie sera achevée d’imprimer pour la premiere fois : Et defenses sont faites à toutes Personnes de quelque qualité &amp; condition qu’elles soient, de l’imprimer, ou faire imprimer, vendre &amp; debiter pendant ledit temps, sans le consentement de l’Exposant, ou de ceux qui auront droit de luy, à peine aux contrevenans de trois mille livres d’amende, confiscation des Exemplaires contrefaits, &amp;de tous despens, dommages &amp; interests, ainsi qu’il est porté plus au long par ledit Privilege.</p>
+        <p>Registré sur le Livre de la Communauté, suivant l’Arrest de la Cour de Parlement.</p>
+        <p rend="right">Signé, Thierry, Syndic.</p>
+        <p rend="center">
+          <hi rend="i">Achevé d’imprimer pour la premiere fois<lb/>le 1. Mars 1674.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

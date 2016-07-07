@@ -91,6 +91,7 @@ class Dramacode
     'markdown' => array( "ext"=>'.txt', "mime"=>"text/markdown; charset=UTF-8", "title"=>"Texte brut" ),
     'iramuteq' => array( "ext"=>'.txt', "mime"=>"text/plain; charset=UTF-8", "title"=>"Texte brut avec métadonnées au format Iramuteq" ),
     'naked' => array( "ext"=>'.txt', "mime"=>"text/plain; charset=UTF-8", "label"=>"paroles", "title"=>"Texte dit, sans didascalies ou intitulés structurants" ),
+    'txm' => array( "ext"=>'.xml', "mime"=>"text/xml; charset=UTF-8", "label"=>"TXM", "title"=>"Texte structuré en répliques, sans didascalies" ),
     'html' => array( "ext"=>'.html', "mime"=>"text/html; charset=UTF-8", "title"=>"Page web complète avec table des matières"),
     'article' => array( "ext"=>'.html', "mime"=>"text/html; charset=UTF-8", "label"=>"fragment html", "title"=>"Page web insérable dans un site web"),
   );
@@ -186,14 +187,14 @@ CREATE INDEX play_setcode ON play(setcode);
       if (!$force && file_exists($destfile) && $srcmtime < filemtime($destfile)) continue;
       if ($format == 'kindle') continue; // kindle mobi should be done just after epub
       // delete destfile if exists ?
-      if (file_exists($destfile)) unlink($destfile);
       $echo .= " ".$format;
       // TODO git $destfile
       if ($format == 'html') $teinte->html($destfile, 'http://oeuvres.github.io/Teinte/');
-      if ($format == 'article') $teinte->article($destfile);
+      else if ($format == 'article') $teinte->article($destfile);
       else if ($format == 'markdown') $teinte->markdown($destfile);
       else if ($format == 'iramuteq') $teinte->iramuteq($destfile);
       else if ($format == 'naked') $teinte->naked($destfile);
+      else if ($format == 'txm') $teinte->txm($destfile);
       else if ($format == 'epub') {
         $livre = new Livrable_Tei2epub($teinte->dom(), self::$_logger);
         $livre->epub($destfile);

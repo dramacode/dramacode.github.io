@@ -1,0 +1,1185 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <text>
+    <body>
+      <div xml:id="personnages" type="set">
+        <pb n="III"/>
+      </div>
+      <div xml:id="I" type="act">
+        <pb n="A ; 1"/>
+        <div type="scene" xml:id="I01">
+          <sp xml:id="I01-1" who="lignon">
+            <p>O Amour, que tu agites mon esprit de diverses inquiétudes !</p>
+          </sp>
+          <sp xml:id="I01-2" who="jourdain">
+            <p>Charlote, Belle Charlote !</p>
+          </sp>
+          <sp xml:id="I01-3" who="lignon">
+            <p>Pourquoy, cruel Amour…</p>
+          </sp>
+          <sp xml:id="I01-4" who="jourdain">
+            <pb n="2"/>
+            <p>Si l’ardeur de la flâme…</p>
+          </sp>
+          <sp xml:id="I01-5" who="lignon">
+            <p>Faut-il que tu mettes la joye…</p>
+          </sp>
+          <sp xml:id="I01-6" who="jourdain">
+            <p>Que tes beaux yeux par leurs lumieres…</p>
+          </sp>
+          <sp xml:id="I01-7" who="lignon">
+            <p>A tourmenter les cœurs…</p>
+          </sp>
+          <sp xml:id="I01-8" who="jourdain">
+            <p>Ont jetté dans mon ame…</p>
+          </sp>
+          <sp xml:id="I01-9" who="lignon">
+            <p>Que tu soûmets à ton empire…</p>
+          </sp>
+          <sp xml:id="I01-10" who="jourdain">
+            <p>Peut estre assez heureuse…</p>
+          </sp>
+          <sp xml:id="I01-11" who="lignon">
+            <p>Si…..</p>
+          </sp>
+          <sp xml:id="I01-12" who="jourdain">
+            <p>Pour….</p>
+          </sp>
+          <sp xml:id="I01-13" who="lignon">
+            <p>Si tu veux montrer ton pouvoir…</p>
+          </sp>
+          <sp xml:id="I01-14" who="jourdain">
+            <p>Pour obtenir de tes bontez…</p>
+          </sp>
+          <sp xml:id="I01-15" who="lignon">
+            <pb n="3"/>
+            <p>En nous forçant d’aimer…</p>
+          </sp>
+          <sp xml:id="I01-16" who="jourdain">
+            <p>Le bonheur où j’aspire…</p>
+          </sp>
+          <sp xml:id="I01-17" who="lignon">
+            <p>Pourquoy ne fais-tu pas…</p>
+          </sp>
+          <sp xml:id="I01-18" who="jourdain">
+            <p>Les plus heureuses destinées…</p>
+          </sp>
+          <sp xml:id="I01-19" who="lignon">
+            <p>Qu’on aime avec plaisir…</p>
+          </sp>
+          <sp xml:id="I01-20" who="jourdain">
+            <p>N’égaleront point ma fortune…</p>
+          </sp>
+          <sp xml:id="I01-21" who="lignon">
+            <p>Et par quelle….</p>
+          </sp>
+          <sp xml:id="I01-22" who="jourdain">
+            <p>Mais si toute….</p>
+          </sp>
+          <sp xml:id="I01-23" who="lignon">
+            <p>Et par quelle raison, dy-moi…</p>
+          </sp>
+          <sp xml:id="I01-24" who="jourdain">
+            <p>Mais si toute mon ardeur…</p>
+          </sp>
+          <sp xml:id="I01-25" who="lignon">
+            <p>Veux-tu que tes moindres plaisirs…</p>
+          </sp>
+          <sp xml:id="I01-26" who="jourdain">
+            <pb n="4"/>
+            <p>Tous mes soins et tous mes respects…</p>
+          </sp>
+          <sp xml:id="I01-27" who="lignon">
+            <p>Soient achetez de tant de
+                peines…</p>
+          </sp>
+          <sp xml:id="I01-28" who="jourdain">
+            <p>Ne peuvent te fléchir…</p>
+          </sp>
+          <sp xml:id="I01-29" who="lignon">
+            <p>Que les douc…..</p>
+          </sp>
+          <sp xml:id="I01-30" who="jourdain">
+            <p>Oste-toy de là, ne vois-tu pas bien que tu m’interromps ?</p>
+          </sp>
+          <sp xml:id="I01-31" who="lignon">
+            <p>Je voy que tu m’interromps de mesme.</p>
+          </sp>
+          <sp xml:id="I01-32" who="jourdain">
+            <p>Oüy ; mais je suis un Amant qui ay besoin de cette place pour soûpirer.</p>
+          </sp>
+          <sp xml:id="I01-33" who="lignon">
+            <p>Je suis aussi un Amant qui ay affaire de ce lieu-cy pour resver à mon amour.</p>
+          </sp>
+          <sp xml:id="I01-34" who="jourdain">
+            <pb n="5"/>
+            <p>Vous estes Amant ?</p>
+          </sp>
+          <sp xml:id="I01-35" who="lignon">
+            <p>Oüy.</p>
+          </sp>
+          <sp xml:id="I01-36" who="jourdain">
+            <p>Peut-on vous demander, Pasteur, qui est la Bergere que vous aimez ?</p>
+          </sp>
+          <sp xml:id="I01-37" who="lignon">
+            <p>Helas ! Pasteur, la Personne la plus aimable qui soit en ce Païs.</p>
+          </sp>
+          <sp xml:id="I01-38" who="jourdain">
+            <p>Vous l’appellez ?</p>
+          </sp>
+          <sp xml:id="I01-39" who="lignon">
+            <p>La Nymphe Charlote.</p>
+          </sp>
+          <sp xml:id="I01-40" who="jourdain">
+            <p>Eh ?</p>
+          </sp>
+          <sp xml:id="I01-41" who="lignon">
+            <p>Comment ?</p>
+          </sp>
+          <sp xml:id="I01-42" who="jourdain">
+            <p>Vous vous moquez.</p>
+          </sp>
+          <sp xml:id="I01-43" who="lignon">
+            <p>Moy !</p>
+          </sp>
+          <sp xml:id="I01-44" who="jourdain">
+            <pb n="6"/>
+            <p>Oüy.</p>
+          </sp>
+          <sp xml:id="I01-45" who="lignon">
+            <p>Plust au Ciel que je me moquasse, et que cela ne fust point vray !</p>
+          </sp>
+          <sp xml:id="I01-46" who="jourdain">
+            <p>Vous aimez la Nymphe Charlote, Fille du Notaire du Village ?</p>
+          </sp>
+          <sp xml:id="I01-47" who="lignon">
+            <p>Fille du Juge du Village.</p>
+          </sp>
+          <sp xml:id="I01-48" who="jourdain">
+            <p>Promise au Marinier Pierrot ?</p>
+          </sp>
+          <sp xml:id="I01-49" who="lignon">
+            <p>Au Marinier Pierrot.</p>
+          </sp>
+          <sp xml:id="I01-50" who="jourdain">
+            <p>Ah !</p>
+          </sp>
+          <sp xml:id="I01-51" who="lignon">
+            <p>Quoy ?</p>
+          </sp>
+          <sp xml:id="I01-52" who="jourdain">
+            <p>Je l’aime aussy.</p>
+          </sp>
+          <sp xml:id="I01-53" who="lignon">
+            <p>Vous l’aimez aussi, Pasteur ?</p>
+          </sp>
+          <sp xml:id="I01-54" who="jourdain">
+            <pb n="7"/>
+            <p>Oüy, Pasteur ; mais puis-je sçavoir le nom de mon Rival ?</p>
+          </sp>
+          <sp xml:id="I01-55" who="lignon">
+            <p>Je m’appelle Lignon.</p>
+          </sp>
+          <sp xml:id="I01-56" who="jourdain">
+            <p>Et moi, Pasteur, je m’appelle Jourdain.</p>
+          </sp>
+          <sp xml:id="I01-57" who="lignon">
+            <p>Helas ! faut-il que deux Fleuves
+                soient réduits à se couper la gorge ensemble ?</p>
+          </sp>
+          <sp xml:id="I01-58" who="jourdain">
+            <p>Et pourquoy cela ?</p>
+          </sp>
+          <sp xml:id="I01-59" who="lignon">
+            <p>Pour voir qui de nous deux demeurera son Amant.</p>
+          </sp>
+          <sp xml:id="I01-60" who="jourdain">
+            <p>Il y a des Remedes plus humains que cela, si nous voulons nous en servir.</p>
+          </sp>
+          <sp xml:id="I01-61" who="lignon">
+            <p>Et quels ?</p>
+          </sp>
+          <sp xml:id="I01-62" who="jourdain">
+            <pb n="8"/>
+            <p>Ouy, avez-vous declaré votre amour ?</p>
+          </sp>
+          <sp xml:id="I01-63" who="lignon">
+            <p>Non.</p>
+          </sp>
+          <sp xml:id="I01-64" who="jourdain">
+            <p>Allons chercher ce rare Objet, pour le prier de choisir de nous deux ; et
+                celuy qui sera refusé, pourra se pendre aprés, s’il le veut.</p>
+          </sp>
+          <sp xml:id="I01-65" who="lignon">
+            <p>Je consens à cela. Mais la voicy.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I02">
+          <sp xml:id="I02-1" who="jourdain">
+            <p>Belle Nymphe, vous voyez icy deux Fleuves tous deux amoureux de vous.</p>
+          </sp>
+          <sp xml:id="I02-2" who="lignon">
+            <pb n="9"/>
+            <p>Oüy, nous sommes deux pauvres Amans nécessiteux, qui viennent à vostre Porte vous
+                demander l’aumône de vos bonnes graces.</p>
+          </sp>
+          <sp xml:id="I02-3" who="jourdain">
+            <p>Nous venons mettre entre vos mains nostre diférent amoureux.</p>
+          </sp>
+          <sp xml:id="I02-4" who="lignon">
+            <p>Vous pouvez regarder, Bergere, qui de moy ou de luy vous voulez accepter.</p>
+          </sp>
+          <sp xml:id="I02-5" who="charlote">
+            <p>N’avez-vous point veu Pierrot ? Je ne sçay où il est depuis ce matin qu’il s’est
+                mis en Mer avec la Chaloupe.</p>
+          </sp>
+          <sp xml:id="I02-6" who="jourdain">
+            <p>Ah, trois et quatre fois belle et trop belle Beauté, nous n’avons rien veu icy que
+                le mérite des perfections de vos avantages.</p>
+          </sp>
+          <sp xml:id="I02-7" who="lignon">
+            <pb n="10"/>
+            <p>Cela est vray, belle Nymphe.</p>
+          </sp>
+          <sp xml:id="I02-8" who="charlote">
+            <p>Pierre ne veut point que j’entende tout cela, et il m’a dit qu’il battra tous ceux
+                qui m’en parleront.</p>
+          </sp>
+          <sp xml:id="I02-9" who="jourdain">
+            <p>Cela seroit bien cruel, belle Nymphe, que nous fussions battus pour vos beaux
+                yeux.</p>
+          </sp>
+          <sp xml:id="I02-10" who="lignon">
+            <p>Cela est vray, belle Nymphe.</p>
+          </sp>
+          <sp xml:id="I02-11" who="jourdain">
+            <p>Pasteur, pour ne point faire de jalousie entre nous, baisons-luy chacun une
+                main.</p>
+          </sp>
+          <sp xml:id="I02-12" who="charlote">
+            <p>Pour ne point faire de jalousie entre vous, voila chacun un soufflet.</p>
+          </sp>
+          <sp xml:id="I02-13" who="lignon">
+            <p>Ah, Bergere, le Ciel vous a-t-il<pb n="11"/> faite si charmante pour estre si
+                cruelle ?</p>
+          </sp>
+          <sp xml:id="I02-14" who="jourdain">
+            <p>Ah, mon pauvre Lignon !</p>
+          </sp>
+          <sp xml:id="I02-15" who="lignon">
+            <p>Ah, mon pauvre Jourdain !</p>
+          </sp>
+          <sp xml:id="I02-16" who="jourdain">
+            <p>Pauvres Fleuves méprisez !</p>
+          </sp>
+          <sp xml:id="I02-17" who="lignon">
+            <p>Il se faut pendre aprés cela.</p>
+          </sp>
+          <sp xml:id="I02-18" who="jourdain">
+            <p>Tu as raison, mon pauvre Fleuve, vien que je te pende le premier, et tu me pendras
+                aprés.</p>
+          </sp>
+          <sp xml:id="I02-19" who="lignon">
+            <p>Non, ne nous pendons point. Je trouve que pour nostre disgrace ce n’est pas assez
+                de se pendre.</p>
+          </sp>
+          <sp xml:id="I02-20" who="jourdain">
+            <p>Ah ! voicy nostre Rival ; retirons-nous, Pasteur, de peur de quelques demeslez.</p>
+            <p/>
+          </sp>
+          <sp xml:id="I02-21" who="lignon">
+            <pb n="12"/>
+            <p>Cela est vray, Pasteur.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I03">
+          <sp xml:id="I03-1" who="charlote">
+            <p><ref target="#parguenne">Pargué*</ref> Pierrot, tu t’es donc trouvé là bien à
+                point ?</p>
+          </sp>
+          <sp xml:id="I03-2" who="pierrot">
+            <p><ref target="#parguenne">Parguenne*</ref> il ne s’en est pas fallu l’époisseur d’une <ref target="#eplingue">éplingue*</ref> qu’ils ne se sayent
+                nayez tous deux.</p>
+          </sp>
+          <sp xml:id="I03-3" who="charlote">
+            <p>C’est donc le coup de vent da matin qui les a renvarsez dans la Mar.</p>
+          </sp>
+          <sp xml:id="I03-4" who="pierrot">
+            <p>Aga quien, Charlote, je m’en vas te conter tout fin droit comme<pb n="B ; 13"/> cela est venu. Car, comme dit l’autre, je les ay le premier avisez,
+                avisez le premier je les ay : Enfin j’esquions sur le bord de la mar moy et le gros
+                Lucas, et je nous amusions à batifoler avec des motes de tarre, que je nous jequions
+                à la teste ; car, comme tu sçais bian, le gros Lucas aime à batifoler, et moi par
+                  foüas je
+                batifole itou ; en batifolant donc, pisque batifoler y a, j’ay aperceu de tout loin
+                queuque chose qui groüilloit dans liau, et qui venoit comme envars nous par
+                secousse. Je voyais ça fixiblement*, et pis tout d’un coup je voyais que je ne
+                voyais plus rian. Ah Lucas, çay-je fait, je pense que vla des hommes qui nageant
+                là-bas. Voire, ce m’a-t-il fait, t’as esté au trépassement d’un chat, tas la veüe trouble. <ref target="#palsangué">Palsanguenne*</ref>,
+                çay-je fait, je n’ay point la veüe trouble, ce sont des hommes ;<pb n="14"/> point
+                du tout, ce m’a-t-il fait, tas la <ref target="#barluë">barluë*</ref> ; veux-tu gager, çay-je fait, que je n’ai
+                point la <ref target="#barluë">barluë*</ref>, çay-je fait, et que se sont deux hommes, çay-je fait, qui nageant
+                droit icy ? çay-je fait ; <ref target="#morguienne">morguienne*</ref>, ce m’a-t-il fait, je gage que non ; oça,
+                çay-je fait, veux-tu gager dix sols que si ? Je le veux bian, ce m’a-t-il fait, et
+                pour te montrer, vela argent sur jeu, ce m’a-t-il fait ; moy je n’ay esté ny fou ny
+                étourdy, j’ai bravement bouté* à tarre quatre pieces tapées, et cinq sols en
+                  double, <ref target="#jernidenne">jarniguenne*</ref> aussi hardiment que si
+                j’avois avalé un varre de vin ; car je sis hazardeux, moy, et je vas à la
+                  débandade, je sçavas bien ce que je faisais pourtant, queuque gniais. Enfin donc je
+                n’avons pas pû tost eu gagé, que j’avons veu les deux hommes tout à plein qui nous faisians signe de les<pb n="15"/> aller querir, et
+                moy de tirer auparavant les enjeux. Allons Lucas, çay-je dit, tu vois bien qu’ils
+                nous appellons, allons viste à leur secours. Non, ce m’a-t-il dit, ils m’ont fait
+                pardre, adonc tant y a qu’à la parfin, pour faire court, je l’ay tant
+                sarmonné que je nous sommes bouté* dans une barque, et pis j’avons tant fait cahin caha, que je les avons tiré
+                de liau, et pis je les avons mené cheu nous auprés du feu, et pis ils se sont
+                dépouïllez tout nuds pour se sécher, et pis il en est venu encore deux de la mesme
+                bande, qui s’estians sauvez tous seuls. Vela justement, Charlote, comme tout ça
+                s’est fait.</p>
+          </sp>
+          <sp xml:id="I03-5" who="charlote">
+            <p>Il y en a donc un, Pierrot, mieux fait que les autres.</p>
+          </sp>
+          <sp xml:id="I03-6" who="pierrot">
+            <p>Oüy, c’est le Maistre. Il faut que<pb n="16"/> ce soit queuque gros Monsieu ; car
+                il a du dor à son habit, tout
+                depis le haut jusqu’en bas, et ceux qui le servons sont des Monsieux eux-mesmes, et
+                  stanpandant tout gros Monsieu qu’il est, il se seroit ma figue noyé, si je
+                n’avieme esté là.</p>
+          </sp>
+          <sp xml:id="I03-7" who="charlote">
+            <p>Ardez un peu.</p>
+          </sp>
+          <sp xml:id="I03-8" who="pierrot">
+            <p>Oh, <ref target="#parguenne">parguenne*</ref> sans nous il en avoit pour sa mene de feuve.</p>
+          </sp>
+          <sp xml:id="I03-9" who="charlote">
+            <p>Est-ce qu’il est encore tout nud, Pierrot ?</p>
+          </sp>
+          <sp xml:id="I03-10" who="pierrot">
+            <p>Nanain, ils l’avon r’habillé devant nou. Mon Dieu, je n’en avois jamais veu
+                s’habiller, que d’histoire et d’angins gorniaux ils boutons*, ces Messieus-là : Je me pardrais là-dedans, pour moy, et
+                j’estois tout<pb n="17"/> ébauby de voir ça : Tien Charlote, ils avons des cheveux qui ne tenans
+                point à leurs testes, et ils boutons ça aprés tout, comme un gros bonnet de
+                  filace. Ils ant des chemises qui ant des manches où
+                j’entrerien tout brandy toy et moy. En lieu
+                  d’audechausse ils portons un garderobe aussi large que d’icy à Pasques.
+                En lieu de pourpoint, de petites
+                brassieres qui ne leur venons pas jusqu’au brichet, et en lieu de rabat, un grand mouchoir de cou à risiau, avec quatre
+                grosses houpes
+                de linge qui leur pendon sur l’estomac. Ils avon itou d’autres petits rabats au bout
+                des bras, et parmi tout ça tant de ribans que c’est grande piquié. Il n’y a pas
+                jusqu’aux souliez qui n’en soiont tous farcy, tout depuis un bout jusqu’à l’autre ;
+                et ils sont faits d’une façon que je me romprois le cou aveuc.</p>
+          </sp>
+          <sp xml:id="I03-11" who="charlote">
+            <pb n="18"/>
+            <p>Il faut que j’aille voir un peu ça.</p>
+          </sp>
+          <sp xml:id="I03-12" who="pierrot">
+            <p>Oh, écoute un peu auparavant, Charlote, j’ay queuque chose à te dire, moy.</p>
+          </sp>
+          <sp xml:id="I03-13" who="charlote">
+            <p>Qu’est-ce que c’est ?</p>
+          </sp>
+          <sp xml:id="I03-14" who="pierrot">
+            <p>Vois-tu Charlote, il faut, comme dit l’autre, que je debonde mon cœur, je t’aime, tu le
+                sçais bian, et je somme pour estre mariez ensemble ;
+                mais <ref target="#morguienne">mordienne*</ref> je ne suis point satisfait de toy.</p>
+          </sp>
+          <sp xml:id="I03-15" who="charlote">
+            <p>Qu’est-ce donc qu’il y a ?</p>
+          </sp>
+          <sp xml:id="I03-16" who="pierrot">
+            <p>Il y a que tu me chagrines l’esprit, franchement.</p>
+          </sp>
+          <sp xml:id="I03-17" who="charlote">
+            <p>Comment donc ?</p>
+          </sp>
+          <sp xml:id="I03-18" who="pierrot">
+            <pb n="19"/>
+            <p><ref target="#testedienne">Testedienne*</ref>, tu ne m’aimes point.</p>
+          </sp>
+          <sp xml:id="I03-19" who="charlote">
+            <p>N’est-ce que ça ?</p>
+          </sp>
+          <sp xml:id="I03-20" who="pierrot">
+            <p>Oüy ce n’est que ça, et c’est bian assez.</p>
+          </sp>
+          <sp xml:id="I03-21" who="charlote">
+            <p>Mais tu me dis toûjours la mesme chose.</p>
+          </sp>
+          <sp xml:id="I03-22" who="pierrot">
+            <p>Je te dis toûjours la mesme chose, parce que c’est toûjours la mesme chose, et si
+                ce n’estoit pas toûjours la mesme chose, je ne te dirois pas toûjours la mesme
+                chose.</p>
+          </sp>
+          <sp xml:id="I03-23" who="charlote">
+            <p>Que veux-tu ?</p>
+          </sp>
+          <sp xml:id="I03-24" who="pierrot">
+            <p><ref target="#jernidenne">Jernidienne*</ref> je veux que tu m’aimes.</p>
+          </sp>
+          <sp xml:id="I03-25" who="charlote">
+            <p>Est-ce que je ne t’aime pas ?</p>
+          </sp>
+          <sp xml:id="I03-26" who="pierrot">
+            <pb n="20"/>
+            <p>Non, tu ne m’aimes pas ; et si je fais tout ce que je pis pour ça. Je t’achette sans reproche
+                des ribans à tous les maciez qui passon. Je me romps le cou à t’aller dénicher des marles.
+                Je fais joüer pour toy les Vielleux quand se vient
+                ta Feste, et tout ça comme si je me frapois la teste contre un mur. Vois-tu, ça
+                n’est ny bian ny honneste de n’aimer pas les gens qui nous aimon.</p>
+          </sp>
+          <sp xml:id="I03-27" who="charlote">
+            <p>Mais je t’aime aussi.</p>
+          </sp>
+          <sp xml:id="I03-28" who="pierrot">
+            <p>Oüy, tu m’aimes d’une belle dégaine.</p>
+          </sp>
+          <sp xml:id="I03-29" who="charlote">
+            <p>Qu’est-ce que tu veux qu’on fasse ?</p>
+          </sp>
+          <sp xml:id="I03-30" who="pierrot">
+            <p>Je veux que l’on fasse comme on fait quand on aime comme il faut.</p>
+          </sp>
+          <sp xml:id="I03-31" who="charlote">
+            <pb n="21"/>
+            <p>Mais je t’aime comme il faut.</p>
+          </sp>
+          <sp xml:id="I03-32" who="pierrot">
+            <p>Non, quand ça est ça se voit, et l’an fait mille petites singeries, quand on les
+                aime du bon du cœur. Regarde la grosse Thomase, comme elle est assotée du jeune Robain, alle est toûjours entour de luy à l’agasser, et
+                ne le laisse jamais en repos, toûjours alle luy fait queuque niche, ou ly <ref target="#bailler">baille*</ref>
+                quelque taloche en passant ; et l’autre jour qu’il estoit assis sur un escabeau alle
+                fut le tirer de dessous ly, et le fit choir de tout son long par tarre. <ref target="#jernidenne">Jarny*</ref> vela
+                où on voit les gens qui aimon ; mais toy tu ne me dis jamais mot ; tés toûjours là
+                comme une vray souche de bois, et je passerois vingt fois devant toy que tu ne te
+                  groüillerois pas pour me <ref target="#bailler">bailler*</ref> le
+                moindre coup, ou me dire la<pb n="22"/> moindre chose. <ref target="#ventredienne">Ventredienne*</ref> ça n’est pas
+                bian aprés tout, et tés trop froide pour les gens.</p>
+          </sp>
+          <sp xml:id="I03-33" who="charlote">
+            <p>Dame, c’est mon hymeur, on ne peut pas me refondre.</p>
+          </sp>
+          <sp xml:id="I03-34" who="pierrot">
+            <p>Il n’y a hymeur qui tienne, quand l’an a de l’amitié pour les parsonnes, on en
+                donne toûjours queuque petite signifiance.</p>
+          </sp>
+          <sp xml:id="I03-35" who="charlote">
+            <p>Hé bien, laisse-moy en repos, et vas en chercher quelque autre.</p>
+          </sp>
+          <sp xml:id="I03-36" who="pierrot">
+            <p>Hé bian, vela pas mon conte ; <ref target="#testedienne">testigué*</ref> si tu m’aimois me
+                dirois-tu ça ?</p>
+          </sp>
+          <sp xml:id="I03-37" who="charlote">
+            <p>Qu’est-ce que tu viens aussi me tarabuster l’esprit ?</p>
+          </sp>
+          <sp xml:id="I03-38" who="pierrot">
+            <p><ref target="#morguienne">Morgué*</ref>, queu mal te fais-je ? je<pb n="23"/> ne te demande qu’un peu plus
+                d’amiquié.</p>
+          </sp>
+          <sp xml:id="I03-39" who="charlote">
+            <p>Eh bien va, ça viendra sans y songer.</p>
+          </sp>
+          <sp xml:id="I03-40" who="pierrot">
+            <p>Touche donc là, Charlote.</p>
+          </sp>
+          <sp xml:id="I03-41" who="charlote">
+            <p>Eh bien, tien.</p>
+          </sp>
+          <sp xml:id="I03-42" who="pierrot">
+            <p>Promets-moy que tu tascheras de m’aimer d’avantage.</p>
+          </sp>
+          <sp xml:id="I03-43" who="charlote">
+            <p>Hé, Pierrot, est-ce là ce Monsieu ?</p>
+          </sp>
+          <sp xml:id="I03-44" who="pierrot">
+            <p>Oüy, le vela.</p>
+          </sp>
+          <sp xml:id="I03-45" who="charlote">
+            <p>Helas, c’eust esté dommage qu’il eust esté noyé.</p>
+          </sp>
+          <sp xml:id="I03-46" who="pierrot">
+            <p>Je revian toute à l’heure, je m’en vay boire chopine, pour me
+                rebou-<pb n="24"/> ter tant soit peu de la fatigue que j’ay euë.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I04">
+          <sp xml:id="I04-1" who="gusman">
+            <p>Par ma foy il semble que nous n’ayons jamais bû que du vin, et nous voila aussi
+                bien remis que si de rien n’avoit esté ; mais, Monsieur, dites-moy un peu, s’il vous
+                plaist, tous ces vœux que nous avons faits avec tant d’ardeur dans le péril sur la
+                Mer, seront-ils executez avec la mesme ?</p>
+          </sp>
+          <sp xml:id="I04-2" who="juan">
+            <p>Tais-toy. Ah ! la jolie Personne, Gusman.</p>
+          </sp>
+          <sp xml:id="I04-3" who="gusman">
+            <pb n="C ; 25"/>
+            <p>La peste, le joly tendron !</p>
+          </sp>
+          <sp xml:id="I04-4" who="juan">
+            <p>Il faut l’aborder. Comment ma belle, un lieu si sauvage peut produire une personne
+                comme vous ? Ah, vous n’estes point faite pour habiter les deserts. Regarde, Gusman,
+                  qu’elle est bien
+                  prise.</p>
+          </sp>
+          <sp xml:id="I04-5" who="gusman">
+            <p>Et vous aussi.</p>
+          </sp>
+          <sp xml:id="I04-6" who="juan">
+            <p>Est-ce que vous voudriez, ma belle, demeurer toute vostre vie dans un lieu pauvre
+                et inhabité comme celui-cy ?</p>
+          </sp>
+          <sp xml:id="I04-7" who="charlote">
+            <p>Ho, Monsieur, il y a bien des filles et des garçons dans notre hameau.</p>
+          </sp>
+          <sp xml:id="I04-8" who="juan">
+            <p>Il faut que vous quittiez une si triste demeure.</p>
+          </sp>
+          <sp xml:id="I04-9" who="charlote">
+            <pb n="26"/>
+            <p>Ho, Monsieur, mon pere me vouloit marier au gros Lucas, mais ma mere n’a pas voulu,
+                à cause qu’il me falloit aller demeurer à trois lieuës d’icy avec luy.</p>
+          </sp>
+          <sp xml:id="I04-10" who="juan">
+            <p>Sa simplicité me charme : Et qui est-t-il votre pere ?</p>
+          </sp>
+          <sp xml:id="I04-11" who="charlote">
+            <p>Il est Juge d’icy.</p>
+          </sp>
+          <sp xml:id="I04-12" who="juan">
+            <p>Vous estes fille asseurément à vostre âge.</p>
+          </sp>
+          <sp xml:id="I04-13" who="charlote">
+            <p>On me va marier.</p>
+          </sp>
+          <sp xml:id="I04-14" who="juan">
+            <p>Et à qui, ma belle ?</p>
+          </sp>
+          <sp xml:id="I04-15" who="charlote">
+            <p>A Pierrot qui demeure auprés de cheux nous.</p>
+          </sp>
+          <sp xml:id="I04-16" who="juan">
+            <p>Quoy, Pierrot aura ce bonheur-<pb n="27"/> là ? Pierrot possedera ce tresor ? non,
+                non, vous n’estes point destinée pour Pierrot, un rustique, un vilain ; il vous faut
+                un homme comme moy qui vous fasse brave, qui…
+                comment vous appellez-vous ?</p>
+          </sp>
+          <sp xml:id="I04-17" who="charlote">
+            <p>Charlote, Monsieur.</p>
+          </sp>
+          <sp xml:id="I04-18" who="juan">
+            <p>Fy, il faut qu’on ne parle à vous qu’avec respect, et qu’on vous appelle
+                  Madame ; n’aimeriez-vous pas mieux estre avec moi ? car,
+                belle Charlote, je vous aime passionnément.</p>
+          </sp>
+          <sp xml:id="I04-19" who="charlote">
+            <p>O Monsieur, vous ne voudriez pas aimer une petite fille comme moy.</p>
+          </sp>
+          <sp xml:id="I04-20" who="gusman">
+            <p>Si fait, si fait, je vous en répons.</p>
+          </sp>
+          <sp xml:id="I04-21" who="charlote">
+            <pb n="28"/>
+            <p>Mais, Monsieur, il faut demander à ma mere.</p>
+          </sp>
+          <sp xml:id="I04-22" who="gusman">
+            <p>Il est homme d’ordre, et fera les choses dans les formes.</p>
+          </sp>
+          <sp xml:id="I04-23" who="charlote">
+            <p>Et il ne faut pas que Pierrot le sçache, car il se fâcheroit.</p>
+          </sp>
+          <sp xml:id="I04-24" who="gusman">
+            <p>Mon Maistre est secret.</p>
+          </sp>
+          <sp xml:id="I04-25" who="juan">
+            <p>Pour moy je suis enchanté, quelle taille ! tournez-vous un peu, elle est
+                charmante.</p>
+          </sp>
+          <sp xml:id="I04-26" who="charlote">
+            <p>O Monsieur, quand j’ay mes habits des Dimanches.</p>
+          </sp>
+          <sp xml:id="I04-27" who="juan">
+            <p>Ah ! les belles dents, montrez-les-moy encore de grace ; quel rang de perles,
+                quelles mains, elles sont faites au tour ; quelle blancheur !</p>
+          </sp>
+          <sp xml:id="I04-28" who="charlote">
+            <pb n="29"/>
+            <p>O Monsieur, si j’avois sçeu ça, je les aurois lavées ce matin avec du son, elles seroient bien plus blanches.</p>
+          </sp>
+          <sp xml:id="I04-29" who="juan">
+            <p>Ma belle enfant, souffrez qu’un baisé….</p>
+          </sp>
+          <sp xml:id="I04-30" who="charlote">
+            <p>O Monsieur, ma mere m’a dit qu’il ne falloit pas baiser les hommes, je ne baise pas
+                  seulement Pierrot.</p>
+          </sp>
+          <sp xml:id="I04-31" who="juan">
+            <p>Tant mieux, ma belle, tant mieux, abandonnez-moy seulement vostre main ; je ne me
+                sens pas de joye et rien n’égale le ravissement où je suis.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I05">
+          <pb n="30"/>
+          <sp xml:id="I05-1" who="pierrot">
+            <p>Tout doucement, Monsieur, tenez-vous, s’il vous plaist, vous vous échaufez trop, et
+                vous pourriais gagner la puresie.</p>
+          </sp>
+          <sp xml:id="I05-2" who="juan">
+            <p>Qui m’amene icy cét impertinent ?</p>
+          </sp>
+          <sp xml:id="I05-3" who="pierrot">
+            <p>Je vous dis qu’ou vous teniais, et que vous ne caressiais pas nos accordées.</p>
+          </sp>
+          <sp xml:id="I05-4" who="juan">
+            <p>Ah ! que de brüit.</p>
+          </sp>
+          <sp xml:id="I05-5" who="pierrot">
+            <pb n="31"/>
+            <p><ref target="#jernidenne">Jernidienne*</ref>, ce n’est pas comme ça qu’il faut pousser les gens.</p>
+          </sp>
+          <sp xml:id="I05-6" who="charlote">
+            <p>Laisse-le faire aussi, Pierrot.</p>
+          </sp>
+          <sp xml:id="I05-7" who="pierrot">
+            <p>Comment, que je le laisse faire ; je ne veux pas, moy.</p>
+          </sp>
+          <sp xml:id="I05-8" who="juan">
+            <p>Ah…</p>
+          </sp>
+          <sp xml:id="I05-9" who="pierrot">
+            <p><ref target="#testedienne">Testedienne*</ref>, parce que vous estes Monsieu, vous viendrez caresser nos femmes à
+                notte barbe ? Allez-vous-en caresser les vostres.</p>
+          </sp>
+          <sp xml:id="I05-10" who="juan">
+            <p>Hen.</p>
+          </sp>
+          <sp xml:id="I05-11" who="pierrot">
+            <p>Hen ? <ref target="#testedienne">Tastigué*</ref> ne me frapez pas. Oh, <ref target="#jernidenne">jarnigué*</ref>, <ref target="#ventredienne">ventregué*</ref>, <ref target="#palsangué">palsangué*</ref>, <ref target="#morguienne">mordienne*</ref>,
+                ça n’est pas bien de battre les gens, et ce n’est pas là la récompense de vous avoir
+<pb n="32"/> sauvé d’estre noyé.</p>
+          </sp>
+          <sp xml:id="I05-12" who="charlote">
+            <p>Pierrot, ne te fasche point.</p>
+          </sp>
+          <sp xml:id="I05-13" who="pierrot">
+            <p>Je me veux fascher, et t’és une vilaine, toy, d’endurer qu’on te cajolle.</p>
+          </sp>
+          <sp xml:id="I05-14" who="charlote">
+            <p>Il n’y a pas de quoy te <ref target="#bouter">bouter*</ref> en colére.</p>
+          </sp>
+          <sp xml:id="I05-15" who="pierrot">
+            <p>Quement, <ref target="#jernidenne">jarny*</ref>, tu m’és promise.</p>
+          </sp>
+          <sp xml:id="I05-16" who="charlote">
+            <p>Est-ce que tu és fasché, Pierrot, que je devienne Madame ?</p>
+          </sp>
+          <sp xml:id="I05-17" who="pierrot">
+            <p><ref target="#jernidenne">Jarnigué*</ref>, oüy, j’aime mieux te voir crever, que de te voir à un autre.</p>
+          </sp>
+          <sp xml:id="I05-18" who="charlote">
+            <p>Va va Pierrot, tu porteras des fromages cheux nous.</p>
+          </sp>
+          <sp xml:id="I05-19" who="pierrot">
+            <pb n="33"/>
+            <p><ref target="#ventredienne">Ventredienne*</ref>, je n’y en porteray jamais quand tu m’en poirois deux fois
+                autant qu’un autre ; est-ce donc comme ça que t’escoutes ce qu’il te dit ?
+                <ref target="#morguienne">Morguienne*</ref>, si j’avois sceu ça tantost, je me serois bien gardé de le tirer de
+                liau, et je luy aurois <ref target="#bailler">baillé*</ref> un bon coup d’aviron sur la teste.</p>
+          </sp>
+          <sp xml:id="I05-20" who="juan">
+            <p>Qu’est-ce que vous dites ?</p>
+          </sp>
+          <sp xml:id="I05-21" who="pierrot">
+            <p><ref target="#jernidenne">Jarniguenne*</ref>, je ne crains parsonne.</p>
+          </sp>
+          <sp xml:id="I05-22" who="juan">
+            <p>Attendez-moy un peu.</p>
+          </sp>
+          <sp xml:id="I05-23" who="pierrot">
+            <p>Je me mocque de tout, moy.</p>
+          </sp>
+          <sp xml:id="I05-24" who="juan">
+            <p>Voyons cela.</p>
+          </sp>
+          <sp xml:id="I05-25" who="pierrot">
+            <p>J’en avons bian veu d’autres.</p>
+          </sp>
+          <sp xml:id="I05-26" who="gusman">
+            <pb n="34"/>
+            <p>Eh ! laisse-le faire, mon pauvre garçon, et ne luy dis rien.</p>
+          </sp>
+          <sp xml:id="I05-27" who="pierrot">
+            <p>Je veux luy dire, moy.</p>
+          </sp>
+          <sp xml:id="I05-28" who="juan">
+            <p>Te voila payé de ta charité.</p>
+          </sp>
+          <sp xml:id="I05-29" who="pierrot">
+            <p><ref target="#jernidenne">Jarny*</ref>, je vas dire à ton pere tout ce ménage-cy.</p>
+          </sp>
+          <sp xml:id="I05-30" who="juan">
+            <p>Ah, Gusman, que je suis épris de cét aimable enfant ; mais que je crains qu’elle ne
+                reçoive quelque rude reprimande pour moy.</p>
+          </sp>
+          <sp xml:id="I05-31" who="gusman">
+            <p>Tout de bon, vous tient-elle au cœur ?</p>
+          </sp>
+          <sp xml:id="I05-32" who="juan">
+            <p>Oüy, Gusman, et je craindrois plus que la mort qu’elle fust querellée par son
+                pere.</p>
+          </sp>
+          <sp xml:id="I05-33" who="gusman">
+            <p>Ecoutez, pour servir vostre passion, vous sçavez que j’ay accoûtumé d’entreprendre
+                bien des choses ; laissez-moy faire, j’ay déja beu avec son pere, et ce sont de ces
+                bonnes gens qui font connnoissance en deux verres de vin. J’imagine une piece assez
+                plaisante pour l’intimider et l’empescher de quereller sa fille. Reposez-vous sur
+                moy ; je luy vay mettre mon camarade en teste, et de la façon dont je
+                conduiray la chose, je vous promets de servir vostre amour. Allons seulement faire
+                un doigt de collation.</p>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="II" type="act">
+        <pb n="36"/>
+        <div type="scene" xml:id="II01">
+          <sp xml:id="II01-1" who="charlote">
+            <p>Mon pere, pourquoy me tourmentez-vous ? Est-ce ma faute si j’aime mieux ce Monsieur
+                que ce gros vilain Pierrot que vous me voulez donner ?</p>
+          </sp>
+          <sp xml:id="II01-2" who="juge">
+            <p>Allons, petite baboüine, allons, vous aimez donc les Monsieur ; or je vous
+                apprendray que les Monsieur ne sont pas pour vous, et que vous n’estes pas pour eux.
+                Rentrez au logis, et qu’il ne vous arrive plus<pb n="D ; 37 "/>de songer à d’autres
+                qu’à Pierrot, c’est luy qui sera mon gendre, il a bon mestier, et vous ne sçauriez
+                mourir de faim avec luy. Adieu, qu’on ne m’en souffle pas seulement un petit mot.
+                Voyez-vous, il leur faut des godeluriaux, de ces petits muguets bastis comme des poupées, avec
+                leurs grands cheveux et leurs petites épées ; non sera, non sera vostre Monsieur, le
+                Monsieur ne sera pas pour vous, ma fille. Ah, voicy son Valet de Chambre, c’est le
+                plus honneste d’eux tous, celuy-là, car dés le matin nous avons bû ensemble.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II02">
+          <pb n="38"/>
+          <sp xml:id="II02-1" who="juge">
+            <p>Monsieur Gusman, je suis le vostre ; comment
+                vous va ?</p>
+          </sp>
+          <sp xml:id="II02-2" who="gusman">
+            <p>Fort bien, Monsieur, je vous cherchois.</p>
+          </sp>
+          <sp xml:id="II02-3" who="juge">
+            <p>Qu’y a-t-il pour vostre service ? Vous estes un brave homme, vous ; et de toute
+                vostre bande, vous estes celuy que j’aime le mieux.</p>
+          </sp>
+          <sp xml:id="II02-4" who="gusman">
+            <p>Monsieur, je vous suis bien obligé, et aussi en récompense je vous viens avertir de
+                quelque petite chose qui vous touche.</p>
+          </sp>
+          <sp xml:id="II02-5" who="juge">
+            <pb n="39"/>
+            <p>Moy !</p>
+          </sp>
+          <sp xml:id="II02-6" who="gusman">
+            <p>Vous-mesme.</p>
+          </sp>
+          <sp xml:id="II02-7" who="juge">
+            <p>Et qu’est-ce que ce seroit ?</p>
+          </sp>
+          <sp xml:id="II02-8" who="gusman">
+            <p>Eh, ce n’est qu’une bagatelle ; mais il est toûjours bon d’y prendre garde.</p>
+          </sp>
+          <sp xml:id="II02-9" who="juge">
+            <p>Dites-moy donc, je vous prie, ce que c’est.</p>
+          </sp>
+          <sp xml:id="II02-10" who="gusman">
+            <p>C’est que l’on vous veut tuer.</p>
+          </sp>
+          <sp xml:id="II02-11" who="juge">
+            <p>Me tuer !</p>
+          </sp>
+          <sp xml:id="II02-12" who="gusman">
+            <p>Oüy ; mais cela ne sera rien : c’est un drosle qui prend avec un peu trop de
+                chaleur les interests de mon Maistre contre vous, touchant vostre fille ; mais je
+                luy ay bien dit son<pb n="40"/> fait : Ce n’est pas
+                qu’il est méchant comme un diable, et quand il a résolu quelque chose, il faut que
+                cela soit ; mais je luy ay bien juré que s’il més-arrivoit de vostre personne, je sçaurois bien vous en vanger tost
+                ou tard ; c’est pourquoy vous n’avez que faire de craindre.</p>
+          </sp>
+          <sp xml:id="II02-13" who="juge">
+            <p>Et oüy da ; mais s’il m’alloit tuer sans vous avertir, je ne laisserois pas que
+                d’estre mort.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II03">
+          <sp xml:id="II03-1" who="gusman">
+            <p>Chut, ne faites point semblant de rien, et vous tenez un peu<pb n="41"/> à
+                l’écart, le voicy ; vous allez entendre comme je luy vay parler.</p>
+          </sp>
+          <sp xml:id="II03-2" who="silvestre">
+            <p>Gusman, fay-moy connoistre un peu le Juge de ce lieu, qui est le pere de cette
+                jolie Charlote.</p>
+          </sp>
+          <sp xml:id="II03-3" who="gusman">
+            <p>Pourquoy, Monsieur ?</p>
+          </sp>
+          <sp xml:id="II03-4" who="silvestre">
+            <p>Je viens d’apprendre qu’il veut empescher que mon Maistre l’épouse, et qu’il se vante de
+                le poursuivre par Justice.</p>
+          </sp>
+          <sp xml:id="II03-5" who="gusman">
+            <p>Il est vray qu’il ne veut pas consentir à ce mariage, parce que sa parole est
+                engagée à un autre.</p>
+          </sp>
+          <sp xml:id="II03-6" who="silvestre">
+            <p>Par la mort, par la teste, par le ventre, si je le trouve, je le veux échigner,
+                deussay-je estre roüé tout vif.</p>
+          </sp>
+          <sp xml:id="II03-7" who="gusman">
+            <pb n="42"/>
+            <p>Hé, Monsieur, c’est un honneste homme, peut-estre ne vous craindra-t’il point.</p>
+          </sp>
+          <sp xml:id="II03-8" who="silvestre">
+            <p>Luy, luy ? Par le sang, par la teste, s’il estoit là, je luy donnerois de l’épée
+                dans le ventre. Qui est cét homme-là ?</p>
+          </sp>
+          <sp xml:id="II03-9" who="gusman">
+            <p>Ha, Monsieur, ce n’est pas luy.</p>
+          </sp>
+          <sp xml:id="II03-10" who="silvestre">
+            <p>N’est-ce point quelqu’un de ces amis ?</p>
+          </sp>
+          <sp xml:id="II03-11" who="gusman">
+            <p>Au contraire, c’est son ennemy capital.</p>
+          </sp>
+          <sp xml:id="II03-12" who="silvestre">
+            <p>Son ennemy capital ?</p>
+          </sp>
+          <sp xml:id="II03-13" who="gusman">
+            <p>Oüy.</p>
+          </sp>
+          <sp xml:id="II03-14" who="silvestre">
+            <p>Ah ! parbleu j’en suis ravy. Vous<pb n="43"/> estes ennemy, Monsieur, de ce faquin
+                de Juge ? Eh ?</p>
+          </sp>
+          <sp xml:id="II03-15" who="gusman">
+            <p>Ouy, ouy, je vous en réponds.</p>
+          </sp>
+          <sp xml:id="II03-16" who="silvestre">
+            <p>Touchez-là, touchez ; je vous donne ma parole, et vous jure sur mon honneur par
+                l’épée que je porte, par tous les sermens que je sçais faire, qu’avant la fin du
+                jour je vous déferay de ce maraut fiéfé, de ce faquin de Juge ; reposez-vous sur
+                moy.</p>
+          </sp>
+          <sp xml:id="II03-17" who="gusman">
+            <p>Monsieur, ces sortes de choses ne sont guéres souffertes, et il y a bonne Justice
+                en cas…..</p>
+          </sp>
+          <sp xml:id="II03-18" who="silvestre">
+            <p>Je me mocque de tout, et je n’ay rien à perdre.</p>
+          </sp>
+          <sp xml:id="II03-19" who="gusman">
+            <p>Monsieur, ce n’est pas un homme sans amis, et il pourroit trouver<pb n="44"/>
+                quelque appuy contre vostre ressentiment.</p>
+          </sp>
+          <sp xml:id="II03-20" who="silvestre">
+            <p>C’est ce que je demande, morbleu ; c’est ce que je demande : ah, teste ; ah,
+                ventre ; que ne le trouvay-je à cette heure, avec tout son secours ; que ne
+                paroist-il icy à mes yeux au milieu de trente personnes ; que ne le vois-je fondre
+                sur moy les armes à la main ? Comment, marauts, vous avez la hardiesse de vous
+                attaquer à moy ?*Allons, morbleu ; tüe, point de quartier ; donnons ferme ;
+                poussons ; bon pied, bon œil. Ah, canaille, vous en voulez par là, je vous en feray
+                tâter vostre saoul. Soûtenez, marauts, soûtenez. Allons, à cette botte, à cette autre, à celle-cy, à celle-là ; comment, vous
+                reculez ? pied ferme, morbleu ; pied ferme.</p>
+          </sp>
+          <sp xml:id="II03-21" who="gusman">
+            <pb n="45"/>
+            <p>Nous n’en sommes pas.</p>
+          </sp>
+          <sp xml:id="II03-22" who="silvestre">
+            <p>Voilà qui vous apprendra à vous oser joüer à moy.</p>
+          </sp>
+          <sp xml:id="II03-23" who="gusman">
+            <p>Voilà bien du sang répandu pour une bagatelle. Et bien, Monsieur, vous voyez quel
+                diable d’homme c’est là.</p>
+          </sp>
+          <sp xml:id="II03-24" who="juge">
+            <p>Oüy, oh, je me mocque de toutes ses menaces.</p>
+          </sp>
+          <sp xml:id="II03-25" who="silvestre">
+            <p>Ah ventre, <ref target="#jernidenne">jarny*</ref>, que ne le puis-je trouver ?</p>
+          </sp>
+          <sp xml:id="II03-26" who="juge">
+            <p>N’y est-il plus ?</p>
+          </sp>
+          <sp xml:id="II03-27" who="gusman">
+            <p>Non, non, il est party tout à fait, ne craignez plus rien.</p>
+          </sp>
+          <sp xml:id="II03-28" who="juge">
+            <p>Qui, moy ? Oh, en bien faisant<pb n="46"/> on ne craint rien ; et on luy montrera
+                bien les dents quand il le faudra.</p>
+          </sp>
+          <sp xml:id="II03-29" who="gusman">
+            <p>Oh, je n’en doute pas ! on voit bien que vous estes un homme ferme.</p>
+          </sp>
+          <sp xml:id="II03-30" who="juge">
+            <p>Je m’en vais un peu consulter ce que j’ay à faire, et si on ne me conseille rien de
+                bon là-dessus, j’iray assembler le Village, et on sonnera le toxin sur vostre
+                Maistre et sur vous.</p>
+          </sp>
+          <sp xml:id="II03-31" who="gusman">
+            <p>La peste soit le vieux fou, il nous va attirer icy quelque défluxion sur les épaules.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II04">
+          <pb n="47"/>
+          <sp xml:id="II04-1" who="juan">
+            <p>Et bien, Gusman, qu’as-tu fait ?</p>
+          </sp>
+          <sp xml:id="II04-2" who="gusman">
+            <p>Ma foy, Monsieur, rien qui vaille ; nostre vieillard s’est mutiné, il nous menace
+                du toxin, et cela ne sent rien de bon. Si tous ces diables de Mariniers se mettoient
+                une fois sur nous, garre les coups d’aviron. Si vous m’en croyez, Monsieur, évitez
+                ce désordre, nous ne serions pas les plus forts icy ; rengainez vos amours pour
+                quelque temps, et à la première occasion d’une Barque qui partira nous enleverons
+                vo-<pb n="48"/> stre jeune Charlote sous un habit d’homme, ou quelque autre
+                déguisement ; franchement il n’y a point de jeu avec ces canailles-cy, ils seront
+                toûjours les plus forts ; et quelque grandeur que vous ayez au dessus d’eux, la
+                quantité l’emportera sur la qualité. Laissez-moy raccommoder tout cecy, et vous
+                retirez seulement, je vay tascher de rejoindre nostre vieux Juge, et faire en sorte
+                de le ramadoüer un peu.</p>
+          </sp>
+          <sp xml:id="II04-3" who="juan">
+            <p>Va donc, j’abandonne tout à ta conduite ; mais tu ne sçais pas, Gusman, le malheur
+                qui nous accompagne ?</p>
+          </sp>
+          <sp xml:id="II04-4" who="gusman">
+            <p>Et qu’y auroit-il de nouveau ?</p>
+          </sp>
+          <sp xml:id="II04-5" who="juan">
+            <p>Une Barque marchande vient de moüiller icy, et comme la curiosité<pb n="E ; 49"/>
+                m’a porté à voir quelles gens estoient dedans, le premier homme qui s’est presenté à
+                mes yeux, devine qui c’est ?</p>
+          </sp>
+          <sp xml:id="II04-6" who="gusman">
+            <p>Ma foy, Monsieur, je ne suis point Sorcier.</p>
+          </sp>
+          <sp xml:id="II04-7" who="juan">
+            <p>Monsieur Dimanche.</p>
+          </sp>
+          <sp xml:id="II04-8" who="gusman">
+            <p>Monsieur Dimanche ! Quoy ? ce persecuteur de Chrestiens ; ce maudit Marchand qui ne
+                sçauroit laisser vivre en repos ceux qui luy doivent ?</p>
+          </sp>
+          <sp xml:id="II04-9" who="juan">
+            <p>Luy-mesme.</p>
+          </sp>
+          <sp xml:id="II04-10" who="gusman">
+            <p>Par ma foy, Monsieur, il vaudroit presque autant nous estre noyé, que d’avoir encore retrouvé cét
+                homme-là ; et l’avez-vous accüeilly à vôtre ordinaire, par de grands com-<pb n="50"/> plimens et de belles paroles, que vous luy faites passer pour argent
+                comptant ?</p>
+          </sp>
+          <sp xml:id="II04-11" who="juan">
+            <p>Je ne l’ay point abordé, je n’ay pas voulu qu’il me parlast devant d’autres
+                Marchands qui estoient là avec luy ; mais je ne crois pas estre long-temps sans le
+                voir ; il m’a veu : et comme je m’esquivois, j’ay bien oüy qu’il s’est informé de
+                moy, en me demandant par mon nom à quelques habitants d’icy.</p>
+          </sp>
+          <sp xml:id="II04-12" who="gusman">
+            <p>Quel diable d’embarras ! On dit bien vray, qu’un mal-heur ne vient jamais sans
+                l’autre. Nous partons joyeux d’un païs où nous sommes endebtez, pour aller employer
+                nostre crédit ailleurs ; un maudit banc de sable nous fait faire naufrage ;
+                l’amourette vous prend pour une fille promise à un autre ;<pb n="51"/> on nous
+                menace d’amenter tout le village sur nous ; et pour comble de maux nous trouvons
+                  M<hi rend="sup">r</hi> Dimanche ; mais ma foy, Monsieur, bon pied, bon œil, le
+                voicy, je le reconnois, vous n’avez qu’à vous bien tenir.</p>
+          </sp>
+          <sp xml:id="II04-13" who="juan">
+            <p>Paix, paix ; ne dis mot, écoute seulement, je vay payer d’une monnoye toute
+                nouvelle.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II05">
+          <sp xml:id="II05-1" who="juan">
+            <p>Ah, que vois-je ? M<hi rend="sup">r</hi> Dimanche icy ! quelle heureuse
+                rencontre !</p>
+          </sp>
+          <sp xml:id="II05-2" who="dimanche">
+            <pb n="52"/>
+            <p>Monsieur….</p>
+          </sp>
+          <sp xml:id="II05-3" who="juan">
+            <p>Que je vous embrasse, M<hi rend="sup">r</hi> Dimanche.</p>
+          </sp>
+          <sp xml:id="II05-4" who="dimanche">
+            <p>En verité c’est moy, Monsieur, qui suis trop heureux de vous trouver icy, et j’ay
+                bien de la joye que cela serve d’occasion à vuider…</p>
+          </sp>
+          <sp xml:id="II05-5" who="juan">
+            <p>Vrayement j’ay bien du plaisir à vous voir.</p>
+          </sp>
+          <sp xml:id="II05-6" who="dimanche">
+            <p>Monsieur, c’est beaucoup d’honneur que vous me faites ; mais si vous y vouliez
+                joindre une grace, je me trouve icy dans quelque besoin, et….</p>
+          </sp>
+          <sp xml:id="II05-7" who="juan">
+            <p>Comment se porte Madame Dimanche vostre femme ?</p>
+          </sp>
+          <sp xml:id="II05-8" who="dimanche">
+            <pb n="53"/>
+            <p>Fort à vostre service, Monsieur. Je voudrois donc vous prier….</p>
+          </sp>
+          <sp xml:id="II05-9" who="juan">
+            <p>Je suis son serviteur.</p>
+          </sp>
+          <sp xml:id="II05-10" who="dimanche">
+            <p>Monsieur, je disois donc que si vous aviez la commodité…</p>
+          </sp>
+          <sp xml:id="II05-11" who="juan">
+            <p>Et vostre fille Mademoiselle Marion ?</p>
+          </sp>
+          <sp xml:id="II05-12" who="dimanche">
+            <p>Elle est en bonne santé aussi, Monsieur ; mais….</p>
+          </sp>
+          <sp xml:id="II05-13" who="juan">
+            <p>C’est une aimable enfant.</p>
+          </sp>
+          <sp xml:id="II05-14" who="dimanche">
+            <p>Elle est bien vostre petite servante, Monsieur ; je…</p>
+          </sp>
+          <sp xml:id="II05-15" who="juan">
+            <p>Et qui est vrayement bien sage.</p>
+          </sp>
+          <sp xml:id="II05-16" who="dimanche">
+            <p>Oh, Monsieur, vous vous moc-<pb n="54"/> quez d’elle. J’ose prendre la liberté de
+                vous dire, Monsieur, qu’une certaine Lettre de Change que je dois acquiter dans peu
+                m’oblige….</p>
+          </sp>
+          <sp xml:id="II05-17" who="juan">
+            <p>Et vostre petit garçon fait-il toûjours bien du brüit avec son tambour ?</p>
+          </sp>
+          <sp xml:id="II05-18" who="dimanche">
+            <p>Oh, Monsieur, il est assez semillant. Or ça, si vous vouliez que nous parlassions un
+                peu….</p>
+          </sp>
+          <sp xml:id="II05-19" who="juan">
+            <p>Il vous ressemble comme deux goutes d’eau.</p>
+          </sp>
+          <sp xml:id="II05-20" who="dimanche">
+            <p>Voyez-vous, Monsieur, dans le negoce si nous ne payons à jour nommé, on proteste
+                d’abord contre nous ; c’est ce qui fait, Monsieur, que nous importunons quelquefois
+                nos debiteurs ; et comme vous m’avez fait l’honneur de prendre….</p>
+          </sp>
+          <sp xml:id="II05-21" who="juan">
+            <pb n="55"/>
+            <p>A propos, vostre petit Chien est-il encore en vie ?</p>
+          </sp>
+          <sp xml:id="II05-22" who="gusman">
+            <p>Il s’interesse pour toute la famille.</p>
+          </sp>
+          <sp xml:id="II05-23" who="dimanche">
+            <p>Monsieur, tout se porte fort bien.</p>
+          </sp>
+          <sp xml:id="II05-24" who="juan">
+            <p>En vérité j’en suis fort joyeux, et je vous veux prier de les embrasser tous deux
+                pour l’amour de moy, quand vous retournerez chez vous.</p>
+          </sp>
+          <sp xml:id="II05-25" who="dimanche">
+            <p>Monsieur, si auparavant vous trouvez bon que nous….</p>
+          </sp>
+          <sp xml:id="II05-26" who="juan">
+            <p>Adieu M<hi rend="sup">r</hi> Dimanche, que je vous embrasse.</p>
+          </sp>
+          <sp xml:id="II05-27" who="dimanche">
+            <p>Monsieur…</p>
+          </sp>
+          <sp xml:id="II05-28" who="juan">
+            <p>Je ne vous laisseray point là.</p>
+          </sp>
+          <sp xml:id="II05-29" who="dimanche">
+            <p>Mais Monsieur…</p>
+          </sp>
+          <sp xml:id="II05-30" who="juan">
+            <p>Je sçay trop ce que je vous dois.</p>
+          </sp>
+          <sp xml:id="II05-31" who="dimanche">
+            <p>Et oüy Môsieur, d’accord, mais le besoin…</p>
+          </sp>
+          <sp xml:id="II05-32" who="juan">
+            <pb n="56"/>
+            <p>Allons, allons, permettez-moy de vous conduire.</p>
+          </sp>
+          <sp xml:id="II05-33" who="dimanche">
+            <p>Monsieur, la necessité de payer…</p>
+          </sp>
+          <sp xml:id="II05-34" who="juan">
+            <p>Je ne vous laisseray point là, vous dis-je.</p>
+          </sp>
+          <sp xml:id="II05-35" who="dimanche">
+            <p>Mais si…</p>
+          </sp>
+          <sp xml:id="II05-36" who="juan">
+            <p>C’est perdre le temps.</p>
+          </sp>
+          <sp xml:id="II05-37" who="dimanche">
+            <p>Je…</p>
+          </sp>
+          <sp xml:id="II05-38" who="juan">
+            <p>Vous vous moquez.</p>
+          </sp>
+          <sp xml:id="II05-39" who="dimanche">
+            <p>Point du tout.</p>
+          </sp>
+          <sp xml:id="II05-40" who="juan">
+            <p>Hola, hé ? des Flambeaux, et reconduisez M<hi rend="sup">r</hi> Dimanche.</p>
+          </sp>
+          <sp xml:id="II05-41" who="dimanche">
+            <p>Quel diable d’homme est ce cy ? Orça, me payerez-vous de la même monnoye, vous,
+                  M<hi rend="sup">r</hi> Gusman ?</p>
+          </sp>
+          <sp xml:id="II05-42" who="gusman">
+            <p>Plaist-il, Monsieur ?</p>
+          </sp>
+          <sp xml:id="II05-43" who="dimanche">
+            <p>Je vous demande s’il vous souvient bien<pb n="57"/> que vous me devez en vostre
+                particulier pour quarante écus d’Etoffe que je vous ay livré ?</p>
+          </sp>
+          <sp xml:id="II05-44" who="gusman">
+            <p>Comment se porte Madame Dimanche ?</p>
+          </sp>
+          <sp xml:id="II05-45" who="dimanche">
+            <p>Oh je n’entens pas raillerie, et…</p>
+          </sp>
+          <sp xml:id="II05-46" who="gusman">
+            <p>Et vostre petit Chien ? Il vous ressemble comme deux goutes d’eau. Allons donc, je
+                ne vous laisseray point là. Je vous reconduiray, je sçay trop mon devoir. Vous vous
+                moquez. Sortez donc, s’il vous plaist, ou que le Diable vous emporte. Bonsoir et
+                bonne nuit. Belle maniere de payer ses Creanciers. On ne nous rapporte ny argent
+                faux, ny Pistoles légeres. Mais voicy mon vieux Juge avec son
+                Gendre prétendu ; tâchons de détourner l’orage qu’ils nous apprestent.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II06">
+          <sp xml:id="II06-1" who="pierrot">
+            <p>Pour moy je ne trouve rien de meilleur pour nos affaires que de crier haro sur<pb n="58"/> ce diable de Monsieur qui veut tuer
+                les Hommes, et prendre les Femmes. <ref target="#palsangué">Palsangué*</ref>, faites comme moy, je criërons
+                l’allarme.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II07">
+          <sp xml:id="II07-1" who="gusman">
+            <p>Et qu’y a-t-il, Messieurs ? à quoy bon tout ce vacarme ? Vous inquietez-vous ? J’ai
+                tourné l’esprit de mon Maistre tout comme vous le souhaitez ; il ne s’oppose plus à
+                vostre mariage, au contraire il prétend estre de la noce. Il en payera le Festin, et
+                mesme il se retient pour estre le Compere au premier Enfant que vous aurez.</p>
+          </sp>
+          <sp xml:id="II07-2" who="pierrot">
+            <p>Oh, <ref target="#parguenne">pargué*</ref>, vela un honneste homme cela. Oh bian vous ly diré pour l’amour de cela
+                que je sommes son sarviteur, et que j’allons décrier l’allarme et boire à sa santé.
+                Venez payer chopaine.</p>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
