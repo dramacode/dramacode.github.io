@@ -1,14 +1,60 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Céline ou Les Frères rivaux. Tragi-comédie</title>
+        <author key="Beys, Charles de (1610-1659)">Charles Beys</author>
+        <editor>Florence Fin</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Florence Fin dans le cadre d'un mémoire de
+          maîtrise sous la direction de Georges Forestier (2002-2003)</edition>
+        <respStmt>
+          <name>Georges Forestier</name>
+          <resp>CELLF 16e-18e/Université Paris-Sorbonne</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>publié par Amélie Canu pour le CELLF 16e-18e</publisher>
+        <date when="2015"/>
+        <idno>?</idno>
+        <availability status="restricted">
+          <licence target="?">CELLF 16e-18e</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1637"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>CELINE, <lb/>OU,<lb/>LES FRERES RIVAUX.</head>
       <div xml:id="privilege">
+        <head>Extraict du Privilege du Roy.</head>
         <p>Louis par la grace de Dieu Roy de France et de Navarre, à nos amez et feaux Conseillers les gens tenans nos Cours de Parlement, Maistre des Requestes ordinaires de nostre Hostel, Baillifs, Seneschaux, Prevosts, leurs Lieutenans ; et autres nos justiciers, et Officiers qu’il appartiendra, salut. Nostre bien amé <hi rend="sc">Toussainct Quinet</hi> marchand Libraire, nous a fait remonstrer qu’il desiroit imprimer un livre, intitulé,<hi rend="i"> Céline, ou les Freres Rivaux</hi>, ce qu’il ne peut faire sans avoir sur ce nos Lettres humblement requerant icelles : A ces causes, desirant favorablement traicter ledit exposant, Nous luy avons permis et permettons par ces presentes de faire imprimer, vendre et debiter lesdits livres en tous les lieux et terres de nostre obeyssance, par tels Imprimeurs, en telles marges et caracteres, et autant de fois qu’il voudra durant le temps et espace de neuf ans entiers et accomplis, à compter du jour qu’il sera achevé d’imprimer. Faisant deffences à tous Imprimeurs, Libraires et autres de quelques condition qu’ils soient d’imprimer, vendre ny distribuer ledit livre sans le consentement de l’exposant, ou de ceux qui auront droit de luy en vertu des presentes, ny mesme d’en prendre le titre ou les contrefaire en telles sortes et maniere que ce soit soubs couleur de fauce marge ou autre déguisement, sur peine aux contrevenans de trois mil livres d’amende, appliquable un tiers à nous, un tiers à l’Hostel-Dieu de Paris, et l’autre tiers à l’exposant ; de confiscation des exemplaires contrefaits, et de tous les despens dommages et interests, ainsi qu’il est plus au long contenu à l’original du present Privilege. Donné à Paris le vingt-septiesme jour de Janvier, l’an de grace mil six cents trente sept. Et de nostre regne le vingt-septiesme. Par le Roy en son Conseil, <hi rend="sc">Demonceaux</hi>. Et sellé du grand seau de cire jaune.</p>
         <p rend="i">Achevé d’imprimer pour la premiere fois le 13. Fevrier 1637. </p>
         <p>Les exemplaires ont esté fournis.</p>
       </div>
-      <div/>
+      <div>
+        <head>ACTEURS</head>
+      </div>
       <div type="act">
+        <head>ACTE PREMIER.</head>
         <div type="scene">
+          <head>SCENE PREMIERE.</head>
           <sp who="agante">
             <l n="1" xml:id="l1">Un violent desir me <ref target="#presser">presse*</ref> et m’importune,<pb n="1-A" xml:id="p1"/></l>
             <l n="2" xml:id="l2">Pour apprendre ta bonne ou mauvaise <ref target="#fortune">fortune*</ref>.</l>
@@ -85,6 +131,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE DEUXIESME.</head>
           <sp who="thersandre">
             <l n="57" xml:id="l57">Quoy que Prince estranger, il faut que je soupire<pb n="5" xml:id="p5"/></l>
             <l n="58" xml:id="l58">Du mal-heur impreveu de ce puissant Empire.</l>
@@ -211,6 +258,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE TROISIESME.</head>
           <sp who="lisanor">
             <l n="141" xml:id="l141">Quoy peux-tu bien encor esperer du secours ? <pb n="10" xml:id="p10"/></l>
             <l n="142" xml:id="l142">Croy-tu que ma raison se rende à tes discours,</l>
@@ -359,7 +407,9 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE II</head>
         <div type="scene">
+          <head>SCENE PREMIERE.</head>
           <sp who="thersandre">
             <l n="247" xml:id="l247">Celine sur Agante emporte la victoire, <pb n="16" xml:id="p16"/></l>
             <l n="248" xml:id="l248">Aupres de tant d’attraits le Sceptre perd sa <ref target="#gloire">gloire*</ref>,</l>
@@ -614,6 +664,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE DEUXIESME.</head>
           <sp who="agante">
             <pb n="26" xml:id="p26"/>
             <l n="451" xml:id="l451">Helas nostre grandeur est bien mal <ref target="#assure1">assurée*</ref>,</l>
@@ -798,7 +849,9 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE III.</head>
         <div type="scene">
+          <head>SCENE PREMIERE.</head>
           <sp who="celine">
             <pb n="33-E" xml:id="p33"/>
             <l n="567" xml:id="l567">Dieux que par une <ref target="#estrange">estrange*</ref> et <ref target="#funeste">funeste*</ref> <ref target="#aventure2">avanture*</ref>,</l>
@@ -834,6 +887,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE DEUXIESME.</head>
           <sp who="lisanor">
             <l n="597" xml:id="l597">Mon <ref target="#songe">songe*</ref> du matin n’a pas esté trompeur,</l>
             <l n="598" xml:id="l598">Je voy cét ennemy qui m’a tant fait de peur,</l>
@@ -884,6 +938,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE TROISIESME.</head>
           <sp who="lisidas">
             <l n="631" xml:id="l631">Je vous y prends resveuse : Ah ce respect me tuë !</l>
             <l n="632" xml:id="l632">Et quel morne chagrin te cause icy ma veuë ?</l>
@@ -975,6 +1030,7 @@
         </div>
         <div type="scene">
           <pb n="40" xml:id="p40"/>
+          <head>SCENE QUATRIESME.</head>
           <sp who="clarin">
             <l n="697" xml:id="l697">Quand le Ciel a conclu d’exercer sa <ref target="#fureur">fureur*</ref>,</l>
             <l n="698" xml:id="l698">Il a bien tost ravy l’espoir d’un laboureur ;</l>
@@ -1045,7 +1101,9 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE IV.</head>
         <div type="scene">
+          <head>SCENE PREMIERE.</head>
           <sp who="agante">
             <l n="761" xml:id="l761">Puisque vous m’honorez de vostre confidence, <pb n="43" xml:id="p43"/></l>
             <l n="762" xml:id="l762">Je veux vous <ref target="#obliger">obliger*</ref> de toute la <ref target="#prudence">prudence*</ref>,</l>
@@ -1121,6 +1179,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE DEUXIESME.</head>
           <sp who="lisanor">
             <l n="811" xml:id="l811">Madame, c’est à tort que vous me demandez,</l>
             <l n="812" xml:id="l812">Un bien que je n’ay plus, et que vous possedez.</l>
@@ -1349,6 +1408,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE TROISIESME.</head>
           <sp who="agante">
             <pb n="55" xml:id="p55"/>
             <l part="F">Ma sœur, vous voyez un rocher</l>
@@ -1438,6 +1498,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE QUATRIESME.</head>
           <sp who="celine">
             <l n="1009" xml:id="l1009">A la fin c’est trop vivre en ma perseverance,</l>
             <l n="1010" xml:id="l1010">Le moyen que je puisse aymer sans esperance ?</l>
@@ -1460,6 +1521,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE CINQUIESME.</head>
           <sp who="agante">
             <l n="1027" xml:id="l1027">Tu me semble, Celine, assez triste aujourd’huy,</l>
             <l n="1028" xml:id="l1028">Quelque accident nouveau te donne de l’ennu[y ?]</l>
@@ -1539,7 +1601,9 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE V.</head>
         <div type="scene">
+          <head>SCENE PREMIERE.</head>
           <sp who="lisanor">
             <pb n="62" xml:id="p62"/>
             <l n="1085" xml:id="l1085">Quel pays servira de retraitte à ma fuite,</l>
@@ -1567,6 +1631,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE DEUXIESME.</head>
           <sp who="celine">
             <l n="1107" xml:id="l1107">Je ne vous tiendray point de discours superflus ;</l>
             <l n="1108" xml:id="l1108">Respondez un seul mot, et je ne parle plus :</l>
@@ -1575,6 +1640,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE TROISIESME.</head>
           <sp who="thersandre">
             <l n="1111" xml:id="l1111">Ah ! voicy le rival qui trouble mon repos ;<pb n="64" xml:id="p64"/></l>
             <l n="1112" xml:id="l1112">Je romps peut-estre icy vos <ref target="#amoureux1">amoureux*</ref> propos.</l>
@@ -1606,6 +1672,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE QUATRIESME.</head>
           <sp who="celine">
             <l part="F">Helas, sçachez l’<ref target="#autheur">autheur*</ref> de la querelle.</l>
             <l n="1123" xml:id="l1123">Faites un peu cesser ce combat hazardeux.</l>
@@ -1680,6 +1747,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE CINQUIESME.</head>
           <sp who="celine">
             <l n="1165" xml:id="l1165" part="I">O Dieux je suis perduë !</l>
           </sp>
@@ -1752,6 +1820,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE SIXIESME.</head>
           <sp who="leroy">
             <pb n="71" xml:id="p71"/>
             <l n="1195" xml:id="l1195">Vrayment je ne pouvois venir plus à propos,</l>
@@ -1954,6 +2023,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE SEPTIESME.</head>
           <sp who="leroy">
             <pb n="79" xml:id="p79"/>
             <l n="1331" xml:id="l1331" part="I">Quel <ref target="#crime">crime*</ref> a-t’il commis ?</l>

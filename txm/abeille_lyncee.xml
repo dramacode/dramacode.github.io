@@ -1,10 +1,54 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lyncée, tragédie</title>
+        <author key="Abeille, Gaspard (1648-1718)">ABEILLE, Gaspard</author>
+        <principal>Georges Forestier</principal>
+        <editor>Housna Badat</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Housna Badat dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/abeille_lyncee/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1681"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-      <div type="set"/>
+      <head>LYNCÉE <lb/>TRAGÉDIE.</head>
+      <div type="set">
+        <head>ACTEURS</head>
+      </div>
       <div type="act" xml:id="I">
         <pb n="A3"/>
+        <head>Acte I.</head>
         <div type="scene" xml:id="I01">
+          <head>Scène 1.</head>
           <sp who="iphis" xml:id="I01-1">
             <l n="1" xml:id="l1">Non, Madame, ma mort ou celle de Lyncée,</l>
             <l n="2" xml:id="l2">Je dois ou l’une ou l’autre à ma <ref target="#gloire">gloire*</ref> offencée,</l>
@@ -183,6 +227,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>Scène II</head>
           <sp who="erigone" xml:id="I02-1">
             <l n="137" part="I" xml:id="l137">Venez Dircé.</l>
           </sp>
@@ -294,6 +339,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <pb n="10"/>
+          <head>Scène III.</head>
           <sp who="erigone" xml:id="I03-1">
             <l part="F">Quel funeste nuage,</l>
             <l n="210" xml:id="l210">Seigneur, à contre temps vous couvre le visage [?]</l>
@@ -408,7 +454,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="13"/>
+        <head>Acte II.</head>
         <div type="scene" xml:id="II01">
+          <head>Scène I.</head>
           <sp who="lyncee" xml:id="II01-1">
             <l n="301" xml:id="l301">Madame est il donc vray qu’apres tant de miseres,</l>
             <l n="302" xml:id="l302">Le Ciel ait arresté les fureurs de nos Peres,</l>
@@ -525,6 +573,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="16"/>
+          <head>Scène II.</head>
           <sp who="danaus" xml:id="II02-1">
             <l part="F">Je trouble vostre Joye,</l>
             <l n="394" xml:id="l394">Mais il faut qu’à vos yeux la mienne se deploye,</l>
@@ -554,6 +603,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>Scène III.</head>
           <sp who="danaus" xml:id="II03-1">
             <l n="409" xml:id="l409">Ma fille je connois l’ardeur de vostre flâme,</l>
             <l n="410" xml:id="l410">Mais enfin il est temps de vous ouvrir mon ame [.]</l>
@@ -787,6 +837,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>Scène IV.</head>
           <sp who="hipermestre" xml:id="II04-1">
             <l n="577" xml:id="l577">Mourir [,] dit il [,] et moy denaturée [,] Impie,</l>
             <l n="578" xml:id="l578">Au bruit de son trepas je demeure <ref target="#assoupir">assoupie*</ref> [;]</l>
@@ -813,7 +864,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="23"/>
+        <head>Acte III.</head>
         <div type="scene" xml:id="III01">
+          <head>Scène I.</head>
           <sp who="erigone" xml:id="III01-1">
             <l n="597" xml:id="l597">Dircé [,] que Danaus me fait souffrir de peine [!]</l>
             <l n="598" xml:id="l598">J’avais calmé les flots de son ame incertaine,</l>
@@ -849,6 +902,7 @@
         </div>
         <div type="scene" xml:id="III02">
           <pb n="24"/>
+          <head>Scène II.</head>
           <sp who="iphis" xml:id="III02-1">
             <l part="F">Mon coeur s’ouvre à la joye,</l>
             <l n="622" xml:id="l622">Madame et je voy bien que mon sort se deploye,</l>
@@ -887,6 +941,7 @@
         </div>
         <div type="scene" xml:id="III03">
           <pb n="B25"/>
+          <head>Scène III.</head>
           <sp who="danaus" xml:id="III03-1">
             <l n="651" xml:id="l651">Qu’on nous laisse. Madame admirez mon bonheur,</l>
             <l n="652" xml:id="l652">De l’amour d’Hipermestre enfin je suis vainqueur [.]</l>
@@ -935,6 +990,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>Scène IV.</head>
           <sp who="erigone" xml:id="III04-1">
             <l n="691" xml:id="l691">Trop cruelle Hipermestre à quoy te resous tu [?]</l>
             <l n="692" xml:id="l692">Qu’avec peu de raison je craignois ta vertu,</l>
@@ -957,6 +1013,7 @@
         </div>
         <div type="scene" xml:id="III05">
           <pb n="27"/>
+          <head>Scène V.</head>
           <sp who="dirce" xml:id="III05-1">
             <l part="F">Ah Madame il marche sur mes pas,</l>
             <l n="708" xml:id="l708">Je l’ay veu, j’ay parlé [:] l’ingrat ne me croit pas [.]</l>
@@ -984,6 +1041,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>Scène VI.</head>
           <sp who="lyncee" xml:id="III06-1">
             <l part="F">C’est donc vous à qui le Ciel m’adresse,</l>
             <l n="722" xml:id="l722">Madame, et de vos mains j’obtiendray ma Princesse,</l>
@@ -1135,6 +1193,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>Scène VII.</head>
           <sp who="hipermestre" xml:id="III07-1">
             <l n="841" part="I" xml:id="l841">Eh quoy vous me fuyez Lyncée [?]</l>
           </sp>
@@ -1299,7 +1358,9 @@
         </div>
       </div>
       <div type="act" xml:id="IV">
+        <head>Acte IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>Scène I.</head>
           <sp who="danaus" xml:id="IV01-1">
             <l n="961" xml:id="l961">Faites venir ma fille [;] entrons: c’est trop attendre [.]</l>
             <l n="962" xml:id="l962">Le coup est fait Iphis, je te reçoy pour gendre [.]</l>
@@ -1339,6 +1400,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>Scène II.</head>
           <sp who="danaus" xml:id="IV02-1">
             <l n="981" xml:id="l981">Ma fille c’en est fait je voy sur ton visage,</l>
             <l n="982" xml:id="l982">Briller encor le feu de ce masle courage,</l>
@@ -1471,6 +1533,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>Scène III.</head>
           <sp who="iphis" xml:id="IV03-1">
             <l n="1079" xml:id="l1079">Tout est calme Seigneur, les chefs sont arrestez</l>
             <l n="1080" xml:id="l1080">Vos soldats par la ville épars de tous costez...</l>
@@ -1571,6 +1634,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>Scène IV.</head>
           <sp who="danaus" xml:id="IV04-1">
             <l n="1141" xml:id="l1141">O vous [,] par mes hauts faits si long temps soutenuës,</l>
             <l n="1142" xml:id="l1142">Grandeur [,] <ref target="#gloire">gloire*</ref>[,] vertu [,] qu’estes vous devenuës [?]</l>
@@ -1615,6 +1679,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>Scène V.</head>
           <sp who="danaus" xml:id="IV05-1">
             <l n="1181" xml:id="l1181">Venez, venez pleurer nos communes disgraces,</l>
             <l n="1182" xml:id="l1182">Venez de vostre amant reconnoistre les traces,</l>
@@ -1700,6 +1765,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>Scène VI.</head>
           <sp who="lycaste" xml:id="IV06-1">
             <l part="F">Ah Seigneur accourez,</l>
             <l n="1249" xml:id="l1249">Du dernier des malheurs la ville est menacée.</l>
@@ -1726,7 +1792,9 @@
         </div>
       </div>
       <div type="act" xml:id="V">
+        <head>Acte V.</head>
         <div type="scene" xml:id="V01">
+          <head>Scène I.</head>
           <sp who="erigone" xml:id="V01-1">
             <l n="1261" xml:id="l1261">Non [,] si de mon tyran la teste est menacée,</l>
             <l n="1262" xml:id="l1262">Il ne doit point perir par la main de Lyncée [.]</l>
@@ -1834,6 +1902,7 @@
         </div>
         <div type="scene" xml:id="V02">
           <pb n="C49"/>
+          <head>Scène II.</head>
           <sp who="erigone" xml:id="V02-1">
             <l n="1341" xml:id="l1341">Il menace je croy. N’importe, qu’il acheve,</l>
             <l n="1342" xml:id="l1342">Et qu’apres contre moy sa vertu se souleve [;]</l>
@@ -1847,6 +1916,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>Scène III.</head>
           <sp who="erigone" xml:id="V03-1">
             <l part="F">Quoy la ville est en flame,</l>
             <l n="1350" part="I" xml:id="l1350">Le Palais assiégé [,] tout un peuple...</l>
@@ -1897,6 +1967,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>Scène IV.</head>
           <sp who="hipermestre" xml:id="V04-1">
             <l part="F">Et c’est moy que l’assassin demande,</l>
             <l n="1379" xml:id="l1379">Livrez moy seule aux coups de ces fiers* ennemis.</l>
@@ -1962,6 +2033,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>Scène V.</head>
           <sp who="lycaste" xml:id="V05-1">
             <l n="1429" xml:id="l1429">Ah Princesses fuyez [!] il n’est plus d’esperance,</l>
             <l n="1430" part="I" xml:id="l1430">Rien ne resiste [!]</l>
@@ -2047,6 +2119,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>Scène VI et derniere.</head>
           <sp who="hipermestre" xml:id="V06-1">
             <l part="F">O Lumiere impreveuë,</l>
             <l n="1479" xml:id="l1479">O depart, ô retour cause de mes tourmens,</l>

@@ -1,16 +1,66 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ulysse dans l'île de Circé ou Euryloche foudroyé</title>
+        <author key="Boyer, Claude (1618-1698)">Boyer, Claude</author>
+        <principal>Georges Forestier</principal>
+        <editor>Pauline Debienne</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Pauline Debienne sous la direction de Georges Forestier (2007)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/boyer_ulysse/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boyer_ulysse.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boyer_ulysse.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boyer_ulysse.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boyer_ulysse.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1650"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>ULYSSE DANS L’ISLE DE CIRCÉ, OU EURYLOCHE FOUDROYÉ. <hi rend="i">TRAGICOMEDIE</hi>, <lb/>Representée sur le Theatre des Machines du Marais. <lb/>DEDIEE A MONSEIGNEUR LE PRINCE DE CONTY.</head>
       <div type="dedication" xml:id="epitre">
+        <head>EPISTRE. A MONSEIGNEUR MONSEIGNEUR LE PRINCE DE CONTY.</head>
         <p>MONSEIGNEUR ;</p>
         <p>Cet Ulysse que je presente à vostre Altesse, est bien different de celuy que le [IV] Prince des Poëtes a fait le heros de la prudence, &amp; la parfaite idée d’une constance invincible: s’il avoit conservé entre mes mains toutes les beautez de son original, il seroit asseuré de la bonne <ref target="#fortune">fortune*</ref>, l’estant depuis tant de siecles de son merite &amp; de sa reputation. Ce n’est que l’image d’un si grand homme, que je viens mettre à vos pieds sous la foible imitation d’une vertu* si heroique. Il dépend maintenant de Vostre Altesse, de luy faire voir le jour avec honneur, ou de le laisser pour jamais dans les ombres du theatre, pour y cacher ses deffauts par l’addresse des Acteurs &amp; sous la magnificence du spectacle. Il n’auroit garde, MONSEIGNEUR, d’en décendre ny de quitter un lieu qui luy est si fort avantageux, s’il pouvoit sans en sortir faire sçavoir à Vostre Altesse que plein de ressentiment* pour les tesmoignages d’estime &amp; d’<ref target="#amitie">amitié*</ref> qu’il a receu de vous sous ses habits naturels, il n’en a pris à la Françoise que pour estre desormais de vostre Cour. Il n’y a que [V] Vostre Altesse qui puisse obliger ses pareils à venir faire leur sejour en France ; pour les y traiter selon leur merite ; il faut les cognoistre comme vous faites parfaitement, &amp; posseder une generosité toute pure &amp; toute eminente comme la Vostre. Tout le monde sçait, MONSEIGNEUR, que cette Royale vertu* est en vous l’ame de toutes les autres ; qu’elle est vostre caractere particulier, &amp; qu’à l’exemple des Heros de l’antiquité, qui se sont faits discerner par des noms empruntés, ou de quelque action esclatante de leur vie, ou de quelque grande qualité attachée singulierement à leurs personnes, nos histoires doivent un jour en parlant de Vostre Altesse vous faire cognoistre à la posterité par le titre de genereux. Cette magnifique vertu* a fait un bruit sur le Parnasse, qui commence d’en bannir cette honteuse consternation, &amp; cette profonde obscurité, dans laquelle les muses demeuroient depuis quelque temps ensevelies. Voicy, MONSEIGNEUR, entre celles du Theatre la premiere, à ce que je [VI] croy qui se presente publiquement à vous ; toutes ses compagnes ont les yeux tournez sur Vostre Altesse pour voir l’accueil qu’elle luy fera, &amp; regler là dessus toutes leurs esperances. Veritablement ce seroit une assez mauvaise politique à cette sçavante société de commettre à la moindre d’entr’elles un essay, que son peu de merite rend extremément dangereux : Elles devroient sans doute venir toutes en corps saluer Vostre Altesse, ou du moins pour s’acquitter d’un devoir, qui luy est si fort important, deputer la plus apparente de la troupe. Mais, MONSEIGNEUR, l’impatience de celle-cy leur a osté le loisir d’en deliberer, &amp; c’est par une dévotion particulière qu’elle vient toute seule implorer vostre protection, &amp; vous assurer en mesme temps que tous ses vœux seront exaucez, si elle obtient pour moy d’estre un jour par vostre choix, autant que je le suis par mon inclination,</p>
         <p>MONSEIGNEUR, De Vostre Altesse,</p>
         <p rend="right">Le tres humble, tres obeissant &amp; tres-</p>
         <p rend="right">passionné serviteur,  BOYER.</p>
       </div>
-      <div xml:id="acteurs" type="set"/>
+      <div xml:id="acteurs" type="set">
+        <head>ACTEURS.</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE I.</head>
+        <head>ULISSE DANS L’ISLE DE CIRCÉ</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="eole">
             <l n="1" xml:id="l1">Enfans tumultueux des vapeurs de la terre,<pb n="A ; 1"/></l>
             <l n="2" xml:id="l2">Qui balancez les airs d’une immortelle guerre ;</l>
@@ -39,6 +89,7 @@
         </div>
         <div type="scene" xml:id="I02">
           <pb n="3"/>
+          <head>SCENE II.</head>
           <sp xml:id="I02-1" who="perimede">
             <l part="F">Que voulez-vous grand Roy ?</l>
             <l n="24" xml:id="l24">Dieu des vents, qui vous fait descendre jusqu’à moy.</l>
@@ -76,6 +127,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <sp xml:id="I03-1" who="ulisse">
             <l n="49" xml:id="l49">Vostre Reyne aujourd’huy se fait beaucoup attendre ;</l>
             <l n="50" xml:id="l50">J’ay crû qu’elle seroit la premiere à s’y rendre,</l>
@@ -90,6 +142,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="ulisse">
             <l n="59" xml:id="l59">Hé bien, cher compagnon de tant de <ref target="#mal">maux*</ref> soufferts</l>
             <l n="60" xml:id="l60">Echapé aux perils courus sur tant de mers</l>
@@ -268,6 +321,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V.</head>
           <sp xml:id="I05-1" who="circe">
             <l n="189" xml:id="l189">Je l’advouë aujourd’huy, vous m’avez attenduë,</l>
             <l n="190" xml:id="l190">Mais tousjours cette <ref target="#ardeur">ardeur*</ref> ne m’a pas <ref target="#prevenir">prevenuë*</ref> :</l>
@@ -302,6 +356,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI.</head>
           <sp xml:id="I06-1" who="euriloche">
             <l part="F">Ils sont partis ; approche Perimede.</l>
           </sp>
@@ -390,6 +445,7 @@
         </div>
         <div type="scene" xml:id="I07">
           <pb n="C ; 17"/>
+          <head>SCENE VII.</head>
           <sp xml:id="I07-1" who="euriloche">
             <l n="253" xml:id="l253">Cognoy mieux, Euriloche, et quitte la pensee</l>
             <l n="254" xml:id="l254">D’avoir lancé le <ref target="#trait">trait*</ref> dont mon ame est blessee.</l>
@@ -526,6 +582,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I08">
+          <head>SCENE VIII.</head>
           <p rend="center">Chanson.</p>
           <l n="349" xml:id="l349">Amour qui ne te plais qu’à nous faire la guerre,</l>
           <l n="350" xml:id="l350">Qui puissant dans les eaux autant que sur la terre,</l>
@@ -544,6 +601,7 @@
           <l n="360" xml:id="l360">Et de n’estre jamais aymees.</l>
         </div>
         <div type="scene" xml:id="I09">
+          <head>SCENE IX.</head>
           <sp xml:id="I09-1" who="perimede">
             <l n="361" xml:id="l361">Que mes sens sont ravis, Seigneur, que de merveilles !</l>
           </sp>
@@ -584,7 +642,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="D ; 25"/>
+        <head>ACTE  II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="II01-1" who="elpenor">
             <l n="393" xml:id="l393">Quand <ref target="#flatter">flatté*</ref> d’un bonheur qui <ref target="#passer">passe*</ref> mon attente,</l>
             <l n="394" xml:id="l394">Je mesure au passé ma <ref target="#fortune">fortune*</ref> presente,</l>
@@ -755,6 +815,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II.</head>
           <sp xml:id="II02-1" who="euriloche">
             <l n="539" xml:id="l539">Pardonnez si je romps un entretien si doux,</l>
             <l n="540" xml:id="l540">Le hazard en révant m’a mené jusqu’à vous.</l>
@@ -885,6 +946,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp xml:id="II03-1" who="euriloche">
             <l n="606" xml:id="l606">J’ose vous assurer de son obeissance.</l>
           </sp>
@@ -901,6 +963,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="38"/>
+          <head>SCENE IV.</head>
           <sp xml:id="II04-1" who="euriloche">
             <l n="615" xml:id="l615">Qu’ay-je fait imprudent ! où me suis-je emporté ?</l>
             <l n="616" xml:id="l616">Est-ce là ce dessein que j’avois concerté ?</l>
@@ -931,6 +994,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <sp xml:id="II05-1" who="leucosie">
             <l n="641" xml:id="l641">Prince par cet abord par ce front plein de joye</l>
             <l n="642" xml:id="l642">Explique le bonheur que le Ciel nous enuoye.</l>
@@ -1146,6 +1210,7 @@
         </div>
         <div type="scene" xml:id="II06">
           <pb n="48"/>
+          <head>SCENE VI.</head>
           <sp xml:id="II06-1" who="circe">
             <l n="769" xml:id="l769">Foible et dernier secours, que mon amour lassée*</l>
             <l n="770" xml:id="l770">Oppose au desespoir dont elle est menacée ;</l>
@@ -1202,6 +1267,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE VII.</head>
           <sp xml:id="II07-1" who="circe">
             <l n="821" xml:id="l821">Arbitre du repos, Dieu maistre du silence,</l>
             <l n="822" xml:id="l822">Toy de qui les mortels reverent la puissance,</l>
@@ -1247,7 +1313,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="53"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="III01-1" who="circe">
             <l n="855" xml:id="l855" part="I">Que faites-vous, Ulisse ?</l>
           </sp>
@@ -1396,6 +1464,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp xml:id="III02-1" who="euriloche">
             <l n="967" xml:id="l967">Quelle bizare humeur vous possede aujourd’huy ?</l>
           </sp>
@@ -1545,6 +1614,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp xml:id="III03-1" who="euriloche">
             <l part="F">Va, si le Ciel respond à mes souhaits</l>
             <l n="1085" xml:id="l1085">Pour punir tes soubçons et tes extravagances</l>
@@ -1558,6 +1628,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp xml:id="III04-1" who="elpenor">
             <l n="1093" xml:id="l1093">Phaëtuse, est-ce vous ? arrestez ma Princesse.</l>
           </sp>
@@ -1613,6 +1684,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp xml:id="III05-1" who="leucosie">
             <l n="1127" xml:id="l1127">Vostre Conseil ma sœur m’oblige infiniment.</l>
           </sp>
@@ -1626,6 +1698,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI.</head>
           <sp xml:id="III06-1" who="leucosie">
             <l n="1133" xml:id="l1133" part="I">Son <ref target="#rival">rival*</ref> ? Euriloche !</l>
           </sp>
@@ -1744,7 +1817,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="74"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="suite-ulysse">
             <l n="1213" xml:id="l1213">Des plus profonds cachots du centre de la terre</l>
             <l n="1214" xml:id="l1214">Je roule incessamment cette masse de pierre ;</l>
@@ -1779,6 +1854,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <pb n="76"/>
+          <head>SCENE II.</head>
           <sp xml:id="IV02-1" who="ulisse">
             <l n="1242" xml:id="l1242">Dans quel gouffre d’horreur ta puissance m’entraine ?</l>
             <l n="1243" xml:id="l1243">Amour est-ce en ces lieux que je la doy chercher ?</l>
@@ -1793,6 +1869,7 @@
         </div>
         <div type="scene" xml:id="IV03">
           <pb n="77"/>
+          <head>SCENE III.</head>
           <sp xml:id="IV03-1" who="suite-ulysse">
             <l n="1251" xml:id="l1251">Rocher qu’en vain tousjours je tasche à remonter.</l>
           </sp>
@@ -1901,6 +1978,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV.</head>
           <sp xml:id="IV04-1" who="suite-ulysse">
             <l n="1326" xml:id="l1326">Cher Ulisse, arrestez, que vous dit cet infame ?</l>
             <l n="1327" xml:id="l1327">Ce dernier deshonneur de vos braves ayeux,</l>
@@ -1916,6 +1994,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V.</head>
           <sp xml:id="IV05-1" who="ulisse">
             <l n="1331" xml:id="l1331">Tyresie est-ce vous ? venez-vous secourir,</l>
             <l n="1332" xml:id="l1332">Un mortel desespoir, que rien ne peur guerir ?</l>
@@ -2017,6 +2096,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI.</head>
           <sp xml:id="IV06-1" who="circe">
             <l n="1407" xml:id="l1407">Rare presant des Cieux merveilleuse puissance</l>
             <l n="1408" xml:id="l1408">Qui m’as fait consentir une si dure absence</l>
@@ -2083,6 +2163,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE VII.</head>
           <sp xml:id="IV07-1" who="phaetuse">
             <l part="F">Vous, de qui je me plains,</l>
             <l n="1466" xml:id="l1466">Euriloche, Elpenor, sans doute en sont aux mains.</l>
@@ -2118,6 +2199,7 @@
         </div>
         <div type="scene" xml:id="IV08">
           <pb n="91"/>
+          <head>SCENE VIII.</head>
           <sp xml:id="IV08-1" who="euriloche">
             <l n="1487" xml:id="l1487">Je me pers, Perimede, ah ! non c’est trop d’audace.</l>
             <l n="1488" xml:id="l1488">Quand Ulisse, Elpenor me quitteroient la place,</l>
@@ -2140,6 +2222,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV09">
+          <head>SCENE IX.</head>
           <sp xml:id="IV09-1" who="elpenor">
             <l n="1505" xml:id="l1505">En vain sur mon <ref target="#rival">rival*</ref> je cherche à me vanger</l>
             <l n="1506" xml:id="l1506">Pour terminer des <ref target="#mal">maux*</ref> qu’on ne peut soulager,</l>
@@ -2316,6 +2399,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV10">
+          <head>SCENE X.</head>
           <sp xml:id="IV10-1" who="leucosie">
             <l n="1615" xml:id="l1615" part="I">Madame, Ulisse vient.</l>
           </sp>
@@ -2340,6 +2424,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV11">
+          <head>SCENE XI.</head>
           <sp xml:id="IV11-1" who="euriloche">
             <l n="1621" xml:id="l1621">Tout me perd, et je suis pour comble de douleur</l>
             <l n="1622" xml:id="l1622">Forcé de caresser et rire à mon malheur.</l>
@@ -2391,7 +2476,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="103"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="V01-1" who="circe">
             <l n="1647" xml:id="l1647" part="I">Que fait mon fugitif ?</l>
           </sp>
@@ -2429,6 +2516,7 @@
         </div>
         <div type="scene" xml:id="V02">
           <pb n="O ; 105"/>
+          <head>SCENE II.</head>
           <sp xml:id="V02-1" who="circe">
             <l n="1671" xml:id="l1671">Mes <ref target="#charme">charmes*</ref> auroient pû faire perir Ulisse ;</l>
             <l n="1672" xml:id="l1672">Ouvrir dessous ses pas un gouffre, un precipice ;</l>
@@ -2467,6 +2555,7 @@
         </div>
         <div type="scene" xml:id="V03">
           <pb n="107"/>
+          <head>SCENE III.</head>
           <sp xml:id="V03-1" who="ulisse">
             <l part="F">Frapez, vous voyez la victime ;</l>
             <l n="1704" xml:id="l1704">Ulisse doit mourir si sa fuite est un crime.</l>
@@ -2581,6 +2670,7 @@
         </div>
         <div type="scene" xml:id="V04">
           <pb n="112"/>
+          <head>SCENE IV.</head>
           <sp xml:id="V04-1" who="leucosie">
             <l n="1788" xml:id="l1788">Ah ! ma sœur, Dieux, comment oseray-je paroistre ?</l>
             <l n="1789" xml:id="l1789">Complice par ma faute et ma credule amour</l>
@@ -2638,6 +2728,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V.</head>
           <sp xml:id="V05-1" who="ulisse">
             <l n="1825" xml:id="l1825">Que ne puis-je esperer en ce <ref target="#fatal">fatal*</ref> moment                </l>
             <l n="1826" xml:id="l1826">La gloire de servir vostre <ref target="#ressentiment">ressentiment*</ref> ?</l>
@@ -2672,6 +2763,7 @@
         </div>
         <div type="scene" xml:id="V06">
           <pb n="116"/>
+          <head>SCENE VI.</head>
           <sp xml:id="V06-1" who="euriloche">
             <l n="1847" xml:id="l1847">Ouy, le voile est levé, Princesse, je vous ayme ;</l>
             <l n="1848" xml:id="l1848">J’ay feint pour vostre sœur, et mon amour extresme*</l>
@@ -2798,6 +2890,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII.</head>
           <sp xml:id="V07-1" who="perimede">
             <l n="1938" xml:id="l1938">Seigneur, le Ciel se trouble, et son obscurité</l>
             <l n="1939" xml:id="l1939">Favorise un vaisseau qui semble nous poursuivre.</l>
@@ -2819,6 +2912,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>SCENE VIII.</head>
           <sp xml:id="V08-1" who="jupiter">
             <l n="1945" xml:id="l1945">Du trosne où je m’assois dans le plus haut des Cieux,</l>
             <l n="1946" xml:id="l1946">D’où je puis commander les hommes et les Dieux,</l>
@@ -2889,6 +2983,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V09">
+          <head>SCENE IX.</head>
           <sp xml:id="V09-1" who="circe">
             <l n="2001" xml:id="l2001">Ces orages soudains et ces bruits estonnants</l>
             <l n="2002" xml:id="l2002">Ces vents impetueux ; ces esclairs surprenans</l>
@@ -2927,12 +3022,14 @@
         </div>
         <div type="scene" xml:id="V10">
           <pb n="127"/>
+          <head>SCENE X.</head>
           <sp xml:id="V10-1" who="jupiter">
             <l n="2027" xml:id="l2027">Nimphes voicy le coup qui vous fera justice</l>
             <l n="2028" xml:id="l2028">Vous pouvez maintenant jouyr de son suplice.</l>
           </sp>
         </div>
         <div type="scene" xml:id="V11">
+          <head>SCENE XI.</head>
           <sp xml:id="V11-1" who="leucosie">
             <l n="2029" xml:id="l2029">Quels feux ! quels feux de joye en cet embrasement ?</l>
             <l n="2030" xml:id="l2030">Mais quelle peur succede à mon <ref target="#ressentiment">ressentiment*</ref> ?</l>
@@ -2959,6 +3056,7 @@
         </div>
         <div type="scene" xml:id="V12">
           <pb n="R ; 129"/>
+          <head>SCENE DERNIERE.</head>
           <sp xml:id="V12-1" who="phaetuse">
             <l part="F">Vous puis-je encor revoir ?</l>
             <l n="2039" xml:id="l2039">Vous voyez par quels <ref target="#soin">soins*</ref> les Dieux m’ont protégée,</l>
@@ -3006,6 +3104,7 @@
         </div>
       </div>
       <div type="appendix" xml:id="privilege">
+        <head>Extraict du Privilege du Roy.</head>
         <p>Par grace &amp; privilege du Roy donné à Paris le 10. jour de Novembre 1648. Signé, Par le Roy en son Conseil, Le Brun. Il est permis à Toussainct Quinet Marchand Libraire à Paris, d’imprimer ou faire imprimer, vendre &amp; distribuer une pièce de Theatre intitulée <hi rend="i">Ulysse dans l’isle de Circé, ou Euriloche foudroyé, par le sieur Boyer</hi>, durant le temps &amp; espace de cinq ans, à compter du jour qu’il sera achevé d’imprimer : Et defenses sont faites à tous Imprimeurs, Libraires &amp; autres de contrefaire ledit Livre, ny le vendre ou exposer en vente d’autre impression que de celle qu’il a fait faire, à peine de trois mil livres d’amende, &amp; de tous despens, dommages &amp; interests, ainsi qu’il est plus amplement porté par lesdites Lettres, qui sont en vertu du present extrait tenuës pour bien &amp; deuëment signifiees, à ce qu’aucun n’en pretende cause d’ignorance.</p>
         <p rend="center">
           <hi rend="i">Achevé d’imprimer pour la premiere fois le <lb/>premier Decembre 1649.</hi>

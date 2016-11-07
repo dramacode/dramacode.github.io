@@ -1,15 +1,69 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'Absent chez soy. Comédie</title>
+        <author key="Ouville, Antoine d' (1590?-1656?)">Antoine d'Ourville</author>
+        <editor>Céline Fournial</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Céline Fournial dans le cadre d'un mémoire de
+          maîtrise sous la direction de Georges Forestier (2003-2004)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/ouville_absent-chez-soi/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/ouville_absent-chez-soi.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/ouville_absent-chez-soi.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/ouville_absent-chez-soi.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/ouville_absent-chez-soi.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1643"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>L’ABSENT <lb/>CHEZ SOY. <lb/>COMEDIE.</head>
       <div>
+        <head>EXTRAIT DU PRIVILEGE.</head>
         <p>Par grâce &amp; Privilège du Roy, donné à Paris le 21 Juillet 1643, signé, par le Roy en son Conseil LE BRUN, Il est permis à TOUSSAINCT QUINET, Marchand Libraire à Paris, d’imprimer ou faire imprimer, vendre &amp; distribuer une pièce de Théâtre intitulée, <hi rend="i">L’Absent chez soy, Comédie du sieur D’Ouville</hi>, &amp; ce durant le temps de <hi rend="i">cinq ans</hi> à compter du jour que ladite pièce sera achevée d’imprimer. Et deffenses sont faites à tous Imprimeurs &amp; Libraires d’en imprimer, vendre et distribuer d’autre impression que de celle qu’aura fait faïre ledit QUINET, ou les ayans cause ; sur peine aux contrevenans de mil livres d’amende, confiscation des exemplaires, &amp; de tous les despens, dommages, &amp; interests, ainsi qu’il est plus au long porté par lesdites lettres, qui sont en vertu du present Extraict tenuës pour deüment signifiées.</p>
         <p rend="center">Achevé d’imprimer le 28. Avril 1643.</p>
         <p rend="center">Les Exemplaires ont esté fournis.</p>
       </div>
-      <div xml:id="acteurs"/>
+      <div xml:id="acteurs">
+        <head>Les noms des Acteurs.</head>
+      </div>
       <div xml:id="I" type="act">
         <pb n="A1"/>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE I.</head>
           <sp xml:id="I01-1" who="diane">
             <l n="1" xml:id="l1">JE beny cette nuict qui me donne le bien</l>
             <l n="2" xml:id="l2">De goûter les plaisirs d’un si doux entretien.</l>
@@ -57,6 +111,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II</head>
           <sp xml:id="I02-1" who="pauline">
             <l n="23" xml:id="l23">JE me réjoüys fort de voir que nos maistresses</l>
             <l n="24" xml:id="l24">S’entr’ayment, &amp; se font ainsi tant de <ref target="#caresse">caresses*</ref>,</l>
@@ -157,6 +212,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III</head>
           <sp xml:id="I03-1" who="diane">
             <l part="F">Et bien quelle paresse !</l>
           </sp>
@@ -199,6 +255,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV</head>
           <sp xml:id="I04-1" who="diane">
             <l n="91" xml:id="l91">Vous vous estes, Monsieur, fait bien long-temps attendre[.]</l>
           </sp>
@@ -242,6 +299,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V</head>
           <pb n="11" xml:id="p11"/>
           <sp xml:id="I05-1" who="clorimant">
             <l n="115" xml:id="l115" part="I">Bien que t’a[-t-elle] dit ?</l>
@@ -287,6 +345,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI</head>
           <pb n="13" xml:id="p13"/>
           <sp xml:id="I06-1" who="polemas">
             <l n="136" xml:id="l136" part="I">Elize ne vient point !</l>
@@ -499,6 +558,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE VII</head>
           <sp xml:id="I07-1" who="clorimant">
             <l n="259" xml:id="l259">Je bruslois de desir dedans l’impatience</l>
             <l n="260" xml:id="l260">Que j’avois de joüir de ta chere presence.</l>
@@ -622,7 +682,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="26" xml:id="p26"/>
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE I</head>
           <sp xml:id="II01-1" who="clorimant">
             <l n="343" xml:id="l343">Je me trompe, ou je voy Pauline dans la ruë ?</l>
             <l n="344" xml:id="l344" part="I">Dy moy, que fais-tu là ?</l>
@@ -668,6 +730,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II</head>
           <pb n="28" xml:id="p28"/>
           <sp xml:id="II02-1" who="clitandre">
             <l n="363" xml:id="l363">Pardonnez-moy, je viens de la part d’une Dame</l>
@@ -787,6 +850,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III</head>
           <pb n="E 33"/>
           <sp xml:id="II03-1" who="elize">
             <l n="445" xml:id="l445" part="I">Qu’on ouvre promptement.</l>
@@ -1008,6 +1072,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IIII</head>
           <pb n="42" xml:id="p42"/>
           <sp xml:id="II04-1" who="clorimant">
             <l n="547" xml:id="l547">Ingrate &amp; <ref target="#fier">fiere*</ref> Elize a mon ame agitée</l>
@@ -1183,6 +1248,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V</head>
           <pb n="G 49"/>
           <sp xml:id="II05-1" who="diane">
             <l n="679" xml:id="l679">Clitandre s’entretient long-temps avec Elize,</l>
@@ -1204,6 +1270,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI</head>
           <pb n="50" xml:id="p50"/>
           <sp xml:id="II06-1" who="diane">
             <l n="688" xml:id="l688">Qu’il est triste ? avez vous quelque trouble dans l’ame ?</l>
@@ -1368,7 +1435,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="H 57" xml:id="p57"/>
+        <head>ACTE III</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE I</head>
           <sp xml:id="III01-1" who="clorimant">
             <l n="767" xml:id="l767" part="I">Tout mon fait est-il prest ?</l>
           </sp>
@@ -1466,6 +1535,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II</head>
           <sp xml:id="III02-1" who="pauline">
             <l part="F">O le <ref target="#brave2">brave*</ref> soldat !</l>
           </sp>
@@ -1613,6 +1683,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III</head>
           <sp xml:id="III03-1" who="geraste">
             <l n="900" xml:id="l900">Vous avez tort, Monsieur, mais que pensez-vous faire ?</l>
             <l n="901" xml:id="l901">Songez qui vous attaque, &amp; ne vous laissez point</l>
@@ -1689,6 +1760,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV</head>
           <sp xml:id="III04-1" who="ormin">
             <l n="933" xml:id="l933" part="I">Vous estes tout pensif, qu’avez vous ?</l>
           </sp>
@@ -1769,6 +1841,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V</head>
           <sp xml:id="III05-1" who="polemas">
             <l part="F">Toute la Cour, Monsieur,</l>
             <l n="982" xml:id="l982">Ayant sçeu que de vous je reçois tant d’honneur,</l>
@@ -1820,6 +1893,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI</head>
           <sp xml:id="III06-1" who="pauline">
             <l n="1001" xml:id="l1001">Un <ref target="#cavalier">Cavalier*</ref> là bas vous demande, Monsieur.</l>
           </sp>
@@ -2031,6 +2105,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE VII</head>
           <pb n="84" xml:id="p84"/>
           <sp xml:id="III07-1" who="polemas">
             <l n="1113" xml:id="l1113">Ce <ref target="#cavalier">Cavalier*</ref> icy sans doute me prenoit</l>
@@ -2064,6 +2139,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III08">
+          <head>SCENE VIII</head>
           <sp xml:id="III08-1" who="ormin">
             <l n="1124" xml:id="l1124">Je ne sçaurois celer, Pauline, que je t’ayme.</l>
             <l n="1125" xml:id="l1125">Ta maistresse &amp; mon maistre estans tous deux rangez</l>
@@ -2132,6 +2208,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III09">
+          <head>SCENE IX</head>
           <sp xml:id="III09-1" who="elize">
             <l part="F">Ah, Pauline, je pasme !</l>
             <l n="1157" xml:id="l1157">En cette <ref target="#occasion1">occasion*</ref>, qui me peut consoler ?</l>
@@ -2193,7 +2270,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="91" xml:id="p91"/>
+        <head>ACTE IIII</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE I</head>
           <sp xml:id="IV01-1" who="clorimant">
             <l n="1189" xml:id="l1189">Est-il dessous le Ciel un plus heureux Amant ?</l>
           </sp>
@@ -2268,6 +2347,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II</head>
           <sp xml:id="IV02-1" who="elize">
             <l n="1219" xml:id="l1219">Parce que vous avez juste subject de plainte,</l>
             <l n="1220" xml:id="l1220">Je n’ay point, chere amye, en cette rude atteinte</l>
@@ -2412,6 +2492,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III</head>
           <pb n="100" xml:id="p100"/>
           <sp xml:id="IV03-1" who="octave">
             <l part="F">En cette <ref target="#occasion1">occasion*</ref></l>
@@ -2530,6 +2611,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV</head>
           <sp xml:id="IV04-1" who="clorimant">
             <l n="1375" xml:id="l1375">Justes Dieux quels dédains vous me faites paroistre,</l>
             <l n="1376" xml:id="l1376" part="I">Qui vous oblige à fuyr ?<pb n="O 105"/></l>
@@ -2598,6 +2680,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V</head>
           <sp xml:id="IV05-1" who="clorimant">
             <l n="1416" xml:id="l1416">Acheve-moy cruelle, assouvy ton envie.</l>
             <l n="1417" xml:id="l1417">Madame permettez que je suive ses pas.</l>
@@ -2619,6 +2702,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI</head>
           <sp xml:id="IV06-1" who="diane">
             <l n="1423" xml:id="l1423">Que dis-tu de cela ? vois-tu comme on nous traitte ?</l>
           </sp>
@@ -2633,6 +2717,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE VII</head>
           <sp xml:id="IV07-1" who="ormin">
             <l n="1429" xml:id="l1429">Pensez y mieux Monsieur, pourquoy desirez vous</l>
             <l n="1430" xml:id="l1430">De deux hommes d’honneur exciter le courroux ?</l>
@@ -2699,6 +2784,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV08">
+          <head>SCENE VIII</head>
           <sp xml:id="IV08-1" who="clorimant">
             <l n="1464" xml:id="l1464">Geraste escoute un mot, dis-tu pas que Pauline</l>
             <l n="1465" xml:id="l1465" part="I">Te veut entretenir cette nuit ?</l>
@@ -2726,6 +2812,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV09">
+          <head>SCENE IX</head>
           <sp xml:id="IV09-1" who="elize">
             <l n="1473" xml:id="l1473">Geraste doit-il pas te venir voir icy ?</l>
           </sp>
@@ -2934,6 +3021,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV10">
+          <head>SCENE X</head>
           <sp xml:id="IV10-1" who="elize">
             <l n="1576" xml:id="l1576">Il est le seul coupable &amp; me fait criminelle.<pb n="Q 121"/></l>
           </sp>
@@ -3065,7 +3153,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="126" xml:id="p126"/>
+        <head>ACTE V</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE I</head>
           <sp xml:id="V01-1" who="octave">
             <l n="1617" xml:id="l1617">D’où vient que je vous voy, Monsieur si tost levé ?</l>
           </sp>
@@ -3100,6 +3190,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II</head>
           <sp xml:id="V02-1" who="polemas">
             <l n="1633" xml:id="l1633">Ma fille quel sujet vous fait veiller ainsi ?</l>
           </sp>
@@ -3225,6 +3316,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III</head>
           <sp xml:id="V03-1" who="clitandre">
             <l n="1697" xml:id="l1697">C’en est fait me voilà maintenant <ref target="#degager">desgagé*</ref>,</l>
             <l n="1698" xml:id="l1698">J’ay d’Elize &amp; du pere aujourd’huy pris congé,</l>
@@ -3253,6 +3345,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV</head>
           <sp xml:id="V04-1" who="diane">
             <l n="1710" xml:id="l1710">Que veut dire cela ? Clitandre entrer chez moy ?</l>
             <l n="1711" xml:id="l1711">Avez-vous bien encor assez de hardiesse ?</l>
@@ -3390,6 +3483,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V</head>
           <pb n="139" xml:id="p139"/>
           <sp xml:id="V05-1" who="octave">
             <l n="1797" xml:id="l1797">Comme je vous cherchois, quelqu’un m’a dit Monsieur,</l>
@@ -3486,6 +3580,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI</head>
           <pb n="143" xml:id="p143"/>
           <sp xml:id="V06-1" who="julie">
             <l n="1857" xml:id="l1857">Encor que dites-vous de cette <ref target="#lachete">lascheté*</ref> ?</l>
@@ -3514,6 +3609,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII</head>
           <sp xml:id="V07-1" who="julie">
             <l n="1873" xml:id="l1873">Quoy vous estes icy Clorimant ? justes Dieux !</l>
           </sp>
@@ -3615,6 +3711,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>SCENE VIII</head>
           <pb n="148" xml:id="p148"/>
           <sp xml:id="V08-1" who="polemas">
             <l n="1931" xml:id="l1931">Des sieges promptement, sçachez mon cher Clitandre,</l>
@@ -3751,6 +3848,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V09">
+          <head>SCENE IX &amp; derniere</head>
           <sp xml:id="V09-1" who="clorimant">
             <l n="1999" xml:id="l1999">Par vostre mandement je suis venu, Madame,</l>
             <l n="2000" xml:id="l2000">Pour vous dire combien je sens d’<ref target="#ayse">ayse*</ref> en mon ame</l>

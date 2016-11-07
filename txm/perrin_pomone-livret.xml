@@ -1,8 +1,54 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Livret de Pomone, pastorale en musique</title>
+        <author key="Perrin, Pierre (1620?-1675)">Pierre Perrin</author>
+        <author key="Cambert, Robert (1627-1677)">Robert Cambert</author>
+        <principal>Georges Forestier</principal>
+        <editor>Pauline Schill</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Pauline Schill dans le cadre d'un mémoire de
+          maîtrise sous la direction de Georges Forestier (2010-2011)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/perrin_pomone-livret/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/perrin_pomone-livret.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/perrin_pomone-livret.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/perrin_pomone-livret.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/perrin_pomone-livret.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1671"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="show" type="genre">Pastorale en musique</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div xml:id="auroy">
         <pb n="A,1"/>
+        <head>AU ROY.</head>
         <pb n="3" xml:id="p3"/>
         <p>Sire,</p>
         <p>Aprez avoir rendu Vostre Estat victorieux, tranquille &amp; bien-heureux, il ne restoit plus à V.M. qu’à le rendre riche, brillant &amp; magnifique. C’est dans cette veuë qu’elle a transplanté dans son Royaume les Arts Liberaux, le Commerce &amp; les Manufactures, &amp; qu’elle s’est appliquée avec tant de soin à l’embellissement de ses Maisons, &amp; de sa Ville Capitale : C’est cét Esprit de grandeur &amp; de magnificence, dont Vostre Ame Royale est entierement possedée, qui a fait sortir de terre ces grands Palais du Louvre, &amp; de Versailles, &amp; qui les a comblez de cette profusion admirable de meubles &amp; de richesses : C’est luy qui a donné à la France tant de beaux divertissemens, &amp; nouvellement ce Superbe Ballet, qui a fait l’<ref target="#etonnement">étonnement*</ref> de toute l’Europe. Toutes ces choses m’ont persuadé, S I R E, que V. M. auroit agreable que <pb n="4" xml:id="p4"/> l’on introduisit dans son Royaume le seul spectacle &amp; l’unique divertissement dont il estoit privé, qui est celuy des Opera, que l’Italie &amp; l’Allemagne avoient de particuliers, &amp; sembloient nous reprocher tous les jours. V. M. S I RE, a eu la bonté d’approuver mon dessein, &amp; de l’appuyer de son authorité,  &amp; j’ay eu le bon-heur d’estre assisté dans cette entreprise des soins et de la dépense d’un des plus grands Seigneurs tout ensemble, &amp; des plus beaux Genies de Vostre Royaume.  Avec cela, S I R E, V. M. trouvera sans doute que nous avons mal répondu à la grandeur de ses illustres desseins, &amp; à la magnificence de ses Ballets : Mais quelle proportion y peut-il avoir entre le Soleil et les Etoiles, entre de foibles sujets, &amp; le plus grand des Roys. Le courage, S I R E, nous manque moins que les forces : Elles redoubleront, si V. M. honore nos representations de sa Royale presence, &amp; nostre Academie de sa toute-puissante protection : Nous luy demandons tres-humblement l’un &amp; l’autre. Pour moy, S I R E, je suis déja plus que content d’avoir témoigné par cet effort temeraire le <ref target="#zele">zele*</ref> passionné que j’ay pour l’avancement de vostre gloire, &amp; la profonde veneration avec laquelle je suis,</p>
@@ -12,6 +58,7 @@
         <p>PERRIN.</p>
       </div>
       <div xml:id="avantpropos">
+        <head>AVANT-PROPOS.</head>
         <pb n="B,5" xml:id="p5"/>
         <p>Dez les premieres representations de cét Opera, mes amis m’avertirent que l’on en critiquoit les paroles, &amp; comme ils estoient persuadez que c’estoit injustement, ils me conseillerent pour les justifier de les faire imprimer : Je m’en suis deffendu jusqu’icy, en leur representant que je n’estois point surpris des mauvais bruits que l’on en faisoit courir ; qu’outre que par une <ref target="#fronde">fronde*</ref> de deux années j’estois tout accoustumé &amp; tout preparé aux caquets des <ref target="#envie1">envieux*</ref>, des interessez, &amp; des ignorans, dont le nombre estoit infiny, je ne doutois pas que la <ref target="#nouveaute">nouveauté*</ref> de cette Poësie Lyrique &amp; Dramatique tout ensemble ne frapat d’abord les plus <ref target="#habile">habiles*</ref> , jusqu’à ce qu’ils en eussent pris le goust, &amp; qu’à force de reflechir dessus ils fussent entrez dans son esprit, d’autant plus qu’ils ne trouveroient pas icy ce qu’ils attendoient, qui estoit des Airs &amp; des Chansons de Chambre sur des paroles retournées &amp; pleines de redites continuelles, telles que la Musique Françoise en a produit jusqu’icy, mais d’une manière de Poësie originale et sans modele : Que je devois estre content de voir que contre l’opinion generale j’estois parvenu à ma fin, &amp; que ces Vers si criti- <pb n="B, 6" xml:id="p6"/>quez formoient non seulement un Opera François, que les Maistres de l’Art soûtenoient estre impossible par le deffaut de la langue &amp; des Acteurs ; mais, de l’aveu public, le spectacle le plus surprenant, le plus divertissant &amp; le plus beau que des particuliers ayent donné de nos jours à la France. Que les plus mal intentionnez, apres l’avoir veu &amp; <ref target="#censurer">censuré*</ref> en toutes ses parties, estoient forcez de revenir, &amp; d’avoüer qu’ils ne s’y estoient point ennuyez, &amp; que tout leur <ref target="#chagrin">chagrin*</ref>, apres deux heures &amp; demie de representation, estoit de le voir si-tost finir : Qu’au reste ce n’estoient que des bruits confus &amp; mal articulez, qui n’aboutissoient qu’à blâmer trois ou quatre vers, dont les expressions, disoit-on, estoient trop basses et trop vulgaires, sans considerer ny les personnes qui parlent, ny les choses ausquelles elles sont appliquées, &amp; lesquels mesme j’ay changez pour éviter procez, &amp; pour m’épargner des explications importunes.</p>
         <p>Que le reste n’estoient que de fausses plaisanteries, que l’on y crioit, disoit-on, des Pommes &amp; des Artichauts, que l’on y parloit de <ref target="#bourrique">Bourriques*</ref>, &amp; de pareils quolibets, qui ne meritoient pas une reflexion. Qu’enfin je devois estre consolé d’apprendre que quatre ou cinq de nos plus <ref target="#habile">habiles*</ref> hommes en Poësie, qui connoissoient par leur propre experience l’Art &amp; la difficulté de composer des paroles pour la Musique, ne disoient pas du mal de celles-cy, &amp; y reprenoient peu de choses, qu’ils confessoient encore estre faciles à corriger.</p>
@@ -22,15 +69,26 @@
         <pb n="C, 9" xml:id="p9"/>
       </div>
       <div xml:id="personnages">
+        <head>PERSONNAGES.</head>
         <div>
-          <div/>
+          <head>MUSICIENS.</head>
           <div>
+            <head>Personnages veritables.</head>
+          </div>
+          <div>
+            <head>Personnages feints, &amp; transformez.</head>
             <pb n="10" xml:id="p10"/>
           </div>
         </div>
-        <div/>
-        <div/>
         <div>
+          <head>DANSEURS. 
+              <lb/>personnages veritables.</head>
+        </div>
+        <div>
+          <head>PERSONNAGES MUETS.</head>
+        </div>
+        <div>
+          <head>Decorations, ou <ref target="#changement1">changements*</ref> de theatre.</head>
           <p>La veuë de Paris à l’endroit du Louvre.</p>
           <p>Vergers de Pomone.</p>
           <p>Parc de Chesnes.</p>
@@ -41,6 +99,7 @@
         </div>
       </div>
       <div>
+        <head>PROLOGUE.</head>
         <pb n="11" xml:id="p11"/>
         <sp who="lanymphedelaseine">
           <l n="1" xml:id="l1">Toy qui vis autresfois le Fleuve des Romains</l>
@@ -86,8 +145,10 @@
         </sp>
       </div>
       <div type="act">
+        <head>Acte I.</head>
         <pb n="D,13" xml:id="p13"/>
         <div type="scene">
+          <head>Scene premiere.</head>
           <sp who="pomone">
             <l n="29" xml:id="l29">Passons nos jours dans ces vergers,</l>
             <l n="30" xml:id="l30">Loin des amours &amp; des Bergers.</l>
@@ -157,6 +218,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene deuxiesme.</head>
           <sp who="flore">
             <l n="68" xml:id="l68">Ah ! ma sœur, à quoy penses-tu ?</l>
             <l n="69" xml:id="l69">Veux-tu bannir de ton empire</l>
@@ -210,6 +272,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene troisiesme.</head>
           <sp who="ledieudesjardins">
             <l n="86" xml:id="l86">Soulage donc les flames</l>
             <l n="87" xml:id="l87">Du grand Dieu des Jardins.</l>
@@ -225,6 +288,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene Quatriesme.</head>
           <sp who="faune">
             <l n="97" xml:id="l97">C’est bien à toy, Dieu miserable,</l>
             <l n="98" xml:id="l98">De pretendre à tes maux quelque soulagement !</l>
@@ -294,6 +358,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene cinquiesme.</head>
           <sp who="faune ledieudesjardins">
             <l n="135" xml:id="l135">Donnez-luy vostre main, donnez-luy vostre cœur.</l>
           </sp>
@@ -308,6 +373,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène sixiesme.</head>
           <sp who="faune">
             <l n="141" xml:id="l141">Voyla le prix de vos Musiques,</l>
             <l n="142" xml:id="l142">Et ce que meritent vos chants :</l>
@@ -321,6 +387,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene septiesme.</head>
           <sp who="vertune">
             <l n="146" xml:id="l146">Helas !que me sert-il de changer tous les jours</l>
             <l n="147" xml:id="l147">De forme et de figure,</l>
@@ -341,9 +408,14 @@
           </sp>
         </div>
       </div>
-      <div/>
+      <div>
+        <head>Intermède I.
+          </head>
+      </div>
       <div type="act">
+        <head>Acte II.</head>
         <div type="scene">
+          <head>Scène première.</head>
           <sp who="beroe">
             <l n="162" xml:id="l162">Ah ! n’est-ce pas assez qu’on aime et qu’on soupire</l>
             <l n="163" xml:id="l163">Pendant le cours de sa jeune saison ?</l>
@@ -358,6 +430,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène deuxiesme.</head>
           <sp who="vertune">
             <l n="172" xml:id="l172">O doux Zephirs</l>
             <l n="173" xml:id="l173">Vous enflamez la terre</l>
@@ -380,6 +453,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene troisiesme.</head>
           <sp who="beroe">
             <l n="190" xml:id="l190">Quoy toujours inflexible,</l>
             <l n="191" xml:id="l191">Toujours sourd à mes vœux,</l>
@@ -405,6 +479,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene quatriesme. </head>
           <pb n="24" xml:id="p24"/>
           <sp who="beroe">
             <l n="200" xml:id="l200">Que voyez-vous mes yeux ?</l>
@@ -420,6 +495,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene cinquiesme.</head>
           <sp who="beroe">
             <l n="210" xml:id="l210">Mais quel éclair ? quel horrible tonnerre ?</l>
             <l n="211" xml:id="l211">Quel tremblement de terre ?</l>
@@ -446,12 +522,14 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene sixiesme.</head>
           <sp who="ledieudesjardins lesjardiniers">
             <l n="226" xml:id="l226">Pauvre Nourrisse, helas ! tes cris sont superflus.</l>
             <l n="227" xml:id="l227">Donnons, donnons, frapons dessus.</l>
           </sp>
         </div>
         <div type="scene">
+          <head>Scene septiesme.</head>
           <sp who="follets-bergeres1">
             <l n="228" xml:id="l228" part="I">Tu veux m’assassiner ?</l>
           </sp>
@@ -544,6 +622,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene huitiesme.</head>
           <sp who="ledieudesjardins lesjardiniers">
             <l n="258" xml:id="l258"><ref target="#peste2">Peste*</ref> !quel <ref target="#changement2">changement*</ref> ?quelle metamorphose ?</l>
             <l n="259" xml:id="l259">Ah !nous trouvons l’épine, où nous cherchons la Rose !</l>
@@ -594,9 +673,14 @@
           </sp>
         </div>
       </div>
-      <div/>
+      <div>
+        <head>Intermede II.
+          </head>
+      </div>
       <div type="act">
+        <head>Acte III.</head>
         <div type="scene">
+          <head>Scene premiere.</head>
           <sp who="vertune">
             <l n="288" xml:id="l288">A la fin délivré d’une troupe importune,</l>
             <l n="289" xml:id="l289">Je puis me transformer et paréstre à ses yeux.</l>
@@ -605,6 +689,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene deuxiesme.</head>
           <sp who="pomone venilie">
             <l n="292" xml:id="l292">Sortez, petits Oyseaux, sortez de vos boccages,</l>
             <l n="293" xml:id="l293">Quittez, quittez vos nids et vos buissons,</l>
@@ -616,6 +701,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene troisiesme.</head>
           <sp who="vertune-pluton">
             <l n="299" xml:id="l299">Charmé de tes accents, adorable Pomone,</l>
             <l n="300" xml:id="l300">Mais plus charmé de l’éclat de tes yeux,</l>
@@ -629,6 +715,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene quatriesme.</head>
           <pb n="32" xml:id="p32"/>
           <sp who="vertune-pluton">
             <l n="308" xml:id="l308">Mon throne et mes tresors, ma flame et mes <ref target="#langueur">langueurs*</ref></l>
@@ -660,6 +747,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene cinquiesme.</head>
           <sp who="juturne venilie">
             <l n="324" xml:id="l324">Liberté, liberté.</l>
           </sp>
@@ -685,6 +773,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene sixiesme.</head>
           <pb n="34" xml:id="p34"/>
           <sp who="vertune">
             <l n="339" xml:id="l339">J’ay perdu mes soins et mes pas :</l>
@@ -694,6 +783,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene septiesme.</head>
           <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
             <l n="343" xml:id="l343">Place, place voisins,</l>
             <l n="344" xml:id="l344">Place au Dieu des raisins. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
@@ -751,6 +841,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene huitiesme.</head>
           <pb n="36" xml:id="p36"/>
           <sp who="faune">
             <l n="367" xml:id="l367">O Dieux ! quelle chaleur m’enflame !</l>
@@ -776,6 +867,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene neufviesme.</head>
           <pb n="K,37" xml:id="p37"/>
           <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
             <l n="380" xml:id="l380">Beuvons tous à la ronde,</l>
@@ -836,9 +928,13 @@
           </sp>
         </div>
       </div>
-      <div/>
+      <div>
+        <head>Intermede III.</head>
+      </div>
       <div type="act">
+        <head>Acte IV.</head>
         <div type="scene">
+          <head>Scene premiere.</head>
           <sp who="beroe">
             <l n="413" xml:id="l413">Sors de mon cœur,</l>
             <l n="414" xml:id="l414">Folle <ref target="#furieux1">fureur*</ref>,</l>
@@ -857,11 +953,9 @@
             <l n="427" xml:id="l427">Observons ses desseins, fourbe, lâche <ref target="#imposture">imposteur*</ref>.</l>
           </sp>
         </div>
-        <div type="scene"> <pb n="40" xml:id="p40"/>
-            
-          <sp who="vertune"><l n="428" xml:id="l428">Amour, dy-moy, que dois-je faire,</l><l n="429" xml:id="l429">Pour la fléchir et pour luy plaire ?</l><l n="430" xml:id="l430">Amour, dy-moy, que dois-je faire ?</l><l n="431" xml:id="l431">En qui me transformer ? des plus puissans des Dieux,</l><l n="432" xml:id="l432">Cette <ref target="#insensible">insensible*</ref> a méprisé les vœux.</l><l n="433" xml:id="l433">Mais pourquoy l’attaquer sous la forme d’un autre ?</l><l n="434" xml:id="l434">Peut-estre pourrions-nous luy plaire sous la nostre.</l><l n="435" xml:id="l435">Tachons de la surprendre une derniere fois,</l><l n="436" xml:id="l436">Prenons de Beroé la figure et la voix,</l><l n="437" xml:id="l437">Cette vieille insensée</l><l n="438" xml:id="l438">Possede entierement son cœur et sa pensée.</l><l n="439" xml:id="l439">Et si dans cet habit je ne puis la tenter,</l><l n="440" xml:id="l440">Je veux me presenter,</l><l n="441" xml:id="l441">Et luy parler moy-mesme</l><l n="442" xml:id="l442">De mon amour extréme,</l><l n="443" xml:id="l443">Je veux…mais la voicy.</l></sp>
-          </div>
+        <div type="scene"><head>Scene seconde.</head> <pb n="40" xml:id="p40"/><sp who="vertune"><l n="428" xml:id="l428">Amour, dy-moy, que dois-je faire,</l><l n="429" xml:id="l429">Pour la fléchir et pour luy plaire ?</l><l n="430" xml:id="l430">Amour, dy-moy, que dois-je faire ?</l><l n="431" xml:id="l431">En qui me transformer ? des plus puissans des Dieux,</l><l n="432" xml:id="l432">Cette <ref target="#insensible">insensible*</ref> a méprisé les vœux.</l><l n="433" xml:id="l433">Mais pourquoy l’attaquer sous la forme d’un autre ?</l><l n="434" xml:id="l434">Peut-estre pourrions-nous luy plaire sous la nostre.</l><l n="435" xml:id="l435">Tachons de la surprendre une derniere fois,</l><l n="436" xml:id="l436">Prenons de Beroé la figure et la voix,</l><l n="437" xml:id="l437">Cette vieille insensée</l><l n="438" xml:id="l438">Possede entierement son cœur et sa pensée.</l><l n="439" xml:id="l439">Et si dans cet habit je ne puis la tenter,</l><l n="440" xml:id="l440">Je veux me presenter,</l><l n="441" xml:id="l441">Et luy parler moy-mesme</l><l n="442" xml:id="l442">De mon amour extréme,</l><l n="443" xml:id="l443">Je veux…mais la voicy.</l></sp></div>
         <div type="scene">
+          <head>Scene troisiesme.</head>
           <sp who="pomone">
             <l n="444" xml:id="l444">Qui cause ce soûpir</l>
             <l n="445" xml:id="l445">De <ref target="#langueur">langueur*</ref> et de flame ?</l>
@@ -878,6 +972,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene quatriesme.</head>
           <sp who="pomone">
             <l n="452" xml:id="l452">Mais te voila, Nourrisse,</l>
             <l n="453" xml:id="l453">Hé qui t’a fait absenter si long-temps ?</l>
@@ -885,8 +980,11 @@
             <l n="455" xml:id="l455">Mets-toy là, bonne mere, et voy nos passetemps.</l>
           </sp>
         </div>
-        <div type="scene"/>
         <div type="scene">
+          <head>Scene cinquiesme.</head>
+        </div>
+        <div type="scene">
+          <head>Scene sixiesme. </head>
           <pb n="42" xml:id="p42"/>
           <sp who="pomone">
             <l n="456" xml:id="l456">Hé bien ! que dis-tu ma sœur</l>
@@ -948,6 +1046,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene septiesme.</head>
           <sp who="vertune">
             <l n="486" xml:id="l486">Dequoy m’accuses-tu ? quel crime ay-je commis ?</l>
             <l n="487" xml:id="l487">Ah ! n’ay-je pas sans-toy d’assez fiers ennemis ?</l>
@@ -1008,6 +1107,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene huitiesme.</head>
           <sp who="pomone flore vertune">
             <l n="503" xml:id="l503">O puissance d’amour ! ô divin <ref target="#changement2">changement*</ref> !</l>
             <l n="504" xml:id="l504">Ce que l’esprit et la <ref target="#finesse">finesse*</ref>,</l>
@@ -1017,6 +1117,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene neufviesme.</head>
           <sp who="faune">
             <l n="508" xml:id="l508">Pauvre Dieu des Jardins !</l>
           </sp>
@@ -1047,9 +1148,13 @@
           </sp>
         </div>
       </div>
-      <div/>
+      <div>
+        <head>Intermede IV.</head>
+      </div>
       <div type="act">
+        <head>Acte V.</head>
         <div type="scene">
+          <head>Scene premiere.</head>
           <sp who="pomone">
             <l n="519" xml:id="l519">En vain tu veux me faire voir</l>
             <l n="520" xml:id="l520">L’estat de ton empire et ton divin pouvoir, <pb n="47" xml:id="p47"/></l>
@@ -1071,6 +1176,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene deuxiesme.</head>
           <sp who="flore">
             <l n="534" xml:id="l534">Vous ne manquez pas de couronne,</l>
             <l n="535" xml:id="l535">Heureux amants, et le Ciel vous en donne</l>
@@ -1083,6 +1189,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene troisiesme.</head>
           <pb n="48" xml:id="p48"/>
           <sp who="ledieudesjardins">
             <l n="542" xml:id="l542">Je vous offre, grands Dieux, le present d’un pauvre homme,</l>
@@ -1099,6 +1206,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene quatriesme.</head>
           <sp who="vertune">
             <l n="551" xml:id="l551">Qu’on enfonce mille tonneaux,</l>
             <l n="552" xml:id="l552">Que le vin coule à plein ruisseaux.</l>
@@ -1107,6 +1215,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene cinquiesme.</head>
           <sp who="vertune">
             <l n="555" xml:id="l555">Vous, Esclaves, dansez,</l>
             <l n="556" xml:id="l556">Et la divertissez.</l>
@@ -1119,6 +1228,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene sixiesme.</head>
           <sp who="follets-amours">
             <pb n="50" xml:id="p50"/>
             <l n="561" xml:id="l561">Venez, Dieux et mortels, à cette grande feste,</l>
@@ -1146,6 +1256,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene septiesme.</head>
           <sp who="faune">
             <l n="579" xml:id="l579">Sautons, rions, dansons, etc.</l>
             <l n="580" xml:id="l580">On attrappe aujourd’huy le plus fin des <ref target="#renard">Renards*</ref>,</l>
@@ -1157,6 +1268,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scene derniere.</head>
           <sp who="faune">
             <l n="586" xml:id="l586">Et toy, Nourisse, aussi,</l>
             <l n="587" xml:id="l587">Tu viens paréstre icy ?</l>
@@ -1227,6 +1339,7 @@
         </div>
       </div>
       <div>
+        <head>Lettres patentes du roy, pour establir, par tout le Royaume, des Academies d’opera, ou Representations en Musique en Langue Françoise, sur le pied de celles d’Italie.</head>
         <p>Louis par la grace de Dieu, Roy de France et de Navarre : A tous ceux qui ces presentes Lettres verront ; SALUT. Nôtre amé et feal Pierre Perrin, Conseiller en nos Conseils, et Introducteur des Ambassadeurs prés la personne de feu nostre tres-cher et bien-amé Oncle le Duc d’Orleans, nous a tres-humblement fait remonstrer, que depuis quelques années les Italiens ont estably diverses Academies, dans lesquelles il se fait des Representations en Musique, qu’on nomme OPERA ; Que ces Academies estans composées des plus excellens Musiciens du Pape et autres Princes, mesme de personnes d’honneste famille, Nobles et Gentils-hommes de naissance, tres-sçavans et experimentez en l’Art de la Musique, qui y vont chanter, font à present les plus beaux Spectacles et les plus agreables divertissemens, non seulement des Villes de Rome, Venise et autres Cours d’Italie ; Mais encore ceux des Villes et Cours d’Allemagne et Angleterre, où lesdites Academies ont esté pareillement établies à l’imitation des Italiens ; Que ceux qui font les frais necessaires pour lesdites Representations se<pb n="54" xml:id="p54"/> remboursent de leurs avances sur ce qui se prend du Public à la Porte des lieux où elles se font. Enfin que s’il nous plaisoit luy accorder la permission d’establir dans nostre Royaume de pareilles Academies, pour y faire chanter en public de pareils OPERA , ou Representations en Musique en Langue Françoise ; Il espere que non seulement ces choses contribuëroient à nostre divertissement et à celuy du Public, mais encore que nos Sujets s’accoustumans au goust de la Musique, se porteroient insensiblement à se perfectionner en cet Art, l’un des plus nobles des Liberaux.</p>
         <p>A CES CAUSES, desirant contribuer à l’avancement des Arts dans nostre Royaume, et traitter favorablement ledit Exposant, tant en consideration des services qu’il a rendus à feu nostre tres-cher et bien-amé Oncle le Duc d’Orleans, que de ceux qu’il Nous rend depuis plusieurs années en la composition des paroles de musique qui se chantent tant en nostre Chapelle, qu’en nostre Chambre : Nous avons audit Perrin accordé et octroyé, accordons et octroyons, par ces presentes signées de nôtre main, la permission d’establir en notre bonne ville de Paris, et autres de nostre Royaume, des Academies composées de tel nombre et qualité de Personnes qu’il avisera, pour y representer et chanter en public des OPERA et representations en Musique en Vers François, pareilles et semblables à celles d’Italie. Et pour dédommager l’Exposant des grands frais qu’il conviendra faire pour lesdites representations, tant pour les <pb n="55" xml:id="p55"/>Théâtres, Machines, Decorations, Habits, qu’autres choses necessaires ; Nous luy permettons de prendre du Public telles sommes qu’il avisera, et à cette fin d’establir des Gardes et autres Gens necessaires à la porte des Lieux où se feront lesdites representations ; Faisant tres-expresses inhibitions et deffences à toutes personnes de quelque qualité et condition qu’elles soient, mesme aux Officiers de nostre Maison, d’y entrer sans payer, et de faire chanter de pareilles OPERA ou representations en Musique en vers françois, dans toute l’étenduë de nostre Royaume pendant douze années, sans le consentement et permission dudit Exposant, à peine de dix mil livres d’amende, confiscation des Theatres, Machines et Habits, applicable un tiers à Nous, un tiers à l’Hospital General, et l’autre tiers audit Exposant. Et attendu que lesdits OPERA et Representations sont des ouvrages de Musique tous differents des Comedies recitées, et que Nous les erigeons par cesdites presentes sur le pied de celles des Academies d’Italie, où les Gentil-hommes chantent sans déroger : VOULONS et nous plaist, que tous Gentil-hommes, Damoiselles, et autres personnes, puissent chanter ausdits OPERA, sans que pour ce ils dérogent au tiltre de Noblesse ny à leurs Privileges, Charges, Droits et Immunitez. REVOQUONS par ces presentes toutes Permissions et Privileges que Nous pourrions avoir cy-devant donnez et accordez, tant pour raison desdits OPERA, que pour reciter des <pb n="56" xml:id="p56"/> Comedies en Musique, sous quelques noms, qualitez, conditions et pretextes que ce puisse estre. SI DONNONS EN MANDEMENT à nos amez et feaux Conseillers les Gens tenans nostre Cour de Parlement à Paris, et autres nos Justiciers et Officiers qu’il appartiendra, que ces presentes ils ayent à faire lire, publier et enregistrer, et du contenu en icelles, faire joüir et user ledit Exposant pleinement et paisiblement, cessant et faisant cesser tous troubles et empéchemens au contraire : CAR tel est nostre plaisir. DONNÉ à S. Germain en Laye le 28. Jour de Juin 1669. Et de nostre Regne le vingt-septiéme. Signé LOUIS ; et sur le reply, par le Roy, COLBERT. Et scellé du grand Sceau de cire jaune.</p>
       </div>

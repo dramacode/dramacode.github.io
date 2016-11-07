@@ -1,12 +1,64 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Mort des enfans de Brute. Tragédie</title>
+        <author key="Boyer, Claude (1618-1698)">Boyer, Claude</author>
+        <principal>Georges Forestier</principal>
+        <editor>Amandine Chevreau-Martin</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Amandine Chevreau-Martin sous la direction de Georges Forestier (2012-2013)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/boyer_mort-brute/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boyer_mort-brute.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boyer_mort-brute.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boyer_mort-brute.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boyer_mort-brute.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1648"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-      <div type="set" xml:id="acteurs"/>
+      <head>La Mort des enfans de Brute <lb/>TRAGEDIE</head>
+      <div type="set" xml:id="acteurs">
+        <head>Personnages.</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE I</head>
         <p>
           <title rend="center b">LES ENFANS DE BRUTE. TRAGEDIE</title>
         </p>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="I01-1" who="tite">
             <l n="1" xml:id="l1">Ouy Rome est inflexible, et cette criminelle<pb n="A, 1"/></l>
             <l n="2" xml:id="l2">Joint le titre d’injuste à celuy de <ref target="#rebelle">rebelle*</ref>,</l>
@@ -213,6 +265,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II</head>
           <sp xml:id="I02-1" who="tullie">
             <l part="F">Ah vous vivrés Princes, si vostre vie</l>
             <l n="178" xml:id="l178">Par ma mort seulemen vous peut estre ravie.</l>
@@ -384,7 +437,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="II01-1" who="brute">
             <l n="305" xml:id="l305">Mes enfans, les Romains se rendent à vos larmes,<pb n="C, 17"/></l>
             <l n="306" xml:id="l306">Si l’orgueil des Tarquins leur fit prendre les armes,</l>
@@ -479,6 +534,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II</head>
           <sp xml:id="II02-1" who="tibere">
             <l n="369" xml:id="l369" part="I">Quel est vostre dessein !</l>
           </sp>
@@ -678,6 +734,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III</head>
           <sp xml:id="II03-1" who="tullie">
             <l n="502" xml:id="l502">Et bien, Princes, quel est le destin de Tullie ?<pb n="29"/></l>
           </sp>
@@ -732,6 +789,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV</head>
           <sp xml:id="II04-1" who="tullie">
             <l n="530" xml:id="l530">Dans quel nouveau malheur le sort me precipite !<pb n="31"/></l>
             <l n="531" xml:id="l531">Auroit-il sur Tarquin porté ses derniers <ref target="#coup1">coups*</ref> ?</l>
@@ -782,6 +840,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V</head>
           <sp xml:id="II05-1" who="tullie">
             <l n="558" xml:id="l558">Cher Vitelle, est-ce assez de vous donner des larmes* ?<pb n=" E, 33"/></l>
             <l n="559" xml:id="l559">Et puisque je vous pers apres de tels malheurs,</l>
@@ -878,7 +937,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>ACTE III</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="III01-1" who="tibere">
             <l n="615" xml:id="l615">Advertis-la, Livie, il sera fort aisé,<pb n="37"/></l>
             <l n="616" xml:id="l616">De dissiper l’<ref target="#ennui">ennuy*</ref> que ce songe a causé :</l>
@@ -965,6 +1026,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II</head>
           <sp xml:id="III02-1" who="brute">
             <l n="684" xml:id="l684">Qu’on saisisse Vitelle, et qu’on l’amene icy :<pb n="F, 41"/></l>
             <l n="685" xml:id="l685">Le Ciel a mis au jour ses lâches artifices ;</l>
@@ -1031,6 +1093,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III</head>
           <sp xml:id="III03-1" who="brute">
             <l n="741" xml:id="l741">Vitelle ? car enfin le <ref target="#soin1">soin*</ref> de la vangeance<pb n=" 44"/></l>
             <l n="742" xml:id="l742">M’oste les sentimens que donne l’alliance ;</l>
@@ -1194,6 +1257,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV</head>
           <sp xml:id="III04-1" who="tullie">
             <l n="879" xml:id="l879">Epargne-toy ce crime, esprit <ref target="#denature">denaturé*</ref>,</l>
             <l n="880" xml:id="l880">Le Ciel te donne plus que tu n’as désiré.</l>
@@ -1278,7 +1342,9 @@
         </div>
       </div>
       <div xml:id="IV" type="act">
+        <head>ACTE IV</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE</head>
           <pb n="54"/>
           <sp xml:id="IV01-1" who="julie">
             <l n="937" xml:id="l937" part="I">Un Pere peut flechir.</l>
@@ -1343,6 +1409,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II</head>
           <sp xml:id="IV02-1" who="tullie">
             <l part="F">He bien chers Princes je vous perds,<pb n="H, 57"/></l>
             <l n="976" xml:id="l976">Et c’est moy, qui vous livre à tant de maux divers :</l>
@@ -1482,6 +1549,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III</head>
           <sp xml:id="IV03-1" who="tibere">
             <l n="1082" xml:id="l1082">N’en soyez point en peine, il mourra pour son frere,</l>
             <l n="1083" xml:id="l1083">Cher Tite consentez à ce juste projet,</l>
@@ -1534,6 +1602,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV</head>
           <sp xml:id="IV04-1" who="tullie">
             <l part="M">He bien ! Madame.<pb n="I, 65"/></l>
           </sp>
@@ -1604,6 +1673,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V</head>
           <sp xml:id="IV05-1" who="junie">
             <l n="1145" xml:id="l1145">Mes fils, je ne viens pas vous arracher des larmes, *
 <pb n="68"/>
@@ -1698,6 +1768,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI</head>
           <sp xml:id="IV06-1" who="tite">
             <l n="1211" xml:id="l1211" part="I">Que veux-tu Marcellin ?<pb n=" 72"/></l>
           </sp>
@@ -1747,7 +1818,9 @@
         </div>
       </div>
       <div xml:id="V" type="act">
+        <head>ACTE V</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="V01-1" who="junie">
             <l n="1237" xml:id="l1237">Laisse-moy preparer au <ref target="#coup2">coup*</ref> qui me menace,<pb n=" 74"/></l>
             <l n="1238" xml:id="l1238">Et ne m’entretien* plus de l’espoir de leur <ref target="#grace2">grace*</ref>.</l>
@@ -1880,6 +1953,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II</head>
           <sp xml:id="V02-1" who="tullie">
             <l n="1336" xml:id="l1336">On me garde, Madame, et je ne sçay pourquoy,</l>
             <l n="1337" xml:id="l1337">Brute m’avoit promis liberté toute entiere ;</l>
@@ -1951,6 +2025,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III</head>
           <sp xml:id="V03-1" who="marcellin">
             <l part="F">O fin vrayement <ref target="#tragique">tragique*</ref> !</l>
           </sp>
@@ -1976,6 +2051,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV</head>
           <sp xml:id="V04-1" who="brute">
             <l n="1387" xml:id="l1387">Laisse-moy <ref target="#soupir">soûpirer*</ref> <ref target="#tyrannie">tyrannique*</ref> <ref target="#vertu">vertu*</ref>,</l>
             <l n="1388" xml:id="l1388">Je t’ay donné mes fils, Rome, que me veux-tu ?</l>
@@ -2026,6 +2102,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V</head>
           <sp xml:id="V05-1" who="junie">
             <l n="1415" xml:id="l1415" part="I">Qu’as-tu fait de ton sang, Brute ?</l>
           </sp>
@@ -2070,6 +2147,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE DERNIERE</head>
           <sp xml:id="V06-1" who="livie">
             <l part="F">Ah ! Pere impitoyable !<pb n=" 87"/></l>
             <l n="1438" xml:id="l1438">De ton <ref target="#zele">zele*</ref> <ref target="#cruel">cruel*</ref> voy la suitte effroyable :</l>
@@ -2109,6 +2187,7 @@
         </div>
       </div>
       <div n="1" xml:id="privilege">
+        <head>Extraict du Privilege du Roy.</head>
         <p>Par grace et Privilege du Roy, donné à Paris le vingtiesme jour de Novembre 1647. Signé par le Roy en son <hi rend="sc">Conseil Le Brun</hi>. Il est permis à Toussainct Quinet Marchand Libraire à Paris, d’imprimer ou faire imprimer une pièce de Théâtre intitulée, <hi rend="i">la mort des Enfans de Brute, Tragedie</hi>, durant le temps et l’espace de sept ans, à compter du jour que ladite pièce sera achevée d’imprimer, et déffences sont faites à tous autres d’en vendre ny distribüer d’autre Impression que de celle qu’aura fait ou fait faire ledit Quinet, à peine de trois mile livres d’amande, ainsi qu’il est plus amplement porté dans les lettres cy-dessus dattées.</p>
         <p rend="center">
           <hi rend="i">Achevé d’imprimer pour la premiere fois, le 28 <lb/>May 1648.</hi>

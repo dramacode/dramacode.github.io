@@ -1,23 +1,82 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pirame et Thisbé. Tragédie</title>
+        <author key="Pradon, Nicolas (1632-1698)">Jacques Pradon</author>
+        <principal>Georges Forestier</principal>
+        <editor>Sophie Jochum</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Sophie Jochum dans le cadre d'un mémoire de
+          maîtrise sous la direction de Georges Forestier (2001-2002)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/pradon_pirame/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/pradon_pirame.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/pradon_pirame.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/pradon_pirame.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/pradon_pirame.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1674"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>PIRAME ET THISBÉ <lb/>TRAGÉDIE</head>
       <div xml:id="dedicace">
+        <head>A MONSEIGNEUR<lb/>LE DUC<lb/>DE MONTAUSIER,<lb/>PAIR DE FRANCE, &amp;c.<lb/>Gouverneur de Monseigneur <lb/>LE DAUPHIN.</head>
         <p><hi rend="i">MONSEIGNEUR</hi>,</p>
         <p><hi rend="i">Plus d’une raison indispensable m’oblige à vous dédier cet Ouvrage</hi> : il est né dans une Province où les Muses font gloire d’être de votre Gouvernement, aussi bien que ses Peuples ; &amp; d’ailleurs, MONSEIGNEUR, vous l’avez trop honoré de votre protection à la Cour, pour paroître sous un autre Nom que le vôtre. Je ne prétens point icy faire votre Eloge ; le plus Grand Monarque du Monde l’a fait luy-mesme, en vous confiant la conduite d’un jeune Prince, qui est déja l’admiration de toute l’Europe ; &amp; il justifie assez par les augustes qualitez qui brillent en sa Personne, le choix que sa Majesté a fait de la vostre pour les cultiver. En effet, MONSEIGNEUR, quelle gloire pour vous de partager avec un si grand Monarque, le soin de l’éducation de ce jeune Heros ? Cette sagesse, cette valeur, &amp; cette prudence consommée qui ont paru dans toutes vos Actions à la gloire de la France, lui servent de regles pour sa conduite, lors que les Actions héroïques de l’Invincible <hi rend="b"><hi rend="i">LOUIS</hi></hi> lui servent d’exemples pour l’animer. Enfin, MONSEIGNEUR, il apprend de Vous dans le Cabinet à gouverner les Peuples, lors qu’il apprend encore de son Auguste Pere, l’art de les vaincre &amp; de se rendre, comme luy, par son propre merite, autant au-dessus des autres Roys, qu’il est par sa naissance au dessus du reste des Hommes. C’est le seul &amp; le plus parfait modelle que vous luy proposez, MONSEIGNEUR ; &amp; sans luy mettre devant les yeux les Alexandres, ny les Cesars,</p>
+        <quote>
+          <l n="1">Pour effacer un  jour tous leurs faits inoüis ;</l>
+          <l n="2">Qu’il suivi seulement les traces de LOUIS ;</l>
+          <l n="3">L’Antiquité n’a point de si parfait Modelle,</l>
+          <l n="4">Ta gloire est de l’en rendre une image fidelle ;</l>
+          <l n="5">Un exemple si grand suffit à l’exciter,</l>
+          <l n="6">Et pour les passer tous, il n’a qu’à l’imiter.</l>
+        </quote>
         <p>Je n’ay pû m’empescher, MONSEIGNEUR, de repeter icy ces Vers, que j’eus l’honneur de vous presenter il y a quelques années ; Vous les reçeûtes si favorablement, que j’espere un pareil traitement pour Pirame &amp; Thisbé. C’est un coup d’essay pour le Theatre, que vous avez eu la bonté d’approuver ; Ne luy refusez pas la mesme protection sur le papier. C’est donc, MONSEIGNEUR, la continuation de cette mesme bonté que vous demande avec empressement celuy qui est, &amp; qui sera toute sa vie avec son profond respect,</p>
         <p rend="i">MONSEIGNEUR,</p>
         <p rend="right">Vostre tres-humble &amp; tres-<lb/>Obeïssant Serviteur,</p>
         <p rend="right">PRADON.</p>
       </div>
       <div xml:id="preface">
+        <head>PREFACE.</head>
         <p>Apres que le Public est venu en foule à cette Piece, &amp; l’a honnorée assez long-temps de son assiduité, je ne devrois point répondre aux scrupules de quelques Particuliers ; c’est plutost un remerciment qu’une justification que je luy dois aujourd’huy. Cependant sans me prévaloir d’une réüssite qui a bien passé mes esperances ; je diray d’abord ingenuëment, que je ne prétens pas que ce coup d’essay pour le Theatre soit un chef-d’œuvre ; il y a sans doute bien des choses qui pourroient estre mieux tournées ; mais quoy qu’il en soit, elle a eü le bonheur de plaire, &amp; c’est la premiere Regle du Theatre, &amp; celle à qui l’on doit plutost s’attacher, qu’à toutes les Regles de la Poëtique d’Aristote. Je ne me repens donc point d’avoir traité un Sujet où Théophile avait réüssy ; On voit bien que je ne luy ay rien emprunté, que les Noms de Pirame &amp; Thisbé, que le Galant Ovide nous a donnez à tous deux. J'y ay fait un Episode d’Amestris &amp; de Belus, qui quoy que fondez dans l’Histoire, sont des caracteres de mon invention, aussi bien que celuy d’Arsace. Quelques-uns ont voulu dire que cet Episode l’emportoit sur le Sujet principal ; mais si l’on veut prendre la peine d’examiner leurs interests, on verra qu’ils sont si bien meslez avec ceux de Pirame &amp; Thisbé, que toutes les démarches de ces trois Personnes ne tendent qu’à rompre l’intelligence qui est entre ces deux Amans, pour l’interest particulier de leur amour, &amp; qu’enfin Pirame &amp; Thisbé sont le terme &amp; le point fondamental où aboutissent toutes les lignes de ma Pièce, comme à leur centre. Si Belus conserve ses droits contre la violence d’Amestris, &amp; si Amestris par sa politique &amp; par son adresse le veut détourner du Gouvernement de l’Estat, Pirame est l’objet qu’elle regarde, &amp; Thisbé celuy de Belus, &amp; c’est par leurs différents qu’ils causent les cruels embarras de ces Amans malheureux, qui attachent &amp; qui intéressent toûjours le Spectateur jusqu’à la fin de la catastrophe ; la Critique mesme la plus severe y a trouvé assez de conduite pour le Theatre, &amp; les Ames tendres y peuvent voir des sentimens de leur caractere. On a encore trouvé à redire qu’Arsace fit le recit luy-mesme de la mort de son Fils, &amp; de celle de Thisbé ; quelques-uns ont dit que ce recit estoit trop pathetique dans la bouche d’un Pere, &amp; que les grandes douleurs estoient muettes. Je pourrois répondre que j’en ay des exemples &amp; chez les Anciens &amp; chez les Modernes ; Mais enfin quand mesme ce seroit une faute de jugement dans mon Ouvrage, je puis dire que je l’ay faite avec jugement &amp; reflexion, &amp; ce recit a tiré tant de larmes &amp; a fait un si grand effet, que s’il échape à ma Plume une seconde Piece de Theatre, je souhaite de tout mon cœur, qu’elle soit remplie de fautes de cette nature.</p>
         <p rend="i">Fautes d’Impression.</p>
         <p>Page 18. sembla le fendre, <hi rend="i">lisez</hi> sembla se fendre. Page 21. Ce Palais où j’estois noury dans les allarmes, <hi rend="i">lisez</hi> loin des allarmes. Page 50. perplexitez, lisez extremitez. Page 69. mes pleurs vous font assez connoistre mon ennuy, lisez enuie.</p>
         <p>Il y a plusieurs autres fautes dans la ponctuation, où le Lecteur supléera, s’il luy plaist.</p>
       </div>
-      <div xml:id="acteurs"/>
+      <div xml:id="acteurs">
+        <head>ACTEURS.</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="arsace">
             <l n="1" xml:id="l1">Je veux te faire part de ma peine secrete.<pb n="1,A" xml:id="p1"/></l>
             <l n="2" xml:id="l2">Licas, mon Fils m’allarme, &amp; Thisbé m’<ref target="#inquieter">inquiete*</ref> ;</l>
@@ -99,6 +158,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp xml:id="I02-1" who="pirame">
             <l n="70" xml:id="l70">Seigneur, je <ref target="#connoitre2">connois*</ref> bien que je vais vous <ref target="#deplaire">déplaire*</ref>,<pb n="4" xml:id="p4"/></l>
             <l n="71" xml:id="l71">Qu'au seul nom de Thisbé…Déja remply d’<ref target="#effroi">éfroy*</ref>,</l>
@@ -154,6 +214,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <sp xml:id="I03-1" who="pirame">
             <l part="F">Ah Madame !</l>
             <l n="106" xml:id="l106">Vous venez au secours du malheureux Pirame,</l>
@@ -170,6 +231,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="amestris">
             <l n="115" xml:id="l115">Dans le comble où je suis de <ref target="#gloire">gloire*</ref> et de grandeur,</l>
             <l n="116" xml:id="l116">Plus d’un <ref target="#ennuy">ennuy*</ref> pressant me devore le cœur.</l>
@@ -322,6 +384,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V.</head>
           <sp xml:id="I05-1" who="amestris">
             <l part="F">Barsine, peux-tu croire</l>
             <l n="230" xml:id="l230">Que ce pompeux discours de grandeur &amp; de <ref target="#gloire">gloire*</ref>,</l>
@@ -370,6 +433,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI.</head>
           <sp xml:id="I06-1" who="pirame">
             <l part="F">Ah Madame ! auriez-vous<pb n="12" xml:id="p12"/></l>
             <l n="268" xml:id="l268">Pour Thisbé de mon Pere apaisé le couroux ?</l>
@@ -466,6 +530,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE VII.</head>
           <sp xml:id="I07-1" who="amestris">
             <l part="F">Ah Dieux ! quel coup <ref target="#mortel2">mortel*</ref> !<pb n="15" xml:id="p15"/></l>
             <l n="333" xml:id="l333">A present je suis libre, exhalez-vous ma <ref target="#flame1">flâme*</ref> ;</l>
@@ -503,7 +568,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="II01-1" who="thisbe">
             <l n="363" xml:id="l363">Ismene, penses-tu, nous voyant en ces lieux,<pb n="17, B" xml:id="p17"/></l>
             <l n="364" xml:id="l364">Que nous ayons flechy la colere des Dieux ?</l>
@@ -572,6 +639,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II.</head>
           <sp xml:id="II02-1" who="belus">
             <l n="420" xml:id="l420">La Princesse est icy ; retirez- vous, Hircus,</l>
             <l n="421" xml:id="l421">Et sur tout observez les démarches d’Arsace.</l>
@@ -734,6 +802,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp xml:id="II03-1" who="thisbe">
             <l part="F">He bien, que m’a-t-il fait entendre ?<pb n="24" xml:id="p24"/></l>
             <l n="546" xml:id="l546">Je m’en estois doutée, &amp; tu viens de l’aprendre.</l>
@@ -752,6 +821,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV.</head>
           <sp xml:id="II04-1" who="pirame">
             <l n="556" xml:id="l556">Je viens de rencontrer Belus sortant d’icy,<pb n="25, C" xml:id="p25"/></l>
             <l n="557" xml:id="l557">Madame ; Il m’a paru dans un désordre extréme,</l>
@@ -836,6 +906,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <sp xml:id="II05-1" who="arsace">
             <l n="603" xml:id="l603">Quoy, jusques à mes yeux l’on me desobéït,</l>
             <l n="604" xml:id="l604">Fils ingrat ? &amp; ton cœur sans cesse te trahit ?</l>
@@ -949,6 +1020,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI.</head>
           <sp xml:id="II06-1" who="pirame">
             <l n="681" xml:id="l681">Ah ! cher Licas, aprens une triste nouvelle.</l>
           </sp>
@@ -987,7 +1059,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="III01-1" who="arsace">
             <l n="709" xml:id="l709">Son retour me surprend ; mais tu sçais sa <ref target="#tendresse">tendresse*</ref>,<pb n="32" xml:id="p32"/></l>
             <l n="710" xml:id="l710">Son Billet n’est qu’un jeu, son discours qu’une adresse.</l>
@@ -1039,6 +1113,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp xml:id="III02-1" who="amestris">
             <l part="F">J'ay veu le Prince vostre Fils ;<pb n="34" xml:id="p34"/></l>
             <l n="752" xml:id="l752">A vos ordres, Arsace, il m’a paru soûmïs :</l>
@@ -1106,6 +1181,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp xml:id="III03-1" who="amestris">
             <l n="805" xml:id="l805">Hé bien, foible Amestris, t’y voila résoluë ?</l>
             <l n="806" xml:id="l806">Ta <ref target="#flame1">flâme*</ref> est en ce jour ta maîtresse absoluë ?</l>
@@ -1134,6 +1210,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp xml:id="III04-1" who="belus">
             <l n="829" xml:id="l829">Je viens icy, Madame, avec quelque contrainte,<pb n="37" xml:id="p37"/></l>
             <l n="830" xml:id="l830">Vous faire entendre encore une inutile plainte ;</l>
@@ -1260,6 +1337,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp xml:id="III05-1" who="belus">
             <l n="933" xml:id="l933">J'avois voulu par là sonder encor son ame ;<pb n="41, D" xml:id="p41"/></l>
             <l n="934" xml:id="l934">Mais enfin son discours, le Billet de Pirame,</l>
@@ -1269,6 +1347,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI.</head>
           <sp xml:id="III06-1" who="thisbe">
             <l n="938" xml:id="l938">Je vous cherchois, Seigneur. Que je suis allarmée !</l>
             <l n="939" xml:id="l939">Un bruit trop bien fondé me fait craindre pour vous</l>
@@ -1363,6 +1442,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE VII.</head>
           <sp xml:id="III07-1" who="garde">
             <l n="1010" xml:id="l1010">Babylone, Seigneur, a pour vous pris les armes.</l>
           </sp>
@@ -1386,6 +1466,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III08">
+          <head>SCENE VIII.</head>
           <sp xml:id="III08-1" who="thisbe">
             <l n="1022" xml:id="l1022">Qu'entens-je ? Ah Dieux ! que vois-je ? où suis-je ? je frissonne ;<pb n="45" xml:id="p45"/></l>
             <l n="1023" xml:id="l1023">Je tremble. Que d’horreurs ! Pirame m’abandonne !</l>
@@ -1445,7 +1526,9 @@
         </div>
       </div>
       <div xml:id="IV" type="act">
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="thisbe">
             <l n="1070" xml:id="l1070">De mon triste destin, Ismene, aprens la suite,<pb n="47" xml:id="p47"/></l>
             <l n="1071" xml:id="l1071">Et le funeste état où mon ame est réduite ;</l>
@@ -1550,6 +1633,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II.</head>
           <sp xml:id="IV02-1" who="belus">
             <l n="1154" xml:id="l1154">Grace aux Dieux, je suis Maître, &amp; tiens en ma puissance</l>
             <l n="1155" xml:id="l1155">Un Ingrat, dont je viens vous offrir la vangeance,</l>
@@ -1676,6 +1760,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <sp xml:id="IV03-1" who="thisbe">
             <l n="1250" xml:id="l1250">Ismene, il faut mourir, &amp; l’heure en est venuë,<pb n="54" xml:id="p54"/></l>
             <l n="1251" xml:id="l1251">Belus, la Reine, Arsace, &amp; mon amour me tuë ;</l>
@@ -1706,6 +1791,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV.</head>
           <sp xml:id="IV04-1" who="thisbe">
             <l n="1274" xml:id="l1274">Ah ! Seigneur, se peut-il qu’enfin je vous revoye ?<pb n="55, Eiiij" xml:id="p55"/></l>
           </sp>
@@ -1829,7 +1915,9 @@
         </div>
       </div>
       <div xml:id="V" type="act">
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="V01-1" who="hircus">
             <l n="1368" xml:id="l1368">Enfin, Seigneur, les Dieux sont declarez pour vous,<pb n="59" xml:id="p59"/></l>
             <l n="1369" xml:id="l1369">La Reine est arrestée, Arcas percé de coups,</l>
@@ -1907,6 +1995,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp xml:id="V02-1" who="amestris">
             <l n="1434" xml:id="l1434">Tu triomphes, Belus, &amp; les Dieux m’ont trahie,<pb n="62" xml:id="p62"/></l>
             <l n="1435" xml:id="l1435">Tu m’arraches le Sceptre, &amp; me laisses la vie ;</l>
@@ -1970,6 +2059,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp xml:id="V03-1" who="garde">
             <l n="1486" xml:id="l1486">Ah ! Seigneur, cette nuit Pirame a pris la fuite,<pb n="64" xml:id="p64"/></l>
             <l n="1487" xml:id="l1487">Il a trompé sa Garde, ou Licas l’a séduite.</l>
@@ -1978,6 +2068,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV.</head>
           <sp xml:id="V04-1" who="hircus">
             <l n="1490" xml:id="l1490">Je viens vous avertir, Seigneur, que la Princesse</l>
             <l n="1491" xml:id="l1491" part="I">N'est plus dans le Palais.</l>
@@ -2031,6 +2122,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V.</head>
           <sp xml:id="V05-1" who="hircus">
             <l n="1526" xml:id="l1526" part="I">Seigneur, Arsace est pris, on l’ameine.<pb n="66" xml:id="p66"/></l>
           </sp>
@@ -2151,6 +2243,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE DERNIERE.</head>
           <sp xml:id="V06-1" who="hircus">
             <l n="1626" xml:id="l1626">Ah Seigneur ! aprenez une étrange <ref target="#aventure">avanture*</ref>,<pb n="70" xml:id="p70"/></l>
             <l n="1627" xml:id="l1627">Qui touche également l’Amour &amp; la Nature.</l>
@@ -2193,6 +2286,7 @@
         </div>
       </div>
       <div xml:id="privilege">
+        <head>Extrait du Privilege du Roy.</head>
         <p>Par Grace &amp; privilege du Roy, donné à Versailles le 22. jour de Fevrier 1674. Signé, Par le Roy en son Conseil, DES VIEUX : il est permis au Sieur Pradon, de faire imprimer, vendre &amp; debiter par tel Imprimeur ou Libraire qu’il voudra choisir, une Tragedie intitulée, PIRAME &amp; THISBÉ, de sa composition, &amp; ce durant le temps &amp; espace de six années entieres, à compter du jour que la dite Tragedie sera achevée d’imprimer pour la premiere fois : Et defenses sont faites à toutes Personnes de quelque qualité &amp; condition qu’elles soient, de l’imprimer, ou faire imprimer, vendre &amp; debiter pendant ledit temps, sans le consentement de l’Exposant, ou de ceux qui auront droit de luy, à peine aux contrevenans de trois mille livres d’amende, confiscation des Exemplaires contrefaits, &amp;de tous despens, dommages &amp; interests, ainsi qu’il est porté plus au long par ledit Privilege.</p>
         <p>Registré sur le Livre de la Communauté, suivant l’Arrest de la Cour de Parlement.</p>
         <p rend="right">Signé, Thierry, Syndic.</p>

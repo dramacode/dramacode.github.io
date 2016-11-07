@@ -1,7 +1,56 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Judith. Tragédie</title>
+        <author key="Boyer, Claude (1618-1698)">Boyer, Claude</author>
+        <principal>Georges Forestier</principal>
+        <editor>Thomas Marlat</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Thomas Marlat sous la direction de Georges Forestier (1998)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/boyer_judith/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boyer_judith.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boyer_judith.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boyer_judith.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boyer_judith.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1695"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>JUDITH TRAGEDIE.</head>
       <div type="preface" xml:id="preface">
+        <head>PREFACE</head>
         <p>C’est une erreur qui a infecté beaucoup d’esprits, qu’il étoit presque impossible d’accommoder heureusement au Theatre les Sujets qui sont tirez de l’Ecriture Sainte, et de l’Histoire Chrétienne. Indigné contre une opinion si fausse et si pernicieuse, je crus d’abord qu’elle n’étoit fondée que sur la prévention qui n’examine rien, et dont la force impérieuse entraîne ordinairement la multitude ; mais aprés avoir creusé jusques dans la source de cette erreur, je vis qu’elle venait de l’ignorance de l’art, de la foiblesse du genie, de la sterilité des inventions, et fur tout du peu de gout et de sensibilité qu’on a pour les choses de la Religion.</p>
         <p>J’avouë qu’il est mal aisé d’assembler tout ce qui est necessaire à la composition de cette sorte d’ouvrages, d’autant plus qu’il y a peu de modelles dans ce genre d’écrire, et peu d’Auteurs qui soient d’humeur de les imiter. La plupart ne font que suivre &amp; marcher aprés les autres ; privez du secours des bons exemples, ils n’osent hazarder un autre langage. C’est une route nouvelle presque inconnue à nos Anciens, et ou ceux qui l’ont suivie aussi bien que les plus habiles de nos Modernes se font quelquefois égarez. Ce qui peut encore les rebuter davantage, c’est qu’étant accoutumez à forger les événemens qui n’ont ni suite ni vray-semblance, à donner de grands noms historiques aux fictions fabuleuses, et à confondre ainsi la verité et le mensonge, ils n’osent avec raison traiter des sujets, qu’on ne peut alterer sans une espece de sacrilege. Ils ignorent le talent d’inventer, ou en font un mauvais usage. Ils ne sçavent pas qu’il consiste à parer la verité, non à la defigurer ; à l’enrichir, non à la des-honnorer ; et qu’enfin le secours des Episodes doit soûtenir les Sujets, et non pas les étouffer. Mais ce qui leur paroit de plus rebutant et de plus êpineux, c’est que pour donner à ces ouvrages les ornemens qu’ils demandent, il faut se remplir des grandes veritez de la Religion, et tirer de l’Ecriture sainte ces riches expressions que nous fournit la divine Poësie du Psalmiste et des Prophetes, et qui sont fort au dessus de tout ce que l’ingenieuse et sçavante Antiquité a de plus grand et de plus magnifique. Il faut sçavoir choisir et ménager les sentimens de pieté qui sont amenez par la matiere, et il ne faut en charger ces Poëmes, que lorsqu’ils sont destinez pour des Communautez Religieuses, et des Assemblées particulieres. Le theatre doit instruire et divertir le public, mais les instructions de pieté n’y doivent être ni frequentes ni affectées, il faut qu’elles soient regardées comme des sentiments qui sont attachez aux caracteres des Acteurs, et qui servent à l’action qui se passe sur la Scene.</p>
         <p>Quand je propose des regles si severes et si sublimes, je n’ai pas la presomption de croire que je les ai entierement remplies dans Judith. Ce Poëme quelque succés qu’il ait eu n’est qu’un essay qui ne donne tout au plus qu’une foible idée de la perfection à laquelle des genies plus élevez que le mien pourroient à peine parvenir. La seule chose dont il m’est permis de m’applaudir, c’est d’avoir choisi un sujet dont la beauté a soutenu ma foiblesse. Je ne sçay par quel hazard il a échapé aux yeux de ceux qui m’ont precedé.</p>
@@ -11,12 +60,16 @@
         <p>Je ne diray rien de l’Episode de Misael, il a paru si naturel et a esté si heureux, que ce seroit me rendre indigne de l’approbation qu’il a eüe, si je voulois la justifier. Je ne répondray point aux objections qu’on m’a faites par un jugement precipité, qui n’a pas examiné ce qui precede, et ce qui suit les endroits qu’on a condamnés. Je répondray encore moins à la critique qui est fondée sur le goût et non pas sur la regle.</p>
         <p>Mais je ne sçaurois me taire sur l’étrange critique qui s’est répandüe contre les pieces saintes. Ce bruit est devenu un scandale public, et semble nous faire entendre qu’il faudroit proscrire la pieté et la bannir du Theatre, comme si nous estions encore dans ce siecle barbare et ignorant, où les spectacles publics representoient nos plus sacrez mysteres d’une maniere qui rendoit ridicule ce qui devoit estre le sujet de l’attention la plus serieuse et de la plus profonde veneration. Veut-on consacrer le Theatre aux matieres profanes, aux évenemens les plus horribles, aux parricides, aux empoisonnemens, aux passions outrées, aux amours incestueuses. J’avouë que les sujets les plus extraordinaires peuvent instruire et divertir quand ils sont maniez par des mains sçavantes et heureuses ; mais peut-on douter que les matieres Saintes quand elles tombent en de pareilles mains, puissent recevoir un tour assez agreable pour plaire et mieux encore pour édifier le Spectateur Chrestien. Nous avons un illustre exemple dans Polieucte, et puisque Judith dont l’Histoire est si delicate et si difficile à traiter, n’a pas dépleu dans la forme que je luy ay donnée, que ne peut-on pas attendre de ceux qui avec une Muse plus forte que la mienne, voudront entreprendre de semblables ouvrages, et leur donner tous les ornemens de la Scene. Puissent-ils confondre l’envie, ou plûtôt s’attirer cette critique qui s’est déchaînée sur ce qui fait tant d’honneur à Judith.</p>
       </div>
-      <div type="set" xml:id="acteurs"/>
+      <div type="set" xml:id="acteurs">
+        <head>ACTEURS.</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE PREMIER</head>
         <p>
           <title>JUDITH TRAGÉDIE</title>
         </p>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="I01-1" who="ozias">
             <l n="1" xml:id="l1">Peuples <ref target="#impatience1">impatients*</ref> étouffez ce murmure :</l>
             <l n="2" xml:id="l2">Quelques maux, quelque soif que Betulie endure,</l>
@@ -81,6 +134,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II</head>
           <sp xml:id="I02-1" who="ozias">
             <l part="F">Je brûle de sçavoir<pb n="p. 4"/></l>
             <l n="44" xml:id="l44">Par quel motif Judith usurpe mon pouvoir ;</l>
@@ -89,6 +143,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III</head>
           <sp xml:id="I03-1" who="ozias">
             <l n="47" xml:id="l47" part="I">Pourquoy ce prompt retour ?</l>
           </sp>
@@ -109,6 +164,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV</head>
           <sp xml:id="I04-1" who="ozias">
             <l part="F">Quel malheur que je ne puis comprendre,</l>
             <l n="55" xml:id="l55">Ou plutôt quel <ref target="#bonheur">bonheur*</ref> vous conduit en ces lieux ?</l>
@@ -276,6 +332,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V</head>
           <sp xml:id="I05-1" who="ozias">
             <l part="F">Voyez-la sans <ref target="#art">art*</ref> et sans parure,</l>
             <l n="182" xml:id="l182">Se bornant sagement aux soins de la Nature,</l>
@@ -397,6 +454,7 @@
         </div>
         <div type="scene" xml:id="I06">
           <pb n="p. 17"/>
+          <head>SCENE VI</head>
           <sp xml:id="I06-1" who="achior">
             <l n="261" xml:id="l261">Quel langage, Ozias ! Il s’agit de la <ref target="#gloire3">gloire*</ref>,</l>
             <l n="262" xml:id="l262">Du salut d’Israël, d’une grande victoire ;</l>
@@ -437,7 +495,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="p. 19"/>
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="II01-1" who="achior">
             <l n="289" xml:id="l289">Quoy vous me prevenez ! ma tendre <ref target="#inquiet">inquietude*</ref></l>
             <l n="290" xml:id="l290">Cherchoit à vous tirer de vôtre solitude,</l>
@@ -548,6 +608,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II</head>
           <sp xml:id="II02-1" who="abra">
             <l n="361" xml:id="l361" part="I">Ah Misael !</l>
           </sp>
@@ -565,6 +626,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III</head>
           <sp xml:id="II03-1" who="misael">
             <l part="F">Quel est ce desespoir ?</l>
           </sp>
@@ -675,6 +737,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV</head>
           <sp xml:id="II04-1" who="misael">
             <l n="440" xml:id="l440">Je la voy. De quel trait son abord m’a frapé !</l>
             <l n="441" xml:id="l441">Vous me le disiez bien que ce n’est que loin d’elle...</l>
@@ -805,6 +868,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V</head>
           <sp xml:id="II05-1" who="judith">
             <l n="517" xml:id="l517">Quand pour aller au Camp l’ordre du Ciel me presse,</l>
             <l n="518" xml:id="l518">Misael m’embarasse et je crains ma foiblesse ;</l>
@@ -829,6 +893,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI</head>
           <sp xml:id="II06-1" who="judith">
             <l part="F">A quoi suis-je forcée,</l>
             <l n="534" xml:id="l534">Quand de tant d’autres soins j’ai l’ame embarassée ?</l>
@@ -853,6 +918,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE VII</head>
           <sp xml:id="II07-1" who="misael">
             <l n="553" xml:id="l553">Achior m’a parlé, qu’en pouvez-vous attendre ?</l>
             <l n="554" xml:id="l554">A de lâches conseils le ferez-vous descendre ?<pb n=" p. 36"/></l>
@@ -896,6 +962,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II08">
+          <head>SCENE VIII</head>
           <sp xml:id="II08-1" who="achior">
             <l n="587" xml:id="l587">Juste Ciel quels discours terribles, menaçans !</l>
             <l n="588" xml:id="l588">Vous en sentez la force autant que je la sens,</l>
@@ -941,7 +1008,11 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="p. 40"/>
+        <head>ACTE III
+
+        </head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="III01-1" who="holoferne">
             <l n="619" xml:id="l619">Que le Camp en murmure, il faut qu’on obeïsse,</l>
             <l n="620" xml:id="l620">Je veux que Betulie ou se rende, ou perisse.</l>
@@ -1022,6 +1093,7 @@
         </div>
         <div type="scene" xml:id="III02">
           <pb n="p. 44"/>
+          <head>SCENE II</head>
           <sp xml:id="III02-1" who="assyrien">
             <l part="F">Nos ennemis, Seigneur,</l>
             <l n="686" xml:id="l686">Ont fait une sortie avec tant de vigueur,</l>
@@ -1051,6 +1123,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III</head>
           <sp xml:id="III03-1" who="assyrien">
             <l n="707" xml:id="l707">Achior est défait, et sa troupe affoiblie</l>
             <l n="708" xml:id="l708">Aprés un long combat rentre dans Betulie :</l>
@@ -1068,6 +1141,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV</head>
           <sp xml:id="III04-1" who="holoferne">
             <l n="717" xml:id="l717">Quel étrange dessein te conduit en ces lieux !</l>
             <l n="718" xml:id="l718" part="I">Quel secret attentat....</l>
@@ -1159,6 +1233,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V</head>
           <sp xml:id="III05-1" who="assyrien">
             <l n="791" xml:id="l791">Un prodige <ref target="#etonne">étonnant*</ref> vient de frapper ma veuë.</l>
             <l n="792" xml:id="l792">Une femme, Seigneur, <ref target="#superbe2">superbement*</ref> vétuë</l>
@@ -1194,6 +1269,7 @@
         </div>
         <div type="scene" xml:id="III06">
           <pb n="p. 52"/>
+          <head>SCENE VI</head>
           <sp xml:id="III06-1" who="holoferne">
             <l n="809" xml:id="l809">Quel surprenant éclat vient de fraper mes yeux,</l>
             <l n="810" xml:id="l810">Et porte dans mon cœur un <ref target="#charme">charme*</ref> imperieux ?</l>
@@ -1324,6 +1400,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE VII</head>
           <sp xml:id="III07-1" who="judith">
             <l n="896" xml:id="l896">Dés que l’ordre du Ciel pour te faire justice</l>
             <l n="897" xml:id="l897">Voudra que je te mene au thrône des Hebreux,</l>
@@ -1367,6 +1444,7 @@
         </div>
         <div type="scene" xml:id="III08">
           <pb n="p. 59"/>
+          <head>SCENE VIII</head>
           <sp xml:id="III08-1" who="abra">
             <l n="927" xml:id="l927">Holoferne déjà se dispose à se rendre ;</l>
             <l n="928" xml:id="l928" part="I">Vous allez triompher.</l>
@@ -1414,7 +1492,11 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="p. 61"/>
+        <head>ACTE IV
+
+        </head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="IV01-1" who="holoferne">
             <l n="965" xml:id="l965">Que nul n’entre en ces lieux. Toy ; demeure avec moy.</l>
             <l n="966" xml:id="l966">Je cache mon desordre à tous autre qu’à toy.</l>
@@ -1500,6 +1582,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <pb n="p. 65"/>
+          <head>SCENE II</head>
           <sp xml:id="IV02-1" who="holoferne">
             <l n="1033" xml:id="l1033">En sortant de prier le Dieu que vous servez,</l>
             <l n="1034" xml:id="l1034">Par un <ref target="#nouveau">nouvel*</ref> éclat vos attraits relevez,</l>
@@ -1639,6 +1722,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III</head>
           <sp xml:id="IV03-1" who="abra">
             <l n="1127" xml:id="l1127">Que de biens apparens <ref target="#flatter1">flatent*</ref> vostre esperance !</l>
           </sp>
@@ -1713,6 +1797,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV</head>
           <sp xml:id="IV04-1" who="misael">
             <l n="1174" xml:id="l1174">Je vis et je respire encore malgré moy.</l>
             <l n="1175" xml:id="l1175">Vous changez mon supplice au gré de votre haine,</l>
@@ -1782,6 +1867,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V</head>
           <sp xml:id="IV05-1" who="vagao">
             <l n="1223" xml:id="l1223">Madame, on vous attend, tout est prest, tout vous presse,</l>
             <l n="1224" xml:id="l1224">La pompe du festin, la commune allegresse,</l>
@@ -1795,6 +1881,7 @@
         </div>
         <div type="scene" xml:id="IV06">
           <pb n="p. 78"/>
+          <head>SCENE VI</head>
           <sp xml:id="IV06-1" who="misael">
             <l part="F">A cét ordre il est temps de se rendre,</l>
             <l n="1229" xml:id="l1229">Vous balancez. Allez étaler promptement</l>
@@ -1837,6 +1924,7 @@
         </div>
         <div type="scene" xml:id="IV07">
           <pb n="p. 80"/>
+          <head>SCENE VII</head>
           <sp xml:id="IV07-1" who="misael">
             <l n="1251" xml:id="l1251">Me trompay-je ? Judith seroit-elle innocente ?</l>
             <l n="1252" xml:id="l1252">Je commence à douter, sa <ref target="#fier4">fierté*</ref> m’épouvante.</l>
@@ -1847,7 +1935,10 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="p. 81"/>
+        <head>ACTE V
+        </head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="V01-1" who="betulien">
             <l n="1255" xml:id="l1255">A peine on voit briller la lumiere naissante,</l>
             <l n="1256" xml:id="l1256">Qu’impatient, et l’ame incertaine et tremblante,</l>
@@ -1869,6 +1960,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II</head>
           <sp xml:id="V02-1" who="ozias">
             <l part="F">Achior l’ame toute troublée...</l>
           </sp>
@@ -1911,6 +2003,7 @@
         </div>
         <div type="scene" xml:id="V03">
           <pb n="p. 84"/>
+          <head>SCENE III</head>
           <sp xml:id="V03-1" who="misael">
             <l part="F">Frappé d’un desespoir mortel,</l>
             <l n="1295" xml:id="l1295">Livrant à la douleur mon ame toute entiere,</l>
@@ -1996,6 +2089,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV</head>
           <sp xml:id="V04-1" who="misael">
             <l part="F">Quoy seule, et sans Judith ?<pb n="p. 88"/></l>
           </sp>
@@ -2077,6 +2171,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V</head>
           <sp xml:id="V05-1" who="betulien">
             <l n="1427" xml:id="l1427">Un succés <ref target="#gloire3">glorieux*</ref> a rempli notre attente.</l>
             <l n="1428" xml:id="l1428">La tête d’Holoferne encor toute sanglante,</l>
@@ -2107,6 +2202,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI</head>
           <sp xml:id="V06-1" who="judith">
             <l n="1437" xml:id="l1437">Ozias, c’en est fait, Israel est vainqueur.</l>
             <l n="1438" xml:id="l1438">Abra vous a sans doute annoncé ce <ref target="#bonheur">bonheur*</ref>.</l>
@@ -2128,6 +2224,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE DERNIERE</head>
           <sp xml:id="V07-1" who="misael">
             <l n="1447" xml:id="l1447">Qu’ordonnez-vous de moy dont la jalouse rage</l>
             <l n="1448" xml:id="l1448">Fait à la <ref target="#vertu3">vertu*</ref> même un si sanglant outrage ?</l>
@@ -2181,6 +2278,7 @@
         </div>
       </div>
       <div xml:id="privilege">
+        <head>EXTRAIT DU PRIVILEGE du Roy.</head>
         <p>PAR grace et Privilege du Roy donné à Paris le neuviéme jour d’Avril 1691. Signé par le Roy en son Conseil, BOUCHER : il est permis au sieur Claude Boyer de l’Académie Françoise, de faire imprimer plusieurs Pieces de Poësie de sa composition pendant le temps de huit années, avec défenses à tous autres d’imprimer ny contrefaire aucunes desdites Pieces sur les peines portées à l’original dudit Privilege.</p>
         <p rend="i">Registré sur le Livre de la Communauté des Imprimeurs et Libraires de Paris, le 20. Decembre 1691.</p>
         <p rend="center">Signé, P.AUBOUYN, Syndic.</p>

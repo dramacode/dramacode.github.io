@@ -1,7 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Fils supposé. Comédie</title>
+        <author key="Scudéry, Georges de (1601-1667)">Georges de Scudéry</author>
+        <principal>Georges Forestier</principal>
+        <editor>Alexandra Dias Vieira</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Alexandra Dias Vieira dans le cadre d'un mémoire de
+      master 1 sous la direction de Georges Forestier (2012)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/scudery_fils-suppose/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/scudery_fils-suppose.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/scudery_fils-suppose.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/scudery_fils-suppose.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/scudery_fils-suppose.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1636"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LE FILS SUPPOSÉ. <lb/>COMEDIE.</head>
       <div type="set" xml:id="dedicace">
+        <head>A MONSIEUR LE CHEVALIER DE SAINCT GEORGE.</head>
         <p>Mon cher et parfait Amy,</p>
         <p>Je donne à vostre merite ce que les autres escrivains presentent à la <ref target="#fortune1">Fortune*</ref>; et  je vous dédie ce Livre, parce que n’estant pas grand Seigneur, je vous juge digne de l’estre. Mon <ref target="#objet2">object*</ref> est bien plus noble que le leur, puis que je regarde la Vertu toute nuë: et qu’eux s’arrestent aux ornemens, dont cette Aveugle pare et déguise le plus souvent la difformité du vice. Comme c’est de cette sorte, qu’il faut estimer les hommes, Le choix que je fais de vous, ne peut estre que fort juste; et par consequent approuvé de tous ceux qui vous connoissent: Car si l’on vous regarde par les qualitez de l’ame, et par celles de l’esprit, il faut advouër que les unes <ref target="#estonner">estonnent*</ref>, et que les autres <ref target="#raviser">ravissent*</ref>. La vivacité de ce bel esprit dont je parle, la solidité de ce <ref target="#jugement2">jugement*</ref> qui l’accompagne, et la force de cette memoire, qui conserve si fidelement tout ce que les deux autres luy confient, renverse l’opinion Philosophique, qui tient que des effets si differens ne peuvent proceder d’un seul temperamment. Et de vray, vous estes un Prothée de belles choses, qui vous changez en autant de formes qu’il vous plaist; et de toutes les connoissances que doit avoir un honneste homme, il ne vous en manque pas une. Que si je croyois qu’un Cavalier pûst recevoir sans rougir les loüanges que nous donnons aux Dames, je vous monstrerois dans un miroir, que quelque adresse qui soit en vous, sous les Armes que vous portez, et par cét <ref target="#aimable">aimable*</ref> visage que la Nature vous a donné, on vous prendra plustost pour Minerve que pour Mars. Je vous en dirois davantage, si je ne m’imaginois voir cette belle couleur que la modestie vous met si souvent au front: mais craignant que la colere n’y monte avec elle, et que l’une et l’autre ne me fassent tomber la plume de la main, je me haste de vous dire encor, que je suis, et veux estre toute ma vie,</p>
         <p>Mon cher et parfait amy,</p>
@@ -10,18 +60,24 @@
         <p>DE SCUDERY.</p>
       </div>
       <div type="set" xml:id="au-lecteur">
+        <head>AU LECTEUR.</head>
         <p>Je ne sçaurois à cette fois, couvrir mes fautes de celles de l’Imprimeur: Et si dans ce Livre, tu ne remarques non plus des miennes, que de celles qu’il a faites, j’en auray de la <ref target="#gloire1">gloire*</ref>, et toy du plaisir.</p>
         <p>Tout mon <ref target="#soin1">soing*</ref> n’en a pû voir qu’une fort legere, dont je te donne advis; c’est en la page cinquante- quatre, vers dernier, où pour le mot de, qui, tu dois lire, que, Adieu.</p>
       </div>
       <div xml:id="privilege">
+        <head>Extraict du Privilege du Roy.</head>
         <p>Par grace et Privilege du Roy: Donné à Paris le deuxiesme jour d’Avril mil six cens trente-six. Il est permis à <hi rend="sc">Augustin Courbé</hi>, Marchand Libraire à Paris, d’Imprimer, vendre et distribuer un Livre intitulé, <hi rend="i">Le Fils Supposé, Comedie, Composée par Monsieur</hi><hi rend="sc">De Scudery</hi>: Et defences sont faites à tous Imprimeurs et autres personnes, de quelque qualité et condition qu’ils soient, d’imprimer, vendre ny distribuer dudit Livre, d’autre Impression que celle qu’aura fait ou fait faire ledit Courbé, ou autres ayant droit de luy, et ce pendant le temps de sept ans, à peine aux contrevenans de quinze cens livres d’amende, et confisquation de tous lesdits exemplaires imprimez, ainsi qu’il est plus amplemens porté par lesdites Lettres de Privilege.</p>
         <p>Par le Roy en son Conseil,</p>
         <p>Signé, CONRAR.</p>
       </div>
-      <div xml:id="acteurs" type="set"/>
+      <div xml:id="acteurs" type="set">
+        <head>LES ACTEURS.</head>
+      </div>
       <div xml:id="I" type="act">
         <pb n="A"/>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="rosandre">
             <l n="1" xml:id="l1">Ha ! ne contestez plus; laissez vous enflamer;</l>
             <l n="2" xml:id="l2">Et sçachez obeïr, si vous sçavez aimer.</l>
@@ -185,6 +241,7 @@
           <p>ACTE I.<pb n="9" xml:id="p9"/></p>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp xml:id="I02-1" who="oronte">
             <l n="113" xml:id="l113">Ha ! Monsieur escoutez, au moins auparavant:</l>
           </sp>
@@ -274,6 +331,7 @@
           <p>ACTE I.</p>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <sp xml:id="I03-1" who="almedor">
             <l n="193" xml:id="l193">Cher Rosandre, aussi tost qu’on nous eut separez,</l>
             <l n="194" xml:id="l194">Je tombay dans les maux qui m’estoyent preparez:</l>
@@ -380,6 +438,7 @@
           <p>ACTE I.</p>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="philante">
             <l n="287" xml:id="l287">Et quoy chere Belise, en augmentant mes peines,</l>
             <l n="288" xml:id="l288">Vous croyez que Paris est moins plaisant que Renes ?</l>
@@ -454,6 +513,7 @@
           <p>ACTE I.<pb n="22" xml:id="p22"/></p>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V.</head>
           <sp xml:id="I05-1" who="clorian">
             <l n="339" xml:id="l339">Une affaire pressee, au logis vous demande:</l>
           </sp>
@@ -490,6 +550,7 @@
           <p>ACTE I.<pb n="24" xml:id="p24"/></p>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI.</head>
           <sp xml:id="I06-1" who="doriste">
             <l n="360" xml:id="l360">Gouvernez tous les deux avecques la prudence:</l>
             <l n="361" xml:id="l361">Doriste ne sçauroit, ny flatter, ny trahir;</l>
@@ -498,6 +559,7 @@
           <p>ACTE I.<pb n="25" xml:id="p25"/></p>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE VII.</head>
           <sp xml:id="I07-1" who="clorian">
             <l n="363" xml:id="l363">Ma sœur, je suis fasché que vostre retenuë,</l>
             <l n="364" xml:id="l364">Se perd, et n’agit plus; qu’est-elle devenuë ?</l>
@@ -542,7 +604,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="28" xml:id="p28"/>
+        <head>ACTE SECOND.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="II01-1" who="luciane">
             <p>STANCES.</p>
             <lg>
@@ -603,6 +667,7 @@
           <p>ACTE II.<pb n="31" xml:id="p31"/></p>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II.</head>
           <sp xml:id="II02-1" who="oronte">
             <l n="431" xml:id="l431">Et bien mon cœur ? souffrez*, pour charmer mon soucy,</l>
             <l n="432" xml:id="l432">Quoy qu’il ne soit plus mien, que je le nomme ainsi,</l>
@@ -735,6 +800,7 @@
           <p>ACTE II.<pb n="37" xml:id="p37"/></p>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp xml:id="II03-1" who="belise">
             <l n="533" xml:id="l533">Doriste, à quel mal-heur me trouvay je reduite ?</l>
             <l n="534" xml:id="l534">Philante disparu, qui prendra ma conduite ?</l>
@@ -830,6 +896,7 @@
           <p>ACTE II.<pb n="42" xml:id="p42"/></p>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV</head>
           <sp xml:id="II04-1" who="clorian">
             <l n="607" xml:id="l607">Que ne peut-on forcer avecques la douceur !</l>
             <l n="608" xml:id="l608">Philante me ravit, aussi bien que ma sœur;</l>
@@ -849,6 +916,7 @@
           <p>ACTE II.<pb n="43" xml:id="p43"/></p>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <sp xml:id="II05-1" who="philante">
             <l n="621" xml:id="l621">Sejour des mal-heureux; effroyable demeure;</l>
             <l n="622" xml:id="l622">Où le destin <ref target="#cruel2">cruel*</ref> veut que Philante meure;</l>
@@ -868,6 +936,7 @@
           <p>ACTE II.</p>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI.</head>
           <sp xml:id="II06-1" who="clorian">
             <l n="635" xml:id="l635">Persistez vous tousjours, en ce mauvais <ref target="#dessein">dessein*</ref> ?</l>
             <l n="636" xml:id="l636">Et me voulez vous mettre un poignard dans le sein ?</l>
@@ -908,7 +977,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="47" xml:id="p47"/>
+        <head>ACTE TROISIESME</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="III01-1" who="philante">
             <p>Villanelle.</p>
             <lg>
@@ -997,6 +1068,7 @@
           <p>ACTE III.<pb n="51" xml:id="p51"/></p>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp xml:id="III02-1" who="clorian">
             <l n="733" xml:id="l733">Mon frere, tout va bien; mes gens viennent d’apprendre,</l>
             <l n="734" xml:id="l734">Le chemin qu’elle a pris, et que nous devons prendre:</l>
@@ -1028,6 +1100,7 @@
           <p>ACTE III.<pb n="53" xml:id="p53"/></p>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp xml:id="III03-1" who="almedor">
             <l n="753" xml:id="l753">Plus je te voy, mon fils, et plus en ma pensee,</l>
             <l n="754" xml:id="l754">Je retrace en pourtraict ma jeunesse passee.</l>
@@ -1115,6 +1188,7 @@
           <p>ACTE III.</p>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp xml:id="III04-1" who="oronte">
             <l n="817" xml:id="l817">Qu'importe à mon esprit si Rosandre s’offence,</l>
             <l n="818" xml:id="l818">De me revoir chez luy nonobstant sa deffence !</l>
@@ -1134,6 +1208,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp xml:id="III05-1" who="almedor">
             <l n="831" xml:id="l831">En fin ce serviteur si long temps attendu,</l>
             <l n="832" xml:id="l832">A <ref target="#dessein">dessein*</ref> de se rendre, à Paris s’est rendu.</l>
@@ -1169,6 +1244,7 @@
           <p>ACTE III.<pb n="61" xml:id="p61"/></p>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI.</head>
           <sp xml:id="III06-1" who="belise">
             <l part="F">Sans user de puissance absoluë;</l>
             <l n="842" xml:id="l842">Souffrez* que je m’advance, et que je la saluë.</l>
@@ -1231,6 +1307,7 @@
           <p>ACTE III.<pb n="64" xml:id="p64"/></p>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE VII.</head>
           <sp xml:id="III07-1" who="oronte">
             <l n="883" xml:id="l883">Rompant vostre <ref target="#entretien">entretien*</ref>, je crains d’estre indiscret.</l>
           </sp>
@@ -1279,6 +1356,7 @@
           <p>ACTE III.<pb n="67" xml:id="p67"/></p>
         </div>
         <div type="scene" xml:id="III08">
+          <head>SCENE VIII.</head>
           <sp xml:id="III08-1" who="rosandre">
             <l n="907" xml:id="l907" part="I">Luciane,</l>
           </sp>
@@ -1330,7 +1408,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="70" xml:id="p70"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="belise">
             <l n="941" xml:id="l941">Que vostre esprit adroit, sçait habillement feindre !</l>
             <l n="942" xml:id="l942">Et que le pauvre Oronte, a sujet de s’en <ref target="#pleindre1">pleindre*</ref> !</l>
@@ -1432,6 +1512,7 @@
           <p>ACTE IV.</p>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II.</head>
           <sp xml:id="IV02-1" who="oronte">
             <l n="1021" xml:id="l1021">Braside, cher amy, mon amour vous conjure,</l>
             <l n="1022" xml:id="l1022">De luy prester la main pour vanger son injure,</l>
@@ -1490,6 +1571,7 @@
           <p>ACTE IV.<pb n="78" xml:id="p78"/></p>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <sp xml:id="IV03-1" who="doriste">
             <l n="1061" xml:id="l1061">Miserable Doriste, en quelle solitude,</l>
             <l n="1062" xml:id="l1062">Dois-tu cacher ton crime, et ton inquietude ?</l>
@@ -1511,6 +1593,7 @@
           <p>ACTE IV.</p>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV.</head>
           <sp xml:id="IV04-1" who="philante">
             <l n="1077" xml:id="l1077">N'auray-je point bien-tost le bon-heur que j’espere ?</l>
             <l n="1078" xml:id="l1078">Quelle de ces maisons est celle de mon pere ?</l>
@@ -1563,6 +1646,7 @@
           <p>ACTE IV.<pb n="82" xml:id="p82"/></p>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V.</head>
           <sp xml:id="IV05-1" who="almedor">
             <l n="1093" xml:id="l1093">Ne remarquez vous pas comme ce beau visage,</l>
             <l n="1094" xml:id="l1094">A fait envers mon fils reüssir mon presage ?</l>
@@ -1606,6 +1690,7 @@
           <p>ACTE IV.</p>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI.</head>
           <sp xml:id="IV06-1" who="oronte">
             <p>STANCES.</p>
             <lg>
@@ -1674,6 +1759,7 @@
           <p>ACTE IV.</p>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE VII.</head>
           <sp xml:id="IV07-1" who="braside">
             <l n="1171" xml:id="l1171">Oronte est en estat de fort homme de bien;</l>
             <l n="1172" xml:id="l1172">Faites vostre devoir, et je feray le mien.</l>
@@ -1797,7 +1883,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="93" xml:id="p93"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="V01-1" who="belise">
             <p>STANCES.</p>
             <lg>
@@ -1860,6 +1948,7 @@
           <p>ACTE V.<pb n="96" xml:id="p96"/></p>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp xml:id="V02-1" who="luciane">
             <l n="1267" xml:id="l1267">Helas chere Belise ! il ne m’est pas possible,</l>
             <l n="1268" xml:id="l1268">De fleschir la rigueur de ce pere insensible;</l>
@@ -1914,6 +2003,7 @@
           <p>ACTE V.<pb n="99" xml:id="p99"/></p>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp xml:id="V03-1" who="rosandre">
             <l n="1295" xml:id="l1295">Ha monsieur on nous trompe, et cette belle flame,</l>
             <l n="1296" xml:id="l1296">Esclatte en leur discours sans eschauffer leur ame:</l>
@@ -1984,6 +2074,7 @@
           <p>ACTE V.<pb n="103" xml:id="p103"/></p>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV.</head>
           <sp xml:id="V04-1" who="philante">
             <l n="1335" xml:id="l1335" part="I">Voyons ce beau Philante;</l>
           </sp>
@@ -2133,6 +2224,7 @@
           <p>ACTE V.<pb n="111" xml:id="p111"/></p>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V.</head>
           <sp xml:id="V05-1" who="belise">
             <l n="1403" xml:id="l1403" part="I">O Dieu !</l>
           </sp>

@@ -1,13 +1,63 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Fidelle Tromperie. Tragi-comédie</title>
+        <author key="Gougenot, Nicolas (auteur dramatique ; 15..-16..)">Gougenot</author>
+        <principal>Georges Forestier</principal>
+        <editor>Magalie Rabot</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Magalie Rabot dans le cadre d'un mémoire de
+          maîtrise sous la direction de Georges Forestier (2002-2003)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/gougenot_fidele-tromperie/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1633"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LA <lb/>FIDELLE <lb/>TROMPERIE. <lb/>TRAGI-COMÉDIE</head>
       <div xml:id="argument">
+        <head>Argument</head>
         <p><pb n="III,a"/> /Filamire, jeune Prince d’Armenie, voyant le monde arrive en Cypre, où par     le deceds du Roy de ceste isle, il trouve Clorisée jeune Princesse et fille de ce Roy nouvellement couronnée, des beautez et <ref target="#merite">merites*</ref> de laquelle Filamire estant extremement passionné, il fit en sa faveur une infinité de belles et <ref target="#genereux">genereuses*</ref> actions sous le nom de Palmedon Prince de Trebisonde ; Clorisée qui estoit fort sollicitée par son peuple de se marier, creut qu’elle n’en pouvoit trouver une occasion plus legitime que par l’alliance de ce Prince qu’elle aymoit ardamment. Leur mariage se traitte tandis que Filamire feint d’en-/<pb n="IV"/> /voyer ses Ambassadeurs en Trebisonde ; Durant ce temps la Royne devient grosse, ce que sçachant Filamire, il se <ref target="#desrober">desrobe*</ref> d’elle et se retire en Armenie, où en mesme temps on acheve le mariage desja commencé de luy et de Clarinde, Princesse unique de Mede, dont Clorisée estant advertie et se voyant trompée, conceut un cruel desir de vengence contre Filamire. Le terme de son accouchement venu, elle se delivra d’une fille qu’elle fit nommer Alderine, laquelle devint si belle que sa mere jugea sa beauté capable de la vengence qu’elle desiroit, surquoy s’estant conseillée d’un Prince/ son amy, elle fit fortifier un Chasteau, dans lequel elle logea ceste jeune Princesse, qu’elle pourveut de femmes pour la servir, et n’estoit permis aux hommes d’entrer en ceste maison. Alderine parvenuë en l’aage de douze ans, sa mere fit faire une infinité de ses portraits, qu’elle envoya par toutes les Provinces, avec des patentes portant promesse de donner sa fille et sa Couronne à celuy /<pb n="V"/> / qui luy apporteroit la teste de Filamire. Armidore jeune Prince de Phrygie et nepveu de Filamire, ayant veu un de ces portraits     devint si passionné de l’amour d’Alderine qu’il resolut de la voir, et d’employer toute son <ref target="#industrie">industrie*</ref> et son courage au moyen de la posseder. Il descouvre son secret à Clidame son cousin Prince de Natalie, ils se <ref target="#desrober">desrobent*</ref> de Phrygie et vont en Cypre ; ils se presentent à Clorisée, Armidore s’estant deguisé en Amazone, et ayant pris le nom de Lucide, se disans Lydiens frere et sœur eschapez d’un naufrage. Lucide est donnée par la Royne à sa fille, laquelle a de si fortes inclinations d’amour pour ceste feinte Amazone, qu’elle ne la peut perdre de veuë. Durant leur conversation aussi pure qu’innocente, plusieurs Chevaliers vont à la conqueste du <ref target="#chef">chef*</ref> de Filamire, mais sa <ref target="#valeur">valeur*</ref> les reduit à l’extremité d’apporter le leur à Clorisée, qu’il luy envoye en satisfaction du sien. Lucide fust obligée de combattre deux puissans Roys en deux rencontres, et les ayant vain-/<pb n="VI"/> /cus en presence de Clorisée, ceste Royne voyant que la <ref target="#valeur">valeur*</ref> de Filamire <ref target="#surmonter1">surmontoit*</ref> son dessein, creut que celle de Lucide estoit capable de la venger, et sur ceste opinion elle luy demande deux choses en presence d’Alderine, dont la premiere estoit la teste de Filamire, et l’autre estoit qu’elle luy trancheroit la sienne : ce que Lucide luy promit, pourveu qu’elle luy octroyast un don qu’elle accompliroit apres s’estre aquittée de sa premiere promesse : ce que luy ayant esté accordé par Clorisée elle reçoit commandement de partir le lendemain. La nuit de ce jour Lucide descouvre à Alderine la verité de son sexe et de sa naissance : la Princesse tesmoigne tant de colere et d’offence de ceste nouvelle, qu’elle deffend à Lucide de se trouver jamais en sa presence : Lucide apres mille plaintes part le lendemain avec Clidame, durant leur voyage les deux Roys vaincus par Lucide, se prevalans de son absence viennent ravager la Cypre, assiegeans Clorisée dans sa ville capitalle, reso-/<pb n="VII"/> /lus de ne point donner de paix que par les mariages de l’un avec la mere, et de l’autre avec la fille. Il se donne un assaut de nuict, où la ville estant sur le poinct d’estre prise, Lucide arrive la mesme nuict et satisfaicte de son voyage, secourt si bien Clorisée, que par l’ayde d’un seul Chevalier, ils mettent les ennemis en fuitte, et font les Roys prisonniers ; Et Lucide s’estant retirée en une chambre dans le logis de la Reyne, s’acquitte envers elle de sa premiere promesse : Clorisée luy demandant l’effet de la seconde, Lucide la requiert premier de l’accomplissement de la sienne, à quoy la Reyne trouvant de la difficulté, et se croyant <ref target="#deceu">deceuë*</ref> de Lucide, se veut tuer ; Filamire se trouve vivant, et Clorisée satisfaicte, ils vont voir ensemble Alderine, où Lucide est recogneuë pour Armidore, à qui la Princesse est donnée pour femme : les Roys prisonniers sont mis en liberté ; un Courrier de Mede apporte la nouvelle de la mort de Clarinde : finalement Clorisée et Filamire sont remis ensemble.</p>
       </div>
-      <div xml:id="acteurs"/>
+      <div xml:id="acteurs">
+        <head>ACTEURS</head>
+      </div>
       <div xml:id="I" type="act">
         <pb n="1 ; A"/>
+        <head>ACTE PREMIER</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="I01-1" who="armidore">
             <l n="1" xml:id="l1">Image precieux de ma vivante aurore,    </l>
             <l n="2" xml:id="l2">Belle feinte d’amour que mon esprit adore,</l>
@@ -218,6 +268,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE DEUXIESME</head>
           <pb n="11"/>
           <sp xml:id="I02-1" who="clorisee">
             <l n="153" xml:id="l153">Mortel <ref target="#ressouvenir">ressouvenir*</ref> d’une ame <ref target="#desloyal">desloyale*</ref></l>
@@ -313,6 +364,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE TROISIESME</head>
           <sp xml:id="I03-1" who="lucide">
             <l part="F">C’est la Reyne sans doute,</l>
             <l n="238" xml:id="l238">Mon frere le bon-heur assiste nostre route.</l>
@@ -459,7 +511,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="22"/>
+        <head>ACTE SECOND</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="II01-1" who="clidame">
             <l n="329" xml:id="l329">Je voy bien, cher cousin, que la <ref target="#vif">vive*</ref> figure</l>
             <l n="330" xml:id="l330">A bien plus de pouvoir que n’avoit la peinture,</l>
@@ -592,6 +646,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE DEUXIESME</head>
           <pb n="28"/>
           <sp xml:id="II02-1" who="alderine">
             <l n="409" xml:id="l409">Mais vous ne dites rien de ma chere Lucide,<hi rend="i">Elles sont dans le</hi></l>
@@ -781,6 +836,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE TROISIESME</head>
           <pb n="37"/>
           <sp xml:id="II03-1" who="clorisee">
             <l n="553" xml:id="l553">Me faut-il donc <ref target="#souffrir">souffrir*</ref> une <ref target="#peine1">peine*</ref> infinie,</l>
@@ -963,7 +1019,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="46"/>
+        <head>ACTE TROISIESME</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="III01-1" who="bruserbe">
             <l n="701" xml:id="l701">L’injurieux mespris que ce Prince respire,</l>
             <l n="702" xml:id="l702">Qui ternit vostre gloire, et trouble vostre Empire,</l>
@@ -1568,7 +1626,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="73 ; K"/>
+        <head>ACTE QUATRIESME</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="IV01-1" who="filamon">
             <l n="1137" xml:id="l1137">Les desirs des mortels trouvent plus de ruïnes,</l>
             <l n="1138" xml:id="l1138">Que la mer n’a d’escueils, et les rosiers d’espines,</l>
@@ -1596,6 +1656,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE DEUXIESME</head>
           <pb n="75"/>
           <sp xml:id="IV02-1" who="clorisee">
             <l n="1159" xml:id="l1159">Lucide les vertus ont des <ref target="#charme">charmes*</ref> si forts,</l>
@@ -1888,6 +1949,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE TROISIESME</head>
           <pb n="89 ; M"/>
           <sp xml:id="IV03-1" who="clidame">
             <l n="1367" xml:id="l1367">Que ceste passion estourdit les esprits !</l>
@@ -2013,6 +2075,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE QUATRIESME</head>
           <pb n="95"/>
           <sp xml:id="IV04-1" who="alderine">
             <l n="1457" xml:id="l1457">Que vos sages pensers promettent des miracles,</l>
@@ -2393,7 +2456,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="112"/>
+        <head>ACTE CINQUIESME</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="V01-1" who="bruserbe">
             <l n="1717" xml:id="l1717">Comme les passions surmontent toute chose,</l>
             <l n="1718" xml:id="l1718">Ceste Reyne confuse en ce qu’elle propose,</l>
@@ -2438,6 +2503,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE DEUXIESME</head>
           <sp xml:id="V02-1" who="clorisee">
             <l n="1749" xml:id="l1749">Ces traistres croyent donc que je sois abbatuë.</l>
             <l n="1750" xml:id="l1750">C’est dedans le peril où mon cœur s’<ref target="#esvertuer">esvertuë*</ref>.<pb n="115"/></l>
@@ -2562,6 +2628,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE TROISIESME</head>
           <pb n="121 ; Q"/>
           <sp xml:id="V03-1" who="alderine">
             <l n="1851" xml:id="l1851">Que les secrettes destinées,</l>
@@ -2761,6 +2828,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE QUATRIESME</head>
           <pb n="130"/>
           <sp xml:id="V04-1" who="bruserbe">
             <l n="2035" xml:id="l2035">Portons nostre vengeance à toute extremité,</l>
@@ -2953,6 +3021,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE CINQUIESME</head>
           <sp xml:id="V05-1" who="clorisee">
             <l n="2122" xml:id="l2122">Nos tyrans sont donc pris, bon Dieu je te rends grace.</l>
           </sp>
@@ -3223,6 +3292,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE SIXIESME</head>
           <pb n="149"/>
           <sp xml:id="V06-1" who="tersandre">
             <l n="2265" xml:id="l2265">Noz mutins maintenant abbatus de froideur,</l>
@@ -3287,6 +3357,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE SEPTIESME<pb n="152"/></head>
           <sp xml:id="V07-1" who="clidame">
             <l n="2294" xml:id="l2294">Dieux ! qu’est-ce que je voy, tout a changé de face,</l>
             <l n="2295" xml:id="l2295">Ceste Cour a repris le lustre de sa grace.</l>

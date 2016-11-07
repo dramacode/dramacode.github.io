@@ -1,7 +1,56 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Agarite. Tragi-comédie</title>
+        <author key="Durval, Jean-Gilbert (16..-16..)">Jean-Gilbert Durval</author>
+        <principal>Georges Forestier</principal>
+        <editor>Marine Jeannoutot</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Marine Jeannoutot dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2003-2004)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/durval_agarite/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/durval_agarite.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/durval_agarite.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/durval_agarite.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/durval_agarite.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1636"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>AGARITE. <lb/>TRAGI-COMEDIE. <lb/>DEDIEE A MADAME la Duchesse de Nemours.</head>
       <div type="set" xml:id="dedicace">
+        <head>A TRES HAUTE ET PUISSANTE PRINCESSE ANNE DE LORRAINE, Duchesse de Genevois, de Nemours &amp; d’Aumale.</head>
         <p>Madame,</p>
         <p>Le tesmoignage, que rend le public des pieces de Theatre, n’estant bien souvent fondé que sur le bien faire des Acteurs, n’est pas une lettre de recommandation pour les faire passer à la Posterité. Celle-cy que j’ay l’honneur de presenter à <hi rend="sc">Vostre Grandeur</hi> ayant esté aucunement bien receuë sem/<pb n="II"/>/bloit ne devoir plus craindre l’injure du temps ny les coups de langue : mais l’approbation de quelques bons Esprits durant l’espace de peu d’années n’est pas une marque suffisante pour faire trouver bonne la plus belle Poësie, si le travail de la presse ne fait les mesmes effects que l’artifice du Theatre ce que n’osant me promettre de ce genre de Poëme je differois tousjours d’en faire mettre les Vers en lumiere, prevoyant assés qu’une lecture interrompuë d’Actes et de Scenes osteroit la grace qu’ils peuvent avoir en la bouche des Acteurs. Toutefois puisqu’ils n’ont jamais esté recités comme les voicy j’ay pensé que mes fautes estant publiques je les devois reparer par cette edition. Que si d’avanture cette occupation d’esprit vous semble peu serieuse, c’est encore un peu de jeunesse qui n’est pas incompatible avec l’âge viril &amp; pour ainsi dire c’est la plus proche folie de la /<pb n="III"/>/sagesse. Vous entendés bien, <hi rend="sc">Madame</hi>, que je me veux excuser de sçavoir faire des Vers en loüant un Art souvent incommode, &amp; quelque fois ridicule en ceux qui l’exercent, mais jusqu’icy n’ayant point fait rencherir le papier a force d’escrire, je pense n’avoir employé en ce gracieux travail que certaines heures de recreation. Pourtant quand il s’agira de traiter a bon escient quelque haut sujet qui vous appartienne, encore que les Princes de</p>
         <p>vostre Maison soient Tres Illustres dans les Histoires &amp; que le simple discours de vostre Genealogie surpasse en magnificience le stile des Poëtes &amp; des Orateurs j’ose vous promettre des pieces de meilleure trempe &amp; de plus longue haleine. Alors pour faire admirer à tout le monde les Ducs, &amp; les Chevaliers d’Aumale je traceray volontiers un plus grand dessein. Les noms de Nemours, &amp; de Genevois me fourniront de hautes /<pb n="IV"/>/pensées &amp; sans mediter rien de fabuleux, j’imagineray peut-estre de si nobles fictions qu’elles seront respectées pour l’amour de vous &amp; me feront connoistre.</p>
@@ -10,10 +59,12 @@
         <p rend="center">DURVAL./<pb n="V"/>/</p>
       </div>
       <div type="set" xml:id="au-lecteur">
+        <head>AU LECTEUR.</head>
         <p rend="i">Ne pense pas Lecteur, que je vueille mettre un long preambule au devant de cette Piece pour suspendre les opinions des maistres sur le jugement qu’ils en pourront faire. Je ne suis point si amoureux de mes Poëmes que je ne les supprime tres volontiers, quand ils seront condamnés par des Juges competants. Cependant &amp; jusqu’à tant que nos Poetes &amp; nos Orateurs soient erigés en tiltre d’office, je n’estime pas qu’ils se puissent attribuer une souveraine juridiction sur les matieres de Prose ou de Vers. Et je crois qu’il me doit estre permis comme à plusieurs autres d’en dire mon petit mot pour le temps que j’ay mis à lire les œuvres de quelques-uns qui me semblent plus curieux de trouver de nouveaux accents en nostre langue par la nouvelle orthographe que d’animer &amp; polir leurs escrits par la force de leur genie &amp; par les graces de l’Eloquence acquise. Je ne les veux point choquer plus rudement de peur que le contre coup ne me fasse mal, car je ne sens point en moy plus de vigueur qu’ils en peuvent avoir, &amp; les def<hi rend="i">/</hi><pb n="VI"/>/fauts [que] je remarque en eux, je les ay peut-estre sans que je les voye. C’est pourquoy je ne laisse point aller sans passe-port cette premiere Tragi-Comedie , que je te prie de ne pas prendre pour un modelle adjusté  de tout point aux regles qui serviront un jour de Preface à d’autres, si tu la reçeois ainsi, je te puis asseurer d’un volume de quatre pieces plus justes &amp; plus nombreuses  , chacune desquelles tenant sa partie te fera voir comme alors que je me suis diverty à cette belle science, j’ay separément traité, La Tragedie, La Tragi-Comedie, La Pastorale et la Comedie, les unes dans la pretendue Regle de vingt-quatre heures, comme Poemes simples  &amp; les autres </p>
         <p rend="i">hors de la mesme regle, comme Poemes composés . C’est tout ce que mon loisir m’a permis de contribuer à la Scene Françoise qui ne peut avoir que les quatre faces que je te monstre. Je laisse aux autres à remplir les niches du Theatre de ses figures &amp; decorations exterieures, &amp; je me contente d’en avoir mis le plan à fleur de terre &amp; dressé la base quadrangulaire sur laquelle tous les bons ouvriers peuvent jetter les fondemens de l’œuvre dramatique &amp; le  conduire à sa perfection./ <pb n="VII"/>/ </p>
       </div>
       <div type="set" xml:id="ode">
+        <head>A MONSIEUR DURVAL. <lb/>Sur la Tragi-Comedie d’Agarite. <lb/>ODE.</head>
         <lg>
           <l n="1">En vain le Ciel pretend l’hommage,</l>
           <l n="2">De produire icy bas des Dieux ;</l>
@@ -101,13 +152,18 @@
         </lg>
       </div>
       <div type="set" xml:id="argument">
+        <head>ARGUMENT.</head>
         <p rend="i">Agarite jeune Damoiselle, mais trop agreable aux yeux d’un Roy est sollicitée par Celidor, son favory. Medon pour eluder cette artificieuse poursuite, se vient plaindre à la Majesté du rapt qu’il suppose avoir esté fait de sa fille. Cependant il la depaïse &amp; l’envoye aux champs en une maison de plaisance. Elle n’y est pas si tost que deux Gentilshommes en deviennent amoureux. Policaste gaigne son cœur, &amp; Lisene provoque sa haine. Cetui-cy d’aussi bonne maison que son Rival, &amp; plus riche que luy : pour mieux reüssir en sa recherche vient trouver le pere, qui le reçoit comme il desire ; &amp; envoye querir sa fille pour les accorder. Corintie en l’absence de son Frere est cajolée par Celidor, qui en devient amoureux en cherchant Agarite, mais comme elle ne peut l’entretenir longtemps, il retourne aupres du Roy rendre compte de sa Commission. Là il apprend par le commun bruit, &amp; la bouche du Roy, le Mariage que Medon pretend faire, &amp; sur le soupçon qu’ils ont que c’est pour reparer le rapt commis, ils deliberent de se défaire du marié le soir de ses nopces, &amp; d’enlever la mariée. Mais Policaste, executant le premier un autre stratageme, dont il est demeuré d’accord avec Agarite, frustre le dessein du Roy une seconde fois. Le soir de ses nopces venu, Agarite est ravie par son Amant, &amp; conduite par eau dans une place forte. Lisene son espoux est tué dans un Balet inventé exprés par Celidor &amp; Medon n’est pas plus affligé de la perte de sa fille &amp; du meurtre de son gendre que le/<pb n="XII"/>/Roy l’est de son entreprise mal executée. Enfin pour surcharge d’afflictions ce malheureux pere est amené devant ce Prince irrité, qui l’accuse du meurtre de son Gendre, &amp; luy impose la mort de sa fille, pour luy faire declarer où elle est. Dans cette confusion turbulente d’evenemens tragiques, un Pescheur vient dire que sur le bord de la riviere il a treuvé des habits de femme à l’usage d’une Damoiselle. On s’y transporte. Medon les reconnoist pour ceux de sa fille, &amp; le Roy presumant qu’Agarite s’est noyée par desespoir, en est si fort troublé, qu’il luy fait dresser un Lict de parade, où tous les jours il vient faire ses regrets. D’autre costé Celidor ayant sçeu que Lisene qu’il a tué estoit Frere de Corintie son Amante, se resoust de faire penitence d’un si grand crime, &amp; pour s’en aller en pelerinage, il prent congé d’elle, mais celle cy pour rompre son dessein, le suit bien-tost déguisée en Cavalier. Tandis Policaste &amp; Agarite demeurent dans leur Chasteau, d’où enfin ils sortent pour venir en Cour &amp; treuver moyen en desabusant le Roy, d’accomplir leur mariage. Ils s’addressent à Phenice gouverneur d’Amelise, auquel ils conseillent de faire mettre ceste jeune Princesse à la place de l’effigie d’Agarite que le Roy idolatre, afin qu’il s’en puisse rendre amoureux, &amp; qu’il soit plus facile de luy faire changer son amour imaginaire en une affection réglée &amp; legitime. Ce qu’ils executent au contentement d’Amelise, qui est bien aise de faire l’idole pour devenir Reine, &amp; s’estans pris garde que depuis une telle supposition le Roy n’est plus si furieux. Un jour entre autres qu’il se plaint dans sa chambre, Amelise se leve en sursaut de dessus le lict de parade. Incontinent Phenice parest suivi de Policaste &amp; d’Agarite deguisée en Page. Tous ensemble le rasseurent, &amp; Pheni/<pb n="XIII"/>/ce luy ayant monstré l’Autheur de la feinte s’esvertuë encor par vives raisons de luy oster Agarite de la memoire, pour luy faire prendre un party sortable à la dignité de sa personne. Finalement il se resout d’espouser Amelise. Alors Policaste descouvre Agarite, &amp; la reconnoist pour sa maistresse. Le Roy, autant ravy de ce miracle, que la grande affection qui est entr’eux, change l’amour qu’il a eu pour elle en bienveillance, &amp; pour recompenser Policaste d’une feinte qui reüssit à tant d’heureux effects, il luy accorde Agarite en mariage. Au mesme temps Celidor &amp; Corintie estans retournez en Cour en habits déguisez, sont aussi reconnus &amp; mariez ensemble. </p>
         <p rend="i">Une consideration m’empesche de nommer le Royaume &amp; la Province où j’ay feint cette Histoire. Je diray seulement contre l’opinion de ceux qui veulent que la Scene soit en un seul lieu, qu’une partie des adventures de ce Poëme se passe aux champs, &amp; l’autre à la ville, s’ils ne veulent prendre pour un seul lieu toute une contrée . / <pb n="XIV"/>/ </p>
       </div>
-      <div type="set" xml:id="personnages"/>
+      <div type="set" xml:id="personnages">
+        <head>PERSONNAGES</head>
+      </div>
       <div type="act" xml:id="I">
         <pb n="1 ; A" xml:id="p1"/>
+        <head>ACTE PREMIER</head>
         <div type="scene" xml:id="I01">
+          <head>Scene premiere.</head>
           <sp who="le-roy" xml:id="I01-1">
             <l n="1" xml:id="l1">Que les Roys de mon aage ont de trouble en aymant !</l>
             <l n="2" xml:id="l2">Et qu’un Sceptre déplaist en la main d’un Amant !</l>
@@ -206,6 +262,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>Scene II.</head>
           <sp who="agarite" xml:id="I02-1">
             <l n="61" xml:id="l61">Si le mignon du Roy n’est <ref target="#point3">point*</ref> un <ref target="#suborneur">suborneur*</ref></l>
             <l n="62" xml:id="l62">Qui tâche d’abuser une fille d’<ref target="#honneur2">honneur*</ref>,</l>
@@ -410,6 +467,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <pb n="14"/>
+          <head>Scene III.</head>
           <sp who="medon" xml:id="I03-1">
             <l n="195" xml:id="l195">Agarite parfois pour estre trop civile</l>
             <l n="196" xml:id="l196">On fait courre de soy de faux <ref target="#bruit2">bruits*</ref> dans la ville ;</l>
@@ -486,6 +544,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>Scene IV.</head>
           <sp who="phenice" xml:id="I04-1">
             <l n="249" xml:id="l249">Quand je pense, Madame, au bon-heur qui vous fuit,</l>
             <l n="250" xml:id="l250">Il me semble de voir un beau jour qui me luit.</l>
@@ -597,7 +656,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="23"/>
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>Scene premiere.</head>
           <sp who="agarite" xml:id="II01-1">
             <l n="319" xml:id="l319">Je pense qu’autrefois en ceste solitude,</l>
             <l n="320" xml:id="l320">Quelque <ref target="#esprit1">Esprit*</ref> amoureux s’occupoit à l’estude,</l>
@@ -789,6 +850,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="32"/>
+          <head>Scene II.</head>
           <sp who="lizene" xml:id="II02-1">
             <l n="427" xml:id="l427">Malgré ses cruautez je luy seray <ref target="#fidele3">fidelle*</ref>,</l>
             <l n="428" xml:id="l428">Ma sœur ne parle <ref target="#point3">point*</ref> de son pere, ny d’elle,</l>
@@ -957,6 +1019,7 @@
         </div>
         <div type="scene" xml:id="II03">
           <pb n=" 40"/>
+          <head>Scene III.</head>
           <sp who="policaste" xml:id="II03-1">
             <l n="507" xml:id="l507">Celuy qui n’ayme pas n’est pas digne de vivre,</l>
             <l n="508" xml:id="l508">J’ay marqué ce beau <ref target="#trait6">traict*</ref> fueilletant vostre Livre.</l>
@@ -1083,6 +1146,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="47"/>
+          <head>Scene IV.</head>
           <sp who="le-roy" xml:id="II04-1">
             <l n="577" xml:id="l577">Je ne m’<ref target="#estonner">estonne*</ref> pas si tes gens n’ont rien fait</l>
             <l n="578" xml:id="l578">Et si tu n’as pas mis ta promesse en <ref target="#effet1">effect*</ref>,</l>
@@ -1135,7 +1199,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="50"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>Scene premiere.</head>
           <sp who="medon" xml:id="III01-1">
             <l n="607" xml:id="l607">Le sacré mariage unit l’homme et la femme,</l>
             <l n="608" xml:id="l608">D’un nœud comme celuy qui joint le corps et l’ame,</l>
@@ -1217,6 +1283,7 @@
         </div>
         <div type="scene" xml:id="III02">
           <pb n="54"/>
+          <head>Scene II.</head>
           <sp who="policaste" xml:id="III02-1">
             <l n="651" xml:id="l651">Nymphes ne trouvés <ref target="#point3">point*</ref> ce changement <ref target="#estrange">estrange*</ref>,</l>
             <l n="652" xml:id="l652">Ce n’est qu’en vestemens que j’affecte le <ref target="#change">change*</ref>,</l>
@@ -1493,6 +1560,7 @@
         </div>
         <div type="scene" xml:id="III03">
           <pb n="66"/>
+          <head>Scene III.</head>
           <sp who="medon" xml:id="III03-1">
             <l n="831" part="I" xml:id="l831">Il faut voir ce Balet.</l>
           </sp>
@@ -1653,7 +1721,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="73"/>
+        <head>Acte IIII.</head>
         <div type="scene" xml:id="IV01">
+          <head>Scene premiere.</head>
           <sp who="pecheur1" xml:id="IV01-1">
             <l n="895" xml:id="l895">Tant que dessus les eaux nous voyons la bonasse,</l>
             <l n="896" xml:id="l896">Les poissons clairvoyants n’entrent <ref target="#point3">point*</ref> dans ma Nasse,</l>
@@ -1753,6 +1823,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <pb n="78"/>
+          <head>Scene II.</head>
           <sp who="le-roy" xml:id="IV02-1">
             <l n="937" xml:id="l937">Un desir violent me presse de la voir,</l>
             <l n="938" part="I" xml:id="l938">Où croy-tu qu’elle soit  ?</l>
@@ -1842,6 +1913,7 @@
         </div>
         <div type="scene" xml:id="IV03">
           <pb n="82"/>
+          <head>Scene III.</head>
           <sp who="policaste" xml:id="IV03-1">
             <l n="979" xml:id="l979">Encore qu’en ce lieu tu sois en ma puissance,</l>
             <l n="980" xml:id="l980">Je crains de te parler avec trop de <ref target="#licence">licence*</ref>,</l>
@@ -1935,6 +2007,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <pb n="86"/>
+          <head>Scene [IIII].</head>
           <sp who="le-roy" xml:id="IV04-1">
             <l n="1031" part="I" xml:id="l1031">Nous voicy sur le lieu.</l>
           </sp>
@@ -2024,6 +2097,7 @@
         </div>
         <div type="scene" xml:id="IV05">
           <pb n="91"/>
+          <head>Scene V.</head>
           <sp who="corintie" xml:id="IV05-1">
             <l n="1097" xml:id="l1097">Quel jour peut amener le Soleil qui nous luit</l>
             <l n="1098" xml:id="l1098">Qui ne soit obscurcy de l’ombre de la nuit ?</l>
@@ -2137,6 +2211,7 @@
         </div>
         <div type="scene" xml:id="IV06">
           <pb n="97 ; G."/>
+          <head>Scene VI.</head>
           <sp who="le-roy" xml:id="IV06-1">
             <l n="1175" xml:id="l1175">Traistres  sortez d’icy, mes <ref target="#fureur2">fureurs*</ref>, et mes rages</l>
             <l n="1176" xml:id="l1176">Me servent-elles pas d’Officiers et de <ref target="#page">pages*</ref> ?</l>
@@ -2223,7 +2298,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="102"/>
+        <head>Acte V.</head>
         <div type="scene" xml:id="V01">
+          <head>Scene premiere.</head>
           <sp who="policaste" xml:id="V01-1">
             <l n="1255" xml:id="l1255">Tant de braves Seigneurs que le Roy tient à gages,</l>
             <l n="1256" xml:id="l1256">Et que l’on voit suivis d’une troupe de <ref target="#page">Pages*</ref>,</l>
@@ -2363,6 +2440,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>Scene II.</head>
           <sp who="corintie" xml:id="V02-1">
             <l n="1343" xml:id="l1343">Mon Amant doit passer au coin de ce Boccage,</l>
             <l n="1344" xml:id="l1344">En ce lieu je pourray le guetter au passage,</l>
@@ -2519,6 +2597,7 @@
         </div>
         <div type="scene" xml:id="V03">
           <pb n="III."/>
+          <head>Scene derniere</head>
           <sp who="le-roy" xml:id="V03-1">
             <l n="1419" xml:id="l1419">En fin cette Beauté, dont je suis idolatre,</l>
             <l n="1420" xml:id="l1420">A changé ma <ref target="#fureur1">fureur*</ref> en une <ref target="#humeur2">humeur*</ref> folastre,</l>
@@ -2827,6 +2906,7 @@
         </div>
       </div>
       <div>
+        <head>PRIVILEGE DU ROY.</head>
         <p>
           <hi rend="i">Louis, par la grace de Dieu, Roy de France &amp; de Navarre, A nos amez &amp; feaux Conseillers les Gens tenans nos Cours de Parlement de Paris, Roüen, Tholoze, Bordeaux, Rennes, Aix, Dijon, Grenoble, Metz, Prevost dudit Paris, Seneschaux de Lyon, Poictou, Anjou, Baillifs, Prevosts &amp; tous autres nos justiciers &amp; Officiers qu’il appartiendra, Salut. Nostre bien amé François Targa, Marchand Libraire de nostre bonne ville de Paris, nous a fait remontrer qu’il a nouvellement recouvré un Livre, intitulé, Agarite, Tragi-Comedie, faite par le sieur Durval, lequel il desireroit imprimer &amp; mettre en vente. Mais il craint qu’aprés les frais qu’il a déja faits, &amp; qu’il luy convient faire pour la perfection dudit Livre, quelques autres Imprimeurs &amp; Libraires ne se voulussent ingerer de l’imprimer, &amp; mettre en vente, &amp; le frustrer par ce moyen du fruict qu’il espere de son travail, Nous requerant tres-humblement nos Lettres à ce necessaires. A ces causes, Nous avons audit exposant, permis &amp; permettons par ces presentes, de faire imprimer, vendre, &amp; distribuer ledit Livre pendant le temps &amp; espace de six années à compter du jour qu’il sera parachevé d’imprimer. Pendant lequel temps Nous avons fait tres-expresses inhibitions &amp; defenses à tous Imprimeurs &amp; Libraires de nostre Royaume, &amp; à toutes autres personnes, de quelque qualité &amp; condition qu’ils soient, d’imprimer, ou faire imprimer, vendre, ou distribuer ledit Livre, sans le congé de l’exposant, Sur peine aux contrevenans, de cinq cents livres d’amende, &amp; confiscation des exemplaires qui se trouveront imprimez, &amp; mis en vente au prejudice des presentes. Voulons en outre qu’en mettant au commencement, ou à la fin de chacun desdits livres autant de cesdites presentes, ou l’extraict d’icelles, qu’elles soient tenuës pour signifiées et venuës à la cognoissance de tous. A la charge de mettre deux exemplaires de chacun dudit livre en nostre Bibliotecque, gardée aux Cordeliers de nostre bonne ville de Paris, &amp; une autre és mains de nostre tres-cher et feal le Sieur Seguier, Chevalier, Garde des Sceaux de France, avant les exposer en vente, à peine d’estre décheu du present Privilege. S</hi>
           <hi rend="i">

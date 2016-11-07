@@ -50,40 +50,7 @@ class Dramacode
       "publisher" => "Théâtre Classique",
       "identifier" => "http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/%s.xml",
       "source" => "http://dramacode.github.io/tcp5/%s.xml",
-      "predir" => 'tc-',
     ),
-    /*
-    "corneille-pierre" => array(
-      "glob" => '../corneille-pierre/*.xml',
-      "publisher" => "Dramacode",
-      // "identifier" => "http://dramacode.github.io/corneille-pierre/%s",
-      "source" => "http://dramacode.github.io/corneille-pierre/%s.xml",
-    ),
-    "divers" => array(
-      "glob" => '../divers/*.xml',
-      "publisher" => "Dramacode",
-      // "identifier" => "http://dramacode.github.io/divers/%s",
-      "source" => "http://dramacode.github.io/divers/%s.xml",
-    ),
-    "quinault" => array(
-      "glob"=> '../quinault/*.xml',
-      "publisher" => "Dramacode",
-      // "identifier" => "http://dramacode.github.io/quinault/%s",
-      "source" => "http://dramacode.github.io/quinault/%s.xml",
-    ),
-    "regnard" => array(
-      "glob" => '../regnard/*.xml',
-      "publisher" => "Dramacode",
-      // "identifier" => "http://dramacode.github.io/regnard/%s",
-      "source" => "http://dramacode.github.io/regnard/%s.xml",
-    ),
-    "scarron" => array(
-      "glob" => '../scarron/*.xml',
-      "publisher" => "Dramacode",
-      // "identifier" => "http://dramacode.github.io/scarron/%s",
-      "source" => "http://dramacode.github.io/scarron/%s.xml",
-    ),
-    */
   );
   static $formats = array(
     'epub' => array( "ext"=>'.epub', "mime"=>"application/epub+zip", "title"=>"Livre électronique" ),
@@ -145,7 +112,7 @@ CREATE INDEX play_setcode ON play(setcode);
   /**
    * Constructeur de la base
    */
-  public function __construct($sqlitefile, $logger="php://output") {
+  public function __construct( $sqlitefile, $logger="php://output" ) {
     if (is_string($logger)) $logger = fopen($logger, 'w');
     self::$_logger = $logger;
     $this->connect($sqlitefile);
@@ -163,7 +130,7 @@ CREATE INDEX play_setcode ON play(setcode);
   /**
    * Produire les exports depuis le fichier XML
    */
-  public function add($srcfile, $setcode=null, $force=false) {
+  public function add( $srcfile, $setcode=null, $force=false ) {
     $set = self::$sets[$setcode];
     if (!isset($set['predir'])) $set['predir'] = ''; // used for Théâtre Classique
     $srcname = pathinfo($srcfile, PATHINFO_FILENAME);
@@ -181,11 +148,13 @@ CREATE INDEX play_setcode ON play(setcode);
       $teinte->pre(dirname(__FILE__).'/tc-norm.xsl');
     }
     $echo = "";
+
     foreach (self::$formats as $format => $row) {
       $dir = $set['predir'].$format;
       $destfile = dirname(__FILE__).'/'.$dir.'/'.$srcname.$row["ext"];
+
+
       if (!$force && file_exists($destfile) && $srcmtime < filemtime($destfile)) continue;
-      if ($format == 'kindle') continue; // kindle mobi should be done just after epub
       // delete destfile if exists ?
       $echo .= " ".$format;
       // TODO git $destfile
@@ -198,9 +167,12 @@ CREATE INDEX play_setcode ON play(setcode);
       else if ($format == 'epub') {
         $livre = new Livrable_Tei2epub($teinte->dom(), self::$_logger);
         $livre->epub($destfile);
-        // transformation auto en mobi, toujours après epub
+      }
+      // mobi sould be done after epub
+      if ($format == 'kindle') {
+        $epubfile = dirname(__FILE__).'/'.$set['predir'].'epub/'.$srcname.".epub";
         $mobifile = dirname(__FILE__).'/'.$set['predir'].'kindle/'.$srcname.".mobi";
-        Livrable_Tei2epub::mobi($destfile, $mobifile);
+        Livrable_Tei2epub::mobi($epubfile, $mobifile);
       }
       else if ($format == 'docx') {
         $echo .= " docx";

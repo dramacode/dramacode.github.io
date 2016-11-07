@@ -1,18 +1,72 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/css" href="../teibook/teibook.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les Rivaux amis. Tragi-comédie</title>
+        <author key="Boisrobert, François Le Métel de (1592-1662)">Le Métel de Boisrobert, François</author>
+        <principal>Georges Forestier</principal>
+        <editor>Guillaume Robert</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Guillaume Robert sous la direction de Georges Forestier (1997)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/boisrobert_rivaux-amis/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boisrobert_rivaux-amis.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boisrobert_rivaux-amis.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boisrobert_rivaux-amis.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boisrobert_rivaux-amis.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1639"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>Les <lb/>Rivaux<lb/>Amis <lb/>Tragi-comédie</head>
       <div>
+        <head>A<lb/>MONSEIGNEUR<lb/>LE COMTE<lb/>D’ANNAN.</head>
         <p>Monseigneur,</p>
         <p>De quelque nature que soit la Gloire, elle a cela de particulier avec le feu de s’élever toujours en haut, &amp; de n’agir jamais si noblement que sur les choses le moins attachées à la matière terrestre. Il en est de mesme des hommes illustres; qui dedaignent si fort les actions villes &amp; rampantes, qu’ils n’en font pour l’ordinaire que de glorieuses, &amp; de relevées. Dequoy je m’asseure, on ne s’estonnera pas beaucoup, si l’on considere que cét aduantage est un effet de la bonne education, &amp; encore plus de la Nature, qui dénie la pluspart du temps aux Ames vulgaires, ce qu’elle donne presque tousjours aux personnes de grande naissance. Je sçay MONSEIGNEUR, qu’au point ou la vostre est considerable, elle vous fait assez estimer des honnestes gens, sans qu’il soit besoin que je le publie. Aussi ne pretends-je pas de vous loüer icy, pour faire sçavoir à tout le monde que personne n’ignore; mais plûtost pour rendre à vos vertus une recognoissance d’autant plus juste, qu’elles vous font admirer de tous en general, &amp; de moy particulierement. Car je croy ne rien donner à la Flaterie, si je dis qu’en un âge encore tendre, vous tesmoignez avoir une moderation extraordinaire, &amp; que les dons du corps sont accompagnez en vous de ceux de l’esprit, dans une solide connoissance des Arts &amp; des Langues. Vous avez si bien appris la nostre, qu’estant asseuré comme je suis, qu’elle vous est familiere, &amp; que vous aimez passionement les Ouvrages de Prose &amp; de Vers, je prends la hardiesse de vous envoyer celuy-cy, que j’ay depuis peu, fait mettre en lumière. C’est une nouvelle piece de Theatre, que vostre grande REINE, qui est une des merveilles de nostre FRANCE, &amp; les delices de l’ANGLETERRE, a déjà veue escrite à la main, &amp; qu’elle a mesme daigné honorer de son approbation; Ce qui me fait esperer, que cette TRAGI-COMEDIE ayant eu le bon-heur de luy plaire, vous n’aurez pas desagreable qu’elle vous soit dédiée. Recevez la doncques s’il vous plaist, pour un témoignage de ce que je dois à vostre Vertu, &amp; du service que je vous ay voüé, puis que je suis de toute mon ame.</p>
         <p>MONSEIGNEUR,</p>
         <p rend="right">Vostre tres-humble, &amp; tres obeïssant serviteur, I. BAUDOIN.</p>
       </div>
       <div>
+        <head>AU LECTEUR.</head>
         <p>Je vous entretiendrois amplement sur ce Poëme Dramatique; si je ne sçavois, qu’en le lisant vous-mesme d’un bout à l’autre, vous en trouverez sans doute le sujet plus divertissant, &amp; la tissure plus agreable. Il me suffit de vous dire, que son Autheur est assez connu par le merite de son esprit, &amp; par ses autres Ouvrages, pour vous faire juger equitablement de ce que vaut celuy-cy. C’est une TRAGI-COMEDIE, accommodée au Theatre, où, quand on l’a representée, elle n’a pas manqué d’Approbateurs, qui luy ont donné de legitimes loüanges. Vostre sentiment secondera le leur je m’asseure, en la voyant sur le papier; et vous advoüerez, à vray dire, que l’invention en est belle, la conduitte judicieuse, &amp; l’intrigue ingenieusement demeslée. Que si par mesgarde, il s’y est glissé des fautes d’impression, vous seriez peu raisonnable de ne les excuser pas, puis qu’il n’est point de Liure qui s’en exempte, quelque diligence qu’on y apporte.</p>
       </div>
-      <div/>
+      <div>
+        <head>ACTEURS.</head>
+      </div>
       <div type="act">
+        <head>ACTE I</head>
         <div type="scene">
+          <head>SCENE I</head>
           <sp who="hydaspe">
             <l n="1" xml:id="l1">Enfin tu ne peux plus différer de me dire,</l>
             <l n="2" xml:id="l2">Le sujet important qui cause ton martyre,</l>
@@ -45,6 +99,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE II</head>
           <sp who="phalante">
             <l n="24" xml:id="l24">Puisque tu veux sçavoir l’estat de mon tourment,</l>
             <l n="25" xml:id="l25">Et pourquoy retourné d’Afrique en la Sicile,</l>
@@ -325,6 +380,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE III</head>
           <sp who="berenice">
             <l n="263" xml:id="l263">Ces propos superflus aigrissent ma douleur,</l>
             <l n="264" xml:id="l264">Souffrez qu’en liberté je pleure mon mal-heur,</l>
@@ -374,6 +430,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE IV</head>
           <sp who="iolas">
             <l n="299" xml:id="l299">Grace aux Dieux, je suis libre, &amp; le Ciel a permis,</l>
             <l n="300" xml:id="l300">Que je me sois tiré du camp des Ennemis,</l>
@@ -444,7 +501,9 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE II</head>
         <div type="scene">
+          <head>SCENE I</head>
           <sp who="phalante">
             <l n="347" xml:id="l347">Non non, je ne sçaurois vous accorder ce point,</l>
             <l n="348" xml:id="l348">Vous n’avez point failly, ne vous excusez point:</l>
@@ -523,6 +582,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE II</head>
           <sp who="iolas">
             <l n="409" xml:id="l409">Il ne tiendra qu’à toy, me voila plein de vie,</l>
             <l n="410" xml:id="l410">Contente, cher amy, contente ton envie.</l>
@@ -709,6 +769,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE III</head>
           <sp who="iolante">
             <l n="529" xml:id="l529">Ne fay point la dolente, &amp; la dissimulée,</l>
             <l n="530" xml:id="l530">Je sçay que de nos maux ton ame est consolée,</l>
@@ -755,6 +816,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE IV</head>
           <sp who="iolante">
             <l n="567" xml:id="l567">Mais Dieux! qu’Aronte est guay, qui l’ameine en ces lieux?</l>
           </sp>
@@ -826,6 +888,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE V</head>
           <sp who="phalante">
             <l n="609" xml:id="l609">Puisque les iustes Cieux ont entendu mes plaintes,</l>
             <l n="610" xml:id="l610">Que le retour du Prince a dissipé mes craintes,</l>
@@ -947,7 +1010,9 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE III</head>
         <div type="scene">
+          <head>SCENE I</head>
           <sp who="berenice">
             <l n="705" xml:id="l705">Ne me déguisez point ce qu’il faut que je sçache;</l>
             <l n="706" xml:id="l706">Je connois mon mal-heur, en vain on me le cache,</l>
@@ -1070,6 +1135,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE II</head>
           <sp who="berenice">
             <l n="796" xml:id="l796">Comment veux-tu que j’ayme, en ce funeste point</l>
             <l n="797" xml:id="l797" part="I">Où je me voy reduite?</l>
@@ -1161,6 +1227,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE III</head>
           <sp who="iolante">
             <l n="855" xml:id="l855">Quoy cét homme inconu, que j’abhorre sur tous</l>
             <l n="856" xml:id="l856">Sera maistre absolu de nos biens, &amp; de nous?</l>
@@ -1180,6 +1247,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE IV</head>
           <sp who="liliane">
             <l n="870" xml:id="l870">Ah! ç’en est fait, ma Soeur, nous perdons Iolas.</l>
           </sp>
@@ -1278,6 +1346,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE V</head>
           <sp who="liliane">
             <l n="940" xml:id="l940">Iolante, ma Soeur, où va cette insensée?</l>
             <l n="941" xml:id="l941">Détournez, iustes Dieux, sa cruelle pensée,</l>
@@ -1365,6 +1434,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE VI</head>
           <sp who="carinte">
             <l n="1010" xml:id="l1010">Mais il faut sur son mal Aronte consulter,</l>
             <l n="1011" xml:id="l1011">Puis qu’il sort de sa chambre, &amp; vient de le quitter.</l>
@@ -1396,7 +1466,9 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE IV</head>
         <div type="scene">
+          <head>SCENE I</head>
           <sp who="carinte">
             <l n="1026" xml:id="l1026">Quoi, vous estes en doute encore sur ce point ?</l>
             <l n="1027" xml:id="l1027">Madame, il est guery, non, non, n’en doutez point,</l>
@@ -1499,6 +1571,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE II</head>
           <sp who="carinte">
             <l n="1091" xml:id="l1091">Disposez-vous, Madame, à reposer aussi;</l>
             <l n="1092" xml:id="l1092">La nuict tantost passée enfin vous y convie.</l>
@@ -1542,6 +1615,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE III</head>
           <sp who="liliane">
             <l n="1106" xml:id="l1106">Où peut aller Phalante, ainsi triste &amp; pensif?</l>
             <l n="1107" xml:id="l1107">D’où luy vient ce chagrin, &amp; ce deuil excessif,</l>
@@ -1687,6 +1761,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE IV</head>
           <sp who="iolante">
             <l n="1220" xml:id="l1220">Puis que dedans l’ardeur du corroux qui m’enflame,</l>
             <l n="1221" xml:id="l1221">J’ay si mal menagé le secret de mon ame,</l>
@@ -1713,6 +1788,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE V</head>
           <sp who="iolas">
             <l n="1242" xml:id="l1242">He bien, que dirais-tu des caprices du Sort?</l>
             <l n="1243" xml:id="l1243">Me voila par miracle affranchy de la mort:</l>
@@ -1888,7 +1964,9 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE V</head>
         <div type="scene">
+          <head>SCENE I</head>
           <sp who="iarbe">
             <l n="1376" xml:id="l1376">Ouy, si je trouve icy toutes choses prosperes,</l>
             <l n="1377" xml:id="l1377">Je vous restabliray dans le bien de vos Peres;</l>
@@ -2057,6 +2135,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE II</head>
           <sp who="almedor">
             <l n="1494" xml:id="l1494">Seigneur tout est perdu, vos gens épouvantez,</l>
             <l n="1495" xml:id="l1495">Sans attendre les coups fuyent de tous cottez,</l>
@@ -2089,6 +2168,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE III</head>
           <sp who="menandre">
             <l n="1514" xml:id="l1514">Mourons, pour obéir à la rigueur du Sort,</l>
             <l n="1515" xml:id="l1515">Mais finissons au moins par une belle mort:</l>
@@ -2208,6 +2288,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE IV</head>
           <sp who="iolas">
             <l n="1602" xml:id="l1602">Peut-on voir sur la terre un homme plus vaillant?</l>
             <l n="1603" xml:id="l1603">Admire avecque moy ce courage bouillant,</l>
@@ -2280,6 +2361,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE V</head>
           <sp who="iarbe">
             <l n="1642" xml:id="l1642">Il n’est pas vray-semblable; Anaxandre, dis-tu,</l>
             <l n="1643" xml:id="l1643">Arrivé dans le camp, a des-ja combatu?</l>
@@ -2379,6 +2461,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE VI</head>
           <sp who="phalante">
             <l n="1704" xml:id="l1704">Le Ciel m’a t’il bien faict de ce crime capable?</l>
           </sp>
@@ -2430,6 +2513,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE VII</head>
           <sp who="iolas">
             <l n="1740" xml:id="l1740">Quel miracle est-ce cy? quelle grande fortune</l>
             <l n="1741" xml:id="l1741">Banit de nos destins la rigueur importune?</l>
@@ -2529,6 +2613,7 @@
         </div>
       </div>
       <div>
+        <head>PRIVILEGE DU ROY.</head>
         <p>LOUIS PAR LA GRACE DE DIEU ROY DE FRANCE ET DE NAVARRE: A nos amez &amp; feaux Conseillers les gens tenans nos Cours de Parlement, Maistres des Requestes ordinaires de nostre Hostel, Baillis, Seneschaux, Prevosts, leurs Lieutenans, &amp; à tous autres nos Justiciers &amp; Officiers qu’il appartiendra, Salut. Nostre bien amé Augustin Courbé, Libraire à Paris, nous a fait remontrer qu’il a recouvré un manuscrit un liure intitulé, <hi rend="i">Les Rivaux Amis, Tragi-comedie, par le Sieur de Bois Robert</hi>, lequel liure il desiroit imprimer, s’il avoit sur ce nos lettres necesaires, lesquelles il nous a tres humblement supplié de luy accorder. A CES CAUSES  nous avons permis &amp; permettons à l’exposant, d’imprimer, ou faire imprimer, vendre &amp; debiter en tous les lieux de nostre obeïssance, en un ou plusieurs volumes ledit liure, en telle marge &amp; caractères, &amp; autant de fois qu’il voudra, durant l’espace de sept ans entiers &amp; accomplis, à compter du jour que ledit liure sera achevé d’imprimer pour la première fois: Et faisons tres expresses deffences à toutes personnes de quelque qualité &amp; condition qu’elles soient, de l’imprimer, faire imprimer, vendre ny distribuer en aucun lieu de ce Royaume, durant ledit temps &amp; espace, sous pretexte d’augmentation correction, changement de tiltre, ou autrement, en quelque sorte &amp; maniere que ce soit, à peine de quinze cens liures d’amende, payables sans déport par chacun des contrevenans, &amp; appliquables un tiers à nous, un tiers à l’Hostel Dieu de Paris, &amp; l’autre tiers à l’exposant, confiscation des exemplaires contrefaits, &amp; de tous dépens dommages &amp; interests. A condition qu’il sera mis deux Exemplaires en nostre Bibliotheque publique, &amp; un en celle de nostre tres cher &amp; feal, le sieur Seguier, Chevalier, Chancelier de France, avant que de les exposer en vente, à peine de nullité des presentes; du contenu desquelles nous vous mandons que fassiez jouyr plainement &amp; paisiblement l’exposant, &amp; ceux qui auront droit de luy, sans qu’il leur soit fait aucun trouble ou empeschement. Voulons qu’en mettant au commencement ou à la fin de chaque volume un bref extraict des presentes, elles soient tenuës pour signifiées, &amp; que foy y soit adjoustée, &amp; aux copies d’icelles, collationnées par un de nos amez &amp; feaux Conseillers &amp; Secretaires, comme à l’Original. Mandons aussi au premier nostre Huissier ou Sergent sur ce requis, de faire pour l’execution des presentes tous exploits necessaires, sans demander autre permission. Car tel est nostre plaisir. Nonobstant oppositions ou appellations quelconques, &amp; sans prejudices d’icelles; Clameur de Haro, Chartre Normande, &amp; autres Lettres à ce contraires. Donné à Paris le 28. jour de May, l’an de grace, mil six cens trente-huict: Et de nostre Regne le vingt-huitième.</p>
         <p>Par le Roy en son Conseil. <space>                    </space>Signé <space>                    </space>CONRART.</p>
         <p rend="center">Les Exemplaires ont esté fournis, ainsi qu’il est porté par le Privilege.</p>

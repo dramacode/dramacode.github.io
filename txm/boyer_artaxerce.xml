@@ -1,11 +1,65 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Artaxerce. Tragédie</title>
+        <author key="Boyer, Claude (1618-1698)">Boyer, Claude</author>
+        <principal>Georges Forestier</principal>
+        <editor>Cécile Suignard</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Cécile Suignard sous la direction de Georges Forestier (2002-2003)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/boyer_artaxerce/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boyer_artaxerce.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boyer_artaxerce.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boyer_artaxerce.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boyer_artaxerce.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1683"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div>
+        <head>ARTAXERCE <lb/>TRAGÉDIE. <lb/>AVEC SA CRITIQUE.</head>
         <div xml:id="preface" type="set">
+          <head>Préface</head>
           <p>/ [IV] / Il ne suffit pas toûjours aux Pieces de Théatre d’estre bonnes, pour estre <ref target="#heureux1">heureuses*</ref> ; beaucoup de choses, comme les Acteurs, la saison, le goût du siecle, la disposition des Spéctateurs, contribuënt à faire valoir, ou à faire tomber cette sorte d’Ouvrages ; ainsi chaque Autheur est en droit de justifier le sien, quand il se croit en état de le pouvoir faire. Jusqu’icy j’ay negligé ce secours, que je devois peut-estre à la justification de quelqu’un de mes Ouvrages, quand ils n’ont pas réüssy. Je n’estois pas assez convaincu de leur mérite, pour me plaindre publiquement de leur malheur. Mais à l’égard d’Artaxerce, le moyen de se taire ? Le jugement des Personnes fort éclairées, et dont le nom est respecté de l’<ref target="#envie1">envie*</ref> mesme, les applaudissemens que cette Piece reçeut dans les premieres Représentations, me répondoient d’un succés infaillible.Un chûte si prompte, et si surprenante, / [V] / peut-elle estre naturelle ? Et ne doit-on pas l’imputer à quelque cause extraordinaire ? Toutefois me laissant aller à ma coûtume, et à mon inclination, satisfait du témoignage de beaucoup d’<ref target="#honneste">honnestes*</ref> Gens, et de l’indignation du Public, qui n’a pû dissimuler une injustice si manifeste, je mettois Artaxerce au nombre des Ouvrages malheureux, et je fusse demeuré dans un profond silence, si ceux qui se croyent intéressez dans la réputation de mon Ouvrage pour l’honneur de leur jugement, ne m’eussent retiré de l’assoupissement où j’estois. Je ne dis pas cecy par cette fausse modestie, qu’affectent ordinairement les Autheurs qui veulent déguiser la demangeaison qu’ils ont de se faire imprimer. Pour justifier mes intentions, il suffit qu’on sçache que je n’ignore pas ce déchaînement de critique qui regne aujourd’huy, qui fait trembler tous ceux qui se meslent d’écrire, et qui sans-doute est un des plus grands malheurs qu’on puisse reprocher à notre siecle. Ce seroit une temérité inexcusable, de se livrer volontairement à cette <ref target="#fureur1">fureur*</ref> contagieuse qui a infecté la Cour et la Ville. Ne sçais-je pas ce qui est arrivé à un de mes Amis, qui ayant donné au public un Ouvrage plein / [VI] / d’esprit et d’invention, l’a veu déchirer impitoyablement dans toutes ses parties, jusques-là qu’on a pas épargné un des plus beaux Vers qu’on ait jamais fait à la loüange du Roy ?</p>
           <p rend="i">Le Modelle des Roys, et l’Image des Dieux,</p>
           <p>Quel Vers eut jamais eu un plus beau sens, et a donné une plus glorieuse idée du plus grand des Roys ? Quelle expression peut estre plus noble et plus <ref target="#heureux2">heureuse*</ref>, et peut faire tant d’honneur à nostre Héros et à nostre Langue ? J’ose défier les Poëtes Grecs et Latins, de nous fournir dans tout ce qu’ils ont fait de plus beau pour leurs plus fameux Héros, une loüange plus exquise et plus relevée, et qui ait à mesme temps tant de <ref target="#justesse1">justesse*</ref>, et tant de grandeur. Cependant on a voulu tourner en ridicule un Eloge si <ref target="#juste">juste*</ref> et si magnifique, et l’on a demandé si ce Modele estoit de bois, ou de pierre, et si cette Image estoit de plastre ou de cire. Une si méchante plaisanterie ne mérite pas une réponse sérieuse, et je diray seulement à l’Autheur de ce beau Vers, qui a esté si indignement critiqué, ce qu’il m’a dit luy-mesme en pareille occasion, mais avec moins de justice, et ce qu’on peut dire à tous les bons / [VII] / Autheurs qui ne sont pas toûjours <ref target="#heureux1">heureux*</ref>, que dans les plus beaux siecles, il y a eu toûjours des ces prétendus Connoisseurs qui ont fait la guerre au mérite, et qui entraînoient quelquefois le commun du Peuple avec eux.</p>
+          <quote xml:lang="la">
+            <l n="1">Ennius est lectus salvo tibi, Roma, Marone,</l>
+            <l n="2">Et sua riserunt saecula Maeoniden.</l>
+            <l n="3">Rara coronato plausere Theatra Menandro ;</l>
+          </quote>
           <p rend="center"><hi rend="i">Norat Nasonem sola Corinna suum</hi>.
             </p>
           <p>Cependant il est assez fâcheux de s’exposer à ces Censeurs impertinens, et d’atendre que la Postérité nous en fasse justice apres nostre mort; mais il faut bien obeïr à mes Amis, qui veulent que puis qu’Artaxerce n’a pas eu assez de temps pour se faire voir sur le Théatre, et qu’il a esté comme enlevé aux yeux du Public avec trop de précipitation, je le luy rende en le faisant imprimer, et donne ainsi le loisir à tout le monde de l’examiner, et d’asseoir sur la lecture un jugement solide, et assuré. On veut mesme qu’en le justifiant sur les défauts qu’on luy reproche, je luy donne dequoy <ref target="#soustenir1">soûtenir*</ref> le grand jour où il va paroistre.</p>
@@ -34,11 +88,15 @@
             <l n="13">Qui se gagne à boire apres eux</l>
           </lg>
         </div>
-        <div type="set"/>
+        <div type="set">
+          <head>ACTEURS.</head>
+        </div>
       </div>
       <div xml:id="acte1" type="act">
+        <head>ACTE PREMIER</head>
         <p rend="center"><title>Artaxerce</title>,<pb n="[1; A]"/><lb/>TRAGEDIE.</p>
         <div type="scene" xml:id="acte101">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="acte101-1" who="darius">
             <l n="1" xml:id="l1">La Perse enfin triomphe ; et des Grecs ennemis,</l>
             <l n="2" xml:id="l2">Ce qui restoit à vaincre, est <ref target="#defait">défait*</ref>, ou soûmis.</l>
@@ -194,6 +252,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte102">
+          <head>SCENE II.</head>
           <sp xml:id="acte102-1" who="darius">
             <l part="F">Que venez-vous m’aprendre ?</l>
             <l n="107" xml:id="l107">Ce grand choix que le Roy fait si longtemps attendre,</l>
@@ -280,6 +339,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte103">
+          <head>SCENE III.</head>
           <sp xml:id="acte103-1" who="darius">
             <l part="F">Que ne puis-je, Madame,</l>
             <l n="175" xml:id="l175">Expliquer à vos yeux les <ref target="#transport">transports*</ref> de mon ame !</l>
@@ -292,6 +352,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte104">
+          <head>SCENE IV.</head>
           <sp xml:id="acte104-1" who="nitocris">
             <l n="182" xml:id="l182">Quel succés attend-il, Seigneur, de vostre zele ?</l>
             <l n="183" xml:id="l183">A son Frere, à vous-mesme, estes-vous infidelle ?</l>
@@ -383,6 +444,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte105">
+          <head>SCENE V.</head>
           <sp xml:id="acte105-1" who="nitocris">
             <l n="258" xml:id="l258">Il faut abandonner le Prince Ariarathe,</l>
             <l n="259" xml:id="l259" part="I">Cleonne…</l>
@@ -473,7 +535,9 @@
       </div>
       <div xml:id="acte2" type="act">
         <pb n="14"/>
+        <head>ACTE II</head>
         <div type="scene" xml:id="acte201">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="acte201-1" who="barsine">
             <l n="318" xml:id="l318">Quel que soit le sujet de vostre inquiétude,</l>
             <l n="319" xml:id="l319">Vous ne pouvez sans honte, et sans ingratitude,</l>
@@ -594,6 +658,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte202">
+          <head>SCENE II.</head>
           <sp xml:id="acte202-1" who="nitocris">
             <l n="402" xml:id="l402">Vous me voyez, Madame, <ref target="#estonner">étonnée*</ref> et
               <ref target="#timide">timide*</ref>,</l>
@@ -696,6 +761,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte203">
+          <head>SCENE III.</head>
           <sp xml:id="acte203-1" who="aspasie">
             <l n="466" xml:id="l466">Darius me trahit ; Nitocris est aimée.</l>
           </sp>
@@ -725,6 +791,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte204">
+          <head>SCENE IV.</head>
           <sp xml:id="acte204-1" who="artaxerce">
             <l n="487" xml:id="l487">Me fuyez-vous ? A qui puis-je avec assurance</l>
             <l n="488" xml:id="l488">Confier mieux qu’à vous les troubles de mon coeur</l>
@@ -819,6 +886,7 @@
         </div>
         <div type="scene" xml:id="acte205">
           <pb n="C ; 24"/>
+          <head>SCENE V.</head>
           <sp xml:id="acte205-1" who="tiribaze">
             <l n="566" xml:id="l566">Tout le Peuple demande avec impatience</l>
             <l n="567" xml:id="l567">Un choix que vous tenez si longtemps en balance.</l>
@@ -885,7 +953,9 @@
       </div>
       <div xml:id="acte3" type="act">
         <pb n="26"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="acte301">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="acte301-1" who="tiribaze">
             <l n="610" xml:id="l610">C’en est fait, Darius emporte l’avantage.</l>
             <l n="611" xml:id="l611">C’est luy sur qui le Roy fait tomber son <ref target="#sufrage">sufrage*</ref>,</l>
@@ -940,6 +1010,7 @@
         </div>
         <div type="scene" xml:id="acte302">
           <pb n="28"/>
+          <head>SCENE II.</head>
           <sp xml:id="acte302-1" who="darius">
             <l n="650" xml:id="l650">Je me dérobe enfin à la foule empressée,</l>
             <l n="651" xml:id="l651">Que j’ay pour vous rejoindre à peine traversée.</l>
@@ -985,6 +1056,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte303">
+          <head>SCENE III.</head>
           <sp xml:id="acte303-1" who="tiribaze">
             <l n="682" xml:id="l682">Le Prince est satisfait, et vous allez apprendre</l>
             <l n="683" xml:id="l683">Quel est le fruit des soins que je viens de luy rendre.</l>
@@ -992,6 +1064,7 @@
         </div>
         <div type="scene" xml:id="acte304">
           <pb n="30"/>
+          <head>SCENE IV.</head>
           <sp xml:id="acte304-1" who="darius">
             <l n="684" xml:id="l684">Puis-je assez dignement répondre à vos bontez ?</l>
           </sp>
@@ -1131,6 +1204,7 @@
         </div>
         <div type="scene" xml:id="acte305">
           <pb n="34"/>
+          <head>SCENE V.</head>
           <sp xml:id="acte305-1" who="darius">
             <l n="779" xml:id="l779">Elle vient ? Ay-je tort ? Seigneur, voila mon crime.</l>
           </sp>
@@ -1178,6 +1252,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte306">
+          <head>SCENE VI.</head>
           <sp xml:id="acte306-1" who="darius">
             <l n="810" xml:id="l810">Qui de nous le premier doit rompre le silence ?</l>
             <l n="811" xml:id="l811">Si je parle, par où faut-il que je commence ?</l>
@@ -1327,7 +1402,9 @@
       </div>
       <div xml:id="acte4" type="act">
         <pb n="40"/>
+        <head>ACTE IV</head>
         <div type="scene" xml:id="acte401">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="acte401-1" who="artaxerce">
             <l n="906" xml:id="l906">Quoy, Mindate, Aspasie est encor en balance</l>
             <l n="907" xml:id="l907">Sur un choix que j’attens avec impatience.</l>
@@ -1369,6 +1446,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte402">
+          <head>SCENE II.</head>
           <sp xml:id="acte402-1" who="artaxerce">
             <l part="F">Artaxerce, tu vois</l>
             <l n="933" xml:id="l933">Quels bruits soüillent en toy la Majesté des Roys.</l>
@@ -1401,6 +1479,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte403">
+          <head>SCENE III.</head>
           <sp xml:id="acte403-1" who="mindate">
             <l n="960" xml:id="l960">Seigneur, le Prince est là, qui demande à vous voir.</l>
           </sp>
@@ -1421,6 +1500,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte404">
+          <head>SCENE IV.</head>
           <sp xml:id="acte404-1" who="darius">
             <l n="968" xml:id="l968">Vous voyez à vos pieds un <ref target="#amant">Amant*</ref> malheureux,</l>
             <l n="969" xml:id="l969">Qui se livre au pouvoir d’un Rival <ref target="#genereux">genéreux*</ref>.</l>
@@ -1510,6 +1590,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte405">
+          <head>SCENE V.</head>
           <sp xml:id="acte405-1" who="aspasie">
             <l n="1029" xml:id="l1029">Seigneur, j’entre sans ordre, excusez ma douleur.</l>
             <l n="1030" xml:id="l1030">Je ne puis plus <ref target="#souffrir2">soufrir*</ref> le suplice trop rude,</l>
@@ -1580,6 +1661,7 @@
         </div>
         <div type="scene" xml:id="acte406">
           <pb n="E ; 48"/>
+          <head>SCENE VI.</head>
           <sp xml:id="acte406-1" who="aspasie">
             <l n="1082" xml:id="l1082">Voila comme vos pleurs ont sçeu toucher son ame.</l>
           </sp>
@@ -1645,6 +1727,7 @@
         </div>
         <div type="scene" xml:id="acte407">
           <pb n="50"/>
+          <head>SCENE VII.</head>
           <sp xml:id="acte407-1" who="darius">
             <l n="1122" xml:id="l1122">Est-ce par ce discours, dont la rigueur me tuë,</l>
             <l n="1123" xml:id="l1123">Qu’on me rend la raison que j’ay presque perduë ?</l>
@@ -1657,6 +1740,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte408">
+          <head>SCENE VIII.</head>
           <sp xml:id="acte408-1" who="darius">
             <l n="1130" xml:id="l1130" part="I">Que cherchez-vous icy ?</l>
           </sp>
@@ -1729,6 +1813,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte409">
+          <head>SCENE IX.</head>
           <sp xml:id="acte409-1" who="tiribaze">
             <l n="1178" xml:id="l1178">Va pousser jusqu’au bout ton audace rebelle.</l>
           </sp>
@@ -1817,7 +1902,9 @@
       </div>
       <div xml:id="acte5" type="act">
         <pb n="55"/>
+        <head>ACTE V</head>
         <div type="scene" xml:id="acte501">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="acte501-1" who="cleonne">
             <l n="1238" xml:id="l1238">Quelle est cette allégresse au milieu des allarmes ?</l>
             <l n="1239" xml:id="l1239">Vous entendez par tout un bruit de voix et d’armes ;</l>
@@ -1836,6 +1923,7 @@
         </div>
         <div type="scene" xml:id="acte502">
           <pb n="56"/>
+          <head>SCENE II.</head>
           <sp xml:id="acte502-1" who="tiribaze">
             <l n="1249" xml:id="l1249">Le sort trompe l’espoir dont je m’estois flaté.</l>
           </sp>
@@ -1923,6 +2011,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte503">
+          <head>SCENE III.</head>
           <sp xml:id="acte503-1" who="artaxerce">
             <l part="F">Ah, Prince infortuné !</l>
             <l n="1310" xml:id="l1310">Mon Fils, ce Fils si cher, a perdu l’innocence.</l>
@@ -2039,6 +2128,7 @@
         </div>
         <div type="scene" xml:id="acte504">
           <pb n="62"/>
+          <head>SCENE IV.</head>
           <sp xml:id="acte504-1" who="artaxerce">
             <l n="1394" xml:id="l1394" part="I">Approchez.</l>
           </sp>
@@ -2112,6 +2202,7 @@
         </div>
         <div type="scene" xml:id="acte505">
           <pb n="64"/>
+          <head>SCENE V.</head>
           <sp xml:id="acte505-1" who="artaxerce">
             <l n="1444" xml:id="l1444">Qu’il meure ? Que ce mot est horrible à mon cœur !</l>
             <l n="1445" xml:id="l1445">Mais tout se taist, et rien ne parle en sa faveur.</l>
@@ -2135,6 +2226,7 @@
         </div>
         <div type="scene" xml:id="acte506">
           <pb n="65"/>
+          <head>SCENE VI.</head>
           <sp xml:id="acte506-1" who="aspasie">
             <l n="1462" xml:id="l1462">Vous le voyez, Seigneur, à mon devoir fidelle,</l>
             <l n="1463" xml:id="l1463">Et mesme à Darius peut-estre trop <ref target="#cruel2">cruelle*</ref>,</l>
@@ -2217,6 +2309,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte507">
+          <head>SCENE DERNIERE.</head>
           <sp xml:id="acte507-1" who="artaxerce">
             <l n="1526" xml:id="l1526">Qu’est-ce, Oronte ? parlez. Mais que vois-je paraître ?</l>
             <l n="1527" xml:id="l1527" part="I">Quel desordre ? quel sang ?</l>

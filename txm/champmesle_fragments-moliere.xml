@@ -1,12 +1,64 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les Fragmens de Molière. Comédie.</title>
+        <author key="Champmeslé (1642-1701)">Charles Chevillet, sieur de Champmeslé</author>
+        <principal>Georges Forestier</principal>
+        <editor>Marie-Astrid Lechat</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Marie-Astrid Lechat sous la direction de Georges
+          Forestier (2006)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/champmesle_fragments-moliere/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/champmesle_fragments-moliere.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/champmesle_fragments-moliere.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/champmesle_fragments-moliere.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/champmesle_fragments-moliere.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1682"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LES FRAGMENS DE MOLIERE. <lb/>COMEDIE.</head>
       <div xml:id="personnages" type="set">
         <pb n="III"/>
+        <head>PERSONNAGES.</head>
       </div>
       <div xml:id="I" type="act">
         <pb n="A ; 1"/>
+        <head>ACTE I.</head>
         <div type="scene" xml:id="I01">
+          <head>SCÈNE I.</head>
           <sp xml:id="I01-1" who="lignon">
             <p>O Amour, que tu agites mon esprit de diverses inquiétudes !</p>
           </sp>
@@ -214,6 +266,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCÈNE II.</head>
           <sp xml:id="I02-1" who="jourdain">
             <p>Belle Nymphe, vous voyez icy deux Fleuves tous deux amoureux de vous.</p>
           </sp>
@@ -292,6 +345,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCÈNE III.</head>
           <sp xml:id="I03-1" who="charlote">
             <p><ref target="#parguenne">Pargué*</ref> Pierrot, tu t’es donc trouvé là bien à
                 point ?</p>
@@ -504,6 +558,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCÈNE IV.</head>
           <sp xml:id="I04-1" who="gusman">
             <p>Par ma foy il semble que nous n’ayons jamais bû que du vin, et nous voila aussi
                 bien remis que si de rien n’avoit esté ; mais, Monsieur, dites-moy un peu, s’il vous
@@ -621,6 +676,7 @@
         </div>
         <div type="scene" xml:id="I05">
           <pb n="30"/>
+          <head>SCÈNE V.</head>
           <sp xml:id="I05-1" who="pierrot">
             <p>Tout doucement, Monsieur, tenez-vous, s’il vous plaist, vous vous échaufez trop, et
                 vous pourriais gagner la puresie.</p>
@@ -742,7 +798,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="36"/>
+        <head>ACTE SECOND.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE I.</head>
           <sp xml:id="II01-1" who="charlote">
             <p>Mon pere, pourquoy me tourmentez-vous ? Est-ce ma faute si j’aime mieux ce Monsieur
                 que ce gros vilain Pierrot que vous me voulez donner ?</p>
@@ -761,6 +819,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="38"/>
+          <head>SCENE II.</head>
           <sp xml:id="II02-1" who="juge">
             <p>Monsieur Gusman, je suis le vostre ; comment
                 vous va ?</p>
@@ -812,6 +871,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp xml:id="II03-1" who="gusman">
             <p>Chut, ne faites point semblant de rien, et vous tenez un peu<pb n="41"/> à
                 l’écart, le voicy ; vous allez entendre comme je luy vay parler.</p>
@@ -933,6 +993,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="47"/>
+          <head>SCENE IV.</head>
           <sp xml:id="II04-1" who="juan">
             <p>Et bien, Gusman, qu’as-tu fait ?</p>
           </sp>
@@ -1000,6 +1061,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <sp xml:id="II05-1" who="juan">
             <p>Ah, que vois-je ? M<hi rend="sup">r</hi> Dimanche icy ! quelle heureuse
                 rencontre !</p>
@@ -1160,6 +1222,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI.</head>
           <sp xml:id="II06-1" who="pierrot">
             <p>Pour moy je ne trouve rien de meilleur pour nos affaires que de crier haro sur<pb n="58"/> ce diable de Monsieur qui veut tuer
                 les Hommes, et prendre les Femmes. <ref target="#palsangué">Palsangué*</ref>, faites comme moy, je criërons
@@ -1167,6 +1230,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE VII.</head>
           <sp xml:id="II07-1" who="gusman">
             <p>Et qu’y a-t-il, Messieurs ? à quoy bon tout ce vacarme ? Vous inquietez-vous ? J’ai
                 tourné l’esprit de mon Maistre tout comme vous le souhaitez ; il ne s’oppose plus à

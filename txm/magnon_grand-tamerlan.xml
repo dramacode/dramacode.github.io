@@ -1,7 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Grand Tamerlan et Bajazet. Tragédie</title>
+        <author key="Magnon, Jean (1620-1662)">Jean Magnon</author>
+        <editor>Maud Vervueren</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Maud Vervueren dans le cadre d'un mémoire de
+          master 1 sous la direction de Georges Forestier (2003-2004)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="?">CELLF 16e-18e</licence>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/magnon_grand-tamerlan/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/magnon_grand-tamerlan.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/magnon_grand-tamerlan.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/magnon_grand-tamerlan.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/magnon_grand-tamerlan.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1648"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LE GRAND <lb/>TAMERLAN <lb/>ET <lb/>BAJAZET. <lb/>TRAGEDIE.</head>
       <div type="set" xml:id="epitre">
+        <head>Espitre. <lb/>A MONSEIGNEUR <lb/>MONSEIGNEUR LE TELLIER<lb/>SEIGNEUR DE CHAVILLE CONSEILLER DU ROY <lb/>en ses Conseils, Secretaire d’Estat, &amp; des Commandemens de sa Majesté.</head>
         <p>MONSEIGNEUR,</p>
         <p>Vous vous estonnerez de ce qu’un homme qui vous est inconnu, vous consacre l’un de ses ouvrages : mais cette surprise doit cesser, quand vous considererez que si son nom n’est venu jusques à vos oreilles, il a entendu discourir du vostre à la Renommée : &amp; qu’à ce regard, ce qu’elle publie de vostre merite, vous fait connoistre tout le monde, parce que tout le monde vous connoist. La France, MONSEIGNEUR, n’est pas assez /<pb n="I" xml:id="pI"/> / estenduë pour contenir vostre Nom : qui ne vous a point veu, a oüy parler de vous ; &amp; tous les Estrangers vous ont en une veneration si extraordinaire, que l’on vous soupçonneroit, par les loüanges qu’ils vous donnent, d’estre de leur <ref target="#intelligence">intelligence*</ref>, si l’Estat n’estoit parfaitement asseuré de vostre fidelité. La haute confiance qu’ont en vous Leurs Majestez, est fondée sur ce <ref target="#zele">zele*</ref> infatiguable que vous avez pour les interests du Royaume : Vous estes dans le Ministere, ce que l’une des premieres intelligences est dans le Ciel ; &amp; vous ne contribuez pas d’une legere assistance â ce grand Moteur de l’Estat, qui fait acheminer les affaires à la periode qu’il leur a prescrite : vous y donnez un grand <ref target="#bransle">bransle*</ref> : vous aydez continuellement à faire rouler un fardeau, qui a desja fait suer tant d’Archimedes, &amp; qui malgré leur insuffisance, ne <ref target="#laisser">laissera*</ref> pas dans les nouvelles Constitutions où vous l’establissez tous les jours, de trouver le centre qu’ils luy avoient inutilement recherché. Ce sera un coup, MONSEIGNEUR, qui estoit reservé pour vostre siecle : Tant de mains qui s’appliquent aujourd’huy à ce glorieux travail, ne doivent pas estre vainement employées : mais principalement la vostre y porte ses coups avec tant de force &amp; tant de justesse, que le premier Atlas de nostre Empire, qui semble plustost porter que faire rouler ce grand poids, remarque visiblement entre tous les secours qu’on luy donne, l’assistance que vous luy rendez. Ce seroit ici, MONSEIGNEUR, où je vous devrois entretenir de tant d’emplois importans que vous avez soustenus partout, &amp; surtout dans l’Italie : mais je diray seulement que c’est-là où Monseigneur le Cardinal /<pb n="II" xml:id="pII"/> / MAZARIN, qui a le don de connoistre les hommes extraordinaires, vous connut pour homme qui excedoit le commun, &amp; digne desja par advance, de la glorieuse <ref target="#charge1">charge*</ref> que vous exercez : &amp; où par un mutuel <ref target="#estonnement1">estonnement*</ref> vous découvristes en luy ces eminentes qualitez, qui l’acheminoient à grands pas au Ministere de nostre Etat. Vous ne vous trompastes point l’un &amp; l’autre : vous voila dans les places où vous vous attendiez tous deux : que si du rang où il est assis, il donne les ordres qu’il reçoit de Leurs Majestez ; du degré où vous estes élevé, vous faites entendre au peuple les volontez souveraines : &amp; l’importante fonction qui vous occupe, est si necessaire au Gouvernement, qu’elle attache à vostre conduite la plus belle partie du Royaume. Tous les gens de guerre sont sousmis à la parole que vous leur faites porter : &amp; ces sortes de personnes, que le bruit des coups de canon empéche assez souvent d’entendre les loix, respectent avec tant de joye ce que vous leur prescrivez de la part du Prince, qu’on les voit courir au devant des ordres, &amp; les entendre avec une soûmission où possible ils ne tomberoient point, si une autre main que la vostre avoit souscrit aux ordres du Conseil. Ce n’est point que je tombe en irreverence, ny que je vueille accuser les gens de guerre de des-obeyssance, dans un temps où ils <ref target="#prodiguer">prodiguent*</ref> leurs biens &amp; leurs vies pour le service de l’Estat : mais j’advance seulement, que tout ce qu’il y a de Chefs dans les armées, ne jure que par vostre Nom : &amp; dés que LE TELLIER est au bas d’un ordre, qu’on se porte par un double mouvement, qui est le devoir pour le Prince, &amp; l’estime pour vostre personne, à l’exe- /<pb n="III" xml:id="pIII"/> / cution des Commandemens Souverains. Enfin, je ne presume pas que vous soyez en doute de cette verité : la voix publique vous en a dit plus que la mienne. Ce qui me reste à vous dire, est, quoy qu’il vous importe peu de le sçavoir, qu’il n’est aucune occasion, quelque <ref target="#hazard">hazardeuse*</ref> qu’elle fust, que je ne recherchasse aux dépens de ma vie, pour me faciliter vostre bien-veillance ; et que dans la certitude mesme de ne pouvoir me l’acquerir, je ne <ref target="#laisser">laisserois*</ref> pas de sacrifier pour vous tout mon sang, si vous le souhaittiez, avec autant de joye, que si tous les interests du monde m’y invitoient. C’est la protestation que vous fait de tout son cœur,</p>
         <p>MONSEIGNEUR ,</p>
@@ -9,16 +59,20 @@
         <p>serviteur, <hi rend="sc">de Magnon</hi>.</p>
       </div>
       <div xml:id="privilege">
+        <head>Extraict du Privilege du Roy.</head>
         <p>Par Grace &amp; Privilege du Roy, donné à Paris le 20. jour de Novembre 1647. Signé, Par le Roy en son Conseil, <hi rend="sc">le Brun</hi>, il est permis à Toussainct Quinet, Marchand Libraire à Paris, d’imprimer une piece de Theatre, intitulée, <hi rend="i">Tamerlan &amp; Bajazet, Tragedie</hi> : &amp; ce durant l’espace de sept ans, entiers &amp; accomplis : &amp; defences sont faites à toutes personnes, de quelque qualité qu’elles soient, de l’imprimer ou faire imprimer, sur les peines portées par ledit Privilege.</p>
         <p rend="i">Ledit Quinet a associé avec luy, Antoine de Sommaville, aussi Marchand Libraire à Paris, suivant l’accord fait entr’eux.</p>
         <p rend="i">Achevé d’imprimer pour la premiere fois, le 28. Mars 1648.</p>
         <p>Les Exemplaires ont esté fournis.</p>
       </div>
       <div xml:id="acteurs">
+        <head>LES ACTEURS.</head>
         <p><hi rend="b">LE GRAND</hi><pb n="1 ; A"/><lb/>TAMERLAN <lb/>ET <lb/>BAJAZET. <lb/>TRAGEDIE.</p>
       </div>
       <div xml:id="acteI" type="act">
+        <head>ACTE I.</head>
         <div type="scene" xml:id="scene1-I">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="scene1-I-1" who="dorize">
             <l n="1" xml:id="l1">Au poinct que Bajazet &amp; Tamerlan armez,</l>
             <l n="2" xml:id="l2">Vont monstrer la fureur dont ils sont animez,</l>
@@ -110,6 +164,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene2-I">
+          <head>SCENE II.</head>
           <sp xml:id="scene2-I-1" who="themir">
             <l n="67" xml:id="l67">Madame, il faut combattre, &amp; desja nos armées</l>
             <l n="68" xml:id="l68">De mesme qu’au butin, à la gloire animées</l>
@@ -266,6 +321,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene3-I">
+          <head>SCENE III.</head>
           <pb n="11" xml:id="p11"/>
           <sp xml:id="scene3-I-1" who="indarthize">
             <l part="F">Hé bien agirons-nous ?</l>
@@ -412,6 +468,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene4-I">
+          <head>SCENE DERNIERE.</head>
           <pb n="17 ; C"/>
           <sp xml:id="scene4-I-1" who="tamerlan">
             <l n="221" xml:id="l221">Themir arrestés-vous, &amp; vous, Madame, aussi,</l>
@@ -549,7 +606,10 @@
       </div>
       <div xml:id="acteII" type="act">
         <pb n="23" xml:id="p23"/>
+        <head>ACTE II.
+        </head>
         <div type="scene" xml:id="scene1-II">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="scene1-II-1" who="bajazet">
             <l n="299" xml:id="l299">Où sommes-nous, Selim, tu me vois dans sa tente,</l>
             <l n="300" xml:id="l300">Tu vois un Empereur que l’on laisse en attente,</l>
@@ -681,6 +741,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene2-II">
+          <head>SCENE II.</head>
           <sp xml:id="scene2-II-1" who="bajazet">
             <l n="378" xml:id="l378" part="I">Aurons-nous audiance ?</l>
           </sp>
@@ -701,6 +762,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene3-II">
+          <head>SCENE III.</head>
           <pb n="29" xml:id="p29"/>
           <sp xml:id="scene3-II-1" who="tamerlan">
             <l n="385" xml:id="l385" part="I">Exposez vostre <ref target="#charge2">charge*</ref>.</l>
@@ -888,6 +950,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene4-II">
+          <head>SCENE IV.</head>
           <sp xml:id="scene4-II-1" who="tamerlan">
             <l n="491" xml:id="l491">Madame, Bajazet m’envoye une <ref target="#ambassade2">Ambassade*</ref>,</l>
             <l n="492" xml:id="l492">L’offre qu’il fait pour vous en vain me persuade ;</l>
@@ -929,6 +992,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene5-II">
+          <head>SCENE V.</head>
           <pb n="38" xml:id="p38"/>
           <sp xml:id="scene5-II-1" who="orcazie">
             <l n="511" xml:id="l511">Que notre estonnement le cede à nos caresses !</l>
@@ -1052,6 +1116,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene6-II">
+          <head>SCENE DERNIERE.</head>
           <pb n="43" xml:id="p43"/>
           <sp xml:id="scene6-II-1" who="zilim">
             <l part="M">Arrestez-vous.</l>
@@ -1133,7 +1198,9 @@
       </div>
       <div xml:id="acteIII" type="act">
         <pb n="46" xml:id="p46"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="scene1-III">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="scene1-III-1" who="tamerlan">
             <l n="623" xml:id="l623">S’il est leur prisonnier, c’est par son imprudence,</l>
             <l n="624" xml:id="l624">Avecque ses vainqueurs il fut d’<ref target="#intelligence">intelligence*</ref>.</l>
@@ -1215,6 +1282,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene2-III">
+          <head>SCENE II.</head>
           <sp xml:id="scene2-III-1" who="tamerlan">
             <l n="686" xml:id="l686">Et bien qui doit regner, ou le pere, ou l’<ref target="#amant">Amant*</ref> ?</l>
             <l n="687" xml:id="l687">J’entend par tout des voix, à qui doy-je respondre ?</l>
@@ -1230,6 +1298,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene3-III">
+          <head>SCENE III.</head>
           <sp xml:id="scene3-III-1" who="indarthize">
             <l n="697" xml:id="l697">Seigneur, je vien finir un combat si honteux,</l>
             <l n="698" xml:id="l698">Que ne resolvés vous, ce choix est-il douteux ?</l>
@@ -1301,6 +1370,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene4-III">
+          <head>SCENE IV.</head>
           <sp xml:id="scene4-III-1" who="tamerlan">
             <l n="738" xml:id="l738">Madame, en vostre camp mon fils est prisonnier ;</l>
             <l n="739" xml:id="l739">S’il est quelque douceur à trouver un semblable,</l>
@@ -1419,6 +1489,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene5-III">
+          <head>SCENE V.</head>
           <pb n="58" xml:id="p58"/>
           <sp xml:id="scene5-III-1" who="tamerlan">
             <l n="813" xml:id="l813">Et quoy ! que tentez-vous dessous ce vestement ?</l>
@@ -1506,6 +1577,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene6-III">
+          <head>SCENE VI.</head>
           <sp xml:id="scene6-III-1" who="tamerlan">
             <l n="863" xml:id="l863">Hé bien tousjours cruelle, &amp; tousjours insensible,</l>
             <l n="864" xml:id="l864">Contre ma <ref target="#passion">passion*</ref> serez-vous invincible ?</l>
@@ -1523,6 +1595,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene7-III">
+          <head>SCENE DERNIERE.</head>
           <sp xml:id="scene7-III-1" who="tamerlan">
             <l part="F">Ah ! qu’est-ce que je voy ?</l>
           </sp>
@@ -1663,7 +1736,9 @@
       </div>
       <div xml:id="acteIV" type="act">
         <pb n="68" xml:id="p68"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="scene1-IV">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="scene1-IV-1" who="indarthize">
             <l n="931" xml:id="l931">Sans cette trahison, je vous aurois sauvée.</l>
           </sp>
@@ -1738,6 +1813,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene2-IV">
+          <head>SCENE II.</head>
           <sp xml:id="scene2-IV-1" who="orcazie">
             <l n="971" xml:id="l971"> Et bien ton <ref target="#ambassade1">ambassade*</ref> eut-elle bonne issuë ?</l>
           </sp>
@@ -1866,6 +1942,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene3-IV">
+          <head>SCENE III.</head>
           <sp xml:id="scene3-IV-1" who="themir">
             <l n="1070" xml:id="l1070">Plus pour servir qu’à nuire ils se sont animez :</l>
             <l n="1071" xml:id="l1071">Perdez cette frayeur, cognoissez ce visage.</l>
@@ -1905,6 +1982,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene4-IV">
+          <head>SCENE IV.</head>
           <pb n="78" xml:id="p78"/>
           <sp xml:id="scene4-IV-1" who="le-soldat">
             <l part="F">Prince l’on suit vos traces,</l>
@@ -1932,6 +2010,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene5-IV">
+          <head>SCENE V.</head>
           <sp xml:id="scene5-IV-1" who="tamerlan">
             <l part="F">Qui que tu sois, arreste :</l>
             <l n="1097" xml:id="l1097" part="I">Mansor, qu’on le desarme.</l>
@@ -1962,6 +2041,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene6-IV">
+          <head>SCENE VI.</head>
           <sp xml:id="scene6-IV-1" who="tamerlan">
             <l n="1108" xml:id="l1108">Toy fils dénaturé, si digne de ma haine.</l>
             <l n="1109" xml:id="l1109">Crois-tu que je suis pere à qui ne m’est pas fils,</l>
@@ -2007,6 +2087,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene7-IV">
+          <head>SCENE VII.</head>
           <sp xml:id="scene7-IV-1" who="selim">
             <l part="F">Je t’accepte pour Maistre,</l>
             <l n="1144" xml:id="l1144">Et je me viens soustraire à l’Empire d’un traistre ;</l>
@@ -2024,6 +2105,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene8-IV">
+          <head>SCENE DERNIERE.</head>
           <sp xml:id="scene8-IV-1" who="tamerlan">
             <l n="1151" xml:id="l1151">Hé bien, grand criminel, que le Ciel me rameine,</l>
             <l n="1152" xml:id="l1152">En vain tu te flattois d’échapper à ta peine ;</l>
@@ -2220,7 +2302,9 @@
       </div>
       <div xml:id="acteV" type="act">
         <pb n="91" xml:id="p91"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="scene1-V">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="scene1-V-1" who="bajazet">
             <l n="1249" xml:id="l1249">Me donnez-vous relasche, &amp; puis-je soûpirer ?</l>
             <l n="1250" xml:id="l1250">Le pouvant, mes douleurs ! que ne quis-je expirer !</l>
@@ -2298,6 +2382,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene2-V">
+          <head>SCENE II.</head>
           <sp xml:id="scene2-V-1" who="bajazet">
             <l n="1317" xml:id="l1317">Je te vois enchaisné, le salaire t’est deu.</l>
           </sp>
@@ -2416,6 +2501,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene3-V">
+          <head>SCENE III.</head>
           <sp xml:id="scene3-V-1" who="zilim">
             <l n="1404" xml:id="l1404">C’est ainsi, Bajazet, que l’on te recompense,</l>
             <l n="1405" xml:id="l1405">Tu vois dedans mon Prince un vainqueur <ref target="#genereux">genereux*</ref>,</l>
@@ -2491,6 +2577,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene4-V">
+          <head>SCENE IV.</head>
           <pb n="102" xml:id="p102"/>
           <sp xml:id="scene4-V-1" who="bajazet">
             <l n="1438" xml:id="l1438">Hé bien, cruelle mort ! il me reste un soucy,</l>
@@ -2511,6 +2598,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene5-V">
+          <head>SCENE V.</head>
           <pb n="103" xml:id="p103"/>
           <sp xml:id="scene5-V-1" who="bajazet">
             <l n="1453" xml:id="l1453" part="I">Hé bien ! quel est ton sort ?</l>
@@ -2642,6 +2730,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene6-V">
+          <head>SCENE DERNIERE.</head>
           <pb n="108" xml:id="p108"/>
           <sp xml:id="scene6-V-1" who="tamerlan">
             <l n="1539" xml:id="l1539">Tu n’es pas encor mort, tardes-tu davantage ?</l>

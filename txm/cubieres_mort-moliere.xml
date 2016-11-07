@@ -1,7 +1,54 @@
 <?xml-stylesheet type="text/xsl" href="../teipub/xsl/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Mort de Molière. Pièce en trois actes, en vers [Pièce historique, en quatre actes en vers, et à spectacle]</title>
+        <author key="Cubières-Palmézeaux, Michel de (1752-1820)">Michel de Cubières</author>
+        <principal>Georges Forestier</principal>
+        <editor>Emmanuelle Taton</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Double édition critique établie par Emmanuelle Taton dans le cadre d'un mémoire de
+      master 1 sous la direction de Georges Forestier (2013-2014)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/cubieres_mort-moliere/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1788"/>
+        <date when="1802"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="show" type="genre">Pièce historique, en quatre actes en vers, et à spectacle</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LA MORT <lb/>DE <lb/><hi rend="i">MOLIERE</hi>,<lb/>PIÈCE <lb/>EN TROIS ACTES, EN VERS, <lb/>[PIECE HISTORIQUE, <lb/>EN QUATRE ACTES EN VERS, <lb/>ET A SPECTACLE ;]</head>
       <div xml:id="preface">
+        <head>PRÉFACE.</head>
         <p>LE MOLIERE d’Italie, M. Charles Goldoni est Auteur d’une Comédie sur Moliere même, et cettepièce qui porte le nom de son héros, a été représentée à Turin en 1751. M. Mercier l’a traduite ou plutôt imitée, l’a fait imprimer sous le même titre en 1776, et les Comédiens Français ont joué sur leur Théâtre, en 1787, une imitation en quatre Actes de cette imitation en cinq, sous le titre de <hi rend="i">la Maison de Moliere</hi>. J'appelle cette dernière une imitation, parce qu’ils ont transposé et abrégé plusieurs scènes du <hi rend="i">Moliere</hi> de M. Mercier. J'étais à la première représentation de cette <hi rend="i">Maison de Moliere</hi>, dont les trois premiers Actes réussirent parfaitement, et dont le quatrième n’aurait pas eu moins de succès, si les Comédiens n’avaient pas intercalé une représentation du Tartuffe entre le troisième et le dernier Acte de la pièce nouvelle. C'est par un noble <ref target="#zele">zèle*</ref> pour la gloire du créateur de la scène comique, qu’ils ont risqué cette innovation, et mon dessein n’est pas de les en blâmer. Cependant une représentation de neuf Actes parut trop longue aux spectateurs, et la <hi rend="i">Maison</hi><pb n="I" xml:id="pI-1788" ed="1788"/> de <hi rend="i">Moliere</hi>, jouée depuis avec une pièce d’une moindre étendue, s’est soutenue sur le Théâtre. Je l’ai vue plus d’une fois, et toujours avec plaisir, et cette pièce m’a donné l’idée de celle que j’ose présenter au Public. Dès que Moliere m’eut apparu lui-même sur une scène où, jusqu’à ce moment, j’avois admiré ses chefs-d’œuvre, dès que j’eus entendu parler celui qui a si bien fait parler les divers personnages éclos de son imagination féconde, je pris les pinceaux, à mon tour, et sans dire, comme Le Corrège, <hi rend="i">et moi aussi, je suis Peintre</hi>, j’essayai néanmoins d’ajouter quelques traits à une image que j’adore.</p>
         <p>Il fallait, pour y réussir, trouver dans la vie de Moliere une époque qui fût favorable à mon dessein. M. Goldoni avait déjà pris la plus intéressante, celle où l’Auteur du Tartuffe, pressé entre deux Puissances également redoutables ; l’autorité de son Roi et la haine des hypocrites triompha de la seconde, en lui opposant la première, et il ne me restait plus qu’à glaner dans un champ où la moisson était déjà faite ; que dis-je ? Il me restoit à relire la <hi rend="i">vie de Moliere</hi> par Grimarest et les mémoires du temps ; je me remets donc à lire les mémoires du temps, et Grimarest qui, méprisé par quelques Auteurs, a pourtant été la source où ont puisé ces Auteurs mêmes, qui, ami et contemporain de Baron, paraît avoir écrit sous sa dictée, et après avoir relu, je n’ai pas de peine à me convaincre que l’événement qui causa la mort de Moliere est celui de sa vie qui lui fait le plus d’honneur.<pb n="II" xml:id="pbII-1788" ed="1788"/></p>
         <p>Tout le monde connaît cet événement, et il est inutile que je le raconte. Mais que ne puis-je graver dans tous les cœurs les belles paroles que répondit Moliere à sa femme et à Baron, lorsqu’ils le conjurèrent, les larmes aux yeux, de ne point jouer dans son <hi rend="i">Malade imaginaire</hi>, et de prendre du repos pour se remettre de ses fatigues ! Les voici telles que Grimarest les rapporte. « Comment voulez-vous que je fasse » leur dit-il ? «  Il y a cinquante pauvres ouvriers qui n’ont que leurs journées pour vivre, que feront-ils, si l’on ne joue pas ? Je me reprocherais d’avoir négligé de leur donner du pain un seul jour, le pouvant faire absolument ».</p>
@@ -15,6 +62,9 @@
         <p>Mais c’est trop entretenir mes Lecteurs d’une bagatelle qui ne mérite, ni les honneurs ni les frais d’une dissertation. Parlons plutôt de <hi rend="i">la Maison de Moliere</hi>, qui m’a, comme je l’ai dit, donné l’idée de ma Comédie, et qui, à tous égards, lui est si supérieure. Quelques dames de l’extrêmement bonne compagnie m’ont assuré que cette Pièce les avait ennuyées à périr ; que c’était un Ouvrage qui n’avait pas le sens commun, et qu’elles donneraient leurs loges à leurs femmes chaque fois qu’on la jouerait. Quelques Messieurs d’un très bon ton ont été de l’avis de ces dames ; et moi, j’ai toujours été et je serai toujours de l’avis du public qui, dans les trois pre-miers Actes, a vivement partagé les alarmes que cause à un grand homme la défense inattendue de mettre au Théâtre son chef-d’œuvre ; de ce public qui s’est plu à voir ce grand homme dans l’intérieur de son domestique, et, pour ainsi dire en déshabillé ; qui a tressailli, qui a pleuré de joie avec ce grand homme, lorsque la Thorilliere vient lui annoncer que Louis XIV a levé les obstacles qui suspendaient la représentation de l’<hi rend="i">Imposteur</hi>. Et quel spectacle est plus touchant et plus noble, en effet, que de voir le génie aux prises avec ce qu’il y a de plus redoutable sur la terre ; un despote qui veut <hi rend="i">être obéi et l’envie</hi> qui le persécute ? Croit-on que l’intrigue<pb n="VII" xml:id="pVII-1788" ed="1788"/> de nos jolies petites Comédies, telles que <hi rend="i">la Feinte par amour, la Surprise de l’amour, Amour pour Amour</hi>, et tant d’autres, soient d’une plus grande importance ? Croit-on que la <hi rend="i">Coquette corrigée</hi>, la <hi rend="i">Coquette fixée</hi> et toutes les Coquettes du monde doivent plus exciter l’admiration et remuer plus fortement le cœur que le tableau vrai et naturel d’un caractère vertueux, et que le sort d’un sublime drame, fait pour éclairer et corriger les humains, n’intéresse pas davantage que le mariage d’un fat avec une petite maîtresse, le récit d’une anecdote de ruelle ou le dénouement d’un imbroglio tissu par des valets ?</p>
         <p>Je vais plus loin : une vieille tradition nous a appris que Boileau, interrogé par Louis XIV, qui voulait savoir quel était le plus grand homme de son siècle, répondit sans hésiter : <hi rend="i">Moliere</hi>. Et moi, j’ai osé me dire souvent que Moliere était encore le personnage le plus théâtral qu’on ait jamais transporté sur la scène française, et je ne doute point qu’on ne réussisse chaque fois qu’on l’y peindra avec vérité. Les vertus de Moliere sont connues depuis long-temps. Il étoit bon père, époux sensible, ami généreux, citoyen bienfaisant : sa vie a été pure comme le serait celle d’une de ces créatures privilégiées qui descendrait du Ciel et viendrait commencer et achever sur la terre les courtes et déplorables révolutions de la vie humaine. C'est beaucoup pour plaire <ref target="#sans-doute">sans doute*</ref> ; mais <hi rend="i">peut être ce n’est pas tout</hi>. Il résulte de tout ce qu’on a écrit sur ce grand homme et de<pb n="VIII" xml:id="pVIII-1788" ed="1788"/> ce qu’il a écrit lui-même, que ses passions étaient extrêmes. On sait que celle de l’amour a fait le tourment de sa vie, et n’est-ce pas celle de la gloire, qui, poussée au dernier dégré, a soutenu son courage au milieu de toutes les contrariétés que ses ennemis lui ont fait éprouver ? Grimarest et la tradition nous apprennent que sa franchise tenait de la brusquerie, qu’il était né avec un tempéramment bilieux, quoique mélancolique, que son humeur allait souvent jusqu’à la colère ; et ce n’est pas sans raison qu’on a cru que le Misanthrope était Moliere lui-même, et qu’il s’était peint dans le sublime rôle d’Alceste.</p>
         <p>Qu'on lise ses chefs-d’œuvre avec attention, et l’on verra que cette humeur qui le dominait, il l’a donnée à presque tous ses personnages. Ce Misantrope que je viens de citer est en colère depuis le premier vers de son rôle jusqu’au dernier ; il rudoie, il gronde, il brusque tout le monde.</p>
+        <quote>
+          <p>« Laissez-moi là, vous dis-je, et courez vous cacher ».</p>
+        </quote>
         <p>Quelle véhémence et quelle âpreté dans ce début ! Celui du Tartuffe est dans le même genre. La vieille Madame Pernelle ne semble se ranimer que pour se plaindre de toute sa famille, que pour la gourmander, si je puis me servir de ce terme, <hi rend="i">et donner à chacun son paquet</hi>, comme l’a si bien dit Moliere lui-même dans une autre pièce : son <ref target="#courroux">courroux*</ref> va même jusqu’à lâcher des jurements, tels que <hi rend="i"><ref target="#jour-dieu">jour de</ref></hi><pb n="IX" xml:id="pIX-1788" ed="1788"/><hi rend="i"><ref target="#jour-dieu">Dieu*</ref></hi> ! <hi rend="i"><ref target="#morbleu">morbleu*</ref> ;</hi> termes toujours déplacés dans la bouche d’une femme, mais placés avec grace dans cette première scène. Le vieux Gorgibus ne parle pas avec plus de douceur dans <hi rend="i">les Précieuses ridicules</hi>. Le Chrysale des Femmes Savantes se laisse aller au même emportement, et la passion d’Arnolphe, autrement M. de la Souche, est si vive, qu’Orosmane, que le brûlant Orosmane ne me paraît pas plus amoureux de Zaïre que cet Arnolphe ne l’est de la naïve Agnès. On pourrait dire de La Fontaine qu’il avait dans ses Fables sa propre simplicité, et de Moliere qu’il eut l’impétuosité des principaux personnages de ses Comédies. On sait même qu’il poussait cette impétuosité jusqu’à la minutie. Si par hasard on lui dérangeait les moindres choses dans son cabinet, s’il ne les trouvait pas toutes dans l’ordre où il les avoit laissées, si on changeait un livre de place, on dit qu’aussitôt il entrait en fureur, qu’elle durait des semaines entières, et que même il cessait de travailler. Je ne doute point que la plupart de ces personnages, toujours hors d’eux-mêmes, n’aient fait le succès de ses belles Comédies ; et peut-être ne serait-il pas difficile d’en donner la raison. Outre qu’un personnage qui a de l’humeur, est presque toujours passionné, et qu’une passion quelconque exhale un feu qui vivifie, qui anime et qui subjugue les plus froids spectateurs ; j’ai souvent observé qu’on était porté à rire des gens qui se mettaient en colère, et si l’on veut en avoir un exemple, qu’on se rappelle la fameuse scène<pb n="X" xml:id="pX-1788" ed="1788"/> de MM. Piron, Collé et Gallet chez le Commissaire Lafosse. Après avoir été conduits chez lui par le guet, qui les avait trouvés se disputant dans la rue, le Clerc du Commissaire les interroge d’abord avec gravité ; ils répondent de même ; mais ils disent des choses si plaisantes, que la gravité du Juge se change en fureur, et alors le rire des trois accusés devient inextinguible, que dis-je ? Il gagne toute l’assemblée, et finit par élargir scandaleusement la bouche des alguasils qui les ont arrêtés. Ce ne sont pas toujours de bons mots ou des reparties vives et heureuses qui excitent la gaieté. Les Comédies étincelantes de <ref target="#trait">traits*</ref> d’esprit et de saillies ingénieuses, telles que <hi rend="i">le Méchant</hi> et quelques autres font sourire, mais elles n’épanouissent point la rate ; mais elles ne font point circuler la joie universellement. La véritable gaieté ou plutôt le <hi rend="i">vis comica</hi> résulte du choc de deux passions opposées qui se combattent et qui toutes deux ont tort. Je m’explique : lorsque deux hommes sensés ou qui au moins devraient l’être, se fâchent et s’injurient, ils descendent pour ainsi dire, de la hauteur de leur raison. L'homme alors redevient enfant, et charmés intérieurement de voir qu’il se dégrade et qu’il perd ses plus beaux avantages, les spectateurs s’en moquent, et la malice humaine les porte à manifester la pitié dérisoire qu’il inspire, et le plaisir secret qu’il fait naître. Il n’y a que la déraison bien prouvée qui excite le rire, et les passions poussées à l’extrême font-elles autre chose<pb n="XI" xml:id="pXI-1788" ed="1788"/> que déraisonner ? Moliere enfin était un homme passionné. Il a prouvé par ses Comédies que ces caractères réussissoient toujours au Théâtre ; et doit-on être surpris qu’il y ait beaucoup réussi lui-même, lorsque MM. Goldoni et Mercier nous ont offert le véritable original de toutes ces différentes copies ?</p>
         <p>Cet original aurait produit de bien plus grands effets, si ces MM. avaient choisi une époque plus avancée dans sa vie, s’ils l’eussent pris, par exemple ; un an ou deux après son mariage, s’ils eussent peint cet amour véhément et toujours contrarié que sa femme lui inspira, les querelles qu’il excita, les brouilleries et les raccommodements dont il fut cause. Quelle pièce admirable ne ferait-on pas en effet de Moliere, jaloux de sa femme, de Moliere amoureux ? Une femme de théâtre peut se conserver pure au milieu de la corruption ; mais elle est exposée à toutes les attaques, et qu’elle y succombe ou non, quel effroi ne doit point causer à un mari la foule des adorateurs qui l’environnent, et quel parti ne tirerait-on pas du plus passionné, du plus emporté de tous, de Moliere toujours placé entre sa jalousie naturelle et une épouse coquette ? Cette jalousie a d’abord frappé mon esprit comme le trait le plus apparent du caractère de Moliere, et j’ai voulu en faire usage ; mais j’ai senti en y réfléchissant, qu’une pareille tâche serait au-dessus de mes forces, et je laisse à d’autres le soin de la remplir.</p>
         <p>Quoique le domaine de Thalie ne soit point épuisé<pb n="XII" xml:id="pXII-1788" ed="1788"/> pour l’homme de génie, malgré toutes les moissons qu’on y a faites, quoique des palmes nouvelles y croissent sans cesse, et y reverdissent pour lui sur des palmes déjà cueillies, on ne peut se dissimuler néanmoins que les principaux caractères ont déjà été traités, et qu’il ne reste plus guères à manier que des caractères secondaires. Pourquoi donc ne suivrait-on pas une carrière déjà ouverte avec succès par quelques Littérateurs célèbres ? Pourquoi, au défaut des caractères, ne mettrait-on pas sur la scène française les grands hommes de tous les Etats, qui, depuis environ douze siècles, ont illustré la Nation ? Nos Rois vertueux, par exemple, nos vaillants Généraux, nos Ministres habiles et nos Auteurs immortels ? Henri IV nous a déjà charmés par sa noble loyauté, sa simplicité auguste et sa touchante sensibilité. Nos larmes coulent chaque fois que nous le voyons chez le paysan Michaut, essuyer furtivement les siennes, aux éloges qu’on fait du meilleur des Princes. M. Pilhes, dans le <hi rend="i">Bienfait anonyme</hi>, nous a fait adorer la bienfaisance de Montesquieu, et nous avons ri lorsqu’une main habile a levé à nos yeux le rideau qui couvrait l’intérieur de la maison de Moliere. Ne nous reste-t-il pas encore une foule de Citoyens et de Souverains fameux, dont la grande ombre ne demande qu’à être évoquée, et que nous pouvons faire mouvoir et agir sur notre Théâtre ? Charles V, Louis XII et Louis XIV y seraient-ils déplacés ?<pb n="XIII" xml:id="pXIII-1788" ed="1788"/></p>
@@ -22,9 +72,13 @@
         <p>Mais dira-t-on peut-être, il faudrait, en mettant  ces grands Ecrivains sur la scène, donner à chacun  le style de leurs Ouvrages : il faudrait leur prêter le langage qu’ils ont parlé dans leurs écrits, et il n’est pas facile d’imiter le faire des Rousseau, des Fénélon, des Pelisson, des La Fontaine, et toujours, comme dit si ingénieusement celui-ci, toujours on serait  trahi par quelque bout d’oreille. L'objection est spécieuse, et l’on doit peu s’en embarrasser. Les Gens de Lettres les plus renommés ont parlé aussi simplement que les autres hommes, et ce n’est pas le style de leurs écrits qu’il faudrait imiter, mais celui de leur conversation. Le roitelet n’est pas obligé d’avoir le vol de l’aigle ; mais le roitelet a sa manière de voler, et il ne doit pas vouloir plus qu’il ne peut faire. S'il fait au contraire tout ce qu’il peut, on lui saura gré de ses efforts. Il y a grande apparence que les Dieux avaient un langage infiniment plus sublime que les mortels, et lorsqu’Homere se rend l’interprête de Jupiter, de Junon, de Vénus, etc. Il ne les fait point  parler en vers plus harmonieux, plus corrects ou plus relevés qu’Agamemnon, Ajax, Hector et  Achille ; que dis-je ? Si on introduisait Racine dans une Comédie, et qu’on lui prêtât les images pompeuses et les <hi rend="i"><ref target="#tour">tours*</ref></hi> ambitieux du récit de Théramène, on ferait sifler un versificateur qui ne doit<pb n="XV" xml:id="pXV-1788" ed="1788"/>jamais l’être, et rien ne pourrait faire excuser un si ridicule contre-sens. Que celui donc qui mettra nos grands Auteurs sur le Théâtre, se contente de les peindre comme ils étaient : voilà l’important, et qu’il n’emprunte point une palette étrangère. Il arrivera de-là que la scène françoise, rivale du paisible Elisée, nous offrira ce qu’il y eut de plus grand et de plus vertueux sur la terre, et nous y verrons bientôt errer ces morts immortels dont les traits ne nous sont transmis que dans des gravures insipides ou des bustes inanimés. On sera peut-être surpris que j’aye ajouté au titre de ma Pièce la date de sa réception à la Comédie Française. J'ai eu plus d’une raison pour agir ainsi : la Comédie Française ne pouvait point refuser une Pièce en l’honneur de Moliere, une espèce d’apothéose de ce grand homme, sans manquer au respect dont tous ses membres sont pénétrés pour lui. Aussi n’en est-il pas un qui ne l’ait reçue avec des marques du plus vif intérêt ; pas un qui ne m’ait donné des conseils pour la rendre meilleure, et pour ne point leur faire de vains compliments, j’ai mis en tête qu’ils l’avaient reçue. Pouvais-je mieux leur témoigner ma reconnaissance.</p>
         <p>Ayant sçu d’ailleurs que quelques Littérateurs estimables devaient traiter le même sujet que moi, et ne pouvant avoir sur eux que le mérite de l’antériorité, j’ai fait imprimer mon Ouvrage pour prendre date, et pour m’assurer les seuls droits qu’on ne saurait me disputer.<pb n="XVI" xml:id="pXVI-1788" ed="1788"/></p>
       </div>
-      <div/>
+      <div>
+        <head>PERSONNAGES.</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCÈNE PREMIÈRE.</head>
           <sp xml:id="I01-1" who="moliere">
             <l n="1" xml:id="l1-1788">JE ne sais que penser de mon ami Chapelle.</l>
             <l n="2" xml:id="l2-1788">Veut-il me rendre fou ? Dans l’excès de son <ref target="#zele">zèle*</ref>,</l>
@@ -48,6 +102,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCÈNE II.</head>
           <sp xml:id="I02-1" who="moliere">
             <l n="20" xml:id="l20-1788" part="I">CHAPELLE n’a-t-il rien envoyé ?</l>
           </sp>
@@ -59,6 +114,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCÈNE III.</head>
           <sp xml:id="I03-1" who="moliere">
             <l part="F">IL me faut, en attendant qu’il vienne</l>
             <l n="22" xml:id="l22-1788">Me rapporter ma pièce, examiner la sienne.<pb n="4" xml:id="p4-1788" ed="1788"/></l>
@@ -93,6 +149,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="moliere">
             <l n="51" xml:id="l51-1788">EH bien ! m’apportez-vous mon manuscrit enfin ?</l>
           </sp>
@@ -214,6 +271,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCÈNE V.</head>
           <sp xml:id="I05-1" who="laforet">
             <l part="M">QU'EST-CE ?</l>
           </sp>
@@ -341,6 +399,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCÈNE VI.</head>
           <sp xml:id="I06-1" who="moliere">
             <l n="179" xml:id="l179-1788">EH bien, vous l’avez vu. C'est la simple nature</l>
             <l n="180" xml:id="l180-1788">Qui vient de vous juger. Après cette lecture</l>
@@ -402,6 +461,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCÈNE VII.</head>
           <sp xml:id="I07-1" who="un-garcon-de-theatre">
             <l n="227" xml:id="l227-1788">POUR répéter, Monsieur, votre nouvelle pièce,</l>
             <l n="228" xml:id="l228-1788" part="I">On n’attend plus que vous.</l>
@@ -421,6 +481,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I08">
+          <head>SCENE VIII.</head>
           <sp xml:id="I08-1" who="chapelle">
             <l n="234" xml:id="l234-1788">IL vient de me donner une sage leçon,</l>
             <l n="235" xml:id="l235-1788">Je veux en profiter : oui, j’en croirai Moliere,</l>
@@ -430,6 +491,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I09">
+          <head>SCENE IX.</head>
           <sp xml:id="I09-1" who="la-moliere">
             <l n="239" xml:id="l239-1788">DU bon vin ! du bon vin ! voilà comme vous êtes !</l>
             <l n="240" xml:id="l240-1788">Boire et passer vos nuits dans les jeux, dans les fêtes ;</l>
@@ -505,6 +567,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I10">
+          <head>SCÈNE X.</head>
           <sp xml:id="I10-1" who="la-moliere">
             <l n="291" xml:id="l291-1788">CHAPELLE a t-il raison ? Je veux être maîtresse,</l>
             <l n="292" xml:id="l292-1788">Commander en ces lieux ; mais Moliere sans cesse</l>
@@ -515,6 +578,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I11">
+          <head>SCÈNE XI.</head>
           <sp xml:id="I11-1" who="la-moliere">
             <l part="F">D'où vient cette pâleur étrange</l>
             <l n="297" xml:id="l297-1788">Qu'on voit sur votre front ? Moliere est-il plus mal ?</l>
@@ -644,7 +708,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCÈNE PREMIÈRE.</head>
           <sp xml:id="II01-1" who="moliere">
             <l n="373" xml:id="l373-1788">NON, ma femme, jamais je n’y consentirai</l>
             <l n="374" xml:id="l374-1788">Ma fille m’est soumise, et je la marierai</l>
@@ -826,6 +892,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCÈNE II.</head>
           <sp xml:id="II02-1" who="moliere">
             <l n="481" xml:id="l481-1788">QU'EST-CE, mon cher Baron ? vous paraissez rêveur.</l>
           </sp>
@@ -944,6 +1011,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCÈNE III.</head>
           <sp xml:id="II03-1" who="moliere">
             <l n="534" xml:id="l534-1788">QUE de délicatesse et de discrétion</l>
             <l n="535" xml:id="l535-1788">Il vient de nous montrer ! et combien l’un et l’autre</l>
@@ -979,6 +1047,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV.</head>
           <sp xml:id="II04-1" who="un-semainier">
             <l n="555" xml:id="l555-1788">ON m’envoie en ces lieux pour savoir si Moliere<pb n="35" xml:id="p35-1788" ed="1788"/></l>
             <l n="556" xml:id="l556-1788" part="I">Dans sa pièce jouera.</l>
@@ -990,6 +1059,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCÈNE V.</head>
           <sp xml:id="II05-1" who="isabelle">
             <l part="F">QUOI ! mon père, en effet</l>
             <l n="559" xml:id="l559-1788">Vous jouerez aujourd’hui, lorsqu’avec tant de peine</l>
@@ -1108,6 +1178,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCÈNE VI.</head>
           <sp xml:id="II06-1" who="lesbin">
             <l n="635" xml:id="l635-1788">DE Mignard à l’instant on m’apporte une lettre</l>
             <l n="636" xml:id="l636-1788">………………………………………………………….</l>
@@ -1133,6 +1204,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCÈNE VII.</head>
           <sp xml:id="II07-1" who="baron">
             <l n="647" xml:id="l647-1788">JE quitte Laforêt, et ma surprise est telle,</l>
             <l n="648" xml:id="l648-1788">Qu'à peine j’en reviens. Rien n’égale son <ref target="#zele">zèle*</ref>.</l>
@@ -1181,6 +1253,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II08">
+          <head>SCÈNE VIII.</head>
           <sp xml:id="II08-1" who="isabelle">
             <p>« O Ciel ! quelle infortune ! quelle atteinte cruelle ! hélas ! faut-il que je perde mon père, la seule chose qui me restait au monde, et qu’encore, pour un surcroît de désespoir, je le perde dans un moment où il était irrité contre moi ! Que deviendrai je, malheureuse ! Et quelle consolation trouver après une si grande perte » ?</p>
           </sp>
@@ -1227,6 +1300,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II09">
+          <head>SCÈNE IX.</head>
           <sp xml:id="II09-1" who="le-docteur">
             <l n="688" xml:id="l688-1788">JE suis, vous le savez, un ami de Moliere,</l>
             <l n="689" xml:id="l689-1788">Et, quoique Médecin, j’ai souvent le bonheur</l>
@@ -1266,6 +1340,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II10">
+          <head>SCÈNE X.</head>
           <sp xml:id="II10-1" who="moliere">
             <l n="711" xml:id="l711-1788">MONDORGE part content, et je le suis moi-même.</l>
             <l n="712" xml:id="l712-1788">J'ai rempli mon devoir envers l’ami que j’aime.</l>
@@ -1314,6 +1389,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II11">
+          <head>SCÈNE XI.</head>
           <sp xml:id="II11-1" who="chapelle">
             <l n="739" xml:id="l739-1788" part="I">NON, non ; vous resterez.</l>
           </sp>
@@ -1355,6 +1431,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II12">
+          <head>SCENE XII.</head>
           <sp xml:id="II12-1" who="chapelle">
             <l n="763" xml:id="l763-1788">IL compte vainement se soustraire à mon <ref target="#zele">zèle*</ref>.</l>
             <l n="764" xml:id="l764-1788">Suivons ses pas, volons où l’amitié m’appelle.<pb n="49" xml:id="p49-1788" ed="1788"/></l>
@@ -1362,13 +1439,16 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCÈNE PREMIÈRE.</head>
           <sp xml:id="III01-1" who="chapelle">
             <l n="765" xml:id="l765-1788">LAFORET ! Laforêt ! où donc est cette fille ?</l>
             <l n="766" xml:id="l766-1788">Quel désespoir pour elle et toute la famille !</l>
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp xml:id="III02-1" who="laforet">
             <l n="767" xml:id="l767-1788" part="I">VOUS avez appellé, je crois.</l>
           </sp>
@@ -1417,6 +1497,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCÈNE III.</head>
           <sp xml:id="III03-1" who="moliere">
             <l n="791" xml:id="l791-1788">O combien de vos soins je suis reconnaissant !</l>
             <l n="792" xml:id="l792-1788">Ma fille, la douleur, sous son bras tout puissant,</l>
@@ -1453,6 +1534,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCÈNE IV.</head>
           <sp xml:id="III04-1" who="le-docteur">
             <l n="813" xml:id="l813-1788">MA visite n’a pas le bonheur de vous plaire ;</l>
             <l n="814" xml:id="l814-1788">Je le soupçonne au moins. A mon art salutaire</l>
@@ -1579,6 +1661,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCÈNE V.</head>
           <sp xml:id="III05-1" who="baron">
             <l n="881" xml:id="l881-1788">MOLIERE jusqu’au bout garde son caractère.</l>
             <l n="882" xml:id="l882-1788">Il hait les Médecins, et quand leur ministère</l>
@@ -1588,6 +1671,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCÈNE VI.</head>
           <sp xml:id="III06-1" who="domestique">
             <l n="886" xml:id="l886-1788">MONSIEUR de Montausier, inquiet sur Moliere,</l>
             <l n="887" xml:id="l887-1788" part="I">Vient ici pour le voir.</l>
@@ -1600,6 +1684,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCÈNE VII.</head>
           <sp xml:id="III07-1" who="montausier">
             <l n="891" xml:id="l891-1788">DE Moliere toujours j’estimai les talents,</l>
             <l n="892" xml:id="l892-1788">Et la plus juste crainte a passé dans mes sens,</l>
@@ -1643,6 +1728,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III08">
+          <head>SCENE VIII.</head>
           <sp xml:id="III08-1" who="pirlon">
             <l n="911" xml:id="l911-1788" part="I">COMMENT se porte-t-il ?</l>
           </sp>
@@ -1819,6 +1905,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III09">
+          <head>SCÈNE IX.</head>
           <sp xml:id="III09-1" who="baron">
             <l n="1026" xml:id="l1026-1788">CIEL ! Isabelle en pleurs ! à quoi dois-je m’attendre !</l>
           </sp>
@@ -1847,6 +1934,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III10">
+          <head>SCÈNE X.</head>
           <sp xml:id="III10-1" who="lesbin">
             <l n="1038" xml:id="l1038-1788">MIGNARD envoie ici le portrait de Moliere.</l>
           </sp>
@@ -1869,6 +1957,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III11">
+          <head>SCÈNE XI.</head>
           <sp xml:id="III11-1" who="isabelle">
             <l part="F">O respectable image !</l>
             <l n="1047" xml:id="l1047-1788">Toi, qui m’offres les traits du père le plus cher,</l>
@@ -1888,6 +1977,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III12">
+          <head>SCÈNE XII.</head>
           <sp xml:id="III12-1" who="la-moliere">
             <l n="1061" xml:id="l1061-1788">PLEURE, pleure, ma fille, à ta douleur sincère</l>
             <l n="1062" xml:id="l1062-1788">Je viens mêler la mienne. Il est trop vrai ; ton père…<pb n="68" xml:id="p68-1788" ed="1788"/></l>
@@ -1897,6 +1987,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III13">
+          <head>SCÈNE XIII.</head>
           <sp xml:id="III13-1" who="chapelle">
             <l n="1064" xml:id="l1064-1788">QUE vois-je ?... ô triste effet de la rigueur du sort !</l>
             <l n="1065" xml:id="l1065-1788">La mère est dans les pleurs : la fille évanouie...</l>
@@ -1905,6 +1996,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III14">
+          <head>SCÈNE XIV et dernière.</head>
           <sp xml:id="III14-1" who="chapelle">
             <l n="1068" xml:id="l1068-1788">VOUS, amis de Moliere, et dont, en ce moment,</l>
             <l n="1069" xml:id="l1069-1788">Je partage la peine, enlevez cette image ;</l>
@@ -1921,6 +2013,7 @@
       </div>
       <div xml:id="avis-editeurs">
         <pb n="II-1802" xml:id="pII-1802" ed="1802"/>
+        <head>AVIS DES EDITEURS. [1802]</head>
         <p>CETTE Pièce fut reçue à la Comédie Française le 31 Janvier 1788. L’auteur dit, dans la préface de la première édition, que pour prendre date il la faisait imprimer ; elle parut imprimée en effet dans le courant de la même année. Tous les journalistes d’alors en rendirent compte et en firent plus ou moins l’éloge, plus ou moins la critique. Les auteurs du journal de Paris, qui ont toujours été de bons juges en matière de littérature, en parlèrent de la sorte dans la feuille du 9 Août 1788.</p>
         <p>« Le succès qu’a obtenu <hi rend="i">la Maison de Molière</hi>, représentée l’année dernière sur le théâtre Français a fait naître, <ref target="#sans-doute">sans doute*</ref>, l’idée de la pièce que nous annonçons. Une courte analyse mettra le public à portée de juger si Molière mourant doit être mis à côté de la Maison de Molière.</p>
         <p>La scène se passe dans la maison de ce grand homme, au moment où sa comédie du <hi rend="i">Malade imaginaire</hi>, sa dernière pièce, jouit du succès le plus brillant ; il en a prêté le manuscrit à son ami Chapelle qui ne l’a point vu représenter et qui lui-même a laissé à Molière une comédie de sa composition intitulée : l<hi rend="i">’Insouciant</hi>. Molière ouvre la scène en se promenant à grands pas, impatienté de ce que Chapelle ne lui rapporte pas le manuscrit dont il a le plus grand besoin. En attendant qu’il arrive, il s’assied auprès d’une table, lit tout bas les premières scènes de l’<hi rend="i">Insouciant</hi>, et voici le jugement qu’il en porte :</p>
@@ -1988,12 +2081,14 @@
         <p rend="right"><hi rend="i">Paris, 9 Ventôse an X</hi>.</p>
       </div>
       <div>
+        <head>AU REDACTEUR DU COURRIER DES SPECTACLES. [1802]</head>
         <p>Vous dites dans votre feuille du 30 Pluviôse dernier que la veille c’est-à-dire le 29 Pluviôse, on a représenté sur le théâtre des jeunes<pb n="VII-1802" xml:id="pVII-1802" ed="1802"/>Elèves, rue de Thionville, une pièce en l’honneur de Molière, intitulée : <hi rend="i">Il n’est plus</hi> ! et qu’elle a obtenu un <hi rend="i">succès brillant et mérité.</hi> Vous semblez le lendemain affaiblir cet éloge et même le rétracter en disant que toutes les pièces où l’on fait parler des hommes célèbres sont ordinairement assez froides, et qu’il est difficile qu’elles inspirent beaucoup d’intérêt. Permettez-moi de n’être point de votre avis par respect pour votre avis même. Comment pourroit-il se faire en effet que la pièce en trois actes en vers, intitulée : <hi rend="i">Il n’est plus</hi>, ou <hi rend="i">la Mort de Molière</hi>, fût froide et sans intérêt, puisque de votre aveu elle a obtenu à la première représentation un succès <hi rend="i">brillant et mérité</hi>.</p>
         <p>Je conviens avec vous qu’il y a des personnages célèbres qui sont froids au théâtre, tel a paru le bon la Fontaine, lorsqu’on a voulu le représenter au théâtre du Vaudeville ; la Fontaine, vous le savez, étoit un bon-homme assez indifférent sur toutes les choses de la vie, mais Molière étoit un passionné pour la vertu, pour la gloire, pour l’humanité, pour ses amis, pour sa femme, etc. Et des hommes semblables sont-ils jamais froids au théâtre ? Malheserbes, dans le Voyageur inconnu, l’Abbé de l’Epée, dans la pièce de ce nom, et sur-tout Henri IV, dans la Partie de Chasse, n’ont-ils inspiré aucun intérêt ? Ne les voit-on pas tous les jours avec le plus vif plaisir, et ne partage-t-on pas toutes leurs affections et toutes leurs peines ?</p>
         <p>Le citoyen Cubières-Palmézeaux a eu un avantage sur les auteurs des pièces que je viens de citer ; Molière étoit misantrope et un peu brusque, et cette nuance de caractère ne produit-elle pas le plus grand effet dans <hi rend="i">le Bourru bienfaisant</hi>, dans l’<hi rend="i">Amant bourru</hi>, et sur-tout dans <hi rend="i">le Misantrope</hi> ? Reste à savoir, me direz-vous, si le citoyen Cubières a bien tiré parti de son sujet ; c’est vous-même qui avez décidé la question, citoyen Rédacteur, en disant que <hi rend="i">la Mort de Molière</hi> avoit eu un succès brillant et mérité. De quelle manière, en effet, Molière est-il peint dans cette pièce ? comme père, comme époux, comme ami, comme poëte, comme directeur de troupe, etc. Aucune nuance de son caractère n’y est oubliée, et toutes m’y paroissent fondues avec un art admirable et une chaleur d’expression qui ne pouvoit appartenir qu’à Molière lui-même. La plaisanterie n’y est point omise malgré l’intérêt pressent qui y règne. La scène du 3è acte, où Molière, prêt à mourir, ne s’inquiète point de sa propre santé, mais de celle du docteur Mauvilain son ami, et lui demande le premier comment il se porte ; toute cette scène est d’un excellent comique et m’a paru tracée de main de maître.</p>
         <p rend="right">Salut et estime. <hi rend="i">QUINEY</hi>.<pb n="VIII-1802" xml:id="pVIII-1802" ed="1802"/></p>
       </div>
       <div>
+        <head>Lettre au citoyen Mercier, membre de l’Institut national. [1802]</head>
         <p>Vous avez traduit ou plutôt imité la pièce de Charles Goldoni, intitulée : <hi rend="i">Il Molière</hi>, qui fut représentée pour la première fois à Turin en 1751. Votre imitation fut représentée par les comédiens français en 1784, et le fut avec beaucoup de succès sous le titre de <hi rend="i">la Maison de Molière</hi> ; elle en aurait beaucoup davantage si les comédiens, sans vous consulter, n’avaient point transposé (4), corrigé, et abrégé plusieurs scènes de votre comédie, s’ils n’avaient pas cru, selon leur noble usage, avoir plus de génie que l’auteur. Quoiqu’il en soit, dès que Molière m’eut apparu lui-même sur une scène où, jusqu’à ce moment, j’avais admiré ses chef-d’œuvres, dès que j’eus entendu parler celui qui fait si bien parler les divers personnages éclos de son imagination féconde, je pris les pinceaux, à mon tour, et sans dire comme le Corrège « <hi rend="i">Et moi aussi, je suis peintre</hi> » j’essayai néanmoins d’ajouter quelques traits à une image que j’adore.</p>
         <p>Il fallait, pour y réussir, trouver dans la vie de Molière une époque qui fut favorable à mon dessein. Monsieur Goldoni avait déjà pris la plus intéressante : celle où l’auteur du <hi rend="i">Tartuffe</hi>, pressé entre deux puissances également redoutables, l’autorité de son roi et la haine des hyppocrites, triompha de la seconde en lui opposant la première ; et il ne me restait plus qu’à glaner dans un champ où la moisson était déjà faite. Que dis-je ? il me restait à lire <hi rend="i">la Vie de Molière</hi> par Grimarest et les mémoires du temps ; je me remets à lire les mémoires du temps, et Grimarest qui, méprisé par quelques auteurs, a pourtant été la source où ont puisé ces auteurs mêmes, qui, ami et contemporain de Baron paraît avoir écrit sous sa dictée, et après avoir relu, je n’ai pas de peine à me convaincre que l’évènement qui causa la mort de Molière est celui de sa vie qui lui fait le plus d’honneur.</p>
         <p>Vous connaissez cet évènement, et il est inutile que je le raconte. Mais, que ne puis-je graver dans tous les cœurs les belles paroles que répondit Molière à sa femme et à Baron, lorsqu’ils le</p>
@@ -2008,6 +2103,9 @@
         <p>Mais c’est trop entretenir mes lecteurs d’une bagatelle qui ne mérite ni les honneurs ni les frais d’une dissertation. Parlons de<pb n="XI-1802" xml:id="pXI-1802" ed="1802"/> la <hi rend="i">Maison de Molière</hi>, qui m’a, comme je l’ai dit, donné l’idée de ma comédie, et qui, à tous égards, lui est si supérieure. Quelques dames de l’extrêmement bonne compagnie m’ont assuré que cette pièce les avait ennuyées à périr ; que c’était un ouvrage qui n’avait pas le sens commun, et qu’elles donneraient leurs loges à leurs femmes chaque fois qu’on la jouerait. Quelques messieurs d’un très-bon ton ont été de l’avis de ces dames ; et moi, j’ai toujours été et je serai toujours de l’avis du public qui, dans les trois premiers actes, a vivement partagé les allarmes que cause à un grand homme la défense de mettre au théâtre son chef-d’œuvre ; de ce public qui s’est plu à voir ce grand homme dans son domestique, et pour ainsi dire en déshabillé ; qui a tressailli, qui a pleuré de joie avec ce grand homme lorsque Latorilière vient lui annoncer que Louis XIV a levé les obstacles qui suspendaient la représentation de l’<hi rend="i">Imposteur</hi>. Quel spectacle est plus touchant et plus noble, en effet, que de voir le génie aux prises avec ce qu’il y a de plus redoutable sur la terre ; un despote qui veut <hi rend="i">être obéi</hi> et l’<hi rend="i">envie</hi> qui le persécute ? Croit-on que l’intrigue de nos jolies petites comédies, telles que <hi rend="i">la Feinte par amour, Amour pour amour, la Surprise de l’amour</hi>, et tant d’autres soient d’une plus grande importance ? Croit-on que la <hi rend="i">Coquette corrigée</hi>, la <hi rend="i">Coquette fixée</hi> et toutes les coquettes du monde doivent plus exciter l’admiration et remuer plus fortement le cœur que le tableau vrai et naturel d’un caractère vertueux ? que le sort d’un sublime drame, fait pour éclairer et corriger les humains, n’intéresse pas davantage que le mariage d’un fat avec une petite maîtresse, le récit d’une anecdote de ruelle ou le dénouement d’un imbroglio tissu par des valets ?</p>
         <p>Je vais plus loin : une vieille tradition nous a appris que Boileau interrogé par Louis XIV, qui voulait savoir quel était le plus grand homme de son siècle, répondit sans hésiter : Molière. Et moi, j’ai osé me dire souvent que Molière était encore le personnage le plus théâtral qu’on ait jamais transporté sur la scène française ; et je ne doute point qu’on ne réussisse chaque fois qu’on l’y peindra avec vérité. Les vertus de Molière sont connues depuis long-temps. Il était bon père, époux sensible, ami généreux, citoyen bienfaisant : sa vie a été pure comme le serait celle d’une de ces créatures privilégiées qui descendrait du ciel pour commencer et achever sur la terre les courtes et déplorables révolutions de la vie humaine. C'est beaucoup pour plaire, <ref target="#sans-doute">sans doute*</ref>, mais <hi rend="i">peut être ce n’est pas tout</hi>. Il résulte de tout ce qu’on a écrit sur ce grand homme et de ce qu’il a écrit lui-même, que ses passions étaient extrêmes. On sait que celle de l’amour a fait le tourment de sa vie ; et n’est-ce pas celle de la gloire qui, poussée au dernier dégré, a soutenu son courage au milieu de toutes les contrariétés que ses ennemis lui ont fait éprouver ? Grimarest et la tradition nous apprennent que sa franchise tenait de la brusquerie, qu’il était né avec un tempéramment bilieux, quoique mélancolique, que son humeur allait souvent jusqu’à la colère ; ce n’est pas sans raison qu’on a cru que le <hi rend="i">Mi</hi>-/[<pb n="XII-1802" xml:id="pXII-1802" ed="1802"/>/-<hi rend="i">santrope</hi> était Molière lui-même, et qu’il s’était peint dans le sublime rôle d’Alceste.</p>
         <p>Qu'on lise ses chef-d’œuvres avec attention, et l’on verra que cette humeur qui le dominait, il l’a donnée à presque tous ses personnages. Ce <hi rend="i">Misantrope</hi> que je viens de citer est en colère depuis le premier vers de son rôle jusqu’au dernier ; il rudoie, il gronde, il brusque tout le monde.</p>
+        <quote>
+          <p>« Laissez-moi là, vous dis-je, et courez vous cacher ».</p>
+        </quote>
         <p>Quelle véhémence et quelle âpreté dans ce début ! Celui du <hi rend="i">Tartuffe</hi> est dans le même genre. La vieille Madame Pernelle ne semble se ranimer que pour se plaindre de toute sa famille, que pour la gourmander, si je puis me servir de ce terme, <hi rend="i">et donner à chacun son paquet</hi> ; comme l’a si bien dit Molière lui-même dans une autre pièce : Son <ref target="#courroux">courroux*</ref> va même jusqu’à lâcher des juremens, tels que <hi rend="i"><ref target="#jour-dieu">jour de  dieu*</ref> ! <ref target="#morbleu">morbleu*</ref></hi> ! termes toujours déplacés dans la bouche d’une femme, mais placés avec grace dans cette première scène. Le vieux Gorgibus ne parle pas avec plus de douceur dans les <hi rend="i">Précieuses ridicules</hi>. Le Chrysale des <hi rend="i">Femmes Savantes</hi> se laisse aller au même emportement, et la passion d’Arnolphe, autrement M. de la Souche, est si vive, qu’Orosmane, que le brûlant Orosmane ne me paraît pas plus amoureux de Zaïre que cet Arnolphe ne l’est de la naïve Agnès. On pourrait dire de La Fontaine qu’il avait dans ses Fables sa propre simplicité, et de Molière qu’il eut l’impétuosité des principaux personnages de ses comédies. On sait même qu’il poussait cette impétuosité jusqu’à la minutie. Si par hazard on lui dérangeait les moindres choses dans son cabinet, s’il ne les trouvait pas toutes dans l’ordre où il les avait laissées, si on changeait un livre de place, on dit qu’aussitôt il entrait en fureur, qu’elle durait des semaines entières, et que même il cessait de travailler. Je ne doute point que la plupart de ces personnages, toujours hors d’eux-mêmes, n’aient fait le succès de ses belles comédies ; et peut-être ne serait-il pas difficile d’en donner la raison : Outre qu’un personnage qui a de l’humeur est presque toujours passionné, et qu’une passion quelconque exhale un feu qui vivifie, qui anime et qui subjugue les plus froids spectateurs. J'ai souvent observé qu’on était porté à rire des gens qui se mettaient en colère ; et si l’on veut en avoir un exemple, qu’on se rappelle la fameuse scène de MM. Piron, Collé et Gallet chez le commissaire Lafosse. Après avoir été conduits chez lui par le Guet, qui les avait trouvés se disputant dans la rue ; le Clerc du Commissaire les interroge d’abord avec gravité ; ils répondent de même ; mais ils disent des choses si plaisantes, que la gravité du juge se change en fureur, et alors le rire des trois accusés devient inextinguible ; que dis-je ? il gagne toute l’assemblée, et finit par élargir scandaleusement la bouche des alguasils qui les ont arrêtés. Ce ne sont pas toujours de bons-mots, ou des reparties vives et heureuses qui excitent la gaîté : les comédies étincelantes de <ref target="#trait">traits*</ref> d’esprit et de saillies ingénieuses, telles que <hi rend="i">le Méchant</hi> et quelques<pb n="XIII-1802" xml:id="pXIII-1802" ed="1802"/> autres font sourire, mais elles n’épanouissent point la rate ; mais elles ne font point circuler la joie universellement. La véritable gaîté, ou plutôt le <hi rend="i">vis comica</hi>, résulte de deux passions opposées qui se combattent, et qui toutes deux ont tort. Je m’explique : lorsque deux hommes sensés, ou qui au moins devraient l’être, se fâchent et s’injurient, ils descendent, pour ainsi dire, de la hauteur de leur raison. L'homme alors redevient enfant, et charmés intérieurement de voir qu’il se dégrade et qu’il perd ses plus beaux avantages ; les spectateurs s’en mocquent, et la malice humaine les porte à manifester la pitié dérisoire qu’il inspire, et le plaisir secret qu’il fait naître. Il n’y a que la déraison bien prouvée qui excite le rire, et les passions poussées à l’extrême font-elles autre chose que déraisonner ? Molière enfin était un homme passionné. Il a prouvé par ses comédies que ces caractères réussissent toujours au théâtre ; doit-on être surpris qu’il y ait beaucoup réussi lui-même, lorsque M. Goldoni et vous, vous nous avez offert le véritable original de toutes ces différentes copies ?</p>
         <p>Cet original aurait produit, peut-être, de bien plus grands effets, si vous aviez choisi une époque plus avancée dans sa vie ; si vous l’eussiez pris, par exemple; un an ou deux après son mariage, si vous eussiez peint cet amour véhément et toujours contrarié que sa femme lui inspira, les querelles qu’il excita, les brouilleries et les raccommodemens dont il fut cause. Quelle pièce admirable ne ferait-on pas en effet de Molière jaloux de sa femme, de Molière amoureux ? Une femme de théâtre peut se conserver pure au milieu de la corruption ; mais elle est exposée à toutes les attaques, et qu’elle y succombe ou non, quel effroi ne doit point causer à un mari la foule des adorateurs qui l’environnent ? et quel parti ne tirerait-on pas du plus passionné, du plus emporté de tous, de Molière toujours placé entre sa jalousie naturelle et une épouse coquette ? Cette jalousie a d’abord frappé mon esprit comme le trait le plus apparent du caractère de Molière, et j’ai voulu en faire usage ; mais j’ai senti en y réfléchissant, qu’une pareille tâche serait au-dessus de mes forces, et je laisse à d’autres le soin de la remplir.</p>
         <p>Quoique le domaine de Thalie ne soit point épuisé pour l’homme de génie, malgré toutes les moissons qu’on y a faites, quoique des palmes nouvelles y croissent sans cesse, et y reverdissent pour lui sur des palmes déjà cueillies, on ne peut se dissimuler néanmoins que les principaux caractères ont déjà été traités, et qu’il ne reste plus guères à manier que des caractères secondaires. Pourquoi donc ne suivrait-on pas une carrière déjà ouverte avec succès par quelques littérateurs célèbres ? Pourquoi, au défaut des caractères, ne mettrait-on pas sur la scène Française les grands hommes de tous les états, qui, depuis environ douze siècles, ont illustré la nation ? Nos rois vertueux, par exemple, nos vaillants Généraux, nos ministres habiles et nos auteurs immortels ? Henri IV nous a déjà charmés par sa noble loyauté, sa simplicité<pb n="XIV-1802" xml:id="pXIV-1802" ed="1802"/> auguste et sa touchante sensibilité. Nos larmes coulent chaque fois que nous le voyons chez le paysan Michaud, essuyer furtivement les siennes, aux éloges qu’on fait du meilleur des princes. Vous nous avez fait adorer la bienfaisance de <hi rend="i">Montesquieu à Marseille</hi>, qu’un certain M. Pilhes vous a si maladroitement pillé dans son <hi rend="i">Bienfait anonyme</hi>, et nous avons ri lorsque vous avez levé le rideau qui couvrait l’intérieur de la maison de Molière. Ne nous reste-t-il pas encore une foule de citoyens et de souverains fameux dont les ombres ne demandent qu’à être évoquées, et que nous pouvons faire mouvoir et agir sur notre théâtre ? Charles V, Louis XII et Louis XIV y seraient-ils déplacés ?</p>
@@ -2018,8 +2116,11 @@
           <pb n="17-1802" xml:id="p17-1802" ed="1802"/>
         </p>
       </div>
-      <div/>
       <div>
+        <head>PERSONNAGES. ACTEURS. [1802]</head>
+      </div>
+      <div>
+        <head>[Avis édition 1802]</head>
         <p rend="i">Je déclare avoir cédé au citoyen Hugelet la pièce ayant pour titre : LA MORT DE MOLIÈRE, Pièce historique en quatre actes et en vers, de ma composition ; laquelle pièce il peut imprimer, vendre et faire cendre en tel nombre d’exemplaires qu’il lui plaira ; me réservant les droits d’Auteur par chaque représentation que l’on pourra donner sur les différens Théâtres de la République.</p>
         <p rend="i"><space> </space>Paris, ce 30 Pluviôse an 10 de la République française.</p>
         <p rend="right">
@@ -2030,7 +2131,9 @@
         <p>LA MORT <lb/><hi rend="i">DE MOLIÈRE. [1802]</hi></p>
       </div>
       <div xml:id="IV" type="act">
+        <head>ACTE PREMIER. [1802]</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE. [1802]</head>
           <sp xml:id="IV01-1" who="moliere-1802">
             <l n="1" xml:id="l1">JE ne sais que penser de mon ami Chapelle ;</l>
             <l n="2" xml:id="l2">Veut-il me rendre fou ? Dans l’excès de son <ref target="#zele">zèle*</ref>,</l>
@@ -2054,6 +2157,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II. [1802]</head>
           <sp xml:id="IV02-1" who="moliere-1802">
             <l n="20" xml:id="l20" part="I">Chapelle n’a-t-il rien envoyé ?</l>
           </sp>
@@ -2065,6 +2169,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III. [1802]</head>
           <sp xml:id="IV03-1" who="moliere-1802">
             <l part="F">Il me faut, en attendant qu’il vienne</l>
             <l n="22" xml:id="l22">Me rapporter ma pièce, examiner la sienne.</l>
@@ -2099,6 +2204,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV. [1802]</head>
           <sp xml:id="IV04-1" who="moliere-1802">
             <l n="51" xml:id="l51">Eh bien ! m’apportez-vous mon manuscrit, enfin ?</l>
           </sp>
@@ -2220,6 +2326,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V. [1802]</head>
           <sp xml:id="IV05-1" who="laforet-1802">
             <l part="M">Qu’est-ce ?<pb n="23-1802" xml:id="p23-1802" ed="1802"/></l>
           </sp>
@@ -2372,6 +2479,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI. [1802]</head>
           <sp xml:id="IV06-1" who="moliere-1802">
             <l n="187" xml:id="l187">Eh bien, vous l’avez vu. C'est la simple nature</l>
             <l n="188" xml:id="l188">Qui vient de vous juger. Après cette lecture</l>
@@ -2433,6 +2541,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE VII. [1802]</head>
           <sp xml:id="IV07-1" who="un-garcon-de-theatre-1802">
             <l n="235" xml:id="l235">Pour répéter, Monsieur, votre nouvelle pièce,</l>
             <l n="236" xml:id="l236" part="I">On n’attend plus que vous.</l>
@@ -2452,6 +2561,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV08">
+          <head>SCENE VIII. [1802]</head>
           <sp xml:id="IV08-1" who="chapelle-1802">
             <l n="242" xml:id="l242">Il vient de me donner une sage leçon,</l>
             <l n="243" xml:id="l243">Je veux en profiter : oui, j’en croirai Molière ;</l>
@@ -2461,6 +2571,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV09">
+          <head>SCENE IX. [1802]</head>
           <sp xml:id="IV09-1" who="la-moliere-1802">
             <l n="247" xml:id="l247">Du bon vin ! du bon vin ! voilà comme vous êtes !</l>
             <l n="248" xml:id="l248">Boire et passer vos nuits dans les jeux, dans les fêtes ;</l>
@@ -2536,6 +2647,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV10">
+          <head>SCENE X. [1802]</head>
           <sp xml:id="IV10-1" who="la-moliere-1802">
             <l n="299" xml:id="l299">Chapelle a t-il raison ? je veux être maîtresse,</l>
             <l n="300" xml:id="l300">Commander en ces lieux ; mais, Molière sans cesse</l>
@@ -2546,6 +2658,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV11">
+          <head>SCÈNE XI. [1802]</head>
           <sp xml:id="IV11-1" who="la-moliere-1802">
             <l part="F">D'où vient cette pâleur étrange</l>
             <l n="305" xml:id="l305">Qu'on voit sur votre front ? Molière est-il plus mal ?</l>
@@ -2675,7 +2788,9 @@
         </div>
       </div>
       <div xml:id="V" type="act">
+        <head>ACTE II. [1802]</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE. [1802]</head>
           <sp xml:id="V01-1" who="moliere-1802">
             <l n="381" xml:id="l381">NON, ma femme, jamais je n’y consentirai :</l>
             <l n="382" xml:id="l382">Ma fille m’est soumise, et je la marierai</l>
@@ -2872,6 +2987,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II. [1802]</head>
           <sp xml:id="V02-1" who="moliere-1802">
             <l n="489" xml:id="l489">Qu’est-ce, mon cher Baron ? vous paraissez rêveur.</l>
           </sp>
@@ -2990,6 +3106,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III. [1802]</head>
           <sp xml:id="V03-1" who="moliere-1802">
             <l n="542" xml:id="l542">Que de délicatesse et de discrétion<pb n="40-1802" xml:id="p40-1802" ed="1802"/></l>
             <l n="543" xml:id="l543">Il vient de nous montrer ! et combien l’un et l’autre</l>
@@ -3025,6 +3142,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV. [1802]</head>
           <sp xml:id="V04-1" who="un-semainier-1802">
             <l n="563" xml:id="l563">On m’envoie en ces lieux pour savoir si Molière</l>
             <l n="564" xml:id="l564" part="I">Dans sa pièce jouera ?<hi rend="b"/></l>
@@ -3036,6 +3154,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V. [1802]</head>
           <sp xml:id="V05-1" who="isabelle-1802">
             <l part="F">Quoi ! mon père, en effet</l>
             <l n="567" xml:id="l567">Vous jouerez aujourd’hui, lorsqu’avec tant de peine</l>
@@ -3114,6 +3233,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI. [1802]</head>
           <sp xml:id="V06-1" who="lesbin-1802">
             <l part="F">De Mignard, [<hi rend="b">à l’instant]</hi> on m’apporte une lettre</l>
           </sp>
@@ -3141,6 +3261,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII.[1802]</head>
           <sp xml:id="V07-1" who="baron-1802">
             <l n="627" xml:id="l627">Je quitte Laforêt ; elle se plaint sans cesse,</l>
             <l n="628" xml:id="l628">Que vous ne sentez point le prix de la richesse,</l>
@@ -3190,6 +3311,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>SCENE VIII. [1802]</head>
           <sp xml:id="V08-1" who="baron-1802">
             <l n="645" xml:id="l645">Au désordre qui règne en vos sens éperdus,</l>
             <l n="646" xml:id="l646">On dirait qu’en effet votre père n’est plus :</l>
@@ -3211,6 +3333,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V09">
+          <head>SCENE IX. [1802]</head>
           <sp xml:id="V09-1" who="le-docteur-1802">
             <l n="656" xml:id="l656">Je suis, vous le savez, un ami de Molière,</l>
             <l n="657" xml:id="l657">Et, quoique médecin, j’ai souvent le bonheur</l>
@@ -3250,6 +3373,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V10">
+          <head>SCENE X. [1802]</head>
           <sp xml:id="V10-1" who="moliere-1802">
             <l n="679" xml:id="l679">Mondorge part content, et je le suis moi-même.</l>
             <l n="680" xml:id="l680">J'ai rempli mon devoir envers l’ami que j’aime ;</l>
@@ -3298,6 +3422,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V11">
+          <head>SCENE XI. [1802]</head>
           <sp xml:id="V11-1" who="chapelle-1802">
             <l n="707" xml:id="l707" part="I">Non, non, vous resterez.</l>
           </sp>
@@ -3345,6 +3470,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V12">
+          <head>SCENE XII.</head>
           <sp xml:id="V12-1" who="chapelle-1802">
             <l n="735" xml:id="l735"><hi rend="b">Quelle verve</hi> ! <hi rend="b">quel feu presqu’au bord de la tombe…</hi></l>
             <l n="736" xml:id="l736" rend="b">A ses <ref target="#travaux">travaux*</ref>, pourtant, je crains qu’il ne succombe,</l>
@@ -3357,13 +3483,16 @@
         </div>
       </div>
       <div xml:id="VI" type="act">
+        <head>ACTE III. [1802]</head>
         <div type="scene" xml:id="VI01">
+          <head>SCENE PREMIERE. [1802]</head>
           <sp xml:id="VI01-1" who="chapelle-1802">
             <l n="739" xml:id="l739">LAFORET ! Laforêt ! où donc est cette fille ?</l>
             <l n="740" xml:id="l740">Quel désespoir pour elle et toute la famille !</l>
           </sp>
         </div>
         <div type="scene" xml:id="VI02">
+          <head>SCENE II. [1802]</head>
           <sp xml:id="VI02-1" who="laforet-1802">
             <l n="741" xml:id="l741" part="I">Vous avez appellé, je crois.</l>
           </sp>
@@ -3411,6 +3540,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI03">
+          <head>SCENE III. [1802]</head>
           <sp xml:id="VI03-1" who="moliere-1802">
             <l n="765" xml:id="l765">O combien de vos soins je suis reconnaissant !</l>
             <l n="766" xml:id="l766">Ma fille, la douleur, sous son bras tout-puissant,     </l>
@@ -3447,6 +3577,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI04">
+          <head>SCENE IV. [1802]</head>
           <sp xml:id="VI04-1" who="le-docteur-1802">
             <l n="787" xml:id="l787">Ma visite n’a pas le bonheur de vous plaire ;</l>
             <l n="788" xml:id="l788">Je le soupçonne, au moins. A mon art salutaire</l>
@@ -3585,6 +3716,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI05">
+          <head>SCENE V. [1802]</head>
           <sp xml:id="VI05-1" who="baron-1802">
             <l n="855" xml:id="l855">Molière, jusqu’au bout, garde son caractère :</l>
             <l n="856" xml:id="l856">Il hait les médecins ; et quand leur ministère</l>
@@ -3594,6 +3726,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI06">
+          <head>SCENE VI. [1802]</head>
           <sp xml:id="VI06-1" who="domestique">
             <l n="860" xml:id="l860">Monsieur de Montausier, inquiet sur Molière,</l>
             <l n="861" xml:id="l861" part="I">Vient ici pour le voir.</l>
@@ -3613,6 +3746,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI07">
+          <head>SCENE VII. [1802]</head>
           <sp xml:id="VI07-1" who="montausier-1802">
             <l n="869" xml:id="l869">De Molière, toujours, j’estimai les talens,</l>
             <l n="870" xml:id="l870">Et la plus juste crainte a passé dans mes sens,</l>
@@ -3656,6 +3790,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI08">
+          <head>SCENE VIII. [1802]</head>
           <sp xml:id="VI08-1" who="pirlon-1802">
             <l n="889" xml:id="l889" part="I">Comment se porte-t-il ?</l>
           </sp>
@@ -3832,6 +3967,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI09">
+          <head>SCENE IX. [1802]</head>
           <sp xml:id="VI09-1" who="baron-1802">
             <l n="1004" xml:id="l1004">Ciel ! Isabelle en pleurs ! à quoi dois-je m’attendre ?</l>
           </sp>
@@ -3860,6 +3996,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI10">
+          <head>SCENE X. [1802]</head>
           <sp xml:id="VI10-1" who="lesbin-1802">
             <l n="1016" xml:id="l1016">Mignard envoie ici le portrait de Molière.</l>
           </sp>
@@ -3883,6 +4020,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI11">
+          <head>SCENE XI. [1802]</head>
           <sp xml:id="VI11-1" who="isabelle-1802">
             <l part="F">O respectable image !</l>
             <l n="1025" xml:id="l1025">Toi qui m’offres les traits du père le plus cher,</l>
@@ -3902,6 +4040,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI12">
+          <head>SCENE XII. [1802]</head>
           <sp xml:id="VI12-1" who="la-moliere-1802">
             <l n="1039" xml:id="l1039">Pleure, pleure, ma fille, à ta douleur sincère</l>
             <l n="1040" xml:id="l1040">Je viens mêler la mienne. Il est trop vrai, ton père…</l>
@@ -3911,6 +4050,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI13">
+          <head>SCENE XIII. [1802]</head>
           <sp xml:id="VI13-1" who="chapelle-1802">
             <l n="1042" xml:id="l1042">Que vois-je ? ô triste effet de la rigueur du sort !</l>
             <l n="1043" xml:id="l1043">La mère est dans les pleurs : la fille évanouie...</l>
@@ -3919,6 +4059,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI14">
+          <head>SCENE XIV. [1802]</head>
           <sp xml:id="VI14-1" who="chapelle-1802">
             <l n="1046" xml:id="l1046">Vous, amis de Molière, et dont en ce moment</l>
             <l n="1047" xml:id="l1047">Je partage la peine, enlevez cette image ;</l>
@@ -3934,10 +4075,13 @@
         </div>
       </div>
       <div xml:id="VII" type="act">
+        <head>ACTE IV, OU APOTHÉOSE DE MOLIERE. [1802]</head>
         <div type="scene" xml:id="VII01">
+          <head>PERSONNAGES. ACTEURS.</head>
           <pb n="64-1802" xml:id="p64-1802" ed="1802"/>
         </div>
         <div type="scene" xml:id="VII02">
+          <head>SCENE PREMIERE. [1802]</head>
           <sp xml:id="VII02-1" who="chapelle-apotheose">
             <l n="1055" xml:id="l1055">OUI, notre ami n’est plus, une crise funeste</l>
             <l n="1056" xml:id="l1056">Vient de trancher ses jours ; mais un espoir me reste,</l>
@@ -4018,6 +4162,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VII03">
+          <head>SCENE II. [1802]</head>
           <sp xml:id="VII03-1" who="mignard">
             <l n="1106">Moi, je viens, mes amis, le pleurer avec vous.</l>
             <l n="1107" part="I">Molière ne vit plus !...</l>

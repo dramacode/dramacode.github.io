@@ -1,0 +1,1989 @@
+
+
+**** *book_ *id_I01 *act_I *date_1661 *creator_boursault
+
+-*who_gusman
+Oui, la peste m'étouffe, il lui fait les doux yeux.
+
+-*who_fabrice
+Railleur.
+
+-*who_gusman
+      Je raille donc ?
+
+-*who_fabrice
+      Je le crois.
+
+-*who_gusman
+      Plut aux Dieux !
+Mais de la vérité c'est la voix que j'emprunte,
+Quand je dis que pour vous la Donzelle est défunte,
+Et que par un destin plus funeste que doux,
+Elle vit pour un autre, en trépassant pour vous.
+
+-*who_fabrice
+Quoi, Gusman, Lazarille aimerait Stéphanie ?
+Tu feins.
+
+-*who_gusman
+      De mon discours toute feinte est bannie,
+Dès hier, les écoutant, sans qu'aucun m'aperçut,
+L'un s'offrit pour Epoux, et l'autre le reçut :
+Vous, Monsieur, qui poussez la harangue muette,
+De l'objet qui vous charme, il faut faire diète ;
+Et sans de votre part qu'on entende du bruit,
+Souffrir que de vos feux Lazarille ait le fruit.
+
+-*who_fabrice
+Point, Lazarille m'aime, il me l'a fait paraître,
+Il n'a point de secret qui pour moi le doive être ;
+Si quelque amour pour elle il avait ressenti,
+Gusman, il est sincère.
+
+-*who_gusman
+      Et mes yeux ont menti ?
+Mais si je puis surprendre et Monsieur et Madame,
+Et que tous deux ensemble ils parlent de leur flamme :
+Si je puis vous montrer qu'ils s'entraiment tous deux,
+Qu'elle est de lui charmée, et lui d'elle Amoureux,
+Que direz-vous alors ?
+
+-*who_fabrice
+      Je louerai ta conduite.
+
+-*who_gusman
+Allons nous en dîner, et revenons ensuite :
+Dans une heure au plus tard dans ce même jardin,
+Nous verrons qui des deux doit passer pour Badin :
+Mais de l'objet aimé le Père ici le montre.
+
+-*who_fabrice
+De ce fâcheux Vieillard évitons la rencontre.
+
+**** *book_ *id_I02 *act_I *date_1661 *creator_boursault
+
+-*who_ferdinand
+Es-tu là Stéphanie ? Ôtes-moi de soucis :
+Réponds. Ah ! te voilà.
+
+-*who_stephanie
+      Sans doute.
+
+-*who_ferdinand
+      Et me voici ;
+Mais de là jusqu'ici l'espace étant si grande,
+Il faut que dans ce lieu ta personne descende,
+Pour d'une âme tranquille écouter mon discours.
+Descends-donc.
+
+-*who_stephanie
+      J'obéis.
+
+-*who_ferdinand
+      Mais hâte-toi.
+
+-*who_stephanie
+      Je cours.
+
+-*who_ferdinand
+En t'appelant, sais-tu quel succès j'en espère ?
+
+-*who_stephanie
+Non, Monsieur.
+
+-*who_ferdinand
+      Tu sais bien qu'on me nomme ton père ?
+
+-*who_stephanie
+Oui, Monsieur.
+
+-*who_ferdinand
+      Sache encore qu'il n'est rien de cela,
+Que ce n'est que de nom que je fus ton papa,
+Et malgré ta vertu dont toujours l'éclat brille,
+Que je ne voudrais pas que tu fusses ma fille.
+Ce n'est pas qu'en effet, durant près de vingt ans,
+Je t'aimais comme un Père aimerait ces enfants,
+Et voyant les beautés dont le Ciel te partage,
+Mon cœur depuis un mois t'aime encore d'avantage.
+Aussi quoique sur toi j'eusse assez de pouvoir
+Pour te casser la tête en faisant ton devoir,
+Bien loin de te causer une douleur amère,
+Je t'ai toujours traitée en enfant de ta mère.
+Mais pour venir au point qui m'a fait t'appeler,
+Je crois que tu sais bien que c'est pour te parler ;
+Et puisqu'en ce jardin c'est ma voix qui t'attire,
+Qu'il faut que j'aie aussi quelque chose à te dire.
+C'est donc pour te parler que je t'ai fait venir ;
+Et pour te dire aussi qu'il est temps de t'unir,
+Avec quelque Gaillard dont la mine te plaise,
+Et qui soit en état de te mettre à ton aise.
+Sers-toi donc à présent du pouvoir de tes yeux,
+Qui dans trois ou quatre ans deviendront chassieux :
+Que veux-tu me répondre à ce que je propose ?
+
+-*who_stephanie
+Que pour vous obéir je ferai toute chose,
+Je suis prête, ordonnez.
+
+-*who_ferdinand
+      Ta haute humilité,
+Ne me charme pas moins que ferait ta beauté :
+Mais au bonheur ouvert devenir si sensible,
+De ton pressentiment c'est l'effet infaillible,
+Et je ne doute pas que tu vois aisément
+Que qui n'est plus ton Père, est enfin ton Amant.
+
+-*who_stephanie
+Vous Monsieur, mon Amant ?
+
+-*who_ferdinand
+      Oui, moi-même à toi-même,
+Je découvre mon Âme, et te dis que je t'aime,
+Et qu'il est nécessaire à l'ardeur de mes feux,
+Que par un Mariage on nous joigne tous deux.
+Si dans mes jeunes ans je n'aimais que les Armes,
+Et si dans ce moment tu fourmilles de charmes,
+Notre premier enfant, étant fille ou garçon,
+Sera plus beau qu'un Ange, ou plus fort qu'un Sanson.
+
+-*who_stephanie
+Quoi, Monsieur
+
+-*who_ferdinand
+      À ton tour tu veux m'ouvrir ton Âme,
+Et répondre au plaisir que te cause ma flamme,
+Mais pour toi ma bonté qui te sert de secours,
+Veut à ta modestie épargner ce discours.
+
+-*who_stephanie
+Ah daignez m'écouter : et souffrez que j'embrasse
+
+-*who_ferdinand
+Quoi, te mettre à genoux pour mieux me rendre grâce ?
+Crains-tu que je t'échappe ? Ah ! Ne t'alarme pas,
+Quoi qu'il puisse arriver apprends que tu m'auras :
+Mais rentre promptement, car je vois Lazarille,
+Il s'avance.
+
+-*who_stephanie
+      Oh malheur ! Que ne suis-je sa fille.
+
+**** *book_ *id_I03 *act_I *date_1661 *creator_boursault
+
+-*who_lazarille
+De tous vos serviteurs étant le plus soumis,
+Un libre accès chez vous me fut toujours permis,
+Monsieur, et vous m'avez à toutes mes visites
+Fait des civilités par delà mes mérites.
+
+-*who_ferdinand
+Couvrez-vous.
+
+-*who_lazarille
+      Mais enfin, après tant de bontés,
+Mes yeux de Stéphanie ayant vu les beautés,
+D'adorer ses attraits je ne pus me défendre ;
+Si bien que dans l'espoir de me voir votre gendre,
+Je viens d'un zèle ardent embrasser vos genoux,
+Afin que vous souffriez que je sois son Epoux.
+
+-*who_ferdinand
+Fort bien.
+
+-*who_lazarille
+      Je ne dis rien d'une ardeur infinie,
+Suffit que chaque jour vous voyiez Stéphanie,
+Peut-on ne pas l'aimer sans manquer de raison ?
+
+-*who_ferdinand
+Vous ne pouviez venir en meilleure saison.
+
+-*who_lazarille
+Donc à ma passion vous êtes favorable ?
+Donc je puis espérer cet objet adorable ?
+De votre affection je suis trop éclairci ;
+Quoi vous me préparez
+
+-*who_ferdinand
+      Un refus, Dieu merci.
+
+-*who_lazarille
+Un refus ?
+
+-*who_ferdinand
+      Un refus.
+
+-*who_lazarille
+      Ah ! Du moins que je sache
+Si parmi mon ardeur vous trouvez quelque tache.
+
+-*who_ferdinand
+Nenni, mais par un sort qui pour vous est fatal,
+Vous avez le malheur de m'avoir pour rival.
+
+-*who_lazarille
+Vous aimez votre fille ? Ah ! Si par quelque ruse
+
+-*who_ferdinand
+Tout chacun m'en croit Père et tout chacun s'abuse,
+Je vous crus de tout temps un Ami si discret,
+Que je puis à vos yeux exposer un secret :
+Mais il faut toutefois m'assurer de se taire.
+
+-*who_lazarille
+De ce triste secret quel que soit le mystère,
+Parlez, de vos Amis je suis l'un des plus grands.
+
+-*who_ferdinand
+Il y peut bien avoir plus de cinq fois quatre ans,
+Qu'une Dame à cheval, qu'avait un homme en croupe,
+Passa par cette ville, allant à Gadaloupe,
+Et pour ne pas vous faire un trop long entretien,
+Du logis que j'occupe en vint faire le sien.
+Après que de cheval elle fut descendue,
+Je vis qu'elle était pâle, et toute morfondue,
+De son maigre visage on eût compté les os,
+Ses bras étaient petits, mais son ventre était gros,
+Et s'il faut devant vous que sans fard je m'explique ;
+Durant une heure ou deux je la crus hydropique :
+Mais peu de temps après mon esprit fut certain,
+Que ce n'était pas d'eau que son ventre était plein.
+Quoique dans mon logis elle n'eut rien à craindre,
+J'entendis sur le soir cette Dame se plaindre ;
+D'abord prêtant l'oreille à sa voix, j'en ouïs :
+Vois de quels tristes biens à présent tu jouis,
+Puisque tu t'es fiée à des promesses vaines,
+Qu'un moment de plaisir te coûtera de peines !
+Que le Ciel en courroux te prépare de maux !
+Voit-on quelques malheurs à tes malheurs égaux ?
+Ton fruit qui voit le jour rend-il ta douleur moindre ?
+Là j'ouïs une voix à la sienne se joindre,
+Dont l'extrême faiblesse, et le ton délicat,
+Avait bien du rapport aux cris d'un petit Chat.
+Lors pour voir ce mystère ayant ouvert la porte,
+Je trouvais cette femme en langueur ; demi-morte.
+Un enfant à ses pieds qui venait d'être fait,
+Et qui quoique petit était beau tout à fait.
+En un rude courroux j'eus dessein de me mettre,
+Mais la mère à l'enfant ne put me le permettre,
+Et d'un gros Diamant le brillant gracieux,
+Sut me fermer la bouche, et m'éblouir les yeux :
+Si bien que l'Accouchée ayant par son adresse
+Apaisé ma colère et surpris ma tendresse,
+Sans rien appréhender des médisants propos,
+A son enfant tout nu je donnais des drapeaux,
+Qui la même nuitée ayant eu la migraine,
+Fit chercher au plus vite, et Parrain et Marraine.
+Car dans sa maladie on craignait qu'il mourut ;
+Et Dona Stéphanie est le nom qu'il reçut.
+
+-*who_lazarille
+Ô Ciel ! Après ce coup que faut-il que j'espère ?
+Hélas !
+
+-*who_ferdinand
+      Vous voyez bien si j'en fus jamais Père.
+
+-*who_lazarille
+Je ne le vois que trop.
+
+-*who_ferdinand
+      Pour vous donc abréger,
+Stéphanie en huit jours ne fut plus en danger,
+Et la mère pour lors pleinement satisfaite,
+La commis à ma charge, et sonna sa retraite,
+Et m'ayant ses joyaux déposés dans les mains,
+Avant que de partir m'expliqua ses desseins.
+Monsieur, dit-elle alors, connaissant votre zèle,
+Je vous laisse ma fille, et vous laisse avec elle
+De quoi l'entretenir, et payer ses dépenses
+Tant que pourra durer la longueur de sept ans.
+Environ ce temps-là j'enverrai la reprendre ;
+Surtout je vous enjoins de jamais ne la rendre,
+Qu'à celui qui pour elle ayant quelque amitié,
+A cet anneau rompu joindra l'autre moitié.
+Cela dit, elle part, et sa fille demeure,
+Qui durant son enfance amandait d'heure en heure,
+Et qui vécut si bien, qu'encore même elle vit,
+Qui des charmes qu'elle a tout le monde ravit.
+Comme elle est à présent dans un ange à produire,
+Ma violente ardeur je lui viens de déduire,
+Et trouvant dans ma flamme un plaisir assez doux,
+Pour mieux m'en rendre grâce elle était à genoux :
+Mais comme à mon esprit sa pudeur est connue,
+Je l'ai fait retirer voyant votre venue ;
+Et pour conclusion je vous fais assoir,
+Qu'elle borne sa gloire au bonheur de m'avoir.
+Adieu.
+
+**** *book_ *id_I04 *act_I *date_1661 *creator_boursault
+
+-*who_lazarille
+      Peut-on souffrir une douleur plus dure !
+Voir de mes propres yeux son indigne posture,
+Et lorsque par son ordre on peut tout espérer,
+Embrasser les genoux, de qui doit l'adorer !
+L'ingrate ! Elle paraît.
+
+**** *book_ *id_I05 *act_I *date_1661 *creator_boursault
+
+-*who_stephanie
+      Quelque espoir qui vous flatte,
+Empêchez que pour moi votre flamme n'éclate,
+Et quoi que votre amour ait pour vous des appas,
+Faites que pour me plaire il ne paraisse pas.
+Car enfin
+
+-*who_lazarille
+      C'est assez, de la loi qu'on m'impose,
+Mon esprit tout confus vient d'apprendre la cause,
+Ferdinand
+
+-*who_stephanie
+      Ferdinand vous a donc tout appris ?
+
+-*who_lazarille
+N'en doutez pas.
+
+-*who_gusman
+      Hé bien, les avez-vous surpris ?
+S'aiment-ils ?
+
+-*who_fabrice
+      Stéphanie être avec Lazarille !
+Écoutons.
+
+-*who_lazarille
+      Du vieillard, vous n'êtes plus la fille.
+
+-*who_fabrice
+Ô Dieux !
+
+-*who_stephanie
+      C'est ce qui doit vous causer du tourment
+Cessant c'être mon père il devient mon amant.
+
+-*who_fabrice
+Ferdinand l'aime aussi, Gusman !
+
+-*who_gusman
+      Belle demande ;
+Manque-t-on d'appétit près de si belle viande ?
+
+-*who_lazarille
+Ferdinand doit donc faire un obstacle à mes vœux ?
+
+-*who_stephanie
+Pouvez-vous en douter, et connaître ses feux ?
+
+-*who_fabrice
+Elle ne l'aime pas.
+
+-*who_gusman
+      Mon Dieu, quoi qu'elle dise,
+Elle a l'esprit mâdré, croyez-moi, fou s'y fie.
+
+-*who_lazarille
+Lorsqu'il a déclaré l'amour qu'il a pour vous,
+Pour y répondre mieux vous étiez à genoux ;
+Ainsi
+
+-*who_stephanie
+      Cette posture où j'ai su me contraindre,
+Montre ce que de lui vous avez lieu de craindre.
+
+-*who_fabrice
+Entends-tu ?
+
+-*who_gusman
+      Qui pis est, suivant ce que je vois,
+Mon esprit indupable est dupé par sa voix.
+
+-*who_lazarille
+Cependant, animé d'une animé d'une ardeur assez grande,
+De vous à mon Rival j'ai tenté la demande ;
+Et suivant les conseils que de vous j'ai reçu,
+Je me suis attiré la rigueur d'un refus.
+
+-*who_fabrice
+J'en suis ravi, Gusman.
+
+-*who_gusman
+      Vous voyez, l'aime-t-elle ?
+
+-*who_fabrice
+Je n'en puis que juger.
+
+-*who_stephanie
+      Ô fortune cruelle !
+Vous m'avez demandée ?
+
+-*who_lazarille
+      Et suivi vos avis.
+
+-*who_stephanie
+Trop tôt à mon malheur vous les avez suivis :
+Quand je crus vous donner un conseil nécessaire,
+Ferdinand de ma part était vu comme Père ;
+Mais n'étant pas sa fille, et sachant son amour,
+Je n'apprends qu'à regret que le votre est au jour.
+
+-*who_fabrice
+L'aime-t-elle ? Tu vois.
+
+-*who_gusman
+      Comment Diable la croire ?
+Ses discours sont pour moi des feuillets du Grimoire.
+
+-*who_stephanie
+J'entends du bruit, fuyez, et de peur que de vous
+Le Rival qui vous nuit ne devienne jaloux,
+Le plus que vous pourrez éviter ma présence.
+
+-*who_lazarille
+Adieu, je laisse au Ciel à punir cette offense.
+
+-*who_stephanie
+Moi, je suis votre exemple, et j'invoque les Dieux,
+Pour me voir délivrée d'un Amant odieux.
+
+**** *book_ *id_I06 *act_I *date_1661 *creator_boursault
+
+-*who_gusman
+Tout va bien.
+
+-*who_fabrice
+      Profitons ; il sort tout en colère.
+
+-*who_gusman
+Poussez donc.
+
+-*who_fabrice
+      Lazarille aura pu vous déplaire,
+Je l'ai vu qui d'ici sort assez brusquement ;
+Mais vous pouvez en moi recouvrer un amant,
+Puisque depuis longtemps mon cœur pour vous soupire,
+Sans que dans mes respects, j'ai osé vous le dire.
+
+-*who_stephanie
+Quoi, vous m'aimez, Fabrice ?
+
+-*who_gusman
+      Oui, foi d'homme d'honneur,
+Il dit que c'est de vous que dépend son bonheur ;
+Et vous pouvez penser que sa flamme est bien forte,
+Puisque j'ose vous faire un serment de la sorte.
+
+-*who_stephanie
+Vous m'aimez !
+
+-*who_fabrice
+      Le moyen de ne vous aimer pas,
+Et de pouvoir sans cesse admirer vos appas.
+
+-*who_stephanie
+S'il est vrai que pour moi votre ardeur soit sincère,
+Pourquoi vous obstiner si longtemps à la taire ?
+Loin que par votre aveu vous puissiez m'alarmer,
+Qui se fut vu aimée aurait pu vous aimer.
+Au reste, Lazarille eut toujours tant d'adresse,
+Qu'au lieu de me déplaire, il aurait ma tendresse ;
+C'est à lui seulement que l'Hymen doit m'unir,
+J'en ai fait la promesse, et je la veux tenir.
+Adieu, ce sentiment est selon qu'il doit être.
+
+**** *book_ *id_I07 *act_I *date_1661 *creator_boursault
+
+-*who_fabrice
+Ah, Gusman mon Valet !
+
+-*who_gusman
+      Ah, Fabrice mon Maître !
+
+-*who_fabrice
+Que je suis malheureux !
+
+-*who_gusman
+      Point, point, rayez ce mot,
+Vous seriez plus heureux si vous étiez moins sot.
+
+-*who_fabrice
+Maraud insupportable
+
+-*who_gusman
+      Et vous tête étourdie,
+Dont le cœur est de flamme et la langue engourdie,
+Ce qui vient d'arriver ne vous sied que trop bien ;
+Avoir chaud comme un Diable, et ne parler de rien,
+Brûler dans sa chemise à l'exemple d'Hercule,
+Et puis après cela devenir ridicule,
+Jusqu'au point de souscrire au plaisir d'un rival,
+Si ce n'est être sot, c'est paraître cheval.
+
+-*who_fabrice
+Au plaisir d'un Rival que jamais je souscrive !
+Qu'il possède un objet qui mon âme captive !
+Et que sans écouter un amour violent ..
+
+-*who_gusman
+Et que prétendez-vous, ô Maître un peu trop lent ?
+
+-*who_fabrice
+Puisque si mon Rival n'eut usurpé ma place,
+Mon aimable Maîtresse approuvait mon audace,
+Apprends que je m'apprête à le priver du jour,
+Pour la contraindre encore à souffrir mon amour.
+Je ne lui déplais pas, je le viens de connaître,
+Elle saura m'aimer quand il cessera d'être,
+Je puis donc, supportant que je venge un affront,
+Le forcer à se battre, et t'avoir pour second.
+
+-*who_gusman
+Moi second ?
+
+-*who_fabrice
+      Quoi, Gusman, tu veux être pagnotte ?
+
+-*who_gusman
+Quoi tueur de rivaux, vous voulez qu'on me frotte ?
+Et moi qui de la Parque appréhende la faux,
+J'ose vous soutenir que cela sera faux.
+
+-*who_fabrice
+Ah ! Gusman, souviens-toi que j'aime Stéphanie,
+Qu'elle doit, à mon sort, par l'Hymen être unie,
+Et que dans le malheur qui talonne mes pas,
+N'en pas être l'époux, c'est souffrir le trépas.
+
+-*who_gusman
+Trépassez.
+
+-*who_fabrice
+      Mais mourir, après tant de souffrances,
+C'est donner à ma peine une faible allégeance.
+
+-*who_gusman
+Ne trépassez donc pas.
+
+-*who_fabrice
+      Donne m'en le moyen ;
+Crois-tu qu'on puisse vivre, et ne prétendre rien ?
+Et que quand la fortune est pour nous rigoureuse,
+Un trépas soit moins doux qu'une vie odieuse ?
+
+-*who_gusman
+Trépassez-donc.
+
+-*who_fabrice
+      Gusman, c'est mal me secourir,
+Un amant véritable a trop peur de mourir,
+Penses-tu qu'au moment qu'on adore une belle,
+Il soit fort aisé de faire une absence éternelle ?
+Et qu'un cœur que l'amour asservit sous ses lois,
+Puisse expirer sans peine après un noble choix ?
+
+-*who_gusman
+Vivez-donc, si la mort est pour vous effroyable.
+
+-*who_fabrice
+La mort aux malheureux est toujours agréable.
+
+-*who_gusman
+Mourez-donc.
+
+-*who_fabrice
+      Quel sort qui nous puisse arriver,
+Il n'est rien de si doux que de vivre, et d'aimer.
+
+-*who_gusman
+À votre cher Valet, apprenez votre envie ;
+Avoir peur de la mort, et puis craindre la vie ;
+C'est, sans qu'il soit besoin de toujours discourir,
+Vouloir vivre sans vivre, et mourir sans mourir.
+Mais à quoi rêvez-vous ?
+
+-*who_fabrice
+      Au malheur qui m'afflige,
+De moments en moments Lazarille m'oblige,
+Il m'aime, et toutefois je ne puis l'épargner,
+Et je dois, ou le perdre, ou du moins l'éloigner.
+
+-*who_gusman
+Un si grand préambule était-il nécessaire ?
+Vous savez, grâce à Dieu, que je suis bon faussaire,
+Et que sans vanité, je pourrais me vanter,
+Qu'au mérite de matois nul ne peut m'imiter,
+Si bien qu'à mon talent il n'est pas difficile
+De forcer Lazarille à sortir de Séville :
+Laissez votre fortune à ma discrétion.
+
+-*who_fabrice
+Il me souvient encore d'une autre invention,
+L'Ambassadeur d'Afrique est ici.
+
+-*who_gusman
+      Qu'il s'y tienne.
+
+-*who_fabrice
+Sa personne à peu près est égale à la tienne.
+
+-*who_gusman
+Pour cela ?
+
+-*who_fabrice
+      Vous avez chacun de mêmes traits.
+
+-*who_gusman
+Qu'en est-il ?
+
+-*who_fabrice
+      Les plus fins confondraient vos portraits.
+
+-*who_gusman
+Que m'importe ?
+
+-*who_fabrice
+      Pour peu que ton zèle s'applique
+À vouloir me servir aux dépens de l'Afrique,
+Tu peux en secondant les desseins que je fais,
+Contenter mon ardeur, et remplir mes souhaits.
+
+-*who_gusman
+Moi que je vous oblige aux dépens de l'Afrique ?
+
+-*who_fabrice
+Tu le peux.
+
+-*who_gusman
+      Justement ; c'est bien là ma pratique,
+Quoi, Monsieur, dans l'Afrique ai-je quelque pouvoir ?
+
+-*who_fabrice
+Point du tout.
+
+-*who_gusman
+      A-t-elle eu le bonheur de me voir ?
+
+-*who_fabrice
+Nullement.
+
+-*who_gusman
+      De l'Afrique ai-je la dépendance ?
+
+-*who_fabrice
+Encore moins.
+
+-*who_gusman
+      Fléchit-elle à ma moindre ordonnance ?
+
+-*who_fabrice
+Elle ? Non.
+
+-*who_gusman
+      Comment donc avez vous prétendu,
+Qu'un service à ses frais pût vous être rendu :
+Car enfin quoique j'ai un rapport fort sincère
+Avec un qui peut-être est bâtard de mon père,
+D'ici jusqu'en Afrique un chemin raccourci,
+Ne peut être plus long que de là jusqu'ici ;
+Et puis qu'à vous connaître il faut que l'on s'exerce,
+Gusman avec l'Afrique ayant peu de commerce,
+Pour raison concluante il conclut de bon cœur,
+Que toujours de l'Afrique il sera serviteur.
+
+-*who_fabrice
+Tu n'entends pas mon sens.
+
+-*who_gusman
+      Comment Diable l'entendre ?
+
+-*who_fabrice
+Je veux dans mon logis te le faire comprendre ;
+Puis donc que nous avons des sujets à choisir,
+Entrons, et sur chacun consultons à loisir.
+
+**** *book_ *id_II01 *act_II *date_1661 *creator_boursault
+
+-*who_lazarille
+Incomparable ami dont toujours la tendresse,
+Dans tout ce qui me touche aisément s'intéresse,
+Approche, et si jamais tu me crus malheureux,
+Si jamais mon destin te semblât rigoureux,
+Juges par ce billet qui fait naître ma plainte,
+Si d'un tourment plus rude on peut sentir l'atteinte.
+
+-*who_fabrice
+Mon Neveu je me plains de mon triste devoir,
+Qui malgré moi m'oblige à vous faire savoir
+Une fort mauvaise nouvelle :
+Mon Frère, votre Père ayant fini son sort,
+Pour de votre Maison devenir le support,
+Votre mère affligée en ce lieu vous appelle.
+DON RAYMON DE GALAS.
+
+-*who_lazarille
+      Hé bien ! Parfait ami
+Dont la noble chaleur n'agit point à demi ;
+Tu vois.
+
+-*who_fabrice
+      Ce coup fatal me surprend, et m'étonne,
+Il est mort !
+
+-*who_lazarille
+      Juges-en par l'avis qu'on me donne.
+
+-*who_fabrice
+De tout autre qu'un oncle à qui l'on doit respect,
+Un billet si fâcheux pourrait m'être suspect :
+Mais vois le caractère ; Est-ce point imposture,
+Examine.
+
+-*who_lazarille
+      Non, non c'est la même écriture.
+
+-*who_fabrice
+Pourtant, ou je me trompe, ou tu dis hier au soir,
+Que ton Père en ce lieu te pourrait bientôt voir ;
+Et pour, à son enfant ne pas être inutile,
+Qu'il partait de Tolède, et venait à Séville.
+
+-*who_lazarille
+Il me l'avait mandé, cet espoir m'était doux,
+Mais de tous mes plaisirs mon destin est jaloux.
+Il s'oppose sans cesse au cours de ma fortune,
+Et comme à tout moment sa rigueur m'importune,
+Et que de son caprice il me fait le jouet,
+J'ai des biens en idée, et des maux en effet.
+
+-*who_fabrice
+Ton sort est déplorable.
+
+-*who_lazarille
+      Ajoute encore, Fabrice,
+Que tout m'est rigoureux, que rien ne m'est propice,
+Et pour connaître mieux jusqu'où va mon tourment,
+Au tendre nom de Fils, joins le titre d'Amant ;
+J'adore une beauté, je dois être auprès d'elle,
+Et la mort de mon Père à Tolède m'appelle.
+
+-*who_fabrice
+Si j'avais vu l'Objet qui te tiens sous ses lois,
+Je l'irais e ta part visiter quelquefois.
+Comme pour te servir j'ai le cœur tout de flamme,
+A répondre à tes feux, j'exciterais son âme,
+Et ta vertu sans cesse étalée à ses yeux,
+Te rendrait favorable un séjour ennuyeux.
+
+-*who_lazarille
+Si tantôt j'eusse appris cette triste nouvelle,
+J'aurais cru m'éloigner d'une fille infidèle ;
+Mais ce coup à mon âme est d'autant plus cruel,
+Qu'elle honore mes feux par un feu mutuel.
+
+-*who_fabrice
+Hélas !
+
+-*who_lazarille
+      A mon ardeur daigne donc être utile,
+Puisqu'il faut qu'à regret j'abandonne Séville,
+Et qu'au moins Stéphanie une fois chaque jour,
+Apprenne par ta voix l'excès de mon amour.
+
+-*who_fabrice
+Stéphanie !
+
+-*who_lazarille
+      Elle-même.
+
+-*who_fabrice
+      Ô destin implacable !
+
+-*who_lazarille
+Tu te plains.
+
+-*who_fabrice
+      Je me plains du malheur qui t'accable,
+L'Ambassadeur d'Afrique est ton rival.
+
+-*who_lazarille
+      Ô Dieux !
+Il aime Stéphanie ?
+
+-*who_fabrice
+      Il en est amoureux ;
+Comme il est courageux, comme il est magnanime,
+Que chacun le respecte, et que chacun l'estime,
+Que son crédit est rare, et que dans cet Etat,
+Il tient, et il sait garder le rang d'un Potentat,
+En vain à ce qu'il veut tu ferais résistance.
+
+-*who_lazarille
+Il l'aime !
+
+-*who_fabrice
+      De sa flamme il m'a fait confidence ;
+Et si je ne m'abuse il vient lui-même exprès,
+Pour parler de ses feux.
+
+**** *book_ *id_II02 *act_II *date_1661 *creator_boursault
+
+-*who_gusman
+      Suivez-moi mes valets,
+Où d'abord faites gille. Hé bien l'avez-vous vue ?
+Celle dont les attraits m'ont donné dans la vue ?
+
+-*who_fabrice
+Non, Seigneur.
+
+-*who_gusman
+      Et pourquoi, maître fat ?
+
+-*who_fabrice
+      Je n'ai pu
+Seigneur
+
+-*who_gusman
+      Que plût à Dieu que vous fussiez rompu !
+Cependant de l'amour je sens la tyrannie,
+Traître.
+
+-*who_lazarille
+      Quoi donc, Seigneur, vous aimez Stéphanie ?
+Elle vous charme ?
+
+-*who_gusman
+      Un peu si vous le trouvez bon.
+Mais je vous trouve encore un fort joli mignon,
+Pour mettre votre nez jusques dans mon affaire.
+
+-*who_lazarille
+Je n'ai pas cru, Seigneur, que ce fut vous déplaire.
+
+-*who_gusman
+Vous deviez l'avoir cru, car un Ambassadeur,
+En parlant avec vous abaisse la grandeur ;
+Tirez vos chausses, vite, ou bientôt par la tête
+
+-*who_lazarille
+Je sais que votre force égale une tempête,
+Et que le rang suprême où le Ciel vous a mis,
+Donne de la terreur à tous vos ennemis :
+Je ne le fus jamais, et n'ai garde de l'être,
+Vous vous abaisseriez si vous étiez mon Maître :
+Mais la Postérité publierait vos hauts faits,
+Si de votre vertu j'éprouvais les effets,
+Et si votre Excellence à ma perte animée,
+Voulait rendre le calme à mon âme alarmée ;
+Et soutenant toujours la grandeur de son sang,
+Me céder un Objet qui n'est pas de son rang.
+
+-*who_gusman
+Vous êtes trop obscur, je ne puis vous entendre.
+
+-*who_lazarille
+Vous servir, est-ce un bien que je puisse prétendre ?
+Il n'est rien que pour vous je n'osasse embrasser.
+
+-*who_gusman
+Pour être votre Maître il me faut abaisser,
+Plaît-il ?
+
+-*who_lazarille
+      Je vous l'avoue.
+
+-*who_gusman
+      Il est donc nécessaire,
+Que chacun se maintienne en sa forme ordinaire,
+Aussi bien tous vos soins me sont indifférents.
+Fabrice !
+
+-*who_fabrice
+      Monseigneur.
+
+-*who_gusman
+      Est-il bon près des Grands ?
+Le dois-je retenir ?
+
+-*who_fabrice
+      Il en est beaucoup digne.
+
+-*who_gusman
+N'êtes-vous point sujet au sirop de la vigne ?
+
+-*who_lazarille
+Quoi que je sois, Seigneur, vous le connaissez bien,
+Votre esprit pénétrant n'ignorât jamais rien.
+
+-*who_gusman
+Il est vrai, mais enfin quelquefois on oublie.
+
+-*who_lazarille
+Ah ! De votre Grandeur l'âme est trop accomplie.
+Et quoique la vertu cherche à s'humilier,
+Un esprit si fameux ne peut rien oublier.
+Vous avez la science en un degré suprême..
+
+-*who_gusman
+Vous me connaissez mieux que je ne sais moi-même
+Et les vertus qu'en moi vous trouvez à tous pas,
+Sont de hautes vertus que je ne voyais pas.
+Fabrice.
+
+-*who_fabrice
+      Monseigneur.
+
+-*who_gusman
+      Cette fille vient-elle ?
+
+-*who_fabrice
+Non, Seigneur.
+
+-*who_gusman
+      Qu'elle est sotte ! Allons donc qu'on l'appelle !
+Débiteur de Phébus, c'est vous dont je fais choix,
+Pour haranguer l'objet qui me met aux abois,
+Et pour faire un portrait qui chatouille son âme,
+Où vous représentiez la grandeur de ma flamme ;
+Mais parlant de mes feux il se faut animer,
+Et par votre discours la contraindre à m'aimer.
+
+-*who_lazarille
+Moi, Seigneur ? Ah ! Sachez
+
+-*who_gusman
+      Je sais que je m'abaisse,
+Mais l'esprit le plus ferme est sujet à faiblesse :
+Forcer mon Excellence à me servir de vous,
+Si c'est une folie, il en est de plus fous.
+Surtout, à Stéphanie, étalez l'Ambassade,
+Poussez-lui des soupirs, affectez la boutade,
+Et faites-lui savoir par un terme attractif,
+Que l'honneur de ma couche est un bien sensitif.
+
+-*who_lazarille
+Je m'acquitterai mal
+
+-*who_gusman
+      Point, point.
+
+-*who_lazarille
+      Ciel ! On l'amène !
+
+-*who_gusman
+Disposez-vous ?
+
+-*who_lazarille
+      Hélas !
+
+-*who_gusman
+      Bon, bon.
+
+-*who_lazarille
+      Quelle est ma peine ?
+
+**** *book_ *id_II03 *act_II *date_1661 *creator_boursault
+
+-*who_ferdinand
+Monseigneur, les respects
+
+-*who_gusman
+      Monseigneur le langoureux,
+Paix ; ce n'est pas de vous que je suis amoureux.
+
+-*who_ferdinand
+Mais, Monseigneur l'espoir
+
+-*who_gusman
+      Mais Monsieur, pas plus outre,
+Je suis grand personnage, et malheur à qui m'outre.
+
+-*who_ferdinand
+Ce n'est pas vous outrer
+
+-*who_gusman
+      Ah vieux barbon têtu !
+Qui fait en me parlant enrager ma vertu,
+Porte plus loin l'odeur de ton nez qui renfrogne ;
+Et vous le beau parleur faites votre besogne,
+Dégoisez.
+
+-*who_lazarille
+      Stéphanie, Hélas !
+
+-*who_gusman
+      Ah ! L'autre sot,
+Qui tout d'abord soupire, et n'a dit qu'un seul mot.
+
+-*who_lazarille
+Ce digne Ambassadeur qui n'a rien que d'illustre,
+Veut de sa passion augmenter votre lustre :
+Il n'a pu résister à tant d'appas flatteurs,
+Qui des cœurs les plus durs sont vos adorateurs :
+Il n'a pu résister aux sensibles amorces
+Qui maîtrisent notre âme, et surmontent ses forces :
+Il n'a pu résister au pouvoir de vos yeux :
+Il vous adore, hélas !
+
+-*who_gusman
+      Ce soupir là va mieux.
+Mais c'est trop la flatter ; vantez-lui mon adresse,
+Pour plaire à ma Grandeur surprenez la tendresse ;
+Louez mon excellence.
+
+-*who_lazarille
+      Il vous doit être doux,
+De voir qu'un si grand homme ait de l'amour pour vous.
+Jugez par ses vertus, par son rang, par sa mine,
+De la gloire éclatante où le Ciel vous destine ;
+Moi dont son Excellence a daigné faire choix,
+Pour vous représenter qu'il révère vos lois,
+Je devrais ressentir de la joie en mon âme ;
+D'avoir pu le premier vous parler de sa flamme ;
+Et mon cœur devrait être et tranquille, et content,
+A l'aspect du bonheur qui déjà vous attend ;
+Mais hélas !
+
+-*who_gusman
+      Mais hélas ! Soupirant incommode,
+Des hélas éternels ne sont plus à la mode.
+
+-*who_lazarille
+Pleut-on parler d'amour sans qu'on soupire ?
+
+-*who_gusman
+      Non,
+Mais il faut soupirer de plus d'une façon.
+Pour bien complimenter contemplez-moi, Novice.
+Hola, quasi ma femme, et presque Ambassadrice,
+Venez ; car je vous aime, et je suis cependant
+Ambassadeur d'Afrique, et bien Ambassadant ;
+Mais contre vos attraits n'ayant point de parade,
+Pour vous faire l'amour je me des-Ambassade :
+Car des Ambassadeurs étant fort au dessous,
+L'Ambassade est à cru quand on parle avec vous.
+Aï ! De ce soupir, Patron que vous en semble ?
+
+-*who_lazarille
+Il est doux !
+
+-*who_gusman
+      Il est vrai, répondez donc.
+
+-*who_stephanie
+      Je tremble.
+Pour connaître aisément votre rang glorieux,
+Il ne faut qu'un moment regarder dans vos yeux,
+On y remarque un air qui de votre Excellence
+Découvre les vertus, et fait voir la naissance :
+Aussi, d'un rang si haut je ne sais trop le pouvoir,
+Pour vouloir abuser du bonheur de vous voir,
+Et j'en fais trop d'état pour oser jamais croire,
+Que d'un honteux amour vous souilliez votre gloire.
+Songez, Seigneur, songez que mon rang est trop bas,
+Il vous faut
+
+-*who_gusman
+      Mon enfant, je ne l'ignore pas ;
+Je sais ce qu'il me faut, mais quoique je le sache,
+Pour vous faire m'aimer je me fais une tache ;
+Mais beauté printanière apprenez qu'il m'est doux,
+D'être noir comme un Diable, et d'être aimé de vous.
+
+-*who_stephanie
+Mais un Ambassadeur vouloir
+
+-*who_gusman
+      Point de scrupules,
+Souvent les Grands Seigneurs sont les plus ridicules ;
+Aussi donc votre esprit ne doit pas s'alarmer,
+De voir mon Excellence avoir pu vous aimer.
+
+-*who_stephanie
+M'aimer ?
+
+-*who_gusman
+      Oui vous aimer, votre beauté m'enivre,
+Vous me verriez mourir, si je cesais de vivre :
+Car, par exemple, un homme, oui je tiens pour certain,
+Qu'un homme qui se meurt est si près de la fin,
+Qu'il s'en faut peu souvent que la mort ne l'attrape,
+Et quand la mort nous tient rarement on échappe,
+Partant si vous étiez insensible pour moi,
+Vous me verriez mourir, et sans savoir pourquoi :
+Mais si pour m'obliger vous vouliez vous résoudre,
+A m'aimer tant soit peu, nous pourrions en découdre,
+Et dès ce même jour l'un et l'autre conjoints,
+À grossir notre race appliquer tous nos soins.
+
+-*who_lazarille
+Quel brutal !
+
+-*who_ferdinand
+      Sur ce point
+
+-*who_gusman
+      Hibou, dont le cœur gronde,
+Taisez-vous.
+
+-*who_ferdinand
+      Sur ce point il faut que je réponde.
+
+-*who_gusman
+Paix, vous dis-je.
+
+-*who_ferdinand
+      Seigneur
+
+-*who_gusman
+      C'est trop Seigneurier,
+Je suis ambassadeur, et me veux marier.
+
+-*who_lazarille
+Mais Seigneur comme père il faut
+
+-*who_gusman
+      Monsieur son plege,
+Loin de vous accorder un plus grand privilège,
+Je suis votre ennemi si pour lui vous parlez ;
+Pour vous la belle Alix parlez si vous voulez.
+
+-*who_stephanie
+Un hymen entre nous a si peu d'apparence,
+Que je n'ose, Seigneur en former l'espérance ;
+Vous pouvez donc prétendre en me faisant la Cour,
+D'attirer des respects, et non pas de l'amour.
+Vous m'aimez ? Vous, Seigneur ? Moi qui suis
+
+-*who_gusman
+      Esprit cruche,
+Nourrisson d'un vieillard qui semble une guenuche,
+Après que noblement j'ai dépeint mon ardeur,
+N'a-t-elle encore pu pénétrer votre cœur ?
+Je vous aime, vous dis-je, et mon âme abattue,
+Cède au cruel effort de l'amour qui me tue,
+Et je suis à présent, tel que des Matelots
+Que le destin expose à la merci des flots,
+Et qui sur le dos vert du compère Neptune,
+Pensent journellement établir leur fortune,
+Quand au malheur pour eux un vent rude et fatal,
+Enfleromptcalmebriseenfin je suis fort mal.
+Douterez-vous encore que je cherche à vous plaire,
+Puisque je vous étale une preuve si claire ?
+Et m'allèguerez-vous de vos sottes raisons,
+Puisque je vous confonds par des comparaisons ?
+
+-*who_stephanie
+Il suffit, un grand cœur n'est jamais hypocrite ;
+Mais, Seigneur, quand je songe à mon faible mérite,
+Je crois peu, quelques feux dont vous soyez épris,
+Qu'un Esprit si sublime ait pu s'être mépris.
+Donc si votre Excellence a pour moi quelque zèle,
+Souffrez qu'elle m'en donne une marque plus belle,
+Et cachant ce qu'en vous je dois voir de suspect,
+Faites naître un amour qui succède au respect.
+
+-*who_ferdinand
+Monseigneur, excusez si pour m'être fidèle
+
+-*who_gusman
+Tu peux suivre sa piste et courir après elle.
+
+-*who_ferdinand
+Mais
+
+-*who_gusman
+      Mais.
+
+-*who_lazarille
+      Et quoi, Seigneur, faut-il ?
+
+-*who_gusman
+      Est-ce à ton tour
+À me rompre la tête, Interprète d'amour !
+
+-*who_ferdinand
+Comme ami
+
+-*who_gusman
+      Comme ami.Sais-tu bien que j'abonde ?....
+Sors te dis-je : Et pour toi. Belzébuth te confonde.
+Bonjour.
+
+**** *book_ *id_II04 *act_II *date_1661 *creator_boursault
+
+-*who_lazarille
+      Quoi donc cet homme à qui rien n'est égal,
+A si peu de vertus et paraît si brutal ?
+C'est là ce rare Esprit à qui l'on rend hommage,
+Qui d'un grand Potentat représente l'Image ?
+Et tu m'oses parler d'étouffer mon amour ?
+Et tu peux te résoudre à lui faire la Cour ?
+Toi qui m'as dit cent fois que tu hais la bassesse,
+Tu peux par complaisance applaudir sa faiblesse ?
+Sa grandeur t'éblouit, et tu n'aperçois pas,
+Qu'avec toute sa pompe il n'a rien que de bas :
+Si d'abord j'ai souri aux souhaits de ce rustre,
+J'ai cru qu'un rang suprême occupait un Illustre ;
+Mais je prends de l'audace en quittant mon erreur,
+Puisque tout son mérite est d'avoir du bonheur.
+Ce cœur farouche.
+
+-*who_fabrice
+      Ami, sois un peu moins crédule,
+C'est à force d'aimer qu'il paraît ridicule,
+Et je vois aisément par un tel procédé,
+La violente ardeur dont il est obsédé.
+Si tu pouvais l'entendre au moment qu'il s'explique,
+Et qu'il parle au profit de la chose publique,
+Ton oreille charmée, et tes sens interdits,
+Deviendront les garants de ce que je te dis.
+
+**** *book_ *id_II05 *act_II *date_1661 *creator_boursault
+
+-*who_gusman
+Monsieur, je viens
+
+-*who_fabrice
+      Tantôt tu me diras le reste.
+
+-*who_lazarille
+Quel qu'il soit à son sort je veux être funeste,
+De cet Ambassadeur je méprise le rang,
+Je prétends lui planter un poignard dans le flanc.
+
+-*who_gusman
+Fi.
+
+-*who_lazarille
+      Qu'il soit généreux, qu'il ait l'esprit sublime,
+Que chacun le respecte, et que chacun l'estime,
+Pour souffrir que ce bras lui devienne fatal,
+Il suffit qu'il m'outrage, et qu'il soit mon Rival.
+Il verra ce que c'est qu'attaquer Lazarille.
+
+-*who_gusman
+Diable, que j'ai bien fait de quitter la Roupille.
+
+-*who_fabrice
+Mais considère Ami..
+
+-*who_lazarille
+      Tout est considéré,
+Mon voyage à Tolède est déjà différé :
+Dans l'état où je suis je n'ai plus d'autre ennuie,
+Que d'assouvir ma rage aux dépens de sa vie.
+Et s'il était ici dans ce même moment,
+Je saurais l'immoler à mon ressentiment.
+
+-*who_gusman
+Monsieur : ah !
+
+-*who_fabrice
+      Ne crains rien.
+
+-*who_gusman
+      S'il me jette une œillade,
+Et qu'il remarque en moi quelques traits d'Ambassade.
+
+-*who_fabrice
+Cède, cède à celui qui combat ton ardeur,
+Souviens-toi que d'Afrique il est Ambassadeur.
+Songe
+
+-*who_lazarille
+      Pour m'apaiser vainement tu t'efforces,
+Loin d'éteindre mon feu tu redoubles ses forces,
+Et si tu n'avais pas la bonté de m'aimer,
+C'est toi qui contre lui me devrais animer.
+Puis-je ne un même jour sans mourir de tristesse,
+Savoir la mort d'un Père et perdre une Maîtresse ?
+Non, non quelques effets qu'il en puisse avenir,
+L'ambassadeur me choque, et je veux l'en punir.
+Toi qui de ce Rival a vu naître la flamme,
+Ôtes si tu le peux ce dessein de son âme ;
+Sinon sa mort est sûre, et je te le promets.
+Adieu.
+
+**** *book_ *id_II06 *act_II *date_1661 *creator_boursault
+
+-*who_gusman
+      Vas-t'en au Diable, et ne reviens jamais.
+Peste quel avaleur de pois gris ! Dans sa bouche
+Je ne ferais non plus que ferait une mouche.
+
+-*who_fabrice
+D'un autre stratagème il nous faut effrayer :
+Car, suivant ma pensée, il vient de t'effrayer,
+Et tu ne veux plus être Ambassadeur d'Afrique ?
+
+-*who_gusman
+Ci-fait.
+
+-*who_fabrice
+      A m'obliger, ton soin si fort s'applique ?
+
+-*who_gusman
+Et quoi donc !
+
+-*who_fabrice
+      Dès ce soir, tu peux donc, cher Valet.
+
+-*who_gusman
+Vous souhaiter au Diable avec l'autre Argoulet.
+Que votre esprit est prête aux desseins qu'il se forge :
+Qu'au couteau d'un meurtrier j'aille tendre la gorge,
+Et que dans un amour qui me touche fort peu,
+Quand le cœur vous en dit, je sois mis sur le jeu ;
+Nescio vos, Seigneur, car Gusman n'est pas homme,
+Qui pour votre plaisir soit content qu'on l'assomme,
+Et puisqu'en votre amour vous n'êtes pas plus Grec,
+Pour des Ambassadeurs torchez-en vous le bec.
+
+-*who_fabrice
+L'intrigue être si belle, et ne pas la poursuivre !
+
+-*who_gusman
+Vouloir obstinément que je cesse de vivre !
+
+-*who_fabrice
+Mais Gusman
+
+-*who_gusman
+      Mais, Monsieur, je ne suis point d'avis,
+De me faire étrier dessous de beaux habits.
+
+-*who_fabrice
+Quel plaisir peux-tu prendre à commettre ces fautes ?
+
+-*who_gusman
+Un plus grand que de voir qu'on me brise les côtes,
+Car qui d'un coup motel me ferait un présent,
+Me ferait ce me semble un plaisir peu plaisant.
+
+-*who_fabrice
+Au moins sois-moi propice au dessein que j'invente,
+De l'Hôte à mon Rival tu connais la servante ?
+
+-*who_gusman
+À peu près.
+
+-*who_fabrice
+      Tu sais bien si par quelque Louis,
+On peut charmer ses yeux et les rendre éblouis.
+Et si dans mon dessein je me puis servir d'elle.
+
+-*who_gusman
+Préparer de l'argent, c'est une bagatelle,
+On la baise gratis.
+
+-*who_fabrice
+      Réponds mieux à mon sens,
+Et sois plus favorable à l'ardeur que je sens.
+Ma plus pressante envie est de voir Lazarille,
+Quitter l'Andalousie et marcher en Castille,
+Tandis que Stéphanie écoutant mes soupirs,
+Deviendra plus sensible à mes justes désirs ;
+Pour donc précipiter son voyage de Tolède,
+Voyons cette servante, et demandons son aide.
+Mais avant que Gusman fasse rien de nouveau,
+Je veux le faire boire à regorge museau.
+
+-*who_gusman
+De quel vin.
+
+-*who_fabrice
+      Du meilleur.
+
+-*who_gusman
+      Vous avez bien la mine,
+De me faire avaler de ce casse poitrine,
+De ce vin baptisé, que l'on donne aux laquais,
+Qui fait du mal au ventre, et n'enivre jamais.
+
+-*who_fabrice
+Point, je veux que ce soir tu manges à ma table.
+
+-*who_gusman
+Moi ?
+
+-*who_fabrice
+      Toi.
+
+-*who_gusman
+      Pour vous servir j'affronterai le Diable.
+Allons jeter les yeux sur des mets délicats,
+Et caressons ensemble et les pots et les plats.
+
+**** *book_ *id_III01 *act_III *date_1661 *creator_boursault
+
+-*who_servante
+Monsieur, vous voyez bien qu'étant l'heure qu'il est,
+On se loge où l'on peut, et non où l'on se plaît,
+Dans cette Hôtellerie aucun bouge ne chôme,
+Et je ne pense pas que dans tout le Royaume
+On rencontre un Hôtel qui soit plus fréquenté,
+Dans un logis si grand un lit seul est resté ;
+Des deux que vous voyez, le lit vert est le votre,
+Un jeune homme habillé repose dessus l'autre,
+Il est plein de tristesse, allez au petit pas,
+Et faites s'il se peut qu'il ne s'éveille pas.
+
+-*who_henriquez
+Puisque dans le lit vert il faut que je repose,
+De vos soins cette nuit je ne veux autre chose,
+Emportez la chandelle, et me laissez ici.
+
+-*who_servante
+Et vous déshabiller ?
+
+-*who_henriquez
+      N'ayez point ce souci.
+
+-*who_servante
+Mais vous ne verrez goutte, et je crains
+
+-*who_henriquez
+      Il n'importe,
+Laissez-moi seul vous dis-je, et fermez cette porte.
+Surtout n'oubliez pas d'aller chez Ferdinand.
+
+-*who_servante
+Il suffit, son logis est du notre attenant,
+Je ne vous promets rien qu'aisément je ne tienne.
+
+-*who_henriquez
+Il faut qu'un grand matin faire en sorte qu'il vienne,
+Et que de Stéphanie il soit accompagné.
+
+-*who_servante
+c'est assez que vous m'ayez enseigné
+Ce qu'il faut faire.
+
+-*who_henriquez
+      Allez.
+
+-*who_servante
+      J'obéis.
+
+**** *book_ *id_III02 *act_III *date_1661 *creator_boursault
+
+-*who_henriquez
+      La courtière
+Qui du flambeau du jour commence la carrière,
+N'est pas encore prête à faire son retour,
+Il faut donc dans ce lieu que j'attende le jour,
+Et que dessus ce lit je fasse un petit somme :
+Mais de peur qu'en marchant je n'éveille cet homme,
+A ne pas le troubler appliquons notre effort,
+Et cédons au pouvoir du frère de la mort.
+
+**** *book_ *id_III03 *act_III *date_1661 *creator_boursault
+
+-*who_gusman
+Peste tout tourne, où suis-je ? Ô Cambrouse endiablée !
+Qui pour quatre Louis rend ma tête troublée,
+Que Lucifer t'emporte avec ton chien de trou,
+Qui n'est qu'un engin propre à me tordre le cou,
+Je ne puis manier cette lanterne sourde,
+Fallait-il faire Esprit une tête si lourde,
+Loin d'être courageux, je crains une vapeur,
+Et je tremble de peur de donner de la peur,
+Pourtant quoi que je fasse il faut tout entreprendre,
+Sinon pour en donner en tout cas pour en prendre.
+Voyons, mon fils, ton Père Henriquez de Galas,
+Mourut le même jour qu'arriva son trépas :
+Or comme il ne vis plus et qu'il est sous la tombe,
+De peur que chez le Diable en peu d'heure il ne tombe,
+Il faut sans balancer que tu partes demain,
+Pour rendre mille écus dérobez de ma main ;
+Mais réponds à ma voix, c'est ton père
+
+-*who_lazarille
+      Ah ! Mon Père,
+Dont le trépas funeste à causé ma misère,
+Demeurez.
+
+-*who_gusman
+      Quelque sot.
+
+-*who_lazarille
+      Vous fuyez.
+
+-*who_gusman
+      Je sais bien,
+Aussi bien avec toi je ne gagnerais rien.
+
+-*who_lazarille
+Pourquoi me fuir ?
+
+-*who_gusman
+      À tort son esprit s'embarrasse,
+Je fais le même bien que je veux qu'on me fasse,
+Ne m'approche non plus que je veux t'approcher.
+
+-*who_lazarille
+Peut-être ici quelqu'un est venu se cacher,
+Cherchons.
+
+-*who_gusman
+      Où faudra-il qu'à présent je me niche,
+Si tantôt chaque coup vaut écu, je suis riche,
+Je vais être assommé s'il me peut entrevoir.
+
+-*who_lazarille
+Rien ne s'offre à mes yeux que pour me décevoir,
+Et dans l'abîme affreux où mon malheur me plonge,
+Je ne vois rien de vrai que l'image d'un songe,
+Afin que ma douleur puisse un peu s'apaiser,
+Encore quelques moments tâchons de reposer,
+Et gardons à causer du trouble aux autres chambres.
+
+-*who_gusman
+Je ne prétendais pas remporter tous mes membres,
+Et pour m'empêcher d'être Henriquez de Gallas,
+J'aurais volontiers mis les oreilles à bas ;
+Qu'un poltron a de peine à donner de la crainte !
+Emploi de faire peur je te prends par contrainte ;
+Pourtant tu n'as pas lieu de te plaindre de moi,
+Tu veux épouvanter, épouvantable emploi ;
+Et pour mieux faire voir que ta force est extrême,
+Qui te doit exercer épouvante lui-même,
+A parler franchement l'avantage est petit,
+D'avoir peu de cervelle et de faire de l'Esprit,
+Ou plutôt jusqu'ici l'aventure est nouvelle,
+De trouver un esprit qui n'a point de cervelle.
+Cœur poltron, sois cœur brave et t'arme jusqu'au point,
+De donner de la peur et de n'en prendre point,
+En faveur de Fabrice, ô cœur prends cette peine,
+Sois moins cœur de Gusman, que cœur de Capitaine,
+Ou bien à ce dormeur fais connaître à son dam,
+Un cœur de Capitaine en un cœur de Gusman ;
+Me le promets-tu cœur ? Oui j'entends ta réponse,
+Déjà le nez m'en enfle, et le sourcil m'en fronce,
+Et ta haute assurance assure assurément,
+Un trembleur qui tremblait d'avoir du tremblement
+Pour la seconde fois faisons peur. Lazarille,
+Quiconque fait un fils ne fait pas une fille,
+Si bien que je conclus qu'alors que je te fis,
+Ne faisant point de fille, il fallut faire un fils.
+Pour donc à mon repos être utile et prospère,
+Il faut restituer les larcins de ton Père,
+Et partir de Séville à la pointe du jour,
+Pour aller à Tolède établir ton séjour.
+Ton père
+
+-*who_lazarille
+      Quoi, mon Père ? Ah ! Si mon sort vous touche,
+Pour dire encore un mot, daignez ouvrir la bouche,
+Adoucissez l'ennui dont je suis travaillé,
+Parlez.
+
+-*who_gusman
+      Adieu le cœur, puisqu'il est éveillé.
+
+-*who_lazarille
+En quel trouble mon âme est-elle ensevelie ?
+Ô bizarre destin ! Sort fatal !
+
+-*who_gusman
+      C'est folie,
+Pour animer mon cœur j'ai beau faire un effort,
+Je ne suis point vaillant si ce n'est quand il dort.
+
+-*who_lazarille
+Au moins permettez donc que mon œil se défile,
+Et cessez s'il se peut d'affliger Lazarille.
+
+-*who_henriquez
+Lazarille, bons Dieux ! Où je suis insensé ;
+Où ce nom dans ce lieu vient d'être prononcé.
+
+-*who_lazarille
+Je souhaite une chose impossible,
+Qui n'est plus ce qu'un esprit ne peut être visible :
+Mais à mon triste sort soyez moins endurci,
+Et dites pour le moins si vous êtes ici.
+
+-*who_henriquez
+Oui, j'y suis Lazarille.
+
+-*who_gusman
+      Ô surprise effroyable !
+Les Enfers pour me perdre ont vomi quelque Diable,
+Qui pour venger ma fourbe employant ses efforts,
+Châtiera mon esprit aux dépens de mon corps.
+Adieu Gusman.
+
+-*who_lazarille
+      Suffit, mais soulagez ma peine,
+Dites si dans ce lieu c'est moi qui vous amène.
+
+-*who_henriquez
+Nullement.
+
+-*who_gusman
+      En effet, Belzébuth je le crois,
+Tu ne viens pas pour lui, tu ne viens que pour moi.
+
+-*who_lazarille
+Enfin donc ma douleur à votre âme soumise,
+De pouvoir vous toucher la faveur m'est permise,
+Je vous tiens.
+
+-*who_gusman
+      Pauvre Esprit ! Où te fourreras-tu ?
+
+-*who_lazarille
+Vous voyez Lazarille à vos pieds abattu,
+Je veux vous obéir, rien ne m'est difficile,
+Je sais que vous voulez que je quitte Séville,
+J'y consens pour vous plaire, et immole en ce jour,
+M'amour à la nature, et moi-même à l'amour.
+
+-*who_henriquez
+Quel discours ambigu ?
+
+-*who_gusman
+      Que le Diable te gratte,
+Grâce au bon Jupiter je suis hors de ta patte,
+Attrapons quelque coin.
+
+-*who_henriquez
+      Je te tiens mon cher fils.
+
+-*who_gusman
+Je plus infortuné de la troupe d'Esprits,
+Où t'es-tu là rangé ?
+
+-*who_henriquez
+      Quel ennui te possède ?
+Il est vrai que je veux te revoir à Tolède :
+Mais loin qu'en tes projets je te veuille trahir,
+Obéir à l'amour c'est assez m'obéir.
+
+-*who_gusman
+Enfilons la venelle.
+
+-*who_lazarille
+      Ô fortune prospère,
+Obéir à l'amour, c'est vous plaire mon père,
+
+-*who_henriquez
+Sans doute.
+
+-*who_gusman
+      En quel endroit pourrait être mon trou,
+Si j'ouvre ma lanterne ils me rompent le cou,
+Il faut donc se résoudre, ô trop sourde lanterne,
+A ne pas ouvrir de peur qu'on me discerne.
+
+-*who_henriquez
+Parle-moi.
+
+-*who_lazarille
+      pour répondre à l'amour paternel,
+Je dois vous souhaiter un repos éternel ;
+Et qu'à mes vœux ardents le Ciel étant propice,
+Vous sentiez sa clémence, et non pas sa justice.
+
+-*who_henriquez
+C'est mal prendre son temps pour ce triste propos.
+
+-*who_gusman
+Quelle grêle de coups va tomber sur mon dos.
+C'est bien fait, aussi bien je suis trop téméraire,
+Et j'eus trop peu d'esprit quand je le voulus faire.
+
+-*who_lazarille
+Touchant les mille écus autrefois mal acquis,
+Que de restituer je suis par vous requis,
+Puisque pour être heureux il faut être sans tâche,
+Et qu'à vous contenter fortement je m'attache,
+Votre ombre vagabonde aura droit désormais
+De goûter des douceurs qui ne cessent jamais.
+
+-*who_henriquez
+Il a perdu le sens, quelle angoisse mortelle !
+Depuis quel temps, mon fils, n'as-tu plus de cervelle ?
+Hélas !
+
+-*who_lazarille
+      Si mon esprit vous paraît altéré,
+C'est depuis votre mort qu'il est donc égaré ?
+
+-*who_henriquez
+Ma mort !
+
+-*who_gusman
+      D'être rossé je sens approcher l'heure.
+
+-*who_henriquez
+Je sais que dans mon âge il est temps que je meure,
+Nous naissons pour mourir ; mais malgré cette loi
+Mon jour n'est pas venu, je vis.
+
+-*who_lazarille
+      Pardonnez-moi ;
+Vous êtes mort mon Père, et la chose est certaine.
+
+-*who_gusman
+Pour si peu qu'il est mort ce n'en est pas la peine.
+
+-*who_henriquez
+Si je suis mort, c'est donc sans m'en apercevoir :
+Mais de quelle personne as-tu pu le savoir.
+
+-*who_lazarille
+Je tiens de Don Raymond cette triste nouvelle.
+
+-*who_henriquez
+Il faut le détromper, hola de la chandelle.
+
+-*who_gusman
+De la chandelle, hélas ! La feinte va finir,
+J'ai si bien fait le mort qu'il le faut devenir.
+
+-*who_henriquez
+De la clarté, fus donc, hola ! vite mon Maître,
+Dès que tu me verras, tu sauras me connaître.
+
+-*who_lazarille
+Cependant ma frayeur est sans comparaison.
+
+-*who_gusman
+S'il faut faire l'Esprit, faisons le par raison,
+Et tâchons d'éviter les coups qu'on nous prépare.
+
+**** *book_ *id_III04 *act_III *date_1661 *creator_boursault
+
+-*who_hote
+Pourquoi faire Messieurs un si grand tintamarre ?
+D'où vient que du sommeil.
+
+-*who_gusman
+      Mon fils.
+
+-*who_hote
+      Hélas mon Dieu !
+Quel horrible fantôme est gîté dans ce lieu ?
+À moi vite garçons, de la clarté.
+
+-*who_henriquez
+      Je pâme !
+
+-*who_lazarille
+Une peur effroyable a coulé dans mon âme.
+
+-*who_hote
+Je vois d'autre chandelle.
+
+**** *book_ *id_III05 *act_III *date_1661 *creator_boursault
+
+-*who_hote
+      Ah ! Messieurs qu'est-ceci ?
+Parlez.
+
+-*who_henriquez
+      Je n'en sais rien.
+
+-*who_lazarille
+      Je n'en sais rien aussi,
+Tout me devient fatal, Ciel quelle est ma misère !
+Est-ce en vous que je vous l'ombre de feu mon père.
+
+-*who_henriquez
+Tu vois ton père en vie.
+
+-*who_lazarille
+      Hé bien, j'en suis d'accord,
+Vous qui donc êtes-vous ?
+
+-*who_gusman
+      Je suis ton père mort,
+Oui, je suis, ô garçon ! Qui de moi voulut naître,
+Aussi bien trépassé qu'aucun autre puisse être.
+
+-*who_lazarille
+Tout me confond, mon trouble est plus fort que devant ;
+Enfin mon père mort, ou mon père vivant,
+Si de vous, ou de vous je reçus la naissance,
+Donnez-m'en l'un ou l'autre une claire apparence.
+
+-*who_henriquez
+Dans les traits de ton père envisage les tiens.
+
+-*who_gusman
+La mort que j'ai soufferte a changé tous les miens,
+C'est un monstre infernal revêtu de ma forme.
+
+-*who_lazarille
+Est-il vrai que je veille, ou si c'est que je dorme.
+
+-*who_henriquez
+Tu te laisses surprendre, et ne m'écoute pas.
+
+-*who_lazarille
+Que direz-vous, mon père a souffert le trépas,
+J'en suis certain.
+
+-*who_gusman
+      D'accord.
+
+-*who_henriquez
+      En vain donc je te prêche,
+
+-*who_gusman
+De rentrer dans mon trou l'un et l'autre m'empêche,
+J'en enrage.
+
+-*who_lazarille
+      Il est temps de finir ma douleur,
+L'un des deux est sans doute, ou Sorcier, ou Voleur.
+
+-*who_hote
+C'est ma pensée, et l'ombre en a bien l'encolure.
+
+-*who_gusman
+Ah ! Gros ventre de son, qui me fait une injure,
+Malheur sur la maison de qui choque les morts.
+
+-*who_lazarille
+Qui des deux soit mon père, excusez mes efforts.
+
+-*who_gusman
+À mon secours, mon Maître, on me veut mener pendre.
+
+**** *book_ *id_III06 *act_III *date_1661 *creator_boursault
+
+-*who_fabrice
+Ne crains rien, je parais, et je viens te défendre.
+
+-*who_lazarille
+Fabrice ! Ô juste Ciel !
+
+-*who_fabrice
+      C'est Fabrice en effet,
+Qui fut de tes amis toujours le plus parfait ;
+Mais qui cesse de l'être en son malheur extrême,
+Puisqu'il trouve un Rival dans un autre soi-même.
+Celui qui cette nuit t'a causé de la peur,
+Dès hier était d'Afrique un faux Ambassadeur ;
+C'est Gusman mon Valet dont tu vois la figure,
+Qui de ton oncle même imita l'écriture,
+Et qui pour t'éloigner d'un objet plein d'appas,
+De ton père vivant t'annonça le trépas.
+
+-*who_lazarille
+Déloyal confident d'une ardeur infinie,
+Quoi ! Ton cœur en secret brûle pour Stéphanie ?
+Tu l'aimes !
+
+-*who_henriquez
+      Stéphanie !
+
+-*who_fabrice
+      Oui ! J'en suis amoureux,
+Cette beauté charmante est l'objet de mes vœux.
+
+-*who_lazarille
+Je l'aime aussi Fabrice, et je sais qu'elle m'aime,
+Et j'attends des Dieux la puissance suprême..
+
+-*who_henriquez
+Point de serments, mon fils, vous Fabrice espérez.
+
+-*who_lazarille
+Quoi vous voulez ma perte et vous l'en assurez ?
+Un Père m'opprimer, consentir à ma peine :
+Mais, ô Dieux ! j'aperçois Ferdinand qui l'amène,
+Qu'est-ceci !
+
+-*who_fabrice
+      Juste Ciel !
+
+**** *book_ *id_III07 *act_III *date_1661 *creator_boursault
+
+-*who_henriquez
+      Approchez bon vieillard.
+
+-*who_ferdinand
+Vous ai-je pas, Monsieur, déjà vu quelque part ?
+
+-*who_henriquez
+Cela peut.
+
+-*who_ferdinand
+      J'ignore en quel lieu ce peut être.
+
+-*who_henriquez
+Cette moitié d'anneau vous le fera connaître.
+
+-*who_lazarille
+Qu'entends-je ?
+
+-*who_ferdinand
+      C'est donc vous ? Ah ! Je vous reconnais.
+
+-*who_henriquez
+ne cherchez désormais votre Père qu'en moi,
+Je le suis, Stéphanie.
+
+-*who_fabrice
+      Ô bonheur !
+
+-*who_lazarille
+      Ô disgrâce !
+
+-*who_stephanie
+Vous, mon Père !
+
+-*who_ferdinand
+      Lui-même.
+
+-*who_henriquez
+      Ah ! Que je vous embrasse
+Ma fille. Lazarille amortis ton ardeur,
+Au lieu d'une Maîtresse envisage une Sœur.
+
+-*who_ferdinand
+Une Sœur, je la tiens
+
+-*who_stephanie
+      Quoi, vous êtes son père ?
+
+-*who_lazarille
+Il l'est ; De votre amant il devient votre frère,
+Quel besoin aviez-vous de cacher si longtemps.
+
+-*who_henriquez
+Ailleurs je t'en dirai les secrets importants,
+Ce bonhomme sait tout. Cependant de Fabrice,
+Ma chère Stéphanie acceptez le service.
+
+-*who_ferdinand
+Mais, Monsieur, j'espérais
+
+-*who_henriquez
+      Il est juste, espérez.
+
+-*who_ferdinand
+Mon ardeur
+
+-*who_henriquez
+      M'est connue.
+
+-*who_ferdinand
+      Et de plus vous saurez
+
+-*who_henriquez
+Il suffit ; vous verrez que je suis raisonnable.
+
+-*who_ferdinand
+Que plutôt ne te vois-je emporter par le Diable :
+Ah ! Je suis mort.
+
+-*who_gusman
+      Fort bien, notre espoir décevant,
+Te fait le Vivant Mort, et moi le MORT VIVANT.

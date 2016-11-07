@@ -1,8 +1,46 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Don Juan, ou Le Festin de Pierre</title>
+        <title type="sub">Comédie</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>Publié par Paul Fièvre en juillet 2009 et révisé en mai 2015, révision en 2015 par Amélie Canu et Oriane Morvan</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2009"/>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_dom-juan/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1665" type="created">1665</date>
+        <date when="1682" type="issued">1682</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div1 type="act" n="1" xml:id="I">
+        <head>Acte I</head>
         <div2 type="scene" n="1" xml:id="I01">
+          <head>Scène I</head>
           <sp who="sganarelle" xml:id="I01-1">
             <p>
               <s>Quoi que puisse dire Aristote et toute la Philosophie, il n’est rien d’égal au tabac : c’est la passion des honnêtes gens, et qui vit sans tabac n’est pas digne de vivre.</s>
@@ -16,7 +54,7 @@
               <s>J’ai peur qu’elle ne soit mal payée de son amour, que son voyage en cette ville produise peu de fruit, et que vous eussiez autant gagné à ne bouger de là.</s>
             </p>
           </sp>
-          <sp who="GUSMAN" xml:id="I01-2">
+          <sp who="gusman" xml:id="I01-2">
             <p>
               <s>Et la raison encore ?</s>
               <s>Dis-moi, je te prie, Sganarelle, qui peut t’inspirer une peur d’un si mauvais augure ?</s>
@@ -29,7 +67,7 @@
               <s>Je pourrais peut-être me tromper ; mais enfin, sur de tels sujets, l’expérience m’a pu donner quelques lumières.</s>
             </p>
           </sp>
-          <sp who="GUSMAN" xml:id="I01-4">
+          <sp who="gusman" xml:id="I01-4">
             <p>
               <s>Quoi ?</s>
               <s>Ce départ si peu prévu serait une infidélité de Don Juan ?</s>
@@ -41,7 +79,7 @@
               <s>Non, c’est qu’il est jeune encore, et qu’il n’a pas le courage...</s>
             </p>
           </sp>
-          <sp who="GUSMAN" xml:id="I01-6">
+          <sp who="gusman" xml:id="I01-6">
             <p>
               <s>Un homme de sa qualité ferait une action si lâche ?</s>
             </p>
@@ -52,7 +90,7 @@
               <s>La raison en est belle, et c’est par là qu’il s’empêcherait des choses.</s>
             </p>
           </sp>
-          <sp who="GUSMAN" xml:id="I01-8">
+          <sp who="gusman" xml:id="I01-8">
             <p>
               <s>Mais les saints nœuds du mariage le tiennent engagé.</s>
             </p>
@@ -63,7 +101,7 @@
               <s>mon pauvre Gusman, mon ami, tu ne sais pas encore, crois-moi, quel homme est Don Juan.</s>
             </p>
           </sp>
-          <sp who="GUSMAN" xml:id="I01-10">
+          <sp who="gusman" xml:id="I01-10">
             <p>
               <s>Je ne sais pas, de vrai, quel homme il peut être, s’il faut qu’il nous ait fait cette perfidie ; et je ne comprends point comme après tant d’amour et tant d’impatience témoignée, tant d’hommages pressants, de vœux, de soupirs et de larmes, tant de lettres passionnées, de protestations ardentes et de serments réitérés, tant de transports enfin et tant d’emportements qu’il a fait paraître, jusqu’à forcer, dans sa passion, l’obstacle sacré d’un couvent, pour mettre Done Elvire en sa puissance, je ne comprends pas, dis-je, comme, après tout cela, il aurait le cœur de pouvoir manquer à sa parole.</s>
             </p>
@@ -84,7 +122,8 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="I02">
-          <sp who="DONJUAN" xml:id="I02-1">
+          <head>Scène II</head>
+          <sp who="donjuan" xml:id="I02-1">
             <p>
               <s>Quel homme te parlait là ?</s>
               <s>Il a bien de l’air, ce me semble, du bon Gusman de Done Elvire.</s>
@@ -95,7 +134,7 @@
               <s>C’est quelque chose aussi à peu près de cela.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-3">
+          <sp who="donjuan" xml:id="I02-3">
             <p>
               <s>Quoi ?</s>
               <s>C’est lui ?</s>
@@ -106,7 +145,7 @@
               <s>Lui-même.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-5">
+          <sp who="donjuan" xml:id="I02-5">
             <p>
               <s>Et depuis quand est-il en cette ville ?</s>
             </p>
@@ -116,7 +155,7 @@
               <s>D’hier au soir.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-7">
+          <sp who="donjuan" xml:id="I02-7">
             <p>
               <s>Et quel sujet l’amène ?</s>
             </p>
@@ -126,7 +165,7 @@
               <s>Je crois que vous jugez assez ce qui le peut inquiéter.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-9">
+          <sp who="donjuan" xml:id="I02-9">
             <p>
               <s>Notre départ sans doute ?</s>
             </p>
@@ -136,7 +175,7 @@
               <s>Le bonhomme en est tout mortifié, et m’en demandait le sujet.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-11">
+          <sp who="donjuan" xml:id="I02-11">
             <p>
               <s>Et quelle réponse as-tu faite ?</s>
             </p>
@@ -146,7 +185,7 @@
               <s>Que vous ne m’en aviez rien dit.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-13">
+          <sp who="donjuan" xml:id="I02-13">
             <p>
               <s>Mais encore, quelle est ta pensée là-dessus ?</s>
               <s>Que t’imagines-tu de cette affaire ?</s>
@@ -157,7 +196,7 @@
               <s>Moi, je crois, sans vous faire tort, que vous avez quelque nouvel amour en tête.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-15">
+          <sp who="donjuan" xml:id="I02-15">
             <p>
               <s>Tu le crois ?</s>
             </p>
@@ -167,7 +206,7 @@
               <s>Oui.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-17">
+          <sp who="donjuan" xml:id="I02-17">
             <p>
               <s>Ma foi !</s>
               <s>Tu ne te trompes pas, et je dois t’avouer qu’un autre objet a chassé Elvire de ma pensée.</s>
@@ -180,7 +219,7 @@
               <s>Je sais mon Don Juan sur le bout du doigt, et connais votre cœur pour le plus grand coureur du monde : il se plaît à se promener de liens en liens, et n’aime guère demeurer en place.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-19">
+          <sp who="donjuan" xml:id="I02-19">
             <p>
               <s>Et ne trouves-tu pas, dis-moi, que j’ai raison d’en user de la sorte ?</s>
             </p>
@@ -191,7 +230,7 @@
               <s>Monsieur.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-21">
+          <sp who="donjuan" xml:id="I02-21">
             <p>
               <s>Quoi ?</s>
               <s>Parle.</s>
@@ -203,7 +242,7 @@
               <s>Mais si vous ne le vouliez pas, ce serait peut-être une autre affaire.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-23">
+          <sp who="donjuan" xml:id="I02-23">
             <p>
               <s>Eh bien !</s>
               <s>Je te donne la liberté de parler et de me dire tes sentiments.</s>
@@ -214,7 +253,7 @@
               <s>En ce cas, Monsieur, je vous dirai franchement que je n’approuve point votre méthode, et que je trouve fort vilain d’aimer de tous côtés comme vous faites.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-25">
+          <sp who="donjuan" xml:id="I02-25">
             <p>
               <s>Quoi ?</s>
               <s>Tu veux qu’on se lie à demeurer au premier objet qui nous prend, qu’on renonce au monde pour lui, et qu’on n’ait plus d’yeux pour personne ?</s>
@@ -236,7 +275,7 @@
               <s>Il semble que vous avez appris cela par cœur, et vous parlez tout comme un livre.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-27">
+          <sp who="donjuan" xml:id="I02-27">
             <p>
               <s>Qu’as-tu à dire là-dessus ?</s>
             </p>
@@ -250,7 +289,7 @@
               <s>Laissez faire : une autre fois je mettrai mes raisonnements par écrit, pour disputer avec vous.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-29">
+          <sp who="donjuan" xml:id="I02-29">
             <p>
               <s>Tu feras bien.</s>
             </p>
@@ -260,7 +299,7 @@
               <s>Mais, Monsieur, cela serait-il de la permission que vous m’avez donnée, si je vous disais que je suis tant soit peu scandalisé de la vie que vous menez ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-31">
+          <sp who="donjuan" xml:id="I02-31">
             <p>
               <s>Comment ?</s>
               <s>Quelle vie est-ce que je mène ?</s>
@@ -272,7 +311,7 @@
               <s>Mais, par exemple, de vous voir tous les mois vous marier comme vous faites...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-33">
+          <sp who="donjuan" xml:id="I02-33">
             <p>
               <s>Y a-t-il rien de plus agréable ?</s>
             </p>
@@ -282,7 +321,7 @@
               <s>Il est vrai, je conçois que cela est fort agréable et fort divertissant, et je m’en accommoderais assez, moi, s’il n’y avait point de mal, mais, Monsieur, se jouer ainsi d’un mystère sacré, et...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-35">
+          <sp who="donjuan" xml:id="I02-35">
             <p>
               <s>Va, va, c’est une affaire entre le Ciel et moi, et nous la démêlerons bien ensemble, sans que tu t’en mettes en peine.</s>
             </p>
@@ -293,7 +332,7 @@
               <s>Monsieur, j’ai toujours ouï dire, que c’est une méchante raillerie que de se railler du Ciel, et que les libertins ne font jamais une bonne fin.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-37">
+          <sp who="donjuan" xml:id="I02-37">
             <p>
               <s>Holà !</s>
               <s>Maître sot, vous savez que je vous ai dit que je n’aime pas les faiseurs de remontrances.</s>
@@ -308,7 +347,7 @@
               <s>Apprenez de moi, qui suis votre valet, que le Ciel punit tôt ou tard les impies, qu’une méchante vie amène une méchante mort, et que...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-39">
+          <sp who="donjuan" xml:id="I02-39">
             <p>
               <s>Paix !</s>
             </p>
@@ -318,7 +357,7 @@
               <s>De quoi est-il question ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-41">
+          <sp who="donjuan" xml:id="I02-41">
             <p>
               <s>Il est question de te dire qu’une beauté me tient au cœur, et qu’entraîné par ses appas, je l’ai suivie jusques en cette ville.</s>
             </p>
@@ -328,7 +367,7 @@
               <s>Et n’y craignez-vous rien, Monsieur, de la mort de ce commandeur que vous tuâtes il y a six mois ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-43">
+          <sp who="donjuan" xml:id="I02-43">
             <p>
               <s>Et pourquoi craindre ?</s>
               <s>Ne l’ai-je pas bien tué ?</s>
@@ -339,7 +378,7 @@
               <s>Fort bien, le mieux du monde, et il aurait tort de se plaindre.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-45">
+          <sp who="donjuan" xml:id="I02-45">
             <p>
               <s>J’ai eu ma grâce de cette affaire.</s>
             </p>
@@ -349,7 +388,7 @@
               <s>Oui, mais cette grâce n’éteint pas peut-être le ressentiment des parents et des amis, et...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-47">
+          <sp who="donjuan" xml:id="I02-47">
             <p>
               <s>Ah !</s>
               <s>N’allons point songer au mal qui nous peut arriver, et songeons seulement à ce qui nous peut donner du plaisir.</s>
@@ -367,7 +406,7 @@
               <s>Monsieur...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-49">
+          <sp who="donjuan" xml:id="I02-49">
             <p>
               <s>Hen ?</s>
             </p>
@@ -378,7 +417,7 @@
               <s>Il n’est rien tel en ce monde que de se contenter.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-51">
+          <sp who="donjuan" xml:id="I02-51">
             <p>
               <s>Prépare-toi donc à venir avec moi, et prends soin toi-même d’apporter toutes mes armes, afin que...</s>
               <s>Ah !</s>
@@ -391,25 +430,26 @@
               <s>Monsieur, vous ne me l’avez pas demandé.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I02-53">
+          <sp who="donjuan" xml:id="I02-53">
             <p>
               <s>Est-elle folle, de n’avoir pas changé d’habit, et de venir en ce lieu-ci avec son équipage de campagne ?</s>
             </p>
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="I03">
-          <sp who="ELVIRE" xml:id="I03-1">
+          <head>Scène III</head>
+          <sp who="elvire" xml:id="I03-1">
             <p>
               <s>Me ferez-vous la grâce, Don Juan, de vouloir bien me reconnaître ?</s>
               <s>Et puis-je au moins espérer que vous daigniez tourner le visage de ce côté ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I03-2">
+          <sp who="donjuan" xml:id="I03-2">
             <p>
               <s>Madame, je vous avoue que je suis surpris, et que je ne vous attendais pas ici.</s>
             </p>
           </sp>
-          <sp who="ELVIRE" xml:id="I03-3">
+          <sp who="elvire" xml:id="I03-3">
             <p>
               <s>Oui, je vois bien que vous ne m’y attendiez pas ; et vous êtes surpris, à la vérité, mais tout autrement que je ne l’espérais ; et la manière dont vous le paraissez me persuade pleinement ce que je refusais de croire.</s>
               <s>J’admire ma simplicité et la faiblesse de mon cœur à douter d’une trahison que tant d’apparences me confirmaient.</s>
@@ -421,7 +461,7 @@
               <s>Parlez, Don Juan, je vous prie, et voyons de quel air vous saurez vous justifier !</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I03-4">
+          <sp who="donjuan" xml:id="I03-4">
             <p>
               <s>Madame, voilà Sganarelle qui sait pourquoi je suis parti.</s>
             </p>
@@ -432,14 +472,14 @@
               <s>Je n’en sais rien, s’il vous plaît.</s>
             </p>
           </sp>
-          <sp who="ELVIRE" xml:id="I03-6">
+          <sp who="elvire" xml:id="I03-6">
             <p>
               <s>Hé bien !</s>
               <s>Sganarelle, parlez.</s>
               <s>Il n’importe de quelle bouche j’entende ces raisons.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I03-7">
+          <sp who="donjuan" xml:id="I03-7">
             <p>
               <s>Allons, parle donc à Madame.</s>
             </p>
@@ -449,12 +489,12 @@
               <s>Que voulez-vous que je dise ?</s>
             </p>
           </sp>
-          <sp who="ELVIRE" xml:id="I03-9">
+          <sp who="elvire" xml:id="I03-9">
             <p>
               <s>Approchez, puisqu’on le veut ainsi, et me dites un peu les causes d’un départ si prompt.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I03-10">
+          <sp who="donjuan" xml:id="I03-10">
             <p>
               <s>Tu ne répondras pas ?</s>
             </p>
@@ -465,7 +505,7 @@
               <s>Vous vous moquez de votre serviteur.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I03-12">
+          <sp who="donjuan" xml:id="I03-12">
             <p>
               <s>Veux-tu répondre, te dis-je ?</s>
             </p>
@@ -475,7 +515,7 @@
               <s>Madame...</s>
             </p>
           </sp>
-          <sp who="ELVIRE" xml:id="I03-14">
+          <sp who="elvire" xml:id="I03-14">
             <p>
               <s>Quoi ?</s>
             </p>
@@ -485,7 +525,7 @@
               <s>Monsieur...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I03-16">
+          <sp who="donjuan" xml:id="I03-16">
             <p>
               <s>Si...</s>
             </p>
@@ -496,17 +536,17 @@
               <s>Voilà, Monsieur, tout ce que je puis dire.</s>
             </p>
           </sp>
-          <sp who="ELVIRE" xml:id="I03-18">
+          <sp who="elvire" xml:id="I03-18">
             <p>
               <s>Vous plaît-il, Don juan, nous éclaircir ces beaux mystères ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I03-19">
+          <sp who="donjuan" xml:id="I03-19">
             <p>
               <s>Madame, à vous dire la vérité...</s>
             </p>
           </sp>
-          <sp who="ELVIRE" xml:id="I03-20">
+          <sp who="elvire" xml:id="I03-20">
             <p>
               <s>Ah !</s>
               <s>Que vous savez mal vous défendre pour un homme de cour, et qui doit être accoutumé à ces sortes de choses !</s>
@@ -517,7 +557,7 @@
               <s>Voilà comme il faut vous défendre ; et non pas être interdit comme vous êtes.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I03-21">
+          <sp who="donjuan" xml:id="I03-21">
             <p>
               <s>Je vous avoue, Madame, que je n’ai point le talent de dissimuler, et que je porte un cœur sincère.</s>
               <s>Je ne vous dirai point que je suis toujours dans les mêmes sentiments pour vous, et que je brûle de vous rejoindre, puisque enfin il est assuré que je ne suis parti que pour vous fuir ; non point par les raisons que vous pouvez vous figurer, mais par un pur motif de conscience, et pour ne croire pas qu’avec vous davantage je puisse vivre sans péché.</s>
@@ -527,14 +567,14 @@
               <s>Voudriez-vous, Madame, vous opposer à une si sainte pensée, et que j’allasse, en vous retenant, me mettre le Ciel sur les bras, que par... ?</s>
             </p>
           </sp>
-          <sp who="ELVIRE" xml:id="I03-22">
+          <sp who="elvire" xml:id="I03-22">
             <p>
               <s>Ah !</s>
               <s>scélérat, c’est maintenant que je te connais tout entier ; et pour mon malheur, je te connais lorsqu’il n’en est plus temps, et qu’une telle connaissance ne peut plus me servir qu’à me désespérer.</s>
               <s>Mais sache que ton crime ne demeurera pas impuni, et que le même Ciel dont tu te joues me saura venger de ta perfidie.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I03-23">
+          <sp who="donjuan" xml:id="I03-23">
             <p>
               <s>Sganarelle, le Ciel !</s>
             </p>
@@ -544,12 +584,12 @@
               <s>Vraiment oui, nous nous moquons bien de cela, nous autres.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I03-25">
+          <sp who="donjuan" xml:id="I03-25">
             <p>
               <s>Madame...</s>
             </p>
           </sp>
-          <sp who="ELVIRE" xml:id="I03-26">
+          <sp who="elvire" xml:id="I03-26">
             <p>
               <s>Il suffit.</s>
               <s>Je n’en veux pas ouïr davantage, et je m’accuse même d’en avoir trop entendu.</s>
@@ -563,7 +603,7 @@
               <s>Si le remords le pouvait prendre !</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="I03-28">
+          <sp who="donjuan" xml:id="I03-28">
             <p>
               <s>Allons songer à l’exécution de notre entreprise amoureuse.</s>
             </p>
@@ -577,7 +617,9 @@
         </div2>
       </div1>
       <div1 type="act" n="2" xml:id="II">
+        <head>Acte II</head>
         <div2 type="scene" n="1" xml:id="II01">
+          <head>Scène I</head>
           <sp who="charlotte" xml:id="II01-1">
             <p>
               <s>Nostre-dinse, Piarrot, tu t’es trouvé là bien à point.</s>
@@ -870,7 +912,8 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="II02">
-          <sp who="DONJUAN" xml:id="II02-1">
+          <head>Scène II</head>
+          <sp who="donjuan" xml:id="II02-1">
             <p>
               <s>Nous avons manqué notre coup, Sganarelle, et cette bourrasque imprévue a renversé avec notre barque le projet que nous avions fait ; mais, à te dire vrai, la paysanne que je viens de quitter répare ce malheur, et je lui ai trouvé des charmes qui effacent de mon esprit tout le chagrin que me donnait le mauvais succès de notre entreprise.</s>
               <s>Il ne faut pas que ce cœur m’échappe, et j’y ai déjà jeté des dispositions à ne pas me souffrir longtemps de pousser des soupirs.</s>
@@ -885,7 +928,7 @@
               <s>Allons.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-3">
+          <sp who="donjuan" xml:id="II02-3">
             <p>
               <s>Ah !</s>
               <s>Ah !</s>
@@ -900,7 +943,7 @@
               <s>Autre pièce nouvelle.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-5">
+          <sp who="donjuan" xml:id="II02-5">
             <p>
               <s>D’où me vient, la belle, une rencontre si agréable ?</s>
               <s>Quoi ?</s>
@@ -912,7 +955,7 @@
               <s>Vous voyez, Monsieur.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-7">
+          <sp who="donjuan" xml:id="II02-7">
             <p>
               <s>Etes-vous de ce village ?</s>
             </p>
@@ -922,7 +965,7 @@
               <s>Oui, Monsieur.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-9">
+          <sp who="donjuan" xml:id="II02-9">
             <p>
               <s>Et vous y demeurez ?</s>
             </p>
@@ -932,7 +975,7 @@
               <s>Oui, Monsieur.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-11">
+          <sp who="donjuan" xml:id="II02-11">
             <p>
               <s>Vous vous appelez ?</s>
             </p>
@@ -942,7 +985,7 @@
               <s>Charlotte, pour vous servir.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-13">
+          <sp who="donjuan" xml:id="II02-13">
             <p>
               <s>Ah !</s>
               <s>La belle personne, et que ses yeux sont pénétrants !</s>
@@ -953,7 +996,7 @@
               <s>Monsieur, vous me rendez toute honteuse.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-15">
+          <sp who="donjuan" xml:id="II02-15">
             <p>
               <s>Ah !</s>
               <s>N’ayez point de honte d’entendre dire vos vérités.</s>
@@ -979,7 +1022,7 @@
               <s>Monsieur, cela vous plaît à dire, et je ne sais pas si c’est pour vous railler de moi.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-17">
+          <sp who="donjuan" xml:id="II02-17">
             <p>
               <s>Moi, me railler de vous ?</s>
               <s>Dieu m’en garde !</s>
@@ -991,7 +1034,7 @@
               <s>Je vous suis bien obligée, si ça est.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-19">
+          <sp who="donjuan" xml:id="II02-19">
             <p>
               <s>Point du tout ; vous ne m’êtes point obligée de tout ce que je dis, et ce n’est qu’à votre beauté que vous en êtes redevable.</s>
             </p>
@@ -1001,7 +1044,7 @@
               <s>Monsieur, tout ça est trop bien dit pour moi, et je n’ai pas d’esprit pour vous répondre.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-21">
+          <sp who="donjuan" xml:id="II02-21">
             <p>
               <s>Sganarelle, regarde un peu ses mains.</s>
             </p>
@@ -1012,7 +1055,7 @@
               <s>Monsieur, elles sont noires comme je ne sais quoi.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-23">
+          <sp who="donjuan" xml:id="II02-23">
             <p>
               <s>Ha !</s>
               <s>Que dites-vous là ?</s>
@@ -1024,7 +1067,7 @@
               <s>Monsieur, c’est trop d’honneur que vous me faites, et si j’avqis su ça tantôt, je n’aurais pas manqué de les laver avec du son.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-25">
+          <sp who="donjuan" xml:id="II02-25">
             <p>
               <s>Et dites-moi un peu, belle Charlotte, vous n’êtes pas mariée sans doute ?</s>
             </p>
@@ -1034,7 +1077,7 @@
               <s>Non, Monsieur ; mais je dois bientôt l’être avec Piarrot, le fils de la voisine Simonette.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-27">
+          <sp who="donjuan" xml:id="II02-27">
             <p>
               <s>Quoi ?</s>
               <s>Une personne comme vous serait la femme d’un simple paysan !</s>
@@ -1050,7 +1093,7 @@
               <s>Ce que vous dites me fait aise, et j’aurais toutes les envies du monde de vous croire ; mais on m’a toujou dit qu’il ne faut jamais croire les Monsieux, et que vous autres courtisans êtes des enjoleus, qui ne songez qu’à abuser les filles.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-29">
+          <sp who="donjuan" xml:id="II02-29">
             <p>
               <s>Je ne suis pas de ces gens-là.</s>
             </p>
@@ -1066,7 +1109,7 @@
               <s>Je suis une pauvre paysanne ; mais j’ai l’honneur en recommandation, et j’aimerais mieux me voir morte, que de me voir déshonorée.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-32">
+          <sp who="donjuan" xml:id="II02-32">
             <p>
               <s>Moi, j’aurais l’âme assez méchante pour abuser une personne comme vous ?</s>
               <s>Je serais assez lâche pour vous déshonorer ?</s>
@@ -1080,7 +1123,7 @@
               <s>Non, non, ne craignez point : il se mariera avec vous tant que vous voudrez.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-34">
+          <sp who="donjuan" xml:id="II02-34">
             <p>
               <s>Ah !</s>
               <s>Charlotte, je vois bien que vous ne me connaissez pas encore.</s>
@@ -1095,7 +1138,7 @@
               <s>Je ne sais si vous dites vrai, ou non ; mais vous faites que l’on vous croit.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-36">
+          <sp who="donjuan" xml:id="II02-36">
             <p>
               <s>Lorsque vous me croirez, vous me rendrez justice assurément, et je vous réitère encore la promesse que je vous ai faite.</s>
               <s>Ne l’acceptez-vous pas, et ne voulez-vous pas consentir à être ma femme ?</s>
@@ -1106,7 +1149,7 @@
               <s>Oui, pourvu que ma tante le veuille.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-38">
+          <sp who="donjuan" xml:id="II02-38">
             <p>
               <s>Touchez donc là, Charlotte, puisque vous le voulez bien de votre part.</s>
             </p>
@@ -1116,7 +1159,7 @@
               <s>Mais au moins, Monsieur, ne m’allez pas tromper, je vous prie : il y aurait de la conscience à vous, et vous voyez comme j’y vais à la bonne foi.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-40">
+          <sp who="donjuan" xml:id="II02-40">
             <p>
               <s>Comment ?</s>
               <s>Il semble que vous doutiez encore de ma sincérité !</s>
@@ -1129,7 +1172,7 @@
               <s>Mon Dieu, ne jurez point, je vous crois.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-42">
+          <sp who="donjuan" xml:id="II02-42">
             <p>
               <s>Donnez-moi donc un petit baiser pour gage de votre parole.</s>
             </p>
@@ -1140,7 +1183,7 @@
               <s>Monsieur, attendez que je soyons mariés, je vous prie ; après, ça, je vous baiserai tant que vous voudrez.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II02-44">
+          <sp who="donjuan" xml:id="II02-44">
             <p>
               <s>Eh bien !</s>
               <s>Belle Charlotte, je veux : tout ce que vous voulez abandonnez-moi seulement votre main, et souffrez que, par mille baisers, je lui exprime le ravissement où je suis...</s>
@@ -1148,13 +1191,14 @@
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="II03">
+          <head>Scène III</head>
           <sp who="pierrot" xml:id="II03-1">
             <p>
               <s>Tout doucement, Monsieur, tenez-vous, s’il vous plaît.</s>
               <s>Vous vous échauffez trop, et vous pourriez gagner la Puresie.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II03-2">
+          <sp who="donjuan" xml:id="II03-2">
             <p>
               <s>Qui m’amène cet impertinent ?</s>
             </p>
@@ -1164,7 +1208,7 @@
               <s>Je vous dis qu’ou vous tegniez, et qu’ou ne caressiais point nos accordées.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II03-4">
+          <sp who="donjuan" xml:id="II03-4">
             <p>
               <s>Ah !</s>
               <s>Que de bruit !</s>
@@ -1188,7 +1232,7 @@
               <s>Je ne veux pas, moi.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II03-8">
+          <sp who="donjuan" xml:id="II03-8">
             <p>
               <s>Ah !</s>
             </p>
@@ -1200,7 +1244,7 @@
               <s>Allez-v’s-en caresser les vôtres.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II03-10">
+          <sp who="donjuan" xml:id="II03-10">
             <p>
               <s>Heu ?</s>
             </p>
@@ -1277,7 +1321,7 @@
               <s>Si j’avais su ça tantost, je me serais bian gardé de le tirer de gliau, et je gli aurois baillé un bon coup d’aviron sur la teste.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II03-20">
+          <sp who="donjuan" xml:id="II03-20">
             <p>
               <s>Qu’est-ce que vous dites ?</s>
             </p>
@@ -1288,7 +1332,7 @@
               <s>Je ne crains personne.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II03-22">
+          <sp who="donjuan" xml:id="II03-22">
             <p>
               <s>Attendez-moi un peu.</s>
             </p>
@@ -1298,7 +1342,7 @@
               <s>Je me moque de tout, moi.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II03-24">
+          <sp who="donjuan" xml:id="II03-24">
             <p>
               <s>Voyons cela.</s>
             </p>
@@ -1308,7 +1352,7 @@
               <s>J’en avons bien vu d’autres.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II03-26">
+          <sp who="donjuan" xml:id="II03-26">
             <p>
               <s>Houais !</s>
             </p>
@@ -1326,7 +1370,7 @@
               <s>Je veux lui dire, moi.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II03-29">
+          <sp who="donjuan" xml:id="II03-29">
             <p>
               <s>Ah !</s>
               <s>Je vous apprendrai.</s>
@@ -1337,7 +1381,7 @@
               <s>Peste soit du maroufle !</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II03-31">
+          <sp who="donjuan" xml:id="II03-31">
             <p>
               <s>Te voilà payé de ta charité.</s>
             </p>
@@ -1348,7 +1392,7 @@
               <s>Je vas dire à sa tante tout ce ménage-ci.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II03-33">
+          <sp who="donjuan" xml:id="II03-33">
             <p>
               <s>Enfin je m’en vais être le plus heureux de tous les hommes, et je ne changerais pas mon bonheur à toutes les choses du monde.</s>
               <s>Que de plaisirs quand vous serez ma femme !</s>
@@ -1357,6 +1401,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="II04">
+          <head>Scène IV</head>
           <sp who="sganarelle" xml:id="II04-1">
             <p>
               <s>Ah !</s>
@@ -1369,7 +1414,7 @@
               <s>Est-ce que vous lui parlez d’amour aussi ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-3">
+          <sp who="donjuan" xml:id="II04-3">
             <p>
               <s>Non, au contraire, c’est elle qui me témoignait une envie d’être ma femme, et je lui répondais que j’étais engagé à vous.</s>
             </p>
@@ -1379,7 +1424,7 @@
               <s>Qu’est-ce que c’est donc que vous veut Mathurine ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-5">
+          <sp who="donjuan" xml:id="II04-5">
             <p>
               <s>Elle est jalouse de me voir vous parler, et voudrait bien que je l’épousasse ; mais je lui dis que c’est vous que je veux, Mathurine.</s>
             </p>
@@ -1390,7 +1435,7 @@
               <s>Charlotte...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-7">
+          <sp who="donjuan" xml:id="II04-7">
             <p>
               <s>Tout ce que vous lui direz sera inutile ; elle s’est mis cela dans la tête.</s>
             </p>
@@ -1401,7 +1446,7 @@
               <s>Mathurine...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-9">
+          <sp who="donjuan" xml:id="II04-9">
             <p>
               <s>C’est en vain que vous lui parlerez ; vous ne lui ôterez point cette fantaisie.</s>
             </p>
@@ -1411,7 +1456,7 @@
               <s>Est-ce que... ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-11">
+          <sp who="donjuan" xml:id="II04-11">
             <p>
               <s>Il n’y a pas moyen de lui faire entendre raison.</s>
             </p>
@@ -1421,7 +1466,7 @@
               <s>Je voudrais...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-13">
+          <sp who="donjuan" xml:id="II04-13">
             <p>
               <s>Elle est obstinée comme tous les diables.</s>
             </p>
@@ -1431,7 +1476,7 @@
               <s>Vraiment...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-15">
+          <sp who="donjuan" xml:id="II04-15">
             <p>
               <s>Ne lui dites rien, c’est une folle.</s>
             </p>
@@ -1441,7 +1486,7 @@
               <s>Je pense...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-17">
+          <sp who="donjuan" xml:id="II04-17">
             <p>
               <s>Laissez-la là, c’est une extravagante.</s>
             </p>
@@ -1461,7 +1506,7 @@
               <s>Quoi ?...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-21">
+          <sp who="donjuan" xml:id="II04-21">
             <p>
               <s>Je gage qu’elle va vous dire que je lui ai promis de l’épouser.</s>
             </p>
@@ -1471,7 +1516,7 @@
               <s>Je...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-23">
+          <sp who="donjuan" xml:id="II04-23">
             <p>
               <s>Gageons qu’elle vous soutiendra que je lui ai donné parole de la prendre pour femme.</s>
             </p>
@@ -1497,7 +1542,7 @@
               <s>S’il vous a vue la première, il m’a vue la seconde, et m’a promis de m’épouser.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-28">
+          <sp who="donjuan" xml:id="II04-28">
             <p>
               <s>Eh bien !</s>
               <s>Que vous ai-je dit ?</s>
@@ -1508,7 +1553,7 @@
               <s>Je vous baise les mains, c’est moi, et non pas vous, qu’il a promis d’épouser.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-30">
+          <sp who="donjuan" xml:id="II04-30">
             <p>
               <s>N’ai-je pas deviné ?</s>
             </p>
@@ -1538,7 +1583,7 @@
               <s>Est-ce, Monsieur, que vous lui avez promis de l’épouser ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-36">
+          <sp who="donjuan" xml:id="II04-36">
             <p>
               <s>Vous vous raillez de moi.</s>
             </p>
@@ -1548,7 +1593,7 @@
               <s>Est-il vrai, Monsieur, que vous lui avez donné parole d’être son mari ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-38">
+          <sp who="donjuan" xml:id="II04-38">
             <p>
               <s>Pouvez-vous avoir cette pensée ?</s>
             </p>
@@ -1558,7 +1603,7 @@
               <s>Vous voyez qu’al le soutient.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-40">
+          <sp who="donjuan" xml:id="II04-40">
             <p>
               <s>Laissez-la faire.</s>
             </p>
@@ -1568,7 +1613,7 @@
               <s>Vous êtes témoin comme al l’assure.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-42">
+          <sp who="donjuan" xml:id="II04-42">
             <p>
               <s>Laissez-la dire.</s>
             </p>
@@ -1623,7 +1668,7 @@
               <s>Parlez.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-53">
+          <sp who="donjuan" xml:id="II04-53">
             <p>
               <s>Que voulez-vous que je dise ?</s>
               <s>Vous soutenez également toutes deux que je vous ai promis de vous prendre pour femmes.</s>
@@ -1670,7 +1715,7 @@
               <s>Croyez-moi l’une et l’autre : ne vous amusez point à tous les contes qu’on vous fait, et demeurez dans votre village.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-57">
+          <sp who="donjuan" xml:id="II04-57">
             <p>
               <s>Je voudrais bien savoir pourquoi Sganarelle ne me suit pas.</s>
             </p>
@@ -1686,7 +1731,7 @@
               <s>Tenez, le voilà ; demandez le plutôt à lui-même.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-59">
+          <sp who="donjuan" xml:id="II04-59">
             <p>
               <s>Oui.</s>
             </p>
@@ -1696,7 +1741,7 @@
               <s>Monsieur, comme le monde est plein de médisants, je vais au-devant des choses ; et je leur disais que, si quelqu’un leur venait dire du mal de vous, elles se gardassent bien de le croire, et ne manquassent pas de lui dire qu’il en aurait menti.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-61">
+          <sp who="donjuan" xml:id="II04-61">
             <p>
               <s>Sganarelle.</s>
             </p>
@@ -1706,7 +1751,7 @@
               <s>Oui, Monsieur est homme d’honneur, je le garantis tel.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II04-63">
+          <sp who="donjuan" xml:id="II04-63">
             <p>
               <s>Hon !</s>
             </p>
@@ -1718,23 +1763,24 @@
           </sp>
         </div2>
         <div2 type="scene" n="5" xml:id="II05">
-          <sp who="LARAMEE" xml:id="II05-1">
+          <head>Scène V</head>
+          <sp who="laramee" xml:id="II05-1">
             <p>
               <s>Monsieur, je viens vous avertir qu’il ne fait pas bon ici pour vous.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II05-2">
+          <sp who="donjuan" xml:id="II05-2">
             <p>
               <s>Comment ?</s>
             </p>
           </sp>
-          <sp who="LARAMEE" xml:id="II05-3">
+          <sp who="laramee" xml:id="II05-3">
             <p>
               <s>Douze hommes à cheval vous cherchent, qui doivent arriver ici dans un moment ; je ne sais pas par quel moyen ils peuvent vous avoir suivi ; mais j’ai appris cette nouvelle d’un paysan qu’ils ont interrogé, et auquel ils vous ont dépeint.</s>
               <s>L’affaire presse, et le plus tôt que vous pourrez sortir d’ici sera le meilleur.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II05-4">
+          <sp who="donjuan" xml:id="II05-4">
             <p>
               <s>Une affaire pressante m’oblige de partir d’ici ; mais je vous prie de vous ressouvenir de la parole que je vous ai donnée, et de croire que vous aurez de mes nouvelles avant qu’il soit demain au soir.</s>
               <s>Comme la partie n’est pas égale, il faut user dé stratagème, et éluder adroitement le malheur qui me cherche.</s>
@@ -1747,7 +1793,7 @@
               <s>M’exposer à être tué sous vos habits, et...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="II05-6">
+          <sp who="donjuan" xml:id="II05-6">
             <p>
               <s>Allons vite, c’est trop d’honneur que je vous fais, et bien heureux est le valet qui peut avoir la gloire de mourir pour son maître.</s>
             </p>
@@ -1761,13 +1807,15 @@
         </div2>
       </div1>
       <div1 type="act" n="3" xml:id="III">
+        <head>Acte III</head>
         <div2 type="scene" n="1" xml:id="III01">
+          <head>Scène I</head>
           <sp who="sganarelle" xml:id="III01-1">
             <p>
               <s>Ma foi Monsieur, avouez que j’ai eu raison, et que nous voilà l’un et l’autre déguisés à merveille, votre premier dessein n’était point du tout à propos, et ceci nous cache bien mieux que tout ce que vous vouliez faire.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III01-2">
+          <sp who="donjuan" xml:id="III01-2">
             <p>
               <s>Il est vrai que te voilà bien, et je ne sais où tu as été déterrer cet attirail ridicule.</s>
             </p>
@@ -1778,7 +1826,7 @@
               <s>Mais savez-vous, Monsieur, que cet habit me met déjà en considération, que je suis salué des gens que je rencontre, et que l’on me vient consulter ainsi qu’un habile homme.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III01-4">
+          <sp who="donjuan" xml:id="III01-4">
             <p>
               <s>Comment donc ?</s>
             </p>
@@ -1788,7 +1836,7 @@
               <s>Cinq ou six Paysans et Paysannes, en me voyant passer, me sont venus demander mon avis sur différentes maladies.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III01-6">
+          <sp who="donjuan" xml:id="III01-6">
             <p>
               <s>Tu leur as répondu, que tu n’y entendais rien.</s>
             </p>
@@ -1798,7 +1846,7 @@
               <s>Moi, point du tout, j’ai voulu soutenir l’honneur de mon habit, j’ai raisonné sur le mal, et leur ai fait des ordonnances à chacun.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III01-8">
+          <sp who="donjuan" xml:id="III01-8">
             <p>
               <s>Et quels remèdes encore leur as-tu ordonnés ?</s>
             </p>
@@ -1808,7 +1856,7 @@
               <s>Ma foi, Monsieur, j’en ai pris par où j’en ai pu attraper, j’ai fait mes ordonnances à l’aventure, et ce serait une chose plaisante si ces malades guérissaient, et qu’on m’en vînt remercier.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III01-10">
+          <sp who="donjuan" xml:id="III01-10">
             <p>
               <s>Et pourquoi non, par quelle raison n’aurais-tu pas les mêmes privilèges qu’ont tous les autres Médecins ?</s>
               <s>Ils n’ont pas plus de part que toi aux guérisons des malades, et tout leur art est pure grimace, ils ne font rien que recevoir la gloire des heureux succès, et tu peux profiter comme eux du bonheur du malade, et voir attribuer à tes remèdes tout ce qui peut venir des faveurs du hasard, et des forces de la nature.</s>
@@ -1819,7 +1867,7 @@
               <s>Comment Monsieur, vous êtes aussi impie en Médecine.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III01-12">
+          <sp who="donjuan" xml:id="III01-12">
             <p>
               <s>C’est une des grandes erreurs qui soit parmi les hommes.</s>
             </p>
@@ -1829,7 +1877,7 @@
               <s>Quoi ! vous ne croyez pas au Séné, ni à la Casse, ni au Vin émétique ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III01-14">
+          <sp who="donjuan" xml:id="III01-14">
             <p>
               <s>Et pourquoi veux-tu que j’y croie ?</s>
             </p>
@@ -1839,7 +1887,7 @@
               <s>Vous avez l’âme bien mécréante, cependant vous voyez depuis un temps que le Vin émétique fait bruire ses fuseaux, les miracles ont converti les plus incrédules esprits, et il n’y a pas trois semaines que j’en ai vu, moi qui vous parle, un effet merveilleux.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III01-16">
+          <sp who="donjuan" xml:id="III01-16">
             <p>
               <s>Et quel ?</s>
             </p>
@@ -1850,7 +1898,7 @@
               <s>On ne savait plus que lui ordonner, et tous les remèdes ne faisaient rien ; on s’avisa à la fin de lui donner de l’émétique.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III01-18">
+          <sp who="donjuan" xml:id="III01-18">
             <p>
               <s>Il réchappa, n’est-ce pas ?</s>
             </p>
@@ -1860,7 +1908,7 @@
               <s>Non, il mourut.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III01-20">
+          <sp who="donjuan" xml:id="III01-20">
             <p>
               <s>L’effet est admirable.</s>
             </p>
@@ -1871,7 +1919,7 @@
               <s>Voulez-vous rien de plus efficace ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III01-22">
+          <sp who="donjuan" xml:id="III01-22">
             <p>
               <s>Tu as raison.</s>
             </p>
@@ -1882,7 +1930,7 @@
               <s>Vous savez bien que vous me permettez les disputes, et que vous ne me défendez que les remontrances.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III01-24">
+          <sp who="donjuan" xml:id="III01-24">
             <p>
               <s>Eh bien.</s>
             </p>
@@ -1892,7 +1940,7 @@
               <s>Je veux savoir un peu vos pensées à fonds, et vous connaître un peu mieux que je ne fais : çà quand voulez-vous mettre fin à vos débauches, et mener la vie d’un honnête homme ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III01-26">
+          <sp who="donjuan" xml:id="III01-26">
             <p>
               <s>Ah, maître sot ! vous allez d’abord aux remontrances.</s>
             </p>
@@ -1902,7 +1950,7 @@
               <s>Morbleu, je suis bien sot en effet de vouloir m’amuser à raisonner avec vous ; faites tout ce que vous voudrez, il m’importe bien que vous vous perdiez ou non, et que…</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III01-28">
+          <sp who="donjuan" xml:id="III01-28">
             <p>
               <s>Tais-toi.</s>
               <s>Songeons à notre affaire. </s>
@@ -1916,18 +1964,19 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="III02">
+          <head>Scène II</head>
           <sp who="sganarelle" xml:id="III02-1">
             <p>
               <s>Enseignez-nous un peu le chemin qui mène à la Ville.</s>
             </p>
           </sp>
-          <sp who="PELERIN" xml:id="III02-2">
+          <sp who="pelerin" xml:id="III02-2">
             <p>
               <s>Vous n’avez qu’à suivre cette route, Messieurs, et détourner à main droite quand vous serez au bout de la forêt.</s>
               <s>Mais je vous donne avis que vous devez vous tenir sur vos gardes, et que depuis quelque temps, il y a des voleurs ici autour.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III02-3">
+          <sp who="donjuan" xml:id="III02-3">
             <p>
               <s>Je te suis bien obligé, mon ami, et je te rends grâces de tout mon cœur de ton bon avis.</s>
             </p>
@@ -1937,13 +1986,14 @@
               <s>Ha, Monsieur, quel bruit, quel cliquetis !</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III02-5">
+          <sp who="donjuan" xml:id="III02-5">
             <p>
               <s>Que vois-je là ? un homme attaqué par trois autres ! la partie est trop inégale, et je ne dois pas souffrir cette lâcheté.</s>
             </p>
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="III03">
+          <head>Scène III</head>
           <sp who="sganarelle" xml:id="III03-1">
             <p>
               <s>Mon maître est un vrai enragé d’aller se présenter à un péril qui ne le cherche pas ; mais, ma foi ! le secours a servi, et les deux ont fait fuir les trois.</s>
@@ -1955,7 +2005,7 @@
               <s>Souffrez, Monsieur, que je vous rende grâce d’une action si généreuse, et que...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III03-3">
+          <sp who="donjuan" xml:id="III03-3">
             <p>
               <s>Je n’ai rien fait, Monsieur, que vous n’eussiez fait en ma place.</s>
               <s>Notre propre honneur est intéressé dans de pareilles aventures, et l’action de ces coquins était si lâche que c’eût été y prendre part que de ne s’y pas opposer.</s>
@@ -1967,7 +2017,7 @@
               <s>Je m’étais par hasard égaré d’un frère et de tous ceux de notre suite ; et comme je cherchais à les rejoindre, j’ai fait rencontre de ces voleurs, qui d’abord ont tué mon cheval ; et qui, sans votre valeur, en auraient fait autant de moi.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III03-5">
+          <sp who="donjuan" xml:id="III03-5">
             <p>
               <s>Votre dessein est-il d’aller du côté de la ville ?</s>
             </p>
@@ -1977,7 +2027,7 @@
               <s>Oui, mais sans y vouloir entrer ; et nous nous voyons obligés, mon frère et moi, à tenir la campagne pour une de ces fâcheuses affaires qui réduisent les gentilshommes à se sacrifier, eux et leur famille, à la sévérité de leur honneur, puisque enfin le plus doux succès en est toujours funeste, et que, si l’on ne quitte pas la vie, on est contraint de quitter le Royaume ; et c’est en quoi je trouve la condition d’un gentilhomme malheureuse, de ne pouvoir point s’assurer sur toute la prudence et toute l’honnêteté de sa conduite, d’être asservi par les lois de l’honneur au dérèglement de la conduite d’autrui, et de voir sa vie, son repos et ses biens dépendre de la fantaisie du premier téméraire qui s’avisera de lui faire une de ces injures pour qui un honnête homme doit périr.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III03-7">
+          <sp who="donjuan" xml:id="III03-7">
             <p>
               <s>On a cet avantage, qu’on fait courir le même risque et passer mal aussi le temps à ceux qui prennent fantaisie de nous venir faire une offense de gaieté de cœur.</s>
               <s>Mais ne serait-ce point une indiscrétion que de vous demander quelle peut être votre affaire ?</s>
@@ -1990,7 +2040,7 @@
               <s>Nous le cherchons depuis quelques jours, et nous l’avons suivi ce matin sur le rapport d’un valet qui nous a dit qu’il sortait à cheval, accompagné de quatre ou cinq, et qu’il avait pris le long de cette côte ; mais tous nos soins ont été inutiles, et nous n’avons pu découvrir ce qu’il est devenu.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III03-9">
+          <sp who="donjuan" xml:id="III03-9">
             <p>
               <s>Le connaissez-vous, Monsieur, ce Don Juan dont vous parlez ?</s>
             </p>
@@ -2001,7 +2051,7 @@
               <s>Je ne l’ai jamais vu, et je l’ai seulement ouï dépeindre à mon frère ; mais la renommée n’en dit pas force bien, et c’est un homme dont la vie...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III03-11">
+          <sp who="donjuan" xml:id="III03-11">
             <p>
               <s>Arrêtez, Monsieur, s’il vous plaît.</s>
               <s>Il est un peu de mes amis, et ce serait à moi une espèce de lâcheté, que d’en ouïr dire du mal.</s>
@@ -2012,7 +2062,7 @@
               <s>Pour l’amour de vous, Monsieur, je n’en dirai rien du tout, et c’est bien la moindre chose que je vous doive, après m’avoir sauvé la vie, que de me taire devant vous d’une personne que vous connaissez, lorsque je ne puis en parler sans en dire du mal ; mais, quelque ami que vous lui soyez, j’ose espérer que vous n’approuverez pas son action, et ne trouverez pas étrange que nous cherchions d’en prendre la vengeance.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III03-13">
+          <sp who="donjuan" xml:id="III03-13">
             <p>
               <s>Au contraire, je vous y veux servir, et vous épargner des soins inutiles.</s>
               <s>Je suis ami de Don Juan, je ne puis pas m’en empêcher ; mais il n’est pas raisonnable qu’il offense impunément des gentilshommes, et je m’engage à vous faire faire raison par lui.</s>
@@ -2023,7 +2073,7 @@
               <s>Et quelle raison peut-on faire à ces sortes d’injures ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III03-15">
+          <sp who="donjuan" xml:id="III03-15">
             <p>
               <s>Toute celle que votre honneur et souhaiter ; et, sans vous donner la peine de chercher Don Juan davantage, je m’oblige à le faire trouver au lieu que vous voudrez, et quand il vous plaira.</s>
             </p>
@@ -2033,7 +2083,7 @@
               <s>Cet espoir est bien doux, Monsieur, à des cœurs offensés ; mais, après ce que je vous dois, ce me serait une trop sensible douleur que vous fussiez de la partie.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III03-17">
+          <sp who="donjuan" xml:id="III03-17">
             <p>
               <s>Je suis si attaché à Don Juan qu’il ne saurait se battre que je ne me batte aussi ; mais enfin j’en réponds comme de moi-même, et vous n’avez qu’à dire quand vous voulez qu’il paraisse et vous donne satisfaction.</s>
             </p>
@@ -2046,6 +2096,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="III04">
+          <head>Scène IV</head>
           <sp who="don-alonse" xml:id="III04-1">
             <p>
               <s>Faites boire là mes chevaux, et qu’on les amène après nous, je veux un peu marcher à pied.</s>
@@ -2057,7 +2108,7 @@
               <s>Notre Ennemi mortel ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III04-3">
+          <sp who="donjuan" xml:id="III04-3">
             <p>
               <s>Oui je suis Don Juan moi-même, et l’avantage du nombre ne m’obligera pas à vouloir déguiser mon nom.</s>
             </p>
@@ -2133,7 +2184,7 @@
               <s>Il est des moyens doux pour nous satisfaire ; il en est de violents et de sanglants ; mais enfin, quelque choix que vous fassiez, vous m’avez donné parole de me faire faire raison par Don Juan : songez à me la faire, je vous prie, et vous ressouvenez que, hors d’ici, je ne dois plus qu’à mon honneur.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III04-16">
+          <sp who="donjuan" xml:id="III04-16">
             <p>
               <s>Je n’ai rien exigé de vous, et vous tiendrai ce que j’ai promis.</s>
             </p>
@@ -2145,7 +2196,8 @@
           </sp>
         </div2>
         <div2 type="scene" n="5" xml:id="III05">
-          <sp who="DONJUAN" xml:id="III05-1">
+          <head>Scène V</head>
+          <sp who="donjuan" xml:id="III05-1">
             <p>
               <s>Holà, hé, Sganarelle !</s>
             </p>
@@ -2155,7 +2207,7 @@
               <s>Plaît-il ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-3">
+          <sp who="donjuan" xml:id="III05-3">
             <p>
               <s>Comment ?</s>
               <s>coquin, tu fuis quand on m’attaque ?</s>
@@ -2167,7 +2219,7 @@
               <s>Je crois que cet habit est purgatif, et que c’est prendre médecine que de le porter.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-5">
+          <sp who="donjuan" xml:id="III05-5">
             <p>
               <s>Peste soit l’insolent !</s>
               <s>Couvre au moins ta poltronnerie d’un voile plus honnête.</s>
@@ -2180,7 +2232,7 @@
               <s>Non.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-7">
+          <sp who="donjuan" xml:id="III05-7">
             <p>
               <s>C’est un frère d’Elvire.</s>
             </p>
@@ -2190,7 +2242,7 @@
               <s>Un...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-9">
+          <sp who="donjuan" xml:id="III05-9">
             <p>
               <s>Il est assez honnête homme, il en a bien usé, et j’ai regret d’avoir démêlé avec lui.</s>
             </p>
@@ -2200,7 +2252,7 @@
               <s>Il vous serait aisé de pacifier toutes choses.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-11">
+          <sp who="donjuan" xml:id="III05-11">
             <p>
               <s>Oui ; mais ma passion est usée pour Done Elvire, et l’engagement ne compatit point avec mon humeur.</s>
               <s>J’aime la liberté en amour, tu le sais, et je ne saurais me résoudre à renfermer mon cœur entre quatre murailles.</s>
@@ -2214,7 +2266,7 @@
               <s>Vous ne le savez pas ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-13">
+          <sp who="donjuan" xml:id="III05-13">
             <p>
               <s>Non, vraiment.</s>
             </p>
@@ -2225,7 +2277,7 @@
               <s>C’est le tombeau que le Commandeur faisait faire lorsque vous le tuâtes.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-15">
+          <sp who="donjuan" xml:id="III05-15">
             <p>
               <s>Ah !</s>
               <s>Tu as raison.</s>
@@ -2238,7 +2290,7 @@
               <s>Monsieur, n’allez point là.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-17">
+          <sp who="donjuan" xml:id="III05-17">
             <p>
               <s>Pourquoi ?</s>
             </p>
@@ -2248,7 +2300,7 @@
               <s>Cela n’est pas civil, d’aller voir un homme que vous avez tué.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-19">
+          <sp who="donjuan" xml:id="III05-19">
             <p>
               <s>Au contraire, c’est une visite dont je lui veux faire civilité, et qu’il doit recevoir de bonne grâce, s’il est galant homme.</s>
               <s>Allons, entrons dedans.</s>
@@ -2266,7 +2318,7 @@
               <s>Qu’en dites-vous, Monsieur ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-21">
+          <sp who="donjuan" xml:id="III05-21">
             <p>
               <s>Qu’on ne peut voir aller plus loin l’ambition d’un homme mort ; et ce que je trouve admirable, c’est qu’un homme qui s’est passé, durant sa vie, d’une assez simple demeure, en veuille avoir une si magnifique pour quand il n’en a plus que faire.</s>
             </p>
@@ -2276,7 +2328,7 @@
               <s>Voici la statue du Commandeur.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-23">
+          <sp who="donjuan" xml:id="III05-23">
             <p>
               <s>Parbleu !</s>
               <s>Le voilà bon, avec son habit d’empereur romain !</s>
@@ -2289,7 +2341,7 @@
               <s>Il jette des regards sur nous qui me feraient peur, si j’étais tout seul, et je pense qu’il ne prend pas plaisir de nous voir.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-25">
+          <sp who="donjuan" xml:id="III05-25">
             <p>
               <s>Il aurait tort, et ce serait mal recevoir l’honneur que je lui fais.</s>
               <s>Demande-lui s’il veut venir souper avec moi.</s>
@@ -2300,7 +2352,7 @@
               <s>C’est une chose dont il n’a pas besoin, je crois.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-27">
+          <sp who="donjuan" xml:id="III05-27">
             <p>
               <s>Demande-lui, te dis-je.</s>
             </p>
@@ -2311,7 +2363,7 @@
               <s>Ce serait être fou que d’aller parler à une statue.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-29">
+          <sp who="donjuan" xml:id="III05-29">
             <p>
               <s>Fais ce que je te dis.</s>
             </p>
@@ -2327,7 +2379,7 @@
               <s>Ha !</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-31">
+          <sp who="donjuan" xml:id="III05-31">
             <p>
               <s>Qu’est-ce ?</s>
               <s>Qu’as-tu ?</s>
@@ -2339,7 +2391,7 @@
               <s>La Statue...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-33">
+          <sp who="donjuan" xml:id="III05-33">
             <p>
               <s>Eh bien !</s>
               <s>Que veux-tu dire, traître ?</s>
@@ -2350,7 +2402,7 @@
               <s>Je vous dis que la Statue...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-35">
+          <sp who="donjuan" xml:id="III05-35">
             <p>
               <s>Eh bien !</s>
               <s>La Statue ?</s>
@@ -2362,7 +2414,7 @@
               <s>La Statue m’a fait signe.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-37">
+          <sp who="donjuan" xml:id="III05-37">
             <p>
               <s>La peste le coquin !</s>
             </p>
@@ -2374,7 +2426,7 @@
               <s>Peut-être...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-39">
+          <sp who="donjuan" xml:id="III05-39">
             <p>
               <s>Viens, maraud, viens, je te veux bien faire toucher au doigt ta poltronnerie.</s>
               <s>Prends garde.</s>
@@ -2388,7 +2440,7 @@
               <s>Monsieur ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="III05-41">
+          <sp who="donjuan" xml:id="III05-41">
             <p>
               <s>Allons, sortons d’ici.</s>
             </p>
@@ -2401,8 +2453,10 @@
         </div2>
       </div1>
       <div1 type="act" n="4" xml:id="IV">
+        <head>Acte IV</head>
         <div2 type="scene" n="1" xml:id="IV01">
-          <sp who="DONJUAN" xml:id="IV01-1">
+          <head>Scène I</head>
+          <sp who="donjuan" xml:id="IV01-1">
             <p>
               <s>Quoi qu’il en soit, laissons cela : c’est une bagatelle, et nous pouvons avoir été trompés par un faux jour, ou surpris de quelque vapeur qui nous ait troublé la vue.</s>
             </p>
@@ -2414,7 +2468,7 @@
               <s>Il n’est rien de plus véritable que ce signe de tête ; et je ne doute point que le Ciel, scandalisé de votre vie, n’ait produit ce miracle pour vous convaincre, et pour vous retirer de...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV01-3">
+          <sp who="donjuan" xml:id="IV01-3">
             <p>
               <s>Écoute.</s>
               <s>Si tu m’importunes davantage de tes sottes moralités, si tu me dis encore le moindre mot là-dessus, je vais appeler quelqu’un, demander un nerf de bœuf, te faire tenir par trois ou quatre, et te rouer de mille coups.</s>
@@ -2427,7 +2481,7 @@
               <s>Vous vous expliquez clairement ; c’est ce qu’il y a de bon en vous, que vous n’allez point chercher de détours : vous dites les choses avec une netteté admirable.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV01-5">
+          <sp who="donjuan" xml:id="IV01-5">
             <p>
               <s>Allons, qu’on me fasse souper le plus tôt que l’on pourra.</s>
               <s>Une chaise, petit garçon.</s>
@@ -2435,7 +2489,8 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="IV02">
-          <sp who="LAVIOLETTE" xml:id="IV02-1">
+          <head>Scène II</head>
+          <sp who="laviolette" xml:id="IV02-1">
             <p>
               <s>Monsieur, voilà votre marchand, Monsieur Dimanche, qui demande à vous parler.</s>
             </p>
@@ -2446,7 +2501,7 @@
               <s>De quoi s’avise-t-il de nous venir demander de l’argent, et que ne lui disais-tu que Monsieur n’y est pas ?</s>
             </p>
           </sp>
-          <sp who="LAVIOLETTE" xml:id="IV02-3">
+          <sp who="laviolette" xml:id="IV02-3">
             <p>
               <s>Il y a trois quarts d’heure que je lui dis ; mais il ne veut pas le croire, et s’est assis là dedans pour attendre.</s>
             </p>
@@ -2456,7 +2511,7 @@
               <s>Qu’il attende, tant qu’il voudra.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV02-5">
+          <sp who="donjuan" xml:id="IV02-5">
             <p>
               <s>Non, au contraire, faites-le entrer.</s>
               <s>C’est une fort mauvaise politique que de se faire celer aux créanciers.</s>
@@ -2465,7 +2520,8 @@
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="IV03">
-          <sp who="DONJUAN" xml:id="IV03-1">
+          <head>Scène III</head>
+          <sp who="donjuan" xml:id="IV03-1">
             <p>
               <s>Ah !</s>
               <s>Monsieur Dimanche, approchez.</s>
@@ -2473,308 +2529,308 @@
               <s>J’avais donné ordre qu’on ne me fît parler personne ; mais cet ordre n’est pas pour vous, et vous êtes en droit de ne trouver jamais de porte fermée chez moi.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-2">
+          <sp who="mdimanche" xml:id="IV03-2">
             <p>
               <s>Monsieur, je vous suis fort obligé.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-3">
+          <sp who="donjuan" xml:id="IV03-3">
             <p>
               <s>Parbleu !</s>
               <s>Coquins, je vous apprendrai à laisser M.</s>
               <s>Dimanche dans une antichambre, et je vous ferai connaître les gens.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-4">
+          <sp who="mdimanche" xml:id="IV03-4">
             <p>
               <s>Monsieur, cela n’est rien.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-5">
+          <sp who="donjuan" xml:id="IV03-5">
             <p>
               <s>Comment ?</s>
               <s>Vous dire que je n’y suis pas, à M.</s>
               <s>Dimanche, au meilleur de mes amis ?</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-6">
+          <sp who="mdimanche" xml:id="IV03-6">
             <p>
               <s>Monsieur, je suis votre serviteur : j’étais venu...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-7">
+          <sp who="donjuan" xml:id="IV03-7">
             <p>
               <s>Allons vite, un siège pour M. Dimanche.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-8">
+          <sp who="mdimanche" xml:id="IV03-8">
             <p>
               <s>Monsieur, je suis bien comme cela.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-9">
+          <sp who="donjuan" xml:id="IV03-9">
             <p>
               <s>Point, point, je veux que vous soyez assis contre moi.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-10">
+          <sp who="mdimanche" xml:id="IV03-10">
             <p>
               <s>Cela n’est point nécessaire.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-11">
+          <sp who="donjuan" xml:id="IV03-11">
             <p>
               <s>Ôtez ce pliant, et apportez un fauteuil.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-12">
+          <sp who="mdimanche" xml:id="IV03-12">
             <p>
               <s>Monsieur, vous vous moquez, et...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-13">
+          <sp who="donjuan" xml:id="IV03-13">
             <p>
               <s>Non, non, je sais ce que je vous dois, et je ne veux point qu’on mette de différence entre nous deux.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-14">
+          <sp who="mdimanche" xml:id="IV03-14">
             <p>
               <s>Monsieur...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-15">
+          <sp who="donjuan" xml:id="IV03-15">
             <p>
               <s>Allons, asseyez-vous.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-16">
+          <sp who="mdimanche" xml:id="IV03-16">
             <p>
               <s>Il n’est pas besoin, Monsieur, et je n’ai qu’un mot à vous dire.</s>
               <s>J’étais...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-17">
+          <sp who="donjuan" xml:id="IV03-17">
             <p>
               <s>Mettez-vous là, vous dis-je.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-18">
+          <sp who="mdimanche" xml:id="IV03-18">
             <p>
               <s>Non, Monsieur, je suis bien.</s>
               <s>Je viens pour...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-19">
+          <sp who="donjuan" xml:id="IV03-19">
             <p>
               <s>Non, je ne vous écoute point si vous n’êtes assis.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-20">
+          <sp who="mdimanche" xml:id="IV03-20">
             <p>
               <s>Monsieur, je fais ce que vous voulez.</s>
               <s>Je...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-21">
+          <sp who="donjuan" xml:id="IV03-21">
             <p>
               <s>Parbleu !</s>
               <s>Monsieur Dimanche, vous vous portez bien.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-22">
+          <sp who="mdimanche" xml:id="IV03-22">
             <p>
               <s>Oui, Monsieur, pour vous rendre service.</s>
               <s>Je suis venu...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-23">
+          <sp who="donjuan" xml:id="IV03-23">
             <p>
               <s>Vous avez un fonds de santé admirable, des lèvres fraîches, un teint vermeil, et des yeux vifs.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-24">
+          <sp who="mdimanche" xml:id="IV03-24">
             <p>
               <s>Je voudrais bien...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-25">
+          <sp who="donjuan" xml:id="IV03-25">
             <p>
               <s>Comment se porte Madame Dimanche, votre épouse ?</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-26">
+          <sp who="mdimanche" xml:id="IV03-26">
             <p>
               <s>Fort bien, Monsieur, Dieu merci.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-27">
+          <sp who="donjuan" xml:id="IV03-27">
             <p>
               <s>C’est une brave femme.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-28">
+          <sp who="mdimanche" xml:id="IV03-28">
             <p>
               <s>Elle est votre servante, Monsieur.</s>
               <s>Je venais...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-29">
+          <sp who="donjuan" xml:id="IV03-29">
             <p>
               <s>Et votre petite fille Claudine, comment se porte-t-elle ?</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-30">
+          <sp who="mdimanche" xml:id="IV03-30">
             <p>
               <s>Le mieux du monde.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-31">
+          <sp who="donjuan" xml:id="IV03-31">
             <p>
               <s>La jolie petite fille que c’est !</s>
               <s>Je l’aime de tout mon cœur.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-32">
+          <sp who="mdimanche" xml:id="IV03-32">
             <p>
               <s>C’est trop d’honneur que vous lui faites, Monsieur.</s>
               <s>Je vous...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-33">
+          <sp who="donjuan" xml:id="IV03-33">
             <p>
               <s>Et le petit Colin, fait-il toujours bien du bruit avec son tambour ?</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-34">
+          <sp who="mdimanche" xml:id="IV03-34">
             <p>
               <s>Toujours de même, Monsieur.</s>
               <s>Je...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-35">
+          <sp who="donjuan" xml:id="IV03-35">
             <p>
               <s>Et votre petit chien Brusquet ?</s>
               <s>Gronde-t-il toujours aussi fort, et mord-il toujours bien aux jambes les gens qui vont chez vous ?</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-36">
+          <sp who="mdimanche" xml:id="IV03-36">
             <p>
               <s>Plus que jamais, Monsieur, et nous ne saurions en chévir.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-37">
+          <sp who="donjuan" xml:id="IV03-37">
             <p>
               <s>Ne vous étonnez pas si je m’informe des nouvelles de toute la famille, car j’y prends beaucoup d’intérêt.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-38">
+          <sp who="mdimanche" xml:id="IV03-38">
             <p>
               <s>Nous vous sommes, Monsieur, infiniment obligés.</s>
               <s>Je...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-39">
+          <sp who="donjuan" xml:id="IV03-39">
             <p>
               <s>Touchez donc là, Monsieur Dimanche.</s>
               <s>Êtes-vous bien de mes amis ?</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-40">
+          <sp who="mdimanche" xml:id="IV03-40">
             <p>
               <s>Monsieur, je suis votre serviteur.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-41">
+          <sp who="donjuan" xml:id="IV03-41">
             <p>
               <s>Parbleu !</s>
               <s>Je suis à vous de tout mon cœur.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-42">
+          <sp who="mdimanche" xml:id="IV03-42">
             <p>
               <s>Vous m’honorez trop.</s>
               <s>Je...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-43">
+          <sp who="donjuan" xml:id="IV03-43">
             <p>
               <s>Il n’y a rien que je ne fisse pour vous.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-44">
+          <sp who="mdimanche" xml:id="IV03-44">
             <p>
               <s>Monsieur, vous avez trop de bonté pour moi.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-45">
+          <sp who="donjuan" xml:id="IV03-45">
             <p>
               <s>Et cela sans intérêt, je vous prie de le croire.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-46">
+          <sp who="mdimanche" xml:id="IV03-46">
             <p>
               <s>Je n’ai point mérité cette grâce assurément.</s>
               <s>Mais, Monsieur...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-47">
+          <sp who="donjuan" xml:id="IV03-47">
             <p>
               <s>Oh !</s>
               <s>çà, Monsieur Dimanche, sans façon, voulez-vous souper avec moi ?</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-48">
+          <sp who="mdimanche" xml:id="IV03-48">
             <p>
               <s>Non, Monsieur, il faut que je m’en retourne tout à l’heure.</s>
               <s>Je...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-49">
+          <sp who="donjuan" xml:id="IV03-49">
             <p>
               <s>Allons, vite un flambeau pour conduire Monsieur Dimanche et que quatre ou cinq de mes gens prennent des mousquetons pour l’escorter.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-50">
+          <sp who="mdimanche" xml:id="IV03-50">
             <p>
               <s>Monsieur, il n’est pas nécessaire, et je m’en irai bien tout seul.</s>
               <s>Mais...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-51">
+          <sp who="donjuan" xml:id="IV03-51">
             <p>
               <s>Comment ?</s>
               <s>Je veux qu’on vous escorte, et je m’intéresse trop à votre personne.</s>
               <s>Je suis votre serviteur, et de plus votre débiteur.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-52">
+          <sp who="mdimanche" xml:id="IV03-52">
             <p>
               <s>Ah !</s>
               <s>Monsieur...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-53">
+          <sp who="donjuan" xml:id="IV03-53">
             <p>
               <s>C’est une chose que je ne cache pas, et je le dis à tout le monde.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-54">
+          <sp who="mdimanche" xml:id="IV03-54">
             <p>
               <s>Si...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-55">
+          <sp who="donjuan" xml:id="IV03-55">
             <p>
               <s>Voulez-vous que je vous reconduise ?</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-56">
+          <sp who="mdimanche" xml:id="IV03-56">
             <p>
               <s>Ah !</s>
               <s>Monsieur, vous vous moquez, Monsieur...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV03-57">
+          <sp who="donjuan" xml:id="IV03-57">
             <p>
               <s>Embrassez-moi donc, s’il vous plaît.</s>
               <s>Je vous prie encore une fois d’être persuadé que je suis tout à vous, et qu’il n’y a rien au monde que je ne fisse pour votre service.</s>
@@ -2785,7 +2841,7 @@
               <s>Il faut avouer que vous avez en Monsieur un homme qui vous aime bien.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-59">
+          <sp who="mdimanche" xml:id="IV03-59">
             <p>
               <s>Il est vrai ; il me fait tant de civilités et tant de compliments que je ne saurais jamais lui demander de l’argent.</s>
             </p>
@@ -2795,7 +2851,7 @@
               <s>Je vous assure que toute sa maison périrait pour vous ; et je voudrais qu’il vous arrivât quelque chose, que quelqu’un s’avisât de vous donner des coups de bâton ; vous verriez de quelle manière...</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-61">
+          <sp who="mdimanche" xml:id="IV03-61">
             <p>
               <s>Je le crois ; mais, Sganarelle, je vous prie de lui dire un petit mot de mon argent.</s>
             </p>
@@ -2806,7 +2862,7 @@
               <s>Ne vous mettez pas en peine, il vous payera le mieux du monde.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-63">
+          <sp who="mdimanche" xml:id="IV03-63">
             <p>
               <s>Mais vous, Sganarelle, vous me devez quelque chose en votre particulier.</s>
             </p>
@@ -2817,7 +2873,7 @@
               <s>Ne parlez pas de cela.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-65">
+          <sp who="mdimanche" xml:id="IV03-65">
             <p>
               <s>Comment ?</s>
               <s>Je...</s>
@@ -2828,7 +2884,7 @@
               <s>Ne sais-je pas bien que je vous dois ?</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-67">
+          <sp who="mdimanche" xml:id="IV03-67">
             <p>
               <s>Oui, mais...</s>
             </p>
@@ -2838,7 +2894,7 @@
               <s>Allons, Monsieur Dimanche, je vais vous éclairer.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-69">
+          <sp who="mdimanche" xml:id="IV03-69">
             <p>
               <s>Mais mon argent...</s>
             </p>
@@ -2848,7 +2904,7 @@
               <s>Vous moquez-vous ?</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-71">
+          <sp who="mdimanche" xml:id="IV03-71">
             <p>
               <s>Je veux...</s>
             </p>
@@ -2858,7 +2914,7 @@
               <s>Eh !</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-73">
+          <sp who="mdimanche" xml:id="IV03-73">
             <p>
               <s>J’entends...</s>
             </p>
@@ -2868,7 +2924,7 @@
               <s>Bagatelles.</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-75">
+          <sp who="mdimanche" xml:id="IV03-75">
             <p>
               <s>Mais...</s>
             </p>
@@ -2878,7 +2934,7 @@
               <s>Fi !</s>
             </p>
           </sp>
-          <sp who="MDIMANCHE" xml:id="IV03-77">
+          <sp who="mdimanche" xml:id="IV03-77">
             <p>
               <s>Je...</s>
             </p>
@@ -2891,12 +2947,13 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="IV04">
-          <sp who="LAVIOLETTE" xml:id="IV04-1">
+          <head>Scène IV</head>
+          <sp who="laviolette" xml:id="IV04-1">
             <p>
               <s>Monsieur, voilà Monsieur votre père.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV04-2">
+          <sp who="donjuan" xml:id="IV04-2">
             <p>
               <s>Ah !</s>
               <s>Me voici bien : il me fallait cette visite pour me faire enrager.</s>
@@ -2922,7 +2979,7 @@
               <s>Apprenez enfin qu’un gentilhomme qui vit mal est un monstre dans la nature, que la vertu est le premier titre de noblesse, que je regarde bien moins au nom qu’on signe qu’aux actions qu’on fait, et que je ferais plus d’état du fils d’un crocheteur qui serait honnête homme, que du fils d’un monarque qui vivrait comme vous.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV04-4">
+          <sp who="donjuan" xml:id="IV04-4">
             <p>
               <s>Monsieur, si vous étiez assis, vous en seriez mieux pour parler.</s>
             </p>
@@ -2935,7 +2992,8 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="IV05">
-          <sp who="DONJUAN" xml:id="IV05-1">
+          <head>Scène V</head>
+          <sp who="donjuan" xml:id="IV05-1">
             <p>
               <s>Eh !</s>
               <s>Mourez le plus tôt que vous pourrez, c’est le mieux que vous puissiez faire.</s>
@@ -2948,7 +3006,7 @@
               <s>Monsieur, vous avez tort.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV05-3">
+          <sp who="donjuan" xml:id="IV05-3">
             <p>
               <s>J’ai tort ?</s>
             </p>
@@ -2958,7 +3016,7 @@
               <s>Monsieur...</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV05-5">
+          <sp who="donjuan" xml:id="IV05-5">
             <p>
               <s>J’ai tort ?</s>
             </p>
@@ -2976,19 +3034,20 @@
               <s>À quoi me réduis-tu ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV05-7">
+          <sp who="donjuan" xml:id="IV05-7">
             <p>
               <s>Me fera-t-on souper bientôt ?</s>
             </p>
           </sp>
         </div2>
         <div2 type="scene" n="6" xml:id="IV06">
+          <head>Scène VI</head>
           <sp who="ragotin" xml:id="IV06-1">
             <p>
               <s>Monsieur, voici une dame voilée qui vient vous parler.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV06-2">
+          <sp who="donjuan" xml:id="IV06-2">
             <p>
               <s>Que pourrait-ce être ?</s>
             </p>
@@ -2998,7 +3057,7 @@
               <s>Il faut voir.</s>
             </p>
           </sp>
-          <sp who="ELVIRE" xml:id="IV06-4">
+          <sp who="elvire" xml:id="IV06-4">
             <p>
               <s>Ne soyez point surpris, Don Juan, de me voir à cette heure et dans cet équipage.</s>
               <s>C’est un motif pressant qui m’oblige à cette visite, et ce que j’ai à vous dire ne veut point du tout de retardement.</s>
@@ -3007,7 +3066,7 @@
               <s>Le Ciel a banni de mon âme toutes ces insignes ardeurs que je sentais pour vous, tous ces transports tumultueux d’un attachement criminel, tous ces honteux emportements d’un amour terrestre et grossier ; et il n’a laissé dans mon cœur pour vous qu’une flamme épurée de tout le commerce des sens, une tendresse toute sainte, un amour détaché de tout, qui n’agit point pour soi, et ne se met en peine que de votre intérêt.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV06-5">
+          <sp who="donjuan" xml:id="IV06-5">
             <p>
               <s>Tu pleures, je pense.</s>
             </p>
@@ -3017,7 +3076,7 @@
               <s>Pardonnez-moi.</s>
             </p>
           </sp>
-          <sp who="ELVIRE" xml:id="IV06-7">
+          <sp who="elvire" xml:id="IV06-7">
             <p>
               <s>C’est ce parfait et pur amour qui me conduit ici pour votre bien, pour vous faire part d’un avis du Ciel, et tâcher de vous retirer du précipice où vous courez.</s>
               <s>Oui, Don Juan, je sais tous les dérèglements de votre vie, et ce même Ciel, qui m’a touché le cœur et fait jeter les yeux sur les égarements de ma conduite, m’a inspiré de vous venir trouver, et de vous dire, de sa part, que vos offenses ont épuisé sa miséricorde, que sa colère redoutable est prête de tomber sur vous, qu’il est en vous de l’éviter par un prompt repentir, et que peut-être vous n’avez pas encore un jour à vous pouvoir soustraire au plus grand de tous les malheurs.</s>
@@ -3031,7 +3090,7 @@
               <s>Pauvre femme !</s>
             </p>
           </sp>
-          <sp who="ELVIRE" xml:id="IV06-9">
+          <sp who="elvire" xml:id="IV06-9">
             <p>
               <s>Je vous ai aimé avec une tendresse extrême, rien au monde ne m’a été si cher que vous ; j’ai oublié mon devoir pour vous, j’ai fait toutes choses pour vous ; et toute la récompense que je vous en demande, c’est de corriger votre vie, et de prévenir votre perte.</s>
               <s>Sauvez-vous, je vous prie, ou pour l’amour de vous, ou pour l’amour de moi.</s>
@@ -3043,27 +3102,27 @@
               <s>Cœur de tigre !</s>
             </p>
           </sp>
-          <sp who="ELVIRE" xml:id="IV06-11">
+          <sp who="elvire" xml:id="IV06-11">
             <p>
               <s>Je m’en vais, après ce discours, et voilà tout ce que j’avais à vous dire.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV06-12">
+          <sp who="donjuan" xml:id="IV06-12">
             <p>
               <s>Madame, il est tard, demeurez ici : on vous y logera le mieux qu’on pourra.</s>
             </p>
           </sp>
-          <sp who="ELVIRE" xml:id="IV06-13">
+          <sp who="elvire" xml:id="IV06-13">
             <p>
               <s>Non, Don Juan, ne me retenez pas davantage.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV06-14">
+          <sp who="donjuan" xml:id="IV06-14">
             <p>
               <s>Madame, vous me ferez plaisir de demeurer, je vous assure.</s>
             </p>
           </sp>
-          <sp who="ELVIRE" xml:id="IV06-15">
+          <sp who="elvire" xml:id="IV06-15">
             <p>
               <s>Non, vous dis-je, ne perdons point de temps en discours superflus.</s>
               <s>Laissez-moi vite aller, ne faites aucune instance pour me conduire, et songez seulement à profiter de mon avis.</s>
@@ -3071,7 +3130,8 @@
           </sp>
         </div2>
         <div2 type="scene" n="7" xml:id="IV07">
-          <sp who="DONJUAN" xml:id="IV07-1">
+          <head>Scène VII</head>
+          <sp who="donjuan" xml:id="IV07-1">
             <p>
               <s>Sais-tu bien que j’ai encore senti quelque peu d’émotion pour elle, que j’ai trouvé de l’agrément dans cette nouveauté bizarre, et que son habit négligé, son air languissant et ses larmes ont réveillé en moi quelques petits restes d’un feu éteint ?</s>
             </p>
@@ -3081,7 +3141,7 @@
               <s>C’est-à-dire que ses paroles n’ont fait aucun effet sur vous.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV07-3">
+          <sp who="donjuan" xml:id="IV07-3">
             <p>
               <s>Vite à souper.</s>
             </p>
@@ -3091,7 +3151,7 @@
               <s>Fort bien.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV07-5">
+          <sp who="donjuan" xml:id="IV07-5">
             <p>
               <s>Sganarelle, il faut songer à s’amender pourtant.</s>
             </p>
@@ -3101,7 +3161,7 @@
               <s>Oui-da !</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV07-7">
+          <sp who="donjuan" xml:id="IV07-7">
             <p>
               <s>Oui, ma foi !</s>
               <s>Il faut s’amender ; encore vingt ou trente ans de cette vie-ci, et puis nous songerons à nous.</s>
@@ -3112,7 +3172,7 @@
               <s>Oh !</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV07-9">
+          <sp who="donjuan" xml:id="IV07-9">
             <p>
               <s>Qu’en dis-tu ?</s>
             </p>
@@ -3123,7 +3183,7 @@
               <s>Voilà le souper.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV07-11">
+          <sp who="donjuan" xml:id="IV07-11">
             <p>
               <s>Il me semble que tu as la joue enflée ; qu’est-ce que c’est ?</s>
               <s>Parle donc, qu’as-tu là ?</s>
@@ -3134,7 +3194,7 @@
               <s>Rien.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV07-13">
+          <sp who="donjuan" xml:id="IV07-13">
             <p>
               <s>Montre un peu.</s>
               <s>Parbleu !</s>
@@ -3152,7 +3212,7 @@
               <s>Monsieur, je voulais voir si votre cuisinier n’avait point mis trop de sel ou trop de poivre.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV07-15">
+          <sp who="donjuan" xml:id="IV07-15">
             <p>
               <s>Allons, mets-toi là, et mange.</s>
               <s>J’ai affaire de toi quand j’aurai soupé.</s>
@@ -3171,7 +3231,7 @@
               <s>Et vous, petit la Violette, que vous savez présenter à boire à propos !</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV07-17">
+          <sp who="donjuan" xml:id="IV07-17">
             <p>
               <s>Qui peut frapper de cette sorte ?</s>
             </p>
@@ -3181,7 +3241,7 @@
               <s>Qui diable nous vient troubler dans notre repas ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV07-19">
+          <sp who="donjuan" xml:id="IV07-19">
             <p>
               <s>Je veux souper en repos au moins, et qu’on ne laisse entrer personne.</s>
             </p>
@@ -3191,7 +3251,7 @@
               <s>Laissez-moi faire, je m’y en vais moi-même.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV07-21">
+          <sp who="donjuan" xml:id="IV07-21">
             <p>
               <s>Qu’est-ce donc ?</s>
               <s>Qu’y a-t-il ?</s>
@@ -3203,7 +3263,7 @@
               <s>qui est là !</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV07-23">
+          <sp who="donjuan" xml:id="IV07-23">
             <p>
               <s>Allons voir, et montrons que rien ne me saurait ébranler.</s>
             </p>
@@ -3216,7 +3276,8 @@
           </sp>
         </div2>
         <div2 type="scene" n="8" xml:id="IV08">
-          <sp who="DONJUAN" xml:id="IV08-1">
+          <head>Scène VIII</head>
+          <sp who="donjuan" xml:id="IV08-1">
             <p>
               <s>Une chaise et un couvert, vite donc.</s>
             </p>
@@ -3229,7 +3290,7 @@
               <s>Monsieur, je n’ai plus de faim.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV08-3">
+          <sp who="donjuan" xml:id="IV08-3">
             <p>
               <s>Mets-toi là, te dis-je.</s>
               <s>À boire.</s>
@@ -3242,7 +3303,7 @@
               <s>Monsieur, je n’ai pas soif.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV08-5">
+          <sp who="donjuan" xml:id="IV08-5">
             <p>
               <s>Bois, et chante ta chanson, pour régaler le Commandeur.</s>
             </p>
@@ -3252,21 +3313,21 @@
               <s>Je suis enrhumé, Monsieur.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV08-7">
+          <sp who="donjuan" xml:id="IV08-7">
             <p>
               <s>Il n’importe.</s>
               <s>Allons.</s>
               <s>Vous autres, venez, accompagnez sa voix.</s>
             </p>
           </sp>
-          <sp who="COMMANDEUR" xml:id="IV08-8">
+          <sp who="commandeur" xml:id="IV08-8">
             <p>
               <s>Don Juan, c’est assez.</s>
               <s>Je vous invite à venir demain souper avec moi.</s>
               <s>En aurez-vous le courage ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV08-9">
+          <sp who="donjuan" xml:id="IV08-9">
             <p>
               <s>Oui, j’irai, accompagné du seul Sganarelle.</s>
             </p>
@@ -3276,12 +3337,12 @@
               <s>Je vous rends grâce, il est demain jeûne pour moi.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="IV08-11">
+          <sp who="donjuan" xml:id="IV08-11">
             <p>
               <s>Prends ce flambeau.</s>
             </p>
           </sp>
-          <sp who="COMMANDEUR" xml:id="IV08-12">
+          <sp who="commandeur" xml:id="IV08-12">
             <p>
               <s>On n’a pas besoin de lumière, quand on est conduit par le Ciel.</s>
             </p>
@@ -3289,7 +3350,9 @@
         </div2>
       </div1>
       <div1 type="act" n="5" xml:id="V">
+        <head>Acte V</head>
         <div2 type="scene" n="1" xml:id="V01">
+          <head>Scène I</head>
           <sp who="don-louis" xml:id="V01-1">
             <p>
               <s>Quoi ?</s>
@@ -3298,7 +3361,7 @@
               <s>Ne m’abusez-vous point d’un faux espoir, et puis-je prendre quelque assurance sur la nouveauté surprenante d’une telle conversion ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V01-2">
+          <sp who="donjuan" xml:id="V01-2">
             <p>
               <s>Oui, vous me voyez revenu de toutes mes erreurs ; je ne suis plus le même d’hier au soir, et le Ciel tout d’un coup a fait en moi un changement qui va surprendre tout le monde : il a touché mon âme et dessillé mes yeux, et je regarde avec horreur le long aveuglement où j’ai été, et les désordres criminels de la vie que j’ai menée.</s>
               <s>J’en repasse dans mon esprit toutes les abominations, et m’étonne comme le Ciel les a pu souffrir si longtemps, et n’a pas vingt fois sur ma tête laissé tomber les coups de sa justice redoutable.</s>
@@ -3318,6 +3381,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="V02">
+          <head>Scène II</head>
           <sp who="sganarelle" xml:id="V02-1">
             <p>
               <s>Ah !</s>
@@ -3325,7 +3389,7 @@
               <s>Il y a longtemps que j’attendais cela, et voilà, grâce au Ciel, tous mes souhaits accomplis.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V02-2">
+          <sp who="donjuan" xml:id="V02-2">
             <p>
               <s>La peste le benêt !</s>
             </p>
@@ -3335,7 +3399,7 @@
               <s>Comment, le benêt ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V02-4">
+          <sp who="donjuan" xml:id="V02-4">
             <p>
               <s>Quoi ?</s>
               <s>Tu prends pour de bon argent ce que je viens de dire, et tu crois que ma bouche était d’accord avec mon cœur ?</s>
@@ -3353,7 +3417,7 @@
               <s>Quel homme !</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V02-6">
+          <sp who="donjuan" xml:id="V02-6">
             <p>
               <s>Non, non, je ne suis point changé, et mes sentiments sont toujours les mêmes.</s>
             </p>
@@ -3363,7 +3427,7 @@
               <s>Vous ne vous rendez pas à la surprenante merveille de cette statue mouvante et parlante ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V02-8">
+          <sp who="donjuan" xml:id="V02-8">
             <p>
               <s>Il y a bien quelque chose là dedans que je ne comprends pas ; mais quoi que ce puisse être, cela n’est pas capable ni de convaincre mon esprit, ni d’ébranler mon âme ; et si j’ai dit que je voulais corriger ma conduite et me jeter dans un train de vie exemplaire, c’est un dessein que j’ai formé par pure politique, un stratagème utile, une grimace nécessaire où je veux me contraindre, pour ménager un père dont j’ai besoin, et me mettre à couvert, du côté des hommes, de cent fâcheuses aventures qui pourraient m’arriver.</s>
               <s>Je veux bien, Sganarelle, t’en faire confidence, et je suis bien aise d’avoir un témoin du fond de mon âme et des véritables motifs qui m’obligent à faire les choses.</s>
@@ -3375,7 +3439,7 @@
               <s>Vous ne croyez rien du tout, et vous voulez cependant vous ériger en homme de bien ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V02-10">
+          <sp who="donjuan" xml:id="V02-10">
             <p>
               <s>Et pourquoi non ?</s>
               <s>Il y en a tant d’autres comme moi, qui se mêlent de ce métier, et qui se servent du même masque pour abuser le monde !</s>
@@ -3388,7 +3452,7 @@
               <s>Quel homme !</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V02-12">
+          <sp who="donjuan" xml:id="V02-12">
             <p>
               <s>Il n’y a plus de honte maintenant à cela : l’hypocrisie est un vice à la mode, et tous les vices à la mode passent pour vertus.</s>
               <s>Le personnage d’homme de bien est le meilleur de tous les personnages qu’on puisse jouer aujourd’hui, et la profession d’hypocrite a de merveilleux avantages.</s>
@@ -3418,7 +3482,7 @@
               <s>Sachez, Monsieur, que tant va la cruche à l’eau, qu’enfin elle se brise ; et comme dit fort bien cet auteur que je ne connais pas, l’homme est en ce monde ainsi que l’oiseau sur la branche ; la branche est attachée à l’arbre ; qui s’attache à l’arbre, suit de bons préceptes ; les bons préceptes valent mieux que les belles paroles ; les belles paroles se trouvent à la Cour ; à la Cour sont les courtisans ; les courtisans suivent la mode ; la mode vient de la fantaisie ; la fantaisie est une faculté de l’âme ; l’âme est ce qui nous donne la vie ; la vie finit par la mort ; la mort nous fait penser au Ciel ; le Ciel est au-dessus de la terre ; la terre n’est point la mer ; la mer est sujette aux orages ; les orages tourmentent les vaisseaux ; les vaisseaux ont besoin d’un bon pilote ; un bon pilote a de la prudence ; la prudence n’est point dans les jeunes gens ; les jeunes gens doivent obéissance aux vieux ; les vieux aiment les richesses ; les richesses font les riches ; les riches ne sont pas pauvres ; les pauvres ont de la nécessité, nécessité n’a point de loi ; qui n’a point de loi vit en bête brute ; et par conséquent, vous serez damné à tous les diables.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V02-14">
+          <sp who="donjuan" xml:id="V02-14">
             <p>
               <s>Ô beau raisonnement !</s>
             </p>
@@ -3430,6 +3494,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="V03">
+          <head>Scène III</head>
           <sp who="don-carlos" xml:id="V03-1">
             <p>
               <s>Don Juan, je vous trouve à propos, et suis bien aise de vous parler ici plutôt que chez vous, pour vous demander vos résolutions.</s>
@@ -3437,7 +3502,7 @@
               <s>Pour moi je ne le cèle point, je souhaite fort que les choses aillent dans la douceur ; et il n’y a rien que je ne fasse pour porter votre esprit à vouloir prendre cette voie, et pour vous voir publiquement confirmer à ma sœur le nom de votre femme.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V03-2">
+          <sp who="donjuan" xml:id="V03-2">
             <p>
               <s>Hélas !</s>
               <s>Je voudrais bien, de tout mon cœur, vous donner la satisfaction que vous souhaitez ; mais le Ciel s’y oppose directement : il a inspiré à mon âme le dessein de changer de vie, et je n’ai point d’autres pensées maintenant que de quitter entièrement tous les attachements du monde, de me dépouiller au plus tôt de toutes sortes de vanités, et de corriger désormais par une austère conduite tous les dérèglements criminels où m’a porté le feu d’une aveugle jeunesse.</s>
@@ -3448,7 +3513,7 @@
               <s>Ce dessein, Don Juan, ne choque point ce que je dis ; et la compagnie d’une femme légitime peut bien s’accommoder avec les louables pensées que le Ciel vous inspire.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V03-4">
+          <sp who="donjuan" xml:id="V03-4">
             <p>
               <s>Hélas !</s>
               <s>Point du tout.</s>
@@ -3460,7 +3525,7 @@
               <s>Sa retraite ne peut nous satisfaire, pouvant être imputée au mépris que vous feriez d’elle et de notre famille ; et notre honneur demande qu’elle vive avec vous.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V03-6">
+          <sp who="donjuan" xml:id="V03-6">
             <p>
               <s>Je vous assure que cela ne se peut.</s>
               <s>J’en avais, pour moi, toutes les envies du monde, et je me suis même encore aujourd’hui conseillé au Ciel pour cela ; mais, lorsque je l’ai consulté j’ai entendu une voix qui m’a dit que je ne devais point songer à votre sœur, et qu’avec elle assurément je ne ferais point mon salut.</s>
@@ -3471,7 +3536,7 @@
               <s>Croyez-vous, Don Juan, nous éblouir par ces belles excuses ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V03-8">
+          <sp who="donjuan" xml:id="V03-8">
             <p>
               <s>J’obéis à la voix du Ciel.</s>
             </p>
@@ -3482,7 +3547,7 @@
               <s>Vous voulez que je me paye d’un semblable discours ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V03-10">
+          <sp who="donjuan" xml:id="V03-10">
             <p>
               <s>C’est le Ciel qui le veut ainsi.</s>
             </p>
@@ -3492,7 +3557,7 @@
               <s>Vous aurez fait sortir ma sœur d’un convent, pour la laisser ensuite ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V03-12">
+          <sp who="donjuan" xml:id="V03-12">
             <p>
               <s>Le Ciel l’ordonne de la sorte.</s>
             </p>
@@ -3502,7 +3567,7 @@
               <s>Nous souffrirons cette tache en notre famille ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V03-14">
+          <sp who="donjuan" xml:id="V03-14">
             <p>
               <s>Prenez-vous-en au Ciel.</s>
             </p>
@@ -3513,7 +3578,7 @@
               <s>Toujours le Ciel ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V03-16">
+          <sp who="donjuan" xml:id="V03-16">
             <p>
               <s>Le Ciel le souhaite comme cela.</s>
             </p>
@@ -3524,7 +3589,7 @@
               <s>Ce n’est pas ici que je veux vous prendre, et le lieu ne le souffre pas ; mais, avant qu’il soit peu, je saurai vous trouver.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V03-18">
+          <sp who="donjuan" xml:id="V03-18">
             <p>
               <s>Vous ferez ce que vous voudrez ; vous savez que je ne manque point de cœur, et que je sais me servir de mon épée quand il le faut.</s>
               <s>Je m’en vais passer tout à l’heure dans cette petite rue écartée qui mène au grand convent ; mais je vous déclare, pour moi, que ce n’est point moi qui me veux battre : le Ciel m’en défend la pensée ; et si vous m’attaquez, nous verrons ce qui en arrivera.</s>
@@ -3537,6 +3602,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="V04">
+          <head>Scène IV</head>
           <sp who="sganarelle" xml:id="V04-1">
             <p>
               <s>Monsieur, quel diable de style prenez-vous là ?</s>
@@ -3544,7 +3610,7 @@
               <s>J’espérais toujours de votre salut ; mais c’est maintenant que j’en désespère ; et je crois que le Ciel, qui vous a souffert jusques ici, ne pourra souffrir du tout cette dernière horreur.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V04-2">
+          <sp who="donjuan" xml:id="V04-2">
             <p>
               <s>Va, va, le Ciel n’est pas si exact que tu penses ; et si toutes les fois que les hommes...</s>
             </p>
@@ -3555,13 +3621,14 @@
               <s>Monsieur, c’est le Ciel qui vous parle, et c’est un avis qu’il vous donne.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V04-4">
+          <sp who="donjuan" xml:id="V04-4">
             <p>
               <s>Si le Ciel me donne un avis, il faut qu’il parle un peu plus clairement, s’il veut que je l’entende.</s>
             </p>
           </sp>
         </div2>
         <div2 type="scene" n="5" xml:id="V05">
+          <head>Scène V</head>
           <sp who="spectre" xml:id="V05-1">
             <p>
               <s>Don Juan n’a plus qu’un moment à pouvoir profiter de la miséricorde du Ciel ; et s’il ne se repent ici, sa perte est résolue.</s>
@@ -3572,7 +3639,7 @@
               <s>Entendez-vous, Monsieur ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V05-3">
+          <sp who="donjuan" xml:id="V05-3">
             <p>
               <s>Qui ose tenir ces paroles ?</s>
               <s>Je crois connaître cette voix.</s>
@@ -3584,7 +3651,7 @@
               <s>Monsieur, c’est un spectre : je le reconnais au marcher.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V05-5">
+          <sp who="donjuan" xml:id="V05-5">
             <p>
               <s>Spectre, fantôme ; ou diable, je veux voir ce que c’est.</s>
             </p>
@@ -3595,7 +3662,7 @@
               <s>Voyez-vous, Monsieur, ce changement de figure ?</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V05-7">
+          <sp who="donjuan" xml:id="V05-7">
             <p>
               <s>Non, non, rien n’est capable de m’imprimer de la terreur, et je veux éprouver avec mon épée si c’est un corps ou un esprit.</s>
             </p>
@@ -3606,7 +3673,7 @@
               <s>Monsieur, rendez-vous à tant de preuves, et jetez-vous vite dans le repentir.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V05-9">
+          <sp who="donjuan" xml:id="V05-9">
             <p>
               <s>Non, non, il ne sera pas dit, quoi qu’il arrive, que je sois capable de me repentir.</s>
               <s>Allons, suis-moi.</s>
@@ -3614,33 +3681,34 @@
           </sp>
         </div2>
         <div2 type="scene" n="6" xml:id="V06">
-          <sp who="COMMANDEUR" xml:id="V06-1">
+          <head>Scène VI</head>
+          <sp who="commandeur" xml:id="V06-1">
             <p>
               <s>Arrêtez, Don Juan ! Vous m’avez hier donné parole de venir manger avec moi.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V06-2">
+          <sp who="donjuan" xml:id="V06-2">
             <p>
               <s>Oui.</s>
               <s>Où faut-il aller ?</s>
             </p>
           </sp>
-          <sp who="COMMANDEUR" xml:id="V06-3">
+          <sp who="commandeur" xml:id="V06-3">
             <p>
               <s>Donnez-moi la main.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V06-4">
+          <sp who="donjuan" xml:id="V06-4">
             <p>
               <s>La voilà.</s>
             </p>
           </sp>
-          <sp who="COMMANDEUR" xml:id="V06-5">
+          <sp who="commandeur" xml:id="V06-5">
             <p>
               <s>Don Juan, l’endurcissement au péché traîne une mort funeste, et les grâces du Ciel que l’on renvoie ouvrent un chemin à sa foudre.</s>
             </p>
           </sp>
-          <sp who="DONJUAN" xml:id="V06-6">
+          <sp who="donjuan" xml:id="V06-6">
             <p>
               <s>Ô Ciel !</s>
               <s>Que sens-je ?</s>

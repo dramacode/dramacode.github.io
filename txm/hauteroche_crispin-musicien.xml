@@ -1,14 +1,67 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Crispin musicien. Comédie</title>
+        <author key="Hauteroche, Noël Lebreton (1617-1707 ; sieur de)">Sieur de Hauteroche</author>
+        <editor>Cécile Gervais</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Cécile Gervais sous la direction de Georges Forestier (2005)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/hauteroche_crispin-musicien/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/hauteroche_crispin-musicien.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/hauteroche_crispin-musicien.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/hauteroche_crispin-musicien.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/hauteroche_crispin-musicien.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1674">1674</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>CRISPIN MUSICIEN, <lb/>COMEDIE.</head>
       <div xml:id="preface">
+        <head>PREFACE</head>
         <p>Si l’on doit juger d’une Comedie par sa rêüssite, j’ay lieu de croire que celle-cy n’est pas des plus mêchantes. Quarante Representations de suite dans la plus mauvaise saison de l’année, me persuadent aisêment qu’elle n’est pas sans merite ; et à parler de bonne foy, je pense qu’un autre en ma place, auroit peine à ne pas se laisser aller à cette persuasion. Le Public, qui dêcide ordinairement de ces sortes d’Ouvrages, a paru fort content de celuy-cy : mais parmy tant de beau Monde qui l’est venu voir en foule, il s’est rencontrê de ces Critiques à outrance, qui ne luy ont pas estê si favorables. Ils ont, suivant leur chagrin naturel, condamnê plusieurs endroits de cette Comedie ; mais le succés qu’elle a eu, m’a vangê pleinement de la malignité de leur humeur critiquante. J’ai le plaisir de voir malgré eux, que sans cabale &amp; sans aucune <ref target="#brigue">brigue*</ref>, cette Piece s’est d’elle-mesme attirêe l’estime de tout Paris, et que je n’en suis obligê qu’à l’equitê du public, et au soin de mes Camarades. Ces Messieurs les Critiques ont crû donner une grande atteinte à cette Comedie, en faisant remarquer qu’il y a peu de Sujet ; mais je ne voy pas que ce soit un grand defaut, ny que cette remarque me soit desavantageuse. Je sçais comme eux, qu’on y trouvera une duplicitê d’action ; mais je sçais bien aussi que l’action episodique est moindre que la principale, que cette duplicitê n’est pas sans liaison, et qu’il est aisê de connoistre que c’est par les Personnages episodiques que le dênoüement s’en fait. On dit qu’ils m’ont fait la grace de passer legerement sur la conduite ; mais qu’ils ont blâmê fortement quelques Personnages, qui selon leur censure, pouvoient estre retranchez sans rien alterer du Sujet. J’avouë qu’il y en a quelques-uns que possible j’aurois pû retrancher ; mais j’ose dire qu’ils ont produit un trop bon effet dans la Piece, pour croire que je me repente jamais de les y avoir laissez : outre, qu’à considerer la chose avec un peu de réflexion, on verra que ces Personnages ne sont pas si dêtachez que ces Messieurs ont voulu se l’imaginer. Le Musicien attendu par les Filles de Dorame, inspire la pensée à Toinon de faire Crispin Maistre de Musique, pour se tirer de l’embaras où ils sont ; et cette adresse dont elle se sert en cette rencontre, donne lieu à des incidens fort agreables, qui aident beaucoup au dènoüement. Le Breton qui vient au quatrième Acte pour faire un message à Phelonte de la part de Melante son Maistre, ne rompt point le fil de l’action : il estoit de la prudence de Melante en cette occasion d’envoyer avertir Phelonte de sa venuë, afin de ne pas exposer la personne qu’il aime à la veuë des Gens que le hazard pouvoit faire rencontrer au logis de Phelonte. Pour prevenir cet inconvenient, Melante y envoye son Valet, et n’en ayant point de réponse, il y vient luy-mesme : ainsi on peut conclure que la Scene du Breton n’est pas tout-à-fait inutile, et que son Personnage est en quelque façon attaché à la Piece. A la veritè, Melante y pouvoit venir d’abord ; mais en de pareilles occurrences, un Amant n’abandonne guere sa Maitresse, particulierement lors qu’il a un Valet sur lequel il peut se reposer. Sans m’arrester à répondre à toutes les chicanes des Critiques, je diray en passant que nous avons quantitè d’exemples de ces Personnages que ces Messieurs trouvent ètrangers au Sujet, qui souvent ont fait naistre au Theatre des plaisanteries fort spirituelles. Plaute et Terence n’ont point fait de difficultè de s’en servir ; et l’Illustre Moliere, ayant suivy leurs traces, ne s’en est pas mal trouvè. Ce n’est pas que je veuille dire par là que ces exemples soient toûjours bons à suivre ; au contraire, je tiens que l’<ref target="#art">Art*</ref> est un chemin bien plus certain, et que ses preceptes conduisent plus seûrement à la perfection que ne font ces sortes de libertez, quoy qu’elles ayent esté fort heureuses. Il est constant qu’on ne peut
           jamais déplaire avec l’Art, et qu’il est dangereux de s’ècarter de ses regles ; mais je croy qu’on est pas tout-à-fait condamnable quand en le faisant on rèüssit, et qu’on trouve le moyen de plaire, qui est le but de ce grand <ref target="#art">Art*</ref>.</p>
       </div>
-      <div/>
+      <div>
+        <head>ACTEURS.</head>
+      </div>
       <div type="act" xml:id="I">
         <pb n="1, A"/>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp who="la-ronce" xml:id="I01-1">
             <l n="1" xml:id="l1">Eh, Messieurs, un moment <ref target="#concerter">concertons*</ref> entre nous ;</l>
             <l n="2" xml:id="l2">De nostre peu de soin, Monsieur est en courroux :</l>
@@ -18,6 +71,7 @@
         </div>
         <div type="scene" xml:id="I02">
           <pb n="2" xml:id="p2"/>
+          <head>SCENE II</head>
           <sp who="crispin" xml:id="I02-1">
             <l n="5" xml:id="l5">Ah Crispin ! ah Crispin ! Quel destin rigoureux</l>
             <l n="6" xml:id="l6">T’a laissé voir Toinon, pour en estre amoureux ?</l>
@@ -35,6 +89,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III</head>
           <sp who="la-ronce" xml:id="I03-1">
             <l part="F">Est-il jour là-dedans ?</l>
           </sp>
@@ -86,6 +141,7 @@
         </div>
         <div type="scene" xml:id="I04">
           <pb n="4" xml:id="p4"/>
+          <head>SCENE IV</head>
           <sp who="phelonte" xml:id="I04-1">
             <l part="M">Quel bruit entens-je ?</l>
           </sp>
@@ -114,6 +170,7 @@
         </div>
         <div type="scene" xml:id="I05">
           <pb n="5" xml:id="p5"/>
+          <head>SCENE V</head>
           <sp who="la-ronce" xml:id="I05-1">
             <l n="30" part="I" xml:id="l30">Je suis fâché…</l>
           </sp>
@@ -154,6 +211,7 @@
         </div>
         <div type="scene" xml:id="I06">
           <pb n="6" xml:id="p6"/>
+          <head>SCENE VI</head>
           <sp who="fanchon" xml:id="I06-1">
             <l n="40" xml:id="l40">Bon-jour, Crispin. Toûjours dans ton humeur grondeuse ?</l>
           </sp>
@@ -243,6 +301,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE 7</head>
           <sp who="phelonte" xml:id="I07-1">
             <l part="M">Bon-jour, Fanchon.</l>
           </sp>
@@ -342,6 +401,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I08">
+          <head>SCENE 8</head>
           <sp who="la-ronce" xml:id="I08-1">
             <l part="F">C’est, Monsieur, Madame vostre Tante,</l>
             <l n="93" part="I" xml:id="l93">Qui demande Fanchon.</l>
@@ -380,6 +440,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I09">
+          <head>SCENE 9</head>
           <sp who="phelonte" xml:id="I09-1">
             <l n="99" part="I" xml:id="l99">Allons, cette Chaconne en <hi rend="i">Ce sol ut</hi>.</l>
             <l part="F">Qu’on range</l>
@@ -391,6 +452,7 @@
         </div>
         <div type="scene" xml:id="I10">
           <pb n="12" xml:id="p12"/>
+          <head>SCENE 10</head>
           <sp who="phelonte" xml:id="I10-1">
             <l n="101" xml:id="l101">Là, prendras-tu le soin d’ajuster mon Chapeau ?</l>
           </sp>
@@ -625,6 +687,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I11">
+          <head>SCENE 11</head>
           <sp who="melante" xml:id="I11-1">
             <l part="F">Qu’a donc Phélonte à se mettre en colere ?</l>
           </sp>
@@ -771,6 +834,7 @@
         </div>
         <div type="scene" xml:id="I12">
           <pb n="21" xml:id="p21"/>
+          <head>SCENE 12</head>
           <sp who="phelonte" xml:id="I12-1">
             <l n="264" xml:id="l264">Hé bien, peut-on sçavoir quel <ref target="#objet">objet*</ref> vous engage ?</l>
             <l n="265" xml:id="l265">Parlez, Monsieur l’Amant ? C’est, sans doute, Fanchon.</l>
@@ -889,6 +953,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I13">
+          <head>SCENE 13</head>
           <sp who="phelonte" xml:id="I13-1">
             <l n="291" xml:id="l291">Qui t’améne ? &amp; que veut ta charmante Maîtresse ?</l>
           </sp>
@@ -1046,6 +1111,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I14">
+          <head>SCENE 14</head>
           <sp who="crispin" xml:id="I14-1">
             <l n="334" xml:id="l334">Toinon, cela va bien, il ne faut qu’achever.</l>
           </sp>
@@ -1118,6 +1184,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I15">
+          <head>SCENE 15</head>
           <sp who="phelonte" xml:id="I15-1">
             <l n="359" xml:id="l359">En donnant ce Billet, assure ta Maistresse…</l>
           </sp>
@@ -1160,6 +1227,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I16">
+          <head>SCENE 16</head>
           <sp who="phelonte" xml:id="I16-1">
             <l part="F">Crispin, va viste,</l>
             <l n="376" part="I" xml:id="l376">Suy-là.</l>
@@ -1196,7 +1264,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="32" xml:id="p32"/>
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE</head>
           <sp who="dorame" xml:id="II01-1">
             <l n="387" xml:id="l387">Vous allez au Convent, pour voir vostre Cousine ?</l>
           </sp>
@@ -1306,6 +1376,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="35" xml:id="p35"/>
+          <head>SCENE II</head>
           <sp who="toinon" xml:id="II02-1">
             <l part="F">Vous souhaitez qu’elle épouse une Grille,</l>
             <l n="449" part="I" xml:id="l449">Franchement ?</l>
@@ -1424,6 +1495,7 @@
         </div>
         <div type="scene" xml:id="II03">
           <pb n="38" xml:id="p38"/>
+          <head>SCENE III</head>
           <sp who="daphnis" xml:id="II03-1">
             <l n="499" part="I" xml:id="l499">Mon Pere est donc sorty ?</l>
           </sp>
@@ -1457,6 +1529,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="39" xml:id="p39"/>
+          <head>SCENE IV</head>
           <sp who="crispin" xml:id="II04-1">
             <l n="515" part="I" xml:id="l515">Dorame…</l>
           </sp>
@@ -1523,6 +1596,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V</head>
           <sp who="dorame" xml:id="II05-1">
             <l n="542" xml:id="l542">Un Homme en mon Logis ! Qui l’y peut attirer ?</l>
           </sp>
@@ -1592,6 +1666,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI</head>
           <sp who="toinon" xml:id="II06-1">
             <l part="F">Que vois-je, nostre Maistre !</l>
             <l n="560" part="I" xml:id="l560">Tout est perdu.</l>
@@ -1697,6 +1772,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE VII</head>
           <sp who="le-musicien" xml:id="II07-1">
             <l n="591" part="I" xml:id="l591">Monsieur.</l>
           </sp>
@@ -1806,6 +1882,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II08">
+          <head>SCENE VIII</head>
           <sp who="le-musicien" xml:id="II08-1">
             <l part="F">Monsieur sçait-il de la Musique ?</l>
           </sp>
@@ -2043,6 +2120,7 @@
         </div>
         <div type="scene" xml:id="II09">
           <pb n="53" xml:id="p53"/>
+          <head>SCENE IX</head>
           <sp who="toinon" xml:id="II09-1">
             <l n="710" xml:id="l710">D’où vient cecy ? Monsieur les armes à la main !</l>
           </sp>
@@ -2083,6 +2161,7 @@
         </div>
         <div type="scene" xml:id="II10">
           <pb n="54" xml:id="p54"/>
+          <head>SCENE X</head>
           <sp who="toinon" xml:id="II10-1">
             <l part="F">Crispin, ah je suis toute émûë.</l>
           </sp>
@@ -2117,7 +2196,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="55" xml:id="p55"/>
+        <head>ACTE III</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE</head>
           <sp who="crispin" xml:id="III01-1">
             <l n="723" xml:id="l723">En peu de mots, Monsieur, voila toute l’histoire.</l>
           </sp>
@@ -2309,6 +2390,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II</head>
           <sp who="crispin" xml:id="III02-1">
             <l n="805" xml:id="l805">Ce changement en vous, est contre mon espoir.</l>
           </sp>
@@ -2331,6 +2413,7 @@
         </div>
         <div type="scene" xml:id="III03">
           <pb n="61" xml:id="p61"/>
+          <head>SCENE III</head>
           <sp who="phelonte" xml:id="III03-1">
             <l part="M">Que vous plaist-il ?</l>
           </sp>
@@ -2578,6 +2661,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV</head>
           <sp who="crispin" xml:id="III04-1">
             <l part="F">Ma Maistresse le <ref target="#piquer">pique*</ref>.</l>
           </sp>
@@ -2614,6 +2698,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V</head>
           <sp who="phelonte" xml:id="III05-1">
             <l n="916" xml:id="l916">Fanchon, tu sçais à quoy je me suis engagé</l>
             <l n="917" part="I" xml:id="l917">A Mélante.</l>
@@ -2643,6 +2728,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI</head>
           <sp who="boniface" xml:id="III06-1">
             <l n="923" part="I" xml:id="l923">Oüy, Monsieur.</l>
           </sp>
@@ -2690,6 +2776,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE VII</head>
           <sp who="boniface" xml:id="III07-1">
             <l part="F">On ne peut le fléchir.</l>
           </sp>
@@ -2768,6 +2855,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III08">
+          <head>SCENE VIII</head>
           <sp who="la-ronce" xml:id="III08-1">
             <l n="968" xml:id="l968">Fort-bien. Ne viens-je point icy mal à propos ?</l>
           </sp>
@@ -2807,6 +2895,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III09">
+          <head>SCENE IX</head>
           <sp who="fanchon" xml:id="III09-1">
             <l part="M">Qu’est-ce ?</l>
           </sp>
@@ -2875,6 +2964,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III10">
+          <head>SCENE X</head>
           <sp who="fanchon" xml:id="III10-1">
             <l n="995" part="I" xml:id="l995">Hé bien, reviendra-t-il ?</l>
           </sp>
@@ -2915,6 +3005,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III11">
+          <head>SCENE XI</head>
           <sp who="fanchon" xml:id="III11-1">
             <l n="1001" part="I" xml:id="l1001">Que veux-tu ?</l>
           </sp>
@@ -3042,6 +3133,7 @@
         </div>
         <div type="scene" xml:id="III12">
           <pb n="78" xml:id="p78"/>
+          <head>SCENE XII</head>
           <sp who="melante" xml:id="III12-1">
             <l part="M">Plaist-il ?</l>
           </sp>
@@ -3114,6 +3206,7 @@
         </div>
         <div type="scene" xml:id="III13">
           <pb n="80" xml:id="p80"/>
+          <head>SCENE XIII</head>
           <sp who="melante" xml:id="III13-1">
             <l n="1047" xml:id="l1047">Madame, ostez le masque, &amp; n’apréhendez rien ;</l>
             <l n="1048" xml:id="l1048">Je suis icy le Maistre, &amp; ce Logis est mien.</l>
@@ -3172,7 +3265,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="82" xml:id="p82"/>
+        <head>ACTE IV</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE</head>
           <sp who="toinon" xml:id="IV01-1">
             <l n="1063" xml:id="l1063">L’embarras est leger, &amp; n’aura point de <ref target="#suite">suite*</ref> ;</l>
             <l n="1064" xml:id="l1064">Du faux Musicien Angélique est instruite,</l>
@@ -3216,6 +3311,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II</head>
           <sp who="crispin" xml:id="IV02-1">
             <l n="1092" xml:id="l1092">Mon Maistre, de vous voir, brûle d’impatience,</l>
             <l n="1093" xml:id="l1093">Madame ; il attend l’ordre à quatre pas d’icy.</l>
@@ -3270,6 +3366,7 @@
         </div>
         <div type="scene" xml:id="IV03">
           <pb n="85" xml:id="p85"/>
+          <head>SCENE III</head>
           <sp who="daphnis" xml:id="IV03-1">
             <l part="F">Où sera mon recours,</l>
             <l n="1111" part="I" xml:id="l1111">Si mon Pere survient ? Tu me pers.</l>
@@ -3292,6 +3389,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <pb n="86" xml:id="p86"/>
+          <head>SCENE IV</head>
           <sp who="phelonte" xml:id="IV04-1">
             <l part="F">Qu’elle est <ref target="#aimable">aimable*</ref> ! Ah Dieux !</l>
             <l n="1119" xml:id="l1119">D’amour, en la voyant, j’ay déja l’ame pleine.</l>
@@ -3461,6 +3559,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V</head>
           <sp who="toinon" xml:id="IV05-1">
             <l n="1204" part="I" xml:id="l1204">Au Diable l’animal !</l>
           </sp>
@@ -3588,6 +3687,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI</head>
           <sp who="toinon" xml:id="IV06-1">
             <l n="1248" xml:id="l1248">Qu’un Pédant à souffrir est un cruel martyre !</l>
           </sp>
@@ -3597,6 +3697,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE VII</head>
           <sp who="dorame" xml:id="IV07-1">
             <l part="F">J’estois en peine de mon Fils,</l>
             <l n="1251" part="I" xml:id="l1251">Comment est-il ?</l>
@@ -3681,6 +3782,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV08">
+          <head>SCENE VIII</head>
           <sp who="toinon" xml:id="IV08-1">
             <l part="F">Bon, nous voila quittes de vostre Pere.</l>
           </sp>
@@ -3710,6 +3812,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV09">
+          <head>SCENE IX</head>
           <sp who="dorame" xml:id="IV09-1">
             <l n="1292" xml:id="l1292">J’allois oublier. Ho, Monsieur Anastase.</l>
           </sp>
@@ -3790,6 +3893,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV10">
+          <head>SCENE X</head>
           <sp who="anastase" xml:id="IV10-1">
             <l n="1316" xml:id="l1316">Donc, Madame Toinon sera toûjours tygresse,</l>
             <l n="1317" xml:id="l1317">Et rien n’adoucira son naturel <ref target="#felon">felon*</ref> ?</l>
@@ -3829,6 +3933,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV11">
+          <head>SCENE XI</head>
           <sp who="dorame" xml:id="IV11-1">
             <l n="1328" xml:id="l1328">Voicy mon autre Clef, qu’on me la perde encore.</l>
           </sp>
@@ -3841,6 +3946,7 @@
         </div>
         <div type="scene" xml:id="IV12">
           <pb n="100" xml:id="p100"/>
+          <head>SCENE XII</head>
           <sp who="crispin" xml:id="IV12-1">
             <l n="1330" part="I" xml:id="l1330">Suivez bien vostre Mode, allons, par <hi rend="i">E mi la</hi>.</l>
             <l part="F"><hi rend="i">Le mesme, Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa.</hi> bis.</l>
@@ -3993,6 +4099,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV13">
+          <head>SCENE XIII</head>
           <sp who="toinon" xml:id="IV13-1">
             <l n="1366" xml:id="l1366">Ces Messieurs enfermez, vous mettent en soucy.</l>
           </sp>
@@ -4277,7 +4384,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="110" xml:id="p110"/>
+        <head>ACTE V</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE</head>
           <sp who="crispin" xml:id="V01-1">
             <p rend="i">Fa re mi fa, fa sol fa mi, &amp;c.</p>
             <l n="1447" part="I" xml:id="l1447">Hem ?</l>
@@ -4424,6 +4533,7 @@
         </div>
         <div type="scene" xml:id="V02">
           <pb n="114" xml:id="p114"/>
+          <head>SCENE II</head>
           <sp who="fanchon" xml:id="V02-1">
             <l part="F">Quoy donc, icy dans le repos ?</l>
             <l n="1519" xml:id="l1519">Et ne sçavez-vous pas, que depuis plus d’une heure</l>
@@ -4472,6 +4582,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III</head>
           <sp who="fanchon" xml:id="V03-1">
             <l part="F">Crispin, quelle affaire pressée</l>
             <l n="1533" part="I" xml:id="l1533">Pourroit avoir Monsieur ? dis.</l>
@@ -4563,6 +4674,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV</head>
           <sp who="toinon" xml:id="V04-1">
             <l n="1563" part="I" xml:id="l1563">Hé bien, que luy veux-tu ? voicy Toinon.</l>
           </sp>
@@ -4688,6 +4800,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V</head>
           <sp who="phelonte" xml:id="V05-1">
             <l n="1604" xml:id="l1604">Tien, Crispin, va porter promptement… Ah Madame,</l>
             <l n="1605" xml:id="l1605">Vous icy ! quel bonheur pouvoit m’estre plus cher ?</l>
@@ -4807,6 +4920,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI</head>
           <sp who="dorame" xml:id="V06-1">
             <l n="1664" part="I" xml:id="l1664">Que vois-je icy ? Ma Fille !</l>
           </sp>
@@ -5033,6 +5147,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII</head>
           <sp who="crispin" xml:id="V07-1">
             <l n="1741" xml:id="l1741">Monsieur a le goust fin, de vostre mieux allons,</l>
             <l n="1742" xml:id="l1742"><hi rend="i">Fa sol.</hi> Prenez le ton avec les Violons.</l>
@@ -5129,6 +5244,7 @@
         </div>
         <div type="scene" xml:id="V08">
           <pb n="131" xml:id="p131"/>
+          <head>SCENE DERNIERE</head>
           <sp who="melante" xml:id="V08-1">
             <l n="1781" part="I" xml:id="l1781">Nous venons prendre part au Concert.</l>
           </sp>

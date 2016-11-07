@@ -1,8 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Scipion l'Africain. Tragédie</title>
+        <author key="Pradon, Nicolas (1632-1698)">Jacques Pradon</author>
+        <principal>Georges Forestier</principal>
+        <editor>Chloé Beaucamp</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Chloé Beaucamp dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2006-2007)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/pradon_scipion/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/pradon_scipion.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/pradon_scipion.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/pradon_scipion.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/pradon_scipion.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1697"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>Scipion <lb/>l’Africain,<lb/>Tragédie</head>
       <div xml:id="preface">
+        <head>PREFACE.</head>
         <p><hi rend="i">Si le succés d’un Ouvrage doit le défendre contre la critique, et si la premiere et la plus infaillible regle du Theatre est celle de plaire</hi><hi rend="i">, j’ose dire que Scipion l’Africain ayant eu ce bonheur, je pourois me dispenser de répondre au critiques qu’on en a faites. Cependant sans me prévaloir des applaudissemens que le public luy a donnez, je vais tâcher en peu de mots d’en justifier la conduite. On me reproche d’avoir fait Scipion amoureux ; mais je soûtiens que le mettant sur la Scene, j’ay dû luy donner ce caractere, qui releve son</hi><pb n="II"/><hi rend="i"> action principale, qui est de vaincre sa passion, et de rendre sa Maîtresse à son Rival. Aristote nous aprend qu’on peut ajoûter quelque chose de vray-semblable au vray</hi><hi rend="i"> ; et il est vray-semblable que Scipion à l’âge de vingt-quatre ans, ayant pris la plus belle personne de l’Univers, ait été sensible à sa beauté et qu’il ait rendu quelques combats, avant que de la rendre à Lucejus Prince des Celtiberiens, à qui elle estoit promise. D’ailleurs si Scipion avoit remis sa captive sans la voir, son action n’auroit pas été si belle, que de la rendre aprés l’avoir veuë, et aprés en avoir esté vivement touché</hi><hi rend="i"> ; car comme dit le grand Corneille</hi>, </p>
+        <quote>
+          <l rend="i">Ce n’est qu’en ces assauts qu’éclate la vertu,</l>
+          <l><hi rend="i">Et l’on doute d’un cœur qui n’a point combatu</hi>.</l>
+        </quote>
         <p>
           <pb n="III"/>
           <hi rend="i"> Il me semble même que Scipion auroit bien douté de sa vertu, et du pouvoir qu’il avoit sur luy de n’oser voir une tres-belle personne, de peur d’en être tenté</hi>
@@ -13,6 +62,7 @@
         </p>
       </div>
       <div xml:id="privilege">
+        <head>EXTRAIT DU PRIVILEGE <lb/>du Roy.</head>
         <p>Par Grace &amp; Privilege du Roy, donné à Paris le vingt-uniéme Mars 1697. Signé, Par le Roy en son Conseil, LE FEVRE. Il est permis à THOMAS GUILLAIN, Marchand Libraire à Paris, de faire imprimer, vendre &amp; debiter <hi rend="i">le Recueil des Tragedies du Sieur</hi> PRADON, pendant le temps de six années, à compter du jour qu’elles seront achevées d’imprimer pour la premiere fois, en vertu des presentes, pendant lequel temps tres-expresses inhibitions &amp; défenses sont faites à toutes personnes de quelque qualité &amp; condition qu’elles soient ; de faire imprimer, vendre ny debiter desdites Tragedies conjointement, ou separément, d’autre Edition que celles de l’Exposant, ou de ceux qui auront droit de luy, à peine de quinze cens livres d’amende, payable sans déport par chacun des Contrevenans, de confiscation des Exemplaires contrefaits, &amp; de tous dépens, dommages &amp; interests, &amp; autres peines portées plus au long par lesdites Lettres de Privilege.</p>
         <p rend="i">Registré sur le Livre de la Communauté des Imprimeurs et Libraires de la Ville de Paris, le 26 Mars 1697.</p>
         <p rend="right">
@@ -21,10 +71,14 @@
         <p>Achevé d’imprimer pour la premiere fois le premier Avril 1697.</p>
         <p><hi rend="i">Le prix est vingt sols</hi>.</p>
       </div>
-      <div xml:id="acteurs"/>
+      <div xml:id="acteurs">
+        <head>Acteurs.</head>
+      </div>
       <div type="act" xml:id="I">
         <pb n="A,1" xml:id="p1"/>
+        <head>ACTE I.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp who="lepide" xml:id="I01-1">
             <l n="1" xml:id="l1">Seigneur, en attendant que Scipion vous voye,</l>
             <l n="2" xml:id="l2">Je me tiens honoré de l’ordre qu’il m’envoye,</l>
@@ -119,6 +173,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp who="erixene" xml:id="I02-1">
             <l n="78" xml:id="l78">On nous vient d’annoncer une grande nouvelle,</l>
             <l n="79" xml:id="l79">Annibal en Affrique est enfin de retour.</l>
@@ -203,6 +258,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <pb n="7" xml:id="p7"/>
+          <head>SCENE III.</head>
           <sp who="scipion" xml:id="I03-1">
             <l n="138" xml:id="l138">Est-il donc vray, Seigneur, ce qu’on vient de m’apprendre,</l>
             <l n="139" xml:id="l139">Que le grand Annibal cherche à m’entretenir ?</l>
@@ -281,6 +337,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp who="scipion" xml:id="I04-1">
             <l n="185" xml:id="l185">Lepide, que crois-tu de cette conference</l>
             <l n="186" xml:id="l186">Qu’Annibal me demande avecque tant d’instance ;</l>
@@ -461,7 +518,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="15" xml:id="p15"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp who="isperie" xml:id="II01-1">
             <l n="313" xml:id="l313"><ref target="#languir2">Languirais*</ref>-je toujours en des craintes <ref target="#mortel2">mortelles*</ref> ?</l>
             <l n="314" xml:id="l314">Du Prince Lucejus on n’a point de nouvelles,</l>
@@ -545,6 +604,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="18" xml:id="p18"/>
+          <head>SCENE II.</head>
           <sp who="lucejus" xml:id="II02-1">
             <l part="F">N’en doutez plus,</l>
             <l n="380" xml:id="l380">Madame, &amp; <ref target="#connaitre1">connoissez*</ref> aujourd’huy Lucejus :</l>
@@ -677,6 +737,7 @@
         </div>
         <div type="scene" xml:id="II03">
           <pb n="22" xml:id="p22"/>
+          <head>SCENE III.</head>
           <sp who="isperie" xml:id="II03-1">
             <l n="471" xml:id="l471">A present je respire ! il a rempli mes vœux,</l>
             <l n="472" xml:id="l472">Cet Amant que je vois fidelle &amp; <ref target="#genereux1">genereux*</ref>,</l>
@@ -697,6 +758,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="23" xml:id="p23"/>
+          <head>SCENE IV.</head>
           <sp who="scipion" xml:id="II04-1">
             <l part="F">Je vous cherchois, Madame ;</l>
             <l n="486" xml:id="l486">Mais quel trouble nouveau frape &amp; saisit vôtre ame !</l>
@@ -841,6 +903,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <sp who="scipion" xml:id="II05-1">
             <l n="581" xml:id="l581">Et le <ref target="#sort5">sort*</ref>, juste Ciel ! &amp; les yeux pleins de larmes</l>
             <l n="582" xml:id="l582">Attendrissent mon cœur, &amp; m’arrachent les armes, </l>
@@ -880,7 +943,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="29" xml:id="p29"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp who="barce" xml:id="III01-1">
             <l n="613" xml:id="l613">Tandis que Scipion fait ranger son armée,</l>
             <l n="614" xml:id="l614">Que pour en soûtenir l’éclat, la renommée[,]</l>
@@ -973,6 +1038,7 @@
         </div>
         <div type="scene" xml:id="III02">
           <pb n="32" xml:id="p32"/>
+          <head>SCENE II.</head>
           <sp who="lepide" xml:id="III02-1">
             <l n="685" xml:id="l685">Annibal dans ces lieux à l’instant va se rendre,</l>
             <l n="686" xml:id="l686">Scipion suit mes pas, Madame, &amp; vient l’attendre,</l>
@@ -984,6 +1050,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp who="scipion" xml:id="III03-1">
             <l part="F">Mes desirs empressez</l>
             <l n="689" xml:id="l689">Seront bien-tôt remplis, &amp; suivant mon attente</l>
@@ -1033,6 +1100,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp who="annibal" xml:id="III04-1">
             <l part="F">Si j’ay paru surpris à vôtre <ref target="#aspect">aspect*</ref>,</l>
             <l n="729" xml:id="l729">Et si quelques momens j’ay gardé le silence,</l>
@@ -1232,6 +1300,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp who="scipion" xml:id="III05-1">
             <l part="F"><ref target="#connaitre1">Connoît*</ref>-il ma tendresse ?</l>
             <l n="895" xml:id="l895">Ah Ciel ! que m’a-t-il dit ! il <ref target="#prevenir">prévient*</ref> mon ardeur,</l>
@@ -1266,7 +1335,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="42" xml:id="p42"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp who="ermilie" xml:id="IV01-1">
             <l n="921" xml:id="l921">Ouy, Madame, Annibal par l’éclat de vos <ref target="#charme">charmes*</ref></l>
             <l n="922" xml:id="l922">Du fameux Scipion a suspendu les armes ;</l>
@@ -1301,6 +1372,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II.</head>
           <sp who="lucejus" xml:id="IV02-1">
             <l n="949" xml:id="l949">He bien, aprenez-moy quelle est ma destinée ?</l>
             <l n="950" xml:id="l950">Madame, est-elle heureuse ? est-elle infortunée ?</l>
@@ -1391,6 +1463,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <sp who="isperie" xml:id="IV03-1">
             <l part="F">Helas ! que va-t-il entreprendre ?</l>
             <l n="1010" xml:id="l1010">Il va perir, c’est tout ce que j’en dois attendre ?</l>
@@ -1403,6 +1476,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <pb n="47" xml:id="p47"/>
+          <head>SCENE IV.</head>
           <sp who="isperie" xml:id="IV04-1">
             <l part="F">J’embrasse vos genoux,</l>
             <l n="1016" part="I" xml:id="l1016">Seigneur, que vos bontez…</l>
@@ -1513,6 +1587,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V.</head>
           <sp who="isperie" xml:id="IV05-1">
             <l n="1093" xml:id="l1093">Cruel ? à Lucejus mon cœur sera fidelle,</l>
             <l n="1094" xml:id="l1094">Et je seray toujours à cet ordre rebelle,</l>
@@ -1523,6 +1598,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI.</head>
           <sp who="scipion" xml:id="IV06-1">
             <l n="1099" xml:id="l1099">On veut que vous soyez le gage d’une paix,</l>
             <l n="1100" xml:id="l1100">Qui <ref target="#sans-doute">sans doute*</ref> n’est pas conforme à vos souhaits ;</l>
@@ -1549,6 +1625,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE VII.</head>
           <sp who="sextus" xml:id="IV07-1">
             <l part="F">Pardonnez si je vous interromps,</l>
             <l n="1116" xml:id="l1116">Seigneur[,] de Lucejus on voit les escadrons,</l>
@@ -1577,6 +1654,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV08">
+          <head>SCENE VIII.</head>
           <sp who="scipion" xml:id="IV08-1">
             <l n="1133" xml:id="l1133">Il remplit son devoir [?] Ah ! quelle confiance [!]</l>
             <l n="1134" xml:id="l1134">Son Amant luy redonne une <ref target="#fier">fiere*</ref> assurance[,]</l>
@@ -1598,6 +1676,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV09">
+          <head>SCENE IX.</head>
           <sp who="annibal" xml:id="IV09-1">
             <l n="1150" xml:id="l1150">Ne me soupçonnez pas d’aucune intelligence,</l>
             <l n="1151" xml:id="l1151">Seigneur, quand Lucejus vient pour ses interêts,</l>
@@ -1664,7 +1743,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="55" xml:id="p55"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp who="isperie" xml:id="V01-1">
             <l n="1189" xml:id="l1189">Ne m’abandonne point, viens, ma chere Ermilie,</l>
             <l n="1190" xml:id="l1190">Partager les frayeurs dont mon ame est saisie,</l>
@@ -1696,6 +1777,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp who="erixene" xml:id="V02-1">
             <l n="1214" xml:id="l1214">Madame c’en est fait, nôtre esperance est vaine,</l>
             <l n="1215" xml:id="l1215">Annibal est vaincu, Scipion est vainqueur,</l>
@@ -1730,6 +1812,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp who="erixene" xml:id="V03-1">
             <l n="1237" xml:id="l1237">O <ref target="#fortune1">Fortune*</ref> ! ô journée à toutes deux <ref target="#fatal2">fatale*</ref> !</l>
             <l n="1238" xml:id="l1238">Mais je dois envier le <ref target="#sort1">sort*</ref> de ma rivale ;</l>
@@ -1748,6 +1831,7 @@
         </div>
         <div type="scene" xml:id="V04">
           <pb n="58" xml:id="p58"/>
+          <head>SCENE IV.</head>
           <sp who="scipion" xml:id="V04-1">
             <l part="F">Qu’on observe Isperie ?</l>
             <l n="1250" xml:id="l1250">Qu’on la suive ? &amp; sur tout ayez soin de sa vie.</l>
@@ -1786,6 +1870,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V.</head>
           <sp who="lepide" xml:id="V05-1">
             <l n="1277" xml:id="l1277">Ainsi vous l’envoyez secourir sa patrie :</l>
             <l n="1278" xml:id="l1278">Mais, Seigneur, qu’allez-vous ordonner d’Isperie ?</l>
@@ -1853,6 +1938,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI.</head>
           <sp who="isperie" xml:id="V06-1">
             <l n="1329" xml:id="l1329">Ah ! Seigneur, tirez-moy du plus cruël martyre[,]</l>
             <l n="1330" xml:id="l1330">De grace, &amp; m’aprenez si Lucejus respire ;</l>
@@ -1920,6 +2006,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE DERNIERE.</head>
           <sp who="lucejus" xml:id="V07-1">
             <l n="1371" xml:id="l1371">Seigneur, ne croyez pas que la peur de la mort</l>
             <l n="1372" xml:id="l1372">Me fasse repentir d’un <ref target="#genereux1">genereux*</ref> <ref target="#effort3">effort*</ref>,</l>

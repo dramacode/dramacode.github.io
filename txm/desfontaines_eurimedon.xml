@@ -1,7 +1,56 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eurimédon ou l'Illustre pirate. Tragi-comédie</title>
+        <author key="Desfontaines, Nicolas (15..?-1652)">Nicolas Mary, sieur Desfontaines</author>
+        <principal>Georges Forestier</principal>
+        <editor>Loraine Pierron</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Loraine Pierron dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2005)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/desfontaines_eurimedon/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/desfontaines_eurimedon.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/desfontaines_eurimedon.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/desfontaines_eurimedon.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/desfontaines_eurimedon.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1637"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>EURIMEDON <lb/>OU <lb/>L’ILLUSTRE PIRATE, <lb/>TRAGI-COMEDIE.</head>
       <div type="set" xml:id="epitre">
+        <head>A <lb/>MADEMOISELLE <lb/>DE VERTUS,</head>
         <p>MADAMOISELLE,<pb n="A ; 2"/></p>
         <p>Voicy des Estrangers qui viennent des extremitez de la Grece, et qui attirez par la reputation de vos merites, souhaittent de s’acquitter des hommages qu’on doit à vostre vertu. Si vous daignez prester l’oreille au recit de leurs advantures, vous ne les estimerez pas indignes de vostre entretien ; et je m’asseure que vous leur ferez un favorable accueil quand vous sçaurez qu’ils sont Princes, et que par des actions qui ne degenerent point de leur naissance, ils vous auront faict voir dans le Tableau de leur vie, les Images de tant de Heros que vostre Illustre Maison a donnez à la France. Je parlerois de vos augustes devanciers, François, Odet, et Charles de Bretaigne qui sortis des anciens Ducs de cette belle Province, se sont montrez dignes surgeons d’une tyge si glorieuse, et en ont conservé la gloire dans vostre famille, qui en porte encore des marques aussi durables, que celebres ; Je parlerois des notables services qu’ils ont rendus à l’Estat par les effets de leur fidelité, et de leur courage, si ce n’estoit publier des choses qui ne sont incognuës qu’aux barbares, et vouloir comprendre dans une lettre ce qui merite des volumes entiers ; Je diray seulement que ces deux grands Roys Charles huict et Louys douze ont honnoré vos ancestres du glorieux tiltre de frere, et qu’en mille occasions ils ont confirmé cette qualité advantageuse qu’Anne de Bretaigne, digne Espouse de ces deux Monarques leur avoit legitimement acquise. Cette consideration (Madamoiselle) et celle de vostre merite particulier ont faict resoudre deux Roys de venir aussi vous rendre les honneurs que vos Ayeulx ont autrefois receus, et admirer en vous une Majesté qui leur faisant oublier la leur, les force d’avoüer que vous seriez incomparable, si le Ciel ne vous avoit donné une sœur qui partage avecque vous les inclinations de tout le monde. La Renommee qui a remply l’Univers de cette verité, a donné de la jalousie aux plus belles de vostre sexe, et de l’admiration aux plus parfaites, mais vous donnerez de l’estonnement à nostre Eurimedon et à sa Pasithee, quand vous leur ferez cognoistre que la beauté, et la gentillesse des Dames de France emportent le prix sur celles de Grece, et de toutes les nations de la Terre ; Aussi n’est-ce pas leur dessein de vous disputer cét advantage, mais seulement d’avoir l’honneur de vous entretenir, afin qu’apres cette faveur ils puissent estre les <ref target="#paranymphe">Paranymphes*</ref> de vos merveilles, par la voix de celuy qui a pris la hardiesse de vous les presenter ; et qui desire estre toute sa vie,</p>
         <p>MADAMOISELLE,</p>
@@ -9,6 +58,7 @@
         <p rend="right"><hi rend="i">Le tres-humble et <lb/>tres–obeïssant serviteur</hi><lb/>Desfontaines.</p>
       </div>
       <div type="set" xml:id="sonnet">
+        <head>A MADEMOISELLE DE VERTUS. SONNET.</head>
         <lg>
           <l n="1">Beauté par qui Venus void la sienne effacee</l>
           <l n="2">Mes vers pour te loüer ont trop peu d’ornemens,</l>
@@ -34,12 +84,17 @@
         <p rend="right">DESFONTAINES.</p>
       </div>
       <div type="set" xml:id="au-lecteur">
+        <head>AU LECTEUR</head>
         <p>Lecteur je croirois offencer ton jugement si je ne le croyois capable de discerner les fautes qui se sont glissees en l’Impression de cét ouvrage, et je ferois tort à ta courtoisie si je ne croyois que tu les excuseras ; c’est pourquoy sans m’arrester à t’en faire le denombrement, je te supplieray seulement de remarquer qu’en deux ou trois endroits où tu verras que les vers manqueront en leur mesures, la faute vient de ce que l’Imprimeur a escrit doncque pour doncq, encore au lieu d’encor, et une fois avec, au lieu d’avecque pour le reste je le laisse à ta discretion.</p>
       </div>
-      <div type="set" xml:id="acteurs"/>
+      <div type="set" xml:id="acteurs">
+        <head>LES ACTEURS</head>
+      </div>
       <div type="act" xml:id="I">
         <pb n="A ; 1"/>
+        <head>ACTE I</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp who="eurimedon" xml:id="I01-1">
             <l n="1" xml:id="l1">En fin (belle princesse) apres beaucoup d’<ref target="#orage">orages*</ref></l>
             <l n="2" xml:id="l2">Vous revoyez encor ces <ref target="#aymable">aymables*</ref> rivages,</l>
@@ -96,6 +151,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE DEUXIESME</head>
           <pb n="4"/>
           <sp who="archelas" xml:id="I02-1">
             <l n="45" xml:id="l45">Falante : je ne sçay quelle secrette joye</l>
@@ -288,6 +344,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE TROISIESME</head>
           <pb n="11"/>
           <sp who="tygrane" xml:id="I03-1">
             <l n="197" xml:id="l197">Destin, Neptune, Amour, Dieux <ref target="#cruel">cruels*</ref>, tristes <ref target="#astre">Astres*</ref></l>
@@ -327,6 +384,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE QUATRIEME</head>
           <sp who="falante" xml:id="I04-1">
             <l n="231" xml:id="l231">Où courez-vous Tygrane ? Et quel aveuglement</l>
             <l n="232" xml:id="l232">Vous oblige à revoir ce <ref target="#perfide">perfide*</ref> Element,<pb n="13"/></l>
@@ -414,7 +472,9 @@
         </div>
       </div>
       <div type="act" xml:id="II">
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp who="eurimedon" xml:id="II01-1">
             <l n="293" xml:id="l293">Madame, excusez-moy si voyant tant de <ref target="#grace4">grace*</ref><pb n="16"/></l>
             <l n="294" xml:id="l294">J’ayme vos ennemis et cheris leur audace,</l>
@@ -589,6 +649,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE SECONDE</head>
           <sp who="tygrane" xml:id="II02-1">
             <l n="413" xml:id="l413">Depuis vostre retour (divine Pasithee)</l>
             <l n="414" xml:id="l414">Si je ne vous ay pas aussi-tost <ref target="#visiter">visitee*</ref>,</l>
@@ -694,6 +755,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE TROISIEME.</head>
           <pb n="26"/>
           <sp who="tygrane" xml:id="II03-1">
             <l n="471" xml:id="l471">Dieux que viens-je d’oüyr : mais helas qu’ay-je veu ?</l>
@@ -725,6 +787,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE QUATRIEME</head>
           <sp who="celiane" xml:id="II04-1">
             <l n="497" xml:id="l497">He bien <ref target="#cruel">cruel*</ref> Amour que fera Celiane ?</l>
             <l n="498" xml:id="l498">Porteray-je l’enfer dans le ciel de Tygrane ?</l>
@@ -758,6 +821,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE CINQUIESME.</head>
           <pb n="29"/>
           <sp who="argamor" xml:id="II05-1">
             <l n="526" xml:id="l526">Voyla comme je croy celuy que je demande.</l>
@@ -855,6 +919,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE SIXIESME</head>
           <pb n="33"/>
           <sp who="tygrane" xml:id="II06-1">
             <l n="598" xml:id="l598">Chevalier excusez, Je vous ay faict attendre.</l>
@@ -901,6 +966,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE SEPTIESME.</head>
           <pb n="35"/>
           <sp who="celiane" xml:id="II07-1">
             <l n="621" xml:id="l621">Quel <ref target="#astre">Astre*</ref> <ref target="#malheureux1">malheureux*</ref> <ref target="#jaloux">jaloux*</ref> de ma <ref target="#fortune">fortune*</ref></l>
@@ -926,7 +992,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="36"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp who="eurimedon" xml:id="III01-1">
             <l n="639" xml:id="l639">C’en est faict, Pasithee, il faut ceder au sort</l>
             <l n="640" xml:id="l640">Qui contre nos amours faict son dernier effort,</l>
@@ -1068,6 +1136,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE DEUXIESME.</head>
           <sp who="archelas" xml:id="III02-1">
             <l n="742" xml:id="l742">Insolent bien plustost mon courroux legitime</l>
             <l n="743" xml:id="l743">Te va faire servir à mon bras de victime.</l>
@@ -1143,6 +1212,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE TROISIESME.</head>
           <pb n="44"/>
           <sp who="eurimedon" xml:id="III03-1">
             <lg>
@@ -1187,6 +1257,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE QUATRIEME.</head>
           <sp who="celiane" xml:id="III04-1">
             <l n="817" xml:id="l817">Dieux que je suis surprise et confuse à ce nom !</l>
             <l n="818" xml:id="l818">Tirons-nous à l’escart, et sçachons par sa plainte</l>
@@ -1353,6 +1424,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE CINQUIESME.</head>
           <sp who="eurimedon" xml:id="III05-1">
             <l n="934" xml:id="l934">C’est mon cher Lysanor qui vient de Mitylene</l>
             <l n="935" xml:id="l935">Où je l’avois laissé pour sçavoir de ma Reyne</l>
@@ -1429,6 +1501,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE SIXIESME.</head>
           <pb n="54"/>
           <sp who="alerine" xml:id="III06-1">
             <l n="988" xml:id="l988">Ah Madame ! ces pleurs, et ce <ref target="#coeur">cœur*</ref> abatu</l>
@@ -1530,7 +1603,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="58"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp who="archelas" xml:id="IV01-1">
             <l n="1066" xml:id="l1066">Falante en quel Estat as-tu veu mon armee ?</l>
             <l n="1067" xml:id="l1067">Est-elle puissamment au combat animee ?</l>
@@ -1621,6 +1696,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE DEUXIESME.</head>
           <sp who="eurimedon" xml:id="IV02-1">
             <l n="1122" xml:id="l1122">En fin (Sire) voila ce <ref target="#superbe1">superbe*</ref> Encelade</l>
             <l n="1123" xml:id="l1123">Dont la temerité menaçoit la Troade,</l>
@@ -1831,6 +1907,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE TROISIESME.</head>
           <sp who="archelas" xml:id="IV03-1">
             <l n="1286" xml:id="l1286">Oseray-je esperer qu’il vous plaise (Madame)</l>
             <l n="1287" xml:id="l1287">Sur un point curieux satisfaire à mon ame,</l>
@@ -1949,6 +2026,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE QUATRIEME.</head>
           <sp who="eurimedon" xml:id="IV04-1">
             <l n="1366" xml:id="l1366">Digne <ref target="#objet">objet*</ref> de pitié, mais beaucoup plus d’envie</l>
             <l n="1367" xml:id="l1367">Qui tiens mesme d’Amour la liberté ravie,</l>
@@ -2137,6 +2215,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE CINQUIESME.</head>
           <pb n="80"/>
           <sp who="eurimedon" xml:id="IV05-1">
             <l n="1490" part="I" xml:id="l1490">He bien qu’a dit le Roy ?</l>
@@ -2254,6 +2333,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE SIXIESME.</head>
           <pb n="84"/>
           <sp who="alerine" xml:id="IV06-1">
             <l part="F">        He qu’avez-vous Madame ?</l>
@@ -2297,7 +2377,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="86"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp who="tygrane" xml:id="V01-1">
             <l n="1570" xml:id="l1570">Amour oste à mes sens cette importune* Idee</l>
             <l n="1571" xml:id="l1571">Dont mon ame est encore malgré moy possedee,</l>
@@ -2319,6 +2401,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE DEUXIESME.</head>
           <sp who="celiane" xml:id="V02-1">
             <l part="M">Où va Tygrane ?</l>
           </sp>
@@ -2417,6 +2500,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE TROISIEME.</head>
           <sp who="archelas" xml:id="V03-1">
             <l n="1638" xml:id="l1638">Grand Monarque, il est vray : l’insolence d’un Prince</l>
             <l n="1639" xml:id="l1639">A troublé depuis peu cette heureuse Province,</l>
@@ -2531,6 +2615,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE QUATRIEME.</head>
           <pb n="95"/>
           <sp who="celiane" xml:id="V04-1">
             <l n="1716" xml:id="l1716">Madame : Je vous ay tant d’obligation</l>
@@ -2597,6 +2682,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE CINQUIESME ET DERNIERE.</head>
           <pb n="98"/>
           <sp who="archelas" xml:id="V05-1">
             <l part="F">        La voyla qui s’advance.</l>
@@ -2740,6 +2826,7 @@
         </div>
       </div>
       <div>
+        <head>EXTRAICT DU PRIVILEGE DU ROY.</head>
         <p><hi rend="i">Par grace et Privilege du Roy donné à Paris le 30 jour de may 1637. Signé par le Roy, en son Conseil de Monsseaux il est permis à</hi><hi rend="sc">Antoine de Sommaville</hi>, <hi rend="i">Marchand Libraire à Paris, d’Imprimer où faire Imprimer, vendre et distribuer en tel Volume et caractere que bon luy semblera une tragi-comedie intitulee</hi> Eurimedon ou l’Illustre Pirate du Sieur <hi rend="sc">Desfontaines</hi>, <hi rend="i">durant le temps de sept ans finis et accomplis à commencer du jour que ladite Tragi-comedie sera achevee d’Imprimer : Et deffences sont faictes à tous autres de l’Imprimer où faire Imprimer, vendre ny distribuer sans le consentement dudit Sommaville, ou de ceux ayant droit à luy, à peine aux contrevenans de trois mille livres d’amendes, et de tous ses despens, dommages et interests, ainsi qu’il est plus au long porté par les lettres cy-dessus dattees.</hi></p>
         <p>Achevé d’imprimer le 6 juin 1637.</p>
       </div>

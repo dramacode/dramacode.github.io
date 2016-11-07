@@ -1,8 +1,58 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Procès des Prétieuses en vers burlesques. Comédie.</title>
+        <author key="Somaize, Antoine Baudeau (1630?-16.. ; sieur de)">Antoine Baudeau de Somaize</author>
+        <principal>Georges Forestier</principal>
+        <editor>Léa Delourme</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Léa Delourme sous la direction de Georges Forestier (2013-2014)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/somaize_proces-precieuses/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/somaize_proces-precieuses.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/somaize_proces-precieuses.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/somaize_proces-precieuses.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/somaize_proces-precieuses.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1660"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LE PROCEZ DES PRETIEUSES <lb/><hi rend="i">Comédie en vers Burlesques.</hi></head>
       <div xml:id="I" type="act">
+        <head>[Acte I]</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="epicarie">
             <l n="1" xml:id="l1">Hem, ou courez-vous de ce pas ?</l>
           </sp>
@@ -40,6 +90,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp xml:id="I02-1" who="roguespine">
             <l n="28" xml:id="l28">Parbieu c’est bien avoir mon maistre,</l>
             <l n="29" xml:id="l29">De plaider la demanjaison,</l>
@@ -296,6 +347,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <sp xml:id="I03-1" who="pancrace">
             <l n="234" xml:id="l234">Cher amy, que je suis joyeux</l>
             <l n="235" xml:id="l235">De vous rencontrer en ces lieux :</l>
@@ -549,6 +601,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="roguespine">
             <l n="452" xml:id="l452">Ah ! puisque je sçay la demeure</l>
             <l n="453" xml:id="l453">Il me prend envie : ou je meure,</l>
@@ -567,6 +620,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V.</head>
           <sp xml:id="I05-1" who="roguespine">
             <l n="466" xml:id="l466">Mais où va cette fille-là ?</l>
             <l n="467" xml:id="l467">Elle va de ce costé là,</l>
@@ -652,6 +706,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI.</head>
           <sp xml:id="I06-1" who="ribercour">
             <l n="531" xml:id="l531">Je vous suis obligé Monsieur,</l>
             <l n="532" xml:id="l532">D’une si notable faveur,</l>
@@ -696,6 +751,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE VII.</head>
           <sp xml:id="I07-1" who="theocrite">
             <l n="565" xml:id="l565">Bonjour, entrons dans cette salle.</l>
           </sp>
@@ -787,6 +843,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I08">
+          <head>SCENE VIII.</head>
           <sp xml:id="I08-1" who="theocrite">
             <l n="638" xml:id="l638">Ce divertissement est drolle,</l>
             <l n="639" xml:id="l639">Et je jouë assez bien mon roolle.</l>
@@ -795,6 +852,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I09">
+          <head>SCENE IX.</head>
           <sp xml:id="I09-1" who="ergaste">
             <l n="642" xml:id="l642">Je viens vous prier d’une grace.</l>
           </sp>
@@ -1040,6 +1098,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I10">
+          <head>SCENE X.</head>
           <sp xml:id="I10-1" who="theocrite">
             <l n="828" xml:id="l828">Bon Dieu ! sans le Dictionnaire</l>
             <l n="829" xml:id="l829">Qu’on a fait &amp; que l’on doit faire,</l>
@@ -1056,6 +1115,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I11">
+          <head>SCENE XI.</head>
           <sp xml:id="I11-1" who="ribercour">
             <l n="840" xml:id="l840">Enfin nostre affaire s’avance</l>
             <l n="841" xml:id="l841">Au moins si j’en crois l’apparence,</l>
@@ -1111,6 +1171,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I12">
+          <head>SCENE XII.</head>
           <sp xml:id="I12-1" who="ribercour">
             <l n="883" xml:id="l883">Eh bien qu’as-tu veu ? qu’as-tu fait ?</l>
             <l n="884" xml:id="l884">Dis nous donc es-tu satisfait ?</l>
@@ -1488,6 +1549,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I13">
+          <head>SCENE XIII.</head>
           <sp xml:id="I13-1" who="roguespine">
             <l n="1196" xml:id="l1196">Dieux ! qu’ils ont le jugement mince ;</l>
             <l n="1197" xml:id="l1197">J’ay sçeu dedans nostre Province</l>
@@ -1501,6 +1563,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I14">
+          <head>SCENE XIV.</head>
           <sp xml:id="I14-1" who="patrice">
             <l n="1204" xml:id="l1204">Enfin nous voicy tantost Juges.</l>
           </sp>
@@ -1541,6 +1604,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I15">
+          <head>SCENE XV.</head>
           <sp xml:id="I15-1" who="ribercour">
             <l n="1228" xml:id="l1228">Messieurs, j’en veux aux Pretieuses,</l>
             <l n="1229" xml:id="l1229">A ces femmes pernicieuses,</l>
@@ -1560,6 +1624,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I16">
+          <head>SCENE XVI.</head>
           <sp xml:id="I16-1" who="ribercour">
             <l n="1241" xml:id="l1241">Approchez-vous belle jazeuse,</l>
             <l n="1242" xml:id="l1242">Vrayment pour une Pretieuse,</l>

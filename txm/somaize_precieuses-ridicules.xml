@@ -1,8 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les Prétieuses Ridicules. Comédie représentée au Petit Bourbon, nouvellement mise en vers.</title>
+        <author key="Somaize, Antoine Baudeau (1630?-16.. ; sieur de)">Antoine Baudeau de Somaize</author>
+        <principal>Georges Forestier</principal>
+        <editor>Léa Delourme</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Léa Delourme sous la direction de Georges Forestier (2013-2014)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1660"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LES<lb/>PRETIEUSES <lb/>RIDICULES <lb/>COMEDIE. <lb/>REPRESENTÉE <lb/><hi rend="i">au Petit Bourbon.</hi><lb/>NOUVELLEMENT <lb/>mises en Vers.</head>
       <div xml:id="epitre">
         <pb n="III"/>
+        <head>[EPÎTRE] A MADEMOISELLE <lb/>MADEMOISELLE <hi rend="b">MARIE</hi> DE <hi rend="b">MANCINY</hi>.</head>
         <p><hi rend="i">MADEMOISELLE</hi>,</p>
         <p><hi rend="i">Encore que je sçache avec toute la France, [</hi><pb n="IV"/>] <hi rend="i">que vous n’estes nèe que pour les grandes choses, et qu’il n’appartient qu’à ceux du Sang dont vous sortez de mettre la derniere main à tout ce qui paroist impossible ; Et qu’ainsi, soit pour vous divertir, soit pour vous loüer, on est toû-/[</hi><pb n="V"/>]<hi rend="i">/-jours temeraire quoy qu’on ose entreprandre. Je ne laisse pas <hi rend="sc">Mademoiselle</hi>, de vous faire un present <ref target="#vulgaire1">vulgaire*</ref> en vous offrant cette Comedie, qui quelque reputation qu’elle ait euë en prose, m’a semblé n’avoir pas tous les [</hi><pb n="VI"/>] <hi rend="i">agremens qu’on luy pouvoit donner, &amp; c’est ce qui m’a fait resoudre à la tourner en vers pour la mettre en estat de meriter avec un peu plus de justice les aplaudissemens qu’elle a receuës de tout le monde, plûtôt par <ref target="#bonheur">bon-heur*</ref> que par me-/[</hi><pb n="VII"/>]<hi rend="i">/-rite. Je sçay bien qu’il doit sembler <ref target="#estrange1">estrange*</ref> de me voir abaisser une chose que j’ose vous offrir ; mais je ne pretens pas qu’elle me doive ny sa gloire, ny son abaissement, &amp; je ne regleray l’estime que j’en dois faire qu’au jugement que vous en [</hi><pb n="VIII"/>] <hi rend="i">ferez : que si je luy laisse maintenant quelques avantages des acclamations publiques qu’elle a receuës, &amp; en Italien &amp; en François</hi>, <hi rend="i">ce n’est que parce qu’ils me fournissent l’occasion de vous donner une preuve de mon respect en met-/[</hi><pb n="IX"/>]<hi rend="i">/-tant cette version que j’en ay faite sous vostre protection. Je ne suis pas assez vain pour m’imaginer que ce foible homage m’aquite de ce que je vous dois, ou qu’il ait rien de proportionnè à ce merite qui vous mét autant au dessus du [</hi><pb n="X"/>] <hi rend="i">commun par son esclat que vous l’étes déja par celuy du rang que vous donne vostre naissance. Je sçais trop bien comme vous sçavez juger de tout ce que peuvent produire les plus beaux genies, pour vous offrir comme un ouvrage considerable une Sa-/[</hi><pb n="XI"/>]<hi rend="i">/-tire qui doit sa plus grande reusite à ce certain courant des choses qui les fait recevoir de quelque nature qu’elles soient &amp; que nous appellons la mode ; &amp; lors que je vous l’offre, je ne fais qu’imiter les Romains, qui presentoient autre-/[</hi><pb n="XII"/>]<hi rend="i">/-fois des lauriers aux vainqueurs, non pas pour payer leurs victoires ; mais seulement pour tesmoigner qu’ils connoissoient ce qui leur estoit deu &amp; pour servir comme de preludes à la pompe des Triomphes qui leur estoient destinez. [</hi><pb n="XIII"/>] <hi rend="i">Je ne me permets <hi rend="sc">mademoiselle</hi>, que ce que ces Maistres du monde accordoient à leurs moindres Citoyens, &amp; je vous presente une bagatelle comme le dernier Romain avoit la liberté d’offrir des branches de Laurier : Je laisse [</hi><pb n="XIV"/>] <hi rend="i">dis-je à des plumes plus sçavantes &amp; plus hardies à disposer des ornemens dont on peut composer vostre Panegerique, de mesme que le peuple laissoit au Senat le pouvoir &amp; le soin de decerner des triomphes à ceux dont les grandes actions en</hi><pb n="XV"/><hi rend="i">meritoient. Je ne me sens pas assez fort pour une si haute entreprise, &amp; je borne mes plus vastes projets à celuy d’obtenir de vous la permission de me dire</hi>,</p>
         <p>MADEMOISELLE,</p>
@@ -10,12 +59,14 @@
         <p><hi rend="sc">somaize</hi>.<pb n="XVI"/></p>
       </div>
       <div xml:id="preface">
+        <head>PREFACE.</head>
         <p>L'Usage des Prefaces m’a semblé si utile à ceux qui mettent quelque chose en public, qu’encore que je sçache qu’il n’est pas generalement aprouvé, je n’ay pourtant pû m’empescher de le suivre, resolu quoy qu’il arrive de prendre pour garand de ce que je fais la coûtume qui les a jusques icy authorisées.</p>
         <p>Ce n’est pas que je veuille suivre celle de ces Autheurs avides de loüanges qui craignant<pb n="XVII"/> qu’on ne leur rende pas tout l’honneur qu’ils croyent meriter, y inserrent eux-mesmes leurs Panegeriques, &amp; font souvent leurs Apologies avant qu’on les accuse. Mon bût est de divertir le Lecteur, &amp; de me divertir moy mesme : Toutefois comme il s’en peut trouver d’assez scrupuleux pour croire que c’est trop <ref target="#hazarder">hazarder*</ref> d’exposer aux yeux de tout le monde un ouvrage aussi remply de defauts que celuy-cy, sans leur donner du moins quelques apparentes excuses ; Je veux bien à cet endroit dire quelque chose pour le contenter.</p>
         <p><pb n="XVIII"/> Je diray d’abord qu’il semblera extraordinaire qu’apres avoir loüé Mascarille, comme j’ay fait dans les Veritables Pretieuses, je me sois donné la peine de mettre en Vers un ouvrage dont il se dit Autheur &amp; qui sans doute luy doit quelque chose, si ce n’est parce qu’il y a adjouté de son estoc au vol qu’il en a fait aux Italiens, à qui Monsieur l’Abbé de Pure les avoit donnez ; au moins pour y avoir adjouté beaucoup par son jeu, qui plût à assez de gens pour luy donner la vanité d’estre le premier Farceur de France. C'est<pb n="XIX"/> toûjours quelque chose d’éxceller en quelque mestier que ce soit, &amp; pour parler selon le vulgaire, il vaut mieux estre le premier d’un village, que le dernier d’une ville, bon Farceur, que <ref target="#meschant">meschant*</ref> Comedien ; mais quittons la parentese &amp; retournons aux Pretieuses. Elles ont esté trop generalement receuës &amp; approuvées pour ne pas avoüer que j’y ay pris plaisir, &amp; qu’elles n’ont rien perdu en François de ce qui les fist suivre en Itallien ; &amp; ce seroit faire le modeste à contre-temps, de ne pas dire que je crois ne leur avoir rien des-/<pb n="XX"/>/-robé de leurs agremens en les mestant en Vers : mesme si j’en voulois croire ceux qui les ont veuës, je me vanterois d’y en avoir beaucoup adjouté ; mais quand je le dirois l’on ne seroit pas obligé de s’en raporter à moy, &amp; quand mon Lecteur me donneroit un démenty, il seroit de ceux qui se souffrent sans peine &amp; qui ne coutent jamais de sang. Aussi ne veus-je pas les loüer, &amp; bien loings de le faire, je dis ingenuëment que ce n’est en bien des endroits, que de la prose rimée, qu’on y trouvera plusieurs vers sans repos &amp; dont la cadance<pb n="XXI "/>est fort rude ; mais le Lecteur verra aisement que ce n’est qu’aux endroits où j’ay voulu conserver mot à mot le sens de la prose, &amp; lors que je les ay trouvez tous faits. L'on y verra encore des vers dont le sens est lié &amp; qui sont enchaisnez les uns avec les autres comme de pauvres forçats, &amp; d’autres enfin dont les rimes n’ont pas toute la richesse qu’on leur pourroit donner, je n’en donneray pourtant point d’excuse ; ne croyant pas estre obligé de suivre dans une Comedie comme celle-cy, une reigle que les meilleures plumes n’observent<pb n="XXII"/> pas dans leurs ouvrages les plus serieux : enfin je ne diray rien des Pretieuses en Vers qui puisse exiger de ceux qui les verront une bonté forcée ; je ne veux rien que le plaisir du Lecteur, &amp; serois bien faché d’oster le moyen de Critiquer à ceux qui se plaisent à le faire. Ainsi quoy qu’il me fust aisé de dire bien des choses pour justifier mes deffauts &amp; que je n’eusse qu’à m’estandre sur la dificulté qu’il y a de mettre en Vers mot à mot une prose aussi bizare que celle que j’ay euë à tourner; que je peusse facillement faire voir que tout le plaisant<pb n="XXIII"/> des Pretieuses consistoit presque, en des mots aussi contraires à la douceur des Vers que necessaires aux agremens de cette Comedie : je laisse pourtant toutes ces choses pour laisser le Lecteur en liberté, &amp; je proteste icy que la Critique ne m’espouvante point &amp; que je serois fort mary de dire le moindre mot pour l’éviter, &amp; non seulement je la souffre pour cette vertion, mais je consens que l’on s’en serve encore à l’esgard du Procez des Pretieuses qui est de mon invention pure, &amp; qui si tout le monde est de mon sentiment divertira<pb n="XXIV"/> fort, au moins ne l’ay je fait que dans cette pensée.</p>
         <p>Cette Preface auroit à peu pres la longueur qu’elle devroit avoir, &amp; je la finirois volontiers en cet endroit s’il ne me restoit encore un peu de papier qu’il faut remplir de quoy que ce puisse estre quand ce ne seroit que pour grossir le Livre ; Toutefois pour ne me pas esloigner de mon sujet ; je diray quoy que sans dessein de me deffendre ; que j’aurois eu bien plus de facilité de traduire une piece de tout autre langue en vers François, que d’y mettre une prose faite en ma propre<pb n="XXV"/> langue ; dans toute autre j’aurois assez fait de rendre les pensées de mon Autheur. Les termes auroient esté à ma <ref target="#discretion">discretion*</ref> &amp; tout auroit presque despendu de mon choix ; mais icy pour rendre la chose fidellement, je n’ay pas seulement esté contraint de mettre les pensées, il m’a falu mettre aussi les mesmes termes ; que si j’ay adjouté ou diminué selon que les rimes m’y ont obligé, je n’ay rien à respondre à cela, sinon que pour les rendre comme elles estoient, il falloit les laisser en prose ; peut estre qu’au sentiment de plusieurs j’aurois<pb n="XXVI"/> mieux fait que de les mettre en rimes, peut-estre aussi qu’au jugement de ceux qui ayment les vers j’auray fort bien reussi. Tout cela est <ref target="#douteux">douteux*</ref> ; mais il est certain que ce n’est pas là mon plus grand chagrin, &amp; que si ceux pour qui je les ay faites les trouvent à leur gré, il m’est bien indifferend que les autres les condamnent ou les approuvent, en tout cas que ceux qui ne s’y divertiront pas ayent recours au Dictionnaire des Prétieuses ou à la Satyre. Comme tout despend du caprice, peut-estre qu’ils y trouverront mieux leur compte &amp; pour moy je seray content, pourveu qu’ils se divertissent de quelque maniere que ce soit.<pb n="XXVII"/></p>
       </div>
       <div xml:id="elegie">
+        <head>A MADEMOISELLE <lb/>MADEMOISELLE <hi rend="b">MARIE</hi> DE <hi rend="b">MANCINY</hi><lb/>ELEGIE.</head>
         <lg rend="i">
           <l n="1">Epris, charmé, remply de la plus belle idée </l>
           <l n="2">Dont une ame jamais puisse estre possedée</l>
@@ -141,6 +192,7 @@
         <p rend="center"><hi rend="b">SOMAIZE</hi>    [<pb n="XXXVII"/>]</p>
       </div>
       <div>
+        <head>AU LECTEUR.</head>
         <p>Quoy que dans un petit ouvrage, l’on n’ait pas coustume de marquer les fautes d’impression, quelques-unes de celles qui se sont passées dans celuy-cy, m’ont semblé assez considerables pour les mettre en ce lieu ; c’est pourquoy page 4. vers 12. au lieu de, à ne plus s’eslever, lisez, à <hi rend="i">ne se plus loüer</hi>, page 10. au lieu des vers 5 &amp; 6. lisez.</p>
         <lg rend="i">
           <l n="113">Ces pendardes enfin, faut que je le confesse.</l>
@@ -152,10 +204,14 @@
         <p>Par exemple, il y en a dans la page 59 devant le 5. vers, où le nom de <hi rend="i">Mascarille</hi>, est oublié.</p>
         <p><pb n="XXXVIII"/> Il faut que les procez plaisent merveilleusement aux Libraires du Palais, puis qu’à peine le Dictionnaire des Pretieuses est en vente, &amp; cette Comedie achevée d’imprimer, que de Luines, Sercy &amp; Barbin, malgré le Privilege que Monseigneur le Chancelier m’en a donné, avec toute la connoissance possible, ne laissent pas de faire signifier une opposition à mon Libraire : comme si jusques icy les Versions avoient esté defenduës, &amp; qu’il ne fust pas permis de mettre le <hi rend="i">Pater noster</hi> François, en vers.                    <hi rend="b"/><pb n="XXXIX"/></p>
       </div>
-      <div/>
+      <div>
+        <head>LES PERSONNAGES. </head>
+      </div>
       <div type="act" xml:id="I">
         <pb n=" A 1"/>
+        <head>[Acte I]</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE I.</head>
           <sp who="du-croisy" xml:id="I01-1">
             <l n="1" part="I" xml:id="l1">Seigneur, la Grange.</l>
           </sp>
@@ -243,6 +299,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp who="gorgibus" xml:id="I02-1">
             <l n="53" xml:id="l53">He bien ? Vous avez veu ma niepce avec ma fille</l>
             <l n="54" xml:id="l54">Avez vous resolu d’entrer dans ma famille,</l>
@@ -265,6 +322,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <sp who="marotte" xml:id="I03-1">
             <l part="M">Plaist-il Monsieur ?</l>
           </sp>
@@ -305,6 +363,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp who="gorgibus" xml:id="I04-1">
             <l n="83" xml:id="l83">Cela n’est par ma foy du tout, ny bien ny beau</l>
             <l n="84" xml:id="l84">Et c’est trop despencer, pour graisser son museau</l>
@@ -568,6 +627,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V.</head>
           <sp who="cathos" xml:id="I05-1">
             <l n="296" xml:id="l296">Quelle <ref target="#stupidite">stupidité*</ref>, que vois-je ah ! Dieu ma chere !</l>
             <l n="297" xml:id="l297">Que ton pere a la forme avant dans la matiere</l>
@@ -591,6 +651,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI.</head>
           <sp who="marotte" xml:id="I06-1">
             <l part="M">Madame,</l>
           </sp>
@@ -664,6 +725,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE VII.</head>
           <sp who="mascarille" xml:id="I07-1">
             <l n="346" xml:id="l346">Là, là porteurs, hola, là, là, là, là, hola,</l>
             <l n="347" xml:id="l347">Je crois que ces marauts, me veulent briser là</l>
@@ -750,6 +812,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I08">
+          <head>SCENE VIII.</head>
           <sp who="marotte" xml:id="I08-1">
             <l n="380" xml:id="l380">Mes maistresses Monsieur, vont venir <ref target="#tout-heure">tout à l’heure*</ref>.</l>
           </sp>
@@ -763,6 +826,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I09">
+          <head>SCENE IX.</head>
           <sp who="mascarille" xml:id="I09-1">
             <l part="F">Mes Dames mon audace</l>
             <l n="385" xml:id="l385">Poura vous estonner ; mais cette aymable grace</l>
@@ -1428,6 +1492,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I10">
+          <head>SCENE X.</head>
           <sp who="marotte" xml:id="I10-1">
             <l n="785" part="I" xml:id="l785">On demande à vous voir.</l>
           </sp>
@@ -1463,6 +1528,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I11">
+          <head>SCENE XI.</head>
           <sp who="mascarille" xml:id="I11-1">
             <l n="792" part="I" xml:id="l792">Ah ! Vicomte,</l>
           </sp>
@@ -1797,6 +1863,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I12">
+          <head>SCENE XII.</head>
           <sp who="magdelon" xml:id="I12-1">
             <l n="947" xml:id="l947">Mon Dieu, vous nous devez mes cheres pardonner,</l>
             <l n="948" xml:id="l948">Ces Messieurs ayant eu dessein de nous donner</l>
@@ -1858,6 +1925,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I13">
+          <head>SCENE XIII.</head>
           <sp who="la-grange" xml:id="I13-1">
             <l part="F">Ah, ah ! coquins, que faites-vous <ref target="#ceans">ceans*</ref> ?</l>
             <l n="976" xml:id="l976">Trois heures sont desja passées, faineans,</l>
@@ -1882,6 +1950,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I14">
+          <head>SCENE XIV.</head>
           <sp who="magdelon" xml:id="I14-1">
             <l n="983" part="I" xml:id="l983">Que vien-je donc de voir ?</l>
           </sp>
@@ -1912,6 +1981,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I15">
+          <head>SCENE XV.</head>
           <sp who="la-grange" xml:id="I15-1">
             <l n="995" xml:id="l995">Ma foy, c’est trop marauts, vous divertir de nous,</l>
             <l n="996" xml:id="l996">Et vous n’en rirez plus, je vous jure entre vous.</l>
@@ -2007,6 +2077,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I16">
+          <head>SCENE XVI.</head>
           <sp who="gorgibus" xml:id="I16-1">
             <l n="1041" xml:id="l1041">Coquines, qu’ay-je oüy ? vous nous venez de mettre</l>
             <l n="1042" xml:id="l1042">Dedans de beaux draps blancs. On m’a sans rien obmetre</l>
@@ -2049,6 +2120,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I17">
+          <head>SCENE XVII.</head>
           <sp who="violons" xml:id="I17-1">
             <l n="1071" xml:id="l1071">Nous atendons icy Monsieur, à leur defaut</l>
             <l n="1072" xml:id="l1072">De recevoir enfin de vous, ce qu’il nous faut :</l>
@@ -2077,6 +2149,7 @@
         </div>
       </div>
       <div>
+        <head>Extraict du Privilege du Roy.</head>
         <p><hi rend="sc">Par</hi> grace &amp; Privilege du Roy, il est permis au sieur de Somaize de faire Imprimer par tel Imprimeur &amp; Libraire qu’il voudra, <hi rend="i">Les Pretieuses Ridicules mises en vers</hi>, representées au Petit Bourbon, pendant l’espace de cinq ans &amp; deffenses à tous autres de le contrefaire, comme il est porté par ledit Privilege. Donné à Paris, le troisiesme jour de Mars mil six cens soixante. Par le Roy en son Conseil <hi rend="sc">Coupeau</hi>.</p>
         <p rend="i">Et ledit sieur Somaize a cedé &amp; transporté son Privilege à Jean Ribou Marchand Libraire à Paris, selon l’accord fait entr'eux. </p>
         <p>Registré sur le Livre de la Communauté le 8. Avril 1660. suivant l’Arret du Parlement en date du 9. Avril 1653. Signé JOSSE.</p>

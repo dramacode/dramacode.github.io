@@ -1,11 +1,63 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Méléagre. Tragédie</title>
+        <author key="Hardy, Alexandre (1570?-1632?)">Alexandre Hardy</author>
+        <editor>Boucebia Maghda</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Boucebia Maghda sous la direction de Georges Forestier (2000-2001)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/hardy_meleagre/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/hardy_meleagre.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/hardy_meleagre.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/hardy_meleagre.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/hardy_meleagre.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1624"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>MELEAGRE, <lb/>Tragedie.</head>
       <div xml:id="argument">
+        <head>ARGUMENT de ceste Tragedie.</head>
         <p>DIANE offensée du mépris qu’Oenée, pere de Meleagre &amp;Roy de Calydon, avoit fait de sa <ref target="#deite">Deïté*</ref>, envoye un sanglier de monstrueuse grandeur, qui ravage tout le païs. Meleagre donc, ne pouvant, ne par vœux envers les immortels, ne par aucune humaine <ref target="#industrie">industrie*</ref>, chasser ce fleau de son pays, a recours aux Argonautes ses anciens compagnons d’armes, qui sous la conduite de Thesée, se resolvent à la conqueste du sanglier. Atalante cependant vierge des plus belles, &amp; endurcie au travail de la chasse, se trouve à l’<ref target="#assemblee">assemblée*</ref>, avec resolution de participer à la gloire de tel exploit, ils vont de compagnie forcer la beste jusqu’en son repaire, laquelle après une merveilleuse resistance, meurtres d’hommes, &amp; de chiens, est atteinte du <ref target="#dard">dard*</ref> d’Atalante en la <ref target="#hure">hure*</ref>; Meleagre la seconde, donnant le coup mortel au sanglier. La chasse faite, le pris de <ref target="#vaillance">vaillance*</ref> d’une commune voix s’adjuge, &amp; se porte à la belle Atalante, ce qui conçoit une telle jalousie d’honneur aux oncles du Roy, qu’ils le luy vont arracher de vive force. La Vierge en fait sa plainte au Roy, qui sur le refus d’une promte restitution tüe ses oncles, épousant Atalante. Ce meurtre offense tellement Altée mere du Roy, qu’elle conspire la mort de son fils, &amp; par le moyen du tison fatal, auquel estoit attaché le destin de la vie de Meleagre, effectuë sa mauvaise volonté, ce qui finit la Tragedie.</p>
       </div>
-      <div/>
+      <div>
+        <head>LES ACTEURS.</head>
+      </div>
       <div type="act" xml:id="I">
+        <head>ACTE I</head>
         <sp who="meleagre" xml:id="I-1">
           <l n="1" xml:id="l1">Fille de Jupiter, Déesse trois fois grande,</l>
           <l n="2" xml:id="l2">Au Ciel, dans les forests, &amp; où Pluton commande,</l>
@@ -261,7 +313,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="223" xml:id="p223"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE I.</head>
           <sp who="atalante" xml:id="II01-1">
             <l n="221" xml:id="l221">Compagnes, n’estimez qu’où la gloire convie,</l>
             <l n="222" xml:id="l222">Je refuse jamais de prodiguer ma vie,</l>
@@ -376,6 +430,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II.</head>
           <sp who="thesee" xml:id="II02-1">
             <l n="305" xml:id="l305">Venus à ton secours, juge si telle bande,</l>
             <l n="306" xml:id="l306">Peut le monstre <ref target="#defaire">deffait*</ref> accomplir ta demande,</l>
@@ -584,7 +639,9 @@
         </div>
       </div>
       <div type="act" xml:id="III">
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE I.</head>
           <sp who="chŒur-de-peuple" xml:id="III01-1">
             <l n="461" xml:id="l461"><ref target="#espancher">ESPANCHONS*</ref> à ce coup, le sein moüillé de larmes,</l>
             <l n="462" xml:id="l462">Les genous contre terre, &amp; l’âme dans les Cieux,</l>
@@ -722,6 +779,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp who="meleagre" xml:id="III02-1">
             <l n="577" xml:id="l577">Apres ce haut exploit, Martiale assemblée,</l>
             <l n="578" xml:id="l578">Qu’un doux calme a rassis ma Province troublée,</l>
@@ -888,7 +946,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="245" xml:id="p245"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE I.</head>
           <sp who="plexippe" xml:id="IV01-1">
             <l n="705" xml:id="l705">Tel affront enduré mon frere, nous ne sommes,</l>
             <l n="706" xml:id="l706">Que l’opprobre des Cieux, &amp; la fable des hommes,</l>
@@ -1007,6 +1067,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <pb n="249" xml:id="p249"/>
+          <head>SCENE II.</head>
           <sp who="chŒur-de-filles" xml:id="IV02-1">
             <l n="781" xml:id="l781">Vous semez les œillets, l’amarante, &amp; les roses,</l>
             <l n="782" xml:id="l782">Une moisson de fleurs nouvellement écloses,</l>
@@ -1160,6 +1221,7 @@
         </div>
         <div type="scene" xml:id="IV03">
           <pb n="254" xml:id="p254"/>
+          <head>SCENE III.</head>
           <sp who="meleagre" xml:id="IV03-1">
             <l n="877" xml:id="l877">Beau pourtrait, imprimé dans mon cœur, qui respire,</l>
             <l n="878" xml:id="l878">Desormais s’asservir au joug de ton Empire,</l>
@@ -1378,7 +1440,9 @@
         </div>
       </div>
       <div type="act" xml:id="V">
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE I.</head>
           <sp who="altee" xml:id="V01-1">
             <l n="1037" xml:id="l1037">Implacables fureurs, que redoute l’Averne,</l>
             <l n="1038" xml:id="l1038">A ma plainte quitez votre horrible caverne,</l>
@@ -1513,6 +1577,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp who="meleagre" xml:id="V02-1">
             <l n="1125" xml:id="l1125">T’amuses-tu ma vie à ruminer craintive,</l>
             <l n="1126" xml:id="l1126"><ref target="#dessur">Dessur*</ref> la vision d’une ombre deceptive,</l>
@@ -1584,6 +1649,7 @@
         </div>
         <div type="scene" xml:id="V03">
           <pb n="268" xml:id="p268"/>
+          <head>SCENE DERNIERE.</head>
           <sp who="altee" xml:id="V03-1">
             <l n="1173" xml:id="l1173">Le marchand qui malgré les orages, arrive,</l>
             <l n="1174" xml:id="l1174">Sa <ref target="#nef">nef*</ref> de lingots pleine à sa natale rive,</l>

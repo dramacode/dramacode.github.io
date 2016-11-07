@@ -1,8 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Régulus. Tragédie</title>
+        <author key="Pradon, Nicolas (1632-1698)">Jacques Pradon</author>
+        <principal>Georges Forestier</principal>
+        <editor>Andrea Siani</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Andrea Siani dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2012-2013)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/pradon_regulus/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/pradon_regulus.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/pradon_regulus.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/pradon_regulus.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/pradon_regulus.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1688"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>REGULUS, <hi rend="i">TRAGEDIE</hi>.</head>
       <div type="set" xml:id="dedicace">
         <pb n="III "/>
+        <head>A MADAME LA DAUPHINE</head>
         <p>MADAME,</p>
         <p><hi rend="i"><ref target="#souffrir1">Souffrez*</ref> que Regulus paroisse à vos yeux sur le papier, aprés avoir parû sur le Theatre</hi><hi rend="i">avec assez de bon</hi>- <pb n="IV ã iij"/><hi rend="i">heur. Le caractere de ce fameux Romain ne pouvoit pas manquer de fraper une ame comme la vostre, dont les sentimens sont si grands &amp; si nobles : Mais, MADAME, sans vous repeter icy ce que toute la France admire en vostre auguste Personne, c’est à vous a qui la Tragedie doit uniquement ses beautez ; c’est par le goust exquis que vous en avez, par ces <ref target="#lumiere">lumieres*</ref> penetrantes à qui</hi><hi rend="i">rien n’échape, que vous animez encore ceux qui sont capables de faire de ces sortes d’Ouvrages, à en produire de nouveaux ; C’est, MADAME, ce qui va me faire redoubler mes <ref target="#soin1">soins*</ref>, pour me rendre un peu moins indigne de l’honneur de vos applaudisemens, &amp; sans vous fatiguer de la lecture d’une plus longue Epistre en Prose, permettez- [V] moy d’en ajoûter une en Vers, que j’ay eu l’honneur de vous presenter, &amp; de me dire avec le plus profond respect</hi>, </p>
         <p>MADAME,</p>
@@ -11,6 +60,7 @@
       </div>
       <div type="set" xml:id="epitre">
         <pb n="VI"/>
+        <head>A MADAME<hi rend="b">LA DAUPHINE EPISTRE.</hi></head>
         <l n="1" xml:id="l1-epitre">Toy, dont le sang auguste &amp; fecond à la fois,</l>
         <l n="2" xml:id="l2-epitre">Promet à l’Univers des Heros &amp; des Rois ;</l>
         <l n="3" xml:id="l3-epitre">Princesse incomparable, écoute, &amp; daigne entendre</l>
@@ -112,15 +162,25 @@
       </div>
       <div type="set" xml:id="preface">
         <pb n="X"/>
+        <head>PREFACE</head>
         <p>Le succés de Regulus a esté si grand, que son titre seul pouroit servir d’Apologie &amp; de Préface pour répondre à quelques Critiques. <ref target="#cependant2">Cependant*</ref> sans me prévaloir des beautez que ce sujet m’a fournies, &amp; des larmes que le public y a répanduës, j’ose dire que je me sçais un peu de gré d’avoir trouvé une route que plusieurs Auteurs avoient vainement cherchée. J’ay changé quelques circonstances à l’histoire, &amp; j’ay mis la Scene dans le Camp des Romains devant Cartage, &amp; non pas dans Rome, pour conserver l’unité du temps &amp; du lieu. Mais il eût esté bien fascheux de laisser dans un eternel oubly, la plus grande action qui se soit faite dans l’ancienne Rome, faute d’un peu d’invention. J’ay donc renvoyé Regulus dans le Camp des Romains, pour les porter à la guerre, qu’il va payer de sa vie, plutost qu’à la paix ; &amp; cela a produit un si grand effet, que je voudrois faire souvent de pareilles fau-<pb n="XI "/>e] tes. On m’a reproché qu’il n’y avoit pas assez d’action dans mon second Acte. J’avoüe qu’il ne fait que preparer aux trois derniers, sur qui tombe toute l’action &amp; tous les interests de la piece ; mais les Peintures que fait Fulvie du triomphe de son <ref target="#amant">Amant*</ref>, ont paru assez belles, &amp; mesme les plus fins connoisseurs m’ont applaudy d’avoir pû faire cinq Actes complets d’un sujet aussi simple qu’est celuy-cy. J’ay tâché de conserver ce caractere de grandeur &amp; de fermeté dans le plus austere Romain qui ait jamais parû, &amp; l’on me flate de l’avoir fait voir dans toute son étenduë. Je n’ay rien imité ny emprunté de personne dans un sujet tout neuf, que les anciens &amp; les modernes ont également respecté. J’avoüe qu’il y a peu d’amour, mais je n’y en pouvois mettre davantage avec bien-sceance : Et j’ay fait cette reflection dans les representations de Regulus, que la grandeur d’ame frappe plus que la tendresse, &amp; que le spectateur est touché plus vivement par une grande action qui l’enleve, que par un fade amour qui languit, &amp; qui fatigue &amp; l’Auditeur &amp; l’Acteur. Quelques uns ont trouvé à redire que j’ay mis un enfant sur la Scene, mais j’ay suivy mot à mot l’histoire, &amp; ce qu’en dit le fameux Horace,</p>
+        <quote>
+          <l n="99"><hi rend="i">Fertur pudicæ conjugis osculum</hi>                         <pb n="XII"/> </l>
+          <l n="100">Parvosque natos, ut capitis minor</l>
+          <l n="101">A se removisse, &amp; virilem</l>
+          <l n="102"><hi rend="i">Torvus humi posuisse vultum</hi> . </l>
+        </quote>
         <p>Ces Vers me doivent fort justifier de cette nouveauté, qui a produit un si grand effet, &amp; qui a fait dire des choses si touchantes à Regulus, qu’elles font toute la beauté du cinquiéme Acte. Le caractere de Mannius est fondé dans l’histoire ; &amp; Florus, dans lequel j’ay pris mon sujet, nous apprend la revolte de ce Tribun qui fis soulever tout le Camp des Romains contre Regulus. Je luy ay donné un interest d’amour &amp; de jalousie qui sert à mon action principale. J’avoüe que le caractere de Fulvie est entierement de mon invention, &amp; qu’elle fait l’epizode de ma Piece, on l’y trouve amenée avec bien sceance, &amp; elle a des sentimens assez dignes d’une Romaine, pour ne pas faire rougir Regulus du dessein qu’il a de l’épouser aprés la prise de Cartage. Enfin sans faire une plus longue discution, je puis dire que cét Ouvrage a frapé si vivement tout le public, &amp; les Acteurs en ont remply si dignement les caracteres, que cela me doit encourager à l’avenir à travailler avec plus d’ap-<pb n="XIII"/> plication que jamais, &amp; à chercher des sujets dont la grandeur soutienne celuy de Regulus, qui a trompé les Satyriques, puisqu’il a eu un <ref target="#sort">sort*</ref> à Paris moins cruel que celuy qu’il eut à Cartage.</p>
       </div>
       <div type="set" xml:id="acteurs">
+        <head>ACTEURS</head>
         <pb n="XIV"/>
       </div>
       <div type="act" xml:id="I">
         <pb n="1 A"/>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp who="metellus" xml:id="I01-1">
             <l n="1" xml:id="l1">SEIGNEUR, je suis charmé de vous voir prés de nous,</l>
             <l n="2" xml:id="l2">Regulus considere un Romain tel que vous,</l>
@@ -245,6 +305,7 @@
         </div>
         <div type="scene" xml:id="I02">
           <pb n="6"/>
+          <head>SCENE II.</head>
           <sp who="priscus" xml:id="I02-1">
             <l n="107" xml:id="l107">Je viens remplir le choix dont Scipion m’honore,</l>
             <l n="108" xml:id="l108">Seigneur, je viens marcher sous un chef qu’il <ref target="#adorer1">adore*</ref>,</l>
@@ -332,6 +393,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <sp who="regulus" xml:id="I03-1">
             <l n="175" xml:id="l175">Cartage nous fournit une illustre matiere</l>
             <l n="176" xml:id="l176">Pour finir avec gloire une longue carriere :</l>
@@ -430,6 +492,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp who="mannius" xml:id="I04-1">
             <l n="251" xml:id="l251">Tout flate vos desseins, &amp; tout vous favorise,</l>
             <l n="252" xml:id="l252">Seigneur dans peu de temps Cartage sera prise,</l>
@@ -471,6 +534,7 @@
         </div>
         <div type="scene" xml:id="I05">
           <pb n="14"/>
+          <head>SCENE V.</head>
           <sp who="mannius" xml:id="I05-1">
             <l n="279" xml:id="l279">Qu’entens-je Regulus en moy seul se confie,</l>
             <l n="280" xml:id="l280">Et je pourray trahïr mon chef &amp; ma patrie ?</l>
@@ -513,7 +577,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="16"/>
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp who="fulvie" xml:id="II01-1">
             <l n="315" xml:id="l315">PRISCUS est dans ce Camp, enfin Rome est instruite</l>
             <l n="316" xml:id="l316">Du dessein de mon pere &amp; de nostre conduite,</l>
@@ -627,6 +693,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="20"/>
+          <head>SCENE II</head>
           <sp who="regulus" xml:id="II02-1">
             <l n="411" xml:id="l411">NON, non, je n’ay rien fait si je ne prens Cartage,</l>
             <l n="412" xml:id="l412">C’est par-là que je dois couronner mon Ouvrage,</l>
@@ -731,6 +798,7 @@
         </div>
         <div type="scene" xml:id="II03">
           <pb n="24"/>
+          <head>SCENE III.</head>
           <sp who="regulus" xml:id="II03-1">
             <l n="485" xml:id="l485">Ah ! Seigneur, servez-vous de vostre authorité,</l>
             <l n="486" xml:id="l486">Je ne puis rien gagner sur son cœur agité,</l>
@@ -757,6 +825,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="25 C"/>
+          <head>SCENE IV.</head>
           <sp who="metellus" xml:id="II04-1">
             <l n="502" xml:id="l502">He’ quoy ? donc nous serons tous deux desobeïs,</l>
             <l n="503" xml:id="l503">Regulus vous parloit à ma seule priere</l>
@@ -832,6 +901,7 @@
         </div>
         <div type="scene" xml:id="II05">
           <pb n="28"/>
+          <head>SCENE V.</head>
           <sp who="fulvie" xml:id="II05-1">
             <l n="556" xml:id="l556">Ciel ! que ne dois-je point à sa juste tendresse,</l>
             <l n="557" xml:id="l557">Nous ne partirons point, nous serons les témoins....</l>
@@ -842,6 +912,7 @@
         </div>
         <div type="scene" xml:id="II06">
           <pb n="29 C iij"/>
+          <head>SCENE VI.</head>
           <sp who="mannius" xml:id="II06-1">
             <l n="561" xml:id="l561">Madame, tout est prest si vous voulez partir,</l>
             <l n="562" xml:id="l562">A ce juste départ vous devez consentir,</l>
@@ -868,6 +939,7 @@
         </div>
         <div type="scene" xml:id="II07">
           <pb n="30"/>
+          <head>SCENE VII.</head>
           <sp who="mannius" xml:id="II07-1">
             <l n="579" xml:id="l579">Ah ! sans aller si loin, vous iriez à Cartage,</l>
             <l n="580" xml:id="l580">Vous qui m’osez tenir ce superbe langage ?</l>
@@ -888,7 +960,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="31 C iiij"/>
+        <head>ACTE III. </head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp who="metellus" xml:id="III01-1">
             <l n="593" part="I" xml:id="l593">Est-il donc vray, Priscus ?</l>
           </sp>
@@ -970,6 +1044,7 @@
         </div>
         <div type="scene" xml:id="III02">
           <pb n="34"/>
+          <head>SCENE II.</head>
           <sp who="fulvie" xml:id="III02-1">
             <l n="658" xml:id="l658">Seigneur, apprenez-moy le succés du combat,</l>
             <l n="659" xml:id="l659">Je cours pour m’en instruire, &amp; n’en puis rien apprendre,</l>
@@ -1029,6 +1104,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp who="fulvie" xml:id="III03-1">
             <l n="693" xml:id="l693">Mon pere de ces lieux me défend de sortir</l>
             <l n="694" xml:id="l694">De cet ordre cruel que dois-je pressentir ?</l>
@@ -1059,6 +1135,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp who="mannius" xml:id="III04-1">
             <l part="F">        Des malheurs où je n’ose penser,</l>
             <l n="714" xml:id="l714">Et je tremble, Madame, à vous les annoncer,</l>
@@ -1148,6 +1225,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp who="fulvie" xml:id="III05-1">
             <l n="767" xml:id="l767">Lasche, pour te punir d’une telle insolence,</l>
             <l n="768" xml:id="l768">Les plus sanglants mépris serviront ma vengeance ;</l>
@@ -1162,6 +1240,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI.</head>
           <sp who="lepide" xml:id="III06-1">
             <l n="777" xml:id="l777">Ah ! Madame, esperez que dans peu les Romains</l>
             <l n="778" xml:id="l778">Reprendront Regulus des mains des Africains,</l>
@@ -1185,6 +1264,7 @@
         </div>
         <div type="scene" xml:id="III07">
           <pb n="42"/>
+          <head>SCENE VII.</head>
           <sp who="metellus" xml:id="III07-1">
             <l n="787" xml:id="l787">Pour épargner vos pleurs &amp; vostre ame <ref target="#etonner">étonnée*</ref>,</l>
             <l n="788" xml:id="l788">J’avois de Regulus caché la destinée</l>
@@ -1208,6 +1288,7 @@
         </div>
         <div type="scene" xml:id="III08">
           <pb n="43 D iiij"/>
+          <head>SCENE VIII.</head>
           <sp who="metellus" xml:id="III08-1">
             <l part="F">                Mon ame est allarmée,</l>
             <l n="796" xml:id="l796">Regulus sur sa foy vient rejoindre l’armée,</l>
@@ -1298,6 +1379,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III09">
+          <head>SCENE IX.</head>
           <sp who="lepide" xml:id="III09-1">
             <l n="873" xml:id="l873">Seigneur, Regulus vient, j’ay dû vous avertir</l>
             <l n="874" xml:id="l874">Que des murs de Cartage on l’avoit vû sortir ;</l>
@@ -1313,7 +1395,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="47"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp who="mannius" xml:id="IV01-1">
             <l n="879" xml:id="l879">Quel retour impréveu ? j’ay peine à me connoître,</l>
             <l n="880" xml:id="l880">Devant moy dans ces lieux Regulus va paroître ;</l>
@@ -1335,6 +1419,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <pb n="48"/>
+          <head>SCENE II.</head>
           <sp who="lepide" xml:id="IV02-1">
             <l n="895" xml:id="l895">Seigneur, quand tout le Camp marque tant d’allegresse,</l>
             <l n="896" xml:id="l896">Qu’à revoir Regulus tout le monde s’empresse,</l>
@@ -1386,6 +1471,7 @@
         </div>
         <div type="scene" xml:id="IV03">
           <pb n="50"/>
+          <head>SCENE III.</head>
           <sp who="regulus" xml:id="IV03-1">
             <l n="923" xml:id="l923">La fortune, Romains, vient de changer de face,</l>
             <l n="924" xml:id="l924">On en doit fierement soûtenir la disgrace ;</l>
@@ -1579,6 +1665,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <pb n="57"/>
+          <head>SCENE IV.</head>
           <sp who="regulus" xml:id="IV04-1">
             <l n="1059" xml:id="l1059">Seigneur, nous sommes seuls, &amp; je puis sans contrainte</l>
             <l n="1060" xml:id="l1060">Vous confier les maux dont mon ame est atteinte.</l>
@@ -1644,6 +1731,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V.</head>
           <sp who="fulvie" xml:id="IV05-1">
             <l n="1111" xml:id="l1111">Où donc est Regulus, Seigneur, toute l’armée,</l>
             <l n="1112" xml:id="l1112">De son heureux retour &amp; surprise &amp; charmée,</l>
@@ -1697,6 +1785,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI.</head>
           <sp who="fulvie" xml:id="IV06-1">
             <l n="1143" xml:id="l1143">Que veut-il dire, ah Ciel ! je passe de la joye</l>
             <l n="1144" xml:id="l1144">A de mortels chagrins où mon ame est en proye,</l>
@@ -1715,6 +1804,7 @@
         </div>
         <div type="scene" xml:id="IV07">
           <pb n="60b"/>
+          <head>SCENE VII.</head>
           <sp who="priscus" xml:id="IV07-1">
             <l n="1156" xml:id="l1156">Ah ! Madame, je viens augmenter vos <ref target="#allarme2">allarmes*</ref>,</l>
             <l n="1157" xml:id="l1157">De Regulus peut-estre ignorez-vous le sort,</l>
@@ -1760,7 +1850,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="62"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp who="regulus" xml:id="V01-1">
             <l n="1187" xml:id="l1187">Quoy ? l’on me veut livrer à la noire infamie,</l>
             <l n="1188" xml:id="l1188">Qui poura démentir tout le cours de ma vie ;</l>
@@ -1819,6 +1911,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp who="priscus" xml:id="V02-1">
             <l n="1235" xml:id="l1235">Seigneur, ayez pitié de la triste Fulvie,</l>
             <l n="1236" xml:id="l1236">Vostre cruel depart luy va couter la vie,</l>
@@ -1841,6 +1934,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp who="fulvie" xml:id="V03-1">
             <l n="1245" xml:id="l1245">Ne croyez pas, Seigneur, que pour vous attendrir,</l>
             <l n="1246" xml:id="l1246">Je pousse devant vous quelque indigne soupir ;</l>
@@ -1899,6 +1993,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV.</head>
           <sp who="attilius" xml:id="V04-1">
             <l n="1288" xml:id="l1288">Seigneur, où courez-vous ? quel dessein <ref target="#parricide">parricide*</ref></l>
             <l n="1289" xml:id="l1289">Vous fait fuir sans pitié, vous fait m’abandonner,</l>
@@ -1927,6 +2022,7 @@
         </div>
         <div type="scene" xml:id="V05">
           <pb n="69"/>
+          <head>SCENE V.</head>
           <sp who="regulus" xml:id="V05-1">
             <l part="F">            Ciel ! je voy Metellus,</l>
             <l n="1306" xml:id="l1306">Je respire, Seigneur, ne me retient-on plus,</l>
@@ -1993,6 +2089,7 @@
         </div>
         <div type="scene" xml:id="V06">
           <pb n="72"/>
+          <head>SCENE VI.</head>
           <sp who="fulvie" xml:id="V06-1">
             <l n="1343" part="I" xml:id="l1343">Quel espoir justes Dieux !</l>
           </sp>
@@ -2021,6 +2118,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII.</head>
           <sp who="fulvie" xml:id="V07-1">
             <l n="1357" xml:id="l1357">Mon pere &amp; Regulus me quittent, quel effroy !</l>
             <l n="1358" xml:id="l1358">Il retourne à Cartage &amp; luy garde sa foy,</l>
@@ -2043,6 +2141,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>SCENE VIII.</head>
           <sp who="marcelle" xml:id="V08-1">
             <l n="1369" xml:id="l1369">Ah ! Madame, apprenez le plus grand des forfaits</l>
             <l n="1370" xml:id="l1370">Que l’on vient de punir au gré de nos souhaits ;</l>
@@ -2074,6 +2173,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V09">
+          <head>SCENE DERNIERE.</head>
           <sp who="priscus" xml:id="V09-1">
             <l n="1390" xml:id="l1390">Du plus grand des Heros aprenez le destin.</l>
             <l n="1391" xml:id="l1391">Voyant que tout le Camp luy fermoit le passage,</l>
@@ -2145,6 +2245,7 @@
       </div>
       <div xml:id="privilege">
         <pb n="XV"/>
+        <head>EXTRAIT DV PRIVILEGE du Roy.</head>
         <p>Par Grace &amp; Privilege du Roy, donné à le jour de 1688. Signé Par le Roy en son Conseil, Du <hi rend="sc">Gono</hi>. Il est permis au Sieur <hi rend="sc">Pradon</hi>, de faire imprimer, vendre &amp; debiter par tel Imprimeur ou Libraire qu’il voudra choisir, une Piece de Theatre de sa composition, intitulée <hi rend="i">Regulus, Tragedie</hi>, pendant le temps de six années, à compter du jour que ladite Piece sera achevée d’imprimer pour la premiere fois : Pendant lequel temps faisons tres-expresse <ref target="#inhibition">inhibition*</ref> &amp; deffense à toute personnes , de quelque qualité &amp; condition qu’elles soient, de faire imprimer, vendre &amp; debiter par tous les lieux de nostre obeïssance d’autre Edition que celle du Sieur <hi rend="sc">Pradon</hi>, ou de ceux qui auront droit de luy, à peine de trois mil livres d’amende payables sans deport par chacun des contrevenans, confiscation des Exemplaires contrefaits, &amp; autres peines plus au long contenuës dans lesdites Lettres.</p>
         <p>
           <hi rend="i">Registré</hi>

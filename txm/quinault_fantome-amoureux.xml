@@ -1,15 +1,64 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Fantôme amoureux. Tragi-comédie</title>
+        <author key="Quinault, Philippe (1635-1688)">Philippe Quinault</author>
+        <principal>Georges Forestier</principal>
+        <editor>Gabrielle Jeanselme</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Gabrielle Jeanselme dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2008-2009)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/quinault_fantome-amoureux/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/quinault_fantome-amoureux.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/quinault_fantome-amoureux.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/quinault_fantome-amoureux.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/quinault_fantome-amoureux.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1657"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LE <lb/>FANTOSME <lb/>AMOUREUX<lb/>TRAGI-COMEDIE</head>
       <div>
+        <head>EPISTRE<lb/>A MONSEIGNEUR,<lb/>MONSEIGNEUR LE COMTE DE SAINT AIGNAN, CONSEILLER DU ROY EN SES CONSEILS D’ESTAT, Lieutenant General en ses Armées, &amp; premier Gentilhomme de la Chambre.</head>
         <p>Monseigneur,</p>
         <p>C’est avec beaucoup de crainte et &amp; de trouble que j’ose prendre la liberté de vous offrir cette Tragi-Comedie ; Je n’ay pas assez tiré de vanité du bon-heur qu’elle a eu de ne pas déplaire sur le Theatre, pour m’assurer qu’elle soit autant heureuse en se presentant à vous sur le papier ; Je suis persuadé que vous avez des lumieres peu communes pour la connoissance des belles choses : Je sçay que vous en sçavez parfaitement discerner les beautez, les artifices &amp; les deffauts ; &amp; que cet Ouvrage n’a rien qui ait esté treuvé juste, que vous ne puissiez treuver deffectueux avec justice, si vous l’examinez avec rigueur : Mais quand je serois assuré qu’il ne recevroit de vous que du mépris, je ne changerois le dessein que j’ay fait de vous l’offrir ; &amp; n’aurais pas de honte de vous faire connoistre ma foiblesse, pourveu que j’eusse au moins l’honneur de vous faire paroistre mon zele. La passion, MONSEIGNEUR, qui m’oblige à vous honorer, n’est pas une passion nouvelle : Aussi-tost que j’ay commencé d’avoir quelque connoissance de ce que l’on appelle Merite, j’ay commencay d’avoir des sentimens de veneration pour vous : J’ay ensuite appris tout ce que je sçay de la belle Poësie, en vous entendant loüer : je suis mesme obligé d’avoir des ressentimens eternels d’un grand nombre de liberalitez que vous avez faites, &amp; j’estime que vous n’en douterez pas, quand vous sçaurez que j’ay eu le bon-heur d’avoir feu l’illustre Monsieur Tristan pour Maistre dans un Art où il estoit sans doute admirable, puis qu’il y a merité vostre estime. Encore que cét Homme excellent vous ait consacré ses veilles les plus laborieuses, &amp; qu’il ait rendu son nom immortel en voulant eterniser le vostre, il n’a pas laissé de reconnoistre en mourant que les loüanges n’estoient pas encore en si grand nombre que vos bienfaits : Je suis tesmoin que dans ses derniers moments, il a tesmoigné moins de regret de voir sa vie achevée, que de laisser sa reconnoissance imparfaite &amp; je croirois commettre une espece de larcin, si je ne vous offrois, pour l’acquitter, toutes les lumieres dont je luy suis redevable. Quelque juste défiance que j’aye de mon peu d’artifice, j’ose toutesfois m’assurer de ne dire que des choses extraordinaires , pourvu que vous ayez la bonté de me permettre de parler de vous ; &amp; je croy n’avoir pas besoin d’estre fort ingenieux pour reüssir dans ce dessein, puisque pour n’escrire rien de vous que de merveilleux, il suffit de n’escrire rien que de veritable. Mais ce n’est pas en cét endroit que je pretends commencer à former quelques traits à votre gloire, c’est dans un Ouvrage beaucoup plus fort &amp; plus estendu qu’une Lettre, que je me propose de faire une peinture esclattante de toutes vos admirables qualitez, &amp; de vos actions toutes heroïques. Je me contenteray seulement de vous oser icy demander avec respect la permission de me dire,</p>
         <p>MONSEIGNEUR,</p>
         <p rend="center">Vostre tres-humble &amp; tres-obeïssant serviteur, QUINAULT.</p>
       </div>
-      <div/>
+      <div>
+        <head>LES PERSONNAGES.</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="carlos">
             <l n="1" xml:id="l1"><hi rend="sub">L</hi>e sçay tu bien Clarine ? Ô Ciel ! est-il possible,1<pb n="A, 1" xml:id="p1"/></l>
             <l n="2" xml:id="l2">Qu’Isabelle pour moy, cesse d’estre insensible ;</l>
@@ -117,6 +166,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II</head>
           <sp xml:id="I02-1" who="carlos">
             <l n="72" xml:id="l72">Mon <ref target="#bonheur1">bon-heur*</ref> est plus grand que je n’osois penser,</l>
             <l n="73" xml:id="l73">Je ne puis vous marquer quelque effort que j’employe</l>
@@ -181,6 +231,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III</head>
           <sp xml:id="I03-1" who="clarine">
             <l n="105" xml:id="l105">Entrez, entrez Seigneur, ma <ref target="#maitresse">Maistresse*</ref> Isabelle</l>
             <l n="106" xml:id="l106" part="I">Vous attend en sa chambre &amp; veut…</l>
@@ -205,6 +256,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="climene">
             <l n="113" xml:id="l113">Cette voix que j’entends est celle de Fabrice,</l>
             <l n="114" xml:id="l114">Je ne pouvois sortir dans un temps plus propice.</l>
@@ -398,6 +450,7 @@
         </div>
         <div type="scene" xml:id="I05">
           <pb n="11" xml:id="p11"/>
+          <head>SCENE V.</head>
           <sp xml:id="I05-1" who="carlos">
             <l n="250" xml:id="l250" part="I">Amy console-toy.</l>
           </sp>
@@ -465,6 +518,7 @@
         </div>
         <div type="scene" xml:id="I06">
           <pb n="B, 13" xml:id="p13"/>
+          <head>SCENE VI. </head>
           <sp xml:id="I06-1" who="ferdinand">
             <l part="F">Faites ce que j’ay dit.</l>
           </sp>
@@ -492,6 +546,7 @@
         </div>
         <div type="scene" xml:id="I07">
           <pb n="14" xml:id="p14"/>
+          <head>SCENE VII. </head>
           <sp xml:id="I07-1" who="climene">
             <l n="308" xml:id="l308">Que peus-tu souhaiter, où viens-tu cher Amant.</l>
           </sp>
@@ -576,6 +631,7 @@
         </div>
         <div type="scene" xml:id="I08">
           <pb n="16" xml:id="p16"/>
+          <head>SCENE VIII. </head>
           <sp xml:id="I08-1" who="valere">
             <l n="342" xml:id="l342">Ah Seigneur ! c’en est fait, il est tombé sans vie,</l>
             <l n="343" xml:id="l343">En vain pour se deffendre il a fait quelque effort,</l>
@@ -607,7 +663,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="17" xml:id="p17"/>
+        <head>ACTE II. </head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="II01-1" who="isabelle">
             <l n="357" xml:id="l357" part="I">Qui vient d’entrer ceans.</l>
           </sp>
@@ -681,6 +739,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="19" xml:id="p19"/>
+          <head>SCENE II.</head>
           <sp xml:id="II02-1" who="carlos">
             <l part="F">De ce logis, voyant la porte ouverte,</l>
             <l n="394" xml:id="l394">Je n’ay pû refuser l’occasion offerte,</l>
@@ -782,6 +841,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp xml:id="II03-1" who="alphonce">
             <l n="459" xml:id="l459" part="I">Ah ma fille ? ah ma fille ?</l>
           </sp>
@@ -884,6 +944,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV.</head>
           <sp xml:id="II04-1" who="licaste">
             <l n="497" xml:id="l497">Seigneur de vostre fils la mort est trop certaine,</l>
             <l n="498" xml:id="l498">Nous l’avons apporté dans la chambre <ref target="#prochain">prochaine*</ref>,</l>
@@ -947,6 +1008,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <sp xml:id="II05-1" who="clarine">
             <l n="546" xml:id="l546" part="I">Ah Seigneur ; ah Madame…</l>
           </sp>
@@ -984,6 +1046,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI.</head>
           <sp xml:id="II06-1" who="alphonce">
             <l n="553" xml:id="l553">Mon fils, mon ame est-elle éclaircie ou trompée,</l>
             <l n="554" xml:id="l554">Est-ce une illusion dont ma veuë est frappée</l>
@@ -1102,6 +1165,7 @@
         </div>
         <div type="scene" xml:id="II07">
           <pb n="29" xml:id="p29"/>
+          <head>SCENE VII.</head>
           <sp xml:id="II07-1" who="isabelle">
             <l n="633" xml:id="l633"><hi rend="sub">P</hi>ar quelle cruauté bannissez-vous mon frere.</l>
           </sp>
@@ -1121,6 +1185,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II08">
+          <head>SCENE VIII.</head>
           <sp xml:id="II08-1" who="fabrice">
             <l part="M"><hi rend="sub">S</hi>eigneur…</l>
           </sp>
@@ -1151,6 +1216,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II09">
+          <head>SCENE IX.</head>
           <sp xml:id="II09-1" who="carlos">
             <l n="656" xml:id="l656">Ils sont entrez tous deux, sortons sans differer.</l>
             <l n="657" xml:id="l657">Le sort à mes desirs cesse d’estre contraire,</l>
@@ -1160,6 +1226,7 @@
         </div>
         <div type="scene" xml:id="II10">
           <pb n="31" xml:id="p31"/>
+          <head>SCENE X.</head>
           <sp xml:id="II10-1" who="ferdinand">
             <l part="F">Je ne suis point déceu,</l>
             <l n="660" xml:id="l660">Vostre fils est vivant, Alphonce je l’ay veu :</l>
@@ -1241,6 +1308,7 @@
         </div>
         <div type="scene" xml:id="II11">
           <pb n="33" xml:id="p33"/>
+          <head>SCENE XI.</head>
           <sp xml:id="II11-1" who="alphonce">
             <l n="709" xml:id="l709">Sors &amp; choisis demain Florence pour retraitte.</l>
           </sp>
@@ -1280,7 +1348,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="34" xml:id="p34"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="III01-1" who="jacinte">
             <l n="729" xml:id="l729">C’est icy le jardin, Seigneur, où ma <ref target="#maitresse">Maistresse*</ref></l>
             <l n="730" xml:id="l730">Viendra dans un moment promener sa tristesse :</l>
@@ -1360,6 +1430,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp xml:id="III02-1" who="jacinte">
             <l n="787" xml:id="l787" part="I">Madame…</l>
           </sp>
@@ -1393,6 +1464,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp xml:id="III03-1" who="climene">
             <p rend="center">STANCES.</p>
             <lg>
@@ -1464,6 +1536,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp xml:id="III04-1" who="fabrice">
             <l n="853" xml:id="l853">Grace aux <ref target="#soin2">soins*</ref> de Carlos, &amp; malgré le destin,</l>
             <l n="854" xml:id="l854">J’ose esperer de voir Climene en ce jardin,</l>
@@ -1496,6 +1569,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp xml:id="III05-1" who="ferdinand">
             <l n="881" xml:id="l881">Je viens d’oüir des coups qui m’ont inquieté,</l>
             <l n="882" xml:id="l882">Le bruit qui m’a surpris est fait de ce costé ?</l>
@@ -1620,6 +1694,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI.</head>
           <sp xml:id="III06-1" who="fabrice">
             <l n="967" xml:id="l967">Approchons, j’apperçoy le Duc qui se retire,</l>
             <l n="968" xml:id="l968">Ma peine est dissipée, &amp; Climene respire ;</l>
@@ -1755,6 +1830,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE VII.</head>
           <sp xml:id="III07-1" who="fabrice">
             <l n="1047" xml:id="l1047">Si je ne suis trompé, Jacinte icy s’avance,</l>
             <l n="1048" xml:id="l1048">De ma chere Climene elle a la confidence ;</l>
@@ -1832,7 +1908,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="48" xml:id="p48"/>
+        <head>ACTE IV.<hi rend="b"/></head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="fabrice">
             <l n="1089" xml:id="l1089">Voicy l’heure propice où j’espere de voir</l>
             <l n="1090" xml:id="l1090">La beauté dont mon cœur adore le pouvoir :</l>
@@ -1858,6 +1936,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <pb n="E, 49" xml:id="p49"/>
+          <head>SCENE II</head>
           <sp xml:id="IV02-1" who="climene">
             <l n="1109" xml:id="l1109" part="I">Fabrice ?...</l>
           </sp>
@@ -1906,6 +1985,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <sp xml:id="IV03-1" who="valere">
             <l n="1137" xml:id="l1137" part="I">Elle doit estre icy…</l>
           </sp>
@@ -2086,6 +2166,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <pb n="54" xml:id="p54"/>
+          <head>SCENE IV.</head>
           <sp xml:id="IV04-1" who="carlos">
             <l n="1229" xml:id="l1229">Secourons nostre amy, ce bruit me fait juger</l>
             <l n="1230" xml:id="l1230">Que ses <ref target="#jour3">jours*</ref> en ces lieux courent quelque danger.</l>
@@ -2146,6 +2227,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V.</head>
           <sp xml:id="IV05-1" who="climene">
             <l n="1259" xml:id="l1259" part="I">Fabrice, est-ce toy…</l>
           </sp>
@@ -2193,6 +2275,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI.</head>
           <sp xml:id="IV06-1" who="jacinte">
             <l n="1283" xml:id="l1283">C’est Climene, approchez avec toute asseurence,</l>
             <l n="1284" xml:id="l1284">Et <ref target="#souffrir">souffrez*</ref> qu’au logis je rentre en <ref target="#diligence">diligence*</ref>,</l>
@@ -2276,6 +2359,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE VII.</head>
           <sp xml:id="IV07-1" who="fabrice">
             <l n="1315" xml:id="l1315">C’est Jacinte, &amp; Climene est sans doute avec elle.</l>
           </sp>
@@ -2342,6 +2426,7 @@
         </div>
         <div type="scene" xml:id="IV08">
           <pb n="60" xml:id="p60"/>
+          <head>SCENE VIII.</head>
           <sp xml:id="IV08-1" who="carlos">
             <l n="1349" xml:id="l1349">Vous voyez en ce lieu Climene qui m’attent.</l>
           </sp>
@@ -2370,6 +2455,7 @@
         </div>
         <div type="scene" xml:id="IV09">
           <pb n="F, 61" xml:id="p61"/>
+          <head>SCENE IX.</head>
           <sp xml:id="IV09-1" who="climene">
             <l n="1363" xml:id="l1363" part="I">Fabrice…</l>
           </sp>
@@ -2424,7 +2510,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="63" xml:id="p63"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="V01-1" who="carlos">
             <l n="1389" xml:id="l1389">Que vois-je, qu’ay-je fait ! ah rencontre cruelle,</l>
             <l n="1390" xml:id="l1390">Ne m’abusay-je point, est-ce vous Isabelle ?</l>
@@ -2611,6 +2699,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp xml:id="V02-1" who="alphonce">
             <l n="1477" xml:id="l1477" part="I">Que vois-je ?</l>
           </sp>
@@ -2727,6 +2816,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp xml:id="V03-1" who="fabrice">
             <l n="1540" xml:id="l1540">Enfin des mains du Duc nous sommes délivrez.</l>
           </sp>
@@ -2846,6 +2936,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV.</head>
           <sp xml:id="V04-1" who="celin">
             <l n="1591" xml:id="l1591">Plusieurs hommes, Seigneur, armez de hallebardes,</l>
             <l n="1592" xml:id="l1592" part="I">Desirent vous parler ;</l>
@@ -2893,6 +2984,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V.</head>
           <sp xml:id="V05-1" who="ferdinand">
             <l n="1615" xml:id="l1615">Apres avoir passé par une estroite route,</l>
             <l n="1616" xml:id="l1616">J’entre en un lieu plus grand &amp; ne sors point de doute,</l>
@@ -3019,6 +3111,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI.</head>
           <sp xml:id="V06-1" who="climene">
             <l n="1691" xml:id="l1691" part="I">Voyons-nous pas le Duc.</l>
           </sp>
@@ -3102,6 +3195,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE DERNIERE.</head>
           <sp xml:id="V07-1" who="fabrice">
             <l n="1729" xml:id="l1729">Vous me voyez vivant Prince trop genereux,</l>
             <l n="1730" xml:id="l1730">Tenez vostre parole &amp; me rendez heureux !</l>
@@ -3142,6 +3236,7 @@
         </div>
       </div>
       <div>
+        <head>Privilege du Roy.</head>
         <p><hi rend="sub">L</hi>OUIS par la grace de Dieu, Roy de France &amp; de Navarre ; A nos amez &amp; feaux Conseillers, les Gens tenans nos Cours de Parlement, Baillifs, Seneschaux, Prevots, ou leurs Lieutenans, &amp; à tous autres nos Justiciers &amp; Officiers qu’il appartiendra, Salut : Nostre tres-cher &amp; bien-aimé <hi rend="i">Claude Barbin</hi>, Marchand Libraire en nostre bonne Ville de Paris, nous a fait remonstrer qu’il desiroit faire imprimer une piece de Theatre, intitulée, <hi rend="i">Le Fantosme Amoureux</hi>, composé <hi rend="i">par le Sieur Quinault</hi>, &amp; réimprimer un Livre cy-devant imprimé intitulé, <hi rend="i">Thesaurus Sacerdatum &amp; Clericorum Locupletissimus insigni pietatis ac devotionis supellectile exuberans in sex loculos seu partes segregatus</hi>, &amp;c. S’il nous plaisoit luy vouloir permettre, nous requerant à cettefin octroyer nos Lettres sur ce necessaires. A CES CAUSES, ne voulant priver le public de si beaux ouvrages, Nous avons permis &amp; permettons audit <hi rend="i">Barbin</hi> d’imprimer lesdits Livres intitulez, <hi rend="i">Le Fantosme Amoureux, &amp; le Thesaurus sacerdotum &amp; Clericorum Locupletissimus insigni pietatis</hi>, &amp;c. &amp; iceux vendre &amp; debiter en tels volumes &amp; carracteres que bon luy semblera, pendant le temps de cinq ans, à commencer du jour que lesdits Livres auront esté achevez d’imprimer pour la premiere fois : Faisant tres-expresses inhibitions &amp; deffenses à toutes personnes de quelque qualité &amp; condition qu’elles soient, d’imprimer ou faire imprimer en tout ou en partie, vendre &amp; debiter, contrefaire, alterer, ny apporter de contrefaits des Pays estrangers lesdits Livres en quelques langues que ce soit, sans le consentement dudit Exposant, ou de ceux qui auront droict de luy, à peine de trois mil livres d’amende, &amp; de tous despens, dommages &amp; interests, &amp; de confiscation des exemplaires contrefaits, à la charge d’en mettre trois exemplaires, sçavoir deux en nostre Bibliothecque, &amp; un en celle de nostre tres-cher &amp; feal le Sieur Seguier Chancelier de France, avant que de l’exposer en vente, suivant nostre Reglement : Si vous mandons que des presentes vous ayez à faire jouyr ledit Exposant plainement &amp; paisiblement, contraignant tous ceux qu’il appartiendra par toutes voyes deuës &amp; raisonnables : Car tel est nostre plaisir. DONNÉ à Paris le vingt-neufième Septembre mil six cens cinquante-six. Et de nostre regne le treiziéme. Et plus bas, Par le Roy en son Conseil. Signé, Le Gros. Et scellé du grand Scau de cire jaune.</p>
         <p rend="i">Les Exemplaires ont esté fournis, ainsi qu’il est porté par le Privilege. </p>
         <p>Registré sur le Livre de la Communauté des Libraires le 4. Octobre 1656. Signé BALLARD.</p>

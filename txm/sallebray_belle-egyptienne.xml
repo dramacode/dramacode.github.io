@@ -1,15 +1,68 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Belle Égyptienne. Tragi-comédie</title>
+        <author key="Sallebray (16..-16..)">Sallebray</author>
+        <principal>Georges Forestier</principal>
+        <editor>Melanie Slaviero</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Melanie Slaviero dans le cadre d'un mémoire de
+          master 1 sous la direction de Georges Forestier (2013-2014)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/sallebray_belle-egyptienne/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/sallebray_belle-egyptienne.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/sallebray_belle-egyptienne.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/sallebray_belle-egyptienne.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/sallebray_belle-egyptienne.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1642"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="show">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>La Belle Egyptienne. Tragi-comédie</head>
       <div xml:id="privilege">
+        <head>Extrait du Privilege du Roy.</head>
         <p>Par Grace et Privilege du Roy, donné à Paris le 8 jour d’Avril 1642. Signé par le Roy en son Conseil, le BRUN, il est permis à Augustin Courbé, Marchand Libraire à Paris, d’imprimer ou faire imprimer une piece de Theatre, intitulée <hi rend="i">la belle Egyptienne</hi>, durant cinq ans : Et deffences sont faites à tous autres d’en vendre d’autre impression que de celle qu’aura fait faire ledit Courbé, ou les ayans cause, à peine de trois mil liures d’amende, et de tous ses despens, dommages et interests, ainsi qu’il est plus au long porté par ledit Privilege.</p>
         <p>Et le dit Courbé a associé audit Priviliege Antoine de Sommaville, aussi Marchand Libraire à Paris, suivant l’accord fait entr'eux.</p>
       </div>
       <div xml:id="personnages">
+        <head>LES PERSONNAGES.</head>
         <p>LA BELLE<pb n="A, 1"/><lb/>EGIPTIENNE, <lb/>TRAGI-COMEDIE</p>
       </div>
       <div xml:id="I" type="act">
+        <head>ACTE I</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="I01-1" who="precieuse">
             <l n="1" xml:id="l1">Enfin, personne icy ne sçauroit nous entendre,</l>
             <l n="2" xml:id="l2">Quel est donc le bon-heur que vous voulez m’apprendre ?</l>
@@ -176,6 +229,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp xml:id="I02-1" who="le-poete">
             <l n="78" xml:id="l78" part="I">C'est elle, je la voy.</l>
           </sp>
@@ -241,6 +295,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <sp xml:id="I03-1" who="precieuse">
             <l part="F">Ouy, j’ay leu cet ouvrage,</l>
             <l n="114" xml:id="l114" part="I">C'est sur nôtre rencontre.</l>
@@ -402,6 +457,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="la-vieille">
             <l n="231" xml:id="l231" part="I">Précieuse.</l>
           </sp>
@@ -419,6 +475,7 @@
         </div>
         <div type="scene" xml:id="I05">
           <pb n="19"/>
+          <head>SCENE V.</head>
           <sp xml:id="I05-1" who="dom-jean-de-carcame">
             <l n="235" xml:id="l235">Hé bien, es-tu content puissant Maistre des Dieux,</l>
             <l n="236" xml:id="l236">Conessant le sujet qui m’amene en ces lieux ?</l>
@@ -477,6 +534,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI.</head>
           <sp xml:id="I06-1" who="la-vieille">
             <l n="289" xml:id="l289" part="I">Qu'est-ce donc ?</l>
           </sp>
@@ -743,6 +801,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE VII.</head>
           <sp xml:id="I07-1" who="la-vieille">
             <l n="424" xml:id="l424">Mes leçons et mes <ref target="#soin">soins*</ref> sont donc ainsi trahis.</l>
           </sp>
@@ -775,7 +834,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="34"/>
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="II01-1" who="dom-jean-de-carcame">
             <l n="441" xml:id="l441">A peine mon vaisseau s’éloigne du rivage,</l>
             <l n="442" xml:id="l442">Qu'un Neptune jaloux veut exciter l’orage,</l>
@@ -809,6 +870,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="36"/>
+          <head>SCENE II.</head>
           <sp xml:id="II02-1" who="le-capitaine">
             <l n="469" xml:id="l469">Il faut entretenir le feu qui le consome.</l>
           </sp>
@@ -1096,6 +1158,7 @@
         </div>
         <div type="scene" xml:id="II03">
           <pb n="48"/>
+          <head>SCENE III.</head>
           <sp xml:id="II03-1" who="dom-jean-de-carcame">
             <l n="677" xml:id="l677">Enfin j’ay le bon-heur où mon amour aspire,</l>
             <l n="678" xml:id="l678">Mon sort est dans tes mains, je vis sous ton empire,</l>
@@ -1337,7 +1400,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="58"/>
+        <head>ACTE III</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="III01-1" who="le-poete">
             <l n="811" xml:id="l811">Au secours, je suis mort, ha ! quelle destinée</l>
             <l n="812" xml:id="l812">M'a fait treuver ces chiens dans leur rage obstinée ?</l>
@@ -1401,6 +1466,7 @@
         </div>
         <div type="scene" xml:id="III02">
           <pb n="61"/>
+          <head>SCENE II.</head>
           <sp xml:id="III02-1" who="la-vieille">
             <l n="834" xml:id="l834" part="I">Mon fils, où courés-vous ?</l>
           </sp>
@@ -1465,6 +1531,7 @@
         </div>
         <div type="scene" xml:id="III03">
           <pb n="64"/>
+          <head>SCENE III.</head>
           <sp xml:id="III03-1" who="le-poete">
             <l n="861" xml:id="l861">Soleil dont la lumiere est si douce à mes yeux,</l>
             <l n="862" xml:id="l862">Tarderas-tu long-temps de parétre en ces lieux ?</l>
@@ -1485,6 +1552,7 @@
         </div>
         <div type="scene" xml:id="III04">
           <pb n="I, 65"/>
+          <head>SCENE IV.</head>
           <sp xml:id="III04-1" who="dom-jean-de-carcame">
             <l n="867" xml:id="l867" part="I">Quoy déjà de retour ?</l>
           </sp>
@@ -1493,6 +1561,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp xml:id="III05-1" who="precieuse">
             <l n="868" xml:id="l868">La charité m’oblige* à courir de la sorte.</l>
           </sp>
@@ -1508,6 +1577,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI.</head>
           <sp xml:id="III06-1" who="la-vieille">
             <l n="873" xml:id="l873">Te voylà bien, à Dieu, repose en seureté,</l>
             <l n="874" xml:id="l874">Tandis que j’en vay faire autant de mon côté,</l>
@@ -1534,6 +1604,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE VII.</head>
           <sp xml:id="III07-1" who="precieuse">
             <l n="886" xml:id="l886">Les Lauriers d’Apollon sont changez en Cyprez.</l>
           </sp>
@@ -1651,6 +1722,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III08">
+          <head>SCENE VIII.</head>
           <sp xml:id="III08-1" who="dom-jean-de-carcame">
             <l n="929" xml:id="l929">Loin de ces beaux charmeurs qui corrompent les sens,</l>
             <l n="930" xml:id="l930">Donnons un libre cours à nos desirs pressans,</l>
@@ -1716,6 +1788,7 @@
         </div>
         <div type="scene" xml:id="III09">
           <pb n="75"/>
+          <head>SCENE IX.</head>
           <sp xml:id="III09-1" who="dom-jean-de-carcame">
             <l n="989" xml:id="l989" part="I">Camarade, dors-tu ?</l>
           </sp>
@@ -1924,7 +1997,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="84"/>
+        <head>ACTE IV</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="dom-jean-de-carcame">
             <l n="1113" xml:id="l1113">Mais tu ne me dis rien de ce pauvre blessé,</l>
             <l n="1114" xml:id="l1114">Est-ce ainsi qu’un Amant doit estre delaissé ?</l>
@@ -1971,6 +2046,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II.</head>
           <sp xml:id="IV02-1" who="dom-jean-de-carcame">
             <l n="1137" xml:id="l1137" part="I">Ha ! le fâcheux <ref target="#objet">objet*</ref>.</l>
           </sp>
@@ -2025,6 +2101,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <sp xml:id="IV03-1" who="dom-jean-de-carcame">
             <l n="1159" xml:id="l1159">Madame, vous m’offrés un honneur qui m’<ref target="#etonner">étonne*</ref>.</l>
             <l n="1160" xml:id="l1160">J'ay veu de vôtre part l’une et l’autre personne,</l>
@@ -2197,6 +2274,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV.</head>
           <sp xml:id="IV04-1" who="precieuse">
             <l n="1277" xml:id="l1277">Bon augure, il est seul, mais las ! en peu de temps</l>
             <l n="1278" xml:id="l1278">On peut beaucoup resoudre. Est-ce luy que j’entens ?</l>
@@ -2289,6 +2367,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V.</head>
           <sp xml:id="IV05-1" who="hipolite">
             <l n="1327" xml:id="l1327">Je bénis ce rencontre à mes yeux favorable,</l>
             <l n="1328" xml:id="l1328">J'allois vous supplier de m’estre secourable.</l>
@@ -2328,6 +2407,7 @@
         </div>
         <div type="scene" xml:id="IV06">
           <pb n="101"/>
+          <head>SCENE VI.</head>
           <sp xml:id="IV06-1" who="hipolite">
             <l n="1351" xml:id="l1351">Je te tiens arrogant, et ta perte arrestée</l>
             <l n="1352" xml:id="l1352">Va vanger mon amour lachement rejetée,</l>
@@ -2338,6 +2418,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE VII.</head>
           <sp xml:id="IV07-1" who="le-capitaine">
             <l n="1357" xml:id="l1357">Ouy, je treuve à propos d’éviter sa fureur,</l>
             <l n="1358" xml:id="l1358">La femme en se vengeant va jusques à l’horreur,</l>
@@ -2372,6 +2453,7 @@
         </div>
         <div type="scene" xml:id="IV08">
           <pb n="103"/>
+          <head>SCENE VIII.</head>
           <sp xml:id="IV08-1" who="le-prevost">
             <l n="1373" xml:id="l1373">Demeurés. Le premier qui fait le moindre effort.</l>
           </sp>
@@ -2569,7 +2651,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="111"/>
+        <head>ACTE V</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="V01-1" who="isabelle">
             <l n="1433" xml:id="l1433">Vous voyés bien, Monsieur, par cet évenement,</l>
             <l n="1434" xml:id="l1434">Qu'hier je combatois vos bontés justement,</l>
@@ -2640,6 +2724,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp xml:id="V02-1" who="precieuse">
             <l part="F">Ha ! Monseigneur, justice,</l>
             <l n="1481" xml:id="l1481">Delivrés mon époux, sauvés un innocent,</l>
@@ -2691,6 +2776,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp xml:id="V03-1" who="isabelle">
             <l n="1513" xml:id="l1513">Ne crains point, Precieuse, approche, baise moy,</l>
             <l n="1514" xml:id="l1514">Si l’on luy fait faveur, c’est pour l’amour de toy.</l>
@@ -3017,6 +3103,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV.</head>
           <sp xml:id="V04-1" who="isabelle">
             <l part="F">Monsieur, benissés l’<ref target="#aventure">avanture*</ref></l>
             <l n="1696" xml:id="l1696">Qui prepare une histoire à la <ref target="#race">race*</ref> future,</l>
@@ -3135,6 +3222,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V.</head>
           <sp xml:id="V05-1" who="ferdinand">
             <l n="1753" xml:id="l1753" part="I">Approche scelerat.</l>
           </sp>
@@ -3320,6 +3408,7 @@
         </div>
         <div type="scene" xml:id="V06">
           <pb n="142"/>
+          <head>SCENE DERNIERE.</head>
           <sp xml:id="V06-1" who="le-capitaine">
             <l n="1834" xml:id="l1834">Grace, grace, Monsieur, il n’est point criminel.</l>
           </sp>

@@ -1,16 +1,70 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Palinice, Circeine et Florice. Tragi-comédie pastorale tirée de l'Astrée</title>
+        <author key="Rayssiguier, De (....-1660)">De Rayssiguier</author>
+        <principal>Georges Forestier</principal>
+        <editor>Fallom Tay</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Fallom Tay dans le cadre d'un mémoire de
+      master 1 sous la direction de Georges Forestier (2011-2012)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/rayssiguier_palinice/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/rayssiguier_palinice.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/rayssiguier_palinice.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/rayssiguier_palinice.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/rayssiguier_palinice.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1634"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="show" type="genre">Tragi-comédie pastorale tirée de l'Astrée</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>PALINICE <lb/>CIRCEINE. <lb/>ET <lb/>FLORICE. <lb/>TRAGI-COMEDIE. <lb/>Tirée de l’Astrée de Mre.Honoré d’Vrfé</head>
       <div xml:id="dedicace">
+        <head>A <lb/>MONSIEUR <lb/>LE COMTE DE VIEULES</head>
         <p>MONSIEUR,</p>
         <p>Ce que la pluspart des escrivains font aujourd’huy par coustume, je le fay par devoir, et pour recognoistre selon ma portée, les honneurs que j’ay receu de vous, et l’accueil favorable qu’il vous a pleu de me faire. Je scay bien que l’ouvrage que je vous présente n’est pas digne de vous, et que des vers héroïques, où la générosité de quelque vaillant homme seroit descrite, vous plairoient beaucoup mieux, que des vers simples et nus, où l’on ne voit que des effets des passions amoureuses. Toutesfois puisque les plus grands hommes de la terre se délassent souvent dans la lecture de semblables œuvres, j’ay creu que vous auriés agréable de vous divertir quelques fois à lire celle icy, cependant que nostre grand Prince vous prepare des occasions où vous pourrés exercer vostre valeur, et ce courage invincible qui a tousjours mesprisé les dangers. Si j’avois entrepris de parler icy de la grandeur de vos mérites, de vos exploits, et des advantages que vous avez receu de vostre naissance, il me faudroit ouvrir trop de tombeaux, remettre devant les yeux de tout le monde les dernières calamitez de ma patrie, et au lieu d’une épistre entreprendre un gros volume : mais ce n’est pas le lieu, ny le temps de parler de choses si hautes. Et puis mon dessein icy n’est que de vous asseurer que je n’ay rien de plus cher, que les soins de vous plaire, et si ce petit travail vous agrée, je feray bien tost voir dans un autre, où j’auray plus de liberté de m’estendre, les tiltres glorieux que vos ancestres se sont acquis, et que vous avez plus advantageusement hérité de leurs vertus que de leurs biens. Je ne dis rien que je ne puisse faire aysément, ayant une matière si ample, et si noble, et un si beau subjet de vous tesmoigner que je veux estre toute ma vie,</p>
         <p>MONSIEUR</p>
         <p rend="center">Vostre très humble, et très <lb/>obeissant serviteur, <lb/>DE R.</p>
         <p>LES AMOURS <lb/>DE PALINICE, <lb/>CIRCEINE ET FLORICE <lb/>TRAGI-COMEDIE</p>
       </div>
-      <div xml:id="acteurs"/>
+      <div xml:id="acteurs">
+        <head>[ACTEURS]</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE PREMIER</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="I01-1" who="florice">
             <l n="1" xml:id="l1">Mon frère confessés que toute l’Italie,<pb n="A, 1"/></l>
             <l n="2" xml:id="l2">Encore que le Ciel l’ait beaucoup embellie,</l>
@@ -232,6 +286,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCEINE  II</head>
           <sp xml:id="I02-1" who="circeine">
             <l n="141" xml:id="l141">En me voyant venir vostre frère vous quitte,<pb n="10"/></l>
             <l n="142" xml:id="l142">Trouve-t’il point mauvais lors que je vous visite ?</l>
@@ -338,6 +393,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III</head>
           <sp xml:id="I03-1" who="clorian">
             <l n="192" xml:id="l192">Amour que les mortels qui sont en ta puissance<pb n="14"/></l>
             <l n="193" xml:id="l193">Ont des astres malins autheurs de leur naissance,</l>
@@ -378,6 +434,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IIII</head>
           <sp xml:id="I04-1" who="palinice">
             <l n="228" xml:id="l228">Que fait icy  mon frère, absent de sa maistresse  ?<pb n="16"/></l>
             <l n="229" xml:id="l229">Si j’avois un <ref target="#amant">Amant*</ref> si négligent que vous,</l>
@@ -460,6 +517,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V</head>
           <sp xml:id="I05-1" who="circeine">
             <l n="277" xml:id="l277">Que de diversitez travaillent mes esprits,</l>
             <l n="278" xml:id="l278">Je laisse à tous momens le dessein que j’ay pris,</l>
@@ -482,6 +540,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI</head>
           <sp xml:id="I06-1" who="alcandre">
             <l n="295" xml:id="l295">Cet Argus <ref target="#importun">importun*</ref>, qui sans cesse m’esclaire,</l>
             <l n="296" xml:id="l296">Qui presse ma maistresse en faveur de son frère,</l>
@@ -562,6 +621,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE VII</head>
           <sp xml:id="I07-1" who="palinice">
             <l part="F">Circeine, et bien cette onde claire<pb n="24"/></l>
             <l n="361" xml:id="l361">Parle t’elle pour vous advantageusement</l>
@@ -662,7 +722,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>ACTE SECOND</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE I</head>
           <sp xml:id="II01-1" who="cerinte">
             <lg>
               <l n="417" xml:id="l417">Divin sujet de mes douleurs<pb n="28"/></l>
@@ -725,6 +787,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II</head>
           <sp xml:id="II02-1" who="florice">
             <l n="465" xml:id="l465">Cerinte quel sujet a vostre humeur réveuse ?<pb n="31"/></l>
           </sp>
@@ -821,6 +884,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III</head>
           <sp xml:id="II03-1" who="arimant">
             <l n="523" xml:id="l523">Amour puissant demon, qui régis les mortels,<pb n="35"/></l>
             <l n="524" xml:id="l524">Dois-je encore porter l’encens sur tes autels ?</l>
@@ -854,6 +918,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV</head>
           <sp xml:id="II04-1" who="alcandre">
             <l n="552" xml:id="l552">Me voilà trop heureux, servons-nous d’Arimant,</l>
             <l n="553" xml:id="l553">Comme oncle il peut beaucoup sur ma chère <ref target="#maistresse">maistresse*</ref>.</l>
@@ -928,6 +993,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V</head>
           <sp xml:id="II05-1" who="sileine">
             <l n="593" xml:id="l593">Dois-je encore long-temps supporter mes supplices,</l>
             <l n="594" xml:id="l594">Ne devez-vous jamais agréer mes <ref target="#service">services*</ref> ?</l>
@@ -1006,7 +1072,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>ACTE TROISIEME</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE I</head>
           <sp xml:id="III01-1" who="arimant">
             <l n="649" xml:id="l649">Circeine vous sçavez que j’adore Florice,<pb n="43"/></l>
             <l n="650" xml:id="l650">Qu’Alcandre m’y peut nuire, ou m’y rendre service</l>
@@ -1248,6 +1316,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II</head>
           <sp xml:id="III02-1" who="clorian">
             <l n="805" xml:id="l805">Je cognois bien Circeine en vos <ref target="#deportemens">déportemens*</ref>,<pb n="53"/></l>
             <l n="806" xml:id="l806">Que je suis malheureux entre tous vos <ref target="#amant">amans*</ref>,    </l>
@@ -1285,6 +1354,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III</head>
           <sp xml:id="III03-1" who="sileine">
             <l n="826" xml:id="l826">Clorian m’a promis de prendre le <ref target="#soucy">soucy*</ref><pb n="55"/></l>
             <l n="827" xml:id="l827">D’apaiser Palinice, il faut que je le trouve.</l>
@@ -1416,7 +1486,9 @@
         </div>
       </div>
       <div xml:id="IV" type="act">
+        <head>ACTE QUATRIESME</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE I</head>
           <sp xml:id="IV01-1" who="cerinte">
             <l n="903" xml:id="l903">On me vient d’advertir que Florice est allée<pb n="61"/></l>
             <l n="904" xml:id="l904">Prendre seule le frais au bout de cette allée.</l>
@@ -1457,6 +1529,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II</head>
           <sp xml:id="IV02-1" who="florice">
             <lg>
               <l n="925" xml:id="l925">Amour, démon malicieux</l>
@@ -1653,6 +1726,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III</head>
           <sp xml:id="IV03-1" who="clorian">
             <l n="1041" xml:id="l1041">La ruse est bien conduite, Ah ! que c’est dextrement,</l>
             <l n="1042" xml:id="l1042">Par une contre ruse affiner un <ref target="#amant">amant*</ref> :</l>
@@ -1741,6 +1815,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IIII</head>
           <sp xml:id="IV04-1" who="circeine">
             <l n="1095" xml:id="l1095">Que la condition quelquesfois est nuisible,<pb n="74"/></l>
             <l n="1096" xml:id="l1096">Que les plus eslevez sont subjets à tomber,</l>
@@ -1819,6 +1894,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V</head>
           <sp xml:id="IV05-1" who="florice">
             <l n="1143" xml:id="l1143">Estes-vous resolus encor de me poursuivre ?</l>
           </sp>
@@ -1925,7 +2001,9 @@
         </div>
       </div>
       <div xml:id="V" type="act">
+        <head>ACTE CINQUIESME</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE I</head>
           <sp xml:id="V01-1" who="alcandre">
             <l n="1197" xml:id="l1197">Qu’on ne me parle plus de ces cruels tourments,</l>
             <l n="1198" xml:id="l1198">Que le demon des cœurs fait souffrir aux <ref target="#amant">amants*</ref>,</l>
@@ -1968,6 +2046,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II</head>
           <sp xml:id="V02-1" who="circeine">
             <l n="1235" xml:id="l1235">Alcandre qui tenoit sa flame si secrète,</l>
             <l n="1236" xml:id="l1236">Seroit il devenu d’une humeur indiscrète,</l>
@@ -2141,6 +2220,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE II</head>
           <sp xml:id="V03-1" who="florice">
             <l n="1336" xml:id="l1336">Et bien que dites vous du divertissement</l>
             <l n="1337" xml:id="l1337">Que me vient de donner l’amoureux Arimant.</l>
@@ -2163,6 +2243,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE III</head>
           <sp xml:id="V04-1" who="circeine">
             <l n="1348" xml:id="l1348">En vain je l’ay suivi, je n’ay peu l’attraper,</l>
             <l n="1349" xml:id="l1349">Je voudrois toutesfois le pouvoir détromper,</l>
@@ -2247,6 +2328,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE IIII</head>
           <sp xml:id="V05-1" who="sileine">
             <l n="1394" xml:id="l1394">Nous decouvrons d’icy presque toute la plaine.</l>
           </sp>
@@ -2290,6 +2372,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE V</head>
           <sp xml:id="V06-1" who="alcandre">
             <l n="1406" xml:id="l1406">Puis que l’amour le veut : et qu’il est impossible</l>
             <l n="1407" xml:id="l1407">Que nous possédions d’eux ce miracle visible,</l>
@@ -2367,6 +2450,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE  VI</head>
           <sp xml:id="V07-1" who="arimant">
             <l n="1443" xml:id="l1443">Voicy, voicy le bras qui te pourra confondre,<pb n="99"/></l>
             <l n="1444" xml:id="l1444">Alcandre et Clorian n’ont rien fait qu’à demy,</l>

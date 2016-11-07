@@ -1,7 +1,53 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Virginie. Tragédie.</title>
+        <author key="Campistron, Jean-Galbert de (1656-1723)">Jean-Galbert de Campistron</author>
+        <principal>Georges Forestier</principal>
+        <editor>Sylvain Garnier</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Sylvain Garnier dans le cadre d'un mémoire de
+          master 1 sous la direction de Georges Forestier (2007)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/campistron_virginie/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/campistron_virginie.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/campistron_virginie.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/campistron_virginie.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/campistron_virginie.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1683"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>VIRGINIE. TRAGEDIE</head>
       <div xml:id="dedicace" type="dedication">
+        <head>A MONSEIGNEUR DE FIEUBET, PREMIER PRESIDENT DU PARLEMENT DE TOULOUSE.</head>
         <p>Monseigneur,</p>
         <p rend="i">Si je prends la liberté de vous offrir cette Trage[IV] die, je ne songe qu’à vous rendre des graces publiques de la puissante et genereuse protection dont vous avez toûjours honoré ma famille ; elle vous a des obligations infinies, et toute la reconnoissance que j’en puis marquer est de l’apprendre à tout le monde ; c’est l’unique dessein que je me suis proposé, Vous ne verrez aucun Eloge dans cette Epistre, celuy que je fairois de Vous, <hi rend="sc">Monseigneur</hi>, auroit trop peu de force pour un si grand sujet, et j’ay [V] vû tant de gens plus habiles que moy échoüer dans cette mesme entreprise, que je dois profiter de leur exemple, et me taire lorsqu’il est trop dangereux de parler. Mais quand je serois assez hardy pour entreprendre une chose si difficile, que pourrois-je dire de vous, <hi rend="sc">Monseigneur</hi>, que toute la France ne sçache aussi bien que moy ? elle regarde avec admiration cette penetration vive, et cette integrité inébranlable qui après s’estre consommées dans les plus importantes [VI] Charges de la Robe vous firent choisir par <hi rend="sc">Louis le Grand</hi>, pour estre le Chef du second Parlement du Royaume, dans un âge où il n’est permis qu’aux hommes extraordinaires de pretendre à de pareilles dignitez : Heureux sont les peuples qui peuvent voir briller de pres vos éminentes vertus dans cette Auguste Place, et ressentir à toute heure les effets de votre Justice. Ils poussent sans doute des vœux continuels au Ciel pour la conservation d’une vie aussi glorieuse que la vô[VII] tre, et qui leur est si necessaire ; mais c’est ce que je fais plus que tous, puisque je connois mieux que personne ces verités éclatantes, et que je suis avec un profond respect. </p>
         <p rend="i">Monseigneur,</p>
@@ -9,10 +55,14 @@
         <p rend="right">tres-obeïssant serviteur</p>
         <p rend="right">C * * *</p>
       </div>
-      <div type="set" xml:id="acteurs"/>
+      <div type="set" xml:id="acteurs">
+        <head>Acteurs.</head>
+      </div>
       <div xml:id="acte1" type="act">
+        <head>Acte I.</head>
         <div type="scene" xml:id="acte101">
           <pb n="1" xml:id="A1"/>
+          <head>Scene premiere.</head>
           <sp xml:id="acte101-1" who="clodius">
             <l n="1" xml:id="l1">De ma temerité Rome entiere surprise,</l>
             <l n="2" xml:id="l2">Demande les raisons d’une telle entreprise,</l>
@@ -199,6 +249,7 @@
         </div>
         <div type="scene" xml:id="acte102">
           <pb n="7" xml:id="p7"/>
+          <head>Scene II.</head>
           <sp xml:id="acte102-1" who="fabian">
             <l part="F">Plautie, aux pleurs abandonnée,</l>
             <l n="154" xml:id="l154">Seigneur, à vous attendre est toûjours obstinée,</l>
@@ -217,6 +268,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte103">
+          <head>Scene III.</head>
           <sp xml:id="acte103-1" who="plautie">
             <l n="162" xml:id="l162">Ah Seigneur, écoutez les douleurs d’une Mere,</l>
             <l n="163" xml:id="l163">Et puisqu’aprés deux jours d’un mortel desespoir</l>
@@ -341,6 +393,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte104">
+          <head>Scene IV.</head>
           <sp xml:id="acte104-1" who="virginie">
             <l part="F">Ah quel comble de joye !</l>
             <l n="254" xml:id="l254">Madame, enfin le Ciel souffre que je vous voye,</l>
@@ -419,6 +472,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte105">
+          <head>Scene V.</head>
           <sp xml:id="acte105-1" who="virginie">
             <l n="309" xml:id="l309">Camille connois-tu l’excez de ma misere,</l>
             <l n="310" xml:id="l310" part="I">Quel triste sort !</l>
@@ -451,7 +505,9 @@
       </div>
       <div xml:id="acte2" type="act">
         <pb n="15" xml:id="p15"/>
+        <head>Acte II.</head>
         <div type="scene" xml:id="acte201">
+          <head>Scene premiere.</head>
           <sp xml:id="acte201-1" who="severe">
             <l n="329" xml:id="l329">Oui, vous pouvez, Seigneur, aussi bien que Plautie,</l>
             <l n="330" xml:id="l330">Entrer dans ce Palais, parler à Virginie,</l>
@@ -528,6 +584,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte202">
+          <head>Scene II.</head>
           <sp xml:id="acte202-1" who="icile">
             <l part="F">Le destin ne m’est plus si contraire,</l>
             <l n="391" xml:id="l391">Madame, je vous voy, et je puis en ce jour,</l>
@@ -694,6 +751,7 @@
         </div>
         <div type="scene" xml:id="acte203">
           <pb n="22" xml:id="p22"/>
+          <head>Scene III.</head>
           <sp xml:id="acte203-1" who="camille">
             <l part="F"> Il court vous secourir,</l>
             <l n="508" xml:id="l508">Les Dieux se sont lassez de vous voir tant souffrir.</l>
@@ -718,6 +776,7 @@
         </div>
         <div type="scene" xml:id="acte204">
           <pb n="23" xml:id="p23"/>
+          <head>Scene IV.</head>
           <sp xml:id="acte204-1" who="virginie">
             <l part="F">Quoy, Seigneur,</l>
             <l n="524" xml:id="l524">Ne calmerez-vous pas le <ref target="#trouble2">trouble<hi rend="sup">*</hi></ref> de mon cœur,</l>
@@ -840,6 +899,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte205">
+          <head>Scene V.</head>
           <sp xml:id="acte205-1" who="clodius">
             <l n="605" xml:id="l605">Qu'avez-vous fait, Seigneur, et que faut-il attendre.</l>
           </sp>
@@ -898,7 +958,9 @@
       </div>
       <div xml:id="acte3" type="act">
         <pb n="28" xml:id="p28"/>
+        <head>Acte III.</head>
         <div type="scene" xml:id="acte301">
+          <head>Scene premiere.</head>
           <sp xml:id="acte301-1" who="fulvie">
             <l n="647" xml:id="l647">Madame, où courez-vous, vous verray-je toûjours,</l>
             <l n="648" xml:id="l648">D'une douleur mortelle entretenir le cours ?</l>
@@ -961,6 +1023,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte302">
+          <head>Scene II.</head>
           <sp xml:id="acte302-1" who="plautie">
             <l part="F">Ah ! Seigneur,</l>
             <l n="696" xml:id="l696">Ecoutez-vous encor la voix d’un imposteur,</l>
@@ -1027,6 +1090,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte303">
+          <head>Scene III.</head>
           <sp xml:id="acte303-1" who="appius">
             <l n="747" xml:id="l747">Vous le voyez, Madame, il va chercher ailleurs,</l>
             <l n="748" xml:id="l748">L'inévitable arrest qui comble vos malheurs,</l>
@@ -1093,6 +1157,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte304">
+          <head>Scene IV.</head>
           <sp xml:id="acte304-1" who="plautie">
             <l n="801" xml:id="l801">Qui pourra m’<ref target="#expliquer2">expliquer</ref> ce <ref target="#trouble1">trouble<hi rend="sup">*</hi></ref> et ce silence[, ]</l>
             <l n="802" xml:id="l802">Du <ref target="#discours">discours<hi rend="sup">*</hi></ref> d’Appius, que faut-il que je pense,</l>
@@ -1140,6 +1205,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte305">
+          <head>Scene V.</head>
           <sp xml:id="acte305-1" who="icile">
             <l part="F">Consolez-vous et retenez vos larmes,</l>
             <l n="834" xml:id="l834">Madame je sçais tout, et conçois vos allarmes,<pb n="36" xml:id="p36"/></l>
@@ -1285,6 +1351,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte306">
+          <head>Scene <hi rend="sc">VI.[p.</hi>40]</head>
           <sp xml:id="acte306-1" who="virginie">
             <l n="955" xml:id="l955" part="I">Quoy vous voulez vous-mesme…</l>
           </sp>
@@ -1314,6 +1381,7 @@
         </div>
         <div type="scene" xml:id="acte307">
           <pb n="41" xml:id="p41"/>
+          <head>Scene VII.</head>
           <sp xml:id="acte307-1" who="severe">
             <l part="F">N'attendez plus un secours inutile,</l>
             <l n="974" xml:id="l974">Madame, c’en est fait, on nous enleve Icile ;</l>
@@ -1381,7 +1449,9 @@
       </div>
       <div xml:id="acte4" type="act">
         <pb n="43" xml:id="p43"/>
+        <head>Acte IV.</head>
         <div type="scene" xml:id="acte401">
+          <head>Scene premiere.</head>
           <sp xml:id="acte401-1" who="clodius">
             <l n="1021" xml:id="l1021">Ouy ce Rival <ref target="#heureux1">heureux<hi rend="sup">*</hi></ref> par la fin de sa vie,</l>
             <l n="1022" xml:id="l1022">Bien-tost à vos <ref target="#transports2">transports<hi rend="sup">*</hi></ref> livrera Virginie,</l>
@@ -1452,6 +1522,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte402">
+          <head>Scene II.</head>
           <sp xml:id="acte402-1" who="appius">
             <l n="1075" xml:id="l1075">Madame, il faut enfin vous découvrir mon cœur,</l>
             <l n="1076" xml:id="l1076">Il faut de mon amour vous declarer l’ardeur,</l>
@@ -1576,6 +1647,7 @@
         </div>
         <div type="scene" xml:id="acte403">
           <pb n="E. p.49"/>
+          <head>Scene III.</head>
           <sp xml:id="acte403-1" who="appius">
             <l part="F">Derobez vous au <ref target="#coups1">coup<hi rend="sup">*</hi></ref> qui vous menace,</l>
             <l n="1170" xml:id="l1170">Icile, par vos <ref target="#soins2">soins</ref> meritez vostre grace ;    </l>
@@ -1585,6 +1657,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte404">
+          <head>Scene IV.</head>
           <sp xml:id="acte404-1" who="virginie">
             <l n="1174" xml:id="l1174">Vous avez <ref target="#entendre2">entendu</ref> ce qu’il vient de nous dire,</l>
             <l n="1175" xml:id="l1175">Cessons de nous <ref target="#flatter1">flatter<hi rend="sup">*</hi></ref>, voicy le jour affreux,</l>
@@ -1684,6 +1757,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte405">
+          <head>Scene V.</head>
           <sp xml:id="acte405-1" who="appius">
             <l part="F">Quel succés aura vostre entretien,</l>
             <l n="1240" xml:id="l1240" part="I">Qu'avez vous resolu, parlez, Icile.</l>
@@ -1747,12 +1821,14 @@
         </div>
         <div type="scene" xml:id="acte406">
           <pb n="54" xml:id="p54"/>
+          <head>Scene VI.</head>
           <sp xml:id="acte406-1" who="appius">
             <l n="1274" xml:id="l1274">C'en est fait, bannissons la pitié de mon ame,</l>
             <l n="1275" xml:id="l1275" part="I">Ne songeons qu’à vanger le mépris...</l>
           </sp>
         </div>
         <div type="scene" xml:id="acte407">
+          <head>Scene VII.</head>
           <sp xml:id="acte407-1" who="clodius">
             <l part="F">Ah ! Seigneur.</l>
             <l n="1276" xml:id="l1276" part="I">Plautie…</l>
@@ -1791,7 +1867,9 @@
       </div>
       <div xml:id="acte5" type="act">
         <pb n="56" xml:id="p56"/>
+        <head>Acte V.</head>
         <div type="scene" xml:id="acte501">
+          <head>Scene premiere.</head>
           <sp xml:id="acte501-1" who="plautie">
             <l n="1299" xml:id="l1299">Quoy l’on me traîne icy ? quel injuste projet.</l>
           </sp>
@@ -1827,6 +1905,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte502">
+          <head>Scene II.</head>
           <sp xml:id="acte502-1" who="virginie">
             <l n="1320" xml:id="l1320">Fuyons Camille. Ah Ciel ! est-ce vous que je voy,</l>
             <l n="1321" xml:id="l1321">Madame, quel dessein icy vous a conduite :</l>
@@ -1921,6 +2000,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte503">
+          <head>Scene III.</head>
           <sp xml:id="acte503-1" who="plautie">
             <l part="F">Tu viens icy perfide,</l>
             <l n="1386" xml:id="l1386">Quel dessein criminel te conduit et te guide,</l>
@@ -1967,6 +2047,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte504">
+          <head>Scene IV.</head>
           <sp xml:id="acte504-1" who="plautie">
             <l part="F">Quoy l’on m’ose arrester,</l>
             <l n="1412" xml:id="l1412">Inhumains, c’en est trop, je ne la puis quitter,</l>
@@ -1986,6 +2067,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte505">
+          <head>Scene V.</head>
           <sp xml:id="acte505-1" who="severe">
             <l part="F">Tout a changé de face,</l>
             <l n="1426" xml:id="l1426">Madame, vous verrez finir vostre <ref target="#disgrace1">disgrace<hi rend="sup">*</hi></ref>,</l>
@@ -2018,6 +2100,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte506">
+          <head>Scene VI.</head>
           <sp xml:id="acte506-1" who="icile">
             <l n="1450" xml:id="l1450">Ouy, c’en est fait, Madame, Appius est sans vie,</l>
             <l n="1451" xml:id="l1451">Je viens de le punir, enfin tout est sauvé,</l>
@@ -2045,6 +2128,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte507">
+          <head>Scene VII. et derniere.</head>
           <sp xml:id="acte507-1" who="plautie">
             <l n="1463" xml:id="l1463" part="I">Hastez-vous donc, Seigneur ;</l>
             <l part="F">Que viens-tu m’annoncer,</l>
@@ -2169,6 +2253,7 @@
         </div>
       </div>
       <div type="appendix" xml:id="privilege">
+        <head>EXTRAIT DU PRIVILEGE Du Roy.</head>
         <p>Par grace et Privilege du Roy, donné à Paris le 29. Mars 1683. Signé, Par le Roy en son Conseil, <hi rend="sc">Du Gone</hi> : et Scellé. Il est permis à Estienne Lucas, Marchand Libraire à Paris, de faire imprimer une Tragedie, intitulée <hi rend="i">Virginie</hi>, composée par le Sieur * * * : Et deffenses sont faites à toutes sortes de personnes de l’imprimer, vendre ny debiter pendant le temps de six années, à commencer du jour qu’elle sera achevée d’imprimer, à peine d’amende arbitraire, et autres peines portées par ledit Privilege.</p>
         <p rend="i">Registré sur le Livre de la Communauté des Libraires et Imprimeurs de Paris le 8<hi rend="sup">me</hi>. Avril 1683 suivant l’Arrest du Parlement du 8. Avril 1653. et celuy du Conseil Privé du Roy du 27. Février 1665. </p>
         <p>Signé, <hi rend="sc">Cangot</hi>, Syndic.</p>

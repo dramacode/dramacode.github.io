@@ -1,15 +1,69 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Perside, ou la Suite d'Ibrahim Bassa. Tragédie.</title>
+        <author key="Desfontaines, Nicolas (15..?-1652)">Desfontaines</author>
+        <editor>Camille Neumuller Maleval</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Camille Neumuller Maleval dans le cadre d'un mémoire de
+          master 1 sous la direction de Georges Forestier (2014-2015)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/desfontaines_perside/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/desfontaines_perside.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/desfontaines_perside.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/desfontaines_perside.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/desfontaines_perside.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1644">1644</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>PERSIDE OU LA SUITTE D’IBRAHIM BASSA <lb/>TRAGEDIE</head>
       <div xml:id="dedicace">
+        <head>A MONSEIGNEUR LE DUC DE GUISE et c</head>
         <p>Monseigneur,</p>
         <p>Voicy la plus genereuse et la plus illustre de toutes les femmes qui se vient jetter aux pieds du plus illustre et du plus genereux de tous les hommes ; Elle sçait que vostre Maison est le Temple de la Vertu, et qu’elle a esté de tout temps l’asile de ceux que la fortune expose aux atteintes du malheur. Cette vérité qu’elle a apprise aux extremités de la Terreur et en des regions où vos Ancestres ont signalé glorieusement et leurs armes et vostre nom, la fait resoudre à venir chercher en France, et dans vostre protection le repos qu’elle n’a pû trouver en son pays. Le sort de la guerre qui fit succomber sa patrie la rendit prisonniere d’un monarque dont elle se fit un esclave ; et maintenant un destin plus favorable la rend volontairement esclave d’un Prince pour qui elle a autant d’inclination et de respect, qu’elle eust pour l’autre d’aversion et de severité. Aussi faut-il advoüer Monseigneur, que quelque grand que fust Soliman, il ne posseda jamais si advantageusement que vous tant d’admirables qualités, qui vous rendent aujourd huy la merveille de nostre siecle, à la honte du passé, et au desespoir de l’advenir. Peut-estre qu’en parlant ainsi de vostre Grandeur, j’offense vostre modestie ; Mais Monseigneur, permettez que je combatte une de vos vertus pour faire esclater toutes les autres, et ne me forcez point d’escouter cette ennemie de ses propres loüanges dans le dessein que j’ay de publier des choses que l’envie mesme ne sçauroit <ref target="#desavouer">desadvoüer*</ref> sans injustice, ny la France oublier sans ingratitude. Toutesfois ce serait vouloir comprendre dans une lettre ce qui meriteroit des volumes entiers ; de si hautes merveilles ne se peuvent exprimer par des termes ordinaires. Aussi veux-je qu’en une si noble matiere l’admiration soit toute mon eloquence, et que l’adveû de mon impuissance soit le crayon de vostre Grandeur, C'est assez que l’on sçâche que vos devanciers ont toujours este les plus fermes colonnes de cette Monarchie, et qu’estans vieillis dans les charges les plus considerables de cette Couronne, ils ont laissés un heritier qui acheve aujourd’huy ce qu’ils ont autrefois si genereusement commencé. De quelque costé qu’on jette les yeux dans vostre illustre famille, on n’y void que des marques celebres, et par tout de glorieux tesmoignages de fidélité, de prudence, de generosité, et de valeur. Vous adjouterez, s’il vous plaist, MONSEIGNEUR, à tant de celebres actions le secours que vous demande cette belle Perside, que je vous presente, quelque aimable qu’elle puisse estre, elle n’est pas sans ennemis, et comme autresfois sa beauté causa la perte de sa vie ; peut-estre que desormais on tâchera de luy ravir la gloire qu’elle espere de sa vertu ; mais si vostre Grandeur entreprend sa deffence, elle redoutera peu les traits de l’envie, et ses ennemis seront foibles si vostre bonté se declare en sa faveur. C'est dequoy elle vous conjure avec tout le zele et toute la passion dont elle peut estre capable, et j’espere que vous luy accorderez cette grace, bien qu’elle vous soit demandée, par la personne du monde qui merite le moins, mais qui desire plus passionnément d’estre toute sa vie,</p>
         <p>De vostre Grandeur,</p>
         <p>Le tres humble tres obeïssant et tres affectionné serviteur,</p>
       </div>
-      <div xml:id="personnages"/>
+      <div xml:id="personnages">
+        <head>LES PERSONNAGES,</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE I.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="eraste">
             <l n="1" xml:id="l1">En quel estat, Seigneur, faut-il que je paroisse ?<pb n="1" xml:id="p1"/></l>
             <l n="2" xml:id="l2">Quel rang dois-je tenir aupres de ta Hautesse ?</l>
@@ -268,6 +322,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE SECONDE</head>
           <sp xml:id="I02-1" who="soliman">
             <l n="201" xml:id="l201">Ne dissimulez plus belle et sage Herminie</l>
             <l n="202" xml:id="l202">Dites-moi franchement toute feinte bannie,</l>
@@ -335,6 +390,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE TROISIESME</head>
           <sp xml:id="I03-1" who="soliman">
             <l part="F">Parlez, qui vous ameine ?</l>
           </sp>
@@ -362,6 +418,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE QUATRIESME</head>
           <sp xml:id="I04-1" who="soliman">
             <l part="F">Que voy-je justes Dieux ?</l>
             <l n="244" xml:id="l244">Quel Ange de lumiere apparoit à mes yeux ?</l>
@@ -455,7 +512,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="19"/>
+        <head>ACTE SECOND</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="II01-1" who="soliman">
             <l n="313" xml:id="l313">Mais me dites-vous vray ? quoy, cette belle esclave</l>
             <l n="314" xml:id="l314">Qui <ref target="#mepris">mesprise*</ref> mes vœux, qui me fuit, qui me brave</l>
@@ -616,6 +675,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE SECONDE</head>
           <sp xml:id="II02-1" who="soliman">
             <l part="F">Vous verrez Herminie</l>
             <l n="446" xml:id="l446">Ce que peut la vertu sur un noble Genie,</l>
@@ -644,6 +704,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE TROISIESME</head>
           <sp xml:id="II03-1" who="soliman">
             <l part="F">Ah traits imperieux!</l>
             <l n="465" xml:id="l465">Regards qui triomphez des plus <ref target="#superbe">superbes*</ref> ames</l>
@@ -771,6 +832,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE QUATRIESME</head>
           <sp xml:id="II04-1" who="soliman">
             <l n="551" xml:id="l551" part="I">Eraste</l>
           </sp>
@@ -979,7 +1041,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>ACTE TROISIESME</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="III01-1" who="herminie">
             <l n="693" xml:id="l693">Vous vous moquez de moy m’appellant inhumaine ?</l>
             <l n="694" xml:id="l694">Puis-je le soulager, si j’ignore sa peyne ?</l>
@@ -1109,6 +1173,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE SECONDE</head>
           <sp xml:id="III02-1" who="alcomire">
             <l n="763" xml:id="l763">Qu'elle m’oste du cœur un estrange <ref target="#souci">soucy*</ref></l>
             <l n="764" xml:id="l764">Je craignois son amour, mais Achmat vient icy,</l>
@@ -1222,6 +1287,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE TROISIESME</head>
           <pb n="49"/>
           <sp xml:id="III03-1" who="alcomire">
             <l n="835" xml:id="l835">Il s’en va dans l’espoir d’estre bientost heureux</l>
@@ -1241,6 +1307,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE QUATRIESME</head>
           <pb n="50"/>
           <sp xml:id="III04-1" who="perside">
             <l n="849" xml:id="l849">Je n’ay plus de regret Seigneur que ta Hautesse</l>
@@ -1371,6 +1438,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE CINQUIESME</head>
           <pb n="55"/>
           <sp xml:id="III05-1" who="soliman">
             <l n="920" xml:id="l920">Enfin, belle Perside, il faut que je confesse</l>
@@ -1453,6 +1521,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE SIXIESME</head>
           <pb n="58"/>
           <sp xml:id="III06-1" who="soliman">
             <l part="F">O Desespoir ! o rage ?</l>
@@ -1479,7 +1548,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="59"/>
+        <head>ACTE QUATRIESME</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="IV01-1" who="achmat">
             <l n="996" xml:id="l996">Non, non n’esperez pas me traittant de la sorte</l>
             <l n="997" xml:id="l997">Que sur ma passion vostre <ref target="#rigueur">rigueur*</ref> l’emporte,</l>
@@ -1535,6 +1606,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE SECONDE</head>
           <sp xml:id="IV02-1" who="achmat">
             <l n="1020" xml:id="l1020">Ouy, ouy malgré ce cœur si contraire à ma <ref target="#flamme">flame*</ref></l>
             <l n="1021" xml:id="l1021">Je vais executer le complot que je trâme,</l>
@@ -1571,6 +1643,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE TROISIESME</head>
           <pb n="63"/>
           <sp xml:id="IV03-1" who="perside">
             <lg>
@@ -1632,6 +1705,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE QUATRIESME</head>
           <sp xml:id="IV04-1" who="perside">
             <l n="1100" xml:id="l1100">Qu'avez-vous Eraste ? et quel mauvais presage</l>
             <l n="1101" xml:id="l1101">Tiray-je de vos yeux et de vostre visage.</l>
@@ -1764,6 +1838,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE CINQUIESME</head>
           <sp xml:id="IV05-1" who="perside">
             <l part="F">Capricieuse et bizare fortune</l>
             <l n="1201" xml:id="l1201">Apres un doux effet que tu m’es importurne,</l>
@@ -1780,6 +1855,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE SIXIESME</head>
           <sp xml:id="IV06-1" who="achmat">
             <l n="1212" xml:id="l1212">Tu hazardes beaucoup Seigneur, et cette adresse</l>
             <l n="1213" xml:id="l1213">Dont tu crois te servir, est nuisible à la Grece,</l>
@@ -1824,6 +1900,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE SEPTIESME</head>
           <sp xml:id="IV07-1" who="soliman">
             <l part="F">Eraste, Perside,</l>
             <l n="1241" xml:id="l1241">Qu'à vostre occasion je suis lâche et timide</l>
@@ -1917,6 +1994,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV08">
+          <head>SCENE HUICTIESME</head>
           <pb n="76"/>
           <sp xml:id="IV08-1" who="soliman">
             <l n="1282" xml:id="l1282">Ton cœur est grand, Eraste, il le faut advoüer,</l>
@@ -2007,6 +2085,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV09">
+          <head>SCENE NEUFIESME</head>
           <sp xml:id="IV09-1" who="soliman">
             <l n="1356" xml:id="l1356">Non je n’en doute plus il est, il est <ref target="#perfide">perfide*</ref>,</l>
             <l n="1357" xml:id="l1357">Il sçait la passion que j’ai pour sa Perside,</l>
@@ -2057,7 +2136,9 @@
         </div>
       </div>
       <div xml:id="V" type="act">
+        <head>ACTE CINQUIESME</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="V01-1" who="alcomire">
             <l n="1384" xml:id="l1384">Pyrrhus, si vous voulez m’acquerir et me plaire</l>
             <l n="1385" xml:id="l1385">Il faut perdre un ingrat, et servir ma colere,</l>
@@ -2104,6 +2185,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE SECONDE</head>
           <sp xml:id="V02-1" who="achmat">
             <l n="1412" xml:id="l1412">Enfin le coup est faict et selon mon envie</l>
             <l n="1413" xml:id="l1413">Eraste vient de perdre et  l’amour et la vie,</l>
@@ -2117,6 +2199,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE TROISIESME</head>
           <pb n="84"/>
           <sp xml:id="V03-1" who="achmat">
             <l part="F">Belle <ref target="#ingrat">ingratte*</ref></l>
@@ -2142,6 +2225,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE QUATRIESME</head>
           <sp xml:id="V04-1" who="pyrrhus">
             <l n="1434" xml:id="l1434" part="I">Dieux qu’est-ce que je voids ?</l>
           </sp>
@@ -2191,6 +2275,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE CINQUIESME</head>
           <pb n="87"/>
           <sp xml:id="V05-1" who="herminie">
             <l n="1457" xml:id="l1457">Depeschez donc Pyrrhus que quelqu’un ne survienne</l>
@@ -2203,6 +2288,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE SIXIESME</head>
           <sp xml:id="V06-1" who="perside">
             <l n="1464" xml:id="l1464" part="I">Cher Eraste !</l>
           </sp>
@@ -2368,6 +2454,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE SEPTIESME</head>
           <pb n="94"/>
           <sp xml:id="V07-1" who="soliman">
             <l n="1580" xml:id="l1580">Devançay-moy Haly, voyez si la cruelle</l>
@@ -2382,6 +2469,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>SCENE HUICTIESME</head>
           <sp xml:id="V08-1" who="ormane">
             <l n="1589" xml:id="l1589" part="I">Que voulez-vous ?</l>
           </sp>
@@ -2462,6 +2550,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V09">
+          <head>SCENE NEUFIESME</head>
           <sp xml:id="V09-1" who="soliman">
             <l n="1629" xml:id="l1629">Arrestez-vous Soldats Perside va paroistre</l>
             <l n="1630" xml:id="l1630">Mais ou ses deplaisirs me la font mesconnoistre.</l>
@@ -2497,6 +2586,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V10">
+          <head>SCENE DERNIERE</head>
           <sp xml:id="V10-1" who="perside">
             <l n="1649" xml:id="l1649">Approche Soliman, vien cruel viens Perside</l>
             <l n="1650" xml:id="l1650">Boire le sang d’Eraste et celuy de Perside,</l>
@@ -2564,6 +2654,7 @@
         </div>
       </div>
       <div>
+        <head>Extraict du privilege du Roy.</head>
         <p>Par grace &amp; privilege du Roy, donné à Paris le 16 avril 1644. Signé par le Roy, en ʃon Conseil,DV PILLE Il eʃt permis à TOVSSAINT QVINET Marchand Libraire à Paris, d’imprimer ou faire imprimer, vendre &amp; diʃtribuer vne piece de Theatre intitulée, Perʃide ou la Suitte de l’Hibrahim Baʃʃa, Tragicomedie, durant le temps &amp; eʃpace de cinq ans, à compter du iour qu’il sera achevé d’imprimer. Et defenʃes ʃôt faites à tous Imprimeurs, Libraires &amp; autres de contrefaire ladite piece, n’y en vendre ou expoʃer en vente, à peine de trois mil liures d’amende, de tous ʃes deʃpens, dommages et interets, ainʃi qu’il eʃt plus amplement porté par leʃdites Lettres, qui ʃont en vertu du preʃent Extraict, tenuës pour bien &amp; deuëment ʃignifiée, à ce qu’aucun n’en pretende cauʃe d’ignorance.</p>
         <p>Achevé d’imprimer pour la premiere fois le 24 mai 1644</p>
         <p>Les exemplaires ont esté fournis</p>

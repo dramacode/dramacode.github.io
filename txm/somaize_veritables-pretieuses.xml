@@ -1,23 +1,77 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les Véritables Prétieuses. Comédie.</title>
+        <author key="Somaize, Antoine Baudeau (1630?-16.. ; sieur de)">Antoine Baudeau de Somaize</author>
+        <principal>Georges Forestier</principal>
+        <editor>Léa Delourme</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Léa Delourme sous la direction de Georges Forestier (2013-2014)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/somaize_veritables-pretieuses/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/somaize_veritables-pretieuses.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/somaize_veritables-pretieuses.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/somaize_veritables-pretieuses.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/somaize_veritables-pretieuses.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1660"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LES VÉRITABLES PRÉTIEUSES. COMEDIE.</head>
       <div xml:id="epitre">
         <pb n="III"/>
+        <head>[EPISTRE.] <lb/>A <hi rend="b">MONSEIGNEUR</hi>, MESSIRE HENRY <hi rend="b">LOUIS HABERT</hi>, <hi rend="sc">Chevalier, Comte</hi> du Mesny Habert, Seigneur de Monmort, la Brosse, le Peray, le Fargis, &amp; autres lieux, Conseiller du Roy en tous ses Conseils, &amp; Maistre des Requestes ordinaires de son Hostel, &amp;c.</head>
         <p rend="i">Monseigneur,</p>
         <p><hi rend="i">Je n’étaleray point icy la grandeur de vostre <ref target="#naissance">Naissance*</ref>, ny les services considerables que vous avez rendus, &amp; que vous rendez tous les jours à l’Estat.</hi><pb n="IV"/><hi rend="i">Je ne diray point que quelque éclat dont vous soyez environné, &amp; que quelques Illustres que soient vos Charges, elles en tirent plus de vous, qu’elles ne vous en donnent. Ce n’est pas à moy</hi><hi rend="i">d’entreprendre un Panegerique</hi>, <hi rend="i">où le merite surpasse de bien loin la plus haute Idée que l’on s’en puisse former : Vous vous devez à vous-mesme toute vostre gloire, &amp; il vous appartient seul de faire quelque chose à vostre avantage, &amp; pour moy, bien que j’aye assez d’ardeur pour souhaitter de dire quelque chose à vostre loüange, je n’ay pas assez de temerité pour l’entreprendre : je seray trop heureux si je puis contribuër quelque chose à vostre divertissement, &amp; si la lecture de ces Vraies Pretieuses</hi>, <hi rend="i">que je vous offre peut vous délasser un moment de vos penibles &amp; continuelles occupations. Je [ă iij]</hi><pb n="V "/><hi rend="i">sçay bien qu’à considerer cet Ouvrage sortant de mes mains, il perd quelque chose de son prix, &amp; que le nom de son Autheur pourroit, par la reputation qu’il s’est acquise, vous le rendre plus considerable</hi> ; <hi rend="i">Mais je ne veux rien devoir à autruy, où il s’agit de vous estre obligé : Ouy, <hi rend="sc">Monseigneur</hi>, je prefere l’honneur de vous estre redevable à vous seul de la protection que je vous demande pour cette Comedie, à tous les avantages que  je pourrois avoir de vous offrir un Livre qui meriteroit &amp; par luy, &amp; par le nom de celuy qui l’auroit fait, l’<ref target="#aveu">aveu*</ref> d’une personne Illustre, comme vous ; car au moins, vous jugerez qu’un <ref target="#zele">zele*</ref> tout pur m’a fait oser ce que j’entreprends, &amp; que qui cherche à vous divertir, cherchera tousjours avecque tout l’empressement possi-/</hi><pb n="VI"/><hi rend="i">/-ble les moyens de meriter la qualité qu’il prend avec vostre permission</hi>,</p>
         <p rend="i">Monseigneur,</p>
         <p rend="right">De vostre tres-humble, tres-obeïssant, &amp; tres-fidelle serviteur <hi rend="sc">Jean Ribou</hi>.</p>
       </div>
       <div xml:id="preface">
+        <head>Preface.</head>
         <pb n="VII"/>
         <p>Depuis que la modestie, &amp; l’insolence sont deux contraires, on ne les a jamais veuës mieux unies qu’a fait dans la Preface l’Autheur pretendu des Pretieuses Ridicules : Car si nous examinons ses paroles, il semble qu’il soit assez modeste pour craindre de faire mestre son nom sous la presse, cependant il cache sous cette fausse vertu tout ce que l’insolence a de plus effronté, &amp; met sur le theatre une<pb n="VIII"/> Satyre, qui quoy que sous des images crotesques ne laisse pas de blaisser tous ceux qu’il a voulu accuser ; il fait plus de Critique, il s’erige en Juge, &amp; condamne à la berne les Singes, sans voir qu’il prononce un Arrest contre luy en le prononçant contre eux, puis qu’il est certain qu’il est Singe en tout ce qu’il fait, &amp; que non seulement il a copié les Pretieuses de Monsieur l’Abbé de Pure, joüées par les Italiens ; Mais encore qu’il a imité par une singerie, dont il est seul capable le Medecin volant,<pb n="IX "/>&amp; plusieurs autres pieces des mesmes Italiens qu’il n’imite pas seulement en ce qu’ils ont joüé sur leur theatre ; mais encor en leurs postures, contrefaisant sans cesse sur le sien &amp; Trivelin &amp; Scaramouche ; mais qu’atendre d’un homme qui tire toute sa gloire des Mémoires de Gillot-Gorgeu, qu’il a acheptez de sa veufve, &amp; dont il s’adopte tous les Ouvrages.</p>
         <p>Mais c’est assez parler des Pretieuses Ridicules, il est temps de dire un mot des Vrayes, &amp; tout ce que j’en diray, c’est seulement<pb n="X"/> que je leur ay donné ce Nom, parce qu’elles parlent veritablement le langage qu’on attribuë aux Pretieuses, &amp; que je n’ay pas pretendu par ce titre parler de ces personnes Illustres qui sont trop au dessus de la Satyre pour faire soupçonner que l’on ait dessein de les y inserer : J'ay encore eu d’autres raisons de les nommer ainsi ; qui n’estant connuës de personne ne sçauroient estre condamnées, que si l’on m’accuse de condamner la Satyre, &amp; pourtant d’en composer je ne m’en defen-/<pb n="XI"/>/-deray pas icy, puis qu’elle est tousjours permise contre ceux qui font profession de l’exposer en public.</p>
         <p>Il ne peut plus rester qu’un scrupule dans l’esprit du Lecteur : Sçavoir, pourquoy je fais que mes Acteurs parlent tantost en insencez, &amp; tantost en gens tout à fait raisonnables ; Mais qui examinera bien les Personnages qu’ils representent, discernera aisement que ce qu’ils disent de juste, c’est seulement par oüy dire, &amp; qu’en ce qu’ils disent d’eux-mesmes ils ne démentent point leurs caracteres.<pb n="XII"/></p>
       </div>
-      <div xml:id="acteurs"/>
+      <div xml:id="acteurs">
+        <head>Personnages.</head>
+      </div>
       <div xml:id="I" type="act">
         <pb n="A 1"/>
+        <head>[Acte I]</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="iscarie">
             <p xml:id="pb1">Que l’attente d’Artemise, me cause de <ref target="#chagrin">chagrin*</ref>, je suis la personne du monde la plus impatiente. Allez luy dire que je suis dans le dernier<ref target="#emportement">emportement*</ref> de ne la point voir.<pb n="2" xml:id="pb2"/></p>
           </sp>
@@ -26,6 +80,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp xml:id="I02-1" who="iscarie">
             <p>Vrayment ma chere je suis en humeur de <ref target="#pousser">pousser*</ref> le dernier rude<hi rend="sup">a</hi> contre vous, vous n’avez guere d’exactitude dans vos promesses, le temps a desja marqué deux pas<hi rend="sup">b</hi> depuis que je vous attends.</p>
             <p>(a De me mettre en colère ; b Deux heures.)</p>
@@ -70,6 +125,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <pb n="8" xml:id="pb8"/>
+          <head>SCENE III.</head>
           <sp xml:id="I03-1" who="beatrix">
             <p><hi rend="sc">Dites</hi> moy donc ; quelle langue est-ce que parlent nos Maistresses ; ma foy je n’<ref target="#entendre1">entends*</ref> point ce jargon &amp; s’il faut qu’elles continuënt à parler de la sorte, elles seront contraintes de nous donner un Maistre pour apprendre ce langage &amp; de nous remettre à l’abc.</p>
           </sp>
@@ -117,6 +173,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="flanquin">
             <p><hi rend="sc">Ah</hi> ! ma chere, ma toute aymable, que je suis heureux de vous voir.</p>
           </sp>
@@ -198,6 +255,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V.</head>
           <sp xml:id="I05-1" who="artemise">
             <p>Quelle pauvreté ma chere, il n’y a pas une chose raisonnable là dedans !</p>
           </sp>
@@ -237,6 +295,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI.</head>
           <sp xml:id="I06-1" who="le-baron">
             <p>Vous aurez sujet, mes Dames, de trouver mon procedé audacieux ; mais il est bien difficile de ne pas visiter souvent l’extrait de l’esprit humain.<hi rend="sup">d</hi></p>
             <p>(d L’Abregé.)</p>
@@ -346,6 +405,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE VII.</head>
           <sp xml:id="I07-1" who="le-poete">
             <p><hi rend="sc">Ah</hi> ! vrayment Monsieur, je feray chanter à ma Callioppe en vers bien montez, &amp; d’une veine bien guindée, les remerciemens que je vous dois de l’heureuse &amp; inesperée connoissance que vous me pro-/<pb n="41" xml:id="pb41"/>/curez de ces deux divinitez charmeresses dont les beaux yeux vont esclairer mon esprit &amp; embraser mon uranie, d’un feu plus devorant, que n’est celuy de ce mont si renommé dans la Sicile, où le vieux Boiteux tenoit jadis sa forge, &amp; bien plus endoctrinant que celuy qu’Appollon inspire aux neuf sœurs.</p>
           </sp>
@@ -469,6 +529,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I08">
+          <head>LA MORT DE LUSSE-TU-CRU LAPIDÉ PAR LES Femmes. TRAGEDIE. ACTE I. SCENE PREMIERE.</head>
           <sp xml:id="I08-1" who="lusse-tu-cru">
             <l n="13" xml:id="l13" rend="i">Jamais l’<ref target="#hidre">hidre*</ref> fecond en mille &amp; mille testes,</l>
             <l n="14" xml:id="l14" rend="i">N'excita tant de <ref target="#bruit">bruit*</ref> ny de telles tempestes.</l>
@@ -551,6 +612,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I09">
+          <head>SCENE VIII.</head>
           <sp xml:id="I09-1" who="isabelle">
             <p>Madame, voila Monsieur de Greval qui vient.</p>
           </sp>
@@ -625,6 +687,7 @@
         </div>
       </div>
       <div xml:id="privilege">
+        <head>Extrait du Privilege du Roy.</head>
         <p>Par grace &amp; Privilege du Roy, donné à Paris le 12. Janvier 1660. Signé, par le Roy en son Conseil, <hi rend="sc">Renouard</hi> Il est permis à <hi rend="sc">Jean Ribou</hi> Marchand Libraire à Paris, d’imprimer ou faire imprimer une Comedie intitulée <hi rend="i">Les Veritables Pretieuses</hi>, pendant le temps &amp; espace de sept ans entiers à compter du jour qu’elle sera imprimée : Et defenses à tous autres de l’imprimer sans la permission dudit <hi rend="sc">Ribou</hi>, sur les peines portées par lesdites Lettres qui sont en vertu du present Extrait tenuës pour bien &amp; deuëment signifiées.</p>
         <p rend="i">Achevée d’imprimer le septiéme Janvier 1660.</p>
         <p>Les Exemplaires ont esté fournis.</p>

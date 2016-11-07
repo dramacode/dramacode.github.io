@@ -1,7 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jodelet astrologue. Comédie</title>
+        <author key="Ouville, Antoine d' (1590?-1656?)">Antoine d'Ourville</author>
+        <editor>Pauline Barraud</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Pauline Barraud dans le cadre d'un mémoire de
+          maîtrise sous la direction de Georges Forestier (2006-2007)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/ouville_jodelet-astrologue/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/ouville_jodelet-astrologue.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/ouville_jodelet-astrologue.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/ouville_jodelet-astrologue.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/ouville_jodelet-astrologue.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1646"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>JODELET ASTROLOGUE, <lb/>Comedie</head>
       <div xml:id="dedicace">
+        <head>A MESSIRE <lb/>NICOLAS<lb/><hi rend="b">BOURDIN</hi>,<lb/>CHEVALIER, SEIGNEUR <lb/>DE VILLENNES.</head>
         <p>MONSIEUR,</p>
         <p>Comme entre plusieurs belles connoissances que vous avez, je sçay que vous vous divertissez particulierement à l’Astrologie, dont vous penetrez tous les secrets, j’ay creu que pour vous delasser l’esprit de vos penibles travaux et de vos occupations serieuses, vous n’auriez pas desagreable que je vous presentasse ce petit Ouvrage Comique de Monsieur d’Ouville qui m’est tombé entre les mains. Vous y verrez, MONSIEUR, les naïsvetez d’un faux Astrologue, dont l’ignorance vous plaira mieux quelquefois, que tous les beaux Livres qui vous ont rendu si fameux en cette science, et pourveu qu’il vous fasse rire apres le chagrin que vous aurez peu prendre en vostre estude, j’auray visé tout droit au but où je tends. Recevez-le donc s’il vous plaist, MONSIEUR, non comme un present qui soit digne de vous, mais comme une petite marque de la passion que j’ay de vous divertir, et de vous plaire, estant avec plus d’affection et de fidelité que personne du monde,</p>
         <p>MONSIEUR,</p>
@@ -9,10 +59,14 @@
         <p rend="right">obeissant serviteur,</p>
         <p>C. B.</p>
       </div>
-      <div xml:id="acteurs"/>
+      <div xml:id="acteurs">
+        <head>LES ACTEURS.</head>
+      </div>
       <div xml:id="I" type="act">
         <pb n="1, A"/>
+        <head>ACTE I.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="liliane">
             <l n="1" xml:id="l1">NE faites point, Tindare, ici plus long sejour,</l>
             <l n="2" xml:id="l2">De grace allez vous-en, vous voyez qu’il est jour,</l>
@@ -67,6 +121,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp xml:id="I02-1" who="liliane">
             <l n="27" xml:id="l27">IL le faut advoüer, je suis bien malheureuse,<pb n="4" xml:id="p4"/></l>
             <l n="28" xml:id="l28">De nourrir dans mon sein cette <ref target="#flame">flame*</ref> amoureuse,</l>
@@ -224,6 +279,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <sp xml:id="I03-1" who="liliane">
             <l n="144" xml:id="l144">QUe voy-je ? justes Dieux ! osez-vous entreprendre<pb n="10" xml:id="p10"/></l>
             <l n="145" xml:id="l145">De m’<ref target="#aborder">aborder*</ref> ainsi ? Timandre, <ref target="#resver1">resvez*</ref>-vous ?</l>
@@ -290,6 +346,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="timandre">
             <l n="184" xml:id="l184">QU’entens-je, justes Dieux ? je meurs, je desespere.</l>
           </sp>
@@ -353,6 +410,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V.</head>
           <sp xml:id="I05-1" who="jodelet">
             <l n="223" xml:id="l223">ET bien, Nise, feray-je ainsi que fait mon Maistre ?</l>
             <l n="224" xml:id="l224" part="I">Te quitteray-je aussi ?</l>
@@ -561,7 +619,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="II01-1" who="timandre">
             <l n="331" xml:id="l331" part="I">QUOI ? ce que tu m’as dit est-il vray ?<pb n="23" xml:id="p23"/></l>
           </sp>
@@ -614,6 +674,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II.</head>
           <sp xml:id="II02-1" who="timandre">
             <l part="F">JE ne viens plus, Madame,</l>
             <l n="368" xml:id="l368">Pour vous exagerer tous ces souspirs de <ref target="#flame">flame*</ref>,</l>
@@ -979,6 +1040,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp xml:id="II03-1" who="liliane">
             <l n="627" xml:id="l627">NIse, fut-il jamais fille plus malheureuse ?<pb n="39" xml:id="p39"/></l>
             <l n="628" xml:id="l628">Regarde où me reduit cette <ref target="#flame">flame*</ref> amoureuse ?</l>
@@ -1008,6 +1070,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV.</head>
           <sp xml:id="II04-1" who="timandre">
             <l n="643" xml:id="l643">HElas ! j’estois <ref target="#perdre">perdu*</ref> sans toy, je le confesse,</l>
             <l n="644" xml:id="l644">Je ne sçaurois assez admirer ton adresse,</l>
@@ -1038,6 +1101,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <sp xml:id="II05-1" who="acaste">
             <l part="F">QUi vous rend ainsi triste?</l>
           </sp>
@@ -1089,6 +1153,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI.</head>
           <sp xml:id="II06-1" who="acaste">
             <l part="F">AMy je vous cherchois.<pb n="44" xml:id="p44"/></l>
           </sp>
@@ -1145,7 +1210,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="III01-1" who="ariste">
             <l n="723" xml:id="l723">JE ne sçay si venant de la part de Tindare<pb n="47" xml:id="p47"/></l>
             <l n="724" xml:id="l724">J’auray droict d’<ref target="#aborder">aborder*</ref> une beauté si <ref target="#rare">rare*</ref>,</l>
@@ -1207,6 +1274,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp xml:id="III02-1" who="timandre">
             <l n="767" xml:id="l767">AInsi que je le dy la chose s’est passee,</l>
             <l n="768" xml:id="l768">Jamais fille ne fut si fort embarassee ;</l>
@@ -1295,6 +1363,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp xml:id="III03-1" who="ariste">
             <l part="F">FUt-il jamais homme plus malheureux ?<pb n="53" xml:id="p53"/></l>
             <l n="831" xml:id="l831">Je suis le confident et l’amy de Tindare,</l>
@@ -1314,6 +1383,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp xml:id="III04-1" who="acaste">
             <l n="845" xml:id="l845">LE voici, mais feignons de ne l’avoir point veu,<pb n="54" xml:id="p54"/></l>
             <l n="846" xml:id="l846">Commençons nostre <ref target="#fourbe">fourbe*</ref> ; Ah grands Dieux qui l’eust creu !</l>
@@ -1448,6 +1518,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp xml:id="III05-1" who="julie">
             <l n="915" xml:id="l915">LE disois-je pas bien ? c’est Ariste, Madame.</l>
           </sp>
@@ -1664,6 +1735,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI.</head>
           <sp xml:id="III06-1" who="acaste">
             <l n="1015" xml:id="l1015">JOdelet en tout lieu ta science est connuë,</l>
             <l n="1016" xml:id="l1016">Chacun te montre au doigt à present dans la ruë,</l>
@@ -1707,6 +1779,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE VII.</head>
           <sp xml:id="III07-1" who="jacinte">
             <l part="F">J’Entre bien librement.<pb n="69" xml:id="p69"/></l>
             <l n="1043" xml:id="l1043">Faites-moy, s’il vous plaist, la faveur de m’apprendre</l>
@@ -1918,6 +1991,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III08">
+          <head>SCENE VIII.</head>
           <sp xml:id="III08-1" who="timandre">
             <l n="1159" xml:id="l1159">AVez-vous jamais veu de plus plaisante histoire ?<pb n="77" xml:id="p77"/></l>
           </sp>
@@ -1970,7 +2044,9 @@
         </div>
       </div>
       <div xml:id="IV" type="act">
+        <head>ACTE IIII.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="ariste">
             <l n="1181" xml:id="l1181">ELLE demeura triste, et l’esprit <ref target="#interdire">interdit*</ref><pb n="79" xml:id="p79"/></l>
             <l n="1182" xml:id="l1182">Quand elle eut achevé de lire vostre escrit,</l>
@@ -2039,6 +2115,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II.</head>
           <sp xml:id="IV02-1" who="tindare">
             <l n="1230" xml:id="l1230">QUe veut dire cela ? comment ? Nise chez moy ?<pb n="82" xml:id="p82"/></l>
             <l n="1231" xml:id="l1231">Ah ! je suis descouvert, ma perte est trop certaine.</l>
@@ -2079,6 +2156,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <sp xml:id="IV03-1" who="julie">
             <l n="1255" xml:id="l1255">MAis, Madame, en effet vostre raison s’esgare,</l>
             <l n="1256" xml:id="l1256">Vous imaginez-vous aujourd’huy que Tindare</l>
@@ -2132,6 +2210,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV.</head>
           <sp xml:id="IV04-1" who="julie">
             <l n="1278" xml:id="l1278">IL n’est rien de plus vray que cet enchantement.<pb n="86" xml:id="p86"/></l>
             <l n="1279" xml:id="l1279">Je suis morte <ref target="#autant">autant vaut*</ref> : c’est Tindare, Madame.</l>
@@ -2256,6 +2335,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V.</head>
           <sp xml:id="IV05-1" who="tindare">
             <l n="1335" xml:id="l1335">MAdame, quel succez <ref target="#decevoir">decevant*</ref> mon espoir<pb n="91" xml:id="p91"/></l>
             <l n="1336" xml:id="l1336">Me donne en liberté le bonheur de vous voir ?</l>
@@ -2308,6 +2388,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI.</head>
           <sp xml:id="IV06-1" who="arimant">
             <l n="1360" xml:id="l1360" part="I">QUel est ce <ref target="#cavalier">Cavalier*</ref> ?</l>
           </sp>
@@ -2383,6 +2464,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE VII.</head>
           <sp xml:id="IV07-1" who="nise">
             <l n="1401" xml:id="l1401" part="I">QUoy ! l’on ne te void plus ?</l>
           </sp>
@@ -2452,6 +2534,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV08">
+          <head>SCENE VIII.</head>
           <sp xml:id="IV08-1" who="arimant">
             <l n="1441" xml:id="l1441" part="I">QUel est cet homme ici ?<pb n="99" xml:id="p99"/></l>
           </sp>
@@ -2582,7 +2665,9 @@
         </div>
       </div>
       <div xml:id="V" type="act">
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="V01-1" who="timandre">
             <l n="1513" xml:id="l1513">JE n’en puis plus, Acaste, et je perds patience.<pb n="105, O"/></l>
           </sp>
@@ -2645,6 +2730,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp xml:id="V02-1" who="timandre">
             <l n="1548" xml:id="l1548" part="I">AH ! Madame, est-ce vous ?<pb n="108" xml:id="p108"/></l>
           </sp>
@@ -2751,6 +2837,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp xml:id="V03-1" who="ariste">
             <l n="1603" xml:id="l1603">MEssieurs, je suis ravi de vous trouver tous deux,</l>
             <l n="1604" xml:id="l1604">Le Ciel me favorise, et je suis trop heureux,</l>
@@ -2822,6 +2909,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV.</head>
           <sp xml:id="V04-1" who="jodelet">
             <l n="1649" xml:id="l1649">AH Dieux ! c’est Arimant, il me pourroit confondre,</l>
             <l n="1650" xml:id="l1650">Il vient m’interroger, je ne pourrois respondre,</l>
@@ -2958,6 +3046,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V.</head>
           <sp xml:id="V05-1" who="moron">
             <l n="1716" xml:id="l1716">AMy, pour te trouver j’estois fort en <ref target="#souci">soucy*</ref>,</l>
             <l n="1717" xml:id="l1717">J’ay bien besoin de toy pour un certain affaire,</l>
@@ -2992,6 +3081,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI.</head>
           <sp xml:id="V06-1" who="tindare">
             <l n="1740" xml:id="l1740">JE puis en liberté contenter mes esprits,<pb n="122" xml:id="p122"/></l>
             <l n="1741" xml:id="l1741">Et sans scrupule aucun pouvant me satisfaire,</l>
@@ -3075,6 +3165,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII.</head>
           <sp xml:id="V07-1" who="tindare">
             <l n="1785" xml:id="l1785">QUelle confusion à la mienne est pareille ?</l>
             <l n="1786" xml:id="l1786">Qu’entens-je ? justes Dieux ! est-il vray que je [veille] ?</l>
@@ -3123,6 +3214,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>SCENE VIII.</head>
           <sp xml:id="V08-1" who="moron">
             <l n="1813" xml:id="l1813">ADieu Paris, Adieu, je veux perdre la vie</l>
             <l n="1814" xml:id="l1814">Si de te voir jamais il me reprend envie,</l>
@@ -3158,6 +3250,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V09">
+          <head>SCENE IX.</head>
           <sp xml:id="V09-1" who="liliane">
             <l n="1835" xml:id="l1835">MOn pere, dites-vous, vous a redemandé<pb n="129, R"/></l>
             <l n="1836" xml:id="l1836" part="I">Ce cœur de diamans ?</l>
@@ -3195,6 +3288,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V10">
+          <head>SCENE X.</head>
           <sp xml:id="V10-1" who="timandre">
             <l n="1857" xml:id="l1857">DIeux, que de ce jardin la veuë est agreable ?<pb n="131" xml:id="p131"/></l>
             <l n="1858" xml:id="l1858" part="I">Que tout est propre ici ?</l>
@@ -3223,6 +3317,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V11">
+          <head>SCENE XI et derniere.</head>
           <sp xml:id="V11-1" who="jacinte">
             <l n="1866" xml:id="l1866">NOn, non, Ariste, il faut que je me satisface,</l>
             <l n="1867" xml:id="l1867">Il me faut esclaicir de cette verité.</l>

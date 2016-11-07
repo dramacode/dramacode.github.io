@@ -1,7 +1,58 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Mort de Démétrius. Tragédie.</title>
+        <author key="Boyer, Claude (1618-1698)">Boyer, Claude</author>
+        <principal>Georges Forestier</principal>
+        <editor>Claire Supplisson</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Claire Supplisson sous la direction de Georges Forestier (2000-2001)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/boyer_mort-demetrius/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boyer_mort-demetrius.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boyer_mort-demetrius.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boyer_mort-demetrius.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boyer_mort-demetrius.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1661"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LA MORT DE DÉMÉTRIUS, ou le rétablissement d’Alexandre roy d’Epire. TRAGÉDIE</head>
       <div n="1" type="set" xml:id="epitre">
+        <head>
+          <hi rend="b">EPISTRE A Monseigneur le CHANCELIER</hi>
+        </head>
         <p>MONSEIGNEUR,</p>
         <p>S’il est vray que les puissantes recommandations peuvent rendre suspectes les meilleures causes, j’ay sujet de croire, qu’en voulant faire honneur à mon Ouvrage, je hazarde sa reputation, lorsque je mets à sa teste, le plus illustre Nom, que les Muses ayent jamais reveré ; on dira sans doute que couvrant ses defauts sous l’éclat d’une si haute protection, je veux ébloüir les yeux du Public,  ; que par une adresse encore plus ambitieuse, je me sers de vous mesme pour prévenir vostre jugement,  ; vous persuader du merite de mon present par la confiance avec laquelle je l’offre à vostre Grandeur. Je suis peu en peine, MONSEIGNEUR, du jugement qu’on fera de mon dessein, pourveu qu’il reüssisse : il n’est point de moyen qui ne me semble glorieux, s’il me sert à acquerir  ; mesme à surprendre l’honneur de vostre approbation : estimant peu celle des autres, si elle n’est consacrée par la vostre. Pour connoistre le destin des Ouvrages de l’Esprit, il faut consulter cette Sagesse consommée qui vous a rendu l’admiration de tout le monde,  ; que vous vous estes acquise par une experience de tant d’années,  ; à la teste du Conseil du Roy,  ; parmy cet illustre Corps de Sçavans, dont vous estes la premiere Intelligence. C’est à vous, MONSEIGNEUR, qu’appartient le souverain empire des belles Lettres, aussi bien que la souveraine Justice de l’Estat : le Ciel vous reservoit l’union de ces deux augustes Tribunaux qui seroient sans doute incompatibles en une mesme personne à moins que d’estre remplis par un Génie aussi grand que le vostre ;  ; c’est la bonne fortune des Sciences  ; des Sçavans parmy tant de disgraces qui les accompagnent, de trouver un si puissant Protecteur, dans celui que nostre Grand Monarque a fait le dépositaire de son authorité,  ; le premier Oracle de ses Loix : que l’envie  ; l’injustice se mélent de juger temerairement de toutes choses, il suffit de vivre dans le Siecle du GRAND SEGUIER, pour estre à couvert de toutes les persecutions de ces deux puissantes ennemies de la raison  ; du merite. Vostre Esprit est une source inépuisable de lumiere qui porte un jour continuel dans toutes les parties du monde raisonnable : c’est de cette mesme source que coulent depuis si long-temps cette Politesse  ; tout cet Art merveilleux qui a reconcilié nos Muses avec les Graces que la barbarie des derniers Siecles avoit si fort éloignées les unes des autres. De sorte, MONSEIGNEUR, qu’il est juste d’avoüer que nous vous avons la principale obligation de toute la gloire des belles Lettres,  ; que nous vous en devons rendre le premier hommage. Si vous ne treuvez pas dans mon Ouvrage, ce beau, dont vous avez la parfaite idée, j’ose au moins m’imaginer qu’aprés les efforts que j’ay faits pour vous le rendre agreable, il pourra tirer quelque merite de la Grandeur de mon zéle  ; de la noblesse de sa fin*,  ; que vous pourrez treuver quelque chose qui ne vous déplaira pas dans une Muse qui est si puissamment animée de la glorieuse ambition de vous plaire. C’est cette esperance, MONSEIGNEUR, qui luy donne le courage de vous demander l’honneur de vostre protection,  ; de vous asseurer de la passion tres-ardente  ; tres-respectueuse, avec laquelle je veux estre toute ma vie,</p>
         <p>MONSEIGNEUR :</p>
@@ -11,6 +62,7 @@
         <p>BOYER.</p>
       </div>
       <div n="2" type="set" xml:id="sonnet">
+        <head>A MONSEIGNEUR LE CHANCELIER, SONNET.</head>
         <l n="1">J’Ay beau pour ta loüange animer tout mon zéle,</l>
         <l n="2">Et des titres fameux faire le plus beau choix ;</l>
         <l n="3">De ses soins glorieux la vigueur immortelle</l>
@@ -26,13 +78,17 @@
         <l n="13">Mais avec tant d’orgueil la France desespere,</l>
         <l n="14">D’avoir un Successeur qui soit digne de Toy.</l>
       </div>
-      <div n="3" type="set" xml:id="acteurs"/>
+      <div n="3" type="set" xml:id="acteurs">
+        <head>ACTEURS</head>
+      </div>
       <div type="act" xml:id="I">
+        <head>ACTE I.</head>
         <p>
           <title>LA MORT DE DEMETRIUS OU LE RETABLISSEMENT D’ALEXANDRE ROY D’EPIRE. TRAGÉDIE.</title>
           <pb n="1"/>
         </p>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp who="demetrius" xml:id="I01-1">
             <l n="1" xml:id="l1">Pourray-je voir enfin mon ingrate Princesse ?</l>
           </sp>
@@ -46,6 +102,7 @@
         </div>
         <div type="scene" xml:id="I02">
           <pb n="2"/>
+          <head>SCENE II.</head>
           <sp who="milon" xml:id="I02-1">
             <l n="4" part="I" xml:id="l4">La Reyne...</l>
           </sp>
@@ -189,6 +246,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <pb n="6"/>
+          <head>SCENE III.</head>
           <sp who="demetrius" xml:id="I03-1">
             <l n="105" xml:id="l105">Ton interest n’est pas ce qui trouble mon ame,</l>
             <l n="106" xml:id="l106">Et les Dieux auroient tort de condamner ma flame,</l>
@@ -226,6 +284,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp who="milon" xml:id="I04-1">
             <l part="M">Seigneur...</l>
           </sp>
@@ -379,6 +438,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V.</head>
           <sp who="telamon" xml:id="I05-1">
             <l n="233" xml:id="l233">La Princesse, Seigneur, par vostre ordre est venuë.</l>
           </sp>
@@ -485,6 +545,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI.</head>
           <sp who="seleucus" xml:id="I06-1">
             <l n="319" xml:id="l319">Alexandre s’aproche,  ; chacun va sortir,</l>
             <l n="320" xml:id="l320">Pour l’aller recevoir il est temps de partir.</l>
@@ -501,6 +562,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE VII.</head>
           <sp who="ismenie" xml:id="I07-1">
             <l n="329" xml:id="l329">Laodice, est-il vray ce que je viens d’entendre ?</l>
             <l n="330" xml:id="l330">Je puis par son <ref target="#aveu">adveu*</ref> couronner Alexandre,</l>
@@ -539,7 +601,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="17"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE</head>
           <sp who="seleucus" xml:id="II01-1">
             <l n="357" xml:id="l357">Ou peut-on voir jamais avecque tant de zele</l>
             <l n="358" xml:id="l358">Deux Princes <ref target="#signaler">signaler*</ref> leur amitié fidelle ?</l>
@@ -685,6 +749,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II.</head>
           <sp who="demetrius" xml:id="II02-1">
             <l n="467" xml:id="l467">Souffrez que l’amitié vous dérobe un moment</l>
             <l n="468" xml:id="l468">Aux tendres entretiens d’un objet si charmant.</l>
@@ -849,6 +914,7 @@
         </div>
         <div type="scene" xml:id="II03">
           <pb n="26"/>
+          <head>SCENE III.</head>
           <sp who="alexandre" xml:id="II03-1">
             <l n="579" xml:id="l579">Amy, cruel autant qu’on peut l’imaginer,</l>
             <l n="580" xml:id="l580">Ne m’as-tu rappellé que pour m’assassiner ?</l>
@@ -874,6 +940,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="27"/>
+          <head>SCENE IV.</head>
           <sp who="alexandre" xml:id="II04-1">
             <l n="599" xml:id="l599">Rendez-vous cet honneur au rang que je n’ay plus ?</l>
             <l n="600" xml:id="l600">Ces excés de bonté me rendent tout confus.</l>
@@ -1023,6 +1090,7 @@
         </div>
         <div type="scene" xml:id="II05">
           <pb n="31"/>
+          <head>SCENE V.</head>
           <sp who="laodice" xml:id="II05-1">
             <l n="701" xml:id="l701">Quoy, le Prince s’enfuit,  ; cet ingrat vous quitte ?</l>
           </sp>
@@ -1079,7 +1147,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="33"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp who="milon" xml:id="III01-1">
             <l n="733" xml:id="l733">Ah, que je suis heureux d’empescher cette fuite !</l>
           </sp>
@@ -1149,6 +1219,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp who="demetrius" xml:id="III02-1">
             <l part="F">Que Seleucus le garde,  ; m’en réponde.</l>
           </sp>
@@ -1307,6 +1378,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp who="demetrius" xml:id="III03-1">
             <l n="893" xml:id="l893">Qu’avec juste raison je bannis cet infame !</l>
             <l n="894" xml:id="l894">Le dangereux poison, qu’il verse dans mon ame</l>
@@ -1335,6 +1407,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp who="arsinoe" xml:id="III04-1">
             <l n="917" part="I" xml:id="l917">Qu’entens-je !</l>
           </sp>
@@ -1373,6 +1446,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp who="arsinoe" xml:id="III05-1">
             <l part="F">Est-ce un charme, est-ce un songe,</l>
             <l n="942" xml:id="l942">Qui dans une erreur folle,  ; m’entraîne,  ; me plonge ?</l>
@@ -1394,6 +1468,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI.</head>
           <sp who="arsinoe" xml:id="III06-1">
             <l n="958" xml:id="l958">C’est toy, Milon, reviens ; je te veux tout apprendre.</l>
           </sp>
@@ -1542,6 +1617,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE VII.</head>
           <sp who="milon" xml:id="III07-1">
             <l n="1064" xml:id="l1064">Ce n’est pas mon dessein de regner avec toy :</l>
             <l n="1065" xml:id="l1065">Une autre par ma main sur le Thrône élevée</l>
@@ -1553,6 +1629,7 @@
         </div>
         <div type="scene" xml:id="III08">
           <pb n="47"/>
+          <head>SCENE VIII.</head>
           <sp who="milon" xml:id="III08-1">
             <l part="F">Enfin nous tenons Alexandre.</l>
           </sp>
@@ -1616,7 +1693,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="49"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE I.</head>
           <sp who="alexandre" xml:id="IV01-1">
             <l n="1113" xml:id="l1113">Ces cruels traitemens ont droit de me surprendre.</l>
             <l n="1114" xml:id="l1114">Quoy ? me faire arrester, refuser de m’entendre,</l>
@@ -1675,6 +1754,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <pb n="51"/>
+          <head>SCENE II.</head>
           <sp who="telamon" xml:id="IV02-1">
             <l n="1148" xml:id="l1148">Madame, vous sçavez quel est l’ordre du Roy ;</l>
             <l n="1149" xml:id="l1149">J’attens vostre réponse avec impatience.</l>
@@ -1684,6 +1764,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <sp who="alexandre" xml:id="IV03-1">
             <l n="1151" xml:id="l1151">Vous puis-je encor revoir ? qu’en l’estat où je suis</l>
             <l n="1152" xml:id="l1152">J’ay souffert loin de vous de peines  ; d’<ref target="#ennui">ennuis*</ref> !</l>
@@ -1861,6 +1942,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <pb n="56"/>
+          <head>SCENE IV.</head>
           <sp who="alexandre" xml:id="IV04-1">
             <l n="1264" xml:id="l1264">Que ton dessein me jette en un desordre extrême !</l>
             <l n="1265" xml:id="l1265">Qu’a-t’elle resolu ? mais n’ay-je pas sa foy ?</l>
@@ -1871,6 +1953,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V.</head>
           <sp who="arsinoe" xml:id="IV05-1">
             <l n="1270" xml:id="l1270">Avec ton Prisonnier je seray peu de temps ;</l>
             <l n="1271" xml:id="l1271">Laisse-moy ; tu nuirois à nostre confidence.</l>
@@ -1982,6 +2065,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI.</head>
           <sp who="milon" xml:id="IV06-1">
             <l n="1339" part="I" xml:id="l1339">C’est le Prince  ; la Reyne.</l>
           </sp>
@@ -2040,6 +2124,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE VII.</head>
           <sp who="arsinoe" xml:id="IV07-1">
             <l n="1375" part="I" xml:id="l1375">Ah ! Prince genereux !</l>
           </sp>
@@ -2112,6 +2197,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV08">
+          <head>SCENE VIII.</head>
           <sp who="telamon" xml:id="IV08-1">
             <l n="1417" part="I" xml:id="l1417">Seigneur.</l>
           </sp>
@@ -2147,6 +2233,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV09">
+          <head>SCENE IX.</head>
           <sp who="milon" xml:id="IV09-1">
             <l n="1431" xml:id="l1431">Nous voila delivrez d’une mortelle crainte.</l>
           </sp>
@@ -2214,7 +2301,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="66"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp who="seleucus" xml:id="V01-1">
             <l n="1465" part="I" xml:id="l1465">Ah ! Seigneur !</l>
           </sp>
@@ -2275,6 +2364,7 @@
         </div>
         <div type="scene" xml:id="V02">
           <pb n="68"/>
+          <head>SCENE II.</head>
           <sp who="milon" xml:id="V02-1">
             <l n="1493" xml:id="l1493">Ah ! si le Sort vouloit s’entendre avecque moy,</l>
             <l n="1494" xml:id="l1494">Je me verrois bien-tost heureux Amant  ; Roy.</l>
@@ -2363,6 +2453,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp who="arsinoe" xml:id="V03-1">
             <l n="1554" xml:id="l1554">Quoy ! tu m’oses attendre,  ; mon époux est mort ?</l>
             <l n="1555" xml:id="l1555">Qu’as-tu fait de mon Roy ? rens-le moy, parricide.</l>
@@ -2427,6 +2518,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV.</head>
           <sp who="ismenie" xml:id="V04-1">
             <l part="F">Quel injuste pouvoir,</l>
             <l n="1603" xml:id="l1603">Quelle estrange licence aujourd’hui t’authorise</l>
@@ -2534,6 +2626,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V.</head>
           <sp who="telamon" xml:id="V05-1">
             <l part="F">Ah ! Seigneur, Alexandre</l>
             <l n="1672" xml:id="l1672">A pour luy tout le monde, il est temps de se rendre.</l>
@@ -2629,6 +2722,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI.</head>
           <sp who="seleucus" xml:id="V06-1">
             <l n="1733" part="I" xml:id="l1733">Ah ! Seigneur.</l>
           </sp>
@@ -2677,6 +2771,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII.</head>
           <sp who="ismenie" xml:id="V07-1">
             <l n="1764" xml:id="l1764">M’as-tu fait de Milon l’azile  ; la défence ?</l>
             <l n="1765" xml:id="l1765">Ciel,  ; pour me sauver, Alexandre vainqueur,</l>
@@ -2691,6 +2786,7 @@
         </div>
         <div type="scene" xml:id="V08">
           <pb n="80"/>
+          <head>SCENE VIII.</head>
           <sp who="laodice" xml:id="V08-1">
             <l part="F">Le Prince a la victoire,</l>
             <l n="1773" xml:id="l1773">Et Milon en sortant a trouvé sur ses pas</l>
@@ -2731,6 +2827,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V09">
+          <head>SCENE IX.</head>
           <sp who="alexandre" xml:id="V09-1">
             <l part="F">Je vous revois aprés tant de malheurs.</l>
             <l n="1798" xml:id="l1798">Qu’un court éloignement m’a coûté de douleurs !</l>
@@ -2755,6 +2852,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V10">
+          <head>SCENE X.</head>
           <sp who="diocles" xml:id="V10-1">
             <l n="1813" part="I" xml:id="l1813">Ah ! Madame.</l>
           </sp>
@@ -2778,6 +2876,7 @@
         </div>
         <div type="scene" xml:id="V11">
           <pb n="83"/>
+          <head>SCENE XI.</head>
           <sp who="milon" xml:id="V11-1">
             <l n="1819" xml:id="l1819">Ingrate, il faut mourir. Mais Dieux ! quelle foiblesse !</l>
             <l n="1820" xml:id="l1820">Ma rage vit encor,  ; la force me laisse.</l>
@@ -2795,6 +2894,7 @@
         </div>
         <div type="scene" xml:id="V12">
           <pb n="84"/>
+          <head>SCENE DERNIERE.</head>
           <sp who="alexandre" xml:id="V12-1">
             <l n="1831" xml:id="l1831">Va, monstre furieux, ta derniere injustice</l>
             <l n="1832" xml:id="l1832">Est d’avoir en mourant évité ton suplice.</l>
@@ -2806,6 +2906,7 @@
         </div>
       </div>
       <div n="1" type="appendix" xml:id="privilege">
+        <head>Extrait du Privilège du Roy.</head>
         <p>Par grace ; Privilege du Roy, donné à Paris le 10 septembre 1660. Signé, Par le Roy en son Conseil, FOURNIER, Il est permis au sieur Boyer, de faire imprimer, vendre  ; debiter une Piece de Theatre qu’il a composée, intitulée <hi rend="i">Démétrius</hi>, en telle marge  ; en tel caractere que bon luy semblera,  ; ce durant l’espace de cinq ans : Et deffences sont faites à tous autres de l’imprimer ou faire imprimer, vendre ou debiter sans le consentement de l’Exposant, à peine de mil livres d’amende, confiscation des Exemplaires contrefaits,  ; de tous dépens, dommages  ; interests, ainsi que plus au long il est porté par ledit Privilege.</p>
         <p>Registré sur le Livre de la Communauté le 12 Novembre 1660. Signé, Josse, Syndic.</p>
         <p>Achevé d’imprimer pour la premiere fois, le 10 Decembre 1660, à ROUEN, par L. MAURRY.</p>

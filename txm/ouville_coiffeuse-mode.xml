@@ -1,7 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Coifeuse à la mode. Comédie</title>
+        <author key="Ouville, Antoine d' (1590?-1656?)">Antoine d'Ourville</author>
+        <editor>Pauline du Chayla</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Pauline du Chayla dans le cadre d'un mémoire de
+          maîtrise sous la direction de Georges Forestier (2002-2003)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/ouville_coifeuse-mode/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/ouville_coifeuse-mode.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/ouville_coifeuse-mode.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/ouville_coifeuse-mode.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/ouville_coifeuse-mode.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1647"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LA <lb/>COIFEUSE <lb/>A <lb/>LA MODE <lb/>COMEDIE</head>
       <div>
+        <head>Extraict du Privilège.</head>
         <p>Par grace et Privilège du Roy donné a Fontainebleau le dix-septiesme jour de Septembre mil six cents quarante-six, signé, Par le Roy en son conseil, Le Brun. Il est permis a TOUSSAINCT QUINET Marchand libraire à Paris, d’imprimer ou faire imprimer, vendre et distribuer une piece de Theatre intitulée, <hi rend="i">La Coiffeuse à la mode, Comédie</hi>, durant le temps de cinq années, à commencer du jour qu’elle sera achevée d’imprimer. Et défenses sont faîtes à tous Libraires et Imprimeurs de contrefaire ladite piece, ny en vendre ou exposer en vente, à peine de trois mil livres d’amende, de tous despens, domages et interests : ainsi qu’il est plus amplement porté par lesdites Lettres, qui sont en vertu du present extraict tenuës pour bien et deuëment signifiées, à ce qu’aucun n’en pretende cause d’ignorance.</p>
         <p rend="center">
           <hi rend="i">Achevé d’imprimer le 6, Novembre 1646.</hi>
@@ -9,9 +59,13 @@
         <p rend="center">Les exemplaires ont esté fournis.</p>
         <p>Ledit QUINET a fait part du present Privilege à ANTOINE DE SOMMAVILLE, Marchand Libraire, pour en jouyr pendant le temps et conditions portées par iceluy : ainsi qu’il a esté accordé entre eux.</p>
       </div>
-      <div type="set"/>
+      <div type="set">
+        <head>ACTEURS</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE I.</head>
         <div type="scene" xml:id="I01">
+          <head>Scène première</head>
           <sp xml:id="I01-1" who="acaste">
             <pb n="A, 1"/>
             <l n="1" xml:id="l1">Certainement amy je commence à connestre</l>
@@ -202,6 +256,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>Scène 2</head>
           <sp xml:id="I02-1" who="beatrix">
             <l n="145" xml:id="l145">Il faut peu de suject pour vous mettre en colere.<pb n="9" xml:id="p9"/></l>
           </sp>
@@ -468,6 +523,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>Scène 3</head>
           <sp xml:id="I03-1" who="arimant">
             <l n="305" xml:id="l305">Voy cruelle! Est-ce là toute la recompense</l>
             <l n="306" xml:id="l306">Que je devois attendre, ô Dieux quelle arrogance!</l>
@@ -535,6 +591,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>Scène 4</head>
           <sp xml:id="I04-1" who="acaste">
             <l n="340" xml:id="l340">Il le faut laisser seul, je deplore son sort,</l>
             <l n="341" xml:id="l341">Mais je voy Philipin, d’où vien-tu qui t’ameine?</l>
@@ -598,7 +655,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>Scène première</head>
           <sp xml:id="II01-1" who="acaste">
             <l n="379" xml:id="l379">Et bien, qu’en dites-vous? lors que pour un Amy<pb n="25" xml:id="p25"/></l>
             <l n="380" xml:id="l380">Je me veux employer, m’y portè-je à demy?</l>
@@ -666,6 +725,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>Scène 2</head>
           <sp xml:id="II02-1" who="pamphile">
             <l n="419" xml:id="l419">Madame excusez moy, je ne puis nullement</l>
             <l n="420" xml:id="l420">Comprendre le suject de ce déguisement,</l>
@@ -862,6 +922,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>Scène 3</head>
           <pb n="36" xml:id="p36"/>
           <sp xml:id="II03-1" who="dorotee">
             <l n="584" xml:id="l584">Et bien que vous en semble? ay-je pas bonne mine?</l>
@@ -1015,7 +1076,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>ACTE III</head>
         <div type="scene" xml:id="III01">
+          <head>Scène première</head>
           <sp xml:id="III01-1" who="flore">
             <l n="681" xml:id="l681">Quel changement mon Coeur? et quelle frenaisie<pb n="42" xml:id="p42"/></l>
             <l n="682" xml:id="l682">Me vient <ref target="#presentement">presentement*</ref> troubler la <ref target="#fantaisie">fantasie*</ref>?</l>
@@ -1089,6 +1152,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>Scène 2</head>
           <sp xml:id="III02-1" who="flore">
             <l n="750" xml:id="l750" part="I">Que veux-tu?</l>
           </sp>
@@ -1151,6 +1215,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>Scène 3</head>
           <sp xml:id="III03-1" who="beatrix">
             <l n="771" xml:id="l771" part="I">Entrez, Messieurs, entrez.</l>
           </sp>
@@ -1248,6 +1313,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>Scène 4</head>
           <sp xml:id="III04-1" who="philipin">
             <l n="829" xml:id="l829">Que me donnerez-vous pour la bonne nouvelle?</l>
           </sp>
@@ -1324,6 +1390,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>Scène 5</head>
           <sp xml:id="III05-1" who="beatrix">
             <l part="F">C’est cette Perruquiere</l>
             <l n="855" xml:id="l855" part="I">Qui vient pour vous coiffer.</l>
@@ -1563,6 +1630,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>Scène 6</head>
           <sp xml:id="III06-1" who="flore">
             <l n="943" xml:id="l943">Comment, vous le laissez aller seul Arimant ?</l>
             <l n="944" xml:id="l944">Vous ne le devez pas, je croy qu’asseurement</l>
@@ -1622,6 +1690,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>Scène 7</head>
           <sp xml:id="III07-1" who="acaste">
             <l n="978" xml:id="l978">Je l’ay toujours suivie, et ne l’ay point quittée</l>
             <l n="979" xml:id="l979">C’est dans ce logis-là que je l’ay veuë entrer.</l>
@@ -1677,6 +1746,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III08">
+          <head>Scène 8</head>
           <pb n="68" xml:id="p68"/>
           <sp xml:id="III08-1" who="pamphile">
             <l n="1005" xml:id="l1005" part="I">Que voulez-vous, Monsieur ?</l>
@@ -1750,7 +1820,9 @@
         </div>
       </div>
       <div xml:id="IV" type="act">
+        <head>ACTE IV</head>
         <div type="scene" xml:id="IV01">
+          <head>Scène première</head>
           <pb n="71" xml:id="p71"/>
           <sp xml:id="IV01-1" who="philipin">
             <l n="1035" xml:id="l1035">Quel est vostre dessein ? pourquoy revenez-vous</l>
@@ -1791,6 +1863,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>Scène 2</head>
           <pb n="73" xml:id="p73"/>
           <sp xml:id="IV02-1" who="dorotee">
             <l n="1060" xml:id="l1060">Que voulez-vous, Monsieur ? que cherchez-vous <ref target="#ceans">ceans*</ref> ?</l>
@@ -1986,6 +2059,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>Scène 3</head>
           <sp xml:id="IV03-1" who="dorotee">
             <l n="1185" xml:id="l1185" part="I">Tu l’as veu, Leonor ?</l>
           </sp>
@@ -2176,6 +2250,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>Scène 4</head>
           <sp xml:id="IV04-1" who="acaste">
             <l n="1329" xml:id="l1329">Quelle confusion est pareille à la mienne ?</l>
           </sp>
@@ -2202,6 +2277,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>Scène 5</head>
           <pb n="89" xml:id="p89"/>
           <sp xml:id="IV05-1" who="arimant">
             <l n="1341" xml:id="l1341">Quoy si pres du logis je vous trouve en la ruë ?</l>
@@ -2262,6 +2338,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>Scène 6</head>
           <sp xml:id="IV06-1" who="flore">
             <l n="1373" xml:id="l1373">Je n’ay jamais ouy parler de cette femme.</l>
             <l n="1374" xml:id="l1374" part="I">Helene, me dis-tu de Peralte ?</l>
@@ -2399,7 +2476,9 @@
         </div>
       </div>
       <div xml:id="V" type="act">
+        <head>ACTE V</head>
         <div type="scene" xml:id="V01">
+          <head>Scène première</head>
           <sp xml:id="V01-1" who="flore">
             <pb n="97" xml:id="p97"/>
             <l n="1471" xml:id="l1471">Resvez-je point icy ? suis-je bien éveillée ?</l>
@@ -2425,6 +2504,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>Scène 2</head>
           <sp xml:id="V02-1" who="flore">
             <l n="1491" xml:id="l1491">Acaste est-il bien vray ce que je viens d’entendre ?</l>
           </sp>
@@ -2567,6 +2647,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>Scène 3</head>
           <pb n="104" xml:id="p104"/>
           <sp xml:id="V03-1" who="acaste">
             <l n="1561" xml:id="l1561">Mais encore sur quoy se veut-elle fonder ?</l>
@@ -2600,6 +2681,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>Scène 4</head>
           <sp xml:id="V04-1" who="philipin">
             <l n="1585" xml:id="l1585" part="I">J’ay des lettres, Monsieur,</l>
           </sp>
@@ -2717,6 +2799,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>Scène 5</head>
           <pb n="110" xml:id="p110"/>
           <sp xml:id="V05-1" who="philipin">
             <l part="F">Monsieur bonne nouvelle,</l>
@@ -2816,6 +2899,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>Scène 6</head>
           <sp xml:id="V06-1" who="philipin">
             <l n="1693" xml:id="l1693">Les cheveaux seront prests, et vous pourrez sortir</l>
             <l n="1694" xml:id="l1694" part="I">Dès la pointe du jour.</l>
@@ -2868,6 +2952,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>Scène 7</head>
           <sp xml:id="V07-1" who="philipin">
             <l part="F">Un certain homme en bas</l>
             <l n="1718" xml:id="l1718" part="I">Vous demande.</l>
@@ -2887,6 +2972,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>Scène 8</head>
           <sp xml:id="V08-1" who="pamphile">
             <l n="1722" xml:id="l1722">Monsieur, je viens icy par le commandement</l>
             <l n="1723" xml:id="l1723" part="I">De Madame Angelique.</l>
@@ -2945,6 +3031,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V09">
+          <head>Scène 9 et dernière</head>
           <sp xml:id="V09-1" who="arimant">
             <l n="1739" xml:id="l1739">Flore icy, justes Dieux! cela ne peut pas estre.</l>
           </sp>

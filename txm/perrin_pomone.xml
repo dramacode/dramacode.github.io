@@ -1,9 +1,60 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pomone, pastorale en musique</title>
+        <author key="Perrin, Pierre (1620?-1675)">Pierre Perrin</author>
+        <author key="Cambert, Robert (1627-1677)">Robert Cambert</author>
+        <principal>Georges Forestier</principal>
+        <editor>Pauline Schill</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Pauline Schill dans le cadre d'un mémoire de
+          maîtrise sous la direction de Georges Forestier (2010-2011)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2016"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/perrin_pomone/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/perrin_pomone.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/perrin_pomone.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/perrin_pomone.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/perrin_pomone.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1671"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="show" type="genre">Pastorale en musique</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-      <div xml:id="personnages"/>
-      <div/>
+      <head>Premier opera<lb/>Pomone.</head>
+      <div xml:id="personnages">
+        <head>[PERSONNAGES.]</head>
+      </div>
       <div>
+        <head>Premiere ouverture.</head>
+      </div>
+      <div>
+        <head>Prologue<lb/>a la louange du roy.</head>
         <sp who="lanymphedelaseine">
           <l n="1" xml:id="l1">Toy qui vis autrefois le Fleuve des Romains</l>
           <l n="2" xml:id="l2">Triompher des humains,</l>
@@ -74,9 +125,14 @@
           <l n="37" xml:id="l37">De nos Chants.</l>
         </sp>
       </div>
-      <div/>
+      <div>
+        <head>Seconde ouverture</head>
+        <head type="sub"><hi rend="i">Gayement</hi>. [ <hi rend="i">Doux</hi> sur la dernière partie]</head>
+      </div>
       <div type="act">
+        <head>[Acte I .]</head>
         <div type="scene">
+          <head>[Scene première]</head>
           <sp who="pomone">
             <l n="38" xml:id="l38">Passons nos jours</l>
             <l n="39" xml:id="l39">Dans ces vergers,</l>
@@ -154,6 +210,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>[Scene deuxièsme]</head>
           <sp who="flore">
             <l n="86" xml:id="l86">Ah ! ma Sœur, à quoy penses-tu,</l>
             <l n="87" xml:id="l87">Veux tu bannir de ton empire,</l>
@@ -207,6 +264,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>[Scene troisiesme]</head>
           <sp who="dieudesjardins">
             <l n="105" xml:id="l105">Soulage donc les flames du grand Dieu des Jardins.</l>
             <l n="106" xml:id="l106">De plaisirs eternels il sçait remplir les ames,</l>
@@ -221,6 +279,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>[Scene quatriesme]</head>
           <sp who="faune">
             <l n="115" xml:id="l115">C’est bien à toy, Dieu miserable,</l>
             <l n="116" xml:id="l116">De pretendre à tes maux quelque soulagement ;</l>
@@ -338,6 +397,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>[Scene cinquiesme]</head>
           <sp who="dieudesjardins">
             <l n="162" xml:id="l162" part="I">Donnez-luy vostre main,</l>
           </sp>
@@ -371,6 +431,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>[Scene sixiesme]</head>
           <sp who="faune">
             <l n="172" xml:id="l172">Voila le prix de vos Musiques,</l>
             <l n="173" xml:id="l173">Et ce que meritent vos Chans?</l>
@@ -393,6 +454,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>[Scene septiesme]</head>
           <sp who="vertumne">
             <l n="181" xml:id="l181">Helas ! Que me sert-il de changer tous les jours</l>
             <l n="182" xml:id="l182">De forme et de figure,</l>
@@ -417,7 +479,9 @@
         </div>
       </div>
       <div type="act">
+        <head>Acte second.</head>
         <div type="scene">
+          <head>[Scene première]</head>
           <sp who="beroe">
             <l n="197" xml:id="l197">Ah! N’est-ce pas assez qu’on ayme et qu’on soûpire,</l>
             <l n="198" xml:id="l198">Pendant le cours de sa jeune saison?</l>
@@ -433,6 +497,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>[Scene deuxiesme]</head>
           <sp who="vertumne">
             <l n="208" xml:id="l208">O Doux Zephir vous enflammez la terre par vos soûpirs,</l>
             <l n="209" xml:id="l209">Et de vos pleurs,</l>
@@ -449,6 +514,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>[Scene troisiesme]</head>
           <sp who="beroe">
             <l n="220" xml:id="l220">Quoy? Toûjours inflexible,</l>
             <l n="221" xml:id="l221">Toûjours sourd à mes vœux,</l>
@@ -474,6 +540,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>[Scene quatriesme]</head>
           <sp who="beroe">
             <l n="230" xml:id="l230">Que voyez-vous mes yeux,</l>
             <l n="231" xml:id="l231">Quel Dragon furieux ;</l>
@@ -489,6 +556,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>[Scene cinquiesme]</head>
           <l n="241" xml:id="l241">Mais quel éclair, quel horrible tonnerre,</l>
           <l n="242" xml:id="l242">Quel tremblement de terre ?</l>
           <l n="243" xml:id="l243">Quels fantosmes affreux et quelles visions ?</l>

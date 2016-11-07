@@ -1,7 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Turne de Virgile. Tragédie.</title>
+        <author key="Brosse">La Brosse</author>
+        <principal>Georges Forestier</principal>
+        <editor>Aurélia Pouch</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Aurélia Pouch dans le cadre d'un mémoire de
+      master 1 sous la direction de Georges Forestier (2007-2008)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/brosse_turne-virgile/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/brosse_turne-virgile.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/brosse_turne-virgile.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/brosse_turne-virgile.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/brosse_turne-virgile.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1647"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LE TURNE DE VIRGILE. <lb/>TRAGEDIE.</head>
       <div type="dedication" xml:id="epitre">
+        <head>EPISTRE<lb/>A <lb/>TRES-HAUT<lb/>ET<lb/>TRES-PUISSANT<lb/>SEIGNEUR<lb/><hi rend="i">MESSIRE FRANCOIS DE Rochefort Marquis de la Boulais, Baron de Chastillon, Chailly, Aussé, Chitry, Corbellin, S. More, Gouverneur des villes d’Avalon, Vezelay, etc.</hi></head>
         <p>MONSEIGNEUR,</p>
         <p>Je fais aujourd’huy de la fable ancienne une verité moderne ; il est croyable que Promethée fût amoureux du feu celeste, et que la crainte d’en estre brûlé ne <space/>l’empescha pas de le ravir. Puis qu’au <ref target="#hasard2">hazard*</ref> d’estre esblouy et mesme aveuglé de l’Eclat de votre condition ; je n’ay pû négliger dans la <ref target="#passion3">passion*</ref> que j’avois d’estre connu de vous, un moyen qui m’a semblé utile pour m’en approcher. Virgile ayant esté autrefois bien veu d’Auguste, je me suis persuadé qu’estant tel en toutes vos actions, vous ne dedaigneriez pas de me regarder, si pour me presenter à vous, je marchois sur les pas de ce grand Genie. Je ne vante point le <ref target="#merite">merite</ref> du Heros dont le nom sert de titre à mon Poëme, pour recommander aprés ceux de vostre race, en les comparant à luy. Cette façon de loüer est trop ravalée, et bien qu’elle soit aujourd’huy des plus ordinaires, je pense avoir raison de la mépriser, ayant à parler d’une maison dont les avantages ne le furent jamais. Quand Turne auroit esté cent fois plus <ref target="#genereux2">genereux*</ref>, je ferois beaucoup pour sa gloire si je le comparois aux Heros de votre illustre famille, et non pas eux à luy. Et quand Ænée auroit esté infiniment plus Religieux, ce seroit sans luy faire tort, que je maintiendrois qu’il l’auroit toujours esté infiniment moins que vous. J’en ay trop dit, en ayant trop à dire, un mauvais nageur s’avançe tousjours trop en Mer pour peu qu’il s’esloigne du rivage. J’adjouste que l’Echo qui ne respond pas à la voix du Tonnerre, m’apprend que je ne puis parler assez sobrement de ce qui est inconçevablement au dessus de moy. Je m’impose donc silence, et contraignant en cette <ref target="#occasion2">occasion*</ref> ma langue et ma plume ; je ne permets au plus à l’une, que de vous supplier de m’<ref target="#avouer2">avoüer*</ref> dans l’offre que je vous fais d’un de mes travaux : Et à l’autre, de-signer aprés cét aveu, que je suis.</p>
         <p>MONSEIGNEUR.</p>
@@ -9,12 +59,17 @@
         <p rend="right">LA BROSSE.</p>
       </div>
       <div xml:id="au-lecteur" type="set">
+        <head>AU LECTEUR.</head>
         <p>Remarque s’il te plaist qu’au poinct* que les Latins excitez par la harangue de Juturne, chargent les Troyens ; on doit abaisser une toile, derriere laquelle ils se battent avec quelque bruit d’armes. Cette observation devoit estre mise en marge, sur la fin du troisiesme Acte ; mais l’imprimeur l’ayant obmise, j’ai bien voulu la placer icy, afin de prevenir ta censure qui m’auroit pû reprendre d’ensanglanter la Scéne, et d’imiter hors de temps les rudes spectacles des Colleges. Je n’ay plus rien à te faire remarquer, si ce n’est quelques fautes survenuës à l’impression, dont voicy les plus importantes.</p>
       </div>
-      <div xml:id="acteurs" type="set"/>
+      <div xml:id="acteurs" type="set">
+        <head>LES ACTEURS.</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE I.</head>
         <div type="scene" xml:id="I01">
           <pb n="A"/>
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="latinus">
             <l n="1" xml:id="l1">Nous esperons en vain de <ref target="#surmonter">surmonter*</ref> Ænée,</l>
             <l n="2" xml:id="l2">Rien ne peut arrester sa bonne <ref target="#destin1">destinée*</ref>,</l>
@@ -141,6 +196,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp xml:id="I02-1" who="turne">
             <l n="103" xml:id="l103">HEroiques <ref target="#transport">transports*</ref>, <ref target="#genereux2">genereux*</ref> <ref target="#mouvemens2">mouvemens*</ref>,</l>
             <l n="104" xml:id="l104">Qu’un amour legitime inspire aux vrais Amans,</l>
@@ -179,6 +235,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III</head>
           <sp xml:id="I03-1" who="amata">
             <l n="137" xml:id="l137">Saisie esgalement de crainte et de colere</l>
             <l n="138" xml:id="l138">Turne je viens blasmer vostre <ref target="#vertu1">vertu*</ref> severe,</l>
@@ -253,6 +310,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV</head>
           <sp xml:id="I04-1" who="lavinie">
             <l n="193" xml:id="l193" part="I">Arrestez.</l>
           </sp>
@@ -384,6 +442,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V</head>
           <sp xml:id="I05-1" who="latinus">
             <l n="277" xml:id="l277">Turne que faites-vous ? quelle indigne foiblesse</l>
             <l n="278" xml:id="l278">Vous fait icy commettre un acte qui me blesse ?</l>
@@ -436,7 +495,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="II01-1" who="lavinie">
             <l n="305" xml:id="l305">DEREGLES <ref target="#mouvemens1">mouvemens*</ref>, d’un <ref target="#coeur3">cœur*</ref> qui desespere,<pb n="19"/></l>
             <l n="306" xml:id="l306">Espargnez mon Amant, et respectez mon Pere,</l>
@@ -502,6 +563,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II</head>
           <sp xml:id="II02-1" who="sidon">
             <l part="F">Une belle nouvelle.</l>
           </sp>
@@ -589,6 +651,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III</head>
           <sp xml:id="II03-1" who="amata">
             <l n="433" xml:id="l433">Mes filles, je vous viens confirmer dans la joye<pb n="26"/></l>
             <l n="434" xml:id="l434">Une insigne faveur que le Ciel nous octroye,</l>
@@ -643,6 +706,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV</head>
           <sp xml:id="II04-1" who="turne">
             <l n="473" xml:id="l473">Il faut auparavant que ce bon-heur insigne,</l>
             <l n="474" xml:id="l474">Satisfasse un esprit qui s’en confesse indigne,</l>
@@ -727,6 +791,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V</head>
           <sp xml:id="II05-1" who="lavinie">
             <l n="533" xml:id="l533">Allez cruel, allez, mocquez vous de mes craintes,<pb n="32"/></l>
             <l n="534" xml:id="l534">Fermez l’œil à mes pleurs et l’oreille à mes plaintes,</l>
@@ -759,6 +824,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI</head>
           <sp xml:id="II06-1" who="latinus">
             <l n="561" xml:id="l561">Ne vous hastez pas tant, il n’est pas necessaire</l>
             <l n="562" xml:id="l562">De s’empresser si fort alors qu’on veut mal faire.</l>
@@ -797,6 +863,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE VII</head>
           <sp xml:id="II07-1" who="juturne">
             <l n="585" xml:id="l585">Sidon, approche, écoute, auras tu le <ref target="#courage2">courage*</ref></l>
             <l n="586" xml:id="l586"> De m’ayder à calmer ce violent orage,</l>
@@ -814,7 +881,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>ACTE III</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="III01-1" who="acate">
             <l n="593" xml:id="l593">QUOY Seigneur, <ref target="#hasarder">hazarder*</ref> une si belle vie !<pb n="36"/></l>
           </sp>
@@ -847,6 +916,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II</head>
           <sp xml:id="III02-1" who="enee">
             <l n="613" xml:id="l613">APres mille <ref target="#travaux">travaux*</ref>, dont la seule memoire<pb n="38"/></l>
             <l n="614" xml:id="l614">Espouvantera ceux qui liront mon histoire,</l>
@@ -899,6 +969,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III</head>
           <sp xml:id="III03-1" who="acate">
             <l n="661" xml:id="l661">Seigneur, les assiegez sont sortis de la Ville,</l>
             <l n="662" xml:id="l662">Et leur abord doit estre, aussi prompt que facile.</l>
@@ -997,6 +1068,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV</head>
           <sp xml:id="III04-1" who="latinus">
             <l n="741" xml:id="l741">Doncques voicy l’endroit, où le <ref target="#sort2">sort*</ref> de deux hommes</l>
             <l n="742" xml:id="l742">Doit establir celuy de tous tant que nous sommes,</l>
@@ -1105,6 +1177,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V</head>
           <sp xml:id="III05-1" who="juturne">
             <l n="825" xml:id="l825">Barbares <ref target="#genereux2">genereux*</ref>, <ref target="#courage1">courages*</ref> sanguinaires,<pb n="G, 49"/></l>
             <l n="826" xml:id="l826">Ambitieux Rivaux, illustres adversaires,</l>
@@ -1186,7 +1259,9 @@
         </div>
       </div>
       <div xml:id="IV" type="act">
+        <head>ACTE IV</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="IV01-1" who="turne">
             <l n="889" xml:id="l889">OUY, Madame, nos mains noblement occupées,<pb n="53"/></l>
             <l n="890" xml:id="l890">Pour accourcir nos jours, alongeoient nos espées,</l>
@@ -1331,6 +1406,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II</head>
           <sp xml:id="IV02-1" who="tyrene">
             <l n="1007" xml:id="l1007">PRéparez vous Madame à recevoir un coup,</l>
             <l n="1008" xml:id="l1008">Qui doit ou vous abatre, ou vous blesser beaucoup.</l>
@@ -1377,6 +1453,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III</head>
           <sp xml:id="IV03-1" who="lavinie">
             <l n="1045" xml:id="l1045">Amour, c’est trop long temps parler en sa deffense,</l>
             <l n="1046" xml:id="l1046">Mon devoir t’interrompt et t’impose silence.</l>
@@ -1505,6 +1582,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV</head>
           <sp xml:id="IV04-1" who="latinus">
             <l n="1153" xml:id="l1153" part="I">Ænée est <ref target="#genereux1">genereux*</ref>.</l>
           </sp>
@@ -1590,6 +1668,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V</head>
           <sp xml:id="IV05-1" who="lavinie">
             <l n="1225" xml:id="l1225">Madame, qui luy peut envoyer cette lettre ?<pb n="70"/></l>
           </sp>
@@ -1656,7 +1735,9 @@
         </div>
       </div>
       <div xml:id="V" type="act">
+        <head>ACTE V</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="V01-1" who="amata">
             <l n="1267" xml:id="l1267">SIDON raconte nous cette triste avanture,<pb n="K, 73"/></l>
             <l n="1268" xml:id="l1268">Ne tient pas plus long temps nos <ref target="#coeur3">cœurs*</ref> à la torture,</l>
@@ -1775,6 +1856,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II</head>
           <sp xml:id="V02-1" who="amata">
             <l n="1343" xml:id="l1343">EStourdis du tonnerre, et frappez de la foudre,</l>
             <l n="1344" xml:id="l1344">A quoy nos deux esprits pourront-ils se resoudre,</l>
@@ -1811,6 +1893,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III</head>
           <sp xml:id="V03-1" who="latinus">
             <l n="1369" xml:id="l1369">LE Démon des Troyens, reste victorieux,</l>
             <l n="1370" xml:id="l1370">Turne est chargé de honte, Ænée est glorieux.</l>
@@ -1957,6 +2040,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV</head>
           <sp xml:id="V04-1" who="enee">
             <l n="1469" xml:id="l1469">Il falloit pour venir adorer vos beautez,<pb n="86"/></l>
             <l n="1470" xml:id="l1470">Dompter les flots des mers, et je les ay domptez,</l>
@@ -2011,6 +2095,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V</head>
           <sp xml:id="V05-1" who="sidon">
             <l n="1505" xml:id="l1505">SIre, Turne demande une faveur de vous.</l>
           </sp>
@@ -2044,6 +2129,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI</head>
           <sp xml:id="V06-1" who="latinus">
             <l n="1521" xml:id="l1521">Lavinie il est temps d’écouter la raison,<pb n="90"/></l>
             <l n="1522" xml:id="l1522">Vos premiers <ref target="#mouvemens2">mouvements*</ref> ne sont plus de saison ;</l>
@@ -2071,6 +2157,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE DERNIERE</head>
           <sp xml:id="V07-1" who="turne">
             <l n="1535" xml:id="l1535">QUe la parque à son gré tranche ma <ref target="#destin3">destinée*</ref>,</l>
             <l n="1536" xml:id="l1536">Que ce soit aujourd’huy ma derniere journée,</l>
@@ -2193,6 +2280,7 @@
         </div>
       </div>
       <div xml:id="privilege" type="appendix">
+        <head>PERMISION.</head>
         <p>Il est permis à la vefve Nicolas de Sercy, d’imprimer ou faire imprimer, la Tragedie, <hi rend="i">Intitulée le Turne, de Virgile</hi>, par le Sieur de la Brosse, fait ce II. Aoust.1646.</p>
         <p rend="center">Fautes survenuës à l’impression.</p>
         <p>Act. 2. Sc. I. vers 14. belles, lisez nobles. Sc. 2. vers I. belle, lisez bonne. Vers 21, en, lisez est. Sc. 3. vers 36. sa. lisez la. Sc 4. vers 44. son sang, lisez le Ciel. Acte 3. Sc. 2. vers 43. respects, lisez motifs. Sc. 3. vers. 30. mon lisez le. Sc. 4. vers 33. ardeur lisez d’abord. Acte IV. Sc. 1. ce lisez le.</p>

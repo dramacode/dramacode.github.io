@@ -1,8 +1,60 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/css" href="../teibook/teibook.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Germanicus. Tragédie</title>
+        <author key="Boursault, Edme (1638-1701)">Edme Boursault</author>
+        <principal>Georges Forestier</principal>
+        <editor>Florence Maine</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Florence Maine sous la direction de Georges Forestier (2001)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/boursault_germanicus/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boursault_germanicus.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boursault_germanicus.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boursault_germanicus.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boursault_germanicus.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1694"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div type="set">
+        <head type="main">GERMANICUS.</head>
+        <head type="sub">
+          <hi rend="i">TRAGEDIE.</hi>
+        </head>
         <div>
+          <head><hi rend="b">EPITRE A SON EMINENCE MONSEIGNEUR LE CARDINAL DE BONZI, ACHEVESQUE DE NARBONNE</hi>, Commandeur des Ordres du Roy, Grand Aumônier de la Reine, President Né des Estats de Languedoc, etc;</head>
           <p><hi rend="i">Monseigneur, Le Grand Cardinal de Richelieu, dont la Memoire ne durera pas moins que le Monde ; Ce Minstre infatigable dont Vous avez le Coeur &amp; l’Esprit, la Generosité &amp; les Lumieres, aprés avoir donné ses soins à regler les Affaires de l’Europe, accordoit souvent le reste de ses momens à la conversation des Muses ; &amp; quand par respect elles n’osoient s’élever jusques à luy, sa bonté le faisoit descendre jusques à Elles. VÔTRE EMINENCE qui marche sur les pas de ce grand Homme, &amp; qui rempliroit les mêmes Emplois avec une égale Capacité, ne l’imiteroit pas entierement si Elle ne reparoit la perte que firent ces Filles du Ciel, en leur accordant un semblable Protecteur. Elles ne voyent que Vous, MONSEIGNEUR, qui puisse leur tenir lieu de ce qu’elles ont perdu : &amp; sur quelque Merite qu’elles jettent leurs regards le Vôtre est le Seul qui ressemble parfaitement à celuy dont le souvenir est si cher. Zelé pour Vôtre Roy comme il l’estoit pour le sien, Vous faites Vôtre plus sensible plaisir de ce qui peut contribuer à sa Gloire ; &amp; Vous ne trouvez vos soins utilement employez que lorsqu’il sont fructueux à son Estat. Vous avez esté de si bonne heure capable de si grandes choses que les Negociations les plus importantes, qui ordinairement sont le partage de la Vieillesse, Vous ont esté confiées dans l’âge le plus florissant : Et Vous Vous en estes si glorieusement acquité que dès vos premiers pas la Pourpre fut le prix de Vôtre Merite. Une Puissance Etrangere, pour reconnoistre les Obligations qu’elle Vous avoit, déroba, si j’ose me servir de ce terme, au Roy que Vous aviez l’honneur de representer le plaisir de Vous élever Luy-même à l’éminente Place ou Vous estes ; Et comme une si haute Dignité ne se donne qu’une fois, la Pologne prévoyant qu’elle Vous estoit infaillible, eut peur d’estre prévenuë si elle ne se hastoit d’executer ce que la France méditoit de faire. S’il est vray, MONSEIGNEUR, comme l’a soûtenu un Ancien, qu’un honneste homme aux prises avec la Fortune soit un Spectacle digne de l’attention des Dieux, c’en est un incomparablement plus beau que deux Rois en concurrence à qui rendra le plus de Justice à la Vertu : Et je ne conçois rien de plus grand que d’estre l’Object de la Reconnaissance de deux Monarques. La France &amp; la Pologne sont également d’accord que leurs Souverains ne pouvoient honorer de leur Estime un Homme à qui elle fût mieux duë ; &amp; que par quelque endroit qu’on regarde VÔTRE EMINENCE il n’y en a point qui ne luy soit glorieux. Si Elle avoit besoin d’emprunter de l’éclat de sa Naissance, la Toscane seule luy fourniroit des Titres de plus de six cents Ans de Noblesse confirmée ; &amp; peut-estre aurait-on de la peine à trouver dans tout le reste de l’Italie une Maison qui tire son origine de si loin. Mais, MONSEIGNEUR, quelque Illustre qu’ait esté &amp; que soit encore vôtre Race, Vôtre Nom n’a besoin que de vous seul pour atteindre les Siécles les plus reculez : Et quoi-que Vos Ayeux ayent fait de considerable leur plus solide Gloire est de vous avoir donné le Jour. Ils sont la Source d’où l’on peut dire qu’est sorty un Fleuve dont les Eaux, semblables à celles du Nil, inondent les Campagnes pour les rendre plus fertiles, &amp; s’attirent les Benedictions de tous les Climats qu’elles ont l’indulgence d’arroser. Voilà, MONSEIGNEUR, ce que fait tous les jours VÔTRE EMINENCE  : Elle ne passe en aucun lieu où Elle ne laisse des marques de son passage ; &amp; par tout où Elle se rencontre les Pauvres, qui sont representez par la Terre Aride, trouvent du soulagement à leur Misere, &amp; Vous comblent de Benedictions. Je prens la Verité à témoin qu’il ne m’échape icy aucun mot qu’elle n’ait soin de me dicter elle-même : Germanicus, dont Tacite fait un Portrait si beau, sort d’un sang trop Auguste pour descendre à la flâterie ; &amp; si j’ose Vous le Dedier c’est, MONSEIGNEUR, que j’ay crû ne devoir Offrir l’un des plus grands Heros de l’ancienne Rome qu’à l’un des plus grands Hommes de la nouvelle. L’Accueil qu’on luy a fait hors de son Païs luy a esté assez avantageux pour avoir lieu de croire que sa Patrie ne luy sera pas moins favorable ; &amp; que VÔTRE EMINENCE accordera sa Protection à un Prince qui eut l’honneur de naître dans la Pourpre dans la même Ville où Vous avez esté revêtu. Ayez la bonté, MONSEIGNEUR, de ne pas luy refuser cette Grace ; ny à moy celle d’estre avec un profond Respect</hi>,</p>
           <p rend="right"><hi rend="i">MONSEIGNEUR</hi>,</p>
           <p rend="right">DE VÔTRE EMINENCE, </p>
@@ -10,13 +62,20 @@
           <p rend="right">BOURSAULT.</p>
         </div>
         <div>
+          <head>
+            <hi rend="b">AVIS</hi>
+          </head>
           <p>Cette Tragedie mit mal ensemble les deux premiers Hommes de nôtre Temps pour la Poësie : je parle du celebre Monsieur de Corneille &amp; de l’illustre Monsieur Racine, qui disputoient tout-deux de Merite ; &amp; qui ne trouvent personne qui en dispute avec eux. Mr. de Corneille parla si avantageusement de cet Ouvrage à l’Académie qu’il luy échapa de dire qu’il ne luy manquoit que le Nom de Mr. Racine pour estre achevé, dont Mr. Racine s’étant offensé ils en vinrent à des paroles piquantes ; &amp; depuis ce moment-là ils ont toûjours vécu, non pas sans estime l’un pour l’autre, cela estoit impossible, mais sans amitié. Je cite cet endroit avec plaisir, parce qu’il m’est extrémement glorieux. Trouver Germanicus digne d’un aussi grand Nom que celuy de Mr. Racine, c’est en peu de mots en dire beaucoup de bien : Et que ce témoignage ait esté rendu par un Homme aussi fameux que Mr. de Corneille, c’est le plus grand honneur que je pûsse recevoir. Le Lecteur jugera, s’il luy plaist, qui des deux eut le plus de raison ; l’un de dire ce qu’il dit, ou l’autre de s’en offenser.</p>
         </div>
-        <div/>
+        <div>
+          <head>PERSONNAGES</head>
+        </div>
       </div>
       <div type="act" xml:id="I">
         <pb n="1"/>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp who="livie" xml:id="I01-1">
             <l n="1" xml:id="l1">Ma soeur... Mais je m’<ref target="#oublier">oublie*</ref>, &amp; je perds le <ref target="#respect">respect*</ref>,</l>
             <l n="2" xml:id="l2">Ce nom, qui m’estoit cher, vous doit estre suspect,</l>
@@ -113,6 +172,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp who="flavie" xml:id="I02-1">
             <l n="83" part="I" xml:id="l83">Le prince vient.</l>
           </sp>
@@ -210,6 +270,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <sp who="flavie" xml:id="I03-1">
             <l n="155" xml:id="l155">A vos souhaits, Madame, il a daigné se rendre.</l>
           </sp>
@@ -272,6 +333,7 @@
         </div>
         <div type="scene" xml:id="I04">
           <pb n="9"/>
+          <head>SCENE IV.</head>
           <sp who="agripine" xml:id="I04-1">
             <l n="192" xml:id="l192">Que venez-vous de me dire, &amp; qu’ay-je lieu d’attendre ?</l>
             <l n="193" part="I" xml:id="l193">Cher Pison.</l>
@@ -576,7 +638,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="18"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp who="agripine" xml:id="II01-1">
             <l n="411" xml:id="l411">Mon amour te retient, &amp; mon devoir te chasse.</l>
             <l n="412" xml:id="l412">Obeïs au devoir, retire-toy de grace.</l>
@@ -708,6 +772,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="22"/>
+          <head>SCENE II.</head>
           <sp who="agripine" xml:id="II02-1">
             <l n="503" xml:id="l503">D’où me vient ce desordre, &amp; pourquoy suis-je émeuë ?</l>
             <l n="504" xml:id="l504">Pourquoy ? Fuis pour jamais cette fatale veuë :</l>
@@ -722,6 +787,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp who="agripine" xml:id="II03-1">
             <l part="F">Quelle surprise est égale à la mienne ?</l>
             <l n="513" part="I" xml:id="l513">C’est Pison !</l>
@@ -872,6 +938,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="27"/>
+          <head>SCENE IV.</head>
           <sp who="agripine" xml:id="II04-1">
             <l n="611" xml:id="l611">Enfin, Prince, vostre ame a lieu d’estre contente :</l>
             <l n="612" xml:id="l612">Vos illustres exploits ont rempli nostre attente :</l>
@@ -1091,6 +1158,7 @@
         </div>
         <div type="scene" xml:id="II05">
           <pb n="33"/>
+          <head>SCENE V.</head>
           <sp who="flavie" xml:id="II05-1">
             <l part="M">Madame...</l>
           </sp>
@@ -1129,7 +1197,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="35"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp who="flavie" xml:id="III01-1">
             <l n="791" xml:id="l791">Dans vostre Appartement le Prince va se rendre ;</l>
             <l n="792" xml:id="l792">J’ay devancé ses pas pour venir vous l’apprendre.</l>
@@ -1162,6 +1232,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp who="drusus" xml:id="III02-1">
             <l n="815" xml:id="l815">Si j’en crois un grand <ref target="#bruit">bruit*</ref> qui se vient de répandre,</l>
             <l n="816" xml:id="l816">Mon Rival est dans Rome, ou du moins s’y va rendre.</l>
@@ -1263,6 +1334,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp who="livie" xml:id="III03-1">
             <l part="F">Seigneur, vous auriez quelque peine</l>
             <l n="892" xml:id="l892">A vous imaginer le <ref target="#sujet">sujet*</ref> qui m’ameine.</l>
@@ -1516,6 +1588,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp who="agripine" xml:id="III04-1">
             <l n="1104" xml:id="l1104">Seigneur, je vous apporte une grande nouvelle.</l>
             <l n="1105" xml:id="l1105">Je perds Germanicus, &amp; le perds à regret ;</l>
@@ -1579,6 +1652,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp who="agripine" xml:id="III05-1">
             <l n="1151" xml:id="l1151">Hé bien, Flavie, hé bien, seras-tu satisfaite ?</l>
             <l n="1152" xml:id="l1152">Trouves-tu maintenant ma victoire imparfaite ?</l>
@@ -1629,7 +1703,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="50"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp who="pison" xml:id="IV01-1">
             <l n="1191" xml:id="l1191">Madame, pardonnez à mon impatience ;</l>
             <l n="1192" xml:id="l1192">J’ay besoin en secret d’un moment d’<ref target="#audience">audience*</ref> :</l>
@@ -1770,6 +1846,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II.</head>
           <sp who="germanicus" xml:id="IV02-1">
             <l n="1303" xml:id="l1303">Je ne sçay de quel oeil vous verrez un coupable,</l>
             <l n="1304" xml:id="l1304">Dont l’amour violent rend le crime excusable :</l>
@@ -2051,7 +2128,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="63"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp who="agripine" xml:id="V01-1">
             <l n="1543" xml:id="l1543">Vient-elle ? l’as-tu vûë ? &amp; puis-je me promettre</l>
             <l n="1544" xml:id="l1544">Qu’au dangereux Pison elle ait rendu ma lettre ?</l>
@@ -2087,6 +2166,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp who="agripine" xml:id="V02-1">
             <l n="1574" xml:id="l1574">Helas ! Flavie, helas ! que tu m’as mise en peine !</l>
             <l n="1575" xml:id="l1575">Des malheurs que je crains viens me rendre certaine.</l>
@@ -2251,6 +2331,7 @@
         </div>
         <div type="scene" xml:id="V03">
           <pb n="69"/>
+          <head>SCENE III.</head>
           <sp who="agripine" xml:id="V03-1">
             <l part="F">Hé bien, Albin, ce que j’aimois est mort ?</l>
             <l n="1701" part="I" xml:id="l1701">Germanicus...</l>
@@ -2398,6 +2479,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE DERNIERE.</head>
           <sp who="agripine" xml:id="V04-1">
             <l n="1818" xml:id="l1818">Ou venez-vous, Seigneur, &amp; quelle est vostre envie ?</l>
             <l n="1819" xml:id="l1819">L’infortuné Pison vient de perdre la vie :</l>
@@ -2474,6 +2556,7 @@
         </div>
       </div>
       <div>
+        <head>Extrait du Privilege du Roy.</head>
         <p>Par Lettres Patentes du Roy, données à Paris le deuxiéme jour de Decembre 1690, Signé BOUCHER ; Il est permis au Sieur BOURSAULT, de faire imprimer par tel Libraire ou Imprimeur qu’il voudra choisir, une Piece de sa composition intitulée <hi rend="i">Germanicus, Tragedie</hi>, pendant le temps &amp; espace de huit années, à compter du jour qu’elle sera achevée d’imprimer :    Avec    défenses à tous Libraires, Imprimeurs &amp; autres, d’imprimer, faire imprimer, vendre ni debiter ladite Tragedie sous quelque pretexte que ce soit, même d’impression étrangere sans le consentement dudit Exposant ou de ses ayant cause, à peine de confiscation des exemplaires contrefaits, de trois mille livres d’amende, &amp; de tous dépens, dommages &amp; interests, ainsi qu’il est plus au long porté par lesdites Lettres.</p>
         <p rend="i">Registré sur le Livre de la Communauté des Libraires &amp; Imprimeurs de Paris, le 27 Mars 1691. </p>
         <p><hi rend="i">Signé</hi>, AUBOUYN.</p>

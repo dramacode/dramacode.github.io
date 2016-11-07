@@ -1,7 +1,53 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Agrippa ou le Faux Tiberinus</title>
+        <author key="Quinault, Philippe (1635-1688)">Philippe Quinault</author>
+        <principal>Georges Forestier</principal>
+        <editor>Krysia Roginski</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Krysia Roginski dans le cadre d'un mémoire de
+          master 1 sous la direction de Georges Forestier (1999)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/quinault_agrippa/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/quinault_agrippa.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/quinault_agrippa.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/quinault_agrippa.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/quinault_agrippa.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1663"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="show" type="genre"/>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>Agrippa<lb/>Roy d’Albe<lb/>Ou le Faux<lb/>Tiberinus</head>
       <div>
+        <head>Epistre<lb/>Au Roy.</head>
         <p>Sire,</p>
         <p>Il y avait lieu de croire que mon Ambition devoit estre entièrement satisfaite, de l’agréement avec lequel cette Piece a esté receue de vostre majeste. Aprés une grace si considerable, je Luy pouvois en effet espargner la fatigue d’une Epistre ; &amp; l’avantage d’avoir sçeu Luy plaire ; estoit un honneur assez grand, sans chercher encore un nouveau moyen de l’accroistre. Cét emportement est une foiblesse naturelle aux habitans du Parnasse ; &amp; comme la gloire est souvent l’unique fruict qu’ils recueillent de ce Pays sterile, il leur est pardon- nable d’en desirer quelquesfois avec un peu trop d’ardeur. On s’imagi- nera, peut-estre, que je devois estre exempt de ce defaut, parce que j’ay le bon-heur d’approcher la Personne Auguste du plus accomply de tous les Monarques, &amp; d’y voir briller de prés ces Vertus éclatantes qui font aujourd’huy l’admiration de toute la Terre : mais qui ne sçait point, SIRE, que lors qu’il s’agit de gloire, ce n’est pas en VOSTRE MAJESTE que l’on peut trouver des Exemples de moderation ? Cét excés n’est pas de ceux dont Elle se veut deffendre, &amp; c’est proprement là dessus qu’Elle est la plus difficile du monde à contenter. La fin de la Guerre n’a pû devenir la fin de ses Conquestes. La Paix n’a sçeu L’empescher d’en faire de nouvelles, &amp; qui Luy sont d’autant plus glorieuses, qu’elles n’ont pas cousté une seule goutte de sang à ses Subjets, &amp; qu’Elle n’en doit rien qu’à Elle-mesme. A dire vray, SIRE, à moins que d’estre comme nous sommes, les tesmoins de tant de Merveilles, y auroit-il apparence de les pouvoir croire ? Ne pourrions-nous pas avoir bien de la peine à nous persuader, qu’à vingt-quatre ans VOSTRE MAJESTE n’ait pas esté moins redoutable dans son cabinet, qu’à la teste de ses Armées ? Qu’Elle ait sçeu joindre des choses aussi peu compatibles que la Jeunesse florissante, &amp; la Prudence  consommée ? Qu’Elle ait eu des Qualitez que l’on n’acquiert que par la perte des plus belles années, dans un âge qui n’est d’ordinaire que pour les plaisirs ? Enfin qu’Elle ait trouvé l’Art de rassembler en Elle seule tous les Avantages que le Ciel a accoustumé de separer dans le reste des hommes ? Il n’y a pas, SIRE, jusques aux secrets des belles Lettres, où les Lumieres de VOSTRE MAJESTE ne s’estendent ; Elles n’ont pas desdaigné de m’esclairer dans la conduite de cét Ouvrage, &amp; je suis obligé de confesser qu’Elles sont la source de ce que l’on y a trouvé de plus brillant. Cette inclination que VOSTRE MAJESTE témoigne pour les Muses, n’avoit garde de Luy manquer, puisque c’est de tout temps la passion des Heros. Les vers d’Homere furent autresfois les Delices du Vainqueur de l’Asie au milieu de ses triomphes ; &amp; les Comedies de Terence receurent leurs derniers traits des mesmes Mains qui venoient de terrasser Annibal, &amp; d’abattre la grandeur de Carthage. Ceux qui sont attachez particulierement à ce genre d’écrire, n’ont plus, SIRE, qu’une seule chose à craindre avec toute l’Europe ; C’est que la haute Valeur de VOSTRE MAJESTE, qui s’est fait tant de violence pour donner le repos à ses Peuples, ne trouve quelque juste occasion de l’interrompre. S’il faut qu’une fois elle reprenne les Armes, le bruit que nous prevoyons bien qu’elles feront, ne nous permettra plus de songer aux Roys les plus Illustres des Siecles passez, &amp; pour nous laisser le loisir de representer leurs actions, Celles de VOSTRE MAJESTE nous donneront asseurément trop d’affaires. Je n’ay pas la hardiesse de promettre de travailler sur de si grands Sujets, avec autant d’esprit qu’une infinité de gens plus habiles que moy, &amp; qui ne laisseront pas eschaper une si riche matiere. J’ose respondre seulement que je puis défier qui que ce soit au monde, de surpasser le zele ardent qui animera toûjours,</p>
         <p>SIRE,</p>
@@ -10,6 +56,7 @@
         <p rend="center">QUINAULT.</p>
       </div>
       <div>
+        <head>Extraict du privilege du Roy.</head>
         <p>Par Grace &amp; Privilege du Roy, Donné à Paris le quatorzième Janvier mil six cens soixante-trois, Signé par le Roy en son Conseil, LE Mareschal. Il est permis à nostre cher &amp; bien aymé PHILIPPE QUINAULT Nostre Valet de Chambre Ordinaire, de faire imprimer une Piece de Theatre de sa composition, intitulée : Agrippa Roy d’Albe, Ou le Faux Tiberinus, pendant le temps &amp; espace de cinq années, finies &amp; accomplies, à commencer du jour de l’achevé d’Imprimé. Et deffences sont faites à toutes personnes, de quelque qualité &amp; condition qu’elles soient, de l’imprimer ou faire imprimer, vendre &amp; debiter, sans le consentement dudit Sieur QUINAULT, à peine de cinq cens Livres d’amande, &amp; de tous despens, dommages &amp; interests, comme il est plus amplement porté par lesdites Lettres.</p>
         <p>Et ledit Sieur QUINAULT a cedé &amp; transporté ces droits de Privilege à GUILLAUME DE LUYNE, Marchand Libraire, pour en jouyr le temps porté par iceluy.</p>
         <p rend="center">
@@ -21,10 +68,14 @@
         </p>
         <p rend="center">Signé, DUBRAY, Scyndic.</p>
       </div>
-      <div/>
+      <div>
+        <head>Acteurs</head>
+      </div>
       <div xml:id="I" type="act">
         <pb n="1" xml:id="p1"/>
+        <head>Acte I</head>
         <div type="scene" xml:id="I01">
+          <head>Scène premiere</head>
           <sp xml:id="I01-1" who="lavinie">
             <l n="1" xml:id="l1">Vostre malheur au mien n’est pas à comparer,</l>
             <l n="2" xml:id="l2">Consolez-vous, Albine, &amp; layssez-moy pleurer.</l>
@@ -120,6 +171,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>Scene II</head>
           <sp xml:id="I02-1" who="lavinie">
             <l n="73" xml:id="l73">Vous voyez de vos soins quel est pour moy le fruit,</l>
             <l n="74" xml:id="l74">Dés que vous m’abordez tout le monde me fuit ?</l>
@@ -255,6 +307,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>Scène III.</head>
           <pb n="8" xml:id="p8"/>
           <sp xml:id="I03-1" who="tirrhene">
             <l n="171" xml:id="l171">Ne vous offencez pas, Seigneur, si je m’avance,</l>
@@ -274,6 +327,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>Scène IV.</head>
           <sp xml:id="I04-1" who="tirrhene">
             <l n="181" xml:id="l181">Le Prince entreprendra de l’arrester en vain ;</l>
             <l n="182" xml:id="l182">Je ne connois que trop ce Tiran inhumain :</l>
@@ -297,6 +351,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>Scène V.</head>
           <sp xml:id="I05-1" who="agrippa">
             <l n="195" xml:id="l195">Qu’on ne m’en parle plus, je veux voir Lavinie.</l>
             <l n="196" xml:id="l196">Vous, allez donner ordre à la ceremonie.</l>
@@ -540,7 +595,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="16" xml:id="p16"/>
+        <head>Acte II</head>
         <div type="scene" xml:id="II01">
+          <head>Scène première</head>
           <sp xml:id="II01-1" who="julie">
             <l n="375" xml:id="l375">Ce Palais n’est pour vous qu’un objet de tristesse.</l>
             <l n="376" xml:id="l376" part="I">Pouvez-vous y rentrer ?</l>
@@ -650,6 +707,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>Scene II</head>
           <sp xml:id="II02-1" who="tirrhene">
             <l n="443" xml:id="l443">O dure tirannie ! ô rigueur inhumaine !</l>
             <l n="444" xml:id="l444">Viens prendre part, Albine, à l’excez de ma peine.</l>
@@ -734,6 +792,7 @@
         </div>
         <div type="scene" xml:id="II03">
           <pb n="21" xml:id="p21"/>
+          <head>Scene III.</head>
           <sp xml:id="II03-1" who="lavinie">
             <l n="499" xml:id="l499">J’allois vous voir, Albine, &amp; confuse &amp; troublée,</l>
             <l n="500" xml:id="l500">Vous dire un nouveau mal dont je suis accablée.</l>
@@ -849,6 +908,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="24" xml:id="p24"/>
+          <head>Scene IV.</head>
           <sp xml:id="II04-1" who="agrippa">
             <l n="575" xml:id="l575">Le sort m’offre un bonheur où je n’osois pretendre,</l>
             <l n="576" xml:id="l576">Je sçay quels sentimens pour moy vous devez prendre,</l>
@@ -989,6 +1049,7 @@
         </div>
         <div type="scene" xml:id="II05">
           <pb n="28" xml:id="p28"/>
+          <head>Scene V</head>
           <sp xml:id="II05-1" who="albine">
             <l n="685" xml:id="l685">Pour te faire haïr, va ne prens aucun soin,</l>
             <l n="686" xml:id="l686">Graces à tes forfaits, tu n’en a plus besoin.</l>
@@ -1014,7 +1075,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="29" xml:id="p29"/>
+        <head>Acte III</head>
         <div type="scene" xml:id="III01">
+          <head>Scene I</head>
           <sp xml:id="III01-1" who="fauste">
             <l n="703" xml:id="l703">Quoy ! tant de mécontens qui s’offrent dans l’armée</l>
             <l n="704" xml:id="l704">Dont la valeur paroist du repos allarmée,</l>
@@ -1051,6 +1114,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>Scene II.</head>
           <sp xml:id="III02-1" who="mezence">
             <l n="729" xml:id="l729">Sans paroistre indiscret puis-je estre curieux,</l>
             <l n="730" xml:id="l730">Seigneur ? Quel noir chagrin se monstre dans vos yeux ?</l>
@@ -1222,6 +1286,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>Scene III.</head>
           <sp xml:id="III03-1" who="mezence">
             <l n="863" xml:id="l863">Fauste, as tu bien compris jusqu’où va ma disgrace ?</l>
             <l n="864" xml:id="l864">Et le barbare effort dont le Roy me menace ?</l>
@@ -1238,6 +1303,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>Scene IV.</head>
           <sp xml:id="III04-1" who="lavinie">
             <l n="873" xml:id="l873">Vous a-t’on dit, Seigneur, mes nouveaux deplaisirs ?</l>
             <l n="874" xml:id="l874">Sçavés vous qu’un Tyran m’ose offrir ses soupirs ?</l>
@@ -1337,6 +1403,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>Scene V.</head>
           <sp xml:id="III05-1" who="mezence">
             <l n="951" xml:id="l951">Venés sçavoir pour vous combien on s’interesse,</l>
             <l n="952" xml:id="l952">Et quel remede on cherche à l’ennuy qui vous presse.</l>
@@ -1480,7 +1547,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="43" xml:id="p43"/>
+        <head>Acte IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>Scene I.</head>
           <sp xml:id="IV01-1" who="lavinie">
             <l n="1051" xml:id="l1051">Quel malheur impreveu venez vous de m’apprendre !</l>
             <l n="1052" xml:id="l1052" part="I">Tirrhene est arresté !</l>
@@ -1538,6 +1607,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>Scene II.</head>
           <sp xml:id="IV02-1" who="agrippa">
             <l n="1091" xml:id="l1091">Il se peut donc, Princesse, enfin que je vous voye ?</l>
             <l n="1092" xml:id="l1092">Mais, helas ! c’est pour vous, un tourment que ma joye :</l>
@@ -1722,6 +1792,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>Scene III</head>
           <sp xml:id="IV03-1" who="agrippa">
             <l n="1237" xml:id="l1237">Seigneur, à la Princesse, enfin, j’ay tout appris :</l>
             <l n="1238" xml:id="l1238">Vous m’en pouvez blâmer, vous en serez surpris ;</l>
@@ -1912,6 +1983,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>Scene IV.</head>
           <sp xml:id="IV04-1" who="tirrhene">
             <l n="1362" xml:id="l1362">Arreste, aveugle, arreste, &amp; rentre en ton devoir :</l>
             <l n="1363" xml:id="l1363">Sois mon fils en effet, songe à me satisfaire.</l>
@@ -2027,6 +2099,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>Scene V.</head>
           <sp xml:id="IV05-1" who="tirrhene">
             <l n="1451" xml:id="l1451">He bien ! par tout mon sang, contentez vostre haine.</l>
           </sp>
@@ -2050,7 +2123,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="59" xml:id="p59"/>
+        <head>Acte V.</head>
         <div type="scene" xml:id="V01">
+          <head>Scene premiere.</head>
           <sp xml:id="V01-1" who="fauste">
             <l n="1455" xml:id="l1455">De quel effroy, Madame, estes vous agitée</l>
             <l n="1456" xml:id="l1456">Au poinct que l’entreprise est presque executée ?</l>
@@ -2129,6 +2204,7 @@
         </div>
         <div type="scene" xml:id="V02">
           <pb n="62" xml:id="p62"/>
+          <head>Scene II.</head>
           <sp xml:id="V02-1" who="lavinie">
             <l n="1513" xml:id="l1513">Venez, Seigneur, venez, s’il se peut, dissiper</l>
             <l n="1514" xml:id="l1514">Les mortelles frayeurs dont je me sens frapper.</l>
@@ -2236,6 +2312,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>Scene III.</head>
           <sp xml:id="V03-1" who="lavinie">
             <l n="1599" xml:id="l1599">Avez-vous assez tost pû rejoindre Mezence ?</l>
           </sp>
@@ -2384,6 +2461,7 @@
         </div>
         <div type="scene" xml:id="V04">
           <pb n="70" xml:id="p70"/>
+          <head>Scene IV.</head>
           <sp xml:id="V04-1" who="tirrhene">
             <l n="1700" xml:id="l1700" part="I">Mal-heureuse ! où viens-tu ?</l>
           </sp>
@@ -2408,6 +2486,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>Scene V.</head>
           <sp xml:id="V05-1" who="agrippa">
             <l n="1708" xml:id="l1708">Ay-je encor, contre moy, mon Pere, &amp; ma Princesse ?</l>
           </sp>

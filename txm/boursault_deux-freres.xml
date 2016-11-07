@@ -1,12 +1,61 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les Deux Frères gémeaux ou les menteurs qui ne mentent point. Comédie</title>
+        <author key="Boursault, Edme (1638-1701)">Boursault, Edme</author>
+        <principal>Georges Forestier</principal>
+        <editor>Vanessa Viola</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Vanessa Viola sous la direction de Georges Forestier (2003-2004)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/boursault_deux-freres/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1665"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div type="set">
-        <div/>
+        <head type="main">LES DEUX FRERES GEMEAUX, OU LES MENTEURS QUI NE MENTENT POINT.</head>
+        <head type="sub">COMEDIE.</head>
+        <div>
+          <head>PERSONNAGES.</head>
+        </div>
       </div>
       <div type="act" xml:id="I">
         <pb n="A, 1"/>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp who="hipolite" xml:id="I01-1">
             <l n="1" part="I" xml:id="l1">Me trompois-je, Jacinte, est-ce là sa demeure ?</l>
           </sp>
@@ -63,6 +112,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp who="premier-nicandre" xml:id="I02-1">
             <l part="F">Madame, il doit m’estre bien doux</l>
             <l n="24" xml:id="l24">De jouïr du bon-heur qui m’approche de vous ;</l>
@@ -133,6 +183,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <pb n="5"/>
+          <head>SCENE III.</head>
           <sp who="hipolite" xml:id="I03-1">
             <l part="F">Nicandre, &amp; mes yeux, &amp; ma voix…</l>
             <l n="41" xml:id="l41">Je me sens <ref target="#interdit">interdite*</ref>, &amp; le charme qui brille…</l>
@@ -319,6 +370,7 @@
         </div>
         <div type="scene" xml:id="I04">
           <pb n="10"/>
+          <head>SCENE IV.</head>
           <sp who="hipolite" xml:id="I04-1">
             <l part="M">Hé bien, que dis-tu ?</l>
           </sp>
@@ -356,6 +408,7 @@
         </div>
         <div type="scene" xml:id="I05">
           <pb n="11"/>
+          <head>SCENE V.</head>
           <sp who="ismene" xml:id="I05-1">
             <l n="114" xml:id="l114">Nicandre ! Le seroit-ce ? Essayons de l’apprendre.</l>
             <l n="115" xml:id="l115">Ce Nicandre, Madame, à mon cœur est bien cher,</l>
@@ -475,6 +528,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI.</head>
           <sp who="jacinte" xml:id="I06-1">
             <l part="M">Il vous ayme ?</l>
           </sp>
@@ -504,6 +558,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE VII.</head>
           <sp who="hipolite" xml:id="I07-1">
             <l n="172" part="I" xml:id="l172">A la fin vostre frere est trouvé.</l>
           </sp>
@@ -644,6 +699,7 @@
         </div>
         <div type="scene" xml:id="I08">
           <pb n="19"/>
+          <head>SCENE VIII.</head>
           <sp who="second-nicandre" xml:id="I08-1">
             <l part="F">De grace, ayés plus de tendresse,</l>
             <l n="218" xml:id="l218">Dites-moy qui des deux est Suivante ou Maistresse ;</l>
@@ -675,6 +731,7 @@
         </div>
         <div type="scene" xml:id="I09">
           <pb n="20"/>
+          <head>SCENE IX.</head>
           <sp who="robin" xml:id="I09-1">
             <l part="F">Connoissez-vous cette bonne Madame ?</l>
           </sp>
@@ -784,6 +841,7 @@
         </div>
         <div type="scene" xml:id="I10">
           <pb n="23"/>
+          <head>SCENE X.</head>
           <sp who="ragotin" xml:id="I10-1">
             <l part="F">Je reviens comme vous m’avez dit,</l>
             <l n="277" part="I" xml:id="l277">Est-ce fait ?</l>
@@ -905,6 +963,7 @@
         </div>
         <div type="scene" xml:id="I11">
           <pb n="26"/>
+          <head>SCENE XI.</head>
           <sp who="ragotin" xml:id="I11-1">
             <l n="310" xml:id="l310">Il ne faut que cela pour m’achever de peindre.</l>
             <l n="311" xml:id="l311">Peu courtois Courtisan en chassant ton valet</l>
@@ -918,7 +977,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="27"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp who="premier-nicandre" xml:id="II01-1">
             <l n="317" xml:id="l317">La charmante Hipolite a pour moy de l’estime,</l>
             <l n="318" xml:id="l318">Et je n’ose répondre au beau feu qui l’anime !</l>
@@ -926,6 +987,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II.</head>
           <sp who="ismene" xml:id="II02-1">
             <l n="320" xml:id="l320">Ou je vois l’infidelle ou mes yeux sont trompez.</l>
             <l n="321" xml:id="l321">C’est luy-mesme, le traistre. A quoy réve Nicandre ?</l>
@@ -1048,6 +1110,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp who="premier-nicandre" xml:id="II03-1">
             <l part="F">J’ignore à quoy tend sa querelle</l>
             <l n="358" xml:id="l358">A l’entendre, autrefois je soupiray pour elle :</l>
@@ -1060,6 +1123,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV.</head>
           <sp who="jacinte" xml:id="II04-1">
             <l part="F">Il dit mon nom ! Qui vous l’a fait sçavoir ?</l>
             <l n="365" part="I" xml:id="l365">Vous me démaistressez maistre fourbe.</l>
@@ -1199,6 +1263,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <sp who="premier-nicandre" xml:id="II05-1">
             <l n="409" xml:id="l409">Temeraire serment sors de cette memoire,</l>
             <l n="410" xml:id="l410">Ne fais pas un obstacle à l’excés de ma gloire,</l>
@@ -1207,6 +1272,7 @@
         </div>
         <div type="scene" xml:id="II06">
           <pb n="35"/>
+          <head>SCENE VI.</head>
           <sp who="robin" xml:id="II06-1">
             <l n="412" xml:id="l412">Monsieur, vous ne serez ny roüé, ny pendu,</l>
             <l n="413" xml:id="l413">Je n’ay veu ny <ref target="#record">records*</ref>, ny bourreau, ny charrette,</l>
@@ -1327,6 +1393,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE VII.</head>
           <sp who="robin" xml:id="II07-1">
             <l n="452" xml:id="l452">Il a parbleu raison, il le prouve par là.</l>
             <l n="453" xml:id="l453">Le secret est joly pour se bien faire croire !</l>
@@ -1347,6 +1414,7 @@
         </div>
         <div type="scene" xml:id="II08">
           <pb n="39"/>
+          <head>SCENE VIII.</head>
           <sp who="second-nicandre" xml:id="II08-1">
             <l part="F">Qu’heureuse est pour moy la journée !</l>
             <l n="467" xml:id="l467">Ah Robin ! Un amy genereux, bien faisant,</l>
@@ -1417,6 +1485,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II09">
+          <head>SCENE IX.</head>
           <sp who="jacinte" xml:id="II09-1">
             <l n="500" xml:id="l500">Il vous attend Madame, &amp; c’est luy que voila,</l>
             <l n="501" part="I" xml:id="l501">Avancez.</l>
@@ -1626,6 +1695,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II10">
+          <head>SCENE X.</head>
           <sp who="hipolite" xml:id="II10-1">
             <l part="M">Hé bien ?</l>
           </sp>
@@ -1639,6 +1709,7 @@
         </div>
         <div type="scene" xml:id="II11">
           <pb n="47"/>
+          <head>SCENE XI.</head>
           <sp who="isidore" xml:id="II11-1">
             <l part="F">Il s’exhibe où le cry prend son estre</l>
             <l n="586" part="I" xml:id="l586">Qu’est-ce ?</l>
@@ -1692,7 +1763,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="E, 49"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp who="ismene" xml:id="III01-1">
             <l n="605" xml:id="l605">Enfin de mon mal-heur vous avez connoissance,</l>
             <l n="606" xml:id="l606">Je vous ay de ma honte assez fait confidence,</l>
@@ -1758,6 +1831,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp who="ragotin" xml:id="III02-1">
             <l part="F">N’est-ce pas vous que je viens rechercher</l>
             <l n="653" part="I" xml:id="l653">Dites-moy ?</l>
@@ -1866,6 +1940,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp who="ragotin" xml:id="III03-1">
             <l part="F">Je vais porter un <ref target="#cartel">Cartel*</ref> à Nicandre !</l>
             <l n="691" xml:id="l691">A luy qui me veut battre, et qui fait le mâdré,</l>
@@ -1877,6 +1952,7 @@
         </div>
         <div type="scene" xml:id="III04">
           <pb n="55"/>
+          <head>SCENE IV.</head>
           <sp who="premier-nicandre" xml:id="III04-1">
             <l n="696" xml:id="l696">Jacinte asseurément m’aura trop astendu ;</l>
             <l n="697" xml:id="l697">Il m’a trop retenu cét Amy, j’en deteste.</l>
@@ -1965,6 +2041,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp who="premier-nicandre" xml:id="III05-1">
             <l n="730" xml:id="l730">Ciel vous m’estes propice, &amp; l’on ouvre la porte ;</l>
             <l n="731" xml:id="l731">Le bon-heur de vous voir va donc m’estre accordé</l>
@@ -1975,6 +2052,7 @@
         </div>
         <div type="scene" xml:id="III06">
           <pb n="58"/>
+          <head>SCENE VI.</head>
           <sp who="jacinte" xml:id="III06-1">
             <l part="F">Allez vous-en au <ref target="#peautre">peautre*</ref>, à qui vous estes.</l>
           </sp>
@@ -2013,6 +2091,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE VII.</head>
           <sp who="eutrope" xml:id="III07-1">
             <l n="746" xml:id="l746">Est-ce pas prés d’icy que demeure Isidore ?</l>
           </sp>
@@ -2052,6 +2131,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III08">
+          <head>SCENE VIII.</head>
           <sp who="isidore" xml:id="III08-1">
             <l n="758" xml:id="l758">Une voix transcendante a percé mon oüye.</l>
             <l n="759" part="I" xml:id="l759">Apprettez-vous…</l>
@@ -2159,6 +2239,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III09">
+          <head>SCENE IX.</head>
           <sp who="robin" xml:id="III09-1">
             <l n="804" xml:id="l804">Ah ! Que démenager est un rude tracas !</l>
             <l n="805" xml:id="l805">Peste soit la valise, elle est diablement lourde,</l>
@@ -2179,6 +2260,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III10">
+          <head>SCENE X.</head>
           <sp who="eutrope" xml:id="III10-1">
             <l part="F">Est-ce pour rire, ou du moins es-tu fou ?</l>
           </sp>
@@ -2242,6 +2324,7 @@
         </div>
         <div type="scene" xml:id="III11">
           <pb n="66"/>
+          <head>SCENE XI.</head>
           <sp who="sergent" xml:id="III11-1">
             <l n="846" xml:id="l846">Messieurs, de la Justice ayant l’<ref target="#heur">heur*</ref> d’estre Membre…</l>
           </sp>
@@ -2388,6 +2471,7 @@
         </div>
         <div type="scene" xml:id="III12">
           <pb n="70"/>
+          <head>SCENE XII.</head>
           <sp who="robin" xml:id="III12-1">
             <l n="906" xml:id="l906">Membre, nous sommes seuls, on ne peut nous entendre,</l>
             <l n="907" xml:id="l907">Dites-moy, puis-je pas un moment vous parler ?</l>
@@ -2411,7 +2495,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="71"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp who="hipolite" xml:id="IV01-1">
             <l n="913" xml:id="l913">D’une indigne foiblesse à ma gloire mortelle</l>
             <l n="914" xml:id="l914">Tu viens de recevoir une preuve nouvelle ;</l>
@@ -2496,6 +2582,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <pb n="74"/>
+          <head>SCENE II.</head>
           <sp who="robin" xml:id="IV02-1">
             <l n="970" xml:id="l970">Ah mon bon Dieu ! Pourtant je ne vois point de monde.</l>
             <l n="971" xml:id="l971">Ces maudits Houspilleurs comme ils m’ont fait <ref target="#driller">driller*</ref>.</l>
@@ -2604,6 +2691,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <sp who="robin" xml:id="IV03-1">
             <l n="1026" xml:id="l1026">Il n’a pas dit le mot concernant sa valise,</l>
             <l n="1027" xml:id="l1027">Elle est pourtant restée, &amp; puissay-je mourir</l>
@@ -2612,6 +2700,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV.</head>
           <sp who="robin" xml:id="IV04-1">
             <l part="F">Te voicy cauteleuse pucelle,</l>
             <l n="1030" xml:id="l1030">(Ou du moins s’il n’est vray, fille soy-disant telle ;</l>
@@ -2661,6 +2750,7 @@
         </div>
         <div type="scene" xml:id="IV05">
           <pb n="79"/>
+          <head>SCENE V.</head>
           <sp who="second-nicandre" xml:id="IV05-1">
             <l n="1052" xml:id="l1052">A la fin je te quitte, ô propice maison.</l>
             <l n="1053" xml:id="l1053">Eutrope en me voyant m’auroit fait de la peine,</l>
@@ -2744,6 +2834,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI.</head>
           <sp who="jacinte" xml:id="IV06-1">
             <l n="1085" xml:id="l1085">Venez viste, Madame, autrement il m’échape,</l>
             <l n="1086" xml:id="l1086">Il faut faire si bien que Mendoce l’attrape ;</l>
@@ -2929,6 +3020,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE VII.</head>
           <sp who="hipolite" xml:id="IV07-1">
             <l n="1157" xml:id="l1157">Si jamais tu m’aimas, cours apres ce Nicandre,</l>
             <l n="1158" xml:id="l1158">Fais si bien par tes soins qu’on le puisse surprendre,</l>
@@ -2944,6 +3036,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV08">
+          <head>SCENE VIII.</head>
           <sp who="ismene" xml:id="IV08-1">
             <l part="F">A vos vœux tout semble estre propice,</l>
             <l n="1163" xml:id="l1163">Il vous aime Nicandre, &amp; me fait un affront</l>
@@ -2997,6 +3090,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV09">
+          <head>SCENE IX.</head>
           <sp who="ismene" xml:id="IV09-1">
             <l n="1182" part="I" xml:id="l1182">Hé bien cher Ragotin ?</l>
           </sp>
@@ -3109,6 +3203,7 @@
         </div>
         <div type="scene" xml:id="IV10">
           <pb n="91"/>
+          <head>SCENE X.</head>
           <sp who="isidore" xml:id="IV10-1">
             <l part="F"><hi rend="i">Audio</hi>, cela veut dire l’oy,</l>
             <l n="1204" part="I" xml:id="l1204">C’est le present du verbe <hi rend="i">Audire.</hi></l>
@@ -3232,7 +3327,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="95"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp who="second-nicandre" xml:id="V01-1">
             <l n="1249" xml:id="l1249">A voir de mon amour l’aventure bizarre,</l>
             <l n="1250" xml:id="l1250">On diroit que le sort contre moy se declare ;</l>
@@ -3320,6 +3417,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp who="robin" xml:id="V02-1">
             <l n="1288" xml:id="l1288">Il a le Diable au corps de vouloir s’en aller.</l>
             <l n="1289" xml:id="l1289">Du Fidele Robin le bon-heur l’importune,</l>
@@ -3330,6 +3428,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp who="robin" xml:id="V03-1">
             <l n="1294" xml:id="l1294">Mettez-viste, Monsieur, de l’argent dans la boëste.</l>
           </sp>
@@ -3468,6 +3567,7 @@
         </div>
         <div type="scene" xml:id="V04">
           <pb n="102"/>
+          <head>SCENE IV.</head>
           <sp who="ismene" xml:id="V04-1">
             <l n="1337" part="I" xml:id="l1337">Hé bien, Nicandre ?</l>
           </sp>
@@ -3582,6 +3682,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V.</head>
           <sp who="robin" xml:id="V05-1">
             <l n="1396" xml:id="l1396">Vous voila justement, comme il plaist au bon Dieu.</l>
             <l n="1397" xml:id="l1397">Vous venez là de faire un bon chien de ménage.</l>
@@ -3610,6 +3711,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI.</head>
           <sp who="robin" xml:id="V06-1">
             <l part="F">Et toy, le Bourreau te décole</l>
             <l n="1411" xml:id="l1411">Fou des plus achevez, dont les sens abestis</l>
@@ -3618,6 +3720,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII.</head>
           <sp who="robin" xml:id="V07-1">
             <l part="M">Bon jour.</l>
           </sp>
@@ -3703,6 +3806,7 @@
         </div>
         <div type="scene" xml:id="V08">
           <pb n="K, 109"/>
+          <head>SCENE VIII.</head>
           <sp who="jacinte" xml:id="V08-1">
             <l part="F">Allons-donc, paresseuse,</l>
             <l n="1450" xml:id="l1450">Nicandre est amoureux, comme vous amoureuse ;</l>
@@ -3735,6 +3839,7 @@
         </div>
         <div type="scene" xml:id="V09">
           <pb n="110"/>
+          <head>SCENE IX.</head>
           <sp who="second-nicandre" xml:id="V09-1">
             <l part="F">Ma lettre à la fin est escrite,</l>
             <l n="1462" xml:id="l1462">Mais que vois-je, ô bons Dieux ! N’est-ce pas Hipolite ?</l>
@@ -3877,6 +3982,7 @@
         </div>
         <div type="scene" xml:id="V10">
           <pb n="114"/>
+          <head>SCENE X.</head>
           <sp who="isidore" xml:id="V10-1">
             <l part="F">Des forfaicteurs c’est donc icy le centre ?</l>
             <l n="1519" part="I" xml:id="l1519">Nicandre…</l>
@@ -3890,6 +3996,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V11">
+          <head>SCENE XI.</head>
           <sp who="ismene" xml:id="V11-1">
             <l part="F">Infidelle, il est temps de parler.</l>
           </sp>
@@ -4007,6 +4114,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V12">
+          <head>SCENE DERNIERE.</head>
           <sp who="premier-nicandre" xml:id="V12-1">
             <l part="F">Qui donc encor est-ce là qui m’appelle ?</l>
           </sp>
@@ -4140,6 +4248,7 @@
         </div>
       </div>
       <div>
+        <head>Extraict du privilege du Roy.</head>
         <p>Par Grace et Privilege du Roy, donné à Paris le dernier Octobre 1664. Signé, Par le Roy en son Conseil, GUITONNEAU. Il est permis à Nicolas Pepingué, Imprimeur et Marchand Libraire à Paris, d’imprimer, faire imprimer, vendre et debiter une Piece de Theatre, intitulée, <hi rend="i">Les Deux Freres Gemeaux, ou les Menteurs qui ne mentent point</hi>, pendant le temps &amp; espace de sept années, à commencer du jour que ladite Piece sera achevée d’imprimer pour la premiere fois ; Et deffenses sont faites à toutes personnes de quelque qualité &amp; condition qu’elles soient, d’imprimer, ny faire imprimer, vendre &amp; debiter ladite Piece sans le consentement de l’Exposant, ou de ceux qui auront droict de luy, à peine de trois mil livres d’amende, confiscation des exemplaires, despens, dommages &amp; interests, ainsi que plus au long il est porté audit Privilege.</p>
         <p>Et ledit N. Pepingué a associé audit present Privilege Thomas Jolly, Guillaume de Luynes, &amp; Gabriel Quinet, pour en joüir suivant l’accord fait entr’eux.</p>
         <p>Registré sur le Livre de la Communauté, suivant l’Arrest de la Cour. Signé E. MARTIN, Syndic.</p>

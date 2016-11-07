@@ -1,8 +1,54 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Véritable Sémiramis. Tragédie</title>
+        <author key="Desfontaines, Nicolas (15..?-1652)">Nicolas Mary, sieur Desfontaines</author>
+        <principal>Georges Forestier</principal>
+        <editor>Camille Fréjaville</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Camille Fréjaville dans le cadre d'un mémoire de
+          master 1 sous la direction de Georges Forestier (2014-2015)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/desfontaines_semiramis/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/desfontaines_semiramis.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/desfontaines_semiramis.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/desfontaines_semiramis.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/desfontaines_semiramis.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1647"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LA VERITABLE SEMIRAMIS.<lb/>Tragédie.</head>
       <div xml:id="epitre">
         <pb n="III" xml:id="pIII"/>
+        <head>[EPISTRE.] <lb/>A HAUT ET PUISSANT SEIGNEUR<lb/>MESSIRE<lb/>FRANCOIS DE BEAUVILLIER<lb/>Chevalier Comte de S. Aignan, Baron des Baronnies de la Ferté, le Fau Chemery, la Salle lez Clery Luçay ; Vicomte de Valogne, Seigneur d’Olinuillé lez Aix, d’Anguillon Cery, Montigny, Humbligni, la Grange, Foullay, Draché Beauvais, &amp; autres lieux : Conseiller d’Estat, et Mareschal des Camps &amp; Armées du Roy, &amp;c.</head>
         <p>MONSEIGNEUR,</p>
         <p>Ne vous estonnez pas de voir aujourd’huy dans vostre Maison la plus belle femme de son siecle, la plus vaillante de son sexe, la plus magnifique de son rang, /<pb n="IV" xml:id="pIV"/>/ et la plus illustre Princesse que l’Asie ait jamais veuë : Ce n’est pas la première fois qu’elle est descenduë de son Trosne pour rechercher l’entretien des personnes de vostre merite, &amp; de votre naissance ; Mais on peut dire avec beaucoup de raison &amp; de verité qu’elle n’eût jamais d’<ref target="#inclination">inclination*</ref> si legitime; veu que vous n’avez  pas moins de belles qualitez que son Melistrate, &amp; que sans la rendre suspecte d’aucun crime, Elle peut autant esperer de vostre vertu. Aussi ne se presente-elle pas aujourd’huy devant vous pour estaller à vos yeux les prodiges de sa vie, ou la force de ses charmes ; Elle sçait bien qu’ayant dans vostre illustre famille tant de matieres d’admiration, et d’estonnement ; Il n’est plus desormais d’éclat qui soit capable de vous surprendre, ou de vous esbloüir : Au contraire toute pleine d’un si noble &amp; si juste sentiment qui luy est commun avec toute la France ; Elle se despoüille de son faste, &amp; renonce à ses grandeurs, afin qu’elle soit plus en estat de se donner à vous, &amp; de vous rendre doresnavant le protecteur de sa gloire. Si elle n’a pas esté toujours équitable en ses actions, elle paroit du moins extremément judicieuse en son choix; car de quelques costez qu’on tourne les yeux dans vostre maison, on n’y voit que des marques celebres, &amp; par tout de celebres &amp; signalez témoignages de fidelité, de prudence, et de valeur. Peut-estre que parlant ainsi de vostre merite, /<pb n="V" xml:id="pV"/>/ j’offence votre modestie ; Mais MONSEIGNEUR, permettez que je combatte une de vos vertus pour faire éclatter toutes les autres, &amp; ne me commandez pas d’escouter cette ennemie de ses propres loüanges dans le dessein que j’ay de publier des choses que toute la France ne sçauroit taire sans ingratitude, ny l’envie mesme desaduoüer sans injustice. Ne croyez pas toutesfois que je vueille comprendre dans une lettre ce qui meriteroit des volumes entiers : De si hautes merveilles ne se peuvent exprimer par des termes ordinaires, aussi veux-je qu’en une si noble matiere l’admiration soit toute mon éloquence, &amp; que l’<ref target="#aveu">adveu*</ref> de mon impuissance soit le crayon de vostre grandeur. C’est assez que l’on sçache que vos Ancestres ont toujours esté les colonnes de cette Monarchie, &amp; qu’estans vieillis dans les charges les plus considerables de la Couronne, ils ont laissé un heritier qui acheve <ref target="#genereux1">genereusement*</ref> aujourd’huy ce qu’ils ont autrefois si glorieusement commencé. Ces considerations, MONSEIGNEUR, ont obligé cette illustre SEMIRAMIS, à qui j’ay l’honneur de servir de Truchement à venir implorer votre secours contre ses envieux : Quelques rares qualitez qu’elle ait, elle n’est pas sans ennemis ; mais ils seront peu capables de luy nuire, si vous entreprenez sa deffence, &amp; l’envie se treuvera foible, si vous /<pb n="VI" xml:id="pVI"/>/ luy faictes la faveur de vous declarer de son parti. C’est ce qu’elle espere de vostre generosité, &amp; afin que je puisse avoir quelque part en son bon-heur, vous me permettrez, s’il vous plaist, de me dire toute ma vie, avec autant de zele que de respect.</p>
         <p>MONSEIGNEUR,</p>
@@ -10,6 +56,7 @@
         <p rend="right">DESFONTAINES.</p>
       </div>
       <div>
+        <head>Extraict du Privilege du Roy.</head>
         <pb n="VII" xml:id="pVII"/>
         <p>Par grace &amp; Privilege du Roy, donné à Paris le 17. d’Avril 1647. il est permis à Pierre Lamy Marchand Libraire à Paris, d’imprimer ou faire imprimer, vendre &amp; distribuer pendant le temps &amp; espace de cinq ans un livre intitulé <hi rend="i">la veritable Semiramis Tragedie, composee par le sieur Desfontaines</hi>, avec deffences à tous Libraires &amp; Imprimeurs, &amp; autres personnes de quelque qualité &amp; condition qu’ils soient, d’imprimer ni faire imprimer ledit livre, de n’en vendre ny distribuer autres exemplaires que ceux qui seront imprimez par ledit Lamy, ou de son consentement, à peine de confiscation desdits exemplaires, &amp; de cinq cens livres d’amende, comme il est declaré plus amplement en l’original des lettres passées le jour &amp; an que dessus, scellees du grandsceau, &amp; signée. Par le Roy en son Conseil. OLIER.</p>
         <p rend="center">
@@ -17,11 +64,14 @@
         </p>
       </div>
       <div xml:id="acteurs" type="set">
+        <head>Les Personnages.</head>
         <pb n="VIII" xml:id="pVIII"/>
       </div>
       <div xml:id="I" type="act">
         <pb n="A; 1" xml:id="p1"/>
+        <head>ACTE I.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="semiramis">
             <l n="1" xml:id="l1">Melistrate amoureux ? ah! je ne le puis croire ;</l>
             <l n="2" xml:id="l2">S’il aime, Merzabane, il n’aime que la gloire ;</l>
@@ -292,6 +342,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <pb n="12" xml:id="p12"/>
           <sp xml:id="I02-1" who="semiramis">
             <l n="226" xml:id="l226">Il suffit, je connais le charme qui l’attire ;</l>
@@ -355,6 +406,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <sp xml:id="I03-1" who="ninus">
             <l n="284" xml:id="l284">Ne sçaurais-je jamais le trouble où je vous vois ?</l>
             <l n="285" xml:id="l285">Vous verray-je toûjours dans la melancolie,</l>
@@ -501,6 +553,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="semiramis">
             <l n="417" xml:id="l417">Dy que par cette voye à ma faveur ouverte,</l>
             <l n="418" xml:id="l418">Tu t’en vas, mal-heureux, travailler à ta perte ;</l>
@@ -512,7 +565,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="21" xml:id="p21"/>
+        <head>ACTE II. </head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="II01-1" who="semiramis">
             <l n="421" xml:id="l421">Pourquoy desadvoüer une chose certaine ?</l>
             <l n="422" xml:id="l422">Ne dissimulez point ; vous l’aimez, Prazimene ;</l>
@@ -684,6 +739,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II.</head>
           <sp xml:id="II02-1" who="semiramis">
             <l n="553" xml:id="l553">Tout répond à mes vœux ; le dépit &amp; la haine, <pb n="28" xml:id="p28"/></l>
             <l n="554" xml:id="l554">Font d’<ref target="#etrange">étranges*</ref> effets au cœur de Prazimene ;</l>
@@ -707,6 +763,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp xml:id="II03-1" who="semiramis">
             <l part="F">Merzabane, aujourd’huy je veux voir, <pb n="29" xml:id="p29"/></l>
             <l n="572" xml:id="l572">Combien mes volontez ont sur vous de pouvoir.</l>
@@ -781,6 +838,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV.</head>
           <sp xml:id="II04-1" who="prazimene">
             <lg>
               <l n="633" xml:id="l633">Tyran des cœurs, Bourreau des Ames,<pb n="32" xml:id="p32"/></l>
@@ -846,6 +904,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <sp xml:id="II05-1" who="prazimene">
             <l part="F">Advancez, Palmedon ;</l>
             <l n="686" xml:id="l686">Qu’est-ce, me venez-vous demander un pardon,</l>
@@ -968,7 +1027,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="39" xml:id="p39"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="III01-1" who="ninus">
             <l n="787" xml:id="l787">Enfin voicy l’heureuse &amp; celebre journée,</l>
             <l n="788" xml:id="l788">Que la mesme vertu se verra couronnée,</l>
@@ -1148,6 +1209,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp xml:id="III02-1" who="semiramis">
             <l part="F">Dieux ! que feray-je ? &amp; quel est mon dessein ?</l>
             <l n="950" xml:id="l950">Je tremble, je fremis, le cœur me bat au sein ;</l>
@@ -1210,6 +1272,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <pb n="G; 49" xml:id="p49"/>
           <sp xml:id="III03-1" who="merzabane">
             <l n="1007" xml:id="l1007">He bien, Seigneurs, enfin qu’elle est vostre pensée ?</l>
@@ -1304,6 +1367,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV. </head>
           <pb n="53" xml:id="p53"/>
           <sp xml:id="III04-1" who="merzabane">
             <l n="1079" xml:id="l1079">De ce pas, Oronclide, allez treuver la Reyne,</l>
@@ -1324,7 +1388,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="54" xml:id="p54"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="melistrate">
             <l n="1091" xml:id="l1091">Grand Prince, l’ornement &amp; l’honneur de l’Asie,</l>
             <l n="1092" xml:id="l1092">Je treuve de l’excés en vostre courtoisie ;</l>
@@ -1573,6 +1639,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II.</head>
           <pb n="64" xml:id="p64"/>
           <sp xml:id="IV02-1" who="oronclide">
             <l n="1271" xml:id="l1271">O Fureurs ! ô desirs ! ô pouvoir d’une Reyne !</l>
@@ -1586,6 +1653,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <pb n="J; 65" xml:id="p65"/>
           <sp xml:id="IV03-1" who="melistrate">
             <l n="1279" xml:id="l1279" part="I">Ah !</l>
@@ -1743,6 +1811,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV.</head>
           <pb n="71" xml:id="p71"/>
           <sp xml:id="IV04-1" who="semiramis">
             <l n="1389" xml:id="l1389">Ouy, sans vous je n’avois l’Empire qu’à demy,</l>
@@ -1785,6 +1854,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V. </head>
           <pb n="K; 73" xml:id="p73"/>
           <sp xml:id="IV05-1" who="semiramis">
             <l part="F">He bien, qu’avez-vous fait ?</l>
@@ -1903,6 +1973,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI.</head>
           <pb n="78" xml:id="p78"/>
           <sp xml:id="IV06-1" who="semiramis">
             <l n="1508" xml:id="l1508">Il confond aujourd’huy nos interests ensemble ;</l>
@@ -1922,7 +1993,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="79" xml:id="p79"/>
+        <head>ACTE V. </head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="V01-1" who="melistrate">
             <l n="1519" xml:id="l1519" part="I">Palmedon...</l>
           </sp>
@@ -2098,6 +2171,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <pb n="86" xml:id="p86"/>
           <sp xml:id="V02-1" who="semiramis">
             <l n="1659" xml:id="l1659">Que demande un perfide, &amp; qu’est-ce qu’il espere ?</l>
@@ -2256,6 +2330,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp xml:id="V03-1" who="melistrate">
             <l part="F">Sera bien legitime ;</l>
             <l n="1768" xml:id="l1768">Qu’on appreste l’Autel, en voicy la victime,</l>

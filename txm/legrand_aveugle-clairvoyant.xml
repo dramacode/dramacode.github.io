@@ -1,8 +1,55 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'Aveugle clair-voyant. Comédie</title>
+        <author key="Legrand, Marc-Antoine (1673-1728)">Le Grand, Marc-Antoine</author>
+        <principal>Georges Forestier</principal>
+        <editor>Sonia Naudin</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Sonia Naudin dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2003-2004)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/legrand_aveugle-clairvoyant/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1716"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-      <div type="set" xml:id="auteurs"/>
+      <head>L'AVEUGLE <lb/>CLAIRVOYANT, <lb/>COMÉDIE<lb/></head>
+      <div type="set" xml:id="auteurs">
+        <head>ACTEURS.</head>
+      </div>
       <div n="1" type="scene" xml:id="I01">
+        <head>SCENE PREMIERE.</head>
         <sp who="lisette" xml:id="I01-1">
           <l n="1" xml:id="l1"><hi rend="sc">Eh</hi> bien ! madame, à quoi vous déterminez-vous ?</l>
           <l n="2" xml:id="l2">On va voir arriver votre futur époux :</l>
@@ -106,6 +153,7 @@
         </sp>
       </div>
       <div n="2" type="scene" xml:id="I02">
+        <head>SCENE II.</head>
         <sp who="marin" xml:id="I02-1">
           <l n="57" xml:id="l57">Hoé, hoé, hoé ! Parbleu, j’ai beau crier :</l>
           <l n="58" xml:id="l58">Comment donc, est-ce ainsi qu’on reçoit un courrier ?</l>
@@ -166,6 +214,7 @@
         </sp>
       </div>
       <div n="3" type="scene" xml:id="I03">
+        <head>SCENE III.</head>
         <sp who="marin" xml:id="I03-1">
           <l n="85" xml:id="l85">Vingt louis ! malepeste ! Allons, mon cher Marin,</l>
           <l n="86" xml:id="l86">Il ne faut pas rester dans un si beau chemin.</l>
@@ -194,6 +243,7 @@
         </sp>
       </div>
       <div n="4" type="scene" xml:id="I04">
+        <head>SCENE IV.</head>
         <sp who="marin" xml:id="I04-1">
           <l n="109" part="I" xml:id="l109">Eh bien ! ces vingt louis sont-ils prêts ?</l>
         </sp>
@@ -229,6 +279,7 @@
         </sp>
       </div>
       <div n="5" type="scene" xml:id="I05">
+        <head>SCENE V.</head>
         <sp who="marin" xml:id="I05-1">
           <l part="F">Eh ! madame, bonjour.</l>
         </sp>
@@ -387,6 +438,7 @@
         </sp>
       </div>
       <div n="6" type="scene" xml:id="I06">
+        <head>SCENE VI.</head>
         <sp who="lisette" xml:id="I06-1">
           <l n="191" part="I" xml:id="l191">Ah ! j’entends Lempesé.</l>
         </sp>
@@ -398,6 +450,7 @@
         </sp>
       </div>
       <div n="7" type="scene" xml:id="I07">
+        <head>SCENE VII.</head>
         <sp who="leonor" xml:id="I07-1">
           <l n="195" part="I" xml:id="l195">Qu'il vient mal à propos !</l>
         </sp>
@@ -504,6 +557,7 @@
         </sp>
       </div>
       <div n="8" type="scene" xml:id="I08">
+        <head>SCENE VIII.</head>
         <sp who="damon" xml:id="I08-1">
           <l part="F">Holà ! Quelqu’un, Marin... tout m’abandonne,</l>
           <l n="240" xml:id="l240">Et dans cette maison je ne trouve personne.</l>
@@ -615,6 +669,7 @@
         </sp>
       </div>
       <div n="9" type="scene" xml:id="I09">
+        <head>SCENE IX.</head>
         <sp who="marin" xml:id="I09-1">
           <l part="M">Ah ! ah ! ah !</l>
         </sp>
@@ -676,6 +731,7 @@
         </sp>
       </div>
       <div n="10" type="scene" xml:id="I10">
+        <head>SCENE X.</head>
         <sp who="damon" xml:id="I10-1">
           <l n="294" xml:id="l294">Eh bien ! que t’en semble, Marin ?</l>
           <l n="295" xml:id="l295">J'ai bien turlupiné monsieur le médecin.</l>
@@ -737,6 +793,7 @@
         </sp>
       </div>
       <div n="11" type="scene" xml:id="I11">
+        <head>SCENE XI.</head>
         <sp who="damon" xml:id="I11-1">
           <l n="321" part="I" xml:id="l321">Léonor ne vient point ?</l>
         </sp>
@@ -839,6 +896,7 @@
         </sp>
       </div>
       <div n="12" type="scene" xml:id="I12">
+        <head>SCENE XII.</head>
         <sp who="marin" xml:id="I12-1">
           <l n="369" part="I" xml:id="l369">Maugrebleu de la folle !</l>
         </sp>
@@ -859,6 +917,7 @@
         </sp>
       </div>
       <div n="13" type="scene" xml:id="I13">
+        <head>SCENE XIII.</head>
         <sp who="leandre" xml:id="I13-1">
           <l n="376" part="I" xml:id="l376">Eh bien ! mon cher Marin.</l>
         </sp>
@@ -883,6 +942,7 @@
         </sp>
       </div>
       <div n="14" type="scene" xml:id="I14">
+        <head>SCENE XIV.</head>
         <sp who="leandre" xml:id="I14-1">
           <l n="382" xml:id="l382">Eh bien ! madame, enfin on peut donc espérer...</l>
         </sp>
@@ -907,6 +967,7 @@
         </sp>
       </div>
       <div n="15" type="scene" xml:id="I15">
+        <head>SCENE XV.</head>
         <sp who="damon" xml:id="I15-1">
           <l n="391" xml:id="l391">Charmante Léonor, votre voix adorable</l>
           <l n="392" part="I" xml:id="l392">Frappe encor mon oreille.</l>
@@ -1007,6 +1068,7 @@
         </sp>
       </div>
       <div n="16" type="scene" xml:id="I16">
+        <head>SCENE XVI.</head>
         <sp who="marin" xml:id="I16-1">
           <l n="427" xml:id="l427">Il n’est pas avec moi besoin que l’on s’explique ;</l>
           <l n="428" xml:id="l428">Je vous ai comme il faut donné votre réplique.</l>
@@ -1024,6 +1086,7 @@
         </sp>
       </div>
       <div n="17" type="scene" xml:id="I17">
+        <head>SCENE XVII.</head>
         <sp who="lempese" xml:id="I17-1">
           <l part="F">Où Léonor est-elle ?</l>
         </sp>
@@ -1195,6 +1258,7 @@
         </sp>
       </div>
       <div n="18" type="scene" xml:id="I18">
+        <head>SCENE XVIII.</head>
         <sp who="notaire" xml:id="I18-1">
           <l n="511" xml:id="l511">A tous présens salut. Jamais dans mon étude</l>
           <l n="512" xml:id="l512">Avec tant de justesse et tant de promptitude</l>
@@ -1251,6 +1315,7 @@
         </sp>
       </div>
       <div n="19" type="scene" xml:id="I19">
+        <head>SCENE XIX.</head>
         <sp who="lempese" xml:id="I19-1">
           <l n="534" xml:id="l534">De beaucoup de finesse on n’a pas eu besoin.</l>
           <l n="535" xml:id="l535">Mais, monsieur, pardonnez à mon impatience,</l>
@@ -1268,6 +1333,7 @@
         </sp>
       </div>
       <div n="20" type="scene" xml:id="I20">
+        <head>SCENE XX.</head>
         <sp who="marin" xml:id="I20-1">
           <l n="543" xml:id="l543">Monsieur, songez à vous ; Léonor et Léandre</l>
           <l n="544" xml:id="l544">Vont revenir ici : je leur ai fait entendre</l>
@@ -1291,6 +1357,7 @@
         </sp>
       </div>
       <div n="21" type="scene" xml:id="I21">
+        <head>SCENE XXI.</head>
         <sp who="lisette" xml:id="I21-1">
           <l n="553" part="I" xml:id="l553">Eh bien ! dort-il encore ?</l>
         </sp>
@@ -1309,6 +1376,7 @@
         </sp>
       </div>
       <div n="22" type="scene" xml:id="I22">
+        <head>SCENE XXII.</head>
         <sp who="leandre" xml:id="I22-1">
           <l n="559" xml:id="l559">Je ne reviens ici qu’en tremblant, je l’avoue.</l>
           <l n="560" xml:id="l560">Quand mon oncle saura la pièce qu’on lui joue,</l>
@@ -1332,6 +1400,7 @@
         </sp>
       </div>
       <div n="23" type="scene" xml:id="I23">
+        <head>SCENE XXIII.</head>
         <sp who="marin" xml:id="I23-1">
           <l n="573" xml:id="l573">O disgrâce terrible ! inopiné malheur !</l>
         </sp>
@@ -1404,6 +1473,7 @@
         </sp>
       </div>
       <div n="24" type="scene" xml:id="I24">
+        <head>SCENE XXIV.</head>
         <sp who="damon" xml:id="I24-1">
           <l part="F">Ah ! quel bonheur extrême !</l>
           <l n="600" xml:id="l600">Quoi ! Je puis donc enfin revoir tout ce que j’aime !</l>
@@ -1490,6 +1560,7 @@
         </sp>
       </div>
       <div n="25" type="scene" xml:id="I25">
+        <head>SCENE XXV.</head>
         <sp who="damon" xml:id="I25-1">
           <l n="631" xml:id="l631">Mais j’aperçois, je crois, mon médecin. De grâce</l>
           <l n="632" xml:id="l632">Approchez-vous, monsieur, venez qu’on vous embrasse :</l>
@@ -1522,6 +1593,7 @@
         </sp>
       </div>
       <div n="26" type="scene" xml:id="I26">
+        <head>SCENE XXVI.</head>
         <sp who="damon" xml:id="I26-1">
           <l n="644" xml:id="l644">Ah ! ah ! c’est notre Tante.</l>
           <l n="645" xml:id="l645">Eh quoi ? la bonne femme est encore vivante ?</l>

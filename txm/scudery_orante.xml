@@ -1,7 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Orante. Tragi-comédie</title>
+        <author key="Scudéry, Georges de (1601-1667)">Georges de Scudéry</author>
+        <principal>Georges Forestier</principal>
+        <editor>Vanessa Thomann</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Vanessa Thomann dans le cadre d'un mémoire de
+          maîtrise sous la direction de Georges Forestier (2000-2001)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/scudery_orante/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/scudery_orante.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/scudery_orante.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/scudery_orante.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/scudery_orante.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1635"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="tragedy">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>ORANTE<lb/>TRAGI-COMEDIE</head>
       <div>
+        <head>A MADAME,<lb/>MADAME<lb/>LA DUCHESSE DE LONGUEVILLE</head>
         <p>Madame,</p>
         <p>j’advouë que ce que je presente à vostre Grandeur est indigne d’elle : Mais si vous ne deviez recevoir que les choses qui meritent de l’estre de vous, il est certain que vous auriez droict de refuser tout ce qu’on vous pourroit offrir. Cette foiblesse, qui m’est commune, avec tout le reste des hommes, ne me donne point d’affliction ; je sçay qu’il est mesme des fuites, qui ne sont pas honteuses aux particuliers, parce qu’elles sont generales, &amp; que ceux qui se sauvent de la perte d’une bataille n’estoient pas obligez d’y mourir. Mais quand ce raisonnement n’auroit pas esté capable de me faire hardy, le favorable accueil que j’ay tousjours receu de V.E. m’eust aussi bien obligé de l’estre. Oüy, MADAME, vostre bonté fait ma hardiesse, &amp; mon crime vient de vostre vertu : mais quoy que l’on tienne pour asseuré qu’une erreur en appelle une autre, je m’empescheray bien d’adjouster à la faute que je commets, en vous donnant une chose de si peu d’importance, celle de vous loüer de mauvaise grace : que s’il faut toutefois que je le fasse, pour suivre la coustume que les autres ont establie, je pense avoir assez d’adresse pour m’en acquiter plus dignement sans eloquence, qu’ils ne feroient avec toutes les regles &amp; toutes les beautez de leur art. Et cela, MADAME, en disant seulement que vous estes l’illustre Sang de BOURBON, si Noble &amp; si pur, qu’il a moins de taches que le Soleil ; de sorte que vous auriez plus de peine à faillir, que les autres n’en ont à bien faire : Et s’il faut encore adjouster à cette gloire essentielle une qui vous vienne d’ailleurs ; apres avoir remarqué que vous avez l’honneur d’appartenir au plus grand Monarque de la terre : Je diray que vous estes Sœur d’un Prince, qui possede toutes les bonnes qualitez que doit avoir un homme de la sienne, &amp; femme d’un autre, de qui le cœur &amp; l’esprit disputent de grandeur avec sa naissance : C’est tout ce que peut vous dire,</p>
         <p>Madame,</p>
@@ -10,6 +60,7 @@
         <p rend="right">DE SCUDERY.</p>
       </div>
       <div>
+        <head>Fautes survenuës en l’impression de l’Orante.</head>
         <p>Page 18. vers 2. mots, lisez maux.</p>
         <p>Page 19. vers 19. infortuné, lisez infortunée.</p>
         <p>Page 29. vers 6. un Dien, lisez un Dieu.</p>
@@ -19,10 +70,12 @@
         <p>Page 108. vers 1.suivez, lisez suiviez.</p>
       </div>
       <div>
+        <head>AU<lb/>LECTEUR.</head>
         <p>Je confesse ingenuëment que ma sterilité vient de l’abondance d’autruy : L’on a tant fait d’Avant-propos, qu’il est comme impossible maintenant que mes pensées ne se rencontrent avec celles d’un autre ; &amp; je ne veux point te donner sujet d’appeller larcin ce qui ne seroit que concurrence. Contente-toy donc que je te prie seulement d’excuser mes fautes, &amp; celles de l’Impression.</p>
         <p>Adieu.</p>
       </div>
       <div>
+        <head>PRIVILEGE DU ROY.</head>
         <p>LOUIS PAR LA GRACE DE DIEU ROY DE FRANCE ET DE NAVARRE :</p>
         <p>A nos amez, et Feaux Conseillers, les gens tenans nos Cours de Parlement ; Maistres des requestes ordinaires de nostre Hostel, Baillifs, Seneschaux, Prevosts, leurs Lieutenans,&amp; tous autres de nos Justiciers &amp; Officiers qu’il appartiendra ; Salut. Nostre bien-aimé AUGUSTIN COURBE, Marchand Libraire en nostre bonne ville de Paris, nous a fait remonstrer qu’il desireroit imprimer un Livre intitulé <hi rend="i">Orante, Tragi-Comédie</hi> du Sieur de SCUDERY, s’il nous plaisoit de luy accorder nos Lettres sur ce necessaires ; humblement nous requerant icelles. A CES CAUSES, Nous avons permis &amp; permettons par ces présentes à l’exposant, d’imprimer ou faire imprimer, vendre &amp; debiter ledit Livre en tous les lieux de nostre obeyssance, durant l’espace de sept ans entiers &amp; accomplis, à compter du jour qu’il sera achevé d’imprimer pour la premiere fois. Et faisons deffenses à toutes personnes, de quelque qualité qu’elles soient, tant de nos subjects que des estrangers, d’en exposer en vente aucuns exemplaires contrefaits, à peine de quinze cens livres d’amende, qui sera payée sans deport, et nonobstant oppositions ou appellations quelconques, par chacun de ceux qui en seront trouvez saisis, ou qui l’auront imprimé ou fait imprimer sans le consentement dudit exposant ; de confiscation de tous les exemplaires, &amp; de tous les despens dommages &amp; interests : A condition qu’il en sera mis deux exemplaires en nostre Bibliothéque publique, à faute dequoy les présentes seront de nul effect. Si vous mandons que du contenu en icelles, vous fassiez joüïr plainement &amp; paisiblement ledit exposant, sans souffrir qu’aucun empeschement luy soit donné. Voulons qu’en mettant au commencement, ou à la fin dudit livre, un bref extraict des presentes, elles soient tenuës pour deuëment signifiées, &amp; que foy soit adjoustée aux coppies qui en seront colationnées par un de nos amez et seaux Conseiller, Secrétaires, comme à l’original. Mandons au premier nostre Huissier ou Sergent sur ce requis, de faire pour l’execution d’iceluy, tous exploicts necessaires, sans demander autre permission. CAR TEL EST nostre plaisir, nonobstant Clameur de Haro, Chartre Normande ; et autres lettres à ces contraires. Donné à Paris le dernier jour de juin, l’an de grace mille six cens trente cinq. Et de nostre Regne le vingt-sixiesme.</p>
         <p>Par le Roy en son Conseil.</p>
@@ -30,10 +83,14 @@
         <p rend="i">Achevé d’imprimer ce I. Septembre 1635.</p>
         <p>Lesdits livres ont este fournis, ainsi qu’il est porté par le Privilege.</p>
       </div>
-      <div/>
+      <div>
+        <head>Les Acteurs.</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE PREMIER. </head>
         <pb n="1"/>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="rosimond">
             <l n="1" xml:id="l1">Malgré le <ref target="#voeu">vœu*</ref> discret d’une bouche muette,</l>
             <l n="2" xml:id="l2">Enfin je vous connois amoureux &amp; Poëte :</l>
@@ -216,6 +273,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE SECONDE.</head>
           <sp xml:id="I02-1" who="ormin">
             <l n="127" xml:id="l127">Rude &amp; foible raison, abandonne mon ame :</l>
             <l n="128" xml:id="l128">Ta froideur ne sçauroit s’opposer à ma flame :</l>
@@ -260,6 +318,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE TROISIESME.</head>
           <sp xml:id="I03-1" who="clindor">
             <l n="167" xml:id="l167">Nerine, qu’à propos je vous ay rencontrée !<pb n="12"/></l>
             <l n="168" xml:id="l168">Vous pouvez au Chasteau me donner libre entrée ;</l>
@@ -306,6 +365,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE QUATRIESME.</head>
           <sp xml:id="I04-1" who="lucinde">
             <l n="201" xml:id="l201">Vous l’accusez à tort, elle a plus de <ref target="#bonte">bonté*</ref> ;<pb n="15"/></l>
             <l n="202" xml:id="l202">Son cœur ne prend de loy que de ma volonté,</l>
@@ -348,6 +408,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE CINQUIESME.</head>
           <sp xml:id="I05-1" who="orante">
             <p rend="center">STANCES.</p>
             <pb n="17"/>
@@ -422,6 +483,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE SIXIESME.</head>
           <sp xml:id="I06-1" who="nerine">
             <l n="285" xml:id="l285">Que me donneriez vous d’une bonne nouvelle ? <pb n="20"/></l>
             <l n="286" xml:id="l286">Madame, vous dormez ; c’est en vain que j’appelle :</l>
@@ -434,6 +496,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE SEPTIESME.</head>
           <sp xml:id="I07-1" who="clindor">
             <l n="293" xml:id="l293">Il faut que je m’advance à la chambre voisine : <pb n="21"/></l>
             <l n="294" xml:id="l294">Quel <ref target="#prodige">prodige*</ref> est-ce-là ? que faites vous Nerine ?</l>
@@ -453,6 +516,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I08">
+          <head>SCENE HUICTIESME.</head>
           <sp xml:id="I08-1" who="lucinde">
             <l n="301" xml:id="l301" part="I">Quel bruit ay-je entendu ?</l>
           </sp>
@@ -499,7 +563,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>ACTE SECOND.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="II01-1" who="palinice">
             <l n="313" xml:id="l313">Invisible serpent, cruelle jalousie, <pb n="25"/></l>
             <l n="314" xml:id="l314">Qui vomis ton venin dans nostre <ref target="#fantaisie">fantaisie*</ref>,</l>
@@ -546,6 +612,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE SECONDE.</head>
           <sp xml:id="II02-1" who="ormin">
             <p rend="center">STANCES.</p>
             <lg>
@@ -613,6 +680,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE TROISIESME.</head>
           <pb n="31"/>
           <sp xml:id="II03-1" who="orante">
             <l n="403" xml:id="l403">M’empeschant de mourir, ton secours me conduit,</l>
@@ -736,6 +804,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE QUATRIESME.</head>
           <sp xml:id="II04-1" who="florange">
             <l n="481" xml:id="l481">Mon abord vous desplaist ; mon respect vous offence ;<pb n="37"/></l>
             <l n="482" xml:id="l482">Mais contre vos rigueurs, Amour prend ma deffence :</l>
@@ -772,6 +841,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE CINQUIESME.</head>
           <sp xml:id="II05-1" who="lucinde">
             <l n="505" xml:id="l505">Ma parole tiendra, puis que je l’ay donnée : <pb n="39"/></l>
           </sp>
@@ -782,6 +852,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE SIXIESME.</head>
           <sp xml:id="II06-1" who="ormin">
             <l n="509" xml:id="l509">Qui vous fait si hardy, que de m’estre rebelle ?<pb n="40"/></l>
           </sp>
@@ -804,6 +875,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE SEPTIESME.</head>
           <sp xml:id="II07-1" who="isimandre">
             <l n="521" xml:id="l521">Que l’attente est fascheuse à l’Amant qui souspire* !</l>
             <l n="522" xml:id="l522">Qu’un bien semble tardif alors qu’on le desire !</l>
@@ -840,6 +912,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II08">
+          <head>SCENE HUICTIESME.</head>
           <sp xml:id="II08-1" who="clindor">
             <l n="553" xml:id="l553">Juste Ciel, je voudrois dans le mal qui me touche, <pb n="43"/></l>
             <l n="554" xml:id="l554">Qu’un silence eternel me vint fermer la bouche :</l>
@@ -915,7 +988,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>ACTE TROISIESME.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="III01-1" who="florange">
             <l n="613" xml:id="l613">La peine que je sens leur est indifferante : <pb n="47"/></l>
             <l n="614" xml:id="l614">Amour que dois-je faire ? on me ravit Orante ;</l>
@@ -948,6 +1023,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE SECONDE.</head>
           <sp xml:id="III02-1" who="isimandre">
             <l n="641" xml:id="l641">Orante n’est pas morte ! Orante vit encore ! <pb n="49"/></l>
             <l n="642" xml:id="l642">Fidelle Messager, il faut que je t’adore.</l>
@@ -1027,6 +1103,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE TROISIESME.</head>
           <sp xml:id="III03-1" who="palinice">
             <l n="693" xml:id="l693">Ce n’est pas sans rougir que je me voy contrainte, <pb n="53"/></l>
             <l n="694" xml:id="l694">D’obliger vostre esprit à partager ma crainte :</l>
@@ -1100,6 +1177,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE QUATRIESME.</head>
           <sp xml:id="III04-1" who="orante">
             <l n="745" xml:id="l745">Je ne puis te payer, je le voy plus j’y pense : <pb n="57"/></l>
           </sp>
@@ -1126,6 +1204,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE CINQUIESME.</head>
           <sp xml:id="III05-1" who="nerine">
             <l n="755" xml:id="l755" part="I">Ha Madame, escoutez…</l>
           </sp>
@@ -1145,6 +1224,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE SIXIESME.</head>
           <sp xml:id="III06-1" who="isimandre">
             <l n="763" xml:id="l763">Lisez dedans mes yeux, voyez en ma couleur,</l>
             <l n="764" xml:id="l764">Que l’extreme plaisir ressemble à la douleur :</l>
@@ -1243,6 +1323,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE SEPTIESME.</head>
           <sp xml:id="III07-1" who="ormin">
             <l n="820" xml:id="l820">Elles valent beaucoup, si vous les estimez. <pb n="64"/></l>
           </sp>
@@ -1387,7 +1468,9 @@
         </div>
       </div>
       <div xml:id="IV" type="act">
+        <head>ACTE QUATRIESME.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="palinice">
             <l n="901" xml:id="l901">Vous serez dans le calme, &amp; rirez des tempestes ;<pb n="71"/></l>
             <l n="902" xml:id="l902">Car pour vostre départ toutes choses sont prestes ;</l>
@@ -1409,6 +1492,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE SECONDE.</head>
           <sp xml:id="IV02-1" who="florange">
             <l n="909" xml:id="l909">C’est en vain qu’on me fuit, c’est en vain qu’on se cache ;<pb n="73"/></l>
             <l n="910" xml:id="l910">Je suis seul, ils sont deux, mais l’un &amp; l’autre est lâche ;</l>
@@ -1493,6 +1577,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE TROISIESME.</head>
           <sp xml:id="IV03-1" who="poliante">
             <l n="949" xml:id="l949">Que n’es tu le tesmoing de mon inquietude ?<pb n="77"/></l>
             <l n="950" xml:id="l950">Je te ferois rougir de ton ingratitude ;</l>
@@ -1549,6 +1634,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE QUATRIESME.</head>
           <sp xml:id="IV04-1" who="orante">
             <l n="1001" xml:id="l1001">Dieux ! il ne songe point au tourment qui me presse :<pb n="80"/></l>
             <l n="1002" xml:id="l1002">Pour avoir tant d’amour, il a trop de paresse.</l>
@@ -1583,6 +1669,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE [CINQUIESME].</head>
           <sp xml:id="IV05-1" who="clindor">
             <l n="1021" xml:id="l1021">Si vous me voyez seul, qu’il ne vous semble estrange ;<pb n="82"/></l>
             <l n="1022" xml:id="l1022">Mon Maistre par mal-heur a rencontré Florange ;</l>
@@ -1599,6 +1686,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE [SIXIESME].</head>
           <sp xml:id="IV06-1" who="lucinde">
             <l n="1029" xml:id="l1029">Helas ! de mon <ref target="#support">support*</ref> je me trouve privée ;<pb n="83"/></l>
             <l n="1030" xml:id="l1030">Madame, c’en est fait, ma fille est enlevée ;</l>
@@ -1623,6 +1711,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE [SEPTIESME].</head>
           <sp xml:id="IV07-1" who="ormin">
             <l n="1045" xml:id="l1045">Le feu de mon courroux se mesle avec ma flame ;</l>
             <l n="1046" xml:id="l1046">On enleve mon cœur, on dérobe mon ame ;</l>
@@ -1641,6 +1730,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV08">
+          <head>SCENE [HUICTIESME].</head>
           <sp xml:id="IV08-1" who="florange">
             <l n="1059" xml:id="l1059">La fortune a trahy tout l’espoir que j’avois :</l>
           </sp>
@@ -1711,6 +1801,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV09">
+          <head>SCENE [NEUFIESME]</head>
           <sp xml:id="IV09-1" who="orante">
             <l part="F">Fuyons, fuyons ma vie ;</l>
             <l n="1082" xml:id="l1082">Nostre <ref target="#heur">heur*</ref> est assez grand, pour exciter l’envie.</l>
@@ -1756,6 +1847,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV10">
+          <head>SCENE [DIXIESME].</head>
           <sp xml:id="IV10-1" who="ormin">
             <l n="1109" xml:id="l1109">La belle invention ! ô Dieux qu’elle est subtile !<pb n="91"/></l>
           </sp>
@@ -1817,6 +1909,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV11">
+          <head>SCENE [ONZIESME].</head>
           <sp xml:id="IV11-1" who="florange">
             <l n="1129" xml:id="l1129">Si vous cherchez Orante, elle n’est plus à Pise :<pb n="94"/></l>
             <l n="1130" xml:id="l1130">Et ses charmes ont pris un Amant qui la prise.</l>
@@ -1907,7 +2000,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="98"/>
+        <head>ACTE CINQUIESME.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="V01-1" who="isimandre">
             <p rend="center"><ref target="#cartel">CARTEL*</ref>.</p>
             <l n="1201" xml:id="l1201">Isimandre, Orante trompée,</l>
@@ -1971,6 +2066,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE SECONDE</head>
           <sp xml:id="V02-1" who="orante">
             <pb n="101"/>
             <l n="1249" xml:id="l1249">Cruel, que ne fais tu ce que ta voix m’ordonne ?</l>
@@ -1990,6 +2086,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE TROISIESME.</head>
           <sp xml:id="V03-1" who="poliante">
             <l n="1257" xml:id="l1257">Dequoy s’entretenoit le brave Cleomire ?</l>
           </sp>
@@ -2105,6 +2202,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE QUATRIESME.</head>
           <pb n="107"/>
           <sp xml:id="V04-1" who="clindor">
             <l part="F">Je viens vous advertir</l>
@@ -2151,6 +2249,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE CINQUIESME.</head>
           <sp xml:id="V05-1" who="ormin">
             <l n="1349" xml:id="l1349">C’est icy que ma main se va remplir de gloire ;</l>
             <l n="1350" xml:id="l1350">C’est icy qu’on verra le champ de ma victoire ;</l>
@@ -2167,6 +2266,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE SIXIESME.</head>
           <sp xml:id="V06-1" who="florange">
             <l n="1361" xml:id="l1361" part="I">Main basse Compagnons:</l>
           </sp>
@@ -2185,6 +2285,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE SEPTIESME.</head>
           <sp xml:id="V07-1" who="isimandre">
             <l n="1365" xml:id="l1365" part="I">J’entends un bruit d’espée ; advançons :</l>
           </sp>
@@ -2243,6 +2344,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>SCENE HUICTIESME.</head>
           <pb n="113"/>
           <sp xml:id="V08-1" who="lucinde">
             <l n="1401" xml:id="l1401">Voyant ce ravisseur, qui passoit dans la ruë,</l>
@@ -2276,6 +2378,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V09">
+          <head>SCENE NEUFIESME.</head>
           <sp xml:id="V09-1" who="poliante">
             <l n="1423" xml:id="l1423">L’<ref target="#amitie">Amitié*</ref> m’abusoit ; son conseil estoit faux ;</l>
             <l n="1424" xml:id="l1424">En le considerant j’en ay veu les deffaux :</l>
@@ -2307,6 +2410,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V10">
+          <head>SCENE DIXIESME.</head>
           <pb n="116"/>
           <sp xml:id="V10-1" who="ormin">
             <l n="1441" xml:id="l1441">Il n’est rien d’eternel en la terre où nous sommes :</l>
@@ -2322,6 +2426,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V11">
+          <head>SCENE ONZIESME.</head>
           <sp xml:id="V11-1" who="lucinde">
             <l n="1449" xml:id="l1449">J’ay ma part à la paix aussi bien qu’à la guerre :</l>
             <l n="1450" xml:id="l1450">Je crois avoir acquis le reste de la terre,</l>
@@ -2365,6 +2470,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V12">
+          <head>SCENE DERNIERE.</head>
           <sp xml:id="V12-1" who="isimandre">
             <l n="1473" xml:id="l1473">Madame, je vous rends un bien inestimable ;</l>
             <l n="1474" xml:id="l1474">Moy seul ay fait la faute, elle n’est point blamable :</l>

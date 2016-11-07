@@ -1,7 +1,59 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Agamemnon. Tragédie</title>
+        <author key="Boyer, Claude (16..-16..)">Claude Boyer</author>
+        <editor>Céline Grihard</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie dans le cadre d'un mémoire de master 1 de l'université Paris-Sorbonne par Louis Celot sous la direction de Georges Forestier (2014-2015).</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML-TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/boyer_agamemnon/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boyer_agamemnon.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boyer_agamemnon.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boyer_agamemnon.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boyer_agamemnon.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1680"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>Agamemnon
+<lb/>Tragédie</head>
       <div xml:id="dedicace">
+        <head>A MADAME
+<lb/>LA DUCHESSE
+<lb/>DE BOUILLON :</head>
         <p>MADAME,</p>
         <p>J’ay sujet de craindre que le destin de cette Tragédie n’ait quelque chose de semblable à celuy d’Agamemnon. Ce Roy, Chef de toute la Grece, perit au sein de sa famille, après avoir heureusement évité les perils d’une guerre de dix années ; Et peut-estre que mon Ouvrage exposé de plus prés aux yeux des Critiques, succombera sous leurs atteintes, quelque heureux succés qu’il ait eû pendant ses Representations. Quel moyen de l’en garantir si vous ne daignez agréer que je le mette sous la protection de VÔTRE ALTESSE ? L’éclat de vôtre Rang, et de vos rares qualitez inspirent pour vous une veneration qui fera taire les Censeurs ; Et si les Anciens respectoient tout ce qui estoit consacré à leurs Deïtez fabuleuses, j’espere avec plus de raison, qu’on sera contraint d’épargner tout ce qui portera un nom aussi glorieux que le vostre. Mais, MADAME, ce n’est pas seulement un azile que je cherche auprés de VÔTRE ALTESSE, quand je luy présente ce Poëme. L’accueil et l’appuy favorable dont vous honorez les Sciences, cette connoissance parfaite que vous avez de ce qu’il y a de plus singulier chez les Grecs et chez les Latins, font que l’on vous doit comme un tribut tout ce qu’on produit de plus beau dans l’empire des belles Lettres. Pour Moy, MADAME, qui ay déjà trouvé un Mecene en VÔTRE ALTESSE, non seulement je vous offre ces prémices, mais je fais vœu de vous consacrer tous les fruits de mes estudes et de mes veilles, et d’estre toute ma vie avec un profond respect,</p>
         <p>MADAME,</p>
@@ -10,9 +62,13 @@
 <lb/>Obeïssant serviteur,</p>
         <p rend="right">PADER D’ASSEZAN,</p>
       </div>
-      <div xml:id="acteurs" type="set"/>
+      <div xml:id="acteurs" type="set">
+        <head>ACTEURS.</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE I</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="oreste">
             <l n="1" xml:id="l1">Ouy, Pylade, il est vray, la valeur et l’adresse<pb n="A, 1"/></l>
             <l n="2" xml:id="l2">Ont de l’Asie enfin fait triompher la Grece.</l>
@@ -165,6 +221,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II</head>
           <sp xml:id="I02-1" who="clytemnestre">
             <l n="110" xml:id="l110">Mon fils, vous le savez, vous m’avez irritée ;</l>
             <l n="111" xml:id="l111">Mais n’importe, du <ref target="#sang">sang*</ref> j’écoute encor la voix</l>
@@ -299,6 +356,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III</head>
           <sp xml:id="I03-1" who="clytemnestre">
             <l part="F">Ô Ciel, quelle arrogance !</l>
             <l n="210" xml:id="l210">De tous mes <ref target="#soin2">soins*</ref> pour luy <ref target="#cruel">cruelle*</ref> recompense !</l>
@@ -416,6 +474,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="eurybate">
             <l n="291" xml:id="l291">Ah, Madame ! Apprenez quel est nôtre bonheur.</l>
             <l n="292" xml:id="l292">La mort d’Agamemnon n’est qu’un bruit imposteur</l>
@@ -448,6 +507,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V</head>
           <sp xml:id="I05-1" who="clytemnestre">
             <l part="F">Quelle grande nouvelle !</l>
             <l n="311" xml:id="l311">Dieux ! qu’est-ce que je sens, quel <ref target="#trouble">trouble*</ref> dans mon <ref target="#coeur1">cœur*</ref>,</l>
@@ -514,7 +574,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="II01-1" who="cassandre">
             <l n="353" xml:id="l353">Laisse-moy la <ref target="#fureur">fureur*</ref> dont je suis animée.</l>
             <l n="354" xml:id="l354">Dans un gouffre de maux les Dieux m’ont abîmée.</l>
@@ -622,6 +684,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II.</head>
           <sp xml:id="II02-1" who="oreste">
             <l n="429" xml:id="l429">Madame, enfin les Dieux m’ont renvoyé mon Pere.</l>
             <l n="430" xml:id="l430">Il n’a pû qu’un moment entretenir ma Mère,</l>
@@ -759,6 +822,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III</head>
           <sp xml:id="II03-1" who="agamemnon">
             <l n="520" xml:id="l520">Que l’on me laisse ici. Vous Arbas arrestez.</l>
             <l n="521" xml:id="l521">Et vous pour m’acquiter envers le Ciel propice</l>
@@ -768,6 +832,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV.</head>
           <sp xml:id="II04-1" who="agamemnon">
             <l n="525" xml:id="l525">A voir tous les <ref target="#honneur">honneurs*</ref> qu’on me rend dans Mycene,<pb n="B, 25"/></l>
             <l n="526" xml:id="l526">Mon bonheur est parfait et ma <ref target="#gloire">gloire*</ref> est certaine.</l>
@@ -863,6 +928,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <sp xml:id="II05-1" who="eurybate">
             <l n="595" xml:id="l595">Ah Seigneur ! excusez mon <ref target="#abord">abord*</ref> indiscret,</l>
             <l n="596" xml:id="l596">Mais je viens vous apprendre un important secret.</l>
@@ -888,6 +954,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI.</head>
           <sp xml:id="II06-1" who="agamemnon">
             <l n="609" xml:id="l609">Ah lâche, quelques <ref target="#coup">coups*</ref> que ta <ref target="#fureur">fureur*</ref> m’apreste,</l>
             <l n="610" xml:id="l610">Je les feray bien-tôt retomber sur ta teste.</l>
@@ -970,6 +1037,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE VII</head>
           <sp xml:id="II07-1" who="clytemnestre">
             <l n="669" xml:id="l669">Seigneur est-il bien vray ce qu’on vient de m’apprendre ?</l>
             <l n="670" xml:id="l670">On dit que dans Argos vous envoyez Cassandre,</l>
@@ -986,6 +1054,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II08">
+          <head>SCENE VIII</head>
           <sp xml:id="II08-1" who="clytemnestre">
             <l n="678" xml:id="l678">O Ciel ! quelle surprise est <ref target="#egal">égale*</ref> à la mienne !</l>
             <l n="679" xml:id="l679">Qu’ay-je entendu ? Cassandre est encor dans ces lieux.</l>
@@ -1012,7 +1081,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="III01-1" who="arbas">
             <l n="695" xml:id="l695">Oüy j’ay suivy, Seigneur, vôtre ordre et mon devoir.</l>
             <l n="696" xml:id="l696">L’ambitieux Egisthe est en vôtre pouvoir :</l>
@@ -1025,6 +1096,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp xml:id="III02-1" who="agamemnon">
             <l n="701" xml:id="l701">Viens Euribate, approche : as-tu dit à la Reine,</l>
             <l n="702" xml:id="l702">Que mon juste courroux la bannit de Mycene ?</l>
@@ -1108,6 +1180,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp xml:id="III03-1" who="oreste">
             <l n="761" xml:id="l761">Ah, Seigneur ! qu’ay-je appris, quand je recouvre un pere,</l>
             <l n="762" xml:id="l762">Faudra-t-il que l’exil me ravisse ma mere ?</l>
@@ -1203,6 +1276,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp xml:id="III04-1" who="eurybate">
             <l n="837" xml:id="l837" part="I">Qu’ay-je entendu Seigneur !</l>
           </sp>
@@ -1224,6 +1298,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp xml:id="III05-1" who="clytemnestre">
             <l n="847" xml:id="l847">Non, c’est trop de rigueur, quoi que vous ordonniez,</l>
             <l n="848" xml:id="l848">Pour la derniere fois je me jette à vos piez.</l>
@@ -1314,6 +1389,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI.</head>
           <sp xml:id="III06-1" who="agamemnon">
             <l n="921" xml:id="l921">Ah que l’emportement que sa <ref target="#fureur">fureur*</ref> déploye,</l>
             <l n="922" xml:id="l922">Dans mon <ref target="#coeur2">cœur*</ref> <ref target="#estonner">étonné*</ref> jette une prompte joye !</l>
@@ -1331,6 +1407,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE VII.</head>
           <sp xml:id="III07-1" who="cassandre">
             <l part="F">Seigneur, jusqu’où va vôtre <ref target="#haine">haine*</ref> !</l>
             <l n="930" xml:id="l930">Aprés m’avoir captive envoyée à Mycene :</l>
@@ -1446,6 +1523,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III08">
+          <head>SCENE VIII.</head>
           <sp xml:id="III08-1" who="cassandre">
             <l part="F">Ciel ! que viens-je d’entendre !</l>
             <l n="1014" xml:id="l1014">Oreste infortuné ! malheureuse Cassandre !</l>
@@ -1494,7 +1572,9 @@
         </div>
       </div>
       <div xml:id="IV" type="act">
+        <head>ACTE IV</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="agamemnon">
             <l n="1041" xml:id="l1041">Ouy c’en est fait, Cassandre oublie enfin la <ref target="#haine">haine*</ref>. <hi rend="b"/><pb n="C, 49"/></l>
             <l n="1042" xml:id="l1042">Cassandre veut monter au Thrône de Mycene.</l>
@@ -1563,6 +1643,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II.</head>
           <sp xml:id="IV02-1" who="oreste">
             <l n="1092" xml:id="l1092">Quelle bonté Seigneur, m’appelle auprés de vous ?</l>
           </sp>
@@ -1687,6 +1768,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <sp xml:id="IV03-1" who="oreste">
             <l n="1189" xml:id="l1189">Ciel ! qu’ay-je entendu ! je frissone, je tremble.</l>
             <l n="1190" xml:id="l1190">Je vois en ce malheur tous mes malheurs ensemble</l>
@@ -1712,6 +1794,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV.</head>
           <sp xml:id="IV04-1" who="oreste">
             <l part="F">Ah ! qu’ay-je appris, Madame !</l>
             <l n="1206" xml:id="l1206">De quel espoir mon pere ose <ref target="#flatter">flatter*</ref> sa <ref target="#flame">flamme*</ref> !</l>
@@ -1786,6 +1869,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V.</head>
           <sp xml:id="IV05-1" who="ismene">
             <l part="F">Helas ! par quel discours funeste,</l>
             <l n="1266" xml:id="l1266">Venez-vous d’accabler le malheureux Oreste !</l>
@@ -1837,6 +1921,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI.</head>
           <sp xml:id="IV06-1" who="clytemnestre">
             <l n="1291" xml:id="l1291">Non, non, ne craignez point cét injuste courroux.</l>
             <l n="1292" xml:id="l1292">Je viens plûtôt gémir et me <ref target="#plaindre">plaindre*</ref> avec vous :</l>
@@ -1918,6 +2003,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE VII.</head>
           <sp xml:id="IV07-1" who="clytemnestre">
             <l n="1357" xml:id="l1357">Ah ! ce n’est pas ainsi qu’on trompe ma vangeance.</l>
             <l n="1358" xml:id="l1358">Tu crois que mon départ te met en assûrance.</l>
@@ -1944,7 +2030,9 @@
         </div>
       </div>
       <div xml:id="V" type="act">
+        <head>ACTE V</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="V01-1" who="cassandre">
             <l n="1369" xml:id="l1369">Ne t’abuses-tu point ? dis-tu vray chere Ismene ?</l>
           </sp>
@@ -2043,6 +2131,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp xml:id="V02-1" who="agamemnon">
             <l n="1450" xml:id="l1450">Madame tout est prest : l’Autel, le Sacrifice,</l>
             <l n="1451" xml:id="l1451">La <ref target="#pompe">pompe*</ref> de l’<ref target="#hymen">Hymen*</ref>. Le Thrône vous attend</l>
@@ -2112,6 +2201,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp xml:id="V03-1" who="agamemnon">
             <l n="1499" xml:id="l1499">Ouy j’iray t’épouser. Mais qu’est-ce que je sens ?</l>
             <l n="1500" xml:id="l1500">Quelle secrette <ref target="#horreur">horreur*</ref> ! que de <ref target="#trouble">troubles*</ref> <ref target="#presser">pressans*</ref> !</l>
@@ -2138,12 +2228,14 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV.</head>
           <sp xml:id="V04-1" who="arbas">
             <l n="1521" xml:id="l1521">Oreste qui fuyoit est enfin dans Mycene,</l>
             <l n="1522" xml:id="l1522">Seigneur, auprés de vous Pylade le ramene.</l>
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V.</head>
           <sp xml:id="V05-1" who="oreste">
             <l n="1523" xml:id="l1523">Ouy, Seigneur, je reviens : mais Dieux ! ne pouvez-vous</l>
             <l n="1524" xml:id="l1524">De l’<ref target="#illustre">illustre*</ref> Cassandre estre l’heureux Epous,</l>
@@ -2196,6 +2288,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI.</head>
           <sp xml:id="V06-1" who="pylade">
             <l n="1561" xml:id="l1561">Quelle felicité surprenante et soudaine !</l>
             <l n="1562" xml:id="l1562" part="I">Quel changement cher Prince !</l>
@@ -2206,6 +2299,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII.</head>
           <sp xml:id="V07-1" who="clytemnestre">
             <l part="F">Que voy-je ? Oreste dans ces lieux !</l>
             <l n="1564" xml:id="l1564">Fuyons mon fils, fuyons, dérobons à nos yeux</l>
@@ -2241,6 +2335,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>SCENE VIII.</head>
           <sp xml:id="V08-1" who="oreste">
             <l n="1581" xml:id="l1581">Quel est ce prompt départ, quel <ref target="#trouble">trouble*</ref>, quel langage,</l>
             <l n="1582" xml:id="l1582">Cher amy ? Mais que vois-je ? ah funeste présage !</l>
@@ -2275,6 +2370,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V09">
+          <head>SCENE IX.</head>
           <sp xml:id="V09-1" who="oreste">
             <l n="1603" xml:id="l1603">Elle est morte ! en quel temps ! ah moment trop <ref target="#fatal">fatal*</ref> !</l>
             <l n="1604" xml:id="l1604">Quand le Roy me la cede et n’est plus mon Rival !</l>
@@ -2284,6 +2380,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V10">
+          <head>SCENE DERNIERE</head>
           <sp xml:id="V10-1" who="eurybate">
             <l n="1608" xml:id="l1608">Ou courez-vous ? sçachez un plus <ref target="#cruel">cruel*</ref> malheur.</l>
             <l n="1609" xml:id="l1609" part="I">Agamemnon.</l>
@@ -2343,6 +2440,8 @@
         </div>
       </div>
       <div>
+        <head>PRIVILEGE
+<lb/>du Roy.</head>
         <p>Louis par la Grace de Dieu, Roy de France et de Navarre : A nos amez et feaux Conseillers, les gens tenans nos Cours de Parlement, Maistres des Requestes ordinaires de nostre Hostel, Prevost de Paris, son Lieutenant General de Police, Baillifs, Seneschaux, Prevosts, leurs Lieutenants et autres nos Officiers qu’il appartiendra ; SALUT. Nostre bien aimé le Sieur PADER D’ASSEZAN Nous a fait remontrer qu’il avoit composé une Piece de Theâtre intitulée <hi rend="i">Agamemnon</hi>, laquelle avoit esté representée plusieurs fois, et qu’il desireroit faire imprimer et donner au Public, s’il en avoit nos Lettres de Permission sur ce necessaires. A CES CAUSES, voulant donner à l’Exposant des marques de l’estime que nous faisons de la personne et l’exciter à travailler, Nous luy avons permis et accordé, et par ces Presentes permettons et accordons de faire imprimer ladite Tragedie d’Agamemnon par tel Imprimeur qu’il voudra choisir, en telle marge, volume, caractere et autant de fois que bon luy semblera la vendre et debiter par tout nostre Royaume pendant le temps de dix ans à commencer du jour qu’elle sera achevée d’imprimer, en vertu des Presentes, pendant lequel temps faisons tres-expresses deffences à toutes personnes de quelque qualité qu’elles soient d’imprimer ou faire imprimer, vendre n’y debiter ladite Tragedie, sous quelque pretexte que ce soit sans le consentement de l’Exposant ou de ceux qui auront droit de luy, à peine aux contrevenans de trois mil livres d’amande, confiscation des Exemplaires contre-faits, et de tous dépens, dommages et interests, à condition d’imprimer en beau et bon caractere, et de mettre deux Exemplaires en nostre Bibliotheque publique, un en celle de nostre Chasteau du Louvre, et un en celle de nostre tres-cher et feal Chevalier Chancelier de France le Sieur le Tellier avant les exposer en vente, à peine de nullité des presentes : du contenu desquelles voulons que vous fassiez joüir l’Exposant pleinement et paisiblement. Voulons qu’en mettant au commencement ou à la fin dudit Livre un Extrait des Presentes elles soient tenuës pour signifiées. Mandons au premier notre Huissier faire pour execution d’icelles tous Actes requis et necessaires, sans demander autre permission : Car tel est nostre plaisir. DONNÉ à Paris le treizième jour de May, l’an de Grace mil six cens quatre-vingts ; Et de nostre Regne le trente-huitième. Signé Par, le Roy en son Conseil, D’ALENCE.</p>
         <p rend="i">Registré sur le Livre de la Communauté des Libraires et Imprimeurs de Paris le 7. May 1680. suivant l’Arrest du Parlement du 8. Avril 1653. et celuy du Conseil Privé du Roy du 27. Février 1665. Signé C. Angot, Syndic. </p>
       </div>

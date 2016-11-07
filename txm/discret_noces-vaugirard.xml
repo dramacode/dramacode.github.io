@@ -1,7 +1,56 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les Noces de Vaugirard, ou Les Naifvetez champestres. Pastorale</title>
+        <author key="Discret, L. C. (16..-16..)">L.C.D Discret</author>
+        <principal>Georges Forestier</principal>
+        <editor>Luca Falcone</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Luca Falcone dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2012-2013)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/discret_noces-vaugirard/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/discret_noces-vaugirard.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/discret_noces-vaugirard.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/discret_noces-vaugirard.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/discret_noces-vaugirard.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1638"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="show" type="genre">Pastorale</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LES <lb/>NOPCES <lb/>DE <lb/>VAvGIRARD, <lb/>OU LES <lb/>NAIFVETEZ CHAMPESTRES. <lb/>PASTORALLE <lb/>Dediée à ceux qui veulent rire.</head>
       <div xml:id="epitre">
+        <head>EPISTRE SERVANT D’ADVERTISSEMENT à ceux qui veulent rire.</head>
         <pb n="III a ij"/>
         <p>MESSIEvRS,</p>
         <p>Je ne suis point de ces sçavans personnages dont les siecles ont si <ref target="#curieusement">curieusement*</ref> conservé les precieuses reliques pour nous donner lumiere des sciences qui les ont faict estimer vrais Orateurs, &amp; parfaictement bons Poëtes : mon sçavoir est aussi peu cogneu que ma personne,<pb n="IV"/>mais mon humeur indifferente ne se soucie de la <ref target="#probation">probation*</ref> des doctes, ny du mépris des ignorans : mes escrits en petit nombre, &amp; en peu de volumes n’ont d’authorité que les divers sentimens de ceux qui prennent la peine de les lire. Vous ne verrez point d’Apologiste qui me dise confidemment à l’oreille que j’ay parfaictement bien reüssy, que j’ay grandement <ref target="#obliger">obligé*</ref> le public luy donnant des œuvres si plaines de moralitez, &amp; de subtiles pointes, que j’attribuë des richesses aux rithmes capables de me faire passer pour divin, que j’attraperay la gloire où tous les autres veulent atteindre, &amp; qu’en fin il seroit aussi difficile de trouver mon second, comme de rencontrer deux Rois de France en l’Europe. Tous ces discours de vanité, &amp; de flatterie n’auroient autre remerciment de moy, que celuy que l’on peut faire à des gens<pb n="V a iiij"/>que l’on recognoist se moquer honnestement d’un amy, je leur donnerois l’epithete d’esprits foibles plustot que celle d’esprits forts, comme n’ayans pas assez de force pour me persuader une mécognoissance de moy-mesme : les deffaux de mes ouvrages ne trouveront ny de loüanges, ny d’excuses dans les plumes d’autruy. Vous n’y trouverez point dans l’Advertissement au Lecteur ce que les Autheurs du temps ont coustume d’y mettre : Qu’ils sçavent faire une piece en quinze jours, qu’ils n’avoient que quinze ans lors qu’ils l’ont faite, que leurs amis les ont forcez à la faire mettre soubs la presse, &amp; soubs l’asseurance qu’on leur a donnee, qu’elle seroit bien receuë ; que c’est un premier essay, &amp; qu’on doit esperer que quelque jour ils feront mieux : les autres diront que leur absence a causé le desordre,<pb n="VI"/>&amp; les fautes qui se rencontrent dans leurs livres, qu’ils ont este imprimez à leur insceu sur des copies mal polies qui leur avoient esté dérobées, ou qu’ils avoient données à l’un de leurs amis, mais qu’à la seconde edition ils seront vestus des robbes de la merveille, &amp; qu’on ne les recognoistra plus. Toutes ces raisons si anciennes, &amp; tant de fois repetées pour faire trouver bonne une mauvaise chose, ne peuvent estre appellées autrement que les honnestes excuses de l’ignorance, le manteau de l’incapacité, la couverture de l’imperfection, le voile<pb n="VII"/>des petites imaginations, la sterilité des bonnes parolles, le bandeau des Rimeurs, &amp; la folie des Poëtes; &amp; pour moy, afin qu’ils sçachent mon sentiment je conseillerois volontiers à ces esprits de donner plus de temps à la composition de leurs ouvrages, &amp; de ne les entreprendre si jeunes, veu que leurs poinctes, qui, pour proprement parler, ne sont que metaphores hyperboliques forment des espines si piquantes, que leur honneur s’y escorche le plus souvent : il n’y a pas un pied de vers qui n’en preste deux aux Lecteurs pour marcher sur la teste de leur vanité, il n’y a pas un vers qui n’en fournisse quatre pour ronger ce qu’il y a de mal digeré dans leur travail ; de sorte que comme la chauve-souris à cause de sa difformité n’ose paroistre devant le jour, ces ouvrages devroient demeurer enfermez, ou n’estre mis en lumiere que par le feu; car pour moy je ne sçaurois flatter, je dis librement mes pensées ; on ne sçauroit donner trop de soin à un ouvrage qui paroist
@@ -12,12 +61,14 @@
         <p rend="right">L. C. D.</p>
       </div>
       <div xml:id="argument">
+        <head>ARGUMENT.</head>
         <pb n="XI ij"/>
         <p><hi rend="b">A</hi>marille est jointe par mariage à Floridon qu’elle n’ayme point sous promesse faite de l’advis de ses parens, &amp; pour la contenter que Floridon ne cueillera le fruict de son amour, que six mois apres le jour de leurs nopces, pendant lequel temps Polydas fils d’une des Illustres maisons de Paris déguisé en Berger, &amp; qui cherissoit grandement Amarille, promettoit de l’enlever secrettement, mais estant <ref target="#mander1">mandé*</ref> à la nopce avec une jeune Bergere nommée Lidiane, qui estoit venuë avec sa mere demeurer à Vaugirard à cause des guerres qui estoient dans la Province de leur naissance. Polydas devient amoureux de Lidiane, oublie la promesse qu’il avoit faicte à Amarille, &amp; continuë ses amours avec elle, nonobstant les jalousies d’Amarille.</p>
         <p>Pendant que Polydas, Lidiane, Pysandre, Cleanide, &amp; Amarille Bergers, &amp; Bergeres passent le temps à mille gentillesses, &amp; tromperies amoureuses : Luciane mere de Lidiane ayant veu au travers d’une vitre Polydas qui baisoit sa fille. Cette action luy donne subject de l’enfermer, Polydas desesperé de ne plus voir sa maistresse, prend resolution de l’enlever, &amp; pour cet <ref target="#effet">effect*</ref> luy ayant faict sçavoir par un mot de lettre que Pysandre luy porte (sans sçavoir ce qui estoit<pb n="XII"/>dedans) qu’elle se tint <ref target="#preste">preste*</ref> pour la nuict suivante de son dessein, il met la nuict le feu dans une grange, pendant que les villageois sont empeschez à l’éteindre, il l’enleve, &amp; la meine au bord de l’eau, où s’estant trouvé un basteau, Lidiane sautant dedans, pendant que Polydas le veut lascher, la corde rompt, le basteau <ref target="#emmener">enmeine*</ref> Lidiane, &amp; laisse Polydas à la rive dans des fascheries étranges : elle cependant que l’eau entrainoit tousjours voyant une Isle proche d’elle, s’eslance du basteau sur le sable, mais le pied luy glissant elle tombe en la riviere où à l’instant enveloppée des ondes à la veuë de son Berger, elle eust esté noyée si deux pescheurs qui de grand matin avoient tendus leurs filets, ne l’eussent repeschée.</p>
         <p>Polydas qui croit qu’elle est morte se precipite dans la grotte des Demons, Amarille qui se doute qu’elle est trompée, voyant que Polydas estoit precipité, s’y jette pareillement, laissans tous leurs parents dans une confusion épouventable, &amp; en fin Lidiane repeschée, &amp; ramenée par les Pescheurs au lieu où elle pensoit retrouver Polydas, est à l’instant prise par les Deputez de Vaugirard qui faisoient la recherche d’eux, par le soupçon qu’ils avoient que Polydas avoit efté le <ref target="#boutefeu">boutte-feu*</ref>, elle est ménée devant les Juges qui luy font son procez, &amp; quelques prieres,<pb n="XIII iij"/> &amp; supplications que leur puissent faire les habitans du village, elle est par eux condamnée à estre precipitée dans la mesme grotte des Demons, où estoient Polydas, &amp; Amarille ; mais comme on vient pour executer cette sentence, l’<ref target="#ombre">ombre*</ref> de Castrape Magicien, qui avoit basty cette grotte, sort tenant Polydas d’une main, &amp; Amarille de l’autre sains &amp; sauves, arreste l’execution de cette condamnation, &amp; faisant le recit de toutes leurs advantures, ordonne des mariages du bon homme Pancrace avec la vieille Luciane, dont les crotesques amours sont naïfuement traictées, redonne Amarille à son Floridon Polydas à sa Lidiane, &amp; Pyfandre à Cleanide, &amp; par ces mariages inesperez calment les differents de tout le village, &amp; leur cause une réjoüissance publique.</p>
       </div>
       <div xml:id="poeme-liminaire">
+        <head>A. D. D. L. R. D. L. P.</head>
         <pb n="XIV"/>
         <lg>
           <l n="1">Beautez de qui les yeux captivent les <ref target="#franchise2">franchises*</ref></l>
@@ -40,17 +91,22 @@
         </lg>
       </div>
       <div xml:id="privilege">
+        <head>Extraict du Privilege du Roy.</head>
         <p><hi rend="b">P</hi>ar grace &amp; Privilege du Roy, il est permis à Jean Guignard, Marchand Libraire, d’imprimer ou faire imprimer, vendre &amp; debiter un livre intitulé, <hi rend="i">Les Nopces de Vaugirard</hi> : avec deffences à tous<pb n="XV"/>Libraires, Imprimeurs, &amp; autres de quelque qualité ou condition qu’ils soient, de faire imprimer, vendre ny distribuer ledit livre, durant le temps &amp; espace de six ans, comme plus amplement est porté par ledict Privilege. Donnè à Paris le vingt-deuxiesme May mil six cens trente-huict, &amp; de nostre regne le vingt-huictiesme.</p>
       </div>
       <div xml:id="errata">
+        <head>Errata</head>
         <p><hi rend="b">P</hi>age 13, vers 4 lisez baise pour baiser p. 40. v.7. 1. sans vous veoir p.49.v.13. l. d’Orphee. p.53 v.18 &amp; 19 l. affection au premier, &amp; affliction au second. p.57.v.8. l. qu’un pour qu’en. p.58.v.10. l. faicts pour faictes. p.63.v.9. l. me parleront. p.101.v.15 l. seile pour sicle. p.107.v.10. l. qu’un pour qu’en.</p>
       </div>
       <div xml:id="acteurs">
+        <head>Les Acteurs.</head>
         <pb n="XVI"/>
       </div>
       <div type="act" xml:id="I">
         <pb n="1, A"/>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp who="pancrace" xml:id="I01-1">
             <l n="1" xml:id="l1"><hi rend="b">E</hi>n fin le juste Ciel par un sainct Hymenee,</l>
             <l n="2" xml:id="l2">De ma fille ce jour borne la destinee,</l>
@@ -135,6 +191,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE DEUXIESME.</head>
           <sp who="floridon" xml:id="I02-1">
             <l n="81" xml:id="l81"><hi rend="b">R</hi>Avy dans un bon-heur qui me suit à la piste,<pb n="6"/></l>
             <l n="82" xml:id="l82">Qui condamne ma peine &amp; ma fortune assiste,</l>
@@ -175,6 +232,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE TROISIESME.</head>
           <sp who="polydas" xml:id="I03-1">
             <l n="117" xml:id="l117"><hi rend="b">B</hi>Erger Infortuné Polydas miserable,<pb n="8"/></l>
             <l n="118" xml:id="l118">Que la rage possede &amp; le malheur accable,</l>
@@ -211,6 +269,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE QVATRIESME.</head>
           <sp who="pancrace" xml:id="I04-1">
             <l n="149" xml:id="l149"><hi rend="b">O</hi>R <ref target="#sus">sus*</ref> mes bons amis que chacun prenne place,<pb n="10"/></l>
             <l n="150" xml:id="l150">Que l’on nous donne un <ref target="#bransle">bransle*</ref> &amp; que de bonne grace,</l>
@@ -352,6 +411,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE CINQVIESME.</head>
           <sp who="amarille" xml:id="I05-1">
             <l n="225" xml:id="l225"><hi rend="b">D</hi>E la confusion maintenant delaissee,<pb n="16"/></l>
             <l n="226" xml:id="l226">Je viens entretenir à loisir ma pensee,</l>
@@ -528,7 +588,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="24"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp who="lidiane" xml:id="II01-1">
             <l n="341" xml:id="l341"><hi rend="b">Q</hi>Ue celuy est heureux qui lors de sa naissance,</l>
             <l n="342" xml:id="l342">Perd aussy tost le jour qu’il en a cognoissance :</l>
@@ -709,6 +771,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE DEVXIESME.</head>
           <sp who="pysandre" xml:id="II02-1">
             <l n="465" xml:id="l465"><hi rend="b">A</hi>Llez petit trouppeau savourer les herbettes,</l>
             <l n="466" xml:id="l466">Pendant que je diray mes belles amourettes :</l>
@@ -1156,6 +1219,7 @@
         </div>
         <div type="scene" xml:id="II03">
           <pb n="49 G"/>
+          <head>SCENE TROISIESME.</head>
           <sp who="pancrace" xml:id="II03-1">
             <l n="671" xml:id="l671"><hi rend="b">U</hi>N parfaict amoureux jamais ne se repose</l>
             <l n="672" xml:id="l672">Son esprit captivé ne pense à autre chose,</l>
@@ -1231,7 +1295,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="52"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp who="polydas" xml:id="III01-1">
             <l n="715" xml:id="l715"><hi rend="b">L</hi>’Inimitié d’un Roy, d’un Prince, d’un monarque,</l>
             <l n="716" xml:id="l716">Ne peut de son courroux donner aucune marque :</l>
@@ -1386,6 +1452,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE DEUXIESME.</head>
           <pb n="59 Hij"/>
           <sp who="amarille" xml:id="III02-1">
             <l n="817" xml:id="l817"><hi rend="b">L</hi>’Esprit inquieté de milles <ref target="#pensement">pensemens*</ref>,</l>
@@ -1627,6 +1694,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE TROISIESME.</head>
           <sp who="luciane" xml:id="III03-1">
             <l n="921" xml:id="l921"><hi rend="b">Q</hi>Ue l’indiscretion fait naistre de tourment,</l>
             <l n="922" xml:id="l922">A ceux dont les enfans vivent trop librement :</l>
@@ -1782,6 +1850,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE QUATRIESME.</head>
           <pb n="73 K"/>
           <sp who="pysandre" xml:id="III04-1">
             <l n="999" xml:id="l999"><hi rend="b">L</hi>’Amitié d’un amy oblige à l’impossible,</l>
@@ -1866,6 +1935,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE CINQUIESME.</head>
           <sp who="luciane" xml:id="III05-1">
             <l n="1047" xml:id="l1047"><hi rend="b">P</hi>Ancrace en verité vous estes un prodigue</l>
             <l n="1048" xml:id="l1048">Le subject ne vaut pas la peine &amp; la fatigue :</l>
@@ -2074,6 +2144,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE SIXIESME.</head>
           <sp who="pancrace" xml:id="III06-1">
             <l n="1135" xml:id="l1135"><hi rend="b">Q</hi>Ue sont-ils devenus ? certes ils n’avoient garde,<pb n="84"/></l>
             <l n="1136" xml:id="l1136">De m’attendre au retour, j’eusse donné <ref target="#nazarde">nazarde*</ref>,</l>
@@ -2095,8 +2166,10 @@
         </div>
       </div>
       <div type="act" xml:id="IV">
+        <head>ACTE IV.</head>
         <pb n="85 Liij"/>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp who="polydas" xml:id="IV01-1">
             <l n="1151" xml:id="l1151"><hi rend="b">D</hi>Eesse de la nuict aux amans favorable</l>
             <l n="1152" xml:id="l1152">Qui bornez leurs desirs d’une gloire durable :</l>
@@ -2141,6 +2214,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE DEUXSIEME.</head>
           <pb n="88"/>
           <sp who="luciane" xml:id="IV02-1">
             <l n="1191" xml:id="l1191"><hi rend="b">V</hi>Iste viste debout, une espaisse fumee</l>
@@ -2175,6 +2249,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE TROISIESME.</head>
           <sp who="polydas" xml:id="IV03-1">
             <l n="1205" xml:id="l1205"><hi rend="b">E</hi>N fin graces aux Dieux ma juste intention,</l>
             <l n="1206" xml:id="l1206">Va je croy reussir à sa perfection :</l>
@@ -2284,6 +2359,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE QUATRIESME.</head>
           <pb n="95"/>
           <sp who="luciane" xml:id="IV04-1">
             <l n="1301" xml:id="l1301"><hi rend="b">A</hi>Ccablee d’<ref target="#ennuy">ennuys*</ref>, de maux, d’afflictions,</l>
@@ -2337,6 +2413,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE CINQVIESME.</head>
           <sp who="amarille" xml:id="IV05-1">
             <l n="1349" xml:id="l1349"><hi rend="b">P</hi>Leure Amarille helas ton malheur sans pareil,<pb n="98"/></l>
             <l n="1350" xml:id="l1350">Que les larmes jamais ne seichent dans ton œil,</l>
@@ -2413,6 +2490,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE SIXIESME.</head>
           <pb n="102"/>
           <sp who="pysandre" xml:id="IV06-1">
             <l n="1419" xml:id="l1419"><hi rend="b">E</hi>N verité mon cœur il faut que je confesse</l>
@@ -2526,6 +2604,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE SEPTIESME.</head>
           <sp who="floridon" xml:id="IV07-1">
             <l n="1479" xml:id="l1479"><hi rend="b">M</hi>Iserable berger qui vois ton esperance    </l>
             <l n="1480" xml:id="l1480">Mourir avec le fruict de ta perseverance :</l>
@@ -2690,7 +2769,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="114"/>
+        <head>ACTE V</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp who="lidiane" xml:id="V01-1">
             <l n="1595" xml:id="l1595"><hi rend="b">A</hi>Mis de qui je tiens le repos &amp; la vie,</l>
             <l n="1596" xml:id="l1596">Que la fureur des eaux m’avoit presque ravie :</l>
@@ -2814,6 +2895,7 @@
         </div>
         <div type="scene" xml:id="V02">
           <pb n="120"/>
+          <head>SCENE DEUXIESME.</head>
           <sp who="le-juge" xml:id="V02-1">
             <l n="1669" xml:id="l1669"><hi rend="b">N</hi>Ous qui tenons des Dieux la balance à la main,</l>
             <l n="1670" xml:id="l1670">Pour juger icy bas le differend humain :</l>
@@ -3085,6 +3167,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE TROISIESME.</head>
           <sp who="pysandre" xml:id="V03-1">
             <l n="1853" xml:id="l1853">Bons Dieux qu’il court icy un effroyable bruit,</l>
             <l n="1854" xml:id="l1854">Lidiane mourra auparavant la nuict.</l>
@@ -3159,6 +3242,7 @@
         </div>
         <div type="scene" xml:id="V04">
           <pb n="134"/>
+          <head>SCENE DERNIERE.</head>
           <sp who="le-juge" xml:id="V04-1">
             <l n="1883" xml:id="l1883"><hi rend="b">V</hi>Oicy le lieu Bergere où il faut que ta vie,</l>
             <l n="1884" xml:id="l1884">Pour punir ton forfait soit des flames ravie.</l>

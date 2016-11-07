@@ -1,8 +1,55 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Mort d'Achille</title>
+        <author key="Benserade, Isaac de (1613-1691)">Benserade, Isaac de</author>
+        <principal>Georges Forestier</principal>
+        <editor>Sandra Tortel</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Sandra Tortel dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/benserade_mort-achille/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1636"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div>
+        <head>LA MORT D’ACHILLE</head>
+        <head>TRAGEDIE.</head>
         <div>
+          <head>Epistre</head>
+          <head>Au roy</head>
           <p>Sire,</p>
           <p>Puis que toute la France delivrée de sa crainte se jette aux pieds de V.M. pour luy tesmoigner qu’elle n’est pas méscognoissante, je serois le seul coupable, si je n’augmentois cette honorable foulle de vos peuples qui porte si haut dans l’air le bruit des justes acclamations qu’elle donne à la derniere, et à la plus illustre de vos victoires, voyant comme elle déploye desja ses ailles pour voller de vostre costé. Et en effet, SIRE, quelques grandes, et quelques estonnantes qu’ayent esté vos actions depuis que vous tenez ce magnifique Sceptre que le droit du sang vous a mis en main, et que vos Royales vertus vous confirment tous les jours, V.M. sembleroit n’avoir pas tout à fait travaillé pour son honneur, si elle n’avoit eu une plus ample matiere pour occuper sa grandeur et sa force : tantost elle s’emploioit à vaincre des Rebelles, tantost à soûtenir la foiblesse de ses Alliez contre la violence des Usurpateurs, et tantost à reprimer l’insolence et la perfidie d’un Voisin, et d’un Vassal ; Il estoit temps qu’elle fit parêtre que toutes ses armes luy sont également avantageuses, et qu’elle s’aide aussi glorieusement du bouclier que de l’epée : Et ç’a esté en cette derniere guerre qu’elle en a donné, et en donne encore des preuves qui mettent sa gloire au plus haut poinct qu’elle puisse estre, et qui font rougir l’Espagne de la honte, et de la vanité de ses entreprises. Si les autres Monarques ont de l’assurance, et de la tranquillité dans leurs Etats, ils la tiennent moins d’eux mesmes que de leurs sujets qui travaillent sans cesse pour le salut et pour l’affermissement de leurs couronnes, mais au contraire le repos et la seureté que nous avons ne vient pas tant de nous comme c’est un effet de vostre agitation, et des dangers où V.M. s’expose tous les jours pour la conservation de nos vies, et de nos biens : De façon que nous ne pourions nous dispenser de nos hommages legitimes à moins que d’ajouster l’ingratitude à la desobeissance, et d’offencer en vostre personne le meilleur pere qu’ait jamais eu la Patrie, et le plus grand, et le plus vaillant Roy du monde ; Achile que je vous offre en toute humilité le confesseroit de sa propre bouche si V.M. avoit besoin des louanges d’un moindre qu’elle ; Je la suplie tres-humblement qu’il en soit veu de bon oeil, et qu’elle pardonne à l’ambition de celuy qui l’ose présenter ; C’est,</p>
           <p>SIRE</p>
@@ -11,12 +58,17 @@
           <p>DE BENSSERADDE</p>
         </div>
         <div>
+          <head>AU LECTEUR</head>
           <p>Le sujet de cette Tragedie est assez fameux pour n’estre pas ignoré de ceux qui la liront, puis que les plus beaux gestes de celuy qui en est le Herôs sont escrits d’un style si merveilleux par le divin Homere ; quelques Autheurs comme Dares Phrygius, &amp; Dictys Cretensis, en parlent historiquement, &amp; avec plus de vray-semblance, j’ay pris des uns &amp; des autres ce que j’en ay jugé necessaire pour l’embellissement de la chose sans en alterer la verité. Je m’asseure que l’on m’accusera d’avoir icy chocqué les loix fondamentales du Poëme Dramatique en ce que j’ajouste à la mort d’Achille, qui est mon objet, la dispute de ses armes, &amp; la mort d’Ajax, qui semble estre une piece detachée, mais je m’imagine que mon action n’en est pas moins une, &amp; que cette dispute &amp; cette mort qui pourroit ailleurs tenir lieu d’une principale action ne doit estre icy considerée qu’en qualité d’Episode &amp; d’incident, veu qu’elle regarde principalement Achille, &amp; qu’elle n’est pas le veritable but de ma Tragedie, bien que ce soit par où elle finit, s’il falloit tousjours finir par la mort du premier Acteur, le Theatre se verroit souvent despoüillé de ses plus beaux ornemens, la mort de Cesar ne seroit pas suivie du pitoyable spectacle de sa chemise sanglante qui fait un si merveilleux effect ; &amp; qui pousse si avant dans les coeurs la compassion, le regret, &amp; le desir de vengeance, quand Ajax se tuë du desespoir d’estre frustré des armes d’Achille, il ne donne pas tant une marque de sa generosité qu’il laisse un tesmoignage du merite de ce qu’il recherchoit, &amp; par consequent cét acte ne tend qu’à l’honneur de mon Herôs. En tout cas si j’ay failly pardonne moy, &amp; puis qu’il ne m’est pas permis d’esperer une juste loüange de la meilleure de mes productions, souffre que je tire un peu de gloire de la plus belle de mes fautes.</p>
         </div>
-        <div/>
+        <div>
+          <head>PERSONNAGES</head>
+        </div>
       </div>
       <div type="act" xml:id="I">
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp who="achille" xml:id="I01-1">
             <l n="1" xml:id="l1">Je ne sçay, mon cher coeur, ce qui doit m’arriver,</l>
             <l n="2" xml:id="l2">Mais depuis quelque temps je ne fay que resver,</l>
@@ -111,6 +163,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE DEUXIESME.</head>
           <sp who="alcimede" xml:id="I02-1">
             <l n="75" xml:id="l75">Le souverain de Troye, &amp; des femmes dolentes</l>
             <l n="76" xml:id="l76">En faveur de la treve arrivent dans vos tentes,</l>
@@ -173,6 +226,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE TROISIESME.</head>
           <sp who="achille" xml:id="I03-1">
             <l n="121" xml:id="l121">Certes mes ennemis sont trop officieux,</l>
             <l n="122" xml:id="l122">Vous me faictes rougir de venir en ces lieux,</l>
@@ -430,7 +484,9 @@
         </div>
       </div>
       <div type="act" xml:id="II">
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp who="priam" xml:id="II01-1">
             <l n="307" xml:id="l307">Mais est-il bien possible, &amp; le devons-nous croire,</l>
             <l n="308" xml:id="l308">Que sur luy Polixene ait aquis cette gloire ?</l>
@@ -503,6 +559,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE DEUXIESME.</head>
           <sp who="priam" xml:id="II02-1">
             <l n="361" xml:id="l361">Nous venons de pleurer sur les cendres d’Hector,</l>
             <l n="362" xml:id="l362">Et de ses os bruslez le bucher fume encor,</l>
@@ -659,6 +716,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE TROISIESME.</head>
           <sp who="alcimede" xml:id="II03-1">
             <l n="479" xml:id="l479">Où va ce pauvre aveugle ? il court au precipice,</l>
             <l n="480" xml:id="l480">“ Ha je voy bien qu’Achille est foible sans Ulisse,</l>
@@ -695,6 +753,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE QUATRIESME.</head>
           <sp who="achille" xml:id="II04-1">
             <l n="511" xml:id="l511">Non, Madame, achevez mon destin miserable,</l>
             <l n="512" xml:id="l512">Vangez-vous, perdez-moy par un coup favorable,</l>
@@ -863,7 +922,9 @@
         </div>
       </div>
       <div type="act" xml:id="III">
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp who="achille" xml:id="III01-1">
             <l n="639" xml:id="l639">Non, je n’en feray rien, vous perdez vôtre peine,</l>
             <l n="640" xml:id="l640">Vous écrivez sur l’onde, &amp; semez sur l’<ref target="#arene">arene</ref>.</l>
@@ -1012,6 +1073,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE DEUXIESME.</head>
           <sp who="achille" xml:id="III02-1">
             <l n="743" xml:id="l743">Comment, on me soupçonne ? on me fait cette injure ?</l>
             <l n="744" xml:id="l744">Et ma fidelité trouve qui la censure ?</l>
@@ -1117,6 +1179,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE TROISIESME.</head>
           <sp who="briseide" xml:id="III03-1">
             <l n="827" xml:id="l827">Taisons-nous, il le faut, &amp; mon maistre l’ordonne,</l>
             <l n="828" xml:id="l828">“ Heureux qui n’a de loy que celle qu’il se donne,</l>
@@ -1145,6 +1208,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE QUATRIESME.</head>
           <sp who="hecube" xml:id="III04-1">
             <l n="851" xml:id="l851">Mon Dieu ! qu’il est parfaict, qu’il est remply de charmes,</l>
             <l n="852" xml:id="l852">Quand je ne le voy point mettre la main aux armes !</l>
@@ -1217,6 +1281,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE CINQUIESME.</head>
           <sp who="hecube" xml:id="III05-1">
             <l n="909" xml:id="l909">Sommes-nous les vaincus, ou les victorieux ?</l>
             <l n="910" part="I" xml:id="l910">Comment va le combat ?</l>
@@ -1313,6 +1378,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE SIXIESME.</head>
           <sp who="achille" xml:id="III06-1">
             <l n="973" xml:id="l973">Ha c’est trop, Alcimede, à ma gloire estre lent,</l>
             <l n="974" xml:id="l974">Il faut que je responde à ce jeune insolent,</l>
@@ -1353,7 +1419,9 @@
         </div>
       </div>
       <div type="act" xml:id="IV">
+        <head>ACTE IIII.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp who="hecube" xml:id="IV01-1">
             <l n="993" xml:id="l993">O Dieux ! Severes Dieux, contre nous mutinez,</l>
             <l n="994" xml:id="l994">Vous avez bâty Troye, &amp; vous la ruinez !</l>
@@ -1530,6 +1598,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE DEUXIESME.</head>
           <sp who="ulisse" xml:id="IV02-1">
             <l n="1131" xml:id="l1131">Ouy sans doute il persiste en ses flames impures,</l>
             <l n="1132" xml:id="l1132">Et je n’en tire point de foibles conjectures.</l>
@@ -1586,6 +1655,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE TROISIESME.</head>
           <sp who="achille" xml:id="IV03-1">
             <l n="1169" xml:id="l1169">Mais je suis innocent puisque j’ay combatu</l>
             <l n="1170" xml:id="l1170">Pour vaincre le soupçon que l’armee avoit eu,</l>
@@ -1683,6 +1753,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE QUATRIESME.</head>
           <sp who="achille" xml:id="IV04-1">
             <l n="1247" xml:id="l1247">Crains-tu quelque ennemy quand ton oeil me contemple ?</l>
           </sp>
@@ -1761,6 +1832,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE CINQUIESME.</head>
           <sp who="achille" xml:id="IV05-1">
             <l n="1275" xml:id="l1275">Sçachez, vous qui tremblez aux actions hardies,</l>
             <l n="1276" xml:id="l1276">Qu’il est des chastimens, s’il est des perfidies,</l>
@@ -1777,6 +1849,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE SIXIESME.</head>
           <sp who="ajax" xml:id="IV06-1">
             <l n="1287" xml:id="l1287">Entrons effrontément, c’est trop de patience,</l>
             <l n="1288" xml:id="l1288">Et je crains les effets d’une telle alliance.</l>
@@ -1842,6 +1915,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE SEPTIESME.</head>
           <sp who="soldat" xml:id="IV07-1">
             <l part="F">Funestes aventures !</l>
             <l n="1324" xml:id="l1324">Je voy ce qu’ont predit tant de tristes augures,</l>
@@ -1863,7 +1937,9 @@
         </div>
       </div>
       <div type="act" xml:id="V">
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp who="ajax" xml:id="V01-1">
             <l n="1335" xml:id="l1335">Quoy grands Dieux ! qu’un debat aujourd’huy s’acomplisse,</l>
             <l n="1336" xml:id="l1336">Et devant nos vaisseaux, &amp; d’Ajax contre Ulisse ?</l>
@@ -2162,6 +2238,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE DERNIERE.</head>
           <sp who="ajax" xml:id="V02-1">
             <l n="1627" xml:id="l1627">Le vice, &amp; la vertu tendent à mesme fin,</l>
             <l n="1628" xml:id="l1628">Je montre nos vaisseaux, il montre son larcin,</l>
@@ -2343,6 +2420,7 @@
         </div>
       </div>
       <div>
+        <head>Extraict du Privilege du Roy.</head>
         <p>Par grace et Privilege du Roy donné à Roye, en datte du dernier Septembre, 1636. Et Signé, Par le Roy en son Conseil. DE MONSSEAUX, Il est permis à ANTOINE DE SOMMAVILLE, Marchand Libraire à Paris, d’imprimer ou faire imprimer, vendre et distribuer une piece de Theatre, intitulée, <hi rend="u"><hi rend="i">La Mort d’Achille et la dispute de ses armes</hi>, <hi rend="i">Tragedie</hi></hi>, durant le temps et espace de sept ans, à compter du jour qu’elle sera achevée d’imprimer. Et deffences sont faictes à tous Imprimeurs, Libraires, et autres, de contrefaire la dite piece, ny en vendre ou exposer en vente de contrefaicte, à peine de trois mille livres d’amende, de tous ses depens, dommages et interests ; ainsi qu’il est plus amplement porté par lesdites Lettres qui sont en vertu du present Extraict tenuës pour bien et deuëment signifiées, à ce qu’aucun n’en pretende cause d’ignorance.</p>
         <p>Achevé d’imprimer le 30. Octobre 1636.</p>
       </div>

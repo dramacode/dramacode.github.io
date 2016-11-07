@@ -1,8 +1,63 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Don Garcie de Navarre</title>
+        <title type="sub">Comédie</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2011, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2006"/>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_don-garcie-de-navarre/</idno>
+        <idno type="tei">http://svn.code.sf.net/p/theatre-classique/code/documents/moliere_don-garcie-de-navarre.xml</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1661" type="created"/>
+        <date when="1682" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="tragedy">Comédie héroïque</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div xml:id="I" type="act">
+        <head>Acte Premier</head>
         <div xml:id="I01" type="scene">
+          <head>Scène Première</head>
           <sp who="dona-elvire" xml:id="I01-1">
             <l n="1" xml:id="l1">Non, ce n’est point un choix, qui pour ces deux Amants,</l>
             <l n="2" xml:id="l2">Sut régler de mon cœur les secrets sentiments ;</l>
@@ -193,6 +248,7 @@
           </sp>
         </div>
         <div xml:id="I02" type="scene">
+          <head>Scène II</head>
           <sp who="dona-elvire" xml:id="I02-1">
             <l n="163" xml:id="l163">Votre retour surprend, qu’avez-vous à m’apprendre ?</l>
             <l n="164" xml:id="l164">Don Alphonse vient-il, a-t-on lieu de l’attendre ?</l>
@@ -249,6 +305,7 @@
           </sp>
         </div>
         <div xml:id="I03" type="scene">
+          <head>Scène III</head>
           <sp who="dom-garcie" xml:id="I03-1">
             <l part="F">Je viens m’intéresser,</l>
             <l n="202" xml:id="l202">Madame, au doux espoir, qu’il vous vient d’annoncer.</l>
@@ -530,7 +587,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>Acte II</head>
         <div xml:id="II01" type="scene">
+          <head>Scène Première</head>
           <sp who="elise" xml:id="II01-1">
             <l n="390" xml:id="l390">Tout ce que fait le Prince, à parler franchement,</l>
             <l n="391" xml:id="l391">N’est pas ce qui me donne un grand étonnement ;</l>
@@ -625,6 +684,7 @@
           </sp>
         </div>
         <div xml:id="II02" type="scene">
+          <head>Scène II</head>
           <sp who="dom-alvar">
             <l n="468" xml:id="l468">Enfin, nous apprenons que le Roi de Navarre</l>
             <l n="469" xml:id="l469">Pour les désirs du Prince, aujourd’hui se déclare ;</l>
@@ -635,6 +695,7 @@
           </sp>
         </div>
         <div xml:id="II03" type="scene">
+          <head>Scène III</head>
           <sp who="dom-garcie" xml:id="II03-1">
             <l part="F">Que fait la Princesse ?</l>
           </sp>
@@ -644,6 +705,7 @@
           </sp>
         </div>
         <div xml:id="II04" type="scene">
+          <head>Scène IV</head>
           <sp who="dom-garcie" xml:id="II04-1">
             <l n="476" xml:id="l476">J’attendrai qu’elle ait fait ; près de souffrir sa vue,</l>
             <l n="477" xml:id="l477">D’un trouble tout nouveau je me sens l’âme émue ;</l>
@@ -694,6 +756,7 @@
           </sp>
         </div>
         <div xml:id="II05" type="scene">
+          <head>Scène V</head>
           <sp who="dona-elvire" xml:id="II05-1">
             <l n="516" xml:id="l516">Vous avez bien voulu que je vous fisse attendre ?</l>
           </sp>
@@ -843,6 +906,7 @@
           </sp>
         </div>
         <div xml:id="II06" type="scene">
+          <head>Scène VI</head>
           <sp who="elise" xml:id="II06-1">
             <l part="M">Madame.</l>
           </sp>
@@ -1070,6 +1134,7 @@
           </sp>
         </div>
         <div xml:id="II07" type="scene">
+          <head>Scène VII</head>
           <sp who="dom-lope" xml:id="II07-1">
             <l part="F">Seigneur, je viens vous informer</l>
             <l n="731" xml:id="l731">D’un secret dont vos feux ont droit de s’alarmer.</l>
@@ -1127,7 +1192,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>Acte III</head>
         <div xml:id="III01" type="scene">
+          <head>Scène Première</head>
           <sp who="dona-elvire" xml:id="III01-1">
             <l n="764" xml:id="l764">Élise, que dis-tu de l’étrange faiblesse,</l>
             <l n="765" xml:id="l765">Que vient de témoigner le cœur d’une Princesse ?</l>
@@ -1204,6 +1271,7 @@
           </sp>
         </div>
         <div xml:id="III02" type="scene">
+          <head>Scène II</head>
           <sp who="dom-alphonse" xml:id="III02-1">
             <l n="823" xml:id="l823">Je sais que mon abord, Madame, est surprenant,</l>
             <l n="824" xml:id="l824">Et qu’être sans éclat entré dans cette Ville,</l>
@@ -1361,6 +1429,7 @@
           </sp>
         </div>
         <div xml:id="III03" type="scene">
+          <head>Scène III</head>
           <sp who="dom-garcie" xml:id="III03-1">
             <l n="966" xml:id="l966">Madame, mon abord, comme je connais bien,</l>
             <l n="967" xml:id="l967">Assez mal à propos trouble votre entretien ;</l>
@@ -1470,6 +1539,7 @@
           </sp>
         </div>
         <div xml:id="III04" type="scene">
+          <head>Scène IV</head>
           <sp who="dom-garcie" xml:id="III04-1">
             <l n="1050" xml:id="l1050">Tout vous rit, et votre âme en cette occasion</l>
             <l n="1051" xml:id="l1051">Jouit superbement de ma confusion ;</l>
@@ -1519,7 +1589,9 @@
         </div>
       </div>
       <div xml:id="IV" type="act">
+        <head>Acte IV</head>
         <div xml:id="IV01" type="scene">
+          <head>Scène Première</head>
           <sp who="dona-elvire" xml:id="IV01-1">
             <l n="1088" xml:id="l1088">Retournez, Don Alvar, et perdez l’espérance,</l>
             <l n="1089" xml:id="l1089">De me persuader l’oubli de cette offense ;</l>
@@ -1581,6 +1653,7 @@
           </sp>
         </div>
         <div xml:id="IV02" type="scene">
+          <head>Scène II</head>
           <sp who="elise">
             <l n="1132" xml:id="l1132">J’attendais qu’il sortît, Madame, pour vous dire,</l>
             <l n="1133" xml:id="l1133">Ce qu’il veut maintenant que votre âme respire,</l>
@@ -1605,6 +1678,7 @@
           </sp>
         </div>
         <div xml:id="IV03" type="scene">
+          <head>Scène III</head>
           <sp who="elise" xml:id="IV03-1">
             <l n="1146" xml:id="l1146" part="I">Où…</l>
           </sp>
@@ -1628,6 +1702,7 @@
           </sp>
         </div>
         <div xml:id="IV04" type="scene">
+          <head>Scène IV</head>
           <sp who="elise" xml:id="IV04-1">
             <l part="F">Seigneur, pour vous attendre</l>
             <l n="1154" xml:id="l1154">On a fait… Mais que vois-je ? Ha ! Madame, mes yeux…</l>
@@ -1656,6 +1731,7 @@
           </sp>
         </div>
         <div xml:id="IV05" type="scene">
+          <head>Scène V</head>
           <sp who="dom-alvar" xml:id="IV05-1">
             <l part="F">Le Prince me renvoie,</l>
             <l n="1173" xml:id="l1173">Vous prier que pour lui votre crédit s’emploie,</l>
@@ -1665,6 +1741,7 @@
           </sp>
         </div>
         <div xml:id="IV06" type="scene">
+          <head>Scène VI</head>
           <sp who="dom-garcie" xml:id="IV06-1">
             <l n="1177" xml:id="l1177">Ah ! sois un peu sensible à ma disgrâce extrême,</l>
             <l n="1178" xml:id="l1178">Élise, et prends pitié d’un cœur infortuné,</l>
@@ -1731,6 +1808,7 @@
           </sp>
         </div>
         <div xml:id="IV07" type="scene">
+          <head>Scène VII</head>
           <sp who="dom-garcie" xml:id="IV07-1">
             <l part="F">Que vois-je! ô justes Cieux,</l>
             <l n="1223" xml:id="l1223">Faut-il que je m’assure au rapport de mes yeux ?</l>
@@ -1800,6 +1878,7 @@
           </sp>
         </div>
         <div xml:id="IV08" type="scene">
+          <head>Scène VIII</head>
           <sp who="dona-elvire" xml:id="IV08-1">
             <l n="1256" xml:id="l1256">Hé bien que voulez-vous, et quel espoir, de grâce,</l>
             <l n="1257" xml:id="l1257">Après vos procédés peut flatter votre audace ?</l>
@@ -2039,6 +2118,7 @@
           </sp>
         </div>
         <div xml:id="IV09" type="scene">
+          <head>Scène IX</head>
           <sp who="dom-garcie" xml:id="IV09-1">
             <l n="1444" xml:id="l1444" part="I">Ô Ciel !</l>
           </sp>
@@ -2133,7 +2213,9 @@
         </div>
       </div>
       <div xml:id="V" type="act">
+        <head>Acte V</head>
         <div xml:id="V01" type="scene">
+          <head>Scène Première</head>
           <sp who="dom-alvar" xml:id="V01-1">
             <l n="1516" xml:id="l1516">Oui, jamais il ne fut de si rude surprise,</l>
             <l n="1517" xml:id="l1517">Il venait de former cette haute entreprise,</l>
@@ -2181,6 +2263,7 @@
           </sp>
         </div>
         <div xml:id="V02" type="scene">
+          <head>Scène II</head>
           <sp who="dona-elvire" xml:id="V02-1">
             <l part="F">Faites Don Alvar venir le Prince ici,</l>
             <l n="1552" xml:id="l1552">Souffrez que devant vous je lui parle, Madame</l>
@@ -2212,6 +2295,7 @@
           </sp>
         </div>
         <div xml:id="V03" type="scene">
+          <head>Scène III</head>
           <sp who="dom-garcie" xml:id="V03-1">
             <l n="1576" xml:id="l1576">Madame, avec quel front faut-il que je m’avance,</l>
             <l n="1577" xml:id="l1577">Quand je viens vous offrir l’odieuse présence…</l>
@@ -2296,6 +2380,7 @@
           </sp>
         </div>
         <div xml:id="V04" type="scene">
+          <head>Scène IV</head>
           <sp who="dona-elvire" xml:id="V04-1">
             <l n="1652" xml:id="l1652">Madame, au désespoir où son destin l’expose,</l>
             <l n="1653" xml:id="l1653">De tous mes déplaisirs n’imputez pas la cause,</l>
@@ -2351,6 +2436,7 @@
           </sp>
         </div>
         <div xml:id="V05" type="scene">
+          <head>Scène V</head>
           <sp who="dona-elvire" xml:id="V05-1">
             <l n="1690" xml:id="l1690">Avant que vous parliez je demande instamment,</l>
             <l n="1691" xml:id="l1691">Que vous daigniez, Seigneur, m’écouter un moment,</l>
@@ -2479,6 +2565,7 @@
           </sp>
         </div>
         <div xml:id="V06" type="scene">
+          <head>Scène VI</head>
           <sp who="dom-garcie" xml:id="V06-1">
             <l n="1803" xml:id="l1803">De grâce cachez-moi votre contentement,</l>
             <l n="1804" xml:id="l1804">Madame, et me laissez mourir dans la croyance,</l>

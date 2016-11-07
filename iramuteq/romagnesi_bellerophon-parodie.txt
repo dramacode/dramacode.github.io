@@ -1,0 +1,864 @@
+
+
+**** *book_ *id_I01 *act_I *date_1738 *creator_biancolelli
+
+-*who_philonoe
+Air 85.
+Le plaisir passe la peine.
+Amour, lorsque sous ton Empire,
+Sans esperance un cœur soupire,
+La peine passe le plaisir ;
+Mais malgré le poids de ta chaîne
+Lorsque l'Hymen peut adoucir,
+Le plaisir passe la peine.
+
+-*who_amazone2
+Palsanbleu ! la Princesse a raison, elle parle en connoisseuse.
+
+-*who_amazone1
+Air 86.
+Digue, diguedon.
+Un heureux penchant vous entraîne ;
+Bellérophon est tout charmant.
+
+-*who_philonoe
+Il dit qu'il aime tendrement.
+
+-*who_amazone1
+Parbleu ! vous valez bien la peine,
+Diguedi guedon, diguedon dondaine,
+Que l'on vous le dise souvent.
+
+-*who_philonoe
+Nous avons été bien traversés ; mais grace au Ciel, nous touchons au moment d'être heureux.
+
+-*who_amazone1
+Air 77.
+Quand je tiens de ce jus d'octobre.
+Il faut que d'amoureuses chaînes
+Coûrent toujours quelques soupirs ;
+Quand les Amans n'ont point de peine,
+Ils n'ont jamais de vrais plaisirs.
+
+-*who_philonoe
+L'aimable petit homme que Bellérophon !
+N'ai-je pas raison, Mesdames les Amazones ?
+Il est si brave.
+
+-*who_amazone1
+Têtebleu ! c'est un grivois des plus déterminés : quel abbateur de quilles !
+
+-*who_amazone2
+J'ai bien vû des hommes de ma vie, mais jamais un comme lui.
+
+-*who_amazone1
+Il faut assurément qu'il ait une rude force, puisqu'il nous a vaincuës ; jugez ce que doit être une femme armée de-pied-en-cap, lorsqu'elle est si redoutable en pete-en-l'air.
+
+-*who_philonoe
+Je crois, Mesdames, qu'il seroit à propos que vous chantassiez sa gloire.
+
+-*who_amazone1
+Cela seroit nouveau, des captifs chanter la gloire de leur vainqueur.
+
+-*who_amazone2
+Fi donc, cela ne feroit pas à sa place.
+
+-*who_philonoe
+Pardonnez-moi, il faut bien que des femmes s'amusent.
+
+-*who_amazone1
+Allons donc, chantons ses exploits pour la rareté du fait.
+Air 87.
+Menuet du Grandval.
+Sa brûlante ardeur pour la gloire
+En lui ne peut se moderer.
+
+-*who_amazone2
+Avec ce gaillard la victoire
+N'a pas le tems de respirer.
+Voilà ce qui s'appelle une gasconade Lyrique.
+
+**** *book_ *id_I02 *act_I *date_1738 *creator_biancolelli
+
+-*who_bellerophon
+Ah vous voilà, Princesse ? que je suis content !
+Air I. Zon, zon.
+Au gré de mon désir
+On couronne ma flame,
+Sentez-vous le plaisir,
+Qui chatouille mon ame ?
+Et zon, zon, zon
+Le sentez-vous, Madame ?
+Et zon, zon, zon,
+
+-*who_philonoe
+Oh ! je vous en réponds.
+Air 88.
+Pour la Baronne.
+Comme vos peines
+Causoient autrefois mes soupirs,
+Liés tous deux des mêmes chaînes,
+Je dois partager vos plaisirs
+Comme vos peines.
+
+-*who_bellerophon
+Air 42.
+Tu croyois en aimant Colette.
+Ah ! qu'un si doux aveu me touche !
+Qu'il rend mon destin glorieux !
+
+-*who_philonoe
+S'il ne me sortoit de la bouche,
+Il m'échaperoit par les yeux.
+
+-*who_philonoe_bellerophon
+Air 66.
+Il faut que je file, file.
+Qu'ici notre amour extrême
+Chante comme à l'Opera,
+Nous pouvons agir de même
+Qu'on agit en ce lieu-là.
+Et nous dire sans emblême
+Je vous aime, & cætera.
+Je vous aime, je vous aime.
+Le beau duô que voilà !
+
+-*who_philonoe
+Adieu mon petit bonhomme, aimez-moi toujours, & vous ne vous en repentirez pas.
+
+-*who_bellerophon
+Où allez-vous donc, ma poulette ? quoi vous m'abandonnez dans le moment le plus tendre ? cela n'est pas bien, vous trichez.
+
+-*who_philonoe
+Mon devoir m'appelle auprès de mon pere ; voici la Reine qui vient, je vous laisse avec elle.
+
+-*who_bellerophon
+Que diable vient-elle faire ici ? je m'en vais lui dire que je n'y suis pas.
+
+**** *book_ *id_I03 *act_I *date_1738 *creator_biancolelli
+
+-*who_stenobee
+Air 35.
+Le fameux Diogenes.
+Quand cessera ta haine ?
+Ma présence te gêne,
+Et je m'en apperçoi.
+
+-*who_bellerophon
+Quel aspect effroyable !
+Oui, je crois voir le Diable
+Lorsque je vous revoi.
+Je suis sincère, comme vous voyez.
+Que me demandez-vous ? vous m'avez fait bannir d'Argos, & vous venez me relancer jusqu'en ce lieu : de grace, laissez-moi en repos.
+
+-*who_stenobee
+Air 89.
+La ceinture.
+Je sçai les maux que je t'ai faits,
+Mais malgré ma rigueur extrême,
+Ne me dis plus que je te hais,
+Ou reproche-moi que je t'aime.
+
+-*who_bellerophon
+Que veut dire ce jeu de mots-là ? le Diable m'emporte si j'y entends rien.
+Air 23.
+Laire la, laire lanlaire.
+Par la rage, & par les fureurs
+L'Amour prouve-t'il ses ardeurs ?
+Est-ce ainsi que l'on doit faire ?
+Laire la, laire lanlaire,
+Laire la,
+Laire lanla.
+
+-*who_stenobee
+Je t'avouërai, mon cher Bellérophon, qu'une extrême pudeur m'empêcha d'écouter ma tendresse.
+
+-*who_bellerophon
+Têtebleu, le tems vous a bien aguerrie ! vous avez secoué le joug des préjugés, à ce que je vois ? allons, allons, songez qu'il ne convient pas à une Dame de faire les avances, adieu.
+
+-*who_stenobee
+Quoi, tu me quittes !
+
+-*who_bellerophon
+Oh ! si vous ne me laissez, j'appellerai du monde à mon secours.
+
+-*who_stenobee
+Arrête, cruel.
+
+-*who_bellerophon
+Air 269.
+Vous y perdez vos pas, Nicolas.
+
+**** *book_ *id_I04 *act_I *date_1738 *creator_biancolelli
+
+-*who_stenobee
+Air 29.
+Je ne suis né ni Roi ni Reine.
+Tu me quittes, barbare ? arrête !
+Mais par ma foi je suis bien bête
+D'aimer un traître qui me fuit :
+Telle est notre ardeur imprudente,
+L'amour trop heureux s'affoiblit,
+Et l'amour malheureux s'augmente.
+Mais voici Amisodar qui vient fort à propos.
+
+**** *book_ *id_I05 *act_I *date_1738 *creator_biancolelli
+
+-*who_stenobee
+Air 310.
+Janeton m'aimez-vous ?
+Amisodar, m'aimez-vous ?
+
+-*who_amisodar
+Voyez quel conte,
+
+-*who_stenobee
+Servirez-vous mon courroux ?
+
+-*who_amisodar
+Ma main est prompte.
+
+-*who_stenobee
+Je puis donc compter sur vous ?
+
+-*who_amisodar
+Quel chien de conte.
+Air 306.
+Vous avez en moi ce qui s'appelle.
+Ah ! du moins, ne doutez pas, cruelle
+De mes feux, & de votre pouvoir,
+Vous avez en moi ce qui s'appelle
+Un Amant qui vous aime, il faut voir.
+
+-*who_stenobee
+Air 11.
+Robin Turelure.
+L'insolent Bellérophon,
+M'a fait une horrible injure,
+Loin de m'en faire raison
+Turelure,
+Le Roi la sçai & l'endure,
+Robin turelure.
+Air 90.
+Réjouissez-vous, bons François.
+Lui-même au lieu de le punir,
+Avec sa fille il va l'unir :
+Troublons l'Hymen qui se prépare
+Par une vengeance barbare.
+
+-*who_amisodar
+J'y consens.
+Air 5.
+Les Trembleurs.
+Mon pouvoir que rien n'égale
+Peut de la nuit infernale
+Evoquer la mort fatale,
+Et la répandre en ces lieux :
+Je puis, armé du Tonnerre
+Aux mortels livrer la guerre,
+Et désoler cette terre
+Par un monstre furieux.
+
+-*who_stenobee
+Non, non, point de Tonnerre, le Monstre me divertira davantage.
+
+-*who_amisodar
+Que dites-vous, Madame ?
+Air 91.
+C'est le bout du bras.
+Pour vous ce spectacle est effrayant.
+
+-*who_stenobee
+N'importe, n'importe.
+Que de la terre à l'instant
+Le monstre sorte, le monstre sorte.
+
+-*who_amisodar
+Madame, éloignez-vous
+Je vais servir votre courroux.
+
+**** *book_ *id_I06 *act_I *date_1738 *creator_biancolelli
+
+-*who_amisodar
+Que ce Jardin se change en un Sabat affreux.
+
+-*who_amisodar
+Air 92.
+Quel plaisir d'aimer sans contrainte.
+Accourez Sorciers, & sorcieres,
+Joignez à mon Art vos noirs misteres,
+Et surtout mettez de la partie
+Les Diables de basse Normandie.
+
+**** *book_ *id_I07 *act_I *date_1738 *creator_biancolelli
+
+-*who_sorciers
+Parle, nous voilà prêts, tout nous sera possible.
+
+-*who_amisodar
+Allons mes enfans, il s'agit d'un coup de maître : il faut faire sortir des enfers un monstre qui fasse ici le Diable à quatre.
+
+-*who_sorciers
+Air 93.
+Ramplan.
+Par le commandement,
+Que le Tenare s'ouvre,
+Ramplan, pataplan,
+Ramplan, promptement,
+Que l'enfer se découvre
+Dans ce même moment,
+Ramplan.
+
+-*who_amisodar
+Poursuivez mes amis, cela va à merveilles.
+Il faut avoüer que voilà un beau spectacle !
+Air 28.
+Je reviendrai demain au soir.
+Faites sentir votre pouvoir
+Au ténébreux manoir, bis.
+Pressez, appellez à grand bruit,
+Et la mort, & la nuit. bis.
+
+-*who_amisodar
+Que les peuples de cette contrée éprouvent nos fureurs, quoiqu'ils ne nous ayent rien fait.
+
+-*who_sorciers
+Air 94.
+Passant sur le Pont-Neuf.
+Noires filles du Styx, Hecate, Erebe, Averne,
+Nuit, Mort, Chiens des enfers que la fureur gouverne,
+Que l'on travaille
+A désoler cette Canaille,
+Entendez nos clameurs, c'est pour vous que l'on braille.
+
+-*who_amisodar
+Air 38.
+Nanon dormoit.
+Les charme est fait, remercions Hecate.
+Ah ! les voilà.
+Qui sont ces monstres-là ? …
+Un Procureur, un suivant d'Hipocrate,
+Avec un Maltotier.
+Messiers, vous sçavez bien votre métier.
+Voilà ce qui s'appelle trois monstres bien complets : quel ravage cela va faire !
+Messieurs, si vous dansiez pour vous rejoüir d'avoir fait une si belle besogne… Mais non, il me vient une meilleure pensée ; attendez.
+Air 95.
+Les Feüillantines.
+Pour mettre Prince, & Bourgeois
+Aux abois,
+N'en formons qu'un de ces tris :
+Aux enfers faisons le pacte,
+Cela vient à propos pour finir l'Acte.
+Air 34.
+Mon Pere je viens devant vous.
+Allons ne perdons point de tems,
+Aux enfers descendons ensemble,
+Il faut des charmes plus puissants
+Pour faire qu'un corps les rassemble.
+
+-*who_sorcier
+Pour assoûvir votre fureur,
+C'étoit assez du Procureur.
+
+-*who_amisodar
+Ah ! vous faites tort au mérite des ces Messieurs, chacun vaut son prix ; mais ce sera bien autre chose quand ils seront réünis : virtus unita fortior.
+Air 29.
+Je ne suis né ni Roi ni Prince.
+Par ce redoutable assemblage
+Je puis mieux signaler ma rage ;
+On voudra l'éviter e vain.
+Si de leur essence subtile,
+Je puis ne faire qu'un venin,
+Tout antidote est inutile.
+
+**** *book_ *id_I08 *act_I *date_1738 *creator_biancolelli
+
+-*who_le_roi
+Air 96.
+Trois voleurs insolens.
+Un Monstre bien méchant
+S'en va tout dévorant
+Dans les champs, dans la ville,
+Et quoique je sois Roi,
+Je crains aussi pour moi
+Sa fureur incivile.
+
+-*who_stenobee
+Voilà ce que c'est que de donner asyle à des coupables, ils nous attirent toûjours quelque malheur; mais après tout, Seigneur, vous devez vous rassurer.
+
+-*who_le_roi
+Comment me rassurer lorsque cet animal furieux fait ici tant de ravages ?
+
+-*who_stenobee
+Air 61.
+Lanturlu.
+De ce Monstre horrible
+Que craignez-vous donc ?
+Rien n'est impossible
+A Bellerophon;
+Son bras invincible
+L'aura bien-tôt abbatu,
+Lanturlu lanturlu lanturlu.
+
+**** *book_ *id_I09 *act_I *date_1738 *creator_biancolelli
+
+-*who_bellerophon
+Ah !
+Ah !
+Vous voilà beau-père, vous allez apparemment consulter l'Oracle d'Apollon.
+
+-*who_le_roi
+Air 26.
+Joconde.
+Vous sçavez que de mes états
+C'est le Dieu Tutelaire
+Et lui seul dans cet embarras
+Peut me tirer d'affaire.
+
+-*who_bellerophon
+Et que peut sa protection ?
+Insensé que vous êtes,
+Ne sçavez-vous pas qu'Apollon
+Est le Dieu des Poëtes ?
+Ma foi il ne peut pas vous rendre de grands services; mais laissez-moi faire, je vais combattre le Monstre, moi.
+
+-*who_le_roi
+Que dites-vous là ? vous n'y pensez pas.
+
+-*who_bellerophon
+Pardonnez-moi.
+Air 10.
+La serrure.
+Lorsqu'à sa fureur meurtriere
+Tous vos sujets sont exposés,
+A mon avis, mon cher beau-pere,
+Resterai-je les bras croisés ?
+
+-*who_le_roi
+Sçavez-vous bien, Seigneur Bellerophon, que ce Monstre-là en vaut trois pour le moins ?
+
+-*who_bellerophon
+Malepeste ! trois contre un, la partie n'est point égale; de quoi s'avise cet animal d'être triple ? mais n'importe, je veux en essayer.
+Air 90.
+Réjoüissez-vous bons François.
+Ma foi ce seroit un beau coup,
+Si j'en pouvois venir à bout,
+On écriroit mon avanture
+Dans la Gazette & le Mercure
+
+**** *book_ *id_I10 *act_I *date_1738 *creator_biancolelli
+
+-*who_philonoe
+Air 14.
+Or écoutez petits & grands.
+Je viens partager vos douleurs,
+A vos larmes joindre mes pleurs,
+
+-*who_le_roi
+Contre le Monstre qui les cause,
+Bellérophon court, & s'expose,
+Y consens-tu ma fille ?
+
+-*who_philonoe
+Hélas ! Vous-même n'y consentez pas.
+Air 47.
+Ma raison s'en va bon train.
+Tout prêt d'être mon Epoux,
+Quoi vous exposeriez-vous ?
+Non, demeurez-là,
+
+-*who_bellerophon
+Il succombera,
+Vous verrez sa défaite.
+Ah ! Sans ce chien de monstre-là,
+L'affaire seroit faite.
+
+-*who_le_roi
+Le Temple s'ouvre, entrons.
+
+**** *book_ *id_I11 *act_I *date_1738 *creator_biancolelli
+
+-*who_peuple
+Air 97.
+Ah !
+Madame Anroux.
+Ah ! Grand Apollon
+Délivre-nous donc
+D'une affreuse bête,
+Par ton divin nom,
+De plus par la tête
+Du serpent Python.
+
+-*who_le_sacrificateur
+Air 19.
+Quand on a prononcé ce malheureux oüi.
+Reçois, grand Apollon, reçois ce Sacrifice,
+Fais qu'à nos justes vœux le destin soit propice.
+Où est l'animal ?
+
+-*who_bellerophon
+Le voilà.
+
+-*who_bellerophon
+Comment donc, c'est du Bourgogne !
+Monsieur le Sacrificateur, ne versez pas tout s'il vous plaît, gardez-en pour moi.
+
+-*who_le_sacrificateur
+Air 98.
+Au son de cet instrument.
+Puisse ce vin répandu
+Faire cesser notre tristesse.
+
+-*who_bellerophon
+Hélas si nous l'avions bû
+Nous serions tous dans l'allegresse !
+
+-*who_le_sacrificateur
+Mes enfans, allons,
+Courons volons
+Vite immolons
+Le Bœuf,
+
+-*who_bellerophon
+Puis nous le mangerons.
+
+-*who_le_sacrificateur
+Cela va bien, mes enfans, ah ! le beau cœur.
+
+-*who_bellerophon
+Il sera bien meilleur sur le gril.
+
+-*who_le_sacrificateur
+Peuples, réjoüissez-vous, & dansez autour du feu.
+
+-*who_bellerophon
+Oui, oui, c'est bien dit, je vais mener le branle.
+Air 99.
+Et lon lan la ma tourelourirete.
+Le Servante de chez nous
+A fait faire une jaquette,
+Et lon lan la ma tourelourirette
+Trop courte par les genoux
+Et lon lan la ma tourelouriroux.
+
+-*who_le_sacrificateur
+Grand Apollon nous n'attendons plus que votre réponse.
+
+-*who_pythie
+Air 15.
+Pierre Bagnolet.
+Je n'étois pas fort nécessaire
+Pour vous annoncer Apollon,
+Mais dans une importante affaire
+Il faut toûjours du carillon,
+Du carillon, bis.
+Eh bien ! on va vous stisfaire,
+Et tonner sur un joli ton.
+Phœbus va parler, que le Théatre s'obscurcisse, & représente la nuit.
+
+-*who_bellerophon
+Air 100.
+Quand la Bergere vient des Champs.
+Quoi nous faire voir dans un four
+Le Dieu du jour !
+Ah le beau tour !
+Nous ne souffrirons point cela,
+Cette sottise,
+N'étoit permise
+Qu'a l'Opera.
+
+-*who_apollon
+Air 33.
+Flon, flon.
+Un des fils de Neptune
+Appaisera, dit-on,
+La Celeste rancune ;
+Mais il lui faut Fanchon ;
+Flon, flon, &c.
+
+-*who_le_roi
+Air 1.
+Zon, zon, zon.
+Je suis tout confondu…
+Comme vous j'en soupire,
+Vous l'avez entendu…
+Je ne lui fais pas dire.
+
+-*who_bellerophon
+Et bon, bon, bon,
+Moi je n'en fait que rire,
+Et bon, bon, bon,
+Quelle est cette Fanchon ?
+
+-*who_philonoe
+Hélas ! c'est moi : c'est le nom que je portois étant petite fille.
+
+-*who_bellerophon
+C'est bien le Diable ! morbleu voilà un Oracle qui me chifonne malheur.
+Air 101.
+Rossignolet du vert boccage.
+Quoi ! je vous perds ma Fanchonnette !
+Fatal revers !
+
+-*who_philonoe
+Bellerophon, je le répete,
+Quoi je vous perds !
+
+-*who_bellerophon
+Voilà, je vous l'avouë, un fort vilain contretems ; nous étions justement formés l'un pour l'autre, & nous aurions fait le plus joli couple du monde.
+Mais ma mignonne, croyez-moi, malgré tout cela…
+
+-*who_philonoe
+Non, mon fils, n'y pensons plus.
+
+-*who_bellerophon
+Comment n'y pensons plus ? cela vous est bien aisé à dire.
+
+-*who_philonoe
+Il le faut bien, puisque l'Oracle s'oppose à notre hymen.
+
+-*who_bellerophon
+Qu'est-ce que cela fait ? c'est peut-être un bien pour nous que de ne nous pas marier, nous nous en aimerons plus lomgtems.
+Air 102.
+Car mon cœur n'est point partagé.
+Apollon a beau parler
+Contre nos ardeurs mutuelles ;
+De quoi va-t'il se mêler
+De séparer deux cœurs fidéles ?
+
+-*who_philonoe_bellerophon
+Ma foi malgré le destin
+Nous irons toûjours notre train. bis.
+
+**** *book_ *id_I12 *act_I *date_1738 *creator_biancolelli
+
+-*who_voix_derriere_theatre
+Garre le Monstre, fuyons, fuyons.
+
+-*who_petite_fille
+Air 4.
+Voici les Dragons.
+Qu le Monstre est en colère !
+Vîte sauvons-nous ;
+Il a mangé ma grand-Mere,
+Il vous mangera, ma Mere,
+Et moi itou,
+Et moi itou.
+
+**** *book_ *id_I13 *act_I *date_1738 *creator_biancolelli
+
+-*who_bellerophon
+Ah ! nous sommes perdus ! le Monstre s'avance, quelle fumée, s'il me rencontre je suis gobé… mais cependant laisserai-je périr la Princesse ? cela ne seroit pas honnête… Allons Bellerophon animo, courage… courage ? c'est bien dit, mais tout franc, je n'en ai guere… il faut pourtant faire comme si j'en avois, car c'est ici le plus interessant de la piece : après tout, sans ma petite Fanchon que m'importe de vivre ?
+Air 15.
+Pierre Bagnolet.
+O mort, dans mon malheur extrême
+Tu vas bientôt me secourir,
+Mais je m'en fais un bien suprême;
+A ce monstre je vais m'offrir,
+Sûr de perir, bis.
+Quand on a perdu ce qu'on aime,
+Il ne reste plus qu'à mourir.
+
+**** *book_ *id_I14 *act_I *date_1738 *creator_biancolelli
+
+-*who_poete
+Qu'est-ce, Seigneur Bellerophon, vous me paroissez bien embarassé ? vous attendez sans doute Pallas pour vous tirer d'affaire ? car il faut toûjours que le merveilleux s'en mêle point du tout, c'est moi qui vais faire ce miracle-là.
+
+-*who_bellerophon
+Air 103.
+Margot sur la brune.
+Sçachons qui vous êtes.
+
+-*who_poete
+Le plus grand des Poëtes.
+Les Muses sont prêtes
+A mon moindre signal :
+Les Tragédies,
+Les Comédies,
+Les Parodies,
+Tout m'est égal.
+
+-*who_bellerophon
+C'est-à-dire qu'il fait tout mal.
+Quoi ! c'est avec les Tragédies que vous prétendez tuer la Chimere ? il est vrai qu'Attalie lui a donné une terrible entorce.
+
+-*who_poete
+Air 104.
+Tiquetaque & lon lan la.
+Pour le vaincre, il faut, mon cher,
+Combattre le Monstre en l'air :
+Sur Pegaze en assurance,
+Tiquetique taque & lon lan la,
+Vous aurez heureuse chance.
+
+-*who_bellerophon
+Mauvais moyen que cela.
+Et s'il trébuche, où en serai-je ? car on lui a diablement gâté la bouche… mais a propos de Pegaze, est-ce que vous en pouvez disposer ?
+
+-*who_poete
+Air 89.
+La Ceinture.
+De moi seul il reçoit la Loi,
+Je le tiens dans mon Ecurie.
+
+-*who_bellerophon
+La pauvre bête par ma foi,
+Y doit être bien mal nourrie.
+
+-*who_poete
+Venez-vous, dis-je, suivez-moi, & ne craignez rien ; montez hardiment ce superbe Cheval.
+
+-*who_bellerophon
+Oüi : mais je n'ai point de bottes, prétez-moi donc des guétres… en conscience puis-je me fier à vous ?
+
+-*who_poete
+Belle demande ! montez sur le Pegaze & soyez sûr de la victoire.
+
+-*who_bellerophon
+Air 33.
+Flon flon
+Hélas ! mon cher Poëte,
+Quand je l'aurai monté
+Je crains qu'il ne me traite
+Comme ilvous a traité,
+Et flon flon
+La rira dondaine
+Guay guay
+La rira dondé.
+
+-*who_peuple
+Air 270.
+Quelle horreur ! quel ravage !
+Le Monstre redouble sa rage.
+
+-*who_peuple
+Air 59.
+M. Lapalisse est mort.
+Le Monstre a fini son sort ;
+Ne craignons plus sa furie.
+Ma foi s'il ‘étoit pas mort,
+Il seroit encore en vie.
+
+**** *book_ *id_I15 *act_I *date_1738 *creator_biancolelli
+
+-*who_le_roi
+Voilà bien des nouvelles, ma fille.
+Cet Oracle qui t'a tant fait pleurer est enfin éclairci ; Bellerophon est ce fils de Neptune qui t'étoit destiné ; ce Dieu nous l'a dit lui-même.
+
+-*who_philonoe
+Mais, mon Pere, en verité je n'y comprends rien, comment cela s'est-il donc fait ?
+
+-*who_le_roi
+Je vais te l'expliquer.
+Air 26.
+Joconde.
+D'une Nymphe ce Dieu craignit
+La jalouse colere,
+Et quand Bellerophon nâquit,
+Il cacha ce mistere,
+La belle n'eut aucun soupçon
+De cette manigance,
+Et Glaucus lui prêta son nom
+Comme on le fait en France.
+
+**** *book_ *id_I16 *act_I *date_1738 *creator_biancolelli
+
+-*who_le_roi
+Mais voici Stenobée : vous venez apparemment, Madame, partager la joie publique ; sçavez-vous bien que Bellerophon est fils de Neptune, & qu'il a tué le Monstre ?
+
+-*who_stenobee
+Je ne sçais que trop.
+
+-*who_le_roi
+Ah !
+Cela vous fâche, parce que vous n'êtes pas des amis de Bellerophon.
+
+-*who_stenobee
+Air 105.
+Trop d'Amour enfin.
+Pour Bellerophon j'avois l'ame éprise
+De la plus sensible ardeur,
+Et toute femme que l'on méprise
+Doit avoir recours à la fureur.
+Air 106.
+Depuis que j'ai vû Nanette.
+Amisodar, par ses charmes
+Secondant mon désespoir,
+A rempli ces lieux d'allarmes,
+Comme vous l'avez pû voir,
+Il crût se donnant au Diable,
+Voir son feu récompensé,
+Mais le pauvre misérable
+N'en est pas plus avancé.
+
+-*who_le_roi
+Ah le coquin !
+Gardes qu'on le saisisse.
+Air 65.
+Va t'en voir s'ils viennent.
+Que les Archers promptement
+Devant nous l'amenent.
+
+-*who_stenobee
+Puisqu'il s'est enfui, comment
+Veux-tu qu'ils le prennent ?
+Va-t'en voir s'ils viennent, Jean, &c.
+
+-*who_le_roi
+Hé bien scelerate tu vas payer pour lui.
+
+-*who_stenobee
+Air 107.
+Charmante Gabrielle.
+Je ne crains point ta haine,
+J'ai par précaution
+pour soulager ma peine
+Sçû prendre du poison :
+En ce moment je céde
+A ses effets.
+Oh ! l'excellent remede
+Pour les forfaits.
+
+-*who_philonoe
+Air 108.
+N'y a pas d'mal à ça.
+Comme sa rage est forte !
+Comme la voilà !
+Seigneur elle est morte.
+
+-*who_le_roi
+Que nous fait cela ?
+N'y a pas d'mal à ça. bis.
+Mais voici Bellerophon : ces Trompettes & ces Timballes nous l'annoncent.
+
+**** *book_ *id_I17 *act_I *date_1738 *creator_biancolelli
+
+-*who_le_roi
+Ah !
+Seigneur, que ne vous devons-nous pas ?
+
+-*who_bellerophon
+Ouf ! voilà un combat qui m'a bien donné de la peine.
+Vous sçavez sans doute que je suis le fils de Neptune ? il est inutile que Pallas vienne vous l'apprendre.
+
+-*who_philonoe
+Quel bonheur ! mon cher Bellerophon.
+
+-*who_le_roi
+Air 62.
+Mariez, mariez, mariez-moi.
+Allons donnez-vous la main,
+Je couronne votre flame.
+
+-*who_bellerophon
+Non, remettons à demain,
+Car j'ai mes raisons, Madame,
+
+-*who_philonoe
+Expliquez, expliquez-vous sans détour.
+
+-*who_bellerophon
+Vaincre un Monstre, & prendre femme,
+Palsambleu mon petit cœur, mon amour ;
+Ce seroit trop pour un jour.
+FIN

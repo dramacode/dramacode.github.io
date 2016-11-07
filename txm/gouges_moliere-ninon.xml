@@ -1,41 +1,111 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Molière chez Ninon ou Le siècle des grands hommes. Pièce épisodique en prose et en cinq actes.</title>
+        <author key="Gouges, Olympe de (1748-1793)">Olympe de Gouges</author>
+        <principal>Georges Forestier</principal>
+        <editor>Céline Grihard</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Céline Grihard dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2013-2014)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/gouges_moliere-ninon/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1788"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Pièce épisodique en prose et en cinq actes</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>MOLIERE CHEZ NINON <lb/>OU <lb/>LE SIECLE DES GRANDS HOMMES. <lb/>PIECE EPISODIQUE, <lb/>EN PROSE ET EN CINQ ACTES.</head>
       <div xml:id="preface">
         <pb n="a"/>
+        <head>PREFACE DE MOLIERE CHEZ NINON.</head>
         <p>C<hi rend="sc">onvaincue</hi> de l’animosité de la Comédie Françoise, et assurée de son injustice pour tout ce qui pourroit me concerner, je voulus essayer de nouveau de la mettre à l’épreuve, malgré ce dont elle est capable : mais ai-je pu croire qu’elle auroit égard aux nouveaux efforts que je ferai pour lui présenter un ouvrage qui la rendroit plus équitable envers moi. On a beau se plaindre, on a beau faire, un Auteur ne renonce pas sans peine à la Comédie Françoise, quand une fois il y est parvenu, et qu’il n’y a point échoué. Ce n’est pas les Comédiens qu’il faut considérer ; c’est le Théâtre, c’est le goût de la Nation qui le couvre de gloire, quand il a eu le bonheur de réussir. Mais pour y renoncer sans y avoir échoué, il faut être comme moi rebuté, indigné des Comédiens, comme on le verra dans le cours de ma Préface, par les sacrifices que je me propose de faire, d’après les principes de Mademoiselle Contat, de Madame Bellecourt, et les prétendus réglemens inebranlables de la Comédie Françoise ; je cherchai dans mon esprit quel moyen je pourrois trouver pour me la rendre favorable. Bientôt mon imagination me fournit le plan de Molière chez Ninon. J’avoue sincèrement que ce fut dans un rêve que j’achevai de le concevoir. A peine ai-je traité ce sujet,<pb n="b"/> qu’enthousiasmée de moi-même, je n’eus plus devant mes yeux les mauvais procédés de la Comédie. En faveur de Molière, je les oubliai tous, et je me figurois que la Comédie, à son tour, prendroit le plus grand intérêt à la Pièce qu’elle doit jouer, et pour celle que j’allois lui offrir, qui portoit un nom sacré pour elle. Avant de lui demander lecture pour cette Pièce, je la soumis aux lumières des Hommes-de-Lettres les plus recommandables du siècle : tous m’en firent les plus grands éloges, et c’est d’après leur <ref target="#sentiment4">sentiment*</ref> que je demandai lecture. Quoi ! m’écriai-je ? J’ai fait une bonne Comédie, et c’est à l’injustice des Comediens que je dois cet <ref target="#heureux4">heureux*</ref> sujet ! Molière, leur soutien, leur Fondateur, y joue un si beau rôle ; j’ai eu le bonheur de rendre ce Grand-Homme au naturel. Ah ! combien la Comédie va me savoir bon gré de lui prouver mon amour pour cet homme immortel ! Combien ils seront <ref target="#facher">fâchès*</ref> d’avoir mal interprêté mes Lettres ; et combien ils vont m’encourager, et me remercier d’avoir cherché à leur plaire à ce point. Le suffrage des hommes éclairés étoit moins capable de me rassurer que la Lettre de Madame Bellecourt, où je ne voyois plus que ses phrases : « Quant à la Maison de Molière, fut-elle aussi mauvaise qu’elle nous le paroît, (car c’est ce qu’elle entendoit dire vraisemblablement), elle porte un nom sacré pour tous les François, je dis plus, pour l’Europe entière ; et je vous assure, Madame, que, depuis les plus savans Littérateurs, jusqu’aux plus ignorans Barbouilleurs de papier, aucun hors vous n’a trouvé extraordinaire l’hommage que nous avons rendu à cet homme immortel ».<pb n="c"/> Après ces lignes, j’ajoutai que tel Auteur, où l’Actrice qui ne me rendra pas justice, en rougissant de honte de m’avoir si mal connue, et si indécemment interprêté mes expressions ; et s’il est vrai que tout ce qui porte le nom de
           Molière est respecté pour eux, ils recevront ma Pièce, quand elle seroit détestable, pour l’amour de ce Grand-Homme seulement. Tout autre que moi auroit pensé de même. Voilà comme je colorois mes rêveries et mes espérances auprès des Comédiens François. Enthousiasmée d’avoir composé, en moins de six jours, un Ouvrage aussi conséquent, avoir dépouillé l’Histoire des faits les plus intéressans, et les avoir mis en action, sans oublier la plus petite circonstance ; et n’ayant pas perdu de vue le but moral, je me crus, je l’avoue, un talent distingué ; mais les Bulletins de la Comédie m’ont forcé à reconnoître toute ma médiocrité et mon ignorance. Moi qui m’étois instruite pour la première fois, le fruit que j’en avois recueilli me faisoit espérer que si je me livrois à l’étude je pourrois trouver moins d’obstacles. Si je m’en rapportois au jugement des Comédiens, je n’apprendrois plus rien, et je deviendrois aussi ignorante qu’eux, quoiqu’ils apprennent beaucoup. Cependant leur opinion n’a pas détruit celle que j’avois de ma Pièce, et que je ne croirai pas déplacée, malgré leur témoignage, à moins que les hommes éclairés qui m’en ont dit du bien me disent qu’ils se sont trompés, et que les Journalistes instruits m’assurent que je suis dans l’erreur. Alors, bonnes gens, je conviendrai que vous avez raison, que vous n’ignorez pas l’Histoire de Molière et de tous les Grands-Hommes que j’ai mis sur la scène, et que<pb n="d"/> je ne vous considérerai plus comme une Troupe joyeuse qui faites rire et pleurer machinalement, et que vous ne connoissez jamais les caractères que vous rendez. Je serai persuadée à jamais que vous êtes spirituels ! savans ! et justes sur-tout ! Je conviendrai donc, en vous demandant pardon d’avance, si ma Pièce est jugée de nouveau, d’après le témoignage que vous en avez rendu, que je suis une femme ridicule ; et que n’ayant pas eu l’esprit de connoître les Personnages que j’ai traités, je n’ai pas même le sens commun, j’ose vous assurer de vous venger de l’outrage que je vous fais, si ce n’est pas au contraire des vérités que vous avez mérité au centuple ; mais voici la Lettre qui va me justifier, et je défie la Comédie de me démentir d’un seul mot de ce que j’avance.</p>
       </div>
       <div xml:id="lettre-comedie">
+        <head>LETTRE A la Comedie.</head>
         <p>« <hi rend="b">A</hi><hi rend="sc">pres</hi> une quantité de Pièces sans intrigues que vous jouez, j’avois cru devoir espérer, sans <ref target="#prevention1">prévention*</ref>, que la Comédie ouvriroit les yeux sur l’action, et sur l’intérêt de mon Drame, qui est écrit, je l’avoue, avec plus de naturel que d’élégance : il semble même que le Public est fatigué d’entendre, et de ne point sentir ; j’ai cru entrevoir que la Comédie avoit pour moi une haine implacable. Ce qui a dû m’en convaincre, c’est le ridicule que m’ont prêté quelques-uns de ses Membres, à l’occasion du grand Molière ; moi qui ne<pb n="e"/>suis devenue Auteur qu’en admirant cet homme immortel. J’ai donc cherché tous les moyens de la persuader de cette vérité, et de la désarmer sur mon compte. La Servante de Molière m’a paru d’abord un sujet propre à l’intéresser en ma faveur : mais à peine l’ai-je conçu, que Molière m’est apparu dans un songe. Il me traça lui-même le plan que je viens de traiter. « Suis-le, me dit-il, je te promets que la Comédie reviendra sur ton compte ». Mais à peine ai-je mis la dernière main à ce pénible Ouvrage, que le découragement s’est emparé de moi, quand il a fallu me déterminer à vous en demander la lecture. Des personnes de génie, et consommées dans la Littérature, m’ont assuré cette Production bonne : à mon avis, il n’en est point de meilleure, et il m’est bien permis de le croire ; mais elle n’a point encore obtenu votre suffrage, et l’on peut douter du succès. Ainsi donc mes espérances se bornent à obtenir une prochaine lecture, en faveur du nom qu’elle porte : Molière chez Ninon, ou le Siècle des grands-hommes.</p>
+        <quote>
+          <p>« J’ai l’honneur d’être, etc. »</p>
+        </quote>
         <p>Quoique ma lettre se sente de l’enthousiasme, et du feu de la composition, je n’avois pas moins lieu de m’attendre à une réponse la plus satisfaisante de la part de la Comédie ; mais comme elle prètend qu’il est dangereux de m’écrire, elle me fit faire la réponse de vive voix, qui étoit de m’accorder la lecture huit jours après. Je dois lui observer deux mots sur sa répugnance à m’écrire : si ses intentions étoient bonnes, pourquoi crain/<pb n="f"/>/droit-elle de les déposer sur le papier ? Mais comme elle est persuadée que sa conduite les démentiroit, elle préfère garder un mal-honnête silence ; elle s’est fait une loi de ne presque plus répondre à personne ; je ne dois donc pas me plaindre particulièrement. Depuis près de quatre ans que la Comédie fait le tourment de ma vie, je suis le seul Auteur qui, ayant plus à m’en plaindre qu’aucun, se soit tû si long-tems ; je n’avois jamais rien fait imprimer contre elle jusqu’à présent, et par une bisarrerie de ma part, ou pour mieux dire une justice rendue aux talens, n’ai-je pas loué les Comédiens qui méritoient de l’être ? Qui est-ce qui a excité la verve des Gens-de-Lettres en faveur de la retraite de Préville, si ce n’est ma Préface de l’Homme Généreux ? Le bien que j’ai dit de la Comédie, tout recemment, dans la Préface du Philosophe corrigé, en me donnant tort à moi-même de ma trop grande <ref target="#petulance">pétulence*</ref>, et la lettre injuste à mon sexe, que j’ai cachée au Public dans ces circonstances de sa part, prouve assez combien je suis touchée, et reconnoissante de la plus petite faveur. A cette occasion, je vais citer une remarque fort aimable de Mademoiselle Contat, dans sa visite de remerciement de la part que j’avois prise à son incommodité. Au ressentiment que je lui témoignai de la lettre de la Comédie, qui convient que mon sexe court un danger évident sur la scène Françoise. Il faut croire, Madame, que lorsqu’on vous écrivit cette lettre, il n’y avoit point de femmes au Comité. Je conviens que si toutes avoient de l’esprit comme Mademoiselle Contat, il y auroit moins de disputes entre les Auteurs<pb n="g"/>et les Comédiens ! Par bonheur, (comme me l’a écrit un homme d’esprit), cette guerre n’est pas meurtrière ; mais je sais bien que si j’avois été homme, il y auroit eu du sang de répandu. Que d’oreilles j’aurois coupé ! Ce n’est que par la plume que je puis me venger. Mais, hélas ! quelle vengeance ? Elle me coûte le plus bel appas de ma vie. La Comédie Françoise ne me jouera qu’une fois, et si elle pouvoit encore s’en dispenser, et induire en erreur M. le Marquis***, elle commettroit une seconde injustice aussi révoltante que la première. Si je pouvois espérer qu’il jettât les yeux sur la conduite de la Comédie à mon égard, il verroit qu’elle a comblé la mesure de l’injustice, et de vexations qu’elle a ôsé me faire supporter. M.*** ………………………………………………………
           …………………………………………………………………………………………………………………………………………………………………………………………………………………………………………….………………………………………………………………………………………………………………………………………………………………………… Je voudrois pouvoir plaisanter de tout ceci, si ma délicatesse n’étoit point blessée. On ne rit point de ce qui est méprisable. Je conviens qu’on n’en parle pas non plus ; mais je dois instruire les Auteurs qui auront le courage de prétendre à la Comédie Françoise, et qui n’auront pas la force d’y renoncer comme moi. On me disoit ces jours derniers : Lorsque vous serez plus calme, vous ne penserez pas de même. Eternellement, répondis-je. Aprenez, Messieurs, que l’amour propre chez les femmes telles que moi, tient lieu de toutes les qualités que la Nature vous a favorisées sur nous. Cette force d’ame et d’esprit fléchit devant vos intérêts, et moi je foulerois la même gloire à mes<pb n="h"/> pieds, s’il falloit l’acheter au dépend de ma résolution. Je n’ai jamais nargué les Comédiens, voulant me les rendre favorables ; j’ai agi avec eux honnêtement ; mais ils n’ont point agi de même avec moi. J’ai rabaissé l’élévation de mon ame, comme on peut s’en convaincre dans mes Lettres. Car, jugeant les choses, comme je les vois, je pense que les Comédiens doivent plus aux Auteurs que les Auteurs ne leur sont redevables. Ce seroit donc à eux à prendre la voie de la soumission, ou au moins celle de la modestie. Me souciant fort peu actuellement de ce qu’ils peuvent entreprendre contre moi, je me permettrai de leur dire ma façon de penser sans colère et sans humeur, étant persuadée que le Public ne pourra s’empêcher d’applaudir à ma conduite et à mes observations, et qu’il reconnoîtra, malgré l’indignation où la Comédie m’a réduite, la candeur de mes Systêmes. Je n’ai pris aucun fait étranger pour l’accabler ; car si je mettois au jour le Mémoire que j’avois fait contre elle jadis, on verroit que les anecdotes particulières de chaque Acteur contre les Auteurs formeroient une Collection de mauvais procédés, qu’ils décourageroient même M.C.B., qui, suivant moi, …………………………… ………………………………………………………………………………………………………………… Venons à l’agréable M. Fleuri ; ensuite nous passerons à l’aimable M. Florence. Il est inutile que je fasse imprimer toutes les Lettres que j’ai écrites à ces deux grands Personnages, quoique l’un diffère bien de l’autre par le talent. Quant aux deux premiers, avant la lecture de Ninon, ils me parurent fort honnêtes de vive voix, et même portés pour mes intérêts. On me pria de retarder ma<pb n="i"/>lecture, par rapport aux répétitions des Fameuses Réputations, Ouvrage qui vaut <hi rend="i">un million de fois</hi> ma Ninon ; mais je suis une de ces femmes que l’Auteur a voulu désigner,</p>
+        <quote>
+          <l n="1" xml:id="l1">« Dont à peine on entend le jargon,</l>
+          <l n="2" xml:id="l2">Et qui parlent de tout sans rime ni raison ».</l>
+        </quote>
         <p>Il voudra bien me permettre de lui dire à cette occasion deux mots aussi clairs qu’intelligibles : Que quand on veut fronder tout le monde, il faut savoir produire un Ouvrage à l’abri de la critique ; que tous les jeux de mots dont il est farci sont autant d’applications à la Piece qui n’a pas réussi ; que, pour être satyrique dans une Comédie, il faut posséder le talent dramatique ; et c’est ce que mon jargon et mon baragouin pourroient lui enseigner. …………………………………………………………………………………………………………………………………………………………………………………………………….. Je retardai moi-même cette lecture, pour attendre le rétablissement de Mademoiselle Contat ; mais M. Florence m’ayant assuré que sa maladie, quoique très-peu dangereuse, seroit très-longue, et qu’il falloit hâter ma lecture. Elle est donc décidée à un Mercredi. Lecteur, ne me perdez pas de vue actuellement ; si j’ai été verbeuse jusqu’à présent, je vais au fait sans réflexions ; vous en ferez sans doute pour moi. Le Lundi, comme on sait bien, est l’Assemblée générale : je lui écrivis une lettre la plus simple, la plus honnête et la plus courte : la voici.</p>
       </div>
       <div xml:id="lettre2">
         <pb n="j"/>
+        <head>LETTREEcrite à M.FLORENCE, Semainier perpétuel de la Comédie Françoise.</head>
         <p>« <hi rend="b">J</hi><hi rend="sc">e</hi> vous prie, Monsieur, de prévenir vos Camarades, que Mercredi on lit ma Pièce. J’espère qu’au nom de Molière, toute la Comédie voudra bien s’y trouver, que cet Ouvrage mérite la présence de tous les Comédiens ; que si elle n’est pas reçue, je veux la voir refuser avec les honneurs de la guerre, pour me bien persuader que mes Juges sont impartiaux.</p>
+        <quote>
+          <p>« J’ai l’honneur d’être, etc. »</p>
+        </quote>
         <p>« J’étois de bonne-foi, et je m’attendois véritablement que la Comédie étoit de même avec moi. J’écrivis en même tems à M. Fleuri, qui m’avoit donné le meilleur augure de son caractère, deux mois avant dans une visite qu’il m’avoit rendu pour son compte, en me certifiant, qu’il n’étoit pour rien dans la nouvelle contestation que j’avois avec la Comédie au sujet du tour qui m’avoit été donné. Aussi je ne vis que lui dans le rôle de Molière, la justice et la candeur de ce Grand-Homme me parurent être analogues avec la probité de ce bon Acteur. Je ne pus m’empêcher de lui destiner ce rôle, si ma Pièce étoit reçue ; je lui en témoignai mon empressement, je voulus même le prendre<pb n="k"/> pour Lecteur ; mais il s’en défendit avec tant d’honnêteté, et la certitude qu’il me donna, qu’il ne lisoit jamais, fit que je n’insistai pas davantage ; mais il me promit d’être un des premiers à cette lecture, et pour qu’il ne l’oubliât pas, je lui en rafraîchis la mémoire à l’Assemblée, par une lettre particulière. Le Mercredi, je me rends à la Comédie avant onze heures, une heure étoit sonnée, que le nombre de treize n’étoit pas encore arrivé ; on trouva le prétexte que le voyage de Versailles faisoit dormir tard : on envoya plusieurs Garçons de Théâtre, pour sçavoir, si ces Messieurs étoient éveillés et s’ils viendroient à la lecture ; ils étoient forcés de se rendre pour la répétition de la nouvelle Actrice et de l’Optimisme ; mais ils furent levés trop matin pour moi, malgré le voyage de Versailles, puisqu’ils étoient déjà sortis, à ce que les Garçons de Théâtre avoient rapporté. On me congédia donc après un million d’œillades, au Dimanche s’ensuite. M. Fleuri et M. Florence qui ne s’étoient pas rendus à ma lecture, leur absence étoit remarquable pour moi, après ce qu’ils m’avoient promis, l’un et l’autre : le Public n’ignore point que la plupart des Comédiens sont logés autour de la Comédie, et que moi, pour mon malheur, j’y suis logée en face. Tous les Comédiens fuyent comme des loups cette lecture, et ils se rendirent l’un après l’autre comme des moutons à la Comédie après que j’en fusse sortie ! L’honnête M. Florence dit à mon fils, ne pouvant plus se contraindre, qu’il s’étoit promis de ne se jamais trouver à ma lecture. Ce propos manifeste la conspiration<pb n="l"/> que la Comédie trame depuis long-tems contre moi ».</p>
       </div>
       <div xml:id="lettre-florence">
+        <head>LETTRE A M. FLORENCE.</head>
         <p><hi rend="b">J</hi><hi rend="sc">e</hi> suis on ne peut pas plus surprise, Monsieur, que vous ne vous soyez pas trouvé à ma lecture, vous, qui, comme Semainier, vous trouvez à toutes. Je vous crois trop loyal, pour m’avoir voulu tendre un piège. J’espère que Dimanche vous me prouverez tout le contraire, et que je serai convaincue à jamais de toute votre honnêteté.</p>
+        <quote>
+          <p>« J’ai l’honneur d’être, etc. »</p>
+        </quote>
         <p>A l’égard de M. Fleuri, je me suis étendue un peu plus loin ; j’étois à même de faire dans cet instant la différence d’un homme bien né d’avec un homme mal élevé. J’avois trouvé dans un grand Prince tant de simplicité, tant d’honnêteté à m’accorder la <ref target="#grace1">grace*</ref> que je lui demandois, qu’en vérité les mauvaise façons des Comédiens envers une femme me parurent insupportables, et mes réflexions s’étendirent dans ma lettre jusqu’à M. Fleuri.</p>
       </div>
       <div xml:id="lettre-fleuri">
         <pb n="m"/>
+        <head>LETTREA M. FLEURI.</head>
         <p><hi rend="b">J</hi><hi rend="sc">’ai</hi> tort de me plaindre, Monsieur. En effet, la Comédie, en général, a les meilleures façons pour moi ; vous m’aviez paru vouloir vous distinguer de l’honnêteté ordinaire, dont elle avoit usé à mon égard. Je n’aurois jamais cru que Molière, sous mon nom, eût si peu de crédit sur elle ; elle m’avoit écrit, qu’à sa consideration, le plus médiocre Ouvrage seroit toujours respecté par elle. On ne connoît point le mien, et on se refuse même à la lecture. Je vous avois assez intéressé dans cette Pièce, Monsieur, pour espérer que vous me feriez la <ref target="#grace1">grace*</ref> de vous y trouver. J’avois, ces jours derniers, à demander à un grand Prince une <ref target="#grace1">grace*</ref> ; il me l’a accordée avec tant de bonté et d’empressement, qu’une femme délicate auroit toujours besoin d’avoir affaire à des hommes de ce caractère : en encourageant mon sexe, c’est donner l’idée de la véritable façon de penser de l’homme. Vous m’aviez promis, Monsieur, de vous trouver à cette lecture ; je me plais à croire que vous étiez dans l’impossibilité de vous y rendre. Enfin, Dimanche prochain, peut-être, je serai plus <ref target="#heureux1">heureuse*</ref>, et l’on me dédommagera sans doute des maux que j’ai éprouvés, du peu de zèle que les Comédiens m’ont témoigné jusqu’à présent, et de l’oubli même de ses réglemens envers moi.</p>
+        <quote>
+          <p>« J’ai l’honneur d’être, etc. »<pb n="o"/></p>
+        </quote>
         <p>L’on doit croire que M. Fleuri se justifiera honnêtement de ne s’être pas trouvé au Comité, et qu’il me persuadera, que, malgré qu’il ne soit point un Prince, il n’en a pas moins la délicatesse due à mon sexe : la veille qu’on devoit lire ma Pièce, il me fit dire lestement, par l’Ouvreuse de Loges, que quelqu’un me demandoit. Quelle fut ma surprise, de voir que M. Fleuri, qui me tira à l’écart, me dit indiscrètement que, comme il étoit dangereux de m’écrire, il venoit me faire sa réponse de vive-voix ! Ce début me parut, (et on doit le croire,) aussi insolent que déplacé ; mais j’écoutai jusqu’à la fin : il m’ajouta que, si je n’étois point une femme, il m’apprendroit comment on répond à une lettre aussi impertinente que la mienne. A ces mots, il ne m’auroit fallu qu’une épée, et j’aurois bientôt été une autre Chevalière d’Eon. Le sang me bouilloit dans les veines ; mais je sçus me respecter : il continua en ajoutant qu’il n’étoit point un Prince, mais un Comédien. Hélas ! lui répondis-je, je ne le vois que trop… Mais d’après Molière, je pensois qu’un Comédien devoit avoir les principes d’un homme bien né : ce n’est certainement pas de ceux de votre trempe, et je m’en fus en haussant les épaules. J’entendis derrière moi les mêmes paroles de M. Florence, qu’il ne se trouveroit jamais à mes lectures, et qu’il avoit voulu me le confirmer lui-même. J’appris que ces deux Messieurs avoient fait vacarme dans le Foyer, et dans les Coulisses, et qu’ils se plaignoient amèrement à tous leurs Camarades de mon insolence, et de ma fierté. La conspiration fut donc parfaite, et mon ouvrage proscrit avant la lecture :<pb n="p"/> aucun Comédien, si fourbe qu’il puisse être, ne pourra démentir ce que j’avance ; et qu’on juge à présent si j’ai quelque chose à me reprocher à l’égard de la Comédie ; si ce n’est d’avoir eu trop de constance et de modération pour tant de mauvais procédés. Mais actuellement que l’indignité est à son comble, je renonce entièrement à la Comédie, et lui fais le traitement qu’elle mérite, en reprenant ma place. Que mon Lecteur lise mon aimable Ninon, et prononce sur son sort, pour trouver les Bulletins de la Comédie plus ridicules que sages ; et après cela, je demanderai s’il n’y a rien de pire au monde que des Comédiens assemblés, sans délicatesse, sans bienséance, et sans la plus petite ombre d’équité : c’est à la fin de cette Pièce qu’on trouvera la sentence qui la condamne à l’estime publique.</p>
       </div>
-      <div type="set" xml:id="personnages"/>
+      <div type="set" xml:id="personnages">
+        <head>PERSONNAGES.</head>
+      </div>
       <div type="act" xml:id="I">
         <pb n="A, 3" xml:id="pb3"/>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp who="francisque" xml:id="I01-1">
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> suis tout moulu. Les Maîtres regardent un canapé comme un meuble fort commode ; et moi, je trouve qu’on n’y dort pas à son aise. Il faut<pb n="4" xml:id="pb4"/> convenir que l’état de Valet est un métier bien pénible. On ne nous laisse, ni le tems de prendre nos repas, ni celui de reposer. Cependant, mon sort est moins à plaindre que celui de ceux de mon état. Etre au service de l’aimable et de la sensible Ninon, n’est-ce pas servir toutes les Divinités ensemble ?</p>
             <p>Il n’est pas tard, tout le monde repose encore : allons, essayons de refaire un petit somme.</p>
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp who="francisque" xml:id="I02-1">
             <p><hi rend="b">C</hi><hi rend="sc">omment</hi> c’est vous, Mademoiselle le Roi ? Eh ! qui peut vous avoir éveillée si matin ?</p>
           </sp>
@@ -105,6 +175,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <sp who="grand-prieur" xml:id="I03-1">
             <p><hi rend="b">E</hi><hi rend="sc">coute</hi>, mon ami, j’ai à te parler pour tes intérêts et les miens.</p>
           </sp>
@@ -120,6 +191,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp who="grand-prieur" xml:id="I04-1">
             <p><hi rend="b">C</hi><hi rend="sc">e</hi> drôle joue le <ref target="#sentiment1">sentiment*</ref> ! voyons si je réussirai mieux auprès de la suivante.</p>
           </sp>
@@ -159,6 +231,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V</head>
           <sp who="grand-prieur" xml:id="I05-1">
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> commence à m’appercevoir que le mépris que ces gens-là font de mes dons est plutôt l’effet du dédain que leur maitresse a pour mes sentimens, que celui de leur désintéressement. C’est ce dont je viens me convaincre pour la dernière fois. Ah ! cruelle Ninon, favorable à tant de personnages qui ne me valent pas, s’il faut que j’échoue auprès de toi, une bonne épigramme me vengera de tes rigueurs. Tenons-la toute prête : voilà justement tout ce qu’il faut pour écrire…</p>
             <p>J’y suis : elle est sanglante…</p>
@@ -167,6 +240,7 @@
         </div>
         <div type="scene" xml:id="I06">
           <pb n="11" xml:id="pb11"/>
+          <head>SCENE VI.</head>
           <sp who="ninon" xml:id="I06-1">
             <p><hi rend="b">Q</hi><hi rend="sc">uel</hi> homme insupportable ! il faut donc, une bonne fois, m’expliquer avec lui.</p>
             <p>Je vous fais un million d’excuses, Monsieur le Grand-Prieur, de paraître devant vous dans le négligé du matin. Ordinairement on ne visite pas les femmes de si bonne heure ; sans être coquette, je tiens à la décence.</p>
@@ -201,12 +275,14 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE VII.</head>
           <sp who="ninon" xml:id="I07-1">
             <p><hi rend="b">I</hi><num>l</num> croit m’offenser et humilier mon amour-propre, il m’inspire au contraire la plus grande pitié ; je suis assez bonne pour lui faire <ref target="#grace1">grace*</ref>, et même pour le plaindre. Mais la Châtre ne revient point, qui peut le retenir ? Voudroit-il me cacher son départ. Ah ! cruelle destinée ! L’amour me causera-t-il toujours de nouvelles alarmes. Que vois-je ? un billet doux ! Ah ! sans doute il ne l’est que par la forme. Le style sera aigre.</p>
             <p>Je ne me suis pas trompée : l’épigramme est méchante, mais elle ne me <ref target="#piquer">pique*</ref> pas. Voyons comment je vais y répondre.</p>
           </sp>
         </div>
         <div type="scene" xml:id="I08">
+          <head>SCENE VIII.</head>
           <sp who="moliere" xml:id="I08-1">
             <p><hi rend="b">C</hi><hi rend="sc">hapelle</hi>, l’interrompons-nous ?</p>
           </sp>
@@ -441,6 +517,7 @@
         </div>
         <div type="scene" xml:id="I09">
           <pb n="23" xml:id="pb23"/>
+          <head>SCENE IX.</head>
           <sp who="ninon" xml:id="I09-1">
             <p><hi rend="b">Q</hi><hi rend="sc">u’est-ce</hi> ?</p>
           </sp>
@@ -456,6 +533,7 @@
         </div>
         <div type="scene" xml:id="I10">
           <pb n="24" xml:id="pb24"/>
+          <head>SCENE X.</head>
           <sp who="ninon" xml:id="I10-1">
             <p><hi rend="b">Q</hi><hi rend="sc">uelle</hi> est son aventure ?</p>
           </sp>
@@ -473,11 +551,13 @@
           </sp>
         </div>
         <div type="scene" xml:id="I11">
+          <head>SCENE XI.</head>
           <sp who="mlle-le-roi" xml:id="I11-1">
             <p><hi rend="b">M</hi><hi rend="sc">ademoiselle</hi>, voilà Monsieur Molière.</p>
           </sp>
         </div>
         <div type="scene" xml:id="I12">
+          <head>SCENE XII.</head>
           <sp who="ninon" xml:id="I12-1">
             <p><hi rend="b">Q</hi><hi rend="sc">u’elle</hi> est belle !...</p>
             <p>Approchez, Mademoiselle. Desirez-vous parler en particulier à Molière ; nous allons vous laisser avec lui.</p>
@@ -673,6 +753,7 @@
         </div>
         <div type="scene" xml:id="I13">
           <pb n="34" xml:id="pb34"/>
+          <head>SCENE XIII.</head>
           <sp who="moliere" xml:id="I13-1">
             <p><hi rend="b">E</hi><hi rend="sc">lle</hi> a raison. Elle te connaît bien ; plus tu as à faire, moins tu fais.</p>
           </sp>
@@ -689,6 +770,7 @@
         </div>
         <div type="scene" xml:id="I14">
           <pb n="35" xml:id="pb35"/>
+          <head>SCENE XIV</head>
           <sp who="ninon" xml:id="I14-1">
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> vous avoue, mon cher Moliere, que cette jeune personne m’intéresse infiniment.</p>
           </sp>
@@ -713,6 +795,7 @@
         </div>
         <div type="scene" xml:id="I15">
           <pb n="36" xml:id="pb36"/>
+          <head>SCENE XV.</head>
           <sp who="francisque" xml:id="I15-1">
             <p><hi rend="b">M</hi><hi rend="sc">ademoiselle</hi>, voici Monsieur de Gourville.</p>
           </sp>
@@ -765,6 +848,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I16">
+          <head>SCENE XVI.</head>
           <sp who="la-chatre" xml:id="I16-1">
             <p><hi rend="b">L</hi><hi rend="sc">’ingrate</hi> ! la voilà ; ai-je pu compter un instant sur sa constance ?</p>
           </sp>
@@ -837,6 +921,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I17">
+          <head>SCENE XVII.</head>
           <sp who="francisque" xml:id="I17-1">
             <p><hi rend="b">M</hi><hi rend="sc">ademoiselle</hi>, Madame la Marquise de la Sablière vous fait savoir, que Monsieur Desyvetaux est retrouvé, qu’il est dans sa maison de campagne du Fauxbourg Saint Germain, qu’il se cache, et que ses gens sont habillés en paysans.</p>
           </sp>
@@ -852,12 +937,14 @@
           </sp>
         </div>
         <div type="scene" xml:id="I18">
+          <head>SCENE XVIII.</head>
           <sp who="ninon" xml:id="I18-1">
             <p><hi rend="b">F</hi><hi rend="sc">rancisque</hi>, prenez cette cassette et suivez Monsieur.</p>
           </sp>
         </div>
         <div type="scene" xml:id="I19">
           <pb n="44" xml:id="pb44"/>
+          <head>SCENE XIX.</head>
           <sp who="la-chatre" xml:id="I19-1">
             <p><hi rend="b">E</hi><hi rend="sc">nfin</hi>, je respire.</p>
           </sp>
@@ -916,6 +1003,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I20">
+          <head>SCENE XX.</head>
           <sp who="francisque" xml:id="I20-1">
             <p><hi rend="b">M</hi><hi rend="sc">onsieur</hi> le Comte de Fiesque fait demander, Mademoiselle, si vous êtes visible.</p>
           </sp>
@@ -929,6 +1017,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I21">
+          <head>SCENE XXI.</head>
           <sp who="la-chatre" xml:id="I21-1">
             <p><hi rend="b">P</hi><hi rend="sc">eut</hi> être, dites-vous vrai ?</p>
           </sp>
@@ -937,6 +1026,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I22">
+          <head>SCENE XXII.</head>
           <sp who="la-chatre" xml:id="I22-1">
             <p><hi rend="b">V</hi><hi rend="sc">enez</hi>, Madame Scaron, je vous recommande ma chère Ninon, que votre amitié ne l’abandonne<pb n="48" xml:id="pb48"/> pas.</p>
           </sp>
@@ -962,7 +1052,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="D, 49" xml:id="pb49"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp who="lucas" xml:id="II01-1">
             <p><hi rend="b">E</hi><hi rend="sc">h</hi> bien, la Fleur, les extravagances de notre Maître ne font que croître et embellir tous les jours.</p>
           </sp>
@@ -988,6 +1080,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="51" xml:id="pb51"/>
+          <head>SCENE II.</head>
           <sp who="mathurin" xml:id="II02-1">
             <p><ref target="#tatiguenne">T<hi rend="sc">atiguenne*</hi></ref> ! que ça me paroît drôle de faire comme si j’avions bien des bestiaux à garder, j’avons beau répéter tous les jours la même manigance, ça nous paroît toujours comme un songe.</p>
           </sp>
@@ -1132,6 +1225,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp who="desyveteaux" xml:id="II03-1">
             <l n="11" xml:id="l11">« <hi rend="b">D</hi><hi rend="sc">e</hi> mes Moutons le nombre augmente,</l>
             <l n="12" xml:id="l12">L’Agneau suit la brebis bélante ;</l>
@@ -1240,6 +1334,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV.</head>
           <sp who="desyveteaux" xml:id="II04-1">
             <p><hi rend="b">E</hi><hi rend="sc">lle</hi> s’éloigne de moi, un cruel devoir me prive de sa présence.</p>
             <p>O mon père !</p>
@@ -1257,11 +1352,13 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <sp who="desyveteaux" xml:id="II05-1">
             <p><hi rend="b">O</hi>PERE fortuné de la Bergère la plus respectable ! Mais qu’elle tarde à paroître ! allons vers son agneau : que ses cris bélans me retracent l’image de son amour ; ô Bergère adorable, pour qui j’ai tout quitté, parens, amis, et vous, célébre Ninon, dont l’aimable société faisoit mes délices, je vous ai abandonnée ; mais pardonnez, l’amour est mon excuse. Eh ! Ninon, qui peut mieux que vous me justifier ? si vous pouviez concevoir mon bonheur ! l’amour cependant ne m’a point rendu ingrat. Votre ruban chéri, gage de votre amitié,<pb n="64" xml:id="pb64"/>fait la parure de mon chapeau, et me sera toujours précieux.</p>
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI.</head>
           <sp who="la-dupuis" xml:id="II06-1">
             <p><hi rend="b">O</hi> CHER Coridon, quel bonheur ! mon père permet que je vous parle.</p>
           </sp>
@@ -1280,6 +1377,7 @@
         </div>
         <div type="scene" xml:id="II07">
           <pb n="E, 65" xml:id="pb65"/>
+          <head>SCENE VII.</head>
           <sp who="mathurin" xml:id="II07-1">
             <p><hi rend="b">E</hi><hi rend="sc">h</hi> bien ! qu’est-ce qu’il y a ?</p>
           </sp>
@@ -1346,6 +1444,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II08">
+          <head>SCENE VIII.</head>
           <sp who="ninon" xml:id="II08-1">
             <p><hi rend="b">M</hi><hi rend="sc">es</hi> amis, est-ce bien lui ? Mais oui : je ne me trompe pas : c’est lui-même. Quelle métamorphose !</p>
           </sp>
@@ -1481,6 +1580,7 @@
         </div>
         <div type="scene" xml:id="II09">
           <pb n="73" xml:id="pb73"/>
+          <head>SCENE IX.</head>
           <sp who="ninon" xml:id="II09-1">
             <p><hi rend="b">Q</hi><hi rend="sc">ue</hi> veux-tu ? Tu as l’air bien agité.</p>
           </sp>
@@ -1510,6 +1610,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II10">
+          <head>SCENE X.</head>
           <sp who="moliere" xml:id="II10-1">
             <p><hi rend="b">F</hi><hi rend="sc">rancisque</hi> ne sait où il en est : c’est une énigme pour lui.</p>
           </sp>
@@ -1519,6 +1620,7 @@
         </div>
         <div type="scene" xml:id="II11">
           <pb n="75" xml:id="pb75"/>
+          <head>SCENE XI.</head>
           <sp who="mathurin" xml:id="II11-1">
             <p><hi rend="b">G</hi><hi rend="sc">are</hi> ! gare ! Voici, ma foi, du biau monde… Ah ! les biaux habits.</p>
           </sp>
@@ -1586,6 +1688,7 @@
         </div>
         <div type="scene" xml:id="II12">
           <pb n="79" xml:id="pb79"/>
+          <head>SCENE XII.</head>
           <sp who="le-grand-conde" xml:id="II12-1">
             <p><hi rend="b">S</hi><hi rend="sc">ommes-nous</hi> transportés dans un lieu de féérie ? Tout ce que je vois me paroît un songe.</p>
           </sp>
@@ -1608,6 +1711,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II13">
+          <head>SCENE XIII.</head>
           <sp who="le-grand-conde" xml:id="II13-1">
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> veux vous donner la main, Mademoiselle de l’Enclos ; car je ne vous tiens pas quitte de ma visite.</p>
             <p>Comte de Fiesque,<pb n="F, 81" xml:id="pb81"/> vous ne serez pas <ref target="#facher">fâché*</ref> que je vous présente.</p>
@@ -1663,7 +1767,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="83" xml:id="pb83"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp who="mlle-le-roi" xml:id="III01-1">
             <p><hi rend="b">C</hi><hi rend="sc">omme</hi> la maison est déserte quand M<hi rend="sup">lle</hi> n’y est pas ! Le Grand Condé a été la rejoindre chez Monsieur Desyveteaux : peut-être reviendront-ils ensemble… Mais cette jeune personne, qui est enfermée avec sa bonne dans le Sallon d’été, qu’a-t-elle de commun avec Ninon ? C’est là leur secret, et je n’ai rien à y voir. On arrive… C’est le cher Monsieur Scaron. Arrangeons vîte sa place.</p>
             <p>Comme il souffre, le cher homme, et comme il est gai. Il va me dire, suivant sa coutume, quelque chose de drôle.</p>
@@ -1671,6 +1777,7 @@
         </div>
         <div type="scene" xml:id="III02">
           <pb n="84" xml:id="pb84"/>
+          <head>SCENE II.</head>
           <sp who="scaron" xml:id="III02-1">
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> ne suis bien qu’ici.</p>
             <p>Adieu, mes enfans, jusqu’au revoir, à ce soir.</p>
@@ -1690,6 +1797,7 @@
         </div>
         <div type="scene" xml:id="III03">
           <pb n="85" xml:id="pb85"/>
+          <head>SCENE III.</head>
           <sp who="scaron" xml:id="III03-1">
             <p><hi rend="b">C</hi><hi rend="sc">omment</hi> te portes-tu, ma poule ? et mon ange Ninon, la colombe est déjà dénichée, et les oiseaux des tournelles sont aux champs.</p>
           </sp>
@@ -1734,6 +1842,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp who="president-effiat" xml:id="III04-1">
             <p><hi rend="b">N</hi><hi rend="sc">on</hi>, Monsieur le Maréchal, je ne puis vous céder mes droits sur ce point ; ce sont ceux de la nature, et je les réclame.</p>
           </sp>
@@ -1814,6 +1923,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp who="francisque" xml:id="III05-1">
             <p><hi rend="b">E</hi><hi rend="sc">h</hi> vîte, vîte, Mademoiselle, préparez des fauteuils, notre maîtresse arrive avec le grand Condé.</p>
           </sp>
@@ -1837,6 +1947,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI.</head>
           <sp who="ninon" xml:id="III06-1">
             <p><hi rend="b">O</hi><hi rend="sc">h</hi> ! mon cher ami, vous étiez chez moi, et j’étois absente. Ne vous êtes-vous pas ennuyé, mon ami ?</p>
           </sp>
@@ -2034,6 +2145,7 @@
         </div>
         <div type="scene" xml:id="III07">
           <pb n="100" xml:id="pb100"/>
+          <head>SCENE VII.</head>
           <sp who="exempt" xml:id="III07-1">
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> viens, Mademoiselle, la larme à l’œil, vous signifier des ordres désagréables et cruels à remplir pour un <ref target="#galant1">galant*</ref> homme, mais que le devoir impose.</p>
           </sp>
@@ -2168,6 +2280,7 @@
         </div>
         <div type="scene" xml:id="III08">
           <pb n="106" xml:id="pb106"/>
+          <head>SCENE VIII.</head>
           <sp who="ninon" xml:id="III08-1">
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> ne reste point avec vous, vous êtes trop dangereux.</p>
           </sp>
@@ -2286,16 +2399,19 @@
         </div>
         <div type="scene" xml:id="III09">
           <pb n="111" xml:id="pb111"/>
+          <head>SCENE IX.</head>
           <sp who="le-comte-de-fiesque" xml:id="III09-1">
             <p><hi rend="b">N</hi><hi rend="sc">inon</hi> se repent de s’être tant avancée avec moi, et je la loue ; car plus je l’aime, et plus je la crains. Quel est l’homme qui pourroit résister à une femme si séduisante, qui réunit l’esprit, les talens, les <ref target="#grace5">graces*</ref>, la beauté, et cent rares qualités étrangères chez les femmes. Ah ! Ninon, en faisant mon bonheur, vous allez me rendre l’homme le plus malheureux. Aurai-je la force de résister au sort qui m’attend ? non, je n’ai que ce qu’il en faut pour éviter le danger pour jamais. Fuyons Ninon, et son aimable société.</p>
           </sp>
         </div>
         <div type="scene" xml:id="III10">
+          <head>SCENE X.</head>
           <sp who="ninon" xml:id="III10-1">
             <p><hi rend="b">I</hi>l sort… Mais je crois, ma foi, qu’il s’en va tout de bon. Ah ! Monsieur le Comte de Fiesque, c’est bien mal à vous. Dois-je le blâmer ? n’est-il pas convaincu de ma légèreté et de mon inconstance ? Mais je n’étois pas tout-à-fait séduite… Ah ! Monsieur le Comte, Mon/<pb n="112" xml:id="pb112"/>/sieur le Comte, vous me <ref target="#braver">bravez*</ref>. Oh ! je vous ferai voir que je ne suis pas de ces femmes que l’on subjugue par de semblables moyens.</p>
           </sp>
         </div>
         <div type="scene" xml:id="III11">
+          <head>SCENE XI.</head>
           <sp who="le-grand-conde" xml:id="III11-1">
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> viens, Mademoiselle de l’Enclos, m’acquitter des ordres de la Reine, et vous assurer de sa part qu’elle est <ref target="#facher">fâchée*</ref> qu’on lui ait fait de faux rapports sur votre compte ; qu’elle en punira les délateurs, et que sa faveur ne s’étendra jamais sur les femmes perfides qui ont ôsé vous calomnier auprès d’Elle.</p>
           </sp>
@@ -2330,6 +2446,7 @@
         </div>
         <div type="scene" xml:id="III12">
           <pb n="115" xml:id="pb115"/>
+          <head>SCENE XII.</head>
           <sp who="le-grand-conde" xml:id="III12-1">
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> vous salue, Messieurs ; (<hi rend="i">à Molière</hi>.) arrivez donc, Monsieur Molière : nous vous attendons, mon ami, avec la dernière impatience.</p>
           </sp>
@@ -2383,11 +2500,13 @@
           </sp>
         </div>
         <div type="scene" xml:id="III13">
+          <head>SCENE XIII.</head>
           <sp who="le-grand-conde" xml:id="III13-1">
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> vais aussi me retirer, et vous laisser, Ninon, le tems de vous préparer… Ninon, restez de grace.</p>
           </sp>
         </div>
         <div type="scene" xml:id="III14">
+          <head>SCENE XIV.</head>
           <sp who="ninon" xml:id="III14-1">
             <p><hi rend="b">Q</hi><hi rend="sc">uel</hi> bonheur pour moi d’avoir règné dans le cœur de ce grand Prince !</p>
           </sp>
@@ -2446,7 +2565,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="121" xml:id="pb121"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp who="ninon" xml:id="IV01-1">
             <p><hi rend="b">O</hi><hi rend="sc">ui</hi>, Mademoiselle ; demain je verrai Monsieur votre père, et soyez persuadée qu’il ne dépendra pas de moi, si vous n’obtenez point l’époux que votre cœur a choisi.</p>
           </sp>
@@ -2464,17 +2585,20 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II.</head>
           <sp who="ninon" xml:id="IV02-1">
             <p><hi rend="b">C</hi><hi rend="sc">onduisez</hi> Mademoiselle jusqu’à ma voiture.</p>
             <p>Adieu Mademoiselle.</p>
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <sp who="ninon" xml:id="IV03-1">
             <p><hi rend="b">Q</hi><hi rend="sc">ue</hi> cette enfant m’intéresse ! Que son amour est pur ! Que n’ai-je aimé de même ! Mais ce Comte de Fiesque, c’est un homme insupportable.<pb n="123" xml:id="pb123"/> Eh bien ! cet homme m’occupe malgré moi : que je suis foible ! et je veux avoir du courage. Mon sexe l’emporte, et je suis toujours femme.</p>
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV.</head>
           <sp who="moliere" xml:id="IV04-1">
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> viens vous communiquer le plan de votre fête, mais je ne vous réponds pas qu’il soit de votre goût. Que vois-je ? Quelle nouvelle inquiétude paroît vous agiter ?</p>
           </sp>
@@ -2565,6 +2689,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V.</head>
           <sp who="francisque" xml:id="IV05-1">
             <p><hi rend="b">M</hi><hi rend="sc">adame</hi> la Marquise de la Sablière et Monsieur Mignard font demander, Mademoiselle, si vous êtes visible.</p>
           </sp>
@@ -2573,6 +2698,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI.</head>
           <sp who="ninon" xml:id="IV06-1">
             <p><hi rend="b">E</hi><hi rend="sc">nfin</hi>, je vous suis redevable, Madame la Marquise, d’avoir retrouvé ce pauvre Desyveteaux.</p>
           </sp>
@@ -2637,6 +2763,7 @@
         </div>
         <div type="scene" xml:id="IV07">
           <pb n="131" xml:id="pb131"/>
+          <head>SCENE VII.</head>
           <sp who="francisque" xml:id="IV07-1">
             <p><hi rend="b">M</hi><hi rend="sc">esdemoiselles</hi> de la Sablière.</p>
           </sp>
@@ -2645,12 +2772,14 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV08">
+          <head>SCENE VIII.</head>
           <sp who="moliere" xml:id="IV08-1">
             <p><hi rend="b">Q</hi><hi rend="sc">uelle</hi> grandeur d’ame ! Quel esprit ! Quelle délicatesse ! Ah ! femmes, femmes qui vous gendarmez contre elle ; apprenez à l’imiter, et vous vous éleverez. Quel modèle à suivre ! Ses foiblesses, ses erreurs, font ressortir davantage ses grandes et sublimes qualités. Se seroit-on jamais douté, dans sa modeste conversation, qu’elle attend ce soir chez elle la Reine de Suède ? Après cet hommage, elle pouvoit recevoir, ce me semble, deux Demoiselles de qualité, sans craindre de porter la moindre atteinte à leur réputation.</p>
           </sp>
         </div>
         <div type="scene" xml:id="IV09">
           <pb n="132" xml:id="pb132"/>
+          <head>SCENE IX.</head>
           <sp who="moliere" xml:id="IV09-1">
             <p><hi rend="b">A</hi><hi rend="sc">h</hi> ! vous voilà, Monsieur le Comte. Ma foi, je crains bien pour vous que vous ne soyez arrivé trop tard. On a réfléchi.</p>
           </sp>
@@ -2680,6 +2809,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV10">
+          <head>SCENE X.</head>
           <sp who="ninon" xml:id="IV10-1">
             <p><hi rend="b">M</hi><hi rend="sc">oliere</hi>, on vous attend…</p>
             <p>Ah ! vous voilà, Monsieur ! Quelle nouvelle nous apportez-vous ? Elles sont bonnes, sans doute, car vous avez eu le tems d’y réfléchir ? Molière n’est pas de trop, nous pouvons nous expliquer devant lui.</p>
@@ -2715,11 +2845,13 @@
         </div>
         <div type="scene" xml:id="IV11">
           <pb n="135" xml:id="pb135"/>
+          <head>SCENE XI.</head>
           <sp who="mlle-le-roi" xml:id="IV11-1">
             <p><hi rend="b">M</hi><hi rend="sc">onsieur</hi> et Madame Scaron viennent d’arriver, et je viens d’entendre plusieurs voitures entrer dans la cour.</p>
           </sp>
         </div>
         <div type="scene" xml:id="IV12">
+          <head>SCENE XII.</head>
           <sp who="francisque" xml:id="IV12-1">
             <p><hi rend="b">L</hi><hi rend="sc">e</hi> Sallon commence à se remplir, Mademoiselle ; Monsieur Scaron a pris déjà sa place, et vous demande à grands cris, ainsi que Monsieur Molière.</p>
           </sp>
@@ -2736,6 +2868,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV13">
+          <head>SCENE XIII.</head>
           <sp who="ninon" xml:id="IV13-1">
             <p><hi rend="b">Q</hi><hi rend="sc">u’on</hi> est bête quand on est amoureux. Je voudrais lui parler et je ne sais par où commencer.</p>
             <p>J’en suis en vérité honteuse ; pour l’éviter je vais m’en aller.</p>
@@ -2767,6 +2900,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV14">
+          <head>SCENE XIV.</head>
           <sp who="francisque" xml:id="IV14-1">
             <p><hi rend="b">M</hi><hi rend="sc">ademoiselle</hi>, j’ai été surpris ; je n’ai point entendu de voiture.</p>
           </sp>
@@ -2800,6 +2934,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV15">
+          <head>SCENE XV.</head>
           <sp who="reine-christine" xml:id="IV15-1">
             <p><hi rend="b">A</hi>sseyons-nous maintenant.</p>
             <p>Que je sais bon gré au Prince de nous avoir laissées, je n’osois le lui demander. On ne pouvoit deviner plus à propos mon intention.</p>
@@ -2889,6 +3024,7 @@
         </div>
         <div type="scene" xml:id="IV16">
           <pb n="146" xml:id="pb146"/>
+          <head>SCENE XVI.</head>
           <sp who="le-grand-conde" xml:id="IV16-1">
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> suis peut-être arrivé trop tôt, Madame, et je crains d’avoir commis une indiscrétion.</p>
           </sp>
@@ -2901,6 +3037,7 @@
         </div>
         <div type="scene" xml:id="IV17">
           <pb n="147" xml:id="pb147"/>
+          <head>SCENE XVII.</head>
           <sp who="reine-christine" xml:id="IV17-1">
             <p><hi rend="b">A</hi><hi rend="sc">pprochez</hi>, homme célèbre, je suis enchantée de voir l’ami de Mademoiselle de l’Enclos. Ce titre fait bien votre éloge.</p>
           </sp>
@@ -2973,6 +3110,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV18">
+          <head>SCENE XVIII.</head>
           <sp who="mathurin" xml:id="IV18-1">
             <p><hi rend="b">G</hi><hi rend="sc">are</hi>, gare, place au Berger Coridon et à la Bergère Colinette !... Ah ! que de biau monde.</p>
           </sp>
@@ -3103,7 +3241,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="157" xml:id="pb157"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp who="francisque" xml:id="V01-1">
             <p><hi rend="b">Q</hi><hi rend="sc">uel</hi> évènement subit !</p>
           </sp>
@@ -3126,6 +3266,7 @@
         </div>
         <div type="scene" xml:id="V02">
           <pb n="159" xml:id="pb159"/>
+          <head>SCENE II.</head>
           <sp who="ninon" xml:id="V02-1">
             <p><hi rend="b">P</hi><hi rend="sc">renez</hi> ma voiture, Francisque, et allez chercher Mademoiselle de Châteauroux.</p>
           </sp>
@@ -3137,6 +3278,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp who="mlle-le-roi" xml:id="V03-1">
             <p><hi rend="b">A</hi><hi rend="sc">llez-vous</hi>, Mademoiselle, vous mettre à votre toilette ?</p>
           </sp>
@@ -3149,12 +3291,14 @@
         </div>
         <div type="scene" xml:id="V04">
           <pb n="160" xml:id="pb160"/>
+          <head>SCENE IV.</head>
           <sp who="ninon" xml:id="V04-1">
             <p><hi rend="b">M</hi><hi rend="sc">e</hi> suis-je bien consultée ? Ai-je bien connu mon cœur ? Oh ! oui, ma raison le domptera, et l’amour ne sera pas mon maître. Mais la Nature, mes enfans ! cette idée m’arrache des larmes. Ils ne peuvent m’avouer pour leur mère qu’en rougissant. Eh bien, je garderai le silence, je me ferai cet effort ; mais puis-je m’empêcher de les voir, de m’intéresser à leur sort ? L’exemple de Monsieur de Coligny m’apprendra à craindre de livrer mes enfans aux soins paternels. Envain Monsieur le Maréchal d’Estrées me presse pour lui abandonner tout-à fait mon sang. Eh ! bientôt il agiroit comme Monsieur de Coligny, qui m’a caché, tant qu’il a vécu, le nom, le sort de la victime de mes premières erreurs…Cher enfant, dont j’ignore l’existence depuis dix-huit années. Hélas ! peut-être, je m’allarme envain sur son sort ; et qui sait si la mort même ne me l’a point enlevé ? Ce doute me désespère… On ne me présente point de jeune homme en qui je ne croye retrouver un fils.</p>
           </sp>
         </div>
         <div type="scene" xml:id="V05">
           <pb n="L, 161" xml:id="pb161"/>
+          <head>SCENE V.</head>
           <sp who="mlle-le-roi" xml:id="V05-1">
             <p><hi rend="b">M</hi><hi rend="sc">ademoiselle</hi> ne se fait donc pas coëffer aujourd’hui ?</p>
           </sp>
@@ -3166,6 +3310,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI.</head>
           <sp who="mlle-le-roi" xml:id="V06-1">
             <p><hi rend="b">V</hi><hi rend="sc">oici</hi> quelqu’un.</p>
           </sp>
@@ -3193,6 +3338,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII.</head>
           <sp who="mlle-le-roi" xml:id="V07-1">
             <p><hi rend="b">M</hi><hi rend="sc">ademoiselle</hi>, permettez-moi de vous <ref target="#representer">représenter*</ref>…</p>
           </sp>
@@ -3221,11 +3367,13 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>SCENE VIII.</head>
           <sp who="ninon" xml:id="V08-1">
             <p><hi rend="b">C</hi><hi rend="sc">e</hi> ne peut être que Mademoiselle de Chateauroux.</p>
           </sp>
         </div>
         <div type="scene" xml:id="V09">
+          <head>SCENE IX.</head>
           <sp who="mlle-le-roi" xml:id="V09-1">
             <p><hi rend="b">M</hi><hi rend="sc">ademoiselle</hi>, c’est un jeune homme fort bien mis, et d’une figure charmante, qui me<pb n="165" xml:id="pb165"/> paroît Etranger, et qui dit n’être pas connu de vous, mais qui vient vous parler de Monsieur Molière.</p>
           </sp>
@@ -3234,17 +3382,20 @@
           </sp>
         </div>
         <div type="scene" xml:id="V10">
+          <head>SCENE X.</head>
           <sp who="ninon" xml:id="V10-1">
             <p><hi rend="b">C</hi><hi rend="sc">’est</hi> sans doute le jeune Belfort.</p>
           </sp>
         </div>
         <div type="scene" xml:id="V11">
+          <head>SCENE XI.</head>
           <sp who="mlle-le-roi" xml:id="V11-1">
             <p><hi rend="b">M</hi><hi rend="sc">onsieur</hi>, voilà Mademoiselle.</p>
           </sp>
         </div>
         <div type="scene" xml:id="V12">
           <pb n="166" xml:id="pb166"/>
+          <head>SCENE XII.</head>
           <sp who="ninon" xml:id="V12-1">
             <p><hi rend="b">A</hi><hi rend="sc">h</hi> ! la jolie tournure ; que sa figure est intéressante !</p>
           </sp>
@@ -3335,6 +3486,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V13">
+          <head>SCENE XIII.</head>
           <sp who="ninon" xml:id="V13-1">
             <p><hi rend="b">A</hi><hi rend="sc">h</hi> ! mon ami, mon cher Molière, vous douteriez-vous jamais à qui appartient le Chevalier de Belfort ?</p>
           </sp>
@@ -3368,6 +3520,7 @@
         </div>
         <div type="scene" xml:id="V14">
           <pb n="172" xml:id="pb172"/>
+          <head>SCENE XIV.</head>
           <sp who="francisque" xml:id="V14-1">
             <p><hi rend="b">M</hi><hi rend="sc">ademoiselle</hi> de Châteauroux.</p>
           </sp>
@@ -3394,12 +3547,14 @@
           </sp>
         </div>
         <div type="scene" xml:id="V15">
+          <head>SCENE XV.</head>
           <sp who="francisque" xml:id="V15-1">
             <p><hi rend="b">M</hi><hi rend="sc">a</hi> foi, je n’aurai plus le courage de servir personne, si j’ai le malheur de perdre Mademoiselle de l’Enclos. Quelle Maitresse ! Je n’en trouverai jamais de semblable. Mais, qui nous arrive ?... C’est ce Monsieur le Comte de Fiesque : le diable puisse-t-il lui avoir cassé le col quand il mit les pieds ici !</p>
           </sp>
         </div>
         <div type="scene" xml:id="V16">
           <pb n="174" xml:id="pb174"/>
+          <head>SCENE XVI.</head>
           <sp who="le-comte-de-fiesque" xml:id="V16-1">
             <p><hi rend="b">P</hi><hi rend="sc">uis-je</hi> parler à Mademoiselle de l’Enclos ? Mais, tout de suite.</p>
             <p>Je ne saurois la laisser plus long-tems dans cette cruelle incertitude.</p>
@@ -3423,11 +3578,13 @@
         </div>
         <div type="scene" xml:id="V17">
           <pb n="175" xml:id="pb175"/>
+          <head>SCENE XVII.</head>
           <sp who="le-comte-de-fiesque" xml:id="V17-1">
             <p><hi rend="b">C</hi><hi rend="sc">’est</hi> moi qui en suis la cause ; <ref target="#malheureux2">malheureux*</ref> que je suis ! j’étois aimé, et j’ai pu affliger le cœur le plus sensible !... M’envoyer ses cheveux pour réponse ; que d’esprit ! que de délicatesse ! que de passion ! dut-elle m’abandonner dans huit jours, je ne la quitte plus : quel homme plus fortuné que moi d’avoir fixé Mademoiselle de l’Enclos, de régner dans son cœur, d’en être adoré ; et je pourrais être insensible à tant d’amour ! La voici… quelle est belle dans ce simple négligé !</p>
           </sp>
         </div>
         <div type="scene" xml:id="V18">
+          <head>SCENE XVIII.</head>
           <sp who="le-comte-de-fiesque" xml:id="V18-1">
             <p><hi rend="b">O</hi> femme trop adorable, je viens abjurer à vos pieds mes torts, mon erreur, et vous jurer un amour éternel ; moi, vous eviter ! moi, vous oublier ! cet effort n’est pas en ma puissance… Je jure…</p>
           </sp>
@@ -3452,6 +3609,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V19">
+          <head>SCENE XIX.</head>
           <sp who="francisque" xml:id="V19-1">
             <p><hi rend="b">M</hi><hi rend="sc">onsieur</hi> de Saint-Evremont, Monsieur de Chateauroux.</p>
           </sp>
@@ -3467,6 +3625,7 @@
         </div>
         <div type="scene" xml:id="V20">
           <pb n="179" xml:id="pb179"/>
+          <head>SCENE XX.</head>
           <sp who="saint-evremont" xml:id="V20-1">
             <p><hi rend="b">J</hi><hi rend="sc">’ai</hi> l’honneur de vous présenter, Mademoiselle, un brave Officier, un bon ami du Comte de Coligny et qui a été témoin de sa cruelle fin.</p>
           </sp>
@@ -3500,6 +3659,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V21">
+          <head>SCENE XXI.</head>
           <sp who="ninon" xml:id="V21-1">
             <p><hi rend="b">V</hi><hi rend="sc">ous</hi> étiez l’ami d’un homme, Monsieur, qui portoit un nom bien cher à la France, et qui ne le fut pas moins lui-même, Monsieur le Comte de Coligny.</p>
           </sp>
@@ -3544,6 +3704,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V22">
+          <head>SCENE XXII.</head>
           <sp who="ninon" xml:id="V22-1">
             <p><hi rend="b">M</hi><hi rend="sc">oliere</hi>, voilà Monsieur de Chateauroux, dont la fille est venue hier vous trouver chez moi, à qui vous avez parlé en ma présence, comme un père, comme un ami ; il ne nous reste plus qu’à désarmer le père le plus tendre. Si nous pouvions lui ôter l’erreur du préjugé ; mais je tremble que nos instances ne soient sans effet.</p>
           </sp>
@@ -3589,6 +3750,7 @@
         </div>
         <div type="scene" xml:id="V23">
           <pb n="186" xml:id="pb186"/>
+          <head>SCENE XXIII.</head>
           <sp who="chateauroux" xml:id="V23-1">
             <p><hi rend="b">M</hi><hi rend="sc">onsieur</hi> Molière, quel mal subit a pu prendre à Mademoiselle de l’Enclos ? Elle a pâli, changé de couleur tout-à-coup. Son état m’inquiète. Vous qui la connoissez, dites-moi si elle est souvent affligée de ces petites indispositions ?</p>
           </sp>
@@ -3610,6 +3772,7 @@
         </div>
         <div type="scene" xml:id="V24">
           <pb n="188" xml:id="pb188"/>
+          <head>SCENE XXIV.</head>
           <sp who="ninon" xml:id="V24-1">
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> frémis…</p>
           </sp>
@@ -3689,6 +3852,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V25">
+          <head>SCENE XXV et DERNIERE.</head>
           <sp who="chapelle" xml:id="V25-1">
             <p><hi rend="b">P</hi><hi rend="sc">uis-je</hi> croire ce qui vient de se répandre dans tout Paris ? on dit que vous allez nous quitter, Ninon ?</p>
           </sp>
@@ -3713,6 +3877,7 @@
       </div>
       <div xml:id="postface">
         <pb n="N, 193" xml:id="pb193"/>
+        <head>POSTFACE.</head>
         <p><hi rend="sc">Le</hi> fameux Aréopage d’Athènes jouissoit de moins de crédit et de considération que le Comité de la Comédie Françoise aux yeux des Auteurs enthousiastes : j’en ai été moi-même enivrée.</p>
         <p>Que tout Auteur reprenne le sang-froid qui m’a desillé les yeux, il verra bientôt son insolence fléchir devant ses maîtres ; et quand, à l’avenir, elle refusera des Pièces, elle mettra la décence et l’équité qui doivent guider sa conduite et son opinion ; l’Auteur qui perd le fruit de ses peines, de ses veilles, mérite toujours des égards et ne doit pas s’attendre que des Comédiens porteront l’effronterie jusqu’à le persifler, le baffouer tout le tems d’une lecture.</p>
         <p>Passons donc à celle qui me concerne, et soyons laconique autant qu’il nous sera possible. J’ai déjà fatigué le Lecteur, et je sens son impatience de voir prononcer la sentence qui condamne la Pièce qu’il vient de lire. J’ai besoin cependant de faire quelques remarques. Par exemple, au moment que Francisque se défait noblement de la séduction du Grand-Prieur, à ce passage les Comédiens haussèrent les épaules, et rirent beaucoup au refus de la Soubrette ; des Valets décents sur la Scène ne sont pas à leur portée ; mais ils conviennent infiniment à Mademoiselle de l’Enclos, et diffèrent bien avec Suzanne et Figaro.<pb n="194" xml:id="pb194"/></p>

@@ -1,7 +1,56 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'Intrigue des filous. Comédie</title>
+        <author key="L'Estoile, Claude de (1597-1652)">Claude de L'Estoille</author>
+        <editor>Jie Chen</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Jie Chen sous la direction de Georges Forestier (2008-2009)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/estoile_intrigue-filous/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/estoile_intrigue-filous.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/estoile_intrigue-filous.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/estoile_intrigue-filous.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/estoile_intrigue-filous.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1648"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>L’INTRIGUE <lb/>DES FILOUS</head>
       <div xml:id="dedicace">
+        <head>A  MESSIRE <lb/>CHARLES TESTU <lb/>CONSEILLER DU ROY <lb/>EN SON CONSEIL D’ESTAT, <lb/>MAISTRE D’HOSTEL ORDINAIRE <lb/>DE SA MAJESTE, <lb/>CHEVALIER ET CAPITAINE DU GUET DE PARIS</head>
         <p>MONSIEUR,</p>
         <p>
           <hi rend="i">Je ne sçay quel jugement vous ferez de moy, &amp; si vous ne m’accuserez point d’extravagance, ou du moins d’incivilité, de vous demander aujourd’huy vostre protection pour ceux là mesmes dont vous avez entrepris la ruine. La charge qu’on a donnée à vostre vertu, &amp; qui depuis tantost un siecle a passé de pere en fils dans vostre Maison, vous oblige à faire guerre  à
@@ -15,8 +64,11 @@
         <p>MONSIEUR,</p>
         <p rend="right">Vostre tres-humble, &amp; tres-<lb/>obeyssant serviteur, DE LESTOILE.</p>
       </div>
-      <div xml:id="lettre"/>
+      <div xml:id="lettre">
+        <head>LETTRE DE MR BALLESDENS</head>
+      </div>
       <div xml:id="a-l-auteur">
+        <head>A MR DE LESTOILE</head>
         <p>MONSIEUR,</p>
         <p><hi rend="i">Il faut que vous soyez bien ennemy de vostre gloire, puisque vous n’estes pas venu Jeudi dernier à Fontaine-bleau. Je vous y avoit convié par mon Billet, pour vous faire jouyr des honneurs dont l’Intrigue de vos Filous vous auroit comblé. Mais sans doute il vous suffit de meriter des Couronnes : &amp; par un excez d’humilité qui n’a point d’exemple, vous avez voulu éviter l’occasion d’en recevoir une de ces mains royalles qui les distribuent à ceux qui sçavent regner comme vous sur les Esprits. Je ne  croyois pas jusques à present qu’il y eust de Philosophie si severe, que de vous obliger à fuyr tant d’honneur avec tant d’indifference ; ny d’Autheur si humble ou si delicat, que de s’absenter comme vous de la plus belle Cour de l’Europe, de crainte d’estre incommodé de ce battement de mains, dont le bruit, quelque grand qu’il soit, charme tousjours le cœur &amp; les oreilles des autres. Mais si les grandes Assemblees vous sont importunes, souffrez au moins que cette Lettre vous aille trouver dans vostre Cabinet. Pour vous dire des nouvelles du beau monde ; &amp; ne me sçachez pas mauvais gré, si cognoissant l’aversion que vous avez pour les loüanges, je ne puis m’empescher en passant de vous en donner quelques unes ; puis qu’en vous les donnant je ne suis qu’un faible Echo de la voix publique. En tout cas, j’ayme mieux courir le hazard de vous offencer, à l’imitation de tant d’honnestes gens qui font si hautement vostre Eloge ; qu’en me taisant tout seul, passer parmy eux pour ignorant ou pour insensible, j’auray pour le moins cét advantage, que si vous tenez pour vos ennemis ceux qui vous loüent, il ne vous fera pas si facile de vous vanger de moy que vous croiriez : puis qu’en cette occasion j’ay le bon heur d’estre du party des Princes, &amp; des plus illustres Esprits du Royaume. Sans mentir, MONSIEUR, toute la France vous est beaucoup obligee du present que vous luy avez fait de cét ouvrage, qui ne contribuë pas moins au divertissement public, qu’à la seurté des particuliers. Vous y avez meslé si judicieusement l’utile avec le delectable, que vous nous avez fait voir avec joye, &amp; sans aucun sujet d’apprehension, des personnes dont l’adresse a esté jusques icy d’un tres dangereux usage parmy les hommes. Les belles paroles que vous leur avez mises dans la bouche, en nous descouvrant leurs artifices, nous ont appris à nous en deffendre : &amp; dans un pays de Forests &amp; de Rochers, qui est ordinairement si favorable aux desseins des voleurs, nous les avons veus de prés &amp; sans danger, quoy que leur approche soit tousjours funeste. L’objet de nos craintes s’est changé en un sujet d’admiration &amp; de loüange. Ces Meschants qui ont fait un pact avec la malice, &amp; une alliance avec la mort, sont devenus divertissants &amp; officieux : Et il ne nous font point d’autre violence que de nous contraindre d’aymer nos ennemis, à force de nous donner du plaisir. Bien loin de crier aux voleurs en les voyant, ils n’ont tiré de nous que des applaudissemens &amp; des cris de joye ? Et je ne puis m’empescher de croire, ou que vous estes de moitié avec eux, ou que vous en estes le Receleur, puisque leur plus veritable larcin, est de voler les cœurs, &amp; l’estime de ceux qui les escoutent. Aussi ne sont-il pas de ceux à qui les portes du Louvre sont deffenduës. Ils traversent toutes les Compagnies des Gardes, sans apprehender le grand Prevost, ny le Chevalier du Guet. Lorsque les autres cherchent l’obscurité, ceux-cy cherchent le plus grand jour, pour avoir plus de tesmoins de leurs actions. Ils font mesme le mal avec tant de grace, qu’ils obligeroient les Juges les plus severes à les en absoudre ; Et vos vers leur ont acquis tant de faveurs aupres de leurs Majestez, que les Fleurs de Lys, qui sont la terreur des autres, &amp; les marques les plus ordinaires de leur punition, n’environnent ceux-cy que pour leur servir d’ornement, &amp; de marques d’honneur. Certes, MONSIEUR, il seroit à souhaiter que tant de beaux Esprits, qui travaillent comme vous pour le public, nous donnassent des ouvrages de pareille instruction que le vostre. Vous avez choisi sans doute à ce coup la plus vaste &amp; la plus belle matiere que les Muses pouvoient prendre pour s’occuper utilement. Il y a des Filous de toutes sortes de conditions ? Et l’on ne presente point de Piece qui ait tant d’Acteurs que cette grande Comedie, que tant de Fourbes joüent incessament dans le monde, &amp; dont le Theatre est tout l’Univers. Quant à moy je ne sçaurois jamais y faire un bon Personnage. Quelque connoissance que j’aye de cette adresse, qui semble passer aujourd’huy pour la premiere vertu du siecle, &amp; quelque amour que vous m’ayez donné pour vos Filous j’ay trop de sincerité, pour n’avoir comme eux que des compliments dissimulez ; Et je vous supplie de croire que ma main est parfaictement d’accord avec mon cœur, quand je vous escris que je suis</hi>,</p>
         <p>MONSIEUR,</p>
@@ -25,18 +77,24 @@
         <p>6, d’Octobre, 1647.</p>
       </div>
       <div xml:id="avis-au-lecteur">
+        <head>ADVIS IMPORTANT AU LECTEUR</head>
         <p rend="i">Cher Lecteur, j’offre à tes yeux un corps sans ame, j’appelle ainsi toute Comedie qui se voit sur le papier, &amp; non pas sur le Theatre. Les plus galantes &amp; les mieux achevees sont froides pour la pluspart &amp; languissantes, si elles ne sont animees par le secours de la representation. Les comediens n’en font pas seulement paroistre toutes les graces avec esclat : ils leur en prestent encore de nouvelles ; &amp; la mesme piece qui semble admirable quand ils la recitent, ne se peut lire quelquesfois sans degoust. Ils ont fait valoir celle-cy, quoy que ce ne soit autre chose qu’une pure bouffonnerie, qui n’est digne ny de toy ny de moy-mesme : aussi serois-je encore à te la donner, n’estoit que j’apprehendois avec raison qu’il ne prist envie à quelqu’un de t’en faire un present à mon deçeu, &amp; que la faisant imprimer avec peu de soin, il n’adjoustât des fautes aux miennes, qui ne sont desja qu’en trop grand nombre. Neantmoins, cher Lecteur, je ne desadvouë point ce petit ouvrage, quoy qu’il soit de peu de merite : mais je t’avertis qu’il y en a quelques autres que tu acheptes pour estre de moy qui n’en sont point ; &amp; que faute de bien cognoistre ma façon d’escrire, tu te laisses abuser par une fourberie qui n’est guere adroite que plaisante. Un certain Libraire me fait passer tous les jours pour estre Autheur de plusieurs livres qui ne sont pas de ma science, &amp; dont je n’ay jamais seulement veu le titre : cependant il te les debite avec asseurance qu’ils partent de mon esprit, &amp; pour donner couleur à ce mensonge il se sert de cét artifice. Il met à la premiere page, &amp;  à la fin de l’Epistre, un petit nombre d’estoilles, n’osant y mettre mon nom ; &amp; voila comme il te trompe, &amp; me fait tort. J’ay bien voulu t’en donner advis, afin qu’à l’advenir tu ne t’y laisses plus surprendre, &amp; que tu sçaches que je ne fus jamais d’humeur à me parer des despoüilles, ny des Vivans, ny des Morts. </p>
       </div>
       <div xml:id="privilege">
+        <head>Extrait du privilege du Roy</head>
         <p rend="i">Par grace &amp; Privilege du Roy donné à Paris le 5 jour de Fevrier 1648. Signé par le Roy en son Conseil LE BRUN : il est permis à ANTHOINE DE SOMMAVILLE Marchand Libraire à Paris, d’Imprimer ou faire Imprimer, vendre &amp; distribuer une piece de Theatre intitulee l’Intrigue des Filous, &amp; ce pendant le temps &amp; espace de cinq ans, à compter du jour que ladite piece sera Imprimée, &amp; deffences sont faites à tous autres Libraires &amp; Imprimeurs d’en vendre d’autres impressions que de celle qu’aura fait, ou fait faire ledit SOMMAVILLE ou ceux qui auront droit de luy, sous les peines portées par lesdites lettres qui sont en vertu du present Extrait tenuës pour deuëment signifiées. </p>
         <p rend="center">
           <hi rend="i">Achevé d’Imprimer le 24, Avril 1648</hi>
         </p>
       </div>
-      <div/>
+      <div>
+        <head>ACTEURS</head>
+      </div>
       <div xml:id="I" type="act">
         <pb n="A,1" xml:id="p1"/>
+        <head>ACTE PREMIER,</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="beronte">
             <l n="1" xml:id="l1">Bon-courage, mes pieds, courons viste, volons,</l>
             <l n="2" xml:id="l2">Ils sont au Roy de Bronze, ils sont à nos talons,</l>
@@ -105,6 +163,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE SECONDE.</head>
           <sp xml:id="I02-1" who="ragonde">
             <l n="48" xml:id="l48" part="I">Qui-va-là ?</l>
           </sp>
@@ -251,6 +310,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE TROISIESME.</head>
           <pb n="10" xml:id="p10"/>
           <sp xml:id="I03-1" who="lucidor">
             <l part="F">O Comble de mal-heurs !</l>
@@ -362,6 +422,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE QUATRIESME.</head>
           <sp xml:id="I04-1" who="florinde">
             <l part="F">J’attens vostre retour ;</l>
             <l n="219" xml:id="l219">L’avez-vous veu Clorise ? a-t’il ce qu’il demande ?</l>
@@ -415,6 +476,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE CINQUIESME</head>
           <sp xml:id="I05-1" who="olympe">
             <l part="F">Vous sortez bien matin,</l>
             <l n="255" xml:id="l255">Mais plus matin encor je me suis habillée,<pb n="C,17"/></l>
@@ -561,7 +623,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="23" xml:id="p23"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="II01-1" who="beronte">
             <l n="339" xml:id="l339">Ha ! je m’en doutois bien que je serois Prophete ;</l>
             <l n="340" xml:id="l340">Sans user de balais, ils ont fait maison nette;</l>
@@ -590,6 +654,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE DEUXIESME.</head>
           <sp xml:id="II02-1" who="beronte">
             <l n="363" xml:id="l363">Mais qui voy-je parestre ? Amour me favorise,</l>
             <l n="364" xml:id="l364">Ce frizé semble avoir l’oeil à la friandise;</l>
@@ -674,6 +739,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE TROISIESME.</head>
           <pb n="28" xml:id="p28"/>
           <sp xml:id="II03-1" who="ragonde">
             <l n="407" xml:id="l407">Que vous plaist-il Monsieur ? voulez-vous dans ma chambre</l>
@@ -763,6 +829,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE QUATRIESME.</head>
           <sp xml:id="II04-1" who="clorise">
             <l n="460" xml:id="l460" part="I">Icy prés.</l>
           </sp>
@@ -847,6 +914,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE CINQUIESME.</head>
           <pb n="35" xml:id="p35"/>
           <sp xml:id="II05-1" who="tersandre">
             <l n="517" xml:id="l517">Voyez quelle response, &amp; de quelle fierté,</l>
@@ -888,6 +956,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE SIXIESME.</head>
           <sp xml:id="II06-1" who="tersandre">
             <l n="553" xml:id="l553">Où donc, triste &amp; resveur allez-vous seul ainsi ?</l>
             <l n="554" xml:id="l554">Vous est-il survenu quelque nouveau soucy ?</l>
@@ -1042,6 +1111,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE SEPTIESME.</head>
           <sp xml:id="II07-1" who="tersandre">
             <l n="611" xml:id="l611">Adorable beauté, pour moy seul inhumaine,</l>
             <l n="612" xml:id="l612">Dans les lieux où je suis, quel sujet vous ameine ?</l>
@@ -1132,7 +1202,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="46" xml:id="p46"/>
+        <head>ACTE  III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="III01-1" who="florinde">
             <l n="661" xml:id="l661">Doncques de mes <ref target="#faveur">faveurs*</ref> l’Insolent s’est vanté !</l>
             <l n="662" xml:id="l662">Ha ! je ne puis <ref target="#souffrir">souffrir*</ref> ce trait de vanité ;</l>
@@ -1156,6 +1228,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE DEUXIESME.</head>
           <sp xml:id="III02-1" who="ragonde">
             <l n="680" xml:id="l680">Un Malade d’Amour sans espoir d’allegeance,</l>
             <l n="681" xml:id="l681">Lucidor, ce Resveur qui dort moins qu’un Lutin,</l>
@@ -1253,6 +1326,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE TROISIESME.</head>
           <pb n="G,51"/>
           <sp xml:id="III03-1" who="olympe">
             <l n="735" xml:id="l735">Ainsi donc à toute heure il faut que je descende,</l>
@@ -1368,6 +1442,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE QUATRIESME.</head>
           <sp xml:id="III04-1" who="beronte">
             <l part="F">Je suis un vray <ref target="#longis">longis*</ref>,</l>
             <l n="798" xml:id="l798">D’estre encore à courir jusqu’à vostre logis ;</l>
@@ -1415,6 +1490,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE CINQVIESME.</head>
           <sp xml:id="III05-1" who="tersandre">
             <l part="F">Enfin je te retreuve</l>
             <l n="836" xml:id="l836">Et de ce bras vangeur tu vas faire l’espreuve ;</l>
@@ -1696,6 +1772,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE SIXIESME.</head>
           <pb n="68" xml:id="p68"/>
           <sp xml:id="III06-1" who="tersandre">
             <l n="981" xml:id="l981">Enfin vous le voulez, le sort en est jetté ;</l>
@@ -1779,6 +1856,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE SEPTIESME.</head>
           <sp xml:id="III07-1" who="le-balafre">
             <l n="1021" xml:id="l1021">Courons apres ces Gens, il est nuict, autant vaut.</l>
           </sp>
@@ -1812,7 +1890,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="K,73"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="ragonde">
             <l n="1037" xml:id="l1037">Dieu, qu’est-ce que je voy ? n’allons pas plus avant,</l>
             <l n="1038" xml:id="l1038">De peur de ce Filou, tapy sous cet auvent ;</l>
@@ -1824,6 +1904,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE DEUXIESME.</head>
           <sp xml:id="IV02-1" who="lucidor">
             <l part="F">Qu’est-ce qui te r’amene ?</l>
           </sp>
@@ -1926,6 +2007,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE TROISIESME.</head>
           <sp xml:id="IV03-1" who="lucidor">
             <l n="1087" xml:id="l1087">Puis-je bien me resoudre à cette perfidie ?</l>
             <l n="1088" xml:id="l1088">Amour inspire moy ce qu’il faut que je die,</l>
@@ -2163,6 +2245,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE QUATRIESME.</head>
           <sp xml:id="IV04-1" who="le-balafre">
             <l n="1223" xml:id="l1223">Quel bruit chers compagnons a frappé nos oreilles ?</l>
             <l n="1224" xml:id="l1224">Tandis qu’ainsi tous trois nous beyons aux Corneilles,</l>
@@ -2201,6 +2284,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE CINQUIESME.</head>
           <sp xml:id="IV05-1" who="le-borgne">
             <l n="1245" xml:id="l1245">Silence, Compagnons, quelqu’un marche là bas.</l>
           </sp>
@@ -2354,7 +2438,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="95" xml:id="p95"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="V01-1" who="le-bras-de-fer">
             <l n="1323" xml:id="l1323" part="I">Viennent-ils ?</l>
           </sp>
@@ -2448,6 +2534,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE DEUXIESME.</head>
           <pb n="99" xml:id="p99"/>
           <sp xml:id="V02-1" who="le-bras-de-fer">
             <l part="F">Doublez doublez le pas,</l>
@@ -2623,6 +2710,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE TROISIESME.</head>
           <sp xml:id="V03-1" who="olympe">
             <l n="1483" xml:id="l1483">Au Voleur, au Voleur, accourez à mon ayde,</l>
           </sp>
@@ -2643,6 +2731,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE QUATRIESME.</head>
           <sp xml:id="V04-1" who="lucidor">
             <l part="F">Madame, ils ont tous fait retraitte,</l>
             <l n="1492" xml:id="l1492">Apres s’estre sauvez par la porte secrete ;</l>
@@ -2792,6 +2881,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE CINQUIESME.</head>
           <sp xml:id="V05-1" who="tersandre">
             <l n="1566" xml:id="l1566">Quels cris ay-je entendus ? ne le puis-je sçavoir ?</l>
           </sp>
@@ -2875,6 +2965,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE SIXIESME.</head>
           <sp xml:id="V06-1" who="tersandre">
             <l part="F">Qu’as-tu dis Miserable ?</l>
           </sp>
@@ -2943,6 +3034,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE DERNIERE.</head>
           <sp xml:id="V07-1" who="lucidor">
             <l n="1633" xml:id="l1633">Qui donc crie au voleur ? D’où provient ce grand bruit ?</l>
           </sp>

@@ -1,0 +1,1893 @@
+---
+identifier: donneaudevise_gentilhommeguepin  
+creator: Donneau de Visé Jean  
+date: 1670  
+title: Le Gentilhomme Guespin. , comédie  
+---
+
+
+LE GENTILHOMME GUESPIN
+
+COMÉDIE
+
+M. DC. LXX. AVEC PRIVILÈGE DU ROI.
+
+
+
+# PRIVILÈGE DU ROI. LOUIS par la grâce de Dieu, Roi de France et de Navarre : à nos amis et féaux Conseillers, les Gens tenant nos Cours de Parlement, Requêtes de notre Hôtel et de notre Palais à Paris, et à tous autres nos Juges et Officiers qu'il appartiendra, Salut. Notre bien ami Thomas Jolly, Marchand Libraire à Paris, Nous a fait remontrer qu'il a recouvert une pièce de théâtre, intitulée LE GENTILHOMME GUESPIN, représentée sur le Théâtre du Marais, laquelle il désirerait imprimer pour la donner au Public, s'il Nous plaisait lui accorder nos Lettres de Permission sur ce nécessaires. À ces causes, de notre grâce spéciale, pleine puissance et autorité Royale, Nous lui avons permis, octroyé et accordé, et par ces Présentes octroyons et accordons la Permission et Privilège d'imprimer, vendre et distribuer ladite Pièce, en tel Volume et Caractère que bon lui semblera, pendant le temps et espace de cinq années, à commencer du jour qu'elle sera achevée d'imprimer pour la première fois : Faisons défenses à tous autres Libraires et Imprimeurs, de l'imprimer, ou faire imprimer, sous quelque prétexte que ce soit, fait le consentement dû. Exposant, ou de ceux qui auront droit de lui, à peine de confiscation des Exemplaires, de cinq cent livres d'amende, et de tous défenses, dommages et intérêts : Le tout à la charge de mettre un Exemplaire de ladite Pièce dans notre Bibliothèque, un autre en celle du Cabinet de Livres de notre Château du Louvre, et un troisième en celle de notre très cher et féal Chevalier Chancelier de France, avant que de l'exposer en vente ; et d'en rapporter les mains de notre ami et féal Conseiller en nos Conseils, Grand Audiencier de France en quartier, les récépissés de nos Bibliothécaires, à peine de nullité des Présentes. Voulons qu'en mettant au commencement du Livre l'Extrait des Présentes elles soient tenues pour signifiées, et qu'aux Copies d'icelles, collationnées par l'un de nos amis et féaux Conseillers et Secrétaires, foi soit ajoutée comme à l'Original. Si vous mandons, et à chacun de vous enjoignons, que du contenu en icelles, vous fassiez jouir l'Exposant, et ses ayants cause, cessant et faisant cesser tous troubles et empêchement au contraire. Commandons au premier notre Huissier, ou Sergent sur ce requis, faire pour l'exécution des Présentes, tous Exploits requis et nécessaires, sans demander autre permission, nonobstant Clameur de Haro, Charte Normande, et Lettres à ce contraires : Car tel est notre plaisir. DONNEAU à S. Germain en Laye le vingt et un de Septembre, l'an de grâce mille six cent soixante-dix : Et de notre Règne le vingt-huit. Signé, Par le Roi en son Conseil, VILLET ; Registré sur le Livre de la Communauté des Imprimeurs et Marchands Libraires de Paris, suivant et conformément à l'Arrêt de la Cour de Parlement du 8. Avril 1653. aux charges et conditions portées par ces Présentes Lettres. Fait à Paris le 23. Septembre 1670. Signé, LOUIS SEVESTRE, Syndic. Et ledit Thomas Jolly a associé audit Privilège, Guillaume de Luyne, Etienne Loyson, et Claude Barbin, pour en jouir conjointement, suivant l'accord fait entre eux.Achevé d'imprimer pour la première fois le 27 Septembre 1670.À PARIS, Chez CLAUDE BARBIN, au Palais Sur le Second Perron de la Sainte Chapelle.
+Représenté pour la première fois en 1670 au Théâtre du Marais.
+
+
+# PRÉFACE.
+
+Ce Sujet m'a paru si plaisant et si propre au Théâtre, que je n'ai pu m'empêcher de le traiter. Peut-être qu'il ne paraîtra pas tel sur le papier, ce qu'il a de plus Comique consistant plus dans les actions que dans les mots. Il y a un perpétuel jeu muet dans cette Pièce, qui étant tiré du fonds du sujet, donne un plaisir extrême à l'Auditeur ; et l'on ne dit presque pas un Vers qui ne fasse rire dans la Représentation, par le chagrin qu'il donne au Vicomte. Le papier ne peut représenter son inquiétude ni ses postures, non plus que le grand benêt de Fils de Monsieur de Bois-Douillet, dont on ne trouvera point le rôle dans l'impression, encore qu'on n'ait guère vu de Personnages sur la Scène qui aient plus fait rire.
+
+
+# ERRATUM.
+
+Page 7. au dessus du Vers, Mais ma soeur, s'il, etc. il faut mettre, LE VICOMTE.
+
+Page 12. Devant le Vers, Que ne le, etc. LUCRÈCE.
+
+Page 39. Je suis morte, j'ai parlé trop haut, lisez, j'ai parlé trop haut, je suis morte.
+
+
+# ACTEURS.
+ – LE VICOMTE DE LA SABLONNIERE.
+ – LUCRÈCE, sa femme.
+ – CLARICE, soeur du Vicomte.
+ – LISETTE, femme de Chambre de Lucrèce.
+ – MONSIEUR DE CORNANVILLE, Gentilhomme Campagnard.
+ – MONSIEUR DE BOIS-DOUILLET, Gentilhomme Campagnard.
+ – SON FILS, Gentilhomme Campagnard.
+ – MONSIEUR DE CHANTE-PIE, Gentilhomme Campagnard.
+ – MONSIEUR DE COCHON-VILAIN, Gentilhomme Campagnard.
+ – MONSIEUR DE BOIS-LE-ROUX, Amant de Clarice.
+ – COLAS, Valet du Vicomte.
+ – NICODEME, Valet du Vicomte.
+ – BLAISE CLAMPIN.Le Scène est dans le Château du Vicomte de la Sablonnière.
+
+
+# .
+
+
+## SCÈNE PREMIÈRE. Lucrèce, Clarice.
+
+    LUCRÈCE.
+Non, je ne puis plus vivre avec votre frère,  
+Son humeur me déplaît, je ne saurais m'en taire ;  
+Il me traite trop mal, depuis neuf ou dix mois  
+Que notre hymen m'engage à vivre sous ses lois.  
+Il croit, dès qu'on me voit que je dois être aimée,  
+Et me tient en ce lieu jour et nuit enfermée,  
+Où ne trouvant jamais personne à qui parler,  
+Avec vous seulement je puis me consoler.  
+
+    CLARICE.
+Je sais que je ne puis justifier mon frère,  
+Qu'un naturel jaloux a rendu trop sévère ;  
+Mais je crois être encore plus à plaindre que vous,  
+Vous êtes mariée, et je n'ai point d'époux :  
+Toutefois il me tient comme vous prisonnière ;  
+À peine, en ce Château, puis-je voir la lumière ;  
+J'en connais les raisons, et je m'aperçois bien,  
+Qu'il ne me traite ainsi, qu'afin d'avoir mon bien ;  
+Et qu'il veut que je sois sans cesse à la campagne,  
+Afin que vous ayez une triste compagne,  
+Qui puisse vous veiller, et répondre de vous.  
+Il satisfait ainsi son naturel jaloux ;  
+Et me tenant toujours avec vous enfermée,  
+Il empêche, par là, que je ne sois aimée ;  
+Car comme en ce logis aucun n'entre jamais,  
+Nul ne peut être épris de mes faibles attraits :  
+Cependant chaque jour la jeunesse se passe,  
+Et le temps, tous les jours, de nos beautés efface.  
+
+    LUCRÈCE.
+Je ne puis condamner l'excès de votre ennui,  
+Et je dois, par mes maux, juger de ceux d'autrui,  
+Car enfin je ressens dans ma peine secrète...  
+
+
+## SCÈNE II. Lucrèce, Clarice, Lisette.
+
+    LISETTE.
+Ah quel maudit logis !  
+
+    CLARICE.
+        Mais qu'as-tu donc, Lisette ?  
+
+    LISETTE.
+Ce que j'ai ! Croyez vous que je n'enrage pas,   [1]
+De voir ici chacun si triste un Lundi gras ?  
+Depuis qu'en ce château je me vois enfermée,  
+Je sens que je n'ai plus ma joie accoutumée ;  
+Et je vous prie enfin, de vouloir m'accorder  
+Mon congé, que je viens exprès vous demander.  
+
+    CLARICE.
+Ta demande m'étonne, et n'est pas raisonnable.  
+
+    LUCRÈCE.
+Voudrais-tu me quitter dans l'ennui qui m'accable ?  
+
+    LISETTE.
+Vous vivez bien hélas ! Plus contente à Paris ;  
+Et ce n'était chez vous que festins, jeux, et ris,  
+Quand ce campagnard vint enjôler votre père,  
+Et quand il vous promit ce qu'il ne vous tient guère,  
+Pour vous faire en partant étouffer vos soupirs,  
+Il sut de la Campagne étaler les plaisirs :  
+Les nobles sont, chez eux, comme de petits princes,  
+Vous dit-il, et l'on est heureux dans les provinces ;  
+On y voit mille gens dont on est respecté ;  
+On goûte les plaisirs de la société ;  
+Sans divertissement, aucun jour ne se passe ;  
+On a la promenade, et la pêche et la chasse ;  
+On trouve, chaque jour, mille plaisirs nouveaux ;  
+On mange l'un chez l'autre, on se fait des cadeaux ;  
+Du soir, jusqu'au matin, on tient tables ouvertes ;  
+Qui d'excellent gibier sont sans cesse couvertes ;  
+On est, sans de grands frais, dans les jeux et les ris ;  
+Les modes aussitôt, y viennent de Paris ;  
+Les plaisirs qu'on y prend, sont charmants et tranquilles,  
+Ils ne se sentent point de l'embarras des villes ;  
+Et qui veut y jouer, y trouve des joueurs.  
+Vous avez bien ici tout cela ?  
+
+    CLARICE.
+        Comme ailleurs,  
+Nous aurions ces plaisirs, sans l'humeur de mon frère.  
+
+    LISETTE.
+Elle est trop ridicule ensemble, et trop sévère.  
+
+    LISETTE.
+Depuis son mariage, il est toujours pensif ;  
+À tout ce qu'on vous dit, à toute heure attentif ;  
+Il ouvre de grands yeux, et fait voir qu'en son âme  
+Il n'a jamais pensé qu'il fut d'honnête femme.  
+
+    CLARICE.
+Quoi qu'on souffre avec lui, je crois que tu diras,  
+Que tu n'as jamais mieux passé de Lundis gras.  
+Mon frère aura ce soir, à souper, dix personnes.  
+
+    LISETTE.
+Et oui, je le croirai.  
+
+    CLARICE.
+        Quoi donc, tu t'en étonnes ?  
+
+    LUCRÈCE.
+Vous le dites aussi, pour vous moquer de nous.  
+
+    LISETTE.
+Le souper n'est pourtant préparé que pour vous.  
+
+    CLARICE.
+Ils viendront toutefois.  
+
+    LISETTE.
+        S'ils n'ont que l'ordinaire,   [2]
+Monsieur leur veut donc bien faire méchante chère.  
+
+    CLARICE.
+Pour vous tirer d'erreur, je veux vous avouer  
+Un tour, dont toutes deux vous devez me louer.  
+Le Sieur de Bois-le-Roux, qu'autrefois pour affaire  
+Vous avez vu souvent venir trouver mon frère,  
+Pour mes faibles appâts ayant pris de l'amour,  
+Par son mérite, a su m'en donner à son tour.  
+Ce Cavalier n'a rien qui sente la province,  
+Ayant été longtemps à la Cour de son Prince,  
+Le trépas de son père, assez inopiné,  
+Pour recueillir ses biens, ici l'a ramené :  
+Mais comme il a vidé d'affaire avec mon frère,  
+Pour nous revoir tous deux, ne sachant plus que faire,  
+Ayant trouvé Céphise au Temple l'autre jour,  
+Je ne pus en sortant lui taire mon amour.  
+Comme elle a de l'esprit, et qu'enfin elle m'aime,  
+Elle sut m'inspirer d'abord ce stratagème,  
+Qui fut que de la part de mon frère, aujourd'hui,  
+Je prierais nos voisins de souper avec lui,  
+Sans oublier celui qui cause ma tendresse.  
+Je l'ai fait, et dans peu vous verrez la noblesse  
+De dix châteaux voisins arriver en ce lieu.  
+J'ai fait encore plus ; car pour couvrir mon jeu,  
+Et faire qu'on n'en puisse éclaircir le mystère,  
+J'ai su faire éloigner, et même par mon frère,  
+Celui qui de sa part, les a conviés tous.  
+
+    LISETTE.
+Vous en savez, ma foi, Madame, plus que nous.  
+
+    CLARICE.
+Il n'en saurait coûter qu'un repas à mon frère.  
+
+    LISETTE.
+Vous avez bien, par là, fait une pire affaire.  
+Monsieur étant toujours si bourru, si jaloux,  
+Hélas ! Mon Dieu, Madame, où nous fourrerons-nous,   [3]
+Quand ces gens-là viendront tantôt baiser sa femme,  
+Car la civilité veut qu'ils baisent Madame,  
+Alors qu'ils la verront pour la première fois,  
+S'en dut-il de dépit cent fois mordre les doigts.  
+Quand j'y songe pourtant, j'en suis déjà ravie,  
+Car jamais à baiser, un campagnard n'oublie ;  
+Contre la bienséance, il croirait trop pêcher ;  
+La plus hardi jaloux ne saurait l'empêcher ;  
+Et quoi que toujours fou, se croirait lors peu sage,  
+Blâmant ce qu'autorise un aussi long usage :  
+Mais quand ils baiseront tantôt, figurez-vous.  
+Ce que doit en son coeur ressentir le jaloux,  
+Qui verra, devant lui, qu'on baisera sa femme.  
+
+    CLARICE.
+Il vient.  
+
+    LISETTE.
+        Je ris déjà par avance en mon âme.  
+
+
+## SCÈNE III. Lucrèce, Clarice, Le Vicomte, Lisette.
+
+    LE VICOMTE, À LUCRÈCE.
+Te verrai-je toujours avec cette langueur ?  
+Et ne puis-je savoir ce qui te tient au coeur ?  
+Là, tâche à rire un peu, bannis cette tristesse,  
+Et du moins, ces jours gras, montre quelque allégresse.  
+
+    LUCRÈCE.
+Les divertissements nous marquent les jours gras ;  
+Et n'en ayant jamais, je ne les connais pas.  
+
+    CLARICE.
+Mais, mon frère, il est vrai qu'elle est trop solitaire.  
+
+    LE VICOMTE. [4]
+Mais, ma soeur, s'il est vous plaît, apprenez à vous taire.  
+
+    LISETTE, À PART.
+Nous rirons bien tantôt, lorsque les campagnards,  
+Pour souper avec lui, viendront de toute parts.  
+
+    LE VICOMTE, À LUCRÈCE.
+Te verrai-je toujours tant de chagrin dans l'âme ?  
+Le plaisir d'un époux devant être en sa femme,  
+Et celui de la femme en son époux aussi,  
+J'ai cru ne devoir pas te laisser seule ici,  
+Quoiqu'on m'ait, pour ce soit, avec beaucoup d'instance,  
+Prié plus de dix fois d'un repas d'importance.  
+
+    LUCRÈCE.
+Mais, de ce grand repas, nous étions prié tous.  
+
+    LISETTE.
+J'étais priée aussi d'aller avec vous.  
+
+    LE VICOMTE.
+Comme pour toi mon coeur a beaucoup de tendresse,  
+Je veux avoir bien soin de toi dans ta grossesse.  
+
+    LISETTE.
+Quoi, ma maîtresse est grosse ? Il n'en est ma foi rien ;  
+Je crois, s'il était vrai, que je le saurais bien.  
+
+    LUCRÈCE.
+Non, je ne la suis pas.  
+
+    CLARICE.
+        Elle dit vrai, mon frère.  
+
+    LE VICOMTE.
+Mais que sait-on enfin ?  
+
+    LISETTE.
+        On le sait d'ordinaire.  
+
+    LE VICOMTE.
+Nous rirons entre nous ; va, ma femme, crois-moi,  
+Le plaisir est bien doux, d'être en repos chez soi.   [5]
+Le berger doit ce soir apporter sa musette,  
+Et pour te divertir, danser avec Lisette ;  
+Ne te chagrine point, tu te réjouiras,  
+Bien que nous soyons seuls le reste des jours gras.  
+
+    LISETTE.
+Oui-dà.  
+
+    LE VICOMTE.
+        Nous goûterons un plaisir bien tranquille.  
+
+
+## SCÈNE IV. LE VICOMTE, LUCRÈCE, CLARICE, LISETTE, COLAS.
+
+    COLAS, AU VICOMTE.
+On nous demande, et c'est Monsieur de Cornanville.  
+
+    LE VICOMTE.
+Je ne suis pas ici, tu le devais savoir.  
+
+    COLAS.
+        Il vient.  
+
+    LISETTE.
+Comme il est fait !  
+
+    LE VICOMTE.
+        Je suis au désespoir.  
+
+
+## SCÈNE V. Le Vicomte, Lucrèce, Clarice, Lisette, Monsieur de Cornanville.
+
+    MONSIEUR DE CORANANVILLE, AU VICOMTE, APERCEVANT LUCRÈCE.
+Monsieur... Mais que d'appât ! Ô Dieu, la belle femme !  
+Ah, permettez, Monsieur, que j'embrasse Madame.  
+
+    LE VICOMTE.
+Il appuie un peu fort.  
+
+    LISETTE.
+        Je plains peu le jaloux.  
+
+    LE VICOMTE, À PART.
+Il n'est que pour baiser, je crois, venu chez nous ;  
+À Monsieur de Cornanville.
+
+Les femmes de Paris craignent d'être baisées,  
+Et pour cette venu sont dessus tout prisées.  
+
+    MONSIEUR DE CORNANVILLE.
+Pour la première fois, je sais ce que je dois,  
+Et vous auriez sujet de vous plaindre de moi.  
+
+    LE VICOMTE.
+Point.  
+
+    MONSIEUR DE CORNANVILLE, SE RETOURNANT, ET BAISANT CLARICE.
+    Mais...  
+
+    LE VICOMTE.
+        Il s'accommode ici tout à son aise.  
+
+    LISETTE, COMME IL VA À ELLE POUR LA BAISER.
+Je ne suis pas, Monsieur, de celles que l'on baise.  
+
+    MONSIEUR DE CORNANVILLE.
+Ah Madame !  
+
+    LISETTE.
+        Ma foi je suis d'un rang plus bas :  
+Foin, il m'a fait baiser aussi ses cheveux gras.  
+
+    LE VICOMTE, À PART.
+Puis que pour la servante il a de la tendresse,  
+Il s'accommoderait aussi de la maîtresse.  
+
+    LUCRÈCE, À M. DE CORNANVILLE.
+Vous êtes trop civil.  
+
+    LE VICOMTE, À LUCRÈCE.
+        Vous voulez tout pour vous.  
+
+    LISETTE.
+Ah, quel plaisir de voir rechigner un jaloux !  
+
+    MONSIEUR DE CORNANVILLE.
+J'ai quitté mes amis, pour venir voir Madame.  
+
+    LE VICOMTE.
+Hé Monsieur.  
+
+    LUCRÈCE, À MONSIEUR DE CORNANVILLE.
+    Tout de bon.  
+
+    LE VICOMTE, LE REGARDANT EN COLÈRE.
+    Ah !  
+
+    MONSIEUR DE CORNANVILLE.
+        Oui, dessus mon âme.  
+Je pense que de loin, je viens de voir aussi   [6]
+Monsieur de Bois-Doüillet qui tire droit ici.  
+
+    LE VICOMTE.
+Comment, ici ?  
+
+    MONSIEUR DE CORNANVILLE.
+        Du moins il en tenait la route.  
+
+    LE VICOMTE, REGARDANT SA SOEUR.
+Ah j'enrage...  
+
+    MONSIEUR DE CORNANVILLE, À PART.
+        Je suis prié tout seul, sans doute.  
+Je crois que vous passez votre temps sans ennuis,  
+Car on se divertit fort bien en ce pays :  
+Il le faut avouer, on goûte ici la vie  
+D'une manière douce, et qui doit faire envie.  
+S'il arrive qu'on soit d'un ami visité,  
+Quand par hasard on est de quelque autre côté,  
+Le femme le reçoit, comme le mari même.  
+
+    LE VICOMTE.
+Ce serait, pour ma femme, une fatigue extrême ;  
+Elle hait l'embarras.  
+
+    LUCRÈCE.
+        Hé mon Dieu, je ferais,  
+En cette occasion, tout ce que je pourrais.  
+
+    LE VICOMTE.
+Tant pis pour moi.  
+
+    LISETTE.
+        Madame est fort accommodante.  
+
+    LE VICOMTE.
+Plus que je ne voudrais.  
+
+    MONSIEUR DE CORNANVILLE. [7]
+        Mais au Trente et Quarante  
+Si vous saviez jouer, je viendrais quelquefois....  
+
+    LE VICOMTE.
+Le jeu ne lui plaît plus, depuis huit, ou neuf mois.  
+
+    CLARICE.
+Elle ne peut jouer, étant sans compagnie.  
+
+    LE VICOMTE.
+Je sais ce que je dis, taisez-vous je vous prie.  
+N'auriez-vous pas besoin de manger ?  
+
+    MONSIEUR DE CORNANVILLE.
+        C'est bien dit,  
+Car le chemin m'a fait gagner de l'appétit.  
+
+    LE VICOMTE.
+Allez donc, je vous suis.  
+
+    MONSIEUR DE CORNANVILLE, À LUCRÈCE.
+        N'en soyez pas surprise,  
+Madame, la campagne est un lieu de franchise, :  
+Et chez ses bons amis on vit comme chez soi.  
+
+    LUCRÈCE.
+Que ne le suivez-vous ?  
+
+    LE VICOMTE.
+        Pourquoi vient-il chez moi,  
+Sachant bien qu'à présent je ne vois plus personne ?  
+Un procédé si libre, et me fâche, et m'étonne.  
+
+
+## SCÈNE VI. Monsieur de Bois-Douillet, et son fils, Lucrèce, Clarice, Le Vicomte, Lisette.
+
+    BOIS-DOUILLET.
+Je suis, sans dire mot, entré jusqu'ici.  
+Vous voyez avec moi, Monsieur, mon fils aussi.  
+
+    LE VICOMTE, COURANT L'EMBRASSER DE PEUR QU'IL N'AILLE À SA FEMME.
+Ah Monsieur !  
+
+    BOIS-DOUILLET.
+        C'est assez, permettez-moi de grâce...  
+
+    LE VICOMTE.
+Ah souffrez, s'il vous plaît, qu'encore je vous embrasse.  
+
+    LISETTE.
+Ils sont fort bons.  
+
+    CLARICE.
+        Mon frère est bien inquiété.  
+
+    BOIS-DOUILLET, AU VICOMTE.
+Vous me faites commettre une incivilité ;  
+Je sais bien que je dois saluer votre femme,  
+Il court à elle. Il la baise.
+
+C'est la première fois que je la vois. Madame,  
+Je suis ravi du bien qu'aujourd'hui je reçois.  
+
+    LE VICOMTE, À PART.
+S'il en est satisfait, je ne le suis pas, moi.  
+
+    LUCRÈCE, À MONSIEUR DE BOIS-DOUILLET.
+C'est moi qui le reçois.  
+
+    BOIS-DOUILLET, FAISANT SIGNE À SON FILS.
+        Ste. Approchez, vous dis-je,  
+Et saluez Madame. Approchez donc.  
+
+    LE VICOMTE.
+Où suis-je !  
+
+    BOIS-DOUILLET.
+        Là, saluez-la donc, faites-lui compliment.  
+
+    CLARICE, VOYANT L'ACTION DU FILS.
+Est-il un plus grand sot !  
+
+    LISETTE.
+        Quel divertissement !  
+
+    LE FILS, FAISANT DES RÉVÉRENCES À LUCRÈCE.
+Madame.  
+
+    BOIS-DOUILLET? LE POUSSANT PAR DERRIÈRE.
+        Il est honteux ; là, baisez donc Madame ;  
+C'est toujours en baisant, qu'on salue une femme.  
+
+    LE VICOMTE.
+Quand il n'en ferait rien, ce n'est pas m'offenser.  
+
+    BOIS-DOUILLET.
+Vos charmes l'ont surpris, je vais recommencer,  
+Afin de lui montrer, par là, comme il faut faire.  
+
+    LUCRÈCE.
+Oh !  
+
+    LE VICOMTE.
+        Arrêtez, Monsieur, il n'est pas nécessaire.  
+
+    CLARICE.
+On le doit excuser, car toujours les enfants  
+Sont honteux, quand ils sont avec leurs parents.  
+
+    LE VICOMTE.
+Il fait bien ce qu'il fait, apprenez à vous taire.  
+
+    BOIS-DOUILLET.
+Le fils, à ce qu'on dit, ne vaudra pas son père.  
+
+    LUCRÈCE.
+Vous étiez bien galant, je crois, en votre temps.  
+
+    BOIS-DOUILLET. [8]
+Ah galant ! Tête-bleu, je l'étais dès dix ans.  
+
+    LE VICOMTE.
+Je crois que vous ferez, Messieurs, méchante chère.  
+
+    BOIS-DOUILLET.
+Alors qu'on voit, Madame, on ne la saurait faire.  
+
+
+## SCÈNE VII. Bois-Douillet, Le Vicomte, Lucrèce, Clarice, Lisette, Colas.
+
+    COLAS. [9]
+Monsieur il faut percer du vin pour ce Monsieur.  
+
+    LE VICOMTE.
+Hé bien, que l'on en perce, et même du meilleur.  
+
+    COLAS.
+Mais....  
+
+    LE VICOMTE.
+    Quoi mais ?...  
+
+    COLAS.
+        Il faudrait que vous vinssiez vous-même.  
+
+    LE VICOMTE, À PART.
+Quitterai-je ma femme ? Ah ma peine est extrême.  
+À Colas.
+
+Va-t-en.  
+
+    COLAS.
+    Mais...  
+
+    LE VICOMTE.
+        Va, te dis-je, et ne raisonnes pas.  
+
+    BOIS-DOUILLET.
+Je m'en vais le percer, va, mon pauvre Colas.  
+J'entends mieux ce métier qu'aucun qui soit en France ;  
+Et si vous le voulez voir par expérience,  
+Je vais en un moment percer tout votre vin.  
+
+    LE VICOMTE.
+C'est trop.  
+
+    BOIS-DOUILLET.
+        Il vous en faut, car il est très certain  
+Que les chemins sont pleins de beaucoup de noblesse,  
+Qui vient souper céans avec grande allégresse.  
+
+    LE VICOMTE.
+Comment, souper céans ? Diable ! Que dites-vous ?  
+
+    LISETTE, À PART.
+Nous allons comme il faut voir pester le jaloux.  
+
+    BOIS-DOUILLET, À SON FILS.
+Nous étions priés seuls, et sa peine le montre.  
+
+    LE VICOMTE, À PART.
+Qui Diable fait qu'ici tout ce train se rencontre ?  
+
+    BOIS-DOUILLET.
+Je m'en vais vous percer du vin pour ces Messieurs.  
+À son fils.
+
+Quoi tu me suis, grand sot, ici tout comme ailleurs :  
+Apprends qu'un garçon doit rester avec les femmes,  
+Et pour se façonner, entretenir les dames.  
+Tu n'es point de mon sang, et je vois entre nous  
+Trop...  
+
+    LE VICOMTE.
+        Monsieur, il fait bien d'aller avec vous :  
+Oui, mon Fils, c'est bien fait, de suivre votre père.  
+
+    LISETTE.
+Suivez votre papa.  
+
+
+## SCÈNE VIII. Le Vicomte, Lucrèce, Clarice, Lisette.
+
+    LE VICOMTE.
+        Ceci ne me plaît guère :  
+Comment, un régiment de gens dans ma maison ?  
+
+    CLARICE.
+Si vous ne tenez point votre femme en prison,  
+Vous n'auriez pas chez vous aujourd'hui cette fête ;   [10]
+Le bruit court qu'on vous veut donner martel en tête ;  
+Et ces Messieurs pourraient, vous croyant fort jaloux,  
+S'être donné le mot, pour fondre ainsi chez vous.  
+Mon frère, pardonnez au zèle qui m'emporte,  
+Votre intérêt m'oblige à parler de la sorte.  
+
+    LE VICOMTE.
+Ah j'empêcherai bien qu'aucun d'eux n'entre ici.  
+
+    CLARICE.
+Vous pourrez tout gâter, en agissant ainsi ;  
+Et vous devez, bien loin de paraître en colère,  
+Pour les faire enrager, faire tout le contraire.  
+Ne leur demandez point qui les a priés tous,  
+Mais paraissez content de les avoir chez vous ;  
+Ils seront bien surpris, et tout couvert de honte,  
+Ils en seront sans doute une retraite prompte ;  
+Car leur dessein ne va qu'à vous faire dépit,  
+Et qu'à voir s'il est vrai, ce que de vous on dit.  
+
+    LE VICOMTE.
+Vous en savez beaucoup.  
+
+    LISETTE.
+        Ma foi sa politique,  
+Monsieur...  
+
+    LUCRÈCE.
+        Moi, je suivrais ses conseils sans réplique.  
+
+    LE VICOMTE.
+Hé bien soit ; mais s'il vient quelqu'un pour vous baiser,  
+Daignez adroitement du moins le refuser.  
+Je vous dirai pourtant d'être alors plus civile ;  
+Mais loin de m'obéir, soyez plus difficile ;  
+Et si vous ne pouvez enfin tenir contre eux,  
+Tendez leur seulement l'oreille, ou les cheveux ;  
+L'ardeur des campagnards à baiser sans pareille,  
+Se contente souvent d'avoir touché l'oreille.  
+
+
+## SCÈNE IX. Le Vicomte, Lucrèce, Clarice, Lisette, Colas.
+
+    COLAS.
+Messieurs, de Chante-Pie, et de Cochon-Vilain,  
+Sont là-bas.  
+
+    LE VICOMTE.
+        Quoi, les deux que je craignais enfin,  
+Qui ne parlent jamais que d'amour et de flamme,  
+Qui cajolent sans cesse, et tourmentent les femmes,  
+Qu'on estime partout d'impertinent jaseurs,  
+Et de tout le pays sont les plus grands baiseurs ?  
+Je suis perdu.  
+
+    LUCRÈCE.
+    Le Fou.  
+
+    LISETTE, À PART.
+        Sa peine est sans pareille.  
+
+    LE VICOMTE, À LUCRÈCE.
+Souvenez-vous au moins de leur donner l'oreille ;  
+Ou bien fuyez plutôt. Je vais les arrêter.  
+
+
+## SCÈNE X. Lucrèce, Le Vicomte, Clarice, Lisette, Monsieur de Chante-Pie et de Cochon-Vilain.
+
+    LE VICOMTE, LES ALLANT EMBRASSER TOUS DEUX À LA FOIS.
+Ah, Messieurs, aujourd'hui je veux vous protester,  
+Que pour vous...  
+
+    CHANTE-PIE.
+        Quoi, tous deux nous embrasser ensemble ?  
+
+    COCHON-VILAIN.
+Quoi, Madame nous fuit ?  
+
+    LISETTE.
+    Il en tient.  
+
+    LE VICOMTE, À PART.
+        Ah je tremble.  
+
+    CHANTE-PIE.
+Quand nous sommes venus, nous espérions jouir  
+Du bonheur de la voir.  
+
+    LUCRÈCE.
+        Je ne saurais plus fuir.  
+
+    COCHON-VILAIN.
+Mais laissez-nous aller saluer votre femme.  
+
+    LE VICOMTE, LES SERRANT.
+Je vous aime tous deux, et de toute mon âme.  
+
+    CHANTE-PIE.
+En entrant dans ces lieux, je sais ce que je dois.  
+
+    LE VICOMTE.
+Pour elle, j'aime mieux vous embrasser dix fois.  
+
+    CHANTE-PIE, S'ÉCHAPPANT.
+Monsieur....  
+
+    CLARICE, À PART.
+        Selon mes voeux, la chose enfin se passe.  
+
+    CHANTE-PIE, À LUCRÈCE QUI SE DÉFEND SANS PARLER.
+Pour la première fois, permettez-moi de grâce...  
+
+    COCHON-VILAIN, EMBRASSANT À SON TOUR LE VICOMTE, ET L'ARRÊTANT QUAND IL VEUT VOIR SI L'AUTRE BAISE LA FEMME.
+En vous embrassant seul, je veux vous faire voir....  
+
+    LE VICOMTE.
+Ce que je vois suffit pour me faire savoir....  
+
+    COCHON-VILAIN.
+Tout le monde sait bien que je suis fort sincère.  
+
+    LE VICOMTE.
+Oui.  
+À part.
+
+        Mais je ne vois pas ce qu'on fait là-derrière ;  
+À Cochon-Vilain qui l'embrasse toujours.
+
+C'est assez.  
+
+    COCHON-VILAIN, ALLANT À LUCRÈCE.
+        Je vous laisse, et sais bien que je dois...  
+
+    LE VICOMTE.
+Embrassez-moi plutôt encore une, ou deux fois.  
+Là, bon.  
+Voyant sa femme se défendre d'être baisée des deux.
+
+
+    CHANTE-PIE, À LUCRÈCE.
+        Votre rigueur est pour nous sans pareille.  
+Cochon-Vilain la baise comme elle veut éviter Chante-Pie.
+
+
+    COCHON-VILAIN, LA BAISANT.
+Ah !  
+
+    LISETTE, À PART.
+        Celui-là, ma foi, n'a pas baisé l'oreille.  
+
+    LE VICOMTE.
+Messieurs, l'un après l'autre, au moins allez plus doux.  
+Dois-je fermer les yeux, ou me mettre en courroux ?  
+Mais vous n'avez tous deux salué que ma femme ;  
+Ma soeur en doit avoir quelque dépit dans l'âme.  
+
+    CLARICE.
+Moi ?  
+
+    CHANTE-PIE.
+        Nous n'osions baiser une fille chez vous,  
+Après vous avoir vu presque entrer en courroux,  
+De voir baiser, Madame, avec bienséance ;  
+Car nous craignons tous deux de vous faire une offense,  
+Si la première fois que...  
+Il regarde Lucrèce avec des yeux doux, et lui fais une révérence comme pour l'approcher.
+
+
+    LE VICOMTE.
+        C'est assez, Monsieur,  
+Je vous l'eusse à tous deux pardonné de bon coeur.  
+
+    COCHON-VILAIN, À CLARICE.
+Puisqu'enfin nous pouvons vous saluer sans crainte,  
+Il ne faut vous laisser aucun sujet de plainte.  
+Il va la baiser, et cependant le Vicomte prend la place qu'il avait près de Lucrèce.
+
+
+    CLARICE, À PART.
+Ah qu'il sent le fumier !  
+
+    CHANTE-PIE, ALLANT LA BAISER À SON TOUR.
+Il va la baiser, et cependant Cochon-Vilain prend sa place, la sienne étant prise par le Vicomte.
+
+        Puisqu'il nous est permis....  
+
+    CLARICE, SE LAISSANT BAISER.
+Hé quoi, doit-on baiser toujours tous ses amis ?  
+
+    LISETTE.
+Le beau jeu ! Je plaignais ma vie infortunée ;  
+Mais je ris aujourd'hui, pour toute mon année.  
+
+
+## SCÈNE XI. Le Vicomte, Lucrèce, Clarice, Cochon-Vilain, Chante-Pie, Lisette, Nicodème.
+
+    NICODÈME.
+Monsieur.  
+
+    LE VICOMTE.
+    Que me veux-tu ?  
+
+    NICODÈME.
+        Hais venez, s'il vous plaît.  
+
+    LE VICOMTE.
+Est-ce encore quelqu'un ?  
+
+    NICODÈME.
+    Non.  
+
+    LE VICOMTE.
+        Dis donc ce que c'est.  
+
+    NICODÈME.
+Mais venez.  
+
+    LUCRÈCE, AU VICOMTE.
+        Allez voir ce que ce pourrait être.  
+
+    LE VICOMTE.
+Vous montrant mes talons, je vous plairais peut-être.  
+Mais, parle.  
+
+    NICODÈME.
+        Que faut-il que je parle Monsieur ?  
+
+    LE VICOMTE.
+N'as-tu point retenu ce qu'on t'a dit par coeur ?  
+
+    NICODÈME.
+Dame, on dit qu'ous veniez.  
+
+    LE VICOMTE.
+        Ah ma peine extrême !  
+
+    LISETTE.
+Explique-toi donc mieux, mon pauvre Nicodème.  
+
+    NICODÈME.
+Colin-Poivret, qui fait la Cuisine là-bas,  
+Dit qu'il laissera tout là, si vous ne venez pas.  
+Venez donc lui prêter la main.  
+
+    LE VICOMTE.
+        Hé quoi donc, Traître...  
+
+    CHANTE-PIE, COURT METTRE LE HOLA, ET PREND LA PLACE DU VICOMTE PRÈS DE LUCRÈCE.
+Hé Monsieur.  
+
+    LE VICOMTE.
+        Quoi, parler de la sorte à son maître ?  
+Comme il trouve en se retournant Chante-Pie en sa place, ils se regardent tous deux sans se rien dire.
+
+
+    CHANTE-PIE, REGARDANT LUCRÈCE.
+Je crois qu'on ne voit rien de plus beau dans la Cour.  
+
+    COCHON-VILAIN, LA REGARDANT AUSSI.
+Qu'un si charmant objet peut inspirer d'amour !  
+
+    CHANTE-PIE, AU VICOMTE.
+Que vous-avez, Monsieur, une adorable femme !  
+
+    COCHON-VILAIN.
+Rien ne peut échapper aux attraits de Madame.  
+
+    CHANTE-PIE.
+On sait que sur les coeurs ils sont les tout-puissants.  
+
+    COCHON-VILAIN.
+Qu'elle a les cheveux beaux !  
+
+    CHANTE-PIE.
+        Qu'elle a les yeux perçant !  
+
+    COCHON-VILAIN.
+Le beau front !  
+
+    CHANTE-PIE.
+    Le beau teint !  
+
+    COCHON-PIE.
+    Le beau nez !  
+
+    CHANTE-PIE.
+        Que sa bouche  
+Fait voir, quand elle rit, une douceur qui touche !  
+
+    COCHON-VILAIN.
+On ne peut admirer assez ses belles dents.  
+
+    CHANTE-PIE.
+On a bien du plaisir lorsqu'elle mord les gens.  
+
+    COCHON-VILAIN.
+Les belles lèvres ! Ah !  
+
+    CHANTE-PIE.
+        Dirait-on pas de roses,   [11]
+Du plus bel incarnat, et fraîchement écloses ?  
+
+    COCHON-VILAIN.
+Je ne puis me lasser d'admirer ce beau cou.  
+
+    CLARICE, À LISETTE.
+Ils me poussent à bout.  
+
+    LISETTE, À CLARICE.
+        Cela le rendra fou.  
+
+    CHANTE-PIE.
+On ne saurait trouver une plus belle oreille.  
+
+    COCHON-VILAIN.
+Elle est belle, bien faite, et petite, et vermeille.  
+
+    CHANTE-PIE.
+La belle gorge, ô Ciel !  
+
+    COCHON-VILAIN.
+        Les admirables mains !  
+
+    CHANTE-PIE.
+Sa taille seule peut charmer tous les humains.  
+
+    COCHON-VILAIN.
+Les beaux pieds ! Tête-bleu.  
+
+    CHANTE-PIE.
+        Le reste, que je pense..  
+
+    LISETTE, À PART.
+Il fait bien, là-dessus, de garder le silence.  
+
+    COCHON-VILAIN.
+Chacun doit demeurer d'accord qu'elle a bon air.  
+
+    LE VICOMTE, À PART.
+Jusqu'ici je me suis empêché de parler,  
+De peur d'en dire trop.  
+
+    CHANTE-PIE.
+        Il faut mener Madame,  
+Voir la belle maison du Baron de Vigame.  
+
+    LE VICOMTE.
+Mais...  
+
+    COCHON-VILAIN.
+        Il la faut mener encore voir dix châteaux,  
+Qui ne lui cèdent pas, et qu'on croit aussi beaux.  
+
+    LE VICOMTE.
+Si...  
+
+    CHANTE-PIE.
+        Je la veux mener chez Monsieur de Chant-Oye.  
+
+    LE VICOMTE.
+Quoi...  
+
+    COCHON-VILAIN.
+        Nous irons aussi chez Monsieur de Cour-Joye ?  
+
+    LE VICOMTE.
+Ah !  
+
+    CHANTE-PIE.
+        Messieurs de Lampont, et de Crocan-Villiers,  
+Sur notre seul récit, viendront tous des premiers.  
+
+    LE VICOMTE.
+Ils...  
+
+    COCHON-VILAIN.
+        De tout le pays elle doit être aimée.  
+
+    LE VICOMTE.
+Je ne...  
+
+    CHANTE-PIE.
+        Notre jeunesse en sera bien charmée.  
+
+    LE VICOMTE.
+Croyez...  
+
+    COCHON-VILAIN.
+        Tout le pays fondra bientôt chez vous,  
+Apprenant que Madame a des charmes si doux.  
+Ici ils parlent bas à Lucrèce et Clarice, et Lisette les regarde avec étonnement.
+
+
+    LE VICOMTE.
+Je ne parlerai plus, que chacun ne se taise ;  
+Je leur pourrai parler alors plus à mon aise ;  
+Jusque dans le gosier ils me coupent les mots,  
+Et leur langue maudite, est sans aucun repos.  
+
+    CLARICE.
+Ils ont, sans l'épargner, poussé sa jalousie.  
+
+    COCHON-VILAIN, S'ÉLOIGNANT UN PEU.
+Un mot ou deux, Monsieur. Il faut que je vous dise...  
+Mais je crois que je dois passer de ce côté,  
+Car avec raison je crains d'être écouté.  
+
+    COCHON-VILAIN, À LUCRÈCE.
+Allons dans le Jardin, car ils ont, que je pense.  
+À se parler tous deux, d'affaires d'importance.  
+
+    LUCRÈCE.
+Allons. Mais suis-moi donc, et demeure avec nous.  
+
+    CLARICE, À PART.
+Qui peut faire tarder Monsieur de Bois-le-Roux ?  
+
+
+## SCÈNE XII. Le Vicomte, Chante-Pie, Clarice.
+
+    CHANTE-PIE, À DEMI HAUT.
+Oui, sur le bruit que d'elle a fait la Renommée,  
+Sans l'avoir jamais vue, il l'a d'abord aimée.  
+
+    LE VICOMTE.
+Il adore ma femme !  
+
+    CHANTE-PIE, LE TIRANT COMME POUR LUI PARLER ENCORE.
+    Et de plus....  
+
+    LE VICOMTE.
+        Ah, je crois,  
+Que je la dois toujours tenir auprès de moi.  
+Il la cherche de la main sans tourner la tête.
+
+
+    CHANTE-PIE.
+Vous ferez bien.  
+
+    LE VICOMTE, LA CHERCHANT TOUJOURS.
+        Donnez donc votre main, Madame ;  
+Se retournant.
+
+Mais je ne trouve rien. Où peut être ma femme ?  
+
+    CLARICE.
+Ils sont dans le Jardin.  
+
+    LE VICOMTE.
+        Que je suis malheureux !  
+
+    CLARICE.
+Ne vous emportez pas, Lisette est avec eux.  
+
+    LE VICOMTE.
+On doit peu se fier à telle sentinelle.  
+Pardon, Monsieur, je vais courir vite après elle.  
+
+
+## SCÈNE XIII. Chante-Pie, Clarice.
+
+    CHANTE-PIE.
+Comme tout le pays a su qu'il est jaloux,  
+Nous avions fait dessein d'en bien rire encore nous :  
+Je puis vous avouer, car de l'air qu'il vous traite,  
+Vous n'avez pas sujet d'en être satisfaite.  
+
+    CLARICE.
+Non ; mais pour m'obliger, quittons-nous, car je crois  
+Qu'il pourrait devenir aussi jaloux de moi.  
+
+    CHANTE-PIE.
+Je suis toujours soumis, quand le sexe commande.  
+
+
+## SCÈNE XIV.
+
+    CLARICE, SEULE.
+Mon amant en vient point. Ô Dieu, que j'appréhende !  
+S'il manquait à venir, j'aurais beaucoup d'ennui,  
+Car cette fête-ci ne se fait que pour lui.  
+Mais il vient à propos.  
+
+
+## SCÈNE XV. Clarice, Monsieur de Bois-Le-Roux.
+
+    CLARICE.
+        C'est trop vous faire attendre.  
+
+    BOIS-LE-ROUX.
+Madame, j'ai beaucoup de grâces à vous rendre,  
+Et votre esprit se fait connaître par le tour...  
+
+    CLARICE.
+Que n'entreprend-on point, quand on a de l'amour ?  
+
+    BOIS-LE-ROUX.
+Mon coeur...  
+
+    CLARICE.
+        Ah ne songeons du tout qu'à notre affaire ;  
+Mon frère est si jaloux, si bourru, si sévère.  
+Que je crois ne pouvoir vous parler qu'aujourd'hui.  
+
+    BOIS-LE-ROUX.
+Je me saurai si bien ménager devant lui...  
+
+    CLARICE.
+Le voici.  
+
+
+## SCÈNE XVI. Le Vicomte, Lucrèce, Clarice, Bois-Le-Roux.
+
+    LE VICOMTE.
+        De leurs mains j'ai su tirer ma femme :  
+Mais Dieu, que celui-ci met de trouble en mon âme !   [12]
+C'est un galant blondin, un poupin, un poudré   [13]
+Qui connaissant la Cour, doit être bien madré.  
+Il le salue et se retourne vers sa femme, pour lui faire signe de se souvenir de l'oreille.
+
+
+    BOIS-LE-ROUX.
+Quoi, Monsieur, c'est donc là Madame votre femme ?  
+Il ne répond que de la tête, et se met quasi au devant d'elle, de peur qu'il ne la baise.
+
+Mais quoi, tout de bon ?  
+
+    LE VICOMTE.
+    Hay.  
+
+    BOIS-LE-ROUX.
+        Je suis ravi, Madame,  
+Que Monsieur le Vicomte ait si bien mis son coeur ;  
+Serrant la main au Vicomte.
+
+Il sait bien que je suis toujours son serviteur,  
+Et ne doit point douter que mon coeur ne partage  
+Le plaisir qu'il ressent d'un si grand avantage.  
+
+    LE VICOMTE, À PART.
+L'honnête femme ! On ne peut jamais trop le priser,  
+Voir une belle femme, et ne la point baiser !  
+Je ne m'en puis tenir, il faut que je l'embrasse.  
+Vous me ferez, Monsieur, une sensible grâce,  
+L'embrassant.
+
+De croire que....  
+
+
+## SCÈNE XVII. Le Vicomte, Lucrèce, Clarice, Bois-Le-Roux, Nicodème, Lisette.
+
+    NICODÈME, À BOIS-LE-ROUX.
+        Monsieur on voudrait vous parler.  
+
+    BOIS-LE-ROUX.
+Vous me permettez bien...  
+
+    LE VICOMTE.
+        Vous y pouvez aller,  
+Ou bien faire venir...  
+
+
+## SCÈNE XVIII. Le Vicomte, Lucrèce, Clarice, Lisette.
+
+    LE VICOMTE.
+        Encore qu'il me plaise,  
+Je voudrais bien un peu, te parler à mon aise,  
+Et que pour un quart-d'heure on le pût amuser :  
+Tu pourrais au jardin avec lui causer.  
+
+    CLARICE.
+Moi ?  
+
+    LE VICOMTE.
+        L'affaire sera, si tu veux, bientôt faite :  
+Pour trouver des raison, tu n'es pas maladroite.  
+
+    CLARICE, À PART.
+Tout succède à mes voeux.  
+Haut.
+
+    Mais...  
+
+    LE VICOMTE.
+        Mais oblige-moi,  
+Et tâche à faire, enfin, ce faible effort sur toi.  
+
+    CLARICE.
+Vraiment, il sera grand.  
+Regardant Lucrèce et Lisette d'un regard malicieux et content.
+
+        Cela ne me plaît guère :  
+Mais pour vous obliger, que ne voudrais-je faire ?  
+
+    LE VICOMTE.
+Tu m'oblige toujours, je n'en suis pas surpris.  
+
+    LISETTE.
+C'est là donner aux loups à garder les brebis.  
+
+
+## SCÈNE XIX. Le Vicomte, Lucrèce, Clarice, Lisette, Bois-Le-Roux.
+
+    BOIS-LE-ROUX.
+Monsieur de Bois-Douillet est celui qu'on demande.  
+Comme nos noms n'ont pas de différence grande,  
+Et qu'on sait qu'il devait souper avec nous,  
+Au lieu de Bois-Douillet, on a dit Bois-le-Roux :  
+Mais...  
+
+    CLARICE.
+        À propos de bois, le nôtre est admirable,  
+Il est plus haut que moi...  
+
+    BOIS-LE-ROUX.
+        Cela n'est pas croyable,  
+Le bois ne peut ici croître si promptement.  
+
+    LE VICOMTE, RIANT.
+L'équivoque est gentille, et dite galamment.  
+
+    CLARICE, À BOIS-LE-ROUX, QUI PARAÎT SURPRIS DE LA PROPOSITION.
+Allons-y.  
+
+    LE VICOMTE.
+    Nous suivrons.  
+
+    BOIS-LE-ROUX.
+        Que rien ne vous oblige  
+À vous gêner pour moi.  
+
+    LE VICOMTE.
+        Nous vous suivrons, vous dis-je.  
+
+    BOIS-LE-ROUX.
+Je ne veux point du tout vous causer d'embarras ;  
+Et vous m'obligerez de ne vous presser pas.  
+
+    LISETTE.
+On ne saurait trouver un homme plus sincère.  
+
+
+## SCÈNE XX. Le Vicomte, Lucrèce, Lisette.
+
+    LE VICOMTE, ENTRE TOUT À COUP DANS UN GRAND CHAGRIN, ET DIT APRÈS.
+J'étais presque dupé.  
+
+    LUCRÈCE.
+        Qui vous met en colère ?  
+
+    LE VICOMTE.
+J'allais donner dedans.  
+
+    LUCRÈCE.
+        Mais, Monsieur, qu'avez-vous ?  
+
+    LE VICOMTE.
+J'avais l'esprit bouché.  
+
+    LUCRÈCE.
+        D'où vient donc ce courroux ?  
+
+    LE VICOMTE.
+C'est assez.  
+
+    LUCRÈCE, À LISETTE.
+        De ma soeur, il a connu la flamme.  
+
+    LE VICOMTE.
+Nous verrons.  
+
+    LUCRÈCE.
+        Ils n'ont point mérité tant de blâme.  
+
+    LE VICOMTE.
+Tête-bleu !  
+
+    LUCRÈCE.
+        Vous devez excuser votre soeur.  
+
+    LE VICOMTE.
+Il l'entend.  
+
+    LUCRÈCE.
+        Vous aviez aussi trop de rigueur.  
+
+    LE VICOMTE.
+À dessein, moi présent, il vous a méprisée,  
+Et d'abord en entrant ne vous a point baisée !  
+Cependant il devait vous baiser, que je crois,  
+Venant vous voir chez vous pour la première fois :  
+Mais de ce fin galant, c'est sans doute une adresse,  
+Pour ne pas faire voir devant moi sa tendresse.  
+
+    LUCRÈCE.
+Qu'on me baise, Monsieur, on ne me baise pas,  
+On vous cause toujours un pareil embarras :  
+Mais avec un jaloux on ne sait comment faire ;  
+Et même ce qu'il veut ne le peut satisfaire.  
+
+    LE VICOMTE.
+Je crois n'avoir pas tort de vous parler ainsi ;  
+C'est un amant poudré, doucereux, et transi,  
+Et les femmes, morbleu, dans le siècle où nous sommes,  
+Aiment ces blondins-là, qui... qui ne sont pas hommes.  
+Comme il n'en veut qu'à vous, je crois que de bon coeur,  
+Il enrage à présent de n'avoir que ma soeur.  
+
+    LISETTE.
+C'est justement cela.  
+
+    LE VICOMTE.
+        Je crois bien qu'en ton âme,  
+Quoi qu'il brûle pour toi, tu condamnes sa flamme ;  
+Et comme je connais qu'ils te déplaisent tous,  
+Il te faut éviter de souper avec nous ;  
+Et tu dois, pour cela, pendant la promenade,  
+Revenir tout d'un coup, feignant d'être malade,  
+Et t'aller mettre au lit tout aussitôt.  
+
+    LISETTE.
+        Hélas !  
+S'aller coucher de jour, un propre Lundi gras !  
+
+    LE VICOMTE.
+J'entends que tu viendras lui tenir compagnie.  
+
+    LUCRÈCE.
+Je demeure immobile, et votre jalousie  
+Me paraît aujourd'hui ridicule à tel point...  
+
+    LE VICOMTE.
+Tu prends tout de travers, car je n'en ressens point.  
+Hé bien, Mignonne, enfin n'es-tu pas résolue ?...  
+
+    LUCRÈCE.
+Vous vous moquez de moi.  
+
+    LE VICOMTE.
+        De puissance absolue,  
+Je le veux.  
+
+    LUCRÈCE.
+    Mais...  
+
+    LE VICOMTE.
+        Mais, quoi ? Je suis le maître enfin.  
+
+    LUCRÈCE, À PART.
+Maître des fous fieffés.  
+
+    LE VICOMTE.
+        Vous avez du chagrin ;  
+Quelqu'autre campagnard pourrait encore vous plaire ;  
+Vous ne leur montrez pas un visage sévère,  
+Vous en aimez ici de rougeauds, et de frais,  
+Qui paraissent émus, en voyant vos attraits.  
+
+    LUCRÈCE.
+Il est vrai qu'en mon coeur tant de belles figures  
+Ont fait, tout à la fois, de profondes blessures.   [14]
+Qui pourrait s'en défendre ? Ils sont si ragoûtants,  
+Qu'on ne saurait contre eux résister bien longtemps.  
+Comme leur bonne mine est rare et sans pareille...  
+
+    LE VICOMTE.
+Vous n'avez pas à tous fait baiser votre oreille ;  
+Mais je veux que l'on fasse, enfin, ce que j'ai dit.  
+
+    LUCRÈCE.
+Je vais me retirer, mais sans me mettre au lit,  
+Et me venger, par là, de votre jalousie  
+Qui fournira de quoi faire une comédie.  
+Lisette, allons, suis-moi.  
+
+    LISETTE.
+        Quoi, c'est donc tout de bon ?  
+
+    LE VICOMTE, SEUL.
+Se rira qui voudra de ma précaution.  
+
+
+## SCÈNE XXI. Le Vicomte, Nicodème.
+
+    LE VICOMTE.
+Que veux-tu ?  
+
+    NICODÈME.
+        Je ne sais, pourtant je vous apporte  
+Une lettre, Monsieur, qu'on dit qui vous importe.  
+
+    LE VICOMTE, LIT.
+À MONSIEUR LE VICOMTE DE LA SABLONNIERE.
+Je crois que notre amitié m'oblige à vous avertir que Céphise a dit à ma fille en grande confidence, que l'Amour assemblerait aujourd'hui chez vous bien des gens que vous n'attendiez pas, et que vous seriez dupé d'une manière qui ferait rire toute la province. Vous connaîtrez avant la fin du jour, si elle a dit vrai, par l'assemblée que vous aurez. C'est tout ce qu'a pu savoir celui qui fera profession d'être toujours votre ami.
+DE CORNANDONNE.
+
+    LE VICOMTE, APRÈS AVOIR TÉMOIGNÉ DU DÉPIT.
+Va-t-en dire à celui qui t'a donné ce mot,  
+Que je ferai réponse à son maître au plutôt.  
+
+
+## SCÈNE XXII. Le Vicomte, Lisette.
+
+    LE VICOMTE, SANS LA VOIR.
+Ah dans un tel malheur, que résoudre, et que faire !  
+
+    LISETTE, AU BOUT DU THÉÂTRE.
+Je connais à ses yeux qu'il est bien en colère,  
+Il a son humeur noire, et ses chagrins jaloux,  
+Et tantôt, comme il faut, pestera contre tous.  
+
+    LE VICOMTE.
+Je suis au désespoir, la fureur me transporte.  
+
+    LISETTE.
+Tout tremble devant lui, quand il est de la sorte.  
+
+    LE VICOMTE.
+Je ne sais qui me tient....  
+
+    LISETTE.
+        Voyez-vous le jaloux,  
+Est-il pas bien aimable ? Hé bien, mariez-vous.  
+
+    LE VICOMTE.
+Morbleu !  
+
+    LISETTE.
+        Tous les jaloux s'empêcheraient de l'être.  
+Si dans cette humeur noire ils se pouvaient connaître.  
+
+    LE VICOMTE, FAISANT QUELQUES PAS.
+Ciel !  
+
+    LISETTE.
+        La chanson dit vrai, Que le plaisir est doux  
+De faire un cocu d'un jaloux.  
+Haut.
+
+Ah.  
+Le Vicomte ayant été deçà delà, se retourne brusquement et se trouve contre Lisette, qui s'enfuit de l'autre côté comme toute éperdue.
+
+    J'ai parlé trop haut, je suis morte.  
+
+    LE VICOMTE, REGARDANT DE TEMPS EN TEMPS LISETTE, ET SONGEANT TOUTEFOIS ENCORE À SA FEMME.
+        Traîtresse !  
+J'ai toujours craint cela de ta fausse sagesse.  
+
+    LISETTE, CROYANT QU'IL L'AVAIT ENTENDUE, ET VOULANT S'EXCUSER.
+Ce n'est qu'une chanson...  
+
+    LE VICOMTE.
+        Une Chanson ? Tais-toi,  
+Je sais les sentiments qu'ici l'on a de moi,  
+Carogne.  
+
+    LISETTE, VOYANT LE VICOMTE S'ARRACHER LES CHEVEUX.
+        Mais Monsieur... Arrachez, bon, courage :  
+S'il en pouvait crever, ce serait grand dommage.  
+Qu'il se fait les yeux doux ! Le bel objet à voir !  
+Pour se considérer, que n'a-t-il un miroir ?  
+
+    LE VICOMTE, ENCORE TOUT TRANSPORTÉ.
+Les filles de Paris sont pour moi trop rusées.  
+
+    LISETTE.
+Vous vous blessez.  
+
+    LE VICOMTE, À LISETTE.
+        J'ai su démêler vos fusées ;  
+Avec ma femme, enfin, je sais que tu t'entends ;  
+Tu me le paieras sans attendre longtemps.  
+Dis, qui sont ses galants ?  
+
+    LISETTE.
+        C'est votre jalousie  
+Qui vous a mis cela dedans la fantaisie :  
+Et je crois, par ma foi, qu'il en serait parlé,  
+Si parmi votre honneur le sien n'était mêlé ;  
+Car vous l'y contraignez, puisqu'il faut vous le dire.  
+
+    LE VICOMTE.
+À quoi ? Dis, dis.  
+
+    LISETTE.
+        Jaloux de l'air qu'elle respire,  
+Lorsque vous la tenez serrée entre vos bras,  
+La voyant, la touchant, vous ne l'y croyez pas :  
+Vous paraissez jaloux de la province entière,  
+Et ne pouvez souffrir que le soleil l'éclaire :  
+Depuis neuf mois qu'à peine elle ose voir le jour,  
+A-t-elle seulement vu votre basse-cour ?  
+Lui jetant une clef.
+
+Tenez, je ne veux plus lui servir de geôlière,  
+Vous la pouvez tenir vous-même prisonnière,  
+Ou chercher qui voudra s'en donner le souci ;  
+Car pour moi, dès demain, je veux sortir d'ici.  
+
+
+## SCÈNE XXIII.
+
+    LE VICOMTE, SEUL.
+Tu fais bien. Je me suis imposé le silence,  
+Pour voir jusqu'où pourrait aller ton impudence,  
+Avant qu'il soit demain, tu pourras dénicher.  
+Que ferai-je ? L'amour ne se saurait cacher ;  
+Et bien que les amants sans cesse dissimulent,  
+Leurs regards imprudents découvrent quand ils brûlent :  
+C'est pourquoi je prétends les voir ensemble tous ;  
+Ceux qui s'aiment, d'abord se feront les yeux doux ;  
+Si je les y surprends, ils rougiront peut-être,  
+Et par cette rougeur me feront tout connaître.  
+Alors... Voici de ceux que je puis soupçonner.  
+
+
+## SCÈNE XXIV. Clarice, Vicomte, Chante-Pie, Cochon-Vilain, Bois-Le-Roux.
+
+    CHANTE-PIE.
+Sans Madame, ma foi, c'est trop se promener.  
+
+    LE VICOMTE.
+Je vais vous l'envoyer quérir. Holà, Lisette.  
+
+    LISETTE, RENTRANT SUR LE THÉÂTRE.
+Allez-vous me payer ? Est-ce une affaire faite ?  
+
+    LE VICOMTE.
+Oui, tu dénicheras, n'en doute nullement :  
+Mais fais venir ici ma femme promptement.  
+
+    LISETTE.
+Je ne puis.  
+
+    LE VICOMTE.
+    Tu ne peux ?  
+
+    LISETTE.
+    Non.  
+
+    LE VICOMTE.
+        Non ? Crains ma colère.  
+
+    LISETTE.
+Moi ?  
+
+    LE VICOMTE.
+        Toi. Ne veux-tu point m'obéir, et te taire ?  
+
+    CLARICE.
+Madame est enfermée, et la clef est sur vous.  
+
+    LE VICOMTE.
+À l'entendre, on croirait que je serais jaloux ;  
+Par mégarde, la clef était sur moi restée.  
+
+    CLARICE.
+Sans la croire sur vous, vous l'aviez emportée.  
+
+    LE VICOMTE.
+Vous en étiez fâchez, vous autres, que je crois.  
+
+    BOIS-LE-ROUX.
+Nous ! Pourquoi ?  
+
+    COCHON-VILAIN.
+    Pourquoi donc ?  
+
+    LE VICOMTE.
+        Ah, trêve de pourquoi ;  
+Je suis dupe, il est vrai, mais c'est en apparence.  
+
+    CHANTE-PIE.
+Croyez-vous...  
+
+    LE VICOMTE.
+        Que chacun parle à sa conscience.  
+Vous veniez pour... Mais non, je ne veux dire rien ;  
+Je sais ce que je sais, et je le sais fort bien.  
+
+    COCHON-VILAIN.
+Nous avez-vous priés pour nous faire querelle ?  
+
+    LE VICOMTE.
+Moi, je vous ai priés !  
+
+    CHANTE-PIE.
+    Vous.  
+
+    COCHON-VILAIN.
+    Oui, vous.  
+
+    LE VICOMTE. [15]
+        Bagatelle ;  
+On ne me berce point avec ces contes-là.  
+
+    CLARICE.
+Je tremble... Son chagrin lui fait dire cela,  
+Et l'on sait...  
+
+    LE VICOMTE.
+        Non, morbleu, je n'ai prié personne.  
+
+    CLARICE, À PART.
+Il va tout découvrir.  
+
+    CHANTE-PIE.
+        Ce procédé m'étonne.  
+
+    COCHON-VILAIN.
+De votre part, pourtant, Maître Blaise Clampin,  
+Est venu me prier dès hier au matin.  
+
+    BOIS-LE-ROUX.
+Il m'est aussi venu prier avec instance.  
+
+    CHANTE-PIE.
+Il m'est venu quérir avec diligence.  
+
+    LE VICOMTE.
+Vous rêviez, que je crois, car ce Blaise Clampin,  
+Est allé, par mon ordre, à Paris hier matin,  
+Et ne peut vous avoir conviés. Mais ma femme  
+Vient enfin dissiper le trouble de votre âme ;  
+Vous la faire venir, n'est point être jaloux.  
+
+
+## SCÈNE XXV. Lucrèce, Le Vicomte, Bois-Le-Roux, Cochon-Vilain, Chante-Pie, Clarice, Lisette.
+
+    LE VICOMTE, LES REGARDANT TOUS.
+Hé bien, Messieurs, hay ? Quoi ? Parlez, qu'en dites-vous ?  
+À Lucrèce.
+
+Vous, de votre côté, faites leur bon visage.  
+
+    CLARICE.
+Pour moi, je ne puis rien comprendre à ce langage.  
+
+    LE VICOMTE.
+Hé la-donc ? Vous, Messieurs, faites-lui compliment.  
+
+    COCHON-VILAIN.
+Il est fou, sur mon âme.  
+
+    CHANTE-PIE.
+        Il l'est assurément.  
+
+    COCHON-VILAIN.
+Je ne puis rien comprendre à tout ce badinage.  
+
+    LE VICOMTE.
+Vous me faisiez jouer un fort sot personnage,  
+Et j'allais être dupe enfin ; mais Dieu merci...  
+Mais Monsieur, s'il vous plaît, vous serez mieux ici.  
+Il ôte Bois-le-Roux d'auprès de sa femme, pour le mettre auprès de sa soeur.
+
+Ah quelque sot pourrait, en sa présence même,  
+Laisser ce beau blondin auprès de ce qu'il aime.  
+
+    BOIS-LE-ROUX.
+Que veut dire ceci ?  
+
+    CHANTE-PIE.
+        Qu'est-ce donc ? Qu'avez-vous ?  
+
+    LE VICOMTE.
+Lequel connaît le mieux Céphise de vous tous ?  
+
+    CLARICE, BAS À BOIS-LE-ROUX.
+Hélas ! Elle a parlé.  
+
+    LE VICOMTE, À CLARICE.
+        Vous paraissez surprise,  
+Vous rougissez. Ah, mort, vous savez l'entreprise.  
+
+    CLARICE.
+Moi, je rougis !  
+
+    LE VICOMTE, REGARDANT BOIS-LE-ROUX..
+        Voyez comment elle rougit :  
+Monsieur rougit aussi.  
+
+    BOIS-LE-ROUX.
+    Croyez-vous...  
+
+    LE VICOMTE.
+        Il suffit.  
+Comme on voit rarement une fille muette,  
+Céphise...  
+
+
+## SCÈNE XXVI. Le Vicomte, Lucrèce, Clarice, Bois-Le-Roux, Chante-Pie, Cochon-Vilain, Clampin, Lisette.
+
+    CLAMPIN, AU VICOMTE.
+        Me voici, car votre affaire est faite,  
+Monsieur, et j'ai trouvé sur le chemin celui  
+Que je croyais trouver à Paris aujourd'hui ?  
+Pour vous parler d'affaire il vient ici lui-même.  
+
+    CLARICE.
+Ah tout ceci me met dans une peine extrême.  
+
+    LE VICOMTE, À CLAMPIN.
+Fus-tu chez ces Messieurs hier ?  
+
+    CLARICE.
+        Que j'ai d'effroi !  
+
+    CLAMPIN.
+Quoi faire !  
+
+    LE VICOMTE.
+    Les prier de souper avec moi.  
+
+    CLAMPIN.
+        Moi ?  
+
+    COCHON-VILAIN.
+C'est la vérité.  
+
+    CHANTE-PIE.
+        Vous nous en devez croire.  
+
+    CLARICE.
+Vous n'en tirerez rien, je vois qu'il vient de boire.  
+
+    BOIS-LE-ROUX.
+Il ne s'en souviendra donc plus ?  
+
+    CLARICE.
+        Non, que je crois.  
+
+    COCHON-VILAIN, LE TIRANT.
+Dis-moi, ne vins-tu pas hier me prier chez moi ?  
+
+    CHANTE-PIE, LE TIRANT AUSSI.
+Ne vins-tu pas aussi chez moi ? Réponds donc ?  
+
+    LE VICOMTE.
+        Traître ;  
+Si tu ne leur réponds, réponds donc à ton maître.  
+Fus-tu chez ces Messieurs hier ? Peste du sot.  
+Quoi, je ne puis de toi tirer enfin un mot ?  
+Si tu ne me réponds, je t'étranglerai.  
+Le prenant au collet.
+
+
+    CLAMPIN, À CLARICE.
+        Dame,  
+Dites-moi ce qu'il faut que je dise, Madame.  
+
+    LE VICOMTE.
+Mais ma soeur, et Monsieur, paraissent bien confus.  
+
+    CLARICE.
+Sans consommer le temps en discours superflus,  
+Ne trouvant plus de jour à m'en pouvoir défendre,  
+Je vais tout débrouiller, Messieurs, et vous surprendre.  
+Je confesserai donc, et même devant tous,  
+Que j'aimais en secret Monsieur de Bois-le-Roux,  
+Et que pour lui parler, ne sachant plus que faire,  
+Je vous ai fait mander de la part de mon frère,  
+Afin que mon amant, dont l'entretient m'est doux,  
+Sans qu'on soupçonnât rien, pût passer parmi vous.  
+Céphise, qui m'a fait trouver ce stratagème,  
+N'en a pas pu garder le secret elle-même,  
+Et ce sot...  
+
+    LE VICOMTE.
+    C'est assez.  
+
+    COCHON-VILAIN.
+        Nous avions tort, Monsieur ?  
+
+    CHANTE-PIE.
+Grand tort.  
+
+    LE VICOMTE.
+        Vous en savez beaucoup, ma chère soeur :  
+On ne peut, à les voir, connaître les personnes ;  
+Ma femme avec vous, en apprendrait de bonnes.  
+Ah je veux qu'au plutôt Monsieur de Bois-le-Roux,  
+Hors d'ici vous emmène, et qu'il soit votre époux :  
+Vous serez au contrat, Messieurs, je vous en prie,  
+Et partirez après cette cérémonie.  
+
+
+## SCÈNE DERNIÈRE. Le Vicomte, Lucrèce, Clarice, Cochon-Vilain, Chante-Pie, Bois-Le-Roux, Bois-Douillet, son fils, Clampin, Lisette.
+
+    BOIS-DOUILLET, AVEC UNE SERVIETTE, ET LE VERRE À LA MAIN.
+Allons, Messieurs, allons c'est trop se faire attendre.  
+
+    COCHON-VILAIN.
+Ce qui nous fait rester, vous doit beaucoup surprendre.  
+
+    CHANTE-PIE.
+C'est l'hymen de Clarice avec Bois-le-Roux ;  
+Et de Fête, enfin, nous sommes priés tous.  
+
+    BOIS-DOUILLET.
+Tant mieux, nous danserons. Il faut que je la baise ;  
+Je lis dedans ses yeux qu'elle sera bien aise  
+Quand.... Elle m'entend bien Messieurs, à sa santé :  
+C'est un vin admirable, en avez-vous goûté ?  
+Il est fort pétillant, et sa sève.....  
+À Lucrèce.
+
+        De grâce,  
+Madame, goûtez-en. Vous faites la grimace !  
+Il boit.
+
+À quoi bon entre nous faire tant de façon ?  
+
+    COCHON-VILAIN. [16]
+Bois-Douillet est gaillard.  
+
+    CHANTE-PIE.
+        Et bien vert.  
+
+-------
+
+
+[1] Lundi gras : le lundi de la semaine où le carnaval finit. L
+
+[2] Chère Faire petite chère, maigre chère, avoir un repas insuffisant en quantité ou en qualité. L
+
+[3] Baiser : embrasser.
+
+[4] Vers 126, LA mention du locuteur n'est que manuscrite. On lit "s'il est vous plait" ce qui fait treize pied au vers, nous conservons "s'il vous plait".
+
+[5] Musette : cornemuse, instrument joyeux, par extension poésie champêtre et joyeuse. L
+
+[6] Tirer : venir directement.
+
+[7] Trente et quarante : jeu de hasard qui se joue avec des cartes ; c'est un jeu de banque ; celui qui amène le plus près de trente gagne ; à trente et un il gagne double ; et à quarante il perd double. L
+
+[8] Galant : Empressé auprès des femmes ; qui cherche à leur plaire par ses manières, son langage, sa tenue. L
+
+[9] Percer du vin : faire un trou dans un tonneau et y placer un robinet ou un bouchon de liège.
+
+[10] Martel en tête : quelque chose qui donne du chagrin, du souci, de l'inquiétude, de la jalousie F martel : marteau.
+
+[11] Qui est d'une couleur entre la couleur de cerise et la couleur de rose. L
+
+[12] Blondin : qui a les cheveux blonds, ou une perruque blonde. "Les coquettes aiment fort les blondins, ce sont de vrais séducteurs de femmes." Molière F
+
+[13] Madré : Qui sait plus d'une tour. L
+
+[14] Ragoûtant : Qui ragoûte, qui excite l'appétit. Fig. Cela est peu ragoûtant, se dit d'une chose de laquelle on craint du désagrément. L
+
+[15] Bagatelle : Chose de peu de prix et peu nécessaire. FC
+
+[16] Gaillard : Qui a un caractère de vaillance et de hardiesse. L

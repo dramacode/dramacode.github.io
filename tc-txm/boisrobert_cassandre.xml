@@ -1,8 +1,50 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cassandre</title>
+        <title type="sub"> comtesse de barcelone, tragi-comédie</title>
+        <author academie="" born="1589" born_location="Caen" death="1662" death_location="Paris" key="Boisrobert, François Le Métel de (1589-1662)">
+          <surname>Boisrobert</surname>
+          <forename> François Le Métel de </forename>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>publié par Paul FIEVRE, Janvier 2014</publisher>
+        <editor>Texte établi Mémoire de Maîtrise et présenté par dirigé par Georges Forestier Francisco Guevara Quiel Paris, 2002.</editor>
+      </publicationStmt>
+      <sourceDesc>
+        <genre>Tragi-comédie</genre>
+        <inspiration>moeurs françaises</inspiration>
+        <type>prose</type>
+        <structure>Cinq actes</structure>
+        <periode>1661-1670</periode>
+        <taille>(mesure non pertinente)</taille>
+        <permalien/>
+        <encodage>toto</encodage>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="created" when="1653"/>
+        <date type="issued" when="1654"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="tragedy">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div1 n="1" type="act" xml:id="I">
+        <head>ACTE I</head>
         <div2 n="1" type="scene" xml:id="I01">
+          <head>SCÈNE PREMIÈRE. Le Duc de Cardone, Astrolfe.<listPerson type="configuration" xml:id="conf1"/></head>
           <sp who="DUC" xml:id="I01-1">
             <l n="1" xml:id="l1">Enfin voici le jour tant de fois souhaité,</l>
             <l n="2" xml:id="l2">Notre Princesse arrive à sa majorité,</l>
@@ -76,6 +118,7 @@
           </sp>
         </div2>
         <div2 n="2" type="scene" xml:id="I02">
+          <head>SCÈNE II. Astolfe, Cassandre, Doris.<listPerson type="configuration" xml:id="conf2"/></head>
           <sp who="CASSANDRE" xml:id="I02-1">
             <l n="60" xml:id="l60">Qu'on ne m'en parle plus à moins que me déplaire :</l>
             <l n="61" xml:id="l61">Ah c'est trop me presser sur ce choix odieux !</l>
@@ -108,6 +151,7 @@
           </sp>
         </div2>
         <div2 n="3" type="scene" xml:id="I03">
+          <head>SCÈNE III. Don Remond de Moncade, Don Pedre d'Aragon, Cassandre, Don Lope, Capitaine des gardes.<listPerson type="configuration" xml:id="conf3"/></head>
           <sp who="DONLOPE" xml:id="I03-1">
             <l n="72" xml:id="l72">Don Remon de Moncade et Don Pedre, Madame,</l>
             <l n="73" part="I" xml:id="l73">Viennent vers votre Altesse.</l>
@@ -202,6 +246,7 @@
           </sp>
         </div2>
         <div2 n="4" type="scene" xml:id="I04">
+          <head>SCÈNE IV. Don Pedre, Moncade, Beralde.<listPerson type="configuration" xml:id="conf4"/></head>
           <sp who="DONPEDRE" xml:id="I04-1">
             <l n="133" xml:id="l133">Beralde se souvient de ce qu'il m'a promis.</l>
           </sp>
@@ -302,6 +347,7 @@
           </sp>
         </div2>
         <div2 n="5" type="scene" xml:id="I05">
+          <head>SCÈNE V.<listPerson type="configuration" xml:id="conf5"/></head>
           <sp who="BERALDE" xml:id="I05-1">
             <l n="199" xml:id="l199">J'ai ce me semble été bien léger à promettre,</l>
             <l n="200" xml:id="l200">De rendre à leur maîtresse et l'une et l'autre lettre,</l>
@@ -326,6 +372,7 @@
           </sp>
         </div2>
         <div2 n="6" type="scene" xml:id="I06">
+          <head>SCÈNE VI.<listPerson type="configuration" xml:id="conf6"/></head>
           <sp who="ASTOLFE" xml:id="I06-1">
             <l n="219" xml:id="l219">De qui sont ces poulets sont-ils d'une maîtresse.</l>
           </sp>
@@ -366,6 +413,7 @@
           </sp>
         </div2>
         <div2 n="7" type="scene" xml:id="I07">
+          <head>SCÈNE VII. Cassandre, Moncade, Astolfe.<listPerson type="configuration" xml:id="conf7"/></head>
           <sp who="CASSANDRE" xml:id="I07-1">
             <l n="240" xml:id="l240">Oui, je ferai mon choix, oui, vous aurez un maître.</l>
             <l n="241" part="I" xml:id="l241">Qu'on ne m'en parle plus.</l>
@@ -455,6 +503,7 @@
           </sp>
         </div2>
         <div2 n="8" type="scene" xml:id="I08">
+          <head>SCÈNE VIII. Astolfe, Moncade.<listPerson type="configuration" xml:id="conf8"/></head>
           <sp who="ASTOLFE" xml:id="I08-1">
             <l n="276" xml:id="l276">Et je pourrai m'en taire ?</l>
             <l n="277" xml:id="l277">Je souffrirai sans bruit ce coup de désespoir ?</l>
@@ -507,7 +556,9 @@
         </div2>
       </div1>
       <div1 n="1" type="act" xml:id="II">
+        <head>ACTE II</head>
         <div2 n="1" type="scene" xml:id="II01">
+          <head>SCÈNE PREMIÈRE. Isabelle, Astolfe.<listPerson type="configuration" xml:id="conf10"/></head>
           <sp who="ISABELLE" xml:id="II01-1">
             <l n="307" xml:id="l307">D'où vous naît ce chagrin, mon frère qu'avez-vous ?</l>
           </sp>
@@ -542,6 +593,7 @@
           </sp>
         </div2>
         <div2 n="2" type="scene" xml:id="II02">
+          <head>SCÈNE II. Isabelle, Cassandre.<listPerson type="configuration" xml:id="conf11"/></head>
           <sp who="CASSANDRE" xml:id="II02-1">
             <l n="323" xml:id="l323">Av moment qu'il me voit il s'enfuit brusquement</l>
             <l n="324" xml:id="l324">L'ingrat, d'où lui peut naître un si prompt changement ?</l>
@@ -673,6 +725,7 @@
           </sp>
         </div2>
         <div2 n="3" type="scene" xml:id="II03">
+          <head>SCÈNE III. Astolfe, Cassandre, Isabelle.<listPerson type="configuration" xml:id="conf12"/></head>
           <sp who="ASTOLFE" xml:id="II03-1">
             <l part="F">Que voulez vous Madame</l>
             <l n="400" xml:id="l400">Enfin, prétendez vous arracher de mon âme</l>
@@ -828,6 +881,7 @@
           </sp>
         </div2>
         <div2 n="4" type="scene" xml:id="II04">
+          <head>SCÈNE IV. Le Duc de Cardone, Astolfe.<listPerson type="configuration" xml:id="conf13"/></head>
           <sp who="DUC" xml:id="II04-1">
             <l n="514" xml:id="l514">Qu'avez-vous avancé, mon fils, qu'avez-vous fait ?</l>
             <l n="515" xml:id="l515">La Princesse à nos voeux est-elle inexorable ?</l>
@@ -1013,7 +1067,9 @@
         </div2>
       </div1>
       <div1 n="3" type="act" xml:id="III">
+        <head>ACTE III.</head>
         <div2 n="1" type="scene" xml:id="III01">
+          <head>SCÈNE PREMIÈRE. Don Remon de Moncade, Don Pedred'Aragon.<listPerson type="configuration" xml:id="conf15"/></head>
           <sp who="MONCADE" xml:id="III01-1">
             <l n="643" xml:id="l643">Je vous dis vérité, Don Pedre, il est certain,</l>
             <l n="644" xml:id="l644">Que j'ai vu mon billet dedans la propre main</l>
@@ -1034,6 +1090,7 @@
           </sp>
         </div2>
         <div2 n="2" type="scene" xml:id="III02">
+          <head>SCÈNE II. Don Pedre, Moncade, Béralde.<listPerson type="configuration" xml:id="conf16"/></head>
           <sp who="BERALDE" xml:id="III02-1">
             <l part="F">Que leur dirai-je, ô Dieux.</l>
           </sp>
@@ -1102,6 +1159,7 @@
           </sp>
         </div2>
         <div2 n="3" type="scene" xml:id="III03">
+          <head>SCÈNE III. Don Pedre d'Aragon, Beralde.<listPerson type="configuration" xml:id="conf17"/></head>
           <sp who="DONPEDRE" xml:id="III03-1">
             <l part="F">Hé, bien Beralde a-t-il donné ma lettre,</l>
             <l n="686" xml:id="l686">Qu'en doit-on espérer, que m'en puis-je promettre ?</l>
@@ -1166,6 +1224,7 @@
           </sp>
         </div2>
         <div2 n="4" type="scene" xml:id="III04">
+          <head>SCÈNE IV. Moncade, Don Pedre.<listPerson type="configuration" xml:id="conf18"/></head>
           <sp who="DONPEDRE" xml:id="III04-1">
             <l n="721" xml:id="l721">Hé bien qui de nous deux, Moncade, a l'avantage ?</l>
           </sp>
@@ -1221,6 +1280,7 @@
           </sp>
         </div2>
         <div2 n="5" type="scene" xml:id="III05">
+          <head>SCÈNE V. Moncade, Don Pedre, Isabelle, Beralde.<listPerson type="configuration" xml:id="conf19"/></head>
           <sp who="DONPEDRE" xml:id="III05-1">
             <l n="747" xml:id="l747">Souffrez qu'avec respect je vous donne la main,</l>
             <l n="748" xml:id="l748">Madame, et que mon coeur ait part à ce dessein.</l>
@@ -1341,6 +1401,7 @@
           </sp>
         </div2>
         <div2 n="6" type="scene" xml:id="III06">
+          <head>SCÈNE VI. Moncade, Don Pedre.<listPerson type="configuration" xml:id="conf20"/></head>
           <sp who="DONPEDRE" xml:id="III06-1">
             <l n="805" xml:id="l805">Enfin vous avez su qui de nous deux la touche,</l>
             <l n="806" xml:id="l806">Vous avez tout appris, et de sa propre bouche.</l>
@@ -1376,6 +1437,7 @@
           </sp>
         </div2>
         <div2 n="7" type="scene" xml:id="III07">
+          <head>SCÈNE VII. Cassandre, Moncade.<listPerson type="configuration" xml:id="conf21"/></head>
           <sp who="CASSANDRE" xml:id="III07-1">
             <l n="825" xml:id="l825">Astolfe tarde bien, sa longueur importune,</l>
             <l n="826" xml:id="l826">Retarde un peu ma joie ainsi que sa fortune ;</l>
@@ -1451,6 +1513,7 @@
           </sp>
         </div2>
         <div2 n="8" type="scene" xml:id="III08">
+          <head>SCÈNE VIII. Astolfe, Cassandre.<listPerson type="configuration" xml:id="conf22"/></head>
           <sp who="CASSANDRE" xml:id="III08-1">
             <l n="873" xml:id="l873">Astolfe enfin paraît, quel chagrin l'accompagne,</l>
             <l n="874" xml:id="l874">Et d'où vient qu'il paraît en habit de campagne ?</l>
@@ -1514,6 +1577,7 @@
           </sp>
         </div2>
         <div2 n="9" type="scene" xml:id="III09">
+          <head>SCÈNE IX.<listPerson type="configuration" xml:id="conf23"/></head>
           <sp who="CASSANDRE" xml:id="III09-1">
             <l n="925" xml:id="l925">Est-ce Astolfe ? Est-ce lui que j'ai vu disparaître,</l>
             <l n="926" xml:id="l926">Quoi l'ingrat m'abandonne ? Ah cela ne peut être,</l>
@@ -1579,7 +1643,9 @@
         </div2>
       </div1>
       <div1 n="4" type="act" xml:id="IV">
+        <head>ACTE IV</head>
         <div2 n="1" type="scene" xml:id="IV01">
+          <head>SCÈNE PREMIÈRE. Le Duc, Astolfe.<listPerson type="configuration" xml:id="conf25"/></head>
           <sp who="DUC" xml:id="IV01-1">
             <l n="967" xml:id="l967">Je souffre autant que vous dans cet éloignement,</l>
             <l n="968" xml:id="l968">Mais je ne le puis plus différer d'un moment :</l>
@@ -1593,6 +1659,7 @@
           </sp>
         </div2>
         <div2 n="2" type="scene" xml:id="IV02">
+          <head>SCÈNE II. Le Duc, Don Lope, Astolfe.<listPerson type="configuration" xml:id="conf26"/></head>
           <sp who="DONLOPE" xml:id="IV02-1">
             <l n="973" xml:id="l973">La Princesse, Seigneur, avec impatience,</l>
             <l n="974" part="I" xml:id="l974">Vous attend.</l>
@@ -1615,6 +1682,7 @@
           </sp>
         </div2>
         <div2 n="3" type="scene" xml:id="IV03">
+          <head>SCÈNE III.<listPerson type="configuration" xml:id="conf27"/></head>
           <sp who="MONCADE" xml:id="IV03-1">
             <l n="979" xml:id="l979">Oui, oui, brise tes fers, esclave malheureux,</l>
             <l n="980" xml:id="l980">Porte ailleurs tes respects, et tes soins amoureux :</l>
@@ -1632,6 +1700,7 @@
           </sp>
         </div2>
         <div2 n="4" type="scene" xml:id="IV04">
+          <head>SCÈNE IV. Cassandre, Moncade.<listPerson type="configuration" xml:id="conf28"/></head>
           <sp who="CASSANDRE" xml:id="IV04-1">
             <l part="F">Malheureuse ! Hé n'as tu pas compris,</l>
             <l n="992" xml:id="l992">Que ton humeur facile attira ces mépris,</l>
@@ -1701,6 +1770,7 @@
           </sp>
         </div2>
         <div2 n="5" type="scene" xml:id="IV05">
+          <head>SCÈNE V. Cassandre, Le Duc, Don Lope, Moncade.<listPerson type="configuration" xml:id="conf29"/></head>
           <sp who="DONLOPE" xml:id="IV05-1">
             <l n="1036" part="I" xml:id="l1036">Voici le Duc, Madame.</l>
           </sp>
@@ -1909,6 +1979,7 @@
           </sp>
         </div2>
         <div2 n="6" type="scene" xml:id="IV06">
+          <head>SCÈNE VI. Le Duc, Astolfe, Cassandre, Don Lope.<listPerson type="configuration" xml:id="conf30"/></head>
           <sp who="DONLOPE" xml:id="IV06-1">
             <l part="F">Astolfe s'est trouvé,</l>
             <l n="1189" part="I" xml:id="l1189">Madame,</l>
@@ -2170,7 +2241,9 @@
         </div2>
       </div1>
       <div1 n="5" type="act" xml:id="V">
+        <head>ACTE V</head>
         <div2 n="1" type="scene" xml:id="V01">
+          <head>SCÈNE PREMIÈRE. Cassandre, Beraclde<listPerson type="configuration" xml:id="conf32"/></head>
           <sp who="CASSANDRE" xml:id="V01-1">
             <l n="1313" xml:id="l1313">Vous m'étonnez, Beralde, Astolfe ose m'écrire ?</l>
           </sp>
@@ -2250,6 +2323,7 @@
           </sp>
         </div2>
         <div2 n="2" type="scene" xml:id="V02">
+          <head>SCÈNE II. Cassandre, Isabelle.<listPerson type="configuration" xml:id="conf33"/></head>
           <sp who="ISABELLE" xml:id="V02-1">
             <l n="1379" xml:id="l1379">Je ne puis sans pleurer la voir ainsi troublée,</l>
             <l n="1380" xml:id="l1380">Je souffre les douleurs dont elle est accablée,</l>
@@ -2301,6 +2375,7 @@
           </sp>
         </div2>
         <div2 n="3" type="scene" xml:id="V03">
+          <head>SCÈNE III. Le Duc de Cardone, Cassandre, Isabelle.<listPerson type="configuration" xml:id="conf34"/></head>
           <sp who="CASSANDRE" xml:id="V03-1">
             <l n="1409" xml:id="l1409">De ce grand coup de foudre elle a l'esprit frappé.</l>
           </sp>
@@ -2456,6 +2531,7 @@
           </sp>
         </div2>
         <div2 n="4" type="scene" xml:id="V04">
+          <head>SÈNE IV. Cassandre, Isabelle.<listPerson type="configuration" xml:id="conf35"/></head>
           <sp who="CASSANDRE" xml:id="V04-1">
             <l part="F">Dans cette obéissance,</l>
             <l n="1512" xml:id="l1512">Vous allez voir finir mon règne, et ma puissance :</l>
@@ -2514,6 +2590,7 @@
           </sp>
         </div2>
         <div2 n="5" type="scene" xml:id="V05">
+          <head>SCÈNE V. Cassandre, Isabelle, Beralde.<listPerson type="configuration" xml:id="conf36"/></head>
           <sp who="BERALDE" xml:id="V05-1">
             <l n="1557" xml:id="l1557">Je viens vous avertir qu'Astolfe est de retour,</l>
             <l n="1558" xml:id="l1558">Que Don Bernard est libre, et le ramène en cour</l>
@@ -2547,6 +2624,7 @@
           </sp>
         </div2>
         <div2 n="6" type="scene" xml:id="V06">
+          <head>SCÈNE VI. Don Bernard, Astolfe.<listPerson type="configuration" xml:id="conf37"/></head>
           <sp who="ASTOLFE" xml:id="V06-1">
             <l n="1569" xml:id="l1569">Pourquoi me ramener malgré moi dans ces lieux ?</l>
           </sp>
@@ -2559,6 +2637,7 @@
           </sp>
         </div2>
         <div2 n="7" type="scene" xml:id="V07">
+          <head>SCÈNE VII. Le Duc, Astolphe, Don Bernard, Beralde. <listPerson type="configuration" xml:id="conf38"/></head>
           <sp who="DUC" xml:id="V07-1">
             <l n="1575" part="I" xml:id="l1575">Quoi mon fils de retour.</l>
           </sp>
@@ -2593,6 +2672,7 @@
           </sp>
         </div2>
         <div2 n="8" type="scene" xml:id="V08">
+          <head>SCÈNE VIII. Cassandre tenant Isabelle par la main, Astolfe, Le Duc, Isabelle, Beralde, Don Bernard.<listPerson type="configuration" xml:id="conf39"/></head>
           <sp who="ASTOLFE" xml:id="V08-1">
             <l n="1589" xml:id="l1589">Voici Cassandre, ô Dieux ! Le puis-je encore revoir,</l>
             <l n="1590" xml:id="l1590">Cet objet de ma rage et de mon désespoir,</l>
@@ -2756,6 +2836,7 @@
           </sp>
         </div2>
         <div2 n="9" type="scene" xml:id="V09">
+          <head>SCÈNE DERNIÈRE. Moncade, Cassandre, Isabelle, Astolfe, Le Duc.<listPerson type="configuration" xml:id="conf40"/></head>
           <sp who="MONCADE" xml:id="V09-1">
             <l part="F">On n'attend plus que vous,</l>
             <l n="1699" part="I" xml:id="l1699">Madame.</l>

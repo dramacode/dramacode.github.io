@@ -1,7 +1,47 @@
 <?xml-stylesheet type="text/xsl" href="../teipub/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Vassal généreux. Tragi-comédie</title>
+        <author key="Scudéry, Georges de (1601-1667)">Georges de Scudéry</author>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2007)</edition>
+        <respStmt>
+          <name>Georges Forestier</name>
+          <resp>CELLF 16e-18e/Université Paris-Sorbonne</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <idno>?</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1636"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="tragedy">Poème tragi-comique</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LE VASSAL <lb/>GENEREUX,<lb/>POEME<lb/>TRAGI-COMIQUE.</head>
       <div>
+        <head>À MADEMOISELLE<lb/>DE<lb/>RAMBOUILLET .</head>
         <p>MADEMOISELLE,</p>
         <p>Depuis qu’un homme qui meritoit beaucoup, puisqu’il meritoit vostre estime; je veux dire mon cher et parfait Amy, feu Monsieur de Chandeuille (de qui je regrette sensiblement la perte, et cheris la memoire uniquement) m’eust donné l’honneur d’estre connu de vostre Maison, je fis vœu de ne mettre jamais rien au jour, qui n’en fust premier jugé digne dans l’Hostel de Rambouillet : de tenir pour maximes indubitables toutes vos opinions, et pour arrests souverains tous les sentimens de ces excellentes personnes, qui firent un miracle en vous donnant l’estre. Je pense m’estre acquité jusqu’icy fort religieusement de mon vœu. Et je m’asseure, MADEMOISELLE, que cette divine Angelique, qui vous aime et que vous aimez avec tant raison, ne me refusera pas la faveur de vous tesmoigner qu’elle m’a veu dans le dessein d’en user tousjours ainsi. Et certes à vray dire, il est bien doux d’avoir des juges aussi pleins de bonté que de connaissance, et de qui la censure et l’approbation se trouvent également utiles et glorieuses. Mon VASSAL GENEREUX, à qui vous avez fait l’honneur d’accorder la derniere apres avoir eu l’applaudissement du Theatre, va tascher d’obtenir sous vostre Nom celle des ruelles et des cabinets : ce seroit là qu’il entreprendroit vos loüanges, et qu’il diroit qu’on voit en vous;</p>
         <l>O merveille des yeux, aimable autant qu’aimée,</l>
@@ -13,19 +53,25 @@
         <p rend="right">DE SCUDERY.</p>
       </div>
       <div>
+        <head>AU<lb/>LECTEUR.</head>
         <p>Bien que mes ouvrages soient assez intelligibles d’eux-mesmes, je t’advouë que je devrois donner à la Coustume, ou plustost à ton impatience, les Argumens de toutes mes pieces : mais pour te les donner il les faudroit faire; et c’est à quoy je ne me puis resoudre. Excuse ma paresse, je t’en supplie; et te souvienne en ma faveur, que les Italiens appellent ce vice, celui des honnestes gens.</p>
       </div>
       <div>
+        <head>EXTRAIT DU PRIVILEGE DU ROY</head>
         <p>Nostre bien-aimé AUGUSTIN COURBE, Marchand Libraire en nostre bonne ville de Paris, nous a fait remonstrer qu’il a recouvré deux Tragi-Comedies nouvelles, composées par le Sieur SCUDERY, intitulées ; l’une, <hi rend="i">Le Vassal genereux</hi> ; et l’autre, <hi rend="i">Le Prince Déguisé</hi>, lesquelles il desireroit faire imprimer, s’il avoit sur ce nos Lettres necessaires ; lesquelles il nous a tres-humblement supplié de luy accorder. A CES CAUSES, Nous avons permis et permettons par ces présentes à l’exposant, d’imprimer et faire imprimer, vendre et debiter en tous les lieux de nostre obeyssance, lesdites deux Tragi-Comedies, conjoitement ou separément ; en telles marges, et tels caracteres, et autant de fois que bon luy semblera, durant l’espace de neufs ans entiers et accomplis, à compter du jour que chacune sera achevée d’imprimer pour la premiere fois. Faisans tres-expresses deffenses à toutes personnes, de quelque qualité et condition qu’elles soient, d’imprimer, ny faire imprimer, vendre ou distribuer lesdites Tragi-Comedies en aucun lieu de ce Royaume durant ledit temps, sans le consentement de l’exposant ; sous pretexte d’augmentation, correction, ou autrement, en quelque sorte et maniere que ce soit ; ny mesme d’en extraire aucune chose, ou d’en contrefaire le titre. Mandons au premier Huissier ou Sergent sur ce requis, de faire pour l’execution du contenu cy-dessus, tous exploicts necessaires, sans demander autre permission. CAR TEL EST nostre plaisir. Donné à paris le onziesme jour d’Aoust, l’an de grace mil six cens trente cinq. Et de nostre regne le vingt-sixiesme.</p>
         <p rend="b">Par le Roy en son Conseil. </p>
         <p rend="right"><hi rend="b">CONRART</hi>. </p>
         <p rend="center">Achevé d’imprimé ce premier Septembre 1635.</p>
         <p rend="center">Les Exemplaires ont esté fournis, ainsi qu’il est porté<lb/>par le Privilege.</p>
       </div>
-      <div type="set" xml:id="acteurs"/>
+      <div type="set" xml:id="acteurs">
+        <head>ACTEURS</head>
+      </div>
       <div type="act" xml:id="I">
         <pb n="1" xml:id="p1"/>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp who="theandre" xml:id="I01-1">
             <p rend="center">STANCES.</p>
             <lg>
@@ -243,6 +289,7 @@
         </div>
         <div type="scene" xml:id="I02">
           <pb n="11" xml:id="p11"/>
+          <head>SCENE SECONDE.</head>
           <sp who="lucidan" xml:id="I02-1">
             <l n="149" xml:id="l149">La fortune me rit, le sort m’est favorable;</l>
             <l n="150" xml:id="l150">Je suis autant heureux, que j’estois miserable;</l>
@@ -405,6 +452,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <pb n="19" xml:id="p19"/>
+          <head>SCENE TROISIESME.</head>
           <sp who="theandre" xml:id="I03-1">
             <l n="271" xml:id="l271">Pensers, craintes, soubçons, mes plus fiers ennemis,</l>
             <l n="272" xml:id="l272">Qui me faites doubter de ce qu’on m’a promis,</l>
@@ -592,7 +640,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="28" xml:id="p28"/>
+        <head>ACTE SECOND.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp who="glacitide" xml:id="II01-1">
             <l n="381" xml:id="l381">Vous n’avez pas semé sur l’infertile arene;</l>
             <l n="382" xml:id="l382">Vostre bras genereux n’a point perdu sa peine;</l>
@@ -669,6 +719,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="32" xml:id="p32"/>
+          <head>SCENE SECONDE.</head>
           <sp who="lindorante" xml:id="II02-1">
             <l n="431" xml:id="l431">Le respect vous oblige, et la raison aussi,</l>
             <l n="432" xml:id="l432">D’esteindre, ou de couvrir ce feu qui brusle ainsi.</l>
@@ -797,6 +848,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE TROISIESME.</head>
           <sp who="glacitide" xml:id="II03-1">
             <l n="531" xml:id="l531">Taschez de luy tirer cette espine du cœur,</l>
             <l n="532" xml:id="l532">Mais ne le traictez pas avec trop de rigueur,</l>
@@ -928,6 +980,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="44" xml:id="p44"/>
+          <head>SCENE QUATRIEME.</head>
           <sp who="lucidan" xml:id="II04-1">
             <l n="645" part="I" xml:id="l645">Ha traistre il faut mourir,</l>
           </sp>
@@ -1005,7 +1058,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="48" xml:id="p48"/>
+        <head>ACTE TROISIESME.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp who="lucidan" xml:id="III01-1">
             <l n="681" xml:id="l681">Je regne Lindorante, et tousjours dans la flame,</l>
             <l n="682" xml:id="l682">Mon dueil n’est qu’en l’habit, j’ay l’allegresse en l’ame:</l>
@@ -1100,6 +1155,7 @@
         </div>
         <div type="scene" xml:id="III02">
           <pb n="53" xml:id="p53"/>
+          <head>SCENE SECONDE.</head>
           <sp who="glacitide" xml:id="III02-1">
             <l n="757" xml:id="l757">Je ne puis m’esloigner, quoy que je le desire;</l>
             <l n="758" xml:id="l758">Quelque chose en arriere incessament me tire;</l>
@@ -1150,6 +1206,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE TROISIESME.</head>
           <sp who="philidaspe" xml:id="III03-1">
             <l n="797" xml:id="l797">L’ame dans le peril se doit monstrer discrette;</l>
             <l n="798" xml:id="l798">Je trouve qu’il est temps de sonner la retraicte;</l>
@@ -1177,6 +1234,7 @@
         </div>
         <div type="scene" xml:id="III04">
           <pb n="57" xml:id="p57"/>
+          <head>SCENE QUATRIESME.</head>
           <sp who="rosimar" xml:id="III04-1">
             <l n="813" xml:id="l813">Comment? peuple Gaulois, la valeur indomptée,</l>
             <l n="814" xml:id="l814">De vos braves Ayeuls, est-elle surmontée?</l>
@@ -1214,6 +1272,7 @@
         </div>
         <div type="scene" xml:id="III05">
           <pb n="59" xml:id="p59"/>
+          <head>SCENE CINQUIESME.</head>
           <sp who="rosilee" xml:id="III05-1">
             <l n="841" xml:id="l841">Me loger chez Theandre, et mesme en son absence!</l>
             <l n="842" xml:id="l842">Ce procedé nouveau chocque la bien-seance;</l>
@@ -1244,6 +1303,7 @@
         </div>
         <div type="scene" xml:id="III06">
           <pb n="61" xml:id="p61"/>
+          <head>SCENE SIXIESME.</head>
           <sp who="alcaste" xml:id="III06-1">
             <l n="862" xml:id="l862">Madame sauvez-vous, de crainte d’estre prise;</l>
             <l n="863" xml:id="l863">Le logis de mon Maistre attaqué par le Roy,</l>
@@ -1267,6 +1327,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE SEPTIESME.</head>
           <sp who="lucidan" xml:id="III07-1">
             <l n="877" xml:id="l877">Cesse facheux Amour, cesse de me poursuivre,</l>
             <l n="878" xml:id="l878">Donne-moy le moyen de mourir ou de vivre;</l>
@@ -1294,6 +1355,7 @@
         </div>
         <div type="scene" xml:id="III08">
           <pb n="64" xml:id="p64"/>
+          <head>SCENE HUICTIEME.</head>
           <sp who="palinonde" xml:id="III08-1">
             <l n="899" xml:id="l899">Les Princes, le Senat, et le peuple Gaulois,</l>
             <l n="900" xml:id="l900">Ne pouvant plus souffrir le desordre des Loix,</l>
@@ -1353,6 +1415,7 @@
         </div>
         <div type="scene" xml:id="III09">
           <pb n="67" xml:id="p67"/>
+          <head>SCENE NEUFIESME.</head>
           <sp who="philidaspe" xml:id="III09-1">
             <l n="951" part="I" xml:id="l951">Sire consolez vous;</l>
           </sp>
@@ -1368,7 +1431,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="68" xml:id="p68"/>
+        <head>ACTE QUATRIESME.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp who="theandre" xml:id="IV01-1">
             <l n="957" xml:id="l957">Fidele Perintor, que j’ay l’esprit en peine;</l>
             <l n="958" xml:id="l958">Je songe incessament au discours de la Reine;</l>
@@ -1455,6 +1520,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE SECONDE.</head>
           <sp who="lucidan" xml:id="IV02-1">
             <p rend="center">STANCES.</p>
             <l n="1031" xml:id="l1031">Vaines grandeurs, esclat trompeur;</l>
@@ -1554,6 +1620,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE TROISIESME.</head>
           <sp who="rosilee" xml:id="IV03-1">
             <l n="1111" xml:id="l1111">Ta langue veut trahir le secret de mon ame:</l>
           </sp>
@@ -1621,6 +1688,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE QUATRIESME.</head>
           <sp who="theandre" xml:id="IV04-1">
             <l n="1153" xml:id="l1153">Va, dis luy de ma part qu’il soit le bien venu:</l>
             <l n="1154" xml:id="l1154">Voyons ce fanfaron, Chevalier inconnu;</l>
@@ -1644,6 +1712,7 @@
         </div>
         <div type="scene" xml:id="IV05">
           <pb n="101" xml:id="p101"/>
+          <head>SCENE CINQUIESME.</head>
           <sp who="lucidan" xml:id="IV05-1">
             <l n="1164" xml:id="l1164">O Ciel! quatre Guerriers travaillent à leur perte;</l>
             <l n="1165" xml:id="l1165">Mais parmy tant de maux que nous avons commis,</l>
@@ -1733,7 +1802,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="105" xml:id="p105"/>
+        <head>ACTE CINQUIESME.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp who="theandre" xml:id="V01-1">
             <l n="1231" xml:id="l1231">Toy dont la prudence eternelle</l>
             <l n="1232" xml:id="l1232">Ne peut jamais errer,</l>
@@ -2000,6 +2071,7 @@
         </div>
         <div type="scene" xml:id="V02">
           <pb n="117" xml:id="p117"/>
+          <head>SCENE SECONDE.</head>
           <sp who="glacitide" xml:id="V02-1">
             <l n="1442" xml:id="l1442">Qu’icy vostre prudence exerce son usage;</l>
             <l n="1443" xml:id="l1443">Et que le souvenir d’un pere genereux,</l>

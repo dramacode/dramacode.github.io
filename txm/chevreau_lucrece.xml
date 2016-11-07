@@ -1,7 +1,59 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Lucresse romaine. Tragédie</title>
+        <author key="Chevreau, Urbain (1613-1701)">Urbain Chevreau</author>
+        <principal>Georges Forestier</principal>
+        <editor>Coralie Deher</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Coralie Deher dans le cadre d'un mémoire de
+      master 1 sous la direction de Georges Forestier (2010-2011)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/chevreau_lucrece/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/chevreau_lucrece.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/chevreau_lucrece.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/chevreau_lucrece.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/chevreau_lucrece.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1637"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>
+        <hi rend="i">LA LUCRESSE ROMAINE. TRAGEDIE.</hi>
+      </head>
       <div type="dedication" xml:id="epistre">
+        <head>EPISTRE.<lb/>A MADAME LA MARQUISE De COASLIN.</head>
         <p>MADAME,</p>
         <p>Cette Lucresse qui fut autrefois l’<ref target="#objet2">objet*</ref> de l’amour d’un Prince, craint encore d’estre celuy de votre mespris, quand elle considere la severité de votre <ref target="#vertu3">vertu*</ref>. Elle n’est pas de celles qui ne veulent point de jour s’il n’est faux, ny de miroir s’il ne <ref target="#flatter">flatte*</ref> ; quoy qu’elle soit plus malheureuse que coupable, elle a creu que comme pour avoir aimé un portrait, on n’est pas <ref target="#obliger3">obligé*</ref> d’aymer la toile quand il n’y a rien dessus ; on ne devoit  pas aussi cherir la vie quand l’<ref target="#honneur1">honneur*</ref> en estoit osté, qui est la seule chose pour laquelle nous avons droit de la souhaiter. Toutefois, MADAME, considerez s’il vous plaist, que toutes les personnes qui perdent les yeux ne meritent pas qu’on leur arrache, que toutes celles qui haissent la vie n’en sont pas indignes, et que cette Dame Romaine, quoy que violee, passe encore dans notre siecle pour un exemple de pudeur. Mais comme la malice et la médisance ne treuvent point de vide dans la Nature, et que leur Empire n’a point d’autres bornes que celles du monde, j’aprehende qu’apres avoir esté si mal traittee d’un Prince, elle le soit encore davantage du reste des hommes. Je sçay bien que voulant peindre Lucresse, j’ay fait un monstre de ce dont la Nature avaoit fait une merveille ; et que mes vers seront peut-être aussi dignes de compassion que sa mort. Toute ces considerations ne me divertiront pas pourtant, MADAME, de vous l’offrir, et de vous prier de la recevoir. C’est de vous qu’elle attend son plus grand support ; et si elle merite vostre estime je suis asseuré que son prix n’en eut jamais ; puis que vous discernez si nettement les bonnes choses d’avec les mauvaises, que ceux qui considerent ce qui sort de vous avec <ref target="#ennui1">enuie*</ref>, ne peuvent pas mesme s’empescher de regarder ce qui est en vous avec admiration. Il est plus seant de publier hautement cette verité, que de faire un mensonge, et vostre raison ne se treuvera pas offencée d’une louange qu’on ne luy peut dérober avec injustice, et qu’elle doit souffrir par necessité. Je n’entreprens pas icy, MADAME, de traitter de tout ce qui vous rend recommendable : L’antiquité de vostre race, les genereuses actions de vos ancestres, les eminentes dignitez de vos parens, et les services notables qu’ils rendent aujourd’huy à l’Estat, avec vos merites, et vos <ref target="#vertu1">vertus*</ref>, sont plustot le sujet d’une histoire que d’une lettre. Il me suffit seulement de vous considerer comme un chef-d’œuvre que la Nature n’a pas fait sans éfort, et apres lequel, tous ses ouvrages n’ont rien qui nous puissent surprendre et nous émouvoir. C’est un sentiment commun, je ne repete que ce que disent les plus sensez ; et comme un Echo j’emprunte icy la voix des autres pour me faire entendre. Cette opinion est juste et raisonnable, et la verité les fait aussi bien parler, que moy, quand je proteste que je suis,</p>
         <p rend="center">MADAME,</p>
@@ -10,19 +62,26 @@
         </p>
       </div>
       <div type="set" xml:id="aux-honnestes-gents">
+        <head>AUX HONNESTES GENTS.</head>
         <p>Nous sommes dans un siecle où les bonnes pensees semblent naistre aussi rarement que les choses prodigieuses, et dans lequel les bons livres ne se content que par le nombre des miracles. Les esprits sont aujourd’huy si penetrans, qu’on diroit qu’ils sont tous d’une méme trempe, en ce que le moindre ne treuve rien au dessus de sa portee. Tous les hommes, sans en excepter méme ceux qui n’en ont que l’apparence, pour avoir leu qu’ils ont été faits à l’Image de Dieu ; s’imagineroient choquer la Divine Providence, s’ils croioient être defectueus dans la moindre de leur partie. Le pis en cecy est, qu’on en voit qui veulent être seuls dans cette comparaison, et qui se persuadent d’avoir en éfet reçeu du Ciel, ce que Pandore en eut autrefois au dire des Poètes. Mais je treuve encore plus étrange que ceux qui connessent toutes les <ref target="#vertu1">vertus*</ref>, et qui les croient pratiquer, oublient la modestie que je tiens une des pricipales, et qu’ils ayent assez d’insolence pour vouloir assujettir les autres à crêre qu’ils sont honnestes gens pour ce qu’ils le disent : Comme si leurs jugemens êtoient aussi infaillibles que les paroles de celuy dont ils veulent être le veritable portrait. On en treuve qui ne font pas consience de publier que les personnes qui doutent de leur esprit et de leur merite, ne sont pas moins heretiques que celles qui auroient quelque scrupule des articles de foy, et des misteres de la Religion. Ce sont ces êcrivains qui cherchent leur gloire dans le mêpris qu’ils font des autres, et qui s’estiment aussi necessêres dans les boutiques des Librêres pour corriger les defauts d’un livre, que ces grands censeurs pouvoient être dans les anciennes Republiques pour corriger le defaut des mœurs. Ceux-cy treuvant ma LUCRESSE y remarqueront peut-étre autant de fautes que de mots et diront que je fais presque autant de chûttes que de pas : Quelques uns moins jaloux, et plus veritables, treuveront quelque chose de rude, parmi quelque mouvement qui les pourra chatoüiller : Mais qu’ils sçachent que les êpines d’ordinêre sont parmy les roses, et s’ils s’étonnent de voir une faute plus insuportable où je ne devois pas tomber, qu’ils se souviennent qu’on rencontre quelquefois des viperes sous de belles fleurs. En un mot comme je reconnois mon esprit foible, je croy être aussi sujet à mal êcrire, qu’à mal faire, pour ce que je suis homme. Je n’ay pas eu les Siences infuses comme nostre premier Père, pour reconêtre icy ce que je devois suivre, et ce que je pouvois éviter. Je crêrois perdre mon esprit dans la recherche de l’éloquence et de la Poesie,  aussi bien que les Alchimistes perdent le leur dans la recherche de la pierre Philosophale. Je me console au moins, en ce que ceux qui n’écrivent pas bien, n’ont pas le châtiment de ceux qui font mal. Si cela étoit, la passion que j’ay a me fêre conétre  par ce moien n’est point si forte que je ne la desavoüasse si elle devoit attirer ma honte et ma perte. Enfin, Lecteur, si ce Poesme pour lequel je n’ay perdu que fort peu de temps, ne peut meriter ton approbation, je t’entretiendray un jour de matieres plus serieuses et peut-estre plus necesseres, et s’il a dequoy te plere, je me treuveray sans doute recompensé de ma peine, puis que je n’eus jamais d’autre but  que mon contentement et le tien.</p>
       </div>
       <div type="set" xml:id="privilege">
+        <head>Privilege du Roy.</head>
         <p>Louis par la grace de Dieu Roy de France et de Navarre, à nos amez et feaux les gens tenans nos Cours de Parlement, Baillifs, Seneschaux, Prevosts, Juges, ou leurs Lieutenans, et à chacun d’eux en droict soy, Salut. Nostre cher et bien-amé <hi rend="i">Toussainct Quinet</hi>, marchand Libraire, nous a fait remonstrer, qu’il desireroit imprimer et mettre en lumière une Tragedie, intitulée, <hi rend="i">La Lucresse Romaine</hi> mais craignant que l’Impression ne luy soit dommageable si d’autres que luy s’ingeroient de la faire imprimer, il nous a requis nos Lettres sur ce necessaires. À ces causes, nous avons permis, et octroyé, permettons et octroyons audit <hi rend="i">Quinet</hi> d’imprimer ou faire imprimer ladite Tragedie, par tels Imprimeurs que bon luy semblera, icelle vendre et exposer durant le temps de sept années pendant lequel temps nous avons fait et faisons tres-expresses inhibitions et deffenses à toutes autres Libraires et Imprimeurs de la faire Imprimer, vendre, ny debiter, sur peine de perte des exemplaires, et de trois mil livres d’amende, applicable un tiers à nous, et un tiers à l’Hostel-Dieu de Paris, et l’autre tiers à l’exposant, despens, dommages et interests: Et afin qu’ils n’en pretendent cause d’ignorance, nous voulons que mettant enfin des exemplaires autant des presentes,  elles soient tenuës pour certifiées. A la charge toutesfois de mettre deux exemplaires de ladite Tragedie dans nostre Biblioteque des Cordeliers à Paris, et un exemplaire d’icelle és mains de notre amé et feal  Chevalier Chancelier Garde des Seaux de France, le sieur Séguier Dautry. Car tel est nostre plaisir. Donné à Paris le quatorziesme jour de Juillet, l’an de grace, mil six cens trente-sept. Et de nostre regne le vingt-septiesme. Par le Roy en son Conseil, DEMON CEAUX, et seellé du grand seau de cire jaune.</p>
         <p rend="center">Achevé d’imprimer le 30. Juillet 1637.</p>
       </div>
-      <div type="set" xml:id="acteurs"/>
+      <div type="set" xml:id="acteurs">
+        <head>LES ACTEURS.</head>
+      </div>
       <div xml:id="argument1">
+        <head>ARGUMENT du premier Acte.</head>
         <p>Tarquin estant au siege d’Ardee invite les Romains à <ref target="#seconder">seconder*</ref> ses mouvements pour la prise de ceste ville, qu’il juge necessaire pour la seureté de celle de Rome : et apres les avoir instruits du moyen de se gouverner parfaitement dans l’obeissance qu’il en veut tirer : il envoye Sexte Tarquin son fils à Colatie, pour avertir Tullie, la Reine, du bon succez de ses armes. Sexte consent à regret, toutefois se ressouvenant que c’êtoit une occasion pour voir Lucresse qu’il aymoit infiniment, il se propose mille plaisirs, et dés l’heure rend Maxime <ref target="#confident">confident</ref> de cette amour malgré tous les sentimens que l’<ref target="#honneur1">honneur*</ref> et le devoir luy pouvoient inspirer. Dans ce siege Colatin ayant appris des nouvelles de Lucresse par Misene leur serviteur, renvoye ce mesme Messager pour asseurer Lucresse qu’ils emportoient sur les ennemis tout autant qu’ils en pouvoient souhaiter, et beaucoup plus qu’ils n’en avoient esperé au commencement.</p>
       </div>
       <div xml:id="acte1" type="act">
+        <head>ACTE PREMIER.</head>
         <p rend="center">LA <lb/>LUCRESSE <lb/>ROMAINE. <lb/>TRAGEDIE.<pb n="A, 1"/></p>
         <div type="scene" xml:id="acte101">
+          <head>Scene premiere.</head>
           <sp xml:id="acte101-1" who="tarquin">
             <l n="1" xml:id="l1">Et bien, confessez donc qu’aujourd’huy ma <ref target="#valeur">valeur*</ref></l>
             <l n="2" xml:id="l2">Porte  chez ces mutins ma <ref target="#gloire1">gloire*</ref> et leur mal-heur ;</l>
@@ -170,6 +229,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte102">
+          <head>SCENE DEUXIESME.</head>
           <sp xml:id="acte102-1" who="sexte">
             <l n="131" xml:id="l131">Quoy, Maxime, le Roy seroit-il en colere ?<pb n="8"/></l>
             <l n="132" xml:id="l132">Je me rendois bien-tost dans l’estat de luy plere,</l>
@@ -334,6 +394,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte103">
+          <head>SCENE TROISIESME.</head>
           <sp xml:id="acte103-1" who="colatin">
             <l n="271" xml:id="l271">Misene retournez, et dites à Lucresse</l>
             <l n="272" xml:id="l272">Qu’elle a trop de sujet de banir sa <ref target="#tristesse2">tristesse*</ref>.</l>
@@ -362,11 +423,14 @@
         </div>
       </div>
       <div xml:id="argument2">
+        <head>ARGUMENT DU SECOND ACTE.</head>
         <pb n="16"/>
         <p>Sexte <ref target="#entretenir1">entretient*</ref> Maxime de la violence de sa passion, et quelque difficulté que Maxime oppose au <ref target="#dessin">dessein*</ref> de ce jeune Prince : il est contraint luy-mesme d’aller voir Lucresse pour luy descouvrir ce secret. Cependant qu’ils sont à contester, Tullie arrive, que Sexte entretient* du succez des armes de Tarquin ; ce qui luy oste la peur qu’elle avoit toujours euë, que le courage de ce Roy ne fût la cause de leur infortune. Lucresse apres avoir veu Misene, raconte à Cecilie un songe dont elle n’attend rien de bon : et commence à en espreuver l’éfet par la fausse nouvelle de la mort de son mary, que Maxime tasche de rendre veritable, pour l’assujettir par ce moyen plus facilement aux volontez de Sexte.</p>
       </div>
       <div xml:id="acte2" type="act">
+        <head>ACTE II</head>
         <div type="scene" xml:id="acte201">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="acte201-1" who="sexte">
             <l n="285" xml:id="l285">Use de cent raisons pour deffendre à mes sens<pb n=" C, 17"/></l>
             <l n="286" xml:id="l286">D’<ref target="#entretenir2">entretenir*</ref> ainsi leurs plaisirs innocens,</l>
@@ -449,6 +513,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte202">
+          <head>SCENE DEUXIESME</head>
           <sp xml:id="acte202-1" who="tullie">
             <l n="351" xml:id="l351">Ah ! Mon fils, que mon cœur estoit dans la contrainte,<pb n=" 21"/></l>
             <l n="352" xml:id="l352">Que vous revenez bien pour en oster la crainte !</l>
@@ -619,6 +684,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte203">
+          <head>SCENE TROISIESME</head>
           <sp xml:id="acte203-1" who="lucresse">
             <l n="491" xml:id="l491">Comment l’as-tu pû voir au milieu de l’armée ?<pb n="28"/></l>
             <l n="492" xml:id="l492">Tu ne m’en parles point que par la renommée.</l>
@@ -720,6 +786,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte204">
+          <head>SCENE QUATRIESME.</head>
           <sp xml:id="acte204-1" who="lucresse">
             <l n="579" xml:id="l579">Si bien que nous jugeons par la fin de la guerre<pb n="32"/></l>
             <l n="580" xml:id="l580">Qu’on estendra l’Empire aux deux bouts de la terre ?</l>
@@ -783,12 +850,15 @@
         </div>
       </div>
       <div xml:id="argument3">
+        <head>ARGUMENT DU TROISIESME ACTE.</head>
         <pb n="35"/>
         <p>Maxime dans la violence de la douleur de Lucresse ; tasche de preparer son esprit à l’amour ; et s’imagine ce <ref target="#dessin">dessein*</ref> assez facile en luy representant que Colatin a trahy l’Empire, et qu’il s’est joint aux <ref target="#artifice">artifices*</ref> de ceux d’Ardée pour venir plus facilement à bout des Romains. Mais cette vertueuse femme qui ne considere que la personne de son mary et sa qualité, sans s’arrester à ce vice dont elle n’oze le soupçonner ; n’est point de l’intelligence de ce <ref target="#confident">Confident</ref>, et ne peut croire qu’une personne de sa reputation puisse l’écouter sans scandale.</p>
         <p>Lors qu’ils s’<ref target="#entretenir1">entretiennent*</ref> sur ce sujet, Sexte arrive, qui continuë dans la première ruze, et là il n’espargne rien de tout ce qui peut tomber dans l’imagination pour venir à bout de son <ref target="#entreprise">entreprise*</ref> : il asseure que Colatin est un traître, que le desir de regner l’a rendu criminel, et qu’il a mesme attenté jusques à sa vie : pour treuver occasion de preuver sa <ref target="#vertu4">vertu*</ref>. C’est où il en reçoit de visibles tesmoignages, et d’où il prend occasion d’entrer secrettement dans son logis afin [36] de venir à toutes les <ref target="#extremite1">extrémitez*</ref>. Pendant ces intrigues, Tullie s’estant aperceuë de la tristesse, et de la <ref target="#rever">resverie*</ref> de son fils Tarquin, demande raison à Melixene de cette nouveauté, et n’en devinent toutes deux le sujet que confusément, d’autant qu’elles n’avoient pas lieu de soupçonner la brutalité de ce Prince : et qu’elles n’estimoient pas Lucresse assez malheureuse pour estre <ref target="#objet2">objet*</ref> de ce funeste <ref target="#dessin">dessein*</ref>. Elles sortent neanmoins dans la resolution d’essayer toutes sortes de remedes pour connoistre cette maladie : et Tullie s’en remet sur Melixene qui ne tenoit pas pour impossible que la beauté de Lucresse eut touché le Prince. Dans ces entremises Tarquin apres avoir pris Ardée revient à Rome, et Colatin à Colatie et Sexte descouvrant sa damnable resolution viole Lucresse ; car n’ayant pû rien en tirer par les menasses, il crût ne devoir l’obtenir que par la <ref target="#forcer2">force*</ref>.</p>
       </div>
       <div xml:id="acte3" type="act">
+        <head>ACTE III.[37]</head>
         <div type="scene" xml:id="acte301">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="acte301-1" who="maxime">
             <l n="619" xml:id="l619">Quand mesme Colatin reconnoitroit son crime,</l>
             <l n="620" xml:id="l620">Et qu’il seroit puny d’un trépas legitime,</l>
@@ -877,6 +947,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte302">
+          <head>SCENE DEUXIESME. [F, 41]</head>
           <sp xml:id="acte302-1" who="lucresse">
             <l n="687" xml:id="l687">Vous de qui la bonté console une affligée,</l>
             <l n="688" xml:id="l688">Et pour qui seulement je me sens <ref target="#obliger4">obligée*</ref>,</l>
@@ -957,6 +1028,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte303">
+          <head>SCENE TROISIEME.</head>
           <sp xml:id="acte303-1" who="tullie">
             <l n="745" xml:id="l745">Mais n’as-tu point connu que depuis son retour</l>
             <l n="746" xml:id="l746">Il a des sentimens ou de haine ou d’amour ?</l>
@@ -1068,6 +1140,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte304">
+          <head>SCENE QUATRIESME.</head>
           <pb n="G, 49"/>
           <sp xml:id="acte304-1" who="tarquin">
             <l n="835" xml:id="l835">Estes-vous satisfaits ? Ardée est-elle prise ?</l>
@@ -1109,6 +1182,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte305">
+          <head>SCENE CINQUIESME.</head>
           <pb n="51"/>
           <sp xml:id="acte305-1" who="sexte">
             <l n="861" xml:id="l861">Madame, Colatin n’a plus aucun souci,</l>
@@ -1234,12 +1308,15 @@
         </div>
       </div>
       <div xml:id="argument4">
+        <head>ARGUMENT DU QUATRIESME ACTE.</head>
         <pb n="56"/>
         <p>Lucresse ne croyant pas devoir conserver sa vie, apres avoir perdu son <ref target="#honneur4">honneur*</ref> ; se fait des armes de tout pour se faciliter la mort : mais elle en est empeschée par Cécilie, qui pour la <ref target="#flatter">flatter*</ref> dans son mal-heur luy veut persuader que la <ref target="#forcer4">force*</ref> rend son peché excusable. Mal-gré les sentiments de Cécilie elle envoye une lettre dans laquelle son regret est assez visible ; mais où elle ne se blâme pas tout à fait, aiant esté violée, et où elle ne veut pas s’excuser estant adultere. Sexte et Maxime se doutant de la rage de Lucresse, et craignant les premiers mouvements du Peuple Romain, deliberent d’aller à Tarquin, pour obtenir le pardon d’une telle faute. Cependant qu’ils vont à Rome, le valet de Lucresse rencontre Colatin qui revenoit à Colatie, qui s’estant enquis de la santé de sa femme, treuve dans sa lettre un sujet de desespoir. Ayant sçeu l’autheur de cette infamie, il jure avec son beau-pere Lucretie, de punir une action si detestable ; et dés l’heure vont esmouvoir tout le peuple et Brute principalement, qui n’attendoit que l’occasion de s’exenter de leur tyrannie ; et qui treuva celle-cy pour donner aux Romains la liberté pour laquelle ils faisoient des vœux secrets ; sans oser aller plus avant.</p>
       </div>
       <div xml:id="acte4" type="act">
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="acte401">
           <pb n="H, 57"/>
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="acte401-1" who="lucresse">
             <l n="951" xml:id="l951">Et tu veux que je vive apres sa perfidie,</l>
             <l n="952" xml:id="l952">Par la fin de mes jours finis la Tragedie.</l>
@@ -1374,6 +1451,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte402">
+          <head>SCENE DEUXIESME.</head>
           <pb n="63"/>
           <sp xml:id="acte402-1" who="maxime">
             <l n="1051" xml:id="l1051">J’entendois vos debats, et je n’osois parétre,</l>
@@ -1457,6 +1535,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte403">
+          <head>SCENE TROISIESME</head>
           <sp xml:id="acte403-1" who="misene">
             <l n="1117" xml:id="l1117">Je n’en fais que sortir, je vous allois treuver,</l>
             <l n="1118" xml:id="l1118">Mais sans doute il est temps, vous devez ariver.</l>
@@ -1583,6 +1662,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte404">
+          <head>SCENE QUATRIESME.</head>
           <pb n="72"/>
           <sp xml:id="acte404-1" who="lucretie">
             <l n="1223" xml:id="l1223">Mon fils, quel nouveau bruit trouble nostre esperance ?</l>
@@ -1629,12 +1709,15 @@
         </div>
       </div>
       <div xml:id="argument5">
+        <head>ARGUMENT DU CINQUIESME ACTE.</head>
         <pb n="74"/>
         <p>Tarquin pensant joindre la joye à son triomphe, se treuve surpris du pardon que Sexte veut exiger de luy : apres avoir apris la nouvelle d’une action où il s’attendoit le moins ; il commande à son fils de se retirer ; ce que Sexte ne pùt refuser dans la crainte qu’ils avoient, que les ressentimens du peuple irritez par sa presence, ne se convertissent en fureur. Il s’en alla avec Maxime dans une petite colonie où il fut tüé un an apres. Tullie ayant veu dans la passion du Prince, le commencement de son mal-heur, apprend que le peuple cherche Tarquin, et que Brute en ce rencontre fait tout ce qui n’estoit pas impossible pour se delivrer de sa tyrannie. L’éfet succede à la crainte ; car Lucretie, Colatin, Brute et quelques autres, donnent la fuitte à leur Roy, et chassent toute la race des Tarquins. Apres avoir contenté, leurs desirs, Colatin et Lucretie vont voir Lucresse, qui ne pouvant survivre à son <ref target="#deshonneur">deshonneur*</ref>, apres avoir prié Colatin de vanger son injure, tire secretement de son sein un poignard et se tüe voulant laisser par sa mort la mémoire de sa vie et de sa <ref target="#vertu3">vertu*</ref> aux nations les plus reculées.</p>
       </div>
       <div xml:id="acte5" type="act">
         <pb n="75"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="acte501">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="acte501-1" who="tarquin">
             <l n="1255" xml:id="l1255">Romains, c’est comme il faut honorer ma conqueste,</l>
             <l n="1256" xml:id="l1256">Vos lauriers semblent beaux quand ils son sur ma teste.</l>
@@ -1669,6 +1752,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte502">
+          <head>SCENE DEUXIESME.</head>
           <pb n="77"/>
           <sp xml:id="acte502-1" who="maxime">
             <l n="1283" xml:id="l1283">Allez ne craignez rien ; tout vous sera prospere,</l>
@@ -1776,6 +1860,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte503">
+          <head>SCENE TROISIESME.</head>
           <sp xml:id="acte503-1" who="tullie">
             <l n="1361" xml:id="l1361">Je te l’avois bien-dit qu’il estoit <ref target="#amoureux">amoureux*</ref>,</l>
             <l n="1362" xml:id="l1362">Et qu’enfin son amour le rendroit malheureux.</l>
@@ -1824,6 +1909,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte504">
+          <head>SCENE QUATRIESME.</head>
           <sp xml:id="acte504-1" who="tarquin">
             <l n="1395" xml:id="l1395">Quoy vous me bannissez ?  O Dieux quelle insolence !</l>
             <l n="1396" xml:id="l1396">Vous pouvez- vous porter à cette violence ?</l>
@@ -1866,6 +1952,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte505">
+          <head>SCENE CINQUIESME</head>
           <pb n="85"/>
           <sp xml:id="acte505-1" who="tarquin">
             <l n="1427" xml:id="l1427">Quelles <ref target="#extremite1">extremitez*</ref> où la rage les porte,</l>
@@ -1913,6 +2000,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte506">
+          <head>SCENE SIXIESME.</head>
           <pb n="87"/>
           <sp xml:id="acte506-1" who="colatin">
             <l n="1469" xml:id="l1469">Helas ! ce n’est pas tout ; l’Empereur est bani,</l>
@@ -1928,6 +2016,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte507">
+          <head>SCENE DERNIERE.</head>
           <pb n="88"/>
           <sp xml:id="acte507-1" who="lucresse">
             <l n="1477" xml:id="l1477">Comment les puis-je voir sans mourir à leurs yeux ?</l>

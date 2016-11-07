@@ -1,8 +1,58 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Armetzar ou les amis ennemis. Tragi-comédie</title>
+        <author key="Chappuzeau, Samuel (1625-1701)">Samuel Chappuzeau</author>
+        <principal>Georges Forestier</principal>
+        <editor>Damien Fortin</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Damien Fortin dans le cadre d'un mémoire de
+          master 1 sous la direction de Georges Forestier (2004-2005)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/chappuzeau_armetzar/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/chappuzeau_armetzar.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/chappuzeau_armetzar.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/chappuzeau_armetzar.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/chappuzeau_armetzar.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1656"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+    <textClass>
+      <keywords>
+        <term subtype="tragedy" type="genre">Tragi-comédie</term>
+      </keywords>
+    </textClass>
+  </teiHeader>
   <text>
     <body>
+      <head>ARMETZAR, ou LES AMIS ENNEMIS. TRAGI-COMÉDIE</head>
       <div type="dedication" xml:id="dedicace">
         <pb n="V" xml:id="pV"/>
+        <head>A MONSIEUR SNOECKAERT de SCHAUNBURGH, etc.</head>
         <p>Monsieur,</p>
         <p>Il est tres rare de voir l’amitié et la haine compatir ensemble, et deux personnes se déclarer la guerre au moment qu’ils se declarent de l’<ref target="#affection">affection*</ref>. C’est une avanture si peu commune, que l’amour seul peut la rendre vraysemblable, et elle passera sans doute pour le plus merveilleux de ses prodiges, et la plus haute marque de son pouvoir. Aussy, Mon-<pb n="VI" xml:id="pVI"/>-sieur, n’aurois-je pas osé vous offrir que quelque chose de merveilleux, et je vous considere trop pour avoir pris la liberté de mettre vôtre nom à la teste de cet ouvrage, si les plus critiques mémes n’en avoient treuvé l’intrigue hors du commun. D’ailleurs, <hi rend="i">Monsieur</hi>, vous estes d’une condition et d’un âge à vous rendre compagnon de la fortune de mes deux Princes, et à faire comme eux des actions héroïques ; et soit pour le beau sexe, ou pour la Patrie, vous tascherez encore de l’encherir sur leur passion. Je prevoy, <hi rend="i">Monsieur</hi>, que vous en aurez une tres forte pour le <ref target="#service">service*</ref> de cette Patrie, et qu’imitant vos ancêtres qui luy en ont rendu de si utiles, vous luy donnerez bien-tost dedans et dehors toutes vos pensées et tous vos soins. Sans vous porter plus loin, il vous doit souvenir d’un <hi rend="i">Albert Jaochimi</hi> vôtre aïeul, qui<pb n="VII" xml:id="pVII"/>s’aquitta avec tant de <ref target="#gloire">gloire*</ref> de ses ambassades chez les Anglois, les Suedois et les Moscovites, et penser que vous estes né aux mémes honneurs et aux mémes charges, puisque vous vous treuvez heritier de ses vertus comme de ses biens. Vous avez eu un des meilleurs peres, qui s’est vû long temps cheri d’un des meilleurs Roys, et l’un des plus proches de Sa personne ; et il se découvre enfin en vous méme dequoy egaler le Pere et l’Ayeul. C’est, <hi rend="i">Monsieur</hi>, cette puissante inclination que vous avez à les suivre, et à les passer méme, tant que vous vous treuverez un beau chemin à la <ref target="#gloire">gloire*</ref>. La France où vous avez dêja paru avec tant d’estime, s’attend de vous revoir un jour chez elle avec plus d’<ref target="#eclat">eclat*</ref> ; l’Angleterre qui a joui de douze de vos années, ne s’en promet pas moins dans la suitte ; La Hollande qui<pb n="VIII" xml:id="pVIII"/> vous a vû naître, et qui sur toutes les Provinces du Monde sçait faire le choix des personnes de vertu, aura bien-tost lieu d’honorer la vôtre ; et si vous vous montrez à l’Allemagne, où tout un pays soûpire apres vous pour vous rendre les hommages qu’il vous doit, vous n’en sortirez point sans emporter avec vous les cœurs de ses peuples. Je le juge aisement, <hi rend="i">Monsieur</hi>, apres l’honneur que j’ay eu plusieurs fois de vôtre entretien, où j’ay decouvert toutes les marques d’une ame veritablement <ref target="#genereux">genereuse*</ref>, et qui aspire à quelque chose de grand. J’ose pourtant avoüer que j’aspire aussy haut que vous, puisque je porte tous mes souhaits à la <ref target="#gloire">gloire*</ref> de vous appartenir, et de me dire avec beaucoup de respect,</p>
         <p>MONSIEUR,</p>
@@ -11,15 +61,20 @@
       </div>
       <div type="set" xml:id="argument">
         <pb n="IX" xml:id="pIX"/>
+        <head>ARGUMENT</head>
         <p><hi rend="i">Armetzar</hi> Prince des Tartares, et <hi rend="i">Vanlie</hi> Prince des Chinois, épris d’amour pour la sœur l’un de l’autre, les armées de <hi rend="i">Tamerlan</hi> et de <hi rend="i">Zinton</hi> prêtes à combattre, plûtost que de s’armer contre leurs maîtresses, aiment mieux se tourner contre leurs peres et contre eux mémes, et passent en effet, <hi rend="i">Armetzar</hi> dans le camp Chinoy, et <hi rend="i">Vanlie</hi> dans le camp Tartare, chacun soûs un faux nom et une qualité empruntée. Cependant <hi rend="i">Armetzar</hi> rend des <ref target="#service">services*</ref> tres signalez à <hi rend="i">Zinton, Tamerlan</hi> reçoit de méme des assistances tres considerables de <hi rend="i">Vanlie</hi>, sans que leurs Illustres actions puissent toucher leurs Maîtresses, dont la noble ambition méprise quiconque n’a pas le titre de Roy. <hi rend="i">Ladice</hi> portée par <hi rend="i">Zinton</hi> son pere, à recevoir <hi rend="i">Phocate</hi> pour époux (c’est le nom que prend <hi rend="i">Armetzar</hi> chez les Chinois, de méme que <hi rend="i">Vanlie</hi> chez les Tartares) et croyant que ce soit à sa sollicitation, l’aborde en colere, et luy defend pour jamais<pb n="X" xml:id="pX"/> sa vûe. <hi rend="i">Armetzar</hi> obeït, et conçoit dans son desespoir une haute entreprise qui lui réüssit, et qui engage encore plus puissamment <hi rend="i">Zinton</hi> à l’aimer. <hi rend="i">Artaban</hi> poussé par <hi rend="i">Zarimene</hi> sa mere, seconde femme de <hi rend="i">Zinton</hi>, qui tâche de faire entrer son fils dans la famille Royale, devient rival d’<hi rend="i">Armetzar</hi> : mais <hi rend="i">Ladice</hi> ayant découvert la naissance de celuy-cy, bien loin d’en tirer de nouveaux motifs de haine pour le fils de l’ennemy des Chinois, elle en conçoit une plus haute estime et beaucoup d’amour, que malgré la defense tacite de son pere elle se sent obligé de luy témoigner, après le severe commandement qu’elle luy avoit fait de se bannir de sa vue. Mais s’il la recouvre, il n’en jouït pas long-temps, et les armées étant sur le point de s’approcher, il la quitte pour aller joindre <hi rend="i">Zinton</hi>, qui apres un combat opiniâtre se treuve enveloppé d’un <ref target="#gros">gros*</ref> de Tartares, et emmené prisonnier. <hi rend="i">Armetzar</hi> voyant tout desesperé quitte le desordre pour venir au secours de <hi rend="i">Ladice</hi>, et tacher de se sauver avec elle : mais il s’en treuve tres mal receu sur un faux rapport qu’on luy a fait (et avec beaucoup d’apparence) qu’<hi rend="i">Armetzar</hi> avoit repris le party de <hi rend="i">Tamerlan</hi>. Tandis qu’il fait ses efforts pour la tirer d’erreur, et qu’il en essuye quelques reproches, le <hi rend="i">Grand</hi><pb n="XI" xml:id="pXI"/><ref target="#cham"><hi rend="i">Cham*</hi></ref> arrive, accompagné de <hi rend="i">Vanlie</hi> et de tous ses Généraux ; ce qui les oblige tous deux à prendre la fuite. Mais ayant été bien-tost saisis par quelques soldats, <hi rend="i">Armetzar</hi> est enfin mené captif avec <hi rend="i">Zinton</hi> devant <hi rend="i">Tamerlan</hi>. L’<ref target="#etonnement">etonnement*</ref> des deux peres fut <ref target="#etrange">étrange*</ref> ; de <hi rend="i">Tamerlan</hi> voyant son fils parmy les Chinois, et de <hi rend="i">Zinton</hi> voyant le sien parmy les Tartares, lequel avoit usé de tous artifices envers le Vainqueur pour eviter cet abord, et cet evenement engendre des transports merveilleux de part et d’autre. Mais enfin la surprise et la colere cedant à l’amour et à la raison, <hi rend="i">Artaban</hi> tué au combat, et <hi rend="i">Zarimene</hi> morte en suitte de douleur, <hi rend="i">Armetzar</hi> et Vanlie obtiennent de leurs peres ce qu’ils souhaitent, et <hi rend="i">Tamerlan</hi> remet le Roy de la Chine dans ses Etats.</p>
         <p>Si j’ay tiré le sujet de cette piece, d’un Roman qui court depuis quelques années soûs le nom de <hi rend="i">Ladice</hi>, ou des <hi rend="i">Victoires du Grand Tamerlan</hi> ; soit qu’il t’ayt plû, ou qu’il t’ayt mal diverti, Je veux bien que tu sçaches que je ne puis apprehender de poursuitte pour ce larcin, si je ne me rens partie contre moy méme.</p>
       </div>
       <div type="set" xml:id="personnages">
         <pb n="XII" xml:id="pXII"/>
+        <head>PERSONNAGES</head>
       </div>
       <div xml:id="I" type="act">
         <pb n="13" xml:id="p13"/>
+        <head>ACTE PREMIER.</head>
+        <head rend="center">ARMETZAR, ou LES AMIS ENNEMIS. TRAGI-COMEDIE.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE I.</head>
           <sp xml:id="I01-1" who="organte">
             <l n="1" xml:id="l1">Seigneur, il ne faut pas consulter davantage,</l>
             <l n="2" xml:id="l2">Evitez les perils où l’amour vous engage ;</l>
@@ -254,6 +309,7 @@
         </div>
         <div type="scene" xml:id="I02">
           <pb n="21" xml:id="p21"/>
+          <head>SCENE II.</head>
           <sp xml:id="I02-1" who="zinton">
             <l n="197" xml:id="l197">En vain à m’attaquer Tamerlan se prepare,</l>
             <l n="198" xml:id="l198">Je ne redoute point les efforts du Tartare ;</l>
@@ -301,6 +357,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <sp xml:id="I03-1" who="garde">
             <l n="240" xml:id="l240" part="I">Sire, le Prince arrive.</l>
           </sp>
@@ -330,6 +387,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="zinton">
             <l n="254" xml:id="l254">Je te revoy, mon fils, et mon plaisir redouble</l>
             <l n="255" xml:id="l255">Lors que je te revoy pour offrir à ton bras</l>
@@ -433,6 +491,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V.</head>
           <pb n="27" xml:id="p27"/>
           <sp xml:id="I05-1" who="vanlie">
             <l n="333" xml:id="l333">C’est trop, il faut enfin pour étaler ma joye,</l>
@@ -589,7 +648,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="32" xml:id="p32"/>
+        <head>ACTE SECOND.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE I.</head>
           <sp xml:id="II01-1" who="iliane">
             <l n="465" xml:id="l465">Quoy, parêtre si <ref target="#triste">triste*</ref> en un jour plein de joye !</l>
             <l n="466" xml:id="l466">C’est peu goûter les biens que le Ciel vous envoye.</l>
@@ -736,6 +797,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II</head>
           <sp xml:id="II02-1" who="zarimene">
             <l n="579" xml:id="l579">Je viens mesler ma joye à vos ravissemens,</l>
             <l n="580" xml:id="l580">Et nous devons au Ciel mille remercimens ;</l>
@@ -827,6 +889,7 @@
         </div>
         <div type="scene" xml:id="II03">
           <pb n="39" xml:id="p39"/>
+          <head>SCENE III.</head>
           <sp xml:id="II03-1" who="zinton">
             <l n="637" xml:id="l637">Madame, et vous, ma fille, apres le noir orage</l>
             <l n="638" xml:id="l638">Que vient de dissiper ce <ref target="#genereux">genereux*</ref> courage,</l>
@@ -958,6 +1021,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="43" xml:id="p43"/>
+          <head>SCENE IV.</head>
           <sp xml:id="II04-1" who="zinton">
             <l n="741" xml:id="l741">La chose est d’importance, et je veux qu’on l’avoüe.</l>
             <l n="742" xml:id="l742">Madame, la vertu merite qu’on la loüe :</l>
@@ -1074,6 +1138,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <sp xml:id="II05-1" who="ladice">
             <l n="819" xml:id="l819">Dans quels nouveaux soucis vient on de m’engager !</l>
             <l n="820" xml:id="l820">J’entens parler de <ref target="#change">change*</ref>, et n’ay point à changer.</l>
@@ -1123,6 +1188,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI.</head>
           <sp xml:id="II06-1" who="armetzar">
             <l n="854" xml:id="l854">Je viens icy, Madame, avec mauvaise grace,</l>
             <l n="855" xml:id="l855">Et vous aurez sujet de vous plaindre de moy :</l>
@@ -1221,6 +1287,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE VIII.</head>
           <sp xml:id="II07-1" who="armetzar">
             <l n="925" xml:id="l925">Vous serez obeïe, ô Princesse adorable !</l>
             <l n="926" xml:id="l926">Vous ne reverrez plus cet <ref target="#objet2">objet*</ref> meprisable,</l>
@@ -1239,7 +1306,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="52" xml:id="p52"/>
+        <head>ACTE TROISIEME.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE I.</head>
           <sp xml:id="III01-1" who="armetzar">
             <l n="937" xml:id="l937">Pour flatter la douleur du tourment que j’endure,</l>
             <l n="938" xml:id="l938">Je sens dedans mon cœur l’espoir se reveiller :</l>
@@ -1274,6 +1343,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp xml:id="III02-1" who="organte">
             <l n="967" xml:id="l967" part="I">Seigneur.</l>
           </sp>
@@ -1289,6 +1359,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp xml:id="III03-1" who="vanlie">
             <l n="969" xml:id="l969" part="I">Hé bien, mon cher Phocate !</l>
           </sp>
@@ -1434,6 +1505,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp xml:id="III04-1" who="armetzar">
             <l n="1075" xml:id="l1075">Effet prodigieux d’une <ref target="#flame1">flame*</ref> amoureuse !</l>
             <l n="1076" xml:id="l1076">Illustre emportement d’une ame <ref target="#genereux">genereuse*</ref> !</l>
@@ -1495,6 +1567,7 @@
         </div>
         <div type="scene" xml:id="III05">
           <pb n="59" xml:id="p59"/>
+          <head>SCENE V.</head>
           <sp xml:id="III05-1" who="ladice">
             <l n="1110" xml:id="l1110">Iliane, c’est luy qui se cache à mes yeux.</l>
             <l n="1111" xml:id="l1111">L’insolent m’obeït, et le cruel me tue,</l>
@@ -1553,6 +1626,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI.</head>
           <sp xml:id="III06-1" who="artaban">
             <l n="1155" xml:id="l1155">Madame, ayant apris qu’on veut vous faire <ref target="#outrage">outrage*</ref>,</l>
             <l n="1156" xml:id="l1156">Que contre vos desirs un pere vous engage ;</l>
@@ -1610,6 +1684,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE VII.</head>
           <sp xml:id="III07-1" who="artaban">
             <l n="1196" xml:id="l1196">M’en aller plaindre, <ref target="#ingrat">ingrate*</ref> ; ame <ref target="#fier">fiere*</ref> et hautaine !</l>
             <l n="1197" xml:id="l1197">Non, non, suivons mon cœur un plus noble dessein,</l>
@@ -1621,6 +1696,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III08">
+          <head>SCENE VIII.</head>
           <sp xml:id="III08-1" who="zarimene">
             <l n="1203" xml:id="l1203">Hé bien, as tu gagné quelque chose sur elle ?</l>
             <l n="1204" xml:id="l1204">Mon fils, il faut enfin vaincre cette rebelle,</l>
@@ -1702,7 +1778,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="65" xml:id="p65"/>
+        <head>ACTE QUATRIEME.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE I.</head>
           <sp xml:id="IV01-1" who="zinton">
             <l n="1259" xml:id="l1259">Quoy tous deux à la fois, et mon fils et Phocate</l>
             <l n="1260" xml:id="l1260" part="I">Abandonner mon camp ?</l>
@@ -1741,6 +1819,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II.</head>
           <sp xml:id="IV02-1" who="garde">
             <l n="1287" xml:id="l1287">Le Prince est de retour, Sire, et par sa vaillance</l>
             <l n="1288" xml:id="l1288">Quinsay vient de se rendre en vôtre obeïssance.</l>
@@ -1756,6 +1835,7 @@
         </div>
         <div type="scene" xml:id="IV03">
           <pb n="67" xml:id="p67"/>
+          <head>SCENE III.</head>
           <sp xml:id="IV03-1" who="armetzar">
             <l n="1295" xml:id="l1295">Sire, voicy le bras qui vange vôtre offence,</l>
             <l n="1296" xml:id="l1296">Mais de qui vous devez châtier l’insolence,</l>
@@ -1889,6 +1969,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <pb n="71" xml:id="p71"/>
+          <head>SCENE IV.</head>
           <sp xml:id="IV04-1" who="artaban">
             <l n="1405" xml:id="l1405">O depit ! ô <ref target="#fureur">fureur*</ref> ! quoy cet audacieux    </l>
             <l n="1406" xml:id="l1406">Doit-il encore vivre et parêtre à mes yeux !</l>
@@ -1903,6 +1984,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V.</head>
           <sp xml:id="IV05-1" who="ladice">
             <l n="1415" xml:id="l1415">Que de biens à la fois ! que de maux tout ensemble !</l>
             <l n="1416" xml:id="l1416">Dieux que j’ay de plaisir ! mais bons dieux que je tremble !</l>
@@ -1982,6 +2064,7 @@
         </div>
         <div type="scene" xml:id="IV06">
           <pb n="74" xml:id="p74"/>
+          <head>SCENE VI.</head>
           <sp xml:id="IV06-1" who="ladice">
             <l n="1481" xml:id="l1481">Armetzar, approchez, je vous permets ma vûe ;</l>
             <l n="1482" xml:id="l1482">C’est à Phocate seul que je l’ay defendue,</l>
@@ -2097,7 +2180,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="78" xml:id="p78"/>
+        <head>ACTE CINQUIEME.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE I.</head>
           <sp xml:id="V01-1" who="zarimene">
             <l n="1577" xml:id="l1577">Princesse, avec raison vôtre noble arrogance</l>
             <l n="1578" xml:id="l1578">Meprise la vertu qu’obscurcit la naissance :</l>
@@ -2133,6 +2218,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp xml:id="V02-1" who="garde">
             <l n="1599" xml:id="l1599">Princesses, c’en est fait, le Tartare est vainqueur.</l>
           </sp>
@@ -2207,6 +2293,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp xml:id="V03-1" who="ladice">
             <l n="1633" xml:id="l1633">Est-ce un songe, Iliane ? et puis-je avec justice</l>
             <l n="1634" xml:id="l1634">Croire sur ce rapport qu’Armetzar nous trahisse ?</l>
@@ -2233,6 +2320,7 @@
         </div>
         <div type="scene" xml:id="V04">
           <pb n="82" xml:id="p82"/>
+          <head>SCENE IV.</head>
           <sp xml:id="V04-1" who="armetzar">
             <l part="F">Ouy, fuyons, ma Princesse,</l>
             <l n="1646" xml:id="l1646">Tamerlan suit mes pas, et le danger nous presse ;</l>
@@ -2289,6 +2377,7 @@
         </div>
         <div type="scene" xml:id="V05">
           <pb n="84" xml:id="p84"/>
+          <head>SCENE V.</head>
           <sp xml:id="V05-1" who="tamerlan">
             <l n="1679" xml:id="l1679">Enfin, je suis vainqueur de tous mes ennemis,</l>
             <l n="1680" xml:id="l1680">Tous les Roys de l’Asie à mes piés sont soûmis,</l>
@@ -2460,6 +2549,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI.</head>
           <sp xml:id="V06-1" who="tamerlan">
             <l n="1807" xml:id="l1807">Que Zinton est heureux de t’avoir pour appuy,</l>
             <l n="1808" xml:id="l1808">Phocate ! le voilà : mais qui vois-je avec lui ?</l>

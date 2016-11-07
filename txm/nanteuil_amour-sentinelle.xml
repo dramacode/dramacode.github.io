@@ -1,7 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'Amour sentinelle ou Le Cadenas forcé. Comédie</title>
+        <author key="Clerselier, Denis ; dit Nanteuil (1650-17..)">Denis Clerselier de Nanteuil</author>
+        <principal>Georges Forestier</principal>
+        <editor>Svitlana Ovdiienko</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Svitlana Ovdiienko dans le cadre d'un mémoire de
+      master 1 sous la direction de Georges Forestier (2012-2013)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/nanteuil_amour-sentinelle/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/nanteuil_amour-sentinelle.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/nanteuil_amour-sentinelle.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/nanteuil_amour-sentinelle.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/nanteuil_amour-sentinelle.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1669"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>L’AMOUR SENTINELLE <lb/>OU LE CADENAS FORCÉ. <lb/>COMEDIE.</head>
       <div xml:id="dedicace">
+        <head>A SON<pb n="A2"/>ALTESSE MONSEIGNEUR LE PRINCE D’ORANGE</head>
         <p rend="i">MONSEIGNEUR.</p>
         <p><hi rend="i">Si cette petite Comedie</hi>
         , <hi rend="i">que je prends la liberté de vous offrir, me fait passer pour un fascheux.</hi></p>
@@ -13,9 +63,13 @@
         <p rend="right">De Vostre Altesse <lb/><hi rend="i">Le tres-humble et tres-obligé tres-obeïssant<lb/><ref target="#serviteur">Serviteur*</ref>.</hi></p>
         <p rend="right"><hi rend="i">D.C.</hi><hi rend="i">DE</hi><hi rend="i"><hi rend="sc">Nanteuil</hi></hi>.</p>
       </div>
-      <div xml:id="acteurs"/>
+      <div xml:id="acteurs">
+        <head>ACTEURS.</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE I.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE I.</head>
           <sp xml:id="I01-1" who="croctin">
             <l n="1" xml:id="l1" part="I">Ce <ref target="#dessein">dessein*</ref> vous surprend.<pb n="A3, 5"/></l>
           </sp>
@@ -124,6 +178,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II</head>
           <sp xml:id="I02-1" who="isabelle">
             <l part="F">            Est-ce vous Clidamant ?</l>
           </sp>
@@ -262,6 +317,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III</head>
           <sp xml:id="I03-1" who="florant">
             <l n="89" xml:id="l89">Voyez, mon cher voisin, si je suis malheureux,</l>
             <l n="90" xml:id="l90">Vit on jamais un homme à mon aage amoureux</l>
@@ -425,6 +481,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="fabrice">
             <l n="169" xml:id="l169" part="I">Roguepine.</l>
           </sp>
@@ -550,7 +607,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="22"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE I.</head>
           <sp xml:id="II01-1" who="roguepine">
             <l n="227" xml:id="l227">Il faudroit moderer l’<ref target="#ardeur">ardeur*</ref> qui vous <ref target="#transporter">transporte*</ref>,</l>
           </sp>
@@ -696,6 +755,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II</head>
           <sp xml:id="II02-1" who="croctin">
             <l part="F">            Qu'il estoit delectable !</l>
             <l n="305" xml:id="l305">Qu'il estoit bon ce vin c’estoit du vin musquat.</l>
@@ -765,6 +825,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III</head>
           <sp xml:id="II03-1" who="lisette">
             <l part="F">            Ah ! Monsieur est-ce vous.</l>
           </sp>
@@ -850,6 +911,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV.</head>
           <pb n="32"/>
           <sp xml:id="II04-1" who="florant">
             <l part="F">Nostre amoureux transy,</l>
@@ -959,6 +1021,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V</head>
           <sp xml:id="II05-1" who="florant">
             <l part="F">                A bon Dieu.</l>
             <l n="411" xml:id="l411">Je ne puis craindre rien, Juste Ciel quels delices,</l>
@@ -970,6 +1033,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI</head>
           <pb n="36"/>
           <sp xml:id="II06-1" who="fernant">
             <l part="F">            Qui va là qui m’apelle.</l>
@@ -1043,6 +1107,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE VII</head>
           <pb n="38"/>
           <sp xml:id="II07-1" who="croctin">
             <l n="435" xml:id="l435">Lisette met long-temps je sçay ce qu’il projette,</l>
@@ -1050,6 +1115,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II08">
+          <head>SCENE VIII</head>
           <sp xml:id="II08-1" who="lisette">
             <l part="F">                L'affaire est faite.</l>
             <l n="437" xml:id="l437" part="I">Ah Dieu ! qu’il est chagrain.</l>
@@ -1062,7 +1128,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="39"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE I.</head>
           <sp xml:id="III01-1" who="clidamant">
             <l n="439" xml:id="l439">Suis je bien à ton gré cher Croctin cette taille,</l>
             <l n="440" xml:id="l440" part="I">Que dis tu de ce port,</l>
@@ -1140,6 +1208,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II</head>
           <sp xml:id="III02-1" who="florant">
             <l part="F">            Te voila de retour,</l>
           </sp>
@@ -1179,6 +1248,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp xml:id="III03-1" who="florant">
             <l n="491" xml:id="l491" part="I">Il faut ...</l>
           </sp>
@@ -1192,6 +1262,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV</head>
           <sp xml:id="III04-1" who="isabelle">
             <l n="495" xml:id="l495">Personne ne croyroit vos aparances fausses,</l>
           </sp>
@@ -1298,6 +1369,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V</head>
           <sp xml:id="III05-1" who="florant">
             <l n="541" xml:id="l541">Madame est elle icy ? cher amy dis-le nous,</l>
             <l n="542" xml:id="l542" part="I">Est-il icy Florant ?</l>
@@ -1334,6 +1406,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI</head>
           <sp xml:id="III06-1" who="croctin">
             <l n="551" xml:id="l551">Nous sommes des frapeurs les plus hardis de France,</l>
             <l n="552" xml:id="l552" part="I">Ils sont bien <ref target="#estonner2">estonnez*</ref>.</l>
@@ -1348,6 +1421,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE VII</head>
           <pb n="48"/>
           <sp xml:id="III07-1" who="florant">
             <l n="555" xml:id="l555">Que j’ay de bons portiers cher voisin, que je meure,</l>
@@ -1386,6 +1460,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III08">
+          <head>SCENE VIII</head>
           <sp xml:id="III08-1" who="croctin">
             <l n="571" xml:id="l571">Je feray ce qu’il faut, fais les sortir Lisette,</l>
             <l n="572" xml:id="l572">Et qu’ils aillent ailleurs faire leur amourette,</l>
@@ -1406,6 +1481,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III09">
+          <head>SCENE IX</head>
           <pb n="50"/>
           <sp xml:id="III09-1" who="clidamant">
             <l n="577" xml:id="l577">Madame il n’est plus temps de rien dissimuler,</l>
@@ -1455,6 +1531,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III10">
+          <head>SCENE X.</head>
           <sp xml:id="III10-1" who="florant">
             <l n="599" xml:id="l599">Nos gens ont fort bien fait je ne le sçaurois taire,</l>
             <l n="600" xml:id="l600" part="I">Ils nous ont bien batu.<pb n="52"/></l>
@@ -1489,6 +1566,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III11">
+          <head>SCENE XI.</head>
           <pb n="C3, 53"/>
           <sp xml:id="III11-1" who="carlos">
             <l n="613" xml:id="l613">Monsieur je viens icy pour Monsieur Clidamant,</l>
@@ -1527,6 +1605,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III12">
+          <head>SCENE XII.</head>
           <sp xml:id="III12-1" who="isabelle">
             <l n="622" xml:id="l622" part="I">Je me jette à vos pieds.</l>
           </sp>

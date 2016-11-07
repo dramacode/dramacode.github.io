@@ -1,7 +1,56 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Belle Esclave. Tragi-comédie</title>
+        <author key="L'Estoile, Claude de (1597-1652)">Claude de L'Estoille</author>
+        <editor>Mélanie Meyers</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Mélanie Meyers sous la direction de Georges Forestier (2010)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/estoile_belle-esclave/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/estoile_belle-esclave.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/estoile_belle-esclave.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/estoile_belle-esclave.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/estoile_belle-esclave.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1643"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>La Belle Esclave. Tragi-comédie</head>
       <div xml:id="epitre">
+        <head>Epistre à Monseigneur SEGUIER, Chancelier de France</head>
         <p>Monseigneur,</p>
         <p>Si toutes les hardiesses imprudentes ont d’ordinaire un mauvais succez, quel accueil dois-je attendre de votre Grandeur, en vous faisant un présent si peu convenable à cette haute Vertu, dont vous honorez aujourdhuy la premiere Charge du Royaume ? Certes, Monseigneur, c’est une incivilité bien audacieuse, que de vous inviter à descendre en ma faveur du Throsne de la Justice au Theatre de la Comedie. Mais si les Scipions n’ont pas dédaigné de s’y treuver quelques fois à la priere des Terences, et d’embrasser mesmes la protection de leurs Ouvrages ; J’espere, Monseigneur, que vous ne refuserez pas la vostre à celui que je vous presente ; et que peut-estre vous luy donnerez quelques-unes de vos heures, quoy qu’elles soient toutes precieuses. Vous n’y verrez pas, comme dans les leurs, tout ce qu’une Langue a de plus pur et de plus fleury, ny tout ce qu’un beau Genie peut avoir de beaux sentimens ; mais vous y verrez quelques images, tantost de ces charitables soins que vous prenez de l’Innocence opprimée, et tantost de cette rare Prudence, avec laquelle vous penetrez si facilement jusques dans les cœurs, et tirez la Verité toute nüe du fonds des abysmes. Vous l’en faites sortir tous les jours avec esclat ; et jamais homme dans cette éminente Place que vous occupez si dignement, ne s’est mieux entendu que vous à tenir la Balance de la Justice. Aussi faut-il advoüer que le plus juste des Roys n’a pas eu peu de Sagesse, de la mettre entre vos mains, ny la plus sage des Reynes, peu de bonheur de l’y treuver. Mais qui ne sçait que l’admirable secret de pezer avec justesse toute sorte d’interests, est un don que le Ciel a fait depuis plusieurs Siècles à l’illustre Race des SEGUYERS ? Il y a peu d’Histoires qui ne parlent des grands services que vos Ancestres ont rendus, et à l’Eglise et à l’Estat ; des fameux differens qu’ils ont accordez entre des Papes et des Roys (Jules III et Henry II), et des flambeaux de sedition qu’ils ont esteins, ou qu’ils ont empesché de s’allumer parmy les Peuples. Mais une Lettre n’est pas capable de contenir tout ce qu’ils ont fait de merveilleux, et dedans et dehors le Royaume : Et pour en consacrer la mémoire à la Posterité, il seroit besoin de cette Eloquence qui vous a fait admirer tant de fois, et mesmes en des rencontres également importantes et inopinées. Aussi vous avez, Monseigneur, une presence d’Esprit, qui trompe ses Auditeurs, et qui leur fait prendre les belles choses que vous dites sur le champ, pour autant d’effets d’une profonde meditation. Vous disposez du cœur de quiconque vous preste l’oreille ; et changeant comme il vous plaist les volontez, vous faites cognoistre au besoin que pour maintenir les Peuples dans l’obeyssance, la force du discours n’est pas moins puissante que celle des Armes. Je m’estendrois davantage sur une matiere si ample ; et ferois voir que vous éclattez de tant de lumières, soit naturelles, soit acquises, que de quelque costé qu’on vous regarde, on demeure comme éblouy. Mais cette agreable Ennemie de vos loüanges, et des siennes mesmes, vostre Modestie, Monseigneur, me ferme la bouche, et me permet seulement de vous asseurer, que je suis avec autant de respect que de passion,</p>
         <p>De vostre Grandeur,</p>
@@ -9,6 +58,7 @@
         <p>De L’Estoille.</p>
       </div>
       <div xml:id="lettre">
+        <head>Lettre de Monsieur Linage de Vauciennes, <lb/>À <lb/>Monsieur de L’Estoille,</head>
         <p>Monsieur,</p>
         <p>Je ne scaurois m’empescher de vous dire le plaisir que je receus, il y a quelque temps, à la representation de vostre BELLE ESCLAVE. Ses chaines ont tant d’esclat, et ses plaintes tant de charmes, qu’il ne fut jamais de captivité plus brillante, ny de tristesse plus agreable. Elle ravit également, et les yeux et les oreilles ; Et je pense qu’on peut dire d’elle sans flatterie, ce qu’on a dit autrefois de la belle Panthée ; qu’il se trouvoit des Amans de ses larmes, et des Adorateurs de son desespoir. Certes jamais Scene ne fut si pompeuse ny si naturelle que celle de vostre Comedie ; l’Art et la Nature y estallent avec profusion leurs richesses ; et n’y voyant parestre que des objets d’estonnement, ou plutost de merveille, je me figurois d’estre au milieu de ce Temple d’Arcadie, où l’on avoit appliqué si subtilement un miroir, que de quelque costé qu’on se tournast, on n’y voyoit que des Dieux.</p>
         <p>Mais il n’y a plus rien aujourdhuy, qui eschappe à la censure des Critiques. Ils treuvent des taches en des corps qui ne sont que pureté et que lumière ; et disent qu’ils demeurent insensibles aux passions de vostre Heros et de vostre Heroïne, pour ce que les feintes ne les touchent point, et qu’ils sçavent bien que ce Prince et cette Princesse, n’ont jamais esté en effet ailleurs que dans vostre imagination.</p>
@@ -21,10 +71,14 @@
         <p>Mais nous ne tirons pas ce secours des pieces que nous inventons : ce ne sont que formes sans formes, qu’espaces vuides, que nous devons remplir de choses qui ne sont point en l’estre des choses ; nostre esprit n’y treuve ny modelle, ny soustien : il s’appuye sur ses propres forces, et il est tout ensemble, et le Peintre et le Tableau de ses ouvrages ; Enfin il fait en soy-mesme ce que Dieu fit autresfois hors de soy ; Il donne l’estre à des merveilles qu’il appelle du neant, et tire de soy sans nul secours ce que sa raison debite à tous les hommes.</p>
         <p>Est-il donc possible, Monsieur, que vos Censeurs se persuadent, qu’il n’y a presque ny peine, ny gloire à faire une chose qui nous égale en quelque sorte à la Toute-puissance ? Certes, il ne fut jamais de creance plus erronée que la leur : mais il ne s’en faut pas estonner ; l’Esprit a ses maladies comme le Corps, et la plus incurable de toutes est l’opinion. Toutefois s’ils desirent de sortir d’erreur, ils n’ont qu’à travailler à l’invention de quelque beau sujet de Theatre ; ils reconnoistront bien-tost la difficulté de l’Ouvrage par la foiblesse de l’Ouvrier. Ils broncheront à chaque pas, n’estans plus appuyer de l’Histoire ; et ces Anthées perdront l’haleine si tost qu’ils perdront la Terre. Alors ils quitteront leurs sentimens, pour prendre les miens, ou confesseront que LA BELLE ESCLAVE ne vous a pas cousté si peu comme ils se figurent. Les Chefs-d’œuvres ne se font pas facilement ; et je ne m’y connois point, ou jamais il n’en fut un plus achevé que celuy-cy. Mais employer des couleurs si sombres que les miennes à peindre en raccourcy dans une Lettre cette adorable Captive, c’est imiter les Astrologues, qui mesurent la Lune par l’ombre de la terre, et la terre par un poinct.</p>
       </div>
-      <div type="set" xml:id="acteurs"/>
+      <div type="set" xml:id="acteurs">
+        <head>ACTEURS.</head>
+      </div>
       <div xml:id="I" type="act">
         <pb n="A1"/>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="alphonse">
             <l n="1" xml:id="l1" part="I">Ha ! Laisse moy mourir.</l>
           </sp>
@@ -181,6 +235,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE DEUXIEME.</head>
           <pb n="8" xml:id="p8"/>
           <sp xml:id="I02-1" who="le-roy">
             <l part="F">Alphonse, approchez-vous,</l>
@@ -211,6 +266,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE TROISIEME.</head>
           <sp xml:id="I03-1" who="alphonse">
             <l n="137" xml:id="l137">Hé ! celle que voicy c’est ma Sœur elle-mesme.</l>
           </sp>
@@ -472,7 +528,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>ACTE SECOND.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <pb n="20" xml:id="p20"/>
           <sp xml:id="II01-1" who="haly">
             <l n="327" xml:id="l327">Que faites-vous, Madame, helas ! à quel <ref target="#dessein">dessein*</ref></l>
@@ -522,6 +580,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE DEUXIEME.</head>
           <sp xml:id="II02-1" who="clarice">
             <l part="F">Mais Alphonse souspire ;</l>
             <l n="359" xml:id="l359">Qui vous a si long-temps loin de moy retenu ?</l>
@@ -585,6 +644,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE TROISIEME.</head>
           <pb n="D25"/>
           <sp xml:id="II03-1" who="alphonse">
             <l n="387" xml:id="l387">Hé bien ! Madame, enfin faut-il vivre ou mourir ?</l>
@@ -705,6 +765,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE QUATRIEME.</head>
           <pb n="30" xml:id="p30"/>
           <sp xml:id="II04-1" who="alphonse">
             <l n="462" xml:id="l462" part="I">Ha ! malheureux depart.</l>
@@ -835,6 +896,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE CINQUIEME.</head>
           <sp xml:id="II05-1" who="alphonse">
             <l part="F">Quoy, déja nous quitter ?</l>
           </sp>
@@ -878,6 +940,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE SIXIEME.</head>
           <sp xml:id="II06-1" who="alphonse">
             <l n="555" xml:id="l555">Qu’un <ref target="#barbare">Barbare*</ref>, un Tyran tienne esclave un <ref target="#objet2">objet*</ref></l>
             <l n="556" xml:id="l556">Dont tout le Monde entier devroit estre sujet !</l>
@@ -986,7 +1049,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>ACTE TROISIEME.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <pb n="42" xml:id="p42"/>
           <sp xml:id="III01-1" who="la-reyne">
             <l n="629" xml:id="l629">Ouy, se disant adieu tous deux versoient des larmes,</l>
@@ -1031,6 +1096,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE DEUXIEME.</head>
           <pb n="44" xml:id="p44"/>
           <sp xml:id="III02-1" who="alphonse">
             <l n="661" xml:id="l661">Grand Roy, puisque mes vœux, mes soûpirs, et mes larmes</l>
@@ -1289,6 +1355,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE TROISIEME.</head>
           <sp xml:id="III03-1" who="haly">
             <l n="873" xml:id="l873">Sire, je suis coupable, et j’apporte ma teste ;</l>
             <l n="874" xml:id="l874">Au supplice mortel la voicy toute preste.</l>
@@ -1335,6 +1402,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE QUATRIEME.</head>
           <sp xml:id="III04-1" who="alphonse">
             <l n="901" xml:id="l901">Elle a donc de ses jours terminé la <ref target="#carriere">carriere*</ref>,</l>
             <l n="902" xml:id="l902">Et les flots ont esteint mon unique lumiere :</l>
@@ -1416,7 +1484,9 @@
         </div>
       </div>
       <div xml:id="IV" type="act">
+        <head>ACTE QUATRIEME.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="fernand">
             <l n="953" xml:id="l953">Où dois-je encore aller ? prenons un peu d’haleine,<pb n="60" xml:id="p60"/></l>
             <l n="954" xml:id="l954">Mon cœur tout halletant ne respire qu’à peine ;</l>
@@ -1471,6 +1541,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE DEUXIEME.</head>
           <sp xml:id="IV02-1" who="haly">
             <l part="F">D’où vient donc sa <ref target="#furie">furie*</ref> ?</l>
             <l n="994" xml:id="l994">Est-ce à moy qu’il en veut ? sçait-il ma <ref target="#tromperie">tromperie*</ref> ?</l>
@@ -1676,6 +1747,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE TROISIEME.</head>
           <sp xml:id="IV03-1" who="haly">
             <l part="F">O malheur ! Alphonse arrive aussi,</l>
             <l n="1133" xml:id="l1133">Et je voy dans ses yeux mon crime, et mon supplice ;</l>
@@ -1780,6 +1852,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE QUATRIEME.</head>
           <pb n="75" xml:id="p75"/>
           <sp xml:id="IV04-1" who="haly">
             <l part="F">Que cét affront me <ref target="#piquer">pique*</ref> !</l>
@@ -1869,7 +1942,9 @@
         </div>
       </div>
       <div xml:id="V" type="act">
+        <head>ACTE CINQUIEME.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <pb n="79" xml:id="p79"/>
           <sp xml:id="V01-1" who="alphonse">
             <l n="1261" xml:id="l1261">Ha ! je l’y cherche en vain, on l’en a retirée,</l>
@@ -1947,6 +2022,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE DEUXIEME.</head>
           <sp xml:id="V02-1" who="le-roy">
             <l n="1315" xml:id="l1315">Qui de vous deux enfin treuveray-je <ref target="#imposteur">Imposteur*</ref> ?</l>
           </sp>
@@ -2045,6 +2121,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE TROISIEME.</head>
           <sp xml:id="V03-1" who="le-roy">
             <l part="F"><ref target="#etrange">Estrange*</ref><ref target="#reverie">réverie*</ref> !</l>
             <l n="1387" xml:id="l1387">Le croiriez-vous, Madame, à moins que de le voir,</l>
@@ -2288,6 +2365,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE QUATRIEME.</head>
           <sp xml:id="V04-1" who="alphonse">
             <l n="1557" xml:id="l1557" part="I">O <ref target="#ciel2">Ciel*</ref> ! c’est elle-mesme.</l>
           </sp>
@@ -2392,6 +2470,7 @@
         </div>
       </div>
       <div>
+        <head>Extraict du privilege du Roy</head>
         <p>Par grace et Privilege de sa Majesté donné a Paris au Moys de Mars 1643. signé, par le Roy en son Conseil, Conrars, et scellé du grand sceau de cire jaune, Il est permis au Sieur de L’Estoille de faire imprimer la Tragicomedie nommée La belle Esclave, par luy composée, et ce dis nouveaux Caracteres inventez par P. Moreau, Me Escrivain, Juré à paris, et Imprimeur ordinaire du Roy, et non d’autres, durant le temps de cinquante, avec deffences a tous Imprimeur et Libraires de la contrefaire, ny Imprimé en quelque sorte de Caractere que ce soit, à paine de confiscation des Exemplaires, de six mil livres d’amende, et autres peines contenues.</p>
         <p>Duquel privilege cy-dessus le dit Sieur de l’Estoille a ceddé ses droits aux Moreau, pour icelle Imprimer, Teindre et distribuer à telles personnes que bon lui semblera.</p>
         <p>Achevé d’imprimer le dernier Octobre 1643.</p>

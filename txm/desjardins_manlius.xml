@@ -1,9 +1,69 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Manlius. Tragi-comédie</title>
+        <author key="Villedieu, Marie-Catherine de (1640?-1683)">Mademoiselle Desjardins</author>
+        <principal>Georges Forestier</principal>
+        <editor>Hélène Canini</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Hélène Canini dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2007-2008)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/desjardins_manlius/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/desjardins_manlius.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/desjardins_manlius.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/desjardins_manlius.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/desjardins_manlius.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1662"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>MANLIUS <lb/>TRAGI-COMEDIE.</head>
       <div xml:id="epitre">
+        <head>A <hi rend="b">MADEMOISELLE</hi></head>
         <p>MADEMOISELLE,</p>
         <p rend="i">Les hommages que vostre ALTESSE ROYALE reçoit tous les jours, me deffendent presque d’esperer, que mes respects ne puissent trouver place parmy la foule des Illustres* adorateurs de vostre Vertu : Je crains avec raison, ce me semble, d’estre étouffée dans cette <ref target="#glorieux">glorieuse*</ref><ref target="#presse">presse*</ref>. Mais il faut oser quelque chose pour s’acquitter de son devoir, et toutes les Augustes qualitez de vostre Personne Royale, ont fait une si douce violence à nostre jeune Manlius, que, sans considerer ses deffauts, il vient audacieusement se jeter aux pieds de la plus merveilleuse Princesse qui soit aujourd’huy dans le monde. En vain je luy ay representé qu’en ces rencontres, il faut pour le moins estre conduit par ces grands Auteurs que leur merite a rendus les Roys du Théatre; Que dans une si haute entreprise les applaudissements vulgaires  sont un foible appuy, &amp; que les lumieres de vôtre ALTESSE ROYALE ne trouvent rien qu’elles ne penetrent. </p>
+        <quote>
+          <l n="1">Il dit que par tout l’Univers,</l>
+          <l n="2">On sçait que Manlius estoit un <ref target="#temeraire">temeraire*</ref>,</l>
+          <l n="3">Qu'il eut tousjours ce caractère,</l>
+          <l n="4">Et dans l’Histoire, &amp; dans mes Vers,</l>
+          <l n="5">Et que, deut-il servir mille fois de victime;</l>
+          <l n="6">A l’austere <ref target="#severite2">severité*</ref>,</l>
+          <l n="7">Il veut faire advouër à la Posterité,</l>
+          <l n="8">Que souvent ce n’est pas un crime</l>
+          <l n="9">Qu'une heureuse temerité.</l>
+        </quote>
         <p rend="i">C’est, MADEMOISELLE, dans cette pensée qu’il a eu l’<ref target="#audace1">audace</ref> d’abuser de vostre bonté en dérobant à vostre ALTESSE ROYALE quelques heures de son loisir, et c’est par ce mesme <ref target="#mouvement2">mouvement*</ref> qu’il ose aujourd’huy vous demander l’honneur de vostre Protection. S'il est si heureux que de l’obtenir, elle luy donnera une vie dans les Siecles à venir, beaucoup plus Illustre* que la vie que je luy ay donnée dans ce Poëme. Tel a blâmé mon indulgence, qui la trouvera digne d’une loüange immortelle, quand il sçaura que ce Heros devoit un jour estre avoüéde vostre ALTESSE ROYALE. Apres cela n’est-il pas vray de dire, qu’il y a des temeritez si heureuses qu’elles ne sont jamais criminelles ? Et ne dois-je pas esperer, que sur un exemple si fameux, il me sera permis de me dire, </p>
         <p>MADEMOISELLE,</p>
         <p>De Vostre Altesse,</p>
@@ -11,10 +71,14 @@
         <p rend="right">&amp; tres-soûmise servante,</p>
         <p rend="right">DES JARDINS.</p>
       </div>
-      <div xml:id="personnages"/>
+      <div xml:id="personnages">
+        <head>PERSONNAGES.</head>
+      </div>
       <div type="act" xml:id="I">
         <pb n="A, 1" xml:id="p1"/>
+        <head>ACTE I.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE I.</head>
           <sp who="camille" xml:id="I01-1">
             <l n="1" xml:id="l1">Puis-je <ref target="#croire1">croire</ref>, Pison, cette estrange nouvelle ?</l>
           </sp>
@@ -43,6 +107,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp who="torquatus" xml:id="I02-1">
             <l n="21" xml:id="l21">Quoy, si matin, Madame, estre hors de la Tente ?</l>
             <l n="22" xml:id="l22">Qui vous peut aujourd’huy rendre si diligente ?</l>
@@ -164,6 +229,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <sp who="torquatus" xml:id="I03-1">
             <l part="F">            He bien, belle <ref target="#inhumaine">inhumaine*</ref>,</l>
             <l n="114" xml:id="l114">Ne vous rendrez vous point à la grandeur Romaine ?</l>
@@ -273,6 +339,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <pb n="10"/>
           <sp who="omphale" xml:id="I04-1">
             <l n="205" xml:id="l205">Voila pour me <ref target="#charmer2">charmer</ref> un aymable langage,</l>
@@ -327,6 +394,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V.</head>
           <pb n="12"/>
           <sp who="manlius" xml:id="I05-1">
             <l n="244" xml:id="l244"><ref target="#croire1">Croyez</ref>-en vostre cœur, s’il vous en parle mieux,</l>
@@ -431,6 +499,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI.</head>
           <pb n="16"/>
           <sp who="omphale" xml:id="I06-1">
             <l n="329" xml:id="l329">Ha ! que tu connois mal le destin qui t’accable,</l>
@@ -461,7 +530,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="17"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE I.</head>
           <sp who="torquatus" xml:id="II01-1">
             <l n="351" xml:id="l351">Vertu, Romains, Senat, Loix, devoir trop <ref target="#severe">severe*</ref>,</l>
             <l n="352" xml:id="l352">Qui voulez arracher Manlius à son Pere !</l>
@@ -505,6 +576,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II.</head>
           <sp who="junius" xml:id="II02-1">
             <l n="390" xml:id="l390">Seigneur, c’est Manlius qui demande à vous voir :</l>
           </sp>
@@ -513,6 +585,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp who="torquatus" xml:id="II03-1">
             <l n="392" xml:id="l392">Venez-vous demander un ordre pour <ref target="#combattre1">combattre*</ref>,</l>
             <l n="393" xml:id="l393">Ou si vous avez crû que parmy les Romains,</l>
@@ -573,6 +646,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV.</head>
           <sp who="torquatus" xml:id="II04-1">
             <l part="F">            Quelle arrogance !</l>
             <l n="436" xml:id="l436">A peine obtiendra-t-il de son obeïssance,</l>
@@ -700,6 +774,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <pb n="26"/>
           <sp who="torquatus" xml:id="II05-1">
             <l n="536" xml:id="l536">Quel sujet dans ce lieu vous ameine ?</l>
@@ -764,6 +839,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI.</head>
           <sp who="camille" xml:id="II06-1">
             <l n="577" part="I" xml:id="l577">Je vous cherchois, Omphale :</l>
           </sp>
@@ -873,7 +949,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="32" xml:id="p32"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp who="camille" xml:id="III01-1">
             <l n="644" xml:id="l644">Qu'ay-je entendu ? Grands Dieux ! &amp; que me dit Omphale ?</l>
             <l n="645" xml:id="l645"><ref target="#croire1">Croire</ref> que Torquatus à ce point se ravale ?</l>
@@ -928,6 +1006,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <pb n="34"/>
           <sp who="camille" xml:id="III02-1">
             <l n="694" xml:id="l694">J'ay sçeu jeune Heros qu’un outrageant mépris,</l>
@@ -1087,6 +1166,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <pb n="39"/>
           <sp who="manlius" xml:id="III03-1">
             <l n="820" xml:id="l820">O Sort vrayement cruel ! ô <ref target="#funeste">funeste*</ref> avanture !</l>
@@ -1131,6 +1211,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <pb n="41"/>
           <sp who="manlius" xml:id="III04-1">
             <l n="859" xml:id="l859">Ah, Madame, venez soûtenir ma Vertu</l>
@@ -1283,6 +1364,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <pb n="46"/>
           <sp who="manlius" xml:id="III05-1">
             <l n="976" xml:id="l976">Aime &amp; te sauve, helas ! dans un sort si contraire,</l>
@@ -1299,7 +1381,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="47" xml:id="p47"/>
+        <head>ACTE IV.  </head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp who="torquatus" xml:id="IV01-1">
             <l n="984" xml:id="l984">Tu mourras, tu mourras, ô fils trop <ref target="#temeraire">temeraire*</ref></l>
             <l n="985" xml:id="l985">Dont les <ref target="#feu1">feux*</ref> insensez ont osé me déplaire.</l>
@@ -1355,6 +1439,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II.</head>
           <sp who="camille" xml:id="IV02-1">
             <l part="M">        Seigneur.</l>
           </sp>
@@ -1460,6 +1545,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <pb n="53"/>
           <sp who="junius" xml:id="IV03-1">
             <l part="F">            Manlius a des gardes ;</l>
@@ -1495,6 +1581,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV.</head>
           <sp who="torquatus" xml:id="IV04-1">
             <l n="1143" xml:id="l1143">Dieux ! l’horrible tourment qu’un pareil entretien !</l>
             <l n="1144" xml:id="l1144">Sa raison est sujette à certaines <ref target="#alarme">alarmes*</ref> ,</l>
@@ -1646,6 +1733,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V.</head>
           <sp who="torquatus" xml:id="IV05-1">
             <l n="1280" xml:id="l1280">Helas ! que je suis loing de ce bon-heur supréme !</l>
             <l n="1281" xml:id="l1281">Et que mon cœur est peu d’accord avec luy-mesme,</l>
@@ -1661,7 +1749,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="60"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp who="omphale" xml:id="V01-1">
             <l n="1288" xml:id="l1288">Quoy* donc, Seigneur vostre ame est elle inexorable ?</l>
             <l n="1289" xml:id="l1289">Faut-il laisser mourir cét illustre* coupable ?</l>
@@ -1737,6 +1827,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp who="pison" xml:id="V02-1">
             <l part="M">        Seigneur.</l>
           </sp>
@@ -1836,6 +1927,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <pb n="66"/>
           <sp who="omphale" xml:id="V03-1">
             <l n="1388" part="I" xml:id="l1388">Que de trouble je sens ! ah ! Seigneur.</l>
@@ -1994,6 +2086,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV.</head>
           <pb n="71"/>
           <sp who="camille" xml:id="V04-1">
             <l n="1499" xml:id="l1499">Ha, Consul ! ah, Cruel ! ton fils va donc perir !</l>
@@ -2005,6 +2098,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V.</head>
           <pb n="72"/>
           <sp who="junius" xml:id="V05-1">
             <l n="1505" xml:id="l1505">Seigneur, il seroit bon de veiller sur l’armée ;</l>
@@ -2016,6 +2110,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI.</head>
           <pb n="G, p. 73"/>
           <sp who="torquatus" xml:id="V06-1">
             <l n="1511" part="I" xml:id="l1511">Voicy Pison. Mon fils ?</l>
@@ -2083,6 +2178,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII.</head>
           <pb n="76"/>
           <sp who="manlius" xml:id="V07-1">
             <l part="M">        Seigneur…..</l>
@@ -2178,6 +2274,7 @@
         </div>
       </div>
       <div>
+        <head>Extrait du Privilege du Roy.</head>
         <p>Par grace &amp; privilege du Roy, donné à Paris le 28. Septembre 1662, signé GUYTONNEAU. Il est permis à Claude Barbin, Marchand Libraire à Paris, de faire imprimer une piece de Theatre intitulée <hi rend="i">Manlius Torquatus</hi>, pendant l’espace de sept années, &amp; deffences sont faites à tous autres de l’imprimer, sur peine de deux mille livres d’amende, &amp; de tous dépens dommages et interests, comme il est porté plus amplement par lesdites Lettres.</p>
         <p>Et ledit Barbin a fait part du present Privilege à Gabriel Quinet, &amp; Gabriel Quinet, à Guillaume de Luyne, pour en jouyr, suivant l’accord fait entr’eux.</p>
         <p rend="i">Registré sur le Livre de la Communauté le dixiesme Octobre 1662, signé,</p>

@@ -1,7 +1,48 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Zaïde. Tragédie</title>
+        <author>La Chapelle</author>
+        <editor>NC</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition/>
+        <respStmt>
+          <name>Georges Forestier</name>
+          <resp>CELLF 16e-18e/Université Paris-Sorbonne</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>publié par Amélie Canu pour le CELLF 16e-18e</publisher>
+        <date when="2016"/>
+        <idno>?</idno>
+        <availability status="restricted">
+          <licence target="?">CELLF 16e-18e</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1681"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>ZAÏDE.<lb/>TRAGEDIE.</head>
       <div xml:id="preface">
+        <head>Préface</head>
         <pb n="I-a" xml:id="pI"/>
         <p>Cette Pièce est d’un caractere si singulier, qu’il y avoit lieu de craindre qu’elle ne fût pas au goust de tout le monde ; il est aisé de se perdre lors qu’on veut s’écarter des routes ordinaires : Cependant je dois estre assez content du succez de Zaïde.</p>
         <p>Ce n’est pas qu’on n’ait fait beaucoup de remarques tres judicieuses, &amp; qu’il n’y ait beaucoup de fautes que j’ay connuës moy-mesme &amp; dont je suis tombé d’accord avec les gens de bonne foy ; mais je ne pense pas que quelques legeres imperfections doivent faire condamner un ouvrage.</p>
@@ -10,6 +51,7 @@
         <p>Voila les deux objections qui ont fait le plus de bruit dans le monde. Je pense y avoir assez bien répondu, &amp; je croy qu’on me dispensera volontiers de faire une grande dissertation pour répondre aux autres qui m’ont paru de moindre consequence : Les Prefaces ne sont guere de mon goust, &amp; il me semble que celle-cy est déja trop longue.</p>
       </div>
       <div xml:id="privilege">
+        <head>Extrait du Privilege du Roy</head>
         <pb n="V" xml:id="pV"/>
         <p>Par grace &amp; privilege du Roy, donné à saint Germain en Laye le treiziéme de Mars 1681. signé par le Roy en son Conseil, GAMART : Il est permis au Sieur de la Chapelle de faire imprimer, vendre, &amp; debiter par tel Libraire ou Imprimeur qu’il voudra choisir une Tragedie de sa composition, intitulée, <hi rend="i">Zaïde</hi> : Pendant le temps de six années, à compter du jour qu’elle sera achevée d’imprimer pour la premiere fois ; &amp; défence sont faites à toutes personnes de l’imprimer ou faire imprimer, vendre ny debiter d’autre Edition que celle de l’Exposant, ou ceux qui auront droit de luy, à peine de trois mille livres d’amende, confiscation des exemplaires contre-faits, &amp; de tous <ref target="#depens">dépens*</ref>, dommages &amp; interests ; ainsi qu’il est porté plus au long par lesdites lettres de privilege.</p>
         <p>Et ledit Sieur de la Chapelle a cedé &amp; transporté son droit de Privilege à Jean Ribou pour en joüir par luy, suivant l’accord fait entr’eux.</p>
@@ -17,11 +59,14 @@
         <p>Achevé d’imprimer pour la premiere fois le vingtiéme de Mars 1681.</p>
       </div>
       <div>
+        <head>ACTEURS</head>
         <pb n="VI" xml:id="pVI"/>
       </div>
       <div type="act">
+        <head>ACTE I.</head>
         <div type="scene">
           <pb n="1, A" xml:id="p1"/>
+          <head>SCENE I.</head>
           <sp who="zulemar">
             <l n="1" xml:id="l1">La princesse Fatime, Osmar, est chez le Roy ?</l>
             <l n="2" xml:id="l2">Tu dis qu’en la quittant il veut parler à moy.</l>
@@ -35,6 +80,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE II</head>
           <pb n="2" xml:id="p2"/>
           <sp who="zulemar">
             <l n="5" xml:id="l5">Tu t’étonnes, Amy, des honneurs qu’on me rend.</l>
@@ -214,6 +260,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE III</head>
           <pb n="7" xml:id="p7"/>
           <sp who="abderamen">
             <l n="144" xml:id="l144">Scavez-vous qu’Alamir a quitté mon Armée,</l>
@@ -281,6 +328,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE IV</head>
           <pb n="9" xml:id="p9"/>
           <sp who="abderamen">
             <l n="187" xml:id="l187">Quoy qu’ait fait d’Alamir la valeur <ref target="#sans-seconde">sans seconde*</ref>,</l>
@@ -306,6 +354,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE V</head>
           <pb n="10" xml:id="p10"/>
           <sp who="zulemar">
             <l n="207" xml:id="l207">Qu’entens-je ! A quel employ me vois-je destinée ?</l>
@@ -338,6 +387,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE VI</head>
           <sp who="fatime">
             <l n="234" xml:id="l234">Dois-je croire, Seigneur, ce que m’apprend le Roy :</l>
             <l n="235" xml:id="l235">Alamir s’est trouvé digne de vostre estime,</l>
@@ -431,6 +481,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE VII</head>
           <pb n="14" xml:id="p14"/>
           <sp who="zulemar">
             <l n="303" xml:id="l303">Elle me quitte. Où suis-je, &amp; que viens-je d’apprendre !</l>
@@ -465,7 +516,9 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE II</head>
         <div type="scene">
+          <head>SCENE I</head>
           <sp who="alamir">
             <l n="327" xml:id="l327">Non, ne nous flattons point d’une vaine esperance,</l>
             <l n="328" xml:id="l328">Plus mes exploits sont grands, plus mon retour l’offense ;</l>
@@ -560,6 +613,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE II</head>
           <sp who="fatime">
             <l n="402" xml:id="l402">Que voy-je, est-ce Alamir, en croiray-je mes yeux ?</l>
             <l n="403" xml:id="l403">Sans suite, sans éclat, quel retour, quel silence !</l>
@@ -632,6 +686,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE III</head>
           <sp who="alamir">
             <l n="452" xml:id="l452">Ah! Gazul, mon soupçon n’est que trop veritable,</l>
             <l n="453" xml:id="l453">Lors qu’un bruit incertain m’aprit qu’en cette Cour,</l>
@@ -665,6 +720,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE IV</head>
           <sp who="osmar">
             <l part="F">Seigneur, le Roy vous défent de le voir.</l>
           </sp>
@@ -688,6 +744,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE V</head>
           <sp who="zulemar">
             <l part="F">Laissez-nous,</l>
             <l n="483" xml:id="l483">Seigneur, avant qu’icy ma bouche vous explique</l>
@@ -773,6 +830,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE VI</head>
           <sp who="abendax">
             <l part="F">Vous le voyez ; une haine invincible</l>
             <l n="556" xml:id="l556">A toutes vos bontez rend son coeur insensible :</l>
@@ -813,6 +871,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE VII</head>
           <pb n="26" xml:id="p26"/>
           <sp who="fatime">
             <l n="583" xml:id="l583">Du destin d’Alamir, Seigneur, daignez m’instruire ;</l>
@@ -892,8 +951,10 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE III </head>
         <div type="scene">
           <pb n="29" xml:id="p29"/>
+          <head>SCENE I</head>
           <sp who="zulemar">
             <l n="639" xml:id="l639">Oüy tu verras changer le destin qui m’accable;</l>
             <l n="640" xml:id="l640">Fatime à mes desseins veut estre favorable,</l>
@@ -925,6 +986,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE II</head>
           <sp who="zulemar">
             <l n="666" xml:id="l666">Seigneur dans un moment vous allez voir le Roy,</l>
             <l n="667" xml:id="l667">J’ay flechy son esprit, j’ay vaincu sa colere,</l>
@@ -951,6 +1013,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE III</head>
           <sp who="alamir">
             <l part="M">Seigneur...</l>
           </sp>
@@ -1096,6 +1159,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE IV</head>
           <sp who="alamir">
             <l part="F">Qu’ay-je à craindre en l’état où je suis :</l>
             <l n="802" xml:id="l802">Est-il quelques malheurs plus grands que mes <ref target="#ennuy">ennuys*</ref> ?</l>
@@ -1110,6 +1174,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE V</head>
           <sp who="fatime">
             <l n="811" xml:id="l811">Ah ! que viens-je de voir ? Seigneur, le Roy vous quitte.</l>
             <l n="812" xml:id="l812">Le front triste, la veüe égarée, interdite,</l>
@@ -1172,6 +1237,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE VI</head>
           <sp who="alamir">
             <l n="859" xml:id="l859">Où suis-je, juste Ciel ! L’ay-je bien <ref target="#entendre2">entenduë*</ref>?</l>
             <l n="860" xml:id="l860">Fatime se declare infidelle à ma veuë.</l>
@@ -1182,6 +1248,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE VII</head>
           <pb n="38" xml:id="p38"/>
           <sp who="osmar">
             <l part="F">Seigneur, donnez moy vostre épée :</l>
@@ -1207,6 +1274,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE VIII</head>
           <pb n="39" xml:id="p39"/>
           <sp who="zulemar">
             <l part="F">Arrestez.</l>
@@ -1272,6 +1340,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE IX</head>
           <pb n="41" xml:id="p41"/>
           <sp who="zulemar">
             <l n="917" xml:id="l917">Va, cours, marche au devant d’un trépas asseuré</l>
@@ -1293,8 +1362,10 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE IV</head>
         <div type="scene">
           <pb n="42" xml:id="p42"/>
+          <head>SCENE I</head>
           <sp who="zindarize">
             <l n="931" xml:id="l931">Ouy, Madame, avec soin les portes sont gardées</l>
             <l n="932" xml:id="l932">D’armes &amp; de Soldats, les places sont bordées,</l>
@@ -1341,6 +1412,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE II</head>
           <pb n="44" xml:id="p44"/>
           <sp who="abderamen">
             <l n="969" xml:id="l969">Tandis que mes Sujets sont dans l’<ref target="#etonner1">étonnement*</ref>,</l>
@@ -1463,6 +1535,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE III</head>
           <sp who="zulemar">
             <l part="M">Seigneur.</l>
           </sp>
@@ -1562,6 +1635,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE IV</head>
           <sp who="osmar">
             <l part="F">Seigneur,</l>
             <l n="1135" xml:id="l1135">Les Juges d’Alamir ont suivant nos maximes,</l>
@@ -1574,6 +1648,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE V</head>
           <pb n="51" xml:id="p51"/>
           <sp who="abderamen">
             <l n="1139" xml:id="l1139">Pensez-vous que cedant à vos lâches <ref target="#envie">envies*</ref>,</l>
@@ -1583,6 +1658,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE VI</head>
           <sp who="abderamen">
             <l n="1143" xml:id="l1143">Rendez graces au Ciel, dont la bonté m’éclaire,</l>
             <l n="1144" xml:id="l1144">Alamir, &amp; dissipe une injuste colère.</l>
@@ -1666,8 +1742,10 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE V</head>
         <div type="scene">
           <pb n="54" xml:id="p54"/>
+          <head>SCENE I</head>
           <sp who="abendax">
             <l n="1211" xml:id="l1211">Venez. Auprés de vous le Roy mesme m’envoye,</l>
             <l n="1212" xml:id="l1212">Sans témoins en ces lieux il veut que je vous voye,</l>
@@ -1742,6 +1820,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE II</head>
           <sp who="osmar">
             <l part="F">Si vous voulez sa grace,</l>
             <l n="1264" xml:id="l1264">Le Roy vous la promet, il est rien qu’il ne fasse,</l>
@@ -1755,6 +1834,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE III</head>
           <pb n="57" xml:id="p57"/>
           <sp who="fatime">
             <l part="F">He, bien pour m’avoir trop sceu plaire,</l>
@@ -1822,6 +1902,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE IV</head>
           <pb n="59" xml:id="p59"/>
           <sp who="zulemar">
             <l n="1321" xml:id="l1321">Alamir, quel dessein porte vers moy tes pas,</l>
@@ -1954,6 +2035,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE V</head>
           <sp who="zulemar">
             <l n="1421" xml:id="l1421" part="I">Qu’est-ce, Osmar.</l>
           </sp>
@@ -1981,6 +2063,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>SCENE VI</head>
           <sp who="zulemar">
             <l n="1441" xml:id="l1441">Seigneur, après l’abus commis aux yeux de tous ;</l>
             <l n="1442" xml:id="l1442" part="I">De quel <ref target="#front">front*</ref> puis-je icy paroistre ?</l>

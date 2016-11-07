@@ -1,7 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Marie Stuard, Reine d'Écosse. Tragédie</title>
+        <author key="Boursault, Edme (1638-1701)">Edme Boursault</author>
+        <editor>Chloé Le Vaguerès</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Chloé Le Vaguerès dans le cadre d'un mémoire de
+          master 1 sous la direction de Georges Forestier (2002-2003)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/boursault_marie-stuard/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boursault_marie-stuard.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boursault_marie-stuard.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boursault_marie-stuard.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boursault_marie-stuard.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1691">1691</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>MARIE STUARD, REINE D’ÉCOSSE. <hi rend="i">TRAGÉDIE.</hi></head>
       <div xml:id="dedicace">
+        <head>A MONSEIGNEUR LE DUC DE ST AIGNAN, PAIR DE FRANCE, Chevalier des Ordres du Roy, Premier Gentilhomme de la Chambre, Gouverneur et Lieutenant General pour sa Majesté de la Ville, Citadelle et Province du Havre.</head>
         <p>MONSEIGNEUR,</p>
         <p>Je ne sçay point imiter ces Ecrivains qui par d’ingenieux mensonges accablent de loüanges</p>
         <p>des Personnes qui ne les meritent pas. Je ne diray rien icy à vostre Gloire que /[I] [a ij]/ ce que la Verité a pris soin de m’en apprendre : mais les Vertus qu’on ne peut vous contester vaudront bien aux yeux de la Postérité celles qu’on invente pour les autres. Se fasse qui voudra des Heros de ces Favoris de la Fortune, qui élevez par son caprice ne manquent jamais de tomber par ses revolutions. Je sçay, MONSEIGNEUR, ce que Vous estes par le Sang dont Vous sortez : Comme il en est peu de plus illustre, il en est peu aussi qui soit dans une plus grande élevation ; mais dans quelque rang que Vous soyez, Vous n’en estes point redevable à la Fortune ; et s’il n’estoit attaché à vostre Naissance, l’Equité en auroit fait le prix de vostre Merite. La distinction dont Vous honore un Monarque, qui par ses Vertus se fait distinguer de tous les autres Rois de la Terre, dit bien mieux que je ne le pourrois faire quelles Qualitez Vous devez avoir pour la meriter : Il y a peu de personnes à sa Cour pour qui son Estime se soit plus hautement déclarée ; Et si elle peut s’acquérir par le Zele le plus pur qui ait jamais esté, &amp; par la Fidélité la plus incorruptible qui sera jamais, il n’y en a point dans tous ses Estats à qui elle soit mieux deüe qu’à Vous. Toûjours infatigable pour le service de sa Majesté, vostre Vigilance Vous fait trouver par tout, &amp; ne /[II]/ rencontre aucun obstacle qu’elle n’applanisse. Faut-il faire succeder les vertueux Plaisirs à ses Occupations héroiques, vostre Esprit, dont les lumières sont si étendües, ajoûte des beautez à ce que font de plus achevé les plus sçavans Maistres : Faut-il travailler pour sa Gloire, vostre Valeur ne peut souffrir que Vous Vous reposiez sur les Lauriers que Vous avez cueillis tant que Vous trouvez à en cueillir de nouveaux ; Et jamais homme n’a mieux justifié que Vous que le grand Génie &amp; le grand Courage ne sont pas incompatibles. Que la Medisance &amp; l’Envie examinent avec tant de severité qu’il leur plaira ce que je prens la liberté de dire de Vous, &amp; qu’elles m’accusent de flaterie si elles l’osent. A quelque insolence que leur inclination les porte, il est des Veritez qu’elles sont contraintes de respecter ; &amp; vostre Nom prononcé doit suffire pour leur imposer silence. C’est en vain, MONSEIGNEUR, qu’elles se sont déchainées avec tant d’impetuosité contre la Tragédie que je Vous presente : Les témoignages que Vous avez eu la bonté de rendre en sa faveur luy ont acquis une reputation à l’épreuve de leur traits les plus empoisonnez ; Et s’il m’est permis de rappeller le plaisir le plus sensible que j’aye eu de ma vie, les Larmes que Vous ne pûtes Vous /[III] [a iij]/ empêcher de répandre à la premiere lecture que j’en fis m’estoient d’illustres garens du succez qu’elle devoit avoir à la seconde. J'aurois assez de modestie pour ne pas Vous faire ressouvenir que Vous fustes témoin des applaudissemens que je receus, si le respect &amp; la reconnoissance ne m’obligeoient à deffendre les suffrages de tant de Personnes de la plus haute Qualité, &amp; du plus sublime Merite, qui ayant écouté mon Ouvrage sans prévention en dirent leur sentiment sans injustice. Il est vray,</p>
@@ -11,6 +61,7 @@
         <p rend="center">Vostre tres-humble, tres-obeïssant, &amp; tres-obligé Serviteur, <lb/>BOURSAULT.</p>
       </div>
       <div xml:id="privilege">
+        <head>Extrait du Privilege du Roy</head>
         <p>Par Lettres Patentes du Roy, données à Paris le deuxiéme jour de Decembre 1690. Signé BOUCHER, Il est permis au Sieur BOURSAULT, de faire imprimer par tel Libraire ou Imprimeur qu’il voudra choisir, une Piece de sa composition intitulée <hi rend="i">Marie Stuard Reine d’Ecosse,Tragedie</hi>, pendant le temps &amp; espace de huit années, à compter du jour qu’elle sera achevée d’imprimer : Avec deffences à tous Libraires, Imprimeurs &amp; autres, d’imprimer, faire imprimer, vendre ny debiter ladite Tragedie sous quelque pretexte que se soit, même d’impression étrangere sans le consentement dudit Exposant ou de ses ayant cause, à peine de confiscation des exemplaires contrefaits, de trois mille livres d’amende, &amp; de tous dépens, dommages &amp; interests, ainsi qu’il est plus au long porté par lesdites Lettres.</p>
         <p rend="center">
           <hi rend="i">Registré sur le Livre de la Communauté des Libraires <lb/>&amp; Imprimeurs de Paris, le 27. Mars 1691.</hi>
@@ -21,10 +72,14 @@
           <hi rend="i">Achevé d’imprimer le 20. Novembre 1691.</hi>
         </p>
       </div>
-      <div xml:id="acteurs" type="set"/>
+      <div xml:id="acteurs" type="set">
+        <head>ACTEURS.</head>
+      </div>
       <div xml:id="I" type="act">
         <pb n="A"/>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="le-comte-de-neucastel">
             <l n="1" xml:id="l1">Euric, dans ce Palais ne m’accompagnez pas.</l>
             <l n="2" xml:id="l2">Un Ordre <ref target="#expres">exprés*</ref> du Duc conduit icy mes pas.</l>
@@ -74,6 +129,7 @@
         </div>
         <div type="scene" xml:id="I02">
           <pb n="3" xml:id="p3"/>
+          <head>SCENE II</head>
           <sp xml:id="I02-1" who="le-duc-de-norfolc">
             <l n="41" xml:id="l41" part="I">Comte.</l>
           </sp>
@@ -295,6 +351,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <pb n="9" xml:id="p9"/>
+          <head>SCENE III</head>
           <sp xml:id="I03-1" who="le-comte-de-neucastel">
             <l n="207" xml:id="l207" part="I">He bien, Seigneur...</l>
           </sp>
@@ -459,6 +516,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV</head>
           <sp xml:id="I04-1" who="lancastre">
             <l part="F">Ah, Seigneur, hâtez-vous,</l>
             <l n="338" xml:id="l338">Et venez de la Reine appaiser le courroux.<pb n="Biiij 14" xml:id="p14"/></l>
@@ -498,7 +556,10 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="15" xml:id="p15"/>
+        <head>ACTE II
+        </head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="II01-1" who="elisabeth">
             <l n="363" xml:id="l363">Auriez-vous jamais crû qu’insensible à mes graces,</l>
             <l n="364" xml:id="l364">De tant de Conjurez il eût suivy les traces ?</l>
@@ -644,6 +705,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II</head>
           <sp xml:id="II02-1" who="elisabeth">
             <l n="467" xml:id="l467">He bien, Lancastre, hé bien, tu vois ce qui se passe :</l>
             <l n="468" xml:id="l468">Diroit-on que le Duc eût une ame si basse ?</l>
@@ -736,6 +798,7 @@
         </div>
         <div type="scene" xml:id="II03">
           <pb n="22" xml:id="p22"/>
+          <head>SCENE III</head>
           <sp xml:id="II03-1" who="le-duc-de-norfolc">
             <l n="536" xml:id="l536">Quoy, Madame, si tard n’estre pas retirée ?</l>
             <l n="537" xml:id="l537">Pendant qu’un plein repos regne dans vos Etats,</l>
@@ -792,6 +855,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="24" xml:id="p24"/>
+          <head>SCENE IV</head>
           <sp xml:id="II04-1" who="le-duc-de-norfolc">
             <l n="580" xml:id="l580">Me trompez-vous mes sens ! Ay-je entendu la Reine !</l>
             <l n="581" xml:id="l581">Quelle <ref target="#profusion">profusion*</ref> fait-elle en ma faveur !</l>
@@ -808,6 +872,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V</head>
           <sp xml:id="II05-1" who="euric">
             <l n="592" xml:id="l592">Dans son Appartement la Reine est retirée,</l>
             <l n="593" xml:id="l593">Seigneur ; &amp; tout conspire à remplir vos souhaits.</l>
@@ -823,6 +888,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI</head>
           <sp xml:id="II06-1" who="le-duc-de-norfolc">
             <l part="F">O Ciel ! voy pour qui je t’implore.</l>
             <l n="600" xml:id="l600">Avant que dans ce lieu tu rameines l’aurore</l>
@@ -833,6 +899,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE VII</head>
           <sp xml:id="II07-1" who="le-duc-de-norfolc">
             <l n="605" xml:id="l605">A la Reine d’Ecosse a-t-on manqué de foy ?</l>
             <l n="606" xml:id="l606" part="I">Parlez, Euric.</l>
@@ -847,6 +914,7 @@
         </div>
         <div type="scene" xml:id="II08">
           <pb n="26" xml:id="p26"/>
+          <head>SCENE VIII</head>
           <sp xml:id="II08-1" who="le-duc-de-norfolc">
             <l n="611" xml:id="l611" part="I">Venez, venez, Madame...</l>
           </sp>
@@ -868,6 +936,7 @@
         </div>
         <div type="scene" xml:id="II09">
           <pb n="27" xml:id="p27"/>
+          <head>SCENE IX</head>
           <sp xml:id="II09-1" who="killegre">
             <l n="620" xml:id="l620">Hola, Gardes ? A moy : l’on veut trahir la Reine.</l>
           </sp>
@@ -882,6 +951,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II10">
+          <head>SCENE X</head>
           <sp xml:id="II10-1" who="elisabeth">
             <l n="625" xml:id="l625">Quel desordre, si tard, ose-t-on faire icy ?</l>
             <l n="626" xml:id="l626">C'est vous Duc ! Juste Ciel ! mon Ennemie aussi !</l>
@@ -923,7 +993,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>ACTE III</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="III01-1" who="lancastre">
             <l n="651" xml:id="l651">Non, Madame, les Pairs ne viennent point encore.</l>
             <l n="652" xml:id="l652">Vous vous estes levée aussi-tost que l’Aurore.</l>
@@ -949,6 +1021,7 @@
         </div>
         <div type="scene" xml:id="III02">
           <pb n="30" xml:id="p30"/>
+          <head>SCENE II</head>
           <sp xml:id="III02-1" who="elisabeth">
             <l n="660" xml:id="l660">Comtes, depuis long-temps je connois vostre zele.</l>
             <l n="661" xml:id="l661">Vos voeux les plus ardents vont au bien de l’Etat ;</l>
@@ -963,6 +1036,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III</head>
           <sp xml:id="III03-1" who="elisabeth">
             <l part="F">Approchez, Duc. Si le Ciel l’eût permis</l>
             <l n="670" xml:id="l670">Vous alliez contre nous servir nos Ennemis.<pb n="S i 31" xml:id="p31"/></l>
@@ -1212,6 +1286,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV</head>
           <sp xml:id="III04-1" who="marie-stuard">
             <l n="882" xml:id="l882">He bien, Duc, vos bontez augmentent mes malheurs.<pb n="C iiij 38" xml:id="p38"/></l>
             <l n="883" xml:id="l883">Quelle fatalité vous inspira l’envie</l>
@@ -1359,6 +1434,7 @@
         </div>
         <div type="scene" xml:id="III05">
           <pb n="42" xml:id="p42"/>
+          <head>SCENE V</head>
           <sp xml:id="III05-1" who="killegre">
             <l n="1004" xml:id="l1004">Les Pairs sont assemblez, Seigneur, &amp; vous attendent.</l>
             <l n="1005" xml:id="l1005">On me vient d’ordonner dans le même moment</l>
@@ -1393,7 +1469,10 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="43" xml:id="p43"/>
+        <head>ACTE IV
+        </head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="IV01-1" who="le-comte-de-neucastel">
             <l n="1027" xml:id="l1027">Oüy, Seigneur, je vous plains, une cheute si prompte...</l>
           </sp>
@@ -1441,6 +1520,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <pb n="45" xml:id="p45"/>
+          <head>SCENE II</head>
           <sp xml:id="IV02-1" who="le-comte-de-morray">
             <l n="1060" xml:id="l1060">A <ref target="#prevenir">prevenir*</ref> nos voeux la Reine se dispose.</l>
             <l n="1061" xml:id="l1061">Tantôt dans la chaleur d’un aveugle courroux,</l>
@@ -1497,6 +1577,7 @@
         </div>
         <div type="scene" xml:id="IV03">
           <pb n="47" xml:id="p47"/>
+          <head>SCENE III</head>
           <sp xml:id="IV03-1" who="elisabeth">
             <l n="1104" xml:id="l1104">Ne vous opposez pas au penchant qui m’entraîne,</l>
             <l n="1105" xml:id="l1105">Comtes. Quelque fierté que m’inspire mon sang</l>
@@ -1543,6 +1624,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV</head>
           <sp xml:id="IV04-1" who="elisabeth">
             <l n="1135" xml:id="l1135">Un reste de bonté dont s’indigne mon ame,</l>
             <l n="1136" xml:id="l1136">Me fait faire des <ref target="#pas">pas*</ref> que j’ay peur qu’on ne blâme.</l>
@@ -1751,6 +1833,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V</head>
           <sp xml:id="IV05-1" who="elisabeth">
             <l part="F">Ah Ciel ! l’Ingrat n’hesite pas !</l>
             <l n="1302" xml:id="l1302">Ma Rivale à la mort va devancer tes pas,</l>
@@ -1766,6 +1849,7 @@
         </div>
         <div type="scene" xml:id="IV06">
           <pb n="55" xml:id="p55"/>
+          <head>SCENE VI</head>
           <sp xml:id="IV06-1" who="le-comte-de-morray">
             <l n="1311" xml:id="l1311">Ses ordres sont précis pour perdre sa Rivale,</l>
             <l n="1312" xml:id="l1312">Mais sa haine pour l’autre en paroles s’exhale :</l>
@@ -1804,7 +1888,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="57" xml:id="p57"/>
+        <head>ACTE V</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="V01-1" who="marie-stuard">
             <l n="1339" xml:id="l1339"> Quand il faudra partir je n’ay rien qui m’arreste.</l>
             <l n="1340" xml:id="l1340">Allez dire à vos Pairs que leur Victime est preste ,</l>
@@ -1847,6 +1933,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II</head>
           <sp xml:id="V02-1" who="marie-stuard">
             <l n="1367" xml:id="l1367">Approche, ingrat Sujet, dont la haine m’accable,</l>
             <l n="1368" xml:id="l1368">Viens me dire du moins dequoy je suis coupable.<pb n="59" xml:id="p59"/></l>
@@ -1896,6 +1983,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III</head>
           <sp xml:id="V03-1" who="le-comte-de-morray">
             <l part="F">Je sens mon cœur qui s’émeut, qui chancelle :</l>
             <l n="1408" xml:id="l1408">La voix de la nature au repentir m’appelle.</l>
@@ -1908,6 +1996,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV</head>
           <sp xml:id="V04-1" who="elisabeth">
             <l n="1415" xml:id="l1415">Comte, j’allois vous voir. Malgré toute ma haine</l>
             <l n="1416" xml:id="l1416">Je ne puis resister au remors qui me <ref target="#gesner">gêne*</ref>.<pb n="61" xml:id="p61"/></l>
@@ -2045,6 +2134,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V</head>
           <sp xml:id="V05-1" who="le-comte-de-neucastel">
             <l n="1516" xml:id="l1516">Madame, à mes forfaits preparez des supplices.</l>
             <l n="1517" xml:id="l1517">Interdit, penetré d’une juste douleur,</l>
@@ -2196,6 +2286,7 @@
         </div>
         <div type="scene" xml:id="V06">
           <pb n="69" xml:id="p69"/>
+          <head>SCENE VI</head>
           <sp xml:id="V06-1" who="elisabeth">
             <l n="1640" xml:id="l1640">He bien, sens-tu, méchant, que ton cœur te confonde ?</l>
             <l n="1641" xml:id="l1641">Te sens-tu dans le crime assez bien affermy,</l>
@@ -2242,6 +2333,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE DERNIERE</head>
           <sp xml:id="V07-1" who="elisabeth">
             <l part="F">Juste Ciel ! quelle suite de crimes !</l>
             <l n="1676" xml:id="l1676">Que la haine &amp; l’amour ont d’injustes <ref target="#maxime">maximes*</ref> !</l>

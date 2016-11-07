@@ -1,10 +1,56 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Laodice, reine de Cappadoce. Tragédie</title>
+        <author key="Corneille, Thomas (1625-1709)">Thomas Corneille</author>
+        <principal>Georges Forestier</principal>
+        <editor>Garlonn Moreau</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Garlonn Moreau dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2001-2002)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/corneille-thomas_laodice/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1668"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+    <textClass>
+      <keywords>
+        <term subtype="tragedy" type="genre">Tragédie</term>
+      </keywords>
+    </textClass>
+  </teiHeader>
   <text>
     <body>
+      <head>LAODICE REINE DE CAPPADOCE, TRAGÉDIE</head>
       <div>
+        <head>AU LECTEUR.</head>
         <p>LE sujet de cette Tragedie est tiré du trente-septiéme livre de Justin. Ceux qui auront la curiosité de l’y chercher, connoistront ce que j’ay adjousté à l’Histoire pour l’accomoder à nostre Theatre. L’Action principale y est si forte qu’elle m’a contraint d’affoiblir les Episodes, et de negliger beaucoup d’ornemens pour laisser à Laodice toute l’étenduë de son caractere. La matiere estoit belle pour l’ambition, et je ne doute point qu’un autre n’en eust fait voir des peintures plus achevées. Pour moy, j’avoüe que mes forces n’ont pû aller plus loin, et que je ne demande l’indulgence dont j’ay besoin pour cét Ouvrage, qu’aprés avoir employé tous mes soins pour adoucir les defauts dont je n’ay pû entierement le purger.</p>
       </div>
       <div>
+        <head>Extrait du Privilege du Roy.</head>
         <p>PAr grace et Privilege du Roy donné à S. Germain en Laye le 21 de Février 1668. Signé de MALON, il est permis au sieur T. CORNEILLE de faire imprimer, vendre et debiter par tel Imprimeur et Libraire qu’il voudra choisir, une piece de Theatre de sa composition, intitulée <hi rend="i">Laodice Reyne de Cappadoce</hi>, pendant le temps et espace de cinq ans entiers et accomplis, à compter du jour que ladite piece de Theatre sera achevée d’imprimer ; et défences sont faites à tous autres de quelque qualité et condition qu’ils soient de faire imprimer la dite Piece sur peine de trois mille livres d’amende, et tous dépens, dommages et interests, ainsi qu’il est plus amplement porté par lesdites lettres.</p>
         <p><hi rend="i">Registré sur le livre de la communauté le cinquième de mars 1668</hi>.</p>
         <p>Signé THIERRY Adjoint.</p>
@@ -13,10 +59,14 @@
           <hi rend="i">Les Exemplaires ont esté fournis.</hi>
         </p>
       </div>
-      <div/>
+      <div>
+        <head>ACTEURS.</head>
+      </div>
       <div type="act">
         <pb n="1 A" xml:id="p1"/>
+        <head>ACTE I.</head>
         <div type="scene">
+          <head>Scène première.</head>
           <sp who="axiane">
             <l n="1" xml:id="l1">Quoy, le Senat <ref target="#deputer">députe*</ref>, et sans daigner attendre</l>
             <l n="2" xml:id="l2">Qu’icy l’Ambassadeur ait le temps de se rendre,</l>
@@ -214,6 +264,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène II.</head>
           <sp who="ariarate">
             <l n="138" xml:id="l138">Madame, vous sçavez le dessein de la Reyne.<pb n="7" xml:id="p7"/></l>
             <l n="139" xml:id="l139">Des vœux de ses Sujets se faisant une loy</l>
@@ -363,6 +414,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène III.</head>
           <sp who="phradate">
             <l n="225" xml:id="l225">Voudrez-vous l’advouër ? La Princesse Axiane<pb n="11" xml:id="p11"/></l>
             <l n="226" xml:id="l226">Cherche à rompre par vous un choix qu’elle condamne,</l>
@@ -546,6 +598,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène IV.</head>
           <sp who="anaxandre">
             <l n="352" xml:id="l352">Phradate prend grand soin de vous faire sa Cour,<pb n="16" xml:id="p16"/></l>
             <l n="353" xml:id="l353">Et je ne doute point qu’il n’ait quelque avantage</l>
@@ -627,7 +680,9 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE II.</head>
         <div type="scene">
+          <head>Scène première.</head>
           <sp who="cleone">
             <l n="397" xml:id="l397">Madame, on est surpris que dés aujourd’huy mesme<pb n="18" xml:id="p18"/></l>
             <l n="398" xml:id="l398">Vous vueilliez partager la puissance supréme,</l>
@@ -770,6 +825,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène II.</head>
           <sp who="laodice">
             <l n="505" xml:id="l505">Il faut faire un grand choix, Oronte, et mon adresse</l>
             <l n="506" xml:id="l506">A rompre pour ma Fille un hymen que l’on presse,</l>
@@ -904,6 +960,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scéne III.</head>
           <sp who="laodice">
             <l n="618" xml:id="l618">Prince, j’entens toûjours parler d’Ariarate,</l>
             <l n="619" xml:id="l619">On dit qu’il va paroistre, et ce bruit est trop fort</l>
@@ -948,6 +1005,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène IV.</head>
           <sp who="anaxandre">
             <l n="649" xml:id="l649">Dans l’espoir dont je voy que la Reyne vous flate</l>
             <l n="650" xml:id="l650">Vous pouviez estre seur du destin de Phradate,</l>
@@ -1001,6 +1059,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène V.</head>
           <sp who="theodot">
             <l n="682" xml:id="l682">Ah, Seigneur, sçavez-vous une grande nouvelle ? <pb n="29 C iij" xml:id="p29"/></l>
           </sp>
@@ -1057,6 +1116,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène VI.</head>
           <sp who="phradate">
             <l n="709" xml:id="l709">Seigneur, d’où naist ce bruit qui tout à coup éclate,</l>
             <l n="710" xml:id="l710">Aquilius, dit-on, amene Ariarate,</l>
@@ -1099,7 +1159,9 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE III.</head>
         <div type="scene">
+          <head>Scène première.</head>
           <sp who="axiane">
             <l n="737" xml:id="l737">Je veux bien l’avouër, que malgré vôtre flame<pb n="32" xml:id="p32"/></l>
             <l n="738" xml:id="l738">Je m’étois attenduë à cette grandeur d’ame,</l>
@@ -1249,6 +1311,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène II.</head>
           <sp who="laodice">
             <l n="849" xml:id="l849">Princesse, enfin le Ciel par d’éclatantes marques</l>
             <l n="850" xml:id="l850">Nous fait voir que toûjours il prend soin des Monarques ;</l>
@@ -1297,6 +1360,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène III.</head>
           <sp who="ariarate">
             <l n="885" xml:id="l885">Madame, j’attendois à vous faire paroistre <pb n="38" xml:id="p38"/></l>
             <l n="886" xml:id="l886">Quelle joye en mon cœur la vôtre avoit fait naistre,</l>
@@ -1523,6 +1587,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène IV.</head>
           <sp who="cleone">
             <l part="M">Madame.</l>
           </sp>
@@ -1566,6 +1631,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène V.</head>
           <sp who="cleone">
             <l n="1076" xml:id="l1076">Quel nouveau trouble encor agite vostre esprit ?</l>
             <l n="1077" xml:id="l1077">Madame ; si j’osois parler sans vous déplaire…</l>
@@ -1592,7 +1658,9 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE IV.</head>
         <div type="scene">
+          <head>Scène première.</head>
           <sp who="laodice">
             <l n="1089" xml:id="l1089">En vain tu me fais voir que le peuple est à craindre. <pb n="47" xml:id="p47"/></l>
             <l n="1090" xml:id="l1090">Le projet est hardy, mais j’ay dû m’y contraindre,</l>
@@ -1666,6 +1734,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène II.</head>
           <sp who="axiane">
             <l n="1150" xml:id="l1150">Ah, Madame, apprenez une étrange <ref target="#disgrace">disgrace*</ref>,</l>
             <l n="1151" xml:id="l1151">On ne la sçait encor que sur un bruit confus,</l>
@@ -1700,6 +1769,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène III.</head>
           <sp who="laodice">
             <l n="1172" xml:id="l1172">Que m’apprend-on, Phradate, et qu’ay-je à redouter ?</l>
           </sp>
@@ -1783,6 +1853,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène IV.</head>
           <sp who="laodice">
             <l n="1241" xml:id="l1241" part="I">Et bien, mon Fils est mort, Anaxandre ? <pb n="53 E iij" xml:id="p53"/></l>
           </sp>
@@ -1854,6 +1925,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène V.</head>
           <sp who="laodice">
             <l n="1289" xml:id="l1289">Viens, Oronte, et répons, c’est en vain qu’on t’excuse,<pb n="55" xml:id="p55"/></l>
             <l n="1290" xml:id="l1290">Sur un bruit qui s’épand Anaxandre t’accuse,</l>
@@ -1884,6 +1956,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène VI.</head>
           <sp who="laodice">
             <l n="1305" xml:id="l1305">Seigneur, qui l’auroit crû qu’un jour si plein de charmes <pb n="56" xml:id="p56"/></l>
             <l n="1306" xml:id="l1306">Dust estre un jour pour moy de soûpirs et de larmes,</l>
@@ -2000,6 +2073,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène VII.</head>
           <sp who="laodice">
             <l n="1377" xml:id="l1377">Estes-vous satisfait, Seigneur, de ma franchise ?</l>
           </sp>
@@ -2079,7 +2153,9 @@
         </div>
       </div>
       <div type="act">
+        <head>ACTE V.</head>
         <div type="scene">
+          <head>Scène première.</head>
           <sp who="ariarate">
             <l n="1433" xml:id="l1433">Quoy, malgré tant d’efforts pour calmer sa furie <pb n="62" xml:id="p62"/></l>
             <l n="1434" xml:id="l1434">On n’a pû l’empescher de s’immoler sa vie ?</l>
@@ -2139,6 +2215,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène II.</head>
           <sp who="laodice">
             <l n="1480" xml:id="l1480">Vous l’emportez, Oronte, et mon Fils est sauvé, <pb n="64" xml:id="p64"/></l>
             <l n="1481" xml:id="l1481">Contre les <ref target="#fier">fiers*</ref> projets de ma jalouse envie</l>
@@ -2382,6 +2459,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène III.</head>
           <sp who="laodice">
             <l n="1670" xml:id="l1670">Princesse, joüissez enfin de vôtre <ref target="#gloire">gloire*</ref>.<pb n="71" xml:id="p71"/></l>
             <l n="1671" xml:id="l1671">Les Dieux en prirent soin lors qu’un heureux accord</l>
@@ -2395,6 +2473,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène IV.</head>
           <sp who="axiane">
             <l part="F">Que faut-il que je croye ?</l>
             <l n="1679" xml:id="l1679">Après les plus beaux voeux à mon rang immolez</l>
@@ -2427,6 +2506,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène V.</head>
           <sp who="ariarate">
             <l n="1700" xml:id="l1700">Seigneur, il n’est plus temps de cacher qui je suis.</l>
             <l n="1701" xml:id="l1701">La Reyne et la Princesse ont appris ma naissance.</l>
@@ -2454,6 +2534,7 @@
           </sp>
         </div>
         <div type="scene">
+          <head>Scène VI.</head>
           <sp who="phradate">
             <l part="F">Ah, Seigneur, la Reyne ne vit plus.</l>
           </sp>

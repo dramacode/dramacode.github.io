@@ -1,7 +1,56 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Jeune Marius. Tragédie.</title>
+        <author key="Boyer, Claude (1618-1698)">Boyer, Claude</author>
+        <principal>Georges Forestier</principal>
+        <editor>Isabelle Gérard</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Isabelle Gérard sous la direction de Georges Forestier (1997)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/boyer_jeune-marius/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boyer_jeune-marius.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boyer_jeune-marius.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boyer_jeune-marius.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boyer_jeune-marius.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1670"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LE JEUNE MARIUS. TRAGEDIE.</head>
       <div n="1" type="set" xml:id="dedicace">
+        <head>A Monseigneur <hi rend="b">colbert.</hi> Ministre et secretaire d’<hi rend="sc">Estat</hi>.</head>
         <p><hi rend="i">Monseigneur</hi>,</p>
         <p xml:id="dedicace_2">Quelque impatience que j’eusse de vous donner des marques publiques de ma reconnoissance au nom de toutes les Muses en general, et de la mienne en particulier, quoy que j’en fusse sollicité par la bonne <hi rend="sup">*</hi><ref target="#fortune">fortune</ref> de quelqu’une de mes Pieces qui ont precedé celle-cy, j’ay senty mon devoir arresté par une juste defiance et par une crainte respectueuse. Mais enfin ne pouvant plus diferer de satisfaire à ma gratitude, j’ay ramassé toutes mes forces avant que d’entreprendre l’ouvrage que je vous destinois, j’ay pris la Scene la plus magnifique, j’ay choisi un des Heros de l’ancienne Rome, et pour vous le rendre plus agreable, j’ay tâché de le representer avec quelques-uns de ces traits, que nous admirons dans vostre incomparable Heros, Je parle de nostre grand Roy, qui rassemble en luy seul tout ce que l’Histoire a de plus incroyable et de plus merveilleux. Plein d’une si haute idée, et soustenu par la dignité de mon sujet, je vous ay consacré mon travail avant que de le commencer ; J’ay envisagé toute la gloire que je pouvois attendre de vostre approbation ; J’ay invoqué avec plus de ferveur que jamais le Dieu qui nous inspire, et je me suis dit sans cesse, qu’ayant esté choisi pour estre un des sujets des gratifications du Roy, je devois soustenir , ou plûtost justifier un choix si honorable. C’est avec ce grand secours, MONSEIGNEUR, que j’ay travaillé assez heureusement : quoy que la <hi rend="sup">*</hi><ref target="#fortune">fortune</ref> et la cabale se meslent aujourd’huy de faire le bon et le mauvais destin des ouvrages du Theatre, celuy que je vous ay consacré n’a pas succombé sous leur injustice. Ce n’est que vous, MONSEIGNEUR, que j’ay lieu d’apprehender, quand je l’expose à vos yeux : je sçay que rien n’échape à la penetration de vostre esprit, et que vous possedez le precieux talent de juger finement de toutes choses : Je sçay que c’est de cette idée generale, que vous avez du beau et du parfait que se répandent sans cesse de nouvelles beautez et de nouvelles lumieres sur tous les Arts et sur toutes les Sciences : C’est de là que vient ce grand amour que vous avez pour elles, ces soins continuels et cette magnifique protection, dont vous honorez l’empire des belles Lettres, au milieu de ces grandes occupations que vous donnez avec une application étonnante et sans exemple à la premiere Monarchie de la terre. Que j’aurois de choses à dire, MONSEIGNEUR, sur un si vaste sujet, et qu’il seroit doux à une ame reconnoissante comme la mienne de s’abandonner à la loüange de son bienfaicteur ! Mais je sçay trop quelle est la delicatesse de vostre modestie, et avec quelle discretion il faut manier toutes les matieres qui regardent vostre gloire. Agréez au moins, MONSEIGNEUR, que je laisse échaper devant vous une louange qui est dans la bouche de tout le monde.</p>
         <lg rend="i">
@@ -18,10 +67,14 @@
         <p>et tres obligé serviteur,</p>
         <p>BOYER.</p>
       </div>
-      <div n="2" type="set" xml:id="acteurs"/>
+      <div n="2" type="set" xml:id="acteurs">
+        <head>Acteurs.</head>
+      </div>
       <div type="act" xml:id="I">
         <pb n="1"/>
+        <head>ACTE I.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp who="marius" xml:id="I01-1">
             <l n="1" xml:id="l1">Quel zele, quel <hi rend="sup">*</hi><ref target="#bonheur">bon-heur</ref> t’a conduit en ces lieux,</l>
             <l n="2" xml:id="l2">Et t’a fait traverser un Camp victorieux ?</l>
@@ -193,6 +246,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp who="cecilie" xml:id="I02-1">
             <l n="137" xml:id="l137">Ce qu’annonce Maxime est une verité</l>
             <l n="138" xml:id="l138">Seigneur, advoüez-vous ce secours tant vanté,</l>
@@ -386,6 +440,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <pb n="12"/>
+          <head>SCENE II.</head>
           <sp who="marcelle" xml:id="I03-1">
             <l n="281" xml:id="l281">Ce malheureux <hi rend="sup">*</hi><ref target="#amant">Amant</ref>, que vous traitez si mal,</l>
             <l n="282" xml:id="l282">N’a t-il point deviné, quand il croit qu’un Rival</l>
@@ -521,7 +576,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="17"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp who="cecilie" xml:id="II01-1">
             <l n="391" xml:id="l391">maxime, je sçay tout ; cent messagers fideles</l>
             <l n="392" xml:id="l392">N’ont que trop annoncé ces funestes nouvelles.</l>
@@ -608,6 +665,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="20"/>
+          <head>SCENE II.</head>
           <sp who="marius" xml:id="II02-1">
             <l part="F">Pardonnez si je montre à vos yeux</l>
             <l n="458" xml:id="l458">Pour un foible succez un front victorieux.</l>
@@ -719,6 +777,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp who="marius" xml:id="II03-1">
             <l n="549" xml:id="l549">He bien Pison. Sylla nous donne-t’il la paix ?</l>
           </sp>
@@ -950,7 +1009,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="31"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp who="marius" xml:id="III01-1">
             <l n="735" xml:id="l735">des mains du grand Sylla recevoir Cecilie ?</l>
           </sp>
@@ -1016,6 +1077,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp who="sylla" xml:id="III02-1">
             <l n="775" xml:id="l775">Comprens-tu bien l’effort que je viens de me faire,</l>
             <l n="776" xml:id="l776"><hi rend="sup">*</hi><ref target="#fortune">Fortune</ref>, en contraignant ma haine et ma colere :</l>
@@ -1077,6 +1139,7 @@
         </div>
         <div type="scene" xml:id="III03">
           <pb n="35"/>
+          <head>SCENE III.</head>
           <sp who="octave" xml:id="III03-1">
             <l n="815" xml:id="l815">Seigneur. Pompée arrive, et le bruit de sa gloire</l>
             <l n="816" xml:id="l816">Déja de toutes parts annonce sa victoire ;</l>
@@ -1160,6 +1223,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp who="sylla" xml:id="III04-1">
             <l n="867" xml:id="l867">Fidelle compagnon des travaux d’une guerre,</l>
             <l n="868" xml:id="l868">Qui m’a presque asseuré l’empire de la terre,</l>
@@ -1271,6 +1335,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp who="sylla" xml:id="III05-1">
             <l part="F">Peut on jamais, Seigneur, d’assez de gloire,</l>
             <l n="958" xml:id="l958">D’un triomphe assez beau payer vostre victoire ?</l>
@@ -1362,7 +1427,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="45"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp who="marcelle" xml:id="IV01-1">
             <l n="1021" xml:id="l1021">tous vos discours, Seigneur, me font assez comprendre,</l>
             <l n="1022" xml:id="l1022">Qu’au lieu de Marius Sylla vous veut pour gendre.</l>
@@ -1437,6 +1504,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II.</head>
           <sp who="cecilie" xml:id="IV02-1">
             <l part="F">Vous me fuyez, Seigneur :</l>
             <l n="1072" xml:id="l1072">Non, non, ne craignez plus cette injuste rigueur,</l>
@@ -1565,6 +1633,7 @@
         </div>
         <div type="scene" xml:id="IV03">
           <pb n="52"/>
+          <head>SCENE III.</head>
           <sp who="sylla" xml:id="IV03-1">
             <l n="1153" xml:id="l1153">Quoy, ma fille, Pompée évite ma presence ?</l>
           </sp>
@@ -1683,6 +1752,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <pb n="56"/>
+          <head>SCENE IV.</head>
           <sp who="pison" xml:id="IV04-1">
             <l n="1237" xml:id="l1237">Vous puis-je demander quelle rigueur extréme</l>
             <l n="1238" xml:id="l1238">Oblige vostre fille à choisir elle-mesme ?</l>
@@ -1704,6 +1774,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V.</head>
           <sp who="marius" xml:id="IV05-1">
             <l n="1250" part="I" xml:id="l1250">Quoy, Seigneur...</l>
           </sp>
@@ -1842,6 +1913,7 @@
         </div>
         <div type="scene" xml:id="IV06">
           <pb n="62"/>
+          <head>SCENE VI.</head>
           <sp who="sylla" xml:id="IV06-1">
             <l part="F">Voy maintenant le secret de ma haine.</l>
             <l n="1370" xml:id="l1370">Pour perdre Marius et sans honte et sans peine,</l>
@@ -1860,7 +1932,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="63"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp who="marcelle" xml:id="V01-1">
             <l n="1381" xml:id="l1381">Je ne vous connois plus dans ce desordre extréme.</l>
           </sp>
@@ -1970,6 +2044,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp who="marius" xml:id="V02-1">
             <l n="1463" xml:id="l1463">Je sçay ce que Sylla vient de vous ordonner ;</l>
             <l n="1464" xml:id="l1464">Madame, et mon abord semble vous <hi rend="sup">*</hi><ref target="#estonner">étonner</ref>.</l>
@@ -2099,6 +2174,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp who="cecilie" xml:id="V03-1">
             <l part="F">Que son sort est à plaindre !</l>
           </sp>
@@ -2114,6 +2190,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV.</head>
           <sp who="cecilie" xml:id="V04-1">
             <l n="1564" xml:id="l1564">Mais j’aperçoy Pompée, où courez-vous, Seigneur ?</l>
           </sp>
@@ -2190,6 +2267,7 @@
         </div>
         <div type="scene" xml:id="V05">
           <pb n="74"/>
+          <head>SCENE V.</head>
           <sp who="sylla" xml:id="V05-1">
             <l part="F">Peut-on sçavoir qui sera vostre Epoux ?</l>
             <l n="1624" xml:id="l1624">Mais j’entens vostre choix, Pompée est avec vous.</l>
@@ -2274,6 +2352,7 @@
         </div>
         <div type="scene" xml:id="V06">
           <pb n="77"/>
+          <head>SCENE VI.</head>
           <sp who="pison" xml:id="V06-1">
             <l n="1685" part="I" xml:id="l1685">Seigneur....</l>
           </sp>
@@ -2302,6 +2381,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII.</head>
           <sp who="pompee" xml:id="V07-1">
             <l n="1701" xml:id="l1701">Que me commandez-vous dans cette conjoncture ?</l>
           </sp>
@@ -2319,6 +2399,7 @@
         </div>
         <div type="scene" xml:id="V08">
           <pb n="79"/>
+          <head>SCENE VIII.</head>
           <sp who="sabine" xml:id="V08-1">
             <l n="1707" xml:id="l1707">Quel est vostre dessein ? malgré son desespoir</l>
             <l n="1708" xml:id="l1708">Le sort de Marius est en vostre pouvoir.</l>
@@ -2350,6 +2431,7 @@
         </div>
         <div type="scene" xml:id="V09">
           <pb n="80"/>
+          <head>SCENE IX.</head>
           <sp who="cecilie" xml:id="V09-1">
             <l n="1725" part="I" xml:id="l1725">Qu’est-ce ?</l>
           </sp>
@@ -2375,6 +2457,7 @@
         </div>
         <div type="scene" xml:id="V10">
           <pb n="81"/>
+          <head>SCENE X.</head>
           <sp who="cecilie" xml:id="V10-1">
             <l n="1735" part="I" xml:id="l1735">Ah ! Seigneur, Marius...</l>
           </sp>
@@ -2429,6 +2512,7 @@
         </div>
         <div type="scene" xml:id="V11">
           <pb n="83"/>
+          <head>SCENE DERNIÈRE.</head>
           <sp who="pison" xml:id="V11-1">
             <l n="1777" xml:id="l1777">Sylla n’attend que vous, et sa cruelle rage</l>
             <l n="1778" xml:id="l1778">Brûle d’aller dans Rome achever son ouvrage,</l>
@@ -2442,6 +2526,7 @@
         </div>
       </div>
       <div n="1" xml:id="privilege">
+        <head>extrait du privilege du roy.</head>
         <p>Par Grace et Privilege du Roy, donné à Paris le 24. jour de Mars 1669. Signé, DALANCE, il est permis à G QUINET, de faire imprimer, vendre et debiter un Livre intitulé <hi rend="i">le Jeune Marius, Tragedie</hi>, durant le temps et espace de sept années, entieres et accomplies, à compter du jour qu’il sera achevé d’imprimer pour la premiere fois, en vertu du present Privilege. Et defenses sont faites à tous autres, de quelque qualité et condition qu’ils soient, d’imprimer ou faire imprimer ladite Piece, sur peine de confiscation des Exemplaires, et de tous dépens, dommages et interests, ainsi qu’il est plus amplement porté par ledit Privilege.</p>
         <p rend="i">Registré sur le livre de la Communauté des Marchands Libraires et Imprimeurs de cette ville de Paris, le 26.Mars 1669. suivant l’Arrest du Parlement du 8.Avril 1653.</p>
         <p>A. SOUBRON, Syndic.</p>

@@ -1,8 +1,52 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'Ombre de Molière. Comédie</title>
+        <author key="Brécourt (1638?-1685)">Guillaume de Marcoureau, sieur de Brécourt</author>
+        <principal>Georges Forestier</principal>
+        <editor>Marie-Astrid Lechat</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Marie-Astrid Lechat sous la direction de Georges Forestier (2006)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/marcoureau_ombre-moliere/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1674"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div type="dedication" xml:id="dedicace">
         <pb n="III"/>
+        <head>À SON ALTESSE SERENISSIME MONSEIGNEUR LE DUC D’ENGUIEN.</head>
         <p><hi rend="i">Monseigneur</hi>,</p>
         <p>Voicy l’Ombre de Moliere ; c’est une Comédie dont le bonheur sera parfait,<pb n="IV"/> si V. A. S. l’honore du moindre coup d’œil. Sans l’autorité que me donne un long usage, je ne hazarderois pas de mettre vostre Illustre Nom à la Teste d’un Livre, lors qu’il va si glorieusement éclater à la Teste des Armées. Alexandre mettoit Homere sous son chevet ; Scipion et Lélie honorerent Térence de leur estime : mais sans le secours de ces Exemples, il suffit de celuy de V. A. S. pour justifier que les Armes et les Lettres n’ont rien d’incompatible, et que<pb n="V"/> le Cabinet et le Camp peuvent estre Amis. Souffrez donc, <hi rend="sc">Monseigneur</hi>, que les Œuvres de <hi rend="i">Moliere</hi> tiennent quelque rang dans vostre Bibliothèque, et que ma Comedie soit une espece de Table pour les siennes.</p>
         <p>DE V.A.S.</p>
@@ -12,9 +56,11 @@
       </div>
       <div type="set" xml:id="acteurs">
         <pb n="VIII"/>
+        <head>ACTEURS.</head>
       </div>
       <div type="prologue" xml:id="A">
         <pb n="A ; 1"/>
+        <head>PROLOGUE DE L’OMBRE DE MOLIERE</head>
         <sp who="oronte" xml:id="A-1">
           <p>Point, vous dis-je ; C’est une raillerie qu’on vous a faite de moy.</p>
         </sp>
@@ -92,7 +138,9 @@
       </div>
       <div type="act" xml:id="I">
         <pb n="13"/>
+        <head>L’OMBRE DE MOLIERE.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp who="ombre" xml:id="I01-1">
             <p>Donne, donne-moy ce Balay.</p>
           </sp>
@@ -154,6 +202,7 @@
         </div>
         <div type="scene" xml:id="I02">
           <pb n="21"/>
+          <head>SCENE II.</head>
           <sp who="caron" xml:id="I02-1">
             <p>Que font là ces Coquins ? Allons, tout est-il net ?</p>
           </sp>
@@ -215,6 +264,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <sp who="pluton" xml:id="I03-1">
             <p>Ça, il est donc question de rendre justice aujourd’huy. Fay venir l’Accusé, Caron ; et que l’Envie ameine les Complaignans. Nous avons donc bien des<pb n="28"/> affaires, Messieurs ?</p>
           </sp>
@@ -263,6 +313,7 @@
         </div>
         <div type="scene" xml:id="I04">
           <pb n="33"/>
+          <head>SCENE IV.</head>
           <sp who="caron" xml:id="I04-1">
             <p>Je n’y puis plus tenir ; Jamais il ne s’est veu tant d’Ombres en un jour ; et la Porte va rompre si vous n’y donnez ordre.</p>
           </sp>
@@ -299,6 +350,7 @@
         </div>
         <div type="scene" xml:id="I05">
           <pb n="36"/>
+          <head>SCENE V.</head>
           <sp who="caron" xml:id="I05-1">
             <p>Vous l’allez reconnoître à son langage.</p>
           </sp>
@@ -357,6 +409,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI.</head>
           <sp who="pluton" xml:id="I06-1">
             <p>Ça, qui est celuy-cy ?</p>
           </sp>
@@ -416,6 +469,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE VII.</head>
           <sp who="cocu" xml:id="I07-1">
             <p>Vous voyez en ma seule Ombre tout le Corps des Cocus ; Vous les voyez icy en moy, dis-je, affligez, outragez, et tout contrits des affronts publics que ce grand Corps a reçeus depuis que<pb n="47"/> malicieusement cet Ennemy juré de nostre repos nous a rendus le joüet de tout le monde. Il n’est presque aucun Mary qui n’ait senty les traits piquans de sa Satyre ; et depuis qu’il s’est meslé d’annéxer le Cocuage à de certains Maris, il se voit peu de Familles où l’on ne soit persuadé de trouver des Cocus de Pere en Fils. Ce soupçon outrageant est devenu par son moyen comme un Titre de Maison ; et il en a excepté si peu de Gens, que si je ne parle pour tout le monde, il ne s’en faut guére du moins. Voila de quoy se plaint nostre<pb n="48"/> Illustre Corps, qui avant sa scandaleuse médisance vivoit dans l’état de la premiere innocence. Chacun vivoit content de sa petite réputation ; Le scandale ne regnoit point publiquement comme il fait ; et si l’on avoit le malheur d’estre Cocu, on avoit du moins la douceur de l’estre en son petit particulier. Mais depuis qu’il a dévoilé les mysteres secrets, ce n’est plus partout qu’une gorge chaude des pauvres Maris. On en va à la moûtarde, et plusieurs honnestes Gens mesme ont pris en dot le Titre de Cocus en signant leur Contrat de Ma-<pb n="E ; 49 "/>riage. Si la discretion des Notaires n’estoit grande, quelqu’un de ces Messieurs en pourroit parler avec beaucoup de seûreté. Voila le desordre et le déreglement qu’il a mis en l’autre Monde, dont nous demandons en celuy-cy justice, vengeance, et reparation.</p>
           </sp>
@@ -430,6 +484,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I08">
+          <head>SCENE VIII.</head>
           <sp who="caron" xml:id="I08-1">
             <p>Je ne sçay d’où nous est venuë encore une plaisante espece d’Ombre : Mais je<pb n="51 "/>croy, si l’on pouvoit trépasser deux fois, qu’elle feroit mourir de rire tous les Morts d’icy-bas.</p>
           </sp>
@@ -454,6 +509,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I09">
+          <head>SCENE IX.</head>
           <sp who="moliere" xml:id="I09-1">
             <p>Ah ! c’est Nicole.</p>
           </sp>
@@ -521,6 +577,7 @@
         </div>
         <div type="scene" xml:id="I10">
           <pb n="60"/>
+          <head>SCENE X.</head>
           <sp who="pourceaugnac" xml:id="I10-1">
             <p>Grand Roy des Morts, vous me voyez icy, Député de la part de tous les Limousins trépassez, qui vous demandent qu’il leur soit permis ajourner cette Ombre, leur Partie, par-devant Vous, à trois jours, pour se voir condamner à reparation d’hon-<pb n="61"/> neur envers les Pourceaugnacs passez, presens, et futurs, tant des affronts reçeus, que de ceux qu’ils recevront. A quoy je conclus.</p>
           </sp>
@@ -578,6 +635,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I11">
+          <head>SCENE XI.[67]</head>
           <sp who="mme-jourdain" xml:id="I11-1">
             <p>Justice, justice, justice, justice, justice.</p>
           </sp>
@@ -643,6 +701,7 @@
         </div>
         <div type="scene" xml:id="I12">
           <pb n="72"/>
+          <head>SCENE XII.</head>
           <sp who="caron" xml:id="I12-1">
             <p>Grand Roy…</p>
           </sp>
@@ -684,6 +743,7 @@
         </div>
         <div type="scene" xml:id="I13">
           <pb n="75"/>
+          <head>SCENE XIII.</head>
           <sp who="moliere" xml:id="I13-1">
             <p>Ha, voicy de mes Gens. Ecoutons-les parler, et puis nous répondrons.</p>
           </sp>
@@ -772,6 +832,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I14">
+          <head>SCENE DERNIERE. [92]</head>
           <sp who="caron" xml:id="I14-1">
             <p>Oh ! je n’y puis plus tenir. Depuis que je conduits la Barque, je n’ay jamais tant veu de Morts pour un jour ; et si vous n’y venez donner ordre, je ne sçay pas ce que nous en ferons.</p>
           </sp>
@@ -840,6 +901,7 @@
       </div>
       <div>
         <pb n="VI"/>
+        <head>EXTRAIT DU PRIVILÈGE DU ROY</head>
         <p>Par Grace et Privilege du Roy, donné à Versailles le douziéme Avril 1674. Signé, Par le Roy en son Conseil, <hi rend="sc">le normant</hi> : Et scellé du grand Sceau de cire jaune. Il est permis à <hi rend="sc">Claude Barbin</hi>, Marchand Libraire à Paris, d’imprimer, faire imprimer, vendre et débiter une Pièce de Theatre, intitulée <hi rend="i">l’ombre de molière</hi>, Comédie en Prose : Et défenses sont faites à toutes Personnes, de quelque qualité et condition qu’elles soient, d’imprimer ou faire imprimer, vendre ny debiter ladite Pièce de Theatre, sans le consentement de l’Exposant, ou de ceux qui auront droict de luy, pendant le temps et espace de cinq années, entieres et accomplies, à compter du jour que ladite Piece sera achevée d’imprimer pour la première fois, à peine contre chacun des contrevenans, de trois mil livres d’amende, confiscation des Exemplaires contrefaits, et [VII] de tous despens, dommages et interests, ainsi que plus au long il est porté esdites Lettres de Privilège.</p>
         <p>Registré sur le Livre de la Communauté, suivant l’Arrest de la Cour.</p>
         <p>D.Thierry. Syndic.</p>

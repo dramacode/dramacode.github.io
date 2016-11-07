@@ -1,0 +1,1534 @@
+---
+identifier: villiers_critiquedutartuffe  
+creator: Villiers, Claude Deschamps de  
+date: (non  
+title: La critique du tartuffe. , comédie en vers  
+---
+
+
+LA CRITIQUE DU TARTUFFE
+
+COMÉDIE
+
+M. DC. LXX avec privilège du Roi
+
+
+
+# PRIVILÈGE DU ROI. LOUIS par la Grâce Dieu, Roi de France et de Navarre : à nos amés et féaux Conseillers les Gens tenants nos Cours de Parlement, Maîtres des Requêtes ordinaires de notre Hôtel, Baillifs, Sénéchaux, Prevôts, leurs Lieutenants et tous autres nos justiciers et Officiers qu'il appartiendra, Salut. Notre cher et bien aimé Gabriel QUINET, Marchand Libraire de notre bonne Ville de Paris, Nous a très humblement fait remontrer qu'il lui aurait été mis ès mains une Pièce de Théâtre, intitulée, LA CRITIQUE DU TARTUFFE, qu'il désirerait faire imprimer et donner au Public, s'il nous plaisait lui en accorder la permission, et icelle interdire à tous autres pendant le temps qui lui fera accordé. À CES CAUSES, désirant favorablement traiter l'Exposant, Nous lui avons permis et permettons par ces Présentes, d'imprimer ou faire imprimer ladite Pièce par l'un des Imprimeurs du nombre des réservés ; icelle vendre et débiter en tous les Lieux de notre obéissance, en telle marge, caractère, et autant de fois qu'il voudra, durant le temps de cinq années, à commencer du jour qu'elle fera achevée d'imprimer pour la première fois : Faisant très expresses inhibitions et défenses à toutes personnes, de quelque qualité et condition qu'ils soient, de l'imprimer, vendre, ni débiter, sans le consentement de l'Exposant, ou de ceux qui auront droit de lui, à peine de confiscation des Exemplaires contrefaits, mille livres d'amende, applicable un tiers à Nous, un tiers à l'Hôpital Général de notre dite Ville de Paris, et l'autre tiers à l'Exposant, et de tous dépens, dommages et intérêts ; à la charge qu'il fera mis deux Exemplaires de ladite Pièce en notre Bibliothèque un en celle de notre Château du Louvre, et un autre en celle de notre très cher et féal le Sieur Séguier, Chevalier, Chancelier de France, avant que de l'exposer en vente, et qu'elles seront registrées dans le Livre de la Communauté des Libraires de notre Ville de Paris. Si vous mandons et enjoignons, que du contenu en ces Présentes, vous fassiez jouir et user l'Exposant, et tous ceux qui auront droit de lui, pleinement et paisiblement, sans permettre qu'ils y soient troublés ni empêchés, voulant qu'en insérant ces Présentes, ou Extrait d'icelles, en chacun des Exemplaires, elles soient tenues pour bien et dûment signifiées. Commandons au premier notre Huissier ou Sergent sur ce requis, faire pour l'exécution des Présentes, tous Exploits à ce requis et nécessaires, sans demander autre permission, nonobstant Clameur de Haro, et Lettres à ce contraires : Car tel est notre plaisir. Donné à Saint-Germain-en-Laye le dix-neuvième jour de Novembre, l'an de grâce mille six cens soixante-neuf, Et de notre Règne le vingt-sept. Signé, Par le Roi en son Condeil, D'ALENCE. Régistré sur le Livre de la Communauté des Marchands Libraires et Imprimeurs de cette Ville, suivuant et conformément à l'Arrêt de la Cour de Parlement du 8. Avril 1655. aux charges et conditions portées par le présent Privilège. Fait à Paris le 27. Novembre 1669. Signé, A. SOUBRON, Syndic.Achevé d'imprimer pour la première fois le 19 décembre 1669.À PARIS, chez Gabriel Quinet, au Palais, à l'entrée de la Galerie des Prisonniers, à l'Ange Gabriel.
+
+
+
+# LETTRE SATIRIQUE SUR LE TARTUFFE, écrite à l'auteur de la critique.
+J'ai su, cher Dorilas, la galante manière.  
+Dont tu veux critique, et Tartuffe, et Molière ;  
+Et sans t'importuner, d'inutiles propos,  
+J'en vais rimer aussi la critique en deux mots.  
+Dès le commencement, une vieille bigote,  
+Querelle les acteurs, et sans cesse radote ;  
+Crie, et n'écoute rien, se tourmente sans fruit ;  
+Ensuite une servante y fait autant de bruit,  
+À son maudit caquet donne libre carrière,  
+Réprimande son maître, et lui rompt en visière,  
+L'étourdit, l'interrompt, parle sans se lasser ;  
+Un bon coup suffirait, pour la faire cesser,  
+Mais on s'aperçoit bien, que son maître par feinte,  
+Attend pour la frapper, qu'elle soit hors d'atteinte.  
+Surtout, peut-on souffrir l'homme aux «réalités»,  
+Qui pour se faire aimer, dit cent impiétés,  
+déboucher une femme, et coucher avec elle ?  
+Chez ce galant bigot, c'est une bagatelle ;  
+À l'entendre, ce Ciel permet tous les plaisirs,  
+Il en sait disposer au gré de ses désirs,  
+Et quoi qu'il puisse faire, il se la rend traitable.  
+Pendant ces beaux discours, Orgon sous une table,  
+Incrédule toujours, pour être convaincu,  
+Semble attendre en repos, qu'on le fasse cocu :  
+Il se détrompe enfin; et comprend sa disgrâce,  
+Déteste le Tartuffe, et pour jamais le chasse.  
+Après que l'Imposteur a fait savoir son courroux ;  
+Après qu'on a juré de la rouer de coups;  
+Et d'autres incidents de cette même espèce,  
+L cinquième acte, il faut finir la pièce ;  
+Molière la finit, et nous fait avouer ;  
+Qu'il en tranche le noeud, qu'il n'a su dénouer.  
+Molière plaît assez, son génie est folâtre,  
+Il a quelque talent pour le jeu du théâtre,  
+Et pour bien en parler, c'est un bouffon plaisant,  
+Qui divertit le monde, en le contrefaisant ;  
+Ces grimaces souvent causent quelques surprises,  
+Toutes ces pièces sont d'agréables sottises,  
+Il est mauvais poète, et bon comédien,  
+Il fait rire, et de vrai, c'est tout ce qu'il fait bien.  
+Molière à son bonheur doit tous ces avantages,  
+C'est son bonheur qui fait le prix de ses ouvrages ;  
+Je sais que le Tartuffe a passé son espoir,  
+Que tout Paris en foule a couru pour le voir ;  
+Mais avec tout cela, quand on l'a vu paraître,  
+On l'a tant applaudi, faute de le connaître ;  
+Un si fameux succès ne lui fut jamais dû ;  
+Et s'il a réussi, c'est qu'on l'a défendu.  
+
+
+# ACTEURS.
+ – CLÉON, père de Lidiane.
+ – LISANDRE, amant de Lidiane.
+ – TARTUFFE, sous le nom de Panulphe, rival de Lisandre.
+ – LIDIANE.
+ – LISE, servante de Lidiane.
+ – LAURENS, valet de Tartuffe.La Scène est chez Cléon. 
+
+
+# .
+
+
+## SCÈNE PREMIÈRE. Tartuffe, Laurens.
+
+    LAURENS.
+Hé bien, qu'avez-vous fait ? Vos efforts sont-ils vains ?  
+Ou les griffons doész de vos faux parchemins  
+Auraient-ils fait l'effet que vous pouviez prétendre ?  
+
+    TARTUFFE.
+Ils ont eu le succès que j'en devais attendre.  
+
+    LAURENS.
+Quoi ?  
+
+    TARTUFFE.
+        J'ai déçu le père avec ces faux contrats.  
+
+    LAURENS.
+Et la fille est d'accord ?...  
+
+    TARTUFFE.
+        La fille ne l'est pas.  
+Cet hymen la chagrine, et la rend presque folle,  
+Mais son père d'abord m'a donné sa parole ;  
+Il en est si content, qu'en me disant adieu,  
+Il m'a prié tout bas de descendre en ce lieu,  
+Attendant qu'elle soit par lui persuadée...  
+
+    LAURENS.
+Bien des difficultés confondent mon idée.  
+Songez-vous que Lisandre est homme de grand bruit ?  
+Quand malgré l'amitié dont le noeud nous unit,  
+Vous lui voulez ravir l'objet de sa tendresse,  
+N'appréhendez-vous point sa fureur vengeresse ?  
+Et d'ailleurs si Cléon par hasard peut savoir  
+Que Tartuffe est le nom que vous devez avoir,  
+Et que Panulphe ici riche en gros caractère,  
+N'est qu'un nom supposé que la fourbe a su faire ;  
+Lequel, à votre avis, choisira-t-il des deux,  
+Ou Panulphe faux riche, ou Tartuffe vrai gueux ?  
+Sous le nom de Tartuffe il n'a qu'à vous connaître,  
+Pour bien savoir quel homme en vrai vous pouvez être ;  
+Votre nom si connu, trahissant ce forfait,  
+Saura tout démentir ce que vous aurez fait ;  
+Et prendra-t-il alors pour gendre, sans scrupule,  
+Un homme que Molière a rendu ridicule,  
+Dont le sort maltraité se vit aux yeux de tous  
+L'objet de la risée et du plaisir des fous ?  
+On sait que chez Cléon, par une longue étude,  
+À railler cet ouvrage on prend telle habitude,  
+Que dans son entretien, chacun à qui mieux mieux  
+Nous en fait pétiller les défauts à nos yeux.  
+
+    TARTUFFE.
+Quoi, pour avoir souffert l'aigreur d'une censure  
+Qui déclare la guerre à toute la nature,  
+Suis-je moins honnête homme, enfin ? Et mon honneur  
+Est-il à la merci d'un calomniateur?  
+Parce qu'un faible effort d'une imaginative  
+A soumis à l'erreur la vérité captive,  
+Que le caprice a su, s'immolant la raison,  
+Confondre la justice avec la trahison,  
+Que des vers rallongés ont été des oracles,  
+Que des oui et des non ont fait crier miracles,  
+Faut-il que ma vertu rencontre son tombeau  
+Dans l'abîme profond du vide d'un cerveaux?  
+Et dépend-elle enfin d'une grossière idée,  
+D'un auteur dont on voit la malice bridée,  
+Et qui par sa cabale, à force de complots,   [1]
+Va gueuser des succès chez la race des sots ?  
+Et si je suis l'objet des crayons du mensonge,  
+Dois-je répondre, enfin, des chimères d'un songe ?  
+Un ouvrage si bas ne me peut attaquer,  
+Ma vie a trop d'éclat pour pouvoir s'offusquer ;  
+Et je ne puis tenir ma conduite offensée,  
+Par les traits languissants d'une veine forcée.  
+Ceux qui me connaîtront, en dépit de ses soins,  
+Seront de ma vertu tout autant de témoins...  
+
+    LAURENS.
+Je ne puis plus tenir, quand je vois qu'à son vice,  
+Aveugle de soi-même, on ne fait point justice.  
+Après vos faussetés, et tout ce que j'ai vu,  
+Osez-vous devant moi vous targuer de vertu?  
+
+    TARTUFFE.
+Quoi ! Peux-tu condamner l'effort d'un misérable  
+Qui tâche à s'affranchir d'un destin déplorable ?  
+Si je suis scélérat, fourbe, malicieux,  
+Mes finesses du moins ne blessent point les yeux ;  
+Mon coeur par mon maintien ne se fait point connaître,  
+Je ne suis point grossier comme on me le fait être,  
+Et lorsque cet auteur voudra peindre les gens,  
+Qu'il mette en ses couleurs un peu plus de bon sens.  
+Du dessein qu'il a pris, l'on voit qu'il se retire,  
+Mon nom seul est l'objet de la froide satire ;  
+Un portrait si confus me ressemble trop mal,  
+Ces traits sont sans rapport à leur original ;  
+Et si dans ces défauts qui choquent la nature,  
+L'on me veut soutenir que ce soit ma peinture,  
+Je pourrai soutenir à mon tour, que l'auteur,  
+Et non celui qu'il peint, lui-même est l'imposteur.  
+Toutefois Licidas doit faire une satire  
+Qui me fera raison de ce qu'il a pu dire.  
+
+    LAURENS.
+Cependant vous voyez que malgré vos mépris,  
+Ce poème imparfait fait courre tout Paris.  
+N'est-ce rien que de voir une dame Pernelle,  
+Qui sait l'art de charmer par une bagatelle,  
+Que tout ce qu'on oyait de bas au temps passé,  
+Dans son discours antique est si bien ramassé.  
+Que Laurens, mon portrait, mérite qu'on le prise !  
+Lui seul à l'auditeur n'a point dit de sottise,  
+Et loin de m'en choquer, je m'en louerai toujours.  
+Mais pour vous, mon cher maître...  
+
+    TARTUFFE.
+        Ah ! Cesse un tel discours,  
+Cléon vient.  
+
+
+## SCÈNE II. Tartuffe, Cléon, Laurens.
+
+    CLÉON.
+        Je vous plains. Fille trop obstinée !  
+Je l'ai pressée en vain touchant cet hyménée,  
+Plus rebelle à mes voeux que la fille d'Orgon,  
+Je n'ai pu la soumettre aux lois de la raison.  
+Cependant envers vous ma parole m'engage,  
+Peut-être que le temps nous la rendra plus sage.  
+Nous nous verrons ce soir ; vous m'en voyez confus ;  
+Mais sans doute mes soins fléchiront ses refus.  
+Tartuffe et Laurens sortent.
+
+
+
+## SCÈNE III. Cléon, Lise.
+
+    LISE.
+Lidiane, Monsieur, là-haut se désespère,  
+Elle vous reniera volontiers pour son père,  
+Dans le pressant transport de ses vives douleurs,  
+Si vous ne tarissez le torrent de ses pleurs.  
+
+    CLÉON.
+L'on verra qui de nous doit obéir à l'autre.  
+
+    LISE.
+Vit-on jamais un coeur plus cruel que le vôtre !  
+Orgon sur un tel point n'est pas plus dur que vous.  
+Pourquoi contre son gré lui donner cet époux ?  
+Faut-il que des contrats faits par quelques faussaires...  
+
+    CLÉON.
+Ils sont en bonne forme, et signés de notaires.  
+
+    LISE.
+Hé par cette raison ils sont dignes de foi ?  
+Vous savez peu le monde ! Hé, Monsieur, croyez-moi,  
+Les hommes à l'argent se donnant pour esclaves,  
+Il est de faux contrats comme il est de faux braves.  
+Les faux braves partout sont les plus effrontés,  
+Ainsi les faux contrats sont les mieux ajustés.  
+Ne vous aveuglez point d'un bien imaginaire,  
+Je vous dis qu'ils sont faux et par devant notaire.  
+
+    CLÉON.
+Ton discours est autant dépourvu de raison,  
+Que celui de Cléante envers son frère Orgon.  
+Dans le mauvais dessein que sa haine médite,  
+Il ose déclarer le Tartuffe hypocrite,  
+Sur ce que quand il prie, il brûle de ferveur,  
+Qu'il se prosterne en terre, humiliant son coeur,  
+Qu'il partage les dons qu'on lui fait par aumône,  
+Qu'ennemi du pêcheur, il l'instruit et le prône ;  
+Et quoique les dévots en agissent ainsi,  
+D'abord son jugement condamne celui-ci.  
+Scrutateur de son coeur et de sa conscience,  
+Son caprice dément la plus claire apparence ;  
+Et sans rien alléguer qui prouve sa noirceur,  
+Il veut que sur sa foi l'on le croie imposteur.  
+Ta malice en ce cas n'a rien de moins énorme ;  
+Parce que ces contrats sont en fort bonne forme,  
+Tu veux en m'aveuglant, que sans savoir pourquoi,  
+Je suis persuadé qu'ils sont faux comme toi.  
+
+    LISE.
+Supposez qu'ils soient bons, faut-il que la richesse  
+D'un père envers sa fille étouffe la tendresse ?  
+Vous, qui dans la nature êtes si délicat,  
+Malgré l'âge viril, êtes-vous assez fat ?  
+Pour donner votre fille...  
+
+    CLÉON.
+        Ah ! Quelle impertinente !  
+La servante d'Orgon n'est pas plus impudente.  
+
+    LISE.
+Faut-il qu'à l'intérêt votre coeur soit captif ?  
+
+    CLÉON.
+Je te pourrai donner un soufflet effectif ;  
+Et je saurai si bien ménager la mesure,  
+Que ma main tout à point trouvera ta figure.  
+
+    LISE.
+Mais...  
+
+    CLÉON.
+        Si tu m'étourdis encor par ton jargon,  
+Tu verras que je suis bien plus adroit qu'Orgon.  
+
+    LISE.
+Lisandre n'est-il pas d'assez bonne famille,  
+Pour oser librement prétendre à votre fille ?  
+Il est vrai, je l'avoue, il n'a pas tant de bien ;  
+Mais quoi, ne comptez-vous sa noblesse pour rien ?  
+
+    CLÉON.
+Tu ne m'apprendras pas à connaître Lisandre,  
+Il mérite au delà de devenir mon gendre ;  
+Je le crois, il est noble, et j'en dois convenir,  
+Mais l'autre a ma parole et je lui veux tenir.  
+
+
+## SCÈNE IV. Cléon, Lise, Lidiane.
+
+    LIDIANE, VIENT SE JETER AUX GENOUX DE SON PÈRE.
+Mon père, si jamais votre coeur fut sensible,  
+Si jamais à l'amour on le vit accessible ;  
+S'il vous reste pour moi la moindre affection,  
+Soyez deux fois mon père en cette occasion;  
+En étouffant en vous cette funeste envie,  
+Ce sera me donner une seconde vie ;  
+Car si votre pitié ne fait aucun effort,  
+Le parti que je prends en ce cas, c'est la mort.  
+Oui, j'aime mieux mourir, malgré ma destinée,  
+Que d'accomplir jamais un si triste hyménée,  
+Que de quitter pour prendre un homme que je hais,  
+Lisandre à qui sont dus tous les voeux que je fais.  
+Que la nature en vous réveille sa tendresse,  
+Ne m'abandonnez point aux coups de ma tristesse,  
+Formez en ma faveur de plus justes désirs,  
+Et soyez exorable enfin à mes soupirs.  
+
+    LISE, SE METTANT AUSSI À GENOUX.
+N'imitez point Orgon ; ayez, voyant sa peine,   [2]
+Pour votre fille en pleurs de la faiblesse humaine.  
+
+    CLÉON, RELEVANT LIDIANE.
+Tes douleurs m'ont touché, je me sens attendrir ;  
+Va, mon dessein n'est pas de te faire souffrir,  
+Et quoi que fasse Orgon, je soutiens impossible  
+Qu'un père en cet état ne se rende flexible.  
+La pitié dans nos coeurs usant de trahison.  
+Aux lois de la nature asservit la raison.  
+Quelque forts intérêts qui séduisent notre âme,  
+Cette même nature en leurs mains nous réclame,  
+Et surprend d'autant plus aisément notre coeur,  
+Qu'elle ne nous combat qu'à force de douceur.  
+À tes soupirs enfin tu me vois exorable,  
+Et puisqu'un tel hymen te rendrait misérable,  
+Que Lisandre est l'objet de tes voeux les plus doux,  
+Crois-moi, dès aujourd'hui tu l'auras pour époux.  
+
+    LIDIANE.
+Ah ! Quels remerciements, s'il faut qu'on vous en croie !  
+
+    CLÉON.
+Que la douleur en toi fasse place à la joie.  
+
+    LISE, À LISANDRE.
+Vous voyez à présent si mon conseil est bon.  
+Quand un père obstiné n'entre point en raison,  
+Que pour l'humaniser la maxime est très sûre,  
+Qu'il faut tâcher en lui d'émouvoir la nature,  
+C'était le seul moyen d'apaiser son courroux,  
+Car la nature en soi n'a rien que de fort doux.  
+Tartuffe est moins chéri d'Orgon qui le révère,  
+Que je sens attendrir mon coeur pour votre père ;  
+Il est tout naturel, et loin d'être inhumain,   [3]
+C'est un homme... qui... ha... un homme... un homme enfin.  
+
+    CLÉON.
+L'éloge est de Tartuffe ; ô la belle louange !  
+
+    LISE.
+Non plus que lui, je crois, vous n'êtes pas un ange ?  
+
+    CLÉON.
+Je suis un homme, enfin. As-tu de la raison ?  
+
+    LISE.
+J'en ai dans ce discours, du moins autant qu'Orgon ;  
+Et ce n'est qu'après lui que mon esprit s'envole.. .  
+
+    CLÉON.
+Pour imiter Orgon, tu n'en es pas moins folle.  
+
+    LIDIANE, À LISE.
+Que je ressens de joie en secret dans mon coeur !  
+
+    LISE, À CLÉON.
+À quoi donc pensez-vous ?  
+
+    CLÉON.
+        À me sauver l'honneur.  
+Manquerai-je à Panulphe, en rompant cette affaire ?  
+
+    LISE.
+Le grand malheur ! Orgon manque bien à Valère.  
+
+    CLÉON.
+C'est un crime si noir que violer sa foi !...  
+
+    LISE. [4]
+Je me charge de tout, et prends le mal sur moi.  
+Ayez moins de scrupule et plus de confiance...  
+
+    CLÉON.
+Peut-on du mal d'autrui charger sa conscience ?  
+
+    LISE.
+Demandez à Tartuffe... Orgon dit qu'il fera,   [5]
+Touchant un tel hymen, ce que le ciel voudra ;  
+Et puis sans dégager sa foi d'avec Valère,  
+Il s'engage à Tartuffe et veut presser l'affaire.  
+Agissez-en de même ; et si c'est un péché,  
+Le ciel, et non pas vous, en doit être taché,  
+Puisque c'est lui qui veut qu'on manque à sa promesse.  
+
+    CLÉON.
+Dans le rang où je suis, ma gloire m'intéresse,  
+Et je crains qu'un tel tour ne fasse trop d'éclat.  
+
+    LISE.
+Orgon n'était-il pas jadis homme d'État ?  
+Et cependant craint-il que quoi qu'on le renomme ?...  
+
+    CLÉON.
+Ah ! Ne m'allègue plus pour exemple un tel homme,  
+Crois-tu que comme lui j'eusse assez peu de foi,   [6]
+Pour oser préférer un bigot à mon roi ?  
+M'étant donc engagé touchant cet hyménée,  
+Je ne puis retirer ma parole donnée.  
+Va, ne résiste plus, ma fille, à m'obéir ;  
+Acceptant cet époux, tâche à le moins haïr.  
+Tu vois que de tout sort telle est la loi sévère,  
+Puisqu'enfin il y va de l'honneur de ton père.  
+Voudrais-tu me trahir ? Et puisque je le veux,  
+Rends ton âme insensible à l'ardeur de ses feux.  
+
+    LISE.
+Justement comme Orgon, c'est vouloir l'impossible,  
+Voulant qu'à contre-coeur sa fille soit sensible,  
+Et quoiqu'il n'en soit rien, qu'elle avoue hautement  
+Que Tartuffe lui plaît et qu'il est son amant.  
+N'est-ce pas faire voir plus d'un grain de folie ?  
+Car peut-on de deux coeurs dompter l'antipathie ?  
+Quoique l'obéissance ait des charmes puissants,  
+Se peut-on affranchir du commerce des sens ?  
+Et la haine et l'amour se montent-ils à vices,  
+Pour les faire et défaire au gré de ses caprices ?  
+Non, non, et votre honneur dut-il se gendarmer,  
+La haine fait haïr, et l'amour fait aimer.  
+
+    LIDIANE.
+Sitôt votre bonté se serait dissipée ?  
+Et par un faux brillant j'aurais été trompée ?  
+Quoi, secouant en vous le joug de l'amitié,  
+L'intérêt triomphant s'immole la pitié  
+Et livrant la nature à votre humeur avare,  
+Peut vous rendre à la fois et parjure et barbare !  
+Dans votre cruauté, par quelle injuste loi,  
+Pour sauver votre honneur, me manquez-vous de foi ?  
+Car enfin, si pour lui cet honneur s'intéresse,  
+D'achever cet hymen selon votre promesse,  
+M'ayant promis à moi de le rompre aujourd'hui,  
+Ne me devez-vous pas, mon père, autant qu'à lui ?  
+Si l'honneur entre nous tient votre âme en balance,  
+Que la nature emporte au moins la préférence.  
+Elle se met à genoux.
+
+Mon père, hé ! Si ce nom qui jadis vous fut cher,  
+À des traits assez doux encor pour vous toucher...  
+
+    CLÉON, S'ÉLOIGNANT D'ELLE.
+À d'autres. Derechef, vous voulez me surprendre ;  
+Pour ouïr vos douleurs, je porte un coeur trop tendre.  
+Aisément la pitié peut encor l'envahir.  
+Hé ! Si le dur Orgon que l'on vit se trahir,  
+N'avait pas de sa fille écouté la souffrance,   [7]
+Il n'aurait pas pêché contre la vraisemblance.  
+Lidiane et Lise suivent Cléon, qui s'enfuit d'elles d'un bout du théâtre à l'autre.
+
+
+    LISE.
+Quoi, ces beaux yeux en pleurs...?  
+
+    CLÉON.
+        Ses pleurs sont superflus.  
+
+    LIDIANE.
+Hé, de grâce, écoutez...  
+
+    CLÉON.
+        Vous ne m'y tenez plus.  
+
+    LISE, À PART.
+Que j'aurais de plaisir de lui dire une injure !  
+Haut à Cléon.
+
+Vous êtes si bon père, écoutez la nature.  
+
+    LIDIANE.
+Par tous vos mouvements de tendresse et d'ardeur.  
+
+    LISE.
+Par les fantômes d'or qui charment votre coeur.  
+Cléon se trouve au milieu du théâtre, et Lise et Lidiane se mettent à genoux à ses deux côtés.
+
+
+    LIDIANE.
+Par l'objet le plus cher que vous ayez au monde.  
+
+    LISE.
+Par votre grande bourse en richesses féconde.  
+
+    CLÉON.
+Avez-vous pris dessein de ne jamais cesser ?  
+Ah, je sais un moyen pour me débarrasser.  
+Si je romps cet hymen, je veux bien qu'on m'assomme.  
+Il sort.
+
+
+    LISE. [8]
+Voilà, je vous l'avoue, un abominable homme ?  
+
+
+## SCÈNE V. Lidiane, Lise.
+
+    LIDIANE.
+Est-il rien sous le ciel d'égal à mon malheur ?  
+Je prendrais un époux pour qui j'ai de l'horreur.  
+
+    LISE.
+Non, non, consolez-vous, vous serez mariée,   [9]
+Et si vous ne serez jamais Panulphiée.  
+Je sais certain secret qui vous peut secourir,  
+Mais ce lieu m'est suspect pour vous le découvrir.  
+Ayant regardé partout.
+
+Je vais tout visiter... Dans la peur qui m'accable,  
+Il ne me reste plus qu'à chercher sous la table.  
+
+    LIDIANE.
+Es-tu folle ? Crois-tu que quelqu'un ?...  
+
+    LISE.
+        Que sait-on  
+Si je n'y pourrais point rencontrer quelqu'Orgon ?  
+Si Tartuffe est si fat que de se faire entendre,  
+Je ne suis pas d'humeur à me laisser surprendre.  
+
+    LIDIANE.
+Que j'ai d'impatience à savoir ce secret !  
+
+    LISE.
+Ce lieu, tout grand qu'il est, ne peut être indiscret.  
+
+    LIDIANE.
+Ne me fais point languir... et dis-moi sans mystère...  
+
+    LISE.
+Il faut auparavant bannir toute humeur fière.  
+
+    LIDIANE.
+Volontiers, j'y consens pour guérir ma douleur.  
+
+    LISE.
+Ne point trop écouter les lois de la pudeur.  
+
+    LIDIANE.
+Déjà, sans le savoir, un tel secret m'étonne.  
+
+    LISE.
+Et même il ne faut pas que votre honneur raisonne.  
+
+    LIDIANE.
+Dussé-je de mon sort éprouver la rigueur,  
+Je ne sortirai point des règles de l'honneur.  
+
+    LISE.
+Mais...  
+
+    LIDIANE.
+    Je ne puis t'entendre.  
+
+    LISE.
+        Ayez plus de franchise.  
+
+    LIDIANE.
+Non.  
+
+    LISE.
+    Quoi...  
+
+    LIDIANE.
+        Je ne veux pas, enfin, qu'on me le dise.  
+Sachant un tel secret, quoiqu'il choquât l'honneur,  
+Je pourrais m'en servir au gré de ma fureur.  
+
+    LISE.
+Ma foi, vous l'entendrez.  
+
+    LIDIANE.
+        Ton erreur est extrême.  
+
+    LISE. [10]
+Je vais ici tout haut me le dire à moi-même.  
+Avant que d'imiter la servante d'Orgon,  
+Que votre honneur au moins se rende à la raison.  
+
+    LIDIANE.
+Dis-moi donc quel il est ? Quand j'aurai su l'apprendre...  
+
+    LISE.
+C'est qu'il faudrait vous faire enlever par Lisandre,  
+Et fort adroitement il le faut disposer...  
+
+    LIDIANE.
+Ah ! Qu'oses-tu, méchante, ici me proposer ?  
+Hé quoi, non seulement tu veux, dans ta malice,  
+Me faire consentir que mon honneur périsse ;  
+Mais encor sans pudeur tu veux que de mes mains  
+Je travaille à sa perte, et souille ses destins,  
+Et loin d'en rejeter la coupable prière,  
+Que moi-même je prie et j'ouvre la carrière,  
+Et livrant ma vertu pour victime à mes sens,  
+Que mon coeur se réduise à séduire les gens ?  
+Peut-on voir une femme à ce point effrontée ?  
+
+    LISE.
+Oui, la femme d'Orgon n'est pas moins emportée !  
+Ne la voyons-nous pas, oubliant sa pudeur,  
+En faveur de Tartuffe expliquer sou ardeur ?  
+Et courant au devant, bien loin d'être sévère,  
+Ne lui fait-elle pas ce qu'il lui devrait faire ?  
+Prévenant ses désirs par mille et mille aveux,  
+Pour le faire descendre à l'endroit chatouilleux,  
+Ne conduit-elle pas, d'un infâme artifice,  
+Son honneur imbécile au bord du précipice ?  
+Et ne juge-t-on pas, en la voyant agir,  
+Qu'elle passerait bien plus outre sans rougir ?  
+
+    LIDIANE.
+Un tel raisonnement est digne qu'on l'admire ;  
+Oses-tu bien noircir l'innocence d'Elmire ?  
+Sachant qu'elle ne feint d'exposer son honneur,  
+Qu'afin de mieux confondre uu traître, un imposteur.  
+
+    LISE.
+Mais Tartuffe voit-il dans le fond de son âme ?  
+Pour dire les transports d'une trompeuse flamme,  
+Il est bien moins aisé de dompter sa pudeur,  
+Que pour marquer l'excès d'une sincère ardeur.  
+Quand un coeur en effet sent de vives souffrances,  
+La passion le rend aveugle aux conséquences ;  
+Mais alors que l'on feint, le devoir révolté  
+Fait voir un tel discours de venin infecté,  
+Et la honte au dehors faisant sa résidence,  
+Nait de ce que l'on dit, et non de ce qu'on pense.  
+
+
+## SCÈNE VI. Lisandre, Lisiane, Lise.
+
+    LISANDRE.
+Ah ! Madame, est-ce ainsi que vous vous engagez ?  
+Sous les lois de l'hymen ainsi vous vous rangez ?  
+Dès ce soir, m'a-t-on dit, au gré de votre flamme,  
+D'un autre époux que moi l'on vous verra la femme.  
+
+    LIDIANE.
+Je ne puis m'en défendre, et mon père le veut.  
+
+    LISANDRE.
+L'amour au désespoir aussi fait ce qu'il peut  
+Pour rompre en ma faveur cette fatale affaire.  
+Ah ! Vous y consentez, la preuve en est trop claire,  
+Et je n'en puis douter, vous me manquez de foi.  
+Hé bien, Madame, hé bien, dégagez-vous de moi ;  
+Mais craignez les transports de ma vive colère.  
+
+    LISE.
+Peut-on voir un brutal plus semblable à Valère ?  
+Peut-ou mieux comme lui, dans un tel contre-temps,  
+Expliquer ce qu'on dit selon son mauvais sens ?  
+Ainsi votre vengeance à ce point est cruelle,  
+Que de faire tomber votre fureur sur elle ?  
+
+    LISANDRE.
+Non, non ; mais si j'apprends quel est cet inhumain,  
+Je veux avec plaisir le tuer de ma main.  
+
+    LISE.
+Vous tuerez donc un homme avec moins de colère,   [11]
+Que Tartuffe une puce en faisant sa prière ?  
+
+    LISANDRE.
+Oui, je veux à longs traits savourer la douceur  
+De lui ravir celui qui possède son coeur,  
+Et que partout son sang...  
+
+    LISE.
+        Halte là ! Mon beau-frère,  
+Le fils d'Orgon n'est point d'humeur si sanguinaire ;  
+Tartuffe le trahit et le fait sans raison,  
+Par son père irrité chasser de sa maison ;  
+Et loin de concevoir des cruautés pareilles,  
+Il lui veut seulement couper les deux oreilles,  
+Et vous ?...  
+
+    LISANDRE.
+    Ne raillons point.  
+
+    LISE.
+        Il est vrai que j'ai tort,  
+Votre rival respire et n'est pas encor mort.  
+Êtes-vous insensé ? De lui faire querelle,  
+Quand son amour pour vous se montre si fidèle,  
+Et son coeur obstiné, pour vous garder sa foi,  
+Des désirs paternels combat la dure loi.  
+
+    LISANDRE, À LIDIANE.
+Oh ! Qu'entends-je, Madame ! Et serait-il possible ?  
+
+    LIDIANE.
+Croyez-vous que mon coeur pour vous soit insensible ?  
+Vous ne méritez pas qu'on vous fasse un aveu...  
+
+    LISANDRE.
+Ah ! Pardonnez, Madame, aux transports de mon feu,  
+Pardonnez aux soupçons...  
+
+    LISE.
+        Trêve à ce badinage,  
+Et songeons à parer ce pressant mariage.  
+J'entends quelqu'un qui vient, l'on peut vous arrêter,  
+Montez dans votre chambre, afin d'y consulter ;  
+Je m'en vais renvoyer d'ici qui ce puisse être,  
+Et vous irai trouver.  
+
+
+## SCÈNE VII. Laurens, Lise.
+
+    LAURENS.
+        N'as-tu point vu mon maître ?  
+
+    LISE.
+Va le chercher ailleurs. Non, il n'est point ici.  
+Que vient-il redoubler encor notre souci ?  
+Ne te l'ai-je pas dit cent fois en confidence,  
+Que l'affaire, en un mot, n'ira pas comme on pense ?  
+Que quoi que Lidiane ait pour lui des attraits,  
+Ton maître doit s'attendre à ne l'avoir jamais.  
+
+    LAURENS.
+Je ne m'étonne pas de ton humeur fâcheuse.   [12]
+J'ai rêvé, cette nuit, de mort et d'eau bourbeuse,  
+J'ai bien cru que c'étaient des présages mauvais.  
+Mais pourquoi contre moi lances-tu tous ces traits ?  
+Bien loin de quereller, quand je te vois si belle,  
+Mon âme se transporte, et ma ferveur est telle...  
+
+    LISE. [13]
+Tu m'écaches les doigts... Le plaisant amoureux !  
+Faire du mal aux gens, pour témoigner ses feux.  
+
+    LAURENS.
+C'est que je fais l'amour à la nouvelle mode,  
+Du Tartuffe enflammé j'imite la méthode.  
+Il embrasse la cuisse de Lise.
+ [14]
+Ton étoffe est moelleuse !  
+
+    LISE.
+        En un pareil dessein,  
+C'est mal suivre Tartuffe, il n'y met qu'une main.  
+Ne te hasarde point à me faire caresse,   [15]
+Car je te ferais voir une vertu diablesse ;   [16]
+Je défends mon honneur de griffes et de dents,  
+Et je sais pour un mot dévisager les gens ;  
+Car lorsqu'avec douceur on veut se montrer sage,  
+Plus avant qu'on ne veut, fort souvent on s'engage.  
+
+    LAURENS.
+Que ton collier est beau !  
+
+    LISE.
+        Je comprends ton dessein :   [17]
+Tu voudrais bien par là me patiner le sein.  
+
+    LAURENS.
+Non, laisse-le moi voir ; les perles en sont grosses,  
+Et d'une fort belle eau.  
+
+    LISE.
+    Bien.  
+
+    LAURENS.
+        Mais je les crois fausses.  
+
+    LISE.
+Tant mieux, je ne veux point te les laisser toucher ;  
+Tu peux les voir de loin, et sans en approcher.  
+
+    LAURENS, APPROCHANT. [18]
+Je ne puis voir de loin et suis court de visière.  
+
+    LISE.
+Ne t'émancipe pas, car ma main est légère.  
+
+    LAURENS.
+Ça, faisons un marché. Donne-moi deux soufflets,  
+Et me laisse baiser tes tétons rondelets.  
+L'offre est...  
+
+    LISE.
+        J'aurais trop peur de te voir pâmer d'aise.  
+
+    LAURENS.
+À la pâmoison près, permets que je les baise.  
+
+    LISE.
+Non, je ne le veux pas.  
+
+    LAURENS.
+        Que tu fais de façons !  
+Si ce n'est pour baiser, à quoi bon des tétons ?  
+Qui te retient ?... À tort c'est faire la cruelle ;  
+Nous sommes seuls ici, l'occasion est belle.  
+
+    LISE.
+Hé ! Quand nous serions seuls, est-ce un moindre péché ?  
+
+    LAURENS.
+Le crime n'est pas crime alors qu'il est caché.   [19]
+Le scandale du monde est ce qui fait l'offense,  
+Et ce n'est pas pêcher, que pêcher en silence.  
+Paroles de Tartuffe, auteur dont on fait cas ;  
+S'il n'était véritable, il ne le dirait pas.  
+Si tu ne veux quitter une humeur si farouche,  
+Je meurs.  
+
+    LISE.
+    Tant pis pour toi.  
+
+    LAURENS.
+        Que ma douleur te touche !  
+
+    LISE.
+Aussi dure qu'Orgon, ta trépasserais là,   [20]
+Que je m'en soucierais autant que de cela.  
+
+    LAURENS.
+Tu perdrais un amant et sincère et fidèle ?  
+
+    LISE.
+Et lui tous ses parents, et si son âme est telle.  
+
+    LAURENS.
+Si je ne craignais point que nous fussions surpris,  
+Ma foi, je te ferais, dans l'ardeur où je suis...  
+
+    LISE.
+Quoi donc ?  
+
+    LAURENS.
+    Rien.  
+
+    LISE.
+    Mais encor ?  
+
+    LAURENS.
+        Tu veux que je le dise ?  
+Je te...  
+Montrant ses tétons.
+ [21]
+        Tu me ferais lâcher quelque sottise.  
+Laisse-moi les baiser.  
+
+    LISE.
+        En seras-tu plus gras ?  
+
+    LAURENS.
+Oui.  
+
+    LISE.
+    Non.  
+
+    LAURENS.
+    De grâce.  
+
+    LISE.
+    Non.  
+
+    LAURENS, SE DÉPITANT.
+        Tu t'en repentiras.  
+Il revient doucement.
+
+Hé ! Que je les manie, au moins.  
+
+    LISE.
+        Que je suis lasse !  
+
+    LAURENS.
+Puisque tu ne veux pas m'accorder cette grâce,  
+Si je voulais par force attaquer ton honneur,  
+Comment donc ferais-tu ?  
+
+    LISE.
+        Je crierais au voleur.  
+
+    LAURENS.
+Hé ! Pourquoi ? Te laissant toute chose en nature.  
+Tu ne veux pas ?  
+
+    LISE.
+    Non.  
+
+    LAURENS.
+    Non ?  
+
+    LISE.
+        En vérité, j'en jure.  
+
+    LAURENS.
+Pour me cacher ton sein prends-moi donc ce mouchoir,  
+Car sans tentation je ne saurais le voir ;   [22]
+Par de pareils objets les âmes sont blessées,  
+Et cela fait venir de coupables pensées.  
+
+    LISE.
+Lorsque l'on voit un sein que l'on n'ose toucher,  
+L'on n'a pas grande peine à le faire cacher.  
+Ah ! Tartuffe maudit ! Dont la mine empruntée...  
+Je te verrais tout nu, sans en être tentée.  
+
+    LAURENS, COMMENÇANT À SE DÉSHABILLER.
+Il le faut éprouver.  
+
+    LISE, LE RETENANT.
+        Il n'est pas besoin, non.  
+Quoi ! Tu serais sujet à la tentation ?   [23]
+Un valet tel que toi, de l'amour se consomme ?  
+
+    LAURENS. [24]
+Ah ! Pour être valet, je n'en suis pas moins homme.  
+
+    LISE.
+Ce vers est de Tartuffe, et c'est piller l'auteur.  
+
+    LAURENS.
+Bon, n'est-il pas permis de voler un voleur ?  
+Ce vers étant sorti du cerveau de Corneille,  
+Le voler à mon tour, n'est pas grande merveille.  
+
+    LISE.
+Il aurait pris ce vers ?  
+
+    LAURENS.
+        Ce n'est pas d'aujourd'hui,  
+Qu'il se sait enrichir des dépouilles d'autrui.  
+
+    LISE.
+Mais il en a changé le sens en sa manière.  
+
+    LAURENS.
+Je sais qu'il a changé, pour suivre sa matière.  
+Le Romain en dévot ; et moi pour mon sujet,  
+N'ai-je pas transformé le dévot en valet ?  
+Il éternue.
+
+Qu'as-tu donc contre moi ? Quelle humeur te possède ?   [25]
+À Tartuffe, rotant, Orgon dit : Dieu vous aide ;  
+Moi, j'éternue en forme et tu ne me dis rien ?  
+
+    LISE.
+J'avais l'esprit ailleurs, et tu m'excuses bien ;  
+Mais changeons de propos, et parlons de ton maître.  
+Dis-moi, dans son humeur quel homme ce peut être.  
+
+    LAURENS.
+C'est un homme de bien, fanfaron de vertu,  
+Et si pour s'en targuer, il n'en a jamais eu.  
+Mais, au moins, je te parle en bonne confidence ;  
+Quoiqu'on le croie honnête, il n'est pas ce qu'on pense ;  
+Lui-même de lui-même est enfin aveuglé !  
+Si l'on savait ses tours...  
+À part.
+
+        Peste ! J'ai trop parlé.  
+
+    LISE.
+Mais encore, quels tours ?  
+
+    LAURENS.
+        Il n'est pas nécessaire...  
+
+    LISE.
+Dis ?  
+
+    LAURENS.
+        Je connais ma faute, il est temps de me taire.  
+
+    LISE.
+Si tu ne voulais pas que je susse ces tours,  
+Il ne me fallait point entamer ce discours.  
+Va, n'appréhende rien, tu me connais discrète.  
+
+    LAURENS.
+Oui, mais je crains ta langue. Ah ! que n'es-tu muette.  
+Mais, que dis-je, muette ! Hé ! Quand tu le serais,  
+Tes signes parleraient au défaut de ta voix.  
+
+    LISE.
+C'est m'offenser par où je suis le plus sensible.  
+Tu crois que je serais...?  
+
+    LAURENS.
+        Vois-tu, tout est possible.  
+Outre que votre sexe est suspect en ce point,  
+Je sais que le secret chez toi ne vieillit point.  
+
+    LISE.
+Tu ne me connais pas... Savoir tout sans rien dire,  
+Est une qualité que moi-même j'admire.  
+
+    LAURENS.
+Bon, je veux qu'on m'admire, et ne te dire rien,  
+En est tout justement l'infaillible moyen.  
+
+    LISE.
+Tu ne veux pas plus loin pousser la confidence ?  
+Se défier de moi, c'est choquer ma prudence.  
+
+    LAURENS.
+Le secret à mes yeux fait briller tant d'appas...  
+
+    LISE, FRAPPANT SES MAINS.
+Ah ! Tu te tais ? Et moi, je ne me tairai pas.  
+Loin d'imiter d'Orgon la trop discrète femme,  
+Qui du Tartuffe ingrat lui veut cacher la flamme,  
+D'abord que devant moi ton maître paraîtra,  
+Je lui conterai tout...  
+
+    LAURENS.
+    Hé !...  
+
+    LISE.
+        Non, il le saura...  
+Laurens la tire pour l'empêcher.
+
+Mais il vient à propos, point de miséricorde.  
+C'est un plaisir pour moi de semer la discorde.  
+
+
+## SCÈNE VIII. Tartuffe, Lise, Laurens.
+
+    LISE.
+Quoi, Monsieur, souffrez-vous qu'un traître, un imposteur  
+Fasse tous ses efforts pour vous perdre d'honneur ?  
+Vous vous faites servir d'un zélé domestique ;   [26]
+Il fait de votre humeur un beau panégyrique !  
+
+    TARTUFFE.
+Comment ?  
+
+    LISE.
+        Si l'on en croit ses obligeants discours,  
+Vous êtes bien honnête, et faites de bons tours.  
+
+    TARTUFFE.
+Qu'entends-je ? Juste ciel !  
+
+    LAURENS, À PART.
+        Ah ! Traîtresse maudite,  
+Pour un membre à choisir, j'en voudrais être quitte.  
+
+    TARTUFFE, À PART.
+Éclaterai-je ici ? N'éclaterai-je pas ?  
+
+    LAURENS, À PART.
+Je ne sais que résoudre en un tel embarras.  
+
+    TARTUFFE, À LAURENS. [27]
+Quoi ! Tu me trahirais ? Et tu serais capable ?...  
+
+    LAURENS.
+Oui, mon maître, je suis un méchant, un coupable,   [28]
+Un inique valet, dont les intentions   [29]
+Vont à vous accabler de tribulations ;  
+Je suis un scélérat, de qui la calomnie  
+Veut tacher votre nom de honte et d'infamie.  
+Allez, n'en doutez point, croyez en son récit,  
+J'en ai plus dit encor qu'on ne vous en a dit.  
+
+    TARTUFFE, À PART.
+Pourquoi suis-je en un lieu qu'il faut que je révère,  
+Et qui contraint mon coeur d'étouffer sa colère !  
+
+    LISE.
+Hé quoi ! De tels discours vous émeuvent si peu ?  
+Je pense être croyable après un tel aveu.  
+
+    LAURENS.
+De vos émotions les transports sont trop sages ;  
+Punissez mes forfaits, retenez-moi mes gages,  
+Et m'otant vos couleurs, traitez-moi rudement.  
+Je n'en murmurerai, mon maître, nullement.  
+
+    TARTUFFE, À PART.
+Non, de mes mouvements je ne puis être maître,  
+Et ne puis plus souffrir l'insolence d'un traître.  
+À Laurent.
+
+Penses-tu me tromper comme l'on fait Orgon ?   [30]
+Cette ruse grossière... Un bâton... un bâton !  
+
+    LAURENS.
+Fuyons comme Damis.  
+
+    TARTUFFE, ALLANT PRÈS DE LUI.
+        Après ton impudence,   [31]
+Ne te montre jamais, fripon, en ma présence.  
+
+
+## SCÈNE IX. Tartuffe, Lise.
+
+    LISE.
+Quelle malice, ô ciel ! Ce crime est sans pardon.  
+Oser ainsi noircir un maître, sans raison !  
+
+    TARTUFFE, SE RETOURNANT VERS LA PORTE.
+Coquin !  
+
+    LISE.
+        Je ne suis pas d'une humeur si traistresse  
+Et conserve autrement l'honneur de ma maîtresse.  
+
+    TARTUFFE. [32]
+Pendard !  
+
+    LISE.
+        Comme il a fait, peut-on manquer de foi ?  
+
+    TARTUFFE.
+Infâme !  
+
+    LISE.
+        Bien des gens ont fait mal devant moi,  
+Et si loin d'en parler, j'ai fort bien su m'en taire,  
+Et cacher dans mon sein tout ce que j'ai vu faire.  
+
+    TARTUFFE, S'EN ALLANT À LA PORTE EN FURIE.
+Ah ! Traître... ingrat... fripon !  
+
+    LISE.
+        Après un tel forfait,  
+Vous le traitez en fils, et non pas en valet.  
+Orgon de son Tartuffe armant les impostures,  
+N'outrage pas Damis avec d'autres injures.  
+
+    TARTUFFE.
+Que n'ai-je sur la place assommé ce vaurien !  
+
+    LISE.
+C'est un coquin, Monsieur, il le mérite bien.  
+
+    TARTUFFE.
+Je sens que contre lui la fureur me transporte ;  
+Pour l'aller étrangler, permettez que je sorte,  
+
+    LISE.
+Qui vous retient ici ?... Mais Cléon vient à nous.  
+Lise sort.
+
+
+
+## SCÈNE X. Cléon, Tartuffe.
+
+    CLÉON.
+Ah ! Monsieur, de ce pas je venais de chez vous.  
+
+    TARTUFFE.
+J'étais chez Licidas.  
+
+    CLÉON.
+        Quoi, ce pauvre poète !  
+
+    TARTUFFE.
+Comment le traitez-vous ?  
+
+    CLÉON.
+        Comme il faut qu'on le traite.  
+
+    TARTUFFE. [33]
+Ses ouvrages limés surprennent les plus fins,  
+Et jamais on ne voit avorter ses desseins.  
+Guidé par la raison, d'une adresse subtile,  
+Il sait enfin mêler l'agréable à l'utile.  
+
+    CLÉON.
+Hé ! Que direz-vous donc de notre auteur du temps ?  
+
+    TARTUFFE.
+Qu'il ravale la scène an gré des ignorants ;  
+Son esprit est si haut branché dans ce qu'il pense,  
+Qu'il ne descend jamais jusqu'à la vraisemblance.  
+
+    CLÉON. [34]
+Le pauvre homme !  
+
+    TARTUFFE.
+        L'exemple en est claire en Orgon.  
+Ce Tartuffe à tel point aveuglant sa raison,  
+Que sans examiner si c'est lui qui l'abuse,  
+Il lui donne ses biens dans le temps qu'on l'accuse,  
+Et par un sot dépit, viole en même temps,  
+Le sang, l'amour, l'honneur et la loi des parents.  
+Quoi ! Ne devait-il pas, dans cette conjoncture,  
+Avant que d'arracher son coeur à la nature,  
+Approfondir du moins, le voyant accusé,  
+Si ce crime en effet n'était que supposé ?  
+Licidas ne prend point de pareille licence ;  
+L'on voit dans ses sujets briller la vraisemblance ;  
+Et surtout son esprit, dans tous ses dénouements,  
+Démêle avec tant d'art ses divers incidents,  
+Qu'ayant mis en suspens par d'adroits artifices,  
+Qui le doit emporter des vertus, ou des vices,  
+Au gré de l'auditeur, les vices abattus,  
+Réchauffent le triomphe et l'éclat des vertus.  
+
+    CLÉON.
+Et l'autre auteur ?  
+
+    TARTUFFE.
+        Pour l'autre, il met tout en usage ;  
+C'est pour lui de l'hébreu, que finit un ouvrage ;  
+Dans son invention son esprit transporté,  
+L'injustice à ses yeux passe pour l'équité.  
+Ainsi souvent chez lui la vertu cède au vice,  
+Mais, las ! C'est par erreur, plutôt que par malice.  
+
+    CLÉON.
+Le pauvre homme !  
+
+    TARTUFFE.
+        Tartuffe ici nous en fait foi,  
+En fidèle sujet, il va trouver son roi  
+Et l'instruit d'un secret qui le tire de peine ;  
+Mais parce qu'il commence à nuire sur la scène,  
+Pour l'en faire sortir, cet auteur sans raison  
+Fait commander au roi qu'on le mène en prison ;  
+Et contre son devoir, quoi qu'Orgon ait su faire,  
+Et sachant ce secret, quoi qu'il ait su en taire,  
+Qu'il ait blessé par là l'auguste Majesté,  
+Il triomphe, bien loin d'en être inquiété.  
+Qu'importe à cet auteur d'élever l'injustice,  
+Pourvu qu'heureusement son poème finisse.  
+Qu'une telle action est bien digne de toi ;  
+Mais que ne connais-tu le coeur d'un si grand roi ?  
+Tu saurais que ce coeur illustre autant qu'auguste,  
+N'a jamais démenti le beau titre de juste,  
+Que le noble transport de ses beaux monuments  
+Ne confond point ses dons avec ses châtiments ;  
+Que jamais la pitié ne séduit sa justice,  
+Et qu'il ne punit point les hommes par caprice.  
+
+
+## SCÈNE XI. Cléon, Tartuffe, Lise, Lidiane.
+
+    LISE, À LIDIANE AU BOUT DU THÉÂTRE.
+Comment faire, après tout ? Notre affaire va mal.  
+Qu'il attende à sortir au bruit de mon signal.  
+Je vais par mes discours amuser votre père ;  
+Qu'il tâche cependant à sortir par derrière.  
+
+    CLÉON.
+Je sais que c'est à tort qu'il a des envieux.  
+Que diable ! S'il pouvait, ne ferait-il pas mieux ?  
+Et quoiqu'il plaise à faux, en est-il moins louable ?  
+Je sais qu'il fait des vers qui le rendent pendable ;  
+Que tous ses incidents chez lui tant rabattus,  
+Sont nés en Italie, et par lui revêtus ;  
+Et dans son cabinet, que sa muse en campagne  
+Vole dans mille auteurs les sottises d'Espagne ;  
+Mais le siècle le souffre, et malgré ma raison,  
+Le pauvre homme ! Pour moi, je signe son pardon.  
+Quittons donc son chapitre et changeons de langage ;  
+Songeons à mettre fin à votre mariage.  
+Lise tousse pour avertir Lisandre de sortir.
+
+
+    TARTUFFE.
+Que par un tel discours vous ravissez mon coeur !  
+
+    CLÉON.
+Ma fille est encor jeune, et l'hymen luy fait peur ;  
+Lise tousse encore.
+
+Mais je veux dès ce soir...  
+
+    LISE, TIRANT CLÉON.
+        Quoi ! Donner votre fille  
+À cet homme inconnu, sans savoir sa famille ?  
+
+    CLÉON, À LISE.
+Sa famille est son bien.  
+
+    LISE.
+    L'avarice.  
+
+    CLÉON, À LISE.
+        Tais-toi.  
+À Tartuffe.
+
+Disposez-vous enfin à recevoir sa foi.  
+
+    LISE, LE TIRANT ENCORE.
+Vous rêvez...  
+
+    CLÉON, À LISE.
+        Tu veux donc me voir mettre en colère ?  
+À Tartuffe.
+
+Que j'aurai de plaisir d'accomplir cette affaire.  
+Lise tousse.
+
+Mais tu tousses bien fort, que veut dire ceci ?  
+
+    LISE.
+Je guérirai bientôt, n'entrez point en souci.  
+
+    CLÉON.
+Ce rhume n'est-il point un rhume de mystère ?  
+Je...  
+
+    TARTUFFE.
+        Je porte sur moi d'un jus fort salutaire.  
+
+    LISE.
+Ce mal m'est ordinaire, et je connais fort bien,  
+Monsieur, que votre jus ici ne fera rien.  
+
+    CLÉON.
+Çà, voyons si ma fille est enfin disposée...  
+Lise tousse.
+
+Mais, quoi ! Ta toux redouble.  
+Apercevant Lisandre.
+
+        Ah ! Malade rusée,  
+C'était donc là le mal qui te causait ta toux ?  
+
+
+## SCÈNE XII. Cléon, Tartuffe, Lisandre, Lidiane, Lise.
+
+    LISANDRE, APERCEVANT TARTUFFE.
+Ah! Tartuffe ! Bonjour ; comment vous portez-vous ?  
+
+    CLÉON.
+Qn'entens-je ? De quel nom ?...  
+
+    LISANDRE.
+        Quoi ! Son nom vous étonne ?  
+
+    CLÉON.
+Oui.  
+
+    LISANDRE.
+        Tartuffe est pourtant le seul nom qu'on lui donne.  
+
+    CLÉON, À TARTUFFE.
+Quoi ! Vous êtes Tartuffe ?  
+
+    LISANDRE.
+        Oui, mais je suis surpris...  
+
+    CLÉON.
+Dont Molière a si mal régalé les esprits ?  
+
+    LISANDRE.
+Le voilà justement ; mais c'est une injustice,  
+Car quoiqu'il soit sans bien, il n'a point de malice.  
+
+    CLÉON.
+Il n'a point d'autre nom ?  
+
+    LISANDRE.
+    Non.  
+
+    TARTUFFE, À PART.
+        Que je suis confus !  
+
+    CLÉON.
+Tartuffe paraissant, Panulphe n'est donc plus ?  
+
+    LISANDRE.
+Quoi ! Panulphe ? Ce nom n'est rien qu'une chimère,  
+Et je le sais fort bien, car j'ai connu son père.  
+
+    LISE.
+L'avez-vous vu jadis ?  
+
+    TARTUFFE, BAS.
+        Ô malheur imprévu !  
+
+    LISANDRE. [35]
+Je l'ai vu comme Orgon, ce qu'on appelle vu.  
+
+    CLÉON, À TARTUFFE.
+Vous ne nous dites mot ! Au moins, daignez répondre.  
+
+    LIDIANE.
+Ce silence profond suffit pour le confondre.  
+
+    CLÉON.
+Je n'en puis plus douter, Panulphe est un faux nom.  
+Vous croyez donc en moi trouver un autre Orgon ?  
+Et par de faux contrats pour devenir mon gendre.  
+Sous ce nom emprunté vous vouliez me surprendre ?  
+
+    LISANDRE.
+Ah ! Qu'entends-je à mon tour ? Tartuffe est mon rival ?  
+
+    CLÉON. [36]
+L'homme est, je vous l'avoue, un méchant animal !  
+Ô ! Ciel, l'étrange abus que dans le mariage !  
+Qui sait le mieux duper, passe pour le plus sage !  
+Qui d'une telle fourbe eut redouté l'effet ?  
+
+    LISANDRE.
+Pourrais-je profiter ici de son forfait ?  
+Je ne puis en mérite égaler votre fille ;  
+Mais, Monsieur, vous savez mon bien et ma famille  
+Du moins si je n'ai pas tant de riches trésors,  
+Je ne vous trompe point, paré de faux dehors.  
+
+    CLÉON.
+Oui, Monsieur, dès ce soir je vous tiendrai promesse.  
+Peut-on mettre en usage un tel tour de souplesse ?  
+Je ne m'étonne plus, si tantôt en fureur,  
+Son âme s'acharnait à blâmer cet auteur.  
+Selon ce que je vois, n'en déplaise à Molière,  
+Pour vous cette peinture est un peu trop grossière ;  
+C'est vous que son exempt, avec juste raison,  
+Devrait pour vos forfaits, resserrer en prison.  
+Adieu, Monsieur Tartuffe, ayez moins d'imprudence ;  
+D'autres gens pourraient bien punir votre insolence.  
+
+
+# ANNEXE.
+
+
+## PRÉFACE REÉDITION 1868 de Paul Lacroix.
+
+Cette comédie, qui fut faite à l'occasion de la reprise du Tartuffe, représenté enfin, avec des changements, le 5 février 1669, sur le théâtre du Palais-Royal, doit avoir été jouée au théâtre de l'Hôtel de Bourgogne ou bien au théâtre du Marais, car on a tout lieu de supposer que l'un ou l'autre de ces deux théâtres avait voulu profiter de l'immense succès du chef d'oeuvre de Molière, qui eut quarante-quatre représentations presque consécutives. M. Taschereau pense, au contraire, que la Critique du Tartuffe n'a pas été représentée.
+
+L'auteur de cette Critique ne s'est pas nommé ; Bret a supposé, bien gratuitement, qu'on pouvait reconnaître Pradon dans la Lettre satirique sur le Tartuffe écrite à l'auteur de la Critique, lettre en vers, imprimée en tête de la comédie. Nous ne trouvons nulle part que Pradon ait été l'ennemi de Molière, et sa querelle avec Racine, à l'occasion de la tragédie de Phèdre, n'éclata qu'en 1676. Cette Lettre satirique, quel qu'en soit l'auteur, est assez bien tournée et renferme quelques vers intéressants relatifs à Molière.
+
+La Critique du Tartuffe aurait donc été représentée, sans faire beaucoup de bruit, avant le 19 novembre 1669, date du privilège du roi ; l'achevé d'imprimer est du 29 décembre de la même année. Nous attribuons cette pièce au comédien de Villiers, qui avait composé, comme Molière, un Festin de Pierre, et qui devait garder rancune à son illustre confrère d'avoir traité le même sujet, et avec plus de bonheur que lui.
+
+« Molière à son bonheur doit tous ses avantages, » dit l'auteur de la Lettre satyrique, auteur anonyme, dans lequel nous pourrions reconnaître, au cachet du style, le poète Boursault, qui avait eu le malheur de se mettre en lutte ouverte avec Molière et qui est vivement défendu, sous le nom de Licidas, dans la Critique du Tartuffe. De Villiers jouait les pièces de Boursault ou Licidas, à l'Hôtel de Bourgogne.
+
+M. Taschereau, dans son Histoire de la vie et des ouvrages de Molière (3ème édition, Paris, Hetzel, 1844, in-12, page 146), a fait ressortir tout ce qu'il y avait de lâche et de perfide dans la Critique du Tartuffe. C'est une raison de plus, pour nous faire croire que de Villiers est l'auteur de cette comédie, qu'il n'a pas signée, comme sa comédie de la Vengeance des Marquis, soit qu'il ait eu honte d'avouer ses odieuses insinuations contre Molière, soit que la pièce qui les renferme ait été mal accueillie du public. Quoiqu'il en soit, le privilège fut accordé au libraire Gabriel Quinet, qui publiait et vendait alors, à sa boutique du Palais, les comédies du sieur Villiers. Celle-ci, plus rare encore que les autres, n'a pas eu de seconde édition.
+
+-------
+
+
+[1] Gueuser : Mendier, demander l'aumône. On le dit aussi d'un homme nécessiteux. Se dit aussi au figuré, pour demander, exiger. F
+
+[2] Voir le Tartuffe de Molière, Acte IV, sc. 2, v. 1292, ORGON : "Allons, ferme, mon coeur, point de faiblesse humaine."
+
+[3] Voir le Tartuffe de Molière, Acte I, sc. 5, v. 272, ORGON : "C'est un homme.... Qui.... Ha !... Un homme.... Un homme"
+
+[4] Voir le Tartuffe de Molière, Acte IV, sc. 5, v. 1496, TARTUFFE : "Je vous réponds de tout, et prends le mal sur moi."
+
+[5] Voir le Tartuffe de Molière, Acte I, sc. 5, v. 422-423, ORGON : "De faire// Ce que le CIel voudra."
+
+[6] Bigot : Qui contrefait le dévot, qui prie Dieu par hypocrisie.
+
+[7] Vraisemblance : Caractère ou apparence vérité.
+
+[8] Voir le Tartuffe de Molière, Acte Iv, sc. 6, v. 1529, ORGON : "Voilà, je vous l'avoue, un abominable homme."
+
+[9] Panulphier : barbarisme, transformer en Madame Panulphe, mariée avec lui.
+
+[10] Voir le vers 569, du Tartuffe de Molière, DORINE, Acte II, scène 2.
+
+[11] Voir "D'avoir pris une puce en faisant sa prière," du Tartuffe de Molière, ORGON, Acte I, scène 5, v. 309. 
+
+[12] Voir "Cassé quelque miroir, ou songé d'eau bourbeuse." dans le Tartuffe de Molière, DORINE Acte II, scène 4, v. 806
+
+[13] Ecacher : Presse, aplatir, froisser, écraser. F
+
+[14] Voir "Je tâte votre habit : l'étoffe en est moelleuse." dans le Tartuffe de Molière, TARTUFFE, Acte III, Scène 3, v. 917.
+
+[15] Voir "Je veux une vertu qui ne soit point diablesse," dans le Tartuffe de Molière, ELMIRE, Acte IV, Scène 3, v. 1334.
+
+[16] Voir "Dont l'honneur est armé de griffes et de dents," dans le Tartuffe de Molière, ELMIRE, Acte IV, Scène 3, v. 1331.
+
+[17] Patiner : Manier mal proprement. On dit aussi, qu'on patine une femme, quand on lui manie indiscrètement, les bras, le sein etc. F
+
+[18] Court de visière : Avoir peu de sagesse, de pénétration. L
+
+[19] Les vers 433 et 434 sont identiques aux vers 1505 et 1506 dans Le Tartuffe de Molière, Acte IV, scène 5. 
+
+[20] Le vers 440 est identique au vers 279 du Tartuffe de Molière, ORGON, Acte I, scène 5.
+
+[21] Voir "Il eût.... Vous me feriez dire quelque sottise." du Tartuffe de Molière, Acte V, scène 3, v. 1689.
+
+[22] Les vers 457, 458 sont identiques aux vers 861 et 862 du Tartuffe de Molière, TARTUFFE, Acte II, scène 2.
+
+[23] Voir "Dans l'amour du prochain sa vertu se consomme ;", dans le Tartuffe de Molière, DORINE, Acte II, scène 5, v. 1817.
+
+[24] Voir "Ah ! pour être dévot, je n'en suis pas moins homme ;" dans le Tartuffe de Molière, TARTUFFE, Acte III, scène 3, v. 966. et "Ah ! Pour être romain, je n'en suis pas moins homme :" dans Sertorius de Pierre Corneille, SERTORIUS, Acte IV, scène 1, vers 1194
+
+[25] Voir "Et s'il vient à roter, il lui dit : "Dieu vous aide !", du Tartuffe de Molière, Acte I, scène 2, v. 194.
+
+[26] Panégyrique : Discours d'un orateur fait à la louange d'une personne, ou d'une vertu extraordinaire, ou qu'on veut faire passer pour telle. F
+
+[27] Voir "Oui, mon frère, je suis un méchant, un coupable," dans Tartuffe de Molière, TARTUFFE, Acte III, scène 6, v. 1074.
+
+[28] Inique : méchant, injuste ; peu équitable. F
+
+[29] Tribulation : Terme de dévotion. Affliction, angoisse, misère qu'on prend en gré comme venant de la part de Dieu. Il se dit quelquefois en riant. F
+
+[30] Voir "Un bâton ! un bâton ! Ne me retenez pas." dans Tartuffe de Molière, ORGON, Acte III, scène 6, v. 1135.
+
+[31] Fripon : Méchant, maraud, fourbe, coquin ; qui dérobe secrètement ; qui tâche à tromper ceux qui ont à faire à lui ; qui fait des gains illicites au jeu, ou dans le négoce, et qui est sans honneur et sans bonne foi. F
+
+[32] Pendard : Par exagération, celui, celle qui est digne de pendaison, qui ne vaut rien du tout. F
+
+[33] Limer : Se dit figurément en choses spirituelles, et signifie, corriger avec soin, polir, perfectionner, y mettre le dernière main. F
+
+[34] Pauvre homme : Effet comique de répétition repris sept fois dans Tartuffe de Molière dont six fois par ORGON et une ultime fois par DORINE par moquerie.
+
+[35] Voir "Ce qui s'appelle vu : faut-il vous le rebattre" dans Tartuffe de Molière, ORGON, Acte V, scène 3, v.1677. 
+
+[36] Voir le Tartuffe de Molière, ORGON, Acte VI, scène derniere, v. 1847. 

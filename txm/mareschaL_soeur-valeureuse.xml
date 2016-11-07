@@ -1,7 +1,51 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mareschal_soeur-valeureuse" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Soeur valeureuse ou l'Aveugle amante. Tragi-comédie</title>
+        <author key="Mareschal, André (16..-16.. ; poète)">André Mareschal</author>
+        <editor>Stéphanie Le Foll</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>CELLF</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="?">CELLF 16e-18e</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1634"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LA SOEUR VALEUREUSE <lb/>OU L’AVEUGLE AMANTE. <lb/>TRAGI-COMEDIE <lb/>DEDIEE A MONSEIGNEUR <hi rend="sc">le Duc de Vandosme.</hi></head>
       <div>
+        <head>A TRES-HAUT <lb/> et TRES-PUISSANT <lb/><hi rend="sc">prince</hi>, <lb/>CESAR <lb/>DUC DE VANDOSME, <lb/>de mercoeur, de penthievre, <lb/><hi rend="sc">de Beaufort, et d’Estampes</hi>; <lb/>Prince d’Anét &amp; de Martigues,<lb/>Pair de France.</head>
         <p><hi rend="sc">Monseigneur</hi>,</p>
         <p>Cette Princesse amoureuse &amp; Etrangere qui vous vient cercher depuis la Perse jusqu’en France, pour vous rendre l’arbitre de son amour &amp; de sa valeur ; ne pretend pour fruits d’un si long voyage que l’honneur de vous entretenir, &amp; le triste contentement de faire croistre au recit de ses advantures les Fontaines de Bourbon, par les larmes d’une si belle compagnie, que vostre vertu y attire cette année plustost que celles des Eaux. Ce n’est pas pour avoir sué dessous les armes, ou pour laver son front encore couvert d’une poussiere sanglante que cette SŒUR VALEUREUSE vient aux bains ; mais seulement pour y noyer son amour &amp; sa honte, &amp; pour sçavoir si ces divines sources minerales parmy tant de qualitez secrettes n’ont point celle du fleuve d’Oubly, afin d’y perdre la memoire de son Frere, que tous les effects d’une passion extréme n’ont pu lui rendre sensible. Je l’ay encouragé à ce dessein ; il est vray, je l’avouë, MONSEIGNEUR, &amp; lui ay promis ce qu’on n’attendroit jamais ny des bains de Bourbon, ny de Plombieres, ny de Forges, ny de Pougues ; je veux dire la guerison d’une amour violente, &amp; la facilité d’oublier un object qu’elle a aimé dés le berceau. Il n’entre icy rien du miracle, ou de la Fable ; cette action n’attend aucun effort par dessus la Nature, ni cette prose aucun ornement de la Poësie. Est-elle arrivé à Bourbon ? elle est guerie cette AVEUGLE AMANTE ; &amp; pour oublier son amour, son Frere, et son païs, il ne luy a fallu de temps que ce peu qu’elle en a mis à vous regarder. Cét effect presques impossible que je luy avois promis, &amp; qu’elle eust cerché vainement aux Eaux, elle l’a treuvé dans vos Yeux ; où rencontrant aussi bien qu’en vostre esprit toute chose à admirer, elle ne s’étonne que d’une seule, comme vostre front chargé de lauriers ne l’est point encore de la Couronne de toute l’Asie, puisque c’estoient de semblable visages qu’autrefois la Perse faisoit adorer dessus le Trône de ses illustres Ayeulx. Aussi vous voyez qu’elle en aime si parfaitement les traits, que pour les avoir toûjours present à ses yeux, elle porte aujourd’huy vostre portraict sur son Ecu, en cette mesme place où estoit celuy de son Frere, qu’elle avoit desja commencé d’effacer de ses pleurs, &amp; que son amour pour vous a caché dessous une plus belle toile. Je ne croiray pas, MONSEIGNEUR, que vous soyez si peu sensible à la plus belle passion des hommes, pour n’agréer point la recerche d’une AMANTE de cette condition, &amp; dont la passion ne cede qu’aux vœux infinis de celuy qui vous la presente. Sans blesser son honneur, ny le respect inviolable qu’il vous doit, il a cette asseurance de vous l’amener jusqu’au chevét de vostre lict ; &amp; il n’est pas si mal en vostre estime qu’il n’espere que vous cherirez également &amp; le don &amp; celuy qui vous le fait, et qu’apres avoir pris plaisir à considerer la beauté de cette Fille, vous aurez assez de bonté pour le considerer luy-mesme comme,</p>
         <p>MONSEIGNEUR,</p>
@@ -9,6 +53,7 @@
         <p rend="right">A. MARESCHAL.</p>
       </div>
       <div>
+        <head>A MONSIEUR <lb/>mareschal, <lb/><hi rend="sc">pour sa sœur valeureuse</hi><lb/><hi rend="sc">epigrame</hi> </head>
         <l n="1"><hi rend="sc">Mareschal</hi>, je voy sans envie</l>
         <l n="2">L’<hi rend="sc">œuvre</hi> qui te promét une seconde vie ;</l>
         <l n="3">Et ton stile pompeux, &amp; remply de douceur,</l>
@@ -18,6 +63,7 @@
         <p rend="right">DE SCUDERY.</p>
       </div>
       <div>
+        <head>Monsieur Mareschal</head>
         <l n="7"><hi rend="sc">Mareschal</hi>, vous donner des vers</l>
         <l n="8">C’est vouloir éclairer le grand flambeau du monde ;</l>
         <l n="9">Puisque vostre veine seconde</l>
@@ -25,6 +71,7 @@
         <p rend="right">MAIRET.</p>
       </div>
       <div>
+        <head>A MONSIEUR <lb/><hi rend="sc">mareschal</hi>,<hi rend="sc">pour sa sœur valeureuse</hi></head>
         <l n="11">Par ses moindres exploits Oronte nous étonne</l>
         <l n="12">Mars, sous les habits empruntez</l>
         <l n="13">Ou de Minerve, ou de Bellonne,</l>
@@ -36,6 +83,7 @@
         <p rend="right">DE ROTROU.</p>
       </div>
       <div>
+        <head>POUR LA SŒUR <lb/>valeureuse DE MONSIEUR<hi rend="sc">mareschal.</hi> </head>
         <l n="19">Rendez-vous, Amants &amp; Guerriers,</l>
         <l n="20">Craignez ses attraits &amp; ses armes ;</l>
         <l n="21">Sa Valeur egale à ses charmes</l>
@@ -59,6 +107,7 @@
         <p rend="right">CORNEILLE. </p>
       </div>
       <div>
+        <head>A LA SOEUR <hi rend="sc">valeureuse</hi>DE MONSIEUR<hi rend="sc">mareschal</hi> </head>
         <l n="39">Montre toy desormais, amoureuse Guerriere,</l>
         <l n="40">Certaine de ton prix entre dans la barriere,</l>
         <l n="41">Viens combattre sans crainte, &amp; pour nous vaincre mieux</l>
@@ -110,9 +159,15 @@
         <p rend="right">DU RYER. Paris.</p>
       </div>
       <div>
+        <head>Argument.</head>
         <p><hi rend="sc">lucidor &amp; oronte</hi> deux Gemeaux, Fils &amp; Fille de Belyman Roy des Perses et des Medes, avoient esté élevez &amp; nourris ensemble, &amp; pendant leur enfance ils avoient joint à la conformité de leur visage une seconde d’humeur &amp; de volonté, qui faisoit douter à tous ceux qui les voyoient, quelle estoit des deux la plus grande, ou la ressemblance de leurs esprits, ou celle de leurs fronts. La Nature en ce doux accord, par une puissante inclination qu’elle donna à cette Fille, la porta peu à peu à aymer, suivre, &amp; imiter son Frere en tout, &amp; mesme par un effort de courage à se rendre depuis compagne d’exercices, comme elle l’avoit esté de berceau. Du commencement ce n’estoit que jeu, que le Roy leur Pere appreuvoit ; mais ils sont enfin separez par la force &amp; l’envie des années, qui font connoistre à celle-cy qu’elle est Amante, &amp; qui obligent celuy-la à fuir d’horreur une passion qui luy paroissoit sinon criminelle pour le moins fort dereglée. Rien ne l’excusoit qu’une loy de Perse, qui permettoit à la Sœur d’estre femme de son Frere, &amp; de joindre par ce lyen le sang qu’ailleurs une mesme naissance auroit disjoint. Mais ce pretexte n’estant pas assez puissant, pour effacer ou couvrir en l’esprit d’Oronte un vice qu’elle avoüoit elle méme par la honte qu’elle ressentoit à le commettre, ne put ôter aussi l’aversion de Lucidor. Il la quitte &amp; la Perse mesme ; &amp; après mille courses que ses armes luy rendirent glorieuses, borna heureusement sa fuitte en Thrace ; où parmy l’accueil &amp; les honneurs qu’il receut, il se treuva enfin amoureux &amp; aimé d’Olympe, fille unique du Roy de ce païs. Cette amour réjoüit le Pere, engagea doucement la Fille, &amp; affligea Dorame qui en estoit amoureux, sur des pretentions qui sembloient auparavant asseurées par la faveur qu’il avoit auprés du Roy, &amp; par la puissance absoluë que cette faveur luy donnoit dans tout le Royaume. Pour estre politique, plein d’esprit &amp; d’intelligence, il n’estoit pas moins malheureux. Gelandre son Cousin l’avoit chassé de Bythinie, bien qu’il en eust la possession legitime ; &amp; tous ses desseins depuis n’estoient qu’à se r’établir, &amp; à reprendre les droits de la Souveraineté, qu’injustement son Cousin usurpoit sur luy. Pour cét effect, &amp; afin de perdre aussi bien son Rival comme son Usurpateur, par un dessein et d’amour &amp; d’ambition, il envoye à Gelandre Lucidor dans la Ville de Pruse, sous un pretexte specieux qui les trompa tous les deux, &amp; qui fut tel. Lucidor accompagné de Melinde Sœur du favory, qui la luy avoit donnée autant pour conduite &amp; asseurance que pour ôtage à Gelandre, pensoit fuir la colere du Roy, qui estoit aussi fausse que tous ces complots que Dorame avoit feint <lb/>que sa Majesté dressoit contre luy, sur l’enlevement de sa fille Olympe ; que ce Rival ingenieux avoit encore supposé. De mesme Gelandre en les recevant croyoit s’asseurer de la Bythinie, veu que Dorame par lettres expresses renonceoit à toutes ses pretentions, s’il pouvoit faire reüssir le mariage de sa Sœur avecque Lucidor, qu’il luy envoyoit (disoit-il) à cette intention. Si tost qu’ils sont receus dans Pruse, Dorame s’ecrie à la force, se plaint au Roy que Lucidor a enlevé sa Sœur, qu’il s’est retiré auprés de Gelandre son Usurpateur ; &amp; demande main forte pour se vanger de l’un &amp; de l’autre. Le Roy de Thrace envoye demander Melinde, Gelandre assuré sous main par Dorame la refuse ; les Thraces arment ; le Roy sort de Byzance avec Olympe ; Dorame a charge de toute l’Armée ; &amp; du premier assaut l’on emporte sans resistance le Château d’Elvye fort peu distant de la Ville, où la Princesse choisit son quartier &amp; sa retraitte : enfin pour le dire court Pruse est assiegée. Melinde dedans &amp; instruite par son Frere de ce qu’elle devoit faire, luy envoye une lettre quelque temps aprés, par où (continuant leurs feintes) elle se plaignoit de l’insolence &amp; des poursuittes violentes du Prince de Perse, qui feroit encore quelque effort sur son honneur, si on luy en laissoit le temps &amp; les moyens dans les longueurs d’un siege ; que ce remede estoit trop lent &amp; trop éloigné pour un mal si proche, &amp; qu’il failloit prevenir ses mauvais desseins par un duel. Par cette lettre Olympe connoist ouvertement l’infidelité de Lucidor ; &amp; c’estoit là le premier dessein de Dorame : pour le second, le Roy luy permét de se battre ; &amp; c’estoit ce qu’il avoit pretendu par tant de feintes, &amp; de le faire sans hazarder sa faveur ni sa fortune. Cependant qu’il travaille dans les soins de son combat, Melinde en entreprend un autre suivant ses instructions, qui estoit d’obliger le Prince de Perse à l’aymer : mais elle y est si mal-heureuse, qu’au lieu de donner de l’amour à Lucidor, elle en prend elle mesme. Dans les élans de sa nouvelle passion elle receoit le Cartel de son Frere contre son Amant, &amp; son esprit divisé pour tous deux ne pouvant
           laisser perdre l’un ou l’autre, elle fait réponse au Cartel sans le montrer à Lucidor, &amp; comme s’il l’eust écrite luy mesme. Elle mande Dorame que la guerre estant ouverte, &amp; luy si necessaire à son party, un Prince de sa sorte ne se pouvoit battre qu’avec une Armée, &amp; non pas en homme privé ; qu’il ne le verroit que trop tost au front d’un Bataillon. Dorame qui n’attendoit rien moins que cette réponse, y prend son avantage ; le Roy la voit, &amp; s’en étonne ; &amp; Lucidor est décrié dedans toute l’Armée,où l’on prend ses raisons pour un refus. Olympe aussi en est au desespoir ; &amp; ne pouvant souffrir l’inconstance <lb/>&amp; la lâcheté de Lucidor, ni la vanité de Dorame, elle se resout de les punir tous les deux par sa mort, en se battant contre celuy-cy en faveur de celuy-là, qu’elle ayme trop encore pour survivre à cette double perte de son honneur &amp; de sa fidelité. A cét effect elle fait tenir à Dorame une réponse à son Cartel, &amp; luy assigne le combat au nom de Lucidor, au coin du bois, au dessous du Château d’Eluye.</p>
         <p>Déjà Oronte n’ayant pu souffrir l’absence de son Frere Lucidor, pour le cercher avoit quitté la Perse sous un habit d’homme qui ne répondoit pas mal à son courage ; &amp; aprés avoir fait un voyage aussi long que difficile, elle s’estoit renduë en Bythinie auprés de Pruse, sur la promesse de l’Oracle qui l’avoit engagée à cette entreprise, qu’elle avoit consulté en Perse, &amp; luy avoit réspondu :</p>
+        <quote>
+          <p>ORACLE.</p>
+          <l n="87">Dans la Forest d’Elvye, aprés estre guery,</l>
+          <l n="88">Ton cœur obligera Pere, Frere, &amp; Mary.</l>
+        </quote>
         <p>Comme elle dormoit dans cette Forest, ayant mis bas son casque &amp; son écu, sur lequel estoit peint son Frere ; Olympe de mesme habillée en homme passe pour aller se battre, &amp; la prend de loin pour Dorame, qu’elle croyoit s’estre là endormy en l’attendant. Elle reconnoist bien tost son erreur, admire son visage par la force des trais qu’elle y void, qu’elle juge semblables à ceux de son Amant Lucidor, dont la peinture qu’elle treuve sur l’écu redouble son étonnement. Les transports qui l’attachent à la veuë de ces deux objets, conseillent à son desespoir de la porter à une desirable mort sous de si cheres marques ; si bien qu’avec le casque &amp; l’écu d’Oronte elle s’en va chercher Dorame, qui la prenant pour Lucidor commence le combat contre elle. Il la tenoit à terre, &amp; estoit déjà prest à la tuer, lors qu’Oronte y survient, qui cerchoit partout celuy qui luy avoit dérobé ses armes. Honteuse de les voir à ce coup en de si mauvaises mains, elle arrache l’écu du bras d’Olympe, &amp; va contre Dorame qu’elle blesse, pour ne vouloir pas rendre hommage à ce portrait qu’il avoit offencé. Dorame abbatu &amp; pensant mourir, fait reproche à Olympe sous le nom de Lucidor, de la trahison qu’il croyoit qu’on luy avoit dressée par ce tiers qui estoit survenu. Le nom de Lucidor fait courir <lb/>Oronte à Olympe pour voir si c’estoit son Frere ; mais son front decouvert luy fait voir en la place de Lucidor une Fille, &amp; à Dorame sa Maistresse. Leur étonnement est commun : Dorame connoist son malheur, &amp; de combien son Rival luy est preferé ; Olympe charmée à l’objet d’Oronte perd aussi l’envie de mourir ; &amp; tous deux rendent graces au Victorieux, (car Oronte est prise pour homme,) celle-cy pour <lb/>luy estre redevable de la vie, &amp; celuy-là pour luy devoir celle de sa Maistresse, à qui ce coup, dont il luy avoit esté obligé mesme en le recevant, l’avoit empesché de donner la mort.</p>
         <p>Ils se retirent tous trois au Château d’Elvye ; où Olympe ayant sceu d’Oronte que Lucidor est son Frere, en devient amoureuse ; &amp; Dorame gueri de sa blessure l’engage à une vraye amitié par une fausse, sur l’esperance qu’il a de l’employer vers Olympe, à qui il voyoit qu’il estoit fort agreable. Il avoit encore en l’esprit une pensée plus subtile, esperant si ses desseins ne pouvoient reussir contre Lucidor, d’engager par cette amitié Oronte en son party, &amp; d’opposer un Frere à l’autre pour se maintenir. Cét ingenieux &amp; mauvais Amy ne manquoit pas de beaux projets, ni de pretextes pour les couvrir &amp; les avancer ; mais le malheur sembloit avoir entrepris de les ruiner. Il introduit Oronte auprés du Roy, le jette en la faveur, afin de s’en servir plus puissamment ; mais la mesme puissance qu’il luy a donnée à la fin luy fait peur. Il l’envoye à Olympe pour luy parler favorablement de son amour ; &amp; c’est par cette occasion qu’Olympe fait voir à Oronte qu’elle l’ayme, &amp; que Dorame sçachant le peu de succez qu’il doit en esperer, aveugle en ses soupçons autant qu’Olympe l’estoit en sa passion, il conçoit de la jalousie d’une fille pour une autre, &amp; prend ombrage de tous les services que luy rend Oronte.</p>
         <p>Cependant qu’Amour fait ces broûilleries dans le Camp, il en éleve d’autres dans la Ville. Melinde pensant faire voir à Lucidor sa passion dans une lettre, par mal-heur au lieu d’elle luy presente le Cartel que son Frere envoyoit à Lucidor, &amp; qu’elle luy avoit caché. Les mouvements de ce Prince sont grands à cét objét : il se treuve trahy d’un temps du Frere &amp; de la Sœur, haï de l’un autant qu’aymé de l’autre ; &amp; pour se vanger de tous deux, il oblige Melinde à porter <lb/>elle mesme la réponse au Cartel de son Frere, &amp; de l’appeller au combat. C’est un effect que l’amour tire difficilement de cette mal-heureuse Amante, qui en fin quitte les interests de Dorame, pour suivre ceux de Lucidor : De cét effect en vient un autre encore plus étrange ; &amp; Lucidor se bat contre sa Sœur Oronte, lors qu’il croyoit avoir en teste son Rival. Cette Sœur valeureuse reconnuë par son Frere justifie auprés de luy son innocence, declare que l’Oracle luy avoit promis leur rencontre en ce lieu, rapporte cette loy de Perse que j’ay ditte, &amp; tout ce qu’elle peut luy faire excuser &amp; agreer sa passion, qui n’a de luy que des reproches &amp; injures pour réponse : Surquoy cette Fille outragée se porte au combat, &amp; acheve de rage ce qu’elle n’avoit commencé que par feinte. Gelandre averti par Melinde fait une sortie pour les empécher, &amp; n’arrive qu’apres les coups donnez, &amp; lors que Lucidor est déjà blessé par Oronte : qui soûtenuë avantageusement des troupes de Dorame, qui tirent en campagne contre celles de la Ville, mét Lucidor en fuitte, Gelandre &amp; les siens en déroute, &amp; leur fait regagner la Ville sans se reconnoistre.</p>
@@ -122,10 +177,14 @@
         <p>Depuis ce temps le Roy de Perse veut tant de bien à Dorame, à cause qu’il l’avoit veu s’opposer au meurtre de sa Fille ou <lb/>de son Fils, que pour reconnoissance de cette action il luy accorde Oronte en mariage, aprés que par le moyen de ce Prince s’estant veu &amp; accommodé avecque le Roy de Thrace, sur une paix commune Olympe est jointe à Lucidor. Dorame avec Oronte prend aussi le Royaume des Medes, &amp; renonce à ses pretentions dans la Bythinie en faveur de Gelandre ; qui pour accomplir la paix &amp; la joye possede Melinde, &amp; au milieu du desespoir se voit élevé &amp; compris au nombre des heureux Amants.</p>
         <p rend="right">FIN.</p>
       </div>
-      <div xml:id="acteurs"/>
+      <div xml:id="acteurs">
+        <head>LES ACTEURS</head>
+      </div>
       <div type="act" xml:id="I">
         <pb n="A ; 1" xml:id="p1"/>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE I.</head>
           <sp who="oronte" xml:id="I01-1">
             <l n="1" xml:id="l1">A la fin des <ref target="#travail1">travaux*</ref> d’un triste &amp; long voyage,</l>
             <l n="2" xml:id="l2">Doy-je remercier les Dieux, ou cette <ref target="#image">Image*</ref> ?</l>
@@ -195,6 +254,7 @@
         </div>
         <div type="scene" xml:id="I02">
           <pb n="6" xml:id="p6"/>
+          <head>SCENE II.</head>
           <sp who="dorame" xml:id="I02-1">
             <l n="63" xml:id="l63">Dis-tu qu’il est parti, qu’on ne l’a sceu treuver ?</l>
           </sp>
@@ -516,6 +576,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <pb n="21" xml:id="p21"/>
+          <head>SCENE III.</head>
           <sp who="olympe" xml:id="I03-1">
             <l n="311" xml:id="l311">Lucidor me trahir ? me promettre la <ref target="#foy3">foy*</ref>,</l>
             <l n="312" xml:id="l312">Pour enlever Melinde, &amp; se moquer de moy ?</l>
@@ -618,6 +679,7 @@
         </div>
         <div type="scene" xml:id="I04">
           <pb n="27" xml:id="p27"/>
+          <head>SCENE IV.</head>
           <sp who="oronte" xml:id="I04-1">
             <l n="407" xml:id="l407">Doux charmeur, n’es-tu pas, ô sommeil gratieux,</l>
             <l n="408" xml:id="l408">L’<ref target="#image">image*</ref> du repos qu’on goûte dans les Cieux ?</l>
@@ -670,6 +732,7 @@
         </div>
         <div type="scene" xml:id="I05">
           <pb n="30" xml:id="p30"/>
+          <head>SCENE IV.</head>
           <sp who="olympe" xml:id="I05-1">
             <l n="453" xml:id="l453">Je suis au rendez-vous, enfin voicy la place</l>
             <l n="454" xml:id="l454">Qui doit finir ma peine, &amp; montrer mon audace ;</l>
@@ -700,6 +763,7 @@
         </div>
         <div type="scene" xml:id="I06">
           <pb n="32" xml:id="p32"/>
+          <head>SCENE VI.</head>
           <sp who="dorame" xml:id="I06-1">
             <l n="477" xml:id="l477">Tu réves, Lucidor ; il n’est plus temps ; approche.</l>
           </sp>
@@ -716,6 +780,7 @@
         </div>
         <div type="scene" xml:id="I07">
           <pb n="C ; 33" xml:id="p33"/>
+          <head>SCENE VII.</head>
           <sp who="oronte" xml:id="I07-1">
             <l n="481" xml:id="l481">Dieux jaloux, seriez-vous riche de ma dépoüille ?</l>
             <l n="482" xml:id="l482">Terre, pour la treuver, faut-il que je te foüille ?</l>
@@ -853,7 +918,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="39" xml:id="p39"/>
+        <head>ACTE SECOND.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE I.</head>
           <sp who="melinde" xml:id="II01-1">
             <l n="559" xml:id="l559">Où m’avez-vous reduite, espoir, ambition ?</l>
             <l n="560" xml:id="l560">Que le <ref target="#sort1">sort*</ref> répond mal à mon intention !</l>
@@ -902,6 +969,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="42" xml:id="p42"/>
+          <head>SCENE II.</head>
           <sp who="gelandre" xml:id="II02-1">
             <l part="M">Vous soûpirez.</l>
           </sp>
@@ -977,6 +1045,7 @@
         </div>
         <div type="scene" xml:id="II03">
           <pb n="46" xml:id="p46"/>
+          <head>SCENE III.</head>
           <sp who="lucidor" xml:id="II03-1">
             <l n="635" xml:id="l635">Confus, desesperé, tout malheur me poursuit ;</l>
             <l n="636" xml:id="l636">Dorame, Olympe, Amour, où m’avez-vous reduit ?</l>
@@ -1269,6 +1338,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="59" xml:id="p59"/>
+          <head>SCENE IV.</head>
           <sp who="oronte" xml:id="II04-1">
             <l n="792" xml:id="l792">Vostre amitié m’<ref target="#obliger1">oblige*</ref>, &amp; mon cœur impuissant</l>
             <l n="793" xml:id="l793">Se treuve <ref target="#ingrat">ingrat*</ref> par <ref target="#force2">force*</ref>, en la reconnoissant.</l>
@@ -1394,6 +1464,7 @@
         </div>
         <div type="scene" xml:id="II05">
           <pb n="E ; 65"/>
+          <head>SCENE V.</head>
           <sp who="olympe" xml:id="II05-1">
             <l n="872" xml:id="l872">Que ton <ref target="#sort2">sort*</ref> découvert rend mon <ref target="#esprit3">esprit*</ref> content !</l>
             <l n="873" xml:id="l873">Mais, Oronte, es-tu <ref target="#bien6">bien*</ref> Frere d’un inconstant ?</l>
@@ -1441,6 +1512,7 @@
         </div>
         <div type="scene" xml:id="II06">
           <pb n="68" xml:id="p68"/>
+          <head>SCENE VI.</head>
           <sp who="oronte" xml:id="II06-1">
             <l n="913" xml:id="l913">Paroissent dans vos yeux, pour <ref target="#emouvoir">émouvoir*</ref> nos sens ;</l>
             <l n="914" xml:id="l914">Qui s’excusent, muéts de respect &amp; de crainte,</l>
@@ -1625,6 +1697,7 @@
         </div>
         <div type="scene" xml:id="II07">
           <pb n="76" xml:id="p76"/>
+          <head>SCENE VII.</head>
           <sp who="oronte" xml:id="II07-1">
             <l n="1002" part="I" xml:id="l1002">Arrestez, Cavallier.</l>
           </sp>
@@ -1727,6 +1800,7 @@
         </div>
         <div type="scene" xml:id="II08">
           <pb n="82" xml:id="p82"/>
+          <head>SCENE VIII.</head>
           <sp who="lucidor" xml:id="II08-1">
             <l n="1058" xml:id="l1058">Arrivé sur les lieux, je plains ma diligence ;</l>
             <l n="1059" xml:id="l1059">Doy-je encore long-temps suspendre ma vengeance ?</l>
@@ -1754,6 +1828,7 @@
         </div>
         <div type="scene" xml:id="II09">
           <pb n="84" xml:id="p84"/>
+          <head>SCENE IX.</head>
           <sp who="lucidor" xml:id="II09-1">
             <l n="1080" xml:id="l1080">A moy, traître, avançons ; n’attends pas que ma voix</l>
             <l n="1081" xml:id="l1081">Fasse entendre ma plainte à l’Echo de ce bois ;</l>
@@ -1842,6 +1917,7 @@
         </div>
         <div type="scene" xml:id="II10">
           <pb n="88" xml:id="p88"/>
+          <head>SCENE X.</head>
           <sp who="melinde" xml:id="II10-1">
             <l n="1126" part="I" xml:id="l1126">Par là vous comprenez…..</l>
           </sp>
@@ -1895,6 +1971,7 @@
         </div>
         <div type="scene" xml:id="II11">
           <pb n="91" xml:id="p91"/>
+          <head>SCENE XI.</head>
           <sp who="melinde" xml:id="II11-1">
             <l n="1143" xml:id="l1143">Voicy d’autres lauriers, que ce jour vous prepare.</l>
           </sp>
@@ -1933,7 +2010,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="93" xml:id="p93"/>
+        <head>ACTE TROISIEME.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE I.</head>
           <sp who="dorame" xml:id="III01-1">
             <l n="1160" xml:id="l1160">Qu’on éleve son nom jusques dedans les Cieux ?</l>
             <l n="1161" xml:id="l1161">Luy rendre les <ref target="#honneur1">honneurs*</ref> que l’on ne doit qu’aux Dieux ?</l>
@@ -1977,6 +2056,7 @@
         </div>
         <div type="scene" xml:id="III02">
           <pb n="96" xml:id="p96"/>
+          <head>SCENE II.</head>
           <sp who="dorame" xml:id="III02-1">
             <l n="1198" part="I" xml:id="l1198">Qu’apporte-tu ? ma mort ?</l>
           </sp>
@@ -2076,6 +2156,7 @@
         </div>
         <div type="scene" xml:id="III03">
           <pb n="103" xml:id="p103"/>
+          <head>SCENE III.</head>
           <sp who="oronte" xml:id="III03-1">
             <l n="1264" part="I" xml:id="l1264">Toûjours dans vos dédains ?</l>
           </sp>
@@ -2196,6 +2277,7 @@
         </div>
         <div type="scene" xml:id="III04">
           <pb n="108" xml:id="p108"/>
+          <head>SCENE IV.</head>
           <sp who="dorame" xml:id="III04-1">
             <l n="1316" xml:id="l1316">Si je ne les entends, je les verray du moins,</l>
             <l n="1317" xml:id="l1317">Et de leurs actions mes yeux seront témoins :</l>
@@ -2323,6 +2405,7 @@
         </div>
         <div type="scene" xml:id="III05">
           <pb n="114" xml:id="p114"/>
+          <head>SCENE V.</head>
           <sp who="gelandre" xml:id="III05-1">
             <l n="1394" xml:id="l1394">Qu’en croirons-nous, Dorame ? as-tu juré ma perte ?</l>
             <l n="1395" xml:id="l1395">Joins-tu la trahison à ma peine soufferte ?</l>
@@ -2352,6 +2435,7 @@
         </div>
         <div type="scene" xml:id="III06">
           <pb n="116" xml:id="p116"/>
+          <head>SCENE VI.</head>
           <sp who="lucidor" xml:id="III06-1">
             <l n="1418" xml:id="l1418">En vain* vous m’opposez &amp; vos <ref target="#feu1">feux*</ref>, &amp; vos larmes ;</l>
             <l n="1419" xml:id="l1419">Rien ne me peut toucher, la pitié ni les <ref target="#charme">charmes*</ref> ;</l>
@@ -2436,6 +2520,7 @@
         </div>
         <div type="scene" xml:id="III07">
           <pb n="120" xml:id="p120"/>
+          <head>SCENE VII.</head>
           <sp who="lycanthe" xml:id="III07-1">
             <l n="1470" xml:id="l1470">Vous treuverez, Amis, par une heure oportune</l>
             <l n="1471" xml:id="l1471">En ce petit <ref target="#travail1">travail*</ref> une grande <ref target="#fortune4">fortune*</ref> ;</l>
@@ -2472,6 +2557,7 @@
         </div>
         <div type="scene" xml:id="III08">
           <pb n="122" xml:id="p122"/>
+          <head>SCENE VIII.</head>
           <sp who="oronte" xml:id="III08-1">
             <l n="1490" xml:id="l1490">Ouy, je fuiray, Dorame, enfin l’affaire presse ;</l>
             <l n="1491" xml:id="l1491">Je quitte Lucidor, &amp; te rends ta Maistresse ;</l>
@@ -2564,7 +2650,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="127" xml:id="p127"/>
+        <head>ACTE QUATRIESME.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE I.</head>
           <sp who="dorame" xml:id="IV01-1">
             <l n="1544" xml:id="l1544">Il vit ; tout le mal-heur est tombé dessus nous,</l>
             <l n="1545" xml:id="l1545">Je meurs d’un attentat dont il n’a que les <ref target="#coup1">coups*</ref> ;</l>
@@ -2600,6 +2688,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <pb n="I ; 129"/>
+          <head>SCENE II.</head>
           <sp who="roy-de-thrace" xml:id="IV02-1">
             <l n="1574" xml:id="l1574">Qu’autre personne icy ne nous soit introduitte.</l>
           </sp>
@@ -2695,6 +2784,7 @@
         </div>
         <div type="scene" xml:id="IV03">
           <pb n="134" xml:id="p134"/>
+          <head>SCENE III.</head>
           <sp who="olympe" xml:id="IV03-1">
             <l n="1645" xml:id="l1645">Voilà ce que vous coûte une amitié <ref target="#fidele">fidelle*</ref> ;</l>
             <l n="1646" xml:id="l1646">Vous n’aviez rien de sainct ni d’aymable au prix d’elle ;</l>
@@ -2786,6 +2876,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <pb n="139" xml:id="p139"/>
+          <head>SCENE IV.</head>
           <sp who="dorame" xml:id="IV04-1">
             <l n="1703" xml:id="l1703">Qu’Oronte doit aymer la main de l’Assassin,</l>
             <l n="1704" xml:id="l1704">Puis qu’il a pour guerir un si beau Medecin !</l>
@@ -2957,6 +3048,7 @@
         </div>
         <div type="scene" xml:id="IV05">
           <pb n="147" xml:id="p147"/>
+          <head>SCENE V.</head>
           <sp who="melinde" xml:id="IV05-1">
             <l n="1807" xml:id="l1807">Ne m’importunez plus, &amp; quittons ces discours ;</l>
             <l n="1808" xml:id="l1808">J’ay l’<ref target="#esprit3">esprit*</ref> à mes maux plustost qu’à vos amours :</l>
@@ -3004,6 +3096,7 @@
         </div>
         <div type="scene" xml:id="IV06">
           <pb n="150" xml:id="p150"/>
+          <head>SCENE VI.</head>
           <sp who="lucidor" xml:id="IV06-1">
             <l n="1837" xml:id="l1837">Jusqu’icy parvenus, une heure nous peut rendre</l>
             <l n="1838" xml:id="l1838">Où mon Pere &amp; les siens ont pris jour à m’attendre ;</l>
@@ -3024,6 +3117,7 @@
         </div>
         <div type="scene" xml:id="IV07">
           <pb n="152" xml:id="p152"/>
+          <head>SCENE VII.</head>
           <sp who="oronte" xml:id="IV07-1">
             <l n="1852" xml:id="l1852">Donnez à la <ref target="#raison1">raison*</ref> le reste de ce <ref target="#feu1">feu*</ref></l>
             <l n="1853" xml:id="l1853">Que la colere allume en vostre ame trompée.</l>
@@ -3180,6 +3274,7 @@
         </div>
         <div type="scene" xml:id="IV08">
           <pb n="159" xml:id="p159"/>
+          <head>SCENE VIII.</head>
           <sp who="roy-de-perse" xml:id="IV08-1">
             <l n="1926" xml:id="l1926">Quelque accident l’empéche, &amp; l’aura retardé ;</l>
             <l n="1927" xml:id="l1927">Pour te voir, ô mon Fils, t’ay-je point <ref target="#hazarder2">hazardé*</ref> ?</l>
@@ -3302,7 +3397,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="165" xml:id="p165"/>
+        <head>ACTE CINQUIESME.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE I.</head>
           <sp who="olympe" xml:id="V01-1">
             <l n="1996" xml:id="l1996">Qu’Oronte est une Fille ? &amp; Lucidor fidelle ?</l>
             <l n="1997" xml:id="l1997">Heureuse également l’une &amp; l’autre nouvelle !</l>
@@ -3380,6 +3477,7 @@
         </div>
         <div type="scene" xml:id="V02">
           <pb n="169" xml:id="p169"/>
+          <head>SCENE II.</head>
           <sp who="roy-de-thrace" xml:id="V02-1">
             <l n="2056" xml:id="l2056">Ce lyen est trop fort, pour craindre qu’on le rompe ;</l>
             <l n="2057" xml:id="l2057">Jamais la paix ne vint avecque tant de pompe ;</l>
@@ -3457,6 +3555,7 @@
         </div>
         <div type="scene" xml:id="V03">
           <pb n="173" xml:id="p173"/>
+          <head>SCENE III.</head>
           <sp who="dorame" xml:id="V03-1">
             <l n="2102" xml:id="l2102">Quelle <ref target="#merveille2">merveille*</ref>, Oronte, est celle que je voy ?</l>
             <l n="2103" xml:id="l2103">Le moindre de ces <ref target="#trait1">traits*</ref> ravit les cœurs à soy ;</l>
@@ -3546,6 +3645,7 @@
         </div>
         <div type="scene" xml:id="V04">
           <pb n="178" xml:id="p178"/>
+          <head>SCENE IV.</head>
           <sp who="melinde" xml:id="V04-1">
             <lg>
               <l n="2164" xml:id="l2164">A quoy mes soûpirs et mes plaintes ?</l>
@@ -3588,6 +3688,7 @@
         </div>
         <div type="scene" xml:id="V05">
           <pb n="180" xml:id="p180"/>
+          <head>SCENE V.</head>
           <sp who="gelandre" xml:id="V05-1">
             <l part="F">Au dernier accident,</l>
             <l n="2193" xml:id="l2193">Qui m’a jetté par vous dans un gouffre evident ?</l>
@@ -3689,6 +3790,7 @@
         </div>
         <div type="scene" xml:id="V06">
           <pb n="185" xml:id="p185"/>
+          <head>SCENE VI.</head>
           <sp who="roy-de-perse" xml:id="V06-1">
             <l n="2252" xml:id="l2252">Premier flambeau du Ciel, Ame de l’Univers,</l>
             <l n="2253" xml:id="l2253">Qui fait voir &amp; qui voit tant de Peuples divers,</l>
@@ -3747,6 +3849,7 @@
         </div>
         <div type="scene" xml:id="V07">
           <pb n="189" xml:id="p189"/>
+          <head>SCENE VII.</head>
           <sp who="dorame" xml:id="V07-1">
             <l n="2288" xml:id="l2288">Sire, en <ref target="#faveur1">faveur*</ref> du <ref target="#bien1">bien*</ref> qu’à ce jour il a fait,</l>
             <l n="2289" xml:id="l2289">Pardonnez à mes <ref target="#feu1">feux*</ref> un amoureux <ref target="#effet1">effect*</ref> ;</l>
@@ -3825,6 +3928,7 @@
         </div>
         <div type="scene" xml:id="V08">
           <pb n="N ; 193"/>
+          <head>[SCENE VIII.]</head>
           <sp who="gelandre" xml:id="V08-1">
             <l n="2335" xml:id="l2335">Que nos fautes, Melinde, ainsi ne sont punies !</l>
           </sp>

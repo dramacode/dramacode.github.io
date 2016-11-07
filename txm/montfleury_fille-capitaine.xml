@@ -1,7 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Fille capitaine. Comédie</title>
+        <author key="Montfleury, Antoine Jacob (1639-1685)">Montfleury</author>
+        <editor>Marine Secchi</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Marine Secchi dans le cadre d'un mémoire de
+          master 1 sous la direction de Georges Forestier (2012-2013)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/montfleury_fille-capitaine/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/montfleury_fille-capitaine.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/montfleury_fille-capitaine.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/montfleury_fille-capitaine.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/montfleury_fille-capitaine.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1672"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LA FILLE CAPITAINE, COMEDIE.</head>
       <div>
+        <head>A SON ALTESSE MONSEIGNEUR <lb/>MONSEIGNEUR LE <hi rend="b">PRINCE EUGENE DE SAVOYE</hi>, COMTE DE SOISSONS, Duc de Carignan en Luxembourg, Gouverneur &amp; Lieutenant General pour le Roy en ses Provinces de Champagne &amp; Brie, Colonel General des Suisses &amp; Grisons.</head>
         <p>MONSEIGNEUR,</p>
         <p>Il y a longtemps que je devrois vous avoir donné des marques de<pb n="ã ij"/> mon respect &amp; de ma reconnaissance ; &amp; je n’aurois pas tant diferé, si je ne m’estois mis en teste, qu’avant que de dédier une de mes Pieces à VOSTRE ALTESSE, je devois attendre que le temps &amp; mes soins m’eussent rendu capable d’en mettre quelqu’une au jour qui meritât l’honneur de vous estre offerte : Mais quand j’ay fait reflexion sur ce beau dessein, je l’ay trouvé plus conforme à mon zele qu’à mes forces ; &amp; l’empressement d’offrir cette Comedie à V.A. m’a semblé plus raisonnable, que l’esperance de luy faire jamais un présent digne d’elle. Je vous presente donc un Capitaine qui ne craint ny la Paix, ny la Reforme ; Il est si fier de l’honneur qu’il a eu de vous divertir &amp; de vous plaire, qu’il n’a plus d’ambition que celle de se honoré d’une protection aussi glorieuse que celle de V.A. Il sçait que vous sortez d’un Sang si fertile en Héros, qu’il ne s’étonne point de voir en vous tant de valeur jointe à tant de vertu, ny tant de belles lumieres jointes à toutes les qualitez avantageuses qui peuvent rendre un Prince accomply. Il sçait que le merite que toute la France admire en V.A n’est pas renfermé dans des bornes ordinaires, qu’elle connoist parfaitement tout ce que les Muses ont de grace &amp; de delicatesse, &amp; qu’elle fait des jugements tres-judicieux de toutes sortes d’Ouvrages ; mais il est persuadé que vous estes aussi genereux<pb n="ã iij"/>qu’éclairé, &amp; que V.A. n’a pas moins d’indulgence pour en excuser les defauts, que de facilité à les connoistre. C’est, MONSEIGNEUR, ce qui me fait esperer que si V.A. condamne la foiblesse de mon génie, elle aura peut-estre la bonté d’aprouver mon zele, &amp; qu’elle regardera ce que je luy offre moins comme une production d’esprit, que comme une preuve de la passion respectueuse avec laquelle je suis,</p>
         <p>MONSEIGNEUR,</p>
@@ -10,15 +60,20 @@
         <p rend="right">MONTFLEURY</p>
       </div>
       <div>
+        <head>Extrait du Privilege du  Roy.</head>
         <p>Par Grace &amp; Privilege du Roy, donné à Saint Germain en Laye le 17 jour de Decembre 1671. Signé, Par le Roy en son Conseil, D’ALENCE : Il est permis au Sieur Montfleury, de faire imprimer par tel Imprimeur ou Libraire qu’il voudra choisir, une Piece de Theatre de sa composition, intitulée <hi rend="i">LA FILLE CAPITAINE</hi>, &amp; ce durant cinq années, à compter du jour que ladite Piece sera achevée d’imprimer pour la premiere fois : Et defenses sont faites à tous autres Imprimeurs ou Libraires, de l’imprimer ou faire imprimer, vendre &amp; debiter, sans le consentement de l’Exposant, ou de ceux qui auront droict de luy, à peine aux contrevenans de cinq cens livres d’amende, confiscation des Exemplaires contrefaits, &amp; de tous despens, dommages &amp; interests, ainsi que plus au long il est porté par ledit Privilege.</p>
         <p>Registré sur le Livre de la Communauté, suivant l’Arret de la Cour de Parlement, le 30. Dec. 1671.</p>
         <p rend="right">THIERRY, Syndic.</p>
         <p rend="i">Achevé d’imprimer pour la premiere fois le 4. Janvier 1672.</p>
       </div>
-      <div xml:id="acteurs" type="set"/>
+      <div xml:id="acteurs" type="set">
+        <head>ACTEURS</head>
+      </div>
       <div xml:id="I" type="act">
         <pb n="A1"/>
+        <head>ACTE PREMIER</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="I01-1" who="angelique">
             <l n="1" xml:id="l1">Je suis libre à present, &amp; maistresse de moy,</l>
             <l n="2" xml:id="l2">Cousine, &amp; je m’en vais passer huit jours chez toy.</l>
@@ -147,6 +202,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II</head>
           <pb n="5" xml:id="p5"/>
           <sp xml:id="I02-1" who="lucinde">
             <l n="92" xml:id="l92">Est-ce ce qui vous trouble ? &amp; seroit-il possible…</l>
@@ -197,6 +253,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III</head>
           <sp xml:id="I03-1" who="cato">
             <l n="120" xml:id="l120">Ah que pour vostre amour j’ay de bonnes nouvelles !</l>
             <l n="121" xml:id="l121">Nous irons à la Nopce, &amp; l’<ref target="#hymen">Hymen*</ref> achevé…</l>
@@ -242,6 +299,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV</head>
           <sp xml:id="I04-1" who="l-esperance">
             <l n="135" xml:id="l135">Madame, Serviteur à vostre Compagnie,</l>
             <l n="136" xml:id="l136" part="I">Fussiez-vous trente.</l>
@@ -329,6 +387,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V</head>
           <pb n="10" xml:id="p10"/>
           <sp xml:id="I05-1" who="l-esperance">
             <l n="173" xml:id="l173">Elles vont toutes deux jaser jusqu’à demain,</l>
@@ -339,6 +398,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI</head>
           <sp xml:id="I06-1" who="angelique">
             <l part="F">En vain</l>
             <l n="175" xml:id="l175">Ton amour s’alarmoit, &amp; toute autre en ta place…</l>
@@ -484,6 +544,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>SCENE VII</head>
           <pb n="14" xml:id="p14"/>
           <sp xml:id="I07-1" who="madame-le-blanc">
             <l n="235" xml:id="l235">Où voulez-vous aller ? Je ne sçay point d’affaire…</l>
@@ -623,6 +684,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I08">
+          <head>SCENE VIII</head>
           <sp xml:id="I08-1" who="monsieur-le-blanc">
             <l n="283" xml:id="l283">De pareils Animaux, la moitié d’une paire,<pb n="B"/></l>
             <l n="284" xml:id="l284">Si l’on n’y tient la main, donne plus d’une affaire.</l>
@@ -636,6 +698,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I09">
+          <head>SCENE IX</head>
           <pb n="18" xml:id="p18"/>
           <sp xml:id="I09-1" who="monsieur-le-blanc">
             <l n="292" xml:id="l292">Qu’avez-vous, Chevalier de la triste <ref target="#figure">Figure*</ref>?</l>
@@ -809,6 +872,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I10">
+          <head>SCENE X</head>
           <sp xml:id="I10-1" who="monsieur-le-blanc">
             <l n="389" xml:id="l389">Cecy n’est pas mon compte, &amp; ce jeune Coquet</l>
             <l n="390" xml:id="l390">A pû charmer Lucinde avecque son cacquet ;</l>
@@ -827,7 +891,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="23" xml:id="p23"/>
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="II01-1" who="cato">
             <l n="401" xml:id="l401">Quoy, ce Monsieur le Blanc fait l’amoureux de vous,</l>
             <l n="402" xml:id="l402">Comme s’il esperoit devenir vostre Epoux ?</l>
@@ -895,6 +961,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II</head>
           <sp xml:id="II02-1" who="damon">
             <l n="445" xml:id="l445">Voila ce qui se passe, &amp; ce que l’on résout ;</l>
             <l n="446" xml:id="l446">En nous divertissant, nous en viendrons à bout.</l>
@@ -934,6 +1001,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III</head>
           <sp xml:id="II03-1" who="angelique">
             <l n="468" xml:id="l468" part="I">L’ Esperance ? mes Gens ?</l>
           </sp>
@@ -977,6 +1045,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV</head>
           <sp xml:id="II04-1" who="lucinde">
             <l n="486" xml:id="l486" part="I">Qu’est-ce ?</l>
           </sp>
@@ -1003,6 +1072,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V</head>
           <sp xml:id="II05-1" who="monsieur-le-blanc">
             <l n="497" xml:id="l497">Oüy, Madame Cato, vous m’en voyez charmé ;</l>
             <l n="498" xml:id="l498">Et je viens de plaisir &amp; de joye affamé,</l>
@@ -1129,6 +1199,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI</head>
           <sp xml:id="II06-1" who="monsieur-le-blanc">
             <l n="548" xml:id="l548">Hé bien va. Tout cecy passe la raillerie ;</l>
             <l n="549" xml:id="l549">Je crains dans mon calcul de m’estre méconté.</l>
@@ -1150,6 +1221,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE VII</head>
           <sp xml:id="II07-1" who="lucinde">
             <l n="565" xml:id="l565">O Dieux ! Monsieur le Blanc, vous estes-vous blessé ?</l>
           </sp>
@@ -1163,6 +1235,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II08">
+          <head>SCENE VIII</head>
           <sp xml:id="II08-1" who="lucinde">
             <l n="569" xml:id="l569">Vous voyez jusqu’où va ma <ref target="#tendresse">tendresse*</ref> pour vous,</l>
             <l n="570" xml:id="l570">Et combien le plaisir de vous revoir m’est doux :</l>
@@ -1185,6 +1258,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II09">
+          <head>SCENE IX</head>
           <sp xml:id="II09-1" who="cato">
             <l n="578" xml:id="l578">Ah Monsieur, cachez-vous, le Capitaine vient.</l>
           </sp>
@@ -1214,6 +1288,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II10">
+          <head>SCENE X</head>
           <sp xml:id="II10-1" who="angelique">
             <l n="585" xml:id="l585">Cato, je te cherchois, &amp; depuis mon retour</l>
             <l n="586" xml:id="l586">A peine ay-je eu le temps de te dire bonjour.</l>
@@ -1357,6 +1432,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II11">
+          <head>SCENE XI</head>
           <sp xml:id="II11-1" who="l-esperance">
             <l part="M">Monsieur ?</l>
           </sp>
@@ -1433,6 +1509,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II12">
+          <head>SCENE XII</head>
           <sp xml:id="II12-1" who="cato">
             <l n="663" xml:id="l663">A Vingt pas du Logis, j’ay rencontré Madame.</l>
           </sp>
@@ -1504,6 +1581,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II13">
+          <head>SCENE XIII</head>
           <sp xml:id="II13-1" who="monsieur-le-blanc">
             <l part="F">Voila la Marchande de joye :</l>
             <l n="689" xml:id="l689">L’affront que l’on me fait, ne m’est que trop connu,</l>
@@ -1531,6 +1609,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II14">
+          <head>SCENE XIV</head>
           <sp xml:id="II14-1" who="cato">
             <l n="711" xml:id="l711" part="I">Il faut faire sortir nostre Amoureux.</l>
           </sp>
@@ -1611,6 +1690,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II15">
+          <head>SCENE XV</head>
           <sp xml:id="II15-1" who="cato">
             <l n="735" xml:id="l735">Il meurt de jalousie, &amp; de colere ensemble.</l>
             <l n="736" xml:id="l736">J’ay bien joüé mon rôle ; &amp; voila, ce me semble,</l>
@@ -1621,7 +1701,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="45" xml:id="p45"/>
+        <head>ACTE III</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="III01-1" who="lucinde">
             <l n="739" xml:id="l739" part="I">Cato ?</l>
           </sp>
@@ -1743,6 +1825,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II</head>
           <sp xml:id="III02-1" who="monsieur-le-blanc">
             <l n="785" xml:id="l785">Ma Femme ne vient point, elle se trouve bien,</l>
             <l n="786" xml:id="l786">Et son honneur, je croy, fait bon marché du mien :</l>
@@ -1768,6 +1851,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III</head>
           <pb n="49" xml:id="p49"/>
           <sp xml:id="III03-1" who="monsieur-le-blanc">
             <l n="806" xml:id="l806" part="I">Serviteur.</l>
@@ -1882,6 +1966,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV</head>
           <pb n="52" xml:id="p52"/>
           <sp xml:id="III04-1" who="damon">
             <l n="859" xml:id="l859">On doit pour une Femme avoir quelque scrupule.</l>
@@ -1999,6 +2084,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V</head>
           <pb n="55" xml:id="p55"/>
           <sp xml:id="III05-1" who="monsieur-le-blanc">
             <l n="917" xml:id="l917">Il raisonne assez bien, je puis m’estre trompé,</l>
@@ -2018,6 +2104,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI</head>
           <sp xml:id="III06-1" who="cato">
             <l n="931" xml:id="l931">Je vous ay tant cherché, que j’en suis hors d’haleine :</l>
             <l n="932" xml:id="l932">Ma foy, depuis une heure, &amp; plus, je me proméne,</l>
@@ -2168,7 +2255,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="60" xml:id="p60"/>
+        <head>ACTE IV</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="IV01-1" who="l-esperance">
             <l n="1011" xml:id="l1011">A la fin, Dieu mercy, j’ons tout ce qui nous faut,</l>
             <l n="1012" xml:id="l1012">Et je pourrons partir, si je voulons, bientost :</l>
@@ -2192,6 +2281,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II</head>
           <sp xml:id="IV02-1" who="l-esperance">
             <l n="1030" xml:id="l1030" part="I">Ah, Cato, ton Valet.</l>
           </sp>
@@ -2254,6 +2344,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III</head>
           <sp xml:id="IV03-1" who="cato">
             <l n="1049" xml:id="l1049">Peste du gros lourdaut ! voyez, qu’il prend de peine.</l>
             <l n="1050" xml:id="l1050">Tu n’as qu’à revenir. M’en voilà hors d’haleine.</l>
@@ -2266,6 +2357,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV</head>
           <sp xml:id="IV04-1" who="cato">
             <l n="1057" xml:id="l1057">Je craignois bien qu’icy vous ne pûssiez vous rendre.</l>
           </sp>
@@ -2394,6 +2486,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V</head>
           <sp xml:id="IV05-1" who="monsieur-le-blanc">
             <l n="1111" xml:id="l1111" part="I">Comment va nostre affaire ?</l>
           </sp>
@@ -2437,6 +2530,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI</head>
           <sp xml:id="IV06-1" who="monsieur-le-blanc">
             <l n="1129" xml:id="l1129">Pour finir l’embarras d’un amour qui me gesne*,</l>
             <l n="1130" xml:id="l1130">Je veux tout hazarder, pour soulager ma peine :</l>
@@ -2458,6 +2552,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE VII</head>
           <sp xml:id="IV07-1" who="monsieur-le-blanc">
             <l part="F">Revenu d’une frayeur mortelle,</l>
             <l n="1146" xml:id="l1146">Je ramene à vos pieds un Protestant fidelle,</l>
@@ -2600,6 +2695,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV08">
+          <head>SCENE VIII</head>
           <pb n="72" xml:id="p72"/>
           <sp xml:id="IV08-1" who="angelique">
             <l n="1224" xml:id="l1224">Alte-là, vieux <ref target="#magot">Magot*</ref>, vous vous baissez trop bas.</l>
@@ -2750,6 +2846,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV09">
+          <head>SCENE IX</head>
           <pb n="76" xml:id="p76"/>
           <sp xml:id="IV09-1" who="l-esperance">
             <l part="M">Monsieur ?</l>
@@ -2944,7 +3041,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="81" xml:id="p81"/>
+        <head>ACTE V</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="V01-1" who="damon">
             <l n="1347" xml:id="l1347" part="I">Est-il bien vray, Madame?</l>
           </sp>
@@ -2977,6 +3076,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II</head>
           <sp xml:id="V02-1" who="angelique">
             <l n="1365" xml:id="l1365" part="I">Vous craignez?</l>
           </sp>
@@ -3015,6 +3115,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III</head>
           <sp xml:id="V03-1" who="l-esperance">
             <l n="1377" xml:id="l1377">Ce que j’ons fait? Morgué, j’avons fait des merveilles:</l>
             <l n="1378" xml:id="l1378">Si quelqu’un l’entend mieux, je donne mes oreilles.</l>
@@ -3073,6 +3174,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV</head>
           <sp xml:id="V04-1" who="monsieur-le-blanc">
             <l n="1409" xml:id="l1409">Quel <ref target="#equipage">équipage*</ref>, helas! ma peine est sans seconde;</l>
             <l n="1410" xml:id="l1410">Il faut aller en Flandre, ou bien en l’autre Monde,</l>
@@ -3097,6 +3199,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V</head>
           <sp xml:id="V05-1" who="monsieur-le-blanc">
             <l n="1429" xml:id="l1429">Elle pleure, je croy. Qu’as-tu, ma Chere? écoute;</l>
           </sp>
@@ -3205,6 +3308,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI</head>
           <pb n="88" xml:id="p88"/>
           <sp xml:id="V06-1" who="monsieur-le-blanc">
             <l n="1471" xml:id="l1471">Mieux que je n’esperois, mes soins ont reüssy,</l>
@@ -3215,6 +3319,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII</head>
           <sp xml:id="V07-1" who="l-esperance">
             <l n="1476" xml:id="l1476" part="I">Eh, la Roze?</l>
           </sp>
@@ -3275,6 +3380,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>SCENE VIII</head>
           <sp xml:id="V08-1" who="monsieur-le-blanc">
             <l n="1493" xml:id="l1493">Sans argent, mille coups relançoient ma prière.</l>
             <l n="1494" xml:id="l1494">J’entens venir quelqu’un, éteignons la lumière.</l>
@@ -3282,6 +3388,7 @@
         </div>
         <div type="scene" xml:id="V09">
           <pb n="90 H"/>
+          <head>SCENE IX</head>
           <sp xml:id="V09-1" who="cato">
             <l n="1495" xml:id="l1495" part="I">Monsieur, voilà Madame.</l>
           </sp>
@@ -3346,6 +3453,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V10">
+          <head>SCENE X</head>
           <sp xml:id="V10-1" who="cato">
             <l part="F">Au secours,</l>
             <l n="1525" xml:id="l1525">A l’aide. Ces <ref target="#transport">transports*</ref> vous sont-ils ordinaires?</l>
@@ -3359,6 +3467,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V11">
+          <head>SCENE XI</head>
           <sp xml:id="V11-1" who="damon">
             <l n="1528" xml:id="l1528" part="I">Qui cause un tel desordre en ce Logis?</l>
           </sp>
@@ -3447,6 +3556,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V12">
+          <head>SCENE XII</head>
           <sp xml:id="V12-1" who="damon">
             <l part="F">L’auriez-vous insulté?</l>
           </sp>
@@ -3456,6 +3566,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V13">
+          <head>SCENE XIII</head>
           <sp xml:id="V13-1" who="angelique">
             <l n="1554" xml:id="l1554">Je suis faché, voulant me vanger d’un outrage,</l>
             <l n="1555" xml:id="l1555">Que le sort soit tombé sur un de vos Parens;</l>
@@ -3609,6 +3720,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V14">
+          <head>SCENE XIV</head>
           <pb n="98 I"/>
           <sp xml:id="V14-1" who="angelique">
             <l n="1617" xml:id="l1617">Permettez qu’à leurs yeux, quelque soin qui les touche,</l>
@@ -3676,6 +3788,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V15">
+          <head>SCENE DERNIERE</head>
           <pb n="100" xml:id="p100"/>
           <sp xml:id="V15-1" who="lucinde">
             <l n="1641" xml:id="l1641">Mon Frere est arrivé, nous voila hors de peine.</l>

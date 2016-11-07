@@ -1,18 +1,73 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Dictateur romain. Tragédie.</title>
+        <author key="Mareschal, André (16..-16.. ; poète)">André Mareschal</author>
+        <editor>Marion Descol</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Marion Descol dans le cadre d'un mémoire de
+          maîtrise sous la direction de Georges Forestier (2002-2003)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/mareschal_dictateur-romain/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/mareschal_dictateur-romain.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/mareschal_dictateur-romain.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/mareschal_dictateur-romain.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/mareschal_dictateur-romain.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1646">1646</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LE<pb n="I"/><lb/>DICTATEUR<lb/>ROMAIN<lb/>TRAGEDIE.<lb/>DEDIEE A MONSEIGNEUR<lb/><hi rend="i">le Duc d’Espernon.</hi></head>
       <div xml:id="dedicace">
+        <head>A HAUT ET PUISSANT PRINCE<pb n="III"/><lb/>BERNARD DE FOIX <lb/>DE LA VALLETTE, <lb/>DUC D’ESPERNON, DE LAVALLETTE, <lb/>&amp; de Cancale ; Pair &amp; Colonnel General de France ; Chevallier des Ordres du Roy, &amp; de la Jarretiere ; Prince &amp; Captal de Buch, Comte de Foix, d’Astarac, &amp;c. Sire de l’Esparre, &amp;c. Gouverneur &amp; Lieutenant general pour le Roy en Guyenne.</head>
         <p>MONSEIGNEUR,</p>
         <p>Quand par une douce force vous n’auriez pas gagné tous mes vœux en un moment, dans l’accueil favorable avec lequel VÔTRE GRANDEUR a daigné recevoir les offres de mes tres-humbles services : Quand vôtre Bonté n’auroit pas avecque joye accepté le don que je luy ay fait avec crainte &amp; respect, de cette Pièce de Theatre, pour la faire passer heureusement de vos mains <ref target="#liberal">liberales*</ref> en la bouche de ces Comediens destinez seulement aux plaisirs de V-G ; &amp; dont la Troupe que vous avez enrichie par des presents magnifiques autant que par d’illustres Acteurs, se va rendre sous vos faveurs &amp; sous l’appuy de vôtre Nom, si pompeuse &amp; celebre qu’on ne la poura juger indigne d’estre à Vous. Quand dy-je, MONSEIGNEUR, mes inclinations n’auroient pas /<pb n="IV" xml:id="pIV"/>/ tourné vers V-G ; quand mes interests propres ne m’auroient pas justement porté à chercher l’honneur de vôtre protection, en vous dediant cet Ouvrage ; la raison seule m’obligeoit d’adresser un des plus grands Heros &amp; des plus vertueux de l’ancienne Rome, à un des plus généreux, des plus nobles &amp; des plus parfaits de nôtre Siecle. En effect, MONSEIGNEUR, qui est-ce qui pouvoit plus noblement que vous faire honneur à ce grand PAPYRE ? &amp; par droict de bien-seance accueillir un DICTATEUR ROMAIN, qu’un Colonel de France, de qui le commandement et l’autorité s’étend dans toutes nos Armées, &amp; le fait autant de fois Capitaine qu’il y a de divers Regimens qui les composent ? C’est cette Charge Illustre que vous soutenez aussi glorieusement qu’elle soutient la Couronne, dont elle est aussi le plus fort &amp; le plus necessaire appuy ; c’est elle par qui l’on peut dire que vous estes, bien que quelquefois absent, toûjours de toutes nos Armées, de nos combats, de nos victoires &amp; de nos triomphes. Mais quoy que par elle VÔTRE GRANDEUR paroisse si <ref target="#recommendable">recommendable*</ref> &amp; d’une puissance si étenduë, je vous regarde plus brillant du côté de vous-méme &amp; en vôtre personne ; &amp; je vous treuve plus noble &amp; plus admirable en vôtre courage &amp; en vos vertus, que magnifique &amp; pompeux en vos <ref target="#dignite">dignitez*</ref>. Vous vous estes de tout temps montré digne Fils, comme aujourd’huy l’on vous voit digne successeur du plus grand Homme que ce siecle puisse opposer à l’antiquité, &amp; que la France ose bien comparer aux Grecs &amp; aux Romains ; que trois Roys avoient élevé &amp; que pas un n’a ni abaissé ni détruit ; que le temps en n’osant toucher à ses années, a respecté aussi bien que la Cour, les Peuples &amp; les Nations ; que la Fortune méme a craint aussi bien que ses Ennemis ; que la bonne &amp; la mauvaise toûjours on treuvé égal ; &amp; que toutes deux ont laissé dedans la gloire, &amp; en la mesme <ref target="#assiette">assiette*</ref>. Comme luy, /<pb n="V" xml:id="pV"/>/ MONSEIGNEUR, vous avez senti les <ref target="#trait">trais*</ref> de l’une &amp; de l’autre ; &amp; vous les avez soûtenus genereusement comme luy. Je voy reluire dans toutes vos actions, outre la grandeur de courage, cette asseurance &amp; fermeté de cœur qui luy estoit si naturelle, &amp; qu’il semble avoir inspirée au vôtre, aussi bien que ce noble &amp; genereux sang qu’il vous a donné. Digne sang qui vous a causé tant de gloire &amp; d’honneur, &amp; à qui vous n’en avez pas moins apporté ; illustre sang encore qui vous a joint à nos Rois, puis que ces Princes de qui vous portez le Nom y touchoient de si prés, eux qui ont donné des Reynes à la Hongrie ainsi qu’à la Boheme, de qui descendent tant de testes couronnées &amp; ces rejettons de la Maison d’Autriche. Comme autrefois Cesar, &amp; devant luy mille autres courageux Romains, dont les esprits fermes &amp; resolus estoient de la trempe du vôtre, se sont opposez à la fureur d’une Populace, ou de tout un Camp mutiné : de mesme, je vous voy avec cette mesme asseurance, presque seul &amp; en petit nombre, desarmer  une populeuse &amp; forte Ville, qui a souffert &amp; repoussé l’effort de plus de soixante mille hommes. Je vous voy, MONSEIGNEUR, dans un peril, qui sans vous étonner étonna presque tout l’Estat, autant que les effets prodigieux qui l’affermirent par vôtre valeur &amp; par vôtre conduite ; Je vous voy l’espée à la main, verser assez de sang pour éteindre un brazier qui devoroit vôtre Province, &amp; à la teste de cette Noblesse, avec une poignée de soldats levez &amp; armez à la hâte, deffaire des Rebeles soûlevez sur un pretexte qui pouvoit renverser cette Monarchie, &amp; dissiper &amp; reduire en fumée cette dangereuse Armée de Mutins qui menassoient d’y mettre le Royaume. Je vous voy dedans un détroit ouvrir un passage &amp; les bornes de la France, &amp; plus avant la rendre encore témoin de merveilles de vostre valeur. Jusques-là, MONSEIGNEUR, tous ces grands effects de vôtre courage, &amp; de cette constante /<pb n="VI" xml:id="pVI"/>/ fermeté qui n’est qu’aux cœurs des grands Heros, ont eu leur jour, leur éclat, &amp; leur pompe : &amp; quoy que la fortune ou la <ref target="#malice1">malice*</ref> de vos envieux ait tenté d’obscurcir en des occasions fâcheuses quelque peu vôtre gloire ; elle a toutefois conservé parmy les ombres qu’on y vouloit opposer, cette secrete force de lumieres qui partoient des rayons veritables de V.G. Mais icy je la voy fort oppressée, en cette prudente retraite que je nomme vôtre exil, &amp; en cette derniere extremité d’une fortune <ref target="#injurieux">injurieuse*</ref>, qui vous expose sur Mer dans une fregate, ainsi que Cesar à la mercy des tempétes ; &amp; je vous voy à pied, dénué d’armes de pouvoir &amp; d’assistance, au milieu de vos Ennemis, au plus fort de vôtre disgrace, entrer dedans vôtre Maison comme en une Place ennemie. Plus vous tâchez de vous rendre inconnu, &amp; d’effacer le lustre de vôtre condition, plus cette audace presque temeraire &amp; heroïque la fait éclatter. Car c’est icy que je vous voy dedans une double &amp; vertueuse action de courage &amp; de pieté, bien mieux &amp; en plus grand peril qu’un fabuleux Aenée, enlever vôtre Femme, vôtre Fille, &amp; vos autre tresors, pour les sauver d’un embrasement general qui alloit perdre &amp; consommer vôtre Maison. C’est par cette prevoyance &amp; hardiesse admirable que vous l’avez conservée, &amp; qu’il m’est permis de vous voir dans ce premier éclat où je vous considere &amp; vous admire tout brillant &amp; d’honneur &amp; de gloire, &amp; qui ayant attiré un Dictateur pour vous rendre hommage, me force méme de me declarer &amp; de vous dire que je suis,</p>
         <p>MONSEIGNEUR,</p>
         <p>DE vôtre GRANDEUR</p>
       </div>
       <div xml:id="privilege">
+        <head>Extraict du Privilege du Roy.<pb n="VII"/></head>
         <p>Par grace &amp; privilège du Roy donné à Paris le 19. Fevrier 1646. signé, Par le Roy en son Conseil, LE BRUN. Il est permis à Toussainct Quinet Marchand Libraire à Paris d’imprimer ou faire imprimer une piece de Theatre, intitulée LE DICTATEUR ROMAIN, TRAGEDIE, &amp; ce durant le temps &amp; espace de cinq ans, à compter du jour que ladite piece sera achevee d’imprimer, &amp; deffences seront faictes à tous Imprimeurs &amp; Libraires d’en imprimer, vendre &amp; distribuer d’autre impression que celle dudit Quinet ou ses ayans causes, sur peine aux contrevenans de trois mille livres d’amende, confiscation des exemplaires &amp; de tous despens, dommages &amp; interests ainsi qu’il est plus au long porté par lesdites lettres.</p>
       </div>
-      <div xml:id="personnages" type="set"/>
+      <div xml:id="personnages" type="set">
+        <head>PERSONNAGES.<pb n="VIII"/></head>
+      </div>
       <div xml:id="acteI" type="act">
+        <head>ACTE I</head>
         <div type="scene" xml:id="scene1-I">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="scene1-I-1" who="camille">
             <l n="1" xml:id="l1">Quoy ? ma Sœur, <ref target="#plaindre">plaindre*</ref> ainsi quelque peu de foiblesse ?<pb n="1; A" xml:id="p1"/></l>
             <l n="2" xml:id="l2">Ce reste de <ref target="#langueur">langueur*</ref> qu’un mal passé me laisse ?</l>
@@ -219,6 +274,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene2-I">
+          <head>SCENE II</head>
           <sp xml:id="scene2-I-1" who="garde">
             <l n="166" xml:id="l166" part="I">Comine attend, Seigneur.</l>
           </sp>
@@ -258,6 +314,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene3-I">
+          <head>SCENE III</head>
           <sp xml:id="scene3-I-1" who="comine">
             <l n="190" xml:id="l190">Envoyé par Fabie arrivé de l’Armée….</l>
           </sp>
@@ -465,6 +522,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene4-I">
+          <head>SCENE IV</head>
           <sp xml:id="scene4-I-1" who="flavie">
             <l n="330" xml:id="l330">Presque tout le Senat, Seigneur, vient de se rendre…</l>
           </sp>
@@ -492,6 +550,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene5-I">
+          <head>SCENE V</head>
           <sp xml:id="scene5-I-1" who="papyrie">
             <l n="337" xml:id="l337">Ou vas-tu ? quoy ? mon cœur, tu cours apres ta vie ?</l>
             <l n="338" xml:id="l338">Pour <ref target="#remettre">remettre*</ref> mes sens, arreste un peu : Flavie.</l>
@@ -569,7 +628,9 @@
         </div>
       </div>
       <div xml:id="acteII" type="act">
+        <head>ACTE II</head>
         <div type="scene" xml:id="scene1-II">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="scene1-II-1" who="lucille">
             <l n="385" xml:id="l385">Moderez, Papyrie, &amp; vos cris &amp; vos larmes ;</l>
             <l n="386" xml:id="l386">Je souffre autant que vous en ces rudes <ref target="#allarmes">allarmes*</ref>,</l>
@@ -675,6 +736,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene2-II">
+          <head>SCENE II</head>
           <sp xml:id="scene2-II-1" who="fabie-fils">
             <l n="472" xml:id="l472">Cette Maison fera mon naufrage ou mon port :</l>
             <l n="473" xml:id="l473">J’ay quitté le Senat qui m’a pris en sa garde ;</l>
@@ -755,6 +817,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene3-II">
+          <head>SCENE III.</head>
           <sp xml:id="scene3-II-1" who="flavie">
             <l n="537" xml:id="l537">Au contraire, il est proche : ô Fabie ! ô Camille !<pb n="31" xml:id="p31"/></l>
             <l n="538" xml:id="l538">Helas ! le Dictateur vient d’entrer dans la ville.</l>
@@ -837,6 +900,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene4-II">
+          <head>SCENE IV.</head>
           <sp xml:id="scene4-II-1" who="fabie-fils">
             <l n="587" xml:id="l587">Mais les puis-je appeller mes favorables Dieux ?</l>
             <l n="588" xml:id="l588">Et pourrois-je en chercher d’autres que vos beaux yeux ?</l>
@@ -961,7 +1025,9 @@
         </div>
       </div>
       <div xml:id="acteIII" type="act">
+        <head>ACTE III.</head>
         <div type="scene" xml:id="scene1-III">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="scene1-III-1" who="papyre">
             <l n="675" xml:id="l675">Qu’on ne m’en parle plus ; il mourra, l’<ref target="#insolent">insolent*</ref>.</l>
           </sp>
@@ -1073,6 +1139,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene2-III">
+          <head>SCENE II.</head>
           <sp xml:id="scene2-III-1" who="papyrie">
             <l part="F">Mais non pas vostre Gendre.<pb n="44" xml:id="p44"/></l>
           </sp>
@@ -1162,6 +1229,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene3-III">
+          <head>SCENE III.</head>
           <sp xml:id="scene3-III-1" who="flavie">
             <l part="F">Seigneur, n’avancez pas:</l>
             <l n="792" xml:id="l792">C’est courir à la mort ; elle est dessus vos pas ;</l>
@@ -1279,6 +1347,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene4-III">
+          <head>SCENE IV.</head>
           <sp xml:id="scene4-III-1" who="papyre">
             <l n="867" xml:id="l867" part="I">Dieux ! que sents-je ? est-ce moy ?</l>
           </sp>
@@ -1452,7 +1521,9 @@
         </div>
       </div>
       <div xml:id="acteIV" type="act">
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="scene1-IV">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="scene1-IV-1" who="lucille">
             <l n="979" xml:id="l979">Puis qu’ils sont au Senat, j’ose encore esperer :<pb n="59" xml:id="p59"/></l>
             <l n="980" xml:id="l980">Et ce moment fatal nous donne à respirer.</l>
@@ -1517,6 +1588,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene2-IV">
+          <head>SCENE II.</head>
           <sp xml:id="scene2-IV-1" who="lucille">
             <l part="F">Mais enfin que sçaurons-nous, Flavie ?<pb n="62" xml:id="p62"/></l>
           </sp>
@@ -1576,6 +1648,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene3-IV">
+          <head>SCENE III.</head>
           <sp xml:id="scene3-IV-1" who="papyre">
             <l n="1067" xml:id="l1067">SErez-vous comme une ombre attachée à mes pas ?</l>
             <l n="1068" xml:id="l1068">Dans la chambre, en ce lieu, quoy ? ne me quitter pas ?</l>
@@ -1732,6 +1805,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene4-IV">
+          <head>SCENE IV</head>
           <sp xml:id="scene4-IV-1" who="fabie-pere">
             <l n="1204" xml:id="l1204">Arrétez, arrétez ; &amp; quoy ? me fuyez-vous ?</l>
           </sp>
@@ -1869,7 +1943,9 @@
         </div>
       </div>
       <div xml:id="acteV" type="act">
+        <head>ACTE V.</head>
         <div type="scene" xml:id="scene1-V">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="scene1-V-1" who="papyre">
             <l n="1299" xml:id="l1299">Non ; toutes ces raisons ne vont qu’à m’offenser ;<pb n="76" xml:id="p76"/></l>
             <l n="1300" xml:id="l1300">Il est perdu, Camille, il n’y faut plus penser :</l>
@@ -1963,6 +2039,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene2-V">
+          <head>SCENE II.</head>
           <sp xml:id="scene2-V-1" who="comine">
             <l n="1369" xml:id="l1369">Une triste nouvelle à vos yeux me r’ameine :<pb n="80" xml:id="p80"/></l>
             <l n="1370" xml:id="l1370">L’Armée est en revolte, &amp; tous les Chefs en peine :</l>
@@ -2008,6 +2085,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene3-V">
+          <head>SCENE III.</head>
           <sp xml:id="scene3-V-1" who="lucille">
             <l n="1401" xml:id="l1401">IL faut plustôt tout craindre : à peine je respire.<pb n="82" xml:id="p82"/></l>
           </sp>
@@ -2100,6 +2178,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="scene4-V">
+          <head>SCENE DERNIERE.</head>
           <sp xml:id="scene4-V-1" who="fabie-pere">
             <l part="F">En voicy deux ; le nombre en est moins grand ;<pb n="86" xml:id="p86"/></l>
             <l n="1452" xml:id="l1452">Rome en deffendoit un, &amp; ma main vous le rend :</l>

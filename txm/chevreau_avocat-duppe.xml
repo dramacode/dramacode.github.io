@@ -1,8 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'Advocat duppé. Comédie</title>
+        <author key="Chevreau, Urbain (1613-1701)">Urbain Chevreau</author>
+        <principal>Georges Forestier</principal>
+        <editor>Audrey Maratra</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Audrey Maratra dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2010-2011)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/chevreau_avocat-duppe/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/chevreau_avocat-duppe.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/chevreau_avocat-duppe.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/chevreau_avocat-duppe.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/chevreau_avocat-duppe.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1637"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>L’ADVOCAT DUPPÉ. COMEDIE.</head>
       <div type="dedication" xml:id="dedicace">
         <pb n="III"/>
+        <head>A HAUT ET PUISSANT SEIGNEUR, MESSIRE, JEAN VICOMTE DE SCUDAMORE, Ambassadeur en France, pour sa Majesté de la grande Bretagne. </head>
         <p>MONSEIGNEUR,</p>
         <p>Cét ouvrage me fait rougir, et j’ai raison de présenter avec crainte ce que vostre Grandeur ne devroit recevoir qu’avec quelque sorte de dégoust. Mais c’est un advocat qui ne demande pas justice, il se confie en vostre bonté, et sçachant<pb n="IV"/> bien que la France se peut vanter aujourd’hui de vivre des long-temps dans l’Angleterre par vostre illustre Maison ; il n’aprehende pas de vous entretenir en sa langue. Il n’est pas estranger dans son païs ; il a sçeu qu’on ne pouvoit retrancher de l’histoire les belles actions de vos Ancestres qu’en la privant de ce qui l’embellit, et de ce que nous admirons tous les jours ; il aprend encore de la voix commune qu’on se contente d’envier la mort glorieuse de ses Heros, dont on ne peut imiter la vie qu’avec des forces et des effors dont les hommes du siècle n’ont pas droit de se prevaloir. Je sçai bien, <hi rend="sc">Monseigneur</hi>, que leur gloire ne fait pas la vostre, et qu’en ayant assez aquis pour la faire servir d’exemple à ceux qui viendront apres nous ; vous ne treuverez pas mauvais qu’on vous donne quelque chose sans leur ravir. Depuis que vous avez cru que le mérite rend les Princes plus recommandables que leur sang, et que leur Couronne, de quelque or qu’elle soit faite, n’est jamais si belle que leur Vertu, vous avez estimé dans vos Aïeulx l’éclat de leur vie plutôt que celuy de leur fortune, et vostre Générosité a étendu les bornes que la mort leur avoit prescrites. Vous avez fait voir que vous connessez la veritable gloire, non pas comme les Pilo-<pb n="V"/>tes connoissent les écueils et les precipices pour les éviter ; mais comme un bien hereditaire qui vous touche, et sans lequel vous vous estimeriez pauvre quand même vous auriez dequoi enrichir tous les miserables. Si bien que si on estoit contraint de faire le portrait d’un homme que les belles qualitez élevent au dessus des autres, il faudroit de nécessité que vous en fussiez l’original. Mais, <hi rend="sc">Monseigneur</hi>, je laisse parler la renommée, et je suis bien aise que la multitude de vos Nobles actions fasse la sterilité de mon esprit et de mes pensees ; et s’il s’est treuvé des personnes qui apres avoir veu le Soleil ont beni cétte belle lumiere, qui les avoit renduës aveugles, j’ai à me consoler de ce qu’un tel éclat m’eblouit, et dans cét état j’ai dequoi faire des jaloux si vous me permettez l’honneur de me dire,</p>
         <p><hi rend="sc">Monseigneur</hi>,</p>
@@ -13,24 +62,31 @@
       </div>
       <div type="set" xml:id="au-lecteur">
         <pb n="VI"/>
+        <head>AU LECTEUR. </head>
         <p>Mon dessein n’est pas de blamer ici tous les Advocats, je ferois conscience de toucher à ceux qu’Atalante soupçonne de n’en point avoir, et ce ne seroit pas faire justice à ceux qui la demandent tous les jours. J’en ai seulement choisi un, dont les images sont un peu troublées, et dont l’esprit n’a pas assez de lumiere pour se faire jour aux entreprises d’une fille. Je l’ai voulu rendre capable d’amour, afin de le disposer à des actions qui sont bien souvent de l’intelligence de cette passion, qui d’ordinaire éblouït les sens quand elle ne les peut aveugler. Cét Advocat est jeune, et par consequent les ruses du Palais ne luy ont point encore apris à éviter celles qu’on luy avoit preparées, et l’amour est un mal dont on ne treuve pas le remede dans Barthole ni dans Cujas, qui n’enseignent pas le droict qui est si necessaire pour cét effet. Il est vrai que son entreprise a reüssi dans sa fin, qui est le mariage, mais si vous considerez les moyens dont on se sert pour le dupper d’un bout à l’autre, les artifices de Flaminie, le consentement d’Atalante, l’intrigue de Mainalte, la feinte generosité de Tharzinte, et les divers mouvement où il est luy-même lors qu’il se propose de l’abandonner ; vous<pb n="VII"/> advoüerez qu’il s’est fait des pieges que les autres ont tendus pour le prendre, et où il tombe insensiblement. Que si vous treuvez des injures contre les Advocats dont les æquivoques necessaires ne changent pas tout à fait la force ; donnez au ressentiment d’Atalante ce que le commencement du sujet en doit exiger. Si c’est une feinte, elle est vrai semblable ; et si c’est une vérité, vous ne devez point passer plus avant. Pour la pièce, je l’ai acommodée à la nature du Poëme Comique, qui rebute en tout des vers et des sujet graves, pource que les uns ni les autres ne sont point de la jurisdiction, et qu’elle se treuveroit defectueuse de ce qui embellit la Tragédie. Pour ce qui est des fautes, si vous condannez à mort tous ceux qui en font, je suis en danger de ne vivre pas long-temps, si je n’obtiens ma grace de quelque autre qui les excuse, et qui connessant ma franchise et mon humeur, relachera peut-estre de sa sévérité, à dessein seulement de me donner advantage de me corriger.</p>
       </div>
       <div type="set" xml:id="privilege">
         <pb n="VIII"/>
+        <head>Privilege du Roy. </head>
         <p><hi rend="sc">Louis</hi> par la grace de Dieu Roy de France et de Navarre. A nos amez et feaux les gens tenans nos Cours de Parlements, Baillifs, Seneschaux, Prevosts, Juges, ou leurs Lieutenans, et à chacun d’eux en droit soy, Salut. Nostre cher et bien aimé <hi rend="sc">Toussainct Quinet</hi> Marchand Libraire, nous a fait remonstrer qu’il desirerait faire imprimer et mettre en lumiere une Comedie, Intitulée <hi rend="sc">L’Advocat duppé</hi>, mais crainte que l’impression ne luy soit dommageable, si d’autres que luy s’ingeroient de le faire imprimer, il nous a sur ce requis nos Lettres necessaires. <hi rend="sc">A ces causes</hi> nous avons permis et octroyé, permettons et octroyons audit Quinet d’imprimer, ou faire imprimer ladite Comédie par tels Imprimeurs que bon luy semblera, icelle vendre et exposer durant le temps de sept ans, pendant lequel temps nous avons fait et faisons tres-expresses inhibitions et defences à tous autres Libraires et Imprimeurs de la faire imprimer, vendre, ny debiter sur peine de perte des exemplaires, et de trois mil livres d’amende, appliquable un tiers à nous, et un tiers à l’Hostel Dieu de Paris, et l’autre tiers à l’exposant, despens dommages et interests, et afin qu’ils n’en pretendent cause d’ignorance. Nous voulons que mettant en fin des exemplaires autant des presentes, elles soient tenües pour certifiées, à la charge toutefois de mettre deux exemplaires de ladite Comedie dans nostre bibliothecque des Cordeliers à Paris, et un exemplaire és d’icelle és mains de nostre amé et feal Chevalier, Chancelier de France le Sieur Seguier. <hi rend="sc">Car</hi> tel est nostre plaisir. <hi rend="sc">Donne à</hi> Paris le vingt-uniesme jour d’Aoust, l’an de grace mil six cens trente-sept, Et nostre regne le 28. Par le Roy en son Conseil. <hi rend="sc">De S. Andre</hi>, et scellé du grand seau de cire jaune.</p>
         <p rend="center">Achevé d’imprimer le dernier Septembre 1637.</p>
         <p rend="center">Lesdits exemplaires ont esté fournis.</p>
       </div>
       <div xml:id="argument-acte1">
         <pb n="X"/>
+        <head>ARGUMENT DU PREMIER ACTE.</head>
         <p><hi rend="sc">Atalante</hi> avec sa sœur Izidore se plaint de sa misere, que la perte d’un procez leur fait naistre en méme temps qu’elles se proposoient beaucoup de choses pour leur advancement, et dans ce ressentiment elle ne peut s’empescher de parler avec un peu de liberté des Advocats qu’elle ne pouvoit aimer pour beaucoup de considerations legitimes. Izidore neantmoins pour la consoler dans sa necessité, luy donne advis de l’amour de Polydas Advocat, qui par la seule reputation d’Atalante l’avoit tellement aymée qu’il ne pût s’empescher d’en donner advis à sa sœur Flaminie afin de la rendre confidente d’une passion si forte ; ce qu’Izidore sçachant, aidée de Philemon leur curateur, elle prend l’habit d’un Clerc, et va se presenter à Polydas, apres avoir esté asseurée qu’il en cherchoit un.</p>
       </div>
       <div type="set" xml:id="acteurs">
         <pb n="IX"/>
+        <head>ACTEURS. </head>
       </div>
       <div type="act" xml:id="acte1">
         <pb n="A, 1"/>
+        <head>ACTE PREMIER.</head>
+        <head>L’ADVOCAT DUPPÉ. COMEDIE.</head>
         <div type="scene" xml:id="acte101">
+          <head>SCENE PREMIERE.</head>
           <sp who="atalante" xml:id="acte101-1">
             <l n="1" xml:id="l1">Ma Sœur, que la misere est aujourd’huy commune !</l>
             <l n="2" xml:id="l2">Qu’on fait par la beauté rarement sa <ref target="#fortune1">fortune*</ref> !</l>
@@ -207,6 +263,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte102">
+          <head>ACTE I. SCENE DEUXIEME.</head>
           <pb n="B, 9"/>
           <sp who="philemon" xml:id="acte102-1">
             <l n="151" xml:id="l151">Mes Dames quel sujet vous servoit d’<ref target="#entretenir">entretien*</ref> ?</l>
@@ -303,6 +360,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte103">
+          <head>ACTE I. SCENE TROISIESME.</head>
           <sp who="polydas" xml:id="acte103-1">
             <l n="221" xml:id="l221">Ma sœur vous sçavez bien que le monde l’estime,</l>
             <l n="222" xml:id="l222">Et confessez par là mon amour legitime ;</l>
@@ -417,12 +475,15 @@
         </div>
       </div>
       <div xml:id="argument-acte2">
+        <head>ARGUMENT DU DEUXIESME ACTE.</head>
         <pb n="19"/>
         <p><hi rend="sc">Polydas</hi> ayant recogneu la gentillesse d’Izidore qu’il ne cognoissoit que sous le nom de Sicandre, sans sçavoir que ce fut une fille, et ayant apris qu’Atalante répondroit de sa fidelité, va la treuver, ravi d’une ocasion si favorable. Flaminie qui ne recevoit pas moins de contentement par la veüe de Sicandre, faisoit des-ja mille chimeres, et s’assuroit d’avoir de luy tout ce qu’un honneste homme ne peut pas refuser à celles de son sexe. Cependant Mainalte frere d’Izidore et d’Atalante revenu des armées, aprend de Philemon l’intrigue de cette amour de laquelle il veut les desambarasser, et fait dessein d’interrompre toute cette entreprise, au mesme temps qu’Atalante prioit Polydas de recevoir Sicandre qui s’y [20] voyoit des-ja instalé par son industrie, par les persuasions d’Atalante, et par la courtesie de Polydas. Dans ce commerce d’amour Tharzinte et Calliante amoureux également d’Izidore, se disputent et prennent heure pour se battre afin quelle demeure au plus heureux ou au plus adroit.</p>
       </div>
       <div type="act" xml:id="acte2">
+        <head>ACTE II.</head>
         <pb n="21"/>
         <div type="scene" xml:id="acte201">
+          <head>SCENE PREMIERE.</head>
           <sp who="polydas" xml:id="acte201-1">
             <l n="305" xml:id="l305">Tu me soulageras, et tu feras ta <ref target="#gloire1">gloire*</ref></l>
             <l n="306" xml:id="l306">Si tu peux travailler comme tu me fais croire.</l>
@@ -538,6 +599,7 @@
         </div>
         <div type="scene" xml:id="acte202">
           <pb n="26"/>
+          <head>ACTE II. SCENE DEUXIESME.</head>
           <sp who="mainalte" xml:id="acte202-1">
             <l n="377" xml:id="l377">Enfin je suis rendu, j’ay fini mes traverses,</l>
             <l n="378" xml:id="l378">J’ai couru trop long temps des <ref target="#fortune2">fortunes</ref> diverses :</l>
@@ -600,6 +662,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte203">
+          <head>ACTE II. SCENE TROISIESME.</head>
           <pb n="29"/>
           <sp who="philemon" xml:id="acte203-1">
             <l n="435" xml:id="l435">Quelle surprise, ô Ciel ! Vous estes revenu,</l>
@@ -656,6 +719,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte204">
+          <head>ACTE II. SCENE QUATRIESME.</head>
           <pb n="32"/>
           <sp who="atalante" xml:id="acte204-1">
             <l n="465" xml:id="l465">Il est vrai qu’il est vain, qu’il se plaist d’ordinére</l>
@@ -794,6 +858,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte205">
+          <head>ACTE II. SCENE CINQUIESME.</head>
           <pb n="38"/>
           <sp who="tharzinte" xml:id="acte205-1">
             <l n="557" xml:id="l557">Je ne te puis celer cher ami Calliante</l>
@@ -899,12 +964,15 @@
         </div>
       </div>
       <div xml:id="argument-acte3">
+        <head>ARGUMENT DU TROISIESME ACTE.</head>
         <pb n="43"/>
         <p>P olydas d’Advocat devient Poëte, et est rencontré par sa Sœur Flaminie, où il composoit certains vers à la loüange d’Atalante, dont il estoit extremement amoureux. Lors que Flaminie eut veu les vers, et qu’elle les eut leus, Sicandre advertit Polydas qu’Atalante estoit à la porte. Flaminie treuvant l’heure à propos parle secrettement à Sicandre, et par mille traits d’esprit lui declare à la fin sa passion. Ils prennent l’assignation sur le soir dans le jardin, Mainalte venant au logis de Polydas treuve Isidore en habit de garçon, et pensant la gourmander d’abord, il se voit contraint d’apreuver son invention, surtout quand il sceut le lieu où Flaminie se devoit treuver, et qu’il pouvoit prendre sa place. En luy disant adieu il [44] rencontre Calliante et Tharzinte qui se vouloient battre, et aiant apris le sujet de leur querelle, il promet Isidore à Tharzinte, voiant que l’autre manquoit de cœur. Lorsqu’il luy donne connessance de son secret, Atalante par importunité promet à Polydas de l’aller treuver le soir au jardin, ne sachant pas que Sicandre y dût aller, et ne s’imaginant pas qu’il y eut grande *fortune à risquer, puis qu’elle estoit si proche de sa Sœur, dans laquelle elle avoit toûjours mis la meilleure de ses esperances.</p>
       </div>
       <div type="act" xml:id="acte3">
+        <head>ACTE III.</head>
         <pb n="45"/>
         <div type="scene" xml:id="acte301">
+          <head>SCENE PREMIERE.</head>
           <sp who="polydas" xml:id="acte301-1">
             <lg>
               <l n="629" xml:id="l629">Astre qui conservez ma vie,</l>
@@ -977,6 +1045,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte302">
+          <head>ACTE III. SCENE DEUXIESME.</head>
           <sp who="flaminie" xml:id="acte302-1">
             <l n="691" xml:id="l691">Resverez-vous toûjours à ce que vous aimez ?</l>
             <l n="692" xml:id="l692">Cieux que faites-vous là ? Mon frere vous rimez,</l>
@@ -1240,6 +1309,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte303">
+          <head>ACTE III. SCENE TROISIESME.</head>
           <pb n="60"/>
           <sp who="mainalte" xml:id="acte303-1">
             <l part="F">C’est trop fait, c’est trop estre à la gêne,</l>
@@ -1316,6 +1386,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte304">
+          <head>ACTE III. SCENE QUATRIÈME.</head>
           <sp who="calliante" xml:id="acte304-1">
             <l n="917" xml:id="l917">Si tu dois sucomber, quelle proche retraitte</l>
             <l n="918" xml:id="l918">Poura sauver ma teste apres cette défaite ?</l>
@@ -1408,6 +1479,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte305">
+          <head>ACTE III. SCENE CINQUIESME.</head>
           <pb n="67"/>
           <sp who="polydas" xml:id="acte305-1">
             <l n="967" xml:id="l967">Enfin si vous m’aimez, faites-moi ce plesir,</l>
@@ -1460,12 +1532,15 @@
         </div>
       </div>
       <div xml:id="argument-acte4">
+        <head>ARGUMENT DU QUATRIESME ACTE.</head>
         <pb n="69"/>
         <p>P olydas apres avoir long-temps attendu, entend du bruit et s’imaginant tenir Atalante, prend Mainalte sans le connêtre, qui croit estre trompé par sa sœur. Mainalte en sortant entend venir Flaminie, qui d’abord est prise par Polydas, lequel se voyant duppé si souvent, proteste d’avoir à l’advenir moins d’amour. Lors qu’il est encore à faire ses plaintes, Flaminie est surprise par Mainalte, qui l’emmene dans la chambre sans la voir, et Atalante arrive au lieu de l’assignation ; mais Polydas prenant Atalante pour Flaminie, la rebute par des termes assez injurieux : ce qui oblige Atalante de sortir : Polydas aiant reconnu se faute, s’en va au logis, où il treuve sa sœur avec un homme inconnu, et Sicandre avec Tharzinte. Flami-<pb n="70"/>nie se voiant abusée, et croiant posseder Sicandre, aprend la cause de ce changement, et treuvant Tharzinte aussi bien fait du moins que Sicandre, apres avoir renvoié Polydas au jardin, où elle disoit qu’Atalante l’attendoit encore pour joüer la piece entiere, donne jour aux uns et aux autres de dupper son frere, et s’y porte dés l’heure avec une industrie tout à fait étrange.</p>
       </div>
       <div type="act" xml:id="acte4">
+        <head>ACTE IV.</head>
         <pb n="71"/>
         <div type="scene" xml:id="acte401">
+          <head>SCENE PREMIERE.</head>
           <sp who="polydas" xml:id="acte401-1">
             <l n="989" xml:id="l989">Toutes sortes d’objets sont maintenant funebres,</l>
             <l n="990" xml:id="l990">Et la terre et le Ciel sont couverts de tenebres.</l>
@@ -1522,6 +1597,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte402">
+          <head>ACTE IV. SCENE DEUXIESME.</head>
           <pb n="74"/>
           <sp who="sicandre" xml:id="acte402-1">
             <l n="1041" xml:id="l1041">Allez, elle m’attend, montrez vôtre prudence,</l>
@@ -1546,6 +1622,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte403">
+          <head>ACTE IV. SCENE TROISIESME.</head>
           <sp who="polydas" xml:id="acte403-1">
             <l n="1053" xml:id="l1053">A la fin je vous tiens, adorable Atalante,</l>
             <l n="1054" xml:id="l1054">Vous rendrez à ce coup mon ame plus contente.</l>
@@ -1586,6 +1663,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte404">
+          <head>ACTE IV. SCENE QUATRIÈME.</head>
           <sp who="mainalte" xml:id="acte404-1">
             <l n="1079" xml:id="l1079">Endurer cét afront ; j’aimerois mieux mourir,</l>
             <l n="1080" xml:id="l1080">La vengeance est le bien qui me peut secourir.</l>
@@ -1604,6 +1682,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte405">
+          <head>ACTE IV. SCENE CINQUIESME.</head>
           <sp who="flaminie" xml:id="acte405-1">
             <l n="1093" xml:id="l1093">Il ne peut m’échapper ; malgré toute sa <ref target="#gloire1">gloire*</ref></l>
             <l n="1094" xml:id="l1094">Il faut que j’en espere une heureuse victoire.</l>
@@ -1692,6 +1771,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte406">
+          <head>ACTE IV. SCENE SIXIESME.</head>
           <sp who="mainalte" xml:id="acte406-1">
             <l n="1165" xml:id="l1165">C’est elle, il faut parler ; elle quitte son frere,</l>
             <l n="1166" xml:id="l1166">Le <ref target="#sort1">sort*</ref> d’oresnavant ne peut m’estre contrere,</l>
@@ -1718,6 +1798,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte407">
+          <head>ACTE IV. SCENE SEPTIESME.</head>
           <pb n="84"/>
           <sp who="polydas" xml:id="acte407-1">
             <l n="1179" xml:id="l1179">Non, non c’est trop soufrir ; si je suis <ref target="#amoureux">amoureux*</ref></l>
@@ -1733,6 +1814,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte408">
+          <head>ACTE IV. SCENE HUICTIESME.</head>
           <pb n="85"/>
           <sp who="atalante" xml:id="acte408-1">
             <l n="1189" part="I" xml:id="l1189">Est-ce vous Polydas ?</l>
@@ -1786,6 +1868,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte409">
+          <head>ACTE IV. SCENE NEUFIESME.</head>
           <sp who="tharzinte" xml:id="acte409-1">
             <l n="1225" xml:id="l1225">Isidore mon cœur, que vous paroissez belle !</l>
             <l n="1226" xml:id="l1226">Et que j’ai bien raison de vous estre fidelle !</l>
@@ -1818,6 +1901,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte410">
+          <head>ACTE IV. SCENE DIXIESME.</head>
           <pb n="M, 89"/>
           <sp who="polydas" xml:id="acte410-1">
             <l n="1247" xml:id="l1247">J’ai pensé sucomber à ces nouveaux maleurs,</l>
@@ -1964,12 +2048,15 @@
         </div>
       </div>
       <div xml:id="argument-acte5">
+        <head>ARGUMENT DU CINQUIESME ACTE.</head>
         <pb n="95"/>
         <p>A TALANTE fachée de ce dernier affront qu’elle devoit à l’imprudence de Polydas, promet à Philemon de ne songer plus à cette amour ; et lors qu’elle va querir Isidore, elle aprend la ruse dans laquelle elle commence à jouër le premier personnage. Car Polydas revenant du jardin, où il s’estoit endormi, et protestant de nouveau de n’aimer plus Atalante eut advis de Flaminie que Tharzinte qui avoit des-ja parole d’Isidore, et Mainalte qui avoit receu la foy de Flaminie en secret, se vouloient battre pour sa maitresse. Si bien que prenant son épée entre les mains de Sicandre, et pensant defendre Atalante, il la blessa legerement, pource qu’elle s’estoit advancée. Tharzinte voiant la fourbe bien commencée, pour l’achever feint de vouloir tuer Poly-[96] das avec Mianalte, qui se joint à cette entreprise. Atalante bien instruite demande sa vie qu’elle obtient et fait donner Flaminie à Mainalte, à qui Polydas croioit devoir la vie, Tharzinte qui ne vouloit qu’Isidore feignoit cependant de disputer Atalante, mais s’en estant remis au choix de cette Dame ; elle dit d’abort qu’elle estime Sicandre pour sa fidélité. Polydas se desespere en effet, et Tharzinte en apparence ; mais ce qui remet l’esprit de Polydas, et ce qui l’étonne pourtant, c’est que Sicandre se découvre ; et qu’on lui donne le choix, elle prend Tharzinte, ce qui pensa faire mourir Polydas ; en fin il épouse Atalante, dont il esperoit de grands biens, donne sa sœur, qui estoit riche à Mainalte qui estoit pauvre, voit le mariage d’Isidore et de Tharzinte, et est duppé dans le déguisement de Sicandre, dans les assignations du jardin, dans les feintes de la querelle, et dans la pluspart de ses inventions amoureuses.</p>
       </div>
       <div type="act" xml:id="acte5">
+        <head>ACTE V.</head>
         <pb n="N, 97"/>
         <div type="scene" xml:id="acte501">
+          <head>SCENE PREMIERE.</head>
           <sp who="atalante" xml:id="acte501-1">
             <l n="1329" xml:id="l1329">Monsieur j’en ay trop fait ; je ne puis plus attendre,</l>
             <l n="1330" xml:id="l1330">Polydas nous resiste, on ne peut l’entreprendre,</l>
@@ -2027,6 +2114,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte502">
+          <head>ACTE V. SCENE DEUXIESME.</head>
           <pb n="100"/>
           <sp who="flaminie" xml:id="acte502-1">
             <l n="1371" xml:id="l1371">Confessez pour le moins que c’est bien mediter.</l>
@@ -2105,6 +2193,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte503">
+          <head>ACTE V. SCENE TROISIESME.</head>
           <pb n="104"/>
           <sp who="polydas" xml:id="acte503-1">
             <l n="1421" xml:id="l1421">Comment je voi des-ja le départ de l’Aurore,</l>
@@ -2130,6 +2219,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte504">
+          <head>ACTE V. SCENE QUATRIÈME.</head>
           <sp who="flaminie" xml:id="acte504-1">
             <l n="1441" part="I" xml:id="l1441">Et bien que songez-vous ?</l>
           </sp>
@@ -2164,6 +2254,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte505">
+          <head>ACTE V. SCENE CINQUIESME ET DERNIERE.</head>
           <pb n="107"/>
           <sp who="mainalte" xml:id="acte505-1">
             <l n="1463" xml:id="l1463">L’Amour à mes dépens te veut faire esperer</l>

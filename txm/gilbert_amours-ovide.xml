@@ -1,18 +1,69 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les Amours d'Ovide. Pastorale héroïque</title>
+        <author key="Gilbert, Gabriel (1620?-1680?)">Gabriel Gilbert</author>
+        <principal>Georges Forestier</principal>
+        <editor>Valérie Louchart</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Valérie Louchart dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2004)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/gilbert_amours-ovide/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/gilbert_amours-ovide.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/gilbert_amours-ovide.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/gilbert_amours-ovide.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/gilbert_amours-ovide.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1663"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="show" type="genre">Pastorale héroïque</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LES <lb/>AMOURS <lb/>D’OVIDE. <lb/>PASTORALE HEROIQUE.</head>
       <div xml:id="dedicace">
         <pb n="A ij"/>
+        <head>A MONSEIGNEUR<lb/>COLBERT <lb/>CONSEILLER DU ROY <lb/>En tous ses Conseils, &amp; Intendant <lb/>De ses Finances.</head>
         <p>Il y a long-temps que j’aurois pris la liberté de vous dedier quelques-uns de mes ouvrages, sans les grandes affaires qui vous occupent continuellement ; cela me faisait apprehender de vous dérober quelques-uns de ces momens precieux que vous employez à executer les ordres du Roy. Mais comme feu S.E a bien voulu quelquefois se delasser l’esprit dans la lecture de mes écrits ; j’ai crû que vous n’auriez pas desagreable que j’eusse l’honneur de vous presenter celuy-cy, &amp; que j’entreprisse quelque jour de faire vostre Eloge. Vous ne pouviez jamais avoir une marque plus infaillible de vostre merite*, que l’estime* que ce grand Ministre a faite de vous, &amp; le choix que S.M  en a fait en suite pour l’administration de ses finances, la chose la plus delicate &amp; la plus importante d’un Estat. Les Romains qui estoient de sages Politiques, éprouvoient par ces charges la fidelité &amp; la <ref target="#suffisance">suffisance*</ref> de leurs Citoyens ; Il vous est fort glorieux, MONSEIGNEUR, que ce soit dans le temps que vous avez le maniement des finances que la France ait commencé à faire des largesses, &amp; que le Roy ait répandu ses libéralitez sur la fleur* des gens de Lettres de ce Royaume, &amp; les actions <ref target="#illustre">illustres*</ref> des plus grands Monarques ne suffisent pas pour les rendre immortels, si quelqu’un ne prend soin d’en conserver la memoire. Mais ces excellents Genies sur qui S.M a fait éclater* ses bienfaits, n’en seront pas ingrats, &amp; feront retentir son Nom de siecle en siecle, &amp; d’un bout du monde jusques à l’autre. Le regne de Louys XIV se rendra plus fameux à la posterité que celuy du II. des Cesars : sous la domination d’un Prince plus parfait qu’Auguste, les Armes &amp; les Sciences fleuriront dans cét Empire avec plus d’éclat* qu’elles n’ont fait autrefois dans Rome. Ovide, cét <ref target="#illustre">illustre*</ref> malheureux, après en avoir esté injustement exilé, vient chercher un azile dans cette Cour ; il espere estre mieux receu en France que dans sa propre patrie &amp; se promet* que vous aurez la bonté d’estre son Protecteur : son crime n’est que d’avoir esté trop <ref target="#galant1">galant*</ref>, &amp; d’avoir enseigné un Art, sans qui la moitié du monde seroit ennemie de l’autre. Ce Chevalier Romain ayant faire <hi rend="i">l’Art de plaire</hi>, qui a esté admiré de toute la terre ; j’ai crû que je pourrois faire une Comedie de luy, qui ne déplairoit pas. Depuis plusieurs années j’ay mis en lumiere divers Escrits en vers &amp; en prose, sans en avoir tiré autre avantage que de les avoir presentez à ce que la France avoit de plus Auguste &amp; de plus Eminent. Bien que nous soyons dans un temps où les Muses sont mieux traitées par les Graces ; de quelques maniere que l’on considere mes ouvrages, je m’estimeray assez heureux, si vous ne me refusez pas l’honneur de vostre protection*, &amp; si vous me permettez de prendre la qualité,</p>
         <p>De vostre tres-humble &amp; tres-obeïssant serviteur,</p>
         <p>GILBERT.</p>
       </div>
       <div xml:id="privilege">
+        <head>EXTRAICT DU PRIVILEGE du Roy.</head>
         <p>Par Grace* &amp; Privilege du Roy donné à Paris le dix-neufiesme Juillet 1663.signé par le Roy en son conseil MARESCHAL; Il est permis à CLAUDE BARBIN, Marchand Libraire, de faire imprimer, vendre &amp; <ref target="#debiter">débiter*</ref> une Comedie intitulée, <hi rend="i">Les Amours d Ovide par Monsieur Gilbert</hi>, &amp; ce durant le temps &amp; espace de sept ans ; &amp; deffences sont faites à tous les autres d’ imprimer, vendre et <ref target="#debiter">debiter*</ref> ledit livre sans permission dudit Barbin, à peine de mil livres d’amande, &amp; de tous despens, dommages &amp; interets, comme il est porté plus amplement par lesdites Lettres.</p>
         <p>Et ledit Barbin a fait part de son Privilege à Guillaume de Luyne, &amp; Estienne Loyson, pour en jouir le temps porté par iceluy.</p>
         <p rend="i">Achevé d’imprimé pour la premiere fois le 20 Aoust 1663.</p>
       </div>
       <div type="prologue" xml:id="A">
+        <head>PROLOGUE <lb/>DES <lb/>GRACES.</head>
         <sp xml:id="A-1" who="talie">
           <l>Nous sommes de Venus les compagnes fidelles,</l>
           <l>Qui venons presider aux festes solemnelles,</l>
@@ -56,8 +107,11 @@
           <l>Allons pour couronner leurs fronts victorieux.</l>
         </sp>
       </div>
-      <div xml:id="acteurs"/>
+      <div xml:id="acteurs">
+        <head>ACTEURS.</head>
+      </div>
       <div type="prologue" xml:id="B">
+        <head>RECIT.</head>
         <l>Venez, Amans, dans ces beaux lieux,</l>
         <l>Où par l’ordre de Citherée</l>
         <l>Les Graces descendent des Cieux,</l>
@@ -67,7 +121,9 @@
       </div>
       <div xml:id="I" type="act">
         <pb n="7"/>
+        <head>ACTE I</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="III01-1" who="hyacinthe">
             <l n="1" xml:id="l1">Et bien, que dites-vous de cette Isle sacrée,</l>
             <l n="2" xml:id="l2">Des plus beaux feux du jour en tous temps esclairée,</l>
@@ -236,6 +292,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp xml:id="III02-1" who="ovide">
             <l n="89" xml:id="l89">Nous venons admirer vostre rare <ref target="#merite">merite*</ref>,</l>
             <l n="90" xml:id="l90">Et nous avions dessein de vous rendre visite,</l>
@@ -403,6 +460,7 @@
         </div>
         <div type="scene" xml:id="III03">
           <pb n="D; 21"/>
+          <head>SCENE III.</head>
           <sp xml:id="III03-1" who="cephise">
             <l n="199" xml:id="l199">Ovide ne sçauroit la quitter un moment,</l>
             <l n="200" xml:id="l200">Il tesmoigne par là, comme il l’ayme ardemment.</l>
@@ -508,6 +566,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp xml:id="III04-1" who="cephise">
             <l n="249" xml:id="l249">Il s’en va sans m’oüir, &amp; me laisse <ref target="#confus1">confuse*</ref>,</l>
             <l n="250" xml:id="l250">Et malgré ma <ref target="#vertu">vertu*</ref> mon silence m’accuse.</l>
@@ -521,6 +580,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp xml:id="III05-1" who="cephise">
             <l n="258" xml:id="l258">De ce perfide <ref target="#amant1">Amant*</ref> je veux prendre vengeance,</l>
             <l n="259" xml:id="l259">Luy seul asseurément m’a fait ce lasche trait ;</l>
@@ -548,6 +608,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI.</head>
           <sp xml:id="III06-1" who="cephise">
             <l n="281" xml:id="l281">De vostre procedé je suis fort en colere.</l>
           </sp>
@@ -688,7 +749,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="F ; 33"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="cephise">
             <l n="349" xml:id="l349">Tu dis qu’on a rendu le billet à Corinne,</l>
             <l n="350" xml:id="l350">N’a-t-on point observé qu’elle eut l’<ref target="#humeur">humeur*</ref> <ref target="#chagrin1">chagrine*</ref> ?</l>
@@ -749,6 +812,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <pb n="36"/>
+          <head>SCENE II.</head>
           <sp xml:id="IV02-1" who="cephise">
             <l n="379" xml:id="l379">Qu’avez-vous fait d’Ovide ? où l’avez-vous laissé ?</l>
             <l n="380" xml:id="l380">A vous suivre partout il <ref target="#faire-empresse">fait fort l’empressé*</ref>.</l>
@@ -869,6 +933,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <sp xml:id="IV03-1" who="ovide">
             <l n="437" xml:id="l437">Il n’est pas à propos que je les voye ensemble,</l>
             <l n="438" xml:id="l438" part="I">Il faut me retirer.</l>
@@ -1092,6 +1157,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV.</head>
           <sp xml:id="IV04-1" who="corinne">
             <l n="549" xml:id="l549">Ovide ayme Cephise, &amp; l’ingrat la respecte.</l>
             <l n="550" xml:id="l550">Sa maniere d’agir me <ref target="#devoir">doit*</ref> estre suspecte,</l>
@@ -1179,6 +1245,7 @@
         </div>
         <div type="scene" xml:id="IV05">
           <pb n="54"/>
+          <head>SCENE V.</head>
           <sp xml:id="IV05-1" who="corinne">
             <l n="597" xml:id="l597">Je viens vous annoncer une heureuse nouvelle.</l>
           </sp>
@@ -1237,6 +1304,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI.</head>
           <sp xml:id="IV06-1" who="hyacinthe">
             <l n="631" xml:id="l631">Je ne puis rien connaistre à cet obscur discours,</l>
             <l n="632" xml:id="l632">Elle dit qu’elle vient pour me donner secours.</l>
@@ -1269,7 +1337,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="58"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="V01-1" who="ovide">
             <l n="657" xml:id="l657">Dieux, j’aperçois Corinne ! esvitons sa presence ;</l>
             <l n="658" xml:id="l658">Puisque c’est par rencontre*, elle est sans consequence.</l>
@@ -1430,6 +1500,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp xml:id="V02-1" who="celie">
             <l n="744" xml:id="l744">Dans la place des jeux les Graces se vont rendre,</l>
             <l n="745" xml:id="l745" part="I">Et vostre Char est prest.</l>
@@ -1444,6 +1515,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp xml:id="V03-1" who="ovide">
             <l n="749" xml:id="l749">Je fais des vœux pour elle, afin qu’elle ait le prix,</l>
             <l n="750" xml:id="l750">Sa Rivale pourtant regne sur mes esprits ;</l>
@@ -1470,6 +1542,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV.</head>
           <sp xml:id="V04-1" who="hyacinthe">
             <l n="771" xml:id="l771">Je vous rends l’amitié que vous m’aviez jurée.</l>
           </sp>
@@ -1625,6 +1698,7 @@
         </div>
         <div type="scene" xml:id="V05">
           <pb n="72"/>
+          <head>SCENE V.</head>
           <sp xml:id="V05-1" who="ovide">
             <l n="870" xml:id="l870">Mais Maxime paroist, qui vient nous l’annoncer ;</l>
             <l n="871" xml:id="l871">Corinne pourroit bien avoir eu l’<ref target="#avantage">avantage*</ref>.</l>
@@ -1764,6 +1838,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI.</head>
           <sp xml:id="V06-1" who="daphnis">
             <l n="976" xml:id="l976">Hyacinthe, je viens pour vous tirer de peine,</l>
             <l n="977" xml:id="l977">La divine Cephise a remporté le prix.</l>
@@ -1823,7 +1898,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="79"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="VI01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="VI01-1" who="corinne">
             <l n="1007" xml:id="l1007">Je ne viens pas vous voir ainsi qu’une Rivale,</l>
             <l n="1008" xml:id="l1008">Dont la nouvelle <ref target="#gloire2">gloire*</ref> à la mienne est <ref target="#fatal2">fatale*</ref> ;</l>
@@ -1912,6 +1989,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI02">
+          <head>SCENE II.</head>
           <sp xml:id="VI02-1" who="cephise">
             <l n="1071" xml:id="l1071">Quelle presomption ! qu’elle a l’<ref target="#humeur">humeur*</ref> <ref target="#hautain">hautaine*</ref> !</l>
           </sp>
@@ -1927,6 +2005,7 @@
         </div>
         <div type="scene" xml:id="VI03">
           <pb n="83"/>
+          <head>SCENE III.</head>
           <sp xml:id="VI03-1" who="ovide">
             <l n="1075" xml:id="l1075">Je viens vous temoigner que j’aime vostre <ref target="#gloire2">gloire*</ref>,</l>
             <l n="1076" xml:id="l1076">Je viens vous rendre hommage apres vostre Victoire,</l>
@@ -2018,6 +2097,7 @@
         </div>
         <div type="scene" xml:id="VI04">
           <pb n="86"/>
+          <head>SCENE IV.</head>
           <sp xml:id="VI04-1" who="ovide">
             <l n="1126" xml:id="l1126">Hyacinthe, à propos vous arrivez icy,</l>
             <l n="1127" xml:id="l1127">Vostre rare <ref target="#merite">merite*</ref> a fait nostre <ref target="#quereller">querelle*</ref> ;</l>
@@ -2084,6 +2164,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI05">
+          <head>SCENE V.</head>
           <sp xml:id="VI05-1" who="talie">
             <l n="1167" xml:id="l1167">De tant d’Amans divers dont cette Isle est remplie,</l>
             <l n="1168" xml:id="l1168">Que de tous les costez de Grece &amp; d’Italie,</l>
@@ -2352,7 +2433,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="R ; 97"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="VII01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="VII01-1" who="cephise">
             <p rend="center">STANCES.</p>
             <lg>
@@ -2422,6 +2505,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VII02">
+          <head>SCENE II.</head>
           <sp xml:id="VII02-1" who="cephise">
             <l n="1414" xml:id="l1414">Dy les Graces du Ciel sont-elles revenuës ?</l>
           </sp>
@@ -2454,6 +2538,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VII03">
+          <head>SCENE III.</head>
           <sp xml:id="VII03-1" who="hyacinthe">
             <l n="1426" xml:id="l1426">Je viens pour vous offrir cette <ref target="#illustre">Illustre*</ref> couronne,</l>
             <l n="1427" xml:id="l1427">Que l’Amour a conquise, &amp; que le Ciel me donne,</l>
@@ -2526,6 +2611,7 @@
         </div>
         <div type="scene" xml:id="VII04">
           <pb n="103"/>
+          <head>SCENE IV.</head>
           <sp xml:id="VII04-1" who="daphnis">
             <l n="1481" xml:id="l1481">Je viens vous annoncer un <ref target="#sensible1">sensible*</ref> malheur,</l>
             <l n="1482" xml:id="l1482">Et vous aurez besoin de tout vostre courage ;</l>
@@ -2646,6 +2732,7 @@
         </div>
         <div type="scene" xml:id="VII05">
           <pb n="107"/>
+          <head>SCENE V.</head>
           <sp xml:id="VII05-1" who="cephise">
             <l part="F">Venez-vous dans ces lieux,</l>
             <l n="1561" xml:id="l1561">Afin de nous braver encor apres nos Dieux ?</l>
@@ -2786,6 +2873,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VII06">
+          <head>SCENE VI. <hi rend="i">&amp; derniere.</hi></head>
           <sp xml:id="VII06-1" who="l-amour">
             <l n="1634" xml:id="l1634">Je viens mettre la paix dans cet heureux <ref target="#sejour">sejour*</ref>,</l>
             <l n="1635" xml:id="l1635">Et mon empire est doux, puis que je suis l’Amour.</l>

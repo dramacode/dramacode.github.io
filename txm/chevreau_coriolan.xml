@@ -1,7 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Coriolan. Tragédie</title>
+        <author key="Chevreau, Urbain (1613-1701)">Urbain Chevreau</author>
+        <principal>Georges Forestier</principal>
+        <editor>Frédéric Sprogis</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Frédéric Sprogis dans le cadre d'un mémoire de
+      master 1 sous la direction de Georges Forestier (2008-2009)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/chevreau_coriolan/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/chevreau_coriolan.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/chevreau_coriolan.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/chevreau_coriolan.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/chevreau_coriolan.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1638"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>CORIOLAN <lb/>TRAGEDIE.</head>
       <div n="1" xml:id="epitre" type="dedication">
+        <head><hi rend="b">A MONSIEUR DE BAUTRU, BARON DE SERRANT</hi>, <hi rend="b">CONSEILLER ORDINAIRE DU ROY EN SES CONSEILS DESTAT ET PRIVE, &amp;c.</hi></head>
         <p rend="b">MONSIEUR,</p>
         <p>Je n’ay jamais crû que ce Livre deust si bien establir ma reputation, qu’il me mist au nombre des Hommes Illustres : au <ref target="#sentiment2">sentiment*</ref> que j’aurois de mon merite, je me treuverois seul de mon opinion, &amp; dans l’amour de moy mesme je serois assuré de n’avoir jamais de rival. Je ne fais pas en me blâmant comme ceux qui méprisent les honneurs du monde par vanité, puisque j’advoue encore que j’ay la liberté d’écrire de la mesme sorte que les malades ont la fiévre chaude, qui font voir que leurs images sont troublées tout autant de fois qu’ils veulent agir ou parler, &amp; que je ne suis pas prest de faire provision d’estime ny de renommée tant qu’elles seront à si haut prix. Ce qui me donne seulement de la hardiesse ;  c’est MONSIEUR, qu’apres avoir consideré* que les plus vieux ont esté jeunes, que les anciennes habitudes ont esté nouvelles, &amp; que l’Art &amp; la Nature dans leurs commencemens nous <ref target="#estonner">estonnent*</ref> par leurs monstres, dont le temps fait des beautez que nous admirons apres : J’ay crû que l’aage me fourniroit un jour dequoy reparer toutes mes fautes. Peut-estre qu’elles ne sont pas toutes mortelles, que je tombe souvant sans me blesser que bien peu ; &amp; que si je n’éclaire l’esprit, je ne l’eschauffe pas aussi de telle façon qu’on doive recourir à la medecine pour le remettre dans la possession de son premier estre. Toute-fois, MONSIEUR, comme la lumiere du feu empesche qu’on ne treuve à dire celle du Soleil, vous remarquerez dans cette Tragedie quelques beautez quand les plus solides vous manqueront. Si je ne devois vous presenter que de belles choses, je ne vous donnerois que l’histoire de vostre vie, &amp; s’il falloit proportionner la grandeur de mon ofre à celle de vostre merite &amp; de votre condition ; ma vie seroit plustost achevée que mon ouvrage, &amp; il seroit necessaire que Dieu me ressuscitast apres plus d’une fois pour l’accomplir. On envie vos moindres actions plus aisément qu’on ne les imite, &amp; je suis certain qu’elles serviront d’exemple aux personnes qui veulent seulement tirer leur reputation de leur <ref target="#vertu2">vertu*</ref>, &amp; qui sans la devoir à leurs Ancestres, se contentent de la posseder comme ils ont fait. Je n’entreprens pas icy de vous loüer, MONSIEUR, il suffit d’estre veritable sans estre eloquent, &amp; j’ay tousjours crû qu’on ne pouvoit estre riche de <ref target="#gloire">gloire*</ref> qu’en participant à celle que vous acquerez avec des <ref target="#soin">soins*</ref> si legitimes. Mais ce qu’on admire davantage ; c’est que vostre grandeur a treuvé des protecteurs sans avoir fait des jaloux, vous avez fait admirer en vous ce qu’on méprise dans les autres ; &amp; la premiere cause des revolutions du monde, &amp; de la decadence des Estats ; cette vieille querelle de la <ref target="#fortune1">Fortune</ref> &amp; de l’Envie, qui a duré plus de cinq mil &amp; tant d’années, sera morte tant que vous vivrez. Si je pensois entierement connestre cette vertu* secrette, &amp; si je la voulois considerer*, je ferois comme les yeux qui pensent tout voir &amp; ne se voyent pas eux mesmes. C’est pourquoy, MONSIEUR, puis qu’on est quelques-fois refusé avec honte, quand on demande avec crainte ; je vous demanderay hardiment la protection de cét ouvrage sans m’<ref target="#arreter2">arrester*</ref> plus long temps sur ce sujet ; &amp; si je ne décris pas ce que vous estes, c’est que je me tiens à mon premier dessein, &amp; que mon impatience me fait haster de vous protester solennellement que je suis,</p>
         <p>MONSIEUR,</p>
@@ -10,9 +60,11 @@
         <p rend="right">CHEVREAU.</p>
       </div>
       <div n="2" xml:id="avertissement" type="set">
+        <head>ADVERTISSEMENT au Lecteur.</head>
         <p>J’ay changé dans ce sujet une chose assez connüe pour la mort de Coriolan, qui ariva chez les Volsques ; mais il faut considerer* qu’il estoit impossible de mettre la Tragedie dans la severité des regles, &amp; dans celle qu’on tient aujourd’huy si necessaire, qui est l’unité du lieu, si je ne l’eusse fait mourir prés de Rome. Ce changement ne doit point tellement alterer l’esprit qu’on doive m’acuser d’avoir violé quelque notable incident de l’histoire, puisque Coriolan ne mourut pas autrement chez les Volsques que je le fais mourir chez les Romains. C’est un lieu que je mets pour un autre afin de n’embarrasser point la mémoire, &amp; de ne pas faire treuver une Scene à Rome, &amp; l’autre chez les Antiates. Pour le reste j’ay tellement suivy Plutarque &amp; ceux qui ont parlé de Coriolan, que je ne m’en suis jamais éloigné. Voilà ce que j’avois à vous dire de peur que vous me prissiez pour autre que pour Historien, &amp; que vous me soupçonnassiez d’avoir fait par ignorance, ce que je n’ay fait que par une <ref target="#subtil">subtilité*</ref> necessaire.</p>
       </div>
       <div n="3" xml:id="privilege" type="set">
+        <head>Extraict du Privilege du Roy.</head>
         <p>Par Grace &amp; Privilege du Roy, il est permis à <hi rend="sc">Augustin Courbé’</hi>, Marchand Libraire à Paris, d’imprimer, vendre &amp; distribuer un Livre intitulé, <hi rend="i">Coriolan, Tragedie, composée par Monsieur Chevreau</hi>. Faisant tres- expresses inhibitions &amp; deffenses à tous Libraires &amp; Imprimeurs, ou autres de nos subjets, de quelque qualité &amp; condition qu’ils soient, d’imprimer ou faire imprimer ledit Livre, le vendre, faire vendre, ny debiter par nostre Royaume durant le temps &amp; espace de sept ans, à conter du jour qu’il sera achevé d’imprimer, si ce n’est de ceux dudit exposant, à peine de quinze cens livres d’amende, confiscation des exemplaires, &amp; de tous despens dommages &amp; <ref target="#interest1">interests*</ref> : Comme il appert plus au long par les Lettres de Privilege. Donné à Paris le quatriesme jour de Juin, l’an de grace mil six cens trente-huict. Et de notre Regne le vingt – huictiesme : Par le Roy en son Conseil, Signé, <hi rend="sc">Conrard</hi>. Et scellé du grand sceau de cire jaune.</p>
         <p rend="center">
           <hi rend="i">Achevé d’imprimer le douziesme jour de Juin <lb/>mil six cens trente-huict.</hi>
@@ -20,9 +72,14 @@
         <p>Les Exemplaires ont esté fournis ainsi qu’il est plus amplement</p>
         <p>porté par lesdites Lettres de Privilege.</p>
       </div>
-      <div n="4" xml:id="acteurs" type="set"/>
+      <div n="4" xml:id="acteurs" type="set">
+        <head>LES ACTEURS.</head>
+      </div>
       <div xml:id="acte1" type="act">
+        <head>CORIOLAN. <lb/> TRAGEDIE.</head>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="acte101">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="acte101-1" who="senateur">
             <l n="1" xml:id="l1">Nous nous sommes punis en le voulant punir,</l>
             <l n="2" xml:id="l2">Nous fismes nostre perte en le pensant bannir ;</l>
@@ -102,6 +159,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte102">
+          <head>SCENE DEUXIESME.</head>
           <pb n="5"/>
           <sp xml:id="acte102-1" who="coriolan">
             <l n="71" xml:id="l71">Vous voyez aujourd’huy que son inquietude</l>
@@ -184,6 +242,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte103">
+          <head>SCENE TROISIESME.</head>
           <pb n="B, 9"/>
           <sp xml:id="acte103-1" who="sicinie">
             <l n="139" xml:id="l139">Dans les <ref target="#ressentiment1">ressentimens*</ref> d’une peine infinie,</l>
@@ -311,6 +370,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte104">
+          <head>SCENE QUATRIESME</head>
           <pb n="15"/>
           <sp xml:id="acte104-1" who="aufidie">
             <l n="247" xml:id="l247" part="I">Que vouloit ce Romain ?</l>
@@ -377,7 +437,9 @@
       </div>
       <div xml:id="acte2" type="act">
         <pb n="18"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="acte201">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="acte201-1" who="senateur">
             <l n="295" xml:id="l295">Sicinie est-il vray ? seroit-il bien croyable</l>
             <l n="296" xml:id="l296">Que l’ingrat à nos maux parust <ref target="#impitoyable">impitoyable*</ref> ?</l>
@@ -524,6 +586,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte202">
+          <head>SCENE DEUXIESME.</head>
           <pb n="D, 25"/>
           <sp xml:id="acte202-1" who="verginie">
             <l n="423" xml:id="l423">Allons, Madame, allons, &amp; que ce nom de mere</l>
@@ -630,6 +693,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte203">
+          <head>SCENE TROISIESME.</head>
           <pb n="30"/>
           <sp xml:id="acte203-1" who="sancine">
             <l n="519" xml:id="l519">Vostre <ref target="#gloire">gloire*</ref> sur tout <ref target="#troubler1">trouble*</ref> sa <ref target="#fantaisie">fantaisie*</ref>,</l>
@@ -674,6 +738,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte204">
+          <head>SCENE QUATRIESME.</head>
           <pb n="E, 33"/>
           <sp xml:id="acte204-1" who="aufidie">
             <l n="551" xml:id="l551">A quoy reservons nous la force de nos armes,</l>
@@ -723,7 +788,9 @@
       </div>
       <div xml:id="acte3" type="act">
         <pb n="36"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="acte301">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="acte301-1" who="coriolan">
             <l n="585" xml:id="l585">Madame en cét estat je ne puis vous parler.</l>
           </sp>
@@ -922,6 +989,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte302">
+          <head>SCENE DEUXIESME.</head>
           <pb n="45"/>
           <sp xml:id="acte302-1" who="aufidie">
             <l n="751" xml:id="l751">Sancine j’ay bien peur qu’en fin tant de paroles</l>
@@ -979,6 +1047,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte303">
+          <head>SCENE TROISIESME.</head>
           <pb n="48"/>
           <sp xml:id="acte303-1" who="coriolan">
             <lg>
@@ -1070,6 +1139,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte304">
+          <head>SCENE QUATRIESME.</head>
           <sp xml:id="acte304-1" who="coriolan">
             <l n="870" xml:id="l870">S’il se peut cher amy, soulage mon martire</l>
             <l n="871" xml:id="l871">Et tasche à consoler mon esprit abatu</l>
@@ -1104,7 +1174,9 @@
       </div>
       <div xml:id="acte4" type="act">
         <pb n="54"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="acte401">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="acte401-1" who="aufidie">
             <l n="893" xml:id="l893">C’est ainsi qu’il faut prendre un si bel avantage,</l>
             <l n="894" xml:id="l894">Pour nous faire loüer vostre noble courage.</l>
@@ -1155,6 +1227,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte402">
+          <head>SCENE DEUXIESME.</head>
           <pb n="H, 57"/>
           <sp xml:id="acte402-1" who="aufidie">
             <l n="933" xml:id="l933">Sancine tout va bien, je voy l’afaire preste.</l>
@@ -1210,6 +1283,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte403">
+          <head>SCENE TROISIESME.</head>
           <pb n="60"/>
           <sp xml:id="acte403-1" who="coriolan">
             <l n="979" xml:id="l979">J’y résve bien encore, &amp; je ne puis treuver</l>
@@ -1381,6 +1455,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte404">
+          <head>SCENE QUATRIESME.</head>
           <pb n="68"/>
           <sp xml:id="acte404-1" who="aufidie">
             <l n="1129" xml:id="l1129">J’ay bien peur qu’à la fin la <ref target="#pitie">pitié*</ref> ne le tente,</l>
@@ -1413,6 +1488,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte405">
+          <head>SCENE CINQUIESME.</head>
           <pb n="70"/>
           <sp xml:id="acte405-1" who="coriolan">
             <l n="1149" xml:id="l1149">Elles rentrent dans Rome, &amp; sans aucune envie</l>
@@ -1437,6 +1513,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte406">
+          <head>SCENE SIXIESME.</head>
           <pb n="72"/>
           <sp xml:id="acte406-1" who="coriolan">
             <l n="1165" xml:id="l1165">Il n’a pas bien compris ce que je viens de dire,</l>
@@ -1465,6 +1542,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte407">
+          <head>SCENE SEPTIESME.</head>
           <pb n="74"/>
           <sp xml:id="acte407-1" who="verginie">
             <l n="1179" xml:id="l1179">Ouy, je vous en asseure, il pardonne aux Romains,</l>
@@ -1492,7 +1570,9 @@
       </div>
       <div xml:id="acte5" type="act">
         <pb n="76"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="acte501">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="acte501-1" who="aufidie">
             <l n="1197" xml:id="l1197">Quoy ! le siege est levé ? voulez vous qu’Aufidie</l>
             <l n="1198" xml:id="l1198">Trempe si lâchement dans cette perfidie ?</l>
@@ -1587,6 +1667,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte502">
+          <head>SCENE DEUXIESME.</head>
           <pb n="L, 81"/>
           <sp xml:id="acte502-1" who="verginie">
             <l n="1267" xml:id="l1267">Apres tous ces honneurs il faut le visiter,</l>
@@ -1652,6 +1733,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte503">
+          <head>SCENE TROISIESME.</head>
           <pb n="84"/>
           <sp xml:id="acte503-1" who="aufidie">
             <l n="1315" xml:id="l1315">Observez mes amis le tout de point en point,</l>
@@ -1729,6 +1811,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte504">
+          <head>SCENE QUATRIESME.</head>
           <pb n="88"/>
           <sp xml:id="acte504-1" who="coriolan">
             <l n="1375" xml:id="l1375">Fais ce que je te dis si tu veux m’<ref target="#obliger3">obliger*</ref>,</l>
@@ -1788,6 +1871,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte505">
+          <head>SCENE CINQUIESME.</head>
           <pb n="91"/>
           <sp xml:id="acte505-1" who="coriolan">
             <l n="1423" xml:id="l1423">Il est vray que j’ay tort, &amp; je dois l’advouër,</l>
@@ -1807,6 +1891,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte506">
+          <head>SCENE SIXIESME.</head>
           <pb n="92"/>
           <sp xml:id="acte506-1" who="lieutenant-volsque">
             <l n="1437" xml:id="l1437">Il est tout à propos, nostre <ref target="#entreprise">entreprise*</ref> est belle</l>
@@ -1835,6 +1920,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte507">
+          <head>SCENE SEPTIESME.</head>
           <sp xml:id="acte507-1" who="verginie">
             <l n="1455" xml:id="l1455">Camille attens moy là, je reviens prontement,</l>
             <l n="1456" xml:id="l1456">Afin de luy parler je ne veux qu’un moment ;</l>
@@ -1848,6 +1934,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="acte508">
+          <head>SCENE DERNIERE.</head>
           <sp xml:id="acte508-1" who="verginie">
             <l n="1461" xml:id="l1461">L’amour, Coriolan, me force de te suivre,</l>
             <l n="1462" xml:id="l1462">Puisque le Ciel sans toy ne me peut faire vivre.</l>

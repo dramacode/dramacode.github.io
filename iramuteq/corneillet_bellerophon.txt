@@ -1,0 +1,1339 @@
+
+
+**** *book_ *id_argument *date_1679 *creator_corneille 
+
+Argument
+
+Le Roy ayant donné la Paix à l'Europe, l'Académie Royale de Musique a creu devoir marquer la part qu'elle prend à la joye publique par un Spectacle, où elle pust faire entrer les témoignages de son zele pour la gloire de cet Auguste Monarque.
+Elle s'y est creuë d'autant plus obligée que la protection qu'il donne aux beaux Arts les a toûjours fait joüir, pendant le cours méme de la Guerre, de l'heureuse tranquillité qui leur est si nécessaire.
+C'est ce qui a donné occasion à cette Tragedie en Musique.
+Le Theatre represente d'abord le Parnasse François.
+Apollon y vient avec les Muses celebrer le retour d'une paix si glorieuse à la France.
+Pan & Bacchus y arrivent en méme temps, & signalent leur joye par des Danses & par des Chants d'allegresse.
+Mais Apollon pour mieux divertir le plus Grand Prince de la Terre, imagine sur le champ un Spectacle, où luy-méme avec les Muses veut représenter l'Histoire de Bellerophon.
+Chacun sçait que ce Heros combatit autrefois la Chimere⁎, monté sur Pegase⁎, & que ce fut d'un coup de / pied de ce Cheval que nâquit ensuite la fameuse Fontaine qui inspire les Vers, & qui a fait naître la Poësie.
+On ne sçait pas trop bien qui estoit le Pere de Bellerophon.
+Les uns tiennent que c'estoit Glaucus, les autres le font Fils de Neptune ; & c'est sur cette diversité d'opinions qu'on a formé l'intrigue de cette Piece, & l'Oracle qui en fut le nœud.
+Amisodar est un Personnage Episodique, fondé sur ce que quelques Mythologistes raportent sur cette Fable, qu'il y a eu une Femme nommée Chimere⁎, qui épousa un Roy de Lycie⁎, appellé Amisodar.
+
+**** *book_ *id_A *date_1679 *creator_corneille 
+
+Prologue
+
+-*who_apollon
+Muses, preparons nos Concerts.
+Le plus grand Roy de l'Univers
+Vient d'asseurer le repos de la Terre ;
+Sur cet heureux Vallon il répand ses bien-faits.
+Apres avoir chanté les fureurs⁎ de la Guerre,
+Chantons les douceurs de la Paix.
+
+-*who_muses
+Apres avoir chanté les fureurs de la Guerre,
+Chantons les douceurs de la Paix.
+
+-*who_apollon
+Par cet Auguste Roy la discorde est bannie.
+Pour tous les Dieux sa gloire a tant d'appas⁎,
+Que Pan luy mesme oubliant nos debats
+Vient icy de nos Chants augmenter l'harmonie.
+Bacchus⁎ ainsi que luy vient se joindre avec nous,
+Pour rendre nos accords plus charmants & plus doux.
+
+-*who_bacchus
+Du fameux bord de l'Inde, où toûjours la Victoire
+Rangea les Peuples sous ma Loy,
+Je viens prendre part à la gloire⁎
+D'un Vainqueur aussi grand que moy.
+
+-*who_pan
+J'ay quitté les Forests où je tiens mon Empire
+Pour venir comme vous admirer ce Heros⁎.
+Nos Plaines & nos Bois luy doivent leur repos,
+C'est par luy seul qu'en nos Champs on respire.
+
+-*who_tous
+Chantons le plus grand des Mortels,
+Chantons un Roy digne de nos Autels.
+
+-*who_apollon_muses
+Par luy tous nos champs refleurissent.
+
+-*who_bacchus_pan 
+Les tranquilles plaisirs par luy sont de retour.
+
+-*who_apollon_muses
+De son nom seul les Echos retentissent.
+
+-*who_bacchus_pan
+Si l'on soûpire encor, ce n'est plus que d'amour.
+
+-*who_apollon_muses
+Tout rit dans nos douces retraites.
+
+-*who_bacchus_pan
+Rien ne vient plus troubler le son de nos Musetes.
+
+-*who_tous
+Chantons le plus grand des Mortels,
+Chantons un Roy digne des Autels.
+
+-*who_berger
+Pourquoy n'avoir pas le cœur tendre ?
+Rien n'est si doux que d'aimer.
+Peut-on aisément s'en défendre ?
+Non, non, non, l'Amour doit tout charmer.
+Que sert la fierté dans les Belles ?
+Tout aime enfin à son tour.
+Voit-on des rigueurs eternelles ?
+Non, non, non, rien n'échappe à l'Amour.
+
+-*who_pan
+Tout est paisible sur la Terre,
+Voicy l'heureux temps des Amours.
+
+-*who_bacchus
+Ils n'ont plus à craindre la Guerre,
+Qui des Amants troubloit les plus beaux jours.
+
+-*who_pan
+Aimez, Bergers, aimez, Bergeres,
+Suivez vos plus tendres desirs.
+
+-*who_bacchus
+Si l'Amour a des maux, il a mille plaisirs
+Qui rendent ses peines legeres.
+
+-*who_bacchus_pan
+Si l'Amour a des maux, il a mille plaisirs
+Qui rendent ses peines legeres.
+
+-*who_apollon 
+Quittez de si vaines Chansons.
+Il faut par de plus nobles sons
+Honorer en ce jour le Heros⁎ de la France.
+Transformons-nous en ce moment,
+Et dans un Spectacle charmant
+Celebrons à ses yeux l'heureux Evenement,
+Qui jadis au Parnasse⁎ a donné la naissance.
+Allons, pour ce grand Roy redoublez vos efforts⁎,
+Preparez vos plus doux accords.
+
+-*who_tous
+Pour ce Grand Roy redoublons nos efforts,
+Preparons nos plus doux accords.
+FIN DU PROLOGUE
+
+**** *book_ *id_acte101 *act_acte1 *date_1679 *creator_corneille
+
+-*who_stenobee
+Non, les soûlevements d'une Ville rebelle
+Ne m'ont point fait quitter Argos.
+C'est l'Amour seul fatal à mon repos,
+C'est le cruel Amour qui dans ces lieux m'appelle.
+Pretus n'est plus, & desormais sa mort
+Me rend maistresse de mon sort ;
+Je puis donner un Diadème,
+Et viens en cette Cour faire un dernier effort⁎
+Sur le cœur d'un Ingrat⁎ que j'aime.
+
+-*who_argie
+Quoy, de Bellerophon l'outrageante froideur
+Ne peut de cet amour dégager vostre cœur ?
+
+-*who_stenobee
+Malgré tous mes mal-heurs je serois trop heureuse,
+Si les mépris pouvoient guerir l'amour.
+Ma fierté dés long-temps par un juste retour⁎,
+M'auroit fait triompher de la flâme⁎ amoureuse ;
+Mais helas ! ma tendresse⁎ augmente chaque jour.
+Malgré tous mes mal-heurs je serois trop heureuse,
+Si les mépris pouvoient guerir l'amour.
+
+-*who_argie
+Contre Bellerophon vostre aveugle colere
+Aux plus sanglants effets⁎ devoit s'authoriser ;
+L'amour vous le fait voir toûjours digne de plaire,
+C'est assez pour vous apaiser.
+
+-*who_stenobee
+Helas ! à quel excez je portay ma vangeance !
+Je l'accusay malgré son innocence
+De vouloir m'inspirer une coupable ardeur⁎.
+Ce fut pour luy ravir & l'honneur & la vie,
+Que Pretus l'envoya chez le Roy de Lycie⁎.
+Et quels troubles alors ne sentit point mon cœur !
+En vain, quand l'amour est extrême,
+On veut prendre un Ingrat qui nous ose outrager.
+On prend dans ses mal-heurs plus de part que luy-mesme.
+Helas ! quand il se faut vanger de ce qu'on aime,
+Qu'il en coûte pour se vanger !
+
+-*who_argie
+Ne redoutez plus rien ; ce Heros⁎ invincible
+Aux plus affreux perils tant de fois exposé,
+A sa valeur⁎ a trouvé tout possible.
+Quel triomphe⁎ pour vous s'il vous estoit aisé
+De rendre enfin son cœur sensible⁎ !
+
+-*who_stenobee
+Du moins Bellerophon n'a jamais rien aimé,
+C'est à la gloire⁎ qu'il se donne,
+Et son cœur peut estre charmé⁎
+Par les offres de ma Couronne.
+Espoir, qui seduisez les Amans mal-heureux,
+Pourquoy suspendre ma vangeance ?
+Je sçais, je sçais combien vous estes dangereux,
+Je sçais que vous allez entretenir mes feux⁎,
+Et redoubler leur violence ;
+Cependant vous rentrez dans mon cœur amoureux,
+Et je sens qu'avec vous il est d'intelligence.
+Espoir, qui séduisez les Amans mal-heureux,
+Pourquoy suspendre ma vangeance ?
+
+**** *book_ *id_acte102 *act_acte1 *date_1679 *creator_corneille 
+
+-*who_philonoe
+Reyne, vous sçavez qu'en ce jour
+Je reçois un Espoux de la main de mon Pere.
+J'attends le choix qu'il doit faire
+Entre tous ces Amants qui remplissent sa Cour.
+Obtenez qu'il n'en délibere
+Que de concert avec l'amour.
+Qu'il est doux de trouver dans un Amant qu'on aime
+Un Espoux que l'on doit aimer !
+Lorsque le cœur a choisi de luy-mesme
+Le seul Objet qui pouvait l'enflamer,
+Qu'il est doux de trouver dans un Amant qu'on aime
+Un Espoux que l'on doit aimer.
+
+-*who_stenobee
+Quoy, Princesse, à l'amour vous auriez pû vous rendre ?
+
+-*who_philonoe
+En vain j'ay voulu m'en défendre.
+
+-*who_stenobee
+Et qui donc aimez-vous ?
+
+-*who_philonoe 
+Un Heros⁎ que les Dieux
+Ont fait des Conquerans l'exemple glorieux.
+Estimé dans la paix, redouté dans la guerre,
+Il est, & la terreur & l'amour de la Terre.
+Si pour chercher à vaincre il court dans les hazards,
+A ses premiers efforts⁎ ses Ennemis se rendent,
+Et s'il aime, il n'est point de cœur qui se défend
+De ses premiers regards.
+
+-*who_stenobee
+Ah ! C'est Bellerophon.
+
+-*who_philonoe
+      C'est luy, je le confesse,
+Ne condamnez point ma tendresse⁎.
+Quand mille exploits fameux parlent pour un Amant,
+Peut-on résister un moment ?
+Après avoir vaincu deux Nations guerrieres,
+Bellerophon améne en ces lieux fortunez,
+Les Amazones prisonnieres,
+Et les Solymes enchaînez ;
+Il possède mon cœur, je puis tout sur son ame.
+Reyne, favorisez une si belle flâme⁎.
+
+**** *book_ *id_acte103 *act_acte1 *date_1679 *creator_corneille 
+
+-*who_stenobee
+Et je croyois qu'aucune ardeur⁎
+N'eût jamais enflamé son cœur ?
+
+-*who_argie
+Un cœur qui paroist invincible
+Peut estre un temps sans se laisser charmer ;
+Mais on a beau se défendre d'aimer,
+Le moment vient d'estre sensible⁎.
+
+-*who_stenobee
+C'en est fait, l'outrage est trop grand.
+Si ses cruels refus faisoient tort à ma gloire,
+Au moins il m'estoit doux de croire
+Que mon cœur soûpiroit pour un Indifferent⁎.
+Mais il aime, & c'est là ce qui me desespere.
+Une autre a fait ce que je n'ay pû faire.
+Venez, haine, vangeance, & versez dans mon cœur
+Votre poison le plus funeste.
+Vous ne sçauriez m'inspirer trop d'horreur
+Pour un Ingrat⁎ que je deteste.
+Suivons, suivons ce désespoir.
+Il faut pour vanger mon outrage
+Qu'Amisodar serve ma rage;
+Son Art dans les Enfers luy donne tout pouvoir.
+Il en peut évoquer quelque Monstre effroyable
+Qui porte le ravage & la flâme en ces lieux,
+Il m'aime, & si sur luy je veux jeter les yeux…
+
+-*who_argie
+Le Roy vient, contraignez l'ennuy⁎ qui vous accable.
+
+**** *book_ *id_acte104 *act_acte1 *date_1679 *creator_corneille
+
+-*who_iobate
+Contre Bellerophon, j'ay fait jusqu'à ce jour
+Ce que Pretus pouvoit attendre
+De l'aveugle zele⁎ d'un Gendre.
+Vous vouliez comme luy qu'il perît dans ma Cour.
+D'abord, sans connoistre son crime,
+J'abandonnay sa teste aux rigueurs de son sort.
+Pretus croyoit sa perte legitime,
+C'estoit assez pour résoudre sa mort.
+Mais enfin il est temps de vous ouvrir mon ame.
+Apres qu'il s'est rendu l'appuy de mes Estats,
+Je dois me conserver son bras.
+Ma Fille est l'objet de sa flâme,
+Aujourd'huy de ma main elle attend un Espoux,
+C'est luy que je choisis.
+
+-*who_stenobee
+      Ciel, que me dites-vous ?
+Choisir Bellerophon ! & qui l'auroit pû croire ?
+
+-*who_iobate
+Ses Exploits l'ont rendu digne de cette gloire.
+
+-*who_stenobee
+Songez-vous que Pretus vous demanda sa mort ?
+
+-*who_iobate
+Les Dieux ne m'ont point fait arbitre de son sort.
+
+-*who_stenobee
+Quoy, vous soûtenez un Coupable ?
+
+-*who_iobate
+Quoy, vôtre haine est implacable ?
+
+-*who_iobate_stenobee
+Ah, cessez de vous obstiner.
+
+-*who_iobate
+Malgré vôtre jalouse envie,
+
+-*who_stenobee
+Malgré vos soins pour luy sauver la vie,
+
+-*who_iobate_stenobee
+Il merite le prix que je luy veux donner. la mort
+
+-*who_stenobee
+A ce bruit éclatant je connois⁎ qu'il s'avance.
+Je ne vous dis plus rien, mais vous devez songer
+Que si vous negligez le soin de ma vangeance,
+Je suis Reyne, & puis me vanger.
+
+**** *book_ *id_acte105 *act_acte1 *date_1679 *creator_corneille
+
+-*who_iobate
+Venez, venez, goûter les doux fruits de la gloire,
+Qui dans tout l'Univers vous fait tant de jaloux.
+
+-*who_bellerophon
+Seigneur, quand on combat pour vous
+N'est-on pas seur de la victoire ? 
+
+-*who_iobate
+Apres avoir rangé deux Peuples sous mes Loix,
+Prince, vôtre rare vaillance
+Demeureroit sans recompense
+Si ma Fille n'estoit le prix de vos exploits.
+Vous l'aimez, elle vous aime,
+Soyez heureux, j'y consens.
+
+-*who_bellerophon
+Ah Seigneur ! puis je encor me connoistre⁎ moy-mesme ?
+
+-*who_iobate
+La valeur⁎ obtient tout des cœurs reconnaissans.
+Un Heros⁎ que la gloire éleve
+N'est qu'à demy récompensé,
+Et c'est peu si l'amour n'acheve
+Ce que la Gloire a commencé.
+
+-*who_bellerophon
+Surpris de tant d'honneurs je ne puis que me taire.
+Quel service assez grand pouvoit les meriter ?
+J'eusse esté trop temeraire
+Si j'eusse osé me flatter,
+Moy qu'un Frere a chassé d'Ephyre,
+Où mon Pere Glaucus avait donné la Loy.
+
+-*who_iobate
+Estre l'appuiy de mon Empire,
+C'est meriter assez d'y regner apres moy.
+Qu'aucun ne garde icy des sujets de tristesse.
+A vos Captifs je rends la liberté.
+
+-*who_bellerophon
+Faites tous voir vôtre allegresse
+En sortant de captivité.
+
+-*who_amazones
+Quand un Vainqueur est tout brillant de gloire,
+Qu'il est doux de porter ses fers⁎ !
+
+-*who_solymes
+Celuy qui nous soûmit commande à la Victoire,
+Il soûmettra tout l'Univers.
+
+-*who_amazones_solymes
+Disons cent fois ce qu'on ne peut trop dire,
+Heureux qui vît sous son empire !
+
+-*who_amazones_solymes
+Faisons cesser nos alarmes⁎,
+Goûtons les biens que rend la liberté.
+Celuy dont chacun craint les armes
+A fait finir notre captivité.
+Un sort si plein de charmes
+Met nôtre gloire enfin en seureté.
+Rompons le cours de nos larmes,
+Nos déplasirs ont assez éclaté.
+Celuy dont chacun craint les armes
+A fait finir notre captivité.
+Un sort si plein de charmes
+Met nôtre gloire enfin en seureté.
+FIN DU PREMIER ACTE.
+
+**** *book_ *id_acte201 *act_acte2 *date_1679 *creator_corneille
+
+-*who_philonoe
+Amour, mes vœux sont satisfaits,
+Il m'est doux de porter tes chaînes⁎,
+Et j'oublie aujourd'huy les peines
+Qui de mon cœur avoient troublé la paix.
+Cruelles inquietudes,
+Soûpirs languissans,
+Si j'ay souffert vos tourments les plus rudes,
+Je n'ay pas trop payé les douceurs que je sens.
+
+-*who_amazone1 
+Les douceurs que l'amour fait trouver dans ses chaînes,
+Aux plus heureux Amans ont coûté des soûpirs.
+
+-*who_amazone2
+Les plaisirs qui n'ont point commencé par les peines,
+Ne font jamais de vrais plaisirs.
+
+-*who_philonoe
+Chantez, chantez la valeur⁎ éclatante
+Du plus grand des Heros⁎ ;
+Si la Lycie⁎ est triomphante,
+C'est à luy qu'elle doit sa gloire & son repos.
+
+-*who_amazone1
+Que de Lauriers sur une seule teste !
+Avec luy la Victoire a peine à respirer.
+
+-*who_amazone2
+De l'Univers entier il eut fait la conqueste,
+Si son grand cœur n'eût sçeu se moderer.
+
+-*who_amazones
+Chantons, chantons la valeur éclatante
+Du plus grand des Heros⁎ ;
+Si la Lycie⁎ est triomphante,
+C'est à luy qu'elle doit sa gloire & son repos.
+
+**** *book_ *id_acte202 *act_acte2 *date_1679 *creator_corneille
+
+-*who_bellerophon
+Princesse, tout conspire à couronner ma flâme⁎,
+Tout s'apreste pour mon bon-heur.
+Sentez-vous les plaisirs qui regnent dans mon ame,
+Et les mesmes transports⁎ charment-ils vôtre cœur ?
+
+-*who_philonoe
+L'amour qui unit par de si douces chaînes⁎
+A dés long-temps uny tous nos desirs ;
+A vos soûpirs cent fois j'ay meslé mes soûpirs,
+Et si j'ay partagé vos peines,
+Je dois partager vos plaisirs.
+
+-*who_bellerophon
+Qu'un si doux aveu doit me plaire !
+Qu'il rend mon destin glorieux !
+
+-*who_philonoe
+Quand ma bouche pourroit se taire,
+L'amour feroit parler mes yeux.
+
+-*who_philonoe_bellerophon
+Que tout parle à l'envy⁎ de nôtre amour extrême,
+A ses transports⁎ abandonnons nos cœurs,
+Et pour goûter toujours de nouvelles douceurs,
+Disons-nous cent fois : je vous aime.
+
+-*who_philonoe
+Prince, Adieu ; mon devoir m'appelle auprés du Roy,
+Je vous laisse le soin d'entretenir la Reyne.
+
+-*who_bellerophon
+Quel cruel supplice pour moy !
+
+**** *book_ *id_acte203 *act_acte2 *date_1679 *creator_corneille
+
+-*who_stenobee
+Ma présence icy te fait peine.
+
+-*who_bellerophon
+Il est vrai, je frêmis lors que je vous revoy.
+Quel destin ennemy vous améne en Lycie⁎ ?
+Y venez vous chercher à troubler mon repos ?
+Vous m'avez fait bannir d'Argos,
+Ne verray-je jamais vôtre haine adoucie ?
+
+-*who_stenobee
+S'il te souvient des maux que je t'ay faits,
+Qu'il te souvienne aussi de ma tendresse⁎ extrême ;
+Ne me reproche point, ingrat, que je te hais,
+Ou reproche moy que je t'ayme.
+J'ay tasché de te perdre⁎, & j'ai crû le vouloir.
+J'ay suivy les transports⁎ d'une aveugle vangeance,
+Mais plus à mon amour j'ay fait de violence,
+Plus sur mon cœur il a pris de pouvoir,
+Et je ne t'ay jamais haï qu'en apparence.
+
+-*who_bellerophon
+Vous m'avez sans relâche accablé de mal-heurs,
+Je n'ay point reconnû l'amour dans vos fureurs⁎.
+Si l'amour quelque fois s'abandonne à la rage,
+Il est toûjours amour mesme quand il outrage.
+Mais vous, toûjours constante à me persecuter,
+Vous n'avez espargné ma gloire⁎ ny ma vie,
+Et je ne dois rien écouter
+De ma plus mortelle Ennemie.
+
+**** *book_ *id_acte204 *act_acte2 *date_1679 *creator_corneille 
+
+-*who_stenobee
+Tu me quittes, cruel⁎ ! arreste. Il fuit, helas !
+Mon amour voit sa honte, & n'en profite pas.
+Vous ne sçauriez guerir le mal qui me tourmente,
+Foibles retours⁎ de l'impuissant dépit ;
+Des mespris d'un Ingrat⁎ ma flâme⁎ se nourrit,
+Elle devroit s'éteindre, & devient plus ardente.
+L'amour trop heureux s'affoiblit,
+Mais l'amour mal-heureux s'augmente.
+
+-*who_argie
+Quoy, vous pourrez toûjours souffrir
+Qu'on vous brave, qu'on vous dédaigne ?
+
+-*who_stenobee
+Non, il faut dans son sang que mon amour s'éteigne.
+Perdons⁎ tout , faisons tout perir.
+
+**** *book_ *id_acte205 *act_acte2 *date_1679 *creator_corneille 
+
+-*who_stenobee
+Vous me jurez sans cesse une amour eternelle.
+Croiray-je, Amisodar, croiray-je vos serments ?
+Me serez vous assez fidelle
+Pour ne refuser rien à mes ressentiments ?
+
+-*who_amisodar
+Lorsque l'amour vous asservit mon ame,
+Votre insensible cœur devroit se contenter
+De ne pas respondre à ma flâme⁎ ;
+Pourquoy me faire encor outrage d'en douter ?
+Vos froideurs, vôtre indifference,
+Me touchent moins que cette offense,
+Je meurs pour vos divins appas⁎,
+Et viens vous demander pour toute recompense
+Que vous n'en doutiez pas.
+
+-*who_stenobee
+Bellerophon m'a fait une mortelle injure,
+Le Roy la connoist & l'endure,
+Il le choisit pour Gendre au lieu de le punir.
+Troublons l'Hymen⁎ qui se prepare
+Par une vangeance barbare⁎
+Dont le seul souvenir
+Fasse trembler tout l'avenir.
+
+-*who_amisodar
+Je puis de la nuit infernale,
+Faire sortir un Monstre furieux :
+Mais vous mesme tremblez d'exercer en ces lieux
+Une vangeance si fatale.
+Preparez-vous à voir nos Peuples allarmez,
+Et nos Villes tremblantes.
+Le Monstre couvrira de torrents enflamez
+Nos campagnes fumantes
+Et nos champs ne seront semez
+Que de restes affreux de Victimes sanglantes.
+
+-*who_stenobee
+Que ce Spectacle sera doux
+A la fureur⁎ qui me transporte !
+Hastez-vous, hastez-vous
+De servir mon couroux,
+Faites ouvrir la terre, & que le Monstre en sorte,
+Hastez-vous, hastez-vous
+De servir mon couroux.
+
+-*who_amisodar
+Jusqu'au fond des Enfers je vay me faire entendre,
+Fuyez, Reyne, fuyez ;
+Vos yeux seroient trop effrayez
+De l'horreur qu'en ces lieux mes Charmes⁎ vont répandre.
+
+**** *book_ *id_acte206 *act_acte2 *date_1679 *creator_corneille 
+
+-*who_amisodar
+Que ce jardin se change en Desert affreux.
+Noirs Habitans du séjour tenebreux,
+Pour m'écouter dans vos Demeures sombres,
+Redoublez, s'il se peut, le silence des Ombres.
+Et vous, à me servir employez tant de fois,
+Ministres de mon Art, accourez à ma voix.
+
+**** *book_ *id_acte207 *act_acte2 *date_1679 *creator_corneille 
+
+-*who_magiciens
+Parle, nous voilà prests, tout nous sera possible.
+
+-*who_amisodar
+Faisons sortir un Monstre horrible.
+Pour l'évoquer employez l'Acheron,
+Le Cocyte, le Phlegeton ;
+Faites que vostre voix dans tout l'Enfer résonne.
+C'est moy qui vous l'ordonne.
+
+-*who_magiciens
+Par ce pressant commandement,
+Promptement, promptement.,
+Que la Tenare s'ouvre,
+Que l'Enfer se découvre ;
+Cocyte, Phlegeton, il nous faut du secours,
+Pour nous entendre arrestez vôtre cours.
+
+-*who_amisodar
+Poursuivez. Que pour moy vôtre pouvoir éclate ;
+Par Cerbere & la triple Hecate ;
+Parlez, pressez, appellez à grand bruit,
+Et la Mort & la Nuit.
+
+-*who_magiciens
+Nuit, Mort, Cerbere, Hecate, Erebe, Averne,
+Noires Filles du Stix que la fureur⁎ gouverne,
+Entendez nos cris, servez-vous,
+Nous travaillons pour vous.
+
+-*who_amisodar
+Le Charme est fait, les Monstres vont paroistre,
+La Terre s'ouvre, & me fait connoistre.
+Rendons aux sombres Deïtez
+Les honneurs que de nous elles ont méritez.
+
+-*who_magiciens 
+La Terre nous ouvre
+Ses Gouffres profonds,
+L'Enfer se découvre.
+Chantons, triomphons,
+On voit l'Onde noire
+Pour nous s'arrester.
+Victoire, victoire, victoire,
+Nous avons la gloire
+De tout surmonter.
+Triomphe, Victoire,
+Triomphe, Victoire,
+Nous avons la gloire
+De tout surmonter.
+Non, non, rien ne peut nous resister.
+
+-*who_amisodar
+Un Monstre seul causeroit peu d'effroy,
+Il faut unir ces trois Monstres ensemble.
+Par un charme plus fort & plus digne de moy,
+Faisons qu'un seul corps les assemble,
+Pour en venir à bout descendons aux Enfers
+Les Gouffres nous en sont ouverts.
+Tout s'abysme, & la Terre se referme.
+FIN DU SECOND ACTE.
+
+**** *book_ *id_acte301 *act_acte3 *date_1679 *creator_corneille
+
+-*who_argie
+Que vous faites couler & de sang & de larmes
+Dans ces tristes climats.
+Tout tremble, tout en est en allarmes.
+On voit regner partout l'image du trespas,
+Et le Monstre animé par la force des Charmes⁎
+Marque de mille morts la trace de ses pas.
+
+-*who_stenobee 
+Lieux désolez, & remplis de carnage,
+Campagnes où le Monstre a semé tant d'horreur,
+Ne me reprochez point ma jalouse fureur⁎,
+Dont votre embrasement est le fatal ouvrage ;
+L'amour desesperé qui regne dans mon cœur
+Vous vange assez de ce ravage.
+
+-*who_argie
+Quoi, vous ne goûtez point la secrette douceur
+D'avoir troublé l'Hymen⁎ qui vous a outragé ?
+
+-*who_stenobee
+Impuissante vangeance ! inutile secours !
+Dequoy peux-tu servir quand on aime toûjours ?
+Les plus cruels transports⁎ que la fureur⁎ inspire
+Consolent mal un amour outragé.
+Ce mal-heureux amour apres s'estre vangé,
+N'en fait pas moins sentir son tyrannique empire.
+Impuissante vangeance ! inutile secours !
+Dequoy peux-tu servir quand on aime toûjours ?
+
+**** *book_ *id_acte302 *act_acte3 *date_1679 *creator_corneille 
+
+-*who_iobate
+Que de mal-heurs accablent la Lycie⁎ ?
+Si le Ciel luy gardoit de si funestes coups,
+Avant qu'il fist sur elle éclater son courroux,
+Que ne m'a-t-il osté la vie ?
+Je ne vois en tous lieux que des marques d'effroy,
+Que des Objets qui m'épouvantent,
+Et je partage comme Roy
+Les maux que mes Sujets ressentent.
+
+-*who_stenobee
+Quand vous voyez vos Peuples abbatus,
+Reconnaissez du Ciel la justice suprême.
+Vous n'avez pas vangé l'injure de Pretus,
+Il la vange luy-mesme.
+Bellerophon Victorieux
+Cause tous les mal-heurs dont votre cœur soûpire,
+C'est contre luy seul que les Dieux
+Ont envoyé le Monstre furieux
+Qui desole tout vostre Empire.
+Que sa valeur⁎ en delivre ces lieux,
+Puisque son crime vous attire.
+
+**** *book_ *id_acte303 *act_acte3 *date_1679 *creator_corneille 
+
+-*who_bellerophon
+Vous venez consulter l'Oracle d'Apollon⁎ ?
+
+-*who_iobate
+Je viens luy demander ce qu'il faut que j'espere ;
+De mes Estats c'est le Dieu tutelaire.
+Il écoute ma voix, quand j'implore son nom.
+
+-*who_bellerophon
+Ce Dieu qui cherit la Lycie⁎
+Dans ses mal-heurs voudra la secourir,
+Et l'encens qu'en ces lieux vous luy venez offrir
+Rendra du Ciel la colère adoucie.
+Mais quand le Monstre immole à sa fureur⁎
+Tout le sang qu'il trouve à répandre,
+Verray-je sans rien entreprendre
+Que par luy dans ces lieux tout soit remply d'horreur ?
+
+-*who_iobate
+Ah, Prince, songez-vous que trois Monstres ensemble
+Sont unis dans ce Monstre affreux ?
+A son aspect il n'est rien qui ne tremble,
+De sa brûlante haleine il pousse mille feux.
+
+-*who_bellerophon 
+Ces trois Monstres unis n'ont rien qui m'épouvante ;
+Plus le Combat coûte au Vainqueur,
+Plus la Victoire est éclatante,
+Et c'est ce qui flatte un grand Cœur.
+
+**** *book_ *id_acte304 *act_acte3 *date_1679 *creator_corneille
+
+-*who_philonoe
+Seigneur, à vôtre voix je viens joindre la mienne,
+Aux vœux que vous offrez je viens méler mes pleurs,
+Et demander au Ciel que la Lycie⁎ obtienne
+La fin de ses mal-heurs.
+
+-*who_iobate
+Contre le Monstre qui les cause
+Bellerophon veut employer son bras.
+Consentirez-vous qu'il s'expose ?
+
+-*who_philonoe
+Ah, vous-mesme Seigneur, vous n'y consentez pas ;
+Souffrirez-vous qu'il coure où la mort est certaine ?
+
+-*who_bellerophon
+On court à la Victoire en s'exposant pour vous,
+Croyez-en l'ardeur⁎ qui m'entraîne.
+Helas ! sans les frayeurs dont la Lycie⁎ est pleine,
+Je serois desja vostre Espoux.
+
+-*who_philonoe
+Esperons tout des Dieux ; un violent orage
+Améne quelquefois le calme le plus doux.
+
+-*who_iobate
+Le Temple s'ouvre ; entrons, & par un juste hommage
+Meritons que le Ciel appaise son couroux.
+
+**** *book_ *id_acte305 *act_acte3 *date_1679 *creator_corneille
+
+-*who_choeur_peuple
+Le mal-heur qui nous accable
+Demande un Dieu favorable.
+Entens nous, grand Apollon⁎ :
+Par la défaite du Serpent Python,
+Par l'éclat de la gloire⁎
+Qui suivit ta victoire,
+Viens nous secourir.
+Hâte-toy, sauve-nous, ou bien nous allons perir.
+Nos soûpirs te font connoistre
+Le mal-heur qui les fait naistre.
+Entends-nous grand Apollon⁎ :
+Par la défaite du Serpent Python,
+Par l'éclat de la gloire
+Qui suivit ta Victoire,
+Viens nous secourir.
+Hâte-toy, sauve nous, ou bien nous allons périr.
+
+-*who_sacrificateur
+Reçois, grand Apollon⁎, reçois ce Sacrifice,
+Fais que le Ciel nous soit propice.
+
+-*who_choeur_peuple
+D'un Cœur soûmis nous t'adressons nos vœux,
+Ecoute un Peuple mal-heureux.
+
+-*who_sacrificateur
+Par ce vin répandu fais cesser nos allarmes,
+Arreste le cours de nos larmes.
+Tu vois quel triste sort nous accable aujourd'huy ;
+Preste-nous ton appuy.
+Vous qu'à me seconder un zele⁎ ardent anime,
+Avancez, il est temps d'immoler la Victime.
+
+-*who_choeur_peuple
+Dieux, qui connoissez nos mal-heurs,
+Laissez-vous toucher de nos pleurs.
+
+-*who_sacrificateur
+Esperons, je ne voy que Signes favorables.
+Nos vœux au Ciel doivent estre agreables.
+
+-*who_choeur_peuple
+Aprés un augure⁎ si doux,
+Tâchons de meriter que les Dieux soient pour nous.
+Montrons notre allegresse,
+Ne parlons plus de chagrin
+Renonçons à la tristesse,
+Nos mal-heurs vont prendre fin.
+Quand le Ciel est propice à nos vœux,
+Bannissons l'ennuy⁎ qui nous presse,
+Nous allons tous estre heureux. 
+Le Ciel veut qu'on espere,
+Il adoucit son courroux.
+Notre hommage a sçeu luy plaire,
+Tout s'est déclaré pour nous.
+Bannissons les soûpirs de ces lieux ;
+Ne craignons plus rien de contraire,
+Nos maux ont touché les Dieux.
+
+-*who_sacrificateur
+Tout m'apprend qu'Apollon⁎ dans nos vœux s'interesse,
+Redoublez à l'envy⁎ vos marques d'allegresse.
+
+-*who_choeur_peuple
+Assez de pleurs
+Ont suivy nos malheurs ;
+De nostre zele⁎
+Voy l'ardeur⁎ fidelle.
+C'est en toy seul que notre espoir est mis.
+Viens de nos maux adoucir les atteintes.
+Finis nos plaintes
+Calme nos craintes.
+Flechy pour nous les Destins ennemis.
+L'Amour languit troublé de nos alarmes⁎,
+Rappelle icy tous ses charmes,
+Toy que ses traits⁎ ont tant de fois soûmis.
+Un monstre affreux
+Nous rend tous mal-heureux.
+Fay de sa rage
+Cesser le ravage.
+C'est en toy seul que notre espoir est mis.
+Viens de nos maux adoucir les atteintes,
+Finis nos plaintes,
+Calme nos craintes,
+Flêchy pour nous les Destins ennemis.
+L'Amour languit troublé de nos alarmes ;
+Rapelle icy tous ses charmes,
+Toy que ses traits⁎ ont tant de fois soûmis.
+
+-*who_sacrificateur
+Digne Fils de Latone & du plus grand des Dieux,
+Parle, & daigne regler le destin de ces lieux.
+
+-*who_pythie
+Gardez tous un silence extrême,
+Apollon⁎ vous entend & va parler luy-mesme.
+Son approche désja fait briller les éclairs,
+Entendez résonner le sifflement des airs.
+Escoutez le bruit du Tonnerre.
+Voyez trembler & le Temple & la Terre,
+Il va paroistre, je le vois ;
+A son aspect fremissez comme moy.
+
+-*who_apollon
+Que vostre crainte cesse.
+Un des fils de Neptune appaisera pour vous
+Le celeste courroux.
+Pour l'en recompenser, il faut que la Princesse
+Le prenne pour Espoux.
+
+-*who_iobate
+Vous l'avez entendu, je n'ay rien à vous dire,
+Je plains vos déplaisirs, comme vous j'en soûpire,
+Mais rien n'est preferable au repos de ces lieux ;
+Soûmettons-nous aux Dieux.
+
+**** *book_ *id_acte306 *act_acte3 *date_1679 *creator_corneille
+
+-*who_bellerophon
+Dans quel accablement cet Oracle me laisse !
+
+-*who_philonoe
+Ah, cruelle surprise !
+
+-*who_bellerophon 
+O funeste revers !
+Quoy ? je vous pers, belle Princesse ?
+
+-*who_philonoe
+Quoy ? Bellerophon, je vous pers ?
+
+-*who_philonoe_bellerophon
+Helas ! n'avons nous eû le destin favorable,
+Que pour mieux ressentir le coup qui nous accable ?
+
+-*who_bellerophon
+Mes vœux allaient estre contents
+
+-*who_philonoe
+Jamais sort n'eust esté plus heureux que le nostre.
+
+-*who_philonoe_bellerophon
+Qui croiroit que deux cœurs si tendres, si constants,
+Ne fussent pas destinez l'un pour l'autre ?
+
+-*who_bellerophon
+Vous ne serez donc point à moy ?
+Quel prix d'une ardeur⁎ si fidelle !
+
+-*who_philonoe
+N'y pensons plus.
+
+-*who_bellerophon
+      Quoy ? vous pourrez, cruelle,
+Engager ailleurs votre foy ?
+
+-*who_philonoe 
+Brisez, brisez une fatale chaîne.
+Quand j'ay receu l'hommage de vos vœux,
+Je croyois que le Ciel consentiroit sans peine
+Que l'Hymen⁎ nous rendist heureux,
+Et je n'attendois pas l'Oracle rigoureux
+Qui nous sacrifie à la haine.
+
+-*who_bellerophon
+Non, non, quoy qu'il ait ordonné,
+On ne verra jamais que mon amour s'éteigne,
+Je n'examine⁎ point ce qu'il faut que je craigne
+De l'Oracle fatal qui vient d'estre donné.
+Que le destin jaloux d'une flâme⁎ si belle
+Me porte encor des coups plus rigoureux ;
+Au moins je puis etre fidelle,
+Si je ne sçaurois estre heureux.
+
+-*who_philonoe
+Se peut-il que le Ciel contre un amour si tendre
+Exerce toutes ses rigueurs ?
+
+-*who_bellerophon
+De ses ordres cruels l'Amour doit-il dépendre ?
+
+-*who_philonoe_bellerophon
+Aimons nous malgré nos mal-heurs,
+Ce n'est pas au Destin à separer les cœurs.
+FIN DU TROISIEME ACTE.
+
+**** *book_ *id_acte401 *act_acte4 *date_1679 *creator_corneille
+
+-*who_amisodar
+Quel Spectacle charmant pour mon cœur amoureux !
+Ces Morts de tous costez étendus dans les plaines
+Me sont de seurs garands de la fin de mes peines ;
+Tout perit pour me rendre heureux.
+Fontaines, tarissez ; embrassez-vous, Montagnes,
+Brûlez, Forests ; sechez, Campagnes,
+Toutes les horreurs que je voy
+Son autant de sujets de triomphe⁎ pour moy.
+Quand on obtient ce qu'on aime,
+Qu'importe à quel prix ?
+Que tout l'Univers surpris
+Condamne l'amour extrême
+Qui couste tant de sang, de larmes, & de cris,
+Quand on obtient ce qu'on aime,
+Qu'importe à quel prix ?
+
+**** *book_ *id_acte402 *act_acte4 *date_1679 *creator_corneille
+
+-*who_argie
+Il faut, pour contenter la Reyne,
+Rendre le Monstre à l'eternelle nuit ;
+Bellerophon au desespoir reduit
+S'apreste à le combattre, & sa perte est certaine ;
+Mais cette prompte mort finit trop tost sa peine.
+Quand un fatal Oracle est contraire à ses vœux,
+S'il ne souffre long-temps, il n'est point mal-heureux.
+Puis qu'un fils de Neptune épouse la Princesse,
+Laissez vivre l'Ingrat⁎ dans ses jaloux transports⁎ ;
+Voir aux mains d'un Rival l'Objet de sa tendresse⁎,
+C'est tous les jours endurer mille morts.
+
+-*who_amisodar 
+Le laisser vivre ! O Dieux ! que faut-il que je pense ?
+Je voy pour luy la Reyne s'alarmer
+Lors que sa mort est preste à remplir sa vangeance.
+Est-ce le haïr ou l'aimer ?
+
+-*who_argie
+Montrez que vostre cœur ne cherche qu'à luy plaire.
+Pourquoy penetrer dans le sien ?
+Quand l'objet aimé parle, un Amant doit tout faire,
+Et n'examiner⁎ rien.
+
+-*who_amisodar
+Non, non, que mon Rival perisse,
+Est-ce à moy d'empécher qu'il ne perde⁎ le jour ?
+
+-*who_argie
+Il faut faire à la Reine encor ce Sacrifice,
+Ou renoncer à vostre amour.
+
+-*who_voix_derriere_theatre
+Tout est perdu, le Monstre avance,
+Sauvons-nous, sauvons-nous.
+
+-*who_amisodar
+Le Monstre approche, éloignez-vous.
+
+-*who_argie
+Ciel, contre sa fureur⁎ embrasse ma défense.
+
+**** *book_ *id_acte403 *act_acte4 *date_1679 *creator_corneille
+
+-*who_napee_dryade
+Plaignons, plaignons les maux qui desolent ces lieux
+Les pleurs qu'ils font couler devroient toucher les Dieux.
+
+-*who_dryade
+Il n'est plus d'herbes dans les plaines.
+
+-*who_napee
+Il n'est plus d'eaux dans les fontaines.
+
+-*who_dryade
+Tout perit.
+
+-*who_napee
+Tout tarit.
+
+-*who_dryade
+Quel excés d'ennuis⁎ !
+
+-*who_napee
+      Quelles peines !
+
+-*who_napee_dryade
+Plaignons, plaignons les maux qui désolent ces lieux
+Les pleurs qu'ils font couler devroient toucher les Dieux.
+
+**** *book_ *id_acte404 *act_acte4 *date_1679 *creator_corneille 
+
+-*who_dieux_bois
+Les Forests sont en feu, le ravage s'augmente,
+Ce n'est partout qu'épouvante & horreur.
+
+-*who_napee_dryade
+Du Monstre comme vous nous sentons la fureur⁎,
+Voyez cette Plaine brûlante.
+
+-*who_dieux_bois
+Helas ! que sont-ils devenus
+Ces Bois dont nous faisions nos retraites tranquilles ?
+
+-*who_napee_dryade
+Ces Eaux qui serpentoient dans ces Plaines fertiles,
+Ces Eaux, helas, ne coulent plus.
+
+-*who_dieux_bois
+Que de tristess !
+
+-*who_napee_dryade
+Que de sujets de larmes !
+
+-*who_napee_dryade
+Pour adoucir le Ciel qui voit tant de malheurs,
+Joignons nos soûpirs & nos pleurs.
+
+**** *book_ *id_acte405 *act_acte4 *date_1679 *creator_corneille 
+
+-*who_iobate
+Ah Prince ! où vous emporte une ardeur⁎ trop guerriere ?
+En vain à cent perils on vous a veu courir,
+En vain vostre grand nom remplit la Terre entière,
+Vous cherchez un Combat où vous allez perir.
+
+-*who_bellerophon
+Je ne vay point combattre un Monstre redoutable
+Pour remplir de mon nom l'Univers étonné,
+Je vais, Amant infortuné,
+Finir un sort trop déplorable.
+Cent fois, jusqu'à ce triste jour,
+J'ai hazardé ma vie en cherchant la victoire.
+Ce que j'ay fait animé par la gloire⁎,
+Ne le pourrai-je faire animé par l'amour ?
+
+-*who_iobate
+Suivre un amour trop temeraire,
+C'est vous livrer vous-mesme au plus funeste sort.
+
+-*who_bellerophon
+Accablé de mal-heurs, puis-je craindre la mort ?
+
+-*who_iobate 
+Ménagez vostre vie, elle m'est toujours chere.
+Par ces aimables nœuds⁎
+Que je vous destinois avec mon Diadéme,
+Par la Princesse mesme,
+Accordez, accordez quelque chose à mes vœux.
+Je vais faire à Neptune offrir un Sacrifice.
+Allons sçavoir ses volontez,
+Peut-estre il nous sera propice ?
+
+-*who_bellerophon
+En vain, Seigneur, vous me flattez.
+Puis qu'à son Fils vous devez la Princesse,
+Au moins en combattant laissez-moi faire voir
+Que mon amour meritoit sa tendresse⁎.
+
+-*who_iobate
+Ah, que je crains pour vous ce fatal desespoir !
+Adieu, quand le peril ne vous peut émouvoir,
+Je dois vous cacher ma foiblesse.
+
+**** *book_ *id_acte406 *act_acte4 *date_1679 *creator_corneille 
+
+-*who_bellerophon
+Heureuse mort, tu vas me secourir
+Dans mon mal-heur extrême.
+Je cours m'offrir au Monstre asseuré de perir,
+Mais je m'en fais un bien supréme.
+Quand on a perdu ce qu'on aime,
+Il ne reste plus qu'à mourir.
+
+**** *book_ *id_acte407 *act_acte4 *date_1679 *creator_corneille
+
+-*who_pallas
+Espere en ta valeur⁎, Bellerophon, espere,
+Pallas descend du Ciel pour t'ofrir son secours.
+
+-*who_bellerophon 
+Déesse, en vain tu prens soin de mes jours,
+Quand la mort seule peut me plaire.
+
+-*who_pallas
+Ton sort est marqué dans les Cieux,
+Viens, monte dans ce Char, & t'abandonne aux Dieux.
+
+-*who_voix_derriere_theatre
+Quelle horreur ! quel triste ravage !
+Le Monstre redouble sa rage.
+
+-*who_voix_derriere_theatre
+Un Heros⁎ s'expose pour nous,
+Dieux, soûtenez son bras, et conduisez ses coups. 
+
+-*who_voix_derriere_theatre
+Le Monstre est défait. Quelle gloire⁎ !
+Bellerophon remporte la victoire.
+FIN DU QUATRIEME ACTE.
+
+**** *book_ *id_acte501 *act_acte5 *date_1679 *creator_corneille
+
+-*who_iobate
+Preparez vos chants d'allegresse,
+Peuples, c'est en ce lieu que pour nostre bon-heur
+Pallas doit ramener un illustre Vainqueur,
+Que le Ciel pour Espoux destine à la Princesse.
+Enfin nos vœux ont reüssi,
+Un Oracle confus faisoit notre infortune,
+Mais cet Oracle est esclaircy,
+Bellerophon est le Fils de Neptune.
+Pour nous le declarer, dans son Temple, à nos yeux,
+Ce Dieu des Mers vient de paroistre ;
+Luy-mesme pour son sang a daigné reconnoistre
+Ce Heros⁎ glorieux.
+D'une Nymphe jalouse il craignit la colere,
+Et quand Bellerophon receût de luy le jour,
+Il voulut que Glaucus feignist d'estre son pere ;
+Il revient Triomphant, celebrez son retour.
+
+-*who_choeur_peuple
+Viens, digne Sang des Dieux, joüir de ta victoire,
+Chacun est charmé⁎ de ta gloire,
+Et pour chanter tes grands exploits,
+Nous allons tous joindre nos voix.
+
+-*who_iobate
+Et toy, ma Fille, abandonne ton ame
+Aux transports⁎ de sa flâme⁎.
+Bellerophon t'est donné pour Espoux.
+
+-*who_philonoe
+Apres tant de rudes alarmes⁎,
+Pouvons nous trop goûter les charmes
+D'un changement si doux ?
+
+-*who_iobate
+Qu'il est grand ce Heros⁎, qui ne voit point d'obstacles !
+Que le Sort contre luy ne forme vainement !
+
+-*who_philonoe 
+Pour tout vaincre, il suffit qu'un Heros⁎ soit Amant,
+La valeur⁎ & l'amour font toûjours des miracles.
+
+-*who_philonoe_iobate
+La valeur & l'amour font toûjours des miracles.
+
+-*who_choeur_peuple
+O jour pour la Lycie⁎ à jamais glorieux,
+Où le Sang de nos Rois s'unit au Sang des Dieux !
+
+**** *book_ *id_acte502 *act_acte5 *date_1679 *creator_corneille
+
+-*who_iobate
+Venez vous partager l'allegresse publique ?
+Enfin pour nous le Ciel s'explique,
+Neptune a reconnu Bellerophon pour Fils.
+
+-*who_stenobee
+Je sais tout. Dieux cruels, vous l'avez donc permis ?
+
+-*who_iobate
+Bellerophon cause-t-il cette plainte ?
+
+-*who_stenobee
+C'est luy seul, il est vray, qui fait mon desespoir.
+Du plus ardent amour, j'eûs pour luy l'ame atteinte,
+Et pour toucher son cœur j'ay manqué de pouvoir.
+Toujours l'ingrat⁎ dédaigna ma tendresse⁎.
+Preste à luy voir enfin espouser la Princesse,
+J'ai voulu renverser vos odieux projets.
+Amisodar m'aimoit, j'ay fait agir ses Charmes⁎,
+Et le Monstre par luy remplissant tout d'alarmes⁎,
+N'a versé que pour moy le sang de vos Sujets.
+
+-*who_iobate
+Le Traistre ! qu'on l'arreste.
+
+-*who_stenobee
+      Il s'est mis par la fuite
+A couvert de vostre poursuite ;
+Mais il traisne avec luy son crime & son amour.
+
+-*who_iobate
+Quoy, le Ciel souffre encor que vous voyiez le jour ?
+
+-*who_stenobee
+J'ay prevenu tout ce que peut sa haine.
+La justice que je me rends
+M'a fait par le poison mettre fin à ma peine.
+Je le sens qui désja coule de veine en veine,
+Désja le jour se cache à mes regards mourants.
+Vous, de qui la rigueur m'a toûjours poursuivie
+Avec ses plus funestes traits⁎,
+Dieux inhumains, j'abandonne le vie ;
+Estes-vous satisfaits ?
+Et toi, cruel Amour, reçois une Victime
+Que tu cherchois à t'immoler ;
+Je meurs pour expier le crime
+Des feux dont tu m'as fait brusler.
+Je n'ay pû m'affranchir de ton barbare⁎ empire
+Qu'en renonçant au jour ;
+Voy mes derniers soûpirs, impitoyable Amour,
+J'expire.
+
+-*who_philonoe
+Quel excés de fureur⁎ ?
+
+-*who_iobate
+      Sa mort en est le prix,
+Mais oublions & son crime & sa peine,
+Voicy Bellerophon que Pallas nous ramène,
+Son Triomphe⁎ doit seul occuper nos esprits.
+
+**** *book_ *id_acte503 *act_acte5 *date_1679 *creator_corneille
+
+-*who_pallas
+Connoissez⁎ le Fils de Neptune
+Dans ce jeune Heros⁎.
+A sa seule valeur⁎ vous devez le repos
+Qui succede à vostre infortune.
+Pallas le raméne en ces lieux.
+C'est luy qui doit espouser la Princesse,
+Faites en tous paroistre une entière allegresse,
+Et rendez grace aux Dieux.
+
+-*who_bellerophon
+Enfin je vous revoy, Princesse incomparable.
+
+-*who_philonoe
+O changement à mes vœux favorables !
+
+-*who_philonoe_iobate
+Quel plaisir de voir en ce jour
+Le Destin ceder à l'Amour !
+
+-*who_iobate
+Joüissez des douceurs que l'Hymen⁎ vous prepare,
+Vivez heureux, vivez toûjours Amants.
+Que tous vos moments
+Soient doux & charmants,
+Et qu'un bon-heur sans fin répare
+Ce qu'un sort rigoureux vous causa de tourments.
+
+-*who_choeur_peuple 
+Le plus grand des Heros⁎ rend le calme à la Terre,
+Il fait cesser les horreur de la Guerre.
+Joüissons à jamais
+Des douceurs de la Paix.
+
+-*who_choeur_peuple
+Les plaisirs nous preparent leurs charmes,
+Ne songeons plus qu'à passer de beaux jours.
+Si le Ciel nous fit verser des larmes,
+Un heureux sort arreste le cours.
+Puisqu'un Heros⁎ fait cesser nos alarmes⁎,
+Cherchons les jeux, les ris & les amours.
+Que la paix qui succede à la peine
+Fait aisément oublier les soûpirs !
+Si le Ciel nous soûmit à la haîne,
+Un heureux sort satisfait nos desirs.
+Dans les beaux jours qu'un Heros⁎ nous raméne,
+Cherchons les Ris, les Jeux, & les plaisirs.
+FIN.

@@ -1,7 +1,56 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bélisaire. Tragi-comédie</title>
+        <author key="Desfontaines, Nicolas (15..?-1652)">Nicolas Mary, sieur Desfontaines</author>
+        <principal>Georges Forestier</principal>
+        <editor>Claire Chaineaux</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Claire Chaineaux dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (1997)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/desfontaines_belisaire/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/desfontaines_belisaire.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/desfontaines_belisaire.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/desfontaines_belisaire.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/desfontaines_belisaire.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1641"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+    <textClass>
+      <keywords>
+        <term subtype="tragedy" type="genre">Tragi-comédie</term>
+      </keywords>
+    </textClass>
+  </teiHeader>
   <text>
     <body>
+      <head>BELISAIRE <lb/>TRAGI-COMEDIE <lb/>DEDIE’E A MONSEIGNEUR LE COMTE DE BURY</head>
       <div type="set" xml:id="dedicace">
+        <head>A HAULT ET PUISSANT SEIGNEUR MESSIRE FRANCOIS DE ROSTAING CHEVALIER COMTE DE BURY</head>
         <p>MONSEIGNEUR,</p>
         <p>Voici le plus jeune, mais le moins defectueux de mes enfants qui vient se jetter entre vos bras, par le dessein qu’il a de se donner tout à vous, &amp; témoigner à votre grandeur la sincérité de son zele, &amp; la pureté de mon affection. Son aisné a receu de votre bonté un traitement si favorable, que son Cadet ne pouvait sans ingratitude embrasser en sa naissance un autre autel que celuy de vostre merite. Souffrez donc que l’un &amp; l’autre joignent ensemble leurs reconnoissances, &amp; que cette égale inclination qui les porte à vous honnorer soit également heureuse auprez de vous. Si le premier dans la vie du Cid vous a fait voir un tableau de vostre valeur ; le second par celle de Belisaire vous mettra devant les yeux l’image de vôtre vertu, &amp; vous verrez dans tous les deux un illustre portraict de vous-mesmes. Il reste pour prix de vostre courage que vous receviez un jour des mains de nos Roys ce que tous deux ont reçeu de celles de leurs Monarques. Ce sont les voeux, Monseigneur, &amp; du pere &amp; des enfants, qui appuyez de l’honneur de vostre protection se tiendront trop heureux d’estre au nombre de vos creatures, &amp; moytres-glorieux de porter toute ma vie la qualité,</p>
         <p>MONSEIGNEUR,</p>
@@ -10,6 +59,7 @@
         <p>        DES-FONTAINES.</p>
       </div>
       <div type="set" xml:id="sonnet">
+        <head>AU MESME Sonnet</head>
         <lg>
           <l n="1">Illustre &amp; cher object qu’adore ma pensée,</l>
           <l n="2">Mes vers pour vous loüer ont trop peu d’ornemens.</l>
@@ -34,13 +84,18 @@
         </lg>
       </div>
       <div type="set" xml:id="privilege">
+        <head>Extraict du Privilège du Roy.</head>
         <p>PAR grace &amp; Privilege du Roy, il est permis à AUGUSTIN COURBE’, Libraire, de faire imprimer un Livre intitulé, <hi rend="i">Bélisaire, Tragi-Comedie, Par le Sieur</hi> DES-FONTAINES. Et deffences sont faites à toutes personnes, de quelque qualité ou condition qu’elles soient, de l’imprimer, ou de le faire imprimer, vendre, ni distribuer, sans le consentement dudit COURBE’, &amp; ce durant le temps de sept ans, sur les peines portées par ledit Privilege. DONNE’ à Paris, le vingtiesme jour de Juin mil six cens quarante-un.</p>
         <p>Signé LEMOINE.</p>
       </div>
-      <div type="set" xml:id="acteurs"/>
+      <div type="set" xml:id="acteurs">
+        <head>LES ACTEURS</head>
+      </div>
       <div type="act" xml:id="I">
         <pb n="1"/>
+        <head>ACTE PREMIER</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE</head>
           <sp who="justinian" xml:id="I01-1">
             <l n="1" part="I" xml:id="l1">Levez-vous.</l>
           </sp>
@@ -267,6 +322,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II</head>
           <sp who="theodore" xml:id="I02-1">
             <l n="177" xml:id="l177">Hé bien chers confidens des secrets de mon ame,</l>
             <l n="178" xml:id="l178">Dans mes ressentimens merite-je du blasme ?</l>
@@ -428,6 +484,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III</head>
           <sp who="sophie" xml:id="I03-1">
             <l n="304" xml:id="l304">Hé bien, Narsés, enfin puis-je m’ouvrir à toy ?</l>
             <l n="305" xml:id="l305">je te croirois faire un trop sensible outrage</l>
@@ -509,6 +566,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV</head>
           <pb n="20"/>
           <sp who="narses" xml:id="I04-1">
             <l n="369" xml:id="l369">Confus, triste, pensif, je ne sçay que <ref target="#resoudre">resoudre*</ref></l>
@@ -548,7 +606,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="22"/>
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE I</head>
           <sp who="belisaire" xml:id="II01-1">
             <l n="401" xml:id="l401">Je ne sçaurois <ref target="#souffrir">souffrir*</ref> plus long-temps son absence,</l>
             <l n="402" xml:id="l402">Diophante mets fin à mon impatience,</l>
@@ -561,6 +621,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II</head>
           <pb n="23"/>
           <sp who="belisaire" xml:id="II02-1">
             <lg>
@@ -633,6 +694,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III</head>
           <sp who="iskirion" xml:id="II03-1">
             <l part="F">Vous voulez mon trépas,</l>
             <l n="464" xml:id="l464">Bien, mais auparavant vous connoistrez mon bras,</l>
@@ -766,6 +828,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV</head>
           <pb n="31"/>
           <sp who="belisaire" xml:id="II04-1">
             <l n="555" xml:id="l555">Il expire, Narsés, helas ! il ne vit plus,</l>
@@ -860,6 +923,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V</head>
           <pb n="35"/>
           <sp who="belisaire" xml:id="II05-1">
             <lg>
@@ -915,6 +979,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI</head>
           <pb n="37"/>
           <sp who="diophante" xml:id="II06-1">
             <l n="667" part="I" xml:id="l667">Dieux, qu’est-ce que je vois ? ah, Seigneur !</l>
@@ -961,7 +1026,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="39"/>
+        <head>ACTE III</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE I</head>
           <sp who="theodore" xml:id="III01-1">
             <l n="679" xml:id="l679">Allez ne craignez rien, achevez cette affaire,</l>
             <l n="680" xml:id="l680">Et songez seulement quel est vostre <ref target="#salaire">salaire*</ref>,</l>
@@ -1033,6 +1100,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II</head>
           <sp who="iskirion" xml:id="III02-1">
             <l n="739" xml:id="l739">Importune raison, hé bien que dois-je faire ?</l>
             <l n="740" xml:id="l740">Te faut-il obeir, ou bien t’estre contraire ?</l>
@@ -1063,6 +1131,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III</head>
           <sp who="belisaire" xml:id="III03-1">
             <l n="765" xml:id="l765">Quoy donc, Amalazonthe, apres un traittement,</l>
             <l n="766" xml:id="l766">Que des Princes captifs espreuvent rarement,</l>
@@ -1167,6 +1236,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV</head>
           <sp who="belisaire" xml:id="III04-1">
             <l n="842" xml:id="l842">Ah, mourir ! ah plustost si mon feu vous offense,</l>
             <l n="843" xml:id="l843">Mais l’ingrate à mes yeux a ravy sa presence.</l>
@@ -1180,6 +1250,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V</head>
           <sp who="doristel" xml:id="III05-1">
             <l n="851" part="I" xml:id="l851">Le voila.</l>
           </sp>
@@ -1280,6 +1351,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI</head>
           <sp who="theodore" xml:id="III06-1">
             <l n="926" xml:id="l926">Songez y bien, Sophie, Iskirion est Prince,</l>
             <l n="927" xml:id="l927">Songez que c’est pour vous qu’il quitte sa province,</l>
@@ -1361,7 +1433,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="56"/>
+        <head>ACTE IV</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE I</head>
           <sp who="vitigez" xml:id="IV01-1">
             <l n="974" xml:id="l974">Ma Princesse, d’où vient cette melancolie</l>
             <l n="975" xml:id="l975">Où vostre ame paroist si fort ensevelie ?</l>
@@ -1509,6 +1583,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II</head>
           <pb n="62"/>
           <sp who="sophie" xml:id="IV02-1">
             <l n="1078" xml:id="l1078">Voila ce que vous couste une amitié fidele,</l>
@@ -1696,6 +1771,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III</head>
           <sp who="theodore" xml:id="IV03-1">
             <l n="1194" part="I" xml:id="l1194">Hé bien, perfide, ingrat,</l>
           </sp>
@@ -1749,6 +1825,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV</head>
           <sp who="theodore" xml:id="IV04-1">
             <l n="1230" xml:id="l1230">Enfin de quel moyen faut-il que je me serve ?</l>
             <l n="1231" xml:id="l1231">Doristel, c’est à toy que ce coup se reserve,</l>
@@ -1791,6 +1868,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V</head>
           <sp who="belisaire" xml:id="IV05-1">
             <l n="1258" xml:id="l1258">Pour vaincre les Persans &amp; dompter leur audace,</l>
             <l n="1259" xml:id="l1259">Il leur faut exposer les escadrons de Trace,</l>
@@ -1811,6 +1889,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI</head>
           <sp who="doristel" xml:id="IV06-1">
             <l n="1274" xml:id="l1274">Dieux ! quel bonheur jamais fut au mien comparable,</l>
             <l n="1275" xml:id="l1275">Tout rit à mes desirs, et tout m’est favorable,</l>
@@ -1843,6 +1922,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>SCENE VII</head>
           <sp who="belisaire" xml:id="IV07-1">
             <l n="1302" xml:id="l1302">Ennemis de nos soins, amoureux du silence,</l>
             <l n="1303" xml:id="l1303">Qui des soins plus puissans calmez la violence,</l>
@@ -1870,7 +1950,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="77"/>
+        <head>ACTE V</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE I</head>
           <sp who="belisaire" xml:id="V01-1">
             <l n="1322" xml:id="l1322">Va, que differes-tu ? va mon cher Diophante,</l>
             <l n="1323" xml:id="l1323">Va trouver de ma part cette <ref target="#superbe">superbe*</ref> Infante,</l>
@@ -1923,6 +2005,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II</head>
           <sp who="theodore" xml:id="V02-1">
             <l n="1356" xml:id="l1356">Il vit, tout le malheur est tombé dessus nous,</l>
             <l n="1357" xml:id="l1357">J’ay fait un attentat, mais j’en reçois les coups,</l>
@@ -1946,6 +2029,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III</head>
           <sp who="sophie" xml:id="V03-1">
             <l n="1375" xml:id="l1375">Ah, quelle ingratitude &amp; quelle perfidie !</l>
           </sp>
@@ -1996,6 +2080,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV</head>
           <sp who="theodore" xml:id="V04-1">
             <l part="F">Vous, Sophie, apres un tel outrage,</l>
             <l n="1405" xml:id="l1405">Serez-vous sans raison ainsi que sans courage ?</l>
@@ -2022,6 +2107,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V</head>
           <sp who="theodore" xml:id="V05-1">
             <l n="1412" xml:id="l1412">Enfin c’est maintenant, <ref target="#superbe">superbe*</ref> Belisaire,</l>
             <l n="1413" xml:id="l1413">Que tu ne sçaurois plus eviter ma colere,</l>
@@ -2039,6 +2125,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI</head>
           <sp who="justinian" xml:id="V06-1">
             <l n="1425" xml:id="l1425">Qu’autre personne ici ne nous soit introduite.</l>
           </sp>
@@ -2132,6 +2219,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII</head>
           <pb n="88"/>
           <sp who="theodore" xml:id="V07-1">
             <l n="1470" xml:id="l1470">Courage, tout va bien, il n’en peut échaper,</l>
@@ -2176,6 +2264,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>SCENE VIII</head>
           <pb n="90"/>
           <sp who="iskirion" xml:id="V08-1">
             <l n="1509" xml:id="l1509">Ouy, Madame, il importe au bien de vos amours,</l>
@@ -2206,6 +2295,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V09">
+          <head>SCENE IX</head>
           <sp who="sophie" xml:id="V09-1">
             <l n="1531" part="I" xml:id="l1531">Entrons</l>
           </sp>
@@ -2235,6 +2325,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V10">
+          <head>SCENE X</head>
           <pb n="93"/>
           <sp who="iskirion" xml:id="V10-1">
             <l n="1543" xml:id="l1543">Amy, leve les yeux, contemple ce visage,</l>
@@ -2322,6 +2413,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V11">
+          <head>SCENE XI</head>
           <pb n="97"/>
           <sp who="theodore" xml:id="V11-1">
             <l part="F">Quelle est cette entreprise ?</l>
@@ -2487,6 +2579,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V12">
+          <head>SCENE XII</head>
           <pb n="104"/>
           <sp who="vitigez" xml:id="V12-1">
             <l n="1701" xml:id="l1701">Avant que d’en venir à l’extreme rigueur,</l>
@@ -2538,6 +2631,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V13">
+          <head>SCENE derniere</head>
           <sp who="theodore" xml:id="V13-1">
             <l n="1731" xml:id="l1731">Il est temps de quitter l’erreur qui vous abuse,</l>
             <l n="1732" xml:id="l1732">Seigneur, j’ay découvert par un heureux <ref target="#effet">effect*</ref>,</l>

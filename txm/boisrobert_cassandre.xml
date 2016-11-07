@@ -1,8 +1,58 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/css" href="../teibook/teibook.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Cassandre, comtesse de Barcelone. Trage-comédie</title>
+        <author key="Boisrobert, François Le Métel de (1592-1662)">Le Métel de Boisrobert, François</author>
+        <principal>Georges Forestier</principal>
+        <editor>Francisco Guevara Quiel</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Francisco Guevara Quiel sous la direction de Georges Forestier (2002)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/boisrobert_cassandre/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boisrobert_cassandre.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boisrobert_cassandre.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boisrobert_cassandre.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boisrobert_cassandre.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1654"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div type="set">
+        <head type="main">CASSANDRE, COMTESSE DE BARCELONE.</head>
+        <head type="sub">TRAGE-COMEDIE.</head>
         <div>
+          <head>A MONSEIGNEVR LE DVC DE NEMOVRS, ARCHEVESQVE ET DVC DE REIMS, Premier Pair de France.</head>
           <p>MONSEIGNEVR,</p>
           <p>
             <hi rend="i">Si vous-vous ſouuenez que ce fut en voſtre preſence, qu’vne grande Princeſſe</hi>
@@ -17,13 +67,18 @@
           <p>BOIS-ROBERT, Abbé de Chaſtillon.</p>
         </div>
         <div>
+          <head>AV LECTEVR.</head>
           <p>Ie m’aſſeure, LECTEVR, que cette Trage-Comedie, que toute la Cour &amp; toute la Ville ont trouuée ſi belle ſur le Theatre, ne te paroiſtra guere moins agreable ſur le papier, &amp; que tu la trouueras auſſi bien ſouſtenuë par la delicateſſe &amp; par la majeſté de ſes vers, que par la dignité de ſon sujet. Si Villegas Eſpagnol aſſez obſcur, qui a eſte aſſez heureux pour trouuer vn ſi beau nœud, euſt eu la meſme <ref target="#fortune">fortune*</ref> dans le deſnouëment, cette ſeule production l’auroit ſans doute eſgalé aux plus fameux Inuenteurs de ſa nation, &amp; de ſon siecle : Si comme cette piece eſt aſſez rare, il arriue par hazard qu’elle vienne à tomber entre tes mains ; j’ay la vanité d’eſperer que tu priſeras peut-eſtre moins les richeſſes &amp; les profuſions de l’Autheur, que ma petite <ref target="#économie">Œconomie*</ref>.</p>
         </div>
-        <div/>
+        <div>
+          <head>LES NOMS DES ACTEVRS.</head>
+        </div>
       </div>
       <div type="act" xml:id="I">
         <pb n="1, A"/>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp who="le-dvc" xml:id="I01-1">
             <l n="1" xml:id="l1">Enfin voicy le jour tant de fois souhaitté,</l>
             <l n="2" xml:id="l2">Nostre Princesse arriue à sa majorité,</l>
@@ -97,6 +152,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp who="cassandre" xml:id="I02-1">
             <l n="60" xml:id="l60">Qv’on ne m’en parle plus à moins que me desplaire :</l>
             <l n="61" xml:id="l61">Ah c’est trop me presser sur ce choix odieux !</l>
@@ -130,6 +186,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <pb n="6"/>
+          <head>SCENE III.</head>
           <sp who="don-lope" xml:id="I03-1">
             <l n="72" xml:id="l72">Don Remon de Moncade &amp; Don Pedre, Madame,</l>
             <l n="73" part="I" xml:id="l73">Viennent vers vostre Altesse.</l>
@@ -225,6 +282,7 @@
         </div>
         <div type="scene" xml:id="I04">
           <pb n="10"/>
+          <head>SCENE IV.</head>
           <sp who="don-pedre" xml:id="I04-1">
             <l n="133" xml:id="l133">Beralde se souuient de ce qu’il m’a promis.</l>
           </sp>
@@ -325,6 +383,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V.</head>
           <l n="199" xml:id="l199">I’ay ce me semble esté bien leger à promettre,</l>
           <l n="200" xml:id="l200">De rendre à leur Maistresse &amp; l’vne &amp; l’autre lettre,</l>
           <l n="201" xml:id="l201">Qui prend, s’engage enfin, que sert de contester,</l>
@@ -347,6 +406,7 @@
           <l n="218" xml:id="l218">Le vert de l’autre marque vn espoir apparent.</l>
         </div>
         <div type="scene" xml:id="I06">
+          <head>SCENE VI.</head>
           <sp who="astolfe" xml:id="I06-1">
             <l n="219" xml:id="l219">De qui sont ces <ref target="#poulet">Poulets*</ref> sont-ils d’vne Maistresse.</l>
           </sp>
@@ -388,6 +448,7 @@
         </div>
         <div type="scene" xml:id="I07">
           <pb n="17, C"/>
+          <head>SCENE VII.</head>
           <sp who="cassandre" xml:id="I07-1">
             <l n="240" xml:id="l240">Ovy, je feray mon chois, ouy, vous aurez un Maistre.</l>
             <l n="241" part="I" xml:id="l241">Qu’on ne m’en parle plus.</l>
@@ -481,6 +542,7 @@
         </div>
         <div type="scene" xml:id="I08">
           <pb n="21, Ciij"/>
+          <head>SCENE VIII.</head>
           <sp who="astolfe" xml:id="I08-1">
             <l part="F">Et je pourray m’en taire ?</l>
             <l n="277" xml:id="l277">Ie souffriray sans <ref target="#bruit">bruit*</ref> ce coup de desespoir ?</l>
@@ -534,7 +596,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="24"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp who="isabelle" xml:id="II01-1">
             <l n="307" xml:id="l307">D’où vous naist ce chagrin, mon frere qu’auez vous ?</l>
           </sp>
@@ -569,6 +633,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II.[26]</head>
           <sp who="cassandre" xml:id="II02-1">
             <l n="323" xml:id="l323">Av moment qu’il me void il s’enfuit brusquement</l>
             <l n="324" xml:id="l324">L’ingrat, d’où luy peut naistre vn si prompt changement ?</l>
@@ -700,6 +765,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp who="astolfe" xml:id="II03-1">
             <l part="F">Qve voulez vous Madame</l>
             <l n="399" xml:id="l399">Enfin, pretendez vous arracher de mon ame</l>
@@ -856,6 +922,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="38"/>
+          <head>SCENE IV.</head>
           <sp who="le-dvc" xml:id="II04-1">
             <l n="513" xml:id="l513">Qv’auez-vous auancé, mon fils, qu’auez-vous fait ?</l>
             <l n="514" xml:id="l514">La Princesse à nos vœux est-elle inexorable ?</l>
@@ -1042,7 +1109,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="46"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp who="moncade" xml:id="III01-1">
             <l n="642" xml:id="l642">Ie vous dy verité, Dom Pedre, il est certain,</l>
             <l n="643" xml:id="l643">Que j’ay veu mon billet dedans la propre main</l>
@@ -1063,6 +1132,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp who="beralde" xml:id="III02-1">
             <l part="F">Que leur diray-je, ô Dieux.</l>
           </sp>
@@ -1131,6 +1201,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp who="don-pedre" xml:id="III03-1">
             <l part="F">He, bien Beralde a-t’il donné ma lettre,</l>
             <l n="685" xml:id="l685">Qu’en doit-on esperer, que m’en puis-je promettre ?</l>
@@ -1196,6 +1267,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp who="don-pedre" xml:id="III04-1">
             <l n="720" xml:id="l720">He bien qui de nous deux, Moncade, a l’auantage ?</l>
           </sp>
@@ -1251,6 +1323,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp who="don-pedre" xml:id="III05-1">
             <l n="746" xml:id="l746">Souffrez qu’auec respect je vous donne la main,</l>
             <l n="747" xml:id="l747">Madame, &amp; que mon cœur ait part à ce dessein.</l>
@@ -1371,6 +1444,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI.</head>
           <sp who="don-pedre" xml:id="III06-1">
             <l n="804" xml:id="l804">Enfin vous auez sceu qui de nous deux la touche,</l>
             <l n="805" xml:id="l805">Vous auez tout appris, &amp; de sa propre bouche.</l>
@@ -1407,6 +1481,7 @@
         </div>
         <div type="scene" xml:id="III07">
           <pb n="62"/>
+          <head>SCENE VII.</head>
           <sp who="cassandre" xml:id="III07-1">
             <l n="824" xml:id="l824">Astolfe tarde bien, sa longueur importune,</l>
             <l n="825" xml:id="l825">Retarde vn peu ma joye ainsi que sa <ref target="#fortune">fortune*</ref> ;</l>
@@ -1482,6 +1557,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III08">
+          <head>SCENE VIII.</head>
           <sp who="cassandre" xml:id="III08-1">
             <l n="872" xml:id="l872">Astolfe enfin parest, quel chagrin l’accompagne,</l>
             <l n="873" xml:id="l873">Et d’où vient qu’il parest en habit de campagne ?</l>
@@ -1546,6 +1622,7 @@
         </div>
         <div type="scene" xml:id="III09">
           <pb n="68"/>
+          <head>SCENE IX.</head>
           <sp who="cassandre" xml:id="III09-1">
             <l n="924" xml:id="l924">Est-ce Astolfe ? est-ce luy que j’ay veu disparestre,</l>
             <l n="925" xml:id="l925">Quoy l’ingrat m’abandonne ? Ah cela ne peut estre,</l>
@@ -1612,7 +1689,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="71"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp who="le-dvc" xml:id="IV01-1">
             <l n="966" xml:id="l966">Ie <ref target="#souffrir">souffre*</ref> autant que vous dans cét éloignement,</l>
             <l n="967" xml:id="l967">Mais je ne le puis plus differer d’vn moment :</l>
@@ -1627,6 +1706,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <pb n="72"/>
+          <head>SCENE II.</head>
           <sp who="don-lope" xml:id="IV02-1">
             <l n="972" xml:id="l972">La Princesse, Seigneur, auec impatience,</l>
             <l n="973" part="I" xml:id="l973">Vous attend.</l>
@@ -1650,6 +1730,7 @@
         </div>
         <div type="scene" xml:id="IV03">
           <pb n="73, K"/>
+          <head>SCENE III.</head>
           <sp who="moncade" xml:id="IV03-1">
             <l n="978" xml:id="l978">Ovy, ouy, brize tes <ref target="#fers">fers*</ref>, esclaue malheureux,</l>
             <l n="979" xml:id="l979">Porte ailleurs tes <ref target="#respect">respects*</ref>, &amp; tes <ref target="#soin">soins*</ref> amoureux :</l>
@@ -1667,6 +1748,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV.</head>
           <sp who="cassandre" xml:id="IV04-1">
             <l part="F">Malheureuse ! he n’as tu pas compris,</l>
             <l n="991" xml:id="l991">Que ton humeur facile attira ces mépris,</l>
@@ -1737,6 +1819,7 @@
         </div>
         <div type="scene" xml:id="IV05">
           <pb n="77, Kiij"/>
+          <head>SCENE V.</head>
           <sp who="don-lope" xml:id="IV05-1">
             <l n="1035" part="I" xml:id="l1035">Voicy le Duc, Madame.</l>
           </sp>
@@ -1945,6 +2028,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE VI.</head>
           <sp who="don-lope" xml:id="IV06-1">
             <l part="F">Astolfe s’est treuué,</l>
             <l n="1188" part="I" xml:id="l1188">Madame,</l>
@@ -2207,7 +2291,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="97, N"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp who="cassandre" xml:id="V01-1">
             <l n="1312" xml:id="l1312">Vous m’estonnez, Beralde, Astolfe ose m’escrire ?</l>
           </sp>
@@ -2296,6 +2382,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp who="isabelle" xml:id="V02-1">
             <l n="1377" xml:id="l1377">Ie ne puis sans pleurer la voir ainsi <ref target="#troublé">troublée*</ref>,</l>
             <l n="1378" xml:id="l1378">Ie souffre les douleurs dont elle est accablée,</l>
@@ -2347,6 +2434,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III. [103]</head>
           <sp who="cassandre" xml:id="V03-1">
             <l n="1407" xml:id="l1407">De ce grand coup de <ref target="#foudre">foudre*</ref> elle a l’<ref target="#esprit">esprit*</ref> frappé.</l>
           </sp>
@@ -2503,6 +2591,7 @@
         </div>
         <div type="scene" xml:id="V04">
           <pb n="110"/>
+          <head>SCENE IV.</head>
           <sp who="cassandre" xml:id="V04-1">
             <l part="F">Dans cette obeïssance,</l>
             <l n="1510" xml:id="l1510">Vous allez voir finir mon regne, &amp; ma puissance :</l>
@@ -2561,6 +2650,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V.</head>
           <sp who="beralde" xml:id="V05-1">
             <l n="1555" xml:id="l1555">Ie viens vous aduertir qu’Astolfe est de retour,</l>
             <l n="1556" xml:id="l1556">Que D. Bernard est libre, &amp; le rameine en cour</l>
@@ -2595,6 +2685,7 @@
         </div>
         <div type="scene" xml:id="V06">
           <pb n="114"/>
+          <head>SCENE VI.</head>
           <sp who="astolfe" xml:id="V06-1">
             <l n="1567" xml:id="l1567">Pourquoy me ramener malgré moy dans ces lieux ?</l>
           </sp>
@@ -2607,6 +2698,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII.</head>
           <sp who="le-dvc" xml:id="V07-1">
             <l n="1573" part="I" xml:id="l1573">Qvoy mon fils de retour.</l>
           </sp>
@@ -2641,6 +2733,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>SCENE VIII.</head>
           <sp who="astolfe" xml:id="V08-1">
             <l n="1587" xml:id="l1587">Voici Cassandre, ô Dieux ! le puis-je encore reuoir,</l>
             <l n="1588" xml:id="l1588">Cét <ref target="#objet">objet*</ref> de ma rage &amp; de mon desespoir,</l>
@@ -2805,6 +2898,7 @@
         </div>
         <div type="scene" xml:id="V09">
           <pb n="123"/>
+          <head>SCENE DERNIERE.</head>
           <sp who="moncade" xml:id="V09-1">
             <l part="F">On n’attend plus que vous,</l>
             <l n="1697" part="I" xml:id="l1697">Madame.</l>
@@ -2849,6 +2943,7 @@
         </div>
       </div>
       <div>
+        <head>Extraict du Priuilege du Roy.</head>
         <p>Le Roy, par ses Lettres Patentes, à permis au Sieur de Bois-Robert Abbé de Chaſtillon ſur Seine, de faire imprimer, vendre &amp; debiter en tous lieux de ſon obeïſſance, deux Pieces de Theatre, intitulées <hi rend="i">la Caſſandre, Comteſſe de Barcelone</hi>, &amp; l’autre, <hi rend="i">la belle Plaideuſe</hi> ; &amp; ce, durant dix ans entiers, à compter du iour que chacune deſdites Pieces ſera acheuée d’imprimer pour la premiere fois : Auec deffenſes à toutes perſones de quelque qualité ou condition qu’elles ſoient, de les imprimer ny vendre, en aucun lieu de l’obeïſſance de ſa Majeſté, ſans le conſentement dudit Sieur de Bois-Robert, ou de ceux qui auront ſon droit, à peine de deux mil liures d’amende, de confiſcation des Exemplaires contrefaits, &amp; de tous deſpens, dommages &amp; intereſt ; à condition qu’il en sera mis deux Exemplaires de chacun deſdits Liures en la Bibliotheque de ſa Majeſté, &amp; vn en celle de Monſieur Molé Garde des Seaux de France, auant que les expoſer en vente, voulant qu’à l’Extraict deſdites Lettres qui ſera mis au commencement ou à la fin deſdits Liures, foy ſoit adiouſtée, &amp; aux copies qui en ſeront deuëment collationnées comme à l’Original. Et que tous Huiſſiers &amp; Sergens Royaux, faſſent pour l’execution d’icelle tous exploits, &amp; ne ce faire ſans demander autre permiſſion, comme il eſt plus au long porté par leſdites Lettres. DONNÉ à Paris le douziéme Mars mil ſix cens cinquante-quatre. Signé par le Roy en ſon Conſeil, CONRARD. Et ſcellé du grand ſceau de cire jaune ſur simple queuë.</p>
         <p>Et ledit Sieur de Bois-Robert Abbé de Chaſtillon, a cedé &amp; tranſporté ſon droit de Priuilege, à Auguſtin Courbé Marchand Libraire à Paris, ſuiuant l’accord fait entr’eux.</p>
         <p rend="center">

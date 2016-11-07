@@ -1,7 +1,56 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'Esprit folet. Comédie</title>
+        <author key="Ouville, Antoine d' (1590?-1656?)">Antoine d'Ourville</author>
+        <editor>Elsa Jollès</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Elsa Jollès dans le cadre d'un mémoire de maîtrise sous la direction de Georges Forestier (2000)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/ouville_esprit-folet/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/ouville_esprit-folet.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/ouville_esprit-folet.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/ouville_esprit-folet.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/ouville_esprit-folet.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1642"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>L’ESPRIT FOLET <lb/>COMEDIE.</head>
       <div xml:id="dedicace">
+        <head>A MADAME <lb/>DE *********</head>
         <p>Madame,</p>
         <p><hi rend="i">Si mon esprit estoit capable de mettre au jour des choses plus sérieuses, je ne vous dédierois point un ESPRIT FOLET, mais des ouvrages aussi excellens que le vostre est capable d’en produire. Tout ainsi que ce foible Esprit qui fait le bouffon de la piece (et qui à bon droit en peut estre nommé le Heros, puisque c’est luy qui fait la plus grande partie du sujet) croit estre enchanté par les choses estonnantes qui se presentent à ses yeux, il n’y a personne qui ne croye l’estre en contemplant les merveilles de vostre visage, que je nomme à bon droit l’Abregé des merveilles de ce siècle.Quoy que vostre modestie m’aye defendu de mettre vostre nom au frontispice de ce Livre, ce titre que je vous donn vous doit faire assez cognoistre de ceux qui ont eu l’honneur de vous avoir veuë, je parle mesme de celle de vostre sexe ; parmy lesquelles, quoy que le monstre d’envie regne tres absolument, il faut pour ce coup qu’il meure, puis que pas une ne vous peut disputer cette qualité, sans perdre avec la veuë la raison et le jugement. Par mon autre piece, qui est toute preste d’esclorre, et qui ne paroistra point en public que sous vostre nom, si vous me le permettez, comme je vous en conjure, on verra que si je fais passer cet ESPRIT FOLET sous vostre protection, ce n’est à autre dessein que pour vous prier d’agreer les sumissions d’une personne autant indigne de vous les rendre, que ce Livre l’est de porter en teste vostre nom, que je revere de sorte, que la principale de mes ambitions est de meriter par mes services la qualité</hi>, </p>
         <p rend="i">MADAME, de </p>
@@ -9,6 +58,7 @@
         <p rend="center">D’OUVILLE.</p>
       </div>
       <div xml:id="sonnet">
+        <head>A MONSIEUR D’OUVILLE,<lb/>SUR SA COMEDIE DE<lb/>L’ESPRIT FOLET.<lb/>SONNET.</head>
         <lg>
           <l n="1">D’OUVILLE, à quel propos charmes-tu nos esprits ?</l>
           <l n="2">Penses-tu nous surprendre, et nous rendre incapables</l>
@@ -34,16 +84,21 @@
         <p>GUILLEMOT</p>
       </div>
       <div xml:id="privilege">
+        <head>PRIVILEGE DU ROY</head>
         <p>LOUIS par la grace de Dieu Roy de France et de Navarre, A nos amez et feaux Conseillers les Gens tenans nos Cours de Parlemens, Maistres des Requestes ordinaires de nostre Hostel, Baillifs, Seneschaux, Prevosts, leurs Lieutenans, et à tous autres de nos Justiciers et officiers qu’il appartiendra, Salut. Nostre cher et bien amé TOUSSAINT QUINET, Marchand Libraire de nostre bonne ville de Paris, Nous a fait remonstrer qu’il desiroit faire imprimer une Comedie intitulée <hi rend="i">L’esprit Folet</hi>. Ce qu’il ne peut faire sans avoir sur ce nos Lettres, humblement nous requerant icelles : A CES CAUSES, desirant traitter favorablement le dit Exposant, nous luy avons permis et permettons par ces presentes, de faire imprimer, vendre et debiter en tous lieux de nostre obeissance ladite Comedie en telles marges et tels caracteres, et autant de fois que bon luy semblera durant l’espace de cinq ans entiers et accomplis, à compter du jour qu’elle sera achevée d’imprimer pour la premiere fois. Et faisons tres-expresses deffences à toutes personnes, de quelque qualité et condition qu’elles soient, de l’imprimer, faire imprimer, vendre ne debiter durant ledit temps en aucun lieu de nostre obeissance sans le consentement de l’Exposant, sous pretexte d’augmentation, correction, changement de titre, fausse marque, ou autre, en quelque sorte et maniere que ce soit,à peine de trois millivresd’amende, payables sans deport, nonobstant depositions ou appellations quelconques par chacun des contrevenans, applicables un tiers à Nous, un tiers à l’Hostel-Dieu de nostre bonne ville de Paris, et l’autre tiers au dit Exposant, confiscation des exemplaires contrefaits, et de tous despens, dommages et interests : A condition qu’il sera mis deux exemplaires en blanc de ladite Comedie en nostre Bibliotheque, et un en celle de nostre cher et feal le sieur Seguier, Chevalier, Chancelier de France, avant que de les exposer en vente, à peine de nullité des presentes, du contenu desquelles nous vous mandons que vous fassiez joüir et user pleinement et paisiblement ledit Exposant, et tous ceux qui auront droict de luy, sans qu’il leur soit donné aucun trouble ny empeschement. Voulons aussi qu’en mettant au commencement ou à la fin de ladite Comedie un extraict des presentes elles soient tenuës pour deuëment signifiées, et que foy y soit ajoutées, et aux coppies d’icelles collationnées par l’un de nos amez et feaux Conseillers et Secretaires comme à l’original. Mandons au premier nostre huissier ou Sergent sur ce requis, de faire pour l’execution des presentes tous exploicts necessaires sans demander autre permission : Car tel est nostre plaisir. Nonobstant Clameur de Haro, Chartre Normande, et autres lettres à ce contraires. Donné à Paris le vingt-troisiesme jour de Decembre l’an de grace 1641. Et de nostre resgne le trentiesme. Signé, Par le Poy en son Conseil, DE MONCEAUX.</p>
         <p rend="center">
           <hi rend="i">Achevé d’imprimer pour la premiere fois le dernier jour de janvier 1642.</hi>
         </p>
         <p rend="center">Les exemplaires ont esté fournis.</p>
       </div>
-      <div xml:id="acteurs"/>
+      <div xml:id="acteurs">
+        <head>ACTEURS</head>
+      </div>
       <div type="act" xml:id="I">
         <pb n="1"/>
+        <head>ACTE I</head>
         <div type="scene" xml:id="I01">
+          <head>Scene première</head>
           <sp who="florestan" xml:id="I01-1">
             <l n="1" xml:id="l1">Oui Paris en effet est l’abregé du monde</l>
             <l n="2" xml:id="l2">Dans l’enclos de ses murs toute merveille abonde,</l>
@@ -81,6 +136,7 @@
         </div>
         <div type="scene" xml:id="I02">
           <pb n="p. 3"/>
+          <head>Scene II</head>
           <sp who="angelique" xml:id="I02-1">
             <l part="F">Si comme je le croy,</l>
             <l n="28" xml:id="l28">Vous estes Gentil-homme,ayez pitié de moy,</l>
@@ -122,6 +178,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <pb n="p. 5"/>
+          <head>Scene III</head>
           <sp who="licidas" xml:id="I03-1">
             <l part="F">Ouy je la veux cognoistre</l>
             <l n="51" xml:id="l51">Avant qu’elle m’eschape, et veux sçavoir pourquoy</l>
@@ -175,6 +232,7 @@
         </div>
         <div type="scene" xml:id="I04">
           <pb n="p. 7"/>
+          <head>Scene IV</head>
           <sp who="lizandre" xml:id="I04-1">
             <l part="F">Que vois-je justes Dieux ?</l>
             <l n="80" xml:id="l80">Doy-je croire en ce poinct ou desmentir mes yeux ?</l>
@@ -293,6 +351,7 @@
         </div>
         <div type="scene" xml:id="I05">
           <pb n="p. 12"/>
+          <head>Scene V</head>
           <sp who="angelique" xml:id="I05-1">
             <l n="141" xml:id="l141">Oste-moy promptement ces habits Isabelle,</l>
             <l n="142" xml:id="l142">Redonne-moy mon deüil, ah ! <ref target="#fortune">fortune*</ref> cruelle,</l>
@@ -387,6 +446,7 @@
         </div>
         <div type="scene" xml:id="I06">
           <pb n="p. 16"/>
+          <head>Scene VI</head>
           <sp who="licidas" xml:id="I06-1">
             <l n="210" part="I" xml:id="l210">Que faites-vous ma sœur ?</l>
           </sp>
@@ -595,6 +655,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>Scene VII</head>
           <sp who="isabelle" xml:id="I07-1">
             <l part="F">Qu’en dites-vous, Madame ?</l>
             <l n="338" xml:id="l338">Celuy que vous aymez d’une secrette flame,</l>
@@ -705,7 +766,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="p. 29"/>
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>Scene première</head>
           <sp who="lizandre" xml:id="II01-1">
             <l n="409" xml:id="l409">Si le <ref target="#courage">courage*</ref> est grand, la maison est estrette,</l>
             <l n="410" xml:id="l410">Pour vous bien recevoir comme je le souhaite.</l>
@@ -738,6 +801,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="p. 31"/>
+          <head>Scene II</head>
           <sp who="licidas" xml:id="II02-1">
             <l n="426" xml:id="l426">C’est moy qui dois pour vous mettre cent fois la vie.</l>
             <l n="427" xml:id="l427">Voilà ce fer, Monsieur, qui fut si malheureux</l>
@@ -771,6 +835,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>Scene III</head>
           <sp who="carrille" xml:id="II03-1">
             <l n="448" xml:id="l448">Au diable mille fois je donne la maison,</l>
             <l n="449" xml:id="l449">Avec ceux qui m’ont fait esgarer par la ruë,</l>
@@ -855,6 +920,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="p. 36"/>
+          <head>Scene IV</head>
           <sp who="carrille" xml:id="II04-1">
             <l n="490" xml:id="l490">Or ça revisitons un peu nostre valize,</l>
             <l n="491" xml:id="l491">Voicy ma bourse, il faut que je voye à la fin</l>
@@ -877,6 +943,7 @@
         </div>
         <div type="scene" xml:id="II05">
           <pb n="p. 37"/>
+          <head>Scene V</head>
           <sp who="isabelle" xml:id="II05-1">
             <l n="507" xml:id="l507">Madame, tout à l’heure on me vient d’advertir</l>
             <l n="508" xml:id="l508">Que vos freres et luy ne font que de sortir.</l>
@@ -1060,6 +1127,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>Scene VI</head>
           <sp who="carrille" xml:id="II06-1">
             <l part="F">Bon, mon fait est tout prest,</l>
             <l n="605" xml:id="l605">Que veut dire cela ? qui m’a fait ce mesnage,</l>
@@ -1084,6 +1152,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>Scene VII</head>
           <sp who="licidas" xml:id="II07-1">
             <l part="F">Dy, qui te fait crier ?</l>
           </sp>
@@ -1167,6 +1236,7 @@
         </div>
         <div type="scene" xml:id="II08">
           <pb n="p. 49"/>
+          <head>Scene VIII</head>
           <sp who="florestan" xml:id="II08-1">
             <l n="661" xml:id="l661">Et bien traistre, qui peut souffrir tes impudences,</l>
             <l n="662" xml:id="l662">Je reçoy mille affronts pour tes impertinences,</l>
@@ -1466,7 +1536,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="p. 60"/>
+        <head>ACTE III</head>
         <div type="scene" xml:id="III01">
+          <head>Scene première</head>
           <sp who="lucinde" xml:id="III01-1">
             <l n="787" xml:id="l787">J’avouë en vérité que vous me surprenez</l>
             <l n="788" xml:id="l788">Jusques au dernier poinct mes sens sont estonnez,</l>
@@ -1728,6 +1800,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>Scene II</head>
           <sp who="lizandre" xml:id="III02-1">
             <l n="941" xml:id="l941">Voulez-vous voir le bal ? vous en prend-il envie ?</l>
             <l n="942" xml:id="l942">Nous vous y conduirons ; croyez qu’en vostre vie</l>
@@ -1770,6 +1843,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>Scene III</head>
           <sp who="florestan" xml:id="III03-1">
             <l n="963" part="I" xml:id="l963">Carrille, que fais-tu ?</l>
           </sp>
@@ -1822,6 +1896,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>Scene IV</head>
           <sp who="isabelle" xml:id="III04-1">
             <l n="983" xml:id="l983">Je sçay qu’ils sont dehors, on m’en vient d’advertir,</l>
             <l n="984" xml:id="l984">Mais j’ignore à present par où je dois sortir,</l>
@@ -1842,6 +1917,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>Scene V</head>
           <sp who="carrille" xml:id="III05-1">
             <l n="999" xml:id="l999">Esprit je te conjure en toute humilité</l>
             <l n="1000" xml:id="l1000"> (Car tu n’es pas, je croy, de basse qualité)</l>
@@ -2095,6 +2171,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>Scene VI</head>
           <sp who="isabelle" xml:id="III06-1">
             <l n="1119" xml:id="l1119">Tout comme je vous dis estoit desesperé,</l>
             <l n="1120" xml:id="l1120">Mais je l’ay sans mentir plaisamment reparé.</l>
@@ -2151,7 +2228,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="p. 86"/>
+        <head>ACTE IV </head>
         <div type="scene" xml:id="IV01">
+          <head>Scene première</head>
           <sp who="angelique" xml:id="IV01-1">
             <l n="1149" xml:id="l1149">Isabelle m’as-tu preparé la lumiere ?</l>
             <l n="1150" xml:id="l1150">Il est temps que je passe à present là derriere,</l>
@@ -2179,6 +2258,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>Scene II</head>
           <sp who="florestan" xml:id="IV02-1">
             <l n="1167" xml:id="l1167">On t’a pris ton flambeau, maraut, je gagerois</l>
             <l n="1168" xml:id="l1168">Qu’on te l’a derobé pendant que tu dormois,</l>
@@ -2240,6 +2320,7 @@
         </div>
         <div type="scene" xml:id="IV03">
           <pb n="p. 90"/>
+          <head>Scene III</head>
           <sp who="angelique" xml:id="IV03-1">
             <l n="1195" xml:id="l1195">Mettons là la chandelle, et voyons ces escrits.</l>
           </sp>
@@ -2467,6 +2548,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <pb n="p. 99"/>
+          <head>Scene IV</head>
           <sp who="florestan" xml:id="IV04-1">
             <l n="1348" xml:id="l1348">Tout est fermé, Madame, avec de bons verrous,</l>
             <l n="1349" xml:id="l1349">Contez-moy, mais grands Dieux, qu’est-elle devenuë ?</l>
@@ -2651,6 +2733,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>Scene V</head>
           <sp who="lucinde" xml:id="IV05-1">
             <l n="1437" part="I" xml:id="l1437">Que me comptez-vous là, grands Dieux ?</l>
           </sp>
@@ -2702,7 +2785,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="p. 109"/>
+        <head>ACTE V</head>
         <div type="scene" xml:id="V01">
+          <head>Scene première</head>
           <sp who="isabelle" xml:id="V01-1">
             <l n="1461" xml:id="l1461">Permettez-moy, Monsieur, qu’en ce lieu je vous laisse,</l>
             <l n="1462" xml:id="l1462">Je m’en vay de ce pas advertir ma Maistresse,</l>
@@ -2773,6 +2858,7 @@
         </div>
         <div type="scene" xml:id="V02">
           <pb n="p. 112"/>
+          <head>Scene II</head>
           <sp who="carrille" xml:id="V02-1">
             <l n="1508" xml:id="l1508">C’est à ce coup, Monsieur, que je suis <ref target="#enchanter">enchanté*</ref>.</l>
           </sp>
@@ -3012,6 +3098,7 @@
         </div>
         <div type="scene" xml:id="V03">
           <pb n="p. 121"/>
+          <head>Scene III</head>
           <sp who="angelique" xml:id="V03-1">
             <l n="1639" part="I" xml:id="l1639">Apelle-t’on ?</l>
           </sp>
@@ -3156,6 +3243,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>Scene IV</head>
           <sp who="florestan" xml:id="V04-1">
             <l n="1701" xml:id="l1701">Nous sommes, que je croy, veu cette obscurité</l>
             <l n="1702" xml:id="l1702">Dans quelque cabinet en lieu de seureté,</l>
@@ -3231,6 +3319,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>Scene V</head>
           <sp who="licidas" xml:id="V05-1">
             <l n="1730" part="I" xml:id="l1730">Quoy donc, c’est Florestan ?</l>
           </sp>
@@ -3355,6 +3444,7 @@
         </div>
         <div type="scene" xml:id="V06">
           <pb n="p. 134"/>
+          <head>Scene VI</head>
           <sp who="angelique" xml:id="V06-1">
             <l n="1811" part="I" xml:id="l1811">Que me dis-tu, grands dieux !</l>
           </sp>
@@ -3389,6 +3479,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>Scene VII et derniere</head>
           <sp who="lizandre" xml:id="V07-1">
             <l n="1825" xml:id="l1825">Où vas-tu mal-heureuse ? et vous Lucinde aussi</l>
             <l n="1826" xml:id="l1826">Où l’accompagnez-vous ? quel desordre est-ce icy ?</l>

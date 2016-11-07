@@ -1,7 +1,56 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Triomphe des cinq passions. Tragi-comédie.</title>
+        <author key="Gillet de La Tessonerie (1619?-166.?)">Gillet de la Tessonnerie</author>
+        <editor>Bran Raluca-Dana</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie en 1999 dans le cadre d'un mémoire de maîtrise</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/gillet_triomphe-passions/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/gillet_triomphe-passions.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/gillet_triomphe-passions.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/gillet_triomphe-passions.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/gillet_triomphe-passions.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1642"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>Le Triomphe des cinq passions <lb/>TRAGI-COMÉDIE</head>
       <div xml:id="dedicace">
+        <head>A MONSIEUR <lb/>D'HEMERY <lb/>CONSEILLER DU ROY <lb/>EN SES CONSEILS , ET INTENDANT DE SES FINANCES</head>
         <p>MONSIEUR,</p>
         <p>Il me sieroit mal de vouloir faire l’Orateur, et d’emprunter les beautez de l’Eloquence pour dépeindre en cette Epistre celles de vostre Esprit. Je sais que vous estes de ceux que l’artifice offence, et que comme il est desadvantageux de farder ceux qui naturellement ont tous les advantages que l’on pourrait souhaitter, que de mesme c’est diminuer de vostre gloire, que de vouloir l’augmenter avec des flatteries. Pour vous faire aimer il ne faut que vous faire veoir comme vous estes, et pour avoir une approbation universelle il ne faut seulement qu’estre <ref target="#advouer">advoüé*</ref> de vous. Aussi, MONSIEUR, confessay-je ingenuëment que je viens à vous à dessein d’y trouver ce que je donnerois aux autres, et d’acquerir un renom immortel à ma plume en vous consacrant un de mes ouvrages, comme les autres le recevraient de moi si je les employois en leur faveur. Recevez-le, donc, MONSIEUR, avec autant de bonté que j’ai de zele à vous offrir, et considérez que c’est le respect que je vous porte, qui m’empesche de m’estendre davantage sur vos loüanges, et qui m’oblige de me resserer en un champ si grand et si vaste , puisque je croirois vous faire tort si je desrobois à l’Histoire de France, (que j’espère de faire un jour) un de ses plus riches ornemens pour en parer un ouvrage de cette Nature. Je veux donc aujourd’hui faire vanité de mon silence pour monstrer dedans peu la raison qui m’y contraignoit, et demeureray satisfait de tesmoigner à nos Nepveux qu’apres vous avoir veu brillant d’une gloire dont les plus grands Esprits n’ont eu que l’ombre, cette belle contemplation a jetté tout d’un coup mon Esprit dans une telle admiration qu’elle m’a ravy comme hors de moy-mesme, ne permettant pas à ma plume de passer outre, et ne m’accordant pour toute grace que la liberté de me dire,</p>
         <p>MONSIEUR,</p>
@@ -9,29 +58,52 @@
         <p rend="right">GILLET.</p>
       </div>
       <div xml:id="avertissement">
+        <head>ADVERTISSEMENT <lb/>AU LECTEUR.</head>
         <p>Je ne veux point me forger des monstres pour les combattre; ce n’est pas que je veuille conclure de là que cét ouvrage soit sans aucunes fautes, mais seulement faire entendre que j’ignore l’endroit où elles sont. J’ai assez d’humilité pour advoüer qu’il peut y avoir plusieurs defauts, mais je n’ai pas assez de cognoissance pour les appercevoir : Si j’eusse pû faire ce discernement, les absurditez en seroient maintenant moins grandes, ou le nombre plus petit. Je suis donc bien esloigné de pouvoir deffendre ce Poëme des erreurs dont on voudra l’accuser, puisque je ne les cognois pas, et que je ne puis voir de quoy il est coupable. Tout ce que je puis faire en sa faveur est de parler de l’intention de son subjet, et de considerer à part le dessein de chacun Acte. Je n’entreprends point de discourir; ny des pensees de tout l’œuvre, ny de leur expression, ny de la façon des vers; Je me mettrois au hazard de ressembler à celuy dont se mocque le Rhetoricien, qui fit un volume de censures plus ample que n’estoit celuy qu’il condamnoit. Je dis de tout le corps de la piece devant que de venir à la dissection des parties, que mon idee en la conception de cét ouvrage estoit de representer combien absoluë est la tyrannie que les passions exercent sur l’esprit de l’homme quand une fois il s’est laissé sousmettre à leur empire. Tantost je les dépeins comme les Stoïciens qui les qualifiaient du nom de maladies d’esprit, et le plus souvent aussi comme les Peripateticiens et les Sectateurs de l’Academie de Platon qui les tenoient indifferentes, et ne les approuvent ou <ref target="#improuver">improuvent*</ref> que lors que l’application en est bonne ou mauvaise. Je n’ai pas pris peine à suivre plustost le sentiment des uns que des autres, si ce n’est au roolle de l’Enchanteur où l’on peut dire qu’il joüe le personnage d’un Stoïque. Je sçay que la liberté est la mere nourrice de la Poësie, et que cette fille l’aime tendrement, c’est pourquoy je la luy ay voulu laisser toute entiere. Si la carriere eust esté de plus grande estenduë, j’eusse fait prendre l’effort à toutes ces harpies ; mais elles eussent paru trop confusément en un petit espace, et l’on n’auroit peu les distinguer. J’ay pris mes mesures selon celles du Poëme Dramatique, et dans toute cette multitude je n’en ay choisi que cinq dont j’ay fait les cinq Actes. J’ay permis à l’espece et au genre d’entrer indifferemment en ce nombre, sans vouloir y recevoir plustost les universelles que les particulieres. Le premier Acte est intitulé l’honneur, et pource que ce mot est homonyme, j’advertis le Lecteur de ne le prendre pas à la lettre, mais bien pour un desir effrené d’acquerir des
           loüanges. Autrement il y auroit une double absurdité, car outre que le mot d’honneur simplement entendu n’est point une passion, c’est que l’Histoire de Manlie ne luy appartient point encore. J’emploie deux vers du sixiesme de l’Eneide de Virgile contre ceux qui voudront soustenir que l’honneur, comme je l’entends, n’est point une passion, ou que l’Histoire de Manlie n’en est point un <ref target="#effet">effect*</ref>. Par eux ce grand Poëte condamne la dureté de Iunius Brutus en une action pareille à celle dont il s’agit, et semble déplorer l’aveuglement de ce pere dénaturé, lequel emporté du desir d’acquerir des loüanges, fit impitoyablement mourir ses deux enfans, et les immola à cette passion déreiglee, ces vers sont tels.</p>
+        <quote>
+          <p>In felix utrumque ferent ea fata minoris,</p>
+          <p><hi rend="i">Vincet amor patriæ, laudumque immensa cupido</hi>.</p>
+        </quote>
         <p>Le second Acte est un tableau de l’ambition. Nul n’ignore que ces deux passions, l’honneur et l’ambition ne soient les branches d’une mesme tige qui est le desir, leur difference consiste en celle de leur objets; l’une regarde pour son but l’estime et les loüanges, l’autre tend aux grandes et sublimes dignitez ; c’est là qu’elle se repose, si l’on peut dire que l’ambition soit capable d’avoir jamais aucun repos. Je crois qu’il me seroit superflu de parler du sujet, l’exemple est assez bien appliqué, ce me semble, et je ne pense pas qu’il se trouve personne qui ne l’approuve.</p>
         <p>Quelques uns, amateurs de la vérité de l’Histoire, auront de la peine à souffrir que dans le troisiesme Acte, où j’ai representé la passion d’amour, j’aye fait commettre au jeune Antioque une seconde faute contre son devoir, pour s’estre ouvert à sa belle mere, et luy avoir declaré son amour; mais je les prie de penser que si j’eusse fait paroistre sur le Theatre avec la mesme reverence et la mesme <ref target="#discretion">discretion*</ref> qu’il a dans l’Histoire, qu’on luy auroit plustost donné des loüanges que du blasme: Ainsi je me serois fourvoyé de la route que je veux tenir, et j’aurois fait en l’esprit des Auditeurs une impression toute contraire à celle que je me suis propose pour but et pour fin.</p>
         <p>Le quatriesme est l’Histoire d’Emilie ; je ne croy pas qu’on me nie que ce ne soit l’exemple d’une veritable jalousie ; Plutarque est ma caution en ses Collations des Histoires Grecques et Romaines, comme aussi de l’Histoire de Bisathie, et c’est apres ce Philosophe que je la traitte comme un <ref target="#effet">effect*</ref> de cette passion si cognuë dans le monde.</p>
         <p>Le dernier est de la hayne. J’advouë qu’on le peut aussi donner à la colere, bien que ces deux passions soient assez differentes entr’elles, et je me serois à la fin persuadé que l’exemple de Bisathie le devoit estre seulement de la colere, si je n’y avois apperceu cette difference qui appartient à la haine, c’est que la colere ne persiste pas, et bien souvent s’appaise à la moindre satisfaction ; et que la hayne au contraire ne desiste point qu’elle n’ait veu perir entierement son objet, comme a fait cette femme qui ne pust jamais s’appaiser qu’elle n’eust fait mettre à mort celuy qu’elle hayssoit.</p>
         <p>Je ne parleré point de l’invention du subjet, bien qu’il ne fut pas hors de propos ny hors de besoin, car je ne redoute point qu’elle n’ait esté <ref target="#syndiquer">sindiquee*</ref> de la pluspart de nos çenseurs, qui se montrent plus Religieux en l’observance des loix Chimeriques du Theatre, qu’en l’accomplissement des Statuts qui concernent leur salut. Quant cet ouvrage n’auroit de beau que sa nouveauté, c’est assez pour exciter l’envie à vomir son venin à l’encontre. Mais que ces Messieurs en dient ce qu’il leur plaira, tousjours est-il vray que la piece toute deffectueuse qu’elle est, peut donner de l’instruction. Le plaisir que sa diversité apporte est accompagné d’utilité, le merveilleux et l’hystorique s’y rencontre, et l’on peut dire en son honneur ce vers d’un de nos maistres, desja tant de fois allegué.</p>
+        <quote>
+          <p>
+            <hi rend="i">Omne tulit punctum qui miscuit utile dulci.</hi>
+          </p>
+        </quote>
         <p>Adieu, pardonne-moy les fautes d’Impression, que mes affaires ne m’ont pas donné le loisir de corriger.</p>
       </div>
       <div xml:id="privilege">
+        <head>Privilege du roy</head>
         <p>LOUIS PAR LA GRACE DE DIEU, ROY DE FRANCE ET DE NAVARRE : A nos amez et feaux Conseillers les gens tenans nos Cours de Parlement, Maistres des Requestes ordinaires de nostre Hostel, Baillifs, Seneschaux, Prevosts, leurs Lieutenans, et à tous autres de nos Justiciers et Officiers qu’il appartiendra, Salut. Nostre cher et bien aimé TOUSSAINCT QUINET, Marchand Libraire de nostre bonne ville de Paris. Nous a fait remonstrer qu’il desireroit faire Imprimer une piece de Theatre intitulees, <hi rend="i">Le Triomphe des cinq Passions</hi> : Ce qu’il ne peut faire sans avoir sur ce nos Lettres, humblement nous requerant icelles. A CES CAUSES, desirant traitter favorablement ledit exposant, Nous luy avons permis et permettons par ces presentes, de faire Imprimer, vendre et debiter en tous les lieux de nostre obeyssance ledit Livre, en telles marges, en tels caractères, et autant de fois que bon luy semblera, durant l’espace de cinq ans entiers et accomplis, à compter du jour qu’il sera achevé d’Imprimer pour la premiere fois. Et faisons tres-expresses defences à toutes personnes de quelque qualité et condition qu’elles soient, de l’imprimer ou faire imprimer, vendre ny debiter durant ledit temps, en aucun lieu de nostre obeyssance sans le consentement de l’exposant, soubs pretexte d’augmentation, correction, changement de titre, fausses marques, ou autres en quelque sorte ou maniere que ce soit: A peine de trois mil livres amende payables sans déport, et nonobstant oppositions ou appelations quelconques par chacun des contrevenans, appliquable un tiers à nous, un tiers à l’Hostel Dieu de nostre bonne ville de Paris, et l’autre tiers audit exposant, confiscation des exemplaires contrefaits, et de tous despens, dommages et interests : A condition qu’il sera mis deux exemplaires en blanc de seits livres en nostre Biblioteque publique, et un en celle de nostre tres cher et feal le sieur Seguier Chevalier, Chancelier de France, avant que de les exposer en vente, à peine de nullité des presentes : Du contenu desquelles, Nous vous mandons que vous fassiez joüyr et user plainement et paisiblement ledit exposant, et tous ceux qui auront droit de luy, sans qu’il leur soit donné aucun trouble ny empeschement. Voulons aussi qu’en mettant au commencement ou à la fin dudit Livre, un extraict des presentes, elle soit tenuës pour deuëment signifies, et que foy y soit adjoustee, et aux coppies collationnees par l’un de nos amez et feaux Conseillers et Secretaires comme aux Originaux. Mandons au premier nostre Huissier ou Sergent sur ce requis, de faire pour l’expedition des presentes tous exploicts necessaires, sans demander autre permission CAR TEL est nostre palisir, nonobstant clameur de Haro, Chartres Normande, et autres Lettres à ce contraires. Donné à Paris le vingt-septiesme jour de Fevrier, l’an de grace mil six cens quarante deux ; et de nostre regne le trente deuxieseme. Par le Roy en son Conseil.</p>
         <p>LE BRUN.</p>
         <p>Les exemplaires ont esté fournis.</p>
         <p rend="i">Achevé d’imprimer pour la premiere fois le dernier Juin 1642.</p>
       </div>
       <div type="set" xml:id="acteurs">
-        <div/>
-        <div/>
-        <div/>
-        <div/>
-        <div/>
+        <head>PERSONNAGES. <lb/>des cinq Passions.</head>
+        <div>
+          <head>PREMIER ACTE</head>
+        </div>
+        <div>
+          <head>SECOND ACTE.</head>
+        </div>
+        <div>
+          <head>TROISIESME ACTE.</head>
+        </div>
+        <div>
+          <head>QUATRIESME ACTE.</head>
+        </div>
+        <div>
+          <head>CINQUIESME ACTE.</head>
+        </div>
       </div>
       <div xml:id="argument-premier-acte">
+        <head>ARGUMENT DU PREMIER ACTE</head>
         <p>Arthemidore Gentil-homme Grec ayant l’esprit embarassé de vaine gloire, d’ambition, d’amour, de jalousie, et de fureur, va trouver un sçavant Enchanteur qui demeuroit en la ville d’Athenes, et le priant de le guerir des douleurs qui le tourmentoient, luy descouvre sa blessure, et luy declare ingenuëment sa foiblesse, lors l’Enchanteur tasche de le</p>
         <p>soulager par des raisons fortes et convaincantes : mais voyant qu’il falloit un charme plus puissant pour le faire rendre, il se resout de faire un effort merveilleux, et de rapporter des Enfers des heros les plus signalez de l’antiquité, pour luy monstrer comme les passions qui le tyranisoient alors estoient dangereuses, puisqu’elles avoient autrefois causé la perte de ces grands hommes qu’il luy vouloit faire voir, l’ayant donc fait entrer en un lieu</p>
         <p>propre pour ce mystere, il luy impose le silence et l’advertit d’escouter attentivement tous <space> </space>les discours que ces Fanthomes parlans tiendroient afin de tirer du profit de leurs mal-heurs, lors ayant proferé quelques paroles, on voit tout d’un coup sortir le vieil Manlie Capitaine Romain, qui pour conserver sa gloire, et signaler son nom à la posterité , fit trancher la teste à son propre fils pour avoir combatu sans son ordre, quoy qu’il fut</p>
@@ -41,7 +113,9 @@
       </div>
       <div xml:id="I" type="act">
         <pb n="1 A"/>
+        <head>LE TRIOMPHE <lb/>DES CINQ <lb/>PASSIONS. <lb/>ACTE I.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="l-enchanteur">
             <l n="1" xml:id="l1">Toy qu’un sage dessein amene dans ces lieux,</l>
             <l n="2" xml:id="l2">Pour rompre le bandeau qui t’aveugle les yeux,</l>
@@ -124,6 +198,7 @@
         </div>
         <div type="scene" xml:id="I02">
           <pb n="5" xml:id="p5"/>
+          <head>SCENE II.</head>
           <sp xml:id="I02-1" who="manlie">
             <l n="67" xml:id="l67">Quoy ? donc il est certain ; ah funeste nouvelle !</l>
             <l n="68" xml:id="l68">Ah pere miserable ! ah fortune cruelle !</l>
@@ -220,6 +295,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <pb n="9 B"/>
+          <head>SCENE III</head>
           <sp xml:id="I03-1" who="manlie">
             <l n="124" xml:id="l124" part="I">Ah! Nature,</l>
           </sp>
@@ -400,6 +476,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="manlie">
             <l part="F">Monstre toy mon courage,</l>
             <l n="273" xml:id="l273">C’est dedans cest assaut qu’il faut vaincre ou perir,</l>
@@ -460,6 +537,7 @@
         </div>
         <div type="scene" xml:id="I05">
           <pb n="19 C ij"/>
+          <head>SCENE V.</head>
           <sp xml:id="I05-1" who="harmenie">
             <l n="327" xml:id="l327" part="I">Seigneur,</l>
           </sp>
@@ -584,6 +662,7 @@
         </div>
         <div type="scene" xml:id="I06">
           <pb n="24" xml:id="p24"/>
+          <head>SCENE VI.</head>
           <sp xml:id="I06-1" who="arphace">
             <l n="414" xml:id="l414">Ah! Sire, c’est en vain qu’un remord vous travaille,</l>
           </sp>
@@ -618,6 +697,7 @@
       </div>
       <div xml:id="argument-second-acte">
         <pb n="25 D"/>
+        <head>ARGUMENT DU SECOND ACTE.</head>
         <p>Arthemidore ayant veu representer l’Histoire de Manlie demeure <ref target="#estonner">estonné*</ref>, mais l’Enchanteur l’ayant adverti qu’il se preparast de veoir d’autres merveilles luy promets de le guerir de l’ambition dont il estoit preoccupé, et le faict entrer aux mesmes lieux où il avoit veu le premier spectacle. Lors l’on voit entrer Pharasme Roy d’Hiberie, qui dit</p>
         <p>pour quelles raisons il assiegeoit son frere Mithridate Roy d’Harmenie, et declare à son confident que son fils Radamiste avoit un ambition si puissante qu’il luy avoit declaré qu’il vouloit son Estat, et que ne voulant pas le priver de vie; il luy avoit promis de luy faire avoir la Couronne de son frere, mais que<pb n="26" xml:id="p26"/> voyant qu’il ne se contenteroit pas de son Royaume, et qu’il le traiteroit avec toute rigueur; il se repentoit de ce qu’il avoit fait.</p>
         <p>Lors le Fils entre avec le Gouverneur de la ville où estoit Mithridate, qui promet de la livrer: et le pere s’y voulant opposer, le fils transporté d’ambition luy parle mal à propos, et l’oblige de l’abandonner : lors le fils donne ordre qu’entrant dans la ville avec le Gouverneur on passa tout par le fil de l’espée, et quelque temps apres luy venant dire que les gens sont entrez dans la ville, mais que Mithridate s’est sauvé dans un Chasteau qui</p>
@@ -625,7 +705,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="27 D ij" xml:id="p27"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="II01-1" who="l-enchanteur">
             <l n="425" xml:id="l425">Rappelle ton esprit, tes yeux et tes oreilles;</l>
             <l n="426" xml:id="l426">Et bien loing d’admirer de communes merveilles,</l>
@@ -686,6 +768,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <pb n="30" xml:id="p30"/>
+          <head>SCENE II.</head>
           <sp xml:id="II02-1" who="pharasmane">
             <l n="475" xml:id="l475">Puisque tu veux sçavoir d’où provient ma tristesse,</l>
             <l n="476" xml:id="l476">Et qu’il faut malgré moy te tenir ma promesse,</l>
@@ -775,6 +858,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp xml:id="II03-1" who="mitridate">
             <l n="535" xml:id="l535">Pharasmane, advancez, non pas comme adversaire,</l>
             <l n="536" xml:id="l536">Mais comme un sage Prince ou plustost comme un frere,</l>
@@ -911,6 +995,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="39" xml:id="p39"/>
+          <head>SCENE IV.</head>
           <sp xml:id="II04-1" who="radamiste">
             <l n="626" xml:id="l626">Enfin nous le tiendrons ce <ref target="#superbe">superbe*</ref> chasteau</l>
             <l n="627" xml:id="l627">Sans combler ses fossez, ny <ref target="#sapper">sapper*</ref> ses murailles,</l>
@@ -1079,6 +1164,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <sp xml:id="II05-1" who="radamiste">
             <l n="726" xml:id="l726">He bien ! nous perirons quand il faudra perir,</l>
             <l n="727" xml:id="l727">Je prepare mon ame aux plus rudes tempestes,</l>
@@ -1100,6 +1186,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>SCENE VI.</head>
           <sp xml:id="II06-1" who="radamiste">
             <l n="743" xml:id="l743" part="I">He bien !</l>
           </sp>
@@ -1144,6 +1231,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>SCENE VII.</head>
           <sp xml:id="II07-1" who="radamiste">
             <l n="764" xml:id="l764">Va viste, c’est ainsi qu’un conquerant s’explique,</l>
             <l n="765" xml:id="l765">Il doit par la rigueur appuyer ses projets,</l>
@@ -1178,6 +1266,7 @@
         </div>
         <div type="scene" xml:id="II08">
           <pb n="50" xml:id="p50"/>
+          <head>SCENE VIII.</head>
           <sp xml:id="II08-1" who="le-page">
             <l n="793" xml:id="l793">Sire, je venois dire à vostre Majesté,</l>
             <l n="794" xml:id="l794" part="I">Qu’Orcas,</l>
@@ -1239,6 +1328,7 @@
       </div>
       <div xml:id="argument-troisieme-acte">
         <pb n="53" xml:id="p53"/>
+        <head>ARGUMENT DU TROISIESME ACTE.</head>
         <p><space> </space>Arthemidore ayant veu les mal-heureux effets qu’avoit produit l’ambition en la <space> </space>personne de Radamiste, est touché vivement : et faisant reflexion dessus luy-mesme se resout pour exempter sa vie des mal-heurs dont elle le menassoit de donner la mort à cette Passion, mais l’Enchanteur sçachant que l’amour qui le tyrannisoit n’avoit pas sur son</p>
         <p>esprit un moindre empire que l’ambition le fait entrer dans le Temple et luy faict veoir les violences où cest autre passion le reduiroit par l’exemple d’Antioque fils de Seleuque, lequel estant devenu passionnement amoureux de Stratonice sa belle mere en perdoit le repos, et le jour et la nuict, et ne goustoit aucun<pb n="54" xml:id="p54"/> contentement parmy tant de felicitez, dont la Cour de son pere abondoit. Il luy fait voir comme il est impossible de chasser de</p>
         <p>chez nous ce tyran lors que nous avons permis qu’il s’en rendit le maistre, et qu’il faut d’abord le repousser si l’on veut triompher, et n’en point estre vaincu : il luy monstre ce malheureux amant qui se descouvre à celle qu’il aimoit le plus respectueusement qu’il pouvoit, mais s’en voyant traicté rigoureusement, et croyant qu’elle s’en plaindroit à son pere, il se resout de sortir de la vie plustost que de se repentir de son amour : et son</p>
@@ -1247,7 +1337,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="55" xml:id="p55"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE I.</head>
           <sp xml:id="III01-1" who="arthemidore">
             <l n="841" xml:id="l841">Ouy, je reconnois bien que cette ambition</l>
             <l n="842" xml:id="l842">Ne nous peut apporter que de l’affliction,</l>
@@ -1290,6 +1382,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp xml:id="III02-1" who="antioque">
             <l n="875" xml:id="l875">Enfin je me voy seul et <ref target="#las">las*</ref> de me contraindre,</l>
             <l n="876" xml:id="l876">Je puis en liberté souspirer et me plaindre :</l>
@@ -1367,6 +1460,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III.</head>
           <sp xml:id="III03-1" who="antioque">
             <l n="948" xml:id="l948" part="I">He bien ! que me veux-tu,</l>
           </sp>
@@ -1412,6 +1506,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp xml:id="III04-1" who="stratonice">
             <l n="974" xml:id="l974">Monsieur, je ne sçaurois laisser passer un jour</l>
             <l n="975" xml:id="l975">Sans venir prendre part dedans vostre infortune,</l>
@@ -1661,6 +1756,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp xml:id="III05-1" who="antioque">
             <l n="1153" xml:id="l1153">Ah Dieux ! elle s’en va, mal-heureux Antioque :</l>
             <l n="1154" xml:id="l1154">Enfin reconnois-tu que ton amour la choque,</l>
@@ -1685,6 +1781,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI.</head>
           <sp xml:id="III06-1" who="pericles">
             <l n="1173" xml:id="l1173" part="I">Monsieur, je crois qu’il dort,</l>
           </sp>
@@ -1790,6 +1887,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>SCENE VII.</head>
           <sp xml:id="III07-1" who="antioque">
             <l part="F">Il voulait feindre en vain,</l>
             <l n="1216" xml:id="l1216">Et j’ay bien reconnu quel estoit son dessein,</l>
@@ -1838,13 +1936,16 @@
       </div>
       <div xml:id="argument-quatrieme-acte">
         <pb n="79" xml:id="p79"/>
+        <head>ARGUMENT DU QUATRIESME ACTE.</head>
         <p>Arthemidore ayant veu les mal-heureux effects que l’amour avoit causez en la personne d’Antioque, prie l’Enchanteur de guerir encor son esprit de la jalousie dont il estoit preoccupé. Ce qu’il fait aussi-tost, luy proposant l’Histoire d’Emilie Gentil-homme de la ville de Sybaris, lequel avoit une jeune femme tellement amoureuse de luy, qu’elle</p>
         <p>passa de l’excés de l’amour à celuy de la jalousie : Ce qui faisoit qu’il ne pouvoit <space> </space>s’éloigner d’elle, qu’elle ne crût que s’estoit à dessein de la tromper : tellement qu’un jour comme il sortoit de grand matin pout aller à la chasse, elle le suivit, et le voulans observer se cacha<pb n="80" xml:id="p80"/> dans un <ref target="#bocage">bocage*</ref> : mais son mary voyant remuer des feuilles, et pensant que ce fut quelque proye tirant dessus la blessa dans le bras, ce qu’ayant</p>
         <p>recogneu il se desespere et détrompe le mieux qu’il pût, cette femme que les Dieux avoient punie par la main, et cause de cét exercice jalousie qui l’aveugloit sans cesse, et l’empeschoit de leur rendre les devoirs que leurs puissances souveraines exigent de tous les mortels.</p>
       </div>
       <div xml:id="IV" type="act">
         <pb n="81 L"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="arthemidore">
             <l n="1257" xml:id="l1257">Je connois maintenant la force de ces <ref target="#flamme">flâmes*</ref>,</l>
             <l n="1258" xml:id="l1258">Qu’un <ref target="#indiscret">indiscret*</ref> amour allume dans nos ames,</l>
@@ -1882,6 +1983,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II.</head>
           <sp xml:id="IV02-1" who="alphee">
             <l n="1285" xml:id="l1285">Madame, triomphez de cette jalousie,</l>
             <l n="1286" xml:id="l1286">Estouffez ce boureau de vostre <ref target="#fantaisie">fantaisie*</ref>,</l>
@@ -1978,6 +2080,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <sp xml:id="IV03-1" who="megiste">
             <l part="F">c’est ce qu’enfin j’en ai pû reconnoistre,</l>
           </sp>
@@ -2016,6 +2119,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <pb n="89 M"/>
+          <head>SCENE IV.</head>
           <sp xml:id="IV04-1" who="martiane">
             <l part="F">ah ! miserable,</l>
           </sp>
@@ -2296,6 +2400,7 @@
       </div>
       <div xml:id="argument-cinquieme-acte">
         <pb n="101" xml:id="p101"/>
+        <head>ARGUMENT DU V<hi rend="sup">e</hi> ACTE.</head>
         <p>L’Enchanteur ayant fait voir l’Histoire d’Emilie à Arthemidore, recognoit un grand changement en son esprit, voit clairement des marques de l’impression que ces exemples avoit fait sur luy : ce qui l’oblige de le faire encor r’entrer dans le Temple, pour luy monstrer en l’Histoire de Bisathie le tort que nous faisons, de croir aux premiers</p>
         <p>mouvemens que nous inspire la fureur et la hayne; car cette pauvre Infante estant devenuë esperdument amoureuse de Calpurnie, que son pere (le Roy des Massiliens) vouloit immoller, elle le <ref target="#garantir">garantit*</ref>, et pour le sauver le cache en une maison d’une de ses confidantes mais ce malheureux Amant ayant trouvé l’occasion de sortir des terres de son pere en sortant de cette maison, s’enfuit avec le dessein de revenir voir Bisathie avec plus</p>
         <p>de seureté pour luy : mais lors qu’elle fut advertie de son départ, la colere l’aveuglant elle conçoit une hayne si grande contre<pb n="102" xml:id="p102"/> luy, qu’elle promet ses biens et sa personne à quiconque r’ameneroit ce fugitif, et l’ayant en sa puissance ne veut point escouter ses raisons, le remet entre les mains de son pere, qui de sa chambre l’envoye au supplice, et laisse sa fille seule, qui commence à faire reflexion sur ce qu’elle avoit fait, et quelque</p>
@@ -2304,7 +2409,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="103" xml:id="p103"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="V01-1" who="arthemidore">
             <l n="1595" xml:id="l1595">Ouy, tirant du profit de ces enchantemens</l>
             <l n="1596" xml:id="l1596">Je commence à quitter mes premiers sentimens,</l>
@@ -2345,6 +2452,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II.</head>
           <sp xml:id="V02-1" who="bisathie">
             <l n="1629" xml:id="l1629">Ouy, j’aimay ce perfide, et dans ma <ref target="#flamme">flâme*</ref> extréme,</l>
             <l n="1630" xml:id="l1630">Il m’estoit plus sensible et plus cher que moy-méme,</l>
@@ -2376,6 +2484,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp xml:id="V03-1" who="bisathie">
             <l part="F">Hé bien le verrons-nous,</l>
           </sp>
@@ -2426,6 +2535,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV.</head>
           <sp xml:id="V04-1" who="le-page">
             <l n="1697" xml:id="l1697">Madame, on dit là bas que Philidan arrive,</l>
           </sp>
@@ -2449,6 +2559,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V.</head>
           <sp xml:id="V05-1" who="bisathie">
             <l n="1709" xml:id="l1709">O Dieux, pourré-je veoir cet objet de ma honte</l>
             <l n="1710" xml:id="l1710">Sans arracher ses yeux causes de mon erreur:</l>
@@ -2504,6 +2615,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE VI.</head>
           <sp xml:id="V06-1" who="bisathie">
             <l n="1760" xml:id="l1760">Mais, ô Dieux, le voicy qu’on l’oste, qu’on l’entraisne,</l>
             <l n="1761" xml:id="l1761">Non, je ne veux point veoir cet objet de ma haine,</l>
@@ -2646,6 +2758,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII.</head>
           <sp xml:id="V07-1" who="felismene">
             <l n="1850" xml:id="l1850" part="I">Voicy le Roy, Madame,</l>
           </sp>
@@ -2689,6 +2802,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>SCENE VIII.</head>
           <sp xml:id="V08-1" who="le-roy">
             <l n="1874" xml:id="l1874">Pour toy dont l’imprudence est digne d’un suplice,</l>
             <l n="1875" xml:id="l1875">Ton crime te soubmet aux loix de ma justice,</l>
@@ -2708,6 +2822,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V09">
+          <head>SCENE IX.</head>
           <sp xml:id="V09-1" who="philidan">
             <l n="1889" xml:id="l1889">Vostre cœur a le bien qu’il avoit souhaitté,</l>
             <l n="1890" xml:id="l1890">Madame, auray-je enfin le bon-heur que j’espere :</l>
@@ -2740,6 +2855,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V10">
+          <head>SCENE X.</head>
           <sp xml:id="V10-1" who="bisathie">
             <l part="F">Il s’en va ce miserable <ref target="#amant">amant*</ref></l>
             <l n="1897" xml:id="l1897">Dessuz un eschaffaut mourir honteusement,</l>
@@ -2766,6 +2882,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V11">
+          <head>SCENE XI.</head>
           <sp xml:id="V11-1" who="le-page">
             <l n="1913" xml:id="l1913" part="I">Madame, le rebelle,</l>
           </sp>
@@ -2840,6 +2957,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V12">
+          <head>SCENE XII.</head>
           <sp xml:id="V12-1" who="l-enchanteur">
             <l n="1962" xml:id="l1962">Tu me presses en vain d’en monstrer davantage,</l>
             <l n="1963" xml:id="l1963">Il faut pour aujourd’huy terminer cet ouvrage,</l>

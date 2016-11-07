@@ -1,8 +1,59 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Mary sans femme. Comédie</title>
+        <author key="Montfleury, Antoine Jacob (1639-1685)">Antoine Jacob Montfleury</author>
+        <editor>Gwendolyn Kergoulay</editor>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Gwendolyn Kergoulay dans le cadre d'un mémoire de
+          master 1 sous la direction de Georges Forestier (2010)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/montfleury_mary-femme-manuscrit/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/montfleury_mary-femme-manuscrit.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/montfleury_mary-femme-manuscrit.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/montfleury_mary-femme-manuscrit.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/montfleury_mary-femme-manuscrit.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1664"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>Le Mary sans femme. <lb/>Comedie</head>
       <div xml:id="I" type="act">
+        <head>Acte premier</head>
         <div type="scene" xml:id="I01">
+          <head>Scene premiere</head>
           <sp xml:id="I01-1" who="tomire">
             <l n="1" xml:id="l1" rend="u">Si Celime est bien tost d humeur a Vous entendre </l>
             <l n="2" xml:id="l2" rend="u">Quelqu’un... Sa naine vient qui poura nous l’aprendre</l>
@@ -17,6 +68,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>Scene seconde</head>
           <sp xml:id="I02-1" who="julie">
             <l n="9" xml:id="l9" xml:lang="en" part="I">Ah Carlos</l>
           </sp>
@@ -301,6 +353,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>Scene troisiesme</head>
           <sp xml:id="I03-1" who="zaire">
             <l n="166" xml:id="l166">Celime va passer dans la sale prochaine</l>
             <l n="167" xml:id="l167">Vous l’y pouvez attendre et vous y concerter</l>
@@ -350,12 +403,14 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>Scenne quatriesme</head>
           <sp xml:id="I04-1" who="zaire">
             <l n="206" xml:id="l206">Qu’a telle a differer <hi rend="u">son chagrin me desole</hi></l>
             <l n="207" xml:id="l207" rend="u">il faut que ie l’observe ah ! la voicy j’ay peur</l>
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>Scenne cinquiesme</head>
           <sp xml:id="I05-1" who="celime">
             <l n="208" xml:id="l208">Ah qu’un nouvel amour met de trouble en mon cœur</l>
             <l n="209" xml:id="l209">Sur tout <hi rend="u">quand la douleur</hi> d’avoir une rivalle...</l>
@@ -429,6 +484,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>Scenne sixiesme</head>
           <sp xml:id="I06-1" who="celime">
             <l n="241" xml:id="l241">N’estoit ce pas assez du destin qui me brave</l>
             <l n="242" xml:id="l242">D’avoir soumis mon cœur a l’amour d’un esclave</l>
@@ -442,6 +498,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>Scenne septiesme</head>
           <sp xml:id="I07-1" who="celime">
             <l n="250" xml:id="l250" rend="u" part="I">M’avez vous preparé quelque air galand </l>
           </sp>
@@ -535,6 +592,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I08">
+          <head>Scenne huitiesme</head>
           <sp xml:id="I08-1" who="celime">
             <l n="303" xml:id="l303" rend="u">Carlos dans vos ennuys que je vois a regret</l>
             <l n="304" xml:id="l304" rend="u">Ma bonté vous veut bien faire part d’un secret</l>
@@ -577,6 +635,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I09">
+          <head>Scenne neuviesme</head>
           <sp xml:id="I09-1" who="carlos">
             <l n="339" xml:id="l339">L’ay je bien entendue ou me suis je abusé ?</l>
             <l n="340" xml:id="l340">A quel plus grand malheur pouvois je estre exposé</l>
@@ -588,6 +647,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I10">
+          <head>Scenne dixiesme</head>
           <sp xml:id="I10-1" who="tomire">
             <l n="346" xml:id="l346">Monsieur aprez cecy Vous n’avez qu’a vous pendre</l>
           </sp>
@@ -695,7 +755,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>Acte Second.</head>
         <div type="scene" xml:id="II01">
+          <head>Scenne premiere</head>
           <sp xml:id="II01-1" who="brusquin">
             <l n="389" xml:id="l389">Si julie encor vous est chere</l>
             <l n="390" xml:id="l390">Ne songez point a la chercher</l>
@@ -845,6 +907,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>Scenne seconde</head>
           <sp xml:id="II02-1" who="tomire">
             <l n="485" xml:id="l485" part="I">Prens bien garde…</l>
           </sp>
@@ -862,6 +925,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>Scenne troisiesme</head>
           <sp xml:id="II03-1" who="marine">
             <l n="487" xml:id="l487">C’est luy mesme et dabord je l’ay bien reconnu</l>
             <l n="488" xml:id="l488" part="I">Ah ! monsieur</l>
@@ -1361,6 +1425,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>Scenne quatriesme</head>
           <sp xml:id="II04-1" who="brusquin">
             <l n="643" xml:id="l643"><hi rend="u">Je croy que le Voicy</hi> peste quel egrillart</l>
             <l n="644" xml:id="l644">A son air je crains fort d’estre venu trop tart</l>
@@ -1496,6 +1561,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>Scenne cinquiesme</head>
           <sp xml:id="II05-1" who="fatiman">
             <l n="706" xml:id="l706"><hi rend="u">Je vay</hi> voir si celime est <hi rend="u">toujours</hi> resolüe</l>
             <l n="707" xml:id="l707">A remettre l’hymen qui doit me rendre heureux</l>
@@ -1503,6 +1569,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>Scenne sixiesme</head>
           <sp xml:id="II06-1" who="zaire">
             <l n="709" xml:id="l709" rend="u">Pour adoucir l’excez de sa Melancolie</l>
             <l n="710" xml:id="l710" rend="u">Ma maistresse demande et Carlos et julie </l>
@@ -1543,6 +1610,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II07">
+          <head>Scenne septiesme</head>
           <sp xml:id="II07-1" who="zaire">
             <l n="724" xml:id="l724" rend="u" part="I">Vous n’en scavez rien</l>
           </sp>
@@ -1620,11 +1688,13 @@
           </sp>
         </div>
         <div type="scene" xml:id="II08">
+          <head>Scenne huitiesme</head>
           <sp xml:id="II08-1" who="zaire">
             <l n="745" xml:id="l745" rend="u" part="I">Il faut, voicy carlos </l>
           </sp>
         </div>
         <div type="scene" xml:id="II09">
+          <head>Scenne neuviesme</head>
           <sp xml:id="II09-1" who="zaire">
             <l part="F">
               <hi rend="u">celime vous demande</hi>
@@ -1640,6 +1710,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II10">
+          <head>Scenne dixiesme</head>
           <sp xml:id="II10-1" who="carlos">
             <l n="749" xml:id="l749" rend="u">Scavez vous la rigueur du destin qui traverse</l>
           </sp>
@@ -1732,6 +1803,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II11">
+          <head>Scenne Unsiesme</head>
           <sp xml:id="II11-1" who="brusquin">
             <l part="F"><hi rend="u">c’est</hi> ma femme</l>
             <l n="810" xml:id="l810" rend="u">Sans doute vous faisiez vos adieux et sa flame </l>
@@ -1758,6 +1830,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II12">
+          <head>Scenne dousiesme</head>
           <sp xml:id="II12-1" who="brusquin">
             <l n="825" xml:id="l825">Suis je pas un grand sot d’aymer cette traitresse</l>
             <l n="826" xml:id="l826">Mais puis que rien ne peut guerir tant de foiblesse</l>
@@ -1767,7 +1840,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>Acte Troisiesme</head>
         <div type="scene" xml:id="III01">
+          <head>Scenne premiere</head>
           <sp xml:id="III01-1" who="zaire">
             <l n="829" xml:id="l829" rend="u">Mais considerez mieux qu’elle raison l’oblige</l>
           </sp>
@@ -1827,6 +1902,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>Scenne seconde</head>
           <sp xml:id="III02-1" who="tomire">
             <l n="865" xml:id="l865">Je passois par respect <hi rend="u">n’osant icy paroistre</hi></l>
           </sp>
@@ -2062,6 +2138,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>Scenne troisiesme</head>
           <sp xml:id="III03-1" who="celime">
             <l n="973" xml:id="l973" rend="u">Qu’ay je entendu Zaïre et qu’a til s’ceu m’apprendre</l>
             <l n="974" xml:id="l974" rend="u">Je sens quoy que ce coup n’ayt pas deu me surprendre</l>
@@ -2096,6 +2173,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>Scenne quatriesme</head>
           <sp xml:id="III04-1" who="carlos">
             <l n="985" xml:id="l985" rend="u">Malgré tous les malheurs dont ma flame est suivie </l>
             <l n="986" xml:id="l986" rend="u">Je puis encor gouster la douceur de l’espoir</l>
@@ -2213,6 +2291,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>Scenne cinquiesme</head>
           <sp xml:id="III05-1" who="brusquin">
             <l n="1037" xml:id="l1037" rend="u">Encor chascun de vous y prend goust ce me semble</l>
             <l n="1038" xml:id="l1038" rend="u">Et vous voila vous deux d’accord sans boire ensemble</l>
@@ -2225,6 +2304,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>Scenne sixiesme</head>
           <sp xml:id="III06-1" who="brusquin">
             <l n="1041" xml:id="l1041" rend="u">Vous aymez donc ces gens toujours prests a bien faire</l>
             <l n="1042" xml:id="l1042" rend="u">Qui malgré le mary, pleins d’un soin debonaire</l>
@@ -2298,6 +2378,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III07">
+          <head>Scenne septiesme</head>
           <sp xml:id="III07-1" who="brusquin">
             <l n="1079" xml:id="l1079" rend="u">Elle a perdu l’esprit ou me croit... mais il faut</l>
             <l n="1080" xml:id="l1080" rend="u">Voir fatiman conclurre, et partir au plutost </l>
@@ -2305,6 +2386,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III08">
+          <head>Scenne huitiesme</head>
           <sp xml:id="III08-1" who="fatiman">
             <l part="F">
               <hi rend="u">j’aperçoy Dom brusquin d’Alvarade</hi>
@@ -2517,6 +2599,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III09">
+          <head>Scenne derniere</head>
           <sp xml:id="III09-1" who="carlos">
             <l n="1179" xml:id="l1179" rend="u">S’il part ce n’est rien faire et si vous n’ordonnez</l>
           </sp>
@@ -2530,7 +2613,9 @@
         </div>
       </div>
       <div xml:id="IV" type="act">
+        <head>Acte quatriesme</head>
         <div type="scene" xml:id="IV01">
+          <head>Scenne premiere</head>
           <sp xml:id="IV01-1" who="fatiman">
             <l n="1185" xml:id="l1185" rend="u">Et bien c’est un hymen qui vous plaist de remettre </l>
             <l n="1186" xml:id="l1186" rend="u">Vous le Voulez madame et je doy my soumettre</l>
@@ -2626,6 +2711,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>Scenne seconde</head>
           <sp xml:id="IV02-1" who="stamorat">
             <l n="1245" xml:id="l1245" rend="u" part="I">Vous l’avez irritée </l>
           </sp>
@@ -2659,12 +2745,14 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>Scenne troisiesme</head>
           <sp xml:id="IV03-1" who="stamorat">
             <l n="1263" xml:id="l1263" rend="u">C’est marine et tomire et s’il vous plaist J’iray</l>
             <l n="1264" xml:id="l1264" rend="u">Commancer... mais suivons le il est desja rentré</l>
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>Scenne quatriesme</head>
           <sp xml:id="IV04-1" who="tomire">
             <l n="1265" xml:id="l1265" rend="u" part="I">Eh marine </l>
           </sp>
@@ -2779,6 +2867,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>Scenne cinquiesme</head>
           <sp xml:id="IV05-1" who="carlos">
             <l n="1325" xml:id="l1325" rend="u">Nous devons ce bonheur a l’amour de celime </l>
             <l n="1326" xml:id="l1326" rend="u">Son cœur m’avoit fait voir une fort tendre estime</l>
@@ -2834,6 +2923,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>Scenne sixieme</head>
           <sp xml:id="IV06-1" who="carlos">
             <l n="1369" xml:id="l1369" rend="u" part="I">Qu’as tu donc</l>
           </sp>
@@ -2902,6 +2992,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>Scenne septiesme</head>
           <sp xml:id="IV07-1" who="brusquin">
             <l n="1416" xml:id="l1416">Et bien me trouvez vous suffisamment berné</l>
             <l n="1417" xml:id="l1417">A traistres a quoy bon avec vos excellences</l>
@@ -2929,6 +3020,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV08">
+          <head>Scenne huitiesme</head>
           <sp xml:id="IV08-1" who="fatiman">
             <l n="1424" xml:id="l1424" rend="u">Je Vous l’avois bien dit quil ne s’en jroit pas</l>
             <l n="1425" xml:id="l1425" rend="u">Et je me suis toujours douté qua ma priere </l>
@@ -3070,6 +3162,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV09">
+          <head>Scenne derniere</head>
           <sp xml:id="IV09-1" who="brusquin">
             <l n="1508" xml:id="l1508">Ah canaille maudite ah traitre, moy forçat</l>
             <l n="1509" xml:id="l1509">Quoy donc il faut finir mes jours en barbarie<pb n="265" xml:id="p265"/></l>
@@ -3090,7 +3183,9 @@
         </div>
       </div>
       <div xml:id="V" type="act">
+        <head>Acte cinquiesme</head>
         <div type="scene" xml:id="V01">
+          <head>Scenne premiere</head>
           <sp xml:id="V01-1" who="marine">
             <l n="1517" xml:id="l1517" rend="u">Me dis tu vray tomire et sur  ton asseurance</l>
             <l n="1518" xml:id="l1518" rend="u">puis je sans me flater prendre quelque esperance ?</l>
@@ -3163,6 +3258,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>Scenne seconde</head>
           <sp xml:id="V02-1" who="brusquin">
             <l n="1559" xml:id="l1559">Messieurs que faites vous je suis prest a signer</l>
             <l n="1560" xml:id="l1560" part="I">L’heure n’est pas sonnée</l>
@@ -3215,6 +3311,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>Scenne troisiesme</head>
           <sp xml:id="V03-1" who="brusquin">
             <l n="1587" xml:id="l1587">Helas ! a mes depens je connoy mais trop tart</l>
             <l n="1588" xml:id="l1588">Qu’un homme est un grand sot quand un coup du hazart</l>
@@ -3227,6 +3324,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>Scenne quatriesme</head>
           <sp xml:id="V04-1" who="fatiman">
             <l n="1595" xml:id="l1595" rend="u">Est il prest a signer tout ce qu’on luy dira </l>
           </sp>
@@ -3339,6 +3437,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>Scenne cinquiesme</head>
           <sp xml:id="V05-1" who="fatiman">
             <l n="1651" xml:id="l1651" rend="u">Nous verrons de quel air celime recevra</l>
             <l n="1652" xml:id="l1652">
@@ -3349,6 +3448,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>Scenne sixiesme</head>
           <sp xml:id="V06-1" who="celime">
             <l n="1654" xml:id="l1654" rend="u">Avez vous decidé du sort de Vostre esclave</l>
             <l n="1655" xml:id="l1655" rend="u">La faites Vous partir quitte telle ces lieux </l>
@@ -3429,6 +3529,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>Scenne septiesme</head>
           <sp xml:id="V07-1" who="fatiman">
             <l n="1701" xml:id="l1701" rend="u">Elle meurt de depit et j’en voy bien la cause</l>
             <l n="1702" xml:id="l1702" rend="u">Mais perdre une infidelle est perdre peu de chose</l>
@@ -3437,6 +3538,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>Scenne huitiesme</head>
           <sp xml:id="V08-1" who="brusquin">
             <l n="1705" xml:id="l1705" rend="u">Je reviens et tout est a vos ordres conforme </l>
             <l n="1706" xml:id="l1706" rend="u">Jamais homme ne fut sot en meilleure forme</l>
@@ -3479,6 +3581,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V09">
+          <head>Senne derniere</head>
           <sp xml:id="V09-1" who="carlos">
             <l part="F">
               <hi rend="u">quel respect ou plutost quel homage</hi>

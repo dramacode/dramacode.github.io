@@ -1,7 +1,54 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Porcie romaine. Tragédie</title>
+        <author key="Boyer, Claude (1618-1698)">Boyer, Claude</author>
+        <principal>Georges Forestier</principal>
+        <editor>Marie Roux</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Marie Roux sous la direction de Georges Forestier (1997)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/boyer_porcie/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boyer_porcie.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boyer_porcie.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boyer_porcie.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boyer_porcie.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1646"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LA PORCIE ROMAINE. TRAGEDIE.</head>
       <div type="dedication" xml:id="dedicace">
+        <head>
+          <hi rend="b">A MADAME LA MARQUISE DE RAMBOUILLET</hi>
+        </head>
         <p>MADAME,</p>
         <p>C’est une dame romaine, qui vient vous rendre ses devoirs. Si beaucoup de françois et de ceux qui se piquent de connoistre les personnes de son païs, ne l’ont extrèmement flatée, elle conserve encore assés de l’air de ce qu’elle fut autrefois pour n’avoir pas besoin de vous dire son nom en vous abordant. Mais comme il n’y a que vous, MADAME, en ce Royaume, qui se puisse vanter d’avoir avec son païs et son sexe, une naissance pareilles aux siennes ; c’est de vous seule, qu’elle veut savoir, si en quittant le langage de Rome, elle en a perdu les sentiments. Et sans tirer aucun avantage de tout ce qu’on dit en sa faveur, c’est seulement par l’accueil que vous lui ferez, qu’elle veut juger d’elle-mesme. Elle espère de vostre bonté que vous souffrirez son entretien, et</p>
         <p>pour peu que vous la trouviez semblable à la fille du grand Caton, et à la veuve de Brutus, elle vous estime trop généreuse pour ne s’asseurer pas</p>
@@ -12,9 +59,13 @@
         <p>BOYER</p>
         <p rend="b">LA PORCIE ROMAINE TRAGEDIE</p>
       </div>
-      <div/>
+      <div>
+        <head>[ACTEURS]</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE PREMIER</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="I01-1" who="brute">
             <l n="1" xml:id="l1">Pourquoy mal à propos, image triste, et noire,</l>
             <l n="2" xml:id="l2">Troubles tu sans respect mon repos, et ma gloire ?</l>
@@ -40,6 +91,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE SECONDE</head>
           <sp xml:id="I02-1" who="maxime">
             <l part="M">Seigneur,<pb n="3" xml:id="p3"/></l>
           </sp>
@@ -91,6 +143,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE TROISIESME</head>
           <sp xml:id="I03-1" who="cassie">
             <l n="61" xml:id="l61">Brute je suis Romain, cognoissez mieux Cassie:</l>
             <l n="62" xml:id="l62">Je crains pour nostre Rome, et non pas pour ma vie.</l>
@@ -220,6 +273,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE QUATRIESME</head>
           <sp xml:id="I04-1" who="brute">
             <l n="171" xml:id="l171">Enfin nous arrivons à ce funeste jour,</l>
             <l n="172" xml:id="l172">Trop différé pour Rome, et peu pour nostre Amour.</l>
@@ -384,7 +438,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>ACTE DEUXIESME</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="II01-1" who="brute">
             <l n="313" xml:id="l313" part="I">Hé bien, tout est-il prest ?<pb n="19" xml:id="p19"/></l>
           </sp>
@@ -449,6 +505,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE DEUXIESME</head>
           <sp xml:id="II02-1" who="brute">
             <l n="357" xml:id="l357">Il est temps de partir : souffrez que je vous quite :</l>
             <l n="358" xml:id="l358">On presse le combat, Rome m’y sollicite ;</l>
@@ -546,6 +603,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE TROISIESME</head>
           <sp xml:id="II03-1" who="porcie">
             <l n="441" xml:id="l441">Il est party, Julie, et je n’ose m’en plaindre<pb n="27" xml:id="p27"/></l>
             <l n="442" xml:id="l442">Rome me le deffend, lors que j’ay tout à craindre ;</l>
@@ -660,6 +718,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE QUATRIESME</head>
           <sp xml:id="II04-1" who="porcie">
             <l n="541" xml:id="l541">Je puis donc maintenant avecque <ref target="#confidence">confidence*</ref><pb n="32" xml:id="p32"/></l>
             <l n="542" xml:id="l542">T’expliquer mes douleurs, et mon peu de constance :</l>
@@ -765,7 +824,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>ACTE TROISIESME</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="III01-1" who="cassie">
             <l n="633" xml:id="l633">Désirs impétueux d’une ardeur violente,<pb n="37" xml:id="p37"/></l>
             <l n="634" xml:id="l634"><ref target="#transport">Transports*</ref> précipitez, douleurs impatientes,</l>
@@ -776,6 +837,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE DEUXIESME</head>
           <sp xml:id="III02-1" who="julie">
             <l n="639" xml:id="l639">Hélas !Sans m’informer, quels sont les desplaisirs,<pb n="38" xml:id="p38"/></l>
             <l n="640" xml:id="l640">Qui d’un si grand courage arrachent ces soupirs ;</l>
@@ -908,6 +970,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE TROISIESME</head>
           <sp xml:id="III03-1" who="cassie">
             <l n="746" xml:id="l746">Madame, il n’est plus temps qu’un trop lâche silence<pb n="44" xml:id="p44"/></l>
             <l n="747" xml:id="l747">Vous cache le sujet de mes justes douleurs ;</l>
@@ -942,6 +1005,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE QUATRIESME</head>
           <sp xml:id="III04-1" who="porcie">
             <l n="776" xml:id="l776">Dieux que viens-je d’entendre !Et que viens-je de voir !<pb n="46" xml:id="p46"/></l>
             <l n="777" xml:id="l777">N’est-ce point un fantôme, ou n’est-ce point un songe,</l>
@@ -1002,6 +1066,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE CINQUIESME</head>
           <sp xml:id="III05-1" who="porcie">
             <l n="826" xml:id="l826">Maxime se peut-il qu’encor je te revoye ?<pb n="49" xml:id="p49"/></l>
             <l n="827" xml:id="l827" part="I">Hé ! Bien tout est perdu.</l>
@@ -1158,7 +1223,9 @@
         </div>
       </div>
       <div xml:id="IV" type="act">
+        <head>ACTE QUATRIESME</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="IV01-1" who="philipe">
             <l n="949" xml:id="l949">Non, je n’excuse point cette honteuse fuite,<pb n="57" xml:id="p57"/></l>
             <l n="950" xml:id="l950">Et je dois à jamais en déplorer la suite :</l>
@@ -1250,6 +1317,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE DEUXIESME</head>
           <sp xml:id="IV02-1" who="porcie">
             <l n="1027" xml:id="l1027">Vous, qui par tant de maux, par tant de sang perdu<pb n="63" xml:id="p63"/></l>
             <l n="1028" xml:id="l1028">Nous faites disputer un bien qui nous est deu,</l>
@@ -1284,6 +1352,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE TROISIESME</head>
           <sp xml:id="IV03-1" who="julie">
             <l n="1057" xml:id="l1057">Madame, Brute arrive, on vient de me l’aprendre?<pb n="64" xml:id="p64"/></l>
             <l n="1058" xml:id="l1058" part="I">Il est proche d’icy.</l>
@@ -1330,6 +1399,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE QUATRIESME</head>
           <sp xml:id="IV04-1" who="brute">
             <l n="1081" xml:id="l1081">Madame, où courrez-vous, fuyez un misérable.<pb n="67" xml:id="p67"/></l>
             <l n="1082" xml:id="l1082">Fuyez, fuyez ma honte, et le sort qui m’accable.</l>
@@ -1522,6 +1592,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE CINQUIESME</head>
           <sp xml:id="IV05-1" who="maxime">
             <l n="1246" xml:id="l1246">Après tant de mal-heurs vous tombez dans un pire ;<pb n="76" xml:id="p76"/></l>
             <l n="1247" xml:id="l1247">J’ay par vostre ordre en vain ralié nos soldats,</l>
@@ -1556,6 +1627,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>SCENE SIXIESME</head>
           <sp xml:id="IV06-1" who="porcie">
             <l n="1269" xml:id="l1269">Prépare toy mon ame à la dernière foudre :<pb n="78" xml:id="p78"/></l>
             <l n="1270" xml:id="l1270">Nostre destin s’achève, il est temps de résoudre.</l>
@@ -1577,7 +1649,9 @@
         </div>
       </div>
       <div xml:id="V" type="act">
+        <head>ACTE CINQUIESME</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="V01-1" who="octave">
             <l n="1285" xml:id="l1285">Hé ! Bien qu’est devenu ce lasche parricide,<pb n="80" xml:id="p80"/></l>
             <l n="1286" xml:id="l1286">Que tant de trahisons ont rendu si timide ?</l>
@@ -1613,6 +1687,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE DEUXIESME</head>
           <sp xml:id="V02-1" who="porcie">
             <l part="F">Ah ! Laissez-moy mourir<pb n="82" xml:id="p82"/></l>
             <l n="1312" xml:id="l1312">Bourreaux, qui me perdez, loin de me secourir.</l>
@@ -1766,6 +1841,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE TROISIESME</head>
           <sp xml:id="V03-1" who="octave">
             <l n="1441" xml:id="l1441">Mais plustost qu’elle vive en faveur de ma gloire.<pb n="89" xml:id="p89"/></l>
             <l n="1442" xml:id="l1442">Jouyssons pleinement du fruit de ma victoire.</l>
@@ -1775,6 +1851,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE QUATRIESME</head>
           <sp xml:id="V04-1" who="tite">
             <l part="F">Seigneur, voicy Maxime,<pb n="90" xml:id="p90"/></l>
             <l n="1446" xml:id="l1446">Que nostre vigilance a surpris dans son crime,</l>
@@ -1872,6 +1949,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE DERNIERE</head>
           <sp xml:id="V05-1" who="valere">
             <l part="F">Seigneur Brute et sa femme<pb n="95" xml:id="p95"/></l>
             <l n="1526" xml:id="l1526">Sont morts, l’un par le fer, et l’autre par la flamme.</l>

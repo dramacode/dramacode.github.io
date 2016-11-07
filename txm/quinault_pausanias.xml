@@ -1,7 +1,53 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pausanias. Tragédie</title>
+        <author key="Quinault, Philippe (1635-1688)">Philippe Quinault</author>
+        <principal>Georges Forestier</principal>
+        <editor>Marie-Émilie Papet</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Marie-Émilie Papet dans le cadre d'un mémoire de
+          master 1 sous la direction de Georges Forestier (2003-2004)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/quinault_pausanias/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/quinault_pausanias.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/quinault_pausanias.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/quinault_pausanias.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/quinault_pausanias.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1669"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>Pausanias<lb/>Tragédie</head>
       <div>
+        <head>A MONSEIGNEUR<lb/>MONSEIGNEUR<lb/>LE DUC<lb/>DE<lb/>MONTAUSIER,PAIR DE FRANCE, CHEVA<lb/>lier des Ordres du Roi, Gouver<lb/>neur &amp; Lieutenant General<lb/>d’Angommois, Xaintonge, hau<lb/>te et basse Alsace, Commandant<lb/>pour sa Majesté en Normandie,<lb/>Gouverneur de MONSEIGNEUR<lb/>LE DAUPHIN, &amp;c.</head>
         <p>MONSEIGNEUR,</p>
         <p>Vous ne doutez pas qu’une Elevation aussi glorieuse que la vostre ne soit d’ordinaire exposée à des importunitez inévitables. C’est une necessité que vous enduriez les applaudissemens du Parnasse en suitte des complimens de la Cour, &amp; tandis que la plupart de ceux qui se mêlent d’écrire s’empresse à vous fatiguer par de grands Ouvrages, je m’asseure que je vous ferai plaisir de vous en quitter pour une simple Epistre. J’essayerai (MONSEIGNEUR) en vous offrant cette Tragedie de vous épargner la mauvaise odeur d’encens trop commune dont on a coutume d’accompagner ces especes de dedicaces ; j’oserai toutefois vous dire que ce ne sera pas à dessein de m’accommoder à la répugnance naturelle que je sçais que vous avez pour les loüanges : ce n’est plus une délicatesse qui vous soit permise  ; &amp; dans le Rang où vous estes, l’exacte Modestie si recommandable pour les autres hommes est une Vertu qui cesse d’estre à vostre usage. En effet (MONSEIGNEUR) aprés que le plus éclairé des Monarques vous a jugé digne d’être Depositaire de ce qu’il a de plus precieux, &amp; que sa Sagesse n’a voulu confier qu’à vous ses plus cheres Esperances, il est de la reconnoissance que vous devez à l’honneur d’un si juste choix de ne pas empêcher que l’on publie les avantages qui vous l’ont fait meriter. Il faut que vous consideriez que ce n’est pas sur vous seul que reflechissent les Eloges que l’on vous adresse, &amp; vous estes obligé de vous souvenir que vostre Gloire ne doit pas faire une des moindres parties de Celle du plus grand Roi du Monde. Mais à dire vrai (MONSEIGNEUR) une matière si noble perdroit trop de son excellence entre mes mains, &amp; je me croirois en peril de la profaner si je me hazardois d’y toucher davantage ; je sens que ma foiblesse m’arreste, et je crains déja d’avoir abusé d’un temps qui n’est reservé qu’à des occupations de la derniere consequence, &amp; dont le Gouvernement de trois ou quatre Provinces n’est que le soin le moins considerable. C’est ce qui me fait precipiter l’offre que je vous fais de Pausanias, en vous protestant que je suis avec autant de passion que de respect.</p>
         <p>MONSEIGNEUR,</p>
@@ -9,14 +55,19 @@
         <p rend="right">QUINAULT.</p>
       </div>
       <div>
+        <head>EXTRAIT DU PRIVILEGE<lb/>du Roy.</head>
         <p>Par Grace &amp; Privilege du Roy , donné à Paris<lb/>le vingt-deuxiéme jour de Janvier 1669. Si-<lb/>gné, par le Roy en son Conseil AUI DE. Il est per-<lb/>mis au Sieur QUINAULT , de faire imprimer une<lb/>piece de Theatre, par luy composée, intitulée<lb/><hi rend="i">Pausanias</hi>, &amp; deffenses sont faites à tous les Librai-<lb/>res, Imprimeurs &amp; autres , de l’imprimer , ven-<lb/>dre ny debiter pendant sept ans sur peine de con-<lb/>fiscation des Exemplaires, de tous dépens, dom-<lb/>mages &amp; interests , &amp; de quinze cent livres d’a-<lb/>mende , comme il est plus au long porté par les-<lb/>dites Lettres de Privilege,<lb/>Et ledit Sieur Quinault à cédé le Privilège cy-<lb/>dessus à Guillaume de Luyne, Marchand Li-<lb/>braïre à Paris, suivant l’accord fait entr’eux.</p>
         <p>Achevé d’imprimer le 14 FEVRIER 1669.</p>
         <p rend="i">Registré sur le livre de la Communauté , le 24<lb/>Janvier 1669.</p>
         <p>A. SOUBRON Syndic.</p>
       </div>
-      <div/>
+      <div>
+        <head>ACTEURS</head>
+      </div>
       <div xml:id="I" type="act">
+        <head>ACTE I.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="demarate">
             <l n="1" xml:id="l1">Il le faut avoüer, rien n’est plus éclattant <pb n="A ,1" xml:id="p1"/></l>
             <l n="2" xml:id="l2">Que le supréme honneur du <ref target="#destin">destin*</ref> qui m’attend.</l>
@@ -145,6 +196,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
           <sp xml:id="I02-1" who="pausanias">
             <l n="95" xml:id="l95">Voir un autre à ma honte obtenir Cleonice,</l>
             <l n="96" xml:id="l96">Non, non, auparavant il faut que je périsse,</l>
@@ -246,6 +298,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
           <pb n="9" xml:id="p9"/>
           <sp xml:id="I03-1" who="eurianax">
             <l n="175" xml:id="l175">De si beaux sentimens où tant d’<ref target="#amour">amour*</ref> s’exprime,</l>
@@ -324,6 +377,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
           <sp xml:id="I04-1" who="aristide">
             <l n="232" xml:id="l232">De vos amis, Seigneur, fuyez vous la presence,</l>
             <l n="233" xml:id="l233">Vostre entretien pour eux est-il si peu permis…</l>
@@ -446,6 +500,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>SCENE V.</head>
           <sp xml:id="I05-1" who="sophane">
             <l n="315" xml:id="l315">Quoi Seigneur au mépris d’une amitié si tendre</l>
             <l n="316" xml:id="l316">Pausanias obtient tout ce qu’il peut pretendre ?</l>
@@ -495,7 +550,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="B, 17" xml:id="p17"/>
+        <head>ACTE II.</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE I.</head>
           <sp xml:id="II01-1" who="cleonice">
             <l n="351" xml:id="l351">Cesse de me flatter d’une attente importune,</l>
             <l n="352" xml:id="l352">Je connois mieux que toi toute mon infortune,</l>
@@ -633,6 +690,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II.</head>
           <sp xml:id="II02-1" who="pausanias">
             <l n="443" xml:id="l443">Quoi malgré tous mes <ref target="#soin2">soins*</ref> vostre invincible haine</l>
             <l n="444" xml:id="l444">Ne vous permet jamais de me voir qu’avec peine :</l>
@@ -734,6 +792,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III.</head>
           <sp xml:id="II03-1" who="demarate">
             <l n="521" xml:id="l521">On vient de m’avertir que suivant nostre espoir</l>
             <l n="522" xml:id="l522">Le <ref target="#sort3">sort*</ref> de Cleonice est en vostre pouvoir ;</l>
@@ -755,6 +814,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>SCENE IV.</head>
           <sp xml:id="II04-1" who="demarate">
             <l n="535" xml:id="l535">Vostre ressentiment à quelque point qu’il monte,</l>
             <l n="536" xml:id="l536">Contre un tel ennemi peut bien ceder sans honte.</l>
@@ -890,6 +950,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>SCENE V.</head>
           <sp xml:id="II05-1" who="demarate">
             <l n="627" xml:id="l627">Ai-je bien entendu, Charile, est-il possible ?</l>
             <l n="628" xml:id="l628">Pausanias enfin n’est donc plus insensible ?</l>
@@ -961,7 +1022,9 @@
       </div>
       <div xml:id="III" type="act">
         <pb n="32" xml:id="p32"/>
+        <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="III01-1" who="aristide">
             <l n="683" xml:id="l683">D’un Ami mécontent évitons la presence,</l>
             <l n="684" xml:id="l684">N’allons point de sa peine aigrir la violence,</l>
@@ -1038,6 +1101,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II.</head>
           <sp xml:id="III02-1" who="demarate">
             <l n="743" xml:id="l743">Seigneur pour éviter le peril qui me presse,</l>
             <l n="744" xml:id="l744">C’est entre tous les Grecs à vous que je m’adresse,</l>
@@ -1145,6 +1209,7 @@
         </div>
         <div type="scene" xml:id="III03">
           <pb n="38" xml:id="p38"/>
+          <head>SCENE III.</head>
           <sp xml:id="III03-1" who="pausanias">
             <l n="831" xml:id="l831">A vostre tour, Seigneur, fuyez vous ma presence,</l>
             <l n="832" xml:id="l832">J’allois vous asseurer de ma reconnoissance.</l>
@@ -1157,6 +1222,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV.</head>
           <sp xml:id="III04-1" who="pausanias">
             <l n="837" xml:id="l837">Quel est donc ce secret dont vous l’avez instruit,</l>
             <l n="838" xml:id="l838">Qui cherche tant l’<ref target="#eclat1">éclat*</ref>, les témoins, &amp; le bruit ?</l>
@@ -1315,6 +1381,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V.</head>
           <sp xml:id="III05-1" who="eurianax">
             <l n="955" xml:id="l955"> N’en est-ce point assez ? &amp; seroit-il possible</l>
             <l n="956" xml:id="l956">Qu’à cet illustre effort vous fussiez insensible ?</l>
@@ -1341,7 +1408,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="45" xml:id="p45"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="aristide">
             <l n="971" xml:id="l971">Je détourne vos pas, je sçai où je m’expose ;</l>
             <l n="972" xml:id="l972">Mais l’interest public va devant toute chose,</l>
@@ -1494,6 +1563,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <pb n="50" xml:id="p50"/>
+          <head>SCENE II.</head>
           <sp xml:id="IV02-1" who="cleonice">
             <l n="1075" xml:id="l1075">Aprés tant de bien-faits &amp; pour faveur derniere,</l>
             <l n="1076" xml:id="l1076">Pourrai-je encor, Seigneur, vous faire une priere ?</l>
@@ -1749,6 +1819,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III.</head>
           <sp xml:id="IV03-1" who="demarate">
             <l n="1223" xml:id="l1223">Pardonnez moi le <ref target="#trouble">trouble*</ref> où vous met ma presence,</l>
             <l n="1224" xml:id="l1224">Seigneur, &amp; m’accordez un moment d’audiance.</l>
@@ -1856,6 +1927,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV.</head>
           <sp xml:id="IV04-1" who="charile">
             <l part="F">Il sort l’ame <ref target="#interdit">interdite*</ref>.</l>
             <l n="1296" xml:id="l1296" part="I">Il vous quitte confus.</l>
@@ -1912,7 +1984,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="63" xml:id="p63"/>
+        <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="V01-1" who="eurianax">
             <l n="1331" xml:id="l1331">Dans quel <ref target="#trouble">trouble*</ref> Seigneur vous voi-je ici paroistre ?</l>
             <l n="1332" xml:id="l1332">Ce grand <ref target="#courage2">courage*</ref> ainsi peut-il se <ref target="#reconnaitre2">reconnoistre*</ref> ?</l>
@@ -1936,6 +2010,7 @@
         </div>
         <div type="scene" xml:id="V02">
           <pb n="64" xml:id="p64"/>
+          <head>SCENE II.</head>
           <sp xml:id="V02-1" who="aristide">
             <l n="1343" xml:id="l1343">Je me dérobe aux Grecs &amp; viens ici moi-même</l>
             <l n="1344" xml:id="l1344">Deffendre en vous Seigneur l’honneur du Rang suprême,</l>
@@ -2020,6 +2095,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE III.</head>
           <sp xml:id="V03-1" who="pausanias">
             <l n="1395" xml:id="l1395">Je doute Eurianax, si mon <ref target="#amour">amour*</ref> extrême</l>
             <l n="1396" xml:id="l1396">Doit pour la bien garder se fier qu’à moi même.</l>
@@ -2109,6 +2185,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>SCENE IV.</head>
           <sp xml:id="V04-1" who="pausanias">
             <l n="1465" xml:id="l1465" part="I">He bien qu’avez vous fait ?</l>
           </sp>
@@ -2138,6 +2215,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>SCENE V.</head>
           <sp xml:id="V05-1" who="pausanias">
             <l n="1475" xml:id="l1475">Mais Sophane en ces lieux, quel ordre vous rappelle ?</l>
             <l n="1476" xml:id="l1476" part="I">Vous quittez Cleonice.</l>
@@ -2168,6 +2246,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>SCENE IV.</head>
           <sp xml:id="V06-1" who="pausanias">
             <l part="F">Madame où donc est Cleonice ?</l>
           </sp>
@@ -2272,6 +2351,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>SCENE VII<lb/>ET DERNIERE.</head>
           <sp xml:id="V07-1" who="sophane">
             <l n="1549" xml:id="l1549">Avant qu’on l’ait pû joindre elle a fini son sort,</l>
             <l n="1550" xml:id="l1550">Et prevenu nos <ref target="#soin1">soins*</ref> par une prompte mort.</l>

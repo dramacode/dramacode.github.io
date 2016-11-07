@@ -1,7 +1,51 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'Innocent malheureux ou La Mort de Crispe. Tragédie</title>
+        <author key="Grenaille, François de (1616-1680)">Grenaille</author>
+        <principal>Georges Forestier</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie sous la direction de Georges Forestier.</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/grenaille_innocent-malheureux/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1639"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>L’INNOCENT MALHEUREUX, <lb/>OU LA MORT <lb/>DE CRISPE. <lb/>TRAGEDIE.</head>
       <div xml:id="epitre">
+        <head>A MONSEIGNEUR, <lb/>MESSIRE JEAN VICOMTE DE POMPADOUR, BARON DE BRE’, TREIGNAC, Sainct Circ, la Gane, etc. Lieutenant General pour le Roy au Gouvernement du haut et bas Lymosin, et Capitaine d’une Compagnie au Regiment des Gardes de sa Majesté.</head>
         <p><hi rend="sc">Monseigneur</hi>,</p>
         <p><hi rend="sc">L’Innocent Malheureux</hi> trouve du bonheur dans son infortune, en ce qu’estant mort indignement, il resuscite glorieusement sous vôtre nom, et triomphe de la calomnie apres avoir rendu l’ame par son effort. Dans cette nouvelle vie qu’il reçoit, je ne pouvois luy choisir un plus noble Protecteur que celuy qui la luy donne, et qui n’ayant pas moins de perfections que Crispe, a d’ailleurs beaucoup plus de felicité, et peut par son honneur relever celuy de l’autre. La naissance, <hi rend="sc">Monseigneur</hi>, vous a mis d’<ref target="#abord">abord*</ref> dans une élevation, où la fortune ne peut mettre que de <ref target="#grand1">grands*</ref> hommes ; mais vous avez d’ailleurs obtenu des charges qui nous font douter si vous estes plus illustre de vous mesme, ou par la bienveillance du Roy. Mais nous sortons de ce doute, considerant qu’estant issu d’une des plus grandes <ref target="#maison">maisons*</ref> de Guyenne, et aussi bien élevé qu’aucun Seigneur de tout le Royaume, vous ne pouviez manquer d’estre avantagé aupres de <hi rend="sc">Louis le Juste</hi>, qui honore particulierement de ses faveurs ceux qu’il trouve desja <ref target="#grand1">grands*</ref> par bonheur et par merite.</p>
         <p>Quand il n’y auroit que le souvenir de feu Monseigneur vôtre pere, vous seriez tousjours grandement considerable à cét Estat, comme estant successeur de celuy qui l’a tousjours servy avec autant de zele que de succés; et qui parmy les troubles n’a jamais eu que de bons mouvemens pour la Couronne. La charge qu’il a si long temps exercée avec une prudence égale à sa generosité, et le Collier de l’Ordre que ses vertus luy avoient fait donner, aussi bien que l’estime du plus <ref target="#grand1">grand*</ref> de tous les Princes, témoignent evidemment que la loüange particuliere que je luy donne, sera suivie d’un Panegyrique public. D’ailleurs, la consideration de Madame, que nôtre Cour <ref target="#regarder">regarde*</ref> comme un des plus beaux Soleils qu’elle ait produit, et qui est alliée de Monseigneur le Chancelier, monstre que la Justice mesme n’auroit plus de <ref target="#credit">credit*</ref> dans le monde si vous n’y aviez de l’honneur et de l’employ. Outre cela, vos qualitez personnelles semblent capables de vous donner des avantages que les autres ne tirent ordinairement que de l’extraction, et nous font juger qu’estant si noble de deux costez, vous le serez encore autant de vous mesme. Cette force de jugement, qui en vôtre jeunesse vous fait imiter la sagesse des plus âgez, et qui vous fait gouverner une Province en un temps où les autres peuvent à peine se gouverner soy-mesmes, nous fait voir aisêment que la nature mesme vous a instruit, et que l’experience s’est d’elle-mesme offerte à vous, au lieu que les autres sont en peine de l’acquerir. Le <ref target="#soin">soin*</ref> encore que vous avez eu de joindre les exercices de l’esprit avec ceux du corps, vous a mis dans une constitution ; qui fait que dans la paix et dans la guerre vous pouvez estre tousjours utile, et servir la France avec autant d’adresse que de valeur. Ce n’est pas mon seul sentiment qui vous donne ces loüanges, c’est l’opinion generale de tout le monde, qui espere tant de vous, <hi rend="sc">Monseigneur</hi>, que personne n’ose dire ce que vous estes, sçachant que ce n’est qu’une partie de ce que vous devez estre. Cependant la cognoissance que j’ay de vos rares qualitez, jointe à l’inclination que j’ay à vous reverer, m’a fait croire que vous recevriez de bon œil l’offre que je vous fais de la Mort du fils du plus <ref target="#grand1">grand*</ref> Empereur de Rome, lequel dans toute sa grandeur vient rendre hommage à la vôtre. Outre ces raisons generales, j’en ay de particulieres de vous dedier cét ouvrage ; L’une est, que l’ayant conceu en un païs que vôtre Charge vous rend sujet, je crois estre obligé à vous rendre des fruits de vôtre Province, et vous faire voir que si vous travaillez* pour nôtre bien, nous travaillons* pour vôtre gloire. J’ay encore voulu par là, vous témoigner le respect que mon pere et tous ceux de sa <ref target="#maison">maison*</ref> portent à la vôtre, et comme nous desirons vous estre doublement sujets, et par naissance, et par élection. Souffrez, <hi rend="sc">Monseigneur</hi>, cette hardiesse, comme estant plustost un effet du zele que de la temerité de celuy qui est,</p>
@@ -9,6 +53,7 @@
         <p rend="right">Grenaille.</p>
       </div>
       <div xml:id="preface">
+        <head>OUVERTURE GENERALE à toute la piece, avec un discours sur les Poëmes Dramatiques de ce temps.</head>
         <p>Un Autheur du siecle passé, parlant de la Poësie se plaignoit avec raison, de ce que les Muses qui logeoient autrefois sur une double montagne, sembloient à peine ramper de son temps, et qu’au lieu d’animer les vers, elles estoient presque mortes. Nous pouvons dire que les Poëtes d’à present leur ont fait prendre un autre train, puis qu’ils les ont élevées sur le theatre où elles ont une veritable grandeur, au lieu que les monts ne leur en donnoient qu’une imaginaire. Tous les esprits qui ont un peu de genie l’employent d’abord à la Scene, les Odes et les Sonnets ne sont pas des pieces si communes que les Tragicomedies. Cela vient à mon avis du prix que la France donne aujourd’huy à cette sorte d’ouvrages, et de l’agréement de ce <ref target="#grand1">grand*</ref> Ministre, qui se deschargeant du poids des affaires, prend quelquefois de nobles divertissemens en des sujets heroïques. Ceux qui sont capables de concevoir quelque chose de grand, aiment mieux consacrer leurs veilles au contentement de ce <ref target="#grand1">grand*</ref> Heros, qu’aux loüanges de plusieurs autres personnes. On en peut encore apporter une autre raison, quoy qu’inferieure à celle-là, et c’est que les Acteurs qui representent les Poëmes Dramatiques, le font avec tant d’adresse et de splendeur, que chacun se persuade que c’est à eux qu’il appartient de donner la montre aux belles choses, et que ce qui les occupe une fois, passe tousjours pour relevé. Aussi voyons nous qu’une profession qui a tousjours eu de la vogue, semble estre maintenant toute Royale, estant sous la protection de sa Majesté.</p>
         <p>Sa troupe est plus honorée de nôtre temps, que les anciens Comediens ne l’estoient sous les Empereurs, aussi répond elle par son action, et par le nombre des personnes qui la composent, à tout ce qu’on peut attendre d’elle pour le contentement des plus <ref target="#grand1">grands*</ref> Princes aussi bien que de tout le peuple.</p>
         <p>Il faut avoüer neantmoins, que si tous les Autheurs ont les mesmes pretensions, ils n’ont pas tous les mesmes succés. C’est que plusieurs veulent d’<ref target="#abord">abord*</ref> voler bien haut, sans avoir apris à marcher, d’où vient qu’ils s’abbaissent en s’élevant, et que pensant toucher le <ref target="#faite">faiste*</ref>, ils tombent dans le precipice. Ils veulent faire un chef d’œuvre sans avoir fait aucun essay. Ils n’ont jamais sceu composer une Elegie, et ils croyent pouvoir hautement exprimer les regrets d’une Princesse malheureuse. Ils ne sçavent pas combien un Poëme a de parties, et ils songent aux cinq actes du plus difficile de tous. Ils n’ont pas d’enthouziasme pour faire deux vers hardis, et ils croyent en avoir pour une piece de longue haleine. Ainsi donc ils ne courent pas dans la lice, mais plustost ils y choppent à châque pas, ils n’ont pas de suffisance, mais ils ont de la vanité. Ils prennent de belles matieres, mais ils leur donnent une bien chetive forme. Un ancien disoit, qu’il valoit mieux estre blâmé de quelques gens, que d’estre loüé par d’autres; mais on peut dire qu’il y a de beaux sujets qui perdent leur Majesté, pource qu’ils sont traittez par de foibles plumes. Puis que je mets la mienne en ce nombre, sans parler d’aucune autre en particulier, on doit croire que je fais plustost ma censure, que celle de ceux que je reconnois pour mes Maistres. On doit loüer ma sincerité, et non pas m’accuser, ou d’orgueil, ou d’imprudence.</p>
@@ -29,6 +74,7 @@
         <p>Je <ref target="#connaitre">connois*</ref> bien que la longueur de cette Prose ennuyera les curieux autant que mes vers, mais puis que j’ay fait une faute pour me tesmoigner publiquement defectueux, j’en veux faire une autre pour declarer ma sincerité. J’averty donc le Lecteur, qu’un Italien nommé Stephonius, a travaillé en Latin sur le sujet que je manie en François, et que la curiosité qui dés mon bas âge m’a porté à voir les Livres modernes aussi bien que la plupart des anciens, m’a fait lire autresfois, et estimer son ouvrage. Je puis dire neantmoins, que les notions qui m’en restent dans l’esprit sont si confuses, que je n’ay pû m’en servir distinctement, et que si nous nous sommes rencontrez, ou dans l’invention, ou dans la conduite, ç’a esté plustost à l’aventure que par <ref target="#dessein">dessein*</ref>. Et par là je puis respondre à ceux qui diroient que le sujet que je traitte estant de mauvais exemple, n’est pas bon pour le Theatre, car outre que la punition y suit le crime, suivant les reigles ; cette Tragedie a esté representée devant plusieurs Cardinaux, et en un païs où les crimes enormes semblent estre aussi communs qu’ils semblent rares ailleurs. L’<hi rend="i">Hippolyte</hi> de Seneque est pareillement un chef-d’œuvre sur lequel on peut tirer l’idée de toute sorte de beaux ouvrages tragiques, et la conformité de son sujet avec le mien, peut avoir produit en plusieurs endroits de la ressemblance en la forme. Quoy qu’il en soit, je ne l’ay pas voulu lire de nouveau en composant cette piece, et s’il y a quelques traits pareils, je suis bien aise d’estre disciple d’un si <ref target="#grand1">grand*</ref> Maistre, et de suivre au moins de loin celuy que je voudrois approcher.En fin puis qu’il n’y a rien sous le Soleil que le monde n’ait jadis veu, il n’est pas defendu de dire de vieilles choses, de travailler de mesme façon sur mesme matiere, et de chercher quelque thresor dans les mines que d’autres nous ont descouvertes. Tant s’en faut que je me rebutte d’estre imitateur des <ref target="#grand1">grands*</ref> hommes des autres siecles ; qu’au contraire, je suy volontiers l’exemple des modernes s’il est bon, et comme je mesprise le dire des ignorans, je feray tousjours estat de la censure des Doctes. Je finis cette Preface par le tiltre de mon Livre, et dis, que si j’appelle Crispe, <hi rend="i"><hi rend="sc">L’innocent malheureux</hi></hi>, ce n’est pas que je croye que ce soit estre malheureux que d’estre innocent, veu qu’il n’y a point de vray bonheur que dans l’innocence. Mais je veux dire seulement, que comme nous croyons que les bons sont bien souvent malheureux en cette vie pource que Dieu les y laisse souffrir pour leur donner ailleurs le comble des contentemens ; ainsi Crispe a du malheur en ce monde, veu qu’au lieu d’y recevoir les recompences de la vertu, il n’y reçoit apparemment que les châtimens du vice. Je prie le Lecteur de supporter la faute que je viens de faire en l’ennuyant par cette ouverture, et de se representer qu’il estoit autresfois permis aux mauvais Peintres, de monstrer par escrit leur dessein quand il ne pouvoit pas paroistre dans leur tableau. Ils disoient qu’ils avoient peint un homme quand on ne le sçavoit pas distinguer d’avec un bœuf ; On ne peut justement refuser à la peinture Parlante, un droit qu’on donnoit à la Muette.</p>
       </div>
       <div>
+        <head>Preface <lb/>A MONSIEUR DE GRENAILLE, Sur le sujet de son Innocent Malheureux, ou la mort de Crispe. <lb/>SONNET.</head>
         <lg>
           <l n="1">LIsant dans tes écrits la fâcheuse poursuite,</l>
           <l n="2">Que Fauste fait souffrir à ce Prince Innocent,</l>
@@ -52,6 +98,7 @@
         <p rend="right">P.L.P</p>
       </div>
       <div xml:id="sonnet1">
+        <head>Au mesme. <lb/>Sur le tiltre de son Innocent Malheureux.</head>
         <lg>
           <l n="15">LE tiltre d’un si bel ouvrage</l>
           <l n="16">Semble détruire tout le corps,</l>
@@ -73,6 +120,7 @@
         <p rend="right"><hi rend="sc">De la Tour</hi>.</p>
       </div>
       <div xml:id="sonnet2">
+        <head>Au mesme.</head>
         <lg>
           <l n="27"><hi rend="sc">Crispe</hi> n’eust jamais cru guerir</l>
           <l n="28">De ce mal, dont la calomnie</l>
@@ -92,6 +140,7 @@
         <p rend="right">P.L.P.</p>
       </div>
       <div>
+        <head>Au mesme.</head>
         <l n="39"><hi rend="sc">Grenaille</hi>, cét ouvrage est beau</l>
         <l n="40">Qui fait vivre dans le tombeau</l>
         <l n="41">Un Prince que l’amour fit mourir par la haine ;</l>
@@ -101,6 +150,7 @@
         <p rend="right">Pisieux.</p>
       </div>
       <div xml:id="stances">
+        <head>Au mesme. <lb/>Sur sa Tragedie dediée à Monseigneur le vicomte de <hi rend="sc">Pompadour.</hi> <lb/>STANCES.</head>
         <lg>
           <l n="45">Quel des deux a le plus d’honneur ?</l>
           <l n="46">Ou Crispe qui mourant triomphe de l’envie,</l>
@@ -135,6 +185,7 @@
         <p><hi rend="sc">Grenaille</hi>, frere de l’Autheur.</p>
       </div>
       <div xml:id="sonnet3">
+        <head>Au mesme.</head>
         <lg>
           <l n="65">Cette <ref target="#marastre">Marastre*</ref> dangereuse</l>
           <l n="66">Reüssit mal dans son projet,</l>
@@ -155,27 +206,37 @@
         </lg>
         <p rend="right">Son intime, <hi rend="sc">de Vaudrichard.</hi></p>
       </div>
-      <div/>
       <div>
+        <head>LES ACTEURS.</head>
+      </div>
+      <div>
+        <head>Argument du premier Acte</head>
         <div>
+          <head>Scene premiere</head>
           <p>Constantin se réjoüit de l’heureuse fin de toutes ses entreprises, qui doit neantmoins estre un commencement de malheur pour sa <ref target="#maison">maison*</ref>; la paix du dehors va causer la guerre audedans.</p>
         </div>
         <div>
+          <head>Scene II</head>
           <p>Emile vient donner avis à l’Empereur, qu’un Prince de ses sujets s’est revolté contre luy. Il prend resolution de rompre ce qui ne veut pas plier.</p>
         </div>
         <div>
+          <head>Scene III</head>
           <p>Helene mere de Constantin, sçachant bien le pouvoir qu’a Crispe sur l’Esprit de l’Imperatrice, avertit ce Prince de <ref target="#complaire">complaire*</ref> en tout à Fauste, afin de luy faire agréer les bons <ref target="#dessein">desseins*</ref> que son espoux a conceus pour la Religion.</p>
         </div>
         <div>
+          <head>Scene IV</head>
           <p>L’imperatrice sous pretexte d’aider les amours de Procle, s’informe de celles de Crispe, et charge ce confident de disposer son amy à correspondre aux affections de la plus grande Dame de l’Empire.</p>
         </div>
         <div>
+          <head>Scene V</head>
           <p>Elle avouë en secret ce qu’elle cachoit en public, et se veut persuader qu’un amour illegitime est raisonnable.</p>
         </div>
         <div>
+          <head>Scene VI</head>
           <p>La jeune Helene la vient avertir du <ref target="#dessein">dessein*</ref> qu’on a pris d’éloigner Crispe par une Charge specieuse ; elles en prennent un autre d’empescher l’execution.</p>
         </div>
         <div>
+          <head>Scene VII</head>
           <p>Adelaïde s’informe du sujet de l’éloignement de Crispe, et maudit en suite son esperance qui ne l’a flattée que pour l’<ref target="#affliger">affliger*</ref>.</p>
           <p>L’INNOCENT MALHEUREUX,</p>
           <p>OU LA MORT DE CRISPE.</p>
@@ -183,7 +244,9 @@
       </div>
       <div type="act" xml:id="I">
         <pb n="I, A"/>
+        <head>ACTE I</head>
         <div type="scene" xml:id="I01">
+          <head>Scene premiere</head>
           <sp who="constantin" xml:id="I01-1">
             <l n="1" xml:id="l1">Ce repos me plaist bien qui vient de mes travaux,</l>
             <l n="2" xml:id="l2">Je n’ay plus d’ennemis, n’ayant plus de Rivaux ;</l>
@@ -226,6 +289,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>Scene II</head>
           <sp who="constantin" xml:id="I02-1">
             <l n="35" part="I" xml:id="l35">Emile que dis-tu ?</l>
           </sp>
@@ -253,6 +317,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>Scene III</head>
           <sp who="helene-mere" xml:id="I03-1">
             <l n="49" xml:id="l49">C’est un objet bien rare à mes yeux de te voir.</l>
           </sp>
@@ -303,6 +368,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>Scene IV</head>
           <sp who="fauste" xml:id="I04-1">
             <l n="87" xml:id="l87">Procle, ne te <ref target="#feindre">feins*</ref> point ; c’est de la jeune Helene</l>
             <l n="88" xml:id="l88">Que ton ame reçoit et sa joye, et sa peine :</l>
@@ -414,6 +480,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>Scene V</head>
           <sp who="fauste" xml:id="I05-1">
             <lg>
               <l n="161" xml:id="l161">Qui pourroit croire que c’est moy</l>
@@ -488,6 +555,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>Scene VI</head>
           <sp who="helene-fille" xml:id="I06-1">
             <l n="215" xml:id="l215">Madame, l’Empereur éloigne de nos yeux,</l>
             <l n="216" xml:id="l216">Ce Prince qui faisoit et sa gloire, et nos voeux.</l>
@@ -528,6 +596,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>Scene VII</head>
           <sp who="adelaide" xml:id="I07-1">
             <l n="235" xml:id="l235">Je sçay que l’Empereur vous a dit son <ref target="#dessein">dessein*</ref>;</l>
             <l n="236" xml:id="l236">Il ne s’esclorra pas s’il n’est que dans mon <ref target="#sein">sein*</ref>.</l>
@@ -619,34 +688,45 @@
       </div>
       <div>
         <pb n="18"/>
+        <head>Argument du second Acte</head>
         <div>
+          <head>Scene premiere</head>
           <p><hi rend="sc">Constantin</hi> donne l’épée de General d’Armée à son fils, avec ordre de mourir ou de vaincre ; Crispe la prend, et témoigne que ses resolutions ont prevenu les desirs de son pere.</p>
         </div>
         <div>
+          <head>Scene II</head>
           <p>Fauste se plaint à Constantin de ce qu’éloignant Crispe de la Cour il esbranle l’appuy de l’Empire, et empesche ce jeune Prince d’aller aux occasions d’honneur, pour avoir plus de loisir de l’aimer.</p>
         </div>
         <div>
+          <head>Scene III</head>
           <p>Crispe croyant estre sur son depart, <ref target="#affliger">afflige*</ref> autant sa grand’mere Helene en luy disant Adieu, qu’il se réjoüit de sa nouvelle charge.</p>
         </div>
         <div>
+          <head>Scene IV</head>
           <p>Ils changent tous deux de <ref target="#ressentiment">ressentiment*</ref>, lors qu’Artaban vient arrester Crispe au poinct qu’il avoit ordre de marcher. Crispe s’en irrite sans pecher contre le respect.</p>
         </div>
         <div>
+          <head>Scene V</head>
           <p>La jeune Helene et la Princesse Adelaïde, se conjouïssent sur cet arrest, qu’elles estiment heureux, et qui sera la cause des infortunes de Crispe.</p>
         </div>
         <div>
+          <head>Scene VI</head>
           <p>Fauste aprend de Procle que Crispe n’aime que les armes, et ne haït que les plaisirs.</p>
         </div>
         <div>
+          <head>Scene VII</head>
           <p>Adelaïde vient implorer le secours de Fauste pour gagner le cœur de Crispe, ne prenant pas garde qu’elle prie sa Rivale de luy ceder.</p>
         </div>
         <div>
+          <head>Scene VIII.</head>
           <p>Crispe avoüe en fin qu’il cede à l’amour ce qu’il avoit dissimulé, et que de Conquerant il devient serviteur d’une Princesse.</p>
         </div>
       </div>
       <div type="act" xml:id="II">
         <pb n="19"/>
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>Scene premiere</head>
           <sp who="constantin" xml:id="II01-1">
             <l n="281" xml:id="l281">SOuviens-toy bien, mon fils, des exploits de ton pere ;</l>
             <l n="282" xml:id="l282">Constantin a bien fait, mais Crispe doit mieux faire ;</l>
@@ -675,6 +755,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>Scene II</head>
           <sp who="fauste" xml:id="II02-1">
             <l n="303" xml:id="l303">Vous perdez donc un fils pour gagner de l’honneur ?</l>
             <l n="304" xml:id="l304">Un malheur recherché vous <ref target="#ravir">ravit*</ref> ce <ref target="#heur">bon-heur*</ref> ?</l>
@@ -818,6 +899,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>Scene III.</head>
           <sp who="helene-mere" xml:id="II03-1">
             <l n="381" xml:id="l381">Puis qu’en fin mon Amour doit ceder à ta gloire,</l>
             <l n="382" xml:id="l382">Puisses-tu me quittant rencontrer la Victoire !</l>
@@ -839,6 +921,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <pb n="26"/>
+          <head>Scene IV</head>
           <sp who="artaban" xml:id="II04-1">
             <l part="F">Seigneur, ne partez pas;</l>
             <l n="392" xml:id="l392">La Cour arreste en fin vos <ref target="#dessein">desseins*</ref> et vos pas.</l>
@@ -922,6 +1005,7 @@
         </div>
         <div type="scene" xml:id="II05">
           <pb n="29"/>
+          <head>Scene V</head>
           <sp who="helene-fille" xml:id="II05-1">
             <l n="435" xml:id="l435">Il ne s’en ira pas, appaisons nos douleurs,</l>
             <l n="436" xml:id="l436">La joye seulement doit avoir de nos pleurs.</l>
@@ -972,6 +1056,7 @@
         </div>
         <div type="scene" xml:id="II06">
           <pb n="31"/>
+          <head>Scene VI.</head>
           <sp who="fauste" xml:id="II06-1">
             <l n="465" xml:id="l465">Son cœur n’aime donc rien que l’horreur des <ref target="#alarmes">alarmes*</ref> !</l>
             <l n="466" xml:id="l466">Et met toute sa joye à rejetter les charmes ?</l>
@@ -1023,6 +1108,7 @@
         </div>
         <div type="scene" xml:id="II07">
           <pb n="33, E"/>
+          <head>Scene VII</head>
           <sp who="adelaide" xml:id="II07-1">
             <l n="501" xml:id="l501">Madame, je ne puis plus cacher un mystere,</l>
             <l n="502" xml:id="l502">Et vous me disant tout, je ne vous dois rien taire ;</l>
@@ -1112,6 +1198,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II08">
+          <head>Scene VIII</head>
           <sp who="crispe" xml:id="II08-1">
             <l n="543" xml:id="l543">Procle, tu m’aymes bien, mais tu cheris ma sœur,</l>
             <l n="544" xml:id="l544">C’est aussi mon <ref target="#dessein">dessein*</ref> de t’en voir possesseur ;</l>
@@ -1155,31 +1242,41 @@
       </div>
       <div>
         <pb n="38"/>
+        <head>Argument du troisiesme Acte</head>
         <div>
+          <head>Scene premiere</head>
           <p>Fauste fait appeller Crispe pour luy declarer un <ref target="#dessein">dessein*</ref> qu’elle veut et ne peut cacher : Adelaïde sert à ce Ministere, et s’interesse pour Fauste, croyant que Fauste ne s’interesse que pour elle.</p>
         </div>
         <div>
+          <head>Scene II</head>
           <p>Fauste ouvre son cœur à Crispe par des termes <ref target="#couvert">couverts*</ref>, et puis dans une impudence manifeste, ses poursuites neantmoins ne reçoivent que des rebuts, enfin elle s’excuse pour accuser l’innocent.</p>
         </div>
         <div>
+          <head>Scene III</head>
           <p>Fauste voyant son amour desesperé le convertit tout en haine, et se resout à <ref target="#perdre">perdre*</ref> dans la paix ce foudre de guerre qu’elle avoit fait retenir.</p>
         </div>
         <div>
+          <head>Scene IV</head>
           <p>Crispe resout avec Procle sa retraite de la Cour sans en donner de cause apparente que sa manifeste melancolie, il y joint le bien de l’Estat et de la <ref target="#maison">maison*</ref> de son Pere.</p>
         </div>
         <div>
+          <head>Scene V</head>
           <p>Constantin se rejoüit avec Artaban de la nouvelle qu’il a receuë de la cessation des troubles, et des sousmissions des rebelles.</p>
         </div>
         <div>
+          <head>Scene VI</head>
           <p>Procle rendant raison de la retraite de Crispe, l’Empereur entre en soupçon quand l’autre l’en veut delivrer.</p>
         </div>
         <div>
+          <head>Scene VII</head>
           <p>Fauste accuse en effet Crispe du crime qu’elle seule a voulu commettre, et fait semblant d’appaiser l’Empereur afin de l’aigrir davantage contre son fils.</p>
         </div>
       </div>
       <div type="act" xml:id="III">
         <pb n="39"/>
+        <head>ACTE III</head>
         <div type="scene" xml:id="III01">
+          <head>Scene premiere</head>
           <sp who="fauste" xml:id="III01-1">
             <l n="571" xml:id="l571">VA dire à ton <ref target="#amant">Amant*</ref> que je luy veux parler,</l>
             <l n="572" xml:id="l572">C’est pour te l’acquerir, et pour me consoler.</l>
@@ -1198,6 +1295,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>Scene II</head>
           <sp who="fauste" xml:id="III02-1">
             <l n="585" xml:id="l585">Beau Crispe dont l’honneur et la grace est extréme,</l>
             <l n="586" xml:id="l586">Cher Prince qui n’as point d’ennemy qui ne t’aime ;</l>
@@ -1492,6 +1590,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>Scene III</head>
           <sp who="fauste" xml:id="III03-1">
             <lg>
               <l n="733" xml:id="l733">Donc l’aimant je n’ay pû meriter que sa haine ?</l>
@@ -1553,6 +1652,7 @@
         </div>
         <div type="scene" xml:id="III04">
           <pb n="53"/>
+          <head>Scene IV</head>
           <sp who="procle" xml:id="III04-1">
             <l n="775" xml:id="l775">Vous retirer, Monsieur, sans le dire à personne ?</l>
             <l n="776" xml:id="l776">Ce projet vous rendra suspect à la Couronne.</l>
@@ -1613,6 +1713,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>Scene V</head>
           <sp who="constantin" xml:id="III05-1">
             <l n="799" xml:id="l799">Les troubles ont cessé, mais ils peuvent renaistre,</l>
             <l n="800" xml:id="l800">Ce peuple m’est sujet, mais n’aime pas son Maistre.</l>
@@ -1643,6 +1744,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>Scene VI</head>
           <sp who="procle" xml:id="III06-1">
             <l n="821" xml:id="l821"><ref target="#grand1">Grand*</ref> Prince, vôtre fils vient de se retirer.</l>
           </sp>
@@ -1728,6 +1830,7 @@
         </div>
         <div type="scene" xml:id="III07">
           <pb n="60"/>
+          <head>Scene VII</head>
           <sp who="constantin" xml:id="III07-1">
             <l n="859" xml:id="l859">D’où vient que ces beaux yeux qui font mon allegresse,</l>
             <l n="860" xml:id="l860">De riants qu’ils estoient, sont couverts de tristesse ?</l>
@@ -1907,40 +2010,53 @@
         </div>
       </div>
       <div>
+        <head>Argument du quatriesme Acte</head>
         <div>
+          <head>Scene premiere</head>
           <p>Artaban tâche de détourner Constantin de la resolution qu’il a prise de vanger l’honneur de sa femme par la mort de son fils, mais en fin la jalousie l’emporte sur l’amour de pere.</p>
         </div>
         <div>
+          <head>Scene II</head>
           <p>Artaban déplore le <ref target="#credit">credit*</ref> qu’il a, puis qu’il n’est dans la faveur que pour estre dans le crime. Il aime neantmoins mieux quitter la vertu que la Cour.</p>
         </div>
         <div>
+          <head>Scene III</head>
           <p>Fauste continuë à rendre odieux celuy qu’elle n’a pû faire consentir à son amour detestable, et asseure Adelaïde que Crispe ne paye son <ref target="#feu">feu*</ref> que de mine et de froideur.</p>
         </div>
         <div>
+          <head>Scene IV.</head>
           <p>Helene mere de Constantin, vient excuser Crispe envers Fauste sur la promptitude de son depart, et la prie d’adoucir le pere pour sauver le fils, elle promet de s’y employer pour mieux tromper les uns et les autres.<pb n="68"/></p>
         </div>
         <div>
+          <head>Scene V.</head>
           <p>Emile vient sonder si l’Empereur a changé de resolution, et n’en rapporte que la premiere réponse.</p>
         </div>
         <div>
+          <head>Scene VI.</head>
           <p>Helene fille de l’Empereur, luy vient raconter une forme de vision qu’elle a euë sur la mort de son frere ; Constantin luy dissimule ce qui en est, avec autant de regret que de constance.</p>
         </div>
         <div>
+          <head>Scene VII.</head>
           <p>Il a de la haïne et de l’amour pour son fils innocent, qu’il croit neantmoins coupable.</p>
         </div>
         <div>
+          <head>Scene VIII.</head>
           <p>Fauste vient interceder pour Crispe, avec Helene mere de l’Empereur, et en defendant l’innocence couvre mieux sa malice.</p>
         </div>
         <div>
+          <head>Scene IX.</head>
           <p>Procle ayant veu mourir son amy, se resout de ne plus vivre, que pour en porter les nouvelles à sa Maistresse, et vanger une si injuste mort.</p>
         </div>
         <div>
+          <head>Scene X.</head>
           <p>Il annonce cette <ref target="#funeste1">funeste*</ref> avanture par un silence affecté.</p>
         </div>
       </div>
       <div type="act" xml:id="IV">
         <pb n="69"/>
+        <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
+          <head>Scene premiere</head>
           <sp who="constantin" xml:id="IV01-1">
             <l n="985" xml:id="l985">Artaban, c’est conclu, mais puis qu’il doit mourir,</l>
             <l n="986" xml:id="l986">Quels moyens prendrons-nous pour le faire perir ?</l>
@@ -2104,6 +2220,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>Scene II</head>
           <sp who="artaban" xml:id="IV02-1">
             <lg>
               <l n="1053" xml:id="l1053">Quel <ref target="#credit">credit*</ref> qui n’est bon que pour faire du mal ?</l>
@@ -2138,6 +2255,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>Scene III</head>
           <sp who="fauste" xml:id="IV03-1">
             <l n="1077" xml:id="l1077">Il est vray qu’il a tort de s’éloigner ainsi,</l>
             <l n="1078" xml:id="l1078">S’il en a du plaisir j’en ay bien du soucy.</l>
@@ -2183,6 +2301,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>Scene IV</head>
           <sp who="helene-mere" xml:id="IV04-1">
             <l n="1105" xml:id="l1105">Crispe s’est mal conduit en partant de ce lieu,</l>
             <l n="1106" xml:id="l1106">Sans nous en avertir, et sans vous dire adieu ;</l>
@@ -2239,6 +2358,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>Scene V</head>
           <sp who="constantin" xml:id="IV05-1">
             <l n="1141" xml:id="l1141">Artaban tarde trop à faire un si bon <ref target="#coup">coup*</ref>,</l>
             <l n="1142" xml:id="l1142">Qui me doit <ref target="#affliger">affliger*</ref> et réjoüir beaucoup.<pb n="81, L"/></l>
@@ -2259,6 +2379,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
+          <head>Scene VI</head>
           <sp who="helene-fille" xml:id="IV06-1">
             <l n="1153" xml:id="l1153">Seigneur, à qui je dois et l’honneur et le jour,</l>
             <l n="1154" xml:id="l1154">Et qui joignez si bien la grandeur à l’amour ;</l>
@@ -2330,6 +2451,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
+          <head>Scene VII</head>
           <sp who="constantin" xml:id="IV07-1">
             <lg>
               <l n="1199" xml:id="l1199">Qui peut trahir son cœur ? j’ay pour luy de la haine,</l>
@@ -2369,6 +2491,7 @@
         </div>
         <div type="scene" xml:id="IV08">
           <pb n="86"/>
+          <head>Scene VIII</head>
           <sp who="fauste" xml:id="IV08-1">
             <l n="1225" xml:id="l1225">Si vôtre fils, <ref target="#grand1">grand*</ref> Prince, a failly contre vous,</l>
             <l n="1226" xml:id="l1226">Soyez pere envers luy si vous m’estes époux ;</l>
@@ -2398,6 +2521,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV09">
+          <head>Scene IX</head>
           <sp who="procle" xml:id="IV09-1">
             <lg>
               <l n="1241" xml:id="l1241">Quel de ces deux malheurs, Procle, dois-tu choisir !</l>
@@ -2443,6 +2567,7 @@
         </div>
         <div type="scene" xml:id="IV10">
           <pb n="89, M"/>
+          <head>Scene X</head>
           <sp who="helene-fille" xml:id="IV10-1">
             <l n="1273" xml:id="l1273">Procle m’estoit connu, mais je le méconnoy,</l>
             <l n="1274" xml:id="l1274">Ses joyes sont ailleurs, et ses pleurs sont pour moy.</l>
@@ -2610,37 +2735,49 @@
         </div>
       </div>
       <div>
+        <head>Argument du cinquiesme Acte</head>
         <div>
+          <head>Scene premiere.</head>
           <p>Fauste semble s’<ref target="#affliger">affliger*</ref> avec Helene mere de son mary, sur le sujet de la mort de Crispe, et neantmoins s’en réjoüit en effet.</p>
         </div>
         <div type="scene">
+          <head>Scene II.</head>
           <p>La conscience pourtant l’oblige à regretter celuy qu’elle haïssoit, et à le justifier en s’accusant elle mesme.</p>
         </div>
         <div type="scene">
+          <head>Scene III.</head>
           <p>Elle dissimule cependant à sa confidente, le vray sujet de ses <ref target="#transport">transports*</ref>.</p>
         </div>
         <div type="scene">
+          <head>Scene IV.</head>
           <p>Artaban rendant conte de sa commission, semble s’en repentir quand son maistre en est bien content.<pb n="96"/></p>
         </div>
         <div type="scene">
+          <head>Scene V.</head>
           <p>Helene mere de l’Empereur, vient se plaindre à luy d’une mort dont il est le seul autheur ; il accuse son fils au lieu de s’en <ref target="#affliger">affliger*</ref>.</p>
         </div>
         <div>
+          <head>Scene VI.</head>
           <p>Il suspend son jugement entre l’incertitude et la verité, ne pouvant croire ce qu’il voit quand Fauste vient <ref target="#decharger">descharger*</ref> Crispe, en se chargeant* volontairement du crime qu’elle luy avoit imposé.</p>
         </div>
         <div type="scene">
+          <head>Scene VII.</head>
           <p>Helene sa fille augmente sa colere contre sa femme, demandant le corps de son frere, et la vengeance de sa mort, ce qu’il ne peut refuser, c’est pourquoy il condamne la criminelle qui avoit fait condamner l’innocent.</p>
         </div>
         <div>
+          <head>Scene VIII.</head>
           <p>Procle cause presque trois morts differentes, en racontant la mort de Crispe aux Princesses Helene et Adelaïde.</p>
         </div>
         <div>
+          <head>Scene IX.</head>
           <p>Helene mere de l’Empereur, qui suivant la raison demandoit vengeance contre Fauste, suivant la pitié vient requerir sa grace. Mais on porte la nouvelle de la mort de cette <ref target="#megere">Megere*</ref>, quand l’autre demandoit la vie pour elle.</p>
         </div>
       </div>
       <div type="act" xml:id="V">
         <pb n="97, N"/>
+        <head>ACTE V</head>
         <div type="scene" xml:id="V01">
+          <head>Scene premiere</head>
           <sp who="fauste" xml:id="V01-1">
             <l n="1339" xml:id="l1339">Oui, Madame, sa mort me semble déplorable,</l>
             <l n="1340" xml:id="l1340">Mais sa faute autrement sembloit irreparable.</l>
@@ -2711,6 +2848,7 @@
         </div>
         <div type="scene" xml:id="V02">
           <pb n="100"/>
+          <head>Scene II</head>
           <sp who="fauste" xml:id="V02-1">
             <lg>
               <l n="1373" xml:id="l1373">Donc le sang de ce mort m’apprendra mon devoir ?</l>
@@ -2766,6 +2904,7 @@
         </div>
         <div type="scene" xml:id="V03">
           <pb n="102"/>
+          <head>Scene III</head>
           <sp who="adelaide" xml:id="V03-1">
             <l n="1413" xml:id="l1413">Vos regrets maintenant ont un plus grand effort,</l>
             <l n="1414" xml:id="l1414">Vous ressentez du mal d’ailleurs que de la mort.</l>
@@ -2799,6 +2938,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>Scene V</head>
           <sp who="constantin" xml:id="V04-1">
             <l n="1427" xml:id="l1427">L’affaire a reüssi suivant mon esperance.</l>
           </sp>
@@ -2929,6 +3069,7 @@
         </div>
         <div type="scene" xml:id="V05">
           <pb n="108"/>
+          <head>Scene V</head>
           <sp who="helene-mere" xml:id="V05-1">
             <l n="1471" xml:id="l1471">Et vous vivez encor, le Prince estant sans ame ?</l>
           </sp>
@@ -3020,6 +3161,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>Scene VI</head>
           <sp who="fauste" xml:id="V06-1">
             <l n="1501" xml:id="l1501">Je demande justice, et pour vous et pour moy.</l>
           </sp>
@@ -3131,6 +3273,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V07">
+          <head>Scene VII</head>
           <sp who="helene-fille" xml:id="V07-1">
             <l n="1559" xml:id="l1559">Vous voyez, Monseigneur, dans l’effet de mon songe,</l>
             <l n="1560" xml:id="l1560">Que c’est la verité qu’on appelloit mensonge ;</l>
@@ -3196,6 +3339,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V08">
+          <head>Scene VIII</head>
           <sp who="helene-fille" xml:id="V08-1">
             <l n="1603" xml:id="l1603">Maintenant que nos yeux ont épuisé nos larmes,</l>
             <l n="1604" xml:id="l1604">Dy nous comment mourut ce vainqueur loin des armes.</l>
@@ -3307,6 +3451,7 @@
         </div>
         <div type="scene" xml:id="V09">
           <pb n="123"/>
+          <head>Scene IX, et derniere.</head>
           <sp who="constantin" xml:id="V09-1">
             <l n="1689" xml:id="l1689">C’est en vain, c’est en vain qu’on la pretend sauver,</l>
             <l n="1690" xml:id="l1690">Ce <ref target="#forfait">forfait*</ref> est trop noir, ce bain le doit laver.</l>
@@ -3379,6 +3524,7 @@
         </div>
       </div>
       <div>
+        <head>PRIVILEGE DU ROY.</head>
         <p><hi rend="sc">LOUIS PAR LA GRACE DE DIEU Roy de France et de Navarre</hi>, A nos amez et feaux Conseillers, les Genstenans nos Cours de Parlement de Paris, Tholoze, Bordeaux, Roüen, Grenoble, Dijon, Aix, Rennes, Preuost de Paris, Baillifs, Senerchaux, et autres nos Justiciers et Officiers qu’il appartientdra, Salut. Nostre bien amé <hi rend="sc">François de Grenaille</hi>, nous a tres-humblement fait remonstrer qu’il desireroit donner au public un liure qu’il a composé, intitulé <hi rend="i">l’Innocent Malheureux, ou la Mort de Crispe</hi> et iceluy faire imprimer, s’il nous plaisoit luy octroyer nos Lettres à ce necessaires. A ces causes, desirant fauoriser l’exposant, Nous luy auons permis et octroyé, et de nostre grace speciale, permettons et octroyons par ces presentes, de faire imprimer ledit livre en tels characteres, et en tels volumes, et par tel Imprimeur que bon luy femblera, durant le temps et espace de cinq ans, à compter du jour et datte que ledit Livre sera achevé d’imprimer. Luy donnons en outre pouvoir de ceder et transporter le present Privilège à qui il advisera. Faisant tres-expresses inhibitions et defenses à tous Imprimeurs et Libraires de ce Royaume, et autres personnes de quelque qualité et condition qu’elles soient, autre que celuy qui aura droict dudit Exposant de faire imprimer ledit Livre en aucun lieu de nostre obeïsance durant ledit temps sans le consentement dudit de Grenaille, ou de celuy qui aura droict de luy, sous pretexte d’augmentation, correction, ou changement, en quelque sorte et maniere que ce soit, ny mesme d’en extraire aucunes pieces, ou d’en contrefaire le tiltre et frontispice, à peine de quinze cens livre d’amende, et de confiscation des Exemplaires contrefaits, et de tous despens, dommages et interests. <hi rend="sc">Voulons</hi> en outre qu’en faisant mettre au commencement ou à la fin du Livre ces presentes, ou un bref extraict d’icelles, qu’elles soient tenuës pour deuëment signifiées, et que foy y soit adjoustée, à la charge de mettre deux Exemplaires dudit Livre en nostre Bibliotheque publique, et un dans celle de nostre tres-cher et feal le sieur <hi rend="sc">Seguier</hi> Chevalier, Chancelier de France. Si <hi rend="sc">vous mandons</hi>, et tres expressement enjoignons faire joüir dudit Privilege ledit Exposant, ou celuy qui aura droict de luy, cessant ou faisant cesser tous troubles et empeschemens au contraire : Car tel est nostre plaisir. <hi rend="sc">Donne</hi>’ à Paris le trentiesme jour de Septembre, l’an de grace mil six cens trente-neuf, et de nostre Regne le trentiesme.</p>
         <p>Par le Roy en son Conseil,</p>
         <p rend="right">De Gyves.</p>

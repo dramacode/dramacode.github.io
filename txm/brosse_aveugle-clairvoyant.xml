@@ -1,7 +1,52 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'Aveugle clair-voyant. Comédie</title>
+        <author key="Brosse">Brosse</author>
+        <principal>Georges Forestier</principal>
+        <editor>Sonia Naudin</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Sonia Naudin dans le cadre d'un mémoire de master 1 sous la direction de Georges Forestier (2003-2004)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2013"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/brosse_aveugle-clairvoyant/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1650"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>L’AVEUGLE CLAIR-VOYANT, <lb/>COMEDIE. <lb/>Representée sur le Theatre Royal devant leurs Majestez.</head>
       <div type="dedication" xml:id="epitre">
+        <head>A MONSEIGNEUR</head>
         <p>MONSEIGNEUR</p>
         <p>LE COMTE</p>
         <p>DU DAUGNION,</p>
@@ -13,9 +58,16 @@
         <p rend="right">Vostre tres-humble, tres-obeissant</p>
         <p rend="right">&amp; tres-<ref target="#obliger4">obligé*</ref><ref target="#serviteur2">serviteur*</ref>, BROSSE.</p>
       </div>
-      <div xml:id="acteurs"/>
+      <div xml:id="acteurs">
+        <head>
+          <hi rend="b">LES ACTEURS.</hi>
+        </head>
+      </div>
       <div type="act" xml:id="I">
+        <head>Acte I</head>
+        <head>L’AVEUGLE CLAIR-VOYANT. COMEDIE.</head>
         <div type="scene" xml:id="I01">
+          <head>Scène première</head>
           <sp who="nerine" xml:id="I01-1">
             <l n="1" xml:id="l1">Quoy ma discretion vous est-elle suspecte ?</l>
             <l n="2" xml:id="l2">Ignorez-vous encor combien je vous respecte ?</l>
@@ -172,6 +224,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>Scène II</head>
           <sp who="lidamas" xml:id="I02-1">
             <l n="121" xml:id="l121">Mon pere est arrivé Madame, &amp; sa paupiere</l>
             <l n="122" xml:id="l122">Ne void plus les beautez qu’enfante la lumiere,</l>
@@ -268,6 +321,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>Scène III</head>
           <sp who="cleanthe" xml:id="I03-1">
             <l n="197" xml:id="l197">Quoy contre mon vouloir &amp; contre ma defense</l>
             <l n="198" xml:id="l198">Admettre en ma maison, Thelame en mon absence ?</l>
@@ -313,6 +367,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>Scène IV</head>
           <sp who="cleanthe" xml:id="I04-1">
             <l n="229" xml:id="l229">Sylvestre, si pour moy ton devoir ne sommeille</l>
             <l n="230" xml:id="l230">Dy-moy ce que mon fils t’a tant dit à l’oreille,</l>
@@ -432,6 +487,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>Scène V</head>
           <sp who="lidamas" xml:id="I05-1">
             <l n="313" xml:id="l313">La part que prend Olimpe en vostre sort funeste</l>
             <l n="314" part="I" xml:id="l314">L’ameine ici, Monsieur.</l>
@@ -528,7 +584,9 @@
       </div>
       <div type="act" xml:id="II">
         <pb n="23"/>
+        <head>Acte II</head>
         <div type="scene" xml:id="II01">
+          <head>Scène première</head>
           <sp who="thelame" xml:id="II01-1">
             <l n="377" xml:id="l377">Mon espoir me trahit, &amp; ma raison s’égare</l>
             <l n="378" xml:id="l378">D’esperer de flechir ce naturel avare,</l>
@@ -599,6 +657,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>Scène II</head>
           <sp who="cleanthe" xml:id="II02-1">
             <l n="413" xml:id="l413">Sylvestre acquitte-toy du róle que tu <ref target="#jouer1">jouës*</ref>.</l>
           </sp>
@@ -739,6 +798,7 @@
         </div>
         <div type="scene" xml:id="II03">
           <pb n="32"/>
+          <head>Scène III</head>
           <sp who="lidamas" xml:id="II03-1">
             <l n="487" xml:id="l487">Laissons l’aller, Madame, &amp; nous entretenons</l>
             <l n="488" xml:id="l488">De l’intrigue Amoureux que nous entreprenons.</l>
@@ -793,6 +853,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>Scène IV</head>
           <sp who="sylvestre" xml:id="II04-1">
             <l n="529" xml:id="l529">On trouve en bien cherchant, la chose est bien certaine</l>
             <l n="530" xml:id="l530">Ne fust-ce qu’un ciron égaré dans la plaine,</l>
@@ -945,6 +1006,7 @@
         </div>
         <div type="scene" xml:id="II05">
           <pb n="F, 41"/>
+          <head>Scène V</head>
           <sp who="nerine" xml:id="II05-1">
             <l n="633" xml:id="l633">Maintenant que je puis m’exprimer sans contrainte,</l>
             <l n="634" xml:id="l634">Permetez que mon <ref target="#coeur2">cœur*</ref> se montre à vous sans crainte,</l>
@@ -977,7 +1039,9 @@
       </div>
       <div type="act" xml:id="III">
         <pb n="43"/>
+        <head>Acte III</head>
         <div type="scene" xml:id="III01">
+          <head>Scène première</head>
           <sp who="lucille" xml:id="III01-1">
             <l n="657" xml:id="l657">Ouy je l’ay rencontré cet Amant <ref target="#deplorable">deplorable*</ref></l>
             <l n="658" xml:id="l658">Maudissant les rigueurs d’un pere inexorable,</l>
@@ -1011,6 +1075,7 @@
         </div>
         <div type="scene" xml:id="III02">
           <pb n="45"/>
+          <head>Scène II</head>
           <sp who="melice" xml:id="III02-1">
             <l n="683" xml:id="l683">L’Esprit envelopé d’un nuage d’<ref target="#ennuis">ennuis*</ref></l>
             <l n="684" xml:id="l684">Je m’égare en moy-mesme, &amp; ne sçais où je suis,</l>
@@ -1053,6 +1118,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>Scène III</head>
           <sp who="sylvestre" xml:id="III03-1">
             <l n="721" xml:id="l721">Elle est seule, Monsieur, le temps vous est propice.</l>
           </sp>
@@ -1281,6 +1347,7 @@
         </div>
         <div type="scene" xml:id="III04">
           <pb n="56"/>
+          <head>Scène IV</head>
           <sp who="sylvestre" xml:id="III04-1">
             <l n="877" xml:id="l877">Et puis fiez-vous-y, parbieu ce sexe est drôle,</l>
             <l n="878" xml:id="l878">Il a la ruse en main ainsi que la parole,</l>
@@ -1298,6 +1365,7 @@
         </div>
         <div type="scene" xml:id="III05">
           <pb n="H, 57"/>
+          <head>Scène V</head>
           <sp who="cleanthe" xml:id="III05-1">
             <l n="885" xml:id="l885">Préparons le présent que j’ay promis de faire</l>
             <l n="886" xml:id="l886">Au Soleil animé qui m’échauffe &amp; m’éclaire,</l>
@@ -1385,6 +1453,7 @@
         </div>
         <div type="scene" xml:id="III06">
           <pb n="61"/>
+          <head>Scène VI</head>
           <sp who="sylvestre" xml:id="III06-1">
             <l n="933" xml:id="l933">Monsieur il est sorty, la feinte est superfluë,</l>
             <l n="934" xml:id="l934">En se pensant brancher ce bel oyseau s’engluë.</l>
@@ -1408,7 +1477,9 @@
       </div>
       <div type="act" xml:id="IV">
         <pb n="63"/>
+        <head>Acte IV</head>
         <div type="scene" xml:id="IV01">
+          <head>Scène première</head>
           <sp who="lidamas" xml:id="IV01-1">
             <l n="945" xml:id="l945">Mon <ref target="#coeur4">cœur*</ref> refuse-t’il ce que ma main luy donne ?</l>
             <l n="946" xml:id="l946">Qui neglige mes dons, dédaigne ma personne,</l>
@@ -1434,6 +1505,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>Scène II</head>
           <sp who="cleanthe" xml:id="IV02-1">
             <l n="957" xml:id="l957">Apres que j’ay promis ma memoire me presse</l>
             <l n="958" xml:id="l958">De faire succeder l’effet à ma promesse,</l>
@@ -1551,6 +1623,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>Scène III</head>
           <sp who="nerine" xml:id="IV03-1">
             <l n="1019" xml:id="l1019">Madame, s’il vous plaist revenez sur vos pas,</l>
             <l n="1020" xml:id="l1020">Ce n’est qu’un faux semblant, on ne [vous] attend pas.</l>
@@ -1614,6 +1687,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <pb n="72"/>
+          <head>Scène IV</head>
           <sp who="lucille" xml:id="IV04-1">
             <l n="1061" xml:id="l1061">Je ne vay qu’en tremblant retrouver ma <ref target="#maitresse1">maitresse</ref>,</l>
             <l n="1062" xml:id="l1062">Elle a juste sujet de punir ma paresse,</l>
@@ -1640,6 +1714,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>Scène V</head>
           <sp who="sylvestre" xml:id="IV05-1">
             <l n="1083" xml:id="l1083">Aspre à vous satisfaire autant &amp; plus qu’aux pots,</l>
             <l n="1084" xml:id="l1084">N’ay-je pas inventé ce mensonge à propos ?</l>
@@ -1751,6 +1826,7 @@
         </div>
         <div type="scene" xml:id="IV06">
           <pb n="78"/>
+          <head>Scène VI</head>
           <sp who="lucille" xml:id="IV06-1">
             <l n="1171" xml:id="l1171">Madame la voici, ne vous tourmentez plus,</l>
             <l n="1172" xml:id="l1172">Vostre pere &amp; Sylvestre avoient les pieds dessus.</l>
@@ -1790,6 +1866,7 @@
         </div>
         <div type="scene" xml:id="IV07">
           <pb n="80"/>
+          <head>Scène VII</head>
           <sp who="thelame" xml:id="IV07-1">
             <l n="1201" xml:id="l1201">Non jamais vostre main n’écrivit cette lettre,</l>
             <l n="1202" xml:id="l1202">Vostre rare <ref target="#vertu2">vertu</ref> ne l’auroit pû permettre,</l>
@@ -1830,6 +1907,7 @@
         </div>
         <div type="scene" xml:id="IV08">
           <pb n="74=82"/>
+          <head>Scène VIII</head>
           <sp who="sylvestre" xml:id="IV08-1">
             <l n="1229" xml:id="l1229">Madame concluez de ce que je vay dire</l>
             <l n="1230" xml:id="l1230">Si vous avez sujet de pleurer ou de rire,</l>
@@ -1854,6 +1932,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV09">
+          <head>Scène IX</head>
           <sp who="cleanthe" xml:id="IV09-1">
             <l n="1245" xml:id="l1245">Ma fille prenez part à la soudaine joye</l>
             <l n="1246" xml:id="l1246">Dans qui mon <ref target="#coeur4">cœur</ref> se plonge &amp; mon ame se noye,</l>
@@ -1977,7 +2056,9 @@
       </div>
       <div type="act" xml:id="V">
         <pb n="M, 81=89"/>
+        <head>Acte V</head>
         <div type="scene" xml:id="V01">
+          <head>Scène première</head>
           <sp who="lidamas" xml:id="V01-1">
             <l n="1317" xml:id="l1317">J’aurois fait cette <ref target="#injure2">injure*</ref> à l’<ref target="#objet3">objet*</ref> que j’adore ?</l>
             <l n="1318" xml:id="l1318">Aprés tant de sermens, le croyez-vous encore ?</l>
@@ -2013,6 +2094,7 @@
         </div>
         <div type="scene" xml:id="V02">
           <pb n="83=91"/>
+          <head>Scène II</head>
           <sp who="sylvestre" xml:id="V02-1">
             <l n="1347" xml:id="l1347">Monsieur promettez moy que vos mains en courroux,</l>
             <l n="1348" xml:id="l1348">Ne me chargeront pas d’une gresle de <ref target="#coup1">coups</ref>,</l>
@@ -2139,6 +2221,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>Scène III</head>
           <sp who="sylvestre" xml:id="V03-1">
             <l n="1417" xml:id="l1417">Par quel autre moyen détourner la tempeste</l>
             <l n="1418" xml:id="l1418">Qui menaçoit mon dos aussi bien que ma teste ?</l>
@@ -2167,6 +2250,7 @@
         </div>
         <div type="scene" xml:id="V04">
           <pb n="90=98"/>
+          <head>Scène IV</head>
           <sp who="cleanthe" xml:id="V04-1">
             <l n="1440" xml:id="l1440">N’ay-je pas <ref target="#entendre1">entendu</ref> la voix de Lidamas.</l>
           </sp>
@@ -2220,6 +2304,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V05">
+          <head>Scène V</head>
           <sp who="lidamas" xml:id="V05-1">
             <l n="1467" part="I" xml:id="l1467">Quoy le livre à la main ?</l>
           </sp>
@@ -2318,6 +2403,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V06">
+          <head>Scène VI</head>
           <sp who="olimpe" xml:id="V06-1">
             <l n="1527" xml:id="l1527">Hô Dieux ! je vay tomber, accourrez je vous prie.</l>
             <l n="1528" xml:id="l1528">Mon pied s’est enlassé dans la tapisserie [.]</l>
@@ -2394,6 +2480,7 @@
         </div>
         <div type="scene" xml:id="V07">
           <pb n="100=108"/>
+          <head>Scène VII</head>
           <sp who="lidamas" xml:id="V07-1">
             <l n="1567" part="I" xml:id="l1567">Fay bien l’espouventé.</l>
           </sp>
@@ -2534,6 +2621,7 @@
         </div>
         <div type="scene" xml:id="V08">
           <pb n="106=114"/>
+          <head>Scène dernière</head>
           <sp who="melice" xml:id="V08-1">
             <l n="1662" xml:id="l1662">Le fils de Parménon est arrivé, Monsieur,</l>
             <l n="1663" xml:id="l1663">Et le voicy qui vient vous offrir son service.</l>
@@ -2588,6 +2676,7 @@
         </div>
       </div>
       <div type="appendix" xml:id="privilege">
+        <head>Extraict du Privilege du Roy.</head>
         <p>Par grace &amp; privilege du Roy donné à Paris le 10. jour de Novembre 1649. Signé, Par le Roy en son Conseil, Le Brun. Il est permis à Toussainct Quinet Marchand Libraire à Paris, d’imprimer ou faire imprimer, vendre &amp; distribuer une piece de Theatre intitulée, <hi rend="i">L’Aveugle Clair-voyant, Comedie, du sieur Brosse</hi>, pendant le temps de cinq ans entiers &amp; accomplis. Et defenses sont faites à tous Imprimeurs, Libraires &amp; autres, de contrefaire le dit Livre, ny le vendre ou exposer en vente d’autre impression que de celle qu’il a fait faire, à peine de trois mil livres d’amende, &amp; de tous despens, dommages &amp; interests, ainsi qu’il est plus amplement porté par lesdites Lettres, qui sont en <ref target="#vertu3">vertu</ref> du present extrait tenuës pour bien &amp; deuëment signifiees, à ce qu’aucun n’en pretende cause d’ignorance.</p>
         <p rend="i">Achevé d’imprimer pour la premiere fois <lb/>le 2. Mars 1650.</p>
         <p rend="b">Les exemplaires ont esté fournis.</p>

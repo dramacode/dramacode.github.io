@@ -1,7 +1,57 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roxelane. Tragi-comédie</title>
+        <author key="Desmares (1...-1... ; auteur dramatique)">Desmares</author>
+        <principal>Georges Forestier</principal>
+        <editor>Lucie Soureillat</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Lucie Soureillat dans le cadre d'un mémoire de
+      master 1 sous la direction de Georges Forestier (2009-2010)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/desmares_roxelane/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/desmares_roxelane.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/desmares_roxelane.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/desmares_roxelane.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/desmares_roxelane.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1643"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genre">Tragi-comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>ROXELANE <lb/>TRAGI-COMEDIE.</head>
       <div xml:id="epitre">
+        <head>A Mademoiselle de Soucarrière.</head>
         <p>Mademoiselle,</p>
         <p>Tant de belles qualitez que vous possedez devoient deffendre à Roxelane qui conoist ses déffaux, de se presenter devant vous, si vos bontez aussi connuës que vos autres vertus ne luy en eussent donné la hardiesse. Mais quand elle a sçeu que vous estiez la protection de ceux qui en ont besoin ; et particulièrement des Muses qui vous en doivent leurs reconnaissances, elle a mieux aymé pecher contre la discretion en se mettant en hazard de vous déplaire, que contre son devoir en ne vous rendant pas les hommages qui sont deus à vos perfections. Si son choix est un effait de la témérité, il peut être aussi une marque de son jugement, puis qu’estant resoluë de voir la France elle a creu avoir treuvé un Dieu tutelaire en vous : Vous, dis-je, <hi rend="sc">Mademoiselle</hi>, que toutes les personnes raisonnables reverent, et en faveur de laquelle ils pardonneront aux mauvaises choses qu’ils y trouveront, et donneront des applaudissements aux mediocres. Quoy que l’ordinaire presomption de ses pareilles soit de pretendre à l’immortalité et de la faire esperer à ceux qu’elles honorent, elle a des sentiments assez modestes d’elle mesme pour y renoncer, si votre nom pour lequel le temps aura du respect ne prolonge sa durée. Ainsi, <hi rend="sc">Mademoiselle</hi>, bien loin de vous promettre cet avantage, elle l’attend de vous, et au lieu de croire contribuer quelque chose à vostre renommée par les loüanges qu’elle vous pourroit donner, elle espere augmenter la sienne par les devoirs qu’elle rend à vostre merite. En effait, comme on ne peut rien adjouster aux choses achevées, la Nature ayant fait voir en vous une union parfaite de tout les avantages du cors et de l’ame : Il n’est point de plume si eloquente qui bien loin de rehausser vostre gloire n’en diminuast l’éclat par son impuissance. Ceste beauté merveilleuse, cet esprit incomparable, et ceste grandeur de courage exemplaire et pourtant sans exemple ont cela de choses divines qu’on ne peut mieux exprimer l’estime qu’on en fait que par un respectueux silence. C’est pourquoi, <hi rend="sc">Mademoiselle</hi> , puisque le respect que je vous doy l’ordonne, je me tairay apres la protestation publique que je fais d’estre toute ma vie.</p>
         <p>Mademoiselle,</p>
@@ -9,16 +59,21 @@
         <p>serviteur, <hi rend="sc">Desmares</hi></p>
       </div>
       <div xml:id="privilege">
+        <head>Extraict du Privilege du Roy.</head>
         <p>Par grace et Privilege du Roy donné à Paris le 16. de Mars 1643. signé par le Roy en son Conseil, <hi rend="sc">Godefroy</hi>, il est permis à <hi rend="sc">Antoine de Sommaville</hi> Marchand Libraire à Paris, d’imprimer un Livre intitulé, <hi rend="i">Theatre de Roxelane Tragi-Comedie</hi>, durant le temps de cinq ans. Et deffences sont faites à toutes personnes de quelque qualité ou condition qu’elles soient, de l’imprimer, ou faire imprimer, à peine de quinze cens livres d’amende, ainsi qu’il est porté plus au long par ledit Privilege.</p>
         <p rend="center">Achevé d’imprimer pour la premiere fois, le seiziesme de</p>
         <p rend="center">Mars mil six cents quarante-trois.</p>
         <p>Ledit Sommaville a associé audit Privilege Augustin Courbé, Marchand Libraire à Paris, suivant l’accord fait entr’eux.</p>
         <p>Les Exemplaires ont esté fournis.</p>
       </div>
-      <div xml:id="acteurs"/>
+      <div xml:id="acteurs">
+        <head>ACTEURS.</head>
+      </div>
       <div xml:id="I" type="act">
         <pb n="A ; 1"/>
+        <head>ACTE PREMIER.</head>
         <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="I01-1" who="circasse">
             <l n="1" xml:id="l1">Vous, de qui l’<ref target="#amitie">amitié*</ref> ne suit point l’esperance, </l>
             <l n="2" xml:id="l2">Vous à qui la vertu tient lieu de recompense,</l>
@@ -219,6 +274,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>SCENE II</head>
           <pb n="10"/>
           <sp xml:id="I02-1" who="roxelane">
             <l n="147" xml:id="l147">Non, non, ne pensés pas que la présomption</l>
@@ -350,6 +406,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>SCENE III</head>
           <sp xml:id="I03-1" who="page">
             <l n="237" xml:id="l237">La Sultane Circasse est ici prés, Madame,</l>
             <l n="238" xml:id="l238" part="I">Qui demande à vous voir.</l>
@@ -516,6 +573,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>SCENE IV</head>
           <pb n="22"/>
           <sp xml:id="I04-1" who="roxelane">
             <l n="343" xml:id="l343">Je vous croiray, Circasse, et vous et vostre fils</l>
@@ -569,7 +627,9 @@
       </div>
       <div xml:id="II" type="act">
         <pb n="24"/>
+        <head>ACTE II</head>
         <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="II01-1" who="soliman">
             <l n="389" xml:id="l389">Non non, ceste grandeur dont l’éclat m’environne,</l>
             <l n="390" xml:id="l390">Les <ref target="#superbe1">superbes*</ref> Palais, le Sceptre, la Couronne,</l>
@@ -825,6 +885,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>SCENE II</head>
           <sp xml:id="II02-1" who="soliman">
             <l n="578" xml:id="l578">Enfin vous me rendés ceste aymable presence.</l>
           </sp>
@@ -1000,6 +1061,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>SCENE III</head>
           <pb n="42"/>
           <sp xml:id="II03-1" who="roxelane">
             <l n="693" xml:id="l693">Jusqu’icy la <ref target="#fortune">fortune*</ref> à nos vœux exorable</l>
@@ -1052,7 +1114,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>ACTE III</head>
         <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="III01-1" who="soliman">
             <l n="725" xml:id="l725">Non je ne vous croy pas, Roxelane est trop sage</l>
             <l n="726" xml:id="l726">Page, pensez à vous ce discours vous engage.</l>
@@ -1145,6 +1209,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>SCENE II</head>
           <sp xml:id="III02-1" who="acmat">
             <l n="785" xml:id="l785">Je ne puis rien comprendre en ceste procedure ;</l>
             <l n="786" xml:id="l786">Mais toujours je prevoy quelque grande avanture.</l>
@@ -1194,6 +1259,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>SCENE III</head>
           <sp xml:id="III03-1" who="circasse">
             <l n="820" xml:id="l820">He bien mon cher Osman, que nous apportés-vous ?</l>
           </sp>
@@ -1253,6 +1319,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>SCENE IV</head>
           <pb n="53"/>
           <sp xml:id="III04-1" who="roxelane">
             <p>STANCES.</p>
@@ -1304,6 +1371,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>SCENE V</head>
           <pb n="55"/>
           <sp xml:id="III05-1" who="roxelane">
             <l part="F">            Rustan qui vous amene ?</l>
@@ -1488,6 +1556,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III06">
+          <head>SCENE VI</head>
           <sp xml:id="III06-1" who="roxelane">
             <l n="976" xml:id="l976">He bien faut-il mourir ; que vous a dit le Roy ?</l>
             <l n="977" xml:id="l977">Vous a-t-il commandé de luy porter ma teste ?</l>
@@ -1536,7 +1605,9 @@
       </div>
       <div xml:id="IV" type="act">
         <pb n="I ; 67"/>
+        <head>ACTE IV</head>
         <div type="scene" xml:id="IV01">
+          <head>SCENE PREMIERE.</head>
           <sp xml:id="IV01-1" who="soliman">
             <p>STANCES.</p>
             <lg>
@@ -1596,6 +1667,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>SCENE II</head>
           <sp xml:id="IV02-1" who="circasse">
             <l n="1043" xml:id="l1043" part="I">Seigneur que vous plaist-il.</l>
           </sp>
@@ -1651,6 +1723,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>SCENE III</head>
           <sp xml:id="IV03-1" who="soliman">
             <l part="F">            He bien belle Princesse !</l>
             <l n="1078" xml:id="l1078">Ma faveur vous offence et mon amour vous blesse</l>
@@ -1769,6 +1842,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>SCENE IV</head>
           <sp xml:id="IV04-1" who="soliman">
             <l n="1173" xml:id="l1173">Enfin je me voy libre et je puis sans contrainte</l>
             <l n="1174" xml:id="l1174">Vous dire les douleurs dont mon ame est atteinte.</l>
@@ -1911,6 +1985,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV05">
+          <head>SCENE V</head>
           <sp xml:id="IV05-1" who="ormin">
             <l part="M">            Seigneur.</l>
           </sp>
@@ -1956,7 +2031,9 @@
       </div>
       <div xml:id="V" type="act">
         <pb n="85"/>
+        <head>ACTE V</head>
         <div type="scene" xml:id="V01">
+          <head>SCENE PREMIERE</head>
           <sp xml:id="V01-1" who="circasse">
             <l n="1305" xml:id="l1305">En ce jour où le Ciel doit monstrer à ma peine</l>
             <l n="1306" xml:id="l1306">Ou sa derniere grace ou sa derniere hayne,</l>
@@ -2043,6 +2120,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>SCENE II</head>
           <sp xml:id="V02-1" who="soliman">
             <l n="1357" xml:id="l1357">Amis dont la valeur jointe à l’experience</l>
             <l n="1358" xml:id="l1358">Affermit ma couronne, asseure ma puissance</l>
@@ -2331,6 +2409,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>SCENE DERNIERE</head>
           <sp xml:id="V03-1" who="soliman">
             <l n="1588" xml:id="l1588">Venez chaste beauté, reine des Musulmans*</l>
             <l n="1589" xml:id="l1589">Venez de Soliman l’épouse legitime.</l>
