@@ -1,8 +1,58 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Comtesse d'Escarbagnas</title>
+        <author>Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2011, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2016, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2016, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_comtesse-escarbagnas/</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1672" type="created"/>
+        <date when="1682" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div1 type="act" xml:id="I">
+        <head>Acte Premier</head>
         <div2 type="scene" xml:id="I01">
+          <head>Scène Première</head>
           <sp who="le-vicomte" xml:id="I01-1">
             <p>Hé, quoi Madame, vous êtes déjà ici ?</p>
           </sp>
@@ -80,6 +130,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I02">
+          <head>Scène II</head>
           <sp who="la-comtesse" xml:id="I02-1">
             <p>Ah ! mon Dieu, Madame, vous voilà toute seule ? quelle pitié est-ce là, toute seule ; il me semble que mes gens m’avaient dit, que le Vicomte était ici ?</p>
           </sp>
@@ -340,6 +391,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I03">
+          <head>Scène III</head>
           <sp who="criquet" xml:id="I03-1">
             <p>Voilà Jeannot de Monsieur le Conseiller qui vous demande, Madame.</p>
           </sp>
@@ -396,6 +448,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I04">
+          <head>Scène IV</head>
           <sp who="le-vicomte" xml:id="I04-1">
             <p>Madame, je viens vous avertir que la Comédie sera bientôt prête, et que dans un quart d’heure nous pouvons passer dans la Salle.</p>
           </sp>
@@ -428,6 +481,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I05">
+          <head>Scène V</head>
           <sp who="la-comtesse" xml:id="I05-1">
             <p>Approchez, Monsieur Tibaudier, ne craignez point d’entrer. Votre billet a été bien reçu, aussi bien que vos poires, et voilà Madame qui parle pour vous, contre votre Rival.</p>
           </sp>
@@ -511,6 +565,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I06">
+          <head>Scène VI</head>
           <sp who="la-comtesse" xml:id="I06-1">
             <p>Holà, Monsieur Bobinet, Monsieur Bobinet, approchez-vous du monde.</p>
           </sp>
@@ -552,6 +607,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I07">
+          <head>Scène VII</head>
           <sp who="monsieur-bobinet" xml:id="I07-1">
             <p>Allons, Monsieur le Comte, faites voir que vous profitez des bons documents qu’on vous donne. La révérence à toute l’honnête assemblée.</p>
           </sp>
@@ -626,6 +682,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I08">
+          <head>Scène VIII</head>
           <sp who="monsieur-harpin" xml:id="I08-1">
             <p>Parbleu la chose est belle, et je me réjouis de voir ce que je vois.</p>
           </sp>
@@ -712,6 +769,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I09">
+          <head>Scène Dernière</head>
           <sp who="jeannot" xml:id="I09-1">
             <p>Voilà un billet, Monsieur, qu’on nous a dit de vous donner vite.</p>
           </sp>

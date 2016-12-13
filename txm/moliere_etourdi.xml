@@ -1,8 +1,64 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'Étourdi ou Les Contre-temps</title>
+        <title type="sub">Comédie</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2006, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2006"/>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_etourdi/</idno>
+        <idno type="tei">http://svn.code.sf.net/p/theatre-classique/code/documents/moliere_etourdi.xml</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1655" type="created"/>
+        <date when="1663" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>L'ÉTOURDI <lb/>OU LES CONTRETEMPS, <lb/><hi rend="i">COMÉDIE</hi></head>
       <div1 type="act" xml:id="I">
+        <head>Acte I</head>
         <div2 type="scene" xml:id="I01">
+          <head>Scène Première</head>
           <sp who="lelie" xml:id="I01-1">
             <l>Hé bien ! Léandre, hé bien ! il faudra contester ;</l>
             <l>Nous verrons de nous deux qui pourra l’emporter ;</l>
@@ -13,6 +69,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I02">
+          <head>Scène II</head>
           <sp who="lelie" xml:id="I02-1">
             <l part="I">Ah ! Mascarille.</l>
           </sp>
@@ -206,6 +263,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I03">
+          <head>Scène III</head>
           <sp who="lelie" xml:id="I03-1">
             <l>Ah ! que le Ciel m’oblige, en offrant à ma vue</l>
             <l>Les célestes attraits dont vous êtes pourvue !</l>
@@ -244,6 +302,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I04">
+          <head>Scène IV</head>
           <sp who="trufaldin" xml:id="I04-1">
             <l>Que faites-vous dehors ? et quel soin vous talonne,</l>
             <l>Vous à qui je défends de parler à personne.</l>
@@ -388,6 +447,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I05">
+          <head>Scène V</head>
           <sp who="anselme" xml:id="I05-1">
             <l>Par mon chef, c’est un siècle étrange que le nôtre !</l>
             <l n="205">J’en suis confus ; jamais tant d’amour pour le bien,</l>
@@ -536,6 +596,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I06">
+          <head>Scène VI</head>
           <sp who="lelie" xml:id="I06-1">
             <l part="I">À qui la bourse ?</l>
           </sp>
@@ -611,6 +672,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I07">
+          <head>Scène VII</head>
           <sp who="pandolfe" xml:id="I07-1">
             <l part="I">Mascarille,</l>
           </sp>
@@ -734,6 +796,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I08">
+          <head>Scène VIII</head>
           <sp who="hippolyte" xml:id="I08-1">
             <l>Oui, traître, c’est ainsi que tu me rends service ;</l>
             <l>Je viens de tout entendre et voir ton artifice ;</l>
@@ -840,6 +903,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I09">
+          <head>Scène IX</head>
           <sp who="lelie" xml:id="I09-1">
             <l>Que diable fais-tu là ? Tu me promets merveille ;</l>
             <l>Mais ta lenteur d’agir est pour moi sans pareille :</l>
@@ -872,7 +936,9 @@
         </div2>
       </div1>
       <div1 type="act" xml:id="II">
+        <head>Acte II</head>
         <div2 type="scene" xml:id="II01">
+          <head>Scène Première</head>
           <sp who="mascarille" xml:id="II01-1">
             <l>À vos désirs enfin il a fallu se rendre,</l>
             <l>Malgré tous mes serments je n’ai pu m’en défendre,</l>
@@ -930,6 +996,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II02">
+          <head>Scène II</head>
           <sp who="mascarille" xml:id="II02-1">
             <l>La nouvelle a sujet de vous surprendre fort.</l>
           </sp>
@@ -990,6 +1057,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II03">
+          <head>Scène III</head>
           <sp who="anselme" xml:id="II03-1">
             <l>Sortons, je ne saurais qu’avec douleur très forte,</l>
             <l>Le voir empaqueté de cette étrange sorte :</l>
@@ -1094,6 +1162,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II04">
+          <head>Scène IV</head>
           <sp who="anselme" xml:id="II04-1">
             <l part="F">Ah ! bons Dieux, je frémis !</l>
             <l>Pandolfe qui revient ! fût-il bien endormi.</l>
@@ -1191,6 +1260,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II05">
+          <head>Scène V</head>
           <sp who="lelie" xml:id="II05-1">
             <l part="F">Maintenant avec ce passeport,</l>
             <l n="635">Je puis à Trufaldin rendre aisément visite.</l>
@@ -1240,6 +1310,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II06">
+          <head>Scène VI</head>
           <sp who="mascarille" xml:id="II06-1">
             <l>Quoi ? vous étiez sorti ? je vous cherchais partout :</l>
             <l>Hé bien ? en sommes-nous enfin venus à bout ;</l>
@@ -1364,6 +1435,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II07">
+          <head>Scène VII</head>
           <sp who="lelie" xml:id="II07-1">
             <l>Que vois-je ! mon rival et Trufaldin ensemble !</l>
             <l>Il achète Célie ; ah ! de frayeur je tremble.</l>
@@ -1504,6 +1576,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II08">
+          <head>Scène VIII</head>
           <sp who="hippolyte" xml:id="II08-1">
             <l>Je dois vous annoncer, Léandre, une nouvelle ;</l>
             <l n="780">Mais la trouverez‑vous agréable, ou cruelle ?</l>
@@ -1533,6 +1606,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II09">
+          <head>Scène IX</head>
           <sp who="mascarille" xml:id="II09-1">
             <l part="I">Holà.</l>
           </sp>
@@ -1549,6 +1623,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II10">
+          <head>Scène X</head>
           <sp who="courrier" xml:id="II10-1">
             <l>Seigneur, obligez‑moi de m’enseigner un homme…</l>
           </sp>
@@ -1616,6 +1691,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II11">
+          <head>Scène XI</head>
           <sp who="mascarille" xml:id="II11-1">
             <l n="835">Quel beau transport de joie à présent vous inspire ?</l>
           </sp>
@@ -1723,7 +1799,9 @@
         </div2>
       </div1>
       <div1 type="act" xml:id="III">
+        <head>Acte III</head>
         <div2 type="scene" xml:id="III01">
+          <head>Scène I</head>
           <sp who="mascarille" xml:id="III01-1">
             <l>Taisez-vous, ma bonté, cessez votre entretien ;</l>
             <l>Vous êtes une sotte, et je n’en ferai rien ;</l>
@@ -1764,6 +1842,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III02">
+          <head>Scène II</head>
           <sp who="mascarille" xml:id="III02-1">
             <l>Monsieur, j’ai perdu temps, votre homme se dédit.</l>
           </sp>
@@ -1879,6 +1958,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III03">
+          <head>Scène III</head>
           <sp who="lelie" xml:id="III03-1">
             <l>Du chagrin qui vous tient, quel peut être l’objet ?</l>
           </sp>
@@ -1984,6 +2064,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III04">
+          <head>Scène IV</head>
           <sp who="lelie" xml:id="III04-1">
             <l>Ah ! bon, bon, le voilà, venez çà, chien maudit.</l>
           </sp>
@@ -2224,6 +2305,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III05">
+          <head>Scène V</head>
           <sp who="ergaste" xml:id="III05-1">
             <l>Je te cherchais partout pour te rendre un service,</l>
             <l>Pour te donner avis d’un secret important.</l>
@@ -2279,6 +2361,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III06">
+          <head>Scène VI</head>
           <sp who="lelie" xml:id="III06-1">
             <l>Il prétend l’enlever avec sa mascarade ?</l>
           </sp>
@@ -2306,6 +2389,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III07">
+          <head>Scène VII</head>
           <sp who="trufaldin" xml:id="III07-1">
             <l part="F">Qu’est-ce ? qui me vient voir ?</l>
           </sp>
@@ -2332,6 +2416,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III08">
+          <head>Scène VIII</head>
           <sp who="trufaldin" xml:id="III08-1">
             <l>Oh ! les plaisants robins qui pensent me surprendre !</l>
           </sp>
@@ -2383,6 +2468,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III09">
+          <head>Scène IX</head>
           <sp who="leandre" xml:id="III09-1">
             <l>Sans bruit ; ne faisons rien que de la bonne sorte.</l>
           </sp>
@@ -2404,7 +2490,9 @@
         </div2>
       </div1>
       <div1 type="act" xml:id="IV">
+        <head>Acte IV</head>
         <div2 type="scene" xml:id="IV01">
+          <head>Scène Première</head>
           <sp who="mascarille" xml:id="IV01-1">
             <l n="1255">Vous voilà fagoté d’une plaisante sorte.</l>
           </sp>
@@ -2596,6 +2684,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV02">
+          <head>Scène II</head>
           <sp who="trufaldin" xml:id="IV02-1">
             <l>Sois béni, juste Ciel ! de mon sort adouci.</l>
           </sp>
@@ -2752,6 +2841,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV03">
+          <head>Scène III</head>
           <sp who="anselme" xml:id="IV03-1">
             <l>Arrêtez-vous, Léandre, et souffrez un discours,</l>
             <l n="1450">Qui cherche le repos et l’honneur de vos jours :</l>
@@ -2806,6 +2896,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV04">
+          <head>Scène IV</head>
           <sp who="mascarille" xml:id="IV04-1">
             <l>Bientôt de notre fourbe on verra le débris,</l>
             <l n="1495">Si vous continuez des sottises si grandes.</l>
@@ -2876,6 +2967,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV05">
+          <head>Scène V</head>
           <sp who="mascarille" xml:id="IV05-1">
             <l part="F">Nous parlions des fortunes d’Horace.</l>
           </sp>
@@ -2944,6 +3036,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV06">
+          <head>Scène VI</head>
           <sp who="trufaldin" xml:id="IV06-1">
             <l n="1580" part="F">Un mot, je vous supplie.</l>
             <l>Donc, monsieur l’imposteur, vous osez aujourd’hui</l>
@@ -3090,6 +3183,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV07">
+          <head>Scène VII</head>
           <sp who="ergaste" xml:id="IV07-1">
             <l>Mascarille, je viens te dire une nouvelle,</l>
             <l>Qui donne à tes desseins une atteinte cruelle ;</l>
@@ -3129,7 +3223,9 @@
         </div2>
       </div1>
       <div1 type="act" xml:id="V">
+        <head>Acte V</head>
         <div2 type="scene" xml:id="V01">
+          <head>Scène Première</head>
           <sp who="mascarille" xml:id="V01-1">
             <l n="1675">Ah chien ! ah double chien ! mâtine de cervelle,</l>
             <l>Ta persécution sera-t-elle éternelle ?</l>
@@ -3176,6 +3272,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V02">
+          <head>Scène II</head>
           <sp who="andres" xml:id="V02-1">
             <l>Vous le savez, Célie, il n’est rien que mon cœur</l>
             <l n="1710">N’ait fait, pour vous prouver l’excès de son ardeur ;</l>
@@ -3226,6 +3323,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V03">
+          <head>Scène III</head>
           <sp who="andres" xml:id="V03-1">
             <l>Seigneur Suisse, êtes-vous de ce logis le maître ?</l>
           </sp>
@@ -3290,6 +3388,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V04">
+          <head>Scène IV</head>
           <sp who="lelie" xml:id="V04-1">
             <l>Quel que soit le transport d’une âme impatiente,</l>
             <l>Ma parole m’engage à rester en attente ;</l>
@@ -3370,6 +3469,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V05">
+          <head>Scène V</head>
           <sp who="mascarille" xml:id="V05-1">
             <l>Hé bien ! ne voilà pas mon enragé de maître !</l>
             <l>Il nous va faire encor quelque nouveau bissêtre.</l>
@@ -3439,6 +3539,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V06">
+          <head>Scène VI</head>
           <sp who="andres" xml:id="V06-1">
             <l>N’est-ce pas là l’objet dont vous m’avez parlé ?</l>
           </sp>
@@ -3484,6 +3585,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V07">
+          <head>Scène VII</head>
           <sp who="celie" xml:id="V07-1">
             <l>Quoi que tu veuilles dire, et que l’on se propose,</l>
             <l>De ce retardement j’attends fort peu de chose ;</l>
@@ -3516,6 +3618,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V08">
+          <head>Scène VIII</head>
           <sp who="hippolyte" xml:id="V08-1">
             <l>Depuis votre séjour, les Dames de ces lieux</l>
             <l>Se plaignent justement des larcins de vos yeux ;</l>
@@ -3564,6 +3667,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V09">
+          <head>Scène IX</head>
           <sp who="mascarille" xml:id="V09-1">
             <l>Grande ! grande nouvelle, et succès surprenant !</l>
             <l n="1930">Que ma bouche vous vient annoncer maintenant.</l>
@@ -3684,6 +3788,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V10">
+          <head>Scène X</head>
           <sp who="trufaldin" xml:id="V10-1">
             <l part="M"> Ah ! ma fille.</l>
           </sp>
@@ -3729,6 +3834,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V11">
+          <head>Scène XI</head>
           <sp who="mascarille" xml:id="V11-1">
             <l n="2045">Voyons si votre diable aura bien le pouvoir</l>
             <l>De détruire à ce coup un si solide espoir ;</l>

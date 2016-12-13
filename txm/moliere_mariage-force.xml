@@ -1,8 +1,65 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Mariage forcé</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2010, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2010"/>
+        <date when="2014"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_mariage-force/</idno>
+        <idno type="tei">http://svn.code.sf.net/p/theatre-classique/code/documents/moliere_mariage-force.xml</idno>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1664" type="created"/>
+        <date when="1668" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie-ballet</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>Le Mariage forcé <lb/>Comédie</head>
       <div xml:id="I" type="act">
+        <head>[Pièce en un acte]</head>
         <div xml:id="I01" type="scene">
+          <head>Scène I</head>
           <p/>
           <sp who="sganarelle" xml:id="I01-1">
             <p>Je suis de retour dans un moment. Que l’on ait bien soin du Logis ; et que tout aille comme il faut. Si l’on m’apporte de l’argent, que l’on me vienne quérir vite chez le Seigneur Géronimo ; et si l’on vient m’en demander, qu’on dise que je suis sorti, et que je ne dois revenir de toute la journée.</p>
@@ -231,6 +288,7 @@
           </sp>
         </div>
         <div xml:id="I02" type="scene">
+          <head>Scène II</head>
           <p/>
           <sp who="dorimene" xml:id="I02-1">
             <p>Allons, petit Garçon, qu’on tienne bien ma Queue : et qu’on ne s’amuse pas à badiner.</p>
@@ -255,6 +313,7 @@
           </sp>
         </div>
         <div xml:id="I03" type="scene">
+          <head>Scène III</head>
           <p/>
           <sp who="geronimo" xml:id="I03-1">
             <p>Ah ! Seigneur Sganarelle, je suis ravi de vous trouver encore ici ; et j’ai rencontré un Orfèvre, qui sur le bruit que vous cherchez quelque beau Diamant en Bague, pour faire un Présent à votre Épouse, m’a fort prié de vous venir parler pour lui ; et de vous dire qu’il en a un à vendre, le plus parfait du Monde.</p>
@@ -276,6 +335,7 @@
           </sp>
         </div>
         <div xml:id="I04" type="scene">
+          <head>Scène IV</head>
           <p/>
           <sp who="pancrace" xml:id="I04-1">
             <p>Allez, vous êtes un impertinent, mon Ami ; un Homme bannissable de la République des Lettres.</p>
@@ -588,6 +648,7 @@
           </sp>
         </div>
         <div xml:id="I05" type="scene">
+          <head>Scène V</head>
           <p/>
           <sp who="marphurius" xml:id="I05-1">
             <p>Que voulez-vous de moi, Seigneur Sganarelle ?</p>
@@ -765,6 +826,7 @@
           </sp>
         </div>
         <div xml:id="I06" type="scene">
+          <head>Scène VI</head>
           <p/>
           <sp who="sganarelle" xml:id="I06-1">
             <p>Elles sont gaillardes. Écoutez, vous autres, y a-t-il moyen de me dire ma bonne fortune ?</p>
@@ -846,6 +908,7 @@
           </sp>
         </div>
         <div xml:id="I07" type="scene">
+          <head>Scène VII</head>
           <p/>
           <sp who="lycaste" xml:id="I07-1">
             <p>Quoi ? belle Dorimène, c’est sans raillerie que vous parlez ?</p>
@@ -888,6 +951,7 @@
           </sp>
         </div>
         <div xml:id="I08" type="scene">
+          <head>Scène VIII</head>
           <p/>
           <sp who="alcantor" xml:id="I08-1">
             <p>Ah ! mon Gendre, soyez le bienvenu !</p>
@@ -1005,6 +1069,7 @@
           </sp>
         </div>
         <div xml:id="I09" type="scene">
+          <head>Scène IX</head>
           <p/>
           <sp who="alcidas" xml:id="I09-1">
             <p>Monsieur, je suis votre serviteur très humble.</p>
@@ -1120,6 +1185,7 @@
           </sp>
         </div>
         <div xml:id="I10" type="scene">
+          <head>Scène X</head>
           <p/>
           <sp who="alcidas" xml:id="I10-1">
             <p>Mon Père, voilà Monsieur, qui est tout à fait raisonnable. Il a voulu faire les choses de bonne grâce ; et vous pouvez lui donner ma Sœur.</p>

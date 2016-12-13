@@ -1,8 +1,50 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L’Impromptu de Versailles</title>
+        <author>Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2008, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_impromptu-versailles/</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1663" type="created"/>
+        <date when="1682" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div1 n="1" xml:id="I">
+        <head/>
         <div2 type="scene" n="1" xml:id="I01">
+          <head>Scène Première</head>
           <sp who="moliere" xml:id="I01-1">
             <p>Allons donc, messieurs et mesdames, vous moquez-vous avec votre longueur, et ne voulez-vous pas tous venir ici ?
               La peste soit des gens !
@@ -318,6 +360,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="I02">
+          <head>Scène II</head>
           <sp who="la-thorilliere" xml:id="I02-1">
             <p>Bonjour, Monsieur Molière.</p>
           </sp>
@@ -454,6 +497,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="I03">
+          <head>Scène III</head>
           <sp who="moliere" xml:id="I03-1">
             <p>Ah !
               Que le monde est plein d’impertinents !
@@ -569,6 +613,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="I04">
+          <head>Scène IV</head>
           <sp who="moliere" xml:id="I04-1">
             <p>Voici un homme qui nous jugera.
               Chevalier !</p>
@@ -767,6 +812,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="5" xml:id="I05">
+          <head>Scène V</head>
           <sp who="mademoiselle-de-brie" xml:id="I05-1">
             <p>Vous voulez bien, mesdames, que nous vous donnions, en passant, la plus agréable nouvelle du monde.
               Voilà Monsieur Lysidas, qui vient de nous avertir qu’on a fait une pièce contre Molière, que les grands comédiens vont jouer.</p>
@@ -1005,6 +1051,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="6" xml:id="I06">
+          <head>Scène VI</head>
           <sp who="bejart" xml:id="I06-1">
             <p>Messieurs, je viens vous avertir que le roi est venu, et qu’il attend que vous commenciez.</p>
           </sp>
@@ -1016,6 +1063,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="7" xml:id="I07">
+          <head>Scène VII</head>
           <sp who="moliere" xml:id="I07-1">
             <p>Eh !
               De grâce, tâchez de vous remettre, prenez courage, je vous prie.</p>
@@ -1028,6 +1076,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="8" xml:id="I08">
+          <head>Scène VIII</head>
           <sp who="un-necessaire" xml:id="I08-1">
             <p>Messieurs, commencez donc.</p>
           </sp>
@@ -1037,6 +1086,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="9" xml:id="I09">
+          <head>Scène IX</head>
           <sp who="autre-necessaire" xml:id="I09-1">
             <p>Messieurs, commencez donc.</p>
           </sp>
@@ -1047,6 +1097,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="10" xml:id="I10">
+          <head>Scène X</head>
           <sp who="autre-necessaire" xml:id="I10-1">
             <p>Messieurs, commencez donc.</p>
           </sp>
@@ -1057,6 +1108,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="11" xml:id="I11">
+          <head>Scène XI</head>
           <sp who="autre-necessaire" xml:id="I11-1">
             <p>Messieurs, commencez donc.</p>
           </sp>
@@ -1066,6 +1118,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="12" xml:id="I12">
+          <head>Scène XII</head>
           <sp who="moliere" xml:id="I12-1">
             <p>Monsieur, vous venez pour nous dire de commencer, mais...</p>
           </sp>

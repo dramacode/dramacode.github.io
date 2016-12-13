@@ -1,7 +1,61 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Amphitryon</title>
+        <title type="sub">Comédie</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2006, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2006"/>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_amphitryon/</idno>
+        <idno type="tei">http://svn.code.sf.net/p/theatre-classique/code/documents/moliere_amphitryon.xml</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1668" type="created"/>
+        <date when="1668" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="FR"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div1 type="act" xml:id="a">
+        <head>Prologue</head>
         <sp who="mercure" xml:id="a-1">
           <l>Tout beau, charmante Nuit ; daignez vous arrêter.</l>
           <l>Il est certain secours, que de vous on désire :</l>
@@ -212,7 +266,9 @@
         </sp>
       </div1>
       <div1 type="act" xml:id="I">
+        <head>Acte I</head>
         <div2 type="scene" xml:id="I01">
+          <head>Scène Première</head>
           <sp who="sosie" xml:id="I01-1">
             <l>Qui va là ? Heu ? Ma peur, à chaque pas s’accroît.</l>
             <l>Messieurs, Ami de tout le Monde.</l>
@@ -323,6 +379,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I02">
+          <head>Scène II</head>
           <sp who="mercure" xml:id="I02-1">
             <l>Sous ce minois, qui lui ressemble,</l>
             <l>Chassons de ces Lieux ce Causeur ;</l>
@@ -852,6 +909,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I03">
+          <head>Scène III</head>
           <sp who="jupiter" xml:id="I03-1">
             <l>Défendez, chère Alcmène, aux Flambeaux d’approcher ;</l>
             <l>Ils m’offrent des plaisirs, en m’offrant votre vue :</l>
@@ -974,6 +1032,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I04">
+          <head>Scène IV</head>
           <sp who="cleanthis" xml:id="I04-1">
             <l>Quoi ! c’est ainsi que l’on me quitte ?</l>
           </sp>
@@ -1074,7 +1133,9 @@
         </div2>
       </div1>
       <div1 type="act" xml:id="II">
+        <head>Acte II</head>
         <div2 type="scene" xml:id="II01">
+          <head>Scène Première</head>
           <sp who="amphitryon" xml:id="II01-1">
             <l>Viens çà, Bourreau, viens çà. Sais-tu, Maître Fripon,</l>
             <l>Qu’à te faire assommer, ton discours peut suffire ?</l>
@@ -1362,6 +1423,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II02">
+          <head>Scène II</head>
           <sp who="alcmene" xml:id="II02-1">
             <l>Allons pour mon Époux, Cléanthis, vers les Dieux,</l>
             <l>Nous acquitter de nos hommages ;</l>
@@ -1765,6 +1827,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II03">
+          <head>Scène III</head>
           <sp who="cleanthis" xml:id="II03-1">
             <l>Il faut que quelque chose ait brouillé sa cervelle :</l>
             <l>Mais le Frère, sur-le-champ,</l>
@@ -2008,6 +2071,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II04">
+          <head>Scène IV</head>
           <sp who="jupiter" xml:id="II04-1">
             <l>Je viens prendre le temps de rapaiser Alcmène ;</l>
             <l>De bannir les chagrins, que son Cœur veut garder ;</l>
@@ -2030,6 +2094,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II05">
+          <head>Scène V</head>
           <sp who="sosie" xml:id="II05-1">
             <l>Que dis-tu, Cléanthis, de ce joyeux maintien,</l>
             <l>Après son fracas effroyable ?</l>
@@ -2053,6 +2118,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II06">
+          <head>Scène VI</head>
           <sp who="jupiter" xml:id="II06-1">
             <l>Voulez-vous me désespérer ?</l>
             <l>Hélas ! arrêtez, belle Alcmène.</l>
@@ -2356,6 +2422,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II07">
+          <head>Scène VII</head>
           <sp who="sosie" xml:id="II07-1">
             <l>Hé bien ! tu vois, Cléanthis, ce ménage.</l>
             <l>Veux-tu, qu’à leur exemple ici,</l>
@@ -2389,7 +2456,9 @@
         </div2>
       </div1>
       <div1 type="act" xml:id="III">
+        <head>Acte III</head>
         <div2 type="scene" xml:id="III01">
+          <head>Scène Première</head>
           <sp who="amphitryon" xml:id="III01-1">
             <l>Oui, sans doute, le Sort tout exprès me le cache ;</l>
             <l>Et des tours que je fais, à la fin, je suis las.</l>
@@ -2445,6 +2514,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III02">
+          <head>Scène II</head>
           <sp who="mercure" xml:id="III02-1">
             <l>Comme l’Amour ici ne m’offre aucun plaisir,</l>
             <l>Je m’en veux faire, au moins, qui soient d’autre nature :</l>
@@ -2606,6 +2676,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III03">
+          <head>Scène III</head>
           <sp who="amphitryon" xml:id="III03-1">
             <l>Ah ! quel étrange coup m’a-t-il porté dans l’Âme ?</l>
             <l>En quel trouble cruel jette-t-il mon Esprit ?</l>
@@ -2622,6 +2693,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III04">
+          <head>Scène IV</head>
           <sp who="sosie" xml:id="III04-1">
             <l>Monsieur, avec mes soins, tout ce que j’ai pu faire,</l>
             <l>C’est de vous amener ces Messieurs que voici.</l>
@@ -2741,6 +2813,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III05">
+          <head>Scène V</head>
           <sp who="jupiter" xml:id="III05-1">
             <l>Quel bruit à descendre m’oblige ?</l>
             <l>Et qui frappe en Maître où je suis ?</l>
@@ -2945,6 +3018,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III06">
+          <head>Scène VI</head>
           <sp who="mercure" xml:id="III06-1">
             <l>Arrête. Quoi ! tu viens ici mettre ton nez,</l>
             <l>Impudent Fleureur de Cuisine ?</l>
@@ -3068,6 +3142,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III07">
+          <head>Scène VII</head>
           <sp who="amphitryon" xml:id="III07-1">
             <l>Arrêtez là, Messieurs. Suivez-nous d’un peu loin ;</l>
             <l>Et n’avancez tous, je vous prie,</l>
@@ -3149,6 +3224,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III08">
+          <head>Scène VIII</head>
           <sp who="cleanthis" xml:id="III08-1">
             <l part="I">Ô Ciel !</l>
           </sp>
@@ -3167,6 +3243,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III09">
+          <head>Scène IX</head>
           <sp who="mercure" xml:id="III09-1">
             <l>Oui, vous l’allez voir tous : et sachez, par avance,</l>
             <l>Que c’est le Grand Maître des Dieux ;</l>
@@ -3197,6 +3274,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III10">
+          <head>Scène X</head>
           <sp who="jupiter" xml:id="III10-1">
             <l>Regarde, Amphitryon, quel est ton Imposteur ;</l>
             <l>Et sous tes propres traits, vois Jupiter paraître.</l>

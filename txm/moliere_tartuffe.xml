@@ -1,8 +1,61 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Tartuffe, ou L’Imposteur</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2006, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2015, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2015, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2006"/>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_tartuffe/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1664" type="created"/>
+        <date when="1669" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div1 type="act" xml:id="I">
+        <head>Acte premier</head>
         <div2 type="scene" xml:id="I01">
+          <head>Scène première</head>
           <sp xml:id="I01-1" who="madame-pernelle">
             <l n="1" xml:id="l1">Allons, Flipote, allons ; que d’eux je me délivre.</l>
           </sp>
@@ -250,6 +303,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I02">
+          <head>Scène II.</head>
           <sp xml:id="I02-1" who="cleante">
             <l n="171" part="F">Je n’y veux point aller,</l>
             <l n="172" xml:id="l172">De peur qu’elle ne vînt encor me quereller ;</l>
@@ -301,6 +355,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I03">
+          <head>Scène III</head>
           <sp xml:id="I03-1" who="elmire">
             <l n="211" xml:id="l211">Vous êtes bien heureux, de n’être point venu</l>
             <l n="212" xml:id="l212">Au discours qu’à la Porte elle nous a tenu.</l>
@@ -325,6 +380,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I04">
+          <head>Scène IV</head>
           <sp xml:id="I04-1" who="orgon">
             <l n="223" part="F">Ah, mon Frère, bonjour.</l>
           </sp>
@@ -411,6 +467,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I05">
+          <head>Scène V</head>
           <sp xml:id="I05-1" who="cleante">
             <l n="259" xml:id="l259">À votre nez, mon Frère, elle se rit de vous ;</l>
             <l n="260" xml:id="l260">Et sans avoir dessein de vous mettre en courroux,</l>
@@ -666,7 +723,9 @@
         </div2>
       </div1>
       <div1 type="act" xml:id="II">
+        <head>Acte II</head>
         <div2 type="scene" xml:id="II01">
+          <head>Scène première</head>
           <sp xml:id="II01-1" who="orgon">
             <l n="427" xml:id="l427" part="I">Mariane.</l>
           </sp>
@@ -762,6 +821,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II02">
+          <head>Scène II</head>
           <sp xml:id="II02-1" who="orgon">
             <l n="456" part="F">Que faites-vous là ?</l>
             <l n="457" xml:id="l457">La curiosité qui vous presse, est bien forte,</l>
@@ -1031,6 +1091,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II03">
+          <head>Scène III</head>
           <sp xml:id="II03-1" who="dorine">
             <l n="585" xml:id="l585">Avez-vous donc perdu, dites-moi, la parole ?</l>
             <l n="586" xml:id="l586">Et faut-il qu’en ceci je fasse votre rôle ?</l>
@@ -1233,6 +1294,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II04">
+          <head>Scène IV</head>
           <sp xml:id="II04-1" who="valere">
             <l n="685" xml:id="l685">On vient de débiter, Madame, une nouvelle,</l>
             <l n="686" xml:id="l686">Que je ne savais pas, et qui sans doute est belle.</l>
@@ -1610,7 +1672,9 @@
         </div2>
       </div1>
       <div1 type="act" xml:id="III">
+        <head>Acte III</head>
         <div2 type="scene" xml:id="III01">
+          <head>Scène première</head>
           <sp xml:id="III01-1" who="damis">
             <l n="823" xml:id="l823">Que la Foudre, sur l’heure, achève mes destins ;</l>
             <l n="824" xml:id="l824">Qu’on me traite partout, du plus grand des Faquins,</l>
@@ -1665,6 +1729,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III02">
+          <head>Scène II</head>
           <sp xml:id="III02-1" who="tartuffe">
             <l n="853" xml:id="l853">Laurent, serrez ma Haire, avec ma Discipline,</l>
             <l n="854" xml:id="l854">Et priez que toujours le Ciel vous illumine.</l>
@@ -1726,6 +1791,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III03">
+          <head>Scène III</head>
           <sp xml:id="III03-1" who="tartuffe">
             <l n="879" xml:id="l879">Que le Ciel à jamais, par sa toute bonté,</l>
             <l n="880" xml:id="l880">Et de l’âme, et du corps, vous donne la santé ;</l>
@@ -1939,6 +2005,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III04">
+          <head>Scène IV</head>
           <sp xml:id="III04-1" who="damis">
             <l n="1021" part="F">Non, Madame, non, ceci doit se répandre.</l>
             <l n="1022" xml:id="l1022">J’étais en cet endroit, d’où j’ai pu tout entendre ;</l>
@@ -1986,6 +2053,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III05">
+          <head>Scène V</head>
           <sp xml:id="III05-1" who="damis">
             <l n="1055" xml:id="l1055">Nous allons régaler, mon Père, votre abord,</l>
             <l n="1056" xml:id="l1056">D’un incident tout frais, qui vous surprendra fort.</l>
@@ -2010,6 +2078,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III06">
+          <head>Scène VI</head>
           <sp xml:id="III06-1" who="orgon">
             <l n="1073" xml:id="l1073">Ce que je viens d’entendre, ô Ciel ! est-il croyable ?</l>
           </sp>
@@ -2149,6 +2218,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III07">
+          <head>Scène VII</head>
           <sp xml:id="III07-1" who="orgon">
             <l n="1141" xml:id="l1141">Offenser de la sorte une sainte Personne !</l>
           </sp>
@@ -2244,7 +2314,9 @@
         </div2>
       </div1>
       <div1 type="act" xml:id="IV">
+        <head>Acte IV</head>
         <div2 type="scene" xml:id="IV01">
+          <head>Scène première</head>
           <sp xml:id="IV01-1" who="cleante">
             <l n="1185" xml:id="l1185">Oui, tout le monde en parle, et vous m’en pouvez croire.</l>
             <l n="1186" xml:id="l1186">L’éclat que fait ce bruit, n’est point à votre gloire ;</l>
@@ -2351,6 +2423,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV02">
+          <head>Scène II</head>
           <sp xml:id="IV02-1" who="dorine">
             <l n="1269" part="F">De grâce, avec nous, employez-vous pour elle,</l>
             <l n="1270" xml:id="l1270">Monsieur, son âme souffre une douleur mortelle ;</l>
@@ -2362,6 +2435,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV03">
+          <head>Scène III</head>
           <sp xml:id="IV03-1" who="orgon">
             <l n="1276" xml:id="l1276">Ha, je me réjouis de vous voir assemblés.</l>
             <l n="1277" xml:id="l1277">Je porte, en ce Contrat, de quoi vous faire rire,</l>
@@ -2507,6 +2581,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV04">
+          <head>Scène IV</head>
           <sp xml:id="IV04-1" who="elmire">
             <l n="1360" xml:id="l1360">Approchons cette Table, et vous mettez dessous.</l>
           </sp>
@@ -2552,6 +2627,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV05">
+          <head>Scène V</head>
           <sp xml:id="IV05-1" who="tartuffe">
             <l n="1387" xml:id="l1387">On m’a dit qu’en ce lieu vous me vouliez parler.</l>
           </sp>
@@ -2746,6 +2822,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV06">
+          <head>Scène VI</head>
           <sp xml:id="IV06-1" who="orgon">
             <l n="1529" xml:id="l1529">Voilà, je vous l’avoue, un abominable Homme !</l>
             <l n="1530" xml:id="l1530">Je n’en puis revenir, et tout ceci m’assomme.</l>
@@ -2766,6 +2843,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV07">
+          <head>Scène VII</head>
           <sp xml:id="IV07-1" who="tartuffe">
             <l n="1539" xml:id="l1539">Tout conspire, Madame, à mon contentement :</l>
             <l n="1540" xml:id="l1540">J’ai visité, de l’œil, tout cet appartement,</l>
@@ -2812,6 +2890,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV08">
+          <head>Scène VIII</head>
           <sp xml:id="IV08-1" who="elmire">
             <l n="1565" xml:id="l1565">Quel est donc ce langage, et qu’est-ce qu’il veut dire ?</l>
           </sp>
@@ -2842,7 +2921,9 @@
         </div2>
       </div1>
       <div1 type="act" xml:id="V">
+        <head>Acte V</head>
         <div2 type="scene" xml:id="V01">
+          <head>Scène première</head>
           <sp xml:id="V01-1" who="cleante">
             <l n="1573" xml:id="l1573">Où voulez-vous courir ?</l>
           </sp>
@@ -2925,6 +3006,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V02">
+          <head>Scène II</head>
           <sp xml:id="V02-1" who="damis">
             <l n="1629" xml:id="l1629">Quoi ! mon Père, est-il vrai qu’un Coquin vous menace ?</l>
             <l n="1630" xml:id="l1630">Qu’il n’est point de bienfait qu’en son âme il n’efface ;</l>
@@ -2948,6 +3030,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V03">
+          <head>Scène III</head>
           <sp xml:id="V03-1" who="madame-pernelle">
             <l n="1642" xml:id="l1642">Qu’est-ce ? J’apprends ici de terribles mystères.</l>
           </sp>
@@ -3099,6 +3182,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V04">
+          <head>Scène IV</head>
           <sp xml:id="V04-1" who="loyal">
             <l n="1717" xml:id="l1717">Bonjour, ma chère Sœur. Faites, je vous supplie,</l>
             <l n="1718" xml:id="l1718" part="I">Que je parle à Monsieur.</l>
@@ -3275,6 +3359,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V05">
+          <head>Scène V</head>
           <sp xml:id="V05-1" who="orgon">
             <l n="1811" xml:id="l1811">Hé bien, vous le voyez, ma Mère, si j’ai droit ;</l>
             <l n="1812" xml:id="l1812">Et vous pouvez juger du reste, par l’Exploit.</l>
@@ -3305,6 +3390,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V06">
+          <head>Scène VI</head>
           <sp xml:id="V06-1" who="valere">
             <l n="1827" xml:id="l1827">Avec regret, Monsieur, je viens vous affliger ;</l>
             <l n="1828" xml:id="l1828">Mais je m’y vois contraint par le pressant danger.</l>
@@ -3355,6 +3441,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V07">
+          <head>Scène dernière</head>
           <sp xml:id="V07-1" who="tartuffe">
             <l n="1861" xml:id="l1861">Tout beau, Monsieur, tout beau, ne courez point si vite,</l>
             <l n="1862" xml:id="l1862">Vous n’irez pas fort loin, pour trouver votre gîte,</l>

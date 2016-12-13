@@ -1,8 +1,62 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les Fourberies de Scapin</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2009, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2015, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2015, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2009"/>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_fourberies-scapin/</idno>
+        <idno type="tei">http://svn.code.sf.net/p/theatre-classique/code/documents/moliere_fourberies-scapin.xml</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1671" type="created"/>
+        <date when="1671" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div1 type="act" n="1" xml:id="I">
+        <head>Acte Premier</head>
         <div2 type="scene" n="1" xml:id="I01">
+          <head>Scène Première</head>
           <sp who="octave" xml:id="I01-1">
             <p>
               <s>Ah fâcheuses nouvelles pour un Cœur amoureux !</s>
@@ -156,6 +210,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="I02">
+          <head>Scène II</head>
           <sp who="scapin" xml:id="I02-1">
             <p>
               <s>Qu’est-ce, Seigneur Octave, qu’avez-vous ?</s>
@@ -423,6 +478,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="I03">
+          <head>Scène III</head>
           <sp who="hyacinthe" xml:id="I03-1">
             <p>
               <s>Ah, Octave, est-il vrai ce que Silvestre vient de dire à Nérine ?</s>
@@ -653,6 +709,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="I04">
+          <head>Scène IV</head>
           <sp who="argante" xml:id="I04-1">
             <p>
               <s>A-t-on jamais ouï parler d’une action pareille à celle-là ?</s>
@@ -1220,6 +1277,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="5" xml:id="I05">
+          <head>Scène V</head>
           <sp who="silvestre" xml:id="I05-1">
             <p>
               <s>J’avoue que tu es un grand Homme, et voilà l’affaire en bon train ; mais l’argent d’autre part nous presse pour notre subsistance, et nous avons de tous côtés des Gens qui aboient après nous.</s>
@@ -1254,7 +1312,9 @@
         </div2>
       </div1>
       <div1 type="act" n="2" xml:id="II">
+        <head>Acte II</head>
         <div2 type="scene" n="1" xml:id="II01">
+          <head>Scène Première</head>
           <sp who="geronte" xml:id="II01-1">
             <p>
               <s>Oui, sans doute, par le temps qu’il fait, nous aurons ici nos Gens aujourd’hui ; et un Matelot qui vient de Tarente, m’a assuré qu’il avait vu mon Homme qui était près de s’embarquer.</s>
@@ -1373,6 +1433,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="II02">
+          <head>Scène II</head>
           <sp who="geronte" xml:id="II02-1">
             <p>
               <s>Que pourrait-ce être que cette affaire-ci ?</s>
@@ -1519,6 +1580,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="II03">
+          <head>Scène III</head>
           <sp who="leandre" xml:id="II03-1">
             <p>
               <s>Me trahir de cette manière !</s>
@@ -1829,6 +1891,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="II04">
+          <head>Scène IV</head>
           <sp who="carle" xml:id="II04-1">
             <p>
               <s>Monsieur, je vous apporte une nouvelle qui est fâcheuse pour votre amour.</s>
@@ -2039,6 +2102,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="5" xml:id="II05">
+          <head>Scène V</head>
           <sp who="scapin" xml:id="II05-1">
             <p>
               <s>Le voilà qui rumine.</s>
@@ -2381,6 +2445,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="6" xml:id="II06">
+          <head>Scène VI</head>
           <sp who="silvestre" xml:id="II06-1">
             <p>
               <s>Scapin, fais-moi connaître un peu cet Argante, qui est Père d’Octave.</s>
@@ -2622,6 +2687,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="7" xml:id="II07">
+          <head>Scène VII</head>
           <sp who="scapin" xml:id="II07-1">
             <p>
               <s>Ô Ciel ! ô disgrâce imprévue ! ô misérable père !</s>
@@ -3109,6 +3175,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="8" xml:id="II08">
+          <head>Scène VIII</head>
           <sp who="octave" xml:id="II08-1">
             <p>
               <s>Hé bien, Scapin, as-tu réussi pour moi dans ton entreprise ?</s>
@@ -3193,7 +3260,9 @@
         </div2>
       </div1>
       <div1 type="act" n="3" xml:id="III">
+        <head>Acte III</head>
         <div2 type="scene" n="1" xml:id="III01">
+          <head>Scène Première</head>
           <sp who="silvestre" xml:id="III01-1">
             <p>
               <s>Oui, vos Amants ont arrêté entre eux que vous fussiez ensemble ; et nous nous acquittons de l’ordre qu’ils nous ont donné.</s>
@@ -3357,6 +3426,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="III02">
+          <head>Scène II</head>
           <sp who="geronte" xml:id="III02-1">
             <p>
               <s>Hé bien, Scapin, comment va l’affaire de mon Fils ?</s>
@@ -3691,6 +3761,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="III03">
+          <head>Scène III</head>
           <sp who="zerbinette" xml:id="III03-1">
             <p>
               <s>Ah, ah, je veux prendre un peu l’air.</s>
@@ -3836,6 +3907,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="III04">
+          <head>Scène IV</head>
           <sp who="silvestre" xml:id="III04-1">
             <p>
               <s>Où est-ce donc que vous vous échappez ?</s>
@@ -3871,6 +3943,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="5" xml:id="III05">
+          <head>Scène V</head>
           <sp who="argante" xml:id="III05-1">
             <p>
               <s>Holà, Silvestre.</s>
@@ -3899,6 +3972,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="6" xml:id="III06">
+          <head>Scène VI</head>
           <sp who="geronte" xml:id="III06-1">
             <p>
               <s>Ah, Seigneur Argante, vous me voyez accablé de disgrâce.</s>
@@ -3959,6 +4033,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="7" xml:id="III07">
+          <head>Scène VII</head>
           <sp who="geronte" xml:id="III07-1">
             <p>
               <s>Ah ! te voilà, Nourrice.</s>
@@ -4044,6 +4119,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="8" xml:id="III08">
+          <head>Scène VIII</head>
           <sp who="scapin" xml:id="III08-1">
             <p>
               <s>Hé bien, Silvestre, que font nos Gens ?</s>
@@ -4080,6 +4156,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="9" xml:id="III09">
+          <head>Scène IX</head>
           <sp who="geronte" xml:id="III09-1">
             <p>
               <s>Allons, ma Fille, venez chez moi.</s>
@@ -4093,6 +4170,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="10" xml:id="III10">
+          <head>Scène X</head>
           <sp who="argante" xml:id="III10-1">
             <p>
               <s>Venez, mon Fils, venez vous réjouir avec nous de l’heureuse aventure de votre Mariage.</s>
@@ -4209,6 +4287,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="11" xml:id="III11">
+          <head>Scène XI</head>
           <sp who="leandre" xml:id="III11-1">
             <p>
               <s>Mon Père, ne vous plaignez point que j’aime une Inconnue, sans naissance et sans bien.</s>
@@ -4237,6 +4316,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="12" xml:id="III12">
+          <head>Scène XII</head>
           <sp who="carle" xml:id="III12-1">
             <p>
               <s>Ah, Messieurs, il vient d’arriver un accident étrange.</s>
@@ -4277,6 +4357,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="13" xml:id="III13">
+          <head>Scène Dernière</head>
           <sp who="scapin" xml:id="III13-1">
             <p>
               <s>Ahi, ahi.</s>

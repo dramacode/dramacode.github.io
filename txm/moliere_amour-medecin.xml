@@ -1,7 +1,62 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'Amour médecin</title>
+        <title type="sub">Comédie</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>209, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2009"/>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_amour-medecin/</idno>
+        <idno type="tei">http://svn.code.sf.net/p/theatre-classique/code/documents/moliere_amourmedecin.xml</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1665" type="created"/>
+        <date when="1666" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>L'Amour Médecin</head>
       <div1 type="prologue" rend="not-i" xml:id="a">
+        <head>Prologue</head>
         <sp who="comedie" xml:id="a-1">
           <l>Quittons, quittons notre vaine querelle,</l>
           <l>Ne nous disputons point nos talents tour à tour.</l>
@@ -25,7 +80,9 @@
         </sp>
       </div1>
       <div1 type="act" xml:id="I">
+        <head>Acte I</head>
         <div2 type="scene" xml:id="I01">
+          <head>Scène I</head>
           <sp who="sganarelle" xml:id="I01-1">
             <p>Ah, l’étrange chose que la vie ! et que je puis bien dire avec ce grand Philosophe de l’Antiquité, que qui terre a guerre a, et qu’un malheur ne vient jamais sans l’autre. Je n’avais qu’une seule femme qui est morte.</p>
           </sp>
@@ -52,11 +109,13 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I02">
+          <head>Scène II</head>
           <sp who="sganarelle" xml:id="I02-1">
             <p>Ah, voilà ma fille qui prend l’air. Elle ne me voit pas. Elle soupire. Elle lève les yeux au Ciel. Dieu vous garde. Bonjour ma mie. Hé bien, qu’est-ce ? comme vous en va ? Hé ! quoi ? toujours triste et mélancolique comme cela, et tu ne veux pas me dire ce que tu as. Allons donc, découvre-moi ton petit cœur, là ma pauvre mie, dis, dis ; dis tes petites pensées à ton petit papa mignon. Courage. Veux-tu que je te baise ? Viens. J’enrage de la voir de cette humeur-là. Mais, dis-moi, me veux-tu faire mourir de déplaisir, et ne puis-je savoir d’où vient cette grande langueur ? Découvre-m’en la cause, et je te promets que je ferai toutes choses pour toi. Oui, tu n’as qu’à me dire le sujet de ta tristesse, je t’assure ici, et te fais serment, qu’il n’y a rien que je ne fasse pour te satisfaire. C’est tout dire : Est-ce que tu es jalouse de quelqu’une de tes compagnes, que tu voies plus brave que toi ? et serait-il quelque étoffe nouvelle dont tu voulusses avoir un habit ? Non. Est-ce que ta chambre ne te semble pas assez parée, et que tu souhaiterais quelque cabinet de la Foire Saint-Laurent ? Ce n’est pas cela. Aurais-tu envie d’apprendre quelque chose ? Et veux-tu que je te donne un Maître pour te montrer à jouer du Clavecin ? Nenni. Aimerais-tu quelqu’un, et souhaiterais-tu d’être mariée ?</p>
           </sp>
         </div2>
         <div2 type="scene" xml:id="I03">
+          <head>Scène III</head>
           <sp who="lisette" xml:id="I03-1">
             <p>Hé bien, Monsieur, vous venez d’entretenir votre fille. Avez-vous su la cause de sa mélancolie ?</p>
           </sp>
@@ -164,6 +223,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I04">
+          <head>Scène IV</head>
           <sp who="lisette" xml:id="I04-1">
             <p>On dit bien vrai : qu’il n’y a point de pires sourds, que ceux qui ne veulent point entendre.</p>
           </sp>
@@ -193,11 +253,13 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I05">
+          <head>Scène V</head>
           <sp who="sganarelle" xml:id="I05-1">
             <p>Il est bon quelquefois de ne point faire semblant d’entendre les choses qu’on n’entend que trop bien : et j’ai fait sagement de parer la déclaration d’un désir que je ne suis pas résolu de contenter. A-t-on jamais rien vu de plus tyrannique que cette coutume où l’on veut assujettir les pères ? Rien de plus impertinent, et de plus ridicule, que d’amasser du bien avec de grands travaux, et élever une fille avec beaucoup de soin et de tendresse, pour se dépouiller de l’un et de l’autre entre les mains d’un homme qui ne nous touche de rien. Non, non, je me moque de cet usage, et je veux garder mon bien et ma fille pour moi.</p>
           </sp>
         </div2>
         <div2 type="scene" xml:id="I06">
+          <head>Scène VI</head>
           <sp who="lisette" xml:id="I06-1">
             <p>Ah, malheur ! ah, disgrâce ! ah, pauvre Seigneur Sganarelle ! où pourrai-je te rencontrer ?</p>
           </sp>
@@ -291,7 +353,9 @@
         </div2>
       </div1>
       <div1 type="act" xml:id="II">
+        <head>Acte II,</head>
         <div2 type="scene" xml:id="II01">
+          <head>Scène I</head>
           <sp who="lisette" xml:id="II01-1">
             <p>Que voulez-vous donc faire, Monsieur, de quatre Médecins ? N’est-ce pas assez d’un pour tuer une personne ?</p>
           </sp>
@@ -321,6 +385,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II02">
+          <head>Scène II</head>
           <sp who="sganarelle" xml:id="II02-1">
             <p>Hé bien, Messieurs.</p>
           </sp>
@@ -392,6 +457,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II03">
+          <head>Scène III</head>
           <sp who="m-des-fonandres" xml:id="II03-1">
             <p>Paris est étrangement grand, et il faut faire de longs trajets, quand la pratique donne un peu.</p>
           </sp>
@@ -430,6 +496,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II04">
+          <head>Scène IV</head>
           <sp who="sganarelle" xml:id="II04-1">
             <p>Messieurs, l’oppression de ma fille augmente, je vous prie de me dire vite ce que vous avez résolu.</p>
           </sp>
@@ -507,6 +574,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II05">
+          <head>Scène V</head>
           <sp who="sganarelle" xml:id="II05-1">
             <p>À qui croire des deux ? et quelle résolution prendre sur des avis si opposés ? Messieurs, je vous conjure de déterminer mon esprit, et de me dire, sans passion, ce que vous croyez le plus propre à soulager ma fille.</p>
           </sp>
@@ -549,11 +617,13 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II06">
+          <head>Scène VI</head>
           <sp who="sganarelle" xml:id="II06-1">
             <p>Me voilà justement un peu plus incertain que je n’étais auparavant. Morbleu, il me vient une fantaisie. Il faut que j’aille acheter de l’Orviétan, et que je lui en fasse prendre. L’Orviétan est un remède dont beaucoup de gens se sont bien trouvés.</p>
           </sp>
         </div2>
         <div2 type="scene" xml:id="II07">
+          <head>Scène VII</head>
           <sp who="sganarelle" xml:id="II07-1">
             <p>Holà. Monsieur, je vous prie de me donner une boîte de votre Orviétan, que je m’en vais vous payer.</p>
           </sp>
@@ -599,7 +669,9 @@
         </div2>
       </div1>
       <div1 type="act" xml:id="III">
+        <head>Acte III,</head>
         <div2 type="scene" xml:id="III01">
+          <head>Scène I</head>
           <sp who="m-filerin" xml:id="III01-1">
             <p>N’avez-vous point de honte, Messieurs, de montrer si peu de prudence pour des gens de votre âge, et de vous être querellés comme de jeunes étourdis ? Ne voyez-vous pas bien quel tort ces sortes de querelles nous font parmi le monde ? et n’est-ce pas assez que les savants voient les contrariétés, et les dissensions qui sont entre nos Auteurs et nos anciens Maîtres, sans découvrir encore au peuple, par nos débats et nos querelles, la forfanterie de notre Art ? Pour moi, je ne comprends rien du tout à cette méchante Politique de quelques-uns de nos gens. Et il faut confesser, que toutes ces contestations nous ont décriés, depuis peu, d’une étrange manière, et que, si nous n’y prenons garde, nous allons nous ruiner nous-mêmes. Je n’en parle pas pour mon intérêt. Car, Dieu merci, j’ai déjà établi mes petites affaires. Qu’il vente, qu’il pleuve, qu’il grêle, ceux qui sont morts sont morts, et j’ai de quoi me passer des vivants. Mais enfin, toutes ces disputes ne valent rien pour la Médecine. Puisque le Ciel nous fait la grâce que depuis tant de siècles, on demeure infatué de nous : ne désabusons point les hommes avec nos cabales extravagantes, et profitons de leur sottise le plus doucement que nous pourrons. Nous ne sommes pas les seuls, comme vous savez, qui tâchons à nous prévaloir de la faiblesse humaine. C’est là que va l’étude de la plupart du monde, et chacun s’efforce de prendre les hommes par leur faible, pour en tirer quelque profit. Les flatteurs, par exemple, cherchent à profiter de l’amour que les hommes ont pour les louanges, en leur donnant tout le vain encens qu’ils souhaitent : et c’est un art où l’on fait, comme on voit, des fortunes considérables. Les Alchimistes tâchent à profiter de la passion qu’on a pour les richesses, en promettant des montagnes d’or à ceux qui les écoutent. Et les diseurs d’Horoscope, par leurs Prédictions trompeuses profitent de la vanité et de l’ambition des crédules esprits : mais le plus grand faible des hommes, c’est l’amour qu’ils ont pour la vie, et nous en profitons nous autres, par notre pompeux galimatias ; et savons prendre nos avantages de cette vénération, que la peur de mourir, leur donne pour notre métier. Conservons-nous donc dans le degré d’estime où leur faiblesse nous a mis, et soyons de concert auprès des malades, pour nous attribuer les heureux succès de la maladie, et rejeter sur la Nature toutes les bévues de notre art. N’allons point, dis-je, détruire sottement les heureuses préventions d’une erreur qui donne du pain à tant de personnes.</p>
           </sp>
@@ -623,6 +695,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III02">
+          <head>Scène II</head>
           <sp who="lisette" xml:id="III02-1">
             <p>Quoi, Messieurs, vous voilà, et vous ne songez pas à réparer le tort qu’on vient de faire à la Médecine.</p>
           </sp>
@@ -640,6 +713,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III03">
+          <head>Scène III</head>
           <sp who="clitandre" xml:id="III03-1">
             <p>Hé bien, Lisette, me trouves-tu bien ainsi ?</p>
           </sp>
@@ -648,6 +722,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III04">
+          <head>Scène IV</head>
           <sp who="lisette" xml:id="III04-1">
             <p>Monsieur, allégresse ! allégresse !</p>
           </sp>
@@ -698,6 +773,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III05">
+          <head>Scène V</head>
           <sp who="lisette" xml:id="III05-1">
             <p>Le voici.</p>
           </sp>
@@ -736,6 +812,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III06">
+          <head>Scène VI</head>
           <sp who="lisette" xml:id="III06-1">
             <p>Tenez, Monsieur, voilà une chaise auprès d’elle. Allons, laissez-les là tous deux.</p>
           </sp>
@@ -877,6 +954,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III07">
+          <head>Scène VII</head>
           <p>Le Notaire, Clitandre, Sganarelle, Lucinde, Lisette .</p>
           <sp who="sganarelle" xml:id="III07-1">
             <p>Oui, Monsieur, il faut faire un contrat pour ces deux personnes-là. Écrivez (voilà le contrat qu’on fait)</p>
@@ -914,6 +992,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III08">
+          <head>Scène Dernière</head>
           <sp who="comedie ballet musique" xml:id="III08-1">
             <lg rend="i">
               <l>Sans nous tous les hommes</l>

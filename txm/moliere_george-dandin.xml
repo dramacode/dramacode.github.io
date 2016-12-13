@@ -1,13 +1,58 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>George dandin</title>
+        <title type="sub">ou le mari confondu</title>
+        <title type="sub">Comédie</title>
+        <author>Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2011, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_george-dandin/</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1668" type="created"/>
+        <date when="1669" type="issued">1669</date>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div type="act" xml:id="I">
+        <head>Acte I</head>
         <div xml:id="I01" type="scene">
+          <head>Scène Première</head>
           <sp who="george-dandin" xml:id="I01-1">
             <p>Ah ! qu’une femme Demoiselle est une étrange affaire, et que mon mariage est une leçon bien parlante à tous les Paysans qui veulent s’élever au-dessus de leur condition, et s’allier comme j’ai fait à la maison d’un Gentilhomme. La noblesse de soi est bonne : c’est une chose considérable assurément, mais elle est accompagnée de tant de mauvaises circonstances, qu’il est très bon de ne s’y point frotter. Je suis devenu là-dessus savant à mes dépens, et connais le style des Nobles lorsqu’ils nous font nous autres entrer dans leur famille. L’alliance qu’ils font est petite avec nos personnes. C’est notre bien seul qu’ils épousent, et j’aurais bien mieux fait, tout riche que je suis, de m’allier en bonne et franche paysannerie, que de prendre une femme qui se tient au-dessus de moi, s’offense de porter mon nom, et pense qu’avec tout mon bien je n’ai pas assez acheté la qualité de son mari. George Dandin, George Dandin, vous avez fait une sottise la plus grande du monde. Ma maison m’est effroyable maintenant, et je n’y rentre point sans y trouver quelque chagrin.</p>
           </sp>
         </div>
         <div xml:id="I02" type="scene">
+          <head>Scène II</head>
           <sp who="george-dandin" xml:id="I02-1">
             <p>Que diantre ce drôle-là vient-il faire chez moi ?</p>
           </sp>
@@ -166,11 +211,13 @@
           </sp>
         </div>
         <div xml:id="I03" type="scene">
+          <head>Scène III</head>
           <sp who="george-dandin" xml:id="I03-1">
             <p>Hé bien, George Dandin, vous voyez de quel air votre femme vous traite. Voilà ce que c’est d’avoir voulu épouser une Demoiselle, l’on vous accommode de toutes pièces, sans que vous puissiez vous venger, et la Gentilhommerie vous tient les bras liés. L’égalité de condition laisse du moins à l’honneur d’un mari liberté de ressentiment, et si c’était une Paysanne, vous auriez maintenant toutes vos coudées franches à vous en faire la justice à bons coups de bâton. Mais vous avez voulu tâter de la Noblesse, et il vous ennuyait d’être maître chez vous. Ah ! j’enrage de tout mon cœur, et je me donnerais volontiers des soufflets. Quoi écouter impudemment l’amour d’un Damoiseau, et y promettre en même temps de la correspondance ! Morbleu je ne veux point laisser passer une occasion de la sorte. Il me faut de ce pas aller faire mes plaintes au père et à la mère, et les rendre témoins à telle fin que de raison, des sujets de chagrin et de ressentiment que leur fille me donne. Mais les voici l’un et l’autre fort à propos.</p>
           </sp>
         </div>
         <div xml:id="I04" type="scene">
+          <head>Scène IV</head>
           <sp who="monsieur-de-sotenville" xml:id="I04-1">
             <p>Qu’est-ce, mon gendre ? vous me paraissez tout troublé.</p>
           </sp>
@@ -311,6 +358,7 @@
           </sp>
         </div>
         <div xml:id="I05" type="scene">
+          <head>Scène V</head>
           <sp who="monsieur-de-sotenville" xml:id="I05-1">
             <p>Monsieur, suis-je connu de vous ?</p>
           </sp>
@@ -391,6 +439,7 @@
           </sp>
         </div>
         <div xml:id="I06" type="scene">
+          <head>Scène VI</head>
           <sp who="madame-de-sotenville" xml:id="I06-1">
             <p>Pour ce qui est de cela, la jalousie est une étrange chose !J’amène ici ma fille pour éclaircir l’affaire en présence de tout le monde.</p>
           </sp>
@@ -585,13 +634,16 @@
           </sp>
         </div>
         <div xml:id="I07" type="scene">
+          <head>Scène VII</head>
           <sp who="george-dandin" xml:id="I07-1">
             <p>Ah que je... Vous l’avez voulu, vous l’avez voulu, George Dandin, vous l’avez voulu, cela vous sied fort bien, et vous voilà ajusté comme il faut,vous avez justement ce que vous méritez. Allons il s’agit seulement de désabuser le père et la mère et je pourrai trouver peut-être quelque moyen d y réussir.</p>
           </sp>
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>Acte II</head>
         <div xml:id="II01" type="scene">
+          <head>Scène Première</head>
           <sp who="claudine" xml:id="II01-1">
             <p>Oui, j’ai bien deviné qu’il fallait que cela vînt de toi, et que tu l’eusses dit à quelqu’un qui l’ait rapporté à notre Maître.</p>
           </sp>
@@ -747,6 +799,7 @@
           </sp>
         </div>
         <div xml:id="II02" type="scene">
+          <head>Scène II</head>
           <sp who="george-dandin" xml:id="II02-1">
             <p>Non non, on ne m’abuse pas avec tant de facilité, et je ne suis que trop certain que le rapport que l’on m’a fait est véritable. J’ai de meilleurs yeux qu’on ne pense, et votre galimatias ne m’a point tantôt ébloui.</p>
           </sp>
@@ -824,6 +877,7 @@
           </sp>
         </div>
         <div xml:id="II03" type="scene">
+          <head>Scène III</head>
           <sp who="claudine" xml:id="II03-1">
             <p>J’avais, Madame, impatience qu’il s’en allât pour vous rendre ce mot de la part que vous savez.</p>
           </sp>
@@ -847,6 +901,7 @@
           </sp>
         </div>
         <div xml:id="II04" type="scene">
+          <head>Scène IV</head>
           <sp who="claudine" xml:id="II04-1">
             <p>Vraiment, Monsieur, vous avez pris là un habile messager.</p>
           </sp>
@@ -885,6 +940,7 @@
           </sp>
         </div>
         <div xml:id="II05" type="scene">
+          <head>Scène V</head>
           <sp who="george-dandin" xml:id="II05-1">
             <p>Voici mon homme de tantôt. Plût au Ciel qu’il pût se résoudre à vouloir rendre témoignage au père et à la mère de ce qu’ils ne veulent point croire.</p>
           </sp>
@@ -947,11 +1003,13 @@
           </sp>
         </div>
         <div xml:id="II06" type="scene">
+          <head>Scène VI</head>
           <sp who="george-dandin" xml:id="II06-1">
             <p>Je n’ai pu me servir avec cet innocent de la pensée que j’avais. Mais le nouvel avis qui lui est échappé ferait la même chose, et si le Galant est chez moi, ce serait pour avoir raison aux yeux du père et de la mère, et les convaincre pleinement de l’effronterie de leur fille. Le mal de tout ceci c’est que je ne sais comment faire pour profiter d’un tel avis. Si je rentre chez moi, je ferai évader le drôle, et quelque chose que je puisse voir moi-même de mon déshonneur, je n’en serai point cru à mon serment, et l’on me dira que je rêve. Si d’autre part je vais querir beau-père et belle-mère sans être sûr de trouver chez moi le Galant, ce sera la même chose, et je retomberai dans l’inconvénient de tantôt. Pourrais-je point m’éclaircir doucement s’il y est encore ? Ah Ciel ! il n’en faut plus douter et je viens de l’apercevoir par le trou de la porte. Le sort me donne ici de quoi confondre ma partie, et pour achever l’aventure il fait venir à point nommé les juges dont j’avais besoin.</p>
           </sp>
         </div>
         <div xml:id="II07" type="scene">
+          <head>Scène VII</head>
           <sp who="george-dandin" xml:id="II07-1">
             <p>Enfin vous ne m’avez pas voulu croire tantôt, et votre fille l’a emporté sur moi. Mais j’ai en main de quoi vous faire voir comme elle m’accommode, et Dieu mercimon déshonneur est si clair maintenant, que vous n’en pourrez plus douter.</p>
           </sp>
@@ -1038,6 +1096,7 @@
           </sp>
         </div>
         <div xml:id="II08" type="scene">
+          <head>Scène VIII</head>
           <sp who="angelique" xml:id="II08-1">
             <p>Adieu. J’ai peur qu’on vous surprenne ici, et j’ai quelques mesures à garder.</p>
           </sp>
@@ -1113,7 +1172,9 @@
         </div>
       </div>
       <div type="act" xml:id="III">
+        <head>Acte III</head>
         <div xml:id="III01" type="scene">
+          <head>Scène Première</head>
           <sp who="clitandre" xml:id="III01-1">
             <p>La nuit est avancée, et j’ai peur qu’il ne soit trop tard. Je ne vois point à me conduire. Lubin !</p>
           </sp>
@@ -1167,6 +1228,7 @@
           </sp>
         </div>
         <div xml:id="III02" type="scene">
+          <head>Scène II</head>
           <sp who="angelique" xml:id="III02-1">
             <p>Claudine.</p>
           </sp>
@@ -1253,6 +1315,7 @@
           </sp>
         </div>
         <div xml:id="III03" type="scene">
+          <head>Scène III</head>
           <sp who="george-dandin" xml:id="III03-1">
             <p>entendu descendre ma femme, et je me suis vite habillé pour descendre après elle. Où peut-elle être allée ? Serait-elle sortie ?</p>
           </sp>
@@ -1270,6 +1333,7 @@
           </sp>
         </div>
         <div xml:id="III04" type="scene">
+          <head>Scène IV</head>
           <sp who="colin" xml:id="III04-1">
             <p>Monsieur.</p>
           </sp>
@@ -1339,6 +1403,7 @@
           </sp>
         </div>
         <div xml:id="III05" type="scene">
+          <head>Scène V</head>
           <sp who="angelique" xml:id="III05-1">
             <p>Adieu. Il est temps de se retirer.</p>
           </sp>
@@ -1404,6 +1469,7 @@
           </sp>
         </div>
         <div xml:id="III06" type="scene">
+          <head>Scène VI</head>
           <sp who="angelique" xml:id="III06-1">
             <p>Rentrons sans faire de bruit.</p>
           </sp>
@@ -1568,6 +1634,7 @@
           </sp>
         </div>
         <div xml:id="III07" type="scene">
+          <head>Scène VII</head>
           <sp who="angelique" xml:id="III07-1">
             <p>Approchez de grâce, et venez me faire raison de l’insolence la plus grande du monde, d’un mari à qui le vin et la jalousie ont troublé de telle sorte la cervelle, qu’il ne sait plus ni ce qu’il dit, ni ce qu’il fait, et vous a lui-même envoyé querir pour vous faire témoins de l’extravagance la plus étrange dont on ait jamais ouï parler. Le voilà qui revient comme vous voyez, après s’être fait attendre toute la nuit, et si vous voulez l’écouter, il vous dira qu’il a les plus grandes plaintes du monde à vous faire de moi ; que durant qu’il dormait, je me suis dérobée d’auprès de lui pour m’en aller courir, et cent autres contes de même nature qu’il est allé rêver.</p>
           </sp>
@@ -1753,6 +1820,7 @@
           </sp>
         </div>
         <div xml:id="III08" type="scene">
+          <head>Scène VIII</head>
           <sp who="george-dandin" xml:id="III08-1">
             <p>Ah ! je le quitte maintenant, et je n’y vois plus de remède, lorsqu’on a comme moi épousé une méchante femme, le meilleur parti qu’on puisse prendre, c’est de s’aller jeter dans l’eau la tête la première.</p>
           </sp>

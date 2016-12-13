@@ -1,7 +1,61 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les Amants magnifiques</title>
+        <title type="sub">Comédie</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2012, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2012"/>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_amants-magnifiques/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1670" type="created"/>
+        <date when="1682" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>Les amants magnifiques, <lb/>Comédie</head>
       <div1 xml:id="a" rend="not-i" type="interlude">
+        <head>Premier intermède</head>
         <sp who="eole" xml:id="a-1">
           <l n="1" xml:id="l1">Vents, qui troublez les plus beaux jours,</l>
           <l n="2" xml:id="l2">Rentrez dans vos grottes profondes ;</l>
@@ -83,7 +137,9 @@
         </sp>
       </div1>
       <div1 xml:id="I" type="act">
+        <head>Acte premier</head>
         <div2 xml:id="I01" type="scene">
+          <head>Scène première</head>
           <sp who="clitidas" xml:id="I01-1">
             <p>Il est attaché à ses pensées ?</p>
           </sp>
@@ -209,6 +265,7 @@
           </sp>
         </div2>
         <div2 xml:id="I02" type="scene">
+          <head>Scène II</head>
           <sp who="aristione" xml:id="I02-1">
             <p>Prince, je ne puis me lasser de le dire, il n’est point de spectacle au monde qui puisse le disputer en magnificence à celui que vous venez de nous donner. Cette Fête a eu des ornements qui l’emportent sans doute sur tout ce que l’on saurait voir, et elle vient de produire à nos yeux quelque chose de si noble, de si grand, et de si majestueux, que le Ciel même ne saurait aller au delà, et je puis dire assurément qu’il n’y a rien dans l’Univers qui s’y puisse égaler.</p>
           </sp>
@@ -343,6 +400,7 @@
           </sp>
         </div2>
         <div2 xml:id="I03" type="scene">
+          <head>Scène III</head>
           <sp who="iphicrate" xml:id="I03-1">
             <p>Vous pouvez croire que je prends part à l’estime que la Princesse vous témoigne.</p>
           </sp>
@@ -372,6 +430,7 @@
           </sp>
         </div2>
         <div2 xml:id="I04" type="scene">
+          <head>Scène IV</head>
           <sp who="iphicrate" xml:id="I04-1">
             <p>Clitidas se ressouvient bien qu’il est de mes amis, je lui recommande toujours de prendre mes intérêts auprès de sa Maîtresse, contre ceux de mon Rival.</p>
           </sp>
@@ -395,6 +454,7 @@
           </sp>
         </div2>
         <div2 xml:id="I05" type="scene">
+          <head>Scène V</head>
           <sp who="cleonice" xml:id="I05-1">
             <p>On trouvera étrange, Madame, que vous vous soyez ainsi écartée de tout le monde.</p>
           </sp>
@@ -427,9 +487,13 @@
           </sp>
         </div2>
       </div1>
-      <div1 xml:id="Ib" rend="not-i" type="interlude"/>
+      <div1 xml:id="Ib" rend="not-i" type="interlude">
+        <head>Second intermède</head>
+      </div1>
       <div1 xml:id="II" type="act">
+        <head>Acte II</head>
         <div2 xml:id="II01" type="scene">
+          <head>Scène première</head>
           <sp who="eriphile" xml:id="II01-1">
             <p>Voilà qui est admirable ! Je ne crois pas qu’on puisse mieux danser qu’ils dansent, et je suis bien aise de les avoir à moi.</p>
           </sp>
@@ -447,6 +511,7 @@
           </sp>
         </div2>
         <div2 xml:id="II02" type="scene">
+          <head>Scène II</head>
           <sp who="clitidas" xml:id="II02-1">
             <p>La, la, la, la, ah !</p>
           </sp>
@@ -572,6 +637,7 @@
           </sp>
         </div2>
         <div2 xml:id="II03" type="scene">
+          <head>Scène III</head>
           <sp who="sostrate" xml:id="II03-1">
             <p>J’ai une excuse, Madame, pour oser interrompre votre solitude, et j’ai reçu de la Princesse votre Mère une commission qui autorise la hardiesse que je prends maintenant.</p>
           </sp>
@@ -640,6 +706,7 @@
           </sp>
         </div2>
         <div2 xml:id="II04" type="scene">
+          <head>Scène IV</head>
           <sp who="chorebe" xml:id="II04-1">
             <p>Madame, voilà la Princesse qui vient vous prendre ici, pour aller au Bois de Diane.</p>
           </sp>
@@ -648,6 +715,7 @@
           </sp>
         </div2>
         <div2 xml:id="II05" type="scene">
+          <head>Scène V</head>
           <sp who="aristione" xml:id="II05-1">
             <p>On vous a demandée, ma Fille, et il y a des gens que votre absence chagrine fort.</p>
           </sp>
@@ -660,7 +728,9 @@
         </div2>
       </div1>
       <div1 xml:id="IIb" rend="not-i" type="interlude">
+        <head>Troisième intermède</head>
         <div2 xml:id="IIb01" type="scene">
+          <head>Prologue</head>
           <sp who="nymphe" xml:id="IIb01-1">
             <l n="52" xml:id="l52">Venez, grande Princesse, avec tous vos appas,</l>
             <l n="53" xml:id="l53">Venez prêter vos yeux aux innocents ébats</l>
@@ -671,6 +741,7 @@
           </sp>
         </div2>
         <div2 xml:id="IIb02" type="scene">
+          <head>Scène première</head>
           <sp who="tircis" xml:id="IIb02-1">
             <l n="58" xml:id="l58">Vous chantez sous ces feuillages,</l>
             <l n="59" xml:id="l59">Doux rossignols pleins d’amour,</l>
@@ -682,6 +753,7 @@
           </sp>
         </div2>
         <div2 xml:id="IIb03" type="scene">
+          <head>Scène Deuxième</head>
           <sp who="lycaste" xml:id="IIb03-1">
             <l n="65" xml:id="l65">Hé quoi toujours languissant, sombre et triste ?</l>
           </sp>
@@ -763,6 +835,7 @@
           </sp>
         </div2>
         <div2 xml:id="IIb04" type="scene">
+          <head>Scène Troisième</head>
           <sp who="caliste" xml:id="IIb04-1">
             <lg>
               <l n="100" xml:id="l100">Ah que sur notre cœur</l>
@@ -800,6 +873,7 @@
           </sp>
         </div2>
         <div2 xml:id="IIb05" type="scene">
+          <head>Scène Quatrième</head>
           <sp who="tircis" xml:id="IIb05-1">
             <l n="129" xml:id="l129">Vers ma belle ennemie</l>
             <l n="130" xml:id="l130">Portons sans bruit nos pas,</l>
@@ -873,6 +947,7 @@
           </sp>
         </div2>
         <div2 xml:id="IIb06" type="scene">
+          <head>Scène Cinquième</head>
           <sp who="satyre1" xml:id="IIb06-1">
             <l n="172" xml:id="l172">Quoi tu me fuis, ingrate, et je te vois ici</l>
             <l n="173" xml:id="l173">De ce Berger à moi faire une préférence ?</l>
@@ -909,6 +984,7 @@
           </sp>
         </div2>
         <div2 xml:id="IIb07" type="scene">
+          <head>Dépit amoureux</head>
           <sp who="philinte" xml:id="IIb07-1">
             <l n="194" xml:id="l194">Quand je plaisais à tes yeux</l>
             <l n="195" xml:id="l195">J’étais content de ma vie,</l>
@@ -985,7 +1061,9 @@
         </div2>
       </div1>
       <div1 xml:id="III" type="act">
+        <head>Acte III</head>
         <div2 xml:id="III01" type="scene">
+          <head>Scène première</head>
           <sp who="aristione" xml:id="III01-1">
             <p>Les mêmes paroles toujours se présentent à dire. Il faut toujours s’écrier <hi rend="i">voilà qui est admirable, il ne se peut rien de plus beau, cela passe tout ce qu’on a jamais vu.</hi></p>
           </sp>
@@ -1174,9 +1252,13 @@
           </sp>
         </div2>
       </div1>
-      <div1 xml:id="IIIb" rend="not-i" type="interlude"/>
+      <div1 xml:id="IIIb" rend="not-i" type="interlude">
+        <head>Quatrième intermède</head>
+      </div1>
       <div1 xml:id="IV" type="act">
+        <head>Acte IV</head>
         <div2 xml:id="IV01" type="scene">
+          <head>Scène première</head>
           <sp who="aristione" xml:id="IV01-1">
             <p>De qui que cela soit, on ne peut rien de plus galant et de mieux entendu. Ma Fille, j’ai voulu me séparer de tout le monde pour vous entretenir, et je veux que vous ne me cachiez rien de la vérité. N’auriez-vous point dans l’âme quelque inclination secrète que vous ne voulez pas nous dire ?</p>
           </sp>
@@ -1200,6 +1282,7 @@
           </sp>
         </div2>
         <div2 xml:id="IV02" type="scene">
+          <head>Scène II</head>
           <sp who="venus" xml:id="IV02-1">
             <l n="245" xml:id="l245">Princesse dans tes soins brille un zèle exemplaire,</l>
             <l n="246" xml:id="l246">Qui par les Immortels doit être Couronné,</l>
@@ -1217,6 +1300,7 @@
           </sp>
         </div2>
         <div2 xml:id="IV03" type="scene">
+          <head>Scène III</head>
           <sp who="cleon" xml:id="IV03-1">
             <p>Voilà la Princesse qui s’en va, ne voulez-vous pas lui parler ?</p>
           </sp>
@@ -1231,6 +1315,7 @@
           </sp>
         </div2>
         <div2 xml:id="IV04" type="scene">
+          <head>Scène IV</head>
           <sp who="eriphile" xml:id="IV04-1">
             <p>Hélas ! quelle est ma destinée, et qu’ai-je fait aux Dieux pour mériter les soins qu’ils veulent prendre de moi ?</p>
           </sp>
@@ -1260,6 +1345,7 @@
           </sp>
         </div2>
         <div2 xml:id="IV05" type="scene">
+          <head>Scène V</head>
           <sp who="cleonice" xml:id="IV05-1">
             <p>Madame, je vous vois l’esprit tout chagrin, vous plaît-il que vos danseurs, qui expriment si bien toutes les passions, vous donnent maintenant quelque épreuve de leur adresse ?</p>
           </sp>
@@ -1268,9 +1354,13 @@
           </sp>
         </div2>
       </div1>
-      <div1 xml:id="IVb" rend="not-i" type="interlude"/>
+      <div1 xml:id="IVb" rend="not-i" type="interlude">
+        <head>Cinquième intermède</head>
+      </div1>
       <div1 xml:id="V" type="act">
+        <head>Acte V</head>
         <div2 xml:id="V01" type="scene">
+          <head>Scène Première</head>
           <sp who="clitidas" xml:id="V01-1">
             <p>De quel côté porter mes pas ? où m’aviserai-je d’aller, et en quel lieu puis-je croire que je trouverai maintenant la Princesse Ériphile ? Ce n’est pas un petit avantage que d’être le premier à porter une nouvelle. Ah ! la voilà. Madame, je vous annonce que le Ciel vient de vous donner l’époux qu’il vous destinait.</p>
           </sp>
@@ -1348,6 +1438,7 @@
           </sp>
         </div2>
         <div2 xml:id="V02" type="scene">
+          <head>Scène II</head>
           <sp who="aristione" xml:id="V02-1">
             <p>Je vois, ma Fille, que vous savez déjà tout ce que nous pourrions vous dire. Vous voyez que les Dieux se sont expliqués bien plus tôt que nous n’eussions pensé ; mon péril n’a guère tardé à nous marquer leurs volontés, et l’on connaît assez que ce sont eux qui se sont mêlés de ce choix, puisque le mérite tout seul brille dans cette préférence. Aurez-vous quelque répugnance à récompenser de votre cœur, celui à qui je dois la vie, et refuserez-vous Sostrate pour époux ?</p>
           </sp>
@@ -1359,11 +1450,13 @@
           </sp>
         </div2>
         <div2 xml:id="V03" type="scene">
+          <head>Scène III</head>
           <sp who="cleonice" xml:id="V03-1">
             <p>Madame, je viens vous dire qu’Anaxarque a jusqu’ici abusé, l’un et l’autre Prince, par l’espérance de ce choix qu’ils poursuivent depuis longtemps, et qu’au bruit qui s’est répandu de votre aventure, ils ont fait éclater tous deux leur ressentiment contre lui, jusque-là, que de paroles en paroles, les choses se sont échauffées, et il en a reçu quelques blessures dont on ne sait pas bien ce qui arrivera. Mais les voici.</p>
           </sp>
         </div2>
         <div2 xml:id="V04" type="scene">
+          <head>Scène IV</head>
           <sp who="aristione" xml:id="V04-1">
             <p>Princes, vous agissez tous deux avec une violence bien grande, et si Anaxarque a pu vous offenser, j’étais pour vous en faire justice moi-même.</p>
           </sp>
@@ -1397,6 +1490,7 @@
         </div2>
       </div1>
       <div1 xml:id="Vb" rend="not-i" type="interlude">
+        <head>Sixième intermède <lb/>qui est la solennité des jeux Pythiens.</head>
         <sp who="pretresse" xml:id="Vb-1">
           <l n="255" xml:id="l255">Chantez, peuples, chantez, en mille et mille lieux</l>
           <l n="256" xml:id="l256">Du Dieu que nous servons les brillantes merveilles,</l>

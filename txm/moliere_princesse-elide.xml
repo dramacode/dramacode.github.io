@@ -1,8 +1,63 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La Princesse d'Élide</title>
+        <title type="sub">Comédie galante</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2011, transcription XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2014, révision</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2014, révision</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2011"/>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_princesse-elide/</idno>
+        <idno type="tei">http://svn.code.sf.net/p/theatre-classique/code/documents/moliere_princesse-elide.xml</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1664" type="created"/>
+        <date when="1664" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="FR"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie galante</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div1 xml:id="a" type="interlude">
+        <head>Premier Intermède</head>
         <div2 type="scene" xml:id="a01">
+          <head>Scène Première</head>
           <sp who="l-aurore" xml:id="a01-1">
             <lg>
               <l rend="i" n="1" xml:id="l1">Quand l’Amour à vos yeux offre un choix agréable,</l>
@@ -23,6 +78,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="a02">
+          <head>Scène Deuxième</head>
           <p rend="argument">
             Pendant que l’Aurore chantait ce Récit, quatre Valets de Chiens étaient couchés sur l’Herbe, dont l’un (sous la figure de Lyciscas représenté par le <persName type="actor">Sieur de Molière</persName>, excellent Acteur, de l’invention duquel étaient les Vers et toute la Pièce) se trouvait au milieu de deux, et un autre à ses pieds : Qui étaient les Sieurs <persName type="actor">Estival</persName>, <persName type="actor">Don</persName>, et <persName type="actor">Blondel</persName> de la Musique du Roi, dont les voix étaient admirables. <lb/>Ceux-ci en se réveillant à l’arrivée de l’Aurore, sitôt qu’elle eut chanté, s’écrièrent en Concert :
           </p>
@@ -170,10 +226,12 @@
         </div2>
       </div1>
       <div1 xml:id="I" type="act" n="1">
+        <head>Acte Premier</head>
         <argument>
           <p>Cette Chasse qui se préparait ainsi, était celle d’un Prince d’Élide, lequel étant d’humeur galante et magnifique, et souhaitant que la Princesse sa Fille se résolût à aimer et à penser au mariage, qui était fort contre son inclination, avait fait venir en sa cour les Princes d’Ithaque, de Messène et de Pyle ; afin que dans l’exercice de la Chasse qu’elle aimait fort, et dans d’autres Jeux, comme des Courses de Chars et semblables magnificences, quelqu’un de ces Princes pût lui plaire et devenir son Époux.</p>
         </argument>
         <div2 type="scene" xml:id="I01">
+          <head>Scène Première</head>
           <argument>
             <p>Euryale Prince d’Ithaque amoureux de la Princesse d’Élide, et Arbate son Gouverneur, lequel indulgent à la passion du Prince, le loua de son amour au lieu de l’en blâmer, en des termes fort galants.</p>
           </argument>
@@ -362,6 +420,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I02">
+          <head>Scène Deuxième</head>
           <argument>
             <p>Moron représenté par le Sieur de Molière, arrive, et ayant le souvenir d’un furieux Sanglier, devant lequel il avait fui à la Chasse, demande secours, et rencontrant Euryale et Arbate, se met au milieu d’eux pour plus de sûreté, après leur avoir témoigné sa peur et leur disant cent choses plaisantes sur son peu de bravoure.</p>
           </argument>
@@ -531,6 +590,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I03">
+          <head>Scène Troisième</head>
           <argument>
             <p>La Princesse d’Élide parut ensuite, avec les Princes de Messène et de Pyle, lesquels firent remarquer en eux des caractères bien différents de celui du Prince d’Ithaque ; et lui cédèrent dans le cœur de la Princesse tous les avantages qu’il pouvait désirer : Cette aimable Princesse ne témoigna pas pourtant que le mérite de ce Prince eût fait aucune impression sur son esprit, et qu’elle l’eût quasi remarqué ; elle témoigna toujours, comme une autre Diane, n’aimer que la Chasse et les Forêts, et lorsque le Prince de Messène voulut lui faire valoir le service qu’il lui avait rendu, en la défaisant d’un fort grand Sanglier qui l’avait attaquée ; elle lui dit que sans rien diminuer de sa reconnaissance, elle trouvait son secours d’autant moins considérable, qu’elle en avait tué toute seule d’aussi furieux, et fût peut-être bien encore venue à bout de celui-ci.</p>
           </argument>
@@ -589,6 +649,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I04">
+          <head>Scène Quatrième</head>
           <sp who="moron" xml:id="I04-1">
             <l n="376" xml:id="l376">Heu ! a-t-on jamais vu de plus farouche esprit ?</l>
             <l n="377" xml:id="l377">De ce vilain Sanglier l’heureux trépas l’aigrit :</l>
@@ -625,10 +686,12 @@
         </div2>
       </div1>
       <div1 xml:id="Ib" type="interlude">
+        <head>Deuxième Intermède</head>
         <argument>
           <p>L’agréable Moron laissa aller le Prince pour parler de sa passion naissante aux bois et aux rochers, et faisant retentir partout le beau nom de sa Bergère Philis, un Écho ridicule lui répondant bizarrement, il y prit si grand plaisir que riant en cent manières, il fit répondre autant de fois cet Écho, sans témoigner d’en être ennuyé : Mais un Ours vint interrompre ce beau divertissement, et le surprit si fort par cette vue peu attendue, qu’il donna des sensibles marques de sa peur : Il lui fit faire devant l’Ours toutes les soumissions dont il se pût aviser pour l’adoucir : Enfin se jetant à un arbre pour y monter, comme il vit que l’Ours y voulait grimper aussi bien que lui ; Il cria au secours d’une voix si haute, qu’elle attira huit Paysans armés de bâtons à deux bouts et d’épieux, pendant qu’un autre Ours parut ensuite du premier. Il se fit un Combat qui finit par la mort d’un des Ours, et par la fuite de l’autre :</p>
         </argument>
         <div2 type="scene" xml:id="Ib01">
+          <head>Scène Première</head>
           <sp who="moron" xml:id="Ib01-1">
             <p>Jusqu’au revoir ; pour moi je reste ici, et j’ai une petite conversation à faire avec ces arbres et ces rochers.</p>
             <l n="397" xml:id="l397">Bois, prés, fontaines, fleurs qui voyez mon teint blême,</l>
@@ -649,6 +712,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="Ib02">
+          <head>Scène Deuxième</head>
           <sp who="moron" xml:id="Ib02-1">
             <p>Ah ! monsieur l’Ours,  je suis votre serviteur de tout mon cœur : de grâce épargnez-moi ! je vous assure que je ne vaux rien du tout à manger, je n’ai que la peau et les os, et je vois de certaines gens là-bas qui seraient bien mieux votre affaire. Eh ! eh ! eh ! monseigneur, tout doux s’il vous plaît. Là, là, là, là, ah ! monseigneur que votre altesse est jolie et bien faite ; elle a tout à fait l’air galant et la taille la plus mignonne du monde. Ah beau poil ! belle tête ! beaux yeux brillants et bien fendus ! ah beau petit nez ! belle petite bouche ! petites quenottes jolies ! ah belle gorge ! belles petites menottes ! petits ongles bien faits. À l’aide, au secours, je suis mort, miséricorde, pauvre Moron, ah, mon Dieu ! et vite, à moi, je suis perdu !</p>
             <p>Eh, messieurs ayez pitié de moi ! bons messieurs tuez-moi ce vilain animal-là ! Ô Ciel ! daigne les assister. Bon, le voilà qui fuit, le voilà qui s’arrête et qui se jette sur eux. Bon en voilà un qui vient de lui donner un coup dans la gueule. Les voilà tous à l’entour de lui. Courage, ferme, allons mes amis. Bon, poussez fort, encore, ah ! le voilà qui est à terre, c’en est fait il est mort, descendons maintenant pour lui donner cent coups. Serviteur, Messieurs, je vous rends grâce de m’avoir délivré de cette bête, maintenant que vous l’avez tuée je m’en vais l’achever, et en triompher avec vous.</p>
@@ -656,10 +720,12 @@
         </div2>
       </div1>
       <div1 xml:id="II" type="act">
+        <head>Acte Deuxième</head>
         <argument>
           <p>Le Prince d’Ithaque et la Princesse eurent une conversation fort galante sur la Course des chars qui se préparait : Elle avait dit auparavant à une des Princesses ses Parentes, que l’insensibilité du Prince d’Ithaque lui donnait de la peine et lui était honteuse : qu’encore qu’elle ne voulût rien aimer, il était bien fâcheux de voir qu’il n’aimait rien ; et que quoi qu’elle eût résolu de n’aller point voir les Courses, elle s’y voulait rendre, dans le dessein de tâcher à triompher de la liberté d’un homme qui la chérissait si fort. Il était facile de juger que le mérite de ce Prince produisait son effet ordinaire, que ses belles qualités avaient touché ce cœur superbe : et commencé à fondre une partie de cette glace qui avait résisté jusques alors à toutes les ardeurs de l’Amour, et plus il affectait (par le conseil de Moron qu’il avait gagné, et qui connaissait fort le cœur de la Princesse) de paraître insensible, et quoiqu’il ne fût que trop amoureux, plus la Princesse se mettait dans la tête de l’engager, quoiqu’elle n’eût pas fait dessein de s’engager elle-même. Les Princes de Messène et de Pyle prirent lors congé d’elle pour s’aller préparer aux Courses, et lui parlant de l’espérance qu’ils avaient de vaincre, par le désir qu’ils sentaient de lui plaire : Celui d’Ithaque lui témoigna au contraire, que n’ayant jamais rien aimé, il allait essayer à vaincre pour sa propre satisfaction, ce qui la piqua encore davantage à vouloir soumettre un cœur déjà assez soumis, mais qui savait déguiser ses sentiments le mieux du monde.</p>
         </argument>
         <div2 type="scene" xml:id="II01">
+          <head>Scène Première</head>
           <sp who="princesse-elide" xml:id="II01-1">
             <l n="412" xml:id="l412">Oui j’aime à demeurer dans ces paisibles lieux,</l>
             <l n="413" xml:id="l413">On n’y découvre rien qui n’enchante les yeux,</l>
@@ -734,6 +800,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II02">
+          <head>Scène Deuxième</head>
           <sp who="aglante" xml:id="II02-1">
             <p>Viens, approche Moron, viens nous aider à défendre l’Amour contre les sentiments de la Princesse.</p>
           </sp>
@@ -760,6 +827,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II03">
+          <head>Scène Troisième</head>
           <sp who="lycas" xml:id="II03-1">
             <p>Madame, le Prince votre Père vient vous trouver ici, et conduit avec lui les Princes de Pyle, et d’Ithaque, et celui de Messène.</p>
           </sp>
@@ -768,6 +836,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II04">
+          <head>Scène Quatrième</head>
           <sp who="princesse-elide" xml:id="II04-1">
             <p>Seigneur, je vous demande la licence de prévenir par deux paroles, la déclaration des pensées que vous pouvez avoir. Il y a deux vérités, Seigneur, aussi constantes l’une que l’autre, et dont je puis vous assurer également : l’Une que vous avez un absolu pouvoir sur moi, et que vous ne sauriez m’ordonner rien où je ne réponde aussitôt par une obéissance aveugle. L’autre que je regarde l’Hyménée ainsi que le trépas, et qu’il m’est impossible de forcer cette aversion naturelle : Me donner un Mari, et me donner la mort c’est une même chose ; mais votre volonté va la première, et mon obéissance m’est bien plus chère que ma vie : Après cela parlez, Seigneur, prononcez librement ce que vous voulez.</p>
           </sp>
@@ -810,7 +879,9 @@
         </div2>
       </div1>
       <div1 xml:id="IIb" type="interlude">
+        <head>Troisième Intermède</head>
         <div2 type="scene" xml:id="IIb01">
+          <head>Scène Première</head>
           <sp who="moron" xml:id="IIb01-1">
             <p>Philis demeure ici ?</p>
           </sp>
@@ -876,6 +947,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IIb02">
+          <head>Scène Deuxième</head>
           <sp who="satyre" xml:id="IIb02-1">
             <p>La, la, la.</p>
           </sp>
@@ -946,10 +1018,12 @@
         </div2>
       </div1>
       <div1 xml:id="III" type="act">
+        <head>Acte Troisième</head>
         <argument>
           <p>La Princesse d’Élide était cependant dans d’étranges inquiétudes : le Prince d’Ithaque avait gagné le prix des Courses, elle avait dans la suite de ce divertissement fait des merveilles à chanter et à la danse, sans qu’il parût que les dons de la nature et de l’art eussent été quasi remarqués par le Prince d’Ithaque ; elle en fit de grandes plaintes à la Princesse sa parente ; elle en parla à Moron, qui fit passer cet insensible pour un brutal : Et enfin le voyant arriver lui-même, elle ne put s’empêcher de lui en toucher fort sérieusement quelque chose : Il lui répondit ingénument qu’il n’aimait rien, et qu’hors l’amour de sa liberté, et les plaisirs qu’elle trouvait si agréables de la solitude et de la Chasse rien ne le touchait.</p>
         </argument>
         <div2 type="scene" xml:id="III01">
+          <head>Scène Première</head>
           <sp who="cynthie" xml:id="III01-1">
             <p>Il est vrai, Madame, que ce jeune Prince a fait voir une adresse non commune, et que l’air dont il a paru a été quelque chose de surprenant. Il sort vainqueur de cette Course, mais je doute fort qu’il en sorte avec le même cœur qu’il y a porté : Car enfin, vous lui avez tiré des traits dont il est difficile de se défendre, et sans parler de tout le reste, la grâce de votre danse, et la douceur de votre voix ont eu des charmes aujourd’hui à toucher les plus insensibles.</p>
           </sp>
@@ -958,6 +1032,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III02">
+          <head>Scène Deuxième</head>
           <sp who="euryale" xml:id="III02-1">
             <p>Ah ! Moron, je te l’avoue, j’ai été enchanté, et jamais tant de charmes n’ont frappé tout ensemble mes yeux et mes oreilles. Elle est adorable en tout temps, il est vrai : mais ce moment l’a emporté sur tous les autres, et des grâces nouvelles ont redoublé l’éclat de ses beautés. Jamais son visage ne s’est paré de plus vives couleurs, ni ses yeux ne se sont armés de traits plus vifs et plus perçants. La douceur de sa voix a voulu se faire paraître dans un air tout charmant qu’elle a daigné chanter, et les sons merveilleux qu’elle formait passaient jusqu’au fond de mon âme, et tenaient tous mes sens dans un ravissement à ne pouvoir en revenir. Elle a fait éclater ensuite une disposition toute divine, et ses pieds amoureux sur l’émail d’un tendre gazon traçaient d’aimables caractères qui m’enlevaient hors de moi-même, et m’attachaient par des nœuds invincibles aux doux et justes mouvements dont tout son corps suivait les mouvements de l’harmonie. Enfin jamais âme n’a eu de plus puissantes émotions que la mienne, et j’ai pensé plus de vingt fois oublier ma résolution pour me jeter à ses pieds, et lui faire un aveu sincère de l’ardeur que je sens pour elle.</p>
           </sp>
@@ -972,6 +1047,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III03">
+          <head>Scène Troisième</head>
           <sp who="princesse-elide" xml:id="III03-1">
             <p>Tu as donc familiarité, Moron, avec le Prince d’Ithaque ?</p>
           </sp>
@@ -1037,6 +1113,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III04">
+          <head>Scène Quatrième</head>
           <sp who="moron" xml:id="III04-1">
             <p>Seigneur, je vous donne avis que tout va bien : la Princesse souhaite que vous l’abordiez : mais songez bien à continuer votre rôle, et de peur de l’oublier ne soyez pas longtemps avec elle.</p>
           </sp>
@@ -1099,6 +1176,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III05">
+          <head>Scène Cinquième</head>
           <sp who="moron" xml:id="III05-1">
             <p>Il ne vous en doit rien, Madame, en dureté de cœur.</p>
           </sp>
@@ -1150,7 +1228,9 @@
         </div2>
       </div1>
       <div1 xml:id="IIIb" type="interlude">
+        <head>Quatrieme Intermède</head>
         <div2 type="scene" xml:id="IIIb01">
+          <head>Scène Première</head>
           <sp who="philis" xml:id="IIIb01-1">
             <p>Viens, Tircis, laissons-les aller, et me dis un peu ton martyre de la façon que tu sais faire ? Il y a longtemps que tes yeux me parlent ; mais je suis plus aise d’ouïr ta voix.</p>
           </sp>
@@ -1165,6 +1245,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IIIb02">
+          <head>Scène Deuxième</head>
           <sp who="moron" xml:id="IIIb02-1">
             <p>Ah ! ah ! je vous y prends, cruelle, vous vous écartez des autres pour ouïr mon rival ?</p>
           </sp>
@@ -1251,10 +1332,12 @@
         </div2>
       </div1>
       <div1 xml:id="IV" type="act">
+        <head>Acte Quatrième</head>
         <argument>
           <p>La Princesse espérant par une feinte pouvoir découvrir les sentiments du Prince d’Ithaque, elle lui fit confidence qu’elle aimait le Prince de Messène : Au lieu d’en paraître affligé il lui rendit la pareille, et lui fit connaître que la Princesse sa parente lui avait donné dans la vue, et qu’il la demanderait en Mariage au Roi son Père : À cette atteinte imprévue cette Princesse perdit toute sa constance ; et quoiqu’elle essayât à se contraindre devant lui, aussitôt qu’il fut sorti, elle demanda avec tant d’empressement à sa Cousine de ne recevoir point les services de ce Prince, et de ne l’épouser jamais, qu’elle ne put le lui refuser : Elle s’en plaignit même à Moron, qui lui ayant dit assez franchement qu’elle l’aimait donc, en fut chassé de sa présence.</p>
         </argument>
         <div2 type="scene" xml:id="IV01">
+          <head>Scène Première</head>
           <sp who="princesse-elide" xml:id="IV01-1">
             <p>Prince, comme jusques ici nous avons fait paraître une conformité de sentiments, et que le Ciel a semblé mettre en nous mêmes attachements pour notre liberté, et même aversion pour l’Amour ; je suis bien aise de vous ouvrir mon cœur, et de vous faire confidence d’un changement dont vous serez surpris. J’ai toujours regardé l’Hymen comme une chose affreuse, et j’avais fait serment d’abandonner plutôt la vie, que de me résoudre jamais à perdre cette liberté pour qui j’avais des tendresses si grandes : mais, enfin, un moment a dissipé toutes ces résolutions, le mérite d’un Prince m’a frappé aujourd’hui les yeux, et mon âme tout d’un coup (comme par un miracle) est devenue sensible aux traits de cette passion que j’avais toujours méprisée. J’ai trouvé d’abord des raisons pour autoriser ce changement, et je puis l’appuyer de la volonté de répondre aux ardentes sollicitations d’un Père, et aux vœux de tout un État ; mais, à vous dire vrai, je suis en peine du jugement que vous ferez de moi, et je voudrais savoir si vous condamnerez ou non le dessein que j’ai de me donner un Époux.</p>
           </sp>
@@ -1311,6 +1394,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV02">
+          <head>Scène Deuxième</head>
           <sp who="princesse-elide" xml:id="IV02-1">
             <p>Ah ! Moron, je n’en puis plus, et ce coup que je n’attendais pas, triomphe absolument de toute ma fermeté.</p>
           </sp>
@@ -1322,6 +1406,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV03">
+          <head>Scène Troisième</head>
           <sp who="princesse-elide" xml:id="IV03-1">
             <p>Princesse, j’ai à vous prier d’une chose qu’il faut absolument que vous m’accordiez : Le Prince d’Ithaque vous aime, et veut vous demander au prince mon Père.</p>
           </sp>
@@ -1345,6 +1430,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV04">
+          <head>Scène Quatrième</head>
           <sp who="aristomene" xml:id="IV04-1">
             <p>Madame, je viens à vos pieds rendre grâce à l’Amour de mes heureux destins, et vous témoigner avec mes transports, le ressentiment où je suis, des bontés surprenantes dont vous daignez favoriser le plus soumis de vos captifs.</p>
           </sp>
@@ -1371,6 +1457,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV05">
+          <head>Scène Cinquième</head>
           <sp who="princesse-elide" xml:id="IV05-1">
             <p>Ah ! qu’en cette aventure, le Ciel me traite avec une rigueur étrange ! Au moins, Princesse, souvenez-vous de la prière que je vous ai faite ?</p>
           </sp>
@@ -1400,12 +1487,14 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="IV06">
+          <head>Scène Sixème</head>
           <sp who="princesse-elide" xml:id="IV06-1">
             <p>De quelle émotion inconnue sens-je mon cœur atteint ! et quelle inquiétude secrète est venue troubler tout d’un coup la tranquillité de mon âme ? Ne serait-ce point aussi, ce qu’on vient de me dire, et sans en rien savoir, n’aimerais-je point ce jeune Prince ? Ah ! si cela était je serais personne à me désespérer : mais il est impossible que cela soit, et je vois bien que je ne puis pas l’aimer. Quoi ? je serais capable de cette lâcheté. J’ai vu toute la Terre à mes pieds, avec la plus grande insensibilité du monde. Les respects, les hommages et les soumissions n’ont jamais pu toucher mon âme, et la fierté et le dédain en auraient triomphé. J’ai méprisé tous ceux qui m’ont aimée, et j’aimerais le seul qui me méprise ? Non, non, je sais bien que je ne l’aime pas. Il n’y a pas de raison à cela : Mais si ce n’est pas de l’amour que ce que je sens maintenant, qu’est-ce donc que ce peut être ? et d’où vient ce poison qui me court par toutes les veines, et ne me laisse point en repos avec moi-même ? Sors de mon cœur, qui que tu sois, ennemi qui te caches, attaque-moi visiblement, et deviens à mes yeux la plus affreuse bête de tous nos bois, afin que mon dard et mes flèches me puissent défaire de toi. Ô vous, admirables personnes, qui par la douceur de vos chants avez l’art d’adoucir les plus fâcheuses inquiétudes, approchez-vous d’ici de grâce, et tâchez de charmer avec votre Musique le chagrin où je suis.</p>
           </sp>
         </div2>
       </div1>
       <div1 xml:id="IVb" type="interlude">
+        <head>Cinquieme Intermède</head>
         <sp who="clymene" xml:id="IVb-1">
           <l n="493" xml:id="l493">Chère Philis, dis-moi, que crois-tu de l’Amour ?</l>
         </sp>
@@ -1459,10 +1548,12 @@
         </sp>
       </div1>
       <div1 xml:id="V" type="act">
+        <head>Acte Cinquième</head>
         <argument>
           <p>Il se passait dans le cœur du Prince de Messène des choses bien différentes ; la joie que lui avait donnée le Prince d’Ithaque, en lui apprenant malicieusement qu’il était aimé de la Princesse, l’avait obligé de l’aller trouver avec une inconsidération que rien qu’une extrême amour ne pouvait excuser ; mais il en avait été reçu d’une manière bien différente à ce qu’il espérait. Elle lui demanda qui lui avait appris cette nouvelle, et quand elle eut su que ç’avait été le Prince d’Ithaque, cette connaissance augmenta cruellement son mal, et lui fit dire à demi désespérée, c’est un étourdi ; et ce mot étourdit si fort le Prince de Messène, qu’il sortit tout confus sans lui pouvoir répondre. La Princesse d’un autre côté alla trouver le Roi son Père, qui venait de paraître avec le Prince d’Ithaque, et qui lui témoignait, non seulement la joie qu’il aurait eue de le voir entrer dans son alliance, mais même l’opinion qu’il commençait d’avoir que sa Fille ne le haïssait pas : Elle ne fut pas plutôt auprès de lui, que se jetant à ses pieds, elle lui demanda pour la plus grande faveur qu’elle en pût jamais recevoir, que le Prince d’Ithaque n’épousât jamais la Princesse. Ce qu’il lui promit solennellement ; mais il lui dit que si elle ne voulait point qu’il fût à une autre, il fallait qu’elle le prît pour elle : Elle lui répondit, il ne le voudrait pas ; mais d’une manière si passionnée, qu’il était aisé de connaître les sentiments de son cœur. Alors le Prince quittant toute sorte de feinte, lui confessa son amour, et le stratagème dont il s’était servi pour venir au point où il se voyait alors par la connaissance de son humeur. La Princesse lui donnant la main, le Roi se tourna vers les deux Princes de Messène et de Pyle, et leur demanda si ses deux Parentes, dont le mérite n’était pas moindre que la qualité, ne seraient point capables de les consoler de leur disgrâce ; ils lui répondirent que l’honneur de son alliance faisant tous leurs souhaits, ils ne pouvaient espérer une plus heureuse fortune. Alors la joie fut si grande dans le Palais, qu’elle se répandit par tous les environs.</p>
         </argument>
         <div2 type="scene" xml:id="V01">
+          <head>Scène Première</head>
           <sp who="moron" xml:id="V01-1">
             <p>Oui, Seigneur, ce n’est point raillerie, j’en suis ce qu’on appelle disgracié. Il m’a fallu tirer mes chausses au plus vite, et jamais vous n’avez vu un emportement plus brusque que le sien.</p>
           </sp>
@@ -1477,6 +1568,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V02">
+          <head>Scène Deuxième</head>
           <sp who="princesse-elide" xml:id="V02-1">
             <p>Ô Ciel ! que vois-je ici ?</p>
           </sp>
@@ -1578,6 +1670,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V03">
+          <head>Scène Troisième</head>
           <sp who="iphitas" xml:id="V03-1">
             <p>Je crains bien, Princes, que le choix de ma Fille ne soit pas en votre faveur ; mais voilà deux Princesses qui peuvent bien vous consoler de ce petit malheur.</p>
           </sp>
@@ -1586,12 +1679,14 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="V04">
+          <head>Scène Quatrième</head>
           <sp xml:id="V04-1" who="philis">
             <p>Seigneur, la Déesse Vénus vient d’annoncer partout le changement du cœur de la Princesse : Tous les Pasteurs et toutes les Bergères en témoignent leur joie par des danses et des chansons, et si ce n’est point un spectacle que vous méprisiez, vous allez voir l’allégresse publique se répandre jusques ici.</p>
           </sp>
         </div2>
       </div1>
       <div1 xml:id="Vb" type="interlude">
+        <head>Sixième Intermède</head>
         <lg>
           <l n="513" xml:id="l513">Usez mieux, ô ! beautés fières !</l>
           <l n="514" xml:id="l514">Du pouvoir de tout charmer ;</l>

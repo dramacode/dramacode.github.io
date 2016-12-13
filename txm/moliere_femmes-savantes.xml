@@ -1,8 +1,51 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les femmes savantes</title>
+        <author>Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2008, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_femmes-savantes/</idno>
+        <idno type="tei">http://svn.code.sf.net/p/theatre-classique/code/documents/moliere_femmes-savantes.xml</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1672" type="created">1672</date>
+        <date when="1672" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div1 xml:id="I" type="act">
+        <head>Acte Premier</head>
         <div2 xml:id="I01" type="scene">
+          <head>Scène Première</head>
           <sp who="armande" xml:id="I01-1">
             <l n="1" xml:id="l1">Quoi, le beau nom de Fille est un titre, ma Sœur,</l>
             <l n="2" xml:id="l2">Dont vous voulez quitter la charmante douceur ?</l>
@@ -177,6 +220,7 @@
           </sp>
         </div2>
         <div2 xml:id="I02" type="scene">
+          <head>Scène II</head>
           <sp who="henriette" xml:id="I02-1">
             <l n="121" xml:id="l121">Pour me tirer d’un doute où me jette ma Sœur,</l>
             <l n="122" xml:id="l122">Entre elle et moi, Clitandre, expliquez votre cœur,</l>
@@ -285,6 +329,7 @@
           </sp>
         </div2>
         <div2 xml:id="I03" type="scene">
+          <head>Scène III</head>
           <sp who="henriette" xml:id="I03-1">
             <l n="199" xml:id="l199">Votre sincère aveu ne l’a pas peu surprise.</l>
           </sp>
@@ -383,6 +428,7 @@
           </sp>
         </div2>
         <div2 xml:id="I04" type="scene">
+          <head>Scène IV</head>
           <sp who="clitandre" xml:id="I04-1">
             <l n="273" xml:id="l273">Souffrez, pour vous parler, Madame, qu’un Amant</l>
             <l n="274" xml:id="l274">Prenne l’occasion de cet heureux moment,</l>
@@ -474,7 +520,9 @@
         </div2>
       </div1>
       <div1 xml:id="II" type="act">
+        <head>Acte II</head>
         <div2 xml:id="II01" type="scene">
+          <head>Scène Première</head>
           <sp who="ariste" xml:id="II01-1">
             <l n="329" xml:id="l329">Oui, je vous porterai la réponse au plus tôt ;</l>
             <l n="330" xml:id="l330">J’appuierai, presserai, ferai tout ce qu’il faut.</l>
@@ -484,6 +532,7 @@
           </sp>
         </div2>
         <div2 xml:id="II02" type="scene">
+          <head>Scène I</head>
           <sp who="ariste" xml:id="II02-1">
             <l part="M">Ah, Dieu vous gard’, mon frère.</l>
           </sp>
@@ -544,6 +593,7 @@
           </sp>
         </div2>
         <div2 xml:id="II03" type="scene">
+          <head>Scène III</head>
           <sp who="ariste" xml:id="II03-1">
             <l n="351" xml:id="l351">Clitandre auprès de vous me fait son Interprète,</l>
             <l n="352" xml:id="l352">Et son cœur est épris des grâces d’Henriette.</l>
@@ -674,6 +724,7 @@
           </sp>
         </div2>
         <div2 xml:id="II04" type="scene">
+          <head>Scène IV</head>
           <sp who="chrysale" xml:id="II04-1">
             <l part="I" n="397" xml:id="l397">Notre sœur est folle, oui.</l>
           </sp>
@@ -729,6 +780,7 @@
           </sp>
         </div2>
         <div2 xml:id="II05" type="scene">
+          <head>Scène V</head>
           <sp who="martine" xml:id="II05-1">
             <l n="418" xml:id="l418">Me voilà bien chanceuse ! Hélas l’an dit bien vrai :</l>
             <l n="419" xml:id="l419">Qui veut noyer son Chien, l’accuse de la rage,</l>
@@ -767,6 +819,7 @@
           </sp>
         </div2>
         <div2 xml:id="II06" type="scene">
+          <head>Scène VI</head>
           <sp who="philaminte" xml:id="II06-1">
             <l part="F">Quoi, je vous vois, Maraude ?</l>
             <l n="429" xml:id="l429">Vite, sortez, Friponne ; allons, quittez ces lieux,</l>
@@ -1000,6 +1053,7 @@
           </sp>
         </div2>
         <div2 xml:id="II07" type="scene">
+          <head>Scène VII</head>
           <sp who="chrysale" xml:id="II07-1">
             <l n="511" xml:id="l511">Vous êtes satisfaite, et la voilà partie.</l>
             <l n="512" xml:id="l512">Mais je n’approuve point une telle sortie ;</l>
@@ -1144,6 +1198,7 @@
           </sp>
         </div2>
         <div2 xml:id="II08" type="scene">
+          <head>Scène VIII</head>
           <sp who="philaminte" xml:id="II08-1">
             <l n="621" xml:id="l621">Avez-vous à lâcher encore quelque trait ?</l>
           </sp>
@@ -1173,6 +1228,7 @@
           </sp>
         </div2>
         <div2 xml:id="II09" type="scene">
+          <head>Scène IX</head>
           <sp who="ariste" xml:id="II09-1">
             <l n="641" xml:id="l641">Hé bien ? la Femme sort, mon Frère, et je vois bien</l>
             <l n="642" xml:id="l642">Que vous venez d’avoir ensemble un entretien.</l>
@@ -1338,7 +1394,9 @@
         </div2>
       </div1>
       <div1 xml:id="III" type="act">
+        <head>Acte III</head>
         <div2 xml:id="III01" type="scene">
+          <head>Scène Première</head>
           <sp who="philaminte" xml:id="III01-1">
             <l n="711" xml:id="l711">Ah mettons-nous ici pour écouter à l’aise</l>
             <l n="712" xml:id="l712">Ces Vers que mot à mot il est besoin qu’on pèse.</l>
@@ -1386,6 +1444,7 @@
           </sp>
         </div2>
         <div2 xml:id="III02" type="scene">
+          <head>Scène II</head>
           <sp who="philaminte" xml:id="III02-1">
             <l part="F">Holà, pourquoi donc fuyez-vous ?</l>
           </sp>
@@ -1880,6 +1939,7 @@
           </sp>
         </div2>
         <div2 xml:id="III03" type="scene">
+          <head>Scène III</head>
           <sp who="l-epine" xml:id="III03-1">
             <l n="959" xml:id="l959">Monsieur, un Homme est là qui veut parler à vous,</l>
             <l n="960" xml:id="l960">Il est vêtu de noir, et parle d’un ton doux.</l>
@@ -2156,6 +2216,7 @@
           </sp>
         </div2>
         <div2 xml:id="III04" type="scene">
+          <head>Scène IV</head>
           <sp who="trissotin" xml:id="III04-1">
             <l n="1077" xml:id="l1077">À mon emportement ne donnez aucun blâme ;</l>
             <l n="1078" xml:id="l1078">C’est votre jugement que je défends, Madame,</l>
@@ -2222,6 +2283,7 @@
           </sp>
         </div2>
         <div2 xml:id="III05" type="scene">
+          <head>Scène V</head>
           <sp who="armande" xml:id="III05-1">
             <l n="1118" xml:id="l1118">On voit briller pour vous les soins de notre Mère ;</l>
             <l n="1119" xml:id="l1119">Et son choix ne pouvait d’un plus illustre Époux...</l>
@@ -2251,6 +2313,7 @@
           </sp>
         </div2>
         <div2 xml:id="III06" type="scene">
+          <head>Scène VI</head>
           <sp who="chrysale" xml:id="III06-1">
             <l n="1131" xml:id="l1131">Allons, ma Fille, il faut approuver mon dessein,</l>
             <l n="1132" xml:id="l1132">Ôtez ce Gant. Touchez à Monsieur dans la main,</l>
@@ -2299,7 +2362,9 @@
         </div2>
       </div1>
       <div1 xml:id="IV" type="act">
+        <head>Acte IV</head>
         <div2 xml:id="IV01" type="scene">
+          <head>Scène Première</head>
           <sp who="armande" xml:id="IV01-1">
             <l n="1153" xml:id="l1153">Oui, rien n’a retenu son esprit en balance.</l>
             <l n="1154" xml:id="l1154">Elle a fait vanité de son obéissance.</l>
@@ -2328,6 +2393,7 @@
           </sp>
         </div2>
         <div2 xml:id="IV02" type="scene">
+          <head>Scène II</head>
           <sp who="armande" xml:id="IV02-1">
             <l n="1171" xml:id="l1171">Je ne souffrirais point, si j’étais que de vous,</l>
             <l n="1172" xml:id="l1172">Que jamais d’Henriette il pût être l’Époux.</l>
@@ -2493,6 +2559,7 @@
           </sp>
         </div2>
         <div2 xml:id="IV03" type="scene">
+          <head>Scène III</head>
           <sp who="trissotin" xml:id="IV03-1">
             <l n="1297" xml:id="l1297">Je viens vous annoncer une grande nouvelle.</l>
             <l n="1298" xml:id="l1298">Nous l’avons en dormant, Madame, échappé belle :</l>
@@ -2691,6 +2758,7 @@
           </sp>
         </div2>
         <div2 xml:id="IV04" type="scene">
+          <head>Scène IV</head>
           <sp who="julien" xml:id="IV04-1">
             <l n="1418" xml:id="l1418">Le Savant qui tantôt vous a rendu visite,</l>
             <l n="1419" xml:id="l1419">Et de qui j’ai l’honneur de me voir le Valet,</l>
@@ -2764,6 +2832,7 @@
           </sp>
         </div2>
         <div2 xml:id="IV05" type="scene">
+          <head>Scène V</head>
           <sp who="clitandre" xml:id="IV05-1">
             <l n="1459" xml:id="l1459">Sans votre appui, Monsieur, je serai malheureux.</l>
             <l n="1460" xml:id="l1460">Madame votre Femme a rejeté mes vœux,</l>
@@ -2843,7 +2912,9 @@
         </div2>
       </div1>
       <div1 xml:id="V" type="act">
+        <head>Acte V</head>
         <div2 xml:id="V01" type="scene">
+          <head>Scène Première</head>
           <sp who="henriette" xml:id="V01-1">
             <l n="1493" xml:id="l1493">C’est sur le Mariage où ma Mère s’apprête,</l>
             <l n="1494" xml:id="l1494">Que j’ai voulu, Monsieur, vous parler tête -à -tête ;</l>
@@ -2977,6 +3048,7 @@
           </sp>
         </div2>
         <div2 xml:id="V02" type="scene">
+          <head>Scène II</head>
           <sp who="chrysale" xml:id="V02-1">
             <l n="1595" xml:id="l1595">Ah, ma Fille, je suis bien aise de vous voir.</l>
             <l n="1596" xml:id="l1596">Allons, venez-vous-en faire votre devoir,</l>
@@ -3088,6 +3160,7 @@
           </sp>
         </div2>
         <div2 xml:id="V03" type="scene">
+          <head>Scène III</head>
           <sp who="philaminte" xml:id="V03-1">
             <l n="1633" xml:id="l1633">Vous ne sauriez changer votre style sauvage,</l>
             <l n="1634" xml:id="l1634">Et nous faire un Contrat qui soit en beau langage ?</l>
@@ -3284,6 +3357,7 @@
           </sp>
         </div2>
         <div2 xml:id="V04" type="scene">
+          <head>Scène Dernière</head>
           <sp who="ariste" xml:id="V04-1">
             <l n="1719" xml:id="l1719">J’ai regret de troubler un mystère joyeux,</l>
             <l n="1720" xml:id="l1720">Par le chagrin qu’il faut que j’apporte en ces lieux.</l>

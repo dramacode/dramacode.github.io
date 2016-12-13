@@ -1,8 +1,46 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le médecin volant</title>
+        <author>Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2009, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_medecin-volant/</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div1 type="act" n="1" xml:id="I">
+        <head/>
         <div2 type="scene" n="1" xml:id="I01">
+          <head>Scène I</head>
           <sp who="valere" xml:id="I01-1">
             <p>
               <s>Hé bien !</s>
@@ -40,6 +78,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="I02">
+          <head>Scène II</head>
           <sp who="sabine" xml:id="I02-1">
             <p>
               <s>Ah !</s>
@@ -104,6 +143,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="I03">
+          <head>Scène III</head>
           <sp who="gorgibus" xml:id="I03-1">
             <p>
               <s>Allez vitement chercher un médecin ; car ma fille est bien malade, et dépêchez-vous.</s>
@@ -130,6 +170,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="I04">
+          <head>Scène IV</head>
           <sp who="sabine" xml:id="I04-1">
             <p>
               <s>Je vous trouve à propos, mon oncle, pour vous apprendre une bonne nouvelle.</s>
@@ -247,6 +288,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="5" xml:id="I05">
+          <head>Scène V</head>
           <sp who="sganarelle" xml:id="I05-1">
             <p>
               <s>Hé bien !</s>
@@ -311,6 +353,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="6" xml:id="I06">
+          <head>Scène VI</head>
           <sp who="avocat" xml:id="I06-1">
             <p>
               <s>J’ai ouï dire que la fille de M. Gorgibus était malade : il faut que je m’informe de sa santé, et que je lui offre mes services comme ami de toute sa famille.</s>
@@ -321,6 +364,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="7" xml:id="I07">
+          <head>Scène VII</head>
           <sp who="gorgibus" xml:id="I07-1">
             <p>
               <s>Monsieur, votre très humble, etc.</s>
@@ -343,6 +387,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="8" xml:id="I08">
+          <head>Scène VIII</head>
           <sp who="gorgibus" xml:id="I08-1">
             <p>
               <s>Monsieur, voilà un fort habile homme de mes amis qui souhaiterait de vous parler et vous entretenir.</s>
@@ -405,6 +450,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="9" xml:id="I09">
+          <head>Scène IX</head>
           <sp who="valere" xml:id="I09-1">
             <p>
               <s>Je ne sais ce qu’aura fait Sganarelle : je n’ai point eu de ses nouvelles, et je suis fort en peine où je le pourrois rencontrer.</s>
@@ -417,6 +463,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="10" xml:id="I10">
+          <head>Scène X</head>
           <sp who="sganarelle" xml:id="I10-1">
             <p>
               <s>Merveille sur merveille : j’ai si bien fait que Gorgibus me prend pour un habile médecin.</s>
@@ -440,6 +487,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="11" xml:id="I11">
+          <head>Scène XI</head>
           <sp who="gorgibus" xml:id="I11-1">
             <p>
               <s>Bonjour, Monsieur.</s>
@@ -486,6 +534,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="12" xml:id="I12">
+          <head>Scène XII</head>
           <sp who="sganarelle" xml:id="I12-1">
             <p>
               <s>Il faut avouer que, quand les malades ne veulent pas suivre l’avis du médecin, et qu’ils s’abandonnent à la débauche que...</s>
@@ -556,6 +605,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="13" xml:id="I13">
+          <head>Scène XIII</head>
           <sp who="valere" xml:id="I13-1">
             <p>
               <s>Il faut que j’avoue que je n’eusse jamais cru que Sganarelle se fût si bien acquitté de son devoir.</s>
@@ -576,6 +626,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="14" xml:id="I14">
+          <head>Scène XIV</head>
           <sp who="gorgibus" xml:id="I14-1">
             <p>
               <s>Je vous cherchais partout pour vous dire que j’ai parlé à votre frère : il m’a assuré qu’il vous pardonnait ; mais, pour en être plus assuré, je veux qu’il vous embrasse en ma présence ; entrez dans mon logis, et je l’irai chercher.</s>
@@ -605,6 +656,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="15" xml:id="I15">
+          <head>Scène XV</head>
           <sp who="gros-rene" xml:id="I15-1">
             <p>
               <s>Ah !</s>
@@ -808,6 +860,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="16" xml:id="I16">
+          <head>Scène Dernière</head>
           <sp who="sganarelle" xml:id="I16-1">
             <p>
               <s>Nous nous jetons à vos pieds.</s>

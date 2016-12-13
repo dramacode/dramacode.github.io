@@ -1,8 +1,52 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le médecin malgré lui</title>
+        <author>Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2010, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_medecin-malgre-lui/</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k5690145v.image.r=Moli%C3%A8re+M%C3%A9decin+malgr%C3%A9+lui.f198.pagination.langFR">http://gallica.bnf.fr/ark:/12148/bpt6k5690145v.image.r=Moli%C3%A8re+M%C3%A9decin+malgr%C3%A9+lui.f198.pagination.langFR</ref>
+        </p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1666" type="created"/>
+        <date when="1667" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div type="act" xml:id="I">
+        <head>Acte I</head>
         <div xml:id="I01">
+          <head>Scène I</head>
           <sp who="sganarelle" xml:id="I01-1">
             <p>Non je te dis que je n’en veux rien faire : et que c’est à moi de parler, et d’être le Maître.</p>
           </sp>
@@ -158,6 +202,7 @@
           </sp>
         </div>
         <div xml:id="I02" type="scene">
+          <head>Scène II</head>
           <sp who="monsieur-robert" xml:id="I02-1">
             <p>Holà, holà, holà, fi qu’est ceci ? Quelle infamie, peste soit le Coquin, de battre ainsi sa Femme.</p>
           </sp>
@@ -311,11 +356,13 @@
           </sp>
         </div>
         <div xml:id="I03" type="scene">
+          <head>Scène III</head>
           <sp who="martine" xml:id="I03-1">
             <p>Va, quelque mine que je fasse, je n’oublie pas mon ressentiment : et je brûle en moi-même, de trouver les moyens de te punir des coups que tu me donnes. Je sais bien qu’une femme a toujours dans les mains, de quoi se venger d’un Mari : mais c’est une punition trop délicate pour mon Pendard. Je veux une vengeance qui se fasse un peu mieux sentir : et ce n’est pas contentement, pour l’injure que j’ai reçue.</p>
           </sp>
         </div>
         <div xml:id="I04" type="scene">
+          <head>Scène IV</head>
           <p/>
           <sp who="lucas" xml:id="I04-1">
             <p>Parguenne, j’avons pris là, tous deux, une guèble de commission : et je ne sais pas moi, ce que je pensons attraper.</p>
@@ -424,6 +471,7 @@
           </sp>
         </div>
         <div xml:id="I05" type="scene">
+          <head>Scène V</head>
           <p/>
           <sp who="sganarelle" xml:id="I05-1">
             <p>La, la, la.</p>
@@ -751,7 +799,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>Acte II</head>
         <div xml:id="II01" type="scene">
+          <head>Scène I</head>
           <sp who="valere" xml:id="II01-1">
             <p>Oui, Monsieur, je crois que vous serez satisfait : et nous vous avons amené le plus grand Médecin du Monde.</p>
           </sp>
@@ -832,6 +882,7 @@
           </sp>
         </div>
         <div xml:id="II02" type="scene">
+          <head>Scène II</head>
           <sp who="valere" xml:id="II02-1">
             <p>Monsieur préparez-vous, voici notre Médecin qui entre.</p>
           </sp>
@@ -991,6 +1042,7 @@
           </sp>
         </div>
         <div xml:id="II03" type="scene">
+          <head>Scène III</head>
           <sp who="geronte" xml:id="II03-1">
             <p>Monsieur, voici tout à l’heure, ma Fille qu’on va vous amener.</p>
           </sp>
@@ -1041,6 +1093,7 @@
           </sp>
         </div>
         <div xml:id="II04" type="scene">
+          <head>Scène IV</head>
           <sp who="sganarelle" xml:id="II04-1">
             <p>Est-ce là, la Malade ?</p>
           </sp>
@@ -1333,6 +1386,7 @@
           </sp>
         </div>
         <div xml:id="II05" type="scene">
+          <head>Scène V</head>
           <sp who="sganarelle" xml:id="II05-1">
             <p>Ma foi, cela ne va pas mal, et pourvu que...</p>
           </sp>
@@ -1393,7 +1447,9 @@
         </div>
       </div>
       <div type="act" xml:id="III">
+        <head>Acte III</head>
         <div xml:id="III01">
+          <head>Scène I</head>
           <sp who="leandre" xml:id="III01-1">
             <p>Il me semble que je ne suis pas mal ainsi, pour un Apothicaire : et comme le Père ne m’a guère vu, ce changement d’Habit, et de Perruque, est assez capable, je crois, de me déguiser à ses yeux.</p>
           </sp>
@@ -1426,6 +1482,7 @@
           </sp>
         </div>
         <div xml:id="III02" type="scene">
+          <head>Scène II</head>
           <sp who="thibaut" xml:id="III02-1">
             <p>Monsieu, je venons vous charcher, mon Fils Perrin et moi.</p>
           </sp>
@@ -1500,6 +1557,7 @@
           </sp>
         </div>
         <div xml:id="III03" type="scene">
+          <head>Scène III</head>
           <sp who="sganarelle" xml:id="III03-1">
             <p>Voici la belle Nourrice. Ah Nourrice de mon cœur, je suis ravi de cette rencontre : et votre vue est la Rhubarbe, la Casse et le Séné qui purgent toute la Mélancolie de mon Âme.</p>
           </sp>
@@ -1541,6 +1599,7 @@
           </sp>
         </div>
         <div xml:id="III04" type="scene">
+          <head>Scène IV</head>
           <sp who="geronte" xml:id="III04-1">
             <p>Holà ! Lucas, n’as-tu point vu ici, notre Médecin ?</p>
           </sp>
@@ -1558,6 +1617,7 @@
           </sp>
         </div>
         <div xml:id="III05" type="scene">
+          <head>Scène V</head>
           <sp who="geronte" xml:id="III05-1">
             <p>Ah ! Monsieur, je demandais où vous étiez.</p>
           </sp>
@@ -1602,6 +1662,7 @@
           </sp>
         </div>
         <div xml:id="III06" type="scene">
+          <head>Scène VI</head>
           <sp who="jacqueline" xml:id="III06-1">
             <p>Monsieu, velà votre Fille qui veut un peu marcher.</p>
           </sp>
@@ -1705,6 +1766,7 @@
           </sp>
         </div>
         <div xml:id="III07" type="scene">
+          <head>Scène VII</head>
           <sp who="geronte" xml:id="III07-1">
             <p>Quelles Drogues, Monsieur, sont celles que vous venez de dire ? Il me semble que je ne les ai jamais ouï nommer.</p>
           </sp>
@@ -1767,6 +1829,7 @@
           </sp>
         </div>
         <div xml:id="III08" type="scene">
+          <head>Scène VIII</head>
           <sp who="lucas" xml:id="III08-1">
             <p>Ah palsanguenne, Monsieu, vaici bian du tintamarre, votte Fille s’en est enfuie avec son Liandre, c’était lui qui était l’Apothicaire, et velà Monsieu le Médecin, qui a fait cette belle Opération-là.</p>
           </sp>
@@ -1778,6 +1841,7 @@
           </sp>
         </div>
         <div xml:id="III09" type="scene">
+          <head>Scène IX</head>
           <sp who="martine" xml:id="III09-1">
             <p>Ah ! mon Dieu, que j’ai eu de peine à trouver ce Logis : dites-moi un peu des Nouvelles du Médecin que je vous ai donné.</p>
           </sp>
@@ -1816,6 +1880,7 @@
           </sp>
         </div>
         <div xml:id="III10" type="scene">
+          <head>Scène X</head>
           <sp who="geronte" xml:id="III10-1">
             <p>Le Commissaire viendra bientôt, et l’on s’en va vous mettre en lieu, où l’on me répondra de vous.</p>
           </sp>
@@ -1827,6 +1892,7 @@
           </sp>
         </div>
         <div xml:id="III11" type="scene">
+          <head>Scène XI<hi rend="i"> et DERNIÈRE.</hi></head>
           <sp who="leandre" xml:id="III11-1">
             <p>Monsieur, je viens faire paraître Léandre à vos yeux, et remettre Lucinde en votre pouvoir, nous avons eu dessein de prendre la fuite nous deux, et de nous aller marier ensemble : mais cette entreprise a fait place à un procédé plus honnête : je ne prétends point vous voler votre Fille, et ce n’est que de votre main que je veux la recevoir : ce que je vous dirai, Monsieur, c’est que je viens tout à l’heure de recevoir des lettres, par où j’apprends que mon oncle est mort, et que je suis héritier de tous ses biens.</p>
           </sp>

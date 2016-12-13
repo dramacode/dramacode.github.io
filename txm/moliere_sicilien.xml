@@ -1,13 +1,68 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Sicilien</title>
+        <title type="sub">ou l'Amour peintre</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2011, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2011"/>
+        <date when="2014"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_sicilien/</idno>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1667" type="created"/>
+        <date when="1668" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div>
+        <head>Le Sicilien <lb/>ou <lb/>l’Amour Peintre <lb/>Comédie</head>
         <div xml:id="I" type="scene">
+          <head>Scène I</head>
           <sp who="hali" xml:id="I01-1">
             <p>Chut… N’avancez pas davantage, et demeurez dans cet endroit, jusqu’à ce que je vous appelle. Il fait noir comme dans un Four ; Le Ciel s’est habillé, ce soir, en Scaramouche ; et je ne vois pas une Étoile qui montre le bout de son nez. Sotte condition que celle d’un Esclave ! de ne vivre jamais pour soi, et d’être, toujours, tout entier aux passions d’un Maître ! de n’être réglé que par ses humeurs, et de se voir réduit à faire ses propres affaires de tous les soucis qu’il peut prendre ! Le mien me fait, ici, épouser ses inquiétudes ; et parce qu’il est Amoureux, il faut que nuit, et jour, je n’aie aucun repos. Mais voici des Flambeaux, et, sans doute, c’est lui.</p>
           </sp>
         </div>
         <div xml:id="I02" type="scene">
+          <head>Scène II</head>
           <sp who="adraste" xml:id="I02-1">
             <p>Est-ce toi, Hali ?</p>
           </sp>
@@ -73,6 +128,7 @@
           </sp>
         </div>
         <div xml:id="I03" type="scene">
+          <head>Scène III</head>
           <sp who="musiciens" xml:id="I03-1">
             <lg rend="i">
               <l>Si du triste récit de mon inquiétude,</l>
@@ -143,6 +199,7 @@
           </sp>
         </div>
         <div xml:id="I04" type="scene">
+          <head>Scène IV</head>
           <sp who="dom-pedre" xml:id="I04-1">
             <p>Il y a quelque temps que j’entends chanter à ma Porte ; et, sans doute, cela ne se fait pas pour rien. Il faut que, dans l’obscurité, je tâche à découvrir quelles Gens ce peuvent être.</p>
           </sp>
@@ -184,6 +241,7 @@
           </sp>
         </div>
         <div xml:id="I05" type="scene">
+          <head>Scène V</head>
           <sp who="adraste" xml:id="I05-1">
             <p>Je n’entends remuer Personne. Hali ? Hali ?</p>
           </sp>
@@ -216,6 +274,7 @@
           </sp>
         </div>
         <div xml:id="I06" type="scene">
+          <head>Scène VI</head>
           <sp who="isidore" xml:id="I06-1">
             <p>Je ne sais pas quel plaisir vous prenez à me réveiller si matin ; cela s’ajuste assez mal, ce me semble, au dessein que vous avez pris de me faire peindre aujourd’hui ; et ce n’est guère pour avoir le teint frais, et les yeux brillants, que se lever ainsi dès la pointe du jour.</p>
           </sp>
@@ -308,6 +367,7 @@
           </sp>
         </div>
         <div xml:id="I07" type="scene">
+          <head>Scène VII</head>
           <sp who="dom-pedre" xml:id="I07-1">
             <p>Trêve aux cérémonies, que voulez-vous ?</p>
           </sp>
@@ -334,6 +394,7 @@
           </sp>
         </div>
         <div xml:id="I08" type="scene">
+          <head>Scène VIII</head>
           <sp who="hali" xml:id="I08-1">
             <lg rend="i">
               <l>D’un Cœur ardent en tous lieux,</l>
@@ -423,6 +484,7 @@
           </sp>
         </div>
         <div xml:id="I09" type="scene">
+          <head>Scène IX</head>
           <sp who="hali" xml:id="I09-1">
             <p>Monsieur, j’ai, déjà, fait quelque petite tentative, mais je...</p>
           </sp>
@@ -443,6 +505,7 @@
           </sp>
         </div>
         <div xml:id="I10" type="scene">
+          <head>Scène X</head>
           <sp who="dom-pedre" xml:id="I10-1">
             <p>Que cherchez-vous, Cavalier, dans cette maison ?</p>
           </sp>
@@ -469,6 +532,7 @@
           </sp>
         </div>
         <div xml:id="I11" type="scene">
+          <head>Scène XI</head>
           <sp who="dom-pedre" xml:id="I11-1">
             <p>Voici un Gentilhomme que Damon nous envoie, qui se veut bien donner la peine de vous peindre.</p>
             <p>Holà, Seigneur Français, cette façon de saluer n’est point d’usage en ce Pays.</p>
@@ -562,6 +626,7 @@
           </sp>
         </div>
         <div xml:id="I12" type="scene">
+          <head>Scène XII</head>
           <sp who="dom-pedre" xml:id="I12-1">
             <p>Que veut cet Homme-là ? Et qui laisse monter les Gens, sans nous en venir avertir ?</p>
           </sp>
@@ -651,6 +716,7 @@
           </sp>
         </div>
         <div xml:id="I13" type="scene">
+          <head>Scène XIII</head>
           <sp who="isidore" xml:id="I13-1">
             <p>Qu’en dites-vous ? Ce Gentilhomme me paraît le plus civil du Monde ; et l’on doit demeurer d’accord, que les Français ont quelque chose, en eux, de poli, de galant, que n’ont point les autres Nations.</p>
           </sp>
@@ -668,6 +734,7 @@
           </sp>
         </div>
         <div xml:id="I14" type="scene">
+          <head>Scène XIV.</head>
           <sp who="climene" xml:id="I14-1">
             <p>Ah ! Seigneur Cavalier, sauvez-moi, s’il vous plaît, des mains d’un Mari furieux dont je suis poursuivie. Sa jalousie est incroyable, et passe dans ses mouvements tout ce qu’on peut imaginer. Il va jusques à vouloir que je sois, toujours, voilée ; et pour m’avoir trouvée le visage un peu découvert, il a mis l’épée à la main, et m’a réduite à me jeter chez vous, pour vous demander votre appui contre son injustice. Mais je le vois paraître. De grâce, Seigneur Cavalier, sauvez-moi de sa fureur.</p>
           </sp>
@@ -676,6 +743,7 @@
           </sp>
         </div>
         <div xml:id="I15" type="scene">
+          <head>Scène XV</head>
           <sp who="dom-pedre" xml:id="I15-1">
             <p>Hé quoi ! Seigneur, c’est vous ? Tant de jalousie pour un Français ! Je pensais qu’il n’y eût que nous qui en fussions capables.</p>
           </sp>
@@ -702,6 +770,7 @@
           </sp>
         </div>
         <div xml:id="I16" type="scene">
+          <head>Scène XVI</head>
           <sp who="dom-pedre" xml:id="I16-1">
             <p>Holà, venez ; Vous n’avez qu’à me suivre, et j’ai fait votre paix. Vous ne pouviez, jamais, mieux tomber que chez moi.</p>
           </sp>
@@ -713,6 +782,7 @@
           </sp>
         </div>
         <div xml:id="I17" type="scene">
+          <head>Scène XVII</head>
           <sp who="dom-pedre" xml:id="I17-1">
             <p>Puisque vous m’avez bien voulu donner votre ressentiment, trouvez bon qu’en ce lieu je vous fasse toucher dans la main l’un de l’autre, et que tous deux je vous conjure de vivre, pour l’amour de moi, dans une parfaite union.</p>
           </sp>
@@ -730,6 +800,7 @@
           </sp>
         </div>
         <div xml:id="I18" type="scene">
+          <head>Scène XVIII</head>
           <sp who="dom-pedre" xml:id="I18-1">
             <p>Comment ! que veut dire cela ?</p>
           </sp>
@@ -741,6 +812,7 @@
           </sp>
         </div>
         <div xml:id="I19" type="scene">
+          <head>Scène XIX</head>
           <sp who="le-senateur" xml:id="I19-1">
             <p>Serviteur, Seigneur Don Pèdre. Que vous venez à propos !</p>
           </sp>
@@ -793,7 +865,9 @@
             <p>Diantre soit le Fâcheux, avec son Affaire.</p>
           </sp>
         </div>
-        <div xml:id="I20"/>
+        <div xml:id="I20">
+          <head>Scène Dernière</head>
+        </div>
       </div>
     </body>
   </text>

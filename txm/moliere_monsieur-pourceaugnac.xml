@@ -1,7 +1,60 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Monsieur De Pourceaugnac</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2013, transcription XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2015, révision</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2015, révision</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2013"/>
+        <date when="2015"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_monsieur-pourceaugnac/</idno>
+        <idno type="tei">http://svn.code.sf.net/p/theatre-classique/code/documents/moliere_monsieur-pourceaugnac.xml</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1669" type="created">1669</date>
+        <date when="1670" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie-Ballet</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div1 type="prologue" xml:id="a">
+        <head>[Prologue]</head>
         <sp who="voix1" xml:id="a-1">
           <l>Répands, charmante nuit, répands sur tous les yeux,</l>
           <l>De tes pavots la douce violence,</l>
@@ -38,7 +91,9 @@
         </sp>
       </div1>
       <div1 xml:id="I" type="act">
+        <head>Acte I</head>
         <div2 type="scene" xml:id="I01">
+          <head>Scène Première</head>
           <sp who="julie" xml:id="I01-1">
             <p>Mon Dieu, Éraste, gardons d’être surpris ; je tremble qu’on ne nous voie ensemble ; et tout serait perdu, après la défense que l’on m’a faite.</p>
           </sp>
@@ -80,6 +135,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I02">
+          <head>Scène II</head>
           <sp who="sbrigani" xml:id="I02-1">
             <p>Monsieur, votre Homme arrive, je l’ai vu à trois lieues d’ici, où a couché le Coche ;
               et dans la Cuisine où il est descendu pour déjeuner, je l’ai étudié une bonne grosse
@@ -183,6 +239,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I03">
+          <head>Scène III</head>
           <sp who="pourceaugnac" xml:id="I03-1">
             <p>Hé bien, quoi ? qu’est-ce ? qu’y a-t-il ? Au diantre soit la sotte Ville, et les sottes Gens qui y sont : ne pouvoir faire un pas sans trouver des Nigauds qui vous regardent, et se mettent à rire ! Eh, Messieurs les Badauds, faites vos affaires, et laissez passer les Personnes sans leur rire au nez. Je me donne au Diable, si je ne baille un coup de poing au premier que je verrai rire.</p>
           </sp>
@@ -383,6 +440,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I04">
+          <head>Scène IV</head>
           <sp who="eraste" xml:id="I04-1">
             <p>Ah qu’est-ce ci ! que vois-je ! Quelle heureuse rencontre ! Monsieur de Pourceaugnac ! que je suis ravi de vous voir ! Comment ? il semble que vous ayez peine à me reconnaître ?</p>
           </sp>
@@ -638,6 +696,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I05">
+          <head>Scène V</head>
           <sp who="eraste" xml:id="I05-1">
             <p>Je crois, Monsieur, que vous êtes le Médecin à qui l’on est venu parler de ma part.</p>
           </sp>
@@ -694,6 +753,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I06">
+          <head>Scène VI</head>
           <sp who="paysan" xml:id="I06-1">
             <p>Monsieur, il n’en peut plus, et il dit qu’il sent dans la tête les plus grandes douleurs du monde.</p>
           </sp>
@@ -747,6 +807,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I07">
+          <head>Scène VII</head>
           <sp who="eraste" xml:id="I07-1">
             <p>Une petite affaire m’est survenue, qui m’oblige à vous quitter ; mais voilà une Personne entre les mains de qui je vous laisse, qui aura soin pour moi de vous traiter du mieux qu’il lui sera possible.</p>
           </sp>
@@ -792,6 +853,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I08">
+          <head>Scène VIII</head>
           <sp who="medecin1" xml:id="I08-1">
             <p>Ce m’est beaucoup d’honneur, Monsieur, d’être choisi pour vous rendre service.</p>
           </sp>
@@ -921,11 +983,13 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I09">
+          <head>Scène IX</head>
           <sp who="pourceaugnac" xml:id="I09-1">
             <p>Que Diable est-ce là ? Les Gens de ce Pays-ci sont-ils insensés ? Je n’ai jamais rien vu de tel, et je n’y comprends rien du tout.</p>
           </sp>
         </div2>
         <div2 rend="not-i" type="scene" xml:id="I10">
+          <head>Scène X</head>
           <sp who="musicien1 musicien2" xml:id="I10-1">
             <l>Bon <hi rend="i">di</hi>, bon <hi rend="i">di</hi>, bon <hi rend="i">di</hi>,</l>
             <l>Non vi lasciate uccidere</l>
@@ -955,6 +1019,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I11">
+          <head>Scène XI</head>
           <sp who="apothicaire" xml:id="I11-1">
             <p>Monsieur, voici un petit remède, un petit remède, qu’il vous faut prendre, s’il vous plaît, s’il vous plaît.</p>
           </sp>
@@ -994,7 +1059,9 @@
         </div2>
       </div1>
       <div1 xml:id="II" type="act">
+        <head>Acte II</head>
         <div2 type="scene" xml:id="II01">
+          <head>Scène Première</head>
           <sp who="medecin1" xml:id="II01-1">
             <p>Il a forcé tous les obstacles que j’avais mis ; et s’est dérobé aux remèdes que je commençais de lui faire.</p>
           </sp>
@@ -1045,6 +1112,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II02">
+          <head>Scène II</head>
           <sp who="medecin1" xml:id="II02-1">
             <p>Vous avez, Monsieur, un certain Monsieur de Pourceaugnac, qui doit épouser votre Fille.</p>
           </sp>
@@ -1113,6 +1181,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II03">
+          <head>Scène III</head>
           <sp who="sbrigani" xml:id="II03-1">
             <p>Montsir, avec le Vostre permissione, je suisse un Trancher Marchant Flamane, qui voudrait bienne vous temandair un petit nouvel.</p>
           </sp>
@@ -1202,6 +1271,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II04">
+          <head>Scène IV</head>
           <sp who="pourceaugnac" xml:id="II04-1">
             <p><hi rend="i">Piglialo su, piglialo su, Signor Monsù</hi>. Que diable est-ce là ? Ah !</p>
           </sp>
@@ -1342,6 +1412,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II05">
+          <head>Scène V</head>
           <sp who="pourceaugnac" xml:id="II05-1">
             <p>Bonjour, Monsieur, bonjour.</p>
           </sp>
@@ -1374,6 +1445,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II06">
+          <head>Scène VI</head>
           <sp who="julie" xml:id="II06-1">
             <p>On vient de me dire, mon Père, que Monsieur de Pourceaugnac est arrivé. Ah le voilà sans doute, et mon cœur me le dit. Qu’il est bien fait ! qu’il a bon air ! et que je suis contente d’avoir un tel Époux ! Souffrez que je l’embrasse, et que je lui témoigne…</p>
           </sp>
@@ -1493,6 +1565,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II07">
+          <head>Scène VII</head>
           <sp who="lucette" xml:id="II07-1">
             <p>Ah ! tu es assy, et à la fy yeu te trobi aprés abé fait tant de passés. Podes-tu, scélérat, podes-tu sousteni ma bisto ?</p>
           </sp>
@@ -1531,6 +1604,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II08">
+          <head>Scène VIII</head>
           <sp who="nerine" xml:id="II08-1">
             <p>Ah je n’en pis plus, je sis toute essoflée. Ah finfaron, tu m’as bien fait courir, tu ne m’écaperas mie. Justice, justice ; je boute empeschement au Mariage. Chés mon Mery, Monsieur, et je veux faire pindre che bon pindar-là.</p>
           </sp>
@@ -1641,11 +1715,13 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II09">
+          <head>Scène IX</head>
           <sp who="sbrigani" xml:id="II09-1">
             <p>Je conduis de l’œil toutes choses, et tout ceci ne va pas mal. Nous fatiguerons tant notre Provincial, qu’il faudra, ma foi, qu’il déguerpisse.</p>
           </sp>
         </div2>
         <div2 type="scene" xml:id="II10">
+          <head>Scène X</head>
           <sp who="pourceaugnac" xml:id="II10-1">
             <p>Ah je suis assommé. Quelle peine ! Quelle maudite Ville ! Assassiné de tous côtés !</p>
           </sp>
@@ -1705,6 +1781,7 @@
           </sp>
         </div2>
         <div2 rend="not-i" type="scene" xml:id="II11">
+          <head>Scène XI</head>
           <sp xml:id="II11-1" who="avocat1">
             <l>La polygamie est un cas,</l>
             <l>Est un cas pendable.</l>
@@ -1739,7 +1816,9 @@
         </div2>
       </div1>
       <div1 xml:id="III" type="act">
+        <head>Acte III</head>
         <div2 type="scene" xml:id="III01">
+          <head>Scène Première</head>
           <sp who="sbrigani" xml:id="III01-1">
             <p>Oui, les choses s’acheminent où nous voulons : Et comme ses lumières sont fort petites, et son sens le plus borné du monde, je lui ai fait prendre une frayeur si grande de la sévérité de la Justice de ce Pays, et des apprêts qu’on faisait déjà pour sa mort, qu’il veut prendre la fuite ; et pour se dérober avec plus de facilité aux Gens que je lui ai dit qu’on avait mis pour l’arrêter aux Portes de la Ville, il s’est résolu à se déguiser, et le déguisement qu’il a pris est l’habit d’une Femme.</p>
           </sp>
@@ -1769,6 +1848,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III02">
+          <head>Scène II</head>
           <sp who="sbrigani" xml:id="III02-1">
             <p>Pour moi, je ne crois pas qu’en cet état on puisse jamais vous connaître, et vous avez la mine comme cela, d’une Femme de condition.</p>
           </sp>
@@ -1828,6 +1908,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III03">
+          <head>Scène III</head>
           <sp who="suisse1" xml:id="III03-1">
             <p>Allons, dépêchons, Camerade, li faut allair tous deux nous à la Crève pour regarter un peu chousticier sti Monsiu de Porcegnac qui l’a esté contané par Ortonnance à l’être pendu par son cou.</p>
           </sp>
@@ -1911,6 +1992,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III04">
+          <head>Scène IV</head>
           <sp who="exempt" xml:id="III04-1">
             <p>Qu’est-ce ? quelle violence est-ce là ? et que voulez-vous faire à Madame ? Allons, que l’on sorte de là, si vous ne voulez que je vous mette en prison.</p>
           </sp>
@@ -1955,6 +2037,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III05">
+          <head>Scène V</head>
           <sp who="sbrigani" xml:id="III05-1">
             <p>Ah Ciel ! que veut dire cela ?</p>
           </sp>
@@ -2026,6 +2109,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III06">
+          <head>Scène VI</head>
           <sp who="sbrigani" xml:id="III06-1">
             <p>Ah ! quelle étrange aventure ! quelle fâcheuse nouvelle pour un Père ! Pauvre Oronte, que je te plains ! Que diras-tu ? et de quelle façon pourras-tu supporter cette douleur mortelle ?</p>
           </sp>
@@ -2046,6 +2130,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III07">
+          <head>Scène VII</head>
           <sp who="eraste" xml:id="III07-1">
             <p>Allons, vous viendrez malgré vous, et je veux vous remettre entre les mains de votre Père. Tenez, Monsieur, voilà votre Fille que j’ai tirée de force d’entre les mains de l’Homme avec qui elle s’enfuyait ; non pas pour l’amour d’elle, mais pour votre seule considération : car après l’action qu’elle a faite, je dois la mépriser, et me guérir absolument de l’amour que j’avais pour elle.</p>
           </sp>
@@ -2126,6 +2211,7 @@
           </sp>
         </div2>
         <div2 rend="not-i" type="ballet" xml:id="III08">
+          <head>Scène VIII</head>
           <sp who="egyptienne" xml:id="III08-1">
             <l>Sortez, sortez de ces lieux,</l>
             <l>Soucis, chagrins et tristesse,</l>

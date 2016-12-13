@@ -1,8 +1,65 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sganarelle ou Le Cocu imaginaire</title>
+        <title type="sub">Comédie</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2006, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2006"/>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_sganarelle/</idno>
+        <idno type="tei">http://svn.code.sf.net/p/theatre-classique/code/documents/moliere_sganarelle.xml</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <!-- date="1660-05-28" location="Théâtre du Petit-Bourbon" -->
+        <date when="1660" type="created"/>
+        <date when="1660" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="FR"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>SGANARELLE <lb/>OU LE COCU IMAGINAIRE, <hi rend="i">COMÉDIE</hi></head>
       <div xml:id="I" type="act">
+        <head>Acte premier</head>
         <div type="scene" xml:id="I01">
+          <head>Scène Première</head>
           <p rend="argument">Cette première Scène, où Gorgibus entre avec sa Fille, fait voir à l’Auditeur que l’avarice est la passion la plus ordinaire aux Vieillards, de même que l’amour est celle qui règne le plus souvent dans un jeune cœur, et principalement dans celui d’une fille ; car l’on y voit Gorgibus, malgré le choix qu’il avait fait de Lélie pour son Gendre, presser sa Fille d’agréer un autre Époux nommé Valère, incomparablement plus mal fait que Lélie, sans donner  d’autre raison de changement, sinon que le dernier est plus riche. L’on voit d’un autre côté que l’amour ne sort pas facilement du cœur d’une fille, quand une fois il en a su prendre : c’est ce qui fait un agréable combat dans cette Scène entre le père et la fille, le père lui voulant persuader qu’il faut être obéissante, et lui proposant pour la devenir, au lieu de la lecture de <hi rend="i">Clélie</hi>, celle de quelques vieux Livres qui marquent l’antiquité du bonhomme, et qui n’ont rien qui ne parût barbare, si l’on en comparaît le style à celui des ouvrages de l’Illustre Sapho. Mais que tout ce que son père lui dit la touche peu, elle abandonnerait volontiers la lecture de toutes sortes de Livres pour s’occuper à repasser sans cesse en son esprit les belles qualités de son Amant, et les plaisirs dont jouissent deux personnes qui se marient quand ils s’aiment mutuellement : mais las ! que ce cruel père lui donne sujet d’avoir bien de plus tristes pensées, il l’a presse si fort que cette fille affligée n’a plus de recours qu’aux larmes, qui sont les armes ordinaires de son sexe, qui ne sont pas toujours aussi puissantes pour vaincre l’avarice de cet insensible Père, qui la laissa tout éplorée. Voici les Vers de cette Scène qui vous feront voir ce que je viens de dire, mieux que je n’ai fait dans cette Prose.</p>
           <sp xml:id="I01-1" who="celie">
             <l n="1" xml:id="l1">Ah ! n’espérez jamais que mon cœur y consente.</l>
@@ -81,6 +138,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>Scène II.</head>
           <p rend="argument">Qui comparera cette seconde Scène à la première, confessera d’abord que l’Auteur de cette Pièce a un génie tout particulier pour les Ouvrages de Théâtre, et qu’il est du tout impossible que ses pièces ne réussissent pas, tant il sait bien de quelle manière il faut attacher l’esprit de l’Auditeur. En effet, nous voyons qu’après avoir fait voir dans la Scène précédente, un père pédagogue, qui tâche de persuader à sa fille que la richesse est préférable à l’amour, il fait parler dans celle-ci (afin de divertir l’Auditeur par la variété de la matière) une veuve suivante de Célie, et confidente toute ensemble, qui s’étonne de quoi sa Maîtresse répond par des larmes à des offres d’hymen, et après avoir dit qu’elle ne ferait pas de même si l’on la voulait marier, elle trouve moyen de décrire toutes les douceurs du mariage ; ce qu’elle exécute si bien, qu’elle en fait naître l’envie à celles qui n’en ont pas tâté. Sa maîtresse, comme font d’ordinaire celles qui n’ont jamais été mariées, l’écoute avec attention et ne recule le temps de jouir de ses douceurs, que parce qu’elle les veut goûter avec Lélie, qu’elle aime parfaitement, et qu’elles se changent toutes en amertumes, lorsque l’on les goûte avec une personne que l’on n’aime pas ; c’est pourquoi elle montre à sa Suivante le Portrait de Lélie ; pour la faire tomber d’accord de la bonne mine de ce Galant, et du sujet qu’elle a de l’aimer. Vous m’objecterez peut-être que cette fille le doit connaître, puisqu’elle demeure avec Célie, et que son père l’ayant promise à Lélie, cet Amant était souvent venu voir sa Maîtresse ; mais je vous répondrai que Lélie était à la Campagne devant qu’elle demeurât avec elle. Après cette digression, pour la justification de notre Auteur, voyons quels effets ce Portrait produit. Celle qui peu auparavant disait, qu’il ne fallait jamais rejeter des offres d’Hymen, avoue que Célie a sujet d’aimer tendrement un homme si bien fait, et Célie songeant qu’elle sera peut-être contrainte d’en épouser un autre s’évanouit : sa confidente appelle du secours. Cependant qu’il en viendra, vous pouvez lire ces Vers qui vous le feront attendre sans impatience.</p>
           <sp xml:id="I02-1" who="suivante">
             <l n="64" xml:id="l64">Quoi refuser Madame, avec cette rigueur,</l>
@@ -144,6 +202,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>Scène III.</head>
           <p rend="argument">Cette Scène est fort courte, et Sganarelle, comme un des plus proches voisins de Célie, accourt aux cris de cette Suivante qui lui donne sa Maîtresse à soutenir ; cependant qu’elle va chercher encore du secours d’un autre côté, comme vous pouvez voir par ce qui suit.</p>
           <sp xml:id="I03-1" who="sganarelle">
             <l n="110" xml:id="l110" part="F">Qu’est-ce donc ? me voilà.</l>
@@ -163,6 +222,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I04">
+          <head>Scène IV.</head>
           <p rend="argument">Cette Scène n’est pas plus longue que la précédente, et la femme de Sganarelle, regardant par la fenêtre, prend de la jalousie de son mari, à qui elle voit tenir une femme entre ses bras et descend pour le surprendre, cependant qu’il aide à remporter Célie chez elle. Ce que vous pourrez voir en lisant ces vers.</p>
           <sp xml:id="I04-1" who="sganarelle">
             <l n="118" xml:id="l118">Elle est froide partout, et je ne sais qu’en dire,</l>
@@ -183,6 +243,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I05">
+          <head>Scène V.</head>
           <p rend="argument">L’Auteur, qui comme nous avons dit ci-dessus, sait tout à fait bien ménager l’esprit de son Auditeur, après l’avoir diverti dans les deux précédentes Scènes, dont la beauté consiste presque toute dans l’action, l’attache dans celle-ci par un raisonnement si juste, que l’on ne pourra qu’à peine se l’imaginer, si l’on en considère la matière ; mais il n’appartient qu’à des plumes, comme la sienne, à faire beaucoup de peu, et voici pour satisfaire votre curiosité le sujet de cette Scène. La femme de Sganarelle étant descendue, et n’ayant point trouvé son mari, fait éclater sa jalousie, mais d’une manière si surprenante et si extraordinaire, que quoique cette matière ait été fort souvent rebattue, jamais personne ne l’a traitée avec tant de succès, d’une manière si contraire à celle de toutes les autres femmes, qui n’ont recours qu’aux emportements en de semblables rencontres, et comme il m’a été presque impossible de vous l’exprimer aussi bien que lui ; Ces vers vous en feront connaître la beauté.</p>
           <sp xml:id="I05-1" who="femme-sganarelle">
             <l n="129" xml:id="l129">Il s’est subitement éloigné de ces lieux,</l>
@@ -209,6 +270,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I06">
+          <head>Scène VI.</head>
           <p rend="argument">Quelques beautés que l’auteur ait fait voir dans la Scène précédente, ne croyez pas qu’il soit de ceux qui souvent après un beau début donnent (pour parler vulgairement) du nez en terre puisque plus vous avancerez dans la lecture de cette Pièce, plus vous y découvrirez de beautés, et pour en être persuadé, il ne faut que jeter les yeux sur cette Scène, qui en fait le fondement. Célie en s’évanouissant, ayant laissé tomber le portrait de son Amant, la femme de Sganarelle le ramasse, et comme elle le considère attentivement, son mari ayant aidé à reporter Célie chez elle, rentre sur la Scène et regarde par dessus l’épaule de sa femme, ce qu’elle considère : et voyant ce portrait, commence d’entrer en quelque sorte de jalousie, lorsque sa femme s’avise de le sentir, ce qui confirme ces soupçons, dans la pensée qu’il a qu’elle le baise ; mais il ne doute bientôt plus qu’il est de la grande Confrérie, quand il entend dire à sa femme, qu’elle souhaiterait d’avoir un Époux d’une aussi bonne mine : c’est alors qu’en la surprenant, il lui arrache ce portrait. Mais devant que de parler des discours qu’ils tiennent ensemble sur le sujet de leur jalousie, il est à propos de vous dire, qu’il ne s’est jamais rien vu de si agréable que les postures de Sganarelle, quand il est derrière sa femme, son visage et ses gestes expriment si bien la jalousie, qu’il ne serait pas nécessaire qu’il parlât pour paraître le plus jaloux de tous les hommes : Il reproche à sa femme son infidélité et tâche de lui persuader qu’elle est d’autant plus coupable qu’elle a un mari qui (soit pour les qualités du corps, soit pour celles de l’esprit) est entièrement parfait. Sa femme qui d’un autre côté croit avoir autant et plus de sujet que lui d’avoir martel en tête, s’emporte contre lui en lui redemandant son bijou ; tellement que chacun croyant avoir raison, cette dispute donne un agréable divertissement à l’auditeur, à quoi Sganarelle contribue beaucoup par des gestes qui sont inimitables et qui ne se peuvent exprimer sur le papier. Sa femme étant lasse d’ouïr ses reproches lui arrache portrait qu’il lui avait pris et s’enfuit, et Sganarelle court après elle. Vous auriez sujet de me quereller, si je ne vous envoyais pas les Vers d’une Scène qui fait le fondement de cette Pièce : c’est pourquoi je satisfais à votre curiosité.</p>
           <sp xml:id="I06-1" who="sganarelle">
             <l n="150" xml:id="l150" part="F">On la croyait morte et ce n’était rien,</l>
@@ -341,6 +403,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I07">
+          <head>Scène VII.</head>
           <p rend="argument">Lélie avait déjà trop causé de trouble dans l’esprit de tous nos Acteurs, pour ne pas venir faire paraître les siens sur la Scène : En effet, il n’y arrive pas plus tôt, que l’on voit la tristesse peinte sur son visage. Il fait voir que de la campagne où il était, il s’est rendu au plutôt à Paris, sur le bruit de l’hymen de Célie. Comme il est tout nouvellement arrivé, son valet le presse d’aller manger un morceau devant que d’aller apprendre des nouvelles de sa Maîtresse ; mais il n’y veut pas consentir, et voyant que son valet l’importune, il l’envoie manger, cependant qu’il va chercher à se délasser des fatigues de son voyage auprès de sa Maîtresse. Remarquez s’il vous plaît, ce que cette Scène contient, et je vous ferai voir en un autre endroit, que l’Auteur a infiniment de l’esprit, de l’avoir placée si à propos ; et pour vous en mieux faire ressouvenir, en voici les Vers.</p>
           <sp xml:id="I07-1" who="grosrene">
             <l n="229" xml:id="l229">Enfin nous y voici ; mais Monsieur, si je l’ose,</l>
@@ -410,6 +473,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I08">
+          <head>Scène VIII.</head>
           <p>Je ne vous dirai rien de cette scène, puisqu’elle ne contient que ces trois vers.</p>
           <sp xml:id="I08-2" who="lelie">
             <l n="269" xml:id="l269">Non non, à trop de peur mon âme s’abandonne,</l>
@@ -418,6 +482,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I09">
+          <head>Scène IX.</head>
           <p rend="argument">C’est ici que l’Auteur fait voir qu’il ne sait pas moins bien représenter une Pièce, qu’il la sait composer ; puisque l’on ne vit jamais rien de si bien joué que cette Scène. Sganarelle ayant arraché à sa femme le portrait qu’elle lui venait de reprendre, vient pour le considérer à loisir, lorsque Lélie, voyant que cette boîte ressemblait fort à celle où était le portrait qu’il avait donné à sa Maîtresse, s’approche de lui pour le regarder par-dessus son épaule ; tellement que Sganarelle voyant qu’il n’a pas le loisir de considérer ce portrait comme il le voudrait bien, et que de quelque côté qu’il se puisse tourner, il est obsédé par Lélie : Et Lélie enfin de son côté ne doutant plus que ce ne soit son portrait, et impatient de savoir de qui Sganarelle peut l’avoir eu, s’enquiert de lui comment il est tombé entre ses mains. Ce désir étonne Sganarelle ; mais sa surprise cesse bientôt, lorsqu’après avoir bien examiné ce portrait, il reconnaît que c’est celui de Lélie. Il lui dit qu’il sait bien le souci qui le tient, qu’il connaît bien que c’est son portrait, et le prie de cesser un amour qu’un mari peut trouver fort mauvais. Lélie lui demande s’il est mari de celle qui conservait ce gage. Sganarelle lui dit qu’oui, et qu’il en est mari très marri, qu’il en sait bien la cause, et qu’il va sur l’heure l’apprendre aux parents de sa femme. Et moi cependant je m’en vais vous apprendre les vers de cette Scène. Il faut que vous preniez garde qu’un agréable malentendu est ce qui fait la beauté de cette Scène, et que subsistant pendant le reste de la pièce entre les quatre principaux Acteurs, qui sont Sganarelle, sa Femme, Lélie, et sa Maîtresse, qui ne s’entendent pas, il divertit merveilleusement l’auditeur, sans fatiguer son esprit, tant il naît naturellement, et tant sa conduite est admirable dans cette Pièce.</p>
           <sp xml:id="I09-1" who="sganarelle">
             <l n="272" xml:id="l272">Nous l’avons, et je puis voir à l’aise la trogne</l>
@@ -512,6 +577,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I10">
+          <head>Scène X.</head>
           <p rend="argument">Lélie se plaint dans cette Scène de l’infidélité de sa Maîtresse, et l’outrage qu’elle lui fait, ne l’abattant pas moins que les longs travaux de son voyage, le fait tomber en faiblesse. Plusieurs ont assez ridiculement repris cette Scène, sans avoir pour justifier leur impertinence, autre chose à dire sinon que l’infidélité d’une Maîtresse n’était pas capable de faire évanouir un homme. D’autres ont dit encore, que cet évanouissement était mal placé, et que l’on voyait bien que l’Auteur ne s’en était servi que pour faire naître l’incident qui paraît ensuite. Mais je répondrai en deux mots aux uns et aux autres : et je dis d’abord aux premiers, qu’ils n’ont pas bien considéré, que l’Auteur avait préparé cet incident longtemps devant, et que l’infidélité de la Maîtresse de Lélie, n’est pas seule la cause de son évanouissement, qu’il en a encore deux puissantes raisons, dont l’une est les longs et pénibles travaux d’un voyage de huit jours qu’il avait fait en poste, et l’autre qu’il n’avait point mangé depuis son arrivée, comme l’Auteur l’a découvert ci-devant aux Auditeurs, en faisant que Gros-René le presse d’aller manger un morceau afin de pouvoir résister aux attaques du sort (et c’est pour cela que je vous ai prié de remarquer la Scène qu’ils font ensemble) tellement il n’est pas impossible qu’un homme qui arrive d’un long voyage, qui n’a point mangé depuis son arrivée, et qui apprend l’infidélité d’une Maîtresse, s’évanouisse. Voilà ce que j’ai à dire aux premiers censeurs de cet incident miraculeux. Pour ce qui regarde les seconds, quoiqu’ils paraissent le reprendre avec plus de justice, je les confondrai encore plus tôt, et pour commencer à leur faire voir leur ignorance, je veux leur accorder que l’Auteur n’a fait évanouir Lélie, que pour donner lieu à l’incident qui suit ; mais ne doivent-ils pas savoir que quand un Auteur a un bel incident à insérer dans une Pièce, s’il trouve des moyens vraisemblables pour le faire naître, il en doit d’autant être plus estimé, que la chose est beaucoup plus difficile, et qu’au contraire, s’il ne le fait paraître que par des moyens erronés et tirés par la queue, il doit passer pour un ignorant, puisque c’est une des qualités la plus nécessaire à un Auteur, que de savoir inventer avec vraisemblance ; c’est pourquoi, puisqu’il y a tant de possibilité et de vraisemblance dans l’évanouissement de Lélie, que l’on pourrait dire qu’il était absolument nécessaire qu’il s’évanouisse, puisqu’il aurait paru peu amoureux si, étant arrivé à Paris, il s’était allé amuser à manger, au lieu d’aller trouver sa Maîtresse : ils condamnent des choses qu’ils devraient estimer, puisque la conduite de cet incident avec toutes les préparations nécessaires, fait voir que l’Auteur pense mûrement à ce qu’il fait, et que rien ne se peut égaler à la solidité de son esprit. Voilà quelle est ma pensée là-dessus, et pour vous montrer que les raisons que j’ai apportées sont vraies, vous n’avez qu’à lire ces vers.</p>
           <sp xml:id="I10-2" who="lelie">
             <l n="321" xml:id="l321" part="F">Ah ! que viens-je d’entendre ?</l>
@@ -528,6 +594,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I11">
+          <head>Scène XI.</head>
           <p rend="argument">Voyons si quelqu’un n’aura point de pitié de ce pauvre Amant qui tombe en faiblesse. La Femme de Sganarelle, en colère contre son mari, de ce qu’il lui avait emporté ce bijou qu’elle avait trouvé, sort de chez elle, et voyant Lélie qui commençait à s’évanouir, le fait entrer dans sa salle, en attendant que son mal se passe. Jugez après les transports de la jalousie de Sganarelle, de l’effet que cet incident doit produire, et s’il fut jamais rien de mieux imaginé. Vous pourrez lire les vers de cette Scène, cependant que j’irai voir si Sganarelle a trouvé quelqu’un des parents de sa Femme.</p>
           <sp xml:id="I11-1" who="femme-sganarelle">
             <l n="332" xml:id="l332">Malgré moi mon perfide… hélas ! quel mal vous presse ?</l>
@@ -545,6 +612,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I12">
+          <head>Scène XII.</head>
           <p rend="argument">Il faudrait avoir le pinceau de Poussin, Le Brun, et Mignard, pour vous représenter avec quelle posture Sganarelle se fait admirer dans cette Scène, où il paraît avec un parent de sa femme. L’on n’a jamais vu tenir de discours si naïfs, ni paraître avec un visage si niais, et l’on ne doit pas moins admirer l’Auteur pour avoir fait cette Pièce, que pour la manière dont il la représente. Jamais personne ne sut si bien démonter son visage, et l’on peut dire que dedans cette Pièce, il en change plus de vingt fois ; mais comme c’est un divertissement que vous ne pouvez avoir à moins que de venir à Paris, voir représenter cet incomparable ouvrage, je ne vous en dirai pas davantage, pour passer aux choses dont je puis plus aisément vous faire part. Ce bon Vieillard remontre à Sganarelle, que le trop de promptitude expose souvent à l’erreur, que tout ce qui regarde l’honneur est délicat : ensuite il lui dit qu’il s’informe mieux comment ce portrait est tombé entre les mains de sa femme, et que s’il se trouve qu’elle soit criminelle, il sera le premier à punir son offense. Il se retire après cela. Comme je n’ai pu dans cette Scène vous envoyer le portrait du visage de Sganarelle, en voici les Vers.</p>
           <sp xml:id="I12-1" who="le-parent">
             <l n="338" xml:id="l338">D’un mari sur ce point j’approuve le souci ;</l>
@@ -566,6 +634,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I13">
+          <head>Scène XIII</head>
           <p rend="argument">Sganarelle, pour ne point démentir son caractère, qui fait voir un homme facile à prendre toutes sortes d’impressions, croit facilement ce que le bonhomme lui dit, et commence à se persuader qu’il s’est trop tôt mis dans la tête des visions cornues, lorsque Lélie sortant de chez lui avec sa Femme qui le conduit, le fait de nouveau rentrer en jalousie. Les vers qu’il dit dans cette Scène vous feront mieux voir son caractère que je ne vous l’ai dépeint.</p>
           <sp xml:id="I13-1" who="sganarelle">
             <l n="350" xml:id="l350">On ne peut pas mieux dire, en effet, il est bon</l>
@@ -578,6 +647,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I14">
+          <head>Scène XIV.</head>
           <p rend="argument">Je ne vous dis rien de cette Scène, et je vous laisse juger par ces vers de la surprise de Sganarelle.</p>
           <sp xml:id="I14-1" who="sganarelle">
             <l n="357" xml:id="l357" part="F">Ah ! que vois-je, je meure,</l>
@@ -597,6 +667,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I15">
+          <head>Scène XV.</head>
           <p rend="argument">Lélie donne sans y penser le change à Sganarelle dans cette Scène, et ne le surprend pas moins que l’autre a tantôt fait, en lui disant qu’il tenait son portrait des mains de sa femme. Pour mieux juger de la surprise de Sganarelle, vous pouvez lire ces Vers, dont le dernier est placé si à propos, que jamais Pièce entière n’a fait tant d’éclat que ce vers seul.</p>
           <sp xml:id="I15-1" who="sganarelle">
             <l n="365" xml:id="l365">Il m’aperçoit, voyons ce qu’il me pourra dire.</l>
@@ -610,6 +681,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I16">
+          <head>Scène XVI.</head>
           <p rend="argument">L’on peut dire que cette Scène en contient deux, puisque Sganarelle fait une espèce de Monologue, pendant que Célie, qui avait vu sortir son Amant d’avec lui, le conduit des yeux, jusqu’à ce qu’elle l’ait perdu de vue, pour voir si elle ne s’est point trompée. Sganarelle, de son côté, regarde aussi en aller Lélie, et fait voir le dépit qu’il a de ne lui avoir pas fait insulte, après l’assurance qu’il croit avoir d’être Cocu de lui. Célie lui ayant laissé jeter la plus grande partie de son feu, s’en approche pour lui demander, si celui qui vient de parler ne lui est pas connu ; mais il lui répond avec sa naïveté ordinaire, que c’est sa femme qui le connaît et découvre peu à peu, mais d’une manière tout à fait agréable, que Lélie le déshonore. C’est ici que l’équivoque divertit merveilleusement l’Auditeur, puisque Célie détestant la perfidie de son Amant, jetant feu et flammes contre lui, et sortant à dessein de s’en venger, Sganarelle croit qu’elle prend sa défense, et qu’elle ne court à dessein de le punir que pour l’amour de lui. Comme les vers de cette scène donnent à l’Auditeur un plaisir extraordinaire, il ne serait pas juste de vous priver de ce contentement, c’est pourquoi en jetant les yeux sur les lignes suivantes, vous pourrez connaître que l’Auteur sait parfaitement bien conduire un équivoque.</p>
           <sp xml:id="I16-1" who="sganarelle">
             <l n="371" xml:id="l371">Ce n’est point s’expliquer en termes ambigus,</l>
@@ -741,6 +813,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I17">
+          <head>Scène XVII.</head>
           <p rend="argument">Si j’avais tantôt besoin de ces excellents Peintres que je vous ai nommés, pour vous dépeindre le visage de Sganarelle ; j’aurais maintenant besoin et de leur pinceau et de la plume des plus excellents Orateurs pour vous décrire cette Scène. Jamais il ne se vit rien de plus beau, jamais rien de mieux joué, et jamais Vers ne furent si généralement estimés. Sganarelle joue seul dans cette Scène, repassant dans son esprit tout ce que l’on peut dire d’un Cocu, et les raisons pour lesquelles il ne s’en doit pas mettre en peine, s’en démêle si bien, que son raisonnement pourrait en un besoin consoler ceux qui sont de ce nombre. Je vous envoie les Vers de cette Scène, afin que si vous connaissez quelqu’un à votre pays qui soit de la Confrérie dont Sganarelle se croit être, vous le puissiez par-là retirer de la mélancolie où il pourrait s’être plongé.</p>
           <sp xml:id="I17-1" who="sganarelle">
             <l n="443" xml:id="l443">Que le Ciel la préserve à jamais de danger.</l>
@@ -815,6 +888,7 @@
           <p rend="argument">Avouez-moi maintenant la vérité, est-il pas vrai, Monsieur, que vous avez trouvé ces Vers tout à fait beaux, que vous ne vous êtes pu vous empêcher de les relire encore une fois, et que vous demeurez d’accord que Paris a eu raison de nommer cette scène, la belle Scène ?</p>
         </div>
         <div type="scene" xml:id="I18">
+          <head>Scène XVIII.</head>
           <p rend="argument">Célie n’ayant point trouvé de moyen plus propre pour punir son amant que d’épouser Valère, dit à son père qu’elle est prête de suivre en tout ses volontés, de quoi le bon vieillard témoigne être beaucoup satisfait, comme vous pouvez voir par ces Vers.</p>
           <sp xml:id="I18-1" who="celie">
             <l n="511" xml:id="l511">Oui, je veux bien subir une si juste Loi</l>
@@ -838,6 +912,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I19">
+          <head>Scène XIX.</head>
           <p rend="argument">Vous pourrez dans les cinq Vers qui suivent, apprendre tout le sujet de cette Scène.</p>
           <sp xml:id="I19-1" who="suivante">
             <l n="527" xml:id="l527" part="I">Ce changement m’étonne.</l>
@@ -859,6 +934,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I20">
+          <head>Scène XX.</head>
           <p rend="argument">Dans cette Scène, Lélie qui avait fait dessein de s’en retourner, vient trouver Célie, pour lui dire un éternel adieu, et se plaindre de son infidélité, dans la pensée qu’il a, qu’elle est mariée à Sganarelle ; lorsque Célie, qui croit avoir plus de lieu de se plaindre que lui, lui reproche de son côté sa perfidie, ce qui ne donne pas un médiocre contentement à l’auditeur, qui connaît l’innocence de l’un et de l’autre, et comme vous la connaissez aussi, je crois que ces vers vous pourront divertir.</p>
           <sp xml:id="I20-1" who="lelie">
             <l n="535" xml:id="l535">Avant que pour jamais je m’éloigne de vous ;</l>
@@ -885,6 +961,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I21">
+          <head>Scène XXI.</head>
           <p rend="argument">Sganarelle, qui comme vous avez vu dans la fin de la belle Scène (puisqu’elle n’a point à présent d’autre nom dans Paris) a pris résolution de se venger de Lélie, vient pour cet effet dans cette Scène, armé de toutes pièces ; et comme il ne se l’aperçoit pas d’abord, il ne lui promet pas moins que la mort dès qu’il le rencontrera. Mais comme il est de ceux qui n’exterminent leurs ennemis que quand ils sont absents, aussitôt qu’il aperçoit Lélie, bien loin de lui passer l’épée au travers du corps, il ne lui fait que des révérences, et puis se retirant à quartier, il s’excite à faire quelque effort généreux et à le tuer par-derrière : et se mettant après en colère contre lui-même de ce que sa poltronnerie ne lui permet pas seulement de le regarder entre deux yeux, il se punit lui-même de sa lâcheté, par les coups et les soufflets qu’il se donne, et l’on peut dire, que quoique bien souvent l’on ait vu des Scènes semblables, Sganarelle sait si bien animer cette action, qu’elle paraît nouvelle au Théâtre. Cependant que Sganarelle se tourmente ainsi lui-même, Célie et son Amant n’ont pas moins d’inquiétude que lui, et ne se reprochent que par des regards enflammés de courroux, leur infidélité imaginaire ; la colère, quand elle est montée jusqu’à l’excès, ne nous laissant pour l’ordinaire que le pouvoir de dire peu de paroles. Célie est la première qui à la vue de Sganarelle dit à son Amant de jeter les yeux sur lui, et qu’il verra de quoi le faire ressouvenir de son crime ; mais comment y trouverait-il de quoi le confondre, puisque c’est par-là qu’il prétend la confondre elle-même. Il se passe encore quantité de choses dans cette Scène, qui confirment les soupçons de l’un et de l’autre ; mais de peur de vous ennuyer trop longtemps par ma Prose, j’ai recours aux Vers que voici pour vous les expliquer.</p>
           <sp xml:id="I21-1" who="sganarelle">
             <l n="546" xml:id="l546">Guerre, guerre mortelle, à ce larron d’honneur,</l>
@@ -1004,6 +1081,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I22">
+          <head>Scène XXII.</head>
           <p rend="argument">Dans la quatrième Scène de cette Pièce, la femme de Sganarelle, qui avait pris de la jalousie en voyant Célie entre les bras de son mari, vient pour lui faire des reproches (ce qui fait voir la merveilleuse conduite de cet ouvrage). Jugez de la beauté qu’un agréable malentendu produit dans cette Scène. Sganarelle croit que sa femme vient pour défendre son galant, sa femme croit qu’il aime Célie, Célie croit qu’elle vient ingénument se plaindre d’elle à cause qu’elle est avec Lélie, et lui en fait des reproches ; et Lélie enfin ne sait ce qu’on lui vient conter, et croit toujours que Célie a épousé Sganarelle. Quoique cette scène donne un plaisir incroyable à l’auditeur, elle ne peut pas durer plus longtemps sans trop de confusion, et je gage que vous souhaitez déjà de voir comment toutes ces personnes sortiront de l’embarras où ils se rencontrent ; mais je vous le donnerais bien à deviner en quatre coups, sans que vous en puissiez venir à bout. Peut-être vous persuadez-vous qu’il va venir quelqu’un qui sans y penser lui-même, les tirera de leur erreur : peut-être croyez vous aussi qu’à force de s’animer les uns contre les autres, quelqu’un venant à se justifier, leur fera voir à tous qu’ils s’abusent ; Mais ce n’est point tout cela, et l’Auteur s’est servi d’un moyen dont personne ne s’est jamais avisé, et que vous pourrez savoir si vous lisez les vers de cette Scène.</p>
           <sp xml:id="I22-1" who="femme-sganarelle">
             <l n="606" xml:id="l606">Je ne suis point d’humeur à vouloir contre vous</l>
@@ -1132,6 +1210,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I23">
+          <head>Scène XXIII.</head>
           <p rend="argument">Lélie, dans cette Scène, demande l’effet de sa parole à Gorgibus. Gorgibus lui refuse sa fille, et Célie ne se résout qu’à peine d’obéir à son père, comme vous pouvez voir en lisant.</p>
           <sp xml:id="I23-1" who="lelie">
             <l n="675" xml:id="l675">Monsieur, vous me voyez en ces lieux de retour,</l>
@@ -1165,6 +1244,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I24">
+          <head>Scène Dernière</head>
           <p rend="argument">La joie que Célie avait eue en apprenant que son amant ne lui était pas infidèle, eût été de courte durée, si le père de Valère ne fut pas venu à temps pour les retirer tous deux de peine. Vous pourrez voir dans le reste des vers de cette Pièce, que voici le sujet qui le fait venir.</p>
           <sp xml:id="I24-1" who="gorgibus">
             <l n="693" xml:id="l693">Qui vous amène ici, seigneur Villebrequin ?</l>

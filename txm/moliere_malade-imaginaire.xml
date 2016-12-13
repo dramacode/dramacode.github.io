@@ -1,8 +1,49 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Malade imaginaire</title>
+        <title type="sub">Comédie mêlée de musique et de danses</title>
+        <author born="1622" born_location="Paris" death="1673" death_location="Paris" academie="">Molière</author>
+        <date>1673</date>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <p>publié par Paul FIEVRE, juin 2009</p>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_malade-imaginaire/</idno>
+        <idno type="tei">http://svn.code.sf.net/p/theatre-classique/code/documents/moliere_malade-imaginaire.xml</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <genre>Comédie</genre>
+        <inspiration>mœurs françaises</inspiration>
+        <structure>Trois actes, un prologue</structure>
+        <type>mixte</type>
+        <periode>1671-1680</periode>
+        <taille>250-500</taille>
+        <permalien/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1673" type="created">1673</date>
+        <date when="1682" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
       <div1 type="prologue" xml:id="P">
+        <head>PROLOGUE</head>
         <div2 type="scene" n="1" xml:id="P01">
+          <head>ÉGLOGUE en musique et en danse. Flore, Pan, Climène, Daphné, Tircis, Dorilas, deux Zéphirs, troupe de Bergères et de Bergers.</head>
           <sp who="flore" xml:id="P01-1">
             <l n="1" xml:id="l1">Quittez, quittez vos troupeaux,</l>
             <l n="2" xml:id="l2">Venez, Bergers, venez, Bergères,</l>
@@ -210,6 +251,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="P02">
+          <head>AUTRE PROLOGUE</head>
           <sp who="bergeres" xml:id="P02-1">
             <l n="130" xml:id="l130">Votre plus haut savoir n’est que pure chimère,</l>
             <l n="131" xml:id="l131">Vains et peu sages médecins ;</l>
@@ -237,7 +279,9 @@
         </div2>
       </div1>
       <div1 type="act" n="1" xml:id="I">
+        <head>ACTE I</head>
         <div2 type="scene" n="1" xml:id="I01">
+          <head>SCÈNE I</head>
           <sp who="argan" xml:id="I01-1">
             <p>Trois et deux font cinq, et cinq font dix, et dix font vingt. Trois et deux font cinq. "Plus, du vingt-quatrième, un petit clystère insinuatif, préparatif, et rémollient, pour amollir, humecter, et rafraîchir les entrailles de Monsieur." Ce qui me plaît de Monsieur Fleurant, mon apothicaire, c’est que ses parties sont toujours fort civiles : "les entrailles de Monsieur, trente sols." Oui, mais, Monsieur Fleurant, ce n’est pas tout que d’être civil, il faut être aussi raisonnable, et ne pas écorcher les malades. Trente sols un lavement : Je suis votre serviteur, je vous l’ai déjà dit. Vous ne me les avez mis dans les autres parties qu’à vingt sols, et vingt sols en langage d’apothicaire, c’est-à-dire dix sols ; les voilà, dix sols. "Plus, dudit jour, un bon clystère détersif, composé avec catholicon double, rhubarbe, miel rosat, et autres, suivant l’ordonnance, pour balayer, laver, et nettoyer le bas-ventre de Monsieur, trente sols." Avec votre permission, dix sols. "Plus, dudit jour, le soir, un julep hépatique, soporatif, et somnifère, composé pour faire dormir Monsieur, trente-cinq sols." Je ne me plains pas de celui-là, car il me fit bien dormir. Dix, quinze, seize et dix-sept sols, six deniers. "Plus, du vingt-cinquième, une bonne médecine purgative et corroborative, composée de casse récente avec séné levantin, et autres, suivant l’ordonnance de Monsieur Purgon, pour expulser et évacuer la bile de Monsieur, quatre livres." Ah ! Monsieur Fleurant, c’est se moquer ; il faut vivre avec les malades. Monsieur Purgon ne vous a pas ordonné de mettre quatre francs. Mettez, mettez trois livres, s’il vous plaît. Vingt et trente sols. "Plus, dudit jour, une potion anodine et astringente, pour faire reposer Monsieur, trente sols." Bon, dix et quinze sols. "Plus, du vingt-sixième, un clystère carminatif, pour chasser les vents de Monsieur, trente sols." Dix sols, Monsieur Fleurant. "Plus, le clystère de Monsieur réitéré le soir, comme dessus, trente sols." Monsieur Fleurant, dix sols. "Plus, du vingt-septième, une bonne médecine composée pour hâter d’aller, et chasser dehors les mauvaises humeurs de Monsieur, trois livres." Bon, vingt et trente sols : je suis bien aise que vous soyez raisonnable. "Plus, du vingt-huitième, une prise de petit-lait clarifié, et dulcoré, pour adoucir, lénifier, tempérer, et rafraîchir le sang de Monsieur, vingt sols." Bon, dix sols. "Plus, une potion cordiale et préservative, composée avec douze grains de bézoard, sirops de limon et grenade, et autres, suivant l’ordonnance, cinq livres." Ah ! Monsieur Fleurant, tout doux, s’il vous plaît ; si vous en usez comme cela, on ne voudra plus être malade : contentez-vous de quatre francs. Vingt et quarante sols. Trois et deux font cinq, et cinq font dix, et dix font vingt. Soixante et trois livres, quatre sols, six deniers. Si bien donc que de ce mois j’ai pris une, deux, trois, quatre, cinq, six, sept et huit médecines ; et un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix, onze et douze lavements ; et l’autre mois il y avait douze médecines, et vingt lavements. Je ne m’étonne pas si je ne me porte pas si bien ce mois-ci que l’autre. Je le dirai à Monsieur Purgon, afin qu’il mette ordre à cela. Allons, qu’on m’ôte tout ceci. Il n’y a personne : j’ai beau dire, on me laisse toujours seul ; il n’y a pas moyen de les arrêter ici.</p>
             <p>Ils n’entendent point, et ma sonnette ne fait pas assez de bruit. Drelin, drelin, drelin : point d’affaire. Drelin, drelin, drelin : ils sont sourds. Toinette ! Drelin, drelin, drelin : tout comme si je ne sonnais point. Chienne, coquine ! Drelin, drelin, drelin : j’enrage.</p>
@@ -245,6 +289,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="I02">
+          <head>SCÈNE II</head>
           <sp who="toinette" xml:id="I02-1">
             <p>On y va.</p>
           </sp>
@@ -347,6 +392,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="I03">
+          <head>SCÈNE III</head>
           <sp who="argan" xml:id="I03-1">
             <p>Approchez, Angélique ; vous venez à propos : je voulais vous parler.</p>
           </sp>
@@ -361,6 +407,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="I04">
+          <head>SCÈNE IV</head>
           <sp who="angelique" xml:id="I04-1">
             <p>Toinette.</p>
           </sp>
@@ -483,6 +530,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="5" xml:id="I05">
+          <head>SCÈNE V</head>
           <sp who="argan" xml:id="I05-1">
             <p>Ô çà, ma fille, je vais vous dire une nouvelle, où peut-être ne vous attendez-vous pas : on vous demande en mariage. Qu’est-ce que cela ? Vous riez. Cela est plaisant, oui, ce mot de mariage ; il n’y a rien de plus drôle pour les jeunes filles : ah ! Nature, nature ! À ce que je puis voir, ma fille, je n’ai que faire de vous demander si vous voulez bien vous marier.</p>
           </sp>
@@ -842,6 +890,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="6" xml:id="I06">
+          <head>SCÈNE VI</head>
           <sp who="argan" xml:id="I06-1">
             <p>Ah ! Ma femme, approchez.</p>
           </sp>
@@ -988,6 +1037,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="7" xml:id="I07">
+          <head>SCÈNE VII</head>
           <sp who="argan" xml:id="I07-1">
             <p>Approchez, Monsieur de Bonnefoy, approchez. Prenez un siège, s’il vous plaît. Ma femme m’a dit, Monsieur, que vous étiez fort honnête homme, et tout à fait de ses amis ; et je l’ai chargée de vous parler pour un testament que je veux faire.</p>
           </sp>
@@ -1080,6 +1130,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="8" xml:id="I08">
+          <head>SCÈNE VIII</head>
           <sp who="toinette" xml:id="I08-1">
             <p>Les voilà avec un notaire, et j’ai ouï parler de testament. Votre belle-mère ne s’endort point, et c’est sans doute quelque conspiration contre vos intérêts où elle pousse votre père.</p>
           </sp>
@@ -1104,6 +1155,7 @@
         </div2>
       </div1>
       <div1 type="interlude" xml:id="PI">
+        <head>PREMIER INTERMÈDE</head>
         <sp who="polichinelle" xml:id="PI-1">
           <p>Ô amour, amour, amour, amour ! Pauvre Polichinelle, quelle diable de fantaisie t’es-tu allé mettre dans la cervelle ? À quoi t’amuses-tu, misérable insensé que tu es ? Tu quittes le soin de ton négoce, et tu laisses aller tes affaires à l’abandon. Tu ne manges plus, tu ne bois presque plus, tu perds le repos de la nuit ; et tout cela pour qui ? Pour une dragonne, franche dragonne, une diablesse qui te rembarre, et se moque de tout ce que tu peux lui dire. Mais il n’y a point à raisonner là-dessus. Tu le veux, amour : il faut être fou comme beaucoup d’autres. Cela n’est pas le mieux du monde à un homme de mon âge ; mais qu’y faire ? On n’est pas sage quand on veut, et les vieilles cervelles se démontent comme les jeunes. Je viens voir si je ne pourrai point adoucir ma tigresse par une sérénade. Il n’y a rien parfois qui soit si touchant qu’un amant qui vient chanter ses doléances aux gonds et aux verrous de la porte de sa maîtresse. Voici de quoi accompagner ma voix. Ô nuit ! Ô chère nuit ! Porte mes plaintes amoureuses jusque dans le lit de mon inflexible.</p>
           <l n="152" xml:id="l152">Notte e dì v’ amo e v’ adoro,</l>
@@ -1389,7 +1441,9 @@
         </sp>
       </div1>
       <div1 type="act" n="2" xml:id="II">
+        <head>ACTE II</head>
         <div2 type="scene" n="1" xml:id="II01">
+          <head>SCÈNE I</head>
           <sp who="toinette" xml:id="II01-1">
             <p>Que demandez-vous, Monsieur ?</p>
           </sp>
@@ -1413,6 +1467,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="II02">
+          <head>SCÈNE II</head>
           <sp who="argan" xml:id="II02-1">
             <p>Monsieur Purgon m’a dit de me promener le matin dans ma chambre, douze allées, et douze venues ; mais j’ai oublié à lui demander si c’est en long, ou en large.</p>
           </sp>
@@ -1499,6 +1554,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="II03">
+          <head>SCÈNE III</head>
           <sp who="argan" xml:id="II03-1">
             <p>Venez, ma fille : votre maître de musique est allé aux champs, et voilà une personne qu’il envoie à sa place pour vous montrer.</p>
           </sp>
@@ -1528,6 +1584,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="II04">
+          <head>SCÈNE IV</head>
           <sp who="toinette" xml:id="II04-1">
             <p>Ma foi, Monsieur, je suis pour vous maintenant, et je me dédis de tout ce que je disais hier. Voici Monsieur Diafoirus le père, et Monsieur Diafoirus le fils, qui viennent vous rendre visite. Que vous serez bien engendré ! Vous allez voir le garçon le mieux fait du monde, et le plus spirituel. Il n’a dit que deux mots, qui m’ont ravie, et votre fille va être charmée de lui.</p>
           </sp>
@@ -1560,6 +1617,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="5" xml:id="II05">
+          <head>SCÈNE V</head>
           <sp who="argan" xml:id="II05-1">
             <p>Monsieur Purgon, Monsieur, m’a défendu de découvrir ma tête. Vous êtes du métier, vous savez les conséquences.</p>
           </sp>
@@ -1858,6 +1916,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="6" xml:id="II06">
+          <head>SCÈNE VI</head>
           <sp who="argan" xml:id="II06-1">
             <p>Mamour, voilà le fils de Monsieur Diafoirus.</p>
           </sp>
@@ -2061,6 +2120,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="7" xml:id="II07">
+          <head>SCÈNE VII</head>
           <sp who="beline" xml:id="II07-1">
             <p>Je viens, mon fils, avant que de sortir, vous donner avis d’une chose à laquelle il faut que vous preniez garde. En passant par-devant la chambre d’Angélique, j’ai vu un jeune homme avec elle, qui s’est sauvé d’abord qu’il m’a vue.</p>
           </sp>
@@ -2075,6 +2135,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="8" xml:id="II08">
+          <head>SCÈNE VIII</head>
           <sp who="louison" xml:id="II08-1">
             <p>Qu’est-ce que vous voulez, mon papa ? Ma belle-maman m’a dit que vous me demandez.</p>
           </sp>
@@ -2288,6 +2349,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="9" xml:id="II09">
+          <head>SCÈNE IX</head>
           <sp who="beralde" xml:id="II09-1">
             <p>Hé bien ! Mon frère, qu’est-ce ? Comment vous portez-vous ?</p>
           </sp>
@@ -2318,6 +2380,7 @@
         </div2>
       </div1>
       <div1 type="interlude" xml:id="SI">
+        <head>SECOND INTERMÈDE.</head>
         <sp who="more1" xml:id="SI-1">
           <l n="275" xml:id="l275">Profitez du printemps</l>
           <l n="276" xml:id="l276">De vos beaux ans,</l>
@@ -2400,7 +2463,9 @@
         </sp>
       </div1>
       <div1 type="act" n="3" xml:id="IV">
+        <head>ACTE III</head>
         <div2 type="scene" n="1" xml:id="IV01">
+          <head>SCÈNE I</head>
           <sp who="beralde" xml:id="IV01-1">
             <p>Hé bien ! Mon frère, qu’en dites-vous ? Cela ne vaut-il pas bien une prise de casse ?</p>
           </sp>
@@ -2421,6 +2486,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="IV02">
+          <head>SCÈNE II</head>
           <sp who="toinette" xml:id="IV02-1">
             <p>N’abandonnez pas, s’il vous plaît, les intérêts de votre nièce.</p>
           </sp>
@@ -2438,6 +2504,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="IV03">
+          <head>SCÈNE III</head>
           <sp who="beralde" xml:id="IV03-1">
             <p>Vous voulez bien, mon frère, que je vous demande, avant toute chose, de ne vous point échauffer l’esprit dans notre conversation.</p>
           </sp>
@@ -2617,6 +2684,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="IV04">
+          <head>SCÈNE IV</head>
           <sp who="argan" xml:id="IV04-1">
             <p>Ah ! Mon frère, avec votre permission.</p>
           </sp>
@@ -2658,6 +2726,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="5" xml:id="IV05">
+          <head>SCÈNE V</head>
           <sp who="monsieur-purgon" xml:id="IV05-1">
             <p>Je viens d’apprendre là-bas, à la porte, de jolies nouvelles : qu’on se moque ici de mes ordonnances, et qu’on a fait refus de prendre le remède que j’avais prescrit.</p>
           </sp>
@@ -2828,6 +2897,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="6" xml:id="IV06">
+          <head>SCÈNE VI</head>
           <sp who="argan" xml:id="IV06-1">
             <p>Ah, mon Dieu ! Je suis mort. Mon frère, vous m’avez perdu.</p>
           </sp>
@@ -2860,6 +2930,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="7" xml:id="IV07">
+          <head>SCÈNE VII</head>
           <sp who="toinette" xml:id="IV07-1">
             <p>Monsieur, voilà un médecin qui demande à vous voir.</p>
           </sp>
@@ -2892,6 +2963,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="8" xml:id="IV08">
+          <head>SCÈNE VIII</head>
           <sp who="toinette" xml:id="IV08-1">
             <p>Monsieur, agréez que je vienne vous rendre visite et vous offrir mes petits services pour toutes les saignées et les purgations dont vous aurez besoin.</p>
           </sp>
@@ -2912,6 +2984,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="9" xml:id="IV09">
+          <head>SCÈNE IX</head>
           <sp who="toinette" xml:id="IV09-1">
             <p>Que voulez-vous, Monsieur ?</p>
           </sp>
@@ -2944,6 +3017,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="10" xml:id="IV10">
+          <head>SCÈNE X</head>
           <sp who="toinette" xml:id="IV10-1">
             <p>Monsieur, je vous demande pardon de tout mon cœur.</p>
           </sp>
@@ -3148,6 +3222,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="11" xml:id="IV11">
+          <head>SCÈNE XI</head>
           <sp who="toinette" xml:id="IV11-1">
             <p>Allons, allons, je suis votre servante, je n’ai pas envie de rire.</p>
           </sp>
@@ -3229,6 +3304,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="12" xml:id="IV12">
+          <head>SCÈNE XII</head>
           <sp who="toinette" xml:id="IV12-1">
             <p>Ah, mon Dieu ! Ah, malheur ! Quel étrange accident !</p>
           </sp>
@@ -3294,6 +3370,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="13" xml:id="IV13">
+          <head>SCÈNE XIII</head>
           <sp who="toinette" xml:id="IV13-1">
             <p>Ô Ciel ! Ah, fâcheuse aventure ! Malheureuse journée !</p>
           </sp>
@@ -3320,6 +3397,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="14" xml:id="IV14">
+          <head>SCÈNE XIV</head>
           <sp who="cleante" xml:id="IV14-1">
             <p>Qu’avez-vous donc, belle Angélique ? Et quel malheur pleurez-vous ?</p>
           </sp>
@@ -3437,6 +3515,7 @@
         </div2>
       </div1>
       <div1 type="interlude" xml:id="TI">
+        <head>TROISIÈME INTERMÈDE</head>
         <sp who="chorus" xml:id="TI-1">
           <l n="341" xml:id="l341">Praeses</l>
           <l n="342" xml:id="l342">Sçavantissimi doctores,</l>

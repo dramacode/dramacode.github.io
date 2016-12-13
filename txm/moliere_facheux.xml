@@ -1,8 +1,64 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les Fâcheux</title>
+        <title type="sub">Comédie</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2006, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2006"/>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_facheux/</idno>
+        <idno type="tei">http://svn.code.sf.net/p/theatre-classique/code/documents/moliere_facheux.xml</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1661" type="created"/>
+        <date when="1662" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie-ballet</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LES <lb/> FÂCHEUX, <lb/><hi rend="i">COMÉDIE</hi></head>
       <div1 xml:id="I" type="act">
+        <head>Acte Premier</head>
         <div2 type="scene" xml:id="I01">
+          <head>Scène PREMIÈRE</head>
           <sp who="eraste" xml:id="I01-1">
             <l n="1" xml:id="l1">Sous quel astre, bon Dieu, faut-il que je sois né,</l>
             <l n="2" xml:id="l2">Pour être de Fâcheux toujours assassiné !</l>
@@ -238,6 +294,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I02">
+          <head>Scène II</head>
           <sp who="eraste" xml:id="I02-1">
             <l n="163" xml:id="l163">Mais vois-je pas Orphise ? oui c’est elle, qui vient.</l>
             <l n="164" xml:id="l164">Où va-t-elle si vite, et quel homme la tient ?</l>
@@ -290,6 +347,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I03">
+          <head>Scène III</head>
           <sp who="lysandre" xml:id="I03-1">
             <l n="191" xml:id="l191">Sous ces arbres, de loin, mes yeux t’ont reconnu,</l>
             <l n="192" xml:id="l192">Cher Marquis, et d’abord je suis à toi venu.</l>
@@ -367,6 +425,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I04">
+          <head>Scène IV</head>
           <sp who="montagne" xml:id="I04-1">
             <l n="234" xml:id="l234">Monsieur, Orphise est seule, et vient de ce côté.</l>
           </sp>
@@ -387,6 +446,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I05">
+          <head>Scène V</head>
           <sp who="orphise" xml:id="I05-1">
             <l n="244" xml:id="l244">Votre front à mes yeux montre peu d’allégresse.</l>
             <l n="245" xml:id="l245">Serait-ce ma présence, Éraste, qui vous blesse ?</l>
@@ -450,6 +510,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="I06">
+          <head>Scène VI</head>
           <sp who="alcandre" xml:id="I06-1">
             <l n="287" xml:id="l287" part="F">Marquis, un mot. Madame,</l>
             <l n="288" xml:id="l288">De grâce pardonnez, si je suis indiscret,</l>
@@ -491,11 +552,18 @@
         </div2>
       </div1>
       <div1 xml:id="Ib" type="interlude">
-        <div2 type="scene" xml:id="Ib01"/>
-        <div2 type="scene" xml:id="Ib02"/>
+        <head>Ballet du Premier Acte</head>
+        <div2 type="scene" xml:id="Ib01">
+          <head>Première Entrée</head>
+        </div2>
+        <div2 type="scene" xml:id="Ib02">
+          <head>Deuxième Entrée</head>
+        </div2>
       </div1>
       <div1 xml:id="II" type="act">
+        <head>Acte II</head>
         <div2 type="scene" xml:id="II01">
+          <head>Scène Première</head>
           <sp who="eraste" xml:id="II01-1">
             <l n="317" xml:id="l317">Mes Fâcheux à la fin se sont-ils écartés ?</l>
             <l n="318" xml:id="l318">Je pense qu’il en pleut ici de tous côtés.</l>
@@ -510,6 +578,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II02">
+          <head>Scène II</head>
           <sp who="alcipe" xml:id="II02-1">
             <l n="327" xml:id="l327" part="I">Bonjour.</l>
           </sp>
@@ -576,6 +645,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II03">
+          <head>Scène III</head>
           <sp who="montagne" xml:id="II03-1">
             <l n="375" xml:id="l375">Monsieur, je n’ai pu faire une autre diligence.</l>
           </sp>
@@ -655,6 +725,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II04">
+          <head>Scène IV</head>
           <sp who="orante" xml:id="II04-1">
             <l n="412" xml:id="l412">Tout le monde sera de mon opinion.</l>
           </sp>
@@ -805,6 +876,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II05">
+          <head>Scène V</head>
           <sp who="eraste" xml:id="II05-1">
             <l n="506" xml:id="l506">Que vous tardez, Madame, et que j’éprouve bien…</l>
           </sp>
@@ -830,6 +902,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="II06">
+          <head>Scène VI</head>
           <sp who="dorante" xml:id="II06-1">
             <l n="519" xml:id="l519">Ha Marquis que l’on voit de Fâcheux tous les jours,</l>
             <l n="520" xml:id="l520">Venir de nos plaisirs interrompre le cours !</l>
@@ -963,13 +1036,24 @@
         </div2>
       </div1>
       <div1 xml:id="IIb" type="interlude">
-        <div2 type="scene" xml:id="IIb01"/>
-        <div2 type="scene" xml:id="IIb02"/>
-        <div2 type="scene" xml:id="IIb03"/>
-        <div2 type="scene" xml:id="IIb04"/>
+        <head>Ballet du Second Acte</head>
+        <div2 type="scene" xml:id="IIb01">
+          <head>Première Entrée</head>
+        </div2>
+        <div2 type="scene" xml:id="IIb02">
+          <head>Deuxième Entrée</head>
+        </div2>
+        <div2 type="scene" xml:id="IIb03">
+          <head>Troisième Entrée</head>
+        </div2>
+        <div2 type="scene" xml:id="IIb04">
+          <head>Quatrième Entrée</head>
+        </div2>
       </div1>
       <div1 xml:id="III" type="act">
+        <head>Acte III</head>
         <div2 type="scene" xml:id="III01">
+          <head>Scène Première</head>
           <sp who="eraste" xml:id="III01-1">
             <l n="633" xml:id="l633">Il est vrai, d’un côté mes soins ont réussi :</l>
             <l n="634" xml:id="l634">Cet adorable objet enfin s’est adouci :</l>
@@ -1014,6 +1098,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III02">
+          <head>Scène II</head>
           <sp who="caritides" xml:id="III02-1">
             <l n="661" xml:id="l661">Monsieur, le temps répugne à l’honneur de vous voir.</l>
             <l n="662" xml:id="l662">Le matin est plus propre à rendre un tel devoir :</l>
@@ -1143,6 +1228,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III03">
+          <head>Scène III</head>
           <sp who="ormin" xml:id="III03-1">
             <l n="733" xml:id="l733">Bien qu’une grande affaire en ce lieu me conduise,</l>
             <l n="734" xml:id="l734">J’ai voulu qu’il sortît, avant que vous parler.</l>
@@ -1241,6 +1327,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III04">
+          <head>Scène IV</head>
           <sp who="filinte" xml:id="III04-1">
             <l n="797" xml:id="l797">Marquis, je viens d’apprendre une étrange nouvelle.</l>
           </sp>
@@ -1331,6 +1418,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III05">
+          <head>Scène V</head>
           <sp who="damis" xml:id="III05-1">
             <l n="837" xml:id="l837">Quoi, malgré moi, le traître espère l’obtenir ?</l>
             <l n="838" xml:id="l838">Ah ! mon juste courroux le saura prévenir.</l>
@@ -1397,6 +1485,7 @@
           </sp>
         </div2>
         <div2 type="scene" xml:id="III06">
+          <head>Scène VI</head>
           <sp who="orphise" xml:id="III06-1">
             <l n="877" xml:id="l877">Monsieur, quelle aventure a d’un trouble effroyable…</l>
           </sp>
@@ -1433,8 +1522,13 @@
         </div2>
       </div1>
       <div1 xml:id="IIIb" type="interlude">
-        <div2 type="scene" xml:id="IIIb01"/>
-        <div2 type="scene" xml:id="IIIb02"/>
+        <head>Ballet du Troisième Acte</head>
+        <div2 type="scene" xml:id="IIIb01">
+          <head>Première Entrée</head>
+        </div2>
+        <div2 type="scene" xml:id="IIIb02">
+          <head>Dernière Entrée</head>
+        </div2>
       </div1>
     </body>
   </text>

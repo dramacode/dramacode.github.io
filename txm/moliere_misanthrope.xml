@@ -1,8 +1,66 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Misanthrope</title>
+        <title type="sub">Comédie</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2006, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2014, révision</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2014, révision</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2006"/>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_misanthrope/</idno>
+        <idno type="tei">http://svn.code.sf.net/p/theatre-classique/code/documents/moliere_misanthrope.xml</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1666" type="created"/>
+        <date when="1667" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>LE MISANTHROPE <lb/>COMÉDIE</head>
       <div xml:id="I" type="act">
+        <head>Acte Premier</head>
         <div type="scene" xml:id="I01">
+          <head>Scène Première</head>
           <sp who="philinte" xml:id="I01-1">
             <l n="1" xml:id="l1" part="I">Qu’est-ce donc ? qu’avez-vous ?</l>
           </sp>
@@ -409,6 +467,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I02">
+          <head>Scène II</head>
           <sp who="oronte" xml:id="I02-1">
             <l part="F">J’ai su là-bas que, pour quelques Emplettes</l>
             <l n="251" xml:id="l251">Éliante est sortie, et Célimène aussi :</l>
@@ -761,6 +820,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="I03">
+          <head>Scène III</head>
           <sp who="philinte" xml:id="I03-1">
             <l n="439" xml:id="l439">Hé bien, vous le voyez ; pour être trop sincère,</l>
             <l n="440" xml:id="l440">Vous voilà sur les bras, une fâcheuse Affaire ;</l>
@@ -811,7 +871,9 @@
         </div>
       </div>
       <div xml:id="II" type="act">
+        <head>Acte II</head>
         <div type="scene" xml:id="II01">
+          <head>Scène Première</head>
           <sp who="alceste" xml:id="II01-1">
             <l n="447" xml:id="l447">Madame, voulez-vous que je vous parle net ?</l>
             <l n="448" xml:id="l448">De vos façons d’agir, je suis mal satisfait :</l>
@@ -942,6 +1004,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II02">
+          <head>Scène II</head>
           <sp who="celimene" xml:id="II02-1">
             <l n="532" xml:id="l532" part="I">Qu’est-ce ?</l>
           </sp>
@@ -986,6 +1049,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II03">
+          <head>Scène III</head>
           <sp who="basque" xml:id="II03-1">
             <l n="552" xml:id="l552" part="I">Voici Clitandre, encor, Madame.</l>
           </sp>
@@ -1029,6 +1093,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II04">
+          <head>Scène IV</head>
           <sp who="eliante" xml:id="II04-1">
             <l n="559" xml:id="l559">Voici les deux Marquis, qui montent avec nous ;</l>
             <l n="560" xml:id="l560" part="I">Vous l’est-on venu dire ?</l>
@@ -1342,6 +1407,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II05">
+          <head>Scène V</head>
           <sp who="basque" xml:id="II05-1">
             <l n="743" xml:id="l743">Monsieur, un Homme est là, qui voudrait vous parler,</l>
             <l n="744" xml:id="l744">Pour Affaire, dit-il, qu’on ne peut reculer.</l>
@@ -1363,6 +1429,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="II06">
+          <head>Scène VI</head>
           <sp who="garde" xml:id="II06-1">
             <l part="F">Monsieur, j’ai deux Mots à vous dire.</l>
           </sp>
@@ -1443,7 +1510,9 @@
         </div>
       </div>
       <div xml:id="III" type="act">
+        <head>Acte III</head>
         <div type="scene" xml:id="III01">
+          <head>Scène Première</head>
           <sp who="clitandre" xml:id="III01-1">
             <l n="777" xml:id="l777">Cher Marquis, je te vois l’Âme bien satisfaite,</l>
             <l n="778" xml:id="l778">Toute chose t’égaye, et rien ne t’inquiète.</l>
@@ -1566,6 +1635,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III02">
+          <head>Scène II</head>
           <sp who="celimene" xml:id="III02-1">
             <l part="M">Encore ici ?</l>
           </sp>
@@ -1581,6 +1651,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III03">
+          <head>Scène III</head>
           <sp who="basque" xml:id="III03-1">
             <l part="F">Arsinoé, Madame,</l>
             <l n="850" xml:id="l850" part="I">Monte ici, pour vous voir.</l>
@@ -1622,6 +1693,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III04">
+          <head>Scène IV</head>
           <sp who="celimene" xml:id="III04-1">
             <l part="F">Ah ! quel heureux Sort, en ce Lieu vous amène ?</l>
             <l n="874" xml:id="l874">Madame, sans mentir, j’étais de vous, en peine.</l>
@@ -1828,6 +1900,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="III05">
+          <head>Scène V</head>
           <sp who="arsinoe" xml:id="III05-1">
             <l n="1041" xml:id="l1041">Vous voyez, elle veut que je vous entretienne,</l>
             <l n="1042" xml:id="l1042">Attendant, un moment, que mon Carrosse vienne ;</l>
@@ -1958,7 +2031,9 @@
         </div>
       </div>
       <div xml:id="IV" type="act">
+        <head>Acte IV</head>
         <div type="scene" xml:id="IV01">
+          <head>Scène Première</head>
           <sp who="philinte" xml:id="IV01-1">
             <l n="1133" xml:id="l1133">Non, l’on n’a point vu d’Âme à manier, si dure,</l>
             <l n="1134" xml:id="l1134">Ni d’Accommodement plus pénible à conclure ;</l>
@@ -2068,6 +2143,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
+          <head>Scène II</head>
           <sp who="alceste" xml:id="IV02-1">
             <l n="1217" xml:id="l1217">Ah ! faites-moi raison, Madame, d’une Offense</l>
             <l n="1218" xml:id="l1218">Qui vient de triompher de toute ma constance.</l>
@@ -2168,6 +2244,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
+          <head>Scène III</head>
           <sp who="alceste" xml:id="IV03-1">
             <l n="1277" xml:id="l1277">Ô Ciel ! de mes Transports, puis-je être, ici, le Maître ?</l>
           </sp>
@@ -2394,6 +2471,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
+          <head>Scène IV</head>
           <sp who="alceste" xml:id="IV04-1">
             <l n="1436" xml:id="l1436">Que veut cet équipage, et cet air effaré ?</l>
             <l n="1437" xml:id="l1437" part="I">Qu’as-tu ?</l>
@@ -2525,7 +2603,9 @@
         </div>
       </div>
       <div xml:id="V" type="act">
+        <head>Acte V</head>
         <div type="scene" xml:id="V01">
+          <head>Scène Première</head>
           <sp who="alceste" xml:id="V01-1">
             <l n="1481" xml:id="l1481">La résolution est prise, vous dis-je.</l>
           </sp>
@@ -2664,6 +2744,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V02">
+          <head>Scène II</head>
           <sp who="oronte" xml:id="V02-1">
             <l n="1587" xml:id="l1587">Oui, c’est à vous, de voir, si par des Noeuds si doux,</l>
             <l n="1588" xml:id="l1588">Madame, vous voulez m’attacher tout à vous :</l>
@@ -2775,6 +2856,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V03">
+          <head>Scène III</head>
           <sp who="celimene" xml:id="V03-1">
             <l n="1653" xml:id="l1653">Je me vois, ma Cousine, ici persécutée</l>
             <l n="1654" xml:id="l1654">Par des Gens dont l’humeur y paraît concertée.</l>
@@ -2809,6 +2891,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="V04">
+          <head>Scène Dernière</head>
           <sp who="acaste" xml:id="V04-1">
             <l n="1669" xml:id="l1669">Madame, nous venons tous deux, sans vous déplaire,</l>
             <l n="1670" xml:id="l1670">Éclaircir, avec vous, une petite Affaire.</l>

@@ -1,8 +1,63 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L'École des maris</title>
+        <title type="sub">Comédie</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Paul Fièvre</name>
+          <resp>2006, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>2014, édition TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2006"/>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_ecole-des-maris/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1661" type="created"/>
+        <date when="1661" type="issued"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
+      <head>L'ÉCOLE DES MARIS, COMÉDIE</head>
       <div1 type="act" n="1" xml:id="I">
+        <head>Acte premier</head>
         <div2 type="scene" n="1" xml:id="I01">
+          <head>Scène Première</head>
           <sp who="sganarelle">
             <l n="1" xml:id="l1">Mon frère, s'il vous plaît, ne discourons point tant,</l>
             <l n="2" xml:id="l2">Et que chacun de nous vive comme il l'entend ;</l>
@@ -103,6 +158,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="I02">
+          <head>Scène II</head>
           <sp who="leonor">
             <l n="75" xml:id="l75">Je me charge de tout, en cas que l'on vous gronde.</l>
           </sp>
@@ -446,6 +502,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="I03">
+          <head>Scène III</head>
           <sp who="valere">
             <l n="263" xml:id="l263">Ergaste, le voilà cet argus que j'abhorre,</l>
             <l n="264" xml:id="l264">Le sévère Tuteur de celle que j'adore.</l>
@@ -572,6 +629,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="I04">
+          <head>Scène IV</head>
           <sp who="valere">
             <l part="F">Que dis-tu de ce bizarre fou ?</l>
           </sp>
@@ -657,7 +715,9 @@
         </div2>
       </div1>
       <div1 type="act" n="2" xml:id="II">
+        <head>Acte II</head>
         <div2 type="scene" n="1" xml:id="II01">
+          <head>Scène Première</head>
           <sp who="sganarelle">
             <l n="359" xml:id="l359">Va je sais la maison, et connais la personne,</l>
             <l n="360" xml:id="l360">Aux marques seulement, que ta bouche me donne ;</l>
@@ -683,6 +743,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="II02">
+          <head>Scène II</head>
           <sp who="sganarelle">
             <l n="369" xml:id="l369">Ne perdons point de temps, c'est ici, qui va là ?</l>
             <l n="370" xml:id="l370">Bon je rêve, holà, dis-je, holà, quelqu'un holà ;</l>
@@ -885,6 +946,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="II03">
+          <head>Scène III</head>
           <sp who="isabelle">
             <l n="449" xml:id="l449">J'ai peur que cet Amant, plein de sa passion,</l>
             <l n="450" xml:id="l450">N'ait pas de mon avis compris l'intention ;</l>
@@ -982,6 +1044,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="II04">
+          <head>Scène IV</head>
           <sp who="sganarelle">
             <l n="503" xml:id="l503">Dans quel ravissement est-ce que mon cœur nage,</l>
             <l n="504" xml:id="l504">Lorsque je vois en elle une fille si sage ;</l>
@@ -1008,6 +1071,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="5" xml:id="II05">
+          <head>Scène V</head>
           <sp who="valere">
             <l n="519" xml:id="l519">Que vient de te donner cette farouche bête.</l>
           </sp>
@@ -1037,6 +1101,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="6" xml:id="II06">
+          <head>Scène VI</head>
           <sp who="sganarelle">
             <l n="533" xml:id="l533">Ô trois et quatre fois, béni soit cet Édit,</l>
             <l n="534" xml:id="l534">Par qui des vêtements le luxe est interdit ;</l>
@@ -1141,6 +1206,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="7" xml:id="II07">
+          <head>Scène VII</head>
           <sp who="sganarelle">
             <l n="593" xml:id="l593">Jamais Amant n'a fait tant de trouble éclater,</l>
             <l n="594" xml:id="l594">Au poulet renvoyé sans le décacheter :</l>
@@ -1287,6 +1353,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="8" xml:id="II08">
+          <head>Scène VIII</head>
           <sp who="valere">
             <l n="684" xml:id="l684" part="I">Monsieur, qui vous ramène en ce lieu ?</l>
           </sp>
@@ -1336,6 +1403,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="9" xml:id="II09">
+          <head>Scène IX</head>
           <sp who="isabelle">
             <l n="713" xml:id="l713">Quoi vous me l'amenez ! quel est votre dessein !</l>
             <l n="714" xml:id="l714">Prenez-vous contre moi ses intérêts en main,</l>
@@ -1481,6 +1549,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="10" xml:id="II10">
+          <head>Scène X</head>
           <sp who="sganarelle">
             <l n="793" xml:id="l793" part="I">Je le tiens fort à plaindre ;</l>
           </sp>
@@ -1513,7 +1582,9 @@
         </div2>
       </div1>
       <div1 type="act" n="3" xml:id="III">
+        <head>Acte III</head>
         <div2 type="scene" n="1" xml:id="III01">
+          <head>Scène Première</head>
           <sp who="isabelle">
             <l n="803" xml:id="l803">Oui le trépas cent fois, me semble moins à craindre,</l>
             <l n="804" xml:id="l804">Que cet hymen fatal où l'on veut me contraindre ;</l>
@@ -1524,6 +1595,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="2" xml:id="III02">
+          <head>Scène II</head>
           <sp who="sganarelle">
             <l n="809" xml:id="l809">Je reviens, et l'on va pour demain de ma part…</l>
           </sp>
@@ -1686,6 +1758,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="3" xml:id="III03">
+          <head>Scène III</head>
           <sp who="valere">
             <l n="897" xml:id="l897">Oui, oui, je veux tenter quelque effort cette nuit,</l>
             <l n="898" xml:id="l898" part="I">Pour parler… Qui va-là ?</l>
@@ -1729,6 +1802,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="4" xml:id="III04">
+          <head>Scène IV</head>
           <sp who="commissaire">
             <l part="M">Qu'est-ce ?</l>
           </sp>
@@ -1785,6 +1859,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="5" xml:id="III05">
+          <head>Scène V</head>
           <sp who="ariste">
             <l part="F">Qui frappe ! ah, ah, que voulez-vous mon frère ;</l>
           </sp>
@@ -1906,6 +1981,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="6" xml:id="III06">
+          <head>Scène VI</head>
           <sp who="commissaire">
             <l n="999" xml:id="l999">Il ne faut mettre ici nulle force en usage,</l>
             <l n="1000" xml:id="l1000">Messieurs, et si vos vœux ne vont qu'au mariage,</l>
@@ -1923,6 +1999,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="7" xml:id="III07">
+          <head>Scène VII</head>
           <sp who="valere">
             <l n="1007" xml:id="l1007">Non, Messieurs, et personne ici n'aura l'entrée,</l>
             <l n="1008" xml:id="l1008">Que cette volonté ne m'ait été montrée,</l>
@@ -2019,6 +2096,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="8" xml:id="III08">
+          <head>Scène VIII</head>
           <sp who="leonor">
             <l part="F">Ô l'étrange martyre,</l>
             <l n="1041" xml:id="l1041">Que tous ces jeunes fous me paraissent fâcheux,</l>
@@ -2077,6 +2155,7 @@
           </sp>
         </div2>
         <div2 type="scene" n="9" xml:id="III09">
+          <head>Scène IX</head>
           <sp who="isabelle">
             <l n="1077" xml:id="l1077">Ma sœur, je vous demande un généreux pardon,</l>
             <l n="1078" xml:id="l1078">Si de mes libertés j'ai taché votre nom ;</l>
