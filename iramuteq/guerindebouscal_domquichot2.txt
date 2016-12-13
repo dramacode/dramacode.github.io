@@ -1,0 +1,3611 @@
+
+
+**** *book_ *id_privilege *date_1640 *creator_guerin_de_bouscal
+
+Extraict du Privilege du Roy.
+
+Par grace & Privilege du Roy, donné à Paris le 28. jour de May 1639.
+Signé par le Roy en son Conseil, De Monceaux : Il est permis à Toussainct Quinet, Marchand Libraire à Paris, d'imprimer ou faire imprimer, vendre & distribuer une piece de Theatre, intitulée Dom Quichot de la Manche, durant le temps et espace de trois ans, à compter du jour qu'elle sera achevée d'imprimer.
+Et defenses sont faites à tous Imprimeurs, Libraires & autres, de contrefaire ladite piece, ny en vendre ou exposer en vente de contrefaite, à peine aux contrevenans de trois mil livres d'amende, & de tous ses despens, dommages & interests, ainsi qu'il est plus au long porté par lesdites lettres, qui sont en vertu du present Extraict tenuës pour bien & deuëment signifiées ; à ce qu'aucun n'en pretende cause d'ignorance.
+
+Et ledit Quinet a associé au Privilege cy-dessus datté, Antoine de Sommaville aussi Marchand Libraire à Paris, suivant l'accord fait entr'eux.
+
+Achevé d'imprimer pour la premiere fois, le 15.
+Juillet mil six cens quarante.
+
+Les Exemplaires ont esté fournis.
+
+**** *book_ *id_body-301 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_domquichot
+Ne m'importune plus.
+
+-*who_laniepce
+      Quoy partir ?
+
+-*who_domquichot
+      Il le faut.
+Le monde souffre trop quand ce bras luy defaut⁎.
+Depuis que j'ay cessé de courir la campagne,
+Les Geants à leur gré pillent toute l'Espagne,
+On ne sçauroit sortir sans voir errer quelqu'ame
+Qui se vient plaindre à moy de cette troupe infame ;
+Et par des cris aigus semble dire à tous coups,
+Donnez-moy le repos, vengez-moy, vengez-nous.
+Que retarday-je encor de reprendre les armes ?
+Allons verser du sang, allons tarir des larmes.
+Qu'on aille querir Sanche !
+
+-*who_laniepce
+      Enfin il faut parler :
+Le mal est trop pressant pour le dissimuler.
+Monsieur, si vous pensez à quitter le village,
+J'iray dire par tout que vous n'estes pas sage :
+Mesmes j'en feray voir tant de bonnes raisons,
+Qu'on vous mettra sans doute⁎ aux petites Maisons⁎.
+Quels transports⁎ sont-ce cy ? quelles melancholies⁎?
+Quels Geants ? quelles voix ? plustost quelles folies ?
+Vous avez veu comment on s'est moqué de vous,
+Que l'on vous a traité comme on traite les fous.
+Et vous voulez encor.
+
+-*who_domquichot
+      Ah petite friponne !
+Vous vous émancipez, mais je vous le pardonne ;
+Un esprit bas & vil vous fait parler ainsi,
+Vous ignorez comment mon bras a réussi
+Dans les derniers combats où m'a porté la gloire,
+Comme sur Malembrun j'emportay la victoire,
+Comme je delivray deux amants enchantez,
+Qui depuis deux mil ans estoient persecutez ;
+Comme je mis à bas des barbes authentiques,
+Comme fasché⁎ de voir tant de noires pratiques⁎
+Je me mis en colere, & par un seul regard
+J'en brûlay l'instrument en brûlant Chevillard.
+Vous ignorez aussi qu'une charmante Reine
+Par son affection m'a bien fait de la peine :
+Sanche vous le peut dire, il n'a tenu qu'à moy
+D'estre en un mesme jour son Espoux & son Roy.
+Jugez apres cela si je puis tenir conte
+De vos lâches conseils sans en rougir de honte ?
+
+-*who_laniepce
+Quoy mon oncle est-ce ainsi que vous vous emportez
+Apres les mouvemens de tant d'absurditez?
+Tout ce dont vous parlez ne fut qu'un artifice
+Pour vous faire quitter ce honteux exercice
+Qui nous perd tous d'honneur. Dom Lope nous l'a dit,
+Tout le monde en murmure, ah mon oncle !
+
+-*who_domquichot
+      Suffit.
+Dom Lope & tout le monde envieux de ma gloire,
+Voudroient de mes hauts faits étouffer la memoire :
+Quantité d'Enchanteurs ont le mesme dessein ;
+Mais je leur feray voir qu'ils travaillent en vain :
+Celuy qui prend le soin de mes exploits de guerre,
+Doit porter mon renom aux deux bouts de la terre,
+Vos pleurs & vos conseils sont icy superflus,
+Cessez de vous troubler, & ne me troublez plus.
+Il faut, il faut que j'aille où la gloire m'appelle,
+Infantes je m'en vay prendre vostre querelle,
+Princes depossedez je cours vous restablir,
+Orphelins, mon secours ne vous sçauroit faillir,
+En vain pour divertir⁎ une si belle envie,
+On me veut faire prendre un autre train de vie.
+Infantes, Orphelins, Princes ne craignez rien,
+On ne peut me forcer⁎, je m'eschaperay bien.
+Fussay-je dans la tour où la fille d'Acrise
+Par le Dieu Jupiter fut autresfois surprise ;
+Fussé-je au labyrinthe où logeoit autresfois
+Le fils de Pasifée & l'horreur des Cretois;
+Fussay-je dans le fonds des cachots effroyables
+Des Corsaires d'Alger, parmy ces miserables
+Qui languissent captifs dans la honte des fers
+Au bord de la mer Noire ou plustost aux enfers :
+Ce bras, ce puissant bras, ce pere de miracles
+Sera plus fort cent fois que les plus forts obstacles.
+Je vous le dis encor Infantes, Orphelins,
+Vos astres n'auront plus des aspects si malins,
+Malgré les Enchanteurs qui me livrent la guerre,
+De vos persecuteurs j'iray purger la terre ;
+Le sort en est jetté, rien ne peut m'arrester.
+
+**** *book_ *id_body-302 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_laniepce
+Dom Lope & le Barbier vous viennent visiter,
+Messieurs, mon oncle sort retenez-le de grace,
+Et sauvez aujourd'huy l'honneur de nostre race⁎.
+
+-*who_domquichot
+Vous m'obligez beaucoup.
+
+-*who_domquichot
+      Vous allez donc partir ?
+
+-*who_domquichot
+Vos seuls commandemens m'en peuvent divertir⁎,
+C'est trop, c'est trop souffrir que l'injuste licence⁎
+Des Geants orgueilleux opprime l'innocence,
+C'est trop rester oisif dans ce siecle maudit,
+Où le vice commande avec tant de credit⁎,
+Où l'on ne voit par tout que villes desolées,
+Que Princes exilez, qu'Infantes violées.
+
+-*who_laniepce
+Mais quel remede enfin pouvez-vous apporter
+A ces mal-heurs communs ?
+
+-*who_lebarbier
+      Il n'en faut plus douter,
+Le bon-homme mourra dans son extravagance.
+
+-*who_domquichot
+Ma niepce en cet endroit⁎ peche par ignorance,
+Elle n'a jamais leu les insignes explois
+Des Chevaliers errants, de qui je suy les loix,
+J'en connoy plus de cent dont le moindre a fait teste
+A dix mille geants armez pour sa defaite,
+Et qui sans se peiner à coups de coutelas⁎
+Leur a dans un matin coupé jambes & bras.
+Que n'a point fait Rolland pour l'amour d'Angelique ?
+(Il avoit tort pourtant puisqu'elle estoit lubrique.)
+Que n'a point fait encor Renaud de Montauban,
+Richard, Roger de Grece, & son frere Artaban ;
+Mais sur tous Amadis lors qu'il avoit des armes
+Qui pouvoient resister à la force des charmes⁎?
+On leur a veu souvent abatre à coups de main
+Des murs que les beliers avoient battus en vain.
+Mais ce n'estoit que jeu pour les simples novices,
+Ils avoient bien encor de plus durs exercices ;
+J'ay veu Gerileon à l'âge de quinze ans
+Couper d'un petit coup la teste à six geans,
+Geants aussi bien faits qu'il en soit dans l'histoire,
+Je vous les depeindray si j'ay bonne memoire.
+Comme deux grosses tours leurs jambes paroissoient,
+Leurs cuisses & leur corps à mesure croissoient ;
+Leurs bras longs d'une lieuë alloient frappant les nuës,
+Armez de coutelas⁎ & de fortes massuës,
+Dont la moindre égaloit la grandeur d'un clocher :
+En chacun de leurs yeux on voyoit un bucher
+Tel que celuy qu'Hercule en sa fureur extreme
+Alluma sur Œta pour se brûler soy-mesme,
+Leurs corps estoient de pierre & leurs armes d'acier ;
+Ce jeune homme pourtant les sceut humilier,
+D'un seul coup de sa main il les mit tous en poudre.
+
+-*who_lebarbier
+Le coup fut bien joly.
+
+-*who_domquichot
+      L'on soupçonna le foudre
+D'avoir favorisé ce jeune combattant.
+
+-*who_domquichot 
+Ce n'est pas sans sujet.
+
+-*who_domquichot
+      On se trompoit pourtant,
+Il est vray qu'Osiris l'assista par ses charmes⁎.
+Je ne vous diray rien des progrez de mes armes,
+Vous les avez pû voir, tout le monde les sçait,
+Gerileon fit bien, & je n'ay pas mal fait.
+
+-*who_domquichot
+Il est tout achevé.
+
+-*who_laniepce
+      Ramenez-le de grace.
+
+-*who_domquichot
+L'ennemy d'Amadis, & de toute sa race⁎,
+L'enchanteur Archelaus traverse⁎ mes desseins,
+Mais ses enchantements sont moins forts que mes
+      mains,
+Il changea l'autre jour par un excez d'envie
+Trente geants armez, à qui j'ostay la vie,
+En autant de moulins, à dessein d'étouffer
+L'honneur que l'on m'eust fait m'en voyant triompher :
+Deux jours apres cela, je défis une armée,
+Desja de tous costez voloit ma renommée ;
+Quand ce traistre changea pour me faire enrager
+Les soldats en moutons, & leur Chef en berger.
+
+-*who_domquichot
+Cet enchanteur a tort.
+
+-*who_lebarbier
+      Il fait de grands miracles,
+Et je croy qu'apres tout de si puissants obstacles
+Ne vous sont opposez que pour vous divertir⁎
+De ce dessein fatal qui vous force à partir :
+Vous y devriez penser, & craindre la Magie.
+
+-*who_domquichot
+Barbier, ce fait icy n'est pas de Chirurgie,
+Et nos armes aussi ne se ressemblent pas,
+Vous portez un razoir, je porte un coutelas⁎.
+
+-*who_lebarbier
+Je n'y voy pas pourtant beaucoup de difference,
+Je porte la lancette, & vous portez la lance,
+Et vostre digne armet tient fort de mon bassin.
+
+-*who_domquichot
+Ne le prenez pas là, c'est l'armet de Membrin ;
+
+-*who_domquichot 
+Suffit, vous le sçavez ;
+
+-*who_domquichot
+      C'est trop vous contredire :
+Que le grand Dom Quichot fasse ce qu'il desire,
+Je ne l'arreste plus, allez vaillant Heros,
+Ainsi vostre travail⁎ soit suivy du repos,
+Ainsi vos beaux exploits secondent vostre attente ;
+Ainsi puissiez-vous voir cette bande arrogante
+D'enchanteurs mise à bas ; & puisse ainsi tousjours
+L'Infante Dulcinée approuver vos amours.
+
+-*who_laniepce
+Monsieur que faites-vous ?
+
+-*who_domquichot
+      N'en soyez pas en peine,
+Je l'arresteray bien, escoutez.
+
+-*who_domquichot
+      Ah ma Reine.
+Doy-je attendre ce bien de vos rares bontez ?
+
+-*who_lebarbier
+Ce dessein me ravit. Partez, Seigneur, partez.
+Ainsi Sanche jamais à vostre grand dommage
+Dans ce casque ou bassin ne mange du fromage !
+Ainsi jamais lyon ne vous veuille assaillir !
+Ainsi jamais le pain ne vous puisse faillir !
+Rencontriez⁎-vous tousjours ou chasteaux ou taverne
+Sans que l'on vous y pelaude⁎, ou que l'on vous y berne⁎
+Ainsi jamais forçats ne vous mettent à nu :
+Que le grison⁎ de Sanche enfin soit reconnu,
+Qu'on le luy rende sain & tout parfumé d'ambre,
+Jamais More enchanté n'approche vostre chambre
+Pour vous ravir l'Infante, & troubler le repos !
+Que jamais Muletier ne vous froisse⁎ les os :
+Mais qu'enfin triomphant, & suivy d'Hymenée
+Vous puissiez revenir couronner Dulcinée.
+
+**** *book_ *id_body-303 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_sanche
+Maudite ambition, que voulez-vous de moy !
+Où me conduisez-vous ?
+
+-*who_laniepce 
+      Ah meschant est-ce toy ?
+
+-*who_sanche
+Je ne suis pas meschant, mais je suis Sanche Pance,
+Vous me connoissez bien.
+
+-*who_laniepce
+      As-tu bien l'impudence
+De revenir encor dedans cette maison ?
+
+-*who_sanche
+Pourquoy m'outragez-vous ?
+
+-*who_laniepce
+      Parce que j'ay raison,
+N'est-ce pas toy maudit ?
+
+-*who_sanche
+      Ah ! Tréve à ces injures.
+
+-*who_laniepce
+Ne fais-tu point courir apres les adventures
+Ton maistre que voilà ? ne l'as-tu point mené
+Dans des deserts⁎ affreux comme un esprit damné ?
+
+-*who_sanche 
+Ah, n'estoit le respect que je dois à mon maistre,
+Deux ou trois coups de poing vous feroient bien
+      connestre⁎
+Que vous vous méprenez : c'est luy qui me conduit
+Dans des mondes deserts⁎ & de jour & de nuit,
+Je ne fay que le suivre avec beaucoup de peine
+Aux mal-heureux endroits où le Diable le mene ;
+C'est moy qui suis enfin le seduit, le mené,
+Le froissé⁎, le trompé, le battu, le berné,
+Et tout pour aborder à cett'isle promise
+Que je doy gouverner & qui n'est pas conquise ;
+J'enrage quand j'y pense.
+
+-*who_domquichot
+      Ah, Sanche c'est assez,
+Vous serez satisfait de vos travaux⁎ passez :
+Cependant⁎ retenez vostre langue indiscrete.
+
+-*who_lebarbier
+Mais qu'est-ce que cett'isle, est-ce donc quelque beste ?
+
+-*who_sanche
+Nenny c'est un Royaume où je doy gouverner :
+Mais Monsieur le Barbier, c'est trop nous lanterner⁎,
+Vous deussiez respecter des gens de nostre sorte. 
+Monseigneur, commandez que tout le monde sorte.
+
+-*who_domquichot
+Nous allons obéir sans ce commandement.
+
+-*who_domquichot
+Cette civilité m'oblige infiniment.
+
+-*who_laniepce
+Ils s'en vont comploter leur troisiesme saillie⁎.
+
+-*who_domquichot
+Nous les suivrons de pres pour guerir leur folie.
+
+**** *book_ *id_body-304 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_sanche
+Enfin apres avoir querellé bien des fois,
+J'ay disposé ma femme à ce que je voulois,
+Elle ne se plaint plus de voir que je la quitte.
+
+-*who_domquichot 
+Nous pouvons donc partir.
+
+-*who_sanche
+      Non pas encor si viste ;
+Elle m'a conseillé qu'au moins à tout hazard
+J'escrivisse avec vous avant nostre depart,
+Et quoy qu'on puisse dire, on est digne de blâme
+De mespriser tousjours les conseils d'une femme,
+La mienne en cet endroit⁎ parle avec jugement.
+
+-*who_domquichot
+Mais quel est ce conseil dites-le clairement.
+
+-*who_sanche
+Vous sçavés que la mort ne respecte personne,
+Et qu'il faut malgré nous vouloir ce qu'elle ordonne,
+Fussiés-vous mieux armé que n'est un Jaquemard⁎,
+Vous ne sçauriés parer la pointe de son dard ;
+Lors que moins on y pense elle nous vient surprendre,
+Et le mesme Amadis ne s'en peut pas defendre ;
+Tant d'autres Chevaliers que je n'ay pas connus,
+Dont vous m'avés parlé, que sont-ils devenus ?
+Ils ont suby la loy qu'il nous faudra tous suivre,
+On les a veu mourir, si l'on les a veu vivre :
+(Car pour ce dernier poinct, il m'est un peu suspect.)
+
+-*who_domquichot
+Taisez-vous ou parlez avec plus de respect.
+
+-*who_sanche
+Je dy donc que la mort cette vieille damnée
+Vous peut exterminer dans une matinée,
+Et ce coup quoy que grand ne me surprendroit pas ;
+Car sa faux tranche mieux que vostre coutelas⁎.
+En vain contre sa force on oppose les charmes⁎
+Que les magiciens marmotent sur les armes,
+Le Cimeterre ardent, Flamberge, Durandal
+Qui coupoient comme beurre, acier, marbre & metal,
+Et tant d'autres encor dont vous parlez sans cesse,
+N'ont eu dequoy tenir contre cette diablesse.
+
+-*who_domquichot
+Enfin à quel dessein tendent tous ces discours ?
+
+-*who_sanche
+Tous ceux qui les portoient ont veu finir leurs jours,
+Et malgré leurs armets, leurs lances & leurs bretes⁎,
+Ces fendeurs de nazeaux sont morts comme des bestes.
+Mais ce qui plus m'estonne, est de voir que sans chois
+La mort fauche en tout temps les subjects &les Roys,
+Le sage avec le fou, le pauvre avec le riche,
+Le Maistre & l'Escuyer, le prodigue & le chiche,
+Le jeune & le vieillard, le malade & le sain,
+Le lâche & le vaillant, le noble & le vilain,
+Le plus petit asnon comme le plus grand asne,
+Et dedans un chasteau comme en une cabane.
+
+-*who_domquichot
+Sanche venons au poinct, c'est par trop discourir.
+
+-*who_sanche
+Ayant donc reconnu qu'il nous faut tous mourir,
+Ma femme trouve bon.
+
+-*who_domquichot
+      Parle donc, que veut-elle ?
+
+-*who_sanche
+Elle veut.
+
+-*who_domquichot
+      Tes discours me rompent la cervelle,
+Abrege si tu peux !
+
+-*who_sanche
+      Monsieur, ma femme veut.
+
+-*who_domquichot 
+C'est estre bien prudent de vouloir ce qu'on peut :
+Mais parle si tu veux.
+
+-*who_sanche
+      Monsieur.
+
+-*who_domquichot
+      Parle.
+
+-*who_sanche
+      J'enrage ;
+Laissés-moy donc parler.
+
+-*who_domquichot
+      Tant de caquet m'outrage ;
+Acheve donc maudit !
+
+-*who_sanche
+      Laissés-moy commencer :
+Ma femme a donc pensé.
+
+-*who_domquichot
+      Qu'a-t-elle pû penser ?
+Qu'est-ce ? parle & soy bref.
+
+-*who_sanche 
+      Ah Dieu que j'ay de peine !
+C'est.
+
+-*who_domquichot
+      Quoy ?
+
+-*who_sanche
+      C'est ce que c'est, laissés-moy prendre haleine.
+Mal-heureux que je suis ; j'ay l'esprit tout confus !
+
+-*who_domquichot
+Mais qu'est-ce parle enfin ?
+
+-*who_sanche
+      Il ne m'en souvient plus ;
+Voilà le bel effect de vostre impatience.
+
+-*who_domquichot
+Dites plustost celuy de vostre impertinence.
+Si tout du premier coup vous m'eussiés raconté
+Ce qu'on vous avoit dit, je vous eusse escouté ;
+Mais puisque le desir d'exercer vostre langue
+Vous a fait degorger cette belle harangue,
+Que vous n'avés rien dit de ce que vous deviés
+Lors que je le voulois & que vous le pouviés :
+Vostre punition me semble legitime,
+Et mesme de beaucoup moindre que vostre crime :
+Or parlés à cett'heure en toute liberté.
+
+-*who_sanche
+C'est, ce n'est pas cela, je me suis mesconté ;
+Et de grace, Monsieur, aidés à ma memoire.
+
+-*who_domquichot
+Tu parlois de ta femme, & qu'il la falloit croire.
+
+-*who_sanche
+Ah bon ! je m'en souviens, ma femme m'a donc dit
+Que je ne devoy pas m'engager à credit⁎,
+Et qu'en attendant l'Isle ou bien quelque Royaume,
+Qui doibt changer en dais mon pauvre toict de chaume,
+Il seroit à propos pour nourrir mes enfans
+Que vous m'assignassiez des gages tous les ans.
+
+-*who_domquichot
+Des gages ignorant ! il est facile à croire
+Que ta femme ny toy n'avés point leu l'Histoire ;
+Voyez les Amadis, les Platirs, les Renauds,
+L'Archevesque Turpin, Tirante, Ronceveaux,
+Tous les trois Palmerins, Bernard de Straparole,
+El Cavalié del Phoebe, Olivante, Gilpole,
+Rolland le Furieux, Splendian, Philismard,
+Les quatre fils d'Aymon, Jean de Paris, Richard,
+Morgand, Robert le Diable, & Pierre de Provence ;
+Et vous condamnerés vostre crasse ignorance.
+Car vous n'y verrés point que jamais Chevalier
+Ait traité de la sorte avec son Escuyer,
+Et je ne voudroy pas, pour plaire à vostre femme,
+Contrevenir à l'ordre, & me charger de blâme :
+Non, je n'en feray rien.
+
+-*who_sanche
+      Monsieur.
+
+-*who_domquichot
+      N'en parlons plus.
+
+-*who_sanche
+Je me contenteray de deux cens mil escus ;
+C'est peu pour un grand Roy, tel que vous devés estre.
+
+-*who_domquichot
+Si vous me servez bien je vous doy reconnestre,
+Ne vous meslez de rien, reposez-vous sur moy,
+Je vous donneray l'isle, ou je vous feray Roy.
+
+-*who_sanche
+Dieu le veuille ! à propos, dites-moy je vous prie
+Si par quelque accident de la Chevalerie
+Je puis devenir Roy, comme je le pretens,
+Ma femme sera Reine, & mes fils des Infants.
+
+-*who_domquichot
+Qui doute de cela ?
+
+-*who_sanche
+      Moy, j'en doute & je pense
+Que c'est un peu beaucoup pour monsieur Sanche
+      Pance.
+
+-*who_domquichot
+D'une telle façon le dé pourroit tourner
+Que j'aurois dans trois jours cent isles à donner ;
+Et si je les avois.
+
+-*who_sanche
+      Vous m'en donneriez une.
+
+-*who_domquichot
+Asseuré que je suis de ma bonne fortune
+Je te donnerois tout.
+
+-*who_sanche
+      Que de biens à la fois !
+Partons Monsieur, partons, allons nous faire Roys.
+
+-*who_domquichot 
+Soyez prest dans une heure.
+
+-*who_sanche
+      Ah le genereux maistre !
+Ah le brave Escuyer si ce qu'il dit peut estre !
+Mais qui l'empescheroit ? le Diable qui m'en veut :
+Mais comment l'empescher ? non cela ne se peut,
+Dom Quichot l'a juré sur le bout de sa lance,
+Est-ce assez que cela ? c'est bien ce que je pense :
+Mais voicy ma Therese.
+
+**** *book_ *id_body-305 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_therese
+      He bien tu vas partir ?
+Tu vas donc me quitter ! y peux-tu consentir ?
+Que feray-je sans toy ? comment pourray-je vivre ?
+Ah ! ne pars point, mon Sanche, ou laisse-moy te
+      suivre.
+
+-*who_sanche 
+Appaise tes douleurs.
+
+-*who_therese
+      Ah Sanche !
+
+-*who_sanche
+      Laisse-moy.
+
+-*who_therese
+Où veux-tu donc aller ?
+
+-*who_sanche
+      Je vay me faire Roy :
+Nous l'avons resolu, la chose est bien certaine :
+Mais comme dans la vie on n'a nul bien sans peine,
+Il faut que je te quitte, aimable & cher soucy⁎,
+Les Escuyers errans doivent parler ainsi.
+Le Ciel jaloux de voir nos ardeurs infinies,
+Veut separer les corps de deux ames unies :
+Helas que ce destin est remply de rigueur !
+Il m'offre une couronne, & m'arrache le coeur :
+Ainsi parle mon maistre avec la Dulcinée.
+
+-*who_therese
+Mais quand reviendrez-vous ?
+
+-*who_sanche 
+      Sur la fin de l'année.
+
+-*who_therese
+Songez au moins à moy, songez àvos enfans,
+Vostre fille Sanchique aura bien-tost vingt-ans,
+Il faut la marier.
+
+-*who_sanche
+      Puisque rien ne nous presse,
+Je veux attendre encor pour la faire Comtesse.
+
+-*who_therese
+Comtesse, ah Dieu !
+
+-*who_sanche
+      Comtesse.
+
+-*who_therese
+      Ah gardez-vous-en bien !
+
+-*who_sanche
+Et pour quelle raison ?
+
+-*who_therese
+      Pour nostre commun bien.
+
+-*who_sanche 
+Quel mal peut proceder d'une belle alliance,
+D'avoir des petits fils qu'on traite d'Excellence,
+D'Altesse, de Grandeur, & de voir tous les jours
+Sanchique avec un Comte & parmy le velours ?
+
+-*who_therese
+Les maux que je prevoy de ce grand mariage,
+Sont un tas de discours qu'en fera le village :
+Voyez, dira quelqu'un, cette Comtesse-cy,
+Ce n'est que de trois jours qu'elle s'habille ainsi ;
+Je l'ay veu se parer d'une toile grossiere,
+Son pere est bûcheron, sa mere lavandiere,
+Un meschant toict de chaume & deux asnes fort vieux,
+Composent tous les biens qu'ils ont de leurs ayeux.
+Ah mon Sanche ! évitons un si sanglant reproche,
+Donnons plustost Sanchique au jeune Lope Toche,
+C'est un bon gros garçon qui luy fait les yeux dous,
+Son pere est bûcheron, & paysan comme vous.
+Pensez-y, mon mary, c'est dans cette famille
+Qu'il faut que nous tâchions à loger nostre fille,
+Non pas dans des palais & parmy le tracas,
+Où la moitié du temps on ne l'entendroit pas,
+Où le Comte sans doute⁎ à la moindre colere
+Luy mettroit sur le nez sa maison & son pere,
+L'appelleroit paysane, & de mille autres noms
+Qui peuvent convenir aux fils des bûcherons.
+
+-*who_sanche
+N'as-tu plus rien à dire impertinente femme ?
+Et quoy ne vois-tu pas que ce subjet de blâme,
+Que le Comte mon fils peut avoir contre moy,
+Cesse dés aussi-tost qu'on me couronne Roy ?
+N'en parlons plus, suffit, elle sera Comtesse,
+Et si vous me fâchez je la feray Princesse.
+
+-*who_therese
+Vous pouvez la pourvoir encor plus hautement,
+Mais ce ne sera pas de mon consentement,
+Et je fay mon estat que je la verray morte
+Quand vous me contraindrez de la voir de la sorte.
+Ah Sanche !
+
+-*who_sanche
+      C'est en vain que vous versez des pleurs.
+
+-*who_therese
+Quoy n'obtiendray-je rien ?
+
+-*who_sanche
+      Appaisez vos douleurs,
+Et ne resistez plus à ce que je projette,
+Comme Roy pretendu, vous estes ma subjette ;
+Comme mary ma femme, & je ne dy rien plus.
+
+-*who_therese
+Tous mes empeschemens sont icy superflus,
+Il faut pauvre Sanchique, ô comble de tristesse !
+Il faut pour mon mal-heur que vous soyez Comtesse :
+Nos marys peuvent tant sur nous & sur nos biens,
+Qu'il leur faut obeïr quand ils seroient des chiens.
+
+**** *book_ *id_body-401 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_domquichot
+Il faut l'attendre icy de crainte qu'il s'éloigne.
+
+-*who_lebarbier
+Nous allons commencer une estrange besogne.
+
+-*who_domquichot
+Facile.
+
+-*who_lebarbier
+      Que sçait-on ?
+
+-*who_domquichot
+      L'apparence⁎ est pour nous.
+
+-*who_lebarbier 
+La fortune pourtant aide souvent aux fous.
+
+-*who_domquichot
+C'est veritablement la creance⁎ commune,
+Mais contre nos desseins que pourroit la fortune.
+
+-*who_lebarbier
+Mille coups endiablez qu'on ne sçauroit prévoir.
+
+-*who_domquichot
+Doutez-vous que mon bras ait manqué de pouvoir
+Pour vaincre sans effort ce Heros phantastique?
+
+-*who_lebarbier
+J'ay peur que vous aurez besoin de ma boutique,
+Les fous comme les sourds frappent horriblement.
+
+-*who_domquichot
+Je ne vous en croiray qu'apres l'evenement.
+
+-*who_lebarbier
+Si nous ne nous taisons cette nuict est si sombre
+Qu'ils pourroient s'esquiver à la faveur de l'ombre,
+Il faut.
+
+-*who_domquichot 
+      Paix, escoutons.
+
+-*who_lebarbier
+      Qu'est-ce ?
+
+-*who_domquichot
+      J'enten du bruit.
+
+-*who_lebarbier
+Il faut se reculer.
+
+**** *book_ *id_body-402 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_domquichot
+      Heureuse & belle nuit !
+Quel jour peut t'égaler apres cette adventure ?
+Tu caches l'œil de la Nature
+Pour faire estinceller en cent lieux differens
+L'astre des Chevaliers errans.
+
+-*who_domquichot 
+Quel jour, ô belle nuict, peut égaler tes ombres,
+Tu vois briller dans ces lieux sombres,
+Au lieu du beau Soleil qui regle nos saisons,
+L'astre des petites Maisons⁎.
+
+-*who_sanche
+Heureuse & belle nuict ! mais cert'un peu trop noire :
+Quel jour peut t'égaler en gloire ?
+Tu fais voir à la terre en dépit des Barbiers
+La lanterne des Escuyers.
+
+-*who_lebarbier
+Heureuse & belle nuict !mais cert'un peu trop noire
+Pour faire éclatter ma victoire,
+Non pas pour m'empescher d'aller mettre en quartiers
+Le plus badin des Escuyers.
+
+-*who_sanche
+Monsieur qu'avez-vous dit ?
+
+-*who_domquichot 
+      Tréve à la raillerie.
+
+-*who_sanche
+Je n'ay pas dit un mot.
+
+-*who_domquichot
+      Taisez-vous je vous prie.
+
+-*who_sanche
+Vous vous moquez fort bien.
+
+-*who_domquichot
+      Vous vous moquez fort mal :
+Suffit, n'en parlons plus, c'est là le principal.
+Malgré toute la terre ensemble conjurée
+La couronne m'est asseurée,
+Et je vay mettre à fin tant de nobles projects
+Que de Roys seront mes subjects.
+
+-*who_domquichot
+Malgré toute ta bande ensemble conjurée
+La marotte t'est asseurée,
+Et si tu ne reprens le chemin du hameau,
+On te suivra comme un chameau.
+
+-*who_sanche
+Malgré toute la Manche, & quoy qu'on puisse dire,
+J'auray l'isle que je desire,
+Et ma fille Sanchique aura pour son espous
+Un Comte aussi brave que nous.
+
+-*who_lebarbier 
+Malgré Therese Pance, & le project d'une isle
+Tu seras mis au vau-de-ville,
+Et l'on bernera⁎ tant Sanchique & tous les tiens,
+Qu'ils ne seront pas bons aux chiens.
+
+-*who_domquichot
+Enfin, ma patience est à son poinct extresme :
+Joüez vous donc ainsi vostre maistre & vous-mesme,
+Que veut dire cela Sanche ?
+
+-*who_sanche
+      Je n'en sçay rien.
+Mais j'imagine au moins que vous le sçavez bien :
+A d'autres ce discours & vostre moquerie.
+
+-*who_domquichot
+Sanche avez-vous finy cette galanterie⁎?
+
+-*who_sanche
+Mais vous mesme Monsieur, quand la finirez-vous ?
+
+-*who_domquichot
+Suffit.
+
+-*who_domquichot
+      Ils vont parler, prenons bien garde à nous.
+
+-*who_domquichot 
+Et toy Reine des cœurs, parfaite Dulcinée,
+Ta vertu sera couronnée,
+Malgré les enchanteurs qui choquent mon dessein,
+Un sceptre chargera ta main.
+
+-*who_domquichot
+Toy Reine des moutons, grossiere Dulcinée,
+Je te voy certes destinée,
+Si quelque bon voisin ne te donne du pain,
+A mourir quelque jour de faim.
+
+-*who_sanche
+Et toy Therese Pance, honneur de ton village,
+Crois au moins que je suis bien sage,
+Et que dans peu de temps je seray Gouverneur,
+Et toy mesme femme d'honneur.
+
+-*who_lebarbier
+Et toy grosse Therese, horreur de ton village,
+Crois que ton Sanche n'est pas sage,
+Et que dans peu de temps s'il ne change de peau,
+On l'écorchera comme un veau.
+
+-*who_sanche
+Escorcher comme un veau ! moy qui suis si bon diable,
+Ah mon maistre évitons ce presage effroyable !
+Donnez-moy mon congé.
+
+-*who_domquichot
+      D'où vient donc cette voix ?
+Ah je voy ! c'est l'Echo qui respond dans ces bois.
+
+-*who_domquichot
+Tout va bien ; cachons nous.
+
+-*who_sanche
+      Oüy, c'est elle sans doute⁎.
+
+-*who_domquichot
+Je m'en vay luy parler, nous l'entendons, escoute.
+Fille de l'air qui vis dans les concavitez
+Des antres les plus noirs & les plus escartez,
+Respons moy je te prie, est-ce toy qui repetes
+Tout ce que nous disons ?
+
+-*who_domlope
+      Oüy, c'est moy grosses bestes.
+
+-*who_sanche
+L'Echo nous connoit-elle ?
+
+-*who_domquichot
+      Il faut le confesser ;
+Son discours me surprend plus qu'on ne peut penser,
+Cette voix qui respond aux plaintes ordinaires
+Que poussent les amans dans les lieux solitaires,
+N'en repete jamais que les derniers accens,
+Et celle-cy renverse & les mots & le sens,
+Icy l'enchantement pervertit la Nature.
+
+-*who_sanche
+Je veux bien pour le moins luy rendre son injure,
+Laissez-moy luy parler. Coureuse de rampars
+Qui te caches la nuict dans les trous des lezars,
+Qui n'habites jamais, ny maison ny cabane,
+Qui t'a conduite icy ?
+
+-*who_lebarbier
+      Ta sottise gros asne.
+
+-*who_sanche
+Me voilà bien payé !
+
+-*who_domquichot
+      Dans cet evenement
+L'Enchanteur Archelaus agit certainement.
+
+-*who_sanche
+Cet'Echo me déplaist : Mais, Monseigneur, de grace,
+Souffrez encore un coup que je me satisfasse,
+Je crain la moquerie en ce rencontre⁎ icy.
+
+-*who_domquichot
+Fay ce que tu voudras.
+
+-*who_sanche
+      Demeurez donc ainsi.
+
+-*who_domquichot
+Ne me presse pas tant.
+
+-*who_sanche
+      Harangere insolente,
+Qui brocardes l'honneur de la milice⁎ errante,
+Maistresse des crapaux, des lutins, des hibous,
+Que l'horreur a placez dans les plus sales trous,
+Taupe, chauve-souris : compagne des sorcieres
+Que dois-je attendre enfin ?
+
+-*who_lebarbier
+      Mille coups d'estrivieres.
+
+-*who_sanche
+C'est elle asseurement, il n'en faut plus douter.
+
+-*who_domquichot
+Par la mesme raison je me veux contenter.
+
+-*who_sanche 
+Ah Dieu ! vous m'estouffez.
+
+-*who_domquichot
+      Tay-toy mal-heureux homme.
+
+-*who_sanche
+Monsieur, je n'en puis plus.
+
+-*who_domquichot
+      Escoute, ou je t'assomme.
+Rebut du beau Narcisse, hostesse de ces bois,
+Nymphe de qui le corps n'est plus rien qu'une vois
+Trop babillarde. Echo, fay moy sçavoir encore
+Si c'est toy qui respons.
+
+-*who_domquichot
+      Oüy, oüy, c'est moi pecore.
+
+-*who_sanche
+Et bien qu'en dites-vous ?
+
+-*who_domquichot
+      Je veux un peu resver⁎.
+C'est dans les Amadis que j'en pourroy trouver
+Premier, second, troisiesme, ou dans Robert le Diable.
+
+-*who_sanche
+Il parle à des démons, que je suis miserable !
+
+-*who_domquichot
+Renauld dans le chasteau, Tirante dans les bois,
+Gerileon sous terre est servy par des vois :
+Richard & ses Esprits.
+
+-*who_sanche
+      Je frissonne ! je tremble !
+
+-*who_domquichot
+Tous ces evenemens n'ont rien qui luy ressemble ;
+Si je ne suis trompé, je le descouvre enfin
+Le Chevalier des morts suivy par un lutin.
+
+-*who_sanche
+Helas je suis perdu !
+
+-*who_domquichot
+      La seule difference
+Est que son lutin l'aime, & cette voix m'offence.
+
+-*who_sanche
+Monsieur, que faites-vous ?
+
+-*who_domquichot 
+      Je passe de l'esprit
+Sur tous les accidens que j'ay veus par escrit,
+Pour voir si je pourrois trouver quelque fortune
+Semblable à celle-cy, mais je n'en trouve aucune.
+
+-*who_sanche
+Me voilà delivré de ma nouvelle peur :
+Monsieur, éloignons-nous de ce lieu plein d'horreur.
+
+-*who_domquichot
+Je le veux, allons donc.
+
+-*who_lebarbier
+      Ils s'eschapent sans doute⁎.
+Commencez.
+
+-*who_sanche
+      Qui va là ? Monsieur !
+
+-*who_domquichot
+      Poltron, escoute.
+
+-*who_domlope
+Erreray-je tousjours dans ce desert⁎ sauvage
+A la mercy des loups
+Moins bestes que vous,
+Sans voir fleschir vostre courage,
+Comme je voy leur rage
+Se changer en respect
+A mon aspect, à mon aspect, à mon aspect ?
+
+-*who_sanche
+Cett'Echo, cette voix qui demeure soubs terre,
+Et qui parloit tantost, a-t-elle une guiterre ?
+
+-*who_domquichot
+Paix, ce n'est pas l'Echo, c'est plustost un amant
+Qui se plaint de sa dame avec cet instrument.
+
+-*who_domquichot
+Pour vous j'ay prodigué tout le sang de mes veines
+Dans l'horreur des combats,
+J'ay rompu les bras
+A plus de mille Capitaines :
+J'ay fait mourir des Reines
+Qui brûloient nuict & jour
+De mon amour, de mon amour, de mon amour.
+
+-*who_sanche
+Quel grand Diable voilà, laissons-le je vous prie.
+
+-*who_domquichot 
+Ne m'importune plus par ta poltronerie.
+
+-*who_sanche
+Si nous ne décampons, il nous rompra les bras.
+
+-*who_domquichot
+Traistre, vous estes mort si vous faites un pas.
+
+-*who_domquichot
+Pour mon amour se meurt l'Infante Dulcinée,
+Et le grand Dom Quichot
+Vaincu comme un sot,
+Depuis trois jours me l'a donnée ;
+Je l'ay pourtant abandonnée
+A l'amoureux courrous
+De cent filous, de cent filous, de cent filous.
+
+-*who_domquichot
+L'imposture en ce poinct aggrave l'insolence.
+Qui va là ?
+
+-*who_sanche
+      Je suis mort.
+
+-*who_domquichot
+      Qui va là ? ça⁎ ma lance.
+
+-*who_domquichot 
+O vous qui me troublez dans mes tristes souspirs !
+Si vous avez un cœur sensible aux déplaisirs⁎,
+Approchez-vous de moy pour apprendre une histoire
+Dont les siecles futurs garderont la memoire,
+Et qui fera pleurer pendant plus de mille ans
+Les femmes de village & les petits enfans.
+Amusés⁎ l'Escuyer, j'escarteray le Maistre.
+
+-*who_domquichot
+Arrestez Chevalier, je vous ay veu parestre,
+Où se dressent vos pas ?
+
+-*who_domquichot
+      Je vay chercher la mort
+Comme le seul remede aux rigueurs de mon sort,
+Apres avoir gagné vingt batailles rangées,
+Apres avoir forcé cent villes assiegées,
+Conservé la couronne à plus de mille Infants,
+Blessé des Enchanteurs, assommé des Geants,
+Vaincu dans un duël un champion d'élite
+Dom Quichot de la Manche.
+
+-*who_domquichot
+      Ah ! n'allons pas si viste
+Monsieur le Chevalier.
+
+-*who_domquichot 
+      Apres tous ces exploits,
+Un jeune enfant tout nud m'a rangé⁎ sous ses Lois,
+Amour.
+
+-*who_domquichot
+      Laissons l'Amour, & contez-moy l'Histoire
+De ce fameux duël qui vous comble de gloire,
+Que j'en apprenne au vray l'ordre, le lieu, le temps,
+La naissance, la suite & tous les incidens.
+
+-*who_domquichot
+Quoy que dans mes mal-heurs je gehenne⁎ ma pensée,
+Si je la reflechis sur ma gloire passée,
+Je veux bien pour vous plaire aggraver ma douleur,
+Et faire encore un coup triompher ma valeur ;
+Escartons-nous un peu pour parler à nostre aise.
+
+-*who_domquichot
+Allons où vous voudrez. Qu'il parle ou qu'il se taise :
+Il n'en a que trop dit, mais pour me contenter,
+Avant que l'estrangler je le veux escouter.
+
+**** *book_ *id_body-403 *act_ *date_1640 *creator_guerin_de_bouscal 
+
+-*who_lebarbier
+Où vas-tu mon amy ?
+
+-*who_sanche
+      Ma foy je n'y voy goute ;
+Je vay, je n'en sçay rien.
+
+-*who_lebarbier
+      Parle, où pren tu ta route ?
+
+-*who_sanche
+Je vay, je suy mon maistre.
+
+-*who_lebarbier
+      Et qu'est-il ?
+
+-*who_sanche
+      Chevalier.
+
+-*who_lebarbier 
+Errant ?
+
+-*who_sanche
+      Errant.
+
+-*who_lebarbier
+      Et toy ?
+
+-*who_sanche
+      Je suis son Escuyer.
+
+-*who_lebarbier
+Heureuse & belle nuict !
+
+-*who_sanche
+      Voicy l'Echo sans doute⁎.
+
+-*who_lebarbier
+Bien-heureux le démon qui m'a monstré la route
+De ce bois escarté ! puisque je vous y voy
+Vous estes Escuyer ? aussi suis-je bien moy,
+Et mon maistre est aussi Chevalier d'aventure ;
+Mais le plus grand badin qui soit dans la Nature.
+
+-*who_sanche 
+Nos maistres à ce conte ont beaucoup de rapport,
+Sans mespriser le vostre & sans luy faire tort
+J'estime que le mien en fait d'extravagance
+Ne trouvera jamais homme qui le devance.
+
+-*who_lebarbier
+Vostre maistre est donc fol ?
+
+-*who_sanche
+      Oüy s'il en fut jamais.
+
+-*who_lebarbier
+Si le proverbe est vray, tels maistres tels valets,
+Monseigneur l'Escuyer, au lieu d'une calote
+Nous pouvons aujourd'huy nous coëffer la marote,
+Et craindre avec raison qu'on s'asseure de nous
+Pour nous faire chanter dans l'hospital des fous.
+
+-*who_sanche
+J'ay souvent à part moy discouru de la sorte,
+Mais je ne puis dompter le desir qui m'emporte
+De posseder une isle avant que de mourir,
+Et si je ne suis fou je ne puis l'acquerir :
+Au lieu qu'en me rangeant⁎ à l'humeur de mon maistre,
+C'est d'un gouvernement qu'il me doit reconnestre ;
+Car dans deux ou trois jours il va se faire Roy,
+Et conquerir aussi quelques isles pour moy.
+
+-*who_lebarbier
+Si vostre maistre est fou, comme je veux bien croire,
+Comment parviendra-t-il à ce degré de gloire ?
+Et que peut-il donner s'il ne possede rien ?
+
+-*who_sanche
+Ne le prenez pas là, vous vous tromperiez bien,
+Je connoy mille fous que la fortune flate,
+C'est à nous seulement qu'elle se monstre ingrate :
+Mais la grande raison qui me fait esperer,
+Est que mon maistre a pris la peine de jurer ;
+Et je suis bien certain que quand sa foy l'engage
+Il fait tout ce qu'il dit, & mesme davantage :
+Apres ce que j'ay veu j'aurois tort d'en douter.
+
+-*who_lebarbier
+Le Diable jure ainsi quand il veut nous tenter,
+Mon maistre m'a trompé par le mesme artifice,
+J'attends depuis cent ans un meschant benefice
+Par le moyen duquel je puisse soubs mon toit
+Au moins mourir de faim en quelque temps qu'on soit ;
+Il me le promet bien : mais lors que je le presse
+De monstrer quelque jour l'effect de sa promesse,
+De me donner enfin ce que j'ay merité,
+Il me dit que c'est là qu'est la difficulté,
+Qu'il peut promettre tout, & par fois davantage ;
+Mais que pour rien donner, il n'en sçait pas l'usage.
+
+-*who_sanche
+Et vous suivez ce maistre ?
+
+-*who_lebarbier
+      Il le faut malgré moy.
+
+-*who_sanche
+Si dans quatre ou cinq jours le mien ne se faict Roy,
+Et par mesme moyen ne me donne mon isle,
+Croyez, mon bon Seigneur, qu'il sera difficile
+Que je sois entrainé plus loin de ma maison ;
+Sanche est un ignorant, mais non pas un oison,
+Ce n'est pas les Panças qu'il faut mener en laisse,
+S'il fait ma femme Reine, & ma fille Comtesse,
+Je le suivray par tout ainsi que j'ay promis,
+Et de cette façon nous vivrons bons amis :
+Mais s'il croit me joüer, qu'il craigne ma colere,
+On m'a dit que j'estois soldat comme ma mere,
+Et je pourrois un jour le luy faire sentir :
+J'ay voulu luy parler avant que de partir,
+Il ne veut rien entendre, & promet des merveilles.
+
+-*who_lebarbier
+Ne vous a-t-il jamais tiré par les oreilles,
+Donné des coups de barre, & reduit à la mort ?
+
+-*who_sanche
+Ah ! qu'il s'en garde bien.
+
+-*who_lebarbier
+      Je m'en estonne fort.
+
+-*who_sanche
+Pourquoy ?
+
+-*who_lebarbier
+      Je n'en sçay rien, mais mon diable de maistre,
+Si vous estiez à luy, vous le feroit connestre⁎,
+Et pour une vetille, une espingle, un bouton,
+Vous donneroit par jour deux cens coups de baston,
+Ou peut-estre par-fois pour mesler les matieres,
+Il vous partageroit⁎ de cent coups d'estrivieres,
+Soustenant contre tous que ces mets differens
+Sont ceux qu'on doibt servir aux Escuyers errans.
+
+-*who_sanche
+Vous n'estes donc pas mal.
+
+-*who_lebarbier 
+      Ce que je vien de dire
+Est bien un grand mal-heur, mais ce n'est pas le pire,
+Ce diable court l'Espagne & se bat chaque jour
+Pour pouvoir meriter l'object de son amour :
+Il casse, il brise, il rompt testes, bras, nerfs & veines,
+Boit le sang des vaincus comme l'eau des fontaines :
+Et tandis qu'il se bat avec le Chevalier,
+Il me contraint à moy d'égorger l'Escuyer,
+Je n'y manque jamais, pourtant quoy que je fasse
+Tousjours quelque estocade esquive ma cuirasse,
+Et me perce le cuir avec tant de douleur
+Que j'en pers bien souvent la force & la couleur ;
+Cette fatalité me fasche⁎ & m'importune ;
+Mais qui peut resister aux loix de la fortune ;
+Nos maistres se battront à la pointe du jour,
+Et nous devons aussi nous battre à nostre tour.
+
+-*who_sanche
+Je ne me battray point, quoy que vous puissiez dire.
+
+-*who_lebarbier
+Vous perdriez vostre honneur, qui vaut mieux qu'un
+      Empire
+
+-*who_sanche 
+Quand il en vaudroit deux, je le perds sans remors,
+Que nous sert cet honneur lors que nous sommes
+      morts ?
+
+-*who_lebarbier
+A nous faire estimer par la race⁎ suivante.
+
+-*who_sanche
+Mais nous n'en sçavons rien.
+
+-*who_lebarbier
+      Tousjours cela contente.
+
+-*who_sanche
+Pour moy j'aime la paix, & ne recule pas
+D'acquerir de l'estime avecques mon trespas.
+
+-*who_lebarbier
+J'ay charge de mon maistre, en cette circonstance,
+De vous dire trois fois de vous mettre en defence,
+Et quoy que vous fassiez afin de l'éviter,
+De vous couper la teste & de la luy porter :
+Voyez à quel des deux se resoudra vostre ame,
+L'un vous rend glorieux, l'autre vous rend infame.
+
+-*who_sanche 
+Allez porter ailleurs cette belle leçon,
+Je ne veux point me battre en aucune façon ;
+Mon maistre en me donnant la charge que j'exerce,
+M'exempta par exprés de ce sanglant commerce,
+Il fut dit entre nous qu'il employroit son bras
+Sans le secours du mien dedans tous les combats,
+Et que j'aurois le soin d'éloigner les batailles
+Pour pouvoir s'il mouroit faire ses funerailles,
+Et pour porter son coeur & ses derniers souspirs
+Aux pieds de Dulcinée object de ses desirs ;
+De sorte qu'il se voit que dans cette querelle
+Je ne sçauroy mourir sans me rendre infidelle,
+Et vous n'ignorez pas que l'infidelité
+Est pire aux Escuyers que n'est la lascheté.
+
+-*who_lebarbier
+Je ne puis repliquer cette raison m'arreste.
+
+-*who_sanche
+Sans cela j'ay des mains qui defendront ma teste.
+
+-*who_lebarbier
+Suffit : mais le jour vient & nos maistres aussi,
+Pour ne les pas troubler retirons nous d'icy.
+
+**** *book_ *id_body-404 *act_ *date_1640 *creator_guerin_de_bouscal 
+
+-*who_domlope
+Je dis encore un coup qu'il a mordu la terre
+Ce dompteur de Geants, ce miracle de guerre
+Dom Quichot de la Manche à mes pieds abbatu
+Condamnant sa foiblesse, admirant ma vertu,
+Et confessant tout haut qu'aupres de Calsildée
+Dulcinée a le teint d'une vieille ridée.
+Et pour vous faire voir que je ne vous ments pas,
+Ce Dom Quichot icy, dont on fait tant de cas,
+Et dont j'ay surmonté la force & le courage,
+Est de moyenne taille, assez beau de visage,
+Resveur, mais si subtil dans toutes ses raisons,
+Qu'il peut estre Recteur aux petites Maisons⁎:
+Il est le vray falot de la valeur errante,
+Et son digne coursier s'appelle Rossinante,
+Son Escuyer Dom Sanche, & ce Dom Sanche encor
+Monte un grand asne gris qui vaut son pesant d'or.
+Qui peut apres cela douter de ma victoire ?
+
+-*who_domquichot 
+Moy.
+
+-*who_domquichot
+      Je porte en tout cas dequoy la faire croire.
+
+-*who_domquichot
+Cet esclaircissement ne vous sçauroit manquer.
+
+-*who_domquichot
+C'est par là seulement que je doy m'expliquer.
+
+-*who_domquichot
+Je commence à voir clair dans toute cett'affaire,
+Ce Dom Quichot que j'aime à l'égal⁎ de mon frere,
+A plusieurs enchanteurs qui choquent ses desseins,
+Et sans doute⁎ ce coup est party de leurs mains :
+Quelqu'un d'eux pour ternir sa gloire & son courage,
+Dedans cette rencontre⁎ aura pris son image,
+Et vous aura trompé, n'en doutez nullement :
+Ce que vous avez dit ne peut estre autrement.
+Que si vous persistez dedans vostre creance⁎,
+Sçachez que Dom Quichot est en vostre presence
+Prest à vous faire voir qu'il aime trop l'honneur
+Pour faire une action indigne de son coeur.
+
+-*who_domquichot 
+C'est donc vous Dom Quichot.
+
+-*who_domquichot
+      Je suis cet indomptable
+Que vous avez dépeint, non pas ce miserable
+Que le manque d'adresse, ou de force ou de coeur
+Contraint à reconnoistre un si foible vainqueur :
+Que si vous en doutez.
+
+-*who_domquichot
+      Arrestez je vous prie ;
+Quoy que par les statuts de la Chevalerie,
+Que vous n'ignorez pas & que nous sçavons tous,
+Je peusse refuser de me battre avec vous,
+Apres mon advantage, apres vostre défaite.
+
+-*who_domquichot
+Ah ! tréve à ce discours.
+
+-*who_domquichot
+      Cette main qui l'a faite
+Veut bien la maintenir, & vous faire avouër
+Que ma sincerité ne se peut trop louër.
+Je veux donc qu'un combat vuide nostre querelle :
+Mais de crainte qu'un jour le temps la renouvelle,
+Je croy qu'il faut combatre à des conditions
+Qui terminent le cours de nos pretentions.
+Voicy ce qui me semble estre tres-raisonnable,
+Je pourray m'éclaircir si vous estes palpable,
+De peur qu'un Enchanteur ne trompe encor mes sens,
+Et si je suis vainqueur comme je le pretens,
+Si vous n'avez recours à la force des charmes⁎,
+Je pourray vous contraindre à mettre bas les armes,
+Et demeurer chez vous l'espace de dix ans
+Sans lire aucun Roman des Chevaliers errans.
+
+-*who_domquichot
+Vous devez dire aussi que si j'ay la victoire,
+Comme il est apparent⁎, vous cesserez de croire
+Que jamais vostre bras ait pû vaincre mon coeur.
+
+-*who_domquichot
+Je le veux, sçachons donc qui sera le vainqueur.
+
+**** *book_ *id_body-405 *act_ *date_1640 *creator_guerin_de_bouscal 
+
+-*who_leduc
+Que cett'heure est charmante, & que mon oeil adore
+Ces rayons de clarté dont le Ciel se colore !
+
+-*who_laduchesse
+Que je prens de plaisir à voir le jour naissant,
+Et ce nuage peint d'un pourpre jaunissant !
+J'admire cet object plus je le considere.
+
+**** *book_ *id_body-406 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_sanche
+Dieux ! mon maistre est aux mains, ah ! que
+      voulez-vous faire ?
+Messieurs arrestez-vous.
+
+-*who_laduchesse
+      Quel bruit ay-je entendu ?
+
+-*who_lebarbier
+Je t'estrangle pendard si tu fais l'entendu.
+
+-*who_leduc
+Ah ! je voy ce que c'est, heureuse ma sortie
+Si j'évite un mal-heur.
+
+-*who_domlope
+      A demain la partie,
+Monsieur le Chevalier.
+
+-*who_domquichot
+      A demain, à tantost,
+A toute heure ; suffit que je suis Dom Quichot,
+Sanche vous en serez.
+
+-*who_sanche
+      Ah ! je me donne au Diable
+Si je me bats jamais.
+
+-*who_leduc
+      O rencontre⁎ aggreable !
+Valeureux D. Quichot, est-ce vous que je voy ?
+
+-*who_sanche
+Oüy Monsieur c'est luy-mesme, & je suis aussi moy
+Prest de vous tesmoigner mes tres-humbles services.
+
+-*who_leduc
+Voulez-vous m'obliger ?
+
+-*who_domquichot
+      Apres les bons offices
+Que j'ay receus chez vous, le bien de m'aquitter
+Est le plus grand bon-heur que je puis souhaiter.
+
+-*who_leduc
+Faites-moy la faveur de voir nostre hermitage
+Qui n'est pas loin d'icy.
+
+-*who_domquichot
+      Ce m'est trop d'avantage.
+
+-*who_leduc
+Vous y serez receu selon vos qualitez.
+
+-*who_laduchesse
+Mais sans doute⁎ moins bien que vous ne meritez.
+
+-*who_sanche
+Ah Madame ! ah Monsieur ! cela vous plaist à dire.
+Que je vay me souler !
+
+-*who_leduc
+      Hé que nous allons rire.
+
+**** *book_ *id_body-501 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_leduc
+Je ne puis exprimer l'honneur que je reçoy
+De me voir avec vous & de vous voir chez moy,
+Valeureux Dom Quichot dont les faits heroïques
+Sont hautement chantez dans les places publiques,
+Et celebrez par tout comme ceux d'Amadis
+Et des autres vaillans qui regnerent jadis :
+Mais je veux seulement vous conjurer de croire
+Que je ne fus jamais jaloux de vostre gloire,
+Et que j'ay pris plaisir à lire les exploits
+Que vostre bras a faits dedans tous ses emplois.
+
+-*who_domquichot 
+C'est le propre d'un cœur purement magnanime.
+Je sçay bien toutesfois que cette haute estime
+Dont vous me partagez⁎ si liberalement,
+Vous convient mieux qu'à moy.
+
+-*who_leduc
+      Tréve de compliment.
+Nous voicy prés du lieu de vostre penitence.
+Vive le grand Quichot, & vive Sanche Pance,
+L'un le plus genereux de tous les Chevaliers,
+L'autre le plus vaillant de tous les Escuyers.
+
+-*who_sanche
+Ce n'est pas là mon vice.
+
+**** *book_ *id_body-502 *act_ *date_1640 *creator_guerin_de_bouscal 
+
+-*who_secondvalet
+      Acceptez grand Monarque
+De nos submissions cette honorable marque.
+Vive encore & tousjours la fleur des Chevaliers,
+Et l'unique falot des vaillans Escuyers.
+
+-*who_domquichot
+Sanche prens cet armet.
+
+-*who_sanche
+      Dites moy je vous prie,
+Est-ce encore une loy de la Chevalerie
+De donner des manteaux & de riches bonnets
+Aux maistres Chevaliers & non à leurs valets ?
+
+-*who_domquichot
+Sans doute⁎.
+
+-*who_sanche 
+      Cette loy doit estre reformée.
+Vive encor Dom Quichot, vive sa renommée.
+
+-*who_leduc
+Vous plaist-il donc d'entrer ?
+
+-*who_domquichot
+      Je n'entre qu'apres vous.
+
+-*who_leduc
+Monsieur, allons.
+
+-*who_domquichot
+      Madame.
+
+-*who_laduchesse
+      On nous cede chez nous.
+
+-*who_domquichot
+Je vous cede par tout, mais en cette occurence
+Je ne le pourroy pas sans faire une insolence.
+
+-*who_leduc
+Ah ! ne contestez plus.
+
+-*who_domquichot 
+      Je ne passeray point.
+
+-*who_sanche
+Un conte que je sçay vient icy bien à point.
+
+-*who_laduchesse
+Dites-le Seigneur Sanche.
+
+-*who_leduc
+      Il doit estre agreable.
+Et je le veux sçavoir.
+
+-*who_domquichot
+      Que je suis miserable !
+Tay toy traistre ou je vay.
+
+-*who_sanche
+      Monsieur ne craignez rien,
+Mon conte est sans reproche, & je le feray bien.
+
+-*who_domquichot
+Il vous estourdira, commandez qu'il se taise.
+
+-*who_laduchesse
+Pourquoy ? vostre Escuyer ne dit rien qui ne plaise,
+Et j'ay plus de plaisir à l'entendre parler,
+Que n'en eut Angelique à se voir cajoler
+De ce mignon frizé qu'elle suivoit sans cesse,
+Dedaignant de Rolland l'amour & la noblesse.
+
+-*who_sanche
+Que vostre Majesté vive eternellement !
+Madame, ce discours, quoy que sans fondement,
+Efface tout le deuil⁎ que je faisois parestre
+Pour n'avoir un manteau de mesme que mon maistre,
+Et craignant de tomber encor une autre fois
+Entre les rudes mains de l'Escuyer du Bois ;
+Voicy donques mon conte.
+
+-*who_domquichot
+      Abrege-le de grace.
+
+-*who_laduchesse
+Ce n'est pas là du tout ce que je veux qu'il fasse :
+Qu'il l'estende au contraire.
+
+-*who_sanche
+      Assez prés de chez moy
+Demeuroit un Seigneur bon serviteur du Roy,
+Ce Seigneur estoit fils d'un prudent personnage
+Qui descendoit tout droit de ce fameux lignage
+De Medine del Campe :& ce Seigneur aussi
+Estoit fils de son pere.
+
+-*who_laumosnier
+      On le croit bien ainsi.
+
+-*who_sanche
+On ne croit en cela que ce qu'on en doit croire :
+Ce Gentil-homme donc, dont je vous fay l'histoire,
+Et qui s'est marié depuis trois ou quatre ans,
+Qu'il est bien marié ! qu'il a de beaux enfans !
+
+-*who_laumosnier
+Passez, cela suffit, concernant son mesnage.
+
+-*who_sanche
+Il se fit bien du bruit dedans nostre village,
+Le jour qu'il prit sa femme, on la voulut ravir ;
+Mais l'effort qu'on en fit ne put de rien servir.
+Vous le sçavez, Monsieur, vous fustes de la feste,
+Et l'on vous en peut voir les marques sur la teste :
+Le fils du mareschal, ce mauvais garnement,
+A ce que l'on m'a dit, en fut pareillement :
+Dites, n'est-il pas vray ?
+
+-*who_domquichot
+      Passez.
+
+-*who_sanche 
+      On le doit croire.
+
+-*who_laumosnier
+Bon-homme c'est assez, achevez vostre histoire :
+Du train que vous allez, je crain avec raison
+Que l'on ne vous verra d'un an dans la maison.
+
+-*who_sanche
+On pourra nous y voir plustost sans point de doute.
+
+-*who_laduchesse
+Sanche n'abregez point, mais suivez vostre route.
+
+-*who_leduc
+Ce conte est ravissant, & qui le veut blâmer
+N'a jamais bien connu⁎ ce qu'on doit estimer.
+
+-*who_sanche
+Ce Gentil-homme donc estoit si fort affable,
+Qu'il avoit bien souvent des païzans à sa table.
+Un jour qu'il regaloit un pauvre laboureur.
+
+-*who_domquichot
+Sans passer plus avant, tire moy d'une erreur,
+Sanche, je n'entens point à moins d'un interprete,
+Qu'est-ce que regaler ?
+
+-*who_sanche
+      C'est un mot de Gazete,
+Qui veut dire traitter, accueillir, bien veigner⁎:
+Mais vray'ment c'est bien vous que je dois enseigner ?
+
+-*who_domquichot
+J'ay tousjours mesprisé des choses si frivoles,
+Je m'attache aux effects, & non pas aux paroles.
+
+-*who_sanche
+Au Diable, pourquoy donc m'avez-vous arresté ?
+
+-*who_laumosnier
+Monsieur l'Historien, c'est assez contesté,
+Tirez-nous de la gehene⁎.
+
+-*who_sanche
+      Apprenez donc en somme
+Comme se comporta ce brave Gentil-homme ;
+Un jour qu'il regaloit un pauvre laboureur,
+Grossier en verité : mais fort homme d'honneur,
+Et qui dans sa maison vit de l'air d'un Monarque ;
+Il voulut le traiter comme un homme de marque :
+Je connois ce païzan comme je me connoy,
+Il a logé long temps à trois pas de chez moy.
+
+-*who_laumosnier 
+Ne nous direz-vous point encore son lignage ?
+
+-*who_sanche
+Son pere fut le coq⁎ de tout le voisinage,
+Son ayeul.
+
+-*who_laumosnier
+      C'est assez.
+
+-*who_domquichot
+      Acheve promptement.
+
+-*who_laduchesse
+Ce conte est magnifique autant qu'il est charmant.
+
+-*who_sanche
+Estans donques tous deux prests de se mettre à table,
+Escoutez ce que fit ce Seigneur honnorable :
+Que puisse-t-il joüir d'un eternel repos,
+Car il est desja mort : & l'on dit à propos
+Que dans quelques Romans qu'on fit à sa loüange
+L'on trouve par escrit qu'il fit une mort d'Ange :
+J'estois alors à Temble, où je ne le vy pas.
+
+-*who_laumosnier
+Frere, si vous voulez nous sauver du trespas,
+N'arrestez point à Temble.
+
+-*who_domquichot
+      Enfin, que veux-tu dire ?
+Abrege ton discours & viens au mot pour rire.
+
+-*who_sanche
+Ce Seigneur vouloit donc, puisqu'il faut dire tout,
+Que ce pauvre païzan se plaçast au haut bout,
+Le païzan bien appris insistoit au contraire,
+L'un disoit je le veux, l'autre le puis-je faire ?
+Il me semble d'entendre encor leur compliment.
+
+-*who_domquichot
+Tu les as donques veus disputer ?
+
+-*who_sanche
+      Nullement.
+Mais un valet d'honneur qui m'en a fait l'histoire,
+M'a dit non seulement que je pouvois la croire,
+Mais encore jurer d'avoir esté present
+Alors qu'elle arriva.
+
+-*who_leduc
+      Que ce conte est plaisant !
+
+-*who_sanche
+Ce Seigneur alleguoit, pour finir la dispute,
+Que chaque Charbonnier est maistre dans sa hute,
+Qu'il le vouloit enfin, & qu'en mangeant son bien
+L'autre ne devoit pas le contredire en rien.
+Mais toutes ces raisons ne pouvoient pas abatre
+Du paysan trop civil l'humeur opiniâtre :
+Que fit-il ?
+
+-*who_laumosnier
+      Finissez ces discours superflus :
+Il fit, je n'en sçay rien.
+
+-*who_sanche
+      Ma foy ny moy non plus :
+On m'a bien dit pourtant qu'il se mit en colere,
+Ou bien que pour le moins il eut droict de le faire,
+Et qu'il dit au paysan, tout bouffy de courroux,
+Quelque part où je suis, je suis tousjours sur vous :
+Apprenez aujourd'huy que lors qu'un Grand vous traite,
+Vous devez obéir, non pas faire la beste :
+Le reste du banquet m'est encore inconnu,
+Mais je croy que ce conte est icy bien venu.
+
+-*who_domquichot
+Traistre, pourray-je bien retenir ma colere ?
+
+-*who_leduc
+Sanche a fait de sa part tout ce qu'il devoit faire,
+Je ne le blâme point.
+
+-*who_domquichot
+      Il a plus faict encor.
+
+-*who_laduchesse
+Et son conte doibt estre escrit en lettres d'or :
+Mais il est temps d'entrer.
+
+-*who_laumosnier
+      Dieu, tirez-moy de peine !
+
+-*who_leduc
+Monsieur.
+
+-*who_domquichot
+      Je n'entre point, la chose est bien certaine.
+
+-*who_sanche
+Que vous profitez mal de mes enseignemens !
+
+-*who_domquichot
+Si c'est pour obéir à vos commandemens,
+Je n'ay point de replique.
+
+-*who_leduc
+      Et bien je vous l'ordonne.
+
+-*who_sanche 
+Enfin, voilà mon conte, & la piece est fort bonne.
+
+-*who_leduc
+Vous n'en fistes jamais qui fust plus à propos.
+
+**** *book_ *id_body-503 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_sanche
+Madame Gonzalez, de grace quatre mots.
+
+-*who_damerodrigue
+On m'appelle Rodrigue.
+
+-*who_sanche
+      Et bien soit, mais Madame,
+Voulez-vous m'obliger ?
+
+-*who_domquichot
+      Oüy, de toute mon ame,
+Mon honneur à couvert, n'en doutez nullement.
+
+-*who_sanche
+Vostre honneur à couvert ! il l'est bien hautement :
+Car je suis si discret en semblable matieres,
+Que quand on m'offriroit mille coups d'estrivieres
+Pour m'en faire manger, fust-il entre deux plats,
+Il est bien asseuré que je n'en voudrois pas :
+Il faut que la raison regle nos convoitises,
+Et Sanche ne fait pas de semblables sotises.
+
+-*who_domquichot
+Que puis-je donc pour vous ?
+
+-*who_sanche
+      Me tirer de soucy⁎.
+J'ay laissé mon grison⁎ à quatre pas d'icy,
+C'est mon asne, Madame, honorable monture
+Dont le nom sera cher à la race⁎ future :
+Je voudrois qu'il vous pleust le faire entrer ceans,
+C'est un pauvre innocent qui n'a que quatorze ans,
+Et qui seche d'ennuy⁎ dés que je l'abandonne,
+Il vous remerci'ra du soin que je vous donne.
+
+-*who_domquichot
+Certes si vostre maistre est aussi fou que vous,
+Nous avons aujourd'huy de beau monde chez nous :
+Allez, impertinent, avez-vous eu l'audace
+De croire que je fisse une action si basse ?
+
+-*who_sanche
+Mon maistre toutesfois, qui n'est nullement sot,
+M'a dit assez souvent, parlant de Lancelot,
+Qu'au retour de Bretagne il receut des caresses⁎
+(Leur honneur à couvert) de cinq ou six Princesses,
+Tandis que son cheval mangeoit come un seigneur
+Son avoine au giron de leurs Dames d'honneur.
+Et qu'a fait mon grison⁎ ? qui l'empesche de croire
+Qu'il peut avoir un jour une pareille gloire ?
+
+-*who_domquichot
+Si vous avez dessein de faire le plaisant,
+Troussez⁎ vostre bagage, allez ailleurs, paysant,
+Gros vilain, farcy d'aulx, vous n'aurez à cett'heure
+Qu'une figue⁎ de moy.
+
+-*who_sanche
+      Mais sans doubte bien meure :
+Car à n'en point mentir, je n'imagine point
+Qu'à moins de soixante ans on vous gagne le point.
+
+-*who_domquichot
+La vieillesse que j'ay ne me fait point de honte,
+C'est à Dieu seulement que j'en doy rendre conte :
+Allez, fils de putain, faire ailleurs l'entendu,
+Et craignez mon courroux.
+
+**** *book_ *id_body-504 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_laduchesse
+      Quel bruit ay-je entendu ?
+Qu'est-ce qui vous oblige à courir de la sorte,
+Vous voudroit-on forcer⁎?
+
+-*who_sanche
+      Non, le Diable m'emporte !
+
+-*who_laduchesse
+Je vous voy tous émeus, dites-m'en la raison ?
+
+-*who_domquichot
+Ce vilain me chargeoit du soin de son grison⁎,
+Et vouloit m'obliger à le panser moy-mesme.
+
+-*who_sanche
+L'amour que j'ay pour luy se peut nommer extresme,
+Et j'ay cru l'obliger à voir mes bons desseins
+Lors que je l'ay remis en de si bonnes mains.
+Que si j'ai mal jugé dans cette circonstance,
+L'amour est mon excuse, & sera ma defence ;
+Puisque je suis amant, je puis dire avec eux,
+Pouvoy-je estre bien sage estant bien amoureux ?
+
+-*who_laduchesse
+Sanche parle fort bien, son excuse est valable.
+
+-*who_domquichot
+Mais il m'appelloit vieille ?
+
+-*who_laduchesse
+      Ah !c'est bien là le Diable,
+Ce reproche est fascheux⁎, & ne vaut du tout rien,
+Dame Rodrigue est jeune & vous le voyez bien.
+
+-*who_sanche
+Elle a mal entendu, je vous jure Madame
+Que je n'y pensois pas.
+
+-*who_domquichot
+      Approchez-vous infame.
+
+-*who_sanche
+Et bien qu'est-ce ?
+
+-*who_domquichot 
+      Parlez, estoit-ce la saison
+Et le lieu de parler de vostre beau grison⁎ ?
+
+-*who_sanche
+Monsieur, on peut parler des choses necessaires
+Par tout où l'on se trouve, & faire ses affaires :
+Dressez ce bonnet verd qui vous couvre le front,
+Et ne censurez pas ce que les autres font.
+Il me souvient icy de mon asne que j'ayme,
+M'en souvenant ailleurs, j'en parlerois de mesme,
+Fût-ce au lit, à la table, à la sale, au marché,
+Par tout, & pour le seur ce n'est point un peché.
+
+-*who_leduc
+Sanche a bonne raison.
+
+-*who_domquichot
+      Vostre Grandeur le flate,
+Et respand ses bontez sur une terre ingrate.
+
+-*who_laduchesse
+Brisons là ce discours puisqu'il ne vous plaist pas,
+Et parlons des attraits, des graces, des apas
+Dont éclatte aujourd'huy l'Infante Dulcinée,
+Et des rares vertus dont son ame est ornée.
+
+-*who_domquichot 
+Helas que ce discours me va couster de pleurs !
+
+-*who_laduchesse
+Et pour quelle raison ?
+
+-*who_domquichot
+      Apprenez mes mal-heurs :
+Cette rare beauté que vous m'avez nommée
+N'est plus ce qu'elle estoit, elle vit transformée
+En laide villageoise, & je ne scay comment
+De meschans Enchanteurs ont fait ce changement.
+O chere Dulcinée ! ô ma douce geoliere,
+Qui n'as rien aujourd'huy de ta forme premiere !
+Astre vestu de deuil⁎, beau Soleil eclypsé,
+Phare qui ne luis plus, miroir ardent cassé,
+Bois qu'on a degradé, vive source tarie,
+Parterre foudroyé, belle rose flestrie,
+Divin temple destruit, grand autel prophané,
+Neige couverte d'encre, yvoire charbonné,
+Pourtrait sans coloris, brasier qui n'es que cendre,
+Helas apres ce coup quel party doy-je prendre !
+Par quel heureux moyen te puis-je secourir ?
+S'agit-il de ma mort, tu m'y verras courir.
+
+-*who_leduc 
+Elle est donc enchantée ?
+
+-*who_sanche
+      Oüy Seigneur, & moy-mesme
+Occulaire tesmoin de ce mal-heur extresme.
+Helas quand je la vis soubs cett'estrange peau,
+Je ne pus m'empescher de pleurer comme un veau !
+O pauvre Dulcinée ! ô mazure d'Infante !
+Maudit soit à jamais le demon qui t'enchante,
+Lampe qui n'as plus d'huile, horloge demonté,
+Courier devalizé, pasturage brouté,
+Espiciere sans sucre, asnesse debatée,
+Village abandonné, campagne degatée,
+Belle vigne greslée, estang plein de limon,
+Chat bruslé, pan sans plume, Ange fait en demon,
+Rose qui n'es plus rien qu'un grate-cul champestre,
+Helas que je te plains maistresse de mon maistre !
+
+-*who_laduchesse
+Ce n'est pas sans subject que vous versez des pleurs,
+On se pend tous les jours pour de moindres mal-heurs.
+
+-*who_sanche
+Peut-estre quelque fou, mais non pas Sanche Pance.
+
+-*who_laumosnier 
+Enfin, la charité me defend le silence,
+Monseigneur j'ay subject de me plaindre de vous
+De ce que vous traitez avec ces maistres fous :
+Car outre qu'à la fin vous pourriez rendre conte
+De tout leur procedé, leurs discours me font honte.
+Et vous ame de cruche, homme sans jugement,
+Qui peut vous avoir mis dedans l'entendement
+Tout ce qu'on nous a dit de vostre resverie⁎
+Concernant les Romans de la Chevalerie ?
+Où vistes-vous jamais des Chevaliers errans ?
+En quel lieu de l'Espagne a-t-on veu des Geans ?
+Où sont ces Enchanteurs & cette Dulcinée
+Que vous avez forgés dessous la cheminée⁎?
+Retournez mal-heureux, mal-heureux retournez
+Chercher vostre bon sens au lieu d'où vous venez,
+Et cessez de courir apres les avantures
+Qui sont à vostre honneur de mortelles blessures :
+Allez, car c'est ainsi qu'on doibt parler à vous.
+
+-*who_domquichot
+Pourray-je retenir l'excés de mon courrous ?
+
+-*who_sanche
+Ah le mal-heureux homme ! & qu'il a bien envie
+De perdre en cet instant & la teste & la vie.
+Il est mort.
+
+-*who_leduc
+      La rencontre est sans comparaison.
+
+-*who_domquichot
+Si nous estions ailleurs que dans cette maison,
+Et n'estoit le respect que je porte à vostre âge,
+Ma main auroit desja reparé mon outrage ;
+Mais puisque l'un & l'autre en cet evenement
+Me defendent l'effet de mon ressentiment,
+Je veux bien pour le moins combatre de ma langue
+Les discours insolens qui font vostre harangue :
+Qu'ay-je fait devant vous que vous puissiez blâmer ?
+
+-*who_sanche
+Monsieur dites plustost qu'on ne doive estimer.
+
+-*who_domquichot
+Mais quand j'aurois failly, confessez sans contrainte
+Que la correction de qui la fin est sainte
+Se fait plus doucement, & tousjours pour le moins
+Sans passer à l'injure, & sans aucuns tesmoins ;
+Et que m'ayant repris en public en colere
+Vous avez fait du moins ce qu'on ne doit pas faire.
+
+-*who_sanche
+Il est vray.
+
+-*who_domquichot 
+      Mais au fonds, qu'avez-vous remarqué
+Dedans mon procedé qui vous ait tant choqué ?
+Poussé de mon instinct je vay faire la guerre
+Aux infracteurs des loix & par mer & par terre,
+Comme faisoient jadis les Chevaliers errans,
+Et le chaud & le froid me sont indifferens.
+Je fay du bien à tous, je ne choque personne,
+Je ne prens jamais rien, & sans cesse je donne,
+Ma gloire est sans excés, mon amour sans defaut,
+Et j'aime seulement à cause qu'il le faut.
+Bref, je suy le chemin que m'a tracé la gloire,
+Non pas pour me placer au Temple de memoire :
+Jamais la vanité ne fit agir ma main,
+Mais c'est pour le salut de tout le genre humain.
+Si vivre de la sorte est vivre dans le crime,
+Vostre aigre remonstrance est icy legitime ;
+Mais si c'est la vertu qui prescrit cette loy,
+Elle fait contre vous plustost que contre moy ;
+J'en appelle à tesmoin Monsieur qui nous escoute.
+
+-*who_sanche
+La victoire à ce coup ne reçoit point de doute,
+Allez bon-homme, allez, vous serez mieux ailleurs,
+Vos sentimens pour nous ne sont pas des meilleurs,
+Suffit qu'on nous connoit par tout & dans la Manche.
+
+-*who_laumosnier
+N'estes-vous point encor ce gros maraud de Sanche,
+A qui ce bon Seigneur a promis de donner
+A ce que l'on m'a dit une isle à gouverner ?
+
+-*who_sanche
+Je suis celuy-là mesme, & quoy qu'on puisse dire
+Je la merite mieux que je ne la desire,
+Quoy qu'à la verité je brûle de l'avoir,
+Et si je l'ay jamais, j'y feray mon devoir.
+Je suis un Escuyer qui vivra dans l'Histoire,
+Et qui fait (croyez-le si vous le voulez croire)
+Tout ce dont est capable un Escuyer de bien :
+Ayant mon maistre à moy je ne manque de rien.
+Vive luy, vive moy ; car pendant nostre vie,
+Malgré les Enchanteurs, malgré vous & l'envie
+Il ne manquera point d'un office de Roy,
+Non plus que d'un Royaume ou d'une isle pour moy.
+
+-*who_leduc
+Pour l'isle dés cett'heure elle vous est acquise,
+Vous la devez avoir puisqu'on vous l'a promise,
+Et tout presentement je veux vous la donner,
+Puis dans deux ou trois jours vous l'irez gouverner.
+
+-*who_domquichot 
+Recevez à genoux cette faveur insigne.
+
+-*who_sanche
+Je la prens donc, Seigneur, quoy que j'en sois indigne.
+
+-*who_laumosnier
+Ah Monsieur ! c'est assez, je ne puis plus les voir,
+Je me console au moins que j'ay fait mon debvoir.
+
+-*who_laduchesse
+Monsieur, où courez-vous ? il s'en va.
+
+-*who_leduc
+      Qu'il s'en aille.
+
+-*who_sanche
+Soit, le bon-homme aussi ne disoit rien qui vaille :
+Ah ! s'il avoit tenu ce discours insolent
+A quelque Chevalier un peu plus violent,
+Que de coups de baston sur sa jaquette noire !
+Tousjours cet accident vivroit dans sa memoire,
+Renault de Montauban eust esté son balot⁎,
+Il l'auroit estranglé sans luy dire un seul mot.
+
+**** *book_ *id_body-505 *act_ *date_1640 *creator_guerin_de_bouscal 
+
+-*who_laduchesse
+Sanche, où fuyez-vous donc ?
+
+-*who_sanche
+      Ce Diable m'espouvante.
+
+-*who_domlope
+Genereux protecteur de la milice⁎ errante !
+
+-*who_lebarbier
+Valeureux Escuyer plein de gloire & d'honneur !
+
+-*who_leduc
+Levez vous.
+
+-*who_sanche
+      Laissez-moy, car je suis Gouverneur.
+
+-*who_lebarbier 
+Et bien à la bonne heure.
+
+-*who_domquichot
+      Oseray-je pretendre
+Que seul & sans tesmoins vous daignerez m'entendre ?
+
+-*who_leduc
+Tres-volontiers, Monsieur.
+
+-*who_laduchesse
+      Nous vous laisssons donc tous ?
+
+-*who_leduc
+Et bien, dans un moment je m'en revien à vous.
+
+-*who_domquichot
+Nous vous verrons tantost.
+
+-*who_domlope
+      C'est bien mon esperance.
+
+-*who_lebarbier
+Vous en serez aussi.
+
+-*who_sanche
+      Ce n'est pas ma creance⁎.
+
+-*who_lebarbier 
+Je vous estranglerois.
+
+**** *book_ *id_body-506 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_domquichot
+      Monsieur pardonnez-nous,
+Pour ramener un fou nous avons fait les fous.
+
+-*who_leduc
+Je vous ay reconnu dessous cet équipage,
+Mais enfin vostre fou ne sera jamais sage.
+
+-*who_domquichot
+Je le croy bien ainsi.
+
+-*who_lebarbier
+      Ce n'est pas sans raison.
+
+-*who_domquichot
+Je le veux obliger à tenir la maison :
+Un combat entre nous doit conclurre l'affaire,
+Vous nous avez surpris lors que nous l'allions faire,
+Et je vien vous prier de souffrir qu'aujourd'huy
+Je puisse le combatre & le mener chez luy :
+Ainsi vous achevez une œuvre commencée,
+Et qui sans vostre aveu ne peut estre avancée ;
+Et nous nous acquitons de tout nostre pouvoir,
+Et de nostre promesse & de nostre devoir.
+
+-*who_leduc
+J'emploiray tous mes soins à seconder les vostres,
+Mesmes, si je le puis, j'en inventeray d'autres :
+Mais je desire aussi qu'auparavant partir,
+Sa rencontre⁎ en ce lieu serve à nous divertir⁎.
+
+-*who_domquichot
+Tout ce qu'il vous plaira.
+
+-*who_leduc
+      La fourbe⁎ est inventée,
+Il pleure nuit & jour sa maistresse enchantée,
+Je veux la luy monstrer dans son enchantement,
+Et faire là dessus cent pieces de Romant ;
+Entrons, allons les voir, remettez la salade⁎.
+
+-*who_lebarbier
+Nous pourrons bien crier place à la mascarade.
+
+**** *book_ *id_body-601 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_laduchesse
+Sanche, mettez-vous là.
+
+-*who_sanche
+      Ce seroit trop d'honneur
+Pour un pauvre Escuyer.
+
+-*who_laduchesse
+      Vous estes Gouverneur,
+Et cette qualité vous donne la puissance
+D'en user parmy nous avec toute licence⁎.
+
+-*who_sanche
+Soit donc puisqu'il vous plaist, je ne conteste plus,
+La place où je me voy me rend un peu confus ;
+Car je puis bien jurer qu'une pareille grace
+N'a jamais esté faite à pas un de ma race⁎.
+
+-*who_laduchesse
+Aussi valez vous mieux qu'ils n'ont jamais valu.
+
+-*who_sanche
+Ce n'est pas bien cela, mais vous l'avez voulu.
+
+-*who_laduchesse
+Suffit, venons au poinct. J'ay de la peine à croire
+Plusieurs evenemens qu'on lit dans vostre histoire,
+Et je ne les puis voir sans penser que l'autheur
+Qui les a mis au jour est meschant ou menteur.
+J'ay donques desiré que pour ce qui vous touche,
+Vous m'en donniez raison de vostre propre bouche.
+
+-*who_sanche
+Je le feray sans doute⁎ avec facilité.
+
+-*who_laduchesse
+Excusez toutesfois mon incivilité.
+
+-*who_sanche
+Vous vous moquez de moy.
+
+-*who_laduchesse
+      Seroit-il bien croyable
+Que Sanche eust relasché de ce titre honorable
+De fidelle Escuyer ?
+
+-*who_sanche
+      Non Madame.
+
+-*who_laduchesse
+      Pourtant
+On nous l'a debité pour de l'argent contant.
+L'histoire dit tout haut que le Gouverneur Sanche,
+Au lieu d'aller trouver Dulcinée à la Manche
+De la part de son maistre, & luy faire sçavoir
+La peine qu'il avoit de vivre sans la voir,
+S'arresta quelques jours dedans une taverne.
+
+-*who_sanche
+Je n'y feus point du tout, je craignois trop la berne⁎
+Qui le jour precedent m'avoit fort mal traité,
+Et qui parle autrement choque la verité.
+
+-*who_laduchesse
+L'histoire dit encor que dans cett'aventure,
+A l'infidelité succeda l'imposture,
+Et qu'estant de retour aupres de Dom Quichot,
+Sanche son Escuyer le traita comme un sot,
+Feignit une response, & mille bagatelles
+Indignes de l'honneur des Escuyers fidelles ;
+Et luy dit qu'il trouva l'object de son amour
+Criblant un tas de pois dans une basse cour.
+Voilà ce qui m'estonne, & qui me met en doute.
+A present que j'ay veu que nul ne nous escoute,
+Et que je puis parler avecques liberté,
+Je vay faire cesser vostre difficulté.
+Desja depuis long-temps j'ay connu⁎ que mon maistre
+Estoit fou par la teste autant qu'on le peut estre,
+Quoy que dans ses discours & ses raisonnemens
+Il montre quelque-fois de si bons sentimens
+Que le Diable en personne auroit bien de la peine
+De juger qu'il n'eust pas la cervelle bien saine ;
+Ainsi pour m'exempter du tracas & du soin
+Qu'il me donne souvent sans qu'il en soit besoin,
+J'ay recours au mensonge, & par cet artifice
+Sans beaucoup me peiner je luy rends du service,
+J'enchantay l'autre jour Dulcinée à ses yeux.
+
+-*who_laduchesse
+Et comme quoy?
+
+-*who_sanche
+      Le conte en est bien curieux.
+Estant prest à partir Dom Quichot de la Manche
+Voulut voir Dulcinée, & donna charge à Sanche,
+Ce Sanche est moy, Madame. Or ce grand Chevalier,
+Comme je vous ay dit, chargea son Escuyer
+(A present Gouverneur) d'aller voir sa maistresse,
+Laquelle devoit estre une grande Princesse,
+Logée en un Palais d'or & de diamans ;
+Bref mille fois plus beau que tous ceux des Romans :
+Ce fidelle Escuyer dans une nuict obscure
+Cherche ce grand Palais d'admirable structure,
+Mais inutilement, car à ce qu'on luy dit,
+Jamais mesme en plein jour personne ne le vit.
+Il n'osa pas pourtant l'aller dire à son maistre,
+De peur que ce defaut ne luy fit reconnestre
+Qu'il l'avoit mal servy dans le premier employ;
+Sçavez-vous ce qu'il fit ?
+
+-*who_laduchesse
+      Nenny, dites-le moy.
+
+-*who_sanche
+Il ne fit rien du tout, mais sortit du village
+A l'heure que les bœufs s'en vont au labourage,
+Je ne sçay quel chemin son asne aura tenu,
+Mais il s'en retourna comme il estoit venu.
+Marchant donc sur ses pas, le pauvret resve⁎ & songe
+Pour pouvoir sur le champ trouver quelque mensonge
+Qui le puisse exempter du reproche qu'il craint,
+Mais il n'en trouve aucun, & c'est là qu'il se plaint :
+Le voilà cependant⁎ à trois pas de son maistre
+Qui luy vient au devant dés qu'il le voit parestre ;
+Si Monsieur l'Escuyer est lors dans l'embarras,
+Je croy certainement que vous n'en doutez pas.
+Que luy pourras-tu dire, Escuyer miserable,
+Qui puisse t'empescher de parestre coupable ?
+Il se plaignoit ainsi tout accablé d'ennuy⁎.
+
+-*who_laduchesse
+Dans cet evenement je crain presque pour luy.
+
+-*who_sanche
+Quand par quelque miracle il vit trois païzanes
+S'en venir droit à luy sur autant de beaux asnes.
+D'abord⁎ quelque démon luy souffla dans l'esprit
+La resolution de faire ce qu'il fit.
+
+-*who_laduchesse
+Qui fut ?
+
+-*who_sanche
+      De soustenir que c'estoit Dulcinée
+Qui venoit apres luy dessus un'haquenée⁎,
+Et deux Dames d'honneur toutes brillantes d'or,
+De qui les seuls chevaux valoient mieux qu'un tresor.
+Dom Quichot qui le croit ; pique, galope, presse
+Son coursier Roussinant vers sa chere maistresse ;
+Et rencontre⁎ à la fin les Dames des Grisons
+Qui la faux à la main s'en alloient aux moissons.
+Cet objet le surprend, mais son Escuyer jure
+Qu'un meschant Enchanteur a changé leur figure,
+Et ses sermens enfin eurent tant de credit⁎
+Que son maistre le crut comme il a desja dit :
+Voyez apres cela s'il n'est pas bien credule ?
+
+-*who_laduchesse
+J'ay formé là dessus quelque petit scrupule,
+Si Dom Quichot est fou comme il paroist icy,
+Dom Sanche qui le suit ne l'est-il pas aussi ?
+Puisque l'on doit juger du valet par le maistre.
+
+-*who_sanche
+Madame, en bonne foy, tout cela peut bien estre :
+Ce scrupule est fort juste, & l'Escuyer du Bois,
+Qui m'a fait tant de peur, me l'a dit autre-fois.
+Mais je ne sçay comment, ny par quelle aventure
+Je me suis embroüillé dedans cette tissure⁎:
+Mon maistre m'a long-temps nourry dans sa maison,
+C'est de sa propre main que je tiens le grison⁎.
+Je l'aime, il me cherit, il n'est nullemnt rude,
+Je ne le puis quitter que par ingratitude :
+Et comme qu'il en soit, je n'imagine pas
+De nous voir separez que par nostre trespas.
+
+-*who_laduchesse
+Cela donques passé, j'estime difficile
+Que vous puissiez jamais bien gouverner vostre isle ?
+
+-*who_sanche
+Si pour cette raison c'est vostre sentiment⁎
+De ne pas m'enchasser dans mon gouvernement,
+Je pretends de monstrer par mon indifference
+Que je le meritois beaucoup mieux qu'on ne pense :
+Que sçay-je si le Diable, ardent à nous tromper,
+Ne me le donnoit pas afin de m'attraper ?
+Il est plus fin que nous, & je sçay par pratique
+Que jamais rien de bon ne sort de sa boutique.
+Qu'ay-je affaire de bien, mal-heureux que je suis !
+Je puis ce que je veux voulant ce que je puis ;
+Dans la nuict tous les chats sont de mesme teinture,
+Nous tombons de par tout dedans la sepulture,
+Et tel est sur le bord qui croit en estre loin,
+Le ventre se remplit ou de paille ou de foin.
+Quand madame la Mort nous tient en sa puissance,
+On ne reconnoist plus aucune difference,
+Et souvent un bouvier qui vit avec honneur
+Dessous son pauvre toict, meurt mieux qu'un
+      Gouverneur.
+Je dis encor cecy pour vous faire connestre⁎
+Que je m'ayme Escuyer autant ou plus que maistre,
+Et que je voy sans deuil⁎ & sans ressentiment
+Le naufrage prochain de mon Gouvernement.
+
+-*who_laduchesse
+Tout Chevalier d'honneur, quand sa foy l'interesse⁎,
+Sans jamais barguigner accomplit sa promesse,
+Et le Duc Monseigneur est des plus apparens⁎,
+Encor qu'il ne soit pas de l'ordre des errans :
+Partant, quoy que j'en die, il est indubitable
+Qu'il vous illustrera de ce titre honorable.
+Mais revenant au poinct de vostre enchantement,
+Je sçay de bonne part qu'il fut reellement,
+Et que Sanche croyant avoir trompé son maistre
+Fut luy-mesme trompé, comme il pourra connestre⁎
+Avant la fin du jour par des objects puissans,
+Qui sans enchantement parestront à ses sens.
+
+-*who_sanche
+Je m'en doutois aussi, car il n'est pas croyable
+Que j'eusse pû forger cette fourbe⁎ admirable :
+Mais comme qu'il en soit, cett'affaire se fit
+Comme je desirois ; & cela me suffit.
+
+-*who_laduchesse
+Mais voicy Dom Quichot.
+
+-*who_sanche
+      Ce Diable l'accompagne,
+Je croy qu'il sera bon de prendre la campagne.
+
+**** *book_ *id_body-602 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_lebarbier
+Seigneur Sanche, arrestez.
+
+-*who_sanche
+      Laissez-moy.
+
+-*who_domquichot
+      Qu'avez-vous ?
+
+-*who_sanche
+J'ay peur de ce grand nez.
+
+-*who_domquichot 
+      Demeurez pres de nous,
+Et croyez que mon bras vous en rendra bon conte.
+
+-*who_sanche
+Je le croy bien ainsi, mais la peur me surmonte.
+
+-*who_domlope
+Madame, pardonnez mon incivilité,
+Je sçay ce que je dois à vostre qualité :
+Mais un voeu solennel de monstrer mon courage
+En ce rencontre⁎-icy plustost que mon visage,
+M'empesche d'y respondre, & cloüe en ce moment
+Mon armet à mon front avec des clous d'aimant.
+
+-*who_laduchesse
+Ne vous contraignez point.
+
+-*who_leduc
+      Quoy que vous puissiez faire,
+Je veux qu'encor un peu le combat se differe.
+
+-*who_domquichot
+Tout ce qui vous plaira ; cela depend de vous.
+
+-*who_domquichot
+Que ce retardement m'est fascheux !
+
+-*who_sanche 
+      Qu'il m'est doux !
+
+-*who_leduc
+Je m'en vay cependant⁎ vous conter une histoire
+Que l'on vient de m'apprendre, & que je ne puis croire :
+Deux Infantes de Perse, embrasées d'amour,
+Cherchent un Chevalier dans les lieux d'alentour :
+On les vit l'autre soir dedans nostre village ;
+Mais nostre historien n'en sçait pas davantage.
+
+-*who_domquichot
+Que crois-tu que ce soit, Sanche ?
+
+-*who_sanche
+      Je n'en sçay rien :
+Mais dites-en le vray, vous vous en doutez bien.
+
+-*who_domquichot
+C'est à nous qu'on en veut.
+
+-*who_sanche
+      C'estoit bien ma creance⁎:
+Mais ce diable de nez m'en ostoit l'esperance,
+En effect je suis mort s'il approche de moy.
+
+-*who_leduc
+Que nous veulent ces gens ? & qu'est-ce que je voy ?
+
+**** *book_ *id_body-603 *act_ *date_1640 *creator_guerin_de_bouscal 
+
+-*who_premierheraut
+Les filles du Sophy que la Perse revere.
+
+-*who_secondheraut
+C'est moy qui dois parler, j'ay charge de leur pere.
+
+-*who_premierheraut
+Parlez si vous voulez, je ne diray plus rien.
+
+-*who_secondheraut
+Je vous cede mes droicts, mais au moins parlez bien.
+
+-*who_premierheraut
+Les filles du Sophy, ces illustres Princesses
+Que nous reconnoissons pour uniques maistresses,
+Demandent le bon-heur de pouvoir dire un mot
+En presence de tous au brave Dom Quichot.
+
+-*who_leduc 
+Qu'elles entrent.
+      La piece est assez mal bastie,
+Mais c'est pour baloter⁎ en attendant partie.
+
+-*who_domquichot
+Sanche ay-je mal pensé ?
+
+-*who_sanche
+      Nenny, mais croyez moy,
+Espousez ces deux soeurs, & faites-vous grand Roy ;
+Laissez là Dulcinée.
+
+-*who_domquichot
+      Ah ! ce discours m'offence.
+
+**** *book_ *id_body-604 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_leduc
+Ah Dieu que de beauté, que de magnificence !
+
+-*who_laduchesse
+Jamais rien de pareil n'appareut à mes yeux.
+
+-*who_premierheraut 
+Miracle de la terre & delice des Cieux,
+Valeureux Dom Quichot ! ces deux grandes Princesses
+Viennent la larme à l'oeil mendier vos caresses⁎:
+La Nature en naissant leur mit le sceptre en main,
+Elles ont herité du pouvoir souverain,
+Voyez quelle des deux vostre Grandeur desire,
+Vous ne sçauriez choisir sans gaigner un Empire.
+
+-*who_premiereinfante
+Tourne vers moy tes yeux, voy quelle est ma beauté,
+Et qu'est-ce que je t'offre avec la royauté,
+Aimes-tu les tresors ? nostre terre en esclate ;
+Aimes-tu les grandeurs ? la vanité me flate :
+Veux-tu porter ton trosne aussi loin que tes pas ?
+Je te suivray par tout, mesme dans les combats :
+J'aime l'éclat du sang qui paroist sur la terre,
+J'aime à voir le canon imiter le tonnerre,
+Et mille corps meurtris sur la terre gisans
+Presentent à mes yeux des spectacles plaisans.
+Veux-tu combatre seul, veux-tu quiter ta femme,
+Et n'avoir pour un temps d'autre appuy que ta lame ?
+Va ne t'arreste point, contente ton desir,
+Et prefere tousjours ta gloire à mon plaisir,
+Attendant ton retour j'iray la main armée
+Estendre nostre empire & nostre renommée,
+Porter chez nos voisins la guerre & le discord,
+La honte du servage ou l'horreur de la mort :
+Et si dans ce chemin la Fortune m'arreste,
+Tu sçauras aussi-tost ma mort que ma defaite.
+Laisse moy, Chevalier, non je ne le veux pas.
+Je t'ay veu sur le poinct de courir dans mes bras,
+Enten plustost ma soeur.
+
+-*who_sanche
+      Il n'est point necessaire,
+Espousez celle-cy, si vous voulez bien faire,
+Et ne contestez plus.
+
+-*who_domquichot
+      Taisez-vous, insolent.
+
+-*who_secondeinfante
+Monstre, monstre mon coeur, ton transport⁎ violent.
+
+-*who_sanche
+Si vous la refusez, vous ferez mal sans doute⁎.
+
+-*who_domquichot
+Je ne t'escoute plus.
+
+-*who_sanche 
+      Suffit qu'un Duc m'escoute :
+
+-*who_secondeinfante
+Tourne vers moy ton coeur, voy quelle est ma bonté,
+Ne considere plus ny Grandeur ny beauté,
+La Grandeur n'est qu'un nom qui souvent importune,
+Et qui nous rend sujects aux coups de la Fortune :
+Qu'est-ce que la beauté dont on fait tant de cas ?
+C'est une fleur qui passe & qui ne revient pas,
+Un vent, une vapeur, une ombre, une fumée,
+Une image effacée aussi-tost que formée,
+Cet arc que le Soleil peint de tant de couleurs
+Et qui dans un instant, se resout tout en pleurs.
+Aymes-tu les tresors ? j'ay tout ce qui contente,
+Et par là ma richesse est assez abondante.
+Veux-tu porter ton trosne aussi loin que tes pas ?
+Pourquoy le voudrois-tu si tu ne le dois pas ?
+Le carnage & le sang peut-il jamais te plaire
+S'il est vray que le Ciel ne le voit qu'en colere ?
+Et le bruit des canons peut-il te sembler doux
+S'il exprime des Dieux la haine & le courroux ?
+Veux-tu vivre tousjours dans un peril extréme ?
+Je te le veux defendre à cause que je t'ayme.
+Vien gouverner plustost & mon ame & ma cour ;
+Avec elles je t'offre & la paix & l'amour,
+Je ne desire point courir la main armée
+Pour mesler mes exploits avec ta renommée :
+Desormais nul desir ne me peut enflammer
+Que celuy de te plaire & de te bien-aimer.
+Fortune fay de moy tout ce que tu peux faire,
+Fay moy tomber du trosne à l'extréme misere :
+Irrite mon mal-heur par de sanglants mépris,
+Mais ne t'oppose point au dessein que j'ay pris :
+En ce poinct seulement tu me serois funeste,
+Laisse moy mon amour & prens tout ce qui reste.
+
+-*who_sanche
+Et bien qu'en dites-vous ? celle-cy me plaist mieux,
+Son discours a tiré des larmes de mes yeux.
+
+-*who_domquichot
+Au secours Dulcinée, ah Dieu que j'ay de peine !
+
+-*who_sanche
+Vous devez espouser cette dernière Reine.
+
+-*who_domquichot
+Laisse-moy.
+
+-*who_laduchesse
+      L'aventure a fort bien réussi.
+
+-*who_leduc
+Monsieur, que ferez-vous ?
+
+-*who_domquichot 
+      Ah comble de soucy⁎ !
+
+-*who_leduc
+C'est desja trop resvé⁎ dessus cette matiere,
+Il faut parler François.
+
+-*who_sanche
+      Prenez cette derniere.
+
+-*who_domquichot
+O Ciel trop liberal à m'ouvrir vos tresors !
+Pourquoy donnastes-vous tant d'attraits à mon corps ?
+Pourquoy me fistes-vous une ame si hautaine,
+Si mes perfections ne servent qu'à ma peine ?
+Voy, Sanche, ce que c'est qu'estre trop grand Heros,
+Si je meritois moins, j'aurois plus de repos.
+
+-*who_sanche
+Il est vray, mais enfin c'est vostre destinée,
+Monsieur, choisissez donc la cadette ou l'aisnée ;
+Ou bien si l'une & l'autre a pour vous des douceurs,
+Comme je vous ay dit, espousez les deux soeurs :
+J'enrage de vous voir dans cett'indifference,
+Mesdames il y songe, ayez bonne esperance.
+
+-*who_domquichot 
+Oüy, Dulcinée, enfin mon esprit s'y resout,
+Ne m'importunez plus, je n'en veux point du tout.
+
+-*who_premierheraut
+Et bien retirons-nous.
+
+-*who_premiereinfante
+      Adieu donc cœur de roche.
+
+-*who_secondeinfante
+Mon amour en ce point me defend le reproche,
+Adieu, je vay mourir, & souhaiter pourtant
+Malgré mon déplaisir⁎ que tu vives content.
+
+**** *book_ *id_body-605 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_sanche
+Le coeur me fend de deuil⁎, ah Monseigneur & maistre !
+Ce dernier accident me fait bien reconnestre
+Que j'ay fort bien connu⁎ ce qu'on connoist⁎ en vous,
+Sans mentir, vous & moy sommes d'estranges fous !
+
+-*who_domquichot
+Vous perdez le respect.
+
+-*who_sanche
+      Si je n'avois mon isle,
+On entendroit encor plus de bruit dans la ville.
+Encor un coup, Monsieur, rendez mes voeux contens ;
+Prenez cette cadette & sans perdre du temps :
+Elle n'est pas fort loin la pauvre desolée,
+Et je croy que bien-tost on l'auroit r'appellée :
+Si vous ne pouvez pas par inclination,
+Prenez-la par aumosne & par compassion.
+Que s'il advient apres qu'elle vous importune,
+Donnez-la moy, Monsieur, j'en feray ma fortune.
+
+-*who_domquichot
+Taisez-vous impudent, ou bien vous estes mort.
+
+-*who_leduc
+Il n'en faut plus parler, c'est le vouloir du sort
+Que le grand Dom Quichot vive pour sa maistresse.
+
+-*who_sanche
+Que pourra devenir cette pauvre Princesse ?
+
+-*who_domquichot 
+Que pourroit devenir celle que je cheris ?
+Que feroit Dulcinée apres un tel mépris ?
+
+-*who_sanche
+Quand elle se pendroit, je me moquerois d'elle
+Si j'avois une Infante, & si riche & si belle.
+
+-*who_domquichot
+Ne m'en parle jamais.
+
+-*who_sanche
+      Je ne diray plus mot,
+Mais on dira par tout que vous estes un sot ;
+Et c'est ce qui me fasche⁎, & qui m'esmeut la bile.
+
+-*who_domquichot
+Qu'il fait le suffisant depuis qu'il a son isle !
+Ah si je l'entreprens⁎! à foy d'homme d'honneur,
+Je vous rangeray⁎ bien, Monsieur le Gouverneur.
+
+-*who_domquichot
+Vous-mesme, Chevalier, songez à vos affaires,
+Il faut enfin se battre.
+
+-*who_sanche
+      O comble de miseres !
+
+-*who_domquichot 
+Me parler de combat, c'est flater ma valeur.
+
+-*who_sanche
+Ce grand nez que je voy me fait trembler de peur.
+
+-*who_laduchesse
+Je pense à vous encor, Infantes mal-heureuses,
+Et maudis le destin qui vous fit amoureuses.
+Monsieur, vous plaist-il pas que nous allions les voir ?
+
+-*who_leduc
+Allons-y, le combat se fera sur le soir.
+
+**** *book_ *id_body-701 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_leduc
+Puisque dans ce combat la gloire vous anime,
+Que vous ne voulez point de sanglante victime,
+Recevez de ma main ces armes que voicy.
+
+-*who_lebarbier
+Mais n'en aurons-nous point pour nous froter aussi
+Cet Escuyer & moy ?
+
+-*who_sanche
+      Je ne veux point me batre.
+
+-*who_leduc
+Si vous en desirez je croy que j'en ay quatre.
+
+-*who_sanche 
+Monseigneur l'Escuyer, je vous ay desja dit
+Que je ne voulois point m'exposer à credit⁎:
+Qu'il ne s'en parle plus.
+
+-*who_leduc
+      Dieu quel coup de tonnerre !
+Il semble que le Ciel bouleverse la terre,
+Chevaliers, suspendez ce combat furieux.
+
+-*who_sanche
+Quittez-le tout à fait, vous ferez encor mieux.
+
+-*who_laduchesse
+Je ne vis jamais rien de plus épouvantable.
+
+-*who_sanche
+Je suis mort.
+
+-*who_leduc
+      Qui va là ?
+
+**** *book_ *id_body-702 *act_ *date_1640 *creator_guerin_de_bouscal 
+
+-*who_lediable
+      Monsieur je suis le Diable,
+Qui cherche Dom Quichot.
+
+-*who_domquichot
+      Le voicy pres de toy.
+
+-*who_leduc
+Si vous estes le Diable, ainsi que je le croy,
+Je m'estonne comment avec vostre science
+Vous l'avez méconnu.
+
+-*who_lediable
+      Monsieur, en conscience,
+J'avoy l'esprit ailleurs.
+
+-*who_sanche
+      Ou je n'y connoy rien,
+Ou ce monsieurle Diable est fort homme de bien,
+
+-*who_lediable 
+A toy donc, Chevalier, le passe-temps du monde
+Que le Diable confonde,
+M'envoye un Enchanteur de tes plus grands amis,
+Qui veut te faire voir dedans cette journée
+L'Infante Dulcinée
+Et la desenchanter ainsi qu'il t'a promis.
+Attends-la donc ainsi, mais fais encor que Sanche,
+Qui desja bransle au manche,
+R'asseure son courage & l'attende un moment,
+Parce que sa presence est si fort necessaire
+Dedans tout ce mystere,
+Qu'on ne sçauroit jamais l'achever autrement.
+Voilà dans peu de mots ce que j'avois à dire,
+Surquoy je me retire.
+
+-*who_sanche
+Mal-heureux que je suis ! que sera tout cecy ?
+Madame, allons-nous-en.
+
+-*who_laduchesse
+      Je le voudrois ainsi ;
+Mais je crain qu'en chemin quelque Diable nous
+      prenne.
+
+-*who_sanche
+Helas ! que ferons-nous ?
+
+-*who_laduchesse 
+      J'en suis si fort en peine,
+Que je prendrois la mort pour un souverain bien.
+
+-*who_domquichot
+Ne vous effrayez point, cecy ne sera rien.
+
+-*who_leduc
+Qu'est-ce donc que cecy ? le tonnerre redouble,
+Le bois est tout en feu, l'air se fend & se trouble.
+Quel horrible spectacle apparoist en ces lieux !
+
+-*who_laduchesse
+Pour nous en exempter, Sanche, fermons les yeux.
+
+**** *book_ *id_body-703 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_unvieillard
+Lirgandée est mon nom, je suis ce formidable
+Qui fait trembler le Diable,
+Ennemy conjuré des actes glorieux :
+C'est moy qui l'autre jour transformay Dulcinée
+En paysane obstinée,
+Et qui privay Quichot de l'object de ses yeux.
+
+-*who_domquichot
+Traistre, qu'en cet endroit⁎ ta malice⁎ fut noire !
+
+-*who_laduchesse
+Sanche, qu'en dites-vous ? oseriez-vous décroire
+La pure verité de cet enchantement,
+Et persuader encor dans vostre sentiment⁎?
+
+-*who_sanche
+Madame, je voy bien qu'il faut que je me rende,
+Et que j'avoüe encor que mon erreur fut grande :
+Mais si vous aviez veu comme elle se fit,
+Vous auriez de la peine à croire ce qu'il dit.
+
+-*who_leduc
+Le bruit revient encor & plus épouvantable,
+Et plus grand que tantost.
+
+-*who_sanche
+      Meurs pauvre miserable !
+
+-*who_domquichot
+Que crains-tu mal-heureux ?
+
+-*who_sanche 
+      Mais que ne crains-je pas ?
+J'en voudrois estre quite à cent coups d'eschalas.
+
+**** *book_ *id_body-704 *act_ *date_1640 *creator_guerin_de_bouscal
+Je suis le grand Alquif, l'Enfer est ma demeure,
+La magie & l'horreur sont mes plus doux esbats :
+Je changeay l'autre jour dans un demy quart d'heure
+En asnes trois chevaux, & trois selles en bats
+A la barbe de Sanche
+Qui venoit de la Manche.
+
+-*who_domquichot
+Qui pourroit resister contre tant d'ennemis
+Apres ce que tu vois ? Parle Sanche mon fils,
+Douteras-tu jamais de ces metamorphoses
+Que font les Enchanteurs contre l'ordre des choses ?
+
+-*who_sanche
+Je doute encore un peu de celles des moulins.
+
+-*who_leduc 
+Ces Enchanteurs icy sont pourtant des plus fins.
+
+-*who_sanche
+Pour celle des moutons, je ne la sçauroy croire.
+
+-*who_leduc
+Vous n'en sçauriez douter sans démentir l'histoire :
+Mais qu'est-ce que j'entens encore dans le bois ?
+
+-*who_laduchesse
+Je tremble, je fremis.
+
+-*who_sanche
+      Que de peurs à la fois !
+
+-*who_domquichot
+Vous craignez sans raison.
+
+-*who_leduc
+      Quelle estrange figure !
+
+-*who_sanche
+Dieu ! finissez ma vie avec cette aventure.
+
+**** *book_ *id_body-705 *act_ *date_1640 *creator_guerin_de_bouscal 
+
+-*who_unautrevieillard
+Je suis Archelaus, cet insigne Enchanteur,
+De qui le Diable a peur :
+Ennemy d'Amadis & de toute sa race⁎,
+Je changeay l'autre jour trois robes de velous
+En de pauvres lambeaux, trois brides en licous,
+En faucilles trois arcs, trois trousses⁎ en filasse.
+
+-*who_domquichot
+Tu vois combien de gens conspirent contre moy.
+
+-*who_sanche
+Si j'en eusse esté creu, vous vous fussiez fait Roy,
+Vous eussiez espousé cette derniere Reine,
+Et nous serions tous deux à present hors de peine.
+
+-*who_domquichot
+Ne me parle jamais de changer de desir.
+
+-*who_sanche
+Si vous souffrez du mal, c'est pour vostre plaisir.
+C'est moy seul que je plains dedans cette aventure,
+Moy, moy que vos pechez mettent à la torture,
+Et qui souffre par force.
+
+-*who_domquichot
+      Il faut le confesser,
+La piece réussit mieux qu'on n'eust pû penser :
+Mais par là nostre fou s'affermit davantage
+Dans le dessein qu'il a de n'estre jamais sage.
+
+-*who_leduc
+Luy descouvrant la fourbe⁎ il se corrigera.
+
+-*who_lebarbier
+Je pense que Dieu seul connoist⁎ ce qu'il fera :
+Mais si nous l'attrapons, il aura de la peine
+A revenir jamais faire le Capitaine.
+
+-*who_domquichot
+Je doy donques sçavoir en quel temps & comment
+Je pourray mettre fin à cet enchantement :
+Je te doy donques voir, ma chere Dulcinée,
+Et de grace & de pompe encore environnée.
+Il me sera permis d'adorer tes appas,
+Et je pourray baiser la trace de tes pas.
+Heureux tous mes travaux⁎, heureuse ma souffrance,
+Bien-heureux mon dédain & ma perseverance,
+S'il est vray que par eux je doy gagner un bien
+Qui me met en estat de ne desirer rien.
+
+-*who_sanche
+Mais quel est donc ce bien ? est-ce un puissant Empire ?
+
+-*who_domquichot
+C'est encor beaucoup plus, c'est ce que je desire.
+
+-*who_sanche
+Je ne vous entens point, mais j'entens dans le bois
+Un concert agreable & de luths & de voix.
+
+-*who_leduc
+Vray'ment Sanche a raison.
+
+-*who_laduchesse
+      L'agreable musique !
+
+-*who_sanche
+Elle est à mon avis un peu melancholique⁎.
+
+-*who_dulcinee
+Valons affreux, solitaires montagnes,
+Sources, antres, rochers, où le silence dort,
+Hostes cruels des bois & des campagnes, sort.
+Vous estes moins, vous estes moins sauvages que mon
+
+-*who_laduchesse 
+Pourtant cette chanson n'est pas trop mal chantée.
+
+-*who_leduc
+Elle est bien au contraire.
+
+-*who_sanche
+      Est-ce nostre enchantée ?
+
+-*who_laduchesse
+C'est elle sans faillir.
+
+-*who_sanche
+      Donc à ce que je voy,
+Il est quelques démons qui sont de bonne foy ?
+Puisqu'ils tiennent parole, ah ! je soy miserable
+Si je dy jamais plus, menteur comme le Diable.
+Ah qu'elle chante bien ! qu'elle a gagné mon coeur
+L'Infante du Tobose !
+
+-*who_domquichot
+      Ah qu'elle a de douceur !
+
+**** *book_ *id_body-706 *act_ *date_1640 *creator_guerin_de_bouscal 
+
+-*who_leduc
+Mais la voicy venir sur le Char de l'Aurore.
+
+-*who_domquichot
+Adorable beauté souffre que je t'adore.
+
+-*who_sanche
+Grace, grace, Madame, à ce pauvre innocent.
+
+-*who_merlin
+Levez-vous, je le veux, & Madame y consent.
+Je suis ce grand Merlin, qu'on chante dans la fable
+Pour fils aisné du Diable :
+Je fus tousjours amy des Chevaliers errans ;
+C'est pour eux que je vy dans le siecle où nous sommes,
+Et tous les autres hommes
+Me sont indifferens.
+J'ay veu du plus profond de mon antre effroyable
+Le destin lamentable
+De cette pauvre Infante & de son cher amant,
+Et je veux aujourd'huy leur apprendre un mystere
+Pour sortir de misere,
+Et finir leur tourment.
+A toy donc Chevalier, la gloire de la Manche,
+Digne maistre de Sanche,
+En qui les Enchanteurs ont mis tout ton recours ;
+A toy, dis-je, le Nort des braves de l'Espagne,
+Que l'honneur accompagne,
+S'adressent mes discours.
+Si tu veux delivrer cette charmante Reine,
+Et toy-mesme de peine,
+Sanche se doit donner dans deux ou trois matins
+Trois mille coups de foüet, ou s'il veut d'estriviere
+Sur son puissant derriere ;
+C'est l'arrest des Destins.
+
+-*who_sanche
+Trois mille coups de foüet, me le donner moy-mesme !
+Qui peut l'imaginer sa folie est extresme,
+Et si le bon Merlin n'a point d'autre moyen
+Pour guerir Dulcinée, il ne tient ma foy rien.
+Quel diable de remede ! ah venerable Alonse
+Se foüette qui voudra, quant à moy j'y renonce.
+
+-*who_domquichot 
+Si vostre esprit rebours se plaist à m'irriter,
+Je vous les donneray premier que vous quiter.
+
+-*who_merlin
+Je l'entens autrement, mais pourtant Sanche Pance
+Dans cette penitence
+Peut emprunter la main de l'Escuyer du Bois,
+Qui luy sangle le dos d'une belle methode,
+Mais tousjours à sa mode,
+Et par diverses fois.
+
+-*who_lebarbier
+Je suis prest d'accepter cette charge honorable.
+
+-*who_sanche
+Vous estes, Monseigneur, un peu trop charitable ;
+Mais si vous desirez de me plaire en ce poinct,
+Allez-vous-en au Diable, & ne revenez point.
+Quant à moy je sçay bien qu'il n'est point d'éloquence
+Qui me puisse obliger à cette penitence :
+Et je redis encor que si le bon Merlin
+N'a rien plus à nous dire, il n'est pas beaucoup fin.
+
+-*who_laduchesse
+N'aurez-vous point pitié d'une Reine si belle ?
+
+-*who_sanche 
+Mon maistre Dom Quichot doit s'écorcher pour elle,
+Et non pas moy, maudit, qui ne la connoist pas :
+Il la nomme à tous coups, ma vie, mon trepas,
+Mon ame, mon soustien, mon tout, mon esperance :
+Qu'il la delivre donc par sa propre souffrance,
+Et me laisse joüir de mon gouvernement,
+Sans broüiller mon esprit dans cet enchantement.
+
+-*who_dulcinee
+Insensible Escuyer, ame barbare & basse,
+Honte de ton village, & digne de ta race⁎!
+Si l'on te commandait de courir au trespas,
+Ou bien de te jetter d'un haut clocher en bas,
+D'avaler des crapaux, de manger des viperes,
+D'égorger tes enfans & ta femme & tes freres,
+Et d'en humer le sang encore tout fumant,
+La repugnance auroit un peu de fondement.
+Mais faire si grand cas de ce qu'on te propose
+Trois mille coups de foüet, & c'est si peu de chose,
+Il n'est point d'escolier au College aujourd'huy
+Qui n'en ait veu tomber trois fois autant sur luy.
+Ah combien nos Neveux⁎ auront de peine à croire
+Une si lamentable & si honteuse histoire !
+Et tout par ton defaut, gros larron, gros mastin,
+Je croy bien qu'apres tout tu te rendras enfin,
+Et que les pleurs ardens que je verse sans cesse,
+Amoliront ton coeur, & vaincront ta rudesse :
+C'est aussi pour cela que le sage Merlin
+M'a permis de quiter mon gros habit de lin,
+Et de parestre icy sous ma propre figure :
+Mais si tous les attraits que j'ay de la Nature
+Ne peuvent t'esmouvoir, voy d'un œil de pitié
+Ton maistre dont le cœur se fend par la moitié,
+Dont l'ame est sur la langue, & desja toute preste
+A faire une funeste & piteuse retraite ;
+Respons-luy mal-heureux, haste-toy de parler,
+Mais au moins ne dy rien que pour le consoler.
+
+-*who_domquichot
+Dulcinée a raison, mon ame est dans ma bouche ;
+Ainsi qu'un pois sucré je la sens, je la touche.
+
+-*who_laduchesse
+Que dit à cela Sanche ?
+
+-*who_sanche
+      Il dit, il ne dit rien,
+Et fera moins encor, mais il s'estonne bien
+De se voir conjurer par des termes de Diable
+A faire une action purement charitable :
+Je voudroy bien sçavoir de vostre Majesté,
+Madame, de Merlin & du char enchanté,
+D'où vous avez appris cette belle maniere
+De resoudre le monde à des coups d'estriviere?
+Qu'ay-je à faire de vous ? quand vostre enchantement
+Ne se devroit finir qu'à vostre enterrement,
+En seroy-je plus pauvre ? & vous ay-je enfantée
+Pour souffrir tant de mal de vous voir enchantée ?
+Demeurez en l'estat jsuqu'à vostre trespas,
+Si je m'en plains jamais, qu'on me rompe les bras.
+
+-*who_merlin
+Puisque le brave Sanche est si fort en cholere,
+Et qu'on ne peut rien faire
+Pour l'execution d'un si noble dessein,
+Achevez le combat, pour moy je me retire,
+Et je m'en vay vous dire
+Adieu jusqu'à demain.
+
+-*who_domquichot
+Quoy vous m'abandonnez, mon ame, ma pensée,
+Et je ne verray point ma foy recompensée ?
+Beau soleil de mon coeur, me laissez-vous ainsi
+Plongé dans une nuict de deuil⁎ & de soucy⁎?
+O belle fugitive ! ô passagere Aurore !
+Revenez éclairer celuy qui vous adore,
+Rendez-moy le bon-heur que vous m'avez osté,
+Ou souffrez qu'à jamais je perde la clarté,
+Ne m'aborde jamais si tu ne hais la vie.1
+
+-*who_sanche
+Monsieur, cet Escuyer.
+
+-*who_domquichot
+      Laisse-moy je te prie.
+
+-*who_lebarbier
+A moy, Sanche.
+
+-*who_sanche
+      Monsieur, je feray tout pour vous,
+Mais chassez ce grand nez.
+
+-*who_lebarbier
+      Ces armes sont pour nous.
+
+-*who_domquichot
+Des-enchanteras-tu la pauvre Dulcinée ?
+
+-*who_sanche
+Oüy.
+
+-*who_domquichot
+      Mais certainement :
+
+-*who_sanche
+      Ma parole est donnée.
+
+-*who_domquichot 
+Escuyer au grand nez, mettez les armes bas,
+Sanche ne se bat point, car je ne le veux pas.
+
+-*who_sanche
+Si Monsieur l'eust voulu, vous eussiez pû connestre
+Que j'ay du sang au front.
+
+-*who_lebarbier
+      Cela pourroit bien estre.
+
+-*who_domquichot
+Si tu le veux pourtant, je le veux bien aussi.
+
+-*who_sanche
+Que vous m'entendez mal ! je le menace ainsi
+Pour faire le meschant ; mais je n'ay d'autre envie
+Que de fuir le combat pour conserver ma vie.
+
+-*who_domquichot
+Je t'entens maintenant.
+
+-*who_sanche
+      Escuyer mon amy,
+N'esveillez point le chien lors qu'il est endormy,
+Vous pourriez esprouver que sa dent est funeste.
+
+-*who_domquichot 
+Suffit, paix mes amis, achevons ce qui reste.
+
+-*who_leduc
+Valeureux Chevaliers, puisqu'un rude combat
+Doit finir aujourd'huy vostre fameux debat,
+Et mesme que Merlin l'a jugé necessaire,
+Je croy qu'il est fort bon que nous vous laissions faire.
+Adieu donc, & surtout combatez franchement.
+
+**** *book_ *id_body-707 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_domquichot
+Il faut en ce combat nous servir de nos armes.
+
+-*who_domquichot
+Tout ce qui vous plaira, mais n'usons point de charmes⁎.
+
+-*who_domquichot
+Je suis homme de bien.
+
+-*who_domlope 
+      Allez plus loin de nous.
+
+-*who_domquichot
+Esloignez-vous aussi.
+
+-*who_lebarbier
+      Prenez bien garde à vous.
+
+-*who_domquichot
+Au secours Dulcinée.
+
+-*who_domquichot
+      A moy Calsildée.
+Je tombe par mal-heur.
+
+-*who_domquichot
+      La querelle est vuidée,
+Rendez-vous Chevalier.
+
+-*who_domquichot
+      Dieu ! le coeur me defaut⁎.
+
+-*who_sanche
+Que je crain ce Demon !
+
+-*who_domquichot
+      Rendez-vous, il le faut.
+
+-*who_sanche 
+Mais que voy-je ? mon maistre a gagné la victoire.
+
+-*who_domquichot
+Ostons-luy cet armet. Mes yeux dois-je vous croire ?
+Quoy ? mon amy Dom Lope, est-ce vous que je voy ?
+
+-*who_sanche
+Il est évanoüy, mais c'est luy, je le croy.
+
+-*who_domquichot
+Pers cette opinion, ce n'est que son image,
+Un meschant Enchanteur aura pris son visage
+Pour rompre ma cholere & m'amolir le coeur,
+Ayant desja préveu que je seroy vainqueur.
+
+-*who_sanche
+Si la chose est ainsi, plongez-luy vostre lame
+Dans le milieu du corps pour en arracher l'ame :
+Luy mort, moins d'ennemis.
+
+-*who_domquichot
+      Ton conseil est fort bon.
+
+-*who_lebarbier
+Ah Seigneur Dom Quichot ! pardon, Seigneur pardon ;
+C'est vostre grand amy, Dom Lope de la Manche,
+Et je suis le Barbier.
+
+-*who_domquichot
+      Que sera cecy, Sanche ?
+
+-*who_sanche
+Je pense qu'il dit vray.
+
+-*who_domquichot
+      Voyons-le de plus prés.
+
+-*who_sanche
+C'est luy, n'en doutez plus, qu'avez-vous fait du nés ?
+
+-*who_lebarbier
+Je l'ay dans ma pochette.
+
+-*who_sanche
+      Ah la belle aventure !
+Mais Dom Lope revient⁎.
+
+-*who_domquichot
+      Va dans la sepulture,
+Ou demeure d'accord de tout ce que j'ay dit.
+
+-*who_domquichot
+Vous me le commandez, & cela me suffit.
+
+-*who_lebarbier 
+Et bien, apres cecy, que dites-vous, Dom Lope ?
+N'avoy-je pas tantost bien fait vostre horoscope ?
+Et quand je vous disois qu'il ne faisoit pas bon
+Se joüer à des fous, n'avoy-je pas raison ?
+Vous vous en souviendrez.
+
+-*who_domquichot
+      Aidez-moy je vous prie,
+Et ne m'affligez point par vostre raillerie :
+J'ay l'un des bras démis.
+
+**** *book_ *id_body-708 *act_ *date_1640 *creator_guerin_de_bouscal
+
+-*who_sanche
+      Le Duc revient icy.
+
+-*who_domquichot
+Enfin, nostre combat a fort bien réussi :
+Mais les enchantemens s'opposent à ma gloire :
+On dit que c'est Dom Lope.
+
+-*who_leduc
+      Il vous le faut bien croire,
+Puisque c'est luy sans doute⁎.
+
+-*who_sanche
+      Et ce sien Escuyer,
+A ce que je puis voir, est aussi le Barbier.
+
+-*who_leduc
+Il n'en faut point douter.
+
+-*who_domquichot
+      Quelles metamorphoses !
+
+-*who_leduc
+Je pretens bien encor vous monstrer d'autres choses :
+Sortez monsieur le Diable.
+
+-*who_lediable
+      On m'a donné ce nom
+Qui ne convenoit point avec mon innocence.
+On dit que les laquais sont diables tout de bon,
+Mais ce n'est pas bien ma creance⁎ :
+Ainsi valeureux Dom Quichot,
+Si vous me croyez tel, vous estes un grand sot.
+
+-*who_leduc 
+Paroissez Lirgandée.
+
+-*who_lirgandee
+      Enfin il le faut dire,
+Je ne suis rien moins qu'Enchanteur,
+Je n'en pris l'habit que pour rire ;
+Et quoy que Sanche en eust bien peur,
+Et que sa peur me plût, je desire qu'il sçache
+Ce que ce masque cache.
+
+-*who_leduc
+Monstrez-vous grand Alquif.
+
+-*who_alquif
+      Sous cette barbe blanche
+J'ay trompé Dom Quichot & Sanche,
+Qui m'ont pris pour un Enchanteur :
+Mais je veux leur faire connestre
+Qu'on peut souvent parestre,
+Et n'estre pas Docteur.
+
+-*who_leduc
+Archelaus, c'est à vous.
+
+-*who_archelaus
+      Couple de fous celebres !
+Je me suis déguisé pour me moquer de vous :
+Mais dans les plus noires tenebres,
+Si vous n'eussiez esté des fous,
+Vous pouviez bien me reconnestre,
+Et voir que cette barbe avoit eu plus d'un maistre.
+
+-*who_leduc
+Hola ! Seigneur Merlin.
+
+-*who_merlin
+      Je ne resiste pas
+A monstrer mon corps veritable,
+Je ne suis pas enfant du Diable,
+Ny ce grand Enchanteur dont on fait tant de cas :
+Et qui veut sur ce point en sçavoir davantage,
+Consulte mon visage.
+
+-*who_leduc
+Madame Dulcinée.
+
+-*who_dulcinee
+      On veut que je me montre,
+Et je n'y veux pas resister :
+Mais si dedans cette rencontre⁎
+On vouloit encor persister
+A croire que je suis l'Infante du Tobose,
+Ce seroit estrange chose.
+
+-*who_leduc 
+Sur cela, Dom Quichot, je vous baise les mains.1
+
+-*who_laduchesse
+Ainsi tousjours le Ciel responde à vos desseins.
+
+-*who_domquichot
+Puissiez-vous quelque jour devenir un peu sage.
+
+-*who_lebarbier
+Vous puissé-je razer dedans nostre village.
+
+-*who_sanche
+Que tousjours la victoire accompagne vos pas !
+
+-*who_domquichot
+Sanche en cet accident ne m'abandonne pas.
+
+-*who_sanche
+Que ferons-nous enfin si tout nous est contraire ?
+
+-*who_domquichot
+Je croy certainement que dans tout cet affaire
+De meschans Enchanteurs ont fasciné⁎ nos yeux,
+Retournons chez le Duc, où nous le sçaurons mieux.
+
+-*who_sanche
+Vray'ment s'il est ainsi, le pauvre Sanche Pance
+Est à ce que je voy bien loin de ce qu'il pense :
+Je croyois de tenir un bon gouvernement,144
+Et sans supercherie & sans enchantement,
+De regner dans une isle, où trois de mes paroles
+Me feroient apporter deux cens muids⁎ de pistoles⁎,
+Où je pourrois manger & boire tout mon sou
+Sans conter avec l'hoste, & sans payer un sou :
+Mais je ne sçay comment mon isle est submergée,
+Ou bien pour mes pechez le Diable l'a mangée ;
+Que puisse-t-elle enfin estrangler ce gourmand !
+
+-*who_domquichot
+Ne vous tourmentez point, suivez-moy seulement.
+
+-*who_sanche
+Allons où vous voudrez, Sanche n'est pas capable
+De vous abandonner, allassiez-vous au Diable :
+Poursuivez seulement le dessein d'estre Roy,
+Je vous responds tousjours de mon asne & de moy.

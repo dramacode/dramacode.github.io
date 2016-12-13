@@ -49,7 +49,7 @@
   <text>
     <body>
       <head>MANLIUS <lb/>TRAGI-COMEDIE.</head>
-      <div xml:id="epitre">
+      <div xml:id="epitre" type="dedication">
         <head>A <hi rend="b">MADEMOISELLE</hi></head>
         <p>MADEMOISELLE,</p>
         <p rend="i">Les hommages que vostre ALTESSE ROYALE reçoit tous les jours, me deffendent presque d’esperer, que mes respects ne puissent trouver place parmy la foule des Illustres* adorateurs de vostre Vertu : Je crains avec raison, ce me semble, d’estre étouffée dans cette <ref target="#glorieux">glorieuse*</ref><ref target="#presse">presse*</ref>. Mais il faut oser quelque chose pour s’acquitter de son devoir, et toutes les Augustes qualitez de vostre Personne Royale, ont fait une si douce violence à nostre jeune Manlius, que, sans considerer ses deffauts, il vient audacieusement se jeter aux pieds de la plus merveilleuse Princesse qui soit aujourd’huy dans le monde. En vain je luy ay representé qu’en ces rencontres, il faut pour le moins estre conduit par ces grands Auteurs que leur merite a rendus les Roys du Théatre; Que dans une si haute entreprise les applaudissements vulgaires  sont un foible appuy, &amp; que les lumieres de vôtre ALTESSE ROYALE ne trouvent rien qu’elles ne penetrent. </p>
@@ -71,7 +71,7 @@
         <p rend="right">&amp; tres-soûmise servante,</p>
         <p rend="right">DES JARDINS.</p>
       </div>
-      <div xml:id="personnages">
+      <div xml:id="personnages" type="set">
         <head>PERSONNAGES.</head>
       </div>
       <div type="act" xml:id="I">
@@ -2273,7 +2273,7 @@
           </sp>
         </div>
       </div>
-      <div>
+      <div type="appendix">
         <head>Extrait du Privilege du Roy.</head>
         <p>Par grace &amp; privilege du Roy, donné à Paris le 28. Septembre 1662, signé GUYTONNEAU. Il est permis à Claude Barbin, Marchand Libraire à Paris, de faire imprimer une piece de Theatre intitulée <hi rend="i">Manlius Torquatus</hi>, pendant l’espace de sept années, &amp; deffences sont faites à tous autres de l’imprimer, sur peine de deux mille livres d’amende, &amp; de tous dépens dommages et interests, comme il est porté plus amplement par lesdites Lettres.</p>
         <p>Et ledit Barbin a fait part du present Privilege à Gabriel Quinet, &amp; Gabriel Quinet, à Guillaume de Luyne, pour en jouyr, suivant l’accord fait entr’eux.</p>

@@ -1,10 +1,54 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Divertissement royal, mêlé de Comédie, de Musique, et d'Entrée de Ballet</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>CELLF</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>CELLF / OBVIL</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>LABEX OBVIL</publisher>
+        <date when="2014"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_amants-magnifiques-livret/</idno>
+        <idno type="tei">http://svn.code.sf.net/p/theatre-classique/code/documents/moliere_amants-magnifiques-livret.xml</idno>
+        <availability status="restricted">
+          <licence target="OBVIL">License ?</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1670"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body rend="not-i">
+      <head>LE DIVERTISSEMENT ROYAL</head>
       <div xml:id="I">
+        <head>AVANT-PROPOS</head>
         <p>Le ROI qui ne veut que des choses extraordinaires dans tout ce qu’il entreprend, s’est proposé de donner à sa Cour un Divertissement qui fût composé de tous ceux que le Théâtre peut fournir ; et pour embrasser cette vaste Idée, et enchaîner ensemble tant de choses diverses, SA MAJESTÉ a choisi pour sujet deux Princes Rivaux, qui dans le champêtre séjour de la Vallée de Tempé, où l’on doit célébrer la Fête des Jeux Pythiens, régalent à l’envi une jeune Princesse et sa Mère, de toutes les galanteries dont ils se peuvent aviser.</p>
       </div>
       <div xml:id="II">
+        <head>PREMIER INTERMÈDE</head>
         <sp xml:id="II-1" who="eole">
           <l n="1" xml:id="l1">Vents, qui troublez les plus beaux jours,</l>
           <l n="2" xml:id="l2">Rentrez dans vos grottes profondes ;</l>
@@ -75,11 +119,19 @@
           <l n="51" xml:id="l51">C’est le moyen d’avoir Neptune favorable.</l>
         </sp>
       </div>
-      <div xml:id="III"/>
-      <div xml:id="IV"/>
-      <div xml:id="V"/>
+      <div xml:id="III">
+        <head>LE PREMIER ACTE de la Comédie</head>
+      </div>
+      <div xml:id="IV">
+        <head>SECOND INTERMÈDE</head>
+      </div>
+      <div xml:id="V">
+        <head>LE SECOND ACTE de la Comédie</head>
+      </div>
       <div xml:id="VI">
+        <head>TROISIÈME INTERMÈDE</head>
         <div type="scene" xml:id="prologue">
+          <head>PROLOGUE</head>
           <sp xml:id="VI01-1" who="nymphe-tempe">
             <l n="52" xml:id="l52">Venez grande Princesse avec tous vos appas,</l>
             <l n="53" xml:id="l53">Venez prêter vos yeux aux innocents ébats</l>
@@ -90,6 +142,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI02">
+          <head>SCÈNE PREMIÈRE</head>
           <sp xml:id="VI02-1" who="tircis">
             <l n="58" xml:id="l58">Vous chantez sous ces feuillages,</l>
             <l n="59" xml:id="l59">Doux rossignols pleins d’amour,</l>
@@ -101,6 +154,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI03">
+          <head>SCÈNE DEUXIÈME</head>
           <sp xml:id="VI03-1" who="licaste">
             <l n="65" xml:id="l65">Hé quoi toujours languissant, sombre, et triste ?</l>
           </sp>
@@ -182,6 +236,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI04">
+          <head>SCENE TROISIÈME</head>
           <sp xml:id="VI04-1" who="caliste">
             <lg>
               <l n="95" xml:id="l95">Ah que sur notre cœur</l>
@@ -223,6 +278,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI05">
+          <head>SCÈNE QUATRIÈME</head>
           <sp xml:id="VI05-1" who="tircis">
             <l n="124" xml:id="l124">Vers ma belle ennemie</l>
             <l n="125" xml:id="l125">Portons sans bruit nos pas,</l>
@@ -295,6 +351,7 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI06">
+          <head>SCÈNE CINQUIÈME</head>
           <sp xml:id="VI06-1" who="satyre">
             <l n="166" xml:id="l166">Quoi tu me fuis ingrate, et je te vois ici</l>
             <l n="167" xml:id="l167">De ce Berger à moi faire une préférence ?</l>
@@ -331,6 +388,9 @@
           </sp>
         </div>
         <div type="scene" xml:id="VI07">
+          <head>
+            <hi rend="i">DÉPIT AMOUREUX</hi>
+          </head>
           <sp xml:id="VI07-1" who="philinte">
             <l n="188" xml:id="l188">Quand je plaisais à tes yeux</l>
             <l n="189" xml:id="l189">J’étais content de ma vie,</l>
@@ -416,12 +476,23 @@
           </sp>
         </div>
       </div>
-      <div xml:id="VII"/>
-      <div xml:id="VIII"/>
-      <div xml:id="IX"/>
-      <div xml:id="X"/>
-      <div xml:id="XI"/>
+      <div xml:id="VII">
+        <head>LE TROISIÈME ACTE de la Comédie</head>
+      </div>
+      <div xml:id="VIII">
+        <head>QUATRIÈME INTERMÈDE</head>
+      </div>
+      <div xml:id="IX">
+        <head>LE QUATRIÈME ACTE de la Comédie</head>
+      </div>
+      <div xml:id="X">
+        <head>CINQUIÈME INTERMÈDE</head>
+      </div>
+      <div xml:id="XI">
+        <head>LE CINQUIÈME ACTE de la Comédie</head>
+      </div>
       <div xml:id="XII">
+        <head>SIXIÈME INTERMÈDE,</head>
         <sp xml:id="XII-1" who="pretresse">
           <l n="239" xml:id="l239">Chantez, peuples, chantez en mille et mille lieux</l>
           <l n="240" xml:id="l240">Du Dieu que nous servons les brillantes merveilles,</l>

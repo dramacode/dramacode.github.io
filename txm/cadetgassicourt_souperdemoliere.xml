@@ -1,0 +1,1568 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Souper de Molière, ou La Soirée d'Auteuil. Fait historique en un acte, mêlé de vaudevilles.</title>
+        <author key="Cadet de Gassicourt, Charles-Louis (1769-1821)">Cadet de Gassicourt</author>
+        <principal>Georges Forestier</principal>
+        <editor>Emmanuelle Taton</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Emmanuelle Taton dans le cadre d'un mémoire de
+      master 1 sous la direction de Georges Forestier (2013-2014)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/cadet-gassicourt_souper-moliere/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/cadet-gassicourt_souper-moliere.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/cadet-gassicourt_souper-moliere.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/cadet-gassicourt_souper-moliere.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/cadet-gassicourt_souper-moliere.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1795"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Fait historique en un acte, mêlé de vaudevilles</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>LE SOUPER DE MOLIERE, <lb/>OU <lb/>LA SOIRÉE D’AUTEUIL, <lb/>FAIT HISTORIQUE EN UN ACTE, MÊLÉ DE VAUDEVILLES </head>
+      <div xml:id="acteurs">
+        <pb n="1" xml:id="p1"/>
+        <head>PERSONNAGES. <lb/>ACTEURS.</head>
+        <p rend="right">Les CC. Et Cnes.</p>
+        <pb n="2" xml:id="p2"/>
+      </div>
+      <div xml:id="I" type="act">
+        <head>LE SOUPER DE MOLIERE, COMÉDIE.</head>
+        <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE.</head>
+          <sp xml:id="I01-1" who="laforest">
+            <p>ALLONS, Antoine, laisse-moi ; nous avons du monde ce soir, et je n’ai pas plus de tems qu’il ne m’en faut...</p>
+          </sp>
+          <sp xml:id="I01-2" who="antoine">
+            <p>Pourquoi me faire languir ; par pitié dites-moi si je puis espérer d’obtenir ma chère Madelon.</p>
+          </sp>
+          <sp xml:id="I01-3" who="laforest">
+            <p>Je vois bien qu’il me faut débarrasser de toi… Eh bien ! oui, mon garçon ; tout est arrangé, et j’en ai la parole ; mais il faut te le dire : j’ai bien eu de la peine. Sans mon maitre, qui a promis de fouiller à l’<ref target="#escarcelle">escarcelle*</ref>, et de payer la dot de Madelon, ma foi je n’obtenois rien.<pb n="3 ; A2" xml:id="p3"/></p>
+          </sp>
+          <sp xml:id="I01-4" who="antoine">
+            <p>De payer la dot de Madelon ? Quel bienfait ! Allez, allez, mamzelle Laforest, je l’en remercierai bien, ce bon M. Molière... Madelon aussi... Si bien donc que son père ne voulait pas...</p>
+          </sp>
+          <sp xml:id="I01-5" who="laforest">
+            <p>Son père ! Oh ! si fait. Mathurin n’est pas un... harpagon. C'était sa mère qui refusait, parce que tu n’as pas beaucoup de ce qui se compte ; mais son mari lui a fait entendre raison ; car comme dit notre maitre : La poule ne doit pas chanter plus haut que le coq.</p>
+          </sp>
+          <sp xml:id="I01-6" who="antoine">
+            <p>Enfin Madelon sera ma femme ! quelle joie !... Elle est bien aimable, Madelon, n’est-ce pas ?</p>
+            <l n="1" xml:id="l1" rend="center">AIR : <hi rend="i">Anette à l’âge de 15 ans.</hi></l>
+            <l n="2" xml:id="l2" rend="center">Madelon est sans ornemens :</l>
+            <l n="3" xml:id="l3" rend="center">Nature a fait ses agremens.</l>
+            <l n="4" xml:id="l4" rend="center">La fleur que chaque jour fait voir</l>
+            <l n="5" xml:id="l5" rend="center">Est sa parure,</l>
+            <l n="6" xml:id="l6" rend="center">Et l’onde pure</l>
+            <l n="7" xml:id="l7" rend="center">Est son miroir.</l>
+          </sp>
+          <sp xml:id="I01-7" who="laforest">
+            <p><space/>Elle doit être bien contente ?</p>
+          </sp>
+          <sp xml:id="I01-8" who="antoine">
+            <p><space/>Sans doute, car je l’aime bien.</p>
+          </sp>
+          <sp xml:id="I01-9" who="laforest">
+            <p>Et puis, épouser le jardinier de M. Boileau ; dame, c’est bien flatteur !</p>
+            <l n="8" xml:id="l8" rend="center">AIR : <hi rend="i">Du haut en bas.</hi></l>
+            <l n="9" xml:id="l9" rend="center">Tiens, c’est un fait :</l>
+            <l n="10" xml:id="l10" rend="center">Veut-on savoir ce qu’est un maître,</l>
+            <l n="11" xml:id="l11" rend="center">Par son valet</l>
+            <l n="12" xml:id="l12" rend="center">On juge, dit-on, ce qu’il est.<pb n="4" xml:id="p4"/></l>
+            <l n="13" xml:id="l13" rend="center">Or moi qui pense m’y connaître,</l>
+            <l n="14" xml:id="l14" rend="center">Je crois qu’on juge par ton maître</l>
+            <l n="15" xml:id="l15" rend="center">De son valet.</l>
+          </sp>
+          <sp xml:id="I01-10" who="antoine">
+            <p>Ne croyez pas plaisanter ; nous nous écrivons, M. Boileau et moi.</p>
+          </sp>
+          <sp xml:id="I01-11" who="laforest">
+            <p>Peste !</p>
+          </sp>
+          <sp xml:id="I01-12" who="antoine">
+            <p>Et mon maître est le premier homme du monde, oui.</p>
+          </sp>
+          <sp xml:id="I01-13" who="laforest">
+            <p>Comme tu y vas, Antoine : et Molière donc ?</p>
+          </sp>
+          <sp xml:id="I01-14" who="antoine">
+            <p>Nous avons fait l’Art Poëtique.</p>
+          </sp>
+          <sp xml:id="I01-15" who="laforest">
+            <p>Nous avons fait le Misantrope, l’Avare !</p>
+          </sp>
+          <sp xml:id="I01-16" who="antoine">
+            <p>Et nous le Lutrin de la Sainte Chapelle !</p>
+          </sp>
+          <sp xml:id="I01-17" who="laforest">
+            <p>Et nous... le Tartuffe !</p>
+          </sp>
+          <sp xml:id="I01-18" who="antoine">
+            <p>Mon maître est plus habile.</p>
+          </sp>
+          <sp xml:id="I01-19" who="laforest">
+            <p>Le mien est plus fameux.</p>
+          </sp>
+          <sp xml:id="I01-20" who="antoine">
+            <p>Vous dites cela... parce qu’il vous consulte.</p>
+          </sp>
+          <sp xml:id="I01-21" who="laforest">
+            <p>Voici M. Mignard et M. Lulli ; je m’en rapporte à eux.</p>
+          </sp>
+          <sp xml:id="I01-22" who="antoine">
+            <p>Soit, je le veux bien.<pb n="5" xml:id="p5"/></p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
+          <sp xml:id="I02-1" who="mignard">
+            <p>ALLONS, mon ami, mettons-nous à l’ouvrage... Ah ! bonjour, Laforest.</p>
+          </sp>
+          <sp xml:id="I02-2" who="laforest">
+            <p><space/>Bonjour, M. Mignard.</p>
+          </sp>
+          <sp xml:id="I02-3" who="lulli">
+            <p><space/>Qu'as-tu donc ? Tu parais animée.</p>
+          </sp>
+          <sp xml:id="I02-4" who="laforest">
+            <p>C'est que, voyez-vous, nous disputions nous deux, Antoine, pour savoir qu’est-ce qui était le plus habile de M. Molière ou de M. Despreaux, et nous sommes convenus de nous en rapporter à vous.</p>
+          </sp>
+          <sp xml:id="I02-5" who="mignard">
+            <p><space/>La question n’est pas aisée à résoudre.</p>
+          </sp>
+          <sp xml:id="I02-6" who="lulli">
+            <p>Pourquoi ?</p>
+            <l n="16" xml:id="l16" rend="center">AIR : <hi rend="i">En revenant de la ville.</hi></l>
+            <l n="17" xml:id="l17" rend="center">Sur le sommet du Parnasse,</l>
+            <l n="18" xml:id="l18" rend="center">Où siège le dieu des arts,</l>
+            <l n="19" xml:id="l19" rend="center">La gloire a plus d’une place ;</l>
+            <l n="20" xml:id="l20" rend="center">Elle offre d’égales parts.</l>
+            <l n="21" xml:id="l21" rend="center">Dans le genre satyrique</l>
+            <l n="22" xml:id="l22" rend="center">Despreaux est sans rival,</l>
+            <l n="23" xml:id="l23" rend="center">Et sur la scène comique</l>
+            <l n="24" xml:id="l24" rend="center">Molière n’a point d’égal.</l>
+          </sp>
+          <sp xml:id="I02-7" who="laforest">
+            <p>Eh bien ! nous voilà d’accord.<pb n="6" xml:id="p6"/></p>
+          </sp>
+          <sp xml:id="I02-8" who="antoine">
+            <p>Je vais voir Madelon, et nous reviendrons ensemble remercier votre maître... Sans adieu.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
+          <sp xml:id="I03-1" who="lulli">
+            <p>TE troublerai-je en faisant de la musique ?</p>
+          </sp>
+          <sp xml:id="I03-2" who="mignard">
+            <p>Au contraire, tu m’animeras... Les arts sont frères, et ne peuvent se nuire.</p>
+            <p>Quel avantage de peindre un homme célèbre !... Un jour ceux qui n’auront pas eu le bonheur de connaître Molière, me sauront gré de leur avoir transmis son image : peut-être ils m’associeront à sa gloire, et ne diront pas : Voilà Molière ! ... sans ajouter, c’est Mignard qui l’a peint... Le bel art !</p>
+            <l n="25" xml:id="l25" rend="center">AIR : <hi rend="i">Les adieux de la mère républicaine, par le C. Piis.</hi></l>
+            <l n="26" xml:id="l26" rend="center">Ce fut de la main d’une femme</l>
+            <l n="27" xml:id="l27" rend="center">Que naquit cet art enchanteur ;</l>
+            <l n="28" xml:id="l28" rend="center">L'amour avait mis dans son ame</l>
+            <l n="29" xml:id="l29" rend="center">Un rayon de feu créateur.</l>
+            <l n="30" xml:id="l30" rend="center">Si cet enfant de la tendresse</l>
+            <l n="31" xml:id="l31" rend="center">Quelque jour était oublié,</l>
+            <l n="32" xml:id="l32" rend="center">Ah ! je sens à ma douce ivresse</l>
+            <l n="33" xml:id="l33" rend="center">Qu'il renaîtrait par l’amitié.</l>
+          </sp>
+          <sp xml:id="I03-3" who="lulli">
+            <p>Oui, l’air doit être grave... la mesure bien marquée...<pb n="7" xml:id="p7"/> Ces médecins dans leur épaisse fourrure ; ces <ref target="#apothicaire">apothicaires*</ref> dans leur figure blême, enterrée dans une perruque noire... tout cela marche à pas comptés, et la musique doit avoir une cadence bien prononcée... <hi rend="i">Sol, mi, sol, ut, ut, ré, sol, fa...</hi> C'est cela.</p>
+            <l n="34" xml:id="l34" rend="center">AIR : <hi rend="i">De la marche du malade imaginaire.</hi></l>
+            <l n="35" xml:id="l35" rend="center i">Dignus, dignus est intrare</l>
+            <l n="36" xml:id="l36" rend="center i">In nostro, in nostro</l>
+            <l n="37" xml:id="l37" rend="center">
+              <hi rend="i">In nostro docto corporo.</hi>
+            </l>
+          </sp>
+          <sp xml:id="I03-4" who="mignard">
+            <p><space/>Bien, Lulli, très-bien.</p>
+          </sp>
+          <sp xml:id="I03-5" who="lulli">
+            <p>Ma foi, mon ami, soit dit sans vanité, je crois que nous ne nous sommes pas trompés sur notre vocation.</p>
+          </sp>
+          <sp xml:id="I03-6" who="mignard">
+            <p>J'ai mieux connu la mienne que ma famille.</p>
+          </sp>
+          <sp xml:id="I03-7" who="lulli">
+            <p>Qui voulait te faire médecin ?</p>
+          </sp>
+          <sp xml:id="I03-8" who="laforest">
+            <p>Comment donc ? Médecin ! Ah ! mon dieu.</p>
+          </sp>
+          <sp xml:id="I03-9" who="lulli">
+            <p><space/>Oui, Laforest : ne l’ai-je pas vu, pendant trois ans, suivre tous les pas d’un fameux docteur... en <hi rend="i">us</hi>, et faire avec lui toutes les visites, le pauvre garçon !</p>
+          </sp>
+          <sp xml:id="I03-10" who="mignard">
+            <p><space/>Ajoutes que j’emportais mes crayons avec moi... Un jour... ah ! l’aventure est digne d’être rapportée... Un jour...</p>
+            <l n="38" xml:id="l38" rend="center">AIR : <hi rend="i">Vaudeville des Chasseurs.</hi></l>
+            <l n="39" xml:id="l39" rend="center">Il me dictait une ordonnance</l>
+            <l n="40" xml:id="l40" rend="center">Près du lit d’un vieux moribond ;</l>
+            <l n="41" xml:id="l41" rend="center">Il nommait cent drogues, je pense,</l>
+            <l n="42" xml:id="l42" rend="center">Afin de paraître profond.<pb n="8" xml:id="p8"/></l>
+            <l n="43" xml:id="l43" rend="center">Quand il eut assez fait parade</l>
+            <l n="44" xml:id="l44" rend="center">De ses grands mots, de son savoir,</l>
+            <l n="45" xml:id="l45" rend="center">Il prend mon papier pour le voir...</l>
+            <l n="46" xml:id="l46" rend="center">C'était le portrait du malade.</l>
+          </sp>
+          <sp xml:id="I03-11" who="lulli">
+            <p>Ta vocation t’entraînait.</p>
+          </sp>
+          <sp xml:id="I03-12" who="mignard">
+            <p>Toi qui parles tant de vocation, tu as fait à la tienne une petite infidélité.</p>
+          </sp>
+          <sp xml:id="I03-13" who="lulli">
+            <p>Qui t’a dit cela ?</p>
+          </sp>
+          <sp xml:id="I03-14" who="mignard">
+            <p>Je le tiens de bonne part, et je vais le confier à Laforest (<hi rend="i">Laforest s’approche.</hi>) ... afin que tout le monde le sache.</p>
+          </sp>
+          <sp xml:id="I03-15" who="laforest">
+            <p>Vous me croyez donc bien indiscrète.</p>
+          </sp>
+          <sp xml:id="I03-16" who="mignard">
+            <p>Sois-le pour ceci. --- Dans sa dernière maladie, il a sacrifié, par dévotion, son nouvel ouvrage.</p>
+            <l n="47" xml:id="l47" rend="center">AIR : <hi rend="i">Alain était indifférent.</hi></l>
+            <l n="48" xml:id="l48" rend="center">Un adroit et saint confesseur,</l>
+            <l n="49" xml:id="l49" rend="center">Ennemi de la comédie,</l>
+            <l n="50" xml:id="l50" rend="center">Vint lui conter que tout auteur</l>
+            <l n="51" xml:id="l51" rend="center">Brûle à jamais dans l’autre vie.</l>
+            <l n="52" xml:id="l52" rend="center">Lulli, pénétré, soupira,</l>
+            <l n="53" xml:id="l53" rend="center">Et, dans une frayeur extrême,</l>
+            <l n="54" xml:id="l54" rend="center">Il a brûlé son opéra</l>
+            <l n="55" xml:id="l55" rend="center">Pour n’être pas brûlé lui-même.</l>
+          </sp>
+          <sp xml:id="I03-17" who="laforest">
+            <p><space/>C'est-il bien possible !</p>
+          </sp>
+          <sp xml:id="I03-18" who="lulli">
+            <l n="56" xml:id="l56" rend="center i">Même air.</l>
+            <l n="57" xml:id="l57" rend="center">Oui, mes amis, je l’avouerai :</l>
+            <l n="58" xml:id="l58" rend="center">Voyez jusqu’où la peur nous mène ;</l>
+            <l n="59" xml:id="l59" rend="center">A mon confesseur je livrai</l>
+            <l n="60" xml:id="l60" rend="center">Mon opéra de Polixène :<pb n="9" xml:id="p9"/></l>
+            <l n="61" xml:id="l61" rend="center">Me croyant certain de mourir,</l>
+            <l n="62" xml:id="l62" rend="center">Je craignais de paraître impie ;</l>
+            <l n="63" xml:id="l63" rend="center">Mais espérant bien en guérir,</l>
+            <l n="64" xml:id="l64" rend="center">J'en avois gardé la copie.</l>
+          </sp>
+          <sp xml:id="I03-19" who="mignard">
+            <p>Bravo ! Lulli ; je te pardonne, mon ami, je te pardonne, et ce soir à souper je veux te réhabiliter.</p>
+          </sp>
+          <sp xml:id="I03-20" who="lulli">
+            <p>A souper... ? Mais à propos, Laforest, pourquoi tous les apprêts que j’ai vus aujourd’hui ? Notre ami donnerait-il une fête ?</p>
+          </sp>
+          <sp xml:id="I03-21" who="laforest">
+            <p><space/>Sans doute, et vous l’approuverez.</p>
+          </sp>
+          <sp xml:id="I03-22" who="lulli">
+            <p>Que ne me disois-tu cela, j’aurais préparé quelque chose... Nous allons célébrer sa convalescence ?</p>
+          </sp>
+          <sp xml:id="I03-23" who="laforest">
+            <p>Nous allons à la noce.</p>
+          </sp>
+          <sp xml:id="I03-24" who="mignard">
+            <p>Comment à la noce ?</p>
+          </sp>
+          <sp xml:id="I03-25" who="laforest">
+            <p>Molière veut marier Madelon, sa petite jardinière, à Antoine, jardinier de M. Despreaux, notre voisin ; les parens y consentent, et ça sera pour demain.</p>
+          </sp>
+          <sp xml:id="I03-26" who="lulli">
+            <p>Ainsi donc, dans tous les temps, malade ou non, Molière fait toujours des mariages.</p>
+          </sp>
+          <sp xml:id="I03-27" who="mignard">
+            <p>Oui ; mais celui-ci ne ressemble pas aux autres.</p>
+            <l n="65" xml:id="l65" rend="center">AIR : <hi rend="i">Ainsi jadis un grand prophête.</hi></l>
+            <l n="66" xml:id="l66" rend="center">A ses amans, sur le théâtre,</l>
+            <l n="67" xml:id="l67" rend="center">Pour dot il donne de l’esprit,<pb n="10" xml:id="p10"/></l>
+            <l n="68" xml:id="l68" rend="center">Et de son talent idolâtre</l>
+            <l n="69" xml:id="l69" rend="center">L'esprit du public applaudit ;</l>
+            <l n="70" xml:id="l70" rend="center">Mais quand sa rare bienveillance</l>
+            <l n="71" xml:id="l71" rend="center">Enrichit deux cœurs bien épris,</l>
+            <l n="72" xml:id="l72" rend="center">Le sien trouve sa récompense</l>
+            <l n="73" xml:id="l73" rend="center">Dans le cœur de ses vrais amis.</l>
+          </sp>
+          <sp xml:id="I03-28" who="lulli">
+            <p>Ne vois-je point les deux futurs ?</p>
+          </sp>
+          <sp xml:id="I03-29" who="laforest">
+            <p>Justement.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
+          <sp xml:id="I04-1" who="mignard">
+            <p>GENTILLE Madelon, recevez mon compliment.</p>
+          </sp>
+          <sp xml:id="I04-2" who="madelon">
+            <p>Grand merci, Monsieur.</p>
+          </sp>
+          <sp xml:id="I04-3" who="lulli">
+            <p>C'est aujourd’hui le jour du bonheur !...</p>
+          </sp>
+          <sp xml:id="I04-4" who="madelon">
+            <p>Oui. J'venons en témoigner notre reconnaissance à qui nous l’devons.</p>
+          </sp>
+          <sp xml:id="I04-5" who="lulli">
+            <p>Et lui présenter des fleurs, tribut ordinaire d’un jardinier.<pb n="11" xml:id="p11"/></p>
+          </sp>
+          <sp xml:id="I04-6" who="antoine">
+            <p>Dites mieux, M. Lulli.</p>
+            <l n="74" xml:id="l74" rend="center">AIR : <hi rend="i">Ce mouchoir, belle Raimonde.</hi></l>
+            <l n="75" xml:id="l75" rend="center">Jardinier n’est pas mon titre,</l>
+            <l n="76" xml:id="l76" rend="center">Le mien m’fait bien plus d’honneur :</l>
+            <l n="77" xml:id="l77" rend="center">Mon maître, dans une epître,</l>
+            <l n="78" xml:id="l78" rend="center">M'appelle son gouverneur.</l>
+            <l n="79" xml:id="l79" rend="center">Et pour que chacun y pense,</l>
+            <l n="80" xml:id="l80" rend="center">Aux plus bell’ roses d’<hi rend="i">Auteuil</hi>,</l>
+            <l n="81" xml:id="l81" rend="center">J'mêle toujours d’préférence</l>
+            <l n="82" xml:id="l82" rend="center">Le p'tit brin de <hi rend="i">chèvrefeuil</hi>.</l>
+          </sp>
+          <sp xml:id="I04-7" who="mignard">
+            <p>Comment diable, Antoine, tu lis ton maître ?</p>
+          </sp>
+          <sp xml:id="I04-8" who="antoine">
+            <p>Sans doute, puisqu’il m’écrit.</p>
+          </sp>
+          <sp xml:id="I04-9" who="madelon">
+            <p>M. Molière est sûrement dans sa chambre... Viens ?</p>
+          </sp>
+          <sp xml:id="I04-10" who="laforest">
+            <p>Mes bons amis, Molière repose... Vous ne voudriez pas...</p>
+          </sp>
+          <sp xml:id="I04-11" who="antoine">
+            <p>Oh ! non : Dieu nous garde de le troubler ! Un homme qui fait tant de bien quand il veille, doit être tranquille quand il dort.</p>
+          </sp>
+          <sp xml:id="I04-12" who="mignard">
+            <p>Antoine est digne d’un bienfait, puisqu’il sait le sentir. Qu'il serait à souhaiter que tout le monde connût Molière comme nous le connoissons.</p>
+          </sp>
+          <sp xml:id="I04-13" who="laforest">
+            <p>Eh ! comment voulez-vous qu’on le connaisse ? On invente tant de choses contre lui.<pb n="12" xml:id="p12"/></p>
+            <l n="83" xml:id="l83" rend="center">AIR : <hi rend="i">Vaudeville de l’Officier de fortune.</hi></l>
+            <l n="84" xml:id="l84" rend="center">L'un prétend qu’il n’a pas de mérite,</l>
+            <l n="85" xml:id="l85" rend="center">L'autre dit qu’il a d’mauvaises mœurs,</l>
+            <l n="86" xml:id="l86" rend="center">Un autre cont’lui sollicite</l>
+            <l n="87" xml:id="l87" rend="center">Pour soutenir de plats auteurs ;</l>
+            <l n="88" xml:id="l88" rend="center">Mais se moquant d’la calomnie,</l>
+            <l n="89" xml:id="l89" rend="center">A tous leurs cris i' n répond rien :</l>
+            <l n="90" xml:id="l90" rend="center">Molier', qui s’montre aux coups de l’envie,</l>
+            <l n="91" xml:id="l91" rend="center">Se cache pour faire le bien.</l>
+          </sp>
+          <sp xml:id="I04-14" who="lulli">
+            <p>Cette semaine il a encore fait une belle action, que vous ignorez, j’en suis sûr.</p>
+          </sp>
+          <sp xml:id="I04-15" who="madelon">
+            <p>Ah ! de grace, racontez-nous-la.</p>
+          </sp>
+          <sp xml:id="I04-16" who="lulli">
+            <p>Bien volontiers. --- Un pauvre comédien, ancien camarade de Molière, vint, il y a trois jours, demander des secours pour gagner sa province... Baron était ici. -- Combien, dit Molière, faut-il lui donner ? -- Mais, répond Baron, quatre pistoles suffiront. -- Quatre pistoles... soit ; tenez, vous les lui remettrez pour moi ; mais en voici vingt que vous lui donnerez pour vous, et il joignit à ce présent un habit magnifique.</p>
+          </sp>
+          <sp xml:id="I04-17" who="antoine">
+            <p>Que de générosité !</p>
+          </sp>
+          <sp xml:id="I04-18" who="mignard">
+            <p>Quelle sublime leçon !</p>
+          </sp>
+          <sp xml:id="I04-19" who="laforest">
+            <p>Vous ne savez que cela, M. Lulli ? Bon ! Le lendemain ce fut bien autre chose. Un jeune homme de 19 ans, nommé Racine, avait remis à Molière un poëme pour avoir son avis. L'ouvrage était mauvais... Il me l’a lu. -- Mais Molière vit que le jeune homme pouvait mieux faire... Aussi, en rendant le poëme, il y cacha cent louis, et le plan d’une tragédie.<pb n="13" xml:id="p13"/></p>
+          </sp>
+          <sp xml:id="I04-20" who="mignard">
+            <p>Si Racine est célèbre un jour, et cela pourrait bien être, il se rappellera sans doute que c’est à Molière qu’il doit ses premiers encouragemens.</p>
+          </sp>
+          <sp xml:id="I04-21" who="antoine">
+            <p><space/>Madelon, il me vient une idée. Ne déposons pas ces fleurs dans son cabinet, comme c’était notre intention : faisons mieux.</p>
+          </sp>
+          <sp xml:id="I04-22" who="madelon">
+            <p>Tu as raison, mon ami...</p>
+          </sp>
+          <sp xml:id="I04-23" who="mignard">
+            <p>Dites-moi, mes enfans, ai-je bien réussi ?</p>
+            <l n="92" xml:id="l92" rend="center">AIR : <hi rend="i">Il est, il est, il est toujours le même.</hi></l>
+            <l n="93" xml:id="l93" rend="center">C'est lui ! c’est lui !</l>
+          </sp>
+          <sp xml:id="I04-24" who="antoine">
+            <l n="94" xml:id="l94" rend="center">Vraiment c’est bien lui-même :</l>
+            <l n="95" xml:id="l95" rend="center">Joyeuse humeur.</l>
+          </sp>
+          <sp xml:id="I04-25" who="madelon">
+            <l n="96" xml:id="l96" rend="center">Et c’tair plein de douceur.</l>
+          </sp>
+          <sp xml:id="I04-26" who="antoine">
+            <l n="97" xml:id="l97" rend="center">On devine son cœur,</l>
+            <l n="98" xml:id="l98" rend="center">Ce cœur que chacun aime.</l>
+          </sp>
+          <sp xml:id="I04-27" who="madelon">
+            <l n="99" xml:id="l99" rend="center">Sa bouche me sourit.</l>
+          </sp>
+          <sp xml:id="I04-28" who="lulli">
+            <l n="100" xml:id="l100" rend="center">Ses yeux sont pleins d’esprit.</l>
+          </sp>
+          <sp xml:id="I04-29" who="mignard lulli antoine laforest madelon">
+            <p>C'est lui ! c’est lui ! vraiment c’est bien lui-même !</p>
+          </sp>
+          <sp xml:id="I04-30" who="lulli">
+            <p>Il n’y a rien à désirer ; vérité, chaleur, dessin pur... Mignard ! tu me prouves par-là qu’on ne devrait donner qu’au vrai talent le droit de peindre le génie.<pb n="14" xml:id="p14"/></p>
+          </sp>
+          <sp xml:id="I04-31" who="laforest">
+            <p>On dirait qu’il va parler.</p>
+          </sp>
+          <sp xml:id="I04-32" who="madelon">
+            <p>En voyant son image, je sens mieux encore ma reconnaissance, et je voudrais avoir un peu de son esprit pour la lui exprimer.</p>
+          </sp>
+          <sp xml:id="I04-33" who="lulli">
+            <p>Le grand écrivain !</p>
+          </sp>
+          <sp xml:id="I04-34" who="antoine">
+            <p>Quelle bienfaisance !</p>
+          </sp>
+          <sp xml:id="I04-35" who="mignard">
+            <p>Quelle réunion de tous les talens ! de toutes les vertus !</p>
+            <p>Ah ! je le vois ! L'admiration, l’amitié, la reconnaissance n’ont ici qu’une même pensée...</p>
+            <l n="101" xml:id="l101" rend="center">AIR : <hi rend="i">Jeunes amans, ceuillez des fleurs.</hi></l>
+            <l n="102" xml:id="l102" rend="center">Reçois le prix mérité</l>
+            <l n="103" xml:id="l103" rend="center">Qu'aujourd’hui l’amitié te donne.</l>
+          </sp>
+          <sp xml:id="I04-36" who="lulli">
+            <l n="104" xml:id="l104" rend="center">Prévenons la postérité</l>
+            <l n="105" xml:id="l105" rend="center">Qui déjà tresse sa couronne.</l>
+          </sp>
+          <sp xml:id="I04-37" who="mignard lulli antoine laforest madelon">
+            <l n="106" xml:id="l106" rend="center">Couvrons des plus aimables fleurs,</l>
+            <l n="107" xml:id="l107" rend="center">Ornons son image chérie :</l>
+            <l n="108" xml:id="l108" rend="center">Puisse le sort, par ses faveurs,</l>
+            <l n="109" xml:id="l109" rend="center">En répandre ainsi sur sa vie.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I05">
+          <head>SCENE V.</head>
+          <sp xml:id="I05-1" who="moliere">
+            <p>MES amis ! mes enfans ! votre attachement vous égare. Est-ce ainsi qu’on doit idolâtrer les hommes ? Quelle erreur ! (<hi rend="i">avec satisfaction</hi>.) Mais elle est douce pour moi. J'ai reçu les faveurs de la fortune, quelquefois celles de la gloire... elles ne valent pas celles de l’amitié.  -- Eh bien ! Antoine, le jour de ton bonheur est-il enfin fixé ? Pourrais-je...</p>
+          </sp>
+          <sp xml:id="I05-2" who="antoine">
+            <p>Pour que vous en soyez le témoin, le père de Madelon consent à ce que la cérémonie ait lieu demain, et nous venons vous prier d’assister au serment mutuel que nous avons tant de plaisir à faire.</p>
+          </sp>
+          <sp xml:id="I05-3" who="lulli">
+            <p>Dis donc à renouveller, car vous vous aimez depuis long-temps.</p>
+          </sp>
+          <sp xml:id="I05-4" who="madelon">
+            <l n="110" xml:id="l110" rend="center">AIR : <hi rend="i">On dit que le mariage.</hi></l>
+            <l n="111" xml:id="l111" rend="center">Oui, messieurs, de sa tendresse</l>
+            <l n="112" xml:id="l112" rend="center">J'ai reçu le doux serment ;</l>
+            <l n="113" xml:id="l113" rend="center">Mais cette aimable promesse</l>
+            <l n="114" xml:id="l114" rend="center">Peut s’entendre à tout moment.</l>
+          </sp>
+          <sp xml:id="I05-5" who="lulli">
+            <l n="115" xml:id="l115" rend="center">Sans qu’ici je te l’expose,</l>
+            <l n="116" xml:id="l116" rend="center">Tu sauras, bientôt, je crois,</l>
+            <l n="117" xml:id="l117" rend="center">Qu'amour fait plus d’une chose</l>
+            <l n="118" xml:id="l118" rend="center">Qu'il aime à faire deux fois.</l>
+          </sp>
+          <sp xml:id="I05-6" who="antoine">
+            <p>Votre présence sera bien agréable pour nous.<pb n="16" xml:id="p16"/></p>
+          </sp>
+          <sp xml:id="I05-7" who="moliere">
+            <p>J'espère bien aussi présider à votre noce ; mais, mon ami, ne compte pas sur moi pour l’église.</p>
+          </sp>
+          <sp xml:id="I05-8" who="antoine">
+            <p>Comment !</p>
+          </sp>
+          <sp xml:id="I05-9" who="madelon">
+            <p>Et... pourquoi ?</p>
+          </sp>
+          <sp xml:id="I05-10" who="moliere">
+            <p>Ignorez-vous, mes enfans, que je suis excommunié ?</p>
+          </sp>
+          <sp xml:id="I05-11" who="antoine">
+            <p>Excommunié !</p>
+          </sp>
+          <sp xml:id="I05-12" who="madelon">
+            <p>Qu'est-ce que c’est que ça.</p>
+          </sp>
+          <sp xml:id="I05-13" who="mignard">
+            <p>Ce que c’est !... Tous les ans, ma chère, le pape défend l’entrée de l’église aux rats, aux sorciers, aux sauterelles, au diable et aux comédiens... à lui sur-tout.</p>
+          </sp>
+          <sp xml:id="I05-14" who="madelon">
+            <p>Quel mal avez-vous donc fait ?</p>
+          </sp>
+          <sp xml:id="I05-15" who="lulli">
+            <p>Quel mal ! quel mal ! il a dit... la vérité.</p>
+          </sp>
+          <sp xml:id="I05-16" who="moliere">
+            <p>Laissons-là les <ref target="#imprecation">imprécations*</ref> des prêtres,</p>
+            <l n="119" xml:id="l119" rend="center">AIR : <hi rend="i">Avec les jeux dans le village.</hi></l>
+            <l n="120" xml:id="l120" rend="center">Par-tout l’auteur de la nature</l>
+            <l n="121" xml:id="l121" rend="center">Reçoit notre encens et nos vœux,</l>
+            <l n="122" xml:id="l122" rend="center">Et par une conduite pure</l>
+            <l n="123" xml:id="l123" rend="center">Nous saurons bien nous venger d’eux.</l>
+            <l n="124" xml:id="l124" rend="center">Donnons toujours, donnons l’exemple,</l>
+            <l n="125" xml:id="l125" rend="center">Bientôt, plus aimés, mieux connus,</l>
+            <l n="126" xml:id="l126" rend="center">Nous ferons du théâtre un temple</l>
+            <l n="127" xml:id="l127" rend="center">Et de talens et de vertus.<pb n="17 ; B" xml:id="p17"/></l>
+          </sp>
+          <sp xml:id="I05-17" who="antoine">
+            <p>Ce n’est pas Dieu, je le vois bien, ce sont les prêtres qui repoussent les comédiens.</p>
+          </sp>
+          <sp xml:id="I05-18" who="laforest">
+            <p>Oui... par jalousie de métier.</p>
+          </sp>
+          <sp xml:id="I05-19" who="moliere">
+            <p>Ce mot-là ne sera pas perdu.</p>
+            <p>Demain la noce se fera ici ; mais ce soir venez me retrouver avec le <ref target="#tabellion">tabellion*</ref> ; nous avons une petite affaire à terminer, et je vous promets d’assister aux fiançailles, si elles se font assez tard pour que j’y paraisse... sans scandaliser. Adieu, mes enfans... A ce soir.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I06">
+          <head>SCENE VI.</head>
+          <sp xml:id="I06-1" who="moliere">
+            <p>MES bons amis, vous n’êtes guères curieux ; vous savez que je reçois du monde ce soir, et vous ne me demandez pas les noms des convives !... Remerciez-moi. J'ai écrit à Chapelle, à Lafontaine, et ils viendront souper avec nous. Il y a long-temps que nous ne nous somme réunis, et je veux, puisque je suis un peu rétabli, égayer notre soirée. Boileau viendra, je crois, aussi, quoiqu’il ne me l’ait pas assuré. (<hi rend="i">à Laforest</hi>.) Et toi ; songes à nous bien traiter.</p>
+          </sp>
+          <sp xml:id="I06-2" who="laforest">
+            <p>Vous voulez faire grande <ref target="#chere">chère*</ref> ?<pb n="18" xml:id="p18"/></p>
+          </sp>
+          <sp xml:id="I06-3" who="moliere">
+            <p>Sans doute.</p>
+          </sp>
+          <sp xml:id="I06-4" who="laforest">
+            <p>Et votre régime ! (<hi rend="i">avec intérêt</hi>.) Ah ! mon maître souvenez-vous que M. Fleurant vous a défendu de voir beaucoup de monde.</p>
+          </sp>
+          <sp xml:id="I06-5" who="moliere">
+            <p>Oui : eh bien ?</p>
+          </sp>
+          <sp xml:id="I06-6" who="laforest">
+            <p>Vous n’avez pas un médecin pour marcher comme ça sur ses ordonnances.</p>
+          </sp>
+          <sp xml:id="I06-7" who="moliere">
+            <l n="128" xml:id="l128" rend="center">AIR <hi rend="i">de Joconde.</hi></l>
+            <l n="129" xml:id="l129" rend="center">J'ai pris un savant médecin,</l>
+            <l n="130" xml:id="l130" rend="center">Je hais la médecine.</l>
+            <l n="131" xml:id="l131" rend="center">Mon docteur a le coup d’œil fin,</l>
+            <l n="132" xml:id="l132" rend="center">L'humeur vive et badine.</l>
+            <l n="133" xml:id="l133" rend="center">Nous causons ensemble, et je ris</l>
+            <l n="134" xml:id="l134" rend="center">Des remèdes qu’il cite :</l>
+            <l n="135" xml:id="l135" rend="center">Je n’en prends aucuns, je guéris...</l>
+            <l n="136" xml:id="l136" rend="center">Fleurant se félicite.</l>
+          </sp>
+          <sp xml:id="I06-8" who="lulli">
+            <p>Il ne faut rien faire qui nuise à ta santé ; songes que depuis plus de quinze jours le théâtre te redemande.</p>
+          </sp>
+          <sp xml:id="I06-9" who="moliere">
+            <p>Oui ; mais voilà plus de quinze scènes que j’ai faites depuis, et mon médecin m’en a fourni plus d’une.</p>
+          </sp>
+          <sp xml:id="I06-10" who="mignard">
+            <p>C'est ainsi que Molière tire parti de tout, et fait des habits à toutes les tailles.</p>
+          </sp>
+          <sp xml:id="I06-11" who="lulli">
+            <p>Cela n’est pas étonnant, il est fils d’un tailleur.</p>
+          </sp>
+          <sp xml:id="I06-12" who="moliere">
+            <p>Ah !... Lulli ! trève pour les <ref target="#pointe">pointes*</ref>,... jusqu’au dessert.<pb n="19" xml:id="p19"/></p>
+          </sp>
+          <sp xml:id="I06-13" who="laforest">
+            <p>Je vois bien que le souper aura lieu, au moins promettez-moi que vous ne prendrez que du lait.</p>
+          </sp>
+          <sp xml:id="I06-14" who="moliere">
+            <p>Je te le promets ; mais j’ai besoin de voir mes amis, et de rire avec eux des ridicules que ma plume, déjà trop hardie, n’ose pas encore mettre sur la scène.</p>
+            <l n="137" xml:id="l137" rend="center">AIR : <hi rend="i">Tout roule aujourd’hui dans le monde.</hi></l>
+            <l n="138" xml:id="l138" rend="center">Hélas ! dans le siècle où nous sommes,</l>
+            <l n="139" xml:id="l139" rend="center">On doit farder la vérité :</l>
+            <l n="140" xml:id="l140" rend="center">Que ne suis-je au temps où les hommes</l>
+            <l n="141" xml:id="l141" rend="center">Parleront avec liberté !</l>
+            <l n="142" xml:id="l142" rend="center">S'il m’était permis de tout dire,</l>
+            <l n="143" xml:id="l143" rend="center">Que de vices seraient proscrits !</l>
+            <l n="144" xml:id="l144" rend="center">Mais ce que je ne puis écrire,</l>
+            <l n="145" xml:id="l145" rend="center">Je le pense avec mes amis.</l>
+          </sp>
+          <sp xml:id="I06-15" who="lulli">
+            <p>Lafontaine viendra sans doute par le bois de Boulogne ; je vais au devant de lui.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I07">
+          <head>SCENE VII.</head>
+          <sp xml:id="I07-1" who="moliere">
+            <p>COMBIEN j’ai de choses en arrière ! ... Voici des lettres que je n’ai pas encore lues... Voyons... De la Thorillière ? Que me mande-t-il ? Un nouveau succès... Bravo !... Ecoutez, écoutez... voici du comique. <hi rend="i">Je te préviens, mon ami, que les Poquelins</hi>, <hi rend="i">pour assurer leur nouvelle noblesse, viennent de faire dresser leur généalogie.</hi><pb n="20" xml:id="p20"/></p>
+          </sp>
+          <sp xml:id="I07-2" who="mignard">
+            <p>Bon ! Quelle sottise !</p>
+          </sp>
+          <sp xml:id="I07-3" who="moliere">
+            <p><hi rend="i">... Je l’ai vue chez ton oncle Bartholomé</hi>, <hi rend="i">le seul qui ait voulu accepter ses entrées à notre théâtre ; mais envain j’y ai cherché ton nom : ton père, y est-il dit, est mort sans enfans.</hi> – Ah ! ah ! ... ainsi donc ma famille me renie ? N'importe, Molière, travaille toujours, travaille pour ton siècle, et s’il se peut, pour la postérité.</p>
+            <l n="146" xml:id="l146" rend="center">AIR : <hi rend="i">Vaudeville de l’Isle des femmes.</hi></l>
+            <l n="147" xml:id="l147" rend="center">Si j’obtiens des succès nombreux,</l>
+            <l n="148" xml:id="l148" rend="center">Si la gloire m’est favorable,</l>
+            <l n="149" xml:id="l149" rend="center">Par son mépris injurieux</l>
+            <l n="150" xml:id="l150" rend="center">Envain ma famille m’accable.</l>
+            <l n="151" xml:id="l151" rend="center">Dans un art par-tout estimé,</l>
+            <l n="152" xml:id="l152" rend="center">C'est sur-tout, c’est l’homme qui brille ;</l>
+            <l n="153" xml:id="l153" rend="center">Les grands hommes qui l’ont formé</l>
+            <l n="154" xml:id="l154" rend="center">Sont ses ayeux, sont sa famille.</l>
+          </sp>
+          <sp xml:id="I07-4" who="laforest">
+            <p>Je ne me connais point en généalogie ; mais ce que je sais, je le sais bien, et tenez...</p>
+            <l n="155" xml:id="l155" rend="center">AIR : <hi rend="i">Nous sommes précepteurs d’amour.</hi></l>
+            <l n="156" xml:id="l156" rend="center">Tous vos parens sont bien malins;</l>
+            <l n="157" xml:id="l157" rend="center">Mais ils auront beau dir', beau faire,</l>
+            <l n="158" xml:id="l158" rend="center">On oubliera les Poquelins,</l>
+            <l n="159" xml:id="l159" rend="center">On n’oubliera jamais Molière.</l>
+          </sp>
+          <sp xml:id="I07-5" who="moliere">
+            <p>Je ne travaille que pour cela. -- Je crois que j’aurai le tems avant le souper de te lire une scène de mon <hi rend="i">Bourgeois gentilhomme</hi>... Il y a dans cette pièce une certaine Nicole, qui t’est, je crois, un peu parente... Mets-toi là : écoute-moi sérieusement.</p>
+          </sp>
+          <sp xml:id="I07-6" who="laforest">
+            <p><space/>Le moyen !* vous me faites toujours rire.</p>
+            <pb n="21" xml:id="p21"/>
+          </sp>
+          <sp xml:id="I07-7" who="moliere">
+            <p>Tant mieux !... C'est le moment où M. Jourdain reçoit son tailleur. <hi rend="i">M. Jourdain, Ah ! vous voilà ! je m’allais mettre en colère contre vous ; vous m’avez envoyé des bas de soie si étroits que j’ai eu...</hi> Mais quelqu’un vient, ce me semble, vois qui ce peut être.</p>
+          </sp>
+          <sp xml:id="I07-8" who="laforest">
+            <p>C'est M. Boileau.</p>
+          </sp>
+          <sp xml:id="I07-9" who="mignard">
+            <p>Boileau ! gare la critique !</p>
+            <p>Ne laissons pas voir un ouvrage qui n’est pas terminé.</p>
+          </sp>
+          <sp xml:id="I07-10" who="moliere">
+            <p>C'est lui, vraiment.</p>
+            <p>Vîte, vîte, mettons mon plan à l’ombre ; ce n’est qu’une esquisse.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I08">
+          <head>SCENE VIII.</head>
+          <sp xml:id="I08-1" who="moliere">
+            <p>TU viens de bonne heure, et c’est me faire plaisir : on m’avait fait craindre de ne pas te voir ce soir.</p>
+          </sp>
+          <sp xml:id="I08-2" who="boileau">
+            <p>Oui, mon ami, j’étais dans un de ces accès de misantropie où mon œil ne cherche et ne voit que des ridicules, où mon esprit se plaît à les peindre ; et comme on n’en trouve pas chez toi, j’avais peine à perdre ma journée.<pb n="22" xml:id="p22"/></p>
+          </sp>
+          <sp xml:id="I08-3" who="moliere">
+            <p>Ne dirait-on pas à tes regrets que c’est la journée de Titus ! Va, mon pauvre Despreaux, Chapelle et Lulli sauront dissiper tes sombres idées.</p>
+          </sp>
+          <sp xml:id="I08-4" who="boileau">
+            <p>Chapelle !</p>
+          </sp>
+          <sp xml:id="I08-5" who="chapelle">
+            <p>N'en dites pas de mal ?</p>
+          </sp>
+          <sp xml:id="I08-6" who="boileau">
+            <p>Si j’avais su qu’il soupât ici, je me serais rendu plus difficile encore.</p>
+          </sp>
+          <sp xml:id="I08-7" who="chapelle">
+            <p>Quoi ! toujours de la rancune ? Ah ! ah ! ah !</p>
+          </sp>
+          <sp xml:id="I08-8" who="moliere">
+            <p>Chapelle t’aurait-il offensé ? Il en est incapable... à jeun.</p>
+          </sp>
+          <sp xml:id="I08-9" who="boileau">
+            <p>Laissons, laissons cela.</p>
+          </sp>
+          <sp xml:id="I08-10" who="mignard">
+            <p>Non pas, il faut nous mettre au fait. Chapelle, on t’accuse.</p>
+          </sp>
+          <sp xml:id="I08-11" who="chapelle">
+            <p>Mignard a raison, je dois me justifier. Vous saurez donc, mes bons amis, qu’il y a peu de jours je rencontrai Boileau ; il m’accosta, et soupçonnant que je n’étais pas... à jeun, comme vient de dire Molière, il se mit à me faire l’éloge le plus pompeux sur la sobriété. <hi rend="i">Aristote écrivit... Socrate a dit... Pline pensait...</hi> que sais-je ? Pendant cette belle érudition, il vint à pleuvoir à verse ; moi...</p>
+            <l n="160" xml:id="l160" rend="center">AIR : <hi rend="i">Vaudeville des Visitandines.</hi></l>
+            <l n="161" xml:id="l161" rend="center">Pour soustraire au vent, à l’orage,</l>
+            <l n="162" xml:id="l162" rend="center">Un moraliste aussi parfait,</l>
+            <l n="163" xml:id="l163" rend="center">Mon amitié prudente et sage</l>
+            <l n="164" xml:id="l164" rend="center">L'abrita dans un <ref target="#cabaret">cabaret*</ref>.<pb n="23" xml:id="p23"/></l>
+            <l n="165" xml:id="l165" rend="center">Là, son énergique éloquence</l>
+            <l n="166" xml:id="l166" rend="center">Contre le vin se déchaîna,</l>
+            <l n="167" xml:id="l167" rend="center">Et puis enfin il s’enivra</l>
+            <l n="168" xml:id="l168" rend="center">En me vantant la tempérance.</l>
+          </sp>
+          <sp xml:id="I08-12" who="moliere">
+            <p>Quoi ! tout de bon ?</p>
+          </sp>
+          <sp xml:id="I08-13" who="boileau">
+            <p>Le traître dit vrai.</p>
+          </sp>
+          <sp xml:id="I08-14" who="moliere">
+            <p>C'est une scène !</p>
+          </sp>
+          <sp xml:id="I08-15" who="boileau">
+            <p>La belle gloire ! s’enivrer pour m’étourdir : c’est Guénaud qui s’éclabousse de la tête au pied pour tacher l’habit de son voisin.</p>
+          </sp>
+          <sp xml:id="I08-16" who="chapelle">
+            <p rend="margin">Je fus obligé de le reconduire, moi ! et ce qu’il y a de plus plaisant, c’est que nous fûmes rencontrés par Cottin et par Chapelain.</p>
+          </sp>
+          <sp xml:id="I08-17" who="boileau">
+            <p>Le père des douze fois douze cents vers de la pucelle !</p>
+          </sp>
+          <sp xml:id="I08-18" who="mignard">
+            <p>Comme ils vont se venger !</p>
+          </sp>
+          <sp xml:id="I08-19" who="moliere">
+            <p>Je ne vois, mon cher Despreaux, qu’un seul moyen de le punir ; c’est de l’enivrer ce soir.</p>
+          </sp>
+          <sp xml:id="I08-20" who="chapelle">
+            <p>J'accepte la revanche. Mais à propos, savez-vous bien que j’ai refusé pour vous la plus belle fête ! un souper délicieux, offert par un prince.</p>
+          </sp>
+          <sp xml:id="I08-21" who="moliere">
+            <p>Et tu nous as préféré ?<pb n="24" xml:id="p24"/></p>
+          </sp>
+          <sp xml:id="I08-22" who="chapelle">
+            <p>Je choisis toujours le meilleur, mon ami ; tiens, vois la réponse que j’ai faite.</p>
+          </sp>
+          <sp xml:id="I08-23" who="moliere">
+            <p>En vers !</p>
+          </sp>
+          <sp xml:id="I08-24" who="chapelle">
+            <p>En chanson même. Quand on dit des vérités un peu dures, il faut les dire gaîment.</p>
+          </sp>
+          <sp xml:id="I08-25" who="boileau">
+            <p>Voyons.</p>
+            <l n="169" xml:id="l169" rend="center">AIR : <hi rend="i">Vaudeville d’Epicure.</hi></l>
+            <l n="170" xml:id="l170" rend="center">Si la grandeur et l’opulence</l>
+            <l n="171" xml:id="l171" rend="center">Ont de l’éclat pour bien des yeux,</l>
+            <l n="172" xml:id="l172" rend="center">Moi, je fuis la magnificence,</l>
+            <l n="173" xml:id="l173" rend="center">Et ses plaisirs trop sérieux.</l>
+            <l n="174" xml:id="l174" rend="center">Je n’irai point à vôtre fête,</l>
+            <l n="175" xml:id="l175" rend="center">Ailleurs je me suis invité,</l>
+            <l n="176" xml:id="l176" rend="center">Et chez Molière l’on m’apprête</l>
+            <l n="177" xml:id="l177" rend="center">Le souper de l’égalité,</l>
+            <p/>
+            <l n="178" xml:id="l178" rend="center">Pour un aimable tête à tête</l>
+            <l n="179" xml:id="l179" rend="center">Veuillez quelque jour m’inviter ;</l>
+            <l n="180" xml:id="l180" rend="center">Je réponds qu’il vaudra la fête</l>
+            <l n="181" xml:id="l181" rend="center">Où vous me priez d’assister.</l>
+            <l n="182" xml:id="l182" rend="center">Une illusion agréable</l>
+            <l n="183" xml:id="l183" rend="center">Y soutiendra notre gaîté,</l>
+            <l n="184" xml:id="l184" rend="center">Et nous croirons à votre table</l>
+            <l n="185" xml:id="l185" rend="center">Aux charmes de la liberté.</l>
+            <p>Le <ref target="#trait">trait*</ref> est hardi... mais il est juste.</p>
+          </sp>
+          <sp xml:id="I08-26" who="mignard">
+            <p>Il blessera, j’en suis sûr, et il faut avoir des ménagemens avec les grands.</p>
+          </sp>
+          <sp xml:id="I08-27" who="boileau">
+            <p>Combien peu de ces hommes si grands, seront un jour de grands hommes ! Chapelle a bien fait, cela me racommode avec lui. <hi rend="sup"/><pb n="25" xml:id="p25"/></p>
+          </sp>
+          <sp xml:id="I08-28" who="chapelle">
+            <p>Lorsque la réunion des Auteurs s’intitule la <hi rend="i">République des Lettres</hi>, c’est pour que tous soient libres d’écrire ce qu’ils pensent.</p>
+          </sp>
+          <sp xml:id="I08-29" who="mignard">
+            <p>Mes amis, je vois Lafontaine.</p>
+          </sp>
+          <sp xml:id="I08-30" who="moliere">
+            <p>Comme il a l’air occupé !</p>
+          </sp>
+          <sp xml:id="I08-31" who="chapelle">
+            <p>Il ne nous voit pas, j’en suis sûr.</p>
+          </sp>
+          <sp xml:id="I08-32" who="moliere">
+            <p>Taisons-nous.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I09">
+          <head>SCENE IX.</head>
+          <sp xml:id="I09-1" who="la-fontaine">
+            <p>CELA n’est point malheureux, j’arrive au moment où je trouve mes deux derniers vers... Répétons-les tous.</p>
+          </sp>
+          <sp xml:id="I09-2" who="mignard">
+            <p>Il a quelque grande affaire ?</p>
+          </sp>
+          <sp xml:id="I09-3" who="boileau">
+            <p>Oui, un renard, une fourmi l’occupe.</p>
+          </sp>
+          <sp xml:id="I09-4" who="moliere">
+            <p>Le grand homme !<pb n="26" xml:id="p26"/></p>
+          </sp>
+          <sp xml:id="I09-5" who="chapelle">
+            <l n="186" xml:id="l186" rend="center">AIR : <hi rend="i">De la Baronne.</hi></l>
+            <l n="187" xml:id="l187" rend="center">Pour une fable,</l>
+            <l n="188" xml:id="l188" rend="center">Sans cesse on le voit arrêté.</l>
+          </sp>
+          <sp xml:id="I09-6" who="boileau">
+            <l n="189" xml:id="l189" rend="center">Et par un goût inconcevable</l>
+            <l n="190" xml:id="l190" rend="center">Il laisse la réalité</l>
+            <l n="191" xml:id="l191" rend="center">Pour une fable.</l>
+          </sp>
+          <sp xml:id="I09-7" who="la-fontaine">
+            <p><space/>Oui, mes amis, c’est une fable que je viens d’achever, et c’est le plaisir de souper chez Molière qui me l’a inspirée.</p>
+          </sp>
+          <sp xml:id="I09-8" who="moliere">
+            <p><space/>En ce cas, nous pouvons te la demander.</p>
+          </sp>
+          <sp xml:id="I09-9" who="la-fontaine">
+            <p><space/>La voici, à peu près.</p>
+            <l n="192" xml:id="l192" rend="center">Socrate un jour faisait bâtir,</l>
+            <l n="193" xml:id="l193" rend="center">Chacun censurait son ouvrage ;</l>
+            <l n="194" xml:id="l194" rend="center">L'un trouvait les dedans, pour ne lui point mentir,</l>
+            <l n="195" xml:id="l195" rend="center">Indignes d’un tel personnage ;</l>
+            <l n="196" xml:id="l196" rend="center">L'autre blâmait la face, et tous étaient d’avis</l>
+            <l n="197" xml:id="l197" rend="center">Que les appartemens en étaient trop petits.</l>
+            <l n="198" xml:id="l198" rend="center">Quelle maison pour lui ! On y tournait à peine.</l>
+            <l n="199" xml:id="l199" rend="center">Plût au ciel que de vrais amis,</l>
+            <l n="200" xml:id="l200" rend="center">Telle qu’elle est, dit-il, elle pût être pleine !</l>
+            <l n="201" xml:id="l201" rend="center">Le bon Socrate avait raison</l>
+            <l n="202" xml:id="l202" rend="center">De trouver pour ceux-là trop grande sa maison :</l>
+            <l n="203" xml:id="l203" rend="center">Chacun se dit ami, bien fou qui s’y repose.</l>
+            <l n="204" xml:id="l204" rend="center">Rien n’est plus commun que le nom,</l>
+            <l n="205" xml:id="l205" rend="center">Rien n’est plus rare que la chose.</l>
+          </sp>
+          <sp xml:id="I09-10" who="chapelle">
+            <p><space/>Mais cela est bon... fort bon.</p>
+          </sp>
+          <sp xml:id="I09-11" who="la-fontaine">
+            <p><space/>Je le crois.<pb n="27" xml:id="p27"/></p>
+          </sp>
+          <sp xml:id="I09-12" who="moliere">
+            <p>Je te sais gré d’avoir pensé à nous en faisant cet apologue.</p>
+          </sp>
+          <sp xml:id="I09-13" who="boileau">
+            <p>Ce n’est pas une fable... Mais c’est l’ouvrage d’un poëte exercé.</p>
+          </sp>
+          <sp xml:id="I09-14" who="mignard">
+            <p>Le bonhomme n’a ni la rusticité d’Esope, ni la recherche de Phèdre ; mais il plaît à l’esprit, fait au cœur la leçon, et conte comme la nature.</p>
+          </sp>
+          <sp xml:id="I09-15" who="moliere">
+            <p>Messieurs ! messieurs ! le bonhomme ira plus loin que nous.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I10">
+          <head>SCENE X.</head>
+          <sp xml:id="I10-1" who="lulli">
+            <p>OUF ! je crois, mes amis, qu’il ne faut pas compter sur Lafontaine : il ne... (<hi rend="i">appercevant Lafontaine</hi>.) Par où diable est-il arrivé !</p>
+          </sp>
+          <sp xml:id="I10-2" who="la-fontaine">
+            <p>Par la <ref target="#galiote">galiote*</ref>.</p>
+          </sp>
+          <sp xml:id="I10-3" who="moliere">
+            <p>Comment la galiote ?</p>
+          </sp>
+          <sp xml:id="I10-4" who="la-fontaine">
+            <p>Oui.<pb n="28" xml:id="p28"/></p>
+          </sp>
+          <sp xml:id="I10-5" who="chapelle">
+            <p>Mais elle passe ici vers midi, et tu n’es arrivé qu’à sept heures.</p>
+          </sp>
+          <sp xml:id="I10-6" who="boileau">
+            <l n="206" xml:id="l206" rend="center">AIR : <hi rend="i">La plus belle promenade.</hi></l>
+            <l n="207" xml:id="l207" rend="center">Aurais-tu donc fait naufrage ?</l>
+            <l n="208" xml:id="l208" rend="center">Ce malheur serait nouveau,</l>
+            <l n="209" xml:id="l209" rend="center">Car jamais aucun orage</l>
+            <l n="210" xml:id="l210" rend="center">N'a retardé ce vaisseau.</l>
+          </sp>
+          <sp xml:id="I10-7" who="la-fontaine">
+            <l n="211" xml:id="l211" rend="center">Cela paroît incroyable :</l>
+            <l n="212" xml:id="l212" rend="center">Je vois qu’il faut dire tout.</l>
+            <p>Eh bien ! mes bons amis,</p>
+            <l n="213" xml:id="l213" rend="center">Je suis, en faisant une fable,</l>
+            <l n="214" xml:id="l214" rend="center">Descendu... jusqu’à St.-Cloud.</l>
+          </sp>
+          <sp xml:id="I10-8" who="moliere">
+            <p>Quand tu viens chez moi, tu prends donc le plus long ?</p>
+          </sp>
+          <sp xml:id="I10-9" who="boileau">
+            <p>Comme quand tu vas à l’Académie.</p>
+          </sp>
+          <sp xml:id="I10-10" who="lulli">
+            <p>Tout cela est fort bien ; mais, pour me dédommager de ma course, il nous récitera un de ses contes.</p>
+          </sp>
+          <sp xml:id="I10-11" who="moliere">
+            <p>Il te récitera la fable qu’il vient de faire... elle vaut bien un conte.<pb n="29" xml:id="p29"/></p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I11">
+          <head>SCENE XI.</head>
+          <sp xml:id="I11-1" who="laforest">
+            <p>PEUT-on vous servir ?</p>
+          </sp>
+          <sp xml:id="I11-2" who="moliere">
+            <p>A l’instant.</p>
+          </sp>
+          <sp xml:id="I11-3" who="laforest">
+            <p>De quel vin vous donnerai-je ?</p>
+          </sp>
+          <sp xml:id="I11-4" who="lulli">
+            <p>De celui que tu voudras.</p>
+          </sp>
+          <sp xml:id="I11-5" who="laforest">
+            <p>Du rouge ou du blanc.</p>
+          </sp>
+          <sp xml:id="I11-6" who="boileau">
+            <p>Cela nous est parfaitement égal.</p>
+          </sp>
+          <sp xml:id="I11-7" who="chapelle">
+            <l n="215" xml:id="l215" rend="center i"><ref target="#recitatif">Récitatif*</ref>.</l>
+            <l n="216" xml:id="l216" rend="center">Pardon, sage Lulli, pardon, sage Boileau ;</l>
+            <l n="217" xml:id="l217" rend="center">Je suis, mes bons amis, plus difficile à table,</l>
+            <l n="218" xml:id="l218" rend="center">Et je crois au vin blanc le rouge préférable,</l>
+            <l n="219" xml:id="l219" rend="center">Puisqu’il approche moins de la couleur de l’eau.</l>
+          </sp>
+          <sp xml:id="I11-8" who="la-fontaine">
+            <p>Eh bien ! de tous les deux.</p>
+          </sp>
+          <sp xml:id="I11-9" who="laforest">
+            <p>Quand il vous plaira.</p>
+          </sp>
+          <sp xml:id="I11-10" who="moliere">
+            <p>Allons, mes amis, à table.<pb n="30" xml:id="p30"/></p>
+          </sp>
+          <sp xml:id="I11-11" who="chapelle">
+            <p>Laforest, mets le vin près de Despreaux ; c’est lui qui doit m’enivrer ce soir.</p>
+          </sp>
+          <sp xml:id="I11-12" who="boileau">
+            <p>T'enivrer ? Il suffit, pour cela, de te laisser à ta discrétion. Mais quoi ! point d’eau sur la table ?</p>
+          </sp>
+          <sp xml:id="I11-13" who="lulli">
+            <l n="220" xml:id="l220" rend="center">AIR : <hi rend="i">On compterait les diamans.</hi></l>
+            <l n="221" xml:id="l221" rend="center">En vérité, mon cher Boileau,</l>
+            <l n="222" xml:id="l222" rend="center">Ta demande est fort indiscrète ;</l>
+            <l n="223" xml:id="l223" rend="center">Jamais je ne cherche de l’eau</l>
+            <l n="224" xml:id="l224" rend="center">Sur la table d’un bon poëte :</l>
+            <l n="225" xml:id="l225" rend="center">Le vin est excellent chez lui,</l>
+            <l n="226" xml:id="l226" rend="center">Buvons-le pur, à tasse pleine ;</l>
+            <l n="227" xml:id="l227" rend="center">Mais si tu le crains aujourd’hui,</l>
+            <l n="228" xml:id="l228" rend="center">Mets <hi rend="i">Boileau</hi> près de <hi rend="i">Lafontaine.</hi></l>
+          </sp>
+          <sp xml:id="I11-14" who="chapelle">
+            <p>Encore une <ref target="#turlupinade">turlupinade*</ref>.</p>
+          </sp>
+          <sp xml:id="I11-15" who="moliere">
+            <p>Et nous ne sommes pas au dessert !</p>
+            <p>Allons, servez-vous et ne ménagez rien ; pour moi, vous le voyez, je suis au régime.</p>
+          </sp>
+          <sp xml:id="I11-16" who="la-fontaine">
+            <p>Nous allons boire à ta meilleure santé.</p>
+          </sp>
+          <sp xml:id="I11-17" who="laforest">
+            <p>On dit que les auteurs ne peuvent pas vivre ensemble, il me semble cependant que l’on est ici de fort bonne intelligence... Que cet accord fait plaisir ! Un souper d’amis comme ceux-là n’est pas facile à trouver.</p>
+            <l n="229" xml:id="l229" rend="center">AIR : <hi rend="i">Une fille est un oiseau.</hi></l>
+            <l n="230" xml:id="l230" rend="center">Au milieu de l’univers,</l>
+            <l n="231" xml:id="l231" rend="center">Sur un mont, dit notre maître,</l>
+            <l n="232" xml:id="l232" rend="center">Les auteurs vont pour connaître</l>
+            <l n="233" xml:id="l233" rend="center">Quel est le prix de leurs vers.<pb n="31" xml:id="p31"/></l>
+            <l n="234" xml:id="l234" rend="center">Ce mont s’appelle... <hi rend="i">Parnasse.</hi></l>
+            <l n="235" xml:id="l235" rend="center">Chacun y cherche une place ;</l>
+            <l n="236" xml:id="l236" rend="center">Mais souvent, quoi que l’on fasse,</l>
+            <l n="237" xml:id="l237" rend="center">On n’y trouve point accès :</l>
+            <l n="238" xml:id="l238" rend="center">Ce mont me semble une fable ;</l>
+            <l n="239" xml:id="l239" rend="center">Mais je vois à cette table</l>
+            <l n="240" xml:id="l240" rend="center">Le vrai Parnasse Français.</l>
+          </sp>
+          <sp xml:id="I11-18" who="moliere">
+            <p>Pour nous mettre en train, Lulli... fais-nous rire.</p>
+          </sp>
+          <sp xml:id="I11-19" who="chapelle">
+            <p>Ah ! laisse-le souper.</p>
+          </sp>
+          <sp xml:id="I11-20" who="lulli">
+            <p>Je vous ratraperai bien.</p>
+            <p rend="margin">(<hi rend="i">Il prend le violon</hi>.)</p>
+          </sp>
+          <sp xml:id="I11-21" who="boileau">
+            <p>N'as-tu pas contre la Serre ou Colletet quelque chanson nouvelle ?</p>
+          </sp>
+          <sp xml:id="I11-22" who="chapelle">
+            <p>Ils ont assez de tes satyres. (<hi rend="i">à Lulli</hi>.) Chantes-nous un de tes vaudevilles.</p>
+          </sp>
+          <sp xml:id="I11-23" who="la-fontaine">
+            <p>Oui, oui ; point de satyre.</p>
+          </sp>
+          <sp xml:id="I11-24" who="lulli">
+            <p>Volontiers.</p>
+          </sp>
+          <sp xml:id="I11-25" who="chapelle">
+            <p>Le chanteur public.</p>
+          </sp>
+          <sp xml:id="I11-26" who="la-fontaine lulli chapelle boileau laforest moliere">
+            <p>Oui.</p>
+          </sp>
+          <sp xml:id="I11-27" who="lulli">
+            <p>Soit. Avec tous ses agrémens ?</p>
+            <p>Approchez-vous ? C'est une chanson nouvelle, faite par un écrivain... qui est auteur... littéraire... et qui fait des airs... en couplets... lyriques.<pb n="32" xml:id="p32"/></p>
+            <p>Attention ! Vous allez voir comme quoi une fille doit toujours être sur ses gardes.</p>
+            <p rend="margin">Sur la fin de l’automne</p>
+            <p rend="margin">Vint un rusé vieillard :</p>
+            <p rend="margin">Si la vendange est bonne,</p>
+            <p rend="margin">J'en veux avoir ma part.</p>
+            <p/>
+            <p rend="margin">Cette prudente fille</p>
+            <p rend="margin">Lui répondit tout bas :</p>
+            <p rend="margin">Vieux vendangeur grapille,</p>
+            <p rend="margin">Mais ne vendange pas.</p>
+            <p>Voilà la morale : retenez-la bien.</p>
+            <p rend="margin">Aux vignes de Cythère,</p>
+            <p rend="margin">Parmi les raisins doux,</p>
+            <p rend="margin">Est mainte grappe amère :</p>
+            <p rend="margin">N'en cueillez point pour vous.</p>
+            <p rend="margin">Ce choix pour une fille</p>
+            <p rend="margin">Est un grand embarras :</p>
+            <p rend="margin">La plus sage grapille,</p>
+            <p rend="margin">Et ne vendange pas.</p>
+            <pb n="33 ; C" xml:id="p33"/>
+          </sp>
+          <sp xml:id="I11-28" who="la-fontaine">
+            <p>Allons, allons : trêve à la folie... Parlons raison.</p>
+          </sp>
+          <sp xml:id="I11-29" who="chapelle">
+            <p>Parlons du plaisir de nous voir tous réunis et bien portans.</p>
+          </sp>
+          <sp xml:id="I11-30" who="mignard">
+            <p>Avouons-le ; ce n’est qu’entre nous, ce n’est qu’ici, que nous sommes à notre place et que nous pouvons jouir d’une liberté que n’empoisonne point l’envie ou la sottise des hommes.</p>
+          </sp>
+          <sp xml:id="I11-31" who="boileau">
+            <p>Mignard a raison. La société n’offre qu’un plaisir, c’est celui d’y saisir des ridicules à censurer, ou des vices à combattre.</p>
+          </sp>
+          <sp xml:id="I11-32" who="moliere">
+            <p>Je puis vous consulter, à ce que je vois, pour retoucher mon Misantrope.</p>
+          </sp>
+          <sp xml:id="I11-33" who="chapelle">
+            <p>Il faut en convenir, les hommes sont plus traîtres... que le vin.</p>
+          </sp>
+          <sp xml:id="I11-34" who="la-fontaine">
+            <p>Il y a des momens de folie où l’on maudit son existence.</p>
+          </sp>
+          <sp xml:id="I11-35" who="chapelle">
+            <p>Dis plutôt des momens de raison ; car c’est quand le vin me fait perdre la mienne, que je puis seulement supporter la vie... (<hi rend="i">Il verse à boire</hi>.) Buvons.</p>
+          </sp>
+          <sp xml:id="I11-36" who="boileau">
+            <p>Lorsque l’amour, la table, le vin, le jeu, la gloire, satisfont nos passions, nous appellons cela des plaisirs, et ce ne sont que des erreurs. L'amour enfante la jalousie.<pb n="34" xml:id="p34"/></p>
+          </sp>
+          <sp xml:id="I11-37" who="la-fontaine">
+            <p>Le vin, l’ivresse.</p>
+          </sp>
+          <sp xml:id="I11-38" who="mignard">
+            <p>Le jeu, la ruine.</p>
+          </sp>
+          <sp xml:id="I11-39" who="boileau">
+            <p>La gloire, l’envie.</p>
+          </sp>
+          <sp xml:id="I11-40" who="laforest">
+            <p>Voilà pour des gens gais une bien singulière conversation !</p>
+          </sp>
+          <sp xml:id="I11-41" who="chapelle">
+            <p>Avec nos talens et notre réputation on nous croit fort heureux, et il s’en faut que nous le soyons... <hi rend="i">Nous venons de bien rire ? Nous venons de bien rire</hi> ? Eh bien ! je vous le demande, savons-nous pourquoi ?</p>
+          </sp>
+          <sp xml:id="I11-42" who="mignard">
+            <p>Nous heureux ! Qui peut dire cela ?</p>
+          </sp>
+          <sp xml:id="I11-43" who="chapelle">
+            <p>Par exemple, toi, je ne sais pas comment tu peux exister, oui, toi, Boileau... On promet une pension à un poëte, tout Paris te nomme, et c’est Chapelain qui l’obtient.</p>
+          </sp>
+          <sp xml:id="I11-44" who="boileau">
+            <p>Bien pis que ça : Je vois la foule entrer dans un temple... je la suis... et c’est Cottin qui prêche.</p>
+          </sp>
+          <sp xml:id="I11-45" who="moliere">
+            <p>Vous n’y pensez pas avec vos idées sombres... la veille d’une noce !</p>
+          </sp>
+          <sp xml:id="I11-46" who="la-fontaine">
+            <p>Allons, Molière, tu n’es pas plus heureux qu’un autre.<pb n="35" xml:id="p35"/></p>
+          </sp>
+          <sp xml:id="I11-47" who="la-fontaine lulli chapelle boileau laforest moliere">
+            <p>Non... certainement.</p>
+          </sp>
+          <sp xml:id="I11-48" who="moliere">
+            <p>Que dites-vous ? J'aime fort mon état ; j’ai, d’ailleurs, des principes qui vous seraient, je crois, fort nécessaires.</p>
+            <l n="241" xml:id="l241" rend="center">AIR : <hi rend="i">La comédie est un miroir.</hi></l>
+            <l n="242" xml:id="l242" rend="center">S'attendre à tout est le moyen</l>
+            <l n="243" xml:id="l243" rend="center">D'alléger le poids de sa vie ;</l>
+            <l n="244" xml:id="l244" rend="center">N'espérer ou ne craindre rien,</l>
+            <l n="245" xml:id="l245" rend="center">Est la saine philosophie.</l>
+            <l n="246" xml:id="l246" rend="center">Oui, pour être heureux en effet,</l>
+            <l n="247" xml:id="l247" rend="center">Ma méthode est très salutaire :</l>
+            <l n="248" xml:id="l248" rend="center">Jugeons le mal que l’on nous fait</l>
+            <l n="249" xml:id="l249" rend="center">Par le mal qu’on pouvait nous faire.</l>
+          </sp>
+          <sp xml:id="I11-49" who="chapelle">
+            <p>Tu ne disais pas cela quand on arrêtait le Tartuffe, quand on n’allait qu’avec peine au Misantrope, tandis que tout Paris courait aux pièces de Pradon.</p>
+          </sp>
+          <sp xml:id="I11-50" who="boileau">
+            <p>Et Pradon, et Chapelain, et Brebeuf, sont de l’Académie ! c’est un enfer !</p>
+          </sp>
+          <sp xml:id="I11-51" who="lulli">
+            <p>Pourquoi travaillons-nous ? pour être dénigrés par des sots.</p>
+          </sp>
+          <sp xml:id="I11-52" who="la-fontaine">
+            <p>Pillés par des plagiaires.</p>
+          </sp>
+          <sp xml:id="I11-53" who="mignard">
+            <p>Méprisés par des grands.</p>
+          </sp>
+          <sp xml:id="I11-54" who="chapelle">
+            <p>Déchirés par les journalistes.</p>
+          </sp>
+          <sp xml:id="I11-55" who="moliere">
+            <p>Que penser des hommes, si les plus sages, les plus éclairés peuvent s’oublier ainsi ?<pb n="36" xml:id="p36"/></p>
+          </sp>
+          <sp xml:id="I11-56" who="boileau">
+            <p>Il n’y a plus de goût.</p>
+          </sp>
+          <sp xml:id="I11-57" who="la-fontaine">
+            <p>Plus de probité.</p>
+          </sp>
+          <sp xml:id="I11-58" who="mignard">
+            <p>Mes amis... il n’y a plus d’amis.</p>
+          </sp>
+          <sp xml:id="I11-59" who="chapelle">
+            <p>De tout temps la vie (<hi rend="i">après avoir bu</hi>) est un fléau... et nous la supporterions !... Non... Mes amis, nous sommes des lâches ; le bonheur, le repos ne sont pas de ce monde...</p>
+          </sp>
+          <sp xml:id="I11-60" who="boileau">
+            <p>Il faut le chercher dans le fond d’un cloître.</p>
+          </sp>
+          <sp xml:id="I11-61" who="mignard">
+            <p>Dans un désert !</p>
+          </sp>
+          <sp xml:id="I11-62" who="la-fontaine lulli chapelle boileau laforest mignard">
+            <p>Dans un désert.</p>
+          </sp>
+          <sp xml:id="I11-63" who="la-fontaine">
+            <p>Oui, dans un désert, où nous irons tous ensemble.</p>
+          </sp>
+          <sp xml:id="I11-64" who="lulli">
+            <p>Non pas, s’il vous plaît, chacun le sien.</p>
+          </sp>
+          <sp xml:id="I11-65" who="chapelle">
+            <p>Bah ! bah ! bah ! vous ne savez pas ce qu’il vous faut.</p>
+            <l n="250" xml:id="l250" rend="center">AIR : <hi rend="i">Du haut en bas.</hi></l>
+            <l n="251" xml:id="l251" rend="center">Quel embarras !</l>
+            <l n="252" xml:id="l252" rend="center">Un cloître pour moi, je vous jure,</l>
+            <l n="253" xml:id="l253" rend="center">Est sans appas :</l>
+            <l n="254" xml:id="l254" rend="center">Un désert ne nous convient pas.</l>
+            <p>Mais <ref target="#parbleu">parbleu*</ref> ! je pense que nous ne sommes pas loin du pont...</p>
+            <p>Eh bien ! mes amis,</p>
+            <l n="255" xml:id="l255" rend="center">Vers ce pont allons en droiture,</l>
+            <l n="256" xml:id="l256" rend="center">Et prenons-en tous la mesure</l>
+            <l n="257" xml:id="l257" rend="center">Du haut en bas.<pb n="37" xml:id="p37"/></l>
+          </sp>
+          <sp xml:id="I11-66" who="la-fontaine lulli chapelle boileau laforest moliere">
+            <p>Bravo ! bravo ! Oui, le pont... du haut en bas.</p>
+          </sp>
+          <sp xml:id="I11-67" who="moliere">
+            <p>Voyons jusqu’où l’enthousiasme ira.</p>
+          </sp>
+          <sp xml:id="I11-68" who="chapelle">
+            <p>Allons !</p>
+          </sp>
+          <sp xml:id="I11-69" who="laforest">
+            <p>Ah ! mon dieu !</p>
+          </sp>
+          <sp xml:id="I11-70" who="lulli">
+            <p>Cette idée est grande, elle peut nous immortaliser.</p>
+          </sp>
+          <sp xml:id="I11-71" who="mignard">
+            <l n="258" xml:id="l258" rend="center">AIR : <hi rend="i">Sans le savoir.</hi></l>
+            <l n="259" xml:id="l259" rend="center">Pour nous quel bonheur ! quelle gloire !</l>
+            <l n="260" xml:id="l260" rend="center">Notre mort un jour dans l’histoire</l>
+            <l n="261" xml:id="l261" rend="center">Fixera l’admiration.</l>
+            <l n="262" xml:id="l262" rend="center">Le besoin d’un prompt suicide</l>
+            <l n="263" xml:id="l263" rend="center">A guidé Brutus et Caton ;</l>
+            <l n="264" xml:id="l264" rend="center">Mais nous, nous ne prenons pour guide</l>
+            <l n="265" xml:id="l265" rend="center">Que la raison.</l>
+          </sp>
+          <sp xml:id="I11-72" who="boileau">
+            <p>Enfin je n’entendrai plus parler de la Serre, ni de l’abbé Depure.</p>
+          </sp>
+          <sp xml:id="I11-73" who="mignard">
+            <p>Je ne verrai plus de croutes.</p>
+          </sp>
+          <sp xml:id="I11-74" who="chapelle">
+            <p>Toi, plus de Tartuffes.</p>
+          </sp>
+          <sp xml:id="I11-75" who="lulli">
+            <p>Je n’entendrai plus la musique de Colasse ni de Cambert.</p>
+          </sp>
+          <sp xml:id="I11-76" who="la-fontaine">
+            <p>Partons !<pb n="38" xml:id="p38"/></p>
+          </sp>
+          <sp xml:id="I11-77" who="moliere">
+            <p>Un moment. O mes amis ! que faisons nous ? N'abandonnons point une résolution si belle aux fausses interprétations qu’on peut lui donner. On saura qu’à la suite d’un long souper nous aurons fait le sacrifice de notre existence, et la calomnie, avide de tout dénigrer, répandra le bruit que l’ivresse nous a plus inspirés que la philosophie. Amis, sauvons notre sagesse, attendons le retour prochain du soleil ; alors, aux yeux de tout le monde, nous donnerons cette leçon publique du mépris de la vie.</p>
+          </sp>
+          <sp xml:id="I11-78" who="boileau">
+            <p>Il a raison ; c’est pour notre gloire que nous travaillons : il nous faut des témoins. Eh bien ! jurons que demain, à la pointe du jour...</p>
+          </sp>
+          <sp xml:id="I11-79" who="la-fontaine lulli chapelle boileau laforest moliere mignard">
+            <p>Nous le jurons !</p>
+          </sp>
+          <sp xml:id="I11-80" who="moliere">
+            <p>Laforest ?</p>
+          </sp>
+          <sp xml:id="I11-81" who="laforest">
+            <p>Plait-il ?</p>
+            <p>J'entends, j’entends.</p>
+          </sp>
+          <sp xml:id="I11-82" who="chapelle">
+            <p>Sa réflexion est de bon sens : notre sagesse n’en sera que plus éclatante.</p>
+          </sp>
+          <sp xml:id="I11-83" who="moliere">
+            <p>Feignons de prendre part à leurs folies, puisque je ne puis les ramener à la raison.</p>
+            <p>(I) Cette tirade est de Voltaire<pb n="39" xml:id="p39"/></p>
+          </sp>
+          <sp xml:id="I11-84" who="moliere">
+            <p>Enfin les voilà tous endormis... Au réveil. On vient : ce sont nos jeunes gens.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I12">
+          <head>SCENE XII.</head>
+          <sp xml:id="I12-1" who="antoine">
+            <p>TOUT est prêt, nous n’attendons que notre bienfaiteur.</p>
+          </sp>
+          <sp xml:id="I12-2" who="madelon">
+            <p><space/>Le village entier nous a suivi, et vous comble de bénédictions ; mais nous n’avons pas voulu qu’on entrât de peur de vous interrompre.<pb n="40" xml:id="p40"/></p>
+          </sp>
+          <sp xml:id="I12-3" who="moliere">
+            <p>Pourquoi donc ?</p>
+            <p>Approchez, approchez : oh ne craignez pas de les réveiller ; ils dorment bien.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I13">
+          <head>SCENE XIII.</head>
+          <sp xml:id="I13-1" who="mathurin">
+            <p>VOILA le contrat de nos enfans ; nous venons vous prier d’y bailler un mot de vot’ signature.</p>
+          </sp>
+          <sp xml:id="I13-2" who="moliere">
+            <p>Ce m’est un grand plaisir ; mais il y manque encore une clause, père Mathurin.</p>
+            <p>Mettez que Madelon a deux cents écus de dot.</p>
+          </sp>
+          <sp xml:id="I13-3" who="madelon">
+            <p>Comment puis-je reconnaître...</p>
+          </sp>
+          <sp xml:id="I13-4" who="moliere">
+            <p>C'est un plaisir...</p>
+          </sp>
+          <sp xml:id="I13-5" who="mathurin">
+            <p>Nous nous souviendrons toujours...</p>
+          </sp>
+          <sp xml:id="I13-6" who="moliere">
+            <p>Cela ne vaut pas...<pb n="41" xml:id="p41"/></p>
+          </sp>
+          <sp xml:id="I13-7" who="antoine">
+            <p><space/>Ah ! croyez que notre cœur...</p>
+          </sp>
+          <sp xml:id="I13-8" who="moliere">
+            <p><space/>Eh ! mes amis, point de remercimens ; vous me faites un plus grand cadeau, vous autres ! vous me donnez votre amitié... Le cœur des honnêtes gens est sans prix.</p>
+            <p>Cet argent me vient de gens fort singuliers... et que vous ne connaissez pas.</p>
+            <l n="266" xml:id="l266" rend="center">AIR : <hi rend="i">Des portraits à la mode.</hi></l>
+            <l n="267" xml:id="l267" rend="center">Il me vient d’un <hi rend="i">Tartuffe</hi> amoureux,</l>
+            <l n="268" xml:id="l268" rend="center">D'un <hi rend="i">Misantrope sombre</hi>, quinteux,</l>
+            <l n="269" xml:id="l269" rend="center">D'un <hi rend="i">Etourdi</hi>, de quelques Fâcheux,</l>
+            <l n="270" xml:id="l270" rend="center">Et d’un <hi rend="i">Malade bisarre.</hi></l>
+            <l n="271" xml:id="l271" rend="center">Ces gens-là peuvent bien se <ref target="#gener">gêner*</ref> ;</l>
+            <l n="272" xml:id="l272" rend="center">Mais ce qui va tous vous étonner,</l>
+            <l n="273" xml:id="l273" rend="center">Mes enfans, j’ai, pour vous le donner,</l>
+            <l n="274" xml:id="l274" rend="center">Fait contribuer un <hi rend="i">Avare.</hi></l>
+          </sp>
+          <sp xml:id="I13-9" who="mathurin">
+            <p>Mais vraiment, cela est fort extraordinaire.</p>
+          </sp>
+          <sp xml:id="I13-10" who="madelon">
+            <p>Nous n’avons jamais vu chez vous ces hommes-là.</p>
+          </sp>
+          <sp xml:id="I13-11" who="laforest">
+            <p>Je les ai vus, moi, et je vous mettrai au fait.</p>
+          </sp>
+          <sp xml:id="I13-12" who="mathurin">
+            <p>Vous allez venir avec nous ?</p>
+          </sp>
+          <sp xml:id="I13-13" who="moliere">
+            <p>A l’instant je vous rejoins, je vais passer un habit ; retournez au jardin, et vous rentrerez quand je vous le dirai.</p>
+          </sp>
+          <sp xml:id="I13-14" who="antoine">
+            <l n="275" xml:id="l275">Oh ! de bien bon cœur.<pb n="42" xml:id="p42"/></l>
+          </sp>
+          <sp xml:id="I13-15" who="antoine">
+            <l n="276" xml:id="l276" rend="center">AIR : <hi rend="i">Frère Jacques.</hi></l>
+            <l n="277" xml:id="l277" rend="center">Du silence.</l>
+          </sp>
+          <sp xml:id="I13-16" who="villageois">
+            <l n="278" xml:id="l278" rend="center">Du silence.</l>
+          </sp>
+          <sp xml:id="I13-17" who="moliere">
+            <l n="279" xml:id="l279" rend="center">Laissons-les.</l>
+          </sp>
+          <sp xml:id="I13-18" who="villageois">
+            <l n="280" xml:id="l280" rend="center">Laissons les.</l>
+          </sp>
+          <sp xml:id="I13-19" who="villageois">
+            <l n="281" xml:id="l281" rend="center">Marchons avec prudence,</l>
+            <l n="282" xml:id="l282" rend="center">Marchons avec prudence.</l>
+          </sp>
+          <sp xml:id="I13-20" who="antoine">
+            <l n="283" xml:id="l283" rend="center">Paix !</l>
+          </sp>
+          <sp xml:id="I13-21" who="madelon">
+            <l n="284" xml:id="l284" rend="center">Paix !</l>
+          </sp>
+          <sp xml:id="I13-22" who="villageois">
+            <l n="285" xml:id="l285" rend="center">Paix !</l>
+          </sp>
+          <sp xml:id="I13-23" who="moliere">
+            <l n="286" xml:id="l286" rend="center">Paix !</l>
+          </sp>
+          <sp xml:id="I13-24" who="mathurin">
+            <l n="287" xml:id="l287" rend="center">Paix !</l>
+          </sp>
+          <sp xml:id="I13-25" who="villageois">
+            <l n="288" xml:id="l288" rend="center">Paix !</l>
+          </sp>
+          <sp xml:id="I13-26" who="lulli">
+            <p>Ah !... Mais où suis-je ? Chapelle, Mignard, Boileau... Ah ! dieu ! j’avais oublié qu’hier... O funeste résolution ! J'étais ivre sans doute... Oui, j’étais ivre, et ce qu’on promet dans l’ivresse... Si je pouvais m’échapper... Quelle lâcheté ! Quel opprobre !... Boileau s’éveille... feignons de dormir encore.<pb n="43" xml:id="p43"/></p>
+          </sp>
+          <sp xml:id="I13-27" who="boileau">
+            <p>Combien le soleil enfante de bisarrerie !</p>
+            <l n="289" xml:id="l289" rend="center">AIR : <hi rend="i">On vit sortir d’une grotte profonde.</hi></l>
+            <l n="290" xml:id="l290" rend="center">Oui, je rêvais qu’une main ennemie</l>
+            <l n="291" xml:id="l291" rend="center">Dans le tombeau m’avait précipité,</l>
+            <l n="292" xml:id="l292" rend="center">Et que Cottin, en pleine académie,</l>
+            <l n="293" xml:id="l293" rend="center">Sur mon fauteuil avait été porte.</l>
+            <p>Je rêvais ; mais, non, je ne rêvais pas... Cette table, ces convives me rappellent... Allons, c’est une folie... Ce serait un crime... Si je pouvais savoir ce que pensent... Bon ! Lafontaine, Chapelle et Mignard ne dorment plus : écoutons.</p>
+          </sp>
+          <sp xml:id="I13-28" who="la-fontaine">
+            <p>Avons-nous sommeillé long-temps ?</p>
+          </sp>
+          <sp xml:id="I13-29" who="chapelle">
+            <p>Il n’est pas jour encore.</p>
+          </sp>
+          <sp xml:id="I13-30" who="mignard">
+            <p>Non, mais bientôt il faudra...</p>
+          </sp>
+          <sp xml:id="I13-31" who="chapelle">
+            <p><space/>Ahi ! ahi ! il ne l’a pas oublié. (<hi rend="i">haut</hi>.) Des affaires qui me rappellent à Paris.</p>
+          </sp>
+          <sp xml:id="I13-32" who="la-fontaine">
+            <p>Des affaires ? eh bien ! il faut partir.</p>
+          </sp>
+          <sp xml:id="I13-33" who="chapelle">
+            <p>Des affaires pour lesquelles je voudrais que Molière... Où donc est-il ?</p>
+          </sp>
+          <sp xml:id="I13-34" who="mignard">
+            <p>Sa santé lui aura fait craindre de veiller.</p>
+          </sp>
+          <sp xml:id="I13-35" who="la-fontaine">
+            <p>Dans peu de temps sa guérison sera parfaite.<pb n="44" xml:id="p44"/></p>
+          </sp>
+          <sp xml:id="I13-36" who="chapelle">
+            <p>Je le crois. (<hi rend="i">à part</hi>.) Oh dieu ! la mémoire lui revient-elle ?</p>
+          </sp>
+          <sp xml:id="I13-37" who="mignard">
+            <p>Si nous éveillons nos camarades ?</p>
+          </sp>
+          <sp xml:id="I13-38" who="chapelle">
+            <p>Non... non... pourquoi ? il n’est pas encore tems.</p>
+          </sp>
+          <sp xml:id="I13-39" who="la-fontaine">
+            <p>Les voilà qui s’éveillent eux-mêmes.</p>
+          </sp>
+          <sp xml:id="I13-40" who="chapelle">
+            <p>Ah ! je tremble.</p>
+          </sp>
+          <sp xml:id="I13-41" who="mignard">
+            <p>Je ne sais où j’en suis.</p>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I14">
+          <head>SCENE XIV et DERNIÈRE.</head>
+          <sp xml:id="I14-1" who="villageois">
+            <l n="294" xml:id="l294" rend="center">AIR : <hi rend="i">Habitans de ce village.</hi></l>
+            <l n="295" xml:id="l295" rend="center">MES amis, le tems nous presse,</l>
+            <l n="296" xml:id="l296" rend="center">Profitons de cet instant ;</l>
+            <l n="297" xml:id="l297" rend="center">Livrons nos cœurs à l’ivresse</l>
+            <l n="298" xml:id="l298" rend="center">Qu'inspire un si doux moment :</l>
+            <l n="299" xml:id="l299" rend="center">Croyons tous à la promesse</l>
+            <l n="300" xml:id="l300" rend="center">Du bonheur qui nous attend.</l>
+            <l n="301" xml:id="l301" rend="center">Mes amis, le tems nous presse,</l>
+            <l n="302" xml:id="l302" rend="center">Profitons de cet instant.<pb n="45" xml:id="p45"/></l>
+          </sp>
+          <sp xml:id="I14-2" who="moliere">
+            <p>Allons, plus de retard, remplissons notre engagement : voici tout le village, qui est déjà prévenu, et qui se fait un plaisir de nous accompagner.</p>
+          </sp>
+          <sp xml:id="I14-3" who="villageois">
+            <p>Oui... sans doute... assurément.</p>
+          </sp>
+          <sp xml:id="I14-4" who="moliere">
+            <p>Comment ! vous ne répondez rien ? Ne vous souvient-il plus de votre résolution ? Faut-il vous la répéter ?</p>
+          </sp>
+          <sp xml:id="I14-5" who="antoine">
+            <l n="303" xml:id="l303" rend="center">AIR : <hi rend="i">Amusez-vous, jeunes fillettes.</hi></l>
+            <l n="304" xml:id="l304" rend="center">Ne point accepter la partie,</l>
+            <l n="305" xml:id="l305" rend="center">C'est vouloir nuire à not’ bonheur.</l>
+            <l n="306" xml:id="l306" rend="center">A tout l’village qui vous prie</l>
+            <l n="307" xml:id="l307" rend="center">Ne refusez pas cet honneur...</l>
+          </sp>
+          <sp xml:id="I14-6" who="chapelle">
+            <p>Certainement (<hi rend="i">à part</hi>.) Quel chien d’honneur !</p>
+          </sp>
+          <sp xml:id="I14-7" who="madelon">
+            <l n="308" xml:id="l308" rend="center">Vous avez fait une promesse :</l>
+            <l n="309" xml:id="l309" rend="center">Vous coûterait-elle à remplir ?</l>
+            <l n="310" xml:id="l310" rend="center">Voyez la foule qui vous presse,</l>
+            <l n="311" xml:id="l311" rend="center">Ne la privez pas d’un plaisir.</l>
+          </sp>
+          <sp xml:id="I14-8" who="lulli">
+            <p>C'est très-honnête assurément. (<hi rend="i">à part</hi>.) Où ces gens-là mettent-ils leur plaisir ?</p>
+          </sp>
+          <sp xml:id="I14-9" who="antoine">
+            <p>La cérémonie ne sera pas longue.</p>
+          </sp>
+          <sp xml:id="I14-10" who="chapelle">
+            <p>La cérémonie !</p>
+          </sp>
+          <sp xml:id="I14-11" who="lulli">
+            <p>Comptez maintenant sur vos amis.</p>
+          </sp>
+          <sp xml:id="I14-12" who="mignard">
+            <p>Comme il est content, radieux !<pb n="46" xml:id="p46"/></p>
+          </sp>
+          <sp xml:id="I14-13" who="mathurin">
+            <p>Il jouit du plaisir de faire une bonne action.</p>
+          </sp>
+          <sp xml:id="I14-14" who="boileau">
+            <p>Une belle action !</p>
+          </sp>
+          <sp xml:id="I14-15" who="laforest">
+            <p>Mais je ne vois pas qu’il faille tant se faire prier ; pendant que vous rêvez à je ne sais quoi, il passe de l’eau sous le pont...</p>
+          </sp>
+          <sp xml:id="I14-16" who="lulli">
+            <p>Ne crains-tu pas qu’elle s’arrête ?</p>
+          </sp>
+          <sp xml:id="I14-17" who="moliere">
+            <p>L'heure avance, et M. le curé...</p>
+          </sp>
+          <sp xml:id="I14-18" who="boileau">
+            <p>Un curé ! Ah ! ah ! (<hi rend="i">à Molière.)</hi> Tu es un homme de précautions, et tu penses qu’on doit faire la chose en bons Chrétiens.</p>
+          </sp>
+          <sp xml:id="I14-19" who="madelon">
+            <p>Comment ! Mais nous ne voulons pas autrement ; nous ne sommes pas excommuniés nous autres.</p>
+          </sp>
+          <sp xml:id="I14-20" who="moliere">
+            <p>Allons, mes amis, distribuez-nous des fleurs.</p>
+          </sp>
+          <sp xml:id="I14-21" who="la-fontaine">
+            <p>Je ne sais ce que tout cela veut dire.</p>
+          </sp>
+          <sp xml:id="I14-22" who="lulli">
+            <p>C'est ainsi que chez les Grecs...</p>
+          </sp>
+          <sp xml:id="I14-23" who="chapelle">
+            <p>Oui, et chez les Cannibales on orne les victimes.</p>
+          </sp>
+          <sp xml:id="I14-24" who="mignard">
+            <p>Des bouquets ! Madelon parée ! Antoine avec des<pb n="47" xml:id="p47"/> rubans ! Ah ! Molière, nous ne sommes pas ta dupe.</p>
+          </sp>
+          <sp xml:id="I14-25" who="chapelle">
+            <p>Comment !</p>
+          </sp>
+          <sp xml:id="I14-26" who="lulli">
+            <p>Ainh !</p>
+          </sp>
+          <sp xml:id="I14-27" who="boileau">
+            <p>Qu'est-ce donc ?</p>
+          </sp>
+          <sp xml:id="I14-28" who="mignard">
+            <p>La noce d’Antoine et de Madelon.</p>
+          </sp>
+          <sp xml:id="I14-29" who="boileau">
+            <p><space/>Ouf ! nous l’avons échappé belle.</p>
+          </sp>
+          <sp xml:id="I14-30" who="lulli">
+            <p><space/>La noce ! Je veux en être le <ref target="#menetrier">ménétrier*</ref>.</p>
+          </sp>
+          <sp xml:id="I14-31" who="moliere">
+            <p><space/>Avouez, Messieurs les esprits forts, que votre frayeur a été complette. Apprenez une autre fois à vous défier de votre imagination, et croyez que l’homme le plus malheureux tient à ce monde plus qu’il ne pense.</p>
+          </sp>
+          <sp xml:id="I14-32" who="chapelle">
+            <p><space/>Ma foi, comme dit Lafontaine,</p>
+            <l n="312" xml:id="l312" rend="center">Plutôt souffrir que de mourir,</l>
+            <l n="313" xml:id="l313" rend="center">C'est la devise des hommes.</l>
+          </sp>
+          <sp xml:id="I14-33" who="laforest">
+            <l n="314" xml:id="l314" rend="center">AIR : <hi rend="i">Dans un des bosquets de sa mère.</hi> (Laborde.)</l>
+            <l n="315" xml:id="l315" rend="center">En comptant les maux de la vie,</l>
+            <l n="316" xml:id="l316" rend="center">Chacun dit : je veux en sortir.</l>
+            <l n="317" xml:id="l317" rend="center">Ce projet insensé s’oublie</l>
+            <l n="318" xml:id="l318" rend="center">Sitôt que s’offre le plaisir.</l>
+            <l n="319" xml:id="l319" rend="center">Tel on voit près de sa maîtresse</l>
+            <l n="320" xml:id="l320" rend="center">Un amant outré de courroux,</l>
+            <l n="321" xml:id="l321" rend="center">Au premier regard de tendresse ;</l>
+            <l n="322" xml:id="l322" rend="center">Rire et tomber à ses genoux.<pb n="48" xml:id="p48"/></l>
+          </sp>
+          <sp xml:id="I14-34" who="moliere">
+            <l n="323" xml:id="l323" rend="center">Amis, la véritable gloire</l>
+            <l n="324" xml:id="l324" rend="center">Dépend toujours de l’avenir ;</l>
+            <l n="325" xml:id="l325" rend="center">Pour vivre au temple de mémoire,</l>
+            <l n="326" xml:id="l326" rend="center">Il faut commencer par mourir :</l>
+            <l n="327" xml:id="l327" rend="center">Tout écrivain prétend sans doute</l>
+            <l n="328" xml:id="l328" rend="center">Passer à la postérité ;</l>
+            <l n="329" xml:id="l329" rend="center">Mais, comme vous, chacun redoute</l>
+            <l n="330" xml:id="l330" rend="center">Ce pas vers l’immortalité.</l>
+          </sp>
+          <sp xml:id="I14-35" who="lulli">
+            <l n="331" xml:id="l331" rend="center">Allons, amis, prenons courage,</l>
+            <l n="332" xml:id="l332" rend="center">Et rappellons notre gaîté ?</l>
+            <l n="333" xml:id="l333" rend="center">L'homme joyeux, quand il est sage,</l>
+            <l n="334" xml:id="l334" rend="center">Possède la félicité :</l>
+            <l n="335" xml:id="l335" rend="center">Qu'Epicure soit notre maître ;</l>
+            <l n="336" xml:id="l336" rend="center">Il a dit dans certain endroit :</l>
+            <l n="337" xml:id="l337" rend="center">On est heureux quand on croit l’être,</l>
+            <l n="338" xml:id="l338" rend="center">Et quand on le veut, on le croit.</l>
+          </sp>
+          <sp xml:id="I14-36" who="boileau">
+            <l n="339" xml:id="l339" rend="center">Le vin, en troublant ma cervelle,</l>
+            <l n="340" xml:id="l340" rend="center">A mis le feu dans tous mes sens ;</l>
+            <l n="341" xml:id="l341" rend="center">Je sens que l’ivresse avec elle</l>
+            <l n="342" xml:id="l342" rend="center">Peut entraîner trop d’accidens.</l>
+            <l n="343" xml:id="l343" rend="center">A ces dangers pour me soustraire,</l>
+            <l n="344" xml:id="l344" rend="center">Quand je serai dans un festin,</l>
+            <l n="345" xml:id="l345" rend="center">Je prétends lire, à chaque verre,</l>
+            <l n="346" xml:id="l346" rend="center">Une ou deux pages de Cottin.</l>
+          </sp>
+          <sp xml:id="I14-37" who="la-fontaine">
+            <l n="347" xml:id="l347" rend="center">Un peintre avait perdu son ami le plus tendre,</l>
+            <l n="348" xml:id="l348" rend="center">Jour et nuit il versait des pleurs :</l>
+            <l n="349" xml:id="l349" rend="center">Son élève le voit. Touché de ses malheurs,</l>
+            <l n="350" xml:id="l350" rend="center">Il cherche à le distraire, et même ose entreprendre</l>
+            <l n="351" xml:id="l351" rend="center">D'adoucir ses chagrins, de calmer ses douleurs ;</l>
+            <l n="352" xml:id="l352" rend="center">Il saisit un charbon; il le coupe, il le taille,</l>
+            <l n="353" xml:id="l353" rend="center">Il en fait un crayon parfait,</l>
+            <l n="354" xml:id="l354" rend="center">Et dessine sur la muraille</l>
+            <l n="355" xml:id="l355" rend="center">Le profil de l’ami... que l’ami reconnaît</l>
+            <l n="356" xml:id="l356" rend="center">L'ouvrage était grossier, méritait réprimande,</l>
+            <l n="357" xml:id="l357" rend="center">Si l’on eût jugé le dessin ;</l>
+            <l n="358" xml:id="l358" rend="center">Mais le motif le recommande,</l>
+            <l n="359" xml:id="l359" rend="center">Et le peintre applaudit au cœur qui fait l’offrande,</l>
+            <l n="360" xml:id="l360" rend="center">Quoique le vrai talent n’ait pas conduit la main.<pb n="49 ; D" xml:id="p49"/></l>
+            <l n="361" xml:id="l361" rend="center">Dans cette juste allégorie,</l>
+            <l n="362" xml:id="l362" rend="center">L'auteur de la pièce vous dit :</l>
+            <l n="363" xml:id="l363" rend="center">Citoyens, voyez, je vous prie,</l>
+            <l n="364" xml:id="l364" rend="center">L'intention, et non l’esprit.</l>
+            <l n="365" xml:id="l365" rend="center">Vous êtes le peintre équitable,</l>
+            <l n="366" xml:id="l366" rend="center">Molière l’ami regretté ;</l>
+            <l n="367" xml:id="l367" rend="center">Je suis l’élève de la fable :</l>
+            <l n="368" xml:id="l368" rend="center">Puissai-je être aussi bien traité !</l>
+            <p rend="center">FIN.<pb n="50" xml:id="p50"/></p>
+          </sp>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -39,7 +39,7 @@ J'ai porté la terreur plus loin que ta carrière,
 Plus loin qu'où tes rayons ont porté ta lumière.
 J'ai forcé des pays que le jour ne voit pas,
 Et j'ai vu la nature au-delà de mes pas.
-Neptune et ses tritons ont vu d'un il timide
+Neptune et ses tritons ont vu d'un œil timide
 Promener mes vaisseaux sur leur campagne humide ;
 L'air tremble comme l'onde au seul bruit de mon nom
 Et n'ose plus servir la haine de Junon.
@@ -187,7 +187,7 @@ Qu'un regard seulement !
 
 -*who_iole
       Ô requête sévère !
-De quel il puis-je voir le meurtrier de mon père ?
+De quel œil puis-je voir le meurtrier de mon père ?
 J'ai vu, cruel, j'ai vu ce cher corps que je plains
 Tomber dessous l'effort de vos barbares mains ;
 Je l'ai vu sous vos coups étendu sur la terre,
@@ -489,7 +489,7 @@ Et vous mourriez, Madame.
 
 -*who_dejanire
       Oui, mais femme d'Hercule,
-Et mon il, de mes pleurs à chaque heure mouillé,
+Et mon œil, de mes pleurs à chaque heure mouillé,
 Ne verra pas mon lit honteusement souillé.
 J'éteindrai de son sang avec ses sales flammes,
 Les torches de l'hymen qui joignit nos deux âmes.
@@ -765,11 +765,11 @@ Quand tu rendras l'esprit sous l'effort de ses armes.
 Ô quel est mon bonheur ! Qu'en cette extrémité
 Ma mort soit une preuve à votre honnêteté :
 Madame, qu'à l'instant de cette fin sanglante,
-De fers, ni de bourreaux, votre il ne s'épouvante ;
+De fers, ni de bourreaux, votre œil ne s'épouvante ;
 Apprenez par ma force à ne vous plaindre pas,
 Songez à ma constance, et non à mon trépas,
 Montrez un grand courage en un malheur extrême,
-Et voyez mon tourment de même il que moi-même.
+Et voyez mon tourment de même œil que moi-même.
 
 -*who_iole
 Non, jamais sur ton corps mes yeux ne pleureront,
@@ -797,7 +797,7 @@ Poussé le zèle saint d'un coeur dévotieux.
 Entretenez d'encens cette sainte fumée
 Tant que soit par le feu l'offrande consumée.
 Toi, ceints de ce rameau ton front majestueux,
-Et prête à ce devoir un il respectueux.
+Et prête à ce devoir un œil respectueux.
 
 -*who_philoctete
 Priez que le repos couronne le mérite,
@@ -810,7 +810,7 @@ Oyez si mon esprit conçoit une prière
 Séante dans ma bouche et digne de mon père.
 Que ce globe azuré soit constant en son cours,
 Qu'à jamais le soleil y divise les jours,
-Que d'un ordre éternel sa sur brillante et pure
+Que d'un ordre éternel sa sœur brillante et pure
 Aux heures de la nuit éclaire la nature ;
 Que la terre donnée en partage aux humains
 Ne soit jamais ingrate au travail de leurs mains ;
@@ -940,7 +940,7 @@ C'est une femme aussi, mais son être est céleste.
 Au lieu que je péris, non contre son souhait,
 Mais par une autre qu'elle et même qu'elle hait.
 Peux-tu, faible Junon, vanter cette journée
-Et voir d'un il content finir ma destinée ?
+Et voir d'un œil content finir ma destinée ?
 Une autre a sur ma perte établi son bonheur,
 Une mortelle main t'a ravi cet honneur,
 Une femme à ta honte accomplit son attente,
@@ -1006,7 +1006,7 @@ Qui cause le débris de toute sa maison.
 Lorsque je t'ai quittée, et Lychas qui le porte,
 Une obscure fumée au milieu de la porte
 M'a fait baisser la vue, et j'ai vu sur le seuil,
-Ô prodige ! Ô spectacle épouvantable à l'il !
+Ô prodige ! Ô spectacle épouvantable à l'œil !
 Sous deux gouttes de sang par hasard répandues ,
 Du bois se consumer et des pierres fendues ;
 L'air en était obscur, la terre en écumait,
@@ -1140,7 +1140,7 @@ D'affreuses légions la campagne est couverte,
 Le juste bras du Ciel sur ma tête descend,
 Les enfers vont s'ouvrir et la terre se fend ;
 Déjà Mégère sort, et ses noires couleuvres
-Vont ajouter ma perte à leurs tragiques uvres.
+Vont ajouter ma perte à leurs tragiques œuvres.
 Que faut-il ? Ce héros ne veut-il que mon sang ?
 Il est prêt à sortir, piquez, percez ce flanc.
 Mais quel dieu, quel démon ou quel bras redoutable
@@ -1177,7 +1177,7 @@ Mais tu portes le coup, et tu ne parais pas.
 Ô mal plus fort qu'Alcide et plus que son courage !
 Peuples que j'ai servis, rois que j'ai protégés,
 Enfers que j'ai vaincus, dieux que j'ai soulagés,
-Pouvez vous aujourd'hui d'un il assez humide
+Pouvez vous aujourd'hui d'un œil assez humide
 Voir en ce triste corps ce qui reste d'Alcide,
 Et de ce qu'il était faire comparaison ?
 D'où me naît cette peste, et quel est ce poison ?
@@ -1213,7 +1213,7 @@ Le fils d'Amphitrion, et non pas de Jupin.
 Ce lieu brûle déjà de l'air que j'y respire.
 La place autour de moi fume de toutes parts,
 Et ces humides fleurs sèchent à mes regards.
-Tranchez, cruelles surs, cette fatale trame
+Tranchez, cruelles sœurs, cette fatale trame
 Qui ne peut consommer, qui résiste à la flamme,
 Achevez de mes jours le pénible fuseau,
 Et de toutes vos mains pressez-y le ciseau ;
@@ -1407,7 +1407,7 @@ Déjanire à nos yeux, malgré notre défense,
 D'un ruisseau de son sang a lavé son offense.
 
 -*who_alcmene
-Son supplice était juste, et mon il ne peut pas
+Son supplice était juste, et mon œil ne peut pas
 Refuser toutefois des pleurs à son trépas.
 Puisque tu fus présent à la fin de sa vie,
 Dis-moi de quelle sorte elle se l'est ravie,
@@ -1511,7 +1511,7 @@ Et qu'il y rende l'âme aux yeux même d'Iole.
 **** *book_ *id_V01 *act_V *date_1634 *creator_rotrou
 
 -*who_lucinde
-Toi qui sais de quel il il vit borner ses jours,
+Toi qui sais de quel œil il vit borner ses jours,
 Fais-moi de ce trépas le tragique discours.
 Quelle fut sa vertu ?
 
@@ -1531,7 +1531,7 @@ Et fut dans les charbons comme parmi des roses.
 D'un front toujours égal ?
 
 -*who_philoctete
-      Et d'un il plus riant
+      Et d'un œil plus riant
 Que celui du soleil n'est dessus l'orient.
 Il acquit sur le feu sa dernière victoire,
 Et vit finir sa vie en achevant sa gloire.
@@ -1586,7 +1586,7 @@ De nouveau s'abandonne à sa douleur amère,
 Crie, accuse le Ciel, nomme les dieux jaloux,
 Et va tomber pâmée à quelques pas de nous.
 C'est là que la constance eut d'inutiles armes,
-C'est là qu'il soupira, son il versa des larmes,
+C'est là qu'il soupira, son œil versa des larmes,
 Il cessa d'être Alcide en ce moment fatal,
 Et plaignit les regrets dont on plaignait son mal.
 Mais que cette douleur fut bientôt consolée
@@ -1597,7 +1597,7 @@ Et, si tu fus toujours conforme à mon envie,
 Ne pleure point la mort dont j'achète la vie ;
 Accompli, seulement l'arrêt qui t'est prescrit,
 Et fais que sur ma tombe Arcas rende l'esprit. »
-À ces mots, le teint doux, l'il gai, la face ouverte,
+À ces mots, le teint doux, l'œil gai, la face ouverte,
 Il nous embrasse tous, et tous pleurent sa perte.
 Il paraît seul content, et, riant de nos pleurs,
 Entre dans ce bûcher comme en un lit de fleurs.
@@ -1739,7 +1739,7 @@ Révérez ce héros, fuyez, ombres profanes,
 Du glorieux rivage où reposent ses mânes.
 Changez, sombres forêts, vos cyprès en lauriers,
 Qui seuls fassent ombrage à ce roi des guerriers ;
-Et vous, fatales surs, reines des destinées,
+Et vous, fatales sœurs, reines des destinées,
 Vous, dont les noires mains ourdissent nos années,
 Cessez à mon fuseau vos travaux superflus ;
 Que fait Alcmène ici quand Alcide n'est plus ?

@@ -1,0 +1,2161 @@
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Les Prétieuses Ridicules. Comédie représentée au Petit Bourbon, nouvellement mise en vers.</title>
+        <author key="Somaize, Antoine Baudeau (1630?-16.. ; sieur de)">Antoine Baudeau de Somaize</author>
+        <principal>Georges Forestier</principal>
+        <editor>Léa Delourme</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Léa Delourme sous la direction de Georges Forestier (2013-2014)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules/</idno>
+        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules.xml</idno>
+        <idno type="html">http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules.html</idno>
+        <idno type="text">http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules.txt</idno>
+        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules.epub</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1660"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>LES<lb/>PRETIEUSES <lb/>RIDICULES <lb/>COMEDIE. <lb/>REPRESENTÉE <lb/><hi rend="i">au Petit Bourbon.</hi><lb/>NOUVELLEMENT <lb/>mises en Vers.</head>
+      <div xml:id="epitre" type="dedication">
+        <pb n="III"/>
+        <head>[EPÎTRE] A MADEMOISELLE <lb/>MADEMOISELLE <hi rend="b">MARIE</hi> DE <hi rend="b">MANCINY</hi>.</head>
+        <p><hi rend="i">MADEMOISELLE</hi>,</p>
+        <p><hi rend="i">Encore que je sçache avec toute la France, [</hi><pb n="IV"/>] <hi rend="i">que vous n’estes nèe que pour les grandes choses, et qu’il n’appartient qu’à ceux du Sang dont vous sortez de mettre la derniere main à tout ce qui paroist impossible ; Et qu’ainsi, soit pour vous divertir, soit pour vous loüer, on est toû-/[</hi><pb n="V"/>]<hi rend="i">/-jours temeraire quoy qu’on ose entreprandre. Je ne laisse pas <hi rend="sc">Mademoiselle</hi>, de vous faire un present <ref target="#vulgaire1">vulgaire*</ref> en vous offrant cette Comedie, qui quelque reputation qu’elle ait euë en prose, m’a semblé n’avoir pas tous les [</hi><pb n="VI"/>] <hi rend="i">agremens qu’on luy pouvoit donner, &amp; c’est ce qui m’a fait resoudre à la tourner en vers pour la mettre en estat de meriter avec un peu plus de justice les aplaudissemens qu’elle a receuës de tout le monde, plûtôt par <ref target="#bonheur">bon-heur*</ref> que par me-/[</hi><pb n="VII"/>]<hi rend="i">/-rite. Je sçay bien qu’il doit sembler <ref target="#estrange1">estrange*</ref> de me voir abaisser une chose que j’ose vous offrir ; mais je ne pretens pas qu’elle me doive ny sa gloire, ny son abaissement, &amp; je ne regleray l’estime que j’en dois faire qu’au jugement que vous en [</hi><pb n="VIII"/>] <hi rend="i">ferez : que si je luy laisse maintenant quelques avantages des acclamations publiques qu’elle a receuës, &amp; en Italien &amp; en François</hi>, <hi rend="i">ce n’est que parce qu’ils me fournissent l’occasion de vous donner une preuve de mon respect en met-/[</hi><pb n="IX"/>]<hi rend="i">/-tant cette version que j’en ay faite sous vostre protection. Je ne suis pas assez vain pour m’imaginer que ce foible homage m’aquite de ce que je vous dois, ou qu’il ait rien de proportionnè à ce merite qui vous mét autant au dessus du [</hi><pb n="X"/>] <hi rend="i">commun par son esclat que vous l’étes déja par celuy du rang que vous donne vostre naissance. Je sçais trop bien comme vous sçavez juger de tout ce que peuvent produire les plus beaux genies, pour vous offrir comme un ouvrage considerable une Sa-/[</hi><pb n="XI"/>]<hi rend="i">/-tire qui doit sa plus grande reusite à ce certain courant des choses qui les fait recevoir de quelque nature qu’elles soient &amp; que nous appellons la mode ; &amp; lors que je vous l’offre, je ne fais qu’imiter les Romains, qui presentoient autre-/[</hi><pb n="XII"/>]<hi rend="i">/-fois des lauriers aux vainqueurs, non pas pour payer leurs victoires ; mais seulement pour tesmoigner qu’ils connoissoient ce qui leur estoit deu &amp; pour servir comme de preludes à la pompe des Triomphes qui leur estoient destinez. [</hi><pb n="XIII"/>] <hi rend="i">Je ne me permets <hi rend="sc">mademoiselle</hi>, que ce que ces Maistres du monde accordoient à leurs moindres Citoyens, &amp; je vous presente une bagatelle comme le dernier Romain avoit la liberté d’offrir des branches de Laurier : Je laisse [</hi><pb n="XIV"/>] <hi rend="i">dis-je à des plumes plus sçavantes &amp; plus hardies à disposer des ornemens dont on peut composer vostre Panegerique, de mesme que le peuple laissoit au Senat le pouvoir &amp; le soin de decerner des triomphes à ceux dont les grandes actions en</hi><pb n="XV"/><hi rend="i">meritoient. Je ne me sens pas assez fort pour une si haute entreprise, &amp; je borne mes plus vastes projets à celuy d’obtenir de vous la permission de me dire</hi>,</p>
+        <p>MADEMOISELLE,</p>
+        <p>Vostre tres-humble &amp; tres-obeïssant serviteur.</p>
+        <p><hi rend="sc">somaize</hi>.<pb n="XVI"/></p>
+      </div>
+      <div xml:id="preface" type="preface">
+        <head>PREFACE.</head>
+        <p>L'Usage des Prefaces m’a semblé si utile à ceux qui mettent quelque chose en public, qu’encore que je sçache qu’il n’est pas generalement aprouvé, je n’ay pourtant pû m’empescher de le suivre, resolu quoy qu’il arrive de prendre pour garand de ce que je fais la coûtume qui les a jusques icy authorisées.</p>
+        <p>Ce n’est pas que je veuille suivre celle de ces Autheurs avides de loüanges qui craignant<pb n="XVII"/> qu’on ne leur rende pas tout l’honneur qu’ils croyent meriter, y inserrent eux-mesmes leurs Panegeriques, &amp; font souvent leurs Apologies avant qu’on les accuse. Mon bût est de divertir le Lecteur, &amp; de me divertir moy mesme : Toutefois comme il s’en peut trouver d’assez scrupuleux pour croire que c’est trop <ref target="#hazarder">hazarder*</ref> d’exposer aux yeux de tout le monde un ouvrage aussi remply de defauts que celuy-cy, sans leur donner du moins quelques apparentes excuses ; Je veux bien à cet endroit dire quelque chose pour le contenter.</p>
+        <p><pb n="XVIII"/> Je diray d’abord qu’il semblera extraordinaire qu’apres avoir loüé Mascarille, comme j’ay fait dans les Veritables Pretieuses, je me sois donné la peine de mettre en Vers un ouvrage dont il se dit Autheur &amp; qui sans doute luy doit quelque chose, si ce n’est parce qu’il y a adjouté de son estoc au vol qu’il en a fait aux Italiens, à qui Monsieur l’Abbé de Pure les avoit donnez ; au moins pour y avoir adjouté beaucoup par son jeu, qui plût à assez de gens pour luy donner la vanité d’estre le premier Farceur de France. C'est<pb n="XIX"/> toûjours quelque chose d’éxceller en quelque mestier que ce soit, &amp; pour parler selon le vulgaire, il vaut mieux estre le premier d’un village, que le dernier d’une ville, bon Farceur, que <ref target="#meschant">meschant*</ref> Comedien ; mais quittons la parentese &amp; retournons aux Pretieuses. Elles ont esté trop generalement receuës &amp; approuvées pour ne pas avoüer que j’y ay pris plaisir, &amp; qu’elles n’ont rien perdu en François de ce qui les fist suivre en Itallien ; &amp; ce seroit faire le modeste à contre-temps, de ne pas dire que je crois ne leur avoir rien des-/<pb n="XX"/>/-robé de leurs agremens en les mestant en Vers : mesme si j’en voulois croire ceux qui les ont veuës, je me vanterois d’y en avoir beaucoup adjouté ; mais quand je le dirois l’on ne seroit pas obligé de s’en raporter à moy, &amp; quand mon Lecteur me donneroit un démenty, il seroit de ceux qui se souffrent sans peine &amp; qui ne coutent jamais de sang. Aussi ne veus-je pas les loüer, &amp; bien loings de le faire, je dis ingenuëment que ce n’est en bien des endroits, que de la prose rimée, qu’on y trouvera plusieurs vers sans repos &amp; dont la cadance<pb n="XXI "/>est fort rude ; mais le Lecteur verra aisement que ce n’est qu’aux endroits où j’ay voulu conserver mot à mot le sens de la prose, &amp; lors que je les ay trouvez tous faits. L'on y verra encore des vers dont le sens est lié &amp; qui sont enchaisnez les uns avec les autres comme de pauvres forçats, &amp; d’autres enfin dont les rimes n’ont pas toute la richesse qu’on leur pourroit donner, je n’en donneray pourtant point d’excuse ; ne croyant pas estre obligé de suivre dans une Comedie comme celle-cy, une reigle que les meilleures plumes n’observent<pb n="XXII"/> pas dans leurs ouvrages les plus serieux : enfin je ne diray rien des Pretieuses en Vers qui puisse exiger de ceux qui les verront une bonté forcée ; je ne veux rien que le plaisir du Lecteur, &amp; serois bien faché d’oster le moyen de Critiquer à ceux qui se plaisent à le faire. Ainsi quoy qu’il me fust aisé de dire bien des choses pour justifier mes deffauts &amp; que je n’eusse qu’à m’estandre sur la dificulté qu’il y a de mettre en Vers mot à mot une prose aussi bizare que celle que j’ay euë à tourner; que je peusse facillement faire voir que tout le plaisant<pb n="XXIII"/> des Pretieuses consistoit presque, en des mots aussi contraires à la douceur des Vers que necessaires aux agremens de cette Comedie : je laisse pourtant toutes ces choses pour laisser le Lecteur en liberté, &amp; je proteste icy que la Critique ne m’espouvante point &amp; que je serois fort mary de dire le moindre mot pour l’éviter, &amp; non seulement je la souffre pour cette vertion, mais je consens que l’on s’en serve encore à l’esgard du Procez des Pretieuses qui est de mon invention pure, &amp; qui si tout le monde est de mon sentiment divertira<pb n="XXIV"/> fort, au moins ne l’ay je fait que dans cette pensée.</p>
+        <p>Cette Preface auroit à peu pres la longueur qu’elle devroit avoir, &amp; je la finirois volontiers en cet endroit s’il ne me restoit encore un peu de papier qu’il faut remplir de quoy que ce puisse estre quand ce ne seroit que pour grossir le Livre ; Toutefois pour ne me pas esloigner de mon sujet ; je diray quoy que sans dessein de me deffendre ; que j’aurois eu bien plus de facilité de traduire une piece de tout autre langue en vers François, que d’y mettre une prose faite en ma propre<pb n="XXV"/> langue ; dans toute autre j’aurois assez fait de rendre les pensées de mon Autheur. Les termes auroient esté à ma <ref target="#discretion">discretion*</ref> &amp; tout auroit presque despendu de mon choix ; mais icy pour rendre la chose fidellement, je n’ay pas seulement esté contraint de mettre les pensées, il m’a falu mettre aussi les mesmes termes ; que si j’ay adjouté ou diminué selon que les rimes m’y ont obligé, je n’ay rien à respondre à cela, sinon que pour les rendre comme elles estoient, il falloit les laisser en prose ; peut estre qu’au sentiment de plusieurs j’aurois<pb n="XXVI"/> mieux fait que de les mettre en rimes, peut-estre aussi qu’au jugement de ceux qui ayment les vers j’auray fort bien reussi. Tout cela est <ref target="#douteux">douteux*</ref> ; mais il est certain que ce n’est pas là mon plus grand chagrin, &amp; que si ceux pour qui je les ay faites les trouvent à leur gré, il m’est bien indifferend que les autres les condamnent ou les approuvent, en tout cas que ceux qui ne s’y divertiront pas ayent recours au Dictionnaire des Prétieuses ou à la Satyre. Comme tout despend du caprice, peut-estre qu’ils y trouverront mieux leur compte &amp; pour moy je seray content, pourveu qu’ils se divertissent de quelque maniere que ce soit.<pb n="XXVII"/></p>
+      </div>
+      <div xml:id="elegie" type="dedication">
+        <head>A MADEMOISELLE <lb/>MADEMOISELLE <hi rend="b">MARIE</hi> DE <hi rend="b">MANCINY</hi><lb/>ELEGIE.</head>
+        <lg rend="i">
+          <l n="1">Epris, charmé, remply de la plus belle idée </l>
+          <l n="2">Dont une ame jamais puisse estre possedée</l>
+          <l n="3">Je me laisse emporter à ces nobles ardeurs</l>
+          <l n="4">Qui destruisent la crainte, &amp; r'assurent les cœurs.</l>
+          <l n="5">Je conçois un dessein qui m’<ref target="#estonner1">estonne*</ref> moy-mesme,[<pb n="XXVIII"/>]</l>
+          <l n="6">Mais comme le danger la gloire en est extreme,</l>
+          <l n="7">Quand j’y succomberois je serois glorieux,</l>
+          <l n="8">C'est perir noblement que perir à vos yeux ;</l>
+          <l n="9">On ne se repent point d’une belle entreprise</l>
+          <l n="10">Et de quelque terreur qu’une ame soit <ref target="#surprise">surprise*</ref></l>
+          <l n="11">Pour en venir à bout on la voit tout oser</l>
+          <l n="12">Aux plus facheux revers on la voit s’exposer,</l>
+          <l n="13">Pour moy dans le projet que je viens de me faire</l>
+          <l n="14">On ne peut m’accuser que d’estre temeraire ;</l>
+          <l n="15">Mais qui peut ignorer que la temerité</l>
+          <l n="16">Surpasse bien souvent la generosité</l>
+          <l n="17">Parlons mieux &amp; disons qu’il n’est pas ordinaire</l>
+          <l n="18">De voir un genereux n’estre point temeraire,</l>
+          <l n="19"><hi rend="i">Qu'on ne peut que par elle affronter les hazards,                 [</hi><pb n="XXIX"/>]</l>
+          <l n="20">Qu'elle a seule formé les premiers des Cæsars</l>
+          <l n="21">Et que les conquerans que nous vante l’Histoire</l>
+          <l n="22">Sans leurs temeritez n’auroient pas tant de gloire.</l>
+          <l n="23">Cette vertu propice aux belles passions</l>
+          <l n="24">Peut seule nous conduire aux grandes actions,</l>
+          <l n="25">Rien que l’evenement ne la rend criminelle ;</l>
+          <l n="26">Mais lors qu’on reüssit elle n’est jamais telle :</l>
+          <l n="27">Osons donc dans l’ardeur qui nous brule le sein</l>
+          <l n="28">Incertain du succez suivre nostre dessein</l>
+        </lg>
+        <lg rend="i">
+          <l n="29">Vous illustre MARIE, à qui mes vers s’adressent</l>
+          <l n="30">Soufrez qu’en vostre nom tous mes veux s’interessent</l>
+          <l n="31"><hi rend="i">Que je chante la gloire &amp; face voir à tous                    [</hi><pb n="XXX"/>]</l>
+          <l n="32">Les belles qualitez qui se trouvent en vous ;</l>
+          <l n="33">Que peuvent toutefois mes foibles tesmoignages</l>
+          <l n="34">Vos yeux parlent assez de tous vos advantages</l>
+          <l n="35">Il n’importe achevons en un dessein si beau</l>
+          <l n="36">Ces yeux nous serviront d’objet &amp; de flambeau.</l>
+          <l n="37">En effet si les yeux sont les miroirs de l’ame</l>
+          <l n="38">Que ne verray-je pas au travers de leur flame.</l>
+          <l n="39">Je trouverray d’abord d’une suitte d’ayeux</l>
+          <l n="40">La grandeur exprimée en ces aymables yeux</l>
+          <l n="41">Et de leur majesté la venerable image</l>
+          <l n="42">Avec des trais plus doux peinte sur ce visage</l>
+          <l n="43"><hi rend="i">J'y connoistray ce droit naturel aux Romains                    [</hi><pb n="XXXI"/>]</l>
+          <l n="44">D'estendre leur pouvoir dessus tous les humains</l>
+          <l n="45">Et que ce qu’ils faisoient par l’effort de leurs armes</l>
+          <l n="46">Vous sçavez l’achever par celuy de vos charmes ;</l>
+          <l n="47">Mais vous faites bien plus que ces premiers vainqueurs</l>
+          <l n="48">Ils triomphoient des corps, vous triomphez des cœurs</l>
+          <l n="49">On évitoit leurs fers, on adore vos chaisnes</l>
+          <l n="50">Si l’on en sent le poids l’on en cherit les peines</l>
+          <l n="51">Et vostre Empire est tel dessus les libertez</l>
+          <l n="52">Que mesme vous forcez jusques aux volontez :</l>
+          <l n="53">Ouy tel est de vos yeux, la douceur &amp; l’<ref target="#empire">Empire*</ref></l>
+          <l n="54">Qu'ils peuvent beaucoup plus que je ne sçaurois dire ;</l>
+          <l n="55"><hi rend="i">Mais si voyant vos yeux j’y trouve tant d’<ref target="#appas1">appas*</ref>[</hi><pb n="XXXII"/>]</l>
+          <l n="56">Consultant vostre Esprit que ne verrai-je pas ?</l>
+          <l n="57">Et si poussant plus loïng, ce dessein qui m’<ref target="#estonner1">estonne*</ref></l>
+          <l n="58">Je voulois regarder toute vostre personne</l>
+          <l n="59">En voir separement les aymables tresors</l>
+          <l n="60">De vostre ame à loisir consulter les accords</l>
+          <l n="61">En tracer une idée &amp; vous y peindre entiere</l>
+          <l n="62">Combien de vous loüer verrai-je de matiere</l>
+          <l n="63">Je le laisse à juger, &amp; borne tous mes vœux</l>
+          <l n="64">A montrer dans mes vers, ce qu’on voit dans vos yeux.</l>
+          <l n="65">Mais apres que ces yeux m’ont sçeu faire connoistre</l>
+          <l n="66">La noblesse du sang dont on vous a veu naistre</l>
+          <l n="67">Et que par leur esclat instruit de leur pouvoir</l>
+          <l n="68" rend="i">J’ay taché d’exprimer ce qu’ils m’en ont fait voir </l>
+          <l n="69"><hi rend="i">Soufrez sans vous lasser que mes foibles paupieres                [</hi><pb n="XXXIII"/>]</l>
+          <l n="70">En empruntent encor de nouvelles lumieres</l>
+          <l n="71">Et que par vos regards instruit de mieux en mieux</l>
+          <l n="72">Je puisse peindre au vif ce qu’on lit dans vos yeux ;</l>
+        </lg>
+        <lg rend="i">
+          <l n="73">Mais je m’y perds moy-mesme &amp; vois mon impuissance</l>
+          <l n="74">Il faudroit pour le faire avoir leur esloquence</l>
+          <l n="75">Ou du moins que mes vers eussent les agremens</l>
+          <l n="76">Que l’on peut remarquer dedans leurs mouvemens</l>
+          <l n="77">Qu'on y vist cette ardeur qui brille en vos prunelles</l>
+          <l n="78">Qu'à leur force on conneust que je veux parler d’elles</l>
+          <l n="79">Et qu’enfin mes accens plus coulans &amp; plus doux</l>
+          <l n="80">Meritassent l’honneur d’estre estimez de vous</l>
+          <l n="81"><hi rend="i">Alors par ce penser ma veine r'animée                        [</hi><pb n="XXXIV"/>]</l>
+          <l n="82">Traçeroit ces vertus dont mon ame est charmée</l>
+          <l n="83">Et suivant de vos yeux l’éclat &amp; les rayons</l>
+          <l n="84">J’en ferois à plaisir les illustres <ref target="#crayon">crayons*</ref> ;</l>
+        </lg>
+        <lg rend="i">
+          <l n="85">Dans ce vaste tableau chacune auroit sa place                85</l>
+          <l n="86">On y verroit d’abord une divine audace</l>
+          <l n="87">Et sous divers habits on verroit tour à tour</l>
+          <l n="88">Les graces &amp; l’honneur, qui vous feroient la cour,</l>
+          <l n="89">Plus loin l’on y verroit la discrete prudance</l>
+          <l n="90">Regler vos actions d’une juste balance</l>
+          <l n="91">En soustenir par tout le poids &amp; la grandeur,</l>
+          <l n="92">Pour compagne elle auroit une fiere pudeur,</l>
+          <l n="93">Outre cette pudeur, on y verroit encore</l>
+          <l n="94">Toutes ces qualitez qui font qu’on vous adore</l>
+          <l n="95">Et sur tout on verroit la liberalité</l>
+          <l n="96">Parler de vos excez de generosité,</l>
+          <l n="97"><hi rend="i">Je ferois mes effors pour y pouvoir dépeindre                    [</hi><pb n="XXXV"/>]</l>
+          <l n="98">Cette grande vertu qu’autrepart il faut feindre</l>
+          <l n="99">Et pour n’y perdre pas &amp; ma peine &amp; mes soins</l>
+          <l n="100">J'en peindrois à vos pieds cent illustres tesmoins</l>
+          <l n="101">Et sçaurois faire voir par tant d’illustres</l>
+          <l n="102">Que vous devez regner sur les cœurs des monarques</l>
+          <l n="103">Que tout le monde entier reconnoissant vos droits</l>
+          <l n="104">Tiendroit à grand bonheur de recevoir vos loix.    </l>
+        </lg>
+        <lg rend="i">
+          <l n="105">Mais attandant l’<ref target="#aveu">aveu*</ref> d’une telle entreprise</l>
+          <l n="106">De grace laissez moy jouïr de ma surprise</l>
+          <l n="107">Par mon estonnement montrer vostre pouvoir</l>
+          <l n="108">Il en marquera plus que je n’en ay fait voir.</l>
+          <l n="109"><hi rend="i">Quand pour loüer quelqu’un l’on manque d’eloquence                [</hi><pb n="XXXVI"/>]</l>
+          <l n="110">C'est en dire beaucoup que garder le silence</l>
+          <l n="111">Ainsi je ne crains pas que le mien soit suspect</l>
+          <l n="112">Puis qu’en ne disant rien je prouve mon Respect.</l>
+        </lg>
+        <p rend="center"><hi rend="b">SOMAIZE</hi>    [<pb n="XXXVII"/>]</p>
+      </div>
+      <div type="dedication">
+        <head>AU LECTEUR.</head>
+        <p>Quoy que dans un petit ouvrage, l’on n’ait pas coustume de marquer les fautes d’impression, quelques-unes de celles qui se sont passées dans celuy-cy, m’ont semblé assez considerables pour les mettre en ce lieu ; c’est pourquoy page 4. vers 12. au lieu de, à ne plus s’eslever, lisez, à <hi rend="i">ne se plus loüer</hi>, page 10. au lieu des vers 5 &amp; 6. lisez.</p>
+        <lg rend="i">
+          <l n="113">Ces pendardes enfin, faut que je le confesse.</l>
+          <l n="114">Me veulent ruiner en pommadant sans cesse.</l>
+        </lg>
+        <p>Page 14. au 3. vers, adjoustez au commencement, <hi rend="i">Et</hi> page 15. vers 2. au lieu de vous devriez, lisez, <hi rend="i">il vous faudroit un peu</hi>. Page 47 vers 9. apres bien, adjoustez, <hi rend="i">tost.</hi> page 55. au lieu du vers quatre, lisez.</p>
+        <l n="115" rend="i">Qui seront reliez mieux que ceux du commun</l>
+        <p>Je ne marqueray point plusieurs autres vers qui ont plus ou moins de syllabes qu’il ne leur faut parce que se trouvant peu de coppies dans lesquelles il s’en soit coulé, &amp; les ayant corrigées de bonne heure, je te pourois monstrer des fautes que tu ne trouverois pas s’il tombait entre tes mains de celles qui sont corrigées.</p>
+        <p>Par exemple, il y en a dans la page 59 devant le 5. vers, où le nom de <hi rend="i">Mascarille</hi>, est oublié.</p>
+        <p><pb n="XXXVIII"/> Il faut que les procez plaisent merveilleusement aux Libraires du Palais, puis qu’à peine le Dictionnaire des Pretieuses est en vente, &amp; cette Comedie achevée d’imprimer, que de Luines, Sercy &amp; Barbin, malgré le Privilege que Monseigneur le Chancelier m’en a donné, avec toute la connoissance possible, ne laissent pas de faire signifier une opposition à mon Libraire : comme si jusques icy les Versions avoient esté defenduës, &amp; qu’il ne fust pas permis de mettre le <hi rend="i">Pater noster</hi> François, en vers.                    <hi rend="b"/><pb n="XXXIX"/></p>
+      </div>
+      <div type="set">
+        <head>LES PERSONNAGES. </head>
+      </div>
+      <div type="act" xml:id="I">
+        <pb n=" A 1"/>
+        <head>[Acte I]</head>
+        <div type="scene" xml:id="I01">
+          <head>SCENE I.</head>
+          <sp who="du-croisy" xml:id="I01-1">
+            <l n="1" part="I" xml:id="l1">Seigneur, la Grange.</l>
+          </sp>
+          <sp who="la-grange" xml:id="I01-2">
+            <l part="M">He bien ?<pb n="2"/></l>
+          </sp>
+          <sp who="du-croisy" xml:id="I01-3">
+            <l part="F">Regardez moy sans rire</l>
+          </sp>
+          <sp who="la-grange" xml:id="I01-4">
+            <l n="2" xml:id="l2">Parlez, je vous <ref target="#entendre2">entends*</ref>. Qu'avez-vous à me dire ?</l>
+            <l n="3" part="I" xml:id="l3">Quoy,</l>
+          </sp>
+          <sp who="du-croisy" xml:id="I01-5">
+            <l part="F">De nostre visite estes vous satisfait ?</l>
+          </sp>
+          <sp who="la-grange" xml:id="I01-6">
+            <l n="4" part="I" xml:id="l4">Pas trop à dire vray, mais vous ?</l>
+          </sp>
+          <sp who="du-croisy" xml:id="I01-7">
+            <l part="F">Pas tout à fait,</l>
+          </sp>
+          <sp who="la-grange" xml:id="I01-8">
+            <l n="5" xml:id="l5">J'en suis scandalisé, pour moy je le <ref target="#confesser2">confesse*</ref></l>
+            <l n="6" xml:id="l6">Un <ref target="#procede">procedé*</ref> semblable, &amp; me choque &amp; me blesse,</l>
+            <l n="7" xml:id="l7">Deux Pecques de Province, ont-elles dites moy ?</l>
+            <l n="8" xml:id="l8">Jamais plus fierement, tenu leur quant à moy<pb n="3"/></l>
+            <l n="9" xml:id="l9">Et deux hommes jamais, en pareille occurrence</l>
+            <l n="10" xml:id="l10">Ont-ils esté receus avec plus d’arrogance ?</l>
+            <l n="11" xml:id="l11">Pendant que nous avons demeuré pour les voir</l>
+            <l n="12" xml:id="l12">A peine elles nous ont prié de nous assoir,</l>
+            <l n="13" xml:id="l13">Je suis encor surpris, d’une chose pareille,</l>
+            <l n="14" xml:id="l14">On n’a jamais tant veu, se parler à l’oreille,</l>
+            <l n="15" xml:id="l15">Tant se frotter les yeux, tant bâiller, tant moucher,</l>
+            <l n="16" xml:id="l16">Tant s’enquerir de l’heure, &amp; si souvent <ref target="#cracher">cracher*</ref>.</l>
+            <l n="17" xml:id="l17">Nous ont-elles jamais dit, quatre mots de suitte,</l>
+            <l n="18" xml:id="l18">Ouy, ou non, ont-ils pas payé nostre visitte,</l>
+            <l n="19" xml:id="l19">Et quand nous aurions mesme esté de vrais <ref target="#gredin">gredins*</ref></l>
+            <l n="20" xml:id="l20">Nous auroient-elles pû monstrer plus de desdains.</l>
+          </sp>
+          <sp who="du-croisy" xml:id="I01-9">
+            <l n="21" xml:id="l21">A vous ouïr parler, de cet accueil farouche</l>
+            <l n="22" xml:id="l22">Il semble tout de bon, que la chose vous touche.</l>
+          </sp>
+          <sp who="la-grange" xml:id="I01-10">
+            <l n="23" xml:id="l23"><ref target="#doute">Sans doute*</ref> elle me touche, &amp; de telle façon</l>
+            <l n="24" xml:id="l24">Que devant qu’il soit peu, j’en veux tirer raison ;<pb n="4"/></l>
+            <l n="25" xml:id="l25">Je <ref target="#connoistre">connois*</ref> ce que c’est, l’air Pretieux sans doute</l>
+            <l n="26" xml:id="l26">Dans la campagne aussi, vient de prendre sa route,</l>
+            <l n="27" xml:id="l27">Et de Paris enfin courant, de part en part</l>
+            <l n="28" xml:id="l28">Nos donzelles en ont, humé leur bonne part ;</l>
+            <l n="29" xml:id="l29">On connoist aisement, en voyant leur personne</l>
+            <l n="30" xml:id="l30">Que c’est la vérité que ce que j’en soubçonne,</l>
+            <l n="31" xml:id="l31">On y voit certain air Cocquet &amp; Pretieux</l>
+            <l n="32" xml:id="l32">Et qui n’est en un mot, qu’un ambigu des deux :</l>
+            <l n="33" xml:id="l33">Pour en estre receu, je vois ce qu’il faut estre,</l>
+            <l n="34" xml:id="l34">Je vois ce qu’à leurs yeux, il faut enfin paroistre,</l>
+            <l n="35" xml:id="l35">Et si vous me croyez, nous leur devons joüer</l>
+            <l n="36" xml:id="l36">Un tour, pour leur apprendre à ne se plus <ref target="#louer">loüer*</ref>,</l>
+            <l n="37" xml:id="l37">La <ref target="#piece">piece*</ref>  assurement, paroistra sans seconde</l>
+            <l n="38" xml:id="l38">Et leur montrera mieux, à connoistre leur monde.<pb n="5"/></l>
+          </sp>
+          <sp who="du-croisy" xml:id="I01-11">
+            <l n="39" part="I" xml:id="l39">Comment ?</l>
+          </sp>
+          <sp who="la-grange" xml:id="I01-12">
+            <l part="F">J'ay Mascarille, un certain grand Laquais</l>
+            <l n="40" xml:id="l40">Qui passe au sentiment d’esprits assez mal faits,</l>
+            <l n="41" xml:id="l41">Pour estre un bel esprit, car au siecle où nous sommes</l>
+            <l n="42" xml:id="l42">Il est à bon marché, chez la pluspart des hommes.</l>
+            <l n="43" xml:id="l43">C'est un extravagant, qui par ambition</l>
+            <l n="44" xml:id="l44">Tasche d’estre par tout crû de condition,</l>
+            <l n="45" xml:id="l45">Il se picque d’esprit, de vers, de raillerie,</l>
+            <l n="46" xml:id="l46">Croit fort bien reussir, dans la galenterie</l>
+            <l n="47" xml:id="l47">Fait le maistre par tout, dedaigne ses Egaux</l>
+            <l n="48" xml:id="l48">Jusques à les traitter, d’ignorans de Brutaux.</l>
+          </sp>
+          <sp who="du-croisy" xml:id="I01-13">
+            <l n="49" xml:id="l49">He bien ! de ce valet que pretendez vous faire :<pb n="6"/></l>
+          </sp>
+          <sp who="la-grange" xml:id="I01-14">
+            <l n="50" xml:id="l50">Mon dessein n’a jamais esté de vous le taire</l>
+            <l n="51" xml:id="l51">Il nous faut.... mais sortons, car tout n’iroit pas bien</l>
+            <l n="52" xml:id="l52">Si Gorgibus, qui vient sçavoit nostre entretien.<pb n="7"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I02">
+          <head>SCENE II.</head>
+          <sp who="gorgibus" xml:id="I02-1">
+            <l n="53" xml:id="l53">He bien ? Vous avez veu ma niepce avec ma fille</l>
+            <l n="54" xml:id="l54">Avez vous resolu d’entrer dans ma famille,</l>
+            <l n="55" xml:id="l55">D'une pareille affaire, encor que dites vous ?</l>
+          </sp>
+          <sp who="la-grange" xml:id="I02-2">
+            <l n="56" xml:id="l56">Vous le sçaurez Monsieur, mieux d’elles, que de nous,</l>
+            <l n="57" xml:id="l57">Tout ce que nous pouvons <ref target="#present">à present*</ref> vous apprendre</l>
+            <l n="58" xml:id="l58">C'est, que nous avons trop de <ref target="#grace">graces*</ref> à vous rendre,</l>
+            <l n="59" xml:id="l59">De toutes vos bontez, de toutes vos faveurs<pb n="8"/></l>
+            <l n="60" xml:id="l60">Et que nous demeurons vos humbles serviteurs,</l>
+          </sp>
+          <sp who="gorgibus" xml:id="I02-3">
+            <l n="61" xml:id="l61">Oüais ? Ils sont mal contens, que cela veut-il dire.</l>
+            <l n="62" xml:id="l62">Faisons venir quelqu’un qui nous en puisse instruire.</l>
+            <l n="63" xml:id="l63">Je veux m’en enquerir, &amp; sçavoir promptement</l>
+            <l n="64" xml:id="l64">D'où leur pourroit venir, ce mescontentement :</l>
+            <l n="65" xml:id="l65">Ces coquines, tousjours me causent mille angoisses</l>
+            <l n="66" part="I" xml:id="l66">Hola ?<pb n="9"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I03">
+          <head>SCENE III.</head>
+          <sp who="marotte" xml:id="I03-1">
+            <l part="M">Plaist-il Monsieur ?</l>
+          </sp>
+          <sp who="gorgibus" xml:id="I03-2">
+            <l part="F">Où sont donc vos Maistresses ?</l>
+            <l n="67" part="I" xml:id="l67">Qu'on les face venir.</l>
+          </sp>
+          <sp who="marotte" xml:id="I03-3">
+            <l part="F">Je pense qu’elles sont</l>
+            <l n="68" part="I" xml:id="l68">Dedans leur Cabinet.</l>
+          </sp>
+          <sp who="gorgibus" xml:id="I03-4">
+            <l part="F">Qu'est-ce qu’elles y font ?<pb n="10"/></l>
+          </sp>
+          <sp who="marotte" xml:id="I03-5">
+            <l n="69" part="I" xml:id="l69">Pour les levres Monsieur,</l>
+          </sp>
+          <sp who="gorgibus" xml:id="I03-6">
+            <l part="M">Et quoy ?</l>
+          </sp>
+          <sp who="marotte" xml:id="I03-7">
+            <l part="F">De la pommade</l>
+          </sp>
+          <sp who="gorgibus" xml:id="I03-8">
+            <l n="70" xml:id="l70">Nous avons tous les jours une semblable aubade.</l>
+            <l n="71" xml:id="l71">Tout cela me desplaist, &amp; c’est trop pommader</l>
+            <l n="72" xml:id="l72">Qu'on les face descendre, allez &amp; sans tarder.</l>
+            <l n="73" xml:id="l73">Ces pendardes enfin, faut que je le <ref target="#confesser1">confesse*</ref>.</l>
+            <l n="74" xml:id="l74">Me veulent ruineren pommadant sans cesse.</l>
+            <l n="75" xml:id="l75">Mais je me facheray si l’on me pousse à bout ;</l>
+            <l n="76" xml:id="l76">Je ne vois que blancs-d’oeufs, laict virginal par tout,</l>
+            <l n="77" xml:id="l77">Par tout, dans le logis, je ne vois que paroistre<pb n="11"/></l>
+            <l n="78" xml:id="l78">Mille brinborions, que je ne puis connoistre :</l>
+            <l n="79" xml:id="l79">Elles ont employé, le lard de dix cochons</l>
+            <l n="80" xml:id="l80">Et je puis assurer que des pieds de moutons</l>
+            <l n="81" xml:id="l81">Dont icy chaque jour, elles font la despence</l>
+            <l n="82" xml:id="l82">Dix valets en auroient plus que leur suffisance.<pb n="12"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I04">
+          <head>SCENE IV.</head>
+          <sp who="gorgibus" xml:id="I04-1">
+            <l n="83" xml:id="l83">Cela n’est par ma foy du tout, ny bien ny beau</l>
+            <l n="84" xml:id="l84">Et c’est trop despencer, pour graisser son museau</l>
+            <l n="85" xml:id="l85">Dites ? Qu'ont ces Messieurs, qu’avez vous pû leur faire ?</l>
+            <l n="86" xml:id="l86">Ils sortent froidement, &amp; me semblent colere</l>
+            <l n="87" xml:id="l87">Puisque je l’avois dit, que ne les traittiez vous,</l>
+            <l n="88" xml:id="l88">Comme gens destinez, pour estre vos espoux.<pb n="B 13"/></l>
+          </sp>
+          <sp who="magdelon" xml:id="I04-2">
+            <l n="89" xml:id="l89">Ah ! Que dites vous là, quelle estime, mon pere</l>
+            <l n="90" xml:id="l90">Pourions nous toutes deux, &amp; devrions nous faire,</l>
+            <l n="91" xml:id="l91">(Quand bien vous nous l’auriez vous mesme commandé)</l>
+            <l n="92" xml:id="l92">De ces sortes de gens de qui le <ref target="#procede">procedé*</ref></l>
+            <l n="93" part="I" xml:id="l93">Est <ref target="#irregulier">irregulier*</ref>.</l>
+          </sp>
+          <sp who="cathos" xml:id="I04-3">
+            <l part="F">Des filles raisonnables</l>
+            <l n="94" xml:id="l94">Ne peuvent accepter des personnes semblables.</l>
+            <l n="95" xml:id="l95">Mon oncle, quel moyen de s’en accommoder ?</l>
+          </sp>
+          <sp who="gorgibus" xml:id="I04-4">
+            <l n="96" part="I" xml:id="l96">Que trouvez vous en eux ?</l>
+          </sp>
+          <sp who="magdelon" xml:id="I04-5">
+            <l part="F">Qu'osez-vous demander</l>
+            <l n="97" xml:id="l97">Ils n’ont fait leur debut que par le mariage.<pb n="14"/></l>
+          </sp>
+          <sp who="gorgibus" xml:id="I04-6">
+            <l n="98" xml:id="l98">Devoient-ils debutter par le concubinage ?</l>
+            <l n="99" xml:id="l99">Estoit-ce le moyen de gaigner vôtre cœur ?</l>
+            <l n="100" xml:id="l100">Ne devriez vous pas estimer leur <ref target="#ardeur3">ardeur*</ref>,</l>
+            <l n="101" xml:id="l101">Quoy ? Pouvoient-ils tous deux, parler d’une maniere</l>
+            <l n="102" xml:id="l102">Qui fust plus obligeante, &amp; deust plus satisfaire,</l>
+            <l n="103" xml:id="l103">Et ce lien sacré qu’ils <ref target="#pretendre">pretendent*</ref> tous deux</l>
+            <l n="104" xml:id="l104">Ne marque-t-il pas bien, la vertu de leurs vœux.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I04-7">
+            <l n="105" xml:id="l105">Mon pere, songez mieux, à tout ce que vous dites,</l>
+            <l n="106" xml:id="l106">Ces fautes tout de bon, ne sont pas trop petites ;</l>
+            <l n="107" xml:id="l107">Mais faites vous de grace, instruire une autre fois,</l>
+            <l n="108" xml:id="l108">Ce que vous avez dit, est du dernier Bourgeois,</l>
+            <l n="109" xml:id="l109">Je ne vous puis ouïr, &amp; la honte m’accable.</l>
+            <l n="110" xml:id="l110">Lors que je vous entends faire un discours semblable.</l>
+            <l n="111" xml:id="l111">J'en suis encore surprise &amp; confuse. Bon Dieu !<pb n="15"/></l>
+            <l n="112" xml:id="l112">Pour vous desabrutir, il vous faudroit un peu</l>
+            <l n="113" xml:id="l113">Apprendre ce que c’est, que le bel <ref target="#air">air*</ref> des choses.</l>
+          </sp>
+          <sp who="gorgibus" xml:id="I04-8">
+            <l n="114" xml:id="l114">Quel discours est-ce là ? quelles metamorphoses.</l>
+            <l n="115" xml:id="l115">Je n’ay que faire icy, ny d’air, ny de chanson</l>
+            <l n="116" xml:id="l116">Ce discours me desplaist, &amp; paroist sans raison,</l>
+            <l n="117" xml:id="l117">Et je te dis encor, que c’est estre tres-sage</l>
+            <l n="118" xml:id="l118">Que de parler ainsi, puis que le mariage,</l>
+            <l n="119" xml:id="l119">De chacun aujourd’huy, doit estre reveré</l>
+            <l n="120" xml:id="l120">Et qu’il n’a rien du tout, que de sainct &amp; sacré.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I04-9">
+            <l n="121" xml:id="l121">Dieux ! si chacun estoit de vostre <ref target="#humeur">humeur*</ref> mon pere,</l>
+            <l n="122" xml:id="l122">Que la fin d’un Roman, seroit facile à faire,</l>
+            <l n="123" xml:id="l123">Que cela seroit beau, si Cyrus <ref target="#dans-abord">dans l’abord*</ref><pb n="16"/></l>
+            <l n="124" xml:id="l124">Sans esprouver du tout, les caprices du sort</l>
+            <l n="125" xml:id="l125">Avoit Mandane, &amp; si sans hazarder sa vie</l>
+            <l n="126" xml:id="l126">Aronce, de plein pied, espousoit sa Clélie.</l>
+          </sp>
+          <sp who="gorgibus" xml:id="I04-10">
+            <l n="127" xml:id="l127">Qu'est-ce que celle-là me vient icy conter,</l>
+            <l n="128" xml:id="l128">A la fin je seray bien-tost las d’escouter.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I04-11">
+            <l n="129" xml:id="l129">Si vous vouliez mon pere un moment nous <ref target="#entendre2">entendre*</ref> ?</l>
+            <l n="130" xml:id="l130">Et ma cousine &amp; moy, nous pourions vous apprendre.</l>
+            <l n="131" xml:id="l131">Que jamais un <ref target="#hymen">hymen*</ref> ne se doit accorder</l>
+            <l n="132" xml:id="l132">Qu'apres les accidens qui doivent preceder.</l>
+            <l n="133" xml:id="l133">Il faut que dans l’abord, un amant veritable</l>
+            <l n="134" xml:id="l134">Afin qu’à sa maistresse il se rende agreable,</l>
+            <l n="135" xml:id="l135">Exprime adroitement ses plus <ref target="#cruel">cruels*</ref> tourmens,<pb n="17"/></l>
+            <l n="136" xml:id="l136">Il sçache <ref target="#debiter">debiter*</ref> tous les beaux sentimens,</l>
+            <l n="137" xml:id="l137">Et que sans se lasser, pour pouvoir la surprendre,</l>
+            <l n="138" xml:id="l138">Il sçache bien pousser, &amp; le doux &amp; le tendre,</l>
+            <l n="139" xml:id="l139">Que pour monstrer combien son cœur est enchaisné</l>
+            <l n="140" xml:id="l140">Il fasse tout cela d’un air passionné,</l>
+            <l n="141" xml:id="l141">Et s’il pretend enfin, avancer ses affaires,</l>
+            <l n="142" xml:id="l142">Que la procedure ait les formes ordinaires.</l>
+            <l n="143" xml:id="l143">Il doit dedans le temple, ou dedans d’autres lieux.</l>
+            <l n="144" xml:id="l144">Voir l’aymable beauté, qui cause tous les vœux,</l>
+            <l n="145" xml:id="l145">Ou bien estre conduit, <ref target="#fatalement">fatallement*</ref> chez elle</l>
+            <l n="146" xml:id="l146">Par un des bons amis, ou parent de la belle.</l>
+            <l n="147" xml:id="l147">Il sort apres cela, tout chagrin tout resveur,</l>
+            <l n="148" xml:id="l148">A l’objet de ses vœux, cache un temps son <ref target="#ardeur1">ardeur*</ref>,</l>
+            <l n="149" xml:id="l149">Cependant il luy rend de frequentes visites<pb n="18"/></l>
+            <l n="150" xml:id="l150">Et puis le plus souvent, apres bien des redites,</l>
+            <l n="151" xml:id="l151">On voit sur le tapis, mettre une question</l>
+            <l n="152" xml:id="l152">Qui fait adroitement sçavoir sa passion,</l>
+            <l n="153" xml:id="l153">Et qui quoy que la belle, en paroisse troublée</l>
+            <l n="154" xml:id="l154">Exerce les esprits de toute l’assemblée.</l>
+            <l n="155" xml:id="l155">De declarer son <ref target="#feu">feu*</ref>, le jour arrive enfin,</l>
+            <l n="156" xml:id="l156">Ce qui se fait souvent dedans quelque jardin</l>
+            <l n="157" xml:id="l157">Lors que par un bonheur, que le hazard ameine</l>
+            <l n="158" xml:id="l158">La compagnie quitte, ou plus loing se promeine,</l>
+            <l n="159" xml:id="l159">D'abord à cét adveu, succede un prompt couroux</l>
+            <l n="160" xml:id="l160">Qui banit quelque temps l’amant d’aupres de nous.</l>
+            <l n="161" xml:id="l161">Il trouve apres moyen, de rassurer nostre ame</l>
+            <l n="162" xml:id="l162">De nous accoustumer, aux discours de sa <ref target="#flamme">flamme*</ref>,</l>
+            <l n="163" xml:id="l163">Et de tirer de nous, cet important <ref target="#aveu">aveu*</ref></l>
+            <l n="164" xml:id="l164">Qui nous fait tant de peine, &amp; luy couste si peu.</l>
+            <l n="165" xml:id="l165">Viennent apres cela toutes les advantures<pb n="19"/></l>
+            <l n="166" xml:id="l166">Les jaloux desespoirs, les craintes les murmures,</l>
+            <l n="167" xml:id="l167">Les plaintes sans sujet, les cris &amp; les rivaux</l>
+            <l n="168" xml:id="l168">Qui d’un parfait amour, sont les plus cruels maux</l>
+            <l n="169" xml:id="l169">Quand par une soudaine, &amp; facheuse saillie</l>
+            <l n="170" xml:id="l170">Ils viennent traverser, une <ref target="#flamme">flame*</ref> establie.</l>
+            <l n="171" xml:id="l171">On voit venir encor, les persecutions</l>
+            <l n="172" xml:id="l172">D'un pere, qui combat de fortes passions,</l>
+            <l n="173" xml:id="l173">Qui s’obstine à les vaincre. On voit la jalousie ;</l>
+            <l n="174" xml:id="l174">Qui sur de faux soubçons trouble la <ref target="#fantaisie">fantaisie*</ref>,</l>
+            <l n="175" xml:id="l175">On voit enfin les pleurs &amp; les emportemens,</l>
+            <l n="176" xml:id="l176">Les fureurs d’un Amant, &amp; les enlevemens,</l>
+            <l n="177" xml:id="l177">Et tout ce qui s’ensuit. Dans les belles manieres,</l>
+            <l n="178" xml:id="l178">C'est ainsi que chacun doit traitter ses affaires,</l>
+            <l n="179" xml:id="l179">Ce sont regles enfin, dont il faut <ref target="#confesser1">confesser*</ref></l>
+            <l n="180" xml:id="l180">Que quiconque est galand ne peut se dispenser ;</l>
+            <l n="181" xml:id="l181">Mais peut-on jamais voir recherche plus brutalle,<pb n="20"/></l>
+            <l n="182" xml:id="l182">Parler de but en blanc, d’union conjugalle,</l>
+            <l n="183" xml:id="l183">Venir rendre visite, &amp; des le mesme jour</l>
+            <l n="184" xml:id="l184">Vouloir passer contract, pour monstrer leur amour</l>
+            <l n="185" xml:id="l185">Et prendre <ref target="#justement1">justement*</ref> (sans voir ce qu’il faut faire)</l>
+            <l n="186" xml:id="l186">Le Roman par la queuë. Encore un coup mon pere,</l>
+            <l n="187" xml:id="l187">Vous pouriez bien-tost voir, si vous preniez conseil,</l>
+            <l n="188" xml:id="l188">Qu'il n’est rien plus marchand qu’un <ref target="#procede">procedé*</ref> pareil.</l>
+            <l n="189" xml:id="l189">Pour moy, j’ay mal au cœur, &amp; me sens inquiette</l>
+            <l n="190" xml:id="l190">De la vision seule, où leur discours me jette.</l>
+          </sp>
+          <sp who="gorgibus" xml:id="I04-12">
+            <l n="191" xml:id="l191">Voicy bien du haut stile : He ! que vient celle-cy</l>
+            <l n="192" xml:id="l192">Avecque son jargon, de me conter icy.</l>
+          </sp>
+          <sp who="cathos" xml:id="I04-13">
+            <l n="193" xml:id="l193">Ah ! mon oncle en effet, je vous diray si j’ose</l>
+            <l n="194" xml:id="l194">Qu'elle vient de donner dans le vray de la chose ;</l>
+            <l n="195" xml:id="l195">Et quel moyen aussi de recevoir des gens,<pb n="21"/></l>
+            <l n="196" xml:id="l196">Qu'à faire leur devoir, on voit si negligens,</l>
+            <l n="197" xml:id="l197">Qui n’ont de dire un mot, pas mesme l’<ref target="#industrie">industrie*</ref>,</l>
+            <l n="198" xml:id="l198">Et qui sont incongrus dans la galanterie,</l>
+            <l n="199" xml:id="l199">Pour moy sans croire icy, follement m’engager</l>
+            <l n="200" xml:id="l200">Contre qui le voudra, j’oseray bien <ref target="#gager">gager*</ref></l>
+            <l n="201" xml:id="l201">Que leur esprit jamais ne fut né pour apprendre</l>
+            <l n="202" xml:id="l202">Ce que c’est que l’amour, &amp; la carte de tendre,</l>
+            <l n="203" xml:id="l203">Qu'ils ont le jugement tout à fait de travers,</l>
+            <l n="204" xml:id="l204">Et que billets galands, petits soins, jolis vers,</l>
+            <l n="205" xml:id="l205">Billets doux, sont pour eux des terres inconnuës.</l>
+            <l n="206" xml:id="l206">Je puis vous dire encor, sans en demeurer là,</l>
+            <l n="207" xml:id="l207">Que tout leur <ref target="#procede">procedé*</ref> marque assez bien cela,</l>
+            <l n="208" xml:id="l208">Et qu’on ne trouve point dans toute leur personne<pb n="22"/></l>
+            <l n="209" xml:id="l209">Ce je ne sçay quel charme, &amp; qui des l’abord donne</l>
+            <l n="210" xml:id="l210">Par un air attirant, &amp; de condition</l>
+            <l n="211" xml:id="l211">De quantité de gens, fort bonne opinion.</l>
+            <l n="212" xml:id="l212">Vit on jamais encor, chose plus merveilleuse</l>
+            <l n="213" xml:id="l213">Oser venir tous deux en visite amoureuse</l>
+            <l n="214" xml:id="l214">Avecque des chappeaux de plumes desarmez,</l>
+            <l n="215" xml:id="l215">Ne paroistre tous deux nullement <ref target="#enflamme">enflamez*</ref>,</l>
+            <l n="216" xml:id="l216">Avoir avec cela, la jambe toute unie,</l>
+            <l n="217" xml:id="l217">La teste de cheveux, tout à fait dégarnie,</l>
+            <l n="218" xml:id="l218">Toute <ref target="#irregulier">irreguliere*</ref>, &amp; des habits enfin,</l>
+            <l n="219" xml:id="l219">Qui ressemblent à ceux de quelque vray <ref target="#gredin">gredin*</ref>,</l>
+            <l n="220" xml:id="l220">Et souffrent de rubans une extréme indigence.</l>
+            <l n="221" xml:id="l221">Ah ! mon Dieu, quels <ref target="#amant1">Amans*</ref>, j’en rougis quand j’y pense,</l>
+            <l n="222" xml:id="l222">Quelle frugalité d’ajustement, bon Dieu</l>
+            <l n="223" xml:id="l223">Est-ce ainsi que l’on doit venir offrir ses vœux,</l>
+            <l n="224" xml:id="l224">Que d’indigence en tout, &amp; quelle secheresse<pb n="23"/></l>
+            <l n="225" xml:id="l225">De conversation, ah ! tout cela me blesse,</l>
+            <l n="226" xml:id="l226">Tousjours on y languit, on n’y tient point Helas !</l>
+            <l n="227" xml:id="l227">J'ay remarqué deplus encor, que leurs rabats</l>
+            <l n="228" xml:id="l228">Par l’excez surprenant d’une avarice honteuse,</l>
+            <l n="229" xml:id="l229">N'ont jamais esté faits, par la bonne faiseuse ;</l>
+            <l n="230" xml:id="l230">Qu'il s’en faut demy pied (je le dis sans erreur)</l>
+            <l n="231" xml:id="l231">Que leurs chausses enfin, n’ayent assez de largeur.</l>
+          </sp>
+          <sp who="gorgibus" xml:id="I04-14">
+            <l n="232" xml:id="l232">Voila de grands discours que je ne puis <ref target="#entendre1">entendre*</ref></l>
+            <l n="233" xml:id="l233">A tout ce baragouin, qui pourroit rien comprendre,</l>
+            <l n="234" xml:id="l234">Elles sont folles. Vous Cathos &amp; Magdelon,</l>
+            <l n="235" xml:id="l235">Apprenez aujourd’huy que je veux tout de bon,</l>
+            <l n="236" part="I" xml:id="l236">Que vous vous prepariez.....<pb n="24"/></l>
+          </sp>
+          <sp who="magdelon" xml:id="I04-15">
+            <l part="F">He ! de grace, mon pere,</l>
+            <l n="237" xml:id="l237">Des ces <ref target="#estrange1">estranges*</ref> noms, taschez de vous deffaire,</l>
+            <l n="238" xml:id="l238">Et si vous le pouvez, nommez-nous autrement.</l>
+          </sp>
+          <sp who="gorgibus" xml:id="I04-16">
+            <l n="239" xml:id="l239">O Dieux ! qu’enten-je dire ? <ref target="#estrange1">estranges*</ref> noms, comment ?</l>
+            <l n="240" xml:id="l240">Et ne sont-ce pas là vos vrais noms de baptesme ?</l>
+          </sp>
+          <sp who="magdelon" xml:id="I04-17">
+            <l n="241" xml:id="l241">Vostre <ref target="#stupidite">stupidité*</ref> va jusques à l’extresme</l>
+            <l n="242" xml:id="l242">Que vous estes <ref target="#vulgaire1">vulgaire*</ref>, avec ces sentiments,</l>
+            <l n="243" xml:id="l243">Ah ! pour moy, le plus grand de mes <ref target="#estonnement">estonnemens*</ref></l>
+            <l n="244" xml:id="l244">Est que vous ayez fait une fille si sage</l>
+            <l n="245" xml:id="l245">Et si pleine d’esprit. Dedans le beau langage,</l>
+            <l n="246" xml:id="l246">Oüy-t’on jamais nommer, Magdelon &amp; Cathos ?</l>
+            <l n="247" xml:id="l247">Et n’advoüerez-vous pas, qu’enfin de noms si sots</l>
+            <l n="248" xml:id="l248">Pourroient par leur <ref target="#rudesse">rudesse*</ref> affreuse &amp; sans seconde<pb n="C 25"/></l>
+            <l n="249" xml:id="l249"><ref target="#descrier">Descrier*</ref> le Roman, le plus charmant du monde.</l>
+          </sp>
+          <sp who="cathos" xml:id="I04-18">
+            <l n="250" xml:id="l250">Mon oncle, il est tres-vray, que ces sortes de noms</l>
+            <l n="251" xml:id="l251">Ont un je ne sçay quoy de bas dedans leurs sons,</l>
+            <l n="252" xml:id="l252">Qui n’a rien d’attirant, qui n’a rien qui ne blesse,</l>
+            <l n="253" xml:id="l253">Et pour peu qu’une oreille, ait de delicatesse,</l>
+            <l n="254" xml:id="l254">On voit qu’elle patit, tres-furieusement</l>
+            <l n="255" xml:id="l255">Entendant prononcer ces mots là seulement.</l>
+            <l n="256" xml:id="l256">D'Aminte le beau nom, celui de Polixene,</l>
+            <l n="257" xml:id="l257">Que ma cousine &amp; moy nous avons pris sans peine,</l>
+            <l n="258" xml:id="l258">Ont des attraits en eux, dont vous devez <ref target="#abord">d’abord*</ref></l>
+            <l n="259" xml:id="l259">Sans aucun contredit estre avec moy d’accord.<pb n="26"/></l>
+          </sp>
+          <sp who="gorgibus" xml:id="I04-19">
+            <l n="260" xml:id="l260">Escoutez toutes deux, il n’est qu’un mot qui serve,</l>
+            <l n="261" xml:id="l261">Quand je dis une chose, il faut que l’on l’observe,</l>
+            <l n="262" xml:id="l262">Et je ne pretens pas tomber jamais d’accord,</l>
+            <l n="263" xml:id="l263">De ces noms, que je vois qui vous plaisent si fort ;</l>
+            <l n="264" xml:id="l264">Quittez les, car je veux que vous gardiez les vostres :</l>
+            <l n="265" xml:id="l265">Je ne sçaurois <ref target="#souffrir">souffrir*</ref>, que vous en ayez d’autres,</l>
+            <l n="266" xml:id="l266">Que ceux que vos parains vous ont jadis donnez.</l>
+            <l n="267" xml:id="l267">Pour ces Messieurs aussi, lesquels vous desdaignez :</l>
+            <l n="268" xml:id="l268">Je sçay quels sont leurs biens, je connois leurs familles,</l>
+            <l n="269" xml:id="l269">Et comme je suis las de tant garder deux filles,</l>
+            <l n="270" xml:id="l270">Je veux qu’absolument vous songiez toutes deux</l>
+            <l n="271" xml:id="l271">A recevoir bien-tost leur main avec leurs vœux.</l>
+            <l n="272" xml:id="l272">De deux filles la garde, est une rude charge,<pb n="27"/></l>
+            <l n="273" xml:id="l273">Et ne peine que trop un homme de mon aage.</l>
+          </sp>
+          <sp who="cathos" xml:id="I04-20">
+            <l n="274" xml:id="l274">Ce que je vous puis dire icy, mon oncle helas !</l>
+            <l n="275" xml:id="l275">C'est que le mariage est pour moy sans <ref target="#appas1">appas*</ref>,</l>
+            <l n="276" xml:id="l276">Que je trouve que c’est une chose choquante,</l>
+            <l n="277" xml:id="l277">Et qu’enfin le penser, seulement m’epouvante</l>
+            <l n="278" xml:id="l278">D'estre couchée aupres d’un homme vrayement nû.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I04-21">
+            <l n="279" xml:id="l279">Mon pere, nostre nom, sera bien-tost connu,</l>
+            <l n="280" xml:id="l280">C'est pourquoy vous devez, nous permettre sans peine,</l>
+            <l n="281" xml:id="l281">Qu'avec les beaux esprits, nous reprenions haleine</l>
+            <l n="282" xml:id="l282">Et comme dans Paris, nous venons d’arriver,</l>
+            <l n="283" xml:id="l283">Vous devez, s’il vous plaist, nous laisser achever</l>
+            <l n="284" xml:id="l284">De nostre beau Roman, le tissu sans exemple,<pb n="28"/></l>
+            <l n="285" xml:id="l285">Et n’en pas tant presser, par un pouvoir trop ample</l>
+            <l n="286" part="I" xml:id="l286">La conclusion.</l>
+          </sp>
+          <sp who="gorgibus" xml:id="I04-22">
+            <l part="F">Dieux ! qu’enten-je icy conter ?</l>
+            <l n="287" xml:id="l287">Leur folie est visible, il n’en faut plus douter.</l>
+            <l n="288" xml:id="l288">Encor un coup, sçachez, que je ne puis comprendre</l>
+            <l n="289" xml:id="l289">Ces balivernes cy, que je veux sans attendre,</l>
+            <l n="290" xml:id="l290">Et sans qu’on me responde, estre maistre absolu,</l>
+            <l n="291" xml:id="l291">Et que l’on fasse enfin, ce que j’ay resolu.</l>
+            <l n="292" xml:id="l292">C'est pourquoy ces Messieurs, seront dans ma famille,</l>
+            <l n="293" xml:id="l293">Ou chacune de vous restera tousjours fille,</l>
+            <l n="294" xml:id="l294">Ou sera par ma foy, mise doresnavant</l>
+            <l n="295" xml:id="l295">Puis que je l’ay juré, dedans un bon Couvent.<pb n="29"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I05">
+          <head>SCENE V.</head>
+          <sp who="cathos" xml:id="I05-1">
+            <l n="296" xml:id="l296">Quelle <ref target="#stupidite">stupidité*</ref>, que vois-je ah ! Dieu ma chere !</l>
+            <l n="297" xml:id="l297">Que ton pere a la forme avant dans la matiere</l>
+            <l n="298" xml:id="l298">Qu'il a l’intelligence espaisse, qu’il est dur,</l>
+            <l n="299" xml:id="l299">Et qu’il fait dans son ame, <ref target="#estrangement">estrangement*</ref> obscur.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I05-2">
+            <l n="300" xml:id="l300">Ma chere que veux-tu ? pour luy j’en suis confuse,</l>
+            <l n="301" xml:id="l301">Rien ne m’<ref target="#estonner2">estonne*</ref> tant, que de le voir si buse ;</l>
+            <l n="302" xml:id="l302">Mais je me persuade, &amp; fort mal-aisément</l>
+            <l n="303" xml:id="l303">Que je puisse estre aussi sa fille assurement,</l>
+            <l n="304" xml:id="l304">Et je crois qu’il viendra quelque journée heureuse,<pb n="30"/></l>
+            <l n="305" xml:id="l305">Qui par quelque adventure, &amp; nouvelle, &amp; fameuse</l>
+            <l n="306" xml:id="l306">Me <ref target="#developper">developpera*</ref>, <ref target="#doute">sans doute*</ref> avec raison</l>
+            <l n="307" xml:id="l307">Un pere plus illustre, &amp; d’une autre maison.</l>
+          </sp>
+          <sp who="cathos" xml:id="I05-3">
+            <l n="308" xml:id="l308">Je le croirois bien oüy ; car enfin sans médire</l>
+            <l n="309" xml:id="l309">J'y vois grande <ref target="#apparence">apparence*</ref>, &amp; je ne sçay qu’en dire</l>
+            <l n="310" part="I" xml:id="l310">Pour moy quand je me vois aussi....<pb n="31"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I06">
+          <head>SCENE VI.</head>
+          <sp who="marotte" xml:id="I06-1">
+            <l part="M">Madame,</l>
+          </sp>
+          <sp who="magdelon" xml:id="I06-2">
+            <l part="F">Quoy ?</l>
+            <l n="311" xml:id="l311">Qu'est-ce, que voulez-vous ? veut-on parler à moy ?</l>
+          </sp>
+          <sp who="marotte" xml:id="I06-3">
+            <l n="312" xml:id="l312">Un laquais, que voila, souhaitte qu’on luy dise</l>
+            <l n="313" xml:id="l313">Si vous estes <ref target="#ceans">ceans*</ref>, afin qu’il en instruise</l>
+            <l n="314" xml:id="l314">Son maistre, qui l’envoye icy, pour le sçavoir,</l>
+            <l n="315" xml:id="l315">Parce, dit-il, qu’il veut bien-tost vous venir voir.<pb n="32"/></l>
+          </sp>
+          <sp who="magdelon" xml:id="I06-4">
+            <l n="316" xml:id="l316">Et vous apprenez sotte, à moins parler <ref target="#vulgaire2">vulgaire*</ref>,</l>
+            <l n="317" xml:id="l317">Et dites pour vous mieux ennoncer d’ordinaire.</l>
+            <l n="318" xml:id="l318">Un necessaire est là, qui demande instamment</l>
+            <l n="319" xml:id="l319">Si vous ne pouriez pas estre presentement</l>
+            <l n="320" part="I" xml:id="l320">En commodité d’estre visibles.</l>
+          </sp>
+          <sp who="marotte" xml:id="I06-5">
+            <l part="F">Ah ! Dame !</l>
+            <l n="321" xml:id="l321">Je n’entens point ma foy, tout ce Latin, Madame,</l>
+            <l n="322" xml:id="l322">Et l’on ne m’a jamais, enseigné comme à vous</l>
+            <l n="323" part="I" xml:id="l323">La filofie, dedans le grand Cyre.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I06-6">
+            <l part="F">A nous</l>
+            <l n="324" xml:id="l324">Tenir de tels propos, voyez l’impertinente</l>
+            <l n="325" xml:id="l325">Le moyen de <ref target="#souffrir">souffrir*</ref>, toujours cette insolente ;</l>
+            <l n="326" xml:id="l326">Mais encor quel est-il ? le Maistre à ce laquais.<pb n="33"/></l>
+          </sp>
+          <sp who="marotte" xml:id="I06-7">
+            <l n="327" xml:id="l327">Il me l’a nommé, le.....le Marquis de de......ouais,</l>
+            <l n="328" part="I" xml:id="l328">Marquis de Mascarille.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I06-8">
+            <l part="F">Un Marquis, ah ! ma chere,</l>
+            <l n="329" xml:id="l329">Oüy, retournez luy dire, &amp; ne demeurez guere</l>
+            <l n="330" xml:id="l330">Qu'on nous voit <ref target="#present">à present*</ref> ; c’est quelque bel esprit,</l>
+            <l n="331" xml:id="l331">Que nostre renommée a jusqu’icy conduit.</l>
+          </sp>
+          <sp who="cathos" xml:id="I06-9">
+            <l n="332" part="I" xml:id="l332">Assurement ma chere.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I06-10">
+            <l part="F">En cette salle basse</l>
+            <l n="333" xml:id="l333">Il faut le recevoir, nous aurons plus de grace</l>
+            <l n="334" xml:id="l334">Que dedans nostre chambre ; ajustons nos cheveux</l>
+            <l n="335" xml:id="l335">Au moins, &amp; soutenons en ce jour bien heureux</l>
+            <l n="336" xml:id="l336">La reputation que nous avons acquise.<pb n="34"/></l>
+          </sp>
+          <sp who="cathos" xml:id="I06-11">
+            <l n="337" xml:id="l337">La visite me plaist, bien que j’en sois surprise.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I06-12">
+            <l n="338" xml:id="l338">Viste, venez nous tendre icy, le conseiller</l>
+            <l n="339" part="I" xml:id="l339">Des graces.</l>
+          </sp>
+          <sp who="marotte" xml:id="I06-13">
+            <l part="F">Que ce mot vient mal pour m’embrouïller ;</l>
+            <l n="340" xml:id="l340">Ma foy, je ne sçay point si c’est là quelque beste,</l>
+            <l n="341" xml:id="l341">Il faut parler Chrestien pour mettre dans ma teste</l>
+            <l n="342" part="I" xml:id="l342">Ce que vous voulez dire.</l>
+          </sp>
+          <sp who="cathos" xml:id="I06-14">
+            <l part="F">Apportez le miroir</l>
+            <l n="343" xml:id="l343">Pecore, &amp; gardez bien en vous y faisant voir</l>
+            <l n="344" xml:id="l344">D'en obscurcir la glace, &amp; de luy faire outrage</l>
+            <l n="345" xml:id="l345">En luy communiquant de trop pres vostre image.<pb n="35"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I07">
+          <head>SCENE VII.</head>
+          <sp who="mascarille" xml:id="I07-1">
+            <l n="346" xml:id="l346">Là, là porteurs, hola, là, là, là, là, hola,</l>
+            <l n="347" xml:id="l347">Je crois que ces marauts, me veulent briser là</l>
+            <l n="348" xml:id="l348">A force de heurter, les pavez, la <ref target="#muraille">muraille*</ref>.</l>
+          </sp>
+          <sp who="porteur1" xml:id="I07-2">
+            <l n="349" xml:id="l349">Dame, c’est que la porte est estroitte d’entraille.</l>
+            <l n="350" xml:id="l350">Vous avez commandé, que l’on entrast icy,</l>
+            <l n="351" part="I" xml:id="l351">Nous avons obey.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I07-3">
+            <l part="F">Je le crois bien aussi,</l>
+            <l n="352" xml:id="l352">Voudriez-vous faquins ? que pour vous j’exposasse<pb n="36"/></l>
+            <l n="353" xml:id="l353">Ou mes plumes à l’air, ou bien que je laissasse</l>
+            <l n="354" xml:id="l354">Perdre leur embonpoint ; &amp; n’ai-je pas raison ?</l>
+            <l n="355" xml:id="l355">De les en garantir, durant cette saison</l>
+            <l n="356" xml:id="l356">Pluvieuse, incommode, ou bien que j’imprimasse</l>
+            <l n="357" xml:id="l357">Mes souliers en la bouë. Ah ! de vous je me lasse,</l>
+            <l n="358" part="I" xml:id="l358">Ostez moy vostre chaise.</l>
+          </sp>
+          <sp who="porteur2" xml:id="I07-4">
+            <l part="F">Et bien donc, payez-nous ?</l>
+          </sp>
+          <sp who="mascarille" xml:id="I07-5">
+            <l n="359" part="I" xml:id="l359">Hem ?</l>
+          </sp>
+          <sp who="porteur2" xml:id="I07-6">
+            <l part="M">Je vous dis, Monsieur ?</l>
+          </sp>
+          <sp who="mascarille" xml:id="I07-7">
+            <l part="M">Que me dis-tu ?</l>
+          </sp>
+          <sp who="porteur2" xml:id="I07-8">
+            <l part="F">Que vous</l>
+            <l n="360" part="I" xml:id="l360">Nous donniez de l’argent.<pb n="D 37"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I07-9">
+            <l part="F">Quelle insolence ?</l>
+            <l n="361" xml:id="l361">Demander de l’argent, à ceux de ma naissance.</l>
+          </sp>
+          <sp who="porteur2" xml:id="I07-10">
+            <l n="362" xml:id="l362">N'avez-vous que cela, Monsieur, à nous donner ?</l>
+            <l n="363" xml:id="l363">Et vostre <ref target="#qualite">qualité*</ref>, nous fait elle <ref target="#disner">disner*</ref> ?</l>
+          </sp>
+          <sp who="mascarille" xml:id="I07-11">
+            <l n="364" xml:id="l364">Ah ! je vous apprendray coquins, à vous <ref target="#se-connoistre">connoistre*</ref>,</l>
+            <l n="365" xml:id="l365">Vous osez vous marauts ? joüer à vostre Maistre.</l>
+          </sp>
+          <sp who="porteur1" xml:id="I07-12">
+            <l n="366" part="I" xml:id="l366">Ça viste, payez-nous ?</l>
+          </sp>
+          <sp who="mascarille" xml:id="I07-13">
+            <l part="M">Quoy ?</l>
+          </sp>
+          <sp who="porteur1" xml:id="I07-14">
+            <l part="F">Je dis que je veux</l>
+            <l n="367" part="I" xml:id="l367">De l’argent <ref target="#tout-heure">tout à l’heure*</ref>.<pb n="38"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I07-15">
+            <l part="F">On ne peut dire mieux,</l>
+            <l n="368" part="I" xml:id="l368">Il est tres-raisonnable.</l>
+          </sp>
+          <sp who="porteur1" xml:id="I07-16">
+            <l part="F">Eh ! bien viste, vous dis-je !</l>
+          </sp>
+          <sp who="mascarille" xml:id="I07-17">
+            <l n="369" xml:id="l369">Tu parles comme il faut, voyla comme on m’oblige</l>
+            <l n="370" xml:id="l370">Mais l’autre est un coquin qui ne sçait ce qu’il dit.</l>
+            <l n="371" part="I" xml:id="l371">Là tiens, es tu content ?</l>
+          </sp>
+          <sp who="porteur1" xml:id="I07-18">
+            <l part="F">Nany, j’ay du <ref target="#despit">despit*</ref></l>
+            <l n="372" xml:id="l372">Et ne sçaurois souffrir vostre rodemontade,</l>
+            <l n="373" xml:id="l373">Vous avez devant moy battu mon camarade,</l>
+            <l n="374" part="I" xml:id="l374">Et si......</l>
+          </sp>
+          <sp who="mascarille" xml:id="I07-19">
+            <l part="F">Doucement, tiens, voyla pour le soufflet ;</l>
+            <l n="375" xml:id="l375">On obtient tout de moy, je suis comme un poulet,</l>
+            <l n="376" xml:id="l376">Et lors que l’on s’y prend, de la bonne manière<pb n="39"/></l>
+            <l n="377" xml:id="l377">Je me laisse fleschir, à la moindre priere.</l>
+            <l n="378" xml:id="l378">Allez viste sortez, &amp; venez me chercher</l>
+            <l n="379" xml:id="l379">Tantost, pour aller au Louvre au petit coucher.<pb n="40"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I08">
+          <head>SCENE VIII.</head>
+          <sp who="marotte" xml:id="I08-1">
+            <l n="380" xml:id="l380">Mes maistresses Monsieur, vont venir <ref target="#tout-heure">tout à l’heure*</ref>.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I08-2">
+            <l n="381" xml:id="l381">Je ne suis pas pressé, je vous jure ou je meure :</l>
+            <l n="382" xml:id="l382">Je suis dedans ce lieu, posté commodement</l>
+            <l n="383" xml:id="l383">Et je puis à loisir, les attendre aisement.</l>
+          </sp>
+          <sp who="marotte" xml:id="I08-3">
+            <l n="384" part="I" xml:id="l384">Elles viennent Monsieur,<pb n="41"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I09">
+          <head>SCENE IX.</head>
+          <sp who="mascarille" xml:id="I09-1">
+            <l part="F">Mes Dames mon audace</l>
+            <l n="385" xml:id="l385">Poura vous estonner ; mais cette aymable grace</l>
+            <l n="386" xml:id="l386">Que l’on admire en vous, vous cause ce malheur :</l>
+            <l n="387" xml:id="l387">La reputation qui parle, à vostre honneur</l>
+            <l n="388" xml:id="l388">M’a forcé ce jourd’huy, de vous rendre visite</l>
+            <l n="389" xml:id="l389">Et pour moy je poursuis en tous lieux le merite.<pb n="42"/></l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-2">
+            <l n="390" xml:id="l390">Si vous le poursuivez ce n’est pas en ces lieux</l>
+            <l n="391" part="I" xml:id="l391">Que vous devez chasser.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-3">
+            <l part="F">Pour le voir à nos yeux</l>
+            <l n="392" xml:id="l392">Il a falu Monsieur, qu’il vint sous vostre auspice.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-4">
+            <l n="393" xml:id="l393">Ah ! je m’inscris en faux contre cette injustice.</l>
+            <l n="394" xml:id="l394">Le renom parle juste, en contant vos vertus</l>
+            <l n="395" xml:id="l395">Par là, les plus galands, seront bien-tost battus,</l>
+            <l n="396" xml:id="l396">Vous allez faire pic, repic, &amp; capot mesme,</l>
+            <l n="397" xml:id="l397">Tout ce que dans Paris, l’on cherit &amp; l’on aime.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-5">
+            <l n="398" xml:id="l398">Nous n’attendions pas moins, d’un homme tel que vous ;</l>
+            <l n="399" xml:id="l399">Mais vostre <ref target="#complaisance">complaisance*</ref> est trop grande envers nous.</l>
+            <l n="400" xml:id="l400">Et vous poussez si loing vostre <ref target="#injuste">injuste*</ref> loüange<pb n="43"/></l>
+            <l n="401" xml:id="l401">Que ma cousine, &amp; moy, pour éviter le change,</l>
+            <l n="402" xml:id="l402">Nous ne donnerons pas, de nostre serieux</l>
+            <l n="403" xml:id="l403">Dedans un compliment, qu’on ne peut faire mieux ;</l>
+            <l n="404" xml:id="l404">Car enfin nous craignons de tomber dans le piege.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-6">
+            <l n="405" xml:id="l405">Mais ma chere, il faudroit faire apporter un siege.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-7">
+            <l n="406" xml:id="l406">Voiturez nous icy, viste, petit garçon,</l>
+            <l n="407" xml:id="l407">Les commoditez de la conversation.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-8">
+            <l n="408" xml:id="l408">Mais auray-je du moins, sureté de personne ?</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-9">
+            <l n="409" xml:id="l409">Que craignez-vous de nous ? que rien ne vous <ref target="#estonner1">estonne*</ref>.<pb n="44"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-10">
+            <l n="410" xml:id="l410">J'ay tout à redouter, tout me doit faire peur ;</l>
+            <l n="411" xml:id="l411">Je crains premierement, quelque vol de mon cœur,</l>
+            <l n="412" xml:id="l412">Ou quelque assassinat, de ma pauvre <ref target="#franchise">franchise*</ref></l>
+            <l n="413" xml:id="l413">Je vois icy des yeux, dont mon ame est surprise</l>
+            <l n="414" xml:id="l414">Ils ont mine sur tout, d’estre mauvais garçons</l>
+            <l n="415" xml:id="l415">De faire insulte aux gens, &amp; les oster d’arçons,</l>
+            <l n="416" xml:id="l416">Ravir les libertez, faire qu’on les adore</l>
+            <l n="417" xml:id="l417">Et mesme de traitter, un cœur de Turc à More.</l>
+            <l n="418" xml:id="l418">Comment diable ! <ref target="#abord-que">d’abord que*</ref> l’on s’approche d’eux</l>
+            <l n="419" xml:id="l419">Ils se mettent en garde, ah ! qu’ils sont dangereux ;</l>
+            <l n="420" xml:id="l420">Ma foy je m’en defie, &amp; vais prendre la fuitte</l>
+            <l n="421" xml:id="l421">Ou je veux caution de leur bonne conduitte.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-11">
+            <l n="422" xml:id="l422">Ma chere, ce qu’il dit est tout plain d’enjouëment.<pb n="45"/></l>
+          </sp>
+          <sp who="cathos" xml:id="I09-12">
+            <l n="423" xml:id="l423">Il efface Amilcar, tant il y a d’agrement.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-13">
+            <l n="424" xml:id="l424">Ne craignez rien, nos yeux sont exempts de malice,</l>
+            <l n="425" xml:id="l425">Leurs desseins innocens, &amp; sans nul <ref target="#artifice">artifice*</ref> ;</l>
+            <l n="426" xml:id="l426">Vostre cœur peut dormir en toute seureté</l>
+            <l n="427" xml:id="l427">Dessus leur <ref target="#prudhommie">prud’hommie*</ref>, &amp; dessus leur bonté.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-14">
+            <l n="428" xml:id="l428">Mais de grace Monsieur rendez vous exorable.</l>
+            <l n="429" xml:id="l429">Aux yeux de ce fauteuil, dont le soing équitable</l>
+            <l n="430" xml:id="l430">Lui fait ouvrir les bras, contentez son dessein</l>
+            <l n="431" xml:id="l431">Depuis pres d’un quart-d’heure, il vous ouvre son sein,</l>
+            <l n="432" xml:id="l432">Souffrez qu’il vous embrasse.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-15">
+            <l n="433" xml:id="l433">Eh bien dites mes Dames,<pb n="46"/></l>
+            <l n="434" xml:id="l434">Que vous semble Paris ? car c’est aux belles ames</l>
+            <l n="435" part="I" xml:id="l435">D'en porter jugement.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-16">
+            <l part="F">Qu'en dirions nous helas</l>
+            <l n="436" xml:id="l436">Tout le monde est d’accord, qu’il est remply d’<ref target="#appas1">appas*</ref>,</l>
+            <l n="437" xml:id="l437">Que c’est le grand Bureau, de toutes les merveilles,</l>
+            <l n="438" xml:id="l438">Le centre du bon goust, le charme des oreilles,</l>
+            <l n="439" xml:id="l439">Le plaisir des esprits, le lieu des agrements,</l>
+            <l n="440" xml:id="l440">Et le refuge enfin, des plus nobles <ref target="#amant2">amants*</ref>.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-17">
+            <l n="441" xml:id="l441">Je tiens qu’hors de Paris, pour les hommes illustres,</l>
+            <l n="442" xml:id="l442">Il n’est point de salut, les campagnards sont rustres.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-18">
+            <l n="443" xml:id="l443">On ne <ref target="#disputer">dispute*</ref> point de cette verité.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-19">
+            <l n="444" xml:id="l444">Ce qu’il a de fascheux, c’est qu’il y fait crotté ;</l>
+            <l n="445" part="I" xml:id="l445">Mais nous avons la chaise.<pb n="47"/></l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-20">
+            <l part="F">Il est vray que la chaise</l>
+            <l n="446" xml:id="l446">Est un retranchement, où l’on est à son aise,</l>
+            <l n="447" xml:id="l447">Un propice instrument, pour les honnestes gens,</l>
+            <l n="448" xml:id="l448">Un merveilleux abry, contre le mauvais temps.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-21">
+            <l n="449" xml:id="l449">Vous recevez beaucoup, &amp; de belles visites ?</l>
+            <l n="450" xml:id="l450">Car tous les beaux esprits, cherchent les grands merites ;</l>
+            <l n="451" xml:id="l451">Mais encor qui sont ceux qu’attirent vos <ref target="#appas2">appas*</ref>,</l>
+            <l n="452" part="I" xml:id="l452">Dites ?</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-22">
+            <l part="F">Helas ! Monsieur, l’on ne nous connoist pas ;</l>
+            <l n="453" xml:id="l453">Mais peut-estre bien tost qu’on nous poura connoistre,</l>
+            <l n="454" xml:id="l454">Nous sommes en estat, de nous faire <ref target="#paroistre2">paroistre*</ref>,</l>
+            <l n="455" xml:id="l455">Nous avons une amie, &amp; qui nous a promis<pb n="48"/></l>
+            <l n="456" xml:id="l456">Qu'elle nous feroit voir, des gens de ses amis,</l>
+            <l n="457" xml:id="l457">Qui sont dans les recueils des belles Poësies,</l>
+            <l n="458" xml:id="l458">Ces Messieurs, des Romans, &amp; des pieces choisies.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-23">
+            <l n="459" xml:id="l459">Et de certains encor, connus &amp; renommez,</l>
+            <l n="460" xml:id="l460">Que comme gens sçavans (elle nous a nommez,)</l>
+            <l n="461" xml:id="l461">Qui decident aussi, de ces sortes de choses,</l>
+            <l n="462" xml:id="l462">Et qui sçavent l’Histoire, &amp; les Metamorphoses.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-24">
+            <l n="463" xml:id="l463">Je feray vostre affaire, ils me visitent tous</l>
+            <l n="464" xml:id="l464">Et je puis aisement, les amener chez vous</l>
+            <l n="465" xml:id="l465">J'en ay tous les matins, une demy-douzaine.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-25">
+            <l n="466" xml:id="l466">Eh ! mon Dieu, voudriez-vous, vous donner cette peine ;</l>
+            <l n="467" xml:id="l467">Nous vous aurons, la derniere obligation,<pb n="E 49"/></l>
+            <l n="468" xml:id="l468">Si vous nous procurez leur conversation ;</l>
+            <l n="469" xml:id="l469">Car enfin vous sçavez, que sans leur connoissance,</l>
+            <l n="470" xml:id="l470">On n’est point du beau monde, &amp; voila l’importance :</l>
+            <l n="471" xml:id="l471">D'eux despend dans Paris, la reputation,</l>
+            <l n="472" xml:id="l472">Ainsi l’on doit chercher leur frequentation ;</l>
+            <l n="473" xml:id="l473">Une femme par là, peut devenir heureuse,</l>
+            <l n="474" xml:id="l474">Et mesme s’acquerir, le <ref target="#bruit">bruit*</ref> de connoisseuse :</l>
+            <l n="475" xml:id="l475">Et j’en connois beaucoup, qui l’ont acquis par là,</l>
+            <l n="476" xml:id="l476">Quoy que l’on n’y trouvât rien du tout que cela.</l>
+            <l n="477" xml:id="l477">Et principalement, ce que je considere,</l>
+            <l n="478" xml:id="l478">Ce qu’à tout autre bien, aisement je prefere,</l>
+            <l n="479" xml:id="l479">C’est que par ce moyen des choses l’on s’instruit,</l>
+            <l n="480" xml:id="l480">Qu’il faut qu’on sçache enfin pour estre bel esprit.</l>
+            <l n="481" xml:id="l481">Puis l’on sçait chaque jour, les petites nouvelles,<pb n="50"/></l>
+            <l n="482" xml:id="l482">Tout ce que les galands, escrivent à leurs belles.</l>
+            <l n="483" xml:id="l483">Les <ref target="#commerce">commerces*</ref> de Prose, aussi bien que de Vers,</l>
+            <l n="484" xml:id="l484">Tout ce que l’on escrit, sur cent sujets divers.</l>
+            <l n="485" xml:id="l485">On sçait à point nommé, tel a fait une piece</l>
+            <l n="486" xml:id="l486">Jolie autant qu’on peut, unique en son espece,</l>
+            <l n="487" xml:id="l487">Tout le monde l’estime à cause du sujet</l>
+            <l n="488" xml:id="l488">Une telle personne a fait un beau portrait.</l>
+            <l n="489" xml:id="l489">Sur un tel air nouveau, telle a fait des parolles.</l>
+            <l n="490" xml:id="l490">L'Anagramme d’un tel est pleine d’hiperbolles.</l>
+            <l n="491" xml:id="l491">Un tel Autheur Gascon, a fait un Madrigal</l>
+            <l n="492" xml:id="l492">Sur une jouïssance. Un tel donne le bal.</l>
+            <l n="493" xml:id="l493">Cet autre a composé, des Sonnets &amp; des Stances</l>
+            <l n="494" xml:id="l494">Sur des yeux, sur un teint &amp; sur des inconstances.</l>
+            <l n="495" xml:id="l495">Un tel hier au soir, escrivit un sizain<pb n="51"/></l>
+            <l n="496" xml:id="l496">Pour une Damoiselle ; elle par un dixain</l>
+            <l n="497" xml:id="l497">Le lendemain matin, en envoya responce.</l>
+            <l n="498" xml:id="l498">On poursuit le Roman, de Clelie &amp; d’Aronce.</l>
+            <l n="499" xml:id="l499">Tel Poëte fort illustre, a fait un tel dessein.</l>
+            <l n="500" xml:id="l500">La piece de cet autre, est un public larcin.</l>
+            <l n="501" xml:id="l501">Un tel fait un Roman, parce que l’on l’en presse.</l>
+            <l n="502" xml:id="l502">Les ouvrages d’un tel, se mettent sous la presse.</l>
+            <l n="503" xml:id="l503">C'est là sans contredit, ce que l’on doit sçavoir</l>
+            <l n="504" xml:id="l504">Pour se faire connoistre, &amp; se faire valoir</l>
+            <l n="505" xml:id="l505">Dedans les lieux connus ; &amp; j’ose dire encore</l>
+            <l n="506" xml:id="l506">Que quelque esprit qu’on ait, alors qu’on les ignore</l>
+            <l n="507" part="I" xml:id="l507">Il ne vaut pas un clou.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-26">
+            <l part="F">Je trouve qu’en effet,</l>
+            <l n="508" xml:id="l508">Sans cela l’on ne peut avoir l’esprit bien fait :</l>
+            <l n="509" xml:id="l509">Je l’avouëray pour moy, c’est là tout mon scrupule<pb n="52"/></l>
+            <l n="510" xml:id="l510">Je croy qu’on encherit dessus le ridicule</l>
+            <l n="511" xml:id="l511">De se picquer d’esprit, &amp; de ne sçavoir pas</l>
+            <l n="512" xml:id="l512">Jus-qu’au moindre quatrain ; pour moy j’en fais amas,</l>
+            <l n="513" xml:id="l513">Et si l’on me venoit, demander quelque chose</l>
+            <l n="514" xml:id="l514">Que je n’aurois pas veu, soit de vers, soit de Prose</l>
+            <l n="515" part="I" xml:id="l515">J'en aurois de la honte.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-27">
+            <l part="F">On n’estime point ceux</l>
+            <l n="516" xml:id="l516">Qui n’ont pas des premiers, tous les vers amoureux</l>
+            <l n="517" xml:id="l517">Et mesme ce qu’on fait, d’une plus longue haleine ;</l>
+            <l n="518" xml:id="l518">Mais fiez vous sur moy, n’en soyez point en peine.</l>
+            <l n="519" xml:id="l519">J'assembleray chez vous, nombre de beaux esprits.</l>
+            <l n="520" xml:id="l520">Vos mains de leurs travaux, leur donneront le prix,</l>
+            <l n="521" xml:id="l521">Et je veux qu’à Paris, pas un vers ne se fasse</l>
+            <l n="522" xml:id="l522">Que dans vostre memoire, il n’occuppe une place</l>
+            <l n="523" xml:id="l523">Avant qu’aucun l’ait veu. Tel que vous me voyez<pb n="53"/></l>
+            <l n="524" xml:id="l524">Je m’en excrime un peu, je veux que vous sçachiez</l>
+            <l n="525" xml:id="l525">Que vous verrez courir, dans les belles ruelles</l>
+            <l n="526" xml:id="l526">Plus de deux cens chansons, presque toutes nouvelles,</l>
+            <l n="527" xml:id="l527">Des Sonnets tout autant, sur de divers sujets,</l>
+            <l n="528" xml:id="l528">Bien mille Madrigaux, pour differens objets,</l>
+            <l n="529" xml:id="l529">Et mesme sans compter plus de cent Elegies</l>
+            <l n="530" xml:id="l530">Faites, sur des desdains ; sans les Apologies,</l>
+            <l n="531" part="I" xml:id="l531">Enigmes, &amp; Portraits.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-28">
+            <l part="F">Ah ! furieusement</l>
+            <l n="532" xml:id="l532">Je suis pour les portraits ; rien n’est de plus charmant,</l>
+            <l n="533" part="I" xml:id="l533">Ny rien de plus galand.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-29">
+            <l part="F">Ils sont bien difficiles,</l>
+            <l n="534" xml:id="l534">Et veulent des esprits profonds, sçavans, habiles.</l>
+            <l n="535" xml:id="l535">Vous en verrez de moy, qui ne desplaisent pas.<pb n="54"/></l>
+          </sp>
+          <sp who="cathos" xml:id="I09-30">
+            <l n="536" xml:id="l536">Une Enigme a pour moy, terriblement d’<ref target="#appas1">appas*</ref>.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-31">
+            <l n="537" xml:id="l537">Par là l’esprit s’exerce, &amp; j’en ay tracé quatre</l>
+            <l n="538" xml:id="l538">Encore ce matin, qu’afin de vous esbattre</l>
+            <l n="539" part="I" xml:id="l539">Vous pourez deviner.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-32">
+            <l part="F">J'aime les Madrigaux,</l>
+            <l n="540" xml:id="l540">Quand ils sont bien tournez, ils sont tout à fait beaux.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-33">
+            <l n="541" xml:id="l541">Ah ! c’est là mon talent, &amp; je donne mes peines</l>
+            <l n="542" xml:id="l542">A mettre en Madrigaux les annalles Romaines.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-34">
+            <l n="543" xml:id="l543">Ce dessein est illustre, autant qu’il est nouveau,</l>
+            <l n="544" xml:id="l544">Cet ouvrage, Monsieur, sera du dernier beau,</l>
+            <l n="545" xml:id="l545">Et si vous l’imprimez, j’en veux un exemplaire.<pb n="55"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-35">
+            <l n="546" xml:id="l546">Je sçay trop mon devoir, pour n’y pas satisfaire,</l>
+            <l n="547" xml:id="l547">Et je vous en promets au moins à chacune un,</l>
+            <l n="548" xml:id="l548">Qui seront reliez mieux que ceux du commun,</l>
+            <l n="549" xml:id="l549">Pour ma condition, c’est un bas exercice</l>
+            <l n="550" xml:id="l550">Je le fais seulement pour rendre un bon office</l>
+            <l n="551" xml:id="l551">Au libraire importun, qui m’en vient accabler</l>
+            <l n="552" xml:id="l552">Et ce matin encor, m’en est venu parler.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-36">
+            <l n="553" xml:id="l553">Le plaisir est bien grand d’estre mis sous la presse.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-37">
+            <l n="554" xml:id="l554"><ref target="#doute">Sans doute*</ref> il est bien doux, que nostre nom paroisse</l>
+            <l n="555" xml:id="l555">Et les noms imprimez, ont une autre vertu ;</l>
+            <l n="556" xml:id="l556">Mais à propos, il faut vous dire un impromptu</l>
+            <l n="557" xml:id="l557">Que je fis avant-hier, chez certaine Duchesse<pb n="56"/></l>
+            <l n="558" xml:id="l558">Que je fus visiter, il est plein de tendresse,</l>
+            <l n="559" xml:id="l559">Tous les plus fiers esprits, s’en verroient combatus</l>
+            <l n="560" xml:id="l560">Car je suis diablement fort sur les impromptus</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-38">
+            <l n="561" xml:id="l561">L'impromptu <ref target="#justement2">justement*</ref>, est la pierre de touche</l>
+            <l n="562" xml:id="l562">De l’esprit, il nous plaist, il nous charme, il nous touche.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-39">
+            <l n="563" part="I" xml:id="l563">Escoutez ;</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-40">
+            <l part="F">Ce sera, Monsieur, avec plaisir,</l>
+            <l n="564" xml:id="l564">Et vous pouvez parler avecque tout loisir,</l>
+            <l n="565" xml:id="l565">Dans le juste desir d’oüir tant de merveilles,</l>
+            <l n="566" xml:id="l566">Nous y sommes desja de toutes nos oreilles.<pb n="57"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-41">
+            <l n="567" rend="i" xml:id="l567">Oh, oh, je n’y prenois pas garde,</l>
+            <l n="568" rend="i" xml:id="l568">Tandis que sans songer à mal, je vous regarde.</l>
+            <l n="569" xml:id="l569"><hi rend="i">Vostre œil en tapinois</hi>, <hi rend="i">me dérobe mon cœur</hi>,</l>
+            <l n="570" xml:id="l570">
+              <hi rend="i">Au voleur, au voleur, au voleur, au voleur.</hi>
+            </l>
+          </sp>
+          <sp who="cathos" xml:id="I09-42">
+            <l n="571" xml:id="l571">Ah ! mon Dieu, que ces vers ont des attraits puissans,</l>
+            <l n="572" xml:id="l572">Par leur délicatesse, ils enchantent les sens ;</l>
+            <l n="573" xml:id="l573">Ces vers là sont poussez sans nulle flatterie</l>
+            <l n="574" xml:id="l574">Jusques au dernier point de la galanterie.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-43">
+            <l n="575" xml:id="l575">Je ne fais rien du tout, qui n’ait l’air <ref target="#cavalier">cavalier*</ref>.</l>
+            <l n="576" xml:id="l576">Je n’ay rien de Pedant encor moins d’Escolier.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-44">
+            <l n="577" xml:id="l577">Il en est esloigné, tout autant qu’on peut l’estre</l>
+            <l n="578" xml:id="l578">Et vous avez bien l’art, de vous faire <ref target="#paroistre1">paroistre*</ref>.<pb n="58"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-45">
+            <l n="579" xml:id="l579">Avez vous remarqué ? dans ce commancement</l>
+            <l n="580" xml:id="l580"><hi rend="i">Oh, oh</hi>, ce n’est pas là parler <ref target="#vulgairement">vulgairement*</ref> ;</l>
+            <l n="581" xml:id="l581"><hi rend="i">Oh, oh</hi>, en s’estonnant, un homme qui s’avise,</l>
+            <l n="582" xml:id="l582">Tout d’un coup, <hi rend="i">oh, oh, oh</hi>, voyez vous la surprise ?</l>
+            <l n="583" part="I" rend="i" xml:id="l583">Oh, oh ;</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-46">
+            <l part="F">Ouy ce <hi rend="i">oh, oh</hi>, ne peut pas estre mieux !</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-47">
+            <l n="584" part="I" xml:id="l584">Cela ne semble rien.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-48">
+            <l part="F">Il est miraculeux</l>
+            <l n="585" xml:id="l585">Et ce sont là Monsieur, de ces choses si belles</l>
+            <l n="586" part="I" xml:id="l586">Qu'on ne les peut payer.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-49">
+            <l part="F"><ref target="#doute">Sans doute*</ref> elles sont telles</l>
+            <l n="587" xml:id="l587">Et j’aymerois bien mieux, avoir fait ce <hi rend="i">oh, oh</hi>,<pb n="59"/></l>
+            <l n="588" part="I" xml:id="l588">Que tout un Poëme Epique.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-50">
+            <l part="F">En effet il est beau,</l>
+            <l n="589" xml:id="l589">Vous avez le goust bon tu dieu, vous estes fine</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-51">
+            <l n="590" xml:id="l590">Je ne l’ay pas mauvais, &amp; souvent je rafine.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-52">
+            <l n="591" xml:id="l591">Je m’en aperçois bien. Mais n’admirez vous pas :</l>
+            <l n="592" xml:id="l592"><hi rend="i">Je n’y prenois pas garde.</hi> On ne voit rien de bas</l>
+            <l n="593" xml:id="l593">Dedans cette façon, <hi rend="i">je n’y prenois pas garde</hi>,</l>
+            <l n="594" xml:id="l594">Elle est fort naturelle, &amp; de plus fort mignarde,</l>
+            <l n="595" xml:id="l595"><hi rend="i">Tandis que sans songer à mal</hi> qu’innocemment</l>
+            <l n="596" xml:id="l596">Comme un pauvre mouton, tandis que bonnement</l>
+            <l n="597" xml:id="l597"><hi rend="i">Je vous regarde</hi>, moy c’est <ref target="#justement3">justement*</ref> à dire</l>
+            <l n="598" xml:id="l598">Que je vous considere, &amp; que je vous admire</l>
+            <l n="599" xml:id="l599">Ou bien que je <ref target="#amuser">m’amuse*</ref>, à contempler vos yeux.<pb n="60"/></l>
+            <l n="600" xml:id="l600"><hi rend="i">Votre œil en tapinois</hi> ; peut-on s’esnoncer mieux</l>
+            <l n="601" xml:id="l601"><hi rend="i">Tapinois</hi> ? de ce mot encor que vous en semble ?</l>
+            <l n="602" part="I" xml:id="l602">N'est-il pas bien choisi ?</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-53">
+            <l part="F">Dieux ? qu’ils sont bien ensemble.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-54">
+            <l n="603" xml:id="l603"><hi rend="i">Tapinois</hi>, en cachette, il semble qu’un bon chat</l>
+            <l n="604" xml:id="l604">Ait pris une souris, ou bien quelque gros rat :</l>
+            <l n="605" part="I" rend="i" xml:id="l605">Tapinois </l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-55">
+            <l part="F">Il est vray cette pensée est forte.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-56">
+            <l n="606" xml:id="l606"><hi rend="i">Me derobe mon cœur</hi>, me l’oste me l’emporte,</l>
+            <l n="607" rend="i" xml:id="l607">Au voleur, au voleur, au voleur, au voleur,</l>
+            <l n="608" xml:id="l608">N'est-ce pas peindre au vif, la perte de son coeur,</l>
+            <l n="609" xml:id="l609">Et ne diriez-vous pas ? qu’on crie à pleine teste<pb n="F 61"/></l>
+            <l n="610" xml:id="l610">Apres quelque voleur, arreste, arreste, arreste,</l>
+            <l n="611" xml:id="l611">Comme en le poursuivant, tout saisy de frayeur,</l>
+            <l n="612" rend="i" xml:id="l612">Au voleur, au voleur, au voleur, au voleur.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-57">
+            <l n="613" xml:id="l613">J’advoüeray que cela, sans qu’icy je vous flatte,</l>
+            <l n="614" xml:id="l614">Delecte, &amp; plaist, au goust de la plus delicate.</l>
+            <l n="615" xml:id="l615">Tant le tour est galand, spirituel &amp; beau.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-58">
+            <l n="616" xml:id="l616">L'air que j’ay fait dessus, me semble assez nouveau,</l>
+            <l n="617" part="I" xml:id="l617">Faut que je vous le die.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-59">
+            <l part="F">A quoy bon ne pas dire,</l>
+            <l n="618" xml:id="l618">Que vous avez appris la Musique, Ah ! sans rire</l>
+            <l n="619" part="I" xml:id="l619">Vous ne faites pas bien.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-60">
+            <l part="F">Quoy moy, j’aurois appris</l>
+            <l n="620" part="I" xml:id="l620">La Musique, Ah ! jamais.<pb n="62"/></l>
+          </sp>
+          <sp who="cathos" xml:id="I09-61">
+            <l part="F">Mes sens, en sont surpris ;</l>
+            <l n="621" xml:id="l621">Car comment donc Monsieur, cela se peut-il faire ?</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-62">
+            <l n="622" xml:id="l622">Les gens de <ref target="#qualite">qualité*</ref>, n’ont rien qui soit <ref target="#vulgaire1">vulgaire*</ref>,</l>
+            <l n="623" xml:id="l623">Sans avoir rien appris, ils sçavent tousjours tout.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-63">
+            <l n="624" part="I" xml:id="l624">Ma chere, assurement.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-64">
+            <l part="F">Voyons si vostre goust</l>
+            <l n="625" xml:id="l625">En trouvera l’air bon, escoutez, je commence.</l>
+            <l n="626" xml:id="l626">Hem, hem, la, la, la, la. J'ay fort peu d’eslocance,</l>
+            <l n="627" xml:id="l627">Oüais, la brutalité, de la saison qu’il fait     </l>
+            <l n="628" xml:id="l628">Est furieusement contraire, à mon projet,</l>
+            <l n="629" xml:id="l629">Elle a gasté ma voix ; mais certes il n’importe,</l>
+            <l n="630" part="I" xml:id="l630">C'est <ref target="#cavaliere">à la cavalliere*</ref>.<pb n="63"/></l>
+            <l part="M">
+              <hi rend="i">Oh, oh, je n’y prenois pas.....</hi>
+            </l>
+          </sp>
+          <sp who="cathos" xml:id="I09-65">
+            <l part="F">Ah ! Dieux, cela m’emporte ;</l>
+            <l n="631" xml:id="l631">Que je trouve cet air pressent, passionné,</l>
+            <l n="632" part="I" xml:id="l632">Est-ce qu’on n’en meurt point ?</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-66">
+            <l part="F">Il est assaisonné</l>
+            <l n="633" xml:id="l633">De la bonne façon ; mais dans cette musique</l>
+            <l n="634" xml:id="l634">L'on voit bien qu’on a mis, beaucoup de Cromatique.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-67">
+            <l n="635" xml:id="l635">Cet air assurement est tout remply d’<ref target="#appas1">appas*</ref>.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-68">
+            <l n="636" xml:id="l636">Dites-moy donc un peu si vous ne trouvez pas</l>
+            <l n="637" xml:id="l637">La pensée assez bien dans le chant exprimée ?</l>
+            <l n="638" xml:id="l638"><hi rend="i">Au voleur.</hi> Et comme une personne animée,</l>
+            <l n="639" xml:id="l639">Qui pleine de <ref target="#transport">transport*</ref>, se mettant en <ref target="#chaleur">chaleur*</ref><pb n="64"/></l>
+            <l n="640" xml:id="l640">Bien fort crie, <hi rend="i">au, au, au, au, au, au, au voleur</hi>,</l>
+            <l n="641" xml:id="l641">Et tout d’un coup apres tout comme une personne</l>
+            <l n="642" xml:id="l642">Essouflée, <hi rend="i">au voleur</hi>. Quoy cela vous <ref target="#estonner3">estonne*</ref> ?</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-69">
+            <l n="643" xml:id="l643">C'est là sçavoir le fin des choses, le grand fin,</l>
+            <l n="644" xml:id="l644">Le fin du fin, tout brille, &amp; tout y charme enfin,</l>
+            <l n="645" xml:id="l645">Je vous promets, car j’ay de l’air &amp; des paroles</l>
+            <l n="646" part="I" xml:id="l646">L'ame entousiasmée.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-70">
+            <l part="F">Et moy sans hiperboles</l>
+            <l n="647" xml:id="l647">Je n’ay jamais rien veu, de cette force-là</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-71">
+            <l n="648" xml:id="l648">Ah ! tout ce que je fais me vient comme cela</l>
+            <l n="649" xml:id="l649">Fort naturellement, &amp; sans aucune estude.<pb n="65"/></l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-72">
+            <l n="650" xml:id="l650">C'est pour ne pas avoir beaucoup d’inquietude,</l>
+            <l n="651" xml:id="l651">Et nous persuader que la nature aussi</l>
+            <l n="652" xml:id="l652">Vous a vrayement traitté, Monsieur, jusques icy,</l>
+            <l n="653" xml:id="l653">Comme une vraye mere, un peu passionnée,</l>
+            <l n="654" xml:id="l654">Et ce <ref target="#genie">genie*</ref> ardent, dont je suis <ref target="#estonnee">estonnée*</ref>,</l>
+            <l n="655" xml:id="l655">Vous fait bien remarquer, pour son enfant gasté.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-73">
+            <l n="656" part="I" xml:id="l656">A quoy donc passez vous le temps ?</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-74">
+            <l part="F">En vérité,</l>
+            <l n="657" part="I" xml:id="l657">Monsieur, à rien du tout.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-75">
+            <l part="F">Par un sort incroyable</l>
+            <l n="658" xml:id="l658">Nous avons demeuré dans un jeusne effroyable</l>
+            <l n="659" part="I" xml:id="l659">De divertissement.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-76">
+            <l part="F">Je m’offre à vous mener</l>
+            <l n="660" xml:id="l660">Le jour qu’il vous plaira, mes Dames, destiner,</l>
+            <l n="661" xml:id="l661">Voir quelque Comedie, on en doit joüer une,<pb n="66"/></l>
+            <l n="662" xml:id="l662">Dont je connois l’Autheur, &amp; qui n’est pas commune,</l>
+            <l n="663" xml:id="l663">Que je seray bien aise, au moins que nous puissions</l>
+            <l n="664" part="I" xml:id="l664">S'il se peut voir ensemble.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-77">
+            <l part="F">Ah ! telles actions</l>
+            <l n="665" part="I" xml:id="l665">Ne sont pas de refus.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-78">
+            <l part="F">Aussi je vous demande</l>
+            <l n="666" xml:id="l666">Lors que nous serons là, que toute vostre bande</l>
+            <l n="667" xml:id="l667">Admire, approuve tout, applaudisse bien fort,</l>
+            <l n="668" xml:id="l668">Pour qu’on trouve tout beau, fasse tout son effort.</l>
+            <l n="669" xml:id="l669">Je veux vous engager, comme on m’y sollicite,</l>
+            <l n="670" xml:id="l670">De faire que la piece ait grande reüssite</l>
+            <l n="671" xml:id="l671">Car pour m’en <ref target="#conjurer">conjurer*</ref>, je vous jure ma foy,</l>
+            <l n="672" xml:id="l672">Que l’Autheur ce matin, m’est venu voir chez moy,</l>
+            <l n="673" xml:id="l673">Qu'à toute heure, en tous lieux il m’en prie et m’en presse,<pb n="67"/></l>
+            <l n="674" xml:id="l674">Et fait que mes amis me le disent sans cesse.</l>
+            <l n="675" xml:id="l675">C'est la coustume icy, qu’à des gens comme nous,</l>
+            <l n="676" xml:id="l676">Pour tous les vers qu’ils font, les Poëtes viennent tous</l>
+            <l n="677" xml:id="l677">Implorer nos bontez, &amp; des pieces nouvelles</l>
+            <l n="678" xml:id="l678">Faire lecture, afin que nous les trouvions belles,</l>
+            <l n="679" xml:id="l679">Et qu’ils puissent aussi, par là nous engager</l>
+            <l n="680" xml:id="l680">A leur donner grand <ref target="#bruit">bruit*</ref>. Je vous laisse à juger</l>
+            <l n="681" xml:id="l681">Si d’une piece enfin, quoy que nous puissions dire,</l>
+            <l n="682" xml:id="l682">Le parterre jamais, ose nous contredire.</l>
+            <l n="683" xml:id="l683">Pour moy j’y suis <ref target="#exact">exact*</ref>, &amp; des que quelque Autheur</l>
+            <l n="684" xml:id="l684">M'est venu <ref target="#conjurer">conjurer*</ref> d’estre son Protecteur,</l>
+            <l n="685" xml:id="l685">Je crie avant qu’on ait allumé les chandelles,</l>
+            <l n="686" xml:id="l686">Que ses vers sont pompeux, sa piece des plus belles.<pb n="68"/></l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-79">
+            <l n="687" xml:id="l687">Non, ne m’en parlez point, Paris, est bien charmant,</l>
+            <l n="688" xml:id="l688">Tous les jours il s’y passe, &amp; fort evidemment,</l>
+            <l n="689" xml:id="l689">Cent choses que tousjours en Province on ignore,</l>
+            <l n="690" xml:id="l690">Quelque spirituelle, &amp; quelque soin encore</l>
+            <l n="691" part="I" xml:id="l691">Que l’on puisse apporter......</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-80">
+            <l part="F">C'est assez il suffit,</l>
+            <l n="692" xml:id="l692">Personne à tout cela, n’a jamais contredit ;</l>
+            <l n="693" xml:id="l693">Mais, Monsieur, puis qu’enfin nous en sommes instruittes</l>
+            <l n="694" xml:id="l694">Nous ferons seurement, tout ce que vous nous dites,</l>
+            <l n="695" xml:id="l695">Et nous nous rescrirons, aussi comme il faudra</l>
+            <l n="696" xml:id="l696">Sur tout ce que d’esprit, &amp; de beau l’on dira</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-81">
+            <l n="697" xml:id="l697">Je ne vous diray pas du tout si je devine,</l>
+            <l n="698" xml:id="l698">Mais je me trompe fort, ou vous avez la mine,</l>
+            <l n="699" xml:id="l699">De quelque Comedie, avoir fait le tissu.<pb n="69"/></l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-82">
+            <l n="700" xml:id="l700">Eh ! il pouroit bien estre, &amp; sans que l’on l’ait sceu</l>
+            <l n="701" part="I" xml:id="l701">De cela quelque chose.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-83">
+            <l part="F">Eh ! bien si bon vous semble</l>
+            <l n="702" xml:id="l702">Ma foy, nous la verrons, quand vous voudrez ensemble ;</l>
+            <l n="703" xml:id="l703">Mais puis qu’il est ainsi, je veux sans differer,</l>
+            <l n="704" xml:id="l704">Un secret important icy vous declarer.</l>
+            <l n="705" xml:id="l705">Entre nous, j’en ay faite une, je vous l’avouë,</l>
+            <l n="706" xml:id="l706">Que je veux dedans peu, faire en sorte qu’on jouë.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-84">
+            <l n="707" xml:id="l707">Et quels Comediens la representeront ?</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-85">
+            <l n="708" xml:id="l708">Ah ! la belle demande, &amp; ma foy ce seront</l>
+            <l n="709" xml:id="l709">Les grands Comediens ; ils en sont seuls capables,</l>
+            <l n="710" xml:id="l710">Leur recit a tousjours, des graces admirables</l>
+            <l n="711" xml:id="l711">Dans leurs bouches les vers, sont beaucoup <ref target="#apparent">apparants*</ref> ;<pb n="70"/></l>
+            <l n="712" xml:id="l712">Pour les autres on sçait, qu’ils sont des ignorants ;</l>
+            <l n="713" xml:id="l713">Tous leurs gestes n’ont rien qui ne soit du <ref target="#vulgaire1">vulgaire*</ref>,</l>
+            <l n="714" xml:id="l714">Et comme on parle enfin, recitent d’ordinaire ;</l>
+            <l n="715" xml:id="l715">Les vers ne ronflent point, qu’articule leur voix,</l>
+            <l n="716" xml:id="l716">Ils ne s’arrestent point, du tout, aux beaux endroits,</l>
+            <l n="717" xml:id="l717">Et quel moyen a t’on ? de les pouvoir connoistre,</l>
+            <l n="718" xml:id="l718">Si le Comedien, ne les fait pas <ref target="#paroistre1">paroistre*</ref></l>
+            <l n="719" xml:id="l719">S'il n’y fait une pose, &amp; n’advertit par là</l>
+            <l n="720" xml:id="l720">A quels endroits, il faut faire le brouhaha.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-86">
+            <l n="721" xml:id="l721">Il est une maniere en effet, qui fait mesme</l>
+            <l n="722" xml:id="l722">Sentir à ses Autheurs, tous les attraits d’un poësme,</l>
+            <l n="723" xml:id="l723">Et les choses souvent, ne valent du tout rien,</l>
+            <l n="724" xml:id="l724">S'ils ne sont dans leur jour, &amp; ne se disent bien.<pb n="71"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-87">
+            <l n="725" xml:id="l725">Ma petite oye est elle à l’habit congruante ?</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-88">
+            <l n="726" part="I" xml:id="l726">Tout à fait.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-89">
+            <l part="F">Le ruban est d’une main sçavante,</l>
+            <l n="727" part="I" xml:id="l727">N'est-il pas bien choisy ?</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-90">
+            <l part="F">Furieusement bien</l>
+            <l n="728" part="I" xml:id="l728">C'est Perdrijon tout pur.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-91">
+            <l part="F">Ne me direz vous rien</l>
+            <l n="729" xml:id="l729">Aussi de mes canons ? ont ils l’<ref target="#heur">heur*</ref> de vous plaire</l>
+            <l n="730" part="I" xml:id="l730">Dites, que vous en semble ?</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-92">
+            <l part="F">Ah ! je ne m’en puis taire,</l>
+            <l n="731" xml:id="l731">Je <ref target="#confesser2">confesse*</ref> qu’ils ont un tout à fait bon air.<pb n="72"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-93">
+            <l n="732" xml:id="l732">Par ma foy je me plais, à vous ouïr parler.</l>
+            <l n="733" xml:id="l733">Je trouve que leur air, n’a rien que d’admirable,</l>
+            <l n="734" xml:id="l734">Et je puis me vanter, qu’il n’est rien de semblable,</l>
+            <l n="735" xml:id="l735">Qu'avec raison, j’en suis tout à fait satisfait,</l>
+            <l n="736" xml:id="l736">Puis qu’ils ont un quartier, plus que tous ceux qu’on fait.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-94">
+            <l n="737" xml:id="l737">Je dois bien l’avouër ; car je n’ay que je pense</l>
+            <l n="738" xml:id="l738">Jamais d’ajustement veu porter l’elegance,</l>
+            <l n="739" xml:id="l739">Dedans un si haut point. Que vous donnez d’esclat</l>
+            <l n="740" part="I" xml:id="l740">A ce que vous avez.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-95">
+            <l part="F">Mais de vostre odorat</l>
+            <l n="741" xml:id="l741">Que la reflexion dessus ces gands s’attache.<pb n="G 73"/></l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-96">
+            <l n="742" xml:id="l742">Je n’eus jamais d’odeur plus douce que je sçache,</l>
+            <l n="743" xml:id="l743">Et je puis <ref target="#confesser1">confesser*</ref>, <ref target="#doute">sans doute*</ref> avec raison,</l>
+            <l n="744" xml:id="l744">Qu'ils sentent en effet, &amp; terriblement bon.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-97">
+            <l n="745" xml:id="l745">Je n’ay point respiré, depuis que je suis née,</l>
+            <l n="746" xml:id="l746">D'odeur, qui me parût mieux conditionnée.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-98">
+            <l n="747" part="I" xml:id="l747">Et celle-là ?</l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-99">
+            <l part="F">Je dis avecque verité</l>
+            <l n="748" xml:id="l748">Que je la trouve aussi de bonne qualité,</l>
+            <l n="749" xml:id="l749">Je sens qu’elle me plaist, &amp; sens que je l’estime,</l>
+            <l n="750" xml:id="l750">A cause qu’elle est bonne, &amp; qu’enfin le sublime</l>
+            <l n="751" xml:id="l751">En est certes, touché délicieusement.<pb n="74"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-100">
+            <l n="752" xml:id="l752">Vous ne me dites rien de mes plumes, comment</l>
+            <l n="753" part="I" xml:id="l753">Les trouvez-vous, enfin ?</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-101">
+            <l part="F">On peut bien dire d’elles</l>
+            <l n="754" xml:id="l754">Qu'elles sont en effet, effroyablement belles.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-102">
+            <l n="755" xml:id="l755">Vous vous y connoissez, je le vois ; mais encor</l>
+            <l n="756" xml:id="l756">Sçavez-vous que le brin me couste un Louis d’or ?</l>
+            <l n="757" xml:id="l757">Pour moy sans me vanter, il faut que je vous die,</l>
+            <l n="758" xml:id="l758">Que depuis bien long-temps, j’ay pris cette manie</l>
+            <l n="759" xml:id="l759">De donner par ma foy, trop generallement</l>
+            <l n="760" xml:id="l760">Sur tout ce que l’on voit, de rare &amp; de charmant.<pb n="75"/></l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-103">
+            <l n="761" xml:id="l761">Nous sympathisons fort ensemble, je vous jure,</l>
+            <l n="762" xml:id="l762">Et c’est sans vous mentir, qu’icy je vous assure</l>
+            <l n="763" xml:id="l763">Que je suis delicate, &amp; furieusement</l>
+            <l n="764" xml:id="l764">Pour tout ce qui me sert, en mon habillement,</l>
+            <l n="765" xml:id="l765">Et jusqu’à des chossons, je n’en puis d’ordinaire</l>
+            <l n="766" xml:id="l766">Souffrir, s’ils ne sont faits, de la bonne ouvriere.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-104">
+            <l n="767" xml:id="l767">Mes Dames, ahy, ahy, ahy, de grace doucement,</l>
+            <l n="768" xml:id="l768">Ce n’est pas Dieu me damne, en user prudammant,</l>
+            <l n="769" xml:id="l769">De vostre <ref target="#procede">procedé*</ref>, j’aurois lieu de me plaindre,</l>
+            <l n="770" xml:id="l770">Cela n’est pas honneste, &amp; vous me faites craindre......</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-105">
+            <l n="771" xml:id="l771">Qu'est-ce donc ? qu’avez vous ? qui vous trouble, Monsieur.<pb n="76"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-106">
+            <l n="772" xml:id="l772">Toutes deux à la fois, s’attaquer à mon cœur,</l>
+            <l n="773" xml:id="l773">Me prendre à droit, à gauche, ah certes la partie,</l>
+            <l n="774" xml:id="l774">N'est pas du tout esgale, &amp; je veux garantie,</l>
+            <l n="775" xml:id="l775">Ou puis que vous allez, contre le droit des gens,</l>
+            <l n="776" xml:id="l776">Je vais crier au meurtre, &amp; sortir de <ref target="#ceans">ceans*</ref>.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-107">
+            <l n="777" xml:id="l777">Il ne dit rien du tout qu’avec une maniere</l>
+            <l n="778" xml:id="l778">Tout à fait agreable, &amp; qui n’est point <ref target="#vulgaire1">vulgaire*</ref></l>
+          </sp>
+          <sp who="magdelon" xml:id="I09-108">
+            <l n="779" xml:id="l779">Il a dedans l’esprit un tour ; mais sans esgal.</l>
+          </sp>
+          <sp who="cathos" xml:id="I09-109">
+            <l n="780" xml:id="l780">Vous avez bien, Monsieur, plus de peur que de mal,</l>
+            <l n="781" xml:id="l781">Et vostre cœur craintif, crie avant qu’on l’escorche.<pb n="77"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I09-110">
+            <l n="782" xml:id="l782">J'ay sujet toutefois, de faire ce reproche :</l>
+            <l n="783" xml:id="l783">Comment diable, je sens que quoy que vous disiez</l>
+            <l n="784" xml:id="l784">Il est depuis la teste escorché jusqu’aux pieds.<pb n="78"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I10">
+          <head>SCENE X.</head>
+          <sp who="marotte" xml:id="I10-1">
+            <l n="785" part="I" xml:id="l785">On demande à vous voir.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I10-2">
+            <l part="M">Et qui ?</l>
+          </sp>
+          <sp who="marotte" xml:id="I10-3">
+            <l part="F">C'est le Vicomte,</l>
+            <l n="786" part="I" xml:id="l786">De Jodelet, qui veut......</l>
+          </sp>
+          <sp who="magdelon" xml:id="I10-4">
+            <l part="F">Cette visite est prompte.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I10-5">
+            <l n="787" part="I" xml:id="l787">Quoy ! le Vicomte de......<pb n="79"/></l>
+          </sp>
+          <sp who="marotte" xml:id="I10-6">
+            <l part="F">C'est luy, Monsieur, vray m’y.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I10-7">
+            <l n="788" part="I" xml:id="l788">Et le connoissez vous ?</l>
+          </sp>
+          <sp who="mascarille" xml:id="I10-8">
+            <l part="F">C'est mon meilleur amy.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I10-9">
+            <l n="789" part="I" xml:id="l789">Viste, faites entrer.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I10-10">
+            <l part="F">Certes cette <ref target="#adventure">adventure*</ref></l>
+            <l n="790" xml:id="l790">Me charme, &amp; me ravit ; car ma foy je vous jure</l>
+            <l n="791" xml:id="l791">Que depuis fort long temps, nous ne nous sommes veüs.<pb n="80"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I11">
+          <head>SCENE XI.</head>
+          <sp who="mascarille" xml:id="I11-1">
+            <l n="792" part="I" xml:id="l792">Ah ! Vicomte,</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-2">
+            <l part="M">Ah ! Marquis,</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-3">
+            <l part="F">Que tous mes sens esmeus</l>
+            <l n="793" xml:id="l793">Marquent bien le plaisir, que j’ay de ta rencontre.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-4">
+            <l n="794" xml:id="l794">Et la joye que j’ay, mon visage la monstre.<pb n="81"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-5">
+            <l n="795" xml:id="l795">Baise moy donc encor, Vicomte, baise moy,</l>
+            <l n="796" part="I" xml:id="l796">Je t’en <ref target="#conjurer">conjure*</ref>.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-6">
+            <l part="F">Il t’en faut de plus doux ma foy.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I11-7">
+            <l n="797" xml:id="l797">Nous commançons ma bonne, enfin d’estre connuës,</l>
+            <l n="798" xml:id="l798">Du beau monde chez nous, nous allons estre veuës,</l>
+            <l n="799" xml:id="l799">Puis qu’il prend le chemin de nous y visiter.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-8">
+            <l n="800" xml:id="l800">Mes Dames, s’il vous plaist, de ma part d’accepter</l>
+            <l n="801" xml:id="l801">Ce Gentilhomme cy ; sans que je le cajolle,</l>
+            <l n="802" xml:id="l802">Il est assurement, digne (sur ma parolle)</l>
+            <l n="803" part="I" xml:id="l803">D'estre connû de vous.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-9">
+            <l part="F">Il est juste, &amp; de droit</l>
+            <l n="804" xml:id="l804">De vous venir chez vous, rendre ce qu’on vous doit ;</l>
+            <l n="805" xml:id="l805">Car enfin, vos attraits exigent sur les hommes<pb n="82"/></l>
+            <l n="806" part="I" xml:id="l806">Leurs droits seigneuriaux.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I11-10">
+            <l part="F">Nous sçavons qui nous sommes,</l>
+            <l n="807" xml:id="l807">Monsieur, &amp; c’est pousser pour nos esprits peu fins</l>
+            <l n="808" xml:id="l808">Vostre civilité, jusqu’aux derniers confins</l>
+            <l n="809" part="I" xml:id="l809">De la galanterie.</l>
+          </sp>
+          <sp who="cathos" xml:id="I11-11">
+            <l part="F">Ah ! Dieux, cette journée</l>
+            <l n="810" xml:id="l810">Doit estre comme grande, ensemble &amp; fortunée,</l>
+            <l n="811" part="I" xml:id="l811">Marquée dedans nostre almanach.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I11-12">
+            <l part="F">Petit garçon,</l>
+            <l n="812" xml:id="l812">Quoy vous faut-il tousjours, faire vostre leçon,</l>
+            <l n="813" xml:id="l813">Ne voyez-vous pas bien surcroist de compagnie,</l>
+            <l n="814" part="I" xml:id="l814">Et qu’il faut un fauteuil ?</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-13">
+            <l part="F">C'est sans ceremonie.<pb n="83"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-14">
+            <l n="815" xml:id="l815">Ne vous estonnez pas, s’il est si desconfit,</l>
+            <l n="816" xml:id="l816">Il ne fait que sortir, d’un mal qui l’a boufit,</l>
+            <l n="817" xml:id="l817">Comme vous le voyez, c’est pourquoi son visage</l>
+            <l n="818" part="I" xml:id="l818">Est si maigre, &amp; si pasle.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-15">
+            <l part="F">Et c’est tout l’adventage,</l>
+            <l n="819" xml:id="l819">Et les fruicts qu’on reçoit des veilles de la Cour,</l>
+            <l n="820" xml:id="l820">Des travaux de la guerre, &amp; des <ref target="#soins">soins*</ref> de l’amour.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-16">
+            <l n="821" xml:id="l821">Mais dites cependant, sçavez vous bien mes Dames ?</l>
+            <l n="822" xml:id="l822">Qu'on place le Vicomte, au rang des belles ames,</l>
+            <l n="823" xml:id="l823">Qu'il est de ces vaillans, à qui le fer sied bien,</l>
+            <l n="824" part="I" xml:id="l824">C'est un brave à trois poils.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-17">
+            <l part="F">Vous ne m’en devez rien,</l>
+            <l n="825" xml:id="l825">Marquis, &amp; nous sçavons ce que vous sçavez faire.<pb n="84"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-18">
+            <l n="826" xml:id="l826">Ah ! ma foy, ma science, auprés vous doit se taire,</l>
+            <l n="827" xml:id="l827">Il est vray que tous deux, nous nous sommes souvent</l>
+            <l n="828" part="I" xml:id="l828">Veüs dans l’occasion.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-19">
+            <l part="F">Quelques fois trop avant</l>
+            <l n="829" xml:id="l829">Et mesme en des endroits, où l’on avoit <ref target="#doute">sans doute*</ref></l>
+            <l n="830" part="I" xml:id="l830">Bien du chaud à souffrir.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-20">
+            <l part="F">Oüy ; mais Vicomte, escoute,</l>
+            <l n="831" part="I" xml:id="l831">Pas tant de chaud qu’icy, hay, hay, hay.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-21">
+            <l part="F">Nous avons</l>
+            <l n="832" xml:id="l832">Fait nostre connoissance à l’armée, &amp; vivons</l>
+            <l n="833" xml:id="l833">Depuis en <ref target="#amitie">amitié*</ref>. Le jour que nous nous vismes</l>
+            <l n="834" xml:id="l834">Pour la premiere fois, ma foy tous deux nous fismes</l>
+            <l n="835" xml:id="l835">Ce pacte d’estre amis. Il commandoit alors<pb n="H 85"/></l>
+            <l n="836" xml:id="l836">Un fort beau regiment de cavaliers tres-fors,</l>
+            <l n="837" xml:id="l837">Sur, si je m’en souviens, les galeres de Malthe.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-22">
+            <l n="838" xml:id="l838">C'est vray ; mais Vicomte, icy trop l’on m’exalte.</l>
+            <l n="839" xml:id="l839">Vous estiez toutefois, dans l’employ devant moy,</l>
+            <l n="840" xml:id="l840">Et je me souviens bien à present sur ma foy,</l>
+            <l n="841" xml:id="l841">Que je n’avois encor qu’une charge assez basse,</l>
+            <l n="842" xml:id="l842">Que vous estiez desja dans une belle passe,</l>
+            <l n="843" xml:id="l843">Et que vous commandiez les deux mille chevaux.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-23">
+            <l n="844" xml:id="l844">La guerre est belle ; mais on a trop de travaux,</l>
+            <l n="845" xml:id="l845">Et la Cour aujourd’huy pour des gens de services</l>
+            <l n="846" part="I" xml:id="l846">Nous recompense mal.<pb n="86"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-24">
+            <l part="F">Ce ne sont qu’injustices :</l>
+            <l n="847" xml:id="l847">C'est pourquoy, je veux pendre aussi l’espée au croc,</l>
+            <l n="848" xml:id="l848">Et ne plus m’exposer du tout à pas un choc.</l>
+          </sp>
+          <sp who="cathos" xml:id="I11-25">
+            <l n="849" xml:id="l849">J'ay pour les gens d’espée, un tres-furieux tendre,</l>
+          </sp>
+          <sp who="magdelon" xml:id="I11-26">
+            <l n="850" xml:id="l850">Ils me plaisent aussi ; mais il faut pour me prendre,</l>
+            <l n="851" xml:id="l851">Assaisonner d’Esprit, la bravoure &amp; le cœur.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-27">
+            <l n="852" xml:id="l852">Te souvient-il Vicomte, avec quelle vigueur</l>
+            <l n="853" xml:id="l853">Nous prismes, toutefois suivis de la fortune</l>
+            <l n="854" xml:id="l854">Dessus nos ennemis, dis, cette demy-lune,</l>
+            <l n="855" part="I" xml:id="l855">Estant devant Arras ?</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-28">
+            <l part="F">Que veux tu dire toy ?</l>
+            <l n="856" xml:id="l856">Avec ta demy-lune, &amp; tu resves, je croy</l>
+            <l n="857" xml:id="l857">Penses-y, c’estoit bien, toute une lune entierre<pb n="87"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-29">
+            <l n="858" part="I" xml:id="l858">Il a parbieu raison.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-30">
+            <l part="F">J'y crûs mon Cimetiere,</l>
+            <l n="859" xml:id="l859">Il m’en souvient ma foy, car j’y fus fort blessé</l>
+            <l n="860" xml:id="l860">D'un grand coup de grenade, à la jambe, &amp; je sçay</l>
+            <l n="861" xml:id="l861">Que j’en porte la marque encore ; mais de grace</l>
+            <l n="862" xml:id="l862">Tastez vous sentirez le coup, voila la place.</l>
+          </sp>
+          <sp who="cathos" xml:id="I11-31">
+            <l n="863" part="I" xml:id="l863">La cicatrice est grande.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-32">
+            <l part="F">Apportez donc aussi</l>
+            <l n="864" xml:id="l864">Vostre main, &amp; tatez justement celuy-cy</l>
+            <l n="865" xml:id="l865">Là, là le trouvez vous ? là derrierre la teste.<pb n="88"/></l>
+          </sp>
+          <sp who="magdelon" xml:id="I11-33">
+            <l n="866" xml:id="l866">Ouy je sens quelque chose. Un tel coup vous appreste</l>
+            <l n="867" part="I" xml:id="l867">Aussi force lauriers.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-34">
+            <l part="F">Je receus ce coup-là</l>
+            <l n="868" part="I" xml:id="l868">Ma derniere campagne.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-35">
+            <l part="F">Ah ! tatez donc voila</l>
+            <l n="869" xml:id="l869">Encore un autre coup, je l’eus à Graveline</l>
+            <l n="870" xml:id="l870">Et depuis j’ay souffert d’une fievre maligne</l>
+            <l n="871" part="I" xml:id="l871">De fort aspres douleurs.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-36">
+            <l part="F">Moy je vais vous monstrer</l>
+            <l n="872" part="I" xml:id="l872">Une effroyable playe </l>
+          </sp>
+          <sp who="magdelon" xml:id="I11-37">
+            <l part="F">Ah ! c’est trop <ref target="#folastre">folastrer*</ref>,</l>
+            <l n="873" xml:id="l873">Sans y voir on vous croit, &amp; vos faits admirables.<pb n="89"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-38">
+            <l n="874" xml:id="l874">Ce sont à dire vray, des marques honorables</l>
+            <l n="875" part="I" xml:id="l875">Qui font voir ce qu’on est.</l>
+          </sp>
+          <sp who="cathos" xml:id="I11-39">
+            <l part="F">Ah ! Monsieur, sans cela</l>
+            <l n="876" part="I" xml:id="l876">Nous vous connoissons bien.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-40">
+            <l part="F">Dis Vicomte, as-tu là</l>
+            <l n="877" part="I" xml:id="l877">Ton carosse ?</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-41">
+            <l part="M">Pourquoy ?</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-42">
+            <l part="F">Nous menerions ces Dames,</l>
+            <l n="878" xml:id="l878">Prendre hors des portes l’air, pour delecter leurs ames,</l>
+            <l n="879" xml:id="l879">Et puis leur donnerions, par apres un cadeau,</l>
+            <l n="880" xml:id="l880">Le temps nous y convie, il est tout à fait beau</l>
+          </sp>
+          <sp who="magdelon" xml:id="I11-43">
+            <l n="881" part="I" xml:id="l881">Nous ne sçaurions sortir d’aujourd’huy<pb n="90"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-44">
+            <l part="F">Faut remettre</l>
+            <l n="882" xml:id="l882">A quelques jours d’icy la partie, &amp; promettre</l>
+            <l n="883" part="I" xml:id="l883">Aussi que vous viendrez.</l>
+          </sp>
+          <sp who="cathos" xml:id="I11-45">
+            <l part="F">He ! bien nous le voulons.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-46">
+            <l n="884" xml:id="l884">Ayons donc pour danser icy les violons.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-47">
+            <l n="885" part="I" xml:id="l885">C'est fort bien advisé.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I11-48">
+            <l part="F">Pour cela, c’est sans peine</l>
+            <l n="886" xml:id="l886">Que nous y consentons ; mais faut qu’on nous ameine</l>
+            <l n="887" part="I" xml:id="l887">Surcroist de Compagnie.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-49">
+            <l part="F">Hola, ho Poitevin,</l>
+            <l n="888" xml:id="l888">Bourguignon, Provençal, Champagne, Langevin,</l>
+            <l n="889" xml:id="l889">La Verdure, Lorrain, Basque, la Violette,</l>
+            <l n="890" xml:id="l890">La Ramée, Picart, Cascaret, la Valette,</l>
+            <l n="891" xml:id="l891">Au Diable les laquais, pour moy je ne crois pas,<pb n="91"/></l>
+            <l n="892" xml:id="l892">Que je ne rompe à tous les jambes, &amp; les bras,</l>
+            <l n="893" xml:id="l893">Non je ne trouve point, de Gentilhomme en France</l>
+            <l n="894" xml:id="l894">Plus mal servy que moy, de ces races je pence ;</l>
+            <l n="895" xml:id="l895">Car ces canailles là, ne m’entendent jamais.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I11-50">
+            <l n="896" xml:id="l896">Allez viste, Almanzor, là bas dire aux laquais</l>
+            <l n="897" xml:id="l897">De Monsieur, qu’<ref target="#present">à present*</ref> icy l’on nous ameine</l>
+            <l n="898" part="I" xml:id="l898">Des violons ;</l>
+            <l part="F">&amp; vous prenez aussi la peine </l>
+            <l n="899" xml:id="l899">De nous faire venir ces Dames, &amp; Messieurs</l>
+            <l n="900" xml:id="l900">D'icy pres, pour peupler avecque tous les leurs</l>
+            <l n="901" xml:id="l901">De nostre bal si prompt la triste solitude.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-51">
+            <l n="902" xml:id="l902">Ces yeux n’auroient-ils point destruit ta quietude.</l>
+            <l n="903" part="I" xml:id="l903">Vicomte, qu’en dis-tu ?<pb n="92"/></l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-52">
+            <l part="F">Mais toy-mesme Marquis,</l>
+            <l n="904" part="I" xml:id="l904">Qu'en pourois-tu penser ?</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-53">
+            <l part="F">Moy, par ma foy je dis</l>
+            <l n="905" xml:id="l905">Qu'icy nos libertez, sont à demy sujettes,</l>
+            <l n="906" xml:id="l906">Qu'à peine elles pouront sortir les brayes nettes,</l>
+            <l n="907" xml:id="l907">Au moins pour moy, je sens qu’en mon cœur je reçois</l>
+            <l n="908" xml:id="l908">Une <ref target="#estrange2">estrange*</ref> secousse, &amp; mesme aussi je crois</l>
+            <l n="909" xml:id="l909">Qu'il n’est plus retenu, que par fort peu de chose ;</l>
+            <l n="910" xml:id="l910">Mais quand je le perdrois j’en cherirois la cause.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I11-54">
+            <l n="911" xml:id="l911">Dieux que tout ce qu’il dit, est fort &amp; naturel</l>
+            <l n="912" xml:id="l912">Qu'on voit bien qu’il n’a rien, qui soit materiel</l>
+            <l n="913" xml:id="l913">Et qu’il tourne à miracle une douceur ma chere.<pb n="93"/></l>
+          </sp>
+          <sp who="cathos" xml:id="I11-55">
+            <l n="914" xml:id="l914">Il est vray qu’il est seul, je croy qui puisse faire</l>
+            <l n="915" xml:id="l915">Une telle despence, en esprit &amp; sçavoir.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-56">
+            <l n="916" xml:id="l916">Mesdames, toutefois pour vous mieux faire voir</l>
+            <l n="917" xml:id="l917">Que je ne vous ments point, je pretends ou je meure</l>
+            <l n="918" xml:id="l918">Vous faire un impromptu, là dessus <ref target="#tout-heure">tout à l’heure*</ref>.</l>
+          </sp>
+          <sp who="cathos" xml:id="I11-57">
+            <l n="919" xml:id="l919">Eh ! je vous en conjure, avec toute l’<ref target="#ardeur2">ardeur*</ref></l>
+            <l n="920" xml:id="l920">Et la devotion, ensemble de mon cœur</l>
+            <l n="921" xml:id="l921">Que nous ayons au moins quelque chose, qu’on sçache</l>
+            <l n="922" part="I" xml:id="l922">Que l’on ait fait pour nous.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-58">
+            <l part="F">Peste cela me fasche</l>
+            <l n="923" xml:id="l923">J'aurois envie aussi d’en faire tout autant ;</l>
+            <l n="924" xml:id="l924">Mais faut que vous sçachiez &amp; teniez pour constant</l>
+            <l n="925" xml:id="l925">Que je suis aujourd’huy, s’il faut que je m’explique,<pb n="94"/></l>
+            <l n="926" xml:id="l926">Beaucoup incommodé de la veine Poëtique</l>
+            <l n="927" xml:id="l927">Pour luy trop avoir fait de seignées ma foy,</l>
+            <l n="928" part="I" xml:id="l928">Ces jours passez.</l>
+          </sp>
+          <sp who="cathos" xml:id="I11-59">
+            <l part="F">Monsieur, sans cela je vous croy</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-60">
+            <l n="929" xml:id="l929">Que diable est donc cela ? je fais tousjours sans peine,</l>
+            <l n="930" xml:id="l930">Fort bien le premier vers ; mais je suis à la gehenne</l>
+            <l n="931" xml:id="l931">Pour poursuivre. Ma foy cecy presse trop fort :</l>
+            <l n="932" xml:id="l932">A loisir, je feray pour vous sans nul effort</l>
+            <l n="933" xml:id="l933">En vers un impromptu, qui <ref target="#doute">sans doute*</ref> je gage</l>
+            <l n="934" part="I" xml:id="l934">Ne vous desplaira pas.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-61">
+            <l part="F">Il a pour son partage</l>
+            <l n="935" part="I" xml:id="l935">A mon sens, de l’esprit en demon.<pb n="95"/></l>
+          </sp>
+          <sp who="magdelon" xml:id="I11-62">
+            <l part="F">Mais du grand,</l>
+            <l n="936" xml:id="l936">Du bien tourné, du fin, mesme du plus galand.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-63">
+            <l n="937" xml:id="l937">Vicomte, depuis quand as-tu veu la Comtesse ?</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-64">
+            <l n="938" xml:id="l938">Elle auroit bien raison d’accuser ma paresse ;</l>
+            <l n="939" xml:id="l939">Car il s’est escoulé trois semaines &amp; plus</l>
+            <l n="940" part="I" xml:id="l940">Depuis que je l’ay veuë.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-65">
+            <l part="F">Ah Dieu ! j’en suis confus,</l>
+            <l n="941" xml:id="l941">Quoy l’aller voir si peu ? mais faut que je te conte</l>
+            <l n="942" xml:id="l942">Que le Duc ce matin m’est venu voir Vicomte,</l>
+            <l n="943" xml:id="l943">Et m’a voulu mener courir avecque luy</l>
+            <l n="944" part="I" xml:id="l944">Le Cerf à la campagne.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I11-66">
+            <l part="F">Et tu l’as esconduy ?<pb n="96"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-67">
+            <l n="945" part="I" xml:id="l945">Quoy donc ?</l>
+          </sp>
+          <sp who="magdelon" xml:id="I11-68">
+            <l part="F">Messieurs, voycy nos amies qui viennent.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I11-69">
+            <l n="946" xml:id="l946">Nous sommes obligez aux peines qu’elles prennent.<pb n="I 97"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I12">
+          <head>SCENE XII.</head>
+          <sp who="magdelon" xml:id="I12-1">
+            <l n="947" xml:id="l947">Mon Dieu, vous nous devez mes cheres pardonner,</l>
+            <l n="948" xml:id="l948">Ces Messieurs ayant eu dessein de nous donner</l>
+            <l n="949" xml:id="l949">Chez nous l’ame des pieds, nous vous avons choisies</l>
+            <l n="950" xml:id="l950">Pour pouvoir mieux respondre à telles fantaisies,</l>
+            <l n="951" xml:id="l951">Et pour remplir aussi les vuides incongrus,</l>
+            <l n="952" part="I" xml:id="l952">Qui sont dans nostre bal.</l>
+          </sp>
+          <sp who="lucile" xml:id="I12-2">
+            <l part="F">Ah ! ne nous tenez plus</l>
+            <l n="953" xml:id="l953">De semblables discours. Nous sommes obligées<pb n="98"/></l>
+            <l n="954" xml:id="l954">A vostre souvenir, &amp; serions affligées</l>
+            <l n="955" xml:id="l955">Si vous ne vouliez pas tousjours agir ainsi.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I12-3">
+            <l n="956" xml:id="l956">Ce n’est qu’un bal pressé que nous faisons icy ;</l>
+            <l n="957" xml:id="l957">Mais quelqu’un de ces jours nous avons bien envie</l>
+            <l n="958" xml:id="l958">De vous en donner un, au peril de la vie,</l>
+            <l n="959" xml:id="l959">Dans les formes : Mais quoy les violons enfin,</l>
+            <l n="960" part="I" xml:id="l960">Sont-ils là ?</l>
+          </sp>
+          <sp who="almanzor" xml:id="I12-4">
+            <l part="M">Oüy, Monsieur.</l>
+          </sp>
+          <sp who="cathos" xml:id="I12-5">
+            <l part="F">C'est trop estre à la fin</l>
+            <l n="961" xml:id="l961">Sur ses pieds. Allons, mes cheres, prenez place.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I12-6">
+            <l n="962" part="I" xml:id="l962">La la la la la la.<pb n="99"/></l>
+          </sp>
+          <sp who="magdelon" xml:id="I12-7">
+            <l part="F">Dieux ! qu’il a bonne grace,</l>
+            <l n="963" part="I" xml:id="l963">Et la taille elegante.</l>
+          </sp>
+          <sp who="cathos" xml:id="I12-8">
+            <l part="F">Et la mine je croy</l>
+            <l n="964" part="I" xml:id="l964">De dancer proprement.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I12-9">
+            <l part="F">Ma <ref target="#franchise">franchise*</ref> avec moy,</l>
+            <l n="965" xml:id="l965">Aussi bien que mes pieds va dancer la courante.</l>
+            <l n="966" xml:id="l966">Violons en cadence, ah ! cadence pesante.</l>
+            <l n="967" xml:id="l967">O ! qu’ils sont ignorans ? ma foy l’on ne peut pas</l>
+            <l n="968" xml:id="l968">Bien dancer avec eux, quel <ref target="#estrange1">estrange*</ref> fracas,</l>
+            <l n="969" xml:id="l969">L'on ne sçait ce qu’on fait. Le Diable vous emporte,</l>
+            <l n="970" xml:id="l970">Quoy donc, ne sçauriez vous jouër d’une autre sorte,</l>
+            <l n="971" xml:id="l971">Et de mesure la, la la la la la la.</l>
+            <l n="972" part="I" xml:id="l972">La ferme, ô violons de village.<pb n=" 100"/></l>
+          </sp>
+          <sp who="jodelet" xml:id="I12-10">
+            <l part="F">Oh ! hola ?</l>
+            <l n="973" xml:id="l973">Messieurs, ne pressez pas si fort vostre cadence ?</l>
+            <l n="974" part="I" xml:id="l974">Je ne fais que sortir de maladie.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I12-11">
+            <l part="F">Et dance,</l>
+            <l n="975" part="I" xml:id="l975">Vicomte.<pb n="101"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I13">
+          <head>SCENE XIII.</head>
+          <sp who="la-grange" xml:id="I13-1">
+            <l part="F">Ah, ah ! coquins, que faites-vous <ref target="#ceans">ceans*</ref> ?</l>
+            <l n="976" xml:id="l976">Trois heures sont desja passées, faineans,</l>
+            <l n="977" xml:id="l977">Depuis que nous cherchons de tous costez. Ah ! lasche ?</l>
+          </sp>
+          <sp who="mascarille" xml:id="I13-2">
+            <l n="978" xml:id="l978">Ahy, ahy, ahy, je n’ay point ouy Monsieur, que je sçache</l>
+            <l n="979" part="I" xml:id="l979">Que les coups en seroient.</l>
+          </sp>
+          <sp who="jodelet" xml:id="I13-3">
+            <l part="M">Ahy, ahy.<pb n="102"/></l>
+          </sp>
+          <sp who="la-grange" xml:id="I13-4">
+            <l part="F">C'est bien à vous,</l>
+            <l n="980" xml:id="l980">Infame, à vouloir faire en ce lieu les yeux doux,</l>
+            <l n="981" part="I" xml:id="l981">Et l’homme d’importance.</l>
+          </sp>
+          <sp who="du-croisy" xml:id="I13-5">
+            <l part="F">Ah ! Vous voulez <ref target="#paroistre2">paroistre*</ref>,</l>
+            <l n="982" xml:id="l982">Cela vous apprendra certes, à vous <ref target="#se-connoistre">connoistre*</ref>.</l>
+            <pb n="103"/>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I14">
+          <head>SCENE XIV.</head>
+          <sp who="magdelon" xml:id="I14-1">
+            <l n="983" part="I" xml:id="l983">Que vien-je donc de voir ?</l>
+          </sp>
+          <sp who="mascarille" xml:id="I14-2">
+            <l part="M">Une <ref target="#gageure">gageure*</ref>.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I14-3">
+            <l part="F">Non,</l>
+            <l n="984" xml:id="l984">Ou vous vous plaisez fort à sentir le baton.</l>
+          </sp>
+          <sp who="cathos" xml:id="I14-4">
+            <l n="985" xml:id="l985">Vous laisser devant nous battre de cette sorte.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I14-5">
+            <l n="986" xml:id="l986">Mon Dieu, facilement je sçay que je m’enporte,</l>
+            <l n="987" xml:id="l987">Et je n’ay pas voulu faire semblant de rien.<pb n="104"/></l>
+          </sp>
+          <sp who="magdelon" xml:id="I14-6">
+            <l n="988" xml:id="l988">Pour vostre honneur pourtant cela ne va pas bien.</l>
+            <l n="989" xml:id="l989">Quoy ? tous deux ? qui l’eust crû ? mesme en nostre presence</l>
+            <l n="990" xml:id="l990">Endurer un affront, &amp; de cette importance.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I14-7">
+            <l n="991" xml:id="l991">N'importe, toutefois achevons, ce n’est rien.</l>
+            <l n="992" xml:id="l992">Depuis long-temps desja nous nous connoissons bien :</l>
+            <l n="993" xml:id="l993">Vous sçavez qu’entre amis, quoy qu’on fasse &amp; qu’on ose,</l>
+            <l n="994" xml:id="l994">On ne se picque pas pour si petite chose.<pb n="105"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I15">
+          <head>SCENE XV.</head>
+          <sp who="la-grange" xml:id="I15-1">
+            <l n="995" xml:id="l995">Ma foy, c’est trop marauts, vous divertir de nous,</l>
+            <l n="996" xml:id="l996">Et vous n’en rirez plus, je vous jure entre vous.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I15-2">
+            <l n="997" xml:id="l997">Quoy ? dans nostre logis vostre audace redouble.</l>
+            <l n="998" xml:id="l998">Et qui vous y fait donc ? venir mettre le trouble.</l>
+          </sp>
+          <sp who="du-croisy" xml:id="I15-3">
+            <l n="999" xml:id="l999">He ! mes Dames, comment devons nous endurer</l>
+            <l n="1000" xml:id="l1000">Que nos laquais, icy se fassent reverer.</l>
+            <l n="1001" xml:id="l1001">Que par des laschetez que l’on peut dire extresmes,<pb n="106"/></l>
+            <l n="1002" xml:id="l1002">Ils soient icy de vous, mieux receus que nous-mesmes,</l>
+            <l n="1003" xml:id="l1003">Qu'à nos propres despens, par un trait sans esgal</l>
+            <l n="1004" xml:id="l1004">Ils vous monstrent leur <ref target="#flamme">flame*</ref> ; &amp; vous donnent le bal.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I15-4">
+            <l n="1005" part="I" xml:id="l1005">Vos laquais ?</l>
+          </sp>
+          <sp who="la-grange" xml:id="I15-5">
+            <l part="F">Nos laquais, ces tours sont malhonnestes,</l>
+            <l n="1006" xml:id="l1006">De nous les desbaucher de mesme que vous faites.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I15-6">
+            <l n="1007" part="I" xml:id="l1007">Quelle haute insolence ? ô Ciel !</l>
+          </sp>
+          <sp who="la-grange" xml:id="I15-7">
+            <l part="F">Ils n’auront pas</l>
+            <l n="1008" xml:id="l1008">Le bien que nos habits leur donnent des <ref target="#appas1">appas*</ref> !</l>
+            <l n="1009" xml:id="l1009">Pour vous pouvoir par eux donner dedans la veuë,</l>
+            <l n="1010" xml:id="l1010">Si vous aimez leur peau, ce sera toute nuë,</l>
+            <l n="1011" xml:id="l1011">Et quand vous les verrez sans vestemens, &amp; gueux,<pb n="107"/></l>
+            <l n="1012" xml:id="l1012">Vous les estimerez ma foy, pour leurs beaux yeux.</l>
+            <l n="1013" xml:id="l1013">Viste ? qu’on se despouille, ou bien dans ma furie.....</l>
+          </sp>
+          <sp who="jodelet" xml:id="I15-8">
+            <l n="1014" xml:id="l1014">Je ne suis plus rien, adieu la braverie.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I15-9">
+            <l n="1015" xml:id="l1015">Adieu, le Marquisat, adieu la Vicomté.</l>
+          </sp>
+          <sp who="du-croisy" xml:id="I15-10">
+            <l n="1016" xml:id="l1016">Qu'est-ce ? qui vit jamais rien de plus effronté ?</l>
+            <l n="1017" xml:id="l1017">Vos victoires coquins, seront plus mal-aisées..</l>
+            <l n="1018" xml:id="l1018">Et vous ne pourez plus aller sur nos brisées,</l>
+            <l n="1019" xml:id="l1019">Ou vous irez ma foy chercher en d’autres lieux</l>
+            <l n="1020" xml:id="l1020">De quoy paroistre beaux, &amp; contenter les yeux</l>
+            <l n="1021" xml:id="l1021">De ces rares beautez, &amp; je vous en asseure.<pb n="108"/></l>
+          </sp>
+          <sp who="la-grange" xml:id="I15-11">
+            <l n="1022" xml:id="l1022">Auroit-on pû prevoir une telle advanture,</l>
+            <l n="1023" xml:id="l1023">Et qui plus justement dût jamais s’enporter.</l>
+            <l n="1024" xml:id="l1024">Ah ! c’estoit trop faquins, que de nous supplanter</l>
+            <l n="1025" part="I" xml:id="l1025">Avecque nos habits ?</l>
+          </sp>
+          <sp who="mascarille" xml:id="I15-12">
+            <l part="F">Ta fureur est extresme,</l>
+            <l n="1026" part="I" xml:id="l1026">O sort !</l>
+          </sp>
+          <sp who="du-croisy" xml:id="I15-13">
+            <l part="F">Que l’on leur oste, &amp; jusque aux choses mesme</l>
+            <l n="1027" part="I" xml:id="l1027">Qui sont peu d’importance.</l>
+          </sp>
+          <sp who="mascarille" xml:id="I15-14">
+            <l part="M">He....</l>
+          </sp>
+          <sp who="la-grange" xml:id="I15-15">
+            <l part="F">sans <ref target="#raisonnement">raisonnement*</ref>,</l>
+            <l n="1028" xml:id="l1028">Que tous ces habits là, soient ostez promptement.</l>
+            <l n="1029" xml:id="l1029">Dedans l’estat qu’ils sont, des à present, mes Dames,<pb n="K 109"/></l>
+            <l n="1030" xml:id="l1030">Vous pouvez avec eux continuer vos <ref target="#flamme">flames*</ref> :</l>
+            <l n="1031" xml:id="l1031">Icy nous vous laissons en pleine liberté,</l>
+            <l n="1032" xml:id="l1032">Et nous vous protestons tous deux en vérité,</l>
+            <l n="1033" xml:id="l1033">Que nous n’aurons jamais aucune jalousie.</l>
+          </sp>
+          <sp who="cathos" xml:id="I15-16">
+            <l n="1034" part="I" xml:id="l1034">Quelle confusion.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I15-17">
+            <l part="F">J'en suis toute saisie !</l>
+          </sp>
+          <sp who="violons" xml:id="I15-18">
+            <l n="1035" xml:id="l1035">Donnez nous de l’argent, je n’entends point ce-cy,</l>
+            <l n="1036" xml:id="l1036">Lequel donc de vous deux nous doit payer icy ?</l>
+          </sp>
+          <sp who="mascarille" xml:id="I15-19">
+            <l n="1037" xml:id="l1037">Quand je vois ce revers, pour moy, je meurs de honte,</l>
+            <l n="1038" xml:id="l1038">Demandez si vous plaist à Monsieur le Vicomte.<pb n="110"/></l>
+          </sp>
+          <sp who="jodelet" xml:id="I15-20">
+            <l n="1039" xml:id="l1039">D'un semblable revers mes sens sont esbaïs.</l>
+            <l n="1040" xml:id="l1040">Demandez si vous plaist à Monsieur le Marquis.<pb n="111"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I16">
+          <head>SCENE XVI.</head>
+          <sp who="gorgibus" xml:id="I16-1">
+            <l n="1041" xml:id="l1041">Coquines, qu’ay-je oüy ? vous nous venez de mettre</l>
+            <l n="1042" xml:id="l1042">Dedans de beaux draps blancs. On m’a sans rien obmetre</l>
+            <l n="1043" xml:id="l1043">Dit toute vostre affaire, &amp; ces Messieurs aussy</l>
+            <l n="1044" xml:id="l1044">Me l’ont trop fait sçavoir, en s’en allant d’icy.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I16-2">
+            <l n="1045" xml:id="l1045">Mon pere on nous a fait cette <ref target="#sanglant">sanglante*</ref> <ref target="#piece">piece*</ref>.</l>
+          </sp>
+          <sp who="gorgibus" xml:id="I16-3">
+            <l n="1046" xml:id="l1046">Je sçais qu’elle est <ref target="#sanglant">sanglante*</ref> &amp; marque leur adresse ;</l>
+            <l n="1047" xml:id="l1047">Mais vostre impertinence en est le fondement,<pb n="112"/></l>
+            <l n="1048" xml:id="l1048">Ils se sont ressentis du mauvais traittement</l>
+            <l n="1049" xml:id="l1049">Que vous leur avez fait, infames, que vous estes,</l>
+            <l n="1050" xml:id="l1050">Et leurs <ref target="#flamme">flames*</ref> ont droit d’estre mal satisfaites :</l>
+            <l n="1051" xml:id="l1051">Il faut que cependant malheureux que je suis</l>
+            <l n="1052" xml:id="l1052">Je boive cet affront pour croistre mes <ref target="#ennui">ennuis*</ref>.</l>
+          </sp>
+          <sp who="magdelon" xml:id="I16-4">
+            <l n="1053" xml:id="l1053">Ne nous dites plus rien, je vous donne assurance</l>
+            <l n="1054" xml:id="l1054">Que de ce <ref target="#procede">procedé*</ref> nous tirerons vengence,</l>
+            <l n="1055" xml:id="l1055">Que contre nous aucun ne les peut secourir,</l>
+            <l n="1056" xml:id="l1056">Ou qu’en la peine enfin, l’on nous verra perir.</l>
+            <l n="1057" xml:id="l1057">Et vous marauts, encor vous avez l’assurance</l>
+            <l n="1058" xml:id="l1058">De rester dans ces lieux, apres vostre insolence.<pb n="113"/></l>
+          </sp>
+          <sp who="mascarille" xml:id="I16-5">
+            <l n="1059" xml:id="l1059">Marquis ! comme moy se voir ainsi traitté,</l>
+            <l n="1060" xml:id="l1060">Certes, un tel affront ne peut estre gousté.</l>
+            <l n="1061" xml:id="l1061">Ah ! par cette froideur injuste &amp; sans seconde</l>
+            <l n="1062" xml:id="l1062">Je ne connois que trop ce que c’est que le monde,</l>
+            <l n="1063" xml:id="l1063">A la moindre disgrace, on vous mesprise tous,</l>
+            <l n="1064" xml:id="l1064">Qui vous aymoit le plus, s’ose railler de vous.</l>
+            <l n="1065" xml:id="l1065">Puis donc qu’il est ainsi, souffrons cette injustice,</l>
+            <l n="1066" xml:id="l1066">D'un sort commun à tous, endurons le caprice,</l>
+            <l n="1067" xml:id="l1067">Allons cher camarade, allons nous-en ailleurs,</l>
+            <l n="1068" xml:id="l1068">La fortune pour nous aura plus de douceurs,</l>
+            <l n="1069" xml:id="l1069">La vertu sans grandeurs n’est point icy connuë</l>
+            <l n="1070" xml:id="l1070">Et l’on l’en fait sortir, quand elle est toute nuë.<pb n="114"/></l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I17">
+          <head>SCENE XVII.</head>
+          <sp who="violons" xml:id="I17-1">
+            <l n="1071" xml:id="l1071">Nous atendons icy Monsieur, à leur defaut</l>
+            <l n="1072" xml:id="l1072">De recevoir enfin de vous, ce qu’il nous faut :</l>
+            <l n="1073" xml:id="l1073">Car puisque tout travail merite son salaire</l>
+            <l n="1074" xml:id="l1074">Il faut payer celuy que nous venons de faire</l>
+          </sp>
+          <sp who="gorgibus" xml:id="I17-2">
+            <l n="1075" xml:id="l1075">Je m’en vais maintenant tous deux vous contenter</l>
+            <l n="1076" xml:id="l1076">Et c’est icy l’argent que je vous veux conter.</l>
+            <l n="1077" xml:id="l1077">Et vous qui tous les jours faites tant d’incartades.</l>
+            <l n="1078" xml:id="l1078">Qui consommez le temps à faire des pommades.</l>
+            <l n="1079" xml:id="l1079">Je ne sçay qui m’empesche &amp; me retient icy<pb n="115"/></l>
+            <l n="1080" xml:id="l1080">Que dedans ma fureur je ne vous <ref target="#frotter">frotte*</ref> aussi :</l>
+            <l n="1081" xml:id="l1081">Par tout nostre maison se verra mesprisée,</l>
+            <l n="1082" xml:id="l1082">Nous servirons par tout de fable &amp; de risée,</l>
+            <l n="1083" xml:id="l1083">Chacun dira son mot pour nous deshonorer,</l>
+            <l n="1084" xml:id="l1084">Voila ce que sur nous vient enfin d’attirer</l>
+            <l n="1085" xml:id="l1085">Et vostre impertinence, &amp; vos humeurs hautaines.</l>
+            <l n="1086" xml:id="l1086">Allez donc vous cacher, allez grandes vilaines,</l>
+            <l n="1087" xml:id="l1087">Et vous des gens oisifs, lasches <ref target="#amusement">amusemens*</ref> ,</l>
+            <l n="1088" xml:id="l1088">Vers, Sonnets &amp; Chansons, Sonnetes &amp; Romans,</l>
+            <l n="1089" xml:id="l1089">Livres pernicieux, folles &amp; vaines fables</l>
+            <l n="1090" xml:id="l1090">Puissiez vous pour jamais aller à tous les diables.</l>
+            <p rend="center">FIN.</p>
+          </sp>
+        </div>
+      </div>
+      <div type="privilege">
+        <head>Extraict du Privilege du Roy.</head>
+        <p><hi rend="sc">Par</hi> grace &amp; Privilege du Roy, il est permis au sieur de Somaize de faire Imprimer par tel Imprimeur &amp; Libraire qu’il voudra, <hi rend="i">Les Pretieuses Ridicules mises en vers</hi>, representées au Petit Bourbon, pendant l’espace de cinq ans &amp; deffenses à tous autres de le contrefaire, comme il est porté par ledit Privilege. Donné à Paris, le troisiesme jour de Mars mil six cens soixante. Par le Roy en son Conseil <hi rend="sc">Coupeau</hi>.</p>
+        <p rend="i">Et ledit sieur Somaize a cedé &amp; transporté son Privilege à Jean Ribou Marchand Libraire à Paris, selon l’accord fait entr'eux. </p>
+        <p>Registré sur le Livre de la Communauté le 8. Avril 1660. suivant l’Arret du Parlement en date du 9. Avril 1653. Signé JOSSE.</p>
+        <p>Les Exemplaires ont esté fournis.</p>
+        <p>Achevé d’imprimer le 12. Avril 1660.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

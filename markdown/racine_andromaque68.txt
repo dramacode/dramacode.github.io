@@ -67,7 +67,7 @@ Hectoreum ad tumulum, viridi quem cespite inanem,
 Et geminas, causam lachrymis, sacraverat Aras...  
 Dejecit vultum, et demissâ voce locuta est.  
 O felix una ante alias Priameïa Virgo,  
-Hostilem ad tumulum, Trojæ sub mnibus altis  
+Hostilem ad tumulum, Trojæ sub mœnibus altis  
 Jussa mori ! quæ sortitus non pertulit ullos,  
 Nec victoris heri tetigit Captiva cubile.  
 Nos patria incensa ; diversa per æquora, vectæ,  
@@ -242,7 +242,7 @@ Il peut, Seigneur, il peut dans ce désordre extrême,
 Épouser ce qu'il hait, et perdre ce qu'il aime .  
 
     ORESTE.
-Mais dis-moi, de quel oeil Hermione peut voir  
+Mais dis-moi, de quel oeœil Hermione peut voir  
 Ses attraits offensés, et ses yeux sans pouvoir ?  
 
     PYLADE.
@@ -274,7 +274,7 @@ Il vient.
 À revoir un Amant qui ne vient que pour elle.  
 
 
-## SCÈNE II. Pyrrhus, Oreste, Phnix.
+## SCÈNE II. Pyrrhus, Oreste, Phœnix.
 
     ORESTE.
 Avant que tous les Grecs vous parlent par ma voix,  
@@ -400,7 +400,7 @@ Après cela, Seigneur, je ne vous retiens plus,
 Et vous pourrez aux Grecs annoncer mon refus.  
 
 
-## SCÈNE III. Pyrrhus, Phnix.
+## SCÈNE III. Pyrrhus, Phœnix.
 
     PHŒNIX.
 Ainsi vous l'envoyez aux pieds de sa Maîtresse ?  
@@ -413,7 +413,7 @@ Mais si ce feu, Seigneur, vient à se rallumer,
 S'il lui rendait son coeur, s'il s'en faisait aimer ?  
 
     PYRRHUS.
-Ah ! qu'ils s'aiment, Phnix, j'y consens. Qu'elle parte.  
+Ah ! qu'ils s'aiment, Phœnix, j'y consens. Qu'elle parte.  
 Que charmés l'un de l'autre, ils retournent à Sparte.  
 Tous nos Ports sont ouverts et pour elle et pour lui.  
 Qu'elle m'épargnerait de contrainte et d'ennui !  
@@ -701,7 +701,7 @@ Et sans armer mes yeux d'un moment de rigueur,
 Je n'ai pour lui parler, consulté que mon coeur.  
 Et qui ne se serait comme moi déclarée,  
 Sur la foi d'une amour si saintement jurée ?  
-Me voyait-il de l'oeil qu'il me voit aujourd'hui ?  
+Me voyait-il de l'oeœil qu'il me voit aujourd'hui ?  
 Tu t'en souviens encor, tout conspirait pour lui.  
 Ma Famille vengée, et les Grecs dans la joie,  
 Nos Vaisseaux tout chargés des dépouilles de Troie,  
@@ -904,7 +904,7 @@ Mais un heureux destin le conduit en ces lieux.
 Parlons. À tant d'attraits, Amour, ferme ses yeux.  
 
 
-## SCÈNE IV. Pyrrhus, Oreste, Phnix.
+## SCÈNE IV. Pyrrhus, Oreste, Phœnix.
 
     PYRRHUS.
 Je vous cherchais, Seigneur. Un peu de violence  
@@ -936,10 +936,10 @@ J'attends, avec la Paix, son coeur de votre Main.
 Ah dieux !  
 
 
-## SCÈNE V. Pyrrhus, Phnix.
+## SCÈNE V. Pyrrhus, Phœnix.
 
     PYRRHUS.
-        Hé bien, Phnix, l'Amour est-il le Maître ?  
+        Hé bien, Phœnix, l'Amour est-il le Maître ?  
 Tes yeux refusent-ils encor de me connaître ?  
 
     PHŒNIX.
@@ -959,7 +959,7 @@ Dis plutôt, qu'aujourd'hui commence ma Victoire.
 D'aujourd'hui seulement je jouis de ma gloire,  
 Et mon coeur aussi fier, que tu l'as vu soumis,  
 Croit avoir en l'Amour vaincu mille Ennemis.  
-Considère, Phnix, les troubles que j'évite,  
+Considère, Phœnix, les troubles que j'évite,  
 Quelle foule de maux l'Amour traîne à sa suite ;  
 Que d'Amis, de devoirs j'allais sacrifier ;  
 Quels périls... Un regard m'eût tout fait oublier.  
@@ -993,7 +993,7 @@ Mais laissez-la, Seigneur.
         Je vois ce qui la flatte.  
 Sa beauté la rassure, et malgré mon courroux,  
 L'Orgueilleuse m'attend encore à ses genoux.  
-Je la verrais aux miens, Phnix, d'un oeil tranquille.  
+Je la verrais aux miens, Phœnix, d'un oeœil tranquille.  
 Elle est Veuve d'Hector. Et je suis Fils d'Achille.  
 Trop de haine sépare Andromaque et Pyrrhus.  
 
@@ -1020,7 +1020,7 @@ Ma colère à ses yeux n'a paru qu'à demi.
 Elle ignore à quel point je suis son Ennemi.  
 Retournons-y. Je veux la braver à sa vue,  
 Et donner à ma haine une libre étendue.  
-Viens voir tous ses attraits, Phnix, humiliés.  
+Viens voir tous ses attraits, Phœnix, humiliés.  
 Allons.  
 
     PHŒNIX.
@@ -1049,7 +1049,7 @@ Il faut bien une fois justifier sa haine.
 J'abandonne son Fils. Que de pleurs vont couler !  
 De quel nom sa douleur me va-t-elle appeler ?  
 Quel spectacle pour elle aujourd'hui se dispose !  
-Elle en mourra, Phnix, et j'en serai la cause.  
+Elle en mourra, Phœnix, et j'en serai la cause.  
 C'est lui mettre moi-même un poignard dans le sein.  
 
     PHŒNIX.
@@ -1060,7 +1060,7 @@ Que ne consultiez-vous tantôt votre faiblesse ?
 Je t'entends. Mais excuse un reste de tendresse.  
 Crains-tu pour ma colère un si faible combat ?  
 D'un amour qui s'éteint c'est le dernier éclat.  
-Allons. À tes conseils, Phnix, je m'abandonne ;  
+Allons. À tes conseils, Phœnix, je m'abandonne ;  
 Faut-il livrer son Fils ? Faut-il voir Hermione ?  
 
     PHŒNIX.
@@ -1348,9 +1348,9 @@ Un regard confondrait Hermione et la Grèce...
 Mais lui-même il vous cherche.  
 
 
-## SCÈNE VI. Pyrrhus, Andromaque, Phnix, Céphise.
+## SCÈNE VI. Pyrrhus, Andromaque, Phœnix, Céphise.
 
-    PYRRHUS, À PHNIX.
+    PYRRHUS, À PHŒNIX.
         Où donc est la Princesse ?  
 Ne m'avais-tu pas dit qu'elle était en ces lieux ?  
 
@@ -1361,7 +1361,7 @@ Je le croyais.
         Tu vois le pouvoir de mes yeux.  
 
     PYRRHUS.
-Que dit-elle, Phnix ?  
+Que dit-elle, Phœnix ?  
 
     ANDROMAQUE.
         Hélas ! tout m'abandonne.  
@@ -1400,7 +1400,7 @@ Dieux ! N'en reste-t-il pas du moins quelque pitié ?
 Sans espoir de pardon m'avez-vous condamnée ?  
 
     PYRRHUS.
-Phnix vous le dira, ma parole est donnée.  
+Phœnix vous le dira, ma parole est donnée.  
 
     ANDROMAQUE.
 Vous qui braviez pour moi tant de périls divers ?  
@@ -1427,7 +1427,7 @@ Si je l'avais sauvé, vous l'en aimeriez moins.
 La haine, le mépris, contre moi tout s'assemble.  
 Vous me haïssez plus que tous les Grecs ensemble.  
 Jouissez à loisir d'un si noble courroux.  
-Allons, Phnix.  
+Allons, Phœnix.  
 
     ANDROMAQUE.
         Allons rejoindre mon Époux.  
@@ -1460,7 +1460,7 @@ Et que finissant là sa haine et nos misères,
 Il ne séparât point des dépouilles si chères !  
 
     PYRRHUS.
-Va m'attendre, Phnix.  
+Va m'attendre, Phœnix.  
 
 
 ## SCÈNE VII. Pyrrhus, Andromaque, Céphise.
@@ -1934,7 +1934,7 @@ Ah ! cours après Oreste, et dis-lui, ma Cléone,
 Qu'il n'entreprenne rien sans revoir Hermione.  
 
 
-## SCÈNE V. Pyrrhus, Hermione, Phnix.
+## SCÈNE V. Pyrrhus, Hermione, Phœnix.
 
     PYRRHUS.
 Vous ne m'attendiez pas, Madame, et je vois bien  
@@ -1953,7 +1953,7 @@ Mais c'est assez pour moi que je me sois soumis.
 Par mes Ambassadeurs mon coeur vous fut promis.  
 Loin de les révoquer, je voulus y souscrire.  
 Je vous vis avec eux arriver en Épire.  
-Et quoique d'un autre oeil l'éclat victorieux  
+Et quoique d'un autre oeœil l'éclat victorieux  
 Eût déjà prévenu le pouvoir de vos yeux ;  
 Je ne m'arrêtai point à cette ardeur nouvelle.  
 Je voulus m'obstiner à vous être fidèle.  
@@ -2067,7 +2067,7 @@ La querelle des Grecs à la sienne est liée.
 Oreste l'aime encore. Et peut-être à ce prix...  
 
     PYRRHUS.
-Andromaque m'attend. Phnix, garde son Fils.  
+Andromaque m'attend. Phœnix, garde son Fils.  
 
 
 # ACTE V.
@@ -2080,7 +2080,7 @@ Où suis-je ? Qu'ai-je fait ? Que dois-je faire encore ?
 Quel transport me saisit ? Quel chagrin me dévore ?  
 Errante, et sans dessein, je cours dans ce Palais.  
 Ah ! ne puis-je savoir si j'aime, ou si je hais !  
-Le Cruel ! De quel oeil il m'a congédiée ?  
+Le Cruel ! De quel oeœil il m'a congédiée ?  
 Sans pitié, sans douleur, au moins étudiée.  
 Ai-je vu ses regards se troubler un moment ?  
 En ai-je pu tirer un seul gémissement ?  
@@ -2126,7 +2126,7 @@ Que fait Pyrrhus ?
 Le plus fier des Mortels, et le plus amoureux.  
 Je l'ai vu vers le Temple, où son hymen s'apprête,  
 Mener en Conquérant sa nouvelle Conquête,  
-Et d'un oeil qui déjà dévorait son espoir ,  
+Et d'un oeœil qui déjà dévorait son espoir ,  
 S'enivrer, en marchant, du plaisir de la voir.  
 Andromaque, au travers de mille cris de joie,  
 Porte jusqu'aux Autels le souvenir de Troie,  
@@ -2150,7 +2150,7 @@ Sans songer qui le suit, Ennemis, ou Sujets,
 Il poursuit seulement ses amoureux projets.  
 Autour du Fils d'Hector il a rangé sa Garde,  
 Et croit que c'est lui seul que le péril regarde.  
-Phnix même en répond, qui l'a conduit exprès  
+Phœnix même en répond, qui l'a conduit exprès  
 Dans un Fort éloigné du Temple et du Palais.  
 Voilà, dans ses transports, le seul soin qui lui reste.  
 

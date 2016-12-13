@@ -45,7 +45,7 @@
   <text>
     <body>
       <head>LE TORRISMON<lb/>DU TASSE.<lb/>DU TASSE.<lb/>TRAGEDIE.</head>
-      <div>
+      <div type="dedication">
         <head>AU LECTEUR </head>
         <pb n="f.1r." xml:id="f1r"/>
         <p>C'EST à toy seul, LECTEUR, que je dédie cét ouvrage, afin de t’obliger, qui que tu sois, à deffendre ce que je te donne : Pour te rendre curieux de le voir, il suffit de dire qu’il est tiré du Tasse, Poëte si excellent que mesme un des plus grands hommes de son pays a monstré l’advantage que sa Hierusalem avoit sur l’Aeneide, &amp; qu’un des nostres a chanté de luy qu’il estoit</p>
@@ -113,7 +113,7 @@
         <p><pb n="f.18r." xml:id="f18r"/> sienne :  Mais  puis  qu’il a  jugé / qu’il  avoit desja trop  d’avantages  naturels sur moy,  pour</p>
         <p><space> </space><pb n="f"/>donner encore quelque occasion de croire qu’il auroit peu profiter de mes fautes, j’ay bien voulu consentir à ne pas faire paroistre mon Soliman, que le sien ne fust prest, &amp; je m’estimeray seulement trop heureux de luy servir de relief &amp; de fueille. Outre que nostre subject estant Tragique &amp; assez vaste dans son autheur, on aura sans doute de la curiosité, pour voir comment chacun l’aura retranché &amp; disposé au Theatre en Tragi-Comedie. Que si, comme on m’a fait accroire depuis, il a mieux aymé le laisser en Tragedie, ce sera le moyen de rendre chacun content : car quoy que la plus-part des evenemens soient semblables, neantmoins la contrarieté des conclusions, dont l’une suivra la verité, &amp; l’autre la vray-semblance, mettra une entiere diversité entre les deux pieces. Au moins je t’asseure bien  que tu y reconnoistras tousjours à ma confusion la grande difference qu’il y a d’un mauvais versificateur à un bon Poëte. Adieu.</p>
       </div>
-      <div>
+      <div type="preface">
         <head>ARGUMENT.</head>
         <pb n="f.18v." xml:id="f18v"/>
         <p>GALEALTE  Roy des Goths, eut une fille nommée Rosmonde, qu’il envoya aussi-tost qu’elle fut née en un Chasteau de Plaisance, pout là estre nourrie sous un air pur &amp; serain. Celle à qui on envoyoit Rosmonde pour la nourrir, lassée de la Cour, s’estoit retirée en ce Chasteau, &amp; d’autant que tous ses enfans mouroient en naissant, comme elle se vid enceinte pour la troisiesme fois, elle s’advisa de voüer aux Dieux ce qui viendroit d’elle, &amp; les Dieux permirent qu’elle mit heureusement au jour une fille au mesme temps que la Reyne accoucha de Rosmonde. Mais la fille de cette nourrice qui estoit un fruit de la devotion de sa mere, servit bien-tost d’instrument à l’impieté d’un pere ; ce qui arriva de cette sorte :</p>
@@ -125,7 +125,7 @@
         <p><pb n="f.21r." xml:id="f21r"/> craint qu’il ne luy faille enfin rompre / son vœu de virginité en espousant Germon, declare à Torrismon qui elle est &amp; comme elle passe à tort pour sa sœur. Torrismon s’en estonne, admire sa generosité &amp; sa pieté qui luy font mespriser un si haut tiltre, est en peine où il pourra trouver sa sœur pour la donner en mariage à Germon, a recours au Devin qui luy parle obscurement &amp; luy dit pourtant toute la verité. En fin il apprend de Fauston que comme il l’emmenoit au loin pour les mesmes raisons  qu’avoit desja dites Rosmonde, elle luy avoit esté enlevée par un Pirate de Norvegue, &amp; alors arrive un Messager de ce païs qui vient apporter à Alvide &amp; à Torrismon des nouvelles de la mort de Galealte Roy de Norvegue, par laquelle la Norvegue leur appartenoit ; &amp; ce Messager estoit justement celuy- là mesme qui avoit esté autresfois reduit par quelque disgrace à pratiquer cét infame metier de Pirate &amp; qui avoit enlevé Alvide &amp; l’avoit donnée au Roy de Norvegue ; Ce que Fauston qui le reconnut l’ayant obligé d’avoüer, Torrismon apprend son malheur &amp; son inceste, &amp; son amy survenant là dessus, il luy promet tout de bon de faire ce qu’il pourra afin qu’Alvide &amp; la Norvegue soient à luy, &amp; cependant deffend à Alvide qu’on die la mort de Galealte, parce qu’il sçavoit bien qu’elle avoit desja l’esprit assez troublé sans la surcharger encore de cette nouvelle affliction : mais elle l’ayant apprise d’ailleurs, s’imagine que son païs est d’intelligence avec Torrismon pour la trahir, elle entre en de plus fortes deffiances que jamais, &amp; principalement apres avoir ouy de la bouche de Torrismon des choses si estranges, qu’elle estoit sa sœur, qu’elle avoit esté nourrie par une Nymphe dans une grotte, enlevée par des Corsaires, &amp; qu’il faloit qu’elle espousast Germon  : elle devient furieuse, &amp; se donne à la fin un coup de poignard, auquel coup Torrismon survenant s’estonne de sa rage &amp; de son desespoir, luy jure que tout ce qu’il luy a dit estoit tres-vray, &amp; puis la void mourir entre ses bras ; &amp; apres avoir donné à un Gentil-homme qui estoit là present, une lettre qu’il venoit d’escrire à Germon dans la resolution de se tuër quand mesme Alvide ne fust pas morte (par laquelle  lettre il  luy  mande  la cause de  sa  mort  &amp;  le fait  heritier des Goths) il se  laisse</p>
         <p><pb n="f.21v." xml:id="f21v"/> tomber sur son espée &amp; expire aux pieds d’Alvide /. Germon reçoit la lettre, se desespere à cette triste nouvelle, console la mere de Torrismon, comme il luy avoit recommandé, fait enterrer son amy &amp; sa maistresse ensemble, &amp; demeure maistre du Royaume des Goths suivant les predictions qui portoient qu’il devoit estre soubmis à un estranger, lesquelles predictions parloient aussi d’une  haute vangeance, qui n’estoit autre chose en effet que cette mesme mort de Torrismon, pour avoir trahy le Roy de Norvegue en luy enlevant Alvide pour Germon, pour avoir esté infidelle à son amy, &amp; peut estre pour avoir commis un inceste, quoy qu’innocemment.</p>
       </div>
-      <div>
+      <div type="appendix">
         <head>Le moyen de retrancher quelques endroits de cette Tragedie, comme on fit en sa seconde  Representation. </head>
         <pb n="f.22r. g" xml:id="f22r"/>
         <p>DU premier Acte, on peut oster la seconde Scene que la Nourrice fait toute seule.</p>
@@ -146,16 +146,16 @@
           <l>Que vous me reservez de regrets &amp; d’ennuis.</l>
         </quote>
       </div>
-      <div>
+      <div type="appendix">
         <head>Fautes survenuës en l’impression. </head>
         <pb n="f.22v." xml:id="f22v"/>
         <p>Page 6 pour <hi rend="i">Gennon</hi>, lisez <hi rend="i">Germon</hi>. page 15. <hi rend="i">Que je luy cederois</hi>, il semble qu’il faille un <hi rend="i">la</hi>, c’est pourquoy mets au lieu, <hi rend="i">Que je la luy rendois</hi>, ou  bien si tu veux, <hi rend="i">Et de la luy ceder.</hi> Page 44. <hi rend="i">Au comble de beauté, de valeur, &amp; des biens</hi>, l. <hi rend="i">&amp; de biens</hi>. Page 84. <hi rend="i">Que le Roy la craignit pas quelque destinée</hi>. l. <hi rend="i">pour quelque destinée</hi>. Le reste des fautes, s’il y en a encore quelques-unes, tu les corrigeras aysément toy-mesme.</p>
       </div>
-      <div>
+      <div type="privilege">
         <head>Extraict du Privilege du Roy.</head>
         <p>Par grace &amp; Privilege du Roy, Donné à Paris le 12. Mars 1636. Signé par le Roy en son Conseil, VIGNERON : Il est permis au Sr Dalibray, de faire imprimer par tel Imprimeur qu’il voudra choisir un Livre intitulé, <hi rend="i">Le Torrismon du Tasse, Tragedie</hi>, en telle forme &amp; caractere qu’il advisera bon estre, &amp; ce durant le temps de six ans, à commencer du jour que ledit Livre sera achevé d’imprimer : Et deffences sont faites à tous Libraires &amp; Imprimeurs, de contrefaire ledit Livre, ny en vendre ou distribuer d’autres, que de ceux dudit Dalibray, ou de ceux qui auront droit de luy durant ledit temps, à peine de cinq cens livres d’amende, confiscation des exemplaires, &amp; de tous despens, dommages &amp; interests.</p>
       </div>
-      <div>
+      <div type="set">
         <head>LES ACTEURS. </head>
         <pb n="f.23v." xml:id="f23v"/>
       </div>

@@ -49,7 +49,7 @@
   <text>
     <body>
       <head>EURIMEDON <lb/>OU <lb/>L’ILLUSTRE PIRATE, <lb/>TRAGI-COMEDIE.</head>
-      <div type="set" xml:id="epitre">
+      <div type="dedication" xml:id="epitre">
         <head>A <lb/>MADEMOISELLE <lb/>DE VERTUS,</head>
         <p>MADAMOISELLE,<pb n="A ; 2"/></p>
         <p>Voicy des Estrangers qui viennent des extremitez de la Grece, et qui attirez par la reputation de vos merites, souhaittent de s’acquitter des hommages qu’on doit à vostre vertu. Si vous daignez prester l’oreille au recit de leurs advantures, vous ne les estimerez pas indignes de vostre entretien ; et je m’asseure que vous leur ferez un favorable accueil quand vous sçaurez qu’ils sont Princes, et que par des actions qui ne degenerent point de leur naissance, ils vous auront faict voir dans le Tableau de leur vie, les Images de tant de Heros que vostre Illustre Maison a donnez à la France. Je parlerois de vos augustes devanciers, François, Odet, et Charles de Bretaigne qui sortis des anciens Ducs de cette belle Province, se sont montrez dignes surgeons d’une tyge si glorieuse, et en ont conservé la gloire dans vostre famille, qui en porte encore des marques aussi durables, que celebres ; Je parlerois des notables services qu’ils ont rendus à l’Estat par les effets de leur fidelité, et de leur courage, si ce n’estoit publier des choses qui ne sont incognuës qu’aux barbares, et vouloir comprendre dans une lettre ce qui merite des volumes entiers ; Je diray seulement que ces deux grands Roys Charles huict et Louys douze ont honnoré vos ancestres du glorieux tiltre de frere, et qu’en mille occasions ils ont confirmé cette qualité advantageuse qu’Anne de Bretaigne, digne Espouse de ces deux Monarques leur avoit legitimement acquise. Cette consideration (Madamoiselle) et celle de vostre merite particulier ont faict resoudre deux Roys de venir aussi vous rendre les honneurs que vos Ayeulx ont autrefois receus, et admirer en vous une Majesté qui leur faisant oublier la leur, les force d’avoüer que vous seriez incomparable, si le Ciel ne vous avoit donné une sœur qui partage avecque vous les inclinations de tout le monde. La Renommee qui a remply l’Univers de cette verité, a donné de la jalousie aux plus belles de vostre sexe, et de l’admiration aux plus parfaites, mais vous donnerez de l’estonnement à nostre Eurimedon et à sa Pasithee, quand vous leur ferez cognoistre que la beauté, et la gentillesse des Dames de France emportent le prix sur celles de Grece, et de toutes les nations de la Terre ; Aussi n’est-ce pas leur dessein de vous disputer cét advantage, mais seulement d’avoir l’honneur de vous entretenir, afin qu’apres cette faveur ils puissent estre les <ref target="#paranymphe">Paranymphes*</ref> de vos merveilles, par la voix de celuy qui a pris la hardiesse de vous les presenter ; et qui desire estre toute sa vie,</p>
@@ -57,7 +57,7 @@
         <p rend="i">De vostre Grandeur.</p>
         <p rend="right"><hi rend="i">Le tres-humble et <lb/>tres–obeïssant serviteur</hi><lb/>Desfontaines.</p>
       </div>
-      <div type="set" xml:id="sonnet">
+      <div xml:id="sonnet" type="dedication">
         <head>A MADEMOISELLE DE VERTUS. SONNET.</head>
         <lg>
           <l n="1">Beauté par qui Venus void la sienne effacee</l>
@@ -83,7 +83,7 @@
         </lg>
         <p rend="right">DESFONTAINES.</p>
       </div>
-      <div type="set" xml:id="au-lecteur">
+      <div type="dedication" xml:id="au-lecteur">
         <head>AU LECTEUR</head>
         <p>Lecteur je croirois offencer ton jugement si je ne le croyois capable de discerner les fautes qui se sont glissees en l’Impression de cét ouvrage, et je ferois tort à ta courtoisie si je ne croyois que tu les excuseras ; c’est pourquoy sans m’arrester à t’en faire le denombrement, je te supplieray seulement de remarquer qu’en deux ou trois endroits où tu verras que les vers manqueront en leur mesures, la faute vient de ce que l’Imprimeur a escrit doncque pour doncq, encore au lieu d’encor, et une fois avec, au lieu d’avecque pour le reste je le laisse à ta discretion.</p>
       </div>
@@ -2825,7 +2825,7 @@
           </sp>
         </div>
       </div>
-      <div>
+      <div type="privilege">
         <head>EXTRAICT DU PRIVILEGE DU ROY.</head>
         <p><hi rend="i">Par grace et Privilege du Roy donné à Paris le 30 jour de may 1637. Signé par le Roy, en son Conseil de Monsseaux il est permis à</hi><hi rend="sc">Antoine de Sommaville</hi>, <hi rend="i">Marchand Libraire à Paris, d’Imprimer où faire Imprimer, vendre et distribuer en tel Volume et caractere que bon luy semblera une tragi-comedie intitulee</hi> Eurimedon ou l’Illustre Pirate du Sieur <hi rend="sc">Desfontaines</hi>, <hi rend="i">durant le temps de sept ans finis et accomplis à commencer du jour que ladite Tragi-comedie sera achevee d’Imprimer : Et deffences sont faictes à tous autres de l’Imprimer où faire Imprimer, vendre ny distribuer sans le consentement dudit Sommaville, ou de ceux ayant droit à luy, à peine aux contrevenans de trois mille livres d’amendes, et de tous ses despens, dommages et interests, ainsi qu’il est plus au long porté par les lettres cy-dessus dattees.</hi></p>
         <p>Achevé d’imprimer le 6 juin 1637.</p>

@@ -1,351 +1,357 @@
 
 
-**** *book_ *id_I01 *act_I *creator_boursault
+**** *book_ *id_body-1 *date_1665 *creator_boursault
+
+LES DEUX FRERES GEMEAUX, OU LES MENTEURS QUI NE MENTENT POINT.
+
+COMEDIE.
+
+**** *book_ *id_I01 *act_I *date_1665 *creator_boursault
 
 -*who_hipolite
-Me trompais-je, Jacinte, est-ce là sa demeure ?
+Me trompois-je, Jacinte, est-ce là sa demeure ?
 
 -*who_jacinte
-C'est là même.
+      C'est là mesme.
 
 -*who_hipolite
-      Et tu dis qu'il viendra tout à l'heure ?
+Et tu dis qu'il viendra tout à l'heure⁎ ?
 
 -*who_jacinte
 Il me suit.
 
 -*who_hipolite
-      Ah, Jacinte !
+      Ah, Jacinte !
 
--*who_jacinte
-      Et quoi donc...
+-*who_jacinte 
+      Et quoy donc…
 
 -*who_hipolite
       Je me plains,
-Ce que je souhaitais, à présent je le crains :
-D'une fille en aimant le mal-heur est extrême
-Alors qu'elle est réduite à le dire elle-même,
-Et que l'Objet charmant qui la comble d'ennui
-A donné de l'amour sans en prendre pour lui.
-Je m'étais résolue à parler de ma flamme,
-Mais Jacinte au moment...
+Ce que je souhaitois, à present je le crains :
+D'une fille en aymant le mal-heur est extrême
+Alors qu'elle est reduite à le dire elle méme,
+Et que l'Objet⁎ charmant qui la comble d'ennuy⁎
+A donné de l'amour sans en prendre pour luy.
+Je m'estois resoluë à parler de ma flâme,
+Mais Jacinte au moment…
 
 -*who_jacinte
-      Au moment, quoi Madame ?
-À qui cherche à vous plaire expliquez votre mais ;
-Mais ?
+      Au moment, quoy Madame ?
+A qui cherche à vous plaire expliquez vostre mais ;
+Mais ?
 
 -*who_hipolite
-      Mais je ne crois pas que j'en parle jamais.
+      Mais je ne croy pas que j'en parle jamais.
 
 -*who_jacinte
-Courage ; quand la chose est si bien préparée,
-Faire la scrupuleuse, et la sainte sucrée ?
-Et que lui direz-vous, car il vient sur mes pas ?
+Courage ; quand la chose est si bien preparée,
+Faire la scrupuleuse, & la sainte sucrée ?
+Et que luy direz-vous, car il vient sur mes pas ?
 
 -*who_hipolite
-En ne lui disant rien, que ne dirai-je pas ?
-Quand on voit ce qui plaît quoi qu'une âme projette
-Les yeux ont une voix si la langue est muette,
-Et pour bien découvrir son aimable tourment
+En ne luy disant rien, que ne diray-je pas ?
+Quand on void ce qui plaist quoy qu'une ame projette
+Les yeux ont une voix si la langue est muëtte,
+Et pour bien decouvrir son aymable tourment
 Affecter le silence est parler clairement.
 
 -*who_jacinte
-Et de cette façon vous croyez faire entendre...
-Je vous le disais bien j'aperçois ce Nicandre,
+Et de cette façon vous croyez faire entendre…
+Je vous le disois bien j'apperçois ce Nicandre,
 Il avance.
 
-**** *book_ *id_I02 *act_I *creator_boursault
+**** *book_ *id_I02 *act_I *date_1665 *creator_boursault
 
--*who_lepremiernicandre
-      Madame, il doit m'être bien doux
-De jouir du bonheur qui m'approche de vous ;
-Mais achevez, de grâce, et pour comble de joie
-De vous mieux obéir découvrez une voie,
+-*who_premier_nicandre
+      Madame, il doit m'estre bien doux
+De jouïr du bon-heur qui m'approche de vous ;
+Mais achevez, de grace, et pour comble de joye
+De vous mieux obeïr découvrez une voye,
 Parlez.
 
 -*who_ragotin
-      Comme elle parle, écoutez, Diablezot.
+      Comme elle parle, écoutez, Diablezot⁎.
 
 -*who_jacinte
-Ma maîtresse, Monsieur, parle sans dire mot.
+Ma Maistresse, Monsieur, parle sans dire mot.
 
--*who_lepremiernicandre
+-*who_premier_nicandre
 Dites-moi, sans frayeur ce que c'est qui vous touche,
-Je suis homme...
+Je suis homme…
 
 -*who_jacinte
-      Et là là, parlez lui de la bouche,
+      Et là là, parlez luy de la bouche,
 Madame.
 
--*who_lepremiernicandre
+-*who_premier_nicandre
       Vous croyez que me dire un secret
-C'est peut-être...
+C'est peut-estre…
 
--*who_hipolite
+-*who_hipolite 
       Nicandre, éloignez ce valet.
 
--*who_lepremiernicandre
+-*who_premier_nicandre
 Dans une heure au plus tard tu viendras me reprendre.
 
 -*who_ragotin
-Mais...
+Mais…
 
--*who_lepremiernicandre
+-*who_premier_nicandre
       Sors.
 
 -*who_ragotin
-      Mais...
+      Mais…
 
--*who_lepremiernicandre
-      Sors te dis-je, et te va faire pendre.
-
--*who_ragotin
-Et votre honneur, Monsieur, il est fort en danger,
-Quand on n'en a plus guère il le faut ménager.
-
--*who_lepremiernicandre
-Qu'elle est belle ! Vois-tu ? J'en ai l'âme surprise.
+-*who_premier_nicandre
+      Sors te dis-je, & te va faire pendre.
 
 -*who_ragotin
-Déjà de son honneur tout le reste agonise.
-Qu'il est âpre !
+Et vostre honneur, Monsieur, il est fort en danger,
+Quand on n'en a plus guere il le faut menager.
 
--*who_lepremiernicandre
+-*who_premier_nicandre
+Qu'elle est belle ! Vois-tu ? J'en ay l'ame surprise⁎.
+
+-*who_ragotin
+Déja de son honneur tout le reste agonise.
+Qu'il est aspre⁎ !
+
+-*who_premier_nicandre
       Sors donc.
 
 -*who_ragotin
       Mais.
 
--*who_lepremiernicandre
-      Encor une fois ?
+-*who_premier_nicandre
+      Encor une fois ?
 
 -*who_ragotin
 Adieu l'honneur.
 
-**** *book_ *id_I03 *act_I *creator_boursault
+**** *book_ *id_I03 *act_I *date_1665 *creator_boursault 
 
 -*who_hipolite
-      Nicandre, et mes yeux, et ma voix...
-Je me sens interdite, et le charme qui brille...
-Quand on est inquiète, et qu'on est une fille...
-Le mérite sublime a pour moi tant d'appas...
-J'ose... le trouble... Et quoi, ne m'entendez-vous pas ?
+      Nicandre, & mes yeux, & ma voix…
+Je me sens interdite⁎, & le charme qui brille…
+Quand on est inquiette, & qu'on est une fille…
+Le merite sublime a pour moy tant d'appas⁎…
+J'ose…le trouble…Et quoy, ne m'entendez-vous pas ?
 
--*who_lepremiernicandre
-Moi, Madame !
+-*who_premier_nicandre
+Moy, Madame !
 
 -*who_hipolite
       Jacinte, il ne veut pas m'entendre.
 
 -*who_jacinte
-Parlez sans façonner, et vous faites comprendre
-Aussi ; car le moyen jusqu'ici qu'il ait pu ?
-Si vous dites deux mots c'est en bâton rompu ;
-Laissez moi lui parler je suis bien plus hardie.
-Permettez, ô Monsieur qu'à présent je vous die.
-Ma Maîtresse Hipolite a depuis peu de jours...
-Quand on est en son âge, et qu'on rêve toujours...
-Je ne puis deviner, mais enfin je suis sûre...
-À tous ses mouvements j'aperçois qu'elle est mûre...
-Je ne sais quoi pour elle a des charmes si doux...
-Dites-moi, s'il vous plaît, Monsieur, m'entendez-vous ?
+Parlez sans façonner, & vous faites comprendre
+Aussi ; car le moyen jusqu'icy qu'il ait pû ?
+Si vous dites deux mots c'est en baston rompu ;
+Laissez moy luy parler je suis bien plus hardie.
+Permettez, ô Monsieur qu'à present je vous die.
+Ma Maitresse Hipolite a depuis peu de jours…
+Quand on est en son âge, & qu'on resve toûjours…
+Je ne puis deviner, mais enfin je suis seure…
+A tous ses mouvemens j'aperçois qu'elle est meure…
+Je ne sçay quoy pour elle a des charmes si dous…
+Dites-moy, s'il vous plaist, Monsieur, m'entendez-vous ?
 
--*who_lepremiernicandre
-Me jouer c'est vous plaire, et je m'offre moi-même...
+-*who_premier_nicandre 
+Me jouër c'est vous plaire, & je m'offre moi méme…
 
 -*who_jacinte
-À quoi tant de façons ? Ma maîtresse vous aime.
+A quoy tant de façons ? Ma Maitresse vous ayme.
 
--*who_lepremiernicandre
-Ciel !
+-*who_premier_nicandre
+Ciel !
 
 -*who_hipolite
-      Ô Dieux !
+      O Dieux !
 
 -*who_jacinte
-      Dame, ô Dieux, je ne puis niaiser.
+      Dame, ô Dieux, je ne puis niaiser⁎.
 
--*who_lepremiernicandre
-Madame...
+-*who_premier_nicandre
+Madame…
 
 -*who_hipolite
       Il n'est plus temps de vous rien déguiser.
-Je vous aime ; ce mot est sans doute blâmable ;
-Il m'échappe à regret, mais il est véritable,
-Je vous aime.
+Je vous ayme ; ce mot est sans doute blasmable ;
+Il m'échape à regret, mais il est veritable,
+Je vous ayme.
 
--*who_lepremiernicandre
-      Est-il vrai, m'aimez-vous ?
+-*who_premier_nicandre
+      Est-il vray, m'aymez-vous ?
 
 -*who_hipolite
-      Je l'ai dit.
+      Je l'ay dit.
 
--*who_lepremiernicandre
-De vos rares bontés je me sens interdit,
-Mais, Madame...
+-*who_premier_nicandre
+De vos rares bontez je me sens interdit⁎,
+Mais, Madame…
 
 -*who_jacinte
       Ce mais pourra bien la confondre.
 
 -*who_hipolite
-Mais enfin...
+Mais enfin…
 
--*who_lepremiernicandre
-      Mais enfin, je ne puis y répondre.
+-*who_premier_nicandre
+      Mais enfin, je ne puis y respondre.
 
--*who_jacinte
+-*who_jacinte 
 Justement.
 
 -*who_hipolite
       M'exposer à ce honteux mépris,
-Ô Ciel !
+O Ciel !
 
--*who_lepremiernicandre
-      De vos appas je connais tout le prix,
-À me favoriser votre coeur se dispose,
-Mais un serment horrible à mon bonheur s'oppose :
+-*who_premier_nicandre
+      De vos appas⁎ je connois tout le prix,
+A me favoriser vostre cœur se dispose,
+Mais un serment horrible à mon bon heur s'oppose :
 Pour ne pas en douter écoutez seulement.
 
 -*who_jacinte
-Écoutons.
+Ecoutons.
 
--*who_lepremiernicandre
-      D'où je sors on vivait noblement.
+-*who_premier_nicandre
+      D'où je sors on vivoit noblement.
 
 -*who_jacinte
-Après.
+Apres.
 
--*who_lepremiernicandre
-      Ma mère est morte, aussi bien que mon père.
+-*who_premier_nicandre
+      Ma mere est morte, aussi bien que mon pere.
 
 -*who_jacinte
 Pour cela.
 
--*who_lepremiernicandre
-      De parents je n'ai plus qu'un seul frère.
+-*who_premier_nicandre
+      De parens je n'ay plus qu'un seul frere.
 
 -*who_jacinte
 Hé bien.
 
--*who_lepremiernicandre
-      Ce frère et moi sommes frères jumeaux.
+-*who_premier_nicandre
+      Ce frere & moy sommes freres jumeaux.
 
 -*who_jacinte
-Qu'en est-il ?
+Qu'en est-il ?
 
--*who_lepremiernicandre
+-*who_premier_nicandre
       Tous ses traits à mes traits sont égaux.
 
--*who_jacinte
-Est-ce tout ?
+-*who_jacinte 
+Est-ce tout ?
 
--*who_lepremiernicandre
-      Pour nos moeurs il en est tout de même.
-
--*who_jacinte
-À la fin ?
-
--*who_lepremiernicandre
-      Ce qu'il aime est aussi ce que j'aime.
+-*who_premier_nicandre
+      Pour nos mœurs il en est tout de mesme.
 
 -*who_jacinte
-Et qu'importe ?
+A la fin ?
 
--*who_lepremiernicandre
-      Entre nous tout paraît si commun
+-*who_premier_nicandre
+      Ce qu'il ayme est aussi ce que j'ayme.
+
+-*who_jacinte
+Et qu'importe ?
+
+-*who_premier_nicandre
+      Entre nous tout paroit si commun
 Que pour voir tous les deux il ne faut en voir qu'un.
 
 -*who_jacinte
-Quoi...
+Quoy…
 
 -*who_hipolite
-      Ne l'interromps plus qu'au plus vite il achève.
-D'avoir dit mon secret je déteste.
+      Ne l'interromps plus qu'au plus viste il acheve.
+D'avoir dit mon secret je deteste.
 
 -*who_jacinte
-      Et je crève,
-Il se pâme de joie à présent qu'il sait tout,
+      Et je créve,
+Il se pasme de joye à present qu'il sçait tout,
 Voyez vous du depuis comme il tient son bon bout,
-Le manoeuvre ?
+Le manœuvre ?
 
 -*who_hipolite
-      Jacinte, est-ce là ta conduite ?
+      Jacinte, est-ce là ta conduite ?
 
--*who_lepremiernicandre
-De mon âpre malheur pour apprendre la suite,
-De ce frère si cher dont j'ignore le sort,
-De qui j'ai le visage, et la voix, et le port ;
-De ce frère, en un mot qui si fort me ressemble
-Qu'on nous prend l'un pour l'autre à nous voir être ensemble ;
-D'un frère...
+-*who_premier_nicandre
+De mon aspre⁎ mal-heur pour apprendre la suite,
+De ce frere si cher dont j'ignore le sort,
+De qui j'ay le visage, & la voix, & le port ;
+De ce frere, en un mot qui si fort me ressemble
+Qu'on nous prend l'un pour l'autre à nous voir estre ensemble ;
+D'un frere…
 
 -*who_jacinte
-      Et foin du frère, et du frère éternel,
+      Et foin du frere, & du frere eternel,
 Concluez.
 
--*who_lepremiernicandre
-      De mon frère un serment solennel
-Madame...
+-*who_premier_nicandre
+      De mon frere un serment solemnel
+Madame…
 
 -*who_hipolite
-      De ce frère un serment vous engage...
+      De ce frere un serment vous engage…
 
--*who_lepremiernicandre
+-*who_premier_nicandre
 Depuis plus de six ans je voyage, il voyage,
-Mais en nous séparant nous jurâmes tous deux
-De jamais à l'Hymen ne contraindre nos voeux
-Que de l'un, ou de l'autre une bouche fidèle
+Mais en nous separant nous jurasmes tous deux
+De jamais à l'Hymen⁎ ne contraindre nos vœux
+Que de l'un, ou de l'autre une bouche fidelle
 De la mort ou la vie eut appris la nouvelle.
 Voyez donc à mon sort quelle peine se joint,
-Je le cherche, il me cherche, et ne nous trouvons point61 ;
-Je ne puis deviner quel endroit le recèle :
+Je le cherche, il me cherche, & ne nous trouvons point ;    
+Je ne puis deviner quel endroit le recelle :
 Et pour comble de maux je vous trouve si belle,
-Qu'il fallait que mon coeur qu'Hipolite asservit
-Ou jamais ne jurât, ou jamais ne vous vid62.
+Qu'il faloit que mon cœur qu'Hipolite asservit
+Ou jamais ne jurât, ou jamais ne vous vid.
 Adieu Madame.
 
-**** *book_ *id_I04 *act_I *creator_boursault
+**** *book_ *id_I04 *act_I *date_1665 *creator_boursault 
 
 -*who_hipolite
-      Hé bien, que dis-tu ?
+      Hé bien, que dis-tu ?
 
 -*who_jacinte
-      Moi, j'enrage.
+      Moy, j'enrage.
 
 -*who_hipolite
-Le serment qu'il a fait de jamais...
+Le serment qu'il a fait de jamais…
 
 -*who_jacinte
       Badinage.
-Il se raille, Madame.
+Il se raille⁎, Madame.
 
 -*who_hipolite
-      Est-il vrai ?
+      Est-il vray ?
 
 -*who_jacinte
       Tout de bon.
 
 -*who_hipolite
-Mais il m'aime, tu vois.
+Mais il m'ayme, tu vois.
 
 -*who_jacinte
-      Lui ? Tarare pompon.
-Je m'en suis aperçue, il biaise, il bricole,
-Quand il parle de frère il vous fiche la colle ;
-Je vous le garantis franc donneur de canards.
+      Lui ? Tarrare pompon.
+Je m'en suis apperceuë, il biaise⁎, il bricole⁎,
+Quand il parle de frere il vous fiche la cole ;
+Je vous le garentis franc donneur de canards.
 
 -*who_hipolite
-Tu crois donc que quelqu'autre ait surpris ses regards ?
+Tu crois donc que quelqu'autre ait surpris⁎ ses regards ?
 
 -*who_jacinte
-Si je le crois ? Vraiment ; ce matois, ce Nicandre...
+Si je le crois ? Vrayment ; ce matois⁎, ce Nicandre…
 
-**** *book_ *id_I05 *act_I *creator_boursault
+**** *book_ *id_I05 *act_I *date_1665 *creator_boursault 
 
 -*who_ismene
-Nicandre ! Le serait-ce ? Essayons de l'apprendre.
-Ce Nicandre, Madame, à mon coeur est bien cher,
+Nicandre ! Le seroit-ce ? Essayons de l'apprendre.
+Ce Nicandre, Madame, à mon cœur est bien cher,
 Je le cherche.
 
 -*who_hipolite
@@ -353,1930 +359,1930 @@ Je le cherche.
 Peu m'importe.
 
 -*who_ismene
-      Peut-être, il vous plaît, il vous touche,
-Avouez.
+      Peut-estre, il vous plaist, il vous touche,
+Avoüez.
 
 -*who_jacinte
-      Dépêchez, que Monsieur se recouche,
-Il déplaît, c'est tant pis, et s'il plaît, c'est tant mieux.
+      Dépeschez, que Monsieur se recouche,
+Il déplaist, c'est tant pis, & s'il plaist, c'est tant mieux.
 
 -*who_ismene
-Ce n'est pas sans raison que je suis curieux ;
-Il vous aime ?
+Ce n'est pas sans raison que je suis curieux ;
+Il vous ayme ?
 
 -*who_hipolite
-      Peut-être.
+      Peut-estre.
 
 -*who_ismene
-      Il l'adore, le traître.
-Vous, l'aimez-vous, Madame, à votre tour ?
+      Il l'adore, le traistre.
+Vous, l'aymez-vous, Madame, à vostre tour ?
 
 -*who_hipolite
-      Peut-être.
+      Peut-estre.
 
 -*who_ismene
-L'aime-t elle ?
+L'ayme-t elle ?
 
 -*who_jacinte
-      Selon.
+      Selon⁎.
 
 -*who_ismene
-      Sera-t-il son époux ?
+      Sera-t-il son époux ?
 
 -*who_jacinte
-C'est selon.
+C'est selon⁎.
 
 -*who_ismene
-      Justes Dieux !
+      Justes Dieux !
 
 -*who_hipolite
-      Vous en êtes jaloux ?
+      Vous en estes jaloux ?
 
 -*who_ismene
-De celui que je dis si vous êtes l'épouse
-Je puis être alarmée, et paraître jalouse ;
-L'infidèle !
+De celuy que je dis si vous estes l'Epouse
+Je puis estre allarmée, & paroistre jalouse ;
+L'infidelle !
 
 -*who_hipolite
-      Jalouse !
+      Jalouse !
 
 -*who_jacinte
-      Ah ! Madame, voyez
-Ce que c'est que nos yeux qui s'étaient fourvoyés ;
-Elle est fille, elle même elle s'est éclaircie ;
-Ah le joli garçon par la superficie !
-Qu'il est drôle !
+      Ah ! Madame, voyez
+Ce que c'est que nos yeux qui s'étoient fourvoyez ;
+Elle est fille, elle mesme elle s'est éclaircie ;
+Ah le joly garçon par la superficie⁎ !
+Qu'il est drosle !
 
 -*who_hipolite
-      Elle est fille !
+      Elle est fille !
 
 -*who_ismene
-      Il est vrai, je la suis
-Et ce que vous aimez est ce que je poursuis.
-L'infidèle Nicandre....
+      Il est vray, je la suis
+Et ce que vous aymez est ce que je poursuis.
+L'infidelle Nicandre….
 
 -*who_hipolite
-      Achevez, l'infidèle...
+      Achevez, l'infidelle…
 
 -*who_ismene
 Dans Lyon à ses yeux je parus assez belle,
-Je lui plus, il me plut, et dans un même jour
-Je donnai tout ensemble et reçus de l'amour.
-Il me voit, me demande, et m'obtient de mon père,
-On nous veut épouser, et le traître diffère,
+Je luy plûs, il me plût, & dans un mesme jour
+Je donné tout ensemble & receus de l'amour.
+Il me void, me demande, & m'obtient de mon pere,
+On nous veut épouser, & le traistre differe,
 Et pour toutes raisons parle confusément
-Et de frère semblable, et d'horrible serment :
-Me soutient qu'il m'adore, ardemment me conjure
+Et de frere semblable, & d'horrible serment :
+Me soustient qu'il m'adore, ardamment me conjure
 De ne pas endurer qu'il devienne parjure,
-Et d'une âme charmée, et qui l'aime toujours
-Pour rejoindre ce frère il exige huit jours ;
-Il me quitte, le traître, et j'en sens mille peines,
-Cependant du depuis j'ai compté huit semaines,
+Et d'une ame charmée, & qui l'ayme toùjours
+Pour rejoindre ce frere il exige huit jours ;
+Il me quitte, le traistre, & j'en sens mille peines,
+Cependant du depuis j'ay compté huit semaines,
 Et tel est de mon sort le cruel traitement
-Que je trouve Nicandre, et je perds mon amant.
+Que je trouve Nicandre, & je perds mon amant.
 
 -*who_jacinte
-D'où naissait le refus qui si fort vous afflige ?
-Voyez-vous ?
+D'où naissoit le refus qui si fort vous afflige ?
+Voyez-vous ?
 
 -*who_hipolite
-      Apprends...
+      Apprends…
 
 -*who_jacinte
-      Paix.
+      Pay⁎,
 
 -*who_hipolite
-      Mon courroux...
+      Mon courroux…
 
 -*who_jacinte
-      Paix, vous dis-je,
-Et ne lui dites rien qui nourrisse ses feux.
+      Pay⁎, vous dis-je,
+Et ne luy dites rien qui nourrisse ses feux.
 
 -*who_ismene
-Il vous peut à son aise adresser tous ses voeux ;
-Demander son logis serait perdre ma peine,
-Redoutez seulement la présence d'Ismène ;
-De rivale à rivale on ne s'accorde rien,
+Il vous peut à son aise adresser tous ses vœux ;
+Demander son logis seroit perdre ma peine,
+Redoutez seulement la presence d'Ismene ;
+De Rivale à Rivale on ne s'accorde rien,
 Mais je puis le trouver par un autre moyen.
 Je vous laisse.
 
-**** *book_ *id_I06 *act_I *creator_boursault
+**** *book_ *id_I06 *act_I *date_1665 *creator_boursault
 
 -*who_jacinte
-      Il vous aime ?
+      Il vous ayme ?
 
 -*who_hipolite
-      Il me hait, l'infidèle.
+      Il me hait, l'infidelle.
 
 -*who_jacinte
 Vous devez au Seigneur une belle chandelle,
-Madame, il a pour vous une grande amitié ;
-Je ne me défends pas d'en payer la moitié,
-Car enfin la nature est aisée à surprendre ;
-Et si pour votre époux vous aviez eu Nicandre
+Madame, il a pour vous une grande amitié ;
+Je ne me deffends pas d'en payer la moitié,
+Car enfin la nature est aysée à surprendre ;
+Et si pour vostre espous vous aviez eu Nicandre
 Avecque son valet qui n'a point mauvais air
-Mon honneur eut pu faire un méchant pas de Cler.
-Haïssez désormais, aussi bien cette fille...
+Mon honneur eut pû faire un méchant pas de Cler.
+Haïssez desormais, aussi bien cette fille…
 
 -*who_hipolite
-Elle est belle, bien faite, et paraît de famille,
-Elle cherche Nicandre, et j'en ai du souci ;
-Mais l'amour est aveugle, et je la suis aussi.
+Elle est belle, bien faite, & paroist de famille,
+Elle cherche Nicandre, & j'en ay du soucy⁎ ;
+Mais l'amour est aveugle, & je la suis aussi.
 Que Nicandre l'adore, ou Nicandre l'abuse,
-Qui n'a point de mérite a du moins de la ruse,
-Et peut-être...
+Qui n'a point de merite a du moins de la ruse,
+Et peut-estre…
 
 -*who_jacinte
       Madame, il revient dans ce lieu.
 
-**** *book_ *id_I07 *act_I *creator_boursault
+**** *book_ *id_I07 *act_I *date_1665 *creator_boursault
 
 -*who_hipolite
-À la fin votre frère est trouvé.
+A la fin vostre frere est trouvé.
 
--*who_lesecondnicandre
-      Plût à Dieu !
+-*who_second_nicandre
+      Plût à Dieu !
 
 -*who_hipolite
-Je l'ai vu.
+Je l'ay veu.
 
--*who_lesecondnicandre
-      Quoi Madame...
+-*who_second_nicandre
+      Quoy Madame…
 
 -*who_hipolite
       Il vous est tout semblable.
 
 -*who_robin
-Madame, êtes-vous Ange ? Ou bien êtes-vous Diable ?
-Quoi, sans vous dire mot vous savez nos secrets ?
+Madame, estes-vous Ange ? Ou bien estes-vous Diable ?
+Quoy, sans vous dire mot vous sçavez nos secrets ?
 
--*who_lesecondnicandre
-Il est vrai que tous deux nous avons mêmes traits,
-J'ai la voix, le visage, et la taille de même,
-J'ai l'humeur...
+-*who_second_nicandre 
+Il est vray que tous deux nous avons mesmes traits,
+J'ay la voix, le visage, & la taille de mesme,
+J'ay l'humeur…
 
 -*who_jacinte
-      Comme il fait l'innocent quatrième !
-De vous poussez à bout le perfide a fait voeu.
+      Comme il fait l'innocent quatriesme !
+De vous poussez à bout le perfide a fait vœu.
 
--*who_lesecondnicandre
-Vous le connaissez donc, ce frère ?
+-*who_second_nicandre
+Vous le connoissez donc, ce frere ?
 
 -*who_hipolite
       Quelque peu.
 
--*who_lesecondnicandre
-Il vous voit ?
+-*who_second_nicandre
+Il vous void ?
 
 -*who_hipolite
       Quelquefois.
 
 -*who_robin
-      Ah, la bonne bigote !
-Dirait-on qu'elle y touche ?
+      Ah, la bonne bigotte⁎ !
+Diroit-on qu'elle y touche ?
 
 -*who_jacinte
-      Un valet vous balotte,
-Et je pense... Madame admirez ce bâtier
-Ce n'est pas son valet que ce galefretier :
-Avec cette finesse il prétend qu'on s'embourbe.
+      Un valet vous balotte⁎,
+Et je pense… Madame admirez ce bastier
+Ce n'est pas son valet que ce galefretier :
+Avec cette finesse il pretend qu'on s'embourbe.
 
--*who_lesecondnicandre
-Ainsi...
+-*who_second_nicandre
+Ainsi…
 
 -*who_hipolite
-      Levez le masque, on connaît votre fourbe,
+      Levez le masque, on connoit vostre fourbe,
 Et vous vous y prenez de mauvaise façon.
 
 -*who_robin
-Parbleu, pas tant bigote, elle change de ton.
+Parbleu, pas tant bigotte⁎, elle change de ton.
 
--*who_lesecondnicandre
-Et quoi...
-
--*who_hipolite
-      Qui vous aimait a pour vous de la haine.
-
--*who_lesecondnicandre
-On me hait ! Mais Madame...
+-*who_second_nicandre 
+Et quoy…
 
 -*who_hipolite
-      On connaît votre Ismène.
+      Qui vous aymoit a pour vous de la haine.
 
--*who_lesecondnicandre
-Mon Ismène !
+-*who_second_nicandre
+On me hait ! Mais Madame…
+
+-*who_hipolite
+      On connoit vostre Ismene.
+
+-*who_second_nicandre
+Mon Ismene !
 
 -*who_robin
-      Bon, bon ; mordez vous-en les doigts ;
-Il demande huit jours, et demeure deux mois.
+      Bon, bon ; mordez vous-en les doigts ;
+Il demande huit jours, & demeure deux mois.
 
--*who_lesecondnicandre
-Mon Ismène, bons Dieux ! Ô parole cruelle !
+-*who_second_nicandre
+Mon Ismene, bons Dieux ! Ô parole cruelle !
 
 -*who_robin
 St, st, une autrefois battez moins la semelle
 Monsieur.
 
--*who_lesecondnicandre
-      Tes sots discours...
+-*who_second_nicandre
+      Tes sots discours…
 
 -*who_robin
-      Je parle à coeur ouvert.
+      Je parle à cœur ouvert.
 
 -*who_jacinte
 Il enrage tout vif de se voir découvert,
-Il ne se doutait pas qu'on eut pu tout apprendre.
+Il ne se doutoit pas qu'on eut pû tout apprendre.
 
--*who_lesecondnicandre
-Et comment croyez-vous qu'on me nomme ?
+-*who_second_nicandre
+Et comment croyez-vous qu'on me nomme ?
 
 -*who_hipolite
       Nicandre.
-Fourbe, artificieux, diseur de faussetés.
+Fourbe, artificieux⁎, diseur de faussetez.
 
--*who_robin
-Puis qu'il ne répond rien, d'accord des qualités.
+-*who_robin 
+Puis qu'il ne respond rien, d'accord des qualitez.
 
--*who_lesecondnicandre
-Il est vrai qu'à l'amour je n'ai pu satisfaire,
-Mais par votre moyen si je trouve mon frère
-Pour rendre un juste hommage à de rares appas
-Ismène...
+-*who_second_nicandre
+Il est vray qu'à l'amour je n'ay pû satisfaire,
+Mais par vostre moyen si je trouve mon frere
+Pour rendre un juste hommage à de rares appas⁎
+Ismene…
 
 -*who_hipolite
-      Dites donc que vous ne l'aimez pas
-Imposteur ?
+      Dites donc que vous ne l'aymez pas
+Imposteur ?
 
--*who_lesecondnicandre
-      Je l'adore, ou le Ciel me foudroie,
-La servir est ma gloire, et l'aimer est ma joie :
+-*who_second_nicandre
+      Je l'adore, ou le Ciel me foudroye,
+La servir est ma gloire, & l'aymer est ma joye :
 Pour quelque autre beauté qui respire le jour
-J'ai des civilités et non pas de l'amour.
-Son interêt vous touche, et je vous en rends grâce,
-Embrassez...
+J'ay des civilités & non pas de l'amour.
+Son interest vous touche, & je vous en rends grace,
+Embrassez…
 
 -*who_hipolite
-      Vous saurez l'intérêt que j'embrasse,
-Et je vous ferai voir dés ce jour, si je puis
-Comme Ismène me touche, et ce que je lui suis.
+      Vous sçaurez l'interest que j'embrasse,
+Et je vous feray voir dés ce jour, si je puis
+Comme Ismene me touche, & ce que je luy suis.
 Vous verrez qu'à l'outrage une fille est sensible,
-Qu'à ses voeux méprisés il n'est rien d'impossible ;
-Et quoi que depuis peu vous soyez à Paris
-Ainsi que votre nom je sais vosre logis,
+Qu'à ses vœux méprisez il n'est rien d'impossible ;
+Et quoy que depuis peu vous soyez à Paris
+Ainsi que vostre nom je sçay vostre logis,
 Pensez-y bien.
 
-**** *book_ *id_I08 *act_I *creator_boursault
+**** *book_ *id_I08 *act_I *date_1665 *creator_boursault 
 
--*who_lesecondnicandre
-      De grâce, ayez plus de tendresse,
-Dites-moi qui des deux est suivante ou maîtresse ;
-Je vous trouve bien faite, est-ce vous qu'elle sert ?
+-*who_second_nicandre
+      De grace, ayés plus de tendresse,
+Dites-moy qui des deux est Suivante ou Maistresse ;
+Je vous trouve bien faite, est-ce vous qu'elle sert ?
 
 -*who_jacinte
-Oui.
+Oüy.
 
--*who_lesecondnicandre
-      Madame...
+-*who_second_nicandre
+      Madame…
 
 -*who_jacinte
       Courage.
 
 -*who_robin
-      Elles sont de concert
-Les gaillardes.
+      Elles sont de concert⁎
+Les gaillardes⁎.
 
--*who_lesecondnicandre
-      Madame, écoutez, en revanche...
+-*who_second_nicandre
+      Madame, écoutez, en revanche…
 
 -*who_jacinte
-Voyez-vous cette main au fin bout de ma manche ?
-Elle pourrait tomber dessus votre museau ;
-Allez vous-en chercher votre frère jumeau ;
-Ou dessus cette joue un puissant cataplasme...
+Voyez-vous cette main au fin bout de ma manche ?
+Elle pourroit tomber dessus vostre museau ;
+Allez vous-en chercher vostre frere jumeau ;
+Ou dessus cette jouë un puissant cataplasme…
 Adieu.
 
-**** *book_ *id_I09 *act_I *creator_boursault
+**** *book_ *id_I09 *act_I *date_1665 *creator_boursault 
 
 -*who_robin
-      Connaissez-vous cette bonne Madame ?
+      Connoissez-vous cette bonne Madame ?
 
--*who_lesecondnicandre
+-*who_second_nicandre
 Nullement.
 
 -*who_robin
-      Nullement ?
+      Nullement ?
 
--*who_lesecondnicandre
+-*who_second_nicandre
       Je ne la vis jamais.
 
 -*who_robin
 Songez bien.
 
--*who_lesecondnicandre
+-*who_second_nicandre
       Plus j'y songe, et moins je la remets,
-Je ne la vis jamais en aucune manière.
+Je ne la vis jamais en aucune maniere.
 
 -*who_robin
-À la première vue elle est bien familière.
-Des soufflets tout d'abord !
+A la premiere veuë elle est bien familiere.
+Des soufflets tout d'abord !
 
--*who_lesecondnicandre
+-*who_second_nicandre
       Tu m'en vois tout surpris.
-D'hier au soir seulement j'arrivai dans Paris.
+D'hier au soir seulement j'arrivay dans Paris.
 
 -*who_robin
-De la nuit noire en Diable il était plus d'une heure.
+De la nuict noire en Diable il estoit plus d'une heure.
 
--*who_lesecondnicandre
-Et déjà toutes deux ont appris ma demeure
+-*who_second_nicandre
+Et déja toutes deux ont appris ma demeure
 Robin.
 
--*who_robin
-      Les Pousse-culs sont de vilaines gens,
-Gare après votre queue un troupeau de qergents,
-Et si votre personne est par eux attrapée,
-Vous aurez une femme, ou la tête coupée.
-Ce n'est pas qu'entre nous je ne sache fort bien
-Qu'avec une maîtresse on ne fait souvent rien ;
-Mais à votre prison pour donner une cause
-Vous serez accusé d'avoir fait quelque chose ;
+-*who_robin 
+      Les Poussecus⁎ sont de vilaines gens,
+Garre apres vostre queuë un troupeau de Sergens,
+Et si vostre personne est par eux attrapée,
+Vous aurez une femme, ou la teste coupée.
+Ce n'est pas qu'entre nous je ne sçache fort bien
+Qu'avec une Maistresse on ne fait souvent rien ;
+Mais à vostre prison pour donner une cause
+Vous serez accusé d'avoir fait quelque chose ;
 Et vous en sortirez si le Ciel vous y met
-Pour aller à la noce, ou du moins au gibet.
+Pour aller à la Nopce, ou du moins au Gibet⁎.
 
--*who_lesecondnicandre
-Quoi, tu penses qu'Ismène ait si peu de constance...
+-*who_second_nicandre
+Quoy, tu penses qu'Ismene ait si peu de constance…
 
 -*who_robin
-Je ne sais par ma foi ce qu'il faut que je pense ;
-Il faut bien vous aimer pour attendre toujours,
+Je ne sçay par ma foy ce qu'il faut que je pense ;
+Il faut bien vous aimer pour attrendre toûjours,
 Et je trouve deux mois bien plus longs que huit jours.
-En laissant à Lyon cette belle lionne,
-Tu me crèves le coeur, disiez-vous, ma pouponne,
+En laissant à Lyon cette belle Lionne,
+Tu me créves le cœur, disiez-vous, ma Pouponne,
 Mais enfin mon départ ne doit pas t'irriter,
-Je te quitte un moment pour ne plus te quitter ;
+Je te quitte un moment pour ne plus te quitter ;
 Laisse agir mon amour, je te tire de peine,
-Ou je me donne au Diable, et dans une semaine
-Mon Fanfan ; de mon frère, ou la vie ou la mort
-Me remet le pouvoir de conclure mon sort ;
-De quelqu'un que je crois j'en aurai la nouvelle,
+Ou je me donne au Diable, & dans une semaine
+Mon Fanfan ; De mon frere, ou la vie ou la mort
+Me remet le pouvoir de conclure mon sort ;
+De quelqu'un que je croy j'en auray la nouvelle,
 Depuis à vous attendre elle fait sentinelle,
-Tandis qu'en galopant et par vaux et par monts
-Nous passons vous et moi pour de francs vagabonds.
-Voyez si la Donzelle a sujet de bien rire.
+Tandis qu'en galopant & par vaux & par monts
+Nous passons vous & moy pour de francs vagabonds.
+Voyez si la Donzelle⁎ a sujet de bien rire.
 
--*who_lesecondnicandre
-Ah Robin ! De ce frère on n'a pu me rien dire,
+-*who_second_nicandre 
+Ah Robin ! De ce frere on n'a pû me rien dire,
 Je m'en meurs. Cependant va dedans mon logis,
-On me veut faire pièce, et j'ai peur d'être pris :
-Dis qu'il n'est pas besoin qu'aujourd'hui l'on m'attende.
+On me veut faire piece, & j'ay peur d'estre pris :
+Dy qu'il n'est pas besoin qu'aujourd'huy l'on m'attende.
 
 -*who_robin
-Si je suis pris pour vous, et qu'après on me pende
-Aussi ?
+Si je suis pris pour vous, & qu'apres on me pende
+Aussi ?
 
--*who_lesecondnicandre
-      Te pendre ! À tort on l'aurait prétendu.
+-*who_second_nicandre
+      Te pendre ! À tort on l'auroit pretendu.
 
 -*who_robin
-Et qu'importe comment on puisse être pendu ?
-Soit à tort, soit à droit, n'est-ce pas toujours l'être ?
+Et qu'importe comment on puisse estre pendu ?
+Soit à tort, soit à droit, n'est-ce pas toûjours l'estre ?
 
--*who_lesecondnicandre
-Tu te moques, te dis-je, obéis à ton maître.
+-*who_second_nicandre
+Tu te moques, te dis-je, obeïs à ton Maistre.
 Je t'attends en ce lieu.
 
 -*who_robin
-      Mais, Monsieur...
+      Mais, Monsieur…
 
--*who_lesecondnicandre
-      Hâte-toi.
+-*who_second_nicandre
+      Haste-toy.
 
 -*who_robin
-Daignez donc pour le moins me répondre de moi,
-Car enfin...
+Daignez donc pour le moins me répondre de moy,
+Car enfin…
 
--*who_lesecondnicandre
-      Va te dis-je, et retient cette place.
+-*who_second_nicandre
+      Va te dis-je, & retient cette place.
 Attendant qu'il revienne allons voir Clidimace,
-Comme dans cette ville il a bien du crédit
-Cet ami...
+Comme dans cette ville il a bien du credit
+Cét Amy…
 
-**** *book_ *id_I10 *act_I *creator_boursault
+**** *book_ *id_I10 *act_I *date_1665 *creator_boursault 
 
 -*who_ragotin
       Je reviens comme vous m'avez dit,
-Est-ce fait ?
+Est-ce fait ?
 
--*who_lesecondnicandre
-      Que veux tu ?
-
--*who_ragotin
-      Je reviens.
-
--*who_lesecondnicandre
-      Que je meure...
-
--*who_ragotin
-Dites en conscience, ai-je mis plus d'une heure ?
-
--*who_lesecondnicandre
-Que veux-tu, mon ami ? Dis le moi.
+-*who_second_nicandre
+      Que veux tu ?
 
 -*who_ragotin
       Je reviens.
 
--*who_lesecondnicandre
-Accordons un peu mieux tes discours et les miens,
-À tout ce que tu dis je ne puis rien comprendre.
+-*who_second_nicandre
+      Que je meure…
 
 -*who_ragotin
-Il ne vous souvient pas que je viens vous reprendre ?
-Le secret de la Dame à la fin est-il su ?
-Dites-moi.
+Dites en conscience, ay-je mis plus d'une heure ?
 
--*who_lesecondnicandre
-      Mon enfant, je ne t'ai jamais vu,
-Quel es-tu ?
+-*who_second_nicandre
+Que veux-tu, mon amy ? Dy le moy.
 
 -*who_ragotin
-      Qui je suis ? Qu'ai-je accoutumé d'être ?
+      Je reviens.
+
+-*who_second_nicandre
+Accordons un peu mieux tes discours & les miens,
+A tout ce que tu dis je ne puis rien comprendre.
+
+-*who_ragotin
+Il ne vous souvient pas que je viens vous reprendre ?
+Le secret de la Dame à la fin est-il sçeu ?
+Dites-moy.
+
+-*who_second_nicandre
+      Mon enfant, je ne t'ay jamais veu,
+Quel es-tu ?
+
+-*who_ragotin 
+      Qui je suis ? Qu'ay-je accoustumé d'estre ?
 Ragotin.
 
--*who_lesecondnicandre
-      Ragotin, je ne puis te connaître,
+-*who_second_nicandre
+      Ragotin, je ne puis te connoistre,
 Passe ton chemin, passe.
 
 -*who_ragotin
-      Il le fait tout exprès ;
-Moi je vous connais.
+      Il le fait tout exprés ;
+Moy je vous connoy.
 
--*who_lesecondnicandre
-      Toi me connaître ?
+-*who_second_nicandre
+      Toy me connoistre ?
 
 -*who_ragotin
-      À peu prés.
+      A peu prés.
 
--*who_lesecondnicandre
-Tu t'abuses, mon cher, ton erreur est extrême
+-*who_second_nicandre
+Tu t'abuses, mon cher, ton erreur est extréme
 Passe.
 
 -*who_ragotin
-      Il n'est donc pas vrai que vous êtes vous-même
-Est-ce pas ?
+      Il n'est donc pas vray que vous estes vous-mesme
+Est-ce pas ?
 
--*who_lesecondnicandre
-      Je commence à beaucoup m'ennuyer.
+-*who_second_nicandre
+      Je commence à beaucoup m'ennuyer⁎.
 
 -*who_ragotin
-En gambades je pense il prétend me payer.
+En gambades⁎ je pense il pretend me payer.
 Je vous sers.
 
--*who_lesecondnicandre
-      Tu me sers !
+-*who_second_nicandre
+      Tu me sers !
 
 -*who_ragotin
-      Hé nenni.
+      Hé nenny⁎.
 
--*who_lesecondnicandre
+-*who_second_nicandre
       Je m'irrite,
-Maraut...
+Maraut⁎…
+
+-*who_ragotin 
+      Payez-moy donc, & sortons quitte à quitte.
+
+-*who_second_nicandre
+Je te dois quelque chose ! Insolent, je voy bien…
 
 -*who_ragotin
-      Payez-moi donc, et sortons quitte à quitte.
+Si vous me devez ! Non, vous ne me devez rien.
+Et qui peut me devoir quinze mois de mes gages ?
 
--*who_lesecondnicandre
-Je te dois quelque chose ! Insolent, je vois bien...
-
--*who_ragotin
-Si vous me devez ! Non, vous ne me devez rien.
-Et qui peut me devoir quinze mois de mes gages ?
-
--*who_lesecondnicandre
+-*who_second_nicandre
 Laisse là ta sottise, en un mot tu m'outrages,
-Je me fais violence, et je dois de ce pas...
+Je me fais violence, et je dois de ce pas…
 
 -*who_ragotin
-Vous devez, il est vrai, mais vous ne payez pas.
+Vous devez, il est vray, mais vous ne payez pas.
 
--*who_lesecondnicandre
-Sais-tu bien, goguenard qu'à bons coups de nasardes
-Si tu railles encore, et que tu goguenardes,
-Que de tes mots bouffons tu me fasses l'objet...
-
--*who_ragotin
-Je bouffonne ! Vraiment j'en ai bien du sujet !
-Mis dehors, pas le sou, ne savoir chez qui vivre...
-Quoi, vous vous en allez ?
-
--*who_lesecondnicandre
-      Et tu penses me suivre ?
+-*who_second_nicandre
+Sçais-tu bien, guoguenard⁎ qu'à bons coups de nazardes
+Si tu railles⁎ encore, & que tu guoguenardes⁎,
+Que de tes mots bouffons tu me fasses l'objet⁎…
 
 -*who_ragotin
-Je le pense, et repense.
+Je bouffonne ! Vrayment j'en ay bien du sujet !
+Mis dehors, pas le sou, ne sçavoir chez qui vivre…
+Quoy, vous vous en allez ?
 
--*who_lesecondnicandre
+-*who_second_nicandre
+      Et tu penses me suivre ?
+
+-*who_ragotin
+Je le pense, & repense.
+
+-*who_second_nicandre
       Et tu ne penses pas
 Que si tu l'entreprends je te casse les bras.
-Suis-moi donc si tu veux, viens, tu n'as rien à craindre.
+Suy-moy donc si tu veux, viens, tu n'as rien à craindre.
 
-**** *book_ *id_I11 *act_I *creator_boursault
+**** *book_ *id_I11 *act_I *date_1665 *creator_boursault 
 
 -*who_ragotin
 Il ne faut que cela pour m'achever de peindre.
-Peu courtois courtisan en chassant ton valet
-Que la peste t'étouffe, et te saute au collet.
+Peu courtois Courtisan en chassant ton valet
+Que la peste t'étouffe, & te saute au colet⁎.
 Qu'au fin fond des Enfers le grand diable te plonge.
 Mais j'enrage de faim, à propos, quand j'y songe,
-Pour branler la machoire, et nous faire laquais
-Allons chercher fortune aux degrés du Palais.
+Pour branler la machoire, & nous faire laquais
+Allons chercher fortune aux degrez⁎ du Palais.
 
-**** *book_ *id_II01 *act_II *creator_boursault
+**** *book_ *id_II01 *act_II *date_1665 *creator_boursault
 
--*who_lepremiernicandre
-La charmante Hipolite a pour moi de l'estime,
-Et je n'ose répondre au beau feu qui l'anime !
-À mon cruel serment tous mes sens occupés...
+-*who_premier_nicandre
+La charmante Hipolite a pour moy de l'estime,
+Et je n'ose répondre au beau feu qui l'anime !
+A mon cruel serment tous mes sens occupez…
 
-**** *book_ *id_II02 *act_II *creator_boursault
-
--*who_ismene
-Ou je vois l'infidèle ou mes yeux sont trompés.
-C'est lui-même, le traître. À quoi rêve Nicandre ?
-
--*who_lepremiernicandre
-Et par quelle raison souhaiter de l'apprendre ?
+**** *book_ *id_II02 *act_II *date_1665 *creator_boursault
 
 -*who_ismene
-Vous m'aimiez autrefois, et j'ai dû présumer...
+Ou je vois l'infidelle ou mes yeux sont trompez.
+C'est luy-mesme, le traistre. A quoy réve Nicandre ?
 
--*who_lepremiernicandre
-Si je vous ai connu, j'ai bien pu vous aimer ;
-Où vous ai-je pu voir ? Tirez moi d'une peine.
-
--*who_ismene
-À Lyon.
-
--*who_lepremiernicandre
-      À Lyon ! Votre nom c'est...
+-*who_premier_nicandre
+Et par quelle raison souhaitter de l'apprendre ?
 
 -*who_ismene
-      Ismène.
+Vous m'aymiez autrefois, & j'ay dû presumer…
 
--*who_lepremiernicandre
-J'ai beau pour vous connaître employer mes efforts...
+-*who_premier_nicandre
+Si je vous ay connu, j'ay bien pû vous aymer ;
+Où vous ay-je pû voir ? Tirez moy d'une peine.
+
+-*who_ismene 
+A Lyon.
+
+-*who_premier_nicandre
+      A Lyon ! Vostre nom c'est…
 
 -*who_ismene
-Je ne vous parois pas ce que j'étais alors,
-Vous savez que l'on change.
+      Ismene.
 
--*who_lepremiernicandre
+-*who_premier_nicandre
+J'ay beau pour vous connoistre employer mes efforts…
+
+-*who_ismene
+Je ne vous parois pas ce que j'estois alors,
+Vous sçavez que l'on change.
+
+-*who_premier_nicandre
       Il est indubitable,
-Mais c'est beaucoup changer qu'être méconnaissable ;
-À Lyon j'ai pu faire un passable séjour,
-Mais...
+Mais c'est beaucoup changer qu'estre méconnoissable ;
+A Lyon j'ay pû faire un passable séjour,
+Mais…
 
 -*who_ismene
-      Mais quoi qu'il en soit vous rêviez à l'amour ?
+      Mais quoy qu'il en soit vous resviez à l'amour ?
 
--*who_lepremiernicandre
-J'y rêvais, je l'avoue, une Dame si belle...
-
--*who_ismene
-Vous l'aimez ?
-
--*who_lepremiernicandre
-      Si je l'aime ?
+-*who_premier_nicandre
+J'y resvois, je l'avouë, une Dame si belle…
 
 -*who_ismene
-      Et vous êtes fidèle ?
+Vous l'aymez ?
 
--*who_lepremiernicandre
-Vouloir toute ma vie adorer ses appas...
+-*who_premier_nicandre
+      Si je l'ayme ?
 
 -*who_ismene
-Ingrat, c'est le paraître, et c'est ne l'être pas ;
+      Et vous estes fidelle ?
+
+-*who_premier_nicandre
+Vouloir toute ma vie adorer ses appas⁎…
+
+-*who_ismene 
+Ingrat, c'est le paraistre, et c'est ne l'estre pas ;
 Ouvre les yeux.
 
--*who_lepremiernicandre
-      Monsieur...
+-*who_premier_nicandre
+      Monsieur…
 
 -*who_ismene
-      Dis mon nom, si tu l'oses,
-De ton frère, perfide, as-tu su quelques choses ?
+      Dy mon nom, si tu l'oses,
+De ton frere, perfide, as-tu sceu quelques choses ?
 
--*who_lepremiernicandre
-Un langage si haut me rend tout interdit...
-
--*who_ismene
-Ta maîtresse, infidèle, est dessous cet habit ;
-Vois Ismène, vois traître, et que l'oeil te dessille.
-
--*who_lepremiernicandre
-Quoi dessous czt habit j'aperçois une fille !
-Ah Madame...
+-*who_premier_nicandre
+Un langage si haut me rend tout interdit⁎…
 
 -*who_ismene
-      Volage, à quoi m'obliges-tu ?
-Ta honteuse inconstance a trahi ma vertu :
-Sont-ce là ces huit jours ? Est-ce là cette flamme...
+Ta Maitresse, infidelle, est dessous cét habit ;
+Vois Ismene, vois traistre, & que l'œil te dessille.
 
--*who_lepremiernicandre
-Expliquez cette énigme, et de grêce Madame...
+-*who_premier_nicandre
+Quoy dessous cét habit j'apperçois une fille !
+Ah Madame…
 
 -*who_ismene
-Cet énigme, volage, ah cruel, plût aux Dieux !
+      Volage, à quoy m'obliges-tu ?
+Ta honteuse inconstance a trahy ma vertu :
+Sont-ce là ces huit jours ? Est-ce là cette flame…
+
+-*who_premier_nicandre
+Expliquez cette énigme, & de grace Madame…
+
+-*who_ismene
+Cét énigme, volage, ah cruel, plût aux Dieux !
 Mais ton crime visible a-t-il rien de douteux
-Infidèle ?
+Infidelle ?
 
--*who_lepremiernicandre
-      Mon crime !
-
--*who_ismene
-      Âme double, et traîtresse,
-Est-ce donc ta vertu que trahir ta maîtresse ?
-
--*who_lepremiernicandre
-Moi, trahir ma maîtresse ?
+-*who_premier_nicandre
+      Mon crime !
 
 -*who_ismene
-      Oui, toi lâche.
+      Ame double, & traitresse,
+Est-ce donc ta vertu que trahir ta Maistresse ?
 
--*who_lepremiernicandre
-      Moi ?
-
--*who_ismene
-      Toi.
-
--*who_lepremiernicandre
-Je ne vous connais pas, et j'ignore pourquoi...
+-*who_premier_nicandre
+Moy, trahir ma Maistresse ?
 
 -*who_ismene
-Tu ne me connais pas ? Toi perfide ? Toi traître ?
-Hé bien, je veux t'apprendre à pouvoir me connaître,
-Et te faire toi même à toi même avouer
-Que tu m'as oubliée, et n'ai pu t'oublier.
-Prends-y garde.
+      Ouy, toy lasche.
 
-**** *book_ *id_II03 *act_II *creator_boursault
+-*who_premier_nicandre
+      Moy ?
 
--*who_lepremiernicandre
-      J'ignore à quoi tend sa querelle
-À l'entendre, autrefois je soupirai pour elle :
-Moi bon Dieux ! Moi pour elle avoir pu soupirer !
-Je ne la vis jamais, et ne puis pénétrer...
-Mais à quoi je m'amuse ? À quoi songe mon âme ?
-Si j'ai quelques moments je les dois à ma flamme ;
-Hipolite... Jacinte en ce lieu se fait voir ;
-Jacinte...
+-*who_ismene
+      Toy.
 
-**** *book_ *id_II04 *act_II *creator_boursault
+-*who_premier_nicandre
+Je ne vous connois pas, & j'ignore pourquoy…
+
+-*who_ismene
+Tu ne me connois pas ? Toy perfide ? Toy traistre ?
+Hé bien, je veux t'apprendre à pouvoir me connoistre,
+Et te faire toy mesme à toy mesme avoüer
+Que tu m'as oubliée, & n'ay pû t'oublier.
+Prens-y garde.
+
+**** *book_ *id_II03 *act_II *date_1665 *creator_boursault
+
+-*who_premier_nicandre
+      J'ignore à quoy tend sa querelle
+A l'entendre, autrefois je soupiray pour elle :
+Moy bon Dieux ! Moy pour elle avoir pû soupirer !
+Je ne la vis jamais, & ne puis penetrer…
+Mais à quoy je m'amuse ? À quoy songe mon ame ?
+Si j'ay quelques momens je les dois à ma flâme ;
+Hipolite… Jacinte en ce lieu se fait voir ;
+Jacinte…
+
+**** *book_ *id_II04 *act_II *date_1665 *creator_boursault
 
 -*who_jacinte
-      Il dit mon nom ! Qui vous l'a fait savoir ?
-Vous me démaîtressez maître fourbe.
+      Il dit mon nom ! Qui vous l'a fait sçavoir ?
+Vous me démaistressez maistre fourbe.
 
--*who_lepremiernicandre
-      Où s'adresse...
+-*who_premier_nicandre
+      Où s'adresse…
 
 -*who_jacinte
-Dites-moi qui des deux est suivante ou maîtresse ?
-Je vous trouve bien faite, est-ce vous qu'elle sert ?
+Dites-moy qui des deux est Suivante ou Maistresse ?
+Je vous trouve bien faite, est-ce vous qu'elle sert ?
 
--*who_lepremiernicandre
-Parlez plus clairement, avez-vous découvert...
+-*who_premier_nicandre
+Parlez plus clairement, avez-vous decouvert…
 
 -*who_jacinte
 Rien du tout.
 
--*who_lepremiernicandre
-      D'où vient donc que je comprends à peine...
+-*who_premier_nicandre
+      D'où vient donc que je comprends à peine…
 
 -*who_jacinte
-On connaît...
+On connoit…
 
--*who_lepremiernicandre
-      Quoi ? Parlez, qui connaît-on ?
+-*who_premier_nicandre
+      Quoy ? Parlez, qui connoit-on ?
 
 -*who_jacinte
-      Ismène.
+      Ismene.
 
--*who_lepremiernicandre
-Je vous entends Jacinte, Hipolite sait bien...
+-*who_premier_nicandre 
+Je vous entends Jacinte, Hipolite sçait bien…
 
 -*who_jacinte
 Que gens faits comme vous ne vaudront jamais rien,
 Adieu, passe-volant.
 
--*who_lepremiernicandre
-      Demeurez, et pour cause,
-Au malheureux Nicandre apprenez une chose,
-J'allais voir Hipolite...
+-*who_premier_nicandre
+      Demeurez, & pour cause,
+Au mal-heureux Nicandre apprenez une chose,
+J'allois voir Hipolite…
 
 -*who_jacinte
-      Hipolite ! Vous ?
+      Hipolite ! Vous ?
 
--*who_lepremiernicandre
-      Moi.
+-*who_premier_nicandre
+      Moy.
 
 -*who_jacinte
 C'est bien fait.
 
--*who_lepremiernicandre
-      Croyez-vous...
+-*who_premier_nicandre
+      Croyez-vous…
 
 -*who_jacinte
-      Oui, sans doute, je crois.
-Je crois si vous osez dans sa chambre paraître
-Que vous n'en sortirez que par une fenêtre.
-Hipolite piquée...
+      Ouy, sans doute, je croy.
+Je croy si vous osez dans sa chambre paraistre
+Que vous n'en sortirez que par une fenestre.
+Hipolite picquée⁎…
 
--*who_lepremiernicandre
-      Elle ?
-
--*who_jacinte
-      Non, qui donc ? Moi ?
-
--*who_lepremiernicandre
-Et qui l'a pu piquer ?
+-*who_premier_nicandre
+      Elle ?
 
 -*who_jacinte
-      Votre... je ne sais quoi,
-Vos discours outrageants, votre langue qui joue...
+      Non, qui donc ? Moy ?
 
--*who_lepremiernicandre
-Ma langue est imprudente, et je la désavoue ;
-Non, je ne prétends pas qu'elle parle jamais
-S'il ne faut d'Hipolite applaudir les attraits.
-Me hait-elle, Jacinte, avouez ?
+-*who_premier_nicandre
+Et qui l'a pû picquer⁎ ?
+
+-*who_jacinte
+      Vostre… je ne sçay quoy,
+Vos discours outrageants, vostre langue qui jouë…
+
+-*who_premier_nicandre
+Ma langue est imprudente, et je la desavouë ;
+Non, je ne pretends pas qu'elle parle jamais
+S'il ne faut d'Hipolite applaudir les attrais.
+Me hait-elle, Jacinte, avoüez ?
 
 -*who_jacinte
       L'idiote
-Pour vous aimer encore est peut être assez sotte,
-Mais si j'en étais crue...
+Pour vous aymer encore est peutestre assez sotte,
+Mais si j'en estois cruë…
 
--*who_lepremiernicandre
-      Elle ne me hait pas !
+-*who_premier_nicandre
+      Elle ne me hait pas !
 Pour me bien obliger retournez sur vos pas,
-Dites-lui tout l'excès de ma flamme amoureuse,
-Dites...
+Dites-luy tout l'excés de ma flâme amoureuse,
+Dites…
 
 -*who_jacinte
       Allez ailleurs chercher une menteuse,
 Monsieur.
 
--*who_lepremiernicandre
-      Mettez ma flamme au degré le plus haut,
-Et ce sera...
+-*who_premier_nicandre
+      Mettez ma flâme au degré le plus haut,
+Et ce sera…
 
 -*who_jacinte
       Mentir justement comme il faut.
 
--*who_lepremiernicandre
-Puisque vous refusez d'aller dire que j'aime
-Offrez-moi le moyen de le dire moi même,
-Que je voie Hipolite, et lui puisse parler,
-Qu'un moment...
+-*who_premier_nicandre
+Puisque vous refusez d'aller dire que j'ayme
+Offrez-moy le moyen de le dire moy mesme,
+Que je voye Hipolite, & luy puisse parler,
+Qu'un moment…
 
 -*who_jacinte
-      J'ai bien peur de me laisser aller.
-Vous l'aimez ?
+      J'ay bien peur de me laisser aller.
+Vous l'aymez ?
 
--*who_lepremiernicandre
-      Je l'adore, et j'adore elle seule
-Ou...
-
--*who_jacinte
-      Qui dit courtisan dit toujours fort en gueule ;
-De vous croire moi-même en secret je rougis ;
-Cependant sans façon je retourne au logis :
-J'allais faire un message, et pour vous je diffère ;
-À propos, Hipolite accompagne son père,
-Mais il peut la quitter, il ne faut qu'un instant...
-
--*who_lepremiernicandre
-À la prochaine rue un intime m'attend ;
-Je m'en vais le trouver, où vous dois-je reprendre ?
+-*who_premier_nicandre
+      Je l'adore, & j'adore elle seule
+Ou…
 
 -*who_jacinte
-Dans une petite heure ayez soin de vous rendre...
-Où dirai-je ? Ici même, en ce coin à l'écart.
+      Qui dit Courtisan dit toujours fort en gueule ;
+De vous croire moy mesme en secret je rougis ;
+Cependant sans façon je retourne au logis :
+J'allois faire un message, & pour vous je differe ;
+A propos, Hipolite accompagne son pere,
+Mais il peut la quitter, il ne faut qu'un instant…
 
--*who_lepremiernicandre
-C'est assez, et de plus...
+-*who_premier_nicandre
+A la prochaine ruë un inthime m'attend ;
+Je m'en vais le trouver, où vous dois-je reprendre ?
+
+-*who_jacinte
+Dans une petite heure ayez soin de vous rendre…
+Où diray-je ? Icy mesme, en ce coin à l'écart.
+
+-*who_premier_nicandre
+C'est assez, & de plus…
 
 -*who_jacinte
       Et de plus, Dieu vous gard.
 
-**** *book_ *id_II05 *act_II *creator_boursault
+**** *book_ *id_II05 *act_II *date_1665 *creator_boursault
 
--*who_lepremiernicandre
-Téméraire serment sors de cette mémoire,
-Ne fais pas un obstacle à l'excès de ma gloire,
-Depuis plus de six ans je me suis défendu...
+-*who_premier_nicandre
+Temeraire serment sors de cette memoire,
+Ne fais pas un obstacle à l'excés de ma gloire,
+Depuis plus de six ans je me suis deffendu…
 
-**** *book_ *id_II06 *act_II *creator_boursault
+**** *book_ *id_II06 *act_II *date_1665 *creator_boursault 
 
 -*who_robin
-Monsieur, vous ne serez ni roué, ni pendu,
-Je n'ai vu ni records, ni bourreau, ni charrette,
+Monsieur, vous ne serez ny roüé, ny pendu,
+Je n'ay veu ny records⁎, ny bourreau, ny charrette,
 Tout va bien.
 
--*who_lepremiernicandre
-      De quel air ce bélître me traite !
-À qui parle...
+-*who_premier_nicandre
+      De quel air ce belistre⁎ me traitte !
+A qui parle…
 
 -*who_robin
-      Pour moi, quoi que simple valet,
-Dans la peur que j'avais d'être pris au collet
-J'ai joué de finesse, et l'ai mis dans ma poche
-Voyez vous ? Pour l'hôtesse elle tourne la broche,
-Elle dit qu'en tout cas votre lit sera prêt,
-Que peut-être...
+      Pour moy, quoy que simple valet,
+Dans la peur que j'avois d'estre pris au colet⁎
+J'ay joüé de finesse, & l'ay mis dans ma poche
+Voyez vous ? Pour l'Hostesse elle tourne la broche,
+Elle dit qu'en tout cas vostre lit sera prest,
+Que peut-estre…
 
--*who_lepremiernicandre
-      À cela, je n'ai point d'intérêt.
-Où vas-tu ? D'où viens-tu ? Dis le moi toute à l'heure
-Et je crois...
-
--*who_robin
-      Je ne vais, ni ne viens, je demeure.
-Comme il fait le gausseur, d'où je viens, me dit-il,
-Il a crû tout d'abord que j'étais alguazil,
-Et qu'en vrais pas-de-loup je venais le surprendre.
-
--*who_lepremiernicandre
-Sais-tu, mon ami, qu'on me nomme Nicandre,
-Et que l'on me déplaît quand on fait le badin ?
+-*who_premier_nicandre
+      A cela, je n'ay point d'interest.
+Où vas-tu ? D'où viens-tu ? Dy le moy toute à l'heure⁎
+Et je croy…
 
 -*who_robin
-Savez-vous bien, Monsieur, qu'on m'appelle Robin ?
+      Je ne vais, ny ne viens, je demeure.
+Comme il fait le gausseur⁎, d'où je viens, me dit-il,
+Il a crû tout d'abord que j'estois Algoüazil,
+Et qu'en vrais pas de loup je venois le surprendre.
 
--*who_lepremiernicandre
-Moi, je saurais ton nom ?
-
--*who_robin
-      Comme je sais le vôtre,
-Et nous nous connAissons aussi bien l'un que l'autre.
-
--*who_lepremiernicandre
-Camarade...
+-*who_premier_nicandre 
+Sçais-tu, mon amy, qu'on me nomme Nicandre,
+Et que l'on me deplaist quand on fait le badin ?
 
 -*who_robin
-      PaiX.
+Sçavez-vous bien, Monsieur, qu'on m'appelle Robin ?
 
--*who_lepremiernicandre
-      Dis moi, traître, es-tu saoul ?
-
--*who_robin
-Mon cher maître, avouez que vous êtes bien fou.
-
--*who_lepremiernicandre
-Moi ton maître ?
+-*who_premier_nicandre
+Moy, je sçaurois ton nom ?
 
 -*who_robin
-      Et qui donc ?
+      Comme je sçay le vostre,
+Et nous nous connoissons aussi bien l'un que l'autre.
 
--*who_lepremiernicandre
-      Il a pu se méprendre.
-Je t'ai dit, mon amu, qu'on m'appelle Nicandre
-Qu'un sot conte me choque, et qu'enfin...
-
--*who_robin
-      Et qu'enfin...
-Je vous ai répondu qu'on me nomme Robin.
-
--*who_lepremiernicandre
-Et ce nom de Robin suffira pour m'apprendre...
+-*who_premier_nicandre
+Camarade…
 
 -*who_robin
-Tout comme il me suffit de celui de Nicandre.
+      Païs⁎.
 
--*who_lepremiernicandre
-Mais de bien te connaître offre moi le moyen,
-Que veux-tu ? Quel es-tu ?
-
--*who_robin
-      Mon Dieu, je ne suis rien ;
-Je suis ce que je suis, qui que je sois je m'aime,
-Et je ne voudrais pas ne pas être moi-même,
-Je me garantis tel.
-
--*who_lepremiernicandre
-      Mais pourquoi...
+-*who_premier_nicandre
+      Dy moy, traistre, és-tu saou ?
 
 -*who_robin
-      Mais pourquoi...
-Puisque vous êtes vous, je puis bien être moi.
+Mon cher maistre, avoüez que vous estes bien fou.
 
--*who_lepremiernicandre
-Mon valet...
+-*who_premier_nicandre
+Moy ton Maistre ?
+
+-*who_robin
+      Et qui donc ?
+
+-*who_premier_nicandre
+      Il a pû se méprendre.
+Je t'ay dit, mon amy, qu'on m'appelle Nicandre
+Qu'un sot conte me choque, & qu'enfin…
+
+-*who_robin
+      Et qu'enfin…
+Je vous ay respondu qu'on me nomme Robin.
+
+-*who_premier_nicandre
+Et ce nom de Robin suffira pour m'apprendre…
+
+-*who_robin
+Tout comme il me suffit de celuy de Nicandre.
+
+-*who_premier_nicandre
+Mais de bien te connoistre offre moy le moyen,
+Que veux-tu ? Quel és-tu ?
+
+-*who_robin
+      Mon Dieu, je ne suis rien ;
+Je suis ce que je suis, qui que je sois je m'ayme,
+Et je ne voudrois pas ne pas estre moy-mesme,
+Je me garentis tel.
+
+-*who_premier_nicandre
+      Mais pourquoy…
+
+-*who_robin
+      Mais pourquoy…
+Puisque vous estes vous, je puis bien estre moy.
+
+-*who_premier_nicandre
+Mon valet…
 
 -*who_robin
       Je le suis.
 
--*who_lepremiernicandre
+-*who_premier_nicandre
       Ta folie est extrême.
 
 -*who_robin
-À tout autre que vous je dirais fou toi-même,
-Et je pense...
+A tout autre que vous je dirois fou toy-mesme,
+Et je pense…
 
--*who_lepremiernicandre
-      Maraud, tu veux être battu,
-Et si je n'avais hâte insolent... Où vas-tu ?
+-*who_premier_nicandre
+      Maraut⁎, tu veux estre battu,
+Et si je n'avois haste insolent… Où vas-tu ?
 
--*who_robin
-Où vous même allez-vous ? J'accompagne mon maître.
+-*who_robin 
+Où vous mesme allez-vous ? J'accompagne mon Maistre.
 
--*who_lepremiernicandre
-Je dois si je le suis te le faire paraître
-Il t'en faut une preuve impudent, la voilà.
+-*who_premier_nicandre
+Je dois si je le suis te le faire paroistre
+Il t'en faut une preuve impudent⁎, la voila.
 
-**** *book_ *id_II07 *act_II *creator_boursault
+**** *book_ *id_II07 *act_II *date_1665 *creator_boursault
 
 -*who_robin
 Il a parbleu raison, il le prouve par là.
-Le secret est joli pour se bien faire croire !
-De sa chienne de patte enfoncer ma mâchoire
+Le secret est joly pour se bien faire croire !
+De sa chienne de patte enfoncer ma machoire
 Et souffrir sans souffler qu'il me donne un soufflet,
-C'est bien être le maître, et Robin le valet.
-Quelle peste de preuve il me force de prendre !
-Ce bon frère frappart est sans doute Nicandre
+C'est bien estre le Maistre, & Robin le valet.
+Quelle peste de preuve il me force de prendre !
+Ce bon frere frappart est sans doute Nicandre
 Ce sont là de ses coups je les sens à leur poids,
-J'en reçois règlement prés de cent tous les mois
-Et de tous ses soufflets ce n'est pas là le moindre ;
-Mais où Diable à présent le pourrai-je rejoindre ?
-Sa valise restée au logis d'où je viens
-Où parmi ses habits sont aussi tous les miens
-En tout cas... Le voici la gueule enfarinée
-Le bon traître !
+J'en reçois reglement prés de cent tous les mois
+Et de tous ses soufflets ce n'est pas là le moindre ;
+Mais où Diable à present le pourray-je rejoindre ?
+Sa valize restée au logis d'où je viens
+Où parmy ses habits sont aussi tous les miens
+En tout cas… Le voicy la gueule enfarinée
+Le bon traistre !
 
-**** *book_ *id_II08 *act_II *creator_boursault
+**** *book_ *id_II08 *act_II *date_1665 *creator_boursault 
 
--*who_lesecondnicandre
-      Qu'heureuse est pour moi la journée !
-Ah Robin ! Un ami généreux, bien faisant,
-Et non pas un ami comme ceux d'à présent,
-Dont la langue est dorée, et dont l'âme est de boue ;
-Mais un ami sincère, obligeant...
+-*who_second_nicandre
+      Qu'heureuse est pour moy la journée !
+Ah Robin ! Un amy genereux, bien faisant,
+Et non pas un amy comme ceux d'à present,
+Dont la langue est dorée, & dont l'ame est de bouë ;
+Mais un ami sincere, obligeant…
 
 -*who_robin
-      Ah la joue !
+      Ah la jouë !
 
--*who_lesecondnicandre
+-*who_second_nicandre
 De me voir Clidimace a les sens tous ravis,
 Dans sa propre maison il me donne un logis,
-À tous mes intérêts tout entier il se voue,
-Et je veux ce qu'il veut, pour lui plaire.
+A tous mes interests tout entier il se vouë,
+Et je veux ce qu'il veut, pour luy plaire.
 
 -*who_robin
-Ah la joue !
+      Ah la jouë !
 
--*who_lesecondnicandre
-      Quel sujet te fait plaindre, et pourquoi le cacher ?
-C'est peut être une dent qu'il te faut arracher,
-Une dent peut suffire à gâter une bouche,
+-*who_second_nicandre
+Quel sujet te fait plaindre, & pourquoy le cacher ?
+C'est peut estre une dent qu'il te faut arracher,
+Une dent peut suffire à gaster une bouche,
 Songes-y. Mais répond sur le fait qui me touche,
-As-tu vu mon hôtesse, aura-t-elle tout prêt...
+As-tu veu mon hostesse, aura-t-elle tout prest…
 
 -*who_robin
-À cela, mon ami, je n'ai point d'interêt ;
-Où vas-tu ? D'où viens-tu ? Dis-le moi tout à l'heure.
+A cela, mon amy, je n'ay point d'interest ;
+Où vas-tu ? D'où viens-tu ? Dy-le moy tout à l'heure⁎.
 
--*who_lesecondnicandre
-Que me dit ce Coquin ? Je t'assomme ou je meure,
-Parle ; dois-je tout craindre, ou ne redouter rien ?
-
--*who_robin
-Mais de bien te connaître offre moi le moyen,
-Que veux-tu ? Quel es-tu ?
-
--*who_lesecondnicandre
-      Qui je suis, double traître ?
-Je puis facilement te le faire connaître,
-Et sans avoir besoin d'être si retenu...
+-*who_second_nicandre
+Que me dit ce Coquin ? Je t'assomme ou je meure,
+Parle ; dois-je tout craindre, ou ne redouter rien ?
 
 -*who_robin
-Ah démantibuleur je l'ai trop reconnu.
-De ne pas l'ignorer à présent je me pique,
-Et ma joue en peut être un témoin authentique.
-Faire pleine recette à deux doigts de mon nez
-D'un soufflet plantureux, et des mieux assenés,
+Mais de bien te connoistre offre moy le moyen,
+Que veux-tu ? Quel es-tu ?
+
+-*who_second_nicandre
+      Qui je suis, double traistre ?
+Je puis facilement te le faire connoistre,
+Et sans avoir besoin d'estre si retenu…
+
+-*who_robin
+Ah Démentibuleur je l'ay trop reconnu.
+De ne pas l'ignorer à present je me pique⁎,
+Et ma jouë en peut estre un témoin autentique.
+Faire pleine recepte⁎ à deux doigts de mon nez
+D'un soufflet plantureux, & des mieux assenez,
 D'un soufflet qu'une main bien plus noire que blanche
-Depuis plus de six mois mitonnait dans sa manche,
-D'un soufflet qui par terre quasi a répandu...
-Si vous ne le payez je veux être pendu.
+Depuis plus de six mois mitonnoit dans sa manche,
+D'un soufflet qui par terre quasi a repandu…
+Si vous ne le payez je veux estre pendu.
 
--*who_lesecondnicandre
-Est-ce pure gageure ? Ou bien si tu déterres...
-
--*who_robin
-C'est gageure.
-
--*who_lesecondnicandre
-      Gageure ?
+-*who_second_nicandre
+Est-ce pure gageure⁎ ? Ou bien si tu déterres…
 
 -*who_robin
-      On m'en donne des erres
-Voyez-vous ? Mon cadet... Là, là, là, là, là, là.
+C'est gageure⁎.
 
-**** *book_ *id_II09 *act_II *creator_boursault
+-*who_second_nicandre
+      Gageure⁎ ?
+
+-*who_robin
+      On m'en donne des erres 
+Voyez-vous ? Mon cadet… Là, là, là, là, là, là.
+
+**** *book_ *id_II09 *act_II *date_1665 *creator_boursault
 
 -*who_jacinte
-Il vous attend Madame, et c'est lui que voila,
+Il vous attend Madame, & c'est luy que voila,
 Avancez.
-      À vous voir je l'ai fait condescendre,
-Prés d'une heure Hipolite a voulu s'en défendre,
-Mais j'ai tant de vos feux appuyé le parti,
-J'ai tant dit que mes soins vous avaient pressenti,
-Tant de fois répété que toujours pour Ismène
-Loin d'avoir de l'amour vous auriez de la haine...
+      A vous voir je l'ay fait condescendre,
+Prés d'une heure Hipolite a voulu s'en deffendre,
+Mais j'ay tant de vos feux appuyé le party,
+J'ay tant dit que mes soins vous avoient pressenty,
+Tant de fois repeté que toûjours pour Ismene
+Loin d'avoir de l'amour vous auriez de la haine…
 
--*who_lesecondnicandre
-De la haine pour elle, ah ! Je brûle d'amour,
-Non, non...
+-*who_second_nicandre
+De la hayne pour elle, ah ! Je brûle d'amour,
+Non, non…
 
 -*who_hipolite
       De vos mépris vous voila de retour,
-Je l'ai su de Jacinte, Ismène est pourtant belle.
+Je l'ay sçeu de Jacinte, Ismene est pourtant belle.
 
--*who_lesecondnicandre
-Elle est toute charmante, et je n'adore qu'elle,
-Son aimable visage a des charmes si doux...
+-*who_second_nicandre
+Elle est toute charmante, & je n'adore qu'elle,
+Son aymable visage a des charmes si doux…
 
 -*who_jacinte
-Il se moque, Madame, il n'adore que vous
+Il se mocque, Madame, il n'adore que vous
 Il me l'a dit.
 
--*who_lesecondnicandre
-      Moi ?
+-*who_second_nicandre
+      Moy ?
 
 -*who_jacinte
       Vous.
 
--*who_lesecondnicandre
-      En parlant de ma flamme
-Loin de vous avoir dit que j'adore Madame...
+-*who_second_nicandre
+      En parlant de ma flâme
+Loin de vous avoir dit que j'adore Madame…
 
 -*who_jacinte
-Quoi, vous n'avez pas dit à moi même, en ce lieu...
+Quoy, vous n'avez pas dit à moy mesme, en ce lieu…
 
--*who_lesecondnicandre
+-*who_second_nicandre
 Rien du tout.
 
 -*who_jacinte
-      Rien ! Madame il offense bien Dieu
-Le méchant homme !
+      Rien ! Madame il offence bien Dieu
+Le mechant homme !
 
--*who_lesecondnicandre
-      Quoi...
+-*who_second_nicandre
+      Quoy…
 
 -*who_jacinte
-      Quoi, vous-même hypocrite
-Quand vous êtes venu pour lui rendre visite...
+      Quoy, vous-mesme hypocrite
+Quand vous estes venu pour luy rendre visite…
 
--*who_lesecondnicandre
-Moi visite ! Robin pourra dire au besoin...
-
--*who_robin
-Je vous sers de valet, et non pas de témoin.
-
--*who_lesecondnicandre
-Mais tu sais...
+-*who_second_nicandre
+Moy visite ! Robin pourra dire au besoin⁎…
 
 -*who_robin
-      Je ne sais si je sais quelque chose,
+Je vous sers de valet, & non pas de tesmoin.
+
+-*who_second_nicandre
+Mais tu sçais…
+
+-*who_robin
+      Je ne sçay si je sçais quelque chose,
 Mais je me tais.
 
--*who_hipolite
-      Tu vois où ton zèle m'expose
-À ton rapport sans doute il n'a pas consenti.
+-*who_hipolite 
+      Tu vois où ton zele m'expose
+A ton rapport sans doute il n'a pas consenty.
 
 -*who_jacinte
-J'ai dit vrai, je vous jure, et Nicandre a menti,
-Je n'ai pas grâce à Dieu, la mémoire débile,
-Il fallait que pour lors son valet fut en ville
-Lui seul en cette place il faisait l'idiot.
+J'ay dit vray, je vous jure, & Nicandre a menty,
+Je n'ay pas grace à Dieu, la memoire debile,
+Il faloit que pour lors son valet fut en ville
+Lui seul en cette place il faisoit l'idiot.
 
--*who_lesecondnicandre
-Quand vous m'avez parlé j'étais seul ! Réponds.
+-*who_second_nicandre
+Quand vous m'avez parlé j'estois seul ! Responds.
 
 -*who_robin
-Mot.
+      Mot.
 
--*who_lesecondnicandre
-      Où donc, lors que Jacinte a commencé sa guerre
-Étais-tu ?
+-*who_second_nicandre
+Où donc, lors que Jacinte a commencé sa guerre
+Estois-tu ?
 
 -*who_robin
       Dans le Monde.
 
--*who_lesecondnicandre
-      En quel lieu ?
+-*who_second_nicandre
+      En quel lieu ?
 
 -*who_robin
       Sur la terre.
 
--*who_lesecondnicandre
-L'endroit, c'est...
+-*who_second_nicandre
+L'endroit, c'est…
 
 -*who_robin
-      Dans la France, à Paris, que je crois.
+      Dans la France, à Paris, que je croy.
 
--*who_lesecondnicandre
-En présence...
-
--*who_robin
-      En présence ? En présence de moi.
-
--*who_lesecondnicandre
-Mais perfide Robin le dessein où tu butes...
+-*who_second_nicandre
+En presence…
 
 -*who_robin
-Il ressouvient toujours à Robin de ses flûtes.
+      En presence ? En presence de moy.
 
--*who_lesecondnicandre
-Ils s'entendent, Madame, un indice trop grand...
+-*who_second_nicandre
+Mais perfide Robin le desssein où tu buttes…
+
+-*who_robin 
+Il ressouvient⁎ tousjours à Robin de ses flutes.
+
+-*who_second_nicandre
+Ils s'entendent, Madame, un indice trop grand…        535
 
 -*who_jacinte
-Si je lui déchargeais un bon moule de gant,
-Madame, laissez-moi lui bailler sur la crête.
+Si je luy dechargeois un bon moule de gand,
+Madame, laissez-moy luy bailler⁎ sur la creste⁎.
 
 -*who_robin
-Ne prends point de conseil que celui de ta tête ;
+Ne prends point de conseil que celuy de ta teste ;
 J'en suis de moitié rosse.
 
 -*who_hipolite
       Enfin, il m'est honteux
-D'avoir pu vous apprendre où j'adresse mes voeux ;
+D'avoir pû vous apprendre où j'adresse mes vœux ;        540
 Ne vous souvenez pas qu'Hipolite vous aime,
-Oubliez...
+Oubliez…
 
--*who_lesecondnicandre
-      Vous m'aimez !
+-*who_second_nicandre
+      Vous m'aymez !
 
 -*who_hipolite
-      Je l'ai dit à vous même,
-Ingrat, et ma faiblesse est allée à ce point...
+      Je l'ay dit à vous mesme,
+Ingrat, & ma foiblesse est allée à ce point…
 
--*who_lesecondnicandre
+-*who_second_nicandre
 En vérité, Madame, il ne m'en souvient point.
-Vous m'avez, dites-vous, adorable Hipolite...
+Vous m'avez, dites-vous, adorable Hipolite…
 
 -*who_hipolite
-Une feinte si basse, et m'outrage, et m'irrite,
-Je ne suis pas Jacinte, et vous vous méprenez...
+Une feinte si basse, & m'outrage, & m'irrite,
+Je ne suis pas Jacinte, & vous vous méprenez…
 
 -*who_jacinte
-Paumez-lui moi la gueule, et lui cassez le nez,
-Faut-il tant de façons ? J'en enrage d'envie,
+Paumez-luy moy la gueule, & luy cassez le nez,
+Faut-il tant de façons ? J'en enrage d'envie,
 Son valet qui me pousse à cela me convie.
 
--*who_lesecondnicandre
-Tu la pousses, perfide, et ton coeur est si bas...
+-*who_second_nicandre 
+Tu la pousses, perfide, & ton cœur est si bas…
 
 -*who_robin
-Moi loin de la pousser je lui retiens le bras,
-Elle a menti.
+Moy loin de la pousser je luy retiens le bras,
+Elle a menty.
 
 -*who_jacinte
-      Madame, admirez l'autre traître,
-Le valet se goberge aussi bien que le maître ;
-Oses-tu ?... Voyez-vous, il fait signe des yeux...
+      Madame, admirez l'autre traistre,
+Le valet se gauberge⁎ aussi bien que le maistre ;
+Oses-tu ?... Voyez-vous, il fait signe des yeux…
 
 -*who_robin
-Vous mentez comme un Diable impudente.
+Vous mentez comme un Diable impudente⁎.
 
 -*who_jacinte
-      Moi ?
+      Moy ?
 
 -*who_robin
-      Deux ;
-C'est le compte tout rond, et ma joue aplatie...
-Ah maîtresse coureuse, ou du moins apprentie...
+      Deux ;
+C'est le compte tout rond, & ma jouë applattie…
+Ah Maistresse coureuse, ou du moins apprentie…
 
 -*who_jacinte
-Quoi bélître...
+Quoy belistre⁎…
 
--*who_lesecondnicandre
+-*who_second_nicandre
       La belle, il faut moins s'émouvoir
-Votre sexe, et Madame ont ici tout pouvoir,
-Essayez ma petite à vous rendre plus sage :
+Votre sexe, & Madame ont icy tout pouvoir,
+Essayez ma petite à vous rendre plus sage :
 Pour vous, c'est à regret que ma voix vous outrage,
-D'avoir pu vous choquer j'ai beaucoup de douleur,
-Et de peur qu'il n'arrive un semblable malheur
+D'avoir pû vous choquer j'ay beaucoup de douleur,
+Et de peur qu'il n'arrive un semblable mal-heur
 Je sors.
 
 -*who_robin
       Je sors aussi, mais avant que je sorte
-À ton peste de bras qui n'a pas la main morte
-Je souhaite la gale, et qui mine ton corps ;
-À tes pieds tout crochus je souhaite des cors ;
-À ta jambe une ulcère ; à ta cuisse une goutte ;
-Que de toi désormais tout chacun se dégoûte ;
-Je souhaite à ton ventre une canine faim,
-Et que pas un mortel ne te donne du pain ;
-Loin d'avoir des appas, et des charmes qui brillent,
-Je souhaite à ton sein des tétons qui brandillent ;
-À ton bas de visage un menton fort pointu ;
-À tes dents une brèche à passer tout vêtu ;
-A ton nez la roupie ; aux yeux cire, au front crasse ;
-Et que de tes cheveux dont tu tires ta grâce
-On fasse des licous au bourreau de Paris
-Pour pendre les laquais qui sont au Paradis.
-Peste de cagne.
+A ton peste de bras qui n'a pas la main morte
+Je souhaite la galle, & qui mine ton corps ;
+A tes pieds tout crochus je souhaite des cors ;
+A ta jambe une ulcere ; à ta cuisse une goutte ;
+Que de toy desormais tout chacun se dégouste ;
+Je souhaite à ton ventre une canine faim,    
+Et que pas un mortel ne te donne du pain ;
+Loin d'avoir des appas⁎, & des charmes qui brillent,
+Je souhaite à ton sein des tetons qui brandillent ;
+A ton bas de visage un menton fort pointu ;
+A tes dents une bresche à passer tout vestu ;
+A ton nez la roupie ; aux yeux cire, au front crasse ;
+Et que de tes cheveux dont tu tires ta grace
+On fasse des licous⁎ au Bourreau de Paris
+Pour pendre les lacquais qui sont au Paradis.
+Peste de Cagne⁎.
 
-**** *book_ *id_II10 *act_II *creator_boursault
+**** *book_ *id_II10 *act_II *date_1665 *creator_boursault
 
 -*who_hipolite
-      Hé bien ?
+      Hé bien ?
 
 -*who_jacinte
       Sans perdre une parole
-Dépêchez vitement de jouer votre rôle.
-Au secours, à la force, embrassez l'intérêt...
-Tout va le mieux du monde, Isidore paraît,
-Isidore !
+Depeschez vistement de joüer vostre rolle.
+Au secours, à la force, embrassez l'interest…
+Tout va le mieux du monde, Isidore paraist,
+Isidore !
 
-**** *book_ *id_II11 *act_II *creator_boursault
+**** *book_ *id_II11 *act_II *date_1665 *creator_boursault 
 
 -*who_isidore
-      Il s'exhibe où le cri prend son être
-Qu'est-ce ?
+      Il s'exhibe où le cry prend son estre
+Qu'est-ce ?
 
 -*who_hipolite
-      Comme un éclair il vient de disparaître ;
-Il faut qu'assurément il vous ait entendu.
+      Comme un éclair il vient de disparaistre ;
+Il faut qu'asseurément il vous ait entendu.
 
 -*who_isidore
-Éclaircis ta matière à mon individu ;
-À ma mémoire active à comprendre la chose
+Eclaircis ta matiere à mon individu ;
+A ma memoire active à comprendre la chose
 De sa voix attractive incorpore la cause,
-Articule tes mots, et divulgue le fait ;
-Puis après de la cause on descend à l'effet.
-Déduits ta malencontre en manière succincte.
+Articule tes mots, & divulgue le fait ;
+Puis apres de la cause on descend à l'effet.
+Deduits ta malencontre⁎ en maniere succinte.
 
 -*who_hipolite
-Il est venu... Monsieur, demandez à Jacinte.
+Il est venu… Monsieur, demandez à Jacinte.
 
 -*who_isidore
-Oculaire témoin du malheur qu'elle tait,
-Toi, qui peut à son père inculquer son secret,
-De le développer j'interpelle ton âme.
+Oculaire témoin du mal-heur qu'elle tait,
+Toy, qui peut à son pere inculquer son secret,
+De le développer j'interpelle ton ame.
 
 -*who_jacinte
-Il est venu... Monsieur, demandez à Madame.
+Il est venu… Monsieur, demandez à Madame.
 
 -*who_hipolite
-J'appréhende si fort de vous voir indigné
-Qu'enfin...
+J'apprehende si fort de vous voir indigné
+Qu'en fin…
 
 -*who_isidore
-      Ma géniture, aurais-tu forligné ?
+      Ma geniture, aurois-tu forligné ?
 
 -*who_hipolite
-Ah !
+Ah !
 
 -*who_jacinte
-      Ah !
+      Ah !
 
 -*who_isidore
-      Dieux des savants, l'une et l'autre soupire !
-D'où dérive...
+      Dieux des sçavans, l'une & l'autre soûpire !
+D'où dérive…
 
 -*who_hipolite
-      Autre part je saurai vous tout dire,
-Et puisqu'un prompt remède est ici de saison
-Vous forcerez le traître à m'en faire raison.
+      Autre part je sçauray vous tout dire,
+Et puisqu'un prompt remede est icy de saison⁎
+Vous forcerez le traistre à m'en faire raison.
 
-**** *book_ *id_III01 *act_III *creator_boursault
+**** *book_ *id_III01 *act_III *date_1665 *creator_boursault
 
 -*who_ismene
-Enfin de mon mal-heur vous avez connaissance,
-Je vous ai de ma honte assez fait confidence,
-Je vous ai découvert de quel sexe je suis,
-Et le nom et l'ingrat qu'à présent je poursuis :
+Enfin de mon mal-heur vous avez connoissance,
+Je vous ay de ma honte assez fait confidence,
+Je vous ay découvert de quel sexe je suis,
+Et le nom & l'ingrat qu'à present je poursuis :
 Mais tout ingrat qu'il est, comme il a du courage
-Il peut vous outrager, et je crains qu'on l'outrage ;
+Il peut vous outrager, & je crains qu'on l'outrage ;
 Car enfin, à la haine il a beau m'animer,
-Mon naturel usage est l'usage d'aimer :
-En m'ôtant son amour, il retient ma tendresse ;
+Mon naturel usage est l'usage d'aymer :
+En m'ostant son amour, il retient ma tendresse ;
 Ainsi pour s'en saisir il faut user d'adresse,
-Puis que de tous côtés je redoute les coups,
-Soit qu'ils viennent de lui, soit qu'ils viennent de vous.
+Puis que de tous costez je redoute les coups,
+Soit qu'ils viennent de luy, soit qu'ils viennent de vous.
 
 -*who_commissaire
-Vous craignez vainement qu'il se puisse défendre,
+Vous craignez vainement qu'il se puisse deffendre,
 Jusques dans son logis on le peut aller prendre,
-Et quinze ou seize archers aux captures forts prompts...
+Et quinze ou seize Archers aux captures forts prompts…
 
--*who_ismene
-Ah ! De grâce, à Nicandre épargnons ces affronts,
-L'ingrat m'est toujours cher, tout cruel qu'il puisse être ;
-Et quoi qu'il soit éteint, son amour peut renaître :
-Ucoutez le biais que je crois le plus doux,
-Je lui fais un appel, et je prends rendez-vous ;
-Je m'en dis offensé, sans lui dire autre chose ;
-Je lui mande qu'au Cours il en saura la cause ;
-Que je suis gentilhomme aussi noble que lui ;
-Et qu'au lieu que je marque il peut même aujourd'hui...
+-*who_ismene 
+Ah ! De grace, à Nicandre espargnons ces affronts,
+L'ingrat m'est tousjours cher, tout cruel qu'il puisse estre ;
+Et quoy qu'il soit éteint, son amour peut renaistre :
+Escoutez le biais que je croy le plus doux,
+Je luy fais un appel, & je prends rendez-vous ;
+Je m'en dis offencé, sans luy dire autre chose ;
+Je luy mande qu'au Cours il en sçaura la cause ;
+Que je suis Gentil-homme aussi noble que luy ;
+Et qu'au lieu que je marque il peut mesme aujourd'huy…
 
 -*who_commissaire
-Et sur votre parole il aura l'assurance...
+Et sur vostre parole il aura l'asseurance…
 
 -*who_ismene
-Il a tant de courage et si peu de prudence,
+Il a tant de courage & si peu de prudence,
 Qu'à sa seule valeur osant trop se fier
-Dans le Cours de la Reine il sera le premier.
-Là, vous et vos archers ayez soin de vous rendre,
-Et sous un faux-semblant de vouloir nous défendre,
-Nous ayant désarmés par votre autorité,
+Dans le Cours de la Reyne il sera le premier.
+Là, vous & vos Archers ayez soin de vous rendre,
+Et sous un faux-semblant de vouloir nous deffendre,
+Nous ayant desarmez par vostre autorité,
 Vous pourrez le saisir avec facilité.
-Cette voie est plus douce, et me semble plus sûre.
+Cette voye est plus douce, & me semble plus seure.
 
 -*who_commissaire
 Mais enfin d'une femme il verra l'écriture,
-Et d'un coeur amoureux prévenant le dessein...
+Et d'un cœur amoureux prevenant le dessein…
 
 -*who_ismene
-Vous croyez mon cartel fabriqué de ma main ?
-Une main empruntée a pris soin de l'écrire ;
+Vous croyez mon cartel⁎ fabriqué de ma main ?
+Une main empruntée a pris soin de l'écrire ;
 Et pour en peu de mots achever de tout dire,
-Un valet que j'ai pris aux degrés du Palais
-Mieux vêtu mille fois que mille autres valets
-Servira ma colère, et fera mon message ;
-Vous de votre côté commencez vstre ouvrage,
-Amassez tous vos gens, et selon mon espoir
-Faites-les rendre au Cours à six heures du soir :
-Voila ce que de vous j'ai voulu me promettre,
-Et tandis qu'au Courrier mon valet va remettre...
-Il revient, il me cherche, allez tout dépêcher,
+Un valet que j'ay pris aux degrez⁎ du Palais
+Mieux vestu mille fois que mille autres valets
+Servira ma colere, & fera mon message ;
+Vous de vostre costé commencez vostre ouvrage,
+Amassez tous vos gens, & selon mon espoir
+Faites-les rendre au Cours à six heures du soir :
+Voila ce que de vous j'ay voulu me promettre,
+Et tandis qu'au Courrier mon valet va remettre…
+Il revient, il me cherche, allez tout dépescher,
 Adieu.
 
-**** *book_ *id_III02 *act_III *creator_boursault
+**** *book_ *id_III02 *act_III *date_1665 *creator_boursault
 
 -*who_ragotin
       N'est-ce pas vous que je viens rechercher
-Dites-moi ?
+Dites-moy ?
 
 -*who_ismene
-      C'est moi-même ; As-tu beaucoup de zèle ?
-Car je ne doute point que tu ne sois fidèle,
-Et de ta part enfin je crains peu d'accidents.
+      C'est moy-mesme ; As-tu beaucoup de zele ?
+Car je ne doute point que tu ne sois fidele,
+Et de ta part enfin je crains peu d'accidens.
 
 -*who_ragotin
-N'ai-je pas dans Paris cinq ou six Répondants
-Pour me cautionner s'ils me sont nécessaires ?
-J'ai trois laquais, un page, et deux clercs de notaires,
-Diable je suis connu par d'honnêtes Messieurs !
-J'ai l'honneur, qui plus est, d'être aimé de plusieurs,
+N'ay-je pas dans Paris cinq ou six Respondans
+Pour me cautionner s'ils me sont necessaires ?
+J'ay trois Lacquais, un Page, & deux Clercs de Nottaires,
+Diable je suis connu par d'honnestes Messieurs !
+J'ay l'honneur, qui plus est, d'estre aimé de plusieurs,
 Et je conte cela mon plus bel avantage.
 
 -*who_ismene
-Il est grand, mais écoute, as-tu bien du courage ?
+Il est grand, mais escoute, as-tu bien du courage ?
 
 -*who_ragotin
-Du courage ! J'en crève... En mon juste courroux...
-Produisez quelques-uns qui me tâtent le poux,
-Est-ce brave ? Soldat ? Mousquetaire ?
+Du courage ! J'en créve… En mon juste courroux…
+Produisez⁎ quelques-uns qui me tastent le poux,
+Est-ce Brave ? Soldat ? Mousquetaire ?
 
 -*who_ismene
-Moi-même.
+      Moy-mesme.
 
 -*who_ragotin
-      Vous, Monsieur ?
+Vous, Monsieur ?
 
 -*who_ismene
-      Moi ?
+      Moy ?
 
 -*who_ragotin
-      Pour vous mon respect est extrême,
-Je suis votre valet.
+      Pour vous mon respect est extreme,
+Je suis vostre valet.
 
 -*who_ismene
-      Mais enfin...
+      Mais enfin…
 
 -*who_ragotin
-      Mon Dieu, mais
-C'est un point chatouilleux que l'honneur d'un laquais,
-Je suis plein de courage, et n'en fus jamais vide,
-Mais j'aurais du regret de faire un maîtricide :
-Vous ne l'ignorez pas les honnêtes chrétiens...
+      Mon Dieu, Mais
+C'est un poinct chatoüilleux que l'honneur d'un Lacquais,
+Je suis plein de courage, & n'en fus jamais vuide,
+Mais j'aurois du regret de faire un Maitricide :
+Vous ne l'ignorez pas les honnestes Chrestiens…
 
 -*who_ismene
 Tu conçois à rebours le discours que je tiens,
-J'ai querelle.
+J'ay querelle.
 
 -*who_ragotin
-      Querelle ! Est-il vrai ?
+      Querelle ! Est-il vray ?
 
 -*who_ismene
-      J'ai querelle
-Et je veux éprouver à quel point va ton zèle :
-Pour porter un cartel de toi seul j'ai fait choix.
+      J'ay querelle
+Et je veux éprouver à quel poinct va ton zele :
+Pour porter un Cartel⁎ de toy seul j'ay fait choix.
 
 -*who_ragotin
-Donnez-vous bien souvent de semblables emplois ?
+Donnez-vous bien souvent de semblables emplois ?
 
 -*who_ismene
-Selon.
+Selon⁎.
 
 -*who_ragotin
-      Dites-moi donc sans donner de bricole
-Si c'est que je me loue, ou bien si je m'enrôle ?
+      Dites-moy donc sans donner de bricole⁎
+Si c'est que je me louë, ou bien si je m'enrolle ?
 
 -*who_ismene
-As-tu peur ?
+As-tu peur ?
 
 -*who_ragotin
-      Moi ? Non, mais...
+      Moy ? Non, mais…
 
 -*who_ismene
       Mais point tant de façon,
 Si tu sens de la peur tu peux le dire.
 
 -*who_ragotin
-      Et... non,
-Mais...
+      Et… non,
+Mais…
 
 -*who_ismene
-      Voila le cartel, prends le soin de le rendre,
-Tu liras le dessus, il s'adresse à Nicandre.
+      Voila le Cartel⁎, prends le soin de le rendre,
+Tu liras le dessus, il s'addresse à Nicandre.
 
 -*who_ragotin
-À Nicandre ?
+A Nicandre ?
 
 -*who_ismene
-      À Nicandre, il demeure ici près ;
-À ce nom tu frémis que je crois ?
+      A Nicandre, il demeure icy prés ;
+A ce nom tu fremis que je crois ?
 
 -*who_ragotin
-      Moi ? Non, mais...
+      Moy ? Non, mais…
 
 -*who_ismene
-S'il demande le nom de celui qui t'envoie,
-Il pourra le savoir, puis qu'il faut qu'il me voie ;
-Je vais dans mon logis, rue aux Ours, au Dauphin,
-De ce jour ennuyeux attendre le déclin,
+S'il demande le nom de celuy qui t'envoye,
+Il pourra le sçavoir, puis qu'il faut qu'il me voye ;
+Je vais dans mon logis, ruë aux Ours, au Dauphin,
+De ce jour ennuyeux⁎ attendre le declin,
 Cela fait dans ce lieu tu viendras me reprendre,
 Adieu.
 
-**** *book_ *id_III03 *act_III *creator_boursault
+**** *book_ *id_III03 *act_III *date_1665 *creator_boursault
 
 -*who_ragotin
-      Je vais porter un cartel à Nicandre !
-À lui qui me veut battre, et qui fait le madré,
-Ah Nicandre, ma foi tu seras Nicandré !
+      Je vais porter un Cartel⁎ à Nicandre !
+A luy qui me veut battre, et qui fait le mâdré,
+Ah Nicandre, ma foy tu seras Nicandré !
 Tu t'en vas étrenner mon épée. Il avance,
-Mais il ne songe pas à ceci que je pense ;
-Dieu sait si le cartel le va rendre éperdu !
+Mais il ne songe pas à cecy que je pense ;
+Dieu sçait si le Cartel⁎ le va rendre esperdu !
 
-**** *book_ *id_III04 *act_III *creator_boursault
+**** *book_ *id_III04 *act_III *date_1665 *creator_boursault 
 
--*who_lepremiernicandre
-Jacinte assurément m'aura trop attendu ;
-Il m'a trop retenu cet ami, j'en detéste.
-Où pourrai-je à présent la trouver ? Ah, ah.
-
--*who_ragotin
-Zeste.
-
--*who_lepremiernicandre
-      Tu reviens à belle heure, et tu penses qu'au cas...
+-*who_premier_nicandre
+Jacinte asseurément m'aura trop astendu ;
+Il m'a trop retenu cét Amy, j'en deteste.
+Où pourray-je à present la trouver ? Ah, ah.
 
 -*who_ragotin
-Oui, je pense, pourquoi ne penserais-je pas ?
+      Zeste⁎.
+
+-*who_premier_nicandre
+Tu reviens à belle heure, & tu penses qu'au cas…
+
+-*who_ragotin
+Ouy, je pense, pourquoy ne penserois-je pas ?
 Je veux penser.
 
--*who_lepremiernicandre
-      Coquin, je puis t'être funeste,
-Et si tu fais le fou tu ne doutes pas...
+-*who_premier_nicandre
+      Coquin, je puis t'estre funeste,
+Et si tu fais le fou tu ne doutes pas…
 
 -*who_ragotin
-      Zeste.
+      Zeste⁎.
 
--*who_lepremiernicandre
-Où crois-tu que tu sois, dis maroufle.
-
--*who_ragotin
-      Pourquoi ?
-J'ai mon droit comme vous sur le pavé du Roi,
-De quoi vous mêlez-vous ? Qu'est-ce donc ? J'y veux être.
-
--*who_lepremiernicandre
-Mais à qui donc es-tu ?
+-*who_premier_nicandre
+Où crois-tu que tu sois, dy marouffle⁎.
 
 -*who_ragotin
-      Moi je suis à mon maître,
-Avec autre que vous on se trouve un peu mieux ;
-Tenez quasi défunt, jetez ici les yeux,
-Puis après au Seigneur recommandez votre âme.
+      Pourquoy ?
+J'ay mon droict comme vous sur le pavé du Roy,
+Dequoy vous meslez-vous ? Qu'est-ce donc ? J'y veux estre.
 
--*who_lepremiernicandre
-Cet infâme...
+-*who_premier_nicandre 
+Mais à qui donc és-tu ?
 
 -*who_ragotin
-      Tantôt vous aurez de l'infâme ;
-Vous m'avez querellé, vous avez fait le fat,
-Vous en mourrez, beau Sire, et mourrez intestat,
+      Moy je suis à mon Maistre,
+Avec autre que vous on se trouve un peu mieux ;
+Tenez quasi defunt, jettez icy les yeux,
+Puis apres au Seigneur recommandez vostre ame.
+
+-*who_premier_nicandre
+Cét Infame…
+
+-*who_ragotin
+      Tantost vous aurez de l'infame ;
+Vous m'avez querellé, vous avez fait le fat⁎,
+Vous en mourrez, beau Sire, & mourrez intestat,
 Lisez.
 
--*who_lepremiernicandre
+-*who_premier_nicandre
       Sans que je me nomme,
-Nicandre vous saurez que je suis Gentilhomme,
-Qui l'épée à la main ai dessein de vous voir,
-Du sujet que j'en ai j'ose tout me promettre :
-C'est au Cours de la Reine à six heures du soir ;
-Et j'aurai le second qui vous rend cette Lettre.
-Tu ne me sers donc plus, Ragotin ?
+Nicandre vous sçaurez que je suis Gentil-homme,
+Qui l'espée à la main ay dessein de vous voir,
+Du sujet que j'en ay j'ose tout me promettre :
+C'est au Cours de la Reyne à six heures du soir ;
+Et j'auray le Second qui vous rend cette Lettre.
+Tu ne me sers donc plus, Ragotin ?
 
 -*who_ragotin
-      Non ma foi.
+      Non ma foy.
 
--*who_lepremiernicandre
-Je n'en murmure point, cela dépend de toi,
-Tu te rends le second de celui qui m'appelle ?
-Tu le dois, c'est ton maître, et j'admire ton zèle ;
-Voyons si ta valeur à ton zèle répond.
+-*who_premier_nicandre
+Je n'en murmure point, cela dépend de toy,
+Tu te rends le Second de celuy qui m'appelle ?
+Tu le dois, c'est ton Maistre, & j'admire ton zele ;
+Voyons si ta valeur à ton zele respond.
 
--*who_ragotin
-Que ne suis-je premier aussi bien que second !
-Voyez-vous de courroux comme le nez me fronce ?
+-*who_ragotin 
+Que ne suis-je Premier aussi bien que Second !
+Voyez-vous de courroux comme le nez me fronce ?
 
--*who_lepremiernicandre
-Quoi tu crains...
-
--*who_ragotin
-      Écoutez je vais vous rendre réponse ;
-Si vous vouliez m'attendre un moment dans ce lieu ?
-
--*who_lepremiernicandre
-Je le veux...
+-*who_premier_nicandre
+Quoy tu crains…
 
 -*who_ragotin
-      Mettez là votre main. Sans adieu,
+      Escoutez je vais vous rendre response ;
+Si vous vouliez m'attendre un moment dans ce lieu ?
+
+-*who_premier_nicandre
+Je le veux…
+
+-*who_ragotin
+      Mettez là vostre main. Sans Adieu,
 C'est assez, si j'y viens que le Diable m'emporte.
 
-**** *book_ *id_III05 *act_III *creator_boursault
+**** *book_ *id_III05 *act_III *date_1665 *creator_boursault
 
--*who_lepremiernicandre
-Ciel vous m'êtes propice, et l'on ouvre la porte ;
-Le bonheur de vous voir va donc m'tre accordé
-Hipolite, Jacinte, ai-je point trop tardé ?
-Si vous pouviez savoir quel plaisir vous me faites,
-Je jure...
+-*who_premier_nicandre
+Ciel vous m'estes propice, & l'on ouvre la porte ;
+Le bon-heur de vous voir va donc m'estre accordé
+Hipolite, Jacinte, ay-je point trop tardé ?
+Si vous pouviez sçavoir quel plaisir vous me faites,
+Je jure…
 
-**** *book_ *id_III06 *act_III *creator_boursault
-
--*who_jacinte
-      Allez vous-en au peautre, à qui vous êtes.
-
--*who_lepremiernicandre
-Quoi Jacinte me laisse, et dans cet embarras...
+**** *book_ *id_III06 *act_III *date_1665 *creator_boursault 
 
 -*who_jacinte
-Allez vous-en au Diable, et ne me touchez pas
+      Allez vous-en au peautre⁎, à qui vous estes.
+
+-*who_premier_nicandre
+Quoy Jacinte me laisse, & dans cét embarras…
+
+-*who_jacinte
+Allez vous-en au Diable, & ne me touchez pas
 Vous dis-je.
 
--*who_lepremiernicandre
-      Mais Jacinte, il me semble...
+-*who_premier_nicandre
+      Mais Jacinte, il me semble…
 
 -*who_jacinte
       Il me semble
 Qu'on ne vaut pas la peste alors qu'on vous ressemble,
-Qu'être lâche, perfide, hypocrite, emballeur,
-Méchant comme la grêle, insolent suborneur,
-Qu'avoir l'âme du Diable à tous coups possédée,
-C'est de votre peinture une légère idée ;
+Qu'estre lasche, perfide, hipocrite, emballeur⁎,
+Meschant comme la gresle, insolent suborneur⁎,
+Qu'avoir l'ame du Diable à tous coups possedée,
+C'est de vostre peinture une legere idée ;
 Il me semble cela.
 
--*who_lepremiernicandre
-      Mais au moins...
+-*who_premier_nicandre
+      Mais au moins…
 
 -*who_jacinte
-      Au moins mais...
+      Au moins mais…
 
--*who_lepremiernicandre
-Mais vous m'avez promis...
+-*who_premier_nicandre
+Mais vous m'avez promis…
 
--*who_jacinte
+-*who_jacinte 
       Mais je vous dépromets.
-Et de plus laissez-moi, j'ai des mains, je dévore.
+Et de plus laissez-moy, j'ay des mains, je devore.
 
-**** *book_ *id_III07 *act_III *creator_boursault
+**** *book_ *id_III07 *act_III *date_1665 *creator_boursault
 
 -*who_eutrope
-Est-ce pas prés d'ici que demeure Isidore ?
+Est-ce pas prés d'icy que demeure Isidore ?
 
 -*who_jacinte
-Oui, le voulez-vous voir ?
+Ouy, le voulez-vous voir ?
 
 -*who_eutrope
-      Ah ! Je le voudrais bien.
+      Ah ! Je le voudrois bien.
 
 -*who_jacinte
 Attendez.
 
--*who_lepremiernicandre
-      Vous pouvez par le même moyen...
-À tout ce procédé, je ne puis rien comprendre,
-Jacinte...
+-*who_premier_nicandre
+      Vous pouvez par le mesme moyen…
+A tout ce procedé, je ne puis rien comprendre,
+Jacinte…
 
 -*who_eutrope
       Ou je m'abuse, ou je vois le Nicandre,
-Je le vois, c'est lui même. À la fin je te tiens,
+Je le vois, c'est luy mesme. A la fin je te tiens,
 C'est en vain que tes bras sont plus forts que les miens.
-Qu'as-tu fait de ma fille ?
+Qu'as-tu fait de ma fille ?
 
 -*who_jacinte
-      Isidore ! Allons vite.
-Tenez ferme, tenez ; car il faut qu'on le gifle.
-Isidore !
+      Isidore ! Allons viste. 
+Tenez ferme, tenez ; car il faut qu'on le gifle.
+Isidore !
 
--*who_lepremiernicandre
-      Monsieur lâchez-moi de ce pas,
-Ou du moins...
+-*who_premier_nicandre
+      Monsieur laschez-moy de ce pas,
+Ou du moins…
 
 -*who_jacinte
-      Tenez ferme, et ne le lâchez pas ;
-Son filou de caquet m'a su rendre éblouie.
+      Tenez ferme, & ne le laschez pas ;
+Son filou⁎ de cacquet m'a sceu rendre ébloüye.
 
-**** *book_ *id_III08 *act_III *creator_boursault
+**** *book_ *id_III08 *act_III *date_1665 *creator_boursault
 
 -*who_isidore
-Une voix transcendante a percé mon ouïe.
-Apprêtez-vous...
+Une voix transcendante a percé mon oüye.
+Apprettez-vous…
 
 -*who_jacinte
-      Monsieur, venez vite au secours,
-Vénérable vieillard, tenez ferme toujours,
+      Monsieur, venez viste au secours,
+Venerable vieillard, tenez ferme toûjours,
 D'une fille de bien, de famille assez grande
 Ayant pris tout l'honneur, il faut qu'il me le rende
-Ou qu'il crève.
+Ou qu'il créve.
 
 -*who_eutrope
-      De rage, il m'en voit tout en feu
-Le déloyal, le traître !
+      De rage, il m'en void tout en feu
+Le déloyal, le traistre !
 
--*who_lepremiernicandre
-      Est-ce conte ? Est-ce jeu ?
-Quoi Jacinte elle même aura donc de la joie...
+-*who_premier_nicandre
+      Est-ce conte ? Est-ce jeu ?
+Quoy Jacinte elle mesme aura donc de la joye…
 
 -*who_jacinte
-Venez vite, Monsieur, vous saisir de la proie,
+Venez viste, Monsieur, vous saisir de la proye,
 C'est Nicandre.
 
 -*who_eutrope
-      Lui-même.
+      Luy-mesme.
 
--*who_lepremiernicandre
-      Il est vrai, mais confus...
+-*who_premier_nicandre
+      Il est vray, mais confus…
 
 -*who_isidore
-Rendons-en grâce, et Ios à Jupin de la sus.
-Ô malin Tereus de qui l'âme trop noire
-D'une Philomella contamines la gloire ;
-Toi qui dans le vrai centre où l'on prend les plaisirs,
-Veux immatriculer tes coupables désirs ;
+Rendons-en grace, & los à Jupin de la sus.
+O malin Tereus de qui l'ame trop noire
+D'une Philomella contamines la gloire ;
+Toy qui dans le vray centre où l'on prend les plaisirs,
+Veux immatriculer tes coupables desirs ;
 Un saut patibulaire est le prix que j'annexe
-Aux torrides souhaits dont l'outrage me vexe ;
-Et par un sort tragique âprement avancé
+Aux torrides souhaits dont l'outrage me vexe ;
+Et par un sort tragique asprement⁎ avancé
 Du terrestre climat tu seras expulsé.
 
 -*who_jacinte
 Prenez l'occasion qu'un bon Ange vous offre,
-Tandis qu'il est ici permettez qu'on le coffre,
-Je m'en vais au plus vite amener le Coffreur.
+Tandis qu'il est icy permettez qu'on le coffre,
+Je m'en vais au plus viste amener le Coffreur.
 
--*who_lepremiernicandre
-Quoi, de l'un et de l'autre éprouver la fureur !
-D'un courroux si bizarre apprenez-moi la cause ;
-Soit à vous, soit à vous, ai-je fait quelque chose ?
-De qui m'ose arrêter que je sache le nom,
-Est-ce vous ? Est-ce vous ?
+-*who_premier_nicandre
+Quoy, de l'un & de l'autre éprouver la fureur !
+D'un couroux si bizarre apprenez-moy la cause ;
+Soit à vous, soit à vous, ay-je fait quelque chose ?
+De qui m'ose arrester que je sçache le nom,
+Est-ce vous ? Est-ce vous ?
 
 -*who_eutrope
-      C'est moi-même.
+      C'est moy-mesme.
 
 -*who_isidore
       Ego sum.
-Une fille effleurée est un grand vitupère.
+Une fille effleurée est un grand vitupere.
 
 -*who_eutrope
-Et cela de bien prés touche un malheureux père.
+Et cela de bien prés touche un mal-heureux pere
 Isidore.
 
 -*who_isidore
-      Isidore ! Hé vous me connaissez ?
+      Isidore ! Hé vous me cognoissez ?
 
 -*who_eutrope
-Je ne vous ai point vu depuis dix ans passez,
-Un tel temps a rendu ma mémoire affaiblie,
-Cependant de vos traits elle est toute remplie ;
-Eutrope aime Isidore, et le Ciel a permis...
+Je ne vous ay point veu depuis dix ans passez,
+Un tel temps a rendu ma memoire affoiblie,
+Cependant de vos traits elle est toute remplie ;
+Eutrope ayme Isidore, & le Ciel a permis…
 
 -*who_isidore
-Eutrope ! Ah parangon des fidèles amis !
-Charissime Collègue incapable de noises,
-Relégué par le sort aux rives Lyonnaises,
-Si vous êtes fertile en tendresses pour moi,
-Étreignez Isidore, et plaignez son émoi :
-C'est Eutrope !
+Eutrope ! Ah parangon des fidelles amis !
+Charissime Collegue incapable de noises⁎,
+Relegué par le sort aux rives Lyonnoises,
+Si vous estes fertille en tendresses pour moy,
+Etreignez Isidore, & pleignez son esmoy :
+C'est Eutrope !
 
 -*who_eutrope
       Vous voir est ce que je souhaite,
-Mais ma joie Isidore est pourtant imparfaite,
-Une fille abusée...
+Mais ma joye Isidore est pourtant imparfaite,
+Une fille abusée…
 
 -*who_isidore
-      Ah !
+      Ah !
 
 -*who_eutrope
-      Ah !
+      Ah !
 
--*who_isidore
-      Ah !
+-*who_isidore 
+      Ah !
 
 -*who_eutrope
-      Ah !
+      Ah !
 
--*who_lepremiernicandre
+-*who_premier_nicandre
       Destin
-Je suis débarrassé de leurs mains à la fin ;
-Mais le faible malheur que celui que j'évite
-Si le triste Nicandre est haï d'Hipolite ;
+Je suis débarassé de leurs mains à la fin ;
+Mais le foible mal-heur que celuy que j'évite
+Si le triste Nicandre est haï d'Hipolite ;
 Elle est seule chez elle, allons-y de ce pas.
 
-**** *book_ *id_III09 *act_III *creator_boursault
+**** *book_ *id_III09 *act_III *date_1665 *creator_boursault
 
 -*who_robin
-Ah ! Que déménager est un rude tracas !
+Ah ! Que démenager est un rude tracas !
 Peste soit la valise, elle est diablement lourde,
-Haie ! Au meurtre ! Ah l'échine !
+Haye ! Au meurtre ! Ah l'échine !
 
 -*who_eutrope
-      Ah maudite balourde !
+      Ah maudite balourde !
 
--*who_isidore
-J'ai les muscles froissés, et le corps mutilé.
+-*who_isidore 
+J'ay les muscles froissez, & le corps mutilé.
 
--*who_lesecondnicandre
-Ce coquin... Dieux Eutrope ! Il paraît désolé :
-Quoi le père d'Ismene est dedans cette ville !
-À la première porte attrapons un asile,
+-*who_second_nicandre
+Ce coquin… Dieux Eutrope ! Il paroist désolé :
+Quoy le pere d'Ismene est dedans cette ville !
+A la premiere porte attrapons un azile,
 Fuyons.
 
-**** *book_ *id_III10 *act_III *creator_boursault
+**** *book_ *id_III10 *act_III *date_1665 *creator_boursault
 
 -*who_eutrope
-      Est-ce pour rire, ou du moins es-tu fou ?
+      Est-ce pour rire, ou du moins es-tu fou ?
 
 -*who_robin
-Oui vraiment c'est pour rire ; on se casse le cou
-Pour rire. C'est Eutrope, il faudra qu'on achève...
-Monsieur ! Je crois ma foi que le Diable l'enlève,
-Ho, Nicandre ! Il fait gille, et je suis retenu ;
-Dites-moi, s'il vous plaît ce qu'il est devenu
-Messieurs ?
+Ouy vrayment c'est pour rire ; on se casse le cou
+Pour rire. C'est Eutrope, il faudra qu'on acheve…
+Monsieur ! Je crois ma foy que le Diable l'enleve,
+Ho, Nicandre ! Il fait gille, & je suis retenu ;
+Dites-moy, s'il vous plaist ce qu'il est devenu
+Messieurs ?
 
 -*who_eutrope
-      Le voyez-vous le malicieux traître ?
-Il nous a fait tomber pour faire fuir son maître :
-Quoi perfide Robin, oses-tu nous choquer ?
+      Le voyez-vous le malicieux traistre ?
+Il nous a fait tomber pour faire fuir son Maistre :
+Quoy perfide Robin, oses-tu nous choquer ?
 
 -*who_isidore
-Dans la prison prochaine il le faut colloquer,
-Et que touchant son maître une réminiscence...
+Dans la prison prochaine il le faut colloquer⁎,
+Et que touchant son Maistre une reminiscence⁎…
 
 -*who_robin
-Moi, Messieurs, en prison ? Vous raillez que je pense.
+Moy, Messieurs, en prison ? Vous raillez⁎ que je pense.
+
+-*who_eutrope 
+Dy l'endroit qui le cache, ou du moins nous le rend.
+
+-*who_robin
+Si le Diable l'emporte, en puis-je estre garand
+Messieurs ?
 
 -*who_eutrope
-Dis l'endroit qui le cache, ou du moins nous le rend.
+      Laisse la feinte & paroist plus sincere,
+Le mal-heur d'une fille émeut l'ame d'un pere ;
+Peut-etre est-elle grosse, & je sçay le moyen…
 
 -*who_robin
-Si le Diable l'emporte, en puis-je être garant
-Messieurs ?
-
--*who_eutrope
-      Laisse la feinte et paraît plus sincère,
-Le malheur d'une fille émeut l'âme d'un père ;
-Peut-être est-elle grosse, et je sais le moyen...
-
--*who_robin
-Ma foi grosse ou menue il n'y va rien du mien.
+Ma foy grosse ou menuë il n'y va rien du mien.
 De ce qu'à cette fille on peut dire les causes,
-Et ne pas se méprendre en faisant choix des choses :
-Si dedans un cachot je me voyais caché
-Je ferais pénitence, et je n'ai pas péché ;
-De quoi que mon étoile aujourd'hui me menace
-Ou souffrez que je pèche, ou qu'un autre le fasse ;
-Je ferais à regret pénitence gratis.
+Et ne pas se méprendre en faisant choix des choses :
+Si dedans un cachot je me voyois caché
+Je ferois penitence, & je n'ay pas peché ;
+De quoy que mon Estoille aujourd'huy me menace
+Ou souffrez que je peche, ou qu'un autre le fasse ;
+Je ferois à regret penitence gratis.
 
 -*who_isidore
-Empêchons que nos voeux ne soient pas mi-partis,
-Themis veut qu'on le tolle, et s'il ratiocine...
+Empéchons que nos vœux ne soient pas mi-partis,
+Themis veut qu'on le tolle, & s'il raciocine…
 
 -*who_robin
-En son chien de patois qu'est-ce qu'il baragouine ?
-Ma mort est résolue, il le dit en Hébreu.
-À condamner Robin différez tant soit peu
+En son chien de patois qu'est-ce qu'il baragouïne⁎ ?
+Ma mort est resolüe, il le dit en Hebreu.
+A condamner Robin differez tant soit peu
 Et qu'un jour à venir le bon Dieu vous le rende
 Charitables Messieurs qui voulez qu'on me pende,
-Et qui tous acharnés sur un pauvre garçon...
-Mais que voici des gens de méchante façon ;
-Ah ! Combien les bourreaux ont de valets de Chambre !
+Et qui tous acharnez sur un pauvre garçon…
+Mais que voicy des gens de méchante façon ;
+Ah ! Combien les Bourreaux ont de Valets de Chambre !
 
-**** *book_ *id_III11 *act_III *creator_boursault
-
--*who_sergent
-Messieurs, de la Justice ayant l'heur d'être membre...
-
--*who_robin
-Membre, vous ?
+**** *book_ *id_III11 *act_III *date_1665 *creator_boursault 
 
 -*who_sergent
-      Oui-dà, Membre ; et je dirai de plus...
+Messieurs, de la Justice ayant l'heur⁎ d'estre Membre…
 
 -*who_robin
-Diable, que la justice a les membres dodus !
+Membre, vous ?
+
+-*who_sergent
+      Ouyda, Membre ; & je diray de plus…
+
+-*who_robin
+Diable, que la justice a les Membres dodus !
 
 -*who_jacinte
-On dirait qu'à vos voeux toutes choses répondent,
-Ces Messieurs tous ensemble attendaient d'autre monde,
-Et Nicandre... Le traître où s'est-il retiré ?
+On diroit qu'à vos vœux toutes choses répondent,
+Ces Messieurs tous ensemble attendoient d'autre monde,
+Et Nicandre… Le traistre où s'est-il retiré ?
 
 -*who_isidore
-Imperceptiblement il s'est évaporé ;
-Mais voila qui le pleige, il faut qu'on l'appréhende ;
-Que dedans une Chartres après on le descende ;
-Et son procès en suite étant fait, et parfait
-Qu'il serve d'holocauste à mon sang putrefect.
+Imperceptiblement il s'est évaporé ;
+Mais voila qui le pleige, il faut qu'on l'apprehende ;
+Que dedans une Chartre⁎ apres on le descende ;
+Et son procez en suite estant fait, & parfait
+Qu'il serve d'holocauste⁎ à mon sang putrefect.
 
 -*who_eutrope
-Votre sang, dites-vous ? C'est le mien qu'on outrage.
+Vôtre sang, dites-vous ? C'est le mien qu'on outrage.
 
--*who_isidore
+-*who_isidore 
 C'est le mien.
 
 -*who_eutrope
       C'est le mien.
 
 -*who_robin
-      J'ai le dos bon, courage.
-Votre fille à ce compte a perdu son honneur ?
+      J'ay le dos bon, courage.
+Vostre fille à ce compte a perdu son honneur ?
 
 -*who_eutrope
-Oui perfide.
+Ouy perfide.
 
 -*who_robin
-      La vôtre a le même malheur ?
+      La vostre a le mesme mal-heur ?
 
 -*who_isidore
-Oui, pécore.
+Ouy, pecore⁎.
 
 -*who_robin
-      Et le tien ?
+      Et le tien ?
 
 -*who_jacinte
-      Moi ? Je l'ai.
+      Moy ? Je l'ay.
 
 -*who_robin
-      Chose vraie ?
-Car si tu ne l'as plus il faut bien que je l'aie ;
-Crois-moi tâtes-y, tâte, et ne déguise rien,
-Tu peux parmi le leur faire passer le tien ;
+      Chose vraye ?
+Car si tu ne l'as plus il faut bien que je l'aye ;
+Croy-moy tastes-y, taste, et ne déguise rien,
+Tu peux parmy le leur faire passer le tien ;
 Cependant que d'honneur tout le monde me charge,
-Signe au bas de la feuille, et te mets à la marge.
-Ton honneur, si tu l'as...
+Signe au bas de la feuille, & te mets à la marge.
+Ton honneur, si tu l'as…
 
 -*who_jacinte
-      Si ? Comment si fripon ?
-Moi, si j'ai mon honneur ? Si je l'ai ?
+      Si ? Comment si fripon ?
+Moy, si j'ay mon honneur ? Si je l'ay ?
 
 -*who_robin
-      Que sait-on ?
-On te voit du grand monde imiter la méthode,
-Tu veux comme ce monde enchérir sur la mode,
-Ce qu'il fait tu le fais, et pour cette raison
-Le Si, dont je te parle est assez de saison.
-Si donc...
+      Que sçait-on ?
+On te void du grand monde imiter la metode,
+Tu veux comme ce monde encherir sur la mode,
+Ce qu'il fait tu le fais, & pour cette raison
+Le Si, dont je te parle est assez de saison⁎.
+Si donc…
 
 -*who_jacinte
-      Quoi, vous souffrez que ce perfide cause ?
+      Quoy, vous souffrez que ce perfide cause ?
 
 -*who_sergent
-Si de mon ministère il vous plaît quelque chose,
-Messieurs...
+Si de mon ministere il vous plaist quelque chose,
+Messieurs…
 
 -*who_eutrope
-      C'est ce pendard qu'il faut prendre.
+      C'est ce pendart qu'il faut prendre.
 
 -*who_robin
-      Qui ?
+      Qui ?
 
 -*who_jacinte
-      Toi.
+      Toy.
 
 -*who_isidore
 Accipez.
@@ -2288,671 +2294,671 @@ Accipez.
       Prenez.
 
 -*who_sergent
-      De par le Roi...
+      De par le Roy…
 
 -*who_robin
-Vrais suppôts de Satan, effroyable couvée...
-Peste comme le Membre a la tête levée !
-Il me va mener pendre, il n'est rien si constant ;
+Vrais Suppots de Satan, effroyable couvée…
+Peste comme le Membre a la teste levée !
+Il me va mener pendre, il n'est rien si constant ;
 Membre qui démembrez ne me tirez pas tant.
-Vous petits membrillons dont je crains la présence,
-Vous, qui du Maître-Membre accroissez la puissance,
-Happes-chairs de mon âme, ah ne permettez point
+Vous petits Membrillons dont je crains la presence,
+Vous, qui du Maistre-Membre accroissez la puissance,
+Hapes-Chairs de mon ame, ah ne permettez point
 Que de pierre de taille on me fasse un pourpoint.
-Je suis valet de bien, et c'est pure malice.
+Je suis valet de bien, & c'est pure malice.        885
 
 -*who_eutrope
-D'un méchant ravisseur c'est l'infâme complice,
-Et l'honneur d'une fille a rendu désolé...
+D'un méchant ravisseur c'est l'infame complice,
+Et l'honneur d'une fille a rendu desolé…
 
 -*who_robin
-Eh Monsieur qu'on me fouille on verra si je l'ai.
-L'honneur est nécessaire en de bonnes familles,
-Et j'en voudrais avoir pour donner à vos filles.
+Eh Monsieur qu'on me fouille on verra si je l'ay.
+L'honneur est necessaire en de bonnes familles,
+Et j'en voudrois avoir pour donner à vos filles.
 Si pour prendre le mien dans ce lieu l'on m'a pris
-Messieurs...
+Messieurs…
 
 -*who_isidore
       Vous le tenez in manibus vestris,
-Suffecit ; Domine vous saurez m'en répondre,
-Dans un sombre manoir vous devez le profondre,
-Puis quand dans la prison vous l'aurez intégré,
-L'hôtel de Nicandre vous sera démontré.
+Suffecit ; Domine vous sçaurez m'en respondre,
+Dans un sombre manoir⁎ vous devez le profondre,
+Puis quand dans la prison vous l'aurez integré,
+L'hostel de Nicandre vous sera démonstré.
 Sur tout vers sa demeure ayez soin qu'on se muce,
-Employez à sa prise et la fourbe, et l'astuce,
+Employez à sa prise & la fourbe, & l'astuce,
 L'amiable Hyacinte ira guider vos pas.
 Vous Eutrope in domum venez prendre un repas,
 Et lors qu'à vos douleurs vous aurez donné trêve
-Vous me clarifierez le sujet qui vous grève.
+Vous me clariffirez le sujet qui vous gréve.
 Venez.
 
 -*who_eutrope
       Vous le voulez, j'accomplis vos souhaits,
-Débonnaires Messieurs vous serez satisfaits ;
-Mais au traître Robin daignez joindre Nicandre.
+Debonnaires Messieurs vous serez satisfaits ;
+Mais au traistre Robin daignez joindre Nicandre.
 
-**** *book_ *id_III12 *act_III *creator_boursault
+**** *book_ *id_III12 *act_III *date_1665 *creator_boursault 
 
 -*who_robin
 Membre, nous sommes seuls, on ne peut nous entendre,
-Dites-moi, puis-je pas un moment vous parler ?
+Dites-moy, puis-je pas un moment vous parler ?
 
 -*who_sergent
-Tu le peux un moment, que veux-tu ?
+Tu le peux un moment, que veux-tu ?
 
 -*who_robin
       M'en aller,
-Ô cher Membre.
+O cher Membre.
 
 -*who_sergent
-      Il raisonne, on dirait qu'il méprise...
+      Il raisonne, on diroit qu'il méprise…
 
 -*who_robin
 Menez donc à ma suite en prison la valise
-Ô Gigot de Justice, et traînez avec moi
-Mon malheureux paquet dans la Maison du Roi.
+O Gigot de Justice, & traisnez avec moy
+Mon mal-heureux pacquet dans la Maison du Roy.
 
-**** *book_ *id_IV01 *act_IV *creator_boursault
+**** *book_ *id_IV01 *act_IV *date_1665 *creator_boursault
 
 -*who_hipolite
-D'une indigne faiblesse à ma gloire mortelle
-Tu viens de recevoir une preuve nouvelle ;
-Je cherchais à te perdre, et tu m'as su toucher,
-Je voulais qu'on te prit, et j'ai su te cacher :
-Je sais qu'il est honteux que mon sexe soupire,
-Mais tel est de l'amour l'inévitable empire ;
-Et le feu qu'en son âme une fille ressent
-Pour être plus contraint n'en est pas moins puissant.
-C'est en vain que d'un coeur où l'amour a pris place
-La pudeur en tumulte autorise l'audace ;
-N'aimer rien que d'aimable est un faible si doux...
+D'une indigne foiblesse à ma gloire mortelle
+Tu viens de recevoir une preuve nouvelle ;
+Je cherchois à te perdre, & tu m'as sceu toucher,
+Je voulois qu'on te prit, & j'ay sceu te cacher :
+Je sçay qu'il est honteux que mon sexe soupire,
+Mais tel est de l'amour l'inévitable empire ;
+Et le feu qu'en son ame une fille ressent
+Pour estre plus contraint n'en est pas moins puissant.
+C'est en vain que d'un cœur où l'amour a pris place
+La pudeur en tumulte autorise l'audace ;
+N'aymer rien que d'aymable est un foible si doux…
 
--*who_lepremiernicandre
-Ah que ce faible est beau quand on brûle pour vous !
-Ma flamme impétueuse est pour vous trop fidèle
-Pour convaincre d'erreur une bouche si belle :
+-*who_premier_nicandre
+Ah que ce foible est beau quand on brusle pour vous !
+Ma flâme impetueuse est pour vous trop fidelle
+Pour convaincre d'erreur une bouche si belle :
 Pourtant quelques respects dont je sois combattu
-Ce que vous nommez faible est toute ma vertu.
-Il est doux d'être aimé, c'est avoir de la gloire ;
-Mais s'il est doux de l'être, il est doux de le croire ;
-Vous avez tant d'appas, je mérite si peu,
-Qu'un équitable doute accompagne mon feu :
+Ce que vous nommez foible est toute ma vertu.
+Il est doux d'estre aymé, c'est avoir de la gloire ;
+Mais s'il est doux de l'estre, il est doux de le croire ;
+Vous avez tant d'appas⁎, je merite si peu,
+Qu'un équitable doute accompagne mon feu :
 Je dois à l'apparence un amour qui m'honore,
-En voyant mes défauts m'aimerez-vous encore ?
-Consultez-vous, Madame, et sans précipiter...
+En voyant mes deffauts m'aymerez-vous encore ?
+Consultez-vous, Madame, & sans precipiter…
 
 -*who_hipolite
-Toi-même, ingrat, toi-même ose te consulter.
-Avoue ingénument que tu ne peux sans peine
-Pour aimer Hipolite abandonner Ismène ;
-Et que de mes bontés l'injurieux excès
-De ta première flamme empêche le succès.
+Toy-meme, ingrat, toy-meme ose te consulter.
+Avouë ingenument que tu ne peux sans peine
+Pour aymer Hipolite abandonner Ismene ;
+Et que de mes bontez l'injurieux excez
+De ta premiere flâme empesche le succez⁎.
 Afin que ton destin à mon destin s'attache
-J'ai su faire moi-même à moi-même une tâche ;
-On me croit abusée, on te croit suborneur,
+J'ay sçeu faire moy-meme à moy-meme une tâche ;
+On me croit abusée, on te croit suborneur⁎,
 Et l'on doit te contraindre à me rendre l'honneur.
-Je te l'ai déjà dit, et ton âme est instruite...
+Je te l'ay déjà dit, & ton ame est instruite…
 
--*who_lepremiernicandre
-Je l'avais oublié généreuse Hipolite,
-Mais il m'en ressouvient, et d'un coeur amoureux
-L'obligeante imposture a rempli tous mes voeux.
-De mon amour aussi daignez être certaine,
-Je soupire pour vous, et non pas pour Ismène,
-De vos seules beautés je connais le pouvoir,
-Vos yeux seuls...
+-*who_premier_nicandre
+Je l'avois oublié genereuse Hipolite,
+Mais il m'en ressouvient⁎, & d'un cœur amoureux
+L'obligeante imposture a remply tous mes vœux.
+De mon amour aussi daignez estre certaine,
+Je soûpire pour vous, & non pas pour Ismene,
+De vos seules beautez je connois le pouvoir,
+Vos yeux seuls…
 
 -*who_hipolite
-      S'il est vrai, tu le peux faire voir,
-On me croit abusée, et l'honneur te convie...
+      S'il est vray, tu le peux faire voir,
+On me croit abusee, & l'honneur te convie…
 
--*who_lepremiernicandre
-Je vous entends, Madame, et j'en brûle d'envie,
-Je dois à votre feinte accorder mon aveu ;
+-*who_premier_nicandre
+Je vous entends, Madame, & j'en brusle d'envie,
+Je dois à vostre feinte accorder mon aveu ;
 Mais l'endroit est mal propre à parler de mon feu.
 Vous m'aimez, je vous aime, il me suffit, Madame,
-Apaisez votre père en faveur de ma flamme,
-Dés demain je m'apprête au bonheur de le voir
-Pourrez-vous l'apaisez ?
+Appaisez vostre pere en faveur de ma flâme,
+Dés demain je m'appreste au bon-heur de le voir
+Pourrez-vous l'appaisez ?
 
 -*who_hipolite
-      J'y ferai mon pouvoir,
+      J'y feray mon pouvoir,
 Adieu.
 
--*who_lepremiernicandre
-      Donc à ma flamme il n'est rien de contraire...
+-*who_premier_nicandre
+      Donc à ma flâme il n'est rien de contraire…
 
 -*who_hipolite
-Si je fais mon pouvoir je pourrai beaucoup faire,
-J'oubliais de le dire, adieu.
+Si je fais mon pouvoir je pourray beaucoup faire,
+J'oubliois de le dire, Adieu,
 
--*who_lepremiernicandre
-      Mais... Elle sort.
+-*who_premier_nicandre
+      Mais… Elle sort.
 Ne sois plus un obstacle aux douceurs de mon sort
-Mon frère, et souffre au moins qu'une flamme si belle...
-Mais au Cours de la Reine enfin l'heure m'appelle :
-Je n'ai point de Second, mais du moins j'ai du coeur,
-Et de plus mon épée est de bonne longueur.
-Il est vrai qu'assez faible est le bras qui seconde...
+Mon frere, & souffre au moins qu'une flâme si belle…
+Mais au Cours de la Reyne enfin l'heure m'apelle :
+Je n'ay point de Second, mais du moins j'ay du cœur,
+Et de plus mon espée est de bonne longueur.
+Il est vray qu'assez foible est le bras qui seconde…
 
-**** *book_ *id_IV02 *act_IV *creator_boursault
-
--*who_robin
-Ah mon bon Dieu ! Pourtant je ne vois point de monde.
-Ces maudits houspilleurs comme ils m'ont fait driller.
-Autre chasse-coquin qui m'entend babiller ;
-Il me lorgne. Ah c'est vous, ô Messire Nicandre,
-Bonjour.
-
--*who_lepremiernicandre
-      Dis promptement ce que tu veux m'apprendre,
-Je ne puis faire ici qu'un moment de séjour,
-Si tu veux me parler parle vite.
+**** *book_ *id_IV02 *act_IV *date_1665 *creator_boursault 
 
 -*who_robin
-      Bonjour.
-Des mains de la Justice est-ce ainsi qu'on s'arrache ?
-Eh que si le bonhomme eût trouvé votre cache !
+Ah mon bon Dieu ! Pourtant je ne vois point de monde.
+Ces maudits Houspilleurs comme ils m'ont fait driller⁎.
+Autre Chasse-Coquin qui m'entend babiller ;
+Il me lorgne⁎. Ah c'est vous, ô Messire Nicandre,
+Bon jour.
 
--*who_lepremiernicandre
-Si je me cache ou non que t'importe ?
+-*who_premier_nicandre
+      Dy promptement ce que tu veux m'aprendre,
+Je ne puis faire icy qu'un moment de sejour,
+Si tu veux me parler parle viste.
+
+-*who_robin
+      Bon jour.
+Des mains de la Justice est-ce ainsi qu'on s'arrache ?
+Eh que si le bon homme eût trouvé vostre cache !
+
+-*who_premier_nicandre
+Si je me cache ou non que t'importe ?
 
 -*who_robin
       Si fait
 Il m'importe.
 
--*who_lepremiernicandre
-      Il t'importe ! As-tu quelque sujet
-Maraud...
+-*who_premier_nicandre
+      Il t'importe ! As-tu quelque sujet
+Maraut⁎…
 
 -*who_robin
-      Faudra-t-il point que je vous rende grâce
-De ce qu'au lieu de vous en prison on m'enchasse ?
+      Faudra-t-il point que je vous rende grace
+De ce qu'au lieu de vous en prison on m'enchasse ?
 
--*who_lepremiernicandre
-On t'a mis en prison !
+-*who_premier_nicandre
+On t'a mis en prison !
 
 -*who_robin
       Et bien mis, qui plus est,
 Les bourreaux.
 
--*who_lepremiernicandre
-      C'est, dis-tu, pour mon seul intérêt ?
+-*who_premier_nicandre
+      C'est, dis-tu, pour mon seul interest ?
 
 -*who_robin
-Nenni, c'est pour le mien ; je suborne des filles ;
-Et je suis en amour grand abatteur de quilles.
+Nenny⁎, c'est pour le mien ; je suborne⁎ des filles ;
+Et je suis en amour grand abateur de quilles.
 
--*who_lepremiernicandre
-Ne veux-tu me donner que de sottes raisons ?
+-*who_premier_nicandre
+Ne veux-tu me donner que de sottes raisons ?
 
 -*who_robin
-Ne vous souvient-il pas des deux chiens de grisons
-Votre futur beau-père, et son cher maigre-échine ?
+Ne vous souvient-il pas des deux chiens de grisons⁎
+Vôtre futur beau-pere, & son cher meigre-échine ?
 
--*who_lepremiernicandre
+-*who_premier_nicandre
 Hé bien.
 
 -*who_robin
-      Tudieu, Monsieur, la méchante vermine !
-À peine de leur vue étiez-vous échappé
-Qu'un gros peste de Membre aussitôt m'a grippé ;
-L'un et l'autre grison ne savait où se prendre ;
+      Tu Dieu, Monsieur, la méchante vermine !
+A peine de leur veuë estiez-vous échapé
+Qu'un gros peste de Membre aussi-tost m'a gripé ;
+L'un & l'autre grison⁎ ne sçavoit où se prendre ;
 Moi n'ayant point d'honneur que je pusse leur rendre
-Au redoutable son d'un seul, De par le Roi
-Cinq ou six pousse-culs se sont jetez sur moi,
-Et par tant de côtés m'ont fait coure si vite
-Qu'à la fin, grâce aux Dieux ils m'ont mis dans le gîte.
-On nous croit de concert, et l'on s'est fourvoyé.
+Au redoutable son d'un seul, De par le Roy
+Cinq ou six Poussecus⁎ se sont jettez sur moy,
+Et par tant de costez m'ont fait coure si viste
+Qu'à la fin, grace aux Dieux ils m'ont mis dans le giste.
+On nous croit de concert⁎, & l'on s'est fourvoyé.
 
--*who_lepremiernicandre
-Voyant ton innocence on t'a donc renvoyé ?
-On s'est donc aperçu de cette erreur extrême ?
+-*who_premier_nicandre
+Voyant ton innocence on t'a donc renvoyé ?
+On s'est donc apperçeu de cette erreur extréme ?
 
 -*who_robin
-Je m'en suis, par ma foi, revenu de moi-même.
-Considérez le tour que je viens de jouer ;
-Mes archers occupés à me faire écrouer
-Avaient mis à la porte un niais à merveille ;
-Moi trouvant sur un banc cette chère bouteille
-D'une joie effrontée étouffant mon chagrin
-Je lui suis allé dire, Où vend-on de bon vin ?
-J'ai céans des amis que je veux faire boire.
-À la belle épousée, ou bien à la Croix noire,
-Me répond bonnement mon niais d'apprenti ;
-Aussitôt porte ouverte, aussitôt moi sorti,
-Puis plus vite qu'un Basque enfilant la venelle
+Je m'en suis, par ma foy, revenu de moy-mesme.
+Considerez le tour que je viens de jouër ;
+Mes Archers occupez à me faire écrouër
+Avoient mis à la porte un niais à merveille ;
+Moy trouvant sur un banc cette chere bouteille
+D'une joye effrontée étouffant mon chagrin
+Je luy suis allé dire, Où vend-on de bon vin ?
+J'ay ceans⁎ des Amis que je veux faire boire.
+A la belle Espousée, ou bien à la Croix noire,
+Me répond bonnement mon niais d'apprenty ;
+Aussi-tost porte ouverte, aussi-tost moy sorty,
+Puis plus viste qu'un Basque enfilant la venelle
 Passant d'une ruelle en une autre ruelle,
-J'ai tant fait qu'à la fin j'ai trouvé le moyen...
-Mais, ô Monsieur, Monsieur... Ne bougez, ce n'est rien.
-Votre bourreau d'amour à cent craintes m'expose.
+J'ay tant fait qu'à la fin j'ay trouvé le moyen…
+Mais, ô Monsieur, Monsieur… Ne bougez, ce n'est rien.
+Vostre bourreau d'amour à cent craintes m'expose.
 
--*who_lepremiernicandre
-De ton dernier malheur je suis la seule cause,
-Mais n'appréhende plus de t'y voir exposé,
-Ma maîtresse est contente, et son père apaisé.
-On m'attend de ce pas dans le Cours de la Reine,
-Je veux à mon retour reconnaître ta peine ;
-Je reviens dans une heure, attend-moi dans ce lieu.
+-*who_premier_nicandre
+De ton dernier mal-heur je suis la seule cause,
+Mais n'apprehende plus de t'y voir exposé,
+Ma Maistresse est contente, & son pere appaisé.
+On m'attend de ce pas dans le Cours de la Reyne,
+Je veux à mon retour reconnoistre ta peine ;
+Je reviens dans une heure, attend-moy dans ce lieu.
 
--*who_robin
-Mais tout est apaisé ?
+-*who_robin 
+Mais tout est appaisé ?
 
--*who_lepremiernicandre
+-*who_premier_nicandre
       Je te le jure, Adieu,
-Désormais de sergents ne crains nulle surprise.
+Desormais de Sergens ne crains nulle surprise.
 
-**** *book_ *id_IV03 *act_IV *creator_boursault
+**** *book_ *id_IV03 *act_IV *date_1665 *creator_boursault
 
 -*who_robin
 Il n'a pas dit le mot concernant sa valise,
-Elle est pourtant restée, et puissai-je mourir
-Si jamais j'ai dessein de l'aller requérir.
+Elle est pourtant restée, & puissay-je mourir
+Si jamais j'ay dessein de l'aller requerir.
 Quelque fou.
 
-**** *book_ *id_IV04 *act_IV *creator_boursault
+**** *book_ *id_IV04 *act_IV *date_1665 *creator_boursault
 
 -*who_robin
-      Te voici cauteleuse pucelle,
-(Ou du moins s'il n'est vrai, fille soi-disant telle ;
-Car d'oser en jurer j'aurais peu de raison.)
-Te voici.
+      Te voicy cauteleuse pucelle,
+(Ou du moins s'il n'est vray, fille soy-disant telle ;
+Car d'oser en jurer j'aurois peu de raison.)
+Te voicy.
 
 -*who_jacinte
-      Le perfide, il est hors de prison !
+      Le perfide, il est hors de prison !
+
+-*who_robin 
+Te voicy donc, te dis-je & te voicy toy seule ;
+Ta carogne de main m'a baillé⁎ sur la gueule,
+Tu le sçais, la pucelle ?
+
+-*who_jacinte
+      Et bien ouy, je le sçay.
 
 -*who_robin
-Te voici donc, te dis-je et te voici toi seule ;
-Ta carogne de main m'a baillé sur la gueule,
-Tu le sais, la pucelle ?
+Et sçais-tu bien aussi que j'en suis offencé
+La pucelle ?
 
 -*who_jacinte
-      Et bien oui, je le sais.
+      Moy ? Non.
 
 -*who_robin
-Et sais-tu bien aussi que j'en suis offensé
-La pucelle ?
+      Mais dy-moy, la pucelle…
 
 -*who_jacinte
-      Moi ? Non.
-
--*who_robin
-      Mais dis-moi, la pucelle...
-
--*who_jacinte
-Mais toi-même, dis-moi si tu cherches querelle ?
-Tu me nommes pucelle, et prétends te moquer
-Je le vois ; mais apprend si tu m'oses choquer
-Que je suis de colère à toute heure pourvue,
-Et que si je m'y mets je te saute à la vue ;
-Sache qu'en ma furie acharnée à ta peau
-J'en saurai de chaque ongle arracher un lambeau :
-Et si plus en raillant tu me nommes pucelle
+Mais toy-mesme, dy-moy si tu cherches querelle ?
+Tu me nommes pucelle, & pretends te moquer
+Je le voy ; mais apprend si tu m'oses choquer
+Que je suis de colere à toute heure pourveuë,
+Et que si je m'y mets je te saute à la veuë ;
+Sçache qu'en ma furie acharnée à ta peau
+J'en sçauray de chaque ongle arracher un lambeau :
+Et si plus en raillant⁎ tu me nommes pucelle
 Pour te mieux faire voir qu'en effet je suis telle,
-Sache que mon courroux qu'on ne peut égaler...
+Sçache que mon courroux qu'on ne peut égaler…
 
 -*who_robin
-Ah tout beau ! Je suis prêt de te dépuceler !
+Ah tout beau ! Je suis prest de te depuceler !
 Si ce n'est que cela n'ayons point de querelle,
-Qui peut empuceler aisément dépucelle ;
-Et si tu sens de l'être une démangeaison...
+Qui peut empuceler aisément dépucelle ;
+Et si tu sens de l'estre une demangeaison…
 
-**** *book_ *id_IV05 *act_IV *creator_boursault
+**** *book_ *id_IV05 *act_IV *date_1665 *creator_boursault 
 
--*who_lesecondnicandre
-À la fin je te quitte, ô propice maison.
-Eutrope en me voyant m'aurait fait de la peine,
-Mais enfin...
+-*who_second_nicandre
+A la fin je te quitte, ô propice maison.
+Eutrope en me voyant m'auroit fait de la peine,
+Mais enfin…
 
 -*who_jacinte
       Je vous cherche, ô l'esclave d'Ismene.
 
--*who_lesecondnicandre
-Dieux ! Jacinte me cherche ! Aurait-on prévenu...
+-*who_second_nicandre
+Dieux ! Jacinte me cherche ! Auroit-on prevenu…
 
 -*who_robin
-Que du Cours de la Reine il est tôt revenu !
-Diable !
+Que du Cours de la Reyne il est tost revenu !
+Diable !
 
--*who_lesecondnicandre
-      Que voulez-vous, la belle ?
+-*who_second_nicandre
+      Que voulez-vous, la belle ?
 
 -*who_robin
       Pour la belle
-Baste ; mais gardez bien de l'appeler pucelle,
-Vous lui feriez tort.
+Baste ; mais gardez bien de l'appeller pucelle,
+Vous luy feriez tort.
 
--*who_lesecondnicandre
-      Traître... Enfin dites-moi donc...
-
--*who_jacinte
-Vous me paierez ma peine, et paierez tout du long ;
-Celle qui vous aimait est si fort en colère
-Que de vous faire prendre elle a prié son père.
-
--*who_lesecondnicandre
-Me croit-elle volage ? Elle dont le pouvoir...
+-*who_second_nicandre
+      Traistre… Enfin dites-moy donc…
 
 -*who_jacinte
-Mon Dieu, ce qu'on vous croit vous pourrez le savoir,
-Et si tantôt son père avait eu la puissance...
+Vous me paîrez ma peine, & paîrez tout du long ;
+Celle qui vous aymoit est si fort en colere
+Que de vous faire prendre elle a prié son pere.
 
--*who_lesecondnicandre
-J'ai pris soin, il est vrai, d'éviter sa présence ;
-Mais il n'étoit pas seul, et je n'ai pas osé...
+-*who_second_nicandre 
+Me croit-elle volage ? Elle dont le pouvoir…
+
+-*who_jacinte
+Mon Dieu, ce qu'on vous croit vous pourrez le sçavoir,
+Et si tantost son pere avoit eu la puissance…
+
+-*who_second_nicandre
+J'ay pris soin, il est vray, d'éviter sa presence ;
+Mais il n'estoit pas seul, & je n'ay pas osé…
 
 -*who_robin
-La maîtresse est contente, et le père apaisé.
-Ah ! Le menteur.
+La Maitresse est contente, & le pere appaisé.
+Ah ! Le menteur.
 
--*who_lesecondnicandre
+-*who_second_nicandre
       Ta langue un peu trop s'émancipe.
 
 -*who_robin
-Si le membre repasse, et que l'on me regripe ?
+Si le Membre repasse, & que l'on me regripe ?
 
--*who_lesecondnicandre
-L'insolence d'un traître ira donc jusqu'au point...
-
--*who_robin
-C'est de l'honneur qu'on cherche, et vous n'en avez point.
-
--*who_lesecondnicandre
-Tu mens traître, j'en ai, mais si tu n'appréhendes...
+-*who_second_nicandre
+L'insolence d'un traistre ira donc jusqu'au point…
 
 -*who_robin
-En aurez-vous assez pour deux filles friandes ?
+C'est de l'honneur qu'on cherche, & vous n'en avez point.
+
+-*who_second_nicandre
+Tu ments traistre, j'en ay, mais si tu n'appréhendes…
+
+-*who_robin
+En aurez-vous assez pour deux filles friandes ?
 Si de les contenter vous n'avez le moyen
-Ayant pris votre honneur elles prendront le mien.
-Elle même est d'honneur tellement amoureuse
-Que vous n'en aurez pas pour sa seule dent creuse ;
-Ainsi quoi que l'on fasse en un tel embarras
+Ayant pris vostre honneur elles prendront le mien.
+Elle mesme est d'honneur tellement amoureuse
+Que vous n'en aurez pas pour sa seule dent creuse ;
+Ainsi quoy que l'on fasse en un tel embarras
 Deux honneurs si petits ne leur suffiront pas.
 Pensez-y bien.
 
--*who_lesecondnicandre
-      Perfide, ainsi donc ton audace...
-Mais laissez moi, Jacinte, et daignez...
+-*who_second_nicandre
+      Perfide, ainsi donc ton audace…
+Mais laissez moy, Jacinte, & daignez…
 
 -*who_jacinte
-      Point de grâce.
-Celle qui vous aimait a le seul intérêt...
-Mais pour votre malheur la voila qui parait.
+      Point de grace.
+Celle qui vous aymoit a le seul interest…
+Mais pour vostre mal-heur la voila qui parait.
 
-**** *book_ *id_IV06 *act_IV *creator_boursault
+**** *book_ *id_IV06 *act_IV *date_1665 *creator_boursault
 
 -*who_jacinte
-Venez vite, Madame, autrement il m'échappe,
-Il faut faire si bien que Mendoce l'attrape ;
-Je le viens de quitter qu'il attend le retour...
+Venez viste, Madame, autrement il m'échape,
+Il faut faire si bien que Mendoce l'attrape ;
+Je le viens de quitter qu'il attend le retour…
 
 -*who_hipolite
-Ce qu'il avait dans l'âme il l'a su mettre au jour.
+Ce qu'il avoit dans l'ame il l'a sceu mettre au jour.
 Je ne suis plus, Jacinte, Hipolite irritée,
-Je donne ma tendresse à qui l'a méritée,
-Et de peur que mon père entendit vos discours
-Je suis venue en hâte embrasser son secours.
-Qui l'outrage m'outrage, et mon âme et la sienne...
+Je donne ma tendresse à qui l'a meritée,
+Et de peur que mon pere entendit vos discours
+Je suis venuë en haste embrasser son secours.
+Qui l'outrage m'outrage, & mon ame & la sienne…
 
--*who_robin
-Je veux t'aimer aussi bonne peste de chienne.
-
--*who_jacinte
-Toi m'aimer ? Tu veux donc oublier le soufflet...
-
--*who_robin
-Je mets tout sous les pieds, et je suis ton valet.
+-*who_robin 
+Je veux t'aymer aussi bonne peste de Chienne.
 
 -*who_jacinte
-Quoi, tu pourrais...
+Toy m'aymer ? Tu veux donc oublier le soufflet…
+
+-*who_robin
+Je mets tout sous les pieds, & je suis ton valet.
+
+-*who_jacinte
+Quoy, tu pourrois…
 
 -*who_robin
       Mon Dieu, je ne cours pas grand risque,
-Si je suis ton mari je reprendrai ma bisque,
-Et dessus ton visage appliquant tous mes doigts
-Pour un soufflet reçu je t'en donnerai trois.
+Si je suis ton mary je reprendray ma bisque,
+Et dessus ton visage appliquant tous mes doits
+Pour un soufflet receu je t'en donneray trois.
 
--*who_lesecondnicandre
-Quelles grâces, Madame, ai-je droit de vous rendre ?
-Hipolite elle même a voulu me défendre !
-Que ferai-je pour vous qui réponde jamais...
-
--*who_hipolite
-Vous savez le moyen de remplir mes souhaits.
-C'est cela qu'il faut faire, et j'attends de Nicandre...
-
--*who_lesecondnicandre
-Robin, que me dit-elle ? Et que viens-je d'entendre ?
-Moi, je sais le moyen de remplir ses souhaits !
-
--*who_robin
-Si vous le savez ?
-
--*who_lesecondnicandre
-      Moi, je le sais ?
-
--*who_robin
-      À peu prés.
-
--*who_lesecondnicandre
-Que ferai-je ? Pour faire une chose qui plaise...
-
--*who_robin
-Et que fait-on ? Pour faire une fille bien aise,
-Idiot ?
-
--*who_lesecondnicandre
-      Vous servir m'est un bien précieux,
-Mais daignez vous résoudre à vous expliquer mieux ;
-Je vous veux obéir, j'y mets toute ma gloire,
-Mais...
+-*who_second_nicandre
+Quelles graces, Madame, ay-je droit de vous rendre ?
+Hipolite elle mesme a voulu me deffendre !
+Que feray-je pour vous qui réponde jamais…
 
 -*who_hipolite
-      Vous avez, Nicandre, une faible mémoire,
+Vous sçavez le moyen de remplir mes souhaits.
+C'est cela qu'il faut faire, & j'attends de Nicandre…
+
+-*who_second_nicandre
+Robin, que me dit-elle ? & que viens-je d'entendre ?
+Moy, je sçais le moyen de remplir ses souhaits !
+
+-*who_robin
+Si vous le sçavez ?
+
+-*who_second_nicandre
+      Moy, je le sçais ?
+
+-*who_robin
+      A peu prés.
+
+-*who_second_nicandre
+Que feray-je ? Pour faire une chose qui plaise…
+
+-*who_robin 
+Et que fait-on ? Pour faire une fille bien aise,
+Idiot ?
+
+-*who_second_nicandre
+      Vous servir m'est un bien precieux,
+Mais daignez vous resoudre à vous expliquer mieux ;
+Je vous veux obéïr, j'y mets toute ma gloire,
+Mais…
+
+-*who_hipolite
+      Vous avez, Nicandre, une foible memoire,
 N'attendez plus pourtant de si libres propos,
-J'ai trop...
+J'ay trop…
 
 -*who_robin
-      Concevez-vous ce que disent ces mots :
-Pauvre fille !
+      Concevez-vous ce que disent ces mots :
+Pauvre fille !
 
 -*who_jacinte
-      Expliquez aussi votre pensée.
+      Expliquez aussi vostre pensée.
 
 -*who_robin
 Son honneur la suffoque, elle en est si pressée
-Qu'elle étouffe. Ma foi je vous sais mauvais gré
+Qu'elle étouffe. Ma foy je vous sçais mauvais gré
 Car si vous le vouliez vous seriez honoré.
 
--*who_lesecondnicandre
-Mais je ne comprends pas quel sera le service...
+-*who_second_nicandre
+Mais je ne comprends pas quel sera le service…
 
 -*who_robin
 Vous ne comprenez pas, mais c'est pure malice,
 Car il ne tient qu'à vous de comprendre.
 
--*who_lesecondnicandre
-Elle veut...
+-*who_second_nicandre
+      Elle veut…
 
 -*who_robin
-      Madame, comprenons, si comprendre se peut...
+Madame, comprenons, si comprendre se peut…
 
--*who_lesecondnicandre
-Impertinent... De grâce, excusez si ce traître...
+-*who_second_nicandre 
+Impertinent… De grace, excusez si ce traistre…
 
 -*who_hipolite
-Le valet ne fait rien qu'à l'exemple du maître.
-Vit-on jamais Jacinte un si volage amant ?
+Le valet ne fait rien qu'à l'exemple du Maistre.
+Vid-on jamais Jacinte un si volage amant ?
 
 -*who_jacinte
-Pourquoi vous fiez vous à ce chien de Normand
-Aussi ?
+Pourquoy vous fiez vous à ce chien de Normand
+Aussi ?
 
--*who_lesecondnicandre
-      Si je savais qui vous met en colère
-Peut-être...
+-*who_second_nicandre
+      Si je sçavois qui vous met en colere
+Peut-estre…
 
 -*who_hipolite
-      En ta faveur j'eusse apaisé mon père,
-(Car tu viens de sortir de ce même logis.)
+      En ta faveur j'eusse appaisé mon pere,
+(Car tu viens de sortir de ce mesme logis.)
 
--*who_lesecondnicandre
-Il est vrai que j'en sors, mais au moins...
+-*who_second_nicandre
+Il est vray que j'en sors, mais au moins…
 
 -*who_hipolite
       Je rougis
-De ce qu'un infidèle en a fait son asile.
+De ce qu'un infidelle en a fait son azile.
 
--*who_lesecondnicandre
-Il m'a donné, Madame, une retraite utile ;
+-*who_second_nicandre
+Il m'a donné, Madame, une retraite utile ;
 Mais insensiblement je m'y suis égaré.
-Une cour dérobée où j'étais retiré...
+Une cour derobée où j'estois retiré…
 
 -*who_hipolite
-      L'imposteur !
+L'imposteur !
 
 -*who_robin
-Cum licence, ôtez-moi d'une peine
-Monsieur, en quelle rue est le Cours de la Reine ?
+      Cum licence, ostez-moy d'une peine
+Monsieur, en quelle ruë est le Cours de la Reyne ?
 
--*who_lesecondnicandre
-Maraud.
+-*who_second_nicandre
+Maraut⁎.
 
 -*who_robin
-      Vous en venez, vous devez le savoir.
+      Vous en venez, vous devez le sçavoir.
 
 -*who_hipolite
-Dans ce même logis tu n'as donc pu me voir ?
+Dans ce mesme logis tu n'as donc pû me voir ?
 
--*who_lesecondnicandre
-Moi vous voir !
+-*who_second_nicandre
+Moy vous voir !
 
 -*who_hipolite
-      Toi qui mens avec tant d'assurance ?
-Toi qui d'un galant homme as la seule apparence.
-Toi qu'un sang assez bon semble avoir élevé,
+      Toy qui ments avec tant d'asseurance ?
+Toy qui d'un galant homme as la seule apparence.
+Toy qu'un sang assez bon semble avoir eslevé,
 Et qui n'est cependant qu'un perfide achevé.
-Je t'ai de ce logis aplani la sortie.
+Je t'ay de ce logis applany la sortie.
 
--*who_lesecondnicandre
-Vous Madame ?
-
--*who_hipolite
-      Moi traître, et ton âme l'oublie.
-
--*who_lesecondnicandre
-Vous ?
+-*who_second_nicandre
+Vous Madame ?
 
 -*who_hipolite
-      Moi.
+      Moy traistre, & ton ame l'oublie.
 
--*who_lesecondnicandre
-      Quoi qu'il en soit j'en prends peu de souci,
-Puisque vous le croyez je le veux croire aussi,
+-*who_second_nicandre
+      Vous ?
+
+-*who_hipolite
+      Moy.
+
+-*who_second_nicandre
+Quoy qu'il en soit j'en prends peu de soucy⁎,
+Puis que vous le croyez je le veux croire aussi,
 Je me retire. Adieu trop charmante Hipolite,
-Ce n'est pas sans regret que Nicandre vous quitte :
-Mais Ismène elle seule a droit de me charmer,
+Ce n'est pas sans regret que Nicandre vous quitte :
+Mais Ismene elle seule a droit de me charmer,
 Et pour peu que je reste il faudra vous aimer,
 Adieu.
 
 -*who_robin
-      Je me retire, et pourtant, ô friponne,
-Ce n'est pas sans regret que Robin t'abandonne ;
-Car quand dés ce matin je t'ai vue en ce lieu...
-C'est ma foi plutôt fait de ne dire qu'Adieu188.
+      Je me retire, & pourtant, ô friponne,
+Ce n'est pas sans regret que Robin t'abandonne ;
+Car quand dés ce matin je t'ay veuë en ce lieu…
+C'est ma foy plustost fait de ne dire qu'Adieu.
 
-**** *book_ *id_IV07 *act_IV *creator_boursault
+**** *book_ *id_IV07 *act_IV *date_1665 *creator_boursault
 
 -*who_hipolite
-Si jamais tu m'aimas, cours après ce Nicandre,
+Si jamais tu m'aimas, cours apres ce Nicandre,
 Fais si bien par tes soins qu'on le puisse surprendre,
-Il s'en va du côté que Mendoce l'attend.
+Il s'en va du costé que Mendoce l'attend.
 
 -*who_jacinte
-Mais Madame...
+Mais Madame…
 
 -*who_hipolite
-      Cours vite, et ne parle point tant ;
-Vole s'il est possible, et fais qu'on le saisisse.
-Mais que vois-je ?
+      Cours viste, & ne parle point tant ;
+Vole s'il est possible, & fay qu'on le saisisse.
+Mais que vois-je ?
 
-**** *book_ *id_IV08 *act_IV *creator_boursault
+**** *book_ *id_IV08 *act_IV *date_1665 *creator_boursault
 
 -*who_ismene
-      À vos voeux tout semble être propice,
-Il vous aime Nicandre, et me fait un affront
+      A vos vœux tout semble estre propice,
+Il vous aime Nicandre, & me fait un affront
 L'ingrat.
 
--*who_hipolite
+-*who_hipolite 
       S'il m'aime, il fait ce que bien d'autres font.
 
 -*who_ismene
-À donner coeur pour coeur vous avez été prompte.
+A donner cœur pour cœur vous avés esté prompte.
 
 -*who_hipolite
-Je n'ai pas entrepris de vous en rendre compte.
+Je n'ay pas entrepris de vous en rendre conte.
 
 -*who_ismene
 De ses premiers liens vous l'avez arraché.
 
 -*who_hipolite
-Donc assez faiblement il était attaché.
+Donc assez foiblement il estoit attaché.
 
 -*who_ismene
-D'accord. Mais vos appas ont de telles amorces...
+D'accord. Mais vos appas⁎ ont de telles amorces…
 
 -*who_hipolite
 S'ils vous ont fait trembler ils ont assez de forces.
-Non sans votre soupçon que je crusse en avoir ;
-Mais qui les appréhende en connaît le pouvoir.
+Non sans vostre soupçon que je creusse en avoir ;
+Mais qui les apprehende en connoist le pouvoir.
 
 -*who_ismene
-Jugez-en mieux, Madame, un honteux artifice
-De vos faibles appas a su faire l'office ;
-C'est cela qui me choque, et cela qui m'aigrit.
+Jugez-en mieux, Madame, un honteux artifice⁎
+De vos foibles appas⁎ a sçeu faire l'office ;
+C'est cela qui me choque, & cela qui m'aigrit.
 
 -*who_hipolite
-Qui charme sans appas n'a pas manque d'esprit.
+Qui charme sans appas⁎ n'a pas manque d'esprit.
 
 -*who_ismene
-Je le crois. Savez-vous le destin de Nicandre ?
+Je le croy. Sçavez-vous le destin de Nicandre ?
 
 -*who_hipolite
-Non je ne le sais pas : mais on va me l'apprendre.
-Écoutez ma Suivante, elle vient droit ici.
+Non je ne le sçay pas : mais on va me l'apprendre.
+Escoutez ma Suivante, elle vient droit icy.
 
 -*who_ismene
-Point Madame, vous-même écoutez celui-ci ;
+Point Madame, vous-mesme escoutez celuy-cy ;
 Mais tremblez de frayeur.
 
 -*who_hipolite
-      Ayez-en l'âme atteinte.
+      Ayez-en l'ame atteinte.
 
-**** *book_ *id_IV09 *act_IV *creator_boursault
+**** *book_ *id_IV09 *act_IV *date_1665 *creator_boursault
 
 -*who_ismene
-Hé bien cher Ragotin ?
+Hé bien cher Ragotin ?
 
 -*who_hipolite
-      Hé bien chère Jacinte ?
+      Hé bien chere Jacinte ?
 
 -*who_ragotin
-Il est enseveli dans le grand Châtelet.
+Il est ensevely dans le grand Chastelet.
 
 -*who_jacinte
-En ma propre présence on l'a pris au collet.
+En ma propre presence on l'a pris au colet⁎.
 
 -*who_ragotin
-Je l'ai vu dans la Morgue, où je crois qu'il enrage.
+Je l'ay veu dans la Morgue, où je croy qu'il enrage.
 
 -*who_jacinte
 Pour apprendre à chanter on l'a mis dans la cage.
 
 -*who_ragotin
-Il ne présumait pas qu'on lui fit cet affront.
+Il ne presumoit pas qu'on luy fit cét affront.
 
 -*who_jacinte
-Il ne se doutait pas d'un orage si prompt.
+Il ne se doutoit pas d'un orage si prompt.
 
 -*who_ragotin
 Il vous nomme perfide.
@@ -2960,37 +2966,37 @@ Il vous nomme perfide.
 -*who_jacinte
       Il vous nomme cruelle.
 
--*who_ismene
-Écoutez.
+-*who_ismene 
+Escoutez.
 
 -*who_hipolite
-      Écoutez.
+      Escoutez.
 
 -*who_ismene
-      Que dit-il ?
+      Que dit-il ?
 
 -*who_hipolite
-      Que dit-elle ?
+      Que dit-elle ?
 
 -*who_ismene
-Vous le voyez, Madame, on l'a mis en lieu sûr.
+Vous le voyez, Madame, on l'a mis en lieu seur.
 
 -*who_hipolite
-A qui vient de si loin cela semble assez dur :
-Mais plaignez son malheur, soupirez sans rien craindre.
+A qui vient de si loin cela semble assez dur :
+Mais plaignés son malheur, soûpirez sans rien craindre.
 
 -*who_ismene
-Je ne l'ai pas fait prendre à dessein de le plaindre,
+Je ne l'ay pas fait prendre à dessein de le plaindre,
 On l'a pris par mon ordre,
 
 -*who_hipolite
       On l'a pris par le mien.
 
 -*who_ismene
-Le savez-vous, Madame ?
+Le sçavez-vous, Madame ?
 
 -*who_hipolite
-      Oui, je le sais.
+      Ouy, je le sçay.
 
 -*who_ismene
       Mal.
@@ -3004,7 +3010,7 @@ C'est par l'ordre à Monsieur.
 -*who_jacinte
       C'est par l'ordre à Madame.
 
--*who_ragotin
+-*who_ragotin 
 Effrontée.
 
 -*who_jacinte
@@ -3014,141 +3020,141 @@ Effrontée.
       Impertinente.
 
 -*who_jacinte
-      Infâme.
+      Infame.
 
 -*who_ragotin
 Ne raisonne pas tant, je t'en prie.
 
 -*who_jacinte
-      Et pourquoi
-Hé ?
+      Et pourquoy
+Hé ?
 
 -*who_ragotin
-      Si dans ma fureur je me jette sur toi
+      Si dans ma fureur je me jette sur toy
 Tu verras beau jeu.
 
 -*who_jacinte
-      Ladre.
+      Ladre⁎.
 
 -*who_ragotin
-      Aiguillon de vipère.
+      Aiguillon de vipere.
 
 -*who_jacinte
-Croyez-m'en Hipolite, appelons votre père,
-Isidore !
+Croyez-m'en Hipolite, appellons vostre pere,
+Isidore !
 
-**** *book_ *id_IV10 *act_IV *creator_boursault
+**** *book_ *id_IV10 *act_IV *date_1665 *creator_boursault 
 
 -*who_isidore
-      Audio, cela veut dire l'oi,
-C'est le présent du verbe Audire.
+      Audio, cela veut dire l'oy,
+C'est le present du verbe Audire.
 
 -*who_ismene
-      Je le vois.
+      Je le voy.
 
 -*who_ragotin
-Qui, Monsieur ?
+Qui, Monsieur ?
 
 -*who_ismene
       Ragotin ma surprise est extrême.
 
 -*who_ragotin
-Qui voyez-vous ?
+Qui voyez-vous ?
 
 -*who_ismene
-      Ce l'est, c'est mon père lui-même.
+      Ce l'est, c'est mon pere luy-mesme.
 
 -*who_isidore
-Définis-moi la cause, et dis-moi la raison...
+Definis-moy la cause, & dis-moy la raison…
 
 -*who_jacinte
-La cause est que Nicandre est dans une prison :
-Mais ce demi Monsieur qui dessous sa jaquette...
+La cause est que Nicandre est dans une prison :
+Mais ce demy Monsieur qui dessous sa jaquette…
 
 -*who_ismene
-Ne passe plus outre impudente Soubrette,
-Découvrant qui je suis tu prétends me punir,
-Pour te punir toi-même il te faut prévenir.
-Un aveu légitime autorise ma flamme,
-Je suis demi Monsieur ; mais entière Madame,
-Ce vieillard est mon père, et c'est tout mon bon heur,
-J'ose...
+Ne passe plus outre impudente⁎ Soubrette,
+Découvrant qui je suis tu pretends me punir,
+Pour te punir toy-mesme il te faut prevenir.
+Un adveu legitime autorise ma flame,    92
+Je suis demy Monsieur ; mais entiere Madame,
+Ce vieillard est mon pere, & c'est tout mon bon heur,
+J'ose…
 
 -*who_ragotin
-      Vous êtes donc une fille, Monsieur ?
+      Vous estes donc une fille, Monsieur ?
 
 -*who_eutrope
-Quoi ! Ma fille...
+Quoy ! Ma fille…
 
 -*who_ismene
-      Mon père !
+      Mon pere !
 
 -*who_eutrope
-      As-tu pu me connaître.
+      As-tu pû me connaistre.
 
 -*who_ragotin
-Je couchais d'ordinaire aux côtés de mon maître,
-Il était si peureux que j'étais son appui ;
-N'êtes-vous point peureuse aussi bien comme lui ?
+Je couchois d'ordinaire aux costés de mon Maistre,
+Il estoit si peureux que j'estois son appuy ;
+N'estes-vous point peureuse aussi bien comme luy ?
 
 -*who_ismene
 Je partis de Lyon sans vous en rien apprendre,
-Pour venger mon injure, et pour perdre Nicandre ;
-J'ai trouvé que Madame en a fait son amant ;
-Mais sa lâche inconstance aura son châtiment,
+Pour venger mon injure, & pour perdre Nicandre ;
+J'ay trouvé que Madame en a fait son Amant ;
+Mais sa lasche inconstance aura son chastiment,
 Il est pris.
 
 -*who_hipolite
-      Vous savez ce que m'a fait Nicandre.
+      Vous sçavez ce que m'a fait Nicandre.
 
 -*who_isidore
-Maculée.
+Maculée⁎.
 
 -*who_hipolite
-      À la fin je l'ai su faire prendre ;
-Mais Madame qui l'aime, et qui vit sous sa loi...
+      A la fin je l'ay sçeu faire prendre ;
+Mais Madame qui l'aime, & qui vit sous sa loy…
 
--*who_ismene
-Il est vrai que je l'aime, et c'est à faire à moi ;
-Mais il faut que mon père en secret m'interroge,
+-*who_ismene 
+Il est vray que je l'ayme, & c'est à faire à moy ;
+Mais il faut que mon pere en secret m'interroge,
 Allons où vous logez, ou venez où je loge,
-Si jamais la tendresse ébranla votre coeur,
-Si jamais...
+Si jamais la tendresse esbranla vostre cœur,
+Si jamais…
 
 -*who_eutrope
-      Tu sais bien que j'ai peu de rigueur.
-Et vous quoi que pour moi votre bonté paroisse,
-N'attendez nullement que je la reconnaisse,
-Puis que quoi que Nicandre ait commis contre vous,
-Je veux que de ma fille il devienne l'époux :
-C'est être ingrat ami, mais c'est être bon père.
+      Tu sçais bien que j'ay peu de rigueur.
+Et vous quoy que pour moy vostre bonté paroisse,
+N'attendez nullement que je la reconnoisse,
+Puis que quoy que Nicandre ait commis contre vous,
+Je veux que de ma fille il devienne l'Espoux :
+C'est estre ingrat Amy, mais c'est estre bon Pere.
 
 -*who_isidore
-J'ai trop eu pour Eutrope indulgence plénière,
-J'eusse récidivé ; mais je veux que mes huis
-Mon esprit se gendarme à l'encontre de lui,
+J'ay trop eu pour Eutrope indulgence pleniere,
+J'eusse recidivé ; mais je veux que mes-huy
+Mon esprit se gendarme allencontre de luy,
 Vale.
 
 -*who_hipolite
-      Consolez-vous, vous pouvez tout prétendre,
+      Consolez-vous, vous pouvez tout pretendre,
 Demain dans la prison vous reverrez Nicandre.
 
 -*who_ismene
-Vous dites vrai, Madame, et ce qui m'est bien doux,
-Vous le verrez aussi sans qu'il puisse être à vous.
+Vous dites vray, Madame, & ce qui m'est bien doux,
+Vous le verrez aussi sans qu'il puisse estre à vous.
 
 -*who_jacinte
 Adieu donc voyageuse.
 
--*who_ismene
+-*who_ismene 
       Adieu bonne rusée
 Intrigueuse.
 
 -*who_jacinte
-      Adieu donc fille garçonnisée.
+      Adieu donc fille garçonnisée⁎.
 
 -*who_ragotin
-Elle garçonnisée, instruits-moi de son sens ?
+Elle garçonnisée⁎, instruits-moy de son sens ?
 
 -*who_jacinte
 Elle l'est par dehors.
@@ -3156,890 +3162,907 @@ Elle l'est par dehors.
 -*who_ragotin
       Et tu l'es par dedans.
 
-**** *book_ *id_V01 *act_V *creator_boursault
+**** *book_ *id_V01 *act_V *date_1665 *creator_boursault
 
--*who_lesecondnicandre
-À voir de mon amour l'aventure bizarre,
-On dirait que le sort contre moi se déclare ;
-Moi coucher en Prison ! Moi qui sais le moyen...
+-*who_second_nicandre
+A voir de mon amour l'aventure bizarre,
+On diroit que le sort contre moy se declare ;
+Moy coucher en Prison ! Moy qui sçais le moyen…
 
 -*who_robin
-Moi qui crois vous valoir, Monsieur, j'y couche bien.
-Dites-moi, votre gîte est-ce un gîte passable ?
+Moy qui crois vous valoir, Monsieur, j'y couche bien.
+Dites-moy, vostre giste est-ce un giste passable ?
 
--*who_lesecondnicandre
-On n'a dans la Prison point de chambre agréable ;
+-*who_second_nicandre
+On n'a dans la Prison point de chambre agreable ;
 Mais l'endroit où je couche est pourtant assez beau.
-C'est dans la Chambre-neuve.
+C'est dans la Chambre-neusve.
 
 -*who_robin
-      Et moi dans le Berceau :
-Le bon peste de gîte ! On dirait d'une cave ;
+      Et moy dans le Berceau :
+Le bon peste de giste ! On diroit d'une Cave ;
 D'une vieille muraille on ramasse la bave,
-Et de soin tout pourri les petits brins épars
-Sont sans cesse traînés par Messieurs les piquars.
+Et de foin tout pourry les petits brins épars
+Sont sans cesse traisnez par Messieurs les Piquars.
 
--*who_lesecondnicandre
-Mais d'où vient que si tard ta personne est si nue ?
-
--*who_robin
-On m'a pris mes habits pour ma bonne venue,
-Et tous mes compagnons, les filous de céans,
-(Qu'au filoutage prés je trouve braves gens ;
-Car ils sont si bénins que de peur de rancune
-Ils ont pris mon bagage au défaut de pécune.)
-
--*who_lepremiernicandre
-Tes habits sont mangés ?
+-*who_second_nicandre 
+Mais d'où vient que si tard ta personne est si nuë ?
 
 -*who_robin
-      Oui, Monsieur.
+On m'a pris mes habits pour ma bonne venuë,
+Et tous mes Compagnons, les Filoux⁎ de ceans⁎,
+(Qu'au filoutage prés je trouve braves gens ;
+Car ils sont si benins que de peur de rancune
+Ils ont pris mon bagage au deffaut de pécune.)
 
--*who_lesecondnicandre
-      Est-ce ainsi...
-
--*who_robin
-S'ils m'avaient pu manger ils l'auraient fait aussi :
-Peste, ces affamés sont de vrais fripe-sausses.
-
--*who_lesecondnicandre
-Quoi, tu n'as ni pourpoint ? Ni casaque ? Ni chausses ?
-Ils ont tout avalé sans rien mettre à l'écart ?
+-*who_premier_nicandre
+Tes habits sont mangez ?
 
 -*who_robin
-Nenni pas tout à fait, j'en ai mangé ma part.
-Mais ce qui me contente ils ont l'âme assez franche,
-Outre qu'ils m'ont promis que j'aurais ma revanche,
+      Ouy, Monsieur.
+
+-*who_second_nicandre
+      Est-ce ainsi…
+
+-*who_robin
+S'ils m'avoient pû manger ils l'auroient fait aussi :
+Peste, ces affamez sont de vrais fripe-sausses.
+
+-*who_second_nicandre
+Quoy, tu n'as ni pourpoint ? Ni casaque ? Ni chausses ?
+Ils ont tout avalé sans rien mettre à l'écart ?
+
+-*who_robin
+Nenny⁎ pas tout à fait, j'en ay mangé ma part.
+Mais ce qui me contente ils ont l'ame assez franche,
+Outre qu'ils m'ont promis que j'aurois ma revanche,
 Ils souffrent bonnement que je rie avec eux,
-Et j'ai déjà la boite à quêter pour les gueux.
-J'y ferai bien mon compte.
+Et j'ay desja la boëtte à quester pour les gueux.
+J'y feray bien mon compte.
 
--*who_lesecondnicandre
-      Et comment, Ridicule ?
+-*who_second_nicandre
+      Et comment, Ridicule ?
 
--*who_robin
+-*who_robin 
 Et par le petit trou quand on ferre la mule.
-Ah que j'aurai bientôt regagné mon habit.
+Ah que j'auray bien-tost regagné mon habit.
 
--*who_lesecondnicandre
+-*who_second_nicandre
 On n'y met rien.
 
 -*who_robin
-      Ma foi, l'on me l'a déjà dit.
-Mais si l'on m'y mettait c'était bien mon affaire.
+      Ma foy, l'on me l'a déjà dit.
+Mais si l'on m'y mettoit c'estoit bien mon affaire.
 
--*who_lesecondnicandre
-Ce n'est certes qu'à moi que le sort est contraire
-Mais sortons de ce lieu, je vais faire un écrit...
+-*who_second_nicandre
+Ce n'est certes qu'à moy que le sort est contraire
+Mais sortons de ce lieu, je vais faire un écrit…
 
 -*who_robin
-N'en sortons point, Monsieur, que je n'aie un habit,
+N'en sortons point, Monsieur, que je n'aye un habit,
 Je vous en prie.
 
--*who_lesecondnicandre
-      Écoute, en cas qu'on me demande
-Tu viendras me quérir, et diras qu'on m'attende,
-Ou du moins si tu veux tu pourras m'appeler.
+-*who_second_nicandre
+      Ecoute, en cas qu'on me demande
+Tu viendras me querir, & diras qu'on m'attende,
+Ou du moins si tu veux tu pourras m'appeller.
 
-**** *book_ *id_V02 *act_V *creator_boursault
+**** *book_ *id_V02 *act_V *date_1665 *creator_boursault
 
 -*who_robin
 Il a le Diable au corps de vouloir s'en aller.
-Du fidèle Robin le bonheur l'importune,
-Il mourrait de regret si je faisais fortune,
-Et de sortir d'ici le bourreau n'a dessein
-Qu'à cause qu'à présent il me voit dans le gain.
-Mais l'on ouvre ; l'on entre ; allons faire la quête.
+Du Fidele Robin le bon-heur l'importune,
+Il mourroit de regret si je faisois fortune,
+Et de sortir d'icy le bourreau n'a dessein
+Qu'à cause qu'à present il me void dans le gain.
+Mais l'on ouvre ; l'on entre ; allons faire la queste.
 
-**** *book_ *id_V03 *act_V *creator_boursault
+**** *book_ *id_V03 *act_V *date_1665 *creator_boursault
 
 -*who_robin
-Mettez-vite, Monsieur, de l'argent dans la boîte.
+Mettez-viste, Monsieur, de l'argent dans la boëste.
 
 -*who_ismene
 Une autre fois.
 
 -*who_robin
-      Mettez ; on n'a point de crédit.
+      Mettez ; on n'a point de credit.
 
 -*who_ismene
-Mais l'ami...
+Mais l'amy…
 
 -*who_robin
-      Mais l'ami... J'ai besoin d'un habit
+      Mais l'amy… J'ay besoin d'un habit
 Monsieur.
 
 -*who_ismene
-      Ou je me trompe, ou je crois te connaître.
-Quel es-tu ?
+      Ou je me trompe, ou je croy te connaistre.
+Quel es-tu ?
 
 -*who_robin
-      Moi ? Je suis tout ce que je puis être,
-Receveur (Il est vrai qu'à ne vous celer rien
-La récepte est petite, et ne va pas trop bien ;
-Mais faut-il de regret que je m'en aille pendre ?)
+      Moy ? Je suis tout ce que je puis estre,
+Receveur⁎ (Il est vray qu'à ne vous celer⁎ rien
+La recepte⁎ est petite, & ne va pas trop bien ;
+Mais faut-il de regret que je m'en aille pendre ?)
 
 -*who_ismene
-Je t'ai vu dans Lyon souvent suivre Nicandre.
+Je t'ay veu dans Lyon souvent suivre Nicandre.
 
--*who_robin
-Si vous m'avez vu là, vous me voyez ici.
+-*who_robin 
+Si vous m'avez veu là, vous me voyez icy.
 
 -*who_ismene
-Tu ne me connais pas ?
+Tu ne me connois pas ?
 
 -*who_robin
       Il me semble que si.
-À remettre vos traits j'ai pourtant de la peine ;
-Ne vous nommez-vous pas Monsieur, Madame Ismene ?
+A remettre vos traits j'ay pourtant de la peine ;
+Ne vous nommez-vous pas Monsieur, Madame Ismene ?
 
 -*who_ismene
-Oui, Robin, c'est Ismène. Et ton maître, l'ingrat ?
-Le perfide ?
+Ouy, Robin, c'est Ismene. Et ton Maistre, l'ingrat ?
+Le perfide ?
 
 -*who_robin
-      Mon maître ? Il est fort délicat.
-J'ai peur dans la prison qu'il n'amasse du rhume202.
+      Mon Maistre ? Il est fort delicat.
+J'ay peur dans la prison qu'il n'amasse du rhume.
 
 -*who_ismene
-Va, sa flamme l'échauffe, et l'amour le consume ;
-Mais voila deux Louis, reçois-les de ma main,
-Et du traître Nicandre apprends-moi le dessein.
-N'a-t-il point de regret de ce qu'il m'a perdue ?
-Ne veut-il pas me rendre une foi qui m'est due ?
-Agis. Par ton moyen si l'ingrat se résoud...
+Va, sa flame l'échauffe, & l'amour le consume ;
+Mais voila deux Louïs, recois-les de ma main,
+Et du traistre Nicandre apprends-moy le dessein.
+N'a-t-il point de regret de ce qu'il m'a perdue ?
+Ne veut-il pas me rendre une foy qui m'est duë ?
+Agy. Par ton moyen si l'ingrat se resoud…
 
 -*who_robin
-Je suis trop malheureux pour en venir à bout.
+Je suis trop mal-heureux pour en venir à bout.
 
--*who_ismene
-Toi qui sers cet ingrat, ne peux-tu faire en sorte,
-Robin...
+-*who_ismene 
+Toy qui sers cét ingrat, ne peux-tu faire en sorte,
+Robin…
 
 -*who_robin
       Si je le puis, que le Diable m'emporte.
 
 -*who_ismene
-Tu ne le peux ? Le traître a donc bien du mépris
-D'un amour réciproque il dédaigne le prix ;
-Croyant à son départ qu'il m'adorait dans l'âme
-J'ai mis tous mes plaisirs à répondre à sa flamme ;
-J'ai mis tous mes plaisirs au bonheur d'être unis ;
-J'ai mis...
+Tu ne le peux ? Le traistre a donc bien du mépris
+D'un amour reciproque il dédaigne le prix ;
+Croyant à son depart qu'il m'adoroit dans l'ame
+J'ay mis tous mes plaisirs à respondre à sa flâme ;
+J'ay mis tous mes plaisirs au bon-heur d'estre unis ;
+J'ay mis…
 
 -*who_robin
-      Où Diable aussi les avez-vous là mis ?
+      Où Diable aussi les avez-vous là mis ?
 
 -*who_ismene
-Que veux-tu ? Je l'aimais ; il me semblait sincère,
-À son volage coeur je croyais être chère ;
-J'avais en sa faveur des sentiments si doux,
-Robin...
+Que veux-tu ? Je l'aymois ; il me sembloit sincere,
+A son volage cœur je croyois estre chere ;
+J'avois en sa faveur des sentiments si doux,
+Robin…
 
 -*who_robin
-      Plaît-il ? Quoi ? Qu'est-ce ? et que me dites-vous ?
-Vous voulez voir mon maître, ayez soin de m'attendre.
-Non, ne m'attendez pas, je l'appelle. Nicandre !
+      Plais-il ? Quoy ? Qu'est-ce ? & que me dites-vous ?
+Vous voulez voir mon Maistre, ayez soin de m'attendre.
+Non, ne m'attendez pas, je l'appelle. Nicandre !
 
--*who_lepremiernicandre
-Qui m'appelle ?
-
--*who_robin
-      C'est moi.
-
--*who_lepremiernicandre
-      Qui ?
+-*who_premier_nicandre
+Qui m'appelle ?
 
 -*who_robin
-      C'est moi.
+      C'est moy.
 
--*who_lepremiernicandre
-      Qui toi ?
+-*who_premier_nicandre
+      Qui ?
+
+-*who_robin 
+      C'est moy.
+
+-*who_premier_nicandre
+      Quy toy ?
 
 -*who_robin
-      Moi.
+      Moy.
 
--*who_lepremiernicandre
-Et qui donc est-ce là que je vois avec toi ?
+-*who_premier_nicandre
+Et qui donc est-ce là que je vois avec toy ?
 
 -*who_robin
 C'est elle.
 
--*who_lepremiernicandre
-      Qui ?
+-*who_premier_nicandre
+      Qui ?
 
 -*who_robin
       C'est elle.
 
--*who_lepremiernicandre
-      Et qui donc ? Dis.
+-*who_premier_nicandre
+      Et qui donc ? Dy.
 
 -*who_robin
       C'est elle.
 
--*who_lepremiernicandre
+-*who_premier_nicandre
 Qui que ce soit n'importe, il suffit qu'on m'appelle.
 Je descends.
 
 -*who_ismene
-      Que dis-tu, de la peine qu'il a ?
-N'as-tu pas aperçu... Mais l'ingrat le voilà.
+      Que dis-tu, de la peine qu'il a ?
+N'as-tu pas apperceu… Mais l'ingrat le voila.
 
-**** *book_ *id_V04 *act_V *creator_boursault
-
--*who_ismene
-Hé bien, Nicandre ?
-
--*who_lepremiernicandre
-      Hé bien, Madame, êtes-vous lasse
-De me jouer des tours de si mauvaise grâce ?
-Quels appas avez-vous qui puissent me charmer ?
-Et par quel privilège ai-je dû vous aimer ?
-Y suis-je obligé, moi ? Voulez-vous m'y contraindre ?
+**** *book_ *id_V04 *act_V *date_1665 *creator_boursault 
 
 -*who_ismene
-Si tu n'as pu m'aimer volage, as-tu dû feindre ?
-Et ne fallait-il pas pour le bien de mes jours
-Ou ne m'aimer jamais, ou bien m'aimer toujours ?
-Mais écoute, il est temps que tu m'ouvres ton âme,
-Je t'ai fait mettre ici, tu le sais ?
+Hé bien, Nicandre ?
 
--*who_lepremiernicandre
-      Oui, Madame,
+-*who_premier_nicandre
+      Hé bien, Madame, estes-vous lasse
+De me joüer des tours de si mauvaise grace ?
+Quels appas⁎ avez-vous qui puissent me charmer ?
+Et par quel privilege ay-je dû vous aymer ?
+Y suis-je obligé, moy ? Voulez-vous m'y contraindre ?
+
+-*who_ismene
+Si tu n'as pû m'aymer volage, as-tu dû feindre ?
+Et ne faloit-il pas pour le bien de mes jours
+Ou ne m'aimer jamais, ou bien m'aimer toûjours ?
+Mais écoute, il est temps que tu m'ouvres ton ame,
+Je t'ay fait mettre icy, tu le sçais ?
+
+-*who_premier_nicandre
+      Ouy, Madame,
 Et sans perdre un moment en propos superflus,
-Sachez...
+Scachez…
 
 -*who_robin
       Depuis quand donc ne l'adorez-vous plus
-Notre cher ?
+Nostre cher ?
 
--*who_lepremiernicandre
-      Dis-tu moi ? J'ai plutôt de la haine...
+-*who_premier_nicandre
+      Dis-tu moy ? J'ay plutost de la hayne…
+
+-*who_robin 
+Que diable dites vous étourdy ? C'est Ismene
+Que vous aymez tant.
+
+-*who_premier_nicandre
+      Moy ? Je n'ay jamais pensé…
 
 -*who_robin
-Que diable dites vous étourdi ? C'est Ismène
-Que vous aimez tant.
-
--*who_lepremiernicandre
-      Moi ? Je n'ai jamais pensé...
-
--*who_robin
-C'est Ismène, vous dis-je, estes vous insensé ?
-Elle qui dans Lyon arrêta votre course...
+C'est Ismene, vous dis-je, estes vous insensé ?
+Elle qui dans Lyon arresta votre course…
 
 -*who_ismene
-Moi qui de son bonheur voulais être la source.
+Moy qui de son bon-heur voulois estre la source.
 De publier sa honte on m'épargne le soin,
 Dans son propre valet je rencontre un témoin,
-Et par un procédé qui sent l'âme de boue
-Il fait un désaveu qu'un valet désavoue.
-Poursuis, Robin, poursuis, et d'un maître pareil...
+Et par un procédé qui sent l'ame de bouë
+Il fait un desaveu qu'un valet desavouë.
+Poursuis, Robin, poursuis, & d'un Maistre pareil…
 
--*who_lepremiernicandre
-Il a suivi, Madame un si rare conseil.
-Vous l'aviez bien payé pour m'appeler son maître,
-Mais par mal-heur pour vous je n'ai pu le connaître.
-L'artifice était faible, et je suis délicat,
+-*who_premier_nicandre
+Il a suivy, Madame un si rare conseil.
+Vous l'aviez bien payé pour m'appeller son Maistre,
+Mais par mal-heur pour vous je n'ay pû le connaître.
+L'artifice⁎ estoit foible, & je suis delicat,
 Madame.
 
 -*who_robin
-      Ah justes Dieux, le maudit renégat !
-C'est donc quand il vous plaît que vous estes mon maître ?
+      Ah justes Dieux, le maudit renegat⁎ !
+C'est donc quand il vous plaist que vous estes mon Maistre ?
 
--*who_lepremiernicandre
-Jamais je ne le fus, et ne veux jamais l'être.
-J'aurais trop de regret si la moindre union...
+-*who_premier_nicandre
+Jamais je ne le fus, & ne veux jamais l'estre.
+J'aurois trop de regret si la moindre union…
 
--*who_ismene
-Et qui donc te servait quand tu vins à Lyon ?
+-*who_ismene 
+Et qui donc te servoit quand tu vins à Lyon ?
 Mais tu n'y fus jamais, tu le vas faire accroire.
 
--*who_lepremiernicandre
-J'ai trop peu de faiblesse, et trop bonne mémoire.
-On m'a vu dans Lyon faire assez de séjour,
-Mais ce n'est qu'à Paris que j'ai pris de l'amour.
+-*who_premier_nicandre
+J'ay trop peu de foiblesse, & trop bonne memoire.
+On m'a veu dans Lyon faire assez de sejour,
+Mais ce n'est qu'à Paris que j'ay pris de l'amour.
 
 -*who_ismene
-Ah méchant !
+Ah méchant !
 
--*who_lepremiernicandre
-      Moi méchant ! C'est me faire injustice.
+-*who_premier_nicandre
+      Moy mechant ! C'est me faire injustice.
 
 -*who_robin
 Renier un valet c'est un beau petit vice.
 Il appelle cela des chansons
 
 -*who_ismene
-      Résous-toi ;
-Vois qui tu veux aimer d'Hipolite ou de moi ;
-Épargne à mon amour le regret de te nuire,
-J'oublierai ton forfait si tu veux t'en dédire,
-Et pour mieux te contraindre à paraître surpris
-J'aurai plus de bonté que tu n'as de mépris.
+      Resous-toy ;
+Voy qui tu veux aymer d'Hipolite ou de moy ;
+Epargne à mon amour le regret de te nuire,
+J'oubliray ton forfait si tu veux t'en dédire,
+Et pour mieux te contraindre à paraistre surpris
+J'auray plus de bonté que tu n'as de mépris.
 
--*who_lepremiernicandre
-Et moi qui suis sensible, et qui vois qu'on m'abuse
-J'aurai plus de mépris que vous n'aurez de ruse ;
-De ce lâche coquin je fuirai l'entretien ;
-Il me dira son maître, et je n'en croirai rien ;
-Dédaignant les défauts, honorant le mérite,
-Je saurai vous haïr comme j'aime Hipolite ;
-Et n'était votre sexe, eût-on dû m'en blâmer,
-Vous seriez en état de jamais ne m'aimer.
+-*who_premier_nicandre
+Et moy qui suis sensible, & qui vois qu'on m'abuse
+J'auray plus de mépris que vous n'aurez de ruse ;
+De ce lasche coquin je fuiray l'entretien ;
+Il me dira son maistre, & je n'en croiray rien ;
+Dédaignant les deffauts, honorant le merite,
+Je sçauray vous haïr comme j'ayme Hipolite ;
+Et n'estoit vostre sexe, eût-on dû m'en blasmer,
+Vous seriez en estat de jamais ne m'aymer.
 Sortez.
 
 -*who_ismene
       Pardonne ingrat ma visite obligeante.
 Au reste agonisant d'un amitié mourante,
-Qui pour ton intérêt augmentant de moitié
-Arrachait un avis à ma lâche pitié ;
-Tu ne m'écoutes pas, mais redoute mon père,
-Adieu, je vais moi-même irriter sa colère,
+Qui pour ton interest augmentant de moitié
+Arrachoit un avis à ma lasche pitié ;
+Tu ne m'écoutes pas, mais redoute mon pere,
+Adieu, je vais moy-mesme irriter sa colere,
 Dans assez peu de temps nous serons en ce lieu.
 
-**** *book_ *id_V05 *act_V *creator_boursault
+**** *book_ *id_V05 *act_V *date_1665 *creator_boursault
 
 -*who_robin
-Vous voila justement, comme il plaît au bon Dieu.
+Vous voila justement, comme il plaist au bon Dieu.
 Vous venez là de faire un bon chien de ménage.
-Continuez, l'ami.
+Continuez, l'amy.
 
--*who_lepremiernicandre
-      Tais-toi, traître, ou...
+-*who_premier_nicandre
+      Tay-toy, traistre, ou…
 
 -*who_robin
       J'enrage,
-Et je souhaiterais que chacun souhaitât
-Qu'au milieu de la grève on vous décapitât.
-Un tendron l'idolâtre, et Monsieur le néglige ;
-Une Ismène l'adore, et Monsieur...
+Et je souhaiterois que chacun souhaitât
+Qu'au milieu de la gréve on vous decapitât.
+Un tendron⁎ l'idolatre, & Monsieur le neglige ;
+Une Ismene l'adore, & Monsieur…
 
--*who_lepremiernicandre
-      Paix, te dis-je,
-Ou bien si de ta voix rien n'arrête le cours
-Dis-le nom d'Hipolite, et m'en parle toujours :
-Su tu veux que pour toi mon courroux se désarme
+-*who_premier_nicandre
+      Pay⁎, te dis-je,
+Ou bien si de ta voix rien n'arreste le cours
+Dy-le nom d'Hipolite, & m'en parle toujours :
+Su tu veux que pour toy mon courroux se désarme
 Détruis un nom haï, par un nom qui me charme,
-Et pour l'un et pour l'autre agissant tour à tour
-En approuvant ma haine applaudi mon amour.
-Là-dessus, cher ami le Seigneur te console,
+Et pour l'un & pour l'autre agissant tour à tour
+En approuvant ma hayne applaudy mon amour.
+Là-dessus, cher amy le Seigneur te console,
 Jusqu'au revoir.
 
-**** *book_ *id_V06 *act_V *creator_boursault
+**** *book_ *id_V06 *act_V *date_1665 *creator_boursault
 
 -*who_robin
-      Et toi, le bourreau te décolle
-Fou des plus achevés, dont les sens abêtis
-Pensent... Mais des verrous j'entends le cliquetis,
+      Et toy, le Bourreau te décole
+Fou des plus achevez, dont les sens abestis
+Pensent… Mais des verroux j'entends le cliquetis,
 Quelqu'un entre.
 
-**** *book_ *id_V07 *act_V *creator_boursault
+**** *book_ *id_V07 *act_V *date_1665 *creator_boursault
 
 -*who_robin
-      Bonjour.
+      Bon jour.
 
 -*who_jacinte
-      Ah c'est toi !
+      Ah c'est toy !
 
 -*who_robin
-      Belle bête
-A voir ce que je porte on connaît que je quête ;
+      Belle beste
+A voir ce que je porte on connoit que je queste ;
 Tout questeur que je sois si tu fais un souhait
-Tu peux tendre ta boîte, et je donne mon fait
-J'ai deux Louis, je t'aime.
+Tu peux tendre ta boëste, & je donne mon fait
+J'ay deux Louis, je t'ayme.
 
 -*who_jacinte
       Il n'est pas temps encore
-Je viens voir...
+Je viens voir…
 
 -*who_robin
-      Vois traîtresse un Robin qui t'adore,
-Et qui pour t'avoir vue un peu plus qu'il ne faut,
-N'est vêtu que de toile, et s'il brûle de chaud.
+      Voy traistresse un Robin qui t'adore,
+Et qui pour t'avoir veuë un peu plus qu'il ne faut,
+N'est vestu que de toille, & s'il brusle de chaud.
 
 -*who_jacinte
-Je viens dire...
+Je viens dire…
 
 -*who_robin
-      Dis-moi, femelle insecourable
-Si l'on peut longtemps vivre, et brûler comme un Diable ;
+      Dy-moy, femelle insecourable
+Si l'on peut long-temps vivre, & brusler comme un Diable ;
 Et si tu n'agis pas d'une ingrate façon
-De me voir être braise, et que tu sois glaçon.
+De me voir estre braise, & que tu sois glaçon.
 
 -*who_jacinte
-Je viens faire...
+Je viens faire…
 
 -*who_robin
-      Toi faire ? Hé bien fille mauvaise,
-Il ne tiendra qu'à toi de me faire bien aise ;
-Ou du moins connaissant que tu m'aimes si peu
+      Toy faire ? Hé bien fille mauvaise,
+Il ne tiendra qu'à toy de me faire bien aise ;
+Ou du moins connoissant que tu m'aymes si peu
 Souffre glace pour glace, ou me rend feu pour feu.
 
 -*who_jacinte
-Je viens pour...
+Je viens pour…
 
 -*who_robin
-      Tu viens pour ? Ce n'est pas assez dire ;
-Viens-tu pour m'obliger, ou viens-tu pour me nuire ?
-Et puisque assurément dans ce lieu tu viens pour,
-Dis-moi si c'est pour haine, ou si c'est pour amour.
+      Tu viens pour ? Ce n'est pas assez dire ;
+Viens-tu pour m'obliger, ou viens-tu pour me nuire ?
+Et puisqu'asseurement dans ce lieu tu viens pour,
+Dy-moi si c'est pour haine, ou si c'est pour amour.
 
 -*who_jacinte
-C'est pour amour. Ton maître en a-t-il l'âme atteinte.
+C'est pour amour. Ton Maistre en a-t-il l'ame atteinte ;
 
 -*who_robin
-Le maître aime Hipolite, et le valet Jacinte.
+Le Maistre ayme Hipolite, & le valet Jacinte.
 
 -*who_jacinte
-Tu te railles, peut-être, et te moques de nous,
-Car Ismène...
+Tu te railles⁎, peut-estre, & te mocques de nous,
+Car Ismene…
 
 -*who_robin
-      La Dame a ma foi du dessous.
-Elle vient de sortir qui déteste Nicandre,
-De lui-même à lui-même elle a dit pis que pendre
-Il avait le dessein de lui rompre le cou.
+      La Dône a ma foy du dessous.
+Elle vient de sortir qui deteste Nicandre,
+De lui-mesme à lui-mesme elle a dit pis que pendre
+Il avoit le dessein de luy rompre le cou.
 
 -*who_jacinte
-Aime-t-il Hipolite ?
+Ayme-t-il Hipolite ?
 
 -*who_robin
       Il en est parbleu fou.
 Quand on parle d'Ismene on le choque, on l'irrite,
 On le touche on le charme en parlant d'Hipolite,
-Et ce nom par lui-même est si fort répété...
+Et ce nom par luy-mesme est si fort répeté…
 
 -*who_jacinte
 Attend, mon cher Robin, tu seras contenté.
-Voyons dans la geôle, Hipolite y doit être,
-Elle m'a fait entrer pour pressentir ton maître,
-Et puisqu'enfin Nicandre à l'aimer se résout
-Disons-lui qu'elle vienne, et l'informe de tout.
-Hipolite ! Hipolite !
+Voyons dans la geole⁎, Hipolite y doit estre,
+Elle m'a fait entrer pour pressentir ton Maistre,
+Et puisqu'enfin Nicandre à l'aymer se resout
+Disons-luy qu'elle vienne, & l'informe de tout.
+Hipolite ! Hipolite !
 
-**** *book_ *id_V08 *act_V *creator_boursault
+**** *book_ *id_V08 *act_V *date_1665 *creator_boursault 
 
 -*who_jacinte
       Allons-donc, paresseuse,
-Nicandre est amoureux, comme vous amoureuse ;
-Et Robin que voila qui soupire pour moi
-M'en répond corps pour corps, et m'en jure sa foi.
-C'est vous seule qu'il aime, et qu'il trouve d'aimable.
+Nicandre est amoureux, comme vous amoureuse ;
+Et Robin que voila qui soupire pour moy
+M'en répond corps pour corps, & m'en jure sa foy.
+C'est vous seule qu'il ayme, & qu'il trouve d'aymable.
 
 -*who_hipolite
-En est-il bien certain ?
+En est-il bien certain ?
 
 -*who_robin
-      Oui, je me donne au Diable.
+      Ouy, je me donne au Diable.
 
 -*who_hipolite
-Mais Ismène l'adore, elle veut recouvrer211...
+Mais Ismene l'adore, elle veut recouvrer…
 
 -*who_robin
-En ma propre présence il la vient de sevrer.
-Mais voyez, on dirait que le Ciel nous l'envoie.
+En ma propre presence il la vient de sevrer⁎.
+Mais voyez, on diroit que le Ciel nous l'envoye.
 
 -*who_jacinte
-Si tu penses...
+Si tu penses…
 
 -*who_robin
-      Jacinte, il va mourir de joie ;
-Je le sais de science, et je t'en donne avis ;
-Jamais nul amoureux n'eut les sens si ravis ;
+      Jacinte, il va mourir de joye ;
+Je le sçay de science, & je t'en donne avis ;
+Jamais nul amoureux n'eut les sens si ravis ;
 Et tu vas voir.
 
-**** *book_ *id_V09 *act_V *creator_boursault
+**** *book_ *id_V09 *act_V *date_1665 *creator_boursault 
 
--*who_lesecondnicandre
-      Ma lettre à la fin est écrite,
-Mais que vois-je, ô bons Dieux ! N'est-ce pas Hipolite ?
-
--*who_robin
-Hipolite elle-même, avancez, mal ému.
-Que disais-je ? De joie il est si prévenu
-Qu'il a changé de note au moment qu'il a vue.
-
--*who_lesecondnicandre
-Madame, à votre aspect je me sens l'âme émue...
+-*who_second_nicandre
+      Ma lettre à la fin est escrite,
+Mais que vois-je, ô bons Dieux ! N'est-ce pas Hipolite ?
 
 -*who_robin
-L'âme émue ! Entends-tu ? Sans amour l'aurait-on ?
-Que t'en semble ?
+Hipolite elle-mesme, avancez, mal émû.
+Que disois-je ? De joye il est si prevenu
+Qu'il a changé de notte au moment qu'il a veuë
+
+-*who_second_nicandre
+Madame, à vostre aspect je me sens l'ame émeuë…
+
+-*who_robin
+L'ame émeuë ! Entends-tu ? Sans amour l'auroit-on ?
+Que t'en semble ?
 
 -*who_jacinte
       Il le dit d'un assez vilain ton.
 
 -*who_hipolite
-Si d'un coeur qui vous aime on vous fait une offrande...
+Si d'un cœur qui vous aime on vous fait une offrande…
 
--*who_lesecondnicandre
-Je veux dans une fille une vertu plus grande ;
-Et quand d'autres que vous ne me charmeraient pas
-Votre extrême faiblesse avilit vos appas.
-A ne pas vous connaître et voir votre visage
-J'aurais pu vous aimer si j'eusse été volage ;
-Mais fussai-je volage, à vous connaître mieux
-Vous seriez la dernière à surprendre mes yeux.
-Je vous fais par pitié d'équitables reproches.
+-*who_second_nicandre
+Je veux dans une fille une vertu plus grande ;
+Et quand d'autres que vous ne me charmeroient pas
+Vostre extreme foiblesse avilit vos appas⁎.
+A ne pas vous connaistre & voir vostre visage
+J'aurois pû vous aymer si j'eusse esté volage ;
+Mais fussay-je volage, à vous connoistre mieux
+Vous seriez la derniere à surprendre⁎ mes yeux.
+Je vous fais par pitié d'equitables reproches.
 
 -*who_jacinte
-Robin !
+Robin !
 
 -*who_robin
-      Je suis penaud comme un fondeur de cloches.
+      Je suis penaud⁎ comme un fondeur de cloches.
 
 -*who_jacinte
-Tu disais...
+Tu disois…
 
 -*who_robin
-      Je disais ; mais je ne dis plus rien.
+      Je disois ; mais je ne dis plus rien.
 
 -*who_jacinte
-Quoi le traître...
+Quoy le traistre…
 
 -*who_robin
       Il est fou, ne le vois-tu pas bien,
-Il fait bon se fier à de semblables drilles ?
+Il fait bon se fier à de semblables drilles ?
 
 -*who_jacinte
-Est-ce comme cela que l'on traite des filles ?
-Le perfide...
+Est-ce comme cela que l'on traite des filles ?
+Le perfide…
 
 -*who_robin
-      Il est fou, je te l'ai déjà dit.
+      Il est fou, je te l'ay déjà dit.
 
 -*who_hipolite
-Ton brutal procédé rend mon coeur interdit...
+Ton brutal procedé rend mon cœur interdit⁎…
 
--*who_lesecondnicandre
-Et le vôtre me choque, et le vôtre m'étonne,
+-*who_second_nicandre
+Et le vostre me choque, & le vostre m'estonne,
 Je suis honteux pour vous de ce qu'on m'emprisonne
-Je ne suis dans ce lieu que par votre moyen,
-Mais aussi...
+Je ne suis dans ce lieu que par vostre moyen,
+Mais aussi…
 
 -*who_hipolite
-      Quoi, mais ?
+      Quoy, mais ?
 
--*who_lesecondnicandre
-      Mais...
+-*who_second_nicandre 
+      Mais…
 
 -*who_robin
       Mais vous ne valez rien.
 
--*who_lesecondnicandre
-J'ai de la quereller un sujet raisonnable,
-Tu sais...
+-*who_second_nicandre
+J'ay de la quereller un sujet raisonnable,
+Tu sçais…
 
 -*who_robin
-      Que les menteurs sont les enfants du Diable,
-Et pour cette raison je vous fais à sçavoir215
-Que Monsieur votre père est un père fort noir,
-C'est Ismène en ce lieu qui vous a fait conduire
+      Que les menteurs sont les enfans du Diable,
+Et pour cette raison je vous fais à sçavoir
+Que Monsieur vostre pere est un pere fort noir,
+C'est Ismene en ce lieu qui vous a fait conduire
 Menteur.
 
 -*who_hipolite
-      Point, c'est moi-même et je cherche à lui nuire ;
+      Point, c'est moi-même & je cherche à lui nuire ;
 Loin de le déguiser j'en demeure d'accord.
 
 -*who_jacinte
 Un habile fauteur pour le craindre si fort
-Ma foi !
+Ma foy !
 
 -*who_hipolite
-      Je t'ai fait prendre, et non pas ton Ismène
+      Je t'ay fait prendre, & non pas ton Ismene
 Perfide.
 
--*who_lesecondnicandre
-      Elle est trop bonne, et vous êtes trop vaine ;
-Mon sort est déplorable, et mon sort serait doux
-Si c'était mon Ismène aussi bien que c'est vous
+-*who_second_nicandre
+      Elle est trop bonne, & vous estes trop vaine ;
+Mon sort est déplorable, & mon sort seroit doux
+Si c'estoit mon Ismene aussi bien que c'est vous
 Méchante.
 
 -*who_jacinte
-      Qu'il est traître ! Et qu'il a de malice !
+      Qu'il est traistre ! & qu'il a de malice !
 
 -*who_robin
-Feu Judas prés de lui n'eut été qu'un novice ;
-S'ils se fussent connus celui-ci l'eut forcé
-À venir de sa bouche écouter l'A, B, C.
-Il a fait tout son cours à l'école traîtresse,
-D'autres nomment trahir ce qu'il appelle adresse ;
-Et si de ce qu'il sait je savais les trois quarts
-Au plus tard dans trois jours je serais Maître ès Arts.
-Il est savant.
+Feu Judas prés de luy n'eut esté qu'un novice ;
+S'ils se fussent connus celuy-cy l'eut forcé
+A venir de sa bouche écouter l'A, B, C.
+Il a fait tout son cours à l'Ecole traitresse,
+D'autres nomment trahir ce qu'il appelle adresse ;
+Et si de ce qu'il sçait je sçavois les trois quarts
+Au plus tard dans trois jours je serois Maistre és Arts.
+Il est sçavant.
 
 -*who_hipolite
-      Dis-moi ce que tu veux résoudre,
-Apprends-moi...
+      Dy-moy ce que tu veux resoudre,
+Apprend-moy…
 
--*who_lesecondnicandre
-      Dans vos mains je pourrais voir la foudre
-En redouter la chute, en sentir les éclats,
-Et la peur de périr ne m'ébranlerait pas.
-J'aime Ismène, je l'aime, et non pas Hipolite,
-J'aime Ismène...
+-*who_second_nicandre
+      Dans vos mains je pourrois voir la foudre
+En redouter la cheute, en sentir les éclats,
+Et la peur de perir ne m'ébranleroit pas.
+J'ayme Ismene, je l'ayme, & non pas Hipolite,
+J'ayme Ismene…
 
 -*who_hipolite
       C'est trop, ton audace m'irrite,
-Traître. Tu sais Jacinte où mon père m'attend ?
+Traistre. Tu sçais Jacinte où mon pere m'attend ?
 
 -*who_jacinte
-Oui je le sais Madame, et je vais à l'instant...
-Il prévient mon voyage, et le voila qu'il entre.
+Ouy je le sçais Madame, & je vais à l'instant…
+Il previent mon voyage, & le voila qu'il entre.
 Voyez.
 
-**** *book_ *id_V10 *act_V *creator_boursault
+**** *book_ *id_V10 *act_V *date_1665 *creator_boursault 
 
 -*who_isidore
-      Des forfaiteurs c'est donc ici le centre ?
-Nicandre...
+      Des forfaicteurs c'est donc icy le centre ?
+Nicandre…
 
 -*who_hipolite
       De l'ingrat le mépris est trop grand,
-À toute ma tendresse il est indifférent,
-De son perfide coeur la fierté me ravale,
-Et vous devez... Mais Dieux j'aperçois ma rivale,
+A toute ma tendresse il est indifferend,
+De son perfide cœur la fierté me ravale,
+Et vous devez… Mais Dieux j'apperçois ma Rivale,
 Elle vient.
 
-**** *book_ *id_V11 *act_V *creator_boursault
+**** *book_ *id_V11 *act_V *date_1665 *creator_boursault
 
 -*who_ismene
-      Infidèle, il est temps de parler.
+      Infidelle, il est temps de parler.
 
 -*who_hipolite
 Volage, il n'est plus temps de rien dissimuler.
 
--*who_robin
-S'il s'en peut démêler il n'est pas malhabile.
+-*who_robin 
+S'il s'en peut demesler il n'est pas mal-habile.
 
--*who_lesecondnicandre
-Monsieur...
-
--*who_ismene
-      Tu cherches, traître, une ruse inutile ;
-Tu n'abuseras plus ni mon père, ni moi.
-
--*who_lesecondnicandre
-Votre père ! Madame, est-ce vous que je vois !
-Est-ce Ismène !
-
--*who_robin
-      Nenni, c'est une autre. Ah le traître !
-
--*who_lesecondnicandre
-Est-ce Ismène !
+-*who_second_nicandre
+Monsieur…
 
 -*who_ismene
-      Tu feins de ne pas me connaître
-Lâche.
+      Tu cherches, traistre, une ruse inutile ;
+Tu n'abuseras plus ny mon pere, ny moy.
+
+-*who_second_nicandre
+Vostre pere ! Madame, est-ce vous que je voy !
+Est-ce Ismene !
 
 -*who_robin
-      C'est un fin merle, il sait bien d'autres tours.
+      Nenny⁎, c'est une autre. Ah le traistre !
+
+-*who_second_nicandre
+Est-ce Ismene !
+
+-*who_ismene
+      Tu feins de ne pas me connaistre
+Lasche.
+
+-*who_robin
+      C'est un fin Merle, il sçait bien d'autres tours.
 
 -*who_hipolite
-Parlez ; souffrirez-vous qu'il lui parle toujours ?
+Parlez ; souffrirez-vous qu'il luy parle toujours ?
 
 -*who_isidore
-Sois mon Gener, Immond, ou descends au sépulcre,
-Tu vois bien que ma fille est passablement pulcre ;
-Sois mon Gener, sinon...
+Sois mon Gener, Immond, ou descends au sepulcre⁎,
+Tu vois bien que ma fille est passablement pulcre ;
+Sois mon Gener, sinon…
 
 -*who_eutrope
-      Mais ma fille a sa foi.
+      Mais ma fille a sa foy.
 
 -*who_ismene
-L'ai-je pas, volage ?
+L'ay-je pas, volage ?
 
--*who_lesecondnicandre
-      Oui.
+-*who_second_nicandre 
+      Ouy.
 
 -*who_hipolite
-      L'ai-je pas aussi, moi ?
+      L'ay-je pas aussi, moy ?
 
--*who_lesecondnicandre
+-*who_second_nicandre
 Non.
 
 -*who_hipolite
-      Non traître ! Oses-tu...
+      Non traistre ! Oses-tu…
 
 -*who_ismene
-      Je sais qu'elle te touche,
-Je le sais.
+      Je sçay qu'elle te touche,
+Je le sçay.
 
--*who_lesecondnicandre
-      Vous ?
-
--*who_ismene
-      Moi.
-
--*who_lesecondnicandre
-      Vous ?
+-*who_second_nicandre
+      Vous ?
 
 -*who_ismene
-      Je le sais de ta bouche
+      Moy.
+
+-*who_second_nicandre
+      Vous ?
+
+-*who_ismene
+      Je le scay de ta bouche
 Effronté.
 
--*who_lesecondnicandre
-      Vous, Madame ? Ô grands Dieux qu'est-ceci !
+-*who_second_nicandre
+      Vous, Madame ? Ô grands Dieux qu'est-ce cy !
 
 -*who_jacinte
-Je le sais aussi, moi.
+Je le scais aussi, moy.
 
 -*who_ragotin
-      Moi je le sais aussi.
+      Moy je le scais aussi.
 
 -*who_robin
 Si pas un de ceux là ne vous semble croyable,
-Je le sais aussi, moi, témoin irréprochable,
-Je le sais.
+Je le scais aussi, moy, témoin irreprochable,
+Je le scais.
 
--*who_lesecondnicandre
-      Quoi Robin, quoi j'aurais consenti...
-
--*who_robin
-C'est dire en mots couverts tout le monde a menti.
-
--*who_lesecondnicandre
-Tu n'as point de raison, car tu dois faire entendre...
+-*who_second_nicandre 
+      Quoy Robin, quoy j'aurois consenty…
 
 -*who_robin
-J'aurai tort si ce lieu loge plus d'un Nicandre.
+C'est dire en mots couverts tout le monde a menty.
+
+-*who_second_nicandre
+Tu n'as point de raison, car tu dois faire entendre…
+
+-*who_robin
+J'auray tort si ce lieu loge plus d'un Nicandre.
 Voyons.
 
--*who_lesecondnicandre
-      Mais...
+-*who_second_nicandre
+      Mais…
 
 -*who_robin
-      Mais voyons. Ho Nicandre ! J'ai tort
-Comme il répond. Nicandre ! Est-ce pas assez fort ?
-Ho Nicandre ! Écoutez caterreuse cervelle,
-J'ai tort.
+      Mais voyons. Ho Nicandre ! J'ay tort
+Comme il répond. Nicandre ! Est-ce pas assez fort ?
+Ho Nicandre ! Écoutez caterreuse cervelle,
+J'ay tort.
 
-**** *book_ *id_V12 *act_V *creator_boursault
+**** *book_ *id_V12 *act_V *date_1665 *creator_boursault
 
--*who_lepremiernicandre
-      Qui donc encor est-ce là qui m'appelle ?
-
--*who_robin
-Qui Diable est celui-ci qui s'en vient droit à nous ?
-
--*who_lesecondnicandre
-Que vois-je ?
-
--*who_lepremiernicandre
-      Qu'aperçois-je ?
-
--*who_lesecondnicandre
-      Est-ce vous ?
-
--*who_lepremiernicandre
-      Est-ce vous ?
-
--*who_lesecondnicandre
-Quoi mon frère est ici !
-
--*who_lepremiernicandre
-      Quoi, je vous vois paraître !
+-*who_premier_nicandre
+      Qui donc encor est-ce là qui m'appelle ?
 
 -*who_robin
-Dites-moi s'il vous plaît qui des deux est mon maître.
+Qui Diable est celuy-cy qui s'en vient droit à nous ?
+
+-*who_second_nicandre
+Que vois-je ?
+
+-*who_premier_nicandre 
+      Qu'apperçois-je ?
+
+-*who_second_nicandre
+      Est-ce vous ?
+
+-*who_premier_nicandre
+      Est-ce vous ?
+
+-*who_second_nicandre
+Quoy mon frere est icy !
+
+-*who_premier_nicandre
+      Quoy, je vous voy paroistre !
+
+-*who_robin
+Dites-moy s'il vous plaist qui des deux est mon Maistre.
 
 -*who_ismene
-Dites-moi qui des deux m'a fait don de sa foi.
+Dites-moy qui des deux m'a fait don de sa foy.
 
 -*who_hipolite
-Dites-moi qui des deux s'est pu donner à moi.
-Est-ce vous ? Est-ce vous ? Rendez m'en plus instruite,
-Qui des deux...
+Dites-moy qui des deux s'est pû donner à moy.
+Est-ce vous ? Est-ce vous ? Rendez m'en plus instruite,
+Qui des deux…
 
--*who_lepremiernicandre
-      C'est-moi-même, ô ma chère Hipolite,
-C'est moi qui dans l'espoir de me voir vôtre époux...
+-*who_premier_nicandre
+      C'est-moy-mesme, ô ma chere Hipolite,
+C'est moi qui dans l'espoir de me voir vôtre Epoux…
 
--*who_lesecondnicandre
-Hé bien, suis-je Madame infidèle pour vous ?
-Rendez-moi vôtre amour, reprenez votre haine.
+-*who_second_nicandre
+Hé bien, suis-je Madame infidelle pour vous ?
+Rendez-moy vôtre amour, reprenez vostre haine.
 
 -*who_ismene
-Mais lorsqu'on vous a pris dans le Cours de la Reine...
+Mais lors qu'on vous a pris dans le Cours de la Reyne…
 
--*who_lepremiernicandre
-Lui Madame ? C'est moi qu'on a pris dans ce lieu.
+-*who_premier_nicandre
+Luy Madame ? C'est moy qu'on a pris dans ce lieu.
 
--*who_jacinte
-Tout va le mieux du monde, ou je me donne à Dieu ;
+-*who_jacinte 
+Tout va le mieux du monde, ou je me donne à Dieu ;
 Car aucun contre aucun n'aura sujet de plainte.
 
 -*who_robin
-Puisqu'Ismene est aimée, Hipolite, et Jacinte,
+Puisqu'Ismene est aymée, Hipolite, & Jacinte,
 Sans nous embarrasser d'aucune autre raison
-Prenons chacun la nôtre, et sortons de prison.
-Que dis-tu de l'avis, dis-moi donc ma petite ?
+Prenons chacun la nostre, & sortons de prison.
+Que dis-tu de l'avis, dy-moy donc ma petite ?
 
--*who_lesecondnicandre
-Pour moi, j'adore Ismène.
+-*who_second_nicandre
+Pour moy, j'adore Ismene.
 
--*who_lepremiernicandre
+-*who_premier_nicandre
       Et j'adore Hipolite.
 
--*who_lesecondnicandre
-Pourrons nous être à vous, et souffrirez vous bien.
+-*who_second_nicandre
+Pourrons nous estre à vous, & souffrirez vous bien.
 
 -*who_ismene
-Demandez à mon père.
+Demandez à mon pere.
 
 -*who_hipolite
       Et demandez au mien.
 
 -*who_eutrope
-Puis qu'il est si sincère, il a droit de prétendre
-Et le nom de mon fils, et le nom de mon gendre ;
+Puis qu'il est si sincere, il a droit de pretendre
+Et le nom de mon fils, & le nom de mon gendre ;
 Et si touchant sa fille Isidore m'en croit
 Envers l'autre Nicandre il fera ce qu'il doit.
 
 -*who_isidore
-Que Nicandre la Sponde, et foi de Philosophe,
-Je serai bénévole envers sa catastrophe ;
-C'est le coeur qui le dit, et s'il est trop obscur
+Que Nicandre la Sponde, & foy de Philosophe,
+Je seray Benevole envers sa catastrophe ;
+C'est le cœur qui le dit, & s'il est trop obscur
 Ex abundantia cordis os loquitur.
 
--*who_lepremiernicandre
-Quelles grâces vous rendre ! Une gloire parfaite...
+-*who_premier_nicandre
+Quelles graces vous rendre ! Une gloire parfaite…
 
--*who_robin
-Tournez-moi les talons, votre besogne est faite
-Monsieur. Toi que dis-tu ?
-
--*who_jacinte
-      Moi ? Ce que tu voudras.
-
--*who_robin
-Je t'aime bien, et toi ?
+-*who_robin 
+Tournez-moy les talons, vostre besogne est faite
+Monsieur. Toy que dis-tu ?
 
 -*who_jacinte
-      Moi ? Je ne te hais pas.
+      Moy ? Ce que tu voudras.
 
 -*who_robin
-Je me veux marier aussi bien que mon maître,
-Et toi, dis ?
+Je t'ayme bien, & toy ?
 
 -*who_jacinte
-      Dis-tu moi ? Je voudrais déjà l'être.
+      Moy ? Je ne te hay pas.
 
 -*who_robin
-Je te veux, me veux-tu ? Concluons tout ici.
+Je me veux marier aussi bien que mon Maistre,
+Et toy, dy ?
 
 -*who_jacinte
-Ma foi, si tu me veux, je te veux bien aussi.
+      Dis-tu moy ? Je voudrois déjà l'estre.
 
 -*who_robin
-Toque-là.
+Je te veux, me veux-tu ? Concluons tout icy.
 
 -*who_jacinte
-      Tiens.
+Ma foy, si tu me veux, je te veux bien aussi.
 
 -*who_robin
-      Et vous avant votre sortie
-Allez dans une chambre y conter votre vie,
-Et faites qu'en tous lieux on vous loue en ce point
-Qu'on vous a crû MENTEURS, et vous ne MENTIEZ POINT.
+Tocque-là.
+
+-*who_jacinte
+      Tien.
+
+-*who_robin
+      Et vous avant vostre sortie
+Allez dans une Chambre y conter vostre vie,
+Et faites qu'en tous lieux on vous louë en ce point
+Qu'on vous a crû MENTEURS, & vous ne MENTIEZ POINT.
+
+**** *book_ *id_body-7 *date_1665 *creator_boursault
+
+Extraict du privilege du Roy.
+
+Par Grace et Privilege du Roy, donné à Paris le dernier Octobre 1664.
+Signé, Par le Roy en son Conseil, GUITONNEAU. Il est permis à Nicolas Pepingué, Imprimeur et Marchand Libraire à Paris, d'imprimer, faire imprimer, vendre et debiter une Piece de Theatre, intitulée, Les Deux Freres Gemeaux, ou les Menteurs qui ne mentent point, pendant le temps & espace de sept années, à commencer du jour que ladite Piece sera achevée d'imprimer pour la premiere fois ; Et deffenses sont faites à toutes personnes de quelque qualité & condition qu'elles soient, d'imprimer, ny faire imprimer, vendre & debiter ladite Piece sans le consentement de l'Exposant, ou de ceux qui auront droict de luy, à peine de trois mil livres d'amende, confiscation des exemplaires, despens, dommages & interests, ainsi que plus au long il est porté audit Privilege.
+
+Et ledit N. Pepingué a associé audit present Privilege Thomas Jolly, Guillaume de Luynes, & Gabriel Quinet, pour en joüir suivant l'accord fait entr'eux.
+
+Registré sur le Livre de la Communauté, suivant l'Arrest de la Cour.
+Signé E. MARTIN, Syndic.
+
+Achevé d'imprimer pour la premiere fois Le 5.
+Decembre 1664.
+
+Les Exemplaires ont esté fournis.

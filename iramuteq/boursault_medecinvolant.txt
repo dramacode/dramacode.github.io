@@ -27,12 +27,12 @@ Sans choquer son honneur, essayez de la voir.
 Il n'est pas de moyens que l'amour n'autorise.
 Surtout. Mais du vieillard je crains une surprise :
 Adieu, pensez à vous, et vous ressouvenez
-Qu'il n'est rien d'impossible aux curs passionnés.
+Qu'il n'est rien d'impossible aux cœurs passionnés.
 
 **** *book_ *id_I02 *act_I *date_1694 *creator_boursault
 
 -*who_cleon
-Aux curs passionnés il n'est rien d'impossible.
+Aux cœurs passionnés il n'est rien d'impossible.
 Je l'avoue ; et je trouve un moyen infaillible
 De donner à mon âme un moment de repos :
 Il faut. Mais, ô Crispin, que tu viens à propos !

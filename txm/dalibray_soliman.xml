@@ -78,13 +78,13 @@
         <p>Page 101. Que la Reyne a formé par ce fils innocent.lisez, pour ce fils.</p>
         <p>Page 105. Et seul à sa malice ay fourny de matiere. Lisez, l’ay seul, etc…</p>
       </div>
-      <div xml:id="privilege">
+      <div xml:id="privilege" type="privilege">
         <head>Privilege du Roy.</head>
         <p>Louis par la grace de Dieu Roy de France et de Navarre, A nos amez et feaux les gens tenans nos Cours de Parlement, Baillifs, Seneschaux, Prevots, Juges, ou leurs Lieutenans, et à chacun d’eux en droict foy, Salut. Nostre cher et bien-amé <hi rend="i">le sieur Dalibray</hi>, nous a fait remonstrer, qu’il desireroit imprimer et mettre en lumiere une Tragi-Comédie, intitulée, <hi rend="i">Le Soliman</hi>, par lui composée: mais craignant que l’Impression ne luy soit dommageable si d’autres que luy s’ingeroient de le faire imprimer, il nous a requis nos Lettres sur ce necessaires. A ces causes, Nous avons permis, et octroyé, permetons et octroyons audit sieur Dalibray d’imprimer ou faire imprimer ladite Tragi-Comédie, par tels Libraires que bon luy semblera, et qui auront droit de luy, icelle vendre et <ref target="#exposer2">exposer*</ref> durant sept années, pendant lequel temps nous avons fait et faisons tres-expresses inhibitions et deffenses à tous autres Libraires et Imprimeurs de la faire Imprimer, vendre, ny debiter, sur peine de perte des exemplaires, et de cinq cens livres d’amende, despens, dommage et interests: Et afin qu’ils n’en pretendent cause d’ignorance, Nous voulons qu’en faisant mettre en fin des exemplaires autant des presentes, elles soient tenues pour certifiées. A la charge toutesfois de mettre deux exemplaires de ladite Tragi-Comedie dans nostre Biblioteque des Cordeliers à Paris et un exemplaire d’icelle és mains de nostre amé et feal256 Chevalier Chancelier Garde des Seaux de France, le sieur Seguier Dautruy. Car tel est notre plaisir. Donné à Paris le vingt-septiesme jour de Fevrier l’an de grace, mil six cens trent-sept. Et de nostre regne le vingt-septiesme. Par le Roy en son <ref target="#conseil2">Conseil*</ref>, PETIT. Et scellé du grand seau de cire jaune.</p>
         <p>Achevé d’imprimer le 30. Juin 1637</p>
         <p rend="i">Et ledit sieur Dalibray a cedé et transporté le present Privilège à Toussainct Quinet Marchand Libraire, pour jouyr du contenu porté par iceluy, ainsi qu’il a esté accordé entre-eux</p>
       </div>
-      <div>
+      <div type="set">
         <head>LES ACTEURS</head>
       </div>
       <div type="act" xml:id="I">

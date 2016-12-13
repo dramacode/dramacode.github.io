@@ -1,8 +1,52 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Livret du « Bourgeois gentilhomme », comédie-ballet</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <date when="2014"/>
+        <publisher>LABEX OBVIL</publisher>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_bourgeois-gentilhomme-livret/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1671"/>
+      </creation>
+      <langUsage>
+        <language ident="FR"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body rend="not-i">
-      <div/>
+      <head>LIVRET DU « BOURGEOIS GENTILHOMME » <lb/>Comédie-Ballet</head>
       <div>
+        <head>L’OUVERTURE</head>
+      </div>
+      <div>
+        <head>DANS LE PREMIER ACTE.</head>
         <sp who="mademoiselle-hilaire">
           <l n="1" xml:id="l1">Je languis nuit et jour, et mon mal est extrême</l>
           <l n="2" xml:id="l2">Depuis qu’à vos rigueurs vos beaux yeux m’ont soumis ;</l>
@@ -86,6 +130,7 @@
         </sp>
       </div>
       <div>
+        <head>DANS LE SECOND ACTE.</head>
         <sp who="grille morel">
           <lg>
             <l n="44" xml:id="l44">Un petit doigt, Philis, pour commencer le tour,</l>
@@ -132,6 +177,7 @@
         </sp>
       </div>
       <div>
+        <head>DANS LE TROISIÈME ACTE</head>
         <sp who="le-mufti">
           <lg>
             <l n="74" xml:id="l74">Seti sabir</l>
@@ -198,7 +244,9 @@
         <sp who="les-turcs"/>
       </div>
       <div>
+        <head>BALLET DES NATIONS</head>
         <div>
+          <head>PREMIÈRE ENTRÉE</head>
           <sp who="tous">
             <l n="104" xml:id="l104">À Moi, Monsieur, à moi de grâce, à moi Monsieur,</l>
             <l n="105" xml:id="l105">Un Livre, s’il vous plaît, à votre serviteur.</l>
@@ -352,8 +400,11 @@
             <l n="215" xml:id="l215">Un Livre, s’il vous plaît, à votre serviteur.</l>
           </sp>
         </div>
-        <div/>
         <div>
+          <head>SECONDE ENTRÉE.</head>
+        </div>
+        <div>
+          <head>TROISIÈME ENTRÉE.</head>
           <sp who="morel">
             <lg>
               <l n="216" xml:id="l216">Se que me muera dé amor</l>
@@ -415,6 +466,7 @@
           </sp>
         </div>
         <div>
+          <head>QUATRIÈME ENTRÉE.</head>
           <sp who="mademoiselle-hilaire">
             <lg>
               <l n="255" xml:id="l255">Di rigori armata il seno</l>
@@ -468,6 +520,7 @@
           </sp>
         </div>
         <div>
+          <head>CINQUIÈME ENTRÉE.</head>
           <sp who="noblet">
             <l n="288" xml:id="l288">Ah ! qu’il fait beau dans ces bocages,</l>
             <l n="289" xml:id="l289">Ah ! que le Ciel donne un beau jour.</l>
@@ -495,6 +548,7 @@
           </sp>
         </div>
         <div>
+          <head>SIXIÈME ENTRÉE.</head>
           <l n="307" xml:id="l307">Quels Spectacles charmants, quels plaisirs goûtons-nous,</l>
           <l n="308" xml:id="l308">Les Dieux mêmes, les Dieux, n’en ont point de plus doux.</l>
         </div>

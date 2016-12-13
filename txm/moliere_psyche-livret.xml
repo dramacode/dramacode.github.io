@@ -1,8 +1,52 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Livret de « Psyché », tragicomédie-ballet</title>
+        <author key="Molière (1622-1673)">Molière</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Oriane Morvan</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Frédéric Glorieux</name>
+          <resp>Informatique éditoriale (conversions, validation)</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <date when="2016"/>
+        <publisher>LABEX OBVIL</publisher>
+        <availability status="restricted">
+          <licence target="projet-Molière"/>
+        </availability>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_psyche-livret/</idno>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1671"/>
+      </creation>
+      <langUsage>
+        <language ident="FR"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
   <text>
     <body>
-      <div/>
+      <head>Livret de ballet de PSYCHÉ</head>
       <div>
+        <head>DESCRIPTION DE LA SALLE.</head>
+      </div>
+      <div>
+        <head>PROLOGUE.</head>
         <sp who="flore">
           <l n="1" xml:id="l1">Ce n’est plus le temps de la Guerre ;</l>
           <l n="2" xml:id="l2">Le plus puissant des Rois</l>
@@ -85,25 +129,34 @@
           <l n="55" xml:id="l55">Venez nous donner de beaux Jours.</l>
         </sp>
       </div>
-      <div/>
       <div>
+        <head>NOMS DES ACTEURS.</head>
+      </div>
+      <div>
+        <head>ARGUMENT DU PREMIER ACTE.</head>
         <div>
+          <head>SCÈNE PREMIÈRE.</head>
           <p>Les deux Sœurs de Psyché expriment la jalousie qu’elles ont contre leur Cadette.</p>
         </div>
         <div>
+          <head>SCÈNE SECONDE.</head>
           <p>Elles veulent se rendre agréable à Cléomène, et à Agénor, deux jeunes Princes Amis ; mais elles les découvrent l’un et l’autre amoureux de Psyché.</p>
         </div>
         <div>
+          <head>SCÈNE TROISIÈME.</head>
           <p>Les deux Princes déclarent leur amour à Psyché.</p>
         </div>
         <div>
+          <head>SCÈNE QUATRIÈME.</head>
           <p>Lycas avec douleur vient chercher Psyché de la part du Roi son Père.</p>
         </div>
         <div>
+          <head>SCÈNE CINQUIÈME.</head>
           <p>Les deux Sœurs apprennent de Lycas la réponse funeste que l’Oracle a rendue au Roi sur la destinée de Psyché.</p>
         </div>
       </div>
       <div>
+        <head>PREMIER INTERMÈDE.</head>
         <sp who="mademoiselle-hylaire">
           <l n="56" xml:id="l56">Deh piagete al pianto mio</l>
           <l n="57" xml:id="l57">Sassi duri, antiche selve,</l>
@@ -222,17 +275,22 @@
         </sp>
       </div>
       <div>
+        <head>ARGUMENT DU II<hi rend="sup">e</hi> ACTE.</head>
         <div>
+          <head>SCÈNE PREMIÈRE.</head>
           <p>Le Père de Psyché fait éclater sa douleur, et lui dit le dernier adieu.</p>
         </div>
         <div>
+          <head>SCÈNE SECONDE.</head>
           <p>Les deux Sœurs prennent aussi congé de Psyché.</p>
         </div>
         <div>
+          <head>SCÈNE TROISIÈME.</head>
           <p>Les deux Princes viennent trouver Psyché pour s’opposer ou s’exposer à tous les périls qui la pourront menacer. [en marge : Enlèvement de Psyché.] Elle est enfin enlevée par le Zéphire, qui la fait emporter sur un amas de nuages par un Tourbillon de vent. Les deux Princes qui la perdent de vue s’abandonnent au désespoir.</p>
         </div>
       </div>
       <div>
+        <head>SECOND INTERMÈDE.</head>
         <sp who="vulcain">
           <lg>
             <l n="122" xml:id="l122">Dépêchez, préparez ces Lieux,</l>
@@ -258,17 +316,22 @@
         </sp>
       </div>
       <div>
+        <head>ARGUMENT DU III<hi rend="sup">e</hi> ACTE.</head>
         <div>
+          <head>SCÈNE PREMIÈRE.</head>
           <p>Le Zéphire, Confident de l’Amour, lui rend compte de la commission qu’il a eue d’enlever Psyché.</p>
         </div>
         <div>
+          <head>SCÈNE SECONDE.</head>
           <p>Psyché témoigne son étonnement à la vue de ce superbe Palais, qui s’accorde si mal avec ce qu’elle attend.</p>
         </div>
         <div>
+          <head>SCÈNE TROISIÈME.</head>
           <p>L’Amour, sans se faire connaître, lui découvre sa passion que Psyché reçoit favorablement. Elle lui demande à voir ses Sœurs, l’Amour lui promet de les faire venir, et en donne l’ordre au Zéphire, qui traverse en l’air tout le Théâtre, et s’envole dans les Nuages par un mouvement rapide.</p>
         </div>
       </div>
       <div>
+        <head>TROISIÈME INTERMÈDE.</head>
         <sp who="zephir">
           <l n="139" xml:id="l139">Aimable Jeunesse,</l>
           <l n="140" xml:id="l140">Suivez la Tendresse,</l>
@@ -356,47 +419,64 @@
         </sp>
       </div>
       <div>
+        <head>ARGUMENT DU IV<hi rend="sup">e</hi> ACTE.</head>
         <div>
+          <head>SCÈNE PREMIÈRE.</head>
           <p>Les deux Sœurs de Psyché s’étonnent à la vue de toutes les Merveilles qu’elles rencontrent, et la félicité de Psyché redouble leur jalousie contre Elle.</p>
         </div>
         <div>
+          <head>SCÈNE SECONDE.</head>
           <p>Elles profitent de la bonne foi de Psyché, et lorsqu’elles s’en doivent séparer, le Zéphire les enlève par un Nuage en globe qui descend du Ciel, et qui s’allonge jusqu’à Terre : [en marge : Enlèvement des deux sœurs.] Ce Nuage enveloppe les deux Sœurs, et s’étant étendu sur toute la largeur du Théâtre, il les emporte avec rapidité.</p>
         </div>
         <div>
+          <head>SCÈNE TROISIÈME.</head>
           <p>Psyché malgré la résistance de l’Amour veut savoir ce qu’il en est ; l’Amour lié par un serment est contraint de se découvrir, et part en colère pour retourner au Ciel. Dans l’instant qu’il s’envole, le superbe Jardin s’évanouit, et Psyché se trouve [en marge : Le Théâtre est une Campagne.] seule au milieu d’une vaste Campagne, et sur le bord sauvage d’une grande Rivière.</p>
         </div>
         <div>
+          <head>SCÈNE QUATRIÈME.</head>
           <p>Psyché au désespoir du départ de son Amant accuse sa curiosité, et se veut précipiter dans le Fleuve.</p>
         </div>
         <div>
+          <head>SCÈNE CINQUIÈME.</head>
           <p>Le Dieu du Fleuve paraît assis sur un amas de Joncs et de Roseaux, et appuyé sur une grande Urne d’où sort une grosse source d’eau. Il retient Psyché, et l’avertit que Vénus la cherche.</p>
         </div>
         <div>
+          <head>SCÈNE SIXIÈME.</head>
           <p>Vénus fait des reproches à Psyché qui essaie de s’excuser. La Déesse irritée lui ordonne de la suivre pour éprouver sa constance.</p>
         </div>
       </div>
-      <div/>
       <div>
+        <head>IV<hi rend="sup">E</hi> INTERMÈDE.</head>
+      </div>
+      <div>
+        <head>ARGUMENT DU V<hi rend="sup">e</hi> ACTE.</head>
         <div>
+          <head>SCÈNE PREMIÈRE.</head>
           <p>Psyché dans une Barque, et après plusieurs travaux, paraît avec la Boite qu’elle a été prendre dans les Enfers par l’ordre de Vénus.</p>
         </div>
         <div>
+          <head>SCÈNE SECONDE.</head>
           <p>Elle trouve les Ombres des deux Princes ses Amants, que le désespoir avait fait mourir.</p>
         </div>
         <div>
+          <head>SCÈNE TROISIÈME.</head>
           <p>Psyché sans songer au malheur que lui avait produit sa première curiosité, veut essayer sur elle la vertu de ce qu’elle porte dans la Boite, et en l’ouvrant, elle tombe évanouie.</p>
         </div>
         <div>
+          <head>SCÈNE QUATRIÈME.</head>
           <p>[en marge : Descente de l’Amour.] L’Amour descend en volant, et vient promptement au secours de Psyché, il la croit morte, et s’abandonne au désespoir.</p>
         </div>
         <div>
+          <head>SCÈNE CINQUIÈME.</head>
           <p>[Chœur de Vénus.] Vénus paraît en l’Air sur son Char, et la Mère et le Fils s’emportent l’un contre l’autre.</p>
         </div>
         <div>
+          <head>SCÈNE SIXIÈME.</head>
           <p>Jupiter s’avance pour arrêter leurs emportements, [en marge : Machine de Jupiter.] lorsque Vénus l’aperçoit, elle se retire vers l’un des côtés du Théâtre, Jupiter met enfin d’accord Vénus et son Fils, et commande à l’Amour d’enlever Psyché au Ciel, pour y célébrer leurs Noces.</p>
         </div>
       </div>
       <div>
+        <head>DERNIER INTERMÈDE.</head>
         <sp who="apollon">
           <l n="200" xml:id="l200">Unissons-Nous, Troupe immortelle ;</l>
           <l n="201" xml:id="l201">Le Dieu d’Amour devient heureux Amant,</l>

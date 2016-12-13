@@ -22,12 +22,6 @@ class Dramacode
       "identifier" => "http://obvil.paris-sorbonne.fr/corpus/moliere/%s",
       "source" => "http://dramacode.github.io/moliere/%s.xml",
     ),
-    "bibdramatique" => array(
-      "glob" => '../bibdramatique/*.xml',
-      "publisher" => "CELLF, Bibliothèque dramatique",
-      "identifier" => "http://bibdramatique.paris-sorbonne.fr/%s",
-      "source" => "http://dramacode.github.io/bibdramatique/%s.xml",
-    ),
     "tc" => array(
       "glob" => '
         ../tcp5/boisrobert_*.xml
@@ -50,6 +44,12 @@ class Dramacode
       "publisher" => "Théâtre Classique",
       "identifier" => "http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/%s.xml",
       "source" => "http://dramacode.github.io/tcp5/%s.xml",
+    ),
+    "bibdramatique" => array(
+      "glob" => '../bibdramatique/*.xml',
+      "publisher" => "CELLF, Bibliothèque dramatique",
+      "identifier" => "http://bibdramatique.paris-sorbonne.fr/%s",
+      "source" => "http://dramacode.github.io/bibdramatique/%s.xml",
     ),
   );
   static $formats = array(
@@ -304,6 +304,36 @@ CREATE INDEX play_setcode ON play(setcode);
   }
 
   /**
+   * Sortir le catalogue en table html
+   */
+  public function csv() {
+    $i = 1;
+    echo "CODE\tAUTEU\tDATE\tTITRE\tGENRE\tVERS\tACTES\tÉDITION\n";
+    foreach ($this->pdo->query("SELECT * FROM play ORDER BY creator, date") as $play) {
+      $set = self::$sets[$play['setcode']];
+      echo $play['code'];
+      echo "\t";
+      echo $play['creator'];
+      echo "\t";
+      echo $play['date'];
+      echo "\t";
+      echo $play['title'];
+      echo "\t";
+      if ($play['genrecode'] == 'tragedy') echo 'Tragédie';
+      else if ($play['genrecode'] == 'comedy') echo 'Comédie';
+      else echo $play['genre'];
+      echo "\t";
+      echo $play['verse']?"vers":"prose";
+      echo "\t";
+      echo $play['acts'];
+      echo "\t";
+      echo $play['identifier'];
+      echo "\n";
+      $i++;
+    }
+  }
+
+  /**
    * Connexion à la base
    */
   private function connect($sqlite) {
@@ -398,6 +428,8 @@ CREATE INDEX play_setcode ON play(setcode);
       foreach(self::$sets as $setcode=>$setrow) {
         foreach(preg_split('@\s+@', $setrow['glob']) as $glob) {
           foreach(glob($glob) as $file) {
+            // attention au "livret" de Molière
+            if ( strpos( $file, "-livret") !== false ) continue;
             $base->add($file, $setcode);
           }
         }
