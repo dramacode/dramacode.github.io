@@ -1,0 +1,3101 @@
+
+
+**** *book_ *id_I01 *act_I *date_1733
+
+-*who_dorante
+Eh bien !
+Maître Blaise, que me veux-tu ?
+Parle, puis-je te rendre quelque service ?
+
+-*who_blaise
+Oh dame !
+Comme ce dit l'autre, ou en êtes bian capable.
+
+-*who_dorante
+De quoi s'agit-il ?
+
+-*who_blaise
+Morgué !
+Velà bian Monsieur Dorante, quand faut sarvir le monde, jarnicoton !
+Ça ne barguine point.
+Que ça est agriable !
+Le biau naturel d'homme !
+
+-*who_dorante
+Voyons ; je serai charmé de t'être utile.
+
+-*who_blaise
+Oh !
+Point du tout, Monsieur, c'est vous qui charmez les autres.
+
+-*who_dorante
+Explique-toi.
+
+-*who_blaise
+Boutez d'abord dessus.
+
+-*who_dorante
+Non, je ne me couvre jamais.
+
+-*who_blaise
+C'est bian fait à vous ; moi, je me couvre toujours ; ce n'est pas mal fait non pus.
+
+-*who_dorante
+Parle...
+
+-*who_blaise
+Eh !
+Eh bian !
+Qu'est-ce ?
+Comment vous va, Monsieur Dorante ?
+Toujours gros et gras.
+J'ons vu le temps que vous étiez mince ; mais, morgué ! ça s'est bian amendé.
+Vous velà bian en char.
+
+-*who_dorante
+Tu avais, ce me semble, quelque chose à me dire ; entre en matière sans compliment.
+
+-*who_blaise
+Oh !
+C'est un petit bout de civilité en passant, comme ça se doit.
+
+-*who_dorante
+C'est que j'ai affaire.
+
+-*who_blaise
+Morgué !
+Tant pis ; les affaires baillont du souci.
+
+-*who_dorante
+Dans un moment, il faut que je te quitte : achève.
+
+-*who_blaise
+Je commence.
+C'est que je venons par rapport à noute fille, pour l'amour de ce qu'alle va être la femme d'Arlequin voute valet.
+
+-*who_dorante
+Je le sais.
+
+-*who_blaise
+Dont je savons qu'ou êtes consentant, à cause qu'alle est femme de chambre de Madame la Comtesse qui va vous prendre itou pour son homme.
+
+-*who_dorante
+Après ?
+
+-*who_blaise
+C'est ce qui fait, ne vous déplaise, que je venons vous prier d'une grâce.
+
+-*who_dorante
+Quelle est-elle ?
+
+-*who_blaise
+C'est que faura le troussiau de Lisette, Monsieur Dorante ; faura faire une noce, et pis du dégât pour cette noce, et pis de la marchandise pour ce dégât, et du comptant pour cette marchandise.
+Partout du comptant, hors cheux nous qu'il n'y en a point.
+Par ainsi, si par voute moyen auprès de Madame la Comtesse, qui m'avancerait queuque six-vingts francs sur mon office de jardinier...
+
+-*who_dorante
+Je t'entends, Maître Blaise ; mais j'aime mieux te les donner, que de les demander pour toi à la Comtesse, qui ne ferait pas aujourd'hui grand cas de ma prière.
+Tu crois que je vais l'épouser, et tu te trompes.
+Je pense que le chevalier Damis m'a supplanté.
+Adresse-toi à lui : si tu n'obtiens rien, je te ferai l'argent dont tu as besoin.
+
+-*who_blaise
+Par la morgué, ce que j'entends là me dérange de vous remarcier, tant je sis surprins et stupéfait.
+Un brave homme comme vous, qui a une mine de prince, qui a le coeur de m'offrir de l'argent, se voir délaissé de la propre parsonne de sa maîtresse !...
+Ça ne se peut pas, Monsieur, ça ne se peut pas.
+C'est noute enfant que la Comtesse ; c'est défunte noute femme qui l'a norrie : noute femme avait de la conscience ; faut que sa norriture tianne d'elle.
+Ne craignez rin, reboutez voute esprit ; n'y a ni Chevalier ni cheval à ça.
+
+-*who_dorante
+Ce que je te dis n'est que trop vrai, Maître Blaise.
+
+-*who_blaise
+Jarniguienne !
+Si je le croyais, je sis homme à li représenter sa faute.
+Une Comtesse que j'ons vue marmotte !
+Vous plaît-il que je l'exhortise ?
+
+-*who_dorante
+Eh !
+Que lui dirais-tu, mon enfant ?
+
+-*who_blaise
+Ce que je li dirais, morgué !
+Ce que je li dirais ?
+Et qu'est-ce que c'est que ça, Madame, et qu'est-ce que c'est que ça !
+Velà ce que je li dirais, voyez-vous !
+Car, par la sangué !
+J'ons barcé cette enfant-là, entendez-vous ?
+Ça me baille un grand parvilége.
+
+-*who_dorante
+Voici Arlequin bien triste ; qu'a-t-il à m'apprendre ?
+
+**** *book_ *id_I02 *act_I *date_1733
+
+-*who_arlequin
+Ouf !
+
+-*who_dorante
+Qu'as-tu ?
+
+-*who_arlequin
+Beaucoup de chagrin pour vous, et à cause de cela, quantité de chagrin pour moi ; car un bon domestique va comme son maître.
+
+-*who_dorante
+Eh bien ?
+
+-*who_blaise
+Qui est-ce qui vous fâche ?
+
+-*who_arlequin
+Il faut se préparer à l'affliction, Monsieur ; selon toute apparence, elle sera considérable.
+
+-*who_dorante
+Dis donc.
+
+-*who_arlequin
+J'en pleure d'avance, afin de m'en consoler après.
+
+-*who_blaise
+Morgué !
+Ça m'attriste itou.
+
+-*who_dorante
+Parleras-tu ?
+
+-*who_arlequin
+Hélas !
+Je n'ai rien à dire ; c'est que je devine que vous serez affligé, et je vous pronostique votre douleur.
+
+-*who_dorante
+On a bien affaire de ton pronostic !
+
+-*who_blaise
+À quoi sart d'être oisiau de mauvais augure ?
+
+-*who_arlequin
+C'est que j'étais tout à l'heure dans la salle, où j'achevais...
+Mais passons cet article.
+
+-*who_dorante
+Je veux tout savoir.
+
+-*who_arlequin
+Ce n'est rien...
+Qu'une bouteille de vin qu'on avait oubliée, et que j'achevais d'y boire, quand j'ai entendu la Comtesse qui allait y entrer avec le Chevalier.
+
+-*who_dorante
+Après ?
+
+-*who_arlequin
+Comme elle aurait pu trouver mauvais que je buvais en fraude, je me suis sauvé dans l'office avec ma bouteille : d'abord, j'ai commencé par la vider pour la mettre en sûreté.
+
+-*who_blaise
+Ça est naturel.
+
+-*who_dorante
+Eh !
+Laisse là ta bouteille, et me dis ce qui me regarde.
+
+-*who_arlequin
+Je parle de cette bouteille parce qu'elle y était ; je ne voulais pas l'y mettre.
+
+-*who_blaise
+Faut la laisser là, pisqu'alle est bue.
+
+-*who_arlequin
+La voilà donc vide ; je l'ai mise à terre.
+
+-*who_dorante
+Encore ?
+
+-*who_arlequin
+Ensuite, sans mot dire, j'ai regardé à travers la serrure...
+
+-*who_dorante
+Et tu as vu la Comtesse avec le Chevalier dans la salle ?
+
+-*who_arlequin
+Bon !
+Ce maudit serrurier n'a-t-il pas fait le trou de la serrure si petit, qu'on ne peut rien voir à travers ?
+
+-*who_blaise
+Morgué !
+Tant pis.
+
+-*who_dorante
+Tu ne peux donc pas être sûr que ce fût la Comtesse ?
+
+-*who_arlequin
+Si fait ; car mes oreilles ont reconnu sa parole, et sa parole n'était pas là sans sa personne.
+
+-*who_blaise
+Ils ne pouviont pas se dispenser d'être ensemble.
+
+-*who_dorante
+Eh bien !
+Que se disaient-ils ?
+
+-*who_arlequin
+Hélas !
+Je n'ai retenu que les pensées, j'ai oublié les paroles.
+
+-*who_dorante
+Dis-moi donc les pensées !
+
+-*who_arlequin
+Il faudrait en savoir les mots.
+Mais, Monsieur, ils étaient ensemble, ils riaient de toute leur force ; ce vilain Chevalier ouvrait une bouche plus large...
+Ah !
+Quand on rit tant, c'est qu'on est bien gaillard !
+
+-*who_blaise
+Eh bian !
+C'est signe de joie ; velà tout.
+
+-*who_arlequin
+Oui ; mais cette joie-là a l'air de nous porter malheur.
+Quand un homme est si joyeux, c'est tant mieux pour lui, mais c'est toujours tant pis pour un autre (montrant son maître), et voilà justement l'autre !
+
+-*who_dorante
+Eh ! laisse-nous en repos.
+As-tu dit à la Marquise que j'avais besoin d'un entretien avec elle ?
+
+-*who_arlequin
+Je ne me souviens pas si je lui ai dit ; mais je sais bien que je devais lui dire.
+
+**** *book_ *id_I03 *act_I *date_1733
+
+-*who_lisette
+Monsieur, je ne sais pas comment vous l'entendez, mais votre tranquillité m'étonne ; et si vous n'y prenez garde, ma maîtresse vous échappera.
+Je puis me tromper ; mais j'en ai peur.
+
+-*who_dorante
+Je le soupçonne aussi, Lisette ; mais que puis-je faire pour empêcher ce que tu me dis là ?
+
+-*who_blaise
+Mais, morgué !
+Ça se confirme donc, Lisette ?
+
+-*who_lisette
+Sans doute : le Chevalier ne la quitte point ; il l'amuse, il la cajole, il lui parle tout bas ; elle sourit : à la fin le coeur peut s'y mettre, s'il n'y est déjà ; et cela m'inquiète, Monsieur ; car je vous estime ; d'ailleurs, voilà un garçon qui doit m'épouser, et si vous ne devenez pas le maître de la maison, cela nous dérange.
+
+-*who_arlequin
+Il serait désagréable de faire deux ménages.
+
+-*who_dorante
+Ce qui me désespère, c'est que je n'y vois point de remède ; car la Comtesse m'évite.
+
+-*who_blaise
+Mordi !
+C'est pourtant mauvais signe.
+
+-*who_arlequin
+Et ce misérable Frontin, que te dit-il, Lisette ?
+
+-*who_lisette
+Des douceurs tant qu'il peut, que je paie de brusqueries.
+
+-*who_blaise
+Fort bian, noute fille : toujours malhonnête envars li, toujours rudânière : hoche la tête quand il te parle ; dis-li : Passe ton chemin.
+De la fidélité, morguienne ; baille cette confusion-là à la Comtesse, n'est-ce pas, Monsieur ?
+
+-*who_dorante
+Je me meurs de douleur !
+
+-*who_blaise
+Faut point mourir, ça gâte tout ; avisons plutôt à queuque manigance.
+
+-*who_lisette
+Je l'aperçois qui vient, elle est seule ; retirez-vous, Monsieur, laissez-moi lui parler.
+Je veux savoir ce qu'elle a dans l'esprit ; je vous redirai notre conversation ; vous reviendrez après.
+
+-*who_dorante
+Je te laisse.
+
+-*who_arlequin
+Ma mie, toujours rudânière, hoche la tête quand il te parle.
+
+-*who_lisette
+Va, sois tranquille.
+
+**** *book_ *id_I04 *act_I *date_1733
+
+-*who_lacomtese
+Je te cherchais, Lisette.
+Avec qui étais-tu là ?
+Il me semble avoir vu sortir quelqu'un d'avec toi.
+
+-*who_lisette
+C'est Dorante qui me quitte, Madame.
+
+-*who_lacomtese
+C'est lui dont je voulais te parler : que dit-il, Lisette ?
+
+-*who_lisette
+Mais il dit qu'il n'a pas lieu d'être content, et je crois qu'il dit assez juste : qu'en pensez-vous, Madame ?
+
+-*who_lacomtese
+Il m'aime donc toujours ?
+
+-*who_lisette
+Comment ?
+S'il vous aime !
+Vous savez bien qu'il n'a point changé.
+Est-ce que vous ne l'aimez plus ?
+
+-*who_lacomtese
+Qu'appelez-vous plus ?
+Est-ce que je l'aimais ?
+Dans le fond, je le distinguais, voilà tout ; et distinguer un homme, ce n'est pas encore l'aimer, Lisette ; cela peut y conduire, mais cela n'y est pas.
+
+-*who_lisette
+Je vous ai pourtant entendu dire que c'était le plus aimable homme du monde.
+
+-*who_lacomtese
+Cela se peut bien.
+
+-*who_lisette
+Je vous ai vue l'attendre avec empressement.
+
+-*who_lacomtese
+C'est que je suis impatiente.
+
+-*who_lisette
+Être fâchée quand il ne venait pas.
+
+-*who_lacomtese
+Tout cela est vrai ; nous y voilà : je le distinguais, vous dis-je, et je le distingue encore ; mais rien ne m'engage avec lui ; et comme il te parle quelquefois, et que tu crois qu'il m'aime, je venais te dire qu'il faut que tu le disposes adroitement à se tranquilliser sur mon chapitre.
+
+-*who_lisette
+Et le tout en faveur de Monsieur le chevalier Damis, qui n'a vaillant qu'un accent gascon qui vous amuse ?
+Que vous avez le coeur inconstant !
+Avec autant de raison que vous en avez, comment pouvez-vous être infidèle ?
+Car on dira que vous l'êtes.
+
+-*who_lacomtese
+Eh bien !
+Infidèle soit, puisque tu veux que je le sois ; crois-tu me faire peur avec ce grand mot-là ?
+Infidèle !
+Ne dirait-on pas que ce soit une grande injure ?
+Il y a comme cela des mots dont on épouvante les esprits faibles, qu'on a mis en crédit, faute de réflexion, et qui ne sont pourtant rien.
+
+-*who_lisette
+Ah !
+Madame, que dites-vous là ?
+Comme vous êtes aguerrie là-dessus !
+Je ne vous croyais pas si désespérée : un coeur qui trahit sa foi, qui manque à sa parole !
+
+-*who_lacomtese
+Eh bien !
+Ce coeur qui manque à sa parole, quand il en donne mille, il fait sa charge ; quand il en trahit mille, il la fait encore : il va comme ses mouvements le mènent, et ne saurait aller autrement.
+Qu'est-ce que c'est que l'étalage que tu me fais là ?
+Bien loin que l'infidélité soit un crime, c'est que je soutiens qu'il ne faut pas un moment hésiter d'en faire une, quand on en est tentée, à moins que de vouloir tromper les gens, ce qu'il faut éviter, à quelque prix que ce soit.
+
+-*who_lisette
+Mais, mais...
+De la manière dont vous tournez cette affaire-là, je crois, de bonne foi, que vous avez raison.
+Oui, je comprends que l'infidélité est quelquefois de devoir, je ne m'en serais jamais doutée !
+
+-*who_lacomtese
+Tu vois pourtant que cela est clair.
+
+-*who_lisette
+Si clair, que je m'examine à présent, pour savoir si je ne serai pas moi-même obligée d'en faire une.
+
+-*who_lacomtese
+Dorante est en vérité plaisant ; n'oserais-je, à cause qu'il m'aime, distraire un regard de mes yeux ?
+N'appartiendra-t-il qu'à lui de me trouver jeune et aimable ?
+Faut-il que j'aie cent ans pour tous les autres, que j'enterre tout ce que je vaux ?
+Que je me dévoue à la plus triste stérilité de plaisir qu'il soit possible ?
+
+-*who_lisette
+C'est apparemment ce qu'il prétend.
+
+-*who_lacomtese
+Sans doute ; avec ces Messieurs-là, voilà comment il faudrait vivre ; si vous les en croyez, il n'y a plus pour vous qu'un seul homme, qui compose tout votre univers ; tous les autres sont rayés, c'est autant de mort pour vous, quoique votre amour-propre n'y trouve point son compte, et qu'il les regrette quelquefois : mais qu'il pâtisse ; la sotte fidélité lui a fait sa part, elle lui laisse un captif pour sa gloire ; qu'il s'en amuse comme il pourra, et qu'il prenne patience.
+Quel abus, Lisette, quel abus !
+Va, va, parle à Dorante, et laisse là tes scrupules.
+Les hommes, quand ils ont envie de nous quitter, y font-ils tant de façons ?
+N'avons-nous pas tous les jours de belles preuves de leur constance ?
+Ont-ils là-dessus des privilèges que nous n'ayons pas ?
+Tu te moques de moi ; le Chevalier m'aime, il ne me déplaît pas : je ne ferai pas la moindre violence à mon penchant.
+
+-*who_lisette
+Allons, allons, Madame, à présent que je suis instruite, les amants délaissés n'ont qu'à chercher qui les plaigne ; me voilà bien guérie de la compassion que j'avais pour eux.
+
+-*who_lacomtese
+Ce n'est pas que je n'estime Dorante ; mais souvent, ce qu'on estime ennuie.
+Le voici qui revient.
+Je me sauve de ses plaintes qui m'attendent ; saisis ce moment pour m'en débarrasser.
+
+**** *book_ *id_I05 *act_I *date_1733
+
+-*who_dorante
+Quoi !
+Madame, j'arrive, et vous me fuyez ?
+
+-*who_lacomtese
+Ah !
+C'est vous, Dorante !
+Je ne vous fuis point, je m'en retourne.
+
+-*who_dorante
+De grâce, donnez-moi un instant d'audience.
+
+-*who_lacomtese
+Un instant à la lettre, au moins ; car j'ai peur qu'il ne me vienne compagnie.
+
+-*who_dorante
+On vous avertira, s'il vous en vient.
+Souffrez que je vous parle de mon amour.
+
+-*who_lacomtese
+N'est-ce que cela ?
+Je sais votre amour par coeur.
+Que me veut-il donc, cet amour ?
+
+-*who_dorante
+Hélas !
+Madame, de l'air dont vous m'écoutez, je vois bien que je vous ennuie.
+
+-*who_lacomtese
+À vous dire vrai, votre prélude n'est pas amusant.
+
+-*who_dorante
+Que je suis malheureux !
+Qu'êtes-vous devenue pour moi ?
+Vous me désespérez.
+
+-*who_lacomtese
+Dorante, quand quitterez-vous ce ton lugubre et cet air noir ?
+
+-*who_dorante
+Faut-il que je vous aime encore, après d'aussi cruelles réponses que celles que vous me faites !
+
+-*who_lacomtese
+Cruelles réponses !
+Avec quel goût prononcez-vous cela !
+Que vous auriez été un excellent héros de roman !
+Votre coeur a manqué sa vocation, Dorante.
+
+-*who_dorante
+Ingrate que vous êtes !
+
+-*who_lacomtesse
+Ce style-là ne me corrigera guère.
+
+-*who_arlequin
+Hi !
+Hi !
+Hi !
+
+-*who_lacomtese
+Tenez, Monsieur, vos tristesses sont si contagieuses qu'elles ont gagné jusqu'à votre valet : on l'entend qui soupire.
+
+-*who_arlequin
+Je suis touché du malheur de mon maître.
+
+-*who_dorante
+J'ai besoin de tout mon respect pour ne pas éclater de colère.
+
+-*who_lacomtese
+Eh !
+D'où vous vient de la colère, Monsieur ?
+De quoi vous plaignez-vous, s'il vous plaît ?
+Est-ce de l'amour que vous avez pour moi ?
+Je n'y saurais que faire.
+Ce n'est pas un crime de vous paraître aimable.
+Est-ce de l'amour que vous voudriez que j'eusse, et que je n'ai point ?
+Ce n'est pas ma faute, s'il ne m'est pas venu ; il vous est fort permis de souhaiter que j'en aie ; mais de venir me reprocher que je n'en ai point, cela n'est pas raisonnable.
+Les sentiments de votre coeur ne font pas la loi du mien ; prenez-y garde : vous traitez cela comme une dette, et ce n'en est pas une.
+Soupirez, Monsieur, vous êtes le maître, je n'ai pas droit de vous en empêcher ; mais n'exigez pas que je soupire.
+Accoutumez-vous à penser que vos soupirs ne m'obligent point à les accompagner des miens, pas même à m'en amuser : je les trouvais autrefois plus supportables ; mais je vous annonce que le ton qu'ils prennent aujourd'hui m'ennuie ; réglez-vous là-dessus.
+Adieu, Monsieur.
+
+-*who_dorante
+Encore un mot, Madame.
+Vous ne m'aimez donc plus ?
+
+-*who_lacomtese
+Eh !
+Eh !
+Plus est singulier !
+Je ne me ressouviens pas trop de vous avoir aimé.
+
+-*who_dorante
+Non !
+Je vous jure, ma foi, que je ne m'en ressouviendrai de ma vie non plus.
+
+-*who_lacomtese
+En tout cas, vous n'oublierez qu'un rêve.
+
+**** *book_ *id_I06 *act_I *date_1733
+
+-*who_dorante
+La perfide !...
+Arrête, Lisette.
+
+-*who_arlequin
+En vérité, voilà un petit coeur de Comtesse bien édifiant !
+
+-*who_dorante
+Tu lui as parlé de moi ; je ne sais que trop ce qu'elle pense ; mais, n'importe : que t'a-t-elle dit en particulier ?
+
+-*who_lisette
+Je n'aurai pas le temps : Madame attend compagnie, Monsieur, elle aura peut-être besoin de moi.
+
+-*who_arlequin
+Oh !
+Oh !
+Comme elle répond, Monsieur !
+
+-*who_dorante
+Lisette, m'abandonnez-vous ?
+
+-*who_arlequin
+Serais-tu, par hasard, une masque aussi ?
+
+-*who_dorante
+Parle, quelle raison allègue-t-elle ?
+
+-*who_lisette
+Oh !
+De très fortes, Monsieur ; il faut en convenir.
+La fidélité n'est bonne à rien ; c'est mal fait que d'en avoir ; de beaux yeux ne servent de rien, un seul homme en profite, tous les autres sont morts ; il ne faut tromper personne : avec cela on est enterrée, l'amour-propre n'a point sa part ; c'est comme si on avait cent ans.
+Ce n'est pas qu'on ne vous estime ; mais l'ennui s'y met : il vaudrait autant être vieille, et cela vous fait tort.
+
+-*who_dorante
+Quel étrange discours me tiens-tu là ?
+
+-*who_arlequin
+Je n'ai jamais vu de paroles de si mauvaise mine.
+
+-*who_dorante
+Explique-toi donc.
+
+-*who_lisette
+Quoi !
+Vous ne m'entendez pas ?
+Eh bien !
+Monsieur, on vous distingue.
+
+-*who_dorante
+Veux-tu dire qu'on m'aime ?
+
+-*who_lisette
+Eh !
+Non.
+Cela peut y conduire, mais cela n'y est pas.
+
+-*who_dorante
+Je n'y conçois rien.
+Aime-t-on le Chevalier ?
+
+-*who_lisette
+C'est un fort aimable homme.
+
+-*who_dorante
+Et moi, Lisette ?
+
+-*who_lisette
+Vous étiez fort aimable aussi : m'entendez-vous à cette heure ?
+
+-*who_dorante
+Ah !
+Je suis outré !
+
+-*who_arlequin
+Et de moi, suivante de mon âme, qu'en fais-tu ?
+
+-*who_lisette
+Toi ?
+Je te distingue...
+
+-*who_arlequin
+Et moi, je te maudis, chambrière du diable !
+
+**** *book_ *id_I07 *act_I *date_1733
+
+-*who_arlequin
+Nous avons affaire à de jolies personnes, Monsieur, n'est-ce pas ?
+
+-*who_dorante
+J'ai le coeur saisi !
+
+-*who_arlequin
+J'en perds la respiration !
+
+-*who_lamarquise
+Vous me paraissez bien affligé, Dorante.
+
+-*who_dorante
+On me trahit, Madame, on m'assassine, on me plonge le poignard dans le sein !
+
+-*who_arlequin
+On m'étouffe, Madame, on m'égorge, on me distingue !
+
+-*who_lamarquise
+C'est sans doute de la Comtesse dont il est question, Dorante ?
+
+-*who_dorante
+D'elle-même, Madame.
+
+-*who_lamarquise
+Pourrais-je vous demander un moment d'entretien ?
+
+-*who_dorante
+Comme il vous plaira ; j'avais même envie de vous parler sur ce qui nous vient d'arriver.
+
+-*who_lamarquise
+Dites à votre valet de se tenir à l'écart, afin de nous avertir si quelqu'un vient.
+
+-*who_dorante
+Retire-toi, et prends garde à tout ce qui approchera d'ici.
+
+-*who_arlequin
+Que le ciel nous console !
+Nous voilà tous trois sur le pavé : car vous y êtes aussi, vous, Madame.
+Votre Chevalier ne vaut pas mieux que notre Comtesse et notre Lisette, et nous sommes trois coeurs hors de condition.
+
+-*who_lamarquise
+Va-t-en ; laisse-nous.
+
+**** *book_ *id_I08 *act_I *date_1733
+
+-*who_lamarquise
+Dorante, on nous quitte donc tous deux ?
+
+-*who_dorante
+Vous le voyez, Madame.
+
+-*who_lamarquise
+N'imaginez-vous rien à faire dans cette occasion-ci ?
+
+-*who_dorante
+Non, je ne vois plus rien à tenter : on nous quitte sans retour.
+Que nous étions mal assortis, Marquise !
+Eh !
+Pourquoi n'est-ce pas vous que j'aime ?
+
+-*who_lamarquise
+Eh bien !
+Dorante, tâchez de m'aimer.
+
+-*who_dorante
+Hélas !
+Je voudrais pouvoir y réussir.
+
+-*who_lamarquise
+La réponse n'est pas flatteuse, mais vous me la devez dans l'état où vous êtes.
+
+-*who_dorante
+Ah !
+Madame, je vous demande pardon ; je ne sais ce que je dis : je m'égare.
+
+-*who_lamarquise
+Ne vous fatiguez pas à l'excuser, je m'y attendais.
+
+-*who_dorante
+Vous êtes aimable, sans doute, il n'est pas difficile de le voir, et j'ai regretté cent fois de n'y avoir pas fait assez d'attention ; cent fois je me suis dit...
+
+-*who_lamarquise
+Plus vous continuerez vos compliments, plus vous me direz d'injures : car ce ne sont pas là des douceurs, au moins.
+Laissons cela, vous dis-je.
+
+-*who_dorante
+Je n'ai pourtant recours qu'à vous, Marquise.
+Vous avez raison, il faut que je vous aime : il n'y a que ce moyen-là de punir la perfide que j'adore.
+
+-*who_lamarquise
+Non, Dorante, je sais une manière de nous venger qui nous sera plus commode à tous deux.
+Je veux bien punir la Comtesse, mais, en la punissant, je veux vous la rendre, et je vous la rendrai.
+
+-*who_dorante
+Quoi !
+La Comtesse reviendrait à moi ?
+
+-*who_lamarquise
+Oui, plus tendre que jamais.
+
+-*who_dorante
+Serait-il possible ?
+
+-*who_lamarquise
+Et sans qu'il vous en coûte la peine de m'aimer.
+
+-*who_dorante
+Comme il vous plaira.
+
+-*who_lamarquise
+Attendez pourtant ; je vous dispense d'amour pour moi, mais c'est à condition d'en feindre.
+
+-*who_dorante
+Oh !
+De tout mon coeur, je tiendrai toutes les conditions que vous voudrez.
+
+-*who_lamarquise
+Vous aimait-elle beaucoup ?
+
+-*who_dorante
+Il me le paraissait.
+
+-*who_lamarquise
+Était-elle persuadée que vous l'aimiez de même ?
+
+-*who_dorante
+Je vous dis que je l'adore, et qu'elle le sait.
+
+-*who_lamarquise
+Tant mieux qu'elle en soit sûre.
+
+-*who_dorante
+Mais du Chevalier, qui vous a quittée et qui l'aime, qu'en ferons-nous ?
+Lui laisserons-nous le temps d'être aimé de la Comtesse ?
+
+-*who_lamarquise
+Si la Comtesse croit l'aimer, elle se trompe : elle n'a voulu que me l'enlever.
+Si elle croit ne vous plus aimer, elle se trompe encore ; il n'y a que sa coquetterie qui vous néglige.
+
+-*who_dorante
+Cela se pourrait bien.
+
+-*who_lamarquise
+Je connais mon sexe ; laissez-moi faire.
+Voici comment il faut s'y prendre...
+Mais on vient ; remettons à concerter ce que j'imagine.
+
+**** *book_ *id_I09 *act_I *date_1733
+
+-*who_arlequin
+Ah !
+Que je souffre !
+
+-*who_dorante
+Quoi !
+Ne viens-tu nous interrompre que pour soupirer ?
+Tu n'as guère de coeur.
+
+-*who_arlequin
+Voilà tout ce que j'en ai : mais il y a là-bas un coquin qui demande à parler à Madame ; voulez-vous qu'il entre, ou que je le batte ?
+
+-*who_lamarquise
+Qui est-il donc ?
+
+-*who_arlequin
+Un maraud qui m'a soufflé ma maîtresse, et qui s'appelle Frontin.
+
+-*who_lamarquise
+Le valet du Chevalier ?
+Qu'il vienne ; j'ai à lui parler.
+
+-*who_arlequin
+La vilaine connaissance que vous avez là, Madame !
+
+**** *book_ *id_I10 *act_I *date_1733
+
+-*who_lamarquise
+C'est un garçon adroit et fin, tout valet qu'il est, et dont j'ai fait mon espion auprès de son maître et de la Comtesse : voyons ce qu'il nous dira ; car il est bon d'être extrêmement sûr qu'ils s'aiment.
+Mais si vous ne vous sentez pas le courage d'écouter d'un air différent ce qu'il pourra nous dire, allez-vous-en.
+
+-*who_dorante
+Oh !
+Je suis outré : mais ne craignez rien.
+
+**** *book_ *id_I11 *act_I *date_1733
+
+-*who_arlequin
+Viens, maître fripon ; entre.
+
+-*who_frontin
+Je te ferai ma réponse en sortant.
+
+-*who_arlequin
+Je t'en prépare une qui ne me coûtera pas une syllabe.
+
+-*who_lamarquise
+Approche, Frontin, approche.
+
+**** *book_ *id_I12 *act_I *date_1733
+
+-*who_lamarquise
+Eh bien !
+Qu'as-tu à me dire ?
+
+-*who_frontin
+Mais, Madame, puis-je parler devant Monsieur ?
+
+-*who_lamarquise
+En toute sûreté.
+
+-*who_dorante
+De quoi donc est-il question ?
+
+-*who_lamarquise
+De la Comtesse et du Chevalier.
+Restez, cela vous amusera.
+
+-*who_dorante
+Volontiers.
+
+-*who_frontin
+Cela pourra même occuper Monsieur.
+
+-*who_dorante
+Voyons.
+
+-*who_frontin
+Dès que je vous eus promis, Madame, d'observer ce qui se passerait entre mon maître et la Comtesse, je me mis en embuscade...
+
+-*who_lamarquise
+Abrège le plus que tu pourras.
+
+-*who_frontin
+Excusez, Madame, je ne finis point quand j'abrège.
+
+-*who_lamarquise
+Le Chevalier m'aime-t-il encore ?
+
+-*who_frontin
+Il n'en reste pas vestige, il ne sait pas qui vous êtes.
+
+-*who_lamarquise
+Et sans doute il aime la Comtesse ?
+
+-*who_frontin
+Bon, l'aimer !
+Belle égratignure !
+C'est traiter un incendie d'étincelle.
+Son coeur est brûlant, Madame ; il est perdu d'amour.
+
+-*who_dorante
+Et la Comtesse ne le hait pas apparemment ?
+
+-*who_frontin
+Non, non, la vérité est à plus de mille lieues de ce que vous dites.
+
+-*who_dorante
+J'entends qu'elle répond à son amour.
+
+-*who_frontin
+Bagatelle !
+Elle n'y répond plus : toutes ses réponses sont faites, ou plutôt dans cette affaire-ci, il n'y a eu ni demande ni réponse, on ne s'en est pas donné le temps.
+Figurez-vous deux coeurs qui partent ensemble ; il n'y eut jamais de vitesse égale : on ne sait à qui appartient le premier soupir, il y a apparence que ce fut un duo.
+
+-*who_dorante
+Ah !
+Ah !
+Ah...
+Je me meurs !
+
+-*who_lamarquise
+Prenez garde...
+Mais as-tu quelque preuve de ce que tu dis là ?
+
+-*who_frontin
+J'ai de sûrs témoins de ce que j'avance, mes yeux et mes oreilles...
+Hier, la Comtesse...
+
+-*who_dorante
+Mais cela suffit ; ils s'aiment, voilà son histoire finie.
+Que peut-il dire de plus ?
+
+-*who_lamarquise
+Achève.
+
+-*who_frontin
+Hier, la Comtesse et mon maître s'en allaient au jardin.
+Je les suis de loin ; ils entrèrent dans le bois, j'y entre aussi ; ils tournent dans une allée, moi dans le taillis ; ils se parlent, je n'entends que des voix confuses ; je me coule, je me glisse, et de bosquet en bosquet, j'arrive à les entendre et même à les voir à travers le feuillage...
+La bellé chose ! la bellé chose ! s'écriait le Chevalier, qui d'une main tenait un portrait et de l'autre la main de la Comtesse.
+La bellé chose !
+Car, comme il est Gascon, je le deviens en ce moment, tout Manceau que je suis ; parce qu'on peut tout, quand on est exact, et qu'on sert avec zèle.
+
+-*who_lamarquise
+Fort bien.
+
+-*who_dorante
+Fort mal.
+
+-*who_frontin
+Or, ce portrait, Madame, dont je ne voyais que le menton avec un bout d'oreille, était celui de la Comtesse.
+Oui, disait-elle, on dit qu'il me ressemble assez.
+Autant qu'il sé peut, disait mon maître, autant qu'il sé peut, à millé charmés près qué j'adore en vous, qué lé peintre né peut qué remarquer, qui font lé désespoir dé son art, et qui né rélèvent qué du pinceau dé la nature.
+Allons, allons, vous me flattez, disait la Comtesse, en le regardant d'un oeil étincelant d'amour-propre ; vous me flattez.
+Eh !
+Non, Madame, ou qué la pesté m'étouffe !
+Jé vous dégrade moi-même, en parlant dé vos charmés : sandis !
+Aucune expression n'y peut atteindre ; vous n'êtes fidélément rendue qué dans mon coeur.
+N'y sommes-nous pas toutes deux, la Marquise et moi ? répliquait la Comtesse.
+La Marquise et vous ! s'écriait-il ; eh !
+Cadédis, où sé rangerait-elle ?
+Vous m'en occuperiez mille dé coeurs, si jé les avais ; mon amour ne sait où sé mettre, tant il surabonde dans mes paroles, dans mes sentiments, dans ma pensée ; il sé répand partout, mon âme en régorge.
+Et tout en parlant ainsi, tantôt il baisait la main qu'il tenait, et tantôt le portrait.
+Quand la Comtesse retirait la main, il se jetait sur la peinture ; quand elle redemandait la peinture, il reprenait la main : lequel mouvement, comme vous voyez, faisait cela et cela, ce qui était tout à fait plaisant à voir.
+
+-*who_dorante
+Quel récit, Marquise !
+
+-*who_frontin
+Eh !
+Ne parlez-vous pas, Monsieur ?
+
+-*who_dorante
+Non, je dis à Madame que je trouve cela comique.
+
+-*who_frontin
+Je le souhaite.
+Là-dessus : Rendez-moi mon portrait, rendez donc...
+Mais, Comtesse...
+Mais, Chevalier...
+Mais, Madamé, si jé rends la copie, qué l'original mé dédommagé...
+Oh !
+Pour cela, non...
+Oh !
+Pour céla, si.
+Madame, au nom dé vos grâcés innombrables, nantissez-moi dé la ressemblance, en attendant la personne ; accordez cé rafraîchissement à mon ardeur...
+Mais, Chevalier, donner son portrait, c'est donner son coeur...
+Eh !
+Donc, Madamé, j'endurérai bien dé les avoir tous deux...
+Mais...
+Il n'y a point dé mais ; ma vie est à vous, lé portrait à moi ; qué chacun gardé sa part...
+Eh bien !
+C'est donc vous qui le gardez ; ce n'est pas moi qui le donne, au moins...
+Tope !
+Sandis !
+Jé m'en fais responsable, c'est moi qui lé prends ; vous né faites qué m'accorder dé lé prendre...
+Quel abus de ma bonté !
+Ah !
+C'est la Comtesse qui fait un soupir...
+Ah !
+Félicité dé mon âme !
+C'est le Chevalier qui repart un second.
+
+-*who_dorante
+Ah !...
+
+-*who_frontin
+Et c'est Monsieur qui fournit le troisième.
+
+-*who_dorante
+Oui.
+C'est que ces deux soupirs-là sont plaisants, et je les contrefais ; contrefaites aussi, Marquise.
+
+-*who_lamarquise
+Oh ! je n'y entends rien, moi ; mais je me les imagine.
+Ah !
+Ah !
+Ah !
+
+-*who_frontin
+Ce matin dans la galerie...
+
+-*who_dorante
+Faites-le finir ; je n'y tiendrais pas.
+
+-*who_lamarquise
+En voilà assez, Frontin.
+
+-*who_frontin
+Les fragments qui me restent sont d'un goût choisi.
+
+-*who_lamarquise
+N'importe, je suis assez instruite.
+
+-*who_frontin
+Les gages de la commission courent-ils toujours, Madame ?
+
+-*who_lamarquise
+Ce n'est pas la peine.
+
+-*who_frontin
+Et Monsieur voudrait-il m'établir son pensionnaire ?
+
+-*who_dorante
+Non.
+
+-*who_frontin
+Ce non-là, si je m'y connais, me casse sans réplique, et je n'ai plus qu'une révérence à faire.
+
+**** *book_ *id_I13 *act_I *date_1733
+
+-*who_lamarquise
+Nous ne pouvons plus douter de leur secrète intelligence ; mais si vous jouez toujours votre personnage aussi mal, nous ne tenons rien.
+
+-*who_dorante
+J'avoue que ses récits m'ont fait souffrir ; mais je me soutiendrai mieux dans la suite.
+Ah !
+L'ingrate ! jamais elle ne me donna son portrait.
+
+**** *book_ *id_I14 *act_I *date_1733
+
+-*who_arlequin
+Monsieur, voilà votre fripon qui arrive.
+
+-*who_dorante
+Qui ?
+
+-*who_arlequin
+Un de nos deux larrons, le maître du mien.
+
+-*who_dorante
+Retire-toi.
+
+**** *book_ *id_I15 *act_I *date_1733
+
+-*who_lamarquise
+Et moi, je vous laisse.
+Nous n'avons pas eu le temps de digérer notre idée ; mais en attendant, souvenez-vous que vous m'aimez, qu'il faut qu'on le croie, que voici votre rival, et qu'il s'agit de lui paraître indifférent.
+Je n'ai pas le temps de vous en dire davantage.
+
+-*who_dorante
+Fiez-vous à moi, je jouerai bien mon rôle.
+
+**** *book_ *id_I16 *act_I *date_1733
+
+-*who_lechevalier
+Jé té rencontre à propos ; jé voulais té parler, Dorante.
+
+-*who_dorante
+Volontiers, Chevalier ; mais fais vite ; voici l'heure de la poste, et j'ai un paquet à faire partir.
+
+-*who_lechevalier
+Jé finis dans un clin d'oeil.
+Jé suis ton ami, et jé viens té prier dé mé réléver d'un scrupule.
+
+-*who_dorante
+Toi ?
+
+-*who_lechevalier
+Oui ; délivre-moi d'uné chicané qué mé fait mon honneur : a-t-il tort ou raison ?
+Voici lé cas.
+On dit qué tu aimes la Comtessé ; moi, jé n'en crois rien, et c'est entré lé oui et lé non qué gît lé petit cas dé conscience qué jé t'apporte.
+
+-*who_dorante
+Je t'entends, Chevalier : tu aurais grande envie que je ne l'aimasse plus.
+
+-*who_lechevalier
+Tu l'as dit ; ma délicatessé sé fait bésoin dé ton indifférence pour elle : j'aime cetté dame.
+
+-*who_dorante
+Est-elle prévenue en ta faveur ?
+
+-*who_lechevalier
+Dé faveur, jé m'en passe ; ellé mé rend justicé.
+
+-*who_dorante
+C'est-à-dire que tu lui plais.
+
+-*who_lechevalier
+Dès qué jé l'aime, tout est dit ; épargne ma modestie.
+
+-*who_dorante
+Ce n'est pas ta modestie que j'interroge, car elle est gasconne.
+Parlons simplement : t'aime-t-elle ?
+
+-*who_lechevalier
+Eh !
+Oui, té dis-je, ses yeux ont déjà là-dessus entamé la matière ; ils mé sollicitent lé coeur, ils démandent réponsé : mettrai-je bon au bas dé la réquête ?
+C'est ton agrément qué j'attends.
+
+-*who_dorante
+Je te le donne à charge de revanche.
+
+-*who_lechevalier
+Avec qui la révanche ?
+
+-*who_dorante
+Avec de beaux yeux de ta connaissance qui sollicitent aussi.
+
+-*who_lechevalier
+Les beaux yeux qué la Marquisé porte ?
+
+-*who_dorante
+Elle-même.
+
+-*who_lechevalier
+Et l'intérêt qué tu mé soupçonnes d'y prendre té gêne, té rétient ?
+
+-*who_dorante
+Sans doute.
+
+-*who_lechevalier
+Va, jé t'émancipé.
+
+-*who_dorante
+Je t'avertis que je l'épouserai, au moins.
+
+-*who_lechevalier
+Jé t'informe qué nous férons assaut dé noces.
+
+-*who_dorante
+Tu épouseras la Comtesse ?
+
+-*who_lechevalier
+L'espérance dé ma postérité s'y fonde.
+
+-*who_dorante
+Et bientôt ?
+
+-*who_lechevalier
+Démain, peut-être, notre célibat expire.
+
+-*who_dorante
+Adieu ; j'en suis fort ravi.
+
+-*who_lechevalier
+Touche là ; té suis-je cher ?
+
+-*who_dorante
+Ah !
+Oui...
+
+-*who_lechevalier
+Tu mé l'es sans mésure, jé mé donne à toi pour un siècle ; céla passé, nous rénouvellérons dé bail.
+Serviteur.
+
+-*who_dorante
+Oui, oui ; demain.
+
+-*who_lechevalier
+Qu'appelles-tu démain ?
+Moi, jé suis ton serviteur du temps passé, du présent et dé l'avénir ; toi dé même apparemment ?
+
+-*who_dorante
+Apparemment.
+Adieu.
+
+**** *book_ *id_I17 *act_I *date_1733
+
+-*who_frontin
+J'attendais qu'il fût sorti pour venir, Monsieur.
+
+-*who_lechevalier
+Qué démandes-tu ? j'ai hâte dé réjoindre ma Comtesse.
+
+-*who_frontin
+Attendez : malepeste !
+Ceci est sérieux ; j'ai parlé à la Marquise, je lui a fait mon rapport.
+
+-*who_lechevalier
+Eh bien !
+Tu lui as confié qué j'aimé la Comtesse, et qu'ellé m'aime ; qu'en dit-ellé ?
+Achève vite.
+
+-*who_frontin
+Ce qu'elle en dit ?
+Que c'est fort bien fait à vous.
+
+-*who_lechevalier
+Jé continuerai dé bien faire.
+Adieu.
+
+-*who_frontin
+Morbleu !
+Monsieur, vous n'y songez pas ; il faut revoir la Marquise, entretenir son amour, sans quoi vous êtes un homme mort, enterré, anéanti dans sa mémoire.
+
+-*who_lechevalier
+Eh !
+Eh !
+Eh !
+
+-*who_frontin
+Vous en riez !
+Je ne trouve pas cela plaisant, moi.
+
+-*who_lechevalier
+Qué mé fait cé néant ?
+Jé meurs dans une mémoire, jé ressuscite dans une autre ; n'ai-je pas la mémoire dé la Comtesse où jé révis ?
+
+-*who_frontin
+Oui, mais j'ai peur que dans cette dernière, vous n'y mouriez un beau matin de mort subite.
+Dorante y est mort de même, d'un coup de caprice.
+
+-*who_lechevalier
+Non ; lé caprice qui lé tue, lé voilà ; c'est moi qui l'expédie, j'en ai bien expédié d'autres, Frontin : né t'inquiète pas ; la Comtesse m'a reçu dans son coeur, il faudra qu'ellé m'y garde.
+
+-*who_frontin
+Ce coeur-là, je crois que l'amour y campe quelquefois, mais qu'il n'y loge jamais.
+
+-*who_lechevalier
+C'est un amour dé ma façon, sandis !
+Il né finira qu'avec elle ; espère mieux dé la fortune dé ton maître ; connais-moi bien, tu n'auras plus dé défiance.
+
+-*who_frontin
+J'ai déjà usé de cette recette-là ; elle ne m'a rien fait.
+Mais voici Lisette ; vous devriez me procurer la faveur de sa maîtresse auprès d'elle.
+
+**** *book_ *id_I18 *act_I *date_1733
+
+-*who_lisette
+Monsieur, Madame vous demande.
+
+-*who_lechevalier
+J'y cours, Lisette : mais remets cé faquin dans son bon sens, jé té prie ; tu mé l'as privé dé cervelle ; il m'entretient qu'il t'aime.
+
+-*who_lisette
+Que ne me prend-il pour sa confidente ?
+
+-*who_frontin
+Eh bien !
+Ma charmante, je vous aime : vous voilà aussi savante que moi.
+
+-*who_lisette
+Eh bien !
+Mon garçon, courage, vous n'y perdez rien ; vous voilà plus savant que vous n'étiez.
+Je vais dire à ma maîtresse que vous venez, Monsieur.
+Adieu, Frontin.
+
+-*who_frontin
+Adieu, ma charmante.
+
+**** *book_ *id_I19 *act_I *date_1733
+
+-*who_frontin
+Allons, Monsieur, ma foi !
+Vous avez raison, votre aventure a bonne mine : la Comtesse vous aime ; vous êtes Gascon, moi Manceau, voilà de grands titres de fortune.
+
+-*who_lechevalier
+Jé té garantis la tienne.
+
+-*who_frontin
+Si j'avais le choix des cautions, je vous dispenserais d'être la mienne.
+
+**** *book_ *id_II01 *act_II *date_1733
+
+-*who_dorante
+Viens, j'ai à te dire un mot.
+
+-*who_arlequin
+Une douzaine, si vous voulez.
+
+-*who_dorante
+Arlequin, je te vois à tout moment chercher Lisette, et courir après elle.
+
+-*who_arlequin
+Eh pardi ! si je veux l'attraper, il faut bien que je coure après, car elle me fuit.
+
+-*who_dorante
+Dis-moi : préfères-tu mon service à celui d'un autre ?
+
+-*who_arlequin
+Assurément ; il n'y a que le mien qui ait la préférence, comme de raison : d'abord moi, ensuite vous ; voilà comme cela est arrangé dans mon esprit ; et puis le reste du monde va comme il peut.
+
+-*who_dorante
+Si tu me préfères à un autre, il s'agit de prendre ton parti sur le chapitre de Lisette.
+
+-*who_arlequin
+Mais, Monsieur, ce chapitre-là ne vous regarde pas : c'est de l'amour que j'ai pour elle, et vous n'avez que faire d'amour, vous n'en voulez point.
+
+-*who_dorante
+Non, mais je te défends d'en parler jamais à Lisette, je veux même que tu l'évites ; je veux que tu la quittes, que tu rompes avec elle.
+
+-*who_arlequin
+Pardi !
+Monsieur, vous avez là des volontés qui ne ressemblent guère aux miennes : pourquoi ne nous accordons-nous pas aujourd'hui comme hier ?
+
+-*who_dorante
+C'est que les choses ont changé ; c'est que la Comtesse pourrait me soupçonner d'être curieux de ses démarches, et de me servir de toi auprès de Lisette pour les savoir : ainsi, laisse-la en repos ; je te récompenserai du sacrifice que tu me feras.
+
+-*who_arlequin
+Monsieur, le sacrifice me tuera, avant que les récompenses viennent.
+
+-*who_dorante
+Oh !
+Point de réplique : Marton, qui est à la Marquise, vaut bien ta Lisette ; on te la donnera.
+
+-*who_arlequin
+Quand on me donnerait la Marquise par-dessus le marché, on me volerait encore.
+
+-*who_dorante
+Il faut opter pourtant.
+Lequel aimes-tu mieux, de ton congé, ou de Marton ?
+
+-*who_arlequin
+Je ne saurais le dire ; je ne les connais ni l'un ni l'autre.
+
+-*who_dorante
+Ton congé, tu le connaîtras dès aujourd'hui, si tu ne suis pas mes ordres ; ce n'est même qu'en les suivant que tu serais regretté de Lisette.
+
+-*who_arlequin
+Elle me regrettera !
+Eh !
+Monsieur, que ne parlez-vous ?
+
+-*who_dorante
+Retire-toi ; j'aperçois la Marquise.
+
+-*who_arlequin
+J'obéis, à condition qu'on me regrettera, au moins.
+
+-*who_dorante
+À propos, garde le secret sur la défense que je te fais de voir Lisette : comme c'était de mon consentement que tu l'épousais, ce serait avoir un procédé trop choquant pour la Comtesse, que de paraître m'y opposer ; je te permets seulement de dire que tu aimes mieux Marton, que la Marquise te destine.
+
+-*who_arlequin
+Ne craignez rien, il n'y aura là-dedans que la Marquise et moi de malhonnêtes : c'est elle qui me fait présent de Marton, c'est moi qui la prends ; c'est vous qui nous laissez faire.
+
+-*who_dorante
+Fort bien ; va-t-en.
+
+-*who_arlequin
+Mais on me regrettera.
+
+**** *book_ *id_II02 *act_II *date_1733
+
+-*who_lamarquise
+Avez-vous instruit votre valet, Dorante ?
+
+-*who_dorante
+Oui, Madame.
+
+-*who_lamarquise
+Cela pourra n'être pas inutile ; ce petit article-là touchera la Comtesse, si elle l'apprend.
+
+-*who_dorante
+Ma foi, Madame, je commence à croire que nous réussirons ; je la vois déjà très étonnée de ma façon d'agir avec elle : elle qui s'attend à des reproches, je l'ai vue prête à me demander pourquoi je ne lui en faisais pas.
+
+-*who_lamarquise
+Je vous dis que, si vous tenez bon, vous la verrez pleurer de douleur.
+
+-*who_dorante
+Je l'attends aux larmes : êtes-vous contente ?
+
+-*who_lamarquise
+Je ne réponds de rien, si vous n'allez jusque-là.
+
+-*who_dorante
+Et votre Chevalier, comment en agit-il ?
+
+-*who_lamarquise
+Ne m'en parlez point ; tâchons de le perdre, et qu'il devienne ce qu'il voudra : mais j'ai chargé un des gens de la Comtesse de savoir si je pouvais la voir, et je crois qu'on vient me rendre réponse.
+Eh bien !
+Parlerai-je à ta maîtresse ?
+
+-*who_le6laquais
+Oui, Madame, la voilà qui arrive.
+
+-*who_lamarquise
+Quittez-moi : il ne faut pas dans ce moment-ci qu'elle nous voie ensemble, cela paraîtrait affecté.
+
+-*who_dorante
+Et moi, j'ai un petit dessein, quand vous l'aurez quittée.
+
+-*who_lamarquise
+N'allez rien gâter.
+
+-*who_dorante
+Fiez-vous à moi.
+
+**** *book_ *id_II03 *act_II *date_1733
+
+-*who_lacomtese
+Je viens vous trouver moi-même, Marquise : comme vous me demandez un entretien particulier, il s'agit apparemment de quelque chose de conséquence.
+
+-*who_lamarquise
+Je n'ai pourtant qu'une question à vous faire, et comme vous êtes naturellement vraie, que vous êtes la franchise, la sincérité même, nous aurons bientôt terminé.
+
+-*who_lacomtese
+Je vous entends : vous ne me croyez pas trop sincère ; mais votre éloge m'exhorte à l'être, n'est-ce pas ?
+
+-*who_lamarquise
+À cela près, le serez-vous ?
+
+-*who_lacomtese
+Pour commencer à l'être, je vous dirai que je n'en sais rien.
+
+-*who_lamarquise
+Si je vous demandais : Le Chevalier vous aime-t-il ?
+Me diriez-vous ce qui en est ?
+
+-*who_lacomtese
+Non, Marquise, je ne veux pas me brouiller avec vous, et vous me haïriez si je vous disais la vérité.
+
+-*who_lamarquise
+Je vous donne ma parole que non.
+
+-*who_lacomtese
+Vous ne pourriez pas me la tenir, je vous en dispenserais moi-même : il y a des mouvements qui sont plus forts que nous.
+
+-*who_lamarquise
+Mais pourquoi vous haïrais-je ?
+
+-*who_lacomtese
+N'a-t-on pas prétendu que le Chevalier vous aimait ?
+
+-*who_lamarquise
+On a eu raison de le prétendre.
+
+-*who_lacomtese
+Nous y voilà ; et peut-être l'avez-vous pensé vous-même ?
+
+-*who_lamarquise
+Je l'avoue.
+
+-*who_lacomtese
+Et après cela, j'irais vous dire qu'il m'aime !
+Vous ne me le conseilleriez pas.
+
+-*who_lamarquise
+N'est-ce que cela ?
+Eh !
+Je voudrais l'avoir perdu : je souhaite de tout mon coeur qu'il vous aime.
+
+-*who_lacomtese
+Oh !
+Sur ce pied-là, vous n'avez donc qu'à rendre grâce au ciel ; vos souhaits ne sauraient être plus exaucés qu'ils le sont.
+
+-*who_lamarquise
+Je vous certifie que j'en suis charmée.
+
+-*who_lacomtese
+Vous me rassurez ; ce n'est pas qu'il n'ait tort ; vous êtes si aimable qu'il ne devait plus avoir des yeux pour personne : mais peut-être vous était-il moins attaché qu'on ne l'a cru.
+
+-*who_lamarquise
+Non, il me l'était beaucoup ; mais je l'excuse : quand je serais aimable, vous l'êtes encore plus que moi, et vous savez l'être plus qu'une autre.
+
+-*who_lacomtese
+Plus qu'une autre !
+Ah !
+Vous n'êtes point si charmée, Marquise ; je vous disais bien que vous me manqueriez de parole : vos éloges baissent.
+Je m'accommode pourtant de celui-ci, j'y sens une petite pointe de dépit qui a son mérite : c'est la jalousie qui me loue.
+
+-*who_lamarquise
+Moi, de la jalousie ?
+
+-*who_lacomtese
+À votre avis, un compliment qui finit par m'appeler coquette ne viendrait pas d'elle ?
+Oh !
+Que si, Marquise ; on l'y reconnaît.
+
+-*who_lamarquise
+Je ne songeais pas à vous appeler coquette.
+
+-*who_lacomtese
+Ce sont de ces choses qui se trouvent dites avant qu'on y rêve.
+
+-*who_lamarquise
+Mais, de bonne foi, ne l'êtes-vous pas un peu ?
+
+-*who_lacomtese
+Oui-da ; mais ce n'est pas assez qu'un peu : ne vous refusez pas le plaisir de me dire que je la suis beaucoup, cela n'empêchera pas que vous ne la soyez autant que moi.
+
+-*who_lamarquise
+Je n'en donne pas tout à fait les mêmes preuves.
+
+-*who_lacomtese
+C'est qu'on ne prouve que quand on réussit ; le manque de succès met bien des coquetteries à couvert : on se retire sans bruit, un peu humiliée, mais inconnue, c'est l'avantage qu'on a.
+
+-*who_lamarquise
+Je réussirai quand je voudrai, Comtesse ; vous le verrez, cela n'est pas difficile ; et le Chevalier ne vous serait peut-être pas resté, sans le peu de cas que j'ai fait de son coeur.
+
+-*who_lacomtese
+Je ne chicanerai pas ce dédain-là : mais quand l'amour-propre se sauve, voilà comme il parle.
+
+-*who_lamarquise
+Voulez-vous gager que cette aventure-ci n'humiliera point le mien, si je veux ?
+
+-*who_lacomtese
+Espérez-vous regagner le Chevalier ?
+Si vous le pouvez, je vous le donne.
+
+-*who_lamarquise
+Vous l'aimez, sans doute ?
+
+-*who_lacomtese
+Pas mal ; mais je vais l'aimer davantage, afin qu'il vous résiste mieux.
+On a besoin de toutes ses forces avec vous.
+
+-*who_lamarquise
+Oh !
+Ne craignez rien, je vous le laisse.
+Adieu.
+
+-*who_lacomtese
+Eh !
+Pourquoi ?
+Disputons-nous sa conquête, mais pardonnons à celle qui l'emportera.
+Je ne combats qu'à cette condition-là, afin que vous n'ayez rien à me dire.
+
+-*who_lamarquise
+Rien à vous dire !
+Vous comptez donc l'emporter ?
+
+-*who_lacomtese
+Écoutez, je jouerais à plus beau jeu que vous.
+
+-*who_lamarquise
+J'avais aussi beau jeu que vous, quand vous me l'avez ôté ; je pourrais donc vous l'enlever de même.
+
+-*who_lacomtese
+Tenez donc d'avoir votre revanche.
+
+-*who_lamarquise
+Non ; j'ai quelque chose de mieux à faire.
+
+-*who_lacomtese
+Oui !
+Et peut-on vous demander ce que c'est ?
+
+-*who_lamarquise
+Dorante vaut son prix, Comtesse.
+Adieu.
+
+**** *book_ *id_II04 *act_II *date_1733
+
+-*who_lacomtese
+Dorante !
+Vouloir m'enlever Dorante !
+Cette femme-là perd la tête ; sa jalousie l'égare ; elle est à plaindre !
+
+**** *book_ *id_II05 *act_II *date_1733
+
+-*who_dorante
+Eh bien !
+Marquise, m'opposerez-vous encore des scrupules ?...
+Ah !
+Madame, je vous demande pardon, je me trompe ; j'ai cru de loin voir tout à l'heure la Marquise ici, et dans ma préoccupation je vous ai prise pour elle.
+
+-*who_lacomtese
+Il n'y a pas grand mal, Dorante : mais quel est donc ce scrupule qu'on vous oppose ?
+Qu'est-ce que cela signifie ?
+
+-*who_dorante
+Madame, c'est une suite de conversation que nous avons eu ensemble, et que je lui rappelais.
+
+-*who_lacomtese
+Mais dans cette suite de conversation, sur quoi tombait ce scrupule dont vous vous plaigniez ?
+Je veux que vous me le disiez.
+
+-*who_dorante
+Je vous dis, Madame, que ce n'est qu'une bagatelle dont j'ai peine à me ressouvenir moi-même.
+C'est, je pense, qu'elle avait la curiosité de savoir comment j'étais dans votre coeur.
+
+-*who_lacomtese
+Je m'attends que vous avez eu la discrétion de ne le lui avoir pas dit, peut-être ?
+
+-*who_dorante
+Je n'ai pas le défaut d'être vain.
+
+-*who_lacomtese
+Non, mais on a quelquefois celui d'être vrai.
+Et que voulait-elle faire de ce qu'elle vous demandait ?
+
+-*who_dorante
+Curiosité pure, vous dis-je...
+
+-*who_lacomtese
+Et cette curiosité parlait de scrupule !
+Je n'y entends rien.
+
+-*who_dorante
+C'est moi, qui par hasard, en croyant l'aborder, me suis servi de ce terme-là, sans savoir pourquoi.
+
+-*who_lacomtese
+Par hasard !
+Pour un homme d'esprit, vous vous tirez mal d'affaire, Dorante ; car il y a quelque mystère là-dessous.
+
+-*who_dorante
+Je vois bien que je ne réussirais pas à vous persuader le contraire, Madame ; parlons d'autre chose.
+À propos de curiosité, y a-t-il longtemps que vous n'avez reçu de lettres de Paris ?
+La Marquise en attend ; elle aime les nouvelles, et je suis sûr que ses amis ne les lui épargneront pas, s'il y en a.
+
+-*who_lacomtese
+Votre embarras me fait pitié.
+
+-*who_dorante
+Quoi !
+Madame, vous revenez encore à cette bagatelle-là ?
+
+-*who_lacomtese
+Je m'imaginais pourtant avoir plus de pouvoir sur vous.
+
+-*who_dorante
+Vous en aurez toujours beaucoup, Madame ; et si celui que vous y aviez est un peu diminué, ce n'est pas ma faute.
+Je me sauve pourtant, dans la crainte de céder à celui qui vous reste.
+
+-*who_lacomtese
+Je ne reconnais point Dorante à cette sortie-là.
+
+**** *book_ *id_II06 *act_II *date_1733
+
+-*who_lechevalier
+Il mé paraît qué ma Comtesse rêve, qu'ellé tombé dans lé récueillément.
+
+-*who_lacomtese
+Oui, je vois la Marquise et Dorante dans une affliction qui me chagrine ; nous parlions tantôt de mariage, il faut absolument différer le nôtre.
+
+-*who_lechevalier
+Différer lé nôtre !
+
+-*who_lacomtese
+Oui, d'une quinzaine de jours.
+
+-*who_lechevalier
+Cadédis, vous mé parlez dé la fin du siècle !
+En vertu dé quoi la rémise ?
+
+-*who_lacomtese
+Vous n'avez pas remarqué leurs mouvements comme moi ?
+
+-*who_lechevalier
+Qu'ai-jé bésoin dé rémarque ?
+
+-*who_lacomtese
+Je vous dis que ces gens-là sont outrés ; voulez-vous les pousser à bout ?
+Nous ne sommes pas si pressés.
+
+-*who_lechevalier
+Si pressé qué j'en meurs, sandis !
+Si lé cas réquiert uné victime, pourquoi mé donner la préférence ?
+
+-*who_lacomtese
+Je ne saurais me résoudre à les désespérer, Chevalier.
+Faisons-nous justice ; notre commerce a un peu l'air d'une infidélité, au moins.
+Ces gens-là ont pu se flatter que nous les aimions, il faut les ménager ; je n'aime à faire de mal à personne : ni vous non plus, apparemment ?
+Vous n'avez pas le coeur dur, je pense ?
+Ce sont vos amis comme les miens : accoutumons-les du moins à se douter de notre mariage.
+
+-*who_lechevalier
+Mais, pour les accoutumer, il faut qué jé vive ; et jé vous défie dé mé garder vivant, vous né mé conduirez pas au terme.
+Tâchons dé les accoutumer à moins dé frais : la modé dé mourir pour la consolation dé ses amis n'est pas venue, et dé plus, qué nous importe qué ces deux affligés nous disent : Partez ?
+Savez-vous qu'on dit qu'ils s'arrangent ?
+
+-*who_lacomtese
+S'arranger !
+De quel arrangement parlez-vous ?
+
+-*who_lechevalier
+J'entends que leurs coeurs s'accommodent.
+
+-*who_lacomtese
+Vous avez quelquefois des tournures si gasconnes, que je n'y comprends rien.
+Voulez-vous dire qu'ils s'aiment ?
+Exprimez-vous comme un autre.
+
+-*who_lechevalier
+On né parle pas tout à fait d'amour, mais d'uné pétite douceur à sé voir.
+
+-*who_lacomtese
+D'une douceur à se voir !
+Quelle chimère !
+Où a-t-on pris cette idée-là ?
+Eh bien !
+Monsieur, si vous me prouvez que ces gens-là s'aiment, qu'ils sentent de la douceur à se voir ; si vous me le prouvez, je vous épouse demain, je vous épouse ce soir.
+Voyez l'intérêt que je vous donne à la preuve.
+
+-*who_lechevalier
+Dé leur amour jé né m'en rends pas caution.
+
+-*who_lacomtese
+Je le crois.
+Prouvez-moi seulement qu'ils se consolent ; je ne demande que cela.
+
+-*who_lechevalier
+En cé cas, irez-vous en avant ?
+
+-*who_lacomtese
+Oui, si j'étais sûre qu'ils sont tranquilles : mais qui nous le dira ?
+
+-*who_lechevalier
+Jé vous tiens, et jé vous informe qué la Marquise a donné charge à Frontin dé nous examiner, dé lui apporter un état dé nos coeurs ; et j'avais oublié dé vous lé dire.
+
+-*who_lacomtese
+Voilà d'abord une commission qui ne vous donne pas gain de cause : s'ils nous oubliaient, ils ne s'embarrasseraient guère de nous.
+
+-*who_lechevalier
+Frontin aura peut-être déjà parlé ; jé né l'ai pas vu dépuis.
+Qué son rapport nous règle.
+
+-*who_lacomtese
+Je le veux bien.
+
+**** *book_ *id_II07 *act_II *date_1733
+
+-*who_lechevalier
+Arrive, Frontin, as-tu vu la Marquise ?
+
+-*who_frontin
+Oui, Monsieur, et même avec Dorante ; il n'y a pas longtemps que je les quitte.
+
+-*who_lechevalier
+Raconte-nous comment ils sé comportent.
+Par bonté d'âme, Madame a peur dé les désespérer : moi jé dis qu'ils sé consolent.
+Qu'en est-il des deux ?
+Rien qué cette bonté né l'arrête, té dis-je ; tu m'entends bien ?
+
+-*who_frontin
+À merveille.
+Madame peut vous épouser en toute sûreté : de désespoir, je n'en vois pas l'ombre.
+
+-*who_lechevalier
+Jé vous gagne dé marché fait : cé soir vous êtes mienne.
+
+-*who_lacomtese
+Hum ! votre gain est peu sûr : Frontin n'a pas l'air d'avoir bien observé.
+
+-*who_frontin
+Vous m'excuserez, Madame, le désespoir est connaissable.
+Si c'étaient de ces petits mouvements minces et fluets, qui se dérobent, on peut s'y tromper ; mais le désespoir est un objet, c'est un mouvement qui tient de la place.
+Les désespérés s'agitent, se trémoussent, ils font du bruit, ils gesticulent ; et il n'y a rien de tout cela.
+
+-*who_lechevalier
+Il vous dit vrai.
+J'ai tantôt rencontré Dorante, jé lui ai dit : J'aime la Comtessé, j'ai passion pour elle.
+Eh bien !
+Garde-la, m'a-t-il dit tranquillement.
+
+-*who_lacomtese
+Eh !
+Vous êtes son rival, Monsieur ; voulez-vous qu'il aille vous faire confidence de sa douleur ?
+
+-*who_lechevalier
+Jé vous assure qu'il était riant, et qué la paix régnait dans son coeur.
+
+-*who_lacomtese
+La paix dans le coeur d'un homme qui m'aimait de la passion la plus vive qui fut jamais !
+
+-*who_lechevalier
+Otez la mienne.
+
+-*who_lacomtese
+À la bonne heure.
+Je lui crois pourtant l'âme plus tendre que vous, soit dit en passant.
+Ce n'est pas votre faute : chacun aime autant qu'il peut, et personne n'aime autant que lui.
+Voilà pourquoi je le plains.
+Mais sur quoi Frontin décide-t-il qu'il est tranquille ?
+Voyons ; n'est-il pas vrai que tu es aux gages de la Marquise, et peut-être à ceux de Dorante, pour nous observer tous deux ?
+Paie-t-on des espions pour être instruit de choses dont on ne se soucie point ?
+
+-*who_frontin
+Oui ; mais je suis mal payé de la Marquise, elle est en arrière.
+
+-*who_lacomtese
+Et parce qu'elle n'est pas libérale, elle est indifférente ?
+Quel raisonnement !
+
+-*who_frontin
+Et Dorante m'a révoqué, il me doit mes appointements.
+
+-*who_lacomtese
+Laisse là tes appointements.
+Qu'as-tu vu ?
+Que sais-tu ?
+
+-*who_lechevalier
+Mitigé ton récit.
+
+-*who_frontin
+Eh bien !
+Frontin, m'ont-ils dit tantôt en parlant de vous deux, s'aiment-ils un peu ?
+Oh !
+Beaucoup, Monsieur ; extrêmement, Madame, extrêmement, ai-je dit en tranchant.
+
+-*who_lacomtese
+Eh bien ?...
+
+-*who_frontin
+Rien ne remue ; la Marquise bâille en m'écoutant, Dorante ouvre nonchalamment sa tabatière, c'est tout ce que j'en tire.
+
+-*who_lacomtese
+Va, va, mon enfant, laisse-nous, tu es un maladroit.
+Votre valet n'est qu'un sot, ses observations sont pitoyables, il n'a vu que la superficie des choses : cela ne se peut pas.
+
+-*who_frontin
+Morbleu !
+Madame, je m'y ferais hacher.
+En voulez-vous davantage ?
+Sachez qu'ils s'aiment, et qu'ils m'ont dit eux-mêmes de vous l'apprendre.
+
+-*who_lacomtese
+Eux-mêmes !
+Eh !
+Que n'as-tu commencé par nous dire cela, ignorant que tu es ?
+Vous voyez bien ce qui en est, Chevalier ; ils se consolent tant, qu'ils veulent nous rendre jaloux ; et ils s'y prennent avec une maladresse bien digne du dépit qui les gouverne.
+Ne vous l'avais-je pas dit ?
+
+-*who_lechevalier
+La passion sé montre, j'en conviens.
+
+-*who_lacomtese
+Grossièrement même.
+
+-*who_frontin
+Ah !
+Par ma foi, j'y suis : c'est qu'ils ont envie de vous mettre en peine.
+Je ne m'étonne pas si Dorante, en regardant sa montre, ne la regardait pas fixement, et faisait une demi-grimace.
+
+-*who_lacomtese
+C'est que la paix ne régnait pas dans son coeur.
+
+-*who_lechevalier
+Cette grimace est importante.
+
+-*who_frontin
+Item, c'est qu'en ouvrant sa tabatière, il n'a pris son tabac qu'avec deux doigts tremblants.
+Il est vrai aussi que sa bouche a ri, mais de mauvaise grâce ; le reste du visage n'en était pas, il allait à part.
+
+-*who_lacomtese
+C'est que le coeur ne riait pas.
+
+-*who_lechevalier
+Jé mé rends.
+Il soupire, il régardé dé travers, et ma noce récule.
+Pesté du faquin, qui réjetté Madamé dans uné compassion qui sera funeste à mon bonheur !
+
+-*who_lacomtese
+Point du tout : ne vous alarmez point ; Dorante s'est trop mal conduit pour mériter des égards...
+Mais ne vois-je pas la Marquise qui vient ici ?
+
+-*who_frontin
+Elle-même.
+
+-*who_lacomtese
+Je la connais ; je gagerais qu'elle vient finement, à son ordinaire, m'insinuer qu'ils s'aiment, Dorante et elle.
+Ecoutons.
+
+**** *book_ *id_II08 *act_II *date_1733
+
+-*who_lamarquise
+Pardon, Comtesse, si j'interromps un entretien sans doute intéressant ; mais je ne fais que passer.
+Il m'est revenu que vous retardiez votre mariage avec le Chevalier, par ménagement pour moi.
+Je vous suis obligée de l'attention, mais je n'en ai pas besoin.
+Concluez, Comtesse, plutôt aujourd'hui que demain ; c'est moi qui vous en sollicite.
+Adieu.
+
+-*who_lacomtese
+Attendez donc, Marquise ; dites-moi s'il est vrai que vous vous aimiez, Dorante et vous, afin que je m'en réjouisse.
+
+-*who_lamarquise
+Réjouissez-vous hardiment ; la nouvelle est bonne.
+
+-*who_lacomtese
+En vérité ?
+
+-*who_lamarquise
+Oui, Comtesse ; hâtez-vous de finir.
+Adieu.
+
+**** *book_ *id_II09 *act_II *date_1733
+
+-*who_lacomtesse
+Ah !
+Ah !
+Elle se sauve : la raillerie est un peu trop forte pour elle.
+Que la vanité fait jouer de plaisants rôles à de certaines femmes !
+Car celle-ci meurt de dépit.
+
+-*who_lechevalier
+Elle en a lé coeur palpitant, sandis !
+
+-*who_frontin
+La grimace que Dorante faisait tantôt, je viens de la retrouver sur sa physionomie.
+Mais, Monsieur, parlez un peu de Lisette pour moi.
+
+-*who_lacomtese
+Que dit-il de Lisette ?
+
+-*who_frontin
+C'est une petite requête que je vous présente, et qui tend à vous prier qu'il vous plaise d'ôter Lisette à Arlequin, et d'en faire un transport à mon profit.
+
+-*who_lechevalier
+Voilà cé qué c'est.
+
+-*who_lacomtese
+Et Lisette y consent-elle ?
+
+-*who_frontin
+Oh !
+Le transport est tout à fait de son goût.
+
+-*who_lacomtese
+Ce qu'il me dit là me fait venir une idée : les petites finesses de la Marquise méritent d'être punies.
+Voyons si Dorante, qui l'aime tant, sera insensible à ce que je vais faire.
+Il doit l'être, si elle dit vrai, et je le souhaite : mais voici un moyen infaillible de savoir ce qui en est.
+Je n'ai qu'à dire à Lisette d'épouser Frontin ; elle était destinée au valet de Dorante, nous en étions convenus.
+Si Dorante ne se plaint point, la Marquise a raison, il m'oublie, et je n'en serai que plus à mon aise.
+Toi, va-t'en chercher Lisette et son père, que je leur parle à tous deux.
+
+-*who_frontin
+Il ne sera pas difficile de les trouver, car ils entrent.
+
+**** *book_ *id_II10 *act_II *date_1733
+
+-*who_lacomtese
+Approchez, Lisette ; et vous aussi, maître Blaise.
+Votre fille devait épouser Arlequin ; mais si vous la mariez, et que vous soyez bien aise d'en disposer à mon gré, vous la donnerez à Frontin ; entendez-vous, maître Blaise ?
+
+-*who_blaise
+J'entends bian, Madame.
+Mais il y a, morgué ! bian une autre histoire qui trotte par le monde, et qui nous chagraine.
+Il s'agit que je venons vous crier marci.
+
+-*who_lacomtese
+Qu'est-ce que c'est ?
+D'où vient que Lisette pleure ?
+
+-*who_lisette
+Mon père vous le dira, Madame.
+
+-*who_blaise
+C'est, ne vous déplaise, Madame, qu'Arlequin est un mal-appris ; mais que les pus mal-appris de tout ça, c'est Monsieur Dorante et Madame la Marquise, qui ont eu la finesse de manigancer la volonté d'Arlequin, à celle fin qu'il ne voulît pus d'elle ; maugré qu'alle en veuille bian, comme je me doute qu'il en voudrait peut-être bian itou, si an le laissait vouloir ce qu'il veut, et qu'an n'y boutît pas empêchement.
+
+-*who_lacomtese
+Et quel empêchement ?
+
+-*who_blaise
+Oui, Madame ; par le mouyen d'une fille qu'ils appelont Marton, que Madame la Marquise a eu l'avisement d'inventer par malice, pour la promettre à Arlequin.
+
+-*who_lacomtese
+Ceci est curieux !
+
+-*who_blaise
+En disant, comme ça, que faut qu'ils s'épousient à Paris, a mijaurée et li, dans l'intention de porter dommage à noute enfant, qui va choir en confusion de cette malice, qui n'est rien qu'un micmac pour affronter noute bonne renommée et la vôtre, Madame, se gobarger de nous trois ; et c'est touchant ça que je venons vous demander justice.
+
+-*who_lacomtese
+Il faudra bien tâcher de vous la faire.
+Chevalier, ceci change les choses : il ne faut plus que Frontin y songe.
+Allez, Lisette, ne vous affligez pas : laissez la Marquise proposer tant qu'elle voudra ses Martons ; je vous en rendrai bon compte, car c'est cette femme-là, que je ménageais tant, qui m'attaque là-dedans.
+Dorante n'y a d'autre part que sa complaisance : mais peut-être me reste-t-il encore plus de crédit sur lui qu'elle ne se l'imagine.
+Ne vous embarrassez pas.
+
+-*who_lisette
+Arlequin vient de me traiter avec une indifférence insupportable ; il semble qu'il ne m'ait jamais vue : voyez de quoi la Marquise se mêle !
+
+-*who_blaise
+Empêcher qu'une fille ne soit la femme du monde !
+
+-*who_lacomtese
+On y remédiera, vous dis-je.
+
+-*who_frontin
+Oui ; mais le remède ne me vaudra rien.
+
+-*who_lechevalier
+Comtesse, je vous écoute, l'oreille vous entend, l'esprit né vous saisit point ; jé né vous conçois pas.
+Venez çà, Lisette ; tirez-nous cetté bizarre aventure au clair.
+N'êtes-vous pas éprise dé Frontin ?
+
+-*who_lisette
+Non, Monsieur ; je le croyais, tandis qu'Arlequin m'aimait : mais je vois que je me suis trompée, depuis qu'il me refuse.
+
+-*who_lechevalier
+Qué répondre à cé coeur dé femme ?
+
+-*who_lacomtese
+Et moi, je trouve que ce coeur de femme a raison, et ne mérite pas votre réflexion satirique ; c'est un homme qui l'aimait, et qui lui dit qu'il ne l'aime plus ; cela n'est pas agréable, elle en est touchée : je reconnais notre coeur au sien ; ce serait le vôtre, ce serait le mien en pareil cas.
+Allez, vous autres, retirez-vous, et laissez-moi faire.
+
+-*who_blaise
+J'en avons charché querelle à Monsieur Dorante et à sa Marquise de cette affaire.
+
+-*who_lacomtese
+Reposez-vous sur moi.
+Voici Dorante ; je vais lui en parler tout à l'heure.
+
+**** *book_ *id_II11 *act_II *date_1733
+
+-*who_lacomtese
+Venez, Dorante, et avant toute autre chose, parlons un peu de la Marquise.
+
+-*who_dorante
+De tout mon coeur, Madame.
+
+-*who_lacomtese
+Dites-moi donc de tout votre coeur de quoi elle s'avise aujourd'hui ?
+
+-*who_dorante
+Qu'a-t-elle fait ?
+J'ai de la peine à croire qu'il y ait quelque chose à redire à ses procédés.
+
+-*who_lacomtese
+Oh ! je vais vous faciliter le moyen de croire, moi.
+
+-*who_dorante
+Vous connaissez sa prudence...
+
+-*who_lacomtese
+Vous êtes un opiniâtre louangeur !
+Eh bien !
+Monsieur, cette femme que vous louez tant, jalouse de moi parce que le Chevalier la quitte, comme si c'était ma faute, va, pour m'attaquer pourtant, chercher de petits détails qui ne sont pas en vérité dignes d'une incomparable telle que vous la faites, et ne croit pas au-dessous d'elle de détourner un valet d'aimer une suivante.
+Parce qu'elle sait que nous voulons les marier, et que je m'intéresse à leur mariage, elle imagine, dans sa colère, une Marton qu'elle jette à la traverse ; et ce que j'admire le plus dans tout ceci, c'est de vous voir vous-même prêter les mains à un projet de cette espèce !
+Vous-même, Monsieur !
+
+-*who_dorante
+Eh !
+Pensez-vous que la Marquise ait cru vous offenser ?
+Qu'il me soit venu dans l'esprit, à moi, que vous vous y intéressez encore ?
+Non, Comtesse.
+Arlequin se plaignait d'une infidélité que lui faisait Lisette ; il perdait, disait-il, sa fortune : on prend quelquefois part aux chagrins de ces gens-là ; et la Marquise, pour le dédommager, lui a, par bonté, proposé le mariage de Marton qui est à elle ; il l'a acceptée, l'en a remerciée : voilà tout ce que c'est.
+
+-*who_lechevalier
+La réponse mé persuade, jé les crois sans malice.
+Qué sur cé point la paix sé fasse entre les puissances, et qué les subalternes sé débattent.
+
+-*who_lacomtese
+Laissez-nous, Monsieur le Chevalier, vous direz votre sentiment quand on vous le demandera.
+Dorante, qu'il ne soit plus question de cette petite intrigue-là, je vous prie ; car elle me déplaît.
+Je me flatte que c'est assez vous dire.
+
+-*who_dorante
+Attendez, Madame, appelons quelqu'un ; mon valet est peut-être là...
+Arlequin !...
+
+-*who_lacomtese
+Quel est votre dessein ?
+
+-*who_dorante
+La Marquise n'est pas loin, il n'y a qu'à la prier de votre part de venir ici, vous lui en parlerez.
+
+-*who_lacomtese
+La Marquise !
+Eh !
+Qu'ai-je besoin d'elle ?
+Est-il nécessaire que vous la consultiez là-dessus ?
+Qu'elle approuve ou non, c'est à vous à qui je parle, à vous à qui je dis que je veux qu'il n'en soit rien, que je le veux, Dorante, sans m'embarrasser de ce qu'elle en pense.
+
+-*who_dorante
+Oui, mais, Madame, observez qu'il faut que je m'en embarrasse, moi ; je ne saurais en décider sans elle.
+Y aurait-il rien de plus malhonnête que d'obliger mon valet à refuser une grâce qu'elle lui fait et qu'il a acceptée ?
+Je suis bien éloigné de ce procédé-là avec elle.
+
+-*who_lacomtese
+Quoi !
+Monsieur, vous hésitez entre elle et moi !
+Songez-vous à ce que vous faites ?
+
+-*who_dorante
+C'est en y songeant que je m'arrête.
+
+-*who_lechevalier
+Eh !
+Cadédis, laissons cé trio dé valets et dé soubrettes.
+
+-*who_lacomtese
+C'est à moi, sur ce pied-là, à vous prier d'excuser le ton dont je l'ai pris, il ne me convenait point.
+
+-*who_dorante
+Il m'honorera toujours, et j'y obéirais avec plaisir, si je pouvais.
+
+-*who_lacomtese
+Nous n'avons plus rien à nous dire, je pense : donnez-moi la main, Chevalier.
+
+-*who_lechevalier
+Prénez et né rendez pas, Comtesse.
+
+-*who_dorante
+J'étais pourtant venu pour savoir une chose ; voudriez-vous bien m'en instruire, Madame ?
+
+-*who_lacomtese
+Ah !
+Monsieur, je ne sais rien.
+
+-*who_dorante
+Vous savez celle-ci, Madame.
+Vous destinez-vous bientôt au Chevalier ?
+Quand aurons-nous la joie de vous voir unis ensemble ?
+
+-*who_lacomtese
+Cette joie-là, vous l'aurez peut-être ce soir, Monsieur.
+
+-*who_lechevalier
+Doucément, diviné Comtesse, jé tombe en délire ! jé perds haleine dé ravissément !
+
+-*who_dorante
+Parbleu !
+Chevalier, j'en suis charmé, et je t'en félicite.
+
+-*who_lacomtese
+Ah !
+L'indigne homme !
+
+-*who_dorante
+Elle rougit !
+
+-*who_lacomtese
+Est-ce là tout, Monsieur ?
+
+-*who_dorante
+Oui, Madame.
+
+-*who_lacomtese
+Partons.
+
+**** *book_ *id_II12 *act_II *date_1733
+
+-*who_lamarquise
+Comtesse, votre jardiner m'apprend que vous êtes fâchée contre moi : je viens vous demander pardon de la faute que j'ai faite sans le savoir ; et c'est pour la réparer que je vous amène ce garçon-cI. Arlequin, quand je vous ai promis Marton, j'ignorais que Madame pourrait s'en choquer, et je vous annonce que vous ne devez plus y compter.
+
+-*who_arlequin
+Eh bien !
+Je vous donne quittance ; mais on dit que Blaise est venu vous demander justice contre moi, Madame : je ne refuse pas de la faire bonne et prompte ; il n'y a qu'à appeler le notaire ; et s'il n'y est pas, qu'on prenne son clerc, je m'en contenterai.
+
+-*who_lacomtese
+Renvoyez votre valet, Monsieur ; et vous, Madame, je vous invite à lui tenir parole : je me charge même des frais de leur noce ; n'en parlons plus.
+
+-*who_dorante
+Va-t'en.
+
+-*who_arlequin
+Il n'y a donc pas moyen d'esquiver Marton !
+C'est vous, Monsieur le Chevalier, qui êtes cause de tout ce tapage-là ; vous avez mis tous nos amours sens dessus dessous.
+Si vous n'étiez pas ici, moi et mon maître, nous aurions bravement tous deux épousé notre Comtesse et notre Lisette, et nous n'aurions pas votre Marquise et sa Marton sur les bras.
+Hi !
+Hi !
+Hi !
+
+-*who_lamarquise_lechevalier
+Eh !
+Eh !
+Eh !
+
+-*who_lacomtese
+Eh !
+Eh !
+Si ses extravagances vous amusent, dites-lui qu'il approche ; il parle de trop loin.
+La jolie scène !
+
+-*who_lechevalier
+C'est démencé d'amour.
+
+-*who_dorante
+Retire-toi, faquin.
+
+-*who_lamarquise
+Ah çà !
+Comtesse, sommes-nous bonnes amies à présent ?
+
+-*who_lacomtese
+Ah !
+Les meilleures du monde, assurément, et vous êtes trop bonne.
+
+-*who_dorante
+Marquise, je vous apprends une chose, c'est que la Comtesse et le Chevalier se marient peut-être ce soir.
+
+-*who_lamarquise
+En vérité ?
+
+-*who_lechevalier
+Cé soir est loin encore.
+
+-*who_dorante
+L'impatience sied fort bien : mais si près d'une si douce aventure, on a bien des choses à se dire.
+Laissons-leur ces moments-ci, et allons, de notre côté, songer à ce qui nous regarde.
+
+-*who_lamarquise
+Allons, Comtesse, que je vous embrasse avant de partir.
+Adieu, Chevalier, je vous fais mes compliments ; à tantôt.
+
+**** *book_ *id_II13 *act_II *date_1733
+
+-*who_lacomtese
+Vous êtes fort regretté, à ce que je vois, on faisait grand cas de vous.
+
+-*who_lechevalier
+Jé l'en dispense, surtout cé soir.
+
+-*who_lacomtese
+Ah !
+C'en est trop.
+
+-*who_lechevalier
+Comment !
+Changez-vous d'avis ?
+
+-*who_lacomtese
+Un peu.
+
+-*who_lechevalier
+Qué pensez-vous ?
+
+-*who_lacomtese
+J'ai un dessein... il faudra que vous m'y serviez...
+Je vous le dirai tantôt.
+Ne vous inquiétez point, je vais y rêver.
+Adieu ; ne me suivez pas...
+Il est même nécessaire que vous ne me voyiez pas si tôt.
+Quand j'aurai besoin de vous, je vous en informerai.
+
+-*who_lechevalier
+Jé démeure muet : jé sens qué jé périclite.
+Cette femme est plus femme qu'une autre.
+
+**** *book_ *id_III01 *act_III *date_1733
+
+-*who_lechevalier
+Mais dé grâce, Lisette, priez-la dé ma part que jé la voie un moment.
+
+-*who_lisette
+Je ne saurais lui parler, Monsieur, elle repose.
+
+-*who_lechevalier
+Ellé répose !
+Ellé répose donc débout ?
+
+-*who_frontin
+Oui, car moi sors de la terrasse, je viens de l'apercevoir se promenant dans la galerie.
+
+-*who_lisette
+Qu'importe ?
+Chacun a sa façon de reposer.
+Quelle est votre méthode à vous, Monsieur ?
+
+-*who_lechevalier
+Il mé paraît qué tu mé railles, Lisette.
+
+-*who_frontin
+C'est ce qui me semble.
+
+-*who_lisette
+Non, Monsieur ; c'est une question qui vient à propos, et que je vous fais tout en devisant.
+
+-*who_lechevalier
+J'ai même un petit soupçon qué tu né m'aimes pas.
+
+-*who_frontin
+Je l'avais aussi, ce petit soupçon-là, mais je l'ai changé contre une grande certitude.
+
+-*who_lisette
+Votre pénétration n'a point perdu au change.
+
+-*who_lechevalier
+Né lé disais-je pas ?
+Eh ! pourquoi, sandis !
+Té veux-jé du bien, pendant qué tu mé veux du mal ?
+D'où mé vient ma disposition amicale, et qué ton coeur mé réfuse lé réciproque ?
+D'où vient qué nous différons dé sentiments ?
+
+-*who_lisette
+Je n'en sais rien ; c'est qu'apparemment il faut de la variété dans la vie.
+
+-*who_frontin
+Je crois que nous sommes aussi très variés tous deux.
+
+-*who_lisette
+Oui, si vous m'aimez encore ; sinon, nous sommes uniformes.
+
+-*who_lechevalier
+Dis-moi lé vrai : tu né mé récommandes pas à ta maîtresse ?
+
+-*who_lisette
+Jamais qu'à son indifférence.
+
+-*who_frontin
+Le service est touchant !
+
+-*who_lechevalier
+Tu mé fais donc préjudice auprès d'elle ?
+
+-*who_lisette
+Oh !
+Tant que je peux : mais pas autrement qu'en lui parlant contre vous ; car je voudrais qu'elle ne vous aimât pas ; je vous l'avoue, je ne trompe personne.
+
+-*who_frontin
+C'est du moins parler cordialement.
+
+-*who_lechevalier
+Ah çà !
+Lisette, dévénons amis.
+
+-*who_lisette
+Non ; faites plutôt comme moi, Monsieur, ne m'aimez pas.
+
+-*who_lechevalier
+Jé veux qué tu m'aimes, et tu m'aimeras, cadédis !
+Tu m'aimeras ; jé l'entréprends, jé mé lé promets.
+
+-*who_lisette
+Vous ne vous tiendrez pas parole.
+
+-*who_frontin
+Ne savez-vous pas, Monsieur, qu'il y a des haines qui ne s'en vont point qu'on ne les paie ?
+Pour cela...
+
+-*who_lechevalier
+Combien mé coûtera lé départ dé la tienne ?
+
+-*who_lisette
+Rien ; elle n'est pas à vendre.
+
+-*who_lechevalier
+Tiens, prends, et la garde, si tu veux.
+
+-*who_lisette
+Non, Monsieur ; je vous volerais votre argent.
+
+-*who_lechevalier
+Prends, té dis-je, et mé dis seulement cé qué ta maîtresse projette.
+
+-*who_lisette
+Non ; mais je vous dirai bien ce que je voudrais qu'elle projetât, c'est tout ce que je sais.
+En êtes-vous curieux ?
+
+-*who_frontin
+Vous nous l'avez déjà dit en plus de dix façons, ma belle.
+
+-*who_lechevalier
+N'a-t-ellé pas quelqué dessein ?
+
+-*who_lisette
+Eh !
+Qui est-ce qui n'en a pas ?
+Personne n'est sans dessein ; on a toujours quelque vue.
+Par exemple, j'ai le dessein de vous quitter, si vous n'avez pas celui de me quitter vous-même.
+
+-*who_lechevalier
+Rétirons-nous, Frontin ; jé sens qué jé m'indigne.
+Nous réviendrons tantôt la recommander à sa maîtresse.
+
+-*who_frontin
+Adieu donc, soubrette ennemie ; adieu, mon petit coeur fantasque ; adieu, la plus aimable de toutes les girouettes.
+
+-*who_lisette
+Adieu, le plus ⁎disgracié de tous les hommes.
+
+**** *book_ *id_III02 *act_III *date_1733
+
+-*who_arlequin
+M'amie, j'ai beau faire signe à mon maître ; il se moque de cela, il ne veut pas venir savoir ce que je lui demande.
+
+-*who_lisette
+Il faut donc lui parler devant la Marquise, Arlequin.
+
+-*who_arlequin
+Marquise malencontreuse !
+Hélas !
+Ma fille, la bonté que j'ai eue de te rendre mon coeur ne nous profitera ni à l'un ni à l'autre.
+Il me sera inutile d'avoir oublié tes impertinences ; le diable a entrepris de me faire épouser Marton ; il n'en démordra pas ; il me la garde.
+
+-*who_lisette
+Retourne à ton maître, et dis-lui que je l'attends ici.
+
+-*who_arlequin
+Il ne se souciera pas de ton attente.
+
+-*who_lisette
+Il n'y a point de temps à perdre : cependant va donc.
+
+-*who_arlequin
+Je suis tout engourdi de tristesse.
+
+-*who_lisette
+Allons, allons, dégourdis-toi, puisque tu m'aimes.
+Tiens, voilà ton maître et la Marquise qui s'approchent : tire-le à quartier, lui, pendant que je m'éloigne.
+
+**** *book_ *id_III03 *act_III *date_1733
+
+-*who_arlequin
+Monsieur, venez que je vous parle.
+
+-*who_dorante
+Dis ce que tu me veux.
+
+-*who_arlequin
+Il ne faut pas que Madame y soit.
+
+-*who_dorante
+Je n'ai point de secret pour elle.
+
+-*who_arlequin
+J'en ai un qui ne veut pas qu'elle le connaisse.
+
+-*who_lamarquise
+C'est donc un grand mystère ?
+
+-*who_arlequin
+Oui : c'est Lisette qui demande Monsieur, et il n'est pas à propos que vous le sachiez, Madame.
+
+-*who_lamarquise
+Ta discrétion est admirable !
+Voyez ce que c'est, Dorante ; mais que je vous dise un mot auparavant.
+Et toi, va chercher Lisette.
+
+**** *book_ *id_III04 *act_III *date_1733
+
+-*who_lamarquise
+C'est apparemment de la part de la Comtesse ?
+
+-*who_dorante
+Sans doute, et vous voyez combien elle est agitée.
+
+-*who_lamarquise
+Et vous brûlez d'envie de vous rendre !
+
+-*who_dorante
+Me siérait-il de faire le cruel ?
+
+-*who_lamarquise
+Nous touchons au terme, et nous manquons notre coup, si vous allez si vite.
+Ne vous y trompez point, les mouvements qu'on se donne sont encore équivoques ; il n'est pas sûr que ce soit de l'amour ; j'ai peur qu'on ne soit plus jalouse de moi que de votre coeur ; qu'on ne médite de triompher de vous et de moi, pour se moquer de nous deux.
+Toutes nos mesures sont prises ; allons jusqu'au contrat, comme nous l'avons résolu ; ce moment seul décidera si on vous aime.
+L'amour a ses expressions, l'orgueil a les siennes ; l'amour soupire de ce qu'il perd, l'orgueil méprise ce qu'on lui refuse : attendons le soupir ou le mépris ; tenez bon jusqu'à cette épreuve, pour l'intérêt de votre amour même.
+Abrégez avec Lisette, et revenez me trouver.
+
+-*who_dorante
+Ah !
+Votre épreuve me fait trembler !
+Elle est pourtant raisonnable et je m'y exposerai, je vous le promets.
+
+-*who_lamarquise
+Je soutiens moi-même un personnage qui n'est pas fort agréable, et qui le sera encore moins sur ces fins-ci, car il faudra que je supplée au peu de courage que vous me montrez ; mais que ne fait-on pas pour se venger ?
+Adieu.
+
+**** *book_ *id_III05 *act_III *date_1733
+
+-*who_dorante
+Que me veux-tu, Lisette ?
+Je n'ai qu'un moment à te donner.
+Tu vois bien que je quitte Madame la Marquise, et notre conversation pourrait être suspecte dans la conjoncture où je me trouve.
+
+-*who_lisette
+Hélas !
+Monsieur, quelle est donc cette conjoncture où vous êtes avec elle ?
+
+-*who_dorante
+C'est que je vais l'épouser : rien que cela.
+
+-*who_arlequin
+Oh !
+Monsieur, point du tout.
+
+-*who_lisette
+Vous, l'épouser !
+
+-*who_arlequin
+Jamais.
+
+-*who_dorante
+Tais-toi...
+Ne me retiens point, Lisette : que me veux-tu ?
+
+-*who_lisette
+Eh, doucement !
+Donnez-vous le temps de respirer.
+Ah !
+Que vous êtes changé !
+
+-*who_arlequin
+C'est cette perfide qui le fâche ; mais ce ne sera rien.
+
+-*who_lisette
+Vous ressouvenez-vous que j'appartiens à Madame la Comtesse, Monsieur ?
+L'avez-vous oubliée elle-même ?
+
+-*who_dorante
+Non, je l'honore, je la respecte toujours : mais je pars, si tu n'achèves.
+
+-*who_lisette
+Eh bien !
+Monsieur, je finis.
+Qu'est-ce que c'est que les hommes !
+
+-*who_dorante
+Adieu.
+
+-*who_arlequin
+Cours après.
+
+-*who_lisette
+Attendez donc, Monsieur.
+
+-*who_dorante
+C'est que tes exclamations sur les hommes sont si mal placées, que j'en rougis pour ta maîtresse.
+
+-*who_arlequin
+Véritablement l'exclamation est effrontée avec nous ; supprime-la.
+
+-*who_lisette
+C'est pourtant de sa part que je viens vous dire qu'elle souhaite vous parler.
+
+-*who_dorante
+Quoi !
+Tout à l'heure ?
+
+-*who_lisette
+Oui, Monsieur.
+
+-*who_arlequin
+Le plus tôt c'est le mieux.
+
+-*who_dorante
+Te tairas-tu, toi ?
+Est-ce que tu es raccommodé avec Lisette ?
+
+-*who_arlequin
+Hélas !
+Monsieur, l'amour l'a voulu, et il est le maître ; car je ne le voulais pas, moi.
+
+-*who_dorante
+Ce sont tes affaires.
+Quant à moi, Lisette, dites à Madame la Comtesse que je la conjure de vouloir bien remettre notre entretien ; que j'ai, pour le différer, des raisons que je lui dirai ; que je lui en demande mille pardons ; mais qu'elle m'approuvera elle-même.
+
+-*who_lisette
+Monsieur, il faut qu'elle vous parle ; elle le veut.
+
+-*who_arlequin
+Et voici moi qui vous en supplie à deux genoux.
+Allez, Monsieur, cette bonne dame est amendée ; je suis persuadé qu'elle vous dira d'excellentes choses pour le renouvellement de votre amour.
+
+-*who_dorante
+Je crois que tu as perdu l'esprit.
+En un mot, Lisette, je ne saurais, tu le vois bien ; c'est une entrevue qui inquiéterait la Marquise ; et Madame la Comtesse est trop raisonnable pour ne pas entrer dans ce que je dis là : d'ailleurs, je suis sûr qu'elle n'a rien de fort pressé à me dire.
+
+-*who_lisette
+Rien, sinon que je crois qu'elle vous aime toujours.
+
+-*who_arlequin
+Et bien tendrement malgré la petite parenthèse !
+
+-*who_dorante
+Qu'elle m'aime toujours, Lisette !
+Ah !
+C'en serait trop, si vous parliez d'après elle ; et l'envie qu'elle aurait de me voir en ce cas-là, serait en vérité trop maligne.
+Que Madame la Comtesse m'ait abandonné, qu'elle ait cessé de m'aimer, comme vous me l'avez dit vous-même, passe : je n'étais pas digne d'elle ; mais qu'elle cherche de gaieté de coeur à m'engager dans une démarche qui me brouillerait peut-être avec la Marquise, ah !
+C'en est trop, vous dis-je ; et je ne la verrai qu'avec la personne que je vais rejoindre.
+
+-*who_arlequin
+Eh !
+Non, Monsieur, mon cher maître, tournez à droite, ne prenez pas à gauche.
+Venez donc : je crierai toujours jusqu'à ce qu'il m'entende.
+
+**** *book_ *id_III06 *act_III *date_1733
+
+-*who_lisette
+Allons, il faut l'avouer, ma maîtresse le mérite bien.
+
+-*who_lacomtese
+Eh bien !
+Lisette, viendra-t-il ?
+
+-*who_lisette
+Non, Madame.
+
+-*who_lacomtese
+Non !
+
+-*who_lisette
+Non ; il vous prie de l'excuser, parce qu'il dit que cet entretien fâcherait la Marquise, qu'il va épouser.
+
+-*who_lacomtese
+Comment ?
+Que dites-vous ?
+Epouser la Marquise !
+Lui ?
+
+-*who_lisette
+Oui, Madame, et il est persuadé que vous entrerez dans cette bonne raison qu'il apporte.
+
+-*who_lacomtese
+Mais ce que tu me dis là est inouï, Lisette.
+Ce n'est point là Dorante !
+Est-ce de lui dont tu me parles ?
+
+-*who_lisette
+De lui-même ; mais de Dorante qui ne vous aime plus.
+
+-*who_lacomtese
+Cela n'est pas vrai ; je ne saurais m'accoutumer à cette idée-là, on ne me la persuadera pas ; mon coeur et ma raison la rejettent, me disent qu'elle est fausse, absolument fausse.
+
+-*who_lisette
+Votre coeur et votre raison se trompent.
+Imaginez-vous même que Dorante soupçonne que vous ne voulez le voir que pour inquiéter la Marquise et le brouiller avec elle.
+
+-*who_lacomtese
+Eh ! laisse là cette Marquise éternelle !
+Ne m'en parle non plus que si elle n'était pas au monde !
+Il ne s'agit pas d'elle.
+En vérité, cette femme-là n'est pas faite pour m'effacer de son coeur, et je ne m'y attends pas.
+
+-*who_lisette
+Eh !
+Madame, elle n'est que trop aimable.
+
+-*who_lacomtese
+Que trop !
+Êtes-vous folle ?
+
+-*who_lisette
+Du moins peut-elle plaire : ajoutez à cela votre infidélité, c'en est assez pour guérir Dorante.
+
+-*who_lacomtese
+Mais, mon infidélité, où est-elle ?
+Je veux mourir, si je l'ai jamais sentie !
+
+-*who_lisette
+Je la sais de vous-même.
+D'abord vous avez nié que c'en fût une, parce que vous n'aimiez pas Dorante, disiez-vous ; ensuite vous m'avez prouvé qu'elle était innocente ; enfin, vous m'en avez fait l'éloge, et si bien l'éloge, que je me suis mise à vous imiter, ce dont je me suis bien repentie depuis.
+
+-*who_lacomtese
+Eh bien !
+Mon enfant, je me trompais ; je parlais d'infidélité sans la connaître.
+
+-*who_lisette
+Pourquoi donc n'avez-vous rien épargné de cruel pour vous ôter Dorante ?
+
+-*who_lacomtese
+Je n'en sais rien ; mais je l'aime, et tu m'accables, tu me pénètres de douleur !
+Je l'ai maltraité, j'en conviens ; j'ai tort, un tort affreux !
+Un tort que je ne me pardonnerai jamais, et qui ne mérite pas que l'on l'oublie !
+Que veux-tu que je te dise de plus ?
+Je me condamne, je me suis mal conduite, il est vrai.
+
+-*who_lisette
+Je vous le disais bien, avant que vous m'eussiez gagnée.
+
+-*who_lacomtese
+Misérable amour-propre de femme !
+Misérable vanité d'être aimée !
+Voilà ce que vous me coûtez !
+J'ai voulu plaire au Chevalier, comme s'il en eût valu la peine ; j'ai voulu me donner cette preuve-là de mon mérite ; il manquait cet honneur à mes charmes ; les voilà bien glorieux !
+J'ai fait la conquête du Chevalier, et j'ai perdu Dorante !
+
+-*who_lisette
+Quelle différence !
+
+-*who_lacomtese
+Bien plus ; c'est que c'est un homme que je hais naturellement quand je m'écoute : un homme que j'ai toujours trouvé ridicule, que j'ai cent fois raillé moi-même, et qui me reste à la place du plus aimable homme du monde.
+Ah !
+Que je suis belle à présent !
+
+-*who_lisette
+Ne perdez point le temps à vous affliger, Madame.
+Dorante ne sait pas que vous l'aimez encore.
+Le laissez-vous à la Marquise ?
+Voulez-vous tâcher de le ravoir ?
+Essayez, faites quelques démarches, puisqu'il a droit d'être fâché, et que vous êtes dans votre tort.
+
+-*who_lacomtese
+Eh !
+Que veux-tu que je fasse pour un ingrat qui refuse de me parler, Lisette ?
+Il faut bien que j'y renonce !
+Est-ce là un procédé ?
+Toi qui dis qu'il a droit d'être fâché, voyons, Lisette, est-ce que j'ai cru le perdre ?
+Ai-je imaginé qu'il m'abandonnerait ?
+L'ai-je soupçonné de cette lâcheté-là ?
+A-t-on jamais compté sur un coeur autant que j'ai compté sur le sien ?
+Estime infinie, confiance aveugle ; et tu dis que j'ai tort ?
+Et tout homme qu'on honore de ces sentiments-là n'est pas un perfide quand il les trompe ?
+Car je les avais, Lisette.
+
+-*who_lisette
+Je n'y comprends rien.
+
+-*who_lacomtese
+Oui, je les avais ; je ne m'embarrassais ni de ses plaintes ni de ses jalousies ; je riais de ses reproches ; je défiais son coeur de me manquer jamais ; je me plaisais à l'inquiéter impunément ; c'était là mon idée ; je ne le ménageais point.
+Jamais on ne vécut dans une sécurité plus obligeante ; je m'en applaudissais, elle faisait son éloge : et cet homme, après cela, me laisse !
+Est-il excusable ?
+
+-*who_lisette
+Calmez-vous donc, Madame ; vous êtes dans une désolation qui m'afflige.
+Travaillons à le ramener, et ne crions point inutilement contre lui.
+Commencez par rompre avec le Chevalier ; voilà déjà deux fois qu'il se présente pour vous voir, et que je le renvoie.
+
+-*who_lacomtese
+J'avais pourtant dit à cet importun-là de ne point venir, que je ne le fisse avertir.
+
+-*who_lisette
+Qu'en voulez-vous faire ?
+
+-*who_lacomtese
+Oh !
+Le haïr autant qu'il est haïssable ; c'est à quoi je le destine, je t'assure : mais il faut pourtant que je le voie, Lisette ; j'ai besoin de lui dans tout ceci ; laisse-le venir ; va même le chercher.
+
+-*who_lisette
+Voici mon père ; sachons auparavant ce qu'il veut.
+
+**** *book_ *id_III07 *act_III *date_1733
+
+-*who_blaise
+Morgué !
+Madame, savez-vous bian ce qui se passe ici ?
+Vous avise-t-on d'un tabellion qui se promène là-bas dans le jardin avec Monsieur Dorante et cette Marquise, et qui dit comme ça qu'il leur apporte un chiffon de contrat qu'ils li ont commandé, pour à celle fin qu'ils y boutent leur seing par-devant sa parsonne ?
+Qu'est-ce que vous dites de ça, Madame ?
+Car noute fille dit que voute affection a repoussé pour Dorante ; et ce tabellion est un impartinent.
+
+-*who_lacomtese
+Un notaire chez moi, Lisette !
+Ils veulent donc se marier ici ?
+
+-*who_blaise
+Eh !
+Morgué ! sans doute.
+Ils disont itou qu'il fera le contrat pour quatre ; ceti-là de voute ancien amoureux avec la Marquise ; ceti-là de vous et du Chevalier, voute nouviau galant.
+Velà comme ils se gobargeont de ça ; et jarnigoi !
+Ça me fâche.
+Et vous, Madame ?
+
+-*who_lacomtese
+Je m'y perds !
+C'est comme une fable !
+
+-*who_lisette
+Cette fable me révolte.
+
+-*who_blaise
+Jarnigué !
+Cette Marquise, maugré le marquisat qu'alle a, n'en agit pas en droiture ; an ne friponne pas les amoureux d'une parsonne de voute sorte : et dans tout ça il n'y a qu'un mot qui sarve ; Madame n'a qu'à dire, mon râtiau est tout prêt, et, jarnigué !
+J'allons vous ratisser ce biau notaire et sa paperasse ni pus ni moins que mauvaise harbe.
+
+-*who_lacomtese
+Lisette, parle donc !
+Tu ne me conseilles rien.
+Je suis accablée !
+Ils vont s'épouser ici, si je n'y mets ordre.
+Il n'est plus question de Dorante ; tu sens bien que je le déteste : mais on m'insulte.
+
+-*who_lisette
+Ma foi, Madame, ce que j'entends là m'indigne à mon tour ; et à votre place, je me soucierais si peu de lui, que je le laisserais faire.
+
+-*who_lacomtese
+Tu le laisserais faire !
+Mais si tu l'aimais, Lisette ?
+
+-*who_lisette
+Vous dites que vous le haïssez !
+
+-*who_lacomtese
+Cela n'empêche pas que je ne l'aime.
+Et dans le fond, pourquoi le haïr ?
+Il croit que j'ai tort, tu me l'as dit toi-même, et tu avais raison ; je l'ai abandonné la première : il faut que je le cherche et que je le désabuse.
+
+-*who_blaise
+Morgué !
+Madame, j'ons vu le temps qu'il me chérissait : estimez-vous que je sois bon pour li parler ?
+
+-*who_lacomtese
+Je suis d'avis de lui écrire un mot, Lisette, et que ton père aille lui rendre ma lettre à l'insu de la Marquise.
+
+-*who_lisette
+Faites, Madame.
+
+-*who_lacomtese
+À propos de lettre, je ne songeais pas que j'en ai une sur moi que je lui écrivais tantôt, et que tout ceci me faisait oublier.
+Tiens, Blaise, va, tâche de la lui rendre sans que la Marquise s'en aperçoive.
+
+-*who_blaise
+N'y aura pas d'aparcevance : stapendant qu'il lira voute lettre je la renforcerons de queuque remontration.
+
+**** *book_ *id_III08 *act_III *date_1733
+
+-*who_lechevalier
+Eh !
+Donc, ma Comtessé, qué devient l'amour ?
+À quoi pensé lé coeur ?
+Est-ce ainsi qué vous m'avertissez dé venir ?
+Quel est lé motif dé l'absence qué vous m'avez ordonnée ?
+Vous né mé mandez pas, vous mé laissez en langueur ; jé mé mande moi-même.
+
+-*who_lacomtese
+J'allais vous envoyer chercher, Monsieur.
+
+-*who_lechevalier
+Lé messager m'a paru tardif.
+Qué déterminez-vous ?
+Nos gens vont sé marier, le contrat sé passe actuellement.
+N'userons-nous pas de la commodité du notaire ?
+Ils mé délèguent pour vous y inviter.
+Ratifiez mon impatience ; songez qué l'amour gémit d'attendre, qué les besoins du coeur sont pressés, qué les instants sont précieux, qué vous m'en dérobez d'irréparables, et qué jé meurs.
+Expédions.
+
+-*who_lacomtese
+Non, Monsieur le Chevalier, ce n'est pas mon dessein.
+
+-*who_lechevalier
+Nous n'épouserons pas ?
+
+-*who_lacomtese
+Non.
+
+-*who_lechevalier
+Qu'est-ce à dire "non" ?
+
+-*who_lacomtese
+Non signifie non : je veux vous raccommoder avec la Marquise.
+
+-*who_lechevalier
+Avec la Marquise !
+Mais c'est vous qué j'aime, Madame !
+
+-*who_lacomtese
+Mais c'est moi qui ne vous aime point, Monsieur ; je suis fâchée de vous le dire si brusquement ; mais il faut bien que vous le sachiez.
+
+-*who_lechevalier
+Vous mé raillez, sandis !
+
+-*who_lacomtese
+Je vous parle très sérieusement.
+
+-*who_lechevalier
+Ma Comtessé, finissons ; point dé badinage avec un coeur qui va périr d'épouvante.
+
+-*who_lacomtese
+Vous devez vous être aperçu de mes sentiments.
+J'ai toujours différé le mariage dont vous parlez, vous le savez bien.
+Comment n'avez-vous pas senti que je n'avais pas envie de conclure ?
+
+-*who_lechevalier
+Lé comble dé mon bonheur, vous l'avez rémis à cé soir.
+
+-*who_lacomtese
+Aussi le comble de votre bonheur peut-il ce soir arriver de la part de la Marquise.
+L'avez-vous vue, comme je vous l'ai recommandé tantôt ?
+
+-*who_lechevalier
+Récommandé !
+Il n'en a pas été question, cadédis !
+
+-*who_lacomtese
+Vous vous trompez ; Monsieur, je crois vous l'avoir dit.
+
+-*who_lechevalier
+Mais, la Marquise et lé Chevalier, qu'ont-ils à démêler ensemble ?
+
+-*who_lacomtese
+Ils ont à s'aimer tous deux, de même qu'ils s'aimaient, Monsieur.
+Je n'ai point d'autre parti à vous offrir que de retourner à elle, et je me charge de vous réconcilier.
+
+-*who_lechevalier
+C'est une vapeur qui passe.
+
+-*who_lacomtese
+C'est un sentiment qui durera toujours.
+
+-*who_lisette
+Je vous le garantis éternel.
+
+-*who_lechevalier
+Frontin, où en sommes-nous ?
+
+-*who_frontin
+Mais, à vue de pays, nous en sommes à rien.
+Ce chemin-là n'a pas l'air de nous mener au gîte.
+
+-*who_lisette
+Si fait, par ce chemin-là vous pouvez vous en retournez chez vous.
+
+-*who_lechevalier
+Partirai-jé, Comtessé ?
+Séra-ce lé résultat ?
+
+-*who_lacomtese
+J'attends réponse d'une lettre ; vous saurez le reste quand je l'aurai reçue : différez votre départ jusque-là.
+
+**** *book_ *id_III09 *act_III *date_1733
+
+-*who_arlequin
+Madame, mon maître et Madame la Marquise envoient savoir s'ils ne vous importuneront pas : ils viennent vous prononcer votre arrêt et le mien ; car je n'épouserai point Lisette, puisque mon maître ne veut pas de vous.
+
+-*who_lacomtese
+Je les attends...
+Il faut qu'il n'ait pas reçu ma lettre, Lisette.
+
+-*who_arlequin
+Ils vont entrer, car ils sont à la porte.
+
+-*who_lacomtese
+Ce que je vais leur dire va vous mettre au fait, Chevalier ; ce ne sera point ma faute, si vous n'êtes pas content.
+
+-*who_lechevalier
+Allons, jé suis dupe ; c'est être au fait.
+
+**** *book_ *id_III10 *act_III *date_1733
+
+-*who_lamarquise
+Eh bien, Madame !
+Je ne vois rien encore qui nous annonce un mariage avec le Chevalier : quand vous proposez-vous donc d'achever son bonheur ?
+
+-*who_lacomtese
+Quand il vous plaira, Madame ; c'est à vous à qui je le demande ; son bonheur est entre vos mains ; vous en êtes l'arbitre.
+
+-*who_lamarquise
+Moi, Comtesse ?
+Si je le suis, vous l'épouserez dès aujourd'hui, et vous nous permettrez de joindre notre mariage au vôtre.
+
+-*who_lacomtese
+Le vôtre !
+Avec qui donc, Madame ?
+Arrive-t-il quelqu'un pour vous épouser ?
+
+-*who_lamarquise
+Il n'arrive pas de bien loin, puisque le voilà.
+
+-*who_dorante
+Oui, Comtesse, Madame me fait l'honneur de me donner sa main ; et comme nous sommes chez vous, nous venons vous prier de permettre qu'on nous y unisse.
+
+-*who_lacomtese
+Non, Monsieur, non : l'honneur serait très grand, très flatteur ; mais j'ai lieu de penser que le ciel vous réserve un autre sort.
+
+-*who_lechevalier
+Nous avons changé votre économie : jé tombé dans lé lot dé Madame la Marquise, et Madame la Comtessé tombé dans lé tien.
+
+-*who_lamarquise
+Oh ! nous resterons comme nous sommes.
+
+-*who_lacomtese
+Laissez-moi parler, Madame, je demande audience : écoutez-moi.
+Il est temps de vous désabuser, Chevalier : vous avez cru que je vous aimais ; l'accueil que je vous ai fait a pu même vous le persuader ; mais cet accueil vous trompait, il n'en était rien : je n'ai jamais cessé d'aimer Dorante, et ne vous ai souffert que pour éprouver son coeur.
+Il vous en a coûté des sentiments pour moi ; vous m'aimez, et j'en suis fâchée : mais votre amour servait à mes desseins.
+Vous avez à vous plaindre de lui, Marquise, j'en conviens : son coeur s'est un peu distrait de la tendresse qu'il vous devait ; mais il faut tout dire.
+La faute qu'il a faite est excusable, et je n'ai point à tirer vanité de vous l'avoir dérobé pour quelque temps ; ce n'est point à mes charmes qu'il a cédé, c'est à mon adresse : il ne me trouvait pas plus aimable que vous ; mais il m'a cru plus prévenue, et c'est un grand appât.
+Quant à vous, Dorante, vous m'avez assez mal payée d'une épreuve aussi tendre : la délicatesse de sentiments qui m'a persuadée de la faire, n'a pas lieu d'être trop satisfaite ; mais peut-être le parti que vous avez pris vient-il plus de ressentiment que de médiocrité d'amour : j'ai poussé les choses un peu loin ; vous avez pu y être trompé ; je ne veux point vous juger à la rigueur ; je ferme les yeux sur votre conduite, et je vous pardonne.
+
+-*who_lamarquise
+Ah !
+Ah !
+Ah !
+Je pense qu'il n'est plus temps, Madame, du moins je m'en flatte ; ou bien, si vous m'en croyez, vous serez encore plus généreuse ; vous irez jusqu'à lui pardonner les noeuds qui vont nous unir.
+
+-*who_lacomtese
+Et moi, Dorante, vous me perdez pour jamais si vous hésitez un instant.
+
+-*who_lechevalier
+Jé démande audience : jé perds Madame la Marquise, et j'aurais tort dé m'en plaindre ; jé mé suis trouvé défaillant dé fidélité, jé né sais comment, car lé mérite dé Madame m'en fournissait abondance, et c'est un malheur qui mé passe !
+En un mot, jé suis infidèle, jé m'en accuse ; mais jé suis vrai, jé m'en vante.
+Il né tient qu'à moi d'user dé réprésailles, et dé dire à Madame la Comtesse : Vous mé trompiez, jé vous trompais.
+Mais jé né suis qu'un homme, et jé n'aspire pas à cé dégré dé finesse et d'industrie.
+Voici lé compte juste ; vous avez contrefait dé l'amour, dites-vous, Madame ; jé n'en valais pas davantage ; mais votre estime a surpassé mon prix.
+Né rétranchez rien du fatal honneur qué vous m'avez fait : jé vous aimais, vous mé lé rendiez cordialement.
+
+-*who_lacomtese
+Du moins l'avez-vous cru.
+
+-*who_lechevalier
+J'achève : jé vous aimais, un peu moins qué Madame.
+Jé m'explique : elle avait dé mon coeur une possession plus complète, jé l'adorais ; mais jé vous aimais, sandis !
+Passablement, avec quelque réminiscence pour elle.
+Oui, Dorante, nous étions dans lé tendre.
+Laisse là l'histoire qu'on té fait, mon ami ; il fâche Madame qué tu la désertes, qué ses appas restent inférieurs ; sa gloire crie, té rédémande, fait la sirène ; qué son chant té trouve sourd.
+Prends un regard dé ces beaux yeux pour té servir d'antidote ; demeure avec cet objet qué l'amour venge dans mon coeur : jé lé dis à régret, jé disputerais Madame dé tout mon sang, s'il m'appartenait d'entrer en dispute ; possède-la, Dorante, bénis lé ciel du bonheur qu'il t'accorde.
+Dé toutes les épouses, la plus estimable, la plus digne dé respect et d'amour, c'est toi qui la tiens ; dé toutes les pertes, la plus immense, c'est moi qui la fais ; dé tous les hommes, lé plus ingrat, lé plus déloyal, en même temps lé plus imbécile, c'est lé malheureux qui té parle.
+
+-*who_lamarquise
+Je n'ajouterai rien à la définition ; tout y est.
+
+-*who_lacomtese
+Je ne daigne pas répondre à ce que vous dites sur mon comte, Chevalier : c'est le dépit qui vous l'arrache, et je vous ai dit mes intentions, Dorante ; qu'il n'en soit plus parlé, si vous ne les méritez pas.
+
+-*who_lamarquise
+Nous nous aimons de bonne foi : il n'y a plus de remède, Comtesse, et deux personnes qu'on oublie ont bien droit de prendre parti ailleurs.
+Tâchez tous deux de nous oublier encore : vous savez comment cela fait, et cela vous doit être plus aisé cette fois-ci que l'autre.
+Approchez, Monsieur.
+Voici le contrat qu'on nous apporte à signer.
+Dorante, priez Madame de vouloir bien l'honorer de sa signature.
+
+-*who_lacomtese
+Quoi !
+Si tôt ?
+
+-*who_lamarquise
+Oui, Madame, si vous nous le permettez.
+
+-*who_lacomtese
+C'est à Dorante à qui je parle, Madame.
+
+-*who_dorante
+Oui, Madame.
+
+-*who_lacomtese
+Votre contrat avec la Marquise ?
+
+-*who_dorante
+Oui, Madame.
+
+-*who_lacomtese
+Je ne l'aurais pas cru !
+
+-*who_lamarquise
+Nous espérons même que le vôtre accompagnera celui-ci.
+Et vous, Chevalier, ne signerez-vous pas ?
+
+-*who_lechevalier
+Jé né sais plus écrire.
+
+-*who_lamarquise
+Présentez la plume à Madame, Monsieur.
+
+-*who_lacomtese
+Donnez.
+Ah !
+Perfide !
+
+-*who_dorante
+Ah !
+Ma chère Comtesse !
+
+-*who_lamarquise
+Rendez-vous à présent ; vous êtes aimé, Dorante.
+
+-*who_arlequin
+Quel plaisir, Lisette !
+
+-*who_lisette
+Je suis contente.
+
+-*who_lacomtese
+Quoi !
+Dorante à mes genoux ?
+
+-*who_dorante
+Et plus pénétré d'amour qu'il ne le fut jamais.
+
+-*who_lacomtese
+Levez-vous.
+Dorante m'aime donc encore ?
+
+-*who_dorante
+Et n'a jamais cessé de vous aimer.
+
+-*who_lacomtese
+Et la Marquise ?
+
+-*who_dorante
+C'est elle à qui je devrai votre coeur, si vous me le rendez, Comtesse ; elle a tout conduit.
+
+-*who_lacomtese
+Ah !
+Je respire !
+Que de chagrin vous m'avez donné !
+Comment avez-vous pu feindre si longtemps ?
+
+-*who_dorante
+Je ne l'ai pu qu'à force d'amour ; j'espérais de regagner ce que j'aime.
+
+-*who_lacomtese
+Eh !
+Où est la Marquise, que je l'embrasse ?
+
+-*who_lamarquise
+La voilà, Comtesse.
+Sommes-nous bonnes amies ?
+
+-*who_lacomtese
+Je vous ai l'obligation d'être heureuse et raisonnable.
+
+-*who_lamarquise
+Quant à vous, Chevalier, je vous conseille de porter votre main ailleurs ; il n'y a pas d'apparence que personne vous en défasse ici.
+
+-*who_lacomtese
+Non, Marquise, j'obtiendrai sa grâce ; elle manquerait à ma joie et au service que vous m'avez rendu.
+
+-*who_lamarquise
+Nous verrons dans six mois.
+
+-*who_lechevalier
+Jé né vous démandais qu'un termé ; lé reste est mon affaire.
+
+**** *book_ *id_III11 *act_III *date_1733
+
+-*who_frontin
+Épousez-vous Arlequin, Lisette ?
+
+-*who_lisette
+Le coeur me dit que oui.
+
+-*who_arlequin
+Le mien opine de même.
+
+-*who_blaise
+Et ma volonté se met par-dessus ça.
+
+-*who_frontin
+Eh bien !
+Lisette, je vous donne six mois pour revenir à moi.

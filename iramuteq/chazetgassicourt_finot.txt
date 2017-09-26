@@ -1,0 +1,1024 @@
+
+
+**** *book_ *id_I01 *act_I *date_1701
+
+-*who_finot
+Ce que c'est que de nous !
+Moi, ancien portier de monsieur de Bièvre, valet chez madame Cocasse !
+C'est pourtant mon talent pour les calembourgs qui m'a valu ça.
+Feu monsieur Cocasse les aimait comme une bête ; moi, je lui ai fait aimer encore davantage, de façon que toute la maison en fait à présent, et les plus mauvais sont les plus bons.
+Eh ben, dans le commencement, monsieur Cocasse ne voulait pourtant pas prendre de valet : mais, comme il allait toutes les semaines passer une quinzaine de jours à la campagne, ceux qui venaient, ne pouvant parler à personne, écrivaient sur la muraille avec du charbon.
+Quand il a vu que tout le monde lui "faisait des noirceurs" comme ça, il m'a pris à son service.
+Le pauvre cher homme est mort bien riche, sans avoir marié sa fille qui ne demandait pas mieux : mais ça ne tardera pas, et je crois que c'est aujourd'hui que ça se décide.
+Pourvu que monsieur Plaisantin, son tuteur, ne la donne pas à ce vilain monsieur Double-Sens qu'elle ne peut pas souffrir !
+J'aimerais mieux qu'elle épousît pour mari ce jeune-homme qui demeure en face de chez nous, et pour qui elle "a de la pente".
+En attendant, arrangeons le déjeuner : des tasses d'un côté, des verres de l'autre.
+Madame Cocasse veut être devant un plat : eh ben, elle sera en face de monsieur Double-Sens.
+Monsieur Plaisantin ne boit que de l'eau ; le voilà.
+Et puis, le pain et le vin ; car ici on n'aime pas le pain "sans levain".
+Et puis, mademoiselle Barbe à ste place-ci ; elle m'a bien dit : Finot, mon ami, tâche de mettre mon prétendu de côté : c'est ce que j'ai fait.
+Mon Dieu !
+Mon Dieu !
+Que c'est bien arrangé !
+Maintenant, faut avertir.
+La compagnie !
+C'est fait.
+
+**** *book_ *id_I02 *act_I *date_1701
+
+-*who_plaisantin
+Allons, plaçons-nous ; on ne parle jamais mieux d'affaires que lorsqu'on est dans son assiette.
+
+-*who_doublesens
+L'avis est aussi bon qu'agréable ; mais pouvons-nous nous repaître d'autre chose que des regards de mademoiselle Barbe ?
+
+-*who_finot
+Un moment : avant de vous mettre à table, il faut que je vous donne une nouvelle.
+
+-*who_plaisantin
+Laquelle ?
+
+-*who_finot
+Un journal dit que, depuis les bals masqués, on ne reconnaît plus les chiens à Hambourg.
+
+-*who_madmecocasse
+Et pourquoi ?
+
+-*who_finot
+C'est qu'ils sont tous "Hambourgeois".
+
+-*who_plaisantin
+Tenez, goûtez de ce jambon, et, si vous le trouvez tendre, vous direz que vous êtes arrivés à "bon port".
+
+-*who_doublesens
+Vous parlez-là comme un "homme de l'art".
+Mais on a eu tort de tuer ce porc.
+
+-*who_plaisantin
+Pourquoi donc ?
+
+-*who_doublesens
+C'est qu'il n'est pas "coupable".
+
+-*who_barbe
+Je voudrais de la bierre.
+
+-*who_finot
+Mademoiselle, il n'y en a pas ; mais, si vous voulez, je vais vous "en brasser".
+
+-*who_plaisantin
+Allons, trêve d'équivoque, Madame Cocasse, "notre Barbe grandit" ; il est temps de la marier, et voilà monsieur Double-Sens qui ne demande pas mieux que d'être votre gendre.
+
+-*who_madmecocasse
+C'est-à-dire que monsieur veut être un "beau fils".
+
+-*who_doublesens
+Je l'avoue, depuis longtemps les appas de mademoiselle Barbe ont battu le briquet sur l'amadoue de mon cœur.
+
+-*who_finot
+Tiens !
+Quel "sobriquet" !
+
+-*who_barbe
+Ce que vous me dites-là est très flatteur pour moi ; mais, avant de me décider, je demanderai le temps de réfléchir.
+
+-*who_plaisantin
+C'est trop juste ; il ne faut rien brusquer.
+Feu monsieur Cocasse, votre père, disait souvent : Ma fille sera jolie ; mais ce n'est pas tout d'avoir un "corbeau", un "cordelier" ; il faut avoir un "corsage" ; et, pour plus de sûreté, il faut mettre promptement cette sagesse entre les mains d'un mari.
+
+-*who_madmecocasse
+Je me charge de le choisir, et ma fille est trop docile pour aller "outre mère".
+
+-*who_barbe
+Un moment : je sais que mon père avait disposé de ma main dans son testament, et je ne puis consentir à aucun mariage, avant de connaitre ses intentions.
+
+-*who_plaisantin
+C'est tout naturel ; mais ce testament ne se trouve pas, et, dans cet embarras, il faut pourtant un "débouché".
+
+-*who_doublesens
+Vous y êtes.
+
+-*who_plaisantin
+Qu'est-ce à dire ?
+Une bouteille vide.
+
+-*who_finot
+Ça ne se peut pas, puisqu'elle est avec la lettre et le cachet de monsieur Cocasse ; tenez, voyez-vous la "lettre-de-cachet" ?
+
+-*who_plaisantin
+Vois plutôt toi-même, imbécile !
+
+-*who_finot
+Dam !
+Monsieur, je vois ben qu'il y a quelque chose là-dedans ;
+C'est un rouleau de papier.
+
+-*who_madmecocasse
+Ah !
+Mon Dieu !
+Est-ce que mon mari a mis son "esprit en bouteille" ?
+
+-*who_plaisantin
+« Ceci est mon testament ».
+Ah !
+Ah !
+Ah !
+
+-*who_doublesens
+Je reconnais bien là mon ami Cocasse : il avait toujours le petit mot pour rire.
+
+-*who_finot
+Il faut lire "le nouveau testament".
+
+-*who_plaisantin
+J'y consens.
+« Pour qu'on ait plus d'agrément à lire mes dernières volontés, je les ai mises en vers ».
+
+-*who_finot
+Oui, en verre, et en "verre vert", encore.
+
+-*who_plaisantin
+« Voulant "faire ma barbe"... la plus heureuse femme du monde, je désire qu'elle épouse un homme-de-lettres comme moi, qui ne parle jamais qu'en pointes, qui soit la pure farine des plaisants, et qui puisse donner "leçon" à ses confrères ; et, pour s'assurer s'il a le mérite que je lui desire, je laisse ci-joints trois calembourgs qu'il sera tenu de deviner, avant de signer le contrat par lequel je donne à ma fille trente mille livres... »
+
+-*who_finot
+Diable ! ça fera une belle bibliothèque.
+
+-*who_plaisantin
+« Trente-mille livres en mariage, à moins que celui qu'elle choisira ne soit un "antidote", et ne laisse l'argent à ma veuve.
+De plus, j'exige qu'il explique l'inscription qu'on trouvera sur "une pierre, dans ma cave ».
+
+-*who_doublesens
+Je suis impatient de me caver, pour voir cette inscription.
+
+-*who_plaisantin
+Je suis curieux de voir aussi ce que veut dire le défunt.
+Descendons à la cave, et ne cherchons pas "en vain".
+Viens-tu, Barbe ?
+
+-*who_barbe
+Je vous remercie, mon oncle ; en fait d'inscription, je n'y entend, pas grand'chose.
+
+-*who_doublesens
+Ah çà !
+Mais, comment descendrez-vous à la cave ?
+
+-*who_plaisantin
+Eh !
+Parbleu !
+Par l'escalier.
+
+-*who_doublesens
+C'est fort bien, mais l'escalier est parti.
+
+-*who_plaisantin
+Comment cela ?
+
+-*who_doublesens
+Je viens de le voir "en marches".
+
+-*who_finot
+Ah ben !
+Je suis sûr qu'il sera parti avec les oignons, car je les ai vus en "bottes".
+
+-*who_doublesens
+Vous ne me retiendrez pas longtemps, parce qu'il faut que j'aille au faubourg Saint-Germain.
+
+-*who_finot
+Oui, mais vous ne pourrez pas passer sur le Pont-Neuf.
+
+-*who_doublesens
+Pourquoi donc ?
+
+-*who_finot
+Parce qu'il n'y en a plus.
+
+-*who_doublesens
+J'y ai passé encore ce matin.
+
+-*who_finot
+Je vous dit que j'en suis sûr, puisque je le tiens de quelqu'un qui vient de "la Vallée".
+
+**** *book_ *id_I03 *act_I *date_1701
+
+-*who_barbe
+Je tremble que ce maudit Double-Sens ne remplisse les conditions imposées par le testament de mon père.
+Si j'étais assez heureuse pour en prévenir Taxe, mon jeune voisin !
+Il m'aime ; et, sous prétexte de parler à ma mère de ses contributions, il m'a promis de venir ce matin : il faut absolument qu'il imite le jargon à la mode.
+Pour l'y déterminer, le meilleur moyen est de ne lui parler moi-même qu'en pointes.
+Le voici, commençons.
+
+**** *book_ *id_I04 *act_I *date_1701
+
+-*who_taxe
+Je bénis le sort qui m'a fourni un prétexte pour venir à vos pieds.
+Il est donc vrai que mes soins ont su vous toucher.
+Qu'il est doux quand on s'aime !...
+
+-*who_barbe
+Quand "on sème", on doit "recueillir".
+
+-*who_taxe
+Votre lettre, cette lettre charmante, sera toujours gravée au fond de mon cœur.
+
+-*who_barbe
+De votre cœur ?
+Mais je m'y croyais "gravée avant la lettre".
+
+-*who_taxe
+Quel accueil !
+Quel discours !
+Amant plein d'ardeur, j'espérais vous trouver amante.
+
+-*who_barbe
+Me trouver à "Mantes" ?
+Mais, je suis fort bien à Paris.
+
+-*who_taxe
+Quel jeu cruel !
+Ne puis-je savoir pourquoi vous me tenez un pareil langage ?
+
+-*who_barbe
+Pour vous décider à l'adopter, c'est celui de votre rival ; c'est le seul qui plaise à ma mère, à mon oncle, et sachez que mon père, par son testament, exige que je donne ma main à celui dont le langage, rempli d'équivoques, sera le plus bizarre.
+
+-*who_taxe
+Ah !
+Je suis perdu !
+Le langage de la nature est le seul que je sache employer, et je parle toujours d'après mon cœur.
+Je n'ai jamais connu cet art fatigant de jeux de mots, qui est quelquefois le travers d'un homme d'esprit, mais qui, plus souvent, est l'esprit d'un sot : cet art qui avilit notre langue, dénature les expressions, force le sens ; et, multipliant les énigmes et les calembourgs, ne nous laisse que l'heureuse ressource de ne pas les comprendre.
+
+-*who_barbe
+Enfin, m'aimez-vous ?
+
+-*who_taxe
+En pouvez-vous douter ?
+
+-*who_barbe
+Eh bien !
+Abjurez un moment le bon sens et la raison, puisque c'est le seul moyen de m'obtenir.
+Un bon peintre, mon ami, fait quelquefois des caricatures : voyons, essayez avec moi.
+Tenez, supposez que je sois ma mère, et que je vous surprenne.
+    « Comment, citoyen ?
+Vous avez l'audace de parler d'amour à ma fille, avant de vous être adressé à moi » ?
+
+-*who_taxe
+Madame, je ne croyais pas devoir faire une déclaration "à mère".
+
+-*who_barbe
+À merveille !
+Continuons :
+    « Monsieur, un pareil procédé me donne beaucoup d'humeur ».
+
+-*who_taxe
+Cela ne m'étonne pas ; on m'a dit que vous étiez une femme "habile".
+
+-*who_barbe
+« Vous n'aurez jamais mon consentement ».
+
+-*who_taxe
+Vous voulez donc faire de moi un homme "sans aveu" ?
+
+-*who_barbe
+De mieux en mieux !
+Pour le coup, je crois que vous m'aimez ; car vous perdez l'esprit pour moi.
+Voici ma mère : du courage.
+
+**** *book_ *id_I05 *act_I *date_1701
+
+-*who_madmecocasse
+Que vois-je ?
+Un homme avec ma fille !
+
+-*who_taxe
+N'est-ce point Madame Cocasse que j'ai l'honneur de saluer ?
+
+-*who_madmecocasse
+Oui, citoyen.
+
+-*who_taxe
+On ne m'a point trompé, Madame, en me disant que je trouverais ici un beau port de mère.
+
+-*who_madmecocasse
+Il est jovial : monsieur est sans doute fourbisseur, puisqu'il sait faire des "pointes".
+
+-*who_taxe
+Non, madame ; je suis contrôleur des contributions.
+
+-*who_madmecocasse
+Directes ?
+
+-*who_taxe
+Et indirectes.
+
+-*who_barbe
+Monsieur n'en impose pas.
+
+-*who_taxe
+Au contraire, je suis chargé des réclamations ; et, quoique mes fonctions soient bien multipliées, je ne manque pas de "mémoire" : voici le vôtre.
+
+-*who_madmecocasse
+Vous l'avez sans doute trouvé juste ?
+
+-*who_taxe
+Oui, Madame, c'était une faute dans la "distribution des rôles".
+
+-*who_madmecocasse
+Des rôles ?
+Vous savez, je le vois, remplir le vôtre, et réparer les erreurs.
+
+-*who_taxe
+Rien de plus facile ; mais j'ai besoin des papiers dont vous voyez la note.
+
+-*who_madmecocasse
+Je vais vous les remettre ; mais souffrez auparavant que je vous remercie et vous félicite de votre enjouement : ordinairement, les gens de votre état sont tristes.
+
+-*who_taxe
+Au contraire, Madame, les receveurs des impositions font toujours des "comptes".
+
+**** *book_ *id_I06 *act_I *date_1701
+
+-*who_finot
+Madame, sans vous interrompre, si vous vouliez cesser votre conversation pour m'écouter, je vous rendrais compte de ma commission.
+
+-*who_madmecocasse
+Voyons, qu'y a-t-il ?
+
+-*who_finot
+Je sors de ce notaire où ce que vous m'avez envoyé ; mais c'est fini, je n'y retourne plus.
+
+-*who_madmecocasse
+Comment cela ?
+
+-*who_finot
+Sûrement ; c'est qu'ils sont malhonnêtes comme tout dans cette maison-là.
+Je vois de l'écriture sur la loge du portier : je me mets à épeler : p, a, r, par, l, é, s, lés, parlez ; v'là cet autre qui m'interrompt brusquement : allez à l'étude, mon ami, qu'il me dit, "allez à l'étude".
+C'est-il un opprobre, ça, pour un homme comme moi, qu'a balayé deux ou trois colléges, et qu'a même eu un prix...
+
+-*who_madmecocasse
+Tu as eu un prix, toi ?
+
+-*who_finot
+Oui, madame.
+
+-*who_madmecocasse
+Où donc ?
+
+-*who_finot
+Pardi !
+Où on les distribue, dans la "salle aux prix".
+Enfin, v'là qu'on me conduit dans une classe où il y a des écoliers qui griffonnent.
+Je demande monsieur Grapin : on me dit qu'il va venir chez madame, tout-à-l'heure ; mais je ne conseille pas à madame de se servir de cet homme-là.
+
+-*who_barbe
+Pourquoi ?
+
+-*who_finot
+C'est que ce n'est pas un notaire, c'est un auteur.
+
+-*who_madmecocasse
+Un auteur.
+
+-*who_finot
+Sûrement, puisqu'on m'a dit qu'il faisait "un acte".
+
+-*who_madmecocasse
+L'imbécile !
+Monsieur, je vais chercher mes papiers.
+Viens, ma fille.
+
+-*who_barbe
+Ne vous impatientez pas.
+
+-*who_madmecocasse
+Je reviens dans l'instant.
+
+-*who_taxe
+Madame, vous aurez beau revenir promptement ; vous ne serez de longtemps "sur le retour".
+
+-*who_madmecocasse
+Il est vraiment aimable.
+Bien fâchée de vous laisser seul.
+
+-*who_finot
+Oh !
+Monsieur ne s'ennuiera pas ; je vas lui tenir compagnie.
+
+-*who_taxe
+C'est bien désagréable que, pour avoir ses papiers en règle, il faille toujours être "par chemin".
+
+**** *book_ *id_I07 *act_I *date_1701
+
+-*who_finot
+J'ai vu sûrement cette figure-là sur un visage de ma connaissance.
+
+-*who_taxe
+Mais je crois que c'est Finot, mon ancien commissionnaire.
+
+-*who_finot
+Ne me parlez pas de ce temps-là, Monsieur ; toujours au coin de la rue, j'étais un homme "borné" ; c'est bien autre chose à-présent.
+
+-*who_taxe
+Tu es donc mieux ?
+
+-*who_finot
+Pardine !
+Je le crois ; Monsieur Cocasse m'a fait beaucoup de cadeaux.
+Tenez, voilà une montre qu'il m'a donnée.
+
+-*who_taxe
+Elle est fort jolie ; mais comment s'est-il défait d'un pareil bijou ?
+
+-*who_finot
+Oh !
+Quand il me l'a donné, il n'en avait plus besoin, parce qu'il partait pour Évreux ; et comme il allait se trouver là dans le département de "l'Eure"...
+
+-*who_taxe
+Oui, oui ; mais comment fais-tu pour être si propre ?
+
+-*who_finot
+Oh !
+J'ai trouvé un moyen de ne jamais me crotter.
+
+-*who_taxe
+Comment cela ?
+
+-*who_finot
+C'est que, quand j'entre dans une rue, je ne vais jamais jusqu'au "bout".
+
+-*who_taxe
+N'as-tu pas demeuré chez un botaniste ?
+
+-*who_finot
+Oui, monsieur, et j'en suis sorti, parce que je n'y faisais pas de progrès.
+
+-*who_taxe
+Comment cela ?
+
+-*who_finot
+Pendant six mois j'ai toujours resté sur la même plante.
+
+-*who_taxe
+Laquelle donc ?
+
+-*who_finot
+Sur la "plante des pieds".
+
+-*who_taxe
+Tu devines sans doute ce qui m'a conduit ici ?
+
+-*who_finot
+Parguène !
+C'est le fiacre qu'est là-bas.
+
+-*who_taxe
+Tiens, voilà de quoi boire à ma santé.
+
+-*who_finot
+Bien volontiers.
+Je tiens déjà le "pot-de-vin".
+
+-*who_taxe
+Allons au fait.
+Je suis venu pour expliquer l'inscription d'une certaine pierre que feu ton maître avait trouvée et déposée dans sa cave.
+
+-*who_finot
+Qn'appelez-vous une pierre ?
+Il y a bien cinq morceaux qui font tout juste le patron de monsieur Cocasse.
+
+-*who_taxe
+Comment, le patron ?
+
+-*who_finot
+Oui ; Saint-Pierre.
+
+-*who_taxe
+Mais, enfin, où l'a-t-on trouvée ?
+
+-*who_finot
+Ah !
+C'est une fière "histoire ancienne" : D'abord, c'est un jeudi que je l'ai descendue à la cave.
+
+-*who_taxe
+Tâche de ne pas commencer par la fin.
+
+-*who_finot
+Savez-vous ce qu'on commence par la "faim" ?
+
+-*who_taxe
+Ma foi, non.
+
+-*who_finot
+C'est un bon repas.
+
+-*who_taxe
+C'est juste.
+Revenons à mon affaire.
+
+-*who_finot
+Vous connaissez Menilmontant ?
+
+-*who_taxe
+Oui.
+
+-*who_finot
+Belleville, où ce qu'il y a des moulins ?
+Mais je ne veux pas vous parler des moulins avant, j'en parlerai après.
+
+-*who_taxe
+Oui.
+
+-*who_finot
+Clignancourt ?
+
+-*who_taxe
+Oui.
+
+-*who_finot
+Clichy ?
+
+-*who_taxe
+Oui, oui.
+
+-*who_finot
+Eh ben !
+Ce n'est pas là.
+
+-*who_taxe
+Mais, finiras-tu ?
+
+-*who_finot
+Vous y êtes.
+Figurez-vous donc qu'au bas de Montmartre, il y avait un petit sentier qu'allait tout droit, en tournant, jusqu'aux trois moulins et aux fours des plâtriers.
+
+-*who_taxe
+Eh bien !
+Achèveras-tu ?
+
+-*who_finot
+C'est par-là que les jeunes ânes, Monsieur, entraient dans la carrière, et c'est au bas de ce petit sentier que nous avons trouvé la pierre.
+
+-*who_taxe
+Bon !
+Je profiterai de ce renseignement.
+
+-*who_finot
+À propos de sentier, faut que vous sachiez que vous avez un rival.
+
+-*who_taxe
+Un rival ?
+
+-*who_finot
+Oui, le citoyen Double-Sens, maître maçon, celui à qui appartient les planches que vous voyez contre la maison qui fait le coin.
+
+-*who_taxe
+Qu'importe ?
+
+-*who_finot
+Ne vous y fiez pas ; il pourrait bien vous faire des "niches" ; et, sans vous faire des compliments, une bête et lui c'est deux.
+Quoique ça, je l'ai embarrassé un jour, en lui demandant qu'elle était la plaine la plus élevée, et peut-être bien que ça vous embarrasse aussi.
+
+-*who_taxe
+J'avoue que je ne sais ce que c'est.
+
+-*who_finot
+Eh bien, c'est la pleine lune.
+
+-*who_taxe
+Dis-moi : est-il bien reçu dans la maison ?
+
+-*who_finot
+Certainement, puisque c'est lui qui l'a bâtie ; et je dis : il n'y fait pas froid, puisqu'il l'a bâtie à "chaux".
+
+-*who_taxe
+Eh !
+Quelle espèce d'homme est-ce ?
+
+-*who_finot
+Oh !
+Ben jovial.
+Quand il fait couvrir un bâtiment, il prend toujours les couvreurs les plus gais.
+
+-*who_taxe
+Pourquoi cela ?
+
+-*who_finot
+Pour que la joie soit au "comble", et voilà pourquoi il est maintenant dans la cave à chercher cette inscription dont je vous parlais tout-à-l'heure.
+
+-*who_taxe
+Voici quelqu'un.
+
+-*who_finot
+C'est le notaire.
+
+**** *book_ *id_I08 *act_I *date_1701
+
+-*who_grapin
+On m'a dit, monsieur, que je vous trouverais ici.
+Et je suis venu en droite ligne.
+
+-*who_taxe
+Non, monsieur, vous êtes venu en "toussant".
+
+-*who_grapin
+Je ne vous demande qu'un quart-d'heure pour lire la "minute".
+
+-*who_taxe
+Vous comptez mal, monsieur ; si je vous écoute un quart-d'heure, vous me lirez "quinze minutes et non pas une".
+
+-*who_grapin
+Vous avez, je le sais, beaucoup d'esprit à plaisanter ; mais un contrat sérieux comme celui-ci...
+
+-*who_taxe
+Sérieux !
+Tenez, monsieur, je parie qu'il ne l'est pas autant que le Contrat social.
+
+-*who_grapin
+Il me semble qu'un mariage est une affaire...
+
+-*who_taxe
+D'état, et souvent une affaire d'honneur.
+
+-*who_grapin
+On m'avait bien prévenu que monsieur Double-Sens aimait à rire ; mais je croyais qu'avec un homme de mon caractère, il voudrait bien se contraindre, et parler sérieusement.
+
+-*who_taxe
+Bon !
+Il me prend pour mon rival.
+Eh bien !
+Monsieur, j'écoute.
+
+-*who_grapin
+Par-devant etc.
+Marc-Roch-Luc Grapin, furent présents Jérôme Double-Sens d'une part, et Barbe Cocasse, fille mineure, de l'autre, lesquels, etc.
+Ladite future apporte une maison...
+
+-*who_finot
+Elle ne sera jamais assez forte pour cela.
+
+-*who_grapin
+Si vous m'interrompez toujours, comment voulez-vous entendre ?
+
+-*who_taxe
+Allons, je serai, comme vous, tout oreilles.
+
+-*who_grapin
+Voici une clause essentielle : ladite Barbe, en cas de mort, aura...
+
+-*who_finot
+Comment, de "mort aux rats" ?
+
+-*who_grapin
+Mais attendez donc...
+Aura pour héritier direct et légitime, le survivant conjoint.
+
+-*who_taxe
+Ah !
+Bon !
+
+-*who_grapin
+Article vingt.
+
+-*who_taxe
+Mais je croyais que c'était fait ; vous en étiez à "l'article de la mort".
+
+-*who_grapin
+Ah !
+Je perds patience ; vous mariera qui voudra.
+Je plains votre femme, si vous lui faites toujours des pointes.
+
+-*who_taxe
+J'espère cependant qu'elle aimera le système des pieuses.
+
+-*who_grapin
+Vous me mettez hors des gonds.
+
+-*who_taxe
+Eh bien !
+C'est le cas de prendre la porte.
+
+-*who_grapin
+Je la prends.
+Vous mériteriez que je me vengeasse par d'aussi mauvais calembours que les vôtres.
+Voyons quelle est la ville où l'on mange le poisson le plus délicat ?
+
+-*who_finot
+C'est un port de mer.
+
+-*who_grapin
+Un port de mer !
+C'est Jérusalem.
+
+-*who_taxe
+Comment ?
+
+-*who_grapin
+Parce que les murailles sont "détruites".
+Il est authentique celui-là ; il est passé par-devant notaire.
+
+**** *book_ *id_I09 *act_I *date_1701
+
+-*who_taxe
+Me voilà sûr d'avoir gagné du temps ; voyons quelle sera l'issue de tout ceci.
+
+**** *book_ *id_I10 *act_I *date_1701
+
+-*who_plaisantin
+Ma foi, notre ami Double-Sens est bien près de deviner l'inscription.
+Mais je croyais madame Cocasse ici.
+Ah !
+Voici le notaire.
+Citoyen notaire, soyez le bienvenu.
+
+-*who_taxe
+La bonne méprise !
+
+-*who_plaisantin
+Nous allons le marier.
+Ma foi, j'ai eu quelque inquiétude.
+
+-*who_taxe
+Quoi donc ?
+
+-*who_plaisantin
+Vous me promettez le secret.
+
+-*who_taxe
+Vous ne me connaissez pas.
+
+-*who_plaisantin
+Il y a de par le monde un certain Taxe, un jeune homme assez mauvais sujet, dit-on.
+
+-*who_taxe
+Vous le connaissez donc ?
+
+-*who_plaisantin
+De réputation ; il demeure ici vis-à-vis, et j'ai su qu'il avait des vues sur ma nièce.
+
+-*who_taxe
+Comment des vues !
+Est-ce que ses fenêtres donnent sur cet appartement ?
+
+-*who_plaisantin
+Heureusement qu'il n'a point été averti des conditions du testament ; car il se fût présenté pour deviner l'inscription, et il eût fallu l'admettre.
+Mais vous êtes sans doute pressé de les marier, et je ne veux pas retarder le bonheur de ma nièce.
+Finot ?
+Finot ?
+
+**** *book_ *id_I11 *act_I *date_1701
+
+-*who_plaisantin
+Préviens Double-Sens que Monsieur l'attend, et monte ici la pierre.
+
+-*who_finot
+Comment, monte la pierre ?
+Vous me prenez donc pour une grue.
+
+-*who_plaisantin
+Va donc, imbécile !
+
+**** *book_ *id_I12 *act_I *date_1701
+
+-*who_madmecocasse
+Citoyen, voilà mes papiers ; je remets mon sort entre vos mains, et voilà ce dont il s'agit.
+Expose très-humblement, Gertrude-Félicité Cunégonde, veuve en quatrième noce de Pancrasse-Jérôme Cocasse, qu'ayant été imposée par double emploi au rôle des contributions...
+
+-*who_plaisantin
+Comment !
+Mais ce n'est pas-là le style d'un contrat de mariage.
+
+-*who_madmecocasse
+Et qui vous parle de contrat de mariage ?
+Il s'agit d'un dégrèvement de contribution que monsieur s'est chargé de me faire obtenir.
+
+-*who_plaisantin
+Comment !
+J'ai cru que le citoyen était notaire.
+
+-*who_madmecocasse
+Point du tout ; le citoyen est vérificateur des impositions, en attendant qu'il soit receveur.
+Je vous le donne pour homme d'esprit.
+
+-*who_plaisantin
+Cela étant, je l'invite à assister à notre séance.
+
+-*who_taxe
+Vous ne pourriez me faire un plus grand plaisir.
+
+**** *book_ *id_I13 *act_I *date_1701
+
+-*who_finot
+V'là tous les morceaux, et je dis c'est fort, car c'est une "pierre de taille".
+
+-*who_plaisantin
+Asseyons-nous et procédons, car c'est plutôt une "pierre d'attente".
+
+-*who_madmecocasse
+Pour faire d'une "pierre deux coups", voyons d'abord les calembours.
+
+-*who_plaisantin
+Un.
+Qu'est-ce qui a fait le plus de tort aux marchands de tabac ?
+
+-*who_doublesens
+Ce sont les impôts ?
+
+-*who_taxe
+Pas du tout.
+C'est la descente "d'Enée aux Enfers".
+
+-*who_plaisantin
+C'est cela.
+Deux.
+Quel est l'animal à quatre pattes, le plus âgé ?
+
+-*who_doublesens
+Ne serait-ce pas la cigale ?
+
+-*who_taxe
+Non, non.
+C'est le mouton.
+
+-*who_plaisantin
+Comment cela ?
+
+-*who_taxe
+Parce qu'il est lainé.
+
+-*who_plaisantin
+C'est juste.
+Trois.
+Quelle est la saison que les journalistes redoutent le plus ?
+
+-*who_doublesens
+Parbleu !
+C'est la saison des orages.
+
+-*who_taxe
+Vous n'y êtes pas ; c'est l'automne.
+
+-*who_plaisantin
+Pourquoi ?
+
+-*who_taxe
+À cause de la chute des feuilles.
+
+-*who_finot
+Écoutez, que je vous en propose quelqu'un aussi, moi.
+Savez-vous pourquoi les Juifs aiment beaucoup le nouveau calendrier ?
+
+-*who_doublesens
+Non.
+
+-*who_finot
+C'est qu'ils y trouvent un messidor.
+
+-*who_plaisantin
+C'est vrai.
+
+-*who_finot
+Que je vous donne une nouvelle : depuis les enrôlements volontaires, tous les huissiers se sont présentés pour se faire enrôler, mais on les a refusés.
+
+-*who_plaisantin
+Eh !
+Pourquoi les a-t-on refusés ?
+
+-*who_finot
+Parce qu'on n'a pas besoin d'eux pour les "exploits".
+
+-*who_plaisantin
+Allons, allons ; voyons la pierre.
+
+-*who_doublesens
+Diable !...
+J'en approche...
+Mais non...
+
+-*who_plaisantin
+Eh bien ?
+
+-*who_finot
+C'est la pierre infernale.
+
+-*who_barbe
+En quelle langue est l'inscription ?
+
+-*who_madmecocasse
+C'est du grec, je pense.
+
+-*who_doublesens
+Non, c'est du latin.
+
+-*who_finot
+Eh bien !
+Vous y perdrez votre latin.
+
+-*who_taxe
+Pour moi, je crois que c'est du français.
+
+-*who_doublesens
+Allons donc...
+Une inscription en français !
+Fi donc !
+C'est une épitaphe, et la voici.
+Non, je n'y suis pas.
+
+-*who_plaisantin
+Qu'en dit, monsieur ?
+
+-*who_taxe
+Qu'il ne s'agit que des avoir épeler pour deviner le sens de cette pierre.
+
+-*who_doublesens
+Elle sera pour vous une pierre d'achoppement.
+
+-*who_taxe
+Elle a été trouvée à Montmartre, n'est-il pas vrai ?
+
+-*who_finot
+Ah !
+Mon dieu, oui !
+Tout en haut de la butte, en descendant.
+
+-*who_taxe
+Eh bien !
+En rapprochant les cinq morceaux, vous allez lire couramment l'inscription :
+MONTMARTRE EST LE CHEMIN DES ÂNES.
+
+-*who_finot
+Eh ben !
+Il vous a mis sur la voie.
+
+-*who_plaisantin
+C'est, ma foi, vrai.
+
+-*who_barbe
+Il a deviné.
+
+-*who_taxe
+Je crois avoir rempli les conditions du testament ; il ne me reste plus qu'a réclamer les droits qu'il me donne.
+
+-*who_plaisantin
+Qu'en pensez-vous, madame Cocasse ?
+
+-*who_madmecocasse
+C'est juste.
+
+-*who_plaisantin
+Alors, je vous unis.
+
+-*who_taxe
+Quel bonheur !
+
+-*who_finot
+L'époux de mademoiselle Barbe a de l'esprit et du cœur, et je suis bien aise qu'on n'ait pas donné un "plat à Barbe".
+
+VAUDEVILLE.
+
+-*who_plaisantin
+La plainte est toujours pour le sot ;
+Le sage est consolé d'avance.
+Ne pouvant prendre femme, il faut
+Apprendre à prendre patience.
+Sans pleurer ici ton tourment,
+Dès ce soir renonce à ta belle,
+Et pareil à l'amour constant,
+Tu pourras bien vivre sans "aile".
+
+-*who_madmecocasse
+Tous vos vœux seraient superflus,
+Et votre bonheur se devine ;
+L'Amour, pour remplacer Plutus,
+Vous offre une charmante "mine".
+Tu choisis un brave garçon,
+Qui pourtant n'est pas des plus riches ;
+Tu fais très bien, car un maçon
+T'aurait sans doute fait des "niches".
+
+-*who_barbe
+D'un sentiment triste et jaloux,
+Éloigne l'atteinte cruelle,
+Et ne crains pas qu'à son époux
+Ta femme se montre infidèle.
+L'Amour, de nos cœurs bien épris,
+Fixera l'union constante ;
+Et, même en habitant Paris,
+Je veux toujours rester "à Mantes".
+
+-*who_taxe
+Le goût proscrit les calembours ;
+Mais il a beau nous les défendre,
+À force d'en faire toujours,
+On finit par ne pas s'entendre.
+Du bon sens suivez mieux la loi ;
+Quittez ce jargon que l'on vante ;
+Abjurez la pointe, et pour moi
+Vous n'en serez que plus "piquante".
+
+-*who_finot
+Chacun est encore incertain
+Sur le sort de cette bluette ;
+Donnez-lui quelques coups "de main" ;
+Dès ce soir sa fortune est faite.
+Sans murmurer, l'auteur attend
+Votre critique ou votre éloge ;
+Mais songez bien qu'en ce moment
+Il est dans le "martyre aux loges".

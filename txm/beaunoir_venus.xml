@@ -1,0 +1,1748 @@
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vénus pélerine</title>
+        <title type="sub">,, comédie</title>
+        <author born="17460" born_location="Paris" death="1823" death_location="Paris" academie="">
+          <surname>Beaunoir</surname>
+          <forename> Alexandre-Louis-Bertrand Robineau dit de</forename>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p>publié par Paul FIEVRE, mai 2015</p>
+        <idno/>
+      </publicationStmt>
+      <sourceDesc>
+        <genre>Comédie</genre>
+        <inspiration>moeurs françaises</inspiration>
+        <structure>Un acte</structure>
+        <type>vers</type>
+        <periode>1771-1780</periode>
+        <taille>(mesure non pertinente)</taille>
+        <permalien>http://gallica.bnf.fr/ark:/12148/bpt6k1081661</permalien>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="created" when="1779-07-31"/>
+        <date type="issued" when="1778"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 xml:id="I" type="act" n="1">
+        <head/>
+        <div2 xml:id="I01" type="scene" n="1">
+          <head>SCÈNE PREMIÈRE. Vénus, Momus.<listPerson type="configuration" xml:id="conf1"/></head>
+          <sp xml:id="I01-1" who="MOMUS">
+            <p>
+              <s>Belle Vénus, la chose est donc bien véritable ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-2" who="VENUS">
+            <p>
+              <s>Hélas ! </s>
+              <s>Que trop véritable.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-3" who="MOMUS">
+            <p>
+              <s>Dans ce bas univers votre fils porte la besace ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-4" who="VENUS">
+            <p>
+              <s>Porte la besace.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-5" who="MOMUS">
+            <p>
+              <s>L’idée est singulière, et l’accoutrement peu noble.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-6" who="VENUS">
+            <p>
+              <s>Ajoutez, Seigneur Momus, ridicule, et indigne de l’Amour.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-7" who="MOMUS">
+            <p>
+              <s>Pas tout-à-fait.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-8" who="VENUS">
+            <p>
+              <s>Quoi ! </s>
+              <s>Se travestir en gueux, la besace sur le dos et le bâton blanc à la main ? </s>
+              <s>Ce fait est digne de mon fils.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-9" who="MOMUS">
+            <p>
+              <s>Sans doute. </s>
+              <s>Le Destin l’a fait naître pour jouer différents rôles, riche ou pauvre, berger et Roi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-10" who="VENUS">
+            <p>
+              <s>À la bonne heure. </s>
+              <s>Mais s’établir sur les Boulevards, et par-là s’exposer à la risée du peuple !</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-11" who="MOMUS">
+            <p>
+              <s>Vous pouviez bien dire de la canaille.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-12" who="VENUS">
+            <p>
+              <s>De la canaille : soit. </s>
+              <s>Ne disputons point sur les mots.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-13" who="MOMUS">
+            <p>
+              <s>Non ; car nous aurions trop à faire : n’est-ce pas ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-14" who="VENUS">
+            <p>
+              <s>Je suis accoutumé à vos traits de satire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-15" who="MOMUS">
+            <p>
+              <s>D’accord. </s>
+              <s>Mais raisonnons. </s>
+              <s>Quel est votre dessein en quittant l’Olympe ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-16" who="VENUS">
+            <p>
+              <s>Le voici. </s>
+              <s>Je viens sur la terre chercher mon fils, et le faire rougir de l’état honteux qu’il a pris.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-17" who="MOMUS">
+            <p>
+              <s>C’est fort bien fait à vous, charmante Vénus.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-18" who="VENUS">
+            <p>
+              <s>Quand une fois je l’aurai trouvé, je le corrigerai de la bonne manière.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-19" who="MOMUS">
+            <p>
+              <s>À merveille : mais vous, ô rigide Déesse, n’avez-vous pas descendu sur la terre pour converser, soit le jour et la nuit, la nuit ou le jour, et peut-être toutes deux ensemble, pour converser, dis-je, avec le charmant et bel Adonis ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-20" who="VENUS">
+            <p>
+              <s>Point du tout, Seigneur Momus, ce sont les poètes qui m’ont prête cette faiblesse-là. </s>
+              <s>Moi, un amant ? </s>
+              <s>Je suis mariée.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-21" who="MOMUS">
+            <p>
+              <s>Et c’est justement pour cela : votre cher époux, le Seigneur Vulcain, n’est pas trop beau, quoique, Dieu : ainsi le mortel a eu la préférence.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-22" who="VENUS">
+            <p>
+              <s>Qui vous l’a dit, caustique Momus ? </s>
+              <s>Y étiez-vous?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-23" who="MOMUS">
+            <p>
+              <s>Oh ! </s>
+              <s>Non assurément. </s>
+              <s>Mais encore, sans parler de vos amours avec le Dieu des Guerriers...</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-24" who="VENUS">
+            <p>
+              <s>Laissons tout cela.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-25" who="MOMUS">
+            <p>
+              <s>Je le veux bien. </s>
+              <s>Oui, changeons de discours.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-26" who="VENUS">
+            <p>
+              <s>Comment me trouvez vous ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-27" who="MOMUS">
+            <p>
+              <s>Moi, à merveille !</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-28" who="VENUS">
+            <p>
+              <s>Ce déguisement me sied-il bien ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-29" who="MOMUS">
+            <p>
+              <s>On ne peut mieux. </s>
+              <s>Vous êtes radieuse, quoique mise bien simplement.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-30" who="VENUS">
+            <p>
+              <s>Est-ce galanterie, ou bien raillerie ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-31" who="MOMUS">
+            <p>
+              <s>Ni l’un ni l’autre, je vous assure.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-32" who="VENUS">
+            <p>
+              <s>À propos, ce voile ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-33" who="MOMUS">
+            <p>
+              <s>Sous ce voile Vénus n’en est que plus belle.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-34" who="VENUS">
+            <p>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Ah! </s>
+              <s>Seigneur Momus, vous donnez dans la fadeur ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-35" who="MOMUS">
+            <p>
+              <s>Moi, Déesse, point du tout : je rends justice à vos charmes.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-36" who="VENUS">
+            <p>
+              <s>Laissez-là mes charmes, et occupez vous de ma peine. </s>
+              <s>Instruisez-moi des coutumes de ce pays-ci. </s>
+              <s>Où sommes-nous d’abord ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-37" who="MOMUS">
+            <p>
+              <s>Vous êtes à Constantinople, capitale de la Turquie.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-38" who="VENUS">
+            <p>
+              <s>Quelle est cette place ? </s>
+              <s>Quelles sont ces deux maisons ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-39" who="MOMUS">
+            <p>
+              <s>Celle-ci, qui est à droite, est une maison de Calender de la Secte d’Omar.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-40" who="VENUS">
+            <p>
+              <s>Quels font ces animaux-là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-41" who="MOMUS">
+            <p>
+              <s>Ces animaux-là, pour me servir de votre expression, belle Vénus, sont des hommes fainéants mais pieux, qui ne travaillent point, et qui néanmoins gagnent beaucoup.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-42" who="VENUS">
+            <p>
+              <s>Cette vie inutile n’est point du tout ordonnée par le grand Jupiter.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-43" who="MOMUS">
+            <p>
+              <s>Non ; les Dieux ne l’approuvent point : mais les mortels souvent font penser la Divinité à leur manière.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-44" who="VENUS">
+            <p>
+              <s>C’est une des faibleses humaines. </s>
+              <s>Et cette autre maison ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-45" who="MOMUS">
+            <p>
+              <s>Ce sont encore des Calenders d’une autre espèce, d’une autre conduite, d’un autre uniforme, mais toujours du même ordre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-46" who="VENUS">
+            <p>
+              <s>Ils ne diffèrent peut-être que du blanc au noir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-47" who="MOMUS">
+            <p>
+              <s>Vous l’avez deviné : ces derniers font de la Secte d’Hali.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-48" who="VENUS">
+            <p>
+              <s>Je vous remercie, Seigneur Momus ; me voilà un peu au fait. </s>
+              <s>Je vais voir si mon fils n’est point dans ces retraites.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-49" who="MOMUS">
+            <p>
+              <s>Quelle idée ! </s>
+              <s>Pourquoi ne point vous transporter dans le Sérail du Grand Seigneur ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-50" who="VENUS">
+            <p>
+              <s>Y pensez-vous, Momus ? </s>
+              <s>L’Amour est-il jamais dans ce lieu là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-51" who="MOMUS">
+            <p>
+              <s>Vous avez raison, vous le trouverez plutôt chez le Grand Muphti.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-52" who="VENUS">
+            <p>
+              <s>Vous devinez cette fois : laissez-moi seule, et ne vous éloignez pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-53" who="MOMUS">
+            <p>
+              <s>Je vais faire ma ronde chez les auteurs, et peut-être irai-je aux spectacles.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I02" type="scene" n="2">
+          <head>SCÈNE II. Vénus, Un Calender Noir.<listPerson type="configuration" xml:id="conf2"/></head>
+          <sp xml:id="I02-1" who="VENUS">
+            <p>
+              <s>Bon, le Ciel me favorise : voici un Calender qui sort de sa retraite.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-2" who="LECALENDER">
+            <p>
+              <s>Allons à la quête, je pense qu’aujourd’hui elle sera bonne.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-3" who="VENUS">
+            <p>
+              <s>Je tremble... </s>
+              <s>Tout coup vaille... </s>
+              <s>Abordons-le.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-4" who="LECALENDER">
+            <p>
+              <s>L’heureuse vie ! </s>
+              <s>Point de peine ; aucun travail.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-5" who="VENUS">
+            <p>
+              <s>Monsieur, sans vous interrompre, pourrais-je vous demander...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-6" who="LECALENDER">
+            <p>
+              <s>Me demander, Madame ? </s>
+              <s>Dites donc me prier.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-7" who="VENUS">
+            <p>
+              <s>Soit, Monsieur, vous prier.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-8" who="LECALENDER">
+            <p>
+              <s>Une réflexion encore : changez le nom de Monsieur en Monseigneur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-9" who="VENUS">
+            <p>
+              <s>Volontiers , Monseigneur. </s>
+              <s>Oserais-je donc vous prier, Monseigneur ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-10" who="LECALENDER">
+            <p>
+              <s>Bon, voilà comme on parle à des personnes de notre état.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-11" who="VENUS">
+            <p>
+              <s>Je l’ignorais, Monseigneur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-12" who="LECALENDER">
+            <p>
+              <s>Les petits et les grands fléchissent le genou devant mes confrères.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-13" who="VENUS">
+            <p>
+              <s>Je vous crois , Monseigneur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-14" who="LECALENDER">
+            <p>
+              <s>Il paraît, jeune Pèlerine, que vous n’êtes point de ce pays.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-15" who="VENUS">
+            <p>
+              <s>Vous l’avez dit, Monseigneur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-16" who="LECALENDER">
+            <p>
+              <s>Vous n’êtes pas obligé de savoir nos usages, nos coutumes : mais qui êtes-vous ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-17" who="VENUS">
+            <p>
+              <s>Hélas ! </s>
+              <s>Monseigneur, je suis une pauvre femme.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-18" who="LECALENDER">
+            <p>
+              <s>Joignez-vous à moi, et vous deviendrez riche.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-19" who="VENUS">
+            <p>
+              <s>De plus, je fuis une m7re affligée qui a perdu son fils, et son fils unique.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-20" who="LECALENDER">
+            <p>
+              <s>N’importe, vous êtes en âge d’une heureuse fécondité.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-21" who="VENUS">
+            <p>
+              <s>Oui, encore, Monseigneur : je le crois, du moins...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-22" who="LECALENDER">
+            <p>
+              <s>Enfin, finisions ; que cherchez vous ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-23" who="VENUS">
+            <p>
+              <s>Je vous l’ai déjà dit, Monseigneur, je cherche mon fils.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-24" who="LECALENDER">
+            <p>
+              <s>Votre fils ! </s>
+              <s>Eh ! </s>
+              <s>Comment est-il ? </s>
+              <s>Comment s’appelle-t-il ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-25" who="VENUS">
+            <p>
+              <s>L’Amour.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-26" who="LECALENDER">
+            <p>
+              <s>L’Amour ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-27" who="VENUS">
+            <p>
+              <s>Oui, Monseigneur, l’Amour.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-28" who="LECALENDER">
+            <p>
+              <s>« On ne connaît dans notre hospice ce petit Dieu tout au plus que de nom. »</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-29" who="VENUS">
+            <p>
+              <s>Je ne le savais pas, Monseigneur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-30" who="LECALENDER">
+            <p>
+              <s>Mais si vous voulez, gentille Pèlerine, entrer dans la maison, mes confr7res et moi ensemble nous en serons mémoire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-31" who="VENUS">
+            <p>
+              <s>Cela m’est impossible pour le présent.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-32" who="LECALENDER">
+            <p>
+              <s>Eh bien ! Remettons cet office mystérieux à tantôt : aussi bien je n’ai pas ce loisir : il faut que j’aille à la quête.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-33" who="VENUS">
+            <p>
+              <s>Comment ? </s>
+              <s>Le monde vous donne ce que vous demandez ainsi ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-34" who="LECALENDER">
+            <p>
+              <s>Bien plus encore : les personnes nous rapportent : nous paraissons ; on vient au devant de nous, et on nous comble de présents.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-35" who="VENUS">
+            <p>
+              <s>Eh ! </s>
+              <s>Par quelle puissance, par quel pouvoir ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-36" who="LECALENDER">
+            <p>
+              <s>Par le pouvoir, par la puissance de notre robe seule.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-37" who="VENUS">
+            <p>
+              <s>Je ne le savais pas, Monseigneur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-38" who="LECALENDER">
+            <p>
+              <s>Je ne fais que sonner ; les hommes et les femmes se rendent au son de ma clochette, et m’apportent ce que je désire, quelquefois au delà.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-39" who="VENUS">
+            <p>
+              <s>Il n’est pas surprenant après tout, si on considère qu’il y a plus de sots que de gens d’esprit.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-40" who="LECALENDER">
+            <p>
+              <s>Nous faisons bien des dupes, je m’en vante.</s>
+            </p>
+            <p>
+              <s>Sans adieu, Pèlerine.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I03" type="scene" n="3">
+          <head>SCÈNE III. Vénus, Un Calender.<listPerson type="configuration" xml:id="conf3"/></head>
+          <sp xml:id="I03-1" who="VENUS">
+            <p>
+              <s>Je crains que ma recherche ne soit vaine ; néanmoins essayons de frapper à l’autre porte.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-2" who="LECALENDER">
+            <p>
+              <s>Qui va là ? </s>
+              <s>Qui va là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-3" who="VENUS">
+            <p>
+              <s>Une pauvre femme, une mère affligée qui cherche son fils, et son fils unique.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-4" who="LECALENDER">
+            <p>
+              <s>Voyons. </s>
+              <s>Ouf... </s>
+              <s>Quel minois friand ! </s>
+              <s>Quelle bouche appétissante ! </s>
+              <s>Quelles vives prunelles !</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-5" who="VENUS">
+            <p>
+              <s>Monsieur, ou Monseigneur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-6" who="LECALENDER">
+            <p>
+              <s>Le nom de Monsieur me suffit ; je ne suis point glorieux.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-7" who="VENUS">
+            <p>
+              <s>Soit, Monsieur. </s>
+              <s>N’est-il point entré chez vous, Monsieur, un jeune enfant ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-8" who="LECALENDER">
+            <p>
+              <s>Oui, belle Pèlerine, oui. </s>
+              <s>Un jeune homme assez grand est venu hier se rendre à la maison pour se faire de notre état.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-9" who="VENUS">
+            <p>
+              <s>Ce n’est pas lui, Monsieur ; mon fils est petit.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-10" who="LECALENDER">
+            <p>
+              <s>J’en suis fâché, car je me sens actif à vous obliger.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-11" who="VENUS">
+            <p>
+              <s>Oh ! </s>
+              <s>Vous obligeriez un[e] ingrate.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-12" who="LECALENDER">
+            <p>
+              <s>N’importe : mais comment nommez-vous Monsieur votre fils ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-13" who="VENUS">
+            <p>
+              <s>L’Amour.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-14" who="LECALENDER">
+            <p>
+              <s>L’Amour ! </s>
+              <s>L’Amour qui regne à Cythère ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-15" who="VENUS">
+            <p>
+              <s>Oui, lui-même, le Dieu de Cythère.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-16" who="LECALENDER">
+            <p>
+              <s>Vous êtes donc Vénus.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-17" who="VENUS">
+            <p>
+              <s>Oui, à peu près.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-18" who="LECALENDER">
+            <p>
+              <s>Eh bien, Madame Vénus, vous êtes bien novice de chercher votre fils en ces lieux.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-19" who="VENUS">
+            <p>
+              <s>Eh, pourquoi cela, je vous prie ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-20" who="LECALENDER">
+            <p>
+              <s>Pourquoi ? </s>
+              <s>Parce que nous ne ressentons, mes confrères et moi, de l’amour, que les flammes qui nous brûlent, nous consument, en un mot qui..... qui sont fort à votre service.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-21" who="VENUS">
+            <p>
+              <s>Doucement, doucement : ne vous échauffez pas sous votre casaque.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-22" who="LECALENDER">
+            <p>
+              <s>Vous êtes bien froide, Madame : non , vous n’êtes pas Vénus, la Déesse de Paphos et d’Amathonte : il faut que vous soyez une fausse Vénus.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-23" who="VENUS">
+            <p>
+              <s>Fausse ou véritable ; vous n’êtes point mon fait.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-24" who="LECALENDER">
+            <p>
+              <s>Un petit baiser seulement sur vos lèvres de corail, soleil de mes jours ! </s>
+              <s>Astre de lumière en merveilles si féconde.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-25" who="VENUS">
+            <p>
+              <s>Allons, rentrez à la maison, ou je porterai mes plaintes à votre	Supérieur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-26" who="LECALENDER">
+            <p>
+              <s>Ô cœur de diamants ! </s>
+              <s>Ô rosier garni d’épines fans fleurs ! </s>
+              <s>Fille indigne de Mahomet ! </s>
+              <s>Le Prophète te rejettera.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I04" type="scene" n="4">
+          <head>SCÈNE IV. Vénus, Une jeune fille.<listPerson type="configuration" xml:id="conf4"/></head>
+          <sp xml:id="I04-1" who="VENUS">
+            <p>
+              <s>Que je fuis malheureuse ! </s>
+              <s>Ô mère infortunée ! </s>
+              <s>Le Destin doit-il t’être toujours contraire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-2" who="LAJEUNEFILLE">
+            <p>
+              <s>Malgré les remontrances de ma Maîtresse je veux connaître l’Amour.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-3" who="VENUS">
+            <p>
+              <s>L’Amour ! </s>
+              <s>Qui parle là de mon fils ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-4" who="LAJEUNEFILLE">
+            <p>
+              <s>L’Amour est, dit-on, un Dieu charmant, et ma Maîtresse ose me dire qu’il est un monstre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-5" who="VENUS">
+            <p>
+              <s>Vous souhaitez, la belle enfant, connaître l’Amour ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-6" who="LAJEUNEFILLE">
+            <p>
+              <s>Oui, Madame, c’est toute mon envie.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-7" who="VENUS">
+            <p>
+              <s>L’aimable enfant ; elle m’intéresse.</s>
+            </p>
+            <p>
+              <s>Répondez : quel est l’Amour ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-8" who="LAJEUNEFILLE">
+            <p>
+              <s>Je n’en sais rien ; tout ce que je sais , c’est que je l’aimerai beaucoup.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-9" who="VENUS">
+            <p>
+              <s>Voyez-vous ? </s>
+              <s>La petite masque !</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-10" who="LAJEUNEFILLE">
+            <p>
+              <s>On dit comme ça que l’Amour est le maître de tout le monde ; pour moi je serai charmée d’être son écolière.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-11" who="VENUS">
+            <p>
+              <s>Mais s’il allait vous donner le fouet ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-12" who="LAJEUNEFILLE">
+            <p>
+              <s>Oh que non ! </s>
+              <s>Madame ; l’Amour ne donne point le fouet ; il n’a ni verges, ni martinet : au contraire, on dit que ce Dieu ne donne que des sucreries et des bonbons, surtout aux jeunes filles.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-13" who="VENUS">
+            <p>
+              <s>Elle n’est pas mal instruite pour son âge... </s>
+            </p>
+            <p>
+              <s>L’avez-vous vu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-14" who="LAJEUNEFILLE">
+            <p>
+              <s>Jamais ma Maîtresse ne l’a voulu souffrir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-15" who="VENUS">
+            <p>
+              <s>Comment ? </s>
+              <s>Il est donc venu ici ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-16" who="LAJEUNEFILLE">
+            <p>
+              <s>Apparemment ; ces jours derniers il y était encore.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-17" who="VENUS">
+            <p>
+              <s>Je suis bien malheureuse de n’être point arrivée plutôt.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-18" who="LAJEUNEFILLE">
+            <p>
+              <s>Pourquoi, Madame ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-19" who="VENUS">
+            <p>
+              <s>Parce que je l’aurais trouvé.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-20" who="LAJEUNEFILLE">
+            <p>
+              <s>Par hasard, Madame, est-ce que vous cherchez aussi l’Amour ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-21" who="VENUS">
+            <p>
+              <s>Sans doute, ma belle enfant.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-22" who="LAJEUNEFILLE">
+            <p>
+              <s>Oh bien ! </s>
+              <s>Vous pourrez le trouver chez notre Maîtresse, car elle l’a toujours détenu bien enfermé, et mis les deux verrous même.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-23" who="VENUS">
+            <p>
+              <s>Or sus, ma chère enfant, daignez me conduire dans votre maison.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-24" who="LAJEUNEFILLE">
+            <p>
+              <s>Avec grand plaisir, Madame.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-25" who="VENUS">
+            <p>
+              <s>Et enseignez moi l’appartement de votre Maîtresse.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-26" who="LAJEUNEFILLE">
+            <p>
+              <s>Volontiers, volontiers. </s>
+              <s>Suivez-moi, Madame.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I05" type="scene" n="5">
+          <head>SCÈNE V. Momus, Un Voluptueux.<listPerson type="configuration" xml:id="conf5"/></head>
+          <sp xml:id="I05-1" who="MOMUS">
+            <p>
+              <s>À juger par vos propos, Monsieur, vous me paraissez un peu sensuel.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-2" who="LEVOLUPTUEUX">
+            <p>
+              <s>Un peu, Cadédis, vous pouvez diré beaucoup.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-3" who="MOMUS">
+            <p>
+              <s>Beaucoup, soit ; mais vous ne devriez pas vous en vanter.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-4" who="LEVOLUPTUEUX">
+            <p>
+              <s>Pourquoi pas, Seigneur Momus ? </s>
+              <s>Jé vis avec mes sens, parcé qu’ils mé sont plus chers, parcé qu’ils sont plus près dé moi qué tous ces sentiments romanesques.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-5" who="MOMUS">
+            <p>
+              <s>Vous traitez cela de sentiments romanesques.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-6" who="LEVOLUPTUEUX">
+            <p>
+              <s>Sans doute ; et jé né vis point dé Romans. </s>
+              <s>Moi, jé suis la bonné et fimplé nature ; j’obéis toujours à son instinct ; jé mé régardé cornmé lé benjamin dé la terre ; j’en pompé les sucs jusqués au moment du sommeil.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-7" who="MOMUS">
+            <p>
+              <s>Vous n’avez pas tort tout-à-fait.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-8" who="LEVOLUPTUEUX">
+            <p>
+              <s>Par ce moyen jé jouis dé tout cé qué jé désire ; et jé né désiré rien non plus dont la possession né soit en mon pouvoir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-9" who="MOMUS">
+            <p>
+              <s>À merveille.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-10" who="LEVOLUPTUEUX">
+            <p>
+              <s>’J’ai très peu dé peine et dé chagrin, parcé qué j’en éloigné jusqu’à l’ombré : content dé profiter du présent, jé n’esperé rien dé l’avenir, afin dé n’être point trompé.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-11" who="MOMUS">
+            <p>
+              <s>Encore mieux.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-12" who="LEVOLUPTUEUX">
+            <p>
+              <s>Quand il mé viendra quelques maux, jé les endurerai avec patience et couragé, parce que je mé dirai à moi-même : ce sont-là les seuls moyens d’alléger lés douleurs.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-13" who="MOMUS">
+            <p>
+              <s>C’est fort bien penser.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-14" who="LEVOLUPTUEUX">
+            <p>
+              <s>Voilà sur quoi roulé tout le système dé ma vie ; elle n’est point mélancoliqué commé celle dé ces prétendus Sages, qui font presqué dé l’ennui une vertu méritoire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-15" who="MOMUS">
+            <p>
+              <s>Eh quoi ! </s>
+              <s>Monsieur, vous faites un mérite de suivre le culte de la volupté ? </s>
+              <s>On doit vous savoir gré, en effet, des efforts que vous coûte un tel hommage : prétendez-vous aussi être recommandable par les plaisirs que vous vous procurez tous les jours ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-16" who="LEVOLUPTUEUX">
+            <p>
+              <s>Bellé démandé ! </s>
+              <s>Plaisanté question ! </s>
+              <s>Apparemment.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-17" who="MOMUS">
+            <p>
+              <s>C’est-à-dire qu’on doit vous respecter à raison des fruits délicieux que vous savourez, du bon vin que vous buvez, de la chère délicate que vous mangez.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-18" who="LEVOLUPTUEUX">
+            <p>
+              <s>Sandis ! </s>
+              <s>Né croyez point plaisanter, Seigneur Momus : il n’appartient pas à tout lé monde dé savoir êtré voluptueux.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-19" who="MOMUS">
+            <p>
+              <s>Un Gascon, voluptueux ! </s>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Ah !</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-20" who="LEVOLUPTUEUX">
+            <p>
+              <s>C’est uné maniéré d’être qui né convient qu’au pétit nombré.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-21" who="MOMUS">
+            <p>
+              <s>Qu’au petit nombre : croyez-vous ça ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-22" who="LEVOLUPTUEUX">
+            <p>
+              <s>Si peu d’hommés sont dignés dé sacrifier au plaisir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-23" who="MOMUS">
+            <p>
+              <s>Cette Divinité vous inspire sans doute les principes sur lesquels vous fondez toute votre conduite ; elle vous donne la boussole des bonnes mœurs : nourrit en vous cette vertu qui honore l’humanité.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-24" who="LEVOLUPTUEUX">
+            <p>
+              <s>L’humanité, la vertu, lés bonnés mœurs, quel galimatias !</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-25" who="MOMUS">
+            <p>
+              <s>Sans doute, elle élève, elle perfectionne votre âme ; elle lui découvre d’importantes et sublimes vérités.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I06" type="scene" n="6">
+          <head>SCÈNE VI. Momus, Le Dramaturge, en habit noir et blanc.<listPerson type="configuration" xml:id="conf6"/></head>
+          <sp xml:id="I06-1" who="MOMUS">
+            <p>
+              <s>Les mortels ne doivent point se plaindre des maux qui les affligent : ils se procurent eux-mêmes les douleurs qui les tourmentent.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-2" who="LEDRAMATURGE">
+            <p>
+              <s>Ah ! </s>
+              <s>Seigneur Momus, ayez pitié de mot et de mes Drames.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-3" who="MOMUS">
+            <p>
+              <s>De vous et de vos Drames, volontiers.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-4" who="LEDRAMATURGE">
+            <p>
+              <s>Ces productions merveilleuses, ces enfants de mon génie, en un mot mes Drames sombres étaient joués avec succès en Province.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-5" who="MOMUS">
+            <p>
+              <s>D’où vient n’avoir point donné la préférence à la Capitale ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-6" who="LEDRAMATURGE">
+            <p>
+              <s>Pour deux raisons. </s>
+              <s>La première, les Comédiens ne s’en sont point souciés. </s>
+              <s>La seconde , le mauvais goût des Constantinopolins, ce faux goût pour les chef-d’œuvres de nos anciens Tragiques, malgré nos grands principes en faveur du nouveau genre, de ce genre sublime...</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-7" who="MOMUS">
+            <p>
+              <s>Quel est ce genre nouveau, ce genre sublime ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-8" who="LEDRAMATURGE">
+            <p>
+              <s>Le genre des Drames sombres.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-9" who="MOMUS">
+            <p>
+              <s>Il n’est point du goût de tout le monde.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-10" who="LEDRAMATURGE">
+            <p>
+              <s>Ne fait pas des Drames qui veut !</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-11" who="MOMUS">
+            <p>
+              <s>Bon ! </s>
+              <s>Ils font au rabais.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-12" who="LEDRAMATURGE">
+            <p>
+              <s>De plus, j’avoue, je prétends et je soutiens que la Tragédie doit être écrite en prose.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-13" who="MOMUS">
+            <p>
+              <s>En prose ? </s>
+              <s>Une Tragédie en prose ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-14" who="LEDRAMATURGE">
+            <p>
+              <s>Sans doute. </s>
+              <s>Pourquoi pas ? </s>
+              <s>Les Empereurs et les Rois parlent-ils plus en vers dans leurs palais, que les Bourgeois dans leurs maisons, et les Artisans dans leurs boutiques.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-15" who="MOMUS">
+            <p>
+              <s>Il est vrai, Monsieur, vous avez quelque raison en ce point.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-16" who="LEDRAMATURGE">
+            <p>
+              <s>Ce principe établi, il est donc convenable de ne point faire parler en vers des personnes qui n’y parent jamais : j’ajouterai même qu’il est indécent...</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-17" who="MOMUS">
+            <p>
+              <s>Tout beau, Monsieur, tout beau : l’usage où nous sommes : le précepte et la manière des Anciens.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-18" who="LEDRAMATURGE">
+            <p>
+              <s>Les Anciens n’étaient que de pauvres génies là-dessus, et je prétends en désabuser mon siècle. </s>
+              <s>Voici à ce sujet une dissertation, sur la Tragédie moderne.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-19" who="MOMUS">
+            <p>
+              <s>L’exemplaire est frais ; les feuilles font encore humides.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-20" who="LEDRAMATURGE">
+            <p>
+              <s>Cela sort dessous presse ; c’est nouvellement imprimé ; vous y lirez que les vers font inutiles à la Tragédie, et que la prose seule lui convient.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-21" who="MOMUS">
+            <p>
+              <s>À la bonne heure. </s>
+              <s>La prose convient également à la Comédie ; mais dans la Tragédie il y faut des vers : mais vous n’aimez pas les vers.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-22" who="LEDRAMATURGE">
+            <p>
+              <s>Je les hais à tel point, Seigneur Momus , que je me fais appeler depuis longues années, Monsieur de Prousas ; c’est mon nom favori.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-23" who="MOMUS">
+            <p>
+              <s>À vous permis, Monsieur de Prousas. </s>
+              <s>Prousas ! </s>
+              <s>Le beau nom de famille !... </s>
+              <s>Dans quel cas Monsieur de Prousas, admettez-vous les vers ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-24" who="LEDRAMATURGE">
+            <p>
+              <s>Pour que je les admisse, il faudrait d’abord qu’ils se rapprochassent de la prose.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-25" who="MOMUS">
+            <p>
+              <s>En ce cas, Monsieur de Prousas, tous les Poètes de Constantinople sont vos amis, car leurs vers ne diffèrent aucunement de la prose.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-26" who="LEDRAMATURGE">
+            <p>
+              <s>Point d’épigramme, Seigneur Momus, point d’épigramme : je m’explique ; c’est-à-dire, que les vers fussent doux, simples, faciles et naturels.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-27" who="MOMUS">
+            <p>
+              <s>J’entends : comme ceux de Racinios, par exemple, et de nos jours ceux de Volterios.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-28" who="LEDRAMATURGE">
+            <p>
+              <s>Ces deux célèbres Poètes tragiques se sont donné beaucoup de peine, à mon avis, pour n’opérer que ce que la prose aurait fait tout aussi bien et peut-être mieux.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-29" who="MOMUS">
+            <p>
+              <s>Je ne conviendrai pas de ce point, Monsieur de Prousas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-30" who="LEDRAMATURGE">
+            <p>
+              <s>Tout comme vous voudrez : mais je ne changerai jamais de sentiment.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-31" who="MOMUS">
+            <p>
+              <s>Eh quoi ! </s>
+              <s>Monsieur de Prousas, malgré votre nom si je vous faisais voir clair comme le jour !</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-32" who="LEDRAMATURGE">
+            <p>
+              <s>Oui, clair comme le jour ! </s>
+              <s>Dites plutôt clair comme la bouteille à l’encre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-33" who="MOMUS">
+            <p>
+              <s>En matière de l’art tragique, vous êtes un hérésiarque.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-34" who="LEDRAMATURGE">
+            <p>
+              <s>Point du tout : je vous fais juge, Seigneur Momus : n’y a-t-il point de la bizarrerie à parler en vers devant la populace, comme dans une assemblée de Gens de Lettres : répondez à cet argument ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-35" who="MOMUS">
+            <p>
+              <s>C’est un sophisme, et des plus forts ; car il faudrait, d’après votre raisonnement, parler le même langage de la populace.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-36" who="LEDRAMATURGE">
+            <p>
+              <s>Oui, à peu près, mais un langage épuré.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-37" who="MOMUS">
+            <p>
+              <s>La scène du monde et celle du Théâtre sont bien différentes : d’ailleurs le Parterre est très instruit, et les meilleurs juges quelquefois y résident.... </s>
+              <s>Serviteur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-38" who="LEDRAMATURGE">
+            <p>
+              <s>Ah ! Seigneur Momus, ne m’abandonnez point, ni mes Drames sombres.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-39" who="MOMUS">
+            <p>
+              <s>Vous me faites pitié par vos blasphèmes dramatiques.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-40" who="LEDRAMATURGE">
+            <p>
+              <s>Oh ! </s>
+              <s>Je suivrai toujours vos pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-41" who="MOMUS">
+            <p>
+              <s>Arlequin, songez à bien recevoir les personnes qui se présenteront ici.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-42" who="ARLEQUIN">
+            <p>
+              <s>Oui, Monsieur.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I07" type="scene" n="7">
+          <head>SCÈNE VII. Un Sauvage, Arlequin.<listPerson type="configuration" xml:id="conf7"/></head>
+          <sp xml:id="I07-1" who="ARLEQUIN">
+            <p>
+              <s>Mais ! </s>
+              <s>Je représente donc mon Maître ? </s>
+              <s>Je joue ici le rôle du Seigneur Momus... </s>
+              <s>Donnons6nous un air d importance...</s>
+            </p>
+            <p>
+              <s>Quel est ce nouveau personnage-là ? </s>
+              <s>Je l’ignore. </s>
+              <s>En vérité, une massue à la main. </s>
+              <s>Ouf ! </s>
+              <s>Il s’avance, Sangodemini, je tremble.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-2" who="LESAUVAGE">
+            <p>
+              <s>Que n’ai-je toujours eu commerce avec les habitants des forêts!</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-3" who="ARLEQUIN">
+            <p>
+              <s>Sans doute c’est un chasseur ; en tout cas il est bien crasseux.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-4" who="LESAUVAGE">
+            <p>
+              <s>Avec leur rustique franchise, je jouirais de leur bonheur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-5" who="ARLEQUIN">
+            <p>
+              <s>Quel bonheur ! </s>
+              <s>Manger de l’herbe comme des lapins, et boire de l’eau comme des grenouilles, sans macaronis encore !</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-6" who="LESAUVAGE">
+            <p>
+              <s>Ô homme ! </s>
+              <s>Quelque soit ton rang, ton pays, tes mœurs, si tu n’es sauvage, écoute et réforme-toi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-7" who="ARLEQUIN">
+            <p>
+              <s>Ah ! </s>
+              <s>C’est un sauvage ; écoutons et formons-nous.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-8" who="LESAUVAGE">
+            <p>
+              <s>Le premier qui se fit des habits, se donna en cela des choses peu nécessaires.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-9" who="ARLEQUIN">
+            <p>
+              <s>Il me semble cependant que mon habit me sert bien à couvrir ma nudité, et que lorsqu’il fait froid un bon manteau sur les épaules et un bonnet fourré sur la tête, me font choses nécessaires.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-10" who="LESAUVAGE">
+            <p>
+              <s>Le premier qui se bâtit une maison fit très mal.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-11" who="ARLEQUIN">
+            <p>
+              <s>Et moi j’ose dire, Monsieur Sauvaget, qu’il fit très bien ; car, où se mettre à l’abri quand il pleut ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-12" who="LESAUVAGE">
+            <p>
+              <s>Sous des arbres.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-13" who="ARLEQUIN">
+            <p>
+              <s>Sous des arbres ! </s>
+              <s>Hai, hai , hai.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-14" who="LESAUVAGE">
+            <p>
+              <s>« Le premier qui inventa les sabots devait être puni comme l’auteur du luxe et corrupteur de la société. »</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-15" who="ARLEQUIN">
+            <p>
+              <s>Un moment, Monsieur Sabot, si je marchais sans souliers, je me piquerais la plante des pieds avec une épine ou un morceau de verre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-16" who="LESAUVAGE">
+            <p>
+              <s>« ... Plus on y réfléchit, plus on trouve que l’état de nature est le moins sujet aux révolutions, le meilleur à l’homme.» </s>
+            </p>
+          </sp>
+          <sp xml:id="I07-17" who="ARLEQUIN">
+            <p>
+              <s>Et à la femme.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-18" who="LESAUVAGE">
+            <p>
+              <s>« L’exemple des Sauvages, qu’on a presque tous trouvés à ce point, semble confirmer que le genre humain était fait pour y demeurer toujours. »</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-19" who="ARLEQUIN">
+            <p>
+              <s>Toujours et jamais, jamais et toujours, c’est clair , c’est clair. </s>
+              <s>Après.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-20" who="LESAUVAGE">
+            <p>
+              <s>« Que cet état est la véritable jeunesse du monde, et que tous les progrès ultérieurs ont été en apparence autant de pas vers la perfection de l’individu, mais, en effet, vers la décrépitude de l’espèce.»</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-21" who="ARLEQUIN">
+            <p>
+              <s>Monsieur le décrépit de l’espèce, dans tous ses discours je n’y vois pas de macaronis.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-22" who="LESAUVAGE">
+            <p>
+              <s>« Non, encore une fois, ce n’est point l’état originel de l’homme, c’est le seul esprit de la société qui change et altère ainsi nos inclinations naturelles. »</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-23" who="ARLEQUIN">
+            <p>
+              <s>Mes inclinations naturelles à moi, c’est de boire et de manger.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-24" who="LESAUVAGE">
+            <p>
+              <s>Boire et manger seulement, dis-tu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-25" who="ARLEQUIN">
+            <p>
+              <s>Oui, je le dis, parce que c’est vrai. </s>
+              <s>Il m’arrive quelquefois de dormir après.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-26" who="LESAUVAGE">
+            <p>
+              <s>Dormir après ! </s>
+              <s>L’homme heureux ! </s>
+              <s>Tu ne médites jamais ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-27" who="ARLEQUIN">
+            <p>
+              <s>Médites ! </s>
+              <s>Je ne connais point cet animal-là.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-28" who="LESAUVAGE">
+            <p>
+              <s>Méditer, c’est faire des réflexions.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-29" who="ARLEQUIN">
+            <p>
+              <s>Je n’en fais point faire, Monsieur Sauvage ; mon ch’père ne m’a point appris ce métier-là.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-30" who="LESAUVAGE">
+            <p>
+              <s>Ô homme digne des premiers siècles ! </s>
+              <s>Digne d’habiter les bois !</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-31" who="ARLEQUIN">
+            <p>
+              <s>Ahi ! </s>
+              <s>Ahi ! </s>
+              <s>Ahi ! vous m’allez étouffer. </s>
+              <s>Nenni, nenni, j’ai peur des loups.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-32" who="LESAUVAGE">
+            <p>
+              <s>Apprends de moi que « l’état de réflexion est un état contre nature et que l’homme qui médite est un animal dépravé. »</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-33" who="ARLEQUIN">
+            <p>
+              <s>Animal, animal toi-même. </s>
+              <s>Je ne suis point animal, ni Annibal ; je suis Arlequin.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-34" who="LESAUVAGE">
+            <p>
+              <s>Quoi ! </s>
+              <s>Tu ne fais pas que l’homme est un animal plus féroce, plus vorace, plus carnassier, que les loups , les lions et les tigres ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-35" who="ARLEQUIN">
+            <p>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Vous avez bon air, bon air vous avez tout-à-fait.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-36" who="LESAUVAGE">
+            <p>
+              <s>Il me siffle ; tant mieux, je n’en fuis que plus content de moi-même, et d’ailleurs ma propre estime me suffit.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-37" who="ARLEQUIN">
+            <p>
+              <s>Monsieur Sauvaget, vous raisonnez comme un ange...</s>
+            </p>
+            <p>
+              <s>Cornu...</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-38" who="LESAUVAGE">
+            <p>
+              <s>Continue ! </s>
+              <s>C’est une occupation qui t’empêche de plus mal faire, et puisqu’il est ainsi, je viendrai te haranguer tous les jours.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-39" who="ARLEQUIN">
+            <p>
+              <s>Sans doute ; comme dit la Chanson, pour une fois, ce n’est pas la peine, pour une fois, c’est trop bourgeois.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-40" who="LESAUVAGE">
+            <p>
+              <s>Que n’ai-je que l’instinct !... </s>
+              <s>« Dieux! que sont devenus ces toits couverts de chaumes qu’habitaient jadis la modération et la vertu ? »</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-41" who="ARLEQUIN">
+            <p>
+              <s>Ma foi je n’en fais rien, et je ne les ai point pris ; fouillez-moi plutôt.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-42" who="LESAUVAGE">
+            <p>
+              <s>» Quel[le] splendeur funeste a succédé à la simplicité de nos aïeux ! </s>
+              <s>Quoi ? </s>
+              <s>Vous ne renversez pas ces édifices ? </s>
+              <s>Quoi ! </s>
+              <s>Vous ne brûlez pas ces tableaux ? </s>
+              <s>Quoi ! </s>
+              <s>Vous ne brisez point ces statue...» </s>
+            </p>
+          </sp>
+          <sp xml:id="I07-43" who="ARLEQUIN">
+            <p>
+              <s>Adieu, Monsieur Cataquoi.</s>
+            </p>
+            <p>
+              <s>Si nous étions à Paris, je croirais que Monsieur Sauvaget est un échappé des Petites-Maisons ; mais retirons-nous pour faire place aux Calenders qui reviennent de la mosquée.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I08" type="scene" n="8">
+          <head>SCÈNE VIII. Venus, Un Officier.<listPerson type="configuration" xml:id="conf8"/></head>
+          <sp xml:id="I08-1" who="VENUS">
+            <p>
+              <s>Vous avez bien l’air d’un petit-maître, d’un officier français.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-2" who="LOFFICIER">
+            <p>
+              <s>Aussi le suis-je : j’ai voulu porter mes conquêtes jusqu’à Constantinople.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-3" who="VENUS">
+            <p>
+              <s>N’avez-vous pas envie d’enlever la Sultane favorite ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-4" who="LOFFICIER">
+            <p>
+              <s>Pourquoi pas ?... </s>
+              <s>Mais pour revenir à ce que nous disions, vous avez de l’esprit, mais vous raisonnez faussement.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-5" who="VENUS">
+            <p>
+              <s>Voilà une galanterie à la Turque.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-6" who="LOFFICIER">
+            <p>
+              <s>D’accord, votre esprit subtil et faux bâtit un édifice où il se plaît à habiter seul : vous vous enfoncez dans des rêves fantastiques, qui vous abusent et vous dérobent le véritable état du beau monde.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-7" who="VENUS">
+            <p>
+              <s>Je le connais peut-être aussi bien que vous Monsieur l’officier français.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-8" who="LOFFICIER">
+            <p>
+              <s>En tout cas, je vous plains : votre figure vous destinait à tous les hommages qu’une jolie femme peut recevoir : mais votre façon de penser vous rendra ridicule, je vous en avertis, belle Pèlerine.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-9" who="VENUS">
+            <p>
+              <s>Recevez-en tous mes remerçiements par cette révérence.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-10" who="LOFFICIER">
+            <p>
+              <s>Dans le beau monde que vous connaissez aussi peu que vous en êtes connue, vous ressemblez à une habitante de la lune, qui aurait fait un grand saut sur notre globe.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-11" who="VENUS">
+            <p>
+              <s>Comment ! </s>
+              <s>Un officier, et un officier français faire des allégories ; parler par métaphores !</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-12" who="LOFFICIER">
+            <p>
+              <s>Voyageuse dans les espaces imaginaires ; étrangère aux usages les plus communs.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-13" who="VENUS">
+            <p>
+              <s>Je ne suis point si étrangère que vous le vous imaginez bien.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-14" who="LOFFICIER">
+            <p>
+              <s>Vous m’interrompez toujours.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-15" who="VENUS">
+            <p>
+              <s>C’est grand dommage, en vérité.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-16" who="LOFFICIER">
+            <p>
+              <s>En un mot, comment peut-on former une femme qui a des craintes, des scrupules ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-17" who="VENUS">
+            <p>
+              <s>Avez-vous bientôt fini votre période ? </s>
+              <s>Elle m’ennuie, au moins.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-18" who="LOFFICIER">
+            <p>
+              <s>Une femme, dis-je, et une jolie femme encore, qui exalte les douceurs de la campagne, tandis qu’elle dédaigne celles de la ville ou elle pourrait briller ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-19" who="VENUS">
+            <p>
+              <s>Tout cela, Monsieur le Petit-Maître, ne sont que des mots superflus, de vaines paroles.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-20" who="LOFFICIER">
+            <p>
+              <s>Croyez-moi, Philosophe femelle ; vous avez, lu Platon, et moi j’ai lu dans le Livre du monde : vous avez étudié le Grec, et moi j’ai l’expérience de la société : celle-ci en fait plus que toutes les Langues Turques et Arabes jointes aux volumes antiques.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-21" who="VENUS">
+            <p>
+              <s>Néanmoins vous conviendrez que la philosophie est bonne.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-22" who="LOFFICIER">
+            <p>
+              <s>La philosophie est bonne pour amuser quelques instans ; mais sa pratique est folle. </s>
+              <s>Les Sectateurs d’Omar et d’Hali eux-mêmes n’en font qu’un jeu, et hors du cabinet ils redeviennent fort légers et frivoles.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-23" who="VENUS">
+            <p>
+              <s>Oui, les faux Philosophes, les Philosophes tels que vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-24" who="LOFFICIER">
+            <p>
+              <s>Ah ! ah ! ah ! ah ! </s>
+              <s>Moi Philosophe ! </s>
+              <s>À travers vos extravagances j’ai aperçu du bon ; vous ne tarderez pas à nous suivre, à être des nôtres... </s>
+            </p>
+            <p>
+              <s>ou des miennes.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-25" who="VENUS">
+            <p>
+              <s>Qu’entendez-vous, Monsieur le Galantin par cette confidence mystérieuse, par ce mot des miennes.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-26" who="LOFFICIER">
+            <p>
+              <s>C’est-à-dire, ma Reine, que je vous propose d’être ma Sultane favorite.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-27" who="VENUS">
+            <p>
+              <s>On voit bien que vous êtes à Constantinople, vous parlez comme le Grand Seigneur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-28" who="LOFFICIER">
+            <p>
+              <s>Vous persiflez, je pense. </s>
+              <s>Tout coup vaille, je vous donnerai pour vingt-quatre mille francs de diamants, une voiture anglaise, et cent pistoles par mois.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-29" who="VENUS">
+            <p>
+              <s>Oh ! </s>
+              <s>Je vous entends, mon cher Colonel ; mais vous aurez de la peine à me convaincre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-30" who="LOFFICIER">
+            <p>
+              <s>Si je ne puis vous convaincre, Madame ou Mademoiselle ( car je ne sais encore qui vous êtes, ne vous connaissant que dans la minute ), le temps saura le faire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-31" who="VENUS">
+            <p>
+              <s>Oui, le temps vient à bout de tout.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-32" who="LOFFICIER">
+            <p>
+              <s>Je ne me rebute point, vous verrez qu’il n’y a rien de plus solide que le plaisir ; qu’il est nécessaire à l’homme, encore plus à la femme.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-33" who="VENUS">
+            <p>
+              <s>Touchez là, beau Chevalier, défenseur des Belles... </s>
+              <s>Je ne suis pas pour vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-34" who="LOFFICIER">
+            <p>
+              <s>Une de perdue, cent de retrouvées. </s>
+              <s>La nuit s’approche ; voici bientôt le moment du sommeil ; je vais jouir des faveurs de la plus jolie femme de Constantinople, et demain avant l’aurore je dois enlever la maîtresse du Grand Muphti, pour la façonner en France.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I09" type="scene" n="9">
+          <head>SCÈNE IX ET DERNIÈRE. Vénus, Momus.<listPerson type="configuration" xml:id="conf9"/></head>
+          <sp xml:id="I09-1" who="VENUS">
+            <p>
+              <s>Cet officier français ne dément point le caractère de sa nation.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-2" who="MOMUS">
+            <p>
+              <s>À la fin, tendre mère des Amours, je vous rejoins. </s>
+              <s>Avez-vous trouvé votre fils ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-3" who="VENUS">
+            <p>
+              <s>Hélas ! </s>
+              <s>Non. </s>
+              <s>J’ai rencontré plusieurs originaux.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-4" who="MOMUS">
+            <p>
+              <s>Et moi aussi. </s>
+              <s>Je sors des spectacles, où l’on se plaint de l’éternelle reprise des anciennes pièces, de la négligence, de la paresse des acteurs à jouer les nouveautés.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-5" who="VENUS">
+            <p>
+              <s>On prétend que leur Répertoire abonde en pièces nouvelles, et que l’on attend un second théâtre, un théatre intermédiaire, sous la dénomination, d’École Dramatique.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-6" who="MOMUS">
+            <p>
+              <s>Il est vrai, c’est le vœu de Constantinople entier. </s>
+              <s>À propos, je peux vous donner des nouvelles do votre petit déserteur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-7" who="VENUS">
+            <p>
+              <s>Rendez la paix et la consolation à une mère affligée.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-8" who="MOMUS">
+            <p>
+              <s>Dans le moment même on vient de me dire que l’Amour n’habitait plus qu’au village.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-9" who="VENUS">
+            <p>
+              <s>Transportons-nous-y, et faisons des heureux.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I10" type="scene" n="10">
+          <head>DIVERTISSEMENT. L’AMOUR AU VILLAGE.<listPerson type="configuration" xml:id="conf10"/></head>
+          <sp xml:id="I10-1" who="VENUS">
+            <p>
+              <s>J’aperçois les Grâces! </s>
+            </p>
+          </sp>
+          <sp xml:id="I10-2" who="MOMUS">
+            <p>
+              <s>Sans doute que l’Amour n’est pas loin.</s>
+            </p>
+            <p>
+              <s>Tenez, voici là-bas notre petit libertin.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-3" who="VENUS">
+            <p>
+              <s>Ah ! </s>
+              <s>Mon fils, il y a longtemps que je vous cherche.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-4" who="LAMOUR">
+            <p>
+              <s>Ah ! </s>
+              <s>Ma mère, que je suis heureux d’habiter au village !</s>
+            </p>
+          </sp>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>

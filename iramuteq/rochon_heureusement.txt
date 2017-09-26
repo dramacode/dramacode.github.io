@@ -1,0 +1,1014 @@
+
+
+**** *book_ *id_I01 *act_I *date_1762
+
+-*who_madamelisban
+Mon mari soupe-t-il aujourd'hui chez Dormène ?
+
+-*who_marthon
+Oui, madame ; et de plus, malgré votre migraine,
+Il prétend, m'a-t-il dit, vous y donner la main,
+
+-*who_madamelisban
+Il le prétend, Marthon ? Il le prétend en vain.
+Cette femme m'ennuie, et je n'ai pas, ma chère,
+Pour plaire à mon mari la force nécessaire
+D'essuyer tous les jours le stérile entretien
+De cette extravagante. Elle lui plaît : eh bien !
+Qu'il y passe son temps et me laisse tranquille.
+Mais laissons ce propos qui m'échauffe la bile ;
+Et parlons d'autre chose.
+
+-*who_marthon
+      Oui, du petit cousin.
+
+-*who_madamelisban
+Eh ! Mais, qu'est devenu ce petit libertin ?
+Qu'aura-t-il fait, Marthon ? N'es-tu pas étonnée
+Que nous n'ayons pas vu Lindor de la journée ?
+
+-*who_marthon
+Non... Il s'amuse ailleurs.
+
+-*who_madamelisban
+      Marthon, l'aimable enfant !
+Toujours dansant, chantant, sautant, gesticulant,
+Rêvant, imaginant cent tours d'espièglerie ;
+Riant, riant sans cesse à vous en faire envie ;
+Parlant sans raisonner, mais déraisonnant bien ;
+Disant avec esprit une fadaise, un rien.
+Ah ! Marthon, à seize ans, et doué sans partage
+Des agréments divins qui parent ce bel âge ;
+Que tout cela sied bien !... Oh ! je raffole, moi,
+De ce petit fripon.
+
+-*who_marthon
+      Moi de même, ma foi.
+Mais pour ma sûreté, lorsque je l'envisage,
+Je voudrais lui trouver un air un peu plus sage.
+
+-*who_madamelisban
+Cela le gâterait : il est charmant, Marthon.
+
+-*who_marthon
+Il ne le sait que trop, le dangereux fripon.
+
+-*who_madamelisban
+J'en conviens : mais il mêle à cet enfantillage
+Des sentiments si fiers d'honneur et de courage,
+Que tout cela, Marthon, le rend intéressant,
+
+-*who_marthon
+C'est un vrai polisson, un polisson charmant.
+Il s'aime, il se contemple ; il court dans une glace
+Admirer de son port l'élégance et l'audace ;
+Il nous fait remarquer sa jambe, son mollet :
+« S'ils étaient emportés, dit-il, par un boulet,
+La, sérieusement ce serait bien dommage.
+Eh bien ! J'aurais la croix, oui, la croix, à mon âge
+La croix pour une jambe : ah ! Le bon coeur, ma foi,
+Je les sacrifierais toutes deux pour le roi. »
+Il tire son épée, et bravant nos alarmes,
+« Une, deux, trois, à vous, et rendez-moi les armes. »
+Nous dit-il. Un fusil vient à frapper ses yeux,
+Il le met sur l'épaule, et fait le merveilleux,
+Enfonce fièrement son chapeau sur la tète,
+Va de droite et de gauche, avance un pas, arrête,
+Nous ajuste, fait feu, s'amuse de nos cris,
+Et vole dans nos bras pour calmer nos esprits.
+
+-*who_madamelisban
+Comme de vrais enfants, oui, nous jouons ensemble.
+
+-*who_marthon
+Vous riez de ces jeux, Madame, et moi j'en tremble.
+Prenez-y garde au moins, s'il en est temps encor :
+L'amour s'y mêlera sous les traits de Lindor.
+Lindor est un enfant ; mais cet enfant sait plaire :
+Craignez qu'il ne devienne un joujou nécessaire.
+
+-*who_madamelisban
+Oui, pour me réjouir il sera toujours bon ;
+Mais pour m'intéresser... es-tu folle, Marthon,
+De penser ?...
+
+-*who_marthon
+      Eh ! Mon dieu, je sais ce que je pense ;
+Et rien n'est plus sensé... point tant de confiance.
+Est-ce un époux charmant qui doit vous rassurer ?
+
+-*who_madamelisban
+Mais, par respect pour moi, je le dois honorer.
+Monsieur Lisban, Marlhon, n'est pas un homme aimable,
+Te le sais.
+
+-*who_marthon
+      Lui, madame, il se croit adorable.
+
+-*who_madamelisban
+Je connais là-dessus sa sotte vanité.
+
+-*who_marthon
+De son petit mérite il est fort entêté.
+
+-*who_madamelisban
+Il vise à la finesse, à la plaisanterie.
+
+-*who_marthon
+C'est ce qui met le comble à sa maussaderie.
+Avant que d'entreprendre un récit ennuyeux,
+Il dit qu'il fera rire, et l'on bâille à ses yeux.
+Il croit rendre rêveur un objet qu'il ennuie.
+Quand on se rit de lui, c'est une agacerie,
+Le sexe se l'arrache et le trouve charmant.
+
+-*who_madamelisban
+Il m'aime par bonté comme on aime un enfant ;
+Et sans rendre justice à ma délicatesse,
+Il ne fait qu'à lui seul honneur de ma sagesse.
+Nos âges, par malheur, ne se rapportent point.
+
+-*who_marthon
+Il n'entend pas raison ; entre nous, sur ce point.
+Il est frais et gaillard, il s'admire sans cesse,
+Et pense valoir mieux que toute la jeunesse.
+
+-*who_madamelisban
+Tu vois que mon époux est bien connu de moi ;
+Mais je n'en dois pas moins lui conserver ma foi,
+Je sais me respecter.
+
+-*who_marthon
+      C'est fort bien fait, madame.
+Mais ne craignez-vous pas dans le fond de votre âme
+Ce dangereux dégoût qu'un époux aujourd'hui
+Avec trop de raison vous inspire pour lui ;
+Et ce goût que Lindor, un jeune homme adorable ?...
+
+-*who_madamelisban
+Mais je ne l'aime pas, rien n'est plus véritable.
+Où prends-tu donc ce goût ?... Un enfant de seize ans !
+
+-*who_marthon
+Une femme de vingt ! Voilà de braves gens
+Pour combattre l'amour ! Grande disconvenance,
+Pour faire tant sonner votre âge et son enfance !
+
+-*who_madamelisban
+Il est entre nous deux des obstacles plus grands.
+Si je me défiais de nos amusements,
+Je ne le verrais plus.
+
+-*who_marthon
+      Voilà comme les belles,
+Par pitié pour l'amour, osent présumer d'elles ;
+Ce n'est jamais leur faute.
+
+-*who_madamelisban
+      Est sage qui le veut.
+
+-*who_marthon
+Dites plus vrai, madame ; est sage qui le peut.
+
+-*who_madamelisban
+Tu plaisantes, Marthon ; et malgré ton système,
+À toi je m'en rapporte; oui, Marthon, à toi-même.
+Il n'est pas que quelqu'un ne t'ait dit des douceurs :
+Eh bien ! Je gagerais que ferme en tes rigueurs...
+
+-*who_marthon
+Se gagez pas.
+
+-*who_madamelisban
+      Comment ! Perdrais-je ma gageure ?
+
+-*who_marthon
+Non : mais vous gagneriez de si peu, je vous jure,
+Que je me garderais de tirer vanité
+D'un triomphe si mince et si peu mérité.
+
+-*who_madamelisban
+Ainsi donc ta vertu, si j'en crois ton langage,
+A couru plusieurs fois les dangers du naufrage ?
+
+-*who_marthon
+Elle a pensé périr.
+
+-*who_madamelisban
+      Et mon petit parent,
+Il te faisait la cour ; parle-moi franchement :
+Marthon, qu'en dit ton coeur ?
+
+-*who_marthon
+      Je l'aime à la folie.
+Il m'en conte, Madame, il me trouve jolie.
+Cela me fait plaisir ; mais quelqu'un vient à nous :
+Ferme, tenez-vous bien, c'est monsieur votre époux.
+
+**** *book_ *id_I02 *act_I *date_1762
+
+-*who_monsieurlisban
+Eh bien, quoi ! Qu'est-ce enfin qu'une prompte migraine,
+Qu'un bizarre refus de souper chez Dormène ?
+Ah ! Je vois ce que c'est, et j'en ris de bon coeur :
+Un peu de jalousie altère ton humeur.
+Tu ne saurais tenir ton époux en lisière ;
+Il faut un peu... Tu ris ? Va, ne fais pas la fière.
+C'est fort bien fait à toi de m'aimer tendrement :
+Mais il me faut aimer plus raisonnablement ;
+Me laisser sans chagrin, sans crainte, sans murmure,
+Aller, venir, courir, rôder à l'aventure.
+Ne fais donc plus l'enfant, viens souper avec nous.
+
+-*who_madamelisban
+J'irais, si j'éprouvais un sentiment jaloux :
+Mais je suis rassurée.
+
+-*who_monsieurlisban
+      Eh ! Tu braves Dormène ?...
+Il faut donc te quitter, et croire à ta migraine,
+Soit... À propos, sais-tu la nouvelle du jour ?
+
+-*who_madamelisban
+Quoi ?
+
+-*who_monsieurlisban
+      Tous les officiers ont ordre de la cour
+De joindre leurs drapeaux et de partir sur l'heure.
+
+-*who_madamelisban
+Eh ! Lindor va partir ?
+
+-*who_monsieurlisban
+      Quoi ! Veux-tu qu'il demeure ?
+Eh mais ! Ce départ-là paraît te chagriner ?
+
+-*who_madamelisban
+Je ne le cèle pas : faut-il s'en étonner ?
+C'est un enfant, monsieur, que vous aimez, que j'aime.
+
+-*who_monsieurlisban
+Ou ; mais il faut aimer cet enfant pour lui-même.
+Et que serait-ce donc que ton beau désespoir,
+Si ton mari partait ?
+
+-*who_marthon
+      Eh ! Partez, pour le voir.
+
+-*who_monsieurlisban
+Ma foi, qu'elle est heureuse étant ainsi formée,
+Marthon, de n'avoir pas un mari dans l'armée !
+Mais là, console-toi du départ de Lindor ;
+Ce n'est pas un mari que tu perds.
+
+-*who_marthon
+      Le butor !
+Si vous partiez, Monsieur, jugez mieux de son âme,
+Vous ne connaissez pas la force de madame ;
+L'honneur la soutiendrait. Oh ! Nous aurions ici
+Bonne grâce à trembler pour les jours d'un mari.
+Des Françaises, morbleu !
+
+-*who_monsieurlisban
+      Quel beau zèle t'enflamme !
+Marthon est un César ; ma femme est une femme,
+Et je te réponds bien de son faible pour nous.
+Adieu, tu reverras bientôt ton cher époux.
+Je ne te donne pas le bonsoir, ma petite,
+Je te le garde.
+
+-*who_marthon
+      Allez, nous vous en tenons quitte.
+
+**** *book_ *id_I03 *act_I *date_1762
+
+-*who_marthon
+Eh bien ! Vous n'aimez pas votre petit parent
+Lindor, le beau cousin vous est indifférent ;
+Et déjà son départ...
+
+-*who_madamelisban
+      Oui, sans doute, il m'afflige.
+
+-*who_marthon
+Et vous regardez-vous encor comme un prodige ?
+
+-*who_madamelisban
+Non : mais voyant partir Lindor pour les combats,
+D'un peu d'émotion je ne me défends pas ;
+Je crois innocemment pouvoir à sa jeunesse
+Donner, sans en rougir, ces marques de faiblesse.
+
+-*who_marthon
+Rien n'est plus naturel que ce petit chagrin ;
+Mais méfiez-vous-en... Je vois venir Pasquin ;
+Sachons ce qu'il nous veut. Quel important message...
+
+**** *book_ *id_I04 *act_I *date_1762
+
+-*who_marthon
+Bonjour, Pasquin.
+
+-*who_pasquin
+      Bonsoir, nous partons.
+
+-*who_marthon
+      Bon voyage,
+Tu nous apprends cela d'un air bien dégagé.
+
+-*who_pasquin
+Nous sommes tous contents.
+
+-*who_marthon
+      On vous est obligé.
+
+-*who_pasquin
+Nous partons pour l'armée, et tu le sais, ma chère,
+C'est aller à la noce, en terme militaire.
+Ah ! Si tu nous voyais dans un jour de combat !
+Morbleu !
+
+-*who_marthon
+      Comment, Pasquin parle en brave soldat !
+Cela lui sied fort bien.
+
+-*who_pasquin
+      Vraiment, j'ai du courage,
+Et je compte marcher...
+
+-*who_marthon
+      Derrière le bagage.
+Dis-nous, que fait Lindor ? Est-il bien affligé ?
+Vient-il ? Ne vient-il pas ? De quoi t'a-t-il chargé ?
+
+-*who_pasquin
+D'une commission dont je sens la réponse.
+
+-*who_marthon
+Il veut nous voir, je gage.
+
+-*who_pasquin
+      Oui, Marthon.
+
+-*who_marthon
+      Je t'annonce
+Qu'il nous fera plaisir, va le chercher.
+
+-*who_madamelisban
+      Marthon,
+Je n'y puis consentir.
+
+-*who_marthon
+      Le refus est fort bon !
+Et pourquoi, s'il vous plaît, Madame ?
+
+-*who_madamelisban
+      Par décence;
+L'absence d'un époux armant la médisance...
+
+-*who_marthon
+Au moment d'un départ, et peut-être éternel,
+Refuser de le voir, le trait serait cruel.
+
+-*who_madamelisban
+Oui : mais lorsque j'y pense...
+
+-*who_marthon
+      Et vous êtes trop bonne :
+Livrez-vous au conseil que votre coeur vous donne.
+Un cousin...
+
+-*who_madamelisban
+      Un enfant...
+
+-*who_marthon
+      On ne saurait jaser.
+
+-*who_madamelisban
+Que l'on voit tous les jours...
+
+-*who_marthon
+      Eh ! Oui, qui peut penser..
+
+-*who_madamelisban
+Le monde est si méchant !
+
+-*who_marthon
+      Il faut le laisser mordre :
+Qu'il vienne, et toi va-t'en, de crainte d'un contre-ordre.
+
+-*who_madamelisban
+Eh mais ! Vous décidez, Marthon, bien promptement.
+
+-*who_marthon
+Eh mais ! C'est bien le cas de chicaner vraiment ?
+Eh puis ! On est parti... Là que pourriez-vous dire ?
+
+-*who_madamelisban
+Mais, te gronder, Marthon...
+
+-*who_marthon
+      Oui, me gronder pour rire.
+
+-*who_madamelisban
+Eh bien ! Soit ; on ne peut, Marthon, te convertir :
+Dès que Lindor viendra, qu'on me fasse avertir.
+
+**** *book_ *id_I05 *act_I *date_1762
+
+-*who_marthon
+Elle craint le public beaucoup moins qu'elle-même :
+Elle en tient pour Lindor ; oui, sans doute, elle l'aime ;
+Mais moi, suis-je plus brave ? Ai-je plus de raison ?
+Il faut en convenir, ma foi, je crois que non.
+Eh mais ! Me voilà bien, le bel amour ! Qu'en faire ?
+L'absence en débarrasse avec un militaire.
+
+**** *book_ *id_I06 *act_I *date_1762
+
+-*who_lindor
+Eh ! Bonjour, mon enfant.
+
+-*who_marthon
+      Voilà mon étourdi.
+
+-*who_lindor
+Laisse-moi t'embrasser.
+
+-*who_marthon
+      Vous êtes trop hardi.
+
+-*who_lindor
+Tu plaisantes. Je viens sous l'habit d'ordonnance
+De faire mes adieux presgu'à toute la France ;
+Et plein d'impatience à tes pieds je me rends.
+
+-*who_marthon
+Après toute la France.
+
+-*who_lindor
+      Il est des soins décents.
+Il fallait faire voir à la cour, à la ville,
+Que Lindor n'était pas un sujet inutile.
+Il ne me reste plus qu'à prouver à Marthon...
+
+-*who_marthon
+On ne me prouve rien.
+
+-*who_lindor
+      Tout de bon ?
+
+-*who_marthon
+      Tout de bon.
+Finissez...
+
+-*who_lindor
+      Le refus, sans doute, est pour la forme ?
+Comment me trouves-tu sous l'habit uniforme ?
+J'ai bon air, n'est-ce pas ? Je veux que mes habits
+Reviennent tous criblés de balles de fusils.
+Ne nous attristons pas, point de mélancolie.
+Parbleu ! Je vais entendre une belle harmonie,
+Un tapage d'enfer... Nous ferons de beaux sauts.
+Nous ne tirerons pas notre poudre aux moineaux.
+Je viens en ce moment d'acheter une bête
+Qui me secondera dans ces beaux jours de fête :
+Un cheval de bataille, excellent, plein d'ardeur,
+Et docile à la main d'un adroit conducteur :
+Il est fier... comme moi ; nous ferons des merveilles.
+Je viens de lui tirer entre les deux oreilles
+Vingt coups de pistolets, qui ne l'ont pas ému :
+Nous serons bien ensemble ; eh ! Marthon, qu'en dis-tu ?...
+À propos, comment va la charmante cousine ?
+
+-*who_marthon
+Il est temps d'y penser.
+
+-*who_lindor
+      Ta friponne de mine
+Me fait tout oublier.
+
+-*who_marthon
+      Mais vous n'y pensez pas :
+Vous ne m'avez encor parlé que de combats.
+
+-*who_lindor
+Oh ! Je sens le reproche, et je prétends, ma reine...
+
+-*who_marthon
+Eh ! Pensez à madame, elle en vaut bien la peine.
+
+-*who_lindor
+Eh mais ! J'y pense aussi : mais mon nouvel état...
+Morbleu ! Le bel habit que l'habit de soldat !
+Tiens, de la tête aux pieds sans cesse je me mire.
+Mais regarde-moi donc. Je veux que l'on m'admire
+Ce chapeau sur les yeux ne me sied-il pas bien ?
+Ne me donne-t-il pas un petit air vaurien,
+Un air audacieux qui sied au militaire,
+Un air de grenadier ?
+
+-*who_marthon
+      Oh ! Vous aurez beau faire,
+Vous n'aurez jamais l'air que d'un homme charmant.
+
+-*who_lindor
+Eh mais ! Xe n'est pas là, Marthon, un compliment.
+Si je n'impose pas par un bras formidable,
+Ce bras n'en sera pas trouvé moins redoutable
+
+-*who_marthon
+Pourra-t-il manier un sabre, un mousqueton ?
+Le bel homme, ma foi !
+
+-*who_lindor
+      Tu plaisantes, Marthon.
+Il faut pour te punir de tant de défiance,
+Il faut que je t'en fasse éprouver la puissance :
+Point de quartier, je vais te traiter en hussard.
+
+**** *book_ *id_I07 *act_I *date_1762
+
+-*who_madamelisban
+Que faites-vous ?
+
+-*who_lindor
+      On fait ses adieux quand on part.
+
+-*who_madamelisban
+Je le vois. Enfin donc vous partez pour l'armée ?
+
+-*who_lindor
+Oui, cousine.
+
+-*who_madamelisban
+      Votre âme en paraît bien charmée ?
+
+-*who_lindor
+Audacieux amant, soldat vraiment français,
+Je n'ai jamais formé que deux ardents souhaits,
+De réduire une belle et venger ma patrie.
+La moitié de mes voeux sera bientôt remplie.
+Je pars, et je vaincrai. J'espère à mon retour
+Joindre aux lauriers de Mars les myrtes de l'amour.
+
+-*who_madamelisban
+Lindor...
+
+-*who_lindor
+      Présentement je n'ai pour avantage
+Que des airs écoliers, ma figure, mon âge ;
+Aussi vous me traitez comme on traite un enfant ;
+Mais quand je reviendrai glorieux, triomphant,
+Précédé du récit de mes hautes merveilles,
+Dont on aura cent fois étourdi vos oreilles,
+Votre coeur palpitant de plaisir et d'amour,
+Me pourra-t-il alors refuser du retour ?
+Que sait-on, ma cousine ? Ah ! Si par aventure,
+Je revenais couvert d'une heureuse blessure...
+Ah ! Qu'un amant blessé me semble intéressant !
+Si j'étais femme, moi, si j'avais un amant,
+Ce serait ma folie ; ô dieux ! avec délices,
+Je me retracerais ses nobles cicatrices,
+J'aurais à les compter un plaisir inouï,
+Et j'en serais moi-même orgueilleuse pour lui.
+Je reviendrai blessé ; n'en doutez point, cousine,
+Et vous retiendrez pas.
+
+-*who_madamelisban
+      Ce discours m'assassine.
+Allez, jeune insensé, faites votre devoir,
+Mais cachez-moi des maux que je n'ose entrevoir.
+J'ai bien assez de peine à soutenir l'image
+Des dangers infinis...
+
+-*who_lindor
+      Il faut tout mon courage
+Pour pouvoir me résoudre à m'éloigner de vous.
+Adieu, belle cousine, adieu, séparons-nous.
+Souvenez-vous un peu d'un cousin qui vous aime :
+Il reviendra fidèle, et digne de vous-même,
+Le coeur préoccupé de vos divins appas.
+S'il est tué pourtant, il ne reviendra pas :
+Mais on vous remettra de ma part des tablettes,
+De mon amour pour vous confidentes discrètes.
+C'est une chose à voir que ces tablettes-là :
+C'est de l'amour pour vous, on n'y voit que cela ;
+Votre nom est partout ; les pages sont remplies
+De ce que nous avons dit ou fait de folies ;
+On y voit quel beau jour nous nous sommes connus,
+Les heureux jours depuis où nous nous sommes vus,
+Si c'était dans un cercle, ou bien en tête-à-tête ;
+Ces derniers sont marqués comme des jours de fête.
+Les heureux à-propos, les maudits contre-temps,
+Nos petits démêlés sans raccommodements,
+Mes larmes, mes regrets, mes soupirs, mes oeillades,
+Vos soufflets d'ordonnance après mes embrassades,
+Mes serrements de mains, mes battements de coeur
+Y sont comptés, datés dans un ordre enchanteur.
+
+-*who_madamelisban
+Il faut brûler, cousin, de pareilles sornettes.
+
+-*who_lindor
+On me brûlerait vif plutôt que mes tablettes.
+
+-*who_madamelisban
+Laissons cela, Lindor, et changeons de discours.
+
+-*who_lindor
+Voyons, que dirions-nous de mieux que nos amours ?
+
+-*who_madamelisban
+Soupez-vous aujourd'hui ?
+
+-*who_lindor
+      Question fort touchante !
+Je devrais pour cela vous quitter, ma parente.
+
+-*who_madamelisban
+Vous ne feriez pas mal de suivre ce dessein ;
+Car je ne soupe pas et vous mourrez de faim.
+
+-*who_marthon
+Bon ! Il mourra de faim ? A-t-on faim quand on aime ?
+Nous soupons en malade, il soupera de même.
+Allons... Qu'en dites-vous?
+
+-*who_lindor
+      Je ne changerais pas
+Ce dessert de l'amour, pour le plus beau repas.
+Mais à propos... Comment... Qu'avez-vous ?
+
+-*who_madamelisban
+      La migraine,
+Et comme mon époux est allé chez Dormène,
+J'étais... Mais es-tu folle ? Il faut changer cela.
+
+-*who_lindor
+Tout comme vous voudrez ; pour moi je reste là.
+Asseyons-nous, cousine : et toi fais le service.
+Nous aurons là vraiment un beau garçon d'office.
+Allons, point de façons... Que cet instant est doux,
+Cousine, où je me vois tête-à-tête avec vous !
+Je crois avec ma femme être dans mon ménage ;
+Elle n'est pas parée, et m'en plaît davantage.
+Un simple négligé par l'amour inventé,
+Relève innocemment l'éclat de sa beauté ;
+Et je me flatte encor qu'on a pris pour me plaire
+Le frais ajustement d'une simple bergère.
+Eh ! Pensez-vous aussi que je sois votre époux ?
+
+-*who_madamelisban
+Qu'y pourriez-vous gagner ?
+
+-*who_lindor
+      Des droits.
+
+-*who_madamelisban
+      Y pensez-vous ?
+Valent-ils les refus qu'une femme estimable
+Fait souvent à l'amant qu'elle trouve adorable ?
+Mais qu'avez-vous, Lindor, qui vous afflige ainsi ?
+D'où vient que tout à coup votre front obscurci ?...
+
+-*who_lindor
+Ah ! vous ne m'aimez pas.
+
+-*who_madamelisban
+      Non comme vous, sans doute :
+Je m'en garderai bien.
+
+-*who_lindor
+      On sait ce qu'il en coûte.
+
+-*who_madamelisban
+Tenez.
+
+-*who_lindor
+      La belle main !
+
+-*who_madamelisban
+      Finissez, Lindor.
+
+-*who_lindor
+      Non :
+C'est trop me retenir, vous m'en ferez raison ;
+Je ne puis résister au charme involontaire...
+
+-*who_madamelisban
+Mais vous devez du moins craindre de me déplaire.
+
+-*who_marthon
+Voici, mon beau monsieur, pour calmer vos esprits.
+
+-*who_lindor
+Verse rasade, Hébé ; je veux boire à Cypris.
+
+-*who_madamelisban
+Je vais donc boire à Mars.
+
+-*who_marthon
+      Qui vient troubler la fête ?
+Ciel ! Qu'entends-je ? Un carrosse ! À la porte il s'arrête ;
+Il entre : c'est monsieur... Où nous sauverons-nous ?
+
+-*who_madamelisban
+Eh ! Pourquoi nous sauver ?
+
+-*who_marthon
+      Moi, je crains son courroux.
+
+-*who_madamelisban
+Qui pourrait l'allumer ?
+
+-*who_marthon
+      Comment ! votre migraine,
+Le refus de souper avec lui chez Dormène,
+Lindor en ce moment tête-à-tête avec vous ;
+Voilà plus qu'il n'en faut pour fâcher un époux,
+Pour perdre sans retour toute sa confiance.
+Madame, fiez-vous à mon expérience.
+Allons vite, Lindor, partez, suivez mes pas.
+
+-*who_madamelisban
+Eh mais ! Marthon...
+
+-*who_marthon
+      Marthon ne vous écoute pas.
+
+-*who_madamelisban
+Eh ! Je les laisse aller... Mais quelle étourderie !...
+
+**** *book_ *id_I08 *act_I *date_1762
+
+-*who_madamelisban
+Ah ! Vous voilà ?
+
+-*who_monsieurlisban
+      Je viens te tenir compagnie.
+
+-*who_madamelisban
+Vous me faites plaisir...
+      Je ne sais quel parti,
+Dans cette occasion, prendre avec mon mari.
+
+-*who_monsieurlisban
+La joie, à mon aspect, dans tes regards éclaté.
+Tu ne t'attendais pas...
+
+-*who_madamelisban
+      Votre retour me flatte,
+N'en doutez point, monsieur.
+
+-*who_monsieurlisban
+      Je suis bien bon, dis-moi,
+De revenir souper tête-à-tête avec toi.
+
+-*who_madamelisban
+Mais je ne soupe pas.
+
+-*who_monsieurlisban
+      Moi non plus : mais je cause.
+
+-*who_madamelisban
+Je vais lui découvrir...
+
+-*who_monsieurlisban
+      Tiens, parlons d'une chose.
+Tu ne rougis donc pas d'adorer ton époux ?
+Mais rien n'est plus bourgeois. Sais-tu bien, entre nous,
+Qu'on en rit dans le monde, et qu'on dit sans mystère ;
+Il faut absolument qu'ensemble on les enterre,
+Ou que loin de madame on exile monsieur,
+Pour pouvoir la former, humaniser son coeur,
+Et la mettre au courant... Que c'est une misère
+Que tes opinions : ta gloire une chimère ;
+Que tu n'es bonne à rien dans la société
+Depuis notre union ; que ta folle fierté,
+Ton amour suranné, tes tons de bienséance,
+Désolent tout le monde et demandent vengeance.
+
+-*who_madamelisban
+L'hymen m'unit à vous, et je ne pense pas
+Que l'on doive prétendre à mes faibles appas.
+
+-*who_monsieurlisban
+Ainsi, Cléon, Durval, cette folle jeunesse,
+Qui compose ta cour, t'obsède et me caresse : ,
+Chacun doit trouver bon que ton coeur attendri
+Malgré les moeurs du temps lui préfère un mari ;
+Que tout soit, en un mot, pour le pauvre bonhomme :
+Pour quel époux encore ?... Un époux qui t'assomme,
+Un sot, un ennuyeux, un bavard, un oison ;
+N'est-ce pas, mon enfant ? Quelle comparaison
+Avec tous ces messieurs !
+
+-*who_madamelisban
+      Je n'en dois faire aucune.
+
+-*who_monsieurlisban
+Je les plains, s'ils n'ont pas de meilleure fortune.
+Ils en savent bien long tous ces beaux messieurs-là :
+T'ont-ils bien ennuyée ?... Ah ! Conte-moi cela.
+Quel est le plus adroit, Cléon, Durval, Forlise ?
+Je crois que ce dernier pare la marchandise ;
+Qu'il sait la débiter : il te chassait de près ;
+Il doit être piqué d'avoir perdu ses frais.
+Forlise a de l'esprit, sa figure a des charmes.
+Eh ! Que sais-je, peut-être a-t-elle don des larmes ?
+N'en a-t-il pas versé pour toucher ta vertu ?
+Et le petit Lindor, comment le traites-tu ?
+Comment s'en tire-t-il-? Lui vient-il de l'audace ?
+Tu rougis... Quelle enfance !
+
+-*who_madamelisban
+      Épargnez-moi, de grâce.
+De semblables discours.
+
+-*who_monsieurlisban
+      Oh ! Tiens, je n'aime pas
+Ces superbes vertus qui font tant de fracas.
+
+-*who_madamelisban
+Vous y comptez pourtant.
+
+-*who_monsieurlisban
+      Oh ! Point... Je te dévoile
+Que je ne compte ici que sur ma bonne étoile.
+Tiens, mon coeur : j'ai connu bon nombre de beautés,
+Je leur ai fait cent tours, cent infidélités,
+J'étais un vrai fripon ; eh bien ! Pas une belle,
+Malgré des torts réels, n'a pu m'être infidèle.
+Je le puis avouer, sans être fanfaron,
+Que quand je suis aimé c'est ma foi tout de bon.
+Ce n'est pas que je sois plus aimable qu'un autre ;
+Chacun a son mérite, et l'on s'en tient au nôtre ;
+C'est un je ne sais quoi, qui, je ne sais comment,
+Comme dit bien... Molière... assez comiquement...
+Enfin, tu comprends bien, n'est-il pas vrai, ma reine ?
+Par exemple, tu vois si ton mari te gêne.
+As-tu donné ce soir rendez-vous à quelqu'un ?
+Suis-je de trop ? Je sors, si je suis importun.
+
+-*who_madamelisban
+Non, vous ne sauriez l'être, et c'est me faire outrage.
+
+-*who_monsieurlisban
+Tu sens que tout ceci n'est qu'un pur badinage.
+
+-*who_madamelisban
+Oui, je le pensé ainsi... Je vais me retirer.
+Donnez-moi la main,
+
+-*who_monsieurlisban
+      Soit ; mais avant que d'entrer
+Je vais chercher...
+
+-*who_madamelisban
+      Quoi donc ?
+
+-*who_monsieurlisban
+      Pour t'amuser, ma chère,
+Je veux te lire un conte...
+
+-*who_madamelisban
+      À présent ? Pourquoi faire ?
+
+-*who_monsieurlisban
+Un conte singulier, qu'on nomme "Heureusement".
+C'est un benêt d'époux qui rentre justement...
+Il croit que son retour charme son Artémise,
+Lui tient de sots propos dont il la croit éprise :
+Il lui dit des douceurs, comme nous autres fous
+Nous pourrions tendrement nous en dire entre nous.
+Non, rien n'est plus piquant : j'ai la tête remplie
+De cette ingénieuse et charmante folie.
+Je vais t'aller chercher ce petit conte-là ;
+Il est dans le salon ; cela te bercera,
+
+**** *book_ *id_I09 *act_I *date_1762
+
+-*who_madamelisban
+Il va tout découvrir... Ô dieux ! Je suis perdue.
+Eh ! Devais-je, Lindor, te cacher à sa vue ?
+Quelle imprudence, ô ciel ! Qu'elle va me coûter !
+Où me cacher ? Où fuir ? Dans quels bras me jeter !
+Je suis morte.
+
+**** *book_ *id_I10 *act_I *date_1762
+
+-*who_monsieurlisban
+      Ah ! Ah ! Ah ! J'étoufferai de rire.
+
+-*who_madamelisban
+Ciel ! Qu'entends-je ! Que vois-je ! Et quel transport l'inspire ?
+Il rit....
+
+-*who_monsieurlisban
+      Ah ! Ah ! Ah ! Ah ! J'en rirai plus d'un jour.
+
+-*who_madamelisban
+Non, je ne conçois rien à ce joyeux retour.
+Il faut le voir venir.
+
+-*who_monsieurlisban
+      L'excellente aventure !
+
+-*who_madamelisban
+Tout cela me paraît d'un assez bon augure.
+
+-*who_monsieurlisban
+Ah ! Le petit fripon ; qui s'en serait douté ?
+Il est d'assez bon goût ; pas trop mal débuté !
+Mignonnette, sais-tu quel sujet me ramène ?...
+Ah ! Ah ! Ah ! Laisse-moi reprendre mon haleine.
+Ma foi, je n'en puis plus.
+
+-*who_madamelisban
+      Que veut dire ceci ?
+Lindor aura trompé, sans doute, mon mari.
+Eh bien ! Achevez donc. Si j'ose vous le dire,
+Je ne conçois pas trop de quoi vous pouvez rire.
+
+-*who_monsieurlisban
+Lindor...
+
+-*who_madamelisban
+      Eh bien ! Lindor ? Parlez, expliquez-vous.
+
+-*who_monsieurlisban
+Le cousin est ici, mais motus, taisons-nous :
+Il est incognito. Ce n'est point pour ton compte.
+Devine un peu, devine à qui le drôle en conte,
+Quel est l'heureux objet qui l'attire en ces lieux ?
+Marthon, en ce moment recevait ses adieux.
+
+-*who_madamelisban
+Ah ! Je suis trop heureuse ; à la fin je respire.
+Vous m'étonnez... Comment... et que voulez-vous dire ?
+
+-*who_monsieurlisban
+Il faut tout t'expliquer. J'ai surpris le cousin
+Aux genoux de Marthon ; il lui baisait la main.
+
+-*who_madamelisban
+Comment, chez vous ?
+
+-*who_monsieurlisban
+      Voyez le grand malheur, madame !
+J'aime mieux qu'on en conte à Marthon qu'à ma femme.
+Enfin, pour t'achever mon histoire en deux mots,
+Je suis pour la petite entré fort à propos.
+
+-*who_madamelisban
+Que sont-ils devenus ?
+
+-*who_monsieurlisban
+      Ah ! Voilà l'impayable.
+Quand ils m'ont vu paraître, ils ont cru voir le diable ;
+Et s'échappant soudain, honteux d'être surpris ,
+Je les ai tous les deux poursuivis par mes ris.
+Qu'une femme surprise est sotte, ma petite !
+Mais quoi! Ne veux-tu pas nous tenir un peu quitte
+De cette gravité qui n'est pas de saison ?
+N'est-ce pas à propos rentrer dans sa maison
+Pour mettre le bon ordre ?... Hem ! Qu'en dis-tu ?
+
+-*who_madamelisban
+      Sans doute.
+
+-*who_monsieurlisban
+C'est mettre, comme on dit, le renard en déroute.
+Que devenait Marthon ?... Eh ! Voilà justement :
+Voilà, sur mon honneur, mon conte... « Heureusement »,
+Peste ! Il vous connaît bien, l'auteur de cet ouvrage.
+« Une femme est souvent plus heureuse que sage, »
+Dit-il... Eh bien ! Marthon nous démontre cela.
+Rien n'est plus singulier que cette histoire-là.
+Il faut être avec moi toujours sur le qui-vive :
+On fait une sottise ; heureusement j'arrive.
+Parbleu ! j'ai le nez fin... Ne gronde pas Marthon :
+C'est un malheur qui peut loi servir de leçon.
+Voilà de ces hasards...
+
+-*who_madamelisban
+      Qui sauvent l'innocence
+Du danger où souvent l'expose une imprudence.
+
+-*who_monsieurlisban
+Si quelque fantaisie, un petit goût fripon,
+Te prenait pour quelqu'un, dis-le-moi sans façon ;
+Que je ne vienne pas...
+
+-*who_madamelisban
+      Vous, monsieur, au contraire.
+Comptez que je prendrai tout le soin nécessaire
+Pour sauver ma vertu d'un lâche attachement :
+Mais si je me pouvais oublier un moment,
+Personne ne saurait, en ce malheur extrême,
+Plus à mon gré, monsieur ; survenir que vous-même.
+
+-*who_monsieurlisban
+Fort bien. Puisse-je donc, en cas d'événement,
+Rentrer comme aujourd'hui toujours, « heureusement » !

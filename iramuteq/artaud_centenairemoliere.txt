@@ -1,0 +1,1953 @@
+
+
+**** *book_ *id_I01 *act_I *date_1773
+
+-*who_momus
+De mon déguisement, que dites-vous, Thalie ?
+
+-*who_thalie
+Et vous du mien, Momus, que pensez-vous ?
+
+-*who_momus
+Qu'on dira que nous sommes fous,
+De voyager ainsi de compagnie.
+Vous en Nuit !
+
+-*who_thalie
+      Vous en Médecin
+Non, de cette plaisanterie,
+D'honneur je ne vois pas le fin1.
+
+-*who_momus
+Que voulez-vous ? Chacun a sa méthode ;
+Moi, pour tromper le genre humain,
+Je crois que cet habit sera toujours de mode.
+
+-*who_thalie
+Eh ! non. Je l'en ai corrigé.
+
+-*who_momus
+Vous n'avez corrigé personne,
+C'est un avis que je vous donne ;
+Et si quelque chose est changé,
+Ce n'est pas l'humaine folie ;
+Mais vous, par exemple, Thalie ;
+Est-ce un habit de goût que ce déguisement ?
+
+-*who_thalie
+Comme le vôtre, assurément.
+
+-*who_momus
+Avec tout cela, je parie
+Qu'on vous devinera plus aisément que moi.
+
+-*who_thalie
+Voudrez-vous bien me dire à quoi ?
+
+-*who_momus
+Non, non, il ne faut pas nous moquer l'un de l'autre.
+Sur la diversité des goûts,
+Des Dieux et des auteurs, tant de sots sont jaloux
+Que, si l'on rit du mien, on sifflera le vôtre.
+
+-*who_thalie
+Mon cher Momus, en prenant de l'humeur,
+Vous gâtez votre caractère ;
+Oui, vous devenez raisonneur :
+Mon amitié ne peut le taire ;
+Et cependant à l'instant nous disions
+Moi, vous et notre ami Molière,
+Que, lorsque de la sorte on se met en colère,
+On fait croire qu'on a de mauvaises raisons.
+
+-*who_momus
+Contre des Dieux tels que nous sommes
+La meilleure épigramme a tort,
+Et les ridicules des hommes
+Sont les seuls de votre ressort.
+
+-*who_thalie
+D'accord. Mais vous me faites rire
+Avec de semblables propos ;
+Et depuis quand le Dieu de la Satire
+Parle-t-il morale et grands mots ?
+
+-*who_momus
+Depuis que je suis en voyage.
+Ici-bas, à ce qu'on m'a dit,
+Pour les bien connaître, il est sage
+De se monter au ton des gens chez qui l'on vit.
+
+-*who_thalie
+Vous voilà bien. L'inconséquence
+Est toujours de votre côté ;
+Car enfin nous sommes en France,
+C'est le pays de la gaîté,
+Et je ne vois pas, quand j'y pense,
+Le mot pour rire à cette gravité.
+
+-*who_momus
+Depuis que vous l'avez quitté.
+
+-*who_thalie
+Cent ans ! c'est une bagatelle.
+
+-*who_momus
+Oui pour vous, pour une Immortelle ;
+Mais aux Français, ainsi qu'à la beauté,
+Dix ans font quelquefois une perte cruelle.
+
+-*who_thalie
+Vous m'effrayez... Est-ce qu'on ne rit plus ?
+
+-*who_momus
+De vous répondre là-dessus
+De grâce épargnez-moi la peine ;
+Ainsi que moi, vous voilà sur la scène.
+Voyez ; et supprimons des détails superflus.
+Songeons d'abord qu'il faut faire un mystère
+De notre venue en ces lieux ;
+Que Jupiter, pressé du désir curieux
+De savoir si toujours Molière
+Plaît ici-bas comme il charme les Dieux,
+Nous envoie exprès sur la scène,
+Au jour précis des cent ans révolus :
+Qu'imaginez-vous là-dessus ?
+
+-*who_thalie
+Je n'imagine rien ; car je suis très certaine
+Que du Public jamais il ne fut plus fêté,
+Ni par mes Acteurs mieux traité.
+
+-*who_momus
+Moi, je soupçonne, en vérité,
+Que Jupiter va faire la folie
+De l'agréger à l'immortalité.
+
+-*who_thalie
+N'est-elle pas toujours un droit pour le génie ?
+En seriez-vous jaloux ?
+
+-*who_momus
+      Oui, si parmi les Dieux,
+Nous connaissions les humaines misères ;
+Mais enfin nous venons chercher des caractères,
+Et, pour vous aider de mon mieux,
+Je crois que cet habit sera bien à la chose.
+
+-*who_thalie
+Comment donc ?
+
+-*who_momus
+      Je serais surpris
+Si par le choix heureux de ma métamorphose
+Nous n'attirions pas tout Paris.
+
+-*who_thalie
+Vous croyez donc la charlatanerie
+Une chose bien rare ?
+
+-*who_momus
+      Non.
+
+-*who_thalie
+Expliquez-moi donc, je vous prie,
+Comment par cet habit vous croyez tout de bon
+Faire accourir des gens de toutes les espèces.
+
+-*who_momus
+Outre l'habit, je fais répandre des adresses.
+
+-*who_thalie
+Tout le monde en est regorgé.
+
+-*who_momus
+J'en conviens : mais point corrigé.
+Les miennes sont d'ailleurs si subtilement faites,
+Que je veux en trois jours tourner toutes les têtes.
+Écoutez. Consultations,
+Blanc éternel, vrais cosmétiques,
+Essences, préparations ;
+Secrets inconnus, alchimiques :
+Et pour mieux appeler les Grands et les Petits,
+J'ai mis un mot divin.
+
+-*who_thalie
+      Et ce mot, c'est ?
+
+-*who_momus
+      Gratis.
+On ne me prendra pas, je crois, cet artifice.
+
+-*who_thalie
+Oh ! Je ne doute plus que tout ne réussisse. 
+
+-*who_momus
+L'un y viendra par avarice.
+
+-*who_thalie
+Un autre, ce sera par curiosité.
+
+-*who_momus
+Oui, tout Paris sera des nôtres.
+
+-*who_thalie
+Vous oubliez la nouveauté :
+Dans le pays de la frivolité,
+Ce motif seul vaut tous les autres.
+Les avez-vous déjà vos imprimés ?
+
+-*who_momus
+Oui ; dedans sont bien exprimés
+Cent secrets différents, des cures incurables
+De noms qualifiés, de gens bien introuvables.
+
+-*who_thalie
+N'oubliez pas surtout le Pont-Neuf, les Cafés,
+Ni les portes des Promenades.
+
+-*who_momus
+Je vous en garantis tous les sots bien coiffés
+Tant je connais à fond cet art des embuscades.
+
+-*who_thalie
+Comme les Médecins vont en être étonnés !
+
+-*who_momus
+Ils auront tous un pied de nez ;
+Je ne tuerai pas mes malades.
+
+**** *book_ *id_I02 *act_I *date_1773
+
+-*who_thalie
+Il est railleur ce Dieu Momus,
+Et quelque légère nuance
+Aura suffi sans doute à ses yeux prévenus,
+Pour m'annoncer qu'on ne rit plus
+Dans mon charmant pays de France.
+Non, non : j'en crois peu ses discours.
+Ah ! si mes chers Français, que j'aimerai toujours,
+De leurs tristes voisins avoient pris la manie,
+Je dois voler à leur secours ;
+Et c'est un trait bien digne de Thalie
+Que de les rappeler à l'aimable folie,
+Qui fut pour eux l'époque des beaux jours.
+J'entends du bruit ; tâchons de nous contraindre ;
+Ce voile-ci va cacher mes efforts :
+Si je vois que l'on m'aime, alors
+Il ne sera plus temps de feindre.
+
+**** *book_ *id_I03 *act_I *date_1773
+
+-*who_thalie
+Eh ! te voilà, mon cher ami Sosie ?
+
+-*who_sosie
+Qui ? moi, votre ami ! quelque sot !
+De cette amitié-là ne croyez pas un mot ;
+Et ça pour raison, je vous prie.
+
+-*who_thalie
+Toujours ta brusque répartie...
+
+-*who_sosie
+N'êtes-vous pas la Nuit ?
+
+-*who_thalie
+      Et quand cela serait ?
+
+-*who_sosie
+Certains coups de bâton dont vous fûtes la cause...
+
+-*who_thalie
+Ce n'est rien, va.
+
+-*who_sosie
+      Peut-être il me faudrait
+Vous dire encor grand merci de la chose.
+De me louer de vous, oui, sans doute, j'ai lieu.
+Que ne me dites-vous aussi, comme Mercure,
+Que les coups de bâton d'un Dieu
+Font honneur à qui les endure ?
+
+-*who_thalie
+Je ne dis pas cela ; mais de ce déplaisir,
+Dont tu dois tirer peu de gloire,
+Faut-il toujours t'entretenir ?
+
+-*who_sosie
+Je tâche en vain d'en perdre la mémoire,
+Et ce n'est pas faute de boire
+Que j'en garde le souvenir.
+
+-*who_thalie
+Le voilà bien, le cher Sosie ;
+Toujours gai, toujours mon ami.
+
+-*who_sosie
+Quand vous me cajolez ainsi,
+Je le vois, vous avez envie
+Que je vous serve en tout ceci.
+Je gage de nouveau, pour tromper un mari,
+Que quelqu'ordre secret ici-bas vous ramène.
+
+-*who_thalie
+Mais en ce cas quel serait ton souci ?
+
+-*who_sosie
+C'est que depuis le temps qu'on vous vit sur la scène,
+Tout est bien changé là-dessus ;
+Les maris ne se fâchent plus,
+Et les femmes ont moins de peine.
+
+-*who_thalie
+J'entends ; les moeurs...
+
+-*who_sosie
+      Vous m'étonnez.
+Je pensais que de ces affaires
+Vous ne vous embarrassiez guères,
+Et que vos soins étaient toujours bornés
+À présider tout bas aux amoureux mystères.
+
+-*who_thalie
+Si tu me connaissais !...
+
+-*who_sosie
+      Ah ! Voici le roman,
+Femme de qui la vertu cloche
+En a toujours un dans la poche
+Pour accrocher ou duper un amant.
+
+-*who_thalie
+Pour revenir à mon histoire,
+Je suis veuve.
+
+-*who_sosie
+      Depuis longtemps ?
+
+-*who_thalie
+Tu ne me voudras jamais croire,
+Si je te dis que c'est depuis cent ans.
+
+-*who_sosie
+Va pour cent ans, je vous les passe ;
+Mais aussi faites-moi la grâce
+De ne pas vous apercevoir
+Si je m'endors sans vous dire bon soir.
+
+-*who_thalie
+Tu crois donc que je fais un conte ?
+
+-*who_sosie
+Et quand cela serait, je ne m'en plaindrais pas.
+D'un conte, s'il est gai, je fais assez de cas ;
+Et je vous avouerai sans honte,
+Que j'aime encore à rire quelquefois,
+Quoique le rire soit bourgeois ;
+Il faut se mesurer justement à sa toise.
+
+-*who_thalie
+À chaque mot, si tu me cherches noise,
+Je ne finirai pas.
+
+-*who_sosie
+      Continuez.
+
+-*who_thalie
+      L'époux
+Que m'enleva le fort jaloux
+Dans le brillant de sa noble carrière...
+
+-*who_sosie
+Après ?
+
+-*who_thalie
+      Il s'appelait.
+
+-*who_sosie
+      Eh ! bien, comment ?
+
+-*who_thalie
+      Molière.
+
+-*who_sosie
+Quoi ! Molière ? Que dites-vous ?
+
+-*who_thalie
+Rien que de vrai.
+
+-*who_sosie
+      Vous êtes donc Thalie ?
+
+-*who_thalie
+Oui.
+
+-*who_sosie
+      Levez ce voile.
+
+-*who_thalie
+      Tiens, vois.
+
+-*who_sosie
+À cette mine réjouie,
+Qui ne reconnaîtrait ?... Permettez que Sosie
+Dans son transport, vous embrasse une fois.
+
+-*who_thalie
+Soit.
+
+-*who_sosie
+      Eh ! Ma lanterne. Deux ?
+
+-*who_thalie
+      Trois.
+
+-*who_sosie
+Oh ! comme c'est touchant, une reconnaissance !
+Me voilà prêt à pleurer de plaisir.
+
+-*who_thalie
+Pleurer ! Fi, quelle extravagance !
+Toi qui dis que ton seul désir
+Est de m'accompagner sans cesse.
+
+-*who_sosie
+J'aurais grand tort, je le confesse,
+D'aller pleurnicher près de vous.
+Non, des symboles de tristesse
+Ne doivent point gâter des passe-temps si doux.
+
+-*who_thalie
+Suis-je encore ton ennemie ?
+
+-*who_sosie
+Comblé de vos faveurs, ô divine Thalie,
+Je n'ai plus d'ennemis ; mais j'aurai des jaloux.
+
+-*who_thalie
+Va, de les désespérer tous,
+Momus et moi, nous savons la manière.
+
+-*who_sosie
+Bon. Cette bonté singulière
+Voudrait-elle lever un scrupule que j'ai ?
+
+-*who_thalie
+Parle.
+
+-*who_sosie
+      Sur cet hymen de vous et de Molière.
+Si par hasard j'étais interrogé...
+
+-*who_thalie
+Eh bien ! C'était un hymen arrangé.
+
+-*who_sosie
+Où ? Quand ? Comment ? Un curieux s'informe...
+
+-*who_thalie
+Je t'entends. Tu diras que mon contrat en forme
+Fut par Apollon rédigé.
+
+-*who_sosie
+Là-haut, l'on s'épouse ?
+
+-*who_thalie
+      Et l'on s'aime.
+
+-*who_sosie
+C'est la moitié plus qu'à Paris.
+Passe encor pour des favoris.
+Mais je n'en reviens pas, quand vous dites vous-même
+Que les Muses ont des maris.
+
+-*who_thalie
+Melpomène est au quatrième.
+
+-*who_sosie
+Bon. Me voilà bien éclairci ;
+Et je n'ai plus d'autre souci
+Que d'être occupé de vous plaire.
+A présent de ce qu'il faut faire,
+Instruisez-moi donc.
+
+-*who_thalie
+      Le voici.
+Premièrement que ma venue ici
+Pour tout autre soit un mystère.
+
+-*who_sosie
+Soit.
+
+-*who_thalie
+      Jupiter, lassé de s'ennuyer,
+Avec Momus, qui me sert d'Ecuyer,
+M'a commandé de venir sur la terre,
+Et de lui rapporter au séjour du Tonnerre,
+Quelques travers nouveaux qui puissent l'égayer.
+
+-*who_sosie
+Vous pourriez avoir de la peine.
+On a bien appauvri la scène.
+
+-*who_thalie
+Que m'importe ? J'ai de bons yeux.
+
+-*who_sosie
+Aussi bons que jolis. Tant mieux.
+Peste ! où prend mon esprit toute sa gentillesse.
+
+-*who_thalie
+Songe ensuite qu'il faut que je passe pour Nièce
+De Momus : nous venons ensemble exprès céans,
+Pour tâcher de saisir un nouveau caractère.
+
+-*who_sosie
+C'est prendre assez mal votre temps
+Et ce ne sera pas une petite affaire.
+
+-*who_thalie
+Comment ?
+
+-*who_sosie
+      C'est qu'il paraît que la plupart des gens
+Ont donné dans le goût fantasque,
+De n'avoir, pour eux tous, qu'un masque ;
+Et qui les reconnaît a des yeux bien perçants.
+
+-*who_thalie
+Pour qu'ils se montrent sans contrainte,
+D'un habit de Docteur Momus s'est revêtu.
+Se douteront-ils de la feinte ?
+Là, dis-le-moi, qu'en penses-tu ?
+
+-*who_sosie
+S'il faut parler avec franchise,
+Moi j'imagine qu'un projet
+Fondé sur l'humaine sottise
+Manque rarement son effet.
+
+-*who_thalie
+Çà, tu peux nous servir.
+
+-*who_sosie
+      Eh ! de quelle manière
+Puis-je mériter vos faveurs ?
+
+-*who_thalie
+Aux gens qui nous viendront en faisant les honneurs.
+
+-*who_sosie
+Et s'il se présentait des sujets de Molière ?
+
+-*who_thalie
+Tu railles, ils sont morts.
+
+-*who_sosie
+      Eux, morts ? Oh, par ma foi,
+Ils se portent tous mieux que moi,
+Et je crois qu'ils feront douze fois ma carrière.
+
+-*who_thalie
+De ton zèle empressé je connais tout le prix ;
+Compte sur ma reconnaissance.
+
+-*who_sosie
+Vous avez bien raison de chérir les Petits ;
+Et des Petits la bienveillance
+Vaut, en plus d'une occasion,
+Cette vaine protection
+Dont un Grand fait la récompense,
+Et du Sot qui le sert avec affection
+Et du vil flatteur qui l'encense.
+
+-*who_thalie
+Tant de bon sens dans un Valet !
+On a frappé ; va voir qui c'est.
+Nous en allons avoir de toutes les espèces.
+Et je jouerais d'un malheur peu commun,
+Si dans la quantité je n'en attrapais un.
+Oh ! Ma foi, vive les adresses !
+Eh bien ?
+
+-*who_sosie
+      C'est un beau cavalier.
+
+-*who_thalie
+Et son nom ?
+
+-*who_sosie
+      C'est Monsieur Lélie.
+
+-*who_thalie
+Il n'a pas changé de métier :
+À la plus nouvelle folie
+Un étourdi court toujours le premier.
+
+**** *book_ *id_I04 *act_I *date_1773
+
+-*who_lelie
+Ah ! Que le ciel m'oblige, en offrant à ma vue
+Les célestes attraits dont vous êtes pourvue.
+Madame, un Charlatan qui me fait accourir,
+Du mal que font vos yeux sait-il aussi guérir ?
+Oh ! Qu'il le sache ou non, qu'il garde sa recette.
+Que mon bonheur est grand ! Que ma joie est complète !
+Et pouvais-je espérer de trouver en ces lieux,
+Au lieu d'un ignorant, cette grâce et ces yeux ?
+
+-*who_thalie
+Ils sont bien obscurcis par ma douleur extrême.
+
+-*who_lelie
+Je vous consolerai, puisqu'enfin je vous aime,
+Et que me voilà prêt à finir vos malheurs.
+
+-*who_thalie
+Vous savez donc, Monsieur, le sujet de mes pleurs ?
+
+-*who_lelie
+Et qu'en est-il besoin ! pour l'imaginative,
+Croyez que je ne cède à personne qui vive :
+Si j'avais un valet que je regrette encore,
+Mascarille ; il valait, ma foi, son pesant d'or.
+
+-*who_thalie
+Que m'importe un valet, à moi ?
+
+-*who_lelie
+      Quand je le cite,
+C'est qu'il convient toujours d'honorer le mérite.
+
+-*who_thalie
+Il était donc bien grand, ce mérite ?
+
+-*who_lelie
+      Au besoin,
+D'imaginer pour moi je lui laissais le soin.
+
+-*who_thalie
+Ainsi de ma douleur il aurait su la cause ?
+
+-*who_lelie
+Mieux que vous : et tenez, quand tout seul je suppose
+Votre coeur en secret par l'amour lutiné,
+Avouez franchement, n'ai-je pas deviné ?
+
+-*who_thalie
+De l'art d'imaginer donnez une autre preuve.
+
+-*who_lelie
+Pourquoi donc, s'il vous plaît, Madame ?
+
+-*who_thalie
+      Je suis veuve.
+
+-*who_lelie
+Bon ! pour mieux me cacher le sujet de vos pleurs,
+Faut-il vous aviser du moindre des malheurs ?
+
+-*who_thalie
+Monsieur, encore un coup je suis veuve, vous dis-je.
+
+-*who_lelie
+Tant mieux : votre douleur en tient plus du prodige.
+
+-*who_thalie
+Vous vous doutez assez que depuis ce trépas,
+Et faite comme on est, ayant quelques appas... 
+
+-*who_lelie
+J'entends. Pour adoucir les horreurs du veuvage,
+Vous n'avez pas voulu déroger à l'usage
+Des amants.
+
+-*who_thalie
+      Un Joueur et puis un Glorieux
+Fixèrent, j'en conviens, et mon coeur et mes yeux :
+Mais d'un dernier, surtout, mon âme est enivrée.
+
+-*who_lelie
+Et c'est ?...
+
+-*who_thalie
+      Il est connu.
+
+-*who_lelie
+      Son nom ?
+
+-*who_thalie
+      De l'Empirée.
+J'en eus d'autres encor ; j'aime à le publier.
+
+-*who_lelie
+N'importe : me voilà pour les faire oublier.
+
+-*who_thalie
+Qui ? vous, Monsieur ?
+
+-*who_lelie
+      Oui, moi : moi, vous dis-je, Madame.
+Vous n'imaginez pas tout l'excès de ma flamme ;
+Et mon coeur est capable, en son transport jaloux,
+De vous aimer toujours, fussé-je votre époux.
+Oui, je jure...
+
+**** *book_ *id_I05 *act_I *date_1773
+
+-*who_sosie
+      Eh ! doit-on jurer de telle sorte,
+Monsieur ? Là, là, calmez l'ardeur qui vous transporte.
+
+-*who_lelie
+Ce maraud-là me tient des propos bien hardis.
+Sais-tu que, si j'étais un de ces étourdis
+Capables de manquer à ce qu'on doit aux Belles,
+Un bâton sur ton dos m'en dirait des nouvelles
+
+-*who_lelie
+Bon ! vous n'avez pas l'air de ces étourdis-là.
+
+-*who_lelie
+Je n'en ai pas l'air.
+
+-*who_sosie
+      Non.
+
+-*who_lelie
+      Tu vas voir.
+
+-*who_sosie
+      Ah ! Ah ! Ah !
+Au secours, au secours, voisins, je vous en prie.
+
+-*who_lelie
+Comment ! bourreau, tu fais des cris !
+
+-*who_sosie
+De mille coups tu me meurtris,
+Et tu ne veux pas que je crie ?
+
+-*who_lelie
+Madame, pardonnez.
+
+-*who_thalie
+      Quoi ! votre étourderie...
+Sortez d'ici, Monsieur.
+
+-*who_lelie
+      Il y va de ma vie.
+Cruelle ! À vos genoux...
+
+-*who_sosie
+      Madame, tenez bon.
+
+-*who_thalie
+Mon Oncle, qui paraît, va me faire raison
+De votre extravagance et de votre furie.
+
+-*who_lelie
+Il saura pardonner un peu d'étourderie
+À ce coeur pour vos yeux si fortement épris.
+
+**** *book_ *id_I06 *act_I *date_1773
+
+-*who_momus
+N'ai-je pas entendu des cris ?
+
+-*who_thalie
+Ah ! Mon Oncle !
+
+-*who_lelie
+      Ah ! Monsieur, cette charmante nièce
+Peut vous dire l'ardeur qui pour elle me presse ;
+Et je dois ajouter qu'il nous serait bien doux
+D'obtenir votre aveu pour devenir époux.
+
+-*who_thalie
+Avant de s'épouser, il faut bien se connaître.
+
+-*who_momus
+On se marierait peu.
+
+-*who_lelie
+      Dès qu'on m'a vu paraître,
+Je suis connu.
+
+-*who_thalie
+      Tant pis. Soyez sûr qu'en ce cas
+C'est plutôt un bonheur de ne vous avoir pas.
+
+-*who_lelie
+Oh ! puisque vous osez en venir aux injures,
+Je conterai partout toutes vos aventures ;
+Je connais un Poète, il vous chansonnera.
+
+-*who_momus
+Chansons !
+
+-*who_lelie
+      Vous...
+
+-*who_momus
+      Je m'en moque.
+
+-*who_lelie
+      Eh bien ! on le saura.
+Et je vous couvrirai si bien de ridicule,
+Que vous ne vendrez pas une seule pilule,
+Pas un petit paquet.
+
+**** *book_ *id_I07 *act_I *date_1773
+
+-*who_momus
+      Je ris de vos raisons ;
+Quoi que vous disiez, peu m'importe.
+Toi, que vas-tu chercher à cette porte ?
+
+-*who_sosie
+Voir s'il prend le chemin des petites maisons.
+
+-*who_momus
+Vit-on jamais pareille étourderie ?
+
+-*who_thalie
+Vous n'avez pas tout vu. Demandez à Sosie :
+Comme il en est très fidèle témoin,
+Mieux que personne il pourra vous le dire.
+
+-*who_sosie
+Si vous avez sujet de rire,
+Je ne dois pas avoir le même soin.
+Monsieur, à cette porte un homme
+Qui n'a pas voulu qu'on le nomme,
+Dit en secret avoir affaire à vous.
+Il est vêtu de noir et parle d'un ton doux.
+
+-*who_momus
+Son nom.
+
+-*who_sosie
+      Je vous ai dit qu'il ne veut pas le dire.
+
+-*who_momus
+Fais entrer.
+
+-*who_thalie
+      Moi je me retire
+Pour vous le laisser recevoir.
+
+**** *book_ *id_I08 *act_I *date_1773
+
+-*who_sosie
+Et vous consentez à le voir
+Tête-à-tête ?
+
+-*who_momus
+      Oui.
+
+-*who_sosie
+      Mais c'est une folie.
+
+-*who_momus
+Je ris de ta poltronnerie.
+
+-*who_sosie
+D'accord, je suis poltron ; on en vit plus longtemps.
+Vous autres Dieux, vous êtes gais, contents ;
+Vous ne mourez jamais de votre vie ;
+Mais aux pauvres humains il ne faut rien qu'un coup.
+
+-*who_momus
+Fais-le toujours venir.
+
+-*who_sosie
+      Vous hasardez beaucoup.
+
+**** *book_ *id_I09 *act_I *date_1773
+
+-*who_tartuffe
+Que le Ciel à jamais par sa toute bonté
+Et de l'âme et du corps vous donne la santé.
+Monsieur ; le bien de vous que partout on publie...
+
+-*who_momus
+Arrivé d'aujourd'hui...
+
+-*who_tartuffe
+      Permettez, je vous prie :
+Il est juste, et je crois tout ce qu'on dit de vous :
+Je ne suis, grâce au Ciel, envieux ni jaloux ;
+Mais j'ai vu si souvent les horreurs de l'envie
+Empoisonner les jours d'une innocente vie,
+Que j'ai cru vous devoir ce secret entretien,
+Où mon zèle empressé va ne vous cacher rien.
+
+-*who_momus
+Parlez, Monsieur.
+
+-*who_tartuffe
+      Mon coeur de douleur se déchire,
+Quand je vois les méchants agrandir leur empire.
+
+-*who_momus
+Je te connais.
+      Où tend ce discours ?
+
+-*who_tartuffe
+      Le voici ;
+Et vous en allez être à l'instant éclairci.
+On dit (mais je crois peu ce propos condamnable)
+Que vous avez chez vous un objet jeune, aimable ;
+Que sa beauté fragile, appelant tous les coeurs,
+Peut malheureusement décréditer vos moeurs.
+Et mon zèle...
+
+-*who_momus
+      Je sais ce qu'il convient d'en croire :
+Mais pensez-vous qu'on puisse avoir l'âme assez noire ?...
+
+-*who_tartuffe
+Oui, Monsieur. Arrivé depuis fort peu de temps,
+Vous n'imaginez pas la malice des gens ;
+Et combien la vertu jadis si respectée,
+Est partout aujourd'hui bassement insultée,
+Sur vous, qu'autant que moi, je crois homme de bien,
+Je ne répondrais pas qu'on ne répandit rien,
+Étant amis tous deux. La vertu réunie,
+Avec plus de succès, fera taire l'envie :
+Je suis connu.
+
+-*who_momus
+      Sans doute.
+
+-*who_tartuffe
+      Et mon zèle discret
+Peut, dans votre maison, faire un très bon effet.
+
+-*who_momus
+Le Cafard !
+
+-*who_tartuffe
+      En voyant votre charmante nièce,
+Mes avis paternels guideraient sa jeunesse,
+Et je la sauverais peut-être d'un écueil.
+
+-*who_momus
+Peut-être, est trop modeste.
+
+-*who_tartuffe
+      Oh ! Je hais tant l'orgueil !
+
+-*who_momus
+Fort bien ; mais je craindrais qu'on ne dît qu'une flamme
+En secret...
+
+-*who_tartuffe
+      Moi, Monsieur, j'aimerais une femme !
+Vous m'objectez en vain ce motif de refus ;
+On sait bien que j'ai fait mes preuves là-dessus.
+
+-*who_tartuffe
+Je vais, pour le punir, l'envoyer chez Thalie.
+Je me rends. Oui, je vois que toute votre envie
+Est de contribuer à mon contentement ;
+Et vous pouvez passer dans son appartement.
+
+**** *book_ *id_I10 *act_I *date_1773
+
+-*who_sosie
+Qu'en dites-vous, Seigneur ? Parle-t-il avec force ?
+Voilà l'homme de bien.
+
+-*who_momus
+      Ce n'en est que l'écorce.
+Jusqu'à quand verra-t-on l'homme simple et les sots
+Trompés indignement par l'abus des grands mots ?
+
+-*who_sosie
+Avez-vous su son nom ?
+
+-*who_momus
+      Tartuffe.
+
+-*who_sosie
+      De Molière ?
+À sa tournure singulière,
+Je l'aurais pris, ma foi, pour un homme de bien :
+Sur la mine jamais je ne croirai plus rien.
+
+**** *book_ *id_I11 *act_I *date_1773
+
+-*who_madamepernelle
+Allons, Phlipotte, allons.
+      Faites-vous votre compte
+Que j'attendrai longtemps ? N'est-ce pas une honte,
+À vous, le beau Docteur, qu'on ne trouve chez vous
+Que des impertinents, des fripons et des fous ?
+
+-*who_momus
+Pourquoi donc y venir ?
+
+-*who_madamepernelle
+      Pourquoi ? Mort de ma vie !
+Évitez, croyez-moi, de me mettre en furie.
+Et si Tartuffe ici n'avait porté ses pas,
+Soyez sûr que chez vous vous ne me verriez pas.
+
+-*who_sosie
+Mais vous en voulez donc beaucoup à ce pauvre homme ?
+
+-*who_momus
+Molière a corrigé...
+
+-*who_madamepernelle
+      Je veux que l'on m'assomme,
+Si lui ni ses pareils se tiennent pour battus ;
+Car j'en vois tous les jours, et je crois même plus.
+Mais enfin ce maroufle est ici.
+
+-*who_momus
+      Non, Madame ;
+Il n'a fait que passer.
+
+-*who_madamepernelle
+      Où donc ?
+
+-*who_momus
+      Chez une femme.
+
+-*who_madamepernelle
+Ah ! Que je crains pour elle !
+
+-*who_momus
+      Oh ! moi je ne crains rien.
+
+-*who_madamepernelle
+Vous êtes donc très sûr qu'elle est femme de bien ?
+
+-*who_momus
+Oh !
+
+-*who_madamepernelle
+      Malgré tout cela, j'ai quelque inquiétude.
+Une femme de bien peut n'être qu'une prude ;
+Et je vais vous conter le fait qui m'engagea
+À penser de la sorte...
+      Oui, ricanez déjà.
+Chercher ailleurs vos fous qui vous donnent à rire,
+Ce n'est pas moi, toujours ; adieu, je me retire.
+Vous apprendrez bientôt, Messieurs les Charlatans,
+Avant d'en rire, au moins, à connaître vos gens.
+Allons, vous ; vous rêvez et bayez aux corneilles.
+Jour de Dieu ! je saurai vous frotter les oreilles.
+Marchons, gaupe, marchons.
+
+**** *book_ *id_I12 *act_I *date_1773
+
+-*who_sosie
+      C'est pire qu'un Démon
+Cette dame Pernelle.
+
+-*who_momus
+      Elle a souvent raison.
+Mais s'il ne vient jamais que des gens de Molière,
+À Jupiter qui veut un nouveau caractère,
+Que dire ?
+
+-*who_sosie
+      Que les gens de bon sens sont d'avis
+Qu'on ne doit point changer, quand on craint d'être pis.
+
+**** *book_ *id_I13 *act_I *date_1773
+
+-*who_harpagon
+On lit dans votre adresse, Monsieur, que vous guérissez gratis ; et s'il n'y a point de friponnerie (comme il s'en rencontre toujours dans ces sortes d'écrits) il est tout naturel que vous me voyiez chez vous.
+
+-*who_momus
+Il convient d'abord de savoir quel est le genre de votre maladie ?
+
+-*who_harpagon
+Eh !
+Ne le devinez-vous pas à mon air ?
+
+-*who_momus
+Non...
+À moins que ce ne soit la goutte.
+
+-*who_harpagon
+Vous moquez-vous ?
+Ai-je l'air d'un homme assez riche pour cette maladie-là ?
+
+-*who_momus
+Le poumon ?
+
+-*who_harpagon
+Non.
+
+-*who_momus
+L'estomac ?
+
+-*who_harpagon
+Non.
+
+-*who_sosie
+Vous verrez que ce sera la tête.
+
+-*who_harpagon
+À l'autre !
+Non.
+
+-*who_momus
+M'y voilà.
+Le coeur ?
+
+-*who_harpagon
+Non, non, non.
+De par tous les Diables, c'est dépenser bien du temps à se ruiner en questions.
+
+-*who_momus
+Donnez-nous donc vous-même l'exemple de l'économie.
+
+-*who_harpagon
+En deux mots le voici : c'est un appétit dévorant.
+Tout est fort cher à présent ; je me ruine pour vivre, et cela altère ma santé.
+
+-*who_momus
+S'il ne faisait pas aussi cher mourir, je vous conseillerais, moi...
+
+-*who_harpagon
+Et je ne le sais que trop.
+On n'a pas la moindre petite ressource ; mais enfin, voyons toujours de vos remèdes ; ils feront ce qu'ils pourront.
+
+-*who_momus
+Vous prendrez...
+
+-*who_harpagon
+Tenez, mettez là-dedans.
+
+-*who_momus
+De quoi ?
+
+-*who_harpagon
+De vos drogues.
+
+-*who_sosie
+Il les irait vendre.
+
+-*who_momus
+De mes drogues ?
+Je n'en donne point.
+
+-*who_harpagon
+Et que diable donnez-vous donc ?
+
+-*who_momus
+Des conseils.
+
+-*who_harpagon
+Des conseils ?
+C'est-à-dire, des paroles ; mais voyez donc la belle merveille de donner des paroles gratis !
+
+-*who_sosie
+Monsieur, Monsieur, ne vous moquez pas tant ; il y a bien des gens qui les vendent.
+
+-*who_momus
+Eh !
+Tenez, voilà Monsieur Trissotin qui vous en dira des nouvelles.
+
+**** *book_ *id_I14 *act_I *date_1773
+
+-*who_trissotin
+Qui de vous trois, Messieurs, est Médecin ?
+
+-*who_harpagon
+Ce n'est pas moi toujours.
+
+-*who_sosie
+      Ni moi non plus.
+
+-*who_trissotin
+      Enfin,
+Ce sera donc Monsieur. Sachez que ma présence
+Peut ramener chez vous une heureuse abondance.
+
+-*who_harpagon
+Prenons-lui sa recette.
+
+-*who_trissotin
+      Et ma prose et mes vers
+Font un bruit assez grand.
+
+-*who_momus
+      Où ?
+
+-*who_trissotin
+      Dans tout l'univers.
+
+-*who_harpagon
+Quel fou !
+      Quand un conseil me sera nécessaire,
+Monsieur, je viendrai vous revoir.
+Je vois bien que chez vous je n'ai plus rien à faire,
+Et je vous prête le bon soir.
+
+**** *book_ *id_I15 *act_I *date_1773
+
+-*who_trissotin
+D'honneur, je crois que c'est l'Avare de Molière ;
+Ô le plaisant original !
+
+-*who_sosie
+Vous l'avez deviné ? Ce n'est pas voir trop mal,
+Et vous ne lui ressemblez guère.
+
+-*who_trissotin
+À son propos qui ne le connaîtrait ?
+
+-*who_sosie
+Mais revenons au bruit dont Monsieur nous parlait.
+
+-*who_trissotin
+On lit avec fureur mon recueil d'épigrammes
+Contre les Beaux esprits, les savants et les femmes.
+L'avez-vous lu, Monsieur ?
+
+-*who_momus
+      Qui ? moi ?
+
+-*who_trissotin
+      Vous.
+
+-*who_momus
+      Point du tout.
+
+-*who_trissotin
+Tant pis pour vous. Jamais la justesse et le goût
+N'ont d'un si grand éclat brillé dans la critique,
+Et tout homme occupé de la chose publique,
+Poète, Médecin, Artiste, Bel esprit,
+Ne peut être estimé qu'autant que je l'ai dit.
+
+-*who_momus
+Seriez-vous, par hasard, un de ces gens sans titres,
+Qu'on a vu depuis peu s'ériger en arbitres
+Du goût et des talents qu'ils ne peuvent avoir ?
+
+-*who_trissotin
+Chacun peut, à son gré, s'arroger ce pouvoir.
+
+-*who_momus
+Contre cette manie, et folle et singulière,
+Que vous êtes heureux qu'on n'ait plus de Molière !
+Il vous corrigerait bien vite à vos dépens.
+
+-*who_trissotin
+Bon ! Molière et Boileau, propos de vieilles gens !
+On fut dupe autrefois de leur verve caustique.
+Qu'était-ce dans le fond ? Rien que du vieux comique ;
+Tous nos honnêtes gens font blasés là-dessus,
+Et la preuve, tenez, c'est que l'on n'en fait plus.
+
+**** *book_ *id_I16 *act_I *date_1773
+
+-*who_sosie
+Monsieur Alceste.
+
+-*who_momus
+      Oh ! Oh !
+
+-*who_alceste
+      Point de cérémonie ;
+Supprimez avec moi les façons, je vous prie.
+
+-*who_momus
+Je sais trop le respect...
+
+-*who_alceste
+      Je veux être debout.
+
+-*who_momus
+Monsieur.
+
+-*who_sosie
+      Monsieur.
+
+-*who_trissotin
+      Laissez chacun vivre à son goût.
+
+-*who_sosie
+Enfin.
+
+-*who_alceste
+      Monsieur, sans doute, est un de vos confrères ?
+
+-*who_momus
+À peu de chose près.
+
+-*who_trissotin
+      Je hais trop les chimères,
+Pour oser tourmenter par des remèdes vains
+Les jours infortunés des malheureux humains.
+
+-*who_alceste
+Vous les plaignez donc ?
+
+-*who_trissotin
+      Moi ?
+
+-*who_alceste
+      Pour moi, je les déteste.
+
+-*who_trissotin
+Oh ! J'en fais bien autant.
+
+-*who_alceste
+      De leur rage funeste
+Je prétends par la suite au moins me garantir.
+Mais de ce monde affreux avant que de sortir,
+J'ai voulu, par mes yeux, faire l'expérience,
+Si je pourrais trouver dans la veste science
+Qu'on voit briller en vous, (à ce que chacun dit,)
+Le moyen de fixer un doute qui m'aigrit.
+Dites-moi donc, Messieurs, si mon humeur austère
+Vient de tempérament, ou bien de caractère ?
+
+-*who_momus
+Monsieur...
+
+-*who_alceste
+      Vous hésitez, Monsieur ?
+
+-*who_trissotin
+      On peut, je crois ;
+Expliquer tout cela par de certaines lois.
+
+-*who_alceste
+Voyons un peu ces lois.
+
+-*who_trissotin
+      En entrant dans le monde,
+Les vices, les travers dont notre espèce abonde
+Inspirent la pitié.....
+
+-*who_alceste
+      Dites plutôt, l'horreur.
+Des hommes sans vertu, des femmes sans pudeur,
+Des obscurs parvenus l'insolente bassesse,
+Des jeunes gens tarés la dégoûtante ivresse ;
+De nos femmes de bien l'horrible fausseté,
+De nos frêles Auteurs l'auguste vanité,
+Des vices affichés la morgue fastueuse
+Rallument dans mon coeur la haine vigoureuse
+Qu'à ces excès cruels doit tout homme bien né.
+
+-*who_trissotin
+A penser comme vous je me sens destiné,
+Et la même fureur dans mon âme s'élève ;
+Mon coeur la commença, votre tableau l'achève :
+Il est temps que je montre à tous nos Beaux esprits
+Ce que je sens pour eux de haine et de mépris,
+Et joignant le sarcasme au fiel de la satire....
+
+-*who_alceste
+La satire, Monsieur ? que voulez-vous donc dire !
+
+-*who_trissotin
+Ne craignez rien Monsieur pour vous-même.
+
+-*who_alceste
+      Et pourquoi ?
+
+-*who_trissotin
+C'est que vous paraissez du même avis que moi.
+
+-*who_alceste
+Et cela fût-il vrai, vous auriez la bassesse
+D'aller aux yeux de tous encenser ma faiblesse !
+
+-*who_trissotin
+Nous savons là-dessus ce qui nous est permis ;
+Nul ne doit être honnête, hors nous et nos amis.
+
+-*who_alceste
+Et vous osez prétendre à l'estime publique ?
+
+-*who_trissotin
+Pourquoi non, s'il vous plaît ? Sachez que la critique
+Est utile pour moi.
+
+-*who_alceste
+      Je le vois.
+
+-*who_trissotin
+      Et pour l'art.
+Il faut se faire un nom, je vous parle sans fard.
+
+-*who_alceste
+Quel nom ! Ainsi que vous, je parlerai sans feinte.
+Recueillir les mépris en répandant la crainte,
+N'est pas, à mon avis un fort joli métier ;
+Et j'estime bien plus l'honnête Savetier,
+Qui, tranquille en un coin sans offenser personne,
+Gagne, tout en chantant, le pain que je lui donne,
+Que celui dont le coeur, aussi bas que l'esprit,
+Ose insulter en lâche au talent dont il vit.
+
+-*who_trissotin
+Vous apprendrez bientôt...
+
+**** *book_ *id_I17 *act_I *date_1773
+
+-*who_alceste
+      L'exécrable folie !
+Voilà, voilà des gens à livrer à Thalie.
+
+-*who_sosie
+On l'y verra.
+
+-*who_momus
+      Comment, avec si peu d'esprit,
+Ce petit homme a-t-il une telle arrogance ?
+
+-*who_alceste
+C'est en pesant son importance
+Au poids du fatras qu'il écrit.
+
+**** *book_ *id_I18 *act_I *date_1773
+
+-*who_momus
+Quoi donc ? Quand nous cherchons un nerveux caractère,
+Nous ne verrons ici que des gens de Molière ?
+
+-*who_sosie
+Je vous l'avais bien dit.
+
+-*who_momus
+      Dois-je écouter un fat ?
+
+-*who_sosie
+Tous les discours sont des sottises,
+Venant d'un homme sans éclat :
+Ce seraient paroles exquises,
+Si c'était un Grand qui parlât.
+Voilà encore des femmes : je voudrais, pour beaucoup, qu'elles fussent aussi de Molière.
+
+**** *book_ *id_I19 *act_I *date_1773
+
+-*who_angelique
+Restez à cette porte, petite fille, et si par malheur vous voyez arriver mon bourgeois de Mari, Monsieur George Dandin, vous nous avertirez ; entendez-vous ?
+
+-*who_claudine
+Cela suffit, Madame ; faudra-t-il lui dire que vous êtes venue avec Monsieur ?
+
+-*who_angelique
+Eh !
+Non, petite sotte.
+
+-*who_clitandre
+Voilà, Madame, le fameux Médecin dont on a tant parlé ce matin chez Monsieur le Baron de Sotenville, Monsieur votre père.
+
+-*who_angelique
+Monsieur, parmi les secrets merveilleux que vous avez apportés des Pays Étrangers, je désirerais bien qu'il y eût une recette contre les migraines de l'espèce de la mienne ; votre fortune serait faite.
+Ensuite des vapeurs dont j'ai été dévorée, il m'en est resté une qui revient régulièrement tous les jours à la même heure.
+
+-*who_momus
+Et quelle est cette heure-là ?
+
+-*who_angelique
+Dans ce temps-ci, environ six heures du soir.
+
+-*who_momus
+Et vous n'imaginez point de cause étrangère à laquelle vous puissiez attribuer le retour de cette migraine.
+
+-*who_clitandre
+Madame ne voit ordinairement à cette heure-là que son, mari, qui revient de ses courses vers la fin du jour, et je crois avoir remarqué que, l'Été, les attaques sont moins longues.
+
+-*who_momus
+Madame, vous êtes bienheureuse d'avoir auprès de vous un observateur comme Monsieur, et quand on connaît aussi bien les symptômes d'une maladie, il est aisé de la guérir.
+
+-*who_clitandre
+Madame, vous entendez ?
+
+-*who_angelique
+À merveille, Monsieur.
+
+-*who_claudine
+Le voilà !
+Le voilà !
+
+-*who_momus
+Qui donc ?
+Qui donc ?
+
+-*who_angelique
+Clitandre ?
+Mon mari ?
+
+-*who_momus
+Et la migraine ?
+
+**** *book_ *id_I20 *act_I *date_1773
+
+-*who_georgedandin
+Il sera donc dit, Madame, que vous ne sortirez jamais sans avoir Monsieur avec vous ?
+Est-ce que votre servante Claudine ne suffit pas ?
+
+-*who_angelique
+Une femme comme moi, Monsieur, ne saurait sortir sans avoir quelqu'un qui lui donne la main, et je vous déclare positivement que, tant que vous ne me donnerez pas un Laquais, je prierai Monsieur de m'accompagner, ne fût-ce que pour aller chez Monsieur le Baron de Sotenville.
+
+-*who_georgedandin
+Voilà bien les impertinences auxquelles je dois m'attendre.
+Ah !
+Pauvre George Dandin !
+Tu l'as voulu ; à qui te plaindre ?
+Tu le sais bien toi, Claudine.
+
+-*who_claudine
+Moi, Monsieur !
+Je ne sais rien.
+
+-*who_georgedandin
+Non, Madame : il ne sera pas dit que vous me manquiez toujours de la sorte ; je porterai mes plaintes, il faudra en venir à une séparation.
+
+-*who_momus
+Vous paierez encore ces frais-là, au moins.
+
+-*who_georgedandin
+Et n'est-ce pas moi qui fais les frais de tout.
+
+-*who_angelique
+Vous avez bonne grâce de vous plaindre ; ce serait moi qui devrais le faire : moi qui ai été sacrifiée, moi qui pouvais épouser un homme de qualité.
+
+**** *book_ *id_I21 *act_I *date_1773
+
+-*who_monsieurjourdain
+Un homme de qualité !
+Qui est-ce qui parle de moi, là ?
+Eh !
+Bien, qu'est-ce, mes amis ?
+Voyons, me voilà.
+
+-*who_momus
+Oh !
+Oh !
+Eh !
+C'est Monsieur Jourdain, en robe de chambre !
+En cet équipage, venez-vous du bal ?
+
+-*who_monsieurjourdain
+Non : je sors de chez Poitevin ; c'est le rendez-vous des gens les plus qualifiés : et...
+
+-*who_momus
+Et vous n'avez garde de ne pas vous y trouver ?
+
+-*who_monsieurjourdain
+Vous croyez peut-être que c'est par ton ?
+Point du tout ; et si ce n'était pour des raisons de santé...
+
+-*who_momus
+Vous paraissez pourtant vous porter à merveille.
+
+-*who_monsieurjourdain
+N'est-ce pas qu'on ne voit guère de gens de qualité se porter aussi bien que moi ?
+
+-*who_momus
+Je ne peux pas vous dissimuler que cet embonpoint a l'air un peu bourgeois.
+
+-*who_monsieurjourdain
+Que je suis malheureux !
+Allez, allez, laissez-moi faire, j'y mettrai bon ordre ; en vous comptant, voilà le huitième Médecin que je vois.
+
+-*who_sosie
+Quand nous serons à dix, nous ferons une croix.
+
+-*who_momus
+Peste !
+Vous devez avoir un tempérament de fer.
+
+-*who_monsieurjourdain
+Ce qu'il y a de plus désolant pour moi, c'est que je n'ai pas même la ressource des chagrins pour maigrir.
+Ma femme est morte.
+
+-*who_momus
+Cette pauvre Madame Jourdain !
+Et de quoi ?
+
+-*who_monsieurjourdain
+De jalousie : parce que les Maîtresses de mes amis de la Cour auxquels je prête quelquefois de l'argent venaient chez moi ; et que je suis un peu aimable, elle s'est allé fourrer dans la tête...
+Enfin elle est morte, et me voilà veuf.
+
+-*who_momus
+Et prêt à vous remarier ?
+
+-*who_monsieurjourdain
+C'est selon ; je ne dis pas que, si je trouvais une personne d'une certaine façon...
+Quelle est cette Dame-là ?
+
+-*who_momus
+C'est une Dame de qualité avec son mari.
+
+-*who_monsieurjourdain
+Une Dame de qualité ?
+Et c'est son mari, ça ?
+
+-*who_sosie
+Pourquoi vous en moquer ?
+Est-ce que Monsieur n'en a pas bien la mine, oui ?
+
+-*who_monsieurjourdain
+Vous allez voir.
+Madame, que je suis fâché que vous soyez tombée en de si pauvres mains !
+Mais, en vérité, c'est un meurtre : j'espère au moins que vous ne faites pas l'honneur à Monsieur de le traiter comme votre mari ?
+
+-*who_angelique
+Hélas !
+Pardonnez-moi.
+Malheureusement, j'ai été trop bien élevée pour manquer à mes devoirs.
+
+-*who_sosie
+Aussi elle le déteste.
+
+**** *book_ *id_I22 *act_I *date_1773
+
+-*who_thalie
+Vous me pressez en vain : ce n'est qu'aux yeux de tous
+Que je peux donner à connaître
+Les sentiments qu'en moi votre ardeur a fait naître :
+Encore je crains...
+
+-*who_tartuffe
+      Peut-on craindre de nous ? ...
+
+-*who_thalie
+Oui, je crains qu'un transport jaloux
+Dans ce moment ne fasse disparaître
+L'amitié qui règne entre vous ;
+Car vous êtes amis...
+
+-*who_momus
+      Et très dignes de l'être.
+
+-*who_thalie
+Avant de m'expliquer, jurez à mes genoux,
+Que l'un de vous, sans haine et sans envie,
+Dans cet instant, par force abandonné,
+Verra son rival fortuné
+Triompher avec modestie.
+
+-*who_trissotin
+Oh ! De grand coeur, nous le jurons.
+
+-*who_tartuffe
+Jurons toujours ; ensuite nous verrons.
+
+-*who_thalie
+Quoi ! N'acceptez-vous pas ce que je vous propose ?
+
+-*who_tartuffe
+La volonté du Ciel soit faite en toute chose.
+
+-*who_thalie
+Partager sa bouche et son coeur
+Entre les vertus et les vices
+Me paraît un excès d'horreur,
+Dont vous avez trop de complices.
+Au moins Monsieur...
+
+-*who_trissotin
+      Je le savais bien, moi. 
+
+-*who_thalie
+Au moins, Monsieur, d'une feinte inutile
+Ne s'est pas imposé la Loi ;
+Et le poison que sa plume distille
+Est un crime de bonne foi.
+
+-*who_momus
+Les voilà bien payés chacun en leurs espèces.
+
+-*who_sosie
+Pour vous guérir de vos faiblesses,
+Cet avis-là vous paraît-il suspect ?
+
+-*who_trissotin
+J'écrirai...
+
+-*who_tartuffe
+      Je dirai...
+
+-*who_trissotin
+      Vous apprendrez, ma mie...
+
+-*who_thalie
+Tout beau, Messieurs ; vous manquez de respect :
+Sous ces traits connaissez Thalie.
+
+-*who_trissotin
+Ô Ciel !
+
+-*who_tartuffe
+      Je suis perdu !
+
+-*who_monsieurjourdain
+      Je la trouve jolie,
+Malgré son petit air tant soi peu goguenard ;
+Et ces yeux éveillés m'inspirent pour ma part
+Certain désir de faire une folie.
+
+-*who_sosie
+Votre Marquise si jolie,
+Convenez-en, Monsieur Jourdain,
+N'avait pas ce regard malin,
+Ni cette mine réjouie.
+
+-*who_monsieurjourdain
+Non, sans doute ; enfin l'on sait bien
+Qu'une mortelle, ce n'est rien
+Auprès de la moindre Déesse,
+Fût-elle-même et Marquise et Princesse.
+
+-*who_momus
+Bravo ! L'ami Jourdain ! C'est parler tout au mieux ;
+Je ne répondrais pas qu'un jour au rang des Dieux
+Avec éclat on ne vous vit paraître.
+
+-*who_monsieurjourdain
+Quoi ! Cela se pourrait ?
+
+-*who_momus
+      Vous en êtes le maître :
+Il ne faut seulement...
+
+**** *book_ *id_I23 *act_I *date_1773
+
+-*who_lelie
+      Craignez tous le Docteur ;
+Il n'est pas Médecin, ce n'est qu'un imposteur :
+Je le sais par la voix commune.
+
+-*who_sosie
+Peste de l'étourdi !
+      Monsieur, d'un tour de main,
+Par votre présence importune,
+Vous faites perdre au bon Monsieur Jourdain
+La plus éclatante fortune.
+
+-*who_lelie
+J'en suis désespéré, d'honneur ;
+Car je n'ai pas cette basse manie
+De nuire avec gaîté de coeur,
+Et j'ai fait une étourderie.
+
+-*who_thalie
+Vous le deviez...
+      Rendez grâce aux bienfaits
+Que répandit sur vous un immortel génie,
+En vous peignant de ces grands traits
+Que les fureurs du Temps, ni celles de l'Envie
+Ne pourront effacer jamais.
+
+-*who_momus
+Vous l'entendez : contre le caractère
+Mes remèdes sont sans crédit ;
+Et, comme la Déesse a dit,
+Chacun de vous l'a reçu de son père :
+Il faut s'en plaindre à celui qui vous fit.
+
+-*who_lelie
+Où le chercher ?
+
+-*who_thalie
+      Le voilà.
+
+-*who_touslesacteurs
+      C'est Molière :
+Courons embrasser ses genoux.
+
+-*who_sosie
+Acteurs, Souffleur, Ballets, Messieurs, accourez tous ;
+Qu'après cent ans complets, ce vif et pur hommage
+À tous les yeux retrace au moins l'image
+Des transports de nos coeurs à le revoir chez nous.
+
+**** *book_ *id_I24 *act_I *date_1773
+
+-*who_monsieurlekain
+De quel éclat nouveau brille aujourd'hui la Scène !
+Ah ! Madame, voyez, en des moments si doux,
+Les Enfants les plus chers au coeur de Melpomène,
+Partager leur encens entre Molière et vous.
+
+-*who_thalie
+Soyez assurés que Thalie
+Goûte une douceur infinie
+À voir en ce beau jour tous les coeurs réunis.
+Je commence une galerie,
+Où les vrais Enfants du génie,
+Après cent ans, rivaux, mais généraux amis,
+De l'immortalité partageront le prix.
+Déjà ces piédestaux attendent...
+
+-*who_monsieurlekain
+Nous savons ce qu'ils nous demandent,
+Et vos voeux seront accomplis.
+
+-*who_monsieurbrizard
+Le Souverain d'un vaste Empire,
+Sous cet habit représenté,
+Peut-il en ce beau jour être mieux imité,
+Qu'en partageant un si noble délire ?
+Si des Humains il devint le premier,
+Rome et Paris ne sont qu'une même patrie ;
+Et le plus bel emploi d'un immortel laurier,
+Doit être de briller sur le front du génie.
+
+-*who_choeur
+Vivat, vivat, cent fois vivat,
+Solus auitor qui tam tene parlat.
+
+-*who_monsieurbrizard
+Thalie, eh bien ! ce nouveau caractère,
+Que nous devions rapporter à Molière,
+Le voyez-vous parmi ces gens ?
+En faveur de sa Centenaire,
+Vous le lui promettez depuis assez longtemps.
+
+-*who_thalie
+Eh ! ne suffit-il pas, pour fêter un bon Père,
+De lui présenter ses Enfants ?
+
+VAUDEVILLE.
+
+-*who_thalie
+Amis, que l'éclat de ce jour
+Vous anime et vous intéresse :
+De reconnaissance et d'amour
+Les Dieux nous permettent l'ivresse.
+Dans les coeurs amis des talents,
+Que sa place soit la première ;
+Et qu'on redise après cent ans :
+Vive la gaieté de Molière !
+
+-*who_choeur
+Et qu'on redise, etc.
+
+-*who_momus
+Les jours passés chez mes Français
+Furent pour moi dignes d'envie.
+Joyeux, malins, plaisants et gais,
+Qu'ils soient toujours chers à Thalie ;
+Et s'ils s'endormaient une fois
+Dans leur agréable carrière,
+Qu'ils se rappellent qu'autrefois,
+Je dis mon secret à Molière.
+
+-*who_choeur
+Qu'ils se rappellent, etc.
+
+-*who_sosie
+Au genre humain déplaît souvent
+Une triste Philosophie,
+Quand elle prétend gauchement
+Corriger les gens qu'elle ennuie.
+Égayer la leçon des moeurs
+Est la seule bonne manière.
+Charmer l'esprit, former les coeurs,
+Pour cet art il n'est que Molière.
+
+-*who_choeur
+Charmer l'esprit, etc.
+
+-*who_madamepernelle
+À se moquer des vieilles gens,
+On voit s'occuper la Jeunesse ;
+Et de nos Catons de vingt ans,
+L'ennui fait toute la sagesse.
+Ô vous qui de la vérité
+Craignez la démarche trop fière,
+Sous le masque de la gaÏté,
+Vous la goûterez chez Molière.
+
+-*who_choeur
+Sous le masque, etc.
+
+-*who_angelique
+Quand deux coeurs, pour un doux soupir,
+Forment une amoureuse chaîne,
+De s'opposer à leur désir,
+C'est temps perdu, c'est plainte vaine.
+Infortunés maris jaloux,
+Qu'Amour irrite et désespère,
+Venez prendre leçon chez nous ;
+Vous la recevrez de Molière.
+
+-*who_choeur
+Venez prendre leçon, etc.
+
+-*who_sosie
+Bien des gens plus huppés que moi,
+En ce bas monde, ont plus d'un père.
+Mais, plus qu'eux, je suis, sur ma foi,
+Fier de leur devoir la lumière.
+Fils de Plaute, on vit commencer
+Et mes succès, et ma carrière ;
+Mais il fallait, pour l'achever,
+Me voir adopter par Molière.
+
+-*who_choeur
+Mais il fallait, etc.
+
+-*who_thalie
+En nous accordant vos faveurs,
+Messieurs, pour cette bagatelle,
+Daignez n'y voir que de nos coeurs
+La reconnaissance et le zèle ;
+Et si nous avions quelques torts,
+Étant empressés à vous plaire,
+Pardonnez nos faibles efforts
+En faveur du nom de Molière.
+
+-*who_momus
+À vous, Monsieur Jourdain ; allons, vous ne donnerez pas quelque chose ?
+
+-*who_monsieurjourdain
+Est-ce du bon ton de chanter ?
+Là, franchement, foi de Gentilhomme, je ne le crois pas.
+Qu'en dites-vous, Monsieur ?
+
+-*who_alceste
+Est-ce qu'on chante ?
+
+-*who_monsieurjourdain
+Tous ces airs là !...
+Je n'en sais rien, moi ; attendez, voici...
+Oui... :
+En faveur de l'ami Molière,
+Que je protège ouvertement,
+Je parle à la Cour très souvent :
+J'y mets son éloquence entière ;
+C'est l'ouvrage d'un moment.
+
+-*who_momus
+Et vous, Monsieur du Ruban-vert ?
+
+-*who_alceste
+Ma foi, louer, chanter, n'est pas mon caractère ;
+Mais j'y veux déroger, seulement pour Molière.
+Au surplus, je ne sais qu'un air.
+
+-*who_momus,monsieurjourdain
+Chantez, chantez toujours.
+
+-*who_alceste
+Du Roi sans un ordre exprès,
+Non, jamais d'Oronte
+Je ne louerai les Sonnets :
+Mais je dis, sans honte,
+Qu'en révérant les talents
+De nos auteurs excellents,
+J'aime mieux Molière,
+Ô gué,
+J'aime mieux Molière.

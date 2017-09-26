@@ -1,0 +1,4059 @@
+---
+identifier: cailhava_egoisme  
+creator: Cailhava d’estendoux Jean-François  
+date: 1777  
+title: L’égoïsme. , comédié en cinq actes et en vers.  
+---
+
+
+L'ÉGOÏSME
+
+COMÉDIÉ EN CINQ ACTES ET EN VERS.
+
+M. DCC. LXXVII. Avec Approbation et permission.
+
+PAR M. DE CAILHAVA.
+
+# APPROBATION. J'ai lu par ordre de M. le Lieutenant-Général de Police, l'Egoïsme, avec les corrections que l'Auteur y a faites, et je n'y ai rien trouvé qui m'ait paru devoir en empêcher la représentation et l'impression. A Paris, le 26 Mai 1777. SUARD. Vu Approbation, permis de représenter et d'imprimer, à Paris, le 14 Juin 1777. LE NOIR. De l'Imprimerie d'ANDRÉ-CHARLES CAILLEAU, rue Saint-Severin.À PARIS, CHEZ la Veuve DUCHESNE, Libraire, rue Saint-Jacques, au Temple du Goût.
+Représentée par Les Comédiens Français Ordinaires du Roi, le Jeudi 19 Juin 1777. [1]
+
+
+# PRÉFACE.
+
+« Voici la cinquième Comédie que j'ose faire paraître sur la Scène Française (1). La première était intitulée la Présomption à la Mode. » J'y peignais un présomptueux qui arrivait à Paris avec la double certitude de faire sa fortune et sa réputation, par sa figure et par ses ouvrages. Le Public crut voir en moi la moitié des travers de mon héros. Il trouva téméraire qu'un jeune homme débutât par une comédie en cinq actes et de caractère. Cette pièce, qui avait eu le plus grand succès dans les lectures particulières, éprouva un sort contraire à la représentation. On publia que les vers étaient assez bien tournés, les scènes assez bien vues, mais que l'auteur ignorait absolument l'art de faire un plan. Je cherchai dans mon cher Plaute, si peu connu des auteurs qui le dédaignent, un prétexte pour intriguer une pièce, dans l'ancien genre. Je trouvai dans le Soldat Fanfaron deux scènes échappées à mes prédécesseurs ; j'en tirai le Tuteur Dupé en cinq Actes ; et pour voir si j'étais réellement appelé à faire des comédies, j'écrivis mon nouvel ouvrage en prose ; je n'y mis rien de ce qui fait la plus grande fortune aujourd'hui ; j'eus le courage d'en exclure les sentences, les scènes purement amoureuses, le ton et les airs de grandeur, le persiflage, les jeux de mots, et surtout les situations larmoyantes ; j'essuyai, à la vérité, les plus grandes contradictions avant d'obtenir qu'elle fut représentée ; mais l'indulgence de la Cour et de la Ville me les fit bientôt oublier. On trouva ma pièce bien intriguée ; quelques personnes dirent seulement: « C'est dommage qu'il ne sache travailler que dans ce misérable ancien genre ». On fit à-peu-près le même reproche au Mariage Interrompu (2), et l'on ajouta que je ne mettais pas le moindre esprit dans mes ouvrages.
+
+Toujours curieux de satisfaire mes censeurs et de prendre leurs moindres désirs pour des lois ; mais persuadé que l'esprit d'un auteur dramatique consiste à ne pas en mettre dans ses pièces, je cherchai du moins un genre dans lequel ce malheureux esprit fut permis. Je donnai une petite comédie-ballet, ou j'accumulai madrigaux sur madrigaux, et je crois ne pouvoir mieux reconnaître la complaisance avec laquelle on reçue cette bagatelle, qu'en promettant bien de n'avoir plus la même faiblesse.
+
+Pendant les représentations des Étrennes de l'Amour, quelques personnes commencèrent à dire que si je pouvais meubler ma tête d'un peu de philosophie, et traiter des caractères, je deviendrais un bon comique : soudain je vois l'espace immense que j'ai à franchir, mais je vois en même-temps l'honneur qu'on me fait en exigeant de moi beaucoup plus que de la plupart de mes rivaux, et je vais me faire inscrire pour l'Égoïsme.
+
+Les gens superficiels crurent mon sujet très facile à traiter. Quelques personnes s'en emparèrent ; leurs amis leur persuadèrent sans peine que je n'étais pas un concurrent à redouter, que je n'avais jamais réfléchi sur mon art : je fis alors l'Art de la Comédie, ouvrage en quatre volumes, où, pour me familiariser avec des ressorts dont j'allais avoir le plus grand besoin, je décomposai les théâtres de tous les âges et de toutes les nations.
+
+On me fit en général la grâce de dire que mes connaissances s'étendaient au-delà de notre répertoire ; mais l'on persista à soutenir « que ma Comédie de l'Égoïsme ne serait ni noblement, ni élégamment écrite ; que je ne saurais pas l'intriguer simplement, et que mon caractère manquerait surtout de force et de profondeur ».
+
+Toujours plus soigneux, comme on le voit, de recueillir des critiques que de mendier des éloges ; plus empressé à mériter des succès qu'à les travailler, je suis a peine connu d'un petit nombre d'amateurs, qui ne se laissant pas séduire par le clinquant, les larmes ou le fatras romanesque de la moderne Thalie, ont bien voulu distinguer des pièces jouées, comme par grâce, l'Eté ou les petits jours, sans appareil, sans protection, et qui pour me récompenser, sans doute, de ma constance à ne ne pas m'écarter du genre avoué par tous les maîtres, ont daigné me prodiguer les encouragements les plus flatteurs, et des conseils dictés par la sévérité du goût et de l'estime. C'est désormais à eux que je consacre mes veilles. Cette sévérité dont ils m'honorent, le désir de mériter leur approbation m'auraient fait prendre de préférence un sujet plus difficile, s'il en existait ; mais le caractère dont j'ai fait choix, offre d'autant plus de difficultés, qu'on ne s'est pas encore arrangé dans le monde sur la signification du mot Égoïsme. Avec de la réflexion on voit aisément que l'amour de soi et l'amour qu'on ressent pour un Amant, pour une Amante, ont autant de caractères divers qu'il y a d'individus sur la terre ; qu'ils peuvent inspirer la pitié, la reconnaissance, l'admiration, le mépris; qu'ils conduisent enfin au vice ou à la vertu, suivant les coeurs plus ou moins vicieux, plus ou moins vertueux qu'ils affectent ; mais les merveilleux du siècle, accoutumés à se dire avec grâce, vous êtes un Égoïste, comme vous êtes un aimable Roué, n'ont garde d'imaginer que l'amour de soi mal entendu, et tel qu'on doit le peindre de préférence au Théâtre, éteint tous les sentiments chers à la nature, et ne conçoit l'idée des secours mutuels que pour les tourner tous à son avantage. Nos égoïstes veulent absolument resserrer leurs portraits dans la petite manie de parler souvent de soi ; ils daignent souffrir qu'on les peigne, pourvu qu'on les fasse minauder avec grâce. C'est ici le cas de s'écrier avec Alceste :
+Têtebleu ! Ce me sont de mortelles blessures,  
+De voir qu'avec le vice on garde des mesures.  
+
+Les difficultés dont nous venons de parler, une fois surmontées par le courage et l'horreur du vice, le sujet en amène d'autres qui renaissent sans cesse, pour donner de nouvelles entraves. Le caractère de l'Egoïsme, sans avoir été traité particulièrement, se trouve épuisé dans toutes les pièces qui ont paru jusqu'ici. Aux yeux d'un Observateur, le Glorieux, le Flatteur, le Méchant, le Joueur, le Complaisant, sont des égoïstes. Molière, ce cruel Molière, le désespoir de ses successeurs, ne semble-t-il pas dans tous ses ouvrages avoir envisagé l'égoïsme sous toutes ses faces ? L'Avare, qui soupçonnant Valère de lui avoir volé sa cassette, dit à sa fille : Il valait bien mieux pour moi qu'il te laissât noyer que de faire ce qu'il a fait : Le Malade Imaginaire, qui veut donner sa fille à un Médecin, neveu d'un Apothicaire, pour être à la source des bonnes ordonnances, de la rhubarbe et du séné, et qui la marie, dit-il, pour lui, et non pour elle : dans l'Amour Médecin, le père qui ne veut pas se défaire de sa fille, et d'une dot en même temps ; la fameuse Scène où ses parents et ses voisins lui donnent chacun un conseil intéressé, et où il s'écrie : Vous êtes orfèvre, M. Josse ; tout, jusqu'à la tirade où Sosie peignant les Grands, dit :
+Ils veulent que pour eux tout soit dans la nature  
+Obligé de s'immoler, etc, etc.  
+
+Ce Vers même des Femmes Savantes,
+Nul n'aura de l'esprit que nous et nos amis,  
+
+sont autant de vols faits aux peintres de l'Égoïsme, et qui eussent produit le plus grand effet dans le tableau. Pourquoi l'entreprendre, me dira-t-on ? Parce qu'en étudiant le coeur humain, on voit que si les hommes tendent tous à-peu-près à un certain nombre de buts indiqués par la nature, le motif, la marche et les moyens d'y parvenir, les distinguent d'une façon bien sensible. L'Avare de Molière et l'Ambitieux de Destouches, sont amoureux; tous les deux désirent le titre d'époux : l'un est déterminé par l'agrément d'avoir une épouse qui ne vivra que de salade ; l'autre par l'avantage de s'associer une jeune personne jolie, d'une illustre naissance, qui qui l'appuiera de son crédit et du pouvoir de ses charmes. Le premier cède Marianne à son fils, pour ravoir sa chère cassette ; l'autre immole son amour à son ambition, en servant son Prince auprès de la beauté qu'ils aiment. Par conséquent on peut peindre tous les hommes avec les mêmes couleurs, et les distinguer par des combinaisons différences. Si mes principaux personnages, dans tous leurs projets, toutes leurs démarches, dans les moyens divers d'aller à leur objet, sont toujours Égoïstes, s'ils passent à travers tous les caractères sans perdre une nuance du leur ; si le caractère donné en acquiert au contraire une nouvelle force, je ne pourrai que plaire davantage aux connaisseurs ; et une ambition démesurée est permise à l'Auteur, qui pour récompense ne désire que de la gloire.
+
+Ici les personnes mal intentionnées vont s'écrier à la présomption ! À l'orgueil ! À l'audace ! Les autres verront en moi, j'espère, un élève pénétré du mérite de ses maîtres, et qui croit se distinguer même en suivant leurs traces de loin. Aussi ne fais-je point une Préface pour prouver que je me suis frayé une route inconnue ; je déclare que je n'ai pas perdu un instant Molière de vue, que je n'ai employé que ses ressorts, et fier de mes larcins, je vais les dévoiler.
+
+Molière a peint de préférence les caractères généraux. L'avarice surtout est de tous les âges, de toutes les Nations ; à son exemple j'ai osé mettre sur la Scène un vice de tous les pays, de tous les temps, de tous les sexes, de tous les états : à son exemple, j'ai habillé mes personnages à la Française, mais sans défigurer les traits propres à tous les peuples, et imprimés par les mains de la nature. J'ai resserré en apparence mes peintures dans l'intrigue, dans les petites tracasseries d'une famille intermédiaire ; mais si, en renforçant les nuances, ce que l'on voit chez Florimon n'est pas ce qui se passe à la Cour de Madrid, de Vienne, à la Porte, à Pékin, j'ai tort, parce qu'un État n'est qu'une grande famille, et que j'ai indiqué mes engagements dans ce vers:
+Mon cher, une famille ait un petit État.  
+
+Le choix du caractère use fois fait et annoncé, Molière a par-dessus tous les poètes comiques, l'art de renforcer ses principaux personnages en leur associant les caractères accessoires qui peuvent leur convenir (3). Pourquoi Plaute ne nous donne-t-il qu'une idée du caractère de l'Avare ? Et pourquoi Molière, en traitant le même sujet, ne nous laisse-t-il, rien à désirer ? C'est parce que connaissant beaucoup mieux le coeur humain que le poète Latin, ayant beaucoup mieux réfléchi sur l'avarice et sur toutes les modifications d'un pareil caractère, il lui a donné pour compagne l'usure, quoique tous les avares ne soient pas nécessairement usuriers. Delà ces variétés, qui loin de nous faire perdre de vue le caractère annoncé, le peignent, au contraire, sous plusieurs formes. La découverte m'a paru trop précieuse pour ne pas tâcher d'en profiter. J'ai réfléchi sur le caractère que je voulais peindre, j'ai étudié mes originaux, j'ai vu qu'ils mettaient au nombre de leurs jouissances, la considération publique, j'ai vu que pour l'usurper et la faire servir à obtenir les portes, les bienfaits utiles à leur bonheur, ils se paraient tour-à-tour de toutes les vertus ; qu'ils prenaient tour-à-tour le caractère de toutes les personnes dont ils pensaient avoir besoin, et j'ai dit, l'hypocrisie de société est digne d'être mariée à l'égoïsme ; leur union doublera leur force comique et morale.
+
+Il n'est point dans l'Art étonnant de la Comédie un seul bon ressort qui ne serve à un autre. Molière ayant une fois renforcé ses caractères principaux avec des caractères accessoires, il lui est bien plus facile de donner à un personnage cette vigueur, qui fait que les ignorants ou les méchants trop bien démasqués, s'écrient à l'invraisemblance ! Si Molière, à l'hypocrisie d'un séducteur adroit, qui tout en parlant vertu, veut corrompre la femme de son ami, n'avait joint la scélératesse d'un monstre, qui est le délateur de son bienfaiteur, et qui accompagne un exempt pour le faire arrêter: si en philosophe profond il n'avAit fait voir non seulement ce que l'hypocrisie était ordinairement, mais jusqu'où elle pouvait conduire, il eût resté bien loin des bornes prescrites à l'optique du Théâtre, et il ne se serait pas concilié l'admiration de tous les peuples. Moins hardi que mon Maître, je n'ai osé faire risquer à mon Égoïste principal, que ce que nous voyons par malheur journellement. Les plus grandes scélératesses de Philémon se bornent à publier un Livre dangereux sous le nom de son Précepteur, à refuser la main d'une jeune personne qu'il croit pauvre, et à vouloir supplanter son frère dès qu'il la sait riche; à flatter son oncle pour se faire donner une partie de ses biens, retenir pour lui seul celle que ce même oncle lui a confiée, pour qu'il contribuât au bien-être de sa famille ; c'est certainement bien peu mis à côté du Tartuffe : n'importe ! En vain ai-je pris mon héros au sortir de l'enfance (4), en vain l'ai-je conduit par degrés, et toujours sous les yeux du Spectateur au point où son exil excuse presque le désir qu'il a de garder pour lui seul les présents de l'oncle ; en vain ai-je pris la précaution de faire applaudir au portrait de l'Égoïsme dans deux exportions où il est peint bien plus en noir que dans le cours de l'action; j'ai éprouvé que ce siècle était bien plus fécond en Égoïstes que celui de Molière en pieux imposteurs ; mais tout, jusqu'au dépit des originaux, m'a fait voir qu'il était temps de les démasquer.
+
+Les gens superficiels font l'affront à Molière de penser qu'il ne fait ressortir ses principaux personnages qu'en leur opposant des contrastes, et nombre d'auteurs travaillent d'après ce principe; il n'est point de plus grande erreur. Molière connaissait trop bien son Art pour mettre sous les yeux du Public deux Acteurs, qui par leur contraste parfait, seraient toujours de la même force, et partageraient par conséquent l'intérêt. Aussi, quand j'aurais pu trouver un personnage qui ne fit rien pour son intérêt, même pour son plaisir, je me serais bien gardé de l'introduire dans ma pièce. Le secret de mon maître est de ne faire qu'opposer ses personnages à ses personnages. Pour qu'Harpagon fut le contraste parfait de Cléante, il faudrait que le dernier empruntât à usure, par prodigalité ; mais ce n'est que pour fournir au nécessaire dont son père le laisse manquer ; ce qui donne un vigoureux coup de pinceau au portrait de l'avarice. A l'exemple de Molière, j'ai opposé un paresseux qui ne veut que digérer en paix, à une femme qui, pour avoir occasion de se citer, prétend tout faire dans sa maison : un sot, qui guidé par son intérêt, le suit aveuglement et presque sans s'en douter, à un homme d'esprit, qui connaît bien son coeur, et qui combine tout ce qui doit tourner a son profit : un marin franc, un peu pétulant, mais généreux, qui met son plaisir à faire le bonheur de tout ce qui l'entoure ; à un fourbe, qui emprunte le masque de la politesse et de toutes les vertus pour faire des dupes, et sacrifier tout le monde à son intérêt, etc. etc. Molière a sans doute tiré parti des contrastes, mais comment ? En faisant contraster les caractères avec les situations. Tartuffe embrassant Orgon au lieu d'Elmire ; Harpagon obligé de donner un repas et une bague ; voilà les véritables contraires. Pénétré de cette vérité, j'ai mis Durand dans la nécessité d'attendre tout de l'estime qu'on aurait pour son élève, à l'instant même où il vient de le décrier ; Constance est forcée de faire éclater son amour lorsqu'elle voudrait le cacher avec plus de soin; Philemon est dans l'alternative de perdre cent mille écus ou d'épouser Constance quand il vient de la céder à son frère ; l'indolent Florimon croit faire tranquillement sa méridienne lorsqu'il est contraint de s'habiller pour aller solliciter un Ministre, etc. etc. Molière fait encore contraster les intérêts avec les intérêts, surtout lorsqu'il ne se borne pas à occuper le Spectateur de deux amants, qui d'après les règles mêmes du Théâtre, seront heureux, et qu'il a pour objet le sort d'une famille respectable. Dans le Tartuffe on ne fait que rire des scènes amoureuses de Valère (5); mais on a les plus grandes inquiétudes pour Orgon (6), et surtout ce qui lui appartient. Pourquoi ? Parce que les intérêts de tous les personnages contrastent avec ceux du scélérat. Ai-je pris la même précaution ? Le Lecteur décidera.
+
+Il serait facile de penser qu'après avoir donné à ses caractères principaux toute l'énergie possible, on n'aurait plus rien à faire pour épuiser un sujet. Molière va encore nous prouver le contraire, en nous découvrant des moyens inconnus à nombre d'Auteurs. Il ne se borne pas, dans la plus parfaite de ses pièces, dans le Tartuffe, à peindre l'hypocrisie de la religion, il en découvre jusqu'aux plus petites nuances ; Orgon en a la crédulité, Madame Pernelle a le bavardage d'une vieille dévote, et Cléante la religion de l'honnête homme: il sait comment il parle, et le Ciel voit son coeur. En remarquant ces beautés, en réfléchissant sur leur jeu théâtral et leur effet moral, mes idées se sont agrandies, et toujours prêt à lutter contre les difficultés, j'ai dit: l'Egoïsme est un de ces caractères qui varient autant que les figures ; je ne réussirai jamais à le peindre, si je n'en distribue les traits plus ou moins marqués à chacun de mes personnages; dans l'action, dans les détails, dans les récits, même dans l'avant - scène, j'ai tenté davantage : mon héros quitte le théâtre en disant qu'il est vaincu pour le moment, mais qu'il va approfondir l'art d'attirer tout à soi, et l'imagination du Spectateur peut s'étendre plus ou moins, selon les idées qu'il a de l'égoïsme.
+
+Aux traits de génie que nous venons de remarquer chez Molière, il faut joindre l'art presque inconcevable qu'il met en usage pour donner à ses pièces de caractère la perfection qu'elles doivent avoir; c'est-à-dire, pour les rendre morales. Prenons encore pour exemple le chef d'oeuvre de tous les Théâtres. Quel est le but moral que Molière s'est proposé dans le Tartuffe ? Il ne s'est pas borné à vouloir corriger les imposteurs, gens très incorrigibles pour la plupart ; il a voulu plutôt éclairer les hommes faciles qui se laissent éblouir par l'imposture, et les faire rougir de leur crédulité. Quelle honte que l'ignorance ait reproché et reproche encore à Molière ce qu'on ne devrait jamais cesser d'admirer ! La facilité d'Orgon. Ne voudrait-on pas qu'il eut fait lutter un homme adroit avec un homme adroit ? Dès lors, outre que l'intérêt, comme nous l'avons déjà dit, serait partagé, plus de comique, plus de morale. Je ne me suis pas laissé corrompre par des clameurs si souvent renouvelées, et toujours plus ambitieux d'obtenir un succès d'estime qu'un succès d'affluence, tâchant toujours de travailler pour le lendemain, et non pour le jour, je n'ai jamais cessé de me dire : si je ne puis corriger les Philémon, faisons du moins tous nos efforts pour guérir les Polidor, en leur dévoilant les moyens dont on se sert pour les séduire. J'ai seulement pris la précaution d'indiquer parles Vers suivants le caractère de mon homme facile, et la moralité que j'en voulais tirer :
+Le seul mot de vertu le jette dans l'ivresse,  
+Il sera corrigé, j'espère, dès ce soir.  
+
+Tels sont les ressorts les plus essentiels que j'ai empruntés du premier comique de tous les âges et de toutes les Nations. Les gens de l'art remarqueront sans peine que j'ai tâché d'imiter la facilité et la précision de son style ; que je n'ai pas confondu celui des tirades avec celui du dialogue rapide, que j'ai fait mes efforts pour mettre, comme lui, dans chaque Scène une exposition, une intrigue, un dénouement, et le germe des Scènes suivantes. Je ne finirais pas si je rapportais toutes mes imitations. En vain l'orgueil et l'ignorance veulent assimiler l'Imitateur au Plagiaire; il est aisé de leur prouver que Corneille, Molière, Racine, la Fontaine, Boileau, et tous les grands hommes du siècle de Louis XIV, sont ceux qui ont le plus emprunté de leurs prédécesseurs. Quelques personnes diront elles que mes citations sont autant de rapprochements de moi à Molière, imaginé, par l'orgueil ? Essayeront-elles de confondre la noble émulation d'un homme de Lettres, avec la sotte présomption ? À la bonne heure : je jure de ne leur opposer jamais que les procédés d'un homme qui se respecte, qui respecte l'opinion publique, et qui sait distinguer la critique de la satire.
+
+(1) Préface du Mariage Interrompu.
+
+(2) Comédie en Vers et en trois Actes.
+
+(3) Voyez l'Art de la Comédie.
+
+(4) Dans le Joueur Anglais, l'ami de Beverley, pour lui peindre Stukely, lui dit: » Rappelle-toi qu'au Collège il avait toujours l'art de paraître innocent lorsqu'il était le plus coupable, et de faire punir ses camarades des fautes qu'il faisait ». C'est un trait de génie dans l'Auteur Anglais.
+
+(5) Ah ! Le coeur ! Le coeur ! S'écrient les âmes sensibles ; comme si l'intérêt inspiré par toute une famille, ne partait pas du coeur, et n'était pas fait pour affecter un coeur honnête.
+
+(6) Molière fait encore contraster, ou met en opposition seulement, selon qu'il veut être plus ou moins énergique, les actions avec les propos, les mots, même le ton avec les choses. Il est aisé de reconnaître dans chacun de ses ouvrages ces principales causes du rire. Aussi Madame Florimon, qui dans ma Pièce ne fait jamais rien, répète-t-elle sans cesse qu'elle est une femme très essentielle : Philemon parle toujours vertu, et Polidor a souvent le ton brusque en faisant du bien, etc. Voyez encore l'Art de la Comédie.
+
+
+# PERSONNAGES. ACTEURS.
+ – MONSIEUR DE FLORIMON. M. Desessarts.
+ – MADAME DE FLORIMON. Mme Drouin.
+ – PHILÉMON. fils de M. et de Mme de Florimon. M. Molé.
+ – LE CHEVALIER. M. Monvel.
+ – POLIDOR, frère de M. de Florimon. M. Préville.
+ – CONSTANCE, fille d'un ami de Polidor. Mlle Doligny.
+ – MARTON, suivante de Constance. Mme Bellecoure.
+ – LA PIERRE, vieux Portier de la maison de Florimon. M. Belmont.
+ – CLERMON, Valet de Polidor. M. Dazincourt (2).
+ – DURAND, Précepteur des enfants de M. Florimon, qui est resté dans la maison. M. du Gazon.
+ – UN NOTAIRE, M. Dauberval.
+ – DOMESTIQUES, Personnages muets.La Scène est à Paris, dans le Salon de la Maison de M. de Florimon.
+
+
+# ACTE I.
+
+
+## SCÈNE PREMIÈRE.
+
+    DURAND. IL LIT PRÈS D’UNE, TABLE, FERME SON LIVRE, SE LÈVE, SE PROMÈNE, ET DIT :.
+Des fils de la maison j'ai cultivé l'enfance.   [2]
+Ergo, mes doctes soins méritent récompense.  
+J'ai ma pension là ; si je puis la tenir,  
+Bien adroit qui pourra m'en faire dessaisir.  
+
+
+## SCÈNE II. Durand, Clermon.
+
+    CLERMON, EN HABIT DE VOYAGE, DIT À LA CANTONADE :.
+Laissez-là cette malle, et voilà de quoi boire.  
+Hola, quelqu'un.  
+
+    DURAND.
+    Que veut cet homme ?  
+
+    CLERMON.
+        Puis-je croire...  
+Que ce soit là...  
+
+    DURAND.
+    C'est lui... Clermon...  
+
+    CLERMON.
+        Monsieur Durand.  
+Je ne me trompe point.  
+
+    DURAND.
+        Que te voilà brillant !  
+
+    CLERMON.
+Quel bonheur !  
+
+    DURAND, PLEURE.
+    Quel plaisir !  
+
+    CLERMON.
+        Quoi ! Vous pleurez, je pense ?  
+Ah, de grâce ! Faisons notre reconnaissance  
+Un peu moins tristement.  
+
+    DURAND.
+        Je suis au désespoir  
+D'étaler devant toi cet habit jadis noir.  
+Du mérite en ces lieux c'est la triste livrée.  
+
+    CLERMON.
+Le mérite est bien sec !  
+
+    DURAND.
+        J'en ai l'âme navrée !  
+
+    CLERMON.
+Qu'avez-vous fait, depuis qu'un bâton à la main,  
+Vous gagnâtes Paris, fier de votre latin ?  
+
+    DURAND, EMPHATIQUEMENT.
+J'ai formé des sujets, des citoyens, des hommes !  
+
+    CLERMON.
+Le précieux talent dans le siècle où nous sommes !  
+
+    DURAND.
+J'ai professé vingt ans l'emploi d'Instituteur...  
+
+    CLERMON.
+Eh ?...  
+
+    DURAND.
+        Ce que le vulgaire appelle Précepteur.  
+
+    CLERMON.
+J'entends présentement.  
+
+    DURAND.
+        Le métier détestable !  
+Père, mère, enfants, tous m'ont fait donner au Diable.  
+Pour prix de ma doctrine et des soins que j'ai pris,  
+On me refuse encor ce que l'on m'a promis.  
+
+    CLERMON.
+Qu'est-ce ?  
+
+    DURAND.
+        Une pension de quatre-vingt pistoles.  
+Pour mes bons documents je n'ai pas deux oboles.  
+Est-ce l'or avec moi qu'on devrait épargner ?  
+
+    CLERMON.
+La maison n'est pas riche.  
+
+    DURAND, AVEC DÉPIT.
+        Il faudrait se saigner !  
+Mais le père songeant à dormir, manger, boire,  
+Borne-là d'un mortel le travail et la gloire,  
+Chérit sa nullité. Madame Florimon,  
+Au contraire, voudrait régner dans la maison.  
+Pour acquérir le droit de beaucoup parler d'elle,  
+La bavarde, futile avec le plus grand zèle,  
+Veut paraître tout faire, et ne fait jamais rien.  
+Quand je peins mes besoins, elle me répond : Bien.  
+J'arrangerai cela,  
+
+    CLERMON.
+    Les deux fils ?  
+
+    DURAND.
+        Ah ! Leur père  
+Tous les deux au hasard les jeta sur la terre ;  
+Moi, leur communiquant mon savoir lumineux,  
+Je les ai de la Terre élevés jusqu'aux Cieux.  
+Temps perdu ! Le cadet, depuis peu militaire,  
+M'offre son bras, son sang, dont je n'ai point à faire ;  
+Ou bien jure par Mars de me récompenser  
+Sitôt qu'un coup d'éclat l'aura fait avancer.  
+Le bel espoir !  
+
+    CLERMON.
+    L'aîné pourrait...  
+
+    DURAND.
+        Il est bien pire !  
+D'un ton mystérieux.
+
+Je le crois égoïste.  
+
+    CLERMON.
+        Oh, Diable ! Que veut dire  
+Ce mot ? Il m'est nouveau.  
+
+    DURAND.
+        Nous autres gens lettrés,  
+Nous appelons ainsi ces êtres concentrés,  
+Qui ne voyant qu'eux seuls dans la nature entière,  
+À leur propre intérêt sacrifieraient leur père,  
+Leurs enfants, leurs amis, leur patrie et l'honneur...  
+
+    CLERMON.
+Le nom me déroutait. Mais quoi ! Vous, le faiseur  
+D'Hommes, de Citoyens, comment peut-il se faire  
+Que jugeant votre élève avec un oeil sévère,  
+Vous n'ayez pas détruit ce vice dominant,  
+Ou du moins arrêté ses progrès ?  
+
+    DURAND.
+        Ah ! Vraiment !  
+Tu parles à ton aise. Est-ce que l'on corrige  
+Un aîné de famille ? Est-ce que l'on exige  
+De lui que ce qu'il veut ? Comme il vous haïrait !  
+Avec le temps encor sa haine s'accroîtrait,  
+Et puis, comptez sur lui pour une récompense.  
+
+    CLERMON, IRONIQUEMENT.
+Vos droits sont, en effet, mieux fondés qu'on ne pense.  
+
+    DURAND.
+Sans doute !  
+
+    CLERMON.
+        Sûrement ! Monsieur le Précepteur...  
+Je me trompe, excusez ! Monsieur l'Instituteur  
+A fait, par égoïsme, un parfait égoïste ;  
+Sur une pension, tout comme vous, j'insiste :  
+Je vois que votre élève et la société  
+Vous doivent beaucoup, mais beaucoup, en vérité !  
+
+    DURAND, AVEC IMPATIENCE.
+Je ne suis pas bien sûr qu'il ait ce caractère.  
+
+    CLERMON.
+On connaît son élève au moins pour l'ordinaire.  
+
+    DURAND.
+Depuis près de vingt ans je l'étudie en vain :  
+Son coeur est une énigme et j'y perds mon latin.  
+Cent fois j'ai cru le voir rempli de bienfaisance,  
+Et cent fois pour autrui pétri d'indifférence,  
+N'aimer que sa personne.  
+
+    CLERMON.
+        Alors il serait mal.  
+Mon Maître, de ce vice ennemi capital,  
+À faire des heureux goûte un plaisir extrême,  
+Et vit pour ses amis, bien plus que pour lui-même.  
+
+    DURAND, AVEC EMPRESSEMENT.
+Comment appelles-tu cet honnête Patron ?  
+
+    CLERMON.
+C'est Monsieur Polidor, frère de Florimon.  
+Il arrive ce soir.  
+
+    DURAND.
+        Le sublime mérité,  
+S'il me pensionnait ! Attends, je vais bien vite  
+L'annoncer.  
+
+    CLERMON, L’ARRÊTANT.
+        Vous ayez toujours dans la maison  
+Deux étrangères ?  
+
+    DURAND.
+        Oui, Constance, avec Marton.  
+
+    CLERMON.
+Notre retour ici va leur réjouir l'âme.  
+
+    DURAND.
+Je peux les en instruire en allant chez Madame.  
+
+
+## SCÈNE III.
+
+    CLERMON, SEUL.
+Quand mon maître, en dépit d'un noble parchemin,  
+Tenta dans le commerce un plus riche destin ;  
+Ses parents indignés, criant à l'infamie,  
+Ne voulaient plus le voir, lui parler de la vie.   [3]
+Tout a changé de face : il est riche, ils sont gueux ;  
+En lui faisant la cour, ils se croiront heureux.  
+L'intérêt ! L'intérêt !  
+
+
+## SCÈNE IV. Clermon, Marton.
+
+    MARTON, D’ABORD DERRIÈRE LE THÉÂTRE.
+    Eh, Clermon !  
+
+    CLERMON.
+        Qui m'appelle ?  
+
+    MARTON.
+Clermon, mon cher Clermon !  
+
+    CLERMON.
+        C'est une voix femelle.  
+Elle va plus au coeur que celle du Pédant.  
+
+    MARTON, PARAISSANT.
+Comment te portes-tu ?  
+
+    CLERMON.
+        Toi-même, mon enfant ?  
+Aimes-tu ce pays mieux que le nouveau Monde ?  
+Y veux-tu retourner ?  
+
+    MARTON.
+        La mer est trop profonde !  
+Et si je me rembarque !... On est sot, sur ma foi,  
+Quand on n'a qu'une planche entre la mort et soi.  
+
+    CLERMON.
+Que fait Constance ?  
+
+    MARTON.
+        Elle est inquiète, rêveuse.  
+
+    CLERMON.
+Réfléchis, tu verras qu'elle n'est pas heureuse.  
+Son père et Polidor, dans le lointain pays,  
+Se virent autrefois devinrent bons amis ;  
+Il imite les deux vieillards.
+
+L'intimité s'accrut. - Vous connaissez ma fille,  
+Dit ton Maître. Le mien répond : elle est gentille :  
+Vous savez qu'à Paris j'ai laissé deux neveux.  
+Partez, allez les voir, et faites un heureux.  
+J'aurai soin de vos biens. Ton Maître avec sa fille  
+Part bientôt pour chercher sa nouvelle famille ;  
+Tu les suis, on arrive, on n'a plus qu'à choisir,  
+Quand l'honnête étranger soudain vient à mourir,  
+Et retarde par-là les noces de Constance.  
+Voilà de son chagrin deux bons motifs, je pense.  
+Mais Polidor bientôt va réparer cela.  
+Dis : entre ses neveux a-t-on choisi déjà ?  
+
+    MARTON.
+Nous soupirons beaucoup.  
+
+    CLERMON.
+        Lequel des deux sait plaire ?  
+
+    MARTON.
+Je l'ignore, et voilà ce qui me désespère ;  
+J'ai, pour le découvrir, tout tenté vainement.  
+
+    CLERMON.
+Toi, fille et curieuse ! Oh ! Le trait est piquant.  
+
+    MARTON.
+J'en suis inconsolable ! Encor jeune, innocente,  
+Elle voudrait cacher sa tendresse naissante.  
+La fierté de son sexe et les efforts d'un coeur,  
+Qui n'ose s'avouer à lui-même un vainqueur,  
+L'emportent jusqu'ici sur sa timide flamme ;  
+Mais l'amour par degrés maîtrisera son âme,  
+Et saura la contraindre à dire son secret.  
+L'amour, Français surtout, n'est pas longtemps discret.  
+Aide-moi cependant à percer ce mystère.  
+L'ainé semble rêver à la plus grande affaire,  
+Près de Constance...  
+
+    CLERMON.
+        Il plaît. Juge par toi d'autrui ;  
+Le sexe aime qu'on soit tout occupé de lui.  
+
+    MARTON, AVEC HUMEUR.
+Il calcule, je crois, les biens de ma maîtresse.  
+
+    CLERMON, PART.
+Il pourra se tromper s'il croit à sa richesse.  
+Mais, chut !  
+
+    MARTON.
+        Le Chevalier timide, circonspect,  
+N'ose employer encor que la voix du respect ;  
+Mais il a le regard si plein de feu, si tendre,  
+Que malgré son silence il se fait bien entendre.  
+
+    CLERMON, HÉSITANT.
+Écoute... Celui-ci pourrait plaire...  
+
+    MARTON.
+        Fort bien !  
+Lequel des deux enfin ?  
+
+    CLERMON.
+        Ma foi, je n'en sais rien.  
+
+    MARTON.
+Me voilà bien instruite !  
+
+    CLERMON.
+        À qui faut-il s'en prendre ?  
+Que n'avez-vous un coeur que l'on puisse comprendre ?  
+
+    MARTON.
+Clermon, je voudrais bien qu'elle aimât le dernier !  
+
+    CLERMON, LA FAIT TOURNER DE SON CÔTÉ.
+Regarde-moi.  
+
+    MARTON.
+    Pourquoi ?  
+
+    CLERMON, AVEC UN SOURIRE FIN ET MOQUEUR.
+        J'oserois parier...  
+
+    MARTON.
+Quoi ?  
+
+    CLERMON.
+        Qu'étant généreux beaucoup plus que son frère ;  
+Tu comptes tes profits à venir. Sois sincère.  
+
+    MARTON.
+Ah ! Quel affront !  
+
+    CLERMON.
+        Pardon. Au revoir, mon enfant.  
+Mon MaÏtre est près de Sceaux, chez son correspondant ;  
+Il m'attendrait peut-être. Il faut que je te quitte  
+Pour monter en voiture, et le rejoindre vite.  
+
+    MARTON.
+En voiture ! Est-ce donc l'allure d'un courrier ?  
+
+    CLERMON.
+Jadis Valet, je suis Intendant et Caissier.  
+Polidor est si bon que d'honneur je me pique,  
+Et veux seul composer son train, son domestique.  
+
+    MARTON, IRONIQUEMENT.
+Ah ! voilà d'un beau zèle un trait bien singulier.  
+Elle lui rend ses lazzis.
+
+Regarde-moi.  
+
+    CLERMON.
+    Pourquoi ?  
+
+    MARTON.
+        J'oserois parier  
+Que cet arrangement arrange tes affaires...  
+
+    CLERMON.
+Ah ! Quel affront !  
+
+    MARTON.
+        Pardon : mais tiens, soyons sincères ;  
+Étant seul, à toi seul appartient le profit.  
+
+    CLERMON.
+Tu me rends mon paquet, friponne, avec esprit.  
+
+    MARTON.
+Je suis reconnaissante. Adieu, je vais tout faire  
+Pour seconder l'amour de notre militaire.  
+
+    CLERMON.
+Moi, pour que Polidor, en arrivant céans,  
+Ne soit pas dépouillé par d'adroits Charlatans...  
+Son unique défaut... tu le connais.  
+
+    MARTON.
+        Sans doute.  
+
+    CLERMON.
+Parle-bas, mais bien bas ; je crains qu'on ne t'écoute.  
+
+    MARTON.
+Le grand mal ! Si soudain il se met en courroux,  
+Il revient à l'instant sensible, affable et doux.  
+
+    CLERMON.
+Dis qu'il est trop facile, et c'est ce qui me blesse !  
+Après avoir regardé de tout côté.
+
+Le seul mot de vertu le jette dans l'ivresse.  
+Et le monde, dit-on, sous un dehors brillant,   [4]
+Cache maint imposteur, maint tartuffe charmant,  
+Qui, suivant l'air, le ton que l'intérêt demande,  
+Se donne tour-à-tour dix vertus de commande.  
+
+    MARTON.
+Je crains bien d'en connaître !  
+
+    CLERMON, VOYANT VENIR DURAND.
+        Adieu, je vois Durand.  
+Il vient de me glisser quelques mots en passant  
+Qui pourraient bien changer ta crainte en certitude :  
+À le faire expliquer je mettrai mon étude.  
+
+
+## SCÈNE V. Clermon, Durand.
+
+    CLERMON.
+EH bien !  
+
+    DURAND, ACCOURANT.
+        Pour recevoir dignement ton patron,  
+Madame a plusieurs fois renversé la maison  
+Sans rien faire. Elle va, revient, se cite, ordonne,  
+Et veut absolument parler à ta personne.  
+
+    CLERMON.
+J'y cours.  
+
+    DURAND, L’ARRÊTE, ET LUI DIT D’UN TON PITEUX.
+        Pour obtenir ma chère pension,  
+Cherchons quelque moyen. Je t'en conjure.  
+
+    CLERMON, BAS.
+        Bon.  
+Haut.
+
+Si vous me dévoiliez... là...  
+
+    DURAND.
+    Quoi ?  
+
+    CLERMON.
+        Le caractère  
+De Philemon ; peut-être...  
+
+    DURAND, AVEC LE PLUS GRAND INTÉRÊT.
+        Eh ! Que pourrais-tu faire ?  
+Je saurai l'observer, il en est temps encor.  
+
+    CLERMON.
+Je le démasquerais aux yeux de Polidor,  
+Qui vous saurait bon gré de votre confidence.  
+
+    DURAND.
+Optimé ! J'entrevois un rayon d'espérance.  
+Sors, voici Philemon ; je m'en vais l'éprouver ;  
+S'il est ce que je crois, j'irai te retrouver ;  
+Je saurai trait pour trait te le faire connaître,  
+Et tu pourras... charger le portrait à ton Maître ?  
+
+
+## SCÈNE VI.
+
+    DURAND, SEUL.
+Je suis presque certain qu'il ne vit que pour lui.  
+J'en serai convaincu pleinement aujourd'hui,  
+S'il ne s'empresse pas à me rendre service :  
+Et dévoilant son coeur, je m'en ferai justice.  
+
+
+## SCÈNE VII. DURAND, PHILÉMON.
+
+    PHILÉMON, ARRIVE EN RÊVANT.
+S'il pouvait dans l'État se faire un changement,  
+Qui brouillât un peu tout ; qui, par événement,  
+Dans le monde, à la fin, me fit jouer un rôle...  
+Je songerais à moi, j'en donne ma parole.  
+
+    DURAND.
+Monsieur...  
+
+    PHILÉMON, SANS LE VOIR.
+        Et je saurais me montrer au besoin...  
+
+    DURAND, À PART.
+Preuve démonstrative ! Il m'évite avec soin.  
+
+    PHILÉMON.
+Si, pour mon intérêt, affectant la sagesse ;  
+Je feins de dédaigner le crédit, la richesse ;  
+Sous ces dehors trompeurs, mon coeur ne jouit pas.  
+Tentons un coup d'éclat... Oui, faisons du fracas !  
+J'ai des Mémoires pleins de maximes hardies,  
+De projets merveilleux et de vives sorties  
+Contre des gens à tort élevés jusqu'aux Cieux :  
+La célébrité sert nombre d'audacieux...  
+Mais elle a ses dangers... J'ai quelque inquiétude.  
+
+    DURAND, À PART.
+De se parler tout seul il a pris l'habitude,  
+Tel est l'homme occupé de son seul intérêt,  
+Et qui n'ose à personne avouer son secret.  
+Conviction totale.  
+
+    PHILÉMON, BAS.
+        Ah ! Quel heureux partage !  
+Si du succès pour moi réservant l'avantage,  
+Je trouvais un ami complaisant ou léger,  
+Qui voulût sur lui seul prendre tout le danger.  
+
+    DURAND, SE PLAÇANT DEVANT PHILÉMON.
+Il faut que mon mérite obtienne son salaire.  
+
+    PHILÉMON, ENSEVELI DANS SES RÉFLEXIONS, LE REPOUSSE.
+Paix ! Je suis occupé d'une importante affaire.  
+
+    DURAND, À PART.
+C'en est trop ! On ne veut m'entendre ni me voir :  
+C'est pour ne pas payer mes veilles, mon savoir ;  
+Il est égoïste, ... Oui ! Je puis, sans plus attendre,  
+Il sort en le menaçant.
+
+L'assurer à Clermon. Ah ! Je vais vous apprendre...  
+
+
+## SCÈNE VIII.
+
+    PHILÉMON, SEUL, SOURIANT.
+Mon Livre trop hardi languit chez l'imprimeur.  
+Si j'engageais Durand à s'en dire l'auteur !...  
+Le pédant qui compile et compile sans cesse,  
+N'a jamais fait gémir le lecteur ni la presse.  
+Il peut...  
+
+
+## SCÈNE IX. PHILÉMON, LAPIERRE.
+
+    LA PIERRE, UNE LISTE À LA MAIN.
+    Monsieur voit-il du monde ?  
+
+    PHILÉMON.
+        Il le faut bien ;  
+Mais n'ouvrez plus aux gens qui ne sont bons à rien.  
+
+    LA PIERRE.
+D'après cet ordre-là j'aurai bien moins faire.  
+Je suis portier, de plus lecteur de votre père.  
+Chacun de ces emplois est assez fatiguant.  
+
+    PHILÉMON.
+Ma liste ?  
+
+    LA PIERRE.
+    La voilà.  
+
+    PHILÉMON.
+        Que j'indique en lisant  
+Les hommes bons à voir.  
+Il va s'asseoir près d'une table, et prend une plume.
+
+
+    LA PIERRE.
+    Bien ! Ordonnez...  
+
+    PHILÉMON.
+Bas.
+
+        «CLITANDRE.»  
+Cet homme a des talents, des vertus à revendre ;  
+Mais il fait mal sa cour, il n'a plus de crédit.  
+Haut.
+
+Je n'y suis plus pour lui, pour Clitandre.  
+Il le raye.
+
+
+    LA PIERRE.
+        Suffit.  
+
+    PHILÉMON.
+Bas.
+
+«DORLIX»... Il est fin, souple, il ira loin, je gage ;  
+Haut.
+
+Je recevrai Dorlix, «LE COMTE DU RIVAGE».  
+Bas.
+
+J'aime à trouver l'utile, et me ris du clinquant.  
+Haut.
+
+Serviteur, «de la part du DUC DE SAINT-CERNANT»...  
+Bas et se levant.
+
+Suivons un peu cet homme, encensons ses faiblesses.  
+Puisque la flatterie est l'aimant des richesses ;   [5]
+Vantons jusqu'aux vertus de la Phryné qu'il a.  
+L'amour-propre répugne à ce manège-là ;  
+Le sacrifice est dur... Le prix en dédommage !  
+D'ailleurs la sotte idole obtient un faux hommage !  
+Encor le lui rend-t-on dans l'ombre du secret ;  
+Sa faveur est publique, et rapporte en effet.  
+Haut.
+
+«D'ARTIGOL...»  
+Bas en riant.
+
+        Je crois voir sa petite colère.  
+Je viens de l'embarquer dans une sotte affaire...  
+J'espérais pouvoir mettre à profit ses faux pas...  
+Évitons tout reproche en ne le voyant pas.  
+Haut.
+
+Vous lui refuserez ma porte.  
+
+    LA PIERRE, À DEMI VOIX.
+        Quel dommage !  
+C'est le plus honnête homme ; il est si bon ! J'enrage.  
+
+    PHILÉMON.
+Qu'est-ce ? vous murmurez.  
+
+    LA PIERRE, SOURIANT DE SOUVENIR.
+    Mais...  
+
+    PHILÉMON.
+    Quoi ?  
+
+    LA PIERRE.
+        De temps en temps  
+De lui je recevais...  
+
+    PHILÉMON.
+        Fort bien !... Je vous entends.  
+Les voilà, les humains ; l'intérêt seul décide  
+Leur mépris, leur estime, ils n'ont pas d'autre guide.  
+
+    LA PIERRE, BAS.
+Voilà tous mes profits au Diable... Ah ! si je peux  
+Plaire à l'oncle...  
+
+    PHILÉMON.
+    Eh ?  
+
+    LA PIERRE.
+        Je dis que je suis fort joyeux.  
+De savoir que votre oncle arrive.  
+
+    PHILÉMON, À PAN AVEC LE PLUS GRAND DÉDAIN.
+        Peu m'importe  
+Son retour, son absence.  
+
+    LA PIERRE.
+        Ah ! Monsieur, il apporte  
+Des trésors.  
+
+    PHILÉMON, À PART.
+        Des trésors ! Le cas est différent.  
+Haut.
+
+Voyons. Fausse nouvelle indubitablement,  
+Bruit en l'air.  
+
+    LA PIERRE.
+        Non, Monsieur, la nouvelle est très sûre.  
+Si son caissier n'eut pas contrefait l'écriture  
+De ses correspondants ; si par-là le fripon  
+N'avait su lui voler plus d'un bon million,  
+Il serait de retour depuis deux mois en France.  
+Enfin telle qu'elle est, sa fortune est immense.  
+
+    PHILÉMON.
+Ce cher oncle, on le dit l'homme le plus charmant !  
+À demi-voix, d'un air curieux et satisfait.
+
+La Pierre, on le croit donc bien riche.  
+
+    LA PIERRE.
+Extrêmement.  
+
+    PHILÉMON.
+        Je pourrai l'embrasser. Oh, Dieux ! Quelle allégresse !  
+Riche extrêmement ?  
+
+    LA PIERRE.
+    Oui.  
+
+    PHILÉMON.
+        Mon âme est dans l'ivresse.  
+J'étais bien jeune encor, quand mon oncle partit ;  
+Cependant mon amour... mon coeur... Qui vous a dit  
+Ce que vous m'apprenez ?  
+
+    LA PIERRE.
+        Un fort bon domestique  
+Très zélé pour votre oncle, et son valet unique :  
+Il vient pour l'annoncer.  
+
+    PHILÉMON.
+        Cherchez-le de ma part ;  
+Dites-lui que je veux lui parler à l'écart.  
+Allez vite, surtout, je ne vois plus personne !  
+
+    LA PIERRE.
+Vos amis ?  
+
+    PHILÉMON.
+        Des Amis ! Faites ce que j'ordonne.  
+
+
+## SCÈNE X.
+
+    PHILÉMON, SE PROMENANT D’UN AIR SATISFAIT.
+Oui, mon cher oncle est riche ! Il change mes projets...  
+Pour lui faire ma cour avec quelque succès,  
+Étudions d'abord son coeur, son caractère.  
+L'art heureux de séduire est né de l'art de plaire,  
+Avec réflexion.
+
+C'est la force ou l'adresse ici-bas qui fait tout,  
+Qui règle l'Univers de l'un à l'autre bout.  
+Du moment qu'on n'a pas reçu pour son partage  
+De l'aigle ou du lion la force et le courage,  
+Serpent adroit et souple, il faut se replier,  
+Et savoir sous les fleurs se frayer un sentier.  
+
+
+# ACTE II.
+
+
+## SCÈNE PREMIÈRE. La Pierre, Florimon.
+
+    FLORIMON, EN ROBE DE CHAMBRE AVEC UNE PETITE PERRUQUE RONDE. IL A TOUJOURS L’AIR SATISFAIT, ET CRAINT DE S’ÉCHAUFFER EN PARLANT OU EN MARCHANT ; IL PORTE D’UNE MAIN SON MOUCHOIR, DE L’AUTRE SA BOÎTE.
+Eh, la Pierre.  
+
+    LA PIERRE.
+    Monsieur ?  
+
+    FLORIMON.
+        Viens, suis moi, mon enfant.  
+Ma femme fait un bruit dans l'autre appartement !...  
+Je n'y pourrais jamais digérer qu'avec peine,  
+Et je crois même avoir tant soit peu de migraine.  
+Il se jette dans un fauteuil.
+
+Il me tarde de voir mon frère de retour...  
+Pour qu'il fasse bâtir dans le fond de la Cour  
+Un réduit où je puisse, en plein jour, sur ma chaise,  
+Et la nuit, dans mon lit, reposer à mon aise.  
+Eh, La Pierre.  
+
+    LA PIERRE.
+    Monsieur ?  
+
+    FLORIMON.
+        Mon livre favori,  
+Tu l'a pris avec toi, sans doute ?  
+
+    LA PIERRE, MONTRANT UN PETIT LIVRE.
+        Le voici,  
+Et bien enveloppé.  
+
+    FLORIMON.
+        Quel excellent ouvrage !  
+L'Auteur est sûrement un philosophe, un sage ;  
+Ami vrai des humains, loin de les régenter,  
+D'exagérer leurs maux, ou de leur insulter,  
+Il les console. Lis.  
+
+    LA PIERRE, TOUSSE.
+        Hem... « Troisième Chapitre ».  
+
+    FLORIMON.
+Non, recommence tout ; relis jusques au titre.  
+Quel titre ! On ne saurait l'entendre assez souvent ;  
+Il chatouille le coeur trop agréablement.  
+
+    LA PIERRE, AVEC EMPHASE.
+« L'ALMANACH DES CENTENAIRES ».
+
+    FLORIMON, D’UN TON DE COMPLAISANCE.
+On devrait bien orner ce bon livre d'estampes.   [6]
+De vignettes, d'amours, de jolis culs-de-lampes.  
+
+    LA PIERRE.
+« Quelques Soldats sont morts à Rome, à la cent vingtiéme année de leur âge. »
+
+    FLORIMOND, D’UN PETIT AIR GAILLARD.
+Les gaillards ! Cent vingt ans ! Donc à ce compte-là  
+J'ai cinquante ans à vivre, et peut-être au-delà.  
+Je ne suis qu'un enfant.  
+
+    LA PIERRE.
+« L'Univers vient de perdre le célèbre Charitides, âgé de cent trois ans : il est mort de fatigue, en composant son Dictionnaire des Dictionnaires. »
+
+    FLORIMON, RICANANT.
+        Quand je perdrai la vie,  
+Ce ne sera jamais pour pareille folie.  
+Ma paresse elle-même en sera caution.  
+À cent ans bien sonnés... À l'âge de raison...  
+Peut-on rêver encore au Temple de Mémoire,  
+Ne point apprécier tout fantôme de gloire,  
+Et ne préférer pas quatre digestions  
+Faites tranquillement, au plus fameux des noms !  
+
+
+## SCÈNE II. Constance, Marton, Florimon, La Pierre.
+
+    FLORIMON, AVEC HUMEUR, VOYANT VENIR CONSTANCE ET MARTON.
+Quoi ! Des fâcheux ici je ne serai point quitte !  
+Dans ma chambre à coucher renfermons-nous bien vite.  
+À Marton, qui lui fait des révérences.
+
+Oui, oui... Serviteur. Viens,  
+Il remet à la Pierre son mouchoir et sa boite. Ils sortent.
+
+
+
+## SCÈNE III. Marton, Constance.
+Elles sont quelque tems sans parler.
+
+
+    MARTON, À PART.
+        Elle ne me dit rien...  
+En soupirant bien fort.
+
+Ah !  
+
+    CONSTANCE.
+    Tu soupires ?  
+
+    MARTON.
+        Oui ; pour nouer l'entretien,  
+Mon Maître vous a dit à son heure dernière  
+Qu'en ces lieux Polidor vous tiendrait lieu de père.  
+Il arrive aujourd'hui : nous saurons...  
+
+    CONSTANCE, COMME VOULANT LAISSER ÉCHAPPER UN SECRET.
+        Ah, Marton !  
+
+    MARTON, D’UN TON ENGAGEANT.
+Courage ; quatre mots encore sur ce ton,  
+Je suis au fait. Allons.  
+
+    CONSTANCE, AVEC UNE TENDRE LANGUEUR.
+        Gardes-toi de surprendre  
+Un secret...  
+
+    MARTON.
+        Je le sais, vous avez le coeur tendre...  
+
+    CONSTANCE.
+Dieux ! Parles bas.  
+
+    MARTON.
+        Pourquoi ? Quand j'aime de bon coeur  
+Sans façon je l'avoue, et je m'en fais honneur.  
+
+    CONSTANCE.
+Tu plaisantes.  
+
+    MARTON.
+        Ma foi, non : plus d'enfantillage.  
+Ouvrez-moi votre coeur... Parlez... Cela soulage.  
+
+    CONSTANCE, AVEC EFFUSION DE COEUR.
+Ah, je le sens !  
+
+    MARTON, FINEMENT, ET CHERCHANT À LIRE DANS SON COEUR.
+        Tant mieux. Aimez vous Philémon ?  
+Votre oeil se rembrunit ; j'y vois le dédain... Bon !  
+Quant au beau Chevalier ; oh ! C'est une autre affaire !  
+Convenez, entre-nous, qu'il est formé pour plaire.  
+Vous souriez ; bon signe. Il est intéressant :  
+Tout annonce chez lui le plus sincère amant.  
+
+    CONSTANCE.
+J'ignore si, pour lui, ma tendresse est extrême ;  
+Mais je sais qu'il m'est cher beaucoup plus que moi-même.  
+Ces grands mots : flamme, amour, qui, dans tous nos romans.  
+Me paraissaient si bien rendre les sentiments ;  
+Comme ils me semblent froids ! À te parler sans feindre,  
+Ce que je sens, Marton, ils ne sauraient le peindre.  
+Le Chevalier me charme, et pourtant je le crains...  
+Plus que lui je ressens ses plaisirs, ses chagrins...  
+On dirait, tant mon âme à la sienne est unie,  
+Que nous n'en avons qu'une, et qu'une même vie.  
+
+    MARTON.
+L'amant fait-il ?...  
+
+    CONSTANCE, TROUBLÉE.
+    Ô Ciel !  
+
+    MARTON.
+        Qu'a donc cela d'affreux ?  
+Polidor vous destine à l'un de ses neveux.  
+
+    CONSTANCE.
+À l'hymen d'un aîné, selon tout apparence,  
+On songera d'abord.  
+
+    MARTON.
+        Rompez donc le silence.  
+
+    CONSTANCE.
+Moi, que j'ose avouer un dangereux penchant !...  
+Non, jamais.  
+
+    MARTON, ÉCLATANT DE RIRE.
+        Cet orgueil me paraît trop plaisant :  
+Il s'apprivoisera.  
+
+    , FIÈREMENT.
+    Marton.  
+
+    MARTON.
+        Oui, c'est l'usage :  
+Mon Dieu, ne sais-je pas comme on est à votre âge !  
+Notre coeur quelque temps écoute tour à tour  
+Les conseils de l'honneur et la loi de l'amour ;  
+Mais leur débat ne peut durer toute la vie,  
+Et vient l'heureux moment qui les réconcilie.  
+
+    CONSTANCE, D’UN TON IMPÉRIEUX.
+Oh, finissez !  
+À part.
+
+    Quel ton !  
+Voyant venir le Chevalier.
+
+        Bon, voici mon vengeur.  
+
+    CONSTANCE, TROUBLÉE, EN REPRENANT LE TON DE LA CONFIANCE.
+Marton, le Chevalier !  
+
+    MARTON.
+        Eh bien, vous fait-il peur ?  
+
+    CONSTANCE.
+Il vient dans ce salon, prenons vite la fuite.  
+
+    MARTON.
+Pourquoi donc, s'il vous plaît, une telle conduite ?  
+Finement.
+
+Ah, j'entends ! Vous voulez qu'il devine...  
+
+    CONSTANCE.
+        Marton,  
+Vous rêvez !  
+
+    MARTON, RIANT AVEC FINESSE.
+        Non vraiment, le stratagème est bon ;  
+L'amoureux Chevalier aura soin de se dire :  
+Quoi, Constance me voit, se trouble et se retire ;  
+Elle m'aime à coup sûr, et me croit dangereux.  
+
+    CONSTANCE, NAÏVEMENT.
+Comment, tu crois cela ? Restons.  
+
+    MARTON.
+        Vous ferez mieux.  
+Bas.
+
+Elle est à nous.  
+
+
+## SCÈNE IV. LES PRÉCÉDENS, LE CHEVALIER.
+
+    LE CHEVALIER, S’ARRÊTANT AU FOND DU THÉÂTRE.
+        Quel air décent, et qu'elle est belle !  
+Osons lui déclarer !... Ah ! Suis-je digne d'elle !  
+Je tremble en l'abordant.  
+
+    MARTON, BAS À CONSTANCE.
+        Quel regard amoureux !  
+Voyez-le donc ; son âme a passé dans ses yeux.  
+
+    CONSTANCE, BAS À MARTON.
+Le coeur me bat.  
+
+    LE CHEVALIER, S’AVANÇANT AVEC TROUBLE.
+        Souffrez que mon âme ravie...  
+De vous seule attendant le bonheur de ma vie,  
+Vous dévoile un secret important...  
+
+    CONSTANCE, AGITÉE.
+        Mais, Monsieur,  
+Mais... puis-je l'écouter ce secret... et l'honneur...  
+
+    LE CHEVALIER, VIVEMENT.
+Ah ! Madame, l'honneur ?... C'est lui seul qui m'inspire :  
+Plaire par lui, voilà le bonheur où j'aspire.  
+Pour un sexe enchanteur la gloire a des appas,  
+Et malgré moi la paix enchaîne ici mon bras ;  
+Mais nous aurons la guerre, oui, la nouvelle est sûre ;  
+j'ai des pressentiments du plus heureux augure ;  
+Je me signalerai.  
+
+    CONSTANCE, À PART.
+        Dieux ! Quel trouble est le mien !  
+
+    MARTON, BAS, D’UN AIR SATISFAIT.
+Ils vont s'expliquer, bon !  
+
+    LE CHEVALIER.
+        Ah ! Pour vous peindre bien  
+La pureté du feu qui consume mon âme,  
+Qui l'enflamme à jamais, souffrez...  
+
+
+## SCÈNE V. Les Précédents, Durand.
+
+    DURAND SE JETANT ENTRE LES AMANTS.
+        Monsieur, Madame.  
+Daignez solliciter ma chère pension.  
+Au Chevalier.
+
+Monsieur, votre oncle arrive.  
+
+    CONSTANCE, SE REMETTANT.
+        Allons, suis-moi, Marton.  
+Je respire.  
+Elle sort.
+
+
+
+## SCÈNE VI. Marton, Durand, Le Chevalier.
+
+    DURAND, À MARTON.
+        Arrêtez, Ciprine était moins belle :  
+Soyez, en ma faveur, douce, humaine comme elle.  
+
+    MARTON, AVEC HUMEUR.
+Euh, l'animal !  
+Elle sort.
+
+
+
+## SCÈNE VII. Durand, Le Chavalier.
+
+    DURAND, À LUI-MÊME.
+        Voilà comme on traite un savant.  
+Au Chevalier.
+
+Je sais que mon disciple est sensible, obligeant...  
+
+    LE CHEVALIER, QUI N’A PAS ÉCOUTÉ DURAND.
+L'indulgente bonté dans ses yeux était peinte !  
+J'allais de mon amour l'entretenir sans crainte !  
+Quand trouver désormais pareille occasion ?  
+
+    DURAND.
+Oui, pour me faire avoir...  
+
+    LE CHEVALIER.
+        Volons vers Philémon ;  
+Il peut servir mes feux.  
+Il sort.
+
+
+
+## SCÈNE VIII.
+
+    DURAND, SEUL, COMME ANÉANTI.
+        Il ne veut pas m'entendre...  
+Avec emphase.
+
+Accourez le confondre, ô divin Alexandre,  
+Qui pensiez tout devoir à votre instituteur,  
+Et qui de ses leçons vous faisiez tant d'honneur,   [7]
+Que vous les préfériez aux lauriers de Bellone !   [8]
+Aussi la pension d'Aristote était bonne.  
+Et moi rien ; puis l'on dit que je me plains toujours !  
+Quand tout l'Univers rêve armes, fortune, amours,  
+Ne puis-je m'occuper du bonheur de ma vie ?  
+Chacun pour soi. Mais tel m'accuse de manie,  
+Qui, mendiant le prix de quelque lâcheté,  
+Des Grands, des parvenus tour à tour rebuté,  
+Leur a rendu vingt ans sa présence importune,  
+Et dans leur antichambre attendrait la fortune,  
+S'il n'avait emprunté, pour la saisir enfin,   [9]
+Les ailes de Mercure, ou les rets de Vulcain.  
+
+
+## SCÈNE IX. Durand, Philémon.
+
+    PHILÉMON, HAUT À LA CANTONADE.
+Certain de mon secours, rassurez-vous, mon frère :  
+J'aime à vous voir brûler d'une flamme sincère,  
+Pour couronner vos voeux je n'épargnerai rien.  
+En avançant sur la scène.
+
+Reste à voir maintenant si Constance a du bien.  
+Légèrement.
+
+En ce cas, comme vous, je brûle pour ses charmes,  
+J'adore ses vertus, et, mettant bas les armes,  
+Je déclame tout haut contre le célibat.  
+Bon, j'aperçois Durand.  
+
+    DURAND, À PART.
+        Voilà mon autre ingrat.  
+Avec une satisfaction intérieure.
+
+J'ai remis à Clermon le soin de ma vengeance :  
+Il est déjà parti.  
+
+    PHILÉMON, À PART, EN L’EXAMINANT.
+        Nous sommes mal, je pense.   [10]
+Oh, ma foi, qu'il s'arrange ! Il me faut un prôneur :  
+C'est lui que je choisis, je lui fais cet honneur.  
+Haut.
+
+Ah, le petit cruel ! Comment donc, il m'évite ?  
+Qu'est-ce, mon bon ami, vous me fuyez !  
+
+    DURAND.
+        Bien vite :  
+Vous n'avez pas daigné me parler tantôt.  
+
+    PHILÉMON, D’UN PEU LOIN.
+        Moi !  
+Je m'occupais de vous, j'en jure sur ma foi.  
+Durand s'arrête.
+
+Quoi, disais-je, un mortel que j'estime et révère,  
+Que je regarderai toujours comme mon père,  
+Qui m'a formé le coeur, sans fortune languit !  
+
+    DURAND, REVENANT.
+Quoi, vous pensiez à moi !  
+
+    PHILÉMON.
+        Votre sort m'attendrit.  
+Mais au retour de l'oncle, il faut qu'ici tout change.  
+Pour le mettre à profit, je vois que l'on s'arrange.  
+Mon cher, une famille est un petit État :  
+Et je pense toucher au moment délicat  
+Où quelque homme en faveur s'empare de la scène :  
+Pour l'intérêt public chacun feint d'être en peine ;  
+Et le dernier sujet, de lui seul s'occupant,  
+Songe à tirer parti de cet événement.  
+Moi, pour vous obliger, je veux avec adresse  
+De l'oncle, si je puis, m'attirer la tendresse.  
+
+    DURAND, AVEC EMPRESSEMENT.
+Dieux, où trouver Clermon !  
+
+    PHILÉMON.
+        Il faut le ménager :  
+Ce valet, m'a-t-on dit, n'est pas à négliger :  
+Il a quelque crédit sur l'esprit de son maître ;  
+Il guidera mes pas, il me fera connaître  
+Le moyen de lui plaire et de gagner son coeur.  
+De mon ami pour lors je ferai le bonheur :  
+Oui, nous partagerons ensemble comme frères  
+Les bienfaits de mon oncle.  
+
+    DURAND, À PART AVEC LE PLUS GRAND CHAGRIN.
+        Ah, les belles affaires  
+Que je tramais tantôt, en parlant mal de lui !  
+
+    PHILÉMON, BAS FINEMENT.
+Je le tiens.  
+
+    DURAND, À PART.
+        Malheureux, j'ai détruit men appui !  
+Euh, bourreau !  
+
+    PHILÉMON.
+        Mon ami, qu'est-ce qui vous arrête ?  
+
+    DURAND, AVEC LE PLUS GRAND INTÉRÊT.
+En abordant votre oncle, ayez bien dans la tête  
+Qu'il déteste un mortel trop occupé de soi.  
+
+    PHILÉMON.
+Bas.
+
+M'aurait-il pénétré ?  
+Haut.
+
+        Venez, embrassez-moi.  
+Vous n'aurez pas en vain passé votre jeunesse  
+À me communiquer le savoir, la sagesse...  
+
+    DURAND, ATTENDRI.
+Je le connaissais mal.  
+
+    PHILÉMON.
+        Un Précepteur prudent,  
+Sage, instruit, est du Ciel un si rare présent,  
+Que les Dieux de la terre en trouvent avec peine :   [11]
+Le phénix est moins rare.  
+
+    DURAND.
+        Oui, la chose est certaine,  
+À part.
+
+Pourquoi repartait-il, ce malheureux valet ?  
+
+    PHILÉMON.
+Mon amitié me dicte un excellent projet.  
+D'un ton caressant.
+
+Tout le monde vous dit un docte personnage :  
+Votre nom peut lui seul illustrer un ouvrage...  
+
+    DURAND.
+Mais...  
+
+    PHILÉMON.
+        Je vous fais du mien un généreux présent.  
+Bas.
+
+Je me tais s'il déplaît, je me nomme s'il prend.  
+
+    DURAND.
+Il est vrai que moi seul ayant su vous apprendre  
+Les choses qu'il contient, l'honneur, à le bien prendre...  
+
+    PHILÉMON.
+Vous en revient. D'ailleurs, soutenez hardiment   [12]
+Que l'ouvrage est de vous quatre jours seulement ;  
+Bientôt vous le croirez plus que le plus crédule.  
+Nos auteurs du bel air ont-ils un tel scrupule ?  
+Paris, comme la Cour, connaît leur Apollon.  
+Ces Odes où l'on fait rougir Anacréon,   [13]
+Ces bouquets sans odeur désavoués de Flore,   [14]
+Ces épîtres où brille une éternelle aurore,  
+Ces éloges fardés distillant la fadeur,   [15]
+Ces drames où Thalie est toujours en fureur,  
+Tant d'autres monstres nés au sein de la misère,  
+Dans le fat qui les paye ont un crédule père,   [16]
+Qui, sottement bercé par l'orgueil, par l'erreur  
+Se croit un habile homme et s'érige en censeur.  
+Quel censeur ! Juste ciel !  
+
+    DURAND, RIANT.
+        La plaisante sottise !  
+
+    PHILÉMON, À PART.
+Il en convient du moins : j'admire sa franchise.  
+
+    DURAND, AVEC COMPLAISANCE.
+Parlons de mon ouvrage encore, s'il vous plaît.  
+
+    PHILÉMON, À PART.
+Son ouvrage est fort bon !  
+
+    DURAND.
+        S'il prend bien en effet,  
+Comme il faut l'espérer, croyez-vous qu'on me donne  
+Une pension ?  
+
+    PHILÉMON.
+        Oui, certainement et bonne.  
+Bas.
+
+Il croit l'avoir.  
+Haut.
+
+        Pourvu qu'on fasse quelque bruit,  
+Une cabale prône, et la fortune suit.  
+
+    DURAND, À PART, AVEC LE PLUS VIF REGRET.
+J'ai pu le soupçonner de n'aimer que lui-même !  
+Il écoute.
+
+Réparons... Des chevaux ! mon chagrin est extrême.  
+Haut, embrassant Philemon.
+
+Ah, mon aimable Émile !  
+
+    PHILÉMON.
+        Ah, mon cher gouverneur !  
+Il s'échappe de ses bras en faisant des efforts pour ne pas rire.
+
+Il me croit occupé de lui, de son bonheur.  
+En effet, je lui dois, on ne peut davantage :  
+Il m'a dicté vingt mots d'un antique langage !  
+
+    DURAND, REVENANT ET PASSANT DEVANT PHILÉMON AVEC PRÉCIPITATION.
+Votre oncle...  
+
+
+## SCÈNE X. Philémon, Polidor, Le Chevalier, Madame Florimon.
+
+    LE CHEVALIER.
+    Quel bonheur !  
+
+    PHILÉMON, AVEC AFFECTATION.
+        Quel plaisir de vous voir ?  
+Le transport que je sens ne peut se concevoir.  
+
+    MADAME FLORIMON, D’UN TON MOITIÉ BAVARD, MOITIÉ IMPORTANT.
+C'est moi, c'est pourtant moi qui l'ai vu la première :  
+C'est que rien ne m'échappe à moi pour l'ordinaire ;  
+Je vois tout.  
+
+    POLIDOR.
+        Laissez-moi respirer quelque temps.  
+Je presse sur mon sein, j'embrasse mes parents,  
+Je me vois dans leur bras après vingt ans d'absence ;  
+Je viens faire couler leurs jours dans l'opulence :  
+Ils peuvent de mes biens jouir avec honneur,  
+Puisqu'ils ne coûtent pas un reproche à mon coeur.  
+Quelle félicité pour une âme sensible !  
+
+    MADAME FLORIMON.
+Pour vous bien recevoir, je ferai l'impossible.  
+Voici l'appartement où vous allez loger ;  
+Il vous plaira ; c'est moi qui l'ai fait arranger :  
+Vous y pourrez trouver l'utile et l'agréable.  
+Jusques dans les détails je suis incomparable,  
+Et je prétends qu'ici vous fassiez tout par moi ;  
+Oui, vous m'admirerez, c'est le mot.  
+
+    POLIDOR, IMPATIENTE PAR DEGRÉ.
+Je le crois.  
+
+    MADAME FLORIMON.
+        Je m'admire souvent moi-même, quand j'y pense,  
+Et je n'ai point d'orgueil.  
+
+    POLIDOR.
+        Je ne vois point Constance.  
+
+    MADAME FLORIMON.
+D'après mes bons conseils, elle sort dans l'instant,  
+Pour faire une visite aux soeurs de Clidamant  
+Qui depuis quelques jours est dans le ministère.  
+D'un air mystérieux et capable.
+
+Vous saurez mes projets. Pour aujourd'hui, mon frère,  
+Pardon, si plusieurs fois j'entre, reviens et sors :  
+Il faut que je mette ordre au dedans, au dehors.  
+Vous êtes tout surpris de me voir cette tête ?  
+
+    POLIDOR.
+Oh, beaucoup !  
+
+    MADAME FLORIMON.
+Elle sort et rentre dans le courant de la scène plusieurs fois sans conséquence.
+
+    Vous verrez !  
+
+    POLIDOR.
+        Constance est belle, honnête :  
+Mes enfants, l'un de vous voit en elle sa soeur,  
+L'autre son épouse.  
+
+    LE CHEVALIER, BAS À PHILÉMON.
+        Ah, s'il lisait dans mon coeur !...  
+
+    PHILÉMON, BAS AU CHEVALIER.
+Un moment ; nous verrons ce que nous devons faire.  
+
+    POLIDOR.
+Mon ami, tu me plais sous l'habit militaire.  
+
+    PHILÉMON.
+Pour captiver son oncle cache sous un air moitié froid la prétention et l'importance.
+
+Il annonce l'amour de la célébrité ;  
+Il prouve qu'ennemi de l'inutilité,  
+On veut sacrifier ses jours à sa patrie.  
+
+    POLIDOR, AVEC COMPLAISANCE.
+Mon cher neveu, bien dit !  
+
+    LE CHEVALIER, VIVEMENT.
+        Ah, ma plus forte envie  
+Serait de mériter un immortel laurier,  
+À travers les périls bravés par le Guerrier,  
+Et de le déposer aux genoux d'une belle !  
+L'hommage de mon coeur serait plus digne d'elle.  
+
+    POLIDOR.
+Qu'une pareille ardeur ne s'éteigne jamais !  
+J'aime à te voir former de si nobles projets.  
+
+    PHILÉMON.
+Sans ces heureux élans point de gloire parfaite.  
+L'homme qui veut payer une servile dette,  
+En entrant malgré lui dans les sentiers de Mars,  
+Y rampe bassement, court les mêmes hasards,  
+Et meurt sans, obtenir la plus faible couronne.  
+Il faut tout voir en grand dans les champs de Bellone.  
+
+    POLIDOR, AVEC ADMIRATION.
+Bravo !  
+
+    MADAME FLORIMON, REVENANT VITE.
+    C'est comme moi.  
+
+    POLIDOR.
+        Eh ! ma soeur, entre nous,  
+Qu'ont à démêler Mars et Bellonne avec vous ?  
+Depuis quand avez-vous l'âme si militaire ?  
+
+    MADAME FLORIMON, UN PEU DÉCONCERTÉE.
+Parlez, parlez, -j'ai là vraiment plus d'une affaire.  
+Elle sort.
+
+
+    POLIDOR.
+Et toi, mon cher ami, toi, qui parle si bien,  
+À quoi t'occupes-tu, que fais-tu, dis ?  
+
+    PHILÉMON.
+        Moi ? rien.  
+
+    POLIDOR.
+Tant pis, morbleu, tant pis ! Rien ! Quoi, rien, à ton âge !  
+
+    PHILÉMON.
+De grâce, écoutez-moi...  
+
+    POLIDOR, EN COLÈRE.
+        Non, tête-blue ! J'enrage,  
+Moi, qui parcours les mers dès mes plus jeunes ans,  
+De voir le monde plein de lâche fainéants,  
+Qui veulent s'exempter de la tâche commune.  
+
+    PHILÉMON.
+Mais, mon oncle !...  
+
+    POLIDOR.
+        Tais-toi, ce titre m'importune.  
+Sois bon à quelque chose, alors je t'avouerai.  
+Monsieur vit pour lui seul...  
+
+    PHILÉMON.
+        Quand je m'expliquerai  
+Vous saurez...  
+
+    POLIDOR.
+        N'est-ce pas bien employer sa vie !  
+
+    PHILÉMON.
+Bas.
+
+Comme un autre.  
+Haut.
+
+        Daignez m'écouter, je vous prie,  
+Un seul instant ; pour lors...  
+
+    POLIDOR.
+        Allons, je le veux bien ;  
+Mais ne me dites pas que vous ne faites rien.  
+Depuis l'instant heureux où l'homme raisonnable,  
+Sentit le doux besoin de servir son semblable,  
+Et forma les liens de la société,  
+Elle aime, elle chérit l'homme de probité  
+Qui lui rend à son tour les secours qu'il en tire,  
+Qui, ne le pouvant pas, tout au moins le désire ;  
+Elle méprise et voit d'un regard irrité,  
+Ces frelons importuns, nés de l'oisiveté ;  
+Qui, sans fournir de fonds, prétendent au partage,   [17]
+Et des travaux d'autrui se font un apanage.  
+Tout augmente l'horreur que pour eux je ressens.  
+
+    PHILÉMON.
+Comme j'aime à vous voir ces nobles sentiments !  
+Mon coeur s'enorgueillit d'en avoir de semblables.  
+J'abhorre, comme vous, ces êtres méprisables,  
+Qui se font et l'objet et le centre de tout ;  
+Par leur système affreux ils me poussent à bout.  
+Tirant Polidor à l'écart, et affectant un air modeste.
+
+Je n'ai pas toujours fait des recherches stériles ;  
+Et je rendrai, je crois, mes études utiles,  
+Si, remplissant jamais des postes importants,  
+Je puis aux malheureux consacrer mes moments...  
+Mais... sans fonds, point de charge...  
+
+    POLIDOR, VIVEMENT.
+        Il faut en chercher une.  
+Mes enfants, je croirais n'avoir pas fait fortune,  
+Si je ne savais pas à propos m'en servir ;  
+Plus agréablement je ne puis en jouir,  
+Qu'en vous portant au bien. Enfin, voyons mon frère.  
+
+    MADAME FLORIMON.
+Oh ! L'éveiller n'est pas une petite affaire...  
+Et vous ne savez pas les manoeuvres qu'il faut.  
+Il se croit mort, sitôt qu'on l'éveille en sursaut ;  
+Mais j'y réussirai. Vous conviendrez, j'espère,  
+Que dans cette maison, je suis très nécessaire.  
+Qu'y ferait-on sans moi ? Rien, ou tout irait mal.  
+
+    POLIDOR, S’IMPATIENTANT TOUJOURS PLUS FORT.
+D'accord.  
+
+    MADAME FLORIMON.
+        Je ris de voir l'indolente Orsonval,  
+Qui, fière de pincer sa harpe ou sa guitare,  
+De danser, de chanter, se croit un talent rare,  
+Se croit dans l'Univers un être essentiel !  
+
+    POLIDOR.
+Elle a grand tort.  
+
+    MADAME FLORIMON.
+        Sans doute, et mon dépit mortel  
+Naît de l'avoir toujours parler de son mérite,  
+Tandis que moi, moi, moi, jamais je ne me cite.  
+
+    POLIDOR, ÉCLATANT.
+Eh, têtebleu, ma Soeur, voyons donc Florimon !  
+
+    MADAME FLORIMON, ÉTONNÉE.
+Je ne m'emporte, moi, pour aucune raison.  
+
+    PHILÉMON, À PART.
+Nous parlerons vertu, puisqu'elle l'intéresse.  
+
+    LE CHEVALIER, BAS À PHILEMON.
+Voici l'instant heureux de servir ma tendresse.  
+
+    POLIDOR, EMBRASSANT ENCORE SES NEVEUX.
+Venez, mes chers amis. Ah, puissent vos enfants,  
+Vous rendre quelque jour le plaisir que je sens !  
+
+
+# ACTE III.
+
+
+## SCÈNE PREMIERE. Philémon, ensuite Durand.
+
+    PHILÉMON.
+Tout le monde se tait sur les biens de Constance :  
+Mauvais signe !... Je puis favoriser, je pense,  
+Les amours de mon frère. Eh, mon Dieu, qu'avez-vous ?  
+
+    DURAND, AVEC LE PLUS GRAND TROUBLE.
+L'avez-vous vu ?  
+
+    PHILÉMON.
+    Qui donc ?  
+
+    DURAND.
+        Clermon. C'est fait de nous !  
+On le cherche partout de la part de son maître.  
+
+    PHILÉMON.
+Qu'importe ?  
+
+    DURAND.
+        Polidor vous a-t-il fait connaître ?...  
+
+    PHILÉMON.
+Quoi ?  
+
+    DURAND, COMME HÉSITANT.
+        Qu'il vous soupçonnât d'être un peu... personnel ?  
+
+    PHILÉMON, VIVEMENT, ET VOULANT LE SAISIR.
+Monsieur...  
+
+    DURAND, S’ÉCHAPPANT.
+        Le voici. Paix !... Il est essentiel  
+Que je sois a l'affût.  
+
+
+## SCÈNE II.
+
+    PHILÉMON, SEUL, PROFONDÉMENT.
+        Tout ceci me chagrine !  
+Oh bien... Je n'aime pas, moi, que l'on me devine !  
+Divisons les soupçons à tout événement.  
+
+
+## SCÈNE III. Polidor, Philemon.
+
+    POLIDOR.
+Quel est l'homme qui sort ?  
+
+    PHILÉMON, REPRENANT LE TON LÉGER.
+        Antonius Durand,  
+Mon pédadogue.  
+
+    POLIDOR.
+        Il a le front atrabilaire.  
+
+    PHILÉMON.
+C'est pourtant un bon homme, un plaisant caractère.  
+Alors qu'il entreprit notre éducation,  
+Ma mère lui promit certaine pension,  
+Dont il rêve toujours, dont il parle sans cesse.  
+Rien n'est plus juste ; il faut lui tenir la promesse  
+Dès qu'on le pourra.  
+
+    POLIDOR.
+        J'aime à te voir bienfaisant.  
+
+    PHILÉMON.
+Mais ce qui me paraît en lui divertissant,  
+C'est de voir comme il est franchement son idole.  
+Du moment qu'il pourra vous dire une parole,  
+Le Pédant vantera son érudition,  
+Il vous demandera sa chère pension.  
+Si vous le refusez, dans son dépit extrême,  
+Il vous accusera de vivre pour vous-même,  
+De ne songer qu'à vous. Il a fait, sans raison,  
+Un reproche pareil à toute la maison.  
+
+    POLIDOR, DE L’AIR D’UN HOMME QUI A DES DOUTES.
+Bien sans raison, dis vrai ?  
+
+    PHILÉMON, HÉSITANT.
+    Mais...  
+
+    POLIDOR.
+        Point de mais, de grâce.  
+
+    PHILÉMON.
+Quoi ! Vous voulez ?...  
+
+    POLIDOR.
+        Je veux qu'on se mette à ma place,  
+Et qu'on m'aide du moins à placer mes bienfaits.  
+
+    PHILÉMON.
+Dois-je de mes parents ?...  
+
+    POLIDOR.
+        Non, je te blâmerais  
+De noircir en public leurs moeurs, leur caractère ;  
+Mais avec moi tu dois écarter tout mystère :  
+Feindre avec ton ami, serait un trop grand tort.  
+
+    PHILÉMON.
+Mon oncle, en vérité, vous m'embarrassez fort.  
+Comment, vous désirez ?...  
+
+    POLIDOR.
+        Je fais plus, je l'exige :  
+Ou confirme, ou détruis le soupçon qui m'afflige.  
+Quoi, je ne pourrais pas les rendre tous heureux,  
+Moi qui venais exprès !... Mon sort serait affreux.  
+
+    PHILÉMON.
+Pourquoi vous alarmer ? Par exemple, mon père,  
+Pourvu qu'il dorme, mange, et pourvu qu'il digère,  
+Pourvu qu'il vive enfin, tout lui devient égal.  
+Durand l'en blâme ; moi, je n'y vois point de mal.  
+
+    POLIDOR.
+Cette oisiveté...  
+
+    PHILÉMON.
+        Bon, que peut-il davantage ?  
+Veut-on lui reprocher les défauts de son âge,  
+Sur-tout lorsqu'il n'a point consumé ses beaux ans  
+À des riens, comme font les merveilleux du tems,  
+Qui, pour jouer un Wïsth, diner, souper en ville,  
+Pensent remplir au monde un rôle fort utile ?  
+D'un ton sententieux.
+
+Quand près de cinquante ans l'on a sérvi son Roi,  
+On a, je crois, le droit de vivre en paix chez soi.  
+
+    POLIDOR, SE CALMANT UN PEU.
+Tu dis vrai ; mais...  
+
+    PHILÉMON.
+        Durand blâme encore ma mère ;  
+Vous avez remarqué quel est son caractère ?  
+
+    POLIDOR.
+À peu près : j'ai cru voir qu'elle aime à se citer.  
+
+    PHILÉMON.
+Oh, oui ! Tout lui paraît matière à se vanter ;  
+Et pour faire avec nous la femme essentielle,  
+Elle veut que sans cesse il soit question d'elle  
+La chose est toute simple, et ne me surprend pas.  
+Toute femme qui voit éclipser ses appas,  
+D'un amour suranné qui craint le ridicule,  
+S'arrange avec le monde, en secret capitule :  
+Pour y tenir son coin et cacher son dépit,  
+Elle devient alors joueuse, ou bel esprit ;  
+De la dévotion affiche l'étalage,  
+Ou prend avec éclat les rênes du ménage.  
+Eh bien, ce dernier rôle est, je crois, le meilleur  
+Pour celle qui le prend, surtout pour le bonheur  
+De ceux que le destin force à vivre avec elle.  
+
+    POLIDOR.
+L'on peut voir tout cela d'un autre oeil.  
+
+    PHILÉMON.
+        Bagatelle !  
+Sans mes soins, vous alliez vous chagriner pour rien.  
+Appuyant.
+
+Quant à mon jeune frère, il lui reproche...  
+
+    POLIDOR.
+        Eh bien,  
+Quoi  
+
+    PHILÉMON.
+        Que pour s'avancer il désire la guerre ;  
+De sorte qu'il faudra voir ravager la terre,  
+Porter chez nos voisins la mort ou la terreur,  
+Pour procurer, dit-il, quelque grade à Monsieur.  
+Ce désir d'illustrer son nom par la victoire,  
+D'aller à la fortune en se couvrant de gloire,  
+Vice qui fait d'un chef le fléau de l'État,  
+Devient une vertu dans le coeur d'un soldat.  
+
+    POLIDOR.
+Ta bonté, ton esprit prêtent à tout des charmes ;  
+Tu veux diminuer, je le vois, mes alarmes.  
+Sur mes gardes, pourtant, je n'en serai pas moins.  
+
+    PHILÉMON, FROIDEMENT.
+Mais, pourquoi ?...  
+
+    POLIDOR.
+        Je saurai récompenser tes soins.  
+Je veux lire un instant dans l'âme de Constance :  
+Je l'attends... La voici. Reviens en diligence  
+Dès qu'elle sortira. Tu sauras mes projets.  
+
+    PHILÉMON, À PART, EN SORTANT.
+Ah ! Monsieur Durand voudrait démêler mes secrets !  
+
+
+## SCÈNE IV. Constance, Polidor.
+
+    POLIDOR. IL FAIT AVANCER DES SIÈGES.
+À part.
+
+Feignons, pour ménager un sexe trop sensible.  
+
+    CONSTANCE, À PART.
+Cachons bien mon amour, s'il est encor possible.  
+
+    POLIDOR.
+Embrassez-moi, ma fille, une seconde fois.  
+Je crois voir mon ami, sitôt que je la vois.  
+Asseyons-nous : Je veux vous consulter, Constance,  
+Sur une affaire : elle est de très grande importance.  
+Il la fait asseoir.
+
+Votre père eut dessein d'unir nos deux maisons :  
+Vous daignâtes répondre à ses intentions...  
+
+    CONSTANCE.
+Oui, Monsieur ; à ses lois mon coeur toujours fidèle...  
+
+    POLIDOR.
+Un moment, s'il vous plaît : La fortune cruelle  
+M'accable en ce moment du poids de ses revers ;  
+Tout mon bien a péri dans le trajet des mers ;  
+Mais le vôtre est sauvé...  
+
+    CONSTANCE, AVEC TRANSPORT.
+        Je pourrai donc vous rendre  
+Les secours que mon père obtint d'un ami tendre ;  
+Adoucir les destins de vous, de vos parents,  
+Dans le sein du bonheur faire couler vos ans...  
+
+    POLIDOR.
+J'accepte vos bienfaits, généreuse Constance !  
+Ordonnez maintenant de la reconnaissance.  
+
+    CONSTANCE.
+De la reconnaissance ! Eh pourquoi, s'il vous plaît ?  
+Pour m'avoir procuré le bien le plus parfait,  
+À part.
+
+Le bonheur d'être utile... A qui, grands Dieux !  
+
+    POLIDOR.
+        Ma fille  
+Vous allez en effet enrichir ma famille ;  
+Mais c'est par vos vertus plus que par votre bien.  
+Vous penserez toujours de même ?  
+
+    CONSTANCE.
+    Oh, oui !  
+
+    POLIDOR.
+        Quoi ! Rien  
+Ne vous fera changer ?  
+
+    CONSTANCE.
+        Ah ! croyez, je vous prie !...  
+
+    POLIDOR.
+Vous penserez toujours que d'une main chérie  
+Nous pouvons accepter des bienfaits sans rougir ;  
+Qu'entre deux vrais amis celui qui peut jouir  
+Du bien de réparer un malheur respectable,  
+Étant le plus heureux est le plus redevable ?  
+
+    CONSTANCE.
+Peut-on avoir une âme, et penser autrement ?  
+
+    POLIDOR, SE LEVANT AVEC JOIE.
+Félicitez-moi donc, et sachez maintenant  
+Ce que je ne pourrais vous cacher dans la suite.  
+Votre fortune...  
+
+    CONSTANCE.
+    Eh bien ?  
+
+    POLIDOR.
+        Un revers l'a détruite.  
+
+    CONSTANCE, À PART.
+Chevalier, c'en est fait, je ne puis rien pour toi.  
+
+    POLIDOR.
+Auquel de mes Neveux donnez-vous votre foi ?  
+Que votre coeur choisisse ; et dans cette journée,  
+Vous nous appartenez par un doux hyménée.  
+
+    CONSTANCE, DANS TE PLUS GRAND ABATTEMENT.
+Moi, Monsieur, que chez vous j'ose donner des lois !  
+Je sais trop qui je suis et ce que je vous dois.  
+
+    POLIDOR, FÂCHÉ.
+À nos conventions, songez, je vous supplie ;  
+Oui, songez qu'un refus me fâche et m'humilie.  
+Je mérite, je crois, de faire des heureux.  
+
+    CONSTANCE.
+Ah ! Ne m'accablez pas, mortel trop généreux !  
+De toutes vos bontés et confuse et ravie,  
+Je veux vous devoir tout, et pour toute ma vie.  
+Choisissez mon époux, et décidez mon sort.  
+À part, en sortant.
+
+Son choix va me donner ou la vie ou la mort.  
+
+    POLIDOR.
+C'est assez, Pour répondre à votre constance,  
+Croyez que ma raison va régler la balance.  
+J'ai d'un oeil attentif observé mes neveux,  
+Et ce soir votre main est au plus vertueux.  
+Il l'accompagne, et revient au devant de Philémon.
+
+
+
+## SCÈNE V. Polidor, Philémon.
+
+    POLIDOR.
+Sois heureux, mon ami, je te donne Constance ;  
+Elle est digne de toi ; mérite, esprit, naissance...  
+
+    PHILÉMON, À PART.
+Je suis trop bien instruit pour être son époux.  
+
+    POLIDOR.
+Tu balances, je crois ?  
+
+    PHILÉMON.
+        Ce lien, quoique doux..  
+
+    POLIDOR.
+Sais-tu que je dois tout à son malheureux père ?  
+
+    PHILÉMON.
+Soit ; mais je dois aussi quelque chose à mon frère.  
+Je ne puis ignorer que Constance lui plaît.  
+Souffrirai-je d'ailleurs que mon propre intérêt,  
+Au bonheur de mon frère oppose une barrière ?  
+Un cadet a besoin d'une riche héritière.  
+
+    POLIDOR.
+Constance n'a rien...  
+
+    PHILÉMON, À PART.
+    Bon.  
+
+    POLIDOR.
+        Mais ce soir, en signant,  
+Je prétends lui donner cent mille écus comptant.  
+
+    PHILÉMON, À PART.
+Ô Dieux !  
+
+    POLIDOR.
+        Puisque ton coeur vit dans l'indifférence.  
+Que ton frère a des moeurs, qu'il adore Constance,  
+Au gré de tes désirs il faut le rendre heureux.  
+Annonce-lui son sort : le plutôt vaut le mieux.  
+Cours.  
+Il le pousse doucement vers la porte.
+
+
+    PHILÉMON, BAS.
+        Qu'ai-je fait ! Cachons à quel point j'en enrage.  
+Haut.
+
+D'honneur, je lui croyais un très riche héritage.  
+
+    POLIDOR.
+Mais, ton front s'obscurcit ! As-tu quelque chagrin ?  
+
+    PHILÉMON, FEIGNANT DE VOULOIR SORTIR.
+Laissez-moi taire un mal renfermé dans mon sein.  
+
+    POLIDOR, L’ARRÊTANT.
+Non, parle promptement, ton silence m'outrage.  
+
+    PHILÉMON.
+J'aime avoir que mon coeur soit peint sur mon visage.  
+Si l'altération qui paraît dans mes traits  
+Me force à dévoiler le plus grand des secrets,  
+Elle prouve du moins aux yeux les plus rigides  
+Que je ne porte point de ces masques perfides,  
+Qui peignent ce qu'on veut, et non ce que l'on sent.  
+Vous voulez donc savoir ?...  
+
+    POLIDOR.
+        Sans doute, et dans l'instant.  
+
+    PHILÉMON.
+N'allez pas m'enlever toute votre tendresse,  
+Quand je découvrirai l'excès de ma faiblesse.  
+Je la sens redoubler, à ne vous cacher rien,  
+En apprenant de vous que Constance est sans bien.  
+Pour un coeur délicat, la volupté suprême  
+Est de ne rien devoir à la beauté qu'on aime.  
+Votre pupille...  
+
+    POLIDOR.
+    Eh bien !  
+
+    PHILÉMON.
+        Ses vertus, ses attraits  
+Dans mon âme avaient fait les plus tendres progrès,  
+Lorsque je démêlai les désirs de mon frère,  
+Et que je méditai le projet téméraire  
+De faire triompher l'amitié dé l'amour.  
+Je m'étais du succès flatté jusqu'à ce jour.  
+Orgueilleux que j'étais, homme faible et vulgaire !  
+Le bonheur d'un rival (de quel rival, d'un frère)  
+Me cause en approchant le plus mortel chagrin.  
+
+    POLIDOR, SOURIANT.
+L'homme a cru triompher de l'homme : projet vain !  
+
+    PHILÉMON.
+Vous avez voulu voir les replis de mon âme.  
+
+    POLIDOR.
+Mon cher, je puis encor récompenser ta flamme.  
+
+    PHILÉMON, SE RÉCRIANT.
+Je mettrais à mon frère un poignard dans le sein !  
+
+    POLIDOR.
+Laisse à mon amitié le soin de son destin.  
+L'amour est à son âge une courte folie ;  
+Mais lorsqu'on aime au tien, c'est pour toute la vie.  
+Va, va, je m'y connais. Tout bien pesé, je crois  
+Qu'une femme sera plus heureuse avec toi.  
+
+    PHILÉMON.
+Cette seule raison à vous céder m'engage.  
+Quant aux cent mille écus, je veux qu'on les partage  
+Entre mon frère et moi : j'insiste sur ce point.  
+
+    POLIDOR.
+En générosité tu ne me vaincras point.  
+
+    PHILÉMON.
+Bas.
+
+Parbleu, j'y compte bien !  
+Haut.
+
+        Si l'aimable Constance  
+Trouve dans sa maison une agréable aisance ;  
+Si je puis noblement élever mes enfants,  
+Réunir à souper quelques honnêtes gens,  
+Réserver tous les mois une petite somme  
+Pour venir au secours de quelque galant homme,  
+Je ne désirerai jamais d'autre bonheur.  
+L'ambition ne peut se glisser dans mon coeur :  
+Les désirs modérés sont les trésors du Sage.  
+
+    POLIDOR.
+Tu me ravis, mon cher, en tenant ce langage.  
+
+
+## SCÈNE VI. Les Précédents, Durant, Clermon.
+
+    CLERMON, S’ÉCHAPPANT DES MAINS DE DURAND, AVEC QUI IL SE DÉBATTAIT AU FOND DU THÉÂTRE.
+Je parlerai, vous dis-je. Ouf ! Je vous trouve enfin :  
+En croyant l'abréger, j'ai manqué mon chemin.  
+
+    POLIDOR.
+Va dire là-dedans qu'on appelle un notaire.  
+
+    CLERMON.
+Sachez vite un secret que je ne dois plus taire.  
+
+    DURAND, À PART.
+Dieux !  
+
+    POLIDOR.
+        Tu me l'apprendras ; cours, obéis avant.  
+
+    CLERMON.
+Mais...  
+
+    POLIDOR.
+    Fais ce qu'on te dit.  
+
+    CLERMON.
+        Je reviens dans l'instant.  
+Il sort.
+
+
+
+## SCÈNE VII. Durand, Polidor, Philémon.
+
+    POLIDOR.
+Toujours de grands secrets pour rien.  
+
+    PHILÉMON, BAS.
+        Il me tracasse.  
+
+    DURAND, À PART.
+Profitons du moment, puisqu'il cède la place.  
+Haut.
+
+Monsieur !...  
+
+    POLIDOR.
+    Que voulez-vous ?  
+
+    DURAND.
+        Quand Clermon reviendra  
+Ne vous affectez point de ce qu'il vous dira,  
+Et croyez-en plutôt le remords qui me presse,  
+De venir à vos pieds avouer ma faiblesse.  
+
+    PHILÉMON, TAS À LUI-MÊME.
+Voyons.  
+
+    POLIDOR.
+    À quel sujet ?  
+
+    DURAND.
+        Voici la vérité.  
+Un moment de dépit et de vivacité  
+M'avait fait soupçonner dans ce mortel unique  
+Des torts exagérés à votre domestique :  
+J'ai cru qu'il m'empêchait d'avoir ma pension,  
+Qu'il ne songeait qu'à lui : je l'ai dit à Clermon...  
+
+    PHILÉMON, BAS À POLIDOR, AVEC FINEST.
+Eh... Vous l'ai-je dit ?  
+
+    POLIDOR.
+    Oui.  
+
+    PHILÉMON, À PART.
+    Le traître !  
+Il affecte un grand éclat de rire.
+
+
+    POLIDOR.
+        Est-il possible !  
+Quoi, vous riez !  
+
+    PHILÉMON.
+        Mais oui. N'est-il pas bien risible  
+De m'avoir vu tantôt disciple bienfaisant,  
+Vous dire qu'il fallait récompenser Durand,  
+Et cela dans le temps qu'il payait mes services,  
+En me gratifiant du plus affreux des vices ?  
+
+    POLIDOR, EN COLÈRE.
+Morbleu, je ne ris point,  S'il eut privé mon coeur  
+Du plaisir de t'aimer, de faire tan bonheur !...  
+
+    PHILÉMON.
+Vous me faites frémir !  
+
+    POLIDOR.
+    Le monstre !  
+
+    PHILÉMON.
+        Il faut l'entendre.  
+
+    DURAND.
+Je l'accusais : soudain, ami sensible et tendre,  
+Monsieur m'a confondu par vingt traits généreux.  
+En sanglotant.
+
+Il voulait partager son bien entre nous deux.  
+
+    PHILÉMON, À PART.
+Que j'ai bien fait !  
+
+    DURAND.
+        Alors certain de son mérite,  
+J'ai volé vers Clermon, pour le détromper vite ;  
+Il était reparti, ce malheureux valet.  
+
+    POLIDOR.
+Âme vile ! Tramant le plus lâche projet,  
+Vous vouliez perdre, qui ? Celui dont au contraire  
+Vous deviez au besoin être l'appui, le père !   [18] [19]
+Mais depuis qu'un Jacquet, un Heyduque, un coureur,  
+Sont plus fêtés, chéris, que n'est un précepteur,  
+Qu'on se fait de leur choix une plus grande affaire,  
+Le Sage, en s'éloignant, fait place au mercenaire ;  
+Pour un bon gouverneur, on voit cent plats valets,  
+Livrer le fils au vice, et le père aux regrets.  
+
+
+## SCÈNE VIII. Les Précédents, Clermon.
+
+    CLERMON, ACCOURANT ET PRENANT SON MAÎTRE À PART.
+Vous êtes obéi : Mais puis-je enfin vous dire ?...  
+
+    POLIDOR.
+Son air mystérieux à mon tour me fait rire.  
+
+    CLERMON, ÉTONNÉ.
+À quel propos ?...  
+
+    PHILÉMON, SE MOQUANT.
+        Un rien doit-il donc t'étonner ?  
+Je suis bien criminel : parle sans te gêner.  
+J'ai surtout le défaut de n'aimer que moi-même.  
+Tu vois, mon oncle en est dans un courroux extrême.  
+
+    CLERMON.
+Quoi, Monsieur, vous savez ?...  
+
+    POLIDOR.
+    Sans doute.  
+
+    DURAND.
+        J'ai tout dit.  
+
+    CLERMON.
+Je ne vois pas pourquoi cela vous réjouit.  
+
+    PHILÉMON, LE CARESSANT.
+Clermon est bon enfant.  
+
+
+## SCÈNE IX. POLIDOR, PHILÉMON.
+
+    POLIDOR.
+        Mon ami, tout ici me fait assez comprendre  
+Que mon coeur et le tien sont faits seuls pour s'entendre.  
+
+    PHILÉMON.
+Je ne puis exprimer combien il est flatteur...  
+
+    POLIDOR.
+Point de remerciement ; j'ai ma part du bonheur.  
+À mes nobles projets viens que je t'associe :  
+Je suis encor d'un âge à servir ma patrie :  
+J'ai trois millions.  
+
+    PHILÉMON, BAS.
+    Oh !  
+
+    POLIDOR.
+        Quinze cents mille francs  
+Feront entre tes mains le sort de tes parents :  
+Avec le reste, moi, j'augmente ma fortune,  
+Et reviens la verser dans la caisse commune :  
+Nous ferons des heureux !  
+
+    PHILÉMON.
+        Voilà les biens réels !  
+Le plaisir réunit le commun des mortels ;  
+Les méchants, les pervers, sont unis par le crime ;  
+Et nos liens seront les vertus...  
+
+    POLIDOR.
+        Et l'estime !  
+
+    PHILÉMON, IRONIQUEMENT.
+Du pouvoir des vertus je suis édifié.  
+
+    POLIDOR.
+J'embrasse avec transport mon cher associé.   
+Oh, ça, te voilà donc un grave personnage,  
+Un chef ! Tremble en songeant à quoi ce titre engage :  
+Point d'égoïsme, au moins.  
+
+    PHILÉMON.
+        Mais, mon oncle, entre nous,  
+Par égoïsme enfin, voyons, qu'entendez-vous ?  
+
+    POLIDOR.
+Peu masqué chez Durand, il n'est pas fort à craindre ;  
+Indolent chez ton père, il ne le rend qu'à plaindre ;  
+Loin de nuire à ton frère, il nous laisse entrevoir  
+Que ce jeune guerrier, exact à son devoir,  
+Sera toujours guidé par l'honneur ; chez ta mère,  
+Nous exciter à rire est tout ce qu'il peut faire,  
+Surtout quand nous l'aurons resserré tout-à-fait  
+Dans la futilité pour laquelle il est fait :  
+Mais l'égoïsme affreux que poursuit ma colère  
+De tout temps enfanta les malheurs de la terre :  
+Sous cent dehors trompeurs, en vrai caméléon,  
+II y verse à long traits son dangereux poison.  
+De la société détruisant l'harmonie,  
+Il produit les procès, sème la zizanie ;  
+Désunit les époux, les parents, les amis,  
+Divise d'intérêt et le père et le fils.  
+À la bourse il se joue avec les banqueroutes  
+Secondé par la fraude, il les enfante toutes ;  
+Et mettant à profit et la soif et la faim,  
+Sur la cherté qu'il cause il calcule son gain ;   [20]
+Chez Thémis, ses arrêts, dictés par l'opulence,  
+Changent en trébuchet la divine balance.  
+À la suite des camps, le bonheur de l'Etat,  
+La gloire de son Prince, et les jours du soldat,  
+Rien... L'indignation fait place à la prudence !  
+Mes portraits déplairaient par trop de ressemblance.  
+Juge, et frémis surtout de l'horreur du tableau ;  
+Je peindrais des humains la honte et le fléau.  
+
+    PHILÉMON.
+Quel monstre ! J'ignorais jusqu'à son existence.  
+
+    POLIDOR.
+Tant mieux, mon cher ami ; garde ton ignorance.  
+Viens partager nos biens, viens signer ton contrat :  
+De Constance assurons le bonheur et l'état.  
+
+
+# ACTE IV.
+
+
+## SCÈNE PREMIÈRE. Marton, Clermon.
+
+    CLERMON.
+Marton, je suis chagrin.  
+
+    MARTON.
+        Clarmon, je suis chagrine.  
+
+    CLERMON, AVEC INQUIÉTUDE VERS LA PORTE.
+Que font-ils en secret dans la chambre voisine ?  
+
+    MARTON.
+J'ai vu certain notaire...  
+
+    CLERMON.
+        Y serait-il encor ?  
+
+    MARTON.
+Oui : je crains pour Constance.  
+
+    CLERMON.
+        Et moi pour Polidor.  
+Quand il n'a demandé tantôt son porte-feuille,  
+Si j'avais cru... Marton, je tremble qu'il ne veuille  
+S'en dessaisir... Pour qui ?... Si je pouvais ravoir.  
+Pendant une minute ou deux, en mon pouvoir  
+Ce porte-feuille...  
+
+    MARTON.
+    Eh bien ?  
+
+    CLERMON.
+        Sans prévenir mon maître  
+Je saurais lui donner le temps de bien connaître  
+Cet homme dangereux, qui nous trouble si fort.  
+
+    MARTON.
+Ah ! Quel bonheur !  
+
+    CLERMON.
+        Oui, mais à moins d'un coup du sort...  
+Contre notre ennemi ne pourrais-tu rien faire ?  
+
+    MARTON.
+Pour redoubler l'ardeur de son jeune adversaire,  
+Je viens de lui prouver qu'on l'aime éperdument.  
+
+    CLERMON.
+Bien. Moi, je vais guetter Philemon et Durand.  
+
+    MARTON.
+Songe à ce porte-feuille, objet de tes alarmes.  
+
+    CLERMON, REVENANT.
+Va, va, que je le tienne, et je m'en fais des armes  
+Triomphantes. Marton, quel bonheur ! Quel plaisir !  
+Si, servant Polidor au gré de mon désir,  
+Je démasquais... Suffit ; en serviteur fidèle,  
+Je n'écouterai rien que mon coeur et mon zèle.  
+
+    MARTON, L’ARRÊTANT D’UN AIR ENGAGEANT.
+Tu devrais bien, Clermon, me mettre du complot.  
+
+    CLERMON.
+Volontiers... Chut, on vient.  
+
+    MARTON.
+        Je te joindrai bientôt.  
+
+
+## SCÈNE II. Marton, Constance, Le Chavalier.
+
+    LE CHEVALIER, À CONSTANCE, QUI LE FUIT.
+Craignez le désespoir de l'amant le plus tendre.  
+
+    CONSTANCE.
+Laissez-moi, je ne dois vous voir, ni vous entendre.  
+
+    LE CHEVALIER.
+Au moment où Marton, en m'ouvrant votre coeur,  
+A fait luire à mes yeux un rayon de bonheur...  
+
+    CONSTANCE.
+Ah ! Ne redoublez pas mes regrets, mes alarmes !  
+Mes yeux, vous le voyez, se remplissent de larmes.  
+Évitez le malheur qui s'attache à mes pas ;  
+Plaignez-vous, plaignez-moi, mais ne m'accusez pas.  
+Hésitant.
+
+Pénétré du respect que Polidor inspire,  
+Mon coeur n'a pas osé tout haut le contredire.  
+
+    LE CHEVALIER.
+Vous me faites frémir et pour vous et pour moi.  
+
+    CONSTANCE.
+Tout est perdu.  
+
+    MARTON.
+    Cherchons quelque moyen.  
+
+    CONSTANCE, AVEC DÉSESPOIR.
+        Eh quoi !   [21]
+N'ai-je donc pas signé l'arrêt de mon supplice ?  
+Demain doit s'achever cet affreux sacrifice !  
+Comment concilier l'amour et le devoir ?  
+Que puis-je ?  
+
+    LE CHEVALIER.
+        D'un seul mot ranimer mon espoir.  
+Pour désarmer le sort dont je suis la victime,  
+La vertu servira l'intérêt qui m'anime.  
+Je le jure à vos pieds ; oui !...  
+
+    CONSTANCE.
+    Relevez-vous.  
+
+    MARTON, BAS, RETENANT LES AMANTS.
+        Non.  
+Vous êtes bien, restez, j'aperçois Philemon.  
+
+
+## SCÈNE III. Les Précédents, Philémon,.
+
+    CONSTANCE ET LE CHEVALIER, À PART.
+Dieux !  
+
+    PHILÉMON, SURPRIS.
+    Quoi !  
+
+    MARTON, BAS, LES RETENANT ENCORE.
+    Mais, restez donc.  
+
+    CONSTANCE.
+        Je suis anéantie.  
+
+    MARTON, BAS AU CHEVALIER.
+Parlez, vous.  
+
+    LE CHEVALIER, HAUT.
+        Décidez du bonheur de ma vie.  
+
+    PHILÉMON, À PART.
+Oui da, ... mais ce n'est pas à son coeur que j'en veux.  
+Rentrons pour n'être pas ou dupe ou généreux.  
+Il rentre sur la pointe des pieds.
+
+
+
+## SCÈNE IV. Marton, Constance, Le Chevalier.
+
+    MARTON, TRÈS SURPRISE.
+Il se sauve.  
+
+    CONSTANCE.
+        À ses yeux je suis déshonorée !  
+Que dira-t-on de moi ? Je meurs désespérée.  
+
+    LE CHEVALIER.
+Eh ! Quoi ! Vous me fuyez ?  
+
+
+## SCÈNE V. Marton, Le Chevalier.
+
+    MARTON, RETENANT LE CHEVALIER.
+        N'arrêtez point ses pas,   [22]
+Elle va réfléchir, et vous n'y perdrez pas.  
+L'amour-propre saura décider votre amante ;  
+Et d'ailleurs, croyez-moi, toute femme prudent  
+D'un témoin indiscret ne fait point son époux :  
+Au moindre petit mot, il faudrait filer doux.  
+Prudence, amour, fierté, tout vous sert.  
+
+    LE CHEVALIER.
+        Tu me charmes !  
+Mais je ressens encor les plus vives alarmes.  
+
+    MARTON.
+Tout va bien. Du récit de vos tendres chagrins  
+Allez intéresser parents, amis, voisins.  
+Bon ! commencez.  
+Voyant Monsieur Florimon.
+
+
+
+## SCÈNE VI. Marton, Le Chevalier, Florimon.
+
+    FLORIMON, À LA CANTONNADE.
+        Où fuir ? Vous me rompez la tête.  
+Au Chevalier.
+
+Encore... Eh bien ! Vas-tu me parler de la fête ?  
+
+    LE CHEVALIER.
+Mon père, je me meurs ; daignez me secourir.  
+
+    FLORIMON.
+Mourir-si jeune ! Attends, je m'en vais revenir.  
+
+    LE CHEVALIER.
+Mon frère ne peut être heureux avec Constance :  
+Je l'adore, et mon coeur obtient la préférence ;  
+Sa bouche m'en a fait l'aveu le plus charmant.  
+
+    FLORIMON.
+Tu ne meurs que d'amour ! Ah ! Tant mieux, mon enfant.  
+Il veut sortir.
+
+
+    LE CHEVALIER, L’ARRÊTE.
+Nous brûlons d'une ardeur et si pure et si tendre !...  
+
+    FLORIMON.
+Mon café sera froid, je vais vite le prendre,  
+Et te donne en passant un conseil des meilleurs.  
+
+    LE CHEVALIER.
+Puissé-je vous devoir la fin de mes malheurs !  
+
+    MARTON.
+        Voyons.  
+Ils se réunissent pour écoute avec la plus grande attention.
+
+
+    FLORIMON.
+N'entretiens plus d'un mal imaginaire  
+Les malheureux vieillards ; un septuagénaire  
+Peut-il s'intéresser aux chagrins des amants ?  
+Il ferait ses beaux jours de leurs cruels tourments !  
+Ne les compare pas à la funeste image  
+Que présente le temps aux hommes de mon âge ;  
+Ne les mets qu'à côté de nos privations,  
+Vers la cantonade.
+
+Et juge. Mon café...  
+
+    MARTON, AVEC HUMEUR.
+        Belles conclusions !  
+
+
+## SCÈNE VII. Marton, Le Chevalier.
+
+    LE CHEVALIER, SORTANT.
+Je suis anéanti.  
+
+    MARTON, DE LOIN.
+        Ne perdez point courage.  
+Le Chevalier sort.
+
+
+
+## SCÈNE VIII.
+
+    MARTON, SEULE.
+Que Philemon triomphe, et j'étouffe de rage !  
+Mais il faut l'observer... le voici qui revient.  
+Elle se cache avec soin dans une coulisse.
+
+
+
+## SCÈNE IX. Marton, Philémon.
+
+    PHILÉMON, UN PORTE-FEUILLE À LA MAIN, REGARDANT AVANT D’ENTRER.
+Les amants sont sortis.  
+
+    MARTON, À PART.
+        Oh, oh, qu'est-ce qu'il tient ?  
+
+    PHILÉMON, SE JETANT DANS UN FAUTEUIL.
+Quinze cents mille francs ! Les voilà : quelle somme !  
+Il faut en convenir, le cher oncle est bonhomme.  
+
+    MARTON, À PART.
+Cherchons Clermon. Le péril est pressant.  
+Elle sort.
+
+
+
+## SCÈNE X.
+
+    PHILÉMON, SEUL AVEC DÉPIT, APRÈS UN INSTANT DE RÉFLEXION, EN METTANT LE PORTEFEUILLE SUR LA TABLE, AUPRÈS DE LAQUELLE IL S’ASSIED.
+Les miens de ces billets connaissent le montant  
+À me solliciter chacun déjà s'empresse...  
+J'ai des principes sûrs. Oui, leur sort m'intéresse :  
+Le sang... l'humanité... Je m'en occupe fort.  
+Mais je veux librement disposer de leur sort.  
+Avec réflexion.
+
+Si par quelque détour qu'on ne pourrait connaître...  
+Riant en voyant encor Durand.
+
+Il serait bien plaisant que Monsieur mon cher Maître  
+Voulût imaginer un projet aujourd'hui  
+Dont le mauvais succès ne tombât que sur lui.  
+Il me sert si bien...  
+
+
+## SCÈNE XI. Philémon, Durand.
+
+    DURAND, ACCOURANT.
+        J'ai des grâces à vous rendre,  
+L'ouvrage fait grand bruit.  
+
+    PHILÉMON.
+    Bon  
+
+    DURAND.
+        Je viens d'en répandre  
+Cent exemplaires.  
+
+    PHILÉMON.
+    Où ?  
+
+    DURAND.
+        Dans vingt cafés brillants.  
+
+    PHILÉMON, SE LÈVE ET LUI MONTRE LE PORTE-FEUILLE QUI EST SUR LA TABLE.
+Changeons de discours. J'ai quinze cents mille francs :  
+Vous savez à quel prix mon oncle me les laisse ?  
+
+    DURAND, S’APPROCHE DE LA TABLE, PREND LE PORTE-FEUILLE ET LE REGARDE AVEC COMPLAISANCE.
+Oui.  
+
+    PHILÉMON.
+        Mes parents viendront me désoler sans cesse.  
+Je suis facile, moi, comme on dit, bon humain ;  
+Ils dépenseront tout ; puis j'aurai le chagrin  
+De les voir derechef manquer du nécessaire.  
+Je les connais.  
+
+    DURAND.
+        Pas mal... Mais il pourrait se faire  
+Qu'on prévînt ce malheur ; et le tout pour leur bien.  
+Rêvant.
+
+Attendez ; j'entrevois pour cela... tel moyen...  
+
+
+## SCÈNE XII. Les Précédents, Marton, Clermon.
+
+    MARTON, BAS CONDUISANT CLERMON AU FOND DU THÉÂTRE.
+Les voilà réunis.  
+Elle rentre.
+
+
+    DURAND, APRÈS AVOIR RÉFLÉCHI.
+        Tous les jours on égare  
+Des lettres, des billets... Oui, cela n'est pas rare.  
+Et j'ai vu mille gens dans un semblable cas.  
+
+    CLERMON, À PART.
+Que diable trament-ils ? Suivons, je n'entends pas.  
+
+    DURAND.
+On peut rendre la chose et possible et croyable :  
+En s'applaudissant.
+
+Comme je la conçois elle est très vraisemblable.  
+Votre porte-feuille est sur cette table-là,  
+Il remet le porte-feuille sur la table.
+
+Par exemple.  
+
+    CLERMON.
+        Celui de Polidor ?... Oui da !  
+
+    DURAND.
+Nous allons, nous venons, nous raisonnons ensemble.  
+
+    CLERMON, À PART.
+Oh, quel bonheur !  
+
+    DURAND.
+        Il est possible, ce me semble,  
+Que quelqu'un, en passant, dessus mette la main.  
+
+    CLERMON, À PART, ET PRENANT LE PORTE-FEUILLE.
+L'avis est bon.  
+
+    DURAND.
+        Et puisqu'il décampe soudain.  
+Clermon s'enfuit.
+
+
+
+## SCÈNE XIII. Durand, Philémon.
+
+    DURAND.
+Nous dirons avoir vu quelqu'un en sentinelle.   [23]
+De par Plaute, la scène est comique et nouvelle !  
+Répétons-là.  
+
+    PHILÉMON, À PART, APRÈS AVOIR RÉFLÉCHI.
+        Le tour est indigne de moi :  
+Je ne veux pas risquer qu'on soupçonne ma foi.  
+Haut, allant vers la table.
+
+Mon porte-feuille ?  
+
+    DURAND.
+    Eh bien ?  
+
+    PHILÉMON.
+    Il n'est plus là.  
+
+    DURAND, APRÈS UN SOURIRE D’INTELLIGENCE PREND UN TON DE PRÉTENTION COMME S’IL RÉPÉTAIT.
+        Peut-être  
+Vous l'a-t-on volé.  
+
+    PHILÉMON.
+    Qui ?  
+
+    DURAND.
+        Je soupçonne le traître  
+Qui passait, repassait.  
+
+    PHILÉMON.
+    Où donc ?  
+
+    DURAND.
+    Là.  
+
+    PHILÉMON.
+    Quand ?  
+
+    DURAND.
+        Tantôt.  
+
+    PHILÉMON.
+Eh ! Que ne parliez vous ? Courons tout au plutôt.  
+
+    DURAND.
+Bas.
+
+Bien.  
+Haut.
+
+        Le voleur s'enfuit : il faut le faire pendre.  
+
+    PHILÉMON, EMBARRASSÉ.
+Parlez-vous tout de bon ?  
+
+    DURAND.
+Bas, d'un air d'intelligence.
+
+        Sans doute. Est-ce l'entendre ?  
+Haut.
+ [24]
+Quelle horreur ! Des filous jusques dans les maisons !  
+
+    PHILÉMON, EN COLÈRE.
+Avez-vous mes billets ? Expliquons-nous, voyons.  
+
+    DURAND.
+Haut.
+ [25]
+Fi ! Le voleur avait une mauvaise mine.  
+Bas.
+
+Il faut crier plus fort.  
+
+    PHILÉMON.
+        Le traître m'assassine.  
+
+    DURAND, BAS, AVEC FINESSE.
+Pas mal : on vous croirait tout de bon en courroux.  
+
+    PHILÉMON.
+Mon trouble m'égarait : je ne m'en prends qu'à vous :  
+Mes billets.  
+Il le saisit.
+
+
+    DURAND, HAUT.
+        Oh, ceci passe la raillerie !  
+
+    PHILÉMON.
+Vous me les rendrez.  
+
+    DURAND.
+        Ah ! Vous m'étranglez, je crie !  
+
+    PHILÉMON.
+Ils étaient dans vos mains : je n'écoute plus rien.  
+
+    DURAND, APERCEVANT POLIDOR.
+Votre oncle...  
+
+    PHILÉMON.
+    Que lui dire ?  
+
+    DURAND, S’ÉCHAPPANT.
+        Ouf, il feignait trop bien !  
+
+
+## SCÈNE XIV. Clermon, Polidor, Philémon.
+
+    POLIDOR.
+Je fuis le Chevalier : l'on dit qu'il se chagrine.  
+Eh ! Morbleu, je le plains plus qu'il ne l'imagine !  
+
+    CLERMON, À PART.
+Tout est bien préparé.  
+
+    POLIDOR.
+        Mais, toi, mon cher ami,  
+Qu'est-ce ? Tu me parois avoir quelque souci ?  
+J'ai contre tes chagrins un remède peut-être.  
+
+    PHILÉMON, DANS LA PLUS GRANDS AGITATION.
+Souffrez que je vous quitte. Un scélérat, un traître  
+M'a ravi vos billets.  
+
+    POLIDOR, SOURIANT AVEC BONTÉ.
+    Les voici.  
+
+    PHILÉMON, AVEC TRANSPORT.
+        Quel bonheur !  
+
+    CLERMON, À PART.
+Nous verrons, nous verrons.  
+
+    POLIDOR.
+        Et voilà le voleur.  
+
+    CLERMON, FIÈREMENT.
+J'en tire vanité.  
+
+    POLIDOR.
+        Cet homme irréprochable  
+A pris mon porte-feuille, en passant, sur la table,  
+Je le rapporte vite à mon associé ;  
+Mais qu'il soit plus soigneux.  
+
+    PHILÉMON.
+        Écoutez-moi, de grâce.  
+Les billets étaient-là, j'étais à cette place :  
+Pourquoi ?...  
+
+    CLERMON, VIVEMENT.
+Quand il s'agit, de Monsieur, de son bien,  
+Ma cervelle se monte, et ne respecte rien.  
+Avec malignité.
+
+D'ailleurs vous discutiez une importante affaire ;  
+En vous interrompant, j'aurais cru vous déplaire.  
+Rapportez à Monsieur quelques mots seulement  
+De ce que vous disiez en secret à Durand ;  
+Il va, j'en suis certain, admirer ma prudence.  
+
+    PHILÉMON, À PART.
+Ce drôle m'interdit, et son ton d'insolence...  
+
+    POLIDOR.
+Te voilà confus ; conviens-en bonnement.  
+Tu n'y seras plus pris, n'est-ce pas ?  
+
+    PHILÉMON.
+        Sûrement.  
+
+    POLIDOR.
+Va-t'en vite traiter de la charge importante  
+Dont nous parlions tantôt, cours remplir mon attente.  
+Je songe à ton bonheur, toi, fais celui des tiens.  
+
+    PHILÉMON, APRÈS AVOIR REGARDÉ DANS LE PORTE-FEUILLE.
+Je vais m'en occuper. En dirigeant vos biens,  
+A nos conventions je songerai sans cesse.  
+Au lieu des goûts divers qu'inventa la mollesse,  
+Quand voudra-t-on se faire une félicité  
+De remplir les devoirs chers à l'humanité !  
+
+    POLIDOR.
+C'est parler en homme.  
+Philémon sort.
+
+
+
+## SCÈNE XV. Clermon, Polidor.
+
+    CLERMON, AVEC ATTENDRISSEMENT.
+    Ah ! Monsieur !...  
+
+    POLIDOR.
+    Qu'as-tu ?  
+
+    CLERMON.
+        Je crains  
+Que l'on ne vous prépare ici bien des chagrins.  
+
+    POLIDOR.
+Quoi ! Toujours soupçonneux !  
+
+    CLERMON.
+        Mon respectable Maître ;  
+J'ai fait parler Durand, et j'ai trop su connaître  
+Que Monsieur Philémon et l'espoir du profit  
+L'ont fait se démentir de ce qu'il m'avait dit.  
+
+    POLIDOR.
+Philémon est honnête, et Durand est un lâche ;  
+Quant à vous, respectez...  
+
+    CLERMON.
+    Je sors.  
+
+    POLIDOR, ATTENDRI.
+        Ce ton te fâche,  
+Ne l'impute, mon cher, qu'à ma vivacité.  
+Reviens ; tu peux parler en toute liberté.  
+
+    CLERMON.
+Votre Neveu, dit-on, trop habile à séduire ;  
+À dépendre de lui pourrait bien vous réduire ;  
+C'est la crainte, Monsieur, de toute la maison,  
+Des amis, des voisins ; interrogez Marton.  
+
+    POLIDOR.
+Mon ami, tu me fais une peine mortelle.  
+
+    CLERMON.
+Je ne le sens que trop, pardonnez à mon zèle.  
+
+    POLIDOR.
+Quoi ! Philemon serait !... Comme il peint la candeur !  
+On dirait qu'elle-même habite dans son coeur.  
+Mais le vil imposteur qui, me parlant sans cesse  
+D'honneur et de franchise, eut la scélératesse  
+De me voler d'un trait seize cent mille francs,  
+Avait tous les dehors encor plus séduisants.  
+
+    CLERMON.
+Je n'osais pas citer cet exemple ; et peut-être...  
+
+    POLIDOR.
+Je les garde avec soin tous les billets du traître.   [26]
+Pour mieux me défier de tout le genre humain ;  
+Tu les vois sous mes yeux le soir et le matin.  
+
+    CLERMON.
+À l'instant même.  
+
+    POLIDOR.
+        Eh bien, tel est mon caractère !  
+De ma facilité je ne puis me défaire :  
+Non ; d'être défiant je n'ai pas le pouvoir.  
+
+    CLERMON, À PART.
+Il sera corrigé, j'espère dès ce soir.  
+
+    POLIDOR.
+Quoi ! Mon neveu serait !... Je frémis quand je pense  
+Que lorsque j'ai parlé de marier Constance,  
+Et de la lui donner avec cent mille écus,  
+Tout-à-coup interdit, embarrassé, confus,  
+Tantôt voulant servir ou supplanter son frère...  
+Mon ami, quel soupçon ! Comme il me désespère !  
+
+    CLERMON.
+Ne croyez ni Durand, ni Philémon, ni moi ;  
+Vous pouvez éprouver...  
+
+    POLIDOR, AVEC CHAGRIN.
+        Je le fais comme toi :  
+Mais comptes-tu pour rien ce qu'il en coûte à feindre ?  
+
+    CLERMON, À PART.
+Taisons-nous, de son coeur nous aurions trop à craindre ;  
+Mais j'aurai lieu, je crois, de me féliciter.  
+
+
+## SCÈNE XVI. Clermon, Polidor, Constance, Marton.
+
+    CONSTANCE, ACCOURANT AVEC LE PLUS GRAND TROUBLE.
+Ah ! Ciel !  
+
+    POLIDOR.
+    D'où naît ce trouble ?  
+
+    CONSTANCE.
+        On vient de l'arrêter ;  
+
+    POLIDOR.
+Oui donc ?  
+
+    CONSTANCE.
+Le Chevalier. Je ne saurais survivre  
+À ce coup.  
+
+    POLIDOR.
+    Quel sujet ?  
+
+    MARTON.
+        Durand a fait un livre  
+Très peu goûté, dit-on, par le Gouvernement.  
+On l'a voulu conduire en prison. À l'instant,  
+Monsieur le Chevalier a tiré son épée ;  
+L'Exempt scandalisé d'une telle équipée  
+A trouvé le secret de le pétrifier,  
+En lui donnant à lire un morceau de papier.  
+De la prison enfin tous trois ont pris la route.  
+
+    CONSTANCE.
+Volez à son secours.  
+
+    MARTON, À PART.
+        L'orgueil est en déroute.  
+
+    POLIDOR, PÉNÉTRÉ.
+Constance... Malgré vous je lis dans votre coeur.  
+Imprudent que je suis, j'ai fait votre malheur !...  
+Pourquoi de vos secrets m'avoir fait un mystère ?  
+Eh quoi ! Ne suis-je pas votre ami, votre père ?  
+Notre sort peut changer avant la fin du jour.  
+Viens ; Clermon.  
+
+
+## SCÈNE XVII. CONSTANCE, MARTON.
+
+    CONSTANCE.
+        L'on dirait qu'il connaît mon amour.  
+Quel malheur, si j'allais perdre encor son estime !  
+
+    MARTON.
+Faites toujours l'enfant ! L'amour est-il un crime ?  
+
+    CONSTANCE, PRENANT L’ESSOR.
+Au contraire, Marton ; je le vois, je le sens ;  
+Oui, la vertu lui doit ses plus nobles élans :  
+Il élève mon coeur au-dessus du vulgaire.  
+Je n'étais jusqu'ici qu'une amante ordinaire ;  
+J'aimais le Chevalier, sans rien faire pour lui :  
+Je veux que par moi seule il soit libre aujourd'hui.  
+Qu'on connaisse mes feux, ou bien qu'on les ignore,  
+Peu m'importe, Marton, je sers ce que j'adore.  
+Tous les instants sont chers : viens, suis moi.  
+
+    MARTON.
+        Bon cela.  
+Le coeur en vain résiste, il faut en venir là.  
+
+
+# ACTE V.
+
+
+## SCÈNE PREMIÈRE. Polidor, Florimon.
+
+    POLIDOR, AVEC IMPATIENCE.
+Eh, courez donc, morbleu.  
+
+    FLORIMON.
+        Toujours venir, aller.  
+
+    POLIDOR.
+Philemon... Le perfide !... On vient de l'exiler ;  
+Et pour comble de maux, il est inexcusable :  
+J'ai lu cette brochure, elle est abominable.  
+
+    FLORIMON.
+Pourquoi faut-il ici que tout roule sur moi ?  
+Qu'on ne puisse pas vivre un seul instant pour soi.  
+
+    POLIDOR.
+Et de plus...  
+
+    FLORIMON, AVEC UNE PETITE HUMEUR.
+        Je fais tout, et pour comble de peine,   [27]
+Je l'apprends à l'instant de ma méridienne :  
+Je ne pourrai dormir peut-être que ce soir.  
+
+    POLIDOR, TOUJOURS VIVEMENT, POUR CONTRASTENT AVEC SON FRÈRE.
+Pour Philemon, il part, mais cherchons à ravoir  
+Le Chevalier.  
+
+    FLORIMON, APPELANT.
+    Eh !  
+
+    POLIDOR, AVANÇANT UNE CHAISE.
+        Qu'est-ce ? Il vous faut une chaise ?  
+La voilà. Concertons...  
+
+    FLORIMON, S’AGITANT.
+        Je suis mal à mon aise.  
+Eh !  
+
+    POLIDOR.
+    Que vous manque-t-il ?  
+
+    FLORIMON.
+    Un fauteuil.  
+
+    POLIDOR.
+        Le voilà.  
+Nous n'avons pas besoin de vos gens pour cela.  
+
+    FLORIMON.
+Quoi ! Vous ne craignez pas d'échauffer votre bile ?  
+Vous vous fatiguez trop.  
+
+    POLIDOR.
+        Non, non, soyez tranquille.  
+Avec votre sang-froid vous vous moquez, je crois.  
+
+    FLORIMON.
+Qu'on ne puisse pas vivre un seul instant pour soi !  
+
+    POLIDOR.
+Vous aimez vos enfants ?  
+
+    FLORIMON.
+        Vraiment oui, je les aime ;  
+Je ne le sens que trop à mon chagrin extrême :  
+Ils me feront mourir, sur-tout cet imprudent,  
+Qui va mal-à-propos défendre son Durand.  
+Voyons. Rêvez pour moi. Que faut-il que je fasse ?  
+
+    POLIDOR.
+Pour lui, chez le Ministre, aller demander grâce.  
+
+    FLORIMON, SE RÉCRIANT.
+Chez le Ministre ! Il loge au bout de l'Univers :  
+Il fait, vous le savez, le plus dur des hivers.  
+
+    POLIDOR.
+Je vous ai vu jadis avoir un coeur sensible.  
+Pour un enfant chéri faites donc l'impossible.  
+Morbleu, si je pouvais moi seul le secourir,  
+Voudrais-je partager avec vous ce plaisir !  
+
+    FLORIMON.
+Pour une fluxion, heureux si j'en suis quitte !  
+Ô nature, nature !... Eh, qu'on m'habille !  
+
+    POLIDOR.
+        Vite.  
+
+
+## SCÈNE II. Les Précédents, Domestiques qui se présentent avec le juste-au-corps de Florimon, Madame Florimon.
+
+    MADAME FLORIMON.
+Je sors pour un instant, et tout va mal ici...  
+Mon mari qu'on habille ! Ah, grands Dieux, qu'est ceci ?  
+Elle renvoie les Domestiques.
+
+
+    POLIDOR.
+A l'autre.  
+
+    MADAME FLORIMON, À SON MARI.
+        Y pensez-vous ! Eh, que voulez-vous faire ?  
+
+    FLORIMON.
+Moi ? Rien, si je pouvais.  
+
+    MADAME FLORIMON.
+    Pourquoi donc !  
+
+    FLORIMON.
+        C'est mon frère.  
+Qui prétend que je dois... aller... courir... venir...  
+Ô Dieux, quelle fatigue !  
+Il retombe sur son fauteuil.
+
+
+    MADAME FLORIMON.
+        Il vous fera mourir.  
+À Polidor.
+
+De vos bontés pour nous c'est une preuve claire :  
+Fatiguer mon mari, lui qui ne peut rien faire !...  
+
+    FLORIMON.
+Vraiment non.  
+Il s'endort peu-à-peu.
+
+
+    MADAME FLORIMON.
+        Me réduire à ne faire plus rien,  
+Moi ? Vraiment, tout ici s'en trouverait très bien !  
+Témoin le Chevalier et sa triste aventure.  
+Je le délivrerai.  
+
+    POLIDOR.
+    Vous, ma soeur ?  
+
+    MADAME FLORIMON.
+        J'en suis sûre.  
+Avec un peu de bavardage.
+
+Il est mon vrai portrait ; tout le monde le dit.  
+Qu'il m'a coûté de soins quand il était petit !  
+Les mères rarement se donnent tant de peine.  
+Mais moi...  
+
+    POLIDOR.
+        Ramenez-vous sans cesse sur la scène ;  
+Parlez-nous bien de vous, de vous, et puis de vous.  
+
+    MADAME FLORIMON.
+Moi ! Quelle fausseté !  
+
+    POLIDOR.
+        Vous vous moquez de nous.  
+Ne vous citez-vous pas depuis une heure entière ?  
+
+    MADAME FLORIMON. [28]
+C'est me calomnier d'une étrange manière.  
+
+    POLIDOR.
+Le moyen d'y tenir ! Voilà l'autre qui dort.  
+
+    MADAME FLORIMON.
+C'est qu'il compte sur moi.  
+
+    POLIDOR.
+        Le trait est par trop fort.  
+Puisque vote le voulez, agissez donc, Madame.  
+Avec le plus grand dépit.
+
+Elle exalte sa tête, et point du tout son âme.  
+Quelles gens ! Quel pays ! J'irai chercher des lieux  
+Ou l'on ait du plaisir à faire des heureux.  
+
+
+## SCÈNE III. Les Précédents, Constance, Le Chevalier, Clermon, Marton.
+
+    MARTON ET CLERMON, ACCOURANT.
+Monsieur et le Chevalier !  
+
+    MADAME FLORIMON.
+        Ah, que je suis charmée !  
+
+    POLIDOR.
+C'est lui !  
+
+    MADAME FLORIMON.
+        Chez le Ministre il m'aura réclamée.  
+
+    LE CHEVALIER.
+Ne plaignez plus mon sort ; non, j'en suis trop flatté.  
+Si vous saviez à qui je dois ma liberté !  
+
+    MADAME FLORIMON.
+À moi, sans contredit.  
+
+    LE CHEVALIER.
+        À l'aimable Constance.  
+Elle a pressé, prié, mais avec tant d'instance,  
+Les soeurs de Clidamant, ses enfants, ses amis  
+Qu'en ma faveur ses soins les ont tous réunis.  
+Eh, qui saura fixer la faveur sur ses traces,   [29]
+Si ce n'est la Vertu sous la forme des Grâces !  
+
+    POLIDOR.
+Comment nous acquitter ?  
+
+    CONSTANCE, MODESTEMENT.
+        En lisant dans mon coeur.  
+
+    LE CHEVALIER.
+Mon oncle, y lisez-vous l'excès de mon bonheur ?  
+
+    POLIDOR, VIVEMENT À CLERMON.
+Le Notaire... Il attend dans la chambre prochaine.  
+
+    FLORIMON, S ÉVEILLANT, AU CHEVALIER.
+Ah, te voilà, tant mieux ! J'ai bien eu de la peine.  
+Ah ça... Pour Philémon, vous savez, entre nous,  
+Que je ne puis agir... Je m'en rapporte à vous :  
+Voyez, arrangez tout pour le mieux, je vous prie :  
+Je sens bien qu'il y va du bonheur de ma vie...  
+Je vais me retirer tranquillement chez moi.  
+Qu'on ne puisse pas vivre un seul instant pour soi !  
+Il sort.
+
+
+
+## SCÈNE IV. Les Mêmes, excepté Florimon.
+
+    LE CHEVALIER.
+Quel triste événement vient altérer ma joie ?  
+Philémon, m'a-t-on dit, au malheur est en proie.  
+Mon oncle, est-il bien vrai ? Mon frère...  
+
+    POLIDOR.
+        Est exilé.  
+
+    MADAME FLORIMON.
+Exilé ?  
+
+    POLIDOR.
+    Pour son Livre.  
+
+    MADAME FLORIMON.
+        Il sera rappelé.  
+J'ai du crédit.  
+
+    POLIDOR.
+    Beaucoup.  
+
+    MADAME FLORIMON.
+        Laissez, laissez-moi faire,  
+J'arrangerai cela... Vous sentez bien, mon frère...  
+Qu'ayant connu les soeurs du Ministre au couvent,  
+Le Chevalier me doit son élargissement.  
+On rend, vous le voyez, justice à mon mérite.  
+Je vais pour Philémon solliciter bien vite.  
+Elle sort.
+
+
+
+## SCÈNE V. Polidor, Constance, Le Chevalier, Le Notaire, Clermon.
+
+    POLIDOR.
+Nous vous attendions tous. Pourrons-nous, sans éclat,  
+Trouver moyen, Monsieur, d'annuler le contrat  
+De Philémon.  
+
+    LE NOTAIRE.
+        Monsieur, il faut, au préalable,  
+L'aveu des accordés, sans quoi rien n'est faisable.  
+Madame le veut bien ; mais Monsieur Philémon  
+Sur cet article-là n'entendra pas raison.  
+
+    POLIDOR.
+Peut-il nous résister ? Son exil... Il l'ignore,  
+Mais...  
+
+    LE NOTAIRE.
+        Il peut, le sachant, vous résister encore ;  
+Croyez-moi, vous n'avez qu'un parti, la douceur.  
+
+    POLIDOR.
+La douceur !  
+
+    LE NOTAIRE.
+    Il faudrait le prier.  
+
+    LE CHEVALIER.
+        De grand coeur.  
+
+    LE NOTAIRE.
+Le dédommager...  
+
+    POLIDOR.
+    Qui ? Philémon ?  
+
+    LE NOTAIRE.
+        S'il l'exige.  
+
+    POLIDOR.
+Si je n'étouffe point, ma foi, c'est un prodige !  
+Des dédommagements après ce que j'ai fait !  
+Le traître !... Si, pour prix d'un signalé bienfait,  
+Il poussait à ce point et l'audace et le crime !...  
+Tout sert à redoubler le courroux qui m'anime.  
+Sachons s'il a le front...  
+
+    CONSTANCE.
+        Il porte ici ses pas.  
+
+    POLIDOR, DANS LA PLUS GRANDE AGITATION.
+Qu'il vienne ! Je veux voir...  
+
+    LE CHEVALIER.
+        Non, qu'il n'approche pas.  
+Mon Oncle, la colère agite trop votre âme ;  
+Dans un instant plus calme il vous fera...  
+
+    POLIDOR.
+        L'infâme !  
+J'en mourrai, je le sens. Combien il est cruel !...  
+
+    LE CHEVALIER.
+Nous ne souffrirons pas...  
+
+    CONSTANCE, L’ ENTRAINANT.
+        Venez, Monsieur.  
+
+    POLIDOR.
+        Ô Ciel !...  
+Oui, je sors un instant ; la fureur est trop prompte,  
+Et je veux de sang-froid l'accabler de sa honte.  
+
+
+## SCÈNE VI.
+
+    PHILÉMON, SEUL.
+De Durand me voilà défait bien plaisamment ;  
+Il ne me nuira pas, grâce au Gouvernement.  
+Avec une feinte douleur.
+
+Je suis vraiment fâché que, par étourderie,  
+Mon frère à son pédant serve de compagnie.  
+Dans le temps qu'on s'occupe à le faire sortir,  
+À sa maîtresse, moi, je travaille à m'unir :  
+J'achète de sa dot une terre jolie,  
+Aux portes de Paris, mais seulement à vie.  
+Ensuite, pour jouir d'un plus gros revenu,  
+Je placerai beaucoup, beaucoup à fond perdu.  
+Ricanant.
+
+Mes enfants ?... Je n'ai pas l'honneur de les connaître.  
+Il se jette dans un fauteuil.
+
+À la Cour maintenant daignerais-je paraître ?  
+Ou, Roi dans mon Palais, entouré de mes gens,  
+Feindrai-je d'insulter aux soins des Courtisans ?  
+Non ; il faut une Charge. Oui, mais il m'en faut une  
+Qui rapporte beaucoup, qui, sans être importune,  
+Soumette tout un peuple à mes caprices vains,  
+Et donne parfois l'air de servir les humains.  
+D'un air froid et réfléchi.
+
+Voilà, pour être heureux, ce qu'un sage peut faire...  
+Oui, c'est à peu près tout.  
+
+
+## SCÈNE VII. Philémon, Polidor. Constance, Le Chevalier, Marton, Clermon, Durand, restent au fond du Théâtre, et approchent doucement à mesure que la conversation s'échauffe entre Philémon et Polidor.
+
+    POLIDOR ENTEND LE DERNIER VERS, ET DU D’UN TON SEC ET PROFOND.
+        LA fortune légère  
+A souvent des revers pour les coeurs vicieux.  
+
+    PHILÉMON.
+Pensez-vous ?...  
+
+    POLIDOR.
+        Tout concourt à dessiller mes yeux.  
+Ces éloges outrés que, d'un ton emphatique  
+Vous donnez aux vertus, l'homme qui les pratique,  
+Loin d'affecter d'en faire un éloge éternel,  
+En secret, dans son coeur, leur élève un autel :  
+Votre art à démêler des vices dans les autres,  
+À les mettre en avant pour mieux cacher les vôtres ;  
+Ce Livre dangereux, cet ouvrage pervers,  
+Qui jeta votre frère et Durand dans les fers...  
+
+    PHILÉMON.
+Il n'est pas de moi...  
+
+    POLIDOR.
+        Vois à quoi le vice engage.  
+Il te force à rougir même de ton ouvrage.  
+L'Imprimeur a parlé.  
+
+    PHILÉMON, À PART.
+        Je n'en puis revenir.  
+
+    POLIDOR.
+Pour son propre intérêt il devait te trahir.  
+Pourquoi faire à Durand un présent si nuisible ?  
+
+    PHILÉMON.
+Hélas ! Il faut s'en prendre à mon coeur trop sensible.  
+Hors mon ouvrage, alors je ne possédais rien ;  
+Je gémissais de voir mon Précepteur sans bien ;  
+Il fut, me suis-je dit, l'appui de ma jeunesse ;  
+C'est à moi désormais d'étayer sa vieillesse.  
+
+    POLIDOR.
+Étayer sa vieillesse ! Eh comment ! Juste Ciel !  
+En mettant sous son nom un Livre plein de fiel ;  
+Enfant né du dépit, plutôt que de l'étude,  
+Publié par l'orgueil et par l'inquiétude,  
+Où l'esprit de parti s'obstine à rejeter  
+Tout ce qu'il n'a pas eu la gloire d'inventer ;  
+Où, donnant des conseils dictés par l'infamie,  
+Vous offrez les moyens d'opprimer la patrie.  
+
+    PHILÉMON.
+On veut se faire un sort... on cherche un protecteur.  
+
+    POLIDOR.
+Eh ! Quel mortel aurait assez peu de pudeur  
+Pour avouer l'auteur d'un misérable livre  
+Où l'Égoïsme est peint comme un système à suivre ?  
+De ce principe affreux conçois-tu les effets ?  
+Il arme contre toi femme, enfants et valets.  
+Que dis-je ? L'univers ! Ton Livre est son excuse.  
+Le faible, pour te perdre, a recours à la ruse ;  
+Le puissant, aguerri par vingt crimes divers,  
+Pour usurper tes biens, te jette dans les fers,  
+Et la Société, par degrés corrompue,  
+Elle qui fut jadis à ton secours venue,  
+Sur l'intérêt du jour décide de ton sort,  
+Et te force à gémir sous la loi du plus fort.  
+Vingt brigands réunis, d'après ton bel ouvrage,  
+Pourront soumettre un peuple au joug de l'esclavage.  
+Ton Livre à chaque mot distille le poison.  
+Qui t'a donc conseillé d'écrire ?  
+
+    PHILÉMON, FIÈREMENT.
+        Ma raison.  
+
+    POLIDOR, IRONIQUEMENT.
+Fort bien : votre raison vous est très favorable ;  
+L'exil en est le prix.  
+
+    PHILÉMON.
+        Oh malheur qui m'accable !  
+À part.
+
+Cet exil si cruel pour les hommes communs,  
+Me fait rompre à la fois vingt liens importuns,  
+Et je pourrai tout seul jouir de ma richesse.  
+Haut.
+
+Plus de frein. Vous voyez l'excès de ma tristesse.  
+Ah !  
+
+    POLIDOR.
+        Je reprends les soins dont mon coeur vous chargeait.  
+
+    PHILÉMON.
+Douleur trop vive ! Adieu.  
+Il veut sortir.
+
+
+    POLIDOR, L’ARRÊTANT.
+        Mes billets, s'il vous plaît.  
+
+    PHILÉMON.
+Un mortel qu'on arrache au sein de sa patrie,  
+A besoin, pour traîner une importune vie...  
+
+    POLIDOR.
+Quoi ! Vous auriez le front de vous approprier  
+Le dépôt qu'en vos mains je daignai confier ?  
+Je vous l'avais remis pour rendre heureux mon frère,  
+Votre mère, Constance à qui je sers de père.  
+Que dira-t-on de vous ?  
+
+    PHILÉMON.
+        L'opinion d'autrui  
+Au Sage importe peu, s'il est bien avec lui.  
+Au sein de la vertu mon âme est fort tranquille.  
+
+    POLIDOR.
+Ta vertu disparaît devant tout vice utile.  
+Et la dot de Constance, en quatorze billets,  
+Va-t-elle avoir le sort de mes autres effets ?  
+Allez-vous la garder ?  
+
+    PHILÉMON.
+        Du moins je l'imagine.  
+Un bon contrat m'unit avec votre orpheline.  
+J'aime qu'on soit fidèle à ses engagements.  
+Je soutiendrai mes droits vivement et longtemps.  
+
+    POLIDOR.
+Le bourreau me ferait haïr la bienfaisance !  
+
+    MARTON, BAS À CLERMON.
+Il est furieux...  
+
+    CLERMON, BAS.
+        Bon ! Le dénouement avance.  
+
+    POLIDOR.
+Un bienfaiteur réduit à disputer son bien !  
+
+    LE CHEVALIER.
+Eh quoi ! De votre coeur ne puis-je obtenir rien ?  
+
+    POLIDOR.
+Le traître ! De quel front ! Avec quelle imposture,  
+De l'égoïsme il m'a demandé la peinture !  
+Qui pouvait mieux que toi nous en tracer l'horreur ;  
+Le monstre n'est-il pas tout entier dans ton coeur ?  
+
+    PHILÉMON.
+Je suis las d'essuyer un injuste murmure.  
+Que me reproche-t-on ? L'instinct de la nature ?  
+C'est d'après ses leçons, ses mouvements secrets  
+Que tout être vivant songe à ses intérêts ?  
+Voyez ces gens de bien, crus tels sur leur parole ;  
+L'intérêt personnel est leur unique idole,  
+Sous les noms de vertu, d'humanité, d'honneur,  
+Il fait s'envelopper d'un voile séducteur.  
+La politesse n'est que le désir de plaire.  
+Regardant son frère.
+
+La bravoure, l'honneur, sont chez le militaire   [30]
+La dévorante soif d'un prompt avancement.  
+Regardant Constance.
+
+Les élans, les transports d'un coeur reconnaissant  
+Sont l'art de mendier des secours plus utiles.  
+Ricannant.
+
+Je pense voir partout des débiteurs habiles,  
+Qui devant peu d'abord, ont soin de s'acquitter  
+Pour acquérir le droit de beaucoup emprunter.  
+À Polidor.
+
+Parcourez avec moi chaque état de la vie :  
+Toujours quelque intérêt à la vertu s'allie.  
+Vous-même descendez au fond de votre coeur...  
+
+    POLIDOR, SURPRIS.
+Moi ?  
+
+    PHILÉMON.
+        Mais oui. Si pour vous il n'était pas flatteur  
+D'être entouré de gens qui vous soient redevables,  
+Si vous croyant par-là plus grand que vos semblables,  
+Vous ne préfériez pas à vos biens ce plaisir,  
+Vous vous fussiez gardé de vous en dessaisir.  
+
+    POLIDOR, MODESTEMENT.
+Si l'ardeur que je montre à rendre un bon office,  
+À d'austères censeurs pouvait paraître un vice,  
+Avec quelque indulgence, il doit être traité,  
+Puisqu'il tourne au profit de la société.  
+Comparez nos deux coeurs, et décidez vous-même  
+Si nous nous conduisons par un pareil système.  
+
+    PHILÉMON.
+Vous triomphez ! Je veux vous prouver aujourd'hui  
+Que je fais m'immoler à l'intérêt d'autrui.  
+Je renonce à mes droits, à Constance, à ma flamme ;  
+Oui, j'annule un contrat encor cher à mon âme.  
+J'exige.  
+
+    POLIDOR.
+    Monsieur exige.  
+
+    PHILÉMON.
+        Un bon écrit  
+Dans lequel il sera très-formellement dit :  
+« Que puisque je renonce à la main de Constance,  
+À tous les droits qu'ici me donne ma naissance,  
+Mon cher Oncle consent à ne rien répéter  
+Sur les billets que j'ai. »  
+
+    CLERMON, À PART, À POLIDOR. [31]
+        Bon ! Daignez m'écouter.  
+
+    POLIDOR, LE REPOUSSANT.
+Tais toi !  
+
+    CONSTANCE, À POLIDOR.
+        Je vous connais : votre âme bienfaisante  
+Voudra tout immoler au bonheur d'une amante.  
+Un si grand sacrifice affligerait mon coeur.  
+Trop heureuse déjà d'échapper à Monsieur,  
+J'attendrai sous vos yeux qu'un temps plus favorable  
+Unisse mon destin à l'Amant tendre, aimable,  
+Qui, par mille vertus, est digne de mon choix.  
+
+    CLERMON, BAS À POLIDOR, L’ENTRAÎNANT.
+Qu'à l'écart je vous parle ; il le faut, je le dois.  
+
+    LE CHEVALIER.
+Certain de votre coeur, adorable Constance,  
+Votre amant attendra la main sans défiance ;  
+Et si je vous mérite en servant mon pays,  
+Voilà de mes travaux et l'objet et le prix.  
+
+    POLIDOR, BAS À CLERMON.
+Quoi ! Dans le porte-feuille...  
+
+    CLERMON, BAS.
+        Avant de vous le rendre  
+Tout était fait. Cent fois j'ai voulu vous l'apprendre,  
+Mais mon zèle craignait... jusques à votre coeur.  
+Il lui remet les billets.
+
+Voilà les bons : il n'a que ceux de l'imposteur.  
+
+    POLIDOR, BAS À CLERMON.
+Je devrais te gronder et condamner ta ruse,  
+Mais je ne le saurais, le motif nous excuse.  
+
+    PHILÉMON.
+Décidez-vous, enfin ! Je suis maître de tout,  
+Et vous hésitez ?  
+
+    POLIDOR, AVEC UN RESTE DE BONTÉ.
+        Crains de me pousser à bout.  
+Rentre dans le devoir.  
+
+    PHILÉMON.
+        Bon ! il est trop stérile ;  
+Le bien seul réunit l'agréable et l'utile.  
+Grâce au mien, désormais Cosmopolite heureux,  
+J'ai le choix des climats, des honneurs et des Dieux.  
+Je vais faire escompter...  
+
+    POLIDOR, LE RAMÈNE AVEC FORCE.
+        Tremble ! ton imprudence  
+A de mon coeur enfin lassé la patience :  
+Trouve ton châtiment dans l'objet de tes voeux.  
+Tes Billets sans valeur, viennent d'un malheureux  
+Qui sacrifia tout au motif qui t'entraîne.  
+Ton semblable me venge et satisfait ma haine.  
+
+    PHILÉMON, ANÉANTI.
+Comment, que dites-vous ? Ces billets au porteur...  
+
+    POLIDOR.
+Ils sont bien précieux : ils démasquent ton coeur.  
+Va, dépouille avec nous toute ombre d'artifice ;  
+De tes droits prétendus signe le sacrifice.  
+Sans ressource aujourd'hui, sans crédit et sans bien,  
+Tu conçois qu'en plaidant tu ne gagnerais rien :  
+Fuis, et de ton destin laisse-moi seul l'arbitre ;  
+Tu le dois, tu le peux, et même à plus d'un titre.  
+Je veillerai sur toi par mes correspondants.  
+
+    LE CHEVALIER, EMBRASSANT SON ONCLE.
+Ah ! Je vous reconnais à de tels sentiments.  
+
+    DURAND, À PHILÉMON, D’UN TON PÉDANT.
+Je vous l'avais prédit ; et, dans votre jeune âge,   [32]
+Tout en lisant Sénèque...  
+
+    POLIDOR.
+        Oh ! tout ce verbiage  
+N'est que pour en venir à votre pension !  
+Vous l'aurez, comptez-y ; mais à condition  
+Que vous suivrez ses pas : n'est-il pas votre ouvrage ?  
+
+    DURAND.
+Per Jovem !  
+
+    POLIDOR.
+        Je ne puis vous punir davantage.  
+
+    PHILÉMON, APRÈS S’ÊTRE REMIS PEU À PEU.
+Mon oncle vient de loin, il a les vieilles moeurs.  
+Quand il aura porté des yeux observateurs  
+Sur les individus de notre coin de terre,  
+Il sera moins surpris de la petite guerre  
+Que l'intérêt suscite et perpétue entre-eux.  
+Mon siècle et mon pays ont adopté ces jeux.  
+En signant.
+
+J'ai joué de malheur, je quitte la partie.  
+Peut-être reviendrai-je un jour dans ma patrie,  
+Et, plus profond dans l'art d'attirer tout à soi,  
+Je n'aurai plus alors les rieurs contre moi.  
+Philemon sort avec Durand.
+
+
+
+## SCÈNE VIII et DERNIÈRE. Le Chavalier, Constance, Polidor, Le Notaire, Clermon, Marton.
+
+    POLIDOR, SE JETANT ENTRE LES BRAS DES AMANTS.
+Venez me consoler.  
+
+    CONSTANCE.
+        Que la reconnaissance  
+Nous jette maintenant...  
+
+    POLIDOR, LA RELEVANT.
+        Vous me fâchez, Constance ;  
+En faisant des heureux je travaille pour moi.  
+Philémon vous l'a dit : il a raison, ma foi,  
+Je le sens. Faites-vous des jours dignes d'envie ;  
+Il les unit.
+
+Embellissez ainsi les restes de ma vie.  
+Mais de cette leçon souvenez-vous tous deux :  
+Un mortel, quel qu'il soit, s'il veut seul être heureux,  
+Recueille le mépris pour unique salaire,  
+Et trouve à ses projets tout le monde contraire.  
+On l'aime, on l'encourage, et tout lui sert d'appui,  
+S'il veut que son bonheur concourre au bien d'autrui.  
+
+
+# ANNEXE.
+
+
+## VARIANTE I. Vers 963.
+
+J'ai rejeté dans les notes tous les Vers qui faisant longueur, ont occasionné des murmures, mais de très grands murmures, à la première représentation.
+
+LE CHEVALIER, à Marton.
+
+Cherchons quelque moyen.
+
+MARTON.
+
+Pourquoi ?
+
+Madame veut se perdre ; il faut la laisser faire.
+
+À Constance.
+
+Vous aurez un époux qui ne pourra vous plaire ;
+
+Vous passerez les jours et les nuits dans les pleurs ;
+
+Le dépit, le regret aigriront vos malheurs :
+
+Mais toutes ces horreurs ne sont que bagatelle :
+
+La sotte vanité, fière et contente d'elle,
+
+Vous dira que ce trait, grand, sublime, divin,
+
+Vous élève au-dessus du sexe féminin ;
+
+N'est ce rien ? Oh que si ! Plus qu'on ne l'imagine.
+
+LE CHEVALIER.
+
+Ah ! ne l'accable pas !
+
+CONSTANCE.
+
+Ce discours m'assassine.
+
+Cruels, respectez donc mes maux et mon devoir.
+
+Que puis-je ?
+
+LE CHEVALIER.
+
+D'un seul mot ranimer mon espoir, etc,
+
+On m'a reproché que la tirade de Marton ressemblait à celle de Dorine dans le second Acte du Tartuffe : "Vous irez par le Coche en sa petite ville, etc." Quelle critique, grands Dieux ! et comme elle m'humilie !
+
+
+## VARIANTE II - Vers 978.
+
+⁎ Je connais notre coeur ; l'amour-propre est son guide ;
+
+À nos tendres penchants sans réserve il préside :
+
+Il nous force à brûler d'abord d'un feu discret,
+
+Ou nous laisse avouer - bien bas - notre secret ;
+
+Mais, des que les jalous ont vu clair dans notre âme,
+
+L'amour-propre lui mème exalte notre flame :
+
+De Tyran qu'il croit, c'est un Dieu bienfaisant,
+
+Qui plaide mieux que nous le cause d'un Amant ;
+
+Il nous prouve qu'un goût le leçon,
+
+Comme on vise à l'estime !
+
+LE CHEVALIER.
+
+Ah, ma chère Marton !...
+
+MARTON.
+
+C'est à ce point qu'en est justement votre Amante ;
+
+Et d'allieurs, croyez-moi, etc.
+
+FIN DE LA SCÈNE
+
+
+## VARIANTE III - Vers 1220.
+
+(...) Accusez-moi plutôt de singularité,
+
+Pour avoir constamment fui la célébrité.
+
+J'imaginai cent fois, au printemps de ma vie,
+
+Des modes que Paris aimait à la folie,
+
+Et ne voulus jamais qu'on leur donnât mon nom :
+
+C'est pourtant le moyen de se faire un renom.
+
+L'inventeur d'un chapeau, d'un pouf, d'une voiture,
+
+Du temps et de l'oubli brave à jamais l'injure.
+
+POLIDOR.
+
+Quel bavardage !... Allons, voilà l'autre qui dort, etc.
+
+
+## VARIANTE IV - Vers 1388.
+
+La sagesse est l'orgueil chez un sexe charmant :
+
+Aussi voit-on souvent des prudes affectées,
+
+N'afficher la vertu que pour être citées,
+
+Et jeter sur leur sexe un coup d'oeil méprisant.
+
+
+## VARIANTE V. Vers 1418.
+
+POLIDOR.
+
+Paix.
+
+LE NOTAIRE.
+
+Il faut que l'accord soit par devant Notaire.
+
+PHILÉMON.
+
+Sans doute.
+
+LE NOTAIRE, à part, avec satisfaction.
+
+Un bon contrat de plus que je vais faire.
+
+POLIDOR.
+
+Ingrat ! tu veux tourner mes bienfaits contre moi,
+
+Et m'avilir au point de me faire la loi.
+
+CLERMON.
+
+Un mot.
+
+CONSTANCE.
+
+Je vous connais, etc.
+
+-------
+
+
+[1] (1) C'est comme à un Comédien que l'Auteur a donné ce rôle à M. Préville, et non comme à un homme chargé de l'emploi des Valets. On prie les Acteurs de Province de faire, à cette note, l'attention la plus sérieuse.
+		(2) Clermon est un vieux Domestique, dont le zèle et la probité ont mérité la confiance de M. Polidor. Les circonstances ont forcé l'Auteur à donner ce rôle à M. Dazincourt, qui l'a rempli avec beaucoup d'intelligence ; mais pouvait-elle suppléer aux moyens, que sa jeunesse lui refusait ?  
+
+[2] Ergo : Terme de dogmatique tiré du Latin, qui signifie la conclusion d'un argument.
+
+[3] Gueux : Indigent, qui est réduit à mendier. FC
+
+[4] Tartufffe : Personnage de Molière. Faux dévot, hypocrite, coquin se servant du manteau de la religion. L
+
+[5] Phryné : nom d'une célèbre courtisane grecque. S'emploie pour désigner une femme aux moeurs dissolues. L
+
+[6] Culs-de-lampes : On le dit aussi en imprimerie de ces figues qu'on met pour remplir les pages à demi-vides ; ou encore de ces lignes qui aboutissent en pointe à la fin d'un chapitre, ou d'un traité, qui ne vont point jusqu4au bout de la page. F
+
+[7] Bellone : dieu qui personnifie la guerre et accompagne Mars.
+
+[8] Aristote : Philosophe grec, a été le récepteur d'Alexandre le Grand.
+
+[9] Rets : Filet pour prendre du poisson, du gibier. L
+
+[10] Prôneur : Celui qui loue avec excès. L
+
+[11] Phénix : Oiseau fabuleux, unique en son espèce qui, disait-on, vivait plusieurs siècles, et qui, brûlé, renaissait de sa cendre. L
+
+[12] Ode : Terme de poésie française. Poème lyrique, mêlé de grands et de petits vers, composés d'un nombre égal de rimes plates, ou croisées, et qui se distingue par stances, ou strophes, dans laquelle la même mesure est observée. F
+
+[13] Flore : Terme de la religion des anciens Latins. La déesse des fleurs. L
+
+[14] Épitre : lettre, missive. Il ne se dit maintenant XVIIème que de petites lettres, ou vers qu'on écrit à ses familiers amis, ou des épîtres liminaires ou dédicatoires qu'on met devant des livres.
+
+[15] Thalie : Une des neuf muses, présidait à la comédie et à l'épigramme. Thalie est aussi l'une des trois grâces. B
+
+[16] Fat : Sot, sans esprit, qui ne dit que des fadaises. F
+
+[17] Apanage : Fig. Ce qui est le propre de quelqu'un, de quelque chose. L
+
+[18] Jacquet : Le mot Anglais est Jockey, que nous prononçons comme Jacquet. Note de l'auteur
+
+[19] Heuyduque : Heyduc. Soldat hongrois à pied armé d'une sabre, et d'une petite hache. Il porte un bonnet garni de plumes, et un habit des livrées de Prince qu'il sert. F
+
+[20] Thémis : déesse de la justice chez les grecs, fille d'Uranus ou de Titan, et nourrice d'Apollon.
+
+[21] Voir annexe : les variantes faites par l'auteur.
+
+[22] Voir annexe les variantes de l'auteur.
+
+[23] Plaute : poète comique latin, né vers 227 avant JC à Sarsine (Ombrie), mort en 183, était directeur de troupe en même temps qu'auteur, et jouait souvent lui-même. (...) Plaute avait composé, dit-on, jusqu'à 120 pièces, mais on lui en attribuait beaucoup qui n'étaient pas de lui. Nous n'avons plus que 20 de ses pièces dont Meneschmes. B
+
+[24] Filou : se dit par extension d'un trompeur subtil, d'un escroc, et de tous ceux qui se servent de mauvaise voies pour s'emparer du bien d'autrui. Se dit aussi d'un coupeur de bourse ; de celui qui vole par adresse, ou par surprise. F
+
+[25] Fi : Particule qui sert à faire une exclamation pour témoigner le mépris, la haine, l'aversion qu'on a pour quelque personne ou quelque chose. F
+
+[26] Genre huamin : terme courant dans le théâtre, mais ici l'auteur semble faire référence au vers 96 du Misanthrope : "Est de rompre en visière à tout le genre humain."
+
+[27] Méridienne : On dit faire la méridienne, lorsqu'on se couche après le dîner, et qu'on prend un peu de repos. F
+
+[28] Voir annexe, la variante du texte.
+
+[29] Grâce : Dans le langage des poètes et des païens, divinité fabuleuse. Il y en avait trois qu'on peignait toutes nues, et qu'on feignait être de la suite de Vénus ; on les nommait Aglaïa, Thalie et Euphrosyne ; elles étaient filles de Jupiter, compagnes de Mercure.T
+
+[30] Voir l'annexe, pour la variante du texte suivant le vers 1389. 
+
+[31] Voir en annexe la variante du texte qui suit le vers 1418.
+
+[32] Sénèque : (le Philosophe) né à Cordoue en l'an 3 de J.C., étudia l'éloquence sous son père et suivit d'abord le barreau. Son talent oratoire avait donné ombrage à Caligula, il quitta la carrière pour s'adonner à la philosophie. (....) A la mort de Caligula, il courut la carrière des honneurs et arriva à la questure. (...) Nous avons un grand nombre de d'écrits philosophiques de Sénèque. (...) Partout il prêche la morale le plus sévère et enseigne surtout le mépris de la mort. (...) On a sous le nom de Sénèque dix tragédies. B

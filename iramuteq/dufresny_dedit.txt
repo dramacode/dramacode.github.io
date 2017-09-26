@@ -1,0 +1,1251 @@
+
+
+**** *book_ *id_I01 *act_I *date_1719
+
+-*who_valere
+Quoi ! Ne pouvoir tirer raison de mes deux tantes !
+
+-*who_isabelle
+Je n'en puis revenir. Quelles extravagantes !
+
+-*who_valere
+Oui, plus j'y pense, et moins je vois d'expédients...
+
+-*who_isabelle
+Avoir pour un neveu des procédés criants !
+
+-*who_valere
+Nous n'en tirerons rien.
+
+-*who_isabelle
+      Ô dieux!
+
+-*who_valere
+      Tantes cruelles,
+Depuis dix ans toujours injustices nouvelles,:
+Juste ciel !
+
+-*who_isabelle
+      Quel travers ! mais....
+
+-*who_valere
+      Quelle cruauté !
+Se désoler ainsi chacun de son côté,
+Sans trouver nul moyen de réduire ces folles !
+
+-*who_isabelle
+Mon père leur a dit de piquantes paroles,
+Et va les menacer encor séparément.
+Car chacune se tient dans son appartement.
+
+-*who_valere
+Oui, depuis peu je vois que toutes deux s'évitent,
+Se disent quelques mots en passant, et se quittent.
+Pour moi, quand je leur parle, elles tournent le dos ;
+Leur dureté pour moi paraît à tout propos.
+
+-*who_isabelle
+Leur dureté pour vous les condamne. Ah, Valère !
+Elles poussent trop loin leur mauvais caractère :
+Ne vous pas aimer !
+
+-*who_valere
+      Moi, j'espérais que par vous
+Mes deux tantes feraient quelque chose pour nous,
+Et que vous ayant vue, adorable Isabelle,
+Elles s'attendriraient.
+
+-*who_isabelle
+      Leur barbarie est telle,
+Qu'elles parlent de vous avec aversion.
+
+-*who_valere
+Vous voir, n'approuver pas ma tendre passion,
+Ah ! Quel travers d'esprit !
+
+-*who_isabelle
+      Pouvoir haïr Valère !
+Leur mauvais coeur me fait trembler, j'en désespère.
+
+-*who_valere
+Votre père pourtant va les presser ; ainsi
+Nous espérons encore ; il va nous joindre ici.
+
+-*who_isabelle
+Oui, donnons-nous au moins ce moment d'espérance,
+Mais je suis indignée encore, quand je pense
+À leurs derniers discours.
+
+-*who_valere
+      Sur elles vous comptiez ;
+Car elles vous ont fait hier cent amitiés.
+
+-*who_isabelle
+C'est par-là que je vois qu'elles m'ont méprisée.
+Car c'est en m'embrassant qu'elles m'ont refusée.
+La prude méprisante avec ses airs hautains
+Prend un ton doucereux, et mêle à ses dédains
+Et caresse affectée, et fade raillerie ;
+Vous mord en vous flattant, talent de pruderie :
+« Ma tendresse pour vous, m'a-t-elle dit là-haut,
+Fait que je ne veux pas vous marier sitôt,
+C'est-à-dire, donner au neveu qui me presse,
+Du bien pour satisfaire une folle tendresse.
+Moi! Me rendre complice en vous autorisant ! »
+Et cent discours pareils d'un ton demi-plaisant.
+« Faites, faites plutôt contre le mariage,
+Comme nous, un dédit qui vous maintienne sage.
+Pour vous faire imiter notre force d'esprit,
+Nos refus vous tiendront du moins lieu de dédit.»
+
+-*who_valere
+Voilà ses sots discours, toujours même rubrique.
+Mais rien de si borné que son esprit gothique.
+Sans monde, sans bon sens, ne hantant que sa soeur,
+Moins dure qu'elle, mais plus folle par malheur.
+
+-*who_isabelle
+Je suis contre Araminte un peu moins indignée.
+Même dans des moments j'ai cru l'avoir gagnée,
+Mais son esprit, sujet aux révolutions,
+S'agite en même temps de plusieurs passions.
+Dans sa vivacité brouillonne et turbulente,
+Voici ce que m'a dit à peu près cette tante :
+« J'extravague parfois, mais j'ai des sentiments ;
+J'aimerais l'amour, mais j'abhorre les amants.
+Abhorrez-les aussi, je le veux, je l'ordonne.
+Sans cesse je promets, mais jamais je ne donne.
+Je hais bien mon neveu, mais je vous aime tant.»
+De ses galimatias je conclurais pourtant
+Qu'elle ferait pour vous plus que sa soeur aînée;
+Mon père vient.
+
+-*who_valere
+      Je vais savoir ma destinée.
+
+-*who_isabelle
+Je tremble. Ah ! Je le vois accablé de chagrin.
+
+-*who_valere
+Son abord me saisit, mon malheur est certain.
+
+**** *book_ *id_I02 *act_I *date_1719
+
+-*who_geronte
+Vous devinez assez, en voyant ma tristesse,
+Que je n'ai qu'un refus : ma bonté, ma tendresse
+En cette occasion m'ont trop parlé pour vous.
+Prenez votre parti, ma fille.
+
+-*who_isabelle
+      Partons-nous ?
+
+-*who_geronte
+Oui, ma fille.
+
+-*who_valere
+      Qu'entends-je !
+
+-*who_isabelle
+      Ah ! Quel coup pour Valère !
+
+-*who_geronte
+Vos tantes ont rendu ce départ nécessaire.
+
+-*who_valere
+Quoi ! Charmante Isabelle, il ne faut plus vous voir ?
+Quoi ! Monsieur, vous voulez me mettre au désespoir ?
+Vous allez m'arracher Isabelle ?
+
+-*who_geronte
+      Oui, Valère.
+
+-*who_valere
+Ah ! Vous allez du moins conjurer votre père
+De rester à Paris encore quelques jours.
+
+-*who_isabelle
+Non, Valère.
+
+-*who_valere
+      Eh ! Monsieur...
+
+-*who_geronte
+      Inutiles discours.
+
+-*who_valere
+Ah! Si vous le vouliez, adorable Isabelle....
+
+-*who_geronte
+Je ne le voudrais pas ; mais par bonheur pour elle,
+Elle veut là-dessus ce qu'elle doit vouloir,
+Retourner en province, enfin ne plus vous voir.
+
+-*who_valere
+Eh ! Vous y consentez ?
+
+-*who_isabelle
+      Il le faut bien, Valère.
+Je vous donnais mon coeur par l'ordre de mon père,
+J'obéissais alors : il veut présentement
+Que je vous l'ôte, il faut l'avouer franchement,
+Je n'ai pas sur ce point pareille obéissance ;
+Mais je pars.
+
+-*who_valere
+      Quoi ! Monsieur, m'ôter toute espérance ?
+
+-*who_geronte
+Il faut bien vous l'ôter, puisque je n'en ai plus.
+Vous espériez tirer quarante mille écus
+Des restitutions que nous feraient vos tantes,
+Je vous le dis encor, ces deux extravagantes
+S'en tiennent au dédit qu'elles ont fait pour vous,
+Disant, vous ne pouvez rien exiger de nous,
+Qu'en cas que de nous deux quelqu'une se marie.
+Elles ont cinquante ans. C'est une raillerie
+De croire rien tirer d'un semblable dédit
+Il me faut de l'argent, à moi, mon bien périt;
+On me ruine ; enfin je dois, en homme sage,
+Faire dans ma province un autre mariage
+Qui me tire d'affaire.
+
+-*who_valere
+      Il est vrai. Mais enfin....
+
+-*who_geronte
+Brisons là-dessus. C'est avec bien du chagrin :
+Mais nous partons demain, il le faut.
+
+-*who_isabelle
+      Ah, Valère !
+Si je suis par raison les ordres de mon père,
+Soyez sûr qu'en partant...
+
+-*who_geronte
+      Abrégeons les adieux :
+Quand il faut se quitter, le plus tôt, c'est le mieux.
+
+-*who_valere
+Je suis au désespoir. Ah ! Ce départ me tue.
+
+**** *book_ *id_I03 *act_I *date_1719
+
+-*who_frontin
+Monsieur ?
+
+-*who_valere
+      Qu'est-ce donc ?
+
+-*who_frontin
+      C'est Frontin qui vous salue.
+
+-*who_valere
+Que vois-je ?
+
+-*who_frontin
+      Vous voyez votre valet Frontin.
+Qui portait la livrée encore ce matin.
+
+-*who_valere
+Que veut dire cela ? Pourquoi cet équipage ?
+
+-*who_frontin
+Vous ne pourrez jamais le deviner, je gage.
+
+-*who_valere
+Quel habit as-tu donc ? C'est un des miens, je crois.
+
+-*who_frontin
+Cela se pourrait bien, car il n'est point a moi.
+
+-*who_valere
+Et ma perruque ?
+
+-*who_frontin
+      Bon ! Est-ce que j'en achète ?
+J'ai trouvé celle-là sous ma main toute faite,
+Et votre plus beau linge, et votre gros brillant
+
+-*who_valere
+Je t'ai vu quelquefois faire l'extravagant,
+Mais jamais tu ne fus à tel point d'insolence.
+
+-*who_frontin
+Cela vient tout à coup, monsieur, par l'opulence.
+
+-*who_valere
+Tu prends fort mal ton temps, maraud, pour plaisanter.
+
+-*who_frontin
+Je prends mon temps fort bien, et j'ose me vanter
+De savoir ménager les bons moments d'un maître.
+
+-*who_valere
+A mes yeux ainsi fait avoir osé paraître !
+
+-*who_frontin
+Je m'en suis bien gardé, monsieur, jusqu'à présent ;
+Et vous m'eussiez traité de maraud, d'insolent,
+Ne travaillant d'abord qu'à mes propres affaires.
+J'ai pris pour me cacher tous les soins nécessaires,
+Vous m'auriez empêché d'agir comme j'ai fait.
+Tromper finement, c'est vertu dans un valet ;
+Vous auriez cru que c'est un vice dans un maître.
+C'est à l'extrémité que je vous fais connaître...
+Vous êtes scrupuleux ; enfin, il a fallu
+Ce que j'ai fait pour vous, le faire à votre insu.
+
+-*who_valere
+Qu'as-tu donc fait pour moi !
+
+-*who_frontin
+      C'est une bagatelle,
+Je travaille à vous faire épouser Isabelle.
+
+-*who_valere
+Frontin, mon cher Frontin , tu travailles pour moi.
+Par quel moyen ? Comment ? Et vite explique-toi.
+
+-*who_frontin
+Je m'explique d'abord, moi, sur ma récompense:
+C'est par-là que toujours mon zèle ardent commence.
+Si je vous fais avoir votre Isabelle...
+
+-*who_valere
+      Eh bien ?
+
+-*who_frontin
+Linge, habits, diamant, j e ne vous rendrai rien.
+Si l'habit m'est trop long, trop court, vaille que vaille :
+Mais pour le diamant, il est fait pour ma taille.
+
+-*who_valere
+Je te donnerai tout.
+
+-*who_frontin
+      Écoutez mon récit.
+Avec quelque pistole et ce brillant habit,
+Trouvant au lansquenet quelques cartes heureuses,
+Et me faisant lorgner par de vieilles joueuses,
+Avec une, surtout, j'ai fait un petit fond.
+Elle a l'esprit stérile, et le babil fécond,
+Le ton railleur : elle est plus folle que plaisante.
+La reconnaissez-vous, monsieur ? C'est votre tante.
+
+-*who_valere
+C'est elle-même. Eh bien ! Tu me dis donc qu'au jeu
+Tu gagnes de l'argent à cette tante ?
+
+-*who_frontin
+      Un peu.
+Mais j'ai de plus gagné son coeur ; elle m'adore.
+
+-*who_valere
+Elle t'aime ?
+
+-*who_frontin
+      Oui, monsieur, et fait bien pis encore,
+Elle m'épouse.
+
+-*who_valere
+      Bon !
+
+-*who_frontin
+      Votre valet Frontin
+Pourrait être votre oncle ou bel-oncle demain.
+
+-*who_valere
+Quoi ! Sérieusement ?
+
+-*who_frontin
+      La chose est sérieuse,
+Je suis de taille à rendre une vieille amoureuse.
+
+-*who_valere
+Sans doute. Mais enfin pour épouser d'abord,
+Il faut connaître un homme.
+
+-*who_frontin
+      Elle me connaît fort.
+Un mois de lansquenet fait bien connaître un homme.
+Me disant d'un pays d'entre Paris et Rome,
+J'ai pris d'abord un nom... nom à demi connu,
+Là... comme en prennent ceux qui n'en ont jamais eu.
+
+-*who_valere
+Comment te nomme-t-on ?
+
+-*who_frontin
+      C'est le chevalier Clique,
+Nom noble. Elle me croit d'une famille antique.
+
+-*who_valere
+Je ne puis revenir de mon étonnement.
+
+-*who_frontin
+Bon, ce n'est encor rien : j'ai fait bien plus.
+
+-*who_valere
+Comment ?
+
+-*who_frontin
+      Voyant que le hasard me donnait une tante,
+Mais qu'il m'en fallait une encore...
+
+-*who_valere
+      Eh bien ?
+
+-*who_frontin
+      Je tente
+Un projet difficile, étonnant, hasardeux.
+Dans la même maison je les vois toutes deux.
+Je savais, il est vrai, qu'Araminte honteuse
+Fuyait sa soeur, depuis qu'elle était amoureuse.
+Pour plus de sûreté près de l'autre je prends
+Autre nom, autre esprit, airs, habits différents.
+D'un grave sénéchal faisant le personnage,
+Je prends l'air composé, ton grave, froid visage,
+Disant comme elle un rien d'un ton sentencieux,
+Comme elle, de l'hymen censeur fastidieux.
+Mon nom de sénéchal, c'est Groux. Je me présente.
+Conformité d'esprit charme la prude tante.
+Auprès d'elle, en un mot, monsieur, j'ai réussi.
+
+-*who_valere
+Quoi donc ! Mon autre tante ?
+
+-*who_frontin
+      Elle m'épouse aussi.
+
+-*who_valere
+Le fait est singulier. Mais de leur bienveillance
+Que prétends-tu tirer ?
+
+-*who_frontin
+      De leur extravagance
+Nous tirerons, je crois, quelque argent du dédit :
+Mais dites-moi comment fut fait leur double écrit ?
+
+-*who_valere
+Voici le fait. Tu sais leurs chicanes cruelles.
+Pour restitution, je n'ai pu tirer d'elles
+Qu'un peu de sûreté sur leur succession,
+Serments de bien tenir leur résolution
+Contre le mariage entre elles si constante :
+Ce fut ce voeu fameux de l'une et l'autre tante,
+Qui se renouvela pour lors à mon profit :
+J'eus d'elles deux billets en forme de dédit.
+Chacune me promet qu'en cas de mariage,
+De la succession elle me dédommage.
+Chacun de leurs billets est de cent mille francs.
+
+-*who_frontin
+Je tirerai parti des billets. Mais j'entends....
+Ah, bon ! C'est un laquais de moi, chevalier Clique.
+
+**** *book_ *id_I04 *act_I *date_1719
+
+-*who_lelaquais
+Le temps presse, monsieur ; au notaire on s'explique,
+Et tout serait perdu ; vite, déguisez-vous.
+
+-*who_frontin
+C'est qu'il faut que je sois d'abord sénéchal Groux.
+Attendez-moi là-haut chez la tante Araminte,
+Elle vient de sortir : là je pourrai sans crainte
+Vous instruire de tout.
+
+-*who_valere
+      J'y vais.
+
+-*who_frontin
+      Je vous rejoins.
+
+**** *book_ *id_I05 *act_I *date_1719
+
+-*who_frontin
+Je croyais bien avoir deux jours de temps au moins ;
+Mais toutes deux prenant l'argent chez le notaire,
+Vont découvrir la mèche. Il faut brusquer l'affaire.
+
+**** *book_ *id_I06 *act_I *date_1719
+
+-*who_frontin
+Ah, bon la prude sort. Pour avoir imité
+Trait pour trait sa fadeur, sa froide gravité,
+Je lui plus. Il ne faut, pour plaire à cette sotte,
+Qu'être l'écho flatteur de sa fade marotte.
+Madame...
+
+-*who_belise
+      Ah, sénéchal ! Quoi ! Vous êtes ici ?
+Je rêvais.
+
+-*who_frontin
+      Vous rêviez ? Moi, je rêvais aussi.
+
+-*who_belise
+Je rêvais au bonheur d'une femme insensible.
+
+-*who_frontin
+Je revois au bonheur d'un homme incombustible.
+
+-*who_belise
+Qui voit avec froideur l'homme le plus charmant.
+
+-*who_frontin
+Qui voit avec dédain l'objet le plus aimant
+
+-*who_belise
+Ensuite avec frayeur considérant que j'aime,
+Je m'étonnais de voir ce changement extrême,
+Qu'en moins de quinze jours vous avez fait en moi,
+
+-*who_frontin
+J'envisageais avec une espèce d'effroi
+Qu'en moi vous avez fait une métamorphose.
+
+-*who_belise
+Tous deux en même temps pensions donc même chose ?
+
+-*who_frontin
+Même chose, et toujours sympathie entre nous.
+
+-*who_belise
+Quelle démarche, ô ciel, vous prendre pour époux!
+Cela me fait trembler.
+
+-*who_frontin
+      Je frissonne, madame,
+Du pas que je vais faire, en vous prenant pour femme.
+
+-*who_belise
+Moi qui par mon exemple ai maintenu ma soeur
+Dans le voeu qu'elle a fait de bien garder son coeur !
+Elle me respectait comme la plus parfaite :
+Me faudra-t-il rougir devant une cadette ?
+
+-*who_frontin
+Moi qui de mon aîné réprimant les ardeurs,
+Forçant au célibat même jusqu'à mes soeurs,
+Dans l'histoire voulais, pour distinguer ma place,
+Y mériter le nom d'extincteur de ma race !
+
+-*who_belise
+Moi qui du mariage abhorrais jusqu'au nom,
+Et qui me suis acquis par-là tant de renom !
+
+-*who_frontin
+Moi, le sénéchal Groux, caustique philosophe,
+Qui raille l'épouseur, l'insulte, l'apostrophe !
+
+-*who_belise
+J'appelle un mariage un dédale, un écueil.
+
+-*who_frontin
+La prison des désirs, des vivants le cercueil.
+
+-*who_belise
+Un abîme. Et voilà qu'un penchant insensible...
+
+-*who_frontin
+Vers l'abîme une pente...
+
+-*who_belise
+      Oui, douce...
+
+-*who_frontin
+      Imperceptible...
+
+-*who_belise
+Me mène au bord.
+
+-*who_frontin
+      Le pied me glisse, et m'y voilà.
+
+-*who_belise
+M'y voilà. Mais du moins le monde conviendra
+Que je vous ai choisi par goût pour la sagesse.
+
+-*who_frontin
+Notre mariage est de la plus sage espèce.
+
+-*who_belise
+Mais tout mon embarras, monsieur lé sénéchal,
+C'est qu'eN me mariant, il faut (voilà le mal),
+Il me faudra payer ce dédit. Comment faire ?
+Ce billet de dédit, que j'ai fait à Valère.
+Cette folle de soeur inventa ce dédit.
+Nous fîmes deux billets à ce neveu maudit.
+Tout retombe sur moi, seule je me marie.
+Il faudra payer seule, et de sa raillerie
+Je vais en rougissant essuyer tous les traits.
+
+-*who_frontin
+Pendant que nos amours sont encore secrets,
+Composez, retirez vos billets de Valère.
+
+-*who_belise
+C'est mon intention. Je vais de mon notaire
+Prendre pour ce neveu quelque somme d'argent.
+Sans doute il me rendra mon billet à l'instant.
+Mais si ma soeur découvre... ah ! Le coeur me palpite !
+Par raison et par honte avec soin je l'évite,
+Depuis que je vous vois, je n'ose plus la voir.
+
+-*who_frontin
+Nous toucherons l'argent qu'elle va recevoir.
+
+**** *book_ *id_I07 *act_I *date_1719
+
+-*who_lelaquais
+Monsieur, changez d'habits, ou cachez-vous bien vite :
+Araminte est rentrée.
+
+-*who_frontin
+      Il faut que je l'évite.
+Mais non ; ôtons cela : je vais l'attendre ici.
+Le temps presse ; tiens, prends cette perruque-ci :
+En nouant celle-là, j'aurai l'air plus comique ;
+Folâtre, négligé, c'est le chevalier Clique.
+Pour charmer une folle, il faut extravaguer.
+
+**** *book_ *id_I08 *act_I *date_1719
+
+-*who_araminte
+Je cours en étourdie. On vient de m'intriguer...
+Je tremble... J'ai pourtant cent choses à vous dire,
+Et plaisantes. Je rais d'abord vous faire rire.
+Mais non : le sérieux est ici plus pressé.
+Ma soeur me voyant là, fièrement a passé.
+J'en ai frémi... C'est dont nous parlerons ensuite.
+Commençons par vous faire admirer ma conduite.
+Douceur et complaisance ont caché mes chagrins ;
+Cependant en secret j'espérais, mais je crains...
+Au reste, je ressens une joie infinie,
+Vous m'allez délivrer de cette tyrannie,
+De ma soeur... et de plus je hais ce neveu-là.
+Je vais vous arranger par ordre tout cela.
+Mais parlez le premier, quel parti dois-je prendre ?
+Parlez tout à loisir, car j'aime à vous entendre.
+En reprenant haleine, on vous écoutera :
+Parlez de votre amour, et l'on y répondra.
+Parlez...
+
+-*who_frontin
+      Si je me tais, c'est parce que la foule
+Des mêmes passions dont le tourbillon roule
+En vous, ainsi qu'en moi, m'empêche de parler ;
+Car en vivacité j'ose vous égaler.
+Tristesse, joie, amour, haine, crainte, espérance...
+Mais mon amour surtout m'a réduit au silence ;
+Je n'ai pu dire un mot, parce que vous parliez.
+
+-*who_araminte
+Vous êtes tout esprit, quoique vous vous taisiez ;
+Car votre air, vos façons, vos regards, tout s'explique :
+Tout en vous parle au coeur, mon cher chevalier Clique.
+
+-*who_frontin
+Tout en vous étant beau, tout en moi vous aimant,
+Tout en moi, tout en vous par un rapport charmant,
+Tout en vous, tout en moi demande mariage.
+
+-*who_araminte
+Il est vrai : mais je crains ce dédit qui m'engage,
+Et je crains encor plus cette sévère soeur,
+Qui croit que c'est un crime, hélas ! D'avoir un coeur,
+Et qui fit faire au mien ce voeu d'indifférence
+Que je voudrais avoir rompu dès mon enfance,
+C'est-à-dire dès l'âge où mon discernement
+Eût pu vous distinguer, vous choisir pour amant.
+Oui, mon cher chevalier, oui, je vous le répète,
+Je vous aime trop tard, sans cesse je regrette
+Trente ans que j'ai passés sans vous avoir connu.
+
+-*who_frontin
+Je n'en ai que vingt-cinq ; mais je serais venu
+En ce monde vingt ans plus tôt pour vous connaître.
+Çà, le temps étant cher pour nous, comme il doit l'être,
+Voyons, vite, réglons, qu'avez-vous résolu ?
+
+-*who_araminte
+J'ai vu, revu, réglé, déterminé, conclu :
+Dussé-je être en horreur à cette soeur sauvage,
+Qui pour elle et pour moi hait tant le mariage,
+Vous serez mon époux dès demain, dès ce soir.
+
+-*who_frontin
+Mais à l'essentiel il faut d'abord pourvoir.
+Avant qu'à votre soeur nous déclarions l'affaire,
+Il faudrait retirer les billets de Valère.
+Composez avec lui, votre argent est-il prêt ?
+
+-*who_araminte
+Oui, j'ai tout retiré ; car c'est mon intérêt
+Qu'avant que ma soeur sache, hélas ! Mon mariage,
+Ce dédit soit rompu : je suis prudente et sage.
+
+-*who_frontin
+Hâtez-vous. Je vais voir mes illustres parents,
+Pour leur communiquer le parti que je prends.
+
+**** *book_ *id_I09 *act_I *date_1719
+
+-*who_araminte
+Envoyons au plus vite un laquais à Valère.
+Mais que vois-je ! Ma soeur rentre avec le notaire.
+Sur l'argent que j'ai pris, elle va s'irriter :
+Il vient l'avertir.
+
+**** *book_ *id_I10 *act_I *date_1719
+
+-*who_belise
+      Oui, ma soeur a vu monter
+Le notaire. Elle va deviner le mystère.
+
+-*who_araminte
+Je la vois agitée : ah ! Je crains sa colère.
+Où dirai-je que j'ai voulu placer l'argent ?
+
+-*who_belise
+Ah ! Je vois qu'elle sait la chose ; il vaut autant
+Lui dire un fait duquel au moins elle se doute.
+
+-*who_araminte
+Il faudra tôt ou tard, au fond, quoi qu'il m'en coûte,
+Dire que cet argent est pour me marier.
+
+-*who_belise
+Tôt ou tard à ma soeur il faut me confier.
+
+-*who_araminte
+Je tremble. Lui ferai-je entière confidence ?
+Hasardons.
+
+-*who_belise
+      Parlons-lui.
+
+-*who_araminte
+      Ma soeur.
+
+-*who_belise
+      Ma soeur, je pense.
+Que... la peur me saisit.
+
+-*who_araminte
+      La honte éteint ma voix.
+
+-*who_belise
+Pour placer un argent quand on s'est fait des lois...
+
+-*who_araminte
+Quand d'un argent commun toute seule on dispose...
+
+-*who_belise
+On devrait avertir qu'on le prend, mais on n'ose.
+
+-*who_araminte
+On devrait confier à sa soeur...
+
+-*who_belise
+      Oui, d'abord...
+
+-*who_araminte
+On doit...
+
+-*who_belise
+      On craint...
+
+-*who_araminte
+      C'est moi...
+
+-*who_belise
+      Je l'avouerai...
+
+-*who_araminte
+      J'ai tort.
+
+-*who_belise
+On doit demander grâce...
+
+-*who_araminte
+      Une faute si grande...
+
+-*who_belise
+Oui, quand on s'est promis...
+
+-*who_araminte
+      Ma soeur, je vous demande
+Pardon...
+
+-*who_belise
+      Pardon, ma soeur...
+
+-*who_araminte
+      Pardon...
+
+-*who_belise
+      Pardon...
+
+-*who_araminte
+      Comment ?
+Nous demandons pardon toutes deux ?
+
+-*who_belise
+      Mais vraiment
+Vous me le demandez, quelle est donc votre offense ?
+
+-*who_araminte
+C'était vous qui d'abord le demandiez, je pense ;
+Que m'avez-vous donc fait ?
+
+-*who_belise
+      Mais vous-même, ma soeur ?
+
+-*who_araminte
+Dites-moi vos secrets.
+
+-*who_belise
+      Ouvrez-moi votre coeur.
+
+-*who_araminte
+Eh mais... vous aurez su sans doute du notaire,
+Que j'ai pris cet argent.
+
+-*who_belise
+      Vous en aviez affaire.
+Vous avez eu raison de prendre votre bien,
+Car chacun à son gré peut disposer du sien.
+
+-*who_araminte
+Pour le placer ailleurs j'ai cru pouvoir le prendre.
+
+-*who_belise
+Vous n'avez là-dessus aucun compte à me rendre.
+J'ai pris le mien aussi.
+
+-*who_araminte
+      Tant mieux, ma soeur, tant mieux
+Je calme là-dessus mes désirs curieux.
+
+-*who_belise
+Vous avez bon esprit, vous n'êtes point gênante.
+
+-*who_araminte
+On est libre avec vous, que vous êtes charmante !
+
+-*who_belise
+Hélas ! Je ne vous ai jamais gênée en rien,
+Hors sur le mariage, et c'est pour votre bien.
+Si d'être fille enfin l'ennui vous allait prendre,
+J'aurais compassion, comme une soeur bien tendre,
+D'un faible...
+
+-*who_araminte
+      Ah ! Vous n'aurez jamais ce faible-là
+S'il vous venait pourtant, car la plus sage l'a,
+Loin de vous condamner, j'aurais la complaisance...
+
+-*who_belise
+Ahi ! Soyez sûre aussi de ma condescendance:
+
+-*who_araminte
+Parfois l'une pour l'autre il faut s'humaniser.
+
+-*who_belise
+Hélas ! Je serais fille à vous autoriser,
+En me mariant, moi, sans en avoir envie.
+
+-*who_araminte
+Eh ! Mariez-vous vite, oui, j'en serais ravie,
+Car enfin je pourrais...
+
+-*who_belise
+      Quoi ! Comment ?
+
+-*who_araminte
+      Mais, ma soeur...
+
+-*who_belise
+Auriez-vous pu laisser surprendre votre coeur ?
+
+-*who_araminte
+Et vous ?
+
+-*who_belise
+      Mais vous ?
+
+-*who_araminte
+      Mais vous ?
+
+-*who_belise
+      Eh !
+
+-*who_araminte
+      Mais oui.
+
+-*who_belise
+      Moi de même.
+
+-*who_araminte
+Embrassez-moi, ma soeur.
+
+-*who_belise
+      Ma soeur, que je vous aime !
+Oui, nous sommes en tout vraiment soeurs en ce jour.
+
+-*who_araminte
+On sait que les bons coeurs sont tous faits pour l'amour.
+Vous vouliez rester fille, ah ! Quelle extravagance !
+
+-*who_belise
+J'admire, comme vous, avec quelle imprudence
+Nous fîmes à trente ans ce voeu prématuré.
+
+-*who_araminte
+Celui que vous aimez vous en a libéré.
+Sans doute, chère soeur, sage comme vous êtes,
+Vous avez médité sur le choix que vous faites.
+
+-*who_belise
+Vous, dont le goût est fin, exquis, apparemment
+Vous avez fait un choix avec discernement.
+
+-*who_araminte
+Vif, enjoué, badin ; c'est un jeune homme aimable.
+
+-*who_belise
+Celui que j'aime est jeune, et pourtant respectable,
+Sage, grave, posé.
+
+-*who_araminte
+      Le mien toujours en l'air.
+
+-*who_belise
+Une solidité...
+
+-*who_araminte
+      Brillant comme un éclair.
+
+-*who_belise
+Qui parle rarement, mais par poids, par mesure.
+
+-*who_araminte
+Le mien parle sans cesse, et parle à l'aventure ;
+Mais toujours bien pourtant.
+
+-*who_belise
+      Comme vous. Et je vois
+Qu'à notre caractère avec goût, vous et moi,
+Sous avons assorti nos époux.
+
+-*who_araminte
+      C'est prudence.
+
+-*who_belise
+C'est sagesse. Le mien a les biens, la naissance,
+Homme en place, estimé ; c'est le sénéchal Groux.
+
+-*who_araminte
+C'est un homme connu... j'ai trouvé comme vous,
+Un époux noble, mais d'une noblesse antique,
+Un homme distingué; c'est le chevalier Clique.
+
+-*who_belise
+On en dit du bien, et... vos suffrages, ma soeur,
+Plus que la voix publique encor lui font honneur.
+
+-*who_araminte
+Le public à nos choix doit donner des louanges.
+Mais nous avons d'ailleurs eu des travers étranges.
+Ce dédit, par exemple.
+
+-*who_belise
+      Oui, ce dédit, d'accord.
+
+-*who_araminte
+Nos billets !
+
+-*who_belise
+      Nos billets !
+
+-*who_araminte
+      Nous avons eu grand tort,
+Promettre à ce neveu cent mille francs chacune.
+
+-*who_belise
+Je viens de refuser sa demande importune.
+Et je crois qu'il ignore encore nos projets,
+Pour peu d'argent il va nous rendre nos billets.
+
+-*who_araminte
+Mais pour les retirer quel tour pourrons-nous prendre ?
+
+**** *book_ *id_I11 *act_I *date_1719
+
+-*who_valere
+Profitons du moment. Il ne faut pas attendre
+Qu'elles poussent plus loin leur éclaircissement.
+Isabelle n'est point partie, heureusement,
+Mes tantes, et j'apprends une bonne nouvelle. .
+
+-*who_geronte
+Je viens m'en réjouir pour l'amour d'Isabelle.
+
+-*who_isabelle
+Je viens de tout mon coeur vous en féliciter,
+Et je vois que tantôt c'était pour plaisanter
+Que vous déclamiez tant contre le mariage ;
+Car vous-même...
+
+-*who_araminte
+      Nous-même !
+
+-*who_belise
+      Ah ! Ma soeur, quel langage !
+
+-*who_valere
+Vous allez toutes deux enfin vous marier.
+
+-*who_araminte
+Pour ne guère donner, ma soeur, il faut nier.
+
+-*who_belise
+Ce bruit est faux.
+
+-*who_araminte
+      Très faux.
+
+-*who_valere
+      Je le crois vrai, mes tantes.
+
+-*who_belise
+Comment ! Nous prenez-vous pour des extravagantes ?
+Nous marier ! Nous !
+
+-*who_araminte
+      Nous ? Non, non, il n'est plus temps.
+
+-*who_belise
+Non, vous n'y pensez pas, j'ai plus de quarante ans.
+
+-*who_valere
+Vous ne les avez point
+
+-*who_araminte
+      J'en ai plus de cinquante.
+
+-*who_valere
+Non.
+
+-*who_belise
+      Nous les avons.
+
+-*who_isabelle
+      Non.
+
+-*who_araminte
+      La dispute est plaisante.
+Je crois que nous savons notre âge mieux que vous.
+Il raille, et les billets, ma soeur, qu'il a de nous,
+Ne valent rien, mais rien, c'est en vain qu'il espère.
+
+-*who_belise
+Ils ne valent rien : mais Isabelle et Valère,
+Ma soeur, ont l'un pour l'autre une tendre, amitié ;
+Leurs légitimes feux enfin me font pitié :
+Peuvent-ils, comme nous, haïr le mariage ?
+Non, il faudrait leur faire un petit avantage :
+Ils m'attendrissent.
+
+-*who_araminte
+      Oui, nous nous attendrissons.
+
+-*who_valere
+Vous vous attendrissez, vos billets seront bons.
+
+-*who_belise
+Ne raillons donc plus, ça nous donnons à Valère,
+Dix mille écus en tout.
+
+-*who_araminte
+      Oui, c'est ce qu'on peut faire.
+
+-*who_valere
+Non, non, nous attendrons pour avoir tout.
+
+-*who_belise
+      Comment ?
+
+-*who_isabelle
+Rien ne presse en effet.
+
+-*who_araminte
+      Profitez, du moment.
+
+-*who_valere
+Nous vous laissons.
+
+-*who_araminte
+      Pendant que je suis libérale,
+Cinquante mille francs.
+
+-*who_belise
+      C'est trop, mais je l'égale
+En générosité.
+
+-*who_valere
+      Cinquante mille écus,
+Ou nous attendrons.
+
+-*who_belise
+      Oh ! Je ne vous retiens plus,
+Mon neveu, mon neveu !
+
+-*who_isabelle
+      Ménagez-les, Valère,
+Puisque cent mille francs suffisent à mon père.
+
+-*who_geronte
+Oui, cela nous suffit.
+
+-*who_araminte
+      Pour ne plus disputer,
+Donnons-les.
+
+-*who_belise
+      Allons donc, il faut s'exécuter.
+
+-*who_araminte
+J'ai sur moi ce que j'ai retiré du notaire.
+
+-*who_belise
+Il m'a donné de quoi terminer cette affaire.
+
+-*who_valere
+Voyons si par hasard je n'aurai point aussi
+Vos billets ; oui vraiment, je crois que les voici.
+
+-*who_geronte
+Le marché me paraît bien facile à conclure,
+
+-*who_valere
+Voyez.
+
+-*who_belise
+      C'est mon billet.
+
+-*who_araminte
+      Voilà ma signature.
+
+-*who_belise
+Quarante mille francs sur mon banquier, et dix.
+
+-*who_araminte
+Trente en lettres de change, et quatorze, et puis six.
+
+-*who_geronte
+Je vous unis tous deux.
+
+-*who_valere
+      Quel bonheur !
+
+-*who_isabelle
+      Je respire.
+
+-*who_araminte
+Qu'avec un grand plaisir, dédit, je te déchire !
+
+**** *book_ *id_I12 *act_I *date_1719
+
+-*who_frontin
+Nos amants sont contents. Il faut nous divertir.
+
+-*who_araminte
+Ah ! C'est vous, chevalier ? Pourquoi vous travestir ?
+
+-*who_belise
+Ah ! C'est le sénéchal ; quel est donc ce mystère ?
+Pourquoi n'avez-vous pas votre habit ordinaire.
+
+-*who_frontin
+Le voici, je ne suis que chevalier servant
+
+-*who_araminte
+Il est folâtre.
+
+-*who_belise
+      Mais, sénéchal...
+
+-*who_frontin
+      Bien souvent,
+Quoique sénéchal, moi je porte la livrée.
+
+-*who_belise
+Est-il devenu fou ?
+
+-*who_araminte
+      De plaisir enivrée,
+Ma soeur croit voir en vous son amant sénéchal,
+Cher chevalier.
+
+-*who_belise
+      Ma soeur, nous nous entendons mal ;
+C'est le sénéchal Groux.
+
+-*who_araminte
+      Mais vous rêvez, je pense,
+C'est mon chevalier Clique.
+
+-*who_frontin
+      Oui, j'ai par complaisance,
+Pour plaire à la cadette, et folâtre et vif,
+Et pour plaire à l'aînée été rébarbatif.
+Mais ne pouvant en moi doubler que l'apparence,
+Ne pouvant être qu'un, je dois en conscience,
+Avouer que Frontin n'est ni Clique, ni Groux.
+
+-*who_belise
+Quoi !
+
+-*who_araminte
+      Comment !
+
+-*who_valere
+      C'est Frontin lui-même.
+
+-*who_belise
+      Où sommes-nous ?
+
+-*who_valere
+Un maraud de valet faire un tel personnage ?
+
+-*who_araminte
+Un valet !
+
+-*who_belise
+      Un valet !
+
+-*who_geronte
+      Le parti le plus sage,
+C'est de nous demander là-dessus le secret.
+
+-*who_isabelle
+Pardonnez au neveu la ruse du valet.
+
+-*who_belise
+Ah, ma soeur !
+
+-*who_araminte
+      Ah ma soeur ! Cachons-leur notre honte.
+
+-*who_valere
+La peur qu'elles auront qu'on n'en fasse un bon conte,
+Peut-être les rendra moins injustes pour moi.
+
+-*who_frontin
+En morale comique, il est permis, je crois,
+Aux Frontins de punir l'avarice des tantes,
+Et de berner un peu les caduques amantes.

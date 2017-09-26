@@ -1,0 +1,2535 @@
+---
+identifier: folard_themistocle  
+creator: Folard Melchior de  
+date: 1681  
+title: Thémistocle. , tragédie   
+---
+
+
+THÉMISTOCLE
+
+TRAGÉDIE
+
+M. DCC. XXIX. AVEC APPROBATION ET PRIVILÈGE DU ROI.
+
+Par L. P. F. J.
+
+# PRIVILÈGE DU ROI. LOUIS PAR LA GRÂCE DE DIEU, ROI DE FRANCE ET DE NAVARRE, à nos Amez et féaux Conseillers les Gens tenants nos Cours de Parlement , Maîtres des Requêtes ordinaires de nôtre Hôtel, Grand Conseil, Prévôt de Paris, Baillifs Sénéchaux ; leurs Lieutenants Civils et autres nos Justiciers qu'il appartiendra. SALUT ; Notre bien amé le P. F. J. Nous ayant fait remontrer qu'il souhaiterait faire imprimer et donner au public un livre qui a pour titre, Thémistocle Tragédie, par ledit P. F. s'il Nous plaisait lui accorder nos Lettres de Privilèges sur ce nécessaires, offrant, pour cet effet de le faire imprimer en bon papier et beaux caractères, suivant la feuille imprimée et attachée pour modèle sous le contre-scel des présentes. À ces causes, voulant favorablement traiter ledit Exposant, Nous lui avons permis et permettons par ces présentes de faire imprimer ledit Livre ci-dessus spécifié ; en un ou plusieurs volumes, conjointement ou séparément, et autant de fois que bon lui semblera, sur papier et caractères conformes à ladite feuille imprimée et attachée fous notre dit contre-scel, et de le vendre, faire vendre et débiter par tout notre royaume, pendant le temps de six années consécutives, à compter du jour de la datte desdites présentes ; Faisons défenses à toutes fortes de personnes de quelque qualité et condition qu'elles soient, d'en introduire d'impression étrangère dans aucun lieu de nôtre obéissance, comme aussi à tous libraires, imprimeurs et autres, d'imprimer, faire imprimer, vendre, faire vendre, débiter ni contrefaire ledit livre ci-dessus exposé, en tout ni en partie, ni d'en faire aucuns extraits sous quelque prétexte que ce soit, d'augmentation ou correction, changement de titre ou autrement, sans la permission expresse et par écrit dudit exposant, ou de ceux qui auront droit de lui, à peine de confiscation des exemplaires contrefaits, de quinze cents livres d'amende contre chacun des contrevenants, dont un tiers à Nous, un tiers à l'Hôtel-Dieu de Paris, l'autre tiers audit exposant, et de tous dépens dommages et intérêts ; à la charge que ces présentes seront enregistrées tout au long sur le registre de la Communauté des Libraires et Imprimeurs de Paris, dans trois mois de la date d'icelles ; que l'impression de ce livre fera faite dans notre royaume et non ailleurs ; et que l'impétrant se conformera en tout aux règlements de la Librairie, et notamment à celui du 18. Avril 1725. Et qu'avant que de l'exposer en vente, le Manuscrit ou Imprimé qui aura servi de copie à l'impression dudit livre sera remis dans le même état où l'Approbation y aura été donnée, es mains de notre très cher et féal Chevalier Garde des Sceaux de France, le Sieur Chauvelin, et qu'il en sera ensuite remis deux exemplaires dans notre Bibliothèque publique, un dans notre Château du Louvre, et un dans celle de notre très cher et féal Chevalier Garde des Sceaux de France, le Sieur Chauvelin ; le tout à peine de nullité des présentes ; du contenu desquelles vous mandons et enjoignons de faire jouir l'exposant ou ses ayants cause pleinement et paisiblement, sans souffrir qu'il leur soit fait aucun trouble ou empêchements ; Voulons que la copie desdites présentes qui fera imprimée tout au long au commencement ou à la fin dudit Livre, soit tenu pour dûment signifiée, et qu'aux copies collationnées par l'un de nos amés et féaux conseillers et secrétaires, foi soit ajoutée comme à l'original ; commandons au premier notre huissier ou sergent de faire pour l'exécution d'icelles tous actes requis et nécessaires, sans demander autre permission, et nonobstant Clameur de Haro, Charte Normande, et lettres à ce contraires ; Car tel est notre plaisir. Donné à Paris le vingt-quatrième jour du mois de Mars, l'an de grâce 1719 et de notre règne la quatorzième. Par le Roi en son Conseil. SAMSON. Registre sur le Registre VII de la Chambre Royale et Syndicale de la Librairie et Imprimerie de Faris No. 331. fol. 2,78. conformément au règlement de 1723. qui fait défenses Art. IV. à toutes personnes de quelque qualité qu'elles soient autres que les imprimeurs et libraires, de vendre, débiter et faire afficher, aucuns livres pour les vendre en leurs noms, soit qu'ils s'en disent les auteurs ou autrement, et à la charge de fournir les exemplaires prescrits par l'Article CVIII. du même Règlement ; À Paris le 1 Avril 1729. J. B. COIGNARD, Syndic.Imprimé à Lyon , et se vend À PARIS Chez JOSSE, Fils, rue Saint Jacques, à la fient de Lys d'or. # APPROBATION. J'ai lu par l'ordre de Monseigneur le Garde des Sceaux, la Tragédie de Thémistole , dont je crois que le Public verra l'impression avec plaisir. À Paris, le 16. Février 1725.
+Représentée pour la première fois le 26 Janvier 1681 au Théâtre Guénégaud. 
+A MONSEIGNEUR LE DUC DE RETZ, PAIR DE FRANCE.
+
+Ô Toi, qui connaissant les vertus de ton Prince,  
+Fais de la vérité l'art de plaire à la Cour,  
+Je t'adresse mes vers : ils font nés en province ;  
+Mais alors sur nos bords Tu faisais ton séjour,  
+Le goût du Beau, ce goût plus sûr que la Science,  
+Les Grâces de la Cour avaient suivi tes pas,  
+Et des vertus encor , qu'elle ne donne pas,  
+Et qu'on voit rarement jointes à la Puissance,  
+La douce humanité, les sentiments, les moeurs,  
+Et cette aimable complaisance,  
+Art magique des Grands pour ravir tous les coeurs.  
+D'un accueil favorable honore mon ouvrage :  
+Je l'offre à tes vertus, non au rang que tu tiens.  
+C'est de toi-même, c'est des tiens  
+La noble et la fidèle image.  
+J'y peins le jeune fils (1) d'un guerrier, dont le nom  
+Fut gravé par la gloire aux champs de Marathon.  
+Je le peins généreux, guidé par la droiture,  
+Et justement chéri d'un (2) Prince glorieux.  
+Quand je faisais cette peinture,  
+Mon génie échauffé t'avait devant les yeux.  
+Mais le Héros surtout, que d'une main divine,  
+Dans ce dramatique portrait,  
+J'aurais voulu pouvoir exprimer trait pour trait,  
+C'est le (3) Vainqueur de Salamine.  
+Quel pays eut jamais un pareil citoyen ?  
+Pour fa fière patrie enflammé d'un beau zèle,  
+Il en fut le ferme soutien,  
+Toujours grand, et toujours fidèle.  
+Si j'ai peint faiblement une vertu si belle,  
+L'art de peindre est du ciel le plus précieux don :  
+Je ne manquais pas de modèle ;  
+J'en avais un dans ta maison.  
+
+1 Miltiade le jeune, fils du grand Miltiade.
+
+2 Xerxes
+
+3 Thémistocle
+
+
+# LETTRE DE L'AUTEUR.
+
+À MONSIEUR DU LIEU, Chevalier d'honneur de la Cour des Monnaies et Présidial de Lyon.
+
+Vous souhaitez, MONSIEUR, que je vous rende raison de mon ouvrage : et que je réponde aux critiques bien ou mal fondées, qu'on m'a faites. Vous voulez voir si vos raisons seront les miennes. Sûrement, si les miennes sont vraies, elles se rencontreront avec les vôtres. Je connais la solidité de votre esprit, et la justesse de vôtre goût. Peu de personnes entendent mieux le Théâtre. Si la connaissance des règles vous est peut-être un peu moins familière, qu'à ceux du métier, vous avez le discernement de ce qui convient ou ne convient pas si prompt et si sûr, que vos décisions par sentiment valent mieux souvent que les réflexions les plus mesurées. Je l'ai éprouvé cent et cent fois, lorsque je vous ai consulté dans les progrès de mon travail ; et j'ai vu par expérience, qu'Aristote ne me guidait pas toujours aussi seulement par ses principes et par ses raisonnements, que vous, tantôt par vos répugnances, et tantôt par les salies d'une subite satisfaction. Je n'aimais rien tant, que de surprendre vos premiers mouvements : j'étais sûr que c'étaient ceux de le nature la plus heureuse ; et soit dit à la honte non de la raison, mais du raisonnement, je ne sais s'il y a de meilleure règle du Vrai et du Beau. Pardonnez-moi ce court témoignage, que l'estime et la reconnaissance m'arrachent malgré vous.
+
+Je dirai peu de chose sur l'événement, qui sert de fond à cette Tragédie : c'est un trait de l'histoire Grecque , trop célèbre pour être ignoré par aucun de mes Lecteurs. Je m'expliquerai seulement, et sur l'occasion qui m'a déterminé à le traiter, et sur la manière dont je l'ai traité. L'un et l'autre pourront fournir quelques réflexions, qui peut-être ne seront pas tout-à-fait inutiles : seule raison, à mon avis, qui peut justifier les préfaces ; car la lettre, que je vous écris, en aura tout l'air.
+
+I. Le sujet de Thémistocle, quoi qu'extrêmement riche pour le fond du tableau, m'avait toujours rebuté par un endroit fâcheux, qui seul dégradait sur la scène la majesté de cet événement : c'était le repentir du héros. Thémistocle, disent presque tous les historiens, retiré à Suze avait promis solennellement à Xerxés , qu'il prendrait les armes contre la Grèce sa patrie, et qu'il irait, à la tête des Perses, venger leurs affronts et les siens. Mais bientôt honteux et au désespoir d'une démarche si indigne de sa gloire, il s'en punit en se donnant la mort. Cette alternative de vice et de vertu, de lâcheté et de courage, quoiqu'elle ne soit que trop dans la nature, était pourtant peu convenable à la gravité du Théâtre ; qui veut les hommes, non pas tels servilement qu'ils sont en effet soit pour le bien soit pour le mal, mais comme ils doivent être imaginés dans un point de vue aussi élevé, que l'est de sa nature la scène tragique. Ce n'est pas que le repentir ne puisse réussir quelquefois ; mais quand on veut l'y mettre , il faut que la faute, surtout si elle est d'un certain caractère, soit antérieure à la représentation, et non du corps de la représentation même. Un héros peut y porter les regrets d'une faute, qu'il a faite précédemment : mais il n'y doit pas faire la faute, dont il va un moment après se repentir. Ce changement, quoique louable d'un côté, car il est toujours beau de se reconnaître, indispose pourtant contre le héros. Son passage sur la scène du bien au mal par sa chute, et du mal au bien par son repentir, fait dans l'esprit des spectateurs succéder l'horreur à l'estime, ce qui est tragique : et le mépris à l'horreur, ce qui ne l'est plus. Le scélérat qui se soutient est plus supportable encore, parce qu'il a la gravité, que la scène exige. Phèdre apporte sur la scène l'amour criminel qu'elle a conçu pour Hippolite, elle ne l'y prend pas ; et ensuite même, quand elle en a connu toute l'horreur, elle en témoigne bien plus de honte que de repentir, et de désespoir que de regret. Sa confusion ne tourne point au profit de ses moeurs. Elle veut obstinément le crime, qu'elle rougit de vouloir. Cela est dans le grand goût du Dramatique : et ce sage ménagement n'est pas une des moindres preuves du jugement sûr et exquis de Mr Racine. Cet exemple appuie fort ma réflexion, qui, toute nouvelle qu'elle est, n'en est pas moins vraie. Toutes les vérités ne sont pas dites : nous tenons les principes ; mais les conséquences particulières, ou les vérités de détail, sont infinies.
+
+Or, pour revenir au repentir de Thémistocle, je l'approuvais dans l'histoire, et je le craignais sur la scène. Le héros n'avait, par ce changement, ni toute la vertu d'un citoyen, qui sacrifie ses ressentiments à son devoir ; ni tout l'emportement d'un ennemi, qui sacrifie son devoir à ses ressentiments. L'un aurait jeté sur la Scène un grand intérêt à l'Admiration : et l'autre un aussi grand intérêt de Terreur. Mais Thémistocle, par son repentir, étouffait l'un et l'autre : il n'était plus ni admirable, ni terrible, ni constamment vertueux , ni opiniâtrement irrité ; et par ce seul endroit il n'était plus digne de la Tragédie. Qu'on lise le Thémistocle de Mr Du Ryer. C'est une pièce fort médiocre, quoi qu'elle ait visiblement servi de plan à l'Alcibiade : mais son défaut dominant, c'est le repentir de Thémistocle. Ce héros commet sur le théâtre le crime de perfidie, et il s'en repent sur le théâtre. Il dément, aux yeux même des spectateurs, sa vertu et sa gloire, jusqu'à jurer la perte des Grecs : il dément sa promesse, jusqu'à se repentir d'avoir promis : coupable et repentant sans dignité, quel spectacle !
+
+J'en étais à ces réflexions, et je n'osais aller plus avant, quand il me vint en pensée de revoir ce que Valére Maxime disait de Thémistocle. Quoique cet écrivain soit souvent un peu déclamateur, néanmoins il a ramassé les faits principaux sur de bons mémoires, et il pense quelque fois avec force. Je lus deux ou trois fois ces belles paroles, THEMISTOCLES, quem virtus sua victorem, injuria Patriae imperatorem persarum fecerat, ut se ab ea oppugnanda abstineret, ìnstituto sacrificio, exceptum paterâ tauri samguinem hausìt, et ante ipsam aram, quasi quaedam pietatis clara victima, concidit. Quo quidem tam memorabili ejus excessu, NE GRAECIAE ALTERO THEMISTOCLE OPUS ESSET, effectum est. Cette dernière pensée m'arrêta toujours, j'y entrevoyais quelque chose de particulier : et quoique la phrase en soit très nette, grammaticalement prise, elle était fort obscure quant au fait historique qu'elle suppose. Je ne pouvais y démêler la raison pourquoi, par la mort de Thémistocle, un second Thémistocle n'était plus nécessaire à la Grèce pour la défendre contre Xerxés. Ce Roi ne pouvait-il pas encore y porter ses armes ? Il n'avait plus de Thémistocle pour général, il est vrai ; mais aussi il n'en aurait point eu pour adversaire. On juge bien que les Commentateurs ne m'auraient pas tiré d'affaire ; il y avait là une véritable difficulté. Enfin, j'en découvris le vrai sens à la faveur d'une tradition particulière sur la mort de Thémistocle, que le seul Diodore de Sicile nous a conservée, et par laquelle on voit clairement, ce que Valére Maxime supprime. La raison que Diodore en apporte est dans le livre XI. N°. 12. Je ne la mettrai point ici, elle instruirait trop le Lecteur, et lui déroberait d'avance la douce inquiétude de la suspension, et le plaisir de la surprise. Cette rencontre fit cesser toutes mes répugnances pour un sujet, qui n'avait que ce défaut : Et ce qu'on appelle le repentir de Thémistocle se trouvant n'être plus qu'une heureuse adresse que l'amour de la patrie, la vertu la plus sublime et le génie de la nation avaient inspiré au héros grec, je me livrai à tout l'avantage de mon sujet, que n'altérait plus la faiblesse de la catastrophe. Car pour conclure cet article par une réflexion où je veux venir, parce qu'elle le rend utile : il ne faut jamais s'embarquer à traiter un sujet, qui a un défaut essentiel. Toutes les ressources de l'art et du génie n'y seront jamais employées qu'à pure perte. Que d'efforts inutiles n'ont pas faits et Corneille pour sa Théodore , et Racine pour sa Bérénice, l'un pour couvrir la honte de son sujet, et l'autre pour en relever la petitesse ?
+
+II. Cependant, malgré la précaution que j'ai prise, il semblera peut-être rester encore une occasion à un doute désavantageux à la vertu de Thémistocle : doute que sa réponse artificieuse fait naître dans les esprits. Il semble s'engager à la ruine de sa patrie, et s'y engager par une proposition équivoque. L'un fait tort à sa gloire, et l'autre à sa probité. Mais en examinant de près, ce prétendu doute et le double sens de la proposition qui le cause, je m'aperçus aisément que l'un et l'autre, loin d'affaiblir le dénouement, lui prêtaient une nouvelle force, parce qu'ils n'étaient rien moins en effet, que ce qu'ils paraissaient être. Car, pour commencer par l'ambiguïté de la réponse, cette ambiguïté n'est qu'un innocent artifice, dont l'obscurité ressemble bien plus au double sens des Oracles qui impose un pieux respect, qu'à une véritable équivoque qui révolte la probité. De plus cette ambiguïté est ici parfaitement dans le génie des Grecs, et elle caractérise la vertu de cette nation spirituelle, en la distinguant de la franchise romaine. Régulus, par exemple, aurait refusé nettement ; mais par sa réponse précise il n'aurait sauvé que sa vertu, sans sauver sa patrie. Aurait-il mieux fait ? Un Héros Grec, avec le même degré de vertu et de courage, a plus d'esprit et de cette adresse compatible avec la probité. La vertueuse Andromaque, dans la Tragédie de ce nom, use d'un déguisement pareil : et il lui sied bien, parce qu'il est dans le génie de son pays, même pour les femmes. Mr. Racine ne l'aurait pas mis dans la bouche d'une Emilie : il connaissait trop bien ces différences de la vertu dans les deux nations.
+
+Quant au doute sur la vertu de Thémistocle, il s'en faut beaucoup, que ce ne soit un véritable doute : ce n'est qu'une simple, mais vive inquiétude, qui vient de la curiosité fortement excitée, et qui n'affirme rien contre l'honneur du héros : ce qui est le degré le plus haut peut-être, où puisse monter la suspension théâtrale. Car alors le spectacle s'empare de l'âme toute entière, et la livre en proie à mille émotions différentes. Dans cet état, elle n'ose soupçonner un héros, qu'elle admire : et pourtant elle est en peine pour sa vertu. L'âme revient sur le passé, elle examine la situation présente, elle court au devant de ce qui doit arriver : elle brûle de savoir, et n'ose douter. Tour à tour elle vole et revole rapidement du premier acte au dernier : c'est un flux et reflux de pensées et de sentiments opposés. Voilà ce que c'est que ce prétendu doute, quand on veut l'analyser. Ce qui m'a fait faire une réflexion propre à rendre plus retenus, s'il était possible, ces critiques plus décisifs qu'éclairés, c'est, qu'à parler en général, les grandes beautés sont d'ordinaire très voisines et comme à côté des grands défauts : alors l'ombre de de ceux-ci tombant, pour ainsi dire, sur celles-là , elle leur en donne une légère apparence, qui fait prendre le change à ceux surtout qui ont l'esprit prévenu de quelque intérêt. C'est ainsi que sur la fin du siècle passè une personne, qui avait infiniment de l'esprit, et qui par cet avantage était la gloire de son sexe, prit pour un insipide galimatias la plus belle Scène qui soit jamais sortie des mains de Mr. Racine, n'allons pas plus avant... C'est où la jeta, contre son propre goût, sa prévention en faveur de Pradon.
+
+Il s'agit de la querelle des sonnets concernant Phèdre. PF
+
+III. Pour donner plus de variété à la Scène par le contraste des caractères, j'ai fait entrer dans mes personnages le fameux Aristide, surnommé le Juste, ennemi et rival éternel de Thémistocle : mais d'un ordre de vertu tout différent. Il fut de son temps le Caton des Grecs, tandis que Thémistocle en était le Scipion. J'ai fait d'Aristide l'Ambassadeur d'Athènes, et je le mène à Suze pour y demander la tête de Thermistocle, que la Grèce avait proscrit. C'est là peut-être l'unique chose qui soit de pure invention ; car pour Miltiade le jeune, il appartient en premier à Hérodote, qui me l'a fourni. Quant à la jalousie des deux Républiques d'Athènes et Sparte : elle était, au temps dont je parle, à son plus haut point d'aigreur du côté de Sparte. Elle avait même fort altéré dans les coeurs des Spartiates la droiture des moeurs anciennes et l'amour des vertus extrêmes. Comme l'envie est une passion basse, et qui porte à tout, parce qu'elle suppose dans ceux, dont elle s'est emparée, une âme déjà dégradée, je n'ai pas craint, malgré sa réputation d'austérité, de peindre Sparte moins vertueuse. Aussi fut-ce en ce siècle-là qu'éclatèrent dans cette sévère République les plus grands scandales. Pausanias, un de ses Rois, osa bien former l'indigne dessein de livrer la Grèce aux Perses. Et sans doute qu'il eut pour complices plus d'un de ces rigides républicains. Les Rois ne sont guère seuls, ni dans le bien, ni dans le mal qu'ils font.
+
+J'ai changé quelques circonstances à la manière dont Thémistocle s'empoisonne dans l'histoire. Pour faire cet empoisonnement sans ministre et sans confident, et par là d'une façon plus propre à entretenir la suspension, je lui mets au doigt une de ces bagues si familières aux Anciens, dans le chaton desquelles ils avaient toujours du poison renfermé, qu'ils suçaient dans le besoin, ou qu'ils trempaient dans la coupe qu'on leur présentait. Cet usage est si connu que je mets ici, plutôt pour l'agrément que pour la nécessité de la preuve, le passage de Pline qui en fait mention, Alii, dit cet Historien de la Nature, sub gemmis venena cludunt, annulosque mortis gratià habent. C'est ainsi que s'empoisonnèrent, et le plus grand Capitaine, et le plus éloquent Orateur de l'Antiquité, Annibal et Démosthène. Je ne crains donc plus qu'on me fasse sur ce point de fait aucune nouvelle critique.
+
+IV. On m'en a fait une autre, qui d'abord paraît mieux fondée : Elle est appuiée sur une des plus judicieuses règles du Théâtre. Thémistocle, dit-on, ne se trouve coupable d'aucune faute qui lui ait, du moins en partie, mérité son malheur. Je suis surpris que le plus heureux avantage attaché à mon sujet ait échappé à la pénétration de ceux, qui m'ont fait cette difficulté. Un instant de réflexion sur l'imprudence de la démarche que fait Thémistocle, en se retirant chez l'ennemi mortel de la Grèce qui pouvait si aisément se prévaloir et des chagrins et des talents de son prisonnier, eut fait sentir sans peine, que jamais faute ne fut plus heureusement dans l'espèce que demande le théâtre, pour faire d'un héros un coupable, sans en faire un criminel. Milieu aussi difficile à rencontrer, qu'à tenir. Qu'on y prenne garde, presque toutes les pièces passent à une des deux extrémités opposées, la vertu sans défaut, et le crime sans vertu. Le héros y est toujours ou entièrement innocent ou entièrement criminel : ou il n'y fait point de fautes, ou il y fait des crimes : OEdipe, par exemple, et Pompée, sans parler de bien d'autres, ne sont que malheureux : Athalie n'est que criminelle. Thémistocle ici est imprudent au degré nécessaire pour faire une véritable faute. Aussi se la reproche-t-il à la fin du quatrième acte, où sa situation, suite naturelle de son imprudence, le met dans le point de vue qu'il faut, pour la reconnaître.
+Voilà, voilà le coup , qu'en secret combattu,  
+Mon acteur, dans ses retours, craignait pour ma vertu.  
+
+V. Je voudrais pouvoir répondre aussi solidement au juste reproche qu'on pourra me faire, de m'être trop hâté d'imprimer. La perfection de détail et l'élégance soutenue sont l'ouvrage du loisir. Tant qu'on se souvient encore trop qu'on est auteur, on ne saurait être son lecteur désintéresse. Cependant ce n'est que quand on en est venu à ce point, qu'on peut sentir ses fautes. On a beau dire que dans tous les Arts il y a un terme, par de-là lequel on n'avance plus : Cela est vrai, quand on s'est habitué à son ouvrage, et qu'à force de l'avoir sans interruption sous les yeux, on le voit, pour ainsi dire, sans le voir. Mais quand on se donne le temps de perdre de vue des idées trop familières, on peut penser à nouveau frais, et partir du degré, où l'on s'était comme fixé, pour aller bien au delà. L'esprit a des ressources, pourvu que vous le laissiez respirer. L'appliquer sans discontinuation à la même chose, c'est le forcer à se désappliquer.
+
+Je sens la vérité de ces réflexions, et je les aurais très volontiers mises en pratique. Je ne me suis jamais su mauvais gré de n'avoir pas imprimé, et je me suis repenti de l'avoir fait. Mais aujourd'hui je me vois entraîné par les circonstances. Le sort d'une de mes Tragédies m'y engage malgré moi : je n'ai garde de la revendiquer : l'état où l'on l'a mise m'ôte le droit, ou du moins l'envie, de l'avouer. On l'a presque aussi changée pour le fond et pour la versification que pour le titre. Et elle a trop coûté de soins aux mains qui l'ont dénaturée, pour leur en disputer la propriété. D'ailleurs quand elle serait pour moi moins méconnaissable, je ne fais pas assez de cas de la gloire poétique, pour l'acheter en jetant dans l'embarras qui que ce soit ; eh, y a-t-il quelque autre gloire que celle des bonnes moeurs ; Je ne me serais pas même permis le peu que je viens d'en dire, si on ne m'avait accusé de m'être entendu avec ceux qui m'ont si fort déguisé. Quelques lettres anonymes remplies d'injures, ( style de ces sortes de lettres ) et que j'ai encore entre les mains, m'obligent à me disculper de cette accusation : quoique peut-être on ne soit redevable d'aucun égard à ces écrivains ténébreux, qui vrais assassins du Parnasse, viennent l'épigramme à la main, attaquer en lâches un auteur, qu'ils voient et qui ne les voit point.
+
+Je donne donc cette tragédie de Thémistocle, telle que je l'ai faite ; il n'y aura de fautes que les miennes : c'est bien assez sans doute et trop même , pour ne pas le laisser dire à d'autres, avant moi. Mais enfin nous sommes ainsi faits, sinon pour notre bien, du moins pour notre repos, que nous ne voulons pas à nos fautes tout le mal, que nous voulons à celles d'autrui. Comme ces premières sont notre ouvrage, elles se sentent de notre indulgence.
+
+Je finis ces réflexions par une analyse singulière de Thémistocle ; Analyse, à laquelle j'ai cru devoir mettre comme à l'épreuve la conduite de mon action dramatique. C'en est là comme la pierre de touche. Je dois cette nouvelle méthode à un auteur, dont le mérite en garantirait la solidité et l'excellence, si d'elle-même elle ne menait au vrai par la voie la plus sûre et la plus courte.
+
+1°. L'arrivée de Thémistocle à Suze produit sa reconnaissance avec Miltiade.
+
+2°. Sa reconnaissance avec Miltiade produit celle de Xerxés et de Thémistocle.
+
+3°. La reconnaissance de Xerxés et de Thémistocle produit pour Thémistocle le péril de sa vie.
+
+4°. Le péril de sa vie produit le péril pour sa vertu.
+
+5°. Le péril pour sa vertu produit la résolution du héros ; et la résolution produit la catastrophe.
+
+Horace :
+Primo ne médium, medio ne discrepet imum.  
+
+
+# ERRATA.
+
+Page i. lig. dernière, Xercés, lisez, Xerxés, et partout de même.
+
+p. 5. lig. 6 aventure lisez avanture.
+
+p. 13. vers 4 vanger, lisez venger.
+
+p. 14. vers 8. genoux, lisez genou.
+
+p. 45. vers 13. atend lisez attend.
+
+p. 91. lig. 10. salies, lisez sailies.
+
+p. 96. lig. 11. par, lisez pas.
+
+
+# ACTEURS.
+ – THÉMISTOCLE, Géneral des Athéniens.
+ – XERXÈS, roi de Perse.
+ – MILTIADE, dit le jeune, fils du grandt Miltiade et Favori de Xerxès.
+ – ARISTIDE, dit le juste, Ambassadeur d'Athènes.
+ – PARMENIS, Ambassadeur de Sparte.
+ – ARTABAN, Ministre du Roi de Perse.
+ – ROXANE, fille de Xerxès.
+ – THÉMIRE, suivante de Roxane.
+ – HYDASPE, officier d'Artaban.La Scène est a Suze, capitale de la Perse, dans le Palais de Xerxès.
+
+
+# ACTE I.
+
+
+## SCÈNE PREMIÈRE. Miltiade, suite d'Officiers.
+
+    MILTIADE.
+Que l'on me laisse seul : et qu'on fasse  
+Ce grec, qui sans témoins cherche à m'entretenir...  
+Est-ce un de ces bannis, que leur fière patrie  
+Punit de leurs vertus, dès qu'elle s'en défie ?  
+Chaque jour à mes pieds ils viennent implorer  
+L'appui, que ma faveur leur permet d'espérer.  
+Fils du plus grand des Grecs, leur malheur m'intéresse.  
+Mais, tout prêt à lancer la foudre sur la Grèce,  
+Le Roi peut s'alarmer ....  
+
+
+## SCÈNE II. Miltiade, Thémistocle.
+
+    MILTIADE.
+        Approchez, Étranger.  
+Vous pouvez, en ces lieux, me parler sans danger.   [1]
+Des Satrapes altiers l'importune cohorte  
+De ce Palais encor n'assiège point la porte :  
+Le jour à peine luit. J'ai su qu'en cette Cour  
+Arrivé sans témoins, et fuyant le grand jour ,  
+En secret vainement vous cherchiez ma présence.  
+Plaignez de la faveur la triste dépendance :  
+Je ne vis plus pour moi. Qu'avec ardeur j'attends  
+D'apprendre de nos Grecs les succès éclatants !  
+
+    THÉMISTOCLE.
+Un Grec persécuté, mais peu digne de l'être,  
+Devant l'ami des Grecs ne craint point de paraître.  
+Si, comme on le publie en Perse et parmi nous,  
+L'infortune est un droit pour approcher de vous,  
+Jamais... jamais mortel, grâce au sort qui m'opprime,  
+N'eut à ce privilège un droit plus légitime.  
+
+    MILTIADE.
+Dans nos Grecs opprimés, malheureux inconnu,  
+Je me fais un devoir d'honorer la vertu,  
+Il est vrai. Ma faveur, sans ce doux avantage ,  
+Ferait peut-être ici murmurer mon courage ;  
+Quoiqu'au Roi que je sers, tout Roi cède aujourd'hui,  
+Le fils de Miltiade est un peu trop pour lui.  
+Dans ces climats lointains conduit dès mon enfance,  
+Je n'ai point oublié mon nom, ni ma naissance.  
+En protégeant les Grecs, en plaignant leurs ennuis,  
+Je rends digne de moi le haut rang où je suis.  
+
+    THÉMISTOCLE.
+À ces nobles discours, où brille la sagesse,  
+Je reconnais le fils du vengeur de la Grèce :  
+Je crois le voir encor, quand jadis sur ses pas  
+Aux champs de Marathon il menait nos soldats.  
+Mais j'admire surtout ce zèle magnanime,  
+Qui fauve ici les Grecs, que l'injustice opprimé ;  
+Jeune, à peine autrefois les avez-vous connus.  
+Puis-je vous rappeler des malheurs que j'ai vus ?   [2]
+Au retour de la Thrace, en votre premier âge,  
+Sur les flots inconstants soulevés par l'orage ,  
+Vous suiviez votre père, en Grèce rappelé :  
+Quand tout à coup des vents le courroux redoublé  
+Vous ravit au héros, qui vous donna la vie,  
+Et vous porte au milieu de la flotte ennemie.  
+Ainsi, dès votre enfance à la Grèce arraché,  
+Vous fûtes dans la Perse à la Cour attaché.  
+Cependant votre père, arrivé dans la Grèce,   [3]
+Vengeait à Marathon les Grecs et se tendresse ;  
+Et le Persan superbe, à ses pieds abattu,  
+Consolait ce héros de vous avoir perdu.  
+
+    MILTIADE.
+Qu'à l'oreille d'un fils la louange d'un père  
+Sait trouver aisément le secret de lui plaire !  
+N'en parlons plus pourtant ; je sais quel est le nom  
+Que s'acquit Miltiade aux champs de Marathon ;  
+Et quand la Renommée, avare de sa gloire,  
+M'aurait tû dans ces murs cette insigne victoire ;  
+Mes maux, que j'y voyais croître à tous les instants,  
+Ne m'apprenaient que trop ses succès éclatants.  
+Selon que ce Héros, devenu trop illustre,  
+Par de nouveaux exploits prenait un nouveau lustre,  
+On venait resserrer mes fers appesantis ;  
+Les triomphes du père étaient les maux du fils.  
+Je comptais ses vertus par mes propres alarmes,  
+Et mes pleurs m'annonçaient les progrès de ses armes.  
+Mais quand, de ses exploits s'effrayant follement,  
+Athènes l'eût puni par le bannissement,  
+Et que, poussant plus loin ses frayeurs ou ses haines,  
+Elle l'eût rappelé pour l'accabler de chaînes ;  
+Xerxès plaignit mon père, il vanta ses vertus.  
+On adoucit mon sort ; mes fers furent rompus ;  
+Il voulut voir le fils de son vainqueur terrible :  
+Il nie vit ; et mes maux le trouvèrent sensible.  
+Et selon que des Grecs croissaient les cruautés,  
+Du Perse généreux j'éprouvais les bontés.  
+De mon père à son tour la cruelle aventure  
+Devint de mon bonheur la source et la mesure.  
+Malheureux, dans le sort qui sût rompre mes fers,  
+De n'être en liberté qu'au prix de ses revers ;  
+Et de me voir forcé de trembler pour sa vie,  
+Selon que ma fortune augmentait dans l'Asie/  
+Enfin mon père meurt, et Xerxès attendri  
+Me place auprès du Trône au rang de favori.  
+Mais depuis, trop fameux dans la paix, dans la guerre,  
+Thémistocle est lui seul l'entretien de la terre :  
+C'est le Héros du monde ; et les yeux aujourd'hui  
+Ne sont dans l'Univers attachés que sur lui.  
+Trois fois par ce héros aux rochers d'Arthémise  
+La flotte des Persans dissipée ou surprise ;  
+L'Empire de la mer, si longtemps disputé,  
+Enfin à sa Patrie acquis et mérité ;  
+Xerxès glacé d'effroi fuyant vers le Bosphore,  
+Et jusque dans Sardis pâle et tremblant encore ;   [4]
+Les mers de Salamine, et celles de Naxos  
+Couvertes des débris de ses nombreux vaisseaux...  
+Tant d'exploits étonnants, tant d'éclat, tant de gloire,  
+Ont fait de Miltiade oublier la mémoire.  
+
+    THÉMISTOCLE.
+Les succès de ce Grec jusqu'à vous parvenus,  
+Je le vois bien, Seigneur, vous sont assez connus.  
+Mais... que vous ignorez ses maux !  
+
+    MILTIADE.
+        Comme mon père,  
+A-t-il aussi d'Athènes éprouvé la colère ?  
+
+    THÉMISTOCLE.
+Thémistocle, en horreur à ceux qu'il a sauvés,  
+Contre ses tristes jours voit les Grecs soulevés  
+Proscrit, persécuté, sans ami, sans asile,  
+Errant dans l'univers , fuyant de ville en ville ;  
+Tantôt des flots émus vil jouet sur les mers,  
+Et tantôt fugitif dans l'horreur des déserts :  
+Cachant partout le nom que lui fit Salamine,  
+Ce nom jadis sa gloire, à présent sa ruine ;  
+N'osant être lui-même, en un mot. Aujourd'hui  
+Il se baise aux genoux de Miltiade.
+
+Du fils de Miltiade implore ici l'appui...  
+
+    MILTIADE.
+Thémistocle !...  
+
+    THÉMISTOCLE, EN SE COUVRANT.
+        Tes yeux avec un soin extrême  
+Me cherchent, je le vois, moi-même dans moi-même.  
+Rien ne t'annonce en moi le Vainqueur de Naxos,  
+Rien dans ces murs fameux ne me suit, que mes maux»  
+Aucun de ces lauriers, cueillis près d'Artémise,  
+Ne cache ma disgrâce à ta juste surprise.  
+De ces nombreux captifs, fruit de tant de combats,  
+Aucun dans mon exil n'accompagne mes pas.  
+Livrez à leurs soupçons aussi faux que funestes,  
+Les Grecs m'ont tout ravi : Mais enfin tu me restes.  
+Conçois à ce seul mot mon estime pour toi.  
+
+    MILTIADE.
+À ce seul mot aussi, Seigneur, je la conçois.  
+Mais quels brillants objets s'offrent à ma mémoire !  
+Je me sens investi de toute votre gloire.  
+À votre auguste aspect vos exploits inouïs  
+Se présentent en foule à mes yeux éblouis.  
+Je vois à vos côtés Salamine placée :  
+Sa redoutable image étonne ma pensée ;  
+Et des Perses altiers, abattus sous vos coups,  
+Les mânes effrayés semblent fuir devant vous.  
+Mais souffrez, qu'écartant ces images pompeuses,  
+Je baise avec transport ces mains victorieuses.  
+Il lui prend les mains.
+
+Oui : j'accepte la foi que vous daignez m'offrir ;  
+Je vous donne la mienne : et s'il faut l'affermir,   [5]
+Je n'attesterai point cette splendeur divine,  
+J'en jure entre vos mains, Seigneur, par Salamine.  
+
+    THÉMISTOCLE.
+Et l'offre, et le serment j'accepte tout de toi.  
+Mais par de prompts effets dégage ici ta foi.  
+Auprès du fier Xerxès ton pouvoir est extrême,  
+Toute la Grèce en parle ; et c'est ce bruit lui-même,  
+Qui, malgré les périls semés sur tous mes pas,  
+M'a conduit de si loin jusque dans ces climats.  
+Cet espoir m'a guidé dans mes erreurs diverses,  
+Et sûr de tes vertus, je n'ai point craint les Perses.  
+Justifie aujourd'hui l'honneur que je te fais.  
+
+    MILTIADE.
+Ma fortune est à vous : expliquez vos souhaits.  
+
+    THÉMISTOCLE.
+Ta fortune ! Ô, mon fils, souffre un avis sincère,  
+Soufre que je rejette une offre trop vulgaire.  
+Te ferais-tu l'affront de croire que ton rang ,  
+Tout élevé qu'il est, soit digne de ton sang ?  
+Ce n'est que par ton nom que je te considère.  
+Ton véritable rang, c'est ton sang, c'est ton père,  
+L'immortel Miltiade. Au reste si ton cceur  
+S'offensait malgré moi d'un discours peu flatteur,  
+Excuses-en l'orgueil : la Grèce m'a vu naître,  
+Elle m'a vu vingt ans moins son chef, que son maître.  
+
+    MILTIADE.
+Mais enfin ordonnez ; Que voulez-vous de moi ?  
+
+    THÉMISTOCLE.
+Voir Xerxés, C'est-là tout ce que j'attends de toi.  
+
+    MILTIADE.
+Vous, Thémistocle, ô ciel ; vous offrir à sa vue !  
+Vous, l'éternel effroi de l'Asie éperdue !  
+Xerxès, toutes les nuits en songe consterné  
+Passe encor devant vous le Bosphore étonné.  
+La Princesse sa fille, à qui le sort contraire  
+Ravit à Salamine et trois fils, et leur père,  
+Ne rappelle jamais votre nom odieux,  
+Qu'avec de longs soupirs, et des cris furieux.  
+Des Persans affaiblis les familles désertes  
+N'accusent chaque jour que vous seul de leurs pertes.  
+Xerxès même est tout prêt à vous proscrire aussi :  
+Et je ne l'ai qu'à peine arrêté jusqu'ici.  
+
+    THÉMISTOCLE.
+J'ai vaincu. Tous les maux que tu m'as vu leur faire,  
+Sont ceux de la victoire, et non de la colère.  
+Xerxès, quoique vingt fois sous mon bras abattu,  
+Sent et connaît toujours le prix de la vertu.,  
+Son vainqueur à ses yeux ne saurait être infâme.  
+J'abaissai sa fortune, et non pas sa grande âme.  
+Non, je le connais trop : il n'a dans les combats  
+Perdu que son orgueil, sa flotte, et ses soldats.  
+D'ailleurs, qui fit jamais, s'il sut aimer la gloire,  
+Un crime à son vainqueur d'une juste victoire ?  
+Non : Xerxès saisira l'avantage flatteur  
+De réparer sa honte, en sauvant son vainqueur.  
+Il a fui devant moi : c'est à lui , s'il y pense,  
+De s'en justifier, en prenant ma défense.  
+Trop heureux, à ce prix, de faire à l'univers  
+Oublier à la fois ma gloire et ses revers :  
+Trop heureux, de pouvoir, sans sortir de l'Asie,  
+Faire rougir des Grecs l'indigne jalousie,  
+Et punir leur orgueil par l'outrage inconnu  
+D'apprendre d'un Persan ce que vaut la vertu.  
+C'est toute la vengeance, où ma douleur aspire.  
+
+    MILTIADE.
+Ce sont des sentiments nouveaux dans cet empire :  
+Vous exposez vos jours...  
+
+    THÉMISTOCLE.
+        Va, calme ce souci :  
+On aime la vertu, puisqu'on t'estime ici.  
+
+    MILTIADE.
+J'obéis. Mais, malgré le rang qui m'autorise,  
+Il faut qu'aux yeux du Prince Artaban vous conduise :  
+Satrape, dès longtemps puissant auprès du Roi,  
+Fier, et jaloux surtout de son rang, et de moi.  
+Les Cours de l'Orient, esclaves d'elles-mêmes,  
+Observent ces devoirs comme des lois suprêmes.  
+On n'en dispense point. Souffrez qu'en vous nommant...  
+
+    THÉMISTOCLE.
+Me nommer ! Laisse-moi dans mon déguisement.  
+Mais dis, si tu le veux, à ce Ministre austère,  
+Qu'un étranger, chargé d'un avis salutaire,  
+Vient du fond de la Grèce en instruire son Roi,  
+Que de cet étranger tu répons sur ta foi.  
+
+    MILTIADE.
+Vous le voulez , Seigneur : J'obéis à mon maître.  
+Artaban n'est pas loin ; vous l'allez voir paraître.  
+Il sort.
+
+
+
+## SCÈNE III.
+
+    THÉMISTOCLE, SEUL.
+Palais du grand Cyrus, séjour, que mes exploits  
+De pleurs, de sang, de deuil ont rempli tant de fois,  
+Que le Sort en ce jour venge bien vos alarmes !  
+Je fuis des lieux chéris, et sauvés par mes armes ;  
+Et je cherche un asile, où je suis en horreur.  
+Ô, Grèce, où me réduit ton injuste fureur !  
+
+
+## SCÈNE IV. Thémistocle, Artaban, Miltiade.
+
+    MILTIADE, À ARTABAN.
+C'est-là cet étranger, dont le sort m'intéresse ,  
+Seigneur ; il est instruit des secrets de la Grèce,  
+Si pour lui mes esprits ne sont trop prévenus,  
+C'est quelqu'un de ces Grecs que leur gloire a perdus.  
+Vous le savez, Seigneur : par un caprice extrême,  
+La Grèce également craint le mérite, et l'aime.  
+Tout homme sans vertus est moins qu'homme à ses yeux :  
+Et quiconque en a trop, lui devient odieux ;  
+Sa fière liberté, qu'alarme une victoire,  
+Chasse, en les admirant, les auteurs de sa gloire :  
+Et redoutant toujours ceux qu'elle a fait trop grands.  
+Ne leur pardonne point d'être heureux trop longtemps.  
+C'est ainsi qu'à mon père elle osa faire un crime,  
+D'avoir dix ans entiers captivé son estime :  
+Et ne lui pardonna ses triomphes divers,  
+Que lorsqu'elle le vit expirer dans les fers.  
+
+    ARTABAN.
+Ah, que ces mêmes Grecs, plus justes dans leur haine,  
+N'ont-ils à Thémistocle imposé même peine !  
+Pourquoi, froids spectateurs de ses faits inouïs,  
+Depuis plus de vingt-ans les laisser impunis ?  
+Vos Grecs attendent-ils, pour jurer sa ruine,  
+Un excès de bonheur plus grand que Salamine ?  
+Xerxès, le grand Xerxès fuyant abandonné,  
+Est-ce un succès si vain pour être pardonné ?  
+
+    THÉMISTOCLE.
+Vous vous livrez, Seigneur, à d'inutiles plaintes.  
+Le fléau des Persans, cet objet de vos craintes,  
+Ce Thémistocle enfin, si coupable à vos yeux,  
+Est à ceux de la Grèce encor plus odieux.  
+Pour venger de vos Rois la honte et les alarmes,  
+La Grèce l'a puni du succès de ses armes,  
+Il est proscrit, Seigneur...  
+
+    ARTABAN.
+        Ombre du grand Cyrus,  
+Ton trône est éternel : Thémistocle n'est plus.  
+Enfin l'or des Persans, semé par mon adresse,  
+Contre ce fier proscrit a soulevé la Grèce.  
+Ce qu'ont tenté sans fruit sur la terre et les eaux  
+Nos Cohortes sans nombre, et nos mille vaisseaux,  
+Grâce au dépit jaloux de Sparte contre Athènes,  
+Mille talents l'ont fait sans péril et sans peine.  
+
+    THÉMISTOCLE.
+De ce grand coup, Seigneur, conduit si sourdement,  
+Vous vous applaudissez peut-être vainement.  
+Thémistocle est proscrit : mais soyez peu tranquille.  
+De tout temps en héros la Grèce fut fertile.  
+Thémistocle des Grecs est-il l'unique appui ?  
+Combien qui savent l'art de vaincre comme lui ?  
+Soutenu si longtemps par un bonheur extrême,  
+Son exemple a formé plus d'un autre lui-même.  
+Mais, devant votre Roi dans ce jour introduit,  
+De secrets importants si ma bouche l'instruit,  
+De vos mille talents, déjà perdus peut-être,  
+J'assure pour jamais les fruits à votre maître.  
+
+    ARTABAN.
+J'y consens. Mais tu sais, que le Grec trop jaloux,  
+N'abaisse qu'aux autels ses superbes genoux.  
+Pour nous, devant nos rois, images de Dieu même,  
+Courbez, nous adorons le sacré diadème.  
+Si donc à son aspect, comme nous aujourd'hui,  
+Tu consens de fléchir le genoux devant lui ;  
+Viens, suis moi...  
+
+    MILTIADE.
+    Mais on peut...  
+
+    ARTABAN.
+        Quoi, d'un Roi qui vous ajme,  
+Vous soutenez ainsi la Majesté suprême ?  
+Osez-vous donc ravir à son Sceptre éternel  
+Des respects, que lui doit quiconque, est né mortel ?  
+
+    MILTIADE.
+Satrape, ce reproche est mal dans votre bouche.  
+Mais un autre intérêt à cette heure me touche :  
+Satisfaites ce Grec.  
+
+    THÉMISTOCLE.
+        C'est à moi de prévoir  
+Ce que pourrait peut-être exiger mon devoir.  
+Lorsque, conduit au trône aux pieds de votre maître,,  
+Je me serai moi-même à lui seul fait connaître,  
+S'il exige d'un Grec un hommage peu dû,  
+Je verrai ce qu'alors me dira ma vertu.  
+
+    ARTABAN.
+Sera-t-il temps alors ?... Mais puisqu'on le désire,  
+Allons. Quel est ton nom ?  
+
+    MILTIADE.
+        Il ne peut nous le dire.  
+C'est un secret, Seigneur, réservé pour le Roi.  
+
+    ARTABAN, D’UN TON FIER.
+Je ne puis l'introduire.  
+
+    MILTIADE.
+        Étranger, suivez-moi.  
+
+
+## SCÈNE V.
+
+    ARTABAN.
+Que va-t-il donc tenter ? Oserait-il lui-même  
+Conduire un inconnu jusqu'au trône suprême ?...  
+Mais pourquoi de ce Grec se faire ainsi l'appui ?  
+Quel intérêt si grand l'a prévenu pour lui ?  
+Tantôt il me menace, et tantôt me caresse...  
+
+
+## SCÈNE VI. Artaban, Hydaspe.
+
+    HYDASPE.
+Seigneur, deux envoyés arrivent de la Grèce ;  
+Et chargés, disent-ils , d'un secret important,  
+Pressent d'être introduits s'il se peut, à l'instant.  
+
+    ARTABAN.
+Mais, Hydaspe, dit-on quel sujet les amène ?  
+
+    HYDASPE.
+On n'en dit rien encor, Seigneur. L'un vient d'Athènes,  
+L'autre arrive de Sparte.  
+
+    ARTABAN.
+        Allons savoir quel soin.  
+À Suze tout à coup les conduit de si loin.  
+Toi, cours de Miltiade observer la conduite,  
+Et veille sur ce Grec, qu'il a pris à sa suite.  
+De ces lieux à l'instant l'un et l'autre est sorti.  
+S'ils entrent chez le Roi, que j'en sois averti.  
+Je ne sais ce qu'augure une crainte secrète,  
+Mais ce fier inconnu me trouble et m'inquiète.  
+
+
+# ACTE II.
+
+
+## SCÈNE PREMIÈRE. Xerxès, Miltiade.
+
+    XERXÈS.
+Qu'il vienne, j'y consens : et m'en fie à toi.  
+Mais qu'Artaban ici l'amène devant moi ;  
+Je prétends, comme lui, que la loi soit gardée.  
+D'ailleurs, puisque ce Grec m'en rappelle l'idée ,  
+Je saurai d'Artaban, si l'arrêt qui proscrit  
+Thémistocle...  
+
+    MILTIADE.
+        Ah, grand Roi, vous l'avez donc souscrit  
+Ce rigoureux arrêt ?  
+
+    XERXÈS.
+        Lassé de tant de gloire.  
+Dont ce Grec chaque jour illustre sa mémoire :  
+Je ne puis plus longtemps captiver ma fureur.  
+Son nom me frappe encor d'une secrète horreur.  
+Il faut te l'avouer, à ma honte sans doute :  
+Vingt ans sont écoulés depuis notre déroute ;  
+En songe cependant, dans l'ombre de la nuit,  
+Présent à mes esprits, ce mortel me poursuit.  
+Attaché sur mes pas, je crois le voir encore  
+Le fer levé, me suivre et m'atteindre au Bosphore ;  
+Il me frappe... À l'instant par la frayeur poussé,  
+Un cri rompt mon sommeil, à peine commencé.  
+De ce Grec odieux mon âme est trop blessée ;  
+Quand il ne sera plus, j'en perdrai la pensée.  
+
+    MILTIADE.
+Je connais vos vertus : non, un songe si vain  
+N'a point à le proscrire obligé votre main.  
+Une raison plus forte a su vous y résoudre :  
+Vous allez sur les Grecs faire tomber la foudre.  
+
+    XERXÈS.
+La guerre est résolue, il est vrai. L'univers  
+Condamne ma lenteur à venger mes revers,  
+Chaque instant que je vis, sans réparer ma gloire,  
+Désespère mon coeur, et flétrit ma mémoire.  
+Les succès malheureux, si longtemps négligés,  
+Se tournent en affront, et ne sont plus vengés ;  
+Le sort s'en justifie : et nous chargeant du blâme,  
+Il fait de nos malheurs des vices à nôtre âme ;  
+Et pour comble de maux, les peuples abusés   [6]
+Érigent en héros ceux qui les ont causés.  
+L'arrêt en est porté : La guerre est résolue.  
+La gloire ma parlé, la gloire est absolue.  
+Mais, pour entrer en Grèce et pour la conquérir,  
+L'odieux Thémistocle avant tout doit périr.  
+C'est l'unique rempart, dont la force invincible  
+Me rend, depuis vingt ans, l'Europe inaccessible.  
+Mais ce rempart détruit, vainqueur dès lors, je vois  
+Les Grecs épouvantés tomber tous devant moi.   [7]
+Je vois les fiers rochers, que ferme Thermopyle,  
+S'ouvrir, et me laisser un passage facile.  
+Rien ne m'arrête plus...  
+
+    MILTIADE.
+        Oui : mais Sparte, Seigneur ,  
+
+    XERXÈS.
+Elle est pour nous.  
+
+    MILTIADE.
+        Quoi, Sparte ? Un espoir si flatteur  
+Veut un garant...  
+
+    XERXÈS.
+    Je l'ai.  
+
+    MILTIADE.
+    Quel est-il donc ?  
+
+    XERXÈS.
+        Sa haine.  
+Une jalouse aigreur l'irrite contre Athènes.  
+L'envie en ses accès ne haït pas à demi ;  
+Un rival à ses yeux est plus qu'un ennemi.  
+Telle est Sparte sur tout. Dans ses fougueux caprices.  
+Ainsi qu'en ses vertus extrême dans ses vices,  
+À ses transports jaloux elle se livrera,  
+Et pour détruire Athènes, elle se détruira.  
+
+
+## SCÈNE II. Xerxès, Miltiade, Artaban.
+
+    ARTABAN.
+Un étranger, Seigneur, sans se faire connaître,  
+Ose, devant vos yeux, demander à paraître ;  
+Un soupçon dans mon coeur s'élève malgré moi.  
+Il m'est suspect.  
+
+    XERXÈS.
+        Qu'il entre : On répond de sa foi ;  
+D'un secret important il demande à m'instruire...  
+Au reste, en tous les lieux soumis à mon empire,  
+Avez-vous envoyé l'ordre que j'ai souscrit,  
+Et le fier Thémistocle est-il enfin proscrit ?  
+
+    ARTABAN.
+Il l'est. L'Europe même a prévenu l'Asie.  
+Les Grecs, depuis un mois, ont mis à prix sa vie ;  
+Et leurs Ambassadeurs, arrivés aujourd'hui,  
+Le font chercher en Perse, où l'on dit qu'il a fui.  
+Sans tarder plus longtemps il faudrait les entendre.  
+
+    XERXÈS.
+Non : je veux voir le Grec, vous dis-je. Allez-le prendre.  
+
+
+## SCÈNE III. Xerxès, Miltiade, Thémistocle, Artaban.
+
+    ARTABAN, CONDUISANT THÉMISTOCLE.
+Obéis, Étranger ; adore le grand Roi.  
+
+    THÉMISTOCLE.
+Je n'ai point ici d'ordre à recevoir de toi.  
+Seigneur, daignez suspendre une loi qui me gêne.  
+Quand vous m'aurez connu, peut-être qu'avec peine  
+Vos yeux me trouveraient à vos pieds abattu,  
+Athènes est ma patrie, et j'en ai la vertu.  
+
+    XERXÈS.
+Je distingue, il est vrai, malgré toute ma haine,  
+Du reste de vos Grecs la vertueuse Athènes.  
+Mais d'un juste devoir, où tu crois t'abaisser,  
+Pour être Athénien te veux-tu dispenser ?  
+À peine, au souvenir de sa vertu suprême ,  
+En voudrais-je affranchir Thémistocle lui-même.  
+
+    THÉMISTOCLE.
+D'un Roi si généreux je n'attendais pas moins ;  
+Vous me dispensez donc de ces serviles soins.  
+Portez contre mes jours l'arrêt le plus sévère ;  
+Qui sauve sa vertu, n'a plus de perte à faire.  
+Roi, voici Thémistocle.  
+
+    XERXÈS.
+        Ah, que vois-je, grands Dieux !  
+
+    THÉMISTOCLE.
+Vous frémissez d'horreur à ce nom odieux,  
+Je le vois. Tous les maux, que durant tant d'années,  
+Par mon bras à la Perse ont fait les Destinées,  
+S'offrent, en me voyant, à votre souvenir ;  
+Et pressent votre coeur de vouloir m'en punir.  
+Punissez, vengez-vous. Si vaincre c'est un crime,  
+Je puis bien l'avouer, ma peine est légitime.  
+Vous ne me verrez point, pour arrêter vos coups,  
+De mes propres vertus m'excuser devant vous.  
+Mais aujourd'hui, Seigneur, si vous daignez m'en croire,  
+Mes malheurs désormais vont faire votre gloire :  
+Je puis vous rendre illustre et cher à l'univers.  
+Jalouse du grand nom que m'ont fait vos revers,  
+Comme si ces revers n'étaient pas sa fortune,  
+La Grèce m'a proscrit. Aux fureurs de Neptune,  
+Aux périls que la terre enfantait sous ses pas,  
+Thémistocle échappé se jette entre vos bras.  
+Quel honneur ; ô Xerxès, vous fait ma confiance !  
+Malgré tout ce que doit vous dicter la vengeance,  
+Je vous crois généreux, même jusqu'à juger  
+Que vous pouvez haïr, et pourtant protéger.  
+Justifiez, Seigneur, une si haute estime.  
+Faites rougir la Grèce, en lui montrant son crime.  
+Qu'elle apprenne de vous, pour punir sa fierté,  
+Ce que vaut un mortel, qui vous a résisté.  
+Sauvez ce qu'elle perd : et par cette clémence,  
+Prenez d'elle et de moi la plus digne vengeance.  
+En nous faisant l'affront de nous vaincre en vertu,  
+Faites douter encor, si vous fûtes vaincu.  
+C'est là l'insigne honneur, que sous d'autres auspices,  
+Gardaient à vos vieux ans des Destins plus propices,  
+S'ils m'amènent à vous, c'est pour vous relever  
+Par la gloire sans prix de pouvoir me sauver.  
+C'est pour vous que je viens, plutôt que pour moi-même,  
+Selon qu'usant sur moi de son pouvoir suprême,  
+Xerxés prononcera sur mon sort aujourd'hui,  
+J'apporte l'infamie, ou la gloire chez lui.  
+Je vous laisse choisir.  
+
+    XERXÈS, D’UN TON IRRITÉ.
+        Mon choix n'est plus à faire :  
+Ton nom l'a décidé. Sortez tous. Qu'on éclaire  
+Tous les pas de ce Grec ; et veillez Sur ses jours;  
+Toi, demeure.  
+À Miltiade.
+
+
+
+## SCÈNE IV. Xerxés, Miltiade.
+
+    MILTIADE.
+        Ainsi donc ce héros, sans secours,  
+Va tomber à l'autel qu'il a crû salutaire ;  
+Et souiller de son sang le Dieu qu'on y révère !  
+Au nom de vos vertus, que vous allez flétrir,  
+Pour le plus grand des Grecs laissez-vous attendrir.  
+La bonté fait les dieux et non pas la puissance.  
+
+    XERXÈS.
+Étouffe des soupçons, dont ma gloire s'offense.  
+Moi, le faire périr, quand lui-même à mes coups  
+Se livrant Sans frayeur, enchaîne mon courroux ?  
+Quand, se montrant pour moi rempli de tant d'estime,  
+De ma propre vengeance il sait me faire un crime ?  
+
+    MILTIADE.
+Mais d'une voix terrible, et d'un oeil courroucé  
+Vous l'avez loin de vous indignement chassé ?  
+
+    XERXÈS.
+Saisi d'étonnement, plein d'une joie extrême,  
+Non, mon coeur n'était plus le maître de lui-même.  
+Ce double sentiment, dont j'étais agité,  
+Plus qu'il n'eût convenu, peut-être eût éclaté.  
+Pour retenir esclave un transport téméraire,  
+Ma voix, mes yeux ont feint la haine et la colère...  
+Qu'un mérite parfait, dès lors qu'il se fait voir,  
+A sur les coeurs des Rois un étrange pouvoir !  
+Le long ressentiment de ma gloire flétrie  
+S'est calmé tout à coup dans mon âme ravie.  
+J'ai vu de ce héros les succès immortels,  
+Et je ne les ai plus trouvés si criminels.  
+De ses nobles discours sa gloire soutenue  
+Paraissait mille fois plus brillante à ma vue.  
+Le Bosphore et Naxos, ses crimes autrefois,  
+Se montraient ce qu'ils sont, de glorieux exploits.  
+Ses maux même, ses maux, joints à sa renommée,  
+L'offraient cent fois plus grand à mon âme charmée.  
+J'ai cessé de haïr, et me fuis convaincu  
+Que je puis, que je dois aimer qui m'a vaincu.  
+Je le tiens ce héros ; sa juste confiance  
+Me livre Thémistocle... Il est en ma puissance.  
+Conçois toute ma gloire ; il est entre mes mains  
+Cet illustre Grec, le plus grand des humains,  
+Rien n'égale l'excès de mon bonheur suprême.  
+J'ai sa foi... son estime... enfin je l'ai lui-même.  
+Soleil, divin flambeau qui brilles dans les cieux,  
+Du trône de Cyrus protecteur glorieux,  
+Si jusqu'ici pour moi ta course infortunée  
+A de jours malheureux marqué ma destinée,  
+Il ne m'en souvient plus. Tu gardais à Xerxès  
+Dans l'hiver de ses jours le plus grand des succès.  
+J'ai fui devant ce Grec, et ce Grec invincible  
+Fuit aux pieds dé mon trône, et m'y trouve sensible.  
+Il fut mon ennemi : je deviens son appui.  
+Il m'a vaincu jadis : je le fauve aujourd'hui.  
+En m'ouvrant à la gloire une si belle route,  
+En un triomphe auguste il change ma déroute :  
+Et pour tous les lauriers qu'il remporta sur moi,  
+Il me rend aux vertus les plus dignes d'un Roi.  
+
+    MILTIADE.
+De mes honteux soupçons je sens l'injure extrême ;  
+Votre coeur est plus haut que votre trône même,  
+Seigneur. Mais cependant, en ce même moment,  
+Le triste Thémistocle écarté fièrement,  
+Fondé dans ses soupçons, si j'ose vous le dire,  
+Doute de la vertu que moi-même j'admire;  
+Ah, grand Roi, dans le coeur d'un si fameux héros  
+Un mépris d'un moment est le plus grand des maux.  
+
+    XERXÈS.
+Gardes, faites entrer ; Et que le Grec revienne.  
+
+
+## SCÈNE V. Xerxès, Miltiade, Artaban, les Satrapes.
+
+    XERXÈS, AUX SATRAPES PROSTERNÉS.
+Satrapes, levez-vous. L'objet de votre haine,  
+L'éternel ennemi de mon trône sacré,  
+Thémistocle y demande un asile assuré.  
+J'avais proscrit ses jours, le croyant dans la Grèce.  
+Ici, pour ce mortel votre Roi s'intéresse :  
+Je l'absous. Oubliez tous vos malheurs passez ;  
+Il m'a crû généreux : ils sont tous effacés.  
+Ma fille à sa douleur toujours abandonnée,  
+Pleure encor de ses fils l'affreuse destinée ;  
+Le nom seul de ce grec, frappant son souvenir,  
+Aigrirait trop son deuil.  
+À Artaban.
+
+        Allez la prévenir.  
+
+    MILTIADE.
+Seigneur, l'arrêt subsiste ; et fatal à sa vie,  
+Peut contre Thémistocle armer la perfidie.  
+
+    XERXÈS.
+Je t'entends...  
+À Artaban.
+
+        Qu'un nouveau le révoque à l'instant.  
+
+
+## SCÈNE VI. Xerxès, Thémistocle, Miltiade, les Satrapes.
+
+    XERXÈS.
+Approche, illustre Grec. Dans cet embrassement  
+Que tes seules vertus me rendent légitime,  
+Viens, reçois de Xerxès la parole et l'estime.  
+Mon Trône est ton asile, et mon bras ton appui.  
+Oublie auprès de moi tes Grecs dès aujourd'hui.  
+De ces peuples ingrats l'indigne jalousie  
+Voudrait en vain...  
+
+    THÉMISTOCLE.
+        Arrête, Arbitre de l'Asie.  
+En marquant pour les Grecs d'injurieux mépris,  
+De tes rares bienfaits n'avilis point le prix.  
+Laisse-moi les goûter, sans rougir pour Athènes.  
+Ces Peuples, il est vrai, portent trop loin leur haine,  
+Mais, de leur liberté justement amoureux,  
+C'est par trop de vertu, qu'ils sont moins généreux.  
+Durs pour le citoyen, tendres pour la patrie,  
+Le zèle seul en eux produit la jalousie.  
+Pardonnes, si j'excuse ici tes ennemis :  
+En te voyant si grand, je me le crois permis.  
+Mais si mon zèle encore ose excuser la Grèce,  
+Juge, à quel point pour toi tout ici m'intéresse.  
+Le sang m'unit aux Grecs ; à toi, c'est la vertu ;  
+Et ce dernier lien ne peut être rompu.  
+Connais même pour toi l'excès de mon estime.  
+Je vois comme un devoir ce que j'ai pris pour crime :  
+Mon vertueux orgueil n'en est plus offensé.  
+Je te rends les respects, dont tu m'as dispensé.  
+J'adore ta vertu...  
+En se relevant.
+
+        Mais non ton diadème.  
+
+    XERXÈS.
+J'accepte tes respects terminés à moi-même,   [8]
+Et puisqu'au trône auguste, où tu me vois assis,  
+Tu m'apportes ta tête, acceptes-en le prix.  
+J'ajoute à ce présent, que te fait ma justice,   [9]
+Quatre villes, Lampsaque et l'antique Larisse ;   [10]
+J'y joins la vaste Elée, et la riche Palmis.  
+Je les mets sous ta loi : leur peuple t'est soumis.  
+Et pour te faire un don plus digne encor d'envie,  
+Toi, Miltiade, ici veille au soin de sa vie :  
+Sois sa garde en ces lieux, comme moi son appui ;  
+Et partage tes soins entre Xerxès et lui.  
+Après tant de périls, de travaux, et de crainte,  
+Allez, illustre Grec, respirer sans contrainte.  
+Tous sortent, hors le Roi. Artaban est entré un peu par avant.
+
+
+
+## SCÈNE VII. Xerxès, Artaban.
+
+    XERXÈS.
+Ma fille est-elle instruite, et Suze a-t-elle appris  
+Que je veux protéger les jours, que j'ai proscrits ?  
+
+    ARTABAN.
+L'un et l'autre, Seigneur, trouvent plus d'un obstacle.  
+
+    XERXÈS.
+Comment ? Malgré mon ordre...  
+
+    ARTABAN.
+        Un étrange spectacle  
+Chez Roxane et dans Suze a frappé mes esprits,  
+
+    XERXÈS.
+Quoi ?  
+
+    ARTABAN.
+        La Princesse en pleurs remplit tout de ses cris.  
+Au seul nom de ce Grec, protégé par vous-même,  
+Sa douleur assoupie est devenue extrême.  
+Il vous souvient, Seigneur, du jour infortuné ;  
+Quand, à la consoler malgré-moi destiné,  
+Je fus de ses malheurs lui porter la nouvelle.  
+Sa peine, à ce récit, fut cent fois moins cruelle.  
+Ce fut douleur alors, c'est vengeance aujourd'hui,  
+C'est fureur. Mais surtout elle accuse l'appui,  
+Que prête votre Sceptre à ce Grec qu'elle abhorre,  
+Livrée à ses transports , elle atteste, elle implore;  
+Les mânes de ses fils, de son illustre époux  
+Justement étonnés d'être trahis par vous.  
+
+    XERXÈS.
+Dieux !  
+
+    ARTABAN.
+        Suze d'autre part, détestant Salamine,  
+Veut qu'on livre le Grec, auteur de sa ruine,  
+L'un lui demande un fils par le fer égorgé,  
+Et l'autre, un jeune époux dans les flots submergé,  
+De mille affreux trépas on rappelle l'image...  
+Nos vaisseaux embrasés fumants sur le rivage,  
+La mer couverte au loin de corps demi brûlés,  
+Et ses flots écumeux de carnage troublés.  
+Tout se couvre de deuil : et Suze consternée  
+Semble encor de Naxos apprendre la journée,  
+En vain vous révoquez votre premier édit :  
+On s'obstine à vouloir Thémistocle proscrit,  
+Bientôt Suze, élevant sa voix contre son maître,  
+Demandera... Que dis-je ? Ordonnera peut-être.  
+
+    XERXÈS.
+Ma promesse en mon coeur parle encore plus haut ;  
+Et Suze dans ce jour m'entendra, s'il le faut.  
+Contre le destructeur de ma triste famille  
+Je ne crains aujourd'hui, que les pleurs de ma fille.  
+
+
+## SCÈNE VIII. Roxane, Suite, Artaban.
+
+    ROXANE.
+Qu'est devenu mon père ?... Il était avec vous.  
+
+    ARTABAN.
+Il est sorti, Madame, enflammé de courroux.  
+Il s'offense des pleurs, que Suze ose répandre :  
+Et loin de les venger, il court les lui défendre.  
+C'en est fait, si vos cris n'attendrissent son coeur,  
+Vos fils, et nos enfants demeurent sans vengeur.  
+Suze n'a désormais plus d'espoir qu'en vos larmes.  
+
+    ROXANE.
+Cet espoir vous suffit. Apaisez vos alarmes.  
+Quoi, ma victime arrive, et pourrait échapper  
+Au coup, dont ma douleur est prête à la frapper !  
+Mon père écouterait une indigne clémence !  
+Il laisserait sa fille expirer sans vengeance !  
+Il m'aime, il est mon père : allez , ne craignez rien ;  
+Il trahirait son sang, s'il ne vengeait le mien.  
+À Artaban.
+
+Nos maux vont s'adoucir : souffre, qu'ici Thémire,  
+Pour la dernière fois mon triste coeur soupire...  
+Cher époux, ô mes fils, si sur les sombres bords  
+Une illustre vengeance y flatte encor les morts,  
+Ô, que vos mânes saints vont goûter de délices !  
+À vos cris, à mes pleurs les Dieux enfin propices;  
+Aux pieds de vos tombeaux, si longtemps mes autels,  
+Amènent un héros, le plus grand des mortels,  
+Thémistocle... À ce nom, trop connu même aux ombres,  
+Je vois le deuil s'enfuir de vos visages sombres.  
+Dans ce superbe espoir vos mânes soulagés  
+Commencent d'oublier , qu'ils furent outragés.  
+Déja des morts fameux les ombres fortunées  
+Baissent, à votre aspect, leurs têtes couronnées :  
+Et vous voyant vengés au prix d'un si beau sang,  
+Se lèvent devant vous, et vous offrent leur rang.  
+Mais viens, en attendant le retour de mon père,  
+Allons, Thémire, allons, sur leur cendre si chère,  
+Redire mille fois, quelle victime enfin  
+Leur prépare en ces lieux la faveur du Destin.  
+
+
+# ACTE III.
+
+
+## SCÈNE PREMIÈRE. Artaban, Hydaspe.
+
+    ARTABAN.
+En vain j'avais compté sur un peuple volage,  
+Hydaspe : un seul regard a dissipé l'orage.  
+Malgré les fiers transports d'un sombre désespoir,  
+Dans les yeux de son Roi Suze a lu son devoir.  
+
+    HYDASPE.
+Ne désespérez point. Suze a feint de se rendre.  
+L'intérêt, qui la touche, est trop vif et trop tendre :  
+Par les cris de son sang le Perse est animé ;  
+Le respect l'a surpris, mais ne l'a pas calmé.  
+Si la bouche se tait, Seigneur, le sang murmure ;  
+Jamais le seul respect n'étouffa la nature...  
+Vous ne m'écoutez pas ?  
+
+    ARTABAN.
+        Des deux ambassadeurs,  
+Dis-moi, selon mon ordre, as-tu sondé les coeurs ?  
+Veulent-ils en effet tous deux ce qu'ils prétendent ?  
+Tous deux haïssent-ils la tête, qu'ils demandent ?  
+S'ils sont ses ennemis seulement par devoir,  
+Ils voudront moins sa mort, que sembler la vouloir.  
+Ils parleront bien haut, comme ils doivent le faire ;  
+Mais jamais le devoir ne termine une affaire.  
+Quelque ardeur qu'il affecte , il ne veut qu'à demi ;  
+L'intérêt sait lui seul agir en ennemi.  
+
+    HYDASPE.
+Le succès est donc sûr, et le Grec est sans vie :  
+L'un brûle de fureur, l'autre de jalousie.  
+L'un hait en ennemi, l'autre abhorre en jaloux.  
+Vous avez pour garants l'Envie et le Courroux.  
+Quel espoir eut jamais un appui plus solide ?  
+L'Athénien, Seigneur, c'est le juste Aristide ;  
+Et l'envoyé de Sparte est le fier Parmenis :  
+Tous deux, de Thémistocle éternels ennemis.  
+Le Proscrit , d'Aristide implacable adversaire,  
+Fit punir de l'exil sa vertu trop sévère.  
+Vous le savez, Seigneur, ces austères esprits  
+Ne se dépouillent plus des chagrins qu'ils ont pris.  
+La vertu dans leurs coeurs éternise la haine,  
+Elle en fait un devoir. L'autre, jaloux d'Athènes,  
+Nourrit contre elle un fiel qu'on n'adoucit jamais.  
+Les peuples ennemis font quelque fois la paix.  
+Malgré les flots de sang dont leur main s'est trempée,  
+Ils quittent à la fois la colère et l'épée.  
+Mais les peuples rivaux sont jaloux sans retours :  
+Ils cessent de combattre, et s'abhorrent toujours.  
+
+    ARTABAN.
+Ah, tu me rends l'espoir, tu consoles ma haine.  
+Car enfin trop longtemps je te cache ma peine.  
+Sais-tu quel est ce Grec ? As-tu vu dans ses yeux  
+Cet orgueil insultant d'un chef victorieux ?  
+C'est lui, lui-même, ( ô ciel, faut-il que je le dise ? )  
+Qui m'a vaincu trois fois aux rochers d'Artémise.  
+L'insolent ! Il n'a point d'ordre à prendre de moi,  
+Dit-il. Malgré moi-même il ose voir le Roi.  
+Il fait plus : sans daigner craindre un peu ma colère,  
+Il ose le flatter, le gagner et lui plaire.  
+Lui plaire ! Ah, c'en est trop. Fier d'un fragile appui,  
+Il pense, je le vois, tout obtenir par lui.  
+Déjà même peut-être il trame ma disgrâce ;  
+Son téméraire orgueil déjà monte à ma place.  
+Il croit, contre les Grecs conduisant nos soldats,  
+Sous nos propres drapeaux me voir suivre ses pas.  
+Que dis-je ? Ah, c'en est fait : oui, ma perte est jurée,  
+Un jeune ambitieux l'a déjà préparée :  
+Un autre.... Et quel mortel ! En fut-il un jamais  
+Plus fier dans les combats, plus sage dans la paix ?  
+Dieux, comme on l'a reçu ! Le superbe Monarque  
+A-t-il de son estime oublié quelque marque ?  
+Tu l'as vu, de son trône oubliant la splendeur,  
+Se livrer sans réserve aux bras de son vainqueur.  
+Quel discours ! Quels égards ! C'est peu ; Quel respect même !   [11]
+Ô, trône de Cyrus ! Ô, sacré Diadème !   
+Viens, allons arrêter ma chute et sa faveur...  
+Qui s'avance vers nous ;  
+
+    HYDASPE.
+        C'est Parmenis, Seigneur.  
+Il est seul.  
+
+
+## SCÈNE II. Artaban, Parmenis.
+
+    ARTABAN.
+        Vous savez, Seigneur, ce qui se passe.  
+Thémistocle est à Suze, et le Roi lui fait grâce.  
+J'en triomphe avec vous : car je sais qu'en secret  
+Vous protégez ce Grec, que vôtre Sparte hait.  
+Pour moi, qui vous croyais avide de vengeance,  
+J'allais joindre à vos soins ce que j'ai de puissance ;  
+Et servant votre Sparte afin de vous servir ,  
+La délivrer d'un Grec, qui sut l'assujettir.  
+Mais j'aime mieux cent fois vous obliger vous-même,  
+Qu'un peuple impétueux, qui ne sait ce qu'il aime,  
+Vous êtes un ami, dont on doit faire cas :  
+Qui sert un peuple entier fait un peuple d'ingrats.  
+
+    PARMENIS.
+Seigneur, le temps est court ; laissons la calomnie,  
+Sans égard pour moi-même obligez ma patrie.  
+Délivrez-la d'un Grec, qui fait tout son effroi :  
+Et pour me servir mieux, servez-la malgré moi.  
+Mon amitié vous touche, elle vous paraît chère ;  
+Je la mets à ce prix.  
+
+    ARTABAN.
+        Vous êtes peu sincère.  
+Et j'en crois à vos yeux, plus qu'à tous vos discours.  
+Allez ; de votre ami je garantis les jours.  
+Cependant affectez tous les soins de la haine :  
+Si vous vous démentez, votre perte est certaine.  
+Car enfin, avant lui, la Grèce à vos genoux  
+Rampait, vous le savez, tremblante devant vous :  
+Et Neptune, à la voix de Sparte triomphante ,  
+Courbait sous vos vaisseaux son onde obéissante.  
+Que les temps sont changés ! Votre ami glorieux  
+A fait dans son parti passer jusqu'à vos Dieux.  
+La Grèce toute entière est sous la loi d'Athènes,  
+Et la mer ne connaît qu'elle pour souveraine.  
+
+    PARMENIS.
+Allons au Roi, Seigneur : Vous verrez de vos yeux,  
+Si jamais un mortel me fut plus odieux :  
+Si de mes citoyens je trahis la vengeance.  
+
+    ARTABAN.
+Arrêtez. Voulez-vous calmer ma défiance ?  
+Voulez-vous de ce Grec le trop juste trépas ?  
+Ce moyen est peu sûr : vous ne l'obtiendrez pas.  
+
+    PARMENIS.
+Montrez-m'en un meilleur ; quel qu'il soit, je l'embrasse.  
+
+    ARTABAN.
+N'attendez rien du Roi, Seigneur : il a fait grâce.  
+Xerxés de ce proscrit s'est déclaré l'appui :  
+Il l'a dit : sa parole est un serment pour lui.  
+Je connais un chemin plus sûr et plus facile.  
+Mais la vertu de Sparte intraitable, indocile ,  
+Voit comme un crime affreux tout détour moins permis...  
+
+    PARMENIS.
+Sparte veut se venger de ses fiers ennemis ;  
+Et jamais sa vertu ne voit dans la vengeance ,  
+Que la peine trop due à quiconque l'offense.  
+
+    ARTABAN.
+Enfin l'austère Sparte a banni de ses moeurs  
+Une vaine droiture, et de folles rigueurs :  
+Et se faisant des lois, moins justes , mais plus sages,  
+A mis de la raison dans ses vertus sauvages.  
+Ma joie en est extrême. Encor quelques moments  
+Conservez-vous, Seigneur, dans ces vrais sentiments.  
+Je prévois, que bientôt ce généreux courage,  
+S'il veut bien ce qu'il veut, en pourra faire usage.  
+On vient... C'est Aristide : il s'avance vers moi.  
+Dissimulez.  
+
+
+## SCÈNE III. Aristide, Artaban, Parmenis.
+
+    ARISTIDE.
+        Quand donc verra-t-on votre Roi ?  
+
+    ARTABAN.
+Vous serez introduit, Seigneur, à l'heure même.  
+Le Roi n'ignore point votre vertu suprême.  
+Mais souffrez qu'avec vous je m'arrête un moment.  
+Je vois avec chagrin ce grand empressement.  
+Le refus assuré, que Xerxès vous prépare,  
+Répondra mal aux soins d'une équité si rare.  
+Le Prince n'est plus libre. À quoi sert de le voir ?  
+Thémistocle a sa foi... Que faire ?  
+
+    ARISTIDE.
+        Mon devoir.  
+Que Xerxès le protège en Prince magnanime,  
+Il le doit : et pour lui j'en aurai plus d'estime.  
+
+    ARTABAN.
+C'est toujours un affront qu'un refus, quel qu'il soit.  
+
+    ARISTIDE.
+Rougit-on parmi vous, quand on fait ce qu'on doit ?  
+
+    ARTABAN.
+Mais si pareil refus, comme il vous plaît de croire,  
+Ne peut diminuer l'éclat de vôtre gloire,  
+Ne trompera-t-il point le trop juste dépit,  
+Que nourrit votre coeur contre ce fier proscrit ?...  
+Hélas, de quels affronts son implacable envie  
+N'a-t-elle pas flétri votre innocente vie ?  
+Nos mers, cinq ans entiers, sur leur bord étonné  
+Vous ont vu sans honneur, errant, abandonné,  
+Dans un injuste exil, sans secours, sans asile,  
+Traîner de vos vertus le spectacle inutile.  
+Outrage, exil, arrêts, tout demeure impuni.  
+
+    ARISTIDE.
+Je fuis Ambassadeur, et non son ennemi.  
+De ma haine, il est vrai, Thémistocle est trop digne.   [12]
+Objet infortuné d'une injustice insigne,  
+J'éprouvai de sa main des coups plus furieux,  
+Que l'on n'affecte ici de les peindre à mes yeux.  
+Mais, malgré mes malheurs, suspendant toute haine,  
+Je n'apporte en ces lieux que l'intérêt d'Athènes.  
+Et comment mêlerais-je, injuste citoyen,  
+Sa querelle à la mienne, et mon courroux au sien ?  
+Le rang d'Ambassadeur est saint dans ma patrie :  
+C'est aux pieds des autels, qu'elle nous le confie ;  
+Un auguste serment le consacre dans nous.  
+Je le profanerais, y mêlant mon courroux.  
+Je viens venger la Grèce, et non pas Aristide.  
+Mais peut-être qu'enfin votre Roi, moins rigide,  
+D'Athènes qui se plaint respectera la voix :  
+Elle n'est pas, Seigneur, inconnue à vos Rois.  
+
+    ARTABAN.
+Mais puisque vous croyez Athènes si terrible ,  
+Épargnez à sa gloire un affront trop sensible :  
+Vous le pouvez. Souvent l'adresse sait ravir  
+Ce que trop de hauteur ne saurait obtenir.  
+Souvent qui nous refuse ( oserai-je le dire ? )  
+Souffre que l'on le trompe, et même le désire.  
+Dans le secret du coeur content d'être abusé,  
+Il veut se voir ravir ce qu'il a refusé.  
+
+    ARISTIDE.
+Satrape, je t'entends, et rougis de t'entendre.  
+Mais connais Aristide, et cesse de prétendre  
+Qu'à de lâches complots j'ose m'abandonner.  
+Seigneur, je viens punir, et non assassiner.  
+Allons à votre maître : il me tiendra fans doute  
+Un langage plus noble, et digne qu'on l'écoute :  
+Il règne.  
+
+    ARTABAN.
+        Mais, Seigneur, je dois le prévenir...  
+Miltiade à propos vient vous entretenir.  
+
+
+## SCÈNE IV. Aristide, Miltiade, Parmenis.
+
+    MILTIADE, À ARISTIDE.
+Je vous cherchais, Seigneur, avec impatience...  
+Pourriez-vous d'un Proscrit soutenir la présence ?  
+Que dis-je, d'un proscrit ? Son Sort infortuné  
+À des revers communs ne l'a pas condamné.  
+Vous l'abhorrez : voilà ce qui me le fait plaindre.  
+Toutefois à le voir pourriez-vous vous contraindre ?  
+
+    ARISTIDE.
+Fils du plus grand des Grecs, dont le coeur vertueux  
+Est un asile ouvert à tous nos malheureux,  
+Qu'Aristide à vous voir goûte une douce joie !  
+Mais, que proposez-vous ? Qui, moi, que je le voie !  
+Un Proscrit... Cependant, oui : faites-le venir.  
+D'un complot odieux je dois l'entretenir,  
+
+    PARMENIS.
+Seigneur, je me retire...  
+
+    ARISTIDE.
+        Ah, daignez nous entendre.  
+J'ai mes raisons, qu'ailleurs je pourrai vous apprendre...  
+Oui : qu'il vienne...  
+À Miltiade.
+
+        Ses maux me rendent généreux.  
+
+    PARMENIS.
+Il fut votre ennemi.  
+
+    ARISTIDE.
+        N'est-il pas malheureux ?  
+
+
+## SCÈNE V. Thémistocle, Aristide, Parmenis, Miltiade.
+
+    ARISTIDE.
+Héros infortuné, si ton illustre vie  
+Est, jusque en ces climats, par mes soins poursuivie,  
+Ne m'en accuse point : de ce funeste emploi  
+Ta Patrie, et les Grecs m'ont chargé malgré moi.  
+Non que de mes chagrins l'odieuse pensée,  
+Présente à mes esprits, en puisse être effacée ;  
+Mais dans l'abîme affreux des maux, où je te vois,  
+Te haïs, me venger est un crime pour moi.  
+Sujet aux mêmes coups, dont le sort le menace,  
+Tout mortel doit d'autrui respecter la disgrâce ;  
+Et loin que nous puissions lui porter d'autres coups,  
+La foudre qui l'abat le rend sacré pour nous.  
+Fidèle cependant au devoir qui m'arrête,  
+Je viens au fier Xerxés lui demander ta tête.  
+Je la demanderai, je ferai pour l'avoir  
+Tout ce qu'attend de moi la Grèce et mon devoir.  
+Mais crains moins en ces lieux mon devoir et la Grèce,  
+Que d'un traître caché la dangereuse adresse.  
+Songe, qui peut ici te voir d'un oeil jaloux ;  
+Et crains de cette main quelques funestes coups.  
+Xerxès est plein de foi : mais quel complot sinistre  
+Sous un Roi chargé d'ans n'ose pas un Ministre ?  
+Je ne puis plus longtemps te parler, ni te voir ;  
+Et t'entendre peut-être est contre mon devoir.  
+Adieu : je te devais cet avis par justice.  
+Je prétends qu'on te livre, et non qu'on te trahisse.  
+
+    THÉMISTOCLE.
+Seigneur... mais, il me fuit...  
+
+
+## SCÈNE VI. Thémistocle, Miltiade.
+
+    THÉMISTOCLE.
+        Ô, mortel vertueux !  
+Oui : je rends grâce au sort, qui m'a fait malheureux.  
+Athènes m'a proscrit ; mais le juste Aristide  
+Lui-même, de ma tête, écarte un bras perfide.  
+Mes dangers en son coeur trouvent de la pitié,  
+Et l'excès de mes maux me rend son amitié.  
+Ô, Grèce, c'est en vain que ton courroux m'opprime.  
+Le Ciel m'en justifie, Aristide m'estime.  
+Si je t'ai disputé des lauriers superflus,  
+Je te les rends assez, te cédant en vertus,  
+Cher ennemi ! Grands Dieux, quel destin fut le nôtre !  
+Nous ne méritions pas de nous haïr l'un l'autre.  
+
+    MILTIADE.
+Seigneur, le Roi paraît...  
+
+
+## SCÈNE VII. Xerxès, Miltiade, Artaban, Les Ambassadeurs, Thémistocle.
+
+    XERXÈS, AUX AMBASSADEURS.
+        Non, non : Grecs. Mon devoir  
+Me fait, en son absence, un crime de vous voir.  
+
+    THÉMISTOCLE.
+Seigneur, à vos bontés ajoutez-en une autre :  
+Ma gloire le demande encor moins que la vôtre.  
+Daignez des envoyer ne point gêner la foi :  
+Mon aspect odieux, les contraint malgré moi.  
+
+    XERXÈS.
+Non : demeurez. Des Rois la parole sacrée  
+Du plus léger soupçon se croit déshonorée.  
+De quelque éclat pompeux qu'il semble environné,  
+Un trône est avili, dès qu'il est soupçonné.  
+
+    ARISTIDE.
+Qu'il demeure. Ma foi n'en sera point contrainte.  
+Libre, je parlerai sans détour et sans crainte.  
+Athènes est ma patrie : elle m'a revêtu,  
+En m'envoyant à vous, de toute sa vertu.  
+En vain ce conquérant, plus craint que le tonnerre,  
+Sous les coups de son bras a fait trembler la terre,  
+Athènes ne sait point redouter ses enfants :  
+Elle ose les braver vainqueurs et triomphants.  
+Et malgré leurs lauriers, malgré toute leur gloire ,  
+Elle va les punir au sein de la victoire.  
+Voici donc quel discours adresse par ma voix  
+La redoutable Athènes au plus puissant des Rois.  
+« Xerxès, rends moi ce Grec, qui croit sous ta puissance  
+Dérober, en fuyant, sa tête à ma vengeance.  
+De perfides complots je soupçonne sa foi :  
+Il voulait dans mon sein être plus grand que moi.  
+Son pouvoir excessif n'était plus légitime,  
+Et ses succès trop grands l'acheminaient au crime.  
+Je l'ai proscrit. Sa tête en tout lieu m'appartient :  
+Je vois comme ennemi quiconque le soutient. »  
+Roi, que répondez-vous à l'invincible Athènes.  
+
+    XERXÈS.
+De ma réponse ici ne soyez point en peine ;  
+Moi-même sans tarder, suivi de mes soldats,  
+J'irai vous la porter au sein de vos États.  
+Cependant vous pouvez ensemble l'un et l'autre  
+Régler votre départ. Le mien suivra le vôtre.  
+Allez.  
+
+
+## SCÈNE VIII. Roxane, Xerxès, Ambassadeurs, Thémistocle, Miltiade, Artaban.
+
+    ROXANE, EN DEUIL, AUX AMBASSADEURS.
+        Grecs, arrêtez. D'une princesse en pleurs  
+Venez, auprès du trône, appuyer les douleurs.  
+Seigneur, que faites-vous ? Quelle étrange clémence  
+Vous fait à nos ennuis dérober leur vengeance ;  
+C'était l'unique bien qui restait à mon coeur.  
+J'ai tout perdu, trois fils... quel espoir plus flatteur !  
+Leur père, heureux encor dans son destin funeste,  
+De fa course auprès d'eux vit terminer le reste.  
+L'espoir, l'unique espoir d'être vengée enfin  
+Seul retenait encor mon âme dans mon sein.  
+Et vous sauvez le bras, qui fit notre ruine,  
+Mon père ! Oubliez-vous Naxos et Salamine ?  
+Ah, Roxane jamais n'en oubliera l'horreur.  
+L'image en traits de sang est empreinte en son coeur.  
+Je vois encor mes fils, long tourment de leur mère,  
+Tous trois, percés de coups, tomber avec leur père.  
+Malheureux ! Ah, pour qui périssez-vous, mes fils ?  
+Pour un Roi généreux envers ses ennemis,  
+Il est vrai : mais cruel pour son sang qu'il méprise.  
+Pardonnez, ô mon père, à ma juste surprise.  
+Voyez, au gré de l'onde et des vents mutinés,  
+Flotter de vos enfants les corps abandonnés.  
+Tristes jouets des flots... mais encor plus les vôtres,  
+Oubliant à la fois et vos maux et les nôtres.  
+Vous le savez pourtant, ils meurent pour leur Rois :  
+Vengez, vengez mes fils, ou bien rendez-les moi.  
+Mais, de votre promesse esclave trop timide,  
+Peut-être craignez-vous, Seigneur, d'être perfide.  
+Livrez-le à vôtre fille. Ah, malgré ma langueur,  
+La force me viendra, d'où venait ma douleur.  
+Je me meurs, je péris en proie à ma misère ;  
+Mais il me reste encor des entrailles de mère.  
+Le perfide est vaillant.... ah, je le sais trop bien.  
+Mais , montée à l'excès, ma douleur ne craint rien.  
+Permettez seulement qu'il se montre... qu'il vienne.  
+Quel asile odieux le dérobe à ma haine ?  
+C'est ce Trône peut-être ?... ( ah, trop cruel ennui !)  
+Il l'inonda de sang, et c'est tout son appui.  
+
+    XERXÈS.
+Ma fille, que prétend ta douleur trop émue ?  
+Si ce fameux guerrier paraissait à ta vue,  
+Que bientôt sa vertu calmerait ce transport !  
+Songe, que sa victoire est le crime du sort.  
+C'est lui, qui seul préside au succès des batailles.  
+Il repaît sa fureur d'illustres funérailles,  
+N'accusons que lui seul, et non pas la valeur  
+Du Héros... que tu vois partager ta douleur,  
+
+    ROXANE.
+L'assassin de mes fils ! Ah , que vois-je, Thémire ?  
+Le jour fuit de mes yeux... Soutenez-moi, j'expire.  
+
+    XERXÈS.
+Dieux ! Qu'est-ce que j'ai fait... De grâce , éloignez-vous :  
+En fuyant de ses yeux, soulagez son courroux.  
+Il se retire.
+
+Calmez, chère Roxane, un transport si funeste.  
+
+    ROXANE.
+En vain on me rappelle au jour que je déteste.  
+Mes yeux, mes yeux ont vu l'assassin de mes fils,  
+Tranquille en ce palais, insulter à mes cris.  
+
+    XERXÈS.
+Non ? Je les vengerai ; comptez sur ma tendresse.  
+Passons chez vous ; venez , trop sensible Princesse.  
+Vous y rappellerez vos sens de leurs frayeurs,  
+Et j'écouterai mieux vos mortelles douleurs.  
+
+
+# ACTE IV.
+
+
+## SCÈNE I. Artaban, Parmenis.
+
+    ARTABAN.
+Ne précipitez point votre retour en Grèce ;  
+L'ordre en est suspendu. De Sparte,  
+J'ai peint, aux yeux du Roi, les exploits si connus ;  
+J'ai rappelé ces temps, si pleins de vos vertus,  
+Quand Athènes elle-même, aujourd'hui si puissante,  
+Vainquait sous vos drapeaux, et vivait dépendante.  
+« Cette Athènes, ai-je dit, à présent à ses pieds  
+Voit partout, il est vrai, les Grecs humiliés.  
+Mais si Sparte à soi-même abandonnait Athènes,  
+Que serait devant vous cette ville si vaine ?  
+Voyez, ai-je ajouté, si le Ciel est pour vous ?  
+Sparte abandonne Athènes à tout votre courroux,  
+Si vous daignez vous-même à son destin funeste  
+Abandonner un Grec, que la Grèce déteste. »  
+Le Roi sombre et pensif m'écoutait froidement.  
+Ce silence, ce froid est un consentement.  
+Allez, osez tenter contre les jours d'un traître  
+Un coup, que le Roi même attend de vous peut-être.  
+
+    PARMENIS.
+Et moi je n'attendais ici que vôtre avis :  
+Vingt bras pour ce grand coup me sont déjà promis.  
+Tout est prêt. Mais le Roi va frémir de l'injure.  
+Tracé de votre main qu'un ordre les rassure.  
+Vous serez avoué, vous pouvez tout ici...  
+
+    ARTABAN.
+Leur courage flottant n'a-t-il que ce souci ?  
+Calmes-en les accès ; et sûr de ma puissance,  
+N'exige d'autre aveu que notre intelligence.  
+Un homme, tel que moi, qui daigne t'appuyer,  
+Tient en main les moyens de te justifier.  
+Miltiade paraît : tandis que je l'arrête,  
+Toi, profite du temps, puisque ta troupe est prête.  
+Thémistocle est privé de son plus grand secours.  
+Sa vie est dans tes mains, termines-en le cours.  
+
+
+## SCÈNE II. Miltiade, Artaban.
+
+    MILTIADE.
+Seigneur, un sort heureux à mes yeux vous présente,  
+J'ai deux mots à vous dire, et contre votre attente/  
+
+    ARTABAN.
+Parlez, Seigneur, Le feu, dont vos yeux sont remplis,  
+M'a déjà trop instruit, pour en être surpris.  
+
+    MILTIADE.
+Puisque dans mes regards les vôtres ont su lire,  
+Ma bouche achèvera, ce qu'ils n'ont pu vous dire.  
+Du Grec, vous le savez, la retraite en ces lieux  
+Rend le nom de Xerxés à jamais glorieux.  
+Elle change sa fuite en un triomphe illustre ;  
+Le trône de Cyrus en tire un nouveau lustre,  
+Et devient un asile, aux yeux de l'univers,  
+Où la Vertu repose à l'abri des revers,  
+Cependant ( quelle honte ! ) Artaban, son ministre,  
+Trame, en ce même jour, le coup le plus sinistre,  
+Jaloux, il veut briser tous ces lauriers naissants,  
+Dont l'ombre allait couvrir le trône des Persans,  
+
+    ARTABAN.
+Qui... moi ! Qu'entends-je ;  
+
+    MILTIADE.
+        Oui, vous. Quel autre, que vous-même,  
+A de Roxane en pleurs aigri le deuil extrême ?  
+Qui, rappellant partout des noms trop odieux,  
+A mis le fer aux mains d'un peuple furieux ?  
+Qui soulève les Grands ? Qui pousse au parricide  
+Le jaloux Parmenis, et l'austère Aristide ?  
+Mais que prétendez-vous par ces lâches complots ?  
+Faire de votre Roi l'assassin d'un héros ?  
+Lui ravir à jamais le nom de Grand, de Juste ?  
+D'un opprobre éternel couvrir son Trône auguste ?  
+Fermer l'unique asile ouvert en cette Cour  
+Aux héros, dont les Grecs se privent chaque jour ?  
+Vous-même, ouvrez les yeux, de quelle ignominie  
+Allez-vous obscurcir l'éclat de votre vie ?  
+Je ne suis point injuste, avec assez d'éclat  
+Vos soins, depuis vingt ans, avaient servi l'État.  
+Tant de soins, tant d'honneurs, assez de renommée  
+Acquise dans la paix, soutenue à l'armée,  
+Tout n'aboutira-t-il qu'aux titres abhorrés  
+D'affreux profanateur des asiles sacrés ?  
+Je ne puis le souffrir ; je dois, malgré vous-même,  
+Sauver l'Empire et vous d'une infamie extrême.  
+Je vais aux yeux du Roi découvrir aujourd'hui  
+L'abîme, où vous allez vous jeter avec lui.  
+Ô , Perse, je te rends, par ce service insigne,  
+Au-delà des bienfaits, dont ton Roi m'a cru digne.  
+
+    ARTABAN.
+Je pourrais m'offenser de ces vives leçons.  
+Mais je me sens frappé du poids de vos raisons.  
+Tant d'amitié d'ailleurs, et tant de confiance  
+Méritent de ma part quelque reconnaissance ;  
+J'en suis touché. Jamais aurais-je du penser,  
+Que ma gloire, en ces lieux, put vous intéresser ?  
+Non que je craigne ici de nuire à ma mémoire ;  
+La gloire de Xerxès n'est rien moins que ma gloire,  
+Seigneur ; nous sommes seuls , je le dis entre nous,  
+La grandeur d'un Ministre est d'oser de grands coups.  
+ll fait tort à son Roi : mais honneur à lui-même.  
+Il se fait redouter du moins, si l'on ne l'aime.  
+La gloire de son Prince est d'être vertueux,  
+La sienne est d'oser tout, pourvu qu'il soit heureux.  
+Et rien ne nous fait tort dans les esprits des hommes,  
+Que de cesser trop tôt d'être ce que nous sommes.  
+Voilà toute la honte à redouter pour nous.  
+Des mystères d'État je ne fuis point jaloux,  
+Vous le voyez : je parle en Ministre sincère ;  
+Vous me succéderez peut-être au ministère,  
+Vous êtes jeune encor ; je vous dois ces avis.  
+Des vôtres cependant je connais tout le prix.  
+Désormais, pour ce Grec me montrant plus facile...  
+
+
+## SCÈNE III. Miltiade, Artaban, Aristide.
+
+    ARISTIDE, À MILTIADE.
+Je vous cherche, Seigneur... Quoi ? vous êtes tranquille,   [13]
+Et l'on attente aux jours du vainqueur de Naxos ?  
+
+    MILTIADE.
+De Thémistocle ! Et qui ?  
+
+    ARTABAN.
+    Qu'entends-je ?  
+
+    ARISTIDE.
+        Oui : ce Héros,  
+Sur l'ordre de Xerxès, seul et sans défiance,  
+Passait chez la Princesse : ( à souffrir sa présence  
+Roxane avoir enfin su résoudre son coeur. )  
+Quand le poignard en main, l'oeil ardent de fureur,  
+D'assassins apostés une troupe perfide  
+L'arrête, l'investit, lève un bras homicide.  
+Le Héros prend le fer des mains d'un assassin ,  
+L'arrache, et le lui porte à l'instant sur le sein.  
+Puis, vient aux conjurés. Fier, il les envisage,  
+Et reconnaît de Sparte et la main et la rage.  
+Il en rougit pour elle et de honte et d'horreur.  
+J'arrive en ce moment : honteux de sa fureur ,  
+Un de ses assassins venait de me l'apprendre.  
+Quel spectacle à la fois plus horrible et plus tendre !  
+Le fer encore aux mains, à ses pieds abattus,  
+Ses meurtriers rendaient hommage à ses vertus.  
+Pleins de honte, ils trempaient de leurs larmes amères  
+Et les pieds du Héros, et leurs mains sanguinaires.  
+Ce n'était plus pour eux ce proscrit abhorré ;  
+C'était le Dieu lui-même à Naxos adoré.  
+Cependant la Princesse, au tumulte accourue,  
+Admire ce spectacle, immobile, éperdue ;  
+Et porte tour à tour ses regards étonnés  
+Sur le Héros tranquille, et les Grecs prosternés.  
+De son étonnement rompant enfin les charmes,  
+Elle accourt au Héros, qu'elle arrache à leurs larmes,  
+Et lui prête un asile en son appartement...  
+
+    MILTIADE.
+Souffrez que je m'y rende en ce même moment.  
+
+    ARISTIDE.
+Allez, Seigneur. J'approuve un zèle si sincère.  
+Moi, je vais du complot pénétrer le mystère.  
+
+
+## SCÈNE IV. Artaban, Parmenis.
+
+    ARTABAN.
+Espoir, frivole espoir !... Mais je vois Parmenis,  
+
+    PARMENIS.
+Le coup vient d'échouer. Vous avez tout appris :  
+Aristide, qui sort, a su vous en instruire.  
+Mais à nos hauts desseins ce revers ne peut nuire,  
+Si, sans nous plaindre ici du Sort injurieux,  
+Vous voulez profiter d'un moment précieux.  
+Il faut, sans perdre temps, courir au Roi lui-même,  
+Feindre pour Thémistocle une tendresse extrême,  
+Peindre l'horrible coup, que les Grecs aujourd'hui,  
+Aux pieds même du Trône, ont tenté contre lui.  
+Alors dites au Prince, « un seul moyen vous reste  
+Pour sauver ce Proscrit d'un péril manifeste.  
+De la guerre nouvelle , où vous vous engagez  
+Forcez-le d'être chef. Par lui-même vengez,  
+Vos peuples l'aimeront, autant qu'ils le haïssent. »  
+
+    ARTABAN.
+Que me proposes-tu ? Tous mes sens en frémissent,  
+Moi, je lui céderais un honneur si vanté,  
+L'objet de tous mes voeux... Et que j'ai mérité ?  
+
+    PARMENIS.
+Calmez vous, et daignez m'écouter en silence.  
+S'il refuse ; Xerxès , rempli de défiance,  
+Frémira de courroux ; et peut-être indigné,  
+Retirera l'appui, qu'il verra dédaigné.  
+
+    ARTABAN.
+Mais si le Grec accepte ?  
+
+    PARMENIS.
+        Inutiles alarmes !  
+Je le connais trop bien ; Né, nourri dans les armes,  
+Il chérit les combats ; mais il aime encor plus  
+L'éclat, que sur ses jours répandent ses vertus ;  
+C'est son trésor, ses dieux, c'est son amour unique :  
+Car ici sans détour avec vous je m'explique.  
+
+    ARTABAN.
+Mais s'il accepte enfin ?  
+
+    PARMENIS.
+        Ah, Seigneur, plût aux Dieux !  
+Vous seriez trop vengé par ce crime odieux.  
+Vous perdez, pour un temps peut-être, un rang illustre.  
+Mais du plus grand des Grecs vous effacez le lustre.  
+De sa tête perfide à l'instant arrachés  
+Tombent tous ses lauriers, flétris et desséchés.  
+D'un Héros généreux, d'un vainqueur indomptable  
+Vous en faites un lâche, un traître méprisable.  
+Sa gloire est dans l'oubli, son grand nom confondu,  
+Et vous le dépouillez de toute sa vertu.  
+Pensez-vous perdre même, après ce coup insigne ,  
+Un rang dont vos travaux vous ont rendu si digne ?  
+Ah, Seigneur, le perfide, après sa lâcheté,  
+Haï plus que jamais, par les siens détesté,  
+Verra cent mille Grecs, obstinés dans leur haine,  
+Au mépris de leur vie, attenter à la sienne.  
+Et quand, armé pour lui vous le protégeriez,  
+Vous le verrez, l'infâme, expirer à vos pieds.  
+
+    ARTABAN.
+Attends ; je cours au Roi.  
+
+
+## SCÈNE V. Aristide, Parmenis.
+
+    ARISTIDE.
+        Que viens-je donc d'apprendre ?...  
+
+    PARMENIS EN VOYANT ARISTIDE.
+Que vois-je ?  
+
+    ARISTIDE.
+        Sur un Grec vous osez entreprendre ?  
+De quel droit, dites-nous, seul, sans nous consulter.  
+Au sang athénien osez-vous attenter ?  
+Votre Sparte croit-elle, oubliant sa faiblesse,  
+Être encore aujourd'hui l'arbitre de la Grèce ?  
+À qui d'elle ou de nous obéissent les mers ?  
+De qui prennent la loi tant de peuples divers ?  
+L'aspect seul du héros, que vous vouliez détruire,  
+De votre dépendance aurait dû vous instruire.  
+Son front est ceint encor des lauriers, que son bras  
+Moissonna si souvent dans vos propres États.  
+Vos lâches assassins, dans l'ardeur de leur crime,  
+Ne l'ont pas oublié ce respect légitime.  
+Allez, allez-les voir, grand exemple pour vous,  
+D'un exilé d'Athènes embrasser les genoux.  
+
+    PARMENIS.
+Je suis Ambassadeur ; vous l'oubliez peut-être.  
+
+    ARISTIDE.
+Puis-je m'en souvenir, où je ne vois qu'un traître ?  
+
+    PARMENIS.
+Je punis un proscrit.  
+
+    ARISTIDE.
+        Non ; vous l'assassinez.  
+
+    PARMENIS.
+Je fais justice aux Grecs, et vous les condamnez ;  
+Sa tête était à prix.  
+
+    ARISTIDE.
+        Oui : pour des coeurs perfides,  
+Qui se vendent au crime ; et vivent d'homicides.  
+Mais un Ambassadeur !  
+
+    PARMENIS.
+        Oui : Seigneur, je le suis.  
+Et vous le connaîtrez en Grèce, où je vous suis.  
+Là, des Amphictions, nos juges et nos maîtres,  
+Nous saurons s'il est beau de protéger les traîtres.  
+
+    ARISTIDE.
+Oui : je l'ai protégé, mais comme je le dois,  
+Contre la perfidie, et non contre les lois.  
+Je vais même plus loin : je mets au nom d'Athènes,  
+C'est-à-dire, Seigneur, de votre souveraine,  
+Je mets sous le rempart de son autorité  
+Les jours de ce Proscrit, par vous si détesté.  
+Je vous défends ici d'attenter à sa vie,  
+Ou vous m'en répondrez vous et votre patrie.   [14]
+De nos Amphictions je connais l'équité.  
+Et sais faire à leurs yeux briller la vérité.  
+Tremblez.  
+
+
+## SCÈNE VI. Les Ambassadeurs, Thémistocle, Roxane, Militade, Artaban.
+
+    ROXANE, AMENANT THÉMISTOCLE.
+        Je veux au Roi moi-même te conduire,  
+Je veux de leurs fureurs et me plaindre, et l'instruire.  
+Je ne souffrirai point qu'un infâme assassin  
+Profane ma vengeance, en te perçant le sein.  
+Je veux un sacrifice et noble et légitime :  
+Et je rougirais trop de le devoir au crime.  
+Satrape, tu m'entends ?  
+
+    ARTABAN.
+        Oui : Madame. Et de plus  
+Dans ces hauts sentiments j'admire vos vertus.  
+
+    ROXANE.
+Ce ne sont pas pourtant ceux que met en pratique  
+Dans ses lâches complots ta sombre politique.  
+
+    ARTABAN.
+Qui ; moi... Madame...  
+
+    ROXANE.
+        Oui : toi. Je sais tous tes desseins.  
+Que n'as-tu dérobé ton nom aux assassins ?  
+Ils l'ont trop prononcé ces cruels, ces parjures,  
+Ce nom, digne en effet de leurs bouches impures.  
+Que voulais-tu ? Venger par un coup plein d'horreurs  
+Les mânes de mes fils, honteux de tes fureurs ?  
+T'ai-je donné ces soins ; la fille de ton Maître  
+A-t-elle ici besoin des lâchetés d'un traître ?  
+Et toi, Héros fameux, étouffe un vain espoir ;  
+Malgré mes soins pour toi, je ferai mon devoir.  
+Tu n'en seras pas moins, si l'on cède à mes larmes,  
+La victime amenée et dûe à mes alarmes.  
+Au fer des conjurés j'ai voulu t'enlever,  
+Pour sauver ma victime, et non pour te sauver.  
+Si je n'eusse accouru, leur jalousie extrême  
+T'immolait à leur Sparte, et non pas à moi-même.  
+Cet intérêt lui seul m'a fait te secourir ;  
+Je perdais ma vengeance, en te laissant périr.  
+Non que de tes vertus le spectacle sublime  
+N'ait justement pour toi rempli mon coeur d'estime,  
+Quand, te montrant à moi plus grand que tes destins ,  
+Mes yeux t'ont vu tranquille entouré d'assassins.  
+Je ne m'en défends pas ; mon coeur te fait justice ;  
+Je t'admire. Et bien loin que Roxane en rougisse,  
+Ma douleur en triomphe, et se promet dans toi  
+Une victime enfin vraiment digne de moi,  
+Digne de tous les biens que m'ont ravi tes armes,  
+Tes nombreuses vertus égalent mes alarmes :  
+Tes triomphes, mes maux.... Mânes saints, ô mes fils !  
+Vous serez satisfaits. Calmez vos justes cris.  
+Mais, avant de venger leur douleur et la mienne,  
+Contre tes assassins je cours venger la tienne.  
+Attend.  
+
+
+## SCÈNE VII. Aristide, Miltiade, Parmenis, Thémistocle, Artaban.
+
+    THÉMISTOCLE.
+        Autour de moi, quels bizarres destins  
+Assemblent mes amis avec mes assassins ?...  
+Satrape, et vous , Seigneur, qui par la perfidie  
+Croyez de mes exploits venger votre patrie,  
+Vous avez lieu tous deux d'attendre ici de moi  
+Que je vous rende grâce, autant que je le dois.  
+Artaban, j'avais cru que, l'approchant sans cesse,  
+La vertu de ton Roi t'inspirait sa noblesse.  
+Je me suis abusé. Ta faveur, je le vois,  
+N'était qu'un jeu du sort, quand il agit sans choix.  
+Je ne m'étonne pas, qu'ayant l'âme si basse ,  
+Ta lâche ambition ait tremblé pour ta place.  
+Je t'abandonne en proie à ton dépit jaloux ;  
+Ton Roi fera le reste. Adieu... va, laisse nous.  
+Artaban sort.
+
+Seigneur j'excuse en vous un coup plein de furie ?  
+Je l'ai trop mérité, Sparte est assujettie.  
+C'est un affront si grand, qu'afin de l'effacer  
+À toutes vos vertus vous deviez renoncer ;  
+Et dans votre vengeance ayant recours au crime,  
+De l'univers entier perdre toute l'estime :  
+Elle est perdue ; allez chez le Grec effrayé  
+Montrer un assassin, au lieu d'un envoyé.  
+Laissez en liberté de ma reconnaissance  
+Éclater...  
+
+    ARISTIDE.
+        Non : arrête un transport, qui m'offense.  
+Je n'ai rien fait pour toi dans tout ce que j'ai fait.  
+L'honnneur de la patrie était mon seul objet.  
+
+
+## SCÈNE VIII. Xerxès, Thémistocle.
+
+    XERXÈS.
+Demeurez, Thémistocle. Et vous, qu'on se retire.  
+D'un horrible attentat ma fille a su m'instruire.  
+Je t'en ferai justice, ainsi que je le dois :  
+Et ma gloire, et tes jours le demandent de moi.  
+Mais il faut t'avouer le soin qui me déchire :  
+Tout ici contre toi se soulève, et conspire.  
+Fameux par nos revers ton nom est en horreur ;  
+Ma Cour, ma fille, enfin tout mon peuple en fureur,  
+Tes Grecs même, tes Grecs, tout en veut à ta vie.  
+Je crains peu les clameurs, je crains la perfidie.  
+Que l'univers entier s'arme pour t'opprimer,  
+D'un oeil ferme et serein je le verrai s'armer.  
+Je te protégerai contre la terre entière.  
+Mais puis-je te sauver d'une main meurtrière ?  
+J'y veillerais en vain. La sombre trahison  
+Laisse dans le repos s'endormir le soupçon.  
+Cependant elle approche à pas sourd et timide,  
+Et tout à coup au sein plonge un couteau perfide.  
+Mais voici ce qu'enfin le céleste secours  
+Daigne nous inspirer pour le soin de tes jours.  
+Il faut rendre aujourd'hui précieuse et sacrée,  
+À mes sujets du moins, cette tête abhorrée ;  
+Je veux de mon empire y lier les destins,  
+Ma gloire, ma vengeance, et mes plus hauts desseins ;  
+Et te rendant ainsi sacré comme moi-même,  
+Changer pour toi la haine en un respect extrême.  
+C'est l'unique moyen d'arrêter à jamais  
+Et les coups violents, et les sombres projets.  
+Tes propres ennemis, aveuglés par leur rage,  
+De ce moyen si sûr m'ont inspiré l'usage :  
+Et ma fille elle-même, avide de ta mort,  
+Satisfaite à ce prix, se fait un noble effort,  
+
+    THÉMISTOCLE.
+Quel est donc ce moyen que le Ciel vous inspire,  
+Seigneur ?  
+
+    XERXÈS.
+    Sois le vengeur...  
+
+    THÉMISTOCLE.
+    De qui ?  
+
+    XERXÈS.
+        De mon empire.  
+
+    THÉMISTOCLE.
+Où sont vos ennemis ?  
+
+    XERXÈS.
+        En Grèce, où sont les tiens.  
+
+    THÉMISTOCLE.
+Ciel !  
+
+    XERXÈS.
+        En te vengeant d'eux, cours me venger des miens.  
+Jusques dans leurs foyers porte, lance ma foudre ;  
+Je la mets en tes mains : réduis leurs murs en poudre.  
+Et la Perse, et ma Cour, et ma fille à ce prix  
+Me cèdent tous leurs droits, étouffent tous leurs cris ;  
+Et changeant tout à coup leurs clameurs en louanges,  
+Tous sont assez vengés, si c'est toi qui les venges.  
+Tu te tais... Je te laisse y penser un moment :  
+J'attendrai ta réponse avec empressement.  
+Mais ne prends point conseil d'une vertu farouche,  
+Si le soin de tes jours, si ma bonté te touche.  
+
+
+## SCÈNE IX.
+
+    THÉMISTOCLE, SEUL.
+Voilà, voilà le coup, qu'en secret combattu,  
+Mon coeur, dans ses retours, craignait pour ma vertu.  
+Tant que mes ennemis n'en voulaient qu'à ma vie,  
+Et bornaient leurs fureurs à me la voir ravie,  
+D'un oeil indifférent je voyais à la fois  
+S'armer contre mes jours les peuples et les Rois.  
+Mes maux me touchaient peu ; je périssais fidèle.  
+Je mourais revêtu de ma gloire immortelle.  
+J'emportais avec moi les voeux de l'univers,  
+Et toute ma vertu me suivait aux Enfers,  
+Mais, Dieux ! Qu'ai-je entendu ? Quelle horrible tempête  
+S'amasse de nouveau, gronde autour de ma tête !  
+Tu veux sauver mes jours, Xerxès : mais que fais-tu ?  
+L'orage tout entier tombe sur ma vertu.  
+Il épargne mes jours, et frappe ma patrie.  
+Ma vie est à couvert ; et ma gloire est flétrie.  
+Pour garantir ma tête on m'ôte mes lauriers.  
+Loin à jamais de moi des soins si meurtriers...  
+Roxane, je t'entends : tu me laisse la vie ;  
+Mais tu veux par ma main t'immoler ma patrie :  
+Tu veux un peuple entier pour victime... bien plus  
+Tu prétends t'immoler ma gloire, et mes vertus.  
+Princesse, ta douleur est trop ambitieuse.  
+Mais mon âme doit être encor plus généreuse.  
+Xerxès, si tu m'as vu me taire devant toi,  
+Ne me fais pas l'affront de douter de ma foi.  
+Je cherchais mon devoir ; et sans incertitude  
+Mon âme toute entière en faisait son étude.  
+Je l'ai connu. Mourons... Mais qu'est-ce que la mort ?  
+Non non, il faut finir par un tout autre effort.  
+
+
+# ACTE V.
+
+
+## SCÈNE PREMIÈRE.
+
+    THÉMISTOCLE.
+Enfin je l'ai trouvé ce secret favorable  
+De sauver et ma gloire, et le Grec qui m'accable  
+Que je suis bien vengé de ses soupçons ingrats !  
+Je le fauve, au moment qu'il poursuit mon trépas.  
+Tu pensais, que pouvant me faire un jour ton maître,  
+Ô Grèce, je tramais l'affreux dessein de l'être.  
+Criminel à tes yeux à force d'être heureux,  
+Tu m'as crû trop puissant pour être généreux.  
+Livrée à tes soupçons, tu n'as plus voulu croire  
+Que ma fidélité put modérer ma gloire ;  
+Et selon que croissaient mes succès trop connus,  
+Tu croyais de mon sein voir s'enfuir les vertus.  
+Que tu t'es abusée, ô Grèce, ô ma patrie !  
+Jamais d'aucun mortel tu ne fus plus chérie.  
+Jamais coeur n'a brûlé d'un zèle plus constant.  
+Que ne peux-tu m'entendre en ce dernier instant !  
+Je vais par ma réponse, obscure en apparence,  
+Du maître de l'Asie enchaîner la vengeance ;  
+Et le liant des noeuds des serments les plus forts,  
+Lui fermer à jamais le chemin de nos ports.  
+Le Serment chez le Perse est un arrêt suprême,  
+Que dicte par sa voix la voix du Destin même.  
+Rien n'en peut affaiblir les droits religieux ;  
+Ce que jure le Perse est juré par les Dieux...  
+
+
+## SCÈNE II. Xerxès, Miltiade, Thémistocle.
+
+    XERXÈS.
+Quelle réponse enfin vas-tu nous faire entendre ?  
+
+    THÉMISTOCLE.
+Elle est telle, grand Roi, que vous devez l'attendre,  
+Digne de mes succès, digne de mon courroux,  
+Et pour tout dire enfin, digne même de vous.  
+Je vous estime trop pour vous en faire une autre.  
+Trahissant ma vertu, je flétrirais la vôtre.  
+Mais, est-il vrai qu'ici votre Trône sacré,  
+Ne soit pas pour mes jours un asile assuré ?  
+N'est-il d'autre moyen, pour conserver ma vie,  
+Que de faire serment de perdre ma patrie ?  
+Ou ne voudrait-on point, abusant de mes maux,  
+Par de feintes terreurs alarmer mon repos ?  
+
+    XERXÈS.
+Moi, que j'ose abuser du malheur qui t'opprime !  
+Trop instruit par les miens, je m'en ferais un crime.  
+Crois-tu que ton grand nom ait seul touché mon coeur ?  
+Banni de tes esprits une si vaine erreur.  
+J'estime le mérite, il me touche sans peine ;  
+Mais ton mérite heureux eut ranimé ma haine :  
+Et malgré tes exploits en tous lieux si vantés,  
+Rends grâce à tes revers de toutes mes bontés.  
+Oui : je te le redis. Je crains tout pour ta tête.  
+Ton serment peut lui seul conjurer la tempête.  
+Lui seul, de mes sujets t'attirant les respects,  
+Ne te laisse en ces lieux d'ennemis, que tes Grecs.  
+
+    THÉMISTOCLE.
+Puisqu'à ce terme affreux ma fortune est réduite,  
+Il faut de vos soldats accepter la conduite...  
+
+    MILTIADE.
+Ô crime !  
+
+    THÉMISTOCLE.
+        Mais avant que d'en donner ma foi ?  
+De la vôtre à mon tour j'ose exiger, grand Roi,  
+Pour calmer dans mon coeur la crainte qui le presse...  
+
+    XERXÈS.
+Parle, qu'exiges-tu ?  
+
+    THÉMISTOCLE.
+        Seigneur, une promesse.  
+Sous un chef étranger l'indocile soldat  
+Ne va, vous le savez, qu'à regret au combat,  
+De son obéissance il se fait un outrage,  
+Et met toute sa gloire à manquer de courage,  
+Il suit bien plus encor ce caprice odieux,  
+Quand le Monarque absent ne voit rien de ses yeux ;  
+Et que loin des climats, où combat son armée,  
+Il n'est instruit de tout que par la Renommée,  
+Jurez moi donc, Seigneur, que tant que les destins  
+Conserveront le Sceptre en vos augustes mains,  
+Jamais, malgré l'ardeur dont votre âme est saisie,  
+Vous ne ferez sans moi la guerre à ma patrie.  
+À ce prix, je suis prêt de me sacrifier.  
+
+    MILTIADE.
+Quoi, jusqu'à cet excès le lâche s'oublier  
+
+    XERXÈS.
+Oui, je te le promets ; je veux plus faire encore,  
+Je veux, aux pieds des Dieux que l'un et l'autre adore,  
+Tous deux nous enchaînant du plus sacré lien,  
+T'y donner mon serment, et recevoir le tien...  
+À Miltiade.
+
+Qu'on dresse les autels.  
+
+
+## SCÈNE III. Xerxès, Miltiade, Thémistocle, Hydaspe.
+
+    HYDASPE.
+        La Princesse alarmée,  
+Des réponses du Grec brûle d'être informée.  
+Elle m'envoie à vous, Seigneur, pour les savoir.  
+
+    XERXÈS.
+Je l'en informerai.  
+À Miltiade.
+
+        Toi, prends soin de pourvoir  
+À l'appareil sacré de la cérémonie.  
+Je vous laisse tous deux.  
+
+
+## SCÈNE IV. Thémistocle, Miltiade.
+
+    MILTIADE.
+        Ô honte ! Ô perfidie !  
+L'honneur, l'appui des Grecs, démentant ses vertus,  
+Arme contre eux le bras qui les a défendus !  
+Non, non ; ce n'est point toi, que jadis la Victoire  
+Aux rives de Naxos couvrit de tant de gloire.  
+Jamais des Eubéens le détroit glorieux  
+Ne t'a vu dans un jour trois fois victorieux.  
+Tu n'es point ce héros, qu'au-de-là du Bosphore,  
+Renfermé dans Sardís, Xerxés fuyait encore.  
+Ta sacrilège audace a pris dans ces climats  
+Ce redoutable nom, que tu ne soutiens pas.  
+Non : jamais autrefois, quoique tu l'oses dire,  
+Mon père à Marathon ne prit soin de t'instruire.  
+Dans les coeurs qu'il formait constamment soutenu,  
+Son généreux exemple y fixait la vertu.  
+La tienne se dément.  
+
+    THÉMISTOCLE.
+        Moins que tu ne peux croire.  
+Et jamais je ne fus plus fidèle à ma gloire.  
+Suspends, cher Miltiade, un reproche honteux.  
+Je suis plus ferme encore, que je ne fus heureux.  
+Disciple à Marathon de ton illustre père,  
+Tu verras si mon coeur l'oublie et dégénère.  
+Aux pieds du saint autel, témoin de mon serment,  
+Tu connaîtras bientôt si mon coeur se dément.  
+N'exige rien de plus de ma juste tendresse :  
+Je crains la tienne. Va ; le Roi, l'heure nous presse.  
+
+    MILTIADE.
+Mais, quel est ce mystère ?  
+
+    THÉMISTOCLE.
+        Adieu, je vois vers nous  
+S'avancer Aristide enflammé de courroux.  
+
+
+## SCÈNE V. Thémistocle, Aristide.
+
+    ARISTIDE.
+J'allais revoir ces bords, pour vous si pleins de charmes,  
+Que votre bras jadis sauva de tant d'alarmes ;  
+Et vous peignant fidèle au sort de vos malheurs,  
+Peut-être à tous les Grecs faire verser des pleurs.  
+Mais quel bruit odieux, quelle étrange nouvelle !  
+Thémistocle n'est plus qu'un lâche, qu'un rebelle !  
+Ô mers de Salamine! Ô plaines de Naxos ,  
+Trop illustres témoins de ses fameux travaux,  
+Vous reverrez encor ce vainqueur indomptable :  
+Mais vil chef des Persans, mais perfide et coupable...  
+Va, puisque tu le veux, traître à tes citoyens,  
+Venger, chef des Persans, leurs affronts et les tiens.  
+Mais sache, en les vengeant, que tu les multiplies :  
+Que Sparte est dans son droit, que tu la justifies.  
+Hélas, en abordant nos fortunés climats,  
+Malheureux, sur quels bords porteras-tu tes pas,  
+Que ton pied criminel au même-temps n'efface  
+De tes nombreux exploits quelque immortelle trace ?  
+Sera-ce à Marathon, que tu prétends venir ?  
+Tu n'appris là qu'à vaincre, et non pas à trahir.  
+Est-ce au cap d'Arthémise, est-ce vers le Bosphore ?  
+Au seul bruit de ton nom tout y frémit encore.  
+Ô, que tu rougiras, quand tes yeux y verront  
+Xerxès en approcher la pâleur fur le front !  
+Sur quelque endroit enfin que se porte ta vue,  
+Tu verras devant toi fuir ta gloire éperdue.  
+Et je me flatte encor, que ton premier bonheur  
+Y fuira tes drapeaux, te voyant sans honneur.  
+Et cessant d'être ensemble heureux et magnanime,  
+La honte te suivra : c'est la suite du crime.  
+Adieu.  
+
+    THÉMISTOCLE.
+        Cher Aristide, arrêtez. Je ne veux  
+Qu'un moment d'entretien ; accordez-le à mes voeux,  
+Vous voyez, où du Sort l'injustice importune  
+A, d'abîme en abîme, amené ma fortune.  
+Tout est contre mes jours hautement soulevé.  
+Je touche au terme affreux qui m'était réservé.  
+La Grèce me poursuit, la Perse me déteste.  
+Ce n'est pas tout. Un coup mille fois plus funeste  
+Menace ma vertu d'un opprobre éternel.  
+Il faut périr fidèle, ou vivre criminel.  
+Si j'accepte le rang où le Perse m'appelle,  
+Je vis malgré nos Grecs, mais je vis infidèle.  
+Dans ce double danger de vivre ou de périr,  
+Parlez : que dois-je faire, Aristide ?  
+
+    ARISTIDE.
+Mourir.  
+
+    THÉMISTOCLE.
+        Ah, je vous reconnais à ce noble langage.  
+Mais , qu'est-ce que mourir quand je puis davantage ?  
+Thémistocle en effet n'aurait-il tant de fois  
+Humilié l'orgueil des plus superbes Rois,  
+Que pour ne terminer et sa gloire et sa vie ,  
+Que comme un Grec sans nom, qui meurt pour sa patrie?  
+Ce que tout autre fait est-il digne de lui ?  
+Et n'attend-t-on de moi rien de plus aujourd'hui ?  
+La mort ne suffit point à mon noble courage ;  
+Mon zèle pour les Grecs s'est accru de leur rage,  
+Si je veux jusqu'au bout être ce que je fus,  
+Mourir n'est point aisé ; il faut faire encor plus.  
+De la foudre qui brille et gronde sur sa tête  
+Il faut sauver la Grèce, à périr toute prête,  
+Guéri de sa fierté par ses propres revers,  
+Xerxès sait le grand art de nous donner des fers,  
+Il a moins de soldats, de vaisseaux, de puissance ;  
+Mais il a moins d'orgueil, et plus d'expérience.  
+Avec des armes d'or combattant contre nous,  
+Il achète en secret nos ennemis jaloux,  
+Et voilà le péril qui m'alarme... et qui presse.  
+Mourir ! Et qui, Seigneur, ne meurt pas pour la Grèce ?  
+Par un coup plus utile il faut la secourir,  
+Et je perdrais ma mort ne faisant que mourir.  
+Allez, Seigneur, allez. Fiez-vous à ma gloire.  
+Ce jour va me fournir ma plus belle victoire,  
+Le sens de ma promesse échappe à vos esprits :  
+Le temps éclaircira ce qu'ils n'ont pas compris,  
+N'exigez point de moi que je vous l'éclaircisse,  
+Peut-être, dès ce jour, vous me rendrez justice.  
+Le Grec ne fut jamais si cher à mon amour ;  
+Je le servis jadis, je le sauve en ce jour.  
+
+    ARISTIDE.
+Seigneur, de ce discours , dont le sens m'inquiète,  
+Vos vertus pourraient m'être un fidèle interprète,  
+Je n'ose cependant, puisque vous le voulez,  
+Pénétrer des secrets, que vous tenez voilés...  
+Des prêtres s'avancent et dressent deux autels.
+
+Mais que vois-je ? Et pourquoi sous ce vaste portique  
+Dresser de ces autels l'appareil magnifique ?  
+Pourquoi ces Prêtres saints, et ces feux solennels ?...  
+
+
+## SCÈNE VI. Xerxès,Thémistocle, Aristide, Miltiade, Artaban, les prêtres.
+
+    XERXÈS, À ARISTIDE.
+Demeure, Athénien. Il faut qu'à ces autels,  
+Où nous allons des Grecs jurer la perte entière,  
+Je te fasse aujourd'hui ma réponse dernière...  
+Que l'envoyé de Sparte y soit présent aussi.  
+Qu'on l'amène.  
+
+    ARISTIDE.
+        Ah, Seigneur, que puis-je faire ici ?  
+Permettez-moi de fuir l'aspect d'un sacrifice,  
+Dont plus d'un triste objet va, me faire un supplice.  
+La ruine des Grecs, que vous allez jurer,  
+N'est pas ce qui pourrait me le faire abhorrer.  
+Vos serments à la Grèce ôtent-ils son courage ?  
+On peut sans l'asservir jurer son esclavage :  
+Et se rendant parjure aux yeux des Immortels,  
+Fuir au combat ces Grecs, qu'on bravait aux autels.  
+
+
+## SCÈNE VII. Parmenis, Aristide, Miltiade, Xerxès, Thémistocle, Artaban, les prêtres.
+
+    XERXÈS.
+Approche, Spartiate. Il faut enfin te rendre  
+La réponse, qu'aux tiens tu pourras faire entendre.  
+Écoute les serments que je vais prononcer ;  
+Ils t'apprendront assez ce que je dois penser.  
+
+    PARMENIS.
+Ils m'apprendront, Seigneur, qu'en son sein peu fidèle  
+Athènes nourrissait un perfide, un rebelle ;  
+Que Sparte, avec raison, s'éleva contre lui.  
+Enfin, tel qu'il était, il se montre aujourd'hui.  
+Tout entier au grand jour son crime va paraître ;  
+Ces autels, vont frémir des noirs serments du traître...  
+
+    ARISTIDE.
+Parmenis, suspendez un triomphe trop prompt.  
+Qui soupçonne un héros se prépare un affront.  
+
+    XERXÈS.
+Grecs, calmez l'un et l'autre une aigreur trop altière.   [15]
+Vous, Ministres du Dieu, qui répand la lumière,  
+Versez sur cette flamme un encens précieux :  
+C'est l'unique présent agréable à ses yeux.  
+Le sang des animaux, que le fer sacrifie,  
+Ne saurait plaire au Dieu, source unique de vie.  
+Les Prêtres versent l'encens.
+
+« Brillant, Père du jour, qui du plus haut des Cieux  
+Protèges de Cyrus le trône glorieux,  
+Des serments que je fais sois le témoin fidèle.  
+Je jure à tous les Grecs une guerre immortelle,  
+Mais au vaillant héros, jusqu'ici leur appui,  
+Qui me promet son zèle et son bras aujourd'hui,  
+Je fais à cet autel l'éclatante promesse  
+De ne porter le fer qu'avec lui dans la Grèce.  
+Ainsi puisse, grand Dieu, s'élever jusqu'à toi  
+Ce parfum précieux, sûr garant de ma foi.  
+Si j'osais la trahir, qu'en horrible tempête  
+Cette douce vapeur retombe sur ma tête. »  
+J'ai dit. Pontifes saints, pour sceller mes serments,  
+De nouveau sur ces feux répandez votre encens.  
+
+    THÉMISTOCLE, À XERXÈS.
+Avant qu'à cet autel à mon tour je m'engage,  
+Que ne puis-je vous rendre un juste témoignage !  
+Heureux, si je pouvais, pour garant de ma foi,  
+Rendre à Roxane encor celui que je lui dois !  
+Cette main, si longtemps source de ses alarmes,  
+Pour les venger enfin prend aujourd'hui les armes.  
+Le sang de la victime est tout prêt à couler ;  
+Peut-être cet objet, propre à la consoler,  
+Flatterait sa douleur...  
+
+    XERXÈS, À MILTIADE.
+        Amenez la Princesse.  
+Miltiade sort.
+
+
+    THÉMISTOCLE, LA MAIN SUR L’AUTEL.
+« Chère Athènes, la gloire et l'appui de la Grèce,  
+C'est à toi que ma main élève cet autel.  
+Tes citoyens jaloux me veulent criminel.  
+Mes succès trop brillants m'ont fait croire perfide.  
+L'étais-je ? Il faut enfin que ce jour en décide.  
+Hélas, tant de travaux, tant d'exploits, tant de soins,  
+Étaient de ma vertu d'assez dignes témoins.  
+Quand j'ouvris en naissant les yeux à la lumière,  
+Les Grecs, presque inconnus, rampaient dans la poussière.  
+Le Perse les tenait abattus à ses pieds.  
+Athènes gémissait sous ses fiers alliés.  
+Grâces aux Immortels, de la Grèce et d'Athènes  
+J'ai changé la fortune. Athènes est souveraine ;  
+La Grèce reçoit d'elle et l'exemple et la loi.  
+Nos vaisseaux triomphants portent partout l'effroi.   [16]
+Nos forts sont relevés ; et jusques au Pirée  
+J'ai poussé de nos murs l'enceinte réparée.  
+Sparte même obéît. Tant de travaux fameux  
+Auraient dû dissiper des soupçons trop honteux.  
+Mais cette coupe enfin, consacrant la victime,  
+Va me rendre du monde et les coeurs et l'estime... »  
+Aux prêtres, en leur présentant la coupe.
+
+Versez le vin sacré, qu'il faut répandre ici.  
+
+    XERXÈS, AUX PRÊTRES.
+Où donc est la victime ? il est temps...  
+
+    THÉMISTOCLE, APRÈS AVOIR BU LA COUPE.
+        La voici.  
+
+    XERXÈS.
+La voici ! Quel discours ? Voudrait-il me surprendre ?  
+
+    ARTABAN.
+Il boit la coupe sainte, au lieu de la répandre !  
+
+    ARISTIDE.
+Quel soupçon dans mon coeur s'élève de nouveau ?  
+
+    THÉMISTOCLE.
+En montrant sa main à Aristide
+
+Grâce au puissant secours, que cachait cet anneau,  
+Ne crains plus désormais pour moi, pour la patrie,  
+Ami. D'un suc mortel la coupe était remplie.  
+
+    ARISTIDE.
+Ah, ciel !  
+
+    XERXÈS.
+    Qu'entends-je, ô Dieux !  
+
+    PARMENIS.
+        Ô, courage parfait !  
+Quelle honte pour Sparte !  
+
+    XERXÈS.
+        Ah, cruel, qu'as-tu fait !  
+Je reconnais trop tard ta généreuse adresse ;  
+Par mes propres serments tu me fermes la Grèce.  
+
+    ARISTIDE.
+Vivez, Héros.  
+
+    THÉMISTOCLE.
+        En vain tu veux me secourir.  
+C'en est fait. Cette main, fidèle à me servir,  
+N'a point, en l'immolant, épargné la victime.  
+Xerxès, de mon trépas ne me fais point un crime,  
+Ma vertu l'exigeait ; les Dieux m'en sont témoins,  
+Je meurs, pour ne pas vivre indigne de tes soins.  
+Un Roi si généreux qu'eût-il fait d'un perfide ?  
+Souviens-toi seulement, que si l'honneur te guide,  
+Tu ne peux plus porter la guerre en mon pays ;  
+Ma mort brise en ta main le foudre qu'elle a pris.  
+J'expire... Garde-moi ta parole sacrée.  
+Par tes rares vertus mon âme rassurée  
+Emporte chez les Morts ce consolant espoir.  
+
+    XERXÈS.
+Oui ; tu peux l'emporter ; je ferai mon devoir.  
+La Grèce m'est sacrée. Expire sans alarmes ;  
+Ta vertu de nouveau la sauve de mes armes.  
+Mais qui me sauvera de l'éternel regret  
+De perdre, en l'acquérant, un ami si parfait !  
+Dieux, en nous le montrant si digne qu'on l'admire,  
+Le deviez-vous sitôt ravir à mon empire !  
+
+    THÉMISTOCLE, À ARISTIDE.
+Ah, je meurs trop heureux !... dans ce dernier moment  
+Accordez-moi, Seigneur, un tendre embrassement.  
+Que je meure à la fois, moi, qu'on a cru perfide,  
+Et le salut des Grecs, et l'ami d'Aristide.  
+Daignez à Miltiade exprimer la douleur...  
+Ah, je le vois, il vient, et comble mon bonheur.  
+
+
+## SCÈNE VI.I. Roxane, Miltiade, Thémistocle, Aristide, Xerxès, Artaban, les prêtres.
+
+    THÉMISTOCLE.
+Viens, mon fils.  
+
+    MILTIADE.
+    Ô, douleur!  
+
+    ROXANE.
+        Quelle main parricide ?...  
+
+    THÉMISTOCLE, À MILTIADE.
+Viens, reçois dans ton sein, où la vertu réside,  
+L'âme d'un tendre ami, toujours digne de toi.  
+
+    MILTIADE EN SE JETANT À SES GENOUX.
+Ô, mon Père !  
+
+    THÉMISTOCLE, APERCEVANT ROXANE.
+        Princesse, est-ce vous que je vois ?  
+Votre deuil est vengé...  
+
+    ROXANE.
+    Qui l'a vengé ?  
+
+    THÉMISTOCLE.
+        Moi-même.  
+
+    ROXANE.
+Cruel !... Tu mets le comble à ma douleur extrême.  
+Soleil, à quel excès portes-tu mes malheurs ?  
+L'assassin de mes fils est digne de mes pleurs !  
+
+    MILTIADE.
+Il expire, Seigneur...  
+On l'emmène.
+
+
+    XERXÈS.
+        Miltiade, à sa cendre  
+Rendez tous les honneurs qu'il a lieu de prétendre.  
+Et que sur le tombeau de ce fameux mortel  
+Soit verse d'Artaban tout le sang criminel :  
+Gardes, qu'on l'y conduise. Et toi, Grec, cette épée  
+Du sang athénien ne sera plus trempée.  
+Les bords, où Thémistocle ouvrit jadis les yeux,  
+Sont pour moi le séjour des Vertus et des Dieux.  
+
+-------
+
+
+[1] Satrape : Gouverneur de province chez les anciens perses. Le Roi Daius marchait accompagné de ses principaux seigneurs et satrapes. F
+
+[2] Thrace : Grande région de l'Europe ancienne, dont l'étendue a souvent varié. On lui donne généralement pour bornes au nord le Danube, à l'Est le Pont-Euxin et le Bosphore de Thrace, au Sud la Mer Égée et le Propontide, au Sud-ouest la Macédoine. B
+
+[3] Marathon : Bourg de l'Attique, à 30 Kil. au Nod-Est d'Athènes. Ce lieu, déjà célèbre dans la fable, par un taureau monstrueux dont Thésée délivra la contrée, l'est devenu beaucoup plus par la victoire que Miltiade y remporta sur les Perses l'en 490 avant JC. B
+
+[4] Salamine : Île de la Mer Egée, dan le Golfe Saronique, à 4 km est de la côtes de L'Attique, avec deux villes principales, Salamis vetu et Salamis Nova. B
+
+[5] Soleil : Dieu des Perses. Note de l'auteur
+
+[6] v. 342, l'original porte une virgule après ceux.
+
+[7] Thermopyles : Défilé de la Grèce, formé par l'extrémité orientale de Mont Oeta et la côte du Golfe Maliaque, conduisait de la Thessaie dans la Locride et fermait l'entrée de la Grèce proprement dite du côté de la Thessalie. Ce passage, qui est inexpugnable quand on possède les hauteurs environnantes, est célèbre par l'héroïque défense de Léonidas en 480 av. JC, et par la défaite d'Antiochus le Grand, qui y ut battu par les romains en 491 av. JC.
+
+[8] Lampsaque : ville de Musie, sur la Propontide, à l'entrée de l'Hellespont, avait pour dieu national Priape, et était renommée par ses vins. B
+
+[9] Larisse : ville de Thessalie, dans le Pélasgiotide, sur le Pénée, fut fondée par les Pélasges et devint la capitale du royaume D'Achille. C'est là ue Persée tua son grand-père Acrisius. B
+
+[10] Elée : ville de l'Asie mineure, à l'embouchure du Caïque, en face de Lesbos. B
+
+[11] Cyrus : Roi de Perse, fils de Cambyse, prince perse et de Mandane, fille d'Astyages, roi de sMèes, naquit vers l'an 599 av. J.C. Il rendit l'indépendance à la Perse qui était sou dépendance des Mèdes, se fit nommer roi de ce pays vers l'an 560 av. J.C., agrandit en peu de temps son empire. Il permit aux Hébreux captifs de retourner dans leur patrie en 536. 
+
+[12] v. 768, dans l'édition originale, injustice est au masculin.
+
+[13] Naxos : Île du royaume de Grèce. Saccagée sous Darius Ier après la révolte d'Ionie, elle fit alliance avec Athènes lors de l'invasion de Xerxès ; mai elle vit bientôt l'alliance se changer en protectorat. B
+
+[14] Amphictions : assemblée générale de la Grèce propre, composée des députés représentant les peuples confédérés de la contrée. B
+
+[15] Il s'agit du Dieu Mithra, le soleil, issu d'Ormuzd la lumière primitive ; culte des perses.
+
+[16] Le Pirée : Port d'Athènes. Note de l'auteur

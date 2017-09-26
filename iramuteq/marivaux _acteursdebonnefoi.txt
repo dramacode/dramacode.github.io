@@ -1,0 +1,1292 @@
+
+
+**** *book_ *id_I01 *act_I *date_1748
+
+-*who_merlin
+Oui, Monsieur, tout sera prêt ; vous n'avez qu'à faire mettre la salle en état ; à trois heures après midi, je vous garantis que je vous donnerai la comédie.
+
+-*who_eraste
+Tu feras grand plaisir à Madame Amelin, qui s'y attend avec impatience ; et de mon côté, je suis ravi de lui procurer ce petit divertissement : je lui dois bien des attentions ; tu vois ce qu'elle fait pour moi ; je ne suis que son neveu, et elle me donne tout son bien pour me marier avec Angélique, que j'aime.
+Pourrait-elle me traiter mieux, quand je serais son fils ?
+
+-*who_merlin
+Allons, il en faut convenir, c'est la meilleure de toutes les tantes du monde, et vous avez raison ; il n'y aurait pas plus de profit à l'avoir pour mère.
+
+-*who_eraste
+Mais, dis-moi, cette comédie dont tu nous régales, est-elle divertissante ?
+Tu as de l'esprit, mais en as-tu assez pour avoir fait quelque chose de passable ?
+
+-*who_merlin
+Du passable, Monsieur ?
+Non, il n'est pas de mon ressort ; les génies comme le mien ne connaissent pas le médiocre ; tout ce qu'ils font est charmant ou détestable ; j'excelle ou je tombe, il n'y a jamais de milieu.
+
+-*who_eraste
+Ton génie me fait trembler.
+
+-*who_merlin
+Vous craignez que je ne tombe ?
+Mais rassurez-vous.
+Avez-vous jamais acheté le recueil des chansons du Pont-Neuf ?
+Tout ce que vous y trouverez de beau est de moi.
+Il y en a surtout une demi-douzaine d'anacréontiques, qui sont d'un goût...
+
+-*who_eraste
+D'anacréontiques !
+Oh !
+Puisque tu connais ce mot-là, tu es habile, et je ne me méfie plus de toi.
+Mais prends garde que Madame Argante ne sache notre projet ; Madame Amelin veut la surprendre.
+
+-*who_merlin
+Lisette, qui est des nôtres, a sans doute gardé le secret.
+Mademoiselle Angélique, votre future, n'aura rien dit.
+De votre côté, vous vous êtes tu.
+J'ai été discret.
+Mes acteurs sont payés pour se taire ; et nous surprendrons, Monsieur, nous surprendrons.
+
+-*who_eraste
+Et qui sont tes acteurs ?
+
+-*who_merlin
+Moi, d'abord ; je me nomme le premier, pour vous inspirer de la confiance ; ensuite, Lisette, femme de chambre de Mademoiselle Angélique, et suivante originale ; Blaise, fils du fermier de Madame Argante ; Colette, amante dudit fils du fermier, et fille du jardinier.
+
+-*who_eraste
+Cela promet de quoi rire.
+
+-*who_merlin
+Et cela tiendra parole ; j'y ai mis bon ordre.
+Si vous saviez le coup d'art qu'il y a dans ma pièce !
+
+-*who_eraste
+Dis-moi donc ce que c'est.
+
+-*who_merlin
+Nous jouerons à l'impromptu, Monsieur, à l'impromptu.
+
+-*who_eraste
+Que veux-tu dire : à l'impromptu ?
+
+-*who_merlin
+Oui.
+Je n'ai fourni que ce que nous autres beaux esprits appelons le canevas ; la simple nature fournira les dialogues, et cette nature-là sera bouffonne.
+
+-*who_eraste
+La plaisante espèce de comédie !
+Elle pourra pourtant nous amuser.
+
+-*who_merlin
+Vous verrez, vous verrez.
+J'oublie encore à vous dire une finesse de ma pièce ; c'est que Colette qui doit faire mon amoureuse, et moi qui dois faire son amant, nous sommes convenus tous deux de voir un peu la mine que feront Lisette et Blaise à toutes les tendresses naïves que nous prétendons nous dire ; et le tout, pour éprouver s'ils n'en seront pas un peu alarmés et jaloux ; car vous savez que Blaise doit épouser Colette, et que l'amour nous destine, Lisette et moi, l'un à l'autre.
+Mais Lisette, Blaise et Colette vont venir ici pour essayer leurs scènes ; ce sont les principaux acteurs.
+J'ai voulu voir comment ils s'y prendront ; laissez-moi les écouter et les instruire, et retirez-vous : les voilà qui entrent.
+
+-*who_eraste
+Adieu ; fais-nous rire, on ne t'en demande pas davantage.
+
+**** *book_ *id_I02 *act_I *date_1748
+
+-*who_merlin
+Allons, mes enfants, je vous attendais ; montrez-moi un petit échantillon de votre savoir-faire, et tâchons de gagner notre argent le mieux que nous pourrons ; répétons.
+
+-*who_lisette
+Ce que j'aime de ta comédie, c'est que nous nous la donnerons à nous-mêmes ; car je pense que nous allons tenir de jolis propos.
+
+-*who_merlin
+De très jolis propos ; car, dans le plan de ma pièce, vous ne sortez point de votre caractère, vous autres : toi, tu joues une maligne soubrette à qui l'on n'en fait point accroire, et te voilà ; Blaise a l'air d'un nigaud pris sans vert, et il en fait le rôle ; une petite coquette de village et Colette, c'est la même chose ; un joli homme et moi, c'est tout un.
+Un joli homme est inconstant, une coquette n'est pas fidèle : Colette trahit Blaise, je néglige ta flamme.
+Blaise est un sot qui en pleure, tu es une diablesse qui t'en mets en fureur ; et voilà ma pièce.
+Oh !
+Je défie qu'on arrange mieux les choses.
+
+-*who_blaise
+Oui, mais si ce que j'allons jouer allait être vrai, prenez garde, au moins, il ne faut pas du tout de bon ; car j'aime Colette, dame !
+
+-*who_merlin
+À merveille !
+Blaise, je te demande ce ton de nigaud-là dans la pièce.
+
+-*who_lisette
+Écoutez, Monsieur le joli homme, il a raison ; que ceci ne passe point la raillerie ; car je ne suis pas endurante, je vous en avertis.
+
+-*who_merlin
+Fort bien, Lisette !
+Il y a un aigre-doux dans ce ton-là qu'il faut conserver.
+
+-*who_colette
+Allez, allez, Mademoiselle Lisette ; il n'y a rien à appriander pour vous ; car vous êtes plus jolie que moi ; Monsieur Merlin le sait bien.
+
+-*who_merlin
+Courage, friponne ; vous y êtes, c'est dans ce goût-là qu'il faut jouer votre rôle.
+Allons, commençons à répéter.
+
+-*who_lisette
+C'est à nous deux à commencer, je crois.
+
+-*who_merlin
+Oui, nous sommes la première scène ; asseyez-vous là, vous autres ; et nous, débutons.
+Tu es au fait, Lisette.
+Tu arrives sur le théâtre, et tu me trouves rêveur et distrait.
+Recule-toi un peu, pour me laisser prendre ma contenance.
+
+**** *book_ *id_I03 *act_I *date_1748
+
+-*who_lisette
+Qu'avez-vous donc, Monsieur Merlin ?
+Vous voilà bien pensif.
+
+-*who_merlin
+C'est que je me promène.
+
+-*who_lisette
+Et votre façon, en vous promenant, est-elle de ne pas regarder les gens qui vous abordent ?
+
+-*who_merlin
+C'est que je suis distrait dans mes promenades.
+
+-*who_lisette
+Qu'est-ce que c'est que ce langage-là ?
+Il me paraît bien impertinent.
+
+-*who_merlin
+Doucement, Lisette, tu me dis des injures au commencement de la scène, par où la finiras-tu ?
+
+-*who_lisette
+Oh !
+Ne t'attends pas à des régularités, je dis ce qui me vient ; continuons.
+
+-*who_merlin
+Où en sommes-nous ?
+
+-*who_lisette
+Je traitais ton langage d'impertinent.
+
+-*who_merlin
+Tiens, tu es de méchante humeur ; passons notre chemin, ne nous parlons pas davantage.
+
+-*who_lisette
+Attendez-vous ici Colette, Monsieur Merlin ?
+
+-*who_merlin
+Cette question-là nous présage une querelle.
+
+-*who_lisette
+Tu n'en es pas encore où tu penses.
+
+-*who_merlin
+Je me contente de savoir que j'en suis où me voilà.
+
+-*who_lisette
+Je sais bien que tu me fuis, et que je t'ennuie depuis quelques jours.
+
+-*who_merlin
+Vous êtes si savante qu'il n'y a pas moyen de vous instruire.
+
+-*who_lisette
+Comment, faquin !
+Tu ne prends pas seulement la peine de te défendre de ce que je dis là ?
+
+-*who_merlin
+Je n'aime à contredire personne.
+
+-*who_lisette
+Viens ça, parle ; avoue-moi que Colette te plaît.
+
+-*who_merlin
+Pourquoi veux-tu qu'elle me déplaise ?
+
+-*who_lisette
+Avoue que tu l'aimes.
+
+-*who_merlin
+Je ne fais jamais de confidence.
+
+-*who_lisette
+Va, va, je n'ai pas besoin que tu me la fasses.
+
+-*who_merlin
+Ne m'en demande donc pas.
+
+-*who_lisette
+Me quitter pour une petite villageoise !
+
+-*who_merlin
+Je ne te quitte pas, je ne bouge.
+
+-*who_colette
+Oui, mais est-ce du jeu de me dire des injures en mon absence ?
+
+-*who_merlin
+Sans doute, ne voyez-pas bien que c'est une fille jalouse qui vous méprise ?
+
+-*who_colette
+Eh bien !
+Quand ce sera à moi à dire, je prendrai ma revanche.
+
+-*who_lisette
+Et moi, je ne sais plus où j'en suis.
+
+-*who_merlin
+Tu me querellais.
+
+-*who_lisette
+Eh !
+Dis-moi, dans cette scène-là, puis-je te battre ?
+
+-*who_merlin
+Comme tu n'es qu'une suivante, un coup de poing ne gâtera rien.
+
+-*who_lisette
+Reprenons donc, afin que je le place.
+
+-*who_merlin
+Non, non, gardons le coup de poing pour la représentation, et supposons qu'il est donné ; ce serait un double emploi, qui est inutile.
+
+-*who_lisette
+Je crois aussi que je peux pleurer dans mon chagrin.
+
+-*who_merlin
+Sans difficulté ; n'y manque pas, mon mérite et ta vanité le veulent.
+
+-*who_lisette
+Ton mérite, qui le veut, me fait rire.
+Que je suis à plaindre d'avoir été sensible aux cajoleries de ce fourbe-là !
+Adieu : voici la petite impertinente qui entre ; mais laisse-moi faire.
+Serait-il si mal de la battre un peu ?
+
+-*who_colette
+Non pas, s'il vous plaît ; je ne veux pas que les coups en soient ; je n'ai point affaire d'être battue pour une farce : encore si c'était vrai, je l'endurerais.
+
+-*who_lisette
+Voyez-vous la fine mouche !
+
+-*who_merlin
+Ne perdons point le temps à nous interrompre ; va-t'en, Lisette : voici Colette qui entre pendant que tu sors, et tu n'as plus que faire ici.
+Allons, poursuivons ; reculez-vous un peu, Colette, afin que j'aille au-devant de vous.
+
+**** *book_ *id_I04 *act_I *date_1748
+
+-*who_merlin
+Bonjour, ma belle enfant : je suis bien sûr que ce n'est pas moi que vous cherchez.
+
+-*who_colette
+Non, Monsieur Merlin ; mais ça n'y fait rien ; je suis bien aise de vous y trouver.
+
+-*who_merlin
+Et moi, je suis charmé de vous rencontrer, Colette.
+
+-*who_colette
+Ça est bien obligeant.
+
+-*who_merlin
+Ne vous êtes-vous pas aperçu du plaisir que j'ai à vous voir ?
+
+-*who_colette
+Oui, mais je n'ose pas bonnement m'apercevoir de ce plaisir-là, à cause que j'y en prendrais aussi.
+
+-*who_merlin
+Doucement, Colette ; il n'est pas décent de vous déclarer si vite.
+
+-*who_colette
+Dame !
+Comme il faut avoir d'l'amiquié pour vous dans cette affaire-là, j'ai cru qu'il n'y avait point de temps à perdre.
+
+-*who_merlin
+Attendez que je me déclare tout à fait, moi.
+
+-*who_blaise
+Voyez en effet comme alle se presse : an dirait qu'alle y va de bon jeu, je crois que ça m'annonce du guignon.
+
+-*who_lisette
+Je n'aime pas trop cette saillie-là, non plus.
+
+-*who_merlin
+C'est qu'elle ne sait pas mieux faire.
+
+-*who_colette
+Eh bien !
+Velà ma pensée tout sens dessus dessous ; pisqu'ils me blâmont, je sis trop timide pour aller en avant, s'ils ne s'en vont pas.
+
+-*who_merlin
+Éloignez-vous donc pour l'encourager.
+
+-*who_blaise
+Non, morguié, je ne veux pas qu'alle ait du courage, moi ; je veux tout entendre.
+
+-*who_lisette
+Il est vrai, m'amie, que vous êtes plaisante de vouloir que nous nous en allions.
+
+-*who_colette
+Pourquoi aussi me chicanez-vous ?
+
+-*who_blaise
+Pourquoi te hâtes-tu tant d'être amoureuse de Monsieur Merlin ?
+Est-ce que tu en sens de l'amour ?
+
+-*who_colette
+Mais, vrament !
+Je sis bien obligée d'en sentir pisque je sis obligée d'en prendre dans la comédie.
+Comment voulez-vous que je fasse autrement ?
+
+-*who_lisette
+Comment !
+Vous aimez réellement Merlin !
+
+-*who_colette
+Il faut bien, pisque c'est mon devoir.
+
+-*who_merlin
+Blaise et toi, vous êtes de grands innocents tous deux ; ne voyez-vous pas qu'elle s'explique mal ?
+Ce n'est pas qu'elle m'aime tout de bon ; elle veut dire seulement qu'elle doit faire semblant de m'aimer ; n'est-ce pas, Colette ?
+
+-*who_colette
+Comme vous voudrez, Monsieur Merlin.
+
+-*who_merlin
+Allons, continuons, et attendez que je me déclare tout à fait, pour vous montrer sensible à mon amour.
+
+-*who_colette
+J'attendrai, Monsieur Merlin ; faites vite.
+
+-*who_merlin
+Que vous êtes aimable, Colette, et que j'envie le sort de Blaise, qui doit être votre mari !
+
+-*who_colette
+Oh !
+Oh !
+Est-ce que vous m'aimez, Monsieur Merlin ?
+
+-*who_merlin
+Il y a plus de huit jours que je cherche à vous le dire.
+
+-*who_colette
+Queu dommage !
+Car je nous accorderions bien tous deux.
+
+-*who_merlin
+Et pourquoi, Colette ?
+
+-*who_colette
+C'est que si vous m'aimez, dame !...
+Dirai-je ?
+
+-*who_merlin
+Sans doute.
+
+-*who_colette
+C'est que, si vous m'aimez, c'est bian fait ; car il n'y a rian de pardu.
+
+-*who_merlin
+Quoi !
+Chère Colette, votre coeur vous dit quelque chose pour moi ?
+
+-*who_colette
+Oh !
+Il ne me dit pas queuque chose, il me dit tout à fait.
+
+-*who_merlin
+Que vous me charmez, bel enfant !
+Donnez-moi votre jolie main, que je vous en remercie.
+
+-*who_lisette
+Je défends les mains.
+
+-*who_colette
+Faut pourtant que j'en aie.
+
+-*who_lisette
+Oui, mais il n'est pas nécessaire qu'il les baise.
+
+-*who_merlin
+Entre amants, les mains d'une maîtresse sont toujours de la conversation.
+
+-*who_blaise
+Ne permettez pas qu'elles en soient, Mademoiselle Lisette.
+
+-*who_merlin
+Ne vous fâchez pas, il n'y a qu'à supprimer cet endroit-là.
+
+-*who_colette
+Ce n'est que des mains, au bout du compte.
+
+-*who_merlin
+Je me contenterai de lui tenir la main de la mienne.
+
+-*who_blaise
+Ne faut pas magnier non plus ; n'est-ce pas, Mademoiselle Lisette ?
+
+-*who_lisette
+C'est le mieux.
+
+-*who_merlin
+Il n'y aura point assez de vif dans cette scène-là.
+
+-*who_colette
+Je sis de votre avis, Monsieur Merlin, et je n'empêche pas les mains, moi.
+
+-*who_merlin
+Puisqu'on les trouve de trop, laissons-les, et revenons.
+Vous m'aimez donc, Colette, et cependant vous allez épouser Blaise ?
+
+-*who_colette
+Vraiment ça me fâche assez ; car ce n'est pas moi qui le prends ; c'est mon père et ma mère qui me le baillent.
+
+-*who_blaise
+Me velà donc bien chanceux !
+
+-*who_merlin
+Tais-toi donc, tout ceci est de la scène, tu le sais bien.
+
+-*who_blaise
+C'est que je vais gager que ça est vrai.
+
+-*who_merlin
+Non, te dis-je ; il faut ou quitter notre projet ou le suivre ; la récompense que Madame Amelin nous a promise vaut bien la peine que nous la gagnions ; je suis fâché d'avoir imaginé ce plan-là, mais je n'ai pas le temps d'en imaginer un autre ; poursuivons.
+
+-*who_colette
+Je le trouve bien joli, moi.
+
+-*who_lisette
+Je ne dis mot, mais je n'en pense pas moins.
+Quoi qu'il en soit, allons notre chemin, pour ne pas risquer notre argent.
+
+-*who_merlin
+Vous ne vous souciez donc pas de Blaise, Colette, puisqu'il n'y a que vos parents qui veulent que vous l'épousiez ?
+
+-*who_colette
+Non, il ne me revient point ; et si je pouvais, par queuque manigance, m'empêcher de l'avoir pour mon homme, je serais bientôt quitte de li ; car il est si sot !
+
+-*who_blaise
+Morgué !
+Velà une vilaine comédie !
+
+-*who_merlin
+Paix donc !
+Vous n'avez qu'à dire à vos parents que vous ne l'aimez pas.
+
+-*who_colette
+Bon !
+Je li ai bien dit à li-même, et tout ça n'y fait rien.
+
+-*who_blaise
+C'est la vérité qu'alle me l'a dit.
+
+-*who_colette
+Mais, Monsieur Merlin, si vous me demandiais en mariage, peut-être que vous m'auriais ?
+Seriais-vous fâché de m'avoir pour femme ?
+
+-*who_merlin
+J'en serais ravi ; mais il faut s'y prendre adroitement, à cause de Lisette, dont la méchanceté nous nuirait et romprait nos mesures.
+
+-*who_colette
+Si alle n'était pas ici, je varrions comme nous y prenre ; fallait pas parmettre qu'alle nous écoutît.
+
+-*who_lisette
+Que signifie donc ce que j'entends là ?
+Car, enfin, voilà un discours qui ne peut entrer dans la représentation de votre scène, puisque je ne serai pas présente quand vous la jouerez.
+
+-*who_merlin
+Tu n'y seras pas, il est vrai ; mais tu es actuellement devant ses yeux, et par méprise elle se règle là-dessus.
+N'as-tu jamais entendu parler d'un axiome qui dit que l'objet présent émeut la puissance ?
+Voilà pourquoi elle s'y trompe ; si tu avais étudié, cela ne t'étonnerait pas.
+À toi, à présent, Blaise ; c'est toi qui entres ici, et qui viens nous interrompre ; retire-toi à quatre pas, pour feindre que tu arrives ; moi, qui t'aperçois venir, je dis à Colette :
+    « Voici Blaise qui arrive, ma chère Colette ; remettons l'entretien à une autre fois. »
+Et retirez-vous.
+
+-*who_blaise
+Je suis tout parturbé, moi, je ne sais que dire.
+
+-*who_merlin
+Tu rencontres Colette sur ton chemin, et tu lui demandes d'avec qui elle sort.
+
+-*who_blaise
+D'où viens-tu donc, Colette ?
+
+-*who_colette
+Eh !
+Je viens d'où j'étais.
+
+-*who_blaise
+Comme tu me rudoies !
+
+-*who_colette
+Oh !
+Dame !
+Accommode-toi ; prends ou laisse.
+Adieu.
+
+**** *book_ *id_I05 *act_I *date_1748
+
+-*who_merlin
+C'est, à cette heure, à moi à qui tu as affaire.
+
+-*who_blaise
+Tenez, Monsieur Merlin, je ne saurions endurer que vous m'escamotiais ma maîtresse.
+
+-*who_merlin
+"Tenez, Monsieur Merlin !"Est-ce comme cela qu'on commence une scène ?
+Dans mes instructions, je t'ai dit de me demander quel était mon entretien avec Colette.
+
+-*who_blaise
+Eh !
+Parguié !
+Ne le sais-je pas, pisque j'y étais ?
+
+-*who_merlin
+Souviens-toi donc que tu n'étais pas censé y être.
+
+-*who_blaise
+Eh bian !
+Colette était donc avec vous, Monsieur Merlin ?
+
+-*who_merlin
+Oui, nous ne faisions que de nous rencontrer.
+
+-*who_blaise
+On dit pourtant qu'vous en êtes amoureux, Monsieur Merlin, et ça me chagrine, entendez-vous ?
+Car elle sera mon accordée de mardi en huit.
+
+-*who_colette
+Oh !
+Sans vous interrompre, ça est remis de mardi en quinze, et d'ici à ce temps-là, je varrons venir.
+
+-*who_merlin
+N'importe ; cette erreur-là n'est ici d'aucune conséquence.
+Qui est-ce qui t'a dit, Blaise, que j'aime Colette ?
+
+-*who_blaise
+C'est vous qui le disiais tout à l'heure.
+
+-*who_merlin
+Mais prends donc garde ; souviens-toi encore une fois que tu n'y étais pas.
+
+-*who_blaise
+C'est donc Mademoiselle Lisette qui me l'a appris, et qui vous donne aussi biaucoup de blâme de cette affaire-là ?
+Et la velà pour confirmer mon dire.
+
+-*who_lisette
+Va, va, j'en dirai mon sentiment après la comédie.
+
+-*who_merlin
+Nous ne ferons jamais rien de cette grue-là : il ne saurait perdre les objets de vue.
+
+-*who_lisette
+Continuez ; continuez ; dans la représentation il ne les verra pas, et cela le corrigera ; quand un homme perd sa maîtresse, il lui est permis d'être distrait, Monsieur Merlin.
+
+-*who_blaise
+Cette comédie-là n'est faite que pour nous planter là, Mademoiselle Lisette.
+
+-*who_colette
+Eh bien !
+Plante-moi là itou, toi, Nicodème !
+
+-*who_blaise
+Morguié !
+Ce n'est pas comme ça qu'on en use avec un fiancé de la semaine qui vient.
+
+-*who_colette
+Et moi, je te dis que tu ne seras mon fiancé d'aucune semaine.
+
+-*who_merlin
+Adieu ma comédie ; on m'avait promis dix pistoles pour la faire jouer, et ce poltron-là me les vole comme s'il me les prenait dans ma poche.
+
+-*who_colette
+Eh !
+Pardi, Monsieur Merlin, velà bian du tintamarre, parce que vous avez de l'amiquié pour moi, et que je vous trouve agriable.
+Eh bian !
+Oui, je lui plais ; je nous plaisons tous deux ; il est garçon, je sis fille ; il est à marier, moi itou ; il voulait de Mademoiselle Lisette, il n'en veut pus ; il la quitte, je te quitte ; il me prend, je le prends.
+Quant à ce qui est de vous autres, il n'y a que patience à prendre.
+
+-*who_blaise
+Velà de belles fiançailles !
+
+-*who_lisette
+Tu te tais donc, fourbe !
+Tiens, voilà le cas que je fais du plan de ta comédie, tu mériterais d'être traité de même.
+
+-*who_merlin
+Mais, mes enfants, gagnons d'abord notre argent, et puis nous finirons nos débats.
+
+-*who_colette
+C'est bian dit ; je nous querellerons après, c'est la même chose.
+
+-*who_lisette
+Taisez-vous, petite impertinente.
+
+-*who_colette
+Cette jalouse, comme elle est malapprise !
+
+-*who_merlin
+Paix-là donc, paix !
+
+-*who_colette
+Suis-je cause que je vaux mieux qu'elle ?
+
+-*who_lisette
+Que cette petite paysanne-là ne m'échauffe pas les oreilles !
+
+-*who_colette
+Mais, voyez, je vous prie, cette glorieuse, avec sa face de chambrière !
+
+-*who_merlin
+Le bruit que vous faites va amasser tout le monde ici, et voilà déjà Madame Argante qui accourt, je pense.
+
+-*who_lisette
+Adieu, fourbe.
+
+-*who_merlin
+L'épithète de folle m'acquittera, s'il te plaît, de celle de fourbe.
+
+-*who_blaise
+Je m'en vais itou me plaindre à un parent de la masque.
+
+-*who_colette
+Je nous varrons tantôt, Monsieur Merlin, n'est-ce pas ?
+
+-*who_merlin
+Oui, Colette, et cela va à merveille ; ces gens-là nous aiment, mais continuons encore de feindre.
+
+-*who_colette
+Tant que vous voudrais ; il n'y a pas de danger, pisqu'ils nous aimont tant.
+
+**** *book_ *id_I06 *act_I *date_1748
+
+-*who_madameargante
+Qu'est-ce que c'est donc que le bruit que j'entends ?
+Avec qui criais-tu tout à l'heure ?
+
+-*who_merlin
+Rien, c'est Blaise et Colette qui sortent d'ici avec Lisette, Madame.
+
+-*who_madameargante
+Eh bien !
+Est-ce qu'ils avaient querelle ensemble ?
+Je veux savoir ce que c'est.
+
+-*who_merlin
+C'est qu'il s'agissait d'un petit dessein que... nous avions, d'une petite idée qui nous était venue, et nous avons de la peine à faire un ensemble qui s'accorde.
+Monsieur vous dira ce que c'est.
+
+-*who_eraste
+Madame, il est question d'une bagatelle que vous saurez tantôt.
+
+-*who_madameargante
+Pourquoi m'en faire mystère à présent ?
+
+-*who_eraste
+Puisqu'il faut vous le dire, c'est une petite pièce dont il est question.
+
+-*who_madameargante
+Une pièce de quoi ?
+
+-*who_merlin
+C'est, Madame, une comédie, et nous vous ménagions le plaisir de la surprise.
+
+-*who_angelique
+Et moi, j'avais promis à Madame Amelin et à Éraste de ne vous en point parler, ma mère.
+
+-*who_madameargante
+Une comédie !
+
+-*who_merlin
+Oui, une comédie dont je suis l'auteur ; cela promet.
+
+-*who_madameargante
+Et pourquoi s'y battre ?
+
+-*who_merlin
+On ne s'y bat pas, Madame ; la bataille que vous avez entendue n'était qu'un entracte ; mes acteurs se sont brouillés dans l'intervalle de l'action ; c'est la discorde qui est entrée dans la troupe ; il n'y a rien là que de fort ordinaire.
+Ils voulaient sauter du brodequin au cothurne, et je vais tâcher de les ramener à des dispositions moins tragiques.
+
+-*who_madameargante
+Non, laissons là tes dispositions moins tragiques, et supprimons ce divertissement-là.
+Éraste, vous n'y avez pas songé : la comédie chez une femme de mon âge, cela serait ridicule.
+
+-*who_eraste
+C'est la chose du monde la plus innocente, Madame, et d'ailleurs Madame Amelin se faisait une joie de la voir exécuter.
+
+-*who_merlin
+C'est elle qui nous paye pour la mettre en état ; et moi, qui vous parle, j'ai déjà reçu des arrhes ; ma marchandise est vendue, il faut que je la livre ; et vous ne sauriez, en conscience, rompre un marché conclu, Madame.
+Il faudrait que je restituasse, et j'ai pris des arrangements qui ne me le permettent plus.
+
+-*who_madameargante
+Ne te mets point en peine ; je vous dédommagerai, vous autres.
+
+-*who_merlin
+Sans compter douze sous qu'il m'en coûte pour un moucheur de chandelles que j'ai arrêté ; trois bouteilles de vin que j'ai avancées aux ménétriers du village pour former mon orchestre ; quatre que j'ai donné parole de boire avec eux immédiatement après la représentation ; une demi-main de papier que j'ai barbouillée pour mettre mon canevas bien au net...
+
+-*who_madameargante
+Tu n'y perdras rien, te dis-je.
+Voici Madame Amelin, et vous allez voir qu'elle sera de mon avis.
+
+**** *book_ *id_I07 *act_I *date_1748
+
+-*who_madameargante
+Vous ne devineriez pas, Madame, ce que ces jeunes gens nous préparaient ?
+Une comédie de la façon de Monsieur Merlin.
+Ils m'ont dit que vous le savez, mais je suis bien sûre que non.
+
+-*who_madameamelin
+C'est moi à qui l'idée en est venue.
+
+-*who_madameargante
+À vous, Madame !
+
+-*who_madameamelin
+Oui, vous saurez que j'aime à rire, et vous verrez que cela nous divertira ; mais j'avais expressément défendu qu'on vous le dît.
+
+-*who_madameargante
+Je l'ai appris par le bruit qu'on faisait dans cette salle ; mais j'ai une grâce à vous demander, Madame ; c'est que vous ayez la bonté d'abandonner le projet, à cause de moi, dont l'âge et le caractère...
+
+-*who_madameamelin
+Ah !
+Voilà qui est fini, Madame ; ne vous alarmez point ; c'en est fait, il n'en est plus question.
+
+-*who_madameargante
+Je vous en rends mille grâces, et je vous avoue que j'en craignais l'exécution.
+
+-*who_madameamelin
+Je suis fâchée de l'inquiétude que vous en avez prise.
+
+-*who_madameargante
+Je vais rejoindre la compagnie avec ma fille ; n'y venez-vous pas ?
+
+-*who_madameamelin
+Dans un moment.
+
+-*who_angelique
+Madame Amelin n'est pas contente, ma mère.
+
+-*who_madameargante
+Taisez-vous.
+Adieu, Madame ; venez donc nous retrouver.
+
+-*who_madameamelin
+Oui, oui.
+Mon neveu, quand vous aurez mené Madame Argante, venez me parler.
+
+-*who_eraste
+Sur-le-champ, Madame.
+
+-*who_merlin
+J'en serai donc réduit à l'impression, quel dommage !
+
+**** *book_ *id_I08 *act_I *date_1748
+
+-*who_madameamelin
+Vous avez pourtant beau dire, Madame Argante ; j'ai voulu rire, et je rirai.
+
+-*who_araminte
+Eh bien, ma chère !
+Où en est notre comédie ?
+Va-t-on la jouer ?
+
+-*who_madameamelin
+Non, Madame Argante veut qu'on rende l'argent à la porte.
+
+-*who_araminte
+Comment !
+Elle s'oppose à ce qu'on la joue ?
+
+-*who_madameamelin
+Sans doute : on la jouera pourtant, ou celle-ci, ou une autre.
+Tout ce qui arrivera de ceci, c'est qu'au lieu de la lui donner, il faudra qu'elle me la donne, et qu'elle la joue, qui pis est, et je vous prie de m'y aider.
+
+-*who_araminte
+Il sera curieux de la voir monter sur le théâtre !
+Quant à moi, je ne suis bonne qu'à me tenir dans ma loge.
+
+-*who_madameamelin
+Écoutez-moi ; je vais feindre d'être si rebutée du peu de complaisance qu'on a pour moi, que je paraîtrai renoncer au mariage de mon neveu avec Angélique.
+
+-*who_araminte
+Votre neveu est, en effet, un si grand parti pour elle...
+
+-*who_madameamelin
+Que la mère n'avait osé espérer que je consentisse ; jugez de la peur qu'elle aura, et des démarches qu'elle va faire.
+Jouera-t-elle bien son rôle ?
+
+-*who_araminte
+Oh !
+D'après nature.
+
+-*who_madameamelin
+Mon neveu et sa maîtresse seront-ils, de leur côté, de bons acteurs, à votre avis ?
+Car ils ne sauront pas que je me divertis, non plus que le reste des acteurs.
+
+-*who_araminte
+Cela sera plaisant, mais il n'y a que mon rôle qui m'embarrasse : à quoi puis-je vous être bonne ?
+
+-*who_madameamelin
+Vous avez trois fois plus de bien qu'Angélique : vous êtes veuve, et encore jeune.
+Vous m'avez fait confidence de votre inclination pour mon neveu, tout est dit.
+Vous n'avez qu'à vous conformer à ce que je vais faire : voici mon neveu, et c'est ici la première scène, êtes-vous prête ?
+
+-*who_araminte
+Oui.
+
+**** *book_ *id_I09 *act_I *date_1748
+
+-*who_eraste
+Vous m'avez ordonné de revenir ; que me voulez-vous, Madame ?
+La compagnie vous attend.
+
+-*who_madameamelin
+Qu'elle m'attende, mon neveu ; je ne suis pas près de la rejoindre.
+
+-*who_eraste
+Vous me paraissez bien sérieuse, Madame, de quoi s'agit-il ?
+
+-*who_madameamelin
+Éraste, que pensez-vous de Madame ?
+
+-*who_eraste
+Moi ?
+Ce que tout le monde en pense ; que Madame est fort aimable.
+
+-*who_araminte
+La réponse est flatteuse.
+
+-*who_eraste
+Elle est toute simple.
+
+-*who_madameamelin
+Mon neveu, son coeur et sa main, joints à trente mille livres de rente, ne valent-ils pas bien qu'on s'attache à elle ?
+
+-*who_eraste
+Y a-t-il quelqu'un à qui il soit besoin de persuader cette vérité-là ?
+
+-*who_madameamelin
+Je suis charmée de vous en voir si persuadé vous-même.
+
+-*who_eraste
+À propos de quoi en êtes-vous si charmée, Madame ?
+
+-*who_madameamelin
+C'est que je trouve à propos de vous marier avec elle.
+
+-*who_eraste
+Moi, ma tante ?
+Vous plaisantez, et je suis sûr que Madame ne serait pas de cet avis-là.
+
+-*who_madameamelin
+C'est pourtant elle qui me le propose.
+
+-*who_eraste
+De m'épouser !
+Vous, Madame !
+
+-*who_araminte
+Pourquoi non, Éraste ?
+Cela me paraîtrait assez convenable ; qu'en dites-vous ?
+
+-*who_madameamelin
+Ce qu'il en dit ?
+En êtes-vous en peine ?
+
+-*who_araminte
+Il ne répond pourtant rien.
+
+-*who_madameamelin
+C'est d'étonnement et de joie, n'est-ce pas, mon neveu ?
+
+-*who_eraste
+Madame...
+
+-*who_madameamelin
+Quoi ?
+
+-*who_eraste
+On n'épouse pas deux femmes.
+
+-*who_madameamelin
+Où en prenez-vous deux ?
+On ne vous parle que de Madame.
+
+-*who_araminte
+Et vous aurez la bonté de n'épouser que moi non plus, assurément.
+
+-*who_eraste
+Vous méritez un coeur tout entier, Madame ; et vous savez que j'adore Angélique, qu'il m'est impossible d'aimer ailleurs.
+
+-*who_araminte
+Impossible, Éraste, impossible !
+Oh !
+Puisque vous le prenez sur ce ton-là, vous m'aimerez, s'il vous plaît.
+
+-*who_eraste
+Je ne m'y attends pas, Madame.
+
+-*who_araminte
+Vous m'aimerez, vous dis-je ; on m'a promis votre coeur, et je prétends qu'on me le tienne ; je crois que d'en donner deux cent mille écus, c'est le payer tout ce qu'il vaut, et qu'il y en a peu de ce prix-là.
+
+-*who_eraste
+Angélique l'estimerait davantage.
+
+-*who_madameamelin
+Qu'elle l'estime ce qu'elle voudra, j'ai garanti que Madame l'aurait ; il faut qu'elle l'ait, et que vous dégagiez ma parole.
+
+-*who_eraste
+Ah !
+Madame, voulez-vous me désespérer ?
+
+-*who_araminte
+Comment donc : vous désespérer ?
+
+-*who_madameamelin
+Laissez-le dire.
+Courage, mon neveu, courage !
+
+-*who_eraste
+Juste ciel !
+
+**** *book_ *id_I10 *act_I *date_1748
+
+-*who_madameargante
+Je viens vous chercher, Madame, puisque vous ne venez pas ; mais que vois-je ?
+Éraste soupire !
+Ses yeux sont mouillés de larmes !
+Il paraît désolé !
+Que lui est-il donc arrivé ?
+
+-*who_madameamelin
+Rien que de fort heureux, quand il sera raisonnable ; au reste, Madame, j'allais vous informer que nous sommes sur notre départ, Araminte, mon neveu et moi.
+N'auriez-vous rien à mander à Paris ?
+
+-*who_madameargante
+À Paris !
+Quoi !
+Est-ce que vous y allez, Madame ?
+
+-*who_madameamelin
+Dans une heure.
+
+-*who_madameargante
+Vous plaisantez, Madame ; et ce mariage ?...
+
+-*who_madameamelin
+Je pense que le mieux est de le laisser là ; le dégoût que vous avez marqué pour ce petit divertissement, qui me flattait, m'a fait faire quelques réflexions.
+Vous êtes trop sérieuse pour moi.
+J'aime la joie innocente ; elle vous déplaît.
+Notre projet était de demeurer ensemble ; nous pourrions ne nous pas convenir ; n'allons pas plus loin.
+
+-*who_madameargante
+Comment !
+Une comédie de moins romprait un mariage, Madame ?
+Eh !
+Qu'on la joue, Madame ; qu'à cela ne tienne ; et si ce n'est pas assez, qu'on y joigne l'opéra, la foire, les marionnettes, et tout ce qu'il vous plaira, jusqu'aux parades.
+
+-*who_madameamelin
+Non, le parti que je prends vous dispense de cet embarras-là.
+Nous n'en serons pas moins bonnes amies, s'il vous plaît ; mais je viens de m'engager avec Araminte, et d'arrêter que mon neveu l'épousera.
+
+-*who_madameargante
+Araminte à votre neveu, Madame !
+Votre neveu épouser Araminte !
+Quoi !
+Ce jeune homme !...
+
+-*who_araminte
+Que voulez-vous ?
+Je suis à marier aussi bien qu'Angélique.
+
+-*who_angelique
+Éraste y consent-il ?
+
+-*who_eraste
+Vous voyez mon trouble ; je ne sais plus où j'en suis.
+
+-*who_angelique
+Est-ce là tout ce que vous répondez ?
+Emmenez-moi, ma mère, retirons-nous ; tout nous trahit.
+
+-*who_eraste
+Moi, vous trahir, Angélique !
+Moi, qui ne vis que pour vous !
+
+-*who_madameamelin
+Y songez-vous, mon neveu, de parler d'amour à une autre, en présence de Madame que je vous destine ?
+
+-*who_madameargante
+Mais en vérité, tout ceci n'est qu'un rêve.
+
+-*who_madameamelin
+Nous sommes tous bien éveillés, je pense.
+
+-*who_madameargante
+Mais, tant pis, Madame, tant pis !
+Il n'y a qu'un rêve qui puisse rendre ceci pardonnable, absolument qu'un rêve, que la représentation de votre misérable comédie va dissiper.
+Allons vite, qu'on s'y prépare !
+On dit que la pièce est un impromptu ; je veux y jouer moi-même ; qu'on tâche de m'y ménager un rôle ; jouons-y tous, et vous aussi, ma fille.
+
+-*who_angelique
+Laissons-les, ma mère ; voilà tout ce qu'il nous reste.
+
+-*who_madameargante
+Je ne serai pas une grande actrice, mais je n'en serai que plus réjouissante.
+
+-*who_madameamelin
+Vous joueriez à merveille, Madame, et votre vivacité en est une preuve ; mais je ferais scrupule d'abaisser votre gravité jusque-là.
+
+-*who_madameargante
+Que cela ne vous inquiète pas.
+C'est Merlin qui est l'auteur de la pièce ; je le vois qui passe ; je vais la lui recommander moi-même.
+Merlin !
+Merlin !
+Approchez.
+
+-*who_madameamelin
+Eh !
+Non, Madame, je vous prie.
+
+-*who_eraste
+Souffrez qu'on la joue, Madame ; voulez-vous qu'une comédie décide de mon sort, et que ma vie dépende de deux ou trois dialogues ?
+
+-*who_madameargante
+Non, non, elle n'en dépendra pas.
+
+**** *book_ *id_I11 *act_I *date_1748
+
+-*who_madameargante
+La comédie que vous nous destinez est-elle bientôt prête ?
+
+-*who_merlin
+J'ai rassemblé tous nos acteurs ; ils sont là, et nous allons achever de la répéter, si l'on veut.
+
+-*who_madameargante
+Qu'ils entrent.
+
+-*who_madameamelin
+En vérité, cela est inutile.
+
+-*who_madameargante
+Point du tout, Madame.
+
+-*who_araminte
+Je ne présume pas, quoi que l'on fasse, que Madame veuille rompre l'engagement qu'elle a pris avec moi ; la comédie se jouera quand on voudra, mais Éraste m'épousera, s'il vous plaît.
+
+-*who_madameargante
+Vous, Madame ?
+Avec vos quarante ans !
+Il n'en sera rien, s'il vous plaît vous-même, et je vous le dis tout franc, vous avez là un très mauvais procédé, Madame ; vous êtes de nos amis, nous vous invitons au mariage de ma fille, et vous prétendez en faire le vôtre et lui enlever son mari, malgré toute la répugnance qu'il en a lui-même ; car il vous refuse, et vous sentez bien qu'il ne gagnerait pas au change ; en vérité, vous n'êtes pas concevable : à quarante ans lutter contre vingt !
+Vous rêvez, Madame.
+Allons, Merlin, qu'on achève.
+
+**** *book_ *id_I12 *act_I *date_1748
+
+-*who_madameargante
+J'ajoute dix pistoles à ce qu'on vous a promis, pour vous exciter à bien faire.
+Asseyons-nous, Madame, et écoutons.
+
+-*who_madameamelin
+Écoutons donc, puisque vous le voulez.
+
+-*who_merlin
+Avance, Blaise ; reprenons où nous en étions.
+Tu te plaignais de ce que j'aime Colette ; et c'est, dis-tu, Lisette qui te l'a appris ?
+
+-*who_blaise
+Bon !
+Qu'est-ce que vous voulez que je dise davantage ?
+
+-*who_madameargante
+Vous plaît-il de continuer, Blaise ?
+
+-*who_blaise
+Non ; noute mère m'a défendu de monter sur le thiâtre.
+
+-*who_madameargante
+Et moi, je lui défends de vous en empêcher : je vous sers de mère ici, c'est moi qui suis la vôtre.
+
+-*who_blaise
+Et au par-dessus, on se raille de ma parsonne dans ce peste de jeu-là, noute maîtresse ; Colette y fait semblant d'avoir le coeur tendre pour Monsieur Merlin, Monsieur Merlin de li céder le sien ; et maugré la comédie, tout ça est vrai, noute maîtresse ; car ils font semblant de faire semblant, rien que pour nous en revendre, et ils ont tous deux la malice de s'aimer tout de bon en dépit de Lisette qui n'en tâtera que d'une dent, et en dépit de moi qui sis pourtant retenu pour gendre de mon biau-père.
+
+-*who_madameargante
+Eh !
+Le butor !
+On a bien affaire de vos bêtises.
+Et vous, Merlin, de quoi vous avisez-vous d'aller faire une vérité d'une bouffonnerie ?
+Laissez-lui sa Colette, et mettez-lui l'esprit en repos.
+
+-*who_colette
+Oui, mais je ne veux pas qu'il me laisse, moi ; je veux qu'il me garde.
+
+-*who_madameargante
+Qu'est-ce que cela signifie, petite fille ?
+Retirez-vous, puisque vous n'êtes pas de cette scène-ci ; vous paraîtrez quand il sera temps ; continuez, vous autres.
+
+-*who_merlin
+Allons, Blaise, tu me reproches que j'aime Colette ?
+
+-*who_blaise
+Eh !
+Morguié, est-ce que ça n'est pas vrai ?
+
+-*who_merlin
+Que veux-tu, mon enfant ?
+Elle est si jolie, que je n'ai pu m'en empêcher.
+
+-*who_blaise
+Eh bian !
+Madame Argante, velà-t-il pas qu'il le confesse li-même ?
+
+-*who_madameargante
+Qu'est-ce que cela te fait, dès que ce n'est qu'une comédie ?
+
+-*who_blaise
+Je m'embarrasse, morguié !
+Bian de la farce ; qu'alle aille au guiable, et tout le monde avec !
+
+-*who_merlin
+Encore !
+
+-*who_madameargante
+Quoi !
+On ne parviendra pas à vous faire continuer ?
+
+-*who_madameamelin
+Eh !
+Madame, laissez-là ce pauvre garçon : vous voyez bien que le dialogue n'est pas son fort.
+
+-*who_madameargante
+Son fort ou son faible, Madame, je veux qu'il réponde ce qu'il sait, et comme il pourra.
+
+-*who_colette
+Il braira tant qu'on voudra ; mais c'est là tout.
+
+-*who_blaise
+Eh !
+Pardi !
+Faut bian braire, quand on en a sujet.
+
+-*who_lisette
+À quoi sert tout ce que vous faites là, Madame ?
+Quand on achèverait cette scène-ci, vous n'avez pas l'autre ; car c'est moi qui dois la jouer, et je n'en ferai rien.
+
+-*who_madameargante
+Oh !
+Vous la jouerez ; je vous assure.
+
+-*who_lisette
+Ah !
+Nous verrons si on me fera jouer la comédie malgré moi.
+
+**** *book_ *id_I13 *act_I *date_1748
+
+-*who_lenotaire
+Voilà, Madame, le contrat que vous m'avez demandé ; on y a exactement suivi vos intentions.
+
+-*who_madameamelin
+Faites comme si c'était le vôtre.
+Ne voulez-vous pas bien honorer ce contrat-là de votre signature, Madame ?
+
+-*who_madameargante
+Et pour qui est-il donc, Madame ?
+
+-*who_araminte
+C'est celui d'Éraste et le mien.
+
+-*who_madameargante
+Moi !
+Signer votre contrat, Madame !
+Ah !
+Je n'aurai pas cet honneur-là, et vous aurez, s'il vous plaît, la bonté d'aller vous-même le signer ailleurs.
+Remportez, remportez cela, Monsieur.
+Vous n'y songez pas, Madame ; on n'a point ces procédés-là ; jamais on n'en vit de pareils.
+
+-*who_madameamelin
+Il m'a paru que je ne pouvais marier mon neveu, chez vous, sans vous faire cette honnêteté-là, Madame, et je ne quitterai point que vous n'ayez signé, qui pis est ; car vous signerez.
+
+-*who_madameargante
+Oh !
+Il n'en sera rien ; car je m'en vais.
+
+-*who_madameamelin
+Vous resterez, s'il vous plaît ; le contrat ne saurait se passer de vous.
+Aidez-moi, Madame ; empêchons Madame Argante de sortir.
+
+-*who_araminte
+Tenez ferme, je ne plierai point non plus.
+
+-*who_madameargante
+Où en sommes-nous donc, Mesdames ?
+Ne suis-je pas chez moi ?
+
+-*who_eraste
+Eh !
+À quoi pensez-vous, Madame ?
+Je mourrais moi-même plutôt que de signer.
+
+-*who_madameamelin
+Vous signerez tout à l'heure, et nous signerons tous.
+
+-*who_madameargante
+Apparemment que Madame se donne ici la comédie, au défaut de celle qui lui a manqué.
+
+-*who_madameamelin
+Ah !
+Ah !
+Ah !
+Vous avez raison ; je ne veux rien perdre.
+
+-*who_lenotaire
+Accommodez-vous donc, Mesdames ; car d'autres affaires m'appellent ailleurs.
+Au reste, suivant toute apparence, ce contrat est à présent inutile, et n'est plus conforme à vos intentions, puisque c'est celui qu'on a dressé hier, et qu'il est au nom de Monsieur Éraste et de Mademoiselle Angélique.
+
+-*who_madameamelin
+Est-il vrai ?
+Oh !
+Sur ce pied-là, ce n'est pas la peine de le refaire ; il faut le signer comme il est.
+
+-*who_eraste
+Qu'entends-je ?
+
+-*who_madameargante
+Ah !
+Ah !
+J'ai donc deviné ; vous vous donniez la comédie, et je suis prise pour dupe ; signons donc.
+Vous êtes toutes deux de méchantes personnes.
+
+-*who_eraste
+Ah !
+Je respire.
+
+-*who_angelique
+Qui l'aurait cru ?
+Il n'y a plus qu'à rire.
+
+-*who_araminte
+Vous ne m'aimerez jamais tant que vous m'avez haïe ; mais mes quarante ans me restent sur le coeur ; je n'en ai pourtant que trente-neuf et demi.
+
+-*who_madameargante
+Je vous en aurais donné cent dans ma colère ; et je vous conseille de vous plaindre, après la scène que je viens de vous donner !
+
+-*who_madameamelin
+Et le tout sans préjudice de la pièce de Merlin.
+
+-*who_madameargante
+Oh !
+Je ne vous le disputerai plus, je n'en fais que rire ; je soufflerai volontiers les acteurs, si l'on me fâche encore.
+
+-*who_lisette
+Vous voilà raccommodés ; mais nous...
+
+-*who_merlin
+Ma foi, veux-tu que je te dise ?
+Nous nous régalions nous-mêmes dans ma parade pour jouir de toutes vos tendresses.
+
+-*who_colette
+Blaise, la tienne est de bon acabit ; j'en suis bien contente.
+
+-*who_blaise
+Tout de bon ?
+Baille-moi donc une petite franchise pour ma peine.
+
+-*who_lisette
+Pour moi, je t'aime toujours ; mais tu me le paieras, car je ne t'épouserai de six mois.
+
+-*who_merlin
+Oh !
+Je me fâcherai aussi, moi.
+
+-*who_madameargante
+Va, va, abrège le terme, et le réduis à deux heures de temps.
+Allons terminer.

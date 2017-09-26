@@ -1,0 +1,2118 @@
+
+
+**** *book_ *id_I01 *act_I *date_1784
+
+-*who_madamecaquet
+Tenez, ma voisine, voilà une lettre que vient de me remettre pour vous le facteur de la petite poste.
+
+-*who_susanne
+Bien obligé, Madame Caquet.
+
+-*who_madamecaquet
+Que je ne vous gêne pas.
+
+-*who_susanne
+Elle n'est pas pour moi.
+
+-*who_madamecaquet
+Elle n'est pas pour Monsieur le Doux ?
+
+-*who_susanne
+Oui, Madame.
+
+-*who_madamecaquet
+Eh bien !
+Est-ce qu'entre mari et femme, on doit avoir des secrets l'un pour l'autre ?
+
+-*who_susanne
+Aussi le Doux n'a-t-il rien de caché pour moi.
+
+-*who_madamecaquet
+Et vous n'osez l'ouvrir ?
+
+-*who_susanne
+Mon mari ne décachette pas les miennes.
+
+-*who_madamecaquet
+Il a raison ; mais, s'il n'a rien de caché pour vous, vous pouvez voir ce qu'on lui écrit : peut-être est-ce une affaire pressée, peut-être exige-t-elle une prompte réponse ?
+
+-*who_susanne
+Le Doux est ici; il va bientôt descendre, et je la lui remettrai.
+
+-*who_madamecaquet
+Ah !
+Ma pauvre voisine, ma pauvre voisine !
+
+-*who_susanne
+Que voulez-vous dire, Madame?
+
+-*who_madamecaquet
+Si la plupart des femmes sont trompées, elles le méritent bien.
+
+-*who_susanne
+Cela se peut, Madame.
+
+-*who_madamecaquet
+Comme on endort aisément une jeune femme !
+
+-*who_susanne
+Voulez-vous bien m'expliquer, Madame Caquet, ce que veulent dire tous ces demi-mots ?
+Est-ce à moi qu'ils s'adressent ?
+
+-*who_madamecaquet
+Vous !
+Bon !
+Vous avez un mari trop sage.
+
+-*who_susanne
+On ne peut être, plus heureuse que je le suis.
+
+-*who_madamecaquet
+C'est ce que tout le monde dit : cette pauvre petite Madame le Doux, qu'elle doit être contente !
+Au bout d'un an et plus de mariage, son époux est toujours aussi empressé, aussi amoureux que le premier jour.
+Ce n'est pas de ces mauvais sujets qui n'ont pire maison que la leur ; qui abandonnent leurs femmes, leurs ménages, et vont s'enfermer toute la journée, et souvent une bonne partie de la nuit, dans une estaminette, pour fumer, boire et jouer.
+Le Doux est toujours chez lui, toujours à travailler ; il n'a pas de meilleur ami que sa femme : n'est-il pas vrai, ma voisine ?
+
+-*who_susanne
+Sans doute.
+
+-*who_madamecaquet
+Il voit, à la vérité, dit-on, ce Monsieur Bécarre, ce Musicien toujours altéré, qui ne sort d'un cabaret que pour rentrer dans un autre ; qu'on rencontre le matin gris ; qu'on ramasse le soir ivre mort : mais il ne le voit que pour le faire rougir de ce goût, pour l'en détourner ; et s'il se permet quelquefois de boire un coup avec lui, c'est qu'il sait qu'on ne corrige un ivrogne, qu'en feignant de partager son défaut : n'est-il pas vrai, ma voisine ?
+
+-*who_susanne
+Monsieur Bécarre est son ami depuis longtemps : il peut avoir ce malheureux goût que vous lui reprochez ; mais il a le cœur excellent.
+
+-*who_madamecaquet
+Il est bien certain qu'il ne ressemble en rien à ce vilain Monsieur du Ciseau, qui est bien le plus méchant homme, l'être le plus envieux qui soit dans la nature.
+Monsieur le Doux le voit tous les jours, ne le quitte pas ; mais c'est certainement pour adoucir son caractère ; et puis il vaut mieux vivre en paix avec les méchants, que d'être leur ennemi : n'est-il pas vrai, ma voisine ?
+
+-*who_susanne
+Monsieur du Ciseau est lié d'affaires avec mon mari.
+
+-*who_madamecaquet
+C'est encore une raison ; et, comme disent les hommes, les bonnes affaires ne se font que le verre à la main.
+Voilà pourquoi, sans doute, Monsieur du Ciseau et votre mari s'enFerment ensemble des jours entiers dans un petit jardin du faubourg : on doit y traiter bien des affaires, ma voisine : car il s'y boit rudement de vin ; et ces Messieurs y travaillent tant, qu'ils ont toujours en sortant la tête cassée, et ne savent pas même où ils mettent leurs pieds.
+C'est cependant bien désagréable pour une femme jeune, douce, honnête, jolie, de voir rentrer son mari dans un pareil état : n'est-il pas vrai, ma voisine ?
+
+-*who_susanne
+En voilà assez, Madame.
+Je vois bien quelle est votre intention ; mais voulez-vous qu'à mon tour je vous ouvre mon cœur ?
+
+-*who_madamecaquet
+Très volontiers.
+J'espère que vous pensez bien que tout ce que je vous dis, m'est dicté par le tendre intérêt que vous inspirez à tout le monde.
+
+-*who_susanne
+J'en suis persuadée, Madame ; je crois même qu'il n'y a point de malignité dans votre conduite ; que si vous cherchez à m'éclairer sur celle de mon mari, c'est : uniquement par bonté d'âme, et non, comme on pourrait le penser, pour porter le trouble et la discorde dans mon ménage.
+
+-*who_madamecaquet
+Vous me rendez justice ; vous lisez dans le fond de mon cœur.
+
+-*who_susanne
+Eh bien !
+Madame, supposons pour un instant que mon époux ait tous les défauts que vous lui prêtez : si je les connais, votre confidence est inutile ; et si je les ignore, elle est cruelle, puisqu'elle détruit une erreur qui me rend heureuse.
+
+-*who_madamecaquet
+Écoutez-donc, Madame le Doux : ce que je vous en dis, n'est que par amitié pour vous.
+Vous êtes jeune encore ; vous ne savez pas combien il est intéressant qu'une femme ait l'œil à son ménage, et veille de près la conduite de son mari : il est de certains goûts qui, arrêtés dans leurs commencements, ne sont rien ; mais qui, lorsque l'on les laisse croître et s'enraciner, deviennent des habitudes cruelles, se changent bientôt en vices, et finissent par conduire à tout.
+Je puis vous en parler par expérience ; je sais tout ce que j'ai eu à souffrir, pour avoir été, comme vous, trop bonne, trop douce, trop confiante : j'avais un mari brutal, ivrogne, débauché, dissipateur ; eh bien !
+Madame, je l'ai tant querellé, tant battu, qu'il a fini par prendre son parti : il est allé, je crois, aux Antipodes ; et depuis vingt ans, Dieu merci !
+Je n'en ai pas seulement entendu parler ; mais vous n'êtes point dans ce cas-là.
+
+-*who_susanne
+Heureusement, Madame.
+Le Doux fait mon bonheur, et sa conduite est telle qu'elle doit être.
+
+-*who_madamecaquet
+Je vous crois, ma voisine.
+Monsieur le Doux est sage, rangé, toujours amoureux : je vous en fais mon compliment.
+Mais si, par hasard, (car tout peut arriver), il devenait jamais ivrogne ; s'il négligeait son ouvrage pour ses plaisirs ; s'il abandonnait sa femme pour ses coteries, souvenez-vous que je vous ai prévenue de bonne heure d'y mettre ordre ; et si votre maison se trouve ruinée, dites bien : c'est ma faute, et si j'eusse cru Madame Caquet, je ne me trouverais pas dans l'embarras où je suis : entendez-vous, Madame ?
+
+-*who_susanne
+Oui, Madame.
+
+-*who_madamecaquet
+De tous les goûts, celui du vin est le plus bas c'est aussi le plus dangereux.
+Il le par1ît peu dans les commencements ; mais les suites sont terribles, sont affreuses.
+Le vin éteint la raison et le talent, abrutit l'homme, et le mène de l'inconduite aux bassesses, des bassesses au vice, du vice au crime.
+Adieu, ma chère voisine ; je suis charmée de vous savoir heureuse.
+
+**** *book_ *id_I02 *act_I *date_1784
+
+-*who_susanne
+Hélas !
+Ses funestes présages ne sont peut-être que trop vrais.
+Le calme est sur mon front, quand la douleur est dans mon cœur.
+Mais, est-ce à moi à déshonorer mon mari ?
+Eh !
+Qui donc prendra soin de sa réputation, si ce n'est son épouse ?
+Que sont devenus ces premiers moments, ces moments si doux de notre union !
+Mon époux n'était alors occupé que de moi, il ne me dérobait que les moments qu'il donnait à son ouvrage ; il le néglige aujourd'hui, pour se livrer tout entier aux plaisirs de la société.
+Bécarre le perd, du Ciseau le trahit.
+Peut-être son cœur se sèche, son génie s'éteint; il se déplaît dans son atelier ; il se déplaît auprès de moi.
+Pourquoi donc sa maison lui devient-elle désagréable ?
+SerAit-ce ma faute ?
+Cela se peut.
+Eh bien !
+Redoublons encore de complaisance et de douceur, et rendons, s'il est possible, son âme à la gloire, et son cœur à l'amour.
+
+**** *book_ *id_I03 *act_I *date_1784
+
+-*who_ledoux
+Bonjour, Susanne : déjà toute à l'ouvrage !
+
+-*who_susanne
+Oui, mon ami, il saut bien que je répare un peu tes fautes ; quand tu négliges ton travail, il faut que je force le mien, pour maintenir l'équilibre.
+
+-*who_ledoux
+Tu me grondes, Susanne ?
+
+-*who_susanne
+Non, mon ami, non.
+
+-*who_ledoux
+Pourquoi t'en défendre ?
+Tu n'as pas tort.
+Je te parais un paresseux ; mais crois qu'il me faut des raisons puissantes pour te quitter aussi souvent que je le fais.
+
+-*who_susanne
+Je croirai tout ce que tu voudras.
+Est-il possible, cependant, que tu puisses traiter des affaires bien importantes, avec ce pauvre Bécarre ?
+
+-*who_ledoux
+Ne badines pas ; quand il a la tête froide, il est d'un excellent conseil.
+
+-*who_susanne
+Le malheur est que sa pauvre tête est bien souvent échauffée.
+
+-*who_ledoux
+Il est vrai: aussi n'est—ce pas sur lui que je compte.
+
+-*who_susanne
+Sur qui donc?
+
+-*who_ledoux
+Sur Monsieur du Ciseau.
+
+-*who_susanne
+Sur Monsieur du Ciseau !
+
+-*who_ledoux
+Tu ne l'aimes pas ?
+
+-*who_susanne
+Je ne hais aucun des amis de mon mari.
+Mais mérite-t-il ce titre ?
+
+-*who_ledoux
+J'en suis sûr, il me le prouve.
+Il est chargé dans ce moment d'une entreprise superbe qu'il veut bien partager avec moi, et qui peut me donner toute l'aisance que je désire te procurer.
+
+-*who_susanne
+Ne suis-je pas heureuse, ne suis-je pas contente, le Doux ?
+Est-ce donc la fortune qui donne le bonheur ?
+Je n'ai jamais formé de vœu que pour ta gloire.
+
+-*who_ledoux
+Eh bien !
+Sois contente ; en travaillant à ma fortune, j'assure en même temps ma réputation.
+
+-*who_susanne
+Je vois bien que tu ne manqueras jamais de bonnes raisons, et tu sais que tu n'en as pas besoin auprès de moi ; mais tout le monde ne me ressemble pas.
+On crie, on murmure, on s'impatiente.
+Tiens, voilà une lettre que je viens de recevoir.
+
+-*who_ledoux
+De quelle part ?
+
+-*who_susanne
+Je l'ignore.
+
+-*who_ledoux
+Lassé de vos retards continuels, je vous prie ; Monsieur, de ne plus toucher à la Statue que je vous avais commandé: je la confierai à des mains moins négligentes ; et demain, de grand matin, je viendrai la faire enlever de chez vous.
+Le Comte D'ARTIPHILE.
+
+-*who_susanne
+Voilà ce que je craignais depuis longtemps.
+
+-*who_ledoux
+C'est ma faute ; j'ai trop abusé de sa patience, j'ai trop abusé de ses bontés.
+
+-*who_susanne
+Tu l'as cruellement négligé.
+
+-*who_ledoux
+J'ai des torts sans nombre vis-à-vis de lui.
+
+-*who_susanne
+Il est vrai qu'il nous a comblé de bienfaits.
+
+-*who_ledoux
+Et je n'oublierai jamais le plus grand de tous !
+
+-*who_susanne
+Lequel donc ?
+
+-*who_ledoux
+C'est à lui que je dois la main de ma Susanne.
+
+-*who_susanne
+Mon ami !
+
+-*who_ledoux
+Sa menace m'afflige et me désespère.
+J'ose me flatter que ce morceau n'est pas sans mérite ; j'attendais avec impatience l'instant précieux, où le ciseau, le burin et le pinceau, réunis dans le même musée, présenteront à l'œil étonné du Connaisseur, les chefs-d'œuvres des arts et les fruits du génie ; et ce morceau, fait pour m'illustrer, n'y sera pas.
+
+-*who_susanne
+Il y sera, le Doux ; il y sera.
+Monsieur d'Artiphile menace ; mais tu connais la bonté de son cœur; tu sais qu'il t'aime.
+S'il te surprend travaillant à sa statue, jamais il n'aura la fermeté cruelle de t'enlever un morceau qui doit faire la réputation d'un artiste qu'il a ouvertement protégé.
+
+-*who_ledoux
+Tu as raison, Susanne.
+Eh !
+Quel homme serait assez hardi pour oser porter la main sur ma Minerve.
+Je la briserais plutôt.
+
+-*who_susanne
+Fais mieux ; achève-la.
+
+-*who_ledoux
+Oui, je l'achèverai, et l'envie même se taira devant elle.
+
+-*who_susanne
+Bien, mon ami, bien.
+Voilà cette noble fierté qu'on pardonne au talent.
+
+**** *book_ *id_I04 *act_I *date_1784
+
+-*who_labbe
+Bonjour, mon cher Monsieur le Doux, comment vous portez-vous ?
+
+-*who_ledoux
+Monsieur...
+
+-*who_labbe
+Vous me prenez pour revenant, n'est-ce pas ?
+Il y a un siècle que vous ne m'ayez vu ; mais c'est qu'on m'a enlevé.
+Me voilà enfin rendu à ce cher Paris.
+
+-*who_susanne
+Voulez-vous...
+
+-*who_labbe
+Ah !
+Je ne vous avais pas vu, Madame !
+Il est inutile de vous demander des nouvelles, de votre santé ; elle perce à travers vos charmes, et le petit poupon !
+Toujours l'amour....
+
+-*who_susanne
+Vous êtes trop....
+
+-*who_labbe
+En vérité, je ne puis me lasser d'admirer la prudence de ce cher époux.
+Voilà ce qui s'appelle marier l'utile et l'agréable !
+Trouver dans une femme charmante un modèle parfait, et toujours prêt...
+C'est très bien l'entendre, Monsieur le Doux, et je ne m'étonne plus si tous vos ouvrages sont marqués au coin de la perfection.
+
+-*who_ledoux
+Vous avez bien...
+
+-*who_labbe
+À propos, et mon buste ?
+Où en est-il ?
+
+-*who_ledoux
+Le voilà.
+
+-*who_susanne
+Comment le trouvez-vous ?...
+
+-*who_labbe
+J'en suis assez content...
+Je voudrais cependant dans le tout un peu plus de moelleux.
+
+-*who_ledoux
+Ce serait affaiblir le caractère.
+
+-*who_labbe
+Mais je n'en veux point de caractère ; il ne me faut que des grâces.
+Je vous l'avais tant recommandé.
+
+-*who_ledoux
+Je croyais...
+
+-*who_labbe
+Je voudrois aussi plus de passions dans les yeux ; plus de volupté dans la bouche ; la tête plus penchée.
+Tenez, voyez....
+Je n'ai point trouvé de cruelles.
+Et je n'en trouverai jamais,
+Et je n'en trouverai jamais.
+Saisissez bien mon genre.
+
+-*who_ledoux
+Je les tiens à présent, Monsieur, l'Abbé ; et si vous voulez seulement m'accorder une heure de séance...
+
+-*who_labbe
+Très volontiers ; mais pas pour aujourd'hui.
+
+-*who_ledoux
+Quand vous voudrez.
+
+-*who_labbe
+Eh bien! je tâcherai de vous sacrifier un jour.
+
+-*who_ledoux
+Je serai à vos ordres tous les matins.
+
+-*who_labbe
+à merveille....
+J'ai aussi une idée à vous donner pour la base...
+Elle est charmante.
+
+-*who_ledoux
+Je n'en doute pas.
+
+-*who_labbe
+De deux guirlandes de myrtes et de roses s'entrelaçant, vous formerez une couronne.
+Vous m'entendez bien?
+
+-*who_ledoux
+Je vous entends.
+
+-*who_labbe
+Dans ces guirlandes, vous jetterez, comme par hasard, quelques feuilles de laurier, qui auront l'air de vouloir percer à travers les roses...
+
+-*who_ledoux
+Je vous comprends.
+
+-*who_labbe
+Et, au milieu de la couronne, vous graverez ce quatrain que je me suis amusé à griffonner ce matin, et qui rend très bien mon genre.
+
+-*who_susanne
+Voulez-vous avoir la complaisance de nous le lire ?
+
+-*who_labbe
+Très volontiers.
+C'est un rien ; mais vous en serez contente.
+Je n'irai pas au Temple de Mémoire,
+Le front ceint du laurier de l'Immortalité;
+J'ai connu le bonheur, l'amour, la volupté.
+Un instant de plaisir vaut un siècle de gloire.
+Eh bien ?
+
+-*who_ledoux
+Délicieux.
+
+-*who_susanne
+Je savais bien que Monsieur l'Abbé Rémisa pinçait délicieusement une guitare, que la Romance lui devait ses plus doux charmes, mais j'ignorais qu'il joignît à tant de talents, l'art des vers.
+
+-*who_labbe
+Eh !
+Qui n'en fait pas aujourd'hui ?
+Il est vrai que si j'avais voulu m'y livrer davantage, m'en occuper un peu plus sérieusement, j'aurais pu me placer, je crois, entre Horace et Chaulieu ; mais à quoi m'eût servi, pour le bonheur, une étincelle de réputation?
+Trop de mérite eût pesé sur la société ; et pour rester à sa portée, j'ai préféré n'être qu'aimable.
+
+-*who_susanne
+Et vous avez parfaitement réussi.
+
+-*who_labbe
+On me le persuade...
+Oh !
+Oh !
+Oh !
+Mais voilà qui est charmant, divin !
+Quelle vérité !
+Voilà la majesté de Junon, la fierté de Minerve, et le sourire de Vénus.
+C'est elle-même : quelle fraîcheur !
+Quel vif dans les chairs !
+Ce sont les formes !
+C'est la nature !
+Mais pourquoi m'en étonner, quand la Déesse elle-même se trouve l'artiste et le modèle ?
+
+-*who_susanne
+Galanterie à part, en êtes-vous content ?
+
+-*who_labbe
+Enchanté!...
+Ces temps de barbarie sont donc entièrement disparus, où nos idiots de pères prétendaient qu'une femme en savait assez, quand elle pouvait distinguer un pourpoint d'avec un haut-de-chausses, recoudre un rabat, et plisser leurs fraises antiques.
+Aujourd'hui nous voyons tour-à-tour, dans la main des Grâces,
+L'aiguille et le compas, la plume et le pinceau.
+
+-*who_susanne
+Quelle est cette charmante personne ?
+
+-*who_labbe
+Eh !
+C'est Mademoiselle des Brisées !
+
+**** *book_ *id_I05 *act_I *date_1784
+
+-*who_mademoiselledesbrisees
+C'est ce cher Abbé !
+
+-*who_labbe
+Qui m'eût dit que ces lieux, par les Arts habités, présenteraient Vénus à mes yeux enchantés ?
+
+-*who_mademoiselledesbrisees
+Toujours charmant !
+Vous êtes un monstre...
+
+-*who_labbe
+Pourquoi ?
+
+-*who_mademoiselledesbrisees
+Comment !
+Il y a trois mois qu'on ne vous a vu ?
+
+-*who_labbe
+J'ai été enlevé comme un ballon.
+
+-*who_mademoiselledesbrisees
+Nos Coulisses, pendant votre absence, out été d'un triste, d'une décence ; c'est à périr d'ennui.
+
+-*who_labbe
+Je compte bien m'y montrer incessamment...
+Mais, puis-je vous demander ce qui vous amène ici ?
+
+-*who_mademoiselledesbrisees
+Un projet que très certainement vous approuverez.
+
+-*who_labbe
+Vous n'en doutez pas.
+
+-*who_mademoiselledesbrisees
+Monsieur, est Monsieur le Doux ?
+
+-*who_ledoux
+À vous obéir, Madame.
+
+-*who_mademoiselledesbrisees
+On m'a beaucoup vanté vos talents, votre honnêteté, vos mœurs.
+
+-*who_labbe
+Voilà sa caution.
+
+-*who_mademoiselledesbrisees
+C'est un modèle.
+
+-*who_ledoux
+C'est ma femme.
+
+-*who_mademoiselledesbrisees
+Ah !
+Ah !...
+Je viens, Monsieur, implorer le secours de votre art.
+
+-*who_ledoux
+Jamais il ne m'aura été plus précieux, jamais il ne m'aura donné de plus doux moments.
+
+-*who_mademoiselledesbrisees
+Il sait vivre.
+
+-*who_labbe
+Vous en serez contente.
+
+-*who_mademoiselledesbrisees
+C'est dommage que ça soit marié.
+
+-*who_ledoux
+Monsieur l'Abbé ?
+
+-*who_labbe
+Eh bien ?
+
+-*who_ledoux
+Quelle est cette belle nymphe ?
+
+-*who_labbe
+C'est Mademoiselle des Brisées, la nouvelle Danseuse de l'Opéra.
+Tout le monde connoît ça.
+Vous allez nous faire un cadeau ?
+
+-*who_mademoiselledesbrisees
+Oui...
+Vous savez combien tous les jours je suis excédée des demandes indiscrètes de mille adorateurs.
+Vous connaissez tout le liane de mon caractère; je voudrais n'en mécontenter aucun, et je n'ai trouvé qu'un seul moyen de satisfaite leurs désirs.
+
+-*who_labbe
+Et ce moyen, c'est de donner à chacun une copie de l'original ?
+
+-*who_mademoiselledesbrisees
+Justement : on m'avait proposé la gravure ; mais elle devient bien commune.
+
+-*who_labbe
+Vous avez raison.
+
+-*who_mademoiselledesbrisees
+Et puis tapisser tous les coins de rues à côté d'un poète, ou de mon Maître de musique ; c'est une idée qui me blesse l'imagination.
+
+-*who_labbe
+Ce n'est pas là votre place.
+
+-*who_mademoiselledesbrisees
+Toute réflexion faite, je préfère le ciseau au burin.
+
+-*who_labbe
+Très bien vu.
+Le marbre seul était digne de nous rendre ces traits divins.
+
+-*who_mademoiselledesbrisees
+Je viens, en conséquence, prier Monsieur le Doux de vouloir bien me faire...
+
+-*who_ledoux
+En buste, Madame ?
+
+-*who_mademoiselledesbrisees
+Non, Monsieur ; en pied.
+
+-*who_labbe
+Charmante !
+
+-*who_mademoiselledesbrisees
+Ah !
+Çà, l'Abbé, vous êtes pétri de goût.
+Quel costume choisirai-je ?
+
+-*who_labbe
+Eh !
+Quel autre convient à la Déesse de la Danse, que celui de Terpsicore ?
+
+-*who_mademoiselledesbrisees
+Oh !
+Non, l'Abbé, non; il n'y a pas de jour où je ne reçoive à ma toilette des couplets ou des vers innocents, et ce nom m'y est : si souvent prodigué, qu'il m'en donne des vapeurs.
+
+-*who_labbe
+La rose dans nos parterres reçoit tour-à-tour les caresses du zéphir et le baiser du papillon ; comme elle, vous voyez les cœurs voler autour de vous.
+Soyez Flore à nos yeux.
+
+-*who_mademoiselledesbrisees
+Ne trouvez-vous pas un peu de fadeur dans cette idée ?
+
+-*who_labbe
+Eh bien !
+Voulez-vous rendre cette gaîté si mutine, si libertine, qui vous rend divine à la fin d'un souper ?
+Prenez le costume d'un Bacchante.
+
+-*who_mademoiselledesbrisees
+D'une Bacchante ?
+L'Abbé....
+
+-*who_labbe
+Entendons-nous...
+Non telle qu'on la peint outragée, furieuse, déchirant ce langoureux Orphée ; mais vive, folâtre, s'échappant aux caresses du vieux Silene, pour se précipiter dans les bras du jeune satyre, qui l'emporte en riant dans le plus épais du bois.
+
+-*who_mademoiselledesbrisees
+Cette image est charmante; mais c'est que je tiens à une idée singulière.
+
+-*who_labbe
+Quelle est-elle ?
+
+-*who_mademoiselledesbrisees
+Vous allez peut-être la trouver ridicule ?
+
+-*who_labbe
+Voyons.
+
+-*who_mademoiselledesbrisees
+Je préférais à tout autre habit, celui de Vestale.
+
+-*who_labbe
+Parlez-vous tout de bon ?
+
+-*who_mademoiselledesbrisees
+Oui...
+
+-*who_labbe
+C'est d'une folie qui ne rime à rien.
+La coiffure pourra bien vous aller ; mais cette draperie lourde et masse nous déroberait trop de charmes, si généralement admirés.
+Personne ne vous reconnaîtrait, à moins que vous ne vous fissiez faire qu'en buste.
+
+-*who_mademoiselledesbrisees
+Voleur..
+
+-*who_labbe
+Voulez-vous nous faire un cadeau bien précieux ; et nous forcer à une reconnaissance générale ?
+
+-*who_mademoiselledesbrisees
+Eh bien ?
+
+-*who_labbe
+Ne nous cachez aucun de vos appas.
+Vénus, sortant du sein des eaux, n'avait d'autre parure que celle de ses charmes.
+
+-*who_mademoiselledesbrisees
+Qu'en pensez-vous, Monsieur le Doux ?
+
+-*who_ledoux
+Personne, mieux que vous, ne peut en fournir le modèle.
+
+-*who_mademoiselledesbrisees
+Mais, au moins, de la modestie.
+
+-*who_labbe
+Que l'imagination devine ce que le désir regrette.
+
+-*who_mademoiselledesbrisees
+Quand voulez-vous commencer ?
+
+-*who_ledoux
+Je suis tout à vos ordres.
+
+-*who_mademoiselledesbrisees
+Eh bien !
+Demain, si vous voulez, rendez-vous à ma petite maison de la Villette.
+L'Abbé vous amènera.
+
+-*who_labbe
+Très volontiers.
+
+-*who_mademoiselledesbrisees
+Que devenez-vous aujourd'hui, l'Abbé ?
+
+-*who_labbe
+J'ai promis à la petite Julie ; la grosse Présidente m'a fait promettre, et je ne sais à laquelle donner la préférence.
+
+-*who_mademoiselledesbrisees
+Eh bien !
+Soyez un homme galant : manquez à toutes deux.
+
+-*who_labbe
+Mais...
+
+-*who_mademoiselledesbrisees
+Mais, il le faut.
+Je vais dîner chez mon vieux Commandeur.
+
+-*who_labbe
+Il est ennuyeux.
+
+-*who_mademoiselledesbrisees
+Oui ; mais son Cuisinier est divin, et sa cave est délicieuse.
+
+-*who_labbe
+Je me vais faire une querelle.
+
+-*who_mademoiselledesbrisees
+Ne peut-on vous dédommager ?
+À demain, Monsieur le Doux.
+
+-*who_ledoux
+Oui, Madame.
+
+-*who_labbe
+Je viendrai vous prendre.
+
+-*who_ledoux
+Je vous attendrai ; si même vous pouviez venir de bonne heure, je pourrais vous donner une dernière séance....
+
+-*who_labbe
+Je ferai mon possible...
+Serviteur Madame le Doux.
+
+**** *book_ *id_I06 *act_I *date_1784
+
+-*who_ledoux
+Voilà, ma foi, une excellente affaire !
+
+-*who_susanne
+Comment cela ?
+
+-*who_ledoux
+Comment !
+Mais songe donc que si chaque amant favorisé me commande seulement un plâtre, jamais moule ne m'aura tant rapporté.
+
+-*who_susanne
+D'autant plus que Monsieur l'Abbé à fort bien choisi le costume.
+
+-*who_ledoux
+Il est vrai.
+
+-*who_susanne
+À parler franchement, j'en aimerais tout autant un autre.
+
+-*who_ledoux
+Comment !
+Susanne, serais-tu donc jalouse?
+
+-*who_susanne
+Je t'aime trop pour ne pas l'être un peu ; mais je t'estime assez pour ne le paraître jamais.
+
+-*who_ledoux
+Tu serais bien injuste, si tu pouvais douter du cœur de ton mari.
+
+-*who_susanne
+Je n'en doute pas non plus.
+N'as-tu pas pris jour pour demain avec Mademoiselle des Brisées ?
+
+-*who_ledoux
+Oui.
+
+-*who_susanne
+Tu aurais bien dû, avant de rien entreprendre de nouveau, achever ta Minerve.
+
+-*who_ledoux
+L'une ne me fera pas négliger l'autre.
+Je ferai marcher de front Vénus et la Sagesse.
+
+-*who_susanne
+Ce n'est pas chose aisée.
+
+-*who_ledoux
+Plaisanterie à part, je ne pouvais pas la remettre : ces Demoiselles sont toujours fort pressées de jouir ; ce sont des oiseaux de passage qu'il faut prendre à la volée ; et puis cet ouvrage doit nécessairement me faire connaître et m'en procurer d'autres.
+
+-*who_susanne
+Je n'en doute pas ; je sais même qu'en général c'est assez bien payé.
+Mais songe cependant que de tels objets ne doivent pas te faire négliger ta réputation ; il est bon de travailler un peu pour le profit ; mais ton principal but doit être la gloire.
+
+-*who_ledoux
+Eh !
+Ma pauvre Susanne, le siècle des talents est passé.
+Aujourd'hui, le génie même est trop heureux de trouver un boudoir, ou un jardin anglais à décorer.
+Un Artiste qui voudrait marcher à l'immortalité, courrait risque de mourir de faim sur la route, en attendant un amateur.
+
+-*who_susanne
+En est-il donc besoin, quand sa patrie elle-même confie au ciseau de ses plus célèbres Sculpteurs, les traits des grands hommes qui ont fait sa gloire ?
+Ah !
+Mon ami, si tu pouvais être un jour choisi pour un ouvrage aussi précieux !
+Songe que tes premiers succès t'ont déjà sait désigner par le Public.
+Songe que le Protecteur des Arts attend, sans doute, ton nouvel ouvrage, pour confirmer un choix si glorieux.
+Ô mon ami, qu'un époux illustre devient cher à son épouse !
+Combien alors elle s'enorgueillit de porter un si beau nom !
+
+-*who_ledoux
+Combien la voix d'une femme adorée est puissante !
+Tu rallumes dans mon sein toute la flamme, la voix du génie.
+Oui, ton époux fera bientôt ta gloire et ton bonheur.
+Oui, je sens que mon nom sera placé près de ceux des plus célèbres artistes.
+
+-*who_susanne
+Promets-moi donc de travailler un peu plus assidûment.
+
+-*who_ledoux
+Oui, je te le promets.
+Je ne veux plus sortir que ma Minerve ne soit achevée.
+
+-*who_susanne
+Si Bécarre et du Ciseau viennent te chercher ?
+
+-*who_ledoux
+Je les refuserai.
+
+-*who_susanne
+En auras-tu le courage ?
+
+-*who_ledoux
+Est-il donc si difficile de rester près de toi ?
+Ma femme, mon enfant, mon ouvrage, n'en voilà-t-il donc pas assez pour être heureux et s'occuper ?
+
+-*who_susanne
+Certainement.
+
+-*who_ledoux
+Tu es trop bonne aussi, Susanne, tu es trop douce ; tu ne grondes jamais.
+
+-*who_susanne
+Eh !
+Peut-on gronder ce qu'on aime ?
+
+-*who_ledoux
+Il faut être un peu méchante.
+Je suis faible ; tu le sais; je me laisse aller facilement, c'est à toi à me retenir.
+
+-*who_susanne
+Tu ne te fâcheras pas ?
+
+-*who_ledoux
+Non, certainement.
+
+-*who_susanne
+Nous allons bientôt voir....
+Voilà Bécarre ; il en tient déjà.
+
+**** *book_ *id_I07 *act_I *date_1784
+
+-*who_becarre
+Bonjour, mon ami : votre très humble serviteur ; Madame le Doux.
+Toujours charmante !
+
+-*who_susanne
+Toujours de bonne humeur !
+
+-*who_becarre
+Je n'engendre pas de mélancolie.
+
+-*who_susanne
+C'est fort bien fait.
+
+-*who_becarre
+Je viens de chez du Ciseau ; il nous attend.
+
+-*who_ledoux
+Pourquoi faire ?
+
+-*who_becarre
+Pour déjeuner.
+
+-*who_ledoux
+Je ne puis y aller.
+Je suis pressé d'ouvrage ; et j'ai promis à ma femme de ne pas sortir aujourd'hui.
+
+-*who_becarre
+Tu serais rentré sur le champ.
+
+-*who_ledoux
+Un déjeuner va souvent plus loin qu'on ne pense.
+
+-*who_becarre
+Oh !
+Non, nous avons ce matin fait vœu de sobriété.
+
+-*who_susanne
+Vous avez fort bien commencé à tenir votre vœu.
+
+-*who_becarre
+Je me sentais l'estomac un peu faible, et j'ai bu un petit coup.
+
+-*who_susanne
+Qui a monté à la tête.
+
+-*who_becarre
+Ça se dissipera.
+Un clou chasse l'autre ; pas vrai, Le Doux ?
+
+-*who_ledoux
+Tu as raison.
+
+-*who_becarre
+Du Ciseau a fait cuire ce jambon qu'il a reçu de Bayonne.
+Il a une odeur...
+Ah !...
+Nous devons l'entamer ; et tu connais son petit vin blanc...
+Hein !...
+Ça ne te tente pas?
+
+-*who_susanne
+Eh !
+Mon cher Monsieur Bécarre, vous êtes l'ami de le Doux, n'est-il pas vrai ?
+
+-*who_becarre
+Pour la vie, Madame.
+
+-*who_susanne
+Eh bien !
+Soyez assez raisonnable pour le laisser travailler tranquillement pendant quelques jours.
+Il est pour lui de la dernière conséquence d'achever son ouvrage ; sa fortune, sa réputation en dépendent.
+Ne venez donc pas le détourner.
+Donnez-lui cette preuve d'amitié : engagez-le vous même à travailler.
+
+-*who_becarre
+Vous avez raison, Madame le Doux ; vous parlez comme un astre, et je vais vous prouver combien je suis bon ami.
+Du Ciseau nous attend pour déjeûner ; il a un jambon excellent, du vin...
+Ah!...
+Eh bien !
+Du Ciseau ; le jambon, le vin, le déjeuner, je vous sacrifie tout, et je vais rester avec Le Doux : c'est-il beau de ma part ?
+
+-*who_susanne
+Je vous en aurai une obligation infinie.
+
+-*who_becarre
+C'est à une condition, cependant.
+
+-*who_susanne
+Quelle est-elle ?
+
+-*who_becarre
+C'est qu'il y aura un petit coup à boire, et une croûte à casser ; car je suis presqu'à jeun.
+
+-*who_susanne
+C'est trop juste.
+Tenez, voilà une bouteille de vin, qui vaudra bien celui de Monsieur du Ciseau.
+Voulez-vous quelque chose encore ?
+
+-*who_becarre
+Une croûte, rien davantage.
+
+-*who_susanne
+De la sagesse, surtout ?
+
+-*who_becarre
+N'ayez pas peur.
+
+-*who_ledoux
+Tu sors ?
+
+-*who_susanne
+Oui, mon ami.
+Je vais porter ce tableau, et je reviens tout de suite ; je te retrouverai ?
+
+-*who_ledoux
+Certainement.
+
+-*who_becarre
+C'est moi qui vous en réponds.
+
+-*who_susanne
+Bonne caution !
+
+-*who_becarre
+Vous verrez, vous verrez.
+
+-*who_ledoux
+Adieu, Susanne.
+
+-*who_susanne
+Adieu, mon bon ami.
+Sans adieu ; Monsieur Bécarre.
+Vous dînerez avec nous ?
+
+-*who_becarre
+Très volontiers.
+J'aime à rester où je suis.
+
+**** *book_ *id_I08 *act_I *date_1784
+
+-*who_becarre
+Si j'avais, chez moi, un petit bec comme cela, je n'irais pas si souvent dehors siffler la linotte ; tu es trop heureux !
+
+-*who_ledoux
+Jamais femme n'eut un caractère plus honnête et plus doux.
+
+-*who_becarre
+Buvons à sa santé.
+
+-*who_ledoux
+Bien volontiers.
+
+-*who_becarre
+J'ai vingt fois envié ton sort.
+
+-*who_ledoux
+Je le crois.
+
+-*who_becarre
+Je donnerais le dernier tonneau de ma cave, pour trouver une femme comme ta Susanne.
+
+-*who_ledoux
+Ce n'est pas chose aisée !
+
+-*who_becarre
+Je le sais bien.
+J'aime ta femme, moi ; mais je suis honnête homme, et puis elle est sage.
+
+-*who_ledoux
+Je le sais.
+
+-*who_becarre
+Encore un coup à sa santé.
+
+-*who_ledoux
+Tope.
+
+-*who_becarre
+Sais-tu bien une chose, Le Doux ?
+
+-*who_ledoux
+Quoi ?
+
+-*who_becarre
+C'est le désœuvrement, la solitude qui rendent la taverne et le jeu nécessaires à un garçon ; il n'est que d'être marié pour le ranger.
+
+-*who_ledoux
+Certainement.
+
+-*who_becarre
+Un garçon ne tient à rien.
+
+-*who_ledoux
+Il est vrai.
+
+-*who_becarre
+Pour bien travailler, il faut aimer son chez soi ; et pour l'aimer, il faut y trouver quelqu'un qui nous le rende agréable.
+
+-*who_ledoux
+Une Susanne.
+
+-*who_becarre
+C'est ça.
+À ta santé.
+
+-*who_ledoux
+À la tienne.
+
+-*who_becarre
+On peut se livrer un instant à ses plaisirs ; mais il faut aussi songer à sa fortune, à sa réputation, et ce n'est pas au cabaret qu'elles se sont.
+
+-*who_ledoux
+Non, certainement.
+Je me suis aperçu mille fois que nous commencions par y parler d'affaires, et que nous finissions par y perdre la raison.
+
+-*who_becarre
+On n'a pas dessein de se griser ; mais on boit un coup, on en boit deux.
+L'exemple entraîne, la vanité s'en mêle, et l'on finit par ne plus savoir ni ce qu'on dit, ni ce qu'on fait.
+
+-*who_ledoux
+Le pire encore, c'est qu'on y joue ; on perd son argent ; on se dispute : on rentre chez soi malade, de mauvaise humeur.
+Le lendemain, la tête est lourde, la main tremblante, et l'on ne fait rien qui vaille.
+
+-*who_becarre
+C'est à la lettre...
+Buvons un coup.
+
+-*who_ledoux
+Il n'y a que ce diable de du Ciseau qui ne perd jamais la tête ; il boit mieux que nous.
+
+-*who_becarre
+Tais-toi donc : dis qu'il n'est pas franc comme nous ; c'est un sournois, vois-tu, dont je me défie, et qui n'est pas véritablement ami.
+
+-*who_ledoux
+Pourquoi mal penser de lui ?
+
+-*who_becarre
+J'ai des raisons.
+
+-*who_ledoux
+Il en faut de fortes pour soupçonner un ami.
+
+-*who_becarre
+Elles sont convaincantes.
+
+-*who_ledoux
+Puis-je les savoir ?
+
+-*who_becarre
+Il trempe toujours son vin, et fait d'un verre deux coups.
+
+-*who_ledoux
+Effectivement, je crois m'en être aperçu plus d'une fois.
+
+-*who_becarre
+Tiens, mon ami, il faut nous ranger.
+
+-*who_ledoux
+Je le veux bien.
+
+-*who_becarre
+Travailler.
+
+-*who_ledoux
+Oui.
+
+-*who_becarre
+Ne boire que de l'eau.
+
+-*who_ledoux
+On s'en porte mieux.
+
+-*who_becarre
+On fait de bien meilleure besogne.
+
+-*who_ledoux
+Ce petit jardin nous perd.
+
+-*who_becarre
+Il faut y renoncer ; tu as du talent ; j'en ai aussi.
+On veut me faire entrer à l'Opéra.
+
+-*who_ledoux
+Il faut être sobre, ou rester toute sa vie dans les Chœurs.
+
+-*who_becarre
+J'aime ma liberté ; et j'ai, Dieu merci, de quoi vivre sans rien faire.
+
+-*who_ledoux
+Un peu d'occupation est nécessaire à l'homme.
+
+-*who_becarre
+Et la célébrité !
+
+-*who_ledoux
+Jamais ivrogne n'en acquiert.
+
+-*who_becarre
+Tiens, Le Doux ; vois le serment que je fais : je veux que ce verre de vin soit le dernier que je boive, si je me grise davantage.
+Jure avec moi.
+
+-*who_ledoux
+Volontiers.
+
+-*who_becarre
+Notre bouteille est vide !
+
+-*who_ledoux
+J'ai la clé de la cave.
+
+-*who_becarre
+Bravo !
+Est-ce que nous ne sommes pas mieux ici qu'au cabaret ?
+
+-*who_ledoux
+Certainement.
+
+-*who_becarre
+Bien plus honnêtement ?
+
+-*who_ledoux
+Bien plus agréablement.
+
+-*who_becarre
+On boit modérément ?
+
+-*who_ledoux
+Pour le plaisir.
+On ne se grise pas.
+
+-*who_becarre
+Descends-tu à la cave ?
+
+-*who_ledoux
+Bien pensé !
+
+**** *book_ *id_I09 *act_I *date_1784
+
+-*who_duciseau
+Est-ce que vous vous moquez de moi, tous les deux, de me faire attendre si longtemps ?
+
+-*who_ledoux
+Serviteur, Monsieur du Ciseau.
+
+-*who_duciseau
+Bécarre ne t'a donc pas dit ?
+
+-*who_becarre
+Si fait ; mais il n'a pas voulu venir.
+
+-*who_ledoux
+J'ai de l'ouvrage extraordinairement pressé.
+
+-*who_becarre
+Et nous avons promis à Madame le Doux de ne pas sortir d'aujourd'hui.
+
+-*who_duciseau
+Vous avez promis à Madame le Doux ?
+
+-*who_ledoux
+Oui, mon ami.
+
+-*who_becarre
+Elles nous a mis à la réforme.
+
+-*who_duciseau
+Je vous en fais mon compliment.
+Te voilà donc à la lisière ; tu n'auras de volonté, tu ne prendras de plaisir, qu'autant que Madame voudra bien t'en accorder la permission.
+N'as-tu pas de honte de te laisser ainsi mener par ta femme ?
+
+-*who_ledoux
+Ma femme ne me mène pas.
+Elle est mon amie.
+
+-*who_becarre
+Et c'est la femme la plus honnête, la plus douce...
+
+-*who_duciseau
+En ce cas, mon cher le Doux, tu fais fort bien de lui obéir ponctuellement.
+Cela te fera un honneur infini ; et très certainement les fidèles du petit jardin viendront t'en complimenter.
+Il y a justement, ce matin, une assemblée de tous ces bons enfants.
+Nous avons un nouveau Récipiendaire, qui doit, dit-on, faire les choses en grand.
+Tu le connais, c'est Dupré.
+
+-*who_ledoux
+Le Sculpteur ?
+
+-*who_duciseau
+Lui-même.
+Garçon de mérite, qui désire fort se lier avec moi.
+On s'est bien promis de rire, et de faire sauter maint bouchon de vin de Champagne.
+
+-*who_becarre
+Diable !
+Tu ne m'avais pas dit cela...
+
+-*who_ledoux
+Ce Dupré m'inquiète.
+
+-*who_duciseau
+Je voulais vous surprendre agréablement tous les deux.
+J'avais cru pouvoir répondre de vous.
+Mais puisque vous êtes dans la réforme, puisque vous avez promis à Madame le Doux de ne pas sortir, je vais donner vos démissions et faire vos excuses.
+
+-*who_becarre
+Attends donc ; je n'ai point de bonnes raisons à donner, moi, pour me dispenser d'y aller.
+Le Doux a son ouvrage, mais je suis libre.
+
+-*who_ledoux
+Et ton serment ?
+
+-*who_becarre
+Je commencerai aussi bien ma réforme demain, qu'aujourd'hui.
+Il est même décent que je te fasse mes adieux : on doit avoir des procédés dans la société : on ne quitte pas d'honnêtes gens comme une bouteille vide ; nous allons te laisser, tu travailleras mieux tout seul.
+
+-*who_duciseau
+Eh bien !
+Le Doux ?
+
+-*who_ledoux
+C'est que j'ai promis à ma femme.
+
+-*who_duciseau
+Et tu crains la correction ?
+
+-*who_ledoux
+Non ; mais c'est qu'on me presse horriblement pour ce morceau qui devrait être fini et livré depuis plus de six mois.
+
+-*who_duciseau
+Et tu vas le finir aujourd'hui ?
+
+-*who_ledoux
+Je l'avancerai du moins.
+
+-*who_duciseau
+Beaucoup, je crois.
+
+-*who_ledoux
+On me menace de me l'enlever.
+
+-*who_duciseau
+Ma lettre a eu son effet...
+On te menace de te l'enlever ?
+Le Comte d'Artiphile ?
+
+-*who_ledoux
+Lui-même.
+
+-*who_duciseau
+Il n'oserait.
+N'es-tu donc pas accoutumé à ces menaces que fait un Amateur toujours pressé de jouir, mais qu'il se garde bien d'exécuter ?
+Ne sais-tu pas qu'un ouvrage n'a de mérite à ses yeux, qu'autant que l'on le lui fait désirer ?
+
+-*who_ledoux
+Mais, au moins, faut-il y travailler ?
+
+-*who_duciseau
+Comme si le travail d'un jour marquait sur un ouvrage comme celui-là.
+
+-*who_becarre
+Il a raison.
+
+-*who_duciseau
+Je voudrais bien que quelqu'un de ces prétendus connaisseurs s'avisât de me menacer : de m'enlever un morceau, ou même de fixer un terme, il l'attendrait dix ans de plus.
+Ce n'est pas moi qu'il faudrait ainsi commander.
+La médiocrité est à la tâche, mais le génie a des ailes.
+
+-*who_becarre
+Bien dit.
+
+-*who_ledoux
+Si j'étais certain que l'on ne poussât pas trop avant...
+
+-*who_duciseau
+Tu peux y compter.
+On a arrêté qu'on n'y dînerait pas, et qu'à deux heures on se séparerait.
+
+-*who_ledoux
+Certainement ?
+
+-*who_duciseau
+Très certainement ; ils ont tous affaire ce soir.
+
+-*who_becarre
+Ta femme ne sera peut-être pas encore rentrée, et elle ignorera même que nous sommes sortis.
+
+-*who_ledoux
+Au reste, je reviendrai tout de suite.
+
+-*who_duciseau
+Tu ne seras que paraître, si tu veux ; cela sera suffisant, et, du moins, tu ne manqueras à personne : tu peux même ne point boire du tout.
+
+-*who_ledoux
+Oh !
+Je boirai si modérément...
+
+-*who_becarre
+Nous nous placerons à côté l'un de l'autre à table, et je te maintiendrai.
+
+-*who_duciseau
+Ne perdons pas de temps.
+
+-*who_ledoux
+Laisse-moi prendre, au moins, ma canne et mon chapeau.
+
+-*who_duciseau
+Tu n'en as pas besoin, pour une heure ou deux, au plus, que nous y resterons.
+
+-*who_ledoux
+Tu as raison.
+Si même ma femme revenait avant moi, elle se douterait, au moins, où je suis.
+
+-*who_duciseau
+Je le tiens.
+
+**** *book_ *id_II01 *act_II *date_1784
+
+-*who_susanne
+Sept heures!...
+Et Le Doux n'est pas encore rentré : la nuit entière est passée, et Le Doux n'est pas revenu.
+Où est-il ?
+Si l'incertitude en est cruelle, la certitude en est affreuse ; pourvu du moins qu'il ne lui soit rien arrivé de fâcheux.
+Je succombe à la peine, et mes yeux se refusent au sommeil...
+Dors encore, dors, mon enfant, n'accrois pas mes maux par tes cris ; hélas !
+Ta pauvre mère a bien assez de sa douleur !
+
+**** *book_ *id_II02 *act_II *date_1784
+
+-*who_madamecaquet
+Comment !
+C'est vous, ma voisine ?
+
+-*who_susanne
+Ah !
+Ciel !
+C'est Madame Caquet.
+
+-*who_madamecaquet
+Je voulais dire un mot à Monsieur le Doux.
+
+-*who_susanne
+Il n'est pas...
+Il n'est pas encore levé.
+
+-*who_madamecaquet
+Je repasserai.
+
+-*who_susanne
+Quand vous voudrez...
+
+-*who_madamecaquet
+À propos.
+Eh !
+Pourquoi donc levée et habillée avant le jour ?
+Où allez-vous donc ?
+
+-*who_susanne
+Je vais porter de l'ouvrage au Faubourg Saint-Honoré.
+Je ne sais ce que je dis.
+
+-*who_madamecaquet
+De l'ouvrage de si bonne heure ?
+
+-*who_susanne
+C'est à quelqu'un qui part pour la campagne.
+
+-*who_madamecaquet
+Allez-vous à pied ?
+
+-*who_susanne
+Oui, Madame...
+
+-*who_madamecaquet
+Tant mieux : j'ai justement affaire dans ce quartier, je vous accompagnerai ; nous causerons en chemin, il nous paraîtra moins long ; et puis si vous avez quelque chose à porter, je vous aiderai....
+
+-*who_susanne
+Vous êtes trop bonne ; et je craindrais d'abuser....
+
+-*who_madamecaquet
+Non, non, je ne souffrirai pas...
+
+-*who_susanne
+C'est si léger.
+
+-*who_madamecaquet
+Il n'est pas de fardeau, si léger qu'il soit, qui ne lasse à la fin.
+Donnez-moi....
+
+-*who_susanne
+Je ne compte pas encore partir tout de suite.
+
+-*who_madamecaquet
+Eh bien !
+Je vous attendrai.
+
+-*who_susanne
+Mais...
+
+-*who_madamecaquet
+Je ne suis pas pressée, et je serai bien aise même de causer un instant avec vous.
+
+-*who_susanne
+Faut-il que cette cruelle femme me fasse même craindre le retour de Le Doux !
+
+-*who_madamecaquet
+Vous n'avez rien à faire ?
+
+-*who_susanne
+Pardonnez-moi, Madame, j'ai un ouvrage très pressé à achever, et je vous demanderai même la permission...
+
+-*who_madamecaquet
+De travailler ?
+
+-*who_susanne
+Oui, Madame.
+
+-*who_madamecaquet
+Je ne vous interromprai pas ; et c'est un plaisir pour moi de voir avec quel art vous animez la toile.
+
+-*who_susanne
+Vous êtes bien honnête ; mais il faut que je sois seule.
+
+-*who_madamecaquet
+Pourquoi ?
+
+-*who_susanne
+L'ouvrage que je fais....
+
+-*who_madamecaquet
+Est un peu libre ?
+Mais à mon âge....
+
+-*who_susanne
+Vous vous trompez, Madame ; jamais mon pinceau ne fera rougir la décence, et mes ouvrages sont aussi purs que le fond de mon cœur ; mais j'ai promis le secret...
+
+-*who_madamecaquet
+Et moi, je ne souffrirai pas que vous perdiez ces beaux yeux, en travaillant à la lumière.
+Il faut ménager sa vue, nous n'avons rien de plus précieux.
+Asseyez-vous.
+
+-*who_susanne
+Écoutons-la donc : c'est peut-être le seul moyen de m'en débarrasser.
+
+-*who_madamecaquet
+Vous souvenez-vous, ma voisine, de notre dernière conversation ?
+
+-*who_susanne
+Oui, Madame ; elle m'est encore présente, et je n'en ai point perdu un seul mot.
+
+-*who_madamecaquet
+Eh bien !
+Moi, ma chère voisine, j'ai fait des réflexions depuis, et tout bien examiné, je venais faire réparation à Monsieur Le Doux, des soupçons que je m'étais permis sur sa conduite.
+
+-*who_susanne
+Je vous en remercie.
+
+-*who_madamecaquet
+C'est un poids pour moi, mais un poids insupportable, de mal penser de quelqu'un.
+
+-*who_susanne
+Je le crois.
+
+-*who_madamecaquet
+D'après ce que vous m'avez die, j'ai examiné de plus près votre mari, et j'ai reconnu combien ces bruits injurieux qu'on répandait contre lui, étaient faux et mal fondés.
+
+-*who_susanne
+Il est tant de gens qui se mêlent de ce qui ne les regarde pas, et qui se plaisent à tout envenimer.
+
+-*who_madamecaquet
+Ce sont des monstres dans la société !
+Eh bien !
+Ma voisine, croiriez-vous qu'en vous quittant, j'en ai rencontré de ces gens mal-intentionnés, de ces médisants, de ces mauvaises langues, qui ont voulu me soutenir, me prouver même que votre époux était un homme sans mœurs, sans conduite ; et, tenez, à l'instant même, je viens, je vous en réponds, de le défendre vigoureusement contre la Commère Bertrand, qui soutenait qu'il n'était pas rentré coucher chez lui ; et que tandis que vous passiez la nuit à travailler, à pleurer, il était à faire la débauche avec un tas de mauvais sujets, d'ivrognes, qui se rassemblent, pour leurs orgies, dans un petit jardin du Faubourg, où ces beaux Messieurs, sans s'embarrasser de leurs ménages, sans se soucier de leurs pauvres femmes, fument, boivent et jouent.
+Je l'ai rembarrée de la bonne manière, et je lui ai bien dit que le Doux n'était pas homme à aller dans de pareils endroits.
+
+-*who_susanne
+Il faut laisser parler les méchants, Madame, et les mépriser.
+
+-*who_madamecaquet
+Non, ma voisine, non; il faut les confondre.
+Il faut que les honnêtes gens se soutiennent les uns les autres; voilà comme je suis.
+C'est au point, ma voisine, que je viens de gager un écu, contre cette Madame Bavardin, qui est bien la plus mauvaise langue du quartier, en présence de Simonne et de la Commère Bonbec, qui a même reçu les enjeux ; que le Doux était dans ce moment occupé à travailler, et qu'il avait passé la nuit à côté de vous, et je suis bien certaine d'avoir gagé à-coup-sûr ; n'est-il pas vrai, Susanne ?
+
+-*who_susanne
+Assurément, et s'il n'est pas encore à son atelier, c'est que je l'ai forcé de se reposer aujourd'hui un peu plus qu'à l'ordinaire ; il était fatigué...
+
+-*who_madamecaquet
+Du grand travail qu'il a fait hier ?
+Voilà ce qui s'appelle une bonne femme, bien intentionnée !
+Il faudrait que votre mari fût un monstre, pour ne pas sentir tout ce que vous valez...
+
+-*who_susanne
+Cette femme se plaît à déchirer mon cœur.
+
+-*who_madamecaquet
+Je vais bien punir cette méchante Madame Bavardin, en lui gagnant son écu.
+J'aurais dû gager plus gros, n'est-il pas vrai, ma voisine ?
+En vérité, je vous félicite d'avoir un mari si rangé, si parfait !...
+Eh !
+Ma voisine, le voilà qui revient en bon état, et bien accompagné.
+
+**** *book_ *id_II03 *act_II *date_1784
+
+-*who_susanne
+Eh !
+Mon ami, c'est toi!...
+
+-*who_ledoux
+Laissez-moi.
+
+-*who_susanne
+N'es-tu pas incommodé ?
+N'as-tu besoin de rien ?
+
+-*who_ledoux
+Non...
+Laissez-moi...
+Retirez-vous.
+
+-*who_susanne
+Ne me reconnais-tu pas, Le Doux ?
+Je suis Susanne, je suis ta femme.
+
+-*who_ledoux
+Parbleu !
+Je sais bien qui vous êtes.
+
+-*who_susanne
+Voilà comme tu me traites ?
+
+-*who_ledoux
+Ne m'étourdissez pas.
+Vos doléances m'ennuient, vos remontrances me fatiguent, et j'ai besoin de repos.
+Pour vous, Monsieur du Ciseau, vous devez être content de votre nuit, et vous m'avez appris à vous connaître.
+
+-*who_duciseau
+Vous avez tort de vous plaindre.
+
+-*who_ledoux
+Vous m'avez appris à vous connaître, Monsieur ; la leçon me coûte cher, mais elle n'est pas trop payée.
+
+-*who_becarre
+Quand tu auras fait un petit somme...
+
+-*who_ledoux
+Je me fais honte à moi-même...
+Ne me suivez pas.
+
+**** *book_ *id_II04 *act_II *date_1784
+
+-*who_madamecaquet
+Votre mari me paraît fort indisposé, ma voisine, et, si vous voulez, je le garderai...
+
+-*who_susanne
+Eh !
+Madame, laissez-moi respirer, je vous en conjure.
+Allez, si vous voulez divulguer mes peines et mes malheurs ; mais ne venez pas davantage jouir de mes larmes, et laissez-moi, du moins, les répandre en liberté.
+
+-*who_madamecaquet
+Je suis fâchée, Madame, que vous preniez aussi mal les marques d'intérêt et d'amitié qu'on vous donne, et dorénavant je garderai pour d'autres mes conseils, puisque vous les recevez ainsi.
+
+-*who_susanne
+Vous me ferez grand plaisir, Madame.
+
+-*who_madamecaquet
+Cela suffit.
+Restez à roucouler douloureusement auprès d'un époux si tendre, si rangé ; vous méritez bien ce qui vous arrive.
+
+**** *book_ *id_II05 *act_II *date_1784
+
+-*who_susanne
+Qu'attendez-vous donc, Messieurs ?
+N'êtes-vous pas contents ?
+
+-*who_becarre
+Vous devez nous en vouloir un peu, belle Susanne; mais quand vous saurez...
+
+-*who_duciseau
+Votre mari me boude ; mais je veux faire ma paix avec vous, et vous expliquer...
+
+-*who_susanne
+N'avez-vous pas de honte de me ramener mon mari dans un pareil état ?
+
+-*who_becarre
+Un tendre engagement, va plus loin qu'on ne pense.
+
+-*who_susanne
+Et vous osez vous dire ses amis ?
+
+-*who_duciseau
+C'est un crâne, c'est un sot.
+
+-*who_becarre
+Ça n'a pas plus de tête qu'une linotte.
+Je n'ai bu un coup ni plus ni moins que lui, et vous voyez que je suis frais.
+Mais dame aussi, je ne joue pas, moi ; je ne perds pas mon argent, je ne m'emporte pas, je ne me dispute pas : je bois un petit coup d'amitié ; mais lui, c'est un enragé.
+
+-*who_susanne
+Vous m'effrayez !
+Il a joué, dites-vous ; il a perdu : ce n'est rien ; mais il s'est disputé ?
+
+-*who_becarre
+Et battu.
+
+-*who_susanne
+Battu !
+
+-*who_becarre
+J'étais là.
+Je les ai séparés ; je n'aurais pas souffert que deux amis...
+Un verre de vin a tout raccommodé, et je vous réponds qu'ils n'ont plus de rancune : n'est-il pas vrai, Du Ciseau ?
+
+-*who_duciseau
+Je lui pardonne de bon cœur.
+
+-*who_susanne
+Comment !
+Monsieur, c'est contre vous ?
+
+-*who_duciseau
+Ce n'est pas ma faute.
+Votre mari a le vin joueur, on joue ; il est mauvais joueur, on se fâche ; il est brutal, on se défend.
+Tout est dans l'ordre.
+
+-*who_susanne
+Que je suis malheureuse !
+
+-*who_duciseau
+Il est vrai ; je vous plains d'avoir un mari qui se dérange tous les jours, et je vous conseille, en bon ami, d'avoir allez de fermeté de séparer votre sort de celui d'un homme qui finira par vous ruiner.
+
+-*who_susanne
+Vous me conseillez...
+
+-*who_becarre
+Mauvais conseil que cela !
+Ne l'écoutez pas ; c'est un sournois.
+Le Doux aime la petite goutte, eh bien !
+Il saut en tirer vengeance, mais une vengeance plus douce, plus usitée : vous êtes charmante, je vous aime de tout mon cœur, et si vous voulez...
+
+-*who_susanne
+Insolent !...
+
+-*who_becarre
+On peut repousser les gens un peu plus doucement.
+
+-*who_duciseau
+Ah !
+Ah !
+Douce Susanne, vous oubliez votre caractère...
+
+-*who_susanne
+Et vous, votre rôle.
+Je vois toute l'horreur de la bassesse de votre cœur ; mais vous n'êtes plus à craindre, vous êtes démasqué.
+
+-*who_duciseau
+Ah !
+Démasqué...
+
+-*who_susanne
+Vous ne m'abusez plus : votre ivresse est feinte.
+Bécarre est à plaindre ; mais vous, vous êtes un monstre, et c'est vous seul que j'accuse de la perte de mon mari.
+
+-*who_duciseau
+Moi, Madame ?
+
+-*who_susanne
+Ah !
+Ciel !
+Mon mari serait-il blessé ?
+
+**** *book_ *id_II06 *act_II *date_1784
+
+-*who_duciseau
+Tu m'as démasqué, mais trop tard : tous les coups sont portés ; Le Doux ne s'en relèvera pas, et je vais triompher.
+Qu'elle est belle !
+
+-*who_becarre
+Charmante.
+
+-*who_duciseau
+Des contours !
+
+-*who_becarre
+Un embonpoint...
+
+-*who_duciseau
+Des formes !
+
+-*who_becarre
+Une taille...
+
+-*who_duciseau
+Une fermeté !
+
+-*who_becarre
+Je le crois...
+
+-*who_duciseau
+Quelle fierté !
+
+-*who_becarre
+Un peu trop.
+
+-*who_duciseau
+Que de vigueur !
+
+-*who_becarre
+Oh !
+Oui.
+
+-*who_duciseau
+Aujourd'hui elle est à moi.
+
+-*who_becarre
+À toi ?
+
+-*who_duciseau
+Oui, Bécarre ; oui à moi.
+Je la lui ravis.
+
+-*who_becarre
+Tu l'aimes donc bien fort ?
+
+-*who_duciseau
+J'en suis fou.
+
+-*who_becarre
+Et moi aussi.
+
+-*who_duciseau
+Est-ce que tu t'y connais ?
+
+-*who_becarre
+Aussi bien que toi.
+
+-*who_duciseau
+Non, mon ami, non ; il n'y a qu'un artiste qui puisse apprécier au juste tout son mérite.
+
+-*who_becarre
+N'ai-je pas des yeux aussi bien que toi ?
+
+-*who_duciseau
+Tu ne devines pas mille beautés cachées ?
+
+-*who_becarre
+Oh !
+Que si fait.
+
+-*who_duciseau
+Ces coups hardis d'un ciseau sublime ?
+
+-*who_becarre
+Qu'est-ce que tu dis donc ?
+
+-*who_duciseau
+De quoi parles-tu ?
+
+-*who_becarre
+De Susanne.
+
+-*who_duciseau
+Il s'agit bien ici de Susanne !
+
+-*who_becarre
+De qui donc ?
+
+-*who_duciseau
+De sa Minerve, ivrogne !
+De ce morceau divin !
+
+**** *book_ *id_II07 *act_II *date_1784
+
+-*who_lecomte
+Pourriez-vous me dire, Messieurs, si Monsieur Le Doux est ici ?
+
+-*who_becarre
+Certainement.
+
+-*who_duciseau
+Vous venez, peut-être, pour lui parler d'affaires ?
+
+-*who_lecomte
+Oui...
+D'une affaire très importante.
+
+-*who_duciseau
+Pour de l'ouvrage ?
+
+-*who_lecomte
+Oui, Monsieur, pour de l'ouvrage.
+
+-*who_duciseau
+Excusez, Monsieur ; mais c'est que dans ce moment Le Doux n'est guère en état de vous rendre aucune raison.
+
+-*who_lecomte
+Comment cela ?
+
+-*who_duciseau
+Il a passé toute la nuit, dans une taverne, à faire la débauche ; il vient de rentrer ivre-mort, et sa femme est allé le coucher.
+
+-*who_becarre
+Pourquoi donc dire ça?
+
+-*who_duciseau
+J'ai des raisons.
+
+-*who_becarre
+Dis de la rancune, et c'est vilain.
+Ne le croyez pas, Monsieur; il est vrai que nous avons passé la nuit ensemble, mais je vous réponds que Le Doux vient de rentrer aussi sain d'esprit et de corps que moi.
+
+-*who_lecomte
+Ce qu'on me marque, n'est donc que trop véritable.
+Quel dommage, que tant de talents soient perdus pour jamais !
+
+-*who_duciseau
+Vous examinez cette Statue ?
+
+-*who_lecomte
+Ce marbre respire.
+Quelle fierté !
+
+-*who_duciseau
+Et croyez-vous, Monsieur, que ces beautés appartiennent à Le Doux ?
+
+-*who_lecomte
+Oui, Monsieur.
+
+-*who_duciseau
+À lui ?
+Apprenez, Monsieur, qu'il les doit toutes à un artiste de les voisins, qui est son guide et son maître.
+
+-*who_lecomte
+C'est ce qu'on me marque...
+Vous aimez la sculpture ?
+
+-*who_duciseau
+J'en fais mon état.
+
+-*who_lecomte
+Et vous croyez que Le Doux....
+
+-*who_duciseau
+Homme perdu, Monsieur, talent éteint...
+
+-*who_lecomte
+Il en annonçait cependant, et beaucoup.
+
+-*who_duciseau
+Fleur trop hâtive, qui ne donnera jamais de fruits.
+
+-*who_lecomte
+Vous le jugez bien sévèrement.
+
+-*who_becarre
+C'est qu'ils sont brouillés.
+Ils ont passé la nuit à boire et à jouer.
+Ils se sont disputés, battus, et je les ai raccommodés, parce que j'avais conservé ma raison, moi ; mais il est rancuneux, lui !
+
+-*who_duciseau
+Tais-toi donc ?
+
+-*who_becarre
+Pourquoi dis-tu du mal de mon ami ?
+
+-*who_duciseau
+J'ai mes raisons pour parler ainsi.
+
+-*who_becarre
+Tu as tes raisons ?
+
+-*who_duciseau
+Oui ; et si tu veux venir jusques chez moi boire un verre de liqueur, je te les expliquerai.
+
+-*who_becarre
+Ceci change la thèse.
+Je veux les savoir, moi, ces raisons.
+
+-*who_duciseau
+Eh bien !
+Donne-moi le bras.
+Votre très humble serviteur, Monsieur.
+
+**** *book_ *id_II08 *act_II *date_1784
+
+-*who_lecomte
+Cet homme est plus que méchant, c'est un envieux.
+Ah !
+Pourquoi les talents, au lieu d'exciter dans le cœur des Artistes une noble émulation, une généreuse rivalité, n'y font-ils naître qu'une basse et lâche jalousie.
+Un succès dans tous les genres, est le tocsin qui réveille la haine, ameute la médiocrité, effraye le demi-talent.
+Malheur à celui qui, jeune encore, se couronne d'un laurier !
+Il peut dès lors compter autant d'ennemis qu'il a de rivaux ; tous chercheront à l'écraser ; et si la dent de l'Envie se brise contre son ouvrage, on attaquera son cœur, on dénigrera ses mœurs, on souillera son berceau, et son nom même prêtera une arme nouvelle à la place malignité.
+
+**** *book_ *id_II09 *act_II *date_1784
+
+-*who_susanne
+Ah !
+Ciel !
+C'est le Comte d'Artiphile lui-même?
+Pardon, Monsieur le Comte, j'ignorais que vous fussiez ici.
+Y a-t-il longtemps ?
+
+-*who_lecomte
+Non, Madame.
+Quels sont ces deux hommes que je viens d'y trouver ?
+
+-*who_susanne
+Ce sont, deux amis de mon mari.
+
+-*who_lecomte
+Deux amis de votre mari ?
+
+-*who_susanne
+Oui, Monsieur.
+L'un est musicien, qui n'est pas sans talent, mais qui a le malheureux défaut de boire un peu.
+
+-*who_lecomte
+Je m'en suis bien aperçu ; mais quel est l'autre ?
+
+-*who_susanne
+C'est Monsieur du Ciseau, un confrère de mon mari, et qui demeure ici près.
+
+-*who_lecomte
+Monsieur du Ciseau !
+Et c'est, dites-vous, l'ami de votre mari ?
+
+-*who_susanne
+Son ami intime.
+
+-*who_lecomte
+Le lâche !...
+Revenons à Le Doux.
+Vous savez, Madame, la manière dont je me suis comporté vis-à-vis de lui ?
+
+-*who_susanne
+Ah !
+Monsieur le Comte, après avoir élevé sa jeunesse, après avoir été son bienfaiteur, voudriez-vous le perdre ?
+
+-*who_lecomte
+Il m'y force, Madame ; il y a plus d'un an que cet ouvrage devrait être fini.
+Je lui en ai fourni le marbre, je lui ai avancé plus de cent louis au-delà du prix convenu ; je ne lui demande pas d'argent, mais je veux, au moins, son ouvrage, je le veux tel qu'il est.
+
+-*who_susanne
+Vous voulez donc notre ruine ?
+Je sais jusqu'à quel point vous avez poussé vos bontés, et combien mon mari paraît avoir de torts vis-à-vis de vous ; mais ces torts, j'en suis peut-être la première cause.
+
+-*who_lecomte
+Vous, Madame !
+
+-*who_susanne
+Oui, moi, Monsieur.
+C'est vous qui nous avez mariés ; vous voyez le premier fruit de vos biensaits et de l'amour de le Doux : peut-être ma tendresse l'a-t-elle trop de fois détourné de son ouvrage.
+Il est bien difficile de se livrer à tout son génie, quand le cœur parle si haut.
+Je suis donc seule coupable ; mais mon crime fut de trop aimer l'époux que vous m'aviez donné.
+Le punirez-vous de ma faute ?
+
+-*who_lecomte
+J'admire avec quelle adresse vous défendez votre époux ; mais plus vous employez d'art pour le disculper, plus il est coupable à mes yeux.
+
+-*who_susanne
+Lui, coupable !
+
+-*who_lecomte
+Oui, puisqu'il ne vous rend pas heureuse.
+
+-*who_susanne
+Le Doux ne me rend pas heureuse !
+Eh !
+Que manque t-il à mon bonheur ; mon mari m'aime, m'adore, a pour moi les complaisances d'un amant.
+
+-*who_lecomte
+Vous me trompez, Madame ; Le Doux vous néglige, vous maltraite même.
+
+-*who_susanne
+Qui peut vous avoir fait de tels rapports ?
+
+-*who_lecomte
+Tenez, Madame, voyez ce qu'on m'écrit.
+
+-*who_susanne
+C'est l'écriture de Monsieur du Ciseau.
+
+-*who_lecomte
+De l'ami de votre mari ?
+
+-*who_susanne
+Oui, Monsieur.
+
+-*who_lecomte
+Et en êtes-vous bien certaine ?
+
+-*who_susanne
+On ne peut davantage.
+Je vous montrerai vingt de ses lettres.
+
+-*who_lecomte
+Lisez donc.
+
+-*who_susanne
+Monsieur le Comte, je me crois, en honneur, obligé de vous donner un avis qui coûte beaucoup à mon cœur ; mais je ne puis laisser indignement tromper un homme aussi généreux que vous, et dont la protection est si précieuse à tous les artistes.
+Vous avez confié un ouvrage très conséquent à un jeune homme, nommé Le Doux, qui, à la vérité, annonçait quelque talent ; mais qui, depuis quelque temps, est absolument dérangé, maltraite sa femme, et passe sa vie dans une taverne, adonné au jeu, à la boisson ; il n'a plus ce ciseau ferme et hardi qui a dégrossi votre marbre, et je vous préviens qu'il est hors d'état de l'achever.
+Si j'ai un conseil à vous donner, c'est de le confier à des mains plus sûres.
+Il est beaucoup d'artistes qui méritent votre confiance ; il en est un surtout, qui, ami, dit-on, et voisin de Le Doux, a seul échauffé son imagination, et conduit sa main.
+J'ignore son nom ; l'avis que je vous donne en est d'autant plus sincère, ainsi que le profond respect avec lequel j'ai l'honneur d'être, quoique je ne me nomme pas, Monsieur le Comte, votre, etc.
+Le monstre !
+
+-*who_lecomte
+Eh bien !
+Madame?
+
+-*who_susanne
+L'envie seule, Monsieur, l'envie la plus basse a pu dicter une pareille lettre.
+Jugez quel est cet homme, qui n'ose se nommer ?
+
+-*who_lecomte
+J'avoue qu'un pareil écrit ne peut venir que d'une main méprisable ; mais est-ce donc la première fois que la vérité parvient jusqu'à nous par un organe impur ?
+
+-*who_susanne
+Eh bien !
+Je me sens le courage de vous le dire, moi, cette vérité si cruelle, et vous m'en croirez, Monsieur le Comte.
+Il est vrai, Le Doux est changé ; mais ce n'est pas un monstre, ce n'est pas non plus un homme sans talent.
+C'est un jeune Artiste faible, qui, depuis quelque temps, entraîné par des amis dangereux, a négligé son ouvrage ; mais sans rien perdre de son génie.
+Ce Monsieur du Ciseau, ce lâche qui vous écrit, vient tous les jours l'arracher de son atelier, pour le conduire dans un jardin, où s'assemblent des gens désœuvrés, mais honnêtes.
+Voilà les seuls torts de le Doux.
+Trop de facilité, un peu de paresse, un peu de négligence ; mais ce n'est qu'un léger nuage qui peut bientôt se dissiper.
+Ma tendresse, vos conseils, vos bontés, si vous daignez les lui conserver, la vue de cet enfant qui lui doit le jour, auquel il doit le bonheur, tout va ranimer dans son âme les premiers élans du génie.
+Mon époux a toujours le cœur excellent.
+Songez qu'en le perdant, vous perdrez sa femme et cette innocente créature.
+Non, vous n'en aurez pas la fermeté cruelle.
+
+**** *book_ *id_II10 *act_II *date_1784
+
+-*who_susanne
+Viens, mon ami, viens tomber avec moi aux pieds d'un homme sensible, qui ne résistera pas à nos larmes.
+
+-*who_ledoux
+Pardon, Monsieur le Comte, si je parois en cet état devant vous ; une indisposition subite, un malaise...
+
+-*who_lecomte
+Avouez, mon ami, qu'il en coûte cruellement à un homme honnête pour mentir.
+Épargnez-vous cette peine.
+
+-*who_ledoux
+Quoi !
+Susanne ?...
+
+-*who_susanne
+Peux-tu soupçonner, le Doux ?...
+
+-*who_lecomte
+Ne faites point de reproches à votre femme.
+Il est bien rare d'en trouver une pareille : loin de vous accuser, elle a tout employé pour vous justifier, et sa tendresse pour vous, m'a plus apaisé que ses raisons.
+C'est un ange, mon ami, c'est un ange tutélaire qui veille sur vous et sur votre maison.
+Voyez tout ce que vous lui devez, puisque je vous conserve encore mes bontés, mon estime et ma protection, malgré cette lettre affreuse que m'écrivait contre vous votre ami Du Ciseau.
+Reconnaissez-vous son écriture ?
+
+-*who_ledoux
+Oui, Monsieur le Comte.
+
+-*who_lecomte
+Gardez-la.
+
+-*who_ledoux
+Qui donc a pu l'armer contre moi ?
+
+-*who_lecomte
+Vos succès ; et voilà l'ami pour lequel vous abandonniez cette femme respectable, cette créature intéressante, à laquelle vous devez un père.
+
+-*who_ledoux
+Ah !
+Monsieur, permettez...
+
+-*who_lecomte
+Ce n'est pas à mes pieds que vous devez tomber ; Le Doux ; c'est à ceux de cette adorable femme.
+
+-*who_susanne
+Oh !
+Mon ami !
+
+-*who_ledoux
+Ma Susanne...
+J'abjure à tes pieds ce malheureux goût, qui allait, peut-être, me faire oublier que j'étais époux et père.
+
+-*who_lecomte
+Voyez, Le Doux, voyez à quoi tiennent les talents, les mœurs, le bonheur même.
+Voyez, surtout combien un faux ami est à craindre, et redoutez toujours les liaisons dangereuses.

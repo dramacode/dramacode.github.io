@@ -1,0 +1,2331 @@
+
+
+**** *book_ *id_I01 *act_I *date_1721
+
+-*who_valere
+Quelle nouvelle, ô Ciel  ! Quel affreux contretemps !
+Quand mon amour se flatte, en arrivant j'apprends,
+Que l'adorable veuve ici se remarie,
+Que ses noces se font dans cette hôtellerie !
+Que deviendrai-je ?... Où vais-je ? Ah ! J'ai l'esprit troublé.
+Mon mariage à moi, dont j'étais accablé,
+Se rompt ; j'accours ; je crois qu'il sera temps encore ;
+Je viens me déclarer à celle que j'adore.
+J'eusse fait consentir sa tante et son tuteur :
+Mais ce contrat signé m'accable de douleur.
+
+**** *book_ *id_I02 *act_I *date_1721
+
+-*who_lhotesse
+Attendez-moi tous là ; je vous donne audience,
+Après quelqu'un par où je veux qu'elle commence.
+Ah ! C'est vous que je cherche, aimable cavalier,
+Et c'est vous que je veux servir tout le premier ;
+Venez, monsieur, venez, je vous traite à merveille ;
+Par excellence on dit l'hôtesse de Marseille,
+Hôtesse jeune et sage; oiseau rare, ma foi :
+Oui, par mer et par terre on vient loger chez moi :
+J'y régale par tête, et l'Asie, et l'Afrique ;
+L'Europe y vient aussi boire avec l'Amérique.
+Mon vin a la vertu d'assortir les humeurs,
+D'accorder les esprits, de rapprocher les moeurs ;
+De trente nations il n'en fait qu'une à table.
+Je vous donne d'abord une chambre agréable,
+Monsieur, et d'où l'on voit les rochers et la mer,
+Très bonne pour rêver ; et vous m'avez tout l'air
+D'aimer un peu la douce et tendre rêverie ;
+C'est la plus belle, enfin, de mon hôtellerie.
+La voulez-vous ?
+
+-*who_valere
+      Est-il rien plus cruel ? Non....
+
+-*who_lhotesse
+      Non ?
+Il faut vous en donner une dont le balcon
+Est vis-à-vis celui d'une jeune personne...
+
+-*who_valere
+Non, jamais...
+
+-*who_lhotesse
+      Non encor ? Que faut-il qu'on vous donne ?
+Car celle auprès de qui je voudrais vous loger,
+Viendrait sur son balcon se plaindre, s'affliger ;
+Vous la consoleriez. C'est une jeune veuve.
+
+-*who_valere
+      Veuve ?
+
+-*who_lhotesse
+Oui, mais veuve jeune, et comme toute neuve,
+Veuve, qui va mourir aujourd'hui de chagrin.
+Un sot époux pourtant l'embarquera demain ;
+Car il veut l'embarquer morte ou vive.
+
+-*who_valere
+      L'hôtesse,
+À quoi tend ce discours ?
+
+-*who_lhotesse
+      Mais s'il vous intéresse,
+Je le continuerai. De loin je vous ai vu
+Vous désoler avec la tante, et j'ai connu
+Par l'air, dont vous fuyait la nièce effarouchée,
+Qu'en vous fuyant, de fuir elle était bien fâchée.
+Et vous, qui l'autre jour vîntes loger ici,
+De repartir pour Aix vous fûtes triste aussi.
+Troubles, soupirs, mettons ces indices ensemble ;
+Aimeriez-vous un peu cette veuve ? J'en tremble.
+Elle est remariée à si peu que rien près.
+Si l'on pouvait, monsieur, adoucir vos regrets ;
+Car enfin, que sait-on ? Du moins je suis discrète.
+Puisque j'ai deviné, la confidence est faite.
+N'hésitez plus, monsieur, car pour vous parler net,
+L'aimable veuve m'a confié son secret.
+
+-*who_valere
+Elle t'a confié....
+
+-*who_lhotesse
+      Non pas qu'elle vous aime ;
+Je vois qu'elle le cache avec un soin extrême :
+Mais par l'excès d'horreur qu'elle a pour son époux,
+J'ai conclu qu'elle avait un amant. Est-ce vous ?
+
+-*who_valere
+Cette veuve, dis-tu, t'a confié sa haine ?
+
+-*who_lhotesse
+Pour ce sot époux, oui ; je la vis à la gêne.
+Trembler, pâlir, frémir, en signant le contrat ;
+Je la surpris après dans un cruel état ;
+Maudissant son mari tout haut, (cela soulage ;)
+De lui, plus qu'elle encore, aussitôt je dis rage :
+C'était le seul moyen d'adoucir ses douleurs.
+Lors, moitié par pitié de la voir fondre en pleurs,
+Moitié par intérêt (car elle est libérale)
+Je fis d'abord une offre étonnante et brutale :
+Voulez-vous que demain je rompe ce contrat,
+Lui dis-je ?
+
+-*who_valere
+      Quoi ! Tu peux ? Je suis dans un état,
+Où l'indiscrétion doit être pardonnable.
+Si tu peux délivrer cette veuve adorable
+Du mariage affreux qui fait mon désespoir,
+Je n'épargnerai rien.
+
+-*who_lhotesse
+      J'espère que ce soir...
+
+-*who_valere
+Ce soir qu'espères-tu ?
+
+-*who_lhotesse
+      Du secours que j'espère,
+Et que je leur promets, je leur ai fait mystère.
+
+-*who_valere
+Que leur as-tu promis ?
+
+-*who_lhotesse
+      Point d'explication.
+Elles ont cependant de la discrétion
+Beaucoup toutes deux ; mais à deux femmes discrètes
+L'on ne doit confier que des affaires faites.
+
+-*who_valere
+Tu me vas dire à moi ?...
+
+-*who_lhotesse
+      Non. Vif, impétueux,
+Vous seriez indiscret, vous seul, plus qu'elles deux.
+
+-*who_valere
+Mais l'hôtesse ?...
+
+-*who_lhotesse
+      Non.
+
+-*who_valere
+      Mais...
+
+-*who_lhotesse
+      Curiosité vaine !
+De me questionner ne prenez pas la peine.
+Quand ce secret pourrait vous être confié,
+Il ne vous convient pas d'en être de moitié ;
+Un homme comme vous en s'intriguant déroge ;
+En m'intriguant bien, moi, je mérite un éloge.
+
+-*who_valere
+Tu me fermes la bouche ; apprends-moi seulement
+Qui peut avoir conclu ceci si promptement ;
+Car je n'en sais encore aucune circonstance.
+
+-*who_lhotesse
+Celui qui règle tout, est homme d'importance,
+Homme d'un grand crédit; c'est un Président d'Aix,
+Mais un Président fait comme ils ne sont plus faits
+Morgue de magistrat, rébarbatif, sévère,
+Qui ne dément jamais son grave caractère,
+Et régulier.... Je fus bien étonnée un soir,
+De le voir arriver en poste en manteau noir.
+Le fat ! Pardon du mot, mais je suis en colère
+De la fatuité qu'il a dans cette affaire,
+Comme en toute autre : un air, un ton d'autorité,
+Avec une faiblesse, une timidité ;
+Lorsque voulant sur tout présider, il décide,
+Sa prude Présidente en secret le préside.
+C'est par elle qu'il fait ce mariage-ci.
+Il domine partout, hors chez lui. C'est ainsi
+Que, tout homme qui prend une prude pour femme,
+Devient un sot monsieur, gouverné par madame.
+
+-*who_valere
+Et voilà l'ascendant qui nous perd aujourd'hui :
+Comme il l'a sur sa soeur, sa femme l'a sur lui.
+
+-*who_lhotesse
+Justement. Pour finir hier ce mariage,
+Ce Président tenait à sa femme un langage
+Marital, mais pourtant poliment absolu ;
+Car il ne veut jamais qu'après qu'elle a voulu.
+Elle, de son coté, veut avec politesse ;
+C'est par soumission qu'elle se rend maîtresse,
+Sitôt qu'elle lui fait humblement entrevoir
+Qu'elle voudrait, d'abord c'est lui qui croit vouloir.
+
+-*who_valere
+Ah ! Je vois à présent le noeud de cette affaire :
+La Présidente aura ménagé pour son frère
+La pupille et les biens.
+
+-*who_lhotesse
+      D'accord ; c'est là-dessus
+Que je ferai trembler... Je n'en dirai pas plus.
+Sur un seul point fondant le projet que je tente,
+Je ferai déguerpir, morbleu, la Présidente.
+Le Président révère en elle la vertu.
+À quarante ans, dit-il, en avoir toujours eu !
+Sa vertu cependant est bien plus jeune qu'elle.
+
+**** *book_ *id_I03 *act_I *date_1721
+
+-*who_latante
+Vous causez à ma nièce une peine cruelle,
+Valère, éloignez-vous. Je vous l'ai déjà dit,
+Ni la discrétion, ni la force d'esprit
+Ne pourraient empêcher votre amour de paraître.
+
+-*who_valere
+D'accord. De ma douleur je ne suis pas le maître,
+Et dans mon désespoir, je les brusquerais tous.
+Que je vous veux de mal, à vous, madame, à vous,
+D'avoir consenti...
+
+-*who_latante
+      Mais vous savez bien, Valère,
+L'ascendant, qu'a sur moi le Président mon frère.
+
+-*who_lhotesse
+Inutiles regrets ! Comptez sur mon projet.
+
+-*who_latante
+Oui, mais explique-toi. Mets-nous la chose au net.
+
+-*who_lhotesse
+À ne m'expliquer point, vous dis-je, on m'a contrainte.
+Mais séparons-nous, car je suis toujours en crainte.
+Çà, jusqu'à nouvel ordre, il faut premièrement
+Que vous entriez, vous, dans cet appartement.
+
+-*who_valere
+Je vais m'y désoler.
+
+**** *book_ *id_I04 *act_I *date_1721
+
+-*who_latante
+      Que je serai contente
+Si tu peux me venger de notre Présidente !
+Qu'elle serait confuse en cette occasion !
+Sans blâme on peut jouir de sa confusion ;
+Elle est vindicative, injuste, méprisante,
+Hypocrite, sans foi.
+
+-*who_lhotesse
+      Fière, prude et pédante ;
+J'achève le portrait, joignons-y la fadeur ;
+C'est elle-même.
+
+-*who_latante
+      Et c'est ma bête, mon horreur.
+Voir ma nièce à son frère et par force liée !
+La voir à dix-huit ans deux fois mal mariée !
+Que je la plains !
+
+**** *book_ *id_I05 *act_I *date_1721
+
+-*who_laveuve
+      Qu'entends-je ? Ah ! Je suis hors de moi.
+Quel bonheur !
+
+-*who_latante
+      Qu'est-ce donc ?
+
+-*who_laveuve
+      Ma tante...
+
+-*who_latante
+      Explique-toi.
+
+-*who_laveuve
+Je vais sûrement voir rompre mon mariage.
+
+-*who_latante
+Tu te flattes trop tôt.
+
+-*who_laveuve
+      Non, non.
+
+-*who_latante
+      Tu n'es pas sage,
+Car l'Hôtesse elle-même...
+
+-*who_laveuve
+      Eh ! Ce n'est pas cela ;
+C'est d'un autre côté que mon bonheur viendra.
+
+-*who_latante
+Tu rêves ! Ton amour et ta douleur te troublent.
+
+-*who_laveuve
+Non ; ma joie est sensée, et mes transports redoublent :
+Car c'est un homme sage, et sensé qui le dit,
+Monsieur de Glacignac.
+
+-*who_latante
+      Oui, c'est un bon esprit.
+
+-*who_laveuve
+Ce parent au notaire a dit en ma présence,
+Mais d'un sang-froid qui marque une pleine assurance,
+Le notaire lui-même a parti confondu :
+Oui, disait Glacignac, mariage rompu.
+
+-*who_latante
+Tu te flattes, ma nièce, et Glacignac se trompe.
+Non, il ne se peut pas qu'un tel contrat se rompe.
+Mon frère et le notaire, habiles gens tous deux...
+
+-*who_laveuve
+Monsieur de Glacignac est plus habile qu'eux.
+Mariage rompu.
+
+-*who_latante
+      Tu dis une chimère.
+
+-*who_laveuve
+Non, je n'ai plus d'époux, je puis revoir Valère.
+
+-*who_latante
+Mais, si ce qu'on te dit enfin se trouve faux ?
+
+-*who_laveuve
+J'en frémis. Ce sera le comble de mes maux.
+Plus je vois cet époux, plus je suis à la gêne :
+Mon amour pour Valère augmente cette haine ;
+Et cette haine, hélas ! Par un fâcheux retour,
+Semble encore pour Valère augmenter mon amour.
+
+-*who_latante
+Dans cette extrémité l'effort que je puis faire,
+C'est de te retenir ici malgré mon frère.
+
+-*who_laveuve
+Je ne m'embarque point, ma tante, assurément.
+
+-*who_latante
+Ils viennent tous ; je vais leur parier fortement.
+Mais j'ai beau leur vouloir tenir tête, je n'ose :
+C'est un faible que j'ai, leur présence m'impose.
+
+**** *book_ *id_I06 *act_I *date_1721
+
+-*who_lapresidente
+Monsieur le Président me cherche, attendez tous.
+Ici, Président.
+
+-*who_lepresident
+      Ah ! Présidente, c'est vous ?
+
+-*who_lapresidente
+J'ai dit que vous vouliez qu'on dînât chez sa tante ;
+Ai-je tort, Président ?
+
+-*who_lepresident
+      Non, jamais, Présidente.
+
+-*who_lapresidente
+L'on a toujours raison quand on pense après vous.
+On doit étudier les désirs d'un époux.
+Jeune épouse, apprenez que dans la moindre idée
+Il faut par un époux être toujours guidée.
+Mon exemple en cela vous est d'un grand secours.
+
+-*who_lepresident
+En cela comme en tout.
+
+-*who_lapresidente
+      Pour Monsieur, j'eus toujours
+Déférence, respect, soumission entière.
+
+-*who_lepresident
+La femme à son mari doit respect la première,
+Comme au chef; mais respect qui doit être rendu.
+Oui, je respecte en vous et prudence et vertu.
+
+-*who_lapresidente
+Respecter, c'est trop dire. Aimez-la.
+
+-*who_lepresident
+      Je l'honore ;
+C'est le mot.
+
+-*who_lapresidente
+      C'est le mot. Je le répète encore ;
+Jeune épouse, il faut vivre avecque votre époux,
+Comme monsieur et moi nous vivons entre nous :
+Ne le jamais quitter il vous mène à Ligourne,
+
+-*who_laveuve
+Non, je reste à Marseille où ma tante séjourne ;
+C'est une complaisance au moins que je lui dois
+Pour toutes les bontés qu'elle eut toujours pour moi.
+J'y reste quelques jours.
+
+-*who_latante
+      Quelques jours, rien ne presse ;
+Encore faut-il bien qu'elle se reconnaisse.
+À peine est-elle encor mariée.
+
+-*who_lapresidente
+      Est-il vrai ?
+Croirai-je qu'on propose un blâmable délai,
+Quand le devoir... Au fond je ne suis point gênante ;
+Mais pour suivre un mari, l'on doit quitter sa tante.
+Je ne l'exige point... et monsieur sait fort bien
+Que je n'ai ni désir, ni volonté sur rien.
+
+-*who_lepresident
+Il est vrai ; mais c'est moi, moi, qui veux qu'elle suive...
+
+-*who_lapresidente
+Monsieur veut.
+
+-*who_lepresident
+      Oui, je veux.
+
+-*who_lapresidente
+      Volonté décisive.
+
+-*who_latante
+Mais il faut voir...
+
+-*who_lepresident
+      Ma soeur, l'arrêt est prononcé.
+
+-*who_laveuve
+Il faut attendre.
+
+-*who_lapresidente
+      Au fond, j'ai toujours bien pensé,
+Que vous n'auriez jamais une vive tendresse
+Pour mon frère. Il n'est pas d'une extrême jeunesse ;
+Mais c'est ce qui convient. Il est d'âge à former
+Ces noeuds où l'on ne peut trouver rien à blâmer :
+Car il faut qu'une veuve épouse un homme d'âge,
+Homme, qui justifie un second mariage,
+En ôtant tout soupçon qu'un amour excessif
+D'un second mariage ait été le motif.
+
+**** *book_ *id_I07 *act_I *date_1721
+
+-*who_ligournois
+Oh ! Je viens d'inventer un souper de génie,
+Un repas pour la noce, où la cérémonie
+Soit joyeuse malgré le cérémonial.
+Ma soeur la Présidente en veut : cela fait mal.
+Dans un bon repas ; mais, comme j'ai de la tête,
+J'ai mêlé tout ensemble, au festin qu'on apprête,
+Et du grave et du gai.
+
+-*who_latante
+      Le sot !
+
+-*who_lapresidente
+      C'est un repas
+Superbe, mais modeste.
+
+-*who_ligournois
+      Oh ! Ne voilà-t-il pas !
+Vous allez tout gâter par votre modestie.
+J'y voulais du galant, c'est votre antipathie,
+Ma soeur, car vous voulez par vertu de l'ennui.
+
+-*who_lapresidente
+Mon frère, vous avez moins d'esprit aujourd'hui
+Qu'à l'ordinaire.
+
+-*who_ligournois
+      Oh ! Point ; c'est toujours tout de même.
+Mais c'est que le transport de mon amour extrême
+Me trouble en m'animant.
+
+-*who_lapresidente
+      Paix donc, ou parlez bas ;
+Car de si vifs transports ne vous conviennent pas.
+
+-*who_ligournois
+Quand on est possesseur...
+
+-*who_lapresidente
+      Mais soyez donc plus sage :
+Ces folâtres discours ne sont plus de votre âge.
+Mêlez à votre joie un peu plus de raison ;
+Sous le nom d'amitié, fruit d'arrière-saison,
+Il faut masquer l'amour, en jouir, et se taire.
+
+-*who_ligournois
+Je fais l'amour tout haut.
+
+-*who_lapresidente
+      Que nous veut le notaire ?
+
+**** *book_ *id_I08 *act_I *date_1721
+
+-*who_lenotaire
+On vient de m'excéder, je n'y puis plus tenir :
+Ces manques de respect se devraient bien punir.
+On en manque pour vous, pour votre caractère,
+Monsieur, et pour le mien. Corriger un Notaire,
+Et vouloir réformer un contrat fait par moi,
+Qui par la forme sait régler, fixer la loi !
+On dit notre contrat fautif, nul, invalide.
+
+-*who_lepresident
+Qui dit cela ?
+
+-*who_lapresidente
+      Quoi ?
+
+-*who_ligournois
+      Qu'est-ce ?
+
+-*who_lenotaire
+      Un homme qui décide,
+Qui croit qu'un oui, qu'un non froidement prononcé,
+Que parler peu, suffit pour être bien sensé :
+Qui croit, en dédaignant ma féconde science,
+Arrêter d'un seul mot un torrent d'éloquence :
+C'est un Gascon nommé Glacignac.
+
+-*who_laveuve
+      Écoutons.
+
+-*who_latante
+C'est donc là la rupture ?
+
+-*who_laveuve
+      Oui, sur quoi nous comptons.
+
+-*who_lepresident
+Ce Glacignac, toujours zélé pour sa parente,
+Disputait l'autre jour pour la clause importante,
+Pour la dot ; mais nous tous l'emportâmes sur lui.
+Je l'ai mise en billets que je livre aujourd'hui,
+Même dès à présent ; la voilà toute prête.
+
+-*who_lapresidente
+Eh ! Ce n'est pas cela, monsieur, qui nous arrête.
+
+-*who_ligournois
+Mais qu'il avance donc, il marche à pas comptés.
+
+**** *book_ *id_I09 *act_I *date_1721
+
+-*who_lenotaire
+Ah ! Nous allons donc voir ici ces nullités ;
+S'il en connaît quelqu'une, au moins qu'il la désigne.
+
+-*who_lapresidente
+C'est que comme parent il veut signer.
+
+-*who_lepresident
+      Qu'il signe :
+Mais l'on n'a pas besoin ici de ses avis.
+
+-*who_lapresidente
+Qu'on les écoute, mais qu'ils ne soient pas suivis.
+
+-*who_lepresident
+Qu'est-ce à dire, monsieur ? J'apprends par le notaire,
+Qu'au contrat vous trouvez quelque article à refaire ?
+
+-*who_glacignac
+Peu dé chose.
+
+-*who_lepresident
+      Voyons ce qui vous a choqué.
+
+-*who_glacignac
+Très peu dé chose.
+
+-*who_lenotaire
+      Mais qu'avez-vous remarqué ?
+Montrez-le nous, voyez.
+
+-*who_glacignac
+      C'est une minutie
+Sur les qualités.
+
+-*who_ligournois
+      Oh ! Chacun se qualifie
+Comme il veut.
+
+-*who_lepresident
+      Si ce n'est que cela...
+
+-*who_glacignac
+      Cette erreur
+Du contrat cépendant altèré la valeur.
+Vous qualifiez là cette épousé dé veuve,
+Dé veuve ! Et vous n'avez nullé certainé preuve
+Que son mari soit mort. Eh donc ! C'est sans raison,
+Faussement, qué dé veuve on lui donne lé nom.
+C'est uné bagatelle, un rien, uné vétille ;
+On pourrait, corrigeant ce mot par apostille,
+Mettre ici, veuvé, dont lé mari n'est pas mort.
+
+-*who_lepresident
+      Qu'est-ce à dire ?
+
+-*who_glacignac
+Qu'il vit ; eh donc ? L'épouse a tort...
+
+-*who_ligournois
+      Est-il ivre ?
+
+-*who_lepresident
+Est-il fou ?
+
+-*who_laveuve
+      Que dit-il donc, ma tante ?
+
+-*who_latante
+Je n'y comprends rien...
+
+-*who_lapresidente
+      Mais-je croirais qu'il plaisante,
+Si je ne connaissais qu'il est très sérieux.
+
+-*who_glacignac
+Véridique dé plus. Si vous avez des yeux,
+Vous pouvez aller voir au port Damis en vie.
+
+-*who_ligournois
+De rire son sang-froid, ah, ah, me donne envie.
+Croire vivant un mort au récit d'un gascon !
+
+-*who_laveuve
+Ma tante, parle-t-il sérieusement ?
+
+-*who_latante
+      Non.
+Mais expliquez-vous donc.
+
+-*who_glacignac
+      Jé parle vrai.
+
+-*who_laveuve
+      Qu'entends-je ?
+
+-*who_glacignac
+Damis est débarqué.
+
+-*who_lenotaire
+      Le cas serait étrange.
+
+-*who_latante
+C'est donc là la rupture ? Ah ! Quel événement !
+
+-*who_lepresident
+Mais vous nous annoncez cela tranquillement.
+
+-*who_glacignac
+Et pourquoi voulez-vous que jé mé passionne !
+Sais-je pour ces époux si la nouvelle est bonne,
+Mauvaise, indifférente, et s'ils s'aiment, ou non ?
+Eh donc ! Température est ici dé saison ;
+Or je débarquais, moi, j'étais sur lé rivage,
+Je venais pour signer à votré mariage.
+À l'oreille jé sens murmurer un bruit sourd,
+Bruit qui dévient bruyant à mésuré qu'il court.
+Damis, Damis, Damis ; dit-on, dé bouche en bouche ;
+Damis rejoindra donc sa compagne de couche ?
+Dans Marseillé Damis était connu très fort,
+Pour lé voir débarquer chacun court sur lé port.
+
+-*who_lapresidente
+Quoi ! Damis est ici ?
+
+-*who_glacignac
+      Révivant en personne ;
+En lé voyant révivre, on s'émeut, on s'étonne :
+Moi qui crois tout possible, et né m'émeus dé rien,
+J'ai dit ; c'est lé cousis, il vit, jé lé veux bien.
+
+-*who_lepresident
+Mais il faut s'assurer d'une telle nouvelle.
+
+-*who_lenotaire
+Moi-même je vais voir si la chose est réelle.
+
+-*who_lepresident
+Allez, mais en tout cas, donnez-moi le contrat ;
+Nous pourrons s'il le faut, l'annuler sans éclat.
+Je suis bien aise enfin de m'en rendre le maître,
+Afin que le mari n'en puisse rien connaître.
+
+**** *book_ *id_I10 *act_I *date_1721
+
+-*who_laveuve
+Je ne puis revenir du coup.
+
+-*who_latante
+      Coup malheureux !
+Deux maris ! Je voudrais qu'ils fussent morts tous deux.
+
+-*who_laveuve
+Allons nous renfermer, je ne puis plus paraître.
+
+**** *book_ *id_I11 *act_I *date_1721
+
+-*who_ligournois
+Ce maudit revenant ainsi revivre en traître !
+Ainsi venir m'ôter une veuve, et son bien !
+
+-*who_glacignac
+Il faut bien lui céder le pas, c'est votre ancien.
+
+-*who_lapresidente
+Monsieur, comme Damis saura ce qui se passe,
+Il nous en voudra mal.
+
+-*who_glacignac
+      Oui.
+
+-*who_lapresidente
+      Voyez-le, de grâce.
+Vous étiez, m'a-t-on dit, de ses meilleurs amis.
+Il ne convient qu'à vous de parler à Damis ;
+Faites-lui pour nous tous excuse.
+
+-*who_glacignac
+      Oui-da, madame.
+
+-*who_ligournois
+Et ne lui dites pas que j'épousais sa femme.
+
+-*who_glacignac
+Il né lé saura point, lé public est discret.
+
+**** *book_ *id_I12 *act_I *date_1721
+
+-*who_lapresidente
+Pour ne rien laisser voir de mon trouble secret,
+Que je me suis contrainte ! Étrange conjoncture !
+Mon scélérat amant, mon traître, mon parjure,
+Ce Damis n'est pas mort ! Fuyons-le promptement,
+Je serais exposée à son ressentiment.
+Il saurait que c'est moi qui livrais à mon frère,
+Et sa femme, et ses biens. Ô Ciel ! Dans sa colère,
+Ce brutal me perdrait d'honneur : du moins je puis,
+En ne le voyant pas, lui cacher qui je suis.
+Il ne peut pas savoir que je suis Présidente.
+Hélas ! Quand je l'aimai j'étais bien différente
+De ce que je suis ; mais au plus vite partons.
+Que j'ai bien fait d'avoir pris parfois de faux noms !
+Mon histoire ne peut avoir été suivie.
+Heureux qui peut cacher la moitié de sa vie,
+Pour se faire par l'autre un renom de vertu !
+C'est dans tout âge avoir très sensément vécu.
+
+**** *book_ *id_II01 *act_II *date_1721
+
+-*who_valere
+Du mariage on vient m'annoncer la rupture,
+Et le mari cru mort revient : quelle aventure !
+
+-*who_lhotesse
+Oui, la rupture c'est l'autre mari cru mort,
+Qui revient.
+
+-*who_valere
+      Ah ! Quel coup !
+
+-*who_lhotesse
+      Je viens rire d'abord,
+Car j'ai le temps de rire un peu de votre trouble ;
+Et dans ce salon-ci j'attends ce mari double,
+J'entends qui vient doubler ce Ligournois fâcheux :
+Un mari c'était peu pour vous, en voilà deux ;
+Un amant tel que vous triompherait de trente.
+
+-*who_valere
+Toi dans mes intérêts plaisanter !
+
+-*who_lhotesse
+      Je plaisante.
+
+-*who_valere
+Vient-il ?
+
+-*who_lhotesse
+      Non pas encor, monsieur ; sans plaisanter,
+À ce mari d'abord je vais vous présenter.
+Je lui dirai, voilà l'amant de votre femme :
+De votre main, monsieur, présentez-le à madame.
+C'est la règle à présent.
+
+-*who_valere
+      La tête t'a tourné.
+
+-*who_lhotesse
+C'est le meilleur mari, docile et façonné
+Au manège qui rend nos maris adorables.
+
+-*who_valere
+Rêves-tu ? Quels discours ?
+
+-*who_lhotesse
+      Discours très raisonnables.
+Je vous explique ici très sérieusement
+Ce que ce mari fait pour vous en ce moment.
+Sur ce mari pour vous tout mon espoir se fonde ;
+Il revit, il revient exprès de l'autre monde,
+Pour ôter à sa femme un sot mari qu'elle a,
+Et pour vous la donner ensuite il remourra.
+N'est-il pas bien honnête ?
+
+-*who_valere
+      À cette énigme obscure
+Je ne comprends rien ; mais par ta gaîté j'augure...
+J'augure bien, je crois ; mais que croire ? On me dit,
+Qu'en public ce Damis...
+
+-*who_lhotesse
+      C'est par moi qu'il revit.
+
+-*who_valere
+Quoi ? Comment ?...
+
+-*who_lhotesse
+      Ce mari n'est qu'un mari postiche.
+L'image du défunt, qu'en public, moi j'affiche ;
+Un faux Damis enfin. Voilà ce grand secret.
+La veuve est scrupuleuse, et vous, vif, indiscret ;
+Je vous avais caché l'époux que je suppose.
+
+-*who_valere
+Ce n'est qu'un faux mari ?
+
+-*who_lhotesse
+      Non, qu'à l'autre j'oppose.
+L'énigme est éclairci. Ce n'est qu'un frère à moi.
+Voyons ; j'entends qu'il fait merveille, je le vois.
+
+-*who_valere
+Je ne sais où j'en suis ; en ceci tout m'étonne.
+
+-*who_lhotesse
+Damis était bouffon, et mon frère bouffonne,
+Fait le mauvais plaisant pour lui mieux ressembler.
+
+-*who_valere
+L'entreprise est hardie, elle me fait trembler.
+
+**** *book_ *id_II02 *act_II *date_1721
+
+-*who_damis
+Vous m'étouffez, messieurs, et votre accueil affable,
+Votre zèle, morbleu, me ruine et m'accable.
+Vous criez en chorus, Damis, Damis, Damis,
+Mon nom me coûte cher : tenez, mes bons amis,
+Allez tous en buvant raconter mon histoire,
+Et laissez-moi du moins me reposer et boire.
+Vous me regrettiez mort, je l'avais mérité :
+Que c'est un grand plaisir de mourir regretté !
+Mais pour le bien goûter il faut, ma foi, revivre ;
+M'imite qui pourra, l'exemple est bon à suivre.
+
+-*who_valere
+Je ne puis revenir de mon étonnement.
+
+-*who_lhotesse
+Ma lettre ne t'a point parlé de cet amant ?
+C'est un amant secret de la charmante veuve,
+Surcroît de gain pour toi.
+
+-*who_damis
+      J'en accepte la preuve.
+
+-*who_valere
+Prends ces cent louis, mais vite, rassure-moi :
+Comment te prennent-ils pour Damis ? Et pourquoi...
+
+-*who_damis
+Je suspends les transports de ma reconnaissance.
+Apprenez qu'il ne fut jamais de ressemblance
+Telle qu'entre Damis et moi : Caille jamais,
+Ni Martin-Guerre n'ont vu leurs vivants portraits
+Mieux que Damis ne vit le sien dans ma figure.
+Cela nous fit amis, compagnons d'aventure ;
+Et là-dessus ma soeur a formé son projet :
+Par sa lettre de tout, elle m'a mis au fait.
+À Toulon je me donne à quelques gens de marque
+Pour Damis ; sous son nom avec eux je m'embarque :
+Le vaisseau s'est trouvé plein de ces fainéants,
+De ces marins oisifs que l'ennui rend friands
+D'entendre raconter, par conséquent de croire ;
+Sur leur crédulité je fonde mon histoire.
+La pitié se saisit de leurs affections :
+Et par le merveilleux de mes narrations,
+Leur faisant admirer mes fausses aventures,
+De tous mes auditeurs je fais des créatures.
+Nous abordons enfin, et je sors le dernier
+Du vaisseau, dont chacun veut sortir le premier
+Pour conter au public mes fables sans pareilles.
+Mon Journal se grossit de cent et cent merveilles.
+Ces zélés narrateurs ont déjà tant conté,
+Raconté, rajusté, corrigé, commenté,
+Qu'étant tous à présent auteurs de mon histoire,
+Ils vont avoir aussi tous à la faire croire
+Presque autant d'intérêt et déplaisir que moi.
+
+-*who_valere
+J'écoute, et j'admire.
+
+-*who_lhotesse
+      Oh ! C'est mon frère, ma foi,
+Pour l'esprit.
+
+-*who_damis
+      Écoutez jusqu'au bout.
+
+-*who_valere
+      Par avance,
+Je te promets, mon cher, une ample récompense ;
+Agis toujours.
+
+-*who_lhotesse
+      Au port, te voilà donc rendu ?
+
+-*who_damis
+Oui, pour Damis j'arrive ici tout reconnu.
+Voyant tout disposé pour ma brillante entrée,
+Car les gens du vaisseau l'avaient bien préparée,
+Je descends et je cours vers les plus empressés,
+Car ordinairement ce sont les moins sensés.
+Sur l'épaule de l'un frappant d'un air affable,
+Au bourgeois caressé je fais croire ma fable ;
+Certain cabaretier ne me reconnaît pas.
+Ce n'est point lui, dit-il, parlant à demi-bas,
+Et chez moi le défunt très souvent venait boire.
+Je cours à lui craignant l'effet de sa mémoire.
+Ah ! Cher ami, chez toi le bon vin que j'ai bu !
+Je crois t'en redevoir encore quelque écu.
+L'espoir d'un peu d'argent, joint à la ressemblance,
+S'est emparé d'abord de sa réminiscence.
+Un autre devenu créancier à l'instant,
+Me reconnaît aussi pour en avoir autant ;
+Certain Gascon m'observe et me tient en brassière,
+Je le voyais tout prêt à me rompre en visière :
+Venez dîner chez moi, mon cher, n'y manquez pas.
+Oui, Cousis, m'a-t-il dit, j'accepté lé repas.
+Un faux brave a paru, j'ai juré qu'à la guerre
+Je l'avais vu, morbleu, plus craint que le tonnerre.
+Ainsi, pour peu qu'on soit libéral et flatteur,
+Du crédule public on sait gagner le coeur.
+
+-*who_lhotesse
+Oui ; mais je vois qu'ici ce public entre en foule.
+Ton apparition sur quoi ton projet roule,
+À fait croire Damis vivant, c'était ton but ;
+Mais s'il fallait qu'enfin quelqu'un te reconnût,
+Te soupçonnât, ceci pourrait changer de face :
+Ne t'expose donc plus à cette populace.
+Pour revoir ce Damis ils veulent tous entrer,
+Allons adroitement les faire retirer.
+Venez.
+      Toi, reste là, je reviendrai te joindre.
+
+-*who_valere
+Nulle difficulté, n'est-ce pas ?
+
+-*who_damis
+      Pas la moindre.
+
+-*who_lhotesse
+Tu sais ton rôle ?
+
+-*who_damis
+      Oui, mais rejoins-moi promptement.
+
+-*who_lhotesse
+Vous, je vais vous instruire un peu plus amplement.
+
+-*who_damis
+Va par l'autre côté m'ouvrir cette autre porte.
+
+-*who_lhotesse
+Eh ! Ne crains rien.
+
+-*who_damis
+      Va donc dissiper, la cohorte.
+
+-*who_valere
+Je n'en puis revenir ! Un projet si hardi,
+Me fait trembler, j'en suis encor tout étourdi ;
+Le moindre contretemps perdrait tout.
+
+-*who_damis
+      Bon courage,
+Valère est libéral ; couronnons notre ouvrage.
+
+**** *book_ *id_II03 *act_II *date_1721
+
+-*who_glacignac
+Ce Damis est un fourbe à coup sûr.
+
+-*who_damis
+      Qui vient-là ?
+
+-*who_glacignac
+Mes yeux dé plus en plus mé confirment qu'il a
+Lé portrait du défunt calqué sur son visage.
+
+-*who_damis
+Ah ! Ah ! C'est ce Gascon qui criait du rivage :
+J'accepte le repas. Je tremble cependant,
+Car on m'a dit qu'il est parent du Président.
+
+-*who_glacignac
+Un cousis que j'avais, en trépassant, jé pense.
+Vous a par testament légué sa ressemblance.
+
+-*who_damis
+Je croyais être lui.
+
+-*who_glacignac
+      Qué mé dites-vous là ?,
+Il est mort. Jé né sais si vous savez céla ?
+
+-*who_damis
+Je devrais l'être au moins, les périlleux voyages,
+Les corsaires, la mer, les écueils, les naufrages...
+Mais je suis débarqué sain et sauf, c'est le bon.
+
+-*who_glacignac
+Vous débarqué ! C'est donc de la barque à Caron ?
+
+-*who_damis
+Oui, j'ai sur l'estomac encore une onde noire ;
+Pour la faire passer, cher cousin, allons boire,
+Vous m'avez dit tantôt, j'accepte le repas.
+
+-*who_glacignac
+Non, jé suis dé la noce, et jé n'accepté pas.
+La veuve dé Damis ici se rémarie.
+
+-*who_damis
+Oui, ma femme voulait...
+
+-*who_glacignac
+      Veuvé donc, jé vous prie,
+Veuvé, très veuvé ; car feu Damis...
+
+-*who_damis
+      Pour de feu
+
+-*who_glacignac
+Jé vous dis, feu Damis, mon cher, m'aimait un peu.
+Feu Damis...
+
+-*who_damis
+      Oh ! Feu, feu... l'épithète m'offense.
+
+-*who_glacignac
+Dé tout il mé faisait exacté confidence.
+
+-*who_damis
+J'étais un jour...
+
+-*who_glacignac
+      Non pas.
+
+-*who_damis
+      J'allai...
+
+-*who_glacignac
+      Non, non.
+
+-*who_damis
+      Comment ?
+
+-*who_glacignac
+J'étais, j'allai, n'est pas s'exprimer congrûment
+La façon dé parler, mé semblé, n'est pas bonne :
+Damis, à votre égard, est la tiercé personne ;
+Vous dévez dire, vous, il était, il alla,
+Non pas, j'étais, j'allai ; c'est mal dit qué céla;
+Jé né pardonne point les fautés dé grammaire.
+
+-*who_damis
+Ce badinage enfin cessera, je l'espère.
+
+-*who_glacignac
+Prouvez donc gravément qué vous étés Damis.
+Vous vous souvenez bien qu'il fut dé mes amis,
+Quoiqué parent ; un jour, vous en souvient sans doute,
+Il vint chez moi, sa bourse était à vau dé route ;
+Or devinez combien jé lui prêtai d'argent ?
+
+-*who_damis
+Combien ? Je n'en ai pas le calcul bien présent,
+Car comme étourdiment j'emprunte, je m'endette,
+Étourdiment j'oublie, aussi ce qu'on me prête.
+Mais je me souviens bien que quand je vous hantais
+Tantôt vous me prêtiez, tantôt je vous prêtais,
+Et prêterai de plus, je suis toujours le même.
+
+-*who_glacignac
+Avant que de prêter, il faut rendre.
+
+-*who_damis
+      Que j'aime
+Ces maximes d'honneur, d'exacte probité !
+Ma bourse s'ouvre. Eh bien ! Que m'avez-vous prêté ?
+
+-*who_glacignac
+Cinquante louis d'or neufs.
+
+-*who_damis
+      Justement, c'est la somme ;
+Je m'en souviens, fort bien ; et même en galant homme,
+Je vous rends sans quittance.... On aura son secours
+Pour de l'argent.
+
+**** *book_ *id_II04 *act_II *date_1721
+
+-*who_lhotesse
+      Joignons-le. Ah ! Mon frère ! J'accours...
+
+-*who_glacignac
+Ton frère !
+
+-*who_valere
+      Elle nous perd.
+
+-*who_lhotesse
+      Oui, monsieur est mon frère,
+Frère de lait, s'entend; tous deux la même mère,
+Mère nourrice.
+
+-*who_glacignac
+      Eh donc ! La soeur d'un Damis faux !
+Immobilés tous deux ! Jé vous fixe en deux mots ;
+Jé vous pétrifie.
+
+-*who_damis
+      Oui.
+
+-*who_glacignac
+      Vous vif commé salpêtré,
+Monsieur, vivacité dont on n'est pas lé maîtré ;
+Jé vous ai vu tantôt très vif, vu dé mes yeux
+Parler très vivement à la veuvé ; et tant mieux,
+Tant mieux, que vous aimiez cette veuvé charmanté.
+Je vous protégerai contre la présidenté.
+Liguons-nous pour punir l'injustice qu'elle a.
+Dépétrifiez-vous, jeune amant, touchez là.
+
+-*who_valere
+Quel bonheur !
+
+-*who_glacignac
+      Commençons par vous rendre la somme
+Que j'ai prisé par jeu, pour révirer votre hommé.
+J'emprunte en badinant, mais jé rends tout dé bon ;
+Car en ce cas, mon cher, jé né suis point Gascon.
+
+-*who_damis
+L'honnête homme !
+
+-*who_glacignac
+      Soyons amis à touté épreuvé.
+
+-*who_valere
+De tout mon coeur.
+
+-*who_glacignac
+      Voici votre adorable veuve.
+Jé vous laissé tous trois suivré, votré projet :
+Pour votré sûrété, moi, j'aurai l'oeil au guet.
+
+-*who_valere
+Que ce projet sera difficile à conduire !
+
+**** *book_ *id_II05 *act_II *date_1721
+
+-*who_lhotesse
+De ce qu'on lui cachait il est temps de l'instruire.
+
+-*who_valere
+Elle ne sait donc pas que c'est un faux époux ?
+
+-*who_lhotesse
+Non, elle s'en croit deux, deux, qu'en rêvant à vous,
+Elle donne, je crois, de tout son coeur au diable.
+
+-*who_valere
+Dissipons promptement le chagrin qui l'accable.
+
+-*who_laveuve
+Ce mari qui m'avait trahie en cent façons
+Il faut donc le revoir ? Il le faut bien, allons....
+
+-*who_lhotesse
+Faut-il, quand un mari de l'autre me délivre,
+Qu'il ne m'en puisse pas délivrer sans revivre ?
+
+-*who_valere
+Suspendez vos chagrins.
+
+-*who_laveuve
+      Valère, laissez-moi.
+Eh ! Ne voyez-vous pas mon mari ?
+
+-*who_lhotesse
+      Non, ma foi.
+
+-*who_valere
+Reprenez vos esprits, rassurez-vous, madame.
+
+-*who_lhotesse
+Laissez-la dans l'erreur. J'aime à voir que sa femme
+Nous prouve qu'il pourra tromper nos gens.
+
+-*who_valere
+      Oui ; mais
+Elle souffre.
+
+-*who_lhotesse
+      On en a plus de plaisir après.
+
+-*who_valere
+Ce n'est point là Damis, madame.
+
+-*who_laveuve
+      Quoi ? Qu'entends-je ?
+
+-*who_lhotesse
+Ce n'est point le défunt, ni prenez plus le change.
+
+-*who_laveuve
+Ah ! Quelle ressemblance !
+
+-*who_damis
+      En cette occasion,
+Je ne serai mari qu'avec discrétion.
+
+-*who_laveuve
+Le même son de voix !
+
+-*who_lhotesse
+      Quelque épouse rusée,
+Quelque femme de bien à conscience aisée,
+S'y tromperait exprès pour t'aimer par devoir.
+
+-*who_valere
+Ne perdons point le temps.
+
+-*who_laveuve
+      Faites-moi donc savoir
+Votre dessein.
+
+-*who_valere
+      Il est très simple. On va se plaindre,
+Blâmer le Président, le presser, le contraindre
+À rendre votre dot, à biffer le contrat :
+Par avance je viens d'intimider ce fat.
+
+-*who_laveuve
+Quoi donc ! Il va le voir, lui parler ! Ah je tremble !
+
+-*who_damis
+Oubliez-vous déjà qu'à Damis je ressemble ?
+Apprenez que d'ailleurs j'ai su tous ses secrets.
+Vous voyez son esprit en moi, comme ses traits.
+Je fus pendant deux ans son ami de voyage.
+Lorsqu'il s'embarqua même au temps qu'il fit naufrage,
+Il me laissa gardien d'un nombre de papiers,
+Contrats, titres, journaux, modestes sottisiers,
+Libelles médisants, surtout contre ses proches,
+Contrat de mariage ; enfin j'ai plein mes poches
+De tout ce que j'ai cru me devoir au besoin
+Servir à tout venant de preuve, et de témoin :
+Je ferais son histoire à sa famille en face ;
+Et l'histoire en défaut, le roman la remplace.
+Si Damis, en un mot, revenait aujourd'hui,
+Je lui soutiendrais, moi, morbleu, que je suis lui.
+
+-*who_valere
+Jouez bien votre jeu, le Président s'avance.
+Je cours le rejoindre.
+
+**** *book_ *id_II06 *act_II *date_1721
+
+-*who_laveuve
+      Ah ! Vous risquez trop, je pense,
+
+-*who_lhotesse
+Feignons de ne point voir qu'il nous voit.
+
+-*who_damis
+      Tenez bon.
+Hé ! Ne tient-il, morbleu, qu'à demander pardon,
+Quand d'infidélité vous êtes convaincue ?
+Redoutez ma fureur.
+
+-*who_laveuve
+      Fureur mal entendue ;
+C'est sur le Président, qui disposait de moi,
+Qu'elle doit retomber.
+
+-*who_lhotesse
+      Fort bien, fort bien ! Ma foi
+Riposter prestement, c'est un talent femelle.
+
+-*who_damis
+Quoi ! C'est le Président qui vous rend infidèle ?...
+
+-*who_valere
+N'avancez pas, laissons passer cette fureur.
+
+-*who_damis
+Ce Président rend donc public mon déshonneur ?
+J'entends le vaudeville, et tout Marseille crie :
+Tu sois le bienvenu, ta femme se marie.
+Ventrebleu !
+
+-*who_lhotesse
+      Mais, monsieur, des gens nous avaient dit
+Qu'ils vous avoient vu mort.
+
+-*who_damis
+      Eh ! Vous l'avais-je écrit ?
+
+-*who_lepresident
+Toujours mauvais plaisant, voilà son caractère.
+
+-*who_damis
+Me faire un tel affront... et par devant notaire !
+
+-*who_laveuve
+Je n'y puis plus tenir.
+
+-*who_lhotesse
+      Séparez-vous en paix,
+Du moins.
+
+-*who_damis
+      Nous y vivrons ne nous voyant jamais.
+
+-*who_laveuve
+Près de ma tante allons chercher un sûr asile,
+
+-*who_damis
+Me voilà demi veuf.
+
+**** *book_ *id_II07 *act_II *date_1721
+
+-*who_lepresident
+      Le voilà plus tranquille ;
+Avançons.
+
+-*who_valere
+      Je vous laisse.
+
+-*who_lepresident
+      Ah ! Ne me quittez pas.
+
+-*who_damis
+N'ayez pas peur, monsieur ; j'ai pour les magistrats
+Déférence, respect...
+      Mais rancune tenante,
+Car ventrebleu !...
+
+-*who_lepresident
+      Monsieur, en affaire importante,
+Quoique de conseils, moi, je n'aie pas besoin,
+En décidant j'admets un ami pour témoin.
+
+-*who_damis
+Pour juge même, soit; j'aime un juge d'épée,
+Il expédie en bref : au fait, dot usurpée...
+Contrat de mariage en main... mari très prompt.
+Lisez... comptons... rendez... reste à venger l'affront.
+
+-*who_valere
+Il n'est point question d'affront, ni de vengeance.
+Monsieur le Président veut ici ma présence,
+Pour n'avoir avec vous nulle discussion :
+Un mot finira tout sans bruit, sans passion.
+Monsieur déjà fâché, qu'à tort chacun le blâme
+De vouloir disposer des biens de votre femme,
+Veut les rendre.
+
+-*who_lepresident
+      Oui, monsieur, non qu'on ait peur de vous ;
+Mais je veux dissiper les faux bruits.
+
+-*who_damis
+      Mon courroux
+Sur ce premier article avec raison s'apaise ;
+Passe pour revenir, et c'est par parenthèse
+Que j'accepte votre offre, et que je suis content:
+J'interromps mon courroux, monsieur le Président,
+Par raison, par égards pour votre caractère :
+Mais, morbleu, je reprends le fil de ma colère,
+En pensant qu'il existe un diffamant contrat ;
+Chacun l'a vu signer, ma honte a fait éclat.
+Au gré de l'offensé, l'offense se répare ;
+Chacun a là-dessus son faible ; moi bizarre,
+Délicat sur l'affront, pour le laver, je veux
+Lacérer en public ce contrat scandaleux.
+
+-*who_lepresident
+Caprice en effet ; car de lui-même il s'annule,
+Vous vivant.
+
+-*who_valere
+      Il est vrai, caprice ridicule.
+Vous lui devez pourtant ce bizarre plaisir ;
+Vous aviez un peu tort.
+
+-*who_lepresident
+      Contentons son désir.
+C'est minutie au fond qui m'est indifférente.
+À l'égard de la dot, je la livre à la tante,
+Et non pas à vous ; car par mon autorité,
+Pour mettre les débris des biens en sûreté,
+Je vous fis séparer.
+
+-*who_damis
+      Séparer ! Autre injure
+Qu'on me fit, moi parti, mais par chicane pure.
+Est-ce que l'on sépare un mari par défaut ?
+À certains magistrats... oui, c'est là ce qu'il faut ;
+Ils savent, profitant de ce qui nous afflige,
+Mettre, ainsi que nos biens, nos femmes en litige.
+
+-*who_valere
+C'est un reste de fiel, excusez.
+
+-*who_damis
+      Notre dot,
+Du moins, si je mourrais, n'ira plus à ce sot,
+Frère de votre femme : avec horreur je pense
+Qu'il puisse avoir par vous ma femme en survivance.
+
+-*who_valere
+Vous voilà donc d'accord ?
+
+-*who_lepresident
+      Je vais prendre là-haut
+Le contrat, les billets, enfin ce qu'il vous faut.
+Messieurs, entrez toujours dans la salle prochaine :
+Je vous joins à l'instant.
+
+-*who_damis
+      Je renonce sans peine
+À la dot, car sur mer je gagne assez d'argent.
+Le désir de vengeance est un désir urgent,
+Contentons-le. J'irai joindre après ma chaloupe ;
+Heureux qui fuit sa femme avec le vent en poupe !
+
+**** *book_ *id_II08 *act_II *date_1721
+
+-*who_lepresident
+J'ai bien mené ceci, prudence, fermeté,
+Prévoyant tout, en tout de la formalité,
+Suivant exactement les lois les plus sévères.
+J'admire mon talent pour les grandes affaires,
+Prononçant, décidant, je suis content de moi.
+
+**** *book_ *id_II09 *act_II *date_1721
+
+-*who_lapresidente
+Il faut approfondir un peu ce que je vois.
+Je vous cherche partout.
+
+-*who_lepresident
+      Je vous cherche de même.
+
+-*who_lapresidente
+Je n'ai point respiré depuis le trouble extrême
+Que m'a causé tantôt ce grand événement.
+Enfin j'ai réfléchi de sang-froid, mûrement ;
+Mais qu'a produit la peur que vous a fait Valère ?
+
+-*who_lepresident
+J'ai sans m'intimider, en traitant cette affaire,
+Gardé le décorum, et parlé hautement.
+Je vais livrer la dot à la tante.
+
+-*who_lapresidente
+      Comment ?
+
+-*who_lepresident
+Je crois avoir bien fait, parlez.
+
+-*who_lapresidente
+      Que puis-je dire ?
+Dès que vous décidez, c'est à moi de souscrire.
+
+-*who_lepresident
+D'accord; mais vous devez m'approuver amplement.
+
+-*who_lapresidente
+Je me tais.
+
+-*who_lepresident
+      Je veux, moi, je veux absolument
+Que vous parliez.
+
+-*who_lapresidente
+      Parlons, mais par obéissance.
+Ne livrez rien encor.
+
+-*who_lepresident
+      C'est ce que par prudence,
+J'avais déjà tout seul d'abord imaginé.
+
+-*who_lapresidente
+Suspendez...
+
+-*who_lepresident
+      Oui, j'étais déjà déterminé.
+À suspendre pour....
+
+-*who_lapresidente
+      Pour approfondir un doute.
+
+-*who_lepresident
+Ce doute m'est venu : parlez, je vous écoute.
+
+-*who_lapresidente
+Quelqu'un m'a dit tout bas qu'il croit ce Damis faux.
+
+-*who_lepresident
+J'en ai quelque soupçon, il m'a dit certains mots...
+
+-*who_lapresidente
+Il faut dissimuler, l'affaire est délicate.
+
+-*who_lepresident
+C'est ce que je vous dis ; avant que l'on éclate,
+Je suis d'avis de... de...
+
+-*who_lapresidente
+      Pour approfondir mieux
+Des faits, qui là-dessus m'ont fait ouvrir les yeux;
+Laissez-moi seule agir sur ce que je soupçonne.
+
+-*who_lepresident
+Oui, ma femme, agissez seule, je vous l'ordonne.
+
+**** *book_ *id_II10 *act_II *date_1721
+
+-*who_lapresidente
+Je joue ici gros jeu; car si c'est ce Damis,
+Qui devint le plus grand de tous mes ennemis,
+Après avoir été sa trop crédule amante,
+S'il savait que c'est moi qui suis la Présidente,
+Il me perdrait d'honneur, pour se venger de moi...
+Le parti que je prends est le plus sûr, je crois.
+Sous un nom étranger à Damis annoncée,
+Je pourrai m'éclaircir, le voir coiffe baissée ;
+Si c'est lui, livrons tout, il n'y faut plus songer;
+Et si ce n'est pas lui, j'éclate sans danger.
+
+**** *book_ *id_III01 *act_III *date_1721
+
+-*who_damis
+On ne vient point finir, ce contretemps m'étonne.
+Me soupçonnerait-on ? Pour peu qu'on me soupçonne,
+Ma foi, pour esquiver, regagnons notre esquif ;
+Ravoir la dot pourtant, c'est le point décisif ;
+S'ils me vont disputer mon nom, ferai-je face ?,
+Voyons ; car j'ai tantôt gagné la populace ;
+Mais au moindre revers je ne m'y fierais plus.
+La faveur populaire est un flux et reflux,
+Tantôt blâme excessif, tantôt louange outrée.
+À Damis avec joie ils ont fait une entrée ;
+Avec joie ils verraient leur Damis au carcan.
+
+**** *book_ *id_III02 *act_III *date_1721
+
+-*who_lapresidente
+Il me paraît Damis, mais assurons-nous-en ;
+Pour l'observer de près, et n'être point connue,
+Parlons-lui coiffe basse.
+
+-*who_damis
+      Oui, cette dot reçue,
+Je disparaîtrais... Mais on m'examine fort.
+Que me veut cette femme ? Évitons son abord.
+Mais je ne puis rentrer, elle barre la porte.
+
+-*who_lapresidente
+Ce n'est pas lui.
+
+-*who_damis
+      Morbleu, faisons du moins en sorte
+D'éluder l'embarras du questionnement.
+
+-*who_lapresidente
+Monsieur, j'aurais besoin d'un éclaircissement,
+Je voudrais bien savoir...
+
+-*who_damis
+      Avant de vous entendre,
+Madame, je voudrais d'abord par vous apprendre...
+
+-*who_lapresidente
+Répondez-moi d'abord.
+
+-*who_damis
+      Je vous réponds après.
+
+-*who_lapresidente
+Répondez-moi, monsieur, d'abord sur quelques faits;
+
+-*who_damis
+Dites-moi si...
+
+-*who_lapresidente
+      Parler tous deux, c'est se confondre ;
+Tous deux questionner, au lieu de se répondre.
+Je veux sur une affaire un éclaircissement;
+Écoutez-moi, je vais m'énoncer clairement.
+
+-*who_damis
+Souffrez que le premier clairement je m'énonce.
+
+-*who_lapresidente
+Par politesse au moins, d'abord une réponse.
+
+-*who_damis
+Sachons....
+
+-*who_lapresidente
+      C'est éluder un peu grossièrement.
+
+-*who_damis
+Je n'élude point ; c'est que naturellement
+En conversation je prends mon avantage.
+Chacun a pour briller ses talents en partage.
+Tel, en répondant juste à chaque question,
+Fait voir modestement son érudition :
+À bien questionner moi je mets ma science.
+
+-*who_lapresidente
+N'oser répondre, c'est marquer sa défiance,
+Ou c'est me mépriser ; car au premier venu
+Vous contez, racontez ce que vous avez vu
+En voyageant.
+
+-*who_damis
+      D'accord ; mais las de verbiages,
+Je vais faire imprimer ma vie et mes voyages,
+Qui se vendront chez Jean Gilles Josse, à Lyon ;
+Vous pourrez acheter toute l'édition.
+
+-*who_lapresidente
+En plaisantant ainsi vous croyez m'éconduire:
+Mais si sur deux points seuls vous ne daignez m'instruire,
+Je ne vous quitte point, je vous suivrai partout.
+Je suis femme obstinée, et je vous pousse à bout.
+
+-*who_damis
+S'il s'agit de deux mots, je suis civil, honnête,
+Et pour les dames j'ai toujours réponse prête.
+
+-*who_lapresidente
+Répondez donc.
+
+-*who_damis
+      Parlez, je réponds, si je puis.
+
+-*who_lapresidente
+Je voudrais bien savoir de vous....
+
+-*who_damis
+      Quoi ?
+
+-*who_lapresidente
+      Qui je suis ?
+
+-*who_damis
+Qui vous êtes ? Parbleu ! Vous devez vous connaître.
+
+-*who_lapresidente
+Voyez, examinez, rêvez qui je puis être.
+Mon autre question, c'est de vous demander
+Qui vous êtes ?
+
+-*who_damis
+      Fort bien. C'est fort bien préluder !
+Jamais femme n'a fait questions plus sensées,
+Plus précises surtout, ni moins embarrassées...
+
+-*who_lapresidente
+J'y pourrais mettre encor plus de précision.
+Un seul mot de deux points fait la décision ;
+Dites-moi qui je suis, je saurai qui vous êtes.
+
+-*who_damis
+Toutes vos questions sont sentences complètes :
+Vous m'inspirez, madame, une estime pour vous,
+Un désir de lier connaissance entre nous.
+
+-*who_lapresidente
+C'est dire, que jamais elle ne fut liée.
+
+-*who_damis
+C'est dire que l'on peut vous avoir oubliée :
+Je vous remets pourtant, cette bouche, ces yeux...
+Un certain assemblage, et noble et gracieux...
+Mais dans trois ou quatre ans j'ai vu dans mes voyages,
+En femmes seulement, vingt milliers de visages ;
+Ils sont tous gravés là ; mais quoi ? Vous savez bien
+Que le plan d'un cerveau n'est pas plus grand que rien.
+Tous ces portraits y sont peints les uns sur les autres.
+Tant de traits différents, mêles avec les vôtres,
+Font un brouillamini que je débrouillerai ;
+Et tantôt à coup sûr je vous reconnaîtrai.
+Mais j'ai pour le présent une affaire pressée.
+
+-*who_lapresidente
+N'éclatons pas d'abord ; mais en femme sensée,
+En démasquant le fourbe, assurons-nous de lui,
+Pour pouvoir achever notre noce aujourd'hui.
+
+**** *book_ *id_III03 *act_III *date_1721
+
+-*who_damis
+La voilà partie. Ah ! Ceci me déconcerte.
+Monsieur de Glacignac, la trame est découverte.
+
+-*who_lhotesse
+Je ne le sais que trop; je suis au désespoir.
+La prude soupçonnait, elle a voulu te voir.
+
+-*who_damis
+Quoi ! C'est la Présidente ?
+
+-*who_glacignac
+      Elle-même.
+
+-*who_damis
+      Qu'entends-je ?
+
+-*who_glacignac
+Paix, né mé troublés pas ; là-dessus jé m'arrange.
+
+-*who_damis
+Sur quoi ?
+
+-*who_glacignac
+      Tu m'as montré ces papiers dé Damis,
+Ces journaux, qu'en mourant lé défunt t'a rémis.
+
+-*who_damis
+Eh bien ?
+
+-*who_lhotesse
+      Sur ces papiers, quelle est votre espérance ?
+
+-*who_damis
+Parlez donc.
+
+-*who_lhotesse
+      Hâtons-nous.
+
+-*who_glacignac
+      Jé pense et je répense...
+
+-*who_damis
+Mais je suis découvert ; pensez donc promptement;
+
+-*who_glacignac
+Les expédients sûrs mé viennent lentément ;
+Mais nous aurons main forté, en tout cas.
+
+-*who_damis
+      Ah ! Je tremble.
+
+-*who_glacignac
+À mon égard je suis tranquille, cé mé semblé ;
+Au sujet dé Damis, si l'on m'inquiétait,
+Jé dirais bonnément : j'ai cru qué cé l'était ;
+Vous né pourriez pas vous, diré, jé croyais l'être.
+
+-*who_damis
+Vraiment, non. C'est pourquoi, moi, je veux disparaître.
+
+-*who_glacignac
+Révoyons ces papiers, ces lettres du défunt.
+
+-*who_damis
+Tenez ; mais je n'ai vu parmi ces noms d'emprunt
+Aucun de ceux, qu'a pris jadis la Présidente.
+
+-*who_lhotesse
+Damis fut son amant pourtant, chose constante.
+
+-*who_glacignac
+Lisons tranquillement.
+
+-*who_damis
+      Lisez, mais hâtez-vous.
+
+-*who_glacignac
+Voici bien des billets, jé veux les liré tous
+À mon aisé.
+
+-*who_damis
+      Morbleu ! Mais nul nom de la prude.
+
+-*who_lhotesse
+Il faut voir. Ce doit être à tous trois notre étude
+Selon ceux qu'elle aimait, en changeant de pays,
+Elle changeait d'état, de nom, comme d'habits :
+En intrigues d'amour, ce fut un vrai Protée.
+
+-*who_damis
+Moi, j'ai vu du défunt chaque intrigue cotée
+Sur son journal galant.
+
+-*who_lhotesse
+      Moi, je sais quelques faits.
+Voyons s'ils cadreraient au journal, aux billets.
+N'y trouverions-nous point une modeste Hortense
+Qui gagnait tous les coeurs par sa fine innocence,
+Quand les filles encor plaisaient par la pudeur ?
+
+-*who_damis
+Damis était du goût d'à présent, par malheur ;
+Sur son journal galant je n'ai point vu d'Hortense.
+
+-*who_lhotesse
+De ce Protée en fille, autre histoire : en Provence,
+Sur mer, on lui donnait une fête, un cadeau,
+Opéra, dieux marins, mascarade sur l'eau ;
+Elle y faisait Thétis ; il survint un orage ;
+Tout enfonce, un Triton la prend sur son dos, nage,
+Et veut, toujours nageant, promesse d'épouser ;
+Elle était fière ; mais comment le refuser ?
+Il peut par désespoir se noyer avec elle :
+J'épouse, sauvez-moi, dit enfin la cruelle.
+Mariage dans l'eau, qui ne tint pas, dit-on.
+
+-*who_damis
+Je rêve.... Non, Damis ne fut point ce Triton ;
+Du moins dans son journal je n'en ai point de note.
+
+-*who_lhotesse
+Attendez, attendez : la prude eut la marotte
+Jadis de ces romans, dans le goût pastoral...
+
+-*who_damis
+Ah ! Sur ce ton, j'ai vu des traits dans mon Journal.
+
+-*who_lhotesse
+En Provence autrefois, mascarades champêtres,
+Nos amants en bergers chantaient au pied des Hêtres,
+Et Tirsis et Silvie, et Damon et Philis...
+
+-*who_glacignac
+Jé vois dans cé billet du Damon.
+
+-*who_lhotesse
+      Où ?
+
+-*who_glacignac
+      Tiens, lis.
+L'écrituré sans doute est dé la Présidenté,
+Je la connais.
+
+-*who_damis
+      Lisons ; est-elle convaincante ?
+
+-*who_lhotesse
+Non, voyons l'autre : oui, c'est son écriture aussi ;
+Car elle a devant moi fait une liste ici
+Des priés pour la noce.
+
+-*who_damis
+      Ah ! Parbleu je respire.
+
+-*who_lhotesse
+Cette lettre vaut bien la peine de la lire.
+
+-*who_damis
+Je n'aurais jamais pu deviner sans vous deux...
+
+-*who_lhotesse
+Dans celle-ci Damon est encore amoureux ;
+Voyons l'autre. Ah, ma foi ! Damon cesse de l'être;
+Parce qu'on l'a rendu trop tôt heureux peut-être.
+Justement ! On s'en plaint en champêtre jargon,
+La fidèle Silvie au volage Damon.
+Hon !
+Hon !
+Traître, parjure, tu dis que les bergers délicatement amoureux s'offensent du mot de contrat ; mais ce contrat, ne me le promis-tu pas, lorsque ta délicatesse exigea de la mienne que le don libre de nos coeurs précédât la signature ?
+Que la signature le suive donc, ingrat ; que Damon et Silvie, après avoir suivi la loi des bergers, subissent enfin la loi du contrat ?
+
+-*who_damis
+Je tirerai parti de ce billet lyrique.
+
+-*who_lhotesse
+Il faut voir en secret cette Silvie antique :
+Qui de nous la verra ?
+
+-*who_glacignac
+      Cé né peut être moi ;
+Ellé croirait...
+
+-*who_lhotesse
+      Voyez là-bas, je l'aperçois.
+
+-*who_damis
+Est-elle seule ?
+
+-*who_lhotesse
+      Oui.
+
+-*who_damis
+      Bon. Je risque l'abordage.
+Faites le guet, pendant que je la contregage.
+
+-*who_lhotesse
+Oui ; car en cas d'alarme on le ferait sauver.
+
+-*who_glacignac
+Comptez sur nous.
+
+**** *book_ *id_III04 *act_III *date_1721
+
+-*who_damis
+      Allons ; mais qui la vient trouver ?
+Ah ! C'est le Président : morbleu, si je retarde,
+Il ne sera plus temps peut-être... on me regarde...
+On vient à moi... risquons. Oui, le mari présent
+Rendra le coup plus vif, plus fort et plus pressant.
+
+-*who_lepresident
+Mais en public du moins je veux qu'il se rétracte.
+
+-*who_lapresidente
+Vous pourriez le punir ; votre justice exacte
+Cède à votre bonté pour éviter l'éclat ;
+Mais soyez sûr, monsieur, que c'est un scélérat :
+Non, ce n'est point Damis, ce n'est qu'un fourbe insigne.
+
+-*who_lepresident
+Qu'apprends-je ici, monsieur ? Jouer un rôle indigne !
+
+-*who_damis
+Je respecte l'arrêt que madame a donné ;
+Je me tiens criminel, si je suis condamné
+Par la plus pénétrante et la plus équitable,
+Par la plus vertueuse et la plus respectable...
+En un mot, je souscris à sa décision :
+Mais la prenant pour juge avec soumission,
+Je puis, sans l'offenser, récuser sa mémoire.
+Vous souvient-il d'un fait, (il est à votre gloire)
+Sur lequel j'ai reçu plusieurs lettres de vous ?
+
+-*who_lapresidente
+De moi, monsieur ?
+
+-*who_lepresident
+      Non, non ; vous vous moquez de nous :
+Jamais autre que moi n'eût lettres de ma femme.
+
+-*who_damis
+Celles que j'ai, monsieur, font honneur à madame.
+
+-*who_lapresidente
+Vous avez dites-vous ?...
+
+-*who_damis
+      Belles moralités,
+Lettres de votre main, par où vous m'exhortez
+À réformer mes moeurs sur quelque bon modèle.
+Madame... à ses devoirs ne borne point son zèle ;
+Elle se charge encor de la vertu d'autrui.
+
+-*who_lepresident
+Monsieur vous connaît bien, j'en conviens avec lui.
+
+-*who_damis
+Bien mieux qu'elle ne croit.
+
+-*who_lapresidente
+      Ouais ! Que voudrait-il dire ?
+
+-*who_damis
+Je ris de souvenir, vous-même en allez rire,
+Quand je vous aurai dit à quelle occasion
+Madame m'écrivit une exhortation.
+En amour j'étais vif, folâtre en mon jeune âge;
+Mais à présent... ma foi, je ne suis pas plus sage.
+J'étais donc scélérat assez passablement ;
+Ah ! Madame, j'étais un scélérat charmant.
+Je devins le Damon... de certaine... Silvie...
+Nous goûtions les douceurs d'une champêtre vie.
+Rien que de pastoral dans notre passion ;
+Toujours traitant l'églogue eu conversation.
+C'étaient ardents soupirs dans un sombre bocage,
+De gazouillants ruisseaux, rossignols, doux ramage,
+Musettes, verts gazons, houlettes, chalumeaux,
+Bergères et bergers dormant sous les ormeaux,
+Oubliant leurs moutons épars dans la prairie ;
+Tendres galimatias, jargon de bergerie,
+Délicats sentiments, tirant sur la fadeur :
+En vrai Damon ainsi j'exprimais mon ardeur,
+Lorsque sur cette intrigue innocente et rustique,
+Une mère grossière, injuste et politique,
+Ignorant des bergers la naturelle loi,
+Voulut mettre un notaire entre Silvie et moi.
+Mais, comme un franc berger, moi j'envoyai tout paître.
+Le Président, à la Présidente.
+Ce récit paraît franc, nous nous trompons peut-être.
+
+-*who_damis
+De Silvie en ce temps prenant les intérêts,
+Madame m'exhorta par cinq ou six billets...
+Il donne une lettre à la Présidente.
+Si malgré celui-ci votre oubli continue,
+Par d'autres à l'instant vous serez convaincue.
+J'en puis encor montrer d'autres plus éloquents,
+Bien plus forts en morale, en un mot convaincants.
+
+-*who_lepresident
+En morale toujours ma femme sut écrire.
+Elle a fait des recueils qu'on est charmé de lire.
+Montrez-moi ce billet.
+
+-*who_lapresidente
+      Je m'en garderai bien,
+
+-*who_lepresident
+Pourquoi donc ?
+
+-*who_lapresidente
+      Le secret d'autrui n'est pas le mien.
+Cette jeune Silvie est ici dévoilée.
+
+-*who_lepresident
+Voilà toujours ma femme, avec excès zélée.
+Montrez-moi ce billet.
+
+-*who_lapresidente
+      Le voilà déchiré.
+
+-*who_damis
+Quel dommage, monsieur ! Vous l'auriez admiré.
+
+-*who_lepresident
+J'eusse été curieux de le voir.
+
+-*who_damis
+      J'en ai d'autres,
+Madame, et j'ai gardé les miens avec les vôtres;
+J'ai les brouillons de ceux que je vous écrivais :
+Tâchant de mériter ceux que je recevais.
+Je relisais les miens, j'y faisais cent ratures,
+Pour les faire imprimer avec mes aventures.
+
+-*who_lapresidente
+Oui, plus je l'examine avec attention,
+Plus je vois mon erreur, mon indiscrétion.
+Que vos traits sont changés ! C'est une chose étrange,
+Qu'un petit nombre d'ans, hélas si fort nous change.
+
+-*who_damis
+Mon aimable Silvie est bien changée aussi.
+
+-*who_lapresidente
+Par sagesse, monsieur conduisait tout ceci
+Sans éclat, mieux que moi. J'avais été trop prompte;
+Pardon, vous méconnaître ! Ah ! Que j'en ai de honte !
+
+-*who_damis
+C'est moi qui suis honteux d'avoir vieilli si fort.
+
+-*who_lepresident
+C'est la première fois que vous avez eu tort,
+Ma femme.
+
+-*who_lapresidente
+      Obtenez donc de lui qu'il me pardonne ;
+
+-*who_damis
+Oh ! Suffit que madame ait la mémoire bonne.
+
+-*who_lapresidente
+Je remets à présent tous ses traits, je dis tous.
+
+-*who_lepresident
+Moi qui ne l'avais vu que très peu, croiriez-vous
+Que je retrouve aussi toute sa ressemblance ?
+
+-*who_lapresidente
+Çà, monsieur, il faut donc pour, réparer l'offense
+Qu'a pu faire à Damis mon injuste soupçon,
+Voir ce qu'il veut de nous, et lui faire raison.
+Par vous tantôt l'affaire était bien décidée :
+J'admire que toujours votre première idée
+Est la meilleure ! Car vous vouliez dès tantôt
+Tout mettre entre les mains de la tante.
+
+-*who_lepresident
+Il le faut.
+
+-*who_lapresidente
+      Allez prendre là-haut ce contrat qui le blesse.
+
+-*who_lepresident
+Oui.
+
+-*who_lapresidente
+      Les lettres de change.
+
+-*who_lepresident
+      Oui.
+
+-*who_lapresidente
+      Mais pour votre nièce
+Il faut qu'il ait aussi des égards, et je vais
+L'exhorter...
+
+-*who_lepresident
+      Exhortez-le à ne la voir jamais ;
+C'est ce qu'il peut de mieux.
+
+**** *book_ *id_III05 *act_III *date_1721
+
+-*who_lapresidente
+      Ce fourbe m'embarrasse.
+
+-*who_damis
+Elle craint à présent de me revoir en face.
+
+-*who_lapresidente
+D'où peuvent lui venir mes lettres ? Il faut bien
+Qu'il les ait de Damis...
+
+-*who_damis
+      Je ne risque plus rien.
+
+-*who_lapresidente
+Ménageons l'imposteur, gagnons-le pour mon frère.
+
+-*who_damis
+Quand on a de l'esprit on se tire d'affaire.
+
+-*who_lapresidente
+L'on n'en a pas besoin quand on est innocent.
+
+-*who_damis
+Il en faut pour le monde, il est si médisant
+
+-*who_lapresidente
+Je fermerai les yeux sur tout ce qui se passe,
+Mais vous m'accorderez une petite grâce :
+Pour me la refuser vous êtes trop sensé.
+
+-*who_damis
+Je fermerai les yeux sur ce qui s'est passé,
+Mais vous m'accorderez une grâce assez grande.
+
+-*who_lapresidente
+Accordez-moi d'abord ce que je vous demande.
+Vous avez dites-vous, d'autres lettres de moi ?
+
+-*who_damis
+En voici quatre ou cinq, madame.
+
+-*who_lapresidente
+      Je le vois.
+Sans vous faire prier, vous allez me les rendre.
+
+-*who_damis
+Oui, mais grâce pour grâce, et vous devez m'entendre.
+
+-*who_lapresidente
+Mais vous devez me craindre en cette occasion.
+
+-*who_damis
+Nous avons tous deux eu de la discrétion.
+Comme berger discret j'ai caché le mystère...
+
+-*who_lapresidente
+Et moi j'ai découvert que vous servez Valère ;
+J'entrevois vos projets, mais à force d'argent
+Puis-je les changer ?
+
+-*who_damis
+      Non ; je ne suis plus changeant.
+Parlons net : il me faut la veuve pour Valère ;
+Servez-le, votre honneur vous est plus cher qu'un frère;
+Votre sagesse enfin vous donne un ascendant
+Sur le coeur, sur l'esprit de ce bon Président ;
+Conservez-le.
+
+-*who_lapresidente
+      Il revient.
+
+-*who_damis
+      Soyez très complaisante ;
+Je vous rends vos billets, pourvu qu'on me contente,
+
+**** *book_ *id_III06 *act_III *date_1721
+
+-*who_lepresident
+Je ne me mêle plus de rien ; c'est son époux
+Qui laissera, s'il veut ; son épouse avec vous,
+Ou dans un couvent.
+
+-*who_damis
+      Moi, j'ai promis à madame
+De ne point exiger le couvent pour ma femme.
+
+-*who_lepresident
+Finissons. De nos faits nous sommes convenus ;
+Monsieur ; en bons billets voici cent mille écus ;
+Je les livre à ma soeur.
+
+-*who_lapresidente
+      Mes lettres ?
+
+-*who_damis
+      Patience.
+Le contrat ?
+
+-*who_lepresident
+      Et voici le contrat.
+
+-*who_damis
+      Ma vengeance
+Va donc se contenter : déchirons.
+
+-*who_lapresidente
+      Doucement :
+Il allait déchirer ce contrat brusquement
+Sans le voir. Il faut voir au moins ce qu'on déchire ;
+La confiance aveugle est blâmable.
+
+-*who_lepresident
+      J'admire,
+Que vous voulez qu'en tout on voie clair.
+
+-*who_damis
+      Voyons.
+
+-*who_lapresidente
+Mes lettres ?
+
+-*who_damis
+      Tout à l'heure.
+
+-*who_lepresident
+      Afin que nous partions,
+Voyez vite.
+
+-*who_lapresidente
+      Attendez.
+
+-*who_lepresident
+      Excès d'exactitude,
+D'ordre !
+
+-*who_damis
+      En donnant, donnant.
+
+-*who_latante
+      Que j'aime à voir la prude
+Au supplice !
+
+-*who_lepresident
+      Est-ce fait ?
+
+-*who_damis
+      Oui ; quand on a bien vu,
+On est beaucoup plus sûr.
+
+**** *book_ *id_III07 *act_III *date_1721
+
+-*who_glacignac
+      Il est bien réconnu
+Pour êtré vrai Damis, mon parent et lé vôtré :
+Lé nouvel époux fuit, un mari chassé l'autré.
+
+-*who_lapresidente
+Partons.
+      Puisse Damis faire votre bonheur !
+
+**** *book_ *id_III08 *act_III *date_1721
+
+-*who_lhotesse
+Bon ! Les voilà partis.
+
+-*who_valere
+      Ah ! Je n'ai plus de peur.
+
+-*who_latante
+Je puis donc à présent, comme tante et maîtresse,
+Par un nouveau contrat disposer de ma nièce.
+
+-*who_laveuve
+Me voilà donc à vous ?
+
+-*who_valere
+      Quel comble de bonheur !
+
+-*who_damis
+Oui, vous êtes heureux qu'une prude ait eu peur ;
+Contre ses intérêts qu'une prude réduite,
+Ait assez de pudeur pour masquer sa conduite ;
+Chose rare à présent ! L'on en trouve si peu,
+Qui prennent encor soin de bien cacher leur jeu.
+Tout bien considéré, franche coquetterie,
+Est un vice moins grand, que fausse pruderie.
+Les femmes ont banni ces hypocrites soins,
+Le siècle y gagne au fond, c'est un vice de moins.

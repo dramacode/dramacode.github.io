@@ -1,0 +1,235 @@
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Oreste et les furies</title>
+        <title type="sub">, mélodrame</title>
+        <author born="1752" born_location="Gard" death="1820" death_location="Paris" academie="">
+          <surname>Cubières-palmézeaux</surname>
+          <forename> Michel de</forename>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p>publié par Paul FIEVRE, avril 2014</p>
+        <idno/>
+      </publicationStmt>
+      <sourceDesc>
+        <genre>Mélodrame</genre>
+        <inspiration>mythe grec</inspiration>
+        <structure>Un acte</structure>
+        <type>prose</type>
+        <periode>1781-1790</periode>
+        <taille>(mesure non pertinente)</taille>
+        <permalien/>
+        <sources>
+          <source id="1">
+            <author/>
+            <text/>
+          </source>
+        </sources>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="created" when="1788-10-30"/>
+        <date type="issued" when="1786"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre">Mélodrame</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 xml:id="I" type="act" n="1">
+        <head/>
+        <div2 xml:id="I01" type="scene" n="1">
+          <head>SCÈNE PREMIÈRE. Oreste, Les Furies.<listPerson type="configuration" xml:id="conf1"/></head>
+          <sp xml:id="I01-1" who="ORESTE">
+            <p>
+              <s>J’ai beau prîer les Dieux, j’ai beau leur faire des sacrifices, rien ne les apaise, rien n’assoupit mes remords, rien surtout, rien n’éloigne de moi ces implacables furies, ce font les lois irrévocables du sort qui les enchaînent sur les traces des parricides... </s>
+              <s>Jamais elles ne me quitteront.</s>
+            </p>
+            <p>
+              <s>C’est Apollon qui me commanda ce meurtre, je suis dans son Temple, j’y suis venu pour l’implorer ; Apollon sera moins sourd que les autres Dieux.</s>
+            </p>
+            <p>
+              <s>Ô Apollon ! </s>
+              <s>Tu m’as ordonné de tuer ma mère. </s>
+              <s>J’ai traîné ma mère par ses longs cheveux sur la place où mon père avait péri, et j’ai plongé ce fer trois fois dans le sein de ma mère, je me suis purifié ensuite par le sang d’un jeune taureau que j’ai fait rejaillir sur moi ; toutes les cérémonies de l’expiation, je les ai suivies ; je dois être pur à tes yeux ; Apollon ! </s>
+              <s>Ô Apollon ! </s>
+              <s>Entends mes voux, délivre-moi des tourments qui me déchirent, délivre-moi surtout de l’aspect horrible de ces Divinités infernales.</s>
+            </p>
+            <p>
+              <s>J’ai beau l’invoquer à grands cris, il ne m’entend pas ou feint de ne pas m’entendre... </s>
+              <s>Eh ! </s>
+              <s>Que peut-il faite pour toi !... </s>
+              <s>Oreste, rentre en toi-même, interroge-toi, si tu l’oses : tu as tué ta mère !... </s>
+              <s>Ta mère !... </s>
+              <s>Les sages auteurs de nos lois n’ont point décerné de supplice contre ce crime n’imaginant pas que jamais un mortel pût s’en rendre coupable. </s>
+              <s>Monstre exécrable ! </s>
+              <s>Fils dénaturé ! Penses-tu que ds sacrifices, quelque nombreux qu’ils soient, puissent laver un pareil forfait ? </s>
+              <s>Penses-tu que le sang des victimes en rejaillissant sur tes habits et sur tes mains impies, y puisse effacer jamais les taches ineffaçables du sang d’une mère ? </s>
+            </p>
+            <p>
+              <s>Elle était criminelle, et les Dieux m’ont ordonné de  la punir. </s>
+              <s>Était-ce à toi, faible mortel, à venger les puissances célestes ! </s>
+              <s>Les Dieux n’ont-ils pas une foudre pour punir ceux qui les offensent ?... </s>
+              <s>Les Dieux t’ont voulu, éprouver sans doute... </s>
+              <s>Peuvent-ils commander le crime ? </s>
+              <s>Ils cesseraient d’être Dieux.</s>
+            </p>
+            <p>
+              <s>Haï des Dieux et des hommes, en horreur surtout à moi-même, que devenir ! </s>
+              <s>Mourons... </s>
+              <s>Ce poignard est teint encore d’un sang qui dût m’être sacré. </s>
+              <s>Mourons.... et que tout le mien se mêle a celui que j’ai répandu.</s>
+            </p>
+            <p>
+              <s>Pourquoi m’arrêtez-vous, impitoyables Déesses ? </s>
+              <s>Est-ce pour me faire mourir à chaque instant de ma vie, qu’en cet instant vous la prolonger ? </s>
+              <s>Ah ! </s>
+              <s>Plongez, plongez vous-mêmes ce fer dans, mon sein.</s>
+            </p>
+            <p>
+              <s>Inexorables Déesses ! </s>
+              <s>Laissez-vous fléchir une fois.</s>
+            </p>
+            <p>
+              <s>Elles lancent sur moi des regards où règnent à la fois le mépris et l’horreur. </s>
+              <s>On dirait... </s>
+              <s>On dirait qu’elles ont peur de moi : c’est le criminel d’ordinaire qui frémit à l’aspect de ses bourreaux, et mes bourreaux ; frémissent à ma vue.</s>
+            </p>
+            <p>
+              <s>Si du moins elles daignaient me répondre ! </s>
+              <s>J’ai beau, les interroger ; elles s’obstinent à se taire, et voilà mon plus cruel tourment. </s>
+              <s>Quelque effroyables que pussent être leurs discours, je me les figure cent fois plus effroyables encore. </s>
+              <s>Malheureux ! </s>
+              <s>Tant que tu vivras, nous serons sur ta trace : partout nous t’assiégerons de notre présence terrible et de nos regards plus redoutables que l’éclair et plus meurtriers que la foudre. </s>
+              <s>Lasses enfin de te poursuivre, nous nous jetterons sur toi, comme trois lionnes affamées, nous dévorerons tes membres, nous boirons ton sang, nous te précipiterons au fond du Tartare, et c’est là que, pour dernier supplice, tu habiteras éternellement avec les scélérats qui te ressemblent. </s>
+              <s>Voilà, voilà les menaces horribles que je crois sans cesse entendre sortir de leur bouche, souffrant ainsi sans cesse de tout ce qu’elles ne me disent pas, leurs paroles me tueraient sans doute, et leur silence, me laissant vivre, me tue bien davantage que si elles me faisaient mourir.</s>
+            </p>
+            <p>
+              <s>Mais il semble que leur fureur s’apaise. </s>
+              <s>Les voilà assises sur les marches de l’autel ; elles s’y endorment... </s>
+              <s>Si je les étouffais pendant leur sommeil ! </s>
+              <s>Si je les tuais, en les serrant dans mes bras homicides ! </s>
+              <s>Les tuer ! </s>
+              <s>Que dis tu ? </s>
+              <s>Elles sont immortelles. </s>
+              <s>Bourreau de Clytemnestre, tu ne parles que de tuer ; le meurtre est ton seul talent ; les assassinats sont tes jeux, 6c pour tes délassements, il te faut des parricides. </s>
+            </p>
+            <p>
+              <s>Quoiqu’inséparables des criminels, elles sont exemptes de crime, et Morphée ne  dédaigne point de rafraîchir leurs paupières... </s>
+              <s>Voyons si moi-même je pourrai goûter un peu de repos.</s>
+            </p>
+            <p>
+              <s>Quelle douce fraîcheur vient se mêler au feu qui me dévore ! </s>
+              <s>Le Ciel enfin s’apaiserait-il ? </s>
+              <s>Il semble qu’une rosée bienfaisante pénètre peu à peu mes vêtements : l’humidité de ce siège...</s>
+            </p>
+            <p>
+              <s>Dieux ! </s>
+              <s>Que vois-je ! </s>
+              <s>Il est tout couvert de sang. </s>
+              <s>C’est moi, c’est moi seul qui l’ai souillé de la sorte : je distille, je sue du sang ; c’est du sang que je vois partout ; au lieu d’air c’est du sang que je respire ; c’est du sang peut-être... </s>
+              <s>Oui, c’est du sang qu’il a plu sur moi. </s>
+              <s>Le Ciel peut-il avoir pour moi d’autre rosée ? </s>
+              <s>J’ai eu soif du sang de ma mère, et les Dieux me nourrissent, et les Dieux m’abreuvent de sang. </s>
+              <s>Fuyons, tandis qu’elles dorment, fuyons, et peut-être j’en serai délivré.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I02" type="scene" n="1">
+          <head>SCÈNE I.. Oreste, Les Furies.<listPerson type="configuration" xml:id="conf2"/></head>
+          <sp xml:id="I02-1" who="ORESTE">
+            <p>
+              <s>Elles dormaient quand j’ai fui... </s>
+              <s>Qui leur a pu découvrir ma trace ?</s>
+            </p>
+            <p>
+              <s>Ah ! </s>
+              <s>Le fil d’Ariane est moins sûr qu’un pareil indice : je ne puis faire un pas qui n’atteste que je suis un parricide. </s>
+            </p>
+            <p>
+              <s>Et vous Électre ! </s>
+              <s>Vous Pylade ! </s>
+              <s>Qui m’avez poussé avec les Dieux au meurtre de ma mère, à présent que le crime est commis, pourquoi me fuyez-vous ? </s>
+              <s>Pourquoi vous ai-je tendu, en vain mes bras ensanglantés ? </s>
+              <s>Pourquoi n’ai-je pu un moment vous serrer contre mon sein, et mourir dans le vôtre de l’excès de mes remords ? </s>
+              <s>Vous avez détourné la vue avec horreur, quand j’ai passé près de vous : si la foudre fut tombée à vos pieds, vous n’auriez pas montré plus d’effroi... </s>
+              <s>Ma rencontre est devenue funeste ; les Dieux ont imprimé sur mon front un signe de terreur, qui fait qu’il n’est point d’yeux mortels qui puissent soutenir ma présence. </s>
+              <s>Plus d’ami pour moi, plus, de soeur, plus de mère surtout, plus de mère : je suis seul dans l’Univers, seul... avec les Furies.</s>
+            </p>
+            <p>
+              <s>Mais pourquoi depuis mon forfait, la lumière semble-t-elle avoir été dérobée à ma vue ? </s>
+              <s>N’ayant point osé lever les yeux vers le Soleil, j’ignore s’il éclaire encore le monde ; les crimes de mes aïeux l’ont jadis fait reculer d’effroi ; a-t-il reculé pour les miens ? </s>
+              <s>Où ces filles de la nuit, en s’emparant de moi , m’ont-elles environné de leurs ténèbres ? </s>
+              <s>Un crêpe sanglant pèse sur mes paupières... </s>
+              <s>Deviendrais-je aveugle comme Tirésias ?... </s>
+              <s>Ah ! </s>
+              <s>Je serais trop heureux. </s>
+            </p>
+            <p>
+              <s>Où suis-je donc ? </s>
+              <s>Qui pourra m’apprendre en quels lieux je suis venu me réfugier, pour éviter leur poursuite ? Peut-être en examinant de près ces portiques...</s>
+            </p>
+            <p>
+              <s>Qu’aperçois-je ? </s>
+              <s>Ô découverte affreuse ! </s>
+              <s>Je suis dans le Palais des Rois d’Argos, dans le palais de mes pères... </s>
+              <s>Fuyons ; je ne puis, j’éprouve un charme horrible à me retrouver dans le lieu de ma naissance. </s>
+              <s>Les souvenirs les plus touchants viennent s’y retracer à ma mémoire et m’y retiennent malgré moi... </s>
+              <s>C’est ici qu’étant encore enfant, mon père me prit dans ses bras, et m’élevât vers les Cieux, m’offrit aux Dieux immortels, avant que de partir pour Troie. C’est là, qu’après une longue absence, Electre me reconnut, et que se livrant à sa joie, et me pressant des plus douces étreintes... </s>
+              <s>Ô souvenir délicieux, qu’empoisonne le souvenir le plus terrible.</s>
+            </p>
+            <p>
+              <s>Mais quelle lumière inconnue éclaire peu à peu ce Palais ? </s>
+              <s>Des flambeaux étincellent dans les mains des Furies... </s>
+              <s>Ah ! </s>
+              <s>C’est la clarté des Enfers mille fois plus affreuse que les ténèbres... </s>
+              <s>Le voile est tombé de mes yeux, qu’aperçois-je ?... </s>
+              <s>La place où... </s>
+              <s>Je frémis... </s>
+              <s>C’est-là que tombant à mes genoux et que me découvrant son sein, elle me dit : Ô mon fils ! </s>
+              <s>Mon cher fils ! </s>
+              <s>Perceras-tu ce sein qui t’a allaité ? </s>
+              <s>Ce sein qui t’a nourri ?... </s>
+              <s>Je crois voir encore ce sein disparaître tout-à-coup sous le sang qui l’inonde ; je crois voir ces traits défigurés, ces yeux éteints, ce front pâle.</s>
+            </p>
+            <p>
+              <s>Que vois-je, ô Dieux !... </s>
+              <s>Tout ce que j’ai cru voir... </s>
+              <s>L’illusion s’est réalisée... </s>
+              <s>Voilà ce front pâle, ces yeux éteints, ces traits défigurés, et ce sein caché encore sons le sang qui l’inonde... </s>
+              <s>Barbares Euménides ! </s>
+              <s>Ne m’avez-vous rendu la lumière que pour me montrer cet objet... </s>
+              <s>Vous vous plaisez à tourmenter ma vie par les images les plus terribles ; mais je saurai bien trouver la mort sans vous.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I03" type="scene" n="3">
+          <head>SCÈNE III, ET DERNIÈRE. Oreste, Les Furies.<listPerson type="configuration" xml:id="conf3"/></head>
+          <sp xml:id="I03-1" who="ORESTE">
+            <p>
+              <s>Rien ne pourra donc jamais me délivrer des Furies !... </s>
+              <s>J’ai couru après mon crime , me réfugier dans le bois consacré à la fille d’Inachus, et qui avoisine Mycènes, et les Furies m’ont suivi dans le bois consacré à la fille d’Inachus et qui avoisine Mycènes. </s>
+              <s>J’ai pénétré dans les Temples d’Apollon, de Junon et de Minerve, et les Furies m’ont suivi dans les Temples d’Apollon, de Junon et de Minerve. </s>
+              <s>Le Palais des Rois d’Argos m’a revu sous ses portiques, et les Furies m’ont suivi sous ses portiques. </s>
+              <s>Me voilà maintenant, sur des roches escarpées, errant de précipices en précipices et les Furies me suivent de précipices en précipices. </s>
+              <s>Neptune baigne de ses flots le pied de cette montagne : voyons si elles me suivront dans les flots de Neptune.</s>
+            </p>
+            <p>
+              <s>Soleil si tu peux te montrer, s’il est vrai que, de peur de me voir, tu aies voilé ton visage.</s>
+            </p>
+          </sp>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>

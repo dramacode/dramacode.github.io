@@ -1,0 +1,709 @@
+---
+identifier: laharpe_musesrivales  
+creator: La harpe Jean-François de  
+date: 1779  
+title: Les muses rivales. , comédie.  
+---
+
+
+LES MUSES RIVALES
+
+EN UN ACTE, ET EN VERS LIBRES.
+
+M. DCC. LXXIX. Avec Approbation et Privilège du Roi.
+
+PAR M. DE LA HARPE, DE L'ACADÉMIE FRANÇAISE.
+
+# Approbation. Le privilège est aux Oeuvres de l'auteur, de l'imprimerie de PRAULT, Imprimeur du Roi, Quai de Gêvres.À PARIS, Chez PISSOT, Libraire, Quai des Augustins.
+Représentée pour la première fois par les Comédiens Français, le 1er février 1779.
+À Madame DENIS,
+
+
+
+# Madame,.
+
+En payant ce tribut à la mémoire d'un grand homme qui m'honorait de son amitié, j'ai rempli le premier de mes devoirs. Je crois m'acquitter du second, en vous, offrant cette pièce que le nom de M. de Voltaire et le souvenir de ce qu'on lui devait, ont fait accueillir au Théâtre. Si ce triomphe que la reconnaissance publique a décerné à ses mânes, n'a pas suivi de plus près celui dont nous avons vu jouir les derniers jours de fa vieillesse, vous savez, MADAME, quels obstacles m'ont arrêté. Vous n'ignorez pas aujourd'hui que cette pièce a été composée peu de temps après que nous réunies perdu (Elle était entre les mains de M. le Comte d'Argental, dans les premiers jours de Septembre, et c'est ce respectable ami de M. de Voltaire qui sans connaître l'Auteur des Muses rivales, a bien voulu prendre tous les soins nécessaires pour la représentation de la Pièce.). Vous vous rappelez les circonstances qui ont suivi sa mort et quelle réserve elles m'imposaient. Il fallait attendre et se taire. La patience et le secret étaient d'une nécessité indispensable ; et si l'une devint ensuite pour moi d'un usage pénible, l'autre , que je portais dans mon coeur, servait à me consoler de tout.
+
+Cet hommage tout faible qu'il est en lui-même, intéressera sans doute la nièce de M. de Voltaire, celle qui fut trente ans sa compagne inséparable, et qui n'a point eu de sentiment plus cher et plus sacré que celui de la tendresse et de la vénération qu'elle lui portait. Personne n'a su mieux que moi, MADAME, combien les soins que vous aimiez à lui rendre, lui étaient précieux et nécessaires ; et qui peut ignorer qu'au milieu, des jouissances, de la gloire, on a souvent besoin des consolations de l'amitié ? On sait combien la vôtre fut active et courageuse. L'histoire de la vie de M. de Voltaire sera votre plus bel éloge, et vous rendra chère à tous ceux qui l'ont aimé. Une auguste souveraine qui lui avait donné les marques les plus flatteuses et les plus distinguées d'une bonté particulière y a cru ne pouvoir mieux honorer sa mémoire ; qu'en répandant les mêmes faveurs sur la plus tendre amie qu'il ait eue, sur celle qui a pris foin d'embellir la dernière moitié de sa longue carrière.
+
+C'est aux habitants de l'heureuse Colonie qu'il a fondée et qui le pleure, à rendre témoignage à vos vertus bienfaisantes : c'est à eux à publier tout le bien que vous y avez fait avec lui. Le dernier présent dont Ferney vous est. redevable, et le plus beau sans doute, c'est, MADAME, votre, charmante élève (Madame la Marquise de Villette à qui Ferney appartient aujourd'hui.), que vous leur avez donnée pour protectrice. Formée sous vos yeux, adoptée par leur bienfaiteur, combien elle doit leur être chère ! Combien ils doivent aimer cette bonté naturelle dont le sentiment est dans son âme, et l'expression dans tous ses traits ! La reconnaissance quelle vous conserve est le garant de leur bonheur, et c'est à elle y c'est à son heureux époux y d'achever l'ouvrage de M. de Voltaire, et le vôtre,
+
+Je suis avec un respect infini, MADAME,
+
+Votre très humble et très obéissant serviteur,
+DE LA HARPE.
+
+
+
+# PRÉFACE.
+
+Voici ce que dit un auteur Chinois, traduit en Espagnol par le célèbre Navarette.
+
+Si tu composes quelque ouvrage, ne le montre qu'à tes amis ; crains le public et tes confrères ; car on falsifiera, on empoisonnera ce que tu auras fait, et on imputera ce que tu n'auras pas fait. La calomnie, qui a cent trompettes, les fera sonner pour te perdre, tandis que la vérité, qui est muette, restera auprès de toi. Le célèbre Ming fut accusé d'avoir mal pensé du Tien et du Xi et de l'Empereur Vang. On trouva le vieillard moribond qui achevait le panégyrique de Vang, et un hymne au Tien et au Li, etc. Volt...
+
+
+# PERSONNAGES.
+ – APOLLON.
+ – MERCURE.
+ – MOMUS.
+ – URANIE
+ – ERATO
+ – CALLIOPE.
+ – CLIO.
+ – THALIE.
+ – MELPOMÈNE.
+ – EUPHROSINE.
+ – Les deux grâces, personnages muetsLa Scène est au Parnasse.
+
+
+# .
+
+
+## SCÈNE PREMIÈRE. Erato, Uranie.
+Le théâtre représente un Bocage orné de tous les attributs des Arts.
+
+
+    ERATO.
+C'est donc en ces beaux lieux, c'est dans ce sanctuaire,  
+Aux arts de tout temps consacré,  
+De leurs attributs décoré,  
+Que les Muses bientôt vont recevoir Voltaire.  
+Mercure qu'Apollon vient de lui dépêcher,  
+Déjà dans l'Elysée est allé le chercher.  
+Le puissant Dieu de l'harmonie  
+Sépare ce mortel heureux  
+De la foule des morts fameux,  
+Qu'il surpassa pendant sa vie.  
+Il l'appelle, et lui-même enfin  
+Lui veut assurer un destin  
+Unique, ainsi que son génie.  
+Il prodigua tous ses bienfaits  
+Sur ce rare écrivain que lui-même il admire ;  
+Il prétend parmi nous le fixer à jamais :  
+Avec lui du Parnasse il partage l'empire.  
+Mercure ici doit l'amener.   [1]
+Mais d'un hôte si grand digne dépositaire,  
+Qui de nous, ô ma soeur ! Présentera Voltaire  
+Au Dieu qui va le couronner ?  
+Nous briguons toutes cette gloire.  
+
+    URANIE.
+Nous l'avons toutes inspiré.  
+
+    ERATO.
+Mais à qui cet honneur sera-t-il déféré ?  
+Qui doit obtenir la victoire ?  
+
+    URANIE.
+De chacune de nous également chéri,  
+Notre divinité lui fut toujours propice.  
+
+    ERATO.
+Mais celle dont surtout il fut le favori,  
+Doit seule être sa conductrice.  
+
+    URANIE.
+Y prétendriez-vous ?  
+
+    ERATO.
+        Mais je crois le pouvoir,  
+Et j'ai bien quelques droits que je ferai valoir.  
+À l'Amour Erato préside ;  
+J'apprends à le chanter ; j'embrase de ses feux  
+L'auteur qui me prend pour son guide,  
+Et je me plais surtout aux amours malheureux.  
+Je transforme en poète un amant qui soupire ;  
+J'amollis sous ses doigts les cordes de sa lyre.   [2]
+De Tibulle autrefois j'ai recueilli les pleurs ;  
+De ses tendres, chagrins j'étais la confidente,:  
+Et seule je donnais à sa voix gémissante,  
+Ce charme que l'amour fait mêler aux douleurs.  
+Je permets quelquefois, par caprice ou par grâce,  
+À d'aimables voluptueux,  
+De m'intéresser à leurs jeux.   [3]
+Je fus assez souvent assise auprès d'Horace,  
+Quoiqu'il m'ait fait rougir un peu.   [4]
+J'aimais à répéter les chansons de Chaulieu,   [5]
+Et souris à l'esprit d'Ovide.   [6]
+Je cadençai les vers du sensible Quinault.  
+Aux bords de l'Eridan je pris un vol plus haut:   [7]
+Le Tasse eut mes crayons, quand il peignit Armide.  
+Deux Poètes surtout, deux chantres adorés,  
+De mes dons les plus beaux se virent honorés.  
+De grâce et de douceur je composai leur style.   [8]
+Au bûcher de Didon je transportai Virgile.  
+Dans ce tableau funeste il épuisa mon art;  
+Moi-même de mes pleurs, j'arrosai le poignard.   [9]
+Je le remis depuis dans, les mains de Racine ;  
+Erato fut sa muse, et ma faveur divine  
+En a fait mon élève, en a fait pour toujours  
+Le poète du coeur, le peintre des amours.  
+C'est au seul Apollon, ou bien à Melpomène  
+D'assigner à leur gré la palme de la scène.  
+Je ne décide point ; mais si l'on croit enfin  
+Ce sexe, de l'amour le Juge souverain,  
+Qui doit au sentiment et ses droits et ses charmes,  
+Si l'on en croit ses yeux embellis par les larmes ;  
+À tous mes titres les plus doux,  
+Voltaire en joignit un qui les surpasse tous,  
+Il fut porter plus loin les talents que j'inspire,   [10]
+Et pour qui sait aimer, mon chef-d'oeuvre est Zaïre.  
+
+    URANIE.
+Ce titre est assez beau ; mais, soit dit entre nous,  
+Croyez-vous donc que Melpomène  
+Ne le réclame pas sur vous ?  
+Pour moi, je ne suis pas si vaine,  
+Et l'austère Uranie aime peu les débats.  
+J'ai mes droits comme une autre, et ne veux rien prétendre.  
+Dans vos rivalités, dans tous ces vains éclats,  
+Je ne veux point me faire entendre.  
+C'est bien assez pour moi, parmi mes favoris,  
+D'avoir jadis compté Voltaire;  
+C'est assez que lui seul, de tant de grands esprits,,  
+De vos dons séduisants et de vos arts épris,  
+Ait pénétré mon sanctuaire.  
+Je marchai, je l'avoue, au devant de ses pas ;   [11]
+J'osai me présenter devant l'auteur d'Alzire ,  
+Et je plaçai près de sa lyre   [12]
+Mon astrolabe et mon compas.  
+J'ouvris à ses regards les sphères infinies.   [13]
+Il rencontra Newton dans les hauteurs des Cieux.  
+C'est moi qui rapprochai ces deux vastes génies,  
+Ils s'entretinrent sous mes yeux.  
+J'obtins ma juste récompense.  
+Heureux, d'avoir appris mes immortels secrets,  
+Voltaire à mes leçons prêta son éloquence,  
+Et m'embellit de ses attraits.  
+J'empruntai de ses vers la parure pompeuse.  
+Je parus, étalant des vêtements nouveaux,  
+Et gardant, sous les traits dont m'ornaient ses pinceaux,  
+Une beauté majestueuse.  
+Je ne dus qu'à lui seul ces brillants attribut ;  
+C'est par lui que la Poésie  
+Fit entendre des sons aux mortels inconnus,  
+Et que le voile d'Uranie  
+Devint l'écharpe de Vénus.  
+C'est de ce jour aussi que l'âme de Voltaire  
+S'enflamma pour la vérité ;  
+Et vos illusions, si bien faites pour plaire,  
+N'en effacèrent point la sévère beauté.  
+Il poursuivit Terreur, ce tyran de la terre,   [14]
+Le fanatisme affreux⁎, par Terreur enfanté  
+Et le malheur et l'innocence  
+Imploraient son génie en leur faveur armée  
+Sa voix osait parler à l'injuste puissance,  
+Et devant l'univers plaidait pour l'opprimé.  
+Grâces à son zèle intrépide,  
+L'esprit des nations, trop longtemps arrêté,  
+A pris un mouvement rapide,  
+Que suivra la postérité.  
+Voilà, voilà, ma soeur, des titres respectables ;  
+Je les rappelle ici sans nulle vanité.  
+Contente de l'utilité,  
+À vos fictions agréables  
+Je ne dispute point leur charme si vanté.  
+Ce n'est pas au pays des fables,  
+Qu'on couronne la vérité.  
+Mais j'aperçois Thalie, et toujours prête à rire.  
+
+
+## SCÉNE II. Erato, Uranie, Thalie.
+
+    THALIE.
+Mais je ris volontiers, et c'est assez mon goût ?  
+Les ris, vous le savez, sont nés sous mon empire.  
+La mode, il est vrai, passe, et le temps change tout :  
+On veut me les ôter ; mais vous, par aventure,  
+Étiez-vous toutes deux en contestation  
+Sur le message de Mercure ?  
+Vous parliez avec action.  
+Je ne présume pas, ou je suis fort trompée,  
+Que tout l'art d'Apollon puisse vous accorder.  
+Calliope et Clio, l'Histoire et l'Épopée,  
+Ne font pas d'humeur à céder.  
+Ce n'est pas tout encor, mes soeurs, et Melpomène ?  
+Je crois déjà la voir et l'entendre tonner.  
+Oh ! Vous verrez la bonne scène  
+Que ces débats vont nous donner.  
+Je cherche à m'amuser de tout ce qui se passe ;  
+J'observe et me tiens à l'écart.  
+Le Burin, la Trompette et surtout le Poignard,  
+Vont diviser tout le Parnasse.  
+
+    URANIE.
+La paisible Thalie y prendra peu de part.  
+
+    THALIE.
+Je me rends justice sans peine,  
+Il faut que chacun ait son tour.  
+Ce fut jadis le mien : j'ai régné sur la scène;  
+Mais votre grand Voltaire à ma soeur Melpomène  
+A fait assidûment sa cour.  
+Ce fut par passe-temps qu'il me rendit visite.  
+Je n'en rendrai pas moins hommage à son mérite.   [15]
+J'aime ses Euphémons ; je leur applaudis fort,   [16]
+Et mon ami Préville est charmant dans Friport.  
+Je conserve ses ces fruits de sa plume immortelle.  
+Je conviens qu'avant moi d'autres doivent passer ;  
+Je vous laisse briguer la place la plus belle ;   [17]
+Mais, Nanine à la main, je prétends l'embrasser.  
+
+    ERATO.
+Je cours près d'Apollon me ranger la première ;  
+C'est à lui seul de nous juger.  
+Elle sort.
+
+
+    URANIE.
+Mais, je vais m'informer de notre Messager.  
+Adieu, Thalie.  
+Elle sort.
+
+
+
+## SCÈNE III.
+
+    THALIE.
+        On vient. À sa démarche altière,  
+Je reconnais Calliope ma soeur.  
+Élie a l'air d'avoir de l'humeur.  
+Clio la suit, et moi, pour achever la scène,  
+Je m'en vais chercher Melpomène,  
+Les mettre aux prises toutes trois.  
+Je ne sais pas pourquoi je ris de leurs querelles ;  
+Car si j'avais les mêmes droits,  
+Ma foi, j'en ferais autant qu'elles.  
+
+
+## SCÈNE IV. Clio, Calliope.
+
+    CALLIOPE.
+Eh ! Quoi ? Dans ce grand jour, vous pensez précéder  
+La Muse de Virgile et du Tasse et d'Homère ?  
+Ce serait à moi de céder !  
+Sur le Pinde toujours j'ai marché la première,  
+
+    CLIO.
+Vous l'avez prétendu; mais cette primauté  
+Pourrait bien être une chimère,  
+Et la loi de l'égalité  
+Doit paraître plus sage et nous être plus chère/  
+Les arts font frères et rivaux :  
+Éclairer les humains et consoler la terre,  
+Voilà le but de leurs travaux,  
+Et cet auguste emploi les a faits tous égaux.  
+Leur émulation s'excite  
+Par la diversité des goûts et des esprits.  
+Tel préfère les pleurs, et tel autre les ris ;   [18]
+L'un vit avec Homère et l'autre avec Tacite.  
+Les mortels occupés du sort des nations,  
+S'amusent des accents de votre voix brillante,  
+Mais ils ont pour objet d'une étude constante,  
+Mes solides instructions.  
+
+    CALLIOPE.
+C'est moi qui de Voltaire illustrai le jeune âge.  
+
+    CLIO. [19]
+Il courtisa Clio dans sa maturité,  
+
+    CALLIOPE. [20]
+Le chantre de Henri, dont je dictai l'ouvrage,  
+Me dut ses premiers droits à l'immortalité.  
+De cet éclat naissant la France fut frappée ;  
+À ses titres d'honneur il manquait l'épopée.   [21]
+On fit ce seul reproche au siècle de Louis ;  
+Et Voltaire, à vingt ans, en vengea son pays.  
+
+    CLIO.
+De ce siècle fameux je lui traçai l'histoire ;  
+J'ordonnai sous ses mains cet immense tableau.  
+Je broyai les couleurs qu'employa son pinceau.  
+Aux Courtisans de la Victoire,  
+Il montra ce Héros, l'épouvante du Nord,  
+Et dont le nom rappelle au temple de Mémoire,  
+Toutes les faveurs de la gloire,  
+Et tous les outrages du sort. /  
+Là, j'ai de mon Burin signalé l'énergie ;  
+Moi-même j'ai placé ces chefs-d'oeuvres nouveaux,  
+Près des monuments les plus beaux  
+De la Grèce et de l'Italie.  
+Il en est un où l'avenir  
+Doit reconnaître encore une main plus robuste  
+Quand Voltaire éleva cet édifice auguste,  
+Il bâtit sans modèle, et dût seul en servir.  
+Là, tous les peuples de la terre,  
+Sont à mon tribunal par sa voix appelés ;  
+Il fixe sous ses yeux les siècles écoulés,  
+Interroge leur caractère,  
+Les crimes du pouvoir et les erreurs des lois ;  
+Partout, il cherche l'homme, et lui rend tous ses droits ;  
+Partout, des oppresseurs il brise la statue,  
+Et relevant avec grandeur  
+L'humanité sacrée, à leur pieds abattue,  
+Comme il en est le peintre, il en est le vengeur,  
+
+    CALLIOPE.
+Moi, dans des vers divins, j'ai consacré l'image  
+Du Roi le plus cher aux Français,  
+Sujet le plus heureux du plus heureux ouvrage.  
+Voltaire n'a point eu de plus brillant succès.  
+J'abjurai pour lui seul ces fictions antiques,  
+Dont la Grèce emprunta le charme de ses vers ;  
+De ces mensonges poétiques  
+Ma voix assez longtemps amusa l'univers.  
+Le Chantre de Henri dut plaire sans la fable ;  
+L'Épopée eut alors de plus mâles attraits,  
+Et pour un héros véritable  
+Employa des crayons plus vrais.  
+Ce n'est plus cet Achille, armé par un Dieu-même,  
+Achille invulnérable, écrasant les mortels ;  
+C'est un Roi bienfaisant, dont les soins paternels  
+Nourrissent des sujets qu'il combat et qu'il aime.  
+Voltaire éternisa ce triomphe suprême.  
+Ô Henri ! Désormais ensemble confondus,  
+Et ton nom et le sien iront, malgré l'envie,  
+De la postérité recevoir les tributs ;  
+On adorera son génie  
+Aussi longtemps que tes vertus.  
+On dira qu'à lui seul j'ai remis ma trompette.  
+Cet unique bienfait l'emporte sur vos droits,  
+Autant que le Héros qu'a chanté mon poète,  
+L'emporta sur les autres Rois.  
+Vous ne répondez rien... Mais voici Melpomène.  
+
+
+## SCÈNE V. Clio, Calliope, Melpomène.
+
+    MELPOMÈNE.
+Qu'ai-je entendu, mes soeurs? Est-il vrai qu'aujourd'hui  
+Par une rivalité vaine,  
+On me dispute un droit dont je me crus certaine,  
+Et la seule douceur qui reste à mon ennui ?  
+C'était donc peu des pleurs qu'il m'a fallu répandre.   [22]
+Au tombeau de Le Kain, objet de ma douleur !   [23]
+J'ai dans la même tombe à la fois vu descendre,  
+Et mon poète et mon acteur.  
+J'ai perdu de mon' art le modèle suprême.  
+Voltaire, hélas, n'est plus! Et quand je pense au moins  
+À son ombre, en ces lieux, rendre mes derniers soins,  
+Et devant Apollon le conduire moi-même,  
+De tout ce que j'ai fait on veut m'ôter le prix !  
+Je souffrirai qu'une autre à ses honneurs préside !  
+Qu'une autre enfin serve de guide  
+Au plus grand de mes favoris ?  
+Et sur quoi fondez-vous l'orgueil qui vous enivre ?  
+
+    CALLIOPE.
+Je chante les Héros.  
+
+    CLIO.
+        Moi, j'enseigne à les suivre.  
+
+    MELPOMÈNE.
+Melpomène les fait revivre.  
+Né pour m'appartenir, de mon art enchanteur,  
+Voltaire, au premier pas, atteignit la hauteur;  
+Et prompt à s'élancer loin des bornes prescrites,  
+Recula de cet art les antiques limites.  
+Le Théâtre, agrandi sous son brillant pinceau,  
+Offrit des Nations le mobile tableau,  
+Fit passer sous les yeux les rapides images  
+Des préjugés, des moeurs, des lois et des usages.  
+Le coeur toujours ému, de plaisir transporté,  
+S'ouvrant au sentiment, reçut la vérité.  
+Ainsi des passions que le théâtre exprime,  
+Voltaire sut tirer la morale sublime ;  
+Et ne se bornant à de stériles pleurs.  
+Attendrit les humains pour les rendre meilleurs.   [24]
+Quelles hautes leçons donna l'époux d'Alzire,   [25]
+Séïde, au nom du ciel assassinant Zopire !  
+Et sous quelles couleurs il a représenté  
+Ce Mahomet sublime en son atrocité !  
+Combien a de mon art signalé la magie,  
+Ce chef-d'oeuvre effrayant d'horreur et d'énergie!  
+Que ne puis-je à vos yeux offrir ici, mes soeurs,  
+La scène qu'animaient ses talents créateurs !   [26]
+Que de Zaïre, ô ciel! La voix avait de charmes !   [27]
+Que Mérope et son fils ont fait verser de larmes !  
+C'est peu de raconter ; non, mes soeurs, venez voir   [28]
+Aménaïde en pleurs, Tancrède au désespoir,  
+Au tombeau de Nihus, Sémiramis mourante,  
+Ninias et le fer que tient fa main sanglante,  
+Idamé prosternée aux genoux de Gengis ,  
+Et Brutus ordonnant le trépas de son fils,  
+Vendôme ivre d'amour et forcené de rage, \  
+Et Zamore si grand dans' fa fureur sauvage.  
+Voyez à ce spectacle un peuple rassemblé,  
+A la voix du poète incessamment troublé;  
+Voyez les mouvements de cette foule immense;  
+Entendez les sanglots sortir d'un long silence,  
+Et l'amour, la pitié, la joie et les douleurs,  
+Ne formant qu'un seul cri du cri de tous les coeurs ;  
+C'est là, si vous l'osez, mes soeurs, qu'il faut vous rendre ;  
+Et s'il est vrai qu'au prix que je dois remporter,  
+Vous puissiez encore prétendre,  
+C'est là qu'il faut le disputer.  
+
+    CLIO.
+Vous avez vaincu, Melpomène,  
+Je ne saurais vous résister.  
+
+    CALLIOPE.
+Peut-être plus longtemps je pourrais contester ;  
+Mais le coeur est pour vous, et ce juge m'entraîne.  
+Je cède... Eh ! quoi ? Momus !  
+
+
+## SCÈNE VI. Melpomène, Clio, Calliope, Momus.
+
+    MOMUS.
+        Le Dieu de la gaîté  
+Doit être de toutes les fêtes.  
+Je fais les apprêts que vous faites ;  
+J'espère parmi vous n'être point rebuté.  
+On dit qu'à votre Cour vous appelez Voltaire >  
+Il recevra mon compliment :  
+Nous sommes bons amis, vraiment ;  
+Et quand vos grands objets (soit dit sans vous déplaire)  
+Avaient fatigué son cerveau,  
+Je venais sans cérémonie  
+Me glisser près de son bureau  
+Et lui conter quelque saillie.  
+J'en fus toujours très bien traité ;  
+Je ne veux point m'en faire accroire ;  
+Mais j'étais bon à sa santé,  
+Et ne nuisis point à sa gloire.  
+Nous causions tous les deux : il avait plus d'un ton,  
+Et goûtait volontiers le nôtre.  
+Tout Français est gai, nous dit-on,  
+Et Voltaire en ce sens fût plus Français qu'un autre.  
+C'est pour le délasser qu'avec lui j'ai vécu.  
+Je doute qu'on me le reproche.  
+J'ai dicté les "vous" et les "tu"   [29]
+Et j'ai Candide dans ma poche.  
+
+    CLIO.
+Seigneur Momus, ici soyez le bien venu.  
+
+    MOMUS.
+Mais je le fuis partout, et dans l'Olympe même,  
+Où du grand Jupiter la majesté suprême  
+Se divertit de mes bons mots,  
+Et déride son front à mes joyeux propos.  
+À mes jeux Minerve s'abaisse,  
+Et permet que les ris soient près de la sagesse.  
+Mais ce qui doit surtout me donner du renom,  
+J'ai fait rire jusqu'à Junon ;  
+Ce jour-là Jupiter la trouva plus jolie.  
+Aux Dieux comme aux mortels, je suis d'un grand secours  
+Sans moi dans l'Olympe on s'ennuie,  
+Tout comme dans les autres Cours.  
+
+    CLIO.
+Votre gaîté vive et légère  
+N'est point au Parnasse étrangère.  
+Thalie est avec vous, ce me semble, assez bien.  
+
+    MOMUS.
+Je dois vous l'avouer : je me plais sur la terre.  
+Il est vrai que des gens dont l'humeur est austère  
+Parfois m'y traitent en vaurien,  
+Me refusent d'abord l'accès que je demande ;  
+Mais de leur échapper le moyen, est aisé :  
+Caché sous le manteau, je passe déguisé,  
+Et comme un Dieu de contrebande.  
+Ainsi je les mets en défaut ;  
+Eux-mêmes quelquefois usant de complaisance,  
+Ils m'ont dit avec indulgence :  
+« Ris, on te le permet; rire est ce qu'il nous faut ;  
+Mais ne te nomme pas, et ne ris pas trop haut. »  
+
+    CALLIOPE.
+Cet avis est un bon office.  
+
+    MOMUS.
+Oh ! Vraiment qans cela je vous aurais conté  
+Les folâtres accès de verve et de gaîté,  
+Où j'eus Voltaire pour complice ;  
+Nous y mettions parfois quelque peu de malice.  
+Mais il faut bien être discret ;  
+Le public même ici me prescrit de me taire ;  
+Son exemple est pour moi la leçon du mystère ;  
+Ce public, qui sait tout, nous garde le secret.  
+
+    CALLIOPE.
+Momus est devenu bien sage.  
+
+
+## SCÈNE VII. Melpomène, Clio, Calliope, Momus, Apollon, Les Grâces, Erato, Thalie, Uranie, Euterpe, Therpsicore, Polymnie.
+
+    MOMUS.
+Ah ! Je puis enfin au seigneur Apollon  
+Présenter ici mon hommage.  
+Quoi ! Les Grâces aussi dans le sacré vallon !  
+
+    APOLLON.
+Elles daignent souvent m'accorder leur présence.  
+Aux Grâces, comme aux Arts, ce Temple est consacré»  
+
+    EUPHROSINE.
+En des lieux où Voltaire a droit d'être honoré,  
+On eût remarqué notre absence.  
+Nous avons toutes trois entouré son berceau,  
+Et c'est à nous qu'il dut, dans le cours de sa vie,  
+Cette facilité, le présent le plus beau  
+Que nous puissions faire au génie.  
+Les Grâces à Voltaire ont appris leurs secrets,  
+Cet art de briller sans parure,  
+D'être grand sans effort, élégant sans apprêts,  
+Et de rester toujours auprès de la nature.  
+Il a composé sous nos yeux  
+Ces bagatelles si charmantes  
+Et tous ces riens si précieux,  
+De son goût délicat inimitables jeux,  
+Et de l'esprit français les fleurs les plus brillantes.  
+Nous cultivions, son goût et son urbanité ;  
+Et ceux que touche sa mémoire,  
+En déplorant sa perte, ont encor regretté  
+Ces agréments si doux dans la société,  
+Qui font pardonner à la gloire.  
+
+    APOLLON.
+La sienne m'est bien chère, et vous allez le voir.  
+Les honneurs que pour lui j'apprête....  
+Mais écoutons Mercure : il est tems de savoir  
+Si nous aurons ici le Héros de la fête.  
+
+
+## SCÈNE VIII et DERNIÈRE. Les acteurs précédents, Mercure.
+
+    MERCURE.
+Je ne saurais vous en flatter ;  
+
+    APOLLON.
+Comment, il faut que j'y renonce ?  
+Quoi !  
+
+    MERCURE.
+        Très fidèlement je vais vous rapporter  
+Et mon message et sa réponse.  
+Dans l'Elysée à peine on le faisait entrer,  
+Quand je suis descendu sur cet heureux rivage ;  
+Et le premier objet qui vint à son passage,  
+C'est ce Roi si chéri qu'il a su célébrer.  
+D'un mouvement involontaire,  
+Le chantre et le héros l'un vers l'autre ont volé ;  
+Et l'Elysée a vu, sur leurs pas rassemblé,  
+Henri quatre embrassant Voltaire.  
+Je m'approche, et lui dis que pour le couronner,  
+Apollon le mande au Parnasse.  
+« De ses bontés je lui rends grâce,  
+(Me répond-il ) vers lui vous pouvez retourner.  
+Je retrouve l'objet de mon culte fidèle.  
+Tout ce que vous m'offrez serait d'un moindre prix.  
+Si j'ai vécu trop peu sous le jeune Louis,  
+Je demeure à jamais auprès de son modèle. »  
+
+    APOLLON.
+Il dût faire un tel choix, et j'y dois déférer.  
+Si de le posséder nous perdons l'avantage,  
+Au moins rendons à son image  
+Les honneurs que pour lui j'aimais à préparer.  
+Le fond du Théâtre s'ouvre, et l'on voit la statue de Voltaire.
+
+Grâces, couvrez-la de guirlandes.  
+Les Grâces l'entourent de chaînes de fleurs, au son des instruments.
+
+Arts, sujets d'Apollon, portez-lui vos offrandes.  
+Muses, vos attributs sont les siens désormais.  
+Chacune des Muses porte aux pieds de Voltaire l'attribut qui la distingue.
+
+Suivez l'exemple que je donne.  
+Moi-même sur son front je pose ma couronne.  
+Apollon le couronne de ses lauriers, au bruit des fanfares.
+
+Que Voltaire soit à jamais,  
+Et le Dieu du Théâtre et l'Apollon Français.  
+Vous, Therpsicore, Euterpe et Polymnie,  
+Qu'à sa gloire aujourd'hui vos jeux soient consacrés.  
+Il faut que tous les arts honorent son génie,  
+Puisqu'il les a tous honorés.  
+On danse amour de la statue.
+
+
+    APOLLON.
+Et vous à qui ma voix saura se faire entendre,  
+Vous, ses concitoyens, mes plus chers favoris,  
+Peuple heureux, dont la gloire ira partout s'étendre  
+Avec celle de ses écrits ;  
+Parmi vous à jamais consacrez cet hommage  
+Que nous venons de rendre à ses mânes chéris ;  
+Que chez vos neveux attendris  
+Il soit répété d'âge en âge.  
+Je reçois par vos mains les tributs les plus doux  
+Des beaux arts dans vos murs la foule est réunie ;  
+Et pour les y fixer, Apollon veut chez vous  
+Fonder la fête du génie.  
+
+-------
+
+
+[1] Voltaire est auteur d'une comédie nommée : Le dépositaire (1772)
+
+[2] Tibulle -54,19 : poète latin, auteur de seize élégies. 
+
+[3] Horace -65,- 8 : poète latin, ses odes eurent pu faire rougir une Erato du XVIIème siècle.
+
+[4] Chaulieu, Guillaume Amfrye de 1639-1720 : poète français. 
+
+[5] Ovide : poète latin. Auteur, entre autres des Métamorphoses et De la Brièveté de la Vie.
+
+[6] Quinault, Philippe 1635-1688 : Auteur dramatique du XVIIème. Il écrivit de nombreux livrets d'opéras de Lulli.
+
+[7] Le Tasse 1544-1595 : Torquato Tasso est un poète lyrique italien.
+
+[8] Virgile -70, -19 :  poète latin auteur entre autres, des Bucoliques, des Géorgiques et de L'Enéide.
+
+[9] Racine, Jean 1639-1699 : poète dramatique français à qui l'on doit, entre autres Andromaque, Britannicus, Iphigénie, Phèdre et des hymnes traduites du bréviaire romain.
+
+[10] Zaïre : tragédie de Voltaire (1732). 
+
+[11] Alzire ou les Américains est une tragédie en vers et en cinq actes de Voltaire, jouée pour la première fois le 27 janvier 1736. 
+
+[12] L'astrolabe et la compas sont des attributs d'Uranie, muse de l'astronomie, voir le tableau "Uranie et Melpomène" de Louis Boullogne le jeune, château de Versailles.
+
+[13] Newton, Isaac (1643-1727) : savant britannique. Il a établi les trois universelles du mouvement qui fondent la mécanique classique. Emilie du Chatelet traduisit ses principes en 1756 sous l'impulsion de Voltaire..
+
+[14] ⁎ Voyez avec quelle force il a peint la fanatisme des Bonzes, des Fakirs, etc. NdA
+
+[15] Euphémon : nom propre d'un père et de son fils, personnage de la comédie de Voltaire L'Enfant prodigue.
+
+[16] Préville 1721-1799 : de son nom Pierre-Louis Dubus, acteur français entra à l'Académie Française en 1753.
+
+[17] Nanine : comédie de Voltaire de 1749.
+
+[18] Tacite (55-120) : historien romain.
+
+[19] Clio : muse de l'Histoire.
+
+[20] Voltaire écrivit un poème épique nommé la Henriade sur Henri IV, publié à Rouen en 1723 puis à Londres en 1728.
+
+[21] Louis : il s'agit de Louis XIV.
+
+[22] Le Kain (1728-1778) : acteur tragique, né en 1728, mort en 1778, était fils d'un orfèvre de Paris. Il manifesta de bonne heure un goput prononcé pour le théâtre, obtint le protection de Voltaire, débuta à la Comédie française en 1750, et fut fort applaudi dès la première présentation. Les rôles qu'il affectionnait étaient ceux d'Oreste, de Néron, de Gengis-Khan et de Mahomet. B
+
+[23] Le Kain décède le 8 février 1778 et Voltaire le 31 mai de la même année.
+
+[24] Alzire, tragédie de Voltaire, représentée pour la première fois le 27 janvier 1736.
+
+[25] Zopire : personnage de la tragédie "Mahomet ou le fanatisme" écrite en 1736
+
+[26] Zaïre : tragédie de Voltaire, représentée pour la première fois le 13 août 1732.
+
+[27] Mérope : tragédie de Voltaire, représentée pour la première fois le 20 février 1743. 
+
+[28] Aménaïde : personnage de "Tancrède", tragédie de Voltaire, représentée pour la première fois le 3 septembre 1765.
+
+[29] Candide : conte philosophique de Voltaire paru en 1759.

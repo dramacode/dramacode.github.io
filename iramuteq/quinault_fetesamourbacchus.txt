@@ -1,0 +1,1022 @@
+
+
+**** *book_ *id_I01 *act_I *date_1682
+
+-*who_lechoeur
+À moi, Monsieur, à moi de grâce, à moi Monsieur,
+Un livre, s'il vous plaît, à votre serviteur.
+
+-*who_hommedubelair
+Monsieur, distinguez nous parmi les gens qui crient,
+Quelques livres ici, les Dames vous en prient.
+
+-*who_autrehommedubelair
+Hola, Monsieur, Monsieur, ayez la charité
+D'en jeter de nôtre côté.
+
+-*who_femmedubelair
+Mon Dieu ! Qu'aux personnes bien faites
+On sait peu rendre honeur céans ?
+
+-*who_autrefemmedubelair
+Ils n'ont des livres et des bancs
+Que pour Mesdames les Grisettes.
+
+-*who_legascon
+Aho ! L'homme aux libres, qu'on m'en baille,
+J'ai déjà le poumon usé,
+Bous boyez que chacun mé raille,
+Et je fuis escandalisé
+De boir és mains de la canaille
+Ce qui m'est par bous refusé.
+
+-*who_autregascon
+Eh, cadedis, Monseu, boyez qui l'on peut être,
+Un livret, je bous prie, au Baron Dasbarat ;
+Je pense, mordi, que le fat
+N'a pas l'honneur dé mé connaître.
+
+-*who_lesuisse
+Monsieur le donneur de papieir,
+Que veul dir sty façon de fifre ?
+Moi l'écorchair tout mon gozieir
+A crieir,
+Sans que je pouvre afoir ein lifre:
+Pardi, mon foi, Monsieur, je pense sous l'être ifre.
+
+-*who_vieuxbourgeoisbabillard
+De tout ceci franc et net,
+Je suis mal satisfait,
+Et cela sans doute est laid.
+Que notre fille
+Si bien faite et si gentille
+De tant d'amoureux l'objet,
+N'ait pas à son souhait
+Un livre de Ballet
+Pour lire le sujet
+Du divertissement qu'on fait,
+Et que toute notre famille
+Si proprement s'habille,
+Pour être placée au sommet
+De la Salle, où l'on met
+Les gens de l'entriguet.
+De tout ceci franc et net
+Je suis mal satisfait,
+Et cela sans doute est laid.
+
+-*who_vieillebourgeoisbabillarde
+Il est vrai que c'est une honte,
+Le sang au visage me monte.
+Et ce jetteur de vers qui manquent au capital
+L'entends fort mal,
+C'est un brutal.
+Un vrai cheval,
+Franc animal,
+De faire si peu de Comte
+D'une fille qui fait l'ornement principal
+Du quartier du Palais-Royal,
+Et que ces jours passés un Comte
+Fut prendre la première au bal.
+Il l'entend mal,
+C'est un brutal,
+Un vrai cheval
+Franc animal.
+
+-*who_hommesetfemmesdubelair
+Ah quel bruit !
+Quel fracas !
+Que cahos !
+Quel mélange !
+Quelle confusion !
+Quelle cohue étrange !
+Quel désordre !
+Quel embarras !
+On y sèche,
+L'on y tient pas.
+
+-*who_legascon
+Bentre, je fuis à bout.
+
+-*who_autregascon
+      J'enrage, Dieu me damne.
+
+-*who_lesuisse
+Ah que lui faire foif dans sty fal de cians.
+
+-*who_legascon
+Je murs.
+
+-*who_autregascon
+Je perds la tramontane.
+
+-*who_lesuisse
+Mon foi, moi le foudrais être hors de dedans.
+
+-*who_vieuxbourgeoisbabillard
+Allons, ma vie,
+Suivez mes pas,
+Je vous en prie,
+Et ne me quittez pas ;
+On fait de nous trop peu de cas,
+Et je fuis las
+De ce tracas;
+Tout ce fatras,
+Cet embarras,
+Me pèse pas trop sur les bras ;
+S'il me prend jamais envie
+De retourner de ma vie
+À Ballet ni Comédie,
+Je veux bien qu'on m'estropie.
+Allons, ma mie,
+Suivez mes pas,
+Je vous en prie,
+Et ne me quittez pas,
+On fait de nous trop peu de cas.
+
+-*who_vieillebourgeoisbabillarde
+Allons, mon Mignon, mon fils,
+Regagnons notre logis,
+Et sortons de ce taudis
+Où l'on ne peut être assis ;
+Ils seront bien ébaubis?
+Quand ils nous verront partis /
+Trop de confusion règne dans cette salle,
+Et j'aimerais mieux être au milieu de la Halle :
+Si jamais je reviens à semblable régale,
+Je veux bien recevoir des soufflets plus de six.
+Allons, mon mignon, mon fils,
+Regagnons notre logis,
+Et sortons de ce taudis,
+Où l'on ne peut être assis.
+
+-*who_tousensemble
+À moi, Monsieur, à moi de grâce, à moi, Monsieur,
+Un livre, s'il vous plaît à votre serviteur.
+
+**** *book_ *id_I02 *act_I *date_1682
+
+-*who_polymnie
+Élevez vos concerts
+Au dessus du chant ordinaire ;
+Songez que vous avez à plaire
+Au plus grand ROI de l'Univers.
+Le grand titre de Roi n'est que sa moindre gloire,
+Il est encor plus grand par les travaux guerriers ;
+Et sa propre valeur a cueilli les lauriers
+Dont il est couronné des mains de la Victoire.
+Suivez la noble ardeur
+Qu'il vous inspire ;
+Tout ce qu'on voit dans son Empire
+Se doit sentir de sa grandeur.
+
+-*who_melpomene
+Joignez à mes chants magnifiques,
+La pompe de vos ornements.
+
+-*who_euterpe
+Joignez à mes concerts rustiques,
+Vos agréments
+Les plus charmants.
+
+-*who_melpomene
+Votre secours m'est nécessaire,
+Je cherche à divertir le plus Auguste Roi
+Qui méritât jamais de tenir sous sa loi
+Tout ce que le Soleil éclaire.
+
+-*who_melpomeneeteuterpe
+C'est à moi, c'est à moi,
+De prétendre à lui plaire,
+
+-*who_melpomene
+C'est moi dont la voix éclatante
+A droit de célébrer les exploits les plus grands,
+Les nobles récits que je chante
+Sont les plus dignes jeux des fameux conquérants.
+
+-*who_euterpe
+C'est un doux amusement
+Que d'aimables chansonnettes ;
+Les douceurs n'en sont pas faites
+Pour les bergers seulement.
+Les tendres chansonnettes
+Que l'on chante à l'ombre des bois
+Sur les Musettes,
+Ne sont pas quelques fois
+Des jeux indignes des grands Rois.
+
+-*who_polymnie
+Il faut entre mes soeurs que mon soin se partage :
+Préparez tour à tour vos plus aimables jeux ;
+Pour vous accorder, je m'engage
+À vous seconder toutes deux.
+
+-*who_euterpe
+Commencez de répondre à mon impatience.
+
+-*who_melpomene
+Vos premiers soins sont dûs à ce que j'entreprends.
+
+-*who_polymnie
+Terminez tous vos différents.
+Souffrez qu'en sa faveur aujourd'hui je commence,
+Je réserve pour vous mes travaux les plus grands.
+
+-*who_lestroismuses
+Que notre accord est doux !
+Que tout ce qui nous fuit s'accorde comme nous.
+
+**** *book_ *id_I03 *act_I *date_1682
+
+-*who_lestroismuses
+Joignons nos soins et nos voix
+Pour plaire au plus grand des Rois.
+
+-*who_choeurs
+Joignons nos soins et nos voix
+Pour plaire au plus grand des Rois.
+
+-*who_melpomene
+Chantons la gloire de ses armes.
+
+-*who_unchoeur
+Chantons la gloire de ses armes.
+
+-*who_euterpe
+Chantons la douceur de ses lois.
+
+-*who_unchoeur
+Chantons la douceur de ses lois.
+
+-*who_polymnie
+Faisons tout retentir du bruit de ses exploits.
+
+-*who_tousleschoeurs
+Chantons la gloire de ses armes.
+
+-*who_melpomene
+Formons des concerts pleins de charmes.
+
+-*who_euterpe
+Faisons entendre nos hautbois.
+
+-*who_tousensemble
+Faisons tout retentir du bruit de ses exploits.
+
+-*who_polymnie
+Préparons des fêtes nouvelles
+
+-*who_melpomene
+Que nos chansons soient immortelles.
+
+-*who_euterpe
+Que nos airs soient doux et touchants.
+
+-*who_tousensemble
+Mêlons aux plus aimables chants
+Les danses les plus belles.
+Joignons nos soins et nos voix.
+Pour plaire au plus grand des rois.
+
+**** *book_ *id_II01 *act_II *date_1682
+
+-*who_tircis
+Vous chantez sous ces feuillages,
+Doux rossignols pleins d'amour,
+Et de nos tendres ramages,
+Vous réveillez tour à tour
+Les échos de ces boccages :
+Hélas ! Petits oiseaux, hélas !
+Si vous aviez mes maux vous ne chanteriez pas.
+
+**** *book_ *id_II02 *act_II *date_1682
+
+-*who_licaste
+Hé quoi, toujours languissant, sombre et triste ?
+
+-*who_menandre
+Hé quoi, toujours aux pleurs abandonné ?
+
+-*who_tircis
+Toujours adorant Caliste,
+Et toujours infortuné.
+
+-*who_licaste
+Dompte, dompte, Berger, l'ennui qui te possède.
+
+-*who_tircis
+Et le moyen, hélas !
+
+-*who_menandre
+      Fais, Fais-toi quelque effort.
+
+-*who_tircis
+Eh le moyen, hélas ! Quand le mal est si fort ?
+
+-*who_licaste
+Ce mal trouvera son remède.
+
+-*who_tircis
+Je ne guérirai qu'à ma mort.
+
+-*who_licaste_menandre
+Ah, Tircis !
+
+-*who_tircis
+Ah, Bergers !
+
+-*who_caliste_menandre
+      Prends sur toi plus d'empire.
+
+-*who_tircis
+Rien ne me peut plus secourir;
+
+-*who_caliste_menandre
+C'est trop, c'est trop céder.
+
+-*who_tircis
+      C'est trop, c'est trop souffrir.
+
+-*who_caliste_menandre
+Quelle faiblesse !
+
+-*who_tircis
+      Quel martyre !
+
+-*who_caliste_menandre
+Il faut prendre courage.
+
+-*who_tircis
+Il faut plutôt mourir
+
+-*who_licaste
+Il n'est point de bergère
+Si froide et si sévère,
+Dont la pressante ardeur
+D'un coeur qui persévère,
+Ne vainque la froideur.
+Il est dans les affaires
+Des amoureux mystères,
+Certains petits moments
+Qui changent les plus fières,
+Et font d'heureux amants.
+
+-*who_tircis
+Je le vois, la cruelle,
+Qui porte ici ses pas,
+Gardons d'être vu d'elle,
+L'ingrate, hélas!
+N'y viendrait pas.
+
+**** *book_ *id_II03 *act_II *date_1682
+
+-*who_climene
+Viens dans notre village :
+Voici le jour
+Qu'on doit célébrer la fête de L'Amour,
+Que cherches-tu dans ce boccage ?
+
+-*who_caliste
+Je cherche le repos, le silence, et l'ombrage.
+
+-*who_climene
+Tu devrais bien plutôt songer
+À t'engager.
+Eh Que peut faire
+Une bergère
+Sans un berger ?
+
+-*who_caliste
+Ton malheur doit me rendre sage :
+Tu n'as choisi qu'un inconstant.
+
+-*who_climene
+Si mon berger devient volage,
+Il m'est permis d'en faire autant.
+On goûte la douceur d'une amour éternelle,
+Quand on fait l'heureux choix d'un fidèle berger,
+Et quand on aime un infidèle,
+L'on a le plaisir de changer.
+Quoi ! L'amour de Tircis ne t'a point attendrie ?
+Lorsqu'on en veut parler, tu n'écoutes jamais ?
+Ne rêve plus où je m'en vais.
+
+-*who_caliste
+Laisse-moi dans la rêverie.
+Ah ! Que sous ce feuillage épais
+Il est doux de rêver en paix !
+
+-*who_climene
+Je n'entre point dans un mystère
+Que tu veux réserver :
+Mais un coeur sans affaire
+Ne donne point tant à rêver.
+
+**** *book_ *id_II04 *act_II *date_1682
+
+-*who_caliste
+Ah ! Que sur notre coeur
+La sévère loi de l'honneur
+Prend un cruel empire !
+Je ne fais voir que rigueurs pour Tircis,
+Et cependant sensible à ses cuisants soucis.
+De sa langueur en secret je soupire,
+Et voudrais bien soulager son martyre ;
+C'est à vous seuls que je le dis,
+Arbres, n'allez pas le redire.
+Puisque le Ciel a voulu nous former
+Avec un coeur qu'Amour peut enflammer,
+Quelle rigueur impitoyable
+Contre des traits si doux nous force à nous armer ?
+Et pourquoi sans être blâmable
+Ne peut-on pas aimer
+Ce que l'on trouve aimable ?
+Hélas ! Petits oiseaux, que vous êtes heureux
+De ne sentir nulle contrainte,
+Et de pouvoir suivre sans crainte
+Les doux emportements de vos coeurs amoureux !
+Mais le sommeil sur ma paupière
+Verse de ses pavots l'agréable fraîcheur,
+Donnons-nous à lui toute entière,
+Nous n'ayons point de loi sévère
+Qui défende à nos sens d'en goûter la douceur.
+
+**** *book_ *id_II05 *act_II *date_1682
+
+-*who_tircis
+Vers ma belle ennemie
+Portons sans bruit nos pas,
+Et nous réveillons pas
+Sa rigueur endormie.
+
+-*who_menandre,licaste,tircis
+Dormez, Dormez beaux yeux adorables vainqueurs,
+Et goûtez le repos que vous vous ôtez aux coeurs.
+
+-*who_tircis
+Silence, petits oiseaux,
+Vents n'agitez nulle chose .
+Coulez doucement ruisseaux,
+C'est Caliste qui repose.
+
+-*who_menandre,licaste,tircis
+Dormez, Dormez beaux yeux adorables vainqueurs,
+Et goûtez le repos que vous vous ôtez aux coeurs.
+
+-*who_caliste
+Ah ! Quelle peine extrême !
+Suivre partout mes pas ?
+
+-*who_tircis
+Que vouslez-vous qu'on suive, hélas!
+Que ce qu'on aime.
+
+-*who_caliste
+Berger, que voulez-vous ?
+
+-*who_tircis
+Mourir belle bergère,
+Mourir à vos genoux,
+Et finir ma misère,
+Puisqu'en vain à vos pieds, on me voit soupirer,
+Il y faut expirer.
+
+-*who_caliste
+Ah! Tircis, ôtez-vous, j'ai peur que dans de jour,
+La pitié dans mon coeur n'introduise l'amour.
+
+-*who_licaste,menandre
+Soit amour, soit pitié,
+Il sied bien d'être tendre ;
+C'est pas trop vous défendre,
+Bergers, il faut le rendre
+À la longue amitié.
+Soit amour, soit pitié,
+Il sied bien d'être tendre ;
+
+-*who_caliste
+C'est trop, c'est trop de rigueur,
+J'ai mal traité votre ardeur
+Crucifiant votre personne,
+Vengez-vous de mon coeur,
+Tircis, je vous le donne.
+
+-*who_tircis
+Ô ciel ! Bergers ! Caliste ! Ah je suis hors de moi !
+Si l'on meurt de plaisir je dois perdre la vie.
+
+-*who_licaste
+Digne prix de ta foi !
+
+-*who_menandre
+Ô ! Sort digne d'envie !
+
+**** *book_ *id_II06 *act_II *date_1682
+
+-*who_forestan
+Quoi ! Tu me fuis, Ingrate, et je te vois ici
+De ce berger à moi faire une préférence ?
+
+-*who_silvandre
+Quoi, mes soins n'ont rien pu sur ton indifférence,
+Et pour ce langoureux ton coeur s'est adouci ?
+
+-*who_caliste
+Le destin le veut ainsi,
+Prenez tous deux patience.
+
+-*who_fosrestan
+Aux amants qu'on pousse à bout,
+L'amour fait verser des larmes ;
+Mais ce n'est pas notre goût,
+Et la bouteille a des charmes
+Qui nous consolent de tout.
+
+-*who_silvandre
+Notre amour n'a pas toujours
+Tout le bonheur qu'il désire.
+Mais nous avons un secours,
+Et le bon vin nous fait rire
+Quand on rit de nos amours.
+
+-*who_tous
+Champêtres Divinités,
+Faunes, Driades, sortez
+De vos paisibles retraites ;
+Mêlez vos pas à nos sons.
+Et tracez sur les herbettes.
+L'image de nos chansons.
+
+**** *book_ *id_III01 *act_III *date_1682
+
+-*who_forestan
+Je ne puis souffrir l'outrage
+Que Caliste fait à ma foi :
+Dans le fonds de mon coeur j'enrage
+Qu'elle aime un autre que moi.
+Deux enchanteurs m'ont fait entendre
+Qu'ils ont le secret de me rendre
+Tel qu'il faut être pour charmer ;
+Caliste aura beau se défendre,
+Je la contraindrai de m'aimer.
+
+QUATRIÈME ENTRÉE. Deux magiciens, Six démons.
+
+-*who_lestroissorcieres
+Déesse des appas,
+Ne nous refuse pas
+La grace qu'implorent nos bouches :
+Nous t'en prions par tes rubans,
+Par tes boucles de diamants,
+Ton rouge, ta poudre, tes mouches,
+Ton masque, ta coiffe et tes gants.
+
+-*who_unesorciere
+Ô toi ? Qui peux rendre agréables
+Les villages les plus mal faits,
+Répand, Vénus, de tes attraits
+Deux ou trois doses charitables
+Sur ce museau tondu tout frais.
+
+-*who_lestroissorcieres
+Ah qu'il est beau
+Le jouvenceau,
+Ah qu'il est beau.
+Qu'il va faire mourir de belles :
+Auprès de lui les plus cruelles
+Ne pourront tenir dans leur peau.
+Ah qu'il est beau
+Le jouvenceau,
+Ah qu'il est beau !
+Ho, ho, ho, ho, ho, ho...
+Qu'il est joli !
+Gentil, poli !
+Qu'il est joli !
+Est-il des yeux qu'il ne ravisse !
+Il passe en beauté feu Narcisse
+Qui fut un blondin accompli.
+Qu'il est joli !
+Gentil, poli !
+Qu'il est joli !
+Hi, hi, hi, hi, hi, hi...
+
+**** *book_ *id_III04 *act_III *date_1682
+
+-*who_forestan
+Qu'un beau visage
+A d'avantage !
+Tout lui rit, Tout lui fait la cour :
+Que l'on verra dans ce boccage
+De bergères mourir d'amour
+Et de bergers crever de rage !
+
+**** *book_ *id_III05 *act_III *date_1682
+
+-*who_silvandre
+Forestan, Forestan, es-tu là ?
+
+-*who_forestan
+Beau comme je dois être
+Il va me voir sans me connaitre.
+
+-*who_silvandre
+Ô ! Forestan ? Ah ! Te voilà.
+Pourquoi t'amuser de la sorte ?
+
+-*who_forestan
+Qu'importe, qu'importe !
+
+-*who_silvandre
+Hé quoi ! Ne veux-tu pas aller
+Où nous devons nous assembler ?
+Ton impatience est peu forte.
+
+-*who_forestan
+Qu'importe, qu'importe !
+
+-*who_silvandre
+Veux-tu souffrir en ce jour
+Que le faible dieu d'amour
+Sur le Dieu du vin l'emporte ?
+
+-*who_forestan
+Qu'importe, qu'importe !
+
+-*who_silvandre
+Allons ; c'est trop railler.
+
+-*who_forestan
+À qui crois-tu parler ?
+
+-*who_silvandre
+Quel badinage !
+Tu n'es pas sage ;
+La fête de Bacchus commencera bientôt.
+Allons, sans tarder davantage,
+Allons-y boire comme il faut.
+
+-*who_forestan
+Il est bien doux de boire ;
+On peut en faire gloire.
+Quand on n'a pas de quoi charmer :
+Bacchus sait consoler un amant misérable ;
+Mais quand on est aimable,
+Il n'est rien si doux que d'aimer.
+
+-*who_silvandre
+Que veux-tu dire ?
+D'où vient ce caprice nouveau ?
+
+-*who_forestan
+Regarde, considère, admire.
+Ah qu'il est beau !
+Ho, ho, ho, ho, ho, ho...
+Ah qu'il est beau.
+
+-*who_silvandre
+Dis-moi donc je te prie
+De quelle folle rêverie
+Ton cerveau s'est rempli ?
+
+-*who_forestan
+Qu'il est joli !
+Hi, hi, hi, hi, hi, hi...
+
+-*who_silvandre
+Consulte la Fontaine
+La plus prochaine,
+Mire-toi dans son eau.
+Ah qu'il est beau !
+Ho, ho, ho, ho, ho, ho...
+
+-*who_forestan
+Je suis digne de railleries ;
+On m'a fait une fourberie :
+Mais, si je la mets en oubli...
+Non, non, les imposteurs n'auront pas lieu de rire.
+
+-*who_silvandre
+Regarde, considère, admire.
+
+-*who_forestan
+Ah ! Je vais vous payer de m'avoir embelli.
+
+**** *book_ *id_III06 *act_III *date_1682
+
+-*who_silvandre
+Qu'il est joli !
+Hi, hi, hi, hi...
+
+-*who_forestan
+C'est un tour es Lutins errants dans ce boccage
+Dont il faut que je sois vengé.
+
+-*who_silvandre
+Hé, hé, hé, hé, hé, hé...
+
+-*who_forestan
+Tu ris quand je suis outragé ?
+
+-*who_silvandre
+Hé, hé, hé, hé, hé, hé...
+
+-*who_forestan
+Ne m'insulte point davantage ;
+Va rire ailleurs ;
+Je suis dans une rage
+Qui pourrait bien tourner sur les méchants railleurs.
+
+-*who_silvandre
+Ami, me veux-tu croire,
+Ne songeons plus qu'à boire ;
+Fuyons l'amour, et le chagrin,
+Suivons Bacchus, courons au vin.
+
+-*who_forestan
+Au vin, au vin, au vin, au vin,
+
+-*who_silvandre,forestan
+Fuyons l'amour et le chagrin,
+Suivons Bacchus, courons au vin.
+Au vin, au vin, au vin, au vin,
+
+**** *book_ *id_III07 *act_III *date_1682
+
+-*who_damon
+Ma bergère a changé, je veux changer comme elle.
+
+-*who_silvandre
+Suis les lois de Bacchus, tu t'en trouveras bien.
+
+-*who_damon
+Heureux qui peut aimer une beauté fidèle !
+
+-*who_forestan
+Plus heureux qui peut n'aimer rien.
+
+-*who_silvandre
+Viens avec nous goûter la vie ;
+Quitte une volage beauté,
+Comme elle t'a quitté:
+Profite de sa perfidie,
+Viens jouir de la liberté.
+
+-*who_damon
+C'est pour servir Cloris que je quitte Climène,
+Et mon coeur sans aimer ne saurait vivre un jour ,
+Qui s'engage une fois peut bien changer de chaine ;
+Mais, il est mal aisé d'échapper à l'Amour.
+
+-*who_silvandre
+Sous l'amoureux empire,
+On n'est point sans tourment ;
+Je te plains pauvre amant,
+Langui, gémi, soupire ;
+Nous allons rire,
+
+-*who_silvandre,forestan
+Fuyons l'amour et le chagrin,
+Suivons Bacchus, courons au vin.
+Au vin, au vin, au vin, au vin,
+
+**** *book_ *id_III08 *act_III *date_1682
+
+-*who_damon
+Ma volage s'avance.
+
+-*who_climene
+Voici mon infidèle amant.
+
+-*who_damon,climene
+Vengeons-nous de son inconstance.
+Ô ! La douce vengeance
+Qu'un heureux changement !
+
+-*who_damon
+Quand je plaisais à tes yeux
+J'étais content de ma vie,
+Et ne voyais Rois ni Dieux
+Dont le sort me fit envie.
+
+-*who_climene
+Lorsqu'à toute autre personne
+Me préférait ton ardeur.
+J'aurais quitté la couronne
+Pour régner dessus ton coeur.
+
+-*who_damon
+Une autre a guéri mon âme,
+Des feux que j'avais pour toi.
+
+-*who_climene
+Une autre a vengé ma flamme
+Des faiblesses de ta foi.
+
+-*who_damon
+Cloris qu'on vante si fort
+M'aime d'une ardeur fidèle,
+Si ses yeux voulaient ma mort,
+Je mourrais content pour elle.
+
+-*who_climene
+Mirtil si digne d'envie,
+Me chérit plus que le jour,
+Et moi je perdrais la vie
+Pour lui montrer mon amour.
+
+-*who_damon
+Mais si d'une douce ardeur
+Quelque renaissance trace
+Chassait Cloris de mon coeur
+Pour te remettre en sa place ?
+
+-*who_climene
+Bien qu'avec pleine tendresse
+Mirtil me puisse chérir,
+Avec toi, je le confesse,
+Je voudrais vivre et mourir.
+
+-*who_damon,climene
+Ah ! Plus que jamais aimons-nous,
+Et vivons et mourons en des liens si doux.
+
+**** *book_ *id_III09 *act_III *date_1682
+
+-*who_troupedebergersetdebergeres
+Amants, que vos querelles
+Sont aimables et belles ;
+Qu'on y voit succéder
+De plaisirs, de tendresse !
+Querellez-vous sans cesse,
+Pour vous racommoder.
+
+**** *book_ *id_III10 *act_III *date_1682
+
+-*who_arcas
+Venez, que rien ne vous arrête,
+Ne perdez point d'heureux moments ;
+Venez tous voir la fête
+Que l'on apprête
+À l'honneur du Dieu des Amants :
+Les plaisirs où l'Amour convie
+Sont les plus charmants de la vie,
+Il en faut jouir tant qu'on peut,
+On ne les a pas quand on veut.
+
+**** *book_ *id_IV01 *act_IV *date_1682
+
+-*who_caliste
+Ici l'ombre des ormeaux
+Donne un teint frais aux herbettes,
+Et les bords de ces ruisseaux.
+Brillent de mille fleurettes
+Qui se mirent dans les eaux.
+Prenez bergers, vos musettes.
+Ajustez vos chalumeaux,
+Et mêlons nos chansonnettes
+Aux chants de petits oiseaux.
+
+CINQUIÈME ENTRÉE. Quatre bergers, quatre bergères.
+
+-*who_climene
+Le zéphire entre ces eaux,
+Fait mille courses secrètes,
+Et les rossignols nouveaux,
+De leur douces amourettes,
+Parlent aux tendres rameaux.
+Prenez Bergers, vos musettes,
+Ajustez vos chalumeaux,
+Et mêlons nos chansonnettes
+Aux chants de petits oiseaux.
+
+-*who_cloris
+Ah ! Qu'il est doux, belle Silvie,
+Ah ! Qu'il est doux de s'enflammer !
+Il faut retrancher de la vie,
+Ce qu'on en passe sans aimer.
+Ah ! Qu'il est doux, belle Silvie,
+Ah ! Qu'il est doux de s'enflammer !
+
+-*who_silvie
+Ah ! Les beaux jours qu'Amour nous donne
+Lorsque sa flamme unit les coeurs !
+Est-il ni gloire, ni couronne
+Qui vaille ses moindres douceurs ?
+Ah ! Qu'il est doux, belle Silvie,
+Ah ! Qu'il est doux de s'enflammer !
+
+-*who_arcas
+Qu'avec peu de raison on se palint d'un martyre
+Que suivent de si doux plaisirs !
+
+-*who_tircis,arcas
+Un moment de bonheur dans l'amoureux empire,
+Répare dix ans de soupirs.
+
+-*who_choeurs
+Chantons tous de l'Amour le pouvoir adorable,
+Chantons dans ces lieux,
+Ses attraits glorieux,
+Il est le plus aimable,
+Et le plus grand des Dieux.
+
+**** *book_ *id_IV03 *act_IV *date_1682
+
+-*who_silvandre
+Arrêtez, arrêtez, c'est trop entreprendre,
+Un autre Dieu dont nous suivons les lois,
+S'oppose à cet honneur qu'à l'Amour osent rendre,
+Vos musettes et vos voix ;
+À des titres si beaux Bacchus seul peut prétendre,
+Et nous sommes ici pour défendre ses droits.
+
+-*who_choeurs
+Nous suivons de Bacchus le pouvoir adorable
+Nous suivons en tous lieux,
+Ses attraits précieux ;
+Il est le plus aimable
+Et le plus grand des Dieux.
+
+SIXIÈME ENTRÉE. Quatre satires, quatre bacchantes.
+
+-*who_aminte
+C'est le printemps qui rend l'âme
+À nos champs semés de fleurs :
+Et c'est l'Amour et la flamme
+Qui font revivre nos coeurs.
+
+-*who_forestan
+Le soleil chasse les ombres,
+Dont le ciel est obscurci,
+Et des âmes les plus sombres,
+Bacchus chasse le souci.
+
+-*who_choeursdebacchus
+Bacchus est révéré sur la terre et sur l'onde.
+
+-*who_choeursdelamour
+Et l'Amour est un Dieu qu'on révère en tous lieux.
+
+-*who_choeursdebacchus
+Bacchus à son pouvoir a soumis tout le Monde.
+
+-*who_choeursdelamour
+Et l'Amour a dompté les hommes et les Dieux.
+
+-*who_choeursdebacchus
+Rien peut-il égaler sa douceur sans seconde ?
+
+-*who_choeursdelamour
+Rien peut-il égaler ses charmes précieux ?
+
+-*who_choeursdebacchus
+Fi, fi, de l'Amour et de ses feux.
+
+-*who_partidelamour
+Ah ! Quel plaisir d'aimer !
+
+-*who_partidebacchus
+      Ah ! Quel plaisir de boire !
+
+-*who_partidelamour
+À qui vit sans amour la vie est sans appas.
+
+-*who_partidebacchus
+C'est mourir que de vivre et de ne boire pas.
+
+-*who_partidelamour
+Aimables fers !
+
+-*who_partidebacchus
+      Douce victoire !
+
+-*who_partidelamour
+Ah ! Quel plaisir d'aimer !
+
+-*who_partidebacchus
+      Ah ! Quel plaisir de boire !
+
+-*who_lesdeuxpartis
+Non, non, c'est un abus.
+Le plus grand Dieu de tous
+
+-*who_partidelamour
+      C'est l'Amour.
+
+-*who_partidebacchus
+      C'est Bacchus.
+
+**** *book_ *id_IV05 *act_IV *date_1682
+
+-*who_licaste
+C'est trop, c'est trop, bergers, hé pourquoi ces débats ?
+Souffrons qu'en un parti la Raison nous assemble :
+L'Amour a des douceurs ; Bacchus a des appas,
+Ce sont deux Déïtés qui sont fort bien ensemble;
+Ne les séparons pas.
+
+-*who_lesdeuxchoeurs
+Mêlons donc leurs douceurs aimables,
+Mêlons nos voix dans ces lieux agréables,
+Et faisons répéter aux Échos d'alentour,
+Qu'il n'est rien de plus doux que Bacchus et l'Amour.

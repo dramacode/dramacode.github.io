@@ -1,0 +1,1115 @@
+
+
+**** *book_ *id_I01 *act_I *date_1684
+
+-*who_urgande_alquif
+Ah j'entends un bruit qui nous presse
+De nous rassembler tous,
+Le charme cesse
+Éveillons-nous.
+
+-*who_urgandesuite_alquifsuite
+Le charme cesse...
+Éveillons-nous.
+
+-*who_urgande_alquif
+Esprits, empressés à nous plaire,
+Vous, qui veillez ici pour notre sûreté,
+Votre soin n'est plus nécessaire,
+Vous pouvez désormais partir en liberté.
+Que le ciel annonce à la Terre
+La fin de cet enchantement,
+Brillants éclairs, bruyant tonnerre,
+Marqués avec éclat ce bienheureux moment.
+
+-*who_urgandesuite_alquifsuite
+Que le ciel annonce à la Terre
+La fin de cet enchantement,
+Brillants éclairs, bruyant tonnerre,
+Marqués avec éclat ce bienheureux moment.
+
+-*who_urgande
+Les plaisirs nous suivront désormais ;
+Nous allons voir nos désirs satisfaits.
+Vivons sans alarmes,
+Vivons tous en paix.
+Revenez, reprenez tous vos charmes,
+Jeux innocents, revenez pour jamais.
+Il est temps que l'aurore vermeille
+Cède au soleil, qui marche sur ses pas ;
+Tout brille ici-bas.
+Il est temps que chacun se réveille ;
+L'amour ne dort pas,
+Tout sent ses appas.
+L'aimable Zéphire
+Pour Flore soupire ;
+Dans un si beau jour,
+Tout parle d'amour.
+
+-*who_urgande
+Lorsqu'Amadis périt, une douleur profonde
+Nous fit retirer dans ces lieux :
+Un charme assoupissant devait fermer nos yeux,
+Jusqu'au temps fortuné que le destin du monde
+Dépendrait d'un héros, encore plus glorieux.
+
+-*who_alquif
+Ce héros triomphant veut que tout soit tranquille ;
+En vain, mille envieux s'arment de toutes parts ;
+D'un mot, d'un seul de ses regards
+Il sait rendre, à son gré, leur fureur inutile.
+
+-*who_urgande_alquif
+C'est à lui d'enseigner
+Aux maîtres de la terre
+Le grand art de la guerre ;
+C'est à lui d'enseigner
+Le grand art de régner.
+
+-*who_urgandesuite_alquifsuite
+C'est à lui d'enseigner
+Aux maîtres de la terre
+Le grand art de la guerre ;
+C'est à lui d'enseigner
+Le grand art de régner.
+
+-*who_urgande
+Retirons Amadis de la nuit éternelle ;
+Le ciel nous le permet, un sort nouveau l'appelle
+Où son sang régnait autrefois.
+
+-*who_alquif
+Nous ne saurions choisir de demeure plus belle.
+Allons être témoins de la gloire immortelle
+D'un roi, l'étonnement des rois,
+Et des plus grands héros le plus parfait modèle.
+
+-*who_urgande_alquif
+Tout l'univers admire ses exploits ;
+Allons vivre heureux sous ses lois.
+
+-*who_urgandesuite_alquifsuite
+Tout l'univers admire ses exploits ;
+Allons vivre heureux sous ses lois.
+
+-*who_urgande_urgandesuite_alquifsuite
+Suivons l'amour, c'est lui qui nous mène ;
+Tout doit sentir son aimable ardeur.
+Un peu d'amour nous fait moins de peine
+Que l'embarras de garder notre coeur.
+Malgré nos soins, l'Amour nous enchaîne ;
+On ne peut fuir ce charmant vainqueur ;
+Un peu d'amour nous fait moins de peine
+Que l'embarras de garder notre coeur.
+
+-*who_urgande_alquif
+Volez, tendres amours, Amadis va revivre.
+Son grand coeur est fait pour vous suivre.
+Volez, volez aimables jeux,
+Conduisez Amadis en des climats heureux.
+
+-*who_urgandesuite_alquifsuite
+Volez, tendres amours, Amadis va revivre.
+Son grand coeur est fait pour vous suivre.
+Volez, volez aimables jeux,
+Conduisez Amadis en des climats heureux.
+
+**** *book_ *id_II01 *act_II *date_1684
+
+-*who_florestan
+Je reviens dans ces lieux pour y voir ce que j'aime ;
+Mais au sang qui nousjoint, je fais ce que je dois :
+Je ne puis vous laisser, sans une peine extrême,
+Dans la douleur où je vous vois.
+Le grand coeur d'Amadis doit être inébranlable ;
+Quel malheur peut troubler un héros indomptable,
+Vainqueur des fiers tyrans et des monstres affreux.
+
+-*who_amadis
+J'aime, hélas ! c'est assez pour être malheureux.
+
+-*who_florestan
+Sans cesse vous volez de victoire en victoire,
+Votre grand nom s'étend aussi loin que le jour :
+Si vous vous plaignez de l'amour,
+Consolez-vous avec la gloire.
+
+-*who_amadis
+J'ai choisi la gloire pour guide,
+J'ai prétendu marcher sur les traces d'Alcide ;
+Heureux ! si j'avais évité
+Le charme trop fatal dont il fut enchanté !
+Son coeur n'eut que trop de tendresse,
+Je suis tombé dans son malheur ;
+J'ai mal imité sa valeur,
+J'imite trop bien sa faiblesse.
+J'aime Oriane, hélas ! Je l'aime sans espoir.
+
+-*who_florestan
+Elle dépend d'un père, elle suit son devoir.
+
+-*who_amadis
+Oriane m'aimait, je l'aimais sans alarmes.
+
+-*who_florestan
+Que vous peut-elle offrir, que d'inutiles larmes ?
+L'empereur des Romains sur son trône l'attend.
+
+-*who_amadis
+
+
+Je pourrais l'obtenir par la force des armes,
+Si son amour était constant ;
+Et je croyais son coeur à l'épreuve des charmes
+Du trône le plus éclatant.
+
+Fût-il jamais amant plus fidèle et plus tendre,
+Fût-il jamais amant plus malheureux que moi ?
+
+La beauté dont je suis la loi
+Me bannit, pour jamais, sans me vouloir entendre ;
+Hélas ! Est-ce le prix que je devais attendre
+De mon amour et de ma foi ?
+
+Fût-il jamais amant plus fidèle et plus tendre,
+Fût-il jamais amant plus malheureux que moi ?
+
+-*who_florestan
+
+
+Quand on est aimé comme on aime,
+C'est une trahison que de se dégager ;
+Mais c'est une faiblesse extrême
+D'aimer une inconstante, et de ne pas changer.
+Vous serez plus heureux dans une amour nouvelle.
+
+-*who_amadis
+
+
+Oriane, ingrate et cruelle,
+M'accable de mortels ennuis.
+Mais j'ai juré de conserver pour elle
+Une amour éternelle ;
+Tout infortuné que je suis,
+J'aime mieux être encore malheureux, qu'infidèle.
+C'est trop vous arrêter, allez, suivez l'amour.
+Corisande en ces lieux attend votre retour.
+
+-*who_florestan
+Vous puis-je abandonner à votre inquiétude ?
+
+-*who_amadis
+Un amour malheureux cherche la solitude.
+
+**** *book_ *id_II02 *act_II *date_1684
+
+-*who_corisande
+Florestan !
+
+-*who_florestan
+      Corisande !
+
+-*who_corisande_florestan
+      Ô bienheureux moment
+Qui finit mon cruel tourment !
+Après la rigueur extrême
+D'un fatal éloignement ;
+Que c'est un plaisir charmant
+De revoir ce que l'on aime !
+
+-*who_florestan
+Il faut unir votre coeur et le mien
+D'un éternel lien.
+
+-*who_corisande
+Venez régner aux lieux où je commande.
+
+-*who_florestan
+Aimons-nous, belle Corisande,
+Et comptons la grandeur pour rien.
+
+-*who_corisande_florestan
+Vous êtes le seul bien
+Que mon amour demande.
+
+-*who_corisande
+Au tendre amour, qui me tient sous sa loi,
+Si votre coeur eût été bine sensible
+Vous eût-il été possible
+De vous éloigner de moi ?
+
+-*who_florestan
+Fils d'un roi, dont le nom partout s'est fait connaître,
+Et frère d'Amadis, le plus grand des héros,
+Pouvais-je demeurer dans un honteux repos ?
+Aurais-je démenti le sang qui m'a fait naître ?
+
+
+Pour mériter de plaire aux yeux qui m'ont charmé,
+J'ai cherché tout l'éclat que donne la victoire :
+Si j'avais moins aimé la gloire,
+Vous ne m'auriez pas tant aimé.
+
+**** *book_ *id_II03 *act_II *date_1684
+
+-*who_corisande
+Je revois Florestan, je le revois fidèle.
+
+-*who_oriane
+Ah, qu'il est beau d'aimer d'une amour éternelle !
+
+-*who_florestan
+C'est en vain qu'Amadis vous aime constamment,
+Et vous l'avez banni, par une loi cruelle.
+
+-*who_oriane
+Non, ne défendez point un si volage amant.
+Sa première amour est finie :
+Il adore Briolanie.
+Le confident de sa nouvelle ardeur
+N'a que trop bien su m'en instruire :
+Il n'est plus permis à mon coeur
+De se laisser séduire.
+
+-*who_florestan
+Se peut-il qu'Amadis vous ait manqué de foi !
+
+-*who_oriane
+Ma rivale n'est que trop belle.
+
+-*who_corisande
+Êtes-vous moins aimable qu'elle ?
+
+-*who_oriane
+Elle a l'avantage sur moi
+D'être une conquête nouvelle.
+
+-*who_florestan
+Amadis est saisi d'un mortel désespoir.
+
+-*who_oriane
+Non, non, ce n'est qu'un artifice
+Dont il couvre son injustice,
+Il sera trop content de ne me jamais voir.
+
+-*who_corisande
+L'injustice serait étrange
+De vouloir ajouter la feinte au changement :
+Du moins un grand coeur, quand il change,
+Doit changer sans déguisement.
+
+-*who_oriane
+L'ingrat, un peu plus tard aurait changé son crime !
+Je vais devenir la victime
+Du devoir, qui règle mon sort.
+L'inconstant n'a-t-il pu se faire un peu d'effort ?
+De lui-même bientôt son coeur allait dépendre :
+Eh ! Que n'attendait-il mon hymen, ou ma mort,
+Il ne devait plus guère attendre.
+Que j'ai de peine à cacher mes ennuis ?
+
+-*who_corisande
+Deux partis vont ici disputer la victoire.
+Ces jeux guerriers se font à votre gloire.
+
+-*who_oriane
+Ne m'abandonnez pas dans le trouble où je suis
+
+**** *book_ *id_II04 *act_II *date_1684
+
+-*who_demons
+Que des plaisirs enchanteurs
+Vous s'empresser sur vos traces !
+Vous triomphez, heureux vainqueurs.
+Quels hommages plus flatteurs !
+À nos yeux la main des grâces
+Va joindre à vos lauriers les plus aimables fleurs.
+
+-*who_chevaliers
+Belle Princesse, que vos charmes,
+Ont enchanté de coeurs !
+Vous forcez les plus fiers vainqueurs
+A vous rendre les armes.
+Les plus grands rois de l'univers
+Font gloire de porter vos fers.
+
+**** *book_ *id_III01 *act_III *date_1684
+
+-*who_arcabonne
+
+
+Amour, que veux-tu de moi ?
+Mon coeur n'est pas fait pour toi.
+Non, ne t'oppose point au penchant qui m'entraîne,
+Je suis accoutumée à ressentir la haine,
+Je ne veux inspirer que l'horreur et l'effroi.
+
+
+Amour que veux-tu de moi ?
+Mon coeur aurait trop de peine
+A suivre une douce loi,
+C'est mon sort d'être inhumaine.
+Amour, que veux-tu de moi ?
+Mon coeur n'est pas fait pour toi.
+
+**** *book_ *id_III02 *act_III *date_1684
+
+-*who_arcalaus
+Ma soeur, qui peut causer votre sombre tristesse ?
+Le silence des bois sert à l'entretenir.
+
+-*who_arcabonne
+Il faut avouer ma faiblesse.
+Pour commencer à m'en punir.
+Un héros, contre un monstre, un jour prit ma défense,
+J'étais morte sans son secours.
+Il ne voulut, pour récompense,
+Que le plaisir secret d'avoir sauvé mes jours.
+Je n'ai point su quel héros m'a servie ;
+Je m'informai de son nom vainement :
+Mais son casque tomba, je le vis un moment,
+Ce moment fut fatal au reste de ma vie.
+Cet inconnu, si généreux,
+Ne me parut que trop aimable ;
+Il m'en revient sans cesse une image agréable,
+Qui me plaît plus que je ne veux.
+J'ai honte de mon trouble extrême ;
+Je fuis partout l'amour, je sens partout ses traits ;
+Je cherche en vain les paisibles forêts ;
+Hélas ! Jusqu'au silence même,
+Tout me parle de ce que j'aime.
+
+-*who_arcalaus
+L'amour n'est qu'une vaine erreur,
+On n'en est point surpris quand on veut s'en défendre.
+Est-ce à vous d'avoir un coeur tendre ?
+Votre coeur tout entier n'est dû qu'à la fureur.
+
+-*who_arcabonne
+Non, je ne connais plus mon coeur.
+L'amour qu'il a bravé le réduit à se rendre :
+Tout barbare qu'il est, il se laisse surprendre
+D'une douce langueur.
+Non, je ne connais plus mon coeur.
+
+-*who_arcalaus
+Délivrez-vous de l'esclavage
+Où l'amour vous engage.
+Vous qui savez commander aux enfers,
+Ne sauriez-vous briser vos fers ?
+
+-*who_arcabonne
+Vous m'avez enseigné la science terrible
+Des noirs enchantements, qui font pâlir le jour ;
+Enseignez-moi, s'il est possible,
+Le secret d'éviter les charmes de l'Amour.
+
+-*who_arcalaus
+Songez que notre sang nous demande vengeance.
+Amadis l'a versé ; sa valeur nous offense :
+Le superbe Amadis a terminé le sort
+Du redoutable Ardan, notre malheureux frère...
+
+-*who_arcabonne
+Que le nom d'Amadis m'inspire de colère !
+Quand pourrai-je goûter le plaisir de sa mort ?
+
+-*who_arcalaus
+Que j'aime à voir en vous ce généreux transport !
+
+-*who_arcabonne_arcalaus
+Irritons notre barbarie :
+Écoutons notre sang qui crie :
+Périsse l'ennemi qui nous ose outrager.
+Ah, qu'il est doux de se venger !
+
+-*who_arcabonne
+L'espoir de la vengeance aujourd'hui me console,
+De tout ce que l'amour m'a causé de tourments.
+Hâtez-vous de livrer à mes ressentiments,
+L'ennemi qu'il faut que j'immole.
+
+-*who_arcalaus
+Laissez-moi l'engager dans mes enchantements.
+
+**** *book_ *id_III03 *act_III *date_1684
+
+-*who_arcalaus
+Dans un piège fatal son mauvais sort l'amène.
+Esprits malheureux, et jaloux,
+Qui ne pouvez souffrir la vertu qu'avec peine ;
+Vous dont la fureur inhumaine,
+Dans les maux qu'elle fait trouve un plaisir si doux ;
+Démons, préparez-vous
+À seconder ma haine ;
+Démons, préparez-vous
+À servir mon courroux.
+
+**** *book_ *id_III04 *act_III *date_1684
+
+-*who_amadis
+Bois épais, redouble ton ombre :
+Tu ne saurais être assez sombre ;
+Tu ne peux trop cacher mon malheureux amour.
+Je sens un désespoir dont l'horreur est extrême,
+Je ne dois plus voir ce que j'aime,
+Je ne veux plus souffrir le jour.
+
+**** *book_ *id_III05 *act_III *date_1684
+
+-*who_corisande
+Ô Fortune cruelle !...
+Que vois-je Amadis !
+
+-*who_amadis
+Qui m'apppelle ?
+
+-*who_corisande
+Par quel sort puis-je ici vous voir ?
+
+-*who_amadis
+Vous voyez un amant fidèle,
+Réduit au dernier désespoir.
+
+-*who_corisande
+Protégez la vertu, que l'injustice opprime.
+Secourez Florestan, même sang vous anime ;
+Il était, comme vous, l'appui des malheureux.
+Je n'ai pu retenir son coeur trop généreux ;
+Aux pleurs d'une inconnue il s'est laissé séduire.
+La perfide a su le conduire
+Dans des enchantements affreux.
+
+-*who_amadis
+Pour l'aller secourir quel chemin faut-il prendre ?
+
+-*who_corisande
+À d'horribles dangers vous devez vous attendre.
+
+-*who_amadis
+J'ai vu le danger sans effroi
+Lorsque mes jours heureux étaient dignes d'envie ;
+Puis-je craindre la mort, dans un temps où la vie
+N'est plus qu'un supplice pour moi ?
+
+-*who_corisande
+Florestan est tombé dans un triste esclavage
+En voulant passer dans ces lieux.
+
+-*who_amadis
+Allons.
+
+**** *book_ *id_III06 *act_III *date_1684
+
+-*who_arcalaus
+      Arrête, audacieux ;
+Arrête, j'entreprends de garder ce passage.
+Vois ces marques de mes exploits,
+Vois combien de guerriers m'ont cédé la victoire.
+Joins un nouveau trophée à ceux que dans ces bois
+J'ai fait élever à ma gloire.
+
+-*who_amadis
+Cesse de m'arrêter, ne force point mon bras
+À tourner sur toi ma vengeance.
+
+-*who_arcalaus
+Si tu cherches ton frère, il est en ma puissance.
+
+-*who_corisande
+Rendez-moi Florestan.
+
+-*who_arcalaus
+      Allez, suivez ses pas,
+Suivez votre amant au trépas.
+
+-*who_corisande
+Amadis ! Amadis ! Notre unique espérance,
+Ah ! Ne nous abandonnez pas.
+
+-*who_amadis
+Perfide ! Il faut que je punisse
+Ta barbare injustice.
+
+-*who_arcalaus
+Esprits infernaux, il est temps
+De me donner le secours que j'attends.
+
+**** *book_ *id_III07 *act_III *date_1684
+
+-*who_demons
+Non, non, pour être invincible,
+On n'en est pas moins sensible,
+Quel vainqueur a résisté
+Au charme de la beauté.
+
+-*who_demons
+Vous ne devez plus attendre
+Rien qui trouble vos désirs.
+Cédez aux plaisirs
+Qui viennent vous surprendre.
+Cédez, il est temps de vous rendre
+Cédez, rendez-vous
+Aux charmes les plus doux.
+
+-*who_amadis
+Est-ce vous, Oriane ! Ô ciel ! Est-il possible !
+Votre coeur contre moi n'est-il plus irrité ?
+L'éclat de vos beaux yeux dans ce bois écarté
+Chasse ce que l'enfer a formé de terrible.
+Que vivre loin de vous est un supplice horrible !
+Quel plaisir de vous voir ! que j'en suis enchanté !
+Disposez de ma vie et de ma liberté.
+
+-*who_demons
+Non, non, pour être invincible
+On n'en est pas moins sensible :
+Quel vainqueur a résisté,
+Au charme de la beauté ?
+
+**** *book_ *id_IV01 *act_IV *date_1684
+
+-*who_captives_captifs
+Ciel ! Finissez nos peines.
+
+-*who_geoliers
+Vos clameurs seront vaines.
+
+-*who_captives_captifs
+Ciel ! Ô ciel ! Quel supplice, hélas !
+
+-*who_geoliers
+Le ciel ne vous écoute pas.
+
+**** *book_ *id_IV02 *act_IV *date_1684
+
+-*who_arcabonne
+Il est temps de finir votre plainte importune.
+Sortez, traînez ici vos fers.
+
+-*who_choeurdescaptivesetdescaptifs
+Contentez-vous des maux que nous avons soufferts ;
+Faites cesser notre infortune.
+
+-*who_arcabonne
+Vous allez cesser de souffrir,
+Malheureux, vous allez mourir.
+Bientôt l'ennemi qui m'outrage
+Sera remis en mon pouvoir :
+Et plus je suis près de le voir,
+Plus je sens augmenter ma rage.
+Le sang, ou l'amitié vous unit avec lui,
+Vous périrez tous aujourd'hui.
+Toi qui dans ce tombeau n'est plus qu'un peu de cendre
+Et qui fut de la terre autrefois la terreur.
+Reçois le sang que ma fureur
+S'empresse de répandre.
+Qu'entend-je ! Quel gémissement
+Sort de ce monument ?
+Je vais répondre à votre impatience,
+Mânes plaintifs, cessez de murmurer.
+Je punirai qui nous offense
+Par la plus cruelle vengeance
+Que la rage puisse inspirer,
+Je vais répondre à votre impatience,
+Mânes plaintifs, cessez de murmurer.
+
+**** *book_ *id_IV03 *act_IV *date_1684
+
+-*who_ardancanile
+Ah ! Tu me trahis, malheureuse.
+
+-*who_arcabonne
+J'ai juré d'achever une vengeance affreuse,
+Voyez quelle est l'ardeur de mes ressentiments.
+
+-*who_ardancanile
+Ah ! Tu me trahis, malheureuse.
+Ah ! Tu vas trahir tes serments.
+Je retombe ; le jour me blesse.
+Tu me suivras dans peu de temps ;
+Pour te reprocher ta faiblesse,
+C'est aux enfers que je t'attends.
+
+-*who_arcabonne
+Non, rien n'arrêtera la fureur qui m'anime
+On vient me livrer ma victime.
+
+**** *book_ *id_IV04 *act_IV *date_1684
+
+-*who_arcabonne
+Meurs !... Que mes sens sont interdits !
+Ô Ciel ! Que vois-je ? Est-ce Amadis !
+
+-*who_amadis
+Je suis un malheureux, qui n'ai plus d'autre envie
+Que de trouver la fin de mon funeste sort.
+
+-*who_arcabonne
+Quoi, l'ennemi dont j'ai juré la mort,
+Est le héros qui m'a sauvé la vie ?
+Qu'est-ce que j'entreprends ? un trépas inhumain
+De mon libérateur serait la récompense ?
+Non, une cruelle vengeance
+Contre vos jours m'a fait armer en vain :
+Une juste reconnaissance
+Me fait tomber les armes de la main.
+Vivez, quittez vos fers, ne craignez plus ma haine.
+Quel prix vous puis-je offrir pour ce que je vous dois ?
+
+-*who_amadis
+D'innocents malheureux ont trop souffert pour moi ;
+Le seul prix que je veux, c'est de briser leur chaîne.
+
+-*who_arcabonne
+Allez en liberté . goûtez un doux repos :
+Rendez grâces à ce héros.
+
+-*who_florestan
+
+
+Sortons d'esclavage,
+Profitons de l'avantage.
+Qu'Amadis a remporté :
+Notre liberté
+Est le prix de son courage.
+Sortons d'esclavage.
+
+Amadis a surmonté
+L'envie et la rage ;
+Amadis a surmonté
+L'enfer irrité.
+
+Sortons d'esclavage,
+Profitons de l'avantage.
+Qu'Amadis a remporté :
+Notre liberté
+Est le prix de son courage.
+Sortons d'esclavage.
+
+-*who_corisande
+Quel plaisir dans mon coeur succède au désespoir !
+
+-*who_florestan
+Aimons-nous, livrons-nous au bonheur de nous voir.
+
+-*who_corisande
+L'amour et la victoire
+S'unissent, pour nous rendre heureux.
+De ce jour, par nos chants, consacrons le mémoire.
+Volez, plaisirs ; régnez, aimables jeux :
+L'amour vous appelle en ces lieux.
+
+**** *book_ *id_V01 *act_V *date_1684
+
+-*who_arcalaus
+Par mes enchantements Oriane est captive,
+Sa beauté causa nos malheurs :
+Dans ces lieux, sans pitié, j'entends sa voix plaintive,
+Et j'aime à voir couler ses pleurs.
+Notre ennemi l'aimait, il a tout fait pour elle ;
+Il combattait pour l'obtenir.
+
+-*who_arcabonne
+Je viens de la voir, qu'elle est belle !
+Vous ne la sauriez trop punir.
+
+-*who_arcalaus
+
+
+Ne permettons pas qu'elle ignore
+La perte d'un amant, dont son coeur est charmé,
+Il faut qu'après la mort Amadis souffre encore
+Dans ce qu'il a le plus aimé.
+
+Aux regards d'Oriane, exposez la victime
+Qu'à nos ressentiments vous venez d'immoler.
+Un soupir vous échappe ; et vous n'osez parler !
+Est-ce par des soupirs que la haine s'exprime ?
+
+-*who_arcabonne
+Que vous êtes heureux de n'avoir à songer
+Qu'à haïr, et qu'à vous venger !
+Hélas ! Dans notre ennemi même
+J'ai trouvé l'inconnu que j'aime.
+
+-*who_arcalaus
+Vous aimez Amadis ! Il voit encore le jour !
+Quoi ! Sur votre vengeance un lâche amour l'emporte ?
+
+-*who_arcabonne
+La vengeance la plus forte
+Est faible contre l'amour.
+
+-*who_arcalaus
+Quelle faiblesse est plus étrange !
+Notre ennemi mortel devient votre vainqueur ?
+Malgré tant de serments, votre perfide coeur
+Du parti d'Amadis se range !
+Parjure ! Ah, c'est de vous qu'il faut que je me venge !
+
+-*who_arcabonne
+Je l'aime, malgré moi, cet ennemi charmant ;
+Je n'en puis être aimée, une autre a su lui plaire :
+Je vous défie, avec votre colère,
+D'inventer pour mon châtiment
+Un plus cruel tourment.
+
+-*who_arcalaus
+Pour augmenter votre supplice,
+Il faut vous faire voir ces deux amants heureux ;
+Avant que ma vengeance en fasse un sacrifice,
+Il faut que l'hymen les unisse...
+
+-*who_arcabonne
+Ah ! Que plutôt cent fois ils périssent tous deux.
+Entre l'amour et la haine cruelle
+J'ai cru pouvoir me partager ;
+Mais dans mon coeur l'amour est étranger,
+Et la haine m'est naturelle.
+
+-*who_arcabonne
+Ma rivale gémit : que ses maux me sont doux !
+Pour punir ces amants, j'imagine une peine
+Digne de ma fureur, et de votre courroux ;
+C'est peu d'une mort inhumaine...
+
+-*who_arcalaus
+Puis-je encore me fier à vous ?
+
+-*who_arcabonne
+Fiez-vous à l'amour jaloux,
+Il est plus cruel que la haine.
+
+**** *book_ *id_V02 *act_V *date_1684
+
+-*who_oriane
+À qui pourrai-je avoir recours ?
+C'est de vous, juste Ciel ! Que j'attends du secours,
+Sur ces bords inconnus, un enchanteur barbare
+Dispose de mes tristes jours :
+L'enfer contre moi se déclare ;
+À qui pourrais-je avoir recours ?
+C'est de vous, juste Ciel ! que j'attends du secours.
+Autrefois Amadis aurait pris ma défense :
+Mais l'inconstant m'oublie, et suit une autre loi.
+Pourquoi m'en souvenir ? Pourquoi
+N'oublier pas de lui jusqu'à son inconstance ?
+Ici, loin de toute assistance,
+Je tremble d'un mortel effroi ;
+Eh ! Faut-il encore que je pense
+À qui ne pense plus à moi ?
+
+**** *book_ *id_V03 *act_V *date_1684
+
+-*who_arcalaus
+Je vous entends, cessez de feindre.
+Plaignez-vous d'Amadis ; je ne veux pas contraindre
+Un si juste courroux.
+
+-*who_oriane
+J'ai tant de sujet de m'en plaindre,
+Que j'ai presque oublié de me plaindre de vous.
+Non, ce n'est point ici son secours que j'implore ;
+Il est allé chercher la beauté qu'il adore,
+Et je l'appellerais par des cris superflus.
+
+-*who_arcalaus
+Lorsque vous le verrez, vous l'aimerez encore.
+
+-*who_oriane
+Non, non, je ne le verrai plus.
+Je dois trop le haïr, pour renouer la chaîne
+Dont il a dégagé son coeur.
+
+-*who_arcalaus
+Si vous le haïssez, j'ai servi votre haine ;
+À la fin j'ai vaincu ce superbe vainqueur.
+
+-*who_oriane
+Vous, vainqueur d'Amadis ! Non, il n'est pas possible
+Qu'il ait cessé d'être invincible :
+Tout cède à sa valeur, et vous la connaissez...
+
+-*who_arcalaus
+Eh ! C'est ainsi que vous le haïssez ?
+
+-*who_oriane
+Je veux haïr toujours un amant si volage,
+Et je me le suis bien promis :
+Mais ses plus cruels ennemis
+Peuvent-ils s'empêcher d'admirer son courage.
+Non, rien ne peut être assez fort,
+Pour surmonter ce héros indomptable.
+
+-*who_arcalaus
+Voyez si je me vante à tort,
+D'avoir vaincu ce vainqueur redoutable.
+
+**** *book_ *id_V04 *act_V *date_1684
+
+-*who_oriane
+Que vois-je ! Ô spectacle effroyable ?
+Ô trop funeste sort !
+Ciel ! Ô Ciel ! Amadis est mort !
+Ma colère lui fut fatale ;
+J'eus tort de l'accuser de suivre une autre amour.
+Que ne puis-je, en mourant, le rappeler au jour,
+Dû-t-il vivre pour ma rivale !
+Ciel ! Qui nous donna ce héros,
+Que ne prenais-tu sa défense
+Contre l'infernale puissance ?
+L'univers a perdu l'auteur de son repos.
+Pleure, gémis, faible innocence,
+Pleure, hélas ! Tu n'as plus d'appui,
+Tu vois expirer aujourd'hui
+Ton unique espérance.
+Ô trop funeste sort !
+Ciel ! Ô Ciel ! Amadis est mort !
+Il m'appelle ; je le vais suivre
+Le sort qui nous rejoint m'est doux :
+Amadis, je vivais pour vous,
+Vous mourez, je ne puis plus vivre.
+
+**** *book_ *id_V05 *act_V *date_1684
+
+-*who_arcabonne_arcalaus
+Quel plaisir de voir
+Un si cruel désespoir !
+
+-*who_arcabonne
+Joignez votre fureur à ma rage inhumaine.
+Il faut que ces amants revivent tour à tour
+Pour souffrir une affreuse peine
+
+-*who_arcalaus
+Il faut faire de leur amour
+Le ministre de notre haine.
+
+-*who_arcabonne_arcalaus
+Quel plaisir de voir
+Un si cruel désespoir!
+
+-*who_arcabonne
+Il faut qu'Amadis sorte
+Du profond assoupissement
+Où le tient notre enchantement,
+Et qu'il pleure Oriane morte....
+Mais pour eux contre nous, quel pouvoir s'est armé ?
+
+-*who_arcalaus
+Qui peut conduire ici ce rocher enflammé.
+
+**** *book_ *id_V06 *act_V *date_1684
+
+-*who_urgande
+Je soumets à mes lois l'enfer, la terre et l'onde.
+Sans qu'on sache où je suis, je parcours tout le monde ;
+Et je connais des secrets que les cieux
+N'ont jusqu'ici dévoilé qu'à mes yeux.
+Mais j'arme seulement ma fatale puissance
+Contre l'injuste violence ;
+J'ai soin de secourir le mérite abattu,
+Et je fais mon bonheur de servir la vertu.
+Tremblez, tremblez, reconnaissez Urgande ;
+Tout obéit, sitôt que je commande ;
+Barbares, laissez pour jamais
+Ces fidèles amants en paix.
+
+-*who_arcabonne_arcalaus
+Tout mon effort est inutile,
+Je demeure immobile ;
+Je cède aux charmes trop puissants
+Qui saisissent mes sens.
+
+-*who_urgandesuite
+Coeurs, accablés de rigueurs inhumaines,
+Ne cessez point d'espérer en aimant :
+Il est fâcheux de porter des chaînes,
+C'est un cruel tourment ;
+Mais quand l'amour en veut payer les peines,
+C'est un plaisir charmant.
+
+-*who_urgande
+Il faut que de vos sens je vous rende l'usage,
+Perfides ! Je vous livre à votre propre rage.
+Urgande rentre dans le vaisseau de la grande serpente, qui
+commence à s'éloigner et à se couvrir de flammes
+
+-*who_arcabonne_arcalaus
+
+
+Démons, soumis à nos lois,
+Volez, venez nous défendre.
+
+N'osez-vous rien entreprendre ?
+Méprisez-vous notre voix ?
+Hâtez-vous, c'est trop attendre.
+
+Démons, soumis à nos lois,
+Volez, venez nous défendre.
+
+-*who_arcabonne_arcalaus
+On brave notre vain pouvoir,
+Tout est contraire à notre envie :
+Nous perdons tout espoir,
+Renonçons à la vie !
+
+**** *book_ *id_VI01 *act_VI *date_1684
+
+-*who_urgande
+Apollidon, par un pouvoir magique,
+Autrefois éleva ce palais magnifique ;
+Consolez-vous en des lieux si charmants ;
+Vous y devez trouver la fin de vos tourments.
+
+-*who_amadis
+Je ne puis ressentir les charmes
+Du plus agréable séjour :
+Non, rien ne plaît à des yeux que l'Amour
+A condamnés à d'éternelles larmes.
+
+-*who_urgande
+Oriane est ici, rappelez votre espoir.
+
+-*who_amadis
+Oriane...
+
+-*who_urgande
+      Vous l'allez voir.
+
+-*who_amadis
+Je puis voir par vos soins la beauté que j'adore !
+Voir Oriane !... Hélas ! C'est l'irriter encore.
+Ah, que mon coeur se sent troublé !
+Je tremble...
+
+-*who_urgande
+      Amadis peut trembler !
+
+-*who_amadis
+Je suis inébranlable
+Contre un ennemi redoutable,
+Dont il faut vaincre la fureur,
+Mais contre la colère
+De la beauté qui m'a su plaire,
+Rien n'est si faible que mon coeur.
+
+-*who_urgande
+Dissipez une crainte vaine ;
+Empressez-vous de voir Oriane en ces lieux.
+
+-*who_amadis
+Elle m'a défendu de paraître à ses yeux ;
+Je crains de mériter sa haine.
+
+**** *book_ *id_VI02 *act_VI *date_1684
+
+-*who_oriane
+Fermez-vous pour jamais, mes yeux, mes tristes yeux.
+Je perds ce que j'aime le mieux,
+La clarté doit m'être ravie.
+Hélas ! Quelle rigueur de me rendre la vie,
+Pour me faire sentir la perte que je fais !
+Mes yeux, mes tristes yeux, fermez-vous pour jamais.
+
+-*who_oriane_amadis
+Ô ciel ! Le puis-je croire ?
+
+-*who_oriane
+Amadis ! Vous vivez !
+
+-*who_amadis
+      Vous plaignez mes malheurs !
+Vos beaux yeux m'ont donné des pleurs !
+
+-*who_oriane
+Vous vivez ?
+
+-*who_amadis
+      Puis-je encore vivre en votre mémoire ?
+
+-*who_oriane_amadis
+Ô Ciel ! Le puis-je croire !
+
+-*who_oriane
+Je vous aime constamment
+Malgré votre changement.
+Dans une amour nouvelle
+Vous pourrez trouver plus d'appas :
+Mais vous n'y trouverez pas
+Un coeur plus fidèle.
+
+-*who_amadis
+Oriane, m'accusez-vous ?
+
+-*who_oriane
+Briolanie a des charmes trop doux ;
+Je n'empêcherai pas que votre amour la suive...
+
+-*who_amadis
+Ah ! Ne reprenez plus votre fatal courroux,
+Si vous souhaitez que je vive.
+
+-*who_oriane
+Vous aurez peu de peine à me désabuser,
+Amadis, contre vous à regret je m'irrite ;
+Le dépit que l'amour excite
+Ne demande qu'à s'apaiser.
+Tout vous a dit que je vous aime :
+Mes larmes, ma douleur extrême,
+Mes larmes, ma douleur extrême,
+Et jusqu'à mon dépit
+Tout vous a dit
+Que je vous aime.
+
+-*who_oriane_amadis
+Je vous promets
+De n'éteindre jamais
+Une flamme si belle
+Je vous promets
+Une amour éternelle.
+
+**** *book_ *id_VI03 *act_VI *date_1684
+
+-*who_urgande_amadis_oriane_florestan
+Digne sang de Lisvart, régnez votre naissance
+Vous élève aux plus grands honneurs.
+Vootre beauté sur tous les coeurs
+Vous donne encor de la puissance.
+
+-*who_corisande_urgande_amadis_oriane_florestan
+D'un bonheur nouveau
+Goûtons tous les charmes ;
+Mars est sans armes,
+Et l'Amour sans bandeau.
+
+-*who_corisande
+Volez, plaisirs ; régnez avec la gloire ;
+Ramenez les amours ;
+Enchaînez la victoire ;
+Donnez à jamais de beaux jours.
+
+-*who_corisande_urgande_amadis_oriane_florestan
+D'un bonheur nouveau
+Goûtons tous les charmes ;
+Mars est sans armes,
+Et l'Amour sans bandeau.
+
+-*who_corisande_urgande_amadis_oriane_florestan
+Aimable maître
+De nos désirs,
+Toi seul fais naître
+Les vrais plaisirs.
+
+-*who_corisande
+Malgré tes peines,
+Un tendre coeur
+Trouve ne tes chaînes
+Le parfait bonheur.
+
+-*who_urgande_amadis_oriane_florestan
+Aimable maître
+De nos désirs,
+Toi seul fais naître
+Les vrais plaisirs.

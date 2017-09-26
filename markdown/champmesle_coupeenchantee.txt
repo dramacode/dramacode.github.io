@@ -1,0 +1,1475 @@
+---
+identifier: champmesle_coupeenchantee  
+creator: Champméslé Charles Chevillet dit  
+date: 1693  
+title: La coupe enchantée. , comédie  
+---
+
+
+LE COUPE ENCHANTÉE
+
+COMÉDIE
+
+M. DCC. X. APPROBATION ET PRIVILÈGE DU ROI.
+
+
+
+# PRIVILÈGE DU ROI. LOUIS PAR LA GRÂCE DE DIEU, ROI DE France et de Navarre : À nos amés et féaux Conseillers les Gens tenant nos Cours de Parlement, Maîtres des Requêtes ordinaires de notre Hôtel, Grand-Conseil, Prévôt de Paris, Baillifs, Sénéchaux, leurs Lieutenants Civils, et autres nos Justiciers qu'il appartiendra, Salut. PIERRE RIBOU, Libraire à Paris, Nous ayons fait remontrer qu'il souhaiterait faire imprimer Les Voyages de Tavernier, avec sa Relation du Sérail : mais comme il ne le peut faire réimprimer sans s'engager à de très grands frais, il Nous a très-humblement fait supplier de vouloir bien, pour l'en dédommager, lui accorder nos Lettres de Privilèges, tant pour la réimpression de cet Ouvrage, que pour celles de plusieurs autres. À ces causes, voulant favorablement traiter ledit Ribou, et engager les autres Libraires et Imprimeurs à entreprendre, à son exemple, des Éditions, dont la lecture puisse contribuer à l'avancement des Sciences et belles Lettres, qui fleurissent dans notre Royaume, ainsi qu'à soutenir la réputation de la Librairie et Imprimerie, qui y ont été jusqu'à présent cultivées avec tant de succès, Nous avons permis et permettons par ces Présentes audit Ribou, de faire Réimprimer lesdits Voyage de Tavernier, avec sa relation du Sérail, et aussi de faire réimprimer la nouvelle et parfaite Grammaire Française du Père Chifflet, le Théâtre Français, ou Recueil des meilleurs Pièces de Théâtre et Poésies des anciens Auteurs, et notamment des Sieurs de la Fosse, d'Auteroche, de Pradon, de Boursault, de Quinault, de Lagrange, de Dancourt, et de Baron, le jeu de l'hombre, augmenté des décisions nouvelles sur le difficultés et incidents de ce Jeu, en telle forme, marge, caractère, en un ou plusieurs volumes, autant de fois que bon lui semblera, conjointement, ou séparément, et de les vendre, faire vendre et débiter par tout notre Royaume, pendant le temps de dix années consécutives, à compter du jour de la date desdites Présentes. Faisons défenses à toutes personnes de quelque qualité et condition qu'elles puissent être, d'en introduire d'impression étrangère dans aucun lieu de notre obéissance, et à tous Imprimeurs, Libraires, et autres, d'imprimer, faire imprimer, vendre, faire vendre et débiter, ni contrefaire lesdits Livres en tout ni en partie, sans la permission expresse et par écrit dudit Exposant ou de ceux qui auront droit de lui, à peine de confiscation des Exemplaires contrefaits, de trois mille livres d'amende contre chacun des contrevenants, dont un tiers à Nous, un tiers à l'Hôtel-Dieu de Paris, l'autre tiers audit Exposant, et de tous dépens, dommages et intérêts ; à la charge que ces présentes seront enregistrées tout au long sur le registre de la Communauté des Imprimeurs et Libraires de Paris, et ce dans trois mois de la date d'icelles ; que l'impression desdits Livres sera faite dans notre Royaume, et non ailleurs, en bon papier et en beaux caractères, conformément aux Règlement de la Librairie, et qu'avant de l'exposer en vente, il en sera mis deux Exemplaires dans notre Bibliothèque publique, un dans celle de notre Château du Louvre, et un dans celle de notre très cher et féal Chevalier Chancelier de France le Sieur Phelypeaux, Comte de Pontchartrain, Commandeur de nos Ordres ; le tout à peine de nullité des Présentes : du contenu desquelles vous mandons et enjoignons de faire jouir l'Exposant ou ses ayants cause pleinement et paisiblement, sans souffrir qu'il leur soit fait aucun trouble ou empêchement,. Voulons que la copie desdites Présentes, qui sera imprimée au commencement ou à la fin desdits Livres, soit tenue pour dûment signifiée, et qu'aux copies collationnées par l'un de nos amés et féaux Conseillers et Secrétaires, foi soit ajoutée comme à l'Original. Commandons au premier notre Huissier ou Sergent de faire pour l'exécution d'icelles tous Actes requis et nécessaires, sans demander autre permission, et nonobstant clameur de Haro, Charte Normande, et Lettres à ce contraires : CAR tel est notre plaisir. DONNÉ à Versailles le douzième jour d'Avril, l'an de grâce mil sept cent dix, et de notre Règne le soixante-septième. Signé par le Roi en son Conseil, FOUQUET, et scellé du grand Sceau de cire jaune. Registré sur le Registre, n. 3. De la Communauté des Libraires et Imprimeurs de Paris, page 42. v. 42. conformément aux Règlements, et notamment à l'Arrêt du 13. Août 1703. À Paris le 11. Juillet 1710. Signé, DELAUNAY, Syndic. # APPROBATION. J'ai lu par ordre de Monseigneur le Chancelier, les Pièces qui composent les premier, second, et troisième Tome du Théâtre Français : et je n'ai rien trouvé qui en puisse empêcher l'impression. Fait à Paris ce 31. Avril 1715. sic POUCHARD. À PARIS, De l'Imprimerie de Lamoille, rue du Foin. 1710.À PARIS, Chez PIERRE RIBOU, seul Libraire de l'Académie Royale de Musique ; quai des Augustins, à la descente du Pont-Neuf, à l'Image Saint-Louis.
+Représentée pour la première fois le 24 Avril 1693 au Théâtre de la rue des Fossés Saint-Germain.
+
+
+# ACTEURS.
+ – ANSELME.
+ – LELIE, Fils d'Anselme.
+ – JOSSELIN, Gouverneur de Lélie.
+ – BERTRAND, Fermier d'Anselme.
+ – MONSIEUR GRIFFON, Beau-frère.
+ – MONSIEUR TOBIE, Beau-frère.
+ – LUCINDE, Fille de M. Tobie.
+ – THIBAUT, Fermier de M. Tobie.
+ – PERRETTE, Femme de Thibaut.La Scène est dans la cour du Château d'Anselme.
+
+
+# .
+
+
+## SCÈNE I. Bertrand, Lucinde, Perrette.
+
+    BERTRAND. [1]
+Non mordienne vous, dis-je, je ne me laisserai pas enjôler davantage.
+
+    LUCINDE.
+Hé, mon pauvre garçon.
+
+    BERTRAND.
+Je n'en ferai rien.
+
+    PERRETTE.
+Auras-tu bien le coeur si dur que...
+
+    BERTRAND.
+Je l'aurai dur comme un caillou.
+
+    LUCINDE.
+Laisse-nous ici seulement jusqu'à ce soir.
+
+    BERTRAND. [2] [3]
+Je ne vous y laisserai pas un iota davantage, ventregoine. Si quelqu'un vous allait trouver enfarmées dans ma logette, et que dirait-on ?
+
+    PERRETTE. [4]
+Ardé, ce qu'on en dirait, serait-il tant à ten désavantage ?
+
+    BERTRAND. [5]
+Testigué, si notre Maître qui hait les femmes, venait à vous trouver, où en serais-je ?
+
+    LUCINDE. [6]
+Quand il saura que je suis une jeune fille persécutée par une Belle-mère, abandonnée à la sollicitation et à l'inimitié de mon propre père, et qui fuit la maison paternelle, de crainte d'épouser un magot qu'elle me veut donner, parce qu'il est son neveu, mes larmes le toucheront ; il aura pitié de moi sans doute.
+
+    BERTRAND. [7]
+Morgué, je vous dis qu'il n'est point pitoyable, je le connais mieux que vous.
+
+    PERRETTE.
+Et moi je gage que ces larmes le débaucheront, comme elles m'ont débauchée. Je ne les vis pas plutôt couler que je me résolus d'abandonner mon ménage, pour aller courir les champs avec elle, quoiqu'il n'y ait que onze mois que je sois mariée à Thibaut, le Fermier de son Père, qui est le meilleur homme du monde, et de la meilleure humeur ; est-ce que ton Maître sera plus rébarbatif que moi ?
+
+    BERTRAND.
+Ventredié vous me feriez enrager ; est-ce que je ne savons pas bien ce que je savons ?
+
+    LUCINDE.
+Fais-moi parler à ce jeune homme que tu dis qui est son fils, je le toucherai je m'assure, et je ne doute point qu'il ne fasse quelque chose auprès de son père en notre faveur.
+
+    BERTRAND. [8]
+Hé bien, hé bien, ne voilà-t-il pas. Palsangoi n'an dit bian vrai, qu'il n'y a rian de si dur que la tête d'une femme. Ne vous ai-je pas dit, cervelle ignorante, que ce fils est le Tu Autem du sujet pourquoi on reçoit ici les femmes comme un chien dans un jeu de quille. Que le père ne veut point que le Fils en voie aucune, que le Fils n'en connaît non plus que s'il n'y en avait point au monde, et qu'il ne sait pas seulement comme on les appelle. Que le père sottement lui apprend tout cela, que le Fils croit tout cela sottement, et que, que... que Diable ne vous ai-je pas dit tout cela ?
+
+    PERRETTE.
+Hé bien oui ; mais d'où vient qu'il ne veut pas que son Fils connaisse des Femmes ; est-ce une si mauvaise connaissance ?
+
+    BERTRAND. [9]
+D'où vient, d'où vient... Eh, l'esprit bouché ! Ne vous souvient-il pas que de fil en aiguille, je vous ai conté que le Père avait épousé une Femme qui en savait bien long, et que pour empêcher qu'il n'ait comme li le même malencombre qu'il a li, comme bien d'autres ; il a juré son grand juron, que jamais Femme ne serait de rien à ce Fils, et voilà ce qui fait justement que... mais ventreguienne que de babil, est-ce que vous ne voulez donc pas vous taire, et me tourner les talons ?
+
+    LUCINDE, LUI DONNANT DE L’ARGENT.
+Mon ami, mon pauvre ami.
+
+    BERTRAND. [10] [11]
+Mon ami, mon pauvre ami... Jarnigué ne vla-t-il pas encor la chanson du ricochet avec vos pièces d'or.
+
+    PERRETTE.
+Et va, va, prends toujours.
+
+    BERTRAND.
+Ventregué que veux-tu que j'en fasse ?
+
+    LUCINDE, LUI EN DONNANT ENCORE.
+Mon pauvre garçon.
+
+    BERTRAND. [12]
+Tastigué, n'avez-vous point de honte de me tenter comme ça.
+
+    PERRETTE.
+Prends, te dis-je.
+
+    BERTRAND.
+Morgué, c'est être bien Satan.
+
+    LUCINDE.
+Bertrand...
+
+    BERTRAND.
+Jarni, cela est cause que je vous ai déjà fait passer la nuit dans ma cahute.
+
+    PERRETTE.
+Le grand malheur.
+
+    BERTRAND.
+Morgué, cela va encore être cause que je vous y ferai passer le jour.
+
+    LUCINDE.
+Mon cher Bertrand.
+
+    BERTRAND.
+Mort de ma vie, que vous ai-je fait ?
+
+    PERRETTE.
+Eh, prends, prends.
+
+    BERTRAND.
+Prends, prends, morguoi prends toi-même.
+
+    PERRETTE.
+Hé bien donne-le-moi je le prendrai.
+
+    BERTRAND. [13]
+Tu as bien envie de me voir frotter.
+
+    PERRETTE.
+La, la, prends courage ; il ne t'est point arrivé de mal cette nuit, il ne t'en arrivera pas cette journée, ramène-nous dans la logette.
+
+    BERTRAND.
+Oui ; mais morgué notre petit Maître est un charcheur de midi à quatorze heures, il a toujours le nez fourré partout, s'il vient à vous trouver hem ?
+
+    LUCINDE.
+Peut-être sera-t-il bien aise de nous voir et de nous parler.
+
+    BERTRAND.
+Testigué ne vous y fiez pas. C'est un petit babillard qui ne manquerait pas de l'aller dire à son Père. Il vaut mieux que je vous boute dans queuque endroit où il n'aille pas vous charcher. Attendez, je vais voir si personne ne nous en empêche.
+
+
+## SCÈNE II. Lucinde, Perrette.
+
+    LUCINDE.
+Enfin, Perrette, nous resterons ici jusqu'à ce soir.
+
+    PERRETTE.
+Oui, mais je ne sommes guère loin du Châtiau de votre Père, j'ai peur que je ne soyons pas longtemps ici sans qu'on vienne nous y charcher.
+
+    LUCINDE.
+Nous y seront bien cachées, mais en conscience, Perrette, voudrais-tu partir d'ici sans avoir la charité de tirer ce pauvre petit jeune homme de l'erreur où l'on le fait vivre ?
+
+    PERRETTE.
+Ouais, vous vous intéressez bien pour lui, si j'osais, je croirais quelque chose ?
+
+    LUCINDE.
+Et que croirais-tu ?
+
+    PERRETTE.
+Je croirais que vous ne seriez pas fâchée de l'avoir pour mari.
+
+    LUCINDE.
+Tu ne sais ce que tu dis.
+
+    PERRETTE.
+Oh par ma foi, j'ai mis le nez dessus.
+
+    LUCINDE.
+Que veux-tu dire ?
+
+    PERRETTE.
+Mon gueu je ne suis pas si sotte que j'en ai la mine. Quand je vous le vis regarder hier avec tant d'attention par le trou de la sarrure, je me dis à part moi, vla notre Maîtresse Lucinde qui se prend. Et si ce grand dadais que n'an li venait bailler pour époux, avait eu aussi bonne mine que ce petit étourniau-ci, je ne serions pas sorties de la maison.
+
+    LUCINDE.
+Tu vois plus clair que moi, Perrette. Je t'avoue que je formai dès hier la résolution de faire tout mon possible pour détromper ce pauvre petit homme, et que c'est à quoi j'ai pensé toute la nuit ; mais jusques à présent je ne m'aperçois pas que mon coeur agisse par un autre mouvement, que par celui de la compassion.
+
+    PERRETTE. [14] [15]
+Eh oui, oui, vous autres grosses Dames, vous n'allez point tout d'abord à la franquette. Vous faites toujours semblant de vous déguiser les choses ; pour moi je n'y entends point tant de façons, et quand Thibaut me prit la main la première fois pour danser, qu'il me la serrit de toute sa force, je devinai tout du premier coup c'en que chelà voulait dire. Mais qu'entends-je ?
+
+
+## SCÈNE III. Thibaut, Lucinde, Perrette.
+
+    THIBAUD, DERRIÈRE LE THÉÂTRE. [16]
+Haye, haye, haye.
+
+    LUCINDE.
+Quelle voix a frappé mon oreille.
+
+    THIBAUT.
+Ho, ho, ho,
+
+    PERRETTE.
+Ah Madame, c'est la voix de notre Mari Thibaut, nous vla perdus !
+
+    LUCINDE.
+Courons promptement nous cacher.
+
+
+## SCÈNE IV. Lucinde, Perrette, Bertrand, Thibaut.
+
+    BERTRAND.
+Où courez-vous, fuyez, fuyez de ce côté.
+
+    LUCINDE.
+Thibaut le Mari de Perrette vient par ici.
+
+    BERTRAND.
+Josselin le Gouverneur de notre petit Maître vient par ilà.
+
+    THIBAUT.
+Holà quelqu'un, holà.
+
+    PERRETTE.
+Entends-tu, c'est fait de nous s'il nous trouve.
+
+
+## SCÈNE V. Lucinde, Perrette, Josselin, Bertrand, Thibaut.
+
+    JOSSELIN, DANS LE CHÂTEAU.
+Bertrand, hé Bertrand.
+
+    BERTRAND.
+Oyez-vous ? Nous sommes flambés s'il nous voit.
+
+    LUCINDE.
+Où nous cacher ?
+
+    BERTRAND.
+Rentrez dans ma logette, et n'en ouvrez point la porte à personne.
+
+
+## SCÈNE VI. Josselin, Bertrand, Thibaut.
+
+    JOSSELIN.
+Qui est-ce donc qui crie de la sorte ?
+
+    BERTRAND.
+Il faut que ce soit quelque passant qui s'est égaré, mais le vla.
+
+    THIBAUT.
+Hé, parlez donc vous autres, êtes-vous muets.
+
+    JOSSELIN.
+Non.
+
+    THIBAUT.
+Vous êtes donc sourds ?
+
+    JOSSELIN.
+Encore moins.
+
+    THIBAUT.
+Et pourquoi donc ne répondez-vous pas ?
+
+    JOSSELIN.
+Parce qu'il ne nous plaît pas.
+
+    THIBAUT. [17]
+Palsangué vous êtes trop drôle, puisque vous n'êtes ni sourds ni muets, il faut que je vous embrasse. Oui morgué, je sis votre serviteur.
+
+    JOSSELIN.
+Est-ce que nous nous connaissons ?
+
+    THIBAUT.
+Je ne sais pas, mais je crois que nous ne nous sommes jamais vus.
+
+    JOSSELIN.
+C'est ce qui me semble.
+
+    THIBAUT.
+Palsangué vous vla bian étonné.
+
+    JOSSELIN.
+Et qui ne le serait pas ? Nous ne nous connaissons point et vous m'embrassez comme si nous nous étions vus toute notre vie.
+
+    THIBAUT.
+Tastigué vous avez biau dire, je vois à votre mine que vous êtes un bon vivant, et que vous m'enseignerez ce que je charche.
+
+    JOSSELIN.
+Et que cherchez-vous ?
+
+    THIBAUT.
+Je charche ma Femme, ne l'avez-vous point vue ?
+
+    JOSSELIN.
+Ah ! Vraiment oui, c'est bien ici qu'il faut chercher des Femmes.
+
+    THIBAUT. [18]
+Elle a nom Parrette, elle s'en est enfouie de cheux nous, palsangué chela est bian drôle, pour courir les champs avec la Fille de Monsieur Tobie notre Maître, que l'on voulait marier maugré elle au fils de Monsieur Griffon, neveu de notre Maîtresse, je ne sais morgué comme ces masques ont fagoté tout chela ; mais la nuit Parrette se couchi auprès de moi, et pis je ne li trouvis plus le lendemain, avez-vous jamais rien vu de plus plaisant que chela ?
+
+    JOSSELIN.
+Cela est fort plaisant.
+
+    THIBAUT. [19] [20]
+Oh, ce qu'il y a de plus récréatif, c'est qu'elles sont toutes fines seules, et comme elles sont morguoi bian jolies, si elles allaient rencontrer quelque gaillard qui voulit en faire comme des choux de son jardin, elles seraient bien attrapées ; tout franc que je songe à chela, je n'en ris morgué que du bout des dents.
+
+    JOSSELIN.
+Que craignez-vous ?
+
+    THIBAUT.
+Je crains... Et que sais-je moi, je crains... Est-ce que vous ne savez pas ce qu'on craint quand on ne sait où diable est sa femme ?
+
+    JOSSELIN.
+Si vous aviez envie de savoir ce qui en est, on pourrait vous donner satisfaction.
+
+    THIBAUT. [21] [22]
+Bon, est-ce qu'on sait jamais ça ? Pour s'en douter passe ; mais pour en être sûr niflé, j'aurais morgué biau le demander à Parrette, elle ne l'avouerait jamais, elle est trop bien dessalée.
+
+    JOSSELIN.
+Nous avons ici un moyen sûr pour en savoir la vérité.
+
+    THIBAUT.
+Qu'est-ce encore ?
+
+    JOSSELIN.
+C'est une Coupe qui est entre les mains du Seigneur de ce Château. Quand elle est pleine de vin, si la Femme de celui qui y boit lui est fidèle, il n'en perd pas une goutte ; mais si elle est infidèle, tout le vin répand à terre.
+
+    THIBAUT.
+Cela est bouffon, et où diable a-t-il pêché chela ?
+
+    JOSSELIN.
+Il l'a achetée d'un Arabe, qui, par composition ou par enchantement, y aurait attaché cette vertu.
+
+    THIBAUT.
+Et pourquoi ce Monsieur acheta-t-il ce joyau-là ?
+
+    JOSSELIN.
+Par curiosité.
+
+    THIBAUT.
+Est-ce qu'il était marié ?
+
+    JOSSELIN.
+Oui.
+
+    THIBAUT.
+J'entends, j'entends ; il voulait voir si sa femme... N'est-ce pas ?
+
+    JOSSELIN.
+Justement.
+
+    THIBAUT.
+D'abord qu'il eut la Coupe, il y but, je gage.
+
+    JOSSELIN.
+Vous l'avez dit.
+
+    THIBAUT.
+Elle répandit.
+
+    JOSSELIN.
+Non.
+
+    THIBAUT.
+Morgué, c'est être bien plus heureux que sage. Il s'en tint là...
+
+    JOSSELIN.
+Non.
+
+    THIBAUT.
+Il y rebut ?
+
+    JOSSELIN.
+Oui.
+
+    THIBAUT.
+Tastigué vla un sot homme.
+
+    JOSSELIN.
+Plus encor que vous ne le dites.
+
+    THIBAUT.
+Et comment donc ? Contez-moi cela pour rire.
+
+    JOSSELIN.
+Il voulut éprouver sa femme.
+
+    THIBAUT. [23]
+Le benêt.
+
+    JOSSELIN.
+Il lui écrivit sous un nom supposé.
+
+    THIBAUT. [24]
+Le jocrisse.
+
+    JOSSELIN.
+Il lui envoya des présents.
+
+    THIBAUT.
+L'impertinent.
+
+    JOSSELIN.
+Il lui donna un rendez-vous.
+
+    THIBAUT.
+Elle y vint.
+
+    JOSSELIN.
+Est-ce qu'on résiste aux présents ?
+
+    THIBAUT.
+Et comment cela se passa-t-il ?
+
+    JOSSELIN.
+En excuses du côté de la Dame, en soufflets de la part du Mari.
+
+    THIBAUT.
+Elle les souffrit patiemment.
+
+    JOSSELIN.
+Oui, mais quelques jours après...
+
+    THIBAUT.
+Il but encore dans la Coupe.
+
+    JOSSELIN.
+Oui.
+
+    THIBAUT.
+Et que fit la Coupe ?
+
+    JOSSELIN.
+Elle répandit
+
+    THIBAUT.
+Quand on na que ce qu'on mérite, on ne s'en doit prendre qu'à soi.
+
+    JOSSELIN.
+Il s'en prit à tout le monde, et vint de dépit se loger dans ce Château écarté, pour ne plus entendre parler de femme de sa vie.
+
+    THIBAUT.
+Avec la Coupe ?
+
+    JOSSELIN.
+Avec la Coupe.
+
+    THIBAUT.
+Et de quoi, lui sert-elle ?
+
+    JOSSELIN.
+Elle lui sert à voir qu'il a beaucoup de confrères, et cela le console.
+
+    THIBAUT.
+Et comment le voit-il ?
+
+    JOSSELIN.
+Il engage tous les passants que le hasard conduit ici, d'en faire l'épreuve.
+
+    THIBAUT.
+Et depuis quand fait-il ce métier-là ?
+
+    JOSSELIN.
+Depuis quatorze ou quinze ans.
+
+    THIBAUT.
+En a-t-il bien vu depuis ce temps-là ?
+
+    JOSSELIN.
+Oh, en quantité.
+
+    THIBAUT. [25] [26]
+Par ma fique vla tout fin droit ce qu'il faut pour bouter notte Maîtresse et son biau-frère à la raison ; l'un est un bon Normand qui a épousé une Languedocienne, soeur de l'autre, et l'autre est un Gascon qui a épousé une Parisienne, comme ils sont logés vison visu, ils se tarabustent toujours sur le chapitre de leurs Femmes : je vais leur dire que la Coupe les mettra d'accord ; ils rodons autour de cette montagne pour apprendre des nouvelles de leur fille. Mais quel est ce vilain Monsieur-là ?
+
+    JOSSELIN.
+C'est le Maître de la Coupe et le Seigneur de ce Château.
+
+
+## SCÈNE VII. Anselme, Josselin, Thibaut.
+
+    ANSELME.
+Ah ! Monsieur Josselin, mon pauvre Monsieur Josselin
+
+    JOSSELIN.
+Qu'y a-t-il de nouveau Monsieur ?
+
+    ANSELME.
+Je suis dans le plus grand des embarras. Mon... Qui est cet homme-là ?
+
+    JOSSELIN.
+C'est un honnête paysan qui est en quête de sa femme ; elle s'est échappée de chez lui avec une jeune fille, et pour les retrouver il est avec une paire de Messieurs qu'il va chercher pour faire l'essai de votre Coupe.
+
+    THIBAUT. [27]
+Je vais vous amener de la pratique, laissez faire.
+
+
+## SCÈNE VIII. Anselme, Josselin, Thibaut.
+
+    ANSELME. [28]
+Ah, vraiment de la Coupe ! J'ai bien d'autres tintouins dans la tête.
+
+    JOSSELIN.
+Qu'avez-vous donc ?
+
+    ANSELME.
+J'ai vu... Ouf !
+
+    BERTRAND.
+Aurait-il vu ces masques de Femmes ? Écoutons.
+
+    ANSELME, LUI DONNANT UN SOUFFLET.
+Je viens de voir... Que fais-tu là ?
+
+    BERTRAND.
+Rien...
+
+    ANSELME.
+Va à ta besogne, et ne reviens point qu'on ne t'appelle.
+
+
+## SCÈNE IX. Anselme, Josselin.
+
+    ANSELME. [29] [30]
+Je viens de voir mon fils ; le petit pendard me fait des questions qui m'ont pensé mettre l'esprit sens dessus dessous, il lui prend des curiosités toutes contraires au chemin que je veux qu'il tienne.
+
+    JOSSELIN.
+Ma foi, Monsieur, si vous voulez que je vous parle franchement, il vous sera bien difficile de l'élever toujours dans l'ignorance où vous voulez qu'il soit. Je crains bien que toutes ces précautions ne deviennent inutiles, et que cette démangeaison qui vous tient de lui vouloir cacher qu'il y a des Femmes au monde, ne porte davantage son petit génie aux connaissances du beau sexe.
+
+    ANSELME.
+Et qui l'instruira qu'il y a des Femmes ?
+
+    JOSSELIN.
+Tout, Monsieur, le bon sens premièrement. Oui, ce certain bon sens qui vient avec l'âge ; là cet âge qui nous retire insensiblement des bras de l'enfance, pour nous conduire à la puberté. L'esprit se porte à la conception de bien des choses ; la raison vient, et parmi plusieurs curiosités nous fait apercevoir que l'homme ne vient point sur la terre comme un champignon, que c'est une petite machine où il y a bien des ressorts, ces ressorts viennent à se mouvoir par le moyen du coeur, ce mouvement du coeur échauffe le cerveau. Cette cervelle échauffée se forme des idées qu'elle ne connaît pas bien d'abord, l'amour se met quelquefois de la partie. Il explique toutes ces idées, il prend le soin de les rendre intelligibles ; et voilà comme la connaissance vient aux jeunes gens ordinairement malgré qu'on en ait.
+
+    ANSELME.
+Tous ces raisonnements sont les plus beaux du monde ; mais je m'en moque, et j'empêcherai bien que mon fils... Le voici ; je ne suis pas en état de lui parler, mon désordre paraîtrait à la vue, fortifiez-le dans mes pensées, cependant que je vais me remettre.
+
+
+## SCÈNE X. Lélie, Josselin.
+
+    LELIE.
+D'où vient que mon Père me fuit ?
+
+    JOSSELIN.
+Il a des affaires en tête. Lui voulez-vous quelque chose ?
+
+    LELIE.
+Je ne sais.
+
+    JOSSELIN.
+Vous ne savez ?
+
+    LELIE.
+Non, je ne sais ce que je lui veux, je ne sais ce que je me veux à moi-même, je sens que je m'ennuie et je ne sais pourquoi je m'ennuie.
+
+    JOSSELIN.
+C'est que vous êtes un petit indolent, qui n'avez pas l'esprit de jouir des beautés qui se présentent à vous.
+
+    LELIE.
+Et quelles sont ses beautés ?
+
+    JOSSELIN.
+Le Ciel, la terre, le feu, l'eau, l'air, le jour, la nuit, le Soleil, la Lune, les Étoiles, les arbres, les prés, les fleurs, les fruits.
+
+    LELIE.
+Oui, tout cela est fort divertissant. Ah ! Mon cher Monsieur Josselin, je voudrais bien...
+
+    JOSSELIN.
+Quoi ?
+
+    LELIE.
+Vous ne le voudrez pas, vous.
+
+    JOSSELIN.
+Qu'est-ce encore ?
+
+    LELIE.
+Promettez-moi que vous le voudrez.
+
+    JOSSELIN.
+Selon.
+
+    LELIE.
+Je voudrais bien aller me promener autre part qu'ici ?
+
+    JOSSELIN.
+Plaît-il ?
+
+    LELIE.
+Ah ! Je savais bien que vous ne le voudriez pas.
+
+    JOSSELIN.
+Avez-vous oublié que votre Père vous l'a défendu.
+
+    LELIE.
+Et c'est parce qu'il me l'a défendu que je meurs d'envie de le faire. Car enfin je m'imagine qu'il y a dans le monde des choses qu'il ne veut pas que je sache, et ce sont ces choses-là que je m'imagine, que je brûle de savoir.
+
+    JOSSELIN.
+Le petit fripon.
+
+    LELIE.
+Oh ça, Monsieur Josselin, en bonne vérité, dites-moi ce que c'est que ces choses-là ?
+
+    JOSSELIN.
+Qu'est-ce à dire ces choses-là ?
+
+    LELIE.
+Oui. Qu'est-ce qu'il y a dans monde qui n'est point ici.
+
+    JOSSELIN.
+Rien.
+
+    LELIE.
+Vous mentez, Monsieur Josselin.
+
+    JOSSELIN.
+Point du tout.
+
+    LELIE.
+On me cache bien des choses Monsieur Josselin ; vous lisez dans les Livres, et mon Père y sait lire aussi, pourquoi ne m'a-t-on pas appris à y lire ?
+
+    JOSSELIN.
+On vous l'apprendra, donnez-vous patience.
+
+    LELIE.
+Je ne puis plus vivre comme cela, et c'est une honte d'être si ignorant que je le suis à mon âge.
+
+    JOSSELIN.
+Voilà un petit drôle qu'il n'y aura plus moyen de retenir.
+
+    LELIE.
+Et si mon Père venait à mourir, Monsieur Josselin : car je sais bien qu'on meurt, que deviendrai-je ?
+
+    JOSSELIN.
+Vous deviendrez mon Fils, et je serai votre Père pour lors.
+
+    LELIE.
+Vous vous moquez de moi, Monsieur Josselin, ce n'est pas comme cela que cela se fait, et ce serait à mon tour d'être père de quelqu'un.
+
+    JOSSELIN.
+Et bien vous seriez le mien si vous vouliez, et je serais votre Fils, moi.
+
+    LELIE.
+Oh, ce n'est pas comme cela que cela se fait, assurément vous ne voulez pas me le dire, mais je le saurai vous avez beau faire.
+
+    JOSSELIN.
+Oh, vous saurez que vous êtes un petit sot, et que vos discoures me fatiguent.
+
+    LELIE.
+Monsieur Josselin, si vous ne me menez promener, j'irai me promener tout seul, je vous en avertis.
+
+    JOSSELIN.
+Oui, et je vais moi tout de ce pas avertir votre Père de» vos extravagances, et vous verrez après où je vous mènerai promener. Oh, ho, voyez-vous le petit impudent avec ses promenades.
+
+    LELIE.
+Il a beau dire, je sortirai d'ici, quand je devrais mourir sur les pas de la porte.
+
+
+## SCÈNE XI. Lucinde, Lélie, Perrette.
+
+    PERRETTE.
+Madame, le voilà tout seul.
+
+    LUCINDE.
+Approchons-nous pour voir ce qu'il dira en nous voyant.
+
+    LELIE.
+Mon Père n'est pourtant pas un bon Père, de ne me pas montrer tout ce qu'il sait, et c'est ce qui fait que je n'ai pas de peine à me résoudre à le quitter
+
+    PERRETTE.
+Il ne faut pas lui dire d'abord qui nous sommes : mais je gage bien qu'il le devinera.
+
+    LELIE.
+Je m'imagine que tout ce qu'on ne veut pas que je sache, est cent fois plus beau que ce que je sais. Je pense je ne sais combien de choses toutes plus jolies les unes que les autres, et je meurs d'impatience de savoir si je pense juste. Mais que vois-je ? Voilà deux jeunes garçons joliment habillés, je n'en n'ai point encore vu comme ceux-là, je voudrais bien les aborder ; mais je suis tout hors de moi-même, et je n'ai pas presque la force de parler, ils se baissent et puis se haussent, qu'est-ce que cela signifie ?
+
+    LUCINDE.
+Nous hésitons à vous aborder.
+
+    LELIE.
+Ils parlent comme moi. Que de questions je vais leur faire !
+
+    LUCINDE.
+Vous paraissez étonné de nous voir.
+
+    LELIE.
+Oui, je n'ai jamais rien vu de si beau que vous, ni qui m'ait tant fait plaisir à voir.
+
+    PERRETTE.
+Oh, mort de ma vie, que la nature est une belle chose !
+
+    LELIE.
+D'où venez-vous ? Qui vous a conduits ici, est-ce mon Père ou moi que vous cherchez ? De grâce ne parlez point à mon Père, et demeurez avec moi.
+
+    LUCINDE.
+À ce que je puis juger vous n'êtes point fâché de nous voir.
+
+    LELIE.
+Je n'ai jamais eu tant de joie.
+
+    PERRETTE.
+Cela est admirable ! Et que croyez-vous de nous, s'il vous plaît ?
+
+    LELIE.
+Les deux plus belles créatures du monde ; je n'ai jamais rien vu, mais je ne connais rien de plus parfait que vous, et je n'ai plus de curiosité pour tout le reste. Demeurez toujours avec moi, je vous en conjure, je demeurerai toujours ici, et mon Père et Monsieur Josselin en seront ravis.
+
+    LUCINDE.
+Vous en jugeriez autrement si vous saviez ce que nous sommes.
+
+    LELIE.
+Et n'êtes-vous pas des hommes comme nous ?
+
+    PERRETTE.
+Oh, vraiment non, il y a bien à dire.
+
+    LELIE.
+Hors les habits et la beauté je n'y vois point de différence.
+
+    PERRETTE.
+Oui da, c'est bien tout un, mais ce n'est pas de même.
+
+    LELIE.
+Il est vrai que je sens en vous voyant ce que je n'ai jamais senti. Ah ! Si vous n'êtes pas des hommes, dites-moi ce que vous êtes. Je vous en conjure.
+
+    LUCINDE.
+Votre coeur ne peut-il pas vous l'expliquer tout à fait ?
+
+    LELIE.
+Non, mais ce n'est pas la faute de mon coeur, c'est la faute de mon esprit.
+
+    PERRETTE.
+Eh bien, tenez mon pauvre enfant, bien loin d'être des hommes, nous en sommes tout le contraire.
+
+    LELIE.
+Je ne vous entends point.
+
+    PERRETTE.
+Vous nous entendrez avec le temps, mais qui aimez-vous mieux de nous deux, là, parlez franchement, n'est-ce pas moi ?
+
+    LELIE.
+Je vous aime beaucoup ; mais je l'aime infiniment davantage.
+
+    LUCINDE.
+Tout de bon.
+
+    LELIE.
+Tout de bon.
+
+    PERRETTE.
+C'est à cause que vous êtes la plus brave.
+
+    LELIE.
+Non, non, je ne regarde point aux habits, je ne saurais vous dire ce qui fait que je l'aime plus que vous.
+
+    LUCINDE.
+Vous m'aimez donc ?
+
+    LELIE.
+Plus que toutes les choses du monde.
+
+    PERRETTE.
+Mais que pensez-vous en l'aimant ?
+
+    LELIE.
+Mille choses que je n'ai jamais pensées.
+
+    LUCINDE.
+N'en avez-vous point à me dire ?
+
+    PERRETTE.
+Et que seriez-vous prêt à faire pour lui prouver que vous l'aimez ?
+
+    LELIE.
+Tout.
+
+    LUCINDE.
+Voudriez-vous quitter ces lieux pour me suivre ?
+
+    LELIE.
+De tout mon coeur, pourvu que je vous suive toujours.
+
+
+## SCÈNE XII. Josselin, Lucinde, Perrette, Lélie.
+
+    LELIE.
+Ah ! Mon cher Monsieur Josselin, vous allez être ravi.
+
+    LUCINDE.
+Ah, Ciel !
+
+    JOSSELIN.
+Que vois-je ? Tout est perdu. Ah ! Vraiment voici bien pis que la promenade.
+
+    LELIE.
+Je n'en n'avais jamais vu, et je le savais bien, moi, qu'il y avait dans le monde quelque chose qu'on ne me disait pas.
+
+    JOSSELIN. [31]
+Paix.
+
+    PERRETTE.
+Qu'il a la mine rébarbative.
+
+    JOSSELIN. [32] [33]
+Et d'où diantre ces deux carognes sont-elles venues ?
+
+    LELIE.
+Monsieur Josselin.
+
+    JOSSELIN.
+Taisez-vous.
+
+    PERRETTE.
+Comme il nous regarde.
+
+    LUCINDE.
+Le vilain homme que voilà.
+
+    JOSSELIN.
+Qui vous a conduites ici impudentes que vous êtes ? Qu'y venez-vous faire ?
+
+    PERRETTE.
+C'est pis qu'un loup garou.
+
+    LELIE.
+Monsieur Josselin ne les effarouchez pas.
+
+    JOSSELIN.
+Comment petit fripon, vous osez... Qu'elles sont belles !
+
+    LUCINDE.
+Si c'est un crime pour nous de nous trouver ici, il n'est pas difficile de le réparer, et notre dessein n'est pas d'y faire un long séjour.
+
+    JOSSELIN.
+Le beau visage qu'a celle-là.
+
+    PERRETTE.
+Je n'y serions pas venues si j'ussions cru qu'on nous eût si mal reçues.
+
+    JOSSELIN.
+Le drôle de petit air qu'à celle-ci.
+
+    LELIE.
+N'est-il pas vrai, Monsieur Josselin, qu'il n'y a rien au monde de plus beau ?
+
+    JOSSELIN. [34]
+Non, cela n'est pas vrai. Vous ne savez ce que vous dites. Les deux jolis bouchons que voilà.
+
+    PERRETTE.
+Il est enragé, comme il roule les yeux.
+
+    LELIE.
+Monsieur Josselin menons-les à mon père.
+
+    JOSSELIN.
+Comment petit effronté, à votre Père ; tournez-moi les talons, et ne regardez pas derrière vous.
+
+    LELIE.
+Je veux demeurer ici, moi.
+
+    JOSSELIN.
+Tournez-moi les talons, vous dis-je, et vous détalez au plus vite.
+
+    LELIE.
+Je ne veux point qu'ils s'en aillent.
+
+    JOSSELIN.
+Et je le veux moi. Allez vite... allez vous cacher dans ma chambre au bout de cette allée, voilà la clef.
+
+    PERRETTE.
+Comme il se radoucit, ferons-je bien d'y aller ?
+
+    JOSSELIN.
+Si vous ne dépêchez... Entrez dans le petit cabinet à main gauche, allez vite, allez.
+
+    LELIE.
+Demeurez ici, je vous en conjure.
+
+    JOSSELIN.
+Je vous l'ordonne, partez promptement.
+
+    LELIE.
+Pour la dernière fois Monsieur Josselin... Attendez-moi, je vous prie, je cours trouver mon Père, j'obtiendrai de lui que je vous aie ici, et Monsieur Josselin se repentira de vous avoir grondé. Je reviendrai dans un moment.
+
+
+## SCÈNE XIII. Lucinde, Perrette, Josselin.
+
+    JOSSELIN.
+Ah ! Malheureuse petites femelles, savez-vous bien où vous êtes, et le malheur qui vous talonne ?
+
+    LUCINDE.
+Nous savons tout ce que vous pouvez nous dire ; mais nous espérons tout de votre bonté.
+
+    JOSSELIN.
+Que vous êtes heureuses d'être belles ! Sans cela... Écoutez, n'allez pas vous entêter de ce petit vilain-là, ce serait gâter toutes vos affaires.
+
+    PERRETTE.
+Oh, je ne boutons rian dans la tête que de la bonne sorte
+
+    JOSSELIN.
+Son Père veut enterrer toute sa famille avec lui, et ne consentira jamais...
+
+    LUCINDE.
+Mettez-nous en lieu où nous puissions vous apprendre notre infortune, et savoir de vous le conseil que nous devons suivre.
+
+    JOSSELIN.
+Ma chambre est l'endroit où vous puissiez être le mieux cachées dans ce Château, et j'en veux bien courir les risques pour l'amour de vous, à condition que pour l'amour de moi...
+
+    PERRETTE.
+Allez, mon bon Monsieur, vous voyez deux pauvres orphelines, qui ne sont nullement entichées du vice d'ingratitude.
+
+    JOSSELIN.
+Venez suivez-moi.
+
+
+## SCÈNE XIV. Lucinde, Perrette, Josselin, Bertrand.
+
+    BERTRAND.
+Oh, palsangué je vous prends sur le fait, je n'en suis plus que de moitié...
+
+    JOSSELIN. [35]
+Voilà un maroufle qui vient bien mal à propos.
+
+    BERTRAND. [36]
+Testiguenne, puisque vous voulez les fourrer dans votre chambre, je ne serai pas pendu tout seul pour les avoir boutées dans ma cahute, vous le serez avec moi, je ne m'en soucie guère.
+
+    JOSSELIN.
+Veux-tu te taire.
+
+    BERTRAND. [37]
+Morgué, je ne me tairai point à moins que je ne retire mon épingle du jeu.
+
+    JOSSELIN.
+Qu'entends-tu par là ?
+
+    BERTRAND.
+J'entends que vous soyez pendu tout seul.
+
+    JOSSELIN.
+Que veut dire cet animal-là ?
+
+    BERTRAND.
+Je veux dire qu'à moins que vous ne disiez que c'est vous qui les avez cachées, je vais tout apprendre à notre Maître.
+
+    JOSSELIN.
+Et bien, oui, je dirai que c'est moi.
+
+    PERRETTE.
+Mais morgué point de tricherie au moins.
+
+    JOSSELIN.
+J'entends quelqu'un.
+
+    BERTRAND. [38]
+Rentrez dans ma logette, et ne vous montrez plus sur les yeux de votre tête.
+
+    JOSSELIN.
+Chut, ou je te rendrai complice.
+
+    BERTRAND. [39]
+Motus, ou je découvrirai le pot aux roses.
+
+
+## SCÈNE XV. Anselme, Lélie, Josselin, Bertrand.
+
+    LELIE.
+Oui, mon Père, il est impossible que vous me refusiez, quand vous les aurez vus, venez seulement, où sont-ils ? Qu'en avez-vous fait, Monsieur Josselin ?
+
+    JOSSELIN.
+Que veut-t-il dire ?
+
+    ANSELME.
+Je ne sais ce qu'il me vient conter.
+
+    LELIE.
+Que sont-ils devenus Bertrand ?
+
+    BERTRAND.
+À qui en veut-il donc ?
+
+    LELIE.
+Répondez-moi Monsieur Josselin, ou malgré la présence de mon Père...
+
+    JOSSELIN.
+Doucement, petit drôle.
+
+    LELIE.
+Éclaircis-moi de ce que je veux savoir, coquin.
+
+    BERTRAND.
+Haye, ahy, vous m'étranglez. Est-il devenu fou ?
+
+    LELIE.
+Ah, mon Père ! Commandez qu'on me les fasse retrouver, ou j'en mourrai de désespoir.
+
+    ANSELME.
+Quoi, qu'y a-t-il ? Que veux-tu qu'on te rende ? Te voilà bien échauffé.
+
+    LELIE.
+Cherchons partout. Si je ne les retrouve, je sais bien à qui je m'en prendrai.
+
+    BERTRAND.
+Et attendez, attendez. Ce ne sont pas des moigniaux que vous charchez.
+
+    LELIE.
+Non traître, ce ne sont pas des moineaux.
+
+    BERTRAND.
+Hé bien morgué, quoi que ce puisse être, allons les charcher nous deux, m'est avis que j'ai entendu queuque chose grouiller de ce côté-là.
+
+    LELIE.
+Courons-y. Mon pauvre Bertrand, ne me quitte point, Monsieur Josselin malheur à vous si je ne les retrouve.
+
+
+## SCÈNE XVI. Anselme, Josselin.
+
+    JOSSELIN.
+Des menaces ! Vous voyez comme il perd le respect.
+
+    ANSELME.
+Qu'on l'arrête.
+
+    JOSSELIN.
+Non, non ; il vaut mieux qu'en courant il aille dissiper ces vapeurs qui lui troublent l'imagination.
+
+    ANSELME.
+Mais je crois qu'en effet il est devenu fou. Quel galimatias m'a-t-il fait ?
+
+    JOSSELIN.
+C'est justement une suite de ce que je disais tantôt ; ce sont des idées qui lui passent par la cervelle, et je ne jurerais pas trop que ce ne fussent des idées de femmes.
+
+    ANSELME.
+Des idées de femmes ! Vous vous moquez, Monsieur Josselin ; peut-on avoir des idées de ce qu'on n'a jamais vu ?
+
+    JOSSELIN.
+Belles merveilles. Et ne vous est-il jamais arrivé de faire des songes ?
+
+    ANSELME.
+Oui.
+
+    JOSSELIN.
+Et de voir en dormant des choses que vous n'aviez jamais vues, et que vous ne vous seriez jamais imaginées si vous n'aviez dormi ?
+
+    ANSELME.
+D'accord ; mais ce petit garçonlà ne dort pas.
+
+    JOSSELIN.
+Non, vraiment ; au contraire, je ne l'ai jamais vu éveillé.
+
+    ANSELME.
+Hé bien ?
+
+    JOSSELIN.
+Hé bien, il rêve tout éveillé, et c'est justement ce qui fait qu'il fait des contes à dormir debout.
+
+    ANSELME.
+Mais pourquoi lui vient-il des idées de femmes plutôt que d'autres ?
+
+    JOSSELIN. [40]
+C'est que ces animaux-là se fourrent partout malgré qu'on en ait.
+
+    ANSELME.
+Cela serait bien horrible que toutes mes précautions fussent inutiles.
+
+    JOSSELIN.
+Elles le seront à coup sûr, et dès à présent je vous en donne ma parole.
+
+    ANSELME.
+Il n'importe ; et si je ne puis lui cacher absolument qu'il y ait des femmes, il ne les connaîtra du moins que pour les haïr.
+
+    JOSSELIN.
+Il ne les haïra point.
+
+    ANSELME.
+Il les détestera en apprenant ce qu'elles savent faire. Mais qu'est-ce ci ?
+
+    JOSSELIN.
+Et c'est ce bon Paysan qui vous amène ces deux personnes pour faire essai de votre coupe.
+
+
+## SCÈNE XVII. Anselme, Josselin, Lucinde, Perrette, Monsieur Tobie, Monsieur Griffon, Thibaut.
+
+    PERRETTE, À LA FENÊTRE AVEC LUCINDE.
+Le petit homme n'y est pas vous dis-je.
+
+    LUCINDE.
+Il n'importe ; voyons d'ici ce qui se passe, puisque nous pouvons voir sans être vues.
+
+    GRIFFON.
+Oui cadédis, je bous le dis et bous le soutiens, vous êtes un von sot veau frère.
+
+    THIBAUT.
+Ah ! Ah ! Monsieur, au mari de Madame votre soeur ?
+
+    PERRETTE.
+Madame, c'est Thibaut.
+
+    TOBIE.
+Sot ! Et qu'est-ce ; queu terminaison est chela ?
+
+    LUCINDE.
+Mon Père et mon Oncle sont ici.
+
+    TOBIE.
+Nous sommes gens de bien de notre race, je serais marri qu'elle fût entichée des reproches qu'on fait à la vôtre.
+
+    THIBAUT.
+Eh, eh, Monsieur ; le Frère de Madame votre femme ? Vous n'y songez pas.
+
+    GRIFFON.
+Tu fais vien de m'appartenir.
+
+    TOBIE.
+C'est le plus vilain endroit de ma vie.
+
+    THIBAUT.
+Messieurs, Messieurs, venez m'aider, s'il vous plaît, à mettre le holà entre deux beaux-frères qui se vont couper la gorge.
+
+    ANSELME.
+Qu'est-ce que c'est donc ; qu'avez-vous, Messieurs, qui vous oblige à en venir aux invectives ?
+
+    GRIFFON. [41]
+Eh, Messieurs, serbiteur ; je bous fais Juges de ceci. Boici le fait. J'ai fait l'honneur à ce Monsieur de donner mon fils, qui est novle Monsieur comme moi, mordi, en mariage à sa fille, qui n'est qu'une simple Roturière et parce que la beille des noces, la sotte s'éclipse de la case paternelle, il a l'insolence de dire que c'est ma faute, et qu'elle a eu peur d'entrer dans mon alliance, à cause que je suis sébère dans ma famille, et que je n'en beux pas souffrir qu'aucun guodeluriau approche mon domaine de la van-lieue.
+
+    TOBIE. [42] [43] [44]
+Qu'est-ce ? Je donne ma fille qui aura dix mille livres de rentes ; au fils de su Monsieur qui est gueux comme un rat, et parce qu'elle s'en est enfuie de chez moi, pour éviter ce mariage ; il me dira en me traitant comme un je ne sais qui, que parce que je suis trop bon dans mon domestique, à cause que ma femme est toujours autour de moi à m'étouffer de caresses, et que je souffre qu'elle m'appelle son petit papa, son petit fanfan, son petit camuset, ce qui fait que ma maison est ouverte à tous les honnêtes gens.
+
+    JOSSELIN.
+Voilà un différend qu'il est assez facile d'accommoder. Ces Messieurs se disent les choses de si bonne foi, qu'on ne peut s'empêcher de les croire ; mais pour savoir lequel des deux s'est le plus fait aimer de sa femme par ses manières, votre Coupe enchantée sera d'un secours merveilleux, et je suis sûr qu'elle les mettra d'accord, je vais l'apporter.
+
+    ANSELME.
+Allez, Monsieur Josselin, cela finira la dispute.
+
+    GRIFFON.
+Cet homme nous a fait récit de cette coupe, et je serai rabi de connaître par elle lequel est le fat de nous deux, je suis sûr que ce n'est pas moi.
+
+    TOBIE.
+Nous en allons voir tout à l'heure un bien penaud ; je sais bien qui ce ne sera pas.
+
+    ANSELME.
+Voici la Coupe.
+
+    TOBIE.
+Donnez, donnez ; je serais bien fâché de n'en pas faire essai le premier, pour vous montrer combien je suis sûr de mon fait.
+Le vin se répand.
+
+
+    JOSSELIN.
+Ah, ah.
+
+    TOBIE.
+Que vois-je ? Le vin est répandu je pense.
+
+    JOSSELIN.
+Oh, par ma foi, le petit papa, le petit fanfan, le petit camuset en tient.
+
+    GRIFFON. [45]
+Hé, qui de nous dus est le fat ? Hem cadédis mon veau frère, bous me ferez raison de la conduite de ma soeur.
+
+    TOBIE.
+Voilà une méchante créature, je ne l'aurais jamais cru.
+
+    JOSSELIN.
+Quand elle viendra vous étouffer de caresses, je vous conseille de l'étrangler par bonne amitié.
+
+    TOBIE.
+C'est chez vous qu'elle a sucé ce mauvais lait-là.
+
+    GRIFFON. [46]
+Oui, oui, cadédis, l'absinthe n'est pas plus amère que le lait que je leur fais sucer ; bersez, bersez, veau Ganymède, bous allez boir veau frère. À la santé de la compagnie.
+La Coupe répand.
+
+
+    JOSSELIN.
+Ahy, ahy, ahy.
+
+    GRIFFON.
+Bouais, c'est que je ne la tiens pas droite.
+La Coupe répand.
+
+
+    JOSSELIN.
+Prenez donc garde.
+
+    ANSELME.
+Voyez, voyez.
+
+    GRIFFON.
+La main me tremble.
+Tout répand.
+
+
+    JOSSELIN.
+Ah ! L'on a approché de votre domaine plus près que de la ban-lieue.
+
+    GRIFFON. [47]
+Ma foi, je n'y comprends plus rien. Monsieur est von, on le trahit ; je suis sébère et l'on me trompe ; sandis comment faut-il donc faire avec ces diantres d'animaux-là ? Allons, on s'en mordra les doigts. Sans adieu.
+
+
+## SCÈNE XVIII. Anselme, Tobie, Thibaut, Josselin, Lucinde, Perrette.
+
+    ANSELME.
+Jusques au revoir.
+
+    JOSSELIN. [48] [49]
+Vous plaît-il boire encore un coup ? À ça à vous le dé, pays.
+
+    THIBAUT.
+À moi ?
+
+    LUCINDE.
+Perrette ton mari va boire.
+
+    PERRETTE.
+À quoi s'amuse-t-il ce n'est pas que je craigne rien, mais le coeur me tape.
+
+    JOSSELIN.
+À cause que vous êtes un bon frère, en voilà rasade, buvez.
+
+    THIBAUT.
+Palsangué je n'ai pas soif.
+
+    JOSSELIN.
+Il ne s'agit pas d'avoir soif, et c'est seulement par curiosité, et pour savoir si vous êtes aimé de votre femme, buvez.
+
+    THIBAUT. [50]
+Non, morgué je ne boirai point, et si le vin allait répandre par hasard, testigué voyez-vous. Je suis maladroit de ma nature, quand je saurais ça en serais plus gras, en aurais-je la jambe plus droite, en dormirais-je plus que des deux yeux, en mangerais-je autrement que par la bouche, non pargué ; c'est pourquoi frère je suis votre sarviteur, je ne boirai point.
+
+    JOSSELIN.
+Voilà un rustre d'assez bon sens.
+
+    ANSELME.
+C'est ce qui me sembler, et je suis quasi fâché de n'avoir pas été de son humeur.
+
+    TOBIE.
+Oh, pardi mon Fermier vous avez plus d'esprit que votre Maître.
+
+    THIBAUT. [51] [52]
+Jarni, je ne sais pas si je fais bien, mais je sais bien que je serais fâché de faire autrement ; j'aime Parrette, elle est ma femme, quand elle serait la femme d'un autre elle ne me plairait pas davantage, je ne sais si je lui plais finfirmement, elle en fait le semblant du moins, je ne rentre de fois chez moi, que je ne la retrouve tintelle que je l'ai laissée, il n'y a pas un iota à dire. Elle aime à batifoler, je suis d'himeur batifolante, je batifolons sans cesse, et si je m'allais mettre dans la sarvelle tous vos engeins greignaux, adieu le batifolage, non palsanguoi, je n'en ferai rien.
+
+    JOSSELIN. [53]
+Voilà, comme je veux être et si je me marie... Mais je ne me marierai pas.
+
+    PERRETTE.
+Madame je suis si niaise que je ne saurais plus m'en tenir, il faut que j'aille embrasser notre homme.
+
+    LUCINDE.
+Attends, Perrette, que vas-tu faire ?
+
+    JOSSELIN.
+Voilà la perle des Maris, ami, touche-là.
+
+    THIBAUT.
+Votre valet.
+
+    TOBIE.
+Voilà l'exemple des honnêtes gens. Embrasse-moi.
+
+    THIBAUT.
+Votre serviteur.
+
+    ANSELME.
+Voilà le miroir de la vie paisible
+
+    THIBAUT.
+Votre très-humble.
+
+    PERRETTE.
+Voilà un vrai homme à femme. Ah, que je te baiserai tantôt.
+
+    THIBAUT.
+Hé ! Testigué, c'est Perrette.
+
+    ANSELME.
+Que vois-je ? Des Femmes ?
+
+    THIBAUT.
+Je n'ai morgué pas voulu boire dans la Coupe, elle eut peut-être dit quelque chose qui m'aurait chagriné.
+
+    PERRETTE.
+Elle n'eut rien dit. Mais tu as bien fait, je t'en aime davantage.
+
+    TOBIE.
+Perrette, qu'as-tu fait de ma Fille ?
+
+    LUCINDE.
+La voilà, mon Père, qui se lette à vos genoux, pour vous demander pardon.
+
+    TOBIE.
+Va, ma Fille, je te pardonne.
+
+    ANSELME.
+Par quels moyens ces Femmes sont-elles entrées chez moi ?
+
+    JOSSELIN.
+Je ne sais. Ce sont peut-être elles, qui ont fait naître à Monsieur votre Fils les idées...
+
+
+## SCÈNE XIX. Anselme, Tobie, Lélie, Lucinde, Perrette, Josselin, Thibaut, Bertrand.
+
+    BERTRAND.
+Ce n'est pas par-là, vous dis-je ?
+
+    LELIE.
+Non, non, laisse-moi ; mais que vois-je ? Ah ! C'est ce que je cherche. Oui, mon Père les voilà, souffrez que je les amène à ma chambre, je vous promets de n'en sortir jamais.
+
+    ANSELME.
+Où suis-je ? Que vois-je ? Qu'entends-je ?
+
+    LELIE.
+Ah ! Mon Père, n'allez pas gronder, de peur de les effaroucher encore.
+
+    ANSELME.
+C'en est fait. La Destinée et la Nature sont plus fortes que mes raisonnements, votre seule présence lui en a plus appris en un moment que je ne lui en avais caché pendant seize années.
+
+    JOSSELIN.
+Cela est admirable.
+
+    ANSELME.
+Je commence moi-même à me rendre à la raison, et je vais changer de manière.
+
+    TOBIE.
+Qu'est-ce que tout ceci ?
+
+    ANSELME.
+Vous le saurez, Monsieur ; en attendant qu'on vous l'apprenne, je vous dirai seulement que mon fils a beaucoup de noblesse, et plus de bien ; et qu'il ne tient qu'à vous d'unir sa destinée à celle de Mademoiselle votre fille.
+
+    TOBIE.
+Volontiers. J'en serai ravi, et cela fera enrager ma femme.
+
+    LELIE.
+Je ne comprends rien à tous ces discours. Que veulent-ils dire, Monsieur Josselin ?
+
+    JOSSELIN.
+Cette belle vous l'apprendra.
+
+    ANSELME.
+Oui, mon Fils, je vous la donne en mariage.
+
+    LELIE.
+En mariage ? Cela signifie-t-il qu'elle demeurera toujours avec moi, mon Père.
+
+    ANSELME.
+Oui, mon Fils.
+
+    LELIE.
+Qu'elle joie ! Ah, Mon Père, que je vous ai d'obligation.
+
+    JOSSELIN.
+Jamais le petit fripon n'a embrassé si fort.
+
+    THIBAUT.
+Pargué, Perrette, tout ça est drôle.
+
+    PERRETTE.
+Oui, tout cela est bel et bon. Mais cette chienne de Coupe, que devient-elle ? Qu'il n'en soit plus parlé ; car quoique je ne craignons rien, je ne dormirions point en repos, voyez-vous.
+
+    ANSELME.
+Qu'elle ne vous inquiète point. Je la briserai en votre présence.
+
+    JOSSELIN.
+Quelqu'un veut-il faire essai de la Coupe ? Qu'il se dépêche ; mais franchement, je ne conseille à personne d'y boire ; et l'exemple du Paysan est, sur ma foi, le meilleur à suivre.
+
+-------
+
+
+[1] Mordienne : Sorte de juron. L
+
+[2] Iota : Fig. Pas la moindre chose, rien (à cause que la figure de cette lettre est la moindre de toutes celles de l'alphabet grec).
+
+[3] Ventregoine : Déformation de Ventrebleu, espèce de juron euphémique pour ventre de Dieu. L
+
+[4] Ardé : Mot populaire. Regardez. L
+
+[5] Testigué : Sorte de jurement burlesque de païsan qui veut dire morbleu.
+
+[6] Magot : Gros singe. Au fig. style famil. Homme fort laid. L
+
+[7] Morgué : Sorte de juron de paysan. L
+
+[8] Tu autem : Terme familier. Point essentiel, noeud, difficulté d'une affaire. L
+
+[9] Malencombre : Événement fâcheux, disgrâce. L
+
+[10] Jarnigué : jarnidieu, jarnibleu, jarni, sorte de jurement. Corrupation de je renie Dieu. L
+
+[11] Ricochet : Jeu d'enfants qui se fait avec une pierre plate ou une ardoise, qui revient plusieurs fois sur l'eau en la faisant glisser sur sa surface.
+On dit proverbialement, que c'est la chanson du ricochet, quand on redit toujours la même chose. F
+
+[12] Tastigué : est une déformation du juron Testigué : tête de Dieu.
+
+[13] Frotter : Battre, maltraiter, rosser. L
+
+[14] Grosse : En parlant des personnes, riche, opulent. Une grosse héritière. L
+
+[15] À la franquette : Façon de parler adverbiale et populaire ; pour dire, Franchement, ingénument. T
+
+[16] Haye : Terme employé par les piqueurs pour arrêter les chiens qui prennent le change. L
+
+[17] Palsangué : Jurement de paysan, dans l'ancienne comédie. F
+
+[18] Masque : est aussi un terme injurieux qu'on dit aux femmes du commun peuple, pour leur reprocher leur laideur, ou leur vieillesse. F
+
+[19] Comme des choux en son jardin : Il en fait comme des choux de son jardin, il en dispose à son gré. L
+
+[20] Rire du bout des dents : Se dit d'une personne qui ne rit pas de bon coeur, qui cache sous un rire forcé son déplaisir, qui rit par contrainte, grimace ou politesse. L
+
+[21] Niflé : Berné. SP
+
+[22] Dessalé : Fin, rusé, qui ne se laisse pas tromper. SP
+
+[23] Benêt : Idiot, niais, nigaud, qui n'a point vu le monde. T
+
+[24] Jocrisse :  Terme injurieux. Benêt se laissant gouverner, ou s'occupant des soins du ménage qui conviennent le moins à un homme. Valet niais et maladroit. L
+
+[25] Par ma fique : Sorte de jurement, pour dire, Par ma foi. T
+
+[26] Vison visu : loc. adv. et familière. Vis-à-vis, en face. T
+
+[27] Pratique : Se dit aussi de la chalandise des Marchands et des Artisans. F
+
+[28] Tintouin : Battement d'oreille, bruit sourd qu'on s'imagine d'entendre. Ce mot vient de tintin, qui représente le son des cloches, qui a été formé de tintinnabulum, mot Latin signifiant cloche. Se dit aussi figurément d'une inquietude d'esprit. F
+
+[29] Pendard : Par exagération, celui, celle qui est digne de pendaison, qui ne vaut rien du tout. F
+
+[30] Sens dessus dessous : Fig. et particulièrement. En parlant de ce qui est dans un grand désordre et tout bouleversé. F
+
+[31] Paix : Interjection dont on se sert pour faire faire silence. L
+
+[32] Diantre : Mot qu'on emploie par euphémisme pour diable. Il s'emploie comme une sorte d'exclamation ou de jurement. L
+
+[33] Carogne : terme injurieux, qui se dit entre les femmes de basse condition, pour se reprocher leur mauvaise vie, leurs ordures, leur puanteur. F
+
+[34] Bouchon : Fig. et familièrement. Mon petit bouchon, terme de tendresse et de caresse. L
+
+[35] Maroufle : Terme injurieux qu'on donne aux gens gros de corps, et grossiers d'esprit. F
+
+[36] Testiguenne : Déformation du juron testiguienne : tête de Dieu. 
+
+[37] tirer son épingle du jeu : Fig. et familièrement. Tirer son épingle du jeu, se dégager adroitement ou sans perte d'une mauvaise affaire ; locution qui vient d'un jeu de petites filles : elles mettent des épingles dans un rond, et, avec une balle qui, lancée contre le mur, revient vers le rond, elles essayent d'en faire sortir les épingles ; quand on fait sortir la la mise, on dit qu'on retire son épingle du jeu.  L
+
+[38] Sur les yeux de la tête : Sur les yeux de la tête, sorte de commandement ou de défense que l'on fait, comme si l'on menaçait d'arracher les yeux de la tête. Voir Racine, Les Plaideurs acte II, sc. 8. L
+
+[39] Pot aux roses : On dit qu'un homme a découvert le pot aux roses, pour dire, qu'il a découvert le secret d'une affaire où il y avait de l'ordure. F)
+
+[40] Malgré que : Malgré que, loc. conj. signifiant quoique et usitée seulement avec le verbe avoir, de cette façon : malgré que j'en aie, malgré qu'il en ait, etc. en dépit de moi, en dépit de lui. L
+
+[41] Mordi : Déformation du juron mordieu. Par la mort de Dieu. 
+
+[42] Domestique : Qui est d'une maison, sous un même chef de famille. En ce sens il se prend pour femme, enfants, hôtes, parents et valets. F
+
+[43] Fanfan : Terme populaire dont les pères et les maris se servent pour caresser leurs femmes et leurs enfants. Les femmes et les mères s'en servent aussi à l'égard de leurs enfants et de leurs maris. F
+
+[44] Camuset : Un peu camus. L Qui a le nez court et plat. Fig. et familièrement embarrassé, interdit.
+
+[45] Cadédis :  Jurement qu'on met habituellement dans la bouche des Gascons. L
+
+[46] Ganymède : Terme de mythologie. Nom du fils de Laomédon, enlevé par l'aigle de Jupiter, à cause de sa beauté. Fig. Giton... Jeune homme servant
+à de honteux plaisirs, ainsi dit de Giton, personnage de la satire de Pétrone. L
+
+[47] Sandis : Espèce de jurement gascon. Sang, et dis pour Dieu. L
+
+[48] À vous le dé : Figurément, c'est à vous de parler, d'agir. L
+
+[49] Pays : Par catachrèse et populairement. Celui qui est du même pays, du même canton. L
+
+[50] Pargué : Jurements patois de l'ancienne comédie, pour pardieu. L
+
+[51] Finfirmement : Semble vouloir dire bien fermement.
+
+[52] Iota : Fig. Pas la moindre chose, rien (à cause que la figure de cette lettre est la moindre de toutes celles de l'alphabet grec). L
+
+[53] Greigneur : Vieux mot et hors d'usage, qui signifiait autrefois, Seigneur, un homme de qualité. T

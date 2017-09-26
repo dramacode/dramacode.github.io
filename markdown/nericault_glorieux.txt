@@ -1,0 +1,4995 @@
+---
+identifier: nericault_glorieux  
+creator: Nericault-destouches Philippe  
+date: 1732  
+title: Le glorieux. , comédie  
+---
+
+
+LE GLORIEUX
+
+COMÉDIE EN CINQ ACTES ET EN VERS.
+
+M. DCC. XXXII. Avec Approbation et privilège du Roi.
+
+
+
+# . À PARIS, Chez F. Le LEBRETON.
+Représenté pour la première fois le 18 janvier 1732 au Théâtre de la rue des Fossés Saint-Germain.
+
+
+# PRÉFACE.
+
+Cette comédie vient d'être reçue si favorablement du public, que je me croirais indigne des applaudissements dont il m'a honoré, si je ne m'efforçais pas de lui en témoigner ma reconnaissance. J'ose lui protester qu'elle est aussi vive que juste. Je ne trouve point de termes qui puissent l'exprimer ; mais pour la faire éclater d'une manière sensible, je promets à ce même public, à qui je suis si redevable, qu'en cherchant à lui procurer de nouveaux amusements, je n'épargnerai ni soins, ni travaux, pour mériter le continuation de ses suffrages. Quoique les caractères semblent épuisés, il m'en reste encre plusieurs à traiter. Ce n'est pas que je ne sois très convaincu des difficultés et des périls de l'entreprise, parce que les caractères les plus faciles et les plus saillants ont déjà parus sur la scène. Mais comme les succès redoublent mon zèle, peut-être augmenteront-ils mes forces. Ce qui doit au moins m'en faire augurer, c'est que mon objet est généralement approuvé. On sait que j'ai toujours devant les yeux ce grand principe dicté par Horace :
+Omne tulit qui miscuit utile dulci ;  
+
+Et que je crois que l'art dramatique n'est estimable qu'autant qu'il a pour but d'instruire en divertissant. J'ai toujours eu pour maxime incontestable que, quelque amusant que puisse être une comédie, c'est un ouvrage imparfait et même dangereux, si l'auteur ne s'y propose de corriger les mours, de tomber sur le ridicule, de décrier le vice, et de mettre la vertu dans un si beau jour, qu'elle s'attire l'estime et la vénération publiques. Tous mes spectateurs ont fait connaître unanimement, et, si je l'ose dire, d'une manière bien flatteuse pour moi, qu'ils se livraient avec plaisir à un objet si raisonnable. Je ne craindrai pas même d'ajouter ici, qu'en m'honorant de leurs applaudissements, ils se sont faits honneur à eux-mêmes. Car enfin, qu'y a-t-il de plus glorieux pour notre nation, si fameuse d'ailleurs par tant de qualités, que de faire aujourd'hui connaître à tout l'univers, que les comédies, à qui l'ancien préjugé ne donne pour objet que celui de plaire ou de divertir, ne peuvent la divertir et lui plaire longtemps, que lorsqu'elle trouve dans cet agréable spectacle, non seulement ce qui peut le rendre innocent et permis, mais même ce qui peut contribuer à l'instruire et à la corriger ? Il est donc de mon devoir, en payant au public le juste tribut qu'il attend de ma reconnaissance, de la féliciter sur le goût qu'il fait toujours éclater pour les ouvrages qui ne tendent qu'à épurer la scène, qu'à la purger de ces frivoles saillies, de ces débauches d'esprit, de ces faux brillants, de ces sales équivoques, de ces fades jeux de mots, de ces mours basses et vicieuses, dont elle a été souvent infectée, et qu'à la rendre digne de l'estime et de la présence des honnêtes gens. Il est aisé de voir dans tous mes ouvrages, remplis au surplus d'une infinité de défauts, que c'est uniquement à ces sortes de spectateurs que je me suis toujours efforcé de plaire. Il ne manque à un objet si légitime que les talents nécessaires pour y parvenir. Toute le gloire dont je puisse me flatter, c'est d'avoir pris un ton qui a paru nouveau, quoique, après l'incomparable Molière, il semblât qu'il n'y eût point d'autres secret de plaire que celui de marcher sur ses traces. Mais quelle témérité de vouloir suivre un modèle que les auteurs les plus sages et les plus judicieux ont toujours regardé comme inimitable ! Il nous a laissé que le désespoir de l'égaler : trop heureux, si, par quelque route nouvelle, nous pouvons nous rendre supportables après lui ! C'est à quoi je me suis borné dans mes ouvrages dramatiques ; et c'est sans doute à cette précaution essentielle que je dois l'accueil favorable qu'ils ont reçu.
+
+Je n'en suis pas moins redevable à l'art des acteurs; qui en ont employé tous les ressorts et toutes les finesses, principalement dans cette dernière comédie, pour signaler leur zèle et leur amitié pour moi. Je leur dois à tous, sans nulle exception, cette justice ; et je leur la rends avec d'autant plus de plaisir, que le public l'autorise par ses applaudissements. M. Quinault l'aîné, dans le rôle de Lycandre, a fait voir qu'il sait se transformer en toutes sortes de caractères ; que, quelque différents qu'ils puissent être les uns des autres, ils lui fournissent également une occasion brillante de faire admirer ses talents et son esprit, et qu'il peut se donner le ton, la gravité, les entrailles de père, avec autant de justesse, de précision et de vérité, qu'il s'approprie les saillies, la vivacité et les grâces d'un jeune homme, quand il est question de les représenter. Quelle estime, quelle vénération, quel amour n'a-t-il point inspiré pour le malheureux père du comte de Tufière et de Lisette !
+
+Je dois les mêmes louanges à son frère, M. Dufresne, qui a trouvé l'art d'annoncer le caractère du "Glorieux" même avant que de prononcer une parole, et par le seule manière de se présenter sur scène. Quelle noblesse dans le port ! Quelle grandeur dans son air ! Quelle fierté dans sa démarche ! Quel art, quelles grâces, quelle vérité dans tout le débit du rôle, et quelle finesse, quelle variété dans tous les jeux du théâtre !
+
+Jamais personnage ne fut plus difficile à représenter que celui de Lisette, fille de condition, et femme de chambre en même temps. Être trop comique, c'était s'exposer à refroidir l'action et à rendre le personnage ennuyeux/ Il s'agissait de trouver un juste milieu entre les saillies et les vivacités d'une suivante, et la noble retenue d'une fille de qualité. C'est ce qu'on vient de voir exécuter avec tant de succès par l'excellente actrice (mademoiselle Quinault) chargée du rôle de Lisette.
+
+Me sera-t-il permis de faire souvenir le public de l'air de confiance, de joie, de naïveté, et des plaisantes brusqueries de Lisimon, ou plutôt de l'acteur judicieux et naturel (M. Duchemin) qui a paru sous le nom de ce bourgeois ennobli ? L'extrême plaisir qu'il a fait aux spectateurs ne me laisse assurément aucun lieu de douter qu'il n'ait beaucoup contribué au succès de mon ouvrage.
+
+Je me ferais encore une devoir bien agréable de faire ici l'éloge de mes autres acteurs, si la crainte d'ennuyer par un trop long détail, ne mettait, malgré moi, des bornes à ma connaissance.
+
+Après ce juste tribut qu'elle exigeait de ma plume, ce serait ci l'occasion naturelle d'employer quelques lignes à réfuter la censure de l'auteur d'une petite comédie, ou plutôt d'un ouvrage qui en usurpe le nom, et qui a paru pendant quelques jours sur le Théâtre italien "Polichinelle, comte de Ponsier", parodie de la comédie du Glorieux, donnée au mois de mars 1732, BnF ASP - 8-RF-9054 . Mais, quoiqu'il ne convienne moins qu'à qui que ce puisse être de mépriser mes confrères les auteurs, et que je reconnaisse en eux des talents supérieurs aux miens, je crois pouvoir affecter le silence à l'égard de l'auteur dont il est question : je me dispenserai même de la nommer cet auteur est Charles-Simon Favart (1710-1792), pour ne le point tirer de son obscurité, et je lui laisse le champ libre sur un théâtre qui est son unique ressource, et qui est propre à exercer son génie ; théâtre qui ne subsiste qu'aux dépend des meilleurs ouvrages, et dont le mérite principal est de les tourner en ridicule, et de les livrer à l'envie et au mauvais goût. Il me suffit que le public ait eu la bonté de suivre ma comédie ; en l'approuvant, il s'est chargé de la défendre et de justifier en même temps les suffrages. Tout ce qu'il me reste à dire maintenant, c'est qu'on me trouvera toujours également disposé à me corriger sur les avis des personnes impartiales et judicieuses, et à mépriser les censures de certains petits auteurs étouffés qui tâchent de se donner quelque relief, en attaquant sans mesure et sans discernement tout ce que le public ne juge pas indigne de ses louanges.
+
+
+# ACTEURS.
+ – LISIMON, riche bourgeois.
+ – ISABELLE.
+ – VALÈRE, fils de Lisimon.
+ – LE COMTE DE TUFIÈRE, amant d'Isabelle.
+ – PHILINTE, amant d'Isabelle.
+ – LYCANDRE.
+ – LISETTE, fille de Lisimon.
+ – PASQUIN, valet de chambre du Comte.
+ – LA FLEUR, laquais du Comte.
+ – MONSIEUR JOSSE, notaire.
+ – UN LAQUAIS de Lycandre.
+ – PLUSIEURS LAQUAIS du Comte.La scène est à Paris dans un hôtel garni.
+
+
+# ACTE I.
+
+
+## SCÈNE I.
+
+    PASQUIN, SEUL.
+Lisette ne vient point : je crois que la friponne  
+A voulu se moquer un peu de ma personne  
+En me donnant tantôt un rendez-vous ici.  
+Pour le coup je m'en vais. Ah ! Ma foi, la voici.  
+
+
+## SCÈNE II. Lisette, Pasquin.
+
+    LISETTE.
+Mon cher Monsieur Pasquin, je suis votre servante.  
+
+    PASQUIN.
+Très humble serviteur à l'aimable suivante  
+D'une aimable maîtresse.  
+
+    LISETTE.
+        Un si doux compliment  
+Mérite de ma part un long remerciement ;  
+Mais, pour m'en acquitter, je manque d'éloquence.  
+Vous vous contenterez de cette révérence.  
+Je vous ai fait attendre...  
+
+    PASQUIN.
+        À vous parler sans fard,  
+Ma reine, au rendez-vous vous venez un peu tard.  
+
+    LISETTE.
+J'aurais voulu pouvoir un peu plus tôt m'y rendre.  
+
+    PASQUIN.
+Autrefois j'étais vif, et j'enrageais d'attendre ;  
+Rien ne pouvait calmer mes désirs excités ;  
+Mais l'âge a mis un frein à mes vivacités.  
+
+    LISETTE.
+Si bien que vous voilà devenu raisonnable ?  
+
+    PASQUIN.
+Et j'en suis bien honteux.  
+
+    LISETTE.
+        Honteux d'être estimable ?  
+
+    PASQUIN.
+Oui, de l'être avec vous ; et je lis dans vos yeux  
+Qu'avec moins de raison je vous plairais bien mieux.  
+
+    LISETTE.
+À moi ? Je vous fuirais, si vous étiez moins sage.  
+
+    PASQUIN.
+Me voilà donc au fait, et j'entends ce langage.  
+Vous me trouvez trop vieux pour être un favori,  
+Et de moi vous ferez un honnête mari.  
+Je me sens pour ce titre un fond de patience  
+Dont vous pourrez bientôt faire l'expérience.  
+
+    LISETTE.
+Vous vous trompez bien fort : car je ne veux  
+De vous ni faire mon amant, ni faire mon époux.  
+
+    PASQUIN.
+Que me voulez-vous donc ? Quel sujet nous assemble ?  
+
+    LISETTE.
+Je veux que nous tenions ici conseil ensemble.  
+
+    PASQUIN.
+Sur quoi ?  
+
+    LISETTE.
+    Sur votre maître et ma maîtresse.  
+
+    PASQUIN.
+        Eh bien ?  
+
+    LISETTE.
+Traitons cette matière, et ne nous cachons rien.  
+Tous deux à les servir étant d'intelligence,  
+Nous leur pourrons tous deux être utiles, je pense.  
+
+    PASQUIN.
+Votre idée est très juste ; elle me plaît.  
+
+    LISETTE.
+        Tant mieux.  
+Le Comte votre maître est froid et sérieux,  
+Et, depuis trois grands mois qu'avec nous il demeure,  
+Je n'ai pas encor pu lui parler un quart d'heure.  
+Quel est son caractère ? Entre nous, j'entrevois  
+Que ma maîtresse l'aime ; et cependant je crois  
+Qu'il ne doit pas longtemps compter sur sa tendresse :  
+Car, avec de l'esprit, du sens, de la sagesse,  
+Des grâces, des attraits, elle n'a pas le don  
+S'aimer avec constance. Avant qu'aimer, dit-on,  
+Il faut connaître à fond : car l'amour est bien traître.  
+Pour Isabelle, elle aime avant que de connaître ;  
+Mais son penchant ne peut l'aveugler tellement  
+Qu'il dérobe à ses yeux les défauts d'un amant.  
+Les cherchant avec soin et les trouvant sans peine,  
+Après quelques efforts sa victoire est certaine ;  
+Honteuse de son choix, elle reprend son cour,  
+Et l'on voit à ses feux succéder la froideur ;  
+Sur le point d'épouser, elle rompt sans mystère.  
+
+    PASQUIN.
+Voilà, sur ma parole, un plaisant caractère.  
+Un cour tendre et volage, un esprit vif, ardent  
+Jusqu'à l'étourderie, et toutefois prudent ;  
+Coquette au par-dessus.  
+
+    LISETTE.
+        Non, point capricieuse,  
+Point coquette, et surtout point artificieuse.  
+Elle aime tendrement, et de très bonne foi ;  
+Mais cela ne tient pas. Maintenant dites-moi  
+Toutes les qualités du comte votre maître.  
+C'est pour le mieux servir que je veux le connaître.  
+Sans deviner pourquoi, j'ai du penchant pour lui,  
+Et vous l'éprouverez même dès aujourd'hui.  
+S'il a quelques défauts, empêchons ma maîtresse  
+De s'en apercevoir, et fixons sa tendresse.  
+Mais découvrez-les-moi pour me mettre en état  
+De faire que l'hymen prévienne cet éclat.  
+
+    PASQUIN.
+Instruit de vos desseins, je parlerai sans craindre,  
+Et de la tête aux pieds je vais vous le dépeindre.  
+Ses bonnes qualités seront mon premier point ;  
+Ses défauts, mon second. Je ne vous cache point  
+Que je serai très court sur le premier chapitre,  
+Très long sur le dernier. Premièrement, son titre  
+De comte de Tufière est un titre réel,  
+Et son air de grandeur est un air naturel :  
+Il est certainement d'une haute naissance.  
+
+    LISETTE.
+C'est l'effet du hasard. Passons.  
+
+    PASQUIN.
+        Toute la France  
+Convient de sa valeur, et, brave confirmé,  
+Parmi les gens de guerre il est très estimé.  
+Il fera son chemin, à ce que l'on assure.  
+Il est homme d'honneur ; on vante sa droiture.  
+Quoique vif, pétulant, il a le cour très bon.  
+Voilà mon premier point.  
+
+    LISETTE.
+        Passons vite au second.  
+
+
+## SCÈNE III. Lisette, Pasquin, La Fleur.
+
+    PASQUIN.
+Ah ! Te voilà, La Fleur ? Que fait monsieur le Comte ?  
+
+    LA FLEUR.
+Il joue ; et, qui plus est, il y fait bien son compte :  
+Car il va mettre à sec un franc provincial,  
+Au moins aussi nigaud qu'il me paraît brutal ;  
+Notre maître, tandis qu'il jure et se désole,  
+Embourse son argent sans dire une parole.  
+
+    PASQUIN.
+Pourquoi viens-tu sitôt ?  
+
+    LA FLEUR.
+        Pour un dessein que j'ai.  
+
+    PASQUIN.
+Quel dessein ?  
+
+    LA FLEUR.
+        Je vous viens demander mon congé.  
+
+    PASQUIN.
+À moi ?  
+
+    LA FLEUR.
+        Sans doute. Autant que je puis m'y connaître,  
+Vous êtes factotum de monsieur notre maître.  
+On n'ose lui parler sans le mettre en courroux :  
+Il faut par conséquent que l'on s'adresse à vous.  
+
+    PASQUIN.
+Tu me surprends, La Fleur, je te croyais plus sage.  
+Servir monsieur le comte est un grand avantage.  
+Pourquoi donc le quitter ? Éclaircis-moi ce point.  
+
+    LA FLEUR.
+C'est que vous parlez trop, et qu'il ne parle point.  
+
+    LISETTE.
+Le trait est singulier, et la plainte est nouvelle.  
+
+    LA FLEUR.
+Tel que vous me voyez, ma chère demoiselle,  
+Vous ne le croiriez pas, on me prend pour un sot ;  
+Et mon maître, en trois mois, ne m'a pas dit un mot.  
+
+    PASQUIN.
+Que t'importe cela ?  
+
+    LA FLEUR.
+        Comment donc, que m'importe ?  
+Peut-il avec ses gens en user de la sorte ?  
+Que je sois tout un jour dans son appartement,  
+Il ne daignera pas me gronder seulement ;  
+Et j'ai quitté pour lui la meilleure maîtresse...  
+Qui voulait qu'on parlât, et qui parlait sans cesse.  
+On ne s'ennuyait point. Tous les jours, tour à tour,   [1]
+Elle nous chantait pouille avant le point du jour.  
+C'était un vrai plaisir.  
+
+    LISETTE.
+        Tu veux donc qu'on te gronde ?  
+
+    LA FLEUR.
+Je ne hais point cela, pourvu que je réponde.  
+Répondre, c'est parler. Encor vit-on. Mais bon !  
+Avec monsieur le comte on ne dit oui ni non ;  
+Il ne dit pas lui-même une pauvre syllabe.  
+Oh ! J'aimerais autant vivre avec un arabe.  
+Cela me fait sécher, cela me pousse à bout ;  
+Moi, qui dis volontiers mon sentiment sur tout,  
+Le silence me tue, et... vous riez ?  
+
+    LISETTE.
+        Achève.  
+
+    LA FLEUR, EN PLEURANT.
+Si je reste céans, il faudra que je crève.  
+
+    LISETTE, À PASQUIN.
+Que j'aime sa franchise et sa naïveté !  
+
+    LA FLEUR.
+Foi de garçon d'honneur, je dis la vérité.  
+
+    PASQUIN.
+Notre maître à ses gens fait garder le silence ;  
+Mais ils sentent l'effet de sa magnificence ;  
+Bien nourris, bien vêtus, et payés largement.  
+
+    LA FLEUR.
+Eh ! Tout cela pour moi n'est point contentement.  
+
+    LISETTE.
+Enfin, il faut qu'il parle ; et c'est là sa folie.  
+
+    LA FLEUR.
+Autrement je succombe à la mélancolie.  
+J'eus un maître autrefois que je regrette fort,  
+Et que je ne sers plus, attendu qu'il est mort.  
+Il ne me faisait pas de fort gros avantages,  
+Il me nourrissait mal, me payait mal mes gages ;  
+Jamais aucun profit, et souvent en hiver  
+Il me laissait aller presque aussi nu qu'un ver ;  
+Mais je l'aimais. Pourquoi ? C'est qu'il me faisAit rire,  
+Et que de mon côté je pouvais tout lui dire.  
+Il m'appelait son cher, son ami, son mignon ;  
+Et nous vivions tous deux de pair à compagnon.  
+Mais, pour monsieur le comte, au diantre si je l'aime !  
+Il est toujours gourmé, renfermé dans lui-même,  
+Toujours portant au vent, fier comme un écossais.  
+Je ne puis le souffrir, à vous parler français ;  
+Et, dût-il m'enrichir, que le diable m'emporte  
+Si je voulais servir un maître de la sorte !  
+
+    PASQUIN.
+Patience ; à ta face on s'accoutumera,  
+Et tu verras qu'un jour monsieur te parlera.  
+Mais ne t'échappe point. Attends l'heure propice.  
+Depuis dix ans au moins je suis à son service,  
+Et n'ose lui parler que par occasion.  
+
+    LISETTE, À PASQUIN.
+Ce pauvre garçon-là me fait compassion.  
+Faites que l'on lui dise au moins quelques paroles.  
+
+    LA FLEUR.
+Tenez, j'aimerais mieux deux mots que deux pistoles.  
+
+    PASQUIN.
+J'y ferai de mon mieux.  
+
+    LA FLEUR.
+        Enfin point de milieu ;  
+Il faut ou qu'on me parle, ou qu'on me chasse.  
+Adieu. Voilà mon dernier mot ; c'est moi qui vous l'annonce ;  
+Et je parlerai, moi, si je n'ai pas réponse.  
+
+
+## SCÈNE IV. Lisette, Pasquin.
+
+    PASQUIN.
+J'ai pitié, comme vous, de ce pauvre La Fleur.  
+
+    LISETTE.
+Le comte de Tufière est donc un fier seigneur ?  
+
+    PASQUIN.
+C'est là mon second point.  
+
+    LISETTE.
+        Fort bien.  
+
+    PASQUIN.
+Sa politique est d'être toujours grave avec un domestique.  
+S'il lui disait un mot, il croirait s'abaisser ;  
+Et qu'un valet lui parle, il se fera chasser :  
+Enfin, pour ébaucher en deux mots sa peinture,  
+C'est l'homme le plus vain qu'ait produit la nature.  
+Pour ses inférieurs plein d'un mépris choquant,  
+Avec ses égaux même il prend l'air important ;  
+Si fier de ses aïeux, si fier de sa noblesse,  
+Qu'il croit être ici-bas le seul de son espèce ;  
+Persuadé d'ailleurs de son habileté,  
+Et décidant sur tout avec autorité ;  
+Se croyant en tout genre un mérite suprême ;  
+Dédaignant tout le monde, et s'admirant lui-même ;  
+En un mot, des mortels le plus impérieux,  
+Et le plus suffisant, et le plus glorieux.  
+
+    LISETTE.
+Ah ! Que nous allons rire !  
+
+    PASQUIN.
+    Et de quoi donc ?  
+
+    LISETTE.
+        Son faste,  
+Sa fierté, Ses hauteurs, font un parfait contraste  
+Avec les qualités de son humble rival,  
+Qui n'oserait parler de peur de parler mal,  
+Qui par timidité rougit comme une fille,  
+Et qui, quoique fort riche et de noble famille,  
+Toujours rampant, craintif, et toujours concerté,  
+Prodigue les excès de sa civilité ;  
+Pour les moindres valets rempli de déférences,  
+Et ne parlant jamais que par ses révérences.  
+
+    PASQUIN.
+Oui, ma foi, le contraste est tout des plus parfaits,  
+Et nous en pourrons voir d'assez plaisants effets.  
+Ce doucereux rival, c'est Philinte, sans doute ?  
+Mon maître d'un regard doit le mettre en déroute.  
+
+    LISETTE.
+Mais ce comte si fier est donc bien riche aussi ?  
+Du moins il le paraît.  
+
+    PASQUIN.
+        Riche ? Non, dieu merci :  
+Car c'est là, quelquefois, ce qui rabat sa gloire ;  
+Et tout son revenu, si j'ai bonne mémoire,  
+Vient de sa pension et de son régiment ;  
+Mais il sait tous les jeux et joue heureusement :  
+C'est par là qu'il soutient un train si magnifique.  
+
+    LISETTE.
+Et faites-vous fortune ?  
+
+    PASQUIN.
+        Oui, par ma politique.  
+Avec moi quelquefois il prend des libertés.  
+Je le boude, il sourit. Mes dépits concertés,  
+Un air froid et rêveur, quelques brusques paroles,  
+L'amènent où je veux. Par quatre ou cinq pistoles  
+Il cherche à m'apaiser, à me calmer l'esprit ;  
+Et, comme j'ai bon cour, son argent m'attendrit.  
+
+    LISETTE.
+Vous m'avez mise au fait et je vais vous instruire.  
+Le comte va bientôt lui-même se détruire  
+Dans l'esprit d'Isabelle ; oui, soyez-en certain,  
+S'il ne lui cache pas son naturel hautain.  
+Elle est d'humeur liante, affable, sociable :  
+L'orgueil est à ses yeux un vice insupportable ;  
+Et, malgré les grands biens qui lui sont assurés,  
+Son air et ses discours sont simples, mesurés,  
+Honnêtes, prévenanTs et pleins de modestie.  
+
+    PASQUIN.
+Si bien qu'avec mon maître elle est mal assortie ?  
+
+    LISETTE.
+Il aura son congé s'il ne se contraint point.  
+Donnez-lui cet avis.  
+
+    PASQUIN.
+        Il est haut à tel point...  
+
+    LISETTE.
+J'entends du bruit. Je crois que c'est notre vieux maître.  
+Ne me laissez pas seule avec lui.  
+
+    PASQUIN. [2]
+        Ce vieux reître  
+Est-il si dangereux ?  
+
+    LISETTE.
+        À cinquante-cinq ans,  
+Il est plus libertin que tous nos jeunes gens ;  
+Et, ce qui me surprend, c'est que son fils Valère  
+A toute la sagesse et la vertu d'un père.  
+
+
+## SCÈNE V. Lisimon, Lisette, Pasquin.
+
+    LISIMON, COURANT À LISETTE.
+Bonjour, ma chère enfant ; embrasse-moi bien fort.  
+Comment donc, tu me fuis ?  
+
+    LISETTE.
+        Réservez ce transport pour madame.  
+
+    LISIMON.
+Eh ! Fi donc ! Tu te moques, je pense ?  
+J'arrive de campagne, et, plein d'impatience  
+De te revoir, j'accours... Quel est ce garçon-là ?  
+Tête à tête tous deux ? Je n'aime point cela.  
+Je gage qu'avec lui tu n'étais pas si fière ?  
+
+    LISETTE.
+Nous nous entretenions du comte de Tufière,  
+Son maître.  
+
+    LISIMON.
+        Ce seigneur que l'on m'a proposé  
+Pour ma fille ?  
+
+    PASQUIN.
+    Oui, monsieur.  
+
+    LISIMON.
+        Je suis très disposé,  
+Sur ce qu'on m'en écrit, à le choisir pour gendre ;  
+On me le vante fort, et l'on me fait entendre  
+Qu'il est homme d'honneur, de grande qualité.  
+Mais est-il vif, alerte, étourdi, bien planté,  
+Bon vivant ? Car je veux tout cela pour ma fille.  
+
+    PASQUIN.
+Vous faites son portrait, et c'est par là qu'il brille.  
+
+    LISIMON.
+Bon. Aime-t-il la table, et boit-il largement ?  
+
+    PASQUIN.
+Diable ! Il est le plus fort de tout le régiment.  
+Il a fait son chef-d'oeuvre en Allemagne, en Suisse.  
+
+    LISIMON.
+Voilà mon homme. Il faut que l'autre déguerpisse.  
+
+    LISETTE.
+Qui, Philinte ?  
+
+    LISIMON.
+        Lui-même. Il me cajole en vain.  
+C'est un homme qui met le tiers d'eau dans son vin.  
+Ce fade personnage, en ses façons discrètes,  
+Me donne la colique à force de courbettes.  
+Mon gendre buveur d'eau ! Fût-il prince, morbleu !  
+Je le refuserais. Nous allons voir beau jeu :  
+Car ma femme, dit-on, le destine à ma fille.  
+Sait-elle que je suis le chef de ma famille,  
+Le monarque absolu d'elle et de mes enfants,  
+Que j'en veux disposer ? Mais est-elle céans ?  
+
+    LISETTE.
+Oui, monsieur.  
+
+    LISIMON.
+        Tu diras à ma chère compagne  
+Qu'il faut que dès ce soir elle aille à la campagne.  
+
+    LISETTE.
+Et pourquoi donc ?  
+
+    LISIMON.
+        Pourquoi ? C'est que je suis ici.  
+Belle demande !  
+
+    LISETTE.
+    Mais...  
+
+    LISIMON.
+        Dans cette maison-ci  
+Nous sommes à l'étroit et trop près l'un de l'autre,  
+Et l'on travaille à force à rebâtir la nôtre.  
+Mon hôtel sera vaste, et je prendrai grand soin  
+Que nos appartements se regardent de loin,  
+Afin qu'un même toit elle et moi nous assemble  
+Sans nous apercevoir que nous logions ensemble.  
+
+    LISETTE.
+Je vais voir si madame est visible.  
+
+    LISIMON.
+        Non, non ;  
+J'ai deux mots à te dire. Et toi, sors, mon garçon.  
+Va-t'en chercher ton maître en toute diligence :  
+Il faut qu'incessamment nous fassions connaissance.  
+
+    LISETTE.
+Son maître va rentrer.  
+
+    PASQUIN.
+        Et je l'attends ici.  
+
+    LISIMON.
+Va l'attendre dehors. Décampe.  
+
+
+## SCÈNE VI. Lisimon, Lisette.
+
+    LISIMON.
+        Dieu merci,  
+Nous sommes tête à tête, et ma vive tendresse...  
+Où vas-tu donc ?  
+
+    LISETTE.
+        Je vais rejoindre ma maîtresse,  
+Elle m'appelle.  
+
+    LISIMON.
+    Non.  
+
+    LISETTE.
+        Ne l'entendez-vous pas ?  
+
+    LISIMON.
+Moi ! Point.  
+
+    LISETTE.
+        Moi, je l'entends, et j'y cours de ce pas.  
+
+    LISIMON.
+Qu'elle attende.  
+
+    LISETTE.
+        Monsieur, voulez-vous qu'on me gronde ?  
+
+    LISIMON.
+Qui l'oserait céans ? Je veux que tout le monde  
+T'y regarde en maîtresse, et me respecte en toi ;  
+Que femme, enfants, valets, tout t'obéisse.  
+
+    LISETTE.
+        À moi,  
+Monsieur ? Y pensez-vous ?  
+
+    LISIMON.
+        Oui, ma petite reine ;  
+De mon cour, De mes biens, je te rends souveraine.  
+
+    LISETTE.
+Ce langage est obscur, et je ne l'entends pas.  
+
+    LISIMON.
+Je m'en vais m'expliquer. Charmé de tes appas,  
+J'ai conçu le dessein de faire ta fortune.  
+Pour nous débarrasser d'une foule importune,  
+Je te veux à l'écart loger superbement.  
+Les soirs, j'irai chez toi souper secrètement ;  
+Je ferai tous les frais d'un nombreux domestique,  
+D'un équipage leste autant que magnifique ;  
+Habits, ajustements, rien ne te manquera ;  
+Et sur tous tes désirs mon cour te préviendra :  
+M'entends-tu maintenant ?  
+
+    LISETTE.
+        Oui, monsieur, à merveille.  
+
+    LISIMON.
+Et ce discours, je crois, te chatouille l'oreille ?  
+Que réponds-tu, ma chère, à ces conditions ?  
+
+    LISETTE.
+Je ne puis accepter vos propositions,  
+Monsieur, sans consulter une très bonne dame  
+Que j'honore.  
+
+    LISIMON.
+    Et qui donc ?  
+
+    LISETTE.
+        Madame votre femme.  
+
+    LISIMON.
+Comment, diable, ma femme !  
+
+    LISETTE.
+        Oui, monsieur, s'il vous plaît.  
+À ce qui me regarde elle prend intérêt,  
+Et je ne doute point qu'elle ne soit ravie  
+De me voir embrasser ce doux genre de vie.  
+
+    LISIMON.
+Te moques-tu ?  
+
+    LISETTE.
+        Je vais aussi prendre l'avis  
+De ma maîtresse, et puis de monsieur votre fils.  
+Tous trois, édifiés, à ce que j'imagine,  
+Du soin que vous prenez d'une pauvre orpheline,  
+Seront touchés de voir que, lui prêtant la main,  
+Vous la mettiez vous-même en un si beau chemin,  
+Et qu'à votre âge, enfin, votre charité brille  
+Jusqu'à les ruiner pour placer une fille.  
+
+    LISIMON.
+Tu le prends sur ce ton ?  
+
+    LISETTE.
+        Oui, monsieur, je l'y prends.  
+Apprenez, je vous prie, à connaître vos gens.  
+Un cour tel que le mien méprise les richesses,  
+Quand il faut les gagner par de telles bassesses.  
+
+    LISIMON.
+Oh ! Puisque mon amour, mes offres, mes discours,  
+Ne peuvent rien sur toi, je prétends...  
+
+    LISETTE, S’ENFUYANT.
+        Au secours !  
+
+    LISIMON.
+Quoi ! Friponne, me faire une telle incartade ?  
+
+
+## SCÈNE VII. Lisimon, Valère, Lisette.
+
+    VALÈRE, ACCOURANT.
+Mon père, qu'avez-vous ?  
+
+    LISIMON.
+    Rien.  
+
+    VALÈRE.
+        Êtes-vous malade ?  
+
+    LISIMON.
+Non ; je me porte bien. Que voulez-vous ?  
+
+    VALÈRE.
+        Qui, moi ?  
+On criait au secours, et, plein d'un juste effroi,  
+Je suis vite accouru.  
+
+    LISIMON.
+    C'est prendre trop de peine.  
+Lisette me suffit.  
+
+    VALÈRE.
+    Mais...  
+
+    LISIMON.
+        Votre aspect me gêne,  
+Sortez.  
+
+    VALÈRE.
+        Moi, vous quitter en ce pressant besoin !  
+Je n'ai garde à coup sûr. Lisette, j'aurai soin  
+De monsieur ; sortez vite ; allez dire à ma mère  
+Qu'elle vienne au plus tôt.  
+
+    LISIMON.
+        Eh ! Je n'en ai que faire,  
+Bourreau.  
+
+    LISETTE.
+    J'y vais.  
+
+    LISIMON, À VALÈRE.
+        Demeure. Et toi, sors à l'instant.  
+
+    VALÈRE.
+S'il ne tient qu'à cela pour vous rendre content,  
+Lisette restera. Mais aussi je vous jure  
+De ne vous point quitter dans cette conjoncture.  
+Vous voilà trop ému. Vos yeux sont tout en feu.  
+Je crains quelque accident. Asseyez-vous un peu.  
+Vous êtes, je le vois, fatigué du voyage.  
+Il faut vous ménager un peu plus à votre âge.  
+Enverrai-je chercher le médecin ?  
+
+    LISIMON.
+        Tais-toi.  
+En sortant.
+
+Traître, tu le payeras.  
+
+
+## SCÈNE VIII. Valère, Lisette.
+
+    LISETTE.
+    Vous voyez ?  
+
+    VALÈRE.
+        Oui, je vois  
+À quel indigne excès veut se porter mon père.  
+Quel exemple pour moi ! Quel chagrin pour ma mère !  
+Je ne m'étonne plus si sa faible santé  
+L'oblige à renoncer à la société,  
+Et si, toujours livrée à sa mélancolie,  
+Dans son appartement elle passe sa vie.  
+
+    LISETTE.
+Je veux sortir d'ici.  
+
+    VALÈRE.
+        Non, non, ne craignez rien.  
+De mon père, après tout, nous vous défendrons bien.  
+
+    LISETTE.
+Je le sais ; mais enfin je veux sortir, vous dis-je.  
+
+    VALÈRE.
+Songez-vous à quel point votre discours m'afflige ?  
+Oui, si vous nous quittez, je mourrai de douleur.  
+Vous savez mon dessein.  
+
+    LISETTE.
+        Il ferait mon bonheur  
+S'il pouvait s'accomplir ; mais il est impossible.  
+Je sens de vous à moi la distance terrible.  
+Un mariage en forme est ce que je prétends :  
+Vous me le promettez, mais en vain je l'attends.  
+Chaque jour, chaque instant détruit mon espérance.  
+Vos parents sont puissants ; une fortune immense  
+Doit vous faire aspirer aux plus nobles partis :  
+Jugez si vous et moi nous sommes assortis.  
+
+    VALÈRE.
+L'amour assortit tout, et mon âme ravie  
+Trouve en vous ce qui fait le bonheur de la vie.  
+
+    LISETTE.
+Songez que je n'ai rien, et ne sais d'où je sors.  
+
+    VALÈRE.
+Esprit, grâces, beauté, ce sont là vos trésors,  
+Vos titres, vos parents.  
+
+    LISETTE.
+        Vous flattez-vous, Valère,  
+De faire à notre hymen consentir votre père ?  
+
+    VALÈRE.
+Nous nous passerons bien de son consentement.  
+
+    LISETTE.
+Oui, vous, mais non pas moi.  
+
+    VALÈRE.
+        Je puis secrètement...  
+
+    LISETTE.
+Non, non, ne croyez pas qu'un vain espoir m'endorme.  
+Je vous l'ai dit, je veux un mariage en forme,  
+Et me garderai bien de courir le hasard...  
+
+    VALÈRE.
+Vous n'avez rien à craindre, et... que veut ce vieillard ?  
+
+    LISETTE.
+Tout pauvre qu'il paraît, sa sagesse est profonde,  
+Et c'est le seul ami qui me reste en ce monde.  
+Depuis près de deux ans, cet ami vertueux,  
+Sensible à mes besoins, empressé, généreux,  
+Fait de me secourir sa principale affaire :  
+Je trouve en sa personne un guide salutaire.  
+Laissez-nous un moment, s'il vous plaît.  
+
+    VALÈRE.
+        De bon cour ;  
+Mais revenez bientôt me joindre chez ma sour.  
+
+
+## SCÈNE IX. Lycandre, Lisette.
+
+    LYCANDRE.
+Enfin, je vous revois ; cette rencontre heureuse  
+Me comble de plaisir.  
+
+    LISETTE.
+        Moi, je suis bien honteuse  
+Que vous me retrouviez dans l'état où je suis.  
+
+    LYCANDRE.
+Que faites-vous ici ?  
+
+    LISETTE.
+        Je fais ce que je puis  
+Pour me le cacher ; mais...  
+
+    LYCANDRE.
+    Quoi ?  
+
+    LISETTE.
+        J'y suis en service.  
+
+    LYCANDRE.
+Juste ciel ! Et c'est donc pour ce vil exercice  
+Que sans m'en avertir vous sortez du couvent ?  
+
+    LISETTE.
+Autrefois pour me voir vous y veniez souvent ;  
+Mais depuis quelque temps vous m'avez négligée.  
+De plus, ma mère est morte. Inquiète, affligée,  
+N'entendant rien de vous, sans espoir, sans appui,  
+Quelle ressource avais-je en ce cruel ennui ?  
+La fille de céans, à présent ma maîtresse,  
+Mon amie au couvent, sensible à ma tristesse,  
+Sur le point de sortir, m'offrit obligeamment  
+De me prendre auprès d'elle. Elle me fit serment  
+Que je serais plutôt compagne que suivante :  
+Je ne pus résister à son offre pressante.  
+Ce ne fut pas pourtant sans verser bien des pleurs ;  
+Mais mon sort le voulut : et voilà mes malheurs.  
+
+    LYCANDRE.
+Ô fortune cruelle ! Et vous tient-on parole  
+Par de justes égards ?  
+
+    LISETTE.
+    Oui.  
+
+    LYCANDRE.
+        Cela me console  
+D'un si triste incident, que j'aurais prévenu  
+Si mes infirmités ne m'eussent retenu  
+Pendant près de six mois dans la retraite  
+Obscure où je mène moi-même une vie assez dure.  
+Si bien que vous voilà plus heureuse aujourd'hui ?  
+
+    LISETTE.
+Autant qu'on le peut être au service d'autrui.  
+
+    LYCANDRE.
+Hélas !  
+
+    LISETTE.
+        Vous soupirez ? Dans ma triste aventure  
+Je ne sais quel espoir me soutient, me rassure ;  
+Mais je n'ai rien perdu de ma vivacité.  
+
+    LYCANDRE.
+Votre espoir est fondé. Le moment souhaité  
+Peut arriver bientôt. La fortune se lasse  
+De vous persécuter. Mais, dites-moi, de grâce,  
+À qui parliez-vous là, quand je suis survenu ?  
+
+    LISETTE.
+Au fils de la maison. S'il vous était connu,  
+Vous l'estimeriez fort.  
+
+    LYCANDRE.
+        Il a donc votre estime ?  
+Vous rougissez ?  
+
+    LISETTE.
+        Qui, moi ? Me feriez-vous un crime  
+De lui rendre justice ?  
+
+    LYCANDRE.
+        Il est jeune, bien fait,  
+Riche ; Il vous voit souvent ?  
+
+    LISETTE.
+        Oui, souvent, en effet.  
+
+    LYCANDRE.
+Vous êtes jeune, aimable, et sans expérience :  
+Voilà bien des écueils.  
+
+    LISETTE.
+        Soyez en assurance.  
+Mon cour est au-dessus de ma condition.  
+J'ai des principes sûrs contre l'occasion.  
+
+    LYCANDRE.
+J'y compte. Mais enfin que vous dit ce jeune homme ?  
+
+    LISETTE.
+Il se nomme Valère.  
+
+    LYCANDRE.
+        Eh ! Mon dieu, qu'il se nomme  
+Ou Valère, ou Cléon, que m'importe ? Il s'agit  
+De m'informer à fond des choses qu'il vous dit.  
+
+    LISETTE.
+Qu'il m'aime.  
+
+    LYCANDRE.
+    Est-ce là tout ?  
+
+    LISETTE.
+    Oui.  
+
+    LYCANDRE.
+        C'est tout ? Oui, vous dis-je.  
+
+    LYCANDRE.
+Vous me trompez.  
+
+    LISETTE.
+        Eh ! Mais... Ce reproche m'afflige.  
+Eh bien donc, ce jeune homme, à ne rien déguiser,  
+Si j'y veux consentir, m'offre de m'épouser en secret.  
+
+    LYCANDRE.
+En secret ? Il cherche à vous surprendre.  
+
+    LISETTE.
+Non ; je réponds de lui. Mais, bien loin de me rendre,  
+En acceptant son cour je refuse sa main,  
+À moins que ses parents n'approuvent son dessein.  
+Ils le rejetteront, je n'en suis que trop sûre ;  
+Et, pour fuir un éclat, monsieur, je vous conjure  
+De me tirer d'ici dès demain, dès ce soir,  
+Pour que Valère et moi nous cessions de nous voir.  
+
+    LYCANDRE.
+D'un sort moins rigoureux ô fille vraiment digne !  
+Ce que vous exigez est une preuve insigne  
+Et de votre prudence et de votre vertu.  
+Il faut vous révéler ce que je vous ai tu.  
+Vous pouvez aspirer à la main de Valère,  
+Et même l'épouser de l'aveu de son père.  
+
+    LISETTE.
+Moi, monsieur ?  
+
+    LYCANDRE.
+        Je dis plus : ils se tiendront heureux,  
+Dès qu'ils vous connaîtront, de former ces beaux nouds ;  
+Et, respectant en vous une haute naissance,  
+Ils brigueront l'honneur d'une telle alliance.  
+
+    LISETTE.
+Vous vous moquez de moi. Pourquoi, jusqu'à sa mort,  
+Ma mère a-t-elle eu soin de me cacher mon sort ?  
+Mon père est-il vivant ?  
+
+    LYCANDRE.
+        Il respire, il vous aime,  
+Et viendra de ce lieu vous retirer lui-même.  
+
+    LISETTE.
+Et pourquoi si longtemps m'abandonner ainsi ?  
+
+    LYCANDRE.
+Vous saurez ses raisons. Mais demeurez ici  
+Jusqu'à ce qu'il se montre, et gardez le silence ;  
+C'est un point capital.  
+
+    LISETTE.
+        Moi, d'illustre naissance !  
+Ah ! Je ne vous crois point, si vous n'éclaircissez  
+Tout ce mystère à fond.  
+
+    LYCANDRE.
+        Non, j'en ai dit assez.  
+Pour savoir tout le reste, attendez votre père.  
+Adieu. Mais dites-moi, le comte de Tufière  
+Demeure-t-il céans ?  
+
+    LISETTE.
+        Oui, depuis quelques mois.  
+
+    LYCANDRE.
+Il faut que je lui parle.  
+
+    LISETTE.
+        Ah ! Monsieur, je prévois  
+Qu'il vous recevra mal en ce triste équipage,  
+Car on me l'a dépeint d'un orgueil si sauvage...  
+
+    LYCANDRE.
+Je saurai l'abaisser.  
+
+    LISETTE.
+        Il vous insultera.  
+
+    LYCANDRE.
+J'imagine un moyen qui le corrigera.  
+Jusqu'au revoir. Songez qu'une naissance illustre  
+Des sentiments du cour reçoit son plus beau lustre :  
+Pour les faire éclater il est de sûrs moyens ;  
+Et, si le sort cruel vous a ravi vos biens,  
+D'un plus rare trésor enviant le partage,  
+Soyez riche en vertus : c'est là votre apanage.  
+
+
+# ACTE II.
+
+
+## SCÈNE I.
+
+    LISETTE.
+Dois-je me réjouir ? Dois-je m'inquiéter ?  
+Ce que m'a dit Lycandre est bien prompt à flatter  
+Mon petit amour-propre ; et pourtant plus j'y pense,  
+Et moins à son discours je trouve d'apparence.  
+Le bonhomme, à coup sûr, s'est diverti de moi.  
+Mais non, il m'aime trop pour me railler. Je crois  
+Démêler sa finesse. Il veut me rendre fière  
+Afin que je me croie au-dessus de Valère,  
+Et le vieillard adroit, usant de ce détour,  
+Arme la vanité pour combattre l'amour.  
+Oui, oui, tout bien pesé, m'en voilà convaincue.  
+De toutes mes grandeurs je suis bientôt déchue !  
+Je redeviens Lisette, et le sort conjuré...  
+Pauvre Lisette ! Hélas ! Ton règne a peu duré !  
+Je me suis endormie et j'ai fait un beau songe,  
+Mais dans mon triste état le réveil me replonge.  
+
+
+## SCÈNE II. Valère, Lisette.
+
+    VALÈRE.
+J'avais beau vous attendre. Eh quoi ! Seule à l'écart ?  
+Qu'y faites-vous ?  
+
+    LISETTE.
+    Je rêve.  
+
+    VALÈRE.
+        Il faut que ce vieillard  
+Qui vous est venu voir vous ait dit quelque chose  
+D'affligeant.  
+
+    LISETTE.
+    Au contraire.  
+
+    VALÈRE.
+        Et quelle est donc la cause  
+De votre rêverie ?  
+
+    LISETTE.
+        Un fait qui sûrement  
+Devrait me réjouir ; et c'est précisément  
+Ce qui m'afflige.  
+
+    VALÈRE.
+        Oh ! Oh ! Le trait, sur ma parole,  
+Est des plus surprenants.  
+
+    LISETTE.
+        Vous m'allez croire folle  
+Sur ce que je vous dis ; et cependant ce trait  
+D'un excès de sagesse est peut-être l'effet.  
+
+    VALÈRE.
+Je ne vous comprends point. Expliquez ce mystère.  
+
+    LISETTE.
+Cela m'est défendu ; mais je ne puis me taire,  
+Et, quoique l'on m'ordonne un silence discret,  
+Je sens bien que pour vous je n'ai point de secret.  
+Je soutiens avec peine un fardeau qui me lasse.  
+
+    VALÈRE.
+à la tentation succombez donc, de grâce.  
+
+    LISETTE.
+C'est le meilleur moyen de m'en guérir, je crois ;  
+Mais, si je vais parler, vous vous rirez de moi.  
+
+    VALÈRE.
+Quoi ! Vous pouvez...  
+
+    LISETTE.
+        Jurez que, quoi que je vous dise,  
+Vous n'en raillerez point.  
+
+    VALÈRE.
+    J'en jure.  
+
+    LISETTE.
+        Ma franchise,  
+Ou, si vous le voulez, mon indiscrétion,  
+Exige de ma part cette précaution ;  
+Au surplus, vous pourrez m'éclaircir sur un doute  
+Qui me tourmente fort. Or, écoutez.  
+
+    VALÈRE.
+J'écoute.  
+
+    LISETTE.
+        Ce bonhomme m'a dit... Vous allez vous moquer.  
+
+    VALÈRE.
+Eh ! Non, vous dis-je, non.  
+
+    LISETTE.
+        Avant de m'expliquer,  
+Valère, permettez Que je vous interroge.  
+Répondez franchement, et surtout point d'éloge.  
+
+    VALÈRE.
+Voyons.  
+
+    LISETTE.
+        Me trouvez-vous l'air de condition  
+Que donne la naissance et l'éducation ?  
+Et croyez-vous mes traits, mes façons, mon langage,  
+Propres à soutenir un noble personnage ?  
+
+    VALÈRE.
+Un amant sur ce point est un juge suspect.  
+Mais vous m'avez d'abord inspiré le respect,  
+La vénération. Qui les a pu produire ?  
+Votre rang ? Votre bien ? Plût au ciel ! Je soupire  
+Lorsque je vois l'état où vous réduit le sort.  
+Mais pour vous abaisser il fait un vain effort,  
+Et, de quelques parents que vous soyez issue,  
+Chacun remarque en vous, à la première vue,  
+Certain air de grandeur qui frappe, qui saisit ;  
+Et ce que je vous dis, tout le monde le dit.  
+
+    LISETTE.
+Ce discours est flatteur ; mais est-il bien sincère ?  
+
+    VALÈRE.
+Oui, foi de galant homme.  
+
+    LISETTE.
+        Apprenez donc, Valère,  
+Ce qu'on vient de me dire, et ce qui m'est bien doux,  
+Parce que son effet rejaillira sur vous.  
+Par de fortes raisons, qu'on doit bientôt m'apprendre,  
+On m'a caché mon rang. J'ai l'honneur de descendre  
+D'une famille illustre et de condition,  
+Si l'on n'a point voulu me faire illusion.  
+
+    VALÈRE.
+Non, on vous a dit vrai, c'est moi qui vous l'assure,  
+Et j'en ferai serment.  
+
+    LISETTE, EN RIANT.
+    Fort bien.  
+
+    VALÈRE.
+        Je vous conjure,  
+Charmante Lis... Ô ciel ! Je ne sais plus comment  
+Vous nommer ; mais enfin, je vous prie instamment,  
+Si vous m'aimez encor, d'être persuadée  
+Qu'on vous donne de vous une très juste idée,  
+Et souffrez que l'amour, jaloux de votre droit,  
+Vous rende le premier l'hommage qu'on vous doit.  
+Il se met à genoux.
+
+
+    LISETTE.
+Valère, levez-vous, vous me rendez confuse.  
+
+    VALÈRE.
+Quoi ! Vous, servir ma sour ! Ah ! Déjà je m'accuse  
+D'avoir été trop lent à la désabuser ;  
+À vous manquer d'égards je pourrais l'exposer.  
+Mon père m'inquiète, et je sais que ma mère  
+Quelquefois avec vous prend un ton trop sévère.  
+Je vais donc avertir ma famille, et je crains...  
+
+    LISETTE.
+Ah ! Voilà mon secret en de fort bonnes mains !  
+On me défend surtout de me faire connaître.  
+Si vous dites un mot à qui que ce puisse être,  
+Bien loin de me servir...  
+
+    VALÈRE.
+        Eh bien, je me tairai.  
+Je suis dans une joie... Oh ! Je me contraindrai,  
+Ne craignez rien.  
+
+    LISETTE.
+        Paix donc ! J'aperçois Isabelle.  
+
+
+## SCÈNE III. Isabelle, Valère, Lisette.
+
+    VALÈRE, COURANT AU-DEVANT D’ISABELLE.
+Ma sour, que je vous dise une grande nouvelle !  
+
+    LISETTE, LE RETENANT.
+Eh bien, ne voilà pas mon étourdi ?  
+
+    VALÈRE.
+        Mon cour  
+Ne peut se contenir. Je sors. Adieu, ma sour.  
+
+    ISABELLE.
+Adieu ! Vous moquez-vous ? Dites-moi donc, mon frère,  
+Cette grande nouvelle.  
+
+    VALÈRE.
+    Oh ! Ce n'est rien.  
+
+    ISABELLE.
+        Valère,  
+Quoi ! Vous me plaisantez ?  
+
+    VALÈRE.
+        Non, non, quand vous saurez...  
+
+    LISETTE, BAS À VALÈRE.
+Allez-vous-en.  
+
+    VALÈRE, SORT ET REVIENT.
+        Ma sour, lorsque vous parlerez  
+À Lisette...  
+
+    ISABELLE.
+    Eh bien donc ?  
+
+    VALÈRE.
+        Ayez toujours pour elle  
+Le respect...  
+
+    ISABELLE.
+    Le respect ?  
+
+    VALÈRE.
+        Oui, car mademoiselle...  
+Je veux dire Lisette, a certainement lieu  
+De prétendre de vous, et de nous tous... Adieu.  
+Il sort brusquement.
+
+
+
+## SCÈNE IV. Isabelle, Lisette.
+
+    ISABELLE.
+Je ne sais que penser d'un discours aussi vague ;  
+Qu'en dites-vous ? Je crois que mon frère extravague.  
+
+    LISETTE.
+Quelque chose à peu près.  
+
+    ISABELLE.
+        Moi, pour vous du respect !  
+C'est aller un peu loin. Ce discours m'est suspect.  
+Oh çà, conviendrez-vous de ce que j'imagine ?  
+
+    LISETTE.
+Quoi ?  
+
+    ISABELLE.
+        Mon frère vous aime. Oh ! Oui, oui, je devine,  
+Votre air embarrassé confirme mon soupçon.  
+
+    LISETTE.
+Et quand il m'aimerait, serait-ce un crime ?  
+
+    ISABELLE.
+        Non.  
+Mais...  
+
+    LISETTE.
+        Si je l'en veux croire, il me trouve jolie.  
+Mais bon, je n'en crois rien.  
+
+    ISABELLE.
+    Pourquoi ?  
+
+    LISETTE.
+        Pure saillie  
+De jeune homme qui sait prodiguer les douceurs,  
+Et qui, sans rien aimer, en veut à tous les cours.  
+
+    ISABELLE.
+Non, mon frère n'est point de ces conteurs volages  
+Qui d'objet en objet vont offrir leurs hommages.  
+Je connais sa droiture et sa sincérité,  
+Et, s'il dit qu'il vous aime, il dit la vérité.  
+
+    LISETTE, VIVEMENT.
+Quoi ! Sérieusement ?  
+
+    ISABELLE.
+        Oui, la chose est certaine.  
+Je vois que ce discours ne vous fait point de peine.  
+Ah ! Ma bonne !  
+
+    LISETTE.
+    Quoi donc ?  
+
+    ISABELLE.
+        Je pénètre aisément.  
+
+    LISETTE.
+Quoi ? Que pénétrez-vous ?  
+
+    ISABELLE.
+        Mon frère est votre amant,  
+Et mon frère, à coup sûr, n'aime point une ingrate.  
+Vous avez le cour haut et l'âme délicate.  
+
+    LISETTE.
+Voici le fait. Il dit que, si je n'étais point  
+Ce que je suis...  
+
+    ISABELLE.
+    Eh bien ?  
+
+    LISETTE.
+        Il m'estime à tel point  
+Qu'il ferait son bonheur de m'obtenir pour femme.  
+
+    ISABELLE.
+Ensuite ? Vous rêvez ! Je vous ouvre mon âme  
+En toute occasion, Lisette, imitez-moi.  
+Que lui répondez-vous ? Parlez de bonne foi.  
+
+    LISETTE.
+Eh ! Mais... Je lui réponds... Vous êtes curieuse  
+À l'excès.  
+
+    ISABELLE.
+    Poursuivez.  
+
+    LISETTE.
+        Que je serais heureuse  
+Si j'étais un parti qui lui pût convenir.  
+Voilà tout.  
+
+    ISABELLE.
+        Je le crois. Mais je crains l'avenir.  
+Votre amour vous rendra malheureux l'un et l'autre.  
+
+    LISETTE.
+Vous avez votre idée, et nous avons la nôtre.  
+
+    ISABELLE.
+Comment donc ?  
+
+    LISETTE.
+        Quelque jour j'éclaircirai ceci.  
+Sur votre frère, enfin, n'ayez aucun souci,  
+Ne vous alarmez point de ce que je hasarde,  
+Et venons maintenant à ce qui vous regarde.  
+
+    ISABELLE.
+Volontiers.  
+
+    LISETTE.
+        De mon cour vous connaissez l'état,  
+Parlons un peu du vôtre. Inquiet, délicat,  
+Aux révolutions il est souvent en proie.  
+Comment se porte-t-il ?  
+
+    ISABELLE.
+    Mal.  
+
+    LISETTE.
+        J'en ai de la joie.  
+Il est donc bien épris ?  
+
+    ISABELLE.
+        Oui, Lisette, si bien  
+Qu'il le sera toujours.  
+
+    LISETTE.
+        Oh ! Ne jurons de rien.  
+
+    ISABELLE.
+J'en ferais bien serment.  
+
+    LISETTE.
+        Le ciel vous en préserve !  
+
+    ISABELLE.
+Pourquoi donc ?  
+
+    LISETTE.
+        Votre esprit a toujours en réserve  
+Quelques si, quelques mais, qui, malgré votre ardeur,  
+Pénètrent tôt ou tard au fond de votre cour.  
+Le comte est sûrement d'une aimable figure,  
+Son mérite y répond, ou du moins je l'augure ;  
+Mais vous ne le voyez que depuis quelques mois,  
+Vous le connaissez peu. C'est pourquoi je prévois  
+Qu'avant qu'il soit huit jours, croyant le mieux connaître,  
+Quelque défaut en lui vous frappera peut-être.  
+
+    ISABELLE.
+Cela ne se peut pas. C'est un homme accompli.  
+De ses perfections mon cour est si rempli  
+Qu'il le met à couvert de ma délicatesse.  
+S'il a quelque défaut, c'est son peu de tendresse.  
+Il me voit rarement.  
+
+    LISETTE.
+        C'est qu'il a du bon sens.  
+Qui se fait souhaiter se fait aimer longtemps.  
+Qui nous voit trop souvent voit bientôt qu'il nous lasse.  
+
+    ISABELLE.
+Vous l'excusez toujours ; mais dites-moi, de grâce,  
+Ne lui trouvez-vous point quelques défauts ?  
+
+    LISETTE.
+        Qui, moi ?  
+Pas le moindre.  
+
+    ISABELLE.
+    Tant mieux.  
+
+    LISETTE.
+        Mais, s'il en a, je crois  
+Qu'ils n'échapperont pas longtemps à votre vue ;  
+Et c'est tant pis pour vous. Êtes-vous résolue  
+De ne prendre qu'un homme accompli de tout point ?  
+Cet homme est le phénix ; il ne se trouve point.  
+Si le comte à vos yeux est ce rare miracle,  
+Croyez-en votre cour. Que ce soit votre oracle.  
+Mettez l'esprit à part, suivez le sentiment ;  
+S'il vous trompe, du moins c'est agréablement.  
+Il est bon quelquefois de s'aveugler soi-même,  
+Et bien souvent l'erreur est le bonheur suprême.  
+
+    ISABELLE.
+Me voilà résolue à suivre vos avis.  
+
+    LISETTE.
+Vous me remercierez de les avoir suivis.  
+Mais que va devenir notre pauvre Philinte ?  
+Son mérite autrefois a porté quelque atteinte  
+À votre cour.  
+
+    ISABELLE.
+        Je sens qu'il m'ennuie à mourir.  
+Je l'estime beaucoup, et ne puis le souffrir.  
+Le moyen d'y durer ? Toutes ses conférences  
+Consistent en regards, ou bien en révérences :  
+Dès qu'il parle, il s'égare, il se perd ; en un mot,  
+Quoiqu'il ait de l'esprit, on le prend pour un sot.  
+
+    LISETTE.
+Le voici.  
+
+    ISABELLE.
+    Que veut-il ?  
+
+    LISETTE.
+        À votre esprit critique  
+Il vient fournir des traits pour son panégyrique.  
+
+
+## SCÈNE V. Isabelle, Philinte, Lisette.
+
+    PHILINTE, DU FOND DU THÉÂTRE, APRÈS PLUSIEURS RÉVÉRENCES.
+Madame... je crains bien de vous importuner.  
+
+    LISETTE, À ISABELLE.
+Cet homme a sûrement le don de deviner.  
+
+    ISABELLE.
+Un homme tel que vous...  
+
+    PHILINTE, REDOUBLANT SES RÉVÉRENCES.
+        Ah ! Madame !... De grâce,  
+Si je suis importun, punissez mon audace.  
+
+    ISABELLE, LUI FAISANT LA RÉVÉRENCE.
+Monsieur...  
+
+    PHILINTE.
+        Et faites-moi l'honneur de me chasser.  
+
+    ISABELLE.
+De ma civilité vous devez mieux penser.  
+
+    PHILINTE, LUI FAISANT LA RÉVÉRENCE.
+Madame, en vérité...  
+
+    ISABELLE, LA LUI RENDANT.
+        J'ai pour votre personne  
+À Lisette.
+
+L'estime et les égards... Aidez-moi donc, ma bonne.  
+
+    LISETTE, APRÈS AVOIR FAIT PLUSIEURS RÉVÉRENCES À PHILINTE, LUI PRÉSENTE UN SIÈGE.
+Vous plaît-il vous asseoir ?  
+
+    PHILINTE, VIVEMENT.
+        Que me proposez-vous ?  
+Ô ciel ! Devant madame il faut être à genoux.  
+
+    LISETTE.
+À vous permis, monsieur.  
+À Isabelle.
+
+        Dites-lui quelque chose.  
+
+    ISABELLE.
+Je ne saurais.  
+
+    LISETTE.
+        Fort bien ; l'entretien se dispose  
+À devenir brillant... Monsieur, je m'aperçois  
+que vous faites façon de parler devant moi.  
+Je me retire.  
+
+    PHILINTE, LA RETENANT.
+        Non, il n'est pas nécessaire,  
+Et je ne veux ici qu'admirer et me taire.  
+
+    LISETTE, À PHILINTE.
+Vous vous contentez donc de lui parler des yeux ?  
+
+    PHILINTE.
+Je ne m'en lasse point.  
+
+    LISETTE.
+        Parlez de votre mieux,  
+Rien ne vous interrompt.  
+
+    ISABELLE, À LISETTE.
+        Oh ! Je perds contenance.  
+
+    LISETTE, BAS, À ISABELLE.
+Eh bien, interrogez-le, il répondra, je pense.  
+
+    ISABELLE, BAS, À LISETTE.
+Vous-même avisez-vous de quelque question.  
+
+    LISETTE, BAS, À ISABELLE.
+C'est à vous d'entamer la conversation.  
+
+    ISABELLE, À PHILINTE, APRÈS AVOIR UN PEU RÊVÉ.
+Quel temps fait-il, monsieur ?  
+
+    LISETTE, À PART.
+        Matière intéressante !  
+
+    PHILINTE.
+Madame,... en vérité,... la journée est charmante.  
+
+    ISABELLE.
+Monsieur, en vérité,... j'en suis ravie.  
+
+    LISETTE.
+        Et moi,  
+J'en suis aussi charmée, en vérité. Mais quoi !  
+La conversation est donc déjà finie ?  
+Ça, pour la relever employons mon génie.  
+À part.
+
+Dit-on quelque nouvelle ? Enfin, il parlera.  
+
+    ISABELLE.
+N'avez-vous rien appris du nouvel opéra ?  
+
+    PHILINTE.
+On en parle assez mal.  
+
+    LISETTE, À PART.
+        Cet homme est laconique.  
+
+    ISABELLE, À PHILINTE.
+Qu'y désapprouvez-vous ? Les vers ou la musique ?  
+
+    PHILINTE.
+Je sais peu de musique et fais de méchants vers,  
+Ainsi j'en pourrais bien juger tout de travers.  
+Et d'ailleurs j'avouerai qu'au plus mauvais ouvrage  
+Bien souvent, malgré moi, je donne mon suffrage.  
+Un auteur, quel qu'il soit, me paraît mériter  
+Qu'aux efforts qu'il a faits on daigne se prêter.  
+
+    LISETTE.
+Mais on dit qu'aux auteurs la critique est utile.  
+
+    PHILINTE.
+La critique est aisée et l'art est difficile.  
+C'est là ce qui produit ce peuple de censeurs,  
+Et ce qui rétrécit les talents des auteurs.  
+À Isabelle.
+
+mais vous êtes distraite et paraissez en peine.  
+
+    ISABELLE.
+Je n'en puis plus.  
+
+    PHILINTE.
+    Bon dieu ! Qu'avez-vous ?  
+
+    ISABELLE.
+        La migraine.  
+
+    PHILINTE, S’EN ALLANT AVEC PRÉCIPITATION.
+Je m'enfuis.  
+
+    ISABELLE, LE RETENANT.
+    Non, restez.  
+
+    PHILINTE.
+        Quel excès de faveur !  
+
+    ISABELLE.
+C'est moi qui vais m'enfuir. Je crains que ma douleur  
+Ne vous afflige trop. Je souffre le martyre.  
+
+    PHILINTE.
+J'en suis au désespoir. Je veux vous reconduire.  
+Il met ses gants avec précipitation.
+
+Madame, vous plaît-il de me donner la main ?  
+
+    ISABELLE.
+Je n'en ai pas la force. Adieu, jusqu'à demain.  
+
+    PHILINTE.
+À quelle heure, madame ?  
+
+    ISABELLE.
+        Ah ! Monsieur, à toute heure.  
+Mais ne me suivez point, de grâce.  
+
+    PHILINTE, À LISETTE.
+        Je demeure  
+Pour vous dire deux mots.  
+
+    LISETTE.
+        Monsieur,... en vérité,  
+J'ai la migraine aussi. Vous aurez la bonté  
+De ne pas prendre garde à mon impolitesse,  
+Et mon devoir m'appelle auprès de ma maîtresse.  
+Philinte lui donne la main et la reconduit.
+
+
+
+## SCÈNE VI.
+
+    PHILINTE, SEUL.
+Cette migraine-là vient bien subitement !  
+C'est moi qui l'ai donnée indubitablement.  
+C'est ma timidité que je ne saurais vaincre  
+Qui me rend ridicule. On vient de m'en convaincre.  
+Que je suis malheureux ! Des jeunes courtisans  
+Que n'ai-je le babil et les airs suffisants !  
+Quiconque s'est formé sur de pareils modèles  
+Est sûr de ne jamais rencontrer de cruelles.  
+
+
+## SCÈNE VII. Philinte, un laquais mal vêtu.
+
+    LE LAQUAIS.
+Cette lettre, monsieur, s'adresse à vous, je crois.  
+
+    PHILINTE, LIT.
+Au comte de Tufière. Elle n'est pas pour moi ;  
+Mais il demeure ici.  
+
+    LE LAQUAIS.
+        Pardonnez, je vous prie.  
+
+    PHILINTE, LUI FAISANT LA RÉVÉRENCE.
+À part.
+
+Ah ! Monsieur. C'est à lui que l'on me sacrifie.  
+Madame Lisimon n'y pourra consentir,  
+Et je veux lui parler avant que de sortir.  
+Il sort.
+
+
+
+## SCÈNE VIII. Pasquin, le laquais.
+
+    LE LAQUAIS.
+Holà ! Quelqu'un des gens du comte de Tufière !  
+
+    PASQUIN, D’UN TON ARROGANT.
+Que voulez-vous ?  
+
+    LE LAQUAIS.
+        Cet homme a la parole fière.  
+
+    PASQUIN.
+Parlez donc.  
+
+    LE LAQUAIS.
+        Est-ce vous qui vous nommez Pasquin ?  
+
+    PASQUIN.
+C'est moi-même, en effet. Mais apprenez, faquin,  
+Que le mot de monsieur n'écorche point la bouche.  
+
+    LE LAQUAIS.
+Monsieur, je suis confus. Ce reproche me touche,  
+J'ignorais qu'il fallût vous appeler monsieur,  
+Mais vous me l'apprenez, j'y souscris de bon cour.  
+
+    PASQUIN, D’UN TON IMPORTANT.
+Trêve de compliments.  
+
+    LE LAQUAIS.
+        Voudrez-vous bien remettre  
+Au comte votre maître un petit mot de lettre ?  
+
+    PASQUIN.
+Donnez. De quelle part ?  
+
+    LE LAQUAIS.
+        Je me tais sur ce point ;  
+Elle est d'un inconnu qui ne se nomme point.  
+Adieu, Monsieur Pasquin ; quoique mon ignorance  
+Ait pour Monsieur Pasquin manqué de déférence,  
+Il verra désormais à mon air circonspect  
+Que pour Monsieur Pasquin je suis plein de respect.  
+
+
+## SCÈNE IX.
+
+    PASQUIN, SEUL.
+Ce maroufle me raille, et même je soupçonne  
+Qu'il n'a pas tort. Au fond les airs que je me donne  
+Frisent l'impertinent, le suffisant, le fat ;  
+Et si, tout bien pesé, je ne suis qu'un pied plat,  
+Sans ce pauvre garçon j'allais me méconnaître  
+Et me gonfler d'orgueil aussi bien que mon maître.  
+Je sens qu'un glorieux est un sot animal !  
+Mais j'entends du fracas. Ah ! C'est l'original  
+De mes airs de grandeur qui vient tête levée,  
+Mon éclat emprunté cesse à son arrivée.  
+
+
+## SCÈNE X. Le comte, Pasquin, six laquais.
+
+    LE COMTE, ENTRE MARCHANT À GRANDS PAS ET LA TÊTE LEVÉE.
+Ses six laquais se rangent au fond du théâtre d'un air respectueux. Pasquin est un peu plus avancé.
+
+L'impertinent !  
+
+    PASQUIN, LUI PRÉSENTANT LA LETTRE.
+    Monsieur...  
+
+    LE COMTE, MARCHANT TOUJOURS.
+    Le fat !  
+
+    PASQUIN.
+    Monsieur...  
+
+    LE COMTE.
+        Tais-toi.  
+Un petit campagnard s'emporter devant moi !  
+Me manquer de respect pour quatre cens pistoles !  
+
+    PASQUIN.
+Il a tort.  
+
+    LE COMTE.
+        Hem ! À qui s'adressent ces paroles ?  
+
+    PASQUIN.
+Au petit campagnard.  
+
+    LE COMTE.
+        Soit. Mais d'un ton plus bas,  
+S'il vous plaît. Vos propos ne m'intéressent pas.  
+Tenez, serrez cela.  
+Il lui donne une grosse bourse.
+
+
+    PASQUIN.
+        Peste ! Qu'elle est dodue !  
+À ce charmant objet je me sens l'âme émue.  
+Il ouvre la bourse et en tire quelques pièces.
+
+
+    LE COMTE, LE SURPRENANT.
+Que fais-tu ?  
+
+    PASQUIN.
+        Je veux voir si cet or est de poids.  
+
+    LE COMTE, LUI REPRENANT LA BOURSE .
+Vous êtes curieux.  
+Il fait plusieurs signes, et, à mesure qu'il les fait, ses laquais le servent. Deux approchent la table, deux autres un fauteuil ; le cinquième apporte une écritoire et des plumes, et le sixième du papier ; ensuite il se met à écrire.
+
+
+    PASQUIN.
+        Monsieur, je puis, je crois,  
+Sans manquer au respect, vous donner cette lettre  
+Que pour vous à l'instant on vient de me remettre.  
+
+    LE COMTE, CONTINUANT D’ÉCRIRE APRÈS L’AVOIR PRISE.
+Ah ! C'est du petit duc ?  
+
+    PASQUIN.
+        Non, un homme est venu...  
+
+    LE COMTE.
+C'est donc de la princesse...  
+
+    PASQUIN.
+        Elle est d'un inconnu  
+Qui ne se nomme pas.  
+
+    LE COMTE.
+        Et qui vous l'a remise ?  
+
+    PASQUIN.
+Un laquais mal vêtu...  
+
+    LE COMTE, LUI JETANT LA LETTRE.
+        C'est assez ; qu'on la lise,  
+Et qu'on m'en rende compte. Entendez-vous ?  
+
+    PASQUIN.
+        J'entends.  
+Il lit la lettre bas.
+
+
+    LE COMTE, TOUJOURS ÉCRIVANT.
+Monsieur Pasquin ?  
+
+    PASQUIN.
+    Monsieur.  
+
+    LE COMTE.
+        Faites sortir mes gens.  
+
+    PASQUIN, D’UN AIR SUFFISANT.
+Sortez.  
+
+    LA FLEUR, AU COMTE.
+    Monsieur...  
+
+    LE COMTE.
+    Comment ?  
+
+    LA FLEUR.
+        Oserais-je vous dire ?...  
+
+    LE COMTE.
+Il me parle, je crois ! Holà ! Qu'il se retire,  
+Qu'on lui donne congé.  
+
+    PASQUIN, À LA FLEUR.
+        Je te l'avais prédit.  
+Va-t'en, je tâcherai de lui calmer l'esprit.  
+
+
+## SCÈNE XI. Le comte, Pasquin.
+Le Comte relit ce qu'il a écrit, et Pasquin lit la lettre.
+
+
+    LE COMTE, APRÈS AVOIR LU CE QU’IL ÉCRIVAIT.
+Tu ne partiras point ; et c'est une bassesse  
+Dans les gens de mon rang d'outrer la politesse.  
+Un homme tel que moi se ferait déshonneur  
+Si sa plume à quelqu'un donnait du monseigneur.  
+Non, mon petit seigneur, vous n'aurez pas la gloire  
+De gagner sur la mienne une telle victoire.  
+Vous pourriez m'assurer un bonheur très complet,  
+Mais, si c'est à ce prix, je suis votre valet.  
+Il déchire la lettre.
+
+Ôte-moi cette table. Eh bien, que dit l'épître ?  
+
+    PASQUIN.
+Elle roule, monsieur, sur un certain chapitre  
+Qui ne vous plaira point.  
+
+    LE COMTE.
+        Pourquoi donc ? Lis toujours.  
+
+    PASQUIN.
+Vous me l'ordonnez, mais...  
+
+    LE COMTE.
+        Oh ! Trêve de discours.  
+
+    PASQUIN, LIT.
+Celui qui vous écrit...  
+
+    LE COMTE.
+        Qui vous écrit ! Le style  
+Est familier.  
+
+    PASQUIN.
+        Il va vous échauffer la bile.  
+Il lit.
+
+« Celui qui vous écrit, s'intéressant à vous,  
+Monsieur, vous avertit sans crainte et sans scrupule  
+Que par vos procédés, dont il est en courroux,  
+Vous vous rendez très ridicule. »  
+
+    LE COMTE, SE LEVANT BRUSQUEMENT.
+Si je tenais le fat qui m'ose écrire ainsi...  
+
+    PASQUIN.
+Poursuivrai-je ?  
+
+    LE COMTE.
+        Oui, voyons la fin de tout ceci.  
+
+    PASQUIN, LIT.
+« Vous ne manquez pas de mérite,  
+Mais...  
+
+    LE COMTE.
+Vous ne manquez pas ! Ah ! Vraiment je le crois.  
+Bel éloge ! En parlant d'un homme tel que moi.  
+
+    PASQUIN, LIT.
+« Vous ne manquez pas de mérite,    
+Mais, bien loin de vous croire un prodige étonnant,  
+Apprenez que chacun s'irrite  
+De votre orgueil impertinent. »  
+
+    LE COMTE, DONNANT UN SOUFFLET À PASQUIN.
+Comment, maraud ?...  
+
+    PASQUIN.
+        Fort bien, le trait est impayable,  
+De ce qu'on vous écrit suis-je donc responsable ?  
+Au diable l'écrivain avec ses vérités !  
+Il jette la lettre sur la table.
+
+
+    LE COMTE.
+Ah ! Je vous apprendrai...  
+
+    PASQUIN.
+        Quoi ! Vous me maltraitez  
+Pour les fautes d'autrui ? Si jamais je m'avise  
+D'être votre lecteur...  
+
+    LE COMTE, LUI DONNANT SA BOURSE.
+        Faut-il que je vous dise  
+Une seconde fois de serrer cet argent ?  
+Tenez, voilà ma clef, et soyez diligent.  
+
+    PASQUIN, VA ET REVIENT.
+Savez-vous à combien cette somme se monte ?  
+
+    LE COMTE.
+Non, pas exactement.  
+
+    PASQUIN.
+        Je vous en rendrai compte.  
+À part.
+
+Je m'en vais du soufflet me payer par mes mains.  
+
+
+## SCÈNE XII.
+
+    LE COMTE, SEUL.
+Puissé-je devenir le plus vil des humains,  
+Si j'épargne celui qui m'a fait cette injure !  
+Voyons si je pourrais connaître l'écriture.  
+Il lit.
+
+« L'ami de qui vous vient cette utile leçon  
+Emprunte une main étrangère ;  »  
+Haut.
+
+Il fait fort bien.  
+« Mais il ne vous cache son nom  
+Que pour donner le temps à votre âme trop fière  
+De se prêter à la seule raison ;  
+Et lui-même, ce soir, il viendra sans façon  
+Vous demander si votre humeur altière  
+Aura baissé de quelque ton. »  
+Il jette le billet.
+
+Voilà, sur ma parole, un hardi personnage ;  
+S'il vient, il payera cher un si sensible outrage.  
+Qui peut m'avoir écrit ce libelle outrageant ?  
+Plus j'y pense...  
+
+
+## SCÈNE XIII. Le Comte, Pasquin.
+
+    PASQUIN.
+        Monsieur, j'ai compté cet argent.  
+
+    LE COMTE.
+Il se monte ?  
+
+    PASQUIN.
+        À trois cent quatre-vingt-dix pistoles.  
+
+    LE COMTE.
+Mais...  
+
+    PASQUIN.
+Si vous y trouvez seulement deux oboles de plus,  
+Je suis un fat.  
+
+    LE COMTE.
+        Mais cependant mon gain  
+Montait à quatre cens, et j'en suis très certain.  
+
+    PASQUIN.
+C'est vous qui vous trompez, ou c'est moi qui vous trompe ;  
+Et vous ne pensez pas que l'argent me corrompe ?  
+
+    LE COMTE.
+Monsieur Pasquin ?  
+
+    PASQUIN.
+    Monsieur.  
+
+    LE COMTE.
+        Vous êtes un fripon.  
+
+    PASQUIN.
+Je vous respecte trop pour vous dire que non ;  
+Mais...  
+
+    LE COMTE.
+    Brisons là-dessus.  
+
+    PASQUIN.
+        Oui. Parlons d'Isabelle.  
+Vous vous refroidissez, ce me semble, pour elle.  
+Elle s'en plaint, du moins.  
+
+    LE COMTE.
+        Elle sait mon amour.  
+J'ai parlé, c'est assez.  
+
+    PASQUIN.
+        Son père est de retour.  
+
+    LE COMTE.
+C'est à lui de venir et de m'offrir sa fille.  
+
+    PASQUIN.
+Ah ! Monsieur ! Vous voulez qu'un père de famille  
+Fasse les premiers pas ?  
+
+    LE COMTE.
+        Oui, monsieur, je le veux.  
+Un homme de mon rang doit tout exiger d'eux.  
+
+    PASQUIN.
+Prenez une manière un peu moins dédaigneuse :  
+Car Lisette m'a dit...  
+
+    LE COMTE.
+        Petite raisonneuse  
+Qui veut parler sur tout, et ne dit jamais rien.  
+
+    PASQUIN.
+Pour une raisonneuse, elle raisonne bien.  
+
+    LE COMTE.
+Et que dit-elle donc ?  
+
+    PASQUIN.
+        Elle dit qu'Isabelle  
+A pour les glorieux une haine mortelle.  
+
+    LE COMTE, SE LEVANT.
+Que dites-vous ?  
+
+    PASQUIN.
+        Moi ? Rien. C'est Lisette. J'espère...  
+
+    LE COMTE.
+On vient ; voyez qui c'est.  
+
+    PASQUIN.
+        Ma foi, c'est le beau-père.  
+
+    LE COMTE.
+J'étais bien assuré qu'il ferait son devoir.  
+
+    PASQUIN.
+Il faudrait vous lever pour l'aller recevoir.  
+
+    LE COMTE.
+Je crois que ce coquin prétend m'apprendre à vivre.  
+Allez, faites-le entrer, et moi, je vais vous suivre.  
+
+
+## SCÈNE XIV. Le Comte, Lisimon, Pasquin.
+
+    LISIMON, À PASQUIN.
+Le comte de Tufière est-il ici, mon cour ?  
+
+    PASQUIN.
+Oui, monsieur, le voici.  
+Le Comte se lève nonchalamment et fait un pas au-devant de Lisimon qui l'embrasse.
+
+
+    LISIMON.
+        Cher comte, serviteur.  
+
+    LE COMTE, À PASQUIN.
+Cher comte ! Nous voilà grands amis, ce me semble.  
+
+    LISIMON.
+Ma foi, je suis ravi que nous logions ensemble.  
+
+    LE COMTE, FROIDEMENT.
+J'en suis fort aise aussi.  
+
+    LISIMON.
+        Parbleu ! Nous boirons bien.  
+Vous buvez sec, dit-on ; moi, je n'y laisse rien.  
+Je suis impatient de vous verser rasade,  
+Et ce sera bientôt. Mais êtes-vous malade ?  
+à votre froide mine, à votre sombre accueil...  
+
+    LE COMTE, À PASQUIN QUI PRÉSENTE UN SIÈGE.
+Faites asseoir monsieur... Non, offrez le fauteuil.  
+Il ne le prendra pas, mais...  
+
+    LISIMON.
+        Je vous fais excuse,  
+Puisque vous me l'offrez, trouvez bon que j'en use.  
+Que je m'étale aussi : car je suis sans façon,  
+Mon cher, et cela doit vous servir de leçon.  
+Et je veux qu'entre nous toute cérémonie,  
+Dès ce même moment, pour jamais soit bannie.  
+Oh çà, mon cher garçon, veux-tu venir chez moi ?  
+Nous serons tous ravis de dîner avec toi.  
+
+    LE COMTE.
+Me parlez-vous, monsieur ?  
+
+    LISIMON.
+        À qui donc, je te prie ?  
+À Pasquin ?  
+
+    LE COMTE.
+    Je l'ai cru.  
+
+    LISIMON.
+        Tout de bon ?  
+Je parie qu'un peu de vanité t'a fait croire cela ?  
+
+    LE COMTE.
+Non, mais je suis peu fait à ces manières-là.  
+
+    LISIMON.
+Oh bien ! Tu t'y feras, mon enfant. Sur les tiennes,  
+À mon âge, crois-tu que je forme les miennes ?  
+
+    LE COMTE.
+Vous aurez la bonté d'y faire vos efforts.  
+
+    LISIMON.
+Tiens, chez moi le dedans gouverne le dehors.  
+Je suis franc.  
+
+    LE COMTE.
+        Quant à moi, j'aime la politesse.  
+
+    LISIMON.
+Moi, je ne l'aime point, car c'est une traîtresse  
+Qui fait dire souvent ce qu'on ne pense pas.  
+Je hais, je fuis ces gens qui font les délicats,  
+Dont la fière grandeur d'un rien se formalise,  
+Et qui craint qu'avec elle on ne familiarise ;  
+Et ma maxime, à moi, c'est qu'entre bons amis  
+Certains petits écarts doivent être permis.  
+
+    LE COMTE.
+D'amis avec amis on fait la différence.  
+
+    LISIMON.
+Pour moi, je n'en fais point.  
+
+    LE COMTE.
+        Les gens de ma naissance  
+Sont un peu délicats sur les distinctions,  
+Et je ne suis ami qu'à ces conditions.  
+
+    LISIMON.
+Ouais ! Vous le prenez haut. Écoute, mon cher comte,  
+Si tu fais tant le fier, ce n'est pas là mon compte.  
+Ma fille te plaît fort, à ce que l'on m'a dit :  
+elle est riche, elle est belle, elle a beaucoup d'esprit ;  
+Tu lui plais ; j'y souscris du meilleur de mon âme,  
+D'autant plus que par là je contredis ma femme,  
+Qui voudrait m'engendrer d'un grand complimenteur,  
+Qui ne dit pas un mot sans dire une fadeur.  
+Mais aussi, si tu veux que je sois ton beau-père,  
+Il faut baisser d'un cran et changer de manière,  
+Ou sinon, marché nul.  
+
+    LE COMTE, À PASQUIN, SE LEVANT BRUSQUEMENT.
+        Je vais le prendre au mot.  
+
+    PASQUIN.
+Vous en mordrez vos doigts, ou je ne suis qu'un sot.  
+Pour un faux point d'honneur perdre votre fortune ?  
+
+    LE COMTE.
+Mais si...  
+
+    LISIMON.
+        Toute contrainte, en un mot, m'importune.  
+L'heure du dîner presse, allons, veux-tu venir ?  
+Nous aurons le loisir de nous entretenir  
+Sur nos arrangements ; mais commençons par boire.  
+Grand soif, bon appétit, et surtout point de gloire.  
+C'est ma devise. On est à son aise chez moi,  
+Et vivre comme on veut, c'est notre unique loi.   [3]
+Viens, et, sans te gourmer avec moi de la sorte,  
+Laisse en entrant chez nous ta grandeur à la porte.  
+
+
+## SCÈNE XV.
+
+    PASQUIN, SEUL.
+Voilà mon glorieux bien tombé ! Sa hauteur  
+Avait, ma foi, besoin d'un pareil précepteur,  
+Et, si cet homme-là ne le rend pas traitable,  
+Il faut que son orgueil soit un mal incurable.  
+
+
+# ACTE III.
+
+
+## SCÈNE I. Le Comte, Pasquin.
+
+    LE COMTE.
+Oui, quoiqu'à mes valets je parle rarement,  
+Je veux bien en secret m'abaisser un moment,  
+Et descendre avec toi jusqu'à la confiance.  
+De ton attachement j'ai fait l'expérience ;  
+Je te vois attentif à tous mes intérêts,  
+Et tu seras charmé d'apprendre mes progrès.  
+
+    PASQUIN.
+Je vois que vous avez empaumé le beau-père.  
+
+    LE COMTE.
+Il m'adore à présent.  
+
+    PASQUIN.
+    J'en suis ravi.  
+
+    LE COMTE.
+        J'espère  
+Que me connaissant mieux il me respectera,  
+Et je te garantis qu'il se corrigera.  
+
+    PASQUIN.
+Du moins pour le gagner vous avez fait merveilles,  
+Et vous avez vidé presque vos deux bouteilles  
+Avec tant de sang-froid et d'intrépidité  
+Que le futur beau-père en était enchanté.  
+
+    LE COMTE.
+Il vient de me jurer que je serais son gendre ;  
+Sa fille était ravie, et me faisait entendre  
+Combien à ce discours son cour prenait de part ;  
+Et moi, j'ai bien voulu, par un tendre regard,  
+Partager le plaisir qu'elle laissait paraître.  
+
+    PASQUIN.
+Quel excès de bonté ! Si son père est le maître,  
+L'affaire ira grand train. Par mon air de grandeur  
+J'ai frappé le bonhomme ; il contraint son humeur,  
+Et n'ose presque plus me tutoyer.  
+
+    PASQUIN.
+        Cet homme  
+Sent ce que vous valez ; mais je veux qu'on m'assomme  
+Si vous venez à bout de le rendre poli.  
+
+    LE COMTE.
+D'où vient ?  
+
+    PASQUIN.
+        C'est qu'il est vieux et qu'il a pris son pli.  
+D'ailleurs, il compte fort que sa richesse immense  
+Est du moins comparable à la haute naissance.  
+
+    LE COMTE.
+Il veut le faire croire, et pourtant n'en croit rien.  
+Je vois clair ; je suis sûr que, malgré tout son bien,  
+Il sent qu'il a besoin de se donner du lustre,  
+et d'acheter l'éclat d'une alliance illustre.  
+De ces hommes nouveaux c'est là l'ambition.  
+L'avarice est d'abord leur grande passion ;  
+Mais ils changent d'objet dès qu'elle est satisfaite,  
+Et courent les honneurs quand la fortune est faite.  
+Lisimon, nouveau noble et fils d'un père heureux  
+Qui, le comblant de biens, n'a pu combler ses voux,   [4]
+Souhaite de s'enter sur la vieille noblesse ;  
+Et sa fille, sans doute, a la même faiblesse.  
+Un homme tel que moi flatte leur vanité ;  
+Et c'est là ce qui doit redoubler ma fierté.  
+Je veux me prévaloir du droit de ma naissance ;  
+Et, pour les amener à l'humble déférence  
+Qu'ils doivent à mon sang, je vais dans le discours  
+Leur donner à penser que mon père est toujours  
+Dans cet état brillant, superbe et magnifique  
+Qui soutint si longtemps notre noblesse antique,  
+Et leur persuader que, par rapport au bien  
+Qui fait tout leur orgueil, je ne leur cède en rien.  
+
+    PASQUIN.
+Mais ne pourront-ils point découvrir le contraire ?  
+Car un vieux serviteur de monsieur votre père  
+Autrefois m'a conté les cruels accidents  
+Qui lui sont arrivés, et peut-être...  
+
+    LE COMTE.
+        Le temps  
+Les a fait oublier. D'ailleurs notre province,  
+Où mon père autrefois tenait l'état d'un prince,  
+Est si loin de Paris qu'à coup sûr ces gens-ci  
+De nos adversités n'ont rien su jusqu'ici,  
+Si ta discrétion...  
+
+    PASQUIN.
+    Croyez...  
+
+    LE COMTE.
+        Point de harangue ;  
+Les effets parleront.  
+
+    PASQUIN.
+        Disposez de ma langue.  
+Je la gouvernerai tout comme il vous plaira.  
+
+    LE COMTE.
+Sur l'état de mes biens on t'interrogera.  
+Sans entrer en détail, réponds en assurance  
+Que ma fortune au moins égale ma naissance :  
+À Lisette surtout persuade-le bien.  
+Pour établir ce fait c'est le plus sûr moyen :  
+Car elle a du crédit sur toute la famille.  
+
+    PASQUIN.
+Ma foi, vous devriez ménager cette fille.  
+Elle vous veut du bien, à ce qu'elle m'a dit.  
+
+    LE COMTE.
+D'une suivante, moi, ménager le crédit !  
+J'aurais trop à rougir d'une telle bassesse.  
+Près d'elle, j'y consens, fais agir ton adresse,  
+Sans dire que ce soit de concert avec moi ;  
+J'approuve ce commerce, il convient d'elle à toi.  
+On vient, sors, et surtout fais bien ton personnage.  
+
+    PASQUIN.
+Oh ! Quand il faut mentir nous avons du courage.  
+
+
+## SCÈNE II. Isabelle, Le Comte, Lisette.
+
+    ISABELLE.
+Je vous trouve à propos, et mon père veut bien  
+Que nous ayons tous deux un moment d'entretien.  
+Il me destine à vous ; l'affaire est sérieuse.  
+
+    LE COMTE.
+Et j'ose me flatter qu'elle n'est pas douteuse ;  
+Que par vous mon bonheur me sera confirmé ;  
+J'aspire à votre main ; mais je veux être aimé.  
+à ce bonheur parfait oserais-je prétendre ?  
+C'est un charmant aveu que je brûle d'entendre.  
+
+    LISETTE.
+Je sais ce qu'elle pense, et je crois qu'en effet  
+Vous avez lieu, monsieur, d'en être satisfait.  
+
+    LE COMTE, À ISABELLE, APRÈS AVOIR REGARDÉ DÉDAIGNEUSEMENT LISETTE.
+Eh ! Faites-moi l'honneur de répondre vous-même.  
+
+    LISETTE.
+Une fille, monsieur, ne dit point : " je vous aime " ;  
+Mais garder le silence en cette occasion,  
+C'est assez bien répondre à votre question.  
+
+    LE COMTE, À ISABELLE.
+Ne parlez-vous jamais que par une interprète ?  
+
+    ISABELLE.
+Comme elle est mon amie, et qu'elle est très discrète...  
+
+    LE COMTE.
+Votre amie ?  
+
+    ISABELLE.
+    Oui, monsieur.  
+
+    LE COMTE.
+        Cette fille est à vous,  
+Ce me semble ?  
+
+    ISABELLE.
+        Il est vrai ; mais ne m'est-il pas doux  
+D'avoir en sa personne une compagne aimable,  
+Dont la société rend ma vie agréable ?  
+
+    LE COMTE.
+Quoi ! Lisette avec vous est en société ?  
+Je ne vous croyais pas cet excès de bonté.  
+
+    ISABELLE.
+Et pourquoi non, monsieur ?  
+
+    LE COMTE.
+        Chacun a sa manière  
+De penser, mais pour moi...  
+
+    LISETTE, À PART.
+        Le comte de Tufière  
+Est un franc glorieux ; on me l'avait bien dit.  
+
+    ISABELLE.
+Je lui trouve un bon cour joint avec de l'esprit,  
+De la sincérité, de l'amitié, du zèle,  
+Et je ne puis avoir trop de retour pour elle :  
+Car enfin...  
+
+    LE COMTE.
+        Votre père a-t-il fixé le jour  
+Où je dois recevoir le prix de mon amour ?  
+
+    ISABELLE.
+Vous allez un peu vite, et nous devons peut-être  
+Avant le mariage un peu mieux nous connaître ;  
+Examiner à fond quels sont nos sentiments,  
+Et ne pas nous fier aux premiers mouvements.  
+C'est peu qu'à nous unir le penchant nous anime,  
+Il faut que ce penchant soit fondé sur l'estime,  
+Et...  
+
+    LE COMTE.
+        J'attendais de vous, à parler franchement,  
+Moins de précaution et plus d'empressement.  
+Je croyais mériter que d'une ardeur sincère  
+Votre cour appuyât l'aveu de votre père,  
+Et que, sur votre hymen me voyant vous presser,  
+Vous me fissiez l'honneur de ne pas balancer.  
+
+    ISABELLE.
+Moi, j'ai cru mériter que, du moins pour ma gloire,  
+Vous me fissiez l'honneur de ne pas tant vous croire ;  
+Que, de votre personne osant moins présumer,  
+Vous parussiez moins sûr que l'on dût vous aimer ;  
+Et ce doute obligeant, qui ne pourrait vous nuire,  
+Calmerait un soupçon que je voudrais détruire.  
+
+    LE COMTE.
+Quel soupçon, s'il vous plaît ?  
+
+    ISABELLE.
+        Le soupçon d'un défaut  
+Dont l'effet contre vous n'agirait que trop tôt.  
+
+
+## SCÈNE III. Isabelle, Le Comte, Valère, Lisette.
+
+    VALÈRE.
+Dois-je croire, ma sour, ce qu'on vient de m'apprendre ?  
+
+    ISABELLE.
+Quoi ?  
+
+    VALÈRE.
+    Que vous épousez monsieur.  
+
+    LE COMTE.
+        J'ose m'attendre,  
+Monsieur, que son dessein aura votre agrément.  
+
+    VALÈRE.
+Je crois...  
+
+    LE COMTE.
+        Et vous pouvez m'en faire compliment.  
+Il veut sortir.
+
+J'en serai très flatté. Je rejoins votre père,  
+pour lui donner parole et conclure l'affaire.  
+
+    VALÈRE.
+Vous pourrez y trouver quelque difficulté.  
+
+    LE COMTE.
+Moi, monsieur ?  
+
+    VALÈRE.
+    J'en ai peur.  
+
+    LE COMTE.
+        Aurez-vous la bonté  
+De me faire savoir qui peut la faire naître ?  
+Qui me traversera ?  
+
+    VALÈRE.
+        Mais... Ma mère, peut-être.  
+
+    LE COMTE.
+Votre mère !  
+
+    VALÈRE.
+    Oui, monsieur.  
+
+    LE COMTE, RIANT.
+        Cela serait plaisant.  
+
+    ISABELLE, BAS À LISETTE.
+Il prend avec mon frère un ton bien suffisant.  
+
+    LE COMTE.
+Elle ne sait donc pas que j'adore Isabelle,  
+Et qu'un ami commun m'a proposé pour elle ?  
+
+    VALÈRE.
+Pardonnez-moi, monsieur.  
+
+    LE COMTE.
+    Vous m'étonnez.  
+
+    VALÈRE.
+        Pourquoi ?  
+
+    LE COMTE.
+C'est que j'avais compté qu'elle serait pour moi.  
+J'avais imaginé que mon rang, ma naissance,  
+Méritaient des égards et de la déférence ;  
+Que bien d'autres raisons que je pourrais citer,  
+Si j'étais assez vain pour oser me vanter,  
+Feraient pencher pour moi madame votre mère.  
+Mais je me suis trompé, je le vois bien.  
+Qu'y faire ? Peut-être en ma faveur suis-je trop prévenu.  
+Oui, j'ai quelque défaut qui ne m'est pas connu,  
+Et, loin que le mépris et m'offense et m'irrite,  
+Je ne m'en prends jamais qu'à mon peu de mérite.  
+
+    VALÈRE.
+Qui, nous, vous mépriser ? En recherchant ma sour,  
+Certainement, monsieur, vous nous faites honneur.  
+
+    LE COMTE, AVEC UN SOURIRE DÉDAIGNEUX.
+Ah ! Mon dieu, point du tout.  
+
+    VALÈRE.
+        Mais, à parler sans feinte,  
+Depuis assez longtemps ma mère est pour Philinte ;  
+Elle a même avec lui quelques engagements,  
+Et l'amitié, l'estime, en sont les fondements.  
+
+    LE COMTE, D’UN TON RAILLEUR.
+Oh ! Je le crois. Philinte est un homme admirable.  
+
+    VALÈRE.
+Non, mais, à dire vrai, c'est un homme estimable ;  
+Quoiqu'il ne soit plus jeune, il peut se faire aimer ;  
+Et, riche sans orgueil...  
+
+    LE COMTE.
+        Vous allez m'alarmer  
+Par le portrait brillant que vous en voulez faire.  
+Je commence à sentir que je suis téméraire  
+D'entrer en concurrence avec un tel rival,  
+Quoiqu'il soit, m'a-t-on dit, un franc original.  
+Oui, oui, j'ouvre les yeux. Ma figure, mon âge,  
+Tout ce qu'on vante en moi n'est qu'un faible avantage,  
+Sitôt qu'avec Philinte on veut me comparer,  
+Et c'est lui faire tort que de délibérer.  
+
+    LISETTE, À ISABELLE.
+Quoi ! N'admirez-vous pas cette humble repartie ?  
+
+    ISABELLE.
+Je n'en suis point la dupe, et cette modestie  
+N'est, selon mon avis, qu'un orgueil déguisé.  
+
+    LE COMTE, À ISABELLE.
+Madame, en vain pour vous je m'étais proposé.  
+Mon ardeur est trop vive et trop peu circonspecte ;  
+On m'oppose un rival qu'il faut que je respecte.  
+
+    ISABELLE, EN SOURIANT.
+Philinte du respect veut bien vous dispenser.  
+
+    LE COMTE, FAISANT LA RÉVÉRENCE.
+Il me fait trop d'honneur.  
+
+    VALÈRE.
+        Mais, sans vous offenser,  
+Il a cent qualités respectables. Du reste,  
+Plus on veut l'en convaincre, et plus il est modeste.  
+Il se tait sur son rang, sur sa condition.  
+
+    LE COMTE.
+Et fait très sagement : car, sans prévention,  
+Il aurait un peu tort de vanter sa naissance.  
+
+    VALÈRE.
+Il est bien gentilhomme.  
+
+    LE COMTE.
+        On a la complaisance  
+De le croire.  
+
+    VALÈRE.
+    Et de plus il le prouve.  
+
+    LE COMTE.
+        Ma foi,  
+c'est tout ce qu'il peut faire. À des gens tels que moi,  
+Ce n'est pas là-dessus que l'on en fait accroire,  
+Et j'ose me vanter, sans me donner de gloire,  
+Car je suis ennemi de la présomption,  
+Que, si Philinte était d'une condition  
+Et de quelque famille un peu considérable,  
+Nous n'aurions pas sur lui de dispute semblable,  
+Et que bien sûrement il me serait connu.  
+Mais son nom jusqu'ici ne m'est pas parvenu ;  
+Preuve que sa noblesse est de nouvelle date.  
+
+    VALÈRE.
+C'est ce qu'on ne dit pas dans le monde.  
+
+    LE COMTE.
+        On le flatte.  
+Par exemple, monsieur, vous connaissiez mon nom  
+Avant de m'avoir vu.  
+
+    VALÈRE.
+        Je vous jure que non.  
+
+    LE COMTE.
+Tant pis pour vous, Monsieur : car le nom de Tufière  
+Nous ne le prenons pas d'une gentilhommière,  
+Mais d'un château fameux. L'histoire en cent endroits  
+Parle de mes aïeux et vante leurs exploits.  
+Daignez la parcourir, vous verrez qui nous sommes,  
+Et qu'entre mes vassaux j'ai trois cents gentilshommes  
+Plus nobles que Philinte.  
+
+    VALÈRE.
+        Ah ! Monsieur, je le crois.  
+
+    LE COMTE.
+Les gens de qualité le savent mieux que moi.  
+Pour moi, je n'en dis rien, il faut être modeste.  
+
+    VALÈRE.
+C'est très bien fait à vous. L'orgueil...  
+
+    LE COMTE.
+        Je le déteste.  
+Les grands perdent toujours à se glorifier,  
+Et rien ne leur sied mieux que de s'humilier.  
+Vous sortez ?  
+
+    VALÈRE.
+        Oui, monsieur, je quitte la partie,  
+Et je sors enchanté de votre modestie.  
+
+    LE COMTE, LUI TOUCHANT DANS LA MAIN.
+Sommes-nous bons amis ?  
+
+    VALÈRE.
+        Ce m'est bien de l'honneur,  
+Et je...  
+
+    LE COMTE.
+        Parbleu, je suis votre humble serviteur.  
+Si vous voyez Philinte, engagez-le, de grâce,  
+À ne pas m'obliger à lui céder la place.  
+Il fera beaucoup mieux, s'il renonce à l'espoir  
+D'épouser votre sour et cesse de la voir.  
+Dites-lui que je crois qu'il aura la prudence  
+De ne me pas porter à quelque violence :  
+Car, je vous le déclare en termes très exprès,  
+S'il l'emportait sur moi, nous nous verrions de près.  
+
+    VALÈRE.
+à cet égard, Monsieur, je ne puis rien vous dire,  
+Mais j'entends ce discours, et je vais l'en instruire.  
+
+
+## SCÈNE IV. Isabelle, Le Comte, Lisette.
+
+    ISABELLE.
+Vous traitez vos rivaux avec bien du mépris !  
+
+    LE COMTE.
+Personne, selon moi, n'en doit être surpris.  
+Je n'ai pas de fierté ; mais, à parler sans feinte,  
+Je suis choqué de voir qu'on m'oppose Philinte.  
+Un rival comme lui n'est pas fait, que je crois,  
+Pour traverser les voux d'un homme tel que moi.  
+
+    ISABELLE.
+D'un homme tel que moi ! Ce terme-là m'étonne ;  
+Il me paraît bien fort.  
+
+    LE COMTE.
+        C'est selon la personne.  
+Je conviens avec vous qu'il sied à peu de gens.  
+Mais je crois que l'on peut me le passer.  
+
+    ISABELLE.
+J'entends. Le ciel vous a fait naître avec tant d'avantage  
+Que tout le genre humain vous doit un humble hommage.  
+
+    LE COMTE.
+Comment donc ! D'un rival prenez-vous le parti ?  
+
+    ISABELLE.
+Non pas ; mais, à présent que mon frère est sorti,  
+Souffrez que je vous parle avec moins de contrainte  
+Et blâme vos hauteurs à l'égard de Philinte.  
+
+    LE COMTE.
+J'en attendais de vous un plus juste retour,  
+Et ma vivacité vous prouve mon amour.  
+
+    ISABELLE.
+Dites votre amour-propre. Oui, tout me le fait croire,  
+Vous avez moins d'amour que vous n'avez de gloire.  
+
+    LE COMTE.
+L'un et l'autre m'anime, et la gloire que j'ai  
+Soutient les intérêts de l'amour outragé.  
+Elle n'a pu souffrir l'indigne préférence  
+Dont j'étais menacé, même en votre présence :  
+Vous dites qu'elle est fière et parle avec hauteur.  
+Mais qu'est-ce que ma gloire, après tout ? C'est l'honneur.  
+Cet honneur, il est vrai, veut le respect, l'estime ;  
+Mais il est généreux, sincère, magnanime ;  
+Et, pour dire en deux mots quelque chose de plus,  
+Il est et fut toujours la source des vertus.  
+
+    ISABELLE.
+Des effets de l'honneur je suis persuadée ;  
+Mais a-t-il de soi-même une si haute idée  
+Qu'il la laisse éclater en propos fastueux ?  
+Le véritable honneur est moins présomptueux ;  
+Il ne se vante point, il attend qu'on le vante ;  
+Et c'est la vanité, qui, lasse de l'attente,  
+Et qui, fière des droits qu'elle sait s'arroger,  
+Croit obtenir l'estime en osant l'exiger.  
+Mais, loin d'y réussir, elle offense, elle irrite,  
+Et ternit tout l'éclat du plus parfait mérite.  
+
+    LE COMTE.
+De grâce, à quel propos cette distinction ?  
+
+    ISABELLE.
+Je vous laisse le soin de l'application ;  
+Et, de la modestie embrassant la défense,  
+Je soutiens que par elle on voit la différence  
+Du mérite apparent au mérite parfait.  
+L'un veut toujours briller, l'autre brille en effet  
+Sans jamais y prétendre, et sans même le croire.  
+L'un est superbe et vain, l'autre n'a point de gloire.  
+Le faux aime le bruit, le vrai craint d'éclater ;  
+L'un aspire aux égards, l'autre à les mériter.  
+Je dirai plus. Les gens nés d'un sang respectable  
+Doivent se distinguer par un esprit affable,  
+Liant, doux, prévenant ; au lieu que la fierté  
+Est l'ordinaire effet d'un éclat emprunté.  
+La hauteur est partout odieuse, importune.  
+Avec la politesse, un homme de fortune  
+Est mille fois plus grand qu'un grand toujours gourmé,  
+D'un limon précieux se présumant formé,  
+Traitant avec dédain, et même avec rudesse,  
+Tout ce qui lui paraît d'une moins noble espèce ;  
+Croyant que l'on est tout quand on est de son sang,  
+Et croyant qu'on n'est rien au-dessous de son rang.  
+
+    LE COMTE.
+Ce discours est fort beau ; mais que voulez-vous dire ?  
+
+    ISABELLE.
+Lisette, mieux que moi, saura vous en instruire.  
+Je lui laisse le soin de vous interpréter  
+Un discours qui paraît déjà vous irriter.  
+
+    LE COMTE.
+Non, de grâce, avec vous souffrez que je m'explique.  
+Cette fille, après tout, est votre domestique ;  
+Ne me commettez pas.  
+
+    ISABELLE.
+        Quand vous la connaîtrez,  
+Des gens de son état vous la distinguerez,  
+Et vous me ferez voir une preuve fidèle  
+De vos égards pour moi dans vos égards pour elle.  
+Elle connaît à fond mon esprit, mon humeur ;  
+Écoutez, profitez, et méritez mon cour.  
+Adieu.  
+
+
+## SCÈNE V. Le Comte, Lisette.
+
+    LE COMTE.
+    Vous restez donc ?  
+
+    LISETTE.
+        Excusez mon audace,  
+Et souffrez une fois que je me satisfasse.  
+Il faut que je vous parle ; on me l'ordonne, et moi  
+J'en meurs d'envie aussi ; mais je ne sais pourquoi.  
+
+    LE COMTE.
+Votre ton familier m'importune et me blesse.  
+
+    LISETTE.
+Vous n'êtes occupé que de votre noblesse ;  
+Mais, en interprétant ce que l'on vous a dit,  
+Quand on fait trop le grand, on paraît bien petit.  
+
+    LE COMTE.
+Quoi ! Vous osez ?...  
+
+    LISETTE.
+        Oui, j'ose ; et votre erreur extrême  
+Me force à vous prouver à quel point je vous aime.  
+Vous vous perdez, monsieur.  
+
+    LE COMTE.
+        Comment donc, je me perds ?  
+
+    LISETTE.
+Votre orgueil a percé. Vos hauteurs, vos grands airs,  
+Vous décèlent d'abord, malgré la politesse  
+Dont vous les décorez. La gloire est bien traîtresse.  
+Le discours d'Isabelle était votre portrait,  
+Et son discernement vous a peint trait pour trait.  
+Dût la gloire en souffrir, je ne saurais me taire.  
+Je ne vous dirai pas : " Changez de caractère " ,  
+Car on n'en change point, je ne le sais que trop.  
+Chassez le naturel, il revient au galop ;  
+Mais du moins je vous dis : " Songez à vous contraindre,  
+Et devant Isabelle efforcez-vous de feindre ;  
+Paraissez quelque temps de l'humeur dont elle est,  
+Et faites que l'orgueil se prête à l'intérêt. "  
+" Voilà mon sentiment. Profitez-en ou non,  
+Mon cour seul m'a dicté cette utile leçon.  
+Votre gloire irritée en paraît mécontente,  
+Je lui baise les mains, et je suis sa servante.  
+
+
+## SCÈNE VI.
+
+    LE COMTE, SEUL.
+Il n'est donc plus permis de sentir ce qu'on vaut ?  
+Savoir tenir son rang passe ici pour défaut ?  
+Et ces petits bourgeois traiteront d'arrogance  
+Les sentiments qu'inspire une haute naissance ?  
+Si je m'en croyais... Non, je veux prendre sur moi,  
+L'amour et l'intérêt m'en imposent la loi.  
+Oui, devant Isabelle il faudra me contraindre.  
+Mais l'indigne rival qu'on veut me faire craindre  
+Va dès ce même instant me voir tel que je suis,  
+S'il m'ose disputer l'objet que je poursuis.  
+Je veux connaître un peu ce petit personnage,  
+Et lui parler d'un ton à le rendre plus sage.  
+
+
+## SCÈNE VII. Le Comte, Philinte.
+
+    PHILINTE, FAISANT PLUSIEURS RÉVÉRENCES.
+Je ne viens vous troubler dans vos réflexions  
+Que pour vous assurer de mes soumissions,  
+Monsieur. Depuis longtemps je vous dois cet hommage,  
+Et je ne le saurais différer davantage.  
+
+    LE COMTE.
+Très obligé, Monsieur. D'où nous connaissons-nous ?  
+
+    PHILINTE.
+Si je n'ai pas l'honneur d'être connu de vous,  
+J'aurai bientôt celui de me faire connaître.  
+Mon nom n'impose pas, mais...  
+
+    LE COMTE.
+        Cela peut bien être.  
+
+    PHILINTE.
+Tel qu'il est, puisqu'il faut qu'il vous soit décliné...  
+En faisant une profonde révérence.
+
+Je m'appelle Philinte.  
+
+    LE COMTE.
+        Oh ! J'ai donc deviné.  
+Je vous ai reconnu d'abord aux révérences.  
+
+    PHILINTE, D’UN AIR TRÈS HUMBLE.
+Je ne puis vous marquer par trop de déférences  
+Combien je vous honore.  
+
+    LE COMTE.
+        Et vous avez raison.  
+Mais de quoi s'agit-il ? Parlez-moi sans façon.  
+
+    PHILINTE.
+Valère est mon ami, vous le savez, je pense.  
+
+    LE COMTE.
+Que m'importe cela ?  
+
+    PHILINTE.
+        Tantôt, en sa présence,  
+Si j'en crois son rapport, et j'en suis peu surpris,  
+Vous m'avez honoré... d'un assez grand mépris.  
+
+    LE COMTE.
+Il vous exaltait fort, moi, j'ai dit ma pensée.  
+Votre délicatesse en est-elle blessée ?  
+
+    PHILINTE, FAISANT LA RÉVÉRENCE.
+Ah ! Monsieur ! Point du tout ; je me connais ; je crois  
+Qu'on peut avec raison dire du mal de moi.  
+Mais on ajoute encore, à l'égard d'Isabelle,  
+Que vous me défendez de revenir chez elle.  
+
+    LE COMTE.
+Voilà précisément ce que j'ai prétendu  
+Qu'on vous dît.  
+
+    PHILINTE.
+        Je croyais avoir mal entendu.  
+
+    LE COMTE.
+Pourquoi ?  
+
+    PHILINTE.
+        Vous exigez un cruel sacrifice,  
+Et je doute bien fort que je vous obéisse.  
+
+    LE COMTE, D’UN AIR RAILLEUR.
+Vous en doutez, Monsieur ?  
+
+    PHILINTE.
+        Jamais, jusqu'à ce jour,  
+Je ne me suis senti si plein de mon amour.  
+
+    LE COMTE.
+Je vous en guérirai.  
+
+    PHILINTE.
+        Monsieur, j'en désespère,  
+Et j'en viens d'assurer Isabelle et sa mère.  
+
+    LE COMTE, METTANT SON CHAPEAU.
+Et vous venez me faire un pareil compliment ?  
+
+    PHILINTE.
+Avec confusion, mais très distinctement.  
+La nature, envers moi moins mère que marâtre,  
+M'a formé très rétif et très opiniâtre,  
+Surtout lorsque quelqu'un veut m'imposer la loi.  
+
+    LE COMTE.
+L'opiniâtreté ne tient point contre moi,  
+Je vous en avertis.  
+
+    PHILINTE.
+        La mienne est bien mutine.  
+Plus on lui fait la guerre, et plus elle s'obstine ;  
+Et jamais la hauteur ne pourra la dompter.  
+
+    LE COMTE.
+Vous êtes bien hardi de venir m'insulter !  
+Un petit gentilhomme ose avoir cette audace ?  
+
+    PHILINTE.
+Moi, monsieur ? Je vous viens demander une grâce.  
+
+    LE COMTE.
+Et c'est ?  
+
+    PHILINTE.
+        De m'accorder le plaisir et l'honneur...  
+de me couper la gorge avec vous.  
+
+    LE COMTE.
+        La faveur  
+Est bien grande, en effet. Vous êtes téméraire.  
+Vous vous méconnaissez. Mais il faut vous complaire.  
+L'honneur que vous avez d'être un de mes rivaux  
+Va vous faire monter au rang de mes égaux.  
+
+    PHILINTE, D’UN AIR RAILLEUR, METTANT SES GANTS.
+Je suis reconnaissant de cette grâce insigne,  
+Et je vais vous prouver que mon cour en est digne.  
+
+    LE COMTE.
+Trêve de compliment. Moi, je vais vous prouver  
+Que l'on court un grand risque en osant me braver.  
+Ils mettent l'épée à la main.
+
+
+
+## SCÈNE VIII. Le Comte, Philinte, Lisimon.
+
+    LISIMON, ACCOURANT.
+Chez moi, morbleu, chez moi faire un pareil vacarme ?  
+Par la mort, le premier...  
+
+    PHILINTE.
+        Le respect me désarme.  
+
+    LISIMON.
+Ah ! Vous êtes mutin, monsieur le doucereux ?  
+
+    PHILINTE.
+Quelquefois.  
+
+    LE COMTE.
+        Par bonheur il n'est pas dangereux.  
+
+    PHILINTE.
+C'est ce qu'il faudra voir. Du moins je vous assure  
+Que de cette maison si quelqu'un peut m'exclure,  
+Ce ne sera pas vous.  
+
+    LISIMON.
+        Non, mais ce sera moi.  
+
+    PHILINTE.
+Je prends la liberté de vous dire...  
+
+    LISIMON.
+        Je crois  
+Qu'un père de famille en ce cas est le maître.  
+
+    PHILINTE.
+J'en conviens.  
+
+    LISIMON.
+        Et je prends la liberté de l'être,  
+En dépit de ma femme et de ses adhérents :  
+Si tu ne le sais pas, c'est moi qui te l'apprends.  
+Le comte aime ma fille, il a droit d'y prétendre ;  
+J'ai pris la liberté de le choisir pour gendre.  
+Ma fille en est d'accord, et prend la liberté  
+De se soumettre en tout à mon autorité.  
+Ainsi, sans te flatter contre toute apparence,  
+En prenant ton congé tire ta révérence.  
+
+    PHILINTE.
+J'aurai l'honneur, Monsieur, de répondre à cela  
+Que madame n'est pas de ce sentiment-là.  
+
+    LISIMON.
+Madame n'en est pas ? J'ai donné ma parole.  
+Si pour me chicaner madame est assez folle,  
+Madame sur-le-champ, par le pouvoir que j'ai,  
+En même temps que toi, recevra son congé.  
+
+    PHILINTE.
+J'adore votre fille ; et l'aveu de sa mère  
+Me permet d'aspirer au bonheur de lui plaire.  
+Dès qu'elles m'excluront, je leur obéirai.  
+Jusque-là j'ai mes droits, et je les soutiendrai.  
+Il sort.
+
+
+
+## SCÈNE IX. Le Comte, Lisimon.
+
+    LISIMON.
+Quelle obstination !  
+
+    LE COMTE.
+        Ceci vient de Valère,  
+Et je m'en vengerais si vous n'étiez son père.  
+
+    LISIMON.
+Je veux le faire, moi, mourir sous le bâton,  
+Ou le gueux dès ce soir quittera ma maison.  
+Il m'a joué d'un tour... Eh ! Là là, patience !  
+
+    LE COMTE.
+C'est un petit monsieur rempli de suffisance.  
+
+    LISIMON. [5]
+Le portrait de sa mère, un sot, un freluquet   [6]
+Qui fait le bel esprit et n'a que du caquet.  
+Oh ! La méchante femme ! Avec son air affable,  
+Composé, doucereux ; c'est un tyran, un diable  
+De sang-froid. Tout à l'heure, en termes éloquents,  
+Et tous bien de niveau, mais malins et piquants,  
+Devant ma fille même, elle m'a fait entendre  
+Qu'elle me quittera si je vous prends pour gendre ;  
+Et moi, j'ai répondu que j'étais résigné  
+À souffrir ce malheur dès qu'elle aurait signé ;  
+Qu'immédiatement après sa signature  
+Elle pourrait aller à sa bonne aventure.  
+Sur cela, force pleurs, évanouissement.  
+Isabelle et Lisette avec gémissement  
+L'ont vite secourue, et, par cérémonie,  
+Toutes trois à présent pleurent de compagnie :  
+Car qu'une femme pleure, une autre pleurera,  
+Et toutes pleureront tant qu'il en surviendra.  
+
+    LE COMTE.
+Ainsi notre projet souffre de grands obstacles ?  
+
+    LISIMON.
+Pour en venir à bout je ferai des miracles.  
+Ce que j'apprends de toi me réchauffe le cour.  
+Je ne te croyais pas un si puissant seigneur.  
+Comment, diable ! Ton père, à ce que l'on m'assure,  
+Fait dans sa baronnie une noble figure.  
+
+    LE COMTE, LUI FRAPPANT SUR L’ÉPAULE.
+Allez, mon cher, allez, quand vous me connaîtrez,  
+De vos tons familiers vous vous corrigerez ;  
+Vous ne tutoierez plus un gendre de ma sorte.  
+
+    LISIMONS.
+Ma foi, sans y penser l'habitude m'emporte,  
+Au cérémonial enfin je me soumets.  
+
+    LE COMTE.
+Me le promettez-vous ?  
+
+    LISIMON.
+        Oui, je te le promets.  
+Va, tu seras content.  
+
+    LE COMTE.
+        Fort bien. Belle manière  
+De se corriger !  
+
+    LISIMON.
+        Oh ! Trêve à votre humeur fière,  
+Et consultons tous deux comment je m'y prendrai  
+Pour finir.  
+
+    LE COMTE.
+        Le conseil que je vous donnerai,  
+C'est de ne plus souffrir qu'ici l'on se hasarde  
+À dire son avis sur ce qui me regarde.  
+Pour trancher en un mot toute difficulté,  
+Sachez vous prévaloir de votre autorité.  
+
+    LISIMON.
+Si vous vouliez m'aider...  
+
+    LE COMTE.
+        Non, monsieur, je vous jure.  
+Quand vous serez d'accord, je suis prêt à conclure.  
+
+
+## SCÈNE X.
+
+    LISIMON, SEUL.
+Il faut que je sois bien possédé du démon   [7]
+Pour souffrir les hauteurs d'un pareil rodomont,  
+Et que l'ambition m'ait bien tourné la tête,  
+Puisque dans mon dépit son empire m'arrête.  
+Je vais rompre. Attendons. Si je prends ce parti,  
+De mon autorité me voilà départi ;  
+Je ferai triompher et mon fils et ma femme,  
+Et monsieur, désormais, dépendra de madame.  
+Bel honneur que je fais à messieurs les maris !  
+Non, il n'en sera rien. Le dépit m'a surpris ;  
+Mais l'honneur me réveille ; il m'excite à combattre,  
+Et je m'en vais pour lui faire le diable à quatre.  
+
+
+# ACTE IV.
+
+
+## SCÈNE I. Lisette, Pasquin.
+Ils entrent par deux différents côtés du théâtre ; Pasquin le premier, et marchant fort vite.
+
+
+    LISETTE.
+Quoi ! Sans me regarder doubler ainsi le pas ?  
+
+    PASQUIN.
+Ah ! Ma reine, pardon, je ne vous voyais pas.  
+Auriez-vous par hasard quelque chose à me dire ?  
+
+    LISETTE.
+Oui, sur de certains faits voudriez-vous m'instruire ?  
+
+    PASQUIN.
+Le puis-je ?  
+
+    LISETTE.
+    Assurément.  
+
+    PASQUIN.
+        Vous avez donc grand tort  
+d'en douter.  
+
+    LISETTE.
+        Mais sur vous il faut faire un effort.  
+
+    PASQUIN.
+Vous n'avez qu'à parler. Je suis homme à tout faire  
+Pour vous marquer mon zèle et tâcher de vous plaire.  
+Quel est ce grand effort que votre autorité  
+M'impose ?  
+
+    LISETTE.
+        De me dire ici la vérité.  
+
+    PASQUIN.
+Rien ne me coûte moins.  
+
+    LISETTE.
+        Pour entrer en matière,  
+Avez-vous jamais vu le château de Tufière ?  
+
+    PASQUIN.
+Si je l'ai vu ? Cent fois.  
+À part.
+
+        C'est mentir hardiment.  
+
+    LISETTE.
+Est-ce un si bel endroit qu'on nous l'a dit ?  
+
+    PASQUIN.
+        Comment !  
+C'est le plus beau château qui soit sur la Garonne.  
+Vous le voyez de loin qui forme un pentagone...  
+
+    LISETTE.
+Pentagone ! Bon dieu ! Quel grand mot est-ce là ?  
+
+    PASQUIN.
+C'est un terme de l'art.  
+
+    LISETTE.
+        Je veux croire cela.  
+Mais expliquez-moi bien ce que ce mot veut dire.  
+
+    PASQUIN.
+Cela m'est très facile, et je vais vous décrire  
+Ce superbe château, pour que vous en jugiez,  
+Et même beaucoup mieux que si vous le voyiez.  
+D'abord, ce sont sept tours entre seize courtines...  
+Avec deux tenaillons placés sur trois collines...  
+Qui forment un vallon, dont le sommet s'étend  
+Jusque sur... un donjon... entouré d'un étang...  
+Et ce donjon, placé justement... sous la zone,...  
+Par trois angles saillants forme le pentagone.  
+
+    LISETTE.
+Voilà, je vous l'avoue, un merveilleux château.  
+
+    PASQUIN.
+Je crois, sans vanité, que vous le trouvez beau.  
+
+    LISETTE.
+Et c'est donc en ce lieu que le père du comte  
+Tient sa cour ?  
+
+    PASQUIN.
+        Oui, ma reine ; et faites votre compte  
+Que dans tout le royaume il n'est point de seigneur  
+Qui soutienne son rang avec plus de splendeur.  
+Meutes, chevaux, piqueurs, superbes équipages,  
+Table ouverte en tout temps, deux écuyers, six pages,  
+Domestiques sans nombre et bien entretenus,  
+Tout cela ne saurait manger ses revenus.  
+
+    LISETTE.
+Mais c'est donc un seigneur d'une richesse immense ?  
+
+    PASQUIN.
+Vous en pouvez juger par sa magnificence.  
+
+    LISETTE.
+Je trouve en vos récits quelque petit défaut.  
+Vous mentez à présent, ou vous mentiez tantôt.  
+
+    PASQUIN.
+Comment donc ?  
+
+    LISETTE.
+        Un menteur qui n'a pas de mémoire  
+Se décèle d'abord. Si je veux vous en croire,  
+Le comte est grand seigneur : dans un autre entretien,  
+Cous m'avez assuré qu'il n'avait pas de bien.  
+
+    PASQUIN.
+Tout franc, votre argument me paraît sans réplique.  
+Naturellement, moi, je suis très véridique.  
+Mais j'obéis. Au fond les faits sont très constants,  
+Et nous n'avons menti qu'en allongeant le temps.  
+
+    LISETTE.
+Rendez-moi, s'il vous plaît, cette énigme plus claire.  
+
+    PASQUIN.
+Quinze ans auparavant, ce que j'ai dit du père  
+Se trouvera très vrai. Depuis, tout a changé.  
+Dans un piteux état le bonhomme est plongé,  
+Et le pauvre seigneur traîne une vie obscure.  
+Mais mon maître, voulant qu'il fasse encor figure,  
+Par un récit pompeux, fruit de sa vanité,  
+Vient de le rétablir de son autorité.  
+Qu'entre nous, s'il vous plaît, la chose soit secrète.  
+
+    LISETTE.
+Allez, ne craignez rien. Si j'étais indiscrète,  
+Je ferais tort au comte. Et si je fais des voux,  
+C'est pour pouvoir l'aider à devenir heureux.  
+Valère à mes efforts sans relâche s'oppose ;  
+Mais à les seconder je veux qu'il se dispose.  
+Il vient fort à propos.  
+
+    PASQUIN.
+        Fort à propos aussi  
+Je vais me retirer, puisqu'il vous cherche ici.  
+
+
+## SCÈNE II. Valère, Lisette.
+
+    LISETTE, D’UN AIR DÉDAIGNEUX.
+Ah ! Vous voilà, Monsieur ? Vraiment j'en suis ravie.  
+
+    VALÈRE.
+Quoi ! Vous voulez gronder ?  
+
+    LISETTE.
+        J'en aurais bien envie.  
+
+    VALÈRE.
+Et sur quoi, s'il vous plaît ?  
+
+    LISETTE.
+        Mais sur vos beaux exploits.  
+Mes moindres volontés, dites-vous, sont vos lois ?  
+
+    VALÈRE.
+Il est vrai.  
+
+    LISETTE.
+        Cependant devant monsieur le comte  
+Vous m'avez témoigné n'en faire pas grand compte,  
+Et, contre mon avis, votre zèle emporté  
+A su porter Philinte à toute extrémité.  
+
+    VALÈRE.
+J'ai dit à mon ami qu'on avait eu l'audace  
+De risquer contre lui jusques à la menace.  
+Je n'ai rien dit de plus. C'est un homme de cour,  
+Qui n'a dû sur le reste écouter que l'honneur.  
+
+    LISETTE.
+Que l'honneur ! Ce discours me fatigue et m'irrite.  
+
+    VALÈRE.
+Mais par quelle raison ? Philinte a du mérite.  
+
+    LISETTE.
+Si vous n'employez pas vos soins avec ardeur  
+Pour faire que le comte épouse votre sour,  
+Et pour bannir d'ici cet ennuyeux Philinte,  
+Je vous déclare, moi, sans mystère et sans feinte,  
+Que, demoiselle ou non, comme le ciel voudra,  
+Lisette, de ses jours, ne vous épousera.  
+J'ai conclu. C'est à vous maintenant de conclure.  
+
+    VALÈRE, VOYANT LICANDRE.
+Par quel motif ?... Eh quoi ! Cette vieille figure  
+Viendra-t-elle toujours troubler nos entretiens ?  
+
+    LISETTE.
+Il faut que je lui parle.  
+
+    VALÈRE.
+        Adieu donc.  
+
+
+## SCÈNE III. Lycandre, Lisette.
+
+    LYCANDRE.
+        Je reviens,  
+et je vous trouve encore en même compagnie ?  
+
+    LISETTE.
+Oui ; mais nous querellions. Valère a la manie  
+De vouloir empêcher que ce jeune seigneur  
+Qui demeure céans ne prétende à sa sour.  
+
+    LYCANDRE.
+Et vous, vous soutenez le comte de Tuffière ?  
+
+    LISETTE.
+Oui, monsieur, contre tous et de toute manière.  
+Il est vrai que le comte est si présomptueux  
+Qu'on ne peut se prêter à ses airs fastueux :  
+Il ne respecte rien, ne ménage personne ;  
+Et plus je le connais, plus sa gloire m'étonne.  
+
+    LYCANDRE.
+Ah ! Que vous m'affligez !  
+
+    LISETTE.
+        Et pourquoi, s'il vous plaît ?  
+
+    LYCANDRE.
+Mais vous-même, pourquoi prenez-vous intérêt  
+À ce qui le concerne ? Est-il donc bien possible  
+Qu'à votre empressement il se montre sensible  
+Jusques à vous marquer des égards, des bontés ?  
+
+    LISETTE.
+Il n'a payé mes soins que par des duretés.  
+Je ne puis y penser sans répandre des larmes.  
+N'importe ; à le servir je trouve mille charmes.  
+
+    LYCANDRE.
+Qu'entends-je ? Juste ciel ! Quel bon cour d'un côté !  
+De l'autre, quel excès d'insensibilité !  
+Ô détestable orgueil ! Non, il n'est point de vice  
+Plus funeste aux mortels, plus digne de supplice.  
+Voulant tout asservir à ses injustes droits,  
+De l'humanité même il étouffe la voix.  
+
+    LISETTE.
+Je l'éprouve.  
+
+    LYCANDRE.
+        Pour vous, vous serez, je l'espère,  
+La consolation d'un trop malheureux père.  
+
+    LISETTE.
+À chaque instant, monsieur, vous me parlez de lui.  
+Il devait à mes yeux se montrer aujourd'hui ;  
+Mais il ne paraît point. Vous me trompiez, peut-être.  
+
+    LYCANDRE.
+Un peu de patience ; il va bientôt paraître.  
+
+    LISETTE.
+Pourquoi diffère-t-il de trop heureux moments ?  
+Que ne vient-il s'offrir à mes embrassements ?  
+
+    LYCANDRE.
+Malgré votre bon cour, il craint que sa présence  
+Ne vous afflige.  
+
+    LISETTE.
+        Moi ? Se peut-il qu'il le pense ?  
+
+    LYCANDRE.
+Il craint que ses malheurs, trop dignes de pitié,  
+Ne refroidissent même un peu votre amitié.  
+
+    LISETTE.
+Ah ! Qu'il me connaît mal !  
+
+    LYCANDRE.
+        Enfin, avant qu'il vienne,  
+Sur sa triste aventure il veut qu'on vous prévienne.  
+Peut-être espérez-vous le voir dans son éclat,  
+Et vous le trouverez dans un cruel état.  
+
+    LISETTE.
+Il m'en sera plus cher, et, loin qu'il m'importune,  
+Il verra que mon cour, plein de son infortune,  
+Redoublera pour lui de tendresse et d'amour.  
+Tout baigné de mes pleurs, avant la fin du jour  
+Il sera possesseur du peu que je possède.  
+Mon zèle à ses malheurs servira de remède.  
+Je ferai tout pour lui. Si je n'ai point d'argent,  
+J'ai de riches habits dont on m'a fait présent ;  
+Je garde un diamant que m'a laissé ma mère.  
+Je vais tout engager, tout vendre pour mon père ;  
+Heureuse si je puis, et mille et mille fois,  
+Lui prouver que je l'aime autant que je le dois !  
+
+    LYCANDRE.
+Arrêtez. Laissez-moi respirer, je vous prie.  
+Donnez quelque relâche à mon âme attendrie.  
+Vous aimez votre père, il n'est plus malheureux.  
+
+    LISETTE.
+Ah ! Puisqu'il est si lent à contenter mes voux,  
+Apprenez-moi quel monstre a causé sa misère.  
+
+    LYCANDRE.
+Quel monstre ?  
+
+    LISETTE.
+    Oui.  
+
+    LYCANDRE.
+        L'orgueil. L'orgueil de votre mère.  
+Par son faste, les biens se sont évanouis ;  
+Son orgueil a causé des malheurs inouïs.  
+
+    LISETTE.
+Eh ! Comment ?  
+
+    LYCANDRE.
+        Une dame assez considérable,  
+Lui disputant le pas dans un lieu respectable,  
+En reçut un affront si sanglant, si cruel,  
+Qu'elle en fit éclater un déplaisir mortel.  
+L'époux de cette dame, enflammé de colère,  
+Pour venger cet affront attaqua votre père  
+Au retour d'une chasse, et prit si bien son temps  
+Qu'ils se trouvèrent seuls pendant quelques instanTs.  
+D'un trop funeste effet sa fureur fut suivie.  
+Il voulait se venger ; il y perdit la vie.  
+En un mot, votre père, en défendant ses jours,  
+Tua son ennemi, mais sans autre secours  
+Que celui de son bras armé pour sa défense.  
+Les parents du défunt poussèrent la vengeance  
+Jusqu'à faire passer ce malheureux combat,  
+Pur effet du hasard, pour un assassinat.  
+Des témoins subornés soutiennent l'imposture.  
+On les croit. Votre père, outré de cette injure,  
+Se défend, mais en vain. Il se cache. Aussitôt  
+Un arrêt le condamne. Et, pour fuir l'échafaud,  
+Il passe en Angleterre, où quelques jours ensuite  
+Votre mère devient compagne de sa fuite,  
+Le rejoint avec vous qui sortiez du berceau ;  
+Et son orgueil puni la conduit au tombeau.  
+
+    LISETTE.
+Ciel ! Que m'apprenez-vous ? Ce n'est donc pas ma mère  
+Que j'avais au couvent, et qui m'était si chère ?  
+
+    LYCANDRE.
+C'était votre nourrice. Elle vous ramena,  
+Suivit exactement l'ordre que lui donna  
+Votre père, deux ans après sa décadence,  
+De venir dans ces lieux élever votre enfance,  
+Se disant votre mère et cachant votre nom.  
+
+    LISETTE.
+Mais pourquoi ce secret ? Et par quelle raison  
+Me laisser ignorer de quel sang j'étais née ?  
+
+    LYCANDRE.
+Pour vous rendre modeste autant qu'infortunée,  
+Et pour vous épargner des regrets, des douleurs,  
+Jusqu'à ce que le ciel adoucît vos malheurs.  
+C'est ainsi que l'avait ordonné votre père,  
+Et sa précaution vous était nécessaire.  
+
+    LISETTE.
+Je brûle de le voir, et je tremble pour lui.  
+Comment osera-t-il se montrer aujourd'hui,  
+Après l'injuste arrêt ?...  
+
+    LYCANDRE.
+        Pendant sa longue absence,  
+De fidèles amis, sûrs de son innocence  
+Et puissants à la cour, ont eu tant de succès  
+Qu'ils l'ont déterminée à revoir le procès ;  
+Et deux des faux témoins, prêts à perdre la vie,  
+Ont enfin avoué leur noire calomnie.  
+Votre père, caché depuis près de deux ans,  
+Attendait les effets de ces secours puissants.  
+On vient de lui donner d'agréables nouvelles ;  
+Il touche au terme heureux de ses peines mortelles.  
+
+    LISETTE.
+Qu'il ne s'expose point. Je crains quelque accident,  
+Quelque piège caché. N'est-il pas plus prudent  
+Que nous l'allions chercher ? Par notre diligence  
+Prévenons ses bontés et son impatience.  
+Sortons, monsieur ; je veux embrasser ses genoux  
+Et mourir de plaisir dans des transports si doux.  
+
+    LYCANDRE.
+Vous n'irez pas bien loin pour goûter cette joie.  
+Vous voulez la chercher, et le ciel vous l'envoie.  
+Oui, ma fille, voici ce père malheureux ; il vous voit,  
+Il vous parle, il est devant vos yeux.  
+
+    LISETTE, SE JETANT À SES PIEDS.
+        Quoi !  
+C'est vous-même ? Ô ciel ! Que mon âme est ravie !  
+Je goûte le moment le plus doux de ma vie.  
+
+    LYCANDRE.
+Ma fille, levez-vous. Je connais votre cour,  
+Et, je vous l'ai prédit, vous ferez mon bonheur.  
+Mais, hélas ! Que je crains de revoir votre frère !  
+
+    LISETTE.
+Mon frère ! Et quel est-il ?  
+
+    LYCANDRE.
+        Le comte de Tufière.  
+
+    LISETTE.
+Je ne sais où j'en suis, je ne respire plus.  
+Daignez me soutenir.  
+
+    LYCANDRE.
+        Qu'il doit être confus  
+Quand il vous connaîtra !  
+
+    LISETTE.
+    Moi, sa sour ?  
+
+    LYCANDRE.
+        Oui, ma fille.  
+
+    LISETTE.
+Sans doute, nous sortons de la même famille ;  
+Oui, le comte est mon frère ; et, dès que je l'ai vu,  
+À travers ses mépris mon cour l'a reconnu.  
+De mon faible pour lui je ne suis plus surprise.  
+
+    LYCANDRE.
+Votre cour le prévient, et l'ingrat vous méprise !  
+Ah ! Je veux profiter de cette occasion  
+Pour jouir devant vous de sa confusion,  
+Quand le temps permettra de vous faire connaître.  
+
+    LISETTE.
+Jusque-là, devant lui ne dois-je plus paraître ?  
+
+    LYCANDRE.
+Non. Je vais le trouver. La conversation  
+Sera vive à coup sûr, et sa présomption  
+Mérite qu'avec lui prenant le ton de père,  
+Je fasse à ses hauteurs une leçon sévère.  
+
+    LISETTE.
+S'il ne vous connaît pas, vous les éprouverez.  
+
+    LYCANDRE.
+Non. Nous nous sommes vus. Il me connaît. Rentrez,  
+Ma fille. Quelqu'un vient ; gardez bien le silence.  
+
+    LISETTE, LUI BAISANT LA MAIN.
+Mon père, attendez tout de mon obéissance.  
+
+
+## SCÈNE IV. Lycandre, Pasquin, s'arrêtant à considérer Lycandre.
+
+    LYCANDRE.
+Le Comte de Tufière est-il chez lui ?  
+
+    PASQUIN, D’UN TON BRUSQUE.
+        Pourquoi ?  
+
+    LYCANDRE.
+Je voudrais lui parler.  
+
+    PASQUIN, LE REGARDANT DU HAUT EN BAS.
+    Lui parler ? Qui ? Vous ?  
+
+    LYCANDRE.
+        Moi.  
+
+    PASQIN, D’UN AIR MÉPRISANT.
+Cela ne se peut pas.  
+
+    LYCANDRE.
+        La raison, je vous prie ?  
+
+    PASQUIN.
+C'est qu'il est en affaire.  
+
+    LYCANDRE.
+        Oh ! Je vous certifie,  
+Quelque occupé qu'il soit, que, dès qu'il apprendra  
+Que je veux lui parler, il y consentira.  
+
+    PASQUIN, FIÈREMENT.
+Eh ! Qu'êtes-vous ?  
+
+    LYCANDRE.
+        Je suis, ... car je perds patience,  
+Un homme très choqué de votre impertinence.  
+
+    PASQUIN, À PART.
+Il a, ma foi, raison. Je retombe toujours,  
+À Lycandre.
+
+Et je veux m'en punir. Je vois que mon discours,  
+Monsieur, n'a pas le don de vous être agréable ;  
+Mais, si je suis si fier, je suis très excusable.  
+
+    LYCANDRE, VIVEMENT.
+Et par où, s'il vous plaît ?  
+
+    PASQUIN.
+        Pour le dire en un mot,  
+Et sans trop me vanter, c'est que je suis un sot.  
+
+    LYCANDRE.
+Allez, on ne l'est point quand on connaît sa faute.  
+
+    PASQUIN.
+Mon maître a très souvent la parole si haute,  
+Il est si suffisant, que par occasion  
+Je le deviens aussi, mais sans réflexion.  
+Heureusement pour moi, la raison, la prudence,  
+Abrègent les accès de mon impertinence.  
+Vous voyez que d'abord j'ai bien baissé mon ton.  
+Mais daignez, s'il vous plaît, me dire votre nom.  
+
+    LYCANDRE.
+Mon enfant, dites-lui, s'il veut bien le permettre,  
+Que je viens demander sa réponse à la lettre  
+Que l'on vous a pour lui remise de ma part.  
+L'a-t-il lue ?  
+
+    PASQUIN.
+        Oui, monsieur. Seriez-vous par hasard  
+L'inconnu ?...  
+
+    LYCANDRE.
+    Je le suis.  
+
+    PASQUIN.
+        Moi, que je vous annonce !  
+Eh ! Vite, sauvez-vous. J'ai reçu sa réponse,  
+Et je la sens encor.  
+
+    LYCANDRE, SOURIANT.
+        Ne craignez rien pour moi.  
+Il sera plus honnête en me répondant.  
+
+    PASQUIN.
+        Quoi !  
+Vous vous exposez ?...  
+
+    LYCANDRE.
+        Oui, j'en veux courir le risque.  
+
+    PASQUIN.
+Pour jouer avec lui, prenez mieux votre bisque.  
+
+    LYCANDRE.
+Dépêchez-vous, de grâce.  
+
+    PASQUIN VA ET REVIENT.
+        En vérité, je crains...  
+
+    LYCANDRE, D’UN AIR IMPATIENT.
+Ah !  
+
+    PASQUIN.
+        S'il vous en prend mal, je m'en lave les mains.  
+
+
+## SCÈNE V.
+
+    LYCANDRE, SEUL.
+Par les airs du valet on peut juger du maître.  
+Ah ! Du moins, si mon fils pouvait se reconnaître,  
+Se blâmer quelquefois, comme fait ce garçon,  
+Tôt ou tard sa fierté plierait sous sa raison.  
+Mais je n'ose espérer...  
+
+
+## SCÈNE VI. Lycandre, Le Comte, Pasquin.
+
+    LE COMTE, ENTRE EN FURIEUX.
+        Quel est le téméraire,  
+Quel est l'audacieux qui m'ose...? Ah ! C'est mon père !  
+
+    LYCANDRE.
+L'accueil est très touchant ; j'en suis édifié.  
+
+    PASQUIN, À PART.
+Comment donc ? Le voilà comme pétrifié !  
+
+    LE COMTE, ÔTANT SON CHAPEAU.
+Un premier mouvement quelquefois nous abuse.  
+Excusez-moi, monsieur.  
+
+    PASQUIN, À PART.
+        Il lui demande excuse !  
+
+    LE COMTE.
+Je croyais...  
+À Pasquin.
+
+    Sors, Pasquin.  
+
+    LYCANDRE.
+        Pourquoi le chassez-vous ?  
+Laissez-le ici ; je veux...  
+
+    LE COMTE, POUSSANT PASQUIN.
+        Sors, ou crains mon courroux.  
+
+    LYCANDRE, RETENANT PASQUIN.
+Reste.  
+
+    PASQUIN, S’ENFUYANT.
+        Il y fait trop chaud. Je fais ce qu'on m'ordonne.  
+
+    LE COMTE.
+Si quelqu'un vient me voir, je n'y suis pour personne.  
+
+
+## SCÈNE VII. Lycandre, le Comte.
+
+    LYCANDRE.
+Que veut dire ceci ?  
+
+    LE COMTE.
+    J'ai mes raisons.  
+
+    LYCANDRE.
+        Pourquoi  
+marquez-vous tant d'ardeur à l'éloigner de moi ?  
+
+    LE COMTE.
+Aux regards d'un valet dois-je exposer mon père ?  
+
+    LYCANDRE.
+Vous craignez bien plutôt d'exposer ma misère.  
+Voilà votre motif. Et, loin d'être charmé  
+De me voir près de vous, votre orgueil alarmé  
+Rougit de ma présence. Il se sent au supplice.  
+De sa confusion votre cour est complice ;  
+Et, tout bouffi de gloire, il n'ose se prêter  
+Aux tendres mouvemenTs qui devraient l'agiter.  
+Ah ! Je ne vois que trop, en cette conjoncture,  
+Qu'une mauvaise honte étouffe la nature.  
+C'est en vain qu'un billet vous avait prévenu ;  
+Et je me suis trompé, croyant qu'un inconnu  
+Vous corrigerait mieux qu'un père misérable,  
+Qu'à vos yeux la fortune a rendu méprisable.  
+
+    LE COMTE.
+Qui ? Moi ! Je vous méprise ? Osez-vous le penser ?  
+Qu'un soupçon si cruel a droit de m'offenser !  
+Croyez que votre fils vous respecte, vous aime.  
+
+    LYCANDRE.
+Vous ? Prouvez-le-moi donc, et dans ce moment même.  
+
+    LE COMTE.
+Vous pouvez disposer de tout ce que je puis.  
+Parlez, qu'exigez-vous ?  
+
+    LYCANDRE.
+        Qu'en l'état où je suis  
+Vous vous fassiez honneur de bannir tout mystère,  
+Et de me reconnaître en qualité de père  
+Dans cette maison-ci. Voyons si vous l'osez.  
+
+    LE COMTE.
+Songez-vous au péril où vous vous exposez ?  
+
+    LYCANDRE.
+Dois-je me défier d'une honnête famille ?  
+Allons voir Lisimon, menez-moi chez sa fille.  
+
+    LE COMTE.
+De grâce, à vous montrer ne soyez pas si prompt.  
+Vous les exposeriez à vous faire un affront.  
+Vous ne savez donc pas jusqu'où va l'arrogance  
+D'un bourgeois anobli, fier de son opulence ?  
+Si le faste et l'éclat ne soutiennent le rang,  
+Il traite avec dédain le plus illustre sang.  
+Mesurant ses égards aux dons de la fortune,  
+Le mérite indigent le choque, l'importune,  
+Et ne peut l'aborder qu'en faisant mille efforts  
+Pour cacher ses besoins sous un brillant dehors.  
+Depuis votre malheur, mon nom et mon courage  
+Font toute ma richesse ; et ce seul avantage,  
+Rehaussé par l'éclat de quelques actions,  
+M'a tenu lieu de biens et de protections.  
+J'ai monté par degrés, et, riche en apparence,  
+Je fais une figure égale à ma naissance ;  
+Et, sans ce faux relief, ni mon rang ni mon nom  
+N'auraient pu m'introduire auprès de Lisimon.  
+
+    LYCANDRE.
+On me l'a peint tout autre, et j'ai peine à vous croire ;  
+Tout ce discours ne tend qu'à cacher votre gloire.  
+Mais, pour moi qui ne suis ni superbe ni vain,  
+Je prétends me montrer, et j'irai mon chemin.  
+Il veut sortir.
+
+
+    LE COMTE, LE RETENANT.
+Différez quelques jours ; la faveur n'est pas grande :  
+Je me jette à vos pieds, et je vous la demande.  
+
+    LYCANDRE.
+J'entends. La vanité me déclare à genoux  
+Qu'un père infortuné n'est pas digne de vous.  
+Oui, oui, j'ai tout perdu par l'orgueil de ta mère ;  
+Et tu n'as hérité que de son caractère.  
+
+    LE COMTE.
+Eh ! Compatissez donc à la noble fierté  
+Dont mon cour, il est vrai, n'a que trop hérité.  
+Du reste, soyez sûr que ma plus forte envie  
+Serait de vous servir aux dépens de ma vie ;  
+Mais du moins ménagez un honneur délicat ;  
+Pour mon intérêt même évitons un éclat.  
+
+    LYCANDRE.
+Vous me faites pitié. Je vois votre faiblesse,  
+Et veux, en m'y prêtant, vous prouver ma tendresse ;  
+Mais à condition que si votre hauteur  
+Éclate devant moi, dès l'instant...  
+
+
+## SCÈNE VIII. Lycandre, le Comte, Lisimon.
+
+    LISIMON, AU COMTE.
+        Serviteur.  
+Je vous cherchais, mon cher ; votre froideur m'étonne :  
+Car il est temps d'agir. Je crois, dieu me pardonne,  
+Que ma femme devient raisonnable.  
+
+    LE COMTE.
+        Comment ?  
+
+    LISIMON.
+Elle n'a plus pour vous ce grand éloignement  
+Qu'elle a marqué d'abord. La bonne dame est sage :  
+Car j'allAis sans cela faire un joli tapage.  
+Je vais vous procurer un moment d'entretien  
+Avec ma digne épouse ; et puis tout ira bien,  
+Pourvu que vous vouliez lui faire politesse.  
+N'y manquez pas, au moins : car c'est une princesse  
+Aussi fière que vous, et dont les préjugés...  
+
+    LE COMTE.
+Je suis ravi de voir que vous vous corrigez.  
+
+    LISIMON, SE COUVRANT.
+Tu le vois, mon enfant, je cherche à te complaire.  
+
+    LE COMTE.
+Fort bien.  
+
+    LISIMON, SE DÉCOUVRANT.
+        Enfin, monsieur, le succès de l'affaire  
+Est en votre pouvoir. Ainsi donc, croyez-moi,  
+de ce que je vous dis faites-vous une loi.  
+
+    LYCANDRE.
+Monsieur vous parle juste, et pour votre avantage.  
+Que votre unique objet soit votre mariage,  
+Et mettez à profit cet heureux incident.  
+
+    LISIMON, AU COMTE.
+Quel est cet homme-là ?  
+
+    LE COMTE, TIRANT LISIMON À PART.
+        C'est..., c'est mon intendant.  
+
+    LISIMON.
+Il a l'air bien grêlé. Selon toute apparence,  
+Cet homme n'a pas fait fortune à l'intendance.  
+
+    LE COMTE, À LISIMON.
+C'est un homme d'honneur.  
+
+    LISIMON.
+        Il y paraît.  
+
+    LYCANDRE, À PART.
+Je vois qu'il trompe Lisimon en lui parlant de moi.  
+Sa gloire est alarmée à l'aspect de son père.  
+Sachez encor...  
+
+    LISIMON.
+    Eh bien ?  
+
+    LYCANDRE, À PART.
+        Je retiens ma colère,  
+Espérant que bientôt il me sera permis  
+De me faire connaître et de punir mon fils ;  
+Et mon juste dépit lui prépare une scène  
+Où je veux mettre enfin son orgueil à la gêne.  
+
+    LE COMTE, À LYCANDRE.
+Contraignez-vous, de grâce, et ne lui dites rien  
+Qui lui fasse augurer qui vous êtes.  
+
+    LYCANDRE.
+        Fort bien.  
+
+    LE COMTE, RETOURNANT À LISIMON.
+C'est un homme économe autant qu'il est fidèle.  
+
+    LISIMON, HAUT.
+Oh çà, je vous ai dit une bonne nouvelle :  
+Ne la négligeons pas. Ma femme veut vous voir ;  
+Pour gagner son esprit, faites votre devoir.  
+
+    LE COMTE, EN SOURIANT.
+Mon devoir ?  
+
+    LISIMON.
+    Oui, vraiment.  
+
+    LE COMTE.
+        L'expression est forte.  
+
+    LYCANDRE, AU COMTE.
+Quoi ! Faut-il pour un mot vous cabrer de la sorte ?  
+
+    LISIMON, AU COMTE.
+Il parle de bon sens.  
+
+    LYCANDRE.
+        Il est bien question  
+De chicaner ici sur une expression !  
+
+    LE COMTE, D’UN AIR UN PEU FIER, À LYCANDRE.
+Mais, monsieur...  
+
+    LYCANDRE, D’UN AIR IMPÉRIEUX.
+        Mais, monsieur, je dis ce qu'il faut dire ;  
+Faites ce qu'il faut faire au plus tôt.  
+
+    LE COMTE, À PART.
+        Quel martyre !  
+Il va se découvrir.  
+
+    LISIMON, AU COMTE.
+        Ce vieillard est bien vert,  
+Ce me semble ?  
+
+    LE COMTE.
+À Lisimon.
+
+    Il est vrai.  
+À Lycandre.
+
+        Votre discours me perd.  
+Devant cet homme, au moins, tâchez de vous contraindre.  
+
+    LYCANDRE, AU COMTE.
+Faites ce qu'il désire, ou je cesse de feindre.  
+
+    LISIMON.
+Ma femme vous attend : venez, d'un air soumis,  
+Prévenant, la prier d'être de vos amis.  
+
+    LYCANDRE, AU COMTE.
+Soumis ; vous entendez ?  
+
+    LE COMTE, D’UN AIR PIQUÉ.
+        Oui, j'entends à merveille.  
+À part.
+
+Ciel !  
+
+    LISIMON.
+        Vous approuvez donc ce que je lui conseille ?  
+Bonhomme, expliquez-vous.  
+
+    LYCANDRE.
+        Oui, je l'approuve fort,  
+Et, s'il ne s'y rend pas, il aura très grand tort.  
+Vous lui donnez, monsieur, une leçon très sage.  
+Il en avait besoin. Je le connais.  
+
+    LE COMTE, À PART.
+J'enrage.  
+
+    LISIMON, À LYCANDRE.
+    Vous êtes donc à lui depuis longtemps ?  
+
+    LE COMTE, À LISIMON.
+        Sortons.  
+Je regrette, monsieur, le temps que nous perdons.  
+
+    LISIMON.
+Au Comte.
+
+Un moment.  
+À Lycandre.
+
+        À quoi vont les revenus du comte ?  
+
+    LYCANDRE.
+Je ne saurais vous dire à quoi cela se monte.  
+
+    LISIMON.
+Mais encor ?  
+
+    LE COMTE, À LYCANDRE.
+    Dites-lui...  
+
+    LYCANDRE, AU COMTE, BAS.
+        Je ne veux point mentir.  
+À Lisimon.
+
+Une affaire, monsieur, m'oblige de sortir.  
+Mais, avant qu'il soit peu, je veux vous satisfaire.  
+Vous pouvez cependant conclure votre affaire ;  
+Et j'ose me flatter qu'avec un peu de temps  
+Vous aurez lieu tous deux d'en être fort contents.  
+Adieu.  
+
+
+## SCÈNE IX. Lisimon, Le Comte.
+
+    LISIMON.
+        Votre intendant avec vous fait le maître,  
+Que veut dire cela ? Hem !  
+
+    LE COMTE.
+        Comme il m'a vu naître,  
+Avec moi bien souvent il prend ces libertés.  
+
+    LISIMON.
+Allons trouver ma femme, et trêve de fiertés.  
+
+    LE COMTE.
+J'irai, si vous voulez. Mais que faut-il lui dire ?  
+
+    LISIMON.
+Plaisante question ! Quoi ! Faut-il vous instruire ?  
+
+    LE COMTE.
+Mais je suis assez neuf sur ces démarches-là.  
+Prier ! Solliciter ! Je n'entends point cela.  
+Je souhaite de faire avec vous alliance ;  
+Mais songez aux égards qu'exige ma naissance.  
+Parlez pour moi vous-même, et faites bien ma cour.  
+Cela suffit, je crois ?  
+
+    LISIMON.
+        Est-ce là le retour  
+Sont vous payez mes soins ? Suivi de ma famille,  
+Dois-je venir ici vous présenter ma fille,  
+Vous priant à genoux de vouloir l'accepter ?  
+Si tu te l'es promis, tu n'as qu'à décompter.  
+Ma fille vaut bien peu, si l'on ne la demande.  
+Je te baise les mains, et je me recommande à ta grandeur.  
+Adieu.  
+
+
+## SCÈNE X.
+
+    LE COMTE, SEUL.
+        Que ces gens inconnus sont fiers !  
+Voilà l'orgueil de tous nos parvenus.  
+C'est peu qu'à leurs grands biens notre gloire  
+S'immole, il faut, pour les avoir, fléchir devant l'idole.  
+Ah ! Maudite fortune, à quoi me réduis-tu ?  
+Si tes coups redoublés ne m'ont point abattu,  
+Veux-tu m'humilier par l'appât des richesses,  
+Et n'a-t-on tes faveurs qu'à force de bassesses ?  
+
+
+# ACTE V.
+
+
+## SCÈNE I. Isabelle, Lisette.
+
+    LISETTE.
+Oh çà, mademoiselle, expliquons-nous un peu,  
+Nous pouvons librement nous parler en ce lieu.  
+
+    ISABELLE.
+Et sur quoi, s'il vous plaît ?  
+
+    LISETTE.
+        Votre mère apaisée  
+À vos tendres désirs paraît moins opposée.  
+Vous pouvez espérer d'épouser votre amant.  
+Mais, loin de témoigner ce doux ravissement  
+Que vous devez sentir sur le point d'être heureuse,  
+Je ne vous vis jamais si triste et si rêveuse.  
+
+    ISABELLE.
+Il est vrai.  
+
+    LISETTE.
+        Vous vouliez le comte pour époux ;  
+Son amour à vos yeux s'est signalé pour vous ;  
+Il vous a demandée ; et cette âme si fière  
+Vient de plier enfin.  
+
+    ISABELLE.
+        Mais de quelle manière ?  
+De ses soumissions la choquante froideur,  
+Son souris dédaigneux, son air fier et moqueur,  
+Son silence affecté, tout me faisait comprendre  
+Que son cour jusqu'à nous avait peine à descendre.  
+Mon père avec ardeur sollicitait pour lui ;  
+À peine de deux mots lui prêtait-il l'appui ;  
+Et, sans votre crédit sur l'esprit de mon frère,  
+Qui s'est servi du sien pour ramener ma mère,  
+Le comte a si bien fait que tout était rompu.  
+Pour cacher mon dépit j'ai fait ce que j'ai pu.  
+Mais plus de cet instant j'occupe ma pensée,  
+Plus je sens que j'en suis vivement offensée.  
+Pour un cour délicat quel triste événement !  
+
+    LISETTE.
+Si bien que votre amour est mort subitement ?  
+
+    ISABELLE.
+Il est bien refroidi.  
+
+    LISETTE.
+        Parlez en conscience.  
+N'entre-t-il point ici quelque peu d'inconstance ?  
+
+    ISABELLE.
+Vous me connaissez mal.  
+
+    LISETTE.
+        Oh ! Que pardonnez-moi,  
+Et, s'il faut s'expliquer ici de bonne foi...  
+
+    ISABELLE.
+Eh bien ?  
+
+    LISETTE.
+        D'aucun roman, à ce que j'imagine,  
+Vous ne pourrez jamais devenir l'héroïne.  
+
+    ISABELLE.
+Croyez-vous m'amuser quand vous me plaisantez ?  
+
+    LISETTE.
+Je ne plaisante point, je dis vos vérités.  
+Le soupçon d'un défaut vous trouble et vous alarme ;  
+Dès qu'il est confirmé, votre cour se gendarme.  
+Trop de délicatesse est un autre défaut,  
+Dont vous serez punie, et peut-être trop tôt.  
+
+    ISABELLE.
+Le comte me désole à chaque occasion.  
+
+    LISETTE.
+Quoi ! Pour un peu de gloire et de présomption ?  
+C'est là ce qui fait voir la grandeur de son âme.  
+Il est fier à présent ; mais devenez sa femme,  
+L'amant fier deviendra mari tendre et soumis.  
+
+    ISABELLE.
+Un espoir si flatteur peut-il m'être permis ?  
+
+
+## SCÈNE II. Isabelle, Valère, Lisette.
+
+    LISETTE, À VALÈRE.
+Vous voilà bien rêveur ?  
+
+    VALÈRE.
+        Et j'ai sujet de l'être.  
+Aux yeux de mon ami je n'ose plus paraître.  
+J'ai servi son rival. Je ne puis m'empêcher,  
+Même devant vous deux, de me le reprocher.  
+C'est une trahison dont j'étais incapable  
+Si l'amour n'eût voulu que j'en fusse coupable.  
+
+    LISETTE.
+Vous vous en repentez ?  
+
+    VALÈRE.
+        Je m'en repentirais,  
+Si je vous aimais moins. Mais enfin je voudrais  
+Que vous déclarassiez le motif qui vous porte  
+À marquer pour le comte une amitié si forte.  
+
+    LISETTE.
+Ce motif est très juste, et, quand vous l'apprendrez,  
+Bien loin de m'en blâmer, vous m'en applaudirez.  
+
+    VALÈRE.
+Je le veux croire ainsi ; mais daignez m'en instruire.  
+
+    LISETTE.
+Je l'ignorais tantôt, et ne pouvais le dire.  
+Je le sais à présent, et ne le dirai point.  
+
+    VALÈRE.
+Pourquoi vous obstiner à me cacher ce point ?  
+Quoi ! Faut-il qu'un amant vous trouve si discrète ?  
+
+    ISABELLE, À VALÈRE.
+Mais c'est donc tout de bon que vous aimez Lisette ?  
+
+    VALÈRE.
+Je l'aime, et m'en fais gloire.  
+
+    ISABELLE.
+        Un tel attachement  
+Prouve mieux que jamais votre discernement.  
+Mais quel en est l'objet ? Quelle est votre espérance ?  
+
+    LISETTE.
+Souffrez que là-dessus nous gardions le silence.  
+
+    ISABELLE.
+J'y veux bien consentir, et me fais cet effort,  
+Jusqu'à ce que l'on ait décidé de mon sort.  
+
+    VALÈRE.
+Il est tout décidé.  
+
+    ISABELLE.
+    Juste ciel !  
+
+    VALÈRE.
+        Et mon père,  
+Pour dicter le contrat, est chez notre notaire.  
+
+    ISABELLE.
+Ma mère n'y met plus aucun empêchement ?  
+
+    VALÈRE.
+Non, et vous me devez un si prompt changement.  
+
+
+## SCÈNE III. Lisimon, Valère, Isabelle, Lisette.
+
+    LISIMON.
+Ça, réjouissons-nous. Enfin, vaille que vaille,  
+L'ennemi se soumet. J'ai gagné la bataille ;  
+Le champ m'est demeuré. Je craignais un éclat ;  
+Mais votre mère enfin va signer le contrat.  
+Elle a banni Philinte, et j'attends le notaire  
+Pour terminer enfin cette importante affaire.  
+Excepté quelques points dont il faut convenir,  
+Je ne prévois plus rien qui pût nous retenir.  
+Tu seras dès ce soir madame la comtesse, ma fille.  
+
+    ISABELLE.
+Dès ce soir ?  
+
+    LISIMON.
+    Sans délai.  
+
+    ISABELLE.
+        Rien ne presse.  
+Cette affaire mérite un peu d'attention ;  
+Et j'ai fait sur cela quelque réflexion.  
+
+    LISIMON.
+Quelque réflexion ? Comment ! Mademoiselle,  
+Allez-vous nous donner une scène nouvelle,  
+Et vous dédire ici, comme vous avez fait  
+Sur cinq ou six projets qui n'ont point eu d'effet ?  
+Pensez-vous que le comte entende raillerie,  
+Et soit homme à souffrir votre bizarrerie ?  
+
+    VALÈRE.
+Mais, mon père, après tout...  
+
+    LISIMON.
+        Mais après tout, mon fils,  
+Croyez-vous que d'un fat j'écoute les avis ?  
+Quoi donc ! J'aurai su faire un miracle incroyable  
+En rendant aujourd'hui ma femme raisonnable  
+(Chose qu'on n'a point vue, et qu'on ne verra plus),  
+Et mes enfants rendront mes travaux superflus ?  
+Un chef-d'oeuvre si beau deviendrait inutile ?  
+Non, parbleu. Gardez-vous de m'échauffer la bile,  
+Ou vous aurez sujet de vous en repentir,  
+Et mon juste courroux se fera ressentir.  
+
+    LISETTE.
+Voilà parler, monsieur, en père de famille.  
+Courage ! Disposez enfin de votre fille :  
+Ne l'abandonnez plus à ses réflexions ;  
+C'est à vous à trancher dans ces occasions.  
+
+    ISABELLE.
+Quoi ! Lisette ?...  
+
+    LISETTE.
+        Monsieur a prononcé l'oracle :  
+À l'accomplissement rien ne peut mettre obstacle.  
+S'il vous destine au comte, il faut que ce dessein  
+S'exécute en dépit de tout le genre humain.  
+
+    LISIMON.
+Cette fille me charme. Oui, ma chère Lisette,  
+Tiens, sois un peu moins sage, et tu seras parfaite.  
+L'avis est bon.  
+
+    LISIMON.
+        Le tien vient de m'édifier ;  
+Et je veux t'embrasser pour te remercier.  
+
+    LISETTE.
+Réservez, s'il vous plaît, cette tendre saillie  
+Jusqu'à ce que je sois une fille accomplie.  
+
+    LISIMON.
+J'attendrais trop longtemps. Il faut absolument  
+Que ma reconnaissance éclate en ce moment.  
+
+    VALÈRE, LE RETENANT.
+Vous vous échaufferez, prenez garde, mon père.  
+
+    LISIMON, LE REPOUSSANT.
+Monsieur le médecin, ce n'est pas votre affaire.  
+Que je m'échauffe ou non, vous aurez la bonté  
+De ne vous plus charger du soin de ma santé.  
+À part.
+
+Je crois que ce coquin est jaloux de Lisette,  
+Et je soupçonne entre eux quelque intrigue secrète.  
+À Valère.
+
+Je veux m'en éclaircir. Sachons un peu...  
+
+    VALÈRE.
+        Voici  
+Votre notaire.  
+
+    LISIMON.
+À Valère qui veut sortir.
+
+        Ah ! Bon ! Non, non, demeure ici.  
+Dans un petit moment nous compterons ensemble.  
+
+
+## SCÈNE IV. Les acteurs précédents, Monsieur Josse.
+
+    LISIMON.
+Approche, Monsieur Josse.  
+
+    MONSIEUR JOSSE.
+        Est-ce ici qu'on s'assemble ?  
+
+    LISIMON.
+Oui.  
+
+    MONSIEUR JOSSE.
+        Lisons ma minute. À trois articles près,  
+Monsieur, j'ai stipulé vos communs intérêts.  
+C'est donc là la future ?  
+
+    LISIMON.
+        À peu près. C'est ma fille.  
+
+    MONSIEUR JOSSE, LA REGARDANT AVEC SES LUNETTES.
+Voilà de quoi former une belle famille.  
+Où donc est le futur ?  
+
+    ISABELLE.
+        Je n'en sais encor rien.  
+
+    MONSIEUR JOSSE.
+Comment ! Se faire attendre ? Oh ! Cela n'est pas bien ;  
+Et vous méritez fort...  
+
+    LISIMON.
+        Le voici qui s'avance.  
+Assieds-toi, Monsieur Josse ; et nous, prenons séance.  
+
+
+## SCÈNE V. Les acteurs précédents, Le Comte.
+Ils sont tous assis, excepté Lisette.
+
+
+    MONSIEUR JOSE, VIS-À-VIS D’UNE TABLE, APRÈS AVOIR MIS SES LUNETTES, LIT.
+Par-devant...  
+
+    LISIMON, À ISABELLE, QUI PARLE À LISETTE.
+    Écoutez.  
+
+    MONSIEUR JOSSE, LIT.
+        Les conseillers du roi,  
+Notaires soussignés, furent présents...  
+
+    LISIMON, À VALÈRE, QUI PARLE D’ACTION À LISETTE.
+        Eh quoi !  
+Vous ne vous tairez point ? Est-il temps que l'on cause ?  
+Valère, ici. Laissez cette fille, et pour cause.  
+
+    MONSIEUR JOSSE, AU COMTE.
+Votre nom, s'il vous plaît, vos titres, votre rang :  
+Je ne les savais point ; ils sont restés en blanc.  
+
+    LE COMTE.
+Je vais vous les dicter. N'oubliez rien, de grâce.  
+Vous avez pour cela laissé bien peu de place.  
+
+    MONSIEUR JOSSE.
+La marge y suppléera. Voyez quelle largeur !  
+
+    LE COMTE.
+Il dicte.
+
+Écrivez donc. Très haut et très puissant seigneur...  
+
+    MONSIEUR JOSSE, SE LEVANT.
+Monsieur, considérez qu'on ne se qualifie...  
+
+    LE COMTE.
+Point de raisonnements, je vous le signifie.  
+
+    MONSIEUR JOSSE, ÉCRIVANT.
+Et très puissant seigneur...  
+
+    LE COMTE, DICTANT.
+        Monseigneur Carloman,  
+Alexandre, César, Henry, Jules, Armand,  
+Philogène, Louis...  
+
+    MONSIEUR JOSSE.
+        Oh ! Quelle kyrielle !  
+Ma foi, sur tant de noms ma mémoire chancelle !  
+Il répète.
+
+Philogène, Louis... après ?  
+
+    LE COMTE, DICTANT.
+        De Mont-Sur-Mont.  
+
+    MONSIEUR JOSSE, RÉPÉTANT.
+Sur-Mont.  
+
+    LE COMTE, DICTANT.
+    Chevalier...  
+
+    MONSIEUR JOSSE, RÉPÉTANT.
+    Lier.  
+
+    LE COMTE, AU NOTAIRE.
+        Continuez. Baron  
+De Montorgueil.  
+
+    MONSIEUR JOSSE.
+    Orgueil.  
+
+    LE COMTE, D’UN TON AMPOULÉ.
+        Bon ! Marquis de Tufière.  
+
+    LISIMON.
+Quoi ! Vous êtes marquis ?  
+
+    LE COMTE.
+        Proprement, c'est mon père.  
+Mais, comme après sa mort j'aurai ce marquisat,  
+J'en prends d'avance ici le titre en mon contrat.  
+
+    LISIMON, LUI FRAPPANT SUR L’ÉPAULE.
+C'est bien fait, mon garçon ; la chose t'est permise.  
+
+
+Je te fais compliment, madame la marquise.  
+
+    MONSIEUR JOSSE, AU COMTE.
+Est-ce tout ?  
+
+    LE COMTE, SE LEVANT.
+        Comment tout ? Seigneur...  
+
+    MONSIEUR JOSSE.
+        Et caetera.  
+Cette tirade-là jamais ne finira.  
+
+    LE COMTE.
+Mettez "et autres lieux", en très gros caractère.  
+
+    ISABELLE, À LISETTE.
+En lettres d'or.  
+
+    LISETTE, À ISABELLE.
+    Paix donc !  
+
+    ISABELLE, À LISETTE.
+        Je ne saurais me taire.  
+Je ne puis me prêter à tant de vanité.  
+
+    LISETTE, À ISABELLE.
+C'est le faible commun des gens de qualité.  
+Leurs titres bien souvent font tout leur patrimoine.  
+
+    MONSIEUR JOSSE, À LISIMON.
+Il lit.
+
+À vous présentement, monsieur. Messire Antoine  
+Lisimon...  
+
+    LE COMTE, D’UN AIR SURPRIS.
+    Antoine !  
+
+    LISIMON.
+    Oui.  
+
+    LE COMTE.
+        Quoi ! C'est là votre nom ?  
+Antoine ! Est-il possible ?  
+
+    LISIMON.
+        Eh ! Parbleu, pourquoi non ?  
+
+    LE COMTE.
+Ce nom est bien bourgeois !  
+
+    LISIMON.
+        Mais pas plus que les autres ;  
+Je crois que mon patron valait bien tous les vôtres.  
+
+    LE COMTE, D’UN AIR DÉDAIGNEUX.
+Passons, monsieur, passons. Vos titres. C'est le point  
+dont il s'agit ici.  
+
+    LISIMON.
+        Qui, moi ? Je n'en ai point.  
+
+    LE COMTE.
+Comment donc ? Vous n'avez aucune seigneurie ?  
+
+    LISIMON.
+Ah ! Je me souviens d'une. Écrivez, je vous prie.  
+Il dicte.
+
+Antoine Lisimon, écuyer.  
+
+    LE COMTE.
+        Rien de plus ?  
+
+    LISIMON.
+Et seigneur suzerain... d'un million d'écus.  
+
+    LE COMTE.
+Vous vous moquez, je crois ? L'argent est-il un titre ?  
+
+    LISIMON.
+Plus brillant que les tiens. Et j'ai dans mon pupitre  
+Des billets au porteur dont je fais plus de cas  
+Que de vieux parchemins, nourriture des rats.  
+
+    MONSIEUR JOSSE.
+Il a raison.  
+
+    LE COMTE.
+        Pour moi, je tiens que la noblesse...  
+
+    MONSIEUR JOSSE.
+Oh ! Nous autres bourgeois, nous tenons pour l'espèce.  
+À Lisimon.
+
+Çà, stipulons la dot.  
+
+    LISIMON.
+        Le gendre que je prends  
+M'engage à la porter à neuf cent mille francs.  
+
+    MONSIEUR JOSSE, AU COMTE.
+Voilà pour la future un titre magnifique,  
+Et qui soutiendra bien votre noblesse antique.  
+
+    LE COMTE, À MONSIEUR JOSSE, BAS.
+Monsieur le garde-note, oui, l'argent nous soutient ;  
+Mais nous purifions la source dont il vient.  
+
+    MONSIEUR JOSSE.
+Et quel douaire aura l'épouse contractante ?  
+
+    LE COMTE.
+Quel douaire, monsieur ? Vingt mille francs de rente.  
+
+    LISETTE, À PART.
+Mon frère est magnifique. En tout cas, je sais bien  
+Que, s'il donne beaucoup, il ne s'engage à rien.  
+
+    MONSIEUR JOSSE, AU COMTE.
+Sur quoi l'assignez-vous ?  
+
+    LISIMON.
+    Oui.  
+
+    LE COMTE, DICTANT.
+        Sur la baronnie  
+De Montorgueil.  
+
+    , SE LEVANT.
+        Voilà votre affaire finie.  
+
+    LISIMON.
+Signons donc maintenant. La noce se fera  
+Aussitôt qu'à Paris ton père arrivera.  
+
+    LE COMTE.
+Mon père, dites-vous ? Il ne faut point l'attendre.  
+Jamais en ce pays il ne pourra se rendre.  
+La goutte le retient au lit depuis six mois.  
+
+    LISETTE, À PART.
+Mon frère, en vérité, ment fort bien quelquefois.  
+
+    LE COMTE.
+Mais nous irons le voir après le mariage.  
+
+    LISIMON.
+Avec bien du plaisir je ferai le voyage.  
+
+
+## SCÈNE VI. Les acteurs précédents, Lycandre.
+
+    LE COMTE, À PART.
+Ah ! Le voici lui-même. Ô ciel ! Quel incident !  
+
+    LISIMON, À LYCANDRE.
+Que voulez-vous ? Parbleu, c'est monsieur l'intendant.  
+
+    LYCANDRE, AU COMTE.
+Je viens savoir, mon fils...  
+
+    VALÈRE ET ISABELLE.
+    Son fils !  
+
+    LE COMTE, À PART.
+        Je meurs de honte.  
+
+    LISIMON.
+Vous m'aviez donc trompé ? Répondez, mon cher Comte.  
+
+    LE COMTE, À LYCANDRE.
+Eh quoi ! Dans cet état osez-vous vous montrer ?  
+
+    LYCANDRE.
+Superbe, mon aspect ne peut que t'honorer.  
+Mon arrivée ici t'alarme et t'importune ;  
+Mais apprends que mes droits vont devant ta fortune.  
+Rends-leur hommage, ingrat, par un plus tendre accueil.  
+
+    LE COMTE.
+Eh ! Le puis-je, au moment... ?  
+
+    LISIMON.
+        Baron de Montorgueil,  
+C'est donc là ce superbe et brillant équipage  
+Dont tu faisais tantôt un si bel étalage ?  
+
+    LYCANDRE, À LISIMON.
+L'état où je parais et sa confusion  
+D'un excessif orgueil sont la punition.  
+Au comte.
+
+Je la lui réservais. Je bénis ma misère,  
+Puisqu'elle t'humilie et qu'elle venge un père.  
+Ah ! Bien loin de rougir, adoucis mes malheurs.  
+Parle, reconnais-moi.  
+
+    ISABELLE, À LISETTE.
+        Vous voilà tout en pleurs,  
+Lisette ?  
+
+    LISETTE, À ISABELLE.
+        Vous allez en apprendre la cause.  
+
+    LYCANDRE, AU COMTE.
+Je vois qu'à ton penchant ta vanité s'oppose.  
+Mais je veux la dompter. Redoute mon courroux,  
+Ma malédiction, ou tombe à mes genoux.  
+
+    LE COMTE.
+Je ne puis résister à ce ton respectable. Eh bien !  
+Vous le voulez, rendez-moi méprisable.  
+Jouissez du plaisir de me voir si confus.  
+Mon cour, tout fier qu'il est, ne vous méconnaît plus.  
+Oui, je suis votre fils, et vous êtes mon père.  
+Rendez votre tendresse à ce retour sincère.  
+Il se met aux genoux de Lycandre.
+
+Il me coûte assez cher pour avoir mérité  
+D'éprouver désormais toute votre bonté.  
+
+    LISIMON, À LYCANDRE.
+Il a, ma foi, raison. Par ce qu'il vient de faire,  
+Je jurerais, morbleu, que vous êtes son père.  
+
+    LYCANDRE, RELÈVE LE COMTE ET L’EMBRASSE.
+En sondant votre cour, j'ai frémi, j'ai tremblé.  
+Mais, malgré votre orgueil, la nature a parlé.  
+Qu'en ce moment pour moi ce triomphe a de charmes !  
+Je dois donc maintenant terminer vos alarmes,  
+Oublier vos écarts qui sont assez punis.  
+Mon fils, rassurez-vous. Nos malheurs sont finis.  
+Le ciel, enfin pour nous devenu plus propice,  
+A de mes ennemis confondu la malice.  
+Notre auguste monarque, instruit de mes malheurs  
+Et des noirs attentats de mes persécuteurs,  
+Vient par un juste arrêt de finir ma misère.  
+Il me rend mon honneur ; à vous il rend un père  
+Rétabli dans ses droits, dans ses biens, dans son rang,  
+Enfin dans tout l'éclat qui doit suivre mon sang.  
+J'en reçois la nouvelle. Et ma joie est extrême  
+De pouvoir à présent vous l'annoncer moi-même.  
+
+    LE COMTE.
+Qu'entends-je ? Juste ciel ! Fortune, ta faveur  
+Au mérite, aux vertus, égale le bonheur ;  
+Oui, tu me rends mes biens, mon rang et ma naissance,  
+Et j'en ai désormais la pleine jouissance.  
+
+    LYCANDRE.
+Devenez plus modeste en devenant heureux.  
+
+    LISIMON.
+C'est bien dit. Je vous fais compliment à tous deux.  
+Je n'ai pas attendu ce que je viens d'apprendre  
+Pour choisir votre fils en qualité de gendre,  
+Parce qu'à l'orgueil près il est joli garçon.  
+Voici notre contrat ; signez-le sans façon.  
+
+    LYCANDRE.
+Quoique notre fortune ait bien changé de face,  
+De vos bontés pour lui je dois vous rendre grâce ;  
+Et, pour m'en acquitter encor plus dignement,  
+Je prétends avec vous m'allier doublement.  
+
+    LISIMON.
+Comment ?  
+
+    LYCANDRE.
+        Pour votre fils je vous offre ma fille.  
+
+    VALÈRE, À LISETTE.
+Je suis perdu.  
+
+    LISIMON.
+        L'honneur est grand pour ma famille.  
+Très agréablement vous me voyez surpris.  
+J'accepte le projet. Mais est-elle à Paris,  
+Votre fille ?  
+
+    LYCANDRE.
+        Sans doute. Approchez-vous, Constance,  
+Et recevez l'époux...  
+
+    LISIMON.
+        Vous vous moquez, je pense ?  
+C'est Lisette.  
+
+    LYCANDRE.
+        Ce nom a causé votre erreur.  
+Venez, ma fille. Comte, embrassez votre sour.  
+
+    LISIMON.
+Sa sour, femme de chambre ?  
+
+    LYCANDRE, AU COMTE.
+        Une telle aventure  
+Des jeux de la fortune est une preuve sûre.  
+Grâce au ciel, votre sour est digne de son sang.  
+Sa vertu, plus que moi, la remet dans son rang.  
+
+    VALÈRE.
+Quel heureux dénouement ! Je vais mourir de joie.  
+
+    ISABELLE, À LISETTE.
+Je prends part au bonheur que le ciel vous envoie.  
+
+    LISETTE, AU COMTE.
+En me reconnaissant, confirmez mon bonheur.  
+
+    LE COMTE.
+Je m'en fais un plaisir. Je m'en fais un honneur.  
+
+    LISIMON, À LYCANDRE.
+Et moi, de mon côté, je veux que ma famille  
+Puisse donner un rang sortable à votre fille :  
+Car avec de l'argent on acquiert de l'éclat ;  
+Et je suis en marché d'un très beau marquisat,  
+Dont je veux que mon fils décore sa future.  
+Dès ce soir, Monsieur Josse, il faudra le conclure.  
+Allez voir le vendeur ; et que demain mon fils  
+Ne se réveille point sans se trouver marquis.  
+Au Comte.
+
+Êtes-vous satisfait ?  
+
+    LE COMTE.
+        On ne peut davantage.  
+
+    LISIMON.
+Bon ! Nous allons donc faire un double mariage.  
+
+    ISABELLE, AU COMTE.
+Mon cour parle pour vous ; mais je crains vos hauteurs.  
+
+    LE COMTE.
+L'amour prendra le soin d'assortir nos humeurs,  
+Comptez sur son pouvoir ; que faut-il pour vous plaire ?  
+Vos goûts, vos sentiments, feront mon caractère.  
+
+    LYCANDRE.
+Mon fils est glorieux ; mais il a le cour bon.  
+Cela répare tout.  
+
+    LISIMON.
+        Oui, vous avez raison.  
+Et, s'il reste entiché d'un peu de vaine gloire,  
+Avec tant de mérite on peut s'en faire accroire.  
+
+    LE COMTE.
+Non, je n'aspire plus qu'à triompher de moi ;  
+Du respect, de l'amour, je veux suivre la loi.  
+Ils m'ont ouvert les yeux ; qu'ils m'aident à me vaincre.  
+Il faut se faire aimer, on vient de m'en convaincre ;  
+Et je sens que la gloire et la présomption  
+N'attirent que la haine et l'indignation.  
+
+-------
+
+
+[1] Pouilles : Vilaines injures et reproches. Les gueux, les harengères chantent pouilles aux honnêtes gens. Les femmes qui se querellent se disent mille vilaines pouilles et ordures. F
+
+[2] Reître : Pour dire c'est un homme fin, rusé et expérimenté au fait de guerre. On le dit par extension de ceux qui sont rusés, ou qui ont de l'expérience en plusieurs choses, comme à plaider, à jouer etc. F
+
+[3] Gourmer : Sa battre à coups de poings. F
+
+[4] Enter : (figuré) Lier, attacher, joindre.
+
+[5] Freluquet : Terme familier. Homme léger frivole et sans mérite. F 
+
+[6] Caquet : Abondance de paroles inutiles qui n'ont point de solidité. F 
+
+[7] Rodomont : Terme familier. Fanfaron qui vante sa bravoure, pour se faire valoir et se faire craindre. Celui qui parle, agit avec hauteur comme s'il était au-dessus des autres. L

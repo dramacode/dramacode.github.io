@@ -1,0 +1,4208 @@
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Première parade</title>
+        <title type="sub">, farce.</title>
+        <author born="1683" born_location="Paris" death="1766" death_location="Charenton" academie="">
+          <surname>Gueullette</surname>
+          <forename> Thomas-Simon</forename>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p>publié par Paul FIEVRE Novembre 2013</p>
+        <idno/>
+      </publicationStmt>
+      <sourceDesc>
+        <genre>Farce</genre>
+        <inspiration>moeurs françaises</inspiration>
+        <structure>Trois actes</structure>
+        <type>prose</type>
+        <periode>1711-1720</periode>
+        <taille>(mesure non pertinente)</taille>
+        <permalien/>
+        <sources>
+          <source id="1">
+            <author/>
+            <text/>
+          </source>
+        </sources>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="created" when="1714"/>
+        <date type="issued" when="1714"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre">Farce</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 xml:id="I" type="act" n="1">
+        <head>ACTE I</head>
+        <div2 xml:id="I01" type="scene" n="1">
+          <head>SCÈNE I. Le Maître, ensuite Gilles.<listPerson type="configuration" xml:id="conf1"/></head>
+          <sp xml:id="I01-1" who="LEMAITRE">
+            <p>
+              <s>Il faut, de toute nécessité, que je m’embarque aujourd’hui pour Corbeil où je dois aller recevoir trois cent francs. </s>
+              <s>Voyons si je n’ai rien oublié pour le voyage. </s>
+              <s>Voilà mon bonnet de nuit, une chemise. </s>
+              <s>Mais, vraiment, le meilleur était sorti de ma mémoire. </s>
+              <s>Gilles ! </s>
+              <s>Gilles !</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-2" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, je n’en puis plus !</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-3" who="LEMAITRE">
+            <p>
+              <s>Gilles !... </s>
+              <s>Ah ! </s>
+              <s>Te voilà... </s>
+              <s>Qu’est-ce que cela veut dire?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-4" who="GILLES">
+            <p>
+              <s>Ahi ! </s>
+              <s>ahi ! </s>
+              <s>ahi ! </s>
+              <s>ahi !</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-5" who="LEMAITRE">
+            <p>
+              <s>Avance donc, animal.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-6" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, me voilà en bel état. </s>
+              <s>J’ai les cinq doigts dépouillés.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-7" who="LEMAITRE">
+            <p>
+              <s>Et comment cela t’est-il arrivé ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-8" who="GILLES">
+            <p>
+              <s>Je voulais tremper une croûte au pot. </s>
+              <s>Jacqueline, cette chienne de Jacqueline, m’a poussé le coude et m’a fait enfoncer la main dans la marmite... </s>
+              <s>Ah ! </s>
+              <s>Monsieur, je me meurs... </s>
+              <s>Du vin !... </s>
+              <s>Du vinaigre !</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-9" who="LEMAITRE">
+            <p>
+              <s>Voilà, misérable, ce que te coûte ta gourmandise.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-10" who="GILLES">
+            <p>
+              <s>Du vin !... </s>
+              <s>Du vinaigre!... </s>
+              <s>Un médecin !... </s>
+              <s>Un chirurgien !... </s>
+              <s>Un apothicaire !</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-11" who="LEMAITRE">
+            <p>
+              <s>Voilà un garçon estropié pour le reste de ses jours. </s>
+              <s>Monsieur Taille-Bras ! </s>
+              <s>Monsieur Visautrou ! </s>
+              <s>Heureusement que ces messieurs sont mes voisins. </s>
+              <s>Au secours ! </s>
+              <s>Mon valet Gilles est fort malade !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I02" type="scene" n="2">
+          <head>SCÈNE II. Le Maître, Gilles, Taille-Bras, avec une scie, un couperet et des palettes à saigner, Visautrou, un tablier devant lui et une seringue.<listPerson type="configuration" xml:id="conf2"/></head>
+          <sp xml:id="I02-1" who="TAILLEBRAS">
+            <p>
+              <s>Qu’y a-t-il, Monsieur ? </s>
+              <s>Vous criez comme si le feu était à la maison.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-2" who="LEMAITRE">
+            <p>
+              <s>Hélas ? </s>
+              <s>Monsieur, voilà mon valet Gilles en pitoyable état.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-3" who="GILLES">
+            <p>
+              <s>Hélas, oui !</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-4" who="VISAUTROU">
+            <p>
+              <s>À quoi servent ces cornets de papier ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-5" who="GILLES">
+            <p>
+              <s>C’est que j’ai eu les doigts brûlés dans la marmite.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-6" who="VISAUTROU">
+            <p>
+              <s>Cela est fâcheux, mon ami. </s>
+              <s>Hippocrate, en pareil cas, dit que, pour tempérer la chaleur que cause la brûlure, il faut commencer par prendre un petit clystère dulcifiant.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-7" who="GILLES">
+            <p>
+              <s>Qu’est-ce que vous parlez d’hypocras, Monsieur ? </s>
+              <s>J’en boirais bien un coup pour me fortifier le cœur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-8" who="VISAUTROU">
+            <p>
+              <s>Ce n’est pas d’hypocras que je parle. </s>
+              <s>C’est d’Hippocrate, le prince de la médecine.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-9" who="TAILLEBRAS">
+            <p>
+              <s>Monsieur Visautrou parle sensément. </s>
+              <s>Mais Gallien assure qu’en pareil cas il faut auparavant phlébotomiser le malade.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-10" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Ah !</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-11" who="VISAUTROU">
+            <p>
+              <s>Vous vous trompez, Monsieur, c’est par le clystère qu’il faut commencer.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-12" who="TAILLEBRAS">
+            <p>
+              <s>Et moi, je vous soutiens que c’est par la saignée.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-13" who="LEMAITRE">
+            <p>
+              <s>Eh ! </s>
+              <s>Messieurs, finissez vos contestations et secourez, si vous le pouvez, ce pauvre diable.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-14" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Je me meurs ! </s>
+              <s>Du vin !... </s>
+              <s>Du vinaigre !</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-15" who="LEMAITRE">
+            <p>
+              <s>Il me fend le cœur, dépêchez-vous donc.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-16" who="TAILLEBRAS">
+            <p>
+              <s>Cela va être fait dans le moment.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-17" who="LEMAITRE">
+            <p>
+              <s>Qu’allez-vous donc faire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-18" who="TAILLEBRAS">
+            <p>
+              <s>Lui couper le bras que j’emporterai chez moi, puisque vous êtes si pressé, et je panserai la main tout à loisir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-19" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>Non, non, Monsieur, n’allez pas si vite. </s>
+              <s>Ah ! </s>
+              <s>Je sens bien que je n’irai pas loin. </s>
+              <s>Cela me gagne les parties nobles. </s>
+              <s>Ah ! </s>
+              <s>Monsieur mon maître ! </s>
+              <s>Qu’il est dur de mourir si jeune ! </s>
+              <s>Mais, auparavant, ne pourrais-je pas faire un petit bout de testament par-devant main de notaire?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-20" who="TAILLEBRAS">
+            <p>
+              <s>Oh ! </s>
+              <s>cela est très aisé. </s>
+              <s>Pour vivre à son aise, il faut manger à plus d’un râtelier. </s>
+              <s>Je suis chirurgien, comme vous savez, et tabellion, fort à votre service. </s>
+              <s>Faites seulement apporter une table. </s>
+            </p>
+            <p>
+              <s>Vous n’avez à présent qu’à me dicter vos volontés : « Par-devant, etc... fut présent, etc... lequel, etc... nous a ainsi dicté ses intentions. </s>
+              <s>Premièrement... » </s>
+              <s>Allons, Monsieur Gilles, c’est à vous de parler.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-21" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur ! </s>
+              <s>Vous n’avez qu’à écrire tout ce qu’il vous plaira.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-22" who="TAILLEBRAS">
+            <p>
+              <s>Mais, Monsieur, ce sont vos volontés, et non pas les nôtres, que nous devons coucher sur le papier.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-23" who="GILLES">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Monsieur, puisque cela est, pour la bonne amitié que je porte à Monsieur de Parlaventrebleu, mon maître, je lui laisse cette maison-ci.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-24" who="LEMAITRE">
+            <p>
+              <s>Comment, cette maison-ci ? </s>
+              <s>Mais, vraiment, elle m’appartient.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-25" who="GILLES">
+            <p>
+              <s>C’est pour cela que je vous la laisse, mon doux maître. </s>
+              <s>Vous voyez bien que je ne puis l’emporter. </s>
+              <s>Item, je laisse à Jacqueline, la cuisinière de Monsieur de Parlaventrebleu, la plus grosse paire de fesses qu’il y ait dans le village.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-26" who="TAILLEBRAS">
+            <p>
+              <s>Mais, Monsieur...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-27" who="GILLES">
+            <p>
+              <s>Écrivez, écrivez.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-28" who="TAILLEBRAS">
+            <p>
+              <s>... Dans tout le village.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-29" who="GILLES">
+            <p>
+              <s>Plus, je laisse au notaire qui aura eu la bonté de faire mon testament...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-30" who="TAILLEBRAS">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur Gilles, la plume me tombe des mains.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-31" who="GILLES">
+            <p>
+              <s>Attendez, Monsieur. </s>
+              <s>Je laisse donc au susdit notaire ou tabellion la plus belle paire de cornes qui ait jamais été sur la tête d’un cocu.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-32" who="TAILLEBRAS">
+            <p>
+              <s>Mon ami, vous faites le goguenard. </s>
+              <s>Heureusement que je suis garçon, cela ne me regarde pas. </s>
+              <s>Mais je vous déclare que, dès à présent, je renonce au legs.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-33" who="GILLES">
+            <p>
+              <s>Cela dépendra plus de votre femme que de vous. </s>
+              <s>Item, je laisse à mon petit frère, Guillaume Bambinois, toute ma garde-robe, à condition qu’il dépendra de Monsieur Parlaventrebleu, mon bon maître...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-34" who="TAILLEBRAS">
+            <p>
+              <s>Qu’il pendra Monsieur de Parlaventrebleu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-35" who="LEMAITRE">
+            <p>
+              <s>Non pas, s’il vous plaît, Monsieur le tabellion ; diable ! </s>
+              <s>Quel quiproquo ! </s>
+              <s>Mettez, s’il vous plaît, dépendra et non pendra. </s>
+              <s>Mais, Gilles, je ne te connais pas de garde-robe. </s>
+              <s>En quoi consiste-t-elle ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-36" who="GILLES">
+            <p>
+              <s>Vous le voyez, Monsieur, je porte tout sur moi. </s>
+              <s>Il y a pourtant encore deux chaussons chez la blanchisseuse. </s>
+              <s>Item, je laisse à Lallemand, frotteur de feu Mme de Parlaventrebleu...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-37" who="TAILLEBRAS">
+            <p>
+              <s>Un lavement au frotteur de madame ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-38" who="GILLES">
+            <p>
+              <s>Eh ! </s>
+              <s>Non, Monsieur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-39" who="TAILLEBRAS">
+            <p>
+              <s>Monsieur Gilles, ma foi, vous vous moquez de nous. </s>
+              <s>Je vois bien qu’il faut quitter la plume pour le bistouri.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-40" who="GILLES">
+            <p>
+              <s>Attendez encore un moment, Monsieur. </s>
+              <s>Dans un grand péril, j’ai fait un vœu singulier dont je n’ai pu encore m’acquitter. </s>
+              <s>Si vous voulez bien le faire pour moi, ou Monsieur Visautrou, je crois même que, pour le présent, cela convient mieux à Monsieur l’apothicaire, qui est marié depuis trois mois.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-41" who="VISAUTROU">
+            <p>
+              <s>Cela est vrai, Monsieur, et j’ai même une fort jolie femme.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-42" who="GILLES">
+            <p>
+              <s>Tant mieux, Monsieur ; vous vous acquitterez mieux du vœu, et je vous en aurai une extrême obligation.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-43" who="VISAUTROU">
+            <p>
+              <s>Mais, s’il faut trop s’éloigner de ma maison, Monsieur, j’ai bien des pratiques.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-44" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>Monsieur, pourvu que vous en soyez seulement à cent pas, cela suffit.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-45" who="VISAUTROU">
+            <p>
+              <s>Cela étant, je vous promets d’exécuter votre vœu.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-46" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Je respire et je meurs content. </s>
+              <s>Eh bien ! </s>
+              <s>Monsieur, dans un danger très pressant, j’ai fait vœu... </s>
+              <s>Ah ! </s>
+              <s>Je n’y tiens plus !</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-47" who="VISAUTROU">
+            <p>
+              <s>Achevez donc !</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-48" who="GILLES">
+            <p>
+              <s>Monsieur, vous ne le voudrez pas. </s>
+              <s>Ma pauvre femme Gillette n’a jamais voulu m’acquitter de ce vœu, et cela lui était bien facile.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-49" who="VISAUTROU">
+            <p>
+              <s>Eh bien ! </s>
+              <s>À son refus, je m’en charge.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-50" who="GILLES">
+            <p>
+              <s>Assurément ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-51" who="VISAUTROU">
+            <p>
+              <s>J’en jure par ma seringue, mes canons et mon mortier.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-52" who="GILLES">
+            <p>
+              <s>Eh bien, donc ! </s>
+              <s>Monsieur, dans un très grand péril, puisque j’etais prêt d’être pendu pour avoir été en maraude, j’ai fait vœu, si j’en revenais...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-53" who="VISAUTROU">
+            <p>
+              <s>De quoi as-tu fait vœu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-54" who="GILLES">
+            <p>
+              <s>J’ai fait vœu d’être cocu.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-55" who="VISAUTROU">
+            <p>
+              <s>Que le diable t’emporte, animal ! </s>
+              <s>Exécute ton vœu toi-même. </s>
+              <s>Il y a une heure qu’il nous tient le bec dans l’eau pour nous dire une impertinence. </s>
+              <s>Or çà, finissons. </s>
+              <s>Voyons cette main malade.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-56" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Ah !</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-57" who="LEMAITRE">
+            <p>
+              <s>Doucement, Monsieur Visautrou.</s>
+            </p>
+            <p>
+              <s>Là, là, un peu de patience. </s>
+              <s>Tu ne seras pas plus tôt guéri que tu ne sentiras plus de mal.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-58" who="GILLES">
+            <p>
+              <s>Voyez le gros sorcier !</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-59" who="TAILLEBRAS">
+            <p>
+              <s>Commençons par le pouce.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-60" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, prenez garde. </s>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Ah !</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-61" who="TAILLEBRAS">
+            <p>
+              <s>Enfin, nous voici débarrassés de cette folle. </s>
+              <s>Voici le cornet qui enveloppait le pouce. </s>
+              <s>Je n’y vois aucun mal.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-62" who="GILLES">
+            <p>
+              <s>Tout de bon, Monsieur ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-63" who="VISAUTROU">
+            <p>
+              <s>Certainement.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-64" who="GILLES">
+            <p>
+              <s>Je ne m’en serais jamais douté.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-65" who="VISAUTROU">
+            <p>
+              <s>Passons à l’index.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-66" who="GILLES">
+            <p>
+              <s>C’est celui-là. </s>
+              <s>Il m’élance furieusement. </s>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Ah !</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-67" who="TAILLEBRAS">
+            <p>
+              <s>Il est très sain.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-68" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Quel bonheur ! </s>
+              <s>Il faut donc que le mal soit au doigt du milieu.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-69" who="VISAUTROU">
+            <p>
+              <s>Le voilà découvert.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-70" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, je vous le disais bien ! </s>
+              <s>Du vin !... </s>
+              <s>Du vinaigre !...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-71" who="TAILLEBRAS">
+            <p>
+              <s>Non, mon ami, il n’y a rien. </s>
+              <s>Nous avons ôté le papier qui le couvrait. </s>
+              <s>Voilà ce que Monsieur Visautrou voulait dire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-72" who="GILLES">
+            <p>
+              <s>Tant mieux. </s>
+              <s>Mais, Messieurs, allez, je vous prie, bien doucement aux deux autres.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-73" who="VISAUTROU">
+            <p>
+              <s>Voilà les cornets ôtés, et ces deux doigts ne sont pas plus maltraités que les trois autres.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-74" who="GILLES">
+            <p>
+              <s>Cela est-il bien vrai, Messieurs ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-75" who="TAILLEBRAS">
+            <p>
+              <s>Très vrai.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-76" who="GILLES">
+            <p>
+              <s>Voyez ce que fait la force de l’imagination.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-77" who="TAILLEBRAS">
+            <p>
+              <s>Monsieur, ce coquin-là se moque de nous et de vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-78" who="LEMAITRE">
+            <p>
+              <s>Je ne le crois pas assez fin pour cela.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-79" who="TAILLEBRAS">
+            <p>
+              <s>À la bonne heure ; mais il faut nous payer.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-80" who="LEMAITRE">
+            <p>
+              <s>Cela est juste. </s>
+              <s>Gilles, sur l’argent qui te reste pour la dépense de la maison, satisfais ces messieurs. </s>
+              <s>Je rentre me préparer pour mon voyage.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-81" who="GILLES">
+            <p>
+              <s>Or çà, Messieurs, combien vous faut-il ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-82" who="TAILLEBRAS">
+            <p>
+              <s>Mais, pour monsieur et pour moi, cela peut valoir quinze francs.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-83" who="GILLES">
+            <p>
+              <s>Quinze francs ! </s>
+              <s>Ma foi, Messieurs, il ne me reste que quinze sols dix-huit deniers. </s>
+              <s>Si cela vous accommode, vous pouvez les partager entre vous deux.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-84" who="VISAUTROU">
+            <p>
+              <s>Quel insolent ! </s>
+              <s>Pour qui nous prends-tu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-85" who="GILLES">
+            <p>
+              <s>Pour des ignorants qui ne savez pas connaître si je suis malade.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-86" who="TAILLEBRAS">
+            <p>
+              <s>Il s’agit de nous satisfaire, sinon...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-87" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>vous n’êtes pas contents ? </s>
+              <s>Eh bien ! </s>
+              <s>Voici la monnaie que j’ai à vous donner.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I03" type="scene" n="3">
+          <head>SCÈNE III. Le Maître, Gilles.<listPerson type="configuration" xml:id="conf3"/></head>
+          <sp xml:id="I03-1" who="LEMAITRE">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Ces messieurs sont-ils payés ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-2" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>Que oui, Monsieur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-3" who="LEMAITRE">
+            <p>
+              <s>Avant de partir pour Corbeil, je me suis ressouvenu que j’avais vingt écus à envoyer à mon procureur. </s>
+              <s>Tu les lui porteras dans cette bourse.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-4" who="GILLES">
+            <p>
+              <s>Oui, Monsieur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-5" who="LEMAITRE">
+            <p>
+              <s>Et voici une bouteille de vin grec, qu’en passant tu remettras à Madamoiselle Ampoüisse.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-6" who="GILLES">
+            <p>
+              <s>Oui, Monsieur. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-7" who="LEMAITRE">
+            <p>
+              <s>Que veux-tu faire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-8" who="GILLES">
+            <p>
+              <s>Je veux voir si c’est du vin grec.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-9" who="LEMAITRE">
+            <p>
+              <s>Et comment le reconnaîtrais-tu ? </s>
+              <s>Tu n’en as jamais bu.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-10" who="GILLES">
+            <p>
+              <s>Non, Monsieur, mais cela est aisé. </s>
+              <s>Si en buvant, il fait grec, grec, grec, c’est du vin grec.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-11" who="LEMAITRE">
+            <p>
+              <s>Fort bien, mais je ne prétends pas que tu satisfasses ta curiosité en cette occasion, et tu peux assurer Madamoiselle Ampoüisse que c’est du véritable vin grec.</s>
+            </p>
+            <p>
+              <s>Ouais ! </s>
+              <s>cette bouteille te tente terriblement. </s>
+              <s>Oh ! </s>
+              <s>Je sais un bon moyen de t’empêcher d’y toucher.</s>
+            </p>
+            <p>
+              <s>Il faut avouer que tu es bien malpropre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-12" who="GILLES">
+            <p>
+              <s>Dame, Monsieur, j’ai oublié mon mouchoir. </s>
+              <s>Je vais le chercher dans la maison.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-13" who="LEMAITRE">
+            <p>
+              <s>Va, et ensuite tu iras exécuter tes commissions. </s>
+              <s>Pour moi, je vais partir pour Corbeil.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I04" type="scene" n="4">
+          <head>SCÈNE IV. Prends-tout, Laisse-rien.<listPerson type="configuration" xml:id="conf4"/></head>
+          <sp xml:id="I04-1" who="PRENDSTOUT">
+            <p>
+              <s>Morbleu ! </s>
+              <s>Camarade, voilà une belle occasion de boire la bouteille de vin grec que Gilles doit porter à Madamoiselle Ampoüisse.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-2" who="LAISSERIEN">
+            <p>
+              <s>Mais comment peux-tu parvenir à la boire, puisque tu as vu, comme moi, que son maître la lui a attachée au derrière ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-3" who="PRENDSTOUT">
+            <p>
+              <s>Voilà qui est bien difficile ! </s>
+              <s>Tu n’as non plus d’idée qu’un enfant. </s>
+              <s>Tiens, mon ami, voici ce qu’il faut faire. </s>
+              <s>Pendant que l’un de nous l’amusera par quelque récit merveilleux auquel il donnera toute son attention, l’autre boira à même la bouteille, et chacun de nous aura son tour.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-4" who="LAISSERIEN">
+            <p>
+              <s>Ventrebleu, tu as raison, je ne suis qu’une bête. </s>
+              <s>Tu as l’invention plus belle que moi. </s>
+              <s>Mais je ne te le cède en rien pour l’exécution.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-5" who="PRENDSTOUT">
+            <p>
+              <s>Nous allons voir. </s>
+              <s>Voici Gilles. </s>
+              <s>Sois sur tes gardes. </s>
+              <s>Je vais commencer.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I05" type="scene" n="5">
+          <head>SCÈNE V. Prends-Tout, Laisse-Rien, Gilles.<listPerson type="configuration" xml:id="conf5"/></head>
+          <sp xml:id="I05-1" who="GILLES">
+            <p>
+              <s>Enfin, voilà le maître parti. </s>
+              <s>Je vais exécuter mes commissions.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-2" who="PRENDSTOUT">
+            <p>
+              <s>Eh, parbleu ! </s>
+              <s>Camarade, je crois voir Gilles Bambinois Cadet L’Aîné.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-3" who="LAISSERIEN">
+            <p>
+              <s>Oui vraiment, c’est lui-même.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-4" who="GILLES">
+            <p>
+              <s>Oui, Messieurs, c’est moi-même ; est-ce que vous me connaissez ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-5" who="PRENDSTOUT">
+            <p>
+              <s>N’es-tu pas fils de cette tripière qui vendait de la chair cuite au Pont-aux-Choux ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-6" who="GILLES">
+            <p>
+              <s>Oui, Messieurs.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-7" who="LAISSERIEN">
+            <p>
+              <s>On disait aussi qu’en chambre elle en fournissait à la Cour.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-8" who="GILLES">
+            <p>
+              <s>Justement, c’est elle-même.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-9" who="PRENDSTOUT">
+            <p>
+              <s>Vous aviez une sœur assez gentille ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-10" who="GILLES">
+            <p>
+              <s>Oui vraiment. </s>
+              <s>Mais si vous me connaissez, moi, je ne vous connais pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-11" who="LAISSERIEN">
+            <p>
+              <s>Nous avons pourtant, Prends-Tout et moi, été à l’école avec toi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-12" who="GILLES">
+            <p>
+              <s>Cela peut être. </s>
+              <s>Mais il y a bien longtemps.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-13" who="PRENDSTOUT">
+            <p>
+              <s>Depuis plus de vingt-cinq ans, mon ami, nous avons voyagé par toute la terre, et nous avons vu des choses si étonnantes que nous ne les pouvons croire nous-mêmes.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-14" who="GILLES">
+            <p>
+              <s>Je serais bien curieux de savoir ces choses-là.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-15" who="PRENDSTOUT">
+            <p>
+              <s>Croirais-tu bien, par exemple, que dans le Monomotapa j’ai vu une souris qui avait fait ses petits dans l’oreille d’un chat ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-16" who="GILLES">
+            <p>
+              <s>Dans l’oreille d’un chat ? </s>
+              <s>Cela est-il possible ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I05-17" who="LAISSERIEN">
+            <p>
+              <s>Dans le pays des Chinois...</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-18" who="GILLES">
+            <p>
+              <s>Les cerneaux sont à bon marché dans ce pays-là.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-19" who="LAISSERIEN">
+            <p>
+              <s>Pourquoi, mon ami ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-20" who="GILLES">
+            <p>
+              <s>Eh ! </s>
+              <s>Parguenne, s’ils font des noix si aisément, quand ils ont le ventre libre ils font des cerneaux.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-21" who="LAISSERIEN">
+            <p>
+              <s>Oh ! </s>
+              <s>le plaisant corps ! </s>
+              <s>Le pays des Chinois, mon ami, c’est la Chine. </s>
+              <s>Dans ce lieu, j’ai vu pendre un homme pour avoir, dans un four chaud, fait durcir des pelotes de neige qu’il vendait pour du sel.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-22" who="GILLES">
+            <p>
+              <s>Houlas ! </s>
+              <s>Ils sont donc bien sévères, dans ce pays-là? </s>
+            </p>
+          </sp>
+          <sp xml:id="I05-23" who="PRENDSTOUT">
+            <p>
+              <s>Dans la Norvège, j’ai vu une rivière dont les eaux sont si chaudes que l’on y pêche des brochets au court-bouillon, des tanches à l’étuvée et des carpes frites.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-24" who="GILLES">
+            <p>
+              <s>Cela est-il croyable ? </s>
+              <s>Houlas ! </s>
+            </p>
+          </sp>
+          <sp xml:id="I05-25" who="LAISSERIEN">
+            <p>
+              <s>En passant par la Suisse, j’ai vu un homme sans bras qui tenait son cul à deux mains.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-26" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Celui-là est original. </s>
+            </p>
+          </sp>
+          <sp xml:id="I05-27" who="PRENDSTOUT">
+            <p>
+              <s>Ce n’est rien que cela. </s>
+              <s>J’ai vu à Durtal quelque chose de bien plus curieux quand j’y passai. </s>
+              <s>Il y avait un serrurier qui avait trouvé le secret de faire des servantes d’acier, lesquelles, par le moyen de ressorts très souples, obéissaient à tout ce qu’on leur commandait.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-28" who="GILLES">
+            <p>
+              <s>Cela est des plus merveilleux. </s>
+              <s>Mais la rouille ne s’y mettait-elle pas ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-29" who="PRENDSTOUT">
+            <p>
+              <s>Non, mon ami, pourvu qu’on eût le soin de les fourbir deux fois la semaine.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-30" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>Parguenne ! </s>
+              <s>Si j’en avais eu une, elle n’aurait pas couru risque de s’enrouiller. </s>
+              <s>Des servantes d’acier! </s>
+              <s>Houlas ! </s>
+            </p>
+          </sp>
+          <sp xml:id="I05-31" who="LAISSERIEN">
+            <p>
+              <s>J’ai fait trois mille lieues à pied avec la même paire de souliers sans que la semelle fût usée.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-32" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>Le gros fin ! </s>
+              <s>Tu portais tes souliers dans tes mains ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-33" who="LAISSERIEN">
+            <p>
+              <s>Non, mon ami, c’est que la semelle de ces souliers était faite de langues de femmes. </s>
+              <s>Cela ne s’use jamais.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-34" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>Oh ! </s>
+              <s>Cela est plaisant. </s>
+            </p>
+          </sp>
+          <sp xml:id="I05-35" who="PRENDSTOUT">
+            <p>
+              <s>Dans le pays du roi des Mèdes...</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-36" who="GILLES">
+            <p>
+              <s>Il y a donc bien des gadoues dans ce pays-là, puisque c’est le roi des Merdes ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-37" who="PRENDSTOUT">
+            <p>
+              <s>Fi ! </s>
+              <s>Le vilain ! </s>
+              <s>Je te dis roi des Mèdes, animal ! </s>
+              <s>Dans ce pays, toutes les filles, dès l’âge de douze ans, s’amusent avec une flûte d’Arabie qui n’a qu’un trou et dont elles jouent sans remuer les doigts.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-38" who="GILLES">
+            <p>
+              <s>Qu’est-ce donc qu’elles remuent ? </s>
+              <s>Oh ! </s>
+              <s>Morguenne, voilà un drôle de corps. </s>
+            </p>
+          </sp>
+          <sp xml:id="I05-39" who="PRENDSTOUT">
+            <p>
+              <s>Nous ne t’avons pas menti d’un seul mot dans la moindre chose.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-40" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>je vous crois, Messieurs, tout cela est bel et bon. </s>
+              <s>Mais quelque plaisir que j’aie à retrouver d’aussi anciens camarades, il faut que je vous quitte pour porter cette bouteille de vin grec à son adresse. </s>
+              <s>Adieu, mes amis, nous nous reverrons.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-41" who="PRENDSTOUT">
+            <p>
+              <s>Adieu, camarade.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-42" who="LAISSERIEN">
+            <p>
+              <s>Adieu, à revoir.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I06" type="scene" n="6">
+          <head>SCÈNE VI. Gilles, Le Maître.<listPerson type="configuration" xml:id="conf6"/></head>
+          <sp xml:id="I06-1" who="LEMAITRE">
+            <p>
+              <s>Il faut avouer que je suis heureux. </s>
+              <s>Au moment que j’allais entrer dans le bateau, j’ai rencontré celui qui me devoit de l’argent. </s>
+              <s>Il m’a payé et nous avons été boire bouteille ensemble. </s>
+              <s>Mais n’aperçois-je point mon valet Gilles ? </s>
+              <s>C’est lui-même. </s>
+              <s>Apparemment qu’il arrive de chez Madamoiselle Ampoüisse. </s>
+              <s>Eh bien, comment se porte-t-elle?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-2" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, vous voilà de retour ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-3" who="LEMAITRE">
+            <p>
+              <s>Oui. </s>
+              <s>Je ne vais pas en campagne. </s>
+              <s>Eh bien ! </s>
+              <s>Que dit-on de ma bouteille ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-4" who="GILLES">
+            <p>
+              <s>De votre bouteille ? </s>
+              <s>Elle est encore en place. </s>
+              <s>Je n’y ai pas touché au moins.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-5" who="LEMAITRE">
+            <p>
+              <s>Et pourquoi ne l’as-tu pas portée ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-6" who="GILLES">
+            <p>
+              <s>J’y allais lorsque deux de mes camarades d’école sont arrivés ici d’un grand voyage qui a duré vingt-cinq ans. </s>
+              <s>Ils m’ont raconté des choses si surprenantes que j’en suis encore tout confus et tout étonné.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-7" who="LEMAITRE">
+            <p>
+              <s>Je gagerais presque que ce sont quelques fripons qui se sont moqués de toi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-8" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>Que non, Monsieur, ce sont d’honnêtes gens. </s>
+              <s>Ils s’appellent, l’un Prends-Tout et l’autre Laisse-Rien.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-9" who="LEMAITRE">
+            <p>
+              <s>Voilà deux noms bien suspects. </s>
+              <s>Cela sent diablement les filous. </s>
+              <s>Voyons un peu ma bouteille... </s>
+              <s>Il n’y a plus rien dedans !</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-10" who="GILLES">
+            <p>
+              <s>Il n’y a plus de vin grec ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-11" who="LEMAITRE">
+            <p>
+              <s>Non vraiment.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-12" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Parbleu, Monsieur, le tour est drôle. </s>
+              <s>Apparemment qu’ils l’ont bu l’un après l’autre à mon derrière, car je n’en voyais jamais qu’un à la fois ; je ne m’en doutais pas. </s>
+              <s>Mais, morguenne, ils ont fait bien des culbutes pour en venir à bout. </s>
+              <s>Je ne sais pas comment ils ne se sont pas cassé le nez.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-13" who="LEMAITRE">
+            <p>
+              <s>Et moi, je ne sais à quoi il tient, maraud, que je ne te casse la tête pour ta butorderie.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-14" who="GILLES">
+            <p>
+              <s>Morguenne ! </s>
+              <s>Je ne pouvais pas deviner leur friponnerie. </s>
+              <s>C’est vous qui êtes une bête de m’avoir attaché cette bouteille au cul.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-15" who="LEMAITRE">
+            <p>
+              <s>Je vous apprendrai à parler, maraud.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-16" who="GILLES">
+            <p>
+              <s>Monsieur, prenez garde à ce que vous allez faire ; si une fois la moutarde me monte au nez...</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-17" who="LEMAITRE">
+            <p>
+              <s>Comment, insolent, tu oses menacer ton maître ! </s>
+              <s>Il faut que je te passe mon épée à travers le corps.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-18" who="GILLES">
+            <p>
+              <s>Doucement, Monsieur, j’ai auparavant une petite question à vous faire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-19" who="LEMAITRE">
+            <p>
+              <s>Quelle est-elle ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-20" who="GILLES">
+            <p>
+              <s>Deux hommes veulent se battre l’épée à la main ; le pied glisse à l’un des deux ; il tombe par terre. </s>
+              <s>L’autre peut-il profiter de sa chute et le maltraiter ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-21" who="LEMAITRE">
+            <p>
+              <s>Non. </s>
+              <s>Le point d’honneur veut que celui qui est debout attende que l’autre soit relevé.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-22" who="GILLES">
+            <p>
+              <s>Le point d’honneur veut cela absolument ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-23" who="LEMAITRE">
+            <p>
+              <s>Très absolument ! </s>
+              <s>On se déshonorerait de faire autrement.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-24" who="GILLES">
+            <p>
+              <s>Nous allons bientôt voir si tu dis vrai.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-25" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Maraud, je vais t’abattre la tête.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-26" who="GILLES">
+            <p>
+              <s>Le point d’honneur !</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-27" who="LEMAITRE">
+            <p>
+              <s>Lève-toi, coquin!</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-28" who="GILLES">
+            <p>
+              <s>Quel sot !</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-29" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Misérable ! </s>
+              <s>L’insulte est trop grande.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-30" who="GILLES">
+            <p>
+              <s>Le point d’honneur ! </s>
+              <s>Tu vas te déshonorer.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-31" who="LEMAITRE">
+            <p>
+              <s>Voilà un maître faquin !... </s>
+              <s>Et ma bourse, à quoi je ne pensais plus, qu’est-elle devenue ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-32" who="GILLES">
+            <p>
+              <s>Ta bourse, elle est avec l’argent.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-33" who="LEMAITRE">
+            <p>
+              <s>Et l’argent ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-34" who="GILLES">
+            <p>
+              <s>Avec la bourse.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-35" who="LEMAITRE">
+            <p>
+              <s>Mais la bourse et l’argent ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-36" who="GILLES">
+            <p>
+              <s>Ils sont ensemble.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-37" who="LEMAITRE">
+            <p>
+              <s>Oh ! </s>
+              <s>Il faut que je perce ce scélérat.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-38" who="GILLES">
+            <p>
+              <s>Doucement ! </s>
+              <s>Le point d’honneur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-39" who="LEMAITRE">
+            <p>
+              <s>Ces fripons te l’auront aussi escamotée.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-40" who="GILLES">
+            <p>
+              <s>Cela peut être. </s>
+              <s>Voyons. </s>
+              <s>Non... </s>
+              <s>La voilà !</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-41" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Du moins, j’en suis quitte pour ma bouteille. </s>
+              <s>Et, parbleu ! </s>
+              <s>Je ne chargerai pas un sot de la bourse. </s>
+              <s>Quoiqu’il commence à faire nuit, je la porterai moi-même, et je veux bien que l’on m’étrille si l’on me l’attrape. </s>
+              <s>Rentre au logis, coquin ; rentre, et ne parais pas devant moi que ma colère ne soit passée.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-42" who="GILLES">
+            <p>
+              <s>J’en suis quitte à bon marché.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I07" type="scene" n="7">
+          <head>SCÈNE VII. Le Maître, Prends-Tout.<listPerson type="configuration" xml:id="conf7"/></head>
+          <sp xml:id="I07-1" who="PRENDSTOUT">
+            <p>
+              <s>Nous verrons tout à l’heure si tu es plus fin que ton valet.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-2" who="LEMAITRE">
+            <p>
+              <s>Je vais du même pas chez mon procureur. </s>
+              <s>Il n’y a pas loin d’ici.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-3" who="PRENDSTOUT">
+            <p>
+              <s>Monsieur, ayez pitié de moi !</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-4" who="LEMAITRE">
+            <p>
+              <s>Qu’as-tu, mon enfant ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-5" who="PRENDSTOUT">
+            <p>
+              <s>Mon père veut m’assommer, Monsieur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-6" who="LEMAITRE">
+            <p>
+              <s>Ton père ? </s>
+              <s>Et qui est-il ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-7" who="PRENDSTOUT">
+            <p>
+              <s>C’est Monsieur Guillaume, Monsieur, le savetier du coin. </s>
+              <s>Et moi, Monsieur, je suis le petit Jacquot, son fils.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-8" who="LEMAITRE">
+            <p>
+              <s>Et qu’as-tu fait à ton père ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-9" who="PRENDSTOUT">
+            <p>
+              <s>Hélas ! </s>
+              <s>Rien, Monsieur ; parce que j’ai été jouer à la fossette avec des petits garçons comme moi. </s>
+              <s>Ah ! </s>
+              <s>Monsieur, le voilà, le voilà !</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-10" who="LEMAITRE">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Je vais lui parler.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-11" who="PRENDSTOUT">
+            <p>
+              <s>Je vous en prie, Monsieur, soyez mon protecteur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-12" who="LEMAITRE">
+            <p>
+              <s>Laisse-moi faire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-13" who="PRENDSTOUT">
+            <p>
+              <s>Si j’attrape ce petit fripon, je l’assommerai du coup.</s>
+            </p>
+            <p>
+              <s>Vous l’entendez, Monsieur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-14" who="LEMAITRE">
+            <p>
+              <s>Oui, oui, cache-toi derrière moi. </s>
+              <s>Eh bien ! </s>
+              <s>Qu’est-ce, Monsieur Guillaume ? </s>
+              <s>Vous voilà bien en colère.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-15" who="PRENDSTOUT">
+            <p>
+              <s>Oui, Monsieur, j’ai un petit coquin de fils qui depuis huit jours fait l’école buissonnière.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-16" who="LEMAITRE">
+            <p>
+              <s>Tu ne m’avais pas dit cela.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-17" who="PRENDSTOUT">
+            <p>
+              <s>Cela est vrai, Monsieur ; ce sont mes camarades qui refont débauché.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-18" who="LEMAITRE">
+            <p>
+              <s>Tu es un petit libertin.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-19" who="PRENDSTOUT">
+            <p>
+              <s>Je crois, Monsieur, entrevoir ce petit gueux à côté de vous. </s>
+              <s>Ah ! </s>
+              <s>Vous allez voir comme je vais l’étriller.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-20" who="LEMAITRE">
+            <p>
+              <s>Prenez donc garde à ce que vous faites.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-21" who="PRENDSTOUT">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, je n’en puis plus ; je suis mort. </s>
+              <s>Mon père frappe comme un sourd.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-22" who="LEMAITRE">
+            <p>
+              <s>La correction est un peu violente. </s>
+              <s>Eh bien ! </s>
+              <s>À présent, Monsieur Guillaume, il faut lui pardonner.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-23" who="PRENDSTOUT">
+            <p>
+              <s>Lui pardonner, Monsieur, à un petit fripon qui me vole ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-24" who="LEMAITRE">
+            <p>
+              <s>Qui vous vole ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-25" who="PRENDSTOUT">
+            <p>
+              <s>Oui, Monsieur, qui me vole pour aller voir la fille.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-26" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Le petit pendard !</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-27" who="PRENDSTOUT">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, je vous demande excuse. </s>
+              <s>Mon père a menti.</s>
+            </p>
+            <p>
+              <s>Vous l’entendez, Monsieur ? </s>
+              <s>Comment, coquin, j’ai menti ! </s>
+              <s>Ah ! </s>
+              <s>Vous en aurez.</s>
+            </p>
+            <p>
+              <s>Ahi ! </s>
+              <s>Ahi ! </s>
+              <s>Ahi ! </s>
+              <s>Ah ! </s>
+              <s>Monsieur, je suis brisé de coups.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-28" who="LEMAITRE">
+            <p>
+              <s>Tu le mérites bien. </s>
+              <s>Mais, Monsieur Guillaume, prenez un peu garde comme vous frappez. </s>
+              <s>Il y a une partie des coups qui tombent sur moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-29" who="PRENDSTOUT">
+            <p>
+              <s>Je vous en demande pardon, Monsieur, c’est la fureur qui me transporte. </s>
+              <s>Mais aussi un petit voleur qui va voir la fille !... </s>
+              <s>Ah ! </s>
+              <s>Je vous apprendrai, coquin !...</s>
+            </p>
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, je n’ai pas volé mon père. </s>
+              <s>J’ai trouvé par terre, dans la poche de sa culotte, trente-six sols.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-30" who="LEMAITRE">
+            <p>
+              <s>Par terre, dans sa poche ? </s>
+              <s>Cela ne vaut rien. </s>
+              <s>Et tu as été voir la fille avec cet argent ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-31" who="PRENDSTOUT">
+            <p>
+              <s>Non, Monsieur, je vous assure. </s>
+              <s>Mon père se moque, je n’ai que douze ans.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-32" who="LEMAITRE">
+            <p>
+              <s>Mais aussi, Monsieur Guillaume, vous n’y pensez pas de dire que votre fils va voir la fille. </s>
+              <s>Il n’a que douze ans !</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-33" who="PRENDSTOUT">
+            <p>
+              <s>Qu’est-ce que cela fait, Monsieur ? </s>
+              <s>Je la voyais bien à dix, moi qui vous parle.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-34" who="LEMAITRE">
+            <p>
+              <s>Oh ! </s>
+              <s>Cela étant, il chasse de race. </s>
+              <s>Mais en voilà assez, vous l’avez suffisamment maltraité.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-35" who="PRENDSTOUT">
+            <p>
+              <s>Ah ! </s>
+              <s>Que non, Monsieur, je lui en donnerai bien davantage. </s>
+            </p>
+            <p>
+              <s>Ah ! </s>
+              <s>Pardon, mon papa, mon petit papa. </s>
+            </p>
+            <p>
+              <s>Point de pardon. </s>
+              <s>Je veux qu’il expire sous le bâton. </s>
+            </p>
+            <p>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Je n’en puis plus, j’ai la tête cassée. </s>
+              <s>Ah ! </s>
+              <s>Je suis mort.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-36" who="LEMAITRE">
+            <p>
+              <s>Que diable ! </s>
+              <s>Éloigne-toi donc de moi. </s>
+              <s>Je reçois plus de coups que toi !</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-37" who="PRENDSTOUT">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, je vous en fais excuse. </s>
+            </p>
+            <p>
+              <s>Monsieur, amusez mon père pendant que je m’enfuirai. </s>
+            </p>
+            <p>
+              <s>Avant que tu t’enfuisses, je prétends t’estropier et te rendre cul-de-jatte. </s>
+            </p>
+          </sp>
+          <sp xml:id="I07-38" who="LEMAITRE">
+            <p>
+              <s>Peste soit du brutal ! </s>
+              <s>Je suis brisé de coups et je n’aurai jamais la force d’aller porter mon argent chez mon procureur. </s>
+              <s>Mais, ciel ! </s>
+              <s>On m’a pris ma bourse... </s>
+              <s>Au voleur ! </s>
+              <s>Au voleur !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I08" type="scene" n="8">
+          <head>SCÈNE VIII. Le Maître, Gilles.<listPerson type="configuration" xml:id="conf8"/></head>
+          <sp xml:id="I08-1" who="GILLES">
+            <p>
+              <s>Que diantre, voilà bien du tapage !</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-2" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Gilles, je suis au désespoir ! </s>
+              <s>On m’a roué de coups et on m’a volé ma bourse.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-3" who="GILLES">
+            <p>
+              <s>Comment ? </s>
+              <s>Ce sont donc des assassins ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-4" who="LEMAITRE">
+            <p>
+              <s>Non ! </s>
+              <s>Il faut que ce soit ce petit fripon de Jacquot qui m’ait fait ce tour.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-5" who="GILLES">
+            <p>
+              <s>Qu’est-ce que ce petit Jacquot ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-6" who="LEMAITRE">
+            <p>
+              <s>Un petit garçon que son père vient de bien rosser. </s>
+              <s>C’est le fils de Monsieur Guillaume. </s>
+              <s>Je me suis mal à propos mêlé dans leur querelle, et ce petit coquin, en m’embrassant la cuisse, m’aura sans doute volé ma bourse, que j’avais mise dans cette poche-là.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-7" who="GILLES">
+            <p>
+              <s>Cela est-il bien possible ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-8" who="LEMAITRE">
+            <p>
+              <s>Oh ! </s>
+              <s>Cela n’est que trop sûr. </s>
+              <s>Il n’y a que ce petit fripon qui m’ait abordé depuis que tu es rentré dans la maison.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-9" who="GILLES">
+            <p>
+              <s>Monsieur, avec votre permission, que je vous ôte votre épée. </s>
+              <s>Elle ne fait que vous embarrasser.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-10" who="LEMAITRE">
+            <p>
+              <s>Tiens, la voilà ! </s>
+            </p>
+          </sp>
+          <sp xml:id="I08-11" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>vous vous laissez voler votre bourse, et vous m’avez battu pour avoir laissé boire à mon cul une méchante bouteille de vin grec. </s>
+              <s>Vous en aurez tout votre sou.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-12" who="LEMAITRE">
+            <p>
+              <s>Comment, scélérat ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-13" who="GILLES">
+            <p>
+              <s>N’avez-vous pas dit tantôt : «Je veux bien que l’on m’étrille si l’on me prend cette bourse» ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I08-14" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Misérable ! </s>
+              <s>À ton maître ? </s>
+              <s>Coquin ! </s>
+              <s>Si tu ne m’avais pas ôté mon épée !</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-15" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>Je n’ai eu garde de me fier au point d’honneur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-16" who="LEMAITRE">
+            <p>
+              <s>Sors de ma maison, infâme !</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-17" who="GILLES">
+            <p>
+              <s>Très volontiers. </s>
+              <s>Je ne me soucie guère de servir un pareil maître.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-18" who="LEMAITRE">
+            <p>
+              <s>Oh ! </s>
+              <s>Je n’en puis plus. </s>
+              <s>Je suis moulu de coups. </s>
+              <s>Je vais me mettre au lit. </s>
+              <s>Qu’on aille me chercher un chirurgien !</s>
+            </p>
+          </sp>
+        </div2>
+      </div1>
+      <div1 xml:id="II" type="act" n="2">
+        <head>ACTE II</head>
+        <div2 xml:id="II01" type="scene" n="1">
+          <head>SCÈNE I.<listPerson type="configuration" xml:id="conf10"/></head>
+          <sp xml:id="II01-1" who="GILLES">
+            <p>
+              <s>Il faut avouer que je joue de malheur. </s>
+              <s>Mon maître m’assomme parce que je laisse boire son vin à mon derrière, et il a l’esprit assez mal fait pour se fâcher quand je lui donne quelques coups de bâton pour s’être laissé voler sa bourse. </s>
+              <s>Il fait plus, il me chasse de la maison. </s>
+              <s>Après tout, je m’en bats les fesses. </s>
+              <s>Jusqu’à ce que j’aie trouvé une autre condition, je vais me retirer chez ma femme. </s>
+              <s>Nous ne sommes pas cependant trop bien ensemble. </s>
+              <s>Eh bien ! </s>
+              <s>Je prendrai avec elle un ton caressant.</s>
+            </p>
+            <p>
+              <s>Gillette ! </s>
+              <s>Gillette !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II02" type="scene" n="2">
+          <head>SCÈNE II. Gilles, Gillette.<listPerson type="configuration" xml:id="conf11"/></head>
+          <sp xml:id="II02-1" who="GILLETTE">
+            <p>
+              <s>Qui est le butor qui frappe ainsi ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-2" who="GILLES">
+            <p>
+              <s>C’est moi, Gillette.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-3" who="GILLETTE">
+            <p>
+              <s>Qui, toi ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-4" who="GILLES">
+            <p>
+              <s>Et, parbleu ! </s>
+              <s>C’est Gilles, le mari de Mme Gillette.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-5" who="GILLETTE">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Attends, je ne saurais t’ouvrir à présent.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-6" who="GILLES">
+            <p>
+              <s>Pourquoi donc ? </s>
+              <s>Qu’est-ce qui t’en empêche ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-7" who="GILLETTE">
+            <p>
+              <s>C’est que je suis en voyage.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-8" who="GILLES">
+            <p>
+              <s>Comment, en voyage ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-9" who="GILLETTE">
+            <p>
+              <s>Oui, je suis actuellement dans l’île de Chio.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-10" who="GILLES">
+            <p>
+              <s>Ma foi, je crois qu’elle dit vrai, cela ne sent pas trop bon.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-11" who="GILLETTE">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Me voilà ; que me veux-tu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-12" who="GILLES">
+            <p>
+              <s>Bonjour, ma petite femme ; viens çà que je te baise.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-13" who="GILLETTE">
+            <p>
+              <s>Ah ! </s>
+              <s>Le vilain ! </s>
+              <s>Comme il pue le vin !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-14" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>Mon trognon, tu ne t’y connais pas. </s>
+              <s>Je n’ai bu d’aujourd’hui que de l’eau-de-vie.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-15" who="GILLETTE">
+            <p>
+              <s>Chien d’ivrogne ! </s>
+              <s>Voilà à quoi tu employés tous tes gages. </s>
+              <s>Va, va, je prierai Monsieur de Parlaventrebleu de ne pas te donner dorénavant un sol.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-16" who="GILLES">
+            <p>
+              <s>Cela serait inutile, ma petite femme ; nous ne demeurons plus ensemble.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-17" who="GILLETTE">
+            <p>
+              <s>Tu n’es plus à son service ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-18" who="GILLES">
+            <p>
+              <s>Non, je lui ai donné son congé avec quelques coups de bâton par-dessus le marché.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-19" who="GILLETTE">
+            <p>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Je ne m’étonne plus si tu fais tant le chien couchant.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-20" who="GILLES">
+            <p>
+              <s>Ma foi, Gillette, tu te trompes. </s>
+              <s>Si je te caresse, c’est que je t’aime, et tu sais bien que nous ne nous brouillons jamais ensemble que pour ta malpropreté. </s>
+              <s>Je ne trouve jamais ton ménage bien rangé.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-21" who="GILLETTE">
+            <p>
+              <s>Pardienne, tu es bien plaisant. </s>
+              <s>Si tu ne le trouves pas bien, viens le faire toi-même.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-22" who="GILLES">
+            <p>
+              <s>Mais ce n’est pas l’affaire d’un homme.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-23" who="GILLETTE">
+            <p>
+              <s>Ne voilà t’il pas un plaisant galeux pour tant faire le monsieur ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-24" who="GILLES">
+            <p>
+              <s>Doucement, Gillette. </s>
+              <s>Je suis un peu brutal, comme vous savez, et je pourrais bien appliquer sur ta face une giroflée à cinq feuilles qui te changerait la physionomie.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-25" who="GILLETTE">
+            <p>
+              <s>Jour de Dieu ! </s>
+              <s>Tu n’es pas assez hardi pour cela. </s>
+              <s>Je t’arracherais les yeux.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-26" who="GILLES">
+            <p>
+              <s>Tais-toi, tais-toi. </s>
+              <s>Tu n’es qu’une bavarde.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-27" who="GILLETTE">
+            <p>
+              <s>Je babille moins que toi, si ce n’est quelquefois avec nos voisines.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-28" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Oui, oui, avec nos voisines. </s>
+              <s>Dis plutôt avec un certain voisin qui te... </s>
+              <s>Baste !... </s>
+              <s>Que je t’y attrape, je l’étrillerai en chien courant.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-29" who="GILLETTE">
+            <p>
+              <s>Aïe ! </s>
+              <s>Aïe ! </s>
+              <s>Il faut filer doux. </s>
+              <s>Va, tu ne sais ce que tu dis. </s>
+              <s>Je le répète, tu n’es qu’un bavard.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-30" who="GILLES">
+            <p>
+              <s>C’est toi qui n’es qu’une babillarde éternelle.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-31" who="GILLETTE">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Veux-tu faire un marché nous deux ? </s>
+              <s>Tiens, pour te faire voir que je parle moins que toi, celui de nous qui parlera le premier fera le ménage.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-32" who="GILLES">
+            <p>
+              <s>Je le veux bien. </s>
+              <s>Oh ! </s>
+              <s>Parbleu ! </s>
+              <s>Je suis bien sûr que ce sera toi qui le feras.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-33" who="GILLETTE">
+            <p>
+              <s>Nous allons voir. </s>
+              <s>Mais écoute, Gilles, nous pouvons du moins nous expliquer par signes.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-34" who="GILLES">
+            <p>
+              <s>Soit ! </s>
+              <s>Par signes ! </s>
+              <s>Et combien de temps garderons-nous le silence ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-35" who="GILLETTE">
+            <p>
+              <s>Autant que tu le voudras.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-36" who="GILLES">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Une heure.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-37" who="GILLETTE">
+            <p>
+              <s>Va ! </s>
+              <s>Une heure. </s>
+              <s>C’est pour en mourir, cependant ! </s>
+              <s>Mais, n’importe !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II03" type="scene" n="3">
+          <head>SCÈNE III. Gilles, Gillette, Un Suisse, à moitié ivre.<listPerson type="configuration" xml:id="conf12"/></head>
+          <sp xml:id="II03-1" who="LESUISSE">
+            <p>
+              <s>Ponne chour, ma petit cuir. </s>
+              <s>Li fouloir que je li estre à toy, la petite pouchonne.</s>
+            </p>
+            <p>
+              <s>Toi rire, ti moi ? </s>
+              <s>fisache di piastre ! </s>
+              <s>Moi tonnir à toi une ponne soufflet à ta physonomie. </s>
+            </p>
+            <p>
+              <s>Ah ! </s>
+              <s>Toi li être ponne garçonne.</s>
+            </p>
+            <p>
+              <s>Toi li être par mon foy joulie. </s>
+              <s>Ta fisache li estre sans façonnement. </s>
+              <s>Li être pas comme la tisache de sti damoiselles di Paris. </s>
+              <s>Moi li être content peaucoup plus que grandement di faire avec toi un petit l’épousement pour mon vie.</s>
+            </p>
+            <p>
+              <s>Moi craindre pas le cocuage, vouloir encore pousser sti fille.</s>
+            </p>
+            <p>
+              <s>Toi li être, par mon foi, la plus pelle meilleure himeur du monde. </s>
+              <s>Toi li dire à moi un petite touceur.</s>
+            </p>
+            <p>
+              <s>Ponne pour moi, un femme muette. </s>
+              <s>Quand moi revenir à ma logement, je la trouvir touce comme un moutonne. </s>
+              <s>Fienne donc toi avec moi, ma petit cuir.</s>
+            </p>
+            <p>
+              <s>Par mon foi, moi tonnir à toi un soufflet sur ton face ! </s>
+              <s>Va trouvir un petit ménage qui aura la même ressemplement. </s>
+              <s>Ponne chour, camerate.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-2" who="GILLETTE">
+            <p>
+              <s>Au secours, Gilles... </s>
+              <s>Gilles, à moi !</s>
+            </p>
+            <p>
+              <s>Gilles... </s>
+              <s>Gilles...</s>
+            </p>
+            <p>
+              <s>Ah ! </s>
+              <s>vilain coquin ! </s>
+              <s>Il faut que tu sois bien lâche pour souffrir que l’on me traite ainsi !</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-3" who="GILLES">
+            <p>
+              <s>Tu as parlé la première. </s>
+              <s>Tu feras le ménage.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-4" who="GILLETTE">
+            <p>
+              <s>Vilain gueux ! </s>
+              <s>Vilain ivrogne !</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-5" who="GILLES">
+            <p>
+              <s>Tu feras le ménage.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-6" who="GILLETTE">
+            <p>
+              <s>Sac à vin ! </s>
+              <s>Infâme !</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-7" who="GILLES">
+            <p>
+              <s>Tu feras le ménage.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-8" who="GILLETTE">
+            <p>
+              <s>Puisque ce vilain marsouin est si bête, je vais me venger de lui en le faisant lui-même porteur d’une lettre pour Monsieur Olibrius, mon amant. </s>
+            </p>
+            <p>
+              <s>Ne songeons plus à ce misérable-là. </s>
+              <s>Voici une lettre que Monsieur Stirlik-Berlik m’a chargée de faire remettre à notre voisin, Monsieur Olibrius. </s>
+              <s>Il m’a dit qu’il y aurait un écu à gagner pour cette commission. </s>
+              <s>J’en aurais chargé cet indigne, mais je vais la porter moi-même.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-9" who="GILLES">
+            <p>
+              <s>Un écu pour le porteur de cette lettre ? </s>
+              <s>Ah ! </s>
+              <s>Voyez donc comme elle la rendra ! </s>
+              <s>Va ! </s>
+              <s>Va ! </s>
+              <s>Je la porterai aussi bien que toi.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-10" who="GILLETTE">
+            <p>
+              <s>Oh ! </s>
+              <s>Que non.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-11" who="GILLES">
+            <p>
+              <s>Rentre seulement dans la maison et point de bruit.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-12" who="GILLETTE">
+            <p>
+              <s>Voyez ce bélître qui m’empêche encore de gagner un écu. </s>
+              <s>Je rentre seulement pour me recoiffer ; mais nous nous reverrons.</s>
+            </p>
+            <p>
+              <s>Oh ! </s>
+              <s>L’animal ! </s>
+              <s>Oh ! </s>
+              <s>Le cheval !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II04" type="scene" n="5">
+          <head>SCÈNE IV. Gilles, Monsieur Olibrius.<listPerson type="configuration" xml:id="conf13"/></head>
+          <sp xml:id="II04-1" who="GILLES">
+            <p>
+              <s>Toc ! </s>
+              <s>Toc ! </s>
+              <s>Holà ! </s>
+              <s>Quelqu’un.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-2" who="OLIBRIUS">
+            <p>
+              <s>Qui est-ce qui heurte donc ainsi ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-3" who="GILLES">
+            <p>
+              <s>C’est moi, Monsieur. </s>
+              <s>Il faut commencer par me donner un écu pour le port.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-4" who="OLIBRIUS">
+            <p>
+              <s>Eh ! </s>
+              <s>Je crois que c’est Monsieur Gilles, mon voisin. </s>
+              <s>Et pour le port de quoi demandez-vous un écu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-5" who="GILLES">
+            <p>
+              <s>Pour le port de cette lettre. </s>
+              <s>Ma femme m’a dit qu’il y avait autant à gagner.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-6" who="OLIBRIUS">
+            <p>
+              <s>Il faut que ce soit quelque tour d’adresse de Madamoiselle Gillette, pour me faire tenir un billet. </s>
+            </p>
+            <p>
+              <s>Mais, mon ami, faut-il encore que je sache de quoi il s’agit et de quelle part vient cette lettre.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-7" who="GILLES">
+            <p>
+              <s>De la part de Monsieur Stirlik-Berlik.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-8" who="OLIBRIUS">
+            <p>
+              <s>Je ne me trompe pas. </s>
+              <s>C’est une tromperie de ma maîtresse. </s>
+            </p>
+            <p di="10">
+              <s>Mon voisin, quand j’aurai lu la lettre, tu auras l’écu, si la lettre le dit.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-9" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Bon, cela.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-10" who="OLIBRIUS">
+            <p>
+              <s>Vous êtes bien curieux, mon ami.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-11" who="GILLES">
+            <p>
+              <s>Monsieur, outre l’écu promis, j’ai encore des raisons pour savoir ce que contient cette lettre.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-12" who="OLIBRIUS">
+            <p>
+              <s>Je vais lui jouer d’un tour à quoi il ne s’attend pas. </s>
+            </p>
+            <p>
+              <s>Eh bien ! </s>
+              <s>mon voisin, il faut vous satisfaire. </s>
+            </p>
+            <p>
+              <s>« Monsieur, vous m’avez offensé dans l’honneur, et je veux vous voir l’épée à la main. </s>
+              <s>Mais, comme j’ai pris médecine aujourd’hui et que je ne puis me battre, ce sera, s’il vous plaît, contre le porteur que vous aurez à faire.»</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-13" who="GILLES">
+            <p>
+              <s>Contre le porteur ? </s>
+              <s>Cet homme est fou. </s>
+              <s>À propos de quoi me battre, moi ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-14" who="OLIBRIUS">
+            <p>
+              <s>Attendez, mon ami. </s>
+            </p>
+            <p>
+              <s>« C’est un brave garçon ! </s>
+              <s>Cependant, comme il est journalier, s’il refusait de mesurer son épée contre la vôtre...»</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-15" who="GILLES">
+            <p>
+              <s>Il ne faut pas être bien brave pour mesurer deux épées et voir quelle est la plus longue.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-16" who="OLIBRIUS">
+            <p>
+              <s>« Avec une douzaine de coups de bâton vous viendrez à bout d’échauffer sa bile. </s>
+              <s>En cas que vous ne soyez pas content de son procédé, vous pouvez l’assommer ou lui couper la tête. </s>
+              <s>Je prends le tout sur mon compte et suis votre ennemi.» </s>
+              <s>«Stirlik-Berlik.»</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-17" who="GILLES">
+            <p>
+              <s>Qu’est-ce que cela veut dire ? </s>
+              <s>Il ne parle pas de me donner un écu.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-18" who="OLIBRIUS">
+            <p>
+              <s>Au contraire, mon ami, tu l’as entendu, il faut te battre contre moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-19" who="GILLES">
+            <p>
+              <s>Mais je ne connais pas Stirlik-Berlik, et je ne vous ai jamais offensé.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-20" who="OLIBRIUS">
+            <p>
+              <s>N’es-tu pas porteur de cette lettre ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-21" who="GILLES">
+            <p>
+              <s>Oui ! </s>
+              <s>Qu’est-ce que cela fait ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-22" who="OLIBRIUS">
+            <p>
+              <s>Qu’est-ce que cela fait ? </s>
+              <s>Tu vas le voir. </s>
+              <s>Allons, morbleu ! </s>
+              <s>L’épée à la main.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-23" who="GILLES">
+            <p>
+              <s>Attendez donc. </s>
+              <s>Je n’en ai pas ; et, d’ailleurs, je ne veux pas me battre.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-24" who="OLIBRIUS">
+            <p>
+              <s>Cela étant ainsi, il faut avoir recours au remède. </s>
+            </p>
+          </sp>
+          <sp xml:id="II04-25" who="GILLES">
+            <p>
+              <s>Ahi ! </s>
+              <s>Ahi ! </s>
+              <s>Ahi ! </s>
+              <s>Gillette, Gillette, au secours !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II05" type="scene" n="4">
+          <head>SCÈNE IV. Olibrius, Gilles, Gillette.<listPerson type="configuration" xml:id="conf14"/></head>
+          <sp xml:id="II05-1" who="GILLETTE">
+            <p>
+              <s>Qu’y a-t-il donc ? </s>
+              <s>Tu cries comme un homme que l’on assomme.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-2" who="GILLES">
+            <p>
+              <s>Eh ! </s>
+              <s>Parguenne, je crois que c’est à peu près la même chose. </s>
+              <s>Tu me bailles là une bonne commission.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-3" who="GILLETTE">
+            <p>
+              <s>Qu’est-ce à dire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-4" who="GILLES">
+            <p>
+              <s>Il faut que je me batte l’épée à la main contre Monsieur Olibrius ! </s>
+              <s>La lettre le dit.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-5" who="GILLETTE">
+            <p>
+              <s>Eh bien, poltron, tu recules dans une affaire d’honneur ? </s>
+              <s>Je me battrai, moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-6" who="OLIBRIUS">
+            <p>
+              <s>Ah ! </s>
+              <s>Mademoiselle, je veux bien faire assaut avec vous, mais ce ne sera pas avec ces armes-là.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-7" who="GILLETTE">
+            <p>
+              <s>Trêve de plaisanterie, Monsieur ; je ne l’entends pas, moi, et je vous aurai bientôt donné votre reste.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-8" who="OLIBRIUS">
+            <p>
+              <s>Oh ! </s>
+              <s>Mademoiselle, je le crois bien.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-9" who="GILLETTE">
+            <p>
+              <s>Lâche que tu es ! </s>
+              <s>Vois-tu comme je lui fais peur ! </s>
+              <s>Ce n’est qu’un poltron.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-10" who="GILLES">
+            <p>
+              <s>Si j’en étais sûr !</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-11" who="GILLETTE">
+            <p>
+              <s>Tu es cent fois plus méchant que lui. </s>
+              <s>D’ailleurs, je sais à n’en point douter que la lame de son épée n’est que de plomb et la garde de fer-blanc.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-12" who="GILLES">
+            <p>
+              <s>Queu conte !</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-13" who="GILLETTE">
+            <p>
+              <s>Il n’y a pas de conte. </s>
+              <s>Je vais te chercher une épée. </s>
+              <s>Je veux absolument que tu te battes contre lui.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-14" who="GILLES">
+            <p>
+              <s>Si les choses sont comme tu le dis, je me battrai sûrement.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-15" who="OLIBRIUS">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Ce dialogue-là finira-t-il ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-16" who="GILLETTE">
+            <p>
+              <s>Attendez, attendez, Monsieur le rodomont. </s>
+              <s>Vous allez voir beau jeu.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-17" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>Oh ! </s>
+              <s>Nous ne vous craignons pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-18" who="GILLETTE">
+            <p>
+              <s>Tiens, voilà une bonne épée. </s>
+              <s>Allons, du courage !</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-19" who="GILLES">
+            <p>
+              <s>Cela est bien aisé à dire.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-20" who="OLIBRIUS">
+            <p>
+              <s>Ah ! </s>
+              <s>C’en est trop, je veux abattre la tête à ce coquin-là.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-21" who="GILLES">
+            <p>
+              <s>Gillette ! </s>
+              <s>C’est bien le diable, il veut me couper la tête.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-22" who="GILLETTE">
+            <p>
+              <s>Tu n’es qu’un sot. </s>
+              <s>Mets l’épée à la main. </s>
+              <s>Tu verras qu’il fuira aussitôt.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-23" who="GILLES">
+            <p>
+              <s>Allons ! </s>
+              <s>Morbleu... </s>
+              <s>Gillette, il ne s’enfuit pas !</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-24" who="OLIBRIUS">
+            <p>
+              <s>Voilà bien des raisons.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-25" who="GILLES">
+            <p>
+              <s>Tenez, Monsieur, j’ai une proposition à vous faire ; je ne demande pas mieux que de me battre, mais je ne puis le faire de sens froid.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-26" who="OLIBRIUS">
+            <p>
+              <s>Ah ! </s>
+              <s>Qu’à cela ne tienne ; je vais échauffer ta bile. </s>
+              <s>Allons, coquin, maraud, infâme, lâche, poltron !</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-27" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>Tout cela ne me fâche pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-28" who="OLIBRIUS">
+            <p>
+              <s>Non ? </s>
+              <s>Eh bien ! </s>
+              <s>Je sais un autre moyen de te mettre en colère. </s>
+            </p>
+          </sp>
+          <sp xml:id="II05-29" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>Passe pour cela. </s>
+              <s>Pour le coup, tu vas voir beau jeu. </s>
+            </p>
+            <p>
+              <s>Comment nous battrons-nous ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-30" who="OLIBRIUS">
+            <p>
+              <s>Mais seul à seul.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-31" who="GILLES">
+            <p>
+              <s>Va, seul à seul.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-32" who="OLIBRIUS">
+            <p>
+              <s>Que fais-tu donc ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-33" who="GILLES">
+            <p>
+              <s>Je me bats seul à seul.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-34" who="OLIBRIUS">
+            <p>
+              <s>Ce n’est pas ainsi que je l’entends.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-35" who="GILLES">
+            <p>
+              <s>Parguenne ! </s>
+              <s>Cela m’accommode, moi ; et il y aura bien du malheur si je suis blessé de cette manière.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-36" who="OLIBRIUS">
+            <p>
+              <s>Allons, mon ami, trêve à la plaisanterie.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-37" who="GILLES">
+            <p>
+              <s>Attendez donc ; vous poussez comme un diable. </s>
+              <s>Tenez, afin de n’avoir pas d’avantage l’un sur l’autre, marquons une raie sur le plancher.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-38" who="OLIBRIUS">
+            <p>
+              <s>Volontiers.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-39" who="GILLES">
+            <p>
+              <s>Voilà mon chapeau qui servira de raie.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-40" who="OLIBRIUS">
+            <p>
+              <s>Va !</s>
+            </p>
+            <p>
+              <s>Avance donc.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-41" who="GILLES">
+            <p>
+              <s>Quel niais !</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-42" who="OLIBRIUS">
+            <p>
+              <s>Comment, misérable !...</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-43" who="GILLES">
+            <p>
+              <s>Prends garde à la raie... </s>
+              <s>Mais, parguenne ! </s>
+              <s>Vous êtes un drôle de brave ; votre épée est plus longue que la mienne de deux pieds.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-44" who="OLIBRIUS">
+            <p>
+              <s>Je n’en crois rien.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-45" who="GILLES">
+            <p>
+              <s>Voyons, voyons.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-46" who="OLIBRIUS">
+            <p>
+              <s>Je t’en fais juge toi-même. </s>
+              <s>Voilà mon épée.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-47" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Poltron.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-48" who="OLIBRIUS">
+            <p>
+              <s>Mais, Gilles...</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-49" who="GILLES">
+            <p>
+              <s>Vous fuyez, coquin...</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-50" who="OLIBRIUS">
+            <p>
+              <s>Ah ! </s>
+              <s>c’en est trop ! </s>
+              <s>Je ne veux que le fourreau de mon épée pour lui faire peur. </s>
+            </p>
+            <p>
+              <s>Attends, coquin, voilà une autre épée.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-51" who="GILLES">
+            <p>
+              <s>Gillette ! </s>
+              <s>Gillette ! </s>
+              <s>Vite, au secours !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II06" type="scene" n="4">
+          <head>SCÈNE IV. Olibrius, Gilles, Gillette.<listPerson type="configuration" xml:id="conf15"/></head>
+          <sp xml:id="II06-1" who="GILLETTE">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Que me veux-tu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II06-2" who="GILLES">
+            <p>
+              <s>Vois-tu comme il me pousse ! </s>
+              <s>Arrête-le donc.</s>
+            </p>
+          </sp>
+          <sp xml:id="II06-3" who="GILLETTE">
+            <p>
+              <s>Attends, attends. </s>
+            </p>
+          </sp>
+          <sp xml:id="II06-4" who="OLIBRIUS">
+            <p>
+              <s>Ah ! </s>
+              <s>Traîtresse ! </s>
+              <s>Lâchez-moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="II06-5" who="GILLES">
+            <p>
+              <s>Ne le lâche pas, au contraire. </s>
+              <s>Pousse la porte. </s>
+              <s>Diable ! </s>
+              <s>Ma vie en dépend.</s>
+            </p>
+          </sp>
+          <sp xml:id="II06-6" who="GILLETTE">
+            <p>
+              <s>Ne crains rien, j’ai mis les verrous.</s>
+            </p>
+          </sp>
+          <sp xml:id="II06-7" who="GILLES">
+            <p>
+              <s>Ce n’est pas assez. </s>
+              <s>Ferme la serrure à double tour.</s>
+            </p>
+          </sp>
+          <sp xml:id="II06-8" who="GILLETTE">
+            <p>
+              <s>Sauve-toi, Gilles, c’est le plus court. </s>
+              <s>Il est si furieux qu’il veut sauter par la fenêtre.</s>
+            </p>
+          </sp>
+          <sp xml:id="II06-9" who="GILLES">
+            <p>
+              <s>Ma foi, sauvons-nous, c’est un diable que cet homme-là.</s>
+            </p>
+          </sp>
+        </div2>
+      </div1>
+      <div1 xml:id="III" type="act" n="3">
+        <head>ACTE III</head>
+        <div2 xml:id="III01" type="scene" n="1">
+          <head>SCÈNE I. Le Maître, Sans-Quartier, Divertissant.<listPerson type="configuration" xml:id="conf17"/></head>
+          <sp xml:id="III01-1" who="LEMAITRE">
+            <p>
+              <s>Je voudrais bien savoir d’où vous venez, Messieurs les coquins. </s>
+              <s>Il y a deux jours que vous n’avez pas paru dans la maison.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-2" who="SANSQUARTIER">
+            <p>
+              <s>Monsieur, excusez, s’il vous plaît. </s>
+              <s>C’est que la bastarde de la cousine de Monsieur Divertissant a été mariée à Saint-Denis, et, comme il a été prié de la noce, et moi aussi, nous n’avons pas voulu refuser l’honneur qu’on nous a fait.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-3" who="DIVERTISSANT">
+            <p>
+              <s>Oui, Monsieur, nous en arrivons dans le moment. </s>
+              <s>La mariée a voulu que la noce se fît à Saint-Denis, à cause de la grande mesure. </s>
+              <s>Ah ! </s>
+              <s>Pardi, nous y avons bu comme des trous. </s>
+              <s>Heu !</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-4" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Le vilain ivrogne ! </s>
+              <s>Cela est bel et bon, mais je vous trouve bien insolents d’aller ainsi à la noce sans m’en demander la permission.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-5" who="SANSQUARTIER">
+            <p>
+              <s>Considérez, Monsieur, que c’est la bastarde de sa cousine.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-6" who="LEMAITRE">
+            <p>
+              <s>Fût-ce la bastarde du diable ; voilà une belle parenté. </s>
+              <s>Et encore vous me laissez avec Gilles, qui est un butor.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-7" who="DIVERTISSANT">
+            <p>
+              <s>Oh ! </s>
+              <s>Pour cela, oui, Monsieur.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-8" who="LEMAITRE">
+            <p>
+              <s>Une franche bête.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-9" who="SANSQUARTIER">
+            <p>
+              <s>Vous avez raison.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-10" who="LEMAITRE">
+            <p>
+              <s>Un imbécile que, pour ses impertinences, j’ai été obligé de chasser.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-11" who="DIVERTISSANT">
+            <p>
+              <s>Ah ! </s>
+              <s>Que vous avez bien fait ! </s>
+              <s>D’ailleurs, c’était un ivrogne... </s>
+              <s>Heu !...</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-12" who="SANSQUARTIER">
+            <p>
+              <s>Qu’appelles-tu bien fait ! </s>
+              <s>Il s’agit de savoir pourquoi Monsieur l’a mis dehors.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-13" who="LEMAITRE">
+            <p>
+              <s>Comment ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-14" who="SANSQUARTIER">
+            <p>
+              <s>Oui, Monsieur, on ne chasse pas ainsi un honnête garçon, et vous nous en direz, s’il vous plaît, la raison.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-15" who="LEMAITRE">
+            <p>
+              <s>Je vous en dirai la raison ? </s>
+              <s>Mais voilà des manants bien insolents !</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-16" who="DIVERTISSANT">
+            <p>
+              <s>Mon camarade parle juste... </s>
+              <s>Vous nous la direz ou vous aurez beau jeu.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-17" who="LEMAITRE">
+            <p>
+              <s>Mais je crois que ces coquins-là ont perdu l’esprit.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-18" who="DIVERTISSANT">
+            <p>
+              <s>Cela se pourrait, Monsieur, parce que Sans-Quartier et moi nous en avons. </s>
+              <s>Mais, pour vous, vous n’êtes pas dans ce cas.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-19" who="LEMAITRE">
+            <p>
+              <s>Oh ! </s>
+              <s>C’est pousser l’impudence au dernier point. </s>
+              <s>Parbleu, faquins, je vous apprendrai à qui vous parlez. </s>
+              <s>Hors d’ici, et ne vous avisez jamais de remettre les pieds chez moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-20" who="SANSQUARTIER">
+            <p>
+              <s>Non, Monsieur, nous ne sortirons pas comme cela.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-21" who="LEMAITRE">
+            <p>
+              <s>Vous ne sortirez pas ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-22" who="DIVERTISSANT">
+            <p>
+              <s>N’avez-vous pas chassé Gilles ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-23" who="LEMAITRE">
+            <p>
+              <s>Sans doute.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-24" who="DIVERTISSANT">
+            <p>
+              <s>Vous nous renvoyez aussi ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-25" who="LEMAITRE">
+            <p>
+              <s>Assurément !</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-26" who="DIVERTISSANT">
+            <p>
+              <s>Eh bien ! </s>
+              <s>il faut que Jacqueline sorte avec nous.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-27" who="LEMAITRE">
+            <p>
+              <s>Jacqueline, je m’en garderai bien. </s>
+              <s>C’est une fille sage, raisonnable.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-28" who="SANSQUARTIER">
+            <p>
+              <s>Cela n’est pas vrai, Monsieur ; et nous ne voulons pas qu’elle reste davantage dans votre chienne de maison.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-29" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Ceci est plaisant ! </s>
+              <s>Et quelle autorité avez-vous donc sur Jacqueline ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-30" who="SANSQUARTIERetDIVERTISSANT">
+            <p>
+              <s>C’est ma femme, Monsieur.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-31" who="LEMAITRE">
+            <p>
+              <s>Comment ? </s>
+              <s>C’est votre femme à tous deux ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-32" who="DIVERTISSANT">
+            <p>
+              <s>Oui, Monsieur, nous l’avons épousée aux Porcherons, et nous la servons par quartiers.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-33" who="LEMAITRE">
+            <p>
+              <s>Insolents ! </s>
+              <s>Je ne sais à quoi il tient que je ne vous donne cent coups de bâton.</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-34" who="SANSQUARTIER">
+            <p>
+              <s>Vous n’êtes pas assez hardi pour cela, entendez-vous ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-35" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Vous osez me défier, marauds que vous êtes ! </s>
+              <s>Je vous apprendrai à me connaître ! </s>
+              <s>Hors d’ici, coquins !</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-36" who="SANSQUARTIER">
+            <p>
+              <s>Ahi ! </s>
+              <s>Ahi ! </s>
+              <s>Ahi !</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-37" who="DIVERTISSANT">
+            <p>
+              <s>Au secours ! </s>
+              <s>Au guet ! </s>
+              <s>À la livrée !</s>
+            </p>
+          </sp>
+          <sp xml:id="III01-38" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>je vous étrillerai sur le ventre et partout.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III02" type="scene" n="2">
+          <head>SCÈNE II. Sans-Quartier, Diverstissant.<listPerson type="configuration" xml:id="conf18"/></head>
+          <sp xml:id="III02-1" who="SANSQUARTIER">
+            <p>
+              <s>Ne nous voilà pas mal, à présent. </s>
+              <s>De quoi diable aussi t’avises-tu de parler de Jacqueline ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III02-2" who="DIVERTISSANT">
+            <p>
+              <s>Il est vrai, j’ai tort ! </s>
+              <s>Le diable emporte la chienne de noce et la bastarde de la cousine ! </s>
+              <s>Nous voilà donc hors de condition.</s>
+            </p>
+          </sp>
+          <sp xml:id="III02-3" who="SANSQUARTIER">
+            <p>
+              <s>Parbleu, mon ami, il faut s’en consoler. </s>
+              <s>Voici justement Gilles. </s>
+              <s>Il est dans le même cas que nous.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III03" type="scene" n="3">
+          <head>SCÈNE III. Sans-Quartier, Gilles.<listPerson type="configuration" xml:id="conf19"/></head>
+          <sp xml:id="III03-1" who="GILLES">
+            <p>
+              <s>Morguenne ! </s>
+              <s>J’ai fait une sottise.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-2" who="SANSQUARTIER">
+            <p>
+              <s>Eh ! </s>
+              <s>Bonjour, camarade ; comment va la joie ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-3" who="GILLES">
+            <p>
+              <s>Mal ! </s>
+              <s>Vous êtes bien heureux, vous autres, d’être toujours chez Monsieur de Parlaventrebleu. </s>
+              <s>Moi, il m’a chassé pour une bouteille de vin grec.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-4" who="DIVERTISSANT">
+            <p>
+              <s>Ma foi, mon ami, il nous a aussi mis à la porte.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-5" who="GILLES">
+            <p>
+              <s>Sérieusement ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-6" who="SANSQUARTIER">
+            <p>
+              <s>Oui, ma foi. </s>
+              <s>Mais, à propos, il ne nous a pas payé nos gages !</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-7" who="GILLES">
+            <p>
+              <s>Parguenne ! </s>
+              <s>Vous m’en faites ressouvenir. </s>
+              <s>Il ne m’a donné à compte qu’une volée de coups de bâton !</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-8" who="DIVERTISSANT">
+            <p>
+              <s>Cela n’a point de cours au marché. </s>
+              <s>Mais les lui as-tu demandés, tes gages ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-9" who="GILLES">
+            <p>
+              <s>Non.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-10" who="SANSQUARTIER">
+            <p>
+              <s>Ni nous non plus.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-11" who="DIVERTISSANT">
+            <p>
+              <s>Il n’est pas dans son tort. </s>
+              <s>Il faut aller les lui demander. </s>
+              <s>Mais un seul de nous doit porter la parole.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-12" who="SANSQUARTIER">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Ce sera moi, et vous verrez de quelle manière je m’y prendrai. </s>
+              <s>Éloignez-vous seulement un peu. </s>
+              <s>Je vais heurter à sa porte.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III04" type="scene" n="4">
+          <head>SCÈNE IV. Sans-Quartier, Le Maître.<listPerson type="configuration" xml:id="conf20"/></head>
+          <sp xml:id="III04-1" who="SANSQUARTIER">
+            <p>
+              <s>Holà ! </s>
+              <s>Hé ! </s>
+              <s>Quelqu’un ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-2" who="LEMAITRE">
+            <p>
+              <s>Quel est l’insolent qui heurte de cette manière et qui ose dire holà ! </s>
+              <s>Hé ! </s>
+              <s>En frappant à ma porte ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-3" who="SANSQUARTIER">
+            <p>
+              <s>C’est moi, Monsieur.</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-4" who="LEMAITRE">
+            <p>
+              <s>Comment, faquin, vous osez me parler le chapeau sur la tête !</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-5" who="SANSQUARTIER">
+            <p>
+              <s>Pourquoi ne l’aurais-je pas ? </s>
+              <s>Je ne suis plus votre domestique.</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-6" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Maraud, je vous apprendrai le respect que vous me devez.</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-7" who="SANSQUARTIER">
+            <p>
+              <s>Doucement, Monsieur ; je suis brutal, je vous en avertis.</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-8" who="LEMAITRE">
+            <p>
+              <s>Et moi, je vais vous montrer comme je traite les brutaux.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III05" type="scene" n="5">
+          <head>SCÈNE V. Divertissant, Sans-Quartier, Gilles.<listPerson type="configuration" xml:id="conf21"/></head>
+          <sp xml:id="III05-1" who="DIVERTISSANT">
+            <p>
+              <s>Ah bien ! </s>
+              <s>As-tu reçu quelque chose ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-2" who="SANSQUARTIER">
+            <p>
+              <s>Oui.</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-3" who="GILLES">
+            <p>
+              <s>Allons, morbleu, de la joie. </s>
+            </p>
+            <p>
+              <s>Allons ! </s>
+              <s>Allons! </s>
+              <s>Allons à la guinguette, allons !</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-4" who="DIVERTISSANT">
+            <p>
+              <s>As-tu de l’argent ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-5" who="SANSQUARTIER">
+            <p>
+              <s>Ma foi, non.</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-6" who="GILLES">
+            <p>
+              <s>Ni moi non plus.</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-7" who="DIVERTISSANT">
+            <p>
+              <s>Mais tu nous as dit que tu avais reçu...</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-8" who="SANSQUARTIER">
+            <p>
+              <s>Oui, des coups de bâton.</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-9" who="GILLES">
+            <p>
+              <s>Va-t’en au diable ! </s>
+              <s>De quelle manière lui as-tu donc parlé ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-10" who="SANSQUARTIER">
+            <p>
+              <s>D’un ton ferme et même un peu insolent.</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-11" who="DIVERTISSANT">
+            <p>
+              <s>Tu as tort ! </s>
+              <s>Il fallait user de politesse. </s>
+              <s>Laisse-moi faire. </s>
+              <s>J’y vais, moi, et j’espère que je ne reviendrai pas les mains vides.</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-12" who="SANSQUARTIER">
+            <p>
+              <s>Vas-y donc. </s>
+              <s>Nous verrons si tu réussiras mieux que moi. </s>
+              <s>Nous t’attendons ici près.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III06" type="scene" n="6">
+          <head>SCÈNE VI. Divertissant, Le Maître.<listPerson type="configuration" xml:id="conf22"/></head>
+          <sp xml:id="III06-1" who="DIVERTISSANT">
+            <p>
+              <s>Toc, toc, toc.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-2" who="LEMAITRE">
+            <p>
+              <s>Qui heurte ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-3" who="DIVERTISSANT">
+            <p>
+              <s>Monsieur, c’est votre petit serviteur.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-4" who="LEMAITRE">
+            <p>
+              <s>Voilà un ton bien soumis.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-5" who="DIVERTISSANT">
+            <p>
+              <s>Monsieur, c’est que je sais vivre. </s>
+              <s>Sans-Quartier ne sait pas éplucher ses paroles. </s>
+              <s>Pour moi, Monsieur, je me flatte que vous voudrez bien me faire l’honneur de me faire la grâce d’écouter mes raisons.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-6" who="LEMAITRE">
+            <p>
+              <s>Oh ! </s>
+              <s>Oh ! </s>
+              <s>Voilà du brillant. </s>
+              <s>Écoutons !</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-7" who="DIVERTISSANT">
+            <p>
+              <s>Monsieur, Aristote dit que quand on quitte le maréchal on paye les vieux fers.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-8" who="LEMAITRE">
+            <p>
+              <s>Je n’ai jamais lu cela dans Aristote.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-9" who="DIVERTISSANT">
+            <p>
+              <s>Cela y est pourtant. </s>
+              <s>Or, est-il, Monsieur ; prenez par comparaison que Sans-Quartier, Gilles et moi, nous sommes les maréchaux, et vous le cheval... </s>
+              <s>Vous voyez bien la conséquence de mon raisonnement, et il faut que vous nous payiez.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-10" who="LEMAITRE">
+            <p>
+              <s>Cela est juste, et je vais payer vos comparaisons ce qu’elles méritent.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III07" type="scene" n="7">
+          <head>SCÈNE VII. Divertissant, Sans-Quartier, Gilles.<listPerson type="configuration" xml:id="conf23"/></head>
+          <sp xml:id="III07-1" who="SANSQUARTIER">
+            <p>
+              <s>Il me semble que tu n’es pas content ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III07-2" who="DIVERTISSANT">
+            <p>
+              <s>Non, cet homme-là n’aime pas les comparaisons. </s>
+              <s>Il y avait, pourtant, bien de l’esprit dans ce que je lui disais. </s>
+              <s>Je n’y comprends rien. </s>
+              <s>Sans-Quartier l’a abordé d’un ton brusque ; il l’a rossé; moi, d’un air doucereux, et avec toute la politesse possible. </s>
+              <s>Il m’a battu. </s>
+              <s>Comment donc faut-il s’y prendre ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III07-3" who="GILLES">
+            <p>
+              <s>J’en viendrai à bout, moi. </s>
+              <s>Vous allez voir. </s>
+              <s>Il faut prendre un ton aigre-doux. </s>
+              <s>Éloignez-vous.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III08" type="scene" n="8">
+          <head>SCÈNE VIII. Gilles, Le Maître.<listPerson type="configuration" xml:id="conf24"/></head>
+          <sp xml:id="III08-1" who="GILLES">
+            <p>
+              <s>Holà ! </s>
+              <s>Quelqu’un ! </s>
+              <s>Est-ce qu’il n’y a personne ici ? </s>
+              <s>Ventre tête bleue !</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-2" who="LEMAITRE">
+            <p>
+              <s>Qui est là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-3" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, je suis votre valet. </s>
+              <s>C’est Monsieur Gilles Bambinois Cadet L’Aîné qui vient pour vous faire, avec votre permission, une petite prière.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-4" who="LEMAITRE">
+            <p>
+              <s>Voilà parler, cela. </s>
+              <s>Eh bien ! </s>
+              <s>De quoi s’agit-il, mon ami ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-5" who="GILLES">
+            <p>
+              <s>D’une bagatelle. </s>
+              <s>De payer nos gages, à mes camarades et à moi... </s>
+            </p>
+            <p>
+              <s>Sinon, par la mort !...</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-6" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Doucement, doucement, Monsieur Gilles. </s>
+              <s>Point de colère.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-7" who="GILLES">
+            <p>
+              <s>Il a peur. </s>
+              <s>Courage !</s>
+            </p>
+            <p>
+              <s>Savez-vous bien, Monsieur, avec tout le respect que je vous dois, que si vous ne nous donnez de l’argent, et tout à l’heure, je suis homme à mettre le feu.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-8" who="LEMAITRE">
+            <p>
+              <s>À mettre le feu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-9" who="GILLES">
+            <p>
+              <s>Oui ! </s>
+              <s>À mettre le feu ! </s>
+              <s>Ah ! </s>
+              <s>Ah! </s>
+              <s>Vous ne me connaissez pas encore !</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-10" who="LEMAITRE">
+            <p>
+              <s>À mettre le feu ? </s>
+              <s>Faquin ! </s>
+              <s>À mettre le feu, misérable !</s>
+            </p>
+            <p>
+              <s>À mettre le feu, infâme ! </s>
+              <s>À ma maison, apparemment !</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-11" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Que non, Monsieur, à un fagot, au premier cabaret, pour nous chauffer ; car nous enrageons de froid, mes camarades et moi ; et, si vous voulez bien, sauf votre respect, nous bailler, à-compte, quelque petite monnaie...</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-12" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Quand on s’y prend ainsi, encore passe ; je vois bien que tout ce que vous avez dit et le ton que vous avez pris est une pure plaisanterie.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-13" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>Pour cela, oui, Monsieur, je suis très plaisant de mon naturel.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-14" who="LEMAITRE">
+            <p>
+              <s>Je le voyais bien. </s>
+              <s>Et quelle espèce voulez-vous ? </s>
+              <s>Est-ce de la monnaie courante ou de la monnaie de poids ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-15" who="GILLES">
+            <p>
+              <s>Mais, Monsieur, je crois qu’il n’y a pas de mal à ce qu’elle soit de poids. </s>
+            </p>
+            <p>
+              <s>Mais dépêchez-vous, car si une fois la cervelle s’échauffe...</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-16" who="LEMAITRE">
+            <p>
+              <s>Oh ! </s>
+              <s>Puisque vous êtes si vif, il faut vous payer sans attendre. </s>
+              <s>Tenez, voilà de la monnaie de poids.</s>
+            </p>
+            <p>
+              <s>Partagez cela avec vos camarades.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-17" who="GILLES">
+            <p>
+              <s>Je n’y manquerai pas, Monsieur.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III09" type="scene" n="9">
+          <head>SCÈNE IX. Divertissant, Sans-Quartier, Gilles.<listPerson type="configuration" xml:id="conf25"/></head>
+          <sp xml:id="III09-1" who="SANSQUARTIER">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Comment t’es-tu tiré d’affaire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-2" who="GILLES">
+            <p>
+              <s>À merveille, j’ai reçu de la monnaie de poids, et vous en aurez votre part.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-3" who="DIVERTISSANT">
+            <p>
+              <s>Cela est juste.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-4" who="GILLES">
+            <p>
+              <s>Je n’ai pas reçu d’autre argent.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-5" who="SANSQUARTIER">
+            <p>
+              <s>Que la peste te crève avec tes mauvaises plaisanteries ! </s>
+              <s>Mais, après tout, il nous faut de l’argent; et, puisque nous avons à faire à un homme si peu raisonnable, il faut lui faire un mauvais parti.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-6" who="DIVERTISSANT">
+            <p>
+              <s>Tu as raison. </s>
+              <s>J’imagine une chose toute simple. </s>
+              <s>Il faut ici guetter Jacqueline. </s>
+              <s>La première fois qu’elle sortira de la maison, je l’aborderai, et pendant que je l’amuserai, vous irez semer des pois sur l’escalier de Monsieur de Parlaventrebleu. </s>
+              <s>Quand elle sera rentrée dans sa cuisine, nous heurterons fortement à la porte. </s>
+              <s>Elle n’ouvrira pas. </s>
+              <s>Le maître, impatient, voudra descendre pour voir qui heurte. </s>
+              <s>Il tombera du haut en bas de l’escalier et se rompra le col.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-7" who="SANSQUARTIER">
+            <p>
+              <s>Cela ne vaut rien. </s>
+              <s>On trouvera les pois ; on s’informera qui les a semés. </s>
+              <s>Nous serons arrêtés et peut-être envoyés aux galères. </s>
+              <s>Je pense à quelque chose de mieux. </s>
+              <s>Monsieur de Parlaventrebleu aime la pêche. </s>
+              <s>Il faut nous déguiser en bateliers. </s>
+              <s>Il a la vue basse ; il ne nous reconnaîtra pas. </s>
+              <s>Il entrera dans notre bateau, que nous aurons auparavant percé de toutes parts et rebouché avec du liège. </s>
+              <s>Au milieu de la rivière, dans l’endroit le plus profond, nous ôterons les bouchons. </s>
+              <s>L’eau pénétrera dans le bateau ; il ira bientôt à fond... </s>
+              <s>Et...</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-8" who="GILLES">
+            <p>
+              <s>Voilà ce qui s’appelle avoir de l’esprit, cela !</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-9" who="DIVERTISSANT">
+            <p>
+              <s>Fort bien ! </s>
+              <s>Et nous serons tous trois dans le bateau ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-10" who="SANSQUARTIER">
+            <p>
+              <s>Sans doute.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-11" who="DIVERTISSANT">
+            <p>
+              <s>Et vous savez l’un et l’autre nager, apparemment ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-12" who="GILLES">
+            <p>
+              <s>Comme une pierre.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-13" who="SANSQUARTIER">
+            <p>
+              <s>Et moi à peu près de même.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-14" who="DIVERTISSANT">
+            <p>
+              <s>Vous voyez bien, mon ami, que vous raisonnez comme un cheval, et que nous nous noyerons tous, de compagnie.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-15" who="GILLES">
+            <p>
+              <s>Divertissant a raison. </s>
+              <s>Oh ! </s>
+              <s>Morguenne ! </s>
+              <s>C’est moi, pour le coup, qui ai trouvé une bonne manière de nous venger. </s>
+              <s>Cela part de là. </s>
+              <s>Écoutez-moi bien. </s>
+              <s>Notre maître, comme vous savez, relève de maladie, et il lui est resté un petit bénéfice de ventre. </s>
+              <s>Je m’introduirai dans la maison par le moyen de Jacqueline ; j’ôterai la lunette des commodités qui sont dans la cour. </s>
+              <s>À sa place, j’en mettrai une qui ne sera que de papier brouillard. </s>
+              <s>Quand il viendra pour se mettre dessus, voilà mon bigre qui dégringolera jusqu’au fond de la fosse.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-16" who="DIVERTISSANT">
+            <p>
+              <s>Notre maître ne sera pas assez imbécile pour se laisser ainsi attraper.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-17" who="GILLES">
+            <p>
+              <s>Trouve donc un meilleur expédient ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-18" who="DIVERTISSANT">
+            <p>
+              <s>Oui-dà ! </s>
+              <s>Je viens d’en imaginer un contre lequel la justice ne saurait mordre sur nous, et je vous garantis mon homme mort, pourvu que nous trouvions quelqu’un qui ait l’haleine assez forte pour cela.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-19" who="GILLES">
+            <p>
+              <s>Qu’appelles-tu la laine ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-20" who="DIVERTISSANT">
+            <p>
+              <s>Le souffle ! </s>
+              <s>Le vent !</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-21" who="GILLES">
+            <p>
+              <s>S’il ne s’agit que de cela, je suis bien votre affaire.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-22" who="DIVERTISSANT">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Mon ami, nous nous cacherons, Sans-Quartier et moi, aux deux côtés de la porte du maître. </s>
+              <s>Sitôt qu’il sortira nous l’arrêterons, nous lui mettrons la culotte bas...</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-23" who="GILLES">
+            <p>
+              <s>Cela est bien imaginé.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-24" who="DIVERTISSANT">
+            <p>
+              <s>Toi, Gilles, tu lui souffleras au derrière jusqu’à ce que l’âme lui sorte par la bouche. </s>
+              <s>La justice ne viendra pas fourrer son nez là.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-25" who="GILLES">
+            <p>
+              <s>Va-t’en au diable, avec ton expédient. </s>
+              <s>Souffles-y toi-même.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III10" type="scene" n="10">
+          <head>SCÈNE X. Divertissant, Sans-Quartier, Gilles, Le Maître.<listPerson type="configuration" xml:id="conf26"/></head>
+          <sp xml:id="III10-1" who="LEMAITRE">
+            <p>
+              <s>Parbleu, je viens de faire un plaisant rêve. </s>
+              <s>Je m’imaginais que trois coquins à pendre conspiraient contre ma vie. </s>
+              <s>L’un proposait de me faire casser le col en semant des pois sur mon escalier ; le second, en perçant un bateau sur lequel il supposait que je monterais pour aller à la pêche ; un autre, en enlevant la lunette des commodités et en lui substituant une lunette de papier gris.</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-2" who="GILLES">
+            <p>
+              <s>Monsieur, votre serviteur. </s>
+              <s>J’ai entendu tout ce que vous venez de dire. </s>
+              <s>Et vous avez fait effectivement ce rêve-là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-3" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Vous voilà, Messieurs, je ne vous voyais pas. </s>
+              <s>Tenez, ces trois fripons vous ressemblaient comme deux gouttes d’eau.</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-4" who="GILLES">
+            <p>
+              <s>Celui-là n’a-t-il pas la physionomie du semeur de pois ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-5" who="LEMAITRE">
+            <p>
+              <s>Justement.</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-6" who="GILLES">
+            <p>
+              <s>Et celui-ci n’a-t-il pas un peu l’air du batelier ou du pêcheur ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-7" who="LEMAITRE">
+            <p>
+              <s>Oui, vraiment, et je trouve dans les traits de ton visage tous ceux du lunetier de papier brouillard.</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-8" who="GILLES">
+            <p>
+              <s>Cela est fort plaisant.</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-9" who="LEMAITRE">
+            <p>
+              <s>Mais ce qui m’a le plus réjoui dans mon rêve, c’est la proposition que l’un d’eux a faite de me faire mourir d’une façon très comique. </s>
+              <s>Qu’en dis-tu, mon ami ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-10" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, je ne suis pas complice de cette mort-là. </s>
+              <s>Je n’ai jamais voulu souffler. </s>
+              <s>Mais, Monsieur, en conscience, vous avez fait véritablement ce rêve-là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-11" who="LEMAITRE">
+            <p>
+              <s>Oui, vraiment, mais je ne l’ai pas achevé.</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-12" who="SANSQUARTIER">
+            <p>
+              <s>Peut-on, Monsieur, vous demander ce qui y manque ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-13" who="LEMAITRE">
+            <p>
+              <s>C’est de donner cent coups de bâton à ces trois coquins-là.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III11" type="scene" n="11">
+          <head>SCÈNE XI. Divertisssant, Sans Qartier, Gilles.<listPerson type="configuration" xml:id="conf27"/></head>
+          <sp xml:id="III11-1" who="SANSQUARTIER">
+            <p>
+              <s>Ne nous voilà pas mal avec notre chienne de conspiration ! </s>
+              <s>Ma foi, nous avons fait une sottise. </s>
+              <s>Mais il faut tâcher de la réparer.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-2" who="GILLES">
+            <p>
+              <s>Comment faire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-3" who="DIVERTISSANT">
+            <p>
+              <s>Nous ne sommes pas capables de faire entendre raison à cet homme-là. </s>
+              <s>Il faudrait trouver quelqu’un qui pût en venir à bout.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-4" who="GILLES">
+            <p>
+              <s>Oui ; mais c’est là le difficile.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-5" who="SANSQUARTIER">
+            <p>
+              <s>Il me vient une idée. </s>
+              <s>Il faut lui mettre un docteur en tête.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-6" who="DIVERTISSANT">
+            <p>
+              <s>C’est bien imaginé ; mais as-tu de l’argent pour donner à ce docteur ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-7" who="SANSQUARTIER">
+            <p>
+              <s>Non.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-8" who="DIVERTISSANT">
+            <p>
+              <s>Ni moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-9" who="GILLES">
+            <p>
+              <s>Pour moi, je n’ai pas la maille.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-10" who="DIVERTISSANT">
+            <p>
+              <s>Nous voilà bien embarrassés. </s>
+              <s>Il faut que l’un de nous se déguise en docteur. </s>
+              <s>Le maître ne voit pas trop clair, il ne nous reconnaîtra pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-11" who="SANSQUARTIER">
+            <p>
+              <s>Fort bien. </s>
+              <s>Ce sera donc toi qui fera le rôle.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-12" who="DIVERTISSANT">
+            <p>
+              <s>Non. </s>
+              <s>Il faudrait avoir une figure qui en imposât.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-13" who="SANSQUARTIER">
+            <p>
+              <s>Comme Gilles, par exemple ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-14" who="GILLES">
+            <p>
+              <s>Ne pensez pas rire, Messieurs. </s>
+              <s>Il n’y a pas un de vous qui me vaille.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-15" who="SANSQUARTIER">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Ce sera donc toi qui feras le docteur.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-16" who="GILLES">
+            <p>
+              <s>Docteur toi-même ! </s>
+              <s>Parbleu, je ne sais ni lire ni écrire.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-17" who="DIVERTISSANT">
+            <p>
+              <s>Cela n’y fait rien. </s>
+              <s>Avec une robe, tout ce qu’il faut pour te déguiser et quatre mots de mauvais latin tu feras ton personnage à merveille. </s>
+              <s>Et puis, nous te soufflerons !</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-18" who="GILLES">
+            <p>
+              <s>Oui-da ! </s>
+              <s>Pour me faire mourir.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-19" who="SANSQUARTIER">
+            <p>
+              <s>Non, non, Gilles, ce ne sera pas de cette façon. </s>
+              <s>Habillons-le toujours.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-20" who="DIVERTISSANT">
+            <p>
+              <s>Le compère Retourné, Monsieur fripier, notre voisin, nous prêtera bien une robe. </s>
+              <s>J’en vois une pendue à sa boutique.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-21" who="GILLES">
+            <p>
+              <s>Mais je crains les coups de bâton.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-22" who="DIVERTISSANT">
+            <p>
+              <s>Il n’y a rien à appréhender. </s>
+              <s>On ne bat pas impunément un docteur.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-23" who="SANSQUARTIER">
+            <p>
+              <s>Tiens, voilà tout l’équipage. </s>
+            </p>
+          </sp>
+          <sp xml:id="III11-24" who="GILLES">
+            <p>
+              <s>Me voilà plaisamment fagoté. </s>
+              <s>Et le latin ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-25" who="SANSQUARTIER">
+            <p>
+              <s>Je vais t’apprendre d’excellent latin. </s>
+              <s>Il faudra le prononcer d’un ton grave. </s>
+              <s>Écoute bien : Ego.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-26" who="GILLES">
+            <p>
+              <s>Pourquoi m’appelles-tu nigaud ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-27" who="SANSQUARTIER">
+            <p>
+              <s>Je ne te dis pas cela. </s>
+              <s>Je dis : Ego !</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-28" who="GILLES">
+            <p>
+              <s>Nego ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-29" who="SANSQUARTIER">
+            <p>
+              <s>Ego.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-30" who="GILLES">
+            <p>
+              <s>Ergo ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-31" who="SANSQUARTIER">
+            <p>
+              <s>Ego, ego, ego ! </s>
+              <s>Bête que tu es !</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-32" who="GILLES">
+            <p>
+              <s>Ego, ego, ego, bête que tu es ! </s>
+              <s>Mais c’est là du français.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-33" who="SANSQUARTIER">
+            <p>
+              <s>Sum.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-34" who="GILLES">
+            <p>
+              <s>Je t’assomme ?... </s>
+              <s>Va-t’en au diable !</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-35" who="SANSQUARTIER">
+            <p>
+              <s>Sum doctor.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-36" who="GILLES">
+            <p>
+              <s>Doctor !</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-37" who="SANSQUARTIER">
+            <p>
+              <s>Doctorantibus, payantibus.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-38" who="GILLES">
+            <p>
+              <s>Doctorantibus, payantibus.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-39" who="SANSQUARTIER">
+            <p>
+              <s>A Sanquartieribus.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-40" who="GILLES">
+            <p>
+              <s>A Sanquartieribus.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-41" who="SANSQUARTIER">
+            <p>
+              <s>Divertissantibus et Gilantibus.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-42" who="GILLES">
+            <p>
+              <s>Divertissantibus et Gilantibus. </s>
+              <s>La peste ! </s>
+              <s>Voilà de beau latin, à ce qu’il me paraît !</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-43" who="DIVERTISSANT">
+            <p>
+              <s>Il est très énergique. </s>
+              <s>Or çà ! </s>
+              <s>Es-tu bien sûr de ton rôle, en te soufflant ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-44" who="GILLES">
+            <p>
+              <s>Heurte seulement. </s>
+              <s>Tu verras si j’ai de l’esprit. </s>
+              <s>Mais soufflez-moi bien tous deux.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-45" who="DIVERTISSANT">
+            <p>
+              <s>Ne t’embarrasse de rien.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III12" type="scene" n="12">
+          <head>SCÈNE XII. Divertissant, Sans-Quartier, Le Maître.<listPerson type="configuration" xml:id="conf28"/></head>
+          <sp xml:id="III12-1" who="SANSQUARTIER">
+            <p>
+              <s>Toc ! </s>
+              <s>Toc ! </s>
+              <s>Toc !</s>
+            </p>
+          </sp>
+          <sp xml:id="III12-2" who="LEMAITRE">
+            <p>
+              <s>Qui est là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III12-3" who="SANSQUARTIER">
+            <p>
+              <s>Monsieur, c’est votre très humble serviteur.</s>
+            </p>
+          </sp>
+          <sp xml:id="III12-4" who="LEMAITRE">
+            <p>
+              <s>Encore !</s>
+            </p>
+          </sp>
+          <sp xml:id="III12-5" who="DIVERTISSANT">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, ne vous fâchez pas, s’il vous plaît, et écoutez-moi. </s>
+              <s>Nous avons connu que nous n’étions que des bêtes et que nous n’avions pas assez d’esprit pour entrer en conversation avec vous au sujet de nos gages, et, pour cet effet, nous nous sommes proposé de vous mettre un docteur en tête.</s>
+            </p>
+          </sp>
+          <sp xml:id="III12-6" who="LEMAITRE">
+            <p>
+              <s>Un docteur en tête ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III12-7" who="SANSQUARTIER">
+            <p>
+              <s>Oui, Monsieur ; un docteur qui sait lire et écrire.</s>
+            </p>
+          </sp>
+          <sp xml:id="III12-8" who="LEMAITRE">
+            <p>
+              <s>Oh ! </s>
+              <s>Oh !</s>
+            </p>
+          </sp>
+          <sp xml:id="III12-9" who="SANSQUARTIER">
+            <p>
+              <s>Nous espérons que vous voudrez bien que nous vous le présentions.</s>
+            </p>
+          </sp>
+          <sp xml:id="III12-10" who="LEMAITRE">
+            <p>
+              <s>Quand vous m’amènerez un homme raisonnable, encore passe...</s>
+            </p>
+          </sp>
+          <sp xml:id="III12-11" who="DIVERTISSANT">
+            <p>
+              <s>Je vais donc le faire entrer, Monsieur.</s>
+            </p>
+          </sp>
+          <sp xml:id="III12-12" who="LEMAITRE">
+            <p>
+              <s>Très volontiers. </s>
+              <s>Je l’écouterai avec plaisir.</s>
+            </p>
+          </sp>
+          <sp xml:id="III12-13" who="DIVERTISSANT">
+            <p>
+              <s>Avancez, Monsieur le docteur. </s>
+              <s>C’est à Monsieur à qui il faut porter la parole.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III13" type="scene" n="13">
+          <head>SCÈNE XIII, et dernière. Divertissant, Sans-Quartier, Le Maître.<listPerson type="configuration" xml:id="conf29"/></head>
+          <sp xml:id="III13-1" who="GILLES">
+            <p>
+              <s>Ego.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-2" who="SANSQUARTIER">
+            <p>
+              <s>Sum.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-3" who="GILLES">
+            <p>
+              <s>Sum.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-4" who="SANSQUARTIER">
+            <p>
+              <s>Doctor, doctorantibus.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-5" who="LEMAITRE">
+            <p>
+              <s>Avec votre permission, Monsieur le docteur, j’ai oublié de dire quelque chose dans ma maison.</s>
+            </p>
+            <p>
+              <s>Qu’on l’arrête, qu’on lui coupe la gorge..., qu’on le jette dans l’eau bouillante, qu’on lui arrache poil à poil...</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-6" who="GILLES">
+            <p>
+              <s>Entends-tu tout ce qu’il dit ?... </s>
+              <s>Quelque sot qui ira haranguer cet homme-là !</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-7" who="DIVERTISSANT">
+            <p>
+              <s>Eh ! </s>
+              <s>Ne vois-tu pas bien qu’il s’agit apparemment du cochon de lait qu’on lui a envoyé il y a trois jours. </s>
+              <s>Tu t’effrayes de rien. </s>
+              <s>Qu’on le jette dans l’eau bouillante ; c’est pour le peler.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-8" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Ma foi, j’ai eu belle peur.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-9" who="DIVERTISSANT">
+            <p>
+              <s>Habille-toi ! </s>
+              <s>Allons ! </s>
+              <s>Un peu de courage ! </s>
+              <s>Le voici : Ego sum doctor. </s>
+            </p>
+          </sp>
+          <sp xml:id="III13-10" who="GILLES">
+            <p>
+              <s>Ego sum doctor.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-11" who="LEMAITRE">
+            <p>
+              <s>Je vous demande excuse, Monsieur le docteur. </s>
+              <s>Vous venez dans un moment où j’étais occupé. </s>
+              <s>Je suis à vous dans l’instant.</s>
+            </p>
+            <p>
+              <s>Qu’on lie ces cotrets..., qu’on en prenne cinq ou six ; des meilleurs parements.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-12" who="GILLES">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Qu’as-tu à dire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-13" who="SANSQUARTIER">
+            <p>
+              <s>Eh ! </s>
+              <s>Animal, c’est pour faire cuire le cochon de lait, pour lui donner de la couleur.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-14" who="GILLES">
+            <p>
+              <s>Cela pourrait bien être. </s>
+              <s>Je me suis alarmé hors propos. </s>
+            </p>
+            <p>
+              <s>Reprenons notre air grave. </s>
+              <s>Le voici : Ego sum doctor.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-15" who="LEMAITRE">
+            <p>
+              <s>Pardonnez, Monsieur, je n’ai qu’un petit mot à dire. </s>
+            </p>
+            <p>
+              <s>Quinte, quatorze et le point.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-16" who="GILLES">
+            <p>
+              <s>Ceci n’est point équivoque, pour le coup.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-17" who="SANSQUARTIER">
+            <p>
+              <s>Eh bien ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-18" who="GILLES">
+            <p>
+              <s>Quinze ou quatorze coups de poing !</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-19" who="DIVERTISSANT">
+            <p>
+              <s>Peste soit du butor ! </s>
+              <s>Il a dit quinte, quatorze et le point. </s>
+              <s>Sans doute, il avait commencé une partie de piquet.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-20" who="GILLES">
+            <p>
+              <s>Tu crois cela ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-21" who="SANSQUARTIER">
+            <p>
+              <s>Très certainement.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-22" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Que j’ai été alarmé !</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-23" who="DIVERTISSANT">
+            <p>
+              <s>Allons ! </s>
+              <s>remets ta robe. </s>
+            </p>
+          </sp>
+          <sp xml:id="III13-24" who="LEMAITRE">
+            <p>
+              <s>Eh bien, Monsieur le docteur ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-25" who="GILLES">
+            <p>
+              <s>Ego sum doctor...</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-26" who="LEMAITRE">
+            <p>
+              <s>Je suis à vous dans la minute.</s>
+            </p>
+            <p>
+              <s>Quatorze de valets.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-27" who="GILLES">
+            <p>
+              <s>Au diable si je les attends !</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-28" who="DIVERTISSANT">
+            <p>
+              <s>Peste soit du butor ! </s>
+              <s>Le piquet, animal ! </s>
+              <s>Le piquet ! </s>
+              <s>Quatorze de valets.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-29" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>J’ai cru être mort !</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-30" who="SANSQUARTIER">
+            <p>
+              <s>Allons ! </s>
+              <s>Bon courage ; rhabille-toi.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-31" who="LEMAITRE">
+            <p>
+              <s>Je ne puis avoir un moment à moi. </s>
+              <s>Eh bien, Docteur ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-32" who="GILLES">
+            <p>
+              <s>Ego sum doctor doctorantibus.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-33" who="LEMAITRE">
+            <p>
+              <s>Je reviens dans l’instant.</s>
+            </p>
+            <p>
+              <s>Pique, cœur, et je jette du carreau.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-34" who="GILLES">
+            <p>
+              <s>Qu’on lui pique le cœur, qu’on le jette sur le carreau ! </s>
+              <s>Dis donc encore que c’est là du piquet !</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-35" who="DIVERTISSANT">
+            <p>
+              <s>Très sûrement. </s>
+              <s>Tu l’as vu jouer cent fois à ce jeu-là. </s>
+              <s>Il nomme ses couleurs et la carte qu’il jette.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-36" who="GILLES">
+            <p>
+              <s>Oh ! </s>
+              <s>par ma foi, je n’en puis plus !...</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-37" who="SANSQUARTIER">
+            <p>
+              <s>Allons, Gilles, un peu de fermeté. </s>
+              <s>Tu t’effrayes de rien.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-38" who="LEMAITRE">
+            <p>
+              <s>Me voici, enfin, et la partie de piquet est finie.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-39" who="DIVERTISSANT">
+            <p>
+              <s>Tu vois bien qu’il jouait au piquet.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-40" who="GILLES">
+            <p>
+              <s>Effectivement. </s>
+              <s>Je vois que tu as raison.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-41" who="LEMAITRE">
+            <p>
+              <s>Eh bien ? </s>
+              <s>Monsieur le docteur, je vous attends. </s>
+              <s>Qu’avez-vous à me proposer pour ces messieurs ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-42" who="GILLES">
+            <p>
+              <s>Ego sum doctor.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-43" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Parbleu, j’oubliais le plus essentiel.</s>
+            </p>
+            <p>
+              <s>Jacqueline, que l’on aille tout à l’heure chercher le chaudronnier.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-44" who="GILLES">
+            <p>
+              <s>Le chaudronnier !... </s>
+              <s>Miséricorde !... </s>
+              <s>C’est là du piquet apparemment ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-45" who="DIVERTISSANT">
+            <p>
+              <s>Non, mon ami ; mais tu sais que les chaudrons, et surtout la principale marmite de la maison, sont en mauvais état.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-46" who="GILLES">
+            <p>
+              <s>Ah ! </s>
+              <s>Je suis plus qu’à demi mort. </s>
+              <s>Je n’ai de ma vie eu si peur !</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-47" who="SANSQUARTIER">
+            <p>
+              <s>Quelle misère ! </s>
+              <s>tu n’as non plus de courage qu’une poule mouillée. </s>
+            </p>
+          </sp>
+          <sp xml:id="III13-48" who="LEMAITRE">
+            <p>
+              <s>Enfin, vous finirez votre phrase. </s>
+              <s>Sum doctor doctorantibus.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-49" who="GILLES">
+            <p>
+              <s>Payantibus a Sansquartieribus, Divertissantibus et Gilantibus.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-50" who="LEMAITRE">
+            <p>
+              <s>Voilà un plaisant langage pour un docteur ! </s>
+              <s>De quelle université est-il ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-51" who="DIVERTISSANT">
+            <p>
+              <s>De Bourges, Monsieur.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-52" who="LEMAITRE">
+            <p>
+              <s>J’ai bien vu que ce n’était qu’un âne.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-53" who="SANSQUARTIER">
+            <p>
+              <s>Si nous avions eu plus d’argent, nous aurions acheté un docteur qui vous eût débité de meilleur latin. </s>
+              <s>Mais, comme vous n’avez jamais étudié qu’à Asnières...</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-54" who="GILLES">
+            <p>
+              <s>A Sansquartieribus, Divertissantibus et Gilantibus.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-55" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Monsieur Gilles ! </s>
+              <s>C’est donc vous qui faites le personnage de docteur. </s>
+              <s>Vous imaginez-vous que je ne vous aie pas reconnu tout dès l’abord ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-56" who="GILLES">
+            <p>
+              <s>Quel conte ! </s>
+              <s>Vous n’avez pas assez d’esprit pour cela...</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-57" who="LEMAITRE">
+            <p>
+              <s>Ah ! </s>
+              <s>Vous joignez l’insulte à l’insolence ! </s>
+              <s>Voilà comme j’étrille Monsieur le docteur de l’université d’Asnières.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-58" who="DIVERTISSANT">
+            <p>
+              <s>Mais, Monsieur, enfin ! </s>
+              <s>Nos gages ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-59" who="LEMAITRE">
+            <p>
+              <s>Voilà comment je les paye à des coquins tels que vous.</s>
+            </p>
+          </sp>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2251 @@
+
+
+**** *book_ *id_I01 *act_I *date_1665
+
+-*who_sganarelle
+Quoi que puisse dire Aristote et toute la Philosophie, il n'est rien d'égal au tabac : c'est la passion des honnêtes gens, et qui vit sans tabac n'est pas digne de vivre ; non seulement il réjouit et purge les cerveaux humains ; mais encore il instruit les âmes à la vertu, et l'on apprend avec lui à devenir honnête homme.
+Ne voyez-vous pas bien, dès qu'on en prend, de quelle manière obligeante on en use avec tout le monde, et comme on est ravi d'en donner à droit et à gauche, partout où l'on se trouve ?
+On n'attend pas même qu'on en demande, et l'on court au-devant du souhait des gens : tant il est vrai, que le tabac inspire des sentiments d'honneur, et de vertu, à tous ceux qui en prennent.
+Mais c'est assez de cette matière, reprenons un peu notre discours.
+Si bien donc, cher Gusman, que Done Elvire, ta maîtresse, surprise de notre départ, s'est mise en campagne après nous ; et son coeur, que mon maître a su toucher trop fortement, n'a pu vivre, dis-tu, sans le venir chercher ici ?Veux-tu qu'entre nous je te dise ma pensée ; j'ai peur qu'elle ne soit mal payée de son amour, que son voyage en cette ville produise peu de fruit, et que vous eussiez autant gagné à ne bouger de là.
+
+-*who_gusman
+Et la raison encore, dis-moi, je te prie, Sganarelle, qui peut t'inspirer une peur d'un si mauvais augure ?
+Ton maître t'a-t-il ouvert son coeur là-dessus, et t'a-t-il dit qu'il eût pour nous quelque froideur qui l'ait obligé à partir ?
+
+-*who_sganarelle
+Non pas, mais, à vue de pays, je connais à peu près le train des choses, et sans qu'il m'ait encore rien dit je gagerais presque que l'affaire va là.
+Je pourrais peut-être me tromper ; mais enfin, sur de tels sujets, l'expérience m'a pu donner quelques lumières.
+
+-*who_gusman
+Quoi, ce départ si peu prévu, serait une infidélité de Don Juan ?
+Il pourrait faire cette injure aux chastes feux de Done Elvire ?
+
+-*who_sganarelle
+Non, c'est qu'il est jeune encore, et qu'il n'a pas le courage.
+
+-*who_gusman
+Un homme de sa qualité ferait une action si lâche ?
+
+-*who_sganarelle
+Eh oui, sa qualité !
+La raison en est belle, et c'est par là qu'il s'empêcherait des choses.
+
+-*who_gusman
+Mais les saints nouds du mariage le tiennent engagé.
+
+-*who_sganarelle
+Eh !
+Mon pauvre Gusman, mon ami, tu ne sais pas encore, crois-moi, quel homme est Don Juan.
+
+-*who_gusman
+Je ne sais pas, de vrai, quel homme il peut être, s'il faut qu'il nous ait fait cette perfidie ; et je ne comprends point comme après tant d'amour et tant d'impatience témoignée, tant d'hommages pressants, de voeux, de soupirs, et de larmes, tant de lettres passionnées, de protestations ardentes et de serments réitérés ; tant de transports, enfin, et tant d'emportements qu'il a fait paraître, jusqu'à forcer dans sa passion l'obstacle sacré d'un couvent, pour mettre Done Elvire en sa puissance ; je ne comprends pas, dis-je, comme après tout cela il aurait le coeur de pouvoir manquer à sa parole.
+
+-*who_sganarelle
+Je n'ai pas grande peine à le comprendre moi, et si tu connaissais le pèlerin, tu trouverais la chose assez facile pour lui.
+Je ne dis pas qu'il ait changé de sentiments pour Done Elvire, je n'en ai point de certitude encore : tu sais que par son ordre je partis avant lui, et depuis son arrivée il ne m'a point entretenu, mais par précaution, je t'apprends (inter nos,) que tu vois en Don Juan mon maître, le plus grand scélérat que la terre ait jamais porté, un enragé, un chien, un démon, un Turc, un hérétique, qui ne croit, ni Ciel, ni Enfer, ni Diale, qui passe cette vie en véritable bête brute, un pourceau d'Épicure, un vrai Sardanapale, qui ferme l'oreille à toutes les remontrances qu'on lui peut faire, et traite de billevesées tout ce que nous croyons.
+Tu me dis qu'il a épousé ta maîtresse, crois qu'il aurait plus fait pour sa passion, et qu'avec elle il aurait encore épousé toi, son chien et son chat.
+Un mariage ne lui coûte rien à contracter, il ne se sert point d'autres pièges pour attraper les belles, et c'est un épouseur à toutes mains, Dame, Demoiselle, Bourgeoise, Paysanne, il ne trouve rien de trop chaud, ni de trop froid pour lui ; et si je te disais le nom de toutes celles qu'il a épousées en divers lieux, ce serait un chapitre à durer jusques au soir.
+Tu demeures surpris, et changes de couleur à ce discours ; ce n'est là qu'une ébauche du personnage, et pour en achever le portrait, il faudrait bien d'autres coups de pinceau, suffit qu'il faut que le courroux du Ciel l'accable quelque jour : qu'il me vaudrait bien mieux d'être au diable, que d'être à lui, et qu'il me fait voir tant d'horreurs, que je souhaiterais qu'il fût déjà je ne sais où ; mais un grand Seigneur méchant homme est une terrible chose ; il faut que je lui sois fidèle en dépit que j'en aie, la crainte en moi fait l'office du zèle, bride mes sentiments, et me réduit d'applaudir bien souvent à ce que mon âme déteste.
+Le voilà qui vient se promener dans ce Palais ; séparons-nous ; écoute, au moins, je t'ai fait cette confidence avec franchise, et cela m'est sorti un peu bien vite de la bouche ; mais s'il fallait qu'il en vînt quelque chose à ses oreilles, je dirais hautement que tu aurais menti.
+
+**** *book_ *id_I02 *act_I *date_1665
+
+-*who_donjuan
+Quel homme te parlait là, il a bien de l'air ce me semble du bon Gusman de Dona Elvire.
+
+-*who_sganarelle
+C'est quelque chose aussi à peu près de cela.
+
+-*who_donjuan
+Quoi, c'est lui ?
+
+-*who_sganarelle
+Lui-même.
+
+-*who_donjuan
+Et depuis quand est-il en cette ville ?
+
+-*who_sganarelle
+D'hier au soir.
+
+-*who_donjuan
+Et quel sujet l'amène ?
+
+-*who_sganarelle
+Je crois que vous jugez assez ce qui le peut inquiéter.
+
+-*who_donjuan
+Notre départ, sans doute ?
+
+-*who_sganarelle
+Le bonhomme en est tout mortifié, et m'en demandait le sujet.
+
+-*who_donjuan
+Et quelle réponse as-tu faite ?
+
+-*who_sganarelle
+Que vous ne m'en aviez rien dit.
+
+-*who_donjuan
+Mais encore, quelle est ta pensée là-dessus, que t'imagines-tu de cette affaire ?
+
+-*who_sganarelle
+Moi, je crois, sans vous faire tort, que vous avez quelque nouvel amour en tête.
+
+-*who_donjuan
+Tu le crois ?
+
+-*who_sganarelle
+Oui.
+
+-*who_donjuan
+Ma foi !
+Tu ne te trompes pas, et je dois t'avouer qu'un autre objet a chassé Elvire de ma pensée.
+
+-*who_sganarelle
+Eh !
+Mon Dieu !
+Je sais mon Don Juan, sur le bout du doigt, et connais votre coeur pour le plus grand coureur du monde, il se plaît à se promener de liens en liens, et n'aime guère demeurer en place.
+
+-*who_donjuan
+Et ne trouves-tu pas, dis-moi, que j'ai raison d'en user de la sorte ?
+
+-*who_sganarelle
+Eh, Monsieur.
+
+-*who_donjuan
+Quoi, parle ?
+
+-*who_sganarelle
+Assurément que vous avez raison, si vous le voulez, on ne peut pas aller là contre ; mais si vous ne le vouliez pas, ce serait peut-être une autre affaire.
+
+-*who_donjuan
+Eh bien, je te donne la liberté de parler et de me dire tes sentiments.
+
+-*who_sganarelle
+En ce cas, Monsieur, je vous dirai franchement que je n'approuve point votre méthode, et que je trouve fort vilain d'aimer de tous côtés comme vous faites.
+
+-*who_donjuan
+Quoi ?
+Tu veux qu'on se lie à demeurer au premier objet qui nous prend, qu'on renonce au monde pour lui, et qu'on n'ait plus d'yeux pour personne ?
+La belle chose de vouloir se piquer d'un faux honneur d'être fidèle, de s'ensevelir pour toujours dans une passion, et d'être mort dès sa jeunesse, à toutes les autres beautés qui nous peuvent frapper les yeux : non, non, la constance n'est bonne que pour des ridicules, toutes les belles ont droit de nous charmer, et l'avantage d'être rencontrée la première, ne doit point dérober aux autres les justes prétentions qu'elles ont toutes sur nos cours.
+Pour moi, la beauté me ravit partout où je la trouve ; et je cède facilement à cette douce violence, dont elle nous entraîne ; j'ai beau être engagé, l'amour que j'ai pour une belle, n'engage point mon âme à faire injustice aux autres ; je conserve des yeux pour voir le mérite de toutes, et rends à chacune les hommages et les tributs où la nature nous oblige.
+Quoi qu'il en soit, je ne puis refuser mon coeur à tout ce que je vois d'aimable, et dès qu'un beau visage me le demande, si j'en avais dix mille, je les donnerais tous.
+Les inclinations naissantes après tout, ont des charmes inexplicables, et tout le plaisir de l'amour est dans le changement.
+On goûte une douceur extrême à réduire par cent hommages le coeur d'une jeune beauté, à voir de jour en jour les petits progrès qu'on y fait ; à combattre par des transports, par des larmes et des soupirs, l'innocente pudeur d'une âme, qui a peine à rendre les armes, à forcer pied à pied toutes les petites résistances qu'elle nous oppose, à vaincre les scrupules dont elle se fait un honneur et la mener doucement, où nous avons envie de la faire venir.
+Mais lorsqu'on en est maître une fois, il n'y a plus rien à dire, ni rien à souhaiter, tout le beau de la passion est fini, et nous nous endormons dans la tranquillité d'un tel amour, si quelque objet nouveau ne vient réveiller nos désirs, et présenter à notre coeur les charmes attrayants d'une conquête à faire.
+Enfin, il n'est rien de si doux, que de triompher de la résistance d'une belle personne, et j'ai sur ce sujet l'ambition des conquérants, qui volent perpétuellement de victoire en victoire, et ne peuvent se résoudre à borner leurs souhaits.
+Il n'est rien qui puisse arrêter l'impétuosité de mes désirs, je me sens un coeur à aimer toute la terre ; et comme Alexandre, je souhaiterais qu'il y eût d'autres mondes, pour y pouvoir étendre mes conquêtes amoureuses.
+
+-*who_sganarelle
+Vertu de ma vie, comme vous débitez ; il semble que vous avez appris cela par coeur, et vous parlez tout comme un livre.
+
+-*who_donjuan
+Qu'as-tu à dire là-dessus ?
+
+-*who_sganarelle
+Ma foi !
+J'ai à dire...
+Je ne sais que dire ; car vous tournez les choses d'une manière, qu'il semble que vous avez raison, et cependant il est vrai que vous ne l'avez pas.
+J'avais les plus belles pensées du monde, et vos discours m'ont brouillé tout cela ; laissez faire, une autre fois je mettrai mes raisonnements par écrit, pour disputer avec vous.
+
+-*who_donjuan
+Tu feras bien.
+
+-*who_sganarelle
+Mais, Monsieur, cela serait-il de la permission que vous m'avez donnée, si je vous disais que je suis tant soit peu scandalisé de la vie que vous menez ?
+
+-*who_donjuan
+Comment, quelle vie est-ce que je mène ?
+
+-*who_sganarelle
+Fort bonne.
+Mais par exemple de vous voir tous les mois vous marier comme vous faites.
+
+-*who_donjuan
+Y a-t-il rien de plus agréable ?
+
+-*who_sganarelle
+Il est vrai, je conçois que cela est fort agréable, et fort divertissant, et je m'en accommoderais assez moi, s'il n'y avait point de mal, mais, Monsieur, se jouer ainsi du mariage qui...
+
+-*who_donjuan
+Va, va, c'est une affaire que je saurai bien démêler, sans que tu t'en mettes en peine.
+
+-*who_sganarelle
+Ma foi, Monsieur, vous faites une méchante raillerie.
+
+-*who_donjuan
+Holà, maître sot, vous savez que je vous ai dit que je n'aime pas les faiseurs de remontrances.
+
+-*who_sganarelle
+Je ne parle pas aussi à vous, Dieu m'en garde, vous savez ce que vous faites vous, et si vous êtes libertin, vous avez des raisons ; mais il y a de certains petits impertinents dans le monde, qui le sont, sans savoir pourquoi, qui font les esprits forts, parce qu'ils croient que cela leur sied bien ; et si j'avais un maître comme cela, je lui dirais nettement le regardant en face : c'est bien à vous, petit ver de terre, petit mirmidon que vous êtes, (je parle au maître que j'ai dit), c'est bien à vous à vouloir vous mêler de tourner en raillerie, ce que tous les hommes révèrent.
+Pensez-vous que pour être de qualité, pour avoir une perruque blonde et bien frisée, des plumes à votre chapeau, un habit bien doré, et des rubans couleur de feu, (ce n'est pas à vous que je parle, c'est à l'autre ;) pensez-vous, dis-je, que vous en soyez plus habile homme, que tout vous soit permis, et qu'on n'ose vous dire vos vérités ; Apprenez de moi, qui suis votre valet, que les libertins ne font jamais une bonne fin, et que...
+
+-*who_donjuan
+Paix !
+
+-*who_sganarelle
+De quoi est-il question ?
+
+-*who_donjuan
+Il est question de te dire qu'une beauté me tient au coeur, et qu'entraîné par ses appas, je l'ai suivie jusques en cette ville.
+
+-*who_sganarelle
+Et n'y craignez-vous rien, Monsieur, de la mort de ce Commandeur que vous tuâtes il y a six mois ?
+
+-*who_donjuan
+Et pourquoi craindre, ne l'ai-je pas bien tué ?
+
+-*who_sganarelle
+Fort bien, le mieux du monde, et il aurait tort de se plaindre.
+
+-*who_donjuan
+J'ai eu ma grâce de cette affaire.
+
+-*who_sganarelle
+Oui, mais cette grâce n'éteint pas peut-être le ressentiment des parents et des amis, et...
+
+-*who_donjuan
+Ah !
+N'allons point songer au mal qui nous peut arriver, et songeons seulement à ce qui nous peut donner du plaisir.
+La personne dont je te parle, est une jeune fiancée, la plus agréable du monde, qui a été conduite ici par celui même qu'elle y vient épouser ; et le hasard me fit voir ce couple d'amants, trois ou quatre jours avant leur voyage.
+Jamais je n'ai vu deux personnes être si contents l'un de l'autre, et faire éclater plus d'amour.
+La tendresse visible de leurs mutuelles ardeurs me donna de l'émotion ; j'en fus frappé au coeur, et mon amour commença par la jalousie.
+Oui, je ne pus souffrir d'abord de les voir si bien ensemble, le dépit alarma mes désirs, et je me figurai un plaisir extrême, à pouvoir troubler leur intelligence, et rompre cet attachement, dont la délicatesse de mon coeur se tenait offensée ; mais jusques ici tous mes efforts ont été inutiles, et j'ai recours au dernier remède.
+Cet époux prétendu doit aujourd'hui régaler sa maîtresse d'une promenade sur mer, sans t'en avoir rien dit, toutes choses sont préparées pour satisfaire mon amour, et j'ai une petite barque et des gens, avec quoi fort facilement je prétends enlever la belle.
+
+-*who_sganarelle
+Ha !
+Monsieur...
+
+-*who_donjuan
+Hen ?
+
+-*who_sganarelle
+C'est fort bien à vous, et vous le prenez comme il faut, il n'est rien tel en ce monde que de se contenter.
+
+-*who_donjuan
+Prépare-toi donc à venir avec moi, et prends soin toi-même d'apporter toutes mes armes, afin que...
+Ah !
+Rencontre fâcheuse, traître, tu ne m'avais pas dit qu'elle était ici elle-même.
+
+-*who_sganarelle
+Monsieur, vous ne me l'avez pas demandé.
+
+-*who_donjuan
+Est-elle folle, de n'avoir pas changé d'habit, et de venir en ce lieu-ci avec son équipage de campagne ?
+
+**** *book_ *id_I03 *act_I *date_1665
+
+-*who_donaelvire
+Me ferez-vous la grâce, Don Juan, de vouloir bien me reconnaître, et puis-je au moins espérer que vous daigniez tourner le visage de ce côté ?
+
+-*who_donjuan
+Madame, je vous avoue que je suis surpris, et que je ne vous attendais pas ici.
+
+-*who_donaelvire
+Oui, je vois bien que vous ne m'y attendiez pas ; et vous êtes surpris, à la vérité, mais tout autrement que je ne l'espérais, et la manière dont vous le paraissez me persuade pleinement ce que je refusais de croire.
+J'admire ma simplicité, et la faiblesse de mon coeur, à douter d'une trahison, que tant d'apparences me confirmaient.
+J'ai été assez bonne, je le confesse, ou plutôt assez sotte pour me vouloir tromper moi-même, et travailler à démentir mes yeux et mon jugement.
+J'ai cherché des raisons pour excuser à ma tendresse le relâchement d'amitié qu'elle voyait en vous ; et je me suis forgé exprès cent sujets légitimes d'un départ si précipité, pour vous justifier du crime dont ma raison vous accusait.
+Mes justes soupçons chaque jour avaient beau me parler, j'en rejetais la voix qui vous rendait criminel à mes yeux, et j'écoutais avec plaisir mille chimères ridicules qui vous peignaient innocent à mon coeur ; mais enfin cet abord ne me permet plus de douter, et le coup d'oeil qui m'a reçue m'apprend bien plus de choses, que je ne voudrais en savoir.
+Je serai bien aise pourtant d'ouïr de votre bouche les raisons de votre départ.
+Parlez, Don Juan, je vous prie, et voyons de quel air vous saurez vous justifier !
+
+-*who_donjuan
+Madame, voilà Sganarelle, qui sait pourquoi je suis parti.
+
+-*who_sganarelle
+Moi, Monsieur, je n'en sais rien, s'il vous plaît.
+
+-*who_donaelvire
+Hé bien, Sganarelle, parlez, il n'importe de quelle bouche j'entende ses raisons.
+
+-*who_donjuan
+Allons, parle donc à Madame.
+
+-*who_sganarelle
+Que voulez-vous que je dise ?
+
+-*who_donaelvire
+Approchez, puisqu'on le veut ainsi, et me dites un peu les causes d'un départ si prompt.
+
+-*who_donjuan
+Tu ne répondras pas ?
+
+-*who_sganarelle
+Je n'ai rien à répondre, vous vous moquez de votre serviteur.
+
+-*who_donjuan
+Veux-tu répondre, te dis-je ?
+
+-*who_sganarelle
+Madame...
+
+-*who_donaelvire
+Quoi ?
+
+-*who_sganarelle
+Monsieur...
+
+-*who_donjuan
+Si...
+
+-*who_sganarelle
+Madame, les conquérants, Alexandre et les autres mondes sont causes de notre départ ; voilà, Monsieur, tout ce que je puis dire.
+
+-*who_donaelvire
+Vous plaît-il, Don juan, nous éclaircir ces beaux mystères ?
+
+-*who_donjuan
+Madame, à vous dire la vérité.
+
+-*who_donaelvire
+Ah, que vous savez mal vous défendre pour un homme de Cour, et qui doit être accoutumé à ces sortes de choses !
+J'ai pitié de vous voir la confusion que vous avez.
+Que ne vous armez-vous le front d'une noble effronterie ?
+Que ne me jurez-vous que vous êtes toujours dans les mêmes sentiments pour moi, que vous m'aimez toujours avec une ardeur sans égale, et que rien n'est capable de vous détacher de moi que la mort !
+Que ne me dites-vous que des affaires de la dernière conséquence vous ont obligé à partir sans m'en donner avis, qu'il faut que malgré vous vous demeuriez ici quelque temps, et que je n'ai qu'à m'en retourner d'où je viens, assurée que vous suivrez mes pas le plus tôt qu'il vous sera possible : qu'il est certain que vous brûlez de me rejoindre, et qu'éloigné de moi, vous souffrez ce que souffre un corps qui est séparé de son âme ?
+Voilà comme il faut vous défendre, et non pas être interdit comme vous êtes.
+
+-*who_donjuan
+Je vous avoue, Madame, que je n'ai point le talent de dissimuler, et que je porte un coeur sincère.
+Je ne vous dirai point que je suis toujours dans les mêmes sentiments pour vous, et que je brûle de vous rejoindre, puisque enfin il est assuré que je ne suis parti que pour vous fuir ; non point par les raisons que vous pouvez vous figurer, mais par un pur motif de conscience, et pour ne croire pas qu'avec vous davantage je puisse vivre sans péché.
+Il m'est venu des scrupules, Madame, et j'ai ouvert les yeux de l'âme sur ce que je faisais.
+J'ai fait réflexion que, pour vous épouser, je vous ai dérobée à la clôture d'un couvent, que vous avez rompu des voeux, qui vous engageaient autre part, et que le Ciel est fort jaloux de ces sortes de choses.
+Le repentir m'a pris, et j'ai craint le courroux céleste.
+J'ai cru que notre mariage n'était qu'un adultère déguisé, qu'il nous attirerait quelque disgrâce d'en haut, et qu'enfin je devais tâcher de vous oublier, et vous donner moyen de retourner à vos premières chaînes.
+Voudriez-vous, Madame, vous opposer à une si sainte pensée, et que j'allasse, en vous retenant, me mettre le Ciel sur les bras, que par...
+
+-*who_donaelvire
+Ah !
+Scélérat, c'est maintenant que je te connais tout entier, et pour mon malheur, je te connais lorsqu'il n'en est plus temps, et qu'une telle connaissance ne peut plus me servir qu'à me désespérer ; mais sache que ton crime ne demeurera pas impuni, et que le même Ciel dont tu te joues, me saura venger de ta perfidie.
+
+-*who_donjuan
+Madame.
+
+-*who_donaelvire
+Il suffit.
+Je n'en veux pas ouïr davantage, et je m'accuse même d'en avoir trop entendu.
+C'est une lâcheté que de se faire expliquer trop sa honte, et sur de tels sujets, un noble coeur, au premier mot, doit prendre son parti.
+N'attends pas que j'éclate ici en reproches et en injures, non, non, je n'ai point un courroux à exhaler en paroles vaines, et toute sa chaleur se réserve pour sa vengeance.
+Je te le dis encore, le Ciel te punira, perfide, de l'outrage que tu me fais ; et si le Ciel n'a rien que tu puisses appréhender, appréhende du moins la colère d'une femme offensée.
+
+-*who_sganarelle
+Si le remords le pouvait prendre !
+
+-*who_donjuan
+Allons songer à l'exécution de notre entreprise amoureuse.
+
+-*who_sganarelle
+Ah, quel abominable maître me vois-je obligé de servir !
+
+**** *book_ *id_II01 *act_II *date_1665
+
+-*who_charlotte
+Nostre-dinse, Piarrot, tu t'es trouvé là bien à point.
+
+-*who_pierrot
+Parquienne, il ne s'en est pas fallu l'époisseur d'une éplinque qu'ils ne se sayant nayés tous deux.
+
+-*who_charlotte
+C'est donc le coup de vent da matin qui les avait renvarsés dans la mar ?
+
+-*who_pierrot
+Aga, guien, Charlotte, je m'en vas te conter tout fin drait comme cela est venu ; car, comme dit l'autre, je les ai le premier avisés, avisés le premier je les ai.
+Enfin donc, j'estions sur le bord de la mar, moi et le gros Lucas, et je nous amusions à batifoler avec des mottes de tarre que je nous jesquions à la teste : car, comme tu sais bian, le gros Lucas aime à batifoler, et moi par fouas je batifole itou.
+En batifolant donc, pisque batifoler y a, j'ai aparçu de tout loin queuque chose qui grouilloit dans gliau, et qui venait comme envars nous par secousse.
+Je voyois cela fixiblement, et pis tout d'un coup je voyois que je ne voyois plus rien.
+Eh !
+Lucas, ç'ai-je fait, je pense que vlà des hommes qui nageant là-bas.
+Voire, ce ma til fait, t'as esté au trépassement d'un chat, t'as la vue trouble.
+Palsanquienne, çai-je fait, je n'ai point la vue trouble : ce sont des hommes.
+Point du tout, ce m'a-t-il fait, t'as la barlue.
+Veux-tu gager, çai-je fait, que je n'ai point la barlue, cai-je fait, et que font deux hommes, çai-je fait, qui nageant droit ici, çai-je fait.
+Morquenne, ce ma til fait, je gage que non, o ça, çai-je fait, veux-tu gager dix sols que si ?
+Je le veux bian, ce ma til fait ; et pour te montrer, vlà argent su jeu, ce ma til fait.
+Moi, je n'ai point esté ni fou, ni estourdi, j'ai bravement bouté à tarre quatre pièces tapées et cinq sols en doubles, jergniguenne aussi hardiment que si j'avais avalé un varre de vin : car je ses hasardeux, moi, et je vas à la débandade.
+Je savois bian ce que je faisois pourtant, queuque gniais !
+Enfin donc, je n'avons pas putost eu gagé, que j'avons vu les deux hommes tout à plain qui nous faisiant signe de les aller querir, et moi de tirer auparavant les enjeux.
+Allons, Lucas, çai je dit, tu vois bian qu'ils nous appellont : allons viste à leu secours.
+Non, ce ma til dit, ils mont fait pardre.
+Ô donc tanquia, qu'à la parfin pour le faire court, je l'ai tant sarmonné, que je nous sommes boutés dans une barque, et pis j'avons tant fait cahin, caha, que je les avons tirés de gliau, et pis je les avons menés cheux nous auprès du feu, et pis ils se sant dépouillés tous nus pour se sécher, et pis il y en est venu encore deux de la mesme bande qui s'equiant sauvés tout seul, et pis Mathurine est arrivée là à qui l'en a fait les doux yeux, vlà justement, Charlotte, comme tout ça s'est fait.
+
+-*who_charlotte
+Ne m'as-tu pas dit, Piarrot, qu'il y en a un qu'est bien pu mieux fait que les autres ?
+
+-*who_pierrot
+Oui, c'est le maître, il faut que ce soit queuque gros gros Monsieur, car il a du dor à son habit tout de pis le haut jusqu'en bas ; et ceux qui le servont sont des Monsieux eux-mesmes ; et stapandant, tout gros Monsieur qu'il est, il serait par ma fique nayé si je naviomme été là.
+
+-*who_charlotte
+Ardez un peu.
+
+-*who_pierrot
+Ô parquenne, sans nous, il en avait pour sa maine de fèves.
+
+-*who_charlotte
+Est-il encore cheux toi tout nu, Piarrot ?
+
+-*who_pierrot
+Nannain, ils l'avont rhabillé tout devant nous.
+Mon quieu, je n'en avais jamais vu s'habiller, que d'histoires et d'angigorniaux boutont ces Messieus-là les courtisans, je me pardrois là dedans pour moi, et j'estois tout ébobi de voir ça.
+Quien, Charlotte, ils avont des cheveux qui ne tenont point à leu teste, et ils boutont ça après tout, comme un gros bonnet de filace.
+Ils ant des chemises qui ant des manches où j'entrerions tout brandis, toi et moi.
+En glieu d'haut de chausse, ils portont un garde-robe aussi large que d'ici à Pasque ; en glieu de pourpoint, de petites brassières, qui ne leu venont pas usqu'au brichet ; et en glieu de rabats, un grand mouchoir de cou à réziau, aveuc quatre grosses houppes de linge qui leu pendont sur l'estomaque.
+Ils avont itou d'autres petits rabats au bout des bras, et de grands entonnois de passement aux jambes, et parmi tout ça tant de rubans, tant de rubans, que c'est une vraie piquié.
+Ignia pas jusqu'aux souliers qui n'en soiont farcis tout de pis un bout jusqu'à l'autre ; et ils sont faits d'eune façon que je me romprois le cou aveuc.
+
+-*who_charlotte
+Par ma fi, Piarrot, il faut que j'aille voir un peu ça.
+
+-*who_pierrot
+Ô acoute un peu auparavant, Charlotte : j'ai queuque autre chose à te dire, moi.
+
+-*who_charlotte
+Et bian !
+Dis, qu'est-ce que c'est ?
+
+-*who_pierrot
+Vois-tu, Charlotte, il faut, comme dit l'autre, que je débonde mon coeur.
+Je t'aime, tu le sais bian, et je sommes pour estre mariés ensemble, mais marquenne, je ne suis point satisfait de toi.
+
+-*who_charlotte
+Quement ?
+Qu'est-ce que c'est donc qu'iglia ?
+
+-*who_pierrot
+Iglia que tu me chagraignes l'esprit, franchement.
+
+-*who_charlotte
+Et quement donc ?
+
+-*who_pierrot
+Testiguienne, tu ne m'aimes point.
+
+-*who_charlotte
+Ah !
+Ah !
+N'est que ça ?
+
+-*who_pierrot
+Oui, ce n'est que ça, et c'est bian assez.
+
+-*who_charlotte
+Mon quieu, Piarrot, tu me viens toujou dire la mesme chose.
+
+-*who_pierrot
+Je te dis toujou la mesme chose, parce que c'est toujou la mesme chose ; et si ce n'étoit pas toujou la mesme chose ; je ne te dirois pas toujou la mesme chose.
+
+-*who_charlotte
+Mais qu'est-ce qu'il te faut ?
+Que veux-tu ?
+
+-*who_pierrot
+Jerniquenne !
+Je veux que tu m'aimes.
+
+-*who_charlotte
+Est-ce que je ne t'aime pas ?
+
+-*who_pierrot
+Non, tu ne m'aimes pas ; et si, je fais tout ce que je pis pour ça.
+Je t'achète, sans reproche, des rubans à tous les marciers qui passont ; je me romps le cou à t'aller denicher des marles, je fais jouer pour toi les vielleux quand ce vient ta feste, et tout ça, comme si je me frappois la teste contre un mur.
+Vois-tu, ça n'est ni biau ni honneste de n'aimer pas les gens qui nous aimont.
+
+-*who_charlotte
+Mais, mon gnieu, je t'aime aussi.
+
+-*who_pierrot
+Oui, tu m'aimes d'une belle deguaine !
+
+-*who_charlotte
+Quement veux-tu donc qu'on fasse ?
+
+-*who_pierrot
+Je veux que l'en fasse comme l'en fait quand l'en aime comme il faut.
+
+-*who_charlotte
+Ne t'aimai-je pas aussi comme il faut ?
+
+-*who_pierrot
+Non !
+Quand ça est, ça se voit, et l'en fait mille petites singeries aux personnes quand on les aime du bon du coeur.
+Regarde la grosse Thomasse, comme elle est assotée du jeune Robain : alle est toujou autour de li à l'agacer, et ne le laisse jamais en repos ; toujou al li fait queuque niche ou li baille quelque taloche en passant ; et l'autre jour qu'il estoit assis sur un escabiau, al fut le tirer de dessous li, et le fit choir tout de son long par tarre.
+Jarni !
+Vlà où l'en voit les gens qui aimont ; mais toi, tu ne me dis jamais mot, t'es toujou là comme eune vraie souche de bois ; et je passerois vingt fois devant toi, que tu ne te grouillerois pas pour me bailler le moindre coup, ou me dire la moindre chose.
+Ventrequenne ! ça n'est pas bian, après tout, et t'es trop froide pour les gens.
+
+-*who_charlotte
+Que veux-tu que j'y fasse ?
+C'est mon himeur, et je ne me pis refondre.
+
+-*who_pierrot
+Ignia himeur qui quienne.
+Quand en a de l'amiquié pour les personnes, l'an en baille toujou queuque petite signifiance.
+
+-*who_charlotte
+Enfin je t'aime tout autant que je pis, et, si tu n'es pas content de ça, tu n'as qu'à en aimer queuque autre.
+
+-*who_pierrot
+Eh bien, vlà pas mon compte.
+Testigué, si tu m'aimais, me dirais-tu ça ?
+
+-*who_charlotte
+Pourquoi me viens-tu aussi tarabuster l'esprit ?
+
+-*who_pierrot
+Morqué !
+Queu mal te fais-je !
+Je ne te demande qu'un peu d'amiquié.
+
+-*who_charlotte
+Eh bian !
+Laisse faire aussi, et ne me presse point tant, peut-être que ça viendra tout d'un coup sans y songer.
+
+-*who_pierrot
+Touche donc là, Charlotte.
+
+-*who_charlotte
+Eien, quien.
+
+-*who_pierrot
+Promets-moi donc que tu tâcheras de m'aimer davantage.
+
+-*who_charlotte
+J'y ferai tout ce que je pourrai, mais il faut que ça vienne de lui-même.
+Pierrot, est-ce là ce Monsieur ?
+
+-*who_pierrot
+Oui, le vlà.
+
+-*who_charlotte
+Ah !
+Mon quieu, qu'il est genti, et que ç'auroit été dommage qu'il eût esté nayé !
+
+-*who_pierrot
+Je revians tout à l'heure : je m'en vas boire chopaine, pour me rebouter tant soit peu de la fatigue que j'ais eue.
+
+**** *book_ *id_II02 *act_II *date_1665
+
+-*who_donjuan
+Nous avons manqué notre coup, Sganarelle, et cette bourrasque imprévue a renversé avec notre barque le projet que nous avions fait ; mais, à te dire vrai, la paysanne que je viens de quitter répare ce malheur, et je lui ai trouvé des charmes qui effacent de mon esprit tout le chagrin que me donnait le mauvais succès de notre entreprise.
+Il ne faut pas que ce coeur m'échappe, et j'y ai déjà jeté des dispositions à ne pas me souffrir longtemps de pousser des soupirs.
+
+-*who_sganarelle
+Monsieur, j'avoue que vous m'étonnez.
+À peine sommes-nous échappés d'un péril de mort, qu'au lieu de rendre grâce au Ciel de la pitié qu'il a daigné prendre de nous, vous travaillez tout de nouveau à attirer sa colère par vos fantaisies accoutumées et vos amours cr...
+Paix !
+Coquin que vous êtes ; vous ne savez ce que vous dites, et Monsieur sait ce qu'il fait.
+Allons.
+
+-*who_donjuan
+Ah, ah, d'où sort cette autre paysanne, Sganarelle ?
+As-tu rien vu de plus joli ?
+Et ne trouves-tu pas, dis-moi, que celle-ci vaut bien l'autre ?
+
+-*who_sganarelle
+Assurément.
+Autre pièce nouvelle.
+
+-*who_donjuan
+D'où me vient, la belle, une rencontre si agréable ?
+Quoi, dans ces lieux champêtres, parmi ces arbres et ces rochers, on trouve des personnes faites comme vous êtes ?
+
+-*who_charlotte
+Vous voyez, Monsieur.
+
+-*who_donjuan
+Êtes-vous de ce village ?
+
+-*who_charlotte
+Oui, Monsieur.
+
+-*who_donjuan
+Et vous y demeurez ?
+
+-*who_charlotte
+Oui, Monsieur.
+
+-*who_donjuan
+Vous vous appelez ?
+
+-*who_charlotte
+Charlotte, pour vous servir.
+
+-*who_donjuan
+Ah !
+La belle personne, et que ses yeux sont pénétrants !
+
+-*who_charlotte
+Monsieur, vous me rendez toute honteuse.
+
+-*who_donjuan
+Ah, n'ayez point de honte d'entendre dire vos vérités.
+Sganarelle, qu'en dis-tu ?
+Peut-on voir rien de plus agréable ?
+Tournez-vous un peu, s'il vous plaît, ah que cette taille est jolie !
+Haussez un peu la tête, de grâce, ah que ce visage est mignon.
+Ouvrez vos yeux entièrement, ah qu'ils sont beaux !
+Que je voie un peu vos dents, je vous prie, ah qu'elles sont amoureuses !
+Et ces lèvres appétissantes.
+Pour moi, je suis ravi, et je n'ai jamais vu une si charmante personne.
+
+-*who_charlotte
+Monsieur, cela vous plaît à dire, et je ne sais pas si c'est pour vous railler de moi.
+
+-*who_donjuan
+Moi, me railler de vous ?
+Dieu m'en garde, je vous aime trop pour cela, et c'est du fond du coeur que je vous parle.
+
+-*who_charlotte
+Je vous suis bien obligée, si ça est.
+
+-*who_donjuan
+Point du tout, vous ne m'êtes point obligée de tout ce que je dis, et ce n'est qu'à votre beauté que vous en êtes redevable.
+
+-*who_charlotte
+Monsieur, tout ça est trop bien dit pour moi, et je n'ai pas d'esprit pour vous répondre.
+
+-*who_donjuan
+Sganarelle, regarde un peu ses mains.
+
+-*who_charlotte
+Fi, Monsieur, elles sont noires comme je ne sais quoi.
+
+-*who_donjuan
+Ha que dites-vous là, elles sont les plus belles du monde, souffrez que je les baise, je vous prie.
+
+-*who_charlotte
+Monsieur, c'est trop d'honneur que vous me faites, et si j'avais su ça tantôt, je n'aurais pas manqué de les laver avec du son.
+
+-*who_donjuan
+Et dites-moi un peu, Belle Charlotte, vous n'êtes pas mariée sans doute ?
+
+-*who_charlotte
+Non, Monsieur ; mais je dois bientôt l'être avec Piarrot, le fils de la voisine Simonette.
+
+-*who_donjuan
+Quoi ?
+Une personne comme vous serait la femme d'un simple paysan ?
+Non, non c'est profaner tant de beautés, et vous n'êtes pas née pour demeurer dans un village, vous méritez sans doute une meilleure fortune, et le Ciel, qui le connaît bien, m'a conduit ici tout exprès pour empêcher ce mariage, et rendre justice à vos charmes : car enfin, belle Charlotte, je vous aime de tout mon coeur, et il ne tiendra qu'à vous que je vous arrache de ce misérable lieu, et ne vous mette dans l'état où vous méritez d'être, cet amour est bien prompt sans doute ; mais quoi, c'est un effet, Charlotte, de votre grande beauté, et l'on vous aime autant en un quart d'heure, qu'on ferait une autre en six mois.
+
+-*who_charlotte
+Aussi vrai, Monsieur, je ne sais comment faire quand vous parlez, ce que vous dites me fait aise, et j'aurais toutes les envies du monde de vous croire, mais on m'a toujou dit qu'il ne faut jamais croire les Monsieux, et que vous autres courtisans êtes des enjoleus, qui ne songez qu'à abuser les filles.
+
+-*who_donjuan
+Je ne suis pas de ces gens-là.
+
+-*who_sganarelle
+Il n'a garde.
+
+-*who_charlotte
+Voyez-vous, Monsieur, il n'y a pas plaisir à se laisser abuser, je suis une pauvre paysanne, mais j'ai l'honneur en recommandation, et j'aimerais mieux me voir morte que de me voir déshonorée.
+
+-*who_donjuan
+Moi, j'aurais l'âme assez méchante pour abuser une personne comme vous, je serais assez lâche pour vous déshonorer ?
+Non, non, j'ai trop de conscience pour cela, je vous aime, Charlotte, en tout bien et en tout honneur, et pour vous montrer que je vous dis vrai, sachez que je n'ai point d'autre dessein que de vous épouser, en voulez-vous un plus grand témoignage, m'y voilà prêt quand vous voudrez, et je prends à témoin l'homme que voilà de la parole que je vous donne.
+
+-*who_sganarelle
+Non, non, ne craignez point, il se mariera avec vous tant que vous voudrez.
+
+-*who_donjuan
+Ah !
+Charlotte, je vois bien que vous ne me connaissez pas encore.
+Vous me faites grand tort de juger de moi par les autres, et s'il y a des fourbes dans le monde, des gens qui ne cherchent qu'à abuser des filles, vous devez me tirer du nombre, et ne pas mettre en doute la sincérité de ma foi, et puis votre beauté vous assure de tout.
+Quand on est faite comme vous, on doit être à couvert de toutes ces sortes de crainte, vous n'avez point l'air, croyez-moi, d'une personne qu'on abuse ; et pour moi, je l'avoue, je me percerais le coeur de mille coups, si j'avais eu la moindre pensée de vous trahir.
+
+-*who_charlotte
+Mon Dieu, je ne sais si vous dites vrai ou non, mais vous faites que l'on vous croit.
+
+-*who_donjuan
+Lorsque vous me croirez, vous me rendrez justice assurément, et je vous réitère encore la promesse que je vous ai faite, ne l'acceptez-vous pas ?
+Et ne voulez-vous pas consentir à être ma femme ?
+
+-*who_charlotte
+Oui, pourvu que ma tante le veuille.
+
+-*who_donjuan
+Touchez donc là, Charlotte, puisque vous le voulez bien de votre part.
+
+-*who_charlotte
+Mais au moins, Monsieur, ne m'allez pas tromper, je vous prie, il y aurait de la conscience à vous, et vous voyez comme j'y vais à la bonne foi.
+
+-*who_donjuan
+Comment, il semble que vous doutiez encore de ma sincérité ?
+Voulez-vous que je fasse des serments épouvantables ?
+Que le Ciel...
+
+-*who_charlotte
+Mon Dieu, ne jurez point, je vous crois.
+
+-*who_donjuan
+Donnez-moi donc un petit baiser pour gage de votre parole.
+
+-*who_charlotte
+Oh, Monsieur, attendez que je soyons mariés, je vous prie ; après, ça, je vous baiserai tant que vous voudrez.
+
+-*who_donjuan
+Eh bien, Belle Charlotte, je veux tout ce que vous voulez, abandonnez-moi seulement votre main, et souffrez que par mille baisers, je lui exprime le ravissement où je suis...
+
+**** *book_ *id_II03 *act_II *date_1665
+
+-*who_pierrot
+Tout doucement, Monsieur, tenez-vous, s'il vous plaît, vous vous échauffez trop, et vous pourriez gagner la purésie.
+
+-*who_donjuan
+Qui m'amène cet impertinent ?
+
+-*who_pierrot
+Je vous dis qu'où vous tegniez, et qu'ou ne caressiais point nos accordées.
+
+-*who_donjuan
+Ah !
+Que de bruit !
+
+-*who_pierrot
+Jerniquenne !
+Ce n'est pas comme ça qu'il faut pousser les gens.
+
+-*who_charlotte
+Et laisse-le faire aussi, Piarrot.
+
+-*who_pierrot
+Quement, que je le laisse faire.
+Je ne veux pas moi ?
+
+-*who_donjuan
+Ah !
+
+-*who_pierrot
+Testiguenne !
+Parce qu'ous êtes Monsieu, ous viendrez caresser nos femmes à notre barbe, allez-v's-en caresser les vôtres.
+
+-*who_donjuan
+Heu ?
+
+-*who_pierrot
+Heu.
+Testigué !
+Ne me frappez pas.
+Oh !
+Jernigué !
+Ventrequé !
+Palsanqué !
+Morquenne ! ça n'est pas bian de battre les gens, et ce n'est pas là la récompense de v's avoir sauvé d'être nayé.
+
+-*who_charlotte
+Piarrot, ne te fâche point.
+
+-*who_pierrot
+Je me veux fâcher, et t'es une vilaine toi d'endurer qu'on te cajole.
+
+-*who_charlotte
+Oh, Piarrot, ce n'est pas ce que tu penses, ce Monsieur veut m'épouser, et tu ne dois pas te bouter en colère.
+
+-*who_pierrot
+Quement ?
+Jerni, tu m'es promise.
+
+-*who_charlotte
+Ça n'y fait rien, Piarrot, si tu m'aimes ne dois-tu pas être bien aise que je devienne Madame ?
+
+-*who_pierrot
+Jerniqué, non, j'aime mieux te voir crevée que de te voir à un autre.
+
+-*who_charlotte
+Va, va, Piarrot, ne te mets point en peine : si je sis Madame, je te ferai gagner queuque chose, et tu apporteras du beurre et du fromage cheux nous.
+
+-*who_pierrot
+Ventrequenne, je gni en porterai jamais quand tu m'en poyrois deux fois autant.
+Est-ce donc comme ça que t'écoutes ce qu'il te dit ?
+Morquenne, si j'avais su ça tantôt, je me serais bian gardé de le tirer de gliau, et je gli aurois baillé un bon coup d'aviron sur la teste.
+
+-*who_donjuan
+Qu'est-ce que vous dites ?
+
+-*who_pierrot
+Jerniquenne, je ne crains parsonne.
+
+-*who_donjuan
+Attendez-moi un peu.
+
+-*who_pierrot
+Je me moque de tout, moi.
+
+-*who_donjuan
+Voyons cela.
+
+-*who_pierrot
+J'en avons bien vu d'autres.
+
+-*who_donjuan
+Houais !
+
+-*who_sganarelle
+Eh !
+Monsieur, laissez là ce pauvre misérable.
+C'est conscience de le battre.
+Écoute, mon pauvre garçon, retire-toi, et ne lui dis rien.
+
+-*who_pierrot
+Je veux lui dire, moi.
+
+-*who_donjuan
+Ah, je vous apprendrai.
+
+-*who_sganarelle
+Peste soit du maroufle !
+
+-*who_donjuan
+Te voilà payé de ta charité.
+
+-*who_pierrot
+Jarni !
+Je vas dire à sa tante tout ce ménage-ci.
+
+-*who_donjuan
+Enfin je m'en vais être le plus heureux de tous les hommes, et je ne changerais pas mon bonheur à toutes les choses du monde.
+Que de plaisirs quand vous serez ma femme, et que...
+
+**** *book_ *id_II04 *act_II *date_1665
+
+-*who_sganarelle
+Ah, ah.
+
+-*who_mathurine
+Monsieur, que faites-vous donc là avec Charlotte, est-ce que vous lui parlez d'amour aussi ?
+
+-*who_donjuan
+Non, au contraire, c'est elle qui me témoignait une envie d'être ma femme, et je lui répondais que j'étais engagé à vous.
+
+-*who_charlotte
+Qu'est-ce que c'est donc que vous veut Mathurine ?
+
+-*who_donjuan
+Elle est jalouse de me voir vous parler, et voudrait bien que je l'épousasse ; mais je lui dis que c'est vous que je veux.
+
+-*who_mathurine
+Quoi, Charlotte...
+
+-*who_donjuan
+Tout ce que vous lui direz sera inutile, elle s'est mis cela dans la tête.
+
+-*who_charlotte
+Quement donc Mathurine...
+
+-*who_donjuan
+C'est en vain que vous lui parlerez, vous ne lui ôterez point cette fantaisie.
+
+-*who_mathurine
+Est-ce que... ?
+
+-*who_donjuan
+Il n'y a pas moyen de lui faire entendre raison.
+
+-*who_charlotte
+Je voudrais...
+
+-*who_donjuan
+Elle est obstinée comme tous les diables.
+
+-*who_mathurine
+Vraiment...
+
+-*who_donjuan
+Ne lui dites rien, c'est une folle.
+
+-*who_charlotte
+Je pense...
+
+-*who_donjuan
+Laissez-la là, c'est une extravagante.
+
+-*who_mathurine
+Non, non, il faut que je lui parle.
+
+-*who_charlotte
+Je veux voir un peu ses raisons.
+
+-*who_mathurine
+Quoi...
+
+-*who_donjuan
+Je gage qu'elle va vous dire que je lui ai promis de l'épouser.
+
+-*who_charlotte
+Je...
+
+-*who_donjuan
+Gageons qu'elle vous soutiendra que je lui ai donné parole de la prendre pour femme.
+
+-*who_mathurine
+Holà, Charlotte, ça n'est pas bien de courir sur le marché des autres.
+
+-*who_charlotte
+Ça n'est pas honnête, Mathurine, d'être jalouse que Monsieur me parle.
+
+-*who_mathurine
+C'est moi que Monsieur a vue la première.
+
+-*who_charlotte
+S'il vous a vue la première, il m'a vue la seconde, et m'a promis de m'épouser.
+
+-*who_donjuan
+Eh bien !
+Que vous ai-je dit ?
+
+-*who_mathurine
+Je vous baise les mains, c'est moi, et non pas vous qu'il a promis d'épouser.
+
+-*who_donjuan
+N'ai-je pas deviné ?
+
+-*who_charlotte
+À d'autres, je vous prie, c'est moi, vous dis-je.
+
+-*who_mathurine
+Vous vous moquez des gens, c'est moi, encore un coup.
+
+-*who_charlotte
+Le vlà qui est pour le dire, si je n'ai pas raison.
+
+-*who_mathurine
+Le vlà qui est pour me démentir, si je ne dis pas vrai...
+
+-*who_charlotte
+Est-ce, Monsieur, que vous lui avez promis de l'épouser ?
+
+-*who_donjuan
+Vous vous raillez de moi.
+
+-*who_mathurine
+Est-il vrai, Monsieur, que vous lui avez donné parole d'être son mari ?
+
+-*who_donjuan
+Pouvez-vous avoir cette pensée ?
+
+-*who_charlotte
+Vous voyez qu'al le soutient.
+
+-*who_donjuan
+Laissez-la faire.
+
+-*who_mathurine
+Vous êtes témoin comme al l'assure.
+
+-*who_donjuan
+Laissez-la dire.
+
+-*who_charlotte
+Non, non : il faut savoir la vérité.
+
+-*who_mathurine
+Il est question de juger ça.
+
+-*who_charlotte
+Oui, Mathurine, je veux que Monsieur vous montre votre bec jaune.
+
+-*who_mathurine
+Oui, Charlotte, je veux que Monsieur vous rende un peu camuse.
+
+-*who_charlotte
+Monsieur, videz la querelle, s'il vous plaît.
+
+-*who_mathurine
+Mettez-nous d'accord, Monsieur.
+
+-*who_charlotte
+Vous allez voir.
+
+-*who_mathurine
+Vous allez voir vous-même.
+
+-*who_charlotte
+Dites.
+
+-*who_mathurine
+Parlez.
+
+-*who_donjuan
+Que voulez-vous que je dise ?
+Vous soutenez également toutes deux que je vous ai promis de vous prendre pour femmes.
+Est-ce chacune de vous ne sait pas ce qui en est, sans qu'il soit nécessaire que je m'explique davantage ?
+Pourquoi m'obliger là-dessus à des redites ?
+Celle à qui j'ai promis effectivement n'a-t-elle pas en elle-même de quoi se moquer des discours de l'autre, et doit-elle se mettre en peine, pourvu que j'accomplisse ma promesse ?
+Tous les discours n'avancent point les choses, il faut faire, et non pas dire, et les effets décident mieux que les paroles.
+Aussi n'est-ce rien que par là que je vous veux mettre d'accord, et l'on verra, quand je me marierai, laquelle des deux a mon coeur.
+Laissez-lui croire ce qu'elle voudra.
+Laissez-la se flatter dans son imagination.
+Je vous adore.
+Je suis tout à vous.
+Tous les visages sont laids auprès du vôtre.
+On ne peut plus souffrir les autres quand on vous a vue.
+J'ai un petit ordre à donner, je viens vous retrouver dans un quart d'heure.
+
+-*who_charlotte
+Je suis celle qu'il aime, au moins.
+
+-*who_mathurine
+C'est moi qu'il épousera.
+
+-*who_sganarelle
+Ah, pauvres filles que vous êtes, j'ai pitié de votre innocence, et je ne puis souffrir de vous voir courir à votre malheur.
+Croyez-moi l'une et l'autre, ne vous amusez point à tous les contes qu'on vous fait, et demeurez dans votre village.
+
+-*who_donjuan
+Je voudrais bien savoir pourquoi Sganarelle ne me suit pas.
+
+-*who_sganarelle
+Mon maître est un fourbe, il n'a dessein que de vous abuser, et en a bien abusé d'autres, c'est l'épouseur du genre humain, et...
+Cela est faux ; et quiconque vous dira cela, vous lui devez dire qu'il en a menti.
+Mon maître n'est point l'épouseur du genre humain, il n'est point fourbe, il n'a pas dessein de vous tromper, et n'en a point abusé d'autres.
+Ah, tenez, le voilà ; demandez le plutôt à lui-même.
+
+-*who_donjuan
+Oui.
+
+-*who_sganarelle
+Monsieur, comme le monde est plein de médisants, je vais au-devant des choses, et je leur disais que si quelqu'un leur venait dire du mal de vous, elles se gardassent bien de le croire, et ne manquassent pas de lui dire qu'il en aurait menti.
+
+-*who_donjuan
+Sganarelle.
+
+-*who_sganarelle
+Oui, Monsieur est homme d'honneur, je le garantis tel.
+
+-*who_donjuan
+Hon !
+
+-*who_sganarelle
+Ce sont des impertinents.
+
+**** *book_ *id_II05 *act_II *date_1665
+
+-*who_laramee
+Monsieur, je viens vous avertir qu'il ne fait pas bon ici pour vous.
+
+-*who_donjuan
+Comment ?
+
+-*who_laramee
+Douze hommes à cheval vous cherchent, qui doivent arriver ici dans un moment, je ne sais pas par quel moyen ils peuvent vous avoir suivi, mais j'ai appris cette nouvelle d'un paysan qu'ils ont interrogé, et auquel ils vous ont dépeint.
+L'affaire presse, et le plus tôt que vous pourrez sortir d'ici sera le meilleur.
+
+-*who_donjuan
+Une affaire pressante m'oblige de partir d'ici ; mais je vous prie de vous ressouvenir de la parole que je vous ai donnée, et de croire que vous aurez de mes nouvelles avant qu'il soit demain au soir.
+Comme la partie n'est pas égale, il faut user de stratagème, et éluder adroitement le malheur qui me cherche, je veux que Sganarelle se revête de mes habits, et moi...
+
+-*who_sganarelle
+Monsieur, vous vous moquez, m'exposer à être tué sous vos habits, et...
+
+-*who_donjuan
+Allons vite, c'est trop d'honneur que je vous fais, et bienheureux est le valet qui peut avoir la gloire de mourir pour son maître.
+
+-*who_sganarelle
+Je vous remercie d'un tel honneur.
+Ô Ciel, puisqu'il s'agit de mort, fais-moi la grâce de n'être point pris pour un autre !
+
+**** *book_ *id_III01 *act_III *date_1665
+
+-*who_sganarelle
+Ma foi, Monsieur, avouez que j'ai eu raison, et que nous voilà l'un et l'autre déguisés à merveille.
+Votre premier dessein n'était point du tout à propos, et ceci nous cache bien mieux que tout ce que vous vouliez faire.
+
+-*who_donjuan
+Il est vrai que te voilà bien, et je ne sais où tu as été déterrer cet attirail ridicule.
+
+-*who_sganarelle
+Oui ?
+C'est l'habit d'un vieux médecin, qui a été laissé en gage au lieu où je l'ai pris, et il m'en a coûté de l'argent pour l'avoir.
+Mais savez-vous, Monsieur, que cet habit me met déjà en considération ?
+Que je suis salué des gens que je rencontre, et que l'on me vient consulter ainsi qu'un habile homme ?
+
+-*who_donjuan
+Comment donc ?
+
+-*who_sganarelle
+Cinq ou six paysans et paysannes, en me voyant passer, me sont venus demander mon avis sur différentes maladies.
+
+-*who_donjuan
+Tu leur as répondu que tu n'y entendais rien ?
+
+-*who_sganarelle
+Moi, point du tout, j'ai voulu soutenir l'honneur de mon habit, j'ai raisonné sur le mal, et leur ai fait des ordonnances à chacun.
+
+-*who_donjuan
+Et quels remèdes encore leur as-tu ordonnés ?
+
+-*who_sganarelle
+Ma foi, Monsieur, j'en ai pris par où j'en ai pu attraper, j'ai fait mes ordonnances à l'aventure, et ce serait une chose plaisante si les malades guérissaient, et qu'on m'en vînt remercier.
+
+-*who_donjuan
+Et pourquoi non ?
+Par quelle raison n'aurais-tu pas les mêmes privilèges qu'ont tous les autres médecins ?
+Ils n'ont pas plus de part que toi aux guérisons des malades, et tout leur art est pure grimace.
+Ils ne font rien que recevoir la gloire des heureux succès, et tu peux profiter comme eux du bonheur du malade, et voir attribuer à tes remèdes tout ce qui peut venir des faveurs du hasard et des forces de la nature.
+
+-*who_sganarelle
+Comment, Monsieur, vous êtes aussi impie en médecine ?
+
+-*who_donjuan
+C'est une des grandes erreurs qui soit parmi les hommes.
+
+-*who_sganarelle
+Quoi ?
+Vous ne croyez pas au séné, ni à la casse, ni au vin émétique ?
+
+-*who_donjuan
+Et pourquoi veux-tu que j'y croie ?
+
+-*who_sganarelle
+Vous avez l'âme bien mécréante.
+Cependant vous voyez, depuis un temps, que le vin émétique fait bruire ses fuseaux.
+Ses miracles ont converti les plus incrédules esprits, et il n'y a pas trois semaines que j'en ai vu, moi qui vous parle, un effet merveilleux.
+
+-*who_donjuan
+Et quel ?
+
+-*who_sganarelle
+Il y avait un homme qui, depuis six jours, était à l'agonie ; on ne savait plus que lui ordonner, et tous les remèdes ne faisaient rien ; on s'avisa à la fin de lui donner de l'émétique.
+
+-*who_donjuan
+Il réchappa, n'est-ce pas ?
+
+-*who_sganarelle
+Non, il mourut.
+
+-*who_donjuan
+L'effet est admirable.
+
+-*who_sganarelle
+Comment ?
+Il y avait six jours entiers qu'il ne pouvait mourir, et cela le fit mourir tout d'un coup.
+Voulez-vous rien de plus efficace ?
+
+-*who_donjuan
+Tu as raison.
+
+-*who_sganarelle
+Mais laissons là la médecine, où vous ne croyez point, et parlons des autres choses : car cet habit me donne de l'esprit, et je me sens en humeur de disputer contre vous.
+Vous savez bien que vous me permettez les disputes, et que vous ne me défendez que les remontrances.
+
+-*who_donjuan
+Eh bien ?
+
+-*who_sganarelle
+Je veux savoir un peu vos pensées à fond, et vous connaître un peu mieux que je ne fais : ça quand voulez-vous mettre fin à vos débauches, et mener la vie d'un honnête homme ?
+
+-*who_donjuan
+Ah, maître sot !
+Vous allez d'abord aux remontrances.
+
+-*who_sganarelle
+Morbleu, je suis bien sot en effet de vouloir m'amuser avec vous ; faites tout ce que vous voudrez, il m'importe bien que vous vous perdiez ou non, et que...
+
+-*who_donjuan
+Tais-toi.
+Songeons à notre affaire.
+Ne serions nous point égarés ?
+Appelle cet homme que voilà là-bas pour lui demander le chemin.
+
+-*who_sganarelle
+Holà, ho, l'homme ; ho, mon compère, ho, l'ami, un petit mot s'il vous plaît.
+
+**** *book_ *id_III02 *act_III *date_1665
+
+-*who_sganarelle
+Enseignez-nous un peu le chemin qui mène à la ville.
+
+-*who_francisque
+Vous n'avez qu'à suivre cette route, Messieurs, et détourner à main droite quand vous serez au bout de la forêt.
+Mais je vous donne avis que vous devez vous tenir sur vos gardes, et que depuis quelque temps il y a des voleurs ici autour.
+
+-*who_donjuan
+Je te suis bien obligé, mon ami, et je te rends grâce de tout mon coeur de ton bon avis.
+
+-*who_sganarelle
+Ha, Monsieur, quel bruit, quel cliquetis !
+
+-*who_donjuan
+Que vois-je là, un homme attaqué par trois autres ?
+La Partie est trop inégale, et je ne dois pas souffrir cette lâcheté.
+
+**** *book_ *id_III03 *act_III *date_1665
+
+-*who_sganarelle
+Mon maître est un vrai enragé d'aller se présenter à un péril qui ne le cherche pas ; mais, ma foi !
+Le secours a servi, et les deux ont fait fuir les trois.
+
+-*who_doncarlos
+On voit, par la fuite de ces voleurs, de quel secours est votre bras, souffrez, Monsieur, que je vous rende grâce d'une action si généreuse, et que...
+
+-*who_donjuan
+Je n'ai rien fait, Monsieur, que vous n'eussiez fait en ma place.
+Notre propre honneur est intéressé dans de pareilles aventures, et l'action de ces coquins était si lâche, que c'eût été y prendre part que de ne s'y pas opposer, mais par quelle rencontre vous êtes-vous trouvé entre leurs mains ?
+
+-*who_doncarlos
+Je m'étais par hasard égaré d'un frère, et de tous ceux de notre suite, et comme je cherchais à les rejoindre, j'ai fait rencontre de ces voleurs, qui d'abord ont tué mon cheval, et qui sans votre valeur en auraient fait autant de moi.
+
+-*who_donjuan
+Votre dessein est-il d'aller du côté de la ville ?
+
+-*who_doncarlos
+Oui, mais sans y vouloir entrer, et nous nous voyons obligés, mon frère et moi, à tenir la campagne pour une de ces fâcheuses affaires qui réduisent les gentilshommes à se sacrifier, eux et leur famille, à la sévérité de leur honneur, puisqu'enfin le plus doux succès en est toujours funeste, et que si l'on ne quitte pas la vie, on est contraint de quitter le Royaume ; et c'est en quoi je trouve la condition d'un gentilhomme malheureuse, de ne pouvoir point s'assurer sur toute la prudence et toute l'honnêteté de sa conduite, d'être asservi par les lois de l'honneur au dérèglement de la conduite d'autrui, et de voir sa vie, son repos et ses biens dépendre de la fantaisie du premier téméraire, qui s'avisera de lui faire une de ces injures pour qui un honnête homme doit périr.
+
+-*who_donjuan
+On a cet avantage, qu'on fait courir le même risque, et passer mal aussi le temps à ceux qui prennent fantaisie de nous venir faire une offense de gaieté de coeur.
+Mais ne serait-ce point une indiscrétion que de vous demander quelle peut être votre affaire ?
+
+-*who_doncarlos
+La chose en est aux termes de n'en plus faire de secret, et lorsque l'injure a une fois éclaté, notre honneur ne va point à vouloir cacher notre honte, mais à faire éclater notre vengeance, et à publier même le dessein que nous en avons.
+Ainsi, Monsieur, je ne feindrai point de vous dire que l'offense que nous cherchons à venger est une soeur séduite et enlevée d'un convent, et que l'auteur de cette offense est un Don Juan Tenorio, fils de Don Louis Tenorio.
+Nous le cherchons depuis quelques jours, et nous l'avons suivi ce matin sur le rapport d'un valet, qui nous a dit qu'il sortait à cheval accompagné de quatre ou cinq, et qu'il avait pris le long de cette côte ; mais tous nos soins ont été inutiles, et nous n'avons pu découvrir ce qu'il est devenu.
+
+-*who_donjuan
+Le connaissez-vous, Monsieur, ce Don Juan dont vous parlez ?
+
+-*who_doncarlos
+Non, quant à moi.
+Je ne l'ai jamais vu, et je l'ai seulement ouï dépeindre à mon frère ; mais la Renommée n'en dit pas force bien, et c'est un homme dont la vie...
+
+-*who_donjuan
+Arrêtez, Monsieur, s'il vous plaît, il est un peu de mes amis, et ce serait à moi une espèce de lâcheté que d'en ouïr dire du mal.
+
+-*who_doncarlos
+Pour l'amour de vous, Monsieur, je n'en dirai rien du tout, et c'est bien la moindre chose que je vous doive, après m'avoir sauvé la vie, que de me taire devant vous d'une personne que vous connaissez, lorsque je ne puis en parler sans en dire du mal : mais, quelque ami que vous lui soyez, j'ose espérer que vous n'approuverez pas son action, et ne trouverez pas étrange que nous cherchions d'en prendre la vengeance.
+
+-*who_donjuan
+Au contraire, je vous y veux servir, et vous épargner des soins inutiles.
+Je suis ami de Don Juan, je ne puis pas m'en empêcher, mais il n'est pas raisonnable qu'il offense impunément des gentilshommes, et je m'engage à vous faire faire raison par lui.
+
+-*who_doncarlos
+Et quelle raison peut-on faire à ces sortes d'injures ?
+
+-*who_donjuan
+Toute celle que votre honneur et souhaiter ; et, sans vous donner la peine de chercher Don Juan davantage, je m'oblige à le faire trouver au lieu que vous voudrez, et quand il vous plaira.
+
+-*who_doncarlos
+Cet espoir est bien doux, Monsieur, à des coeurs offensés ; mais après ce que je vous dois, ce me serait une trop sensible douleur, que vous fussiez de la partie.
+
+-*who_donjuan
+Je suis si attaché à Don Juan qu'il ne saurait se battre que je ne me batte aussi ; mais enfin j'en réponds comme de moi-même, et vous n'avez qu'à dire quand vous voulez qu'il paraisse et vous donne satisfaction.
+
+-*who_doncarlos
+Que ma destinée est cruelle !
+Faut-il que je vous doive la vie, et que Don Juan soit de vos amis ?
+
+**** *book_ *id_III04 *act_III *date_1665
+
+-*who_donalonse
+Faites boire là mes chevaux, et qu'on les amène après nous ; je veux un peu marcher à pied.
+Ô Ciel !
+Que vois-je ici !
+Quoi ?
+Mon frère, vous voilà avec notre ennemi mortel ?
+
+-*who_doncarlos
+Notre ennemi mortel ?
+
+-*who_donjuan
+Oui, je suis Don Juan moi-même, et l'avantage du nombre ne m'obligera pas à vouloir déguiser mon nom.
+
+-*who_donalonse
+Ah !
+Traître, il faut que tu périsses, et...
+
+-*who_doncarlos
+Ah, mon frère, arrêtez, je lui suis redevable de la vie, et sans le secours de son bras, j'aurais été tué par des voleurs que j'ai trouvés !
+
+-*who_donalonse
+Et voulez-vous que cette considération empêche notre vengeance ?
+Tous les services que nous rend une main ennemie ne sont d'aucun mérite pour engager notre âme ; et s'il faut mesurer l'obligation à l'injure, votre reconnaissance, mon frère, est ici ridicule, et comme l'honneur est infiniment plus précieux que la vie, c'est ne devoir rien proprement, que d'être redevable de la vie à qui nous a ôté l'honneur.
+
+-*who_doncarlos
+Je sais la différence, mon frère, qu'un gentilhomme doit toujours mettre entre l'un et l'autre, et la reconnaissance de l'obligation n'efface point en moi le ressentiment de l'injure : mais souffrez que je lui rende ici ce qu'il m'a prêté, que je m'acquitte sur-le-champ de la vie que je lui dois, par un délai de notre vengeance, et lui laisse la liberté de jouir, durant quelques jours, du fruit de son bienfait.
+
+-*who_donalonse
+Non, non, c'est hasarder notre vengeance que de la reculer et l'occasion de la prendre peut ne plus revenir ; le Ciel nous l'offre ici, c'est à nous d'en profiter.
+Lorsque l'honneur est blessé mortellement, on ne doit point songer à garder aucunes mesures, et si vous répugnez à prêter votre bras à cette action, vous n'avez qu'a vous retirer, et laisser à ma main la gloire d'un tel sacrifice.
+
+-*who_doncarlos
+De grâce, mon frère...
+
+-*who_donalonse
+Tous ces discours sont superflus ; il faut qu'il meure.
+
+-*who_doncarlos
+Arrêtez-vous, dis-je, mon frère, je ne souffrirai point du tout qu'on attaque ses jours, et je jure le Ciel que je le défendrai ici contre qui que ce soit, et je saurai lui faire un rempart de cette même vie qu'il a sauvée, et pour adresser vos coups, il faudra que vous me perciez.
+
+-*who_donalonse
+Quoi vous prenez le parti de notre ennemi contre moi, et loin d'être saisi à son aspect des mêmes transports que je sens, vous faites voir pour lui des sentiments pleins de douceur ?
+
+-*who_doncarlos
+Mon frère, montrons de la modération dans une action légitime, et ne vengeons point notre honneur avec cet emportement que vous témoignez.
+Ayons du coeur dont nous soyons les maîtres, une valeur qui n'ait rien de farouche, et qui se porte aux choses par une pure délibération de notre raison, et non point par le mouvement d'une aveugle colère.
+Je ne veux point, mon frère, demeurer redevable à mon ennemi, et je lui ai une obligation dont il faut que je m'acquitte avant toute chose.
+Notre vengeance, pour être différée, n'en sera pas moins éclatante ; au contraire, elle en tirera de l'avantage, et cette occasion de l'avoir pu prendre la fera paraître plus juste aux yeux de tout le monde.
+
+-*who_donalonse
+Ô l'étrange faiblesse, et l'aveuglement effroyable d'hasarder ainsi les intérêts de son honneur pour la ridicule pensée d'une obligation chimérique !
+
+-*who_doncarlos
+Non, mon frère, ne vous mettez pas en peine ; si je fais une faute, je saurai bien la réparer, et je me charge de tout le soin de notre honneur ; je sais à quoi il nous oblige, et cette suspension d'un jour, que ma reconnaissance lui demande, ne fera qu'augmenter l'ardeur que j'ai de le satisfaire.
+Don Juan, vous voyez que j'ai soin de vous rendre le bien que j'ai reçu de vous, et vous devez par là juger du reste, croire que je m'acquitte avec même chaleur de ce que je dois, et que je ne serai pas moins exact à vous payer l'injure que le bienfait.
+Je ne veux point vous obliger ici à expliquer vos sentiments, et je vous donne la liberté de penser à loisir aux résolutions que vous avez à prendre.
+Vous connaissez assez la grandeur de l'offense que vous nous avez faite, et je vous fais juge vous-même des réparations qu'elle demande.
+Il est des moyens doux pour nous satisfaire ; il en est de violents et de sanglants ; mais enfin, quelque choix que vous fassiez, vous m'avez donné parole de me faire faire raison par Don Juan : songez à me la faire, je vous prie, et vous ressouvenez que hors d'ici je ne dois plus qu'à mon honneur.
+
+-*who_donjuan
+Je n'ai rien exigé de vous, et vous tiendrai ce que j'ai promis.
+
+-*who_doncarlos
+Allons, mon frère, un moment de douceur ne fait aucune injure à la sévérité de notre devoir.
+
+**** *book_ *id_III05 *act_III *date_1665
+
+-*who_donjuan
+Holà, hé, Sganarelle !
+
+-*who_sganarelle
+Plaît-il ?
+
+-*who_donjuan
+Comment, coquin, tu fuis quand on m'attaque ?
+
+-*who_sganarelle
+Pardonnez-moi, Monsieur ; je viens seulement d'ici près, je crois que cet habit est purgatif, et que c'est prendre médecine que de le porter.
+
+-*who_donjuan
+Peste soit l'insolent !
+Couvre au moins ta poltronnerie d'un voile plus honnête, sais-tu bien qui est celui à qui j'ai sauvé la vie.
+
+-*who_sganarelle
+Moi ?
+Non.
+
+-*who_donjuan
+C'est un frère d'Elvire.
+
+-*who_sganarelle
+Un...
+
+-*who_donjuan
+Il est assez honnête homme, il en a bien usé, et j'ai regret d'avoir démêlé avec lui.
+
+-*who_sganarelle
+Il vous serait aisé de pacifier toutes choses.
+
+-*who_donjuan
+Oui ; mais ma passion est usée pour Done Elvire, et l'engagement ne compatit point avec mon humeur.
+J'aime la liberté en amour, tu le sais, et je ne saurais me résoudre à renfermer mon coeur entre quatre murailles.
+Je te l'ai dit vingt fois, j'ai une pente naturelle à me laisser aller à tout ce qui m'attire.
+Mon coeur est à toutes les belles, et c'est à elles à le prendre tour à tour et à le garder tant qu'elles le pourront.
+Mais quel est le superbe édifice que je vois entre ces arbres ?
+
+-*who_sganarelle
+Vous ne le savez pas ?
+
+-*who_donjuan
+Non, vraiment.
+
+-*who_sganarelle
+Bon !
+C'est le tombeau que le Commandeur faisait faire lorsque vous le tuâtes.
+
+-*who_donjuan
+Ah, tu as raison, je ne savais pas que c'était de ce côté-ci qu'il était.
+Tout le monde m'a dit des merveilles de cet ouvrage, aussi bien que de la statue du Commandeur, et j'ai envie de l'aller voir.
+
+-*who_sganarelle
+Monsieur, n'allez point là.
+
+-*who_donjuan
+Pourquoi ?
+
+-*who_sganarelle
+Cela n'est pas civil, d'aller voir un homme que vous avez tué.
+
+-*who_donjuan
+Au contraire, c'est une visite dont je lui veux faire civilité, et qu'il doit recevoir de bonne grâce, s'il est galant homme.
+Allons, entrons dedans.
+
+-*who_sganarelle
+Ah !
+Que cela est beau !
+Les belles statues !
+Le beau marbre !
+Les beaux piliers !
+Ah !
+Que cela est beau !
+Qu'en dites-vous, Monsieur ?
+
+-*who_donjuan
+Qu'on ne peut voir aller plus loin l'ambition d'un homme mort, et ce que je trouve admirable, c'est qu'un homme qui s'est passé, durant sa vie, d'une assez simple demeure, en veuille avoir une si magnifique pour quand il n'en a plus que faire.
+
+-*who_sganarelle
+Voici la statue du Commandeur.
+
+-*who_donjuan
+Parbleu, le voilà bon, avec son habit d'empereur romain !
+
+-*who_sganarelle
+Ma foi, Monsieur, voilà qui est bien fait.
+Il semble qu'il est en vie, et qu'il s'en va parler.
+Il jette des regards sur nous qui me feraient peur, si j'étais tout seul, et je pense qu'il ne prend pas plaisir de nous voir.
+
+-*who_donjuan
+Il aurait tort, et ce serait mal recevoir l'honneur que je lui fais.
+Demande-lui s'il veut venir souper avec moi.
+
+-*who_sganarelle
+C'est une chose dont il n'a pas besoin, je crois.
+
+-*who_donjuan
+Demande-lui, te dis-je.
+
+-*who_sganarelle
+Vous moquez-vous ?
+Ce serait être fou que d'aller parler à une statue.
+
+-*who_donjuan
+Fais ce que je te dis.
+
+-*who_sganarelle
+Quelle bizarrerie !
+Seigneur Commandeur...
+Je ris de ma sottise, mais c'est mon maître qui me la fait faire.
+Seigneur Commandeur, mon maître Don Juan vous demande si vous voulez lui faire l'honneur de venir souper avec lui.
+Ha !
+
+-*who_donjuan
+Qu'est-ce ?
+Qu'as-tu ?
+Dis donc, veux-tu parler ?
+
+-*who_sganarelle
+La Statue...
+
+-*who_donjuan
+Eh bien !
+Que veux-tu dire, traître ?
+
+-*who_sganarelle
+Je vous dis que la Statue...
+
+-*who_donjuan
+Eh bien, la Statue ?
+Je t'assomme, si tu ne parles.
+
+-*who_sganarelle
+La Statue m'a fait signe.
+
+-*who_donjuan
+La peste le coquin !
+
+-*who_sganarelle
+Elle m'a fait signe, vous dis-je : il n'est rien de plus vrai.
+Allez-vous-en lui parler vous-même pour voir, peut-être...
+
+-*who_donjuan
+Viens, maraud, viens, je te veux bien faire toucher au doigt ta poltronnerie, prends garde.
+Le Seigneur Commandeur voudrait-il venir souper avec moi ?
+
+-*who_sganarelle
+Je ne voudrais pas en tenir dix pistoles.
+Eh bien, monsieur ?
+
+-*who_donjuan
+Allons, sortons d'ici.
+
+-*who_sganarelle
+Voilà de mes esprits forts, qui ne veulent rien croire.
+
+**** *book_ *id_IV01 *act_IV *date_1665
+
+-*who_donjuan
+Quoi qu'il en soit, laissons cela : c'est une bagatelle, et nous pouvons avoir été trompés par un faux jour, ou surpris de quelque vapeur qui nous ait troublé la vue.
+
+-*who_sganarelle
+Eh !
+Monsieur, ne cherchez point à démentir ce que nous avons vu des yeux que voilà.
+Il n'est rien de plus véritable que ce signe de tête ; et je ne doute point que le Ciel, scandalisé de votre vie, n'ait produit ce miracle pour vous convaincre, et pour vous retirer de...
+
+-*who_donjuan
+Écoute.
+Si tu m'importunes davantage de tes sottes moralités, si tu me dis encore le moindre mot là-dessus, je vais appeler quelqu'un, demander un nerf de boeuf, te faire tenir par trois ou quatre, et te rouer de mille coups.
+M'entends-tu bien ?
+
+-*who_sganarelle
+Fort bien, Monsieur, le mieux du monde.
+Vous vous expliquez clairement ; c'est ce qu'il y a de bon en vous, que vous n'allez point chercher de détours : vous dites les choses avec une netteté admirable.
+
+-*who_donjuan
+Allons, qu'on me fasse souper le plus tôt que l'on pourra, une chaise, petit garçon.
+
+**** *book_ *id_IV02 *act_IV *date_1665
+
+-*who_laviolette
+Monsieur, voilà votre marchand, Monsieur Dimanche, qui demande à vous parler.
+
+-*who_sganarelle
+Bon, voilà ce qu'il nous faut, qu'un compliment de créancier.
+De quoi s'avise-t-il de nous venir demander de l'argent, et que ne lui disais-tu que Monsieur n'y est pas ?
+
+-*who_laviolette
+Il y a trois quarts d'heure que je lui dis, mais il ne veut pas le croire, et s'est assis là dedans pour attendre.
+
+-*who_sganarelle
+Qu'il attende, tant qu'il voudra.
+
+-*who_donjuan
+Non, au contraire, faites-le entrer.
+C'est une fort mauvaise politique que de se faire celer aux créanciers.
+Il est bon de les payer de quelque chose, et j'ai le secret de les renvoyer satisfaits sans leur donner un double.
+
+**** *book_ *id_IV03 *act_IV *date_1665
+
+-*who_donjuan
+Ah !
+Monsieur Dimanche, approchez.
+Que je suis ravi de vous voir, et que je veux de mal à mes gens de ne vous pas faire entrer d'abord !
+J'avais donné ordre qu'on ne me fît parler personne, mais cet ordre n'est pas pour vous, et vous êtes en droit de ne trouver jamais de porte fermée chez moi.
+
+-*who_monsieurdimanche
+Monsieur, je vous suis fort obligé.
+
+-*who_donjuan
+Parbleu, coquins, je vous apprendrai à laisser Monsieur Dimanche dans une antichambre, et je vous ferai connaître les gens.
+
+-*who_monsieurdimanche
+Monsieur, cela n'est rien.
+
+-*who_donjuan
+Comment ?
+Vous dire que je n'y suis pas, à Monsieur Dimanche, au meilleur de mes amis ?
+
+-*who_monsieurdimanche
+Monsieur, je suis votre serviteur.
+J'étais venu...
+
+-*who_donjuan
+Allons vite, un siège pour Monsieur Dimanche.
+
+-*who_monsieurdimanche
+Monsieur, je suis bien comme cela.
+
+-*who_donjuan
+Point, point, je veux que vous soyez assis contre moi.
+
+-*who_monsieurdimanche
+Cela n'est point nécessaire.
+
+-*who_donjuan
+Ôtez ce pliant, et apportez un fauteuil.
+
+-*who_monsieurdimanche
+Monsieur, vous vous moquez, et...
+
+-*who_donjuan
+Non, non, je sais ce que je vous dois, et je ne veux point qu'on mette de différence entre nous deux.
+
+-*who_monsieurdimanche
+Monsieur...
+
+-*who_donjuan
+Allons, asseyez-vous.
+
+-*who_monsieurdimanche
+Il n'est pas besoin, Monsieur, et je n'ai qu'un mot à vous dire.
+J'étais...
+
+-*who_donjuan
+Mettez-vous là, vous dis-je.
+
+-*who_monsieurdimanche
+Non, Monsieur, je suis bien.
+Je viens pour...
+
+-*who_donjuan
+Non, je ne vous écoute point si vous n'êtes assis.
+
+-*who_monsieurdimanche
+Monsieur, je fais ce que vous voulez.
+Je...
+
+-*who_donjuan
+Parbleu, Monsieur Dimanche, vous vous portez bien.
+
+-*who_monsieurdimanche
+Oui, Monsieur, pour vous rendre service.
+Je suis venu...
+
+-*who_donjuan
+Vous avez un fonds de santé admirable, des lèvres fraîches, un teint vermeil, et des yeux vifs.
+
+-*who_monsieurdimanche
+Je voudrais bien...
+
+-*who_donjuan
+Comment se porte Madame Dimanche, votre épouse ?
+
+-*who_monsieurdimanche
+Fort bien, Monsieur, Dieu merci.
+
+-*who_donjuan
+C'est une brave femme.
+
+-*who_monsieurdimanche
+Elle est votre servante, Monsieur.
+Je venais...
+
+-*who_donjuan
+Et votre petite fille Claudine, comment se porte-t-elle ?
+
+-*who_monsieurdimanche
+Le mieux du monde.
+
+-*who_donjuan
+La jolie petite fille que c'est !
+Je l'aime de tout mon coeur.
+
+-*who_monsieurdimanche
+C'est trop d'honneur que vous lui faites, Monsieur.
+Je vous...
+
+-*who_donjuan
+Et le petit Colin, fait-il toujours bien du bruit avec son tambour ?
+
+-*who_monsieurdimanche
+Toujours de même, Monsieur.
+Je...
+
+-*who_donjuan
+Et votre petit chien Brusquet ?
+Gronde-t-il toujours aussi fort, et mord-il toujours bien aux jambes les gens qui vont chez vous ?
+
+-*who_monsieurdimanche
+Plus que jamais, Monsieur, et nous ne saurions en chévir.
+
+-*who_donjuan
+Ne vous étonnez pas si je m'informe des nouvelles de toute la famille, car j'y prends beaucoup d'intérêt.
+
+-*who_monsieurdimanche
+Nous vous sommes, Monsieur, infiniment obligés.
+Je...
+
+-*who_donjuan
+Touchez donc là, Monsieur Dimanche.
+Êtes-vous bien de mes amis ?
+
+-*who_monsieurdimanche
+Monsieur, je suis votre serviteur.
+
+-*who_donjuan
+Parbleu !
+Je suis à vous de tout mon coeur.
+
+-*who_monsieurdimanche
+Vous m'honorez trop.
+Je...
+
+-*who_donjuan
+Il n'y a rien que je ne fisse pour vous.
+
+-*who_monsieurdimanche
+Monsieur, vous avez trop de bonté pour moi.
+
+-*who_donjuan
+Et cela sans intérêt, je vous prie de le croire.
+
+-*who_monsieurdimanche
+Je n'ai point mérité cette grâce assurément.
+Mais, Monsieur...
+
+-*who_donjuan
+Oh, çà, Monsieur Dimanche, sans façon, voulez-vous souper avec moi ?
+
+-*who_monsieurdimanche
+Non, Monsieur, il faut que je m'en retourne tout à l'heure.
+Je...
+
+-*who_donjuan
+Allons, vite un flambeau pour conduire Monsieur Dimanche et que quatre ou cinq de mes gens prennent des mousquetons pour l'escorter.
+
+-*who_monsieurdimanche
+Monsieur, il n'est pas nécessaire, et je m'en irai bien tout seul.
+Mais...
+
+-*who_donjuan
+Comment ?
+Je veux qu'on vous escorte, et je m'intéresse trop à votre personne, je suis votre serviteur, et de plus votre débiteur.
+
+-*who_monsieurdimanche
+Ah, Monsieur...
+
+-*who_donjuan
+C'est une chose que je ne cache pas, et je le dis à tout le monde.
+
+-*who_monsieurdimanche
+Si...
+
+-*who_donjuan
+Voulez-vous que je vous reconduise ?
+
+-*who_monsieurdimanche
+Ah !
+Monsieur, vous vous moquez, Monsieur...
+
+-*who_donjuan
+Embrassez-moi donc, s'il vous plaît, je vous prie encore une fois d'être persuadé que je suis tout à vous, et qu'il n'y a rien au monde que je ne fisse pour votre service.
+
+-*who_sganarelle
+Il faut avouer que vous avez en Monsieur un homme qui vous aime bien.
+
+-*who_monsieurdimanche
+Il est vrai, il me fait tant de civilités et tant de compliments que je ne saurais jamais lui demander de l'argent.
+
+-*who_sganarelle
+Je vous assure que toute sa maison périrait pour vous ; et je voudrais qu'il vous arrivât quelque chose, que quelqu'un s'avisât de vous donner des coups de bâton, vous verriez de quelle manière...
+
+-*who_monsieurdimanche
+Je le crois, mais, Sganarelle, je vous prie de lui dire un petit mot de mon argent.
+
+-*who_sganarelle
+Oh, ne vous mettez pas en peine.
+Il vous payera le mieux du monde.
+
+-*who_monsieurdimanche
+Mais vous, Sganarelle, vous me devez quelque chose en votre particulier.
+
+-*who_sganarelle
+Fi, Ne parlez pas de cela.
+
+-*who_monsieurdimanche
+Comment ?
+Je...
+
+-*who_sganarelle
+Ne sais-je pas bien que je vous dois ?
+
+-*who_monsieurdimanche
+Oui, mais...
+
+-*who_sganarelle
+Allons, Monsieur Dimanche, je vais vous éclairer.
+
+-*who_monsieurdimanche
+Mais mon argent...
+
+-*who_sganarelle
+Vous moquez-vous ?
+
+-*who_monsieurdimanche
+Je veux...
+
+-*who_sganarelle
+Eh !
+
+-*who_monsieurdimanche
+J'entends...
+
+-*who_sganarelle
+Bagatelles.
+
+-*who_monsieurdimanche
+Mais...
+
+-*who_sganarelle
+Fi !
+
+-*who_monsieurdimanche
+Je...
+
+-*who_sganarelle
+Fi !
+Vous dis-je.
+
+**** *book_ *id_IV04 *act_IV *date_1665
+
+-*who_laviolette
+Monsieur, voilà Monsieur votre père.
+
+-*who_donjuan
+Ah, me voici bien, il me fallait cette visite pour me faire enrager.
+
+-*who_donlouis
+Je vois bien que je vous embarrasse, et que vous vous passeriez fort aisément de ma venue.
+À dire vrai, nous nous incommodons étrangement l'un et l'autre, et si vous êtes las de me voir, je suis bien las aussi de vos déportements.
+Hélas, que nous savons peu ce que nous faisons quand nous ne laissons pas au Ciel le soin des choses qu'il nous faut, quand nous voulons être plus avisés que lui, et que nous venons à l'importuner par nos souhaits aveugles et nos demandes inconsidérées !
+J'ai souhaité un fils avec des ardeurs non pareilles ; je l'ai demandé sans relâche avec des transports incroyables ; et ce fils, que j'obtiens en fatiguant le Ciel de voux, est le chagrin et le supplice de cette vie même dont je croyais qu'il devait être la joie et la consolation.
+De quel oeil, à votre avis, pensez-vous que je puisse voir cet amas d'actions indignes, dont on a peine,= aux yeux du monde d'adoucir le mauvais visage, cette suite continuelle de méchantes affaires, qui nous réduisent à toutes heures à lasser les bontés du Souverain, et qui ont épuisé auprès de lui le mérite de mes services et le crédit de mes amis ?
+Ah, quelle bassesse est la vôtre !
+Ne rougissez-vous point de mériter si peu votre naissance ?
+Êtes-vous en droit, dites-moi, d'en tirer quelque vanité ?
+Et qu'avez-vous fait dans le monde pour être gentilhomme ?
+Croyez-vous qu'il suffise d'en porter le nom et les armes, et que ce nous soit une gloire d'être sorti d'un sang noble lorsque nous vivons en infâmes ?
+Non, non, la naissance n'est rien où la vertu n'est pas.
+Aussi nous n'avons part à la gloire de nos ancêtres, qu'autant que nous nous efforçons de leur ressembler, et cet éclat de leurs actions qu'ils répandent sur nous, nous impose un engagement de leur faire le même honneur, de suivre les pas qu'ils nous tracent, et de ne point dégénérer de leurs vertus, si nous voulons être estimés leurs véritables descendants.
+Ainsi vous descendez en vain des aïeux dont vous êtes né, ils vous désavouent pour leur sang, et tout ce qu'ils ont fait d'illustre ne vous donne aucun avantage ; au contraire, l'éclat n'en rejaillit sur vous qu'à votre déshonneur, et leur gloire est un flambeau qui éclaire aux yeux d'un chacun la honte de vos actions.
+Apprenez enfin qu'un gentilhomme qui vit mal, est un monstre dans la nature, que la vertu est le premier titre de noblesse, que je regarde bien moins au nom qu'on signe qu'aux actions qu'on fait, et que je ferais plus d'état du fils d'un crocheteur qui serait honnête homme, que du fils d'un monarque qui vivrait comme vous.
+
+-*who_donjuan
+Monsieur, si vous étiez assis, vous en seriez mieux pour parler.
+
+-*who_donlouis
+Non, insolent, je ne veux point m'asseoir, ni parler davantage, et je vois bien que toutes mes paroles ne font rien sur ton âme ; mais sache, fils indigne, que la tendresse paternelle est poussée à bout par tes actions, que je saurai, plus tôt que tu ne penses, mettre une borne à tes dérèglements, prévenir sur toi le courroux du Ciel, et laver par ta punition la honte de t'avoir fait naître.
+
+**** *book_ *id_IV05 *act_IV *date_1665
+
+-*who_donjuan
+Eh, mourez le plus tôt que vous pourrez, c'est le mieux que vous puissiez faire.
+Il faut que chacun ait son tour, et j'enrage de voir des pères qui vivent autant que leurs fils.
+
+-*who_sganarelle
+Ah, monsieur, vous avez tort.
+
+-*who_donjuan
+J'ai tort ?
+
+-*who_sganarelle
+Monsieur.
+
+-*who_donjuan
+J'ai tort ?
+
+-*who_sganarelle
+Oui, Monsieur, vous avez tort d'avoir souffert ce qu'il vous a dit, et vous le deviez mettre dehors par les épaules.
+A-t-on jamais rien vu de plus impertinent ?
+Un père venir faire des remontrances à son fils, et lui dire de corriger ses actions, de se ressouvenir de sa naissance, de mener une vie d'honnête homme, et cent autres sottises de pareille nature !
+Cela se peut-il souffrir à un homme comme vous, qui savez comme il faut vivre ?
+J'admire votre patience ; et si j'avais été en votre place, je l'aurais envoyé promener.
+Ô complaisance maudite !
+À quoi me réduis-tu ?
+
+-*who_donjuan
+Me fera-t-on souper bientôt ?
+
+**** *book_ *id_IV06 *act_IV *date_1665
+
+-*who_ragotin
+Monsieur, voici une dame voilée qui vient vous parler.
+
+-*who_donjuan
+Que pourrait-ce être ?
+
+-*who_sganarelle
+Il faut voir.
+
+-*who_donaelvire
+Ne soyez point surpris, Don Juan, de me voir à cette heure et dans cet équipage.
+C'est un motif pressant qui m'oblige à cette visite, et ce que j'ai à vous dire ne veut point du tout de retardement.
+Je ne viens point ici pleine de ce courroux que j'ai tantôt fait éclater, et vous me voyez bien changée de ce que j'étais ce marin.
+Ce n'est plus cette Dona Elvire qui faisait des voeux contre vous, et dont l'âme irritée ne jetait que menaces et ne respirait que vengeance.
+Le Ciel a banni de mon âme toutes ces insignes ardeurs que je sentais pour vous, tous ces transports tumultueux d'un attachement criminel, tous ces honteux emportements d'un amour terrestre et grossier, et il n'a laissé dans mon coeur pour vous qu'une flamme épurée de tout le commerce des sens, une tendresse toute sainte, un amour détaché de tout, qui n'agit point pour soi, et ne se met en peine que de votre intérêt.
+
+-*who_donjuan
+Tu pleures, je pense.
+
+-*who_sganarelle
+Pardonnez-moi.
+
+-*who_donaelvire
+C'est ce parfait et pur amour qui me conduit ici pour votre bien, pour vous faire part d'un avis du Ciel, et tâcher de vous retirer du précipice où vous courez.
+Oui, Don Juan, je sais tous les dérèglements de votre vie, et ce même Ciel qui m'a touché le coeur, et fait jeter les yeux sur les égarements de ma conduite, m'a inspiré de vous venir trouver, et de vous dire de sa part, que vos offenses ont épuisé sa miséricorde, que sa colère redoutable est prête de tomber sur vous, qu'il est en vous de l'éviter par un prompt repentir, et que peut-être vous n'avez pas encore un jour à vous pouvoir soustraire au plus grand de tous les malheurs.
+Pour moi, je ne tiens plus à vous par aucun attachement du monde.
+Je suis revenue, grâces au Ciel, de toutes mes folles pensées ; ma retraite est résolue, et je ne demande qu'assez de vie pour pouvoir expier la faute que j'ai faite, et mériter, par une austère pénitence, le pardon de l'aveuglement où m'ont plongée les transports d'une passion condamnable ; mais, dans cette retraite, j'aurais une douleur extrême qu'une personne que j'ai chérie tendrement, devînt un exemple funeste de la justice du Ciel, et ce me sera une joie incroyable, si je puis vous porter à détourner de dessus votre tête, l'épouvantable coup qui vous menace.
+De grâce, Don Juan, accordez-moi, pour dernière faveur cette douce consolation, ne me refusez point votre salut, que je vous demande avec larmes, et si vous n'êtes point touché de votre intérêt ; soyez-le au moins de mes prières, et m'épargnez le cruel déplaisir de vous voir condamner à des supplices éternels.
+
+-*who_sganarelle
+Pauvre femme !
+
+-*who_donaelvire
+Je vous ai aimé avec une tendresse extrême, rien au monde ne m'a été si cher que vous, j'ai oublié mon devoir pour vous, j'ai fait toutes choses pour vous, et toute la récompense que je vous en demande, c'est de corriger votre vie, et de prévenir votre perte.
+Sauvez-vous, je vous prie, ou pour l'amour de vous, ou pour l'amour de moi.
+Encore une fois, Don Juan, je vous le demande avec larmes ; et si ce n'est assez des larmes d'une personne que vous avez aimée, je vous en conjure par tout ce qui est le plus capable de vous toucher.
+
+-*who_sganarelle
+Coeur de tigre !
+
+-*who_donaelvire
+Je m'en vais, après ce discours, et voilà tout ce que j'avais à vous dire.
+
+-*who_donjuan
+Madame, il est tard, demeurez ici, on vous y logera le mieux qu'on pourra.
+
+-*who_donaelvire
+Non, Don Juan, ne me retenez pas davantage.
+
+-*who_donjuan
+Madame, vous me ferez plaisir de demeurer, je vous assure.
+
+-*who_donaelvire
+Non, vous dis-je, ne perdons point de temps en discours superflus, laissez-moi vite aller, ne faites aucune instance pour me conduire, et songez seulement à profiter de mon avis.
+
+**** *book_ *id_IV07 *act_IV *date_1665
+
+-*who_donjuan
+Sais-tu bien que j'ai encore senti quelque peu d'émotion pour elle, que j'ai trouvé de l'agrément dans cette nouveauté bizarre, et que son habit négligé, son air languissant et ses larmes ont réveillé en moi quelques petits restes d'un feu éteint;
+
+-*who_sganarelle
+C'est-à-dire que ses paroles n'ont fait aucun effet sur vous.
+
+-*who_donjuan
+Vite à souper.
+
+-*who_sganarelle
+Fort bien.
+
+-*who_donjuan
+Sganarelle, il faut songer à s'amender pourtant.
+
+-*who_sganarelle
+Oui-dea !
+
+-*who_donjuan
+Oui, ma foi !
+Il faut s'amender ; encore vingt ou trente ans de cette vie-ci, et puis nous songerons à nous.
+
+-*who_sganarelle
+Oh !
+
+-*who_donjuan
+Qu'en dis-tu ?
+
+-*who_sganarelle
+Rien.
+Voilà le souper.
+
+-*who_donjuan
+Il me semble que tu as la joue enflée, qu'est-ce que c'est ?
+Parle donc, qu'as-tu là ?
+
+-*who_sganarelle
+Rien.
+
+-*who_donjuan
+Montre un peu, parbleu c'est une fluxion qui lui est tombée sur la joue, vite une lancette pour percer cela.
+Le pauvre garçon n'en peut plus, et cet abcès le pourrait étouffer, attends, voyez comme il était mûr.
+Ah, coquin que vous êtes !
+
+-*who_sganarelle
+Ma foi !
+Monsieur, je voulais voir si votre cuisinier n'avait point mis trop de sel ou trop de poivre.
+
+-*who_donjuan
+Allons, mets-toi là, et mange.
+J'ai affaire de toi quand j'aurai soupé, tu as faim, à ce que je vois.
+
+-*who_sganarelle
+Je le crois bien, Monsieur, je n'ai point mangé depuis ce matin.
+Tâtez de cela, voilà qui est le meilleur du monde.
+Mon assiette, mon assiette.
+Tout doux, s'il vous plaît.
+Vertubleu, petit compère, que vous êtes habile à donner des assiettes nettes, et vous, petit la Violette, que vous savez présenter à boire à propos !
+
+-*who_donjuan
+Qui peut frapper de cette sorte ?
+
+-*who_sganarelle
+Qui diable nous vient troubler dans notre repas ?
+
+-*who_donjuan
+Je veux souper en repos au moins, et qu'on ne laisse entrer personne.
+
+-*who_sganarelle
+Laissez-moi faire, je m'y en vais moi-même.
+
+-*who_donjuan
+Qu'est-ce donc ?
+Qu'y a-t-il ?
+
+-*who_sganarelle
+Le... qui est là !
+
+-*who_donjuan
+Allons voir, et montrons que rien ne me saurait ébranler.
+
+-*who_sganarelle
+Ah, pauvre Sganarelle, ou te cacheras-tu ?
+
+**** *book_ *id_IV08 *act_IV *date_1665
+
+-*who_donjuan
+Une chaise et un couvert, vite donc.
+Allons, mets-toi à table.
+
+-*who_sganarelle
+Monsieur, je n'ai plus de faim.
+
+-*who_donjuan
+Mets-toi là, te dis-je.
+À boire.
+À la santé du Commandeur, je te la porte, Sganarelle.
+Qu'on lui donne du vin.
+
+-*who_sganarelle
+Monsieur, je n'ai pas soif.
+
+-*who_donjuan
+Bois et chante ta chanson pour régaler le Commandeur.
+
+-*who_sganarelle
+Je suis enrhumé, Monsieur.
+
+-*who_donjuan
+Il n'importe, allons.
+Vous autres, venez, accompagnez sa voix.
+
+-*who_lastatue
+Don Juan, c'est assez, je vous invite à venir demain souper avec moi, en aurez-vous le courage ?
+
+-*who_donjuan
+Oui, j'irai accompagné du seul Sganarelle.
+
+-*who_sganarelle
+Je vous rends grâce, il est demain jeûne pour moi.
+
+-*who_donjuan
+Prends ce flambeau.
+
+-*who_lastatue
+On n'a pas besoin de lumière, quand on est conduit par le Ciel.
+
+**** *book_ *id_V01 *act_V *date_1665
+
+-*who_donlouis
+Quoi ?
+Mon fils, serait-il possible que la bonté du Ciel eût exaucé mes voux ?
+Ce que vous me dites est-il bien vrai ?
+Ne m'abusez-vous point d'un faux espoir, et puis-je prendre quelque assurance sur la nouveauté surprenante d'une telle conversion ?
+
+-*who_donjuan
+Oui, vous me voyez revenu de toutes mes erreurs, je ne suis plus le même d'hier au soir, et le Ciel tout d'un coup a fait en moi un changement qui va surprendre tout le monde.
+Il a touché mon âme, et dessillé mes yeux, et je regarde avec horreur le long aveuglement où j'ai été et les désordres criminels de la vie que j'ai menée.
+J'en repasse dans mon esprit toutes les abominations, et m'étonne comme le Ciel les a pu souffrir si longtemps, et n'a pas vingt fois sur ma tête laissé tomber les coups de sa justice redoutable.
+Je vois les grâces que sa bonté m'a faites en ne me punissant point de mes crimes, et je prétends en profiter comme je dois, faire éclater aux yeux du monde un soudain changement de vie, réparer par là le scandale de mes actions passées, et m'efforcer d'en obtenir du Ciel une pleine rémission.
+C'est à quoi je vais travailler, et je vous prie, Monsieur, de vouloir bien contribuer à ce dessein, et de m'aider vous-même à faire choix d'une personne qui me serve de guide, et sous la conduite de qui je puisse marcher sûrement dans le chemin où je m'en vais entrer.
+
+-*who_donlouis
+Ah !
+Mon fils, que la tendresse d'un père est aisément rappelée, et que les offenses d'un fils s'évanouissent vite au moindre mot de repentir !
+Je ne me souviens plus déjà de tous les déplaisirs que vous m'avez donnés, et tout est effacé par les paroles que vous venez de me faire entendre.
+Je ne me sens pas, je l'avoue, je jette des larmes de joie, tous mes voeux sont satisfaits, et je n'ai plus rien désormais à demander au Ciel.
+Embrassez-moi, mon fils, et persistez, je vous conjure, dans cette louable pensée.
+Pour moi, j'en vais tout de ce pas porter l'heureuse nouvelle à votre mère, partager avec elle les doux transports du ravissement où je suis, et rendre grâce au Ciel des saintes résolutions qu'il a daigné vous inspirer.
+
+**** *book_ *id_V02 *act_V *date_1665
+
+-*who_sganarelle
+Ah !
+Monsieur, que j'ai de joie de vous voir converti !
+Il y a longtemps que j'attendais cela, et voilà, grâce au Ciel, tous mes souhaits accomplis.
+
+-*who_donjuan
+La peste, le benêt !
+
+-*who_sganarelle
+Comment, le benêt ?
+
+-*who_donjuan
+Quoi ?
+Tu prends pour de bon argent ce que je viens de dire, et tu crois que ma bouche était d'accord avec mon coeur ?
+
+-*who_sganarelle
+Quoi ?
+Ce n'est pas...
+Vous ne...
+Votre...
+Oh quel homme !
+Quel homme !
+Quel homme !
+
+-*who_donjuan
+Non, non, je ne suis point changé, et mes sentiments sont toujours les mêmes.
+
+-*who_sganarelle
+Vous ne vous rendez pas à la surprenante merveille de cette statue mouvante et parlante ?
+
+-*who_donjuan
+Il y a bien quelque chose là dedans que je ne comprends pas ; mais quoi que ce puisse être, cela n'est pas capable, ni de convaincre mon esprit, ni d'ébranler mon âme, et si j'ai dit que je voulais corriger ma conduite et me jeter dans un train de vie exemplaire, c'est un dessein que j'ai formé par pure politique, un stratagème utile, une grimace nécessaire où je veux me contraindre pour ménager un père dont j'ai besoin, et me mettre à couvert, du côté des hommes, de cent fâcheuses aventures qui pourraient m'arriver.
+Je veux bien, Sganarelle, t'en faire confidence, et je suis bien aise d'avoir un témoin des véritables motifs qui m'obligent à faire les choses.
+
+-*who_sganarelle
+Quoi ?
+Vous ne croyez rien du tout, et vous voulez cependant vous ériger en homme de bien ?
+
+-*who_donjuan
+Et pourquoi non ?
+Il y en a tant d'autres comme moi, qui se mêlent de ce métier, et qui se servent du même masque pour abuser le monde !
+
+-*who_sganarelle
+Ah, quel homme !
+Quel homme !
+
+-*who_donjuan
+Il n'y a plus de honte maintenant à cela : l'hypocrisie est un vice à la mode, et tous les vices à la mode passent pour vertus.
+La profession d'hypocrite a de merveilleux avantages.
+C'est un art de qui l'imposture est toujours respectée, et quoiqu'on la découvre, on n'ose rien dire contre elle.
+Tous les autres vices des hommes sont exposés à la censure, et chacun a la liberté de les attaquer hautement, mais l'hypocrisie est un vice privilégié, qui, de sa main, ferme la bouche à tout le monde, et jouit en repos d'une impunité souveraine.
+On lie, à force de grimaces une société étroite avec tous les gens du parti : qui en choque un, se les attire tous sur les bras, et ceux que l'on sait même agir de bonne foi là-dessus, et que chacun connaît pour être véritablement touchés : ceux-là, dis-je, sont le plus souvent les dupes des autres ; ils donnent bonnement dans le panneau des grimaciers, et appuient aveuglément les singes de leurs actions.
+Combien crois-tu que j'en connaisse, qui par ce stratagème ont rhabillé adroitement les désordres de leur jeunesse, et, sous un dehors respecté, ont la permission d'être les plus méchants hommes du monde ?
+On a beau savoir leurs intrigues et les connaître pour ce qu'ils sont, ils ne laissent pas pour cela d'être en crédit parmi les gens, et quelque baissement de tête, un soupir mortifié, et deux roulements d'yeux rajustent dans le monde tout ce qu'ils peuvent faire.
+C'est sous cet abri favorable que je veux me sauver, et mettre en sûreté mes affaires.
+Je ne quitterai point mes douces habitudes, mais j'aurai soin de me cacher et me divertirai à petit bruit.
+Que si je viens à être découvert, je verrai sans me remuer, prendre mes intérêts à toute la cabale, et je serai défendu par elle envers, et contre tous.
+Enfin, c'est là le vrai moyen de faire impunément tout ce que je voudrai.
+Je m'érigerai en censeur des actions d'autrui, jugerai mal de tout le monde, et n'aurai bonne opinion que de moi.
+Dès qu'une fois on m'aura choqué tant soit peu, je ne pardonnerai jamais, et garderai tout doucement une haine irréconciliable.
+Je ferai le vengeur de la vertu opprimée, et sous ce prétexte commode, je pousserai mes ennemis, je les accuserai d'impiété, et saurai déchaîner contre eux des zélés indiscrets, qui sans connaissance de cause, crieront contre eux, qui les accableront d'injures, et les damneront hautement de leur autorité privée.
+C'est ainsi qu'il faut profiter des faiblesses des hommes, et qu'un sage esprit s'accommode aux vices de son siècle.
+
+-*who_sganarelle
+Ô Ciel !
+Qu'entends-je ici ?
+Il ne vous manquait plus que d'être hypocrite pour vous achever de tout point, et voilà le comble des abominations.
+Monsieur, cette dernière-ci m'emporte et je ne puis m'empêcher de parler.
+Faites-moi tout ce qu'il vous plaira, battez-moi, assommez-moi de coups, tuez-moi, si vous voulez, il faut que je décharge mon coeur, et qu'en valet fidèle je vous dise ce que je dois.
+Sachez, Monsieur, que tant va la cruche à l'eau, qu'enfin elle se brise : et comme dit fort bien cet auteur que je ne connais pas, l'homme est en ce monde ainsi que l'oiseau sur la branche ; la branche est attachée à l'arbre, qui s'attache à l'arbre, suit de bons préceptes, les bons préceptes valent mieux que les belles paroles, les belles paroles se trouvent à la Cour.
+À la Cour sont les courtisans ; les courtisans suivent la mode, la mode vient de la fantaisie, la fantaisie est une faculté de l'âme, l'âme est ce qui nous donne la vie, la vie finit par la mort...
+Hé...
+Songez à ce que vous deviendrez.
+
+-*who_donjuan
+Ô le beau raisonnement !
+
+-*who_sganarelle
+Après cela, si vous ne vous rendez, tant pis pour vous.
+
+**** *book_ *id_V03 *act_V *date_1665
+
+-*who_doncarlos
+Don Juan, je vous trouve à propos, et suis bien aise de vous parler ici plutôt que chez vous, pour vous demander vos résolutions.
+Vous savez que ce soin me regarde, et que je me suis en votre présence chargé de cette affaire.
+Pour moi, je ne le cèle point, je souhaite fort que les choses aillent dans la douceur, et il n'y a rien que je ne fasse pour porter votre esprit à vouloir prendre cette voie, et pour vous voir publiquement confirmer à ma soeur le nom de votre femme.
+
+-*who_donjuan
+Hélas !
+Je voudrais bien, de tout mon coeur, vous donner la satisfaction que vous souhaitez, mais le Ciel s'y oppose directement, il a inspiré à mon âme le dessein de changer de vie, et je n'ai point d'autres pensées maintenant que de quitter entièrement tous les attachements du monde, de me dépouiller au plus tôt de toutes sortes de vanités, et de corriger désormais par une austère conduite tous les dérèglements criminels où m'a porté le feu d'une aveugle jeunesse.
+
+-*who_doncarlos
+Ce dessein, Don Juan, ne choque point ce que je dis, et la compagnie d'une femme légitime peut bien s'accommoder avec les louables pensées que le Ciel vous inspire.
+
+-*who_donjuan
+Hélas point du tout, c'est un dessein que votre soeur elle-même a pris, elle a résolu sa retraite, et nous avons été touchés tous deux en même temps.
+
+-*who_doncarlos
+Sa retraite ne peut nous satisfaire, pouvant être imputée au mépris que vous feriez d'elle et de notre famille, et notre honneur demande qu'elle vive avec vous.
+
+-*who_donjuan
+Je vous assure que cela ne se peut.
+J'en avais, pour moi, toutes les envies du monde, et je me suis même encore aujourd'hui conseillé au Ciel pour cela ; mais lorsque je l'ai consulté, j'ai entendu une voix qui m'a dit que je ne devais point songer à votre soeur, et qu'avec elle assurément je ne ferais point mon salut.
+
+-*who_doncarlos
+Croyez-vous, Don Juan, nous éblouir par ces belles excuses ?
+
+-*who_donjuan
+J'obéis à la voix du Ciel.
+
+-*who_doncarlos
+Quoi vous voulez que je me paye d'un semblable discours ?
+
+-*who_donjuan
+C'est le Ciel qui le veut ainsi.
+
+-*who_doncarlos
+Vous aurez fait sortir ma soeur d'un couvent pour la laisser ensuite ?
+
+-*who_donjuan
+Le Ciel l'ordonne de la sorte.
+
+-*who_doncarlos
+Nous souffrirons cette tache en notre famille ?
+
+-*who_donjuan
+Prenez-vous-en au Ciel.
+
+-*who_doncarlos
+Et quoi toujours le Ciel ?
+
+-*who_donjuan
+Le Ciel le souhaite comme cela.
+
+-*who_doncarlos
+Il suffit, Don Juan, je vous entends, ce n'est pas ici que je veux vous prendre, et le lieu ne le souffre pas ; mais avant qu'il soit peu je saurai vous trouver.
+
+-*who_donjuan
+Vous ferez ce que vous voudrez, vous savez que je ne manque point de coeur, et que je sais me servir de mon épée quand il le faut, je m'en vais passer tout à l'heure dans cette petite rue écartée qui mène au grand couvent, mais je vous déclare, pour moi, que ce n'est point moi qui me veux battre, le Ciel m'en défend la pensée, et si vous m'attaquez, nous verrons ce qui en arrivera.
+
+-*who_doncarlos
+Nous verrons, de vrai, nous verrons.
+
+**** *book_ *id_V04 *act_V *date_1665
+
+-*who_sganarelle
+Monsieur, quel diable de style prenez-vous là ?
+Ceci est bien pis que le reste, et je vous aimerais bien mieux encore comme vous étiez auparavant, j'espérais toujours de votre salut, mais c'est maintenant que j'en désespère, et je crois que le Ciel qui vous a souffert jusques ici, ne pourra souffrir du tout cette dernière horreur.
+
+-*who_donjuan
+Va, va, le Ciel n'est pas si exact que tu penses, et si toutes les fois que les hommes...
+
+-*who_sganarelle
+Ah, Monsieur, c'est le Ciel qui vous parle, et c'est un avis qu'il vous donne.
+
+-*who_donjuan
+Si le Ciel me donne un avis, il faut qu'il parle un peu plus clairement, s'il veut que je l'entende.
+
+**** *book_ *id_V05 *act_V *date_1665
+
+-*who_lespectre
+Don Juan n'a plus qu'un moment à pouvoir profiter de la miséricorde du Ciel ; et s'il ne se repent ici, sa perte est résolue.
+
+-*who_sganarelle
+Entendez-vous, Monsieur ?
+
+-*who_donjuan
+Qui ose tenir ces paroles ?
+Je crois connaître cette voix.
+
+-*who_sganarelle
+Ah !
+Monsieur, c'est un spectre : je le reconnais au marcher.
+
+-*who_donjuan
+Spectre, Fantôme, ou Diable, je veux voir ce que c'est.
+
+-*who_sganarelle
+Ô ciel !
+Voyez-vous, Monsieur, ce changement de figure ?
+
+-*who_donjuan
+Non, non, rien n'est capable de m'imprimer de la terreur, et je veux éprouver avec mon épée si c'est un corps ou un esprit.
+
+-*who_sganarelle
+Ah, Monsieur, rendez-vous à tant de preuves, et jetez-vous vite dans le repentir.
+
+-*who_donjuan
+Non, non, il ne sera pas dit, quoi qu'il arrive, que je sois capable de me repentir, allons, suis-moi.
+
+**** *book_ *id_V06 *act_V *date_1665
+
+-*who_lastatue
+Arrêtez, Don Juan, vous m'avez hier donné parole de venir manger avec moi.
+
+-*who_donjuan
+Oui, où faut-il aller ?
+
+-*who_lastatue
+Donnez-moi la main.
+
+-*who_donjuan
+La voilà.
+
+-*who_lastatue
+Don Juan, l'endurcissement au péché traîne une mort funeste, et les grâces du Ciel que l'on renvoie, ouvrent un chemin à sa foudre.
+
+-*who_donjuan
+Ô Ciel, que sens-je ?
+Un feu invisible me brûle, je n'en puis plus, et tout mon corps devient un brasier ardent, ah !
+
+-*who_sganarelle
+Voilà par sa mort un chacun satisfait, Ciel offensé, lois violées, filles séduites, familles déshonorées, parents outragés, femmes mises à mal, maris poussés à bout, tout le monde est content ; il n'y a que moi seul de malheureux qui après tant d'années de service, n'ai point d'autre récompense que de voir à mes yeux l'impiété de mon maître punie, par le plus épouvantable châtiment du monde.

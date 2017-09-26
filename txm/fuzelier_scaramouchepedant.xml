@@ -1,0 +1,209 @@
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Scaramouche pédant</title>
+        <title type="sub">, divertissement.</title>
+        <author born="1672" born_location="Paris" death="1752" death_location="Paris" academie="">
+          <surname>Fuzelier</surname>
+          <forename> Louis</forename>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <authority>publié par Paul FIEVRE, janvier 2014</authority>
+        <idno/>
+      </publicationStmt>
+      <sourceDesc>
+        <genre>Divertissement</genre>
+        <inspiration>moeurs françaises</inspiration>
+        <structure>Un acte</structure>
+        <type>vers</type>
+        <periode>1711-1720</periode>
+        <taille>0-250</taille>
+        <permalien>http://gallica.bnf.fr/ark:/12148/bpt6k745013</permalien>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="created" when="1716-09-12"/>
+        <date type="issued" when="1711"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre">Divertissement</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 xml:id="I" type="act" n="1">
+        <head>PROLOGUE</head>
+        <div2 xml:id="I01" type="scene" n="1">
+          <head>
+            <listPerson type="configuration" xml:id="conf1"/>
+          </head>
+          <sp xml:id="I01-1" who="PIERROT">
+            <l n="1" xml:id="l1">Arlequin vous donne aujourd’hui</l>
+            <l n="2" xml:id="l2">Une pièce bouffonne,</l>
+            <l n="3" xml:id="l3">Et quoi qu’elle vienne de lui</l>
+            <l n="4" xml:id="l4">Elle peut être bonne :</l>
+            <l n="5" xml:id="l5">Comme il est resté sans crédit</l>
+            <l n="6" xml:id="l6">Il fait tout de sa tête ;</l>
+            <l n="7" xml:id="l7">Heureux, s’il peut par son esprit</l>
+            <l n="8" xml:id="l8">Remonter sur sa bête.</l>
+            <l n="9" xml:id="l9">Vous croyez régner cette fois,</l>
+            <l n="10" xml:id="l10">Héros du Capitole,</l>
+            <l n="11" xml:id="l11">Et qu’Arlequin est aux abois</l>
+            <l n="12" xml:id="l12">Privé de la parole ;</l>
+            <l n="13" xml:id="l13">Mais il a fait peindre sa voix</l>
+            <l n="14" xml:id="l14">Pour soutenir son rôle.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="I02" type="scene" n="2">
+          <head>SCÈNE I. Octave, Pierrot.<listPerson type="configuration" xml:id="conf2"/></head>
+          <sp xml:id="I02-1" who="OCTAVE">
+            <l n="15" xml:id="l15">Je veux saluer ce laquais,</l>
+            <l n="16" xml:id="l16">Pourquoi le trouvez-vous mauvais ?</l>
+            <l n="17" xml:id="l17">Quand je lui fais la révérence</l>
+            <l n="18" xml:id="l18">Ce n’est pas me mésallier ;</l>
+            <l n="19" xml:id="l19">C’est le regarder par avance</l>
+            <l n="20" xml:id="l20">Comme un apprentis Maltotier.</l>
+            <l n="21" xml:id="l21">Le mariage est une affaire</l>
+            <l n="22" xml:id="l22">Qu’Isabelle a soin d’éviter,</l>
+            <l n="23" xml:id="l23">Elle fera comme sa mère</l>
+            <l n="24" xml:id="l24">Qui n’en a pas voulu tâter.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="I03" type="scene" n="2">
+          <head>SCÈNE II. Octave, Pierrot.<listPerson type="configuration" xml:id="conf3"/></head>
+          <sp xml:id="I03-1" who="OCTAVE">
+            <l n="25" xml:id="l25">Pour Isabelle mon amour</l>
+            <l n="26" xml:id="l26">En mille endroits s’est fait connaître,</l>
+            <l n="27" xml:id="l27">Et pour ses beaux yeux nuit et jour</l>
+            <l n="28" xml:id="l28">J’ai soupiré sous sa fenêtre :</l>
+            <l n="29" xml:id="l29">Elle se rit de mon ardeur,</l>
+            <l n="30" xml:id="l30">D’autres chatouillent mieux son coeur.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="I04" type="scene" n="1">
+          <head>SCÈNE I.I. Le Docteur, Isabelle et Colombine.<listPerson type="configuration" xml:id="conf4"/></head>
+          <sp xml:id="I04-1" who="ISABELLE">
+            <l n="31" xml:id="l31">Votre raison est claire,</l>
+            <l n="32" xml:id="l32">Mon teint est défleuri,</l>
+            <l n="33" xml:id="l33">Pour me guérir, mon père,</l>
+            <l n="34" xml:id="l34">Il me faut un mari.</l>
+            <l n="35" xml:id="l35">L’amour me fait la la la,</l>
+            <l n="36" xml:id="l36">L’amour me fait mourir.</l>
+            <l n="37" xml:id="l37">Un écolier lui tient au coeur,</l>
+            <l n="38" xml:id="l38">Un pédant cause ma langueur ;</l>
+            <l n="39" xml:id="l39">Léandre est l’amant d’Isabelle ;</l>
+            <l n="40" xml:id="l40">Mais s’il ne plaît pas a vos yeux,</l>
+            <l n="41" xml:id="l41">Je vous promets, foi de femelle,</l>
+            <l n="42" xml:id="l42">De les épouser tous les deux.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="I05" type="scene" n="4">
+          <head>SCÈNE IV. Léandre en écolier, Isabelle et Colombine.<listPerson type="configuration" xml:id="conf5"/></head>
+          <sp xml:id="I05-1" who="LEANDRE">
+            <l n="43" xml:id="l43">Mon maître a fait un bouquet</l>
+            <l n="44" xml:id="l44">Vous allez avoir le fouet,</l>
+            <l n="45" xml:id="l45">Venir avec violence</l>
+            <l n="46" xml:id="l46">Corrompre mon innocence.</l>
+            <l n="47" xml:id="l47">Le fouet, le fouet,</l>
+            <l n="48" xml:id="l48">Vous allez avoir le fouet.</l>
+            <l n="49" xml:id="l49">Pour vous Léandre aujourd’hui je soupire,</l>
+            <l n="50" xml:id="l50">Abandonnez votre coeur à l’amour ;</l>
+            <l n="51" xml:id="l51">Sans vous j’expire,</l>
+            <l n="52" xml:id="l52">Si dans ce jour</l>
+            <l n="53" xml:id="l53">Nous n’allons faire ensemble quelque tour :</l>
+            <l n="54" xml:id="l54">Enlevez moi c’est ce que je désire.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="I06" type="scene" n="5">
+          <head>SCÈNE V. Scaramouche, Léandre, Isabelle et Colombine.<listPerson type="configuration" xml:id="conf6"/></head>
+          <sp xml:id="I06-1" who="SCRAMOUCHE">
+            <l n="55" xml:id="l55">Nymphes dont les traits dangereux</l>
+            <l n="56" xml:id="l56">Font partout tant de malheureux,</l>
+            <l n="57" xml:id="l57">Chercheuses de pratique,</l>
+            <l n="58" xml:id="l58">Hé bien,</l>
+            <l n="59" xml:id="l59">Vous sentez l’Amérique,</l>
+            <l n="60" xml:id="l60">Vous m’entendez bien.</l>
+            <l n="61" xml:id="l61">Fuyez la femme et ses appas</l>
+            <l n="62" xml:id="l62">Croyez-moi, ne la voyez pas :</l>
+            <l n="63" xml:id="l63">On est presque toujours la dupe</l>
+            <l n="64" xml:id="l64">Des douceurs qu’elle fait sentir,</l>
+            <l n="65" xml:id="l65">Plus on s’approche de la jupe,</l>
+            <l n="66" xml:id="l66">Plus on est prêt du repentir.</l>
+            <l n="67" xml:id="l67">La femme ressemble aux ardents</l>
+            <l n="68" xml:id="l68">Qui nous égarent dans les champs :</l>
+            <l n="69" xml:id="l69">Elle brille, mais sa malice</l>
+            <l n="70" xml:id="l70">Met qui la suit, en grand danger</l>
+            <l n="71" xml:id="l71">De tomber dans un précipice</l>
+            <l n="72" xml:id="l72">Dont on ne peut se dégager.</l>
+          </sp>
+          <sp xml:id="I06-2" who="SCRAMOUCHE">
+            <l n="73" xml:id="l73">Quoi vous voulez voir l’histoire</l>
+            <l n="74" xml:id="l74">Des femmes de tous les temps,</l>
+            <l n="75" xml:id="l75">C’est un ténébreux grimoire</l>
+            <l n="76" xml:id="l76">Qui vous gâterait le sens.</l>
+            <l n="77" xml:id="l77">Des hommes lisez la vie</l>
+            <l n="78" xml:id="l78">Vous perdrez la sotte envie</l>
+            <l n="79" xml:id="l79">De suivre l’affreux chemin</l>
+            <l n="80" xml:id="l80">Qui conduit au féminin.</l>
+            <l n="81" xml:id="l81">La femme est venimeuse</l>
+            <l n="82" xml:id="l82">Cent fois plus qu’un serpent,</l>
+            <l n="83" xml:id="l83">Sa main est dangereuse</l>
+            <l n="84" xml:id="l84">À celui qui lui prend</l>
+            <l n="85" xml:id="l85">D’un air gai, etc.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="I07" type="scene" n="6">
+          <head>SCÈNE VI. Isabelle, Colombine et Cléandre.<listPerson type="configuration" xml:id="conf7"/></head>
+          <sp xml:id="I07-1" who="LECOLIER">
+            <l n="86" xml:id="l86">J’ai le pauvre cul tout en sang</l>
+            <l n="87" xml:id="l87">Vous en êtes la cause,</l>
+            <l n="88" xml:id="l88">Cherchez quelqu’autre courtisan,</l>
+            <l n="89" xml:id="l89">De vous aimer je n’ose.</l>
+            <l n="90" xml:id="l90">Mon maître et moi nous convenons,</l>
+            <l n="91" xml:id="l91">Que qui verra la fille</l>
+            <l n="92" xml:id="l92">Aura mille coups de bâton</l>
+            <l n="93" xml:id="l93">Et quelques coups d’étrille.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="I08" type="scene" n="7">
+          <head>SCÈNE VII. SCARAMOUCHE, ET LES Acteurs de la Scene precedente.<listPerson type="configuration" xml:id="conf8"/></head>
+        </div2>
+        <div2 xml:id="I09" type="scene" n="8">
+          <head>SCÈNE VIII. Scaramouche et Colombine.<listPerson type="configuration" xml:id="conf9"/></head>
+          <sp xml:id="I09-1" who="SCARAMOUCHE">
+            <l n="94" xml:id="l94">Cachez votre</l>
+            <l n="95" xml:id="l95">Soyez plus modeste,</l>
+            <l n="96" xml:id="l96">Je n’ai pas dessein</l>
+            <l n="97" xml:id="l97">D’en tâter, ni du reste,</l>
+            <l n="98" xml:id="l98">Morguienne de vous,</l>
+            <l n="99" xml:id="l99">Quelle fille,</l>
+            <l n="100" xml:id="l100">Quelle fille,</l>
+            <l n="101" xml:id="l101">Morguienne de vous,</l>
+            <l n="102" xml:id="l102">Eh fis cachez vous.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="I10" type="scene" n="9">
+          <head>SCÈNE IX.<listPerson type="configuration" xml:id="conf10"/></head>
+        </div2>
+        <div2 xml:id="I11" type="scene" n="10">
+          <head>SCÈNE X.<listPerson type="configuration" xml:id="conf11"/></head>
+        </div2>
+        <div2 xml:id="I12" type="scene" n="11">
+          <head>SCÈNE XI. Scaramouche, Léandre, Isabelle et Colombine.<listPerson type="configuration" xml:id="conf12"/></head>
+        </div2>
+        <div2 xml:id="I13" type="scene" n="12">
+          <head>SCÈNE XII. Le Docteur, Isabelle, Colombine, Léandre et Scaramouche.<listPerson type="configuration" xml:id="conf13"/></head>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>

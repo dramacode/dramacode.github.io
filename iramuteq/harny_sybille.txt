@@ -1,0 +1,901 @@
+
+
+**** *book_ *id_I01 *act_I *date_1765
+
+-*who_azor
+Amour lance dans mon âme
+Tous tes traits.
+j'aime pour jamais,
+Pour jamais je m'enflamme.
+Frappe, à tes coups mon coeur connaîtra tes bienfaits.
+Amour lance dans mon âme
+Tous tes traits,
+Longtemps du Dieu de la Thrace
+J'ai suivi la trace,
+Je me trompais dans mes plaisirs.
+Euphrosine a su me séduire
+Et m'instruire
+Sur mes désirs.
+
+**** *book_ *id_I02 *act_I *date_1765
+
+-*who_francoeur
+L'Amour fait dans ce temps
+Bonne Vendange ;
+Tandis que les Mamans
+Prennent le change.
+Pensent que l'on s'occupe
+Au Verger
+À Vendanger.
+Amour qui n'est pas dupe
+Justement prend ce temps-là.
+Ta la la, etc.
+
+-*who_azor
+Francoeur est toujours joyeux
+
+-*who_francoeur
+On doit bannir en Vendange
+Tous les soucis ennuyeux,
+C'est le temps où l'amour s'arrange.
+Puis d'ailleurs le souci, dit-on,
+N'est pas fait pour un bon Luron.
+N'est pas fait pour un bon Luron.
+Quand par hasard j'ai du chagrin,
+Je prends un doigt de Brandevin,
+Je cours à l'instant chez ma Belle
+Et le verre en main auprès d'elle
+Mène l'Amour tambour battant.
+Ah ! Voilà comme
+L'homme
+Peut-être content.
+De Bacchus et de l'Amour.
+On célèbre aujourd'hui la fête ;
+A signaler ce grand joui
+La bonne Sybille s'apprête.
+Cette Dame y présidera
+Et là ses Oracles rendra ;
+Puis l'Amour lui-même y viendra.
+
+-*who_azor
+Ah ! Je sais trop qu'il y sera.
+
+-*who_francoeur
+Le craignez vous mon Capitaine ?
+
+-*who_azor
+Ces jours passés dans un jardin,
+L'aurore paraissant à peine,
+J'allai rêver, mais sans dessein.
+
+-*who_francoeur
+Eh ! Quoi ce petit Dieu malin
+Vous a-t-il causé quelque peine ?
+Lorsqu'il se montre en ce séjour
+C'est pour y faire un méchant tour.
+
+-*who_azor
+Sur un buisson de rose en rose,
+Voltigeait un oiseau charmant.
+Un enfant le voit, se propose
+De s'en rendre maître à l'instant.
+On n'apercevait que ses ailes
+Peintes des plus vives couleurs ;
+Hélas ! Elles étaient si belles
+Qu'elles semblaient former des fleurs.
+L'enfant, qui craint quelque dommage,
+Me sourit, m'invite à l'aider.
+Je me prête à son badinage ;
+Ah ! M'y devais je hasarder !
+L'oiseau, de dessous le feuillage,
+Tout à coup s'envole en riant,
+Dans les rets moi-même il m'engage :
+L'oiseau, c'était un autre enfant.
+Ah ! dit-il, tu voulais me prendre,
+Tu soupireras désormais
+C'est pour te punir et t'apprendre
+À qui l'on doit tendre des rets.
+
+-*who_francoeur
+Vraiment c'est tout de bon.
+
+-*who_azor
+      Jusqu'ici trop léger
+Je n'avais recherché qu'un plaisir passager :
+Mais mon coeur aujourd'hui s'engage malgré moi
+Et je pense qu'enfin j'aime de bonne foi.
+Euphrosine qui m'a su plaire
+A mille appas ;
+Mais elle fait trop la sévère
+On n'y tient pas.
+
+-*who_francoeur
+Il faut savoir avec adresse
+Saisir les temps,
+En vendange une douce ivresse
+Sert les amants.
+Chaque bergère
+En corset blanc,
+Sur la fougère
+D'un air galant,
+Par une danse légère,
+Fait naître les désirs
+Appelle les plaisirs.
+Le verre en main au milieu d'elles
+Chaque Dragon chante ses feux.
+Le doux plaisir séduit les belles
+Et brille bientôt dans leurs yeux ;
+Le vin rend plus tendre,
+On ne peut s'en défendre;
+Et l'Amour par un choc léger
+Fait sonner l'heure du Berger.
+
+-*who_azor
+Pour dompter la plus fière
+Il ne faut qu'un moment.
+L'instant ou la manière,
+Fait le sort d'un amant,
+Euphrosine rebelle,
+Ne peut que m'exciter ;
+Pour soumettre une belle,
+Un coeur doit tout tester.
+De la Gloire terrible
+Suspendons les travaux,
+Cherchons, vainqueur paisible
+Des triomphes plus beaux.
+
+**** *book_ *id_I03 *act_I *date_1765
+
+-*who_francoeur
+Je vais aussi voir ma maîtresse,
+Et lui parler tout nettement :
+L'amant qui peint bien sa tendresse
+Trouve toujours un bon moment.
+De l'objet qu'Amour me garde
+Si je dompte la fierté,
+Les plaisirs, au corps-de-garde,
+Vont signer un doux traité.
+Entre nous jamais de guerre,
+Ni dispute, ni procès,
+Si l'amour vient nous en faire,
+Lui-même en payera les frais.
+Le soir après la retraite,
+Tous deux nous boirons gaiement ;
+Servi par cette poulette,
+Que mon sort sera charmant !
+La fête sera complète ;
+Un repas simple et galant,
+Près d'une vive brunette
+Finit toujours joliment.
+Après ma garde finie,
+L'Amour fera battre au champ;
+Le coup d'oeil d'une prairie
+Souvent inspire un Amant.
+Près d'un ruisseau qui murmure
+S'élève un riant gazon ;
+C'est un soin de la Nature,
+Il n'est pas là sans raison.
+Mais une Dame vient : Azor est avec elle :
+Ici laissons-les seuls, et courons chez ma belle.
+
+**** *book_ *id_I04 *act_I *date_1765
+
+-*who_euphrosine
+Dieu charmant,
+Dieu de la tendresse,
+J'ai fait choix d'un amant ;
+En lui tout intéresse ;
+Soutenez
+Ma flamme timide,
+Venez,
+Soyez mon guide;
+Quand je cède à vos attraits ;
+Sauvez-moi les regrets.
+
+-*who_azor
+Vous rêvez seule en ce verger.
+
+-*who_euphrosine
+Me suivrez- vous sans cesse ?
+
+-*who_azor
+D'un amant qui ne peut changes
+Approuvez la tendresse.
+
+-*who_euphrosine
+Azor, je vous l'ai dit cent fois ;
+De l'Amour je veux fuir les lois.
+
+-*who_azor
+Et pourquoi tant haïr l'Amour,
+Vous a-t-il joué quelque tour ?
+Cela ne doit point étonner.
+
+-*who_euphrosine
+Pourquoi donc je vous prie ?
+
+-*who_azor
+Peut-on ne pas lui pardonner,
+Vous êtes si jolie.
+
+-*who_euphrosine
+
+
+Je trouve un jour sur l'herbette fleurie
+Un petit arc, des flèches, un carquois ;
+Je ne voyais pourtant dans la prairie
+Aucun chasseur, et j'étais loin du bois.
+
+D'abord j'ai peur, je m'enfuis au plus vite,
+Puis je reviens, mais sans trop approcher ;
+J'avance un peu, j'examine, j'hésite ;
+J'avais pourtant grand désir d'y toucher.
+
+Tout à l'entour avec soin je regarde ;
+Je m'enhardis, me voyant sans témoin,
+À m'en saisir alors je me hasarde ;
+J'aurais mieux fait de les jeter bien loin.
+
+Je prends un trait, j'admire sa figure ;
+Il était d'or, il paraissait charmant :
+Ah ! Tout à coup je sens une blessure,
+Je fais un cri, j'entends rire à l'instant.
+
+Ah ! Ah ! Vraiment vous êtes curieuse,
+Dit une voix, mais à tort vous pleurez ;
+Un autre jour vous serez plus heureuse,
+Pour cette fois vous vous en souviendrez.
+
+-*who_azor
+Souvent l'on paye assez cher en la vie
+Un seul instant de curiosité;
+Mais ce n'est rien, aussi charmante envie
+Ne peut chez vous qu'augmenter la beauté.
+
+-*who_euphrosine
+Faut-il hélas, souffrir toute sa vie,
+Pour un instant de curiosité.
+
+-*who_azor
+Pour guérir un pareil tourment,
+Il faut faire choix d'un amant.
+
+-*who_euphrosine
+Non, non.
+
+-*who_azor
+      Vous êtes singulière,
+Un tendre aveu vous déplairait.
+
+-*who_euphrosine
+Oui, Monsieur il m'offenserait.
+
+-*who_azor
+Eh mais, vous seriez la première.
+Une belle
+Sur ce point
+Fait en vain la cruelle,
+On ne la croit point.
+À votre âge on soupire
+Pour un amant.
+Vous avez beau dire
+Autrement,
+On n'en croit rien à présent.
+Toujours jeune bergère
+Sourit d'un tendre aveu,
+Mais l'amant trop téméraire
+Veut-il savoir si son feu
+A su plaire,
+D'abord on dit non, non, non,
+Eh bon, bon, bon, bon,
+En est-on la dupe aujourd'hui,
+Tout bas votre coeur dit oui.
+
+-*who_euphrosine
+Ah cachons-lui que je l'aime.
+
+-*who_azor
+Que dites-vous, s'il vous plaît ?
+
+-*who_euphrosine
+Que ma surprise est extrême.
+
+-*who_azor
+À vous on prend intérêt :
+Oui, je veux vous être utile;
+Je m'engage à vous former.
+Mais montrez-vous plus docile,
+Vous savez si bien charmer.
+
+-*who_euphrosine
+Azor réprimez cette audace
+Ah ! Que vous m'êtes odieux !
+Et je vais vous quitter la place
+Si vous ne sortez de ces lieux.
+
+-*who_azor
+Trop d'ardeur a su lui déplaire
+Ayons recours au sentiment.
+Mais laissons passer sa colère
+Je reviendrai dans un moment.
+
+**** *book_ *id_I05 *act_I *date_1765
+
+-*who_euphrosine
+Ah ! Quelle ardeur téméraire !
+Si du moins elle est sincère,
+Que mon sort sera charmant.
+Mais, hélas, que je dois craindre
+De voir quelque jour éteindre
+Un feu qui paraît si grand.
+Par la Gloire
+Un Guerrier animé,
+Souvent de la Victoire
+Ne veut que l'honneur d'être aimé.
+Sa flamme légère
+N'est que passagère ;
+Amour sauvez-moi ce tourment
+Fixés mon amant.
+N'est-on pas assez à plaindre
+De craindre
+Pour des jours si chers;
+D'attendre
+Dans mille ennuis divers
+Le retour des hivers.
+Pour un coeur tendre
+Que de sujet de s'affliger !
+Faut-il encore le voir léger.
+
+**** *book_ *id_I06 *act_I *date_1765
+
+-*who_azor
+L'Amour près de vous me rappelle,
+Mais pourquoi cet air sérieux ;
+Le courroux dépare une belle,
+Et la douceur lui convient mieux.
+
+-*who_euphrosine
+Votre façon d'aimer m'étonne
+Azor cessez de m'irriter,
+Je ne dois plus vous écouter.
+Ah ! Tout bas mon coeur lui pardonne.
+
+**** *book_ *id_I07 *act_I *date_1765
+
+-*who_azor
+Elle me fuit, ah! suivons la.
+
+-*who_francoeur
+Ma Lisette est toujours sévère...
+Mais mon Capitaine s'en va,
+À sa belle il aura su plaire,
+Car il paraît assez content.
+Seul j'éprouve un cruel tourment.
+La Sybille vient ici,
+Ah ! Je me rassure ;
+Pour mettre fin au souci
+Que mon âme endure,
+Parlons lui, je la prierai
+Tant et tant que je saurai,
+Ma bonne aventure
+Ô gué,
+La bonne aventure.
+
+**** *book_ *id_I08 *act_I *date_1765
+
+-*who_lasybille
+
+
+Fraîche jeunesse
+D'amour pillez le jardin,
+Lourde vieillesse
+Ne tentez plus de larcin.
+Dans l'âge de la sagesse,
+À Paphos quand on n'est plus Roi,
+Faut près de son feu rester coi.
+
+Vieillard qui soupire
+Pour fleur de beauté,
+Toujours inspire
+La gaîté ;
+La fillette
+Polie et discrète,
+Écoute, mais tout bas s'en rit ;
+Dans un coin amour applaudit.
+
+Fraîche jeunesse
+D'amour pillez le jardin,
+Lourde vieillesse
+Ne tentez plus de larcin.
+Dans l'âge de la sagesse,
+À Paphos quand on n'est plus Roi,
+Faut près de son feu rester coi.
+De tant bonne volonté
+Profitez je vous prie ;
+Parfois d'Amour on est tenté ;
+Au moins une en sa vie.
+Pour être heureux sous son pouvoir,
+J'enseigne la science ;
+À mon âge on peut au savoir
+Joindre l'expérience.
+
+-*who_lechoeur
+Ah !
+La bonne
+Personne,
+Ah ! L'excellent avis que voilà.
+
+-*who_lasybille
+Pour plaire joli Sénateur,
+De bons mots soyez grand diseur ;
+Pas ne parlez de Code.
+Surtout, à point, chez une Iris,
+Décidez avec un souris
+D'un ruban à la mode.
+
+-*who_lechoeur
+Ah !
+La bonne
+Personne,
+Ah ! L'excellent avis que voilà.
+
+-*who_lasybille
+Médecin ayez ton galant,
+Babillez bien, soyez plaisant,
+Changez la Médecine.
+Faut n'appliquer votre art divin,
+Qu'à donner la fraîcheur au teint,
+À rendre la peau fine.
+
+-*who_lechoeur
+Ah !
+La bonne
+Personne,
+Ah ! L'excellent avis que voilà.
+
+-*who_lasybille
+De Plutus élève opulent,
+Ne faut être chiche d'argent
+Mais bien en faire usage ;
+Donnez, comme joyeux présents,
+Bijoux, maisons, chevaux fringants.
+Et galant équipage.
+
+-*who_lechoeur
+Ah !
+La bonne
+Personne,
+Ah ! L'excellent avis que voilà.
+
+-*who_lasybille
+En vacance bel avocat
+Quittez la robe et le rabat,
+Mettez vous en épée,
+Sifflez la petite Chanson,
+Et tenez vous près de Lison.
+Droit comme une poupée.
+
+-*who_lechoeur
+Ah !
+La bonne
+Personne,
+Ah ! L'excellent avis que voilà.
+
+**** *book_ *id_I09 *act_I *date_1765
+
+-*who_francoeur
+Ah ! Soulagez ma peine
+La si, la son, la sombredondaine,
+Je la supporte à peine,
+Et j'en perds la raison,
+Patati, patata, pataton.
+
+-*who_lasybille
+Conte moi ton tourment.
+
+-*who_francoeur
+J'aime un tendron charmant,
+Mais ma recherche est vaine;
+La si, la son, etc.
+Pour vaincre l'inhumaine,
+Il faudra du canon.
+Patati, patata, etc.
+
+-*who_lasybille
+Ta Maîtresse est elle innocente ?
+
+-*who_francoeur
+Vous qui, dit-on en savez tant,
+Croyez-vous aussi qu'à présent,
+Il est encore quelque ignorante ?
+
+-*who_lasybille
+Pas beaucoup,
+
+-*who_francoeur
+      Surtout, dites donc,
+Dans un pays de garnison.
+
+-*who_lasybille
+Des Agnès de cette contrée
+L'innocence est fort éclairée;
+Les Sénateurs et les plumets,
+Chacun les forme à sa manière.
+Sans compter les petits collets
+Qui les prennent à la lisière.
+Mon cher, si je puis t'être utile,
+Parle, je m'offre à te servir,
+
+-*who_francoeur
+Vous aimez à faire plaisir,
+Vous êtes bonne autant qu'habile.
+Ah l'excellent coeur que voilà!
+Je vais vous raconter cela.
+Lorsque dans ce Village
+Je vins en garnison,
+J'allai selon l'usage,
+Reluquer un tendron....
+Dès que je vis son oeil fripon
+Mon coeur ne fut plus rebelle,
+Surtout morbleu, son joli pied mignon
+Me fit tourner la cervelle.
+Je débute en galant homme,
+J'assomme tous mes rivaux.
+Je paye et vin et rogomme
+Et puis les petits cadeaux......
+En fille honnête
+Elle prie tout au mieux
+À chaque fête
+Montrait un air joyeux......
+Plus d'une fois sur le vert pré,
+Farlarira dondé,
+Ensemble nous avons.... sauté, dansé....
+Mais aujourd'hui la péronnelle,
+Fait avec moi la Demoiselle.
+Quand je lui dis bonjour mon coeur....
+Elle répond, Monsieur Francoeur,
+Finissez donc j'ons de l'honneur.....
+Tredame
+De moi se rit-on,
+Ma flamme,
+N'entend pas raison.
+Un Dragon doit en amourette
+Faire toujours un feu roulant.
+Ne battre jamais la retraite
+Quoiqu'un coeur fasse le méchant.
+Le menacer de l'escalade,
+Présenter l'échelle aussitôt,
+Et s'il ne bat la chamade,
+Morbleu le prendre d'assaut.
+
+-*who_lasybille
+N'aurais-tu pas parlé de mariage ?
+
+-*who_francoeur
+Cela se peut.
+
+-*who_lasybille
+      En ce cas je te plains.
+
+-*who_francoeur
+Quoi vous croyez que sur pareil langage
+Fillette compte ?
+
+-*who_lasybille
+      Oui vraiment je le crains.
+
+-*who_francoeur
+Palsambleu l'amour d'un Dragon
+Dure autant que la garnison,
+Adieu quand le printemps commence,
+De son côté chacun s'en va.
+Se marier, eh mais oui-da !
+C'est agir contre l'ordonnance.
+
+-*who_lasybille
+Près d'une belle un militaire
+Donne tous ses soins à charmer ;
+Si d'abord on est peu sévère
+C'est pour tâcher de l'enflammer.
+Est il pris, la subtile fillette
+Exige des preuves d'Amour.
+Chacun à son tour,
+Liron, lirette,
+Chacun à son tour.
+
+-*who_francoeur
+S'il faut brusquer le mariage
+Palsambleu je ferai le faut.
+Je ne dois pas craindre un outrage ;
+J'ai le bras bon et le coeur haut.
+Soldat qui fait bien son service
+N'a jamais peur qu'on le punisse,
+Ah ! l'Hymen n'a rien d'effrayant,
+Pour un bon vivant,
+Un bon vivant.
+
+**** *book_ *id_I10 *act_I *date_1765
+
+-*who_lasybille
+CEuillons les roses de la vie,
+Jouons sans cesse avec l'Amour ;
+À ce volage ôtons l'envie,
+De nous abandonner un jour.
+Ah ! Pour l'ordinaire,
+Il ne reste guerre
+Quand il n'a plus d'amusement.
+C'est un enfant. (bis.)
+Si jamais sur mon passage
+Je fais rencontre d'amour,
+Ah ! Sais fort bien par quel tour ;
+Je punirai ce volage.
+Tout d'abord m'en saisirai,
+Chez moi tôt le conduirai,
+Sans cesse l'amuserai
+Par quelques fêtes nouvelles.
+Ah ! Je le chérirai tant,
+Je le caresserai tant, tant, tant, tant.
+Que le petit inconstant,
+Oubliera qu'il a des ailes.
+
+**** *book_ *id_I11 *act_I *date_1765
+
+-*who_azor
+Madame excusez mon audace,
+Mais je voudrais vous consulter.
+
+-*who_lasybille
+Monsieur c'est me faire une grâce
+Et m'offenser que d'en douter.
+
+-*who_azor
+En ces lieux j'aime une Beauté;
+Pour lui plaire j'ai tout tenté,
+Mais elle en est plus fière.
+
+-*who_lasybille
+Quoi tous vos soins sont superflus ?
+
+-*who_azor
+Cela me surprend d'autant plus,
+Que voilà la première.
+
+-*who_lasybille
+Aimer sa mie,
+Fêter sa fantaisie,
+C'est dans la vie
+Avoir rosier fleuri.
+Mais si la chance
+Fait tourner la constance,
+Amour s'offense,
+Rosier devient flétri,
+Aimer sa mie, etc.
+
+-*who_azor
+Euphrosine a su me charmer,
+Mais que dois-je en attendre ?
+Elle ignore qu'il faut aimer,
+Et ne veut pas l'apprendre.
+
+-*who_lasybille
+Quand il guette au bocage
+Bel oiselet, (bis)
+Chasseur sous le feuillage
+Tend son filet.
+
+-*who_azor
+Faut-il user d'adresse ?
+
+-*who_lasybille
+Oh, oui.
+
+-*who_azor
+Ou peindre ma tendresse ?
+
+-*who_lasybille
+Oh, que nani.
+Il faut que je cache ma flamme,
+
+-*who_lasybille
+Oh, oui vraiment.
+
+-*who_azor
+Le secret pour toucher une âme
+Serait charmant,
+Quoi vous voulez que je soupire
+Ainsi qu'un galant du Palais,
+Voir un objet rempli d'attraits,
+L'adorer et n'oser lui dire;
+Je serais pour un Officier
+Singulier,
+Mais, mais fort singulier.
+
+-*who_lasybille
+Dans les beaux Jardins de Cythère
+Tant et tant de fleurs on peut voir,
+Mais le doux choix qu'il convient faire
+Tout amant n'en a le savoir.
+Galant trop tôt devenu téméraire
+Ne peut jamais qu'effrayer la beauté.
+À quatorze ans pastourelle est sévère
+Moins par raison que par timidité.
+
+-*who_azor
+Trop de réserve nuit souvent,
+L'expérience le fait croire.
+Un guerrier et timide et lent;
+Toujours achète la victoire;
+Impétueux, rempli d'ardeur.
+Dès qu'il paraît il est vainqueur.
+
+-*who_lasybille
+Maintes fois avec l'innocence
+Amour du jeu court le hasard,
+Le Dieu choisit par préférence
+Joli jeu de colin-mailliard :
+Met à la décence inquiète
+Épais bandeau dessus les yeux,
+Puis par un signe gracieux
+Avertit le plaisir qui guette.
+C'est fait minon-minette,
+Tu viendras
+Quand tu voudras.
+Quand c'est le tour à l'innocence
+Sur ses yeux met autre bandeau,
+Laisse celui de la décence,
+Même le serre de nouveau,
+Avec sa main d'humeur follette,
+Prends garde si l'on ne voit point,
+Puis une fois sûr de ce point
+Tout haut crie au plaisir qui guette.
+C'est fait minon-minette ;
+Tu viendras
+Quand tu voudras.
+
+-*who_azor
+Je tairai les feux que je sens,
+Je vais me forcer au silence.
+Azor vous doit l'obéissance;
+Si vous l'exigez, j'y consens.
+Mais mes yeux parleront peut-être,
+Comment réprimer leur ardeur ?
+De ses regards est-on le maître,
+Quand on ne l'est plus de son coeur.
+
+**** *book_ *id_I12 *act_I *date_1765
+
+-*who_euphrosine
+Prenons la fuite
+Bien vite,
+L'Amour est ici :
+Il vient d'attraper Colette,
+Et peut-être qu'il vous guette,
+Et nous aussi.
+
+-*who_lasybille
+Je sais que l'Amour est ici.
+
+-*who_euphrosine
+Fuyons sans plus attendre.
+
+-*who_lasybille
+Restez, n'ayez aucun souci,
+Je saurai vous défendre :
+Fuir d'amour le charmant plaisir,
+Dans sa jeunesse c'est vieillir,
+J'avais pris dans un bocage
+Oiselet charmant,
+Je l'avais mis dans la cage ;
+Il y devint languissant.
+En vain j'animais son ramage,
+Rien ne disait que tristement.
+Mais ce matin belle fauvette
+Est venue l'exciter,
+Il s'est mis à chanter.
+Pauvre fillette
+Sans amourette
+Languit comme mon oiselet :
+Amant rend le coeur guilleret.
+
+-*who_euphrosine
+Mon coeur a fait choix d'un amant,
+Dont l'ardeur est extrême;
+Mais il a trop d'empressement
+Pour savoir si je l'aime.
+
+-*who_lasybille
+Eh bien avouez sans détour.
+À quoi bon ce mystère.
+
+-*who_euphrosine
+Je voudrais qu'il fût mon amour ;
+Et je voudrais le taire.
+
+-*who_lasybille
+Sans hésiter
+Laissez-le lire dans votre âme,
+Sans hésiter
+Donnez-lui lieu de s'en douter.
+
+-*who_euphrosine
+C'est ce qui m'embarrasse, oh Dame!
+Et je viens sur cela Madame,
+Vous consulter.
+
+-*who_lasybille
+Mais si votre amant le devine
+Serez vous d'accord ?
+
+-*who_euphrosine
+Oui vraiment.
+
+-*who_lasybille
+Il suffit, mais Belle Euphrosine
+Puis-je parler sincèrement ?
+
+-*who_euphrosine
+Que sans détour votre bouche prononce.
+
+-*who_lasybille
+Vous l'exigez ?
+
+-*who_euphrosine
+      Oui j'attends sur cela
+Votre réponse.
+
+-*who_lasybille
+      La voilà.
+
+-*who_azor
+Belle Euphrosine hélas votre colère,
+M'a trop puni de ma témérité.
+Pardonnez moi si j'ai pu vous déplaire
+Mon excuse est votre beauté.
+
+**** *book_ *id_I13 *act_I *date_1765
+
+-*who_francoeur
+Tiens touche là soyons époux,
+Qu'avec moi ton sort sera doux,
+Ma petite friponne.
+Tu verras ce qu'est un amant.
+Quand il fait aimer constamment,
+Ratapatapan,
+À la Dragone.
+
+-*who_lasybille
+Puisque l'amour est dans ces lieux
+Voulez-vous toujours être heureux,
+Avoir bonheur suprême.
+Engagez le vainqueur des Dieux,
+À vous unir lui-même.
+
+-*who_lasybille
+Mais quel bruit font nos vendangeurs.
+Pourquoi fuir ?
+
+-*who_euphrosine
+      L'Amour les poursuit.
+
+-*who_lasybille
+Fillettes sont toujours peureuses,
+Mettons cet instant à profit ;
+Le désir doit nous rendre heureuses,
+Suivez-moi toutes, approchons.
+Nous l'attraperons. (bis.)
+
+-*who_lasybille
+Aimez-vous bien, mes chers enfants,
+Vous ne sauriez mieux faire.
+Lorsque l'on est dans son printemps
+A-t-on quelque autre affaire.
+À vous voir tous aussi contents
+Je crois n'être encor qu'à vingt ans.
+Soyez toujours amants :
+Rien ne plaît autant que cela
+La, la.
+
+-*who_lechoeur
+Oh, oh, oh, ah, ah, ah!
+La bonne Dame que voilà.
+La, la.

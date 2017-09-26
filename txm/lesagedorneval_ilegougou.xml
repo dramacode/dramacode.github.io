@@ -1,0 +1,1491 @@
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L’île du gougou</title>
+        <title type="sub">, comédie</title>
+        <author born="" born_location="" death="" death_location="" academie="">
+          <surname>Lesage et dorneval</surname>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p>publié par Paul FIEVRE, octobre 2013;</p>
+        <idno/>
+      </publicationStmt>
+      <sourceDesc>
+        <genre>Comédie</genre>
+        <inspiration>moeurs françaises</inspiration>
+        <structure>Deux actes</structure>
+        <type>prose</type>
+        <periode>1711-1720</periode>
+        <taille>(mesure non pertinente)</taille>
+        <permalien/>
+        <sources>
+          <source id="1">
+            <author/>
+            <text/>
+          </source>
+        </sources>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="created" when="1720"/>
+        <date type="issued" when="1720"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 xml:id="I" type="act" n="1">
+        <head>ACTE I</head>
+        <div2 xml:id="I01" type="scene" n="1">
+          <head>SCÈNE I. Léandre, Arlequin, Quatre matelots, Six sauvages.<listPerson type="configuration" xml:id="conf1"/></head>
+          <sp xml:id="I01-1" who="ARLEQUIN">
+            <p>
+              <s>Ahi ! Siamo perduti !</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-2" who="ARLEQUIN">
+            <p>
+              <s>Les vilaines manchettes !</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-3" who="LEANDRE">
+            <p>
+              <s>Ah !</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-4" who="ARLEQUIN">
+            <p>
+              <s>Hélas ! </s>
+              <s>Que va-t-on faire de nous ?</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I02" type="scene" n="1">
+          <head>SCÈNE I.. Léandre, Arlequin.<listPerson type="configuration" xml:id="conf2"/></head>
+          <sp xml:id="I02-1" who="ARLEQUIN">
+            <p>
+              <s>Hiaouf !</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-2" who="ARLEQUIN">
+            <p>
+              <s>Je vous l’avais bien dit, Monsieur, qu’il nous arriverait malheur à la fin ! </s>
+              <s>Vous n’avez jamais voulu me croire et voilà ce que votre opiniâtreté nous attire !</s>
+            </p>
+            <p>
+              <s>Oui, je sais bien que l’amour fait faire bien des choses. </s>
+              <s>Je le sens comme vous, puisque ma chère Marinette a été prise par des corsaires avec Argentine, votre maîtresse. </s>
+              <s>Mais il y a une fin à tout. Nous les avions cherchées d’île en île, pendant près de deux ans, au travers de mille dangers, craignant, à chaque moment, la griffe des pirates et la gueule des merlans. </s>
+              <s>N’en avions-nous pas assez fait et n’étions-nous pas en droit de nous retirer honnêtement ? </s>
+              <s>Pas pour un diable ! </s>
+              <s>Vous ne voulez écouter aucune raison et, ne suivant en tout que votre chienne de fantaisie, vous vous enfoncez follement dans des mers inconnues, où vous ne deviez pas moins attendre que ce qui vous est arrivé.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-3" who="LEANDRE">
+            <p>
+              <s>Ouf !</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-4" who="ARLEQUIN">
+            <p>
+              <s>Nous voilà bien avancés ! </s>
+              <s>J’avais grand tort, n’est-ce pas, de vous marquer ma défiance sur toutes les amitiés que nous fit dernièrement le génie Beninguet en nous recevant chez lui ? </s>
+              <s>Je vous dis, mon cher maître :  « J’ai peur que le génie ne nous joue d’un mauvais tour, il y a cinq cent mille diables qui se mêlent de ses affaires ; il n’y a rien de bon à attendre de ce drôle-là. </s>
+              <s>— Ah, mon pauvre Arlequin, me répondîtes-vous, que tu juges mal de Beninguet ! </s>
+              <s>Son air, ses manières engageantes, sa compassion dans nos malheurs, les fêtes qu’il nous donne, tout cela ne doit-il pas te rassurer ? </s>
+              <s>— Monsieur, vous répliquai-je, c’est peut-être une sirène qui nous flatte pour nous étrangler. </s>
+              <s>— Bien loin de cela , Arlequin ! </s>
+              <s>Il me fait équiper un vaisseau bien meilleur que le mien, et il vient de me dire les larmes aux yeux : Seigneur Léandre, mon cher ami, je suis bien fâché de vous quitter, mais l’intérêt de votre amour l’emporte sur le plaisir que j’ai de vous voir. </s>
+              <s>Partez. </s>
+              <s>Abandonnez-vous encore aux flots. </s>
+              <s>Vous devez bientôt retrouver votre Argentine et l’arracher des mains du tyran qui la tient en esclavage... » </s>
+              <s>Ne vous voilà-t-il pas dans un bel équipage ? </s>
+              <s>Pour cela, vous auriez besoin vous-même d’un Roland pour vous tirer des pattes ou nous sommes tombés.</s>
+            </p>
+            <p>
+              <s>Allez, allez, Beninguet et les coquins qui nous ont pris s’entendent comme larrons en foire.</s>
+            </p>
+            <p>
+              <s>Que diable signifie cela ?</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I03" type="scene" n="1">
+          <head>SCÈNE I.I. Léandre, Arlequin, Le Sagamo et suite.<listPerson type="configuration" xml:id="conf3"/></head>
+          <sp xml:id="I03-1" who="CHŒURDESAUVAGES">
+            <l n="1" xml:id="l1">Vivo vivo</l>
+            <l n="2" xml:id="l2">Grano Sagamo !</l>
+          </sp>
+          <sp xml:id="I03-2" who="ARLEQUIN">
+            <p>
+              <s>Quelles physionomies ! </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-3" who="UNSAUVAGE">
+            <p>
+              <s>Nomac et qualitac.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-4" who="ARLEQUIN">
+            <p>
+              <s>Come mi chiamo ? </s>
+              <s>Arlequin magna tutto.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-5" who="LESAUVAGE">
+            <p>
+              <s>Nomac, nomac ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-6" who="LESAGAMO">
+            <p>
+              <s>Coquinec ! </s>
+              <s>Brutalec serec empalec !</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-7" who="ARLEQUIN">
+            <p>
+              <s>Ah, malheureux ! </s>
+              <s>Que faites-vous ? </s>
+            </p>
+            <p>
+              <s>Excusez, excusez, grand Magot ! </s>
+              <s>C’est la manière dont on salue dans notre pays. </s>
+              <s>Mon maître s’appelle Léandre, gentilhomme italien.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-8" who="LESAGAMO">
+            <p>
+              <s>Etrangec consolec, consolec, serec contentec.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-9" who="ARLEQUIN">
+            <p>
+              <s>Bon début, ma foi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-10" who="LESAGAMO">
+            <p>
+              <s>Léandrec serec traitec honorec…</s>
+              <s>Impolitec, non répondec !</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-11" who="ARLEQUIN">
+            <p>
+              <s>Heu ! </s>
+            </p>
+            <p>
+              <s>Pardonnez-lui, Seigneur Masago. </s>
+              <s>Il ne peut vous répondre parce qu’il est muet.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-12" who="LESAGAMO">
+            <p>
+              <s>Arlequinec, mangerec et boirec splendidec.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-13" who="ARLEQUIN">
+            <p>
+              <s>Remerciec, votrec seigneuriec !</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-14" who="LESAGAMO">
+            <p>
+              <s>Déchainec étrangec !</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-15" who="ARLEQUIN">
+            <p>
+              <s>Oh, le brave homme !</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-16" who="LESSAUVAGES">
+            <p>
+              <s>Tuac, tuac, l’insolentac !</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-17" who="LESAGAMO">
+            <p>
+              <s>Laissec, laissec ! </s>
+              <s>L’actionnec partec d’affectionec !</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-18" who="ARLEQUIN">
+            <p>
+              <s>Oui entendez-vous ? </s>
+              <s>J’affectionne le magot, c’est pourquoi je veux l’embrasser !</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-19" who="LESAGAMO">
+            <p>
+              <s>Voulec traitec étrangec commec ma personnec.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-20" who="ARLEQUIN">
+            <p>
+              <s>Entendez-vous bien ce qu’on vous dit ? </s>
+              <s>Allons, dépêchez-vous de nous donner à manger !</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-21" who="UNSAUVAGE">
+            <p>
+              <s>Voulou, sa majestou, apprendrou al Gougou l’arrivou des étrangeous ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-22" who="ARLEQUIN">
+            <p>
+              <s>Oui, grigou.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-23" who="LESAGAMO">
+            <p>
+              <s>Voulec.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I04" type="scene" n="4">
+          <head>SCÈNE IV. Léandre, Arlequin.<listPerson type="configuration" xml:id="conf4"/></head>
+          <sp xml:id="I04-1" who="ARLEQUIN">
+            <p>
+              <s>Hé bien, Monsieur, qu’en dites-vous ?</s>
+            </p>
+            <p>
+              <s>Croyez-moi, mettez vos soupirs au croc pendant quelques jours et n’altérez point votre santé gratis.</s>
+            </p>
+            <p>
+              <s>Nous ne savons ni quand ni comment nous sortirons d’ici, cela est vrai ; mais chaque jour suffit de son mal. </s>
+              <s>Ne sommes-nous pas encore trop heureux d’être tombés avec de braves sauvages comme ceux-ci ?</s>
+            </p>
+            <p>
+              <s>Oh, n’appréhendez rien. </s>
+              <s>Allez, Monsieur, c’est une bonne pâte d’homme que ce magot ! </s>
+              <s>Avez-vous pris garde avec quelle humanité il a dit : « Arlequinec mangerec et boirec splendidec » ? </s>
+              <s>Nous allons être régalés ici comme des princes. </s>
+              <s>Tenez, voyez-vous déjà comme les officiers se démènent pour exécuter les ordres de leur maître ?</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I05" type="scene" n="5">
+          <head>SCÈNE V. Léandre, Arlequin, Plusieurs Sauvages apportant des mets.<listPerson type="configuration" xml:id="conf5"/></head>
+          <sp xml:id="I05-1" who="ARLEQUIN">
+            <p>
+              <s>Ah, morbleu, que je vais bien m’en donner !</s>
+            </p>
+            <l n="3" xml:id="l3">Prends un siège Cinna. </l>
+          </sp>
+          <sp xml:id="I05-2" who="ARLEQUIN">
+            <p>
+              <s>Mangez, Monsieur, mangez ! </s>
+              <s>Vous ne savez pas qui vous mangera.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-3" who="UNSAUVAGE">
+            <p>
+              <s>Sagamo sero mécontento !</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-4" who="ARLEQUIN">
+            <p>
+              <s>Oui vraiment, ce Samago sera fâché si vous ne faites pas honneur à son vin. </s>
+              <s>À propos, goûtons un peu de ce vin.</s>
+            </p>
+            <p>
+              <s>Quelque part que puissent être nos maîtresses, il ne leur servira de rien que nous mourions de faim. </s>
+              <s>Allons, Monsieur, à leur santé !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I06" type="scene" n="6">
+          <head>SCÈNE VI. Les Précédents, Pierrot.<listPerson type="configuration" xml:id="conf6"/></head>
+          <sp xml:id="I06-1" who="PIERROT">
+            <l n="4" xml:id="l4">Gougou, Gougou,</l>
+            <l n="5" xml:id="l5">Gougou, Gougou,</l>
+            <l n="6" xml:id="l6">Avalou, Avalou, Avalou</l>
+            <l n="7" xml:id="l7">Arlequi, qui, Arlequou quou,</l>
+            <l n="8" xml:id="l8">Arlequinou. Arlequinou.</l>
+          </sp>
+          <sp xml:id="I06-2" who="ARLEQUIN">
+            <l n="9" xml:id="l9">Gougou, Gougou,</l>
+            <l n="10" xml:id="l10">Avalou.</l>
+            <p>
+              <s>Oui, oui, hé, hé, hé, cela est de bon goût et j’avale aussi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-3" who="PIERROT">
+            <l n="11" xml:id="l11">Gougou, Gougou</l>
+            <l n="12" xml:id="l12">Est contentou</l>
+            <l n="13" xml:id="l13">D’Arlequinou !</l>
+          </sp>
+          <sp xml:id="I06-4" who="ARLEQUIN">
+            <p>
+              <s>Qu’est-ce que ce Gougou ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-5" who="PIERROT">
+            <p>
+              <s>Grand deou, qu’adorou sauvageou.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-6" who="ARLEQUIN">
+            <p>
+              <s>Ha, ha, il est bien aise que je fasse bonne chère !</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-7" who="PIERROT">
+            <p>
+              <s>Est contentou !</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-8" who="ARLEQUIN">
+            <p>
+              <s>Ma foi, votre Dieu est bon diable ! </s>
+              <s>À sa santé !</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-9" who="PIERROTetlesSAUVAGES">
+            <p>
+              <s>Haleatibou ! </s>
+              <s>Haleatibou !</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-10" who="ARLEQUIN">
+            <p>
+              <s>Voilà des possédés ! </s>
+              <s>Hé, pourquoi donc cette cérémonie ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-11" who="PIERROT">
+            <p>
+              <s>Deou, Deou !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I07" type="scene" n="7">
+          <head>SCÈNE VII. Arlequin, Léandre, Deux Sauvages, apportant deux habits de victime des couronnes et des guirlandes de fleurs.<listPerson type="configuration" xml:id="conf7"/></head>
+          <sp xml:id="I07-1" who="ARLEQUIN">
+            <p>
+              <s>Que viennent faire ceux-ci ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-2" who="PREMIERSAUVAGE">
+            <p>
+              <s>Recevac l’honorac.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-3" who="ARLEQUIN">
+            <p>
+              <s>Prenez. Monsieur ! </s>
+              <s>N’entendez-vous pas que c’est pour vous faire honneur ? </s>
+              <s>« Honorac ».</s>
+            </p>
+            <p>
+              <s>Donnez, donnez. </s>
+              <s>Je ne suis pas si difficile moi !</s>
+            </p>
+            <p>
+              <s>Mais qu’est-ce que c’est que ce collier ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-4" who="DEUXIEMESAUVAGE">
+            <p>
+              <s>L’ordrec du deec.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-5" who="ARLEQUIN">
+            <p>
+              <s>J’entends c’est le collier de l’ordre du Gougou.</s>
+            </p>
+            <p>
+              <s>Bon, bon, honorac. </s>
+              <s>Hé bien, à quoi nous destine-t-on à présent ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-6" who="DEUXIEMESAUVAGE">
+            <p>
+              <s>Seroc devoroc par le deoc. </s>
+              <s>Honoroc, honoroc !</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-7" who="ARLEQUIN">
+            <p>
+              <s>Que dites-vous ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-8" who="PREMIERSAUVAGE">
+            <p>
+              <s>Gougou voulou avalou Arlequinou.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-9" who="ARLEQUIN">
+            <p>
+              <s>Miséricorde !</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-10" who="DEUXIEMESAUVAGE">
+            <p>
+              <s>Divinac crocodilac mangerac Leandrac, réjouissac !</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-11" who="ARLEQUIN">
+            <p>
+              <s>Le Diable t’emporte avec ton réjouissac !</s>
+            </p>
+            <p>
+              <s>O, poverto me ! </s>
+              <s>Ah, le traître de Magot et le perfide Beninguet !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I08" type="scene" n="8">
+          <head>SCÈNE VIII. Léandre, Arlequin, Deux Sauvages, Un Eunuque.<listPerson type="configuration" xml:id="conf8"/></head>
+          <sp xml:id="I08-1" who="LEUNUQUE">
+            <p>
+              <s>Arrêtic, arrêtic, l’infantic Toumentinic désiric parlic à Léandric. </s>
+              <s>L’a regardic de son balconic, voulic l’empêchic d’êtric mangic !</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-2" who="ARLEQUIN">
+            <p>
+              <s>Réjouissic, réjoussic ! </s>
+              <s>Et non pas réjouissac ! </s>
+            </p>
+            <p>
+              <s>Allic, allic, saluic Tourmentic !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I09" type="scene" n="9">
+          <head>SCÈNE IX. Arlequin, Les Deux Sauvages, Un Garçon, Une Petite Fille.<listPerson type="configuration" xml:id="conf9"/></head>
+          <sp xml:id="I09-1" who="ARLEQUIN">
+            <p>
+              <s>Ah ! </s>
+              <s>Messieurs les coquins, vous vouliez nous faire croquer par votre vilain Gougou ! </s>
+              <s>Hé, vous en aurez !</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-2" who="LEJEUNEGARCON">
+            <p>
+              <s>Finissuc, finissuc ! </s>
+              <s>Priuc le deuc !</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-3" who="ARLEQUIN">
+            <p>
+              <s>Quel diable de pays pour le jargon ! </s>
+              <s>Ac, ec, ic, oc, uc, on parle ici les cinq mères langues !</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-4" who="LEJEUNEGARCON">
+            <l n="14" xml:id="l14">Cantou Cantou, Deou Gougou,</l>
+            <l n="15" xml:id="l15">Qui fa vivou lou sauvageou,</l>
+            <l n="16" xml:id="l16">Qui da panou, qui da vivou,</l>
+            <l n="17" xml:id="l17">Cantou Cantou, Deou Gougou.</l>
+          </sp>
+          <sp xml:id="I09-5" who="LECHOEUR">
+            <l n="18" xml:id="l18">Cantou Cantou, Deou Gougou.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="I10" type="scene" n="10">
+          <head>SCÈNE X. Léandre, Arlequin.<listPerson type="configuration" xml:id="conf10"/></head>
+          <sp xml:id="I10-1" who="ARLEQUIN">
+            <p>
+              <s>Qu’avez-vous donc ?</s>
+            </p>
+            <p>
+              <s>Tout est perdu ?</s>
+            </p>
+            <p>
+              <s>Tourmentine s’est dédite apparemment.</s>
+            </p>
+            <p>
+              <s>Quoi donc ?</s>
+            </p>
+            <p>
+              <s>Elle veut bien vous sauver la vie ? </s>
+              <s>Hé, que diable vous faut-il encore ?</s>
+            </p>
+            <p>
+              <s>Aux conditions que vous l’épouserez ? </s>
+              <s>Eh bien, voilà une belle affaire ! </s>
+              <s>Épousez-la !</s>
+            </p>
+            <p>
+              <s>Pour moi, j’épouserais quatre femmes toutes à la fois pour me sauver la vie !</s>
+            </p>
+            <p>
+              <s>Vous voulez être fidèle à Argentine et l’épouser sans doute quand le Gougou vous aura avalé ?</s>
+            </p>
+            <p>
+              <s>Hé ! </s>
+              <s>Qu’importe qu’elle soit magicienne, et son père sorcier ! </s>
+              <s>J’épouserais le Diable plutôt que de me laisser manger comme un sot.</s>
+            </p>
+            <p>
+              <s>Que j’épouse donc Carabosse, la suivante de Tourmentine, qui ne me rachètera la vie qu’à ce prix-là ? </s>
+              <s>Très volontiers !</s>
+            </p>
+            <p>
+              <s>Quoi que vous puissiez dire de sa laideur, cela ne me rebutera pas. </s>
+              <s>Elle est dégoûtante, elle ferait peur à un Suisse. </s>
+              <s>Tout ce qu’il vous plaira. </s>
+              <s>Je veux vivre et je la prendrai pour femme !</s>
+            </p>
+            <p>
+              <s>Non vraiment, Monsieur, je n’oublie pas pour cela Marinette, mais je cède à la nécessité ! </s>
+              <s>Si je suis croqué, je ne pourrai pas l’aller délivrer, comme je le ferai quelque jour.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I11" type="scene" n="11">
+          <head>SCÈNE XI. Les Précédents, Carabosse, homme déguisé en femme horriblement laid.<listPerson type="configuration" xml:id="conf11"/></head>
+          <sp xml:id="I11-1" who="CARABOSSE">
+            <p>
+              <s>Non mangeoc ! </s>
+              <s>Non mangeoc !</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-2" who="ARLEQUIN">
+            <p>
+              <s>Oh !</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-3" who="CARABOSSE">
+            <p>
+              <s>Non mangeoc !</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-4" who="ARLEQUIN">
+            <p>
+              <s>Tiroc ! </s>
+              <s>Tiroc !</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-5" who="CARABOSSE">
+            <p>
+              <s>Caroc Arlequinoc t’adoroc !</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-6" who="CARABOSSE">
+            <p>
+              <s>Impudentoc !</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-7" who="ARLEQUIN">
+            <p>
+              <s>C’est que vous me faites venir l’eau à la bouche.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-8" who="LEANDRE">
+            <p>
+              <s>Hen !</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-9" who="ARLEQUIN">
+            <p>
+              <s>Oh ! </s>
+              <s>Ma foi, Monsieur, il n’y a envie de vivre qui tienne ! </s>
+              <s>Je crois que je me dédirai !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I12" type="scene" n="12">
+          <head>SCÈNE XII. Les Précédents, Tourentine.<listPerson type="configuration" xml:id="conf12"/></head>
+          <sp xml:id="I12-1" who="TOURMENTINE">
+            <p>
+              <s>Avertic, faitic réflexionic ? </s>
+              <s>Voulic m’épousic ?</s>
+            </p>
+            <p>
+              <s>Ha, ha, méprisic charmic ? </s>
+              <s>Insolentic ! </s>
+              <s>Oh, bien ! </s>
+              <s>Seric dévoric ! </s>
+            </p>
+            <p>
+              <s>Amenic crocodilic !</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-2" who="ARLEQUIN">
+            <p>
+              <s>Apaisic colèric ! </s>
+              <s>Donnez-lui le temps de se reconnaître. </s>
+              <s>Il vous aimera peut-être à la fin.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-3" who="TOURMENTINE">
+            <p>
+              <s>Non voulic attendric !</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-4" who="CARABOSSE">
+            <p>
+              <s>Regardoc visageoc désiroc épousoc !</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-5" who="ARLEQUIN">
+            <p>
+              <s>Noc !</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-6" who="CARABOSSE">
+            <p>
+              <s>Ô ingratoc ! </s>
+            </p>
+            <p>
+              <s>Gougou, Gougou !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I13" type="scene" n="13">
+          <head>SCÈNE XIII. Les Précédents, Troupe de Sauvages, Pierrot, amenant le Gougou.<listPerson type="configuration" xml:id="conf13"/></head>
+          <sp xml:id="I13-1" who="ARLEQUIN">
+            <p>
+              <s>Hoïmé ! </s>
+              <s>L’affreuse bête !</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-2" who="ARLEQUIN">
+            <p>
+              <s>Un moment, Madame Carabosse, un moment !</s>
+            </p>
+            <p>
+              <s>Partou Gougou ! </s>
+            </p>
+            <p>
+              <s>Si vous vouliez ne me point faire de mal en me mangeant. </s>
+            </p>
+            <p>
+              <s>Ahi ! </s>
+              <s>Oh ! </s>
+              <s>Je veux bien qu’il m’avale mais je ne prétends pas qu’il ouvre la gueule !</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-3" who="CARABOSSE">
+            <p>
+              <s>Déterminoc !</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-4" who="ARLEQUIN">
+            <p>
+              <s>Ma foi, épousoc ou mangeoc, je ne sais lequel vaut le mieux, je jetterais cela à croix à pile !</s>
+            </p>
+            <p>
+              <s>Hé bien, péric crudélic ! </s>
+            </p>
+          </sp>
+          <sp xml:id="I13-5" who="ARLEQUIN">
+            <p>
+              <s>Vous avez raison, Monsieur, périssons ! </s>
+              <s>Nous ne souffrirons qu’un instant et, avec ces diablesses-là, nous mourrions cent fois par jour !</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-6" who="ARLEQUIN">
+            <p>
+              <s>Oui-da, monsieur ! </s>
+              <s>Je veux bien vous montrer le chemin. </s>
+              <s>Vous allez voir quel bon coeur de valet vous aviez en moi.</s>
+            </p>
+            <p>
+              <s>Mais, Monsieur, je fais réflexion que j’allais commettre là une grande incivilité, et qu’il n’est pas honnête à un domestique de passer devant son maître !</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-7" who="ARLEQUIN">
+            <p>
+              <s>Non, vous dis-je, je n’en ferai rien… </s>
+              <s>Après vous, Monsieur, vous dis-je !</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-8" who="TOURMENTINE">
+            <p>
+              <s>Non périric si subitic ! </s>
+              <s>Enragic ! </s>
+              <s>Préparic tourmentic plus terribilic que millic mortic !</s>
+            </p>
+            <p>
+              <s>Accourric lutinic ! </s>
+              <s>Transportic l’ingratic dans l’Ilic Noiric ! </s>
+              <s>vengic coeuric outragic. </s>
+            </p>
+          </sp>
+          <sp xml:id="I13-9" who="ARLEQUIN">
+            <p>
+              <s>Le Diable t’entrainic !</s>
+            </p>
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, je frisonne d’aller dans l’Île Noire de Madame Tourmentine.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I14" type="scene" n="14">
+          <head>SCÈNE XIV. Léandre, Arlequin, Deux Lutins.<listPerson type="configuration" xml:id="conf14"/></head>
+          <sp xml:id="I14-1" who="ARLEQUIN">
+            <p>
+              <s>Hoïmé ! </s>
+              <s>Nous voilà flambés !</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-2" who="LESDEUXLUTINS">
+            <p>
+              <s>Presto, Presto !</s>
+            </p>
+          </sp>
+        </div2>
+      </div1>
+      <div1 xml:id="II" type="act" n="2">
+        <head>ACTE II</head>
+        <div2 xml:id="II01" type="scene" n="1">
+          <head>SCÈNE I. Argentine, Marinette.<listPerson type="configuration" xml:id="conf16"/></head>
+          <sp xml:id="II01-1" who="MARINETTE">
+            <p>
+              <s>Modérez donc un peu vos douleurs, ma chère maîtresse. </s>
+              <s>Ne sommes nous pas encore trop heureuses dans nos malheurs ? </s>
+              <s>Depuis le jour fatal qu’on nous sépara de nos amants, nous avons passé successivement au pouvoir de six fameux pirates, qui tous ont eu pour nous des manière polies et respectueuses. </s>
+              <s>Hier, les sauvages nous tirent des mains du corsaire Coja, et nous amènent pour être dévorées par le monstre qu’ils adorent. </s>
+              <s>Le Sagamo, tout barbare qu’il est, ne peut tenir contre nos larmes et nous sauve de la gueule du Gougou prêt à nous engloutir.</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-2" who="ARGENTINE">
+            <p>
+              <s>Ahi !</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-3" who="MARINETTE">
+            <p>
+              <s>Il fait plus ! </s>
+              <s>Il vient lui même rompre vos chaînes. </s>
+              <s>Il vous conduit à sa fille qui vous reçoit comme son amie. </s>
+              <s>Il ordonne que rien ne nous manque. </s>
+              <s>Que voulez-vous davantage ?</s>
+            </p>
+            <p>
+              <s>Vous vous trouvez malheureuse loin de Léandre ? </s>
+              <s>Cela est naturel. </s>
+              <s>Je regrette fort aussi ce pauvre Arlequin, mais que faire ? </s>
+              <s>Il faut bien prendre patience et espérer que le Ciel qui nous a tirées de tant de dangers nous rendra à la fin nos amants. </s>
+              <s>Il se présentera peut-être bientôt quelque occasion de nous tirer d’ici ! </s>
+              <s>Mais, au reste, songeons qu’il pourrait nous arriver pis et consolons nous !</s>
+            </p>
+            <p>
+              <s>Je vous parle raison et je crois que vous devez… </s>
+              <s>Mais voici le Sagamo avec son favori ! </s>
+              <s>Remettez-vous un peu et ne paraissons point mécontentes de notre esclavage.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II02" type="scene" n="2">
+          <head>SCÈNE II. Argentine, Marinette, Le Sagamo, Son Favori.<listPerson type="configuration" xml:id="conf17"/></head>
+          <sp xml:id="II02-1" who="LESAGAMO">
+            <p>
+              <s>Divinec Argentinec, coeurec est enchantec de possédec si précieusec trésorec !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-2" who="LEFAVORI">
+            <p>
+              <s>Bellac créaturac, votrac regardac enlevac libertac !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-3" who="MARINETTE">
+            <p>
+              <s>Seigneur, vous seriez facile à vaincre si mes yeux avaient fait ce que vous dites !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-4" who="LESAGAMO">
+            <p>
+              <s>Brillantec soleilec d’orientec, voyec esclavec.</s>
+            </p>
+            <p>
+              <s>Recevec manec et couronnec.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-5" who="ARGENTINE">
+            <p>
+              <s>Ah !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-6" who="LESAGAMO">
+            <p>
+              <s>Ingratec ! </s>
+              <s>Répugnec à m’épousec ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-7" who="MARINETTE">
+            <p>
+              <s>Calmez votre colère, Seigneur. </s>
+              <s>Elle n’a point fait cela pour vous offenser.</s>
+            </p>
+            <p>
+              <s>Contraignez-vous donc !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-8" who="LESAGAMO">
+            <p>
+              <s>M’insultec !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-9" who="MARINETTE">
+            <p>
+              <s>Hé non, vous dis-je, ce n’est point pour vous insulter. </s>
+              <s>Au contraire, elle a cru elle-même que vous l’insultiez et que vous vous moquiez d’elle en lui proposant d’accepter un honneur dont elle se croit indigne.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-10" who="LESAGAMO">
+            <p>
+              <s>Tropec modestec !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-11" who="MARINETTE">
+            <p>
+              <s>C’est le défaut des femmes d’Occident d’être trop modestes.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-12" who="LESAGAMO">
+            <p>
+              <s>Non raillec, non raillec. </s>
+              <s>Pouponec méritec de régnec ! </s>
+              <s>Souffrec baisec manec.</s>
+            </p>
+            <p>
+              <s>Pendardec ! </s>
+              <s>Donnec soufflec à ma personnec !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-13" who="MARINETTE">
+            <p>
+              <s>C’est que vous n’êtes pas accoutumé à nos manières de faire l’amour ! </s>
+              <s>Comment donc un soufflet ? </s>
+              <s>Savez-vous que c’est la plus grande faveur qu’une européenne puisse donner à son amant ? </s>
+              <s>Un soufflet ! </s>
+              <s>Je la trouve bien hardie d’avoir été d’abord jusque là !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-14" who="LESAGAMO">
+            <p>
+              <s>M’étonnec…</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-15" who="MARINETTE">
+            <p>
+              <s>Il faut qu’elle vous adore pour avoir eu si peu de retenue !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-16" who="LESAGAMO">
+            <p>
+              <s>Ha, ha, ha ! </s>
+              <s>Adorec, adorec !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-17" who="LEFAVORI">
+            <p>
+              <s>Donnac soufflac !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-18" who="MARINETTE">
+            <p>
+              <s>Oh, je le veux bien, je n’en suis pas chiche ! </s>
+              <s>Tenez !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-19" who="LESAGAMO">
+            <p>
+              <s>Grincec dentec.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-20" who="MARINETTE">
+            <p>
+              <s>Elle grince les dents : elle vous aime à la rage !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-21" who="LESAGAMO">
+            <p>
+              <s>Eprouvec, éprouvec.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-22" who="MARINETTE">
+            <p>
+              <s>Si vous l’éprouvez, vous verrez que je dis vrai.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-23" who="LESAGAMO">
+            <p>
+              <s>Adiec reinec !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-24" who="LEFAVORI">
+            <p>
+              <s>Au revoirac mignonac !</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-25" who="MARINETTE">
+            <p>
+              <s>Adieu beau minois à souffleter !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II03" type="scene" n="3">
+          <head>SCÈNE III. Argentine, Marinette.<listPerson type="configuration" xml:id="conf18"/></head>
+          <sp xml:id="II03-1" who="MARINETTE">
+            <p>
+              <s>En vérité madame, vous n’y pensez pas, vous jouez à nous faire massacrer !</s>
+            </p>
+            <p>
+              <s>Il est fâcheux, j’en conviens, que vous ayez donné de l’amour au Sagamo, mais aussi c’est à cet amour que nous devons la vie et vous allez, de gaieté de coeur, par des mépris mal placés, irriter un homme qui nous tient !</s>
+            </p>
+            <p>
+              <s>Mais une fille prudente sait s’accommoder au temps ; elle flatte la passion d’un amant qui lui déplait, et qu’elle a quelques raisons de ménager, et elle le conduit adroitement où elle veut. </s>
+              <s>C’est le parti qu’il faut que vous preniez ici puisqu’il en est encore temps et que j’ai été assez heureuse pour raccommoder ce que vous aviez gâté.</s>
+            </p>
+            <p>
+              <s>Vous craignez de flétrir la fidélité que vous devez à votre amant, en vous prêtant à la moindre petite complaisance pour un autre ? </s>
+              <s>Ma foi, Madame, votre amour est bien romanesque ! </s>
+              <s>Et vous avez là des délicatesses bien hors de saison ! </s>
+              <s>Hé, où est la fille qui n’en ferait pas vingt fois autant pour éviter un moindre péril qui nous menace ? </s>
+              <s>Enfin, il faut passer par là ou par le ventre d’un affreux crocodile.</s>
+            </p>
+            <p>
+              <s>Hé bien, si nous ne pouvons pas sortir d’ici, le pis aller sera de prendre les magots qui veulent nous épouser.</s>
+            </p>
+            <p>
+              <s>Vous aimez mieux la mort que ce vilain monstre de Sagamo ? </s>
+              <s>Oh pour moi, je suis bien votre servante ! </s>
+              <s>Je veux vivre à quelque prix que ce soit je hais plus que le Diable le favori du Sagamo, mais je le prendrais plutôt que de me laisser gober par le Gougou !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II04" type="scene" n="4">
+          <head>SCÈNE IV. Argentine, Marinette, Le Sagamo.<listPerson type="configuration" xml:id="conf19"/></head>
+          <sp xml:id="II04-1" who="LESAGAMO">
+            <p>
+              <s>Ha, ha !</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-2" who="ARGENTINE">
+            <p>
+              <s>Ah !</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-3" who="LESAGAMO">
+            <p>
+              <s>Non me croyec si prochec !</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-4" who="MARINETTE">
+            <p>
+              <s>Pardon Seigneur !</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-5" who="LESAGAMO">
+            <p>
+              <s>Plaisantec laidronec pour m’apellec monstrec !</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-6" who="MARINETTE">
+            <p>
+              <s>Ce n’était que pour rire !</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-7" who="LESAGAMO">
+            <p>
+              <s>Aprendrec à parlec mijaurec !</s>
+            </p>
+            <p>
+              <s>Lutinec !</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-8" who="MARINETTE">
+            <p>
+              <s>Laissez-vous fléchir !</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-9" who="LESAGAMO">
+            <p>
+              <s>Durec, durec.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II05" type="scene" n="5">
+          <head>SCÈNE V. Le Sagamo, Argentine, Marinette, Deux Lutins.<listPerson type="configuration" xml:id="conf20"/></head>
+          <sp xml:id="II05-1" who="LESAGAMO">
+            <p>
+              <s>Entrainec carognec dans l’Îlec Noirec. </s>
+              <s>Fessec et tourmentec commec méritec !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II06" type="scene" n="6">
+          <head>SCÈNE VI. Léandre, Arlequin, Troupe de Lutins.<listPerson type="configuration" xml:id="conf21"/></head>
+          <sp xml:id="II06-1" who="ARLEQUIN">
+            <p>
+              <s>Eh ! </s>
+              <s>Messieurs les lutins, n’êtes-vous pas las de nous tourmenter ?</s>
+            </p>
+            <p>
+              <s>Assommez-nous plutôt tout d’un coup ! </s>
+              <s>Mais vous trahiriez la vengeance de votre chienne de maîtresse… </s>
+              <s>Ahi, ahi, ahi ! </s>
+              <s>Je n’en puis plus ! </s>
+              <s>J’étouffe ! </s>
+              <s>Finissez donc ! </s>
+              <s>Ahi, sono morto !</s>
+            </p>
+          </sp>
+          <sp xml:id="II06-2" who="UNLUTIN">
+            <p>
+              <s>Et Tourmentinic ? </s>
+            </p>
+            <p>
+              <s>Et Carabossoc ? </s>
+            </p>
+          </sp>
+          <sp xml:id="II06-3" who="LELUTIN">
+            <p>
+              <s>C’est une salope ! </s>
+            </p>
+          </sp>
+          <sp xml:id="II06-4" who="ARLEQUIN">
+            <p>
+              <s>À moi, mousquetaires, j’ai le nez cassé !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II07" type="scene" n="7">
+          <head>SCÈNE VII. Argentine, Marinette.<listPerson type="configuration" xml:id="conf22"/></head>
+          <sp xml:id="II07-1" who="MARINETTE">
+            <p>
+              <s>Quel horrible endroit ! </s>
+              <s>Quel bruit affreux vient d’annoncer notre arrivée en ces lieux funestes ! </s>
+              <s>Mais quoi, nos lutins nous ont quittés tout à coup ? </s>
+              <s>Pour quelle raison se sont-ils éloignés ? </s>
+            </p>
+            <p>
+              <s>Que vois-je ? </s>
+              <s>Mais non, c’est une illusion… </s>
+              <s>Arlequin !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II08" type="scene" n="8">
+          <head>SCÈNE VIII. Argentine, Marinette, Arlequin, Léandre.<listPerson type="configuration" xml:id="conf23"/></head>
+          <sp xml:id="II08-1" who="ARLEQUIN">
+            <p>
+              <s>Hoïmé ! </s>
+              <s>Des lutins femelles ! </s>
+              <s>C’est sans doute pour jouer de leur reste ! </s>
+            </p>
+          </sp>
+          <sp xml:id="II08-2" who="ARLEQUIN">
+            <p>
+              <s>Eh oui ! </s>
+              <s>Voyez-vous la malice de ce maudit lutin ? </s>
+              <s>Il a emprunté tous les traits de Marinette !</s>
+            </p>
+            <p>
+              <s>À d’autres, à d’autres !</s>
+            </p>
+            <p>
+              <s>Ne vous y fiez pas, Monsieur, c’est un diable qui a pris la figure de votre maîtresse !</s>
+            </p>
+            <p>
+              <s>Cela serait possible ?</s>
+            </p>
+            <p>
+              <s>Oui vraiment, c’est ma chère Marinette elle-même !</s>
+            </p>
+            <p>
+              <s>C’est donc pour la même raison que nous que l’on vous envoie ici ? </s>
+              <s>Quelle joie de te revoir mon bouchon !… </s>
+              <s>Mais je n’y pense pas ! </s>
+              <s>Je m’abandonne au plaisir de te retrouver et j’oublie dans quel endroit nous sommes. </s>
+              <s>Hélas ! </s>
+              <s>Nous allons souffrir bien davantage d’être tourmentés, et de voir en même temps tout ce que nous aimons dans les plus horribles peines !</s>
+            </p>
+            <p>
+              <s>Ahi ! </s>
+              <s>Ouf !</s>
+            </p>
+          </sp>
+          <sp xml:id="II08-3" who="ARLEQUIN">
+            <p>
+              <s>Les Lutins nous donnent un moment de relâche. </s>
+              <s>Ils sont sans doute allés dîner et reprendre de nouvelles forces pour nous harceler.</s>
+            </p>
+            <p>
+              <s>Ha, ha ! </s>
+              <s>Qu’entends-je ? </s>
+              <s>De la musique en ce lieu infernal ? </s>
+              <s>Qu’est ce que cela signifie ?</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II09" type="scene" n="9">
+          <head>SCÈNE IX. Les Précédents, Le Génie Beninguet.<listPerson type="configuration" xml:id="conf24"/></head>
+          <sp xml:id="II09-1" who="ARLEQUIN">
+            <p>
+              <s>Vivat, vivat ! C’est le génie Beninguet, la fleur de nos amis !</s>
+            </p>
+          </sp>
+          <sp xml:id="II09-2" who="LEGENIE">
+            <l n="19" xml:id="l19">Vous voyez Beninguet qui vient par sa présence</l>
+            <l n="20" xml:id="l20">D’écarter vos bourreaux. Il n’a que cet instant,</l>
+            <l n="21" xml:id="l21">Ne pouvant rien ici pour votre délivrance,</l>
+            <l n="22" xml:id="l22">Pour vous donner au moins cet avis important :</l>
+            <l n="23" xml:id="l23">Tourmentine à son doigt porte un anneau magique</l>
+            <l n="24" xml:id="l24">À qui les lutins sont soumis.</l>
+            <l n="25" xml:id="l25">Tachez de l’avoir mes amis,</l>
+            <l n="26" xml:id="l26">Et vous pourrez braver son pouvoir tyrannique !</l>
+          </sp>
+        </div2>
+        <div2 xml:id="II10" type="scene" n="10">
+          <head>SCÈNE X. Léandre, Argentine, Marinette, Arlequin.<listPerson type="configuration" xml:id="conf25"/></head>
+          <sp xml:id="II10-1" who="ARLEQUIN">
+            <p>
+              <s>En vous remerciant, Seigneur Beninguet ! </s>
+              <s>Diable ! </s>
+              <s>Voilà qui est bon ! </s>
+              <s>Je me dédis, ma foi, je vois bien que Beninguet est un bon enfant, et j’ai eu tort de médire de lui.</s>
+            </p>
+            <p>
+              <s>Comment faire pour l’avoir cet anneau ? </s>
+              <s>Hé, mais il faut faire en sorte de… </s>
+              <s>Ma foi, je n’en sais rien.</s>
+            </p>
+            <p>
+              <s>L’avis est bon ! </s>
+              <s>Mais l’exécution… </s>
+              <s>Tenez, c’est le grelot à attacher au cou du chat !</s>
+            </p>
+            <p>
+              <s>Oui cet avis-là aurait été excellent tantôt, et nous aurions pu… Cependant il me vient une idée… </s>
+            </p>
+            <p>
+              <s>Donnez-moi cette petite bague que vous avez là, </s>
+            </p>
+            <p>
+              <s>Et toi, Marinette, donne-moi cette jolie paire de gants qui t’était trop étroite, si tu l’as encore. </s>
+            </p>
+            <p>
+              <s>Laissez-moi faire à présent.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II11" type="scene" n="11">
+          <head>SCÈNE XI. Les Précédents, Lutins.<listPerson type="configuration" xml:id="conf26"/></head>
+          <sp xml:id="II11-1" who="ARLEQUIN">
+            <p>
+              <s>Doucement, doucement, messieurs les lutins ! </s>
+              <s>Suspendez pour un moment vos brutales occupations, et conduisez-moi à madame Tourmentine. </s>
+              <s>J’ai des choses de grandes conséquences à lui dire !</s>
+            </p>
+            <p>
+              <s>Sans adieu ! </s>
+              <s>Vous aurez bientôt de mes nouvelles !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II12" type="scene" n="12">
+          <head>SCÈNE XII. Tourmentine, Carabosse.<listPerson type="configuration" xml:id="conf27"/></head>
+          <sp xml:id="II12-1" who="TOURMENTINE">
+            <p>
+              <s>Infortunatic Tourmentinic ! </s>
+              <s>Lutinic raportic que toutic tourmentic non fléchic l’ingratic !</s>
+            </p>
+          </sp>
+          <sp xml:id="II12-2" who="CARABOSSE">
+            <p>
+              <s>Plus souffroc, plus maudissoc.</s>
+            </p>
+          </sp>
+          <sp xml:id="II12-3" who="TOURMENTINE">
+            <p>
+              <s>Fiertic triomphic ! </s>
+              <s>Non d’avantagic m’outragic ! </s>
+              <s>Tranchic jouric à misérablic !</s>
+            </p>
+          </sp>
+          <sp xml:id="II12-4" who="CARABOSSE">
+            <p>
+              <s>Massacroc, massacroc !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II13" type="scene" n="13">
+          <head>SCÈNE XIII. Les Précédents, Arlequin, qu’emportent les deux lutins.<listPerson type="configuration" xml:id="conf28"/></head>
+          <sp xml:id="II13-1" who="TOURMENTINE">
+            <p>
+              <s>Que vois-je ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II13-2" who="ARLEQUIN">
+            <p>
+              <s>Il y a bien des nouvelles, Madame Tourmentinic, mon maître vous aime à cette heure à la folie.</s>
+            </p>
+          </sp>
+          <sp xml:id="II13-3" who="TOURMENTINE">
+            <p>
+              <s>Léandric m’aimic ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II13-4" who="ARLEQUIN">
+            <p>
+              <s>Oui, charmant tison du feu de l’amour ! </s>
+              <s>Léandre ne soupire plus qu’après le bonheur de vous posséder.</s>
+            </p>
+          </sp>
+          <sp xml:id="II13-5" who="CARABOSSE">
+            <p>
+              <s>Et Arlequinoc pour Carabossoc ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II13-6" who="ARLEQUIN">
+            <p>
+              <s>Oh, c’est encore bien pis !</s>
+            </p>
+          </sp>
+          <sp xml:id="II13-7" who="TOURMENTINE">
+            <p>
+              <s>Me maudissic et m’aimic ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II13-8" who="ARLEQUIN">
+            <p>
+              <s>Cela est vrai. </s>
+              <s>Il vous a maudit d’abord. </s>
+              <s>« La chienne, s’écriait-il, la masque, la carogne, la bourrelle ! </s>
+              <s>Que le Diable lui puisse tordre le cou ! » </s>
+              <s>Mais à force d’être tourmenté il a fait des réflexions.</s>
+            </p>
+          </sp>
+          <sp xml:id="II13-9" who="TOURMENTINE">
+            <p>
+              <s>Entendic non aimic mais voulic s’épargnic peinic.</s>
+            </p>
+          </sp>
+          <sp xml:id="II13-10" who="ARLEQUIN">
+            <p>
+              <s>Oh, que vous n’y êtes pas ! </s>
+              <s>Il est bien à quelques peines près, lui. </s>
+              <s>Écoutez, écoutez, vous allez, allez-vous voir qu’il a le coeur plus délicat que vous ne pensez. </s>
+              <s>Il a donc fait des réflexions et a dit : </s>
+              <s>« Comment Diable ! </s>
+              <s>Je m’imaginais que l’amour que j’avais donné à la princesse Tourmentine n’était qu’un feu de paille, qui s’éteindrait dès le lendemain de notre mariage. </s>
+              <s>Cette crainte m’empêchait de l’écouter. </s>
+              <s>Mais, ma foi, ceci devient sérieux ! </s>
+              <s>Il me paraît que son amour est de bonne trempe. </s>
+              <s>Car comme on dit qui aime bien châtie bien, si j’en juge, ajouta-t-il, par les tourments qu’elle m’ordonne ici, il faut que cette fille-là m’aime à la rage ! » </s>
+              <s>Enfin il s’est approché de moi et m’a tenu ce discours : </s>
+              <s>« Ah ! Mon pauvre Arlequin ! </s>
+              <s>Tu vois ton maître bien changé ! </s>
+              <s>— Oui vraiment, Monsieur, lui ai-je répondu, vous êtes bien changé… Les coups de fouet vous ont… </s>
+              <s>— Tu ne m’entends pas, a-t-il interrompu, les vigoureuses preuves du violent amour de Tourmentine me percent le coeur, je n’y puis plus tenir, ni vivre loin d’elle. </s>
+              <s>Cours vite, mon ami, lui apprendre ma peine, et son triomphe ! »</s>
+            </p>
+          </sp>
+          <sp xml:id="II13-11" who="TOURMENTINE">
+            <p>
+              <s>Lutinic allic ramenic Léandric.</s>
+            </p>
+          </sp>
+          <sp xml:id="II13-12" who="ARLEQUIN">
+            <p>
+              <s>Attendez, attendez, messieurs les lutins.</s>
+            </p>
+            <p>
+              <s>Il y a aussi avec nous deux femelles qui disent qu’elles sont prêtes d’épouser le Samago, le Gougou et toute la cour samagotique !</s>
+            </p>
+          </sp>
+          <sp xml:id="II13-13" who="TOURMENTINE">
+            <p>
+              <s>Bonic, bonic, patric en seric transportic de plaisic !</s>
+            </p>
+            <p>
+              <s>Raportic Léandric, Argentic, et Marinetic.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II14" type="scene" n="14">
+          <head>SCÈNE XIV. Tourmentine, Carabosse, Arlequin.<listPerson type="configuration" xml:id="conf29"/></head>
+          <sp xml:id="II14-1" who="ARLEQUIN">
+            <p>
+              <s>Pour vous confirmer ce que je viens de vous dire : voilà, Madame, une petite bague que mon maître vous prie de vouloir bien porter pour l’amour de lui.</s>
+            </p>
+            <p>
+              <s>Il m’a aussi chargé de vous présenter de sa part cette petite paire de gants blancs, dont une dame de notre pays lui a fait présent. </s>
+              <s>Excusez, Madame, si ces petites bagatelles ne sont pas dignes de vos mérites, mais le pauvre garçon vous donne tout ce qu’il a. </s>
+              <s>Il ne peut pas mieux faire dans la situation où il est.</s>
+            </p>
+          </sp>
+          <sp xml:id="II14-2" who="TOURMENTINE">
+            <p>
+              <s>Obligic, obligic !</s>
+            </p>
+          </sp>
+          <sp xml:id="II14-3" who="ARLEQUIN">
+            <p>
+              <s>Ha, ha ! </s>
+              <s>Madame la diablesse ! </s>
+              <s>Nous ne vous craignons plus à présent !</s>
+            </p>
+          </sp>
+          <sp xml:id="II14-4" who="TOURMENTINE">
+            <p>
+              <s>Ah, fourbic, rendic Diamantic.</s>
+            </p>
+          </sp>
+          <sp xml:id="II14-5" who="ARLEQUIN">
+            <p>
+              <s>Restez là.</s>
+            </p>
+          </sp>
+          <sp xml:id="II14-6" who="TOURMENTINE">
+            <p>
+              <s>Secouric lutinic !</s>
+            </p>
+          </sp>
+          <sp xml:id="II14-7" who="CARABOSSE">
+            <p>
+              <s>Sagamo ! </s>
+              <s>Gougou !</s>
+            </p>
+          </sp>
+          <sp xml:id="II14-8" who="ARLEQUIN">
+            <p>
+              <s>Qu’ils viennent, je les attends de pied ferme !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II15" type="scene" n="15">
+          <head>SCÈNE XV. Les Précédents, Lutins, amenant Argentine, Léandre, Marinette.<listPerson type="configuration" xml:id="conf30"/></head>
+          <sp xml:id="II15-1" who="TOURMENTINE">
+            <p>
+              <s>Reportic coquinic !</s>
+            </p>
+          </sp>
+          <sp xml:id="II15-2" who="ARLEQUIN">
+            <p>
+              <s>Tout beau, lutins. </s>
+            </p>
+            <p>
+              <s>Apportez-moi ici ces trois personnes ! </s>
+            </p>
+            <p>
+              <s>Nous avons attrapé l’anneau ! </s>
+              <s>L’anneau mes amis voilà nos gens bien camus, comme vous voyez !</s>
+            </p>
+          </sp>
+          <sp xml:id="II15-3" who="TOURMENTINE">
+            <p>
+              <s>Qui a découvric secretic !</s>
+            </p>
+          </sp>
+          <sp xml:id="II15-4" who="ARGENTINE">
+            <p>
+              <s>Ahi, ahi !</s>
+            </p>
+          </sp>
+          <sp xml:id="II15-5" who="ARLEQUIN">
+            <p>
+              <s>Respectez l’anneau, misérables !</s>
+            </p>
+            <p>
+              <s>Vous n’avez qu’à y revenir marauds !</s>
+            </p>
+          </sp>
+          <sp xml:id="II15-6" who="TOURMENTINE">
+            <p>
+              <s>Etranglic, étranglic scélératic !</s>
+            </p>
+          </sp>
+          <sp xml:id="II15-7" who="ARLEQUIN">
+            <p>
+              <s>Tirez, tirez, charognes ! </s>
+              <s>Pliez sous l’anneau !</s>
+            </p>
+            <p>
+              <s>Vous êtes bien hardie, madame la gaupe !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II16" type="scene" n="16">
+          <head>SCÈNE DERNIÈRE. Les Précédents, Le Sagamo, furieux, le sabre à la main.<listPerson type="configuration" xml:id="conf31"/></head>
+          <sp xml:id="II16-1" who="LESAGAMO">
+            <p>
+              <s>Tuec, tuec ! </s>
+              <s>Massacrec friponec !</s>
+            </p>
+          </sp>
+          <sp xml:id="II16-2" who="ARGENTINE">
+            <p>
+              <s>Ah !</s>
+            </p>
+          </sp>
+          <sp xml:id="II16-3" who="ARLEQUIN">
+            <p>
+              <s>Laissez-le venir, je lui rendrai bon compte !</s>
+            </p>
+            <p>
+              <s>De par l’anneau, demeure là !</s>
+            </p>
+            <p>
+              <s>Que diable est-ce là ? </s>
+              <s>Voilà un drôle qui n’est pas à une tête près à ce qu’il me paraît ! </s>
+              <s>N’importe, essayons si nous ne pourrons point détruire toute cette maudite engeance. </s>
+              <s>Je ne risque rien avec mon anneau.</s>
+            </p>
+          </sp>
+          <sp xml:id="II16-4" who="LESAGAMO">
+            <p>
+              <s>Pardonnec, pardonnec !</s>
+            </p>
+          </sp>
+          <sp xml:id="II16-5" who="ARLEQUIN">
+            <p>
+              <s>Relevez-vous, je suis bon prince, je vous pardonne mais à condition, premièrement, que vous brûlerez devant nous votre vilain Gougou.</s>
+            </p>
+          </sp>
+          <sp xml:id="II16-6" who="LESAGAMO">
+            <p>
+              <s>Oh !</s>
+            </p>
+          </sp>
+          <sp xml:id="II16-7" who="ARLEQUIN">
+            <p>
+              <s>Ne me répliquez pas seulement ! </s>
+              <s>Secondement, que vous nous donnerez le meilleur de vos vaisseaux avec force provision pour nous en retourner.</s>
+            </p>
+          </sp>
+          <sp xml:id="II16-8" who="LESAGAMO">
+            <p>
+              <s>Serec maîtrec !</s>
+            </p>
+          </sp>
+          <sp xml:id="II16-9" who="ARLEQUIN">
+            <p>
+              <s>Troisièmement que l’anneau nous restera en propre pour notre sûreté, et pour venir ici quand bon nous semblera pour mettre ordre à votre conduite.</s>
+            </p>
+          </sp>
+          <sp xml:id="II16-10" who="LESAGAMO">
+            <p>
+              <s>Accordec.</s>
+            </p>
+          </sp>
+          <sp xml:id="II16-11" who="ARLEQUIN">
+            <p>
+              <s>Et enfin que ces cadets de lutins qui mériteraient bien d’être remboursés des coups de fouets qu’ils nous ont appliqués en seront quittes en monnaie de singe, c’est-à-dire qu’ils feront tout à l’heure un ballet pour nous divertir ainsi que ces dames qui sont nos maîtresses.</s>
+            </p>
+          </sp>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>

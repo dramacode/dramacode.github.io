@@ -1,0 +1,1251 @@
+
+
+**** *book_ *id_I01 *act_I *date_1799
+
+-*who_theodore
+
+
+Composons notre écriteau,
+Pour mettre à la porte,
+Dans la vie, un écriteau
+Très souvent importe.
+Que de gens, sans écriteau,
+Frappent à la porte,
+Qui, lorsqu'on voit l'écriteau,
+Sont mis à la porte,
+Ô gué !
+Sont mis à la porte.
+
+Un rien, parfois, des grandeurs
+Vous place à la porte.
+On met, dans les grands malheurs,
+La clef sous la porte.
+Moi, le diable, dieu merci!
+N'est plus à ma porte;
+Car Roselte m'ouvre ici
+Son cœur et sa porte,
+Ô gué !
+Son cœur et sa porte.
+Dubois ?
+
+-*who_dubois
+Que me voulez-vous ?
+
+-*who_theodore
+Fais l'écriteau.
+
+-*who_dubois
+D'appartement à louer ?
+
+-*who_theodore
+Sans doute.
+
+-*who_dubois
+Comment faut-il le faire ?
+
+-*who_theodore
+Eh !
+Mais... comme tous les écriteaux.
+
+-*who_dubois
+Le style laconique ?
+
+-*who_theodore
+Chose rare, aujourd'hui !...
+Il serait bien à souhaiter que la mode de parler peu s'établit.
+Beaucoup de choses, peu de mots,
+Pour tous les bavards, quel martyre !
+On n'entendrait plus tant de sots,
+Beaucoup parler pour ne rien dire :
+On raccourcirait maints journaux,
+On supprimerait bien des plumes :
+Nos faiseurs de romans nouveaux
+N'écriraient plus tant de volumes.
+
+-*who_dubois
+Revenons à l'écriteau.
+
+-*who_theodore
+Je le veux bien.
+Tiens : le voici.
+
+-*who_dubois
+Des vers ?
+
+-*who_theodore
+C'est une idée qui m'est venue tout-à-l'heure, et j'ai mis l'écriteau en couplet.
+
+-*who_dubois
+Pourquoi pas ?
+Il y a si longtemps qu'on les fait en prose.
+
+-*who_theodore
+Écoute :
+Au premier, maison fort jolie,
+Est un très bel appartement ;
+Papiers frais, glaces, boiserie ;
+Cinq pièces sont sur le devant ;
+Cave et caveau, grande écurie,
+Remise et superbe grenier :
+Louer le tout, ou bien partie :
+On peut s'adresser au portier.
+
+-*who_dubois
+Au portier...
+C'est tout ce qu'il faut pour un impromptu.
+
+-*who_theodore
+Ton écriture est-elle lisible ?
+
+-*who_dubois
+Je vais faire copier cela en gros caractères, par Brouillon, l'écrivain du coin.
+
+-*who_theodore
+Va vite...
+Ah !
+Écoute : qu'on le fasse attacher promptement ; car tu sais qu'il peut me procurer la visite de ma chère Rosette et de son père.
+
+-*who_dubois
+Oui : ils cherchent un appartement ; mais s'il vient d'autres personnes ?
+
+-*who_theodore
+Nous les en dégoûterous.
+
+-*who_dubois
+À propos, j'ai oublié....
+
+-*who_theodore
+Quoi ?
+
+-*who_dubois
+Une lettre pour vous.
+
+-*who_theodore
+De qui ?
+
+-*who_dubois
+De la charmante Rosette.
+
+-*who_theodore
+Donne.
+
+-*who_dubois
+Où est-elle donc ?...
+Ah !
+La voici.
+Elle est depuis hier dans ma poche.
+
+**** *book_ *id_I02 *act_I *date_1799
+
+-*who_theodore
+« J'ai déterminé mon père à voir votre appartement ; mais Dumont, votre rival, ayant appris que mon père veut quitter sa maison, l'importune pour lui faire accepter la sienne. »J'espère l'en empêcher...
+Nous serons chez vous, demain, de bonne heure.
+Ce coquin de Dumont !...
+Mais Rosette me secondera.
+Elle est si bonne! si sensible!
+Rosette fuit la médisance;
+Ainsi, je ne médis jamais:
+Elle aime la reconnoissance,
+Et je rends bienfaits pour bienfaits.
+Heureux qui, placant sa tendresse
+Sur le plus estimable objet,
+Pour devenir moins imparfait,
+Prend les vertus de sa maîtresse.
+
+**** *book_ *id_I03 *act_I *date_1799
+
+-*who_theodore
+Eh bien, l'écriteau ?
+
+-*who_dubois
+Je l'ai suspendu à la fenêtre de la rue ; mais le vent...
+
+-*who_theodore
+Eh !
+Que fait le vent ?
+
+-*who_dubois
+Le vent le tourne à tout moment,
+Par devant derrière :
+Quoiqu'il soit en vers, cependant
+L'étoffe est légère :
+Puis, sur un air vous l'avez fait;
+L'air est vif, et peut, en effet,
+Sans respect, parterre
+Jeter le couplet.
+
+-*who_theodore
+Rattache-le solidement...
+Mais on frappe ; va voir qui c'est.
+
+**** *book_ *id_I04 *act_I *date_1799
+
+-*who_theodore
+Si c'était ma bonne amie et son père !...
+Si mon amour plaisait à celui-ci !...
+Espoir délicieux !...
+J'entends Rosette...
+Oh !
+Oui, c'est bien elle.
+
+**** *book_ *id_I05 *act_I *date_1799
+
+-*who_theodore
+C'est la première fois que j'ai l'honneur de vous recevoir chez moi, et je ne saurais trop rendre grâce au hasard qui vous y a amené.
+
+-*who_vincent
+Rien de plus honnête.
+C'est ma fille qui m'a engagé à venir voir votre appartement qui est, dit-on, à louer.
+
+-*who_dubois
+De ce matin.
+
+-*who_theodore
+Voulez-vous me permettre de vous le montrer?
+
+-*who_vincent
+En entrant, j'en ai vu une partie...
+Il est assez bien.
+
+-*who_theodore
+Merci, charmante Rosette.
+
+-*who_rosette
+Paix, on pourrait nous entendre.
+
+-*who_theodore
+Un mot...
+
+-*who_rosette
+Mon père est disposé en votre faveur.
+
+-*who_vincent
+Ah !
+Ah !
+Des tableaux !
+
+-*who_dubois
+C'est mon maître qui les a faits.
+
+-*who_vincent
+Je ne lui connaissais pas ce talent-là.
+
+-*who_theodore
+Il sait donc notre amour ?
+
+-*who_rosette
+Il s'en doute.
+
+-*who_vincent
+Ah !
+En voici un qui me paraît sort agréable.
+
+-*who_dubois
+Il représente deux amants.
+
+-*who_vincent
+Scène familière...
+Eh !
+Il est fait avec chaleur.
+
+-*who_vincent
+La jeune fille a l'air tendre...
+
+-*who_dubois
+Le jeune homme, satisfait.
+
+-*who_vincent
+Comme ils ont l'air de s'entendre !
+
+-*who_dubois
+Ils s'entendent en effet.
+
+-*who_theodore
+M'acceptera-t-il pour gendre ?
+Je dois craindre...
+
+-*who_vincent
+      Point du tout.
+Il est vraiment de mon goût.
+Quel est celui-ci ?
+Que vois-je ?
+Le portrait de ma fille !
+
+-*who_rosette
+Quoi !
+Théodore, vous avez fait mon portrait ?
+
+-*who_dubois
+Jolie tête d'étude....
+
+-*who_theodore
+Je l'ai fait de mémoire.
+J'ai, sur la toile vivante,
+Voulu peindre la candeur,
+Et cette grâce décente
+Qu'autorise la pudeur.
+J'allais, faute de modèle,
+Abandonner mon sujet ;
+Mais j'ai vu mademoiselle,
+Et j'ai fini le portrait.
+
+-*who_vincent
+Et il est fort ressemblant.
+Saviez-vous, ma fille, que votre portrait fût ici?
+
+-*who_rosette
+Est-ce, mon père, une injure
+Que de tracer mon portrait ?
+J'ignorais, je vous le jure,
+Que ce tableau-là fût fait.
+J'avouerai que cet hommage,
+Sans m'étonner, m'est flatteur ;
+Je savais que mon image
+Était peinte dans son cœur.
+
+-*who_vincent
+Je ne m'étonne plus que vous m'ayiez si fort pressé de venir voir cet appartement.
+
+-*who_theodore
+Veuillez ne rien voir, dans cette démarche, qui mérite votre colère.
+Cette maison m'appartient, et je m'estimerai trop heureux, si vous daignez l'habiter.
+
+-*who_vincent
+Ma fille a des secrets pour moi !
+
+-*who_rosette
+Indulgence, mon père.
+
+-*who_vincent
+Ma chère amie, je ne veux que te rendre heureuse ; mais je méritais ta confiance.
+
+-*who_rosette
+Vous l'aurez désormais toute entière.
+
+-*who_vincent
+Laissons cela.
+Venez, avec moi, voir d'autres appartemens.
+
+-*who_theodore
+Vous dédaignez donc celui-ci ?
+
+-*who_vincent
+Non ; mais vous me permettrez le choix.
+J'ai promis à Dumont, d'aller voir sa maison...
+Si elle me convient moins que la vôtre, vous aurez la préférence...
+Je veux bien même vous promettre que, dans une heure, je viendrai...
+Nous viendrons vous donner répouse.
+
+-*who_theodore
+Ah !
+J'espère qu'elle me sera favorable.
+
+-*who_vincent
+Je ne vous défends pas l'espérance.
+
+**** *book_ *id_I06 *act_I *date_1799
+
+-*who_theodore
+Eh bien, Dubois, que dis-tu du papa Vincent ?
+
+-*who_dubois
+Brave homme.
+
+-*who_theodore
+De sa fille ?
+
+-*who_dubois
+Charmante.
+
+-*who_theodore
+Et de mes affaires ?
+
+-*who_dubois
+Excellentes.
+
+-*who_theodore
+J'en rends grace à mon étoile.
+
+-*who_dubois
+Et moi, à l'appartement à louer.
+
+-*who_theodore
+Tu peux avoir raison.
+
+-*who_dubois
+Cela m'arrive tous les jours.
+
+-*who_theodore
+Je vais sortir : si, pendant mon absence, qui ne sera pas longue, l'écriteau t'amène des originaux, amuse-t-en, mais ne termine pas avec eux.
+
+-*who_dubois
+Soyez tranquille.
+
+**** *book_ *id_I07 *act_I *date_1799
+
+-*who_dubois
+Allons, mon ami Dubois, vous voilà le maître de la maison.
+Peste !
+Vous êtes un homme de conséquence !...
+Allons, plus d'air de valet...
+La démarche élégante...
+Le port noble...
+La métamorphose d'un enrichi.
+Tàchons d'avoir de l'aisance
+Et le maintien du bon ton;
+Représentons d'importance
+Le maître de la maison.
+Tel, qui maintenant est maître,
+Quoiqu'il servît autrefois,
+Ne le sera pas, peut-être,
+Bien plus longtemps que Dubois.
+J'entends du bruit...
+On vient...
+Examinons.
+
+**** *book_ *id_I08 *act_I *date_1799
+
+-*who_sonore
+C'est ici l'appartement à louer, et vous êtes...
+
+-*who_dubois
+Serviteur.
+
+-*who_sonore
+Je voudrais, avant de voir l'appartement, savoir s'il y a une piece où je puisse recevoir mes abonnés.
+
+-*who_dubois
+Comment, vos abonnés ?
+
+-*who_sonore
+Je m'appelle Sonore.
+
+-*who_dubois
+Musicien.
+
+-*who_sonore
+Vous l'avez deviné.
+J'ai composé une société d'artistes et d'amateurs, et nous donnons des concerts.
+Nous accompagnons les morceaux
+Que maints virtuoses nous chantent :
+Nous faisons quatuors fort beaux,
+Où quatre femmes nous enchantent.
+Plaire de nos soins est le fruit,
+Et, dans plus d'une symphonie,
+Quoiqu'on y fasse un peu de bruit,
+Il règne certaine harmonie.
+
+-*who_dubois
+Ah !
+Vous êtes toujours d'accord.
+
+-*who_sonore
+Presque toujours.
+Eh bien !
+Trouverai-je ici un local favorable ?
+
+-*who_dubois
+Non, la voix y serait étouffée.
+
+-*who_sonore
+C'est dommage.
+
+-*who_dubois
+Pourquoi voulez-vous donc changer de local ?
+
+-*who_sonore
+La nouveauté, mon cher, la nouveauté !
+On a tant travaillé pour plaire au public, que les moyens sont à-peu-près épuisés ; on est forcé de lui offrir toujours les mêmes choses, mais sous des formes nouvelles.
+Le public, chez l'homme du jour,
+Sait, un moment, se plaire.
+Puis, d'autres auront, à leur tour,
+Sa faveur passagère :
+Volage en ses moindres désirs,
+L'un par l'autre il remplace,
+Et croyant changer de plaisirs,
+Ne change que de place.
+
+-*who_dubois
+Il en est de même des modes.
+On vit employer, tour-à-tour,
+Les objets les plus rares ;
+On imagina, chaque jour,
+Mille modes bizarres.
+Comme l'on n'invente plus rien,
+Dans un cas si critique,
+On a pris le meilleur moyen ;
+On rajeunit l'antique.
+
+-*who_sonore
+C'est cela même.
+Tout se renouvelle, tout change, tout se détruit.
+Par exemple, j'étais premier organiste de la paroisse de Surenne.
+
+-*who_dubois
+Et la révolution vous a désorganisé ?
+
+-*who_sonore
+Tout-à-fait.
+Mon orgue fut détruite, et il ne m'en est resté que le soufflet.
+Quand je vis qu'il n'y avait plus rien à faire de ce côté, je choisis un autre instrument.
+Choisir parmi les instruments
+N'était pas chose aisée :
+On ne voulait plus de serpents ;
+La vielle était usée.
+Le haut-bois si doux
+Était aux époux ;
+Il restait l'épinette...
+Enfin, aux abois,
+Je fixai mon choix,
+Et pris la serinette.
+En peu de temps, je devins d'une jolie force d'amateur...
+Mais on encourage si peu les arts !
+On se moqua de ma serinette.
+
+-*who_dubois
+Et quel parti prîtes-vous ?
+
+-*who_sonore
+Je me jetai, à-corps-perdu, dans la carrière dramatique.
+Je voulus faire la musique d'un opéra...
+Je cherchai un poète, et fus longtemps à en trouver.
+
+-*who_dubois
+Ils sont si rares !
+
+-*who_sonore
+On m'adressa enfin à Monsieur Barbaro, rue des Mauvaises Paroles, numéro cent-neuf.
+Il avait une vingtaine de poèmes tout faits, et j'en pris un au hasard.
+
+-*who_dubois
+C'était peut-être le plus sûr.
+
+-*who_sonore
+Je fis une musique délicieuse, étourdissante, et, après bien des peines, nous fûmes joués.
+
+-*who_dubois
+Eh bien ?
+
+-*who_sonore
+Le poème fit la culbute,
+Je l'avais prédit à l'auteur,
+Mais le poète, dans sa chute,
+Entraîna le compositeur.
+Las, avec ces moyens frivoles,
+De faire un opéra commun,
+Pour ne plus craindre les paroles,
+Sans paroles j'en vais faire un.
+
+-*who_dubois
+Cela n'est pas nouveau.
+
+-*who_sonore
+J'en conviens ; mais j'intéresserai par le charme de la pantomime, le jeu muet des acteurs, les gestes qui remplaceront les paroles : on y entendra des éclats de voix, des points d'orgue, des roulades...
+
+-*who_dubois
+Je vois que ce sera tout chant.
+
+-*who_sonore
+Et puis, que d'avantages m'offre mon procédé !
+J'évite une froide harangue;
+J'évite des mots mal sonnants ;
+J'évite les fautes de langue,
+Rimes bâtardes, contresens.
+Rival, amant, père, oncle, nièce ;
+Tout, en chantant, s'arrangera.
+Nul ne parlera dans la pièce ;
+Mais de la pièce on parlera.
+
+-*who_dubois
+Votre opéra ne dira pas grand chose ; cependant, à cause de l'originalité, il pourra avoir du succès.
+
+-*who_sonore
+Grand merci de la prophétie.
+Allons, puisque je ne trouve pas ici un local favorable, je m'en vas.
+Il me vient une idée : je vais faire construire une salle de concert par un entrepreneur de mes amis : je suis sûr que ça réussira, parce que la musique est nécessaire à l'homme ; partout l'on chante, et chanter est une occupation universelle.
+Un amant chante sa victoire ;
+Un auteur chante ses succès :
+Nos guerriers, aux champs de la gloire,
+Vont en chantant des airs français.
+On chante dans la parodie,
+Et nos travers, et nos défauts :
+Plus d'un personnage au cœur faux
+Sait chanter la palinodie.
+
+**** *book_ *id_I09 *act_I *date_1799
+
+-*who_dubois
+En voilà déja un d'éconduit, et notre appartement est encore à nous...
+Mon maître ne va pas tarder.
+Ah !
+Justement le voici.
+
+**** *book_ *id_I10 *act_I *date_1799
+
+-*who_theodore
+Mon cher Dubois, je suis enchanté !
+Devinerais-tu d'où je viens?
+
+-*who_dubois
+Si vous me le disiez.
+
+-*who_theodore
+De chez Dumont, mon rival.
+Tu sais qu'il voulait, comme moi, donner son appartement au père Vincent pour épouser sa fille...
+Comme moi, il avait mis un écriteau.
+
+-*who_dubois
+En vers ?
+
+-*who_theodore
+Non, en assez mauvaise prose.
+Il ne me connait pas, je monte : il me fait voir chaque pièce...
+Tout me convient, tout est délicieux.
+Mon homme me propose alors son prix, prix exhorbitant...
+Je le trouve raisonnable ; j'arrête l'appartement, je donne des arrhes, et me sauve, de peur d'y rencontrer Rosette et son père.
+
+-*who_dubois
+Et, quand ils iront chez Dumont, et qu'ils trouveront l'appartement loué, le père sera furieux...
+
+-*who_theodore
+Et la fille me devinera...
+
+-*who_dubois
+Et, de dépit, il viendra louer celui-ci.
+
+-*who_theodore
+Et me donner la main de Rosette...
+
+-*who_dubois
+C'est fort bien : mais, puisque vous avez loué chez Dumont, vous irez y loger ?
+
+-*who_theodore
+Non pas que je sache.
+
+-*who_dubois
+Au moins, vous lui paierez un terme ?
+
+-*who_theodore
+Oh !
+Bien volontiers.
+L'or, que d'une ardeur inquiète,
+On voit recherché parmi nous,
+Vaut-il un regard de Rosette,
+Et l'espoir d'être son époux ?
+Son époux !... Ce mot-là renferme
+Ce qui peut, seul, plaire à mon cœur ;
+Et je payerais plus d'un terme,
+Pour être au terme du bonheur.
+Dubois, laisse-moi seul un moment.
+
+-*who_dubois
+Voici une visite.
+
+**** *book_ *id_I11 *act_I *date_1799
+
+-*who_lactrice
+Cet appartement me convient assez...
+Il est fort bien...
+Je vous souhaite le bonjour...
+Vous dites donc qu'il y a cinq pièces ?
+
+-*who_theodore
+Oui, tout autant.
+
+-*who_lactrice
+Toutes décorées, arrangées ?
+Pas de dépense à faire ?
+Chambre à coucher élégante ?
+Des glaces ?
+Ah !
+Des glaces surtout.
+
+-*who_theodore
+Vous en trouverez partout, et elles ne réfléchiront jamais un visage plus agréable.
+
+-*who_lactrice
+Il est galant.
+Et quel est le prix ?...
+Bien cher n'est-ce pas ?...
+À propos, y a-t-il un boudoir ?...
+Oh !
+C'est une chose essentielle.
+Joli boudoir qu'avec l'amour
+A formé la main du mystère,
+Où l'on peut, parfois, dans le jour,
+Bouder, quand on n'a rien à faire ;
+Où, dans un discret demi-jour,
+En l'absence de ce qu'on aime,
+On peut penser à son retour,
+Et rêver sa présence même.
+
+-*who_theodore
+Je crois qu'on peut s'en passer très souvent.
+Pourquoi désirer un boudoir ?
+Bouder est chose si commune !
+On boude devant son miroir ;
+On boude contre la fortune.
+Lise boude un mari grondeur ;
+On boude une femme légère,
+Et le public, le moins boudeur,
+Boude un auteur, s'il ne sait plaire.
+D'ailleurs, je l'avoue à regret ; il n'y en a pas.
+
+-*who_lactrice
+Ô ciel !
+Que me dites-vous ?
+Allons, il faut renoncer à l'appartement.
+
+-*who_theodore
+Quoi !
+Sitôt ?
+
+-*who_lactrice
+Point de boudoir !
+Et puis, il faudroit que je pusse m'installer ici sur-le-champ....
+Quand quitterez-vous ce logis ?
+
+-*who_theodore
+Nous prendrions ensemble des arrangements : cependant je ne le quitterais pas tout-à-fait.
+
+-*who_lactrice
+Comment ?
+
+-*who_theodore
+Je me ressouviendrais sans cesse
+Du lieu que j'aurais habité;
+Qui, de sa nouvelle maîtresse,
+Chaque jour verrait la beauté;
+Et de regrets l'âme oppressée,
+Pour jouir d'un bonheur si doux,
+J'y rentrerais par la pensée,
+Et l'habiterais avec vous.
+
+-*who_lactrice
+Il a de l'esprit.
+Sérieusement, vous reviendriez ici invisiblement ?
+Quoi ! Ce ne serait qu'en idée
+Que vous retourneriez céans ?
+Tant pis ! Car je suis excédée
+De voir toujours des revenants.
+Puis, jouer un tel personnage !
+En vous voyant, sans contredit,
+Auprès d'une femme, je gage
+Que vous valez mieux qu'un esprit.
+
+-*who_theodore
+J'en ai, cependant bien peu.
+
+-*who_lactrice
+Un calembour ?
+
+-*who_theodore
+Grâce, grâce pour lui.
+
+-*who_lactrice
+J'aime assez un calembour, lorsqu'il est sans prétention, et qu'il se borne à accompagner ou à faire naître la gaîté.
+Fils du moment, né parmi les saillies,
+Dans son équivoque talent,
+On lui permet de dire des folies:
+Comment censurer un enfant ?
+Jouer est chose si commune !
+Partout, on a joué les sots ;
+Beaucoup ont joué leur fortune :
+On peut bien jouer sur les mots.
+Mais il est bientôt midi, et je vais à la répétition.
+
+-*who_theodore
+Jouez-vous la comédie ?
+
+-*who_lactrice
+Non, je chante daus l'opéra.
+
+-*who_theodore
+Êtes-vous musicienne ?
+
+-*who_lactrice
+Un peu.
+
+-*who_theodore
+Si je ne craignais pas d'abuser de vos moments, je vous prierais de chanter avec moi un duo de la Cosa rara, que j'aime infiniment.
+
+-*who_lactrice
+Je ne me fais jamais prier.
+
+-*who_lactrice
+Pour embellir la vie...
+
+-*who_theodore
+Aimons, ma tendre amie.
+
+-*who_lactrice
+Jour de mélancolie
+
+-*who_theodore
+Vaut-il jour de folie?
+
+-*who_lactrice
+Un jour, le bonheur...
+
+-*who_theodore
+      Cesse :
+
+-*who_lactrice
+On voit fuir...
+
+-*who_theodore
+      Sa jeunesse ;
+
+-*who_lactrice
+Dans L'ennui...
+
+-*who_theodore
+      Qui nous presse,
+
+-*who_lactrice
+On regrette...
+
+-*who_theodore
+      L'ivresse.
+
+-*who_ensemble
+Plus de retard frivole,
+Profitons des beaux jours;
+Hâtons-nous, car le tems vole,
+Vole avec nos amours.
+
+-*who_theodore
+Sens mon cœur qui palpite !
+
+-*who_lactrice
+Sens mon cœur qui palpite !
+
+-*who_theodore
+Sous ma main il s'agite !
+
+-*who_lactrice
+Sous ma main il s'agite !
+
+-*who_theodore
+Au printemps de la...
+
+-*who_lactrice
+      Vie,
+
+-*who_theodore
+Près de sa douce...
+
+-*who_lactrice
+      Amie,
+
+-*who_theodore
+La volupté nous...
+
+-*who_lactrice
+      Crie,
+
+-*who_theodore
+D'une voix...
+
+-*who_lactrice
+      Attendrie :
+
+-*who_ensemble
+Plus de retard frivole,
+Profitez des beaux jours :
+Hâtez-vous; car le temps vole,
+Vole avec vos amours.
+
+-*who_theodore
+Dans la pièce où vous jouez ce soir, il y a des ariettes sans doute ?
+
+-*who_lactrice
+Et vous voulez que j'en chante une ?
+
+-*who_theodore
+Vous me devinez toujours.
+
+-*who_lactrice
+Mais, au moins, ne jugez pas la pièce d'après une ariette détachée ; ce serait trop sévère.
+
+-*who_theodore
+Je vous le promets.
+
+-*who_lactrice
+Allons, aussi bien, cela me vaudra une répétition.
+
+-*who_theodore
+On ne peut chanter avec plus de goût.
+
+-*who_lactrice
+Comme ce sera une première représentation, je désire que le public soit aussi content que vous paraissez l'être.
+
+-*who_theodore
+L'auteur serait sort heureux.
+Puisque vous jouez dans la pièce de ce soir, je ne manquerai pas d'aller vous entendre et de vous applaudir.
+
+-*who_lactrice
+Je vous en suis obligée ; mais n'oubliez pas l'auteur.
+Il faut qu'entre l'auteur et moi,
+Votre indulgence se partage :
+Il a besoin de nous, ma foi !
+Pour le succès de son ouvrage.
+Puis, à la pièce de ce soir
+Ne mettez pas trop d'importance :
+Je vous le dis confidemment :
+Ce n'est qu'une pièce à tiroir,
+Qu'on doit juger sans conséquence.
+
+**** *book_ *id_I12 *act_I *date_1799
+
+-*who_theodore
+Elle est fort aimable ; mais ce n'est pas là ma Rosette.
+
+**** *book_ *id_I13 *act_I *date_1799
+
+-*who_dubois
+Voici le papa Vincent et sa fille.
+
+**** *book_ *id_I14 *act_I *date_1799
+
+-*who_theodore
+Que je vous sais bon gré d'être revenu !
+Vous étiez attendu avec la plus vive impatience : mais vous m'aviez donné votre parole.
+
+-*who_vincent
+Et je la tiens toujours.
+Je ne sais pas comme ce misérable Dumont, qui voulait épouser ma fille...
+Je sors de chez lui...
+Je suis d'une colère...
+
+-*who_theodore
+Mon stratagême a réussi.
+
+-*who_rosette
+On nous avait gagnés de vitesse.
+
+-*who_vincent
+A-t-on jamais vu une pareille conduite ?
+Il m'offre son appartement ;
+Mais voyez combien il m'abuse :
+Je l'ai loué dans le moment,
+Ose-t-il dire pour excuse.
+Monsieur Dumont, jamais mon courroux
+N'admettra vos propos frivoles.
+Ma Rosette n'est pas pour vous ;
+Pour elle je veux un époux
+Qui ne manque pas (bis) de paroles. (bis).
+Ainsi, il ne sera jamais mon gendre : c'est un parti pris.
+
+-*who_rosette
+Mon père !
+Que vous me rendez contente !
+
+-*who_theodore
+Je puis donc me flatter...
+
+-*who_vincent
+Que voulez-vous dire ?
+
+-*who_theodore
+Que vous m'accepterez pour gendre, et que vous daignerez habiter cet appartement, avec ceux que vous aurez rendus si heureux.
+
+-*who_vincent
+Nous verrons cela.
+Je réfléchirai...
+Je chercherai à savoir si vous êtes aimé de ma fille.
+
+-*who_rosette
+Mon père, si vous voulez j'abrégerai vos recherches.
+
+-*who_vincent
+Eh bien, tant mieux.
+Dans quelque temps...
+
+-*who_rosette
+Dans quelque temps ?
+L'amour ne veut pas qu'on diffère
+L'instant qui doit nous rendre heureux.
+Si notre hymen vous plaît, mon père,
+Au plutôt, couronnez nos vœux.
+Oui, cette ardeur impatiente
+Est bien pardonnable à mon cœur :
+En amour une heure d'attente,
+Est un siècle pris au bonheur.
+
+-*who_dubois
+Faut-il aller chercher le notaire ?
+
+-*who_theodore
+Qui vient encore nous troubler ?
+
+**** *book_ *id_I15 *act_I *date_1799
+
+-*who_legascon
+Serbitur à touté la compagnie.
+Qui est lé maître dé cette maison.
+
+-*who_dubois
+Le voici ; mais que voulez-vous ?
+
+-*who_legascon
+Cé qué jé vux, sandis !
+Velle démande !
+N'é-jé pas lu sur la porte un pétit couplét annonçant un appartément à louer ?...
+Il a piqué ma curiosité, et jé vux lé louer.
+
+-*who_vincent
+Sérieusement ?
+
+-*who_legascon
+Eh donc !
+Jé vous en paie lé prix, et m'installe dans ma noubelle démure.
+
+-*who_theodore
+Je suis bien fâché de vous refuser ; mais cet appartement...
+
+-*who_legascon
+Sandis!
+Jé lé prends.
+Il mé convient.
+Voilà ma chambre à coucher, mon sallon dé compagnie.
+
+-*who_theodore
+Cependant...
+
+-*who_vincent
+Amusons-nous en un moment.
+
+-*who_legascon
+Est-cé dé l'argent qu'il bous saut ?
+Je vous en vaillerai d'abance.
+Boulez-bous dé l'on, des écus, des villets de la casse des comptes courants ?...
+Tout céla jé m'en vast l'œil.
+
+-*who_theodore
+Je n'ai plus rien à dire.
+
+-*who_legascon
+Cadédis !
+Bous né mé connoissez pas.
+Refuser un homme dé mon importance !
+Sabez bous qui jé suis ?
+
+-*who_vincent
+Perruquier.
+
+-*who_legascon
+Coifur, s'il bous plait.
+Coifur...
+Mais jé bais lâcher lé métier.
+
+-*who_theodore
+Pourquoi ?
+
+-*who_legascon
+Il n'y a plus rien à faire.
+Plus dé houcles, plus dé crochets,
+Dé papillotes, dé frisure :
+L'art, avondonnant ces apprêts,
+N'est plus ribel de la nature.
+Paubres perruquiers, mes amis,
+Descendez bîte votre enseigne ;
+Car ce n'est plus qu'aux ennemis
+Qu'on donne un coup de peigne.
+
+-*who_dubois
+Vous m'avez l'air d'un fin matois, et je suis sûr que vous connaissez bien votre monde.
+
+-*who_legascon
+Cap dé bious !
+Si je le connois !
+Jé puis, sans mé vanter, assurer qué personne n'a plus dé perspicacité qué moi.
+Au prémier coup-d'œil, jé débiné un particulier...
+J'ai lé tact : on se cacherait en bain de moi.
+Jé bois sous des airs d'opulencé,
+L'intrigué et la méchanceté,
+Sous lés haillons dé l'indigencé,
+Jé débiné la provité;
+Pour pénétrer plus d'un mystéré,
+Jé lis d'avord sans emvarras,
+Dans tous lés cœurs; mais comment fairé
+Abec lés gens qui n'en ont pas?
+
+-*who_theodore
+C'est assez difficile.
+Vous avez une pénétration incroyable.
+
+-*who_legascon
+Pénétration; c'est lé mot.
+Jé sais cé qué l'on pense, cé qué l'on est, cé qué l'on a été, et souvent, cé qué l'on séra.
+Jé connais la fortune dé chaqué particulier.
+
+-*who_vincent
+Pourriez-vous nous dire quelle est la vôtre ?
+
+-*who_legascon
+Rivés dé la Garonne !
+Elle est si étendue qué jé né la connais pas.
+
+-*who_vincent
+En ce cas, on ne peut vous louer cet appartement.
+
+-*who_theodore
+Oui ; j'avoue qu'il est cher, et le prix...
+
+-*who_legascon
+Fi donc, le prix !...
+Jamais jé né m'informe du prix.
+La velle vagatelle, pour mé rompre la tâte !
+J'ai un magasin considéravle dé perruques, dé faux toupets, dé chignons, dé quoi achéter votré maison, et quatré autres abec.
+
+-*who_theodore
+Mais si cet appartement était loué ?
+
+-*who_legascon
+Impoussivle.
+
+-*who_theodore
+C'est cepeudant la vérité, et vous me ferez plaisir...
+
+-*who_legascon
+Bous n'abez pas ôté l'écriteau...
+Partant, il est à louer, et jé l'aurai.
+
+-*who_theodore
+Mais...
+
+-*who_legascon
+Bous n'abez pas ôté l'écriteau.
+
+-*who_dubois
+Vous ne risquez rien...
+Je gage qu'il n'a pas un sou.
+
+-*who_theodore
+Allons ; je me rends...
+Ainsi donnez-moi des arrhes.
+
+-*who_legascon
+Comment des arrhes !
+
+-*who_vincent
+Oui, le denier-à-dieu.
+
+-*who_legascon
+Cadédis !
+C'est vous qui débez m'eu donner.
+
+-*who_theodore
+C'est un peu fort.
+
+-*who_legascon
+Allons, trèbe dé plaisantéries.
+
+-*who_rosette
+On ne plaisante pas.
+
+-*who_legascon
+Bous boulez rire ?
+Est-ce qu'à Vordeaux, quand jé loue un appartement ou une boiture, cé n'est pas lé propriétaire ou lé boiturier, qui mé donne les arrhes ? démandez plutôt.
+C'est pour céla qué jé suis monté.
+
+-*who_vincent
+Il est jovial.
+
+-*who_legascon
+Comment faire, jé n'ai pas lé sou.
+Mais, s'il né tient qu'à céla, jé né disputérai pas...
+Jé bais bous payer....
+Qu'ést-cé qu'il bous saut ?....
+Non, dités-lé moi franchément...
+Aih !
+Moun Diou !
+Qu'es à co ?
+Lé Diable mé rétape, j'ai ouvlié ma vourse...
+Faités-moi lé plaisir dé mé prêter un écu dé six francs, pour lui donner lé dénier-à-dieu.
+
+-*who_vincent
+La demande est un peu leste.
+
+-*who_legascon
+Jé né mé gêne jamais abec mes amis.
+
+-*who_vincent
+J'en suis fâché ; mais je n'ai rien à vous prêter.
+
+-*who_legascon
+Allons ; jé bois vien qué bous né boulez pas mé louer l'appartément, jé mé rétire; et, comme jé n'ai pas dé rancune, jé bous offre mon pétit ministère, s'il faut à madémoiselle un chignon à la grecque, uné perruque à la Titus, un flacon d'excellente huile antique qué j'ai fabriquée cé matin, bous poubez bous adresser à Chrisostôme Poudrac, au coin dé la rue Bide-Gousset.
+
+-*who_rosette
+Vous faites donc des perruques ?
+
+-*who_legascon
+Si j'en fais !...
+J'en sais à chacun sélon son goût, son état, son caractère et ses moyens, et jé bends.....
+Au jugé, perruque à vonet,
+Blonde ou brune à la june Hortense;
+Au parbénu, qui s'y connaît,
+Uné perruque à circonstance;
+Peruque dé chévux naissants
+À la bieille sans chébélure ;
+Perruque plate à vien des gens,
+Pour les coîffer à lur figure.
+Adioussias.
+
+**** *book_ *id_I16 *act_I *date_1799
+
+-*who_vincent
+Nous voici débarrassés de cet importun....
+Dubois, pour ne plus craindre de fâcheux, tu vas détacher l'écriteau...
+C'est moi qui loue l'appartement.
+
+-*who_theodore
+Que de bonté !
+
+-*who_vincent
+Mes enfants, nous y vivrons tous trois en famille...
+Théodore, je vous accepte pour gendre, et je crois que Rosette n'aura jamais à se repentir de son choix.
+
+-*who_theodore
+Je m'efforcerai toujours de le justifier.
+
+-*who_dubois
+Me chargerez-vous encore de recevoir les visites ?
+
+-*who_theodore
+Oui, les visites de nôces.
+
+**** *book_ *id_I17 *act_I *date_1799
+
+-*who_vincent
+À ton hymen tu te prépares,
+Moi, je loue un appartement ;
+Tous deux nous te devons des arrhes,
+Le marché sera plus constant :
+En passant l'acte nécessaire,
+En emménageant en ce lieu,
+Je t'offre l'amitié d'un père,
+Et mes biens pour denier-à-dieu.
+
+-*who_theodore
+Vos bienfaits passent votre dette,
+Et vous êtes quitte envers moi;
+Il reste à l'aimable Rosette....
+
+-*who_vincent
+J'entends, et vais parler pour toi.
+Je ne saurais, en conscience,
+De Rosette lui tenir lieu :
+Donne-lui, ma fille, en avance,
+Un baiser pour denier-à-dieu.
+
+-*who_rosette
+Nous avons, désirant vous plaire,
+Pris un appartement nouveau ;
+S'il vous plaît, le propriétaire
+N'ôtera pas son écriteau.
+Approuvez, avec complaisance,
+Le marché conclu dans ce lien ;
+Par un petit bruit d'indulgence,
+Donnez-nous le denier-à-dieu.

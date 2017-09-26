@@ -1,0 +1,932 @@
+
+
+**** *book_ *id_I01 *act_I *date_1759
+
+-*who_alison
+D'un triste veuvage
+Je voudrais sortir :
+On peut, à mon âge,
+Recevoir l'hommage
+Qu'offre le plaisir.
+Colin en partage
+Prétend m'obtenir ;
+Mathurin fait rage,
+Et veut mettre ombrage
+À son désir
+D'un dur esclavage
+L'Amour dédommage.
+Qui des deux choisir ?
+Mais je présage
+Que le repentir
+Pourrait venir.
+Allons à ce sujet consulter ma cousine, et profitons de ses conseils.
+
+**** *book_ *id_I02 *act_I *date_1759
+
+-*who_mathurin
+Oui, te dis je ; son penchant pour moi la détermine.
+
+-*who_colin
+Oh !
+Je suis sûr que c'est moi qu'elle va couronner.
+
+-*who_mathurin
+N'y prétends pas.
+De ma richesse
+Elle fait cas
+N'y prétends pas.
+De ma richesse
+Elle fait cas.
+Tiens, crois-moi, cesse
+Ces vains débats ;
+N'y prétends pas.
+
+-*who_colin
+N'y prétends pas ;
+Car ma tendresse
+Vaut tes ducats.
+N'y prétends pas ;
+Car ma tendresse
+Vaut tes ducats.
+Je veux sans cesse
+Suivre ses pas;
+N'y prétends pas.
+
+-*who_mathurin
+Mais quel droit as-tu pour y prétendre ?
+
+-*who_colin
+Eh !
+Quel droit as-tu, toi, de me la contester ?
+
+-*who_mathurin
+Moi ?
+J'étais l'ami du défunt ; elle m'aimait aussi dès ce temps-là : ainsi j'ai pour moi l'ancienneté.
+
+-*who_colin
+Oh !
+Moi, c'est depuis son veuvage qu'elle m'aime ; ainsi j'ai pour moi la nouveauté.
+
+-*who_mathurin
+Arrange-toi comme tu voudras, mais je n'en démordrai pas.
+
+-*who_colin
+Ni moi non plus.
+
+-*who_mathurin
+Eh !
+Mais !
+Tu veux donc te faire frotter ?
+
+-*who_colin
+Par qui ?
+
+-*who_mathurin
+Par moi.
+
+-*who_mathurin
+Ah ! voyons donc ;
+C'est tout de bon :
+Pauvre garçon !
+Tais-toi, poltron.
+Commence donc :
+C'est tout de bon.
+Pauvre garçon!
+Tais toi, poltron,
+Poltron, poltron.
+
+-*who_colin
+Tu le veux donc ?
+Oui, tout de bon :
+Pauvre garçon !
+Tais-toi, poltron.
+Commence donc :
+Oui, tout de bon.
+Tais-toi, poltron ;
+Tais-toi, poltron,
+Poltron, poltron.
+
+**** *book_ *id_I03 *act_I *date_1759
+
+-*who_suson
+Pourquoi donc tout ce bruit ?
+
+-*who_alison
+Pourquoi donc tout ce vacarme ?
+
+-*who_mathurin
+C'est lui qui veut me disputer ton coeur.
+
+-*who_colin
+C'est lui qui prétend l'emporter sur moi.
+
+-*who_alison
+Mais vraiment cela me fait honneur.
+
+-*who_mathurin
+C'est votre faute aussi.
+
+-*who_alison
+Pourquoi donc ?
+
+-*who_colin
+Sans doute, depuis six mois que vous nous bercez d'espérance.
+
+-*who_suson
+Ils ont raison ; pourquoi ne pas se déterminer ?
+
+-*who_alison
+Cela t'est bien aisé à dire ; mais je considère bien des choses.
+
+-*who_suson
+Quoi ?
+
+-*who_alison
+Ce n'est pas un marché d'un jour ; j'ai le bonheur d'être veuve : si j'étais sûre de l'être une seconde fois, je n'y regarderais pas de si près.
+
+-*who_suson
+Tu plaisantes, mais il faut une fin.
+
+-*who_mathurin
+Sans doute il faut une fin.
+
+-*who_colin
+Eh !
+Faut-il tant barguigner ?
+Dites-nous vos sentiments une bonne fois.
+
+-*who_alison
+Te vais faire un heureux.
+
+-*who_suson
+Lequel des deux....
+
+-*who_mathurinetcolin
+Aimes tu mieux ?
+
+-*who_colin
+Que mon ardeur
+Touche ton coeur.
+
+-*who_mathurin
+À mon amour
+Cède en ce jour.
+
+-*who_alison
+Je vais choisir.
+
+-*who_mathurin
+Ah ! Je le crois,
+Ce sera moi ?
+
+-*who_colin
+Ce sera moi ;
+J'aurai sa foi.
+Décide-toi,
+Décide-toi.
+
+-*who_alison
+Mais !
+
+-*who_colin
+      Quoi !
+
+-*who_alison
+Mais !
+
+-*who_mathurin
+      Quoi !
+
+-*who_suson
+Décide-toi.
+
+-*who_alison
+Oh ! Non, ma foi.
+
+-*who_colin
+Ce sera moi,
+J'aurai sa foi.
+
+-*who_mathurin
+Oh ! Je le crois,
+Ce sera moi ?
+
+-*who_mathurinetcolin
+Décide-toi.
+
+-*who_alison
+Oh ! non, ma foi.
+
+-*who_mathurin
+Il n'y a qu'un mot qui serve.
+Voyons.
+
+-*who_colin
+Que de façons !
+Parlez.
+
+-*who_alison
+Oh !
+Plus vous me pressez, moins je pourrai me décider.
+Donnez-moi du moins le temps de réfléchir.
+Votre caractère
+Est vif et sincère
+Votre amour constant
+Mérite assurément
+Que l'on vous préfère
+À tout autre Amant.
+
+-*who_mathurin
+Quel aveu charmant!
+
+-*who_colin
+Ah ! Dieux, Quel tourment!
+
+-*who_alison
+Ta flamme m'est chère ;
+Chut ! C'est un mystère :
+Ton amour constant
+Mérite assurément,
+Que l'on te préfère
+À tout autre amant.
+
+-*who_colin
+Quel retour charmant !
+
+-*who_mathurin
+Ô Dieux ! Quel tourment !
+
+-*who_alison
+Que pour me plaire
+Chacun persévère :
+Peut être un bon moment
+Finira le mystère.
+Un coeur qui diffère
+Agit prudemment.
+
+-*who_mathurin
+Ingrate !
+Sur un tel caprice je vais réfléchir à mon tour.
+
+**** *book_ *id_I04 *act_I *date_1759
+
+-*who_suson
+Quoi !
+Toujours balancer !
+
+-*who_colin
+Jarni, pourquoi faut-il que je sois amoureux ?
+
+-*who_alison
+Suson, conseille moi.
+
+-*who_colin
+Que voulez-vous qu'elle vous dise ?
+C'est votre coeur qui doit vous conseiller.
+
+-*who_suson
+C'est bien dit.
+Que ne prends-tu Colin !
+
+-*who_alison
+J'aurais bien aimé Mathurin, mais, non ; il me semble que tu as raison : Colin est mieux mon fait.
+Va je te prends.
+
+-*who_colin
+Que je suis satisfait !
+Oh !
+Tatigoi, vous ne vous repentirez pas de la préférence que vous me donnez.
+Oui, c'est un parti sage :
+Alison sait choisir ;
+Car je puis en ménage
+Remplir tout son désir.
+Je suis homme à l'épreuve,
+Un vrai mari de veuve.
+Demandez au Canton
+Si je suis bon luron,
+Si je suis franc garçon ;
+On ne vous dira pas, non :
+Car je puis en ménage
+Remplir tout son désir.
+Déjà mon coeur nage
+Dans le plaisir
+Je suis homme à l'épreuve,
+Un vrai mari de veuve.
+Demandez au canton
+Si je suis bon luron,
+Si je suis franc garçon ;
+On ne vous dira pas, non ;
+Et tous à l'unisson
+Vous diront : Colin est bon,
+Bon, bon, bon, bon.
+
+-*who_alison
+Suson, ai-je bien fait ?
+
+-*who_suson
+Oui, j'approuve ton choix ?
+
+-*who_alison
+Mathurin va faire le diable.
+Il est riche et puissant dans le village.
+Il peut nous nuire, et je crains...
+
+-*who_colin
+Ne craignez rien.
+Je vais l'observer.
+
+**** *book_ *id_I05 *act_I *date_1759
+
+-*who_alison
+Oui, oui, je serais mieux...
+
+-*who_suson
+À quoi rêves tu ?
+
+-*who_alison
+C'est que...
+
+-*who_suson
+Eh !
+Bien ?
+
+-*who_alison
+C'est que...
+Tiens, il faut te le dire, Colin ne m'aura pas.
+
+-*who_suson
+Bon !
+Autre caprice !
+Et tu viens de le lui promettre.
+
+-*who_alison
+C'est vrai ; mais j'ai eu tort.
+
+-*who_suson
+Que peux-tu lui reprocher.
+Il est jeune, il t'aime....
+
+-*who_alison
+Mais il n'a rien.
+
+-*who_suson
+Dans le Mariage
+À quoi sert le bien ?
+L'Epoux qui n'a rien
+Est beaucoup plus sage,
+Est bien moins volage.
+L'époux qui n'a rien
+Jamais ne partage.
+Un tendre langage,
+C'est de tout ménage
+Le plus doux lien.
+Toujours empressé.
+Jamais courroucé,
+Le mari demande ;
+La femme commande,
+Et voit les plaisirs
+Prévenir ses désirs.
+
+-*who_alison
+Tu as beau dire, je crois pourtant que Mathurin ferait mieux mon affaire.
+
+-*who_suson
+Quel esprit indécis !
+
+-*who_alison
+Dis-lui que je veux lui parler.
+
+-*who_suson
+J'y cours de ce pas.
+
+**** *book_ *id_I06 *act_I *date_1759
+
+-*who_alison
+Il est convenable
+Qu'une femme raisonnable,
+Quand il s'agit d'un choix,
+Regarde à deux fois.
+Colin est aimable,
+Je m'en aperçois ;
+Mais Mathurin est agréable
+Hélas ! Pour chacun !
+Mon coeur est sensible.
+Des deux que n'est-il possible
+De n'en faire qu'un ?
+Colin gémira;
+Mais enfin n'importe:
+Mathurin l'emporte,
+Il m'épousera.
+
+**** *book_ *id_I07 *act_I *date_1759
+
+-*who_mathurin
+Suson vient de me dire que vous vouliez me parler.
+
+-*who_alison
+Oui, cela est vrai.
+
+-*who_mathurin
+Et est-il vrai encore ce qu'elle m'a dit ?
+
+-*who_alison
+Quoi ?
+
+-*who_mathurin
+Que vous aviez, enfin, rendu justice à mon amour.
+
+-*who_alison
+Oui, cela est vrai.
+
+-*who_mathurin
+Ah !
+Si tu savais à quel point ma flamme...
+
+-*who_alison
+Elle est entre nous mutuelle.
+
+-*who_mathurin
+Chère Alison, Mon coeur gémissait.
+Palpitait
+Dans le doute :
+Mais le plaisir devient bien plus flatteur
+Par les peines qu'il coûte.
+Ah ! Combien ce soir,
+Je vais en avoir
+À te posséder toute !
+Je t'embrasserai,
+Te dorloterai ;
+Je te conterai,
+Je t'endormirai,
+Je te bercerai,
+Te réveillerai,
+Puis je te dirai,
+Tout ce qui te flatte :
+Ton oeil guilleret,
+Dont le feu me plaît,
+Autant m'en dira:
+Tout pour moi sera.
+Je vais tout disposer pour notre Mariage.
+
+-*who_alison
+Ne tarde pas.
+
+-*who_mathurin
+      Je reviendrai bientôt.
+Souffre que sur ta main mon amour prenne un gage,
+
+-*who_alison
+Volontiers.
+
+-*who_mathurin
+      Mon rival sera ma foi bien sot.
+
+**** *book_ *id_I08 *act_I *date_1759
+
+-*who_suson
+Eh !
+Bien, cousine, es-tu contente ?
+
+-*who_alison
+Oui.
+
+-*who_suson
+Ton choix est donc fait ?
+
+-*who_alison
+Oui.
+
+-*who_suson
+Quel effort !
+Et c'est sans retour ?
+
+-*who_alison
+Oui, oui, ne crains rien.
+
+-*who_suson
+Au bout du compte, tu as fort bien fait.
+Eh ! pourquoi tant attendre,
+S'il faut passer par là ?
+Le soin de se défendre
+Ne sert pas de cela.
+C'est un meuble nécessaire
+Que d'avoir un époux.
+Au hasard pourvoyons-nous,
+Le choix n'avance guère.
+Volages et jaloux,
+Ils se ressemblent tous.
+Il nous faut au village
+Un mari jeune et dodu.
+À cela près, femme sage
+Prend le premier venu.
+Cousine, allons de la gaieté, pense à ton hymen.
+
+-*who_alison
+Je n'y pense que trop.
+
+-*who_suson
+Comment !
+
+-*who_alison
+Je ne sais... mais...
+
+-*who_suson
+Tu ne voudrais pas te dédire, peut-être?
+
+-*who_alison
+Pourquoi non ?
+
+-*who_suson
+Mais, tu deviens donc folle ?
+
+-*who_alison
+Il y va de ma liberté.
+
+-*who_suson
+Tout comme il vous plaira.
+Je ne vous conçois plus.
+
+-*who_alison
+Qu'est-ce que cela te fait ?
+Tu peux t'engager, si tu veux.
+
+-*who_suson
+Mais enfin, pour qui penches-tu ?
+
+-*who_alison
+Je suis encore indécise.
+Mathurin m'aime, il est vrai.
+Il est riche, j'en conviens ; mais il est si délicat...
+Un mari comme celui-là ne durerait pas six mois.
+
+-*who_suson
+C'est donc pourquoi il faut s'en tenir à Colin.
+
+-*who_alison
+Mais je te l'ai dit, il n'a pas de bien.
+
+-*who_suson
+Si ces deux-là ne te conviennent pas, cherches en un troisième.
+
+-*who_alison
+Ne pense pas rire, chacun d'eux n'a que la moitié des qualités que je voudrais trouver dans un mari, et c'est ce qui cause mon embarras.
+
+-*who_suson
+Il faut te décider.
+J'attends que tu aies fait ton choix pour faire le mien, et je m'en ennuie à la fin.
+
+-*who_alison
+En ce cas, choisis toi-même qui tu voudras ; car je ne veux plus ni de l'un ni de l'autre.
+
+**** *book_ *id_I09 *act_I *date_1759
+
+-*who_suson
+Un aveu mérité
+Pénètre, enchante,
+Quand il est dicté
+Par la sincérité.
+La grâce touchante
+De l'ingénuité,
+Toujours augmente
+La beauté ;
+Mais la plus charmante
+Qui suit la pente
+De l'inégalité,
+N'est jamais contente;
+Une flamme inconstante
+Sans cesse épouvante
+La volupté.
+
+**** *book_ *id_I10 *act_I *date_1759
+
+-*who_mathurin
+Je te fais compliment.
+
+-*who_colin
+Oh !
+Je te félicite.
+
+-*who_suson
+C'est bon ; chacun de son côté s'imagine avoir réussi.
+
+-*who_mathurin
+On se rend à tes voeux.
+
+-*who_colin
+Point du tout ; c'est à ton mérite.
+
+-*who_mathurin
+Il pense l'épouser.
+
+-*who_colin
+Il croit l'emporter sur moi.
+Parbleu !
+Je veux m'en divertir.
+
+-*who_mathurin
+Je ne puis m'empêcher de rire.
+
+-*who_suson
+Oui, oui, le chose est fort plaisante.
+
+-*who_mathurin
+On la lui garde,
+Ah ! Ah ! Ah ! Ah !
+Ce minois là.
+L'épousera
+Tiens, tiens, regarde
+Vois-tu cela ?
+On t'en ratissera.
+
+-*who_mathurin
+C'est lui qui l'aura.
+Ah ! Ah ! Ah ! Ah !
+Ce bijou-là
+L'emportera.
+Tiens, tiens, regarde
+Vois-tu cela ?
+On t'en ratissera.
+
+-*who_mathurin
+Tiens, vois-tu : si Alison ne prononce pas en ma faveur, je perds cent écus.
+
+-*who_colin
+J'y consens.
+
+-*who_suson
+Hé bien !
+Ils sont perdus.
+
+-*who_mathurin
+Pourquoi donc ?
+
+-*who_suson
+C'est qu'à vous deux ma cousine renonce.
+
+-*who_mathurin
+Ah ! La diablesse !
+Pauvre Colin !
+Notre tendresse
+A même sort,
+Et la tigresse
+Nous met d'accord.
+Elle a tort.
+
+-*who_colin
+Ah ! La tigresse !
+Pauvre Mathurin !
+Notre tendresse
+A même sort,
+Et la tigresse
+Nous met d'accord.
+Très tort.
+
+-*who_mathurin
+Morgué, v'là qu'est fini, je n'y pense plus.
+
+-*who_suson
+Eh !
+Bien, tiens, si tu veux.....
+
+-*who_mathurin
+Si je veux...
+Oh !
+Si tu veux toi-même : je ne demande pas mieux ; accepte ma main.
+
+-*who_suson
+Ma cousine fait une sottise ; je me garderai bien de l'imiter.
+
+-*who_colin
+Vous avez raison.
+Bon !
+Mon rival me laisse le champ libre ; quand je serai tout seul, il faudra bien qu'Alison me choisisse.
+Mais la voici.
+
+**** *book_ *id_I11 *act_I *date_1759
+
+-*who_suson
+Alison, viens donc vite.
+
+-*who_alison
+Pourquoi faut-il doubler le pas ?
+
+-*who_suson
+Mathurin.
+
+-*who_alison
+Mathurin.
+
+-*who_colin
+Épouse ta cousine.
+
+-*who_alison
+Bon !
+Quel conte !
+
+-*who_mathurin
+Eh !
+Non, non, ce n'est point un conte.
+
+-*who_alison
+Plaît-il ?
+
+-*who_suson
+C'est en honneur.
+
+-*who_alison
+Ô Dieux !
+Quelle insolence !
+Quelle impudence !
+Ah ! Peut-on voir
+Un trait plus noir.
+Tous trois d'intelligence
+Tramer mon désespoir !
+Au mois d'avance
+Il fallait savoir
+Que votre inconstance
+Romprait l'alliance
+Qu'on me faisait prévoir.
+
+-*who_suson
+Dame, arrange-toi donc.
+Tu le veux, puis tu ne le veux plus.
+Après cela tu le regrettes ; on n'a jamais vu d'esprit comme le tien.
+
+-*who_alison
+Taisez-vous.
+
+-*who_suson
+La chose n'est pas faite ; si tu veux, je te céderai mes droits.
+
+-*who_mathurin
+Mais qu'est-ce que vous faites donc, vous, à votre tour ?
+
+-*who_colin
+Pourquoi donc cela ?
+Vous êtes si bien ensemble ; et pargué, tenez vous y.
+
+-*who_suson
+Ne crains rien ; c'est pour l'amener où nous voulons.
+Eh bien !
+Le coeur t'en dit-il ?
+
+-*who_colin
+Fi donc, encore une fois.
+
+-*who_suson
+Moi, je prendrai Colin.
+
+-*who_alison
+Oui-dà.
+Non pas, ma mie,
+Gardez vos noeuds ;
+Celui qui vous lie
+Flatte trop vos voeux :
+Je suis ravie
+Qu'un tel amoureux
+Enfin justifie
+L'excès de vos feux.
+Mais moi, je veux
+N'aimer de ma vie;
+J'en jouirai mieux.
+Je suis ravie
+Qu'un tel amoureux
+Enfin justifie
+L'excès de vos feux.
+
+-*who_colin
+Vous avez raison ; aussi bien quand vous le voudriez, je ne le voudrais plus.
+
+-*who_alison
+Toi ?
+
+-*who_colin
+Non, et je vais de ce pas trouver Claudine.
+
+-*who_alison
+Tu l'aimes donc ?
+
+-*who_colin
+Oh !
+Que cela ne vous inquiète pas.
+
+-*who_alison
+Perfide.
+
+-*who_colin
+À la bonne heure ; mais j'ai pris mon parti.
+
+-*who_alison
+Écoute moi donc.
+
+-*who_colin
+Non.
+
+-*who_alison
+Colin ?
+
+-*who_colin
+Adieu.
+
+-*who_alison
+Viens donc, j'ai quelque chose à te dire.
+
+-*who_colin
+Qu'est-ce que c'est ?
+
+-*who_alison
+Touche-là, je te donne la préférence.
+
+-*who_colin
+Je crois bien, parce que je suis tout seul.
+
+-*who_alison
+Non, c'est parce que je t'aime.
+
+-*who_colin
+Est-il bien vrai ?
+
+-*who_alison
+Oui.
+
+-*who_colin
+Puis-je compter sur toi ?
+
+-*who_alison
+J'en fais serment.
+
+-*who_mathurin
+Si tu lui donnes encore le temps de la réflexion, elle pourrait bine se dédire.
+Jarni !
+Prends-là au mot.
+
+-*who_colin
+Tu as raison.
+Eh bien !
+C'est fait ; allons vite chez le notaire.
+
+-*who_mathurin
+Ne faisons qu'une seule noce pour nous quatre, et vive le joie.
+
+-*who_ensemble
+Tu m'obtiens,
+Je t'obtiens.
+Mes plaisirs sont les tiens :
+Plus d'alarmes ;
+Tous les biens,
+Tous les charmes,
+Sont dans nos liens.
+
+VAUDEVILLE.
+
+-*who_ensemble
+Une fille à dix-huit ans
+A de la prudence,
+Sur le choix de ses amants
+Quand elle balance.
+Lorsqu'elle est sur le retour,
+Et qu'on lui parle d'amour,
+C'est une sottise
+Que d'être indécise.
+Pour l'hymen faut-il quitter
+Un amant sincère.
+Ce n'est pas sans hésiter
+Sur ce qu'on va faire.
+Mais si chez notre vainqueur
+Nous voyons quelque froideur,
+C'est une sottise
+Que d'être indécise.
+Si quelque riche barbon
+Près de nous soupire,
+Ne répondons oui ni non
+À ce qu'il désire.
+Mais si, par un bon contrat
+Il nous assure un état,
+C'est une sottise
+Que d'être indécise.
+Lorsqu'une Belle, en aimant,
+Cherche le mystère ;
+Qu'elle veut secrètement
+Voguer à Cythère,
+Entre nos petits collets
+Et tous ces fringants plumets,
+C'est une sottise
+Que d'être indécise.
+
+-*who_colin
+Balancez à m'épouser,
+J'y consens, ma chère,
+Si moudre, bluter, sasser
+Vous pouvez tout faire ;
+Mais puisque votre moulin
+Ne peut aller sans Colin,
+C'est une sottise
+Que d'être indécise.
+Voici le moment, Messieurs,
+D'une épreuve rude.
+Pour l'auteur et les acteurs
+Quelle incertitude !
+Par un geste de la main
+Décidez notre destin.
+Frappez la reprise
+De la Veuve Indécise.

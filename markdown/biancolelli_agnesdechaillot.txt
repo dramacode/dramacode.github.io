@@ -1,0 +1,1030 @@
+---
+identifier: biancolelli_agnesdechaillot  
+creator: Biancolelli Pierre François  
+date: 1723  
+title: Agnès de chaillot. , comédie.  
+---
+
+
+AGNÈS DE CHAILLOT
+
+COMÉDIE PAR MONSIEUR DOMINIQUE
+
+Comédien de S.A.R. Monseigneur le Duc d'Orléans.
+
+M. DCC. XXIII. Avec Approbation, et Permission.
+
+Par Monsieur DOMINIQUE, comédien de S.A.R. Monseigneur de Duc d'Orléans.
+
+# PERMISSION DU ROI. LOUIS, par la grâce de Dieu, Roi de France et de Navarre : à nos Amés et féaux Conseillers, les gens tenants nos Cours de Parlement, Maîtres des Requêtés ordinaires de nôtre Hôtel, Grand Conseil Prévôt de Paris , Baillifs, Sénéchaux, leurs Lieutenants Civils, et aurres nos justiciers qu'il appartiendra, SALUT : Notre bien amé le sieur DOMINIQUE BIANCOLELLI, Comédien ordinaire de notre très cher et très amé Oncle le Duc d'Orléans : Nous ayant fait supplier de lui accorder nos Lettres de permission, pour l'impiession d'un Ouvrage qui a pour titre, Agnès de Chaillot. Nous avons permis et permettons par ces présentes au dit sieur DOMINIQUE BIANCOLELLI, de faire imprimer le dit Livre, en telle forme, marge, caractère, conjointement ou séparément, et autant de fois que bon lui semblera, et de le faire vendre et débiter par tout notre Royaume pendant le temps de trois années consécutives, à compter du jour de la date desdites présentes. Faisons défenses à tous imprimeurs, Libraires et autres personnes, de quelque qualité et condition qu'elles soient, d'en introduire d'impression étrangère dans aucun lieu de notre obéïssance, à la charge que ces présentes seront enregistrées tout au long sur le Registre de la Communauté des Imprimeurs et Libraires de paris, et ce dans trois mois de la date d'icelles que l'impression du dii Livre sera faite, dans notre Royaume, et non ailleurs, en bon papier et en beaux caractères, conformément aux Réglements de la Librairie : et qu'avant que de l'exposer en vente, le manuscrit ou imprimé qui aura servi de copie à l'imprestion du dit Livre , sera remis dans le même état où l'Approbation y aura été donnée, es mains de notre trés cher et féal Chevalier, Garde des Sceaux de France, le sieur Fleuriau d'Armenonville ; et qu'il en fera ensuite remis deux exemplaires dans notre Bibliothèque publique, un dans celle de notre Château du Louvre, et un dans celle de notre dit très cher et féal Chevalier, Garde des Sceaux de France, le sieur Fleuriau d'Armenonville : le tout à peine de nullité des présentes, du contenu desquelles vous mandons et enjoignons de faire jouir le dit exposant ou ses ayants causes, pleinement et paisiblement, sans souffrir qu'il lui soit fait aucun trouble ou empêchements. Voulons qu'à la Copie des dites présentes, qui sera imprimée tout au long au commencement ou à la fin du dit Livre, foi soit ajoutée comme à l'original : Commandons au premier notre huissier ou Sergent ; de faire pour l'exécution d'icelles, tous actes requis et nécessaires, sans demander autre permission et nonobstant Clameur de Haro, Charte Noramnde, et Lettres à ce contraires. Car, tel est notre plaisir. Donné à Paris le vingtième jour du mois d'août en l'an de grâce mil sept cens vingt-trois, et de notre règne le huitième. Par le Roi en son Conseil CARPOT. Il est ordonné par l'édit du Roi du mois d'Août 1686. et Arrêt de son Conseil, que les Livres dont l'impression se permet par privilège de Sa Majesté, ne pourront être vendus que par un, imprimeur ou libraire. Registre sur le Registre V de la Communauté des Imprimeurs et Libraires de Paris, page 328 N°616, conformément aux Réglements, et notamment à l'Arrêt du Conseil du 13 août 1703. À Paris le 4 Septembre 1723. Signé BALLARD , Syndic. Je soussigné cède à perpétuité à Monsieur Flahault, Libraire de la Comédie Italienne, une piece de ma composition, intitulée : Agnès de Chaillot, suivant l'accord fait entre nous. À paris ce 21 août 1723. DOMINIQUE BIANCOLELLI. Registré sur le Registre V. de la Communauté des Imprimeurs et libraires de Paris page 329 conformément aux Règlements, et notamment à l'Arrêt du Conseil du 13 Août 1703. À Paris, le 4 Septembre 1723. Signé BALLARD, Syndic. # APPROBATION. J'ai lu par l'ordre de Monseigneur, le Garde des Sceaux , une Comédie qui a pour titre, AGNÈS DE CHAILLOT ; et j'ai jugé comme tout le Public que les tragédies les plus intéressantes peuvent fournir la matière d'une agréable parodie. FAIT à Paris, ce 23 Août 1723. DANCHET.À PARIS, Chez FRANÇOIS FLAHAULT, Quai des Augustins, au coin de la rue Pavée, au Roi de Portugal.
+Représentée pour la première fois par les comédiens Italiens le 24 juillet 1723. [1]
+
+
+# ACTEURS de la Comédie.
+ – TRIVELIN , ancien Baillif de Chaillot, surnommé le Justicier.
+ – LA BAILLIVE, sa femme.
+ – PIERROT, fils de Trivelin.
+ – AGNÈS, servante du Baillif, et mariée secrètement à Pierrot.
+ – CROUTON, Ambassadeur de Gonnesse.
+ – DEUX MITRONS.
+ – ARLEQUIN, Bedeau et parent du Baillif.
+ – LE MAGISTER, personnage muet.
+ – LE MARGUILLERLE MARGUILLER d'honneur, personnage muet.
+ – LE CARILLONNEUR, personnage muet.
+ – QUATRE PAYSANS.
+ – QUATRE ENFANTS.
+ – LA NOURRICE des enfants.
+ – UN ARCHER.
+ – PAYSANS et PAYSANNES;La scène est à Chaillot, dans la Maison de Trivelin.
+
+
+# .
+
+
+## SCÈNE PREMIÈRE. Le Baillif, La Baillive, Agnès, Quatre Paysans.
+
+    LE BAILLY. [2] [3]
+Mon fils ne me suit point ! Sans peine je l'excuse,  
+Il vient de remporter le prix de l'arquebuse ;  
+Il est encor tout plein de cet excès d'honneur,  
+Mais de Gonnesse enfin, voici l'Ambassadeur.  
+
+    LA BAILLIVE. [4]
+Pour me dire ces mots faut-il tant de mystère ?  
+Moi qui fus de Gonnesse, autrefois boulangère,  
+Je dois bien le connaître, il se nomme Crouton,  
+Mon fils depuis un an en a fait son mitron :  
+Mais, Monsieur le Baillif toujours avec emphase,  
+Vous nous faites valoir jusqu'à la moindre phrase.  
+
+    LE BAILLY.
+Apprenez qu'un Baillif doit parler gravement,  
+Mais de l'Ambassadeur, oyons le compliment.  
+
+
+## SCÈNE II. Le Bailly, La Baillive, Agnès, suite du Bailly, Crouton, Ambassadeur de Gonesse, et sa suite.
+
+    CROUTON. [5]
+Je sommes députés des Bourgeois de Gonnesse,  
+Qui vous marquent, par Nous, Baillif, leur allégresse,  
+Ils sont tretous joyeux, que Monsieur votre fils  
+De l'Arquebuse enfin ait remporté le prix ;  
+Goûtez, Baillif, goûtez, non pas deux fois, mais quatre,  
+La gloire que ce fils, sur vous a su rabattre :  
+Ah ! Quel plaisir pour vous, de faire tant de bruit !  
+Et d'être par un fils, rengendré , reproduit,  
+Que vous êtes heureux ! Chez vous rien ne décline,  
+Vous vendez votre son, mieux que votre farine ;  
+Vous mettez tout en branle, et vos voeux sont contents  
+J'en partageons la joie avec vos habitants ;  
+Notre Maître surtout, de si bon coeur s'y livre,  
+Que depuis avant hier il n'a cessé d'être ivre.  
+
+    LE BAILLY.
+Votre Maître, Crouton, m'est uni doublement,  
+Sa mère est mon épouse, on ne sait pas comment,  
+Mais n'importe, cela ne fait rien à l'affaire ;  
+Et le même Contrat qui m'unit à sa mère,  
+Veut que mon fils Pierrot soit l'époux de sa soeur.  
+
+    LA BAILLIVE.
+Sans que vous le disiez, on sait cela par coeur.  
+
+    LE BAILLY.
+Ainsi dans nos enfants nous nous verrons renaître,  
+Adieu... de mes desseins instruisez votre Maître,  
+Dites-lui, que Pierrot épousera sa soeur.  
+L'Ambassadeur se retire avec toute sa suite.
+
+
+
+## SCÈNE III. Le Bailif, La Bailive, Agnès.
+
+    LA BAILLIVE.
+Vous renvoyez bientôt ce pauvre Ambassadeur,  
+Vous deviez bien du moins le prier de la Noce ;  
+Ou pour s'en retourner lui prêter votre rosse.  
+Mais sur un autre fait discourons entre nous :  
+Votre fils, que déjà ma fille aime en époux,  
+Ne la regarde pas, elle est inconsolable.  
+
+    LE BAILLY.
+Que m'apprenez-vous là, ce seroit bien le diable,  
+Pour Constance, Pierrot serait indiférent ?  
+Il le faut excuser, les honneurs qu'on lui rend  
+Lui montent à la tête, il en est dans l'ivresse,  
+Car souvent les honneurs enivrent la jeunesse.  
+
+    LA BAILLIVE.
+Il faut à son devoir ranger cet étourdi,  
+ll a du coeur, il est entreprenant, hardi,  
+Ne manque pas d'esprit, sa figure est gentille ,  
+Il excelle au billard, et sait bien le quadrille ;  
+Dans tout notre village, il n'a point son égal :  
+Mais convenez aussi qu'il est un peu brutal.  
+
+    LE BAILLY.
+Allez, ne craignez rien, je saurai le réduire,  
+Reposez-vous, sur moi, ce mot doit vous suffire ;  
+Je vais trouver Constance, et dans le même temps,  
+À mon coquin de fils parler des grosses dents.  
+
+
+## SCÈNE IV.
+
+    LA BAILLIVE À AGNÈS QUI TRAVAILLE EN TAPISSERIE.
+Agnès pour m'écouter, laissez-là votre ouvrage.  
+Eh bien ! Que dites-vous de tout ce tripotage.  
+
+    AGNÈS, D’UN AIR SIMPLE.
+Moi, Madame ?  
+
+    LA BAILLIVE.
+        Pierrot pourrait vous en conter,  
+Souvent dans votre chambre, il va vous visiter :  
+Êtes-vous sa maîtresse, ou bien sa confidente ?  
+
+    AGNÈS.
+Hélas ! Je suis, Madame, une pauvre innocente,  
+Qui ne sait pas encore à quoi sert un amant.  
+
+    LA BAILLIVE.
+Vous parlez en niaise, et pensez autrement.  
+
+    AGNÈS, SOUPIRANT.
+Qui, moi ? Je ne sais pas ce que vous voulez dire.  
+
+    LA BAILLIVE.
+Vous soupirez je crois ?  
+
+    AGNÈS.
+        Non, c'est que je respire.  
+
+    LA BAILLIVE.
+Vous appellez cela respirer ? Jour de Dieu,  
+Si quelqu'un à ma fille arrachait un cheveu,  
+C'est comme s'il osait me l'ôter à moi-même,  
+Ma Fille est mon bijou, je la chéris, je l'aime ;  
+Est-il rien de si beau que cette fille-là ?  
+Sitôt qu'elle paraît, chacun dit... la voilà.  
+Qu'elle vienne à sourire, ou tourner la prunelle,  
+On entend soupirer tout le monde autour d'elle ;  
+Et cependant je vois qu'on la méprise ici ;  
+Mort de ma vie, il faut éclaircir tout ceci,  
+Chargez-vous de ce soin, entendez-vous, ma mie ?  
+Sachez par qui ma fille est aujourd'hui trahie,  
+Apprenez-moi sur qui doivent tomber mes coups,  
+Découvrez sa rivale, ou je m'en prends à vous.  
+Elle s'en va.
+
+
+
+## SCÈNE V.
+
+    AGNÈS, SEUL.
+Ah Ciel ! Qu'ai-je entendu ? Quelle affreuse tempête,  
+Si j'en crois ses transports, va fondre sur ma tête ?  
+Heureuse en ce péril qui me glace d'effroi,  
+Si je n'avais encor à craindre que pour moi.  
+
+
+## SCÈNE VI. Pierrot, Agnès.
+
+    AGNÈS.
+Venez mon cher Pierrot.  
+
+    PIERROT.
+        Je vous vois toute émue,  
+Qu'avez-vous belle Agnès ?  
+
+    AGNÈS.
+        Votre Agnès est perdue,  
+On vous fait épouser Constance dès ce jour.  
+
+    PIERROT.
+Et que deviendra donc chère Agnès notre amour ?  
+
+    AGNÈS.
+Ô trop funeste amour ! Avant que de m'y rendre,  
+Vous savez quels efforts je fis pour m'en défendre.  
+Un jour dans ma Cuisine entré secrètement,  
+Vous vintes me conter votre amoureux tourment ;  
+Je vous priai cent fois de me laisser tranquille,  
+Vous n'écoutâtes point ma prière inutile ;  
+Et me serrant les mains, embrassant mes genoux?  
+Vous fîtes éclater les transports les plus doux.  
+Mais piqué des rigueurs de ma vertu mutine,  
+Vous prîtes ausitôt le couteau de cuisine ;  
+Je craignis pour vos jours, j'arrêtai vôtre main,  
+Et je vous empêchai de vous percer le sein.  
+Vous jettâtes le trouble, et l'effroi dans mon âme,  
+Dès ce même moment je devins votre femme,  
+Mais hélas, tout conspire aujourd'hui contre nous !  
+On veut, mon cher Pierrot, briser des noeuds si doux.  
+Votre marâtre enfin que la rage transporte,  
+Me soupçonne déjà...  
+
+    PIERROT.
+        Que le diable l'emporte ;  
+Mais n'appréhendez rien, je saurai vous venger,  
+Si quelqu'un dans ces lieux ose vous outrager :  
+Calmez-vous, belle Agnès, bannissez les alarmes ,  
+Vos yeux ne sont point faits pour répandre des larmes,  
+Ils doivent s'occuper à des emplois plus doux.  
+Vous fîtes tout pour moi, je ferai tout pour vous.  
+
+    AGNÈS.
+Point de révolte au moins ; mon fils, qu'il vous, souvienne,  
+Que lorsque je reçus votre main, vous la mienne,  
+Avant que nous coucher, vous me promîtes bien ,  
+Que jamais contre un père...  
+
+    PIERROT.
+        Ah ! Je ne promis rien,  
+Que diable dans la tête, allez-vous donc vous mettre ?  
+Ne pouvant rien prévoir, que pouvais-je promettre ?  
+Savais-je que mon père , à soixante et quinze-ans,  
+Reprendrait une femme avec de grands enfants ?  
+Et que de cette femme on m'offrirait la fille,  
+Pour ne faire par là qu'une seule famille ?  
+Mais pour ne rien risquer dans des périls si grands,  
+Fuyez, fuyez, Agnès, avec nos chers enfants ;  
+Ces gages précieux de notre amour parfaite.  
+
+    AGNÈS.
+Non, non, je ne dois point songer à la retraite,  
+Nous découvririons tout, laissez-moi dans ces lieux ;  
+Mais ne nous voyons plus.  
+
+    PIERROT.
+        Chere Agnès, je le veux,  
+Il faut vous obéir, mon père va m'entendre,  
+Cachez bien l'interêt que vous y pouvez prendre,  
+Pour quelque temps encor, dissimulons nos feux ;  
+Et faisons sur nos coeurs cet effort généreux ;  
+Mais du moins baise-moi, la chose m'est permise,  
+C'est une liberté que l'hymen autorise.  
+
+    AGNÈS.
+Que me demandez-vous ?  
+
+    PIERROT.
+        Rien qu'un petit baiser,  
+Cette faveur, Agnès, ne peut se refuser,  
+C'est tout ce qu'a présent mon amour se propose,  
+Je me garderai bien d'exiger autre chose.  
+
+    AGNÈS.
+Hé bien soit... Mais j'ai peine à sortir de ce lieu,  
+Nous nous disons peut-être un éternel adieu.  
+Elle s'en va.
+
+
+
+## SCÈNE VII.
+
+    PIERROT, SEUL.
+Attends ici mon père, il croira me confondre,  
+Mais à bon chat, bon rat, je saurai lui répondre :  
+Il vient. Constance ici devait suivre ses pas,  
+Mais elle fera mieux de n'y paraître pas ;  
+La belle vainement chercherait à me plaire,  
+Sa présence en ces lieux n'est pas fort nécessaire.  
+
+
+## SCÈNE VIII. La Bailly, Pierrot.
+
+    LE BAILLY.
+Je vous cherchais, mon fils, et je vous trouve ici.  
+
+    PIERROT, D’UN AIR FIER.
+À la bonne heure.  
+
+    LE BAILLY.
+        Enfin, mon cher fils, Dieu merci,  
+Vous avez comme il faut imité mon adresse,  
+Aux jeux où l'on m'a vu briller dans ma jeunesse :  
+Il s'agit de savoir, si dans d'autres exploits,   [6]
+Où l'on sait que j'étais un compère autrefois,  
+Vous pourrez dignement égaler votre père :  
+Je veux vous marier à Constance, et j'espère...  
+Vous secouez la tête, expliquez-vous.  
+
+    PIERROT.
+        Hélas !  
+Sans que je dise rien, ne m'entendez-vous pas ?  
+
+    LE BAILLY.
+Ah ! J'entends, votre coeur ne ressent rien pour elle ?  
+Elle n'est pas peut-être à vos yeux assez belle.  
+Est-ce au fils d'un Bailly de regarder aux traits ?  
+Il ne doit consulter que ses seuls intérêts,  
+Constance, en l'épousant, va vous mettre à votre aise ;  
+Enfin, que sa beauté vous plaise, ou vous déplaise,  
+Vous serez son époux, j'ai résolu cela,  
+J'ai donné ma parole.  
+
+    PIERROT.
+        Hé bien, retirez-la.  
+Quoi ! Le fils d'un Bailly n'aura pas l'avantage,  
+Qu'on ne refuse pas au dernier du village ?  
+On veut jusqu'à ce point contraindre mon ardeur,  
+Et je ne pourrai pas disposer de mon coeur ?  
+
+    LE BAILLY.
+Nous avons un dédit d'une assez grosse somme,  
+Et si de le payer, il faut que l'on me somme...  
+
+    PIERROT.
+Faut-il à vos genoux me jetter ? M'y voila.  
+
+    LE BAILLY. [7]
+Tarare... Il s'agit bien maintenant de cela,  
+Il s'agit de payer, ou tenir ma promesse,   [8]
+Sur moi je ne veux point attirer tout Gonnesse.  
+
+    PIERROT. [9]
+Nos manants, s'il le faut, vous prêteront la main :  
+Le Bailly d'un village en est le souverain :  
+Des Mitrons peuvent-ils vous causer tant d'alarmes ?  
+Dites un mot, je suis prêt à prendre les armes.  
+Le plus affreux danger ne peut m'intimider,  
+Dans un péril pressant, il faut tout hasarder,  
+Rien ne me fait trembler, j'ai du coeur, de l'adresse  
+J'ose dès à présent défier tout Gonnesse.  
+En vain ses habitants s'armeraient contre vous,  
+C'est assez de moi seul pour les abattre tous.  
+
+    LE BAILLY.
+À cet emportement je ferai la réponse,  
+Que fit en pareil cas à son fils Don Alphonse.  
+Vos fureurs ne font pas une règle pour moi,   [10]
+Vous parlez, en Soldat, je dois agir en Roi.  
+
+    PIERROT.
+À quoi bon me citer ce beau vers de Corneille,  
+Dont vous avez cent fois étourdi mon oreille.  
+
+    LE BAILLY.
+Je crois que ce coquin se moque encor de moi !  
+Oh ! vous m'obéïrez, ou vous direz pourquoi.  
+
+    PIERROT.
+Non, je ne ferai point ce qu'on veut que je fasse.  
+
+    LE BAILLY.
+Vous le ferez, ou bien du logis je vous chasse t  
+En un mot, je le veux.  
+
+    PIERROT.
+        Et moi ce que je suis  
+Ne me permet aussi qu'un mot... je ne le puis.  
+
+
+## SCÈNE IX. La Baillive, Le Bailly, Pierrot, Agnès.
+
+    LA BAILLIVE.
+Mon mari, pour le coup j'ai découvert l'affaire,  
+Ne vous étonnez plus qu'à vos désirs contraire,  
+Pour ma fille, Pierrot ne montre que mépris,  
+Voilà l'indigne objet dont son coeur est épris.  
+En montrant Agnès.
+
+
+    LE BAILLY.
+Ma Servante !  
+
+    AGNÈS.
+        Ah ! Bon Dieu, moi! l'innocence même !  
+
+    PIERROT.
+Ne désavouez point, Agnès, que je vous aime :  
+À quoi bon ces détours ? Il n'en faut plus chercher,  
+Mon amour est trop grand pour le pouvoir cacher.  
+
+    LE BAILLY, À AGNÈS. [11]
+Cela serait-il vrai petite mijaurée,  
+Qui faites devant nous la sotte et la sucrée ?  
+
+    PIERROT.
+Ah ! Faites sur moi seul, tomber votre courroux,  
+Agnès n'est point coupable, et jamais...  
+
+    LE BAILLY.
+        Taisez-vous,  
+Ma femme, entre vos mains, je remets la coquine,  
+Allez la renfermer, à clef, dans la cuisine.  
+
+    PIERROT.
+Ah ! Quel ordre barbare ! Agnès, ma chere Agnès,  
+Quoi ! Je ne verrais plus de si charmans attraits !  
+Je ne permettrai point qu'elle me soit ravie,  
+Et je soufrirais moins si l'on m'ôtait la vie.  
+
+    LE BAILLY.
+Vous ne la verrez plus.  
+
+    PIERROT.
+        Ah ! Mon Père, arrêtez ;  
+En quelles mains, hélas ! La laissez-vous ?  
+
+    LE BAILLY.
+Sortez.  
+
+    PIERROT.
+        Quelqu'un va le payer, ou je me donne au diable.  
+Je sors ; mais je crains bien de revenir coupable.  
+
+    LE BAILLY, À SA FEMME.
+Avertissez nos gens de l'observer de près,  
+Tandis que je m'en vais entretenir Agnès.  
+
+
+## SCÈNE X. Le Bailly, Agnès.
+
+    LE BAILLY.
+Oh ça, ma chère Agnès, parlons sans nous contraindre  
+Quelque sujet que j'aie aujourd'hui de me plaindre,  
+Je vous aime, et je veux vous prendre par douceur.  
+Mon fils nourrit pour vous une coupable ardeur,  
+Tâchez de l'en guérir. Vous savez que Constance,  
+Doit faire, avec Pierrot, une étroite alliance,  
+Avec un bon garçon, je veux vous marier,  
+Feu votre aïeul était mon père nourricier ;  
+Le bonhomme pour moi signalant sa tendresse,  
+Avec un soin extrême éleva ma jeunesse ;  
+Il était l'écrivain du Procureur Fiscal,  
+Et dans tous les procès son faux témoin banal :  
+Aussi bien que son maître, il savait la Pratique,   [12]
+De la chicane enfin, il m'apprit la rubrique :  
+Et comment, sans aller voler sur le chemin,  
+On pouvait s'emparer du bien de son voisin.  
+Mais il m'apprit encor, ce vieillard respectable,  
+Qu'un père pour son fils doit être inexorable.  
+Qu'il doit le châtier, et ne ménager rien,  
+Surtout, quand il épouse une fille sans bien,  
+Et que l'on ne peut trop punir une servante,  
+Quand elle est assez vaine, assez impertinente,  
+Pour oser s'amuser au fils de la maison.  
+De votre sage aïeul, telle fut la leçon ;  
+Chere Agnès, et pour prix de ma reconnaissance,  
+Vos services auront bientôt leur récompense.   [13]
+Arlequin, le bedeau, peut vous donner un rang,  
+Vous savez qu'il vous aime, et qu'il est de mon sang :  
+À l'épouser demain, chere Agnès, soyez prête,  
+Je m'oblige à vous faire un trousseau fort honnête.  
+
+    AGNÈS.
+Pourrais-je me résoudre à lui donner ma foi,  
+Quand je ne l'aime point ?  
+
+    LE BAILLY.
+        Agnès, écoutez-moi.  
+Avec ce mien parent, si l'hymen vous engage,  
+Moi-même je ferai les frais du mariage..  
+Choisissez, d'un quartier de vignes, ou de pré,  
+Foi de Bailly d'honneur, je vous le donnerai.  
+Votre aïeul m'est si cher, j'honnore tant sa cendre,  
+Qu'il n'est rien que de moi vous ne deviez attendre :  
+Pour faire voir à tous, que le dernier vassal  
+Qui forme les Baillis est presque leur égal,  
+
+    AGNÈS.
+Le bedeau, je l'avoue, est homme de mérite,  
+Mais de cette faveur, de bon coeur je vous quitte,  
+C'est répondre fort mal à mes intentions,  
+Que de payer ainsi vos obligations.  
+En faveur d'un aïeul votre reconnaissance  
+Éclate vainement, et je vous en dispense ;  
+Car si c'est à ce prix que vous vous aquittez,  
+Je me passerai bien de toutes vos bontés.  
+
+    LE BAILLY.
+Qu'entends-je ! À ce discours, je ne puis rien comprendre :  
+À la main de mon fils, oseriez-vous prétendre ?  
+Ah ! Si je le savais, je vous ferais bien voir,   [14]
+Que ce n'est point en vain qu'on brave mon pouvoir.  
+Mais quoi y vous rougissez, et vous baissez la vue...  
+Agnès, c'est pour le coup que vous seriez perdue ;  
+Et je me servirais de mon autorité,  
+Pour vous mettre bientôt en lieu de sûreté.  
+
+
+## SCÈNE XI. La Baillive, Le Bailly, Agnès.
+
+    LA BAILLIVE.
+Ah ! Vraiment mon mari, voici bien du tapage,  
+Votre fils animé de fureur et de rage,  
+Malgré votre défense a forcé la maison ;  
+Nos gens qu'il a chargés de cent coups de bâton,  
+N'ont pu lui résister, il a su les abattre,  
+Et pour ravoir Agnès, il fait le diable à quatre.  
+
+    LE BAILLY.
+Malheur que je n'ai pu prévoir, ni prévenir !  
+Mais tout coup vaille ; allons... me perdre... ou le punir.  
+
+
+## SCÈNE XII. La Baillive, Agnès.
+
+    LA BAILLIVE.
+Vous vous faites aimer d'une étrange manière,  
+Et voilà bien du train pour une cuisinière.  
+Le beau charivari que vous causez chez nous !  
+Vous avez tant d'attraits, que pour l'amour de vous,  
+Votre galant ici fait naître le désordre,  
+Et nous donne aujourd'hui bien du fil à retordre.  
+
+    AGNÈS.
+N'insultez pas du moins, Madame, à ma douleur,  
+Et lorsque de Pierrot, je prévois le malheur,  
+Bien loin d'être insensible au chagrin qui m'accable,  
+Laissez-moi le plaisir de le pleurer coupable.  
+
+    LA BAILLIVE.
+Vous avez animé ce petit libertin,  
+Agnés, votre malheur n'en est que plus certain,  
+Puisque vous révoltez le fils contre le père,  
+Redoutez les effets de ma juste colère.  
+
+    AGNÈS.
+Madame, puis-je craindre un impuissant courroux,  
+Quand je suis aujourd'hui plus à plaindre que vous.  
+Dans ce qu'a fait Pierrot, que trouvez-vous d'étrange ?  
+
+    LA BAILLIVE.
+Je crève de dépit, et la main me démange...  
+Mais son galant paraît ; qui le conduit ici ?  
+Quoiqu'il en soit, sachons ce que fait le Bailly.  
+
+
+## SCÈNE XIII. Pierrot l'épée à la main, Agnès.
+
+    PIERROT.
+Grace au ciel, escorté d'une troupe mutine,  
+Je puis vous dérober au sort qu'on vous destine.  
+De ces funestes lieux, ma chère, éloignons-nous.  
+Venez Agnès, venez, et suivez votre époux.  
+
+    AGNÈS.
+Qu'avez-vous fait, cruel, quel horrible tapage !  
+Ah ! Que je me repens de notre mariage !  
+Voilà donc tout le fruit d'un funeste lien ?  
+Votre crime aujourd'hui m'éclaire sur le mien,  
+Contre nous vous avez ranimé votre père,  
+Nous serons les objets de sa juste colère ;  
+Qu'allons-nous devenir , hélas ! Ce sont vos rats  
+Qui me jettent, cruel, dans tout cet embarras,  
+
+    PIERROT.
+Moquons-nous, de cela, prenons tous deux la fuite,  
+Nous pourrons de mon père, éviter la poursuite,  
+Hâtez-vous ; suivez-moi.  
+
+    AGNÈS.
+        Non, ne l'espérez pas.  
+Pierrot, je crains le crime, et non pas le trépas :  
+Cette indigne action irrite ma colère,  
+Allez, dès ce moment appaiser votre père,  
+Et sans pousser plus loin vos transports furieux,  
+Méritez votre grâce, ou mourrez à ses yeux ;  
+Je soufrirai bien moins du destin qui m'accable,  
+À vous perdre innocent, qu'à vous sauver coupable.  
+
+    PIERROT.
+Les plaisants sentiments, vous avez l'air naïf,  
+Ainsi je vous plairais beaucoup plus mort que vif,  
+Je vous suis obligé de votre courtoisie ,  
+Mais, mon père paraît, vous le voyez, ma mie,  
+Si nous étions sortis, il arrivait trop tard.  
+
+
+## SCÈNE XIV. Le Billy, La Baillive, Agnès, Pierrot.
+
+    LE BAILLY, SANS VOIR PIERROT.
+Où pourrais-je trouver mon fripon, mon pendard !  
+Si je l'attrape, il va payer pour tous les autres ;  
+Ah ! Ah ! Le beau garçon, vous faites donc des vôtres ?  
+Coquin, rends ton épée ou m'en perce le sein ;  
+Viens, avance...  
+
+    PIERROT JETTANT SON ÉPÉE.
+        Ce mot l'arrache de ma main,  
+Il me ferait beau voir vous pousser une botte,  
+Je voulais enlever mon Agnès, mais la sotte  
+N'a pas voulu me suivre, ainsi vous voyez bien,  
+Que dans ce que j'ai fait elle ne trempe en rien,  
+C'est sur moi seul que doit tomber votre colère,  
+Agnès n'est point coupable, et je le réitère...  
+
+    LE BAILLY.
+Cesse de t'occuper de ces frivoles soins,  
+Tu la servirais mieux, en la défendant moins :  
+Je sais ce que j'en crois.  
+
+    PIERROT.
+        S'il faut qu'on la punisse,  
+Ne perdez point de temps, hâtez donc mon supplice ;  
+Sinon, vous me verrez encor plus furieux,  
+Dès demain assommer, briser tout en ces lieux.  
+Par des torrents de sang, s'il fallait les répandre,  
+J'irai venger Agnès, n'ayant pu la défendre,  
+Et je n'excepterai dans un tel désespoir,  
+Que vous seule et Constance ; adieu, jusqu'au revoir.  
+
+
+## SCÈNE XV. Le Bailly, La Baillive, Agnès, Suite.
+
+    LE BAILLY.
+Voyez-vous ce coquin, comme encor il me brave ?  
+Qu'on aille l'enfermer dans le fond de ma cave ;  
+Prévenons la fureur d'un tel emportement.  
+À la Baillive.
+
+Et vous, gardez toujours Agnès soigneusement.  
+
+
+## SCÈNE XVI.
+
+    LE BAILLY, SEUL.
+Quelques réflexions sont ici nécessaires,  
+Pour balancer les droits des baillis et des pères.  
+Eh bien ! Bailly, tu dois punir un criminel !  
+Quoi, Père, pourras-tu te montrer si cruels ?  
+Bailly, point de quartier, exerce la justice...  
+Père, ne permets pas que ton cher fils périsse.  
+Non, je le punirai, c'est l'arrêt du Bailli...  
+Oh ! Non pas, s'il vous plaît, vous en aurez menti.  
+Punissons... pardonnons... soyons dur... soyons tendre.  
+Hélas ! Dans cet état, quel conseil dois-je prendre !   [15]
+Faites entrer les Grands ; le Marguiller d'honneur,  
+Le bedeau mon parent, et le carillonneur,  
+Avec le magister ; dans une telle affaire ,  
+L'avis de ces messieurs me sera nécessaire.  
+
+
+## SCÈNE XVII. Le Magister, Arlequin Bedeau, Le Marguiler, La Carillonneur, Le Bailly, après qu'ils se sont assis.
+
+    LE BAILLY.
+Je vois à ce soupir, à ces pleurs, ce sanglot,  
+Que vous êtes instruits des frasques de Pierrot :  
+Que les enfants gâtés causent de maux aux pères !  
+Vous êtes mes parents, mes amis, mes compères,  
+De grâce, honorez-moi, de vos sages avis,  
+Il s'agit de punir ou d'absoudre mon fils.  
+Chaque jour à mes yeux son insolence augmente ;  
+Et non content d'avoir débauché ma servante  
+Il a presque assommé mon clerc, mon jardinier.  
+À qui donc désormais pourrais-je me fier ?  
+Un fils pour qui j'ai fait éclater ma tendresse,  
+Ose pousser si loin sa fureur vengeresse !  
+J'en dois faire un exemple, il m'a désobéi,   [16]
+Je le ferai partir pour le Mississipi ;  
+Et me laissant guider par ma juste colère,   [17]
+Je mettrai ma servante à la Salpétriere.  
+Vous, Arlequin, parlez.  
+
+    ARLEQUIN.
+        On ne saurait nier  
+Que toujours le bedeau doit marcher le premier ;  
+Mais j'attendais, Bailly, pour rompre le silence,  
+Que votre autorité m'en donnât la licence,  
+Je vais donc vous parler sans feinte et sans détour ;  
+Vous savez, pour Agnès, jusqu'où va mon amour,  
+Et puisqu'il faut ici que tout mon coeur s'épanche,  
+Je comptais sûrement la tenir dans ma manche ;  
+Mais j'ai fort mal compté. Pour mes feux quel échec !  
+Votre fils m'a passé la plume par le bec ;  
+Et quoiqu'il soit l'auteur de mon sort déplorable,  
+Je ne puis le haïr, car je suis un bon diable.  
+Vous vous plaignez qu'il a forcé votre maison ;  
+S'il vous avait donné quelques coups de bâton,  
+Il aurait plus de tort ; excusez la jeunesse  
+Il ne venait ici, qu'enlever sa maîtresse :  
+Et quoique l'action vous semble un attentat,  
+Je n'y vois pas de quoi faire fesser un chat.  
+Rendez-lui son Agnès ; s'il le faut qu'il l'épouse ;  
+Ce mot sort à regret d'une bouche jalouse,  
+Mais, puisque vous voulez enfin le châtier,  
+Le meilleur châtiment est de le marier ;  
+Il en enragera, dans quatre jours peut-être,   [18]
+Sa femme rabattra ses airs de petit maître,  
+Pour ranger la jeunesse, il n'est que ce moyen,  
+Mon avis est fort bon, le vôtre ne vaut rien.  
+Nous avons de l'esprit, et rien ne s'y dérobé,  
+Nous ne sommes pas sots, nous autres gens de robe.  
+
+    LE BAILLY.
+Magister, c'est à vous de dire votre avis.  
+
+    LE MAGISTER.
+Il le faut avouer, j'estime votre fils,  
+Son amitié pour moi ne s'est point ralentie,  
+Et je ne puis nier que je lui dois la vie.  
+Un jour, que j'étais ivre, il m'en souvient toujours,  
+Ce généreux garçon me prêta son secours.  
+Accablé de sommeil, étendu dans la place,  
+Moi-même j'eusse été l'auteur de ma disgrâce ;  
+Une charette allait me passer sur le corps,  
+Quand pour me relever il fait plusieurs efforts,  
+Me charge sur son dos, fier de son entreprise,   [19]
+Comme Enée autrefois, porta son père Anchise,  
+Pourtant, quoique sensible aux bontés de ce fils,  
+Si j'osais m'expliquer...  
+
+    LE BAILLY.
+    Achevez.  
+
+    LE MAGISTER.
+        J'obéis.  
+Si vous ne punissez une telle insolence,  
+Jamais vous ne serez chez vous en assurance :  
+Puisque vous êtes Juge, il faut le condamner,   [20]
+Et vous ferez fort bien de le moriginer.  
+Son fort me fait pitié, j'en pleure, j'en soupire ;  
+Mais aux ordres d'un père, un enfant doit souscrire.  
+C'est un petit mutin ; quoi qu'il m'ait bien servi,  
+Je conclus avec vous, pour le Mississpi.  
+
+    LE BAILLY, AUX AUTRES CONSEILLERS.
+Vous ne me dites rien, vous gardez le silence,  
+Messieurs, ah ! Je sais trop ce qu'il faut que j'en pense :  
+Qui ne dit mot consent. Je condamne mon fils,  
+Je ne demande point là-dessus vos avis,  
+La chose est inutile, et n'en vaut pas la peine,  
+Car vous n'êtes ici que pour orner la scène.  
+
+
+## SCÈNE XVIII.
+
+    LE BAILLY, SEUL.
+Mon fils va donc partir pour le Mississipi ;  
+Mais que deviendras-tu quand il sera parti ?  
+Bailly trop malheureux ? Te voila sans lignée !  
+Tu n'en peux espérer d'un second hyménée ?  
+Ta race va finir, quel malheur pour l'État !  
+Dois-je immoler un fils aux clauses d'un contrat ?  
+Chacun avec raison dira que je radotte,  
+Et l'on m'enrolera bientôt dans la calotte.  
+
+
+## SCÈNE XIX. Un Paysan, Le Bailly.
+
+    LE BAILLY AU PAYSAN.
+Que me veut-on ?  
+
+    LE PAYSAN.
+        Agnès demande à vous parler :  
+Elle a quelques secrets, dit-elle, à révéler.  
+
+    LE BAILLY.
+Qu'elle entre.  
+
+
+## SCÈNE XX. Agnès, Le Bailly, Un Archer.
+
+    LE BAILLY.
+        Approchez-vous, venez la belle fille,  
+Qui mettez le désordre en toute ma famille.  
+
+    AGNÈS.
+Votre courroux est juste, et loin de vous blâmer,  
+Je sais que contre moi tout doit vous animer ;  
+Je ne résiste point au coup qui me menace,  
+Mais daignez m'accorder une derniere grâce.  
+À mes voeux empressés ne la refusez pas :  
+Ordonnez à l'Archer qui suit ici mes pas,  
+Qu'il fasse exactement ce que j'ai su lui dire,  
+C'est la seule faveur à laquelle j'aspire,  
+Dans l'état où je fuis j'ose la demander.  
+
+    LE BAILLY.
+Faites ce qu'elle veut.  
+
+    AGNÈS, À L’ARCHER.
+        Revenez sans tarder.  
+Enfin je vais parler, rien ne doit me contraindre,  
+De toutes vos fureurs je n'ai plus rien à craindre ;  
+Bailly, que la pitié ne vous retienne plus,  
+Tous mes crimes encor ne vous sont pas connus.  
+Armez contre mes jours votre pouvoir suprême,  
+Pour votre aimable fils, ma tendresse est extrême ;  
+Et loin de redouter, votre juste courroux,  
+Je vous dirai bien plus, Pierrot est mon époux.  
+
+    LE BAILLY.
+Votre époux ! Ciel, qu'entends-je ! Ah ! Friponne, ah ! Coquine !  
+Avez-vous oublié votre basse origine ?  
+Mais pourquoi m'avouer si tard un tel secret,  
+Dès le commencement, vous deviez l'avoir fait,  
+Vous dire de mon fils épouse, et non maîtresse,  
+Mais vous avez voulu faire durer la pièce ;  
+Pour étaler ici tous ces beaux sentiments,  
+Que j'ai lus et relus cent fois dans les Romans.  
+Mon fils en pâtira...  
+
+    AGNÈS.
+        Suivez-donc vos maximes,  
+On vous amene encor de nouvelles victimes,  
+Voici du fruit nouveau qui vous est présenté ;  
+Voyons, si d'un Bailly toute la dureté,  
+Pourra...  
+
+    LE BAILLY.
+        Dans ce moment, ma fureur redoublée...  
+Mais que vois-je ?  
+
+
+## SCÈNE XXI. Quatre enfants amenés par une Nourrice, Agnès, Le Bailly, Un Archer.
+
+    AGNÈS.
+        Venez, famille désolée,  
+Venez, pauvres enfants, qu'on veut rendre orphelins ;  
+Venez faire parler vos soupirs enfantins.  
+Approchez-vous, mes fils, voilà votre grand-père,  
+Embrassez ses genoux, apaisez sa colère.  
+
+    LES ENFANTS, GENOUX DEVANT LE BAILLY.
+Mon papa, mon papa, mon papa, mon papa.  
+
+    LE BAILLY,.
+Et d'au diable a-t-on fait sortir ces marmots-là ?  
+Ai-je dans ma maison des chambres inconnues ?  
+Oh ! Pour le coup il faut qu'ils soient tombés des nues,  
+Ont-ils pu parvenir à l'âge où les voilà,  
+Sans qu'aucun du logis ait rien su de cela ?  
+
+    AGNÈS.
+N'y voyez point mes traits, n'y voyez que les vôtres  
+Ils ignorent leur père, ainsi que beaucoup d'autres :  
+Ces gages précieux que j'ose vous offrir,  
+Loin de vous irriter devraient vous attendrir.  
+
+    LE BAILLY.
+Pour prouver un hymen, petite impertinente,  
+Vous montrez des enfants ? La preuve en est plaisante.  
+
+    AGNÈS LUI MONTRANT SON CONTRAT DE MARIAGE.
+Vous me faites rougir, et c'est trop m'insulter,  
+En voyant ce contrat en pourrez-vous douter ?  
+
+    LE BAILLY, APRÈS L’AVOIR EXAMINÉ.
+Ah ! Je ne dis plus rien, et cet acte authentique  
+Imposera du moins silence à la critique.  
+En regardant les enfants.
+
+Qu'ils sont jolis gentils ! J'en fuis tout réjoui,  
+Ils ressemblent au père, on dirait que c'est lui.  
+Il les embrasse.
+
+À toute ma tendresse enfin, je m'abandonne.  
+À l'Archer.
+
+Faites venir mon fils, allez, je lui pardonne.  
+À Agnès.
+
+C'en est fait, je me rends, et Pierrot est à vous,  
+Aimez plus que jamais, Agnès , ce cher époux :  
+Ma femme grondera, fera bien la mauvaise,  
+Mais je m'en moque.  
+
+    AGNÈS.
+        Hélas ! Que vous me comblez d'aise !  
+Mais d'où vient tout à coup la douleur que je sens ?  
+Le coeur me bat, je tremble... Éloignez mes enfants.  
+
+    LE BAILLY.
+Quels transports imprévus ! Quelle mouche vous pique ?  
+Chère Agnès, qu'avez-vous ?  
+
+    AGNÈS, EN CRIANT.
+        Seigneur, j'ai la colique.  
+
+    LE BAILLY.
+Ah ! Je me doute bien d'où peut venir cela,  
+Ma carogne de femme a joué ce trait-là ;  
+Quel temps a-t-elle pris pour un coup de la sorte ?  
+Ma foi si j'en sais rien, que le diable m'emporte ;  
+Et de m'en informer je prends peu de souci,  
+Non plus que de chercher remède à tout ceci.  
+
+
+## SCÈNE XXII. Pierrot sans voir Agnès, Le Bailly, Agnès évanouie, Arlequin, La Nourrice.
+
+    PIERROT.
+Souffrez qu'à vos genoux mon père, je déploie,  
+Tout ce qu'en ce moment, mon coeur ressent de joie.  
+Vous me rendez Agnès.  
+
+    LE BAILLY.
+        Ah ! Mon pauvre garçon,  
+Je vous la rends ici d'une étrange façon ;  
+Et nous avons compté tous les deux sans notre hôte ;  
+Votre Agnès va mourir... mais ce n'est pas ma faute.  
+
+    PIERROT.
+Ah ! Voilà de ces coups, où l'on ne s'attend pas,  
+Quoi ! Faillait il sa mort pour sortir d'embarras ?  
+Agnès, ma chère Agnès, pour jamais m'est ravie,  
+Ce fer m'est donc rendu pour m'arracher la vie.  
+Il veut se frapper.
+
+
+    LE BAILLY, LUI RETENANT LA MAIN.
+Ah ! Mon fils, arrêtez...  
+
+    PIERROT.
+        Pour quoi me secourir ?  
+Laissez-vous voir, mon père, en me laissant mourir.  
+
+    LE BAILLY. [21]
+Quel galimatias ! Morbleu, quelle chimère !  
+Laissant mourir un fils, se montre-t-on son père ?  
+Je veux que vous viviez.  
+
+    PIERROT.
+        Et si je ne meurs pas,  
+Que deviendra Constance avec tous ses appas ?  
+Faudra-t-il l'épouser, s'en retournera-t-elle ?  
+Vaus m'irez là-dessus chercher encor querelle.  
+
+    AGNÈS.
+Adieu mon cher époux, c'en est fait, je me meurs,  
+Venez à mes genoux étaler vos douleurs.  
+
+    PIERROT.
+Chere Agnès vous mourez : ô rigueur inhumaine.  
+
+    ARLEQUIN.
+Tirons tous nos mouchoirs, voici la belle scène.  
+
+    PIERROT, AUX GENOUX D’AGNÈS.
+Pleurez, pleurez mes yeux, et fondez-vous en eau,  
+Puisque ma chère Agnès va descendre au tombeau,  
+Hélas ! Si l'art eut pû rendre Agnès à la vie,  
+Que de gens en auroient ici l'âme ravie ;  
+Le Spectateur n'eût pas été si consterné,  
+Et sur la bonne bouche, il s'en fût retourné :  
+Il le faut avouer, c'était un coup de maître ;  
+Mais ce qu'on n'a point fait, je le ferai peut-être,  
+Telle que l'on croit morte, ou près du monument,  
+Revient souvent de loin, à la voix d'un amant.  
+Revivez, chère Agnés, c'est moi qui vous en prie...   [22]
+Tenez, voilà de l'eau de la Reine d'Hongrie.  
+
+    AGNÈS.
+Quelle voix me rapelle , et m'arrache au trépas.  
+
+    PIERROT.
+Hé bien, qu'avais-je dit ? Ne la voilà-t-il pas ?  
+Ah ! Que je fuis content ! Puisqu'Agnés n'est pas morte,  
+Chantons, cabriolions, et de la bonne forte.  
+Les paysans et paysannes viennent témoigner leur joie, et forment un divertissement.
+
+
+-------
+
+
+[1] Cette pièce est la parodie d'Inès de Castro de La Motte, tragédie en 5 actes, jouée pour la première fois le 6 avril 1723.
+
+[2] Dans Inès de Castro, le rôle du Baillif est celui de Alphonse, roi du Portugal.
+
+[3] Le premier hémistiche du vers 1 est identique dans les deux pièces.
+
+[4] La Baillive a comme équivalent la Reine dans la pièce parodiée.
+
+[5] Crouton est la parodie de l'Ambassadeur du roi de Castille.
+
+[6] Compère : se dit en discours ordinaire, de ceux qui sont bons amis et famliers ensemble. La plupart des bourgeois se nomment compères et rien n'est plus ordinaire entre eux que ces termes d'alliance. F
+
+[7] Tarare : mot burlesque pour dire quand on s'en sert, qu'on se moque de se que l'on dit. F
+
+[8] Gonnesse : ville à 15 Km au nord-est de Paris.
+
+[9] Manant : paysan, habitant dans un village, ou en métairie à la campagne. F
+
+[10] le vers 188 est le vers 660 du Cid de Corneille, acte II, sc. 6, Don Fernand, et le vers 446 d'Ines de Castro de La Motte, Alphonse, Acte II, sc. 2 (1723).
+
+[11] Mijaurée : terme populaire et injurieux, que les femmes disent à Paris, quand elles se querellent. F
+
+[12] Chicane : abus de procédures judiciaires, quand on s'en sert pour délayer, tromper ou surprendre les juges ou les parties. Se dit encore de toutes les dipiutes et contestations qui se font dans les affaires et négociations civiles. F
+
+[13] Bedeau : c'était autrefois un sergent dans les justices subalternes ; et le sergents royaux, quand ils plaident contre eux, les qualifient encore de ce nom. En efet, il servent de porte-verges dans les églises des juridictions ecclésiastiques, comme on voit encore à Saint-Germain-des-Prés. F
+
+[14] "Brave mon pouvoir", voir le Comte d'Essex de Thomas Corneille (1678), vers 739.
+
+[15] Marguillier : celui qui a l'administration temporelle d'une église, d'une paroisse, qui a soin de la fabrique et de l'oeuvre. F
+
+[16] Mississipi : au XVIIIème siècle, colonie française d'Amérique du Nord mais aussi fleuve des Etats-Unis.
+
+[17] Salpétrière : au XVIIIème siècle, immense hospice pour femmes agées, infirmes et folles B, au XXIème siècle, grand hôpital parisien situé près de la Gare d'Austerlitz.
+
+[18] Petit maître : Fig. et familièrement. Petit-maître, jeune homme qui a de la recherche dans sa parure, et un ton avantageux avec les femmes. L
+
+[19] Enée et Anchise : personnages de l'Illiade d'Homère qui fuirent Troie après sa destruction par les grecs.
+
+[20] Morigéner : corriger ; instruire, former aux bonnes moeurs. Cux qui disent moriginer parlent mal. F
+
+[21] Galimatias : discours obscur, et embrouillé, où on ne comprend rien, où les paroles sont mises confusément, et sans ordre ; et où il n'y a rien de naturel. F
+
+[22] Eau de la reine de Hongrie : est une distillation qui se fait au bain de sable des fleurs de romarin mondées de leurs calices sans aucune partie de l'herbe, dans de l'esprit de vin bien rectifié. F ce parfum renferme : romarin, lavande, berga, jasmin, cirse, ambre.

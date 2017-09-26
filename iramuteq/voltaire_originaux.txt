@@ -1,0 +1,2494 @@
+
+
+**** *book_ *id_I01 *act_I *date_1732
+
+-*who_lechevalier
+Nuit-Blanche !
+
+-*who_nuitblanche
+Monsieur ?
+
+-*who_lechevalier
+N'est-ce point ici la maison ?
+
+-*who_nuitblanche
+Je crois que nous y voici.
+Nous sommes près du jardin du président Bodin : n'est-ce pas cela que vous cherchez ?
+
+-*who_lechevalier
+Oui, c'est cela même ; mais il faut bien autre chose.
+Elle ne paraît point encore.
+
+-*who_nuitblanche
+Qui ?
+
+-*who_lechevalier
+Elle.
+
+-*who_nuitblanche
+Qui, elle ?
+
+-*who_lechevalier
+Cette fille charmante.
+
+-*who_nuitblanche
+Quoi !
+Monsieur, la fille du président Bodin vous aurait déjà donné rendez-vous ?
+
+-*who_lechevalier
+Je vous trouve bien impertinent avec votre déjà il y a un mois entier que je l'aime, et qu'elle le sait ; il y a par conséquent bientôt un mois qu'elle aurait dû m'accorder cette petite faveur.
+Mais que veux-tu ? les filles s'enflamment aisément et se rendent difficilement : si c'était une dame un peu accoutumée au monde, nous nous serions peut-être déjà quittés.
+
+-*who_nuitblanche
+Eh !
+De grâce, monsieur, où avez-vous déjà fait connaissance avec cette demoiselle dont le coeur est si aisé, et l'accès si difficile ?
+
+-*who_lechevalier
+Où je l'ai vue ?
+Partout, à l'opéra, au concert, à la comédie, enfin en tous les lieux où les femmes vont pour être lorgnées, et les hommes perdre leur temps.
+J'ai gagné sa suivante de la façon dont on vient à bout de tout, avec de l'argent : c'était à elle que tu portais toutes mes lettres, sans la connaître.
+Enfin, après bien des prières et des refus, elle consent à me parler ce soir.
+Les fenêtres de sa chambre donnent sur le jardin.
+On ouvre, avançons.
+
+**** *book_ *id_I02 *act_I *date_1732
+
+-*who_fanchon
+Est-ce vous, Monsieur le Chevalier ?
+
+-*who_lechevalier
+Oui, c'est moi, mademoiselle, qui fais, comme vous voyez, l'amour à l'espagnole, et qui serais très heureux d'être traité à la française, et de dire à vos genoux que je vous adore, au lieu de vous le crier sous les fenêtres, au hasard d'être entendu d'autres que de vous.
+
+-*who_fanchon
+Cette discrétion me plaît : mais parlez-moi franchement, m'aimez-vous ?
+
+-*who_lechevalier
+Depuis un mois, je suis triste avec ceux qui sont gais ; je deviens solitaire, insupportable à mes amis et à moi-même ; je mange peu, je ne dors point : si ce n'est pas là de l'amour, c'est de la folie ; et, de façon ou d'autre, je mérite un peu de pitié.
+
+-*who_fanchon
+Je me sens toute disposée à vous plaindre ; mais si vous m'aimiez autant que vous dites, vous vous seriez déjà introduit auprès de mon père et de ma mère, et vous seriez le meilleur ami de la maison, au lieu de faire ici le pied de grue et de sauter les murs d'un jardin.
+
+-*who_lechevalier
+Hélas que ne donnerais-je point pour être admis dans la maison
+
+-*who_fanchon
+C'est votre affaire ; et, afin que vous puissiez y réussir, je vais vous faire connaître le génie des gens que vous avez à ménager.
+
+-*who_lechevalier
+De tout mon coeur, pourvu que vous commenciez par vous.
+
+-*who_fanchon
+Cela ne serait pas juste ; je sais trop ce que je dois à mes parents.
+Premièrement, mon père est un vieux président riche et bonhomme, fou de l'astrologie, où il n'entend rien.
+Ma mère est la meilleure femme du monde, folle de la médecine, où elle entend tout aussi peu : elle passe sa vie à faire et à tuer des malades.
+Ma soeur aînée est une grande créature, bien faite, folle de son mari, qui ne l'est point du tout d'elle.
+Son mari, mon beau-frère, est un soi-disant grand seigneur, fort vain, très fat, et rempli de chimères.
+Et moi, je deviendrais peut-être encore plus folle que tout cela si vous m'aimiez aussi sincèrement que vous venez de me l'assurer.
+
+-*who_lechevalier
+Ah !
+Madame !
+Que vous me donnez d'envie de figurer dans votre famille !
+Mais...
+
+-*who_fanchon
+Mais, il serait bon que vous me parlassiez un peu de la vôtre ; car je ne connais encore de vous que vos lettres.
+
+-*who_lechevalier
+Vous m'embarrassez fort : il me serait impossible de donner du ridicule à mes parents.
+
+-*who_fanchon
+Comment !
+Impossible !
+Vous n'avez donc ni père ni mère ?
+
+-*who_lechevalier
+Justement.
+
+-*who_fanchon
+Ne peut-on pas savoir au moins de quelle profession vous êtes ?
+
+-*who_lechevalier
+Je fais profession de n'en avoir aucune ; je m'en trouve bien.
+Je suis jeune, gai, honnête homme ; je joue, je bois, je fais, comme vous voyez, l'amour : on ne m'en demande pas davantage.
+Je suis assez bien venu partout ; enfin je vous aime de tout mon coeur : c'est une maladie que votre astrologue de père n'a pas prévue, et que votre bonne femme de mère ne guérira pas, et qui durera peut-être plus que vous et moi ne voudrions.
+
+-*who_fanchon
+Votre humeur me fait plaisir ; mais je crains bien d'être aussi malade que vous je ne vous en dirais pas tant si nous étions de plain-pied ; mais je me sens un peu hardie, de loin...
+Eh !
+Mon Dieu !
+Voici ma grande soeur qui entre dans ma chambre, et mon père et ma mère dans le jardin.
+Adieu ; je jugerai de votre amour si vous vous tirez de ce mauvais pas en habile homme.
+
+-*who_nuitblanche
+Ah !
+Monsieur, nous sommes perdus !
+Voici des gens avec une arquebuse.
+
+-*who_lechevalier
+Non, ce n'est qu'une lunette ; rassure-toi.
+Je suis sûr de plaire à ces gens-ci, puisque je connais leur ridicule et leur faible.
+
+**** *book_ *id_I03 *act_I *date_1732
+
+-*who_lepresident
+On voit bien que je suis né sous le signe du cancre ; toutes mes affaires vont de guingois.
+Il y a six mois que j'attends mon ami Monsieur du Cap-Vert, ce fameux capitaine de vaisseau qui doit épouser ma cadette ; et je vois certainement qu'il ne viendra de plus d'un an : le bourreau a Vénus rétrograde.
+Voici, d'un autre côté, mon impertinent de gendre, Monsieur le comte des Apprêts, à qui j'ai donné mon aînée ; il affecte l'air de la mépriser ; il ne veut pas me faire l'honneur de me donner des petits-enfants : ceci est bien plus rétrograde encore.
+Ah !
+Malheureux président !
+Malheureux beau-père !
+Sur quelle étoile ai-je marché ?
+Çà, voyons un peu en quel état est le ciel ce soir.
+
+-*who_lapresidente
+Je vous ai déjà dit, mon toutou, que votre astrologie n'est bonne qu'à donner des rhumes ; vous devriez laisser là vos lunettes et vos astres.
+Que ne vous occupez-vous, comme moi, de choses utiles ?
+J'ai trouvé enfin l'élixir universel, et je guéris tout mon quartier.
+Eh bien, Champagne, comment se porte ta femme, à qui j'en ai fait prendre une dose ?
+
+-*who_champagne
+Elle est morte ce matin.
+
+-*who_lapresidente
+J'en suis fâchée : c'était une bonne femme.
+Et mon filleul, comment est-il depuis qu'il a pris ma poudre corroborative ?...
+Eh mais !
+Que vois-je, mon toutou ?
+Un homme dans notre jardin !
+
+-*who_lepresident
+Ma toute, il faut observer ce que ce peut être, et bien calculer ce phénomène.
+
+-*who_lechevalier
+Le soleil entre dans sa cinquantième maison.
+
+-*who_lepresident
+Et vous, monsieur, qui vous fait entrer dans la mienne, s'il vous plaît ?
+
+-*who_lechevalier
+L'influence des astres, monsieur, Vénus, dont l'ascendance...
+
+-*who_lepresident
+Que veut dire ceci ?
+C'est apparemment un homme de la profession.
+
+-*who_lapresidente
+C'est apparemment quel que jeune homme qui vient me demander des remèdes ; il est vraiment bien joli : c'est grand dommage d'être malade à cet âge.
+
+-*who_lepresident
+Excusez, monsieur, si, n ayant pas l'honneur de vous connaître...
+
+-*who_lechevalier
+Ah !
+Monsieur, c'était un bonheur que les conjonctions les plus bénignes me faisaient espérer : je me promenais près de votre magnifique maison pour...
+
+-*who_lapresidente
+Pour votre santé apparemment.
+
+-*who_lechevalier
+Oui, madame ; je languis depuis un mois, et je me flatte que je trouverai enfin du secours.
+On m'a assuré que vous aviez ici ce qui me guérirait.
+
+-*who_lapresidente
+Oui, oui, je vous guérirai ; je vous entreprends, et je veux que ma poudre et mon dissolvant...
+
+-*who_lepresident
+C'est ma femme, monsieur, que je vous présente.
+La pauvre toute est un peu blessée là...
+Mais parlons un peu raison, s'il vous plaît.
+Ne disiez-vous pas qu'en vous promenant près de ma maison vous aviez...
+
+-*who_lechevalier
+Oui, monsieur, je vous disais que j'avais découvert un nouvel astre au-dessus de cette fenêtre, et qu'en le contemplant j'étais entré dans votre jardin.
+
+-*who_lepresident
+Un nouvel astre !
+Comment !
+Cela fera du bruit.
+
+-*who_lechevalier
+Je voudrais bien pourtant que la chose fût secrète.
+Il brillait comme Vénus, et je crois qu'il a les plus douces influences du monde.
+Je le contemplais, j'ose dire, avec amour ; je ne pouvais en écarter mes yeux j'ai même, puisqu'il faut vous le dire, été fâché quand vous avez paru.
+
+-*who_lepresident
+Vraiment, je le crois bien.
+
+-*who_lechevalier
+Pardonnez, monsieur, à ce que je vous dis ; ne me regardez pas d'un aspect malin, et ne soyez pas en opposition avec moi : vous devez savoir l'empressement que j'avais de vous faire ma cour.
+Mais enfin, quand il s'agit d'un astre...
+
+-*who_lepresident
+Ah !
+Sans doute.
+Et où l'avez-vous vu ?
+Vous me faites palpiter le coeur.
+
+-*who_lechevalier
+C'est l'état où je suis.
+Je l'ai vu, vous dis-je.
+Ah !
+Quel plaisir j'avais en le voyant !
+Quel aspect !
+C'était tout juste ici ; mais cela est disparu dès que vous êtes venu dans le jardin.
+
+-*who_lepresident
+Ceci mérite attention : c'était sans doute quelque comète.
+
+-*who_lechevalier
+Du moins elle avait une fort jolie chevelure.
+
+-*who_lapresidente
+Mon pauvre jeune homme, ne vous arrêtez point aux visions cornues de mon mari.
+Venons au fait : peut-être votre mal presse.
+
+-*who_lechevalier
+Oui, madame ; je me sentais tout en feu avant que vous parussiez.
+
+-*who_lapresidente
+Voilà cependant un pouls bien tranquille.
+
+-*who_lechevalier
+Ah !
+Madame, ce n'est que depuis que j'ai l'honneur de vous parler : c'était tout autre chose auparavant.
+Ah !
+Quelle différence, madame !
+
+-*who_lapresidente
+Pauvre enfant vous avez pourtant la couleur bonne et l'oeil assez vif.
+Çà, ne déguisez rien : avez-vous la liberté du...
+
+-*who_lechevalier
+Plus de liberté, madame ; c'est là mon mal : cela commença, il y a un mois, sur l'escalier de la Comédie ; mes yeux furent dans un éblouissement involontaire, mon sang s'agita ; j'éprouvai des palpitations, des inquiétudes, ah !
+Madame, des inquiétudes !...
+
+-*who_lapresidente
+Dans les jambes ?
+
+-*who_lechevalier
+Ah !
+Partout, madame, des inquiétudes cruelles ; je ne dormais plus ; je rêvais toujours à la même chose, j'étais mélancolique.
+
+-*who_lapresidente
+Et rien ne vous a donné du soulagement ?
+
+-*who_lechevalier
+Pardonnez-moi, madame ; cinq ou six ordonnances par écrit mont donné un peu de tranquillité.
+Je me suis mis entre les mains d'un médecin charmant, qui a entrepris ma cure ; mais je commence à croire qu'il faudra que vous daigniez l'aider : heureux si vous pouvez consulter avec lui sur les moyens de me mettre dans l'état où j'aspire.
+
+-*who_lapresidente
+Oh !
+Vous n'avez qu'à l'amener, je le purgerai lui-même, je vous en réponds.
+
+-*who_lepresident
+Or çà, monsieur, point de compliments entre gens du métier : vous souperez avec nous ce soir, si vous le trouvez bon ; et cela en famille avec ma femme, ma fille la comtesse, et ma fille Fanchon.
+
+-*who_lechevalier
+Ah !
+Monsieur, vous ne pouviez, je vous jure, me faire un plus grand plaisir.
+
+-*who_lepresident
+Et après souper, je veux que nous observions ensemble l'état du ciel.
+
+-*who_lechevalier
+Pardonnez-moi, monsieur ; j'ai d'ordinaire après souper la vue un peu trouble.
+
+-*who_lapresidente
+Vous voulez me tuer ce pauvre garçon ; et moi, je vous dis qu'après souper il prendra trois de mes pilules.
+Mais je veux auparavant qu'il fasse connaissance avec toute ma famille.
+
+-*who_lepresident
+C'est bien dit, ma toute : qu'on fasse descendre madame la comtesse et Fanchon.
+
+-*who_lapresidente
+Mes filles !
+Madame la comtesse !
+
+-*who_lacomtesse
+Nous descendons, madame.
+
+-*who_fanchon
+Je vole, ma mère.
+
+**** *book_ *id_I04 *act_I *date_1732
+
+-*who_lapresidente
+Mes filles, voici un de mes malades que je vous recommande je veux que vous en ayez soin ce soir à souper.
+
+-*who_fanchon
+Ah !
+Ma mère, si nous en aurons soin !
+Il sera entre nous deux, et ce sera moi qui le servirai.
+
+-*who_lepresident
+Ce jeune gentilhomme, mes filles, est un des grands astrologues que nous ayons : ne manquez pas de lui bien faire les honneurs de la maison.
+
+-*who_lechevalier
+Ah !
+Monsieur, je revois la brillante comète dont la vue est si charmante.
+
+-*who_lepresident
+J'ai beau guigner, je ne vois rien.
+
+-*who_lechevalier
+C'est que vous ne regardez pas avec les mêmes yeux que moi.
+
+-*who_lapresidente
+Eh bien !
+Madame la comtesse, serez-vous toujours triste ?
+Et ne pourrai-je point purger cette mauvaise humeur ?
+J'ai deux filles bien différentes.
+Vous diriez Démocrite et Héraclite l'une a l'air d'une veuve affligée ; et cette étourdie-ci rit toujours.
+Il faut que je donne des gouttes d'Angleterre à l'une, et de l'opium à l'autre.
+
+-*who_lacomtesse
+Hélas !
+Madame, vous me traitez de veuve ; il est trop vrai que je le suis.
+Vous m'avez mariée, et je n'ai point de mari : monsieur le comte s'est mis dans la tête qu'il dérogerait s'il m'aimait.
+J'ai le malheur de respecter des noeuds qu'il néglige, et de l'aimer parce qu'il est mon mari, comme il me méprise parce que je suis sa femme : je vous avoue que j'en suis inconsolable.
+
+-*who_lapresidente
+Votre mari est un jeune fat, et toi, une sotte, ma chère fille : je n'ai point de remèdes pour des cas si désespérés.
+Le comte ne vous voit point du tout la nuit, rarement le jour.
+Je sais bien que l'affront est sanglant ; mais enfin c'est ainsi que M. Le président en use avec moi depuis quinze ans : vois-tu que je m'arrache les cheveux pour cela ?
+
+-*who_fanchon
+La chose est un peu différente : pour moi, si j'étais à la place de ma soeur aînée, je sais bien ce que je ferais.
+
+-*who_lapresidente
+Eh quoi, coquine ?
+
+-*who_fanchon
+Ce qu'elle est assez sotte pour ne pas faire.
+
+-*who_lepresident
+J'ai beau observer, je me donne le torticolis, et je ne découvre rien.
+Je vois bien que vous êtes plus habile que moi : oui, vous êtes venu tout à propos pour me tirer de bien des embarras.
+
+-*who_lechevalier
+Il n'y a rien que je ne voulusse faire pour vous.
+
+-*who_lepresident
+Vous voyez, monsieur, mes deux filles : l'une est malheureuse parce qu'elle a un mari ; et celle-ci commence à l'être parce qu'elle n'en a point.
+Mais ce qui me désoriente et me fait voir des étoiles en plein midi...
+
+-*who_fanchon
+Eh bien !
+Mon père ?
+
+-*who_lechevalier
+Eh bien !
+Monsieur ?
+
+-*who_lepresident
+C'est que le mari qui est destiné a ma fille cadette...
+
+-*who_fanchon
+Un mari, mon père !
+
+-*who_lechevalier
+Un mari, monsieur !
+
+-*who_lapresidente
+Eh bien !
+Ce mari, peut-être est-il malade.
+Cela ne sera rien ; je le guérirai.
+
+-*who_lepresident
+Ce mari, Monsieur du Cap-Vert, ce fameux armateur...
+
+-*who_fanchon
+Ah !
+Mon père, un corsaire ?
+
+-*who_lepresident
+C'est mon ancien ami : vous croyez bien que j'ai tiré sa nativité.
+Il est né sous le signe des poissons.
+Je lui avais promis de plus Fanchon avant qu'elle fût née ; en un mot, ce qui me confond, c'est que je vois clairement que Fanchon sera mariée bientôt, et encore plus clairement que Monsieur du Cap-Vert ne sera de retour que dans un an : il faut que vous m'aidiez à débrouiller cette difficulté.
+
+-*who_fanchon
+Cela me paraît très aisé, mon père : vous verrez que je serai mariée incessamment, et que je n'épouserai pas votre marin.
+
+-*who_lechevalier
+Autant que mes faibles lumières peuvent me faire entrevoir, mademoiselle votre fille, monsieur, raisonne en astrologue judicieuse encore plus que judiciaire ; et je crois, moi, par les aspects d'aujourd'hui, que ce forban ne sera jamais son mari.
+
+-*who_fanchon
+Sans avoir étudié, je l'ai deviné tout d'un coup.
+
+-*who_lepresident
+Et sur quoi pensez-vous, monsieur, que le capitaine ne sera pas mon gendre ?
+
+-*who_lechevalier
+C'est qu'il est déjà gendre d'un autre.
+Ce capitaine n'est-il pas de Bayonne ?
+
+-*who_lepresident
+Oui, monsieur.
+
+-*who_lechevalier
+Eh bien !
+Je suis aussi de Bayonne, moi qui vous parle.
+
+-*who_fanchon
+Je crois que le pays d'où vous êtes sera le pays de mon mari.
+
+-*who_lepresident
+Que fait au mariage de ma fille que vous soyez de Bayonne ou de Pampelune ?
+
+-*who_lechevalier
+Cela fait que j'ai connu Monsieur du Cap-Vert lorsque j'étais enfant, et que je sais qu'il était marié à Bayonne.
+
+-*who_lepresident
+Eh bien !
+Je vois que vous ne savez pas le passé aussi bien que l'avenir.
+Je vous apprends qu'il n'est plus marié, que sa femme est morte il y a quinze ans, qu'il en avait environ cinquante quand il l'a perdue, et que, dès qu'il sera de retour, il épousera Fanchon.
+Allons tous souper.
+
+-*who_lechevalier
+Oui.
+Mais je n'ai point ouï dire que sa femme fût morte.
+
+-*who_fanchon
+Je me trompe bien fort, ou les étoiles auront un pied de nez dans cette affaire, et je ne m'embarquerai pas avec Monsieur du Cap-Vert.
+
+-*who_lechevalier
+Au moins, mademoiselle, le voyage ne serait pas de long cours.
+Par le calcul de monsieur votre père, le pauvre cher homme a soixante-dix ans, et pourrait mourir de vieillesse avant de me faire mourir de douleur.
+
+-*who_lapresidente
+Allons, mon malade, ne vous amusez point ici.
+Tout ce que je connais du ciel à l'heure qu'il est, c'est qu'il tombe du serein.
+Donnez-moi la main, et venez vous mettre à table à côté de moi.
+
+**** *book_ *id_I05 *act_I *date_1732
+
+-*who_lacomtesse
+Demeure un peu, ma soeur Fanchon.
+
+-*who_fanchon
+Il faut que j'aille servir notre malade, ma chère comtesse : le ciel le veut comme cela.
+
+-*who_lacomtesse
+Donne-moi pour un moment la préférence.
+
+-*who_fanchon
+Pour un moment, passe.
+
+-*who_lacomtesse
+Je n'ai plus de confiance qu'en toi, ma petite soeur.
+
+-*who_fanchon
+Hélas !
+Que puis-je pour vous, moi qui suis si fort embarrassée pour moi-même ?
+
+-*who_lacomtesse
+Tu peux m'aider.
+
+-*who_fanchon
+À quoi ?
+À vous venger de votre glorieux et impertinent mari ?
+Oh !
+De tout mon coeur.
+
+-*who_lacomtesse
+Non, mais à m'en faire aimer.
+
+-*who_fanchon
+Il n'en vaut pas la peine, puisqu'il ne vous aime pas.
+Mais voilà malheureusement la raison pour quoi vous êtes si fort attachée à lui : s'il était à vos pieds, vous seriez peut-être indifférente.
+
+-*who_lacomtesse
+Le cruel me traite avec tant de mépris !...
+Il en use avec moi comme si nous étions mariés de cinquante ans.
+
+-*who_fanchon
+C'est un air aisé : il prétend que ce sont les manières du grand monde.
+Le fat !
+Ah !
+Que vous êtes bonne, ma soeur, d'être honnête femme !
+
+-*who_lacomtesse
+Prends pitié de ma sottise.
+
+-*who_fanchon
+Oui, mais à condition que vous prendrez part à ma folie.
+
+-*who_lacomtesse
+Aide-moi à gagner le coeur de mon mari.
+
+-*who_fanchon
+Pourvu que vous me prêtiez quelque secours pour m'empêcher d'être l'esclave du corsaire qu'on me destine.
+
+-*who_lacomtesse
+Viens, je te communiquerai mes desseins après souper.
+
+-*who_fanchon
+Et moi, je vous communiquerai mes petites idées...
+Voilà comme les soeurs devraient toujours vivre.
+Allons donc, ne pleurez plus, pour que je puisse rire.
+
+**** *book_ *id_II01 *act_II *date_1732
+
+-*who_lacomtesse
+J'ai passé une nuit affreuse, ma chère petite soeur.
+
+-*who_fanchon
+Je n'ai pas plus dormi que vous.
+
+-*who_lacomtesse
+J'ai toujours les dédains de mon mari sur le coeur.
+
+-*who_fanchon
+Et moi, les agréments du chevalier dans l'imagination.
+
+-*who_lacomtesse
+Tu te moques de moi, de voir à quel point j'aime mon mari.
+
+-*who_fanchon
+Vous ne songez guère combien le chevalier me tourne la tête.
+
+-*who_lacomtesse
+Je tremble pour toi.
+
+-*who_fanchon
+Et moi, je vous plains.
+
+-*who_lacomtesse
+Aimer un jeune aventurier qui a même la bonne foi de faire entendre qu'il n'a ni naissance ni fortune !
+
+-*who_fanchon
+Larmoyer pour un mari qui n'est peut-être pas si grand seigneur qu'il le dit !
+
+-*who_lacomtesse
+Ah !
+
+-*who_fanchon
+Qui a plus de dettes que de bien, plus d'impertinence que d'esprit, plus d'orgueil que de magnificence, plus...
+
+-*who_lacomtesse
+Ah !
+Ma soeur !
+
+-*who_fanchon
+Qui vous dédaigne, qui prodigue avec des filles d'opéra ce que vous lui avez apporté en mariage, un débauché, un fat...
+
+-*who_lacomtesse
+Ah !
+Ma soeur, arrêtez donc.
+
+-*who_fanchon
+Un petit freluquet idolâtre de sa figure, et qui est plus longtemps que nous à sa toilette, qui copie tous les ridicules de la cour sans en prendre une seule bonne qualité, qui fait l'important, qui...
+
+-*who_lacomtesse
+Ma soeur, je ne puis en entendre davantage.
+
+-*who_fanchon
+Il ne tient pourtant qu'à vous : cela ne finira pas sitôt.
+
+-*who_lacomtesse
+Il a de grands défauts, sans doute, je ne les connais que trop ; je les ai remarqués exprès, j'y ai pensé nuit et jour pour me détacher de lui, ma chère enfant ; mais, à force de les avoir toujours présents à l'esprit, enfin je m'y suis presque accoutumée comme aux miens ; et peut-être qu'avec le temps ils me seront également chers.
+
+-*who_fanchon
+Ah !
+Ma soeur, s'il vous faisait l'honneur de vous traiter comme sa femme, et si vous connaissiez sa personne aussi bien que vous connaissez ses vices, peut-être en peu de temps seriez-vous tranquille sur son compte.
+Enfin vous voilà donc résolue d'employer à sa conversion tout ce que vous tenez de la libéralité de mon père ?
+
+-*who_lacomtesse
+Assurément : quand il n'en coûte que de l'argent pour gagner un coeur, on l'a toujours à bon marché.
+
+-*who_fanchon
+Oui, mais un coeur ne s'achète point : il se donne, et ne peut se vendre.
+
+-*who_lacomtesse
+Quelquefois on est touché des bienfaits.
+Ma chère enfant, je te charge de tout.
+
+-*who_fanchon
+Vous me donnez un emploi singulier entre un mari et sa femme.
+Le métier que je m'en vais faire est un peu hardi : il faudra que je prenne les apparences de la friponnerie pour faire une action de vertu.
+Allons, il n'y a rien qu'on ne fasse pour sa soeur.
+Retirez-vous ; allez faire votre cour à sa toilette : je prendrai mon temps pour lui parler.
+Souvenez-vous de moi dans l'occasion, je vous en prie, et empêchez qu'on ne m'envoie sur mer.
+
+**** *book_ *id_II02 *act_II *date_1732
+
+-*who_lecomte
+Je vous ai déjà dit, mons des Coutures, que les paniers de mes habits ne sont jamais assez amples : il faut, s'il vous plaît, les faire aussi larges que ceux des femmes, afin que l'on puisse un peu être seul dans le fond de son carrosse.
+Et vous, mons du Toupet, songez un peu plus à faire fuir la perruque en arrière : cela donne plus de grâce au visage.
+Ah !
+Vous voilà, comtesse !
+Hé !
+Un peu d'eau de miel, hé !
+Je suis fort aise de vous voir, madame.
+Un miroir, hé !...
+Page, a-t-on fait porter ce vin d'Espagne chez la petite Troussé ?
+
+-*who_lepage
+Oui, monseigneur.
+
+-*who_lacomtesse
+Pourrait-on avoir l'honneur de vous dire un mot, monsieur ?
+
+-*who_lecomte
+Écoutez, page : était-elle éveillée, la petite ?
+
+-*who_lepage
+Non, monseigneur.
+
+-*who_lecomte
+Et la grosse duchesse ?
+
+-*who_lepage
+Monseigneur, elle s'est couchée à huit heures du matin.
+
+-*who_monsieurdeletrier
+Monseigneur, voici votre lingère, votre baigneur, votre parfumeur, votre rôtisseur, votre doreur, votre sellier, votre éperonnier, votre bijoutier, votre usurier, qui attendent dans l'antichambre, et qui demandent tous de l'argent.
+
+-*who_lecomte
+Eh mais !
+Qu'on les jette par les fenêtres : c'est ainsi que j'en ai usé avec la moitié de mon bien, qui m'était pourtant plus cher que tous ces messieurs-là.
+Allez, allez ; dites-leur qu'ils reviennent...
+Dans quelques années, dans quelques années...
+Hé !
+Prenez ce miroir, page ; et vous, mons de l'Étrier...
+
+-*who_monsieurdeletrier
+Monseigneur ?
+
+-*who_lecomte
+Dites un peu, mons de l'Étrier, qu'on mette mes chevaux napolitains à ma calèche verte et or.
+
+-*who_monsieurdeletrier
+Monseigneur, je les vendis hier pour acheter des boucles d'oreilles à Mlle Manon.
+
+-*who_lecomte
+Eh bien !
+Qu'on mette les chevaux barbes.
+
+-*who_monsieurdeletrier
+Un coquin de marchand de foin les fit saisir hier avec votre berline neuve.
+
+-*who_lecomte
+En vérité, le roi devrait mettre ordre à ces insolences : comment veut-on que la noblesse se soutienne, si on l'oblige de déroger au point de payer ses dettes ?...
+
+-*who_lacomtesse
+Pourrai-je obtenir audience à mon tour ?
+
+-*who_lecomte
+Ah !
+Vous voici encore, madame ?
+Je vous croyais partie avec mes autres créanciers.
+
+-*who_lacomtesse
+Peut-on se voir méprisée plus indignement !
+Eh bien !
+Vous ne voulez donc pas m'écouter ?
+
+-*who_lecomte
+Monsieur de l'Étrier, un peu d'or dans mes poches...
+Eh !
+Madame, revenez dans quelques années.
+
+-*who_lacomtesse
+Mauvaise plaisanterie à part, il faut pourtant que je vous parle.
+
+-*who_lecomte
+Eh bien !
+Allons donc, il faut bien un peu de galanterie avec les dames mais ne soyez pas longue.
+
+-*who_lacomtesse
+Que de coups de poignard !
+
+-*who_lecomte
+Messieurs de la chambre, qu'on ôte un peu cette toilette.
+
+**** *book_ *id_II03 *act_II *date_1732
+
+-*who_lacomtesse
+Avez-vous résolu, monsieur, de me faire mourir de chagrin ?
+
+-*who_lecomte
+Comment donc, madame, en quoi vous ai-je déplu, s'il vous plaît ?
+
+-*who_lacomtesse
+Hélas !
+C'est moi qui ne vous déplais que trop.
+Il y a six mois que nous sommes mariés, et vous me traitez comme si nous étions brouillés depuis trente ans.
+
+-*who_lecomte
+Vous voilà toute prête à pleurer !
+De quoi vous plaignez-vous ?
+N'avez-vous pas une très grosse pension ?
+N'êtes-vous pas maîtresse de vos actions ?
+Suis-je un ladre, un bourru, un jaloux ?
+
+-*who_lacomtesse
+Plût à Dieu que vous fussiez jaloux !
+Insultez-vous ainsi à mon attachement ?
+Vous ne me donnez que des marques d'aversion était-ce pour cela que je vous ai épousé ?
+
+-*who_lecomte
+Mais vous m'avez épousé, madame, vous m'avez épousé pour être dame de qualité, pour prendre le pas sur vos compagnes avec qui vous avez été élevée, pour les faire crever de dépit.
+Moi, je vous ai épousée...
+Je vous ai épousée, madame, pour ajouter deux cent mille écus à mon bien.
+De ces deux cent mille écus, j'en ai déjà mangé cent mille ; par conséquent, je ne vous dois plus que la moitié des égards que je vous devais.
+Quand j'aurai mangé les cent mille autres, je serai tout à fait quitte avec vous.
+Raillerie à part, je vous aime ; je ne veux pas que vous soyez malheureuse, mais j'exige que vous ayez un peu d'indulgence.
+
+-*who_lacomtesse
+Vous m'outrez : vous vous repentirez peut-être un jour de m'avoir désespérée.
+
+-*who_lecomte
+Quoi donc !
+Qu'avez-vous ?
+Venez-vous ici gronder votre mari de quelque tour que vous aura joué votre amant ?
+Ah !
+Comtesse, parlez-moi avec confiance : qui aimez-vous actuellement ?
+
+-*who_lacomtesse
+Ciel !
+Que ne puis-je aimer quelque autre que vous !
+
+-*who_lecomte
+On dit que vous soupâtes hier avec le chevalier du Hasard.
+Il est vraiment aimable : je veux que vous me le présentiez.
+
+-*who_lacomtesse
+Quelles étranges idées ! vous ne pensez donc pas qu'une femme puisse aimer son mari ?
+
+-*who_lecomte
+Oh !
+Pardonnez-moi ; je pense qu'il y a des occasions où une femme aime son mari : quand il va à la campagne sans elle pour deux ou trois années, quand il se meurt, quand elle essaye son habit de veuve.
+
+-*who_lacomtesse
+Voilà comme vous êtes ; vous croyez que toutes les femmes sont faites sur le modèle de celles avec qui vous vous ruinez ; vous pensez qu'il n'y en a point d'honnêtes.
+
+-*who_lecomte
+D'honnêtes femmes !
+Mais si fait, si fait ; il y en a de fort honnêtes : elles trichent un peu au jeu, mais ce n'est qu'une bagatelle.
+
+-*who_lacomtesse
+Voilà donc tous les sentiments que j'obtiendrai de vous ?
+
+-*who_lecomte
+Croyez-moi, le président et la présidente ont beau faire, je ne veux pas vivre sitôt en bourgeois ; et puisque vous êtes madame la comtesse des Apprêts, je veux que vous souteniez votre dignité, et que vous n'ayez rien de commun avec votre mari que le nom, les armes, et les livrées.
+Vous ne savez pas votre monde ; vous vous imaginez qu'un mari et une femme sont faits pour vivre ensemble : quelle idée !
+Holà !
+Hé !
+Là-bas !
+Quelqu'un !
+Holà !
+Hé !
+Messieurs de la chambre !
+
+**** *book_ *id_II04 *act_II *date_1732
+
+-*who_lepage
+Monseigneur, voici le président et la présidente.
+
+-*who_lepresident
+Vous pourriez bien dire : Monsieur le président, petit maroufle !
+
+-*who_lepage
+Ah !
+Le vilain bourgeois !
+
+-*who_lepresident
+Par Saturne, monsieur le comte, vous en usez bien indignement avec nous, et c'est un phénomène bien étrange que votre conduite.
+Vous nous méprisez, moi, ma femme et ma fille, comme si vous étiez une étoile de la première grandeur.
+Vous nous traitez en bourgeois.
+Parbleu !
+Quand vous seriez au zénith de la fortune, apprenez qu'il est d'un malhonnête homme de mépriser sa femme, et la famille dans laquelle on est entré.
+Corbleu !
+Je suis las de vos façons : nous ne sommes point faits pour habiter sous le même méridien.
+Je vous le dis, il faudra que nous nous séparions ; et de partout le zodiaque ! (Car vous me faites jurer) Dans quelles éphémérides a-t-on jamais lu qu'un gendre traite de haut en bas son beau-père le président et sa belle-mère la présidente, ne dîne jamais en famille, ne revienne au point du jour que pour coucher seul ?
+Parbleu !
+Si j'étais madame la comtesse, je vous ferais coucher avec moi, mon petit mignon, ou je vous dévisagerais.
+
+-*who_lecomte
+Bonjour, président, bonjour.
+
+-*who_lapresidente
+N'est-ce pas une honte qu'on ne puisse vous guérir de cette maladie ?
+Et que moi, qui ai guéri tout mon quartier, aie chez moi un gendre qui me désespère, et fait mourir sa femme des pâles couleurs ?
+Et où on seriez-vous, si Monsieur le président en eût toujours usé ainsi avec moi ?
+Vous n'auriez pas touché six cents sacs de mille livres que nous vous avons donnés en dot.
+Savez-vous bien que ma fille est l'élixir des femmes, et que vous ne la méritez pas pour épouse, ni moi pour belle-mère, ni M. Le président pour beau-père, ni mon... ni mon...
+Allez, vous êtes un monstre.
+
+-*who_lecomte
+Je suis charmé de vous voir et de vous entendre, ma chère présidente...
+Eh !
+Voilà, je crois, le chevalier du Hasard, dont on m'a tant parlé.
+Bonjour, mons du Hasard, bonjour : vraiment, je suis fort aise de vous voir.
+
+-*who_lechevalier
+Il me semble que j'ai vu cet homme-là à Bayonne, dans mon enfance.
+Monsieur, je compte sur l'honneur de votre protection.
+
+-*who_lecomte
+Comment trouvez-vous madame la comtesse, mons le chevalier ?
+
+-*who_lechevalier
+Monsieur, je...
+
+-*who_lecomte
+Ne vous sentez-vous rien pour elle ?
+
+-*who_lechevalier
+Le respect que...
+
+-*who_lecomte
+Ne pourrai-je point vous être bon à quelque chose à la cour, mons le chevalier ?
+
+-*who_lechevalier
+Monsieur, je ne...
+
+-*who_lecomte
+Auprès de quelques ministres, de quelques dames de la cour ?
+
+-*who_lechevalier
+Heureusement, monsieur...
+
+-*who_lecomte
+Il faudra que vous veniez prendre huit tableaux de cavagnole chez la grosse duchesse.
+Président, présidente, voilà midi qui sonne ; allez, allez dîner : vous dînez de bonne heure, vous autres.
+Holà !
+Hé !
+Quelqu'un !
+Qu'on ouvre à ces dames.
+Adieu, mesdames.
+Vous viendrez me voir quelque matin, monsieur le chevalier.
+
+-*who_lechevalier
+Votre gendre est singulier.
+
+-*who_lepresident
+Il est lunatique.
+
+-*who_lapresidente
+Il est incurable.
+
+-*who_lacomtesse
+Je suis bien malheureuse !
+
+**** *book_ *id_II05 *act_II *date_1732
+
+-*who_lecomte
+Monsieur de l'Étrier, je ne laisse pas d'être bien embarrassé, oui.
+
+-*who_monsieurdeletrier
+Et moi aussi, monseigneur.
+
+-*who_lecomte
+J'ai mangé en trois mois deux années de mon revenu d'avance.
+
+-*who_monsieurdeletrier
+Cela prouve votre générosité.
+
+-*who_lecomte
+Je vois que les vertus sont assez mal récompensées en ce monde : personne ne veut me prêter.
+Comme je suis un grand seigneur, on me craint ; si j'étais un bourgeois, j'aurais cent bourses à mon service.
+
+-*who_monsieurdeletrier
+Au lieu de cent prêteurs vous avez cent créanciers.
+J'ai l'honneur d'être votre écuyer, et vous n'avez point de chevaux.
+Vous avez un page qui n'a point de chemises, des laquais sans gages, des terres en décret : ma foi, j'oserais vous conseiller d'accepter quelque bonne somme du beau-père, et de lui faire un petit comte des Apprêts.
+
+-*who_lecomte
+Je ne veux rien faire d'indigne d'un grand seigneur.
+Ne voudrais-tu pas que je soupasse, comme un homme désoeuvré, avec ma femme ? que j'allasse bourgeoisement au lit avec elle, tristement affublé d'un bonnet de nuit, et asservi comme un homme vulgaire aux lois insipides d'un devoir languissant ? que je m'humiliasse jusqu'à paraître en public à côté de ma femme ? ridicule pendant le jour, dégoûté pendant la nuit ; et, pour comble d'impertinence, père de famille ?
+Dans trente ans, mon ami, dans trente ans, nous verrons ce que nous pourrons faire pour la fille du président.
+
+-*who_monsieurdeletrier
+Mais ne la trouvez-vous pas jolie ?
+
+-*who_lecomte
+Comment !
+Elle est charmante.
+
+-*who_monsieurdeletrier
+Eh bien donc !
+
+-*who_lecomte
+Ah !
+Si elle était la femme d'un autre, j'en serais amoureux comme un fou ; je donnerais tout ce que je dois (et c'est beaucoup) pour la posséder, pour en être aimé : mais elle est ma femme ; il n'y a pas moyen de la souffrir ; j'ai trop l'honneur en recommandation ; il faut un peu soutenir son caractère dans le monde.
+
+-*who_monsieurdeletrier
+Elle est vertueuse, elle vous aime.
+
+-*who_lecomte
+Parlons de ce que j'aime : aurez-vous de l'argent ?
+
+-*who_monsieurdeletrier
+Non, monseigneur.
+
+-*who_lecomte
+Comment, mons de l'Étrier, vous n'avez pu trouver de l'argent chez des bourgeois ?
+
+**** *book_ *id_II06 *act_II *date_1732
+
+-*who_fanchon
+Mon petit page, allez un peu voir là-dedans si j'y suis.
+
+-*who_lecomte
+Eh !
+Ma chère enfant, qui vous amène si matin dans mon appartement ?
+
+-*who_fanchon
+L'envie de vous rendre un petit service.
+
+-*who_lecomte
+Aimable créature, toute soeur de ma femme que vous êtes, vous me feriez tourner la tête si vous vouliez.
+
+-*who_fanchon
+Je voudrais vous la changer un peu.
+Ne me dites point de douceurs : ce n'est pas pour moi que je viens ici.
+
+-*who_lecomte
+Comment !
+
+-*who_fanchon
+Soyez discret, au moins.
+
+-*who_lecomte
+Je vous le jure, ma chère enfant.
+
+-*who_fanchon
+N'allez jamais en parler à votre femme.
+
+-*who_lecomte
+Est-ce qu'on parle à sa femme ?
+
+-*who_fanchon
+À Monsieur le président, ni à madame la présidente.
+
+-*who_lecomte
+Est-ce qu'on parle à son beau-père ou à sa belle-mère ?
+
+-*who_fanchon
+À mon mari, quand j'en aurai un.
+
+-*who_lecomte
+Est-ce qu'un mari sait jamais rien ?
+
+-*who_fanchon
+Eh bien !
+Je suis chargée de la part d'une jeune femme extrêmement jolie...
+
+-*who_lecomte
+Voilà un plaisant métier à votre âge !
+
+-*who_fanchon
+Plus noble que vous ne pensez : les intentions justifient tout ; et quand vous saurez de quoi il est question, vous aurez meilleure opinion de moi, et vous verrez que tout ceci est en tout bien et en tout honneur.
+
+-*who_lecomte
+Eh bien, mon coeur, une jolie femme ?...
+
+-*who_fanchon
+Qui a de la confiance en moi, m'a priée de vous dire...
+
+-*who_lecomte
+Quoi ?
+
+-*who_fanchon
+Que vous êtes le plus...
+
+-*who_lecomte
+Ah !
+J'entends.
+
+-*who_fanchon
+Le plus ridicule de tous les hommes.
+
+-*who_lecomte
+Comment !
+Race de président...
+
+-*who_fanchon
+Écoutez jusqu'au bout : vous allez être bien surpris.
+Elle vous trouve donc, comme j'avais l'honneur de vous le dire, extrêmement ridicule, vain comme un paon, dupe comme une buse, fat comme Narcisse ; mais, au travers de ces défauts, elle croit voir en vous des agréments.
+Vous l'indignez, et vous lui plaisez ; elle se flatte que si vous l'aimiez, elle ferait de vous un honnête homme.
+Elle dit que vous ne manquez pas d'esprit, et elle espère de vous donner du jugement.
+La seule chose où elle en manque, c'est en vous aimant ; mais c'est son unique faiblesse : elle est folle de vous, comme vous l'êtes de vous-même.
+Elle sait que vous êtes endetté par-dessus les oreilles ; elle a voulu vous donner des preuves de sa tendresse qui vous enseignassent à avoir des procédés généreux ; elle a vendu toutes ses nippes, elle en a tiré vingt mille francs en billets et en or, qui déchirent mes poches depuis une heure.
+Tenez, les voilà ; ne me demandez pas son nom ; promettez-moi seulement un rendez-vous pour elle ce soir, dans votre chambre, et corrigez-vous pour mériter ses bontés.
+
+-*who_lecomte
+Ma belle Fanchon, votre inconnue m'a la mine d'être une laideron, avec ses vingt mille francs.
+
+-*who_fanchon
+Elle est belle comme le jour ; et vous êtes un misérable, indigne que la petite Fanchon se mêle de vos affaires.
+Adieu ; tâchez de mériter mon estime et mes bontés.
+
+**** *book_ *id_II07 *act_II *date_1732
+
+-*who_lecomte
+Franchement, je suis assez heureux.
+Né sans fortune, je suis devenu riche sans industrie ; inconnu dans Paris, il m'a été très aisé d'être grand seigneur ; tout le monde l'a cru, et je le crois à la fin moi-même plus que personne.
+J'ai épousé une belle femme (ad honores), j'ai le noble plaisir de la mépriser ; à peine manqué-je un peu d'argent, que voilà une femme de la première volée, titrée sans doute, qui me prête mille louis d'or, et qui ne veut être payée que par un rendez-vous !
+Oh !
+Oui, madame, vous serez payée ; je vous attends chez moi tout le jour ; et, pour la première fois de ma vie, je passerai mon après-dînée sans sortir.
+Holà !
+Hé !
+Page, écoutez.
+Page, qu'on ne laisse entrer chez moi qu'une dame qui viendra avec la petite Fanchon.
+
+**** *book_ *id_II08 *act_II *date_1732
+
+-*who_lecomte
+Voici apparemment cette dame de qualité à qui j'ai tourné la tête.
+
+-*who_lepage
+Est-ce vous, mademoiselle Fanchon ?
+
+-*who_monsieurducapvert
+Eh !
+Ouvrez, ventrebleu !
+Voici une rade bien difficile : il y a une heure que je parcours ce bâtiment sans pouvoir trouver le patron.
+Où est donc le président et la présidente ?
+Et où est Fanchon ?
+
+-*who_lepage
+Tout cela est allé promener bourgeoisement en famille.
+Mais, mon ami, on n'entre point ainsi dans cet appartement : dénichez.
+
+-*who_monsieurducapvert
+Petit mousse, je te ferai donner la cale.
+
+-*who_lecomte
+Qu'est-ce que c'est que ça ?
+Mais qu'est-ce que c'est que ça ?
+Mes gens !
+Holà !
+Hé !
+Mes gens !
+Monsieur de l'Étrier ! qu'on fasse un peu sortir cet homme-là de chez moi ; qu'on lui dise un peu qui je suis, où il est, et qu'on lui apprenne un peu à vivre.
+
+-*who_monsieurducapvert
+Comment !
+Qu'on me dise qui vous êtes !
+Et n'êtes-vous pas assez grand pour le dire vous-même, jeune muguet ?
+Qu'on me dise un peu où je suis !
+Je crois, ma foi, être dans la boutique d'un parfumeur ; je suis empuanti d'odeur de fleur d'orange.
+
+-*who_monsieurdeletrier
+Monsieur, monsieur, doucement vous êtes ici chez un seigneur qui a bien voulu épouser la fille aînée du président Bodin.
+
+-*who_monsieurducapvert
+C'est bien de l'honneur pour lui ; voilà un plaisant margajat !
+Eh bien !
+Monsieur, puisque vous êtes le gendre de...
+
+-*who_monsieurdeletrier
+Appelez-le monseigneur, s'il vous plaît.
+
+-*who_monsieurducapvert
+Lui !
+Monseigneur ?
+Je pense que vous êtes fou, mon drôle : j'aimerais autant appeler galion une chaloupe, ou donner le nom d'esturgeon à une sole.
+Écoutez, gendre du président, j'ai à vous avertir...
+
+-*who_lecomte
+Arrêtez, arrêtez ; l'ami, êtes-vous gentilhomme ?
+
+-*who_monsieurducapvert
+Non, ventrebleu !
+Je ne suis point gentilhomme ; je suis honnête homme, brave homme, bon homme.
+
+-*who_lecomte
+Eh bien donc, je ne prendrai pas la peine de vous faire sortir moi-même.
+Monsieur de l'Étrier, mes gens, faites un peu sortir monsieur.
+
+-*who_monsieurducapvert
+Par la Sainte-barbe ! si votre chiourme branle, je vous coulerai tous à fond de cale, esclaves.
+
+-*who_lepage
+Oh !
+Quel ogre !
+
+-*who_monsieurdeletrier
+Monsieur, ce n'est pas pour vous manquer de respect...
+
+-*who_monsieurducapvert
+Taisez-vous, ou je vous lâcherai une bordée.
+C'est donc vous, monsieur le freluquet, qui avez épousé Catau ?
+
+-*who_lecomte
+Oui, monsieur : asseyez-vous donc, monsieur.
+
+-*who_monsieurducapvert
+Savez-vous que je suis monsieur du Cap-Vert ?
+
+-*who_lecomte
+Non, monsieur...
+Oh !
+Quel importun !
+
+-*who_monsieurducapvert
+Eh bien !
+Je vous l'apprends donc.
+Avez-vous jamais été à Rio-Janeiro ?
+
+-*who_lecomte
+Non, je n'ai jamais été à cette maison de campagne-là.
+
+-*who_monsieurducapvert
+Ventre de boulets !
+C'est une maison de campagne un peu forte, que nous prîmes d'assaut à deux mille lieues d'ici, sous l'autre tropique.
+C'était en 1711, au mois de septembre.
+Monsieur le blanc-poudré, je voudrais que vous eussiez été là, vous seriez mort de peur.
+Il y faisait chaud, mon enfant, je vous en réponds.
+Connaissez-vous celui qui nous commandait ?
+
+-*who_lecomte
+Qui ?
+Celui qui vous commandait ?
+
+-*who_monsieurducapvert
+Oui, celui qui nous commandait, de par tous les vents !
+
+-*who_lecomte
+C'était un très bel homme à ce que j'ai ouï-dire : il s'appelait le duc de...
+
+-*who_monsieurducapvert
+Et non, cornes de fer, ce n'était ni un duc, ni un de vos marquis ; c'était un drôle qui a pris plus de vaisseaux anglais dans sa vie que vous n'avez trompé de bégueules et écrit de fades billets doux.
+Ce fut une excellente affaire que cette prise du fort de Saint-Sébastien de Rio-Janeiro : j'en eus vingt mille écus pour ma part.
+
+-*who_lecomte
+Si vous vouliez m'en prêter dix mille, vous me feriez plaisir.
+
+-*who_monsieurducapvert
+Je ne vous prêterais pas du tabac à fumer, mon petit mignon, entendez-vous, avec vos airs d'importance ?
+Tout ce que j'ai est pour ma femme : vous avez épousé l'aînée Catau, et je viens exprès pour épouser la cadette Fanchon, et être votre beau-frère.
+Le président reviendra-t-il bientôt ?
+
+-*who_lecomte
+Vous !
+Mon beau-frère !
+
+-*who_monsieurducapvert
+Par la sancable !
+Oui, votre beau-frère, puisque j'épouse votre belle-soeur.
+
+-*who_lecomte
+Vous pouvez épouser Fanchon tant qu'il vous plaira ; mais vous ne serez point mon beau-frère : je vous avertis que je ne signe point au contrat de mariage.
+
+-*who_monsieurducapvert
+Parbleu !
+Que vous signiez ou que vous ne signiez pas, qu'est-ce que cela me fait ?
+Ce n'est pas vous que j'épouse, et je n'ai que faire de votre signature.
+Mais est-ce que le président tardera encore longtemps à venir ?
+Cet homme-là est bien mauvais voilier.
+
+-*who_lecomte
+Je vous conseille, monsieur du Cap-Vert, de l'aller attendre ailleurs.
+
+-*who_monsieurducapvert
+Comment !
+Est-ce que ce n'est pas ici sa maison ?
+
+-*who_lecomte
+Oui, mais c'est ici mon appartement.
+
+-*who_monsieurducapvert
+Eh bien !
+Je le verrai ici.
+
+-*who_lecomte
+Le traître !...
+J'attends du monde à qui j'ai donné rendez-vous.
+
+-*who_monsieurducapvert
+Je ne vous empêche pas de l'attendre.
+
+-*who_lecomte
+Le bourreau !...
+C'est une dame de qualité.
+
+-*who_monsieurducapvert
+De qualité ou non, que m'importe ?
+
+-*who_lecomte
+Je voudrais que ce monstre marin-là fût à cinq cents brasses avant dans la mer.
+
+-*who_monsieurducapvert
+Que dites-vous là de la mer, beau garçon ?
+
+-*who_lecomte
+Je dis qu'elle me fait soulever le coeur.
+Eh !
+Voilà, pour m'achever de peindre !
+Le président et la présidente : je n'y puis plus tenir, je quitte la partie, je vais me réfugier ailleurs.
+
+**** *book_ *id_II09 *act_II *date_1732
+
+-*who_lepresident
+Ce que je vois là est incompréhensible !
+
+-*who_monsieurducapvert
+Cela est très aisé à comprendre : j'arrive de la côte de Zanguebar, et je viens débarquer chez vous, et épouser Fanchon.
+
+-*who_lepresident
+Il ne se peut pas que ce soit là Monsieur du Cap-Vert : son thème porte qu'il ne reviendra que dans deux ans.
+
+-*who_monsieurducapvert
+Eh bien !
+Faites donc votre thème en deux façons ; car me voilà revenu.
+
+-*who_lapresidente
+Il a bien mauvais visage.
+
+-*who_lechevalier
+Monsieur, soyez le très bien arrivé en cette ville.
+
+-*who_lepresident
+Est-ce que je ne serais qu'un ignorant ?
+
+-*who_monsieurducapvert
+Beau-père, votre raison va à la bouline : parbleu !
+Vous perdez la tramontane.
+Dressez vos lunettes, observez-moi ; je n'ai point changé de pavillon : ne reconnaissez-vous pas mons du Cap-Vert, votre ancien camarade de collège ?
+Il n'y a que trente-cinq ans que nous nous sommes quittés, et vous ne me remettez pas !
+
+-*who_lepresident
+Si fait, si fait ; mais...
+
+-*who_monsieurducapvert
+Mais oublier ses amis en si peu de temps !
+Tout le monde me paraît bien étourdi du bateau dans cette maison-ci.
+Je viens de voir un jeune fat, mon beau-frère, qui a perdu la raison ; le beau-père a perdu la mémoire.
+Bonhomme de président, allons, où est votre fille ?
+
+-*who_lapresidente
+Ma fille, monsieur, s'habille pour paraître devant vous ; mais je ne crois pas que vous vouliez l'épouser sitôt.
+
+-*who_monsieurducapvert
+Je lui donne du temps ; je ne compte me marier que dans trois ou quatre heures.
+J'ai hâte, ma bonne ; j'arrive de loin.
+
+-*who_lapresidente
+Quoi !
+Vous voulez vous marier aujourd'hui avec le visage que vous portez ?
+
+-*who_monsieurducapvert
+Sans doute : je n'irai pas emprunter celui d'un autre.
+
+-*who_lapresidente
+Allez, vous vous moquez : il faut que vous soyez auparavant quinze jours entre mes mains.
+
+-*who_monsieurducapvert
+Pas un quart d'heure seulement.
+Présidente, quelle proposition me faites-vous là ?
+
+-*who_lapresidente
+Voyez ce jeune homme que je vous présente : quel teint !
+Qu'il est frais !
+Je ne l'ai pourtant entrepris que d'hier.
+
+-*who_monsieurducapvert
+Comment dites-vous ?
+Depuis hier ce jeune homme et vous...
+
+-*who_lechevalier
+Oui, monsieur, madame daigne prendre soin de moi.
+
+-*who_lapresidente
+C'est moi qui l'ai mis dans l'état où vous le voyez.
+
+-*who_lepresident
+Non, il n'est pas possible que cet homme-là soit arrivé.
+
+-*who_monsieurducapvert
+Je ne comprends rien à toutes les lanternes que vous me dites, vous autres.
+
+-*who_lapresidente
+Je vous dis qu'il faut que vous soyez saigné et purgé dûment avant de songer à rien.
+
+-*who_monsieurducapvert
+Moi, saigné et purgé !
+J'aimerais mieux être entre les mains des Turcs qu'entre celles des médecins.
+
+-*who_lapresidente
+Après un voyage de long cours, vous devez avoir amassé des humeurs de quoi infecter une province : vous autres marins, vous avez de si vilaines maladies !
+
+-*who_monsieurducapvert
+Parlez pour vous, messieurs du continent : les gens de mer sont des gens propres ; mais vous !.
+
+-*who_lapresidente
+Je vous en quitterai pour cinquante pilules.
+
+-*who_monsieurducapvert
+J'aimerais mieux épouser la fille d'un Cafre, ma bonne femme ; je romprai plutôt le marché.
+
+-*who_lechevalier
+Souffrez que je vous dise, par l'intérêt que je prends à ce mariage...
+
+-*who_monsieurducapvert
+Eh !
+Quel intérêt prenez-vous, s'il vous plaît, à ce mariage ?
+
+-*who_lechevalier
+Je vous conseille de ne rien précipiter, et de suivre l'avis de madame : j'ai des raisons importantes pour cela, j'ose vous le dire.
+
+-*who_monsieurducapvert
+L'équipage de ce bâtiment-ci est composé d'étranges gens, j'ose vous le dire : un fat me refuse la porte, un doucereux me fait des révérences et me donne des conseils sans me connaître ; l'un me parle de ma nativité, l'autre veut qu'on me purge.
+Je n'ai jamais vu de vaisseau si mal frété que cette maison-ci.
+
+-*who_lepresident
+Oh çà !
+Puisque vous voilà : nous allons préparer Fanchon à vous venir trouver.
+
+-*who_monsieurducapvert
+Allez, beau-père et belle-mère.
+
+**** *book_ *id_II10 *act_II *date_1732
+
+-*who_lechevalier
+Monsieur, je ne me sens pas de joie de vous voir.
+
+-*who_monsieurducapvert
+Vraiment, je le crois bien que vous ne vous sentez pas de joie en me voyant : pourquoi en sentiriez-vous ?
+Vous ne me connaissez pas.
+
+-*who_lechevalier
+Je veux dire que ma joie est si forte...
+
+-*who_monsieurducapvert
+Vous vous moquez de moi.
+Qui êtes-vous ?
+Et que me voulez-vous ?
+
+-*who_lechevalier
+Ah !
+Monsieur, que c'est une belle chose que la mer !
+
+-*who_monsieurducapvert
+Oui, fort belle.
+
+-*who_lechevalier
+J'ai toujours eu envie de servir sur cet élément.
+
+-*who_monsieurducapvert
+Qui vous en empêche ?
+
+-*who_lechevalier
+Quel plaisir que ces combats de mer, surtout lorsqu'on s'accroche !
+
+-*who_monsieurducapvert
+Vous avez raison il n'y a qu'un plaisir au-dessus de celui-là.
+
+-*who_lechevalier
+Et quel, monsieur, s'il vous plaît ?
+
+-*who_monsieurducapvert
+C'est lorsqu'on se débarrasse sur terre des importuns.
+
+-*who_lechevalier
+Oui, cela doit être délicieux.
+Que vous êtes heureux, monsieur, que vous êtes heureux !
+Vous avez sans doute vu le cap de Bonne-Espérance, monsieur ?
+
+-*who_monsieurducapvert
+Assurément.
+Je veux vous faire lire le récit d'un petit combat assez drôle que je donnai à la vue du cap : je vous assure que je menai mes gens galamment.
+
+-*who_lechevalier
+Vous me ferez la plus insigne faveur : ah !
+Monsieur, que c'est dommage qu'un homme comme vous se marie !
+
+-*who_monsieurducapvert
+Pourquoi, dommage ?
+
+-*who_lechevalier
+Voilà qui est fait ; il ne sera plus question de vous dans les gazettes ; vous n'aurez plus le plaisir de l'abordage ; vous allez languir dans les douces chaînes d'un hymen plein de charmes ; une beauté tendre, touchante, voluptueuse, va vous enchanter dans ses bras.
+Ne savez-vous pas que Vénus est sortie du sein de la mer ?
+
+-*who_monsieurducapvert
+Peu me chaut d'où elle est sortie.
+Je ne comprends rien à votre galimatias.
+
+-*who_lechevalier
+Oui, dis-je, voilà qui est fait ; Monsieur du Cap-Vert devient un homme terrestre, un vil habitant de la terre ferme, un citoyen qui s'enterre avec Mlle Fanchon.
+
+-*who_monsieurducapvert
+Non ferai, par mes sabords : je l'emmène dans huit jours en Amérique.
+
+-*who_lechevalier
+Vous !
+Monsieur ?
+
+-*who_monsieurducapvert
+Assurément ; je veux une femme, il me faut une femme, je grille d'avoir une femme...
+Fanchon est-elle jolie ?
+
+-*who_lechevalier
+Assez passable pour un officier de terre : mais, pour un marin délicat, oh !
+Je ne sais pas.
+Vous comptez donc réellement épouser cette jeune demoiselle ?
+
+-*who_monsieurducapvert
+Oui, très réellement.
+
+-*who_lechevalier
+À votre place, je n'en ferais rien.
+
+-*who_monsieurducapvert
+Vraiment, je crois bien que vous n'en ferez rien...
+Mais que me vient conter cet homme-ci ?
+
+-*who_lechevalier
+Je me sens attaché tendrement à vous.
+Je dois vous parler vrai : elle n'a pas assez d'embonpoint pour un capitaine de vaisseau.
+
+-*who_monsieurducapvert
+J'aime les tailles déliées.
+
+-*who_lechevalier
+Elle parle trop vite.
+
+-*who_monsieurducapvert
+Elle en parlera moins longtemps.
+
+-*who_lechevalier
+Elle est folle, folle à lier, vous dis-je
+
+-*who_monsieurducapvert
+Tant mieux !
+Elle me divertira.
+
+-*who_lechevalier
+Oh bien !
+Puisqu'il ne vous faut rien cacher, elle a une inclination.
+
+-*who_monsieurducapvert
+C'est une preuve qu'elle a le coeur tendre, et qu'elle pourra m'aimer.
+
+-*who_lechevalier
+Enfin, pour vous dire tout, elle a deux enfants en nourrice.
+
+-*who_monsieurducapvert
+Ce serait une marque certaine que j'en aurai lignée : mais je ne crois rien de toutes ces fadaises-là.
+
+-*who_lechevalier
+Voilà un homme inébranlable : c'est un rocher.
+
+**** *book_ *id_II11 *act_II *date_1732
+
+-*who_lechevalier
+Ah !
+La voici qui vient reconnaître l'ennemi : mon amiral, voilà donc l'écueil contre lequel vous échouez.
+À votre place, j'irais me jeter la tête la première dans la mer : un grand homme comme vous !
+Ah !
+Quelle faiblesse !
+
+-*who_monsieurducapvert
+Taisez-vous, babillard.
+C'est donc vous, Fanchon, qui m'allez appartenir ?
+Je jette l'ancre dans votre port, m'amie, et je veux, avant qu'il soit quatre jours, que nous partions tous les deux pour Saint-Domingue.
+
+-*who_fanchon
+Quoi !
+Monsieur le chevalier, c'est donc là ce fameux Monsieur du Cap-Vert, cet homme illustre, la terreur des mers et la mienne ?
+
+-*who_lechevalier
+Oui, mademoiselle.
+
+-*who_monsieurducapvert
+Voilà une fille bien apprise.
+
+-*who_fanchon
+C'est donc vous, monsieur, dont mon père m'a entretenue si souvent ?
+
+-*who_monsieurducapvert
+Oui, ma poupe ; oui, mon perroquet ; c'est moi-même.
+
+-*who_fanchon
+Il y a cinquante ans que vous êtes son intime ami ?
+
+-*who_monsieurducapvert
+Environ, si mon estime est juste.
+
+-*who_fanchon
+Voudriez-vous faire à sa fille un petit plaisir ?
+
+-*who_monsieurducapvert
+Assurément, et de tout mon coeur ; je suis tout prêt : parlez, mon enfant.
+Vous me paraissez timide : qu'est-ce que c'est ?
+
+-*who_fanchon
+C'est, monsieur, de ne me point épouser.
+
+-*who_monsieurducapvert
+J'arrive pourtant exprès pour cette affaire, et pour me donner à vous avec tous mes agrès : vous m'étiez promise avant que vous fussiez née.
+Il y a trente ans que votre père m'a promis une fille.
+Je consommerai tout cela ce soir, vers les dix heures, si vous le trouvez bon, m'amie.
+
+-*who_fanchon
+Mais entre nous, monsieur du Cap-Vert, vous figurez-vous qu'à mon âge, et faite comme je suis, il soit si plaisant pour moi de vous épouser, d'être empaquetée dans votre bord comme votre pacotille, et d'aller vous servir d'esclave aux antipodes ?
+
+-*who_monsieurducapvert
+Vous vous imaginez donc, la belle, que je vous épouse pour votre plaisir ?
+Apprenez que c'est pour moi que je me marie, et non pas pour vous.
+Ai-je donc si longtemps vogué dans le monde pour ne savoir pas ce que c'est que le mariage ?
+Si l'on ne prenait une femme que pour en être aimé, les notaires de votre pays feraient, ma foi, peu de contrats.
+M'amie, il me faut une femme, votre père m'en doit une, vous voilà ; préparez-vous à m'épouser.
+
+-*who_fanchon
+Savez-vous bien ce que risque un mari de soixante-cinq ans quand il épouse une fille de quinze ?
+
+-*who_monsieurducapvert
+Eh bien !
+Merluche, que risque-t-il ?
+
+-*who_fanchon
+N'avez-vous jamais ouï-dire qu'il y a eu autrefois des cocus dans le monde ?
+
+-*who_monsieurducapvert
+Oui, oui, petite effrontée ; et j'ai ouï dire aussi qu'il y a des filles qui font deux ou trois enfants avant leur mariage ; mais je n'y regarde pas de si près.
+
+-*who_fanchon
+Trois enfants avant mon mariage !
+
+-*who_monsieurducapvert
+Nous savons ce que nous savons.
+
+-*who_fanchon
+Trois enfants avant mon mariage, imposteur !
+
+-*who_monsieurducapvert
+Trois ou deux, qu'importe ?
+
+-*who_fanchon
+Et qui vous dit ces belles nouvelles-là ?
+
+-*who_monsieurducapvert
+Parbleu !
+C'est ce jeune muguet frisé.
+
+-*who_fanchon
+Quoi !
+C'est vous qui...
+
+-*who_lechevalier
+Ah !
+Mademoiselle...
+
+-*who_monsieurducapvert
+Mais je suis bien bon, moi, de parler ici de balivernes avec des enfants, lorsqu'il faut que j'aille signer les articles avec le beau-père.
+Adieu, adieu : vous entendrez bientôt parler de moi.
+
+**** *book_ *id_II12 *act_II *date_1732
+
+-*who_lechevalier
+Me voilà au désespoir : ce loup marin-là vous épousera comme il le dit, au moins.
+
+-*who_fanchon
+Je mourrais plutôt mille fois.
+
+-*who_lechevalier
+Il y aurait quelque chose de mieux à faire.
+
+-*who_fanchon
+Et quoi, chevalier ?
+
+-*who_lechevalier
+Si vous étiez assez raisonnable pour faire avec moi une folie, pour m'épouser, ce serait bien le vrai moyen de désorienter notre corsaire.
+
+-*who_fanchon
+Et que diraient le président et la présidente ?
+
+-*who_lechevalier
+Le président s'en prendrait aux astres, la présidente ne me donnerait plus de ses remèdes, les choses s'apaiseraient au bout de quelque temps, Monsieur du Cap-Vert irait jeter l'ancre ailleurs, et nous serions tous contents.
+
+-*who_fanchon
+J'en suis un peu tentée ; mais, chevalier, pensez-vous que mon père veuille absolument me sacrifier à ce vilain homme ?
+
+-*who_lechevalier
+Je le crois fermement, dont j'enrage.
+
+-*who_fanchon
+Ah !
+Que je suis malheureuse !
+
+-*who_lechevalier
+Il ne tient qu'à vous de faire mon bonheur et le vôtre.
+
+-*who_fanchon
+Je ne me sens pas le courage de faire d'emblée un coup si hardi : je vois qu'il faut que vous m'y accoutumiez par degrés.
+
+-*who_lechevalier
+Ma belle Fanchon, si vous m'aimiez...
+
+-*who_fanchon
+Je ne vous aime que trop : vous m'attendrissez, vous m'allez faire pleurer, vous me déchirez le coeur ; allez-vous-en.
+
+**** *book_ *id_II13 *act_II *date_1732
+
+-*who_lacomtesse
+Eh bien !
+Comment vont nos affaires ?
+
+-*who_fanchon
+Hélas !
+Tout de travers.
+
+-*who_lacomtesse
+Quoi !
+N'aurait-il pas daigné ?...
+
+-*who_fanchon
+Bon !
+Il veut seulement avoir une femme pour la faire mourir de chagrin.
+
+-*who_lacomtesse
+Mais enfin, ma soeur, vous lui avez parlé ?
+
+-*who_fanchon
+Je vous en réponds, et de la bonne manière : monsieur le chevalier y était présent.
+
+-*who_lacomtesse
+Et pourquoi monsieur le chevalier ?
+
+-*who_fanchon
+Parce qu'heureusement il s'est trouvé là.
+
+-*who_lacomtesse
+Mais enfin qu'est-ce que ce cruel a répondu ?
+
+-*who_fanchon
+Lui, ma soeur ?
+Il m'a répondu que j'étais une merluche, une impertinente, une morveuse.
+
+-*who_lacomtesse
+Oh ciel !
+
+-*who_fanchon
+Il m'a dit que j'avais en deux ou trois enfants, mais qu'il ne s'en mettait pas en peine.
+
+-*who_lacomtesse
+À quel excès...
+
+-*who_fanchon
+Que cela ne l'empêcherait de rien.
+
+-*who_lacomtesse
+Hélas !
+
+-*who_fanchon
+Qu'il allait trouver mon père et ma mère.
+
+-*who_lacomtesse
+Mais, ma soeur !...
+
+-*who_fanchon
+Qu'il signerait les articles ce soir.
+
+-*who_lacomtesse
+Quels articles ?
+
+-*who_fanchon
+Et qu'il m'épouserait cette nuit.
+
+-*who_lacomtesse
+Lui, ma soeur !
+
+-*who_fanchon
+En dût-il être cocu !
+Ah !
+Le coeur me fend.
+Monsieur le chevalier et moi, nous sommes inconsolables.
+
+-*who_lacomtesse
+Je ne comprends rien à ce que vous me dites.
+Quoi !
+Monsieur le comte, mon mari...
+
+-*who_fanchon
+Eh non !
+Ce n'est pas de votre mari dont je parle ; c'est du bourreau qui veut être le mien.
+
+-*who_lacomtesse
+Quoi !
+Mon père s'obstine à vouloir vous donner pour mari ce grand vilain Monsieur du Cap-Vert ?
+Que je vous plains, ma soeur !
+Mais avez-vous parlé à monsieur le comte ?
+
+-*who_fanchon
+Au nom de Dieu ; ma soeur, engagez mon père à différer ce mariage.
+Monsieur le chevalier vous en prie avec moi.
+
+-*who_lechevalier
+Vous êtes soeurs ; vous devez vous rendre la vie douce l'une à l'autre ; et je voudrais vous rendre service à toutes deux.
+
+-*who_lacomtesse
+J'irai me jeter aux pieds de mon père et de ma mère.
+Mais avez-vous vu monsieur le comte ?
+
+-*who_fanchon
+Ma soeur, ne m'abandonnez pas.
+
+-*who_lacomtesse
+Mais dites si vous avez fait quelque chose pour moi.
+
+-*who_lechevalier
+Donnez donc quelque réponse à madame.
+
+-*who_fanchon
+Voyez-vous, ma soeur, si l'on me force à épouser cet homme-là, je suis fille à mettre le feu aux poudres, et à sauter en l'air avec son maudit vaisseau, lui, l'équipage, et moi.
+
+-*who_lacomtesse
+Si je ne puis parvenir à rendre mon mari raisonnable, vous me verrez expirer de douleur.
+
+-*who_fanchon
+Ne manquez pas de représenter à ma mère la cruauté qu'il y aurait à me laisser manger par ce cancre de corsaire.
+
+-*who_lechevalier
+Vous avez toutes deux la tête pleine de votre affaire.
+Daignez rentrer l'une et l'autre, et souffrez que je vous donne mes petits avis pour le bonheur de tous trois.
+
+**** *book_ *id_III01 *act_III *date_1732
+
+-*who_monsieurdeletrier
+Votre Excellence n'a pas le sou, à ce que je vois.
+
+-*who_lecomte
+Il est vrai : ayant su que mon rendez-vous n'était que pour le soir, j'ai été jouer chez la grosse duchesse ; j'ai tout perdu.
+Mais j'ai de quoi me consoler ce sont au moins des gens titrés qui ont eu mon argent.
+
+-*who_monsieurdeletrier
+Argent mal acquis ne profite pas, comme vous voyez.
+
+-*who_lecomte
+Il n'était, ma foi, ni bien ni mal acquis ; il n'était point acquis du tout : je ne sais qui me l'a envoyé ; c'est pour moi un rêve, je n'y comprends rien.
+Il semble que Fanchon ait voulu se moquer de moi.
+Voilà pourtant vingt mille francs que j'ai reçus et que j'ai perdus en un quart d'heure.
+Oui, je suis piqué, je suis piqué, outré ; je sens que je serais au désespoir si cela n'était pas au-dessous de moi...
+Monsieur de l'Étrier !
+
+**** *book_ *id_III02 *act_III *date_1732
+
+-*who_fanchon
+C'est-à-dire, notre beau-frère, que vous avez perdu l'argent que je vous avais donné tantôt.
+
+-*who_lecomte
+Ne songeons point à ces bagatelles, ma belle enfant.
+Quand voulez-vous me faire voir cette généreuse inconnue, cette beauté, cette divinité qui se transforme en pluie d'or pour m'obtenir ?
+
+-*who_fanchon
+Vous ne pourrez la voir que ce soir, sur le tard : mais je viens vous consoler.
+
+-*who_lecomte
+Mon aimable enfant, rien n'est si consolant que votre vue : et, le diable m'emporte ! il me prend fantaisie de vous payer ce que je dois à cette aimable personne.
+
+-*who_fanchon
+Je ne suis point intéressée, et ne vais point sur le marché des autres.
+Réservez toutes vos bontés pour elle ; elle les mérite mieux que moi : c'est le visage du monde le plus aimable, la taille la plus belle, des airs charmants...
+
+-*who_lecomte
+Ah !
+Ma chère Fanchon !
+
+-*who_fanchon
+Un ton de voix tendre et touchant, un esprit juste, fin, doux, le coeur le plus noble : hélas !
+Vous vous en apercevrez assez.
+Si vous vouliez être honnête homme au lieu d'être petit-maître, vous conduire en homme sage au lieu de vous ruiner en grand seigneur, elle vous adorera toute sa vie.
+
+-*who_lecomte
+Ma chère Fanchon !
+
+-*who_fanchon
+Soyez sûr qu'elle ne vivra que pour vous, et que son amour ne sera point incommode ; qu'elle chérira votre personne, votre honneur, votre famille, comme sa personne, son honneur, sa famille propre ; que vous goûterez ensemble un bonheur dont vous n'avez point d'idée...
+Ni moi non plus.
+
+-*who_lecomte
+Ma chère Fanchon, vous m'éblouissez, vous me ravissez !
+Je suis en extase, je meurs déjà d'amour pour elle.
+Ah !
+Pourquoi faut-il que j'attende encore une heure à la voir ?
+
+-*who_fanchon
+Vous voilà ému de tout ce que je viens de dire ; vous le seriez bien davantage si...
+Enfin, que diriez-vous si je vous donnais de sa part cinquante mille livres en diamants ?
+
+-*who_lecomte
+Ce que je dirais ?...
+Je dirais que cela est impossible ; je ferais imprimer ce conte à la fin des Mille et une Nuits.
+
+-*who_fanchon
+Cela n'est point impossible : les voilà.
+
+-*who_lecomte
+Juste ciel !
+Est-ce un miracle ?
+Est-ce un songe ?...
+J'avoue que j'ai cru jusqu'ici avoir quelque petit mérite ; mais je ne pensais pas en avoir à ce point-là.
+
+-*who_fanchon
+Écoutez bien : ce n'est pas parce que vous avez du mérite que l'on vous traite ainsi ; mais c'est afin que vous en ayez, si vous pouvez.
+Ah çà !
+Je vous ai parlé assez longtemps de vos affaires ; venons aux miennes : je vous rends, je crois, un assez joli service ; il faut me récompenser.
+
+-*who_lecomte
+Parlez : le service est si récent qu'il n'y a pas moyen que je sois ingrat.
+
+-*who_fanchon
+Mon père a chaussé dans sa tête de me faire madame du Cap-Vert : on dresse actuellement le contrat, c'est-à-dire mon arrêt de mort.
+Jugez de l'état où je suis, puisque j'ai perdu toute ma gaieté : cependant je suis si bonne que j'ai pensé à vos affaires avant que de régler les miennes.
+Le moment fatal arrive, la tête commence à me tourner ; je ne sais plus que devenir.
+
+-*who_lecomte
+Eh bien ! que voulez-vous que je fasse ?
+
+-*who_fanchon
+Je n'en sais rien ; mais que je ne sois pas madame du Cap-Vert.
+
+-*who_lecomte
+Ma fille, il faudra voir cette affaire-là.
+On lavera la tête au président.
+Je lui parlerai, je lui parlerai, et du bon ton : oui, fiez-vous à moi.
+Mais quand viendra la fée aux diamants et à l'argent comptant ?
+
+-*who_fanchon
+Elle a plus d'envie de vous voir que vous n'en avez de la remercier : elle viendra bientôt, je vous jure.
+Vous savez que l'on court après son argent ; mais ceux qui l'ont reçu sont d'ordinaire fort tranquilles.
+Adieu ; je vais chercher une femme qui vous aime : servez-moi seulement contre un homme que je n'aime point.
+
+**** *book_ *id_III03 *act_III *date_1732
+
+-*who_lecomte
+Monsieur de l'Étrier, il arrive d'étranges choses dans la vie.
+
+-*who_monsieurdeletrier
+Oui, et surtout aux étranges gens, monseigneur.
+
+-*who_lecomte
+Ne gratte-t-on pas à la porte ?
+
+-*who_monsieurdeletrier
+Oui, monseigneur ;
+
+-*who_lecomte
+C'est sans doute celle à qui j'ai tourné la tête : je vous avoue que j'ai quelque curiosité de la voir.
+
+**** *book_ *id_III04 *act_III *date_1732
+
+-*who_lecomte
+C'est sans doute elle qui se cache dans ses coiffes.
+
+-*who_madameducapvert
+C'est donc ici la maison du président Bodin ?
+
+-*who_monsieurdeletrier
+Oui, la vieille, c'est la maison du président Bodin ; mais c'est ici chez monsieur le comte.
+
+-*who_madameducapvert
+Ah !
+Mon petit comte, vois-tu, il faut que tu secoures ici une pauvre affligée.
+
+-*who_lecomte
+Madame, souffrez qu'à vos genoux...
+
+-*who_madameducapvert
+Non, mon cher enfant, c'est à moi de me jeter aux tiens.
+
+-*who_lecomte
+Elle a raison...
+Ah !
+Qu'elle est laide !
+Eh bien !
+Madame, c'est donc vous qui avez bien voulu me faire des avances si solides, et qui...
+
+-*who_madameducapvert
+Oui, mon ami, je te fais toutes les avances.
+Est-il bien vrai que mon petit traître est dans la maison ?
+
+-*who_lecomte
+Quoi !
+Madame !
+Quel traître ?
+De qui me parlez-vous ?
+Est-ce de moi ?
+
+-*who_madameducapvert
+Mon traître, mon petit traître, mon petit mari : on dit qu'il est ici.
+
+-*who_lecomte
+Votre mari ?
+Eh !
+S'il vous plaît, comment nommez-vous ce pauvre homme-là ?
+
+-*who_madameducapvert
+Monsieur du Cap-Vert, monsieur du Cap-Vert.
+
+-*who_lecomte
+Eh mais !
+Oui, madame, je crois qu'oui ; je crois qu'il est ici.
+
+-*who_madameducapvert
+Tu crois qu'oui !...
+Me voilà la femme de la terre habitable la plus heureuse.
+J'aurai le plaisir de dévisager ce fripon-là.
+Il est joli !
+Il y a vingt ans qu'il m'a abandonnée, il y a vingt ans que je le cherche : je le trouve ; voilà qui est fait.
+Où est-il ?
+Qu'on me le montre !
+Qu'on me le montre !
+
+-*who_lecomte
+Quoi ! sérieusement, vous seriez un peu madame du Cap-Vert ?
+
+-*who_madameducapvert
+Oui, mon petit fripon ; il y a tantôt cinquante ans.
+
+-*who_lecomte
+Écoutez : vous arrivez fort mal à propos pour moi, mais encore plus mal à propos pour lui.
+Il va se marier à la fille du président Bodin.
+
+-*who_madameducapvert
+Lui, épouser une fille du président !
+Non, mort de ma vie !
+Je l'en empêcherai bien.
+
+-*who_lecomte
+Et pourquoi ?
+J'en ai bien épousé une, moi qui vous parle.
+
+-*who_madameducapvert
+Il y a vingt ans qu'il me joue de ces tours-là, et qu'il va épousant tout le monde.
+Il me fit mettre dans un couvent après deux ans de mariage, à cause d'un certain régiment de dragons qui vint alors à Bayonne, et qui était extrêmement galant : mais nous avons sauté les murs, nous nous sommes vengé !
+Ah !
+Que nous nous sommes vengé, mon petit freluquet !
+
+-*who_lecomte
+Est-ce donc vous, ma bonne, qui m'avez envoyé...
+
+-*who_madameducapvert
+Moi, je ne t'ai rien envoyé que je sache : je viens chercher mon traître.
+
+-*who_lecomte
+Ô ciel !
+Mon destin sera-t-il toujours d'être importuné !
+M'amie, il y a ici deux affaires importantes : la première est un rendez-vous que vous venez interrompre ; la seconde est le mariage de Monsieur du Cap-Vert, que je ne serai pas fâché d'empêcher.
+C'est un brutal ; il est bon de le mortifier un peu : je vous prends sous ma protection.
+Retirez-vous un peu, s'il vous plaît.
+Holà !
+Hé !
+Quelqu'un !
+Monsieur de l'Étrier, qu'on ait soin de madame.
+Allez, ma bonne, on vous présentera à Monsieur du Cap-Vert dans l'occasion.
+
+-*who_madameducapvert
+Tu me parais tant soit peu impertinent ; mais puisque tu me rends service de si bon coeur, je te le pardonne.
+
+**** *book_ *id_III05 *act_III *date_1732
+
+-*who_lecomte
+Serai-je enfin libre un moment ?
+Oh ciel !
+Encore un importun !
+Ah !
+Je n'y puis plus tenir ; j'aime mieux quitter la partie.
+
+**** *book_ *id_III06 *act_III *date_1732
+
+-*who_lechevalier
+À qui diable en a-t-il donc de s'enfuir ?
+Et vous, à qui diable en avez-vous de ne vouloir pas que je vous parle ?
+
+-*who_fanchon
+J'ai affaire ici : retirez-vous, vous dis-je ; songez seulement à éloigner Monsieur du Cap-Vert.
+
+-*who_lechevalier
+Mais quelle affaire si pressante ?...
+
+-*who_fanchon
+Croyez-vous que je n'ai pas ici d'autres intérêts à ménager que les vôtres ?
+
+-*who_lechevalier
+Vous me désespérez..
+
+-*who_fanchon
+Vous m'excédez.
+
+-*who_lechevalier
+Je veux savoir absolument...
+
+-*who_fanchon
+Absolument vous ne saurez rien.
+
+-*who_lechevalier
+Je resterai jusqu'à ce que je voie de quoi il s'agit.
+
+-*who_fanchon
+Oh !
+Oh !
+Vous voulez être jaloux.
+
+-*who_lechevalier
+Non, mais je suis curieux.
+
+-*who_fanchon
+Je n'aime ni les curieux ni les jaloux, je vous en avertis : si vous étiez mon mari, je ne vous pardonnerais jamais ; mais je vous le passe, parce que vous n'êtes que mon amant.
+Dénichez, voici ma soeur.
+
+-*who_lechevalier
+Puisque ce n'est que sa soeur, encore passe.
+
+**** *book_ *id_III07 *act_III *date_1732
+
+-*who_fanchon
+Ma chère soeur, vos affaires et les miennes sont embarrassantes : ce n'est pas une petite entreprise de réformer le coeur de monsieur le comte, et de renvoyer le monstre marin qu'on me veut donner.
+Mais où avez-vous laissé Monsieur du Cap-Vert ?
+
+-*who_lacomtesse
+Il est là-bas qui gronde tout le monde, et qui jure qu'il vous épousera dans un quart d'heure.
+Mais, monsieur le comte, que fait-il, ma soeur ?
+
+-*who_fanchon
+Il est à sa toilette qui se poudre pour vous recevoir.
+
+-*who_lacomtesse
+Va-t-il venir bientôt ?
+
+-*who_fanchon
+Tout à l'heure.
+
+-*who_lacomtesse
+Ne me reconnaîtra-t-il point ?
+
+-*who_fanchon
+Non, si vous parlez bas, si vous déguisez le son de votre voix, et s'il n'y a point de lumières.
+
+-*who_lacomtesse
+Le coeur me bat, les larmes me viennent aux yeux...
+
+-*who_fanchon
+Ne pleurez donc point : Songez-vous bien que je vais peut-être mourir de douleur dans un quart d'heure, moi qui vous parle ?
+Mais cela ne m'empêche pas de rire en attendant.
+Ah !
+Voici votre fat de mari : emmitouflez-vous bien dans vos coiffes, s'il vous plaît.
+Monsieur le comte, arrivez, arrivez.
+
+**** *book_ *id_III08 *act_III *date_1732
+
+-*who_lecomte
+Enfin donc, mn chère Fanchon, voici la divinité aux louis d'or et aux diamants.
+
+-*who_fanchon
+Oui, c'est elle-même préparez-vous à lui rendre vos hommages.
+
+-*who_lacomtesse
+Je tremble.
+
+-*who_fanchon
+Ma présence est un peu inutile ici : je vais trouver mon cher Monsieur du Cap-Vert.
+Adieu ; comportez-vous en honnête homme.
+
+**** *book_ *id_III09 *act_III *date_1732
+
+-*who_lecomte
+Quoi !
+Généreuse inconnue, vous m'accablez de bienfaits, vous daignez joindre à tant de bontés celle de venir jusque dans mon appartement, et vous m'enviez le bonheur de votre vue, qui est pour moi d'un prix mille fois au-dessus de vos diamants !
+
+-*who_lacomtesse
+Je crains que, si vous me voyez, votre reconnaissance diminue : je voudrais être sûre de votre amour avant que vous puissiez lire le mien dans mes yeux.
+
+-*who_lecomte
+Doutez-vous que je ne vous adore, et qu'en vous voyant je ne vous en aime davantage ?
+
+-*who_lacomtesse
+Hélas !
+Oui ; c'est dont je doute, et c'est ce qui fait mon malheur.
+
+-*who_lecomte
+Je jure, par ces mains adorables, que j'aurai pour vous la passion la plus tendre.
+
+-*who_lacomtesse
+Je vous avoue que je n'ai jamais rien désiré que d'être aimée de vous ; et si vous me connaissiez bien, vous avoueriez peut-être que je le mérite, malgré ce que je suis.
+
+-*who_lecomte
+Hélas !
+Ne pourrai-je du moins connaître celle qui m'honore de tant de bontés ?
+
+-*who_lacomtesse
+Je suis la plus malheureuse femme du monde : je suis mariée, et c'est ce qui fait le chagrin de ma vie.
+J'ai un mari qui n'a jamais daigné me regarder : si je lui parlais, à peine reconnaîtrait-il ma voix.
+
+-*who_lecomte
+Le brutal !
+Est-il possible qu'il puisse mépriser une femme comme vous ?
+
+-*who_lacomtesse
+Il n'y a que vous qui puissiez m'en venger : mais il faut que vous me donniez tout votre coeur ; sans cela, je serais encore plus malheureuse qu'auparavant.
+
+-*who_lecomte
+Souffrez donc que je vous venge des cruautés de votre indigne mari ; souffrez qu'à vos pieds...
+
+-*who_lacomtesse
+Je vous assure que c'est lui qui s'attire cette aventure : s'il m'aimait, je vous jure qu'il aurait en moi la femme la plus tendre, la plus soumise, la plus fidèle.
+
+-*who_lecomte
+Le bourreau !
+Il mérite bien le tour que vous lui jouez.
+
+-*who_lacomtesse
+Vous êtes mon unique ressource dans le monde.
+Je me suis flattée que, dans le fond, vous êtes un honnête homme ; qu'après les obligations que vous m'avez, vous vous ferez un devoir de bien vivre avec moi.
+
+-*who_lecomte
+Tenez-moi pour le plus grand faquin, pour un homme indigne de vivre, si je trompe vos espérances.
+Ce que vous faites pour moi me touche sensiblement ; et, quoique je ne connaisse de vous que ces mains charmantes que je tiens entre les miennes, je vous aime déjà comme si je vous avais vue.
+Ne différez plus mon bonheur : permettez que je fasse venir des lumières, que je voie toute ma félicité.
+
+-*who_lacomtesse
+Attendez encore un instant, vous serez peut-être étonné de ce que je vais vous dire.
+Je compte souper avec vous ce soir, et ne vous pas quitter sitôt : en vérité, je ne crois pas qu'il y ait en cela aucun mal.
+Promettez-moi seulement de ne m'en pas moins estimer.
+
+-*who_lecomte
+Moi !
+Vous en estimer moins, pour avoir fait le bonheur de ma vie !
+Il faudrait que je fusse un monstre.
+Je veux dans l'instant...
+
+-*who_lacomtesse
+Encore un mot, je vous prie.
+Je vous aime plus pour vous que pour moi : promettez-moi d'être un peu plus rangé dans vos affaires, et d'ajouter le mérite solide d'un homme sage et modeste aux agréments extérieurs que vous avez.
+Je ne puis être heureuse si vous n'êtes heureux vous-même, et vous ne pourrez jamais l'être sans l'estime des honnêtes gens.
+
+-*who_lecomte
+Tout ceci me confond : Vos bienfaits, votre conversation, vos conseils, m'étonnent, me ravissent.
+Eh quoi !
+Vous n'êtes venue ici que pour me faire aimer la vertu !
+
+-*who_lacomtesse
+Oui, je veux que ce soit elle qui me fasse aimer de vous : c'est elle qui m'a conduite ici, qui règne dans mon coeur, qui m'intéresse pour vous, qui me fait tout sacrifier pour vous ; c'est elle qui vous parle sous des apparences criminelles ; c'est elle qui me persuade que vous m'aimerez.
+
+-*who_lecomte
+Non, madame, vous êtes un ange descendu du ciel : chaque mot que vous me dites me pénètre l'âme.
+Si je vous aimerai, grand Dieu !.,.
+
+-*who_lacomtesse
+Jurez-moi que vous m'aimerez quand vous m'aurez vue.
+
+-*who_lecomte
+Oui, je vous le jure à vos pieds, par tout ce qu'il y a de plus tendre, de plus respectable, de plus sacré dans le monde.
+Souffrez que le page qui vous a introduite apporte enfin des flambeaux : je ne puis demeurer plus longtemps sans vous voir.
+
+-*who_lacomtesse
+Eh bien donc j'y consens.
+
+-*who_lecomte
+Holà !
+Page, des lumières.
+
+-*who_lacomtesse
+Vous allez être bien surpris.
+
+-*who_lecomte
+Je vais être charmé...
+Juste ciel !
+C'est ma femme !
+
+-*who_lacomtesse
+C'est déjà beaucoup qu'il m'appelle de ce nom : c'est pour la première fois de sa vie.
+
+-*who_lecomte
+Est-il possible que ce soit vous ?
+
+-*who_lacomtesse
+Voyez si vous êtes honnête homme, et si vous tiendrez vos promesses.
+
+-*who_lecomte
+Vous avez touché mon coeur : vos bontés l'emportent sur mes défauts.
+On ne se corrige pas tout d'un coup : je vivrai avec vous en bourgeois ; je vous aimerai ; mais qu'on n'en sache rien, s'il vous plaît.
+
+**** *book_ *id_III10 *act_III *date_1732
+
+-*who_fanchon
+Au secours !
+Au secours contre des parents et un mari !
+Monsieur le comte, rendez-moi service à votre tour.
+
+-*who_monsieurducapvert
+Eh bien !
+Est-on prêt à démarrer ?
+
+-*who_lepresident
+Allons, ma petite fille, point de façon : voici l'heure de l'année la plus favorable pour un mariage.
+
+-*who_fanchon
+Voici l'heure la plus triste de ma vie.
+
+-*who_lapresidente
+Ma fille, il faut avaler la pilule.
+
+-*who_fanchon
+Mon père, encore une fois...
+
+-*who_monsieurducapvert
+Levez-vous ; vous remercierez votre père après.
+
+-*who_fanchon
+Ma chère mère...
+
+-*who_lapresidente
+Vous voilà bien malade !
+
+-*who_fanchon
+Mon cher monsieur le comte...
+
+-*who_lecomte
+Je vois bien qu'il vous faut tirer d'intrigue...
+Monsieur de l'Étrier, amenez un peu cette dame...
+Monsieur le marin, je crois qu'on va mettre quelque opposition à vos bans.
+
+**** *book_ *id_III11 *act_III *date_1732
+
+-*who_madameducapvert
+Eh !
+Mon petit mari, te voilà, infâme, bigame, polygame !
+Je vais te faire pendre, mon cher coeur.
+
+-*who_monsieurducapvert
+Sainte-barbe !
+C'est ma femme !
+Quoi !
+Tu n'es pas morte il y a vingt ans ?
+
+-*who_madameducapvert
+Non, mon bijou ; il y a vingt ans que je te guettais.
+Embrasse-moi, fripon, embrasse-moi : il vaut mieux tard que jamais.
+
+-*who_lepresident
+Quoi !
+C'est là madame du Cap-Vert, que j'ai enterrée dans toutes les règles !
+
+-*who_madameducapvert
+Tes règles ne valent pas le diable, ni loi non plus.
+Mon mari, il est temps d'être sage : tu as assez couru le monde, et moi aussi.
+Tu seras heureux avec moi ; quitte cette petite morveuse-là.
+
+-*who_monsieurducapvert
+Mais de quoi t'avises-tu de n'être pas morte ?
+
+-*who_lepresident
+Je croyais cela démontré.
+
+-*who_fanchon
+Ma chère dame, embrassez-moi.
+Mon Dieu !
+Que je suis aise de vous voir !
+
+-*who_lechevalier
+Ma bonne dame du Cap-Vert, vous ne pouviez venir plus à-propos ; je vous en remercie.
+
+-*who_madameducapvert
+Voilà un assez aimable garçon.
+Traître !
+Si mes deux enfants étaient aussi aimables que cela, je te pardonnerais tout.
+Où sont-ils, où sont-ils, mes deux enfants ?
+
+-*who_monsieurducapvert
+Tes deux enfants ?
+Ma foi, c'est à toi à en savoir des nouvelles ; il y a vingt ans que je n'ai vu toute cette marmaille-là : Dieu les bénisse !
+J'ai été cinq ou six fois aux antipodes depuis ; j'ai mouillé une fois à Bayonne pour en apprendre des nouvelles : je crois que tout cela est crevé.
+J'en suis fâché au fond, car je suis bonhomme.
+
+-*who_madameducapvert
+Traître !
+Et Mme Éberne, chez qui tu avais mis un de mes enfants ?
+
+-*who_monsieurducapvert
+C'était une fort honnête personne, et qui m'a toujours été d'un grand secours.
+
+-*who_lechevalier
+Eh !
+Mon Dieu !
+À qui en parlez-vous ?
+J'ai été élevé par cette Mme Éberne : à Bayonne je me souviens des soins qu'elle prit de mon enfance, et je ne les oublierai jamais.
+
+-*who_lecomte
+Mais qu'est-ce que c'est que ça ?
+Mais qu'est-ce que c'est que ça ?
+Je me souviens aussi fort bien de cette Madame Éberne.
+
+-*who_monsieurducapvert
+Et corbleu !
+Qu'est-ce que c'est que ça aussi ?
+Par la sambleu !
+Voilà qui serait drôle !
+Vous êtes donc aussi de Bayonne, monsieur le fat ?
+
+-*who_lecomte
+Point d'injures, s'il vous plaît : oui, la maison des Apprêts est aussi de Bayonne.
+
+-*who_monsieurducapvert
+Et comment avez-vous connu Mme Éberne ?
+
+-*who_madameducapvert
+Oui, comment ?
+Répondez.
+Vous...
+Vous...
+Ouf !...
+Mon coeur me dit...
+
+-*who_lecomte
+C'était ma gouvernante, Mme Rafle, qui m'y menait souvent.
+
+-*who_monsieurducapvert
+Madame Rafle vous a élevé ?
+
+-*who_madameducapvert
+Madame Éberne a été votre mie ?
+
+-*who_lecomte
+Oui, monsieur.
+
+-*who_lechevalier
+Oui, madame.
+
+-*who_monsieurducapvert
+Ouais !
+Cela serait plaisant !
+Cela ne se peut pas.
+Mais si cela se pouvait, je ne me sentirais pas de joie.
+
+-*who_madameducapvert
+Je commence déjà à pleurer de tendresse.
+
+**** *book_ *id_III12 *act_III *date_1732
+
+-*who_madameducapvert
+Approchez, approchez, madame Rafle, et reconnaissez, comme vous pourrez, ces deux espèces-là.
+
+-*who_lepresident
+Allez, allez, je vois bien ce qui vous tient ; vous vous imaginez qu'on peut retrouver vos enfants : cela ne se peut pas.
+J'ai tiré leur horoscope ils sont morts en nourrice.
+
+-*who_monsieurducapvert
+Oh ! si votre art les a tués, je les crois donc en vie : sans doute, je retrouverai mes enfants.
+
+-*who_madameducapvert
+Assurément, cela va tout seul, n'est-il pas vrai, madame Rafle ?
+Vous savez comment celui-ci est venu : c'était un petit mystère.
+
+-*who_madamerafle
+Eh !
+Mon Dieu oui !
+Je les reconnais...
+Bonjour, mes deux espiègles.
+Comme cela est devenu grand !
+
+-*who_madameducapvert
+Allons, allons, n'en parlons plus.
+J'ai retrouvé mes trois vagabonds tout cela est à moi.
+
+-*who_madamerafle
+On ne peut pas s'y méprendre : voilà vingt marques indubitables auxquelles je les reconnais.
+
+-*who_monsieurducapvert
+Oh !
+Cela va tout seul, et je n'y regarde pas de si près.
+
+-*who_lepresident
+Qu'est-ce que vous dites là ?
+
+-*who_lapresidente
+Quelles vapeurs avez-vous dans la tête ?
+
+-*who_lechevalier
+Quoi !
+Vous seriez effectivement ma mère ?
+
+-*who_lecomte
+Mais qu'est-ce que ça ?
+Qu'est-ce que ça ?
+Si vous êtes mon père, vous êtes donc un homme de qualité ?
+
+-*who_monsieurducapvert
+Malheureux !
+Comment as-tu fait pour le devenir, et pour être gendre du président ?
+
+-*who_lecomte
+Mais, mais, que me demandez-vous là ?
+Que me demandez-vous là ?
+Cela s'est fait tout seul, tout aisément.
+Premièrement, j'ai l'air d'un grand seigneur ; j'ai épousé d'abord la veuve d'un négociant qui m'a enrichi, et qui est morte ; j'ai acheté des terres ; je me suis fait comte ; j'ai épousé madame ; je veux qu'elle soit comtesse toute sa vie.
+
+-*who_lacomtesse
+Dieu m'en préserve !
+J'ai été trop maltraitée sous ce titre.
+Contentez-vous d'être fils de votre père, gendre de votre beau-père, et mari de votre femme.
+
+-*who_monsieurducapvert
+Écoute : s'il t'arrive de faire encore le seigneur, c'est-à-dire le fat, je te romprai bras et jambes.
+Et toi, mons le freluquet, par quel hasard es-tu dans cette maison ?
+
+-*who_lechevalier
+Par un dessein beaucoup plus raisonnable que le vôtre, mon père, avec le respect que je vous dois : je voulais épouser mademoiselle, dont je suis amoureux, et qui me convient un peu mieux qu'à vous.
+
+-*who_lepresident
+Ma foi, tout ceci n'était point dans mes éphémérides.
+Voilà qui est fait, je renonce à l'astrologie.
+
+-*who_lapresidente
+Puisque ce malade-ci m'a trompée, je ne veux plus me mêler de médecine.
+
+-*who_monsieurducapvert
+Moi, je renonce à la mer pour le reste de ma vie.
+
+-*who_lecomte
+Et moi, à mes sottises.
+
+-*who_monsieurducapvert
+Je partage mon bien entre mes enfants, et donne cet étourdi-ci à cette étourdie-là.
+Je ne suis pas si malheureux : il est vrai que j'ai retrouvé ma femme ; mais puisque le ciel me redonne aussi mes deux enfants, ne pensons plus qu'à nous réjouir.
+J'ai amené quelques Turcs avec moi, qui vont vous donner un petit ballet en attendant la noce.
+
+**** *book_ *id_IV01 *act_IV *date_1732
+
+-*who_uneturque
+Tout l'Orient
+Est un vaste couvent.
+Un musulman voit à ses volontés
+Obéir cent beautés.
+La coutume est bien contraire en France,
+Une femme sous ses lois
+A vingt amants à la fois.
+Ah ! quelle différence !
+Un Portugais
+Est toujours aux aguets,
+Et jour et nuit de son diable battu,
+Il craint d'être cocu.
+On n'est point si difficile en France
+Un mari, sans craindre rien,
+Est cocu tout aussi bien ;
+Ah ! quelle différence !
+Par tout pays
+On voit de sots maris,
+Fesse-mathieux, ou bourrus, ou jaloux ;
+On les respecte tous.
+C'est, ma foi, tout autre chose en France :
+Un seul couplet de chanson
+Les met tous à la raison ;
+Ah ! quelle différence !
+Un Allemand
+Est quelquefois pesant ;
+Le sombre Anglais même dans ses amours
+Veut raisonner toujours.
+On est bien plus raisonnable en France :
+Chacun sait se réjouir,
+Chacun vit pour le plaisir ;
+Ah ! quelle différence !
+Dans l'univers
+On fait de mauvais vers ;
+Chacun jouit du droit de rimailler
+Et de nous ennuyer.
+On y met un bon remède en France :
+On inventa les sifflets,
+Dont Dieu nous garde à jamais !
+Ah ! Quelle différence !

@@ -1,0 +1,1925 @@
+---
+identifier: beaunoir_sculpteur  
+creator: Beaunoir Alexandre-Louis-Bertrand Robineau dit de  
+date: 1784  
+title: Le sculpteur. , comédie  
+---
+
+
+LE SCULPTEUR
+
+OU LA FEMME COMME IL Y EN A PEU
+
+COMÉDIE EN DEUX ACTES, EN PROSE
+
+M. DCC. LXXXIV.
+
+Par Madame DE BEAUNOIR.
+
+# . # APPROBATION. Lu et approuvé. A Paris, ce 27 Février 1784. SUARD. Vu l'approbation, permis d'imprimer. À Paris, ce 28 Février 1784. LE NOIR.À PARIS, Chez CAILLEAU, Imprimeur-Libraire, rue Galande.
+Représentée, pour la première fois, à Paris au Théâtre des Variétés amusantes le Mercredi 14 Janvier 1784.
+
+
+# ACTEURS.
+ – LE COMTE D'ARTIPHILE.
+ – LE DOUX, Sculpteur.
+ – BÉCARRE, Musicien.
+ – L'ABBÉ RÉMIFA.
+ – MADEMOISELLE DES BRISÉES, Danseuse.
+ – DU CISEAU, Sculpteur.
+ – SUSANNE, épouse de le Doux.
+ – MADAME CAQUET.La scène se passe dans un atelier.
+
+
+# ACTE I.
+Le théâtre représente un atelier de sculpteur.
+
+
+
+## SCÈNE PREMIÈRE. Madame Caquet, Suzanne.
+Au lever de la toile, Susanne est occupée à peindre.
+
+
+    MADAME CAQUET.
+Tenez, ma voisine, voilà une lettre que vient de me remettre pour vous le facteur de la petite poste.
+
+    SUSANNE, LA METTANT DANS LA POCHE DE SON TABLIER.
+Bien obligé, Madame Caquet.
+
+    MADAME CAQUET.
+Que je ne vous gêne pas.
+
+    SUSANNE.
+Elle n'est pas pour moi.
+
+    MADAME CAQUET.
+Elle n'est pas pour Monsieur le Doux ?
+
+    SUSANNE.
+Oui, Madame.
+
+    MADAME CAQUET.
+Eh bien ! Est-ce qu'entre mari et femme, on doit avoir des secrets l'un pour l'autre ?
+
+    SUSANNE.
+Aussi le Doux n'a-t-il rien de caché pour moi.
+
+    MADAME CAQUET.
+Et vous n'osez l'ouvrir ?
+
+    SUSANNE.
+Mon mari ne décachette pas les miennes.
+
+    MADAME CAQUET.
+Il a raison ; mais, s'il n'a rien de caché pour vous, vous pouvez voir ce qu'on lui écrit : peut-être est-ce une affaire pressée, peut-être exige-t-elle une prompte réponse ?
+
+    SUSANNE.
+Le Doux est ici; il va bientôt descendre, et je la lui remettrai.
+
+    MADAME CAQUET.
+Ah ! Ma pauvre voisine, ma pauvre voisine !
+
+    SUSANNE.
+Que voulez-vous dire, Madame?
+
+    MADAME CAQUET.
+Si la plupart des femmes sont trompées, elles le méritent bien.
+
+    SUSANNE.
+Cela se peut, Madame.
+
+    MADAME CAQUET.
+Comme on endort aisément une jeune femme !
+
+    SUSANNE.
+Voulez-vous bien m'expliquer, Madame Caquet, ce que veulent dire tous ces demi-mots ? Est-ce à moi qu'ils s'adressent ?
+
+    MADAME CAQUET.
+Vous ! Bon ! Vous avez un mari trop sage.
+
+    SUSANNE.
+On ne peut être, plus heureuse que je le suis.
+
+    MADAME CAQUET. [1]
+C'est ce que tout le monde dit : cette pauvre petite Madame le Doux, qu'elle doit être contente ! Au bout d'un an et plus de mariage, son époux est toujours aussi empressé, aussi amoureux que le premier jour. Ce n'est pas de ces mauvais sujets qui n'ont pire maison que la leur ; qui abandonnent leurs femmes, leurs ménages, et vont s'enfermer toute la journée, et souvent une bonne partie de la nuit, dans une estaminette, pour fumer, boire et jouer. Le Doux est toujours chez lui, toujours à travailler ; il n'a pas de meilleur ami que sa femme : n'est-il pas vrai, ma voisine ?
+
+    SUSANNE.
+Sans doute.
+
+    MADAME CAQUET.
+Il voit, à la vérité, dit-on, ce Monsieur Bécarre, ce Musicien toujours altéré, qui ne sort d'un cabaret que pour rentrer dans un autre ; qu'on rencontre le matin gris ; qu'on ramasse le soir ivre mort : mais il ne le voit que pour le faire rougir de ce goût, pour l'en détourner ; et s'il se permet quelquefois de boire un coup avec lui, c'est qu'il sait qu'on ne corrige un ivrogne, qu'en feignant de partager son défaut : n'est-il pas vrai, ma voisine ?
+
+    SUSANNE.
+Monsieur Bécarre est son ami depuis longtemps : il peut avoir ce malheureux goût que vous lui reprochez ; mais il a le cœur excellent.
+
+    MADAME CAQUET.
+Il est bien certain qu'il ne ressemble en rien à ce vilain Monsieur du Ciseau, qui est bien le plus méchant homme, l'être le plus envieux qui soit dans la nature. Monsieur le Doux le voit tous les jours, ne le quitte pas ; mais c'est certainement pour adoucir son caractère ; et puis il vaut mieux vivre en paix avec les méchants, que d'être leur ennemi : n'est-il pas vrai, ma voisine ?
+
+    SUSANNE.
+Monsieur du Ciseau est lié d'affaires avec mon mari.
+
+    MADAME CAQUET.
+C'est encore une raison ; et, comme disent les hommes, les bonnes affaires ne se font que le verre à la main. Voilà pourquoi, sans doute, Monsieur du Ciseau et votre mari s'enFerment ensemble des jours entiers dans un petit jardin du faubourg : on doit y traiter bien des affaires, ma voisine : car il s'y boit rudement de vin ; et ces Messieurs y travaillent tant, qu'ils ont toujours en sortant la tête cassée, et ne savent pas même où ils mettent leurs pieds. C'est cependant bien désagréable pour une femme jeune, douce, honnête, jolie, de voir rentrer son mari dans un pareil état : n'est-il pas vrai, ma voisine ?
+
+    SUSANNE.
+En voilà assez, Madame. Je vois bien quelle est votre intention ; mais voulez-vous qu'à mon tour je vous ouvre mon cœur ?
+
+    MADAME CAQUET.
+Très volontiers. J'espère que vous pensez bien que tout ce que je vous dis, m'est dicté par le tendre intérêt que vous inspirez à tout le monde.
+
+    SUSANNE.
+J'en suis persuadée, Madame ; je crois même qu'il n'y a point de malignité dans votre conduite ; que si vous cherchez à m'éclairer sur celle de mon mari, c'est : uniquement par bonté d'âme, et non, comme on pourrait le penser, pour porter le trouble et la discorde dans mon ménage.
+
+    MADAME CAQUET.
+Vous me rendez justice ; vous lisez dans le fond de mon cœur.
+
+    SUSANNE.
+Eh bien ! Madame, supposons pour un instant que mon époux ait tous les défauts que vous lui prêtez : si je les connais, votre confidence est inutile ; et si je les ignore, elle est cruelle, puisqu'elle détruit une erreur qui me rend heureuse.
+
+    MADAME CAQUET.
+Écoutez-donc, Madame le Doux : ce que je vous en dis, n'est que par amitié pour vous. Vous êtes jeune encore ; vous ne savez pas combien il est intéressant qu'une femme ait l'œil à son ménage, et veille de près la conduite de son mari : il est de certains goûts qui, arrêtés dans leurs commencements, ne sont rien ; mais qui, lorsque l'on les laisse croître et s'enraciner, deviennent des habitudes cruelles, se changent bientôt en vices, et finissent par conduire à tout. Je puis vous en parler par expérience ; je sais tout ce que j'ai eu à souffrir, pour avoir été, comme vous, trop bonne, trop douce, trop confiante : j'avais un mari brutal, ivrogne, débauché, dissipateur ; eh bien ! Madame, je l'ai tant querellé, tant battu, qu'il a fini par prendre son parti : il est allé, je crois, aux Antipodes ; et depuis vingt ans, Dieu merci ! Je n'en ai pas seulement entendu parler ; mais vous n'êtes point dans ce cas-là.
+
+    SUSANNE.
+Heureusement, Madame. Le Doux fait mon bonheur, et sa conduite est telle qu'elle doit être.
+
+    MADAME CAQUET.
+Je vous crois, ma voisine. Monsieur le Doux est sage, rangé, toujours amoureux : je vous en fais mon compliment. Mais si, par hasard, (car tout peut arriver), il devenait jamais ivrogne ; s'il négligeait son ouvrage pour ses plaisirs ; s'il abandonnait sa femme pour ses coteries, souvenez-vous que je vous ai prévenue de bonne heure d'y mettre ordre ; et si votre maison se trouve ruinée, dites bien : c'est ma faute, et si j'eusse cru Madame Caquet, je ne me trouverais pas dans l'embarras où je suis : entendez-vous, Madame ?
+
+    SUSANNE.
+Oui, Madame.
+
+    MADAME CAQUET.
+De tous les goûts, celui du vin est le plus bas c'est aussi le plus dangereux. Il le par1ît peu dans les commencements ; mais les suites sont terribles, sont affreuses. Le vin éteint la raison et le talent, abrutit l'homme, et le mène de l'inconduite aux bassesses, des bassesses au vice, du vice au crime. Adieu, ma chère voisine ; je suis charmée de vous savoir heureuse.
+Elle sort.
+
+
+
+## SCÈNE II.
+
+    SUSANNE, SEULE.
+Hélas ! Ses funestes présages ne sont peut-être que trop vrais. Le calme est sur mon front, quand la douleur est dans mon cœur. Mais, est-ce à moi à déshonorer mon mari ? Eh ! Qui donc prendra soin de sa réputation, si ce n'est son épouse ?
+Elle se remet à peindre.
+
+Que sont devenus ces premiers moments, ces moments si doux de notre union ! Mon époux n'était alors occupé que de moi, il ne me dérobait que les moments qu'il donnait à son ouvrage ; il le néglige aujourd'hui, pour se livrer tout entier aux plaisirs de la société. Bécarre le perd, du Ciseau le trahit. Peut-être son cœur se sèche, son génie s'éteint; il se déplaît dans son atelier ; il se déplaît auprès de moi. Pourquoi donc sa maison lui devient-elle désagréable ? SerAit-ce ma faute ? Cela se peut. Eh bien ! Redoublons encore de complaisance et de douceur, et rendons, s'il est possible, son âme à la gloire, et son cœur à l'amour.
+
+
+## SCÈNE III. Suzanne, Le Doux.
+
+    LE DOUX.
+Bonjour, Susanne : déjà toute à l'ouvrage !
+
+    SUSANNE, L’EMBRASSANT.
+Oui, mon ami, il saut bien que je répare un peu tes fautes ; quand tu négliges ton travail, il faut que je force le mien, pour maintenir l'équilibre.
+
+    LE DOUX.
+Tu me grondes, Susanne ?
+
+    SUSANNE.
+Non, mon ami, non.
+
+    LE DOUX.
+Pourquoi t'en défendre ? Tu n'as pas tort. Je te parais un paresseux ; mais crois qu'il me faut des raisons puissantes pour te quitter aussi souvent que je le fais.
+
+    SUSANNE.
+Je croirai tout ce que tu voudras. Est-il possible, cependant, que tu puisses traiter des affaires bien importantes, avec ce pauvre Bécarre ?
+
+    LE DOUX.
+Ne badines pas ; quand il a la tête froide, il est d'un excellent conseil.
+
+    SUSANNE.
+Le malheur est que sa pauvre tête est bien souvent échauffée.
+
+    LE DOUX.
+Il est vrai: aussi n'est—ce pas sur lui que je compte.
+
+    SUSANNE.
+Sur qui donc?
+
+    LE DOUX.
+Sur Monsieur du Ciseau.
+
+    SUSANNE.
+Sur Monsieur du Ciseau !
+
+    LE DOUX.
+Tu ne l'aimes pas ?
+
+    SUSANNE.
+Je ne hais aucun des amis de mon mari. Mais mérite-t-il ce titre ?
+
+    LE DOUX.
+J'en suis sûr, il me le prouve. Il est chargé dans ce moment d'une entreprise superbe qu'il veut bien partager avec moi, et qui peut me donner toute l'aisance que je désire te procurer.
+
+    SUSANNE.
+Ne suis-je pas heureuse, ne suis-je pas contente, le Doux ? Est-ce donc la fortune qui donne le bonheur ? Je n'ai jamais formé de vœu que pour ta gloire.
+
+    LE DOUX.
+Eh bien ! Sois contente ; en travaillant à ma fortune, j'assure en même temps ma réputation.
+
+    SUSANNE.
+Je vois bien que tu ne manqueras jamais de bonnes raisons, et tu sais que tu n'en as pas besoin auprès de moi ; mais tout le monde ne me ressemble pas. On crie, on murmure, on s'impatiente. Tiens, voilà une lettre que je viens de recevoir.
+
+    LE DOUX.
+De quelle part ?
+
+    SUSANNE.
+Je l'ignore.
+
+    LE DOUX, LIT.
+Lassé de vos retards continuels, je vous prie ; Monsieur, de ne plus toucher à la Statue que je vous avais commandé: je la confierai à des mains moins négligentes ; et demain, de grand matin, je viendrai la faire enlever de chez vous. Le Comte D'ARTIPHILE.
+
+    SUSANNE.
+Voilà ce que je craignais depuis longtemps.
+
+    LE DOUX.
+C'est ma faute ; j'ai trop abusé de sa patience, j'ai trop abusé de ses bontés.
+
+    SUSANNE.
+Tu l'as cruellement négligé.
+
+    LE DOUX.
+J'ai des torts sans nombre vis-à-vis de lui.
+
+    SUSANNE.
+Il est vrai qu'il nous a comblé de bienfaits.
+
+    LE DOUX.
+Et je n'oublierai jamais le plus grand de tous !
+
+    SUSANNE.
+Lequel donc ?
+
+    LE DOUX.
+C'est à lui que je dois la main de ma Susanne.
+
+    SUSANNE.
+Mon ami !
+
+    LE DOUX.
+Sa menace m'afflige et me désespère. J'ose me flatter que ce morceau n'est pas sans mérite ; j'attendais avec impatience l'instant précieux, où le ciseau, le burin et le pinceau, réunis dans le même musée, présenteront à l'œil étonné du Connaisseur, les chefs-d'œuvres des arts et les fruits du génie ; et ce morceau, fait pour m'illustrer, n'y sera pas.
+
+    SUSANNE.
+Il y sera, le Doux ; il y sera. Monsieur d'Artiphile menace ; mais tu connais la bonté de son cœur; tu sais qu'il t'aime. S'il te surprend travaillant à sa statue, jamais il n'aura la fermeté cruelle de t'enlever un morceau qui doit faire la réputation d'un artiste qu'il a ouvertement protégé.
+
+    LE DOUX.
+Tu as raison, Susanne. Eh ! Quel homme serait assez hardi pour oser porter la main sur ma Minerve. Je la briserais plutôt.
+
+    SUSANNE.
+Fais mieux ; achève-la.
+
+    LE DOUX.
+Oui, je l'achèverai, et l'envie même se taira devant elle.
+
+    SUSANNE.
+Bien, mon ami, bien. Voilà cette noble fierté qu'on pardonne au talent.
+
+
+## SCÈNE IV. Susanne, Le Doux, L'Abbé Rémifa.
+
+    L’ABBÉ.
+Bonjour, mon cher Monsieur le Doux, comment vous portez-vous ?
+
+    LE DOUX.
+Monsieur...
+
+    L’ABBÉ.
+Vous me prenez pour revenant, n'est-ce pas ? Il y a un siècle que vous ne m'ayez vu ; mais c'est qu'on m'a enlevé. Me voilà enfin rendu à ce cher Paris.
+
+    SUSANNE, LUI PRÉSENTANT UN SIÈGE.
+Voulez-vous...
+
+    L’ABBÉ.
+Ah ! Je ne vous avais pas vu, Madame ! Il est inutile de vous demander des nouvelles, de votre santé ; elle perce à travers vos charmes, et le petit poupon ! Toujours l'amour....
+
+    SUSANNE.
+Vous êtes trop....
+
+    L’ABBÉ.
+En vérité, je ne puis me lasser d'admirer la prudence de ce cher époux. Voilà ce qui s'appelle marier l'utile et l'agréable ! Trouver dans une femme charmante un modèle parfait, et toujours prêt... C'est très bien l'entendre, Monsieur le Doux, et je ne m'étonne plus si tous vos ouvrages sont marqués au coin de la perfection.
+
+    LE DOUX.
+Vous avez bien...
+
+    L’ABBÉ.
+À propos, et mon buste ? Où en est-il ?
+
+    LE DOUX, DÉCOUVRANT UN BUSTE.
+Le voilà.
+
+    SUSANNE.
+Comment le trouvez-vous ?...
+
+    L’ABBÉ.
+J'en suis assez content... Je voudrais cependant dans le tout un peu plus de moelleux.
+
+    LE DOUX.
+Ce serait affaiblir le caractère.
+
+    L’ABBÉ.
+Mais je n'en veux point de caractère ; il ne me faut que des grâces. Je vous l'avais tant recommandé.
+
+    LE DOUX.
+Je croyais...
+
+    L’ABBÉ.
+Je voudrois aussi plus de passions dans les yeux ; plus de volupté dans la bouche ; la tête plus penchée. Tenez, voyez....
+Il chantonne avec une expression outrée.
+
+Je n'ai point trouvé de cruelles.  
+Et je n'en trouverai jamais,  
+Et je n'en trouverai jamais.  
+Saisissez bien mon genre.
+
+    LE DOUX.
+Je les tiens à présent, Monsieur, l'Abbé ; et si vous voulez seulement m'accorder une heure de séance...
+
+    L’ABBÉ.
+Très volontiers ; mais pas pour aujourd'hui.
+
+    LE DOUX.
+Quand vous voudrez.
+
+    L’ABBÉ.
+Eh bien! je tâcherai de vous sacrifier un jour.
+
+    LE DOUX.
+Je serai à vos ordres tous les matins.
+
+    L’ABBÉ.
+à merveille.... J'ai aussi une idée à vous donner pour la base... Elle est charmante.
+
+    LE DOUX.
+Je n'en doute pas.
+
+    L’ABBÉ.
+De deux guirlandes de myrtes et de roses s'entrelaçant, vous formerez une couronne. Vous m'entendez bien?
+
+    LE DOUX.
+Je vous entends.
+
+    L’ABBÉ.
+Dans ces guirlandes, vous jetterez, comme par hasard, quelques feuilles de laurier, qui auront l'air de vouloir percer à travers les roses...
+
+    LE DOUX.
+Je vous comprends.
+
+    L’ABBÉ.
+Et, au milieu de la couronne, vous graverez ce quatrain que je me suis amusé à griffonner ce matin, et qui rend très bien mon genre.
+
+    SUSANNE, QUITTANT SON OUVRAGE.
+Voulez-vous avoir la complaisance de nous le lire ?
+
+    L’ABBÉ.
+Très volontiers. C'est un rien ; mais vous en serez contente.
+Il lit.
+
+Je n'irai pas au Temple de Mémoire,  
+Le front ceint du laurier de l'Immortalité;  
+J'ai connu le bonheur, l'amour, la volupté.  
+Un instant de plaisir vaut un siècle de gloire.  
+Eh bien ?
+
+    LE DOUX.
+Délicieux.
+
+    SUSANNE.
+Je savais bien que Monsieur l'Abbé Rémisa pinçait délicieusement une guitare, que la Romance lui devait ses plus doux charmes, mais j'ignorais qu'il joignît à tant de talents, l'art des vers.
+
+    L’ABBÉ.
+Eh ! Qui n'en fait pas aujourd'hui ? Il est vrai que si j'avais voulu m'y livrer davantage, m'en occuper un peu plus sérieusement, j'aurais pu me placer, je crois, entre Horace et Chaulieu ; mais à quoi m'eût servi, pour le bonheur, une étincelle de réputation? Trop de mérite eût pesé sur la société ; et pour rester à sa portée, j'ai préféré n'être qu'aimable.
+
+    SUSANNE, SE REMETTANT À PEINDRE.
+Et vous avez parfaitement réussi.
+
+    L’ABBÉ, CONTEMPLANT, AVEC ADMIRATION, LE TABLEAU QUE PEINT SUSANNE.
+On me le persuade... Oh ! Oh ! Oh ! Mais voilà qui est charmant, divin ! Quelle vérité ! Voilà la majesté de Junon, la fierté de Minerve, et le sourire de Vénus. C'est elle-même : quelle fraîcheur ! Quel vif dans les chairs ! Ce sont les formes ! C'est la nature ! Mais pourquoi m'en étonner, quand la Déesse elle-même se trouve l'artiste et le modèle ?
+
+    SUSANNE.
+Galanterie à part, en êtes-vous content ?
+
+    L’ABBÉ.
+Enchanté!... Ces temps de barbarie sont donc entièrement disparus, où nos idiots de pères prétendaient qu'une femme en savait assez, quand elle pouvait distinguer un pourpoint d'avec un haut-de-chausses, recoudre un rabat, et plisser leurs fraises antiques. Aujourd'hui nous voyons tour-à-tour, dans la main des Grâces,
+L'aiguille et le compas, la plume et le pinceau.  
+
+    SUSANNE.
+Quelle est cette charmante personne ?
+
+    L’ABBÉ.
+Eh ! C'est Mademoiselle des Brisées !
+
+
+## SCÈNE V. Le Doux, Susanne, L'Abbé Rémifa, Mademoielle des Brisées.
+
+    MADEMOISELLE DES BRISÉES.
+C'est ce cher Abbé !
+
+    L’ABBÉ.
+Qui m'eût dit que ces lieux, par les Arts habités, présenteraient Vénus à mes yeux enchantés ?
+
+    MADEMOISELLE DES BRISÉES.
+Toujours charmant ! Vous êtes un monstre...
+
+    L’ABBÉ.
+Pourquoi ?
+
+    MADEMOISELLE DES BRISÉES.
+Comment ! Il y a trois mois qu'on ne vous a vu ?
+
+    L’ABBÉ.
+J'ai été enlevé comme un ballon.
+
+    MADEMOISELLE DES BRISÉES.
+Nos Coulisses, pendant votre absence, out été d'un triste, d'une décence ; c'est à périr d'ennui.
+
+    L’ABBÉ.
+Je compte bien m'y montrer incessamment... Mais, puis-je vous demander ce qui vous amène ici ?
+
+    MADEMOISELLE DES BRISÉES.
+Un projet que très certainement vous approuverez.
+
+    L’ABBÉ.
+Vous n'en doutez pas.
+
+    MADEMOISELLE DES BRISÉES.
+Monsieur, est Monsieur le Doux ?
+
+    LE DOUX.
+À vous obéir, Madame.
+
+    MADEMOISELLE DES BRISÉES.
+On m'a beaucoup vanté vos talents, votre honnêteté, vos mœurs.
+
+    L’ABBÉ, MONTRANT SUSANNE.
+Voilà sa caution.
+
+    MADEMOISELLE DES BRISÉES.
+C'est un modèle.
+
+    LE DOUX.
+C'est ma femme.
+
+    MADEMOISELLE DES BRISÉES.
+Ah ! Ah !... Je viens, Monsieur, implorer le secours de votre art.
+
+    LE DOUX.
+Jamais il ne m'aura été plus précieux, jamais il ne m'aura donné de plus doux moments.
+
+    MADEMOISELLE DES BRISÉES, À L’ABBÊ.
+Il sait vivre.
+
+    L’ABBÉ.
+Vous en serez contente.
+
+    MADEMOISELLE DES BRISÉES, À L’ABBÉ.
+C'est dommage que ça soit marié.
+
+    LE DOUX, BAS À L’ABBÉ, TANDIS QUE MADEMOISELLE DES BRISÉES S’AMUSE À REGARDER QUELQUES MODÈLES DE SCULPTURE.
+Monsieur l'Abbé ?
+
+    L’ABBÉ.
+Eh bien ?
+
+    LE DOUX.
+Quelle est cette belle nymphe ?
+
+    L’ABBÉ.
+C'est Mademoiselle des Brisées, la nouvelle Danseuse de l'Opéra. Tout le monde connoît ça.
+Haut à Mademoiselle des Brisées.
+
+Vous allez nous faire un cadeau ?
+
+    MADEMOISELLE DES BRISÉES.
+Oui... Vous savez combien tous les jours je suis excédée des demandes indiscrètes de mille adorateurs. Vous connaissez tout le liane de mon caractère; je voudrais n'en mécontenter aucun, et je n'ai trouvé qu'un seul moyen de satisfaite leurs désirs.
+
+    L’ABBÉ.
+Et ce moyen, c'est de donner à chacun une copie de l'original ?
+
+    MADEMOISELLE DES BRISÉES.
+Justement : on m'avait proposé la gravure ; mais elle devient bien commune.
+
+    L’ABBÉ.
+Vous avez raison.
+
+    MADEMOISELLE DES BRISÉES.
+Et puis tapisser tous les coins de rues à côté d'un poète, ou de mon Maître de musique ; c'est une idée qui me blesse l'imagination.
+
+    L’ABBÉ.
+Ce n'est pas là votre place.
+
+    MADEMOISELLE DES BRISÉES.
+Toute réflexion faite, je préfère le ciseau au burin.
+
+    L’ABBÉ.
+Très bien vu. Le marbre seul était digne de nous rendre ces traits divins.
+
+    MADEMOISELLE DES BRISÉES.
+Je viens, en conséquence, prier Monsieur le Doux de vouloir bien me faire...
+
+    LE DOUX.
+En buste, Madame ?
+
+    MADEMOISELLE DES BRISÉES.
+Non, Monsieur ; en pied.
+
+    L’ABBÉ.
+Charmante !
+
+    MADEMOISELLE DES BRISÉES.
+Ah ! Çà, l'Abbé, vous êtes pétri de goût. Quel costume choisirai-je ?
+
+    L’ABBÉ. [2]
+Eh ! Quel autre convient à la Déesse de la Danse, que celui de Terpsicore ?
+
+    MADEMOISELLE DES BRISÉES.
+Oh ! Non, l'Abbé, non; il n'y a pas de jour où je ne reçoive à ma toilette des couplets ou des vers innocents, et ce nom m'y est : si souvent prodigué, qu'il m'en donne des vapeurs.
+
+    L’ABBÉ.
+La rose dans nos parterres reçoit tour-à-tour les caresses du zéphir et le baiser du papillon ; comme elle, vous voyez les cœurs voler autour de vous. Soyez Flore à nos yeux.
+
+    MADEMOISELLE DES BRISÉES.
+Ne trouvez-vous pas un peu de fadeur dans cette idée ?
+
+    L’ABBÉ.
+Eh bien ! Voulez-vous rendre cette gaîté si mutine, si libertine, qui vous rend divine à la fin d'un souper ? Prenez le costume d'un Bacchante.
+
+    MADEMOISELLE DES BRISÉES.
+D'une Bacchante ? L'Abbé....
+
+    L’ABBÉ.
+Entendons-nous... Non telle qu'on la peint outragée, furieuse, déchirant ce langoureux Orphée ; mais vive, folâtre, s'échappant aux caresses du vieux Silene, pour se précipiter dans les bras du jeune satyre, qui l'emporte en riant dans le plus épais du bois.
+
+    MADEMOISELLE DES BRISÉES.
+Cette image est charmante; mais c'est que je tiens à une idée singulière.
+
+    L’ABBÉ.
+Quelle est-elle ?
+
+    MADEMOISELLE DES BRISÉES.
+Vous allez peut-être la trouver ridicule ?
+
+    L’ABBÉ.
+Voyons.
+
+    MADEMOISELLE DES BRISÉES. [3]
+Je préférais à tout autre habit, celui de Vestale.
+
+    L’ABBÉ.
+Parlez-vous tout de bon ?
+
+    MADEMOISELLE DES BRISÉES.
+Oui...
+
+    L’ABBÉ.
+C'est d'une folie qui ne rime à rien. La coiffure pourra bien vous aller ; mais cette draperie lourde et masse nous déroberait trop de charmes, si généralement admirés. Personne ne vous reconnaîtrait, à moins que vous ne vous fissiez faire qu'en buste.
+
+    MADEMOISELLE DES BRISÉES.
+Voleur..
+
+    L’ABBÉ.
+Voulez-vous nous faire un cadeau bien précieux ; et nous forcer à une reconnaissance générale ?
+
+    MADEMOISELLE DES BRISÉES.
+Eh bien ?
+
+    L’ABBÉ.
+Ne nous cachez aucun de vos appas. Vénus, sortant du sein des eaux, n'avait d'autre parure que celle de ses charmes.
+
+    MADEMOISELLE DES BRISÉES.
+Qu'en pensez-vous, Monsieur le Doux ?
+
+    LE DOUX.
+Personne, mieux que vous, ne peut en fournir le modèle.
+
+    MADEMOISELLE DES BRISÉES.
+Mais, au moins, de la modestie.
+
+    L’ABBÉ.
+Que l'imagination devine ce que le désir regrette.
+
+    MADEMOISELLE DES BRISÉES.
+Quand voulez-vous commencer ?
+
+    LE DOUX.
+Je suis tout à vos ordres.
+
+    MADEMOISELLE DES BRISÉES.
+Eh bien ! Demain, si vous voulez, rendez-vous à ma petite maison de la Villette. L'Abbé vous amènera.
+
+    L’ABBÉ.
+Très volontiers.
+
+    MADEMOISELLE DES BRISÉES.
+Que devenez-vous aujourd'hui, l'Abbé ?
+
+    L’ABBÉ.
+J'ai promis à la petite Julie ; la grosse Présidente m'a fait promettre, et je ne sais à laquelle donner la préférence.
+
+    MADEMOISELLE DES BRISÉES.
+Eh bien ! Soyez un homme galant : manquez à toutes deux.
+
+    L’ABBÉ.
+Mais...
+
+    MADEMOISELLE DES BRISÉES.
+Mais, il le faut. Je vais dîner chez mon vieux Commandeur.
+
+    L’ABBÉ.
+Il est ennuyeux.
+
+    MADEMOISELLE DES BRISÉES.
+Oui ; mais son Cuisinier est divin, et sa cave est délicieuse.
+
+    L’ABBÉ.
+Je me vais faire une querelle.
+
+    MADEMOISELLE DES BRISÉES.
+Ne peut-on vous dédommager ? À demain, Monsieur le Doux.
+
+    LE DOUX.
+Oui, Madame.
+
+    L’ABBÉ, À LE DOUX.
+Je viendrai vous prendre.
+
+    LE DOUX.
+Je vous attendrai ; si même vous pouviez venir de bonne heure, je pourrais vous donner une dernière séance....
+
+    L’ABBÉ.
+Je ferai mon possible... Serviteur Madame le Doux.
+Il sort avec Mademoiselle des Brisées.
+
+
+
+## SCÈNE VI. Le Doux, Susanne.
+
+    LE DOUX.
+Voilà, ma foi, une excellente affaire !
+
+    SUSANNE.
+Comment cela ?
+
+    LE DOUX.
+Comment ! Mais songe donc que si chaque amant favorisé me commande seulement un plâtre, jamais moule ne m'aura tant rapporté.
+
+    SUSANNE.
+D'autant plus que Monsieur l'Abbé à fort bien choisi le costume.
+
+    LE DOUX.
+Il est vrai.
+
+    SUSANNE.
+À parler franchement, j'en aimerais tout autant un autre.
+
+    LE DOUX.
+Comment ! Susanne, serais-tu donc jalouse?
+
+    SUSANNE.
+Je t'aime trop pour ne pas l'être un peu ; mais je t'estime assez pour ne le paraître jamais.
+
+    LE DOUX.
+Tu serais bien injuste, si tu pouvais douter du cœur de ton mari.
+
+    SUSANNE.
+Je n'en doute pas non plus. N'as-tu pas pris jour pour demain avec Mademoiselle des Brisées ?
+
+    LE DOUX.
+Oui.
+
+    SUSANNE.
+Tu aurais bien dû, avant de rien entreprendre de nouveau, achever ta Minerve.
+
+    LE DOUX.
+L'une ne me fera pas négliger l'autre. Je ferai marcher de front Vénus et la Sagesse.
+
+    SUSANNE.
+Ce n'est pas chose aisée.
+
+    LE DOUX.
+Plaisanterie à part, je ne pouvais pas la remettre : ces Demoiselles sont toujours fort pressées de jouir ; ce sont des oiseaux de passage qu'il faut prendre à la volée ; et puis cet ouvrage doit nécessairement me faire connaître et m'en procurer d'autres.
+
+    SUSANNE.
+Je n'en doute pas ; je sais même qu'en général c'est assez bien payé. Mais songe cependant que de tels objets ne doivent pas te faire négliger ta réputation ; il est bon de travailler un peu pour le profit ; mais ton principal but doit être la gloire.
+
+    LE DOUX.
+Eh ! Ma pauvre Susanne, le siècle des talents est passé. Aujourd'hui, le génie même est trop heureux de trouver un boudoir, ou un jardin anglais à décorer. Un Artiste qui voudrait marcher à l'immortalité, courrait risque de mourir de faim sur la route, en attendant un amateur.
+
+    SUSANNE.
+En est-il donc besoin, quand sa patrie elle-même confie au ciseau de ses plus célèbres Sculpteurs, les traits des grands hommes qui ont fait sa gloire ? Ah ! Mon ami, si tu pouvais être un jour choisi pour un ouvrage aussi précieux ! Songe que tes premiers succès t'ont déjà sait désigner par le Public. Songe que le Protecteur des Arts attend, sans doute, ton nouvel ouvrage, pour confirmer un choix si glorieux. Ô mon ami, qu'un époux illustre devient cher à son épouse ! Combien alors elle s'enorgueillit de porter un si beau nom !
+
+    LE DOUX.
+Combien la voix d'une femme adorée est puissante ! Tu rallumes dans mon sein toute la flamme, la voix du génie. Oui, ton époux fera bientôt ta gloire et ton bonheur. Oui, je sens que mon nom sera placé près de ceux des plus célèbres artistes.
+
+    SUSANNE.
+Promets-moi donc de travailler un peu plus assidûment.
+
+    LE DOUX.
+Oui, je te le promets. Je ne veux plus sortir que ma Minerve ne soit achevée.
+
+    SUSANNE.
+Si Bécarre et du Ciseau viennent te chercher ?
+
+    LE DOUX.
+Je les refuserai.
+
+    SUSANNE.
+En auras-tu le courage ?
+
+    LE DOUX.
+Est-il donc si difficile de rester près de toi ? Ma femme, mon enfant, mon ouvrage, n'en voilà-t-il donc pas assez pour être heureux et s'occuper ?
+
+    SUSANNE.
+Certainement.
+
+    LE DOUX.
+Tu es trop bonne aussi, Susanne, tu es trop douce ; tu ne grondes jamais.
+
+    SUSANNE.
+Eh ! Peut-on gronder ce qu'on aime ?
+
+    LE DOUX.
+Il faut être un peu méchante. Je suis faible ; tu le sais; je me laisse aller facilement, c'est à toi à me retenir.
+
+    SUSANNE.
+Tu ne te fâcheras pas ?
+
+    LE DOUX.
+Non, certainement.
+
+    SUSANNE.
+Nous allons bientôt voir.... Voilà Bécarre ; il en tient déjà.
+
+
+## SCÈNE VII. Bécarre, déjà un peu gris, mais pas trop ; Susanne, Le Doux.
+
+    BÉCARRE.
+Bonjour, mon ami : votre très humble serviteur ; Madame le Doux. Toujours charmante !
+
+    SUSANNE.
+Toujours de bonne humeur !
+
+    BÉCARRE.
+Je n'engendre pas de mélancolie.
+
+    SUSANNE.
+C'est fort bien fait.
+
+    BÉCARRE, À LE DOUX.
+Je viens de chez du Ciseau ; il nous attend.
+
+    LE DOUX.
+Pourquoi faire ?
+
+    BÉCARRE.
+Pour déjeuner.
+
+    LE DOUX.
+Je ne puis y aller. Je suis pressé d'ouvrage ; et j'ai promis à ma femme de ne pas sortir aujourd'hui.
+
+    BÉCARRE.
+Tu serais rentré sur le champ.
+
+    LE DOUX.
+Un déjeuner va souvent plus loin qu'on ne pense.
+
+    BÉCARRE.
+Oh ! Non, nous avons ce matin fait vœu de sobriété.
+
+    SUSANNE.
+Vous avez fort bien commencé à tenir votre vœu.
+
+    BÉCARRE.
+Je me sentais l'estomac un peu faible, et j'ai bu un petit coup.
+
+    SUSANNE.
+Qui a monté à la tête.
+
+    BÉCARRE.
+Ça se dissipera. Un clou chasse l'autre ; pas vrai, Le Doux ?
+
+    LE DOUX.
+Tu as raison.
+
+    BÉCARRE.
+Du Ciseau a fait cuire ce jambon qu'il a reçu de Bayonne. Il a une odeur... Ah !... Nous devons l'entamer ; et tu connais son petit vin blanc... Hein !... Ça ne te tente pas?
+
+    SUSANNE.
+Eh ! Mon cher Monsieur Bécarre, vous êtes l'ami de le Doux, n'est-il pas vrai ?
+
+    BÉCARRE.
+Pour la vie, Madame.
+
+    SUSANNE.
+Eh bien ! Soyez assez raisonnable pour le laisser travailler tranquillement pendant quelques jours. Il est pour lui de la dernière conséquence d'achever son ouvrage ; sa fortune, sa réputation en dépendent. Ne venez donc pas le détourner. Donnez-lui cette preuve d'amitié : engagez-le vous même à travailler.
+
+    BÉCARRE.
+Vous avez raison, Madame le Doux ; vous parlez comme un astre, et je vais vous prouver combien je suis bon ami. Du Ciseau nous attend pour déjeûner ; il a un jambon excellent, du vin... Ah!... Eh bien ! Du Ciseau ; le jambon, le vin, le déjeuner, je vous sacrifie tout, et je vais rester avec Le Doux : c'est-il beau de ma part ?
+
+    SUSANNE.
+Je vous en aurai une obligation infinie.
+
+    BÉCARRE.
+C'est à une condition, cependant.
+
+    SUSANNE.
+Quelle est-elle ?
+
+    BÉCARRE.
+C'est qu'il y aura un petit coup à boire, et une croûte à casser ; car je suis presqu'à jeun.
+
+    SUSANNE, OUVRANT UNE PETITE ARMOIRE, DE LA QUELLE ELLE TIRE UNE BOUTEILLE, DEUX VERRES ET DU PAIN.
+C'est trop juste. Tenez, voilà une bouteille de vin, qui vaudra bien celui de Monsieur du Ciseau. Voulez-vous quelque chose encore ?
+
+    BÉCARRE.
+Une croûte, rien davantage.
+
+    SUSANNE.
+De la sagesse, surtout ?
+
+    BÉCARRE.
+N'ayez pas peur.
+
+    LE DOUX, À SA FEMME QUI PREND LE TABLEAU OÙ ELLE TRAVAILLAIT.
+Tu sors ?
+
+    SUSANNE.
+Oui, mon ami. Je vais porter ce tableau, et je reviens tout de suite ; je te retrouverai ?
+
+    LE DOUX.
+Certainement.
+
+    BÉCARRE.
+C'est moi qui vous en réponds.
+
+    SUSANNE, SOURIANT.
+Bonne caution !
+
+    BÉCARRE.
+Vous verrez, vous verrez.
+
+    LE DOUX.
+Adieu, Susanne.
+
+    SUSANNE.
+Adieu, mon bon ami. Sans adieu ; Monsieur Bécarre. Vous dînerez avec nous ?
+
+    BÉCARRE.
+Très volontiers. J'aime à rester où je suis.
+Susanne, en partant, embrasse son mari.
+
+
+
+## SCÈNE VIII. Le Doux, Bécarre.
+
+    BÉCARRE.
+Si j'avais, chez moi, un petit bec comme cela, je n'irais pas si souvent dehors siffler la linotte ; tu es trop heureux !
+
+    LE DOUX.
+Jamais femme n'eut un caractère plus honnête et plus doux.
+
+    BÉCARRE.
+Buvons à sa santé.
+
+    LE DOUX.
+Bien volontiers.
+Ils boivent.
+
+
+    BÉCARRE.
+J'ai vingt fois envié ton sort.
+
+    LE DOUX.
+Je le crois.
+
+    BÉCARRE.
+Je donnerais le dernier tonneau de ma cave, pour trouver une femme comme ta Susanne.
+
+    LE DOUX.
+Ce n'est pas chose aisée !
+
+    BÉCARRE.
+Je le sais bien. J'aime ta femme, moi ; mais je suis honnête homme, et puis elle est sage.
+
+    LE DOUX.
+Je le sais.
+
+    BÉCARRE.
+Encore un coup à sa santé.
+
+    LE DOUX.
+Tope.
+Ils boivent.
+
+
+    BÉCARRE.
+Sais-tu bien une chose, Le Doux ?
+
+    LE DOUX.
+Quoi ?
+
+    BÉCARRE.
+C'est le désœuvrement, la solitude qui rendent la taverne et le jeu nécessaires à un garçon ; il n'est que d'être marié pour le ranger.
+
+    LE DOUX.
+Certainement.
+
+    BÉCARRE.
+Un garçon ne tient à rien.
+
+    LE DOUX.
+Il est vrai.
+
+    BÉCARRE.
+Pour bien travailler, il faut aimer son chez soi ; et pour l'aimer, il faut y trouver quelqu'un qui nous le rende agréable.
+
+    LE DOUX.
+Une Susanne.
+
+    BÉCARRE.
+C'est ça. À ta santé.
+Ils boivent.
+
+
+    LE DOUX.
+À la tienne.
+
+    BÉCARRE.
+On peut se livrer un instant à ses plaisirs ; mais il faut aussi songer à sa fortune, à sa réputation, et ce n'est pas au cabaret qu'elles se sont.
+
+    LE DOUX.
+Non, certainement. Je me suis aperçu mille fois que nous commencions par y parler d'affaires, et que nous finissions par y perdre la raison.
+
+    BÉCARRE.
+On n'a pas dessein de se griser ; mais on boit un coup, on en boit deux. L'exemple entraîne, la vanité s'en mêle, et l'on finit par ne plus savoir ni ce qu'on dit, ni ce qu'on fait.
+
+    LE DOUX.
+Le pire encore, c'est qu'on y joue ; on perd son argent ; on se dispute : on rentre chez soi malade, de mauvaise humeur. Le lendemain, la tête est lourde, la main tremblante, et l'on ne fait rien qui vaille.
+
+    BÉCARRE.
+C'est à la lettre... Buvons un coup.
+
+    LE DOUX.
+Il n'y a que ce diable de du Ciseau qui ne perd jamais la tête ; il boit mieux que nous.
+
+    BÉCARRE.
+Tais-toi donc : dis qu'il n'est pas franc comme nous ; c'est un sournois, vois-tu, dont je me défie, et qui n'est pas véritablement ami.
+
+    LE DOUX.
+Pourquoi mal penser de lui ?
+
+    BÉCARRE.
+J'ai des raisons.
+
+    LE DOUX.
+Il en faut de fortes pour soupçonner un ami.
+
+    BÉCARRE.
+Elles sont convaincantes.
+
+    LE DOUX.
+Puis-je les savoir ?
+
+    BÉCARRE.
+Il trempe toujours son vin, et fait d'un verre deux coups.
+
+    LE DOUX.
+Effectivement, je crois m'en être aperçu plus d'une fois.
+
+    BÉCARRE.
+Tiens, mon ami, il faut nous ranger.
+
+    LE DOUX.
+Je le veux bien.
+
+    BÉCARRE.
+Travailler.
+
+    LE DOUX.
+Oui.
+
+    BÉCARRE.
+Ne boire que de l'eau.
+
+    LE DOUX.
+On s'en porte mieux.
+
+    BÉCARRE.
+On fait de bien meilleure besogne.
+
+    LE DOUX.
+Ce petit jardin nous perd.
+
+    BÉCARRE.
+Il faut y renoncer ; tu as du talent ; j'en ai aussi. On veut me faire entrer à l'Opéra.
+
+    LE DOUX.
+Il faut être sobre, ou rester toute sa vie dans les Chœurs.
+
+    BÉCARRE.
+J'aime ma liberté ; et j'ai, Dieu merci, de quoi vivre sans rien faire.
+
+    LE DOUX.
+Un peu d'occupation est nécessaire à l'homme.
+
+    BÉCARRE.
+Et la célébrité !
+
+    LE DOUX.
+Jamais ivrogne n'en acquiert.
+
+    BÉCARRE.
+Tiens, Le Doux ; vois le serment que je fais : je veux que ce verre de vin soit le dernier que je boive, si je me grise davantage. Jure avec moi.
+
+    LE DOUX.
+Volontiers.
+
+    BÉCARRE.
+Notre bouteille est vide !
+
+    LE DOUX.
+J'ai la clé de la cave.
+
+    BÉCARRE.
+Bravo ! Est-ce que nous ne sommes pas mieux ici qu'au cabaret ?
+
+    LE DOUX.
+Certainement.
+
+    BÉCARRE.
+Bien plus honnêtement ?
+
+    LE DOUX.
+Bien plus agréablement.
+
+    BÉCARRE.
+On boit modérément ?
+
+    LE DOUX.
+Pour le plaisir. On ne se grise pas.
+
+    BÉCARRE.
+Descends-tu à la cave ?
+
+    LE DOUX.
+Bien pensé !
+
+
+## SCÈNE IX. Bécarre, Le Doux, Du Ciseau.
+
+    DU CISEAU.
+Est-ce que vous vous moquez de moi, tous les deux, de me faire attendre si longtemps ?
+
+    LE DOUX.
+Serviteur, Monsieur du Ciseau.
+
+    DU CISEAU.
+Bécarre ne t'a donc pas dit ?
+
+    BÉCARRE.
+Si fait ; mais il n'a pas voulu venir.
+
+    LE DOUX.
+J'ai de l'ouvrage extraordinairement pressé.
+
+    BÉCARRE.
+Et nous avons promis à Madame le Doux de ne pas sortir d'aujourd'hui.
+
+    DU CISEAU.
+Vous avez promis à Madame le Doux ?
+
+    LE DOUX.
+Oui, mon ami.
+
+    BÉCARRE.
+Elles nous a mis à la réforme.
+
+    DU CISEAU.
+Je vous en fais mon compliment. Te voilà donc à la lisière ; tu n'auras de volonté, tu ne prendras de plaisir, qu'autant que Madame voudra bien t'en accorder la permission. N'as-tu pas de honte de te laisser ainsi mener par ta femme ?
+
+    LE DOUX.
+Ma femme ne me mène pas. Elle est mon amie.
+
+    BÉCARRE.
+Et c'est la femme la plus honnête, la plus douce...
+
+    DU CISEAU.
+En ce cas, mon cher le Doux, tu fais fort bien de lui obéir ponctuellement. Cela te fera un honneur infini ; et très certainement les fidèles du petit jardin viendront t'en complimenter. Il y a justement, ce matin, une assemblée de tous ces bons enfants. Nous avons un nouveau Récipiendaire, qui doit, dit-on, faire les choses en grand. Tu le connais, c'est Dupré.
+
+    LE DOUX.
+Le Sculpteur ?
+
+    DU CISEAU.
+Lui-même. Garçon de mérite, qui désire fort se lier avec moi. On s'est bien promis de rire, et de faire sauter maint bouchon de vin de Champagne.
+
+    BÉCARRE.
+Diable ! Tu ne m'avais pas dit cela...
+
+    LE DOUX, À PART.
+Ce Dupré m'inquiète.
+
+    DU CISEAU.
+Je voulais vous surprendre agréablement tous les deux. J'avais cru pouvoir répondre de vous. Mais puisque vous êtes dans la réforme, puisque vous avez promis à Madame le Doux de ne pas sortir, je vais donner vos démissions et faire vos excuses.
+
+    BÉCARRE, RETENANT DU CISEAU.
+Attends donc ; je n'ai point de bonnes raisons à donner, moi, pour me dispenser d'y aller. Le Doux a son ouvrage, mais je suis libre.
+
+    LE DOUX.
+Et ton serment ?
+
+    BÉCARRE.
+Je commencerai aussi bien ma réforme demain, qu'aujourd'hui. Il est même décent que je te fasse mes adieux : on doit avoir des procédés dans la société : on ne quitte pas d'honnêtes gens comme une bouteille vide ; nous allons te laisser, tu travailleras mieux tout seul.
+
+    DU CISEAU.
+Eh bien ! Le Doux ?
+
+    LE DOUX.
+C'est que j'ai promis à ma femme.
+
+    DU CISEAU.
+Et tu crains la correction ?
+
+    LE DOUX.
+Non ; mais c'est qu'on me presse horriblement pour ce morceau qui devrait être fini et livré depuis plus de six mois.
+
+    DU CISEAU, AVEC UN RIRE MOQUEUR.
+Et tu vas le finir aujourd'hui ?
+
+    LE DOUX.
+Je l'avancerai du moins.
+
+    DU CISEAU.
+Beaucoup, je crois.
+
+    LE DOUX.
+On me menace de me l'enlever.
+
+    DU CISEAU, À PART.
+Ma lettre a eu son effet...
+Haut.
+
+On te menace de te l'enlever ? Le Comte d'Artiphile ?
+
+    LE DOUX.
+Lui-même.
+
+    DU CISEAU.
+Il n'oserait. N'es-tu donc pas accoutumé à ces menaces que fait un Amateur toujours pressé de jouir, mais qu'il se garde bien d'exécuter ? Ne sais-tu pas qu'un ouvrage n'a de mérite à ses yeux, qu'autant que l'on le lui fait désirer ?
+
+    LE DOUX.
+Mais, au moins, faut-il y travailler ?
+
+    DU CISEAU.
+Comme si le travail d'un jour marquait sur un ouvrage comme celui-là.
+
+    BÉCARRE.
+Il a raison.
+
+    DU CISEAU.
+Je voudrais bien que quelqu'un de ces prétendus connaisseurs s'avisât de me menacer : de m'enlever un morceau, ou même de fixer un terme, il l'attendrait dix ans de plus. Ce n'est pas moi qu'il faudrait ainsi commander. La médiocrité est à la tâche, mais le génie a des ailes.
+
+    BÉCARRE.
+Bien dit.
+
+    LE DOUX.
+Si j'étais certain que l'on ne poussât pas trop avant...
+
+    DU CISEAU.
+Tu peux y compter. On a arrêté qu'on n'y dînerait pas, et qu'à deux heures on se séparerait.
+
+    LE DOUX.
+Certainement ?
+
+    DU CISEAU.
+Très certainement ; ils ont tous affaire ce soir.
+
+    BÉCARRE.
+Ta femme ne sera peut-être pas encore rentrée, et elle ignorera même que nous sommes sortis.
+
+    LE DOUX.
+Au reste, je reviendrai tout de suite.
+
+    DU CISEAU.
+Tu ne seras que paraître, si tu veux ; cela sera suffisant, et, du moins, tu ne manqueras à personne : tu peux même ne point boire du tout.
+
+    LE DOUX.
+Oh ! Je boirai si modérément...
+
+    BÉCARRE.
+Nous nous placerons à côté l'un de l'autre à table, et je te maintiendrai.
+
+    DU CISEAU.
+Ne perdons pas de temps.
+
+    LE DOUX.
+Laisse-moi prendre, au moins, ma canne et mon chapeau.
+
+    DU CISEAU.
+Tu n'en as pas besoin, pour une heure ou deux, au plus, que nous y resterons.
+
+    LE DOUX.
+Tu as raison. Si même ma femme revenait avant moi, elle se douterait, au moins, où je suis.
+
+    DU CISEAU, À PART.
+Je le tiens.
+Il sort avec le Doux et Bécarre.
+
+
+
+# ACTE II.
+
+
+## SCÈNE PREMIÈRE.
+
+    SUSANNE, SEULE.
+Une Pendule sonne sept heures.
+
+Sept heures!... Et Le Doux n'est pas encore rentré : la nuit entière est passée, et Le Doux n'est pas revenu. Où est-il ? Si l'incertitude en est cruelle, la certitude en est affreuse ; pourvu du moins qu'il ne lui soit rien arrivé de fâcheux. Je succombe à la peine, et mes yeux se refusent au sommeil...
+Regardant la Barcelonette.
+
+Dors encore, dors, mon enfant, n'accrois pas mes maux par tes cris ; hélas ! Ta pauvre mère a bien assez de sa douleur !
+
+
+## SCÈNE II. Madame Caquet, Susanne.
+
+    MADAME CAQUET.
+Comment ! C'est vous, ma voisine ?
+
+    SUSANNE, À PART.
+Ah ! Ciel ! C'est Madame Caquet.
+
+    MADAME CAQUET.
+Je voulais dire un mot à Monsieur le Doux.
+
+    SUSANNE.
+Il n'est pas... Il n'est pas encore levé.
+
+    MADAME CAQUET, FAISANT SEMBLANT DE SORTIR.
+Je repasserai.
+
+    SUSANNE.
+Quand vous voudrez...
+
+    MADAME CAQUET, REVENANT SUR SES PAS.
+À propos. Eh ! Pourquoi donc levée et habillée avant le jour ? Où allez-vous donc ?
+
+    SUSANNE.
+Je vais porter de l'ouvrage au Faubourg Saint-Honoré.
+À part.
+
+Je ne sais ce que je dis.
+
+    MADAME CAQUET.
+De l'ouvrage de si bonne heure ?
+
+    SUSANNE.
+C'est à quelqu'un qui part pour la campagne.
+
+    MADAME CAQUET.
+Allez-vous à pied ?
+
+    SUSANNE.
+Oui, Madame...
+
+    MADAME CAQUET.
+Tant mieux : j'ai justement affaire dans ce quartier, je vous accompagnerai ; nous causerons en chemin, il nous paraîtra moins long ; et puis si vous avez quelque chose à porter, je vous aiderai....
+
+    SUSANNE.
+Vous êtes trop bonne ; et je craindrais d'abuser....
+
+    MADAME CAQUET.
+Non, non, je ne souffrirai pas...
+
+    SUSANNE.
+C'est si léger.
+
+    MADAME CAQUET.
+Il n'est pas de fardeau, si léger qu'il soit, qui ne lasse à la fin. Donnez-moi....
+
+    SUSANNE.
+Je ne compte pas encore partir tout de suite.
+
+    MADAME CAQUET.
+Eh bien ! Je vous attendrai.
+
+    SUSANNE.
+Mais...
+
+    MADAME CAQUET.
+Je ne suis pas pressée, et je serai bien aise même de causer un instant avec vous.
+
+    SUSANNE, À PART.
+Faut-il que cette cruelle femme me fasse même craindre le retour de Le Doux !
+
+    MADAME CAQUET.
+Vous n'avez rien à faire ?
+
+    SUSANNE.
+Pardonnez-moi, Madame, j'ai un ouvrage très pressé à achever, et je vous demanderai même la permission...
+
+    MADAME CAQUET.
+De travailler ?
+
+    SUSANNE.
+Oui, Madame.
+
+    MADAME CAQUET.
+Je ne vous interromprai pas ; et c'est un plaisir pour moi de voir avec quel art vous animez la toile.
+
+    SUSANNE.
+Vous êtes bien honnête ; mais il faut que je sois seule.
+
+    MADAME CAQUET.
+Pourquoi ?
+
+    SUSANNE.
+L'ouvrage que je fais....
+
+    MADAME CAQUET.
+Est un peu libre ? Mais à mon âge....
+
+    SUSANNE.
+Vous vous trompez, Madame ; jamais mon pinceau ne fera rougir la décence, et mes ouvrages sont aussi purs que le fond de mon cœur ; mais j'ai promis le secret...
+
+    MADAME CAQUET, SOUFFLANT LA LAMPE ET S’ASSEYANT.
+Et moi, je ne souffrirai pas que vous perdiez ces beaux yeux, en travaillant à la lumière. Il faut ménager sa vue, nous n'avons rien de plus précieux. Asseyez-vous.
+
+    SUSANNE, À PART.
+Écoutons-la donc : c'est peut-être le seul moyen de m'en débarrasser.
+
+    MADAME CAQUET.
+Vous souvenez-vous, ma voisine, de notre dernière conversation ?
+
+    SUSANNE.
+Oui, Madame ; elle m'est encore présente, et je n'en ai point perdu un seul mot.
+
+    MADAME CAQUET.
+Eh bien ! Moi, ma chère voisine, j'ai fait des réflexions depuis, et tout bien examiné, je venais faire réparation à Monsieur Le Doux, des soupçons que je m'étais permis sur sa conduite.
+
+    SUSANNE.
+Je vous en remercie.
+
+    MADAME CAQUET.
+C'est un poids pour moi, mais un poids insupportable, de mal penser de quelqu'un.
+
+    SUSANNE.
+Je le crois.
+
+    MADAME CAQUET.
+D'après ce que vous m'avez die, j'ai examiné de plus près votre mari, et j'ai reconnu combien ces bruits injurieux qu'on répandait contre lui, étaient faux et mal fondés.
+
+    SUSANNE.
+Il est tant de gens qui se mêlent de ce qui ne les regarde pas, et qui se plaisent à tout envenimer.
+
+    MADAME CAQUET.
+Ce sont des monstres dans la société ! Eh bien ! Ma voisine, croiriez-vous qu'en vous quittant, j'en ai rencontré de ces gens mal-intentionnés, de ces médisants, de ces mauvaises langues, qui ont voulu me soutenir, me prouver même que votre époux était un homme sans mœurs, sans conduite ; et, tenez, à l'instant même, je viens, je vous en réponds, de le défendre vigoureusement contre la Commère Bertrand, qui soutenait qu'il n'était pas rentré coucher chez lui ; et que tandis que vous passiez la nuit à travailler, à pleurer, il était à faire la débauche avec un tas de mauvais sujets, d'ivrognes, qui se rassemblent, pour leurs orgies, dans un petit jardin du Faubourg, où ces beaux Messieurs, sans s'embarrasser de leurs ménages, sans se soucier de leurs pauvres femmes, fument, boivent et jouent. Je l'ai rembarrée de la bonne manière, et je lui ai bien dit que le Doux n'était pas homme à aller dans de pareils endroits.
+
+    SUSANNE.
+Il faut laisser parler les méchants, Madame, et les mépriser.
+
+    MADAME CAQUET.
+Non, ma voisine, non; il faut les confondre. Il faut que les honnêtes gens se soutiennent les uns les autres; voilà comme je suis. C'est au point, ma voisine, que je viens de gager un écu, contre cette Madame Bavardin, qui est bien la plus mauvaise langue du quartier, en présence de Simonne et de la Commère Bonbec, qui a même reçu les enjeux ; que le Doux était dans ce moment occupé à travailler, et qu'il avait passé la nuit à côté de vous, et je suis bien certaine d'avoir gagé à-coup-sûr ; n'est-il pas vrai, Susanne ?
+
+    SUSANNE.
+Assurément, et s'il n'est pas encore à son atelier, c'est que je l'ai forcé de se reposer aujourd'hui un peu plus qu'à l'ordinaire ; il était fatigué...
+
+    MADAME CAQUET.
+Du grand travail qu'il a fait hier ? Voilà ce qui s'appelle une bonne femme, bien intentionnée ! Il faudrait que votre mari fût un monstre, pour ne pas sentir tout ce que vous valez...
+
+    SUSANNE, À PART.
+Cette femme se plaît à déchirer mon cœur.
+
+    MADAME CAQUET, SE LEVANT.
+Je vais bien punir cette méchante Madame Bavardin, en lui gagnant son écu. J'aurais dû gager plus gros, n'est-il pas vrai, ma voisine ? En vérité, je vous félicite d'avoir un mari si rangé, si parfait !... Eh ! Ma voisine, le voilà qui revient en bon état, et bien accompagné.
+
+
+## SCÈNE III. Le Doux, Bécarre, Du Ciseau, Madame Caquet, Susanne.
+
+    SUSANNE, VOLANT À SON MARI.
+Eh ! Mon ami, c'est toi!...
+
+    LE DOUX, LA REPOUSSANT AVEC BRUTALITÉ.
+Laissez-moi.
+
+    SUSANNE.
+N'es-tu pas incommodé ? N'as-tu besoin de rien ?
+
+    LE DOUX.
+Non... Laissez-moi... Retirez-vous.
+
+    SUSANNE.
+Ne me reconnais-tu pas, Le Doux ? Je suis Susanne, je suis ta femme.
+
+    LE DOUX.
+Parbleu ! Je sais bien qui vous êtes.
+
+    SUSANNE.
+Voilà comme tu me traites ?
+
+    LE DOUX.
+Ne m'étourdissez pas. Vos doléances m'ennuient, vos remontrances me fatiguent, et j'ai besoin de repos. Pour vous, Monsieur du Ciseau, vous devez être content de votre nuit, et vous m'avez appris à vous connaître.
+
+    DU CISEAU.
+Vous avez tort de vous plaindre.
+
+    LE DOUX.
+Vous m'avez appris à vous connaître, Monsieur ; la leçon me coûte cher, mais elle n'est pas trop payée.
+
+    BÉCARRE.
+Quand tu auras fait un petit somme...
+
+    LE DOUX.
+Je me fais honte à moi-même...
+Il rentre dans sa chambre, Susanne se prépare à l'accompagner, il la repousse.
+
+Ne me suivez pas.
+
+
+## SCÈNE IV. Madame Caquet, Susanne, Bécarre, Du Ciseau.
+
+    MADAME CAQUET.
+Votre mari me paraît fort indisposé, ma voisine, et, si vous voulez, je le garderai...
+
+    SUSANNE.
+Eh ! Madame, laissez-moi respirer, je vous en conjure. Allez, si vous voulez divulguer mes peines et mes malheurs ; mais ne venez pas davantage jouir de mes larmes, et laissez-moi, du moins, les répandre en liberté.
+
+    MADAME CAQUET.
+Je suis fâchée, Madame, que vous preniez aussi mal les marques d'intérêt et d'amitié qu'on vous donne, et dorénavant je garderai pour d'autres mes conseils, puisque vous les recevez ainsi.
+
+    SUSANNE.
+Vous me ferez grand plaisir, Madame.
+
+    MADAME CAQUET.
+Cela suffit. Restez à roucouler douloureusement auprès d'un époux si tendre, si rangé ; vous méritez bien ce qui vous arrive.
+Elle sort.
+
+
+
+## SCÈNE V. SUSANNE, DU CISEAU, BÉCARRE.
+
+    SUSANNE.
+Qu'attendez-vous donc, Messieurs ? N'êtes-vous pas contents ?
+
+    BÉCARRE.
+Vous devez nous en vouloir un peu, belle Susanne; mais quand vous saurez...
+
+    DU CISEAU, FEIGNANT D’ÊTRE GRIS.
+Votre mari me boude ; mais je veux faire ma paix avec vous, et vous expliquer...
+
+    SUSANNE.
+N'avez-vous pas de honte de me ramener mon mari dans un pareil état ?
+
+    BÉCARRE, CHANTONNE SUR UN AIR D’OPÉRA.
+Un tendre engagement, va plus loin qu'on ne pense.
+
+    SUSANNE.
+Et vous osez vous dire ses amis ?
+
+    DU CISEAU.
+C'est un crâne, c'est un sot.
+
+    BÉCARRE.
+Ça n'a pas plus de tête qu'une linotte. Je n'ai bu un coup ni plus ni moins que lui, et vous voyez que je suis frais. Mais dame aussi, je ne joue pas, moi ; je ne perds pas mon argent, je ne m'emporte pas, je ne me dispute pas : je bois un petit coup d'amitié ; mais lui, c'est un enragé.
+
+    SUSANNE.
+Vous m'effrayez ! Il a joué, dites-vous ; il a perdu : ce n'est rien ; mais il s'est disputé ?
+
+    BÉCARRE.
+Et battu.
+
+    SUSANNE, EFFRAYÉE.
+Battu !
+
+    BÉCARRE.
+J'étais là. Je les ai séparés ; je n'aurais pas souffert que deux amis... Un verre de vin a tout raccommodé, et je vous réponds qu'ils n'ont plus de rancune : n'est-il pas vrai, Du Ciseau ?
+
+    DU CISEAU.
+Je lui pardonne de bon cœur.
+
+    SUSANNE.
+Comment ! Monsieur, c'est contre vous ?
+
+    DU CISEAU.
+Ce n'est pas ma faute. Votre mari a le vin joueur, on joue ; il est mauvais joueur, on se fâche ; il est brutal, on se défend. Tout est dans l'ordre.
+
+    SUSANNE.
+Que je suis malheureuse !
+
+    DU CISEAU, D’UN TON NATUREL.
+Il est vrai ; je vous plains d'avoir un mari qui se dérange tous les jours, et je vous conseille, en bon ami, d'avoir allez de fermeté de séparer votre sort de celui d'un homme qui finira par vous ruiner.
+
+    SUSANNE, S’APERÇOIT QUE DU CISEAU FEINT D’ÊTRE GRIS, ELLE LE REGARDE AVEC UNE SURPRISE MÊLÉE D’INDIGNATION.
+Vous me conseillez...
+
+    BÉCARRE.
+Mauvais conseil que cela ! Ne l'écoutez pas ; c'est un sournois. Le Doux aime la petite goutte, eh bien ! Il saut en tirer vengeance, mais une vengeance plus douce, plus usitée : vous êtes charmante, je vous aime de tout mon cœur, et si vous voulez...
+Il s'avance pour l'embrasser, Susanne le repousse fièrement ; et comme il est réellement gris, il trébuche, et tombe à demi aux pieds de la statue de Minerve.
+
+
+    SUSANNE.
+Insolent !...
+
+    BÉCARRE.
+On peut repousser les gens un peu plus doucement.
+
+    DU CISEAU.
+Ah ! Ah ! Douce Susanne, vous oubliez votre caractère...
+
+    SUSANNE.
+Et vous, votre rôle. Je vois toute l'horreur de la bassesse de votre cœur ; mais vous n'êtes plus à craindre, vous êtes démasqué.
+
+    DU CISEAU, REPRENANT LE TON D’UN HOMME GRIS.
+Ah ! Démasqué...
+
+    SUSANNE.
+Vous ne m'abusez plus : votre ivresse est feinte. Bécarre est à plaindre ; mais vous, vous êtes un monstre, et c'est vous seul que j'accuse de la perte de mon mari.
+
+    DU CISEAU.
+Moi, Madame ?
+On entend du bruit, etc.
+
+
+    SUSANNE.
+Ah ! Ciel ! Mon mari serait-il blessé ?
+Elle sort.
+
+
+
+## SCÈNE VI. Bécarre, Du Ciseau.
+
+    DU CISEAU, À PART.
+Tu m'as démasqué, mais trop tard : tous les coups sont portés ; Le Doux ne s'en relèvera pas, et je vais triompher.
+Regardant la statue aux pieds de laquelle Bécarre est resté, et l'admirant.
+
+Qu'elle est belle !
+
+    BÉCARRE, PARLANT DE SUSANNE.
+Charmante.
+
+    DU CISEAU.
+Des contours !
+
+    BÉCARRE.
+Un embonpoint...
+
+    DU CISEAU.
+Des formes !
+
+    BÉCARRE.
+Une taille...
+
+    DU CISEAU.
+Une fermeté !
+
+    BÉCARRE.
+Je le crois...
+
+    DU CISEAU.
+Quelle fierté !
+
+    BÉCARRE.
+Un peu trop.
+
+    DU CISEAU.
+Que de vigueur !
+
+    BÉCARRE.
+Oh ! Oui.
+
+    DU CISEAU.
+Aujourd'hui elle est à moi.
+
+    BÉCARRE.
+À toi ?
+
+    DU CISEAU.
+Oui, Bécarre ; oui à moi. Je la lui ravis.
+
+    BÉCARRE.
+Tu l'aimes donc bien fort ?
+
+    DU CISEAU.
+J'en suis fou.
+
+    BÉCARRE.
+Et moi aussi.
+
+    DU CISEAU.
+Est-ce que tu t'y connais ?
+
+    BÉCARRE.
+Aussi bien que toi.
+
+    DU CISEAU.
+Non, mon ami, non ; il n'y a qu'un artiste qui puisse apprécier au juste tout son mérite.
+
+    BÉCARRE.
+N'ai-je pas des yeux aussi bien que toi ?
+
+    DU CISEAU.
+Tu ne devines pas mille beautés cachées ?
+
+    BÉCARRE.
+Oh ! Que si fait.
+
+    DU CISEAU.
+Ces coups hardis d'un ciseau sublime ?
+
+    BÉCARRE.
+Qu'est-ce que tu dis donc ?
+
+    DU CISEAU.
+De quoi parles-tu ?
+
+    BÉCARRE.
+De Susanne.
+
+    DU CISEAU.
+Il s'agit bien ici de Susanne !
+
+    BÉCARRE.
+De qui donc ?
+
+    DU CISEAU.
+De sa Minerve, ivrogne ! De ce morceau divin !
+
+
+## SCÈNE VII. Les Précédents, Le Comte d'Artiphile.
+
+    LE COMTE.
+Pourriez-vous me dire, Messieurs, si Monsieur Le Doux est ici ?
+
+    BÉCARRE.
+Certainement.
+
+    DU CISEAU.
+Vous venez, peut-être, pour lui parler d'affaires ?
+
+    LE COMTE.
+Oui... D'une affaire très importante.
+
+    DU CISEAU.
+Pour de l'ouvrage ?
+
+    LE COMTE.
+Oui, Monsieur, pour de l'ouvrage.
+
+    DU CISEAU.
+Excusez, Monsieur ; mais c'est que dans ce moment Le Doux n'est guère en état de vous rendre aucune raison.
+
+    LE COMTE.
+Comment cela ?
+
+    DU CISEAU.
+Il a passé toute la nuit, dans une taverne, à faire la débauche ; il vient de rentrer ivre-mort, et sa femme est allé le coucher.
+
+    BÉCARRE.
+Pourquoi donc dire ça?
+
+    DU CISEAU.
+J'ai des raisons.
+
+    BÉCARRE.
+Dis de la rancune, et c'est vilain. Ne le croyez pas, Monsieur; il est vrai que nous avons passé la nuit ensemble, mais je vous réponds que Le Doux vient de rentrer aussi sain d'esprit et de corps que moi.
+
+    LE COMTE, À PART.
+Ce qu'on me marque, n'est donc que trop véritable.
+Haut regardant la Statue.
+
+Quel dommage, que tant de talents soient perdus pour jamais !
+
+    DU CISEAU.
+Vous examinez cette Statue ?
+
+    LE COMTE.
+Ce marbre respire. Quelle fierté !
+
+    DU CISEAU.
+Et croyez-vous, Monsieur, que ces beautés appartiennent à Le Doux ?
+
+    LE COMTE.
+Oui, Monsieur.
+
+    DU CISEAU.
+À lui ? Apprenez, Monsieur, qu'il les doit toutes à un artiste de les voisins, qui est son guide et son maître.
+
+    LE COMTE, À PART.
+C'est ce qu'on me marque...
+Haut.
+
+Vous aimez la sculpture ?
+
+    DU CISEAU.
+J'en fais mon état.
+
+    LE COMTE.
+Et vous croyez que Le Doux....
+
+    DU CISEAU.
+Homme perdu, Monsieur, talent éteint...
+
+    LE COMTE.
+Il en annonçait cependant, et beaucoup.
+
+    DU CISEAU.
+Fleur trop hâtive, qui ne donnera jamais de fruits.
+
+    LE COMTE.
+Vous le jugez bien sévèrement.
+
+    BÉCARRE.
+C'est qu'ils sont brouillés. Ils ont passé la nuit à boire et à jouer. Ils se sont disputés, battus, et je les ai raccommodés, parce que j'avais conservé ma raison, moi ; mais il est rancuneux, lui !
+
+    DU CISEAU, BAS À BÉCARRE.
+Tais-toi donc ?
+
+    BÉCARRE.
+Pourquoi dis-tu du mal de mon ami ?
+
+    DU CISEAU.
+J'ai mes raisons pour parler ainsi.
+
+    BÉCARRE.
+Tu as tes raisons ?
+
+    DU CISEAU.
+Oui ; et si tu veux venir jusques chez moi boire un verre de liqueur, je te les expliquerai.
+
+    BÉCARRE.
+Ceci change la thèse. Je veux les savoir, moi, ces raisons.
+
+    DU CISEAU.
+Eh bien ! Donne-moi le bras.
+Au Comte.
+
+Votre très humble serviteur, Monsieur.
+Ils sortent.
+
+
+
+## SCÈNE VIII.
+
+    LE COMTE D’ARTIPHILE, SEUL.
+Cet homme est plus que méchant, c'est un envieux. Ah ! Pourquoi les talents, au lieu d'exciter dans le cœur des Artistes une noble émulation, une généreuse rivalité, n'y font-ils naître qu'une basse et lâche jalousie. Un succès dans tous les genres, est le tocsin qui réveille la haine, ameute la médiocrité, effraye le demi-talent. Malheur à celui qui, jeune encore, se couronne d'un laurier ! Il peut dès lors compter autant d'ennemis qu'il a de rivaux ; tous chercheront à l'écraser ; et si la dent de l'Envie se brise contre son ouvrage, on attaquera son cœur, on dénigrera ses mœurs, on souillera son berceau, et son nom même prêtera une arme nouvelle à la place malignité.
+
+
+## SCÈNE IX. Le Comte, Susanne.
+
+    SUSANNE, À PART.
+Ah ! Ciel ! C'est le Comte d'Artiphile lui-même?
+Haut.
+
+Pardon, Monsieur le Comte, j'ignorais que vous fussiez ici. Y a-t-il longtemps ?
+
+    LE COMTE.
+Non, Madame. Quels sont ces deux hommes que je viens d'y trouver ?
+
+    SUSANNE.
+Ce sont, deux amis de mon mari.
+
+    LE COMTE.
+Deux amis de votre mari ?
+
+    SUSANNE.
+Oui, Monsieur. L'un est musicien, qui n'est pas sans talent, mais qui a le malheureux défaut de boire un peu.
+
+    LE COMTE.
+Je m'en suis bien aperçu ; mais quel est l'autre ?
+
+    SUSANNE.
+C'est Monsieur du Ciseau, un confrère de mon mari, et qui demeure ici près.
+
+    LE COMTE.
+Monsieur du Ciseau ! Et c'est, dites-vous, l'ami de votre mari ?
+
+    SUSANNE.
+Son ami intime.
+
+    LE COMTE.
+Le lâche !... Revenons à Le Doux. Vous savez, Madame, la manière dont je me suis comporté vis-à-vis de lui ?
+
+    SUSANNE.
+Ah ! Monsieur le Comte, après avoir élevé sa jeunesse, après avoir été son bienfaiteur, voudriez-vous le perdre ?
+
+    LE COMTE.
+Il m'y force, Madame ; il y a plus d'un an que cet ouvrage devrait être fini. Je lui en ai fourni le marbre, je lui ai avancé plus de cent louis au-delà du prix convenu ; je ne lui demande pas d'argent, mais je veux, au moins, son ouvrage, je le veux tel qu'il est.
+
+    SUSANNE.
+Vous voulez donc notre ruine ? Je sais jusqu'à quel point vous avez poussé vos bontés, et combien mon mari paraît avoir de torts vis-à-vis de vous ; mais ces torts, j'en suis peut-être la première cause.
+
+    LE COMTE.
+Vous, Madame !
+
+    SUSANNE, LUI MONTRANT LA BARCELONETTE DE SON FILS.
+Oui, moi, Monsieur. C'est vous qui nous avez mariés ; vous voyez le premier fruit de vos biensaits et de l'amour de le Doux : peut-être ma tendresse l'a-t-elle trop de fois détourné de son ouvrage. Il est bien difficile de se livrer à tout son génie, quand le cœur parle si haut. Je suis donc seule coupable ; mais mon crime fut de trop aimer l'époux que vous m'aviez donné. Le punirez-vous de ma faute ?
+
+    LE COMTE.
+J'admire avec quelle adresse vous défendez votre époux ; mais plus vous employez d'art pour le disculper, plus il est coupable à mes yeux.
+
+    SUSANNE.
+Lui, coupable !
+
+    LE COMTE.
+Oui, puisqu'il ne vous rend pas heureuse.
+
+    SUSANNE.
+Le Doux ne me rend pas heureuse ! Eh ! Que manque t-il à mon bonheur ; mon mari m'aime, m'adore, a pour moi les complaisances d'un amant.
+
+    LE COMTE.
+Vous me trompez, Madame ; Le Doux vous néglige, vous maltraite même.
+
+    SUSANNE.
+Qui peut vous avoir fait de tels rapports ?
+
+    LE COMTE, LUI DONNANT UNE LETTRE.
+Tenez, Madame, voyez ce qu'on m'écrit.
+
+    SUSANNE.
+C'est l'écriture de Monsieur du Ciseau.
+
+    LE COMTE.
+De l'ami de votre mari ?
+
+    SUSANNE.
+Oui, Monsieur.
+
+    LE COMTE.
+Et en êtes-vous bien certaine ?
+
+    SUSANNE.
+On ne peut davantage. Je vous montrerai vingt de ses lettres.
+
+    LE COMTE.
+Lisez donc.
+
+    SUSANNE, LIT.
+Monsieur le Comte, je me crois, en honneur, obligé de vous donner un avis qui coûte beaucoup à mon cœur ; mais je ne puis laisser indignement tromper un homme aussi généreux que vous, et dont la protection est si précieuse à tous les artistes. Vous avez confié un ouvrage très conséquent à un jeune homme, nommé Le Doux, qui, à la vérité, annonçait quelque talent ; mais qui, depuis quelque temps, est absolument dérangé, maltraite sa femme, et passe sa vie dans une taverne, adonné au jeu, à la boisson ; il n'a plus ce ciseau ferme et hardi qui a dégrossi votre marbre, et je vous préviens qu'il est hors d'état de l'achever. Si j'ai un conseil à vous donner, c'est de le confier à des mains plus sûres. Il est beaucoup d'artistes qui méritent votre confiance ; il en est un surtout, qui, ami, dit-on, et voisin de Le Doux, a seul échauffé son imagination, et conduit sa main. J'ignore son nom ; l'avis que je vous donne en est d'autant plus sincère, ainsi que le profond respect avec lequel j'ai l'honneur d'être, quoique je ne me nomme pas, Monsieur le Comte, votre, etc. Le monstre !
+
+    LE COMTE.
+Eh bien ! Madame?
+
+    SUSANNE.
+L'envie seule, Monsieur, l'envie la plus basse a pu dicter une pareille lettre. Jugez quel est cet homme, qui n'ose se nommer ?
+
+    LE COMTE.
+J'avoue qu'un pareil écrit ne peut venir que d'une main méprisable ; mais est-ce donc la première fois que la vérité parvient jusqu'à nous par un organe impur ?
+
+    SUSANNE.
+Eh bien ! Je me sens le courage de vous le dire, moi, cette vérité si cruelle, et vous m'en croirez, Monsieur le Comte. Il est vrai, Le Doux est changé ; mais ce n'est pas un monstre, ce n'est pas non plus un homme sans talent. C'est un jeune Artiste faible, qui, depuis quelque temps, entraîné par des amis dangereux, a négligé son ouvrage ; mais sans rien perdre de son génie. Ce Monsieur du Ciseau, ce lâche qui vous écrit, vient tous les jours l'arracher de son atelier, pour le conduire dans un jardin, où s'assemblent des gens désœuvrés, mais honnêtes. Voilà les seuls torts de le Doux. Trop de facilité, un peu de paresse, un peu de négligence ; mais ce n'est qu'un léger nuage qui peut bientôt se dissiper. Ma tendresse, vos conseils, vos bontés, si vous daignez les lui conserver, la vue de cet enfant qui lui doit le jour, auquel il doit le bonheur, tout va ranimer dans son âme les premiers élans du génie. Mon époux a toujours le cœur excellent. Songez qu'en le perdant, vous perdrez sa femme et cette innocente créature. Non, vous n'en aurez pas la fermeté cruelle.
+
+
+## SCÈNE X et DERNIÈRE. Les Précédents, Le Doux.
+
+    SUSANNE, VOYANT DESCENDRE SON MARI, VOLE À LUI, ET LE PRÉSENTE AU COMTE.
+Viens, mon ami, viens tomber avec moi aux pieds d'un homme sensible, qui ne résistera pas à nos larmes.
+
+    LE DOUX.
+Pardon, Monsieur le Comte, si je parois en cet état devant vous ; une indisposition subite, un malaise...
+
+    LE COMTE.
+Avouez, mon ami, qu'il en coûte cruellement à un homme honnête pour mentir. Épargnez-vous cette peine.
+
+    LE DOUX.
+Quoi ! Susanne ?...
+
+    SUSANNE.
+Peux-tu soupçonner, le Doux ?...
+
+    LE COMTE.
+Ne faites point de reproches à votre femme. Il est bien rare d'en trouver une pareille : loin de vous accuser, elle a tout employé pour vous justifier, et sa tendresse pour vous, m'a plus apaisé que ses raisons. C'est un ange, mon ami, c'est un ange tutélaire qui veille sur vous et sur votre maison. Voyez tout ce que vous lui devez, puisque je vous conserve encore mes bontés, mon estime et ma protection, malgré cette lettre affreuse que m'écrivait contre vous votre ami Du Ciseau. Reconnaissez-vous son écriture ?
+
+    LE DOUX.
+Oui, Monsieur le Comte.
+
+    LE COMTE.
+Gardez-la.
+
+    LE DOUX.
+Qui donc a pu l'armer contre moi ?
+
+    LE COMTE.
+Vos succès ; et voilà l'ami pour lequel vous abandonniez cette femme respectable, cette créature intéressante, à laquelle vous devez un père.
+
+    LE DOUX, FAISANT UN MOUVEMENT POUR SE JETER AUX PIEDS DU COMTE.
+Ah ! Monsieur, permettez...
+
+    LE COMTE, LUI TENDANT LA MAIN.
+Ce n'est pas à mes pieds que vous devez tomber ; Le Doux ; c'est à ceux de cette adorable femme.
+
+    SUSANNE, L’EMBRASSANT.
+Oh ! Mon ami !
+
+    LE DOUX, À SA FEMME.
+Ma Susanne... J'abjure à tes pieds ce malheureux goût, qui allait, peut-être, me faire oublier que j'étais époux et père.
+
+    LE COMTE. [4]
+Voyez, Le Doux, voyez à quoi tiennent les talents, les mœurs, le bonheur même. Voyez, surtout combien un faux ami est à craindre, et redoutez toujours les liaisons dangereuses.
+
+-------
+
+
+[1] Estaminette : estaminet. Café où l'on fume. L Littré ne signale pas de féminin à estaminet.
+
+[2] Terpsichore : Nom d'une des neuf Muses, celle qui préside à la danse. L
+
+[3] Vestale : Fille vierge chez les Romains, qui était consacrée au service de la déesse Vesta, pour garder le feu sacré de son temple. F
+
+[4] "Les liaisons dangereuses" est un roman de Pierre Choderlos de Laclos publié en 1782.

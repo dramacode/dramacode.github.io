@@ -1,0 +1,2063 @@
+---
+identifier: moliere_medecinmalgrelui  
+creator: Molière  
+date: 1666  
+title: Le Médecin malgré lui. , comédie.  
+---
+
+
+LE MÉDECIN MALGRÉ LUI
+
+COMÉDIE
+
+M. DC LXVII. Avec Privilège du Roi.
+
+par J.B.P. MOLIÈRE
+
+# Extrait du Privilège du Roi. Par Grâce et privilège du Roi,donné à Paris, le 8. jour d'Octobre 1666, Signé, par le Roi en son Conseil, GUITONNEAU. Il est permis à JEAN BAPTISTE POCQUELIN DE MOLIÈRE, Comédiens de la Troupe de notre très cher et très âmé Frère Unique le Duc d'Orléans, de faire imprimer, vendre et débiter une comédie par lui composée, intitulée Le Médecin malgré lui, pendant sept années : Et défenses sont faites à tous autres de l'imprimer, ni vendre d'autre édition que celle de l'exposant, ou de ceux qui auront droit de lui, à peine de quinze cent livres d'amende, confiscation des exemplaires, et de tous dépens, dommages et intérêts, comme il est porté plus amplement par lesdites Lettres. Registré sur le Livre de la Communauté. Signé PIGET, syndic. Et ledit Sieur DE MOLIÈRE a cédé et transporté son droit de privilège, à JEAN RIBOU, Marchand Libraire à Paris, pour en jouir suivant l'accord fait entre eux.Achevé d'imprimer pour la première fois le 24 décembre 1666.À PARIS, chez JEAN RIBOU, au Palais, sur le Grand Perron, vis à vis la Porte de l'Église de la Sainte-Chapelle, à l'Image Saint-Louis.
+Représentée pour la première fois à Paris sur le théâtre du Palais-Royal le vendredi 6e du mois d'août 1666 par la Troupe du Roi.
+
+
+# PERSONNAGES.
+ – SGANARELLE, mari de Martine.
+ – MARTINE, femme de Sganarelle.
+ – MONSIEUR ROBERT, voisin de Sganarelle.
+ – VALÈRE, domestique de Géronte.
+ – LUCAS, mari de Jacqueline.
+ – GÉRONTE, père de Lucinde.
+ – JACQUELINE, nourrice chez Géronte, et femme de Lucas.
+ – LUCINDE, fille de Géronte.
+ – LÉANDRE, amant de Lucinde.
+ – THIBAUT, père de Perrin.
+ – PERRIN, fils de Thibaut, paysan.Le Lieu de l'action n'est pas indiqué.
+
+
+# ACTE I.
+
+
+## SCÈNE I. Sganarelle, Martine, paraissant sur le théâtre en se querellant.
+
+    SGANARELLE.
+Non, je te dis que je n'en veux rien faire : et que c'est à moi de parler et d'être le maître.
+
+    MARTINE. [1]
+Et je te dis, moi, que je veux que tu vives à ma fantaisie : et que je ne me suis point mariée avec toi pour souffrir tes fredaines.
+
+    SGANARELLE.
+Ô la grande fatigue que d'avoir une femme : et qu'Aristote a bien raison, quand il dit qu'une femme est pire qu'un Démon !
+
+    MARTINE. [2]
+Voyez un peu l'habile homme, avec son benêt d'Aristote !
+
+    SGANARELLE. [3]
+Oui, habile homme : trouve-moi un faiseur de fagots qui sache, comme moi, raisonner des choses, qui ait servi six ans, un fameux médecin, et qui ait su, dans son jeune âge, son rudiment par coeur.
+
+    MARTINE.
+Peste du fou fieffé !
+
+    SGANARELLE. [4]
+Peste de la carogne !
+
+    MARTINE.
+Que maudit soit l'heure et le jour, où je m'avisai d'aller dire oui.
+
+    SGANARELLE. [5]
+Que maudit soit le bec cornu de notaire qui me fit signer ma ruine.
+
+    MARTINE.
+C'est bien à toi, vraiment, à te plaindre de cette affaire : devrais-tu être un seul moment sans rendre grâce au Ciel de m'avoir pour ta femme, et méritais-tu d'épouser une personne comme moi ?
+
+    SGANARELLE.
+Il est vrai que tu me fis trop d'honneur : et que j'eus lieu de me louer la première nuit de nos noces ! Hé ! Morbleu, ne me fais point parler là-dessus : je dirais de certaines choses...
+
+    MARTINE.
+Quoi ? Que dirais-tu ?
+
+    SGANARELLE.
+Baste, laissons là ce chapitre, il suffit que nous savons ce que nous savons : et que tu fus bien heureuse de me trouver.
+
+    MARTINE. [6]
+Qu'appelles-tu bien heureuse, de te trouver un homme qui me réduit à l'hôpital, un débauché, un traître, qui me mange tout ce que j'ai ?
+
+    SGANARELLE.
+Tu as menti, j'en bois une partie.
+
+    MARTINE.
+Qui me vend, pièce à pièce, tout ce qui est dans le logis.
+
+    SGANARELLE.
+C'est vivre de ménage.
+
+    MARTINE.
+Qui m'a ôté jusqu'au lit que j'avais.
+
+    SGANARELLE.
+Tu t'en lèveras plus matin.
+
+    MARTINE.
+Enfin qui ne laisse aucun meuble dans toute la maison.
+
+    SGANARELLE.
+On en déménage plus aisément.
+
+    MARTINE.
+Et qui du matin jusqu'au soir, ne fait que jouer, et que boire.
+
+    SGANARELLE.
+C'est pour ne me point ennuyer.
+
+    MARTINE.
+Et que veux-tu pendant ce temps, que je fasse avec ma famille ?
+
+    SGANARELLE.
+Tout ce qu'il te plaira.
+
+    MARTINE.
+J'ai quatre pauvres petits enfants sur les bras.
+
+    SGANARELLE.
+Mets-les à terre.
+
+    MARTINE.
+Qui me demandent à toute heure, du pain.
+
+    SGANARELLE.
+Donne-leur le fouet. Quand j'ai bien bu, et bien mangé, je veux que tout le monde soit saoul dans ma maison.
+
+    MARTINE.
+Et tu prétends ivrogne, que les choses aillent toujours de même ?
+
+    SGANARELLE.
+Ma femme, allons tout doucement, s'il vous plaît.
+
+    MARTINE.
+Que j'endure éternellement tes insolences, et tes débauches ?
+
+    SGANARELLE.
+Ne nous emportons point ma femme.
+
+    MARTINE.
+Et que je ne sache pas trouver le moyen de te ranger à ton devoir ?
+
+    SGANARELLE.
+Ma femme, vous savez que je n'ai pas l'âme endurante : et que j'ai le bras assez bon.
+
+    MARTINE.
+Je me moque de tes menaces.
+
+    SGANARELLE.
+Ma petite femme, ma mie, votre peau vous démange, à votre ordinaire.
+
+    MARTINE.
+Je te montrerai bien que je ne te crains nullement.
+
+    SGANARELLE.
+Ma chère moitié, vous avez envie de me dérober quelque chose.
+
+    MARTINE.
+Crois-tu que je m'épouvante de tes paroles ?
+
+    SGANARELLE.
+Doux objet de mes voeux, je vous frotterai les oreilles.
+
+    MARTINE.
+Ivrogne que tu es.
+
+    SGANARELLE.
+Je vous battrai.
+
+    MARTINE. [7]
+Sac à vin.
+
+    SGANARELLE. [8]
+Je vous rosserai.
+
+    MARTINE.
+Infâme.
+
+    SGANARELLE.
+Je vous étrillerai.
+
+    MARTINE. [9]
+Traître, insolent, trompeur, lâche, coquin, pendard, gueux, belître, fripon, maraud, voleur...
+
+    SGANARELLE.
+Il prend un bâton et lui en donne.
+
+Ah ! Vous en voulez, donc.
+
+    MARTINE.
+Ah, ah, ah, ah !
+
+    SGANARELLE.
+Voilà le vrai moyen de vous apaiser.
+
+
+## SCÈNE II. Monsieur Robert, Sganarelle, Martine.
+
+    MONSIEUR ROBERT.
+Holà, holà, holà, fi, qu'est-ce ci ? Quelle infamie peste, soit le coquin, de battre ainsi sa femme !
+
+    MARTINE.
+Les mains sur les côtés, lui parle en le faisant reculer, et à la fin, lui donne un soufflet.
+
+Et je veux qu'il me batte, moi.
+
+    MONSIEUR ROBERT.
+Ah ! J'y consens de tout mon coeur.
+
+    MARTINE.
+De quoi vous mêlez-vous ?
+
+    MONSIEUR ROBERT.
+J'ai tort.
+
+    MARTINE.
+Est-ce là votre affaire ?
+
+    MONSIEUR ROBERT.
+Vous avez raison.
+
+    MARTINE.
+Voyez un peu cet impertinent, qui veut empêcher les maris de battre leurs femmes.
+
+    MONSIEUR ROBERT.
+Je me rétracte.
+
+    MARTINE.
+Qu'avez-vous à voir là-dessus ?
+
+    MONSIEUR ROBERT.
+Rien.
+
+    MARTINE.
+Est-ce à vous, d'y mettre le nez ?
+
+    MONSIEUR ROBERT.
+Non.
+
+    MARTINE.
+Mêlez-vous de vos affaires.
+
+    MONSIEUR ROBERT.
+Je ne dis plus mot.
+
+    MARTINE.
+Il me plaît d'être battue.
+
+    MONSIEUR ROBERT.
+D'accord.
+
+    MARTINE.
+Ce n'est pas à vos dépens.
+
+    MONSIEUR ROBERT.
+Il est vrai.
+
+    MARTINE.
+Et vous êtes un sot de venir vous fourrer où vous n'avez que faire.
+
+    MONSIEUR ROBERT.
+Il passe, ensuite, vers le mari, qui, pareillement, lui parle toujours en le faisant reculer : le frappe avec le même bâton et le met en fuite ; il dit à la fin.
+
+Compère, je vous demande pardon de tout mon coeur, faites, rossez, battez, comme il faut, votre femme ; je vous aiderai si vous le voulez.
+
+    SGANARELLE.
+Il ne me plaît pas, moi.
+
+    MONSIEUR ROBERT.
+Ah ! C'est une autre chose.
+
+    SGANARELLE.
+Je la veux battre, si je le veux : et ne la veux pas battre, si je ne le veux pas.
+
+    MONSIEUR ROBERT.
+Fort bien.
+
+    SGANARELLE.
+C'est ma femme, et non pas la vôtre.
+
+    MONSIEUR ROBERT.
+Sans doute.
+
+    SGANARELLE.
+Vous n'avez rien à me commander.
+
+    MONSIEUR ROBERT.
+D'accord.
+
+    SGANARELLE.
+Je n'ai que faire de votre aide.
+
+    MONSIEUR ROBERT.
+Très volontiers.
+
+    SGANARELLE.
+Et vous êtes un impertinent, de vous ingérer des affaires d'autrui : apprenez que Cicéron dit qu'entre l'arbre et le doigt il ne faut point mettre l'écorce.
+Ensuite, il revient vers sa femme, et lui dit, en lui pressant la main :
+ [10]
+Ô çà, faisons la paix nous deux. Touche là.
+
+    MARTINE.
+Oui ! Après m'avoir ainsi battue !
+
+    SGANARELLE.
+Cela n'est rien, touche.
+
+    MARTINE.
+Je ne veux pas.
+
+    SGANARELLE.
+Eh !
+
+    MARTINE.
+Non.
+
+    SGANARELLE.
+Ma petite femme !
+
+    MARTINE.
+Point.
+
+    SGANARELLE.
+Allons, te dis-je.
+
+    MARTINE.
+Je n'en ferai rien.
+
+    SGANARELLE.
+Viens, viens, viens.
+
+    MARTINE.
+Non : je veux être en colère.
+
+    SGANARELLE.
+Fi, c'est une bagatelle, allons, allons.
+
+    MARTINE.
+Laisse-moi là.
+
+    SGANARELLE.
+Touche, te dis-je.
+
+    MARTINE.
+Tu m'as trop maltraitée.
+
+    SGANARELLE.
+Eh bien va, je te demande pardon, mets là, ta main.
+
+    MARTINE.
+Je te pardonne?
+Elle dit le reste bas
+
+mais tu le payeras.
+
+    SGANARELLE.
+Tu es une folle de prendre garde à cela. Ce sont petites choses qui sont, de temps, en temps, nécessaires dans l'amitié : et cinq ou six coups de bâton, entre gens qui s'aiment, ne font que ragaillardir l'affection. Va, je m'en vais au bois : et je te promets, aujourd'hui, plus d'un cent de fagots.
+
+
+## SCÈNE III.
+
+    MARTINE, SEULE. [11]
+Va, quelque mine que je fasse, je n'oublie pas mon ressentiment : et je brûle en moi-même de trouver les moyens de te punir des coups que tu me donnes. Je sais bien qu'une femme a toujours dans les mains, de quoi se venger d'un mari : mais c'est une punition trop délicate pour mon pendard. Je veux une vengeance qui se fasse un peu mieux sentir : et ce n'est pas contentement pour l'injure que j'ai reçue.
+
+
+## SCÈNE IV. Valère, Lucas, Martine.
+
+    LUCAS. [12]
+Parguenne ! J'avons pris là tous deux une gueble de commission ; et je ne sais pas, moi, ce que je pensons attraper.
+
+    VALÈRE. [13]
+Que veux-tu, mon pauvre nourricier ? Il faut bien obéir à notre maître : et puis, nous avons intérêt, l'un et l'autre, à la santé de sa fille notre maîtresse, et, sans doute, son mariage différé par sa maladie, nous vaudrait quelque récompense. Horace qui est libéral, a bonne part aux prétentions qu'on peut avoir sur sa personne : et quoiqu'elle ait fait voir de l'amitié pour un certain Léandre, tu sais bien que son père n'a jamais voulu consentir à le recevoir pour son gendre.
+
+    MARTINE, RÊVANT À PART ELLE.
+Ne puis-je point trouver quelque invention pour me venger ?
+
+    LUCAS.
+Mais quelle fantaisie s'est-il boutée là dans la tête, puisque les médecins y avont tous pardu leur latin ?
+
+    VALÈRE.
+On trouve quelquefois, à force de chercher, ce qu'on ne trouve pas d'abord : et souvent, en de simples lieux...
+
+    MARTINE.
+Oui, il faut que je m'en venge à quelque prix que ce soit : ces coups de bâton me reviennent au coeur, je ne les saurais digérer, et...
+Elle dit tout ceci en rêvant : de sorte que ne prenant pas garde à ces deux hommes, elle les heurte en se retournant, et leur dit.
+
+Ah ! Messieurs, je vous demande pardon, je ne vous voyais pas : et cherchais dans ma tête quelque chose qui m'embarrasse.
+
+    VALÈRE.
+Chacun a ses soins dans le monde, et nous cherchons aussi ce que nous voudrions bien trouver.
+
+    MARTINE.
+Serait-ce quelque chose où je vous puisse aider ?
+
+    VALÈRE.
+Cela se pourrait faire ; et nous tâchons de rencontrer quelque habile homme, quelque médecin particulier, qui pût donner quelque soulagement à la fille notre maître, attaquée d'une maladie qui lui a ôté, tout d'un coup, l'usage de la langue. Plusieurs médecins ont déjà épuisé toute leur science après elle : mais on trouve, parfois, des gens avec des secrets admirables, de certains remèdes particuliers, qui font le plus souvent ce que les autres n'ont su faire, et c'est là, ce que nous cherchons.
+
+    MARTINE.
+Elle dit ces premières lignes bas.
+
+Ah ! Que le Ciel m'inspire une admirable invention pour me venger de mon pendard !
+Haut.
+
+Vous ne pouviez jamais vous mieux adresser pour rencontrer ce que vous cherchez : et nous avons ici un homme, le plus merveilleux homme du monde, pour les maladies désespérées.
+
+    VALÈRE.
+Et de grâce, où pouvons-nous le rencontrer ?
+
+    MARTINE.
+Vous le trouverez, maintenant, vers ce petit lieu que voilà, qui s'amuse à couper du bois.
+
+    LUCAS.
+Un médecin qui coupe du bois !
+
+    VALÈRE. [14]
+Qui s'amuse à cueillir des simples, voulez-vous dire ?
+
+    MARTINE. [15]
+Non : c'est un homme extraordinaire qui se plaît à cela, fantasque, bizarre, quinteux, et que vous ne prendriez jamais, pour ce qu'il est. Il va vêtu d'une façon extravagante, affecte, quelquefois, de paraître ignorant, tient sa science renfermée, et ne fuit rien tant tous les jours que d'exercer les merveilleux talents qu'il a eus du ciel, pour la médecine.
+
+    VALÈRE.
+C'est une chose admirable, que tous les grands hommes ont toujours du caprice, quelque petit grain de folie mêlé à leur science.
+
+    MARTINE.
+La folie de celui-ci, est plus grande qu'on ne peut croire, car elle va parfois jusqu'à vouloir être battu pour demeurer d'accord de sa capacité : et je vous donne avis que vous n'en viendrez point à bout, qu'il n'avouera jamais, qu'il est médecin, s'il se le met en fantaisie, que vous ne preniez chacun un bâton, et ne le réduisiez, à force de coups, à vous confesser à la fin ce qu'il vous cachera d'abord. C'est ainsi que nous en usons quand nous avons besoin de lui.
+
+    VALÈRE.
+Voilà une étrange folie !
+
+    MARTINE.
+Il est vrai : mais, après cela, vous verrez qu'il fait des merveilles.
+
+    VALÈRE.
+Comment s'appelle-t-il ?
+
+    MARTINE. [16]
+Il s'appelle Sganarelle : mais il est aisé à connaître. C'est un homme qui a une large barbe noire, et qui porte une fraise, avec un habit jaune et vert.
+
+    LUCAS. [17]
+Un habit jaune et vert ! C'est donc le médecin des paroquets ?
+
+    VALÈRE.
+Mais est-il bien vrai qu'il soit si habile, que vous le dites ?
+
+    MARTINE.
+Comment ! C'est un homme qui fait des miracles. Il y a six mois qu'une femme fut abandonnée de tous les autres médecins. On la tenait morte? il y avait déjà six heures : et l'on se disposait à l'ensevelir, lorsqu'on y fit venir de force l'homme dont nous parlons. Il lui mit, l'ayant vue, une petite goutte de je ne sais quoi dans la bouche : et dans le même instant, elle se leva de son lit, et se mit, aussitôt, à se promener dans sa chambre, comme si de rien n'eût été.
+
+    LUCAS.
+Ah !
+
+    VALÈRE. [18]
+Il fallait que ce fût quelque goutte d'or potable.
+
+    MARTINE. [19]
+Cela pourrait bien être. Il n'y a pas trois semaines, encore, qu'un jeune enfant de douze ans tomba du haut du clocher, en bas, et se brisa, sur le pavé, la tête, les bras et les jambes. On n'y eut pas plutôt amené notre homme, qu'il le frotta par tout le corps, d'un certain onguent qu'il sait faire ; et l'enfant aussitôt se leva sur ses pieds, et courut jouer à la fossette.
+
+    LUCAS.
+Ah !
+
+    VALÈRE.
+Il faut que cet homme-là ait la médecine universelle.
+
+    MARTINE.
+Qui en doute ?
+
+    LUCAS. [20]
+Testigué, vela justement l'homme qu'il nous faut : allons vite le chercher.
+
+    VALÈRE.
+Nous vous remercions du plaisir que vous nous faites.
+
+    MARTINE.
+Mais souvenez-vous bien au moins, de l'avertissement que je vous ai donné.
+
+    LUCAS.
+Eh ! Morguenne, laissez-nous faire, s'il ne tient qu'à battre, la vache est à nous.
+
+    VALÈRE.
+Nous sommes bien heureux d'avoir fait cette rencontre : et j'en conçois, pour moi, la meilleure espérance du monde.
+
+
+## SCÈNE V. Sganarelle, Valère, Lucas.
+
+    SGANARELLE ENTRE SUR LE THÉÂTRE EN CHANTANT ET TENANT UNE BOUTEILLE.
+La, la, la.
+
+    VALÈRE.
+J'entends quelqu'un qui chante, et qui coupe du bois.
+
+    SGANARELLE.
+La, la, la... Ma foi, c'est assez travaillé pour un coup : prenons un peu d'haleine.
+Il boit, et dit après avoir bu :
+
+Voilà du bois qui est salé, comme tous les diables.
+
+
+Qu'ils sont doux,  
+Bouteille jolie,  
+Qu'ils sont doux  
+Vos petits glou-gloux !  
+Mais mon sort ferait bien des jaloux,  
+Si vous étiez toujours remplie.  
+Ah ! Bouteille, ma mie,  
+Pourquoi vous videz-vous ?  
+Allons, morbleu ! Il ne faut point engendrer de mélancolie.
+
+    VALÈRE.
+Le voilà lui-même.
+
+    LUCAS. [21]
+Je pense que vous dites vrai, et que j'avons bouté le nez dessus.
+
+    VALÈRE.
+Voyons de près.
+
+    SGANARELLE, LES APERCEVANT, LES REGARDE, EN SE TOURNANT VERS L’UN ET PUIS VERS L’AUTRE, ET, ABAISSANT LA VOIX, DIT :. [22]
+Ah ! Ma petite friponne, que je t'aime, mon petit bouchon.
+... Mon sort.. ferait... bien des... jaloux,  
+Si...  
+Que diable ! À qui en veulent ces gens-là ?
+
+    VALÈRE.
+C'est lui assurément...
+
+    LUCAS. [23]
+Le velà tout craché comme on nous l'a défiguré.
+
+    SGANARELLE, À PART.
+Ici, il pose sa bouteille à terre, et Valère se baissant pour le saluer, comme il croit que c'est à dessein de la prendre, il la met de l'autre côté ; ensuite de quoi, Lucas faisant la même chose, il la reprend et la tient contre son estomac, avec divers gestes qui font un grand jeu de théâtre.
+
+Ils consultent en me regardant. Quel dessein auraient-ils ?
+
+    VALÈRE.
+Monsieur, n'est-ce pas vous qui vous appelez Sganarelle ?
+
+    SGANARELLE.
+Eh quoi ?
+
+    VALÈRE.
+Je vous demande si ce n'est pas vous, qui se nomme Sganarelle.
+
+    SGANARELLE, SE TOURNANT VERS VALÈRE, PUIS VERS LUCAS.
+Oui, et non, selon ce que vous lui voulez.
+
+    VALÈRE.
+Nous ne voulons que lui faire toutes les civilités que nous pourrons.
+
+    SGANARELLE.
+En ce cas, c'est moi, qui se nomme Sganarelle.
+
+    VALÈRE.
+Monsieur, nous sommes ravis de vous voir. On nous a adressés à vous pour ce que nous cherchons ; et nous venons implorer votre aide, dont nous avons besoin.
+
+    SGANARELLE.
+Si c'est quelque chose, Messieurs, qui dépende de mon petit négoce, je suis tout prêt à vous rendre service.
+
+    VALÈRE.
+Monsieur, c'est trop de grâce que vous nous faites. Mais, Monsieur, couvrez-vous, s'il vous plaît ; le soleil pourrait vous incommoder.
+
+    LUCAS. [24]
+Monsieur, boutez dessus.
+
+    SGANARELLE, BAS.
+Voici des gens bien pleins de cérémonie.
+
+    VALÈRE.
+Monsieur, il ne faut pas trouver étrange que nous venions à vous : les habiles gens sont toujours recherchés, et nous sommes instruits de votre capacité.
+
+    SGANARELLE.
+Il est vrai, Messieurs, que je suis le premier homme du monde pour faire des fagots.
+
+    VALÈRE.
+Ah ! Monsieur...
+
+    SGANARELLE.
+Je n'y épargne aucune chose, et les fais d'une façon qu'il n'y a rien à dire.
+
+    VALÈRE.
+Monsieur, ce n'est pas cela dont il est question.
+
+    SGANARELLE.
+Mais aussi je les vends cent dix sols, le cent.
+
+    VALÈRE.
+Ne parlons point de cela, s'il vous plaît.
+
+    SGANARELLE.
+Je vous promets, que je ne saurais les donner à moins.
+
+    VALÈRE.
+Monsieur, nous savons les choses.
+
+    SGANARELLE.
+Si vous savez les choses, vous savez que je les vends cela.
+
+    VALÈRE.
+Monsieur, c'est se moquer que...
+
+    SGANARELLE.
+Je ne me moque point, je n'en puis rien rabattre.
+
+    VALÈRE.
+Parlons d'autre façon, de grâce.
+
+    SGANARELLE.
+Vous en pourrez trouver autre part, à moins : il y a fagots et fagots. Mais pour ceux que je fais...
+
+    VALÈRE.
+Eh ? Monsieur, laissons là, ce discours.
+
+    SGANARELLE.
+Je vous jure que vous ne les auriez pas, s'il s'en fallait un double.
+
+    VALÈRE.
+Eh fi.
+
+    SGANARELLE. [25]
+Non, en conscience, vous en payerez cela. Je vous parle sincèrement, et ne suis pas homme à surfaire.
+
+    VALÈRE. [26]
+Faut-il, Monsieur, qu'une personne comme vous s'amuse à ces grossières feintes ? S'abaisse à parler de la sorte ? Qu'un homme si savant, un fameux médecin, comme vous êtes, veuille se déguiser aux yeux du monde, et tenir enterrés les beaux talents qu'il a ?
+
+    SGANARELLE, À PART.
+Il est fou.
+
+    VALÈRE.
+De grâce, Monsieur, ne dissimulez point avec nous.
+
+    SGANARELLE.
+Comment ?
+
+    LUCAS. [27]
+Tout ce tripotage ne sart de rian, je savons, çen que je savons.
+
+    SGANARELLE.
+Quoi, donc, que me voulez-vous dire ? Pour qui me prenez-vous ?
+
+    VALÈRE.
+Pour ce que vous êtes, pour un grand médecin.
+
+    SGANARELLE.
+Médecin, vous-même : je ne le suis point, et ne l'ai jamais été.
+
+    VALÈRE, BAS.
+Voilà sa folie qui le tient.
+Haut.
+
+Monsieur, ne veuillez point nier les choses davantage : et n'en venons point, s'il vous plaît, à de fâcheuses extrémités.
+
+    SGANARELLE.
+À quoi, donc ?
+
+    VALÈRE. [28]
+À de certaines choses dont nous serions marris.
+
+    SGANARELLE.
+Parbleu, venez-en à tout ce qu'il vous plaira, je ne suis point médecin : et ne sais ce que vous me voulez dire.
+
+    VALÈRE, BAS.
+Je vois bien qu'il faut se servir du remède.
+Haut.
+
+Monsieur, encore, un coup, je vous prie d'avouer ce que vous êtes.
+
+    LUCAS. [29] [30]
+Et testigué ! Ne lantiponez point davantage ; et confessez à la franquette que v'estes médecin.
+
+    SGANARELLE.
+J'enrage.
+
+    VALÈRE.
+À quoi bon nier ce qu'on sait ?
+
+    LUCAS. [31]
+Pourquoi toutes ces fraimes-là ? Et à quoi est-ce que ça vous sart ?
+
+    SGANARELLE.
+Messieurs, en un mot, autant qu'en deux mille, je vous dis que je ne suis point médecin.
+
+    VALÈRE.
+Vous n'êtes point médecin ?
+
+    SGANARELLE.
+Non.
+
+    LUCAS.
+V'n'êtes pas médecin ?
+
+    SGANARELLE.
+Non, vous dis-je.
+
+    VALÈRE.
+Puisque vous le voulez, il faut s'y résoudre.
+Ils prennent un bâton et le frappent.
+
+
+    SGANARELLE.
+Ah ! ah ! ah ! Messieurs, je suis tout ce qu'il vous plaira.
+
+    VALÈRE.
+Pourquoi, Monsieur, nous obligez-vous à cette violence ?
+
+    LUCAS. [32]
+À quoi bon nous bailler la peine de vous battre ?
+
+    VALÈRE.
+Je vous assure que j'en ai tous les regrets du monde.
+
+    LUCAS.
+Par ma figué ! J'en sis fâché, franchement.
+
+    SGANARELLE.
+Que diable est-ce ci, Messieurs, de grâce, est-ce pour rire, ou si tous deux vous extravaguez, de vouloir que je sois médecin ?
+
+    VALÈRE.
+Quoi ? Vous ne vous rendez pas encore, et vous vous défendez d'être médecin ?
+
+    SGANARELLE.
+Diable emporte si je le suis !
+
+    LUCAS.
+Il n'est pas vrai qu'ous sayez médecin ?
+
+    SGANARELLE.
+Non, la peste m'étouffe.
+Là, ils recommencent de le battre.
+
+Ah, ah ! Eh bien, Messieurs, oui, puisque vous le voulez, je suis médecin, je suis médecin, apothicaire encore, si vous le trouvez bon. J'aime mieux consentir à tout que de me faire assommer.
+
+    VALÈRE.
+Ah ! Voilà qui va bien, Monsieur, je suis ravi de vous voir raisonnable.
+
+    LUCAS.
+Vous me boutez la joie au coeur, quand je vous vois parler comme ça.
+
+    VALÈRE.
+Je vous demande pardon, de toute mon âme.
+
+    LUCAS.
+Je vous demandons excuse de la libarté que j'avons prise.
+
+    SGANARELLE, À PART.
+Ouais ! Serait-ce bien moi qui me tromperais, et serais-je devenu médecin sans m'en être aperçu ?
+
+    VALÈRE.
+Monsieur, vous ne vous repentirez pas de nous montrer ce que vous êtes ; et vous verrez assurément que vous en serez satisfait.
+
+    SGANARELLE.
+Mais, Messieurs, dites-moi, ne vous trompez-vous point vous-mêmes ? Est-il bien assuré que je sois médecin ?
+
+    LUCAS.
+Oui, par ma figué !
+
+    SGANARELLE.
+Tout de bon ?
+
+    VALÈRE.
+Sans doute.
+
+    SGANARELLE.
+Diable emporte si je le savais !
+
+    VALÈRE.
+Comment ? Vous êtes le plus habile médecin du monde.
+
+    SGANARELLE.
+Ah ! ah !
+
+    LUCAS.
+Un médecin, qui a gari, je ne sais combien de maladies.
+
+    SGANARELLE.
+Tudieu !
+
+    VALÈRE.
+Une femme était tenue pour morte il y avait six heures ; elle était prête à ensevelir, lorsque avec une goutte de quelque chose, vous la fîtes revenir et marcher d'abord, par la chambre.
+
+    SGANARELLE.
+Peste !
+
+    LUCAS. [33]
+Un petit enfant de douze ans se laissit choir du haut d'un clocher, de quoi il eut la tête, les jambes et les bras cassés : et vous, avec je ne sais quel onguent, vous fîtes qu'aussitôt, il se relevit sur ses pieds, et s'en fut jouer à la fossette.
+
+    SGANARELLE.
+Diantre !
+
+    VALÈRE.
+Enfin, Monsieur, vous aurez contentement avec nous : et vous gagnerez ce que vous voudrez, en vous laissant conduire où nous prétendons vous mener.
+
+    SGANARELLE.
+Je gagnerai ce que je voudrai ?
+
+    VALÈRE.
+Oui.
+
+    SGANARELLE.
+Ah ! Je suis médecin, sans contredit. Je l'avais oublié, mais je m'en ressouviens. De quoi est-il question ? Où faut-il se transporter ?
+
+    VALÈRE.
+Nous vous conduirons. Il est question d'aller voir une fille qui a perdu la parole.
+
+    SGANARELLE.
+Ma foi ! Je ne l'ai pas trouvée.
+
+    VALÈRE.
+Il aime à rire. Allons, Monsieur.
+
+    SGANARELLE.
+Sans une robe de médecin ?
+
+    VALÈRE.
+Nous en prendrons une.
+
+    SGANARELLE, PRÉSENTANT SA BOUTEILLE À VALÈRE. [34]
+Tenez cela, vous : voilà où je mets mes juleps.
+Puis se tournant vers Lucas en crachant.
+
+Vous, marchez là-dessus, par ordonnance du médecin.
+
+    LUCAS.
+Palsanguenne ! Velà un médecin qui me plaît ; je pense qu'il réussira ; car il est bouffon.
+
+
+# ACTE II.
+
+
+## SCÈNE I. Géronte, Valère, Lucas, Jacqueline.
+
+    VALÈRE.
+Oui, Monsieur, je crois que vous serez satisfait : et nous vous avons amené le plus grand médecin du monde.
+
+    LUCAS.
+Oh morguenne, il faut tirer l'échelle après ceti-là : et tous les autres ne sont pas daignes de li déchausser ses souillez.
+
+    VALÈRE.
+C'est un homme qui a fait des cures merveilleuses.
+
+    LUCAS.
+Qui a gari des gens qui estiants morts.
+
+    VALÈRE.
+Il est un peu capricieux, comme je vous ai dit : et parfois, il a des moments où son esprit s'échappe, et ne paraît pas ce qu'il est.
+
+    LUCAS.
+Oui, il aime à bouffonner, et l'an dirait parfois, ne v'sen déplaise, qu'il a quelque petit coup de hache à la tête.
+
+    VALÈRE.
+Mais, dans le fond, il est toute Science : et bien souvent, il dit des choses tout à fait relevées.
+
+    LUCAS.
+Quand il s'y boute, il parle tout fin drait, comme s'il lisait dans un livre.
+
+    VALÈRE.
+Sa réputation s'est déjà répandue ici : et tout le monde vient à lui.
+
+    GÉRONTE.
+Je meurs d'envie de le voir, faites-le-moi vite venir.
+
+    VALÈRE.
+Je le vais quérir.
+
+    JACQUELINE.
+Par ma fi, Monsieu, ceti-ci fera justement ce qu'ant fait les autres. Je pense que ce sera queussi queumi : et la meilleure médeçaine que l'an pourrait bailler à votre fille, ce serait, selon moi, un biau et bon mari, pour qui elle eût de l'amiquié.
+
+    GÉRONTE.
+Ouais, Nourrice, ma mie, vous vous mêlez de bien des choses.
+
+    LUCAS. [35]
+Taisez-vous, notre ménagère Jaquelaine : ce n'est pas à vous à bouter là votre nez.
+
+    JACQUELINE. [36] [37]
+Je vous dis et vous douze que tous ces médecins n'y feront rian que de l'iau claire ; que votre fille a besoin d'autre chose que de ribarbe et de sené, et qu'un mari est une emplâtre qui garit tous les maux des filles.
+
+    GÉRONTE.
+Est-elle en état maintenant qu'on s'en voulût charger, avec l'infirmité qu'elle a ? Et lorsque j'ai été dans le dessein de la marier, ne s'est-elle pas opposée à mes volontés ?
+
+    JACQUELINE.
+Je le crois bian : vous li vouilliez bailler cun homme qu'alle n'aime point. Que ne preniais-vous ce Monsieu Liandre, qui li touchoit au coeur. Alle aurait été fort obéissante : et je m'en vas gager qu'il la prendrait, li, comme alle est, si vous la li vouillais donner.
+
+    GÉRONTE.
+Ce Léandre n'est pas ce qu'il lui faut : il n'a pas du bien, comme l'autre.
+
+    JACQUELINE.
+Il a un oncle qui est si riche, dont il est hériquié.
+
+    GÉRONTE.
+Tous ces biens à venir, me semblent autant de chansons. Il n'est rien tel que ce qu'on tient : et l'on court grand risque de s'abuser, lorsque l'on compte sur le bien qu'un autre vous garde. La mort n'a pas toujours les oreilles ouvertes aux voeux et aux prières de Messieurs les héritiers : et l'on a le temps d'avoir les dents longues, lorsqu'on attend, pour vivre, le trépas de quelqu'un.
+
+    JACQUELINE. [38]
+Enfin, j'ai, toujours, ouï dire, qu'en mariage, comme ailleurs, contentement passe richesse. Les bères et les mères ant cette maudite couteume de demander toujours, Qu'a-t-il et Qu'a-t-elle ? Et le compère Biarre a marié sa fille Simonette au gros Thomas, pour un quarquié de vaigne qu'il avait davantage que le jeune Robin, où alle avait bouté son amiquié : et velà que la pauvre creiature en est devenue jaune comme un coing, et n'a point profité tout depuis ce temps-là. C'est un bel exemple pour vous, Monsieu ; on n'a que son plaisir en ce monde : et j'aimerais mieux, bailler à ma fille, un bon mari qui li fût agriable, que toutes les rentes de la Biausse.
+
+    GÉRONTE. [39]
+Peste ! Madame la Nourrice, comme vous dégoisez ! Taisez-vous, je vous prie, vous prenez trop de soin, et vous échauffez votre lait.
+
+    LUCAS.
+En disant ceci, il frappe sur la poitrine à Géronte.
+
+Morgué ! Tais-toi, t'es cune impartinante. Monsieu n'a que faire de tes discours, et il sait ce qu'il a à faire. Mêle-toi de donner à téter à ton enfant, sans tant faire la raisonneuse. Monsieu est le père de sa fille ; et il est bon et sage, pour voir ce qu'il li faut.
+
+    GÉRONTE.
+Tout doux, oh, tout doux.
+
+    LUCAS.
+Monsieu, je veux un peu la mortifier : et li apprendre le respect qu'alle vous doit.
+
+    GÉRONTE.
+Oui, mais ces gestes ne sont pas nécessaires.
+
+
+## SCÈNE II. Valère, Sganarelle, Géronte, Lucas, Jacqueline.
+
+    VALÈRE.
+Monsieur préparez-vous, voici notre médecin qui entre.
+
+    GÉRONTE.
+Monsieur, je suis ravi de vous voir chez moi : et nous avons grand besoin de vous.
+
+    SGANARELLE, EN ROBE DE MÉDECIN, AVEC UN CHAPEAU DES PLUS POINTUS. [40]
+Hippocrate dit... que nous nous couvrions tous deux.
+
+    GÉRONTE.
+Hippocrate dit cela ?
+
+    SGANARELLE.
+Oui.
+
+    GÉRONTE.
+Dans quel chapitre, s'il vous plaît ?
+
+    SGANARELLE.
+Dans son chapitre des chapeaux.
+
+    GÉRONTE.
+Puisque Hippocrate le dit, il le faut faire.
+
+    SGANARELLE.
+Monsieur le Médecin, ayant appris les merveilleuses choses...
+
+    GÉRONTE.
+À qui parlez-vous, de grâce ?
+
+    SGANARELLE.
+À vous.
+
+    GÉRONTE.
+Je ne suis pas médecin.
+
+    SGANARELLE.
+Vous n'êtes pas médecin ?
+
+    GÉRONTE.
+Non, vraiment.
+
+    SGANARELLE.
+Il prend ici un bâton, et le bat comme on l'a battu.
+
+Tout de bon ?
+
+    GÉRONTE.
+Tout de bon. Ah ! Ah ! Ah !
+
+    SGANARELLE.
+Vous êtes médecin, maintenant, je n'ai jamais eu d'autres licences.
+
+    GÉRONTE.
+Quel diable d'homme m'avez-vous là amené ?
+
+    VALÈRE. [41]
+Je vous ai bien dit que c'était un médecin goguenard.
+
+    GÉRONTE. [42]
+Oui ; mais je l'envoirais promener avec ses goguenarderies.
+
+    LUCAS.
+Ne prenez pas garde à ça, Monsieu, ce n'est que pour rire.
+
+    GÉRONTE.
+Cette raillerie ne me plaît pas.
+
+    SGANARELLE.
+Monsieur, je vous demande pardon de la liberté que j'ai prise.
+
+    GÉRONTE.
+Monsieur, je suis votre serviteur.
+
+    SGANARELLE.
+Je suis fâché...
+
+    GÉRONTE.
+Cela n'est rien.
+
+    SGANARELLE.
+Des coups de bâton...
+
+    GÉRONTE.
+Il n'y a pas de mal.
+
+    SGANARELLE.
+Que j'ai eu l'honneur de vous donner.
+
+    GÉRONTE.
+Ne parlons plus de cela. Monsieur, j'ai une fille qui est tombée dans une étrange maladie.
+
+    SGANARELLE.
+Je suis ravi, Monsieur, que votre fille ait besoin de moi : et je souhaiterais de tout mon coeur que vous en eussiez besoin, aussi, vous et toute votre famille, pour vous témoigner l'envie que j'ai de vous servir.
+
+    GÉRONTE.
+Je vous suis obligé de ces sentiments.
+
+    SGANARELLE.
+Je vous assure que c'est du meilleur de mon âme, que je vous parle.
+
+    GÉRONTE.
+C'est trop d'honneur que vous me faites.
+
+    SGANARELLE.
+Comment s'appelle votre fille ?
+
+    GÉRONTE.
+Lucinde.
+
+    SGANARELLE.
+Lucinde ! Ah beau nom à médicamenter ! Lucinde !
+
+    GÉRONTE.
+Je m'en vais voir un peu ce qu'elle fait.
+
+    SGANARELLE.
+Qui est cette grande femme-là.
+
+    GÉRONTE.
+C'est la nourrice d'un petit enfant que j'ai.
+
+    SGANARELLE.
+Peste ! Le joli meuble que voilà ! Ah Nourrice ! Charmante Nourrice, ma médecine est la très humble esclave de votre nourricerie ; et je voudrais bien être le petit poupon fortuné qui tetât le lait de vos bonnes grâces.
+Il lui porte la main sur le sein.
+
+Tous mes remèdes, toute ma science, toute ma capacité est à votre service, et...
+
+    LUCAS.
+Avec votre parmission, Monsieu le Médecin, laissez là ma femme, je vous prie.
+
+    SGANARELLE.
+Quoi, est-elle votre femme ?
+
+    LUCAS.
+Oui.
+
+    SGANARELLE.
+Il fait semblant d'embrasser Lucas, et se tournant du côté de la Nourrice, il l'embrasse.
+
+Ah vraiment, je ne savais pas cela : et je m'en réjouis pour l'amour de l'un et de l'autre.
+
+    LUCAS, EN LE TIRANT.
+Tout doucement, s'il vous plaît.
+
+    SGANARELLE.
+Je vous assure que je suis ravi que vous soyez unis ensemble.
+Il fait encore semblant d'embrasser Lucas, et, passant dessous ses bras, se jette au col de sa femme.
+
+Je la félicite d'avoir un mari comme vous : et je vous félicite vous, d'avoir une femme si belle, si sage, et si bien faite, comme elle est.
+
+    LUCAS, EN LE TIRANT ENCORE.
+Eh testigué, point tant de compliment, je vous supplie.
+
+    SGANARELLE.
+Ne voulez-vous pas que je me réjouisse avec vous, d'un si bel assemblage ?
+
+    LUCAS. [43]
+Avec moi, tant qu'il vous plaira : mais avec ma femme, trêve de sarimonie.
+
+    SGANARELLE.
+Je prends part également au bonheur de tous deux ; et...
+Il continue le même jeu.
+
+si je vous embrasse pour vous en témoigner ma joie, je l'embrasse de même pour lui en témoigner aussi...
+
+    LUCAS, EN LE TIRANT DERECHEF.
+Ah vartigué, Monsieu le Médecin, que de lantiponages.
+
+
+## SCÈNE III. Sganarelle, Géronte, Lucas, Jacqueline.
+
+    GÉRONTE.
+Monsieur, voici tout à l'heure ma fille qu'on va vous amener.
+
+    SGANARELLE.
+Je l'attends, Monsieur, avec toute la médecine.
+
+    GÉRONTE.
+Où est-elle ?
+
+    SGANARELLE, SE TOUCHANT LE FRONT.
+Là dedans.
+
+    GÉRONTE.
+Fort bien.
+
+    SGANARELLE, EN VOULANT TOUCHER LES TÉTONS DE LA NOURRICE.
+Mais, comme je m'intéresse à toute votre famille, il faut que j'essaye un peu le lait de votre nourrice : et que je visite son sein.
+
+    LUCAS, LE TIRANT, EN LUI FAISANT FAIRE LA PIROUETTE.
+Nanin, nanin ; je n'avons que faire de ça.
+
+    SGANARELLE.
+C'est l'office du médecin, de voir les tétons des nourrices.
+
+    LUCAS.
+Il gnia office qui quienne, je sis votre sarviteur.
+
+    SGANARELLE.
+As-tu bien la hardiesse de t'opposer au médecin ? Hors de là !
+
+    LUCAS.
+Je me moque de çà.
+
+    SGANARELLE, EN LE REGARDANT DE TRAVERS.
+Je te donnerai la fièvre.
+
+    JACQUELINE, PRENANT LUCAS PAR LE BRAS ET LUI FAISANT AUSSI FAIRE LA PIROUETTE.
+Ôte-toi de là, aussi, est-ce que je ne sis pas assez grande pour me défendre moi-même, s'il me fait quelque chose, qui ne soit pas à faire ?
+
+    LUCAS.
+Je ne veux pas qu'il te tâte, moi.
+
+    SGANARELLE.
+Fi, le vilain, qui est jaloux de sa femme.
+
+    GÉRONTE.
+Voici ma fille.
+
+
+## SCÈNE IV. Lucinde, Valère, Géronte, Lucas, Sganarelle, Jacqueline.
+
+    SGANARELLE.
+Est-ce là, la malade ?
+
+    GÉRONTE.
+Oui, je n'ai qu'elle de fille : et j'aurais tous les regrets du monde si elle venait à mourir.
+
+    SGANARELLE.
+Qu'elle s'en garde bien, il ne faut pas qu'elle meure sans l'ordonnance du médecin.
+
+    GÉRONTE.
+Allons, un siège.
+
+    SGANARELLE.
+Voilà une malade qui n'est pas tant dégoûtante : et je tiens qu'un homme bien sain s'en accommoderait assez.
+
+    GÉRONTE.
+Vous l'avez fait rire, Monsieur.
+
+    SGANARELLE.
+Tant mieux : lorsque le médecin fait rire le malade, c'est le meilleur signe du monde. Eh bien, de quoi est-il question ? Qu'avez-vous ? Quel est le mal que vous sentez ?
+
+    LUCINDE, RÉPOND PAR SIGNES, EN PORTANT SA MAIN À SA BOUCHE, À SA TÊTE ET SOUS SON MENTON.
+Han, hi, hom, han.
+
+    SGANARELLE.
+Eh ! Que dites-vous ?
+
+    LUCINDE, CONTINUE LES MÊMES GESTES.
+Han, hi, hom, han, han, hi, hom.
+
+    SGANARELLE.
+Quoi ?
+
+    LUCINDE.
+Han, hi, hom.
+
+    SGANARELLE, LA CONTREFAISANT.
+Han, hi, hom, han, ha : je ne vous entends point. Quel diable de langage est-ce là ?
+
+    GÉRONTE.
+Monsieur, c'est là sa maladie. Elle est devenue muette, sans que jusques ici on en ait pu savoir la cause : et c'est un accident qui a fait reculer son mariage.
+
+    SGANARELLE.
+Et pourquoi ?
+
+    GÉRONTE.
+Celui qu'elle doit épouser veut attendre sa guérison pour conclure les choses.
+
+    SGANARELLE.
+Et qui est ce sot-là, qui ne veut pas que sa femme soit muette ? Plût à Dieu que la mienne eût cette maladie, je me garderais bien de la vouloir guérir.
+
+    GÉRONTE.
+Enfin, Monsieur, nous vous prions d'employer tous vos soins pour la soulager de son mal.
+
+    SGANARELLE.
+Ah ! Ne vous mettez pas en peine. Dites-moi un peu, ce mal l'oppresse-t-il beaucoup ?
+
+    GÉRONTE.
+Oui, Monsieur.
+
+    SGANARELLE.
+Tant mieux. Sent-elle de grandes douleurs ?
+
+    GÉRONTE.
+Fort grandes.
+
+    SGANARELLE.
+C'est fort bien fait. Va-t-elle où vous savez ?
+
+    GÉRONTE.
+Oui.
+
+    SGANARELLE.
+Copieusement ?
+
+    GÉRONTE.
+Je n'entends rien à cela.
+
+    SGANARELLE.
+La matière est-elle louable ?
+
+    GÉRONTE.
+Je ne me connais pas à ces choses.
+
+    SGANARELLE, SE TOURNANT VERS LA MALADE.
+Donnez-moi votre bras. Voilà un pouls qui marque que votre fille est muette.
+
+    GÉRONTE.
+Eh ! Oui, Monsieur, c'est là son mal : vous l'avez trouvé tout du premier coup.
+
+    SGANARELLE.
+Ah, ah.
+
+    JACQUELINE.
+Voyez, comme il a deviné sa maladie !
+
+    SGANARELLE.
+Nous autres grands médecins, nous connaissons d'abord, les choses. Un ignorant aurait été embarrassé, et vous eût été dire, c'est ceci, c'est cela : mais moi, je touche au but du premier coup, et je vous apprends que votre fille est muette.
+
+    GÉRONTE.
+Oui, mais je voudrais bien que vous me pussiez dire d'où cela vient.
+
+    SGANARELLE.
+Il n'est rien plus aisé. Cela vient de ce qu'elle a perdu la parole.
+
+    GÉRONTE.
+Fort bien : mais la cause, s'il vous plaît, qui fait qu'elle a perdu la parole ?
+
+    SGANARELLE.
+Tous nos meilleurs auteurs vous diront que c'est l'empêchement de l'action de sa langue.
+
+    GÉRONTE.
+Mais encore, vos sentiments sur cet empêchement de l'action de sa langue ?
+
+    SGANARELLE. [44]
+Aristote, là-dessus, dit... de fort belles choses.
+
+    GÉRONTE.
+Je le crois.
+
+    SGANARELLE.
+Ah ! C'était un grand homme !
+
+    GÉRONTE.
+Sans doute.
+
+    SGANARELLE, LEVANT SON BRAS DEPUIS LE COUDE.
+Grand homme tout à fait : un homme qui était plus grand que moi de tout cela. Pour revenir donc à notre raisonnement. Je tiens que cet empêchement de l'action de sa langue est causé par de certaines humeurs, qu'entre nous autres, savants, nous appelons humeurs peccantes, peccantes, c'est-à-dire... humeurs peccantes : d'autant que les vapeurs formées par les exhalaisons des influences qui s'élèvent dans la région des maladies, venant... pour ainsi dire... à... Entendez-vous le latin ?
+
+    GÉRONTE.
+En aucune façon.
+
+    SGANARELLE, SE TENANT AVEC ÉTONNEMENT.
+Vous n'entendez point le latin !
+
+    GÉRONTE.
+Non.
+
+    SGANARELLE, EN FAISANT DIVERSES PLAISANTES POSTURES.
+Cabricias arci thuram, catalamus, singulariter, nominativo haec Musa la Muse, bonus, bona, bonum, Deus sanctus, est ne oratio latinas ? Etiam, oui, quare, pourquoi, quia substantivo, et adjectivum concordat in generi, numerum, et casus.
+
+    GÉRONTE.
+Ah ! Que n'ai-je étudié ?
+
+    JACQUELINE.
+L'habile homme que velà !
+
+    LUCAS.
+Oui, ça est si biau, que je n'y entends goutte.
+
+    SGANARELLE.
+Or ces vapeurs dont je vous parle venant à passer, du côté gauche, où est le foie, au côté droit, où est le coeur, il se trouve que le poumon, que nous appelons en latin armyan, ayant communication avec le cerveau, que nous nommons en grec nasmus, par le moyen de la veine cave, que nous appelons en hébreu, cubile, rencontre en son chemin lesdites vapeurs, qui remplissent les ventricules de l'omoplate ; et parce que lesdites vapeurs... Comprenez bien ce raisonnement, je vous prie ; et parce que lesdites vapeurs ont une certaine malignité... Écoutez bien ceci, je vous conjure.
+
+    GÉRONTE.
+Oui.
+
+    SGANARELLE.
+Ont une certaine malignité, qui est causée... Soyez attentif, s'il vous plaît.
+
+    GÉRONTE.
+Je le suis.
+
+    SGANARELLE.
+Qui est causée par l'âcreté des humeurs, engendrées dans la concavité du diaphragme, il arrive que ces vapeurs... Ossabandus, nequeys, nequer, potarinum, quipsa milus. Voilà justement ce qui fait que votre fille est muette.
+
+    JACQUELINE.
+Ah ! Que ça est bian dit, notte homme !
+
+    LUCAS.
+Que n'ai-je la langue aussi bian pendue ?
+
+    GÉRONTE.
+On ne peut pas mieux raisonner, sans doute. Il n'y a qu'une seule chose qui m'a choqué. C'est l'endroit du foie et du coeur. Il me semble que vous les placez autrement qu'ils ne sont. Que le coeur est du côté gauche, et le foie du côté droit.
+
+    SGANARELLE.
+Oui, cela était, autrefois, ainsi ; mais nous avons changé tout cela, et nous faisons maintenant la médecine d'une méthode toute nouvelle.
+
+    GÉRONTE.
+C'est ce que je ne savais pas : et je vous demande pardon de mon ignorance.
+
+    SGANARELLE.
+Il n'y a point de mal : et vous n'êtes pas obligé d'être aussi habile que nous.
+
+    GÉRONTE.
+Assurément : Mais, Monsieur, que croyez-vous qu'il faille faire à cette maladie ?
+
+    SGANARELLE.
+Ce que je crois qu'il faille faire ?
+
+    GÉRONTE.
+Oui.
+
+    SGANARELLE.
+Mon avis est qu'on la remette sur son lit : et qu'on lui fasse prendre pour remède, quantité de pain trempé dans du vin.
+
+    GÉRONTE.
+Pourquoi cela, Monsieur ?
+
+    SGANARELLE.
+Parce qu'il y a dans le vin et le pain, mêlés ensemble, une vertu sympathique qui fait parler. Ne voyez-vous pas bien qu'on ne donne autre chose aux perroquets : et qu'ils apprennent à parler en mangeant de cela ?
+
+    GÉRONTE.
+Cela est vrai, ah ! Le grand homme ! Vite, quantité de pain et de vin !
+
+    SGANARELLE.
+Je reviendrai voir, sur le soir, en quel état elle sera.
+À la nourrice.
+
+Doucement, vous. Monsieur, voilà une nourrice à laquelle il faut que je fasse quelques petits remèdes.
+
+    JACQUELINE.
+Qui, moi ? Je me porte le mieux du monde.
+
+    SGANARELLE. [45]
+Tant pis, Nourrice, tant pis. Cette grande santé est à craindre : et il ne sera mauvais de vous faire quelque petite saignée amiable, de vous donner quelque petit clystère dulcifiant.
+
+    GÉRONTE.
+Mais, Monsieur, voilà une mode que je ne comprends point. Pourquoi s'aller faire saigner quand on n'a point de maladie ?
+
+    SGANARELLE.
+Il n'importe, la mode en est salutaire ; et comme on boit pour la soif à venir, il faut se faire aussi saigner pour la maladie à venir.
+
+    JACQUELINE, EN SE RETIRANT. [46]
+Ma fi, je me moque de ça, et je ne veux point faire de mon corps une boutique d'apothicaire.
+
+    SGANARELLE.
+Vous êtes rétive aux remèdes ; mais nous saurons vous soumettre à la raison.
+Parlant à Géronte.
+
+Je vous donne le bonjour.
+
+    GÉRONTE.
+Attendez un peu, s'il vous plaît.
+
+    SGANARELLE.
+Que voulez-vous faire ?
+
+    GÉRONTE.
+Vous donner de l'argent, Monsieur.
+
+    SGANARELLE, TENDANT SA MAIN DERRIÈRE, PAR-DESSOUS SA ROBE, TANDIS QUE GÉRONTE OUVRE SA BOURSE.
+Je n'en prendrai pas, Monsieur.
+
+    GÉRONTE.
+Monsieur.
+
+    SGANARELLE.
+Point du tout.
+
+    GÉRONTE.
+Un petit moment.
+
+    SGANARELLE.
+En aucune façon.
+
+    GÉRONTE.
+De grâce !
+
+    SGANARELLE.
+Vous vous moquez.
+
+    GÉRONTE.
+Voilà qui est fait.
+
+    SGANARELLE.
+Je n'en ferai rien.
+
+    GÉRONTE.
+Eh !
+
+    SGANARELLE.
+Ce n'est pas l'argent qui me fait agir.
+
+    GÉRONTE.
+Je le crois.
+
+    SGANARELLE, APRÈS AVOIR PRIS L’ARGENT.
+Cela est-il de poids ?
+
+    GÉRONTE.
+Oui, Monsieur.
+
+    SGANARELLE.
+Je ne suis pas un médecin mercenaire.
+
+    GÉRONTE.
+Je le sais bien.
+
+    SGANARELLE.
+L'intérêt ne me gouverne point.
+
+    GÉRONTE.
+Je n'ai pas cette pensée.
+
+
+## SCÈNE V. Sganarelle, Léandre.
+
+    SGANARELLE, REGARDANT SON ARGENT.
+Ma foi ! Cela ne va pas mal, et pourvu que...
+
+    LÉANDRE.
+Monsieur, il y a longtemps que je vous attends : et je viens implorer votre assistance.
+
+    SGANARELLE, LUI PRENANT LE POIGNET.
+Voilà un pouls qui est fort mauvais.
+
+    LÉANDRE.
+Je ne suis point malade, Monsieur, et ce n'est pas pour cela que je viens à vous.
+
+    SGANARELLE.
+Si vous n'êtes pas malade, que diable ne le dites-vous donc.
+
+    LÉANDRE.
+Non : pour vous dire la chose en deux mots, je m'appelle Léandre, qui suis amoureux de Lucinde, que vous venez de visiter : et comme, par la mauvaise humeur, de son père, toute sorte d'accès m'est fermé auprès d'elle, je me hasarde à vous prier de vouloir servir mon amour : et de me donner lieu d'exécuter un stratagème que j'ai trouvé, pour lui pouvoir dire deux mots, d'où dépendent absolument mon bonheur et ma vie.
+
+    SGANARELLE, PARAISSANT EN COLÈRE.
+Pour qui me prenez-vous ? Comment oser vous adresser à moi, pour vous servir dans votre amour, et vouloir ravaler la dignité de médecin, à des emplois de cette nature ?
+
+    LÉANDRE.
+Monsieur, ne faites point de bruit.
+
+    SGANARELLE, EN LE FAISANT RECULER.
+J'en veux faire, moi, vous êtes un impertinent.
+
+    LÉANDRE.
+Eh ! Monsieur, doucement.
+
+    SGANARELLE.
+Un malavisé.
+
+    LÉANDRE.
+De grâce.
+
+    SGANARELLE.
+Je vous apprendrai que je ne suis point homme à cela : et que c'est une insolence extrême...
+
+    LÉANDRE, TIRANT UNE BOURSE QU’IL LUI DONNE.
+Monsieur.
+
+    SGANARELLE, TENANT LA BOURSE.
+De vouloir m'employer... Je ne parle pas pour vous, car vous êtes honnête homme, et je serois ravi de vous rendre service. Mais il y a de certains impertinents au monde, qui viennent prendre les gens pour ce qu'ils ne sont pas : et je vous avoue que cela me met en colère.
+
+    LÉANDRE.
+Je vous demande pardon, Monsieur, de la liberté que...
+
+    SGANARELLE.
+Vous vous moquez : de quoi est-il question ?
+
+    LÉANDRE.
+Vous saurez, donc, Monsieur, que cette maladie que vous voulez guérir, est une feinte maladie. Les médecins ont raisonné là-dessus, comme il faut ; et ils n'ont pas manqué de dire, que cela procédait, qui du cerveau, qui des entrailles, qui, de la rate, qui du foie. Mais il est certain que l'amour en est la véritable cause : et que Lucinde n'a trouvé cette maladie, que pour se délivrer d'un mariage, dont elle était importunée. Mais, de crainte qu'on ne nous voye ensemble, retirons-nous d'ici : et je vous dirai en marchant, ce que je souhaite de vous.
+
+    SGANARELLE.
+Allons, Monsieur, vous m'avez donné pour votre amour, une tendresse qui n'est pas concevable : et j'y perdrai toute ma médecine, ou la malade crèvera, ou bien elle sera à vous.
+
+
+# ACTE III.
+
+
+## SCÈNE I. Sganarelle, Léandre.
+
+    LÉANDRE.
+Il me semble que je ne suis pas mal ainsi, pour un apothicaire : et comme le père ne m'a guère vu, ce changement d'habit, et de perruque, est assez capable, je crois, de me déguiser à ses yeux.
+
+    SGANARELLE.
+Sans doute.
+
+    LÉANDRE.
+Tout ce que je souhaiterais, serait de savoir cinq ou six grands mots de médecine, pour parer mon discours, et me donner l'air d'habile homme.
+
+    SGANARELLE.
+Allez, allez, tout cela n'est pas nécessaire. Il suffit de l'habit : et je n'en sais pas plus que vous.
+
+    LÉANDRE.
+Comment !
+
+    SGANARELLE.
+Diable emporte, si j'entends rien en médecine. Vous êtes honnête homme : et je veux bien me confier à vous, comme vous vous confiez à moi.
+
+    LÉANDRE.
+Quoi, vous n'êtes pas effectivement...
+
+    SGANARELLE.
+Non, vous dis-je, ils m'ont fait médecin malgré mes dents. Je ne m'étais jamais mêlé d'être si savant que cela : et toutes mes études n'ont été que jusqu'en sixième. Je ne sais point sur quoi cette imagination leur est venue : mais quand j'ai vu qu'à toute force ils voulaient que je fusse médecin, je me suis résolu de l'être, aux dépens de qui il appartiendra. Cependant, vous ne sauriez croire comment l'erreur s'est répandue : et de quelle façon, chacun est endiablé à me croire habile homme. On me vient chercher de tous les côtés : et si les choses vont toujours de même, je suis d'avis de m'en tenir, toute ma vie, à la médecine. Je trouve que c'est le métier le meilleur de tous : car soi qu'on fasse bien, ou soit qu'on fasse mal, on est toujours payé de même sorte. La méchante besogne ne retombe jamais sur notre dos ; et nous taillons, comme il nous plaît, sur l'étoffe où nous travaillons. Un cordonnier en faisant des souliers, ne saurait gâter un morceau de cuir qu'il n'en paye les pots cassés ; mais ici l'on peut gâter un homme, sans qu'il en coûte rien. Les bévues ne sont point pour nous : et c'est toujours la faute de celui qui meurt. Enfin le bon de cette profession, est qu'il y a parmi les morts, une honnêteté, une discrétion la plus grande du monde : et jamais on n'en voit se plaindre du médecin qui l'a tué.
+
+    LÉANDRE.
+Il est vrai que les morts sont fort honnêtes gens, sur cette matière.
+
+    SGANARELLE, VOYANT DES HOMMES QUI VIENNENT VERS LUI.
+Voilà des gens qui ont la mine de me venir consulter. Allez toujours m'attendre auprès du logis de votre maîtresse.
+
+
+## SCÈNE II. Thibaut, Perrin, Sganarelle.
+
+    THIBAUT.
+Monsieu, je venons vous charcher, mon fils Perrin et moi.
+
+    SGANARELLE.
+Qu'y a-t-il ?
+
+    THIBAUT.
+Sa pauvre mère, qui a nom Parette, est dans un lit, malade, il y a six mois.
+
+    SGANARELLE, TENDANT LA MAIN, COMME POUR RECEVOIR DE L’ARGENT.
+Que voulez-vous que j'y fasse ?
+
+    THIBAUT.
+Je voudrions, Monsieu, que vous nous baillissiez quelque petite drôlerie pour la garir.
+
+    SGANARELLE.
+Il faut voir de quoi est-ce qu'elle est malade.
+
+    THIBAUT.
+Alle est malade d'hypocrisie, Monsieu.
+
+    SGANARELLE.
+D'hypocrisie ?
+
+    THIBAUT.
+Oui, c'est-à-dire qu'alle est enflée partout, et l'an dit que c'est quantité de sériosités qu'alle a dans le corps, et que son foie, son ventre, ou sa rate, comme vous voudrais l'appeler, au glieu de faire du sang, ne fait plus que de l'iau. Alle a, de deux jours l'un, la fièvre quotiguenne, avec des lassitules et des douleurs dans les mufles des jambes. On entend dans sa gorge des fleumes qui sont tout prêts à l'étouffer : et, parfois, il lui prend des syncoles, et des conversions, que je crayons qu'alle est passée. J'avons dans notre village, un apothicaire, révérence parler, qui li a donné je ne sai combien d'histoires : et il m'en coûte plus d'eune douzaine de bons écus, en lavements, ne v's'en déplaise, en apostumes, qu'on li a fait prendre, en infections de jacinthe, et en portions cordales. Mais tout ça, comme dit l'autre, n'a été que de l'onguent miton mitaine. Il velait li bailler d'eune certaine drogue que l'on appelle du vin amétile ; mais j'ai-s-eu peur, franchement, que ça l'envoyît à patres, et l'an dit que ces gros médecins tuont je ne sais combien de monde, avec cette invention-là.
+
+    SGANARELLE, TENDANT TOUJOURS LA MAIN ET LA BRANLANT, COMME POUR SIGNE QU’IL DEMANDE DE L’ARGENT.
+Venons au fait, mon ami, venons au fait.
+
+    THIBAUT.
+Le fait est, Monsieur, que je venons vous prier de nous dire ce qu'il faut que je fassions.
+
+    SGANARELLE.
+Je ne vous entends point du tout.
+
+    PERRIN.
+Monsieu, ma mère est malade, et velà deux écus que je vous apportons, pour nous bailler queuque remède.
+
+    SGANARELLE. [47]
+Ah ! Je vous entends, vous. Voilà un garçon qui parle clairement, qui s'explique comme il faut. Vous dites que votre mère est malade d'hydropisie, qu'elle est enflée par tout le corps, qu'elle a la fièvre, avec des douleurs dans les jambes : et qu'il lui prend parfois des syncopes, et des convulsions, c'est-à-dire des évanouissements ?
+
+    PERRIN.
+Eh oui, Monsieu, c'est justement ça.
+
+    SGANARELLE.
+J'ai compris d'abord vos paroles. Vous avez un père qui ne sait ce qu'il dit. Maintenant vous me demandez un remède ?
+
+    PERRIN.
+Oui, Monsieu.
+
+    SGANARELLE.
+Un remède pour la guérir ?
+
+    PERRIN.
+C'est comme je l'entendons.
+
+    SGANARELLE.
+Tenez, voilà un morceau de formage qu'il faut que vous lui fassiez prendre.
+
+    PERRIN.
+Du fromage, Monsieu ?
+
+    SGANARELLE.
+Oui, c'est un formage préparé, où il entre de l'or, du coral, et des perles, et quantité d'autres choses précieuses.
+
+    PERRIN.
+Monsieu, je vous sommes bien obligés : et j'allons li faire prendre ça tout à l'heure.
+
+    SGANARELLE.
+Allez. Si elle meurt, ne manquez pas de la faire enterrer du mieux que vous pourrez.
+
+
+## SCÈNE III. Jacqueline, Sganarelle, Lucas.
+
+    SGANARELLE.
+Voici la belle Nourrice. Ah nourrice de mon coeur, je suis ravi de cette rencontre : et votre vue est la rhubarbe, la casse et le séné, qui purgent toute la mélancolie de mon âme.
+
+    JACQUELINE.
+Par ma figué, Monsieu le Médecin, ça est trop bian dit pour moi : et je n'entends rien à tout votre latin.
+
+    SGANARELLE.
+Devenez malade, Nourrice, je vous prie, devenez malade pour l'amour de moi. J'aurais toutes les joies du monde, de vous guérir.
+
+    JACQUELINE.
+Je sis votte sarvante, j'aime bian mieux qu'an ne me guérisse pas.
+
+    SGANARELLE.
+Que je vous plains, belle Nourrice, d'avoir un mari jaloux et fâcheux, comme celui que vous avez !
+
+    JACQUELINE.
+Que velez-vous, Monsieu, c'est pour la pénitence de mes fautes : et là où la chèvre est liée, il faut bian qu'alle y broute.
+
+    SGANARELLE.
+Comment, un rustre comme cela ! Un homme qui vous observe toujours, et ne veut pas que personne vous parle !
+
+    JACQUELINE.
+Hélas ! Vous n'avez rien vu encore : et ce n'est qu'un petit échantillon de sa mauvaise humeur.
+
+    SGANARELLE. [48]
+Est-il possible, et qu'un homme ait l'âme assez basse, pour maltraiter une personne comme vous ? Ah que j'en sais, belle Nourrice, et qui ne sont pas loin d'ici, qui se tiendroient heureux de baiser, seulement, les petits bouts de vos petons ! Pourquoi faut-il qu'une personne si bien faite, soit tombée en de telles mains : et qu'un franc animal, un brutal, un stupide, un sot... Pardonnez-moi, Nourrice, si je parle ainsi de votre mari.
+
+    JACQUELINE.
+Eh, Monsieu, je sai bien qu'il mérite tous ces noms-là.
+
+    SGANARELLE.
+Oui, sans doute, Nourrice, il les mérite : et il mériterait encore, que vous lui missiez quelque chose sur la tête, pour le punir des soupçons qu'il a.
+
+    JACQUELINE.
+Il est bien vrai que si je n'avais, devant les yeux, que son intérêt, il pourrait m'obliger à queuque étrange chose.
+
+    SGANARELLE.
+Ma foi ! Vous ne feriez pas mal de vous venger de lui avec quelqu'un. C'est un homme, je vous le dis, qui mérite bien cela : et si j'étais assez heureux, belle Nourrice, pour être choisi pour...
+En cet endroit, tous deux apercevant Lucas qui était derrière eux, et entendait leur dialogue, chacun se retire de son côté, mais le médecin d'une manière fort plaisante.
+
+
+
+## SCÈNE IV. Géronte, Lucas.
+
+    GÉRONTE.
+Holà, Lucas, n'as-tu point vu ici, notre médecin ?
+
+    LUCAS.
+Et oui, de par tous les diantres, je l'ai vu, et ma femme aussi.
+
+    GÉRONTE.
+Où est-ce, donc, qu'il peut être ?
+
+    LUCAS.
+Je ne sais : mais je voudrais qu'il fût à tous les guebles.
+
+    GÉRONTE.
+Va-t'en voir un peu, ce que fait ma fille.
+
+
+## SCÈNE V. Sganarelle, Léandre, Géronte.
+
+    GÉRONTE.
+Ah ! Monsieur, je demandais où vous étiez ?
+
+    SGANARELLE.
+Je m'étais amusé dans votre cour, à expulser le superflu de la boisson. Comment se porte la malade ?
+
+    GÉRONTE.
+Un peu plus mal, depuis votre remède.
+
+    SGANARELLE.
+Tant mieux. C'est signe qu'il opère.
+
+    GÉRONTE.
+Oui, mais en opérant, je crains qu'il ne l'étouffe.
+
+    SGANARELLE.
+Ne vous mettez pas en peine : j'ai des remèdes qui se moquent de tout, et je l'attends à l'agonie.
+
+    GÉRONTE.
+Qui est cet homme-là, que vous amenez ?
+
+    SGANARELLE, FAISANT DES SIGNES AVEC LA MAIN QUE C’EST UN APOTHICAIRE.
+C'est...
+
+    GÉRONTE.
+Quoi ?
+
+    SGANARELLE.
+Celui...
+
+    GÉRONTE.
+Eh ?
+
+    SGANARELLE.
+Qui...
+
+    GÉRONTE.
+Je vous entends.
+
+    SGANARELLE.
+Votre fille en aura besoin.
+
+
+## SCÈNE VI. Jacqueline, Lucinde, Géronte, Léandre, Sganarelle.
+
+    JACQUELINE.
+Monsieu, velà votre fille qui veut un peu marcher.
+
+    SGANARELLE. [49]
+Cela lui fera du bien. Allez-vous-en, Monsieur l'Apothicaire, tâter un peu son pouls, afin que je raisonne tantôt, avec vous, de sa maladie.
+En cet endroit, il tire Géronte à un bout du théâtre, et, lui passant un bras sur les épaules, lui rabat la main sous le menton, avec laquelle il le fait retourner vers lui, lorsqu'il veut regarder ce que sa fille et l'apothicaire font ensemble, lui tenant cependant le discours suivant pour l'amuser :
+
+Monsieur, c'est une grande et subtile question entre les doctes, de savoir si les femmes sont plus faciles à guérir que les hommes ?Je vous prie d'écouter ceci, s'il vous plaît. Les uns disent que non, les autres disent que oui : et moi je dis que oui, et non : d'autant que l'incongruité des humeurs opaques, qui se rencontrent au tempérament naturel des femmes; étant cause que la partie brutale veut toujours prendre empire sur la sensitive, on voit que l'inégalité de leurs opinions dépend du mouvement oblique, du cercle de la Lune ; et comme le soleil, qui darde ses rayons sur la concavité de la terre, trouve...
+
+    LUCINDE.
+Non, je ne suis point du tout capable de changer de sentiments.
+
+    GÉRONTE.
+Voilà ma fille qui parle ! Ô grande vertu du remède ! Ô admirable médecin ! Que je vous suis obligé, Monsieur, de cette guérison merveilleuse : et que puis-je faire pour vous après un tel service ?
+
+    SGANARELLE, SE PROMENANT SUR LE THÉÂTRE, ET S’ESSUYANT LE FRONT.
+Voilà une maladie qui m'a bien donné de la peine !
+
+    LUCINDE.
+Oui, mon père, j'ai recouvré la parole : mais je l'ai recouvrée pour vous dire, que je n'aurai jamais d'autre époux que Léandre, et que c'est inutilement que vous voulez me donner Horace.
+
+    GÉRONTE.
+Mais...
+
+    LUCINDE.
+Rien n'est capable d'ébranler la résolution que j'ai prise.
+
+    GÉRONTE.
+Quoi...
+
+    LUCINDE.
+Vous m'opposerez en vain de belles raisons.
+
+    GÉRONTE.
+Si...
+
+    LUCINDE.
+Tous vos discours ne serviront de rien.
+
+    GÉRONTE.
+Je...
+
+    LUCINDE.
+C'est une chose où je suis déterminée.
+
+    GÉRONTE.
+Mais...
+
+    LUCINDE.
+Il n'est puissance paternelle, qui me puisse obliger à me marier malgré moi.
+
+    GÉRONTE.
+J'ai...
+
+    LUCINDE.
+Vous avez beau faire tous vos efforts.
+
+    GÉRONTE.
+Il...
+
+    LUCINDE.
+Mon coeur ne saurait se soumettre à cette tyrannie.
+
+    GÉRONTE.
+Là...
+
+    LUCINDE.
+Et je me jetterai plutôt dans un convent, que d'épouser un homme que je n'aime point.
+
+    GÉRONTE.
+Mais...
+
+    LUCINDE, PARLANT D’UN TON DE VOIX À ÉTOURDIR.
+Non. En aucune façon. Point d'affaire. Vous perdez le temps. Je n'en ferai rien. Cela est résolu.
+
+    GÉRONTE.
+Ah ! Quelle impétuosité de paroles, il n'y a pas moyen d'y résister, Monsieur, je vous prie de la faire redevenir muette.
+
+    SGANARELLE.
+C'est une chose qui m'est impossible. Tout ce que je puis faire pour votre service est de vous rendre sourd, si vous voulez.
+
+    GÉRONTE.
+Je vous remercie. Penses-tu donc...
+
+    LUCINDE.
+Non. Toutes vos raisons ne gagneront rien sur mon âme.
+
+    GÉRONTE.
+Tu épouseras Horace, dès ce soir.
+
+    LUCINDE.
+J'épouserai plutôt la mort.
+
+    SGANARELLE.
+Mon Dieu ! Arrêtez-vous, laissez-moi médicamenter cette affaire. C'est une maladie qui la tient, et je sais le remède qu'il y faut apporter.
+
+    GÉRONTE.
+Serait-il possible, Monsieur, que vous pussiez, aussi, guérir cette maladie d'esprit ?
+
+    SGANARELLE.
+Oui, laissez-moi faire, j'ai des remèdes pour tout : et notre apothicaire nous servira pour cette cure.
+Il appelle l'Apothicaire et lui parle.
+
+Un mot.Vous voyez que l'ardeur qu'elle a pour ce Léandre est tout à fait contraire aux volontés du père, qu'il n'y a point de temps à perdre, que les humeurs sont fort aigries, et qu'il est nécessaire de trouver promptement un remède à ce mal, qui pourrait empirer par le retardement. Pour moi, je n'y en vois qu'un seul, qui est une prise de fuite purgative, que vous mêlerez comme il faut, avec deux drachmes de matrimonium en pilules. Peut-être fera-t-elle quelque difficulté à prendre ce remède : mais, comme vous êtes habile homme dans votre métier, c'est à vous de l'y résoudre, et de lui faire avaler la chose du mieux que vous pourrez. Allez-vous-en lui faire faire un petit tour de jardin, afin de préparer les humeurs, tandis que j'entretiendrai ici son père : mais surtout, ne perdez point de temps. Au remède vite, au remède spécifique !
+
+
+## SCÈNE VII. Géronte, Sganarelle.
+
+    GÉRONTE.
+Quelles drogues, Monsieur, sont celles que vous venez de dire ? Il me semble que je ne les ai jamais ouï nommer.
+
+    SGANARELLE.
+Ce sont drogues dont on se sert dans les nécessités urgentes.
+
+    GÉRONTE.
+Avez-vous jamais, vu une insolence pareille à la sienne ?
+
+    SGANARELLE.
+Les filles sont quelquefois un peu têtues.
+
+    GÉRONTE.
+Vous ne sauriez croire comme elle est affolée de ce Léandre.
+
+    SGANARELLE.
+La chaleur du sang, fait cela dans les jeunes esprits.
+
+    GÉRONTE.
+Pour moi, dès que j'ai eu découvert la violence de cet amour, j'ai su tenir toujours ma fille renfermée.
+
+    SGANARELLE.
+Vous avez fait sagement.
+
+    GÉRONTE.
+Et j'ai bien empêché qu'ils n'aient eu communication ensemble.
+
+    SGANARELLE.
+Fort bien.
+
+    GÉRONTE.
+Il serait arrivé quelque folie, si j'avais souffert qu'ils se fussent vus.
+
+    SGANARELLE.
+Sans doute.
+
+    GÉRONTE.
+Et je crois qu'elle aurait été fille à s'en aller avec lui.
+
+    SGANARELLE.
+C'est prudemment, raisonné.
+
+    GÉRONTE.
+On m'avertit qu'il fait tous ses efforts pour lui parler.
+
+    SGANARELLE.
+Quel drôle.
+
+    GÉRONTE.
+Mais il perdra son temps.
+
+    SGANARELLE.
+Ah, ah !
+
+    GÉRONTE.
+Et j'empêcherai bien qu'il ne la voye.
+
+    SGANARELLE.
+Il n'a pas affaire à un sot, et vous savez des rubriques qu'il ne sait pas plus fin que vous n'est pas bête.
+
+
+## SCÈNE VIII. Lucas, Géronte, Sganarelle.
+
+    LUCAS.
+Ah ! Paisanguenne, Monsieu, vaici bian du tintamarre, votre fille s'en est enfuie avec son Liandre, c'était lui qui était l'apothicaire, et velà Monsieu le Médecin, qui a fait cette belle opération-là.
+
+    GÉRONTE.
+Comment ? M'assassiner de la façon ! Allons, un, commissaire, et qu'on empêche qu'il ne sorte. Ah, traître, je vous ferai punir par la justice.
+
+    LUCAS.
+Ah par ma fi, Monsieu le Médecin, vous serez pendu, ne bougez de là seulement.
+
+
+## SCÈNE IX. Martine, Sganarelle, Lucas.
+
+    MARTINE.
+Ah ! Mon Dieu, que j'ai eu de peine à trouver ce logis : dites-moi un peu des nouvelles du médecin que je vous ai donné.
+
+    LUCAS.
+Le velà, qui va être pendu.
+
+    MARTINE.
+Quoi, mon mari pendu, hélas et qu'a-t-il fait pour cela.
+
+    LUCAS.
+Il a fait enlever la fille de notre maître.
+
+    MARTINE.
+Hélas ! Mon cher mari, est-il bien vrai qu'on te va pendre ?
+
+    SGANARELLE.
+Tu vois, ah.
+
+    MARTINE.
+Faut-il que tu te laisses mourir en présence de tant de gens ?
+
+    SGANARELLE.
+Que veux-tu que j'y fasse.
+
+    MARTINE.
+Encore, si tu avais achevé de couper notre bois, je prendrais quelque consolation.
+
+    SGANARELLE.
+Retire-toi de là, tu me fends le coeur.
+
+    MARTINE.
+Non, je veux demeurer pour t'encourager à la mort : et je ne te quitterai point, que je ne t'aie vu pendu.
+
+    SGANARELLE.
+Ah.
+
+
+## SCÈNE X. Géronte, Sganarelle, Martine, Lucas.
+
+    GÉRONTE.
+Le Commissaire viendra bientôt, et l'on s'en va vous mettre en lieu, où l'on me répondra de vous.
+
+    SGANARELLE, LE CHAPEAU À LA MAIN.
+Hélas, cela ne se peut-il point changer en quelques coups de bâton ?
+
+    GÉRONTE.
+Non, non, la justice en ordonnera... Mais que vois-je.
+
+
+## SCÈNE XI. Léandre, Lucinde, Jacqueline, Lucas, Géronte, Sganarelle, Martine.
+
+    LÉANDRE.
+Monsieur, je viens faire paraître Léandre à vos yeux, et remettre Lucinde en votre pouvoir, nous avons eu dessein de prendre la fuite nous deux, et de nous aller marier ensemble : mais cette entreprise a fait place à un procédé plus honnête : je ne prétends point vous voler votre fille, et ce n'est que de votre main que je veux la recevoir : ce que je vous dirai, Monsieur, c'est que je viens tout à l'heure de recevoir des lettres par où j'apprends que mon oncle est mort, et que je suis héritier de tous ses biens.
+
+    GÉRONTE.
+Monsieur, votre vertu m'est tout à fait considérable, et je vous donne ma fille, avec la plus grande joie du monde.
+
+    SGANARELLE.
+La médecine l'a échappé belle !
+
+    MARTINE.
+Puisque tu ne seras point pendu, rends-moi grâce d'être médecin : car c'est moi qui t'ai procuré cet honneur.
+
+    SGANARELLE.
+Oui, c'est toi qui m'as procuré je ne sais combien de coups de bâton.
+
+    LÉANDRE.
+L'effet en est trop beau, pour en garder du ressentiment.
+
+    SGANARELLE.
+Soit, je te pardonne ces coups de bâton, en faveur de la dignité où tu m'as élevé : mais prépare-toi désormais à vivre dans un grand respect avec un homme de ma conséquence, et songe que la colère d'un médecin est plus à craindre qu'on ne peut croire.
+
+-------
+
+
+[1] Fredaine : action folle, emportée. F
+
+[2] Benêt : idiot, niais, nigaud, qui n'a point vu le monde. F
+
+[3] Rudiment : Se dit aussi des premiers principes des sciences. F
+
+[4] Carogne : terme injurieux, qui se dit entre les femmes de basse condition, pour se reprocher leur mauvaise vie, leurs ordures, leur puanteur. F
+
+[5] Bec-cornu : Sor, imbécile.
+
+[6] Hôpital : Établissement où l'on reçoit gratuitement des pauvres, des infirmes, des enfants, des malades. L
+
+[7] Sac à vin : insulte pour dire d'un homme qu'il boit trop.
+
+[8] Rosser : terme populaire. Bâtonner rudement quelqu'un, le traiter en rosse ; et se dit par extension de toutes sortes de mauvais traitements. F
+
+[9] Belître : Gros gueux qui mendie par fainéantise, et qui pourrait bien gagner sa vie. F
+
+[10] Dans l'édition originale, L'entête du locuteur SGANARELLE est rappelé entr eles deux phrases.
+
+[11] Pendard : Par exagération, celui, celle qui est digne de pendaison, qui ne vaut rien du tout. F
+
+[12] Gueble : diable.
+
+[13] Horace : célèbre poète matin né à Vénusie en 64 avant JC et mourut en 7 avec JC, a été soutenu par Mécènes. Sont parvenus jusqu'à nous des odes, satires, épîtres et un Art poétique.
+
+[14] Simple : c'est un nom général qu'on donne à toutes les herbes et plantes, parce qu'elles ont chacune leur vertu particulière pour servir d'un remède simple. F
+
+[15] Quinteux : capricieux, fanstasque, qui est sujet à des quintes.  F
+
+[16] Fraise : est aussi une ornement de toile qu'on mettait autrefois autour du col en guise d'un collet, laquelle avec trois ou quatre rang, et était plissée, empesée et gauderonnée. F
+
+[17] Paroquet : perroquet.
+
+[18] Or potable : est une composition que font quelques charlatans, qui est jaune, et qu'ils font accroire que c'est de l'or dissous, pour la mieux vendre. (...) F
+
+[19] Fossette : diminutif, est une petit trou qu'on fait en terre pour y jeter et y fait tenir des balles ou billes, des noix ou des noyaux à quelque distance. F
+
+[20] Vélà : voilà.
+
+[21] Bouter : Vieux mot, qui était autrefois fort en usage, comme il paraît par ses composés et ses derivés ; mais qui ne se dit plus que par le bas peuple et les paysans : et en Picardie il signifie mettre. F
+
+[22] La reprise de la chansn ets dans le corps du texte de l'édition originale.
+
+[23] Défiguré : effacer, changer, gâter la forme, les  traits, la figure.Soit au sens propre soit au figuré. F
+
+[24] Bouter : vieux mot, qui était autrefois fort en usage (...) mais qui ne se dit plus que par le bas peuple et les paysans : et en Picardie il signifie "mettre". F
+
+[25] Surfaire : Mettre une marchandise à un prix excessif. F
+
+[26] On lit bersonne au lieu de personne dans l'édition originale.
+
+[27] Tripotage : Ménage qu'on fait en bouillant plusieurs choses ensemble. F ici sens figuré. 
+
+[28] Marri : repentant, fâché, qui a du regret d'avoir fait quelque chose. F
+
+[29] Lantiponer : terme populaire et burlesque, qui signifie, faire des choses maladroitement, tourmenter, harceler quelqu'un en le tiraillant. F
+
+[30] Franqette : Usité seulement dans cette locution familière : à la franquette, à la bonne franquette, c'est-à-dire tout uniment, franchement, loyalement. L
+
+[31] Fraime : frime, terme populaire; Semblant, feinte. L
+
+[32] Bailler : donner, mettre en main. F
+
+[33] Fossette : Diminutif, est un petit trou qu'on fait en terre pour y jeter et y faire tenir des balles, des noix ou des noyaux à quelque distance. F
+
+[34] Julep : potion douce et agréable qu'on donne aux malades, composée d'eaux distillées ou de légères décoctions (...) F
+
+[35] Bouter : Vieux mot, qui était autrefois fort en usage, comme il paraît par ses composés et ses derivés ; mais qui ne se dit plus que par le bas peuple et les paysans : et en Picardie il signifie mettre. F
+
+[36] Ribarbe : Rhubarbe. Plante à large feuilles.
+
+[37] Séné : Arbrisseau qui croît au Levant, et dont on nous apporte les feuilles, que l'on nomme aussi Séné. C'est un grand purgatif. Ac. 1762
+
+[38] Biausse : Beauce, plateau agricole au sud de Paris jusqu'à Chartres où il y a de riches exploitations.
+
+[39] Dégoiser : se dit figurément de ceux qui parlent trop et mal à propos. F
+
+[40] Hippocrate : le père de la Médecine, né en 460 avant JC dans l'île de Cos. Il est l'auteur de la théorie des quatre humeurs : sang, flegme, bile, atrabile. Les médecins modernes prêtent serment de porter soins et secours au nom d'Hippocrate.
+
+[41] Goguenard : qui est plaisant, qui a coutume de dire des mots pour rire. F
+
+[42] Goguenarderie : Plaisanterie de goguenard. L
+
+[43] Sarimonie : Cérémonie.
+
+[44] Aristote : philosphe grec, né à Stagyre en Macédoine en 384 avec JC, eut pour père Nicomaque, médecin distingué, ami d'Amyntas II, roi de Macédoine. Il fut le précepteur d'Alexandre le Grand. Il écrivit entre autres une "Poétique" et une "Rhéthorique".
+
+[45] Clystère  : c'est une remède ou injection liquide qu'on introduit dans les intestins par le fondement pour les rafraîchir, pour lâcher le ventre, pour humecter ou amollir les matières, pour irriter la faculté expultrice, dissiper les vents, aider à l'accouchement etc. F
+
+[46] Apothicaire : qui exerce une partie de la médecine qui consiste en la préparation des remèdes. F Synonyme actuel de pharmacien.
+
+[47] Hydropisie : enflure des membres du corps causée par une eau qui se coule entre cuir et chair lorsque le foie ne fait plus ses fonctions. F
+
+[48] Peton : Petit pied. L
+
+[49] Docte : savant qui a beaucoup vu et lu. F

@@ -1,0 +1,3809 @@
+
+
+**** *book_ *id_I01 *act_I *date_1740
+
+-*who_lisette
+Je suis, je suis outrée !
+
+-*who_celiante
+      Et, pourquoi donc, Lisette ?
+
+-*who_lisette
+Avec trop de rigueur votre frère nous traite.
+Il vient injustement de chasser Bourguignon.
+Si cela dure, il faut déserter la maison.
+
+-*who_celiante
+Va, Bourguignon a tort si le baron le chasse.
+
+-*who_lisette
+Non, un discours très sage a causé sa disgrâce :
+C'est pour l'appartement que Monsieur De Forlis
+Occupe dans l'hôtel quand il est à Paris.
+Monsieur, qui sûrement l'attend cette semaine,
+Vient d'y mettre un abbé qu'il ne connaît qu'à peine.
+Le pauvre Bourguignon a voulu bonnement
+Hasarder là-dessus son petit sentiment :
+"Monsieur, dit-il, je dois, en valet qui vous aime,
+Avouer que je suis dans une crainte extrême
+Que Monsieur De Forlis ne soit scandalisé
+De se voir déloger ainsi d'un air aisé.
+C'est un homme de nom, c'est un vieux militaire,
+Gouverneur d'une place, et que chacun révère.
+Vous lui devez, monsieur, un respect infini,
+Et d'autant plus qu'il est votre ancien ami,
+Et qu'il doit à Paris incessamment se rendre,
+Pour couronner vos feux et vous faire son gendre. "
+À peine a-t-il fini, que son zèle est payé
+D'un soufflet des plus forts, et de trois coups de pieds.
+Révolté de se voir maltraiter de la sorte,
+Il veut lui répliquer ; il est mis à la porte.
+Moi, je veux, par pitié, parler en sa faveur ;
+Mais, loin de s'apaiser, monsieur entre en fureur ;
+À moi-même il me dit les choses les plus dures.
+Mon oreille est peu faite à de telles injures.
+J'ai lieu d'être surprise, et j'ai peine à penser,
+Qu'un homme si poli les ait pu prononcer.
+
+-*who_celiante
+Un tel rapport m'étonne.
+
+-*who_lisette
+      Il est pourtant fidèle.
+Son service est trop dur. Sans vous, mademoiselle,
+Dont la bonté m'attache, et m'arrête aujourd'hui,
+Je ne resterais pas un moment avec lui.
+
+-*who_celiante
+Mais, mon frère est si doux.
+
+-*who_lisette
+      Oui, rien n'est plus aimable :
+Son commerce est charmant, son esprit agréable,
+Quand on n'est avec lui qu'en simple liaison.
+Mais il n'est plus le même au sein de sa maison ;
+Cet homme qui paraît si liant dans le monde,
+Chez lui quitte le masque ; on voit la nuit profonde
+Succéder sur son front au jour le plus serein,
+Et tout devient alors l'objet de son chagrin.
+Je viens de l'éprouver d'une façon piquante.
+De sa mauvaise humeur vous n'êtes pas exempte.
+
+-*who_celiante
+Lisette, il n'est point d'homme à tous égards parfait.
+
+-*who_lisette
+Rien n'est pire que lui, quand il se montre en laid.
+
+-*who_celiante
+Tu dois...
+
+-*who_lisette
+      Pour l'épargner je suis trop en colère.
+Il est fort mauvais maître, et n'est pas meilleur frère :
+Le nom d'ami suffit pour en être oublié.
+Il ne traite pas mieux l'amour que l'amitié ;
+Et la jeune Lucile en est un témoignage.
+En amant qui veut plaire, il lui rendait hommage,
+Quand ses yeux, au parloir, contemplaient sa beauté :
+Mais depuis que l'hymen entre eux est arrêté,
+Qu'il a la liberté de la voir à toute heure,
+Et que dans ce logis elle fait sa demeure,
+Près d'elle il a changé de langage et d'humeur.
+D'un mari, par avance, il fait voir la froideur ;
+Et comme il manque au père, il néglige la fille.
+
+-*who_celiante
+Ils sont tous deux censés être de la famille.
+
+-*who_lisette
+Je ne m'étonne plus qu'il les traite si mal.
+
+-*who_celiante
+S'il s'écarte avec eux du cérémonial,
+L'usage le permet, l'amitié l'en dispense ;
+Et Monsieur De Forlis aura plus d'indulgence.
+Songe qu'il est, Lisette, un ami de dix ans.
+
+-*who_lisette
+C'est un droit pour le mettre au rang de ses parents !
+Sa fille n'a pas l'air d'être fort satisfaite ;
+Et, depuis quelque temps, elle est triste et muette.
+
+-*who_celiante
+Lisette, c'est l'effet de sa timidité.
+
+-*who_lisette
+Mais elle faisait voir beaucoup plus de gaieté.
+
+-*who_celiante
+Son penchant naturel est d'aimer à se taire,
+Et la simplicité forme son caractère.
+L'air du couvent, d'ailleurs, rend souvent sotte.
+
+-*who_lisette
+      Soit.
+Mais son esprit n'est pas si simple qu'on le croit ;
+Ses yeux sont expressifs plus qu'on ne saurait dire ;
+Et pour mieux en juger, regardez-la sourire.
+Son souris, aussi fin qu'il paraît gracieux,
+Nous apprend qu'elle pense, et sent encore mieux.
+Monsieur d'enfant la traite, et la brusque sans cesse.
+À de franches guenons il fera politesse,
+Et ne daignera pas l'honorer d'un coup d'oeil.
+Un pareil procédé blesse son jeune orgueil.
+Son changement pour elle est un mauvais présage.
+Ajoutez à cela le nouveau voisinage
+De la comtesse.
+
+-*who_celiante
+      Elle est d'un âge à rassurer.
+
+-*who_lisette
+Elle est encore aimable, elle peut inspirer...
+
+-*who_celiante
+Elle est folle à l'excès.
+
+-*who_lisette
+      On plaît par la folie.
+
+-*who_celiante
+Il faut du sérieux.
+
+-*who_lisette
+      Par malheur il ennuie.
+La comtesse est fort gaie, et l'enjouement séduit.
+Avec l'air du grand monde elle a beaucoup d'esprit.
+Votre frère, entre nous, goûte fort cette veuve,
+Et ses regards pour elle en sont même une preuve.
+Depuis qu'elle est logée à deux pas de l'hôtel,
+Leur estime s'accroît.
+
+-*who_celiante
+      Et n'a rien de réel.
+Comme ils sont répandus, que c'est là leur manie,
+Le même tourbillon les emporte et les lie ;
+Mais c'est un noeud léger qui n'a point de soutien ;
+Il paraît les serrer, et ne tient presque à rien.
+L'un et l'autre se cherche à dessein de paraître,
+Se prévient sans s'aimer, se voit sans se connaître ;
+Commerce extérieur, union sans penchant,
+Que fait naître l'usage, et non le sentiment.
+L'esprit vole toujours sur la superficie,
+Et le coeur ne se voit jamais de la partie.
+Tel est, au vrai, le monde et sa fausse amitié :
+C'est par les dehors seuls qu'on s'y trouve lié ;
+Et voilà ce qui fait que je fuis, que j'abhorre
+Ce monde, presque autant que mon frère l'adore.
+
+-*who_lisette
+Oh ! Quoi que vous disiez, il a son beau côté ;
+Et je trouve qu'il a de la réalité.
+Mais la comtesse vient.
+
+-*who_celiante
+      Tant pis.
+
+-*who_lisette
+      Elle est suivie
+D'un beau jeune seigneur.
+
+-*who_celiante
+      Sa visite m'ennuie.
+
+**** *book_ *id_I02 *act_I *date_1740
+
+-*who_lacomtesse
+Nous cherchons le baron avec empressement :
+J'ai même à lui parler très sérieusement.
+Qu'on aille l'avertir, je ne saurais attendre.
+
+-*who_celiante
+J'irai, si vous voulez, le presser de descendre,
+Madame.
+
+-*who_lacomtesse
+      Non, restez, je vous prie, avec nous ;
+Lisette aura ce soin.
+
+-*who_celiante
+      Vite, dépêchez-vous.
+
+**** *book_ *id_I03 *act_I *date_1740
+
+-*who_lacomtesse
+Son air est emprunté.
+
+-*who_lacomtesse
+      Mais il est noble et sage.
+
+-*who_lacomtesse
+Je veux l'apprivoiser, elle est un peu sauvage.
+
+-*who_celiante
+Je n'éprouvai jamais un pareil embarras.
+
+-*who_lacomtesse
+Mais vous fuyez le monde, et l'on ne vous voit pas.
+Dans votre appartement, quoi ! Toujours retirée ?
+Jeune et formée en tout pour être désirée,
+Quel injuste penchant vous porte à vous cacher ?
+Il faut donc, pour vous voir, qu'on vienne vous chercher.
+Je prétends vous tirer de cette nuit profonde,
+Vous inspirer l'amour et l'esprit du grand monde.
+Se tenir constamment recluse comme vous,
+C'est exister sans vivre, et n'être point pour nous.
+
+-*who_celiante
+Vos soins m'honorent trop.
+
+-*who_lacomtesse
+      Trêve de modestie.
+
+-*who_celiante
+Vos bontés...
+
+-*who_lacomtesse
+      Laissons là mes bontés, je vous prie.
+
+-*who_celiante
+L'obscurité convient aux filles comme moi.
+
+-*who_lacomtesse
+De conduire vos pas je veux prendre l'emploi.
+
+-*who_celiante
+Pour suivre votre essor et l'esprit qui vous guide,
+Ma raison est trop faible, et mon coeur trop timide.
+Les préjugés communs me tiennent sous leurs lois ;
+Et je soutiendrais mal l'honneur de votre choix.
+
+-*who_lacomtesse
+Vous êtes demoiselle, et faite pour paraître,
+Et vous ne brûlez pas de vous faire connaître ?
+Vous flatter, vous nourrir de cet unique soin,
+Pour vous est un devoir ; je dis plus, un besoin ;
+Et celui de dormir et de se mettre à table,
+N'est pas plus fort chez nous que celui d'être aimable.
+La nature à mon sexe en a fait une loi.
+Se répandre et briller, c'est respirer pour moi.
+
+-*who_celiante
+Je mets, pour moi, qui n'ai nulle coquetterie,
+À fuir surtout l'éclat, le bonheur de la vie ;
+Et je tâche à trouver ce souverain bonheur,
+Non dans l'esprit d'autrui, mais au fond de mon coeur.
+
+-*who_lemarquis
+Au sein de la raison sa réponse est puisée.
+J'en suis édifié.
+
+-*who_lacomtesse
+      Moi, très scandalisée.
+Mais il faut donc par goût que vous aimiez l'ennui ?
+
+-*who_celiante
+Il ne m'est inspiré jamais que par autrui.
+
+-*who_lacomtesse
+Qu'elle est sotte à mes yeux !
+
+-*who_celiante
+      Qu'elle est extravagante !
+
+**** *book_ *id_I04 *act_I *date_1740
+
+-*who_lacomtesse
+Le baron viendra-t-il ? Car je m'impatiente.
+
+-*who_lisette
+Madame, il est sorti.
+
+-*who_lacomtesse
+      Bon. Je m'en doutais bien.
+
+-*who_lisette
+Mais il va dans l'instant rentrer.
+
+-*who_lacomtesse
+      Je n'en crois rien.
+Où sera-t-il ?
+
+-*who_celiante
+      Je vais moi-même m'en instruire ;
+Et quelque part qu'il soit, je vais lui faire dire
+Que madame l'attend.
+
+-*who_lacomtesse
+      Un tel soin est flatteur.
+
+**** *book_ *id_I05 *act_I *date_1740
+
+-*who_lacomtesse
+Se peut-il du baron que ce soit là la soeur ?
+Comment la trouvez-vous ? Parlez.
+
+-*who_lemarquis
+      Très estimable.
+
+-*who_lacomtesse
+Son esprit est brillant.
+
+-*who_lemarquis
+      Mais il est raisonnable ;
+Et le bon sens, madame...
+
+-*who_lacomtesse
+      Est chez vous déplacé.
+Il sied bien à vingt ans, monsieur, d'être sensé !
+
+-*who_lemarquis
+On peut l'être à tout âge.
+
+-*who_lacomtesse
+      Ah ! Quel travers extrême !
+Je ne puis m'empêcher d'en rougir pour vous-même.
+
+-*who_lemarquis
+Je fais cas du bon sens ; et, bien loin d'en rougir,
+J'ai le front de le dire et de m'en applaudir.
+
+-*who_lacomtesse
+Vous prisez le bon sens ! ô ciel ! Puis-je le croire !
+Un jeune homme de cour peut-il en faire gloire ?
+C'est un être nouveau qui n'avait point paru.
+
+**** *book_ *id_I06 *act_I *date_1740
+
+-*who_lacomtesse
+Ah ! Baron venez voir ce qu'on n'a jamais vu,
+Et qui ne peut passer même pour vraisemblable ;
+Un marquis de vingt ans, prudent et raisonnable,
+Qui l'ose déclarer et qui n'en rougit point !
+
+-*who_lebaron
+C'est un modèle.
+
+-*who_lacomtesse
+      À fuir. Mais brisons sur ce point.
+Un soin intéressant m'a chez vous amenée.
+Je viens vous retenir pour cette après-dînée.
+Monsieur Vacarmini fait un bruit étonnant.
+
+-*who_lebaron
+On le vante beaucoup.
+
+-*who_lacomtesse
+      C'est le plus surprenant,
+Le plus fort violon de toute l'Italie.
+Pour l'entendre avec vous j'ai lié la partie.
+
+-*who_lebaron
+Madame me propose un plaisir bien flatteur,
+Mais je suis chez le duc engagé par malheur.
+
+-*who_lacomtesse
+Partout on le souhaite, et chacun se l'arrache.
+Je vous l'ai dit, marquis, heureux qui se l'attache !
+
+-*who_lemarquis
+Je n'en suis pas surpris, aimable comme il est.
+
+-*who_lebaron
+L'un et l'autre épargnez votre ami, s'il vous plaît.
+
+-*who_lacomtesse
+Il faut vous dégager. J'attends la préférence.
+
+-*who_lebaron
+C'est me faire une aimable et douce violence.
+Cependant...
+
+-*who_lacomtesse
+      Cependant vous viendrez avec nous.
+
+-*who_lemarquis
+Je vous en prie.
+
+-*who_lacomtesse
+      Et moi, je l'exige de vous.
+
+-*who_lebaron
+Vous l'exigez ?
+
+-*who_lacomtesse
+      Sans doute, et vos rigueurs m'étonnent.
+
+-*who_lebaron
+Je ne résiste plus quand les dames l'ordonnent.
+
+-*who_lacomtesse
+Je puis compter sur vous ?
+
+-*who_lebaron
+      Oui.
+
+-*who_lacomtesse
+      Je dois à présent
+Vous parler sur un point tout à fait important.
+Il court de vous un bruit qui m'étonne et m'afflige.
+
+-*who_lebaron
+C'est donc un bruit fâcheux ?
+
+-*who_lacomtesse
+      Des plus fâcheux, vous dis-je ;
+Il m'alarme pour vous.
+
+-*who_lebaron
+      Vraiment vous m'effrayez ;
+Expliquez-vous.
+
+-*who_lacomtesse
+      On dit que vous vous mariez.
+
+-*who_lebaron
+De vos craintes pour moi, comment, c'est-là la cause ?
+
+-*who_lacomtesse
+Oui, dit-on vrai ?
+
+-*who_lebaron
+      Mais...
+
+-*who_lacomtesse
+      Mais...
+
+-*who_lebaron
+      Il en est quelque chose.
+
+-*who_lacomtesse
+Tant pis.
+
+-*who_lemarquis
+      L'hymen est donc bien terrible à vos yeux ?
+Tout des plus.
+
+-*who_lebaron
+      Il faut prendre un parti sérieux.
+
+-*who_lacomtesse
+Jamais.
+
+-*who_lebaron
+      Je suis l'exemple, et je cède à l'usage :
+C'est un joug établi que subit le plus sage.
+
+-*who_lacomtesse
+Je vous connais, baron, il n'est pas fait pour vous.
+Vos amis à ce noeud doivent s'opposer tous.
+L'hymen en vous va faire un changement extrême ;
+Le monde y perdra trop, vous y perdrez vous même
+La moitié tout au moins du prix que vous valez.
+Être couru, fêté partout où vous allez,
+Être aimable, amusant et ne songer qu'à plaire,
+Voilà votre état propre, et votre unique affaire.
+L'homme du monde est né pour ne tenir à rien ;
+L'agrément est sa loi, le plaisir son lien ;
+S'il s'unit, c'est toujours d'une chaîne légère,
+Qu'un moment voit former, qu'un instant voit défaire :
+Il fuit jusques au noeud d'une sotte amitié ;
+Il est toujours liant, et n'est jamais lié.
+
+-*who_lebaron
+Le ciel pour tous les rangs m'a formé sociable.
+
+-*who_lacomtesse
+Non, je lis dans vos yeux que l'hymen redoutable
+Doit aigrir la douceur dont vous êtes pétri,
+Et d'un garçon charmant faire un triste mari.
+
+-*who_lemarquis
+Monsieur ne doit pas craindre un changement semblable.
+Pour l'éprouver, Madame, il est né trop aimable.
+Je suis sûr qu'il a fait d'ailleurs un choix trop bon.
+
+-*who_lebaron
+Mon coeur a pris, surtout, conseil de la raison.
+
+-*who_lacomtesse
+Conseil de la raison ! Juste ciel ! Quel langage !
+
+-*who_lebaron
+On doit la consulter en fait de mariage.
+
+-*who_lacomtesse
+Je pardonne au marquis d'oser me la citer ;
+Mais vous et moi, monsieur, devons-nous l'écouter ?
+Nous sommes trop instruits qu'elle est une chimère.
+
+-*who_lemarquis
+La raison, chimère !
+
+-*who_lacomtesse
+      Oui.
+
+-*who_lemarquis
+      L'idée est singulière.
+
+-*who_lacomtesse
+C'est un vieux préjugé qui porte à tort son nom.
+
+-*who_lemarquis
+Pour moi, je reconnais une saine raison.
+Loin d'être un préjugé, madame, elle s'occupe
+À détruire l'erreur dont le monde est la dupe ;
+Nous aide à démêler le vrai d'avec le faux,
+Épure les vertus, corrige les défauts ;
+Est de tous les états comme de tous les âges,
+Et nous rend à la fois sociables et sages.
+
+-*who_lacomtesse
+Moi, je soutiens qu'elle est elle-même un abus,
+Qu'elle accroît les défauts et gâte les vertus ;
+Étouffe l'enjouement, forme les sots scrupules,
+Et donne la naissance aux plus grands ridicules ;
+De l'âme qui s'élève, arrête les progrès ;
+Fait les hommes communs, ou les pédants parfaits ;
+Raison qui ne l'est pas, que l'esprit vrai méprise,
+Qu'on appelle bon sens, et qui n'est que bêtise.
+
+-*who_lemarquis
+Le bon sens n'est pas tel.
+
+-*who_lebaron
+      Mais il en est plusieurs :
+Chacun a sa raison qu'il peint de ses couleurs.
+La comtesse a beau dire, elle-même a la sienne.
+
+-*who_lacomtesse
+J'aurais une raison, moi ?
+
+-*who_lebaron
+      La chose est certaine ;
+Sous un nom opposé vous respectez ses lois.
+
+-*who_lacomtesse
+Quelle est cette raison qu'à peine je conçois ?
+
+-*who_lebaron
+Celle du premier ordre, à qui la bourgeoisie
+Donne vulgairement le titre de folie ;
+Qui met sa grande étude à badiner de tout,
+Est mère de la joie et source du bon goût ;
+Au milieu du grand monde établit sa puissance,
+Et de plaire à ses yeux enseigne la science ;
+Prend un essor hardi, sans blesser les égards,
+Et sauve les dehors jusque dans ses écarts ;
+Brave les préjugés et les erreurs grossières,
+Enrichit les esprits de nouvelles lumières,
+Échauffe le génie, excite les talents,
+Sait unir la justesse aux traits les plus brillants ;
+Et se moquant des sots, dont l'univers abonde,
+Fait le vrai philosophe et le sage du monde.
+
+-*who_lacomtesse
+L'heureuse découverte ! Adorable baron !
+Vous venez pour le coup de trouver la raison ;
+Et j'y crois à présent, puisqu'elle est embellie
+De tous les agréments de l'aimable folie.
+Le marquis à ses lois ne se soumettra pas ;
+À la vieille raison il donnera le pas.
+
+-*who_lemarquis
+Une telle folie est la sagesse même.
+Je cède, comme vous, à son pouvoir suprême.
+
+-*who_lacomtesse
+Mais les plus grands efforts lui deviennent aisés.
+Il accorde d'un mot les partis opposés ;
+Que liant dans l'esprit et dans le caractère ! ...
+Adieu... j'ai ce matin des visites à faire.
+À trois heures chez moi je vous attends tous deux.
+Vous, baron, renoncez à l'hymen dangereux :
+Vous ne devez avoir que le monde pour maître.
+La raison qu'aujourd'hui vous me faites connaître,
+Vous parle par ma bouche et vous fait une loi
+De vivre indépendant et libre comme moi.
+Soyons toujours en l'air : des choses de la vie
+Prenons la pointe seule et la superficie.
+Le chagrin est au fond, craignons d'y pénétrer.
+Pour goûter le plaisir, ne faisons qu'effleurer.
+
+**** *book_ *id_I07 *act_I *date_1740
+
+-*who_lemarquis
+Nous sommes seuls, monsieur, il faut que mon coeur s'ouvre,
+Et que ma juste estime à vos yeux se découvre.
+Les plaisirs que de vous dans huit jours j'ai reçus,
+La façon d'obliger que je mets au-dessus,
+Ce dehors prévenant, cet abord qui captive,
+Tout m'inspire pour vous l'amitié la plus vive.
+Votre intérêt, monsieur, me touche vivement,
+Et puisque vous allez prendre un engagement,
+Instruisez-moi, de grâce, et que de vous j'apprenne
+La part qu'à ce lien vous voulez que je prenne.
+C'est sur vos sentiments que je veux me régler ;
+Je m'y conformerai, vous n'avez qu'à parler.
+
+-*who_lebaron
+Mon estime pour vous est égale à la vôtre ;
+Et je vous ai d'abord distingué de tout autre.
+Je vous connais, monsieur, depuis fort peu de temps,
+Et vous m'êtes plus cher qu'un ami de dix ans.
+Ma rapide amitié se forme en deux journées,
+Et les instants chez moi font plus que les années.
+Un mérite d'ailleurs frappant et distingué...
+
+-*who_lemarquis
+Ah ! Monsieur...
+
+-*who_lebaron
+      Je dis vrai, vous m'avez subjugué.
+Mon coeur, autant par goût que par reconnaissance,
+Va donc de ses secrets vous faire confidence.
+Aux yeux de la comtesse il vient de se cacher ;
+Mais il veut devant vous tout entier s'épancher.
+Celle dont j'ai fait choix est jeune, belle, sage,
+Et sa première vue obtient un prompt hommage.
+Il n'est point de regard aussi doux que le sien.
+Elle a de la naissance, elle attend un grand bien.
+Ce qui doit à mes yeux la rendre encor plus chère,
+Une longue amitié m'unit avec son père.
+
+-*who_lemarquis
+Que de biens réunis ! Je puis présentement
+Vous témoigner combien...
+
+-*who_lebaron
+      Arrêtez ; doucement.
+Vous croyez, sur les dons que je viens de décrire,
+Qu'il ne manque plus rien au bonheur où j'aspire.
+Détrompez-vous, marquis : apprenez qu'un seul trait
+En corrompt la douceur, et gâte le portrait.
+Cet objet si charmant dont mon âme est éprise,
+Sous un dehors flatteur cache un fonds de bêtise ;
+Je ne sais de quel nom je le dois appeler.
+C'est un être qui sait à peine articuler ;
+Triste sans sentiment, rêveuse sans idée,
+C'est par le seul instinct qu'elle paraît guidée.
+Dans le temps qu'elle lance un coup d'oeil enchanteur,
+Un silence stupide en dément la douceur.
+D'aucune impression son âme n'est émue,
+Et je vais épouser une belle statue.
+
+-*who_lemarquis
+Le temps et vos leçons l'apprendront à penser.
+
+-*who_lebaron
+Non, il n'est pas possible, et j'y dois renoncer.
+Auprès d'elle il n'est rien que n'ait tenté ma flamme.
+Tous mes efforts n'ont pu développer son âme.
+Trompé par le désir, mon amour espérait
+Qu'au sortir du couvent elle se formerait.
+Près d'être son époux, et brûlant de lui plaire,
+Je l'ai prise chez moi de l'aveu de son père ;
+Elle est avec ma soeur qui seconde mes soins,
+Mais, inutile peine, elle en avance moins ;
+Son esprit chaque jour s'affaiblit, loin de croître.
+Je la trouvais encor moins sotte dans le cloître :
+Elle montrait alors un peu plus d'enjouement,
+De petites lueurs perçaient même souvent ;
+Elle répondait juste à ce qu'on voulait dire,
+Et quelquefois du moins on la voyait sourire.
+À peine maintenant puis-je en tirer deux mots :
+Un non, un oui, placés encor mal à propos.
+À sa stupidité chaque moment ajoute :
+Son âme n'entend rien, quand son oreille écoute.
+Jugez présentement si mon bonheur est pur,
+Et de mes sentiments si je puis être sûr.
+
+-*who_lemarquis
+Tous les biens sont mêlés, et chacun a sa peine.
+
+-*who_lebaron
+Il n'en est point qui soit comparable à la mienne.
+Pour cet objet fatal je passe tour à tour,
+Du désir au dégoût, du mépris à l'amour.
+Je la trouve imbécile, et je la vois charmante.
+Son esprit me rebute, et sa beauté m'enchante.
+Pour nous unir son père arrive incessamment :
+Je tremble comme époux, je brûle comme amant.
+Quel bien de posséder une amante si belle !
+Mais prendre, mais avoir pour compagne éternelle
+Une beauté dont l'oeil fait l'unique entretien,
+Sans âme, sans esprit, dont le corps ne sent rien ;
+Pour un homme qui pense, et né surtout sensible,
+Quel supplice, marquis, et quel contraste horrible !
+
+-*who_lemarquis
+Je plains votre destin ; mais quoiqu'il soit fâcheux,
+Je connais un amant beaucoup plus malheureux.
+
+-*who_lebaron
+Cela ne se peut pas ; mon malheur est extrême.
+Qui peut en éprouver un plus grand ?
+
+-*who_lemarquis
+      C'est moi-même.
+
+-*who_lebaron
+Vous, marquis ?
+
+-*who_lemarquis
+      Moi, baron, et pour vous consoler,
+Mon coeur veut à son tour ici se dévoiler.
+Apprenez un secret ignoré de tout autre :
+Ma confiance est juste et doit payer la vôtre.
+Notre choix a d'abord de la conformité.
+J'adore comme vous une jeune beauté.
+Que j'ai vue au couvent, dont la grâce ingénue
+Frappe au premier abord, intéresse et remue.
+Le doux son de sa voix et ses regards vainqueurs
+Sont d'accord pour porter l'amour au fond des coeurs.
+La nature a tout fait pour cette fille heureuse,
+Et ne s'est point montrée à moitié généreuse.
+Votre amante, baron, n'a que les seuls dehors :
+La mienne réunit seule tous les trésors.
+Ses yeux et son souris, où règne la finesse,
+Annoncent de l'esprit et tiennent leur promesse ;
+Elle parle fort peu, mais pense infiniment :
+À l'égard de son coeur, c'est le pur sentiment ;
+Il s'attache, il est fait exprès pour la tendresse,
+Et pétri par les mains de la délicatesse.
+
+-*who_lebaron
+Vous en parlez trop bien pour n'être pas aimé.
+
+-*who_lemarquis
+Oui, je crois l'être autant que je suis enflammé.
+
+-*who_lebaron
+Vous êtes trop heureux, et je vous porte envie.
+
+-*who_lemarquis
+Attendez, mon histoire encor n'est pas finie,
+Vous ignorez le point critique et capital.
+Obligé d'entreprendre un voyage fatal,
+J'ai perdu malgré moi ma maîtresse de vue ;
+Je ne sais, qui plus est, ce qu'elle est devenue.
+Nous nous sommes écrit d'abord exactement,
+Et ses lettres suivaient les miennes promptement ;
+Mais elle a tout à coup cessé de me répondre.
+J'ai pressé mon retour ; je suis parti de Londres ;
+Et mes feux empressés, d'abord en arrivant,
+M'ont fait, pour la revoir, voler à son couvent.
+Vain espoir ! On m'a dit qu'elle en était sortie ;
+C'est tout ce que j'en sais. Une main ennemie,
+Que je ne connais pas, l'arrache à mon amour,
+Et ce coup à mes yeux l'enlève sans retour.
+
+-*who_lebaron
+Vous possédez son coeur ?
+
+-*who_lemarquis
+      Douceur cruelle et vaine !
+Le bonheur d'être aimé met le comble à ma peine.
+
+-*who_lebaron
+Vos recherches, vos soins pourront la découvrir.
+
+-*who_lemarquis
+Non, je n'espère plus d'y pouvoir réussir,
+Et dans tous mes projets le malheur m'accompagne.
+J'ai mis, depuis huit jours, tous mes gens en campagne ;
+Mais inutilement : ils ne m'apprennent rien.
+
+-*who_lebaron
+N'importe, votre sort est plus doux que le mien :
+Le pis est de brûler pour une belle idole.
+
+-*who_lemarquis
+Vous la posséderez, c'est un bien qui console ;
+Mais pour mes feux trompés cet espoir est détruit :
+Plus l'objet est parfait, et plus sa perte aigrit.
+Je suis le plus à plaindre, et mon cruel voyage...
+
+-*who_lebaron
+Ne nous disputons plus un si triste avantage ;
+Nous éprouvons tous deux un sort plein de rigueur.
+Marquis, goûtons l'unique et funeste douceur
+D'être les confidents mutuels de nos peines,
+Et mêlons sans témoins vos douleurs et les miennes.
+Le secret de nos coeurs est un bien précieux,
+Que nous devons cacher à tous les autres yeux.
+
+-*who_lemarquis
+Oui, ne nous quittons plus, soyons toujours ensemble.
+Le malheur nous unit, et le goût nous rassemble.
+Que nos revers communs excitant la pitié,
+Servent à resserrer les noeuds de l'amitié !
+
+-*who_lebaron
+Presque autant que le mien, votre sort m'intéresse.
+Adieu. C'est à regret qu'un moment je vous laisse.
+Je vais écrire au duc qu'il ne m'attende pas.
+
+-*who_lemarquis
+Et moi, je cours, monsieur, m'informer de ce pas
+Si mes gens n'ont point fait de recherche nouvelle.
+Je vous rejoins après, quoique j'apprenne d'elle.
+Un ami si parfait que j'acquiers dans ce jour,
+Peut seul me consoler des pertes de l'amour.
+
+**** *book_ *id_II01 *act_II *date_1740
+
+-*who_lemarquis
+Parle, as-tu rien appris, Champagne ? Instruis-moi vite.
+
+-*who_champagne
+J'ai découvert, monsieur, la maison qu'elle habite.
+
+-*who_lemarquis
+Quoi ! Tu sais sa demeure ?
+
+-*who_champagne
+      Oui, j'en suis éclairci.
+La belle n'est pas loin.
+
+-*who_lemarquis
+      Où donc est-elle ?
+
+-*who_champagne
+      Ici.
+
+-*who_lemarquis
+Ici, dans cet hôtel ?
+
+-*who_champagne
+      Oui, dans cet hôtel même :
+Et je viens de l'y voir.
+
+-*who_lemarquis
+      Ma surprise est extrême !
+
+-*who_champagne
+Vous n'êtes pas au bout de votre étonnement ;
+Sachez qu'on la marie, et même incessamment.
+
+-*who_lemarquis
+Ô ciel ! Me dis-tu vrai ?
+
+-*who_champagne
+      Très vrai ; je suis sincère ;
+Pour conclure, monsieur, on n'attend que son père.
+
+-*who_lemarquis
+Quel coup inattendu ! Mais à qui l'unit-on ?
+
+-*who_champagne
+Au maître de céans, à monsieur le baron.
+
+-*who_lemarquis
+Au baron ?
+
+-*who_champagne
+      À lui-même, et la chose est très sûre.
+
+-*who_lemarquis
+Grand dieu ! La singulière et fatale aventure !
+Mais elle n'est pas vraie, on vient de t'abuser :
+La personne qu'il aime, et qu'il doit épouser,
+Est brillante d'attraits, mais d'esprit dépourvue ;
+C'est ainsi que lui-même il l'a peinte à ma vue :
+Et celle que j'adore est accomplie en tout,
+À l'extrême beauté joint l'esprit et le goût.
+
+-*who_champagne
+J'ignore quel portrait il a fait de sa belle,
+S'il vous l'a peinte sotte, ou bien spirituelle :
+Mais je suis bien instruit, et par mes propres yeux,
+Que celle qu'il épouse, et qui loge en ces lieux,
+Est justement la même, à qui votre émissaire
+A porté vingt billets, gage d'un feu sincère.
+C'est la fille, en un mot, de Monsieur De Forlis ;
+Et j'en ai pour garant tous les gens du logis.
+
+-*who_lemarquis
+Je n'en puis plus douter, et ce nom seul m'éclaire ;
+Mon esprit à présent débrouille le mystère...
+Le baron, pour bêtise et pour stupidité,
+Aura pris son air simple et sa timidité :
+Elle est d'un naturel qui se livre avec crainte ;
+Cet effroi s'est accru par la dure contrainte
+De former un lien qui force son penchant,
+Et par l'effort de taire un si cruel tourment.
+Oui, le chagrin secret de voir tromper sa flamme,
+Et j'aime à m'en flatter, a jeté dans son âme
+Ce morne abattement, cette sombre froideur,
+Qui choquent le baron, et causent son erreur.
+Dans mon vif désespoir j'ai du moins l'avantage
+De penser qu'aujourd'hui sa tristesse est l'ouvrage
+Et le garant flatteur de son amour pour moi,
+Et qu'à regret d'un père elle subit la loi.
+
+-*who_champagne
+Cette grande douleur qui console la vôtre,
+Ne l'empêchera pas d'en épouser un autre.
+
+-*who_lemarquis
+Il est vrai, j'en frémis, c'est un bien sans effet.
+Sa funeste douceur ajoute à mon regret ;
+Et d'un feu mutuel la flatteuse assurance
+Est un nouveau malheur, quand on perd l'espérance.
+Se voir ravir un coeur plein d'un tendre retour,
+C'est de tous les revers le plus grand en amour :
+Et se voir enlever ce trésor qu'on adore,
+Par la main d'un ami qui lui-même l'ignore,
+Y met encor le comble, et le rend plus affreux !
+Je me plaignais tantôt de mon sort rigoureux,
+Quand mes soins ne pouvaient découvrir sa demeure :
+J'aurais beaucoup mieux fait de craindre et de fuir l'heure
+Où je devais apprendre un secret si cruel.
+Pour moi sa découverte est un arrêt mortel.
+Je serais trop heureux d'être dans l'ignorance,
+Et du baron du moins j'aurais la confidence.
+Je pourrais dans son sein épancher ma douleur.
+Hélas ! J'ai tout perdu jusqu'à cette douceur.
+Quel état violent ! Ô ciel ! Que dois-je faire ?
+Dois-je fuir ou rester, m'expliquer ou me taire ?
+Que dirai-je au baron ? Pourrai-je l'aborder ?
+Ah ! D'avance, mon coeur se sent intimider ;
+Je ne pourrai jamais soutenir sa présence,
+Mon trouble... Juste dieu ! Je le vois qui s'avance.
+
+**** *book_ *id_II02 *act_II *date_1740
+
+-*who_lebaron
+J'étais impatient déjà de vous revoir.
+Eh bien ! N'avez-vous rien à me faire savoir ?
+Répondez-moi, marquis. Vous évitez ma vue ;
+Je vois sur votre front la douleur répandue.
+Qu'avez-vous ?
+
+-*who_lemarquis
+      Je n'ai rien.
+
+-*who_lebaron
+      Votre ton et votre air
+M'assurent le contraire, et vous m'êtes trop cher
+Pour vous laisser garder un si cruel silence :
+Manqueriez-vous pour moi déjà de confiance ?
+Ouvrez-moi votre coeur, parlez donc.
+
+-*who_lemarquis
+      Je ne puis.
+
+-*who_lebaron
+Mais songez que tantôt vous me l'avez promis.
+Qu'avez-vous découvert ? Que venez-vous d'apprendre ?
+
+-*who_lemarquis
+Plus que je ne voulais.
+
+-*who_lebaron
+      Je ne puis vous comprendre,
+Et j'exige de vous que vous vous expliquiez :
+Me tiendrez-vous rigueur après tant d'amitiés ?
+
+-*who_lemarquis
+Je dois plutôt cacher le trouble qui m'agite.
+Dans l'état où je suis, souffrez que je vous quitte.
+
+-*who_lebaron
+Non, arrêtez, marquis, vous prétendez en vain
+Que je vous abandonne à votre noir chagrin ;
+Vous ne sortirez pas, quoi que vous puissiez faire,
+Que je n'aie arraché de vous l'aveu sincère
+Du sujet qui vous trouble, et qui vous porte à fuir.
+
+-*who_lemarquis
+Dispensez-moi, baron, de vous le découvrir ;
+Et laissez-moi...
+
+-*who_lebaron
+      Marquis, la résistance est vaine,
+Et vous m'éclaircirez.
+
+-*who_lemarquis
+      Quelle effroyable gêne !
+Où me vois-je réduit !
+
+-*who_lebaron
+      Cédez donc à l'effort
+D'un homme tout à vous.
+
+-*who_lemarquis
+      Je crains...
+
+-*who_lebaron
+      Vous avez tort.
+Les destins qui tantôt vous cachaient votre amante,
+Ont-ils pu vous porter d'atteinte plus sanglante ?
+
+-*who_lemarquis
+Oui, puisque ce secret par vous m'est arraché ;
+Je voudrais que son sort me fût encor caché :
+Mes gens de sa demeure ont fait la découverte,
+Mais pour rendre mes feux plus certains de sa perte.
+Ils m'ont trop éclairé.
+
+-*who_lebaron
+      Que vous ont-ils appris ?
+
+-*who_lemarquis
+Tout ce que je pouvais en apprendre de pis.
+J'ai su que sa famille au plus tôt la marie :
+Pour comble de chagrin, je vais la voir unie
+Au destin d'un ami, qui m'enchaîne le bras.
+
+-*who_lebaron
+Ce coup est affligeant, mais il n'égale pas,
+Quoi que puisse opposer votre douleur extrême,
+Le malheur d'ignorer le sort de ce qu'on aime :
+Je trouve votre amour, dans ce nouveau chagrin,
+Beaucoup moins malheureux qu'il n'était ce matin.
+
+-*who_lemarquis
+Rien n'égale, monsieur, ma disgrâce présente ;
+Je sens qu'elle est pour moi d'autant plus accablante,
+Que je ne puis choisir ni prendre aucun parti ;
+Toute voie est fermée à mon espoir trahi.
+
+-*who_lebaron
+J'en vois une pour vous très simple.
+
+-*who_lemarquis
+      Quelle est-elle ?
+
+-*who_lebaron
+Poursuivez votre pointe auprès de votre belle.
+
+-*who_lemarquis
+Le moyen à présent, monsieur, que je la vois
+Promise à mon ami, dont son père a fait choix !
+Mon coeur doit renoncer plutôt à ma maîtresse ;
+L'honneur et le devoir y forcent ma tendresse.
+
+-*who_lebaron
+Il n'est pas question de devoir ni d'honneur ;
+Il ne s'agit ici que de votre bonheur.
+
+-*who_lemarquis
+Monsieur, pour un moment, mettez-vous à ma place,
+Feriez-vous ce qu'ici vous voulez que je fasse ?
+L'amour vous ferait-il manquer à l'amitié ?
+
+-*who_lebaron
+Oui, marquis, sur ce point je serais sans pitié :
+Le scrupule est sottise en pareille matière,
+Et je ne ferais pas grâce à mon propre père.
+
+-*who_lemarquis
+Moi, je ne me sens pas tant d'intrépidité ;
+Et quand même j'aurais cette témérité,
+Que puis-je espérer ?
+
+-*who_lebaron
+      Tout, monsieur, puisqu'on vous aime ;
+Vous devez réussir, j'en répondrais moi-même.
+
+-*who_lemarquis
+À quoi tous mes efforts pourraient-ils aboutir ?
+
+-*who_lebaron
+Mais, à rompre un hymen qui doit mal l'assortir.
+
+-*who_lemarquis
+Il est trop avancé.
+
+-*who_lebaron
+      Qu'elle avoue à son père
+Votre amour réciproque.
+
+-*who_lemarquis
+      Elle est d'un caractère,
+D'un esprit trop craintif, pour tenter ce moyen,
+D'autant qu'elle a donné sa voix à ce lien ;
+Moi-même à l'y porter j'ai de la répugnance.
+Les remords que je sens...
+
+-*who_lebaron
+      Les remords ? Pure enfance !
+Ayez pour mes conseils plus de docilité,
+Et le succès...
+
+-*who_lemarquis
+      J'en vois l'impossibilité ;
+Car son hymen, vous dis-je, est près de se conclure ;
+Demain, ce soir peut-être, et ma disgrâce est sûre.
+
+-*who_lebaron
+Je veux que cela soit : mettons la chose au pis.
+
+-*who_lemarquis
+Que puis-je faire alors ?
+
+-*who_lebaron
+      Ce que fait tout marquis.
+Vous vous arrangerez.
+
+-*who_lemarquis
+      Et de quelle manière ?
+
+-*who_lebaron
+En voyant cette belle, en tâchant de lui plaire.
+
+-*who_lemarquis
+À mon ami ferais-je un affront si sanglant ?
+
+-*who_lebaron
+Sur cet article-là votre scrupule est grand !
+À son plus haut degré c'est porter la sagesse.
+Si vos pareils avaient cette délicatesse,
+Et marquaient tant d'égards pour messieurs les maris,
+Je plaindrais la moitié des femmes de Paris.
+Ne tenez pas ailleurs un langage semblable ;
+Il vous ferait, marquis, un tort considérable.
+
+-*who_lemarquis
+Quand vous parlez ainsi, c'est sur le ton badin ;
+Je forme et je veux suivre un plus juste dessein :
+À mes sens révoltés quelque effort qu'il en coûte,
+Le devoir me l'inspire, il faut que je l'écoute.
+De l'erreur d'un ami j'abuse trop longtemps,
+Je veux la dissiper dans ces mêmes instants,
+Et je vais sans détour, à quoi que je m'expose,
+De mon trouble secret lui déclarer la cause.
+
+-*who_lebaron
+Ah ! Gardez-vous-en bien, vous allez tout gâter.
+
+-*who_lemarquis
+Juste ciel ! Est-ce vous qui devez m'arrêter ?
+
+-*who_lebaron
+Oui, vous allez commettre une extrême imprudence :
+Mais a-t-on jamais fait pareille confidence ?
+
+-*who_lemarquis
+Eh quoi ! Voulez-vous donc que je trompe en ce jour
+Un homme que j'estime, et qui m'aime à son tour ?
+
+-*who_lebaron
+Oui, trompez-le, monsieur.
+
+-*who_lemarquis
+      C'est lui faire un outrage.
+
+-*who_lebaron
+Trompez-le encore un coup, trompez-le, c'est l'usage.
+
+-*who_lemarquis
+Vous me le conseillez ?
+
+-*who_lebaron
+      Très fort, et je fais plus ;
+Je l'exige de vous.
+
+-*who_lemarquis
+      Je demeure confus.
+
+-*who_lebaron
+Mais dans vos procédés je ne puis vous comprendre.
+Vous avez pour cet homme une amitié bien tendre ;
+Et, portant à son coeur le coup le plus mortel,
+Par un aveu choquant autant qu'il est cruel,
+Vous voulez faire entendre à sa flamme jalouse,
+Que vous êtes aimé de celle qu'il épouse !
+Si quelqu'un s'avisait de m'en faire un égal,
+Par moi son compliment serait reçu fort mal.
+
+-*who_lemarquis
+Ces mots ferment ma bouche, et changent ma pensée ;
+Mon ardeur, puisqu'enfin elle s'y voit forcée,
+Va suivre le parti que vous lui proposez :
+Mais souvenez-vous bien que vous l'y réduisez,
+Que vous êtes, monsieur, garant de ma conduite,
+Que vous deviendrez seul coupable de la suite ;
+Et que si trop avant je me laisse entraîner,
+C'est vous, et non pas moi, qu'il faudra condamner.
+
+-*who_lebaron
+Quoi qu'il puisse arriver, je prends sur moi la cause ;
+Sur ma parole, osez.
+
+-*who_lemarquis
+      Je vous crois donc, et j'ose.
+
+-*who_lebaron
+Avant que vous sortiez, je serais curieux
+Que vous vissiez l'objet... mais il s'offre à nos yeux.
+
+**** *book_ *id_II03 *act_II *date_1740
+
+-*who_lemarquis
+Quel trouble ! En la voyant, j'ai peine à me contraindre.
+
+-*who_lucile
+Je cherchais votre soeur...
+
+-*who_lebaron
+      Approchez-vous sans craindre.
+Et faites politesse à monsieur le marquis.
+Vous ne sauriez trop bien recevoir mes amis.
+Quoi ! Vous voilà déjà toute déconcertée ?
+Vous changez de couleur ? Vous êtes empruntée ?
+Mais rassurez-vous donc. Devant le monde ainsi
+Faut-il être étonnée ?
+
+-*who_lucile
+      Et monsieur l'est aussi.
+
+-*who_lebaron
+Il l'est de votre abord.
+
+-*who_lemarquis
+      Pardon, je me rappelle
+Qu'ailleurs plus d'une fois j'ai vu mademoiselle.
+
+-*who_lebaron
+Vous l'avez vue ailleurs ? Où, marquis ?
+
+-*who_lemarquis
+      Au couvent ;
+Précisément au même où j'allais voir souvent,
+Comme je vous l'ai dit, cette jeune personne.
+La rencontre me charme autant qu'elle m'étonne.
+L'estime et l'amitié les liaient de si près,
+Que l'une et l'autre alors ne se quittaient jamais ;
+C'est cet attachement qu'elles faisaient paraître,
+À qui je dois, monsieur, l'honneur de la connaître.
+
+-*who_lebaron
+Mais rien de plus heureux pour vous que ce coup-là !
+Auprès de son amie elle vous servira.
+Elle est simple à l'excès, mais on peut la conduire :
+Sait-elle votre amour ?
+
+-*who_lemarquis
+      Tout a dû l'en instruire,
+J'ai fait en sa présence éclater mon ardeur,
+Et comme ma maîtresse elle connaît mon coeur.
+
+-*who_lebaron
+Tant mieux, j'en suis charmé, la chose ira plus vite.
+
+-*who_lemarquis
+Dans l'état incertain qui maintenant m'agite,
+Souffrez que devant vous j'ose l'interroger.
+
+-*who_lebaron
+À répondre je vais moi-même l'engager.
+
+-*who_lemarquis
+Non, je veux sans contrainte apprendre de sa bouche
+Quels sont les sentiments de l'objet qui me touche.
+Parlez, belle Lucile, ils vous sont connus tous ;
+Mon amante n'a rien qui soit caché pour vous,
+Et vous devez souvent en avoir des nouvelles.
+
+-*who_lucile
+Il est vrai.
+
+-*who_lemarquis
+      J'en apprends une des plus cruelles.
+Ses parents, m'a-t-on dit, veulent la marier.
+
+-*who_lucile
+Oui.
+
+-*who_lemarquis
+      Ciel ! Quel oui funeste ! Et qu'il doit m'effrayer !
+
+-*who_lebaron
+Rassurez-vous, je veux rompre ce mariage.
+
+-*who_lemarquis
+L'approuve-t-elle ?
+
+-*who_lucile
+      Non.
+
+-*who_lebaron
+      Pour vous l'heureux présage !
+
+-*who_lemarquis
+Comment se trouve-t-elle à présent ?
+
+-*who_lucile
+      Mal et bien.
+
+-*who_lemarquis
+Pense-t-elle ? ...
+
+-*who_lucile
+      Beaucoup.
+
+-*who_lemarquis
+      Et que dit-elle ?
+
+-*who_lucile
+      Rien.
+
+-*who_lebaron
+Quel discours ! Parlez mieux, qu'on puisse vous entendre.
+
+-*who_lemarquis
+Ces mots sont d'un grand sens pour qui sait les comprendre.
+J'ai toujours eu du goût pour la précision.
+
+-*who_lebaron
+Vous devez donc goûter sa conversation.
+
+-*who_lemarquis
+Infiniment, monsieur.
+
+-*who_lebaron
+      C'est par là qu'elle brille :
+Mal et bien, rien, beaucoup ; la singulière fille !
+Tenez, s'il est possible, un discours plus suivi.
+
+-*who_lemarquis
+Du peu qu'elle m'a dit vous me voyez ravi.
+Ma maîtresse à mon sort est-elle bien sensible ?
+
+-*who_lucile
+Oui, votre état la jette en un trouble terrible ;
+Moi qui connais son coeur, je puis vous l'assurer.
+
+-*who_lebaron
+Prodige ! La voilà qui vient de proférer
+Deux phrases tout de suite.
+
+-*who_lemarquis
+      À peine suis-je maître
+De mes sens agités !
+
+-*who_lucile
+      J'en ai trop dit peut-être :
+Et je m'en vais.
+
+-*who_lebaron
+      Bon !
+
+-*who_lemarquis
+      Non, c'est moi qui vais sortir.
+Mon transport à la fin pourrait me découvrir.
+
+-*who_lebaron
+Je vais la faire agir auprès de son amie.
+
+-*who_lemarquis
+Mademoiselle, adieu, songez bien, je vous prie,
+Qu'il faut que votre coeur pour moi parle aujourd'hui,
+Et que je suis perdu si je n'ai son appui.
+
+**** *book_ *id_II04 *act_II *date_1740
+
+-*who_lebaron
+Je ne vous conçois pas ; vous êtes étonnante !
+Vous paraissez toujours interdite et tremblante :
+Vous vous présentez mal, et vous n'épargnez rien
+Pour ternir votre éclat par un mauvais maintien ;
+Et lorsqu'à répliquer votre bouche est réduite,
+C'est par monosyllabe et sans aucune suite.
+Répondez, est-ce gêne ? Est-ce obstination ?
+Est-ce peu de lumière ? Est-ce distraction ?
+Mais levez donc les yeux quand je vous interroge.
+
+-*who_lucile
+Je vous suis obligée.
+
+-*who_lebaron
+      Eh ! Sur le pied d'éloge
+Prenez-vous mon discours ?
+
+-*who_lucile
+      Mais, comme il vous plaira.
+
+-*who_lebaron
+Le moyen de tenir à ces répliques-là ?
+
+-*who_lucile
+Mais, j'ai mal dit, je crois.
+
+-*who_lebaron
+      Que ce je crois est bête !
+
+-*who_lucile
+Excusez, mais votre air m'intimide et m'arrête.
+
+-*who_lebaron
+Selon vous, j'ai donc l'air bien terrible ?
+
+-*who_lucile
+      Oui, vraiment.
+
+-*who_lebaron
+Votre bouche me fait un aveu bien charmant !
+
+-*who_lucile
+Mais il est naturel.
+
+-*who_lebaron
+      Vous êtes ingénue.
+
+-*who_lucile
+Oh ! Beaucoup.
+
+-*who_lebaron
+      Abrégeons, son entretien me tue.
+Laissons, mademoiselle, un discours superflu.
+Il faut que le marquis soit par vous secouru.
+
+-*who_lucile
+Secouru ?
+
+-*who_lebaron
+      Promptement.
+
+-*who_lucile
+      En quoi donc, je vous prie ?
+
+-*who_lebaron
+Il faut à son sujet parler à votre amie.
+S'il n'était question que d'une folle ardeur,
+Bien loin de vous presser d'agir en sa faveur,
+Je vous le défendrais ; mais son amour est sage,
+Et pour elle il s'agit d'un très grand mariage,
+Où tout en même temps se trouve réuni,
+La naissance, le bien, avec l'âge assorti.
+Son bonheur en dépend ; ainsi, mademoiselle,
+C'est remplir le devoir d'une amitié fidèle.
+Peignez donc à ses yeux le désespoir qu'il a ;
+Dites-lui qu'il se meurt.
+
+-*who_lucile
+      Elle le sait déjà.
+
+-*who_lebaron
+N'importe, exagérez son mérite, sa flamme.
+Près d'elle employez tout pour attendrir son âme ;
+Et de son prétendu dites beaucoup de mal.
+Peignez-le dissipé, fat, inconstant, brutal.
+
+-*who_lucile
+Je n'ose pas tout haut dire ce que je pense.
+
+-*who_lebaron
+Parlez, ne craignez rien.
+
+-*who_lucile
+      Oh ! Sans la bienséance...
+
+-*who_lebaron
+Pour l'homme en question, point de ménagement.
+
+-*who_lucile
+Quoi ! Vous me l'ordonnez ?
+
+-*who_lebaron
+      Oui, très expressément...
+Quand je vous parle ainsi, qui vous oblige à rire ?
+C'est une nouveauté, mais j'y trouve à redire ;
+Ce rire maintenant est des plus déplacés.
+
+-*who_lucile
+Mais il ne l'est pas tant, monsieur, que vous pensez.
+
+-*who_lebaron
+Ces imbéciles-là, gauches en toutes choses,
+Ou ne vous disent mot, ou ricanent sans causes.
+Quoi qu'il en soit, songez à ce que je vous dis ;
+Disposez votre amie en faveur du marquis.
+Ce que j'attends de vous veut de la diligence.
+Il faut...
+
+-*who_lucile
+      Monsieur, voilà votre soeur qui s'avance.
+
+-*who_lebaron
+Ma soeur ! Le personnage est fort intéressant,
+Et digne d'interrompre un discours important.
+
+**** *book_ *id_II05 *act_II *date_1740
+
+-*who_lebaron
+Représentez surtout, exprès je le répète,
+Que l'ardeur du marquis est sincère et parfaite.
+
+-*who_lucile
+C'est la troisième fois que vous me l'avez dit.
+
+-*who_lebaron
+Oh ! Pour le bien graver au fond de votre esprit,
+Morbleu ! Je ne saurais assez vous le redire.
+Je suis...
+
+-*who_lucile
+      Vous vous fâchez, monsieur, je me retire.
+
+**** *book_ *id_II06 *act_II *date_1740
+
+-*who_celiante
+Vous la traitez, mon frère, avec trop de hauteur,
+Et vous l'étourdissez. Employez la douceur.
+
+-*who_lebaron
+La douceur, dites-vous, la douceur est charmante !
+
+-*who_celiante
+Trouvez bon cependant que je vous représente,
+Qu'une telle conduite auprès d'elle vous nuit,
+Et qu'à la fin sa haine en peut être le fruit.
+Qu'elle sent...
+
+-*who_lebaron
+      Trouvez bon que je vous interrompe,
+Pour vous dire, ma soeur, que votre esprit se trompe.
+
+-*who_celiante
+Elle s'est plainte à moi, je dois vous informer...
+
+-*who_lebaron
+Tous ces petits propos doivent peu m'alarmer.
+
+-*who_celiante
+Mais vous allez bientôt voir arriver son père.
+Pour son appartement comment allez-vous faire ?
+Ma sincère amitié...
+
+-*who_lebaron
+      Se donne trop de soins,
+Et pour notre repos, aimez-nous un peu moins.
+
+-*who_celiante
+Vous n'avez jamais rien d'agréable à me dire.
+
+-*who_lebaron
+Rien d'agréable ! Il faut autrement me conduire.
+J'aurai soin désormais de vous faire ma cour.
+
+-*who_celiante
+Pour moi votre mépris augmente chaque jour.
+
+-*who_lebaron
+Et puisque vous aimez les choses agréables,
+Je ne vous tiendrai plus que des propos aimables :
+Je louerai votre esprit, votre air, votre enjouement.
+
+-*who_celiante
+Ah ! Ne me raillez pas aussi cruellement.
+
+-*who_lebaron
+Céliante, pour vous je viens de me contraindre ;
+Je vous dis des douceurs, et vous osez vous plaindre ?
+
+-*who_celiante
+Moi, je vous dois ici dire vos vérités.
+Et vais d'un bon avis payer vos duretés.
+
+-*who_lebaron
+Encore des avis !
+
+-*who_celiante
+      Vous êtes fort aimable...
+
+-*who_lebaron
+Le début est flatteur.
+
+-*who_celiante
+      Prévenant, doux, affable
+Pour les gens du dehors que ménage votre art ;
+À vos civilités le monde entier a part,
+Parce qu'il est, monsieur, l'objet de votre culte,
+Et l'oracle constant que votre esprit consulte :
+Mais mon frère chez lui sait se dédommager
+Des égards qu'il prodigue à ce monde étranger.
+Il dépouille en entrant sa douceur politique :
+Méprisant pour sa soeur, dur pour son domestique,
+Fâcheux pour sa maîtresse, et froid pour ses amis,
+Il prend une autre forme, et change de vernis.
+Tout craint dans sa maison, et tout fuit sa rencontre ;
+Le courtisan s'éclipse, et le tyran se montre.
+
+-*who_lebaron
+Ma soeur !
+
+-*who_celiante
+      Le trait est fort, mais vous me l'arrachez :
+Et j'ai peint dans le vrai, puisque vous vous fâchez.
+Je l'ai fait toutefois dans une bonne vue ;
+Profitez-en, ou bien, si l'erreur continue,
+Des vôtres redoutez le funeste abandon ;
+Craignez de vous trouver seul dans votre maison,
+Et de n'avoir d'ami que ce monde frivole,
+Dont un souffle détruit l'estime qui s'envole.
+
+**** *book_ *id_II07 *act_II *date_1740
+
+-*who_lebaron
+Je serais trop heureux de me voir délivré
+De ces espèces-là, dont je suis entouré.
+Mais sortons ; il est temps de faire ma tournée,
+Et de régler l'essor de toute la journée.
+Passons chez la marquise et chez le commandeur ;
+Voyons la présidente et puis mon rapporteur.
+
+**** *book_ *id_II08 *act_II *date_1740
+
+-*who_lisette
+Monsieur, je viens...
+
+-*who_lebaron
+      Allez...
+
+-*who_lisette
+      Mais daignez me permettre,
+Monsieur...
+
+-*who_lebaron
+      Mes gens au duc ont-ils porté ma lettre ?
+
+-*who_lisette
+Je pense que Lafleur est sorti pour cela.
+
+-*who_lebaron
+Je pense est merveilleux, et ces animaux-là
+Répondent la plupart aussi mal qu'ils agissent.
+Mes ordres, comme il faut, jamais ne s'accomplissent.
+
+-*who_lisette
+Mais Monsieur De Forlis...
+
+-*who_lebaron
+      Quoi ! Monsieur De Forlis ?
+
+-*who_lisette
+Arrive en ce moment. Je vous en avertis
+Pour que vous descendiez.
+
+-*who_lebaron
+      Je vous suis redevable
+De venir m'avertir : le terme est admirable !
+
+-*who_lisette
+Quel homme !
+      Mais, monsieur...
+
+-*who_lebaron
+      Allez, parlez plus bas ;
+Annoncez désormais et n'avertissez pas.
+
+**** *book_ *id_II09 *act_II *date_1740
+
+-*who_lebaron
+Forlis, pour arriver, a mal choisi son heure :
+J'allais sortir, il faut que pour lui je demeure ;
+C'est mon ami, je vais l'embrasser simplement,
+Et le quitter après le premier compliment :
+Mais de le prévenir il m'épargne la peine.
+
+**** *book_ *id_II10 *act_II *date_1740
+
+-*who_lebaron
+Votre santé, monsieur ?
+
+-*who_m.deforlis
+      Assez ferme. Et la tienne,
+Baron ?
+
+-*who_lebaron
+      Bonne.
+
+-*who_m.deforlis
+      Tant mieux. J'ai voulu me hâter
+Pour t'unir à ma fille, et par là cimenter
+L'ancienne amitié qui nous unit ensemble.
+
+-*who_lebaron
+Je suis vraiment charmé que ce noeud nous rassemble.
+
+-*who_m.deforlis
+Tu me fais cet aveu d'un air bien glacial !
+Je suis très éloigné du cérémonial :
+Mais je veux qu'un ami, quand il me voit, s'épanche,
+Et me marque une joie aussi vive que franche ;
+Dix ans de connaissance ont ôté de mon prix,
+Et ta vertu n'est pas d'accueillir des amis ;
+La mienne est par bonheur, d'avoir de l'indulgence.
+
+-*who_lebaron
+Pardon, mais je me vois dans une circonstance
+Qui malgré moi, monsieur, me force à vous quitter.
+Je vous laisse le maître, et je cours m'acquitter
+D'un devoir...
+
+-*who_m.deforlis
+      Quand j'arrive ?
+
+-*who_lebaron
+      Il est indispensable.
+
+-*who_m.deforlis
+Celui d'être avec moi me paraît préférable.
+Et j'ai besoin de toi pour tout le jour entier ;
+Si c'est une corvée, il la faut essuyer.
+
+-*who_lebaron
+J'ai trente affaires.
+
+-*who_m.deforlis
+      Va, trente de ces affaires
+Ne doivent pas tenir contre deux nécessaires.
+
+-*who_lebaron
+Je ne puis différer, et j'ai promis, d'honneur.
+
+-*who_m.deforlis
+De ces promesses-là je connais la valeur.
+
+-*who_lebaron
+Ce sont de vrais devoirs.
+
+-*who_m.deforlis
+      Tiens, je vais en six phrases
+Te peindre ces devoirs qu'ici tu nous emphases.
+Aller d'abord montrer aux yeux de tout Paris
+La dorure et l'éclat d'un nouveau vis-à-vis ;
+Éclabousser vingt fois la pauvre infanterie,
+Qui se sauve en jurant, de la cavalerie,
+De toilette en toilette aller faire sa cour,
+Apprendre et débiter la nouvelle du jour ;
+Puis au palais-royal joindre un cercle agréable,
+Et lier pour le soir une partie aimable ;
+Ne boire à ton dîner que de l'eau seulement,
+Pour sabler du champagne à souper largement ;
+Faire l'après-midi mille dépenses folles,
+En deux médiateurs perdre huit cents pistoles ;
+Sur une tabatière, ou bien sur des habits,
+Dire ton sentiment et ton sublime avis ;
+Conduire à l'opéra la duchesse indolente,
+Médire ou bien broder avec la présidente ;
+Avec le commandeur parler chasse et chevaux ;
+Chez le petit marquis découper des oiseaux :
+Voilà le plan exact de ta journée entière,
+Tes devoirs importants, et ta plus grave affaire.
+
+-*who_lebaron
+Monsieur le gouverneur, vous nous blâmez à tort :
+On ne vit point ici comme dans votre fort.
+Nous devons y plier sous le joug de l'usage ;
+Ce qui paraît frivole, est dans le fond très sage.
+Tous ces aimables riens, qu'on nomme amusement,
+Forment cet heureux cercle et cet enchaînement,
+De qui le mouvement journalier et rapide
+Nous fait, par l'agréable, arriver au solide.
+C'est par eux que l'on fait les grandes liaisons,
+Qu'on acquiert les amis et les protections ;
+Au sein des jeux riants on perce les mystères :
+Le plaisir est le noeud des plus grandes affaires.
+Le succès en dépend, tout y va, tout y tient,
+Et c'est en badinant que la faveur s'obtient.
+
+-*who_m.deforlis
+Il donne en habile homme un bon tour à sa cause,
+Et je sens dans le fond qu'il en est quelque chose.
+
+-*who_lebaron
+Si j'ai quelque crédit moi-même près des grands,
+Je le dois à ces riens.
+
+-*who_m.deforlis
+      Je te prends sur le temps.
+Pour rendre à mes regards ta conduite louable,
+Emploie en ma faveur ce crédit favorable.
+L'occasion est belle, et voici le moment :
+Fais agir tes amis pour le gouvernement
+Qu'à la place du mien à la cour je demande.
+Tu sais, pour l'obtenir, que mon ardeur est grande ;
+Qu'il doit, outre l'honneur, grossir mes revenus,
+Et qu'il produit par an dix mille francs de plus.
+Par plusieurs concurrents cette place est briguée ;
+Du royaume, baron, c'est la plus distinguée.
+Un homme bien instruit m'a marqué de partir ;
+De mettre tout en oeuvre, il vient de m'avertir.
+Un motif si pressant, joint à ton mariage,
+M'a fait prendre la poste et hâter mon voyage.
+As-tu sollicité ? Depuis près de deux mois
+Je t'en ai par écrit prié plus de vingt fois :
+Tu m'as promis de voir le ministre qui t'aime ;
+L'as-tu fait ? Puis-je bien m'en fier à toi-même ?
+
+-*who_lebaron
+Oui : mais permettez...
+
+-*who_m.deforlis
+      Non, je te connais trop bien.
+Ne crois pas m'échapper.
+
+-*who_lebaron
+      Un seul instant.
+
+-*who_m.deforlis
+      Non, rien.
+Je ne te ferais pas grâce d'une seconde.
+Si tu prends une fois ton essor dans le monde,
+Crac, te voilà parti jusqu'à demain matin.
+
+-*who_lebaron
+Puisque vous le voulez, et qu'il le faut enfin,
+Je dînerai chez moi.
+
+-*who_m.deforlis
+      Effort rare et sublime !
+Sacrifice étonnant ! Grande preuve d'estime !
+
+-*who_lebaron
+Nous mangerons ensemble un poulet sans façon,
+Et je vais vous donner un dîner d'ami.
+
+-*who_m.deforlis
+      Non.
+Je crains ces dîners-là. J'aime la bonne chère,
+Et traite-moi plutôt en personne étrangère :
+Tu n'auras qu'à donner tes ordres pour cela,
+Et l'appétit chez moi se fait sentir déjà.
+Le chemin que j'ai fait est très considérable,
+Et me fait aspirer au moment d'être à table.
+En attendant, passons dans mon appartement,
+Nous parlerons ensemble.
+
+-*who_lebaron
+      Attendez un moment.
+
+-*who_m.deforlis
+Comment donc ! Que veut dire un discours de la sorte ?
+
+-*who_lebaron
+Tout n'est pas disposé comme il convient.
+
+-*who_m.deforlis
+      Qu'importe ?
+Je puis m'y reposer.
+
+-*who_lebaron
+      Non, monsieur.
+
+-*who_m.deforlis
+      Et pourquoi ?
+
+-*who_lebaron
+C'est qu'il est occupé.
+
+-*who_m.deforlis
+      Tu te moques de moi.
+Et par qui donc l'est-il ?
+
+-*who_lebaron
+      Par un fort galant homme.
+
+-*who_m.deforlis
+La chose est toute neuve ; et cet homme se nomme ?
+
+-*who_lebaron
+Son nom m'est échappé.
+
+-*who_m.deforlis
+      Rien n'est plus ingénu.
+Mon logement est pris, et par un inconnu !
+
+-*who_lebaron
+C'est un abbé, monsieur.
+
+-*who_m.deforlis
+      Un abbé !
+
+-*who_lebaron
+      Mais, de grâce...
+
+-*who_m.deforlis
+Qu'on eût mis dans ma chambre un militaire, passe :
+Mais un petit collet me déloger ainsi !
+
+-*who_lebaron
+Je n'ai pas cru, d'honneur, vous voir si tôt ici ;
+Il m'est recommandé d'ailleurs par des personnes
+Qui peuvent tout sur moi.
+
+-*who_m.deforlis
+      Tes excuses sont bonnes.
+
+-*who_lebaron
+Mais si vous le voulez, monsieur, absolument,
+Vous pouvez aujourd'hui prendre mon logement ;
+Ou bien, comme l'abbé part dans l'autre semaine,
+Et que de nos façons il faut bannir la gêne,
+Vous logerez plus haut.
+
+-*who_m.deforlis
+      Oui, je t'entends, baron ;
+Et pour le coup je vais coucher dans le donjon.
+
+-*who_lebaron
+Vous êtes mon ami.
+
+-*who_m.deforlis
+      La chose est plus choquante :
+Mais tout mon dépit cède à ma faim qui s'augmente.
+Viens dans ce moment-ci, si tu veux m'obliger,
+Loge-moi, vite...
+
+-*who_lebaron
+      Où donc ?
+
+-*who_m.deforlis
+      Dans ta salle à manger.
+
+**** *book_ *id_III01 *act_III *date_1740
+
+-*who_lebaron
+Le Forlis par bonheur fait la méridienne :
+Je respire... entre nous, son amitié me gêne...
+Sa fille doit parler à l'objet de vos feux.
+
+-*who_lemarquis
+Je vous suis obligé de vos soins généreux.
+
+-*who_lebaron
+L'affaire est en bon train.
+
+-*who_lemarquis
+      Il est vrai, je commence
+À me flatter, monsieur, d'une douce espérance.
+
+-*who_lebaron
+Je suis charmé de voir que vous pensiez ainsi.
+
+-*who_lemarquis
+La joie enfin succède au plus affreux souci.
+Je ne puis exprimer le plaisir que je goûte :
+On n'imagine point jusqu'où va...
+
+-*who_lebaron
+      Je m'en doute.
+
+-*who_lemarquis
+Non, non, vous ignorez combien il est flatteur...
+Je ne sais quoi, pourtant, m'arrête au fond du coeur.
+
+-*who_lebaron
+Comment ! Votre âme est-elle encore intimidée ?
+
+-*who_lemarquis
+Oui, tromper un ami révolte mon idée,
+Et je sens que je blesse au fond la probité.
+
+-*who_lebaron
+Marquis, encore un coup, cessez d'être agité :
+Elle n'est point blessée en des choses semblables.
+
+-*who_lemarquis
+En est-il où ses droits ne soient point respectables ?
+Et ne doit-elle point régler en tout nos pas ?
+
+-*who_lebaron
+Non, marquis, sur l'amour elle ne s'étend pas.
+
+-*who_lemarquis
+Et par quelle raison ?
+
+-*who_lebaron
+      Ce n'est pas là sa place.
+Elle y serait de trop.
+
+-*who_lemarquis
+      Un tel discours me passe.
+
+-*who_lebaron
+J'ai plus d'expérience, et dois vous éclairer.
+La droiture est un frein que l'on doit révérer ;
+Du monde ce sont là les maximes constantes
+Dans tout ce que l'on nomme affaires importantes,
+Devoirs essentiels de la société,
+Dont ils sont les liens et comme le traité.
+On la doit consulter, surtout dans l'exercice
+Des charges de l'état d'où dépend la justice ;
+Dans ce qui, parmi nous, est de convention,
+Et forme par degrés la réputation :
+Mais elle est sans pouvoir pour tout ce qu'on appelle
+Du nom de badinage, ou bien de bagatelle ;
+Pour tout ce qu'on regarde universellement
+Sur le pied de plaisir ou de délassement.
+Dans un tendre commerce elle n'est plus admise,
+Et même s'en piquer devient une sottise.
+L'amour n'est plus qu'un jeu, qu'un simple amusement,
+Où l'on est convenu de tromper finement ;
+D'être dupe ou fripon, le tout sans conséquence,
+Mais d'être le dernier pourtant avec décence.
+
+-*who_lemarquis
+Le plus beau des liens, d'où dépend notre paix,
+Peut-il être avili jusques à cet excès ?
+Le monde est étonnant dans sa bizarrerie.
+Le joueur qui friponne est couvert d'infamie,
+Et le perfide amant qui trompe et qui trahit,
+Devient homme à la mode, et se met en crédit.
+Quel travers dans les moeurs, et quel affreux délire !
+Aussi grossièrement peut-on se contredire ?
+
+-*who_lebaron
+C'est l'idée établie, il faut s'y conformer.
+
+-*who_lemarquis
+Mon âme à penser faux ne peut s'accoutumer.
+Le jeu, dont j'ai parlé, commerce de caprice,
+Fondé sur l'intérêt, la fraude et l'avarice,
+S'est rendu par l'usage un lien révéré :
+Les devoirs en sont saints, le culte en est sacré.
+À ses engagements le fier honneur préside ;
+Et ses dettes surtout sont un devoir rigide :
+Au jour précis, à l'heure, il faut, pour les payer,
+Vendre tout, et frustrer tout autre créancier.
+Et l'amour tendre et pur devient un noeud frivole,
+Où l'on est dispensé de tenir sa parole.
+Le joug de l'amitié n'est pas plus respecté ;
+On veut qu'ils soient tous deux exempts de probité :
+Leurs devoirs sont remplis les derniers ; et leurs dettes,
+Ou ne s'acquittent pas, ou sont mal satisfaites.
+Mais rendez-moi raison d'un tel égarement,
+Vous, profond dans le monde, et son digne ornement.
+
+-*who_lebaron
+Je conviens avec vous, marquis, et je confesse
+Que l'esprit qui l'agite est souvent une ivresse.
+Du sein de la lumière il tombe dans la nuit,
+De ses écarts souvent l'injustice est le fruit ;
+Mais il est notre maître, et nous devons le suivre :
+Nous sommes, par état, tous deux forcés d'y vivre :
+Pour y plaire, y briller, pour avoir ses faveurs,
+Il faut prendre, marquis, jusques à ses erreurs ;
+Dès qu'ils sont établis, préférer ses usages,
+Quelque choquants qu'ils soient, aux raisons les plus sages.
+Quoi qu'il en coûte, on doit se mettre à l'unisson,
+Et tout sacrifier pour avoir le bon ton.
+Sitôt qu'il le condamne, il faut fuir tout scrupule,
+Et même les vertus qui rendent ridicule.
+
+-*who_lemarquis
+N'en déplaise au bon ton, dont je suis rebattu,
+Nous ne devons jamais rougir de la vertu.
+
+-*who_lebaron
+J'aime à voir qu'en votre âme elle se développe,
+Mais il faut vous résoudre à vivre en misanthrope.
+Vous devez renoncer à tout amusement,
+Aller dans un désert vous enterrer vivant ;
+Ou, de cette vertu tempérer les lumières,
+L'habiller à notre air, la faire à nos manières.
+J'avouerai franchement que vous me faites peur.
+Orné de tous les dons de l'esprit et du coeur,
+Vous allez, je le vois, si je ne vous seconde,
+Vous donner un travers en entrant dans le monde ;
+Vous perdre exactement par excès de raison,
+Et d'un Caton précoce acquérir le surnom,
+Choquer les moeurs du temps, et par cette conduite,
+Vous rendre insupportable à force de mérite.
+
+-*who_lemarquis
+Vos discours dans mon coeur font passer votre effroi.
+Ce monde que je blâme a des attraits pour moi.
+Je ne puis vous cacher que, né pour y paraître,
+Je l'aime et brûle en beau de m'y faire connaître.
+Son commerce est un bien dont je cherche à jouir,
+Et m'en faire estimer est mon premier désir.
+J'ai, pour vivre content, besoin de son suffrage.
+Dans ce juste dessein si je faisais naufrage,
+Je ne pourrais, baron, jamais m'en consoler.
+La crainte que j'en ai me fait déjà trembler.
+Pour voguer sûrement sur cette mer trompeuse,
+Je demande et j'attends votre aide généreuse.
+Daignez donc me guider de la main et de l'oeil ;
+Et pour m'en garantir, montrez-moi chaque écueil.
+
+-*who_lebaron
+Vous me charmez ; je suis tout prêt à vous instruire,
+Et vous n'avez, marquis, qu'à vous laisser conduire.
+Je veux choisir pour vous le jour avantageux,
+Saisir pour vous placer, le point de vue heureux ;
+À vos dons naturels joindre les convenances,
+Y répandre des clairs, y mettre des nuances ;
+Et faire enfin de vous, vous donnant le bon tour,
+L'homme vraiment aimable, et le héros du jour.
+Je ne m'en tiens pas là. Non, marquis, je vous aime ;
+Je veux vous rendre heureux en dépit de vous-même.
+Mon amitié, dans peu, compte en venir à bout :
+Votre amante en répond, elle a pour vous du goût,
+C'est le point principal, et qui rend tout facile :
+Mais point de sot scrupule, et montrez-vous docile.
+Me le promettez-vous ?
+
+-*who_lemarquis
+      J'y ferai mon effort.
+
+-*who_lebaron
+Pour la mieux disposer, écrivez-lui d'abord.
+
+-*who_lemarquis
+J'avais pris ce parti. J'ai même ici ma lettre :
+Mais je ne sais comment la lui faire remettre.
+
+-*who_lebaron
+Attendez... il s'agit d'un établissement,
+Et cet hymen pour vous est un coup important.
+
+-*who_lemarquis
+Oui, par mille raisons c'est un bien où j'aspire ;
+Et c'est pour l'en presser que je lui viens d'écrire.
+
+-*who_lebaron
+La chose étant ainsi, j'imagine un moyen...
+Oui, Lucile pour vous doit lui parler.
+
+-*who_lemarquis
+Eh bien ?
+
+-*who_lebaron
+      Sans blesser la sagesse, elle peut la lui rendre,
+Et même l'amitié l'engage à l'entreprendre.
+D'autres la commettraient.
+
+-*who_lemarquis
+      Oui, c'est ce que je crains.
+On ne peut la remettre en de meilleures mains.
+
+-*who_lebaron
+Donnez-moi votre lettre, elle sera rendue,
+Et je vais en charger ma jeune prétendue.
+
+-*who_lemarquis
+Moi-même je voudrais, lui donnant mon billet,
+Le lui recommander.
+
+-*who_lebaron
+      Vous serez satisfait.
+Attendez un moment.
+
+**** *book_ *id_III02 *act_III *date_1740
+
+-*who_lemarquis
+      Il sert trop bien ma flamme !
+Mais chassons, après tout, cet effroi de mon âme,
+Quand j'en puis profiter sans blesser mon devoir.
+Le baron (dans ce jour il me l'a fait trop voir)
+Pour l'aimable Forlis sent un mépris insigne ;
+Il dédaigne un bonheur dont son coeur n'est pas digne.
+De sa grâce naïve il méconnaît le prix :
+Elle aurait un tyran ; et l'hymen, j'en frémis,
+Pour elle deviendrait une chaîne cruelle.
+Je dois l'en garantir, moins pour moi que pour elle.
+L'amour, la probité, la pitié, la raison,
+Tout me fait une loi de tromper le baron.
+Employer l'artifice en cette conjecture,
+C'est servir la vertu, non trahir la droiture.
+Lui-même, qui plus est, me conduit par la main.
+Je la vois, sa présence affermit mon dessein.
+
+**** *book_ *id_III03 *act_III *date_1740
+
+-*who_lebaron
+Oui, le marquis attend de vous un grand service,
+Et vous seule pouvez lui rendre cet office.
+Songez qu'il le mérite, et qu'il est mon ami.
+
+-*who_lucile
+Monsieur...
+
+-*who_lebaron
+      Il ne faut pas l'obliger à demi.
+
+-*who_lucile
+De quoi s'agit-il donc, monsieur ?
+
+-*who_lemarquis
+      C'est une lettre
+Que j'ose vous prier instamment de remettre...
+
+-*who_lucile
+À qui ?
+
+-*who_lemarquis
+      Mademoiselle, à cet objet charmant
+Dont vous êtes l'amie, et dont je suis l'amant.
+Il y verra les traits de l'amour le plus tendre.
+
+-*who_lucile
+Je ne manquerai pas, monsieur, de la lui rendre.
+
+-*who_lebaron
+Fort bien ; je suis content de ce procédé-là :
+Peut-être avec le temps mon soin la formera.
+
+-*who_lemarquis
+Et puis-je me flatter qu'elle soit bien reçue ?
+
+-*who_lucile
+Mais, je n'en doute point.
+
+-*who_lemarquis
+      Quand elle l'aura lue,
+Puis-je encore espérer qu'elle me répondra ?
+
+-*who_lucile
+Oui, monsieur, je le crois, dès qu'elle le pourra.
+
+-*who_lemarquis
+Oserais-je, pour moi, compter sur votre zèle ?
+
+-*who_lucile
+Mais, je ferai, monsieur, mon possible auprès d'elle.
+
+-*who_lebaron
+Elle répond, vraiment, beaucoup mieux que tantôt.
+Il se fait déjà tard, et partons au plus tôt.
+Votre âme est à présent dans une douce attente.
+Volons chez la comtesse, elle est impatiente.
+Voilà l'heure ; et d'ailleurs, je dois voir en passant
+Le commandeur.
+
+-*who_lemarquis
+      Daignez m'accorder un instant.
+C'est un point capital oublié dans ma lettre.
+Mademoiselle...
+
+-*who_lucile
+      Eh bien ! Monsieur ?
+
+-*who_lemarquis
+      Sans la commettre,
+Si dans cette journée, et par votre moyen,
+Je pouvais obtenir un moment d'entretien.
+
+-*who_lucile
+Elle ne sort jamais.
+
+-*who_lemarquis
+      Je puis, mademoiselle,
+Trouver l'occasion de lui parler chez elle ;
+Et c'est pour tous les deux un bien essentiel.
+
+-*who_lucile
+Mais elle est sous les yeux d'un surveillant cruel,
+Qui, faussement paré d'une douceur trompeuse,
+L'intimide et la tient dans une gêne affreuse.
+
+-*who_lebaron
+Son coeur, à le tromper, doit avoir plus de goût,
+Et ne rien épargner pour en venir à bout.
+Il faut à ses dépens jouer la comédie,
+Et je veux le premier être de la partie.
+
+-*who_lucile
+Mais vous m'encouragez.
+
+-*who_lemarquis
+      Dès que monsieur le veut,
+Convenez qu'on le doit, et songez qu'on le peut.
+
+-*who_lebaron
+Profitons des moments où son père sommeille :
+Dépêchons-nous, partons avant qu'il se réveille.
+
+**** *book_ *id_III04 *act_III *date_1740
+
+-*who_m.deforlis
+Je t'arrête au passage, et bien m'en prend, parbleu !
+
+-*who_lebaron
+Mais, monsieur, j'ai promis.
+
+-*who_m.deforlis
+      Il m'importe fort peu.
+
+**** *book_ *id_III05 *act_III *date_1740
+
+-*who_lacomtesse
+Comment donc ! Est-ce ainsi que l'on se fait attendre ?
+Moi-même il faut, chez vous, que je vienne vous prendre :
+Cet oubli me surprend, surtout de votre part,
+Vous, prévenant, exact.
+
+-*who_lebaron
+      Pardonnez mon retard.
+
+-*who_lacomtesse
+Je ne puis à ce trait, monsieur, vous reconnaître.
+
+-*who_lebaron
+De sortir de chez moi, je n'ai pas été maître ;
+Et je suis arrêté même dans ce moment.
+
+-*who_lacomtesse
+Par qui donc ?
+
+-*who_m.deforlis
+      C'est par moi, madame, absolument.
+J'ai besoin du baron pour cette après-dîner.
+
+-*who_lacomtesse
+Moi, je l'ai retenu pour toute la journée.
+
+-*who_m.deforlis
+Avec tout le respect que je dois vous porter,
+Sur vos prétentions je compte l'emporter.
+
+-*who_lacomtesse
+N'en déplaise à l'espoir dont votre esprit se flatte,
+Vous venez un peu tard, je suis première en date.
+
+-*who_lebaron
+Vous voyez bien, monsieur, que je n'impose point.
+
+-*who_m.deforlis
+Mais vous savez qu'au mien votre intérêt est joint.
+L'affaire est sérieuse autant qu'elle est pressante.
+
+-*who_lacomtesse
+Oh ! Celle qui m'amène est plus intéressante.
+
+-*who_m.deforlis
+Mon bonheur en dépend, et le sien propre y tient.
+
+-*who_lacomtesse
+Mais c'est un phénomène, et Paris en convient.
+
+-*who_m.deforlis
+J'arrive tout exprès du fond de la Bretagne.
+
+-*who_lacomtesse
+Moi, quinze jours plus tôt j'ai quitté la campagne.
+
+-*who_m.deforlis
+S'il retarde d'un jour, mes pas seront perdus.
+
+-*who_lacomtesse
+Passé ce soir, monsieur, on ne l'entendra plus ;
+Il part demain.
+
+-*who_m.deforlis
+      Qui donc ? Je ne puis vous comprendre.
+
+-*who_lacomtesse
+Ce violon fameux, que nous devons entendre.
+
+-*who_m.deforlis
+Quoi ! C'est un violon qui balance mes droits ?
+
+-*who_lacomtesse
+Il doit jouer, monsieur, pour la dernière fois.
+
+-*who_m.deforlis
+Voilà donc ce devoir unique, indispensable !
+Je tombe de mon haut !
+
+-*who_lacomtesse
+      C'est un homme admirable,
+Et qui tire des sons singuliers et nouveaux ;
+Ses doigts sont surprenants, ce sont autant d'oiseaux.
+Doux et tendre, d'abord il vole terre à terre :
+Puis, tout à coup, bruyant, il devient un tonnerre.
+Rien n'égale, en un mot, Monsieur Vacarmini.
+
+-*who_m.deforlis
+Vacarmini, Madame, ou Tapagimini,
+Tout merveilleux qu'il est, n'est pas un personnage
+Qui mérite sur moi d'obtenir l'avantage.
+
+-*who_lacomtesse
+Eh ! Qui donc êtes-vous pour jouter contre lui ?
+
+-*who_m.deforlis
+Quelqu'un que monsieur doit préférer aujourd'hui.
+
+-*who_lacomtesse
+Je vous crois du talent et beaucoup de mérite ;
+Mais vous ne partez pas apparemment si vîte.
+On pourra vous entendre un autre jour.
+
+-*who_m.deforlis
+      Comment ?
+
+-*who_lacomtesse
+Oui, quel est votre fort, monsieur, précisément ?
+La musette, la flûte, ou le violoncelle ?
+
+-*who_m.deforlis
+Moi, joueur de musette ? Ah ! La chose est nouvelle.
+La bagatelle seule occupe vos esprits :
+Un soin plus sérieux me conduit à Paris.
+
+-*who_lacomtesse
+Quelle est donc cette affaire, et si grave et si grande ?
+
+-*who_m.deforlis
+C'est un gouvernement qu'à la cour je demande.
+
+-*who_lacomtesse
+Un gouvernement ?
+
+-*who_m.deforlis
+      Oui.
+
+-*who_lacomtesse
+      Quoi ! Ce n'est que cela ?
+Oh ! Rien ne presse moins : si ce n'est celui-là,
+Vous en aurez un autre, et la chose est facile.
+Mais pour l'homme divin, qui part de cette ville,
+Le bonheur de l'entendre à ce jour est borné.
+Il faut, il faut saisir le moment fortuné.
+Si le baron manquait cet instant favorable,
+Il n'en trouverait pas dans dix ans un semblable.
+
+-*who_lebaron
+Oui, madame a raison, et j'en dois profiter.
+
+-*who_m.deforlis
+Quoi ! Pour un vain plaisir tu veux donc me quitter ?
+Un ancien ami n'a pas la préférence ?
+
+-*who_lacomtesse
+Moi, je suis près de lui nouvelle connaissance ;
+Il me doit plus d'égards.
+
+-*who_m.deforlis
+      Oui, s'il faut parier,
+C'est toujours pour celui qu'il connaît le dernier.
+
+-*who_lacomtesse
+Le plaisir que j'attends me transporte d'avance.
+Donnez-moi donc la main, partons en diligence.
+
+-*who_lebaron
+À des ordres si doux je me laisse entraîner.
+
+-*who_lemarquis
+Monsieur, je vous promets de vous le ramener.
+
+-*who_lacomtesse
+Non, c'est flatter monsieur d'un espoir téméraire.
+J'enlève le baron pour la journée entière.
+Je ne dérange rien dans les plans que je fais.
+Au sortir du concert, je le mène aux français,
+Où j'ai depuis huit jours une loge louée,
+Pour voir la nouveauté qui doit être jouée ;
+Et de là nous devons être d'un grand souper,
+Qui va jusqu'à minuit au moins nous occuper ;
+Puis de la table au bal, où, déguisée en Flore
+Je ne rendrai Zéphyr qu'au lever de l'Aurore.
+
+-*who_lebaron
+Je reviendrai, monsieur, et ne la croyez pas.
+
+-*who_m.deforlis
+Pour en être plus sûr j'accompagne tes pas.
+
+**** *book_ *id_IV01 *act_IV *date_1740
+
+-*who_celiante
+Vous êtes, je le vois, mécontent de mon frère, Monsieur ?
+
+-*who_m.deforlis
+Je suis trop franc pour dire le contraire :
+Sans un motif secret qui pour lui m'attendrit,
+Je ferais hautement éclater mon dépit,
+Et je n'en eus jamais une si juste cause.
+
+-*who_celiante
+Eh ! Quel nouveau sujet, monsieur, vous indispose ?
+
+-*who_m.deforlis
+Tout ce qui peut blesser un ami tel que moi.
+Je le suis au concert, j'entre, et je l'aperçois.
+Jusqu'à lui je pénètre à travers la cohue,
+Mon abord l'embarrasse ; à peine il me salue :
+Je lui parle, il se trouble, il répond à demi,
+Et je le vois enfin rougir de son ami.
+Je sens qu'il me regarde, en son impertinence,
+Comme un provincial dont il craint la présence.
+Au milieu du grand monde il me croit déplacé ;
+Et dans le même temps qu'il est pour moi glacé,
+Il se montre attentif, il fait cent politesses
+À des originaux de toutes les espèces.
+Auprès d'eux tour à tour on le voit empressé,
+Et le plus ridicule est le plus caressé.
+
+-*who_celiante
+Je voudrois excuser un procédé semblable,
+Mais je sens qu'envers vous mon frère est trop coupable.
+
+-*who_m.deforlis
+Aux usages reçus s'il a trop obéi,
+Quelques instants après, le sort l'en a puni.
+Ce violon divin, et qui se voit l'idole
+De Paris qui le court, a manqué de parole ;
+L'opulent financier qui tout fier l'attendait,
+Et chez qui, sans mentir, toute la France était,
+Comme un arrêt mortel apprend cette nouvelle.
+Le concert est rompu ; l'aventure est cruelle :
+C'est un coup dont il est si fort humilié,
+Qu'il en paraît moins fat, mais plus sot de moitié :
+Il voit fuir les trois quarts des spectateurs qui pestent ;
+La fureur de jouer vient saisir ceux qui restent.
+Pour vingt jeux différents vingt autels sont dressés ;
+Les sacrificateurs en ordre sont placés.
+Les monts d'or étalés sont offerts en victimes.
+Du dieu qui les reçoit les mains sont des abîmes,
+Par qui dans un moment tout se voit englouti :
+Un seul particulier, dans une après-midi,
+Perd des sommes d'argent qui forment des rivières,
+Et feraient subsister dix familles entières.
+Le baron, qui se laisse emporter au courant,
+Malgré tous mes efforts, suit alors le torrent.
+De dépit je le quitte, et cours pour mon affaire ;
+Ensuite je reviens dans le moment contraire,
+Que par un as fatal il se voit égorgé ;
+Il perd, outre l'argent dont il était chargé,
+Plus de neuf cents louis joués sur sa parole :
+Mais il cède en héros au revers qui l'immole ;
+Sous un front calme il sait déguiser sa douleur,
+Et s'acquiert, en partant le nom de beau joueur.
+
+-*who_celiante
+Mais il paie assez cher ce titre qui l'honore.
+
+-*who_m.deforlis
+Ce que je vous apprends, il croit que je l'ignore ;
+Sa disgrâce me fait oublier mon dépit,
+Et plus que mon affaire occupe mon esprit.
+L'amitié me ramène en ce lieu pour l'attendre,
+Et selon l'apparence il va bientôt s'y rendre
+Pour prendre tout l'argent qu'il peut avoir chez lui,
+Car il doit acquitter cette dette aujourd'hui.
+Je ne me trompe pas ; le voilà qui s'avance.
+
+-*who_celiante
+Je rentre ; vous seriez gênés par ma présence.
+
+**** *book_ *id_IV02 *act_IV *date_1740
+
+-*who_lebaron
+Je cache la fureur de mon coeur éperdu,
+Et je ne puis trouver l'argent que j'ai perdu :
+Mais je ne croyais pas que Forlis fût si proche.
+Déguisons. Vous venez pour me faire un reproche ?
+
+-*who_m.deforlis
+Non, n'appréhende rien, le temps serait mal pris ;
+Quand ils sont malheureux, j'épargne mes amis.
+
+-*who_lebaron
+Comment donc ?
+
+-*who_m.deforlis
+      Devant moi cesse de te contraindre,
+Je sais ton infortune, en vain tu prétends feindre.
+
+-*who_lebaron
+Qui vous a dit...
+
+-*who_m.deforlis
+      Mes yeux en ont été témoins,
+Et tu perds d'un seul coup neuf cents louis au moins.
+
+-*who_lebaron
+Puisque vous le savez, il faut que je l'avoue :
+C'est un tour inouï que le hasard me joue.
+
+-*who_m.deforlis
+As-tu l'argent chez toi ?
+
+-*who_lebaron
+      Je n'ai que mille écus ;
+J'ai fait pour en trouver des efforts superflus.
+
+-*who_m.deforlis
+Tu connais tant de monde ?
+
+-*who_lebaron
+      Inutile ressource !
+Mes amis, par malheur, ont épuisé leur bourse ;
+Ils manquent tous d'espèce.
+
+-*who_m.deforlis
+      Ou d'amitié pour toi ;
+Tiens, en voilà huit cents, je les ai pris chez moi.
+Ah ! Je suis pénétré.
+
+-*who_m.deforlis
+      Va, mon argent profite,
+Quand il sert mon ami, quand son secours l'acquitte.
+
+-*who_lebaron
+C'est peu de m'obliger, vous prévenez mes voeux.
+
+-*who_m.deforlis
+Je t'épargne une peine, et j'en suis plus heureux ;
+Je dois pourtant me plaindre en cette circonstance,
+Que ton coeur ne m'ait pas donné la préférence.
+Tu vas chercher ailleurs, et tu sembles rougir
+De t'adresser au seul qui peut te secourir,
+Et qui goûte un bien pur à te rendre service,
+Loin que ton sort le gêne ou ta faute l'aigrisse.
+
+-*who_lebaron
+Je ne mérite pas...
+
+-*who_m.deforlis
+      N'importe, je le dois,
+Des devoirs de l'ami je m'acquitte envers toi ;
+J'en serai trop payé si je t'enseigne à l'être,
+Et si mes procédés t'apprennent à connaître
+Celui qui l'est vraiment dans les occasions,
+Non par de vains propos, mais par des actions,
+D'avec ceux qui n'en ont que fausses apparences,
+Qui méritent au plus le nom de connaissances.
+
+-*who_lebaron
+Je connais tous mes torts, et vous demande grâce.
+
+-*who_m.deforlis
+S'il est sincère et vrai, ton remords les efface.
+Pour mieux les réparer, baron, voici le jour
+Et l'instant où tu peux m'être utile à ton tour.
+Pendant que tu jouais, j'ai pris soin de m'instruire
+Et d'agir fortement pour la place où j'aspire :
+J'ai su d'un secrétaire, et dans un autre temps
+Je t'en ferais ici des reproches sanglants,
+J'ai su que tu n'as fait, malgré ma vive instance,
+Pour ce gouvernement aucune diligence ;
+Et qu'enfin si pour moi tu l'avais demandé,
+Indubitablement on te l'eût accordé.
+
+-*who_lebaron
+La cour n'est pas si prompte à répandre ses grâces ;
+Il faut longtemps briguer pour de pareilles places,
+Et ce n'est pas, monsieur, l'ouvrage d'un moment.
+
+-*who_m.deforlis
+Ce gouvernement-ci toutefois en dépend ;
+Et j'ai tantôt appris du même secrétaire,
+Qu'il est sollicité par un fort adversaire ;
+Qu'il faut tout mettre en oeuvre et tout faire mouvoir,
+Ou que mon concurrent l'emportera ce soir.
+Mon plan est arrangé, mes mesures sont prises
+Pour parler au ministre à six heures précises ;
+Pour le voir, pour agir, voilà les seuls instants :
+Si tu veux près de lui me seconder à temps,
+Nos efforts prévaudront, et j'obtiendrai la place.
+Je sais qu'à ta prière il n'est rien qu'il ne fasse,
+Et tu possèdes l'art de le persuader :
+Mais il faut employer ton crédit sans tarder,
+Et venir avec moi chez lui, dans trois quarts d'heure :
+C'est le temps décisif, promets-moi...
+
+-*who_lebaron
+      Que je meure,
+Si j'y manque, monsieur.
+
+-*who_m.deforlis
+      Ne va pas l'oublier,
+Et songe...
+
+-*who_lebaron
+      Je ne sors que pour aller payer
+La somme que je dois, et je reviens vous prendre ;
+Vous n'aurez pas, monsieur, la peine de m'attendre.
+On doit pour ses amis tout faire, tout quitter :
+Vous m'en donnez l'exemple, et je dois l'imiter.
+
+-*who_m.deforlis
+Tu seras accompli, si tu tiens ta promesse.
+
+**** *book_ *id_IV03 *act_IV *date_1740
+
+-*who_celiante
+Mon frère auprès de vous a perdu sa tristesse ;
+Et j'en juge, monsieur, par l'air gai dont il sort.
+
+-*who_m.deforlis
+Je crois qu'il est content ; pour moi je le suis fort.
+Adieu, mademoiselle. Attendant qu'il revienne,
+Je vais voir Lisimon, qu'il faut que j'entretienne.
+
+**** *book_ *id_IV04 *act_IV *date_1740
+
+-*who_celiante
+Il a soin de cacher le plaisir qu'il lui fait,
+Et sa discrétion est un nouveau bienfait.
+
+**** *book_ *id_IV05 *act_IV *date_1740
+
+-*who_lisette
+Apprenez un secret que je ne puis vous taire :
+Lucile, Lucile aime ; et monsieur votre frère
+A, comme il est trop juste, un rival préféré.
+
+-*who_celiante
+Quelle idée !
+
+-*who_lisette
+      Oh ! Mon doute est trop bien avéré.
+
+-*who_celiante
+Sur quoi donc le crois-tu ?
+
+-*who_lisette
+      Je viens de la surprendre
+Dans le temps que sa main ouvrait un billet tendre,
+Qu'elle a vite caché sitôt que j'ai paru ;
+Et par là mon soupçon s'est justement accru.
+
+-*who_celiante
+Va, c'est apparemment la lettre d'une amie.
+
+-*who_lisette
+Non, non, je n'en crois rien ; sa rougeur l'a trahie.
+Pour cacher un billet qui n'est qu'indifférent,
+On est moins empressée, et le trouble est moins grand.
+On attribue à tort à son peu de génie
+Son humeur taciturne et sa mélancolie :
+L'amour est seul l'auteur de ce silence-là ;
+Et j'en mettrais au feu cette main que voilà.
+Ce n'est pas d'aujourd'hui que j'ai cette pensée :
+La curiosité dont je me sens pressée
+M'a fait étudier ses moindres mouvements.
+D'un coeur qui de l'absence éprouve les tourments,
+J'ai connu qu'elle avait le symptôme visible :
+Et j'ai sur ce mal là le coup-d'oeil infaillible ;
+Je porte encor plus loin ma vue à son sujet,
+Et de ses feux cachés je devine l'objet.
+
+-*who_celiante
+Bon !
+
+-*who_lisette
+      Depuis qu'au baron le marquis rend visite,
+Sur son front satisfait on voit la joie écrite.
+J'ai, qui plus est, surpris certains regards entre eux,
+Qui prouvent le concert de deux coeurs amoureux :
+C'est lui, mademoiselle, et j'en fais la gageure.
+
+-*who_celiante
+Tu prends dans ton esprit ta folle conjecture.
+
+-*who_lisette
+Ils s'aiment en secret, je ne me trompe pas.
+Mais tenez, la voilà qui porte ici ses pas :
+Pour lire le billet, elle y vient, j'en suis sûre.
+Cachons-nous toutes deux dans cette salle obscure.
+
+-*who_celiante
+Non, viens, rentre avec moi, respectons son secret ;
+Celui que l'on surprend est un larcin qu'on fait.
+
+**** *book_ *id_IV06 *act_IV *date_1740
+
+-*who_lucile
+Enfin me voilà seule, et bannissant la crainte,
+Je puis donc respirer et lire sans contrainte
+La lettre d'un amant qui règne dans mon coeur !
+Sa lecture peut seule adoucir ma douleur.
+"Non, belle Lucile, il n'est point de situation plus singulière que la nôtre, ni d'amant plus malheureux que moi.
+Je vous vois à toute heure sans pouvoir m'expliquer.
+Je m'aperçois qu'on vous méprise et qu'on vous croit sans esprit et sans sentiment, vous qui pensez si juste, et dont le coeur tendre et délicat égale la sensibilité du mien, et c'est tout dire.
+Vous êtes à la veille d'en épouser un autre, et je n'ose me plaindre.
+Je pourrais me consoler, si votre mariage ne faisait que mon malheur ; mais il va combler le vôtre ; je le sais, je le vois, et je ne puis l'empêcher ; c'est là ce qui rend mon désespoir affreux : sans une prompte réponse, j'y vais succomber."
+Mon coeur est déchiré par un billet si tendre.
+Ma peine et mon plaisir ne sauraient se comprendre.
+Non, mon état n'est fait que pour être senti !
+J'ai là tout ce qu'il faut. Vite, répondons-y.
+Cher amant ! Si les traits de l'ardeur la plus vive,
+Si d'un parfait retour l'expression naïve
+Peuvent te consoler et calmer tes esprits,
+Tu seras satisfait de ce que je t'écris.
+Les maux que tu ressens font mon plus grand martyre.
+
+**** *book_ *id_IV07 *act_IV *date_1740
+
+-*who_lebaron
+Je viens de m'acquitter. Grâce au ciel, je respire !
+Mais que vois-je ! Lucile a l'esprit occupé !
+Elle écrit une lettre, ou je suis fort trompé.
+Elle ne pense pas, comment peut-elle écrire ?
+Parbleu, voyons un peu de son style pour rire.
+Puis-je, sans me montrer curieux, indiscret,
+Vous demander pour qui vous tracez ce billet ?
+
+-*who_lucile
+Ah !
+
+-*who_lebaron
+      Que notre présence un peu moins vous étonne.
+Ne craignez rien.
+
+-*who_lucile
+      Monsieur, je n'écris à personne.
+Ce sont des mots sans suite, et mis pour m'essayer.
+
+-*who_lebaron
+N'importe ; montrez-moi, s'il vous plaît, ce papier.
+Ne me refusez point, lorsque je vous en prie.
+
+-*who_lucile
+Le cruel embarras !
+
+-*who_lebaron
+      Voyons.
+
+-*who_lucile
+      J'orthographie...
+Et peins trop mal, Monsieur... jamais je n'oserai.
+
+-*who_lebaron
+Pourquoi ? Vous avez tort, je vous corrigerai.
+
+-*who_lucile
+Vous ne pourriez jamais lire mon écriture ;
+Et vous vous moqueriez de moi, j'en suis trop sûre.
+
+-*who_lebaron
+Bon ! Vous faites l'enfant.
+
+-*who_lucile
+      Je suis de bonne foi.
+Je sais l'opinion que vous avez de moi,
+Et c'est pour l'augmenter.
+
+-*who_lebaron
+      Ah ! Mauvaises défaites.
+Donnez, pour mettre fin aux façons que vous faites.
+
+**** *book_ *id_IV08 *act_IV *date_1740
+
+-*who_lemarquis
+J'aperçois le baron et ma chère Forlis.
+Mais il lit un billet, ciel ! L'aurait-il surpris ?
+
+-*who_lebaron
+Je doute si je veille, et je ne sais que dire ;
+Parlez, est-ce bien vous qui venez de l'écrire ?
+
+-*who_lucile
+Oui.
+
+-*who_lebaron
+      Mais de ma surprise à peine je reviens :
+Je n'ai rien vu d'égal au billet que je tiens.
+Plus je la lis, et plus cette lettre m'étonne.
+Le sentiment y règne, et l'esprit l'assaisonne.
+Belle indolente, eh quoi ! Sous cet air ingénu,
+Vous me trompiez ainsi ? Qui l'aurait jamais cru ?
+"Je sais qu'on me croit sans esprit ; mais ce n'est que pour vous seul que je voudrois en avoir. "
+Je ne demande plus à qui ceci s'adresse.
+Je sens toute la force et la délicatesse
+Du reproche fondé que cache ce billet :
+Et je vois par malheur que j'en suis seul l'objet.
+Il est honteux pour moi de mériter vos plaintes.
+Mes fautes, j'en rougis, y sont trop bien dépeintes.
+Voilà le résultat de tous nos entretiens,
+Et tous vos sentiments y répondent aux miens.
+
+-*who_lucile
+La méprise est heureuse, et mon âme respire.
+
+-*who_lemarquis
+Fort bien. Il prend pour lui ce qu'on vient de m'écrire.
+
+-*who_lebaron
+Cet embarras charmant, cette aimable rougeur
+Servent à confirmer ma gloire.
+
+-*who_lemarquis
+      Ou son erreur.
+
+-*who_lebaron
+Quelle joie ! Elle m'aime, elle sent, elle pense !
+Que j'ai mal jusqu'ici jugé de son silence !
+Ah ! Pourquoi si long-temps me cacher ces trésors,
+Et les ensevelir sous de trompeurs dehors ?
+Mais n'accusons que moi ; c'est ma faute, et ma vue
+Devait lire à travers cette crainte ingénue :
+Je devais démêler son coeur et son esprit.
+Je trouve mon arrêt dans ce qu'elle m'écrit ;
+Et ces traits dont mon âme est confuse et ravie,
+Font ma satire autant que son apologie.
+
+-*who_lucile
+Il est vrai.
+
+-*who_lemarquis
+      Je jouis d'un plaisir tout nouveau ;
+Et l'on n'a jamais mieux donné dans le panneau.
+
+-*who_lebaron
+Ah ! Marquis, vous voilà, ma joie est accomplie.
+C'est ici le moment le plus doux de ma vie.
+Mon bonheur est au comble, et je viens de trouver
+Tout ce qui lui manquait, et qui peut l'achever.
+Rien n'égale l'esprit de la beauté que j'aime.
+Je veux que votre oreille en soit juge elle-même.
+Écoutez ce billet que Lucile m'écrit ;
+Il va vous étonner autant qu'il me ravit.
+"Je sais qu'on me croit sans esprit, mais ce n'est que pour vous seul que je voudrais en avoir ; et si je pouvais réussir à vous persuader que je suis aussi spirituelle que tendre, peu m'importerait que le reste du monde me donnât le nom de sotte et de stupide.
+L'abattement où m'a plongée la crainte d'être oubliée de vous, a dû donner de moi cette idée ; et depuis que je vous vois ici, votre présence me jette dans un trouble qui sert à la confirmer.
+Je sens que mon coeur fait tort à mon esprit.
+Il m'ôte jusqu'à la liberté de m'exprimer, et je suis trop occupée à sentir, pour avoir le loisir de penser."
+Mais est-il rien, marquis, qui soit plus adorable ?
+Et ne trouvez-vous pas cette fin admirable ?
+
+-*who_lemarquis
+Je la goûte encor plus que vous ne l'approuvez.
+
+-*who_lucile
+Vous louez mon billet plus que vous ne devez.
+
+-*who_lebaron
+Non, non, mon repentir égale ma surprise ;
+Je dois à vos genoux expier ma méprise.
+Pardon, je vous croyais, il faut trancher le mot,
+Sans esprit, et c'est moi qui suis vraiment un sot.
+
+-*who_lucile
+Levez-vous, vous comblez le trouble qui m'agite.
+
+-*who_lebaron
+Je dois à votre égard rougir de ma conduite.
+C'est par mille respects, par un culte flatteur,
+Que je puis désormais réparer mon erreur.
+Vous êtes accomplie, et je n'en puis trop faire.
+Vous, marquis, prenez part à mon transport sincère.
+
+-*who_lemarquis
+Je le partage au moins.
+
+-*who_lebaron
+      Rien ne manque à mes voeux,
+Si comme moi mon cher, vous devenez heureux.
+
+-*who_lemarquis
+Oh ! Je le suis déjà.
+
+-*who_lebaron
+      Comment donc ? Votre amante
+Vous aurait-elle écrit ?
+
+-*who_lemarquis
+      Un billet qui m'enchante !
+Votre ravissement n'égale pas le mien.
+C'est à mademoiselle à qui je dois ce bien.
+
+-*who_lucile
+En cela j'ai suivi le penchant qui m'inspire.
+
+-*who_lebaron
+Nous sommes tous contents comme je le désire :
+Désormais mon hôtel, qui m'était odieux,
+Me deviendra charmant, embelli par vos yeux.
+Vous seule me rendrez son séjour agréable ;
+Pour vous plaire je veux m'y montrer plus aimable :
+Et goûtant sans mélange un destin bien plus doux,
+Je vais me partager entre le monde et vous.
+
+**** *book_ *id_IV09 *act_IV *date_1740
+
+-*who_lisette
+Pardon, si j'interromps, monsieur ; mais la duchesse
+Demande à vous parler pour affaire qui presse :
+Elle est dans son carrosse, et ne peut s'arrêter.
+Un de ses gens est là.
+
+-*who_lebaron
+      Mais, sans plus hésiter,
+Qu'il entre donc.
+
+**** *book_ *id_IV10 *act_IV *date_1740
+
+-*who_lelaquais
+      Monsieur, madame vient vous prendre
+Et, sans tarder, vous prie instamment de descendre.
+
+-*who_lebaron
+Il suffit, je vous suis.
+
+**** *book_ *id_IV11 *act_IV *date_1740
+
+-*who_lemarquis
+      Vous allez donc partir ?
+
+-*who_lebaron
+Non, je vais l'assurer que je ne puis sortir ;
+À Monsieur De Forlis je suis trop nécessaire.
+La fille me rappelle, et j'ai promis au père.
+Rien ne peut m'arrêter quand je dois le servir.
+Je ne suis qu'un instant, et je vais revenir.
+
+**** *book_ *id_IV12 *act_IV *date_1740
+
+-*who_lisette
+Il ne reviendra pas si tôt, mademoiselle ;
+Et la duchesse va l'emmener avec elle.
+La comtesse est là-bas qui lui sert de renfort :
+Le moyen qu'il résiste à leur commun effort ?
+
+-*who_lucile
+Le soin qui les conduit sans doute est d'importance ?
+
+-*who_lisette
+Oui, l'affaire est vraiment des plus graves : je pense
+Qu'il s'agit d'assortir des porcelaines.
+
+-*who_lemarquis
+      Bon !
+
+-*who_lisette
+Et de mettre d'accord la Chine et le Japon.
+Mais le carrosse part, et voilà qu'on l'emmène,
+Moi-même je descends pour en être certaine.
+Ils s'aiment, je le vois, et je plains leur ennui.
+Monsieur les laisse seuls, et je fais comme lui.
+
+**** *book_ *id_IV13 *act_IV *date_1740
+
+-*who_lemarquis
+Je puis enfin, au gré du penchant qui m'entraîne,
+Vous voir et vous parler sans témoin et sans gêne.
+Que cet instant m'est doux ! Que je suis enchanté !
+Ce moment, comme moi, l'avez-vous souhaité ?
+Vous ne répondez rien, et votre coeur soupire.
+
+-*who_lucile
+À peine à mes transports mes sens peuvent suffire :
+Le discours est trop faible, et je n'en puis former.
+Marquis, me taire ainsi, n'est-ce pas m'exprimer ?
+
+-*who_lemarquis
+Oui, charmante Lucile, il n'est point d'éloquence
+Qui vaille et persuade autant qu'un tel silence.
+Mes yeux semblent sortir d'une profonde nuit,
+Dans ceux de mon amant un autre ciel me luit :
+Au seul son de sa voix mon coeur se sent renaître,
+Et l'amour près de lui me donne un nouvel être.
+Mon âme n'était rien, quand il était absent ;
+Sa vue et son retour la tirent du néant.
+
+-*who_lemarquis
+Souffrez, dans le transport dont la mienne est pressée...
+
+-*who_lucile
+Non, sans vous, loin de vous je n'ai point de pensée.
+Je suis stupide auprès du monde indifférent,
+Et je n'ai de l'esprit qu'avec vous seulement.
+Le mien ne brille point dans une compagnie :
+Le sentiment l'échauffe, et non pas la saillie.
+Celui que l'amour donne à deux coeurs bien épris,
+Est le seul qui m'inspire, et dont je sens le prix.
+
+-*who_lemarquis
+Ah ! C'est le véritable, et n'en ayons point d'autre ;
+Comme il sera le mien, qu'il soit toujours le vôtre.
+Ne puisons notre esprit que dans le sentiment :
+Vous m'aimez ?
+
+-*who_lucile
+      Oui, mon coeur vous aime uniquement.
+
+-*who_lemarquis
+Que votre belle bouche encore le répète,
+Vous avez à le dire une grâce parfaite.
+
+-*who_lucile
+Oui, marquis, je vous aime, et je n'aime que vous.
+
+-*who_lemarquis
+Et moi, je vous adore.
+
+-*who_lucile
+      Ô retour qui m'est doux !
+
+-*who_lemarquis
+Que je vais payer cher ces instants pleins de charmes !
+Mon bonheur est troublé par de justes alarmes ;
+Et je suis près de voir le baron possesseur
+D'un bien que sa poursuite enlève à mon ardeur :
+J'ai frémi quand j'ai vu qu'il lisait votre lettre.
+
+-*who_lucile
+Moi-même de ma peur j'ai peine à me remettre.
+
+-*who_lemarquis
+Elle est entre ses mains.
+
+-*who_lucile
+      N'en soyez point jaloux ;
+Vous savez qu'elle n'est écrite que pour vous.
+
+-*who_lemarquis
+D'accord, mais pour vous plaire il redevient aimable ;
+Ses grâces à mes yeux le rendent redoutable.
+
+-*who_lucile
+Quelque forme qu'il prenne, il n'avancera rien :
+Je le verrai toujours, à l'examiner bien,
+Comme un tyran caché, qui, sous un faux hommage,
+Me prépare le joug du plus dur esclavage ;
+À qui l'hymen rendra sa première hauteur,
+Et qui me traitera comme il traite sa soeur.
+À son sort, par ce noeud, je tremble d'être unie :
+Je vais dans les horreurs traîner ma triste vie.
+Si l'aveugle amitié que mon père a pour lui,
+N'eût rendu ma démarche inutile aujourd'hui,
+J'aurais déjà, j'aurais forcé mon caractère,
+Et je serais tombée aux genoux de mon père :
+Ma bouche eût déclaré mes sentiments secrets,
+Plutôt que d'épouser un homme que je hais,
+Et que mes yeux verraient même avec répugnance,
+Quand je n'aurais pour vous que de l'indifférence.
+Jugez combien ce fonds de haine est augmenté,
+Par l'amour que le vôtre a si bien mérité !
+Jugez combien il perd dans le fond de mon âme,
+Par la comparaison que je fais de sa flamme,
+Avec le feu constant, tendre et respectueux
+D'un amant jeune et sage, aimable et vertueux !
+Vous possédez, marquis, le mérite solide :
+Il n'en a que le masque et le vernis perfide ;
+Il ne songe qu'à plaire, et ne veut qu'éblouir :
+Vous seul savez aimer, et vous faire chérir.
+De tout Paris son art veut faire la conquête ;
+À régner sur mon coeur votre gloire s'arrête.
+Il est par ses dehors et par son entretien,
+Le héros du grand monde, et vous êtes le mien.
+
+-*who_lemarquis
+Cet aveu qui me charme en même temps m'afflige,
+À rompre un noeud fatal je sens que tout m'oblige :
+Mes feux méritent seuls d'obtenir tant d'appas.
+
+**** *book_ *id_IV14 *act_IV *date_1740
+
+-*who_lisette
+Continuez, monsieur, ne vous dérangez pas.
+
+-*who_lucile
+Ciel ! C'est Lisette !
+
+-*who_lisette
+      Là, n'ayez aucune alarme.
+Pour vous je m'intéresse, et votre amour me charme.
+Il est entièrement conforme à mon souhait ;
+J'en ai depuis tantôt pénétré le secret.
+Mais il est en main sûre ; et bien loin de vous nuire,
+Le soin de vous servir est le seul qui m'inspire ;
+C'est lui dans ce moment qui me conduit vers vous.
+Pardonnez, si je trouble un entretien si doux :
+Mais ayant vu de loin revenir votre père,
+Je viens pour vous donner cet avis salutaire.
+Je crois que j'ai bien fait, et qu'il n'est pas besoin
+Que de vos doux transports son oeil soit le témoin.
+
+-*who_lucile
+Je vous en remercie, et je rentre bien vîte.
+
+-*who_lemarquis
+Vous partez donc ?
+
+-*who_lucile
+      Adieu : malgré moi je vous quitte.
+
+**** *book_ *id_IV15 *act_IV *date_1740
+
+-*who_lemarquis
+Mon coeur reconnaîtra cette obligation.
+
+-*who_lisette
+Je vous sers tous les deux par inclination.
+Monsieur De Forlis vient, un autre soin m'appelle.
+Avec lui je vous laisse, et suis mademoiselle.
+
+**** *book_ *id_IV16 *act_IV *date_1740
+
+-*who_m.deforlis
+Où donc est le baron ? Je viens pour le chercher.
+
+-*who_lemarquis
+Malgré lui, de ces lieux on vient de l'arracher.
+
+-*who_m.deforlis
+Qui peut l'avoir contraint ?
+
+-*who_lemarquis
+      Une affaire imprévue,
+La duchesse, monsieur, elle-même est venue
+Le prendre en son carrosse, il a fallu céder.
+
+-*who_m.deforlis
+Lorsque dans ma demande il doit me seconder,
+Quand l'heure est décisive, il manque à sa promesse !
+Sans doute il s'y rendra, dès que la chose presse.
+
+-*who_m.deforlis
+J'y vole, il fera bien de ne pas l'oublier ;
+S'il ajoute ce trait, ce sera le dernier.
+
+**** *book_ *id_IV17 *act_IV *date_1740
+
+-*who_lemarquis
+Il faut en sa faveur que j'agisse moi-même :
+Je le puis par mon oncle ; il fera tout, il m'aime ;
+Son crédit est puissant, hâtons-nous de le voir.
+Pour le mieux obliger d'employer son pouvoir,
+De ma secrète ardeur faisons-lui confidence ;
+Du baron, s'il se peut, réparons l'indolence.
+À Monsieur De Forlis je dois un tel appui,
+Et je sers mon amour en travaillant pour lui.
+
+**** *book_ *id_V01 *act_V *date_1740
+
+-*who_lisette
+J'ai votre confiance, et je suis satisfaite.
+
+-*who_lucile
+Vous la méritez bien ; mais je suis inquiète.
+Mon père et le baron sont absents de ces lieux ;
+Le marquis devrait bien se montrer à mes yeux,
+Et profiter du temps que son rival lui laisse.
+
+-*who_lisette
+Oui, ce sont des instants très chers, mais sa tendresse
+Peut-être est occupée ailleurs utilement.
+De mon maître pour vous je crains le changement :
+Il pourra balancer son penchant pour la mode,
+Et le rendre assidu, partant plus incommode.
+
+-*who_lucile
+Vous me faites trembler, j'aime mieux sa froideur.
+
+-*who_lisette
+Pendant huit jours au moins redoutez son ardeur.
+Son amour à présent vous voit spirituelle,
+Et vous avez le prix d'une beauté nouvelle.
+J'entends marcher quelqu'un. C'est le pas d'un amant.
+
+-*who_lucile
+Oui, le marquis arrive avec empressement :
+C'est lui. Le coeur me bat.
+
+-*who_lisette
+      Émotion charmante !
+
+-*who_lucile
+Ah ! Ciel ! C'est le baron.
+
+-*who_lisette
+      La méprise est piquante.
+La comtesse en ces lieux accompagne ses pas.
+
+**** *book_ *id_V02 *act_V *date_1740
+
+-*who_lacomtesse
+Non, quoi que vous disiez, je ne vous quitte pas.
+
+-*who_lebaron
+Je n'ai pu m'échapper des mains de la duchesse :
+Je suis au désespoir. La cruelle comtesse
+A secondé si bien son désir obstiné,
+Qu'à la pièce nouvelle elles m'ont entraîné.
+Elles m'ont enfermé malgré moi dans leur loge ;
+Mais en vain des acteurs elles ont fait l'éloge,
+Au théâtre et partout je n'ai rien vu que vous.
+Je trouve dans vos yeux un spectacle plus doux ;
+Il jette tous mes sens dans une aimable ivresse ;
+Et voilà désormais le seul qui m'intéresse.
+
+-*who_lacomtesse
+Qu'entends-je ? Il prend le ton d'un amant langoureux.
+
+-*who_lebaron
+Je le suis en effet.
+
+-*who_lacomtesse
+      Vous êtes amoureux ?
+
+-*who_lebaron
+Oui, beaucoup.
+
+-*who_lacomtesse
+      Je frémis du transport qui l'entraîne.
+
+-*who_lebaron
+De notre hymen ce soir je veux former la chaîne ;
+Et votre père va...
+
+-*who_lucile
+      Monsieur, l'avez-vous vu ?
+
+-*who_lebaron
+Empressement flatteur ! Je ne l'ai jamais pu.
+J'ai manqué malgré moi l'heure qu'il m'a donnée.
+
+-*who_lacomtesse
+Mais c'est un vrai délire, et j'en suis étonnée :
+Si vous continuez, il faudra vous lier.
+C'est cent fois pis, Monsieur, que de vous marier.
+
+-*who_lebaron
+Mon ardeur est parfaite.
+
+-*who_lacomtesse
+      Ah ! Des ardeurs parfaites !
+Mais étant amoureux, et du ton dont vous l'êtes,
+Adorant et brûlant pour l'objet le plus doux,
+Que voulez-vous, monsieur, que l'on fasse de vous ?
+Le monde va bientôt fuir votre compagnie.
+
+-*who_lebaron
+Je me partagerai.
+
+-*who_lacomtesse
+      Non, tout amant l'ennuie ;
+L'amour et lui, Monsieur, sont brouillés tout à fait.
+L'un est vif, amusant, l'autre sombre et distrait.
+Le monde d'un butor fait un homme passable,
+Et l'amour fait un sot souvent d'un homme aimable.
+
+-*who_lucile
+Ce portrait de l'amour n'est pas bien grâcieux.
+Mon bel ange, il est peint plus charmant dans vos yeux.
+
+-*who_lebaron
+En dépit de vos traits, l'amour polit nos âmes.
+
+-*who_lacomtesse
+C'est l'ouvrage plutôt du commerce des dames.
+Pour valoir quelque chose, il faut nous voir vraiment,
+Avoir du goût pour nous, mais point d'attachement ;
+Point d'amour décidé, ni qui forme une chaîne.
+
+-*who_lucile
+J'avais cru jusqu'ici que nous valions la peine
+Qu'on s'attachât à nous particulièrement.
+
+-*who_lacomtesse
+Je vois que la petite est fille à sentiment.
+Volontiers je fais grâce à l'erreur qui l'occupe,
+Elle n'a que seize ans. C'est l'âge d'être dupe :
+L'âge par conséquent de se représenter
+L'amour sous des couleurs faites pour enchanter.
+Moi-même à quatorze ans j'ai donné dans le piége ;
+Moi, baron, qui vous parle. Oui, vous l'avouerai-je,
+J'ai soupiré, langui pour un jeune écolier,
+Mais langui constamment pendant un mois entier.
+
+-*who_lebaron
+Une telle constance est vraiment admirable !
+
+-*who_lacomtesse
+L'amour vous paraît donc bien beau, bien adorable ?
+
+-*who_lucile
+À mon âge l'on doit se taire là-dessus,
+Madame ; et je m'en vais de peur d'en dire plus.
+
+-*who_lacomtesse
+Choisissez pour époux, si vous êtes bien sage,
+Un homme moins couru, mais qui soit de votre âge.
+Ce n'est pas son avis, mais préférez le mien.
+
+-*who_lucile
+C'est une folle au fond qui conseille fort bien.
+
+**** *book_ *id_V03 *act_V *date_1740
+
+-*who_lacomtesse
+Non, je ne puis souffrir que ce noeud s'exécute.
+Je passe chez l'abbé pendant une minute,
+Et vais lui demander certain livre nouveau
+Qu'on dit bon, car il est vendu sous le manteau.
+Ensuite je reviens, je vous le signifie,
+Pour rompre votre hymen, ou le noeud qui nous lie ;
+Si votre amour l'emporte, adieu, plus d'amitié,
+D'estime ni d'égards pour un homme noyé.
+Paris dont vous allez vous attirer le blâme,
+Fera votre épitaphe, au lieu d'épithalâme.
+À votre porte même on vous fera l'affront
+De l'afficher, monsieur, et les passans liront :
+"Ci-gît dans son hôtel, sans avoir rendu l'âme,
+Le baron enterré vis-à-vis de sa femme. "
+
+**** *book_ *id_V04 *act_V *date_1740
+
+-*who_lebaron
+Sa menace est fondée, et j'en suis alarmé.
+Mais non, belle Forlis, j'aime et je suis aimé.
+Pour unir à jamais ta fortune et la mienne,
+J'attends dans ce moment que ton père revienne.
+Je n'ai qu'à te montrer aux yeux de tout Paris,
+J'obtiendrai son suffrage, au lieu de son mépris.
+D'avoir tant retardé je me fais un reproche.
+Je devais... mais je vois mon ami qui s'approche.
+
+**** *book_ *id_V05 *act_V *date_1740
+
+-*who_lebaron
+Je vous attends ici, monsieur, pour vous prier...
+
+-*who_m.deforlis
+Et moi je viens exprès pour te remercier.
+Tu m'as servi si bien et de si bonne grâce,
+Que par tes heureux soins un autre obtient la place.
+Le ministre me l'eût accordée aujourd'hui,
+Si pour me seconder, j'avais eu ton appui.
+
+-*who_lebaron
+C'est l'effet du malheur.
+
+-*who_m.deforlis
+      Dis de ta négligence.
+
+-*who_lebaron
+Non, il n'a pas été, monsieur, en ma puissance.
+Un contre-temps fatal a retenu mes pas.
+J'étais prêt à voler...
+
+-*who_m.deforlis
+      Je ne t'écoute pas.
+
+-*who_lebaron
+J'ai rencontré, vous dis-je, un invincible obstacle ;
+Et j'étais...
+
+-*who_m.deforlis
+      Je le sais, fort tranquille au spectacle.
+
+-*who_lebaron
+Oui, mais...
+
+-*who_m.deforlis
+      Ton procédé ne saurait s'excuser.
+Du noeud qui nous unit tu ne fais qu'abuser.
+Depuis dix ans entiers que l'amitié nous lie,
+J'en remplis les devoirs et ton coeur les oublie.
+Tu ne mets rien du tien dans cet engagement ;
+J'en ai seul tout le poids, et toi tout l'agrément.
+
+-*who_lebaron
+Dans vingt occasions j'ai témoigné mon zèle.
+
+-*who_m.deforlis
+Tu viens de m'en donner une preuve fidèle.
+Le seul prix que je veux de mon attachement,
+Est de venir parler au ministre un moment.
+Mon sort dépend d'un mot, d'une simple parole,
+Je ne puis l'obtenir ; et ton esprit frivole
+Refuse à mon bonheur ces instants précieux,
+Et c'est pour les donner, à quel soin glorieux ?
+À celui de juger une pièce nouvelle.
+
+-*who_lebaron
+Monsieur, on m'a contraint malgré moi...
+
+-*who_m.deforlis
+      Bagatelle.
+J'ouvre les yeux, et vois que dans ce siècle-ci,
+Le plus mauvais partage est celui de l'ami.
+
+-*who_lebaron
+Monsieur, je vous promets...
+
+-*who_m.deforlis
+      Inutile promesse.
+Je vous le dis avec beaucoup de politesse,
+Mais dans un dessein ferme et formé sans retour,
+Je n'aurai plus pour vous qu'une estime de cour ;
+Et vous ne devez plus, à l'avenir, attendre
+De m'avoir pour ami, ni de vous voir mon gendre.
+
+-*who_lebaron
+Si vous n'écoutez plus la voix de l'amitié,
+Si pour moi désormais vous êtes sans pitié,
+Pour votre fille, au moins, montrez-vous moins sévère ;
+Prenez en sa faveur des entrailles de père ;
+Et puisqu'il faut, monsieur, vous en faire l'aveu,
+Sachez que sa tendresse est égale à mon feu,
+Qu'un penchant mutuel...
+
+-*who_m.deforlis
+      Quoi ! Ma fille vous aime ?
+
+-*who_lebaron
+Oui, le marquis pourra vous l'attester lui-même ;
+Et pour vous en donner un garant plus certain,
+Lisez, voici, monsieur, un billet de sa main :
+Vous voyez qu'en trompant notre attente commune,
+Vous feriez son malheur comme mon infortune.
+
+-*who_m.deforlis
+Pour vous prouver qu'en tout l'équité me conduit,
+Et que je ne suis point un aveugle dépit,
+Je consens que ma fille elle-même prononce :
+Je m'en rapporterai, monsieur, à sa réponse.
+Je dois croire, et je suis, qui plus est, affermi
+Que vous ne serez pas meilleur époux qu'ami ;
+Mais ce danger pour elle est encor préférable,
+Tout mis dans la balance, au malheur effroyable
+D'obéir par contrainte, et de voir son sort joint
+Au destin d'un mari qu'elle n'aimerait point.
+Pour l'immoler ainsi, ma fille m'est trop chère.
+Ma bonté sait borner l'autorité de père ;
+Le ciel nous a donné des droits sur nos enfants,
+Pour être leurs soutiens, et non pas leurs tyrans.
+
+-*who_lebaron
+Monsieur me rend l'espoir d'entrer dans sa famille.
+
+**** *book_ *id_V06 *act_V *date_1740
+
+-*who_m.deforlis
+Lisette ?
+
+-*who_lisette
+      Quoi, monsieur ?
+
+-*who_m.deforlis
+      Allez dire à ma fille
+Que je veux lui parler, et qu'elle vienne ici.
+
+**** *book_ *id_V07 *act_V *date_1740
+
+-*who_lebaron
+Vous me rendez la vie en agissant ainsi.
+
+-*who_m.deforlis
+Faites en ma présence éclater moins de zèle ;
+Je ne fais rien pour vous, je ne regarde qu'elle.
+
+**** *book_ *id_V08 *act_V *date_1740
+
+-*who_lemarquis
+Je viens vous détromper sur le gouvernement.
+Vous l'obtenez, monsieur, par accommodement.
+
+-*who_m.deforlis
+Pour un autre j'ai cru la chose décidée.
+
+-*who_lemarquis
+La place était promise et non pas accordée.
+Mon oncle, qui parlait pour votre concurrent,
+Avec lui vient de prendre un autre arrangement.
+Il lui fait obtenir, monsieur, à mon instance,
+La vôtre qui se trouve être à sa bienséance,
+Et d'une pension on y joint le bienfait.
+De l'autre en même temps vous avez le brevet.
+
+-*who_m.deforlis
+Je ne saurais, monsieur, dans cette circonstance,
+Vous marquer trop ma joie et ma reconnaissance.
+
+-*who_lebaron
+Par cet heureux moyen voilà tout rétabli,
+Et monsieur du passé doit m'accorder l'oubli.
+
+-*who_m.deforlis
+Non, au marquis tout seul je dois ce bien suprême.
+
+-*who_lebaron
+Mais il est mon ami, cela revient au même.
+
+-*who_m.deforlis
+Loin de parler pour vous, son procédé plutôt
+Fait du vôtre, monsieur, la critique tout haut.
+Tous mes efforts n'ont pu faire agir votre zèle ;
+Le sien m'a prévenu, voilà votre modèle.
+
+**** *book_ *id_V09 *act_V *date_1740
+
+-*who_lacomtesse
+L'hymen est-il rompu, baron infortuné ?
+
+-*who_m.deforlis
+Non ; mais je le voudrais.
+
+-*who_lacomtesse
+      Quel bien inopiné !
+Je vois de mon côté passer le cher beau-père.
+
+-*who_lebaron
+Sa fille, qui paraît, me sera moins contraire.
+
+**** *book_ *id_V10 *act_V *date_1740
+
+-*who_m.deforlis
+Ma fille, approche-toi, viens ; c'est ici l'instant
+Pour toi le plus critique et le plus important.
+J'apprends que le baron a su toucher ton âme ;
+Je ne puis te blâmer ni condamner ta flamme.
+Par mon choix j'ai moi-même autorisé tes feux,
+Prononce : je te laisse arbitre de tes voeux.
+
+-*who_lisette
+Mais, c'est parler vraiment en père raisonnable.
+
+-*who_lebaron
+J'attends de votre bouche un arrêt favorable.
+Déclarez mon bonheur.
+
+-*who_lemarquis
+      Quoique sûr d'être aimé,
+Je n'ai pas son audace, et je suis alarmé.
+
+-*who_lebaron
+Que vois-je ! Vous restez dans un profond silence,
+Quand vous pouvez d'un mot combler notre espérance.
+Eh quoi donc ! Cet aveu doit-il tant vous coûter ?
+Vous n'avez simplement ici qu'à répéter
+Ce que vous avez eu la bonté de m'écrire,
+Et ce que je ne puis me lasser de relire
+Dans ce tendre billet, si cher à mon ardeur.
+Ah ! N'en rougissez pas, il vous fait trop d'honneur.
+
+-*who_lacomtesse
+Quel est donc cet écrit ?
+
+-*who_lebaron
+      Une lettre charmante.
+
+-*who_lacomtesse
+Donnez-moi, de la voir je suis impatiente.
+
+-*who_m.deforlis
+Cette lettre, ma fille, a nommé ton époux :
+L'homme à qui tu l'écris...
+
+-*who_lebaron
+      Est seul digne de vous.
+N'en convenez-vous pas, ainsi que votre père ?
+
+-*who_lucile
+Oui, monsieur, j'en conviens.
+
+-*who_lebaron
+      Par cet aveu sincère
+Sa bouche clairement prononce en ma faveur.
+
+-*who_lucile
+Je n'ai point prononcé, vous vous trompez, monsieur.
+
+-*who_lebaron
+Eh quoi ! N'est-ce pas moi que vous venez d'élire ?
+Ce billet avoué suffit.
+
+-*who_lucile
+      Non.
+
+-*who_lebaron
+      Qu'est-ce à dire ?
+
+-*who_lacomtesse
+Mais, qu'il n'est pas pour vous ; c'est pour un homme absent.
+
+-*who_lebaron
+Madame...
+
+-*who_lacomtesse
+      Mais, Monsieur, écoutez un moment.
+"L'abattement où m'a plongée la crainte d'être
+Oubliée de vous, a dû donner de moi cette idée. "
+"Oubliée !" Est-ce vous, qui l'obsédez sans cesse ?
+
+-*who_lebaron
+Pardon, j'ai donné lieu moi seul à sa tristesse.
+
+-*who_lacomtesse
+"J'ai donné lieu !" Tenez, répondez à ceci.
+"Depuis que je vous vois ici, votre présence
+Me jette dans un trouble qui sert à la confirmer. "
+Est-ce pour vous ? "Depuis que je vous vois ici."
+Vous radotez, mon cher.
+
+-*who_lebaron
+      Le marquis sait lui-même...
+
+-*who_lacomtesse
+Qu'il parle donc ; il montre un embarras extrême.
+
+-*who_m.deforlis
+Ma fille, le marquis saurait-il ton secret ?
+Réponds-moi sans détour.
+
+-*who_lucile
+      Oui, mon père, il le sait.
+
+-*who_lacomtesse
+Puisque vous le savez, il faut nous en instruire.
+
+-*who_lemarquis
+C'est à mademoiselle, et je ne dois rien dire.
+
+-*who_lebaron
+Une telle réserve est fort peu de saison.
+
+-*who_lacomtesse
+Elle jette mon coeur dans un juste soupçon :
+La petite convient qu'il sait tout le mystère ;
+Il se trouble comme elle, et s'obstine à se taire.
+Je gagerais qu'il est cet amant fortuné.
+C'est lui.
+
+-*who_m.deforlis
+      Je le voudrais.
+
+-*who_lucile
+      Madame a deviné.
+
+-*who_lebaron
+Comment ! Ce n'est pas moi ?
+
+-*who_lucile
+      Non, c'est une méprise.
+
+-*who_lebaron
+La lettre...
+
+-*who_lucile
+      Était pour lui. Vous me l'avez surprise.
+
+-*who_lebaron
+Le coup est foudroyant !
+
+-*who_lisette
+      Il l'a bien mérité.
+
+-*who_lacomtesse
+Vous n'êtes pas aimé, mon coeur est enchanté.
+
+-*who_m.deforlis
+Que ton choix est louable, et digne de me plaire !
+En faisant ton bonheur, il acquitte ton père.
+La place que j'obtiens est un fruit de ses soins.
+
+-*who_lemarquis
+Pour mériter sa main pouvais-je faire moins ?
+
+-*who_lebaron
+Ah ! Marquis, deviez-vous me jouer de la sorte,
+Vous à qui j'ai marqué l'estime la plus forte ?
+
+-*who_lemarquis
+Vous avez malgré moi, combattu mes raisons,
+Et vous m'avez forcé de suivre vos leçons.
+
+-*who_lacomtesse
+De joie en ce moment, je ne tiens point en place !
+Votre hymen est rompu ; quelle heureuse disgrâce !
+
+-*who_m.deforlis
+Sortons de cet hôtel, tout doit nous en bannir.
+Venez, mes chers enfants, je m'en vais vous unir.
+Vous, vous n'avez plus rien qui retienne votre âme,
+Et vous pouvez, monsieur, aller avec madame,
+Entendre concertos, sonates, opéra,
+Et les vacarminis autant qu'il vous plaira.
+
+**** *book_ *id_V11 *act_V *date_1740
+
+-*who_lacomtesse
+Croyez-en ses conseils ; venez, suivez mes traces :
+Fuyez votre maison, et reprenez vos grâces.
+Ne soyez plus ami, ne soyez plus amant.
+Soyez l'homme du jour, et vous serez charmant.

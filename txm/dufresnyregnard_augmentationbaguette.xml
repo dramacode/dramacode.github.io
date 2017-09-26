@@ -1,0 +1,602 @@
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>L’augmentation de la baguette</title>
+        <title type="sub">, comédie en un acte</title>
+        <author born="1655" born_location="Paris" death="1709" death_location="château de grillon, Dourdan" academie="">
+          <surname>Regnard et dufresny</surname>
+        </author>
+        <date>1693</date>
+      </titleStmt>
+      <publicationStmt>
+        <p>publié par Paul FIEVRE, octobre 2011</p>
+        <idno/>
+      </publicationStmt>
+      <sourceDesc>
+        <genre>Comédie</genre>
+        <inspiration>moeurs françaises</inspiration>
+        <structure>Quatre actes</structure>
+        <type>mixte</type>
+        <periode>1691-1700</periode>
+        <taille>0-250</taille>
+        <permalien/>
+        <sources>
+          <source id="1">
+            <author/>
+            <text/>
+          </source>
+        </sources>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="created" when="1693-01-10"/>
+        <date type="issued" when="1693"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 xml:id="I" type="act" n="1">
+        <head/>
+        <div2 xml:id="I01" type="scene" n="1">
+          <head>PROLOGUE DE L’AUGMENTATION DE LA BAGUETTE.<listPerson type="configuration" xml:id="conf1"/></head>
+          <sp xml:id="I01-1" who="ARLEQUIN">
+            <p>
+              <s>Tandis que nos musiciens prendront haleine, il ne vous déplaira pas, messieurs, que je vous fasse un petit conte.</s>
+            </p>
+            <p>
+              <s>Le Cabaretier.</s>
+            </p>
+            <p>
+              <s>CONTE.</s>
+            </p>
+            <l n="1" xml:id="l1">Ces jours gras, un cabaretier, </l>
+            <l n="2" xml:id="l2">Des plus fripons de son métier, </l>
+            <l n="3" xml:id="l3">Avait un muid, pour tout potage, </l>
+            <l n="4" xml:id="l4">D’un bon vin vieux de l’Hermitage. </l>
+            <l n="5" xml:id="l5">Un voisin curieux en voulut un flacon ; </l>
+            <l n="6" xml:id="l6">Les voisins du voisin le trouvèrent si bon, </l>
+            <l n="7" xml:id="l7">Qu’ils en firent tirer mainte et mainte bouteille. </l>
+            <l n="8" xml:id="l8">Mon scélérat, croyant faire merveille, </l>
+            <l n="9" xml:id="l9">Et perpétuer son tonneau, </l>
+            <l n="10" xml:id="l10">Le remplissait de vin nouveau. </l>
+            <l n="11" xml:id="l11">Les fins gourmets entraient en danse, </l>
+            <l n="12" xml:id="l12">L’argent venait en abondance ; </l>
+            <l n="13" xml:id="l13">Bref, la pièce eut tant de crédit, </l>
+            <l n="14" xml:id="l14">Qu’il ne fut ni grand ni petit, </l>
+            <l n="15" xml:id="l15">Qui n’en voulût boire chopine. </l>
+            <l n="16" xml:id="l16">Mon matois faisait bonne mine ; </l>
+            <l n="17" xml:id="l17">Plus le vin vieux il débitait, </l>
+            <l n="18" xml:id="l18">Et plus le vin nouveau marchait, </l>
+            <l n="19" xml:id="l19">Espérant, par ce stratagème, </l>
+            <l n="20" xml:id="l20">S’engraisser pendant le carême : </l>
+            <l n="21" xml:id="l21">Mais par malheur le bon vin vieux s’usa, </l>
+            <l n="22" xml:id="l22">Et le nouveau du tonneau s’empara ; </l>
+            <l n="23" xml:id="l23">Tant qu’à la fin, pour finir mon histoire, </l>
+            <l n="24" xml:id="l24">Personne n’en voulut plus boire. </l>
+            <p>
+              <s>À l’application. </s>
+            </p>
+            <l n="25" xml:id="l25">Nous sommes, ne vous en déplaise, </l>
+            <l n="26" xml:id="l26">Ce fripon de cabaretier, </l>
+            <l n="27" xml:id="l27">Qui depuis trois mois, à notre aise, </l>
+            <l n="28" xml:id="l28">Faisant valoir notre métier, </l>
+            <l n="29" xml:id="l29">Allongeons notre comédie, </l>
+            <l n="30" xml:id="l30">Et qui mêlons dans le tonneau </l>
+            <l n="31" xml:id="l31">Quelques pintes de vin nouveau, </l>
+            <l n="32" xml:id="l32">Pour vous le faire enfin boire jusqu’à la lie. </l>
+            <l n="33" xml:id="l33">Le parterre, qui seul règle notre destin, </l>
+            <l n="34" xml:id="l34">Est ce fin gourmet de voisin </l>
+            <l n="35" xml:id="l35">Qui nous attire l’abondance ; </l>
+            <l n="36" xml:id="l36">Mais aussi, par reconnaissance, </l>
+            <l n="37" xml:id="l37">Pour quinze sous nous lui donnons </l>
+            <l n="38" xml:id="l38">Pareil vin qu’au théâtre un écu nous vendons. </l>
+            <l n="39" xml:id="l39">Nous allons vous donner encor quelques bouteilles </l>
+            <l n="40" xml:id="l40">De ce râpé par les oreilles : </l>
+            <l n="41" xml:id="l41">Messieurs, nous serons trop heureux </l>
+            <l n="42" xml:id="l42">Si le vin nouveau passe à la faveur du vieux. </l>
+          </sp>
+        </div2>
+        <div2 xml:id="I02" type="scene" n="2">
+          <head>SCÈNE I. Bélise, Roger, Le Druide.<listPerson type="configuration" xml:id="conf2"/></head>
+          <sp xml:id="I02-1" who="BELISE">
+            <p>
+              <s>Holà ! </s>
+              <s>Ho, quelqu’un ! </s>
+              <s>Portier, limonadier, ouvreuses de loges ! </s>
+              <s>Depuis trois mois on ne saurait trouver à se placer dans cet hôtel de Bourgogne.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-2" who="ROGER">
+            <p>
+              <s>Voilà une de ces bouteilles de vin que je vous avais promises ; mais elle me paraît bien aigre. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-3" who="BELISE">
+            <p>
+              <s>Bonjour, monsieur ; jouez-vous encore aujourd’hui votre Baguette de Vulcain ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-4" who="ROGER">
+            <p>
+              <s>Si nous la jouons ? </s>
+              <s>Je le crois, ma foi ; et il ne tiendra qu’à ces messieurs </s>
+            </p>
+            <p>
+              <s>Que nous ne la jouions encore trois mois. </s>
+              <s>Apparemment, madame, que vous cherchez votre mari ? </s>
+              <s>Est-il dans le cas de la baguette ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-5" who="BELISE">
+            <p>
+              <s>Moi, un mari ? </s>
+              <s>Moi, chercher mari ? </s>
+              <s>Est-ce que j’ai l’air d’une femme à mari ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-6" who="ROGER">
+            <p>
+              <s>Je vous demande pardon ; je vois bien que vous n’êtes qu’une femme à galant. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-7" who="BELISE">
+            <p>
+              <s>Un bel esprit comme moi, me soupçonner de dégénérer jusqu’aux êtres matériels ! </s>
+              <s>Apprenez, mon ami, que j’ai épousé l’antique, et que je n’aurai jamais d’autres maris que Juvénal, Horace, Virgile, et surtout le bon homme Homère. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-8" who="ROGER">
+            <p>
+              <s>Vous avez fait là de belles épousailles ! </s>
+              <s>Avec de pareils maris, vous aurez bien de la peine à réparer les torts que la guerre cause au genre humain. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-9" who="BELISE">
+            <p>
+              <s>Assez de filles se chargeront de ce soin-là ; pour moi, je passe mes jours avec les livres, et je ne m’endors point que je n’aie une douzaine d’auteurs anciens sous mon chevet. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-10" who="ROGER">
+            <p>
+              <s>On ne dispute pas des goûts ; mais je connais des femmes aussi spirituelles que vous qui dorment plus volontiers avec des modernes. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-11" who="BELISE">
+            <p>
+              <s>On dit que dans votre comédie vous faites une comparaison du vieux temps avec le nouveau. </s>
+              <s>Cela n’aurait-il pas quelque rapport avec le parallèle des anciens et des modernes, qui partage à présent tous nos beaux esprits ? </s>
+              <s>Quel parti prenez-vous dans cette dispute-là, vous autres comédiens ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-12" who="ROGER">
+            <p>
+              <s>Mais, madame, je vous en fais juge vous-même. </s>
+              <s>En mille ans, les auteurs anciens ne nous produiraient pas un verre d’eau ; et ce sont les modernes, comme vous voyez, qui font bouillir notre marmite. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-13" who="BELISE">
+            <p>
+              <s>Si je savais que vous parlassiez sérieusement, et que vous prissiez le parti des modernes... </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-14" who="ROGER">
+            <p>
+              <s>Eh ! </s>
+              <s>Que feriez-vous ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-15" who="BELISE">
+            <p>
+              <s>Ce que je ferais ! </s>
+              <s>Je troublerais vos spectacles, je louerais des gens pour siffler, et je vous empêcherais de parler français, jusqu’à ce que Pasquariel eût été reçu, pour son beau langage, à l’Académie. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-16" who="ROGER">
+            <p>
+              <s>L’herbe aurait tout le temps de croître dans le parterre. </s>
+              <s>Mais vous entrez bien chaudement dans les intérêts de l’antiquité. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-17" who="BELISE">
+            <p>
+              <s>Si j’y entre chaudement ! </s>
+              <s>Vous ne savez donc pas que je suis le flambeau fatal qui vient d’allumer la guerre parmi les gens de lettres ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-18" who="ROGER">
+            <p>
+              <s>Je ne croyais pas que cette nation-là fût belliqueuse. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-19" who="BELISE">
+            <p>
+              <s>Que dites-vous ? </s>
+              <s>Dans le dernier combat, trois de nos chefs furent blessés à mort d’un seul coup d’épigramme. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-20" who="ROGER">
+            <p>
+              <s>Si on charge une fois les sonnets à cartouche, il en demeurera bien sur le carreau : les Invalides ne suffiront pas pour les blessés ; il en faudra mener quelques uns aux Petites-Maisons. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-21" who="BELISE">
+            <p>
+              <s>Je soutiendrai les anciens envers et contre tous. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-22" who="ROGER">
+            <p>
+              <s>J’ai à vous dire qu’il est inutile de vous tant échauffer ; cette guerre-là est terminée. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-23" who="BELISE">
+            <p>
+              <s>Cela ne se peut. </s>
+              <s>On ne fait rien à l’Académie sans me consulter. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-24" who="ROGER">
+            <p>
+              <s>Je ne sais pas si cela se peut ; mais je sais bien que voilà l’arrêt que je porte dans ma poche. </s>
+              <s>Lisez. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-25" who="BELISE">
+            <p>
+              <s>Voyons.</s>
+            </p>
+            <l n="43" xml:id="l43">Ces jours passes, en bonne compagnie, </l>
+            <l n="44" xml:id="l44">Trois héros de l’Académie </l>
+            <l n="45" xml:id="l45">S’échauffaient sur le différend </l>
+            <l n="46" xml:id="l46">Qui tient tout Paris en suspens. </l>
+            <l n="47" xml:id="l47">Des modernes auteurs l’un prenait la défense ; </l>
+            <l n="48" xml:id="l48">L’autre des anciens soutenait les raisons : </l>
+            <l n="49" xml:id="l49">Le plus savant des trois prit en main la balance ; </l>
+            <l n="50" xml:id="l50">Et moi, dit-il, je suis pour les jetons. </l>
+            <p>
+              <s>Oh ! </s>
+              <s>Je ne n’arrête pas à cette décision-là. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-26" who="ROGER">
+            <p>
+              <s>Voilà le Druide, qui est un antique, qui vous en donnera une autre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-27" who="LEDRUIDE">
+            <l n="51" xml:id="l51">En vain une fille, à votre âge, </l>
+            <l n="52" xml:id="l52">Donne son suffrage </l>
+            <l n="53" xml:id="l53">Pour l’antiquité, </l>
+            <l n="54" xml:id="l54">Son esprit a beau faire, </l>
+            <l n="55" xml:id="l55">Son cœur plus sincère </l>
+            <l n="56" xml:id="l56">Décide pour la nouveauté.</l>
+          </sp>
+          <sp xml:id="I02-28" who="ROGER">
+            <l n="57" xml:id="l57">Juvénal, Horace et Virgile,</l>
+            <l n="58" xml:id="l58">En bon français, sont des nigauds ;</l>
+            <l n="59" xml:id="l59">Il vous faut un mari, la fille,</l>
+            <l n="60" xml:id="l60">Mais un mari de chair et d’os.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="I03" type="scene" n="2">
+          <head>SCÈNE II. Angélique, Roger, Le Druide. <listPerson type="configuration" xml:id="conf3"/></head>
+          <sp xml:id="I03-1" who="ANGELIQUE">
+            <p>
+              <s>Ah, monsieur l’enchanteur ! </s>
+              <s>J’ai recours à votre sorcellerie. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-2" who="ROGER">
+            <p>
+              <s>Voilà un jeune tendron qui ne serait pas mauvais à enchanter, et je mêlerais volontiers ma magie noire avec sa magie blanche. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-3" who="ANGELIQUE">
+            <p>
+              <s>On dit que vous avez réveillé une fille qui dormait depuis deux cents ans. </s>
+              <s>Ne pourriez-vous point endormir ma mère pour la moitié de ce temps-là ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-4" who="ROGER">
+            <p>
+              <s>Endormir une mère ! </s>
+              <s>J’aimerais mieux avoir dix maris à bercer. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-5" who="ANGELIQUE">
+            <p>
+              <s>Faites-la donc dormir seulement deux ou trois jours, pour me donner le temps de me marier sans lui en rien dire. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-6" who="ROGER">
+            <p>
+              <s>Le bon naturel de fille ! </s>
+              <s>Hélas ! </s>
+              <s>Une pauvre petite mineure qui cherche à s’émanciper ! </s>
+              <s>Cela me fend le coeur ! </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-7" who="ANGELIQUE">
+            <p>
+              <s>Oh ! </s>
+              <s>Je l’en avertirai, sitôt qu’elle sera éveillée. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-8" who="ROGER">
+            <p>
+              <s>Cela est dans l’ordre. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-9" who="ANGELIQUE">
+            <p>
+              <s>Il n’y a plus moyen de durer avec cette femme-là : elle veut que je vive dans la régularité où l’on était de son temps ; et cela ne s’accommode pas avec la réforme de celui-ci. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-10" who="ROGER">
+            <p>
+              <s>Je vous sais bon gré, à votre âge, d’aimer la réforme. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-11" who="ANGELIQUE">
+            <p>
+              <s>Elle veut m’habiller à sa fantaisie. </s>
+              <s>Le dernier corps qu’elle m’a fait faire me va jusqu’au menton ; et vous savez qu’une fille aimerait autant n’avoir point de gorge que de ne la pas montrer. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-12" who="ROGER">
+            <p>
+              <s>C’est que les filles d’aujourd’hui aiment le grand air. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-13" who="ANGELIQUE">
+            <p>
+              <s>Elle me contrôle sur tout. </s>
+              <s>Croiriez-vous qu’elle me défend de manger d’aucun ragoût ? </s>
+              <s>Elle dit qu’autrefois les femmes ne vivaient que de fruit et de laitage. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-14" who="ROGER">
+            <p>
+              <s>C’est à peu près la même chose à présent, excepté que le fruit que mangent les dames est un peu plus épicé ; et elles ont trouvé le moyen de se rafraîchir avec des jambons de Mayence, des mortadelles et des cervelas de la rue des Barres. </s>
+              <s>Pour leur laitage, c’est ordinairement du vin de Champagne comme il sort du tonneau. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-15" who="ANGELIQUE">
+            <p>
+              <s>Du vin de Champagne ! </s>
+              <s>Fi donc ! </s>
+              <s>Cela gâte le teint ; et je n’en bois plus depuis que ma cousine m’a appris à boire du ratafia. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-16" who="ROGER">
+            <p>
+              <s>Vous avez là une jolie cousine. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-17" who="ANGELIQUE">
+            <p>
+              <s>Vous ne voulez donc point endormir ma mère ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-18" who="ROGER">
+            <p>
+              <s>Non ; car dans la colère où je suis contre elle, si je l’endormais une fois, elle courrait risque de ne s’éveiller de sa vie. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-19" who="ANGELIQUE">
+            <p>
+              <s>Apprenez-moi donc ce qu’il faut faire pour l’empêcher de gronder. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-20" who="ROGER">
+            <p>
+              <s>Voilà le Druide, qui est homme expert dans ces cas-là ; il va vous satisfaire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-21" who="LEDRUIDE">
+            <l n="61" xml:id="l61">Mère qui gronde, </l>
+            <l n="62" xml:id="l62">Qui tempête et qui fronde, </l>
+            <l n="63" xml:id="l63">Fait son emploi dans le monde </l>
+            <l n="64" xml:id="l64">Quand elle est sur son retour. </l>
+            <l n="65" xml:id="l65">Fille qui la laisse dire, </l>
+            <l n="66" xml:id="l66">Et qui n’en fait que rire, </l>
+            <l n="67" xml:id="l67">Fait sa charge à son tour.</l>
+          </sp>
+          <sp xml:id="I03-22" who="ROGER">
+            <l n="68" xml:id="l68">Quand mère sauvage </l>
+            <l n="69" xml:id="l69">Dit dans ses leçons </l>
+            <l n="70" xml:id="l70">Que fille a votre âge </l>
+            <l n="71" xml:id="l71">Doit fuir les garçons, </l>
+            <l n="72" xml:id="l72">Vous devez répondre : </l>
+            <l n="73" xml:id="l73">C’est ce que j’ai résolu </l>
+            <l n="74" xml:id="l74">Lanturelu, lanturelu, lanturelu. </l>
+          </sp>
+        </div2>
+        <div2 xml:id="I04" type="scene" n="3">
+          <head>SCÈNE III. Nigaudin, La Femme de Nigaudin, personnage muet, Roger, Le Druide. <listPerson type="configuration" xml:id="conf4"/></head>
+          <sp xml:id="I04-1" who="NIGAUDIN">
+            <l n="75" xml:id="l75">Bonjour, monsieur. Quand je vous vois, </l>
+            <l n="76" xml:id="l76">Je ne puis m’empêcher de rire.</l>
+          </sp>
+          <sp xml:id="I04-2" who="ROGER">
+            <l n="77" xml:id="l77">M’as-tu déjà vu quelquefois ? </l>
+          </sp>
+          <sp xml:id="I04-3" who="NIGAUDIN">
+            <l n="78" xml:id="l78">Par ma foi, je ne sais qu’en dire. </l>
+            <l n="79" xml:id="l79">Or donc, pour revenir à mon premier discours... </l>
+            <l n="80" xml:id="l80">Mais vous m’interrompez toujours.</l>
+          </sp>
+          <sp xml:id="I04-4" who="ROGER">
+            <p>
+              <s>J’aurais vraiment grand tort ; la harangue est jolie. </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-5" who="NIGAUDIN">
+            <l n="81" xml:id="l81">Vous saurez donc, monsieur, qu’on a sa fantaisie ; </l>
+            <l n="82" xml:id="l82">Tantôt on est garçon, tantôt on ne l’est plus. </l>
+            <l n="83" xml:id="l83">Il n’est rien tel que les cocus ; </l>
+            <l n="84" xml:id="l84">Car ils le sont toute leur vie.</l>
+          </sp>
+          <sp xml:id="I04-6" who="ROGER">
+            <l n="85" xml:id="l85">Demandez-le plutôt à monsieur que voilà. </l>
+          </sp>
+          <sp xml:id="I04-7" who="NIGAUDIN">
+            <l n="86" xml:id="l86">Vous voyez bien cette poulette-là, </l>
+            <l n="87" xml:id="l87">C’est ma femme, quoi qu’on en dise. </l>
+            <l n="88" xml:id="l88">Savez-vous pourquoi je l’ai prise ? </l>
+          </sp>
+          <sp xml:id="I04-8" who="ROGER">
+            <l n="89" xml:id="l89" part="I">Pour son bien, ses parents ? </l>
+          </sp>
+          <sp xml:id="I04-9" who="NIGAUDIN">
+            <l part="F">Non, c’est pour sa beauté.</l>
+          </sp>
+          <sp xml:id="I04-10" who="ROGER">
+            <l n="90" xml:id="l90">Qui diable s’en serait douté ? </l>
+          </sp>
+          <sp xml:id="I04-11" who="NIGAUDIN">
+            <l n="91" xml:id="l91">Mais regardez-la bien ; c’est elle </l>
+            <l n="92" xml:id="l92">Qui me fait bouillir la cervelle : </l>
+            <l n="93" xml:id="l93">Je croyais qu’au bout de neuf mois </l>
+            <l n="94" xml:id="l94">Une femelle au moins un enfant devait rendre.</l>
+          </sp>
+          <sp xml:id="I04-12" who="ROGER">
+            <l n="95" xml:id="l95">Combien t’a-t-elle fait attendre ? </l>
+            <l n="96" xml:id="l96" part="I">Un an ? </l>
+          </sp>
+          <sp xml:id="I04-13" who="NIGAUDIN">
+            <l part="M">Oh !</l>
+          </sp>
+          <sp xml:id="I04-14" who="ROGER">
+            <l part="M">Deux ans ?</l>
+          </sp>
+          <sp xml:id="I04-15" who="NIGAUDIN">
+            <l part="M">Oh ! </l>
+          </sp>
+          <sp xml:id="I04-16" who="ROGER">
+            <l part="M">Dix ans ? </l>
+          </sp>
+          <sp xml:id="I04-17" who="NIGAUDIN">
+            <l part="F">Oh ! Que nenni. </l>
+            <l n="97" xml:id="l97">Elle a mis tout au plus quatre mois et demi, </l>
+            <l n="98" xml:id="l98">Et je crains quelque stratagème.</l>
+          </sp>
+          <sp xml:id="I04-18" who="ROGER">
+            <l n="99" xml:id="l99">C’est bien peu ; mais avec une femme qu’on aime, </l>
+            <l n="100" xml:id="l100">Il ne faut pas entrer dans un calcul bourgeois, </l>
+            <l n="101" xml:id="l101">Ni prendre garde à trois ou quatre mois.</l>
+          </sp>
+          <sp xml:id="I04-19" who="NIGAUDIN">
+            <l n="102" xml:id="l102">C’est pourtant le hic de l’affaire. </l>
+            <l n="103" xml:id="l103">C’est ce qui fait que bien souvent </l>
+            <l n="104" xml:id="l104">On n’est pas père d’un enfant, </l>
+            <l n="105" xml:id="l105">Quoiqu’on soit mari de sa mère.</l>
+          </sp>
+          <sp xml:id="I04-20" who="ROGER">
+            <l n="106" xml:id="l106">Tu n’éprouves pas seul un pareil accident ; </l>
+            <l n="107" xml:id="l107">Et si l’on comptait bien l’absence ou la présence </l>
+            <l n="108" xml:id="l108">De la plupart de nos maris, </l>
+            <l n="109" xml:id="l109">On trouverait que dans Paris </l>
+            <l n="110" xml:id="l110">Il serait peu d’enfants dont la naissance </l>
+            <l n="111" xml:id="l111">Ne vînt ou trop tôt ou trop tard, </l>
+            <l n="112" xml:id="l112">À moins que l’on ne fît un almanach bâtard.</l>
+          </sp>
+          <sp xml:id="I04-21" who="NIGAUDIN">
+            <l n="113" xml:id="l113">Vous ne croyez donc pas que la progéniture </l>
+            <l n="114" xml:id="l114">Soit tout à fait de ma manufacture ? </l>
+          </sp>
+          <sp xml:id="I04-22" who="ROGER">
+            <l n="115" xml:id="l115">Il faut toujours s’en faire honneur, </l>
+            <l n="116" xml:id="l116">Et peut-être en es-tu l’auteur. </l>
+            <l n="117" xml:id="l117">Il est des enfants vifs qui cherchent la lumière </l>
+            <l n="118" xml:id="l118">Presque aussitôt qu’ils sont conçus ; </l>
+            <l n="119" xml:id="l119">Et les femmes d’esprit sur pareille matière </l>
+            <l n="120" xml:id="l120">Font aisément des impromptus.</l>
+          </sp>
+          <sp xml:id="I04-23" who="NIGAUDIN">
+            <l n="121" xml:id="l121">Cet enfant est venu, tout franc, trop à la hâte, </l>
+            <l n="122" xml:id="l122">Et je crois n’avoir pas mis la main à la pâte.</l>
+          </sp>
+          <sp xml:id="I04-24" who="ROGER">
+            <l n="123" xml:id="l123" part="I">Mais quel âge avait-il ? </l>
+          </sp>
+          <sp xml:id="I04-25" who="NIGAUDIN">
+            <l part="F">Je vous l’ai déjà dit ; </l>
+            <l n="124" xml:id="l124" part="I">Quatre mois et demi. </l>
+          </sp>
+          <sp xml:id="I04-26" who="ROGER">
+            <l part="F">Qu’est-ce qu’il me lanterne ? </l>
+            <l n="125" xml:id="l125">Ton enfant est produit à terme. </l>
+            <l n="126" xml:id="l126">À quoi bon faire tant de bruit ? </l>
+            <l n="127" xml:id="l127">Quatre mois et demi de jour, autant de nuit ; </l>
+            <l n="128" xml:id="l128">À neuf mois le total se monte. </l>
+            <l n="129" xml:id="l129">Hé bien, n’est-ce pas là ton compte ? </l>
+          </sp>
+          <sp xml:id="I04-27" who="NIGAUDIN">
+            <l n="130" xml:id="l130">Vous avez raison cette fois. </l>
+            <l n="131" xml:id="l131">Je suis bien plus heureux que je ne le pensais. </l>
+            <l n="132" xml:id="l132">Viens, ma pouponne ; </l>
+            <l n="133" xml:id="l133">Viens, ma bouchonne, </l>
+            <l n="134" xml:id="l134">Que je répare ton honneur.</l>
+          </sp>
+          <sp xml:id="I04-28" who="ROGER">
+            <p>
+              <s>Le Druide va te calmer l’esprit par un petit couplet de chanson.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-29" who="LEDRUIDE">
+            <l n="135" xml:id="l135">Vous n’avez pas besoin qu’on vous console ; </l>
+            <l n="136" xml:id="l136">Elle a tout l’air d’une femme d’honneur : </l>
+            <l n="137" xml:id="l137">J’en jurerais presque sur sa parole ; </l>
+            <l n="138" xml:id="l138">Mais j’aime mieux jurer sur sa laideur. </l>
+          </sp>
+          <sp xml:id="I04-30" who="ROGER">
+            <l n="139" xml:id="l139">Au temps passé, </l>
+            <l n="140" xml:id="l140">On n’achetait que les belles ; </l>
+            <l n="141" xml:id="l141">Mais tout a changé, </l>
+            <l n="142" xml:id="l142">Toureloure, loure, loure ; </l>
+            <l n="143" xml:id="l143">Il ne reste point de bête au marché. </l>
+          </sp>
+        </div2>
+        <div2 xml:id="I05" type="scene" n="4">
+          <head>DIVERTISSEMENT. <listPerson type="configuration" xml:id="conf5"/></head>
+          <sp xml:id="I05-1" who="LEDRUIDE">
+            <l n="144" xml:id="l144">La verte jeunesse, </l>
+            <l n="145" xml:id="l145">Qui tourne à tout vent, etc. </l>
+          </sp>
+          <sp xml:id="I05-2" who="BELISE">
+            <l n="146" xml:id="l146">Pour moi l’hyménée </l>
+            <l n="147" xml:id="l147">N’a point de douceurs ; </l>
+            <l n="148" xml:id="l148">Je suis destinée </l>
+            <l n="149" xml:id="l149">À l’amour des auteurs : </l>
+            <l n="150" xml:id="l150">Pour eux je veux vivre ; </l>
+            <l n="151" xml:id="l151">Car dans ce temps-ci, </l>
+            <l n="152" xml:id="l152">Il n’est point de livre </l>
+            <l n="153" xml:id="l153">Si froid qu’un mari.</l>
+          </sp>
+          <sp xml:id="I05-3" who="ANGELIQUE">
+            <l n="154" xml:id="l154">Ma mère à mon âge, </l>
+            <l n="155" xml:id="l155">À ce que l’on dit, </l>
+            <l n="156" xml:id="l156">Fit son mariage </l>
+            <l n="157" xml:id="l157">À fort petit bruit ; </l>
+            <l n="158" xml:id="l158">Je puis, ce me semble, </l>
+            <l n="159" xml:id="l159">Par bonnes raisons, </l>
+            <l n="160" xml:id="l160">Suivre son exemple, </l>
+            <l n="161" xml:id="l161">Non pas ses leçons. </l>
+          </sp>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>

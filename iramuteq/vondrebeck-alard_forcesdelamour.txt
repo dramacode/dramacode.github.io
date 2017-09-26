@@ -1,0 +1,240 @@
+
+
+**** *book_ *id_I01 *act_I *date_1678
+
+-*who_merlin
+Amour,amour, chien d'amour, coquin d'amour, maraud d'amour, quoi !
+Jamais de repos !
+Dieux !
+Faut-il être né sous une planète si malheureuse, pour être né valet, et valet d'un maître plus diable que le diable ; qui ne passe sa vie et son temps qu'à lire des grammaires, qui n'a pour divertissement que des sorciers.
+Pour son manger, les ragoûts sont friands : vipères, crapauds et crocodiles.
+Ce ne serait que demi-mal ; mais il est, par-dessus ces belles qualités, amoureux.
+Il aime une bergère ; mais il n'a pu jusqu'ici percer le coeur de cette pauvre brebis.
+Elle n'a, ma foi, pas tout le tort, car si une fois il s'en était rendu le maître, elle n'entendrait pour toute musique que hurlements ; ses beaux yeux ne verraient que Démons, que Furies et qu'Enfer, et ses belles dents d'ivoire ne seraient occupées qu'à ronger des aspics et des couleuvres.
+La seule pensée m'en fait frémir, car il me semble que je suis entouré de ces messieurs.
+En voilà un qui me prie à dîner : ah !
+Monsieur le crapaud, je vous remercie de tout mon coeur, je n'ai nul appétit.
+En voici un autre qui m'invite à la promenade...
+Monsieur Astarolh, je vous rends mille grâces ; mon médecin m'a défendu l'exercice.
+En voici un autre : c'est un des valets de chambre de mon maître.
+J'ai trop tardé, il faut chercher Grésinde et m'acquitter de la commission que le magicien m'a donnée.
+
+**** *book_ *id_I02 *act_I *date_1678
+
+-*who_gresinde
+M'apportez-vous quelque bonne nouvelle ?
+
+-*who_merlin
+Entre deux.
+
+-*who_gresinde
+Comment !
+Zoroastre n'est pas guéri de son extravagante passion ?
+
+-*who_merlin
+C'est-à-dire qu'il est gâté, plus empesté et plus amoureux que jamais de votre belle et charmante fressure.
+
+-*who_gresinde
+Dis-moi mon cher Merlin, est-il possible que tu m'abandonnes, et que tu ne fasses pas tous tes efforts pour me délivrer de cet importun ?
+
+-*who_merlin
+Voulez-vous que je vous parle net : Mon maître est mon maître, et ses démons sont plus diables que les miens.
+Quand je prends la liberté de lui dire qu'il vaudrait mieux qu'il aimât une magicienne qu'une bergère, parce que, ce me semble, la garniture en serait mieux assortie, si vous étiez, témoin, aimable Grésinde, des contorsions et des grimaces que mon magicien fait, vous en seriez surprise ; et si je m'obstine à vouloir vous servir, les coups de bâton se mettent de la partie, et je suis régalé comme un enfant de bonne maison.
+
+-*who_gresinde
+Cela n'est rien ; prends patience jusqu'au bout : je ne serai point ingrate.
+
+-*who_merlin
+Mes épaules sont à votre service autant qu'il leur plaira ; mais quand elles seront bien lasses et bien fatiguées, vous trouverez bon, s'il vous plaît, que je me dispense de parler en votre faveur.
+
+-*who_gresinde
+Dieu !
+Que vois-je !
+Miséricorde !
+Amour, prends pitié de mes douleurs, et sauve-moi de tomber entre les mains de Zoroastre que je hais plus que la mort.
+
+-*who_merlin
+Ah !
+Ma foi, me voilà étrillé comme il faut.
+Ce sont les domestiques de mon maître, qui lui servent d'espions, et qui vont en votre présence me donner de fortes et vigoureuses assurances de celle vérité.
+Que je serai heureux, s'ils ne me rompent que deux ou trois côtes !
+Ah !
+Messieurs, doucement, je vous prie ; comme camarade, épargnez la bastonnade...
+Songez à vous, bergère, mon maître vous invite ce soir à un divertissement qu'il vous a préparé ; faites-lui bonne mine ; contraignez-vous, et si le coeur ne vous dit rien pour lui, dussé-je être assommé, je vous servirai de mon reste.
+
+**** *book_ *id_I03 *act_I *date_1678
+
+-*who_merlin
+Ah !
+Démons impitoyables !
+Si jamais je fais le voyage d'enfer, je vous ferai tous enrager.
+Je romprai les serrures des portes, j'abattrai les murs des Champs-Elysées, je brillerai tous vos lauriers, j'ouvrirai tous les tombeaux, afin que les morts vous donnent cinq cents croquignoles ; je barbouillerai Pluton, je ferai la grimace à Rhadamanthe, je prendrai la place de Minos ; j'insulterai Caron, je briserai toutes ses rames, je ferai que la mer engloutisse tous les passants, et que Caron s'engloutisse lui-même...
+M'en voilà quitte, et j'ai enfin évité la barbarie de ces diablotins.
+Mais j'ai compté sans mon hôte, et je vois bien que je suis destiné à mourir sous le bâton.
+Il faut pourtant défendre ma peau et, par ruse ou par adresse, me tirer de ce mauvais pas.
+Mais comment faire ?
+Il faut que je prenne la place d'un de ces messieurs ; mais à qui m'adresser ?
+C'est à toi que j'en veux ; ta physionomie me déplaît.
+Ôte-toi de là, et fais place à Merlin qui est plus honnête homme que toi.
+Ma foi, je n'y sais plus rien, et je vois bien que mes épaules ni mes bras ne sont pas suffisants pour me tirer d'affaire.
+Il faut encore me rompre le col.
+Ah !
+Maudite magie !
+Maudite magie !
+Maudit destin !
+Sautons et mourons en homme d'honneur.
+
+**** *book_ *id_II01 *act_II *date_1678
+
+-*who_zoroastre
+Merlin, Merlin !
+
+-*who_merlin
+Que vous plaît-il, monsieur ?
+
+-*who_zoroastre
+Va-t'en dans mon cabinet, apporte mon livre, un réchaud, des bouteilles, et tout ce que tu trouveras sur ma table.
+
+-*who_merlin
+Voilà justement un préparant pour régaler Grésinde ; et vous allez travailler à la réjouir de la belle manière.
+Pauvre bergère, que je le plains !
+
+**** *book_ *id_II02 *act_II *date_1678
+
+-*who_zoroastre
+C'est à ce coup, belle Grésinde, c'est à ce coup que je viendrai à bout de vos rigueurs, et les Démons m'ont promis de me servir d'une manière que vous ne pourrez pas vous en dédire.
+Et toi, amour, qui m'as blessé de tes flèches les plus perçantes, achève ton ouvrage, et fais en sorte que ma bergère soit touchée de ma passion.
+Je me suis engagé de la régaler ; je veux tenir ma promesse et enfin vaincre ou périr.
+
+**** *book_ *id_II03 *act_II *date_1678
+
+-*who_merlin
+Voilà tout, monsieur, voilà la boutique, voilà les poteries, voilà les ingrédients.
+Voilà les diables qui te puissent emporter.
+Faites du moins la sauce si bonne que tout le monde en puisse manger.
+
+-*who_zoroastre
+Ne te mets point en peine, je veux le régaler comme il faut, et le faire voir si Zoroastre sait venir à bout de ses desseins...
+La bergère ne s'est pas voulu rendre à mes soumissions ; je veux me servir de la force de ma magie.
+
+-*who_merlin
+Ah !
+Monsieur, que j'ai vu une belle magicienne !
+
+-*who_zoroastre
+Que ma bergère est aimable !
+
+-*who_merlin
+Mais, monsieur, vous ne voulez point entendre...
+
+-*who_zoroastre
+Tais-toi, coquin, ou mes valets de chambre...
+
+-*who_merlin
+Ma foi, vous devez leur payer largement leurs gages, s'ils vous servent aussi exactement en tout ce que vous leur commandez, comme ils ont fait sur mon pauvre dos.
+Ils vous ont obéi amplement, j'en suis caution, à la vérité un peu rudement.
+
+-*who_zoroastre
+C'est pour t'apprendre ton devoir, et tu ne seras pas si longtemps une autre fois à faire ce que je te commande.
+
+-*who_merlin
+On ne peut plus juste ni plus régulièrement.
+Voyez.
+
+**** *book_ *id_II04 *act_II *date_1678
+
+-*who_zoroastre
+Je vous suis obligé, aimable bergère, de votre visite ; c'était à moi à vous aller rendre mes devoirs, pour vous renouveler l'offre de mes services et de mon coeur ; mais vous savez que mes occupations me dispensent de sortir de cette retraite que les Dieux ne m'ont accordée pour mon séjour qu'à la condition que je n'en sortirais jamais : trop heureux, puisque vous avez choisi le même lieu pour y passer solitairement vos jours, et je le serais tout à fait, si vous vouliez faire la félicité de Zoroastre.
+
+-*who_gresinde
+Je vous suis obligée de tous ces sentiments, mais contentez vous de mon estime ; et puisque vous m'avez conviée à me faire voir le divertissement que vous m'avez préparé, je viens pour y prendre part, et j'amène avec moi des bergers qui, par leurs pas, lâcheront à vous donner par avance des marques de ma reconnaissance.
+
+-*who_zoroastre
+Rien n'est si agréable; mais mon amour et mes respects ne pourront-ils point fléchir la dureté de votre coeur ?
+
+-*who_merlin
+Tenez ferme, ou rendez-vous.
+Choisissez, car, par ma foi, vous alliez voir beau jeu ; et surtout gardez-vous bien de manger de notre souper.
+
+-*who_gresinde
+Faites-moi donc voir ce que vous m'avez préparé.
+
+-*who_gresinde
+C'en est assez, je vois bien qu'il faut que je cède à la force, et puisque, pour éviter ma mort, il faut se rendre, je vous prie de chasser vos Démons, et donnez-moi le temps de vous parler.
+
+-*who_zoroastre
+Rentrez dans vos cachots ; allez, je suis content ; la bergère est adoucie, et je suis trop heureux.
+
+-*who_merlin
+Cela s'appelle, en bon français, se faire aimer à coups de bâton.
+
+-*who_zoroastre
+Eh bien, bergère, que faut-il que j'espère ?
+
+-*who_gresinde
+Tout ce que vous voudrez.
+Je ne vous demande que deux heures pour me remettre de ma frayeur.
+Je m'en vais dans ma cabane, et je reviens.
+
+-*who_zoroastre
+Dieux !
+Que je suis content !
+Merlin accompagne ma bergère, et ne la quitte pas.
+
+**** *book_ *id_III01 *act_III *date_1678
+
+-*who_gresinde
+J'ai promis et je me suis engagée contre ma résolution et contre les sentiments de mon coeur.
+Merlin je suis au désespoir ; conseille-moi.
+
+-*who_merlin
+Dites-lui que vous êtes Normande.
+
+-*who_gresinde
+Ne raille point, je te prie, et dis-moi ce que je dois faire.
+
+-*who_merlin
+Tuez-vous, vous en serez débarrassée ; mais non, il vaut mieux être la femme d'un sorcier, que de devenir une habitante du séjour de Pluton.
+
+-*who_gresinde
+Attends, j'ai encore ma ressource à Junon.
+Elle aura pillé de mes maux : elle ne m'a jamais abandonnée, j'en suis sûre.
+Va-t'en trouver le magicien, amuse-le, et je reviens.
+
+**** *book_ *id_III02 *act_III *date_1678
+
+-*who_merlin
+Le voici tout à propos.
+Seigneur, la bergère est fille de parole ; elle l'avait promis, et vous savez que les femmes n'en manquent jamais.
+
+-*who_zoroastre
+Je me suis fait heureux ; mes Démons ont fait leur devoir et m'ont bien servi.
+
+-*who_merlin
+Si vous vouliez, pour mes gages, me faire quelque petit sortilège pour obliger ma maîtresse à aimer le pauvre Merlin, je vous servirais encore de bon coeur six mois, par-dessus le marché.
+
+-*who_zoroastre
+Je le veux bien, et il ne l'en coûtera autre chose que de me bien servir ; suis-moi et tu seras content.
+
+**** *book_ *id_III03 *act_III *date_1678
+
+-*who_gresinde
+Junon m'a promis de me secourir, et je viens pour en recevoir des assurances.
+
+**** *book_ *id_III04 *act_III *date_1678
+
+-*who_zoroastre
+Voici, charmante bergère, voici le jour heureux où mes voeux seront satisfaits.
+Souffrez que je vous embrasse.
+
+-*who_merlin
+Ma foi, pour ce coup, la bergère est plus magicienne que vous ; vous voilà pris, et elle est du moins aussi bien servie.
+
+-*who_zoroastre
+J'en devine la cause, Merlin ; les Dieux se sont mêlés de cette affaire, et je suis puni de la violence que j'ai voulu faire à la bergère.
+
+**** *book_ *id_III05 *act_III *date_1678
+
+-*who_merlin
+Ma foi je m'en tiens à cette maxime : Tout par amitié et rien par force.
+Je renonce au charme que le magicien veut faire pour moi, et je ne veux, pour charmer ma maîtresse, que ma beauté et ma gentillesse.

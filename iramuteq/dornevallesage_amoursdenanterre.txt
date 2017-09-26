@@ -1,0 +1,1461 @@
+
+
+**** *book_ *id_I01 *act_I *date_1718
+
+-*who_mathurine
+Qu'as-tu donc, ma chère Colette ?
+Tu parais chagrine, inquiète.
+Eh ! D'où vient cette sombre humeur ?
+Ne me cache rien, ma mignonne ;
+Découvre-moi ton petit coeur.
+
+-*who_colette
+Tu ne le vois que trop, friponne.
+Qu'une fille à vingt ans
+Est fille avec chagrin dans de certains instants !
+Peut-on l'être toujours, quand on l'est trop longtemps ?
+
+-*who_mathurine
+Paix ma Cousine.
+Fille sage avec confiance
+Attend l'hymen.
+
+-*who_colette
+      Ah ! Que dis-tu ?
+Plus elle est fille de vertu,
+Et plus elle a d'impatience.
+Plus elle est fille de vertu,
+Plus elle a d'impatience.
+
+-*who_mathurine
+Il est vrai que cela coûte.
+
+-*who_colette
+Je vous en réponds.
+Quand un Amant
+Auprès de nous badine
+Trop librement,
+On fait bien la mutine ;
+Mais, hélas ! En secret
+On sent
+      Qu'on l'a fait à regret !
+Imite ma franchise, Cousine.
+Ne serais-tu pas bien-aise aussi d'être mariée ?
+
+-*who_mathurine
+Hé, mais...
+
+-*who_colette
+Tu fais la sotte.
+Achève.
+
+-*who_mathurine
+Je n'en serais pas fâchée.
+
+-*who_colette
+Tu t'imagines que c'est un grand bonheur, n'est-ce pas ?
+
+-*who_mathurine
+Sans doute.
+
+-*who_colette
+Même en dormant un faux hymen sait plaire.
+Dans un sommeil je rêvais à Valère :
+On m'éveilla : que j'en fus en colère !
+Ah ! ah ! L'hymen s'allait faire !
+
+-*who_mathurine
+Oh, oh !
+C'est donc Valère que vous aimez ?
+
+-*who_colette
+N'en vaut-il pas bien la peine ?
+
+-*who_mathurine
+Oui vraiment.
+
+-*who_colette
+Il est déjà sous-lieutenant d'infanterie.
+
+-*who_mathurine
+Peste !
+Il est bien avancé !
+
+-*who_colette
+C'est qu'il a de grands amis, voyez-vous.
+
+-*who_mathurine
+Mais il est fils du Procureur Fiscal, et vous fille de Madame Thomas.
+
+-*who_colette
+Ma Cousine, je vous entends.
+Je sais que le Procureur-Fifcal et ma mère sont brouillés.
+Peut-être ma mère ne voudra-t-elle pas que j'épouse Valére.
+Je vais prier le Magister Nicolas de les réconcilier.
+
+-*who_mathurine
+Le Magister est homme d'esprit : je compte beaucoup sur lui.
+
+-*who_colette
+Je vais le trouver pour le presser de faire cet accommodement...
+Ma mère vient.
+Je te laisse avec elle.
+
+**** *book_ *id_I02 *act_I *date_1718
+
+-*who_mathurine
+Bonjour, ma Tante.
+
+-*who_madamethomas
+Bonjour, ma Nièce.
+
+-*who_mathurine
+D'où vient ce sérieux,
+Cet air triste et sauvage ?
+Tout vous rit dans ces beaux lieux ;
+Au plaisir tout vous engage.
+
+-*who_madamethomas
+Que l'état du veuvage
+Me paraît ennuyeux.
+
+-*who_mathurine
+Vous ne pleurez pas votre mari, peut-être ?
+Un vieil époux sombre et sévère
+N'est regretté que faiblement :
+L'époux même le plus charmant
+Quelquefois ne l'est guère.
+
+-*who_madamethomas
+Ah !
+Ma chère nièce, tel que fût mon pauvre mari, il m'était d'un grand secours.
+Que de soins mon état renferme !
+Une grande fille, une femme ;
+Toujours des procès sur les bras ;
+Tantôt acheter, tantôt vendre.
+Sans mon pauvre Valet Lucas,
+Saurois-je par quel bout m'y prendre?
+Oui.
+Ce garçon-là fait toute ma consolation.
+
+-*who_mathurine
+Oh !
+Pour cela, il a bien du mérite !
+
+-*who_madamethomas
+N'est-ce pas, ma nièce ?
+
+-*who_mathurine
+Oui, vraiment, ma tante.
+
+-*who_madamethomas
+Il n'est rien de plus parfait.
+Que cet aimable valet.
+À l'ouvrage il se démène :
+Tique, tique, taque, et lon-lan-la ;
+Il en vaut une douzaine.
+
+-*who_mathurine
+Le bon Valet que voilà !
+
+-*who_madamethomas
+Tous les autres sont des fainéants ; lui seul est né pour le travail.
+
+-*who_mathurine
+C'est la pièce de résistance.
+
+-*who_madamethomas
+Vous avez de l'esprit, ma nièce ; et je vous crois capable de me donner conseil sur une affaire importante.
+Je songe à me remarier.
+
+-*who_mathurine
+Ah, ah !
+
+-*who_madamethomas
+Ne t'imagine pas que ce soit par caprice ;
+Mais je veux empêcher que mon bien ne périsse.
+J'ai besoin d'un Mari vigilant, entendu ;
+Et je pense à Lucas. Que me conseilles-tu ?
+
+-*who_mathurine
+Tout ce qu'il vous plaira, ma Tante.
+
+-*who_madamethomas
+Il est grand, il a belle face.
+Là, franchement, ne crois-tu pas
+Qu'il puisse du défunt Thomas
+Fort bien remplir la place ?
+
+-*who_mathurine
+C'est votre affaire, ma Tante.
+
+-*who_madamethomas
+Mais, est-ce que tu n'approuves pas mon choix ?
+
+-*who_mathurine
+Si vous voulez que je vous parle naturellement, je ne vois pas qu'il soit nécessaire que vous l'épousiez, puisqu'il fait vos affaires avec zèle.
+
+-*who_madamethomas
+Oh ! Ce sera bien autre chose,
+Quand j'aurai joint son sort au mien.
+
+-*who_mathurine
+Quelle erreur !
+Valet qui jamais ne repose,
+Devenu Maître, ne fait rien.
+
+-*who_madamethomas
+Je ne pense pas comme cela, moi.
+Je trouve que ce garçon-là est bien mon fait.
+
+-*who_mathurine
+Croyez-moi.
+Vous devriez plutôt penser à marier ma cousine.
+
+-*who_madamethomas
+Oh !
+Cela ne presse pas.
+
+-*who_mathurine
+Mais songez à ce que dira tout le village, si...
+
+-*who_madamethomas
+Je sais qu'il en fera grand bruit ;
+Mais, ma foi, je n'en sais que rire :
+Quand les gens auront tout dit,
+Ils n'auront plus rien à dire,
+Ils n'auront plus rien
+      à dire.
+
+-*who_mathurine
+C'est fort bien fait à vous.
+
+-*who_madamethomas
+Ne suis-je pas maîtresse de mes volontés ?
+
+-*who_mathurine
+Assurément.
+Tenez.
+Voilà votre Lucas.
+Je vous laisse libres.
+Adieu, ma Tante.
+
+-*who_madamethomas
+Adieu, ma Nièce.
+Allez.
+On n'a pas besoin de votre consentement pour faire cette affaire-là.
+Voyez un peu cette bégueule.
+
+**** *book_ *id_I03 *act_I *date_1718
+
+-*who_lucas
+Qu'y a-t-il donc, notre Maîtresse ?
+Il semble que vous soyez en rogne.
+
+-*who_madamethomas
+Mon ami, c'est contre ma Nièce,
+Qui veut me donner des leçons.
+
+-*who_lucas
+Voyez un peu la bonne pièce.
+Mais, ma foi, je nous en gaussons.
+
+-*who_madamethomas
+Pour cela, oui.
+Et dans le fond, je suis bien bonne de m'amuser à consulter une petite bête.
+
+-*who_lucas
+C'est morgué bian dit.
+Vous ne devez consulter que vous-même, surtout dans la chose dont il s'agit.
+
+-*who_madamethomas
+Comment donc, Lucas !
+Sais-tu de quoi il était question entre nous ?
+
+-*who_lucas
+Oh !
+Pargué, je ne suis pas un sot.
+Tenez.
+Vous li parliez de çà.
+
+-*who_madamethomas
+De quoi ?
+
+-*who_lucas
+Ne m'entendez vous pas ?
+Est-ce un si grand mystère?
+Vous voulez, un Compère
+Fait tout comme Lucas.
+Ne m'entendez vous pas?
+
+-*who_madamethomas
+Je t'entends à merveilles.
+Tu as fort bien deviné.
+
+-*who_lucas
+Oh, dame !
+Je devine les fêtes quand alles sont arrivées.
+
+-*who_madamethomas
+Que tu as d'esprit, Coquin !
+
+-*who_lucas
+D'autres que moi en avont itout de l'esprit, je vous en avartis.
+
+-*who_madamethomas
+Hé, qui donc ?
+
+-*who_lucas
+Gros-Jean, Maître Piarre le Tavarnier et Blaise le Veigneron.
+Je les acoutis tous trois jaboter hier a soir au travars d'une haye.
+Tâtigué, comme il en dégoisiont !
+
+-*who_madamethomas
+Que disaient ils ?
+
+-*who_lucas
+Voyez-vous ste Madame Thomas, ce faisiont-ils : voyez-vous comme alle se redresse.
+Je gagerais, ce disait Gros-Jean, qu'al'ne sera pas encor tras mois sans reprendre du poil de la bête.
+Pargué, ce faisait Maître Piarre, est-ce qu'vous ne fsavez pas bian qu'aile lorgne son valet Lucas ?
+Par ma foi, ce disait Blaise, ils se connaissont bian tous deux ; et si alle fait ce marché-là, al'n'achera pas chat en poche.
+
+-*who_madamethomas
+Voyez un peu les médisants !
+Mais je sais le moyen de les faire taire.
+
+-*who_lucas
+Et moi, itout.
+Je n'avons besoin pour çà que du Curé et du Tabellion.
+
+-*who_madamethomas
+C'est ce que je voulois dire, mon cher Lucas.
+Oui, malgré tous les jaloux,.
+Tu deviendras mon époux :
+Je ferai ce mariage
+À la barbe du Village.
+Je veux, je veux,
+Mon ami, te rendre heureux.
+
+-*who_lucas
+C'est bian de l'honneur pour moi, dà.
+Mais il faudra que cela vase.
+
+-*who_madamethomas
+Tu seras content.
+Mais, sais-tu bien, mon poulet, ce que j'ai fait pour toi ?
+J'ai méprisé la tendresse
+Des plus huppés du Canton.
+
+-*who_lucas
+Je vous pourrais bian, Maîtresse ;
+Parler sur le même ton.
+Vingt filles des plus fringantes,
+Qui grillont pour mon musiau,
+Se trouveriont bian contentes
+De se charger de ma piau.
+
+-*who_madamethomas
+Si j'avais voulu écouter certaines propositions, je serais à l'heure qu'il est une grosse Madame de Paris ; mais j'aime mieux un bon paysan qu'un Monsieur.
+
+-*who_lucas
+Vous avez raison.
+Les paysans avont l'amiquié plus farme.
+
+-*who_madamethomas
+Cours vite t'aquitter de la commission que je t'ai donnée.
+Je vais t'attendre au logis!
+
+-*who_lucas
+Allez. Je vas bientôt vous suivre.
+
+-*who_madamethomas
+Mon cher ami, ne tarde pas :
+Tu sais que la pauvre Thomas
+Sans toi ne saurait vivre.
+
+**** *book_ *id_I04 *act_I *date_1718
+
+-*who_lemagister
+Cela suffit, belle Colette ;
+J'entreprends l'accommodement.
+La chose sera bien tôt faite :
+Je n'entreprends rien vainement.
+
+-*who_colette
+Vous allez donc trouver ma Mère ?
+
+-*who_lemagister
+Oui, ma mignonne, de ce pas.
+
+-*who_colette
+Parlez-lui bien...
+
+-*who_lemagister
+      Laissez-moi faire.
+
+-*who_colette
+Mais...
+
+-*who_lemagister
+      Ne vous embarrassez pas.
+
+**** *book_ *id_I05 *act_I *date_1718
+
+-*who_colette
+Laissons agir Maître Nicolas ; et si par malheur il ne réussit point dans son entreprise, nous aurons recours à d'autres expédients.
+L'amour, cher Valére,
+Nous unit tous deux.
+Si le sort contraire
+Traverse nos feux,
+Le Dieu de Cythére,
+Propice à nos voeux,
+Fera son affaire
+De nous rendre heureux.
+
+**** *book_ *id_I06 *act_I *date_1718
+
+-*who_colette
+Ah ! Je vous vois, Valére !
+
+-*who_valere
+Ah ! Colette, c'est vous !
+Permettez-moi, ma chère,
+D'embrasser vos genoux.
+
+-*who_colette
+Vous faites trop paraître.
+L'empressement....
+
+-*who_valere
+      Hélas !
+De moi puis-je être maître,
+Quand je vois tant d'appas ?
+Un baiser, ma chère Colette.
+Un doux baiser seulement.
+
+-*who_colette
+Ah ! Valère doucement.
+
+-*who_valere
+Ma Reine, quel tort... ?
+
+-*who_colette
+Calmez ce transport :
+Votre ardeur est trop grande.
+C'est à Paris qu'on prend d'abord ;
+Au Village on demande,
+Lonla,
+Au Village on demande.
+
+-*who_valere
+Je vous le demande aussi.
+Allons, ne faites donc point la villageoise.
+Un peu moins de sévérité.
+
+-*who_colette
+Vous allez bien vite au fait !
+Connaissez un peu mieux Colette.
+Vous allez bien vite au fait !
+Quittez ce trop libre caquet.
+Vous en seriez mal satisfait ;
+Je pourrais de ma main blanchette...
+Je vous le dis franc et net...
+
+-*who_valere
+Oh !
+Je vais m'exposer à tout.
+
+-*who_colette
+Je prendrai mon sérieux.
+
+-*who_valere
+Vous vous fâchez !
+Cela ne vous convient point : un air enjoué vous sied mieux.
+
+-*who_colette
+Mon enjouement
+Vous donne un faux présage :
+D'un tendre amant
+J'aime assez le langage ;
+Mais,
+Avant notre mariage,
+Rengainez tous vos souhaits.
+
+-*who_valere
+Mais, je ne vous demandais que les arrhes du marché.
+
+-*who_colette
+Plus on donne de gages pour ce marché-là, et moins il tient.
+
+-*who_valere
+Franchement, votre vertu sent le village.
+
+-*who_colette
+Je suis là-dessus Paysanne et demie.
+
+-*who_valere
+Ah !
+Belle Colette, connaissez mieux Valère à votre tour.
+Votre sévérité m'enchante,
+Bien loin de me rendre confus :
+Plus la faveur paraît charmante,
+Et plus j'en aime le refus.
+
+-*who_colette
+Parlons sérieusement de nos affaires.
+Notre Magister s'est chargé de réconcilier nos parents.
+
+-*who_valere
+Mais, s'il n'y réussit pas ?
+
+-*who_colette
+J'ai un autre moyen tout prêt.
+
+-*who_valere
+J'en ai aussi imaginé un, qu'Arlequin mon Tambour est sur le point d'exécuter : mais si tous ces moyens deviennent inutiles, que ferons-nous ?
+
+-*who_colette
+Il faudra nous séparer.
+Nous séparer ! Qu'ai-je entendu !
+Non, non, vous n'aimez plus Valère.
+
+-*who_colette
+Mais, quand tout espoir est perdu,
+Cher amant, que voulez-vous faire.
+
+-*who_valere
+En attendant un meilleur sort,
+Nous aimer jusques à la mort.
+J'aperçois mon père avec Maître Nicolas.
+Retirons-nous.
+
+**** *book_ *id_I07 *act_I *date_1718
+
+-*who_lemagister
+Orsus, Monsieur le Procureur Fiscal, je crois vous en avoir assez dit pour vous persuader que vous devez, vous réconcilier avec Madame Thomas.
+
+-*who_monsieurgriffart
+Je me rends à vos raisons.
+Mon ressentiment s'éteint ; et je suis prêt à vivre en bonne union avec Madame Thomas, si elle le veut.
+
+-*who_lemagister
+Oh !
+Je vous réponds d'elle.
+La Voici.
+Tenez-vous un peu à l'écart.
+Je vais la prévenir.
+
+**** *book_ *id_I08 *act_I *date_1718
+
+-*who_lemagister
+Arrêtez, Madame, deux mots.
+Vous arrivez fort à propos.
+Ne faites plus mauvaise mine
+À notre Procureur Fiscal,
+Je vous proteste, ma voisine,
+Qu'il veut...
+
+-*who_madamethomas
+      Que veut cet animal ?
+
+-*who_monsieurgriffart
+Elle fait la fâchée.
+
+-*who_lemagister
+Eh ! Parlez sans colère !
+
+-*who_madamethomas
+Vraiment, j'ai bien affaire...
+
+-*who_lemagister
+Oh ! Point d'emportement ?
+D'un coeur franc et sincère,
+Avec vous il veut faire
+Son raccommodement.
+
+-*who_madamethomas
+Ah !
+Il veut se raccommoder tout de bon ?
+
+-*who_lemagister
+Tout de bon.
+Répondez, je vous prie,
+Madame, à son envie.
+
+-*who_madamethomas
+Hé bien, soit. J'y consens.
+
+-*who_lemagister
+Ma foi, c'est un bon diable.
+
+-*who_madamethomas
+Puisqu'il est raisonnable,
+C'est assez. Je me rends.
+
+-*who_lemagister
+Monsieur Griffart, vous l'entendez.
+Madame Thomas est un petit coeur de femme.
+Allons, embrassez-vous.
+
+-*who_monsieurgriffart
+Oublions tous deux le passé ?
+Vivons en bonne intelligence
+
+-*who_madamethomas
+De mon coeur tout est effacé.
+Voilà quelle en est l'assurance.
+Malgré mon courroux, Monsieur Griffart, je n'ai jamais cessé de vous estimer.
+
+-*who_lemagister
+J'en suis témoin.
+
+-*who_monsieurgriffart
+Quoique prévenu contre vous, Madame Thomas, je vous ai toujours regardée comme une femme de mérite.
+
+-*who_lemagister
+Pour cela, oui.
+
+-*who_madamethomas
+Quand j'ai rencontré des gens qui voulaient attaquer votre probité, je vous ai toujours rendu justice.
+
+-*who_lemagister
+Elle est généreuse.
+
+-*who_monsieurgriffart
+Quand je me suis trouvé avec des médisants qui voulaient me rendre votre vertu suspecte ; oh !
+Je leur ai bien dit ce que j'en pensais !
+
+-*who_lemagister
+Il est charitable, Monsieur le Procureur Fiscal.
+Jarnicoton !
+Je ne me sens pas d'aise d'avoir rapatrié deux esprits d'un si bon caractère.
+Que je vous embrasse.
+Que cette paix, mes chers enfans ,
+Puisse durer long-tems.
+Maudit le festin malheureux
+Qui vous brouilla tous deux.
+
+-*who_madamethomas
+Il est vrai que ce jour-là Monsieur le Procureur Fiscal n'était pas de bonne humeur.
+
+-*who_monsieurgriffart
+De bonne humeur !
+Oh !
+Pardi, c'est vous qui prîtes un travers.
+
+-*who_madamethomas
+Un travers !
+Moi, prendre un travers !
+Oh !
+J'ai trop d'esprit pour cela.
+C'est vous qui n'entendez quelquefois ni rime ni raison.
+
+-*who_lemagister
+Eh !
+Laissons-là ce festin!
+
+-*who_madamethomas
+Vous n'êtes qu'un bourru, qu'un brutal, qu'un emporté.
+
+-*who_monsieurgriffart
+Madame Thomas !
+
+-*who_madamethomas
+Monsieur Griffart !
+
+-*who_lemagister
+Que diable...
+
+-*who_madamethomas
+Allez.
+Si je vous jetai une assiette à la tête, vous le méritiez bien.
+
+-*who_lemagister
+Eh !
+Madame Thomas !
+
+-*who_monsieurgriffart
+Et vous, vous méritiez bien aussi tous les noms que je vous donnai.
+
+-*who_lemagister
+Mais , mais , mais...
+
+-*who_madamethomas
+Tous les noms !
+Tous les noms !
+Allez, mon ami, vous êtes un plaisant sot.
+
+-*who_monsieurgriffart
+Vous croyez parler encore à votre benêt de mari.
+Vous êtes une extravagante.
+
+-*who_madamethomas
+Ah !
+Fripon, il faut que je te...
+
+-*who_lemagister
+Que voulez-vous faire ?
+
+-*who_madamethomas
+Le dévisager.
+
+-*who_monsieurgriffart
+Allez.
+Vous êtes une...
+Vous êtes une...
+Vous êtes une femme.
+
+**** *book_ *id_I09 *act_I *date_1718
+
+-*who_lemagister
+Voilà de la besogne bien faite !
+Je les ai mis un peu plus mal ensemble qu'ils n'étaient.
+
+**** *book_ *id_I10 *act_I *date_1718
+
+-*who_colette
+Hé bien , quelles nouvelles ?
+Avez vous fait la paix?
+
+-*who_lemagister
+Hélas! Ils font, les Belles ,
+Plus divisés que jamais.
+
+-*who_mathurine
+Il a perdu ses pas,
+Nicolas,
+Voilà votre hymen à bas.
+
+**** *book_ *id_I11 *act_I *date_1718
+
+-*who_colette
+Oh, que non !
+Puisque le Magister n'a pas réussi, je vais employer la ruse que je t'ai dite.
+
+-*who_mathurine
+Feindre de l'amour pour Lucas ?
+
+-*who_colette
+Justement.
+Cela donnera de la jalousie à ma mère.
+Qui, dans son jaloux effroi,
+Je le crois,
+Va se défaire de moi.
+
+-*who_mathurine
+Vous êtes ingénieuse.
+
+-*who_colette
+C'est que
+      suis amoureuse.
+
+-*who_mathurine
+Eh !
+Le voilà, Lucas !
+
+-*who_colette
+Parlons de lui, sans faire semblant de l'apercevoir.
+
+**** *book_ *id_I12 *act_I *date_1718
+
+-*who_colette
+Apprend, mais sois discrète
+Que j'aime ce Lucas.
+S'il savait sur Colette
+Ce qu'ont fait ses appas,
+Que deviendrais je, hélas !
+
+-*who_lucas
+Oh, oh !
+Alles parlont de moi !
+Accoutons.
+
+-*who_mathurine
+Lucas a donc su vous plaire ?
+
+-*who_colette
+Je te l'avoue aujourd'hui.
+T'étonnes-tu que ma mère
+Ait pris tant de goût pour lui ?
+
+-*who_mathurine
+Non, vraiment.
+
+-*who_lucas
+Colette m'aime !
+Qui diantre l'aurait deviné ?
+
+-*who_colette
+Sa taille est charmante.
+
+-*who_mathurine
+J'admire sa voix.
+
+-*who_lucas
+Hé, hé, hé, hé, hé, hé.
+
+-*who_colette
+Mais ce qui m'enchante,
+C'est son beau, tourelourirette,
+C'est son beau, lan-la derirette,
+C'est son beau minois.
+
+-*who_lucas
+Fatigué !
+Comme alle en tient !
+
+-*who_colette
+Oui, je prétends satisfaire
+Ma nouvelle flamme ;
+De Lucas, malgré ma mère,
+Je veux être femme.
+Si l'on ne me donn' ce garçon-là,
+On verra tout ce qu'on verra :
+J'en ferai la folie,
+Ma mie,
+J'en ferai la folie.
+
+-*who_lucas
+Vous avez raison, la Plante,
+Il est bon sur ce ton-là, Larira.
+
+-*who_colette
+Ah !
+
+-*who_lucas
+Oh, oh !
+Vous m'aimez donc, Mademoiselle Colette ?
+Eh !
+Vous n'en sonniez mot.
+
+-*who_colette
+Mais, qui t'a donc mis dans l'esprit
+Que Colette t'aime ?
+Puis-je savoir qui te l'a dit ?
+
+-*who_lucas
+Parguié , c'est vous-même.
+Vous disiez présentement...
+
+-*who_colette
+Quoi, tu m'as entendue ?
+
+-*who_lucas
+Que vous m'aimiez tendrement.
+
+-*who_colette
+Je suis, je suis perdue !
+
+-*who_lucas
+Le grand malheur !
+
+-*who_colette
+Assurément, c'en est un ; car tu l'iras peut-être dire à ma mère.
+
+-*who_lucas
+Nennin, nennin, je ne li dirai pas.
+Al'ne sait morgué pas tout ce que je fais : Queuque sot.
+Après tout, quand al'le sauroit , est-ce qu'al' me r'abattroit ça sur mes gages ?
+
+-*who_mathurine
+Tu la connais.
+Elle ferait un beau vacarme.
+
+-*who_lucas
+Hé !
+Palsanguié, qui s'en soucie ?
+Acoutez, Mademoiselle Colette.
+Il gn'ya qu'un mot qui sarve.
+Si vous vlez je l'enverrai au barniquet.
+
+-*who_mathurine
+C'est parler net.
+
+-*who_colette
+Quoi, Lucas, tu voudrais pour moi
+Renoncer au coeur de ma mère ?
+
+-*who_lucas
+J'aime mieux être, par ma foi,
+Son gendre, que votre biau-père.
+
+-*who_mathurine
+Te voilà ravie, ma Cousine.
+
+-*who_lucas
+Ah ! J'ai le coeur chaud comme braise,
+Charmante Colette, pour vous !
+
+-*who_colette
+Fripon, tu seras donc bienaise,
+Quand tu deviendras mon Epoux ?
+
+-*who_lucas
+Nuit et jour vous m'entendrez dire :
+Talaleri, talaleri, talalerie.
+
+-*who_colette
+Ah ! Lucas, tenez-vous!
+Ayez de la politesse.
+Ah ! Lucas, tenez vous !
+Et craignez mon courroux.
+
+-*who_lucas
+Oh ! J'aime à rire sans cesse ;
+À batifoler toujours,
+À pousser la tendresse
+Tout au travers des choux.
+
+-*who_mathurine
+Quel drôle !
+
+-*who_colette
+Tu prends un mauvais parti.
+
+-*who_lucas
+On dit qu'avec les fumelles
+Il faut être comme ça.
+
+-*who_colette
+Non, non, toujours auprès d'elles
+Un air poli l'emporta.
+C'est ainsi qu'on prend les Belles.
+Lon, lan-la, o gué, lon-la.
+
+-*who_lucas
+Serpedié !
+Vous ne chassez pas de race !
+
+-*who_colette
+Que veux-tu dire par-là.
+
+-*who_lucas
+Je veux dire que votre mère n'aime pas tant la poulitesse que vous.
+
+**** *book_ *id_I13 *act_I *date_1718
+
+-*who_madamethomas
+Ah, ha !
+Lucas avec ma fille !
+
+-*who_lucas
+Hé , hé, hé, hé, hé.
+
+-*who_colette
+Qu'as-tu à rire ?
+
+-*who_mathurine
+Pourquoi ris-tu?
+
+-*who_lucas
+Je ris de ce que...
+Hé, hé, hé, hé, hé.
+
+-*who_colette
+Explique-toi donc.
+
+-*who_lucas
+Je ris de ce que votre mère...
+Hé, hé, hé, hé, hé.
+
+-*who_mathurine
+Hé bien ?
+
+-*who_lucas
+Aile croit bonnement que je l'épouserai ; mais, prrr.
+
+-*who_madamethomas
+Qu'entends je !
+
+-*who_lucas
+A l'a déjà fait avartir les ménêtriers pour note noce.
+Alle payera les violons ; mais jarnonbille , je danserons pour elle.
+
+-*who_madamethomas
+Le Coquin !
+
+-*who_colette
+Diantre !
+Cela est déjà bien avancé.
+
+-*who_lucas
+Le bon de l'affaire, c'est qu'al' ne sait pas que Colette m'aime, et que j'aime itout Colette.
+
+-*who_madamethomas
+Le traître !
+
+-*who_lucas
+Tâtigné ! Madame Thomas,
+Mirlababibobette ;
+Queu fracas
+Alle fera, belle Colette.
+Mirlababi, farlababo , mirlababibobette.
+
+-*who_madamethomas
+Sarlababorita
+
+-*who_colette
+Ah !
+
+-*who_mathurine
+Ô Ciel !
+
+-*who_lucas
+Oh !
+La voilà.
+
+-*who_madamethomas
+Petite Impertinence,
+Comment donc à mes yeux...
+
+-*who_mathurine
+Ne grondez point, ma Tante.
+
+-*who_madamethomas
+Ôtez vous de ces lieux.
+Et toi, traître, volage... !
+
+-*who_lucas
+Que ne suis je en un trou !
+
+-*who_madamethomas
+Il faut que dans ma rage
+Je te coupe le cou.
+
+-*who_mathurine
+Quelle fureur est la tienne !
+Vite sauvons-nous.
+
+-*who_lucas
+Couper le cou tatiguienne !
+Il est bon que le cou tienne,
+Arrêtez-vous,
+Arrêtez vous.
+
+**** *book_ *id_I14 *act_I *date_1718
+
+-*who_madamethomas
+Tu m'abandonnes donc aujourd'hui pour Colette,
+Toi, que depuis quinze ans j'élève à la brochette !
+
+-*who_lucas
+Mais, Madame Thomas...
+
+-*who_madamethomas
+      Ah ! Perfide, tais-toi !
+Où seras tu jamais plus heureux que chez moi ?
+Ne trouves-tu pas le matin ,
+Pour te raccommoder la panse,
+Du pain blanc et d'excellent vin ?
+On double au dîné ta pitance ;
+Au soupé, ne garde-toi pas
+Le jus de l'éclanche à Lucas ?
+
+-*who_lucas
+Si vous me nourrissez bian, je travaille de même.
+La besogne est forte cheux vous.
+
+-*who_madamethomas
+Hé bien, petit inconstant, petit scélérat, j'y consens.
+Va.
+Épouse Colette.
+Mais tu n'auras pas le sou, je t'en avertis.
+
+-*who_lucas
+Ce n'est pas-là mon compte.
+
+-*who_madamethomas
+Tu mourras de faim.
+
+-*who_lucas
+Malepeste !
+Serviteur à Colette.
+Tenons-nous au gros de l'arbre.
+
+-*who_madamethomas
+Grand-Jacques profitera de ta folie ; je l'épouserai.
+
+-*who_lucas
+Ah !
+Voyez donc comme alle se fâche !
+
+-*who_madamethomas
+Je n'en ai pas sujet, n'est-ce pas ?
+
+-*who_lucas
+Bon.
+Allez.
+Tout ce que j'ai dit à Colette n'était que pour rire.
+
+-*who_madamethomas
+Pour rire !
+
+-*who_lucas
+Vous croyez donc que je ne vous ai pas apparçue ?
+Eh non !
+J'ai dit comme çà, à part moi : Vla Madame Thomas qui vient à pas de loup, pour nous accouter ; baillons-li un peu la venette.
+
+-*who_madamethomas
+Quoi, Lucas, il n'est donc pas vrai que tu aimes Colette ?
+
+-*who_lucas
+Fi donc !
+Vla encore une plaisante morveuse.
+Vous m'avez dégoûté, Madame Thomas, vous m'avez dégoûté de la jeunesse.
+
+-*who_madamethomas
+Est-il bien vrai, m'es-tu fidèle ?
+
+-*who_lucas
+Oui, je le suis, n'en doutez pas.
+Vos écus ont bien plus d'appas
+Que les yeux d'une Parronelle.
+
+-*who_madamethomas
+Sur ce pied-là, faisons la paix :
+Lucas, lions-nous pour jamais.
+Attend-moi ici.
+Je vais parler au Tabellion.
+Je reviendrai te joindre.
+
+**** *book_ *id_I15 *act_I *date_1718
+
+-*who_lucas
+Comme les femmes qui aimont baillent dans le pagniau....
+Ah, ah !
+Voici le Tambour de la Compagnie de Monsieur Valére.
+
+**** *book_ *id_I16 *act_I *date_1718
+
+-*who_arlequin
+Si des Vilageoises,
+Avec leur fierté !
+Vivent nos grivoises,
+J'en suis enchanté.
+Souvent au Village
+On nous fait souffrir ;
+Au Camp la plus sage
+À nous vient s'offrir.
+
+-*who_lucas
+Courage, courage, Monsieur Arlequin.
+Vous êtes toujours un drôle de corps.
+
+-*who_arlequin
+Tambour battant.
+Mon cher Lucas, je me promène,
+Tambour battant.
+De mon sort je suis fort content ;
+Bon pain, bon vin, bon Capitaine,
+Avec un tendron que je mène
+Tambour battant.
+
+-*who_lucas
+Pardi !
+Vous n'engendrez point de mélancolie, Monsieur Arlequin.
+
+-*who_arlequin
+Non, vraiment.
+Ni vous non plus, Monsieur Lucas ; vous qui êtes la coqueluche de Nanterre, et le factoton de Madame Thomas.
+
+-*who_lucas
+Je ne suis encore que le garçon de la Farme ; mais , entre nous, j'en serai biantôt queuqne chose de plus, dà.
+Je vais de Madame Thomas
+Tarminer le veuvage.
+
+-*who_arlequin
+Que je t'embrasse, cher Lucas.
+C'est une veuve sage :
+Elle te prend pour son mari,
+À cause de ton teint fleuri.
+
+-*who_lucas
+Oui.
+Elle me prend pour son mari,
+À cause de mon teint fleuri.
+
+-*who_arlequin
+Je l'en estime d'avantage.
+C'est une brave femme.
+Il faut boire à sa santé.
+
+-*who_lucas
+Tope.
+
+-*who_arlequin
+Allons, buvons à la santé
+De cette grosse mère.
+Sans oublier la Beauté
+Dont est charmé Valere,
+Trinque à la postérité
+Dont tu dois être père.
+
+-*who_lucas
+Morgué !
+Vla de bon vin.
+Varsez-m'en encore.
+À vous et à moi présentement.
+
+-*who_arlequin
+Allons, à nous deux.
+
+-*who_lucas
+Hoçà, à st'heure, à qui boirons-je ?
+Pargué, à votre amoureuse, Monsieur Arlequin.
+
+-*who_arlequin
+Je vous remercie, mon ami.
+Lucas est un bon garçon,
+Il entend bien à vider un flacon.
+Oh ! Par ma foi, c'est grand dommage
+Qu'il croupisse en un Village !
+Il aurait fait l'ornement
+Du plus célèbre Régiment.
+
+-*who_lucas
+Oui ; mais il ne faut qu'un coup feulement
+Pour bouttre un homme au monument.
+
+-*who_arlequin
+Tu crains la mort, parce que tu n'y ès pas fait.
+Tiens.
+Si tu avais seulement deux Campagnes par devers toi, tu écouterais ronfler le canon comme une flûte douce,
+
+-*who_lucas
+Jarni !
+Si je savais ça, je me bouttrois tout-à-l'heure dans le sarvice.
+
+-*who_arlequin
+Tu t'y accoutumeras, te dis-je...
+
+-*who_lucas
+J'aimerais à ne sarvir que dans les Revues.
+
+-*who_arlequin
+Sur ce pied-là tu peux t'engager à présent.
+Nous sommes en paix ; il n'y a rien à risquer.
+Buvons un coup : un verre de vin porte conseil.
+
+-*who_lucas
+Oh ! Ce n'est pas que je balance !
+J'ai du coeur comme un enragé :
+Mais, si la guerre recommence,
+Je prétends avoir mon congé.
+
+-*who_arlequin
+Cela va sans dire.
+Allons, mon Brave, à la santé du Roi.
+
+-*who_lucas
+Allons, oui.
+Vive la guerre pendant la paix.
+
+**** *book_ *id_I17 *act_I *date_1718
+
+-*who_arlequin
+Bon.
+Voici Monsieur Valére.
+
+-*who_valere
+Je ne sais si Arlequin aura réussi.
+
+-*who_arlequin
+Camarade saluez votre Officier.
+Monsieur, vous voyez dans ce garçon-là un des meilleurs soldats de votre Compagnie.
+
+-*who_valere
+Cela me fait plaisir.
+Lucas est un bon enfant.
+Ça, mes amis, j'ai ordre de partir demain pour aller joindre le Régiment en Flandres.
+Nous allons apparemment recommencer la guerre.
+
+-*who_lucas
+Oui ; Je demande donc mon congé.
+Je ne me suis engagé qu'à condition que je ne sarvirois point pendant la guerre.
+
+-*who_valere
+Allons, allons.
+Point tant de raisons.
+Tu es engagé, tu marcheras.
+
+**** *book_ *id_I18 *act_I *date_1718
+
+-*who_madamethomas
+Qu'y a-t-il donc, Lucas !
+Que t'a-t-on fait ?
+
+-*who_lucas
+Ce sont ces vendeurs de chair humaine, qui m'avont enroullé pour la guerre.
+
+-*who_madamethomas
+Allez, allez, Monsieur Valére,
+Je m'en souviendrai plus d'un jour.
+Vous voulez venger votre père,
+En me jouant ce mauvais tour.
+
+-*who_valere
+Madame, vous me connaissez mal.
+La fuite vous désabusera.
+
+-*who_lucas
+Oui ; mais il faudra donc toujours que je marche à bon compte ?
+
+-*who_arlequin
+Sans doute ; et c'est trop perdre de temps.
+Partons.
+
+-*who_lucas
+Eh !
+Madame Thomas !
+
+-*who_madamethomas
+Tout beau, Messieurs.
+J'ai de quoi le racheter.
+Combien vous faut-il ?
+
+-*who_arlequin
+Cent pistoles.
+Grand, carré, de bon aloi,
+Dans l'emploi
+Il servira bien le Roi.
+Peut-on trop payer la taille ?
+
+-*who_madamethomas
+Mais, cent pistoles !
+
+-*who_arlequin
+Sans en rabattre une maille.
+
+-*who_madamethomas
+S'il est propre pour le Roi,
+Par ma foi ,
+Il l'est encor plus pour moi.
+Pour payer sa délivrance
+Voici de bonne finance.
+Puisqu'il n'y a rien à rabattre, je vais vous compter les cent pistoles.
+Heu !
+L'étourdi !
+Vois ce que tu me coûtes.
+
+-*who_lucas
+Eh ! Là , là, Maman Thomas,
+Ne me le reprochez pas !
+Je bêcherai tant ,
+Je piocherai tant ;
+Un peu de patience :
+Ne plaignez point votre comptant,
+J'en tirerons quittance,
+Lon-là,
+J'en tirerons quittance.
+
+-*who_valere
+Votre argent ne me tente point, Madame ; la possession de l'aimable Colette peut seule me toucher.
+Ce n'est qu'à cela que la liberté de Lucas est attachée.
+
+-*who_arlequin
+Vous voyez bien que nous nous mettons à la raison.
+
+-*who_madamethomas
+Je vois tout le mystère.
+Ah ! Coquine, c'est vous...
+
+-*who_colette
+Maman, point de colère.
+Donnez-moi cet époux.
+Par-là, vous allez faire
+D'une pierre deux coups ;
+En m'accordant Valère
+Lucas sera pour vous.
+
+-*who_lucas
+C'est bian dit.
+
+-*who_madamethomas
+Monsieur, j'ai des raison pour vous refuser ma fille.
+
+-*who_valere
+Madame, j'ai aussi les miennes pour vous refuser Lucas.
+
+-*who_madamethomas
+Ma fille demeurera auprès de moi.
+
+-*who_arlequin
+Lucas demeurera dans le Régiment.
+Allons, marche.
+
+-*who_lucas
+Madame Thomas !
+
+-*who_valere
+Vous avez pris votre parti, Madame.
+Adieu.
+
+-*who_arlequin
+Marche.
+
+-*who_lucas
+Vous m'abandonnez donc, Madame Thomas.
+
+-*who_madamethomas
+Arrêtez, Valére.
+J'aime mieux vous donner deux cens pistoles.
+
+-*who_colette
+Ma chère mère, épargnez votre argent.
+
+-*who_valere
+Madame, cela est inutile.
+
+-*who_arlequin
+Non, non.
+Nous allons joindre le Régiment !
+Marche, Gueux, marche.
+
+-*who_lucas
+Madame Thomas.
+Eh !
+Bâillez-li votre fille !
+
+-*who_madamethomas
+Monsieur, voulez-vous mille écus ?
+
+-*who_valere
+Madame, vous m'en offririez cent mille inutilement.
+
+-*who_arlequin
+Il n'en démordra pas.
+
+-*who_madamethomas
+Puisqu'on ne peut s'en tirer autrement, je vous accorde donc ma fille.
+
+-*who_colette
+Ma chère mère !...
+
+-*who_valere
+Madame, vous me rendez le plus heureux de tous les hommes.
+
+-*who_lucas
+Vivat.
+Mon enroullement a fait marveilles.
+
+-*who_arlequin
+Et moi, par reconnaissance, je vous donne Lucas.
+
+-*who_madamethomas
+Que tous ceux que j'avais invités à mes noces viennent célébrer ce double mariage.
+
+-*who_mathurine
+Madame Thomas
+Épouse Lucas.
+Célébrons ce mariage.
+Elle agit en femme sage :
+Il fait déjà son tracas ;
+Il est fait à son ménage.
+
+-*who_arlequin
+Madame Thomas,
+En prenant Lucas,
+Vous prenez la fleur de Nanterre ;
+Vous ôtez au Dieu des Combats
+Un vrai fier-à-bras,
+Un foudre de guerre.

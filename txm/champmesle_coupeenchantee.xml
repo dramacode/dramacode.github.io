@@ -1,0 +1,2349 @@
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La coupe enchantée</title>
+        <title type="sub">, comédie</title>
+        <author born="1642" born_location="Paris" death="1701" death_location="Paris" academie="">
+          <surname>Champméslé</surname>
+          <forename> Charles Chevillet dit</forename>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p>publié par Paul FIEVRE avril 2015</p>
+        <idno/>
+      </publicationStmt>
+      <sourceDesc>
+        <genre>Comédie</genre>
+        <inspiration>moeurs françaises</inspiration>
+        <structure>Un acte</structure>
+        <type>vers</type>
+        <periode>1701-1710</periode>
+        <taille>250-500</taille>
+        <permalien>http://gallica.bnf.fr/ark:/12148/bpt6k5813846w</permalien>
+        <sources>
+          <source id="1">
+            <author/>
+            <text/>
+          </source>
+        </sources>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="created" when="1693-04-24"/>
+        <date type="issued" when="1710"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 xml:id="I" type="act" n="1">
+        <head/>
+        <div2 xml:id="I01" type="scene" n="1">
+          <head>SCÈNE I. Bertrand, Lucinde, Perrette.<listPerson type="configuration" xml:id="conf1"/></head>
+          <sp xml:id="I01-1" who="BERTRAND">
+            <p>
+              <s>Non mordienne vous, dis-je, je ne me laisserai pas enjôler davantage.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-2" who="LUCINDE">
+            <p>
+              <s>Hé, mon pauvre garçon.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-3" who="BERTRAND">
+            <p>
+              <s>Je n’en ferai rien.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-4" who="PERRETTE">
+            <p>
+              <s>Auras-tu bien le coeur si dur que...</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-5" who="BERTRAND">
+            <p>
+              <s>Je l’aurai dur comme un caillou.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-6" who="LUCINDE">
+            <p>
+              <s>Laisse-nous ici seulement jusqu’à ce soir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-7" who="BERTRAND">
+            <p>
+              <s>Je ne vous y laisserai pas un iota davantage, ventregoine. </s>
+              <s>Si quelqu’un vous allait trouver enfarmées dans ma logette, et que dirait-on ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-8" who="PERRETTE">
+            <p>
+              <s>Ardé, ce qu’on en dirait, serait-il tant à ten désavantage ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-9" who="BERTRAND">
+            <p>
+              <s>Testigué, si notre Maître qui hait les femmes, venait à vous trouver, où en serais-je ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-10" who="LUCINDE">
+            <p>
+              <s>Quand il saura que je suis une jeune fille persécutée par une Belle-mère, abandonnée à la sollicitation et à l’inimitié de mon propre père, et qui fuit la maison paternelle, de crainte d’épouser un magot qu’elle me veut donner, parce qu’il est son neveu, mes larmes le toucheront ; il aura pitié de moi sans doute.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-11" who="BERTRAND">
+            <p>
+              <s>Morgué, je vous dis qu’il n’est point pitoyable, je le connais mieux que vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-12" who="PERRETTE">
+            <p>
+              <s>Et moi je gage que ces larmes le débaucheront, comme elles m’ont débauchée. </s>
+              <s>Je ne les vis pas plutôt couler que je me résolus d’abandonner mon ménage, pour aller courir les champs avec elle, quoiqu’il n’y ait que onze mois que je sois mariée à Thibaut, le Fermier de son Père, qui est le meilleur homme du monde, et de la meilleure humeur ; est-ce que ton Maître sera plus rébarbatif que moi ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-13" who="BERTRAND">
+            <p>
+              <s>Ventredié vous me feriez enrager ; est-ce que je ne savons pas bien ce que je savons ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-14" who="LUCINDE">
+            <p>
+              <s>Fais-moi parler à ce jeune homme que tu dis qui est son fils, je le toucherai je m’assure, et je ne doute point qu’il ne fasse quelque chose auprès de son père en notre faveur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-15" who="BERTRAND">
+            <p>
+              <s>Hé bien, hé bien, ne voilà-t-il pas. </s>
+              <s>Palsangoi n’an dit bian vrai, qu’il n’y a rian de si dur que la tête d’une femme. </s>
+              <s>Ne vous ai-je pas dit, cervelle ignorante, que ce fils est le Tu Autem du sujet pourquoi on reçoit ici les femmes comme un chien dans un jeu de quille. </s>
+              <s>Que le père ne veut point que le Fils en voie aucune, que le Fils n’en connaît non plus que s’il n’y en avait point au monde, et qu’il ne sait pas seulement comme on les appelle. </s>
+              <s>Que le père sottement lui apprend tout cela, que le Fils croit tout cela sottement, et que, que... que Diable ne vous ai-je pas dit tout cela ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-16" who="PERRETTE">
+            <p>
+              <s>Hé bien oui ; mais d’où vient qu’il ne veut pas que son Fils connaisse des Femmes ; est-ce une si mauvaise connaissance ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-17" who="BERTRAND">
+            <p>
+              <s>D’où vient, d’où vient... Eh, l’esprit bouché ! </s>
+              <s>Ne vous souvient-il pas que de fil en aiguille, je vous ai conté que le Père avait épousé une Femme qui en savait bien long, et que pour empêcher qu’il n’ait comme li le même malencombre qu’il a li, comme bien d’autres ; il a juré son grand juron, que jamais Femme ne serait de rien à ce Fils, et voilà ce qui fait justement que... mais ventreguienne que de babil, est-ce que vous ne voulez donc pas vous taire, et me tourner les talons ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-18" who="LUCINDE">
+            <p>
+              <s>Mon ami, mon pauvre ami.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-19" who="BERTRAND">
+            <p>
+              <s>Mon ami, mon pauvre ami... </s>
+              <s>Jarnigué ne vla-t-il pas encor la chanson du ricochet avec vos pièces d’or.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-20" who="PERRETTE">
+            <p>
+              <s>Et va, va, prends toujours.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-21" who="BERTRAND">
+            <p>
+              <s>Ventregué que veux-tu que j’en fasse ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-22" who="LUCINDE">
+            <p>
+              <s>Mon pauvre garçon.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-23" who="BERTRAND">
+            <p>
+              <s>Tastigué, n’avez-vous point de honte de me tenter comme ça.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-24" who="PERRETTE">
+            <p>
+              <s>Prends, te dis-je.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-25" who="BERTRAND">
+            <p>
+              <s>Morgué, c’est être bien Satan.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-26" who="LUCINDE">
+            <p>
+              <s>Bertrand...</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-27" who="BERTRAND">
+            <p>
+              <s>Jarni, cela est cause que je vous ai déjà fait passer la nuit dans ma cahute.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-28" who="PERRETTE">
+            <p>
+              <s>Le grand malheur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-29" who="BERTRAND">
+            <p>
+              <s>Morgué, cela va encore être cause que je vous y ferai passer le jour.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-30" who="LUCINDE">
+            <p>
+              <s>Mon cher Bertrand.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-31" who="BERTRAND">
+            <p>
+              <s>Mort de ma vie, que vous ai-je fait ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-32" who="PERRETTE">
+            <p>
+              <s>Eh, prends, prends.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-33" who="BERTRAND">
+            <p>
+              <s>Prends, prends, morguoi prends toi-même.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-34" who="PERRETTE">
+            <p>
+              <s>Hé bien donne-le-moi je le prendrai.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-35" who="BERTRAND">
+            <p>
+              <s>Tu as bien envie de me voir frotter.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-36" who="PERRETTE">
+            <p>
+              <s>La, la, prends courage ; il ne t’est point arrivé de mal cette nuit, il ne t’en arrivera pas cette journée, ramène-nous dans la logette.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-37" who="BERTRAND">
+            <p>
+              <s>Oui ; mais morgué notre petit Maître est un charcheur de midi à quatorze heures, il a toujours le nez fourré partout, s’il vient à vous trouver hem ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-38" who="LUCINDE">
+            <p>
+              <s>Peut-être sera-t-il bien aise de nous voir et de nous parler.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-39" who="BERTRAND">
+            <p>
+              <s>Testigué ne vous y fiez pas. </s>
+              <s>C’est un petit babillard qui ne manquerait pas de l’aller dire à son Père. </s>
+              <s>Il vaut mieux que je vous boute dans queuque endroit où il n’aille pas vous charcher. </s>
+              <s>Attendez, je vais voir si personne ne nous en empêche.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I02" type="scene" n="2">
+          <head>SCÈNE II. Lucinde, Perrette.<listPerson type="configuration" xml:id="conf2"/></head>
+          <sp xml:id="I02-1" who="LUCINDE">
+            <p>
+              <s>Enfin, Perrette, nous resterons ici jusqu’à ce soir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-2" who="PERRETTE">
+            <p>
+              <s>Oui, mais je ne sommes guère loin du Châtiau de votre Père, j’ai peur que je ne soyons pas longtemps ici sans qu’on vienne nous y charcher.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-3" who="LUCINDE">
+            <p>
+              <s>Nous y seront bien cachées, mais en conscience, Perrette, voudrais-tu partir d’ici sans avoir la charité de tirer ce pauvre petit jeune homme de l’erreur où l’on le fait vivre ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-4" who="PERRETTE">
+            <p>
+              <s>Ouais, vous vous intéressez bien pour lui, si j’osais, je croirais quelque chose ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-5" who="LUCINDE">
+            <p>
+              <s>Et que croirais-tu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-6" who="PERRETTE">
+            <p>
+              <s>Je croirais que vous ne seriez pas fâchée de l’avoir pour mari.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-7" who="LUCINDE">
+            <p>
+              <s>Tu ne sais ce que tu dis.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-8" who="PERRETTE">
+            <p>
+              <s>Oh par ma foi, j’ai mis le nez dessus.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-9" who="LUCINDE">
+            <p>
+              <s>Que veux-tu dire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-10" who="PERRETTE">
+            <p>
+              <s>Mon gueu je ne suis pas si sotte que j’en ai la mine. </s>
+              <s>Quand je vous le vis regarder hier avec tant d’attention par le trou de la sarrure, je me dis à part moi, vla notre Maîtresse Lucinde qui se prend. </s>
+              <s>Et si ce grand dadais que n’an li venait bailler pour époux, avait eu aussi bonne mine que ce petit étourniau-ci, je ne serions pas sorties de la maison.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-11" who="LUCINDE">
+            <p>
+              <s>Tu vois plus clair que moi, Perrette. </s>
+              <s>Je t’avoue que je formai dès hier la résolution de faire tout mon possible pour détromper ce pauvre petit homme, et que c’est à quoi j’ai pensé toute la nuit ; mais jusques à présent je ne m’aperçois pas que mon coeur agisse par un autre mouvement, que par celui de la compassion.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-12" who="PERRETTE">
+            <p>
+              <s>Eh oui, oui, vous autres grosses Dames, vous n’allez point tout d’abord à la franquette. </s>
+              <s>Vous faites toujours semblant de vous déguiser les choses ; pour moi je n’y entends point tant de façons, et quand Thibaut me prit la main la première fois pour danser, qu’il me la serrit de toute sa force, je devinai tout du premier coup c’en que chelà voulait dire. </s>
+              <s>Mais qu’entends-je ?</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I03" type="scene" n="3">
+          <head>SCÈNE III. Thibaut, Lucinde, Perrette. <listPerson type="configuration" xml:id="conf3"/></head>
+          <sp xml:id="I03-1" who="THIBAUD">
+            <p>
+              <s>Haye, haye, haye.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-2" who="LUCINDE">
+            <p>
+              <s>Quelle voix a frappé mon oreille.</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-3" who="THIBAUD">
+            <p>
+              <s>Ho, ho, ho,</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-4" who="PERRETTE">
+            <p>
+              <s>Ah Madame, c’est la voix de notre Mari Thibaut, nous vla perdus !</s>
+            </p>
+          </sp>
+          <sp xml:id="I03-5" who="LUCINDE">
+            <p>
+              <s>Courons promptement nous cacher.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I04" type="scene" n="4">
+          <head>SCÈNE IV. Lucinde, Perrette, Bertrand, Thibaut.<listPerson type="configuration" xml:id="conf4"/></head>
+          <sp xml:id="I04-1" who="BERTRAND">
+            <p>
+              <s>Où courez-vous, fuyez, fuyez de ce côté.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-2" who="LUCINDE">
+            <p>
+              <s>Thibaut le Mari de Perrette vient par ici.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-3" who="BERTRAND">
+            <p>
+              <s>Josselin le Gouverneur de notre petit Maître vient par ilà.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-4" who="THIBAUD">
+            <p>
+              <s>Holà quelqu’un, holà.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-5" who="PERRETTE">
+            <p>
+              <s>Entends-tu, c’est fait de nous s’il nous trouve.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I05" type="scene" n="5">
+          <head>SCÈNE V. Lucinde, Perrette, Josselin, Bertrand, Thibaut.<listPerson type="configuration" xml:id="conf5"/></head>
+          <sp xml:id="I05-1" who="JOSSELIN">
+            <p>
+              <s>Bertrand, hé Bertrand.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-2" who="BERTRAND">
+            <p>
+              <s>Oyez-vous ? </s>
+              <s>Nous sommes flambés s’il nous voit.</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-3" who="LUCINDE">
+            <p>
+              <s>Où nous cacher ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I05-4" who="BERTRAND">
+            <p>
+              <s>Rentrez dans ma logette, et n’en ouvrez point la porte à personne.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I06" type="scene" n="6">
+          <head>SCÈNE VI. Josselin, Bertrand, Thibaut.<listPerson type="configuration" xml:id="conf6"/></head>
+          <sp xml:id="I06-1" who="JOSSELIN">
+            <p>
+              <s>Qui est-ce donc qui crie de la sorte ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-2" who="BERTRAND">
+            <p>
+              <s>Il faut que ce soit quelque passant qui s’est égaré, mais le vla.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-3" who="THIBAUD">
+            <p>
+              <s>Hé, parlez donc vous autres, êtes-vous muets.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-4" who="JOSSELIN">
+            <p>
+              <s>Non.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-5" who="THIBAUD">
+            <p>
+              <s>Vous êtes donc sourds ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-6" who="JOSSELIN">
+            <p>
+              <s>Encore moins.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-7" who="THIBAUD">
+            <p>
+              <s>Et pourquoi donc ne répondez-vous pas ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-8" who="JOSSELIN">
+            <p>
+              <s>Parce qu’il ne nous plaît pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-9" who="THIBAUD">
+            <p>
+              <s>Palsangué vous êtes trop drôle, puisque vous n’êtes ni sourds ni muets, il faut que je vous embrasse. </s>
+              <s>Oui morgué, je sis votre serviteur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-10" who="JOSSELIN">
+            <p>
+              <s>Est-ce que nous nous connaissons ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-11" who="THIBAUD">
+            <p>
+              <s>Je ne sais pas, mais je crois que nous ne nous sommes jamais vus.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-12" who="JOSSELIN">
+            <p>
+              <s>C’est ce qui me semble.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-13" who="THIBAUD">
+            <p>
+              <s>Palsangué vous vla bian étonné.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-14" who="JOSSELIN">
+            <p>
+              <s>Et qui ne le serait pas ? </s>
+              <s>Nous ne nous connaissons point et vous m’embrassez comme si nous nous étions vus toute notre vie.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-15" who="THIBAUD">
+            <p>
+              <s>Tastigué vous avez biau dire, je vois à votre mine que vous êtes un bon vivant, et que vous m’enseignerez ce que je charche.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-16" who="JOSSELIN">
+            <p>
+              <s>Et que cherchez-vous ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-17" who="THIBAUD">
+            <p>
+              <s>Je charche ma Femme, ne l’avez-vous point vue ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-18" who="JOSSELIN">
+            <p>
+              <s>Ah ! </s>
+              <s>Vraiment oui, c’est bien ici qu’il faut chercher des Femmes.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-19" who="THIBAUD">
+            <p>
+              <s>Elle a nom Parrette, elle s’en est enfouie de cheux nous, palsangué chela est bian drôle, pour courir les champs avec la Fille de Monsieur Tobie notre Maître, que l’on voulait marier maugré elle au fils de Monsieur Griffon, neveu de notre Maîtresse, je ne sais morgué comme ces masques ont fagoté tout chela ; mais la nuit Parrette se couchi auprès de moi, et pis je ne li trouvis plus le lendemain, avez-vous jamais rien vu de plus plaisant que chela ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-20" who="JOSSELIN">
+            <p>
+              <s>Cela est fort plaisant.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-21" who="THIBAUD">
+            <p>
+              <s>Oh, ce qu’il y a de plus récréatif, c’est qu’elles sont toutes fines seules, et comme elles sont morguoi bian jolies, si elles allaient rencontrer quelque gaillard qui voulit en faire comme des choux de son jardin, elles seraient bien attrapées ; tout franc que je songe à chela, je n’en ris morgué que du bout des dents.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-22" who="JOSSELIN">
+            <p>
+              <s>Que craignez-vous ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-23" who="THIBAUD">
+            <p>
+              <s>Je crains... </s>
+              <s>Et que sais-je moi, je crains... </s>
+              <s>Est-ce que vous ne savez pas ce qu’on craint quand on ne sait où diable est sa femme ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-24" who="JOSSELIN">
+            <p>
+              <s>Si vous aviez envie de savoir ce qui en est, on pourrait vous donner satisfaction.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-25" who="THIBAUD">
+            <p>
+              <s>Bon, est-ce qu’on sait jamais ça ? </s>
+              <s>Pour s’en douter passe ; mais pour en être sûr niflé, j’aurais morgué biau le demander à Parrette, elle ne l’avouerait jamais, elle est trop bien dessalée.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-26" who="JOSSELIN">
+            <p>
+              <s>Nous avons ici un moyen sûr pour en savoir la vérité.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-27" who="THIBAUD">
+            <p>
+              <s>Qu’est-ce encore ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-28" who="JOSSELIN">
+            <p>
+              <s>C’est une Coupe qui est entre les mains du Seigneur de ce Château. </s>
+              <s>Quand elle est pleine de vin, si la Femme de celui qui y boit lui est fidèle, il n’en perd pas une goutte ; mais si elle est infidèle, tout le vin répand à terre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-29" who="THIBAUD">
+            <p>
+              <s>Cela est bouffon, et où diable a-t-il pêché chela ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-30" who="JOSSELIN">
+            <p>
+              <s>Il l’a achetée d’un Arabe, qui, par composition ou par enchantement, y aurait attaché cette vertu.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-31" who="THIBAUD">
+            <p>
+              <s>Et pourquoi ce Monsieur acheta-t-il ce joyau-là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-32" who="JOSSELIN">
+            <p>
+              <s>Par curiosité.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-33" who="THIBAUD">
+            <p>
+              <s>Est-ce qu’il était marié ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-34" who="JOSSELIN">
+            <p>
+              <s>Oui.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-35" who="THIBAUD">
+            <p>
+              <s>J’entends, j’entends ; il voulait voir si sa femme... </s>
+              <s>N’est-ce pas ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-36" who="JOSSELIN">
+            <p>
+              <s>Justement.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-37" who="THIBAUD">
+            <p>
+              <s>D’abord qu’il eut la Coupe, il y but, je gage.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-38" who="JOSSELIN">
+            <p>
+              <s>Vous l’avez dit.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-39" who="THIBAUD">
+            <p>
+              <s>Elle répandit.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-40" who="JOSSELIN">
+            <p>
+              <s>Non.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-41" who="THIBAUD">
+            <p>
+              <s>Morgué, c’est être bien plus heureux que sage. </s>
+              <s>Il s’en tint là...</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-42" who="JOSSELIN">
+            <p>
+              <s>Non.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-43" who="THIBAUD">
+            <p>
+              <s>Il y rebut ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-44" who="JOSSELIN">
+            <p>
+              <s>Oui.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-45" who="THIBAUD">
+            <p>
+              <s>Tastigué vla un sot homme.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-46" who="JOSSELIN">
+            <p>
+              <s>Plus encor que vous ne le dites.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-47" who="THIBAUD">
+            <p>
+              <s>Et comment donc ? </s>
+              <s>Contez-moi cela pour rire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-48" who="JOSSELIN">
+            <p>
+              <s>Il voulut éprouver sa femme.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-49" who="THIBAUD">
+            <p>
+              <s>Le benêt.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-50" who="JOSSELIN">
+            <p>
+              <s>Il lui écrivit sous un nom supposé.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-51" who="THIBAUD">
+            <p>
+              <s>Le jocrisse.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-52" who="JOSSELIN">
+            <p>
+              <s>Il lui envoya des présents.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-53" who="THIBAUD">
+            <p>
+              <s>L’impertinent.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-54" who="JOSSELIN">
+            <p>
+              <s>Il lui donna un rendez-vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-55" who="THIBAUD">
+            <p>
+              <s>Elle y vint.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-56" who="JOSSELIN">
+            <p>
+              <s>Est-ce qu’on résiste aux présents ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-57" who="THIBAUD">
+            <p>
+              <s>Et comment cela se passa-t-il ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-58" who="JOSSELIN">
+            <p>
+              <s>En excuses du côté de la Dame, en soufflets de la part du Mari.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-59" who="THIBAUD">
+            <p>
+              <s>Elle les souffrit patiemment.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-60" who="JOSSELIN">
+            <p>
+              <s>Oui, mais quelques jours après...</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-61" who="THIBAUD">
+            <p>
+              <s>Il but encore dans la Coupe.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-62" who="JOSSELIN">
+            <p>
+              <s>Oui.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-63" who="THIBAUD">
+            <p>
+              <s>Et que fit la Coupe ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-64" who="JOSSELIN">
+            <p>
+              <s>Elle répandit</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-65" who="THIBAUD">
+            <p>
+              <s>Quand on na que ce qu’on mérite, on ne s’en doit prendre qu’à soi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-66" who="JOSSELIN">
+            <p>
+              <s>Il s’en prit à tout le monde, et vint de dépit se loger dans ce Château écarté, pour ne plus entendre parler de femme de sa vie.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-67" who="THIBAUD">
+            <p>
+              <s>Avec la Coupe ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-68" who="JOSSELIN">
+            <p>
+              <s>Avec la Coupe.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-69" who="THIBAUD">
+            <p>
+              <s>Et de quoi, lui sert-elle ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-70" who="JOSSELIN">
+            <p>
+              <s>Elle lui sert à voir qu’il a beaucoup de confrères, et cela le console.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-71" who="THIBAUD">
+            <p>
+              <s>Et comment le voit-il ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-72" who="JOSSELIN">
+            <p>
+              <s>Il engage tous les passants que le hasard conduit ici, d’en faire l’épreuve.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-73" who="THIBAUD">
+            <p>
+              <s>Et depuis quand fait-il ce métier-là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-74" who="JOSSELIN">
+            <p>
+              <s>Depuis quatorze ou quinze ans.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-75" who="THIBAUD">
+            <p>
+              <s>En a-t-il bien vu depuis ce temps-là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-76" who="JOSSELIN">
+            <p>
+              <s>Oh, en quantité.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-77" who="THIBAUD">
+            <p>
+              <s>Par ma fique vla tout fin droit ce qu’il faut pour bouter notte Maîtresse et son biau-frère à la raison ; l’un est un bon Normand qui a épousé une Languedocienne, soeur de l’autre, et l’autre est un Gascon qui a épousé une Parisienne, comme ils sont logés vison visu, ils se tarabustent toujours sur le chapitre de leurs Femmes : je vais leur dire que la Coupe les mettra d’accord ; ils rodons autour de cette montagne pour apprendre des nouvelles de leur fille. </s>
+              <s>Mais quel est ce vilain Monsieur-là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-78" who="JOSSELIN">
+            <p>
+              <s>C’est le Maître de la Coupe et le Seigneur de ce Château.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I07" type="scene" n="7">
+          <head>SCÈNE VII. Anselme, Josselin, Thibaut.<listPerson type="configuration" xml:id="conf7"/></head>
+          <sp xml:id="I07-1" who="ANSELME">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur Josselin, mon pauvre Monsieur Josselin</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-2" who="JOSSELIN">
+            <p>
+              <s>Qu’y a-t-il de nouveau Monsieur ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-3" who="ANSELME">
+            <p>
+              <s>Je suis dans le plus grand des embarras. </s>
+              <s>Mon... </s>
+              <s>Qui est cet homme-là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-4" who="JOSSELIN">
+            <p>
+              <s>C’est un honnête paysan qui est en quête de sa femme ; elle s’est échappée de chez lui avec une jeune fille, et pour les retrouver il est avec une paire de Messieurs qu’il va chercher pour faire l’essai de votre Coupe.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-5" who="THIBAUD">
+            <p>
+              <s>Je vais vous amener de la pratique, laissez faire.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I08" type="scene" n="8">
+          <head>SCÈNE VIII. Anselme, Josselin, Thibaut.<listPerson type="configuration" xml:id="conf8"/></head>
+          <sp xml:id="I08-1" who="ANSELME">
+            <p>
+              <s>Ah, vraiment de la Coupe ! </s>
+              <s>J’ai bien d’autres tintouins dans la tête.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-2" who="JOSSELIN">
+            <p>
+              <s>Qu’avez-vous donc ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-3" who="ANSELME">
+            <p>
+              <s>J’ai vu... </s>
+              <s>Ouf !</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-4" who="BERTRAND">
+            <p>
+              <s>Aurait-il vu ces masques de Femmes ? </s>
+              <s>Écoutons.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-5" who="ANSELME">
+            <p>
+              <s>Je viens de voir... </s>
+              <s>Que fais-tu là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-6" who="BERTRAND">
+            <p>
+              <s>Rien...</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-7" who="ANSELME">
+            <p>
+              <s>Va à ta besogne, et ne reviens point qu’on ne t’appelle.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I09" type="scene" n="9">
+          <head>SCÈNE IX. Anselme, Josselin.<listPerson type="configuration" xml:id="conf9"/></head>
+          <sp xml:id="I09-1" who="ANSELME">
+            <p>
+              <s>Je viens de voir mon fils ; le petit pendard me fait des questions qui m’ont pensé mettre l’esprit sens dessus dessous, il lui prend des curiosités toutes contraires au chemin que je veux qu’il tienne.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-2" who="JOSSELIN">
+            <p>
+              <s>Ma foi, Monsieur, si vous voulez que je vous parle franchement, il vous sera bien difficile de l’élever toujours dans l’ignorance où vous voulez qu’il soit. </s>
+              <s>Je crains bien que toutes ces précautions ne deviennent inutiles, et que cette démangeaison qui vous tient de lui vouloir cacher qu’il y a des Femmes au monde, ne porte davantage son petit génie aux connaissances du beau sexe.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-3" who="ANSELME">
+            <p>
+              <s>Et qui l’instruira qu’il y a des Femmes ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-4" who="JOSSELIN">
+            <p>
+              <s>Tout, Monsieur, le bon sens premièrement. </s>
+              <s>Oui, ce certain bon sens qui vient avec l’âge ; là cet âge qui nous retire insensiblement des bras de l’enfance, pour nous conduire à la puberté. </s>
+              <s>L’esprit se porte à la conception de bien des choses ; la raison vient, et parmi plusieurs curiosités nous fait apercevoir que l’homme ne vient point sur la terre comme un champignon, que c’est une petite machine où il y a bien des ressorts, ces ressorts viennent à se mouvoir par le moyen du coeur, ce mouvement du coeur échauffe le cerveau. </s>
+              <s>Cette cervelle échauffée se forme des idées qu’elle ne connaît pas bien d’abord, l’amour se met quelquefois de la partie. </s>
+              <s>Il explique toutes ces idées, il prend le soin de les rendre intelligibles ; et voilà comme la connaissance vient aux jeunes gens ordinairement malgré qu’on en ait.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-5" who="ANSELME">
+            <p>
+              <s>Tous ces raisonnements sont les plus beaux du monde ; mais je m’en moque, et j’empêcherai bien que mon fils... </s>
+              <s>Le voici ; je ne suis pas en état de lui parler, mon désordre paraîtrait à la vue, fortifiez-le dans mes pensées, cependant que je vais me remettre.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I10" type="scene" n="10">
+          <head>SCÈNE X. Lélie, Josselin.<listPerson type="configuration" xml:id="conf10"/></head>
+          <sp xml:id="I10-1" who="LELIE">
+            <p>
+              <s>D’où vient que mon Père me fuit ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-2" who="JOSSELIN">
+            <p>
+              <s>Il a des affaires en tête. </s>
+              <s>Lui voulez-vous quelque chose ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-3" who="LELIE">
+            <p>
+              <s>Je ne sais.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-4" who="JOSSELIN">
+            <p>
+              <s>Vous ne savez ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-5" who="LELIE">
+            <p>
+              <s>Non, je ne sais ce que je lui veux, je ne sais ce que je me veux à moi-même, je sens que je m’ennuie et je ne sais pourquoi je m’ennuie.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-6" who="JOSSELIN">
+            <p>
+              <s>C’est que vous êtes un petit indolent, qui n’avez pas l’esprit de jouir des beautés qui se présentent à vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-7" who="LELIE">
+            <p>
+              <s>Et quelles sont ses beautés ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-8" who="JOSSELIN">
+            <p>
+              <s>Le Ciel, la terre, le feu, l’eau, l’air, le jour, la nuit, le Soleil, la Lune, les Étoiles, les arbres, les prés, les fleurs, les fruits.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-9" who="LELIE">
+            <p>
+              <s>Oui, tout cela est fort divertissant. </s>
+              <s>Ah ! </s>
+              <s>Mon cher Monsieur Josselin, je voudrais bien...</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-10" who="JOSSELIN">
+            <p>
+              <s>Quoi ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-11" who="LELIE">
+            <p>
+              <s>Vous ne le voudrez pas, vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-12" who="JOSSELIN">
+            <p>
+              <s>Qu’est-ce encore ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-13" who="LELIE">
+            <p>
+              <s>Promettez-moi que vous le voudrez.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-14" who="JOSSELIN">
+            <p>
+              <s>Selon.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-15" who="LELIE">
+            <p>
+              <s>Je voudrais bien aller me promener autre part qu’ici ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-16" who="JOSSELIN">
+            <p>
+              <s>Plaît-il ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-17" who="LELIE">
+            <p>
+              <s>Ah ! </s>
+              <s>Je savais bien que vous ne le voudriez pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-18" who="JOSSELIN">
+            <p>
+              <s>Avez-vous oublié que votre Père vous l’a défendu.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-19" who="LELIE">
+            <p>
+              <s>Et c’est parce qu’il me l’a défendu que je meurs d’envie de le faire. </s>
+              <s>Car enfin je m’imagine qu’il y a dans le monde des choses qu’il ne veut pas que je sache, et ce sont ces choses-là que je m’imagine, que je brûle de savoir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-20" who="JOSSELIN">
+            <p>
+              <s>Le petit fripon.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-21" who="LELIE">
+            <p>
+              <s>Oh ça, Monsieur Josselin, en bonne vérité, dites-moi ce que c’est que ces choses-là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-22" who="JOSSELIN">
+            <p>
+              <s>Qu’est-ce à dire ces choses-là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-23" who="LELIE">
+            <p>
+              <s>Oui. </s>
+              <s>Qu’est-ce qu’il y a dans monde qui n’est point ici.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-24" who="JOSSELIN">
+            <p>
+              <s>Rien.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-25" who="LELIE">
+            <p>
+              <s>Vous mentez, Monsieur Josselin.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-26" who="JOSSELIN">
+            <p>
+              <s>Point du tout.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-27" who="LELIE">
+            <p>
+              <s>On me cache bien des choses Monsieur Josselin ; vous lisez dans les Livres, et mon Père y sait lire aussi, pourquoi ne m’a-t-on pas appris à y lire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-28" who="JOSSELIN">
+            <p>
+              <s>On vous l’apprendra, donnez-vous patience.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-29" who="LELIE">
+            <p>
+              <s>Je ne puis plus vivre comme cela, et c’est une honte d’être si ignorant que je le suis à mon âge.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-30" who="JOSSELIN">
+            <p>
+              <s>Voilà un petit drôle qu’il n’y aura plus moyen de retenir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-31" who="LELIE">
+            <p>
+              <s>Et si mon Père venait à mourir, Monsieur Josselin : car je sais bien qu’on meurt, que deviendrai-je ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-32" who="JOSSELIN">
+            <p>
+              <s>Vous deviendrez mon Fils, et je serai votre Père pour lors.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-33" who="LELIE">
+            <p>
+              <s>Vous vous moquez de moi, Monsieur Josselin, ce n’est pas comme cela que cela se fait, et ce serait à mon tour d’être père de quelqu’un.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-34" who="JOSSELIN">
+            <p>
+              <s>Et bien vous seriez le mien si vous vouliez, et je serais votre Fils, moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-35" who="LELIE">
+            <p>
+              <s>Oh, ce n’est pas comme cela que cela se fait, assurément vous ne voulez pas me le dire, mais je le saurai vous avez beau faire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-36" who="JOSSELIN">
+            <p>
+              <s>Oh, vous saurez que vous êtes un petit sot, et que vos discoures me fatiguent.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-37" who="LELIE">
+            <p>
+              <s>Monsieur Josselin, si vous ne me menez promener, j’irai me promener tout seul, je vous en avertis.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-38" who="JOSSELIN">
+            <p>
+              <s>Oui, et je vais moi tout de ce pas avertir votre Père de» vos extravagances, et vous verrez après où je vous mènerai promener. </s>
+              <s>Oh, ho, voyez-vous le petit impudent avec ses promenades.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-39" who="LELIE">
+            <p>
+              <s>Il a beau dire, je sortirai d’ici, quand je devrais mourir sur les pas de la porte.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I11" type="scene" n="11">
+          <head>SCÈNE XI. Lucinde, Lélie, Perrette.<listPerson type="configuration" xml:id="conf11"/></head>
+          <sp xml:id="I11-1" who="PERRETTE">
+            <p>
+              <s>Madame, le voilà tout seul.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-2" who="LUCINDE">
+            <p>
+              <s>Approchons-nous pour voir ce qu’il dira en nous voyant.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-3" who="LELIE">
+            <p>
+              <s>Mon Père n’est pourtant pas un bon Père, de ne me pas montrer tout ce qu’il sait, et c’est ce qui fait que je n’ai pas de peine à me résoudre à le quitter</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-4" who="PERRETTE">
+            <p>
+              <s>Il ne faut pas lui dire d’abord qui nous sommes : mais je gage bien qu’il le devinera.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-5" who="LELIE">
+            <p>
+              <s>Je m’imagine que tout ce qu’on ne veut pas que je sache, est cent fois plus beau que ce que je sais. </s>
+              <s>Je pense je ne sais combien de choses toutes plus jolies les unes que les autres, et je meurs d’impatience de savoir si je pense juste. </s>
+              <s>Mais que vois-je ? </s>
+              <s>Voilà deux jeunes garçons joliment habillés, je n’en n’ai point encore vu comme ceux-là, je voudrais bien les aborder ; mais je suis tout hors de moi-même, et je n’ai pas presque la force de parler, ils se baissent et puis se haussent, qu’est-ce que cela signifie ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-6" who="LUCINDE">
+            <p>
+              <s>Nous hésitons à vous aborder.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-7" who="LELIE">
+            <p>
+              <s>Ils parlent comme moi. </s>
+              <s>Que de questions je vais leur faire !</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-8" who="LUCINDE">
+            <p>
+              <s>Vous paraissez étonné de nous voir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-9" who="LELIE">
+            <p>
+              <s>Oui, je n’ai jamais rien vu de si beau que vous, ni qui m’ait tant fait plaisir à voir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-10" who="PERRETTE">
+            <p>
+              <s>Oh, mort de ma vie, que la nature est une belle chose !</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-11" who="LELIE">
+            <p>
+              <s>D’où venez-vous ? </s>
+              <s>Qui vous a conduits ici, est-ce mon Père ou moi que vous cherchez ? </s>
+              <s>De grâce ne parlez point à mon Père, et demeurez avec moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-12" who="LUCINDE">
+            <p>
+              <s>À ce que je puis juger vous n’êtes point fâché de nous voir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-13" who="LELIE">
+            <p>
+              <s>Je n’ai jamais eu tant de joie.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-14" who="PERRETTE">
+            <p>
+              <s>Cela est admirable ! </s>
+              <s>Et que croyez-vous de nous, s’il vous plaît ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-15" who="LELIE">
+            <p>
+              <s>Les deux plus belles créatures du monde ; je n’ai jamais rien vu, mais je ne connais rien de plus parfait que vous, et je n’ai plus de curiosité pour tout le reste. </s>
+              <s>Demeurez toujours avec moi, je vous en conjure, je demeurerai toujours ici, et mon Père et Monsieur Josselin en seront ravis.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-16" who="LUCINDE">
+            <p>
+              <s>Vous en jugeriez autrement si vous saviez ce que nous sommes.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-17" who="LELIE">
+            <p>
+              <s>Et n’êtes-vous pas des hommes comme nous ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-18" who="PERRETTE">
+            <p>
+              <s>Oh, vraiment non, il y a bien à dire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-19" who="LELIE">
+            <p>
+              <s>Hors les habits et la beauté je n’y vois point de différence.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-20" who="PERRETTE">
+            <p>
+              <s>Oui da, c’est bien tout un, mais ce n’est pas de même.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-21" who="LELIE">
+            <p>
+              <s>Il est vrai que je sens en vous voyant ce que je n’ai jamais senti. </s>
+              <s>Ah ! </s>
+              <s>Si vous n’êtes pas des hommes, dites-moi ce que vous êtes. </s>
+              <s>Je vous en conjure.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-22" who="LUCINDE">
+            <p>
+              <s>Votre coeur ne peut-il pas vous l’expliquer tout à fait ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-23" who="LELIE">
+            <p>
+              <s>Non, mais ce n’est pas la faute de mon coeur, c’est la faute de mon esprit.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-24" who="PERRETTE">
+            <p>
+              <s>Eh bien, tenez mon pauvre enfant, bien loin d’être des hommes, nous en sommes tout le contraire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-25" who="LELIE">
+            <p>
+              <s>Je ne vous entends point.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-26" who="PERRETTE">
+            <p>
+              <s>Vous nous entendrez avec le temps, mais qui aimez-vous mieux de nous deux, là, parlez franchement, n’est-ce pas moi ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-27" who="LELIE">
+            <p>
+              <s>Je vous aime beaucoup ; mais je l’aime infiniment davantage.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-28" who="LUCINDE">
+            <p>
+              <s>Tout de bon.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-29" who="LELIE">
+            <p>
+              <s>Tout de bon.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-30" who="PERRETTE">
+            <p>
+              <s>C’est à cause que vous êtes la plus brave.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-31" who="LELIE">
+            <p>
+              <s>Non, non, je ne regarde point aux habits, je ne saurais vous dire ce qui fait que je l’aime plus que vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-32" who="LUCINDE">
+            <p>
+              <s>Vous m’aimez donc ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-33" who="LELIE">
+            <p>
+              <s>Plus que toutes les choses du monde.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-34" who="PERRETTE">
+            <p>
+              <s>Mais que pensez-vous en l’aimant ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-35" who="LELIE">
+            <p>
+              <s>Mille choses que je n’ai jamais pensées.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-36" who="LUCINDE">
+            <p>
+              <s>N’en avez-vous point à me dire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-37" who="PERRETTE">
+            <p>
+              <s>Et que seriez-vous prêt à faire pour lui prouver que vous l’aimez ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-38" who="LELIE">
+            <p>
+              <s>Tout.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-39" who="LUCINDE">
+            <p>
+              <s>Voudriez-vous quitter ces lieux pour me suivre ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-40" who="LELIE">
+            <p>
+              <s>De tout mon coeur, pourvu que je vous suive toujours.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I12" type="scene" n="12">
+          <head>SCÈNE XII. Josselin, Lucinde, Perrette, Lélie.<listPerson type="configuration" xml:id="conf12"/></head>
+          <sp xml:id="I12-1" who="LELIE">
+            <p>
+              <s>Ah ! </s>
+              <s>Mon cher Monsieur Josselin, vous allez être ravi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-2" who="LUCINDE">
+            <p>
+              <s>Ah, Ciel !</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-3" who="JOSSELIN">
+            <p>
+              <s>Que vois-je ? </s>
+              <s>Tout est perdu. </s>
+              <s>Ah ! </s>
+              <s>Vraiment voici bien pis que la promenade.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-4" who="LELIE">
+            <p>
+              <s>Je n’en n’avais jamais vu, et je le savais bien, moi, qu’il y avait dans le monde quelque chose qu’on ne me disait pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-5" who="JOSSELIN">
+            <p>
+              <s>Paix.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-6" who="PERRETTE">
+            <p>
+              <s>Qu’il a la mine rébarbative.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-7" who="JOSSELIN">
+            <p>
+              <s>Et d’où diantre ces deux carognes sont-elles venues ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-8" who="LELIE">
+            <p>
+              <s>Monsieur Josselin.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-9" who="JOSSELIN">
+            <p>
+              <s>Taisez-vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-10" who="PERRETTE">
+            <p>
+              <s>Comme il nous regarde.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-11" who="LUCINDE">
+            <p>
+              <s>Le vilain homme que voilà.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-12" who="JOSSELIN">
+            <p>
+              <s>Qui vous a conduites ici impudentes que vous êtes ? </s>
+              <s>Qu’y venez-vous faire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-13" who="PERRETTE">
+            <p>
+              <s>C’est pis qu’un loup garou.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-14" who="LELIE">
+            <p>
+              <s>Monsieur Josselin ne les effarouchez pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-15" who="JOSSELIN">
+            <p>
+              <s>Comment petit fripon, vous osez... </s>
+              <s>Qu’elles sont belles !</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-16" who="LUCINDE">
+            <p>
+              <s>Si c’est un crime pour nous de nous trouver ici, il n’est pas difficile de le réparer, et notre dessein n’est pas d’y faire un long séjour.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-17" who="JOSSELIN">
+            <p>
+              <s>Le beau visage qu’a celle-là.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-18" who="PERRETTE">
+            <p>
+              <s>Je n’y serions pas venues si j’ussions cru qu’on nous eût si mal reçues.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-19" who="JOSSELIN">
+            <p>
+              <s>Le drôle de petit air qu’à celle-ci.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-20" who="LELIE">
+            <p>
+              <s>N’est-il pas vrai, Monsieur Josselin, qu’il n’y a rien au monde de plus beau ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-21" who="JOSSELIN">
+            <p>
+              <s>Non, cela n’est pas vrai. </s>
+              <s>Vous ne savez ce que vous dites. </s>
+              <s>Les deux jolis bouchons que voilà.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-22" who="PERRETTE">
+            <p>
+              <s>Il est enragé, comme il roule les yeux.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-23" who="LELIE">
+            <p>
+              <s>Monsieur Josselin menons-les à mon père.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-24" who="JOSSELIN">
+            <p>
+              <s>Comment petit effronté, à votre Père ; tournez-moi les talons, et ne regardez pas derrière vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-25" who="LELIE">
+            <p>
+              <s>Je veux demeurer ici, moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-26" who="JOSSELIN">
+            <p>
+              <s>Tournez-moi les talons, vous dis-je, et vous détalez au plus vite.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-27" who="LELIE">
+            <p>
+              <s>Je ne veux point qu’ils s’en aillent.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-28" who="JOSSELIN">
+            <p>
+              <s>Et je le veux moi. </s>
+              <s>Allez vite... </s>
+              <s>allez vous cacher dans ma chambre au bout de cette allée, voilà la clef.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-29" who="PERRETTE">
+            <p>
+              <s>Comme il se radoucit, ferons-je bien d’y aller ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-30" who="JOSSELIN">
+            <p>
+              <s>Si vous ne dépêchez... </s>
+              <s>Entrez dans le petit cabinet à main gauche, allez vite, allez.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-31" who="LELIE">
+            <p>
+              <s>Demeurez ici, je vous en conjure.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-32" who="JOSSELIN">
+            <p>
+              <s>Je vous l’ordonne, partez promptement.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-33" who="LELIE">
+            <p>
+              <s>Pour la dernière fois Monsieur Josselin... </s>
+              <s>Attendez-moi, je vous prie, je cours trouver mon Père, j’obtiendrai de lui que je vous aie ici, et Monsieur Josselin se repentira de vous avoir grondé. </s>
+              <s>Je reviendrai dans un moment.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I13" type="scene" n="13">
+          <head>SCÈNE XIII. Lucinde, Perrette, Josselin.<listPerson type="configuration" xml:id="conf13"/></head>
+          <sp xml:id="I13-1" who="JOSSELIN">
+            <p>
+              <s>Ah ! </s>
+              <s>Malheureuse petites femelles, savez-vous bien où vous êtes, et le malheur qui vous talonne ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-2" who="LUCINDE">
+            <p>
+              <s>Nous savons tout ce que vous pouvez nous dire ; mais nous espérons tout de votre bonté.</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-3" who="JOSSELIN">
+            <p>
+              <s>Que vous êtes heureuses d’être belles ! </s>
+              <s>Sans cela... </s>
+              <s>Écoutez, n’allez pas vous entêter de ce petit vilain-là, ce serait gâter toutes vos affaires.</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-4" who="PERRETTE">
+            <p>
+              <s>Oh, je ne boutons rian dans la tête que de la bonne sorte</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-5" who="JOSSELIN">
+            <p>
+              <s>Son Père veut enterrer toute sa famille avec lui, et ne consentira jamais...</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-6" who="LUCINDE">
+            <p>
+              <s>Mettez-nous en lieu où nous puissions vous apprendre notre infortune, et savoir de vous le conseil que nous devons suivre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-7" who="JOSSELIN">
+            <p>
+              <s>Ma chambre est l’endroit où vous puissiez être le mieux cachées dans ce Château, et j’en veux bien courir les risques pour l’amour de vous, à condition que pour l’amour de moi...</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-8" who="PERRETTE">
+            <p>
+              <s>Allez, mon bon Monsieur, vous voyez deux pauvres orphelines, qui ne sont nullement entichées du vice d’ingratitude.</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-9" who="JOSSELIN">
+            <p>
+              <s>Venez suivez-moi.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I14" type="scene" n="14">
+          <head>SCÈNE XIV. Lucinde, Perrette, Josselin, Bertrand. <listPerson type="configuration" xml:id="conf14"/></head>
+          <sp xml:id="I14-1" who="BERTRAND">
+            <p>
+              <s>Oh, palsangué je vous prends sur le fait, je n’en suis plus que de moitié...</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-2" who="JOSSELIN">
+            <p>
+              <s>Voilà un maroufle qui vient bien mal à propos.</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-3" who="BERTRAND">
+            <p>
+              <s>Testiguenne, puisque vous voulez les fourrer dans votre chambre, je ne serai pas pendu tout seul pour les avoir boutées dans ma cahute, vous le serez avec moi, je ne m’en soucie guère.</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-4" who="JOSSELIN">
+            <p>
+              <s>Veux-tu te taire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-5" who="BERTRAND">
+            <p>
+              <s>Morgué, je ne me tairai point à moins que je ne retire mon épingle du jeu.</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-6" who="JOSSELIN">
+            <p>
+              <s>Qu’entends-tu par là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-7" who="BERTRAND">
+            <p>
+              <s>J’entends que vous soyez pendu tout seul.</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-8" who="JOSSELIN">
+            <p>
+              <s>Que veut dire cet animal-là ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-9" who="BERTRAND">
+            <p>
+              <s>Je veux dire qu’à moins que vous ne disiez que c’est vous qui les avez cachées, je vais tout apprendre à notre Maître.</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-10" who="JOSSELIN">
+            <p>
+              <s>Et bien, oui, je dirai que c’est moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-11" who="PERRETTE">
+            <p>
+              <s>Mais morgué point de tricherie au moins.</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-12" who="JOSSELIN">
+            <p>
+              <s>J’entends quelqu’un.</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-13" who="BERTRAND">
+            <p>
+              <s>Rentrez dans ma logette, et ne vous montrez plus sur les yeux de votre tête.</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-14" who="JOSSELIN">
+            <p>
+              <s>Chut, ou je te rendrai complice.</s>
+            </p>
+          </sp>
+          <sp xml:id="I14-15" who="BERTRAND">
+            <p>
+              <s>Motus, ou je découvrirai le pot aux roses.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I15" type="scene" n="15">
+          <head>SCÈNE XV. Anselme, Lélie, Josselin, Bertrand.<listPerson type="configuration" xml:id="conf15"/></head>
+          <sp xml:id="I15-1" who="LELIE">
+            <p>
+              <s>Oui, mon Père, il est impossible que vous me refusiez, quand vous les aurez vus, venez seulement, où sont-ils ? </s>
+              <s>Qu’en avez-vous fait, Monsieur Josselin ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-2" who="JOSSELIN">
+            <p>
+              <s>Que veut-t-il dire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-3" who="ANSELME">
+            <p>
+              <s>Je ne sais ce qu’il me vient conter.</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-4" who="LELIE">
+            <p>
+              <s>Que sont-ils devenus Bertrand ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-5" who="BERTRAND">
+            <p>
+              <s>À qui en veut-il donc ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-6" who="LELIE">
+            <p>
+              <s>Répondez-moi Monsieur Josselin, ou malgré la présence de mon Père...</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-7" who="JOSSELIN">
+            <p>
+              <s>Doucement, petit drôle.</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-8" who="LELIE">
+            <p>
+              <s>Éclaircis-moi de ce que je veux savoir, coquin.</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-9" who="BERTRAND">
+            <p>
+              <s>Haye, ahy, vous m’étranglez. </s>
+              <s>Est-il devenu fou ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-10" who="LELIE">
+            <p>
+              <s>Ah, mon Père ! </s>
+              <s>Commandez qu’on me les fasse retrouver, ou j’en mourrai de désespoir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-11" who="ANSELME">
+            <p>
+              <s>Quoi, qu’y a-t-il ? </s>
+              <s>Que veux-tu qu’on te rende ? </s>
+              <s>Te voilà bien échauffé.</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-12" who="LELIE">
+            <p>
+              <s>Cherchons partout. </s>
+              <s>Si je ne les retrouve, je sais bien à qui je m’en prendrai.</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-13" who="BERTRAND">
+            <p>
+              <s>Et attendez, attendez. </s>
+              <s>Ce ne sont pas des moigniaux que vous charchez.</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-14" who="LELIE">
+            <p>
+              <s>Non traître, ce ne sont pas des moineaux.</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-15" who="BERTRAND">
+            <p>
+              <s>Hé bien morgué, quoi que ce puisse être, allons les charcher nous deux, m’est avis que j’ai entendu queuque chose grouiller de ce côté-là.</s>
+            </p>
+          </sp>
+          <sp xml:id="I15-16" who="LELIE">
+            <p>
+              <s>Courons-y. </s>
+              <s>Mon pauvre Bertrand, ne me quitte point, Monsieur Josselin malheur à vous si je ne les retrouve.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I16" type="scene" n="16">
+          <head>SCÈNE XVI. Anselme, Josselin.<listPerson type="configuration" xml:id="conf16"/></head>
+          <sp xml:id="I16-1" who="JOSSELIN">
+            <p>
+              <s>Des menaces ! </s>
+              <s>Vous voyez comme il perd le respect.</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-2" who="ANSELME">
+            <p>
+              <s>Qu’on l’arrête.</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-3" who="JOSSELIN">
+            <p>
+              <s>Non, non ; il vaut mieux qu’en courant il aille dissiper ces vapeurs qui lui troublent l’imagination.</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-4" who="ANSELME">
+            <p>
+              <s>Mais je crois qu’en effet il est devenu fou. </s>
+              <s>Quel galimatias m’a-t-il fait ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-5" who="JOSSELIN">
+            <p>
+              <s>C’est justement une suite de ce que je disais tantôt ; ce sont des idées qui lui passent par la cervelle, et je ne jurerais pas trop que ce ne fussent des idées de femmes.</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-6" who="ANSELME">
+            <p>
+              <s>Des idées de femmes ! </s>
+              <s>Vous vous moquez, Monsieur Josselin ; peut-on avoir des idées de ce qu’on n’a jamais vu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-7" who="JOSSELIN">
+            <p>
+              <s>Belles merveilles. </s>
+              <s>Et ne vous est-il jamais arrivé de faire des songes ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-8" who="ANSELME">
+            <p>
+              <s>Oui.</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-9" who="JOSSELIN">
+            <p>
+              <s>Et de voir en dormant des choses que vous n’aviez jamais vues, et que vous ne vous seriez jamais imaginées si vous n’aviez dormi ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-10" who="ANSELME">
+            <p>
+              <s>D’accord ; mais ce petit garçonlà ne dort pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-11" who="JOSSELIN">
+            <p>
+              <s>Non, vraiment ; au contraire, je ne l’ai jamais vu éveillé.</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-12" who="ANSELME">
+            <p>
+              <s>Hé bien ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-13" who="JOSSELIN">
+            <p>
+              <s>Hé bien, il rêve tout éveillé, et c’est justement ce qui fait qu’il fait des contes à dormir debout.</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-14" who="ANSELME">
+            <p>
+              <s>Mais pourquoi lui vient-il des idées de femmes plutôt que d’autres ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-15" who="JOSSELIN">
+            <p>
+              <s>C’est que ces animaux-là se fourrent partout malgré qu’on en ait.</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-16" who="ANSELME">
+            <p>
+              <s>Cela serait bien horrible que toutes mes précautions fussent inutiles.</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-17" who="JOSSELIN">
+            <p>
+              <s>Elles le seront à coup sûr, et dès à présent je vous en donne ma parole.</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-18" who="ANSELME">
+            <p>
+              <s>Il n’importe ; et si je ne puis lui cacher absolument qu’il y ait des femmes, il ne les connaîtra du moins que pour les haïr.</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-19" who="JOSSELIN">
+            <p>
+              <s>Il ne les haïra point.</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-20" who="ANSELME">
+            <p>
+              <s>Il les détestera en apprenant ce qu’elles savent faire. </s>
+              <s>Mais qu’est-ce ci ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I16-21" who="JOSSELIN">
+            <p>
+              <s>Et c’est ce bon Paysan qui vous amène ces deux personnes pour faire essai de votre coupe.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I17" type="scene" n="17">
+          <head>SCÈNE XVII. Anselme, Josselin, Lucinde, Perrette, Monsieur Tobie, Monsieur Griffon, Thibaut.<listPerson type="configuration" xml:id="conf17"/></head>
+          <sp xml:id="I17-1" who="PERRETTE">
+            <p>
+              <s>Le petit homme n’y est pas vous dis-je.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-2" who="LUCINDE">
+            <p>
+              <s>Il n’importe ; voyons d’ici ce qui se passe, puisque nous pouvons voir sans être vues.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-3" who="GRIFFON">
+            <p>
+              <s>Oui cadédis, je bous le dis et bous le soutiens, vous êtes un von sot veau frère.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-4" who="THIBAUD">
+            <p>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Monsieur, au mari de Madame votre soeur ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-5" who="PERRETTE">
+            <p>
+              <s>Madame, c’est Thibaut.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-6" who="TOBIE">
+            <p>
+              <s>Sot ! </s>
+              <s>Et qu’est-ce ; queu terminaison est chela ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-7" who="LUCINDE">
+            <p>
+              <s>Mon Père et mon Oncle sont ici.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-8" who="TOBIE">
+            <p>
+              <s>Nous sommes gens de bien de notre race, je serais marri qu’elle fût entichée des reproches qu’on fait à la vôtre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-9" who="THIBAUD">
+            <p>
+              <s>Eh, eh, Monsieur ; le Frère de Madame votre femme ? </s>
+              <s>Vous n’y songez pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-10" who="GRIFFON">
+            <p>
+              <s>Tu fais vien de m’appartenir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-11" who="TOBIE">
+            <p>
+              <s>C’est le plus vilain endroit de ma vie.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-12" who="THIBAUD">
+            <p>
+              <s>Messieurs, Messieurs, venez m’aider, s’il vous plaît, à mettre le holà entre deux beaux-frères qui se vont couper la gorge.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-13" who="ANSELME">
+            <p>
+              <s>Qu’est-ce que c’est donc ; qu’avez-vous, Messieurs, qui vous oblige à en venir aux invectives ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-14" who="GRIFFON">
+            <p>
+              <s>Eh, Messieurs, serbiteur ; je bous fais Juges de ceci. </s>
+              <s>Boici le fait. </s>
+              <s>J’ai fait l’honneur à ce Monsieur de donner mon fils, qui est novle Monsieur comme moi, mordi, en mariage à sa fille, qui n’est qu’une simple Roturière et parce que la beille des noces, la sotte s’éclipse de la case paternelle, il a l’insolence de dire que c’est ma faute, et qu’elle a eu peur d’entrer dans mon alliance, à cause que je suis sébère dans ma famille, et que je n’en beux pas souffrir qu’aucun guodeluriau approche mon domaine de la van-lieue.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-15" who="TOBIE">
+            <p>
+              <s>Qu’est-ce ? </s>
+              <s>Je donne ma fille qui aura dix mille livres de rentes ; au fils de su Monsieur qui est gueux comme un rat, et parce qu’elle s’en est enfuie de chez moi, pour éviter ce mariage ; il me dira en me traitant comme un je ne sais qui, que parce que je suis trop bon dans mon domestique, à cause que ma femme est toujours autour de moi à m’étouffer de caresses, et que je souffre qu’elle m’appelle son petit papa, son petit fanfan, son petit camuset, ce qui fait que ma maison est ouverte à tous les honnêtes gens.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-16" who="JOSSELIN">
+            <p>
+              <s>Voilà un différend qu’il est assez facile d’accommoder. </s>
+              <s>Ces Messieurs se disent les choses de si bonne foi, qu’on ne peut s’empêcher de les croire ; mais pour savoir lequel des deux s’est le plus fait aimer de sa femme par ses manières, votre Coupe enchantée sera d’un secours merveilleux, et je suis sûr qu’elle les mettra d’accord, je vais l’apporter.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-17" who="ANSELME">
+            <p>
+              <s>Allez, Monsieur Josselin, cela finira la dispute.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-18" who="GRIFFON">
+            <p>
+              <s>Cet homme nous a fait récit de cette coupe, et je serai rabi de connaître par elle lequel est le fat de nous deux, je suis sûr que ce n’est pas moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-19" who="TOBIE">
+            <p>
+              <s>Nous en allons voir tout à l’heure un bien penaud ; je sais bien qui ce ne sera pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-20" who="ANSELME">
+            <p>
+              <s>Voici la Coupe.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-21" who="TOBIE">
+            <p>
+              <s>Donnez, donnez ; je serais bien fâché de n’en pas faire essai le premier, pour vous montrer combien je suis sûr de mon fait.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-22" who="JOSSELIN">
+            <p>
+              <s>Ah, ah.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-23" who="TOBIE">
+            <p>
+              <s>Que vois-je ? </s>
+              <s>Le vin est répandu je pense.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-24" who="JOSSELIN">
+            <p>
+              <s>Oh, par ma foi, le petit papa, le petit fanfan, le petit camuset en tient.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-25" who="GRIFFON">
+            <p>
+              <s>Hé, qui de nous dus est le fat ? </s>
+              <s>Hem cadédis mon veau frère, bous me ferez raison de la conduite de ma soeur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-26" who="TOBIE">
+            <p>
+              <s>Voilà une méchante créature, je ne l’aurais jamais cru.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-27" who="JOSSELIN">
+            <p>
+              <s>Quand elle viendra vous étouffer de caresses, je vous conseille de l’étrangler par bonne amitié.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-28" who="TOBIE">
+            <p>
+              <s>C’est chez vous qu’elle a sucé ce mauvais lait-là.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-29" who="GRIFFON">
+            <p>
+              <s>Oui, oui, cadédis, l’absinthe n’est pas plus amère que le lait que je leur fais sucer ; bersez, bersez, veau Ganymède, bous allez boir veau frère. </s>
+              <s>À la santé de la compagnie.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-30" who="JOSSELIN">
+            <p>
+              <s>Ahy, ahy, ahy.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-31" who="GRIFFON">
+            <p>
+              <s>Bouais, c’est que je ne la tiens pas droite.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-32" who="JOSSELIN">
+            <p>
+              <s>Prenez donc garde.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-33" who="ANSELME">
+            <p>
+              <s>Voyez, voyez.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-34" who="GRIFFON">
+            <p>
+              <s>La main me tremble. </s>
+            </p>
+          </sp>
+          <sp xml:id="I17-35" who="JOSSELIN">
+            <p>
+              <s>Ah ! </s>
+              <s>L’on a approché de votre domaine plus près que de la ban-lieue.</s>
+            </p>
+          </sp>
+          <sp xml:id="I17-36" who="GRIFFON">
+            <p>
+              <s>Ma foi, je n’y comprends plus rien. </s>
+              <s>Monsieur est von, on le trahit ; je suis sébère et l’on me trompe ; sandis comment faut-il donc faire avec ces diantres d’animaux-là ? </s>
+              <s>Allons, on s’en mordra les doigts. </s>
+              <s>Sans adieu.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I18" type="scene" n="18">
+          <head>SCÈNE XVIII. Anselme, Tobie, Thibaut, Josselin, Lucinde, Perrette.<listPerson type="configuration" xml:id="conf18"/></head>
+          <sp xml:id="I18-1" who="ANSELME">
+            <p>
+              <s>Jusques au revoir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-2" who="JOSSELIN">
+            <p>
+              <s>Vous plaît-il boire encore un coup ? </s>
+              <s>À ça à vous le dé, pays.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-3" who="THIBAUD">
+            <p>
+              <s>À moi ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-4" who="LUCINDE">
+            <p>
+              <s>Perrette ton mari va boire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-5" who="PERRETTE">
+            <p>
+              <s>À quoi s’amuse-t-il ce n’est pas que je craigne rien, mais le coeur me tape.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-6" who="JOSSELIN">
+            <p>
+              <s>À cause que vous êtes un bon frère, en voilà rasade, buvez.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-7" who="THIBAUD">
+            <p>
+              <s>Palsangué je n’ai pas soif.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-8" who="JOSSELIN">
+            <p>
+              <s>Il ne s’agit pas d’avoir soif, et c’est seulement par curiosité, et pour savoir si vous êtes aimé de votre femme, buvez.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-9" who="THIBAUD">
+            <p>
+              <s>Non, morgué je ne boirai point, et si le vin allait répandre par hasard, testigué voyez-vous. </s>
+              <s>Je suis maladroit de ma nature, quand je saurais ça en serais plus gras, en aurais-je la jambe plus droite, en dormirais-je plus que des deux yeux, en mangerais-je autrement que par la bouche, non pargué ; c’est pourquoi frère je suis votre sarviteur, je ne boirai point.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-10" who="JOSSELIN">
+            <p>
+              <s>Voilà un rustre d’assez bon sens.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-11" who="ANSELME">
+            <p>
+              <s>C’est ce qui me sembler, et je suis quasi fâché de n’avoir pas été de son humeur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-12" who="TOBIE">
+            <p>
+              <s>Oh, pardi mon Fermier vous avez plus d’esprit que votre Maître.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-13" who="THIBAUD">
+            <p>
+              <s>Jarni, je ne sais pas si je fais bien, mais je sais bien que je serais fâché de faire autrement ; j’aime Parrette, elle est ma femme, quand elle serait la femme d’un autre elle ne me plairait pas davantage, je ne sais si je lui plais finfirmement, elle en fait le semblant du moins, je ne rentre de fois chez moi, que je ne la retrouve tintelle que je l’ai laissée, il n’y a pas un iota à dire. </s>
+              <s>Elle aime à batifoler, je suis d’himeur batifolante, je batifolons sans cesse, et si je m’allais mettre dans la sarvelle tous vos engeins greignaux, adieu le batifolage, non palsanguoi, je n’en ferai rien.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-14" who="JOSSELIN">
+            <p>
+              <s>Voilà, comme je veux être et si je me marie... </s>
+              <s>Mais je ne me marierai pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-15" who="PERRETTE">
+            <p>
+              <s>Madame je suis si niaise que je ne saurais plus m’en tenir, il faut que j’aille embrasser notre homme.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-16" who="LUCINDE">
+            <p>
+              <s>Attends, Perrette, que vas-tu faire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-17" who="JOSSELIN">
+            <p>
+              <s>Voilà la perle des Maris, ami, touche-là.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-18" who="THIBAUD">
+            <p>
+              <s>Votre valet.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-19" who="TOBIE">
+            <p>
+              <s>Voilà l’exemple des honnêtes gens. </s>
+              <s>Embrasse-moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-20" who="THIBAUD">
+            <p>
+              <s>Votre serviteur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-21" who="ANSELME">
+            <p>
+              <s>Voilà le miroir de la vie paisible</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-22" who="THIBAUD">
+            <p>
+              <s>Votre très-humble.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-23" who="PERRETTE">
+            <p>
+              <s>Voilà un vrai homme à femme. </s>
+              <s>Ah, que je te baiserai tantôt.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-24" who="THIBAUD">
+            <p>
+              <s>Hé ! </s>
+              <s>Testigué, c’est Perrette.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-25" who="ANSELME">
+            <p>
+              <s>Que vois-je ? </s>
+              <s>Des Femmes ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-26" who="THIBAUD">
+            <p>
+              <s>Je n’ai morgué pas voulu boire dans la Coupe, elle eut peut-être dit quelque chose qui m’aurait chagriné.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-27" who="PERRETTE">
+            <p>
+              <s>Elle n’eut rien dit. </s>
+              <s>Mais tu as bien fait, je t’en aime davantage.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-28" who="TOBIE">
+            <p>
+              <s>Perrette, qu’as-tu fait de ma Fille ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-29" who="LUCINDE">
+            <p>
+              <s>La voilà, mon Père, qui se lette à vos genoux, pour vous demander pardon.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-30" who="TOBIE">
+            <p>
+              <s>Va, ma Fille, je te pardonne.</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-31" who="ANSELME">
+            <p>
+              <s>Par quels moyens ces Femmes sont-elles entrées chez moi ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I18-32" who="JOSSELIN">
+            <p>
+              <s>Je ne sais. </s>
+              <s>Ce sont peut-être elles, qui ont fait naître à Monsieur votre Fils les idées...</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I19" type="scene" n="19">
+          <head>SCÈNE XIX. Anselme, Tobie, Lélie, Lucinde, Perrette, Josselin, Thibaut, Bertrand.<listPerson type="configuration" xml:id="conf19"/></head>
+          <sp xml:id="I19-1" who="BERTRAND">
+            <p>
+              <s>Ce n’est pas par-là, vous dis-je ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-2" who="LELIE">
+            <p>
+              <s>Non, non, laisse-moi ; mais que vois-je ? </s>
+              <s>Ah ! </s>
+              <s>C’est ce que je cherche. </s>
+              <s>Oui, mon Père les voilà, souffrez que je les amène à ma chambre, je vous promets de n’en sortir jamais.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-3" who="ANSELME">
+            <p>
+              <s>Où suis-je ? </s>
+              <s>Que vois-je ? </s>
+              <s>Qu’entends-je ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-4" who="LELIE">
+            <p>
+              <s>Ah ! </s>
+              <s>Mon Père, n’allez pas gronder, de peur de les effaroucher encore.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-5" who="ANSELME">
+            <p>
+              <s>C’en est fait. </s>
+              <s>La Destinée et la Nature sont plus fortes que mes raisonnements, votre seule présence lui en a plus appris en un moment que je ne lui en avais caché pendant seize années.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-6" who="JOSSELIN">
+            <p>
+              <s>Cela est admirable.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-7" who="ANSELME">
+            <p>
+              <s>Je commence moi-même à me rendre à la raison, et je vais changer de manière.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-8" who="TOBIE">
+            <p>
+              <s>Qu’est-ce que tout ceci ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-9" who="ANSELME">
+            <p>
+              <s>Vous le saurez, Monsieur ; en attendant qu’on vous l’apprenne, je vous dirai seulement que mon fils a beaucoup de noblesse, et plus de bien ; et qu’il ne tient qu’à vous d’unir sa destinée à celle de Mademoiselle votre fille.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-10" who="TOBIE">
+            <p>
+              <s>Volontiers. </s>
+              <s>J’en serai ravi, et cela fera enrager ma femme.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-11" who="LELIE">
+            <p>
+              <s>Je ne comprends rien à tous ces discours. </s>
+              <s>Que veulent-ils dire, Monsieur Josselin ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-12" who="JOSSELIN">
+            <p>
+              <s>Cette belle vous l’apprendra.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-13" who="ANSELME">
+            <p>
+              <s>Oui, mon Fils, je vous la donne en mariage.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-14" who="LELIE">
+            <p>
+              <s>En mariage ? </s>
+              <s>Cela signifie-t-il qu’elle demeurera toujours avec moi, mon Père.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-15" who="ANSELME">
+            <p>
+              <s>Oui, mon Fils.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-16" who="LELIE">
+            <p>
+              <s>Qu’elle joie ! </s>
+              <s>Ah, Mon Père, que je vous ai d’obligation.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-17" who="JOSSELIN">
+            <p>
+              <s>Jamais le petit fripon n’a embrassé si fort.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-18" who="THIBAUD">
+            <p>
+              <s>Pargué, Perrette, tout ça est drôle.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-19" who="PERRETTE">
+            <p>
+              <s>Oui, tout cela est bel et bon. </s>
+              <s>Mais cette chienne de Coupe, que devient-elle ? </s>
+              <s>Qu’il n’en soit plus parlé ; car quoique je ne craignons rien, je ne dormirions point en repos, voyez-vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-20" who="ANSELME">
+            <p>
+              <s>Qu’elle ne vous inquiète point. </s>
+              <s>Je la briserai en votre présence.</s>
+            </p>
+          </sp>
+          <sp xml:id="I19-21" who="JOSSELIN">
+            <p>
+              <s>Quelqu’un veut-il faire essai de la Coupe ? </s>
+              <s>Qu’il se dépêche ; mais franchement, je ne conseille à personne d’y boire ; et l’exemple du Paysan est, sur ma foi, le meilleur à suivre.</s>
+            </p>
+          </sp>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>

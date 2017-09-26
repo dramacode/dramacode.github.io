@@ -1,0 +1,3484 @@
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Victor</title>
+        <title type="sub">, ou l’enfant de la forêt, drame.</title>
+        <author born="1773" born_location="Nancy" death="1844" death_location="Nancy" academie="">
+          <surname>Guilbert-pixerécourt</surname>
+          <forename> René Charles</forename>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p>publié par Paul FIEVRE, janvier 2014</p>
+        <idno/>
+      </publicationStmt>
+      <sourceDesc>
+        <genre>Drame</genre>
+        <inspiration>moeurs françaises</inspiration>
+        <structure>Trois actes</structure>
+        <type>prose</type>
+        <periode>1791-1800</periode>
+        <taille>(mesure non pertinente)</taille>
+        <permalien>http://gallica.bnf.fr/ark:/12148/bpt6k840599n</permalien>
+        <sources>
+          <source id="1">
+            <author/>
+            <text/>
+          </source>
+        </sources>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="created" when="1798-05-12"/>
+        <date type="issued" when="1798"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre">Drame</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 xml:id="I" type="act" n="1">
+        <head>ACTE I</head>
+        <div2 xml:id="I01" type="scene" n="1">
+          <head>SCÈNE PREMIÈRE.<listPerson type="configuration" xml:id="conf1"/></head>
+          <sp xml:id="I01-1" who="VICTOR">
+            <p>
+              <s>Oui, je dois fuir ce séjour ; l’honneur l’exige. </s>
+              <s>Ce château où l’on éleva mon enfance ; ce jardin où je reçus cent fois les innocentes caresses de ma Clémence, de Clémence qui ne voit qu’un frère dans celui que le plus violent amour consume, je quitterai tout... </s>
+              <s>Oui, tout. </s>
+              <s>Mais mon protecteur !... </s>
+              <s>Cet homme respectable et vertueux qui compte sur moi pour adoucir les ennuis de sa vieillesse ; aurai-je bien le courage de l’abandonner ?... </s>
+              <s>Ingrat Victor ! </s>
+              <s>L’as-tu pu concevoir cet affreux projet ?... </s>
+              <s>Et pourquoi fuir ?... </s>
+              <s>Si je lui déclarais mon amour pour sa fille, cet amour pur et fondé sur la reconnaissance, pourrait-il me repousser de son sein après m’avoir tant de fois accable des bontés les plus touchantes ?... </s>
+              <s>Non Le baron de Fritzierne est sage, il fait peu de cas de la naissance, des dons de la fortune : il n’estime que l’honneur et la probité ; il me jugera digne de sa fille, il nous unira !... </s>
+              <s>Ô ma Clémence !... </s>
+              <s>Et que dis-je, insensé !... </s>
+              <s>Toi, malheureux enfant, trouvé dans une foret : toi, sans parents, sans amis, sans appui sur la terre, tu deviendrais le gendre de l’un des plus riches seigneurs d’Allemagne !... </s>
+              <s>Non, non. Victor ; cesse de t’abuser : ce bonheur n’est pas fait pour toi. </s>
+              <s>Fuis, malheureux !... </s>
+              <s>Fuis des lieux que ta présence ne tarderait point à troubler.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I02" type="scene" n="2">
+          <head>SCÈNE II. Victor, Clémence.<listPerson type="configuration" xml:id="conf2"/></head>
+          <sp xml:id="I02-1" who="CLEMENCE">
+            <p>
+              <s>Bonjour Victor.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-2" who="VICTOR">
+            <p>
+              <s>Que vas-tu faire  ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-3" who="CLEMENCE">
+            <p>
+              <s>Est-ce que mes caresses te déplaisent ! </s>
+              <s>Tu n’aimes donc plus ta sœur  ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-4" who="VICTOR">
+            <p>
+              <s>Ma sœur ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-5" who="CLEMENCE">
+            <p>
+              <s>Y a t-il du mal à embrasser son frère ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-6" who="VICTOR">
+            <p>
+              <s>Ton frère, Clémence ! </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-7" who="CLEMENCE">
+            <p>
+              <s>Eh oui, mon frère. </s>
+              <s>Mais voyez donc comme il me parle aujourd’hui  ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-8" who="VICTOR">
+            <p>
+              <s>Laisse-moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-9" who="CLEMENCE">
+            <p>
+              <s>Je te suis donc importune ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-10" who="VICTOR">
+            <p>
+              <s>Non pas. </s>
+              <s>Mais....</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-11" who="CLEMENCE">
+            <p>
+              <s>Tu as de chagrin, n’est-ce pas ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-12" who="VICTOR">
+            <p>
+              <s>Hélas !</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-13" who="CLEMENCE">
+            <p>
+              <s>Oui, c’est pour cela que tu as besoin de moi ; qui adoucira tes peines ? </s>
+              <s>Qui les partagera ? </s>
+              <s>Qui te consolera ? </s>
+              <s>Si ce n’est ta sœur.... </s>
+              <s>Ta sœur qui t’aime !...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-14" who="VICTOR">
+            <p>
+              <s>Tu m’aimes, Clémence ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-15" who="CLEMENCE">
+            <p>
+              <s>Tenez !... </s>
+              <s>Il en doute à présent ! </s>
+              <s>Tu sais combien je chéris mon père ; et bien, je ne sais pourquoi, il me semble que tu m’es encore plus cher que lui ; c’est peut-être mal à moi, mais mon cœur n’est pas maître de surmonter cet excès de tendresse.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-16" who="VICTOR">
+            <p>
+              <s>Que me dis-tu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-17" who="CLEMENCE">
+            <p>
+              <s>La vérité.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-18" who="VICTOR">
+            <p>
+              <s>Ah ! </s>
+              <s>Par pitié Clémence, éloigne toi, laisse-moi te fuir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-19" who="CLEMENCE">
+            <p>
+              <s>Toi, nous fuir !.... </s>
+              <s>Tu n’y songes pas... </s>
+            </p>
+            <p>
+              <s>N’est-ce pas Victor, que tu n’en a pas envie !....</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-20" who="VICTOR">
+            <p>
+              <s>Laisse-moi, laisse-moi seul avec ma douleur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-21" who="CLEMENCE">
+            <p>
+              <s>Mais, que t’ai-je donc fait pour me traiter avec tant de froideur ? </s>
+              <s>Depuis quelque temps tu m’évites, tu repousses mes caresses, tout-à-l’heure encore....</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-22" who="VICTOR">
+            <p>
+              <s>Ah ! </s>
+              <s>Clémence, si tu savais...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-23" who="CLEMENCE">
+            <p>
+              <s>Parle, mon cher Victor, si tu as quelque secret, dis-le moi. </s>
+              <s>Je suis jeune encore, mais digne de toute ta confiance.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-24" who="VICTOR">
+            <p>
+              <s>Tu l’apprendras trop tôt ce fatal secret.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-25" who="CLEMENCE">
+            <p>
+              <s>Peux-tu me refuser ?... </s>
+              <s>Mon frère... </s>
+              <s>Mon cher Victor... </s>
+              <s>Tu ne m’aimes donc plus ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-26" who="VICTOR">
+            <p>
+              <s>Clémence, promets-moi de garder dans ton sein l’aveu que je vais te faire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-27" who="CLEMENCE">
+            <p>
+              <s>Parle, parle, Victor.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-28" who="VICTOR">
+            <p>
+              <s>Jure-moi...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-29" who="CLEMENCE">
+            <p>
+              <s>Qu’est-il besoin de serment ? </s>
+              <s>Ton cœur et le mien ne font qu’un.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-30" who="VICTOR">
+            <p>
+              <s>Femme divine !... </s>
+              <s>Apprends !...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-31" who="CLEMENCE">
+            <p>
+              <s>Eh bien !</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-32" who="VICTOR">
+            <p>
+              <s>Apprends qu’un feu dévorant circule dans mes veines ; que je t’aime, que je t’adore...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-33" who="CLEMENCE">
+            <p>
+              <s>Quel mal est-il à cela ? </s>
+              <s>Et moi aussi je t’aime, je t’adore.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-34" who="VICTOR">
+            <p>
+              <s>Et sais-tu ce qui fait mon tourment ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-35" who="CLEMENCE">
+            <p>
+              <s>Non.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-36" who="VICTOR">
+            <p>
+              <s>Apprends que tu n’es pas ma sœur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-37" who="CLEMENCE">
+            <p>
+              <s>Quoi ! </s>
+              <s>Je ne suis pas...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-38" who="VICTOR">
+            <p>
+              <s>Non, tu n’es pas ma sœur, je ne suis pas ton frère : je ne suis qu’un amant ivre de tes charmes, de tes vertus ; un enfant trouvé dans une forêt, recueilli par ton père, élevé par lui comme son propre fils. </s>
+              <s>Voilà tout ce que je suis.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-39" who="CLEMENCE">
+            <p>
+              <s>Tu n’es pas mon frère... </s>
+              <s>Quel bonheur !</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-40" who="VICTOR">
+            <p>
+              <s>Quoi ! </s>
+              <s>Tu me pardonne de t’aimer ? </s>
+              <s>Tu ne me punis point....</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-41" who="CLEMENCE">
+            <p>
+              <s>Et de quoi, mon ami ? </s>
+              <s>Au contraire, nous avons maintenant l’espérance d’être unis.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-42" who="VICTOR">
+            <p>
+              <s>Qu’entends-je ! </s>
+              <s>Il se pourrait ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-43" who="CLEMENCE">
+            <p>
+              <s>Oui, Victor, que cet espoir consolateur dissipe ta tristesse. </s>
+              <s>Tu connais mon père ! </s>
+              <s>Tu sais combien il a le cœur bon, généreux.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-44" who="VICTOR">
+            <p>
+              <s>Que veux-tu dire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-45" who="CLEMENCE">
+            <p>
+              <s>Qu’il nous unira. </s>
+              <s>Apprends qu’il m’a dit cent fois : « Ma fille, aime Victor ; aime-le bien, aime-le comme un autre moi-même. </s>
+              <s>J’ai des projets sur lui.»</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-46" who="VICTOR">
+            <p>
+              <s>Comment ? Il t’aurait dit...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-47" who="CLEMENCE">
+            <p>
+              <s>Écoute : « Un jour, ajoutait-il, ce frère chéri pourra faire ton bonheur, celui de ma vieillesse.»</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-48" who="VICTOR">
+            <p>
+              <s>Et tu crois...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-49" who="CLEMENCE">
+            <p>
+              <s>Que c’est de notre hymen qu’il parlait. </s>
+              <s>Oui, Victor, il te regarde déjà comme un fils, comme un gendre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-50" who="VICTOR">
+            <p>
+              <s>Clémence, il ne faut pas qu’un fol amour nous aveugle. </s>
+              <s>Je ne suis qu’un orphelin, sans ami, sans parents, et je ne dois point prétendre...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-51" who="CLEMENCE">
+            <p>
+              <s>Viens toujours, mon cher Victor, mon frère... </s>
+              <s>Ah ! </s>
+              <s>Pardonne-moi ce nom qui m’est échappé.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-52" who="VICTOR">
+            <p>
+              <s>Oh oui ! </s>
+              <s>Nomme-moi ton frère, que je conserve toujours ce titre près de toi, puisqu’il ne m’est pas permis d’en espérer un plus doux.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-53" who="CLEMENCE">
+            <p>
+              <s>Viens, te dis-je, allons trouver mon père, il saura l’amour que nous avons l’un pour l’autre...</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-54" who="VICTOR">
+            <p>
+              <s>Gardons-nous de l’en instruire, je crains tout de sa colère s’il apprenait que j’eusse osé élever mes vœux jusqu’à toi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-55" who="CLEMENCE">
+            <p>
+              <s>Non, mon ami, ne crains point qu’il ait cette rigueur extrême. </s>
+              <s>Un père peut-il ne pas vouloir le bonheur de ses enfants ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-56" who="VICTOR">
+            <p>
+              <s>Mais Victor n’a point de richesse.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-57" who="CLEMENCE">
+            <p>
+              <s>Ton amour les remplacera. </s>
+              <s>Courons, te dis-je, nous jeter dans ses bras, il ne tardera point à sceller notre bonheur. </s>
+              <s>Victor avant peu sera mon époux.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-58" who="VICTOR">
+            <p>
+              <s>Moi, son époux ! </s>
+              <s>Où m’égarai-je ! </s>
+            </p>
+            <p>
+              <s>Écoute. </s>
+              <s>Clémence, vas trouver ton père : préviens-le sur tout ce que j’ai à lui dire : un premier aveu de ta part le disposera à m’entendre plus favorablement. </s>
+              <s>Je ne tarderai point à te suivre, je joindrai mes instances aux tiennes, et....</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-59" who="CLEMENCE">
+            <p>
+              <s>Tu as raison ; j’y vole. </s>
+              <s>Mais ne tarde pas à me rejoindre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-60" who="VICTOR">
+            <p>
+              <s>Peux-tu croire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-61" who="CLEMENCE">
+            <p>
+              <s>Tu hésites, mon ami.... </s>
+              <s>Promets-moi de venir bientôt me retrouver.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-62" who="VICTOR">
+            <p>
+              <s>Je... te... le... promets.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-63" who="CLEMENCE">
+            <p>
+              <s>Adieu, Victor.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-64" who="VICTOR">
+            <p>
+              <s>Adieu, Clémence. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-65" who="CLEMENCE">
+            <p>
+              <s>Ne tarde pas au moins.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I03" type="scene" n="3">
+          <head>SCÈNE III.<listPerson type="configuration" xml:id="conf3"/></head>
+          <sp xml:id="I03-1" who="VICTOR">
+            <p>
+              <s>Malheureux ! </s>
+              <s>Qu’allais-je faire ?... </s>
+              <s>Me présenter au baron de Fritzierne ? </s>
+              <s>Lui demander la main de sa fille ? </s>
+              <s>Quel délire m’entraînait ! </s>
+              <s>Cesse de t’aveugler, Victor ; ce bon vieillard t’estime, il te traite comme son fils, mais ce sont les liens de la fraternité, et non ceux de l’amour qu’il a voulu resserrer entre sa fille et toi ; jamais il ne consentirait à une union aussi disproportionnée. </s>
+              <s>Vas, fuis, il le faut d’après l’aveu que tu viens de faire. </s>
+              <s>J’abhorre jusqu’à l’idée de la séduction, et cet homme généreux m’accuserait d’ingratitude !... </s>
+              <s>Fuyons.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I04" type="scene" n="4">
+          <head>SCÈNE IV. Victor, Valentin.<listPerson type="configuration" xml:id="conf4"/></head>
+          <sp xml:id="I04-1" who="VALENTIN">
+            <p>
+              <s>Non, monsieur, vous ne fuirez pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-2" who="VICTOR">
+            <p>
+              <s>C’est toi, Valentin ! </s>
+              <s>Et d’où sais-tu ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-3" who="VALENTIN">
+            <p>
+              <s>Je sais tout, monsieur ; et ce qu’il y a de plus affreux, c’est que je l’ai appris par un autre que vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-4" who="VICTOR">
+            <p>
+              <s>Valentin...</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-5" who="VALENTIN">
+            <p>
+              <s>Oui, monsieur, je vous en veux beaucoup.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-6" who="VICTOR">
+            <p>
+              <s>Mon ami....</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-7" who="VALENTIN">
+            <p>
+              <s>Je ne le suis pas, monsieur, on n’a point de secret pour son ami, et je vois bien que je ne suis que votre domestique.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-8" who="VICTOR">
+            <p>
+              <s>Mais enfin, qui t’a dit ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-9" who="VALENTIN">
+            <p>
+              <s>C’est mademoiselle Clémence.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-10" who="VICTOR">
+            <p>
+              <s>Clémence !</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-11" who="VALENTIN">
+            <p>
+              <s>Oh mon dieu ! </s>
+              <s>Oui, elle-même. </s>
+              <s>Elle vient de me dire tout-à-l’heure, avec cette grâce que vous lui connaissez.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-12" who="VICTOR">
+            <p>
+              <s>Eh bien ? </s>
+              <s>Elle t’a dit....</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-13" who="VALENTIN">
+            <p>
+              <s>Que vous n’étiez pas son frère. </s>
+              <s>Ça, je le savais bien, il me semble encore vous voir dans votre petit berceau le jour que monsieur le baron vous rapporta.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-14" who="VICTOR">
+            <p>
+              <s>Ensuite.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-15" who="VALENTIN">
+            <p>
+              <s>Après m’avoir raconté ce qui vient de se passer, elle m’a dit : mon cher Valentin, veille bien sur ton maître ; observe jusqu’à ses moindres démarches et viens m’en rendre compte.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-16" who="VICTOR">
+            <p>
+              <s>Et tu as entendu ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-17" who="VALENTIN">
+            <p>
+              <s>Que vous vouliez quitter cette maison. </s>
+              <s>Ah ça, voyons, pourquoi voulez vous vous en aller ? </s>
+              <s>Qu’est-ce qui vous y force ? </s>
+              <s>Vous aimez mademoiselle Clémence, elle vous aime aussi ? </s>
+              <s>Rien de plus naturel. </s>
+              <s>Vous n’êtes pas son frère ? </s>
+              <s>Tant mieux : vous avez l’espérance de l’obtenir.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-18" who="VICTOR">
+            <p>
+              <s>Jamais, Valentin.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-19" who="VALENTIN">
+            <p>
+              <s>Et moi, je vous dis que vous l’obtiendrez. </s>
+              <s>Monsieur le baron est un homme d’esprit ; il se gardera bien de refuser sa fille à un jeune homme aussi sage, aussi spirituel, aussi bien tourné que vous. </s>
+              <s>Si par hasard il vous refusait ; j’irais, oui monsieur, j’irais moi-même lui dire qu’il a tort, qu’il fait mal, qu’il...</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-20" who="VICTOR">
+            <p>
+              <s>Valentin !</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-21" who="VALENTIN">
+            <p>
+              <s>Oui, monsieur, j’irais. </s>
+              <s>C’est que je n’aime pas les injustices, moi ; et c’en serait une grande de ne pas faire votre bonheur à tous deux quand il n’a pour cela à dire qu’un oui.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-22" who="VICTOR">
+            <p>
+              <s>Songe donc, mon ami, que les convenances...</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-23" who="VALENTIN">
+            <p>
+              <s>Est-ce qu’il doit y avoir d’autres convenances entres les honnêtes gens que celles qui font le bonheur de la société ? </s>
+              <s>D’ailleurs, qui est-ce qui serait assez hardi pour vous reprocher quelque chose ?... </s>
+              <s>N’êtes-vous pas honnête et vertueux ? </s>
+              <s>N’avez-vous pas donné cent fois des preuves de courage dans les deux campagnes que vous venez de faire sous les ordres de Monsieur le Baron ? </s>
+              <s>Ah ! </s>
+              <s>Je voudrais bien que quelqu’un s’avisât de parler mal de vous devant moi !... </s>
+              <s>Nous verrions beau jeu, vraiment.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-24" who="VICTOR">
+            <p>
+              <s>Mais, ma naissance...</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-25" who="VALENTIN">
+            <p>
+              <s>Bel obstacle ! </s>
+              <s>Est-ce votre faute si votre père vous a abandonné ? </s>
+              <s>Devez-vous être malheureux toute votre vie, parce que vos parents sont ingrats et dénaturés ? </s>
+              <s>Voilà de belles raisons que vous me donnez-la ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-26" who="VICTOR">
+            <p>
+              <s>Si du moins je connaissais le nom de mon père.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-27" who="VALENTIN">
+            <p>
+              <s>Vous l’apprendrez peut-être un jour. </s>
+              <s>Tant il y a que vous êtes ici, que vous avez été élevé par monsieur le baron, qui vous chérit comme son fils, et qu’il y aurait de l’ingratitude à lui percer l’âme, en le quittant aussi brusquement.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-28" who="VICTOR">
+            <p>
+              <s>Il y en aurait bien davantage à nourrir dans le cœur de sa fille une passion funeste qui ne peut que faire son malheur. </s>
+              <s>Non, Valentin, tout ce que tu peux me dire ne changera rien à ma résolution, elle est invariable : le soleil ne me retrouvera plus dans ce château.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-29" who="VALENTIN">
+            <p>
+              <s>C’est votre dernier mot ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-30" who="VICTOR">
+            <p>
+              <s>Oui, mon ami.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-31" who="VALENTIN">
+            <p>
+              <s>Eh bien, monsieur, attendez moi là un moment...</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-32" who="VICTOR">
+            <p>
+              <s>Où vas-tu ?... </s>
+              <s>Trouver Clémence peut-être ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-33" who="VALENTIN">
+            <p>
+              <s>Non pas, monsieur. </s>
+              <s>J’ai cherché à vous détourner de ce projet insensé, mes raisons n’ont rien pu sur vous : je cours chercher mes effets.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-34" who="VICTOR">
+            <p>
+              <s>Pourquoi faire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-35" who="VALENTIN">
+            <p>
+              <s>Pour vous suivre, monsieur. </s>
+              <s>Quand un maître a la dureté de partir sans moi, croyez vous que j’aie le courage de l’abandonner ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-36" who="VICTOR">
+            <p>
+              <s>Quoi !... </s>
+              <s>Tu veux....</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-37" who="VALENTIN">
+            <p>
+              <s>Vous suivre partout ; ne vous quitter qu’à la mort.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-38" who="VICTOR">
+            <p>
+              <s>Y songes-tu, Valentin ? </s>
+              <s>Je n’ai ni fortune, ni amis.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-39" who="VALENTIN">
+            <p>
+              <s>Des amis, monsieur ? </s>
+              <s>Vous en aurez-un. </s>
+              <s>De la fortune ? </s>
+              <s>Voyez-vous cette bourse ? </s>
+              <s>C’est le fruit de mes épargnes, elle est à vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-40" who="VICTOR">
+            <p>
+              <s>Jamais.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-41" who="VALENTIN">
+            <p>
+              <s>À vous, à moi, à nous, comme vous voudrez.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-42" who="VICTOR">
+            <p>
+              <s>Brave homme !</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-43" who="VALENTIN">
+            <p>
+              <s>Et mais, cela n’est-il pas tout simple ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-44" who="VICTOR">
+            <p>
+              <s>Non, Valentin, je ne consentirai pas que tu me suives ; reste ; ah ! </s>
+              <s>Reste plutôt près de Clémence ; je serai sûr du moins que quelqu’un lui parlera de moi quand je n’y serai plus. </s>
+              <s>Entends-tu ? </s>
+              <s>Je ne veux pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-45" who="VALENTIN">
+            <p>
+              <s>Ah ! </s>
+              <s>Vous ne voulez pas ? </s>
+              <s>Eh bien, je veux voyager, moi. </s>
+              <s>Ah ça, je suis mon maître, peut-être ? </s>
+              <s>Vous ne pouvez pas m’empêcher d’aller où je voudrai ? </s>
+              <s>Eh bien, c’est à présent que je m’en vais, je suivrai la route que vous prendrez ; si vous ne voulez pas de ma compagnie, vous me chasserez, à la bonne heure.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-46" who="VICTOR">
+            <p>
+              <s>Moi, te chasser !... </s>
+              <s>Bon Valentin !... </s>
+              <s>Oh ! </s>
+              <s>Jamais.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-47" who="VALENTIN">
+            <p>
+              <s>Eh bien, voilà qui est dit, n’est ce pas ? </s>
+              <s>Nous faisons route ensemble.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-48" who="VICTOR">
+            <p>
+              <s>Oui, mon ami ; nous ne nous quittons plus.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-49" who="VALENTIN">
+            <p>
+              <s>Nous ne nous séparerons jamais.</s>
+            </p>
+            <p>
+              <s>Attendez-moi là, je suis à vous dans l’instant.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-50" who="VICTOR">
+            <p>
+              <s>Non pas. </s>
+              <s>Il est plus prudent de m’éloigner.... </s>
+              <s>Je vais sortir par la petite porte.</s>
+            </p>
+            <p>
+              <s>Tu me rejoindras par le sentier qui conduit à la forêt.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-51" who="VALENTIN">
+            <p>
+              <s>Cela suffit, monsieur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-52" who="VICTOR">
+            <p>
+              <s>De la discrétion surtout.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-53" who="VALENTIN">
+            <p>
+              <s>Ne craignez rien.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I05" type="scene" n="5">
+          <head>SCÈNE V.<listPerson type="configuration" xml:id="conf5"/></head>
+          <sp xml:id="I05-1" who="VICTOR">
+            <p>
+              <s>C’en est fait, je vais quitter ces lieux où je laisse tout ce qui pouvait m’attacher à la vie, et je les quitte pour n’y jamais revenir. </s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I06" type="scene" n="6">
+          <head>SCÈNE VI. Victor, Forban.<listPerson type="configuration" xml:id="conf6"/></head>
+          <sp xml:id="I06-1" who="FORBAN">
+            <p>
+              <s>Merci, l’ami. </s>
+              <s>Jamais porte ne fut ouverte plus à propos.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-2" who="VICTOR">
+            <p>
+              <s>Qui êtes-vous ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-3" who="FORBAN">
+            <p>
+              <s>Tu le sauras.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-4" who="VICTOR">
+            <p>
+              <s>Que voulez-vous ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-5" who="FORBAN">
+            <p>
+              <s>Un mot. </s>
+              <s>Es tu de ce château ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-6" who="VICTOR">
+            <p>
+              <s>Oui. </s>
+              <s>Pourquoi ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-7" who="FORBAN">
+            <p>
+              <s>Connais-tu le baron de Fritzierne ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I06-8" who="VICTOR">
+            <p>
+              <s>Sans doute.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-9" who="FORBAN">
+            <p>
+              <s>Vas lui porter cette lettre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-10" who="VICTOR">
+            <p>
+              <s>Que ne la lui remettez-vous vous-même ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-11" who="FORBAN">
+            <p>
+              <s>J’ai juré de ne jamais lui parler.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-12" who="VICTOR">
+            <p>
+              <s>Et de qui est cette lettre ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-13" who="FORBAN">
+            <p>
+              <s>De qui ? </s>
+              <s>C’est un secret.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-14" who="VICTOR">
+            <p>
+              <s>Un secret ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-15" who="FORBAN">
+            <p>
+              <s>Pour toi. </s>
+              <s>Mais il faut qu’il la reçoive s’il ne veut périr.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-16" who="VICTOR">
+            <p>
+              <s>Périr ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-17" who="FORBAN">
+            <p>
+              <s>Oui. </s>
+              <s>Cette lettre doit lui sauver la vie.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-18" who="VICTOR">
+            <p>
+              <s>Oh ciel ! </s>
+              <s>Mon bienfaiteur !.. </s>
+              <s>Ses jours seraient menacés ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-19" who="FORBAN">
+            <p>
+              <s>Très fort.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-20" who="VICTOR">
+            <p>
+              <s>Et par qui ?... </s>
+              <s>Serait-ce toi ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-21" who="FORBAN">
+            <p>
+              <s>Moi !... </s>
+              <s>Non, je ne lui en veux pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-22" who="VICTOR">
+            <p>
+              <s>Et qui donc ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-23" who="FORBAN">
+            <p>
+              <s>Un homme puissant, un homme dont la seule menace est un arrêt de mort, et à qui le baron doit une satisfaction dont ses jours répondent.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-24" who="VICTOR">
+            <p>
+              <s>Ses jours sont en danger ; et j’allais le quitter ! </s>
+            </p>
+            <p>
+              <s>Mais c’est une insulte qu’on lui fait, le baron est vertueux. </s>
+              <s>Il ne peut avoir offensé personne.</s>
+            </p>
+            <p>
+              <s>Et toi on te charge d’un pareil message ; qui que tu sois, tremble de l’avoir outragé.</s>
+            </p>
+          </sp>
+          <sp xml:id="I06-25" who="FORBAN">
+            <p>
+              <s>Doucement, jeune homme, ne t’y fie pas ; tu ne serais pas le plus fort. </s>
+              <s>Adieu : fais ma commission, ou tu es perdu toi-même.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I07" type="scene" n="7">
+          <head>SCÈNE VII.<listPerson type="configuration" xml:id="conf7"/></head>
+          <sp xml:id="I07-1" who="VICTOR">
+            <p>
+              <s>« Il faut qu’il l’a reçoive, s’il ne veut périr,» a dit cet homme. </s>
+              <s>Ah ! </s>
+              <s>Courons, courons la lui porter. </s>
+              <s>Mais que lui dire s’il a vu Clémence ?... </s>
+              <s>S’il sait.... </s>
+              <s>Et qu’importe ! </s>
+              <s>Sauvons d’abord ses jours.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I08" type="scene" n="8">
+          <head>SCÈNE VIII. Victor, Valentin.<listPerson type="configuration" xml:id="conf8"/></head>
+          <sp xml:id="I08-1" who="VICTOR">
+            <p>
+              <s>Te voilà, Valentin.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-2" who="VALENTIN">
+            <p>
+              <s>Oui, monsieur. </s>
+              <s>Vous vous impatientez peut-être ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-3" who="VICTOR">
+            <p>
+              <s>Non. </s>
+              <s>Dis-moi... </s>
+              <s>Le baron ?....</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-4" who="VALENTIN">
+            <p>
+              <s>Allez, allez, monsieur, tout est bien changé !</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-5" who="VICTOR">
+            <p>
+              <s>Comment ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-6" who="VALENTIN">
+            <p>
+              <s>Nous ne partons plus.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-7" who="VICTOR">
+            <p>
+              <s>Qui te l’a dit ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-8" who="VALENTIN">
+            <p>
+              <s>Je viens de voir monsieur le baron.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-9" who="VICTOR">
+            <p>
+              <s>Que veux-tu dire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-10" who="VALENTIN">
+            <p>
+              <s>Il était avec sa fille.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-11" who="VICTOR">
+            <p>
+              <s>Mais quel rapport ?....</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-12" who="VALENTIN">
+            <p>
+              <s>Elle lui racontait tout.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-13" who="VICTOR">
+            <p>
+              <s>Eh bien ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-14" who="VALENTIN">
+            <p>
+              <s>Quand il l’a vu pleurer....</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-15" who="VICTOR">
+            <p>
+              <s>Vas donc.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-16" who="VALENTIN">
+            <p>
+              <s>Il s’est attendri.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-17" who="VICTOR">
+            <p>
+              <s>Ensuite.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-18" who="VALENTIN">
+            <p>
+              <s>Alors... </s>
+              <s>J’ai peut-être mal fait ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-19" who="VICTOR">
+            <p>
+              <s>Achève donc.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-20" who="VALENTIN">
+            <p>
+              <s>Je lui ai tout dit.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-21" who="VICTOR">
+            <p>
+              <s>Après....</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-22" who="VALENTIN">
+            <p>
+              <s>Il s’est levé tout d’un coup ; puis il est parti.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-23" who="VICTOR">
+            <p>
+              <s>Où est-il ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-24" who="VALENTIN">
+            <p>
+              <s>Mais j’ai couru plus fort que lui.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-25" who="VICTOR">
+            <p>
+              <s>Où est-il, te dis je ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-26" who="VALENTIN">
+            <p>
+              <s>Il suit mes pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-27" who="VICTOR">
+            <p>
+              <s>Il faut que je lui parle.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-28" who="VALENTIN">
+            <p>
+              <s>Le voilà.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I09" type="scene" n="9">
+          <head>SCÈNE IX. Les Précédents, Le Baron, Clémence.<listPerson type="configuration" xml:id="conf9"/></head>
+          <sp xml:id="I09-1" who="CLEMENCE">
+            <p>
+              <s>Il n’est pas parti, mon père !.... </s>
+              <s>Le voilà.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-2" who="LEBARON">
+            <p>
+              <s>Est-il vrai, mon ami, que tu voulais nous fuir ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-3" who="CLEMENCE">
+            <p>
+              <s>C’est donc ainsi que tu tiens tes promesses ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-4" who="LEBARON">
+            <p>
+              <s>Il faut que tu m’estimes bien peu pour me croire capable de sacrifier le bonheur de ma fille à l’orgueil et à l’ambition.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-5" who="CLEMENCE">
+            <p>
+              <s>Ne te l’avais-je pas dit ? </s>
+              <s>Il n’a cependant pas voulu me croire.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-6" who="VICTOR">
+            <p>
+              <s>Pardon, mon père, et vous ma Clémence. </s>
+              <s>Un intérêt plus pressant me ramène vers vous...</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-7" who="CLEMENCE">
+            <p>
+              <s>Que signifie ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-8" who="VICTOR">
+            <p>
+              <s>Je viens de sauver vos jours.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-9" who="LEBARON">
+            <p>
+              <s>Que veux-tu dire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-10" who="VICTOR">
+            <p>
+              <s>Un homme d’un aspect effrayant et armé jusqu’aux dents, vient de me remettre cette lettre, de laquelle dépend, dit-il, votre vie.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-11" who="LEBARON">
+            <p>
+              <s>Et c’est pour me la donner que tu as changé de dessein ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-12" who="VICTOR">
+            <p>
+              <s>On menaçait vos jours ! </s>
+              <s>Et j’aurais pu vous quitter ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-13" who="LEBARON">
+            <p>
+              <s>Bon jeune homme !</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-14" who="VALENTIN">
+            <p>
+              <s>Oh ! </s>
+              <s>Je le reconnais bien là.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-15" who="LEBARON">
+            <p>
+              <s>Vas, tu en seras bien récompensé.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-16" who="VICTOR">
+            <p>
+              <s>Voyez donc, mon père, ce que contient cette lettre mystérieuse.  </s>
+            </p>
+          </sp>
+          <sp xml:id="I09-17" who="LEBARON">
+            <p>
+              <s>Voyons.</s>
+            </p>
+            <p>
+              <s>ROGER.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-18" who="VALENTIN">
+            <p>
+              <s>Roger !</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-19" who="VICTOR">
+            <p>
+              <s>Quoi ! </s>
+              <s>Le chef des brigands qui infestent l’Allemagne depuis si longtemps ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-20" who="LEBARON">
+            <p>
+              <s>Lui-même.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-21" who="VALENTIN">
+            <p>
+              <s>Mais depuis plus de quinze ans, il a quitté ce pays.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-22" who="LEBARON">
+            <p>
+              <s>On m’a assuré qu’il y était de retour, et qu’il avait traversé, il y a environ un mois, les terres du comte de Moldar notre voisin.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-23" who="VICTOR">
+            <p>
+              <s>Lisez-donc, mon père.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-24" who="LEBARON">
+            <p>
+              <s>« Tu sais si j’ai les moyens de punir quand on n’obéit point à mes ordres....»</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-25" who="VALENTIN">
+            <p>
+              <s>L’insolent !</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-26" who="LEBARON">
+            <p>
+              <s>« Je te promets de respecter ton château et tes propriétés si tu m’accordes ce que je désire... </s>
+              <s>Une femme que deux de mes soldats conduisaient à mon camp, il y a trois jours, a été arrachée de leurs bras par tes gens....»</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-27" who="CLEMENCE">
+            <p>
+              <s>Quoi ? </s>
+              <s>Madame Germain ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-28" who="LEBARON">
+            <p>
+              <s>Apparemment.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-29" who="VICTOR">
+            <p>
+              <s>Achevez de grâce.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-30" who="LEBARON">
+            <p>
+              <s>« Cette femme que tu as retirée chez toi est essentiellement nécessaire à mon repos ; il faut que tu me la livres dans vingt-quatre heures... »</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-31" who="VICTOR">
+            <p>
+              <s>Quelle audace !</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-32" who="LEBARON">
+            <p>
+              <s>« Tu la feras accompagner jusqu’à mon premier poste dans la forêt de Kingratz... »</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-33" who="VALENTIN">
+            <p>
+              <s>Ce n’est qu’à une demi lieue d’ici.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-34" who="LEBARON">
+            <p>
+              <s>« Si ce terme expiré, elle n’est point en mon pouvoir, tu me verras de près. » </s>
+              <s>ROGER, chef des indépendants. </s>
+              <s>Quelle insolence !</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-35" who="VICTOR">
+            <p>
+              <s>Cette pauvre madame Germain ! </s>
+              <s>Ne lui aurions-nous donné l’hospitalité que pour la livrer aussi lâchement ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I09-36" who="LEBARON">
+            <p>
+              <s>Cette idée affreuse.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-37" who="CLEMENCE">
+            <p>
+              <s>Tu la défendras, n’est-ce pas Victor ?</s>
+            </p>
+            <p>
+              <s>Courons la prévenir de ce qui se passe ; Ses instances déciderons mon père.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I10" type="scene" n="10">
+          <head>SCÈNE X. Le Baron, Victor, Valentin.<listPerson type="configuration" xml:id="conf10"/></head>
+          <sp xml:id="I10-1" who="VALENTIN">
+            <p>
+              <s>Il ignore donc Roger, qu’outre cinquante hommes de troupes de l’empereur qui sont ici sous vos ordre, vous avez encore plus de cent vassaux bien exercés et prêts à ver leur sang pour vous défendre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-2" who="LEBARON">
+            <p>
+              <s>Il est lui-même à la tête d’une troupe formidable ; il fera le siège du château.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-3" who="VALENTIN">
+            <p>
+              <s>Je ne crois pas qu’il l’ose.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-4" who="LEBARON">
+            <p>
+              <s>C’est un scélérat, mais doué d’un grand caractère. </s>
+              <s>Il est capable de tout pour enlever cette femme.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-5" who="VICTOR">
+            <p>
+              <s>N’importe. </s>
+              <s>Auriez-vous la faiblesse de céder à ses menaces ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-6" who="LEBARON">
+            <p>
+              <s>Non. </s>
+              <s>Si nous pouvons nous défendre.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-7" who="VALENTIN">
+            <p>
+              <s>En doutez-vous, monsieur le Baron ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-8" who="VICTOR">
+            <p>
+              <s>Mon père, vous avez du monde ici, le château est fortifié ; permettez-moi de me mettre à la tête de vos gens, et je vous réponds d’une vigoureuse résistance.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-9" who="LEBARON">
+            <p>
+              <s>Eh bien, soit, je te charge de l’exécution. </s>
+              <s>Moi, qui n’ai plus La force, j’ordonnerai dans l’intérieur, je veillerai à ce que rien ne vous manque ; et la victoire demeurera de notre côté si tu sais unir la prudence à la valeur ; car ce n’est pas tout, mon fils, que de bien commander une armée, il faut savoir ménager le sang de ses soldats ; c’est-là le premier talent du général. </s>
+              <s>Toi, Valentin, comme ancien militaire, tu commanderas sous Victor. </s>
+              <s>Vas rassembler notre petite armée.</s>
+            </p>
+          </sp>
+          <sp xml:id="I10-10" who="VALENTIN">
+            <p>
+              <s>Monsieur le Baron ! </s>
+              <s>Cette affaire-là ne sera pas la moins honorable pour moi, j’en réponds !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I11" type="scene" n="11">
+          <head>SCÈNE XI. Le Baron, Victor.<listPerson type="configuration" xml:id="conf11"/></head>
+          <sp xml:id="I11-1" who="LEBARON">
+            <p>
+              <s>Conçois-tu, Victor, ce que veut dire Roger en réclamant cette femme comme essentiellement nécessaire à son repos ? </s>
+              <s>D’où la connaît-il ? </s>
+              <s>Quel rapport peut-il y avoir entre le crime et la vertu ? </s>
+              <s>Car à Dieu ne plaise que je la soupçonne de nous en avoir imposé par les dehors les plus séduisants !</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-2" who="VICTOR">
+            <p>
+              <s>Elle semble bien malheureuse.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-3" who="LEBARON">
+            <p>
+              <s>Mais son refus obstiné de nous confier ses chagrins... </s>
+              <s>Le mystère dont elle s’environne...</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-4" who="VICTOR">
+            <p>
+              <s>Quelque considération puissante la force sans doute à se conduire ainsi ; mais je la crois vertueuse.</s>
+            </p>
+          </sp>
+          <sp xml:id="I11-5" who="LEBARON">
+            <p>
+              <s>Je la crois de même ; cependant je prétends qu’elle s’explique.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I12" type="scene" n="10">
+          <head>SCÈNE X.I. Les précédents, Clémence, Madame Germain.<listPerson type="configuration" xml:id="conf12"/></head>
+          <sp xml:id="I12-1" who="MADAMEGERMAIN">
+            <p>
+              <s>Ah  ! </s>
+              <s>Monsieur le Baron ! </s>
+              <s>Parlez.... </s>
+              <s>Rendez-moi la vie. </s>
+              <s>Vous venez de recevoir une lettre ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-2" who="LEBARON">
+            <p>
+              <s>Oui, madame, une lettre qui vous concerne.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-3" who="MADAMEGERMAIN">
+            <p>
+              <s>Elle est de...</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-4" who="LEBARON">
+            <p>
+              <s>Roger ? </s>
+              <s>Oui, madame, la voilà.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-5" who="MADAMEGERMAIN">
+            <p>
+              <s>Grand Dieu ! </s>
+              <s>Sauvez-moi d’un barbare ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-6" who="LEBARON">
+            <p>
+              <s>Oui, je vous sauverai, femme infortunée. </s>
+              <s>Relevez-vous, mais relevez-vous donc, madame, on croirait que vous êtes obligée de me prier.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-7" who="MADAMEGERMAIN">
+            <p>
+              <s>Non, monsieur, je ne me relève point que vous ne m’ayez promis de ne pas céder aux vœux d’un monstre qui a fait mon malheur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-8" who="LEBARON">
+            <p>
+              <s>Vous craignez donc tout de sa fureur ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-9" who="MADAMEGERMAIN">
+            <p>
+              <s>Oh oui ! </s>
+              <s>Tout.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-10" who="LEBARON">
+            <p>
+              <s>Pauvre madame Germain ! </s>
+              <s>Vous m’attendrissez.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-11" who="MADAMEGERMAIN">
+            <p>
+              <s>Homme généreux !</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-12" who="LEBARON">
+            <p>
+              <s>Mais, dites-moi.... </s>
+              <s>Quelle liaison y a-t-il entre cet homme et vous ? </s>
+              <s>Où l’avez vous connu ? </s>
+              <s>Que veut-il de vous enfin ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-13" who="MADAMEGERMAIN">
+            <p>
+              <s>Monsieur....</s>
+            </p>
+            <p>
+              <s>Que lui dire !  </s>
+            </p>
+          </sp>
+          <sp xml:id="I12-14" who="LEBARON">
+            <p>
+              <s>Il faut que je le sache pour régler ma conduire avec lui.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-15" who="MADAMEGERMAIN">
+            <p>
+              <s>Croyez, monsieur, qu’il en coûte à ma reconnaissance de ne pouvoir vous satisfaire. </s>
+              <s>Mais, je vous l’ai déjà dit, je ne puis parler.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-16" who="LEBARON">
+            <p>
+              <s>Vous ne pouvez parler ? </s>
+              <s>Quoi ! </s>
+              <s>Il faut que je vous reçoive que je vous défende sans vous connaître, sans savoir qui j’oblige ? </s>
+              <s>Il faut que je fasse seul tous les frais de l’amitié ?.... </s>
+              <s>Que puis-je penser d’une dissimulation aussi profonde ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-17" who="MADAMEGERMAIN">
+            <p>
+              <s>Qu’il vous suffise de savoir que je n’ai point mérité les maux qui m’accablent. </s>
+              <s>Oui, le ciel est témoin de mon innocence, de la pureté de ma conduite : le reste est le secret d’une amie que j’ai juré de ne point trahir. </s>
+              <s>Si vous persistez à vouloir le connaître, je cours me livrer à Roger ; j’aime mieux mourir que de manquer à l’honneur.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-18" who="VICTOR">
+            <p>
+              <s>Non, non, vous ne partirez point.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-19" who="CLEMENCE">
+            <p>
+              <s>Souffrirez-vous mon père ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-20" who="LEBARON">
+            <p>
+              <s>C’en est assez, je ne vous presse plus et vais répondre à Roger, comme je le dois.</s>
+            </p>
+          </sp>
+          <sp xml:id="I12-21" who="MADAMEGERMAIN">
+            <p>
+              <s>Famille généreuse ! </s>
+              <s>Comment pourrai-je m’acquitter envers vous ?</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I13" type="scene" n="13">
+          <head>SCÈNE XIII. LES PRÉCÉDENS, VALENTIN en uniforme, Soldats, Gens du château.<listPerson type="configuration" xml:id="conf13"/></head>
+          <sp xml:id="I13-1" who="VALENTIN">
+            <p>
+              <s>Monsieur le baron ! </s>
+              <s>Voici nos guerriers et en bonne disposition.</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-2" who="LEBARON">
+            <p>
+              <s>Fais-les avancer.</s>
+            </p>
+            <p>
+              <s>Mes amis, le chef des brigands qui désolent l’Allemagne, Roger ose me menacer ; il prétend arracher de ces lieux une victime que vous avez soustraite à sa fureur, mais je compte sur votre courage pour défendre une aussi juste cause.</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-3" who="VICTOR">
+            <p>
+              <s>Je réponds d’eux, mon père.</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-4" who="VALENTIN">
+            <p>
+              <s>Quand il s’agit de servir l’innocence, je me sens dix fois plus de force.</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-5" who="MADAMEGERMAIN">
+            <p>
+              <s>Ô mon Dieu ! </s>
+              <s>Quand finiront tant de maux ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-6" who="LEBARON">
+            <p>
+              <s>J’étais sûr de vos cœurs et de votre obéissance. </s>
+              <s>Pendant que je vais répondre à Roger ; toi, Victor, fais tout disposer pour notre défense, car je ne pense pas qu’il tarde à venir nous attaquer.</s>
+            </p>
+          </sp>
+          <sp xml:id="I13-7" who="VICTOR">
+            <p>
+              <s>Marchons mes amis.</s>
+            </p>
+          </sp>
+        </div2>
+      </div1>
+      <div1 xml:id="II" type="act" n="2">
+        <head>ACTE II</head>
+        <div2 xml:id="II01" type="scene" n="1">
+          <head>SCÈNE PREMIÈRE. Valentin, Un habitant, Gesn du château<listPerson type="configuration" xml:id="conf15"/></head>
+          <sp xml:id="II01-1" who="VALENTIN">
+            <p>
+              <s>Vienne maintenant l’ennemi quand il voudra ; nous sommes en état de le recevoir.</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-2" who="UNHABITANT">
+            <p>
+              <s>Et d’importance !</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-3" who="VALENTIN">
+            <p>
+              <s>Buvons un coup, mes amis, le vin donne des forces et ne fera qu’augmenter nos bonnes dispositions.</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-4" who="UNHABITANT">
+            <p>
+              <s>Bien vu, pas vrai camarades ?</s>
+            </p>
+            <p>
+              <s>À la santé de notre commandant.</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-5" who="TOUS">
+            <p>
+              <s>À sa santé.</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-6" who="VALENTIN">
+            <p>
+              <s>Merci, mes amis.</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-7" who="UNHABITANT">
+            <p>
+              <s>Monsieur Valentin, en attendant que le capitaine Roger nous mette à même d’exercer nos bras, si vous vouliez nous chanter une de ces chansons militaires qu’on chantait de votre temps... </s>
+              <s>Là.... </s>
+              <s>Vous entendez bien ce que je veux dire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-8" who="VALENTIN">
+            <p>
+              <s>Oui, oui.</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-9" who="TOUS">
+            <p>
+              <s>Ah oui, monsieur Valentin, une petite chanson.</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-10" who="UNHABITANT">
+            <p>
+              <s>Tenez ! </s>
+              <s>Celle-là que vous chantez si bien...</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-11" who="VALENTIN">
+            <p>
+              <s>Celle qui dit que le vin mène à la gloire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-12" who="UNHABITANT">
+            <p>
+              <s>Oui, c’est cela, nous serons tous charmés de vous entendre.</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-13" who="VALENTIN">
+            <p>
+              <s>Volontiers, mes amis ; ah ça, vous répéterez le refrain en chœur.</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-14" who="UNHABITANT">
+            <p>
+              <s>Oui, nous savons cela.</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-15" who="VALENTIN">
+            <p>
+              <s>Allons... j’y suis.</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-16" who="UNGARDE">
+            <p>
+              <s>Voici monsieur Victor.</s>
+            </p>
+          </sp>
+          <sp xml:id="II01-17" who="VALENTIN">
+            <p>
+              <s>Ce sera pour un autre moment, allez tous à vos postes.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II02" type="scene" n="2">
+          <head>SCÈNE II. Victor, Valentin.<listPerson type="configuration" xml:id="conf16"/></head>
+          <sp xml:id="II02-1" who="VICTOR">
+            <p>
+              <s>Eh bien, Valentin, tout est-il disposé ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-2" who="VALENTIN">
+            <p>
+              <s>Oui, mon général.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-3" who="VICTOR">
+            <p>
+              <s>Les remparts ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-4" who="VALENTIN">
+            <p>
+              <s>Sont amplement garnis d’artillerie. </s>
+              <s>Tous les postes sont gardés ; le pont-levis est défendu par une batterie qui fera un bruit d’enfer et leur tuera bien du monde s’ils osent en approcher.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-5" who="VICTOR">
+            <p>
+              <s>Les fossés ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-6" who="VALENTIN">
+            <p>
+              <s>Sont pleins d’eau.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-7" who="VICTOR">
+            <p>
+              <s>Bien. </s>
+              <s>Et la vieille tour ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-8" who="VALENTIN">
+            <p>
+              <s>Comme c’est l’endroit le plus faible du château et qu’ils peuvent facilement s’en emparer en forçant la petite porte du rempart, j’ai fait remplir le bas de matières combustibles auxquelles on mettra le feu dès qu’ils y seront rentrés.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-9" who="VICTOR">
+            <p>
+              <s>Ah Valentin !... </s>
+              <s>Ce moyen...</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-10" who="VALENTIN">
+            <p>
+              <s>Est excusable. </s>
+              <s>N’avons-nous pas à combattre des ennemis dix fois plus nombreux que nous ? </s>
+              <s>Il faut leur ôter l’envie d’y revenir.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-11" who="VICTOR">
+            <p>
+              <s>Vas dans la chambre qui est au-dessous de la tourelle du nord, tu observeras les mouvements de l’ennemi, et tu viendras m’en rendre compte.</s>
+            </p>
+          </sp>
+          <sp xml:id="II02-12" who="VALENTIN">
+            <p>
+              <s>J’y vais, mon général : ah ! </s>
+              <s>Ah ! </s>
+              <s>Nous allons voir beau jeu.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II03" type="scene" n="3">
+          <head>SCÈNE III. Victor, Le Baron, Clémence, Madame Germain.<listPerson type="configuration" xml:id="conf17"/></head>
+          <sp xml:id="II03-1" who="VICTOR">
+            <p>
+              <s>Vous voilà, mon père ! </s>
+              <s>Et toi aussi, ma Clémence !.... </s>
+              <s>Pourquoi quittez-vous l’asile que je vous ai choisi ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-2" who="LEBARON">
+            <p>
+              <s>Le danger n’est point assez pressant pour que ces dames se séparent de nous ; quant à moi, je prétends bien ne pas rester dans l’inaction, tandis que tu combattras pour nous défendre.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-3" who="VICTOR">
+            <p>
+              <s>Je ne souffrirai pas que vous exposiez vos jours.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-4" who="LEBARON">
+            <p>
+              <s>As-tu quelque renseignement sur la force et la position de l’ennemi, car je ne doute pas qu’après ma réponse Roger ne se mette bientôt en campagne ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-5" who="VICTOR">
+            <p>
+              <s>Valentin est en vedette, et nous instruira à temps de tous ses mouvements.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-6" who="LEBARON">
+            <p>
+              <s>Nous pouvons donc causer un moment des intérêts qui te sont chers.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-7" who="VICTOR">
+            <p>
+              <s>Bon père !</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-8" who="LEBARON">
+            <p>
+              <s>Je te l’ai déjà dit, tu seras mon gendre. </s>
+              <s>C’est ta femme, ton vieux père, ce sont tes possessions que tu vas défendre. </s>
+              <s>Je ne dis pas cela pour augmenter ton courage ; tout me prouve assez  que je puis compter sur ta tendresse et ton appui. </s>
+              <s>Oui, Victor,tu seras l’époux de Clémence : j’ai nourri dés long - temps dans mon sein cet espoir consolant : je me suis dit cent fois : voilà celui qui me succédera, qui protégera ma fille et soutiendra ma vieillesse.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-9" who="CLEMENCE">
+            <p>
+              <s>Pourquoi ne lui as-tu pas dit cela plutôt ?... </s>
+              <s>Combien de chagrins tu lui aurais épargnés ?....  
+    21</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-10" who="VICTOR">
+            <p>
+              <s>Quoi ! </s>
+              <s>Ce n’est point une erreur ?.... </s>
+              <s>Votre main bienfaisante daignera serrer des nœuds ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-11" who="LEBARON">
+            <p>
+              <s>Oui, mon ami. </s>
+              <s>J’y mets cependant une condition.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-12" who="CLEMENCE">
+            <p>
+              <s>Tu la rempliras, n’est-ce pas Victor ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-13" who="VICTOR">
+            <p>
+              <s>Parlez, mon père.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-14" who="LEBARON">
+            <p>
+              <s>Tu sais que je fais peu de cas de la naissance et de la fortune ; l’honneur et la probité sont les seuls titres que je veux trouver dans mon gendre et sa famille. </s>
+              <s>Tes parents, Victor, je ne les connais point ; toi-même ignores à qui tu dois le jour ; il faut que tu le saches. </s>
+              <s>Tu vas voir si j’exige trop : quelque part que ce soit ton père, quel que soit son état et sa fortune, s’il est honnête homme, tu seras l’époux de ma fille. </s>
+              <s>Me trouves-tu déraisonnable ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-15" who="VICTOR">
+            <p>
+              <s>Pourriez-vous le croire ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-16" who="LEBARON">
+            <p>
+              <s>Exempt de presque tous les préjugés qui affligent la société, je n’en ai qu’un, mais bien puissant, qui dirige ma conduite et sera toujours le mobile de mes actions ; c’est que j’adore la vertu et que j’abhorre le crime. </s>
+              <s>Oui, la vertu malheureuse est digne de mon hommage, de tous mes bienfaits ; mais le crime, fut-il couvert d’or ! </s>
+              <s>Rien ne pourra m’en rapprocher. </s>
+              <s>La ligne qui nous sépare ira se perdre dans mon tombeau.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-17" who="VICTOR">
+            <p>
+              <s>N’en doutez pas, mon père, quel qu’il soit, doit être vertueux, je le sens à mon cœur, à mon amour pour le bien ; il ne peut être que malheureux.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-18" who="LEBARON">
+            <p>
+              <s>Ce sera un titre de plus à mon estime.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-19" who="VICTOR">
+            <p>
+              <s>Eh bien, homme généreux, dès que les dangers qui vous menacent seront dissipés, je partirai et ne tarderai point, je l’espère, à revenir vous sommer de faire mon bonheur.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-20" who="LEBARON">
+            <p>
+              <s>La main de Clémence t’attend au retour.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-21" who="VICTOR">
+            <p>
+              <s>Mais où le chercher ce père tant désiré ? </s>
+              <s>Quels lieux m’ont vu naître ? </s>
+              <s>Et puis-je me flatter de l’y retrouver encore ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-22" who="LEBARON">
+            <p>
+              <s>Je te dois à cet égard tous les renseignements qui sont en mon pouvoir. </s>
+              <s>Tu sais que je t’ai trouvé exposé, il y a bientôt vingt quatre ans, dans une caverne à l’entrée de la forêt de Kingratz.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-23" who="MADAMEGERMAIN">
+            <p>
+              <s>À l’entrée de la forêt de Kingratz ! </s>
+              <s>Il y a vingt-quatre ans ?  </s>
+            </p>
+          </sp>
+          <sp xml:id="II03-24" who="LEBARON">
+            <p>
+              <s>La richesse de ton berceau m’a toujours fait présumer que tes parents n’étaient point dans l’indigence, mais que quelque circonstance impérieuse les avait forcés d’en agir ainsi. </s>
+              <s>Ce portrait que je trouvai sur toi n’a servi qu’à confirmer mes conjectures. </s>
+              <s>Je te le remets ; il peut t’être utile dans la recherche que tu vas entreprendre.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-25" who="CLEMENCE">
+            <p>
+              <s>C’est une femme... </s>
+              <s>Oh quelle est jolie !... </s>
+            </p>
+            <p>
+              <s>Vois-donc, ma bonne amie.</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-26" who="MADAMEGERMAIN">
+            <p>
+              <s>Se peut-il ! </s>
+              <s>Ô ciel !</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-27" who="LEBARON">
+            <p>
+              <s>Qu’avez-vous, madame Germain ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-28" who="VICTOR">
+            <p>
+              <s>D’où naît ce trouble ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-29" who="MADAMEGERMAIN">
+            <p>
+              <s>Ce portrait.... monsieur...</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-30" who="LEBARON">
+            <p>
+              <s>Eh bien ?... </s>
+              <s>Ce portrait...</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-31" who="MADAMEGERMAIN">
+            <p>
+              <s>Sachez...</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-32" who="CLEMENCE">
+            <p>
+              <s>Achevez donc...</s>
+            </p>
+          </sp>
+          <sp xml:id="II03-33" who="MADAMEGERMAIN">
+            <p>
+              <s>Sachez que c’est...</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II04" type="scene" n="4">
+          <head>SCÈNE IV. Les Précédents, Valentin.<listPerson type="configuration" xml:id="conf18"/></head>
+          <sp xml:id="II04-1" who="VALENTIN">
+            <p>
+              <s>Eh vite ! </s>
+              <s>Et vite ! </s>
+              <s>Sauvez-vous ; Roger sera dans un moment au pied des murailles...</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-2" who="LEBARON">
+            <p>
+              <s>Rentrez dans le château.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-3" who="VALENTIN">
+            <p>
+              <s>Il est suivi d’une troupe nombreuse.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-4" who="VICTOR">
+            <p>
+              <s>Retire-toi, ma Clémence.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-5" who="CLEMENCE">
+            <p>
+              <s>Mon père, cette nuit paraît devoir être terrible ; qui peut deviner l’issue d’un combat incertain ?... </s>
+              <s>Permettez que mon amant...</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-6" who="LEBARON">
+            <p>
+              <s>Je t’entends. </s>
+              <s>Viens, mon fils, viens presser sur ton coeur celle que tu vas défendre.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-7" who="VICTOR">
+            <p>
+              <s>Vienne maintenant Roger !... </s>
+              <s>Je me sens invincible.  </s>
+            </p>
+          </sp>
+          <sp xml:id="II04-8" who="CLEMENCE">
+            <p>
+              <s>N’expose pas trop de jours qui me sont chers.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-9" who="VICTOR">
+            <p>
+              <s>Valentin, je te recommande ces dames. </s>
+              <s>Rentrez aussi, mon père.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-10" who="VALENTIN">
+            <p>
+              <s>Reposez-vous sur moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="II04-11" who="LEBARON">
+            <p>
+              <s>Je te rejoindrai bientôt. </s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II05" type="scene" n="5">
+          <head>SCÈNE V.<listPerson type="configuration" xml:id="conf19"/></head>
+          <sp xml:id="II05-1" who="LOFFICIER">
+            <p>
+              <s>On n’a rien à démêler avec un brigand tel que toi. </s>
+              <s>Fuis, si tu crains la mort.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-2" who="ROGER">
+            <p>
+              <s>Moi, fuir !... Amis, secondez ma fureur.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-3" who="FORBAN">
+            <p>
+              <s>Capitaine !... Capitaine !...</s>
+            </p>
+            <l n="" xml:id="l">Roger paraît accompagné de quelques brigands.</l>
+            <p>
+              <s>Les ennemis sont sortis ; relevons le pont.... La victoire est à nous.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-4" who="LEBARON">
+            <p>
+              <s>C’est ce que nous allons voir.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-5" who="ROGER">
+            <p>
+              <s>Rends-toi, ou tu es mort.</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-6" who="LEBARON">
+            <p>
+              <s>Moi ! </s>
+              <s>Me rendre à Roger !...</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-7" who="VICTOR">
+            <p>
+              <s>Tu es Roger !... </s>
+              <s>Monstre, tu vas périr !....</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-8" who="MADAMEGERMAIN">
+            <p>
+              <s>Malheureux ! </s>
+              <s>Vous allez commettre un crime !</s>
+            </p>
+          </sp>
+          <sp xml:id="II05-9" who="VICTOR">
+            <p>
+              <s>Un crime !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II06" type="scene" n="6">
+          <head>SCÈNE VI. Les Précédents, Valentin, avec le reste des troupes du château.<listPerson type="configuration" xml:id="conf20"/></head>
+          <sp xml:id="II06-1" who="VALENTIN">
+            <p>
+              <s>Ah ! </s>
+              <s>Ah ! </s>
+              <s>Je vous l’avais bien dit, monsieur le baron, que nous leur ôterions l’envie d’y revenir !</s>
+            </p>
+          </sp>
+          <sp xml:id="II06-2" who="VICTOR">
+            <p>
+              <s>Allez vous reposer, mes amis.</s>
+            </p>
+          </sp>
+          <sp xml:id="II06-3" who="VALENTIN">
+            <p>
+              <s>J’irai bientôt vous aider à réparer le désordre.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II07" type="scene" n="6">
+          <head>SCÈNE VI.. Le Baron, Victor, Clémence, Madame Germain, Valentin.<listPerson type="configuration" xml:id="conf21"/></head>
+          <sp xml:id="II07-1" who="LEBARON">
+            <p>
+              <s>Je prétends savoir enfin, madame, quel intérêt vous attache à ce brigand. </s>
+              <s>Sans autre recommandation que celle du malheur, nous nous armons pour votre défense ; votre ennemi prétendu tombe entre nos mains, et vous nous l’arrachez au moment où sa mort allait délivrer l’Allemagne d’un de ses fléaux les plus terribles.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-2" who="MADAMEGERMAIN">
+            <p>
+              <s>Monsieur, </s>
+            </p>
+            <p>
+              <s>Pourquoi suis-je venue ici ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-3" who="VICTOR">
+            <p>
+              <s>Répondez, madame, êtes-vous la complice, la femme ou l’amie d’un monstre pour lequel vous témoignez tant d’attachement ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-4" who="MADAMEGERMAIN">
+            <p>
+              <s>Que me demandez-vous ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-5" who="VICTOR">
+            <p>
+              <s>La vérité.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-6" who="MADAMEGERMAIN">
+            <p>
+              <s>Tremblez de l’apprendre ce terrible secret.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-7" who="LEBARON">
+            <p>
+              <s>Expliquez-vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-8" who="VICTOR">
+            <p>
+              <s>Parlez, madame... </s>
+              <s>Quel est ce brigand ?....</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-9" who="MADAMEGERMAIN">
+            <p>
+              <s>C’est vous qui m’y forcez....</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-10" who="LEBARON">
+            <p>
+              <s>Je le veux.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-11" who="VICTOR">
+            <p>
+              <s>Je l’exige.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-12" who="MADAMEGERMAIN">
+            <p>
+              <s>Eh malheureux ! </s>
+              <s>C’est ton père !</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-13" who="LEBARON">
+            <p>
+              <s>Son père !</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-14" who="CLEMENCE,VALENTIN">
+            <p>
+              <s>Roger ! </s>
+              <s>Son père !</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-15" who="VICTOR">
+            <p>
+              <s>Lui ! </s>
+              <s>Mon père !... </s>
+              <s>Oh mon Dieu !</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-16" who="MADAMEGERMAIN">
+            <p>
+              <s>Oui, Roger est son père.... </s>
+              <s>Je fus l’amie de la malheureuse Adèle sa mère que ce monstre avait enlevée à ses parents, et que je ne voulus jamais abandonner. </s>
+              <s>Cette infortunée, affaiblie par la douleur et sentant sa fin approcher, me conjura de soustraire cet enfant qu’elle chérissait à l’infâme métier auquel le destinait son père. </s>
+              <s>«Oh mon amie, me dit-elle, dérobons cette innocente créature au crime qui l’entoure et qui l’attend ; confions-le aux soins de quelque étranger généreux et compatissant ; je consens à me priver de mon fils, pourvu qu’il soit vertueux .» Environnée de brigands qui nous surveillaient, je fus longtemps sans trouver l’occasion de la satisfaire. </s>
+              <s>Enfin, elle se présenta, j’aperçus un jour un homme endormi a l’entrée d’une des cavernes que nous occupions dans la forêt de Kingratz. </s>
+              <s>Cet homme c’était vous, monsieur le baron. </s>
+              <s>Vos vêtements m’annoncèrent que vous étiez dans l’opulence, j’examinai vos traits, ils portaient tous l’empreinte de la probité : oui, me dis-je, voilà celui que je cherche ; je cours prendre ce dépôt précieux, et je l’apporte à vos pieds. </s>
+              <s>Mais, ô fatale précaution !</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-17" who="VICTOR">
+            <p>
+              <s>Qu’allez-vous encore m’apprendre ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-18" who="MADAMEGERMAIN">
+            <p>
+              <s>Roger, de retour d’une expédition, demande à embrasser son fils.  </s>
+              <s>« Tu ne le verras plus, lui répond ma courageuse amie, je l’ai soustrait a tes infâmes projets... </s>
+              <s> Malheureuse ! poursuit Roger. </s>
+              <s>Où est-il ? </s>
+              <s>Rends-moi mon fils. </s>
+              <s> Non, jamais. </s>
+              <s>Il est perdu pour toi.»  </s>
+              <s>À ces mots, le tigre se précipite sur elle et lui perce le sein.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-19" who="VICTOR">
+            <p>
+              <s>Ô jour d’horreur !</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-20" who="LEBARON">
+            <p>
+              <s>Ô crime abominable !</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-21" who="MADAMEGERMAIN">
+            <p>
+              <s>L’infortunée expira dans mes bras, après avoir exigé de moi le serment de ne jamais révéler ses cruelles aventures, et de ne point apprendre à son fils le mystère de sa naissance, si le hasard me le faisait rencontrer ; je sens que je vous déchire l’âme.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-22" who="VICTOR">
+            <p>
+              <s>Qu’avez-vous fait, femme imprudente !</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-23" who="MADAMEGERMAIN">
+            <p>
+              <s>J’ai dû empêcher un parricide.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-24" who="CLEMENCE">
+            <p>
+              <s>Pauvre Victor ! </s>
+              <s>Que je te plains !</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-25" who="VALENTIN">
+            <p>
+              <s>Malheureux jeune homme ! </s>
+              <s>Il est donc vrai que la vertu peut naître du crime !</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-26" who="LEBARON">
+            <p>
+              <s>Viens, ma fille, suis-moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-27" who="VICTOR">
+            <p>
+              <s>Ne fuyez pas l’infortuné Victor... </s>
+              <s>Arrêtez mon pe... </s>
+              <s>Monsieur... </s>
+              <s>Ah ! </s>
+              <s>Je le vois, je ne suis pour vous qu’un objet d’horreur.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-28" who="LEBARON">
+            <p>
+              <s>Qu’un malheureux.... que je plains... que j’estime.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-29" who="VICTOR">
+            <p>
+              <s>Est-il bien vrai que vous me conservez votre estime ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-30" who="VALENTIN">
+            <p>
+              <s>Avez-vous rien fait pour qu’on vous en prive ?... </s>
+              <s>Je réponds, moi, que vous la méritez plus que jamais. </s>
+            </p>
+          </sp>
+          <sp xml:id="II07-31" who="VICTOR">
+            <p>
+              <s>Mon bonheur serait...</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-32" who="LEBARON">
+            <p>
+              <s>Dieu !... </s>
+              <s>Ce sont les traits de son père... </s>
+              <s>Viens, Clémence...</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-33" who="CLEMENCE">
+            <p>
+              <s>Mais songe qu’il n’a pas son cœur.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-34" who="MADAMEGERMAIN">
+            <p>
+              <s>Il a votre âme toute entière.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-35" who="VALENTIN">
+            <p>
+              <s>Et qu’importe son père... n’est il pas bon et vertueux ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-36" who="CLEMENCE">
+            <p>
+              <s>Toi-même te plaisais souvent à le dire... </s>
+              <s>Comment un seul mot a-t-il pu changer les projets que tu viens de faire ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-37" who="LEBARON">
+            <p>
+              <s>Moi ! </s>
+              <s>T’unir au fils de Roger !... </s>
+              <s>Que je déshonore ma famille par cet hymen honteux... </s>
+              <s>Cesse de l’espérer... </s>
+              <s>Viens.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-38" who="CLEMENCE">
+            <p>
+              <s>Puis je le quitter dans cet affreux moment ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-39" who="LEBARON">
+            <p>
+              <s>Viens, te dis-je.....</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-40" who="CLEMENCE">
+            <p>
+              <s>Mon père...</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-41" who="LEBARON">
+            <p>
+              <s>Je l’exige.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-42" who="VICTOR">
+            <p>
+              <s>Clémence et toi aussi tu me fuis !...</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-43" who="CLEMENCE">
+            <p>
+              <s>Non, Victor, je ne te quitte plus.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-44" who="LEBARON">
+            <p>
+              <s>C’est trop me résister.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-45" who="CLEMENCE">
+            <p>
+              <s>Mon père !</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-46" who="VICTOR">
+            <p>
+              <s>Arrêtez, ou je meurs à vos yeux.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-47" who="MADAMEGERMAIN">
+            <p>
+              <s>Prenez pitié de leur douleur.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-48" who="VALENTIN">
+            <p>
+              <s>Comment a-t-il pu mériter tant de rigueur ? </s>
+              <s>Il est malheureux, d’accord ; mais n’est il pas toujours, dites-moi, ce même Victor que vous chérissiez tant, que vous vous plaisiez à nommer sans cesse votre fils ?... </s>
+              <s>Eh bien ? </s>
+              <s>Peut-il être responsable des torts de son père ? </s>
+              <s>Devez-vous, pouvez-vous le punir d’une faute qu’il n’a point partagée ?... </s>
+              <s>Non, monsieur... </s>
+              <s>Vous vous êtres montré jusqu’à présent trop sensible, trop équitable pour vouloir commettre une injustice aussi révoltante.... </s>
+              <s>Ici le baron fait un mouvement d’impatience. </s>
+            </p>
+            <p>
+              <s>Oh ! </s>
+              <s>Je vous demande bien pardon, monsieur le baron... </s>
+              <s>Mais c’est que je l’aime tant.... </s>
+              <s>Je le vois si malheureux, que mon cœur ne peut plus se contenir.... </s>
+              <s>Je vous le demande en grâce.... </s>
+              <s>Ne le désespérez pas ce pauvre jeune homme.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-49" who="CLEMENCE">
+            <p>
+              <s>Mon père, n’est-ce pas toi qui m’as ordonné de l’aimer ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-50" who="LEBARON">
+            <p>
+              <s>Levez-vous, mes enfants, et venez sur mon sein.</s>
+            </p>
+            <p>
+              <s>Vous m’avez attendri, votre douleur l’emporte, et tu peux encore espérer d’être l’époux de ma fille.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-51" who="VICTOR">
+            <p>
+              <s>Moi, son époux !</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-52" who="LEBARON">
+            <p>
+              <s>Oui, tu le peux. </s>
+              <s>Écoute le projet que je viens de former. </s>
+              <s>Madame Germain nous a dit que Roger brûlait de retrouver son fils, et qu’il était disposé à l’accabler de toute la tendresse d’un père ?... </s>
+              <s>Eh bien, vas le trouver, rends-lui son fils pour un moment, dis-lui que s’il souscrit à mes vœux, l’hymen va t’unir à ma fille, mais que j’exige d’abord qu’il renonce à son infâme métier ; qu’il quitte un nom couvert d’opprobre, pour en prendre un dont tu n’aies point à rougir : dis-lui, qu’il aura par mes soins une retraite assurée dans la partie la plus agréable de l’Allemagne. </s>
+              <s>Mais que je veux de sa part un entier sacrifice. </s>
+              <s>S’il t’en fait le serment, et s’il y est fidèle, je te jure que tu seras l’époux de Clémence ; s’il refuse mes offres au contraire, tu ne l’a reverras jamais... </s>
+              <s>Qu’en penses-tu, Victor, puis-je faire davantage ?</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-53" who="VICTOR">
+            <p>
+              <s>Ô digne bienfaiteur ! </s>
+              <s>Tant de bonté m’accable ! </s>
+              <s>Oui, je vais le trouver.... </s>
+              <s>Je saurai la soumettre cette âme fière et rebelle !.... </s>
+              <s>Roger ne pourra résister aux tendres sollicitations d’un fils qui attend de lui son bonheur.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-54" who="VALENTIN">
+            <p>
+              <s>Pour cette fols, monsieur, je vous suivrai.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-55" who="VICTOR">
+            <p>
+              <s>Non, Valentin, mon absence ne sera pas longue.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-56" who="VALENTIN">
+            <p>
+              <s>C’est égal, monsieur. </s>
+              <s>Croyez-vous que je vous laisse aller seul, au milieu d’une troupe de brigands ?... </s>
+              <s>Ils n’auraient qu’à vous tuer !... </s>
+              <s>Je me reprocherais votre mort toute ma vie... </s>
+              <s>Au lieu qu’à deux on peut se défendre au moins.....</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-57" who="VICTOR">
+            <p>
+              <s>Sois tranquille je ne cours aucun danger...</s>
+            </p>
+            <p>
+              <s>Je vais donc partir, et ne tarderai point à revenir digne de vos bienfaits.</s>
+            </p>
+          </sp>
+          <sp xml:id="II07-58" who="LEBARON">
+            <p>
+              <s>Ce sera combler mes désirs. </s>
+              <s>Je vais tout faire disposer pour ton départ.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="II08" type="scene" n="8">
+          <head>SCÈNE VIII. Les Précédents, excepté Le Baron.<listPerson type="configuration" xml:id="conf22"/></head>
+          <sp xml:id="II08-1" who="VICTOR">
+            <p>
+              <s>Clémence, quoique j’espère triompher de Roger, et le rendre à la vertu, je ne me dissimule point cependant les difficultés d’une pareille entreprise, et je frémis de la condition que m’a imposé ton père si le succès ne couronnait point notre attente....</s>
+            </p>
+          </sp>
+          <sp xml:id="II08-2" who="CLEMENCE">
+            <p>
+              <s>Ne parle pas de cela Victor... </s>
+              <s>Tu me désespères.</s>
+            </p>
+          </sp>
+          <sp xml:id="II08-3" who="VICTOR">
+            <p>
+              <s>Accepte, ma Clémence, comme un gage de mon amour, ce bracelet de cheveux que ta main a tissés ; porte-le toujours, qu’il te rappelle un infortuné qui méritait peut être un meilleur sort.</s>
+            </p>
+          </sp>
+          <sp xml:id="II08-4" who="CLEMENCE">
+            <p>
+              <s>Tiens, Victor, prends cette écharpe ; qu’elle te conduise partout au champ d’honneur, et si le sort nous sépare, qu’elle te rappelle ta Clémence, et cette maison hospitalière où ton enfance trouva un asile doux et tranquille. </s>
+              <s>Jure-moi qu’elle ne te quittera jamais ; et que jamais, surtout, elle n’ornera le sein d’une rivale.</s>
+            </p>
+          </sp>
+          <sp xml:id="II08-5" who="VICTOR">
+            <p>
+              <s>Je le jure !</s>
+            </p>
+          </sp>
+          <sp xml:id="II08-6" who="VICTOR">
+            <p>
+              <s>Ô dieu ! </s>
+              <s>Toi qui connais nos cœurs et la pureté de nos serments, daigne les consacrer ces serments inviolables par ton auguste protection.</s>
+            </p>
+          </sp>
+          <sp xml:id="II08-7" who="CLEMENCE">
+            <p>
+              <s>Je jure en ta présence et celle de nos amis les plus chers, de ne vivre que pour celui que mon cœur a choisi dès l’enfance, et de n’être jamais à d’autre.</s>
+            </p>
+          </sp>
+        </div2>
+      </div1>
+      <div1 xml:id="III" type="act" n="3">
+        <head>ACTE III</head>
+        <div2 xml:id="III01" type="scene" n="1">
+          <head>SCÈNE PREMIÈRE. Roger, Morneck, Indépendants.<listPerson type="configuration" xml:id="conf24"/></head>
+          <sp xml:id="III01-1" who="ROGER">
+            <p>
+              <s>Non, je ne reviens point de ma surprise. </s>
+              <s>Roger qu’aucun péril n’effraye, que jamais personne n’a vaincu... </s>
+              <s>Roger a échoué devant un enfant ! </s>
+              <s>Oh je m’en vengerai cruellement ! </s>
+              <s>Je prétends, avant trois jours, réduire en cendres le château de cet insolent baron... </s>
+              <s>Il apprendra si c’est impunément qu’on me résiste.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III02" type="scene" n="2">
+          <head>SCÈNE II. Les précédents, Forban.<listPerson type="configuration" xml:id="conf25"/></head>
+          <sp xml:id="III02-1" who="FORBAN">
+            <p>
+              <s>Capitaine, la troupe de Dragovick rentre au camp, et demande à partager les prises qu’elle a faites.</s>
+            </p>
+          </sp>
+          <sp xml:id="III02-2" who="ROGER">
+            <p>
+              <s>J’y vais. </s>
+              <s>A-t-on relevé les postes ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III02-3" who="FORBAN">
+            <p>
+              <s>Oui, capitaine.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III03" type="scene" n="3">
+          <head>SCÈNE III. Forban, Morneck, Indépendants.<listPerson type="configuration" xml:id="conf26"/></head>
+          <sp xml:id="III03-1" who="MORNECK">
+            <p>
+              <s>Forban, les prises sont-elles considérables ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-2" who="FORBAN">
+            <p>
+              <s>Mais pas mal.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-3" who="MORNECK">
+            <p>
+              <s>Il aurait mieux valu pour nous que nous fussions de cette expédition, que d’aller attaquer ce diable de château.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-4" who="FORBAN">
+            <p>
+              <s>Oui vraiment, cette nuit nous a coûté cher.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-5" who="MORNECK">
+            <p>
+              <s>Nous avons perdu là de braves camarades.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-6" who="FORBAN">
+            <p>
+              <s>Et demandez moi pourquoi tant de monde tué ? </s>
+              <s>Pour une femme. </s>
+              <s>Comme si le capitaine Roger n’en avait pas d’autres, cent fois plus belles, à sa disposition.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-7" who="MORNECK">
+            <p>
+              <s>Ce n’est pas qu’il en soit amoureux. </s>
+              <s>Mais elle fut autrefois l’amie de sa femme, et il espère toujours la forcer de lui apprendre ce qu’est devenu ce fils, qu’il regrette et dont il nous entretient quelquefois. </s>
+              <s>Il serait à-peu-près du même âge que le fils du baron, et Roger comptait en faire un jour notre chef.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-8" who="FORBAN">
+            <p>
+              <s>À propos de ce jeune homme. Sais-tu qu’il est intrépide ? </s>
+              <s>Il se bat comme un enragé.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-9" who="MORNECK">
+            <p>
+              <s>Comment, diable !... </s>
+              <s>Il a failli tuer notre capitaine.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-10" who="FORBAN">
+            <p>
+              <s>Lui !</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-11" who="MORNECK">
+            <p>
+              <s>Oui, vraiment.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-12" who="FORBAN">
+            <p>
+              <s>Ah ! </s>
+              <s>Mille morts ! </s>
+              <s>C’est fait de lui, s’il tombe jamais entre nos mains.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-13" who="VICTOR">
+            <p>
+              <s>Je veux voir Roger.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-14" who="UNINDEPENDANT">
+            <p>
+              <s>Tu ne le verras pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-15" who="VICTOR">
+            <p>
+              <s>Je le verrai, vous dis-je.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-16" who="MORNECK">
+            <p>
+              <s>Vois donc, Forban, quel est cet homme qu’on amène.</s>
+            </p>
+          </sp>
+          <sp xml:id="III03-17" who="FORBAN">
+            <p>
+              <s>Heureux hasard ! </s>
+              <s>C’est lui-même.... j’en veux faire un sacrifice.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III04" type="scene" n="6">
+          <head>SCÈNE IV. Les précédents, Victor, désarmé et conduit par plusieurs indépendants.<listPerson type="configuration" xml:id="conf27"/></head>
+          <sp xml:id="III04-1" who="MORNECK">
+            <p>
+              <s>Que viens-tu faire ici, jeune insensé ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-2" who="FORBAN">
+            <p>
+              <s>C’est donc toi qui as fait égorger et brûler nos camarades ?... </s>
+              <s>Je ne sais qui retiens ma colère... </s>
+              <s>Je devrais.....</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-3" who="VICTOR">
+            <p>
+              <s>Lâche ! </s>
+              <s>Il est bien digne de toi d’insulter un ennemi sans défense !...  </s>
+              <s>Si je disais un mot, tu rentrerais dans la poussière, et Roger lui même prendrait soin de me venger, mais tu es trop vil a mes yeux pour que je m’abaisse à te punir.</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-4" who="MORNECK">
+            <p>
+              <s>Mais enfin, qui t’amène en ces lieux ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-5" who="VICTOR">
+            <p>
+              <s>J’y viens parler à Roger.</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-6" who="FORBAN">
+            <p>
+              <s>Et que lui veux-tu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-7" who="VICTOR">
+            <p>
+              <s>Tu le sauras, s’il juge à propos de t’en instruire.</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-8" who="FORBAN">
+            <p>
+              <s>C’en est trop.... </s>
+            </p>
+            <p>
+              <s>Laisse-moi venger mes camarades.</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-9" who="VICTOR">
+            <p>
+              <s>Qu’on me conduise à lui et tu vas pâlir en sachant qui je suis.</s>
+            </p>
+          </sp>
+          <sp xml:id="III04-10" who="FORBAN">
+            <p>
+              <s>Le voici.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III05" type="scene" n="5">
+          <head>SCÈNE V. Les Précédents, Roger.<listPerson type="configuration" xml:id="conf28"/></head>
+          <sp xml:id="III05-1" who="MORNECK">
+            <p>
+              <s>Capitaine, un envoyé du baron de Fritzierne demande à te voir.</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-2" who="ROGER">
+            <p>
+              <s>C’est toi, jeune homme ! </s>
+              <s>Que me veux-tu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-3" who="VICTOR">
+            <p>
+              <s>Te parler sans témoins.</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-4" who="ROGER">
+            <p>
+              <s>Parle, ce sont mes amis.</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-5" who="VICTOR">
+            <p>
+              <s>Je ne le puis. </s>
+              <s>Il s’agit d’un secret qui te concerne.</s>
+            </p>
+          </sp>
+          <sp xml:id="III05-6" who="ROGER">
+            <p>
+              <s>D’un secret... qui... me... concerne ?</s>
+            </p>
+            <p>
+              <s>Éloignez-vous un moment.</s>
+            </p>
+            <p>
+              <s>Nous sommes seuls, qu’as-tu à me dire ?</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III06" type="scene" n="6">
+          <head>SCÈNE VI. Victor, Roger, Indépendants.<listPerson type="configuration" xml:id="conf29"/></head>
+          <sp xml:id="III06-1" who="VICTOR">
+            <p>
+              <s>Me connais-tu, Roger ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-2" who="ROGER">
+            <p>
+              <s>Oui, comme un ennemi que j’ai combattu.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-3" who="VICTOR">
+            <p>
+              <s>Sais-tu qui je suis ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-4" who="ROGER">
+            <p>
+              <s>Non. </s>
+              <s>Mais enfin, qui t’amène ici ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-5" who="VICTOR">
+            <p>
+              <s>Il te souvient du jour où la malheureuse Adèle expira sous tes coups.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-6" who="ROGER">
+            <p>
+              <s>Ah ! </s>
+              <s>Ne me rappelle pas ce douloureux souvenir !</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-7" who="VICTOR">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Ce fils qui causa la mort de sa mère...</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-8" who="ROGER">
+            <p>
+              <s>Parle.... </s>
+              <s>Oh oui... </s>
+              <s>Parle-moi de ce fils que j’aime et que toute mes recherches n’ont pu me faire découvrir.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-9" who="VICTOR">
+            <p>
+              <s>Ce fils... qu’on t’a enlevé....</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-10" who="ROGER">
+            <p>
+              <s>Le connaîtrais-tu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-11" who="VICTOR">
+            <p>
+              <s>Et qui jusqu’à présent n’avait connu que le bonheur...</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-12" who="ROGER">
+            <p>
+              <s>Il serait malheureux ! </s>
+              <s>Toi qui le connais, dis-moi, où est-il ?... </s>
+              <s>Que fait-il ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-13" who="VICTOR">
+            <p>
+              <s>Il vient trouver son père.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-14" who="ROGER">
+            <p>
+              <s>Trop heureux Roger ! </s>
+              <s>Tu vas revoir ton fils ! </s>
+              <s>Je vole au-devant de lui ? </s>
+              <s>Achève.... de grâce.... </s>
+              <s>Où est-il ?....</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-15" who="VICTOR">
+            <p>
+              <s>Devant toi.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-16" who="ROGER">
+            <p>
+              <s>Quoi ? </s>
+              <s>Tu serais....</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-17" who="VICTOR">
+            <p>
+              <s>Oui. </s>
+              <s>Je suis le fils d’Adèle.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-18" who="ROGER">
+            <p>
+              <s>Mais comment...</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-19" who="VICTOR">
+            <p>
+              <s>Reconnais-tu ce portrait ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-20" who="ROGER">
+            <p>
+              <s>C’est elle. </s>
+              <s>Oui, la voilà... </s>
+              <s>Viens dans mes bras... que je te presse sur ce sein paternel !...</s>
+            </p>
+            <p>
+              <s>Dis-moi, mais dis-moi donc, qui m’a rendu mon fils, et à qui je dois le bonheur de le revoir ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-21" who="VICTOR">
+            <p>
+              <s>À madame Germain. </s>
+              <s>C’est elle qui m’a révélé le secret de ma naissance, et qui m’a remis entre les mains du baron de Fritzierne à qui je dois tout.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-22" who="ROGER">
+            <p>
+              <s>Le baron de Fritzierne ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-23" who="VICTOR">
+            <p>
+              <s>Hélas ! </s>
+              <s>Elle a détruit d’un mot tout le charme de ma vie.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-24" who="ROGER">
+            <p>
+              <s>Je ne te comprends pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-25" who="VICTOR">
+            <p>
+              <s>Qui. </s>
+              <s>Les liens qui m’attachent à toi causent à jamais mon malheur.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-26" who="ROGER">
+            <p>
+              <s>Moi ! </s>
+              <s>Causer le malheur de mon fils ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-27" who="VICTOR">
+            <p>
+              <s>Mais d’un mot tu pourrais le faire cesser.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-28" who="ROGER">
+            <p>
+              <s>Serait-il vrai ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-29" who="VICTOR">
+            <p>
+              <s>Oui. </s>
+              <s>Il dépend de toi....</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-30" who="ROGER">
+            <p>
+              <s>Parle... </s>
+              <s>Parle, mon fils.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-31" who="VICTOR">
+            <p>
+              <s>Le baron de Fritzierne a une fille charmante. Clémence était l’objet de tous mes vœux ; nous nous aimions, son père consentait à nous unir, j’allais être heureux, lorsque le fatal secret de ma naissance se découvre. </s>
+              <s>Dès lors le mépris m’environne, on me rejette au loin, et le sang de la vertu ne peut plus s’unir au mien.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-32" who="ROGER">
+            <p>
+              <s>Achève.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-33" who="VICTOR">
+            <p>
+              <s>Je voulais fuir, ensevelir ma honte au fond des déserts ; une voix bienfaisante me rappelle : « Vas trouver ton père, me dit ce tendre protecteur, dis-lui que je puis tout oublier s’il se rend à mes vœux. </s>
+              <s>Que je partage avec lui ma fortune, pourvu qu’il abandonne ses complices, qu’il fuie pour jamais une terre arrosée du sang de l’innocent, qu’il aille vivre dans une retraite profonde. </s>
+              <s>Qu’enfin il ne soit plus Roger, et je te donne ma fille... »</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-34" who="ROGER">
+            <p>
+              <s>Quel orgueil !</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-35" who="VICTOR">
+            <p>
+              <s>« Mais s’il se refuse à tes désirs, s’il rejette mes bienfaits, vas, fuis loin de moi, de ton amante. </s>
+              <s>Le même lieu ne nous verra plus réunis.»</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-36" who="ROGER">
+            <p>
+              <s>Eh bien ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-37" who="VICTOR">
+            <p>
+              <s>Voilà, Roger, ce que m’a dit le plus généreux des hommes ; tel est le motif qui m’a fait chercher ta présence. </s>
+              <s>Parle, te sens-tu la vertu nécessaire pour quitter le métier que tu fais ? </s>
+              <s>Pour assurer le bonheur de ton fils et le repos de ta vieillesse ? </s>
+              <s>J’attends ta réponse pour te serrer dans mes bras, ou te fuir pour jamais.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-38" who="ROGER">
+            <p>
+              <s>A-t-il pu croire, ton orgueilleux baron, que je serais assez lâche pour abandonner les guerriers qui me suivent, l’éclat qui m’environne, pour aller vivre obscurément comme celui que la nature a formé sans courage et sans forces ? </s>
+              <s>Non, qu’il ne l’espère pas.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-39" who="VICTOR">
+            <p>
+              <s>Tu refuses donc de faire mon bonheur ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-40" who="ROGER">
+            <p>
+              <s>Au contraire, mon fils. </s>
+              <s>Consens à rester près de moi, tu me verras sans cesse occupé des moyens de te plaire et de te rendre agréable ce séjour.</s>
+            </p>
+            <p>
+              <s>Vas, tu préféreras bientôt les charmes d’une vie libre et indépendante aux prétendus avantages que les préjugés semblent te promettre dans la société ; chacun de mes soldats qui ne voit en moi qu’un père, te regardera comme un nouvel ami ; tes exploits ne tarderont point à t’associer à ma gloire, et ton nom devenu fameux, sera bientôt digne du mien.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-41" who="VICTOR">
+            <p>
+              <s>Ainsi, l’éclat d’une fausse gloire, l’espoir d’un bonheur imaginaire ferme ton cœur aux plus doux sentiments de la nature et te prive des plus précieuses jouissances !....</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-42" who="ROGER">
+            <p>
+              <s>L’amour de mon fils me suffit.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-43" who="VICTOR">
+            <p>
+              <s>Eh bien, rends-toi donc à ses désirs... </s>
+              <s>Roger !.... </s>
+              <s>Peux-tu demeurer insensible à mes prières, à ma douleur ?....</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-44" who="ROGER">
+            <p>
+              <s>Non, mon fils, je ne puis céder à tes vœux. </s>
+              <s>Mes trésors, ma vie même, j’aurais pu te les donner. </s>
+              <s>Mais le sort de mes camarades, leur bonheur, leur amour, tout cela n’est point à moi ; je ne puis en disposer. </s>
+              <s>C’est à regret que je t’afflige, mais rien ne me fera changer.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-45" who="VICTOR">
+            <p>
+              <s>Adieu, Roger.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-46" who="ROGER">
+            <p>
+              <s>Quoi !... </s>
+              <s>Tu veux déjà te séparer de moi ? </s>
+              <s>Non, mon fils, je ne te laisserai point partir sitôt.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-47" who="VICTOR">
+            <p>
+              <s>Voudrais-tu me retenir ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-48" who="ROGER">
+            <p>
+              <s>Non, je ne prétends point disposer de ta liberté. </s>
+              <s>Tu partiras, mais dans quelques jours, lorsque j’aurai eu le temps de te faire connaître ces hommes que tu méprises et ton père lui-même que tu crains d’appeler de ce doux nom.</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-49" who="VICTOR">
+            <p>
+              <s>Moi ! </s>
+              <s>Que je consente jamais à vivre avec de tels brigands ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III06-50" who="ROGER">
+            <p>
+              <s>Brigands !... </s>
+              <s>Et qui t’a dit que mes camarades méritassent de porter ce nom ? </s>
+              <s>Je ne te cacherai pas que plusieurs d’entr’eux avaient eu une jeunesse fougueuse, et que moi-même poussé avec ardeur vers le vice qui me semblait plus attrayant que la vertu, j’avais bien quelques torts à me reprocher. </s>
+              <s>Quoi qu’il en soit, ces hommes ardents, audacieux, m’ont choisi pour leur chef, pour leur premier ami ; dès ce moment j’ai formé le projet de les rendre meilleurs, de les soumettre à des statuts, à des convenances sociales, et tu vas voir si j’y suis parvenu.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III07" type="scene" n="7">
+          <head>SCÈNE VII. Les précédents, Forban, Fausmann, Morneck, Drogovick, Indépendants.<listPerson type="configuration" xml:id="conf30"/></head>
+          <sp xml:id="III07-1" who="ROGER">
+            <p>
+              <s>Camarades, ce jeune homme est le fils d’une victime innocente, qui est tombée sous mes coups ; il m’est cher comme mon propre fils, que tout le monde ait ici pour lui les plus grands égards. </s>
+              <s>La moindre insulte qui lui serait faite, serait regardée par moi comme un outrage envers ma personne, et je la vengerais dans le sang du coupable. </s>
+              <s>Vous m’entendez. </s>
+              <s>Il n’y aura point de travaux aujourd’hui. </s>
+              <s>Que chacun se prépare aux honneurs que je vais rendre à ce jeune étranger. </s>
+              <s>Forban, rassemble nos camarades, et que mes ordres soient promptement exécutés.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III08" type="scene" n="8">
+          <head>SCÈNE VIII. Roger, Victor.<listPerson type="configuration" xml:id="conf31"/></head>
+          <sp xml:id="III08-1" who="ROGER">
+            <p>
+              <s>Tu les connaîtras bientôt ces hommes que tu traites de brigands, et tu me diras alors si tu as vu dans la Misnie, la Moldanie, dans toute l’Allemagne, des troupes mieux tenues, plus soumises et mieux disciplinées.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-2" who="VICTOR">
+            <p>
+              <s>Et n’est-ce point avec ces mêmes hommes que depuis vingt ans tu portes le deuil et la désolation par toute l’Allemagne ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-3" who="ROGER">
+            <p>
+              <s>Tu te trompes, mon fils. </s>
+              <s>Je n’ai fait que défendre le faible contre les vexations des riches insolents et oppresseurs.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-4" who="VICTOR">
+            <p>
+              <s>Qui t’en a donné le droit ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-5" who="ROGER">
+            <p>
+              <s>Mon amour pour l’humanité.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-6" who="VICTOR">
+            <p>
+              <s>Et qui t’a dit qu’ils fussent coupables ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-7" who="ROGER">
+            <p>
+              <s>Leurs victimes.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-8" who="VICTOR">
+            <p>
+              <s>S’il était vrai, la loi les eût frappés.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-9" who="ROGER">
+            <p>
+              <s>Elle ne l’a point fait.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-10" who="VICTOR">
+            <p>
+              <s>N’importe. </s>
+              <s>Les punir autrement est un assassinat.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-11" who="ROGER">
+            <p>
+              <s>Mon fils !</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-12" who="VICTOR">
+            <p>
+              <s>Quoi ! </s>
+              <s>Sans autre droit qu’un horrible caprice, qu’une criminelle ambition, vous allez ravager leurs terres, dévaster leurs campagnes, la crainte et l’effroi volent devant vous ; le feu, le sang, le carnage et la mort vous suivent et vous accompagnent. </s>
+              <s>Ah Roger !... </s>
+              <s>Quand même on les eût égarés, ce n’est point en les égorgeant qu’on ramène les hommes.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-13" who="ROGER">
+            <p>
+              <s>C’est assez... </s>
+              <s>Je pardonne à ton aveuglement.</s>
+            </p>
+          </sp>
+          <sp xml:id="III08-14" who="VICTOR">
+            <p>
+              <s>C’en est fait, ma Clémence, je te perds pour jamais.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III09" type="scene" n="9">
+          <head>SCÈNE IX. Les précédents, Forban, Morneck, Dragovick, Fausmann, Inédepdants, Nègres, Lutteurs.<listPerson type="configuration" xml:id="conf32"/></head>
+          <sp xml:id="III09-1" who="ROGER">
+            <p>
+              <s>Suis-moi, viens visiter mon camp, j’espère détruire entièrement les préjugés à notre égard.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-2" who="VICTOR">
+            <p>
+              <s>Ne t’en flatte pas Roger.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-3" who="ROGER">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Si tu persistes, tu seras maître alors de me quitter ; mais ce ne sera pas du moins sans que je t’aie comblé de bienfaits qui te mettent à l’abri de l’infortune. </s>
+              <s>Viens.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-4" who="VALENTIN">
+            <p>
+              <s>Je lui parlerai, vous dis je ; je veux voir mon maître ; je veux voir mon maître : je ne m’en retournerai pas sans l’avoir vu d’abord.... </s>
+              <s>On me tuerait plutôt.</s>
+            </p>
+          </sp>
+          <sp xml:id="III09-5" who="CLEMENCE">
+            <p>
+              <s>Le voilà ! </s>
+              <s>Valentin !.... </s>
+              <s>Le voilà...</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III10" type="scene" n="10">
+          <head>SCÈNE X. Les Précédents, Valentin, Clémence.<listPerson type="configuration" xml:id="conf33"/></head>
+          <sp xml:id="III10-1" who="VICTOR">
+            <p>
+              <s>Valentin !... </s>
+              <s>Clémence !...</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-2" who="VALENTIN">
+            <p>
+              <s>Mon cher maître !</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-3" who="CLEMENCE">
+            <p>
+              <s>Victor !</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-4" who="VALENTIN">
+            <p>
+              <s>Mon bon maître ! </s>
+              <s>Que je suis heureux de vous revoir !</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-5" who="ROGER">
+            <p>
+              <s>Quels sont ces étrangers ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-6" who="VALENTIN">
+            <p>
+              <s>Je suis son vieil ami ; c’est moi qui l’ai élevé, il ne m’a pas permis de le suivre ce matin ; mais je n’ai pu résister au désir de savoir quelle impression ses discours avaient produit sur vous.</s>
+            </p>
+            <p>
+              <s>Mademoiselle Clémence, ai-je dit, il faut que j’aille voir ce que fait là-bas notre jeune maître.... </s>
+              <s>C’est que vraiment, ça me tourmentait de ne plus vous voir.... </s>
+              <s>Oh ! je n’y étais plus.... </s>
+              <s>Enfin, que vous dirai je ? </s>
+              <s>Quand mademoiselle m’a vu bien décidé à venir vous trouver : elle m’a dit, mais Valentin, si je t’accompagnais, si j’allais joindre mes instances à celles de Victor ?... </s>
+              <s>Sans doute, mademoiselle, venez... </s>
+              <s>Cela ne peut que produire un bon effet... </s>
+              <s>Un homme, quelque dur qu’il soit, ne peut être tout-à-fait insensible aux larmes d’une jeune et jolie femme.... </s>
+              <s>Mettez vos habits d’homme, et sortons comme si nous allions à la promenade... </s>
+              <s>Nous sommes partis... </s>
+              <s>Et nous voilà.</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-7" who="VICTOR">
+            <p>
+              <s>Mes bons !... </s>
+              <s>Mes chers amis !</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-8" who="VALENTIN">
+            <p>
+              <s>Mais à présent... </s>
+              <s>Voilà qui est bien décidé, je ne vous quitte plus... </s>
+              <s>J’ai eu trop de peur de vous perdre.</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-9" who="ROGER">
+            <p>
+              <s>Quoi ! </s>
+              <s>C’est-là...</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-10" who="VICTOR">
+            <p>
+              <s>Oui, c’est-là cette Clémence que j’adore, que tu refuses de nommer un jour ta fille, et qui ne craint point de venir te prier de céder à mes vœux....</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-11" who="ROGER">
+            <p>
+              <s>C’est à ce regret que je vous afflige, mais je te l’ai déjà dit, je ne puis quitter mes camarades... </s>
+              <s>Un serment solennel m’attache à eux...</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-12" who="CLEMENCE">
+            <p>
+              <s>Eh quoi ! </s>
+              <s>Tu pourrais être insensible au cri de la nature ?...</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-13" who="VICTOR">
+            <p>
+              <s>Ah, Roger ! </s>
+              <s>Rends-moi mon père, je le sens à mon cœur ; il m’est impossible d’étouffer la voix qui me parle pour toi.</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-14" who="ROGER">
+            <p>
+              <s>Ô ! </s>
+              <s>Mon cher fils !... </s>
+              <s>Qu’ils me sont doux, ces tendres épanchements...</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-15" who="VICTOR">
+            <p>
+              <s>Eh bien ! </s>
+              <s>Si tu l’aimes ce fils, souscrits à ces désirs.</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-16" who="CLEMENCE">
+            <p>
+              <s>Peux-tu rien comparer aux plaisirs qui t’attendent, lorsque vivant sans crainte, sans remords, dans une retraite ignorée et profonde...</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-17" who="VICTOR">
+            <p>
+              <s>Au milieu des enfants dont tu auras comblé les vœux, et qui te devront leur bonheur.</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-18" who="CLEMENCE">
+            <p>
+              <s>Nous te prodiguerons chaque jour les plus tendres caresses.</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-19" who="VICTOR">
+            <p>
+              <s>Et que tu verras s’élever autour de toi des êtres intéressants, à qui nous apprendrons dès leur naissance, à te bénir, à t’aimer...</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-20" who="CLEMENCE">
+            <p>
+              <s>Crois-moi, Roger, rien ne remplace ces délicieux instants.</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-21" who="ROGER">
+            <p>
+              <s>Laissez-moi, mes amis...</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-22" who="VICTOR">
+            <p>
+              <s>Tu t’attendris, Roger !...</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-23" who="CLEMENCE,VICTOR">
+            <p>
+              <s>Cède ! </s>
+              <s>Ah ! </s>
+              <s>Cède à ma prière !...</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-24" who="VALENTIN">
+            <p>
+              <s>Consentez à faire leur bonheur !...</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-25" who="CLEMENCE">
+            <p>
+              <s>Un mot...</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-26" who="VICTOR">
+            <p>
+              <s>Un seul mot !... </s>
+              <s>Et tu es digne d’être père !...</s>
+            </p>
+          </sp>
+          <sp xml:id="III10-27" who="ROGER">
+            <p>
+              <s>Levez-vous, mes enfants.... </s>
+              <s>Vos larmes... </s>
+              <s>Votre douleur ont fait sur moi...</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III11" type="scene" n="11">
+          <head>SCÈNE XI. Les Précédents, Morneck.<listPerson type="configuration" xml:id="conf34"/></head>
+          <sp xml:id="III11-1" who="MORNECK">
+            <p>
+              <s>Capitaine, le corps considérable qui nous poursuit, et que nos vedettes avaient signalé hier, s’avance sur la forêt. </s>
+              <s>Si tu n’y prends garde, nous ne tarderons point à être investis.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-2" who="ROGER">
+            <p>
+              <s>Il suffit.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-3" who="VICTOR">
+            <p>
+              <s>Qu’entends-je !</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-4" who="CLEMENCE">
+            <p>
+              <s>Ô mon père !</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-5" who="ROGER">
+            <p>
+              <s>Morneck, pendant que je vais donner mes ordres, et disposer tout pour notre défense ; toi, conduis ce jeune homme et ses deux amis dans la caverne où est placé le corps de réserve, je te charge de veiller sur eux, s’il leur arrive le moindre mal, tu m’en réponds sur ta tête.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-6" who="VICTOR">
+            <p>
+              <s>Mais Roger, pourquoi nous retenir ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-7" who="ROGER">
+            <p>
+              <s>La fuite devient impossible actuellement, et votre propre sûreté exige que vous restiez ici</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-8" who="CLEMENCE">
+            <p>
+              <s>Ah, Victor ! </s>
+              <s>Qu’allons-nous devenir ?</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-9" who="ROGER">
+            <p>
+              <s>Ne craignez rien, madame, nous mourrons tous avant qu’on ne parvienne jusqu’à vous.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-10" who="VICTOR">
+            <p>
+              <s>Adieu, Roger.</s>
+            </p>
+          </sp>
+          <sp xml:id="III11-11" who="ROGER">
+            <p>
+              <s>Viens dans mes bras, mon fils, peut-être cet embrassement sera-t-il le dernier !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III12" type="scene" n="12">
+          <head>SCÈNE XII. Roger, Forban, Fausmann, Dargovick, Indépendants.<listPerson type="configuration" xml:id="conf35"/></head>
+          <sp xml:id="III12-1" who="ROGER">
+            <p>
+              <s>Camarades, un ennemi puissant, que nous avons fait repentir plus d’une fois de sa témérité, ose encore nous attaquer. </s>
+              <s>Les troupes de l’Empereur marchent vers notre retraite, je ne vous retracerai point les belles actions qui vous ont illustré, je ne chercherai point à exciter votre courage, il m’est que trop connu. </s>
+              <s>Je vous rappellerai seulement que nous n’avons d’espoir que dans une vigoureuse résistance, et qu’une mort ignominieuse attend ceux d’entre nous qui tomberaient vivants entre les mains de l’ennemi. </s>
+              <s>Jurons donc, mes amis, de nous battre jusqu’au dernier soupir. </s>
+              <s>Jurons, si nous succombions au nombre, de nous réfugier dans ce souterrain que j’ai fait miner à cet effet, et d’y périr plutôt que de nous rendre.</s>
+            </p>
+          </sp>
+          <sp xml:id="III12-2" who="TOUS">
+            <p>
+              <s>Nous le jurons.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III13" type="scene" n="13">
+          <head>SCÈNE XIII. Les précédents, Le Baron, Valentin, Madame Germain, Un Officier général.<listPerson type="configuration" xml:id="conf36"/></head>
+          <sp xml:id="III13-1" who="VALENTIN">
+            <p>
+              <s>Les voilà !... </s>
+              <s>Les voilà !... </s>
+              <s>Sauvez-les...</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-2" who="LEBARON">
+            <p>
+              <s>Arrêtez... </s>
+              <s>Ce jeune homme est mon fils.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-3" who="CLEMENCE,VICTOR">
+            <p>
+              <s>Mon père ! </s>
+            </p>
+          </sp>
+          <sp xml:id="III13-4" who="LEBARON">
+            <p>
+              <s>Que je suis heureux de vous rejoindre, mes chers enfants ! </s>
+              <s>Que d’inquiétudes vous m’avez causées !...</s>
+            </p>
+            <p>
+              <s>Tu étais à peine sorti du château, lorsque j’appris que les troupes de l’Empereur, attirées par le combat de cette nuit, se disposaient à forcer la retraite de Roger. </s>
+              <s>Tremblant qu’on ne te prît pour un des brigands de sa suite et que ma Clémence ne fût la victime de son amour et de son imprudence, j’ai volé à votre secours ; mais le ciel est juste, je le vois ; il n’a point souffert que l’innocent fût confondu avec le coupable.</s>
+            </p>
+            <p>
+              <s>Monsieur, je vous réponds de ce jeune homme.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-5" who="LOFFICIERGENERAL">
+            <p>
+              <s>Il suffit, monsieur le Baron. </s>
+              <s>Je vais vous donner une escorte pour vous conduire à votre château.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-6" who="LEBARON">
+            <p>
+              <s>Il n’en est pas besoin, mes gens m’ont accompagné.</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-7" who="CLEMENCE">
+            <p>
+              <s>Pauvre Victor ! </s>
+              <s>Quels dangers tu as couru !</s>
+            </p>
+          </sp>
+          <sp xml:id="III13-8" who="VALENTIN">
+            <p>
+              <s>Les enragés ; comme ils y allaient !</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III14" type="scene" n="14">
+          <head>SCÈNE XIV. Les Précédents, Un Officier.<listPerson type="configuration" xml:id="conf37"/></head>
+          <sp xml:id="III14-1" who="LOFFICIER">
+            <p>
+              <s>Roger, blessé dangereusement, demande à voir le jeune homme qui l’est venu trouver aujourd’hui.</s>
+            </p>
+          </sp>
+          <sp xml:id="III14-2" who="LEBARON">
+            <p>
+              <s>Qu’on l’emmène.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="III15" type="scene" n="15">
+          <head>SCÈNE XV. Les Précédents, Roger, Indépendants enchaînés, troupes allemandes.<listPerson type="configuration" xml:id="conf38"/></head>
+          <sp xml:id="III15-1" who="ROGER">
+            <p>
+              <s>J’ai voulu te voir à mes derniers moments, mon fils, j’ai voulu te faire l’aveu des crimes que j’ai vainement cherché à te déguiser sous les systèmes les plus faux et les plus dangereux.</s>
+            </p>
+            <p>
+              <s>Vous à qui je dois le bonheur d’avoir vu  mon fils, et qui l’avez préservé de la séduction et des crimes auxquels mon exemple aurait pu le porter ; vous qui méritez seul d’être nommé son père, ne l’abandonnez pas ; oubliez le sang dont il sort pour ne vous souvenir que de ses vertus... </s>
+              <s>Consentez à l’unir à votre fille. </s>
+              <s>Combien sa douleur m’avait ému ! </s>
+              <s>Ah ! </s>
+              <s>Si la mort n’était pas venue m’arracher à tout ce que j’aime, Roger aurait pu vous forcer peut-être à l’estimer, Clémence aurait pu sans rougir se nommer ma fille... </s>
+              <s>Adieu... </s>
+              <s>Victor... </s>
+              <s>N’oublie jamais mon exemple... </s>
+              <s>Mes remords... </s>
+              <s>Que ce triste moment soit sans cesse présent à ta pensée... qu’il te rappelle qu’il est une heure suprême, où le coupable ne peut plus se faire illusion sur ces crimes, adieu... </s>
+              <s>Pardonne-moi ta triste existence.</s>
+            </p>
+          </sp>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>

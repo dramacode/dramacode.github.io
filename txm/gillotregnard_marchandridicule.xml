@@ -1,0 +1,429 @@
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le marchand ridicule</title>
+        <title type="sub">, comédie</title>
+        <author born="1655" born_location="Paris" death="1709" death_location="château de grillon, Dourdan" academie="">
+          <surname>Regnard</surname>
+          <forename> Jean-François</forename>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p>publié par Paul FIEVRE, Décembre  2011</p>
+        <idno/>
+      </publicationStmt>
+      <sourceDesc>
+        <genre>Comédie</genre>
+        <inspiration>moeurs françaises</inspiration>
+        <structure>Un acte</structure>
+        <type>prose</type>
+        <periode>1691-1700</periode>
+        <taille>(mesure non pertinente)</taille>
+        <permalien/>
+        <sources>
+          <source id="1">
+            <author/>
+            <text/>
+          </source>
+        </sources>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="created" when="1695-02"/>
+        <date type="issued" when="1695"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre" subtype="comedy">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 xml:id="I" type="act" n="1">
+        <head/>
+        <div2 xml:id="I01" type="scene" n="1">
+          <head>SCÈNE I. Janbroche, Le Compère.<listPerson type="configuration" xml:id="conf1"/></head>
+          <sp xml:id="I01-1" who="JANBROCHE">
+            <p>
+              <s>Monsieur, je suis votre serviteur. </s>
+              <s>Pourriez-vous me faire un plaisir ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-2" who="LECOMPERE">
+            <p>
+              <s>Quel plaisir voulez-vous de moi ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I01-3" who="JANBROCHE">
+            <p>
+              <s>Je voudrais bien vous prier de garder ma boutique et surtout ma fille.</s>
+            </p>
+          </sp>
+          <sp xml:id="I01-4" who="LECOMPERE">
+            <p>
+              <s>Monsieur, d’un tel embarras je ne me soucie point : mais vous avez votre domestique Pierrot ; qui fera votre affaire. </s>
+            </p>
+          </sp>
+          <sp xml:id="I01-5" who="JANBROCHE">
+            <p>
+              <s>Vous êtes bien peu complaisant. </s>
+              <s>Je vais donc appeler mon domestique. </s>
+              <s>Pierrot, holà, Pierrot. </s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I02" type="scene" n="2">
+          <head>SCÈNE II. Janbroche, Pierrot. <listPerson type="configuration" xml:id="conf2"/></head>
+          <sp xml:id="I02-1" who="PIERROT">
+            <p>
+              <s>Monsieur, qu’y a-t-il pour votre service ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-2" who="JANBROCHE">
+            <p>
+              <s>Il faut que tu représentes ma personne, et que tu sois l’économe de ma maison.</s>
+            </p>
+          </sp>
+          <sp xml:id="I02-3" who="PIERROT">
+            <p>
+              <s>Ma foi, monsieur, je ne puis servir de colonne à votre bâtiment. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-4" who="JANBROCHE">
+            <p>
+              <s>C’est de garder ma boutique, et d’avoir soin surtout de ma fille. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-5" who="PIERROT">
+            <p>
+              <s>Ma foi, Monsieur, je veux bien me charger de garder votre boutique, et non pas votre fille, parce que c’est une marchandise qui est comme de l’eau de la reine de Hongrie ; sitôt qu’on la laisse éventer, la saveur s’en va : une fille est de même. </s>
+              <s>Ainsi, monsieur, vous pouvez bien la garder vous-même. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-6" who="JANBROCHE">
+            <p>
+              <s>Va, va, maraud que tu es : va dire à ma fille qu’elle vienne me parler. </s>
+            </p>
+          </sp>
+          <sp xml:id="I02-7" who="PIERROT">
+            <p>
+              <s>Monsieur, je m’en vais dans l’instant.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I03" type="scene" n="3">
+          <head>SCÈNE III. Janbroche, Mademoiselle Janbroche. <listPerson type="configuration" xml:id="conf3"/></head>
+          <sp xml:id="I03-1" who="MADEMOISELLEJANBROCHE">
+            <p>
+              <s>Que souhaitez-vous, mon cher père. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-2" who="JANBROCHE">
+            <p>
+              <s>Ma fille, approchez quand je vous parle ; je vais partir pour aller en marchandise chercher des draps qui me manquent, et je veux que dans ma boutique il ne soit rien vendu en mon absence. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-3" who="MADEMOISELLEJANBROCHE">
+            <p>
+              <s>Cela paraîtra tout à fait ridicule. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-4" who="JANBROCHE">
+            <p>
+              <s>C’est à cause de cela que l’on m’appelle le marchand ridicule. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-5" who="MADEMOISELLEJANBROCHE">
+            <p>
+              <s>Mais, mon cher père, de quelle façon voulez-vous que je renvoie les marchands ?  </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-6" who="JANBROCHE">
+            <p>
+              <s>Ma fille, quand il viendra quelque marchand vous demander du drap, et qui vous dira : mademoiselle, n’auriez-vous pas un beau drap d’Hollande à me vendre ? </s>
+              <s>Il faut lui répondre : vraiment nenni, monsieur ; par là vous conserverez votre honneur et votre réputation. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-7" who="MADEMOISELLEJANBROCHE">
+            <p>
+              <s>Cela suffit, mon cher père, je n’y manquerai pas. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-8" who="JANBROCHE">
+            <p>
+              <s>Adieu, ma petite fille. </s>
+            </p>
+          </sp>
+          <sp xml:id="I03-9" who="MADEMOISELLEJANBROCHE">
+            <p>
+              <s>Adieu, mon cher papa.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I04" type="scene" n="4">
+          <head>SCÈNE IV. Monsieur le Marquis, Polichinelle. <listPerson type="configuration" xml:id="conf4"/></head>
+          <sp xml:id="I04-1" who="MONSIEURLEMARQUIS">
+            <p>
+              <s>Dis-moi, coquin, depuis le temps que je te cherche, d’où viens-tu ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-2" who="POLICHINELLE">
+            <p>
+              <s>Ma foi, monsieur, j’étais à la garde-robe à faire des vers. </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-3" who="MONSIEURLEMARQUIS">
+            <p>
+              <s>Comment, impertinent, est-ce là une place pour faire des vers ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-4" who="POLICHINELLE">
+            <p>
+              <s>Mais, Monsieur, chacun se met où il peut. </s>
+              <s>Que voulez-vous de moi ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-5" who="MONSIEURLEMARQUIS">
+            <p>
+              <s>Il faut que tu t’en ailles tout à l’heure de ma part chez Janbroche, mon marchand ordinaire, me chercher tout l’équipage d’un gentilhomme.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-6" who="POLICHINELLE">
+            <p>
+              <s>Mais, monsieur, sans trop de curiosité, pour quelle occasion ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-7" who="MONSIEURLEMARQUIS">
+            <p>
+              <s>C’est que je suis sur le point de me marier. </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-8" who="POLICHINELLE">
+            <p>
+              <s>Mais, monsieur, que ne vous mettez-vous sur la dentelle, cela est plus propre que le point. </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-9" who="MONSIEURLEMARQUIS">
+            <p>
+              <s>Animal que tu es, ce n’est pas cela : je veux prendre une femme. </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-10" who="POLICHINELLE">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, je vous entends : c’est que, comme vous savez que j’ai besoin de femme, vous en prenez pour moi et pour vous ?</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-11" who="MONSIEURLEMARQUIS">
+            <p>
+              <s>Impertinent que tu es, sache que si je prends une femme, que ce n’est point pour un impertinent comme toi, et que c’est pour moi.</s>
+            </p>
+          </sp>
+          <sp xml:id="I04-12" who="POLICHINELLE">
+            <p>
+              <s>Eh bien, monsieur, si en tout cas elle se perd, vous la pouvez cherchez tout seul. </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-13" who="MONSIEURLEMARQUIS">
+            <p>
+              <s>Ça, ça, point tant de verbiage, fais ma commission au plus vite. </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-14" who="POLICHINELLE">
+            <p>
+              <s>Mais, monsieur, où demeure-t-il ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-15" who="MONSIEURLEMARQUIS">
+            <p>
+              <s>Tiens, voilà sa porte, marche. </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-16" who="POLICHINELLE">
+            <p>
+              <s>Cela est bon, monsieur, j’y vais. </s>
+            </p>
+            <p>
+              <s>Va, va, compère, je m’en vais ferrer la mule. </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-17" who="LECOMPERE">
+            <p>
+              <s>Mais comment veux-tu ferrer la mule. </s>
+              <s>On ne t’a pas donné de l’argent ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-18" who="POLICHINELLE">
+            <p>
+              <s>Tu as encore raison, je m’en vais, l’appeler...</s>
+            </p>
+            <p>
+              <s>Monsieur, monsieur, vous ne m’avez point donné de l’argent ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-19" who="MONSIEURLEMARQUIS">
+            <p>
+              <s>Va, va, c’est mon marchand ordinaire, je ne paye qu’à l’année. </s>
+            </p>
+          </sp>
+          <sp xml:id="I04-20" who="POLICHINELLE">
+            <p>
+              <s>Bon ; nous voilà pas mal : je comptais ferrer la mule, et je ne ferrerai pas seulement le bourriquet.</s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I05" type="scene" n="5">
+          <head>SCÈNE V. Mademoiselle Janbroche, Polichinelle. <listPerson type="configuration" xml:id="conf5"/></head>
+          <sp xml:id="I05-1" who="POLICHINELLE">
+            <p>
+              <s>Monsieur Janbroche, je suis votre serviteur. </s>
+            </p>
+          </sp>
+          <sp xml:id="I05-2" who="LECOMPERE">
+            <p>
+              <s>Impertinent que tu es, ne vois-tu pas que c’est mademoiselle sa fille ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I05-3" who="POLICHINELLE">
+            <p>
+              <s>Eh bien ! </s>
+              <s>J’embrasserai mieux la fille que le père. </s>
+              <s>Mademoiselle, avez-vous du drap de Hollande ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I05-4" who="MADEMOISELLEJANBROCHE">
+            <p>
+              <s>Vraiment nenni, monsieur. </s>
+            </p>
+            <p>
+              <s>Vraiment nenni, monsieur... </s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I06" type="scene" n="6">
+          <head>SCÈNE VI. Janbroche, Le Compère. <listPerson type="configuration" xml:id="conf6"/></head>
+          <sp xml:id="I06-1" who="LECOMPERE">
+            <p>
+              <s>Ma foi, monsieur, je n’en sais rien, et vous pouvez appeler votre domestique Pierrot. </s>
+            </p>
+          </sp>
+          <sp xml:id="I06-2" who="JANBROCHE">
+            <p>
+              <s>Pierrot ! </s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I07" type="scene" n="7">
+          <head>SCÈNE VII. Janbroche, Pierrot. <listPerson type="configuration" xml:id="conf7"/></head>
+          <sp xml:id="I07-1" who="PIERROT">
+            <p>
+              <s>Monsieur, depuis que je ne vous ai vu, il y a bien des nouvelles. </s>
+            </p>
+          </sp>
+          <sp xml:id="I07-2" who="JANBROCHE">
+            <p>
+              <s>Qu’est-ce que c’est que ces nouvelles ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I07-3" who="PIERROT">
+            <p>
+              <s>C’est que les mâles couchent avec les femelles. </s>
+            </p>
+          </sp>
+          <sp xml:id="I07-4" who="JANBROCHE">
+            <p>
+              <s>Bête que tu es : de tout temps cela a été, et de tout temps cela sera. </s>
+            </p>
+          </sp>
+          <sp xml:id="I07-5" who="PIERROT">
+            <p>
+              <s>Hé bien, monsieur, puisqu’il faut que cela soit, je vous dirai qu’il y a un gros garçon couché avec mademoiselle votre fille.</s>
+            </p>
+          </sp>
+          <sp xml:id="I07-6" who="JANBROCHE">
+            <p>
+              <s>Comment ! </s>
+              <s>Un garçon couché avec ma fille ! </s>
+              <s>Me voilà perdu d’honneur et de réputation. </s>
+            </p>
+          </sp>
+          <sp xml:id="I07-7" who="PIERROT">
+            <p>
+              <s>Mais, monsieur... mais, monsieur, laissez divertir la jeunesse. </s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I08" type="scene" n="7">
+          <head>SCÈNE VIII. Janbroche, Polichinelle. <listPerson type="configuration" xml:id="conf8"/></head>
+          <sp xml:id="I08-1" who="POLICHINELLE">
+            <p>
+              <s>Mais, monsieur, rendez-moi donc ma culotte.</s>
+            </p>
+          </sp>
+          <sp xml:id="I08-2" who="JANBROCHE">
+            <p>
+              <s>Tiens, voilà ta culotte. </s>
+            </p>
+          </sp>
+        </div2>
+        <div2 xml:id="I09" type="scene" n="9">
+          <head>SCÈNE IX. Mademoiselle Janbroche, Polichinelle. <listPerson type="configuration" xml:id="conf9"/></head>
+          <sp xml:id="I09-1" who="MONSIEURLEMARQUIS">
+            <p>
+              <s>Monsieur, dites-moi un peu, n’auriez-vous pas vu mon coquin de domestique ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I09-2" who="POLICHINELLE">
+            <p>
+              <s>Monsieur, me voilà.</s>
+            </p>
+          </sp>
+          <sp xml:id="I09-3" who="POLICHINELLE">
+            <p>
+              <s>Ah ! </s>
+              <s>Monsieur, si vous allez crever le baril à la moutarde, elle va vous sauter aux yeux. </s>
+            </p>
+          </sp>
+          <sp xml:id="I09-4" who="MONSIEURLEMARQUIS">
+            <p>
+              <s>Malheureux : Dans quel équipage es-tu ? </s>
+            </p>
+          </sp>
+          <sp xml:id="I09-5" who="POLICHINELLE">
+            <p>
+              <s>En m’allant baigner, des petits fripons, monsieur, m’ont volé ma culotte. </s>
+            </p>
+          </sp>
+          <sp xml:id="I09-6" who="MONSIEURLEMARQUIS">
+            <p>
+              <s>Maraud, si tu ne me dis la vérité, je te vais rouer de coups de bâton dans l’instant. </s>
+            </p>
+          </sp>
+          <sp xml:id="I09-7" who="POLICHINELLE">
+            <p>
+              <s>Monsieur, tenez, ne vous mettez pas en colère. </s>
+              <s>Je vais vous dire la vérité ; comme la fille de Monsieur Janbroche avait peur, elle m’a prié d’aller coucher avec elle, et moi, fort obligeant, je n’ai pu la refuser. </s>
+            </p>
+          </sp>
+          <sp xml:id="I09-8" who="MONSIEURLEMARQUIS">
+            <p>
+              <s>Va, va, tu es un malheureux, il faut que tu l’épouses. </s>
+            </p>
+          </sp>
+          <sp xml:id="I09-9" who="POLICHINELLE">
+            <p>
+              <s>Bon, bon, tant mieux, voilà mon affaire.</s>
+            </p>
+          </sp>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,2107 @@
+
+
+**** *book_ *id_I01 *act_I *date_1739
+
+-*who_valere
+Thibaut, St, St.
+
+-*who_thibaut
+Monsieur !
+
+-*who_valere
+Viens donc vite; je n'ai peut-être qu'un moment à te parler.
+J'ai trouvé le secret d'échapper à mon oncle.
+
+-*who_thibaut
+Ca n'est morgué pas maladroit.
+Il veut que vous soyez toujours, comme son ombre, après li.
+
+-*who_valere
+As-tu rendu mon billet à Rosalie ?
+
+-*who_thibaut
+Vous allez entendre comme je m'y sommes pris.
+
+-*who_valere
+Et qu'importe comment ?
+Dis seulement ce qui en est.
+
+-*who_thibaut
+Monsieur le Baron est notre Maître ; vous êtes son neveu.
+Il vous laira son Châtiau, à condition d'achever ses plans.
+Je sis son Jardinier: je deviendrai le vôtre ; il est juste que je vous servions d'avance.
+
+-*who_valere
+Mon cher Thibaut!
+
+-*who_thibaut
+Savez-vous ?
+Morguienne, je tromperais mon père pour vous.
+
+-*who_valere
+Ah !
+Sans doute, tu auras fait des merveilles ?
+
+-*who_thibaut
+Mademoiselle Rosalie est entrée ce matin dans le Jardin avec sa mère, comme vous savez.
+
+-*who_valere
+Oui, je le sais.
+
+-*who_thibaut
+J'avons été pardevant elles ; je leur avons ôté mon chapiau, croyant qu'alles me diraient : "Bonjour, Thibaut".
+C'était le jeu, m'est avis ; et j'aurais pris ma belle, pour...
+
+-*who_valere
+Au fait, mon cher Thibaut !
+
+-*who_thibaut
+Alles n'avont pas desserré les dents.
+
+-*who_valere
+Tu n'as donc pas donné mon billet ?
+
+-*who_thibaut
+Comme vous êtes vif !
+Alles se sont arrêtées dans le boulingrin.
+
+-*who_valere
+Oui, je les ai aperçues de loin.
+
+-*who_thibaut
+Me v'là, moi, à aller travailler pardevant elles.
+Je chantions; je les regardions ; mon ratiau par ici, mon ratiau par-ilà.
+
+-*who_valere
+Eh !
+Laisse-là tes circonstances.
+
+-*who_thibaut
+Alles ne m'avont pas tant seulement regardé.
+Quand j'ai vu ça, je me sis avisé d'un bon tour.
+J'ai dit à la fille que je savais où il y avait un nid de fauvettes.
+Ces petits ménages-là faisont quelquefois penser à de plus grands ; les jeunes filles les aimont d'ordinaire.
+
+-*who_valere
+Eh bien ?
+
+-*who_thibaut
+Eh bien !
+Quand j'avons vu que le mère le voulait voir itou, je ne l'avons jamais pu trouver.
+
+-*who_valere
+Finis donc.
+Que t'a t elle dit, quand tu lui as donné mon billet ?
+
+-*who_thibaut
+Rian; car le v'là.
+
+-*who_valere
+Comment ?
+Toi qui as tant d'esprit, il ne t'a pas été possible...
+
+-*who_thibaut
+Quand j'en aurions quatre fois d'avantage, comment pourrions-je aborder une fille qui ne sait pas que je lui voulons quelque chose, pendant qu'alle est avec une mère qui sait bian que je ne li devons rian vouloir.
+
+-*who_valere
+Juste Ciel !
+
+-*who_thibaut
+Et pis alles ne m'avont pas donné le temps ; alles sont montées dans le carrosse pour aller chez cette Comtesse où alles vont dîner.
+Faut bien attendre qu'elles reviennent.
+
+-*who_valere
+Mais, en attendant, Dorante, qui vient de Bordeaux pour épouser Rosalie, arrivera peut-être demain.
+
+-*who_thibaut
+Faut être raisonnable.
+Par bonheur pour vous que votre oncle prête son Châtiau aux Accordés, afin qu'ils se regardiont avant la noce.
+Et si ce Dorante avait été tout droit à Paris, vous n'en auriez morgué rien su.
+
+-*who_valere
+J'en aurais peut-être été moins malheureux : mais tout s'arrange pour rendre mon infortune complète !
+Depuis deux ans mon oncle me tient éloigné du monde dans ce triste Château.
+
+-*who_thibaut
+Oui, comme s'il voulait vous faire hermite.
+
+-*who_valere
+Qu'avais-je à faire de le suivre à Paris, l'hiver passé, chez sa mère ; le jour même qu'elle fait sortir Rosalie du couvent ?
+
+-*who_thibaut
+C'est bien traître !
+
+-*who_valere
+Pouvais-je la voir sans l'aimer ?
+Dis, mon cher Thibaut.
+
+-*who_thibaut
+Ca n'est pas bien aisé, d'accord.
+
+-*who_valere
+J'ai nourri pendant deux mois, auprès d'elle, une flamme qu'une timidité invincible ne m'a jamais permis de lui découvrir.
+
+-*who_thibaut
+Stapendant, on ne bat pas les gens pour ça.
+
+-*who_valere
+Je reviens ici avec mon oncle, désespéré de quitter Rosalie, mais flatté de la mériter un jour ; et lorsque je m'y attends le moins, je la vois arriver avec sa mère.
+Juge de ma douleur, quand j'apprends que son mariage est arrêté avec Dorante et que je vais en être le témoin.
+
+-*who_thibaut
+Il fallait parler plutôt.
+
+-*who_valere
+Il fallait plaire à Rosalie.
+
+-*who_thibaut
+Vous lui plaisez peut-être : j'en ai opinion, moi qui vous parle.
+
+-*who_valere
+Et sur quoi ?
+Dis donc.
+
+-*who_thibaut
+Sur quoi !
+Tatigué, j'ons observé.
+Alle ne vous regarde jamais quand alle vous voit ; et pis, drès que vous vous en allez, alle tourne sa tête ; alle vous suit de l'oeil, tant et si loin, qu'alle vous regarde encore, morguenne, quand alle ne vous voit plus.
+
+-*who_valere
+Il est vrai que cet hiver j'a cru voir quelquefois que mes soins ne lui déplaisaient pas ; que même elle me devinait.
+
+-*who_thibaut
+Et vous, vous ne disiez rian !
+Tout franc vous êtes trop timide, trop craintif, trop nigaud, sauf votre respect.
+Morgué, notre jeune Maître, croyez-moi; prenez tant seulement de la hardiesse.
+
+-*who_valere
+À quoi me servirait-elle ?
+Je n'ai plus de ressource.
+Mais tu as raison : je veux parler à Rosalie, avant que de la perdre pour jamais.
+Puisqu'elle doit voir mon désespoir, je ne veux pas au moins qu'elle en ignore la cause.
+Je suis enfin résolu...
+Qu'entends-je !
+
+-*who_thibaut
+Où diable courez-vous donc ?
+
+-*who_valere
+On vient : et je ne veux pas qu'on nous voye causer ensemble.
+On soupçonnerait, à me voir, que j'ai parlé de Rosalie, on devinerait que je l'aime.
+
+**** *book_ *id_I02 *act_I *date_1739
+
+-*who_thibaut
+Par la sambille, voilà un amoureux bian résolu !
+
+**** *book_ *id_I03 *act_I *date_1739
+
+-*who_frontin
+N'y a-t-il ici personne ?
+Haie, l'ami !
+Où diable se tient...Ah !
+Hè, ventrebleu !
+C'est mon oncle.
+
+-*who_thibaut
+Hé !
+Palsangué, oui...
+C'est toi, mon neveu Charlot !
+Embrasse moi, mon enfant.
+
+-*who_frontin
+Parbleu, c'est de tout mon coeur, mon oncle !
+
+-*who_thibaut
+Morgué ; je sommes ravis que tu sois venu nous voir...
+Depuis quatre ans...
+
+-*who_frontin
+Ma foi, mon oncle, je suis charmé de vous rencontrer; mais ce n'était pas vous que je cherchais : je ne savais plus où vous étiez.
+
+-*who_thibaut
+Et qui cherchais-tu donc ?
+
+-*who_frontin
+Monsieur le Baron.
+
+-*who_thibaut
+Et que li veux-tu ?
+Qu'as-tu fait depis que je ne t'avons vu ?
+Comment te portes-tu, mon pauvre Charlot ?
+Es-tu riche ?
+As-tu fait forteune ?
+Es-tu marié ?
+Es-tu...
+
+-*who_frontin
+Eh !
+Mais, mais...
+Mon oncle, un peu de patience.
+Comme vous allez dru sur les questions !
+Vous m'essoufflez.
+
+-*who_thibaut
+Dame, vois-tu ; quand il y a longtemps qu'on ne s'est vu, on a tant de choses à se demander !...
+
+-*who_frontin
+Donnez moi le temps de vous répondre.
+Premièrement, plus de Charlot, s'il vous plaît.
+J'ai pris un nom de guerre ; je m'appelle Frontin.
+Je suis garçon ; je n'ai pas le sou ; j'étrangle de soif ; je suis las comme un chien ; je...
+
+-*who_thibaut
+Parguenne, tu réponds encore plus vite que je ne t'interroge.
+Que fais-tu à present ?
+
+-*who_frontin
+Je sers Monsieur Dorante, qui, par reconnoissance, m'habille comme vous voyez.
+
+-*who_thibaut
+Ah !
+Je sais ce qui t'amène à présent.
+N'as-tu pas de honte de t'être fait Laquais, étant fils, petit-fils, frère et neveu de Jardinier ?
+
+-*who_frontin
+Que voulez-vous, mon oncle ?
+Je n'ai point d'ambition.
+
+-*who_thibaut
+Morgué, c'est que t'es un fainiant : je te l'avons toujours bian dit.
+
+-*who_frontin
+Fainéant !
+Ce n'est pas, ma foi, au métier que je fais.
+Il m'occupe jour et nuit.
+Aussi, j'en suis diablement las.
+
+-*who_thibaut
+T'en es las ?
+Eh bian !
+Prends l'occasion aux cheveux ; demeure avec moi.
+Je sis Jardinier dans ce châtiau.
+Ce Monsieur le Baron est une fortune pour tous les ouvriers.
+Il plante, pis déplante; il arrache; il défriche; il élève; il abbat; en un mot, bien ou mal, il fait toujours travailler.
+L'argent roule.
+Vois-tu comme ça sonne ?
+
+-*who_frontin
+Fort bien, mon oncle.
+Mais, quand il culbuterait encore plus toute sa terre, que m'importe à moi.
+
+-*who_thibaut
+Ce que ça te fait ?
+Je sis veuf, je t'apprendrai le reste de ton métier.
+Et pis, quand je serons morts, je te lairons ma place ; tout le plus tard que je pourrons, s'entend.
+
+-*who_frontin
+Nous verrons tout cela.
+Menez-moi toujours à Monsieur.
+
+-*who_thibaut
+Tu feras mieux de l'attendre dans cette salle.
+Il y vient cent fois par jour.
+Ne t'embarrasse de rian, te dis-je.
+Revenons à nos moutons.
+T'es dégoûté de ta condition ?
+
+-*who_frontin
+Oui, ma foi.
+
+-*who_thibaut
+Et pourquoi ?
+Ton Maître est-il hargneux, avare, ivrogne ?
+
+-*who_frontin
+Non.
+C'est un des plus riches Banquiers de Bordeaux ; joyeux, libéral, bon diable enfin ; mais...
+
+-*who_thibaut
+Achève.
+
+-*who_frontin
+Il faut être toujours après lui; il faut être à lui la nuit tout comme le jour.
+
+-*who_thibaut
+Ça est naturel.
+M'est avis que je sis jardinier, moi, la nuit tout comme le jour.
+
+-*who_frontin
+Sans doute.
+Mais vous ne travaillez pas la nuit ; vous dormez, vous.
+
+-*who_thibaut
+Parguenne, oui.
+C'est la besogne que je faisons le mieux.
+
+-*who_frontin
+Dans ma chienne de condition, je n'en puis faire autant ; aussi je donne souvent mon Maître à tous les diables.
+
+-*who_thibaut
+Comment donc ça ?
+Dis-moi un peu.
+
+-*who_frontin
+Ma foi, je n'ose.
+
+-*who_thibaut
+Comment !
+Morgué !
+Tu seras craintif aussi ?
+Ça te convient bien à toi !
+Comment !
+Moi, ton oncle, qui n'avons point d'autre héritier que toi, tu sauras quelque secret, et je ne le saurons pas ?
+Morgué...
+
+-*who_frontin
+Voilà qui est bel et bon ; vous accommodez tout cela comme il vous plaît.
+Mon Maître me pardonnera-t-il de dire une chose, dont le secret est d'une importance ?...
+
+-*who_thibaut
+Et qui le dira ?
+Dis.
+Ce sera donc toi ?
+Car, pour moi...
+
+-*who_frontin
+En vérité, mon oncle...
+
+-*who_thibaut
+Bon !
+Bon !
+Tu vas le quitter.
+Et pis je te promets, ma foi, de n'en sonner mot.
+
+-*who_frontin
+Vous me promettez...
+Là, de bonne foi...
+
+-*who_thibaut
+Que de raisons !
+Veux tu parler?
+
+-*who_frontin
+Eh bien !
+Je vous dirai qu'il est somnambule.
+
+-*who_thibaut
+Comment dis-tu ça?
+
+-*who_frontin
+Somnambule.
+
+-*who_thibaut
+Son.. son.. nanbule !
+Que Diable est ça ?
+Est-ce une charge, un emploi ?
+
+-*who_frontin
+Bon !
+Une Charge !
+Voyez-vous, mon oncle ?
+Il y aurait de quoi rompre son mariage, si cela venait à se découvrir.
+
+-*who_thibaut
+J'entends, j'entends.
+Sonanbulec'est qu'i ne pouvont se marier; qu'il est... là...
+
+-*who_frontin
+Êtes-vous fou, mon oncle ?
+
+-*who_thibaut
+Oh !
+Dis donc vîte.
+SonSonanbule.
+Je n'avons jamais entendu parler de ça.
+
+-*who_frontin
+C'est un défaut naturel, une façon de maladie...
+
+-*who_thibaut
+Ah !
+Il est malade!
+
+-*who_frontin
+Non, point du tout ; il se porte à merveille.
+
+-*who_thibaut
+Je n'entends plus.
+
+-*who_frontin
+Il se lève la nuit ; il marche; il parle.
+
+-*who_thibaut
+Ah !
+Je vois ce que c'est ; il ne saurait dormir.
+
+-*who_frontin
+Point du tout.
+Il dort trop bien, au contraire.
+
+-*who_thibaut
+Oh !
+Parguenne, accommode-toi donc.
+S'il dort, il n'est point éveillé.
+
+-*who_frontin
+Écoutez-moi, si vous voulez.
+Je vous dis qu'il marche, qu'il parle, qu'il a même les yeux ouverts, et que cependant il dort toujours.
+
+-*who_thibaut
+Oui, ça se peut, si le Diable s'en mêle.
+Si j'en faisions autant, je nous casserions le cou.
+Acoute, mon neveu, ça n'est morgué pas bien de se moquer de son oncle.
+
+-*who_frontin
+Je me donne au Diable, mon oncle, je ne me moque point.
+
+-*who_thibaut
+Comment !
+Morgué !
+Tu veux me persuader que ton Maître dort tout de bout.
+À d'autres !
+
+-*who_frontin
+J'y ai été pris, moi qui vous parle.
+Il m'a plus d'une fois, tout en dormant, donné des commissions que je faisais de bonne foi, dont il me remerciait le lendemain à coups de bâton.
+
+-*who_thibaut
+Vas, ton Maître est un fou, et toi aussi.
+Paix chut, voici notre vieux Maître.
+
+**** *book_ *id_I04 *act_I *date_1739
+
+-*who_lebaron
+Il faut se lever plus matin, Valère ; oui, beaucoup plus matin.
+
+-*who_valere
+Mais, mon oncle, j'étais à cinq heures aux ouvriers, vous l'avez vu vous-même.
+
+-*who_lebaron
+Il est vrai: mais j'y étais encore avant toi.
+On fait tous plus tard à présent ; tout se retarde.
+Oh !
+De mon temps, on se levait plus matin.
+
+-*who_valere
+Il m'eût été facile de paraître plutôt ; et quoique je n'aye pas fermé l'oeil, demain vous serez content de ma diligence.
+
+-*who_lebaron
+Nous verrons.
+Il faut achever cette année, la terrasse neuve.
+Et si nous ne profitons pas de la belle saison...
+Quel est cet homme, Thibaut ?
+
+-*who_thibaut
+C'est mon neveu, Monsieur.
+
+-*who_lebaron
+A-t-il un métier ?
+Cherche-t-il-de l'ouvrage?
+
+-*who_frontin
+Non, Monsieur.
+Je précède mon Maître de quelques moments : il me fuit.
+
+-*who_lebaron
+Qui, ton Maître ?
+
+-*who_frontin
+Monsieur Dorante.
+
+-*who_valere
+Ah !
+Ciel !
+
+-*who_frontin
+Nous avons fait une diligence extrême.
+Depuis trois jourS nous n'avons ni dormi, ni reposé, pour arriver plutôt.
+
+-*who_lebaron
+Il aura le temps de se délasser ici.
+Allons, Valère ; je veux qu'il trouve mon jardin propre et bien tenu.
+Toi, Thibaut, vas promptement faire aller la petite cascade du potager.
+
+-*who_thibaut
+La cascade du potager, Monsieur ?
+Vous savez bian qu'il n'y a pas une goutte d'iau ; et morgué la source n'est pas encore trouvée.
+
+-*who_lebaron
+Te tairas-tu, Bourreau ?
+Comme nous fîmes la dernière fois, vas t'en faire tirer de l'eau au grand puits ; remplis le réservoir.
+Tu n'as pas plus d'intelligence : tu ne te soucies non plus de l'honneur d'une maison...
+
+-*who_frontin
+En vérité, Monsieur, vous ferez de la piene à mon Maître.
+Traitez-le sans façon.
+Croyez-moi, laissez vos jets d'eau à sec.
+
+-*who_lebaron
+C'est une bagatelle.
+J'ai toujours fait les bassins, et les cascades, et je n'ai plus que les sources à trouver.
+Ne dis point à ton maître ce que tu viens d'entendre.
+
+-*who_frontin
+Non, Monsieur, je n'ai garde.
+
+-*who_lebaron
+Vas donc, Thibaut.
+
+**** *book_ *id_I05 *act_I *date_1739
+
+-*who_frontin
+Monsieur, voici mon Maître.
+
+-*who_lebaron
+Eh !
+Bonjour donc, Dorante !
+Soyez le bien arrivé!
+Je ne vous attendais que demain.
+
+-*who_dorante
+Je n'a pu résister à l'impatience de voir Rosalie, et à celle de vous rendre grâce d'une union qui va faire mon bonheur.
+
+-*who_lebaron
+Vous êtes en bonne santé ?
+Voilà le principal.
+
+-*who_dorante
+J'avouerai que je suis fatigué.
+J'ai couru jour et nuit.
+
+-*who_lebaron
+Ce n'est rien.
+Vous êtes en bonne maison ; on aura soin de vous.
+
+-*who_dorante
+Ne serait-ce pas là Monsieur votre neveu ?
+
+-*who_lebaron
+Lui-même.
+
+-*who_dorante
+Je l'ai vu si jeune, que j'ai des droits sur son amitié.
+
+-*who_valere
+Monsieur... je voudrais... pouvoir...
+
+-*who_lebaron
+Il fera ce qu'il doit pour mériter la vôtre.
+Allons, Dorante, venez faire un tour de promenade.
+Vous prendrez d'abord une idée générale du terrain.
+Cela vous fera plaisir.
+
+-*who_dorante
+Ne serait-il pas plus convenable que vous me fissiez l'honneur de me présenter à Madame ?
+
+-*who_lebaron
+Dites plutôt à Rosalie.
+
+-*who_dorante
+Je ne la connais que sur son portrait.
+Sa figure prévient ; et vous ne pouvez qu'approuver le juste empressement que j'ai d'en juger par moi-même, quoique, dans cet équipage, je ne sois pas trop en état de paraître devant elle.
+
+-*who_lebaron
+Tout ce qui a l'air d'empressement plaît au beau sexe.
+Mais nous avons du temps.
+Elle est allée avec sa mère dîner à une demi-lieue d'ici.
+Elles ne reviendront que sur le soir.
+
+-*who_dorante
+Ces Dames ne sont point ici ?
+En ce cas, permettez-moi de profiter de la circonstance.
+Trouvez bon que j'aille me reposer.
+L'envie de leur faire ma cour m'aurait donné des forces ; mais je me trouve si fatigué...
+
+-*who_lebaron
+Bon !
+À votre âge, j'aurais fait cent cabrioles après la plus grand course.
+
+-*who_dorante
+Je voudrais pouvoir vous ressembler : mais je sens que quelques heures de repos me sont absolument nécessaires.
+
+-*who_lebaron
+Eh bien !
+Je vais faire servir le dîner.
+
+-*who_dorante
+Il m'est inutile, je vous assure.
+
+-*who_lebaron
+Du moins, nous allons, mon Neveu et moi, vous montrer la Maison.
+Vous verrez le parti que j'ai tiré de tout ceci, et surtout de mes greniers.
+
+-*who_valere
+Mon Oncle, Monsieur est fatigué.
+
+-*who_lebaron
+Venez ; cela sera bientôt fait.
+Vous choisirez votre appartement.
+
+-*who_dorante
+Tout m'est égal.
+
+-*who_lebaron
+Voulez-vous celui-ci ?
+
+-*who_dorante
+Celui-ci, soit.
+
+-*who_lebaron
+Il est commode.
+Cette salle lui sert d'anti-chambre ; j'y passe à tous moments.
+Je pourrai vous parler, vous consulter...
+
+-*who_dorante
+Demain je suis à vos ordres.
+Vous disposerez de moi à toutes les heures du jour.
+
+-*who_lebaron
+Au reste, vous allez être couché comme on n'est point à dix lieues à la ronde.
+J'ai des lits...
+
+-*who_dorante
+Je n'en doute nullement.
+Je vais en profiter, et de la liberté que vous me donnez.
+Suis moi, Frontin.
+
+-*who_lebaron
+J'agis sans façon.
+Je vous laisse.
+
+**** *book_ *id_I06 *act_I *date_1739
+
+-*who_valere
+Croyez-vous, mon Oncle, que Dorante soit prévenu en faveur de Rosalie ?
+
+-*who_lebaron
+Mais, vraiment, il a témoigné assez d'impatience de la voir.
+À propos, j'oubliais de te dire...
+
+-*who_valere
+Ce peut-être aussi par bienséance.
+Et il y a encore loin de la politesse à l'amour ; n'est-ce pas, mon Oncle ?
+
+-*who_lebaron
+Comme tu voudras.
+Il faut que tu...
+
+-*who_valere
+Vous le croyez donc amoureux ?
+
+-*who_lebaron
+Il t'a dit lui même qu'il ne la connaît que par un portrait.
+Je disais donc...
+
+-*who_valere
+Dorante a-t-il aussi envoyé le sien à Rosalie ?
+
+-*who_lebaron
+Ma foi, je n'en sais rien.
+Veux-tu que j'aille m'occuper de toutes ces balivernes-là.
+J'ai des affaires bien plus importantes.
+J'ai ma montagne dans la tête.
+
+-*who_valere
+Mais, puisque vous vous êtes mêlé de ce mariage, vous n'en devez ignorer aucune circonstance.
+Vous leur prêtez votre maison ; et Rosalie aurait pu...
+
+-*who_lebaron
+Sans doute.
+Je suis bien aise qu'on la voye ; car elle est charmante.
+
+-*who_valere
+Oh !
+Oui, mon Oncle ; elle a des grâces, des yeux...
+
+-*who_lebaron
+Que veux-tu dire ?
+Es-tu fou ?
+Je te parle des charmes de ma maison, de mon Jardin, qui...
+
+-*who_valere
+Ah !
+J'entends ; et vous avez raison.
+Je regardais tantôt, sur le Boulingrin, un des plus beaux objets...
+
+-*who_lebaron
+Mais, vraiment, je le crois.
+C'est un des plus beaux points de vue en France.
+
+-*who_valere
+J'y remrquais une beauté que je n'y avais jamais vue : j'en admirais tous les charmes, et...
+
+-*who_lebaron
+Va, mon cher neveu, tu posséderas un jour tous ces charmes-là.
+
+-*who_valere
+Je posséderais...
+
+-*who_lebaron
+Tu me ravis d'aise.
+Embrasse-moi, mon cher neveu, mon digne successeur.
+Tu peux compter que...
+
+**** *book_ *id_I07 *act_I *date_1739
+
+-*who_lebaron
+Eh !
+Quoi, Mesdames, déjà de retour ?
+
+-*who_lacomtesse
+La Comtesse est malade : nous n'avons fait qu'une visite.
+
+-*who_lebaron
+Tant mieux : nous aurons le plaisir de dîner avec vous.
+
+-*who_lacomtesse
+Comme il était encore de bonne heure, nous avons mis pied à terre à la grille, et nous sommes venues jusqu'ici en nous promenant.
+
+-*who_lebaron
+N'êtes vous point un peu fatiguée ?
+
+-*who_lacomtesse
+Je ne me lasse pas aisément, Baron.
+
+-*who_valere
+Et vous, Madamoiselle, n'auriez-vous pas besoin de repos ?
+
+-*who_rosalie
+Me promener, me reposer, Monsieur, tout m'est assez indifférent.
+
+-*who_valere
+Tout, Mademoiselle ?
+
+-*who_rosalie
+Oui, Monsieur.
+
+-*who_lacomtesse
+Prononcez donc, Mademoiselle.
+Vous dites cela si faiblement.
+Il faut dire:
+    « Oui Monsieur.»
+Je voudrais bien voir que tout ne lui fût pas indifférent, tant que j'aurai l'autorité sur elle.
+
+-*who_lebaron
+Oh !
+Vous ne garderez pas longtemps cette autorité.
+Dorante est arrivé.
+
+-*who_lacomtesse
+Il est arrivé ?
+
+-*who_rosalie
+Il est arrivé ?
+
+-*who_valere
+Oui, arrivé.
+
+-*who_lebaron
+Oui, oui arrivé.
+Que diable veux-tu dire ?
+Est-ce que tu ne le sais pas, toi ?
+
+-*who_valere
+Je ne dis pas le contraire, mon Oncle.
+Je confirme ce que vous dites.
+
+-*who_lebaron
+Il est charmant, agréable, vif, sage, et posé.
+Oh !
+C'est un jeune homme forte aimable.
+Dis donc Valère !
+
+-*who_valere
+Je ne l'ai vu qu'un moment, mon Oncle ; j'en jugerais mal.
+C'est Madamoiselle qui doit en décider.
+
+-*who_lacomtesse
+Eh !
+Bien, qu'est-ce qu'on répond ?
+Mademoiselle répondez donc.
+
+-*who_rosalie
+Il peut-être amiable, Monsieur : mais il ne faudrait pas s'en rapporter à moi.
+Je ne puis plus en juger sans prévention.
+
+-*who_lacomtesse
+Oui, parce que vous devez l'épouser, n'est-ce pas ?
+Mais cela ne s'entend point.
+Il faut dire :
+    « Monsieur, le choix de mes parents me le fera paraître accompli. »
+Tout le monde dit que vous avez de l'esprit : pour moi, je ne vois point cela.
+Mais où est Dorante?
+
+-*who_valere
+Madame, toutes affaires cestantes, ill est allé dormir.
+
+-*who_lacomtesse
+Dormir, à l'heure qu'il est ?
+
+-*who_lebaron
+Il ne comptait vous voir que ce soir.
+Et, comme il a couru jour et nuit, il était, si las, si las...
+
+-*who_lacomtesse
+Qui le pressait de courir si vite ?
+Pour quoi faire ?Pour se reposer ?
+Pour dormir ?
+Rien n'est si maussade.
+Il n'avait qu'à dormir hier, et n'arriver que demain.
+On ne l'attendait pas plutôt.
+Qu'en pensez-vous, ma fille?
+
+-*who_rosalie
+Madame, je ne desire pas, de sa part, un empressement plus vif.
+
+-*who_lacomtesse
+Par exemple, ou ne sait si c'est la modestie qui vous fait parler, ou si vous êtes piquèe.
+
+-*who_rosalie
+Je vous jure, Madame, que je ne le suis point.
+
+-*who_lacomtesse
+Mais, vraiment, il faut pourtant se sentir.
+Dormir tout en arrivant !
+La Jeunesse d'à-present, Baron, n'a que le corps délicat.
+Ceci ne me prévient pas trop.
+
+-*who_lebaron
+Ah !
+Il trouvera le secret de réparer sa faute !
+
+-*who_lacomtesse
+Oui, demain vous le promenerez dès le point du jour, je gage ?
+Vous le ferez courir ?
+Et puis il faudra qu'il se repose.
+
+-*who_lebaron
+Bon !
+Bon !
+Est-ce ce qu'on se fatigue dans un jardin qu'on n'a jamais vu ?
+
+-*who_lacomtesse
+Fort bien !
+Quand le terrain en est aussi inégal.
+Je crois qu'il y a plus de vingt terrasses dans votre jardin.
+
+-*who_lebaron
+Comment donc !
+C'est un magnificence...
+
+-*who_lacomtesse
+Cependant vous n'avez guère de vue.
+
+-*who_lebaron
+Ah !
+Sans la montagne, elle serait admirable.
+Il m'est facile de vous en convaincre.
+Hé, Thibaut.
+
+**** *book_ *id_I08 *act_I *date_1739
+
+-*who_lacomtesse
+Oui : mais la montagne ne changera pas de place.
+
+-*who_lebaron
+Je ne dis mot ; mais elle sautera.
+
+-*who_lacomtesse
+C'est une enterprise digne des plus anciens Romains.
+
+-*who_lebaron
+Patience.
+J'ai des neveux qui se marieront, laissez moi faire ; à la cinquième génération, je ne veux pas qu'il en reste trace ; vous verrez.
+
+-*who_lacomtesse
+N'êtes vous pas honteuse, Mademoiselle de votre ignorance, et de ne pouvoir vous entretenir de tout, comme je fais ?
+
+-*who_rosalie
+Je vous écoute, Madame, dans l'espérance de profiter.
+
+-*who_lebaron
+Moi, j'aime les objections : on a le plaisir d'y répondre.
+Voici Thibaut.
+
+**** *book_ *id_I09 *act_I *date_1739
+
+-*who_lebaron
+N'est-ce pas mon grand Plan.
+
+-*who_thibaut
+Oui, Monsieur; c'est le beau ; c'est celui que je portons toujours, drès que vous avez du monde.
+
+-*who_lebaron
+Déroule, Thibaut, deroule, et tiens le plan élevé.
+Bon.
+
+-*who_lacomtesse
+Ah !
+Je vous donnerai de bons conseils.
+Je n'ai cependant jamais parlé de ces choses-là : mais l'esprit est un bon meuble ; il sert à tout.
+
+-*who_lebaron
+Vous êtes charmante !
+La belle Rosalie ne me dira t-elle rien.
+
+-*who_lacomtesse
+Que voudriez-vous qu'elle y entendit ?
+Montrez, montrez-moi.
+Ne sont ce pas là des canaux, des pièces d'eau ?
+Cependant je ne crois pas en avoir vu chez vous.
+
+-*who_lebaron
+Vous vous amusez à des minuties, Madame.
+On en marque toujours dans les plans ; cela les embellit.
+Du reste, je trouverai sûrement de l'eau dans la montagne que vous savez.
+
+-*who_thibaut
+Oui, je vivons dans l'esperance ; je détruisons douze arpens de veigne : que de vin perdu pour avoir de l'iau !
+
+-*who_lacomtesse
+Voyons plus en détail.
+
+-*who_lebaron
+Suivez mon doigt.
+
+-*who_valere
+Vous ne vous approchez pas, Mademoiselle ?
+
+-*who_rosalie
+J'ai déjà fait l'aveu de mon ignorance ; je n'y entends rien.
+
+-*who_valere
+Et vous n'entendez pas non plus les soupirs de l'homme du monde le plus malheureux ?
+
+-*who_rosalie
+Hélas !
+
+-*who_lacomtesse
+C'est donc là votre basse cour?
+
+-*who_lebaron
+Eh !
+Non ; parbleu Madame ; c'est le potager.
+
+-*who_lacomtesse
+Je crois qu'il vaut mieux mettre mes lunettes.
+
+-*who_lebaron
+Prenons-les ; vous m'y faites penser.
+
+-*who_thibaut
+Tatigué, que vous allez voir clair !
+
+-*who_valere
+Pourquoi vous défier de vos lumières, Mademoiselle ?
+On pourrait vous expliquer...
+
+-*who_rosalie
+À quoi me servirait cette connaissance ?
+
+-*who_valere
+À mériter votre pitié.
+
+-*who_lacomtesse
+Ceci est l'avenue ?
+
+-*who_lebaron
+Oui, celle que je vais fair planter incessamment.
+
+-*who_lacomtesse
+Elle est bien courte !
+
+-*who_lebaron
+Courte !
+Elle aura plus de trois lieues.
+
+-*who_lacomtesse
+Bon !
+Elle n'est pas plus longue que ma main.
+
+-*who_lebaron
+Comptez, comptez les arbres ; vous verrez.
+
+-*who_lacomtesse
+Un, deux, trois, quatre, cinq.
+
+-*who_valere
+Dorante perd beaucoup, quand il retarde le moment de voir tant de beautés.
+
+-*who_lebaron
+Je nE le comprends pas, je l'avoue.
+Mais, pour vous, Madame, vous allez le concevoir dans un moment : voici le terrain qu'occupe la montagne.
+
+-*who_lacomtesse
+Je compte les arbres de l'avenue.
+Parlez, parlez toujours.
+Cent cinquante cinq, cent cinquante-six.
+Quand vous l'aurez abattue, ce sera donc une plaine ?
+
+-*who_lebaron
+Sans doute ; et une vue...
+
+-*who_valere
+Admirable, Madame.
+Et si vous daigniez, Mademoiselle, m'accorder un moment d'entretien, je vous ferais connaître la situation...
+D'un coeur que votre refus réduirait au désespoir.
+
+-*who_lebaron
+Il connait la situation comme moi-même : c'est lui, Mademoiselle, qui a dressé le plan sur mes projets.
+
+-*who_lacomtesse
+Je ne croyais pas Monsieur si savant.
+Instruisez-vous, ma fille.
+Je voudrais que Monsieur pût vous inspirer du goût.
+
+-*who_valere
+Que je serais heureux, si j'en avais le talent !
+
+-*who_lacomtesse
+Deux-cent-soixante et treize !
+Voilà une très belle longueur, il faut en convenir.
+Baron, vous avez des idées...
+Mais des idées à perte de vue.
+
+-*who_lebaron
+Jaurai soixante avenues de cette taille-là.
+
+-*who_valere
+Vous concevez, Mademoiselle, l'effet que cela produira.
+En sortant de table...
+Rien ne sera si noble sans contredit.
+Ici même, dans cette salle...
+Cela demande de la patience, à la vérité.
+Si vous voulez m'écouter un moment, vous me sauverez la vie.
+Mais convenez que c'est une belle entreprise.
+
+-*who_rosalie
+Elle me paraît bien hardie.
+
+-*who_lacomtesse
+Apprenez, Mademoiselle, que ce sont justement les difficultés qu'il est beau de vaincre.
+
+-*who_lebaron
+Oh !
+C'est mon talent à moi.
+Par exemple, voyez-vous la grande terrasse ?
+Devinez combien elle aura de haut, quand elle sera faite.
+
+-*who_lacomtesse
+Combien ?
+Eh !
+Mais...
+Comme cela ?
+
+-*who_lebaron
+Ah ! ah ! ah !...
+Que vous n'y êtes pas !
+Elle aura cinquante-sept pieds huit pouces et demi ; n'est il pas vrai, Valère ?
+
+-*who_valere
+Oui, mon oncle, cinquante-sept.
+
+-*who_lacomtesse
+Cinquante-sept pouces et demi !
+Cela est merveilleux ; mais c'est un précipice : je n'irai jamais, la tête me tournerait.
+
+-*who_lebaron
+Pour moi, je n'appréhende pas que la tête me tourne.
+
+-*who_valere
+Vous rêvez, Mademoiselle ?
+Vous trouvez donc ce que l'on se propose trop téméraire, et vous n'y viendrez point ?
+
+-*who_rosalie
+Il me semble que c'est s'exposer beacuoup ; et...
+
+-*who_valere
+Dites naturellement ce que vous pensez.
+
+-*who_rosalie
+À quoi cela menerait il ?
+
+-*who_lacomtesse
+Cela vous menerait à savoir ce que je sais.
+Allez, Monsieur, laissez là dans son ignorance ; elle ne mérite pas la peine que vous prenez.
+En vérité, Baron, je suis très contente de ce que j'ai vu, et j'y donne mon approbation.
+Mais, dites-moi, toutes ces terres sont-elles à vous ?
+
+-*who_thibaut
+C'est là le Hic.
+
+-*who_lebaron
+Non, pas encore.
+Mais, supposez qu'on ne voulût pas me les vendre, il faudrait être de bien mauvaise humeur, pour refuser, sur ces terres, d'aussi beaux plans que ceux-ci.
+J'aperçois le Maître-d'Hôtel.
+
+**** *book_ *id_I10 *act_I *date_1739
+
+-*who_lebaron
+Ces Dames sont servies ?
+
+-*who_lemaitredhotel
+Oui, Monsieur.
+
+-*who_lacomtesse
+Allons, Baron.
+Valère, donnez-moi la main.
+
+-*who_lebaron
+Belle Rosalie, donnez-moi la vôtre.
+Thibaut, je te recommande mon plan.
+
+-*who_thibaut
+Allez, Monsieur ne vous boutez pas en peine.
+
+**** *book_ *id_I11 *act_I *date_1739
+
+-*who_thibaut
+Avec son parc !
+Il est, morgué, bian fou.
+Oh !
+Je ne nous y connaissons pas, ou cette jeunesse en revendra à cette vieilliesse.
+Notre jeune Maître s'est un tantinet enhardi ; il a glissé queuques paroles, et j'ai bian vu que la petite Demoiselle lui glissait aussi queuques réponses avec les yeux.
+Je voudrais stapendant l'avertir de ce que mon neveu Charlot m'a dit de sonsonsonsoin !
+Je ne savons plus comment ça se nomme.
+Il y entendra peut-être queuque chose ; car ils l'avont biaucoup fait étudier ; je l'attendrons ici en sortant de table.
+Mais, vela mon neveu ; faut que je le fasse encore dégoiser.
+
+**** *book_ *id_I12 *act_I *date_1739
+
+-*who_frontin
+Votre valet, mon oncle.
+Je vous trouve à propos.
+
+-*who_thibaut
+Est-ce encore pour m'en bailler à garder comme tantôt ?
+Queuque sot !
+
+-*who_frontin
+Moi, je vous ai parlé franchement.
+Vous ne m'avez pas voulu croire ; ce n'est pas ma faute.
+C'est autre chose qui m'amène.
+Savez-vous que je ne veux point dormir à vide, comme mon maître ?
+
+-*who_thibaut
+Tout-à-l'heure je allons te mener à la cuisine.
+Mais je voulons te demander trois ou quatre petites questions.
+
+-*who_frontin
+En vérité, mon oncle, vous êtes le premier questionneur du Royaume.
+Mais à quoi bon me questionner, moi ?
+Vous ne croyez pas mes réponses.
+
+-*who_thibaut
+Ne t'embrasse pas, je croirai celles qui me conviendront.
+
+-*who_frontin
+Dépêchez donc ; il faut que je retourne promptement auprès de mon maître.
+
+-*who_thibaut
+Quoi faire ?
+Ne dort-il pas?
+
+-*who_frontin
+Oui, il dort : et c'est justement à cause de cela.
+
+-*who_thibaut
+Est-ce qu'il ne saurait dormir qu'on ne le garde ?
+
+-*who_frontin
+Non, c'est pour le réveiller, si ce que je vous ai dit lui arrive.
+
+-*who_thibaut
+T'en es encore là-dessus.
+Morgué, je te défends de m'en parler davantage.
+Dis-moi tant seulement : ton maître est-il amoureux de sa prétendue ?
+
+-*who_frontin
+Amoureux !
+Il ne l'est qu'en peinture?
+
+-*who_thibaut
+J'ai, morgué, cru que tu m'allais dire encore qu'il ne l'était qu'en dormant ; je t'y attendais.
+Mais comment n'est-il amoureux qu'en peinture ?
+
+-*who_frontin
+C'est qu'il n'a vu que son portrait : il l'a trouvé charmant ; et, sur les récits qu'on lui en a faits, il suppose à sa prétendue autant de vertu que de beauté.
+
+-*who_thibaut
+Il a morgué raison ; il suppose bian.
+Mais dis-moi...
+
+-*who_frontin
+Voilà un homme qui a résolu ma perte.
+Me questionner dans ma rage de faim et de soif !
+
+-*who_thibaut
+Allons, vians à la cuisine ; je te questionnerai tout en buvant.
+Tu crois donc...
+
+-*who_frontin
+Je crois le diable.
+Mais ne voilà-t-il pas mon maître qui fait son maudit train ?
+
+**** *book_ *id_I13 *act_I *date_1739
+
+-*who_thibaut
+Tiens, voilà ton maître qui veut te parler.
+
+-*who_frontin
+Je suis, ma foi, bienheureux qu'il ait tourné par ici ; je le vais éveiller.
+
+-*who_thibaut
+Attends, attends donc.
+Est-ce-là ?
+Oh !
+Oh !
+M'est avis qu'il rêve en effet, ton Maître.
+
+-*who_frontin
+Eh !
+Oui.
+Parbleu, l'occasion est trop belle pour vous convaincre.
+Regardez seulement.
+Eh bien ?
+
+-*who_dorante
+Allons donc...
+Allons donc...
+Un autre cheval...
+Te dépêcheras-tu ?
+
+-*who_frontin
+Entendez-vous ?
+Il croit être encore sur la route.
+
+-*who_thibaut
+Il dort.
+Je commence à le croire.
+Son allure, son oeil, tout ça me semble partroublé.
+
+-*who_dorante
+Il est tard...
+La nuit...
+Au Château...
+Rosalie...
+
+-*who_thibaut
+Morgué, j'ai peur.
+Ca tiant de l'esprit, du revenant, m'est avis.
+
+-*who_frontin
+Ce qu'il y a de singulier, mon oncle, c'est que, tout en dormant, il dit quelquefois des chofes très raisonnables, très justes.
+
+-*who_dorante
+Frontin !...
+Coquin !...
+Tu boiras ce soir...Ivrogne !...
+Paresseux !...
+
+-*who_thibaut
+Tu as raison ; je crois qu'il dit la vérité.
+
+-*who_frontin
+Justement.
+Il parle du dernier maître de poste.
+Ce maraud-là nous fit attendre.
+
+-*who_dorante
+Ah !
+Les mauvais chevaux !
+Ohé, ohé, ohé !
+
+-*who_frontin
+Ah, ah, ah, ah !
+
+-*who_thibaut
+Quel diable de rêve est ceci ?
+Monsieur, Monsieur, doucement, s'il vous plaît.
+
+-*who_dorante
+Doucement !
+Non pas.
+Il faut arriver.
+Ohé, ohé !
+
+-*who_frontin
+Avancez, mon oncle, tâchez de lui ôter ce maudit fouet, je l'éveillerai.
+
+-*who_thibaut
+Pargué, ôte-le toi-même ; tu dois être plus fait que moi aux étrivières.
+
+-*who_dorante
+Ohé, ohé !
+
+-*who_frontin
+Attendez : il faut lui faire quitter ce maudit rève.
+Monsieur, Monsieur, c'est de la part de Monsieur Argante.
+
+-*who_dorante
+Argante ?...
+De l'argent ?...
+Il faut lui rendre...
+
+-*who_frontin
+Oui, votre correspondant.
+
+-*who_dorante
+Cent pistoles...
+Il est bien pressé...
+Écrivons.
+
+-*who_frontin
+Oh !
+Maintenant je vais l'éveiller.
+
+-*who_thibaut
+Attends, attends, cela commence à me faire rire.
+
+-*who_frontin
+Il croit écrire, vous voyez.
+
+-*who_dorante
+Appellez Frontin, Monsieur Argante.
+
+-*who_frontin
+C'est un Juif, ce Monsieur Argante, un vilain.
+
+-*who_dorante
+Vilain, je l'écris.
+Frontin, au coffre-fort.
+
+-*who_thibaut
+Il a le sommeil bien riche.
+Morgué, je n'avons jamais rêvé de ces choses-là.
+Parle donc, neveu ; t'es donc son caissier ?
+
+-*who_frontin
+Quand il dort, comme vous voyez, mon oncle.
+Malheureusement il en a un autre quand il veille.
+
+-*who_dorante
+Tiens ma lettre, Frontin.
+
+-*who_frontin
+Oui, Monsieur, votre lettre.
+
+-*who_dorante
+Ma lettre...
+Argante...
+Un sac...
+Prenez ce sac...
+Rapporte mon billet.
+
+-*who_thibaut
+Ah !
+Ah !
+Le sac!
+Prenons, prenons ; nous le partagerons.
+
+-*who_dorante
+Partagerons...
+Voleur, je t'étranglerai.
+
+-*who_thibaut
+À l'aide !
+Frontin...
+Monsieur, Monsieur, vous serrez trop fort.
+Commencez du moins par me fouiller.
+
+-*who_dorante
+Au voleur !
+Au voleur !
+
+-*who_thibaut
+Frontin !
+Mon neveu !
+Au secours !
+
+-*who_frontin
+Attendez ; laissez-moi lui prendre le petit doigt ; il n'y a pas d'autre moyen de l'éveiller.
+
+-*who_thibaut
+Prends-li, morgué, tout ce que tu voudras ; mais tire-moi de ses pattes.
+
+-*who_frontin
+Monsieur, Monsieur éveillez-vous.
+
+-*who_thibaut
+Queu chien de sommeil !
+
+-*who_dorante
+Où suis-je, Frontin ?
+Pourquoi m'as-tu laissé sortir ?
+Pourquoi m'as-tu quitté, coquin ?
+
+-*who_frontin
+Mai foi, Monsieur, je me suis endormi de lassitude.
+Vous avez pris ce temps pour vous en aller, et j'accours au bruit que vous faites.
+
+-*who_dorante
+Ah !
+Je me suis trahi.
+Je m'en souviens ; je suis chez Monsieur le Baron.
+
+-*who_thibaut
+Oui, de par tous les Diables, vous y êtes.
+
+-*who_dorante
+Que fait-là cet homme ?
+
+-*who_thibaut
+Morgué, c'est sti-là que vous étrangliez.
+
+-*who_frontin
+C'est le Jardinier, d'ici.
+Vous l'avez vu tantôt.
+
+-*who_dorante
+Je suis au désespoir.
+Je croyais qu'on me volait.
+
+-*who_thibaut
+Pargué, vous croyez trop vite.
+
+-*who_dorante
+Il n'y a rien que je ne te donne pour t'engager au secret.
+Que penserait Rosalie ?
+Elle ne me connaîtrait que pas mes défauts.
+
+-*who_thibaut
+Pargué, Monsieur, vous avez insulté mon honneur, ça n'est pas bian.
+
+-*who_dorante
+Je te promets vingt louis, trente, s'il le faut, pour te contenter.
+
+-*who_thibaut
+Trente louis !
+Morgué...
+Mais ne rêvez-vous pas actuellement que vous me dites ça ?
+
+-*who_dorante
+Voudrais-tu me perdre ?
+
+-*who_frontin
+Allez, Monsieur, soyez tranquile.
+C'est mon oncle.
+Je lui réponds de vous ; et je vous réponds de lui.
+On pourrait sortir de table ; croyez-moi, retournez dans votre lit.
+
+-*who_thibaut
+Il n'a, ma foi, pas tort.
+Un sommeil comme sti-là ne doit pas vous avoir reposé biaucoup.
+
+**** *book_ *id_I14 *act_I *date_1739
+
+-*who_thibaut
+Vela, morguienne, une recommendation bian sèche, et un drôle de répondant !
+Tout ce que j'avons vu du depuis un moment, me partrouble.
+Non, morgué, m'est avis que je rêve moi-même.
+Ne suis-je pas itou son, son...janbule ?
+Que sait-on ?
+Je parlions ; je marchions ; j'avions les yeux ouverts; enfin, c'est tout un.
+Que diable !
+S'il m'avait donné son mal ; ça se gagne peut-être.
+St'homme-là a le sommeil bian vigoureux, il en faut convenir.
+Sans Frontin, sans le petit doigt, j'etions autant d'étranglé.
+Queu train tout ça a mis dans ma tête !
+Je ne savons où j'en sommes.
+
+**** *book_ *id_I15 *act_I *date_1739
+
+-*who_thibaut
+Eh !
+Monsieur Valère, venez vite.
+Mais comment diantre m'y prendrai-je pour lui dégoiser tout ça ?
+Oh !
+Palsanguienne, allez, Monsieur, vous ne savez pas...
+
+-*who_valere
+Mon Oncle et la Comtesse sont encore aux mains sur les plans.
+
+-*who_thibaut
+Et moi, morgué, je venons de vous y trouver avec un homme qui dort tout debout.
+
+-*who_valere
+J'ai prié tantôt Rosalie de venir ici, et de m'accorder un instant d'entretien.
+Quoiqu'elle ne m'ait rien promis, je vien toujours l'attendre.
+Je ne veux avoir rien à me reprocher.
+
+-*who_thibaut
+Quand alle sera sa femme, si ce Monsieur Dorante allait rêver qu'alle est avec un autre ! Morgué, vous ne savez pas.
+
+-*who_valere
+Il est bien temps de plaisanter.
+Laisse-moi.
+Ah !
+Rosalie, je meurs content, si je puis vous dire que je vous aime.
+
+-*who_thibaut
+Mais tout ce que j'avons à vous dire, est itou fort nécessarie.
+
+-*who_valere
+Dans ce moment je ne sens que mon impatience.
+
+-*who_thibaut
+Quoi !
+Vous ne voulez pas m'écouter ?
+
+-*who_valere
+Non, non, non.
+Rosalie peut arriver.
+Sors, je t'en conjure.
+Si elle te voyait, tu l'empêcherais de venir ici, tu me priverais du seul instant heureux que j'aurai peut-être de ma vie.
+
+-*who_thibaut
+Vous le prenez par-là !
+Eh bian !
+Morguienne, je nous en allons.
+Vous en serez fâché, je vous en avertis.
+
+**** *book_ *id_I16 *act_I *date_1739
+
+-*who_valere
+Enfin, j'en suis défait.
+Je me suis peut-être trop flatté ; Rosalie ne viendra pas.
+Cependant elle est triste.
+Mais Dorante lui peut être indifférent, sans qu'elle ait plus de sensibilité pour moi !
+Ah !
+Dieu !
+J'aperçois Rosalie.
+
+**** *book_ *id_I17 *act_I *date_1739
+
+-*who_valere
+Quoi !
+Vous avez la bonté de venir !
+Avancez donc quelques pas ; on pourrait nous entendre.
+
+-*who_rosalie
+Non, Valère ; j'ai trop de peur.
+Dites-moi vite ce que vous me voulez.
+Je veux rentrer au plutôt.
+
+-*who_valere
+Calmez-vous, de grâce, belle Rosalie : donnez-le moi tout entier, ce moment que vous m'accordez.
+
+-*who_rosalie
+Je tremble.
+
+-*who_valere
+Eh bien !
+Charmante Rosalie, n'écoutez donc qu'un mot, puisque vous le voulez ; je vous adore.
+
+-*who_rosalie
+Ah !
+Que je suis fâchée de le savoir !
+Adieu.
+
+-*who_valere
+Encore un mot, divine Rosalie.
+Serais-je assez heureux pour n'être point haï ?
+
+-*who_rosalie
+Jugez-en Valère.
+Incertaine de vos sentiments, la raison me défendait de m'en convaincre ; je suis pourtant venue vous entendre...
+Dites-moi vous-même ce qui pouvait triompher de ma raison...
+Ah !
+Valère !
+Ah !
+Laissez-moi rentrer.
+
+-*who_valere
+Non, demeurez, je vous en conjure.
+Je n'attendais que cet aveu fortuné: sans lui je n'osais agir, cette faveur m'était nécessaire pour vaincre une timidité fatale a notre bonheur.
+J'en triomphe en ce moment.
+Je vais tout mettre en usage pour retarder, pour rompre même un hymen auquel je ne survivrais pas.
+
+-*who_rosalie
+Eh !
+Que pouvez-vous faire ?
+Ne vaudrait-il pas mièux oublier ?
+Hélas !
+Je n'ai pas la force de vous dire de ne plus m'aimer.
+
+-*who_valere
+Plutôt mourir mille fois !
+Laissez-moi tenter tout ce que l'adresse, la violence, les prières, les larmes, enfin tout ce qu'un amour excessif pourra m'inspirer.
+
+-*who_rosalie
+Ah !
+Valère, vous ne connaissez pas mère.
+Le souvenir m'en fait frémir.
+Les instans s'écoulent... et nous ne les comptons pas.
+Sortez et laissez-moi vous fuir.
+
+-*who_valere
+Il faut vous obéir.
+Mais, en vous quittant, laissez-moi vous rendre grâce de ma félicité, et vous jurer une fidélité éternelle.
+
+**** *book_ *id_I18 *act_I *date_1739
+
+-*who_lacomtesse
+Que vois-je ?
+Ma fille !
+Valère !
+Ah !
+Juste Ciel !
+
+-*who_rosalie
+Valère, je suis perdue ; voilà ma mère.
+
+-*who_valere
+Ah !
+Dieu !
+
+-*who_lacomtesse
+Se peut-il...
+Que ma fille...
+Que mon sang...
+
+-*who_rosalie
+Ma mère...
+Le hazard a fait...
+Je ne prévoyais pas...
+
+-*who_lacomtesse
+Oh !
+Sans doute, vous ne prévoyiez pas que je vous surprendrais.
+Après cette aventure... je ne saurais parler.
+
+-*who_valere
+Calmez-vous, Madame.
+Apprenez qu'une sentiment aussi tendre que légitime, et que je me flatte que mon oncle approuvera...
+
+-*who_lacomtesse
+Votre oncle, Monsieur !
+Il me fera raison de l'insolence de vos procédés.
+Vous êtes amoureux de ma fille !
+Je vous trouve à ses genoux !
+Il n'est point d'extrémité...
+
+-*who_valere
+Mais, Madame, croyez qu'elle n'a point de part...
+
+-*who_lacomtesse
+Elle vous écoutait : cela sussit pour mériter toute mon indignation.
+Si la chose éclate, un couvent me répondra de vous, Mademoiselle.
+Je saurai vous y tenir pendant toute votre vie.
+
+-*who_rosalie
+Que puis-je avoir dit, que puis-je avoir entendu depuis un instant ?
+
+-*who_lacomtesse
+Un instant !
+Comme si l'on ne savait pas ce que c'est qu'un instant !
+Allons, partons, plus de raisonnement.
+
+**** *book_ *id_I19 *act_I *date_1739
+
+-*who_lebaron
+Qu'est-ce, Mesdames ?
+Vous sortez avec une grande précipitation !
+Je le vois, l'impatience de la promenade...
+
+-*who_lacomtesse
+Je sors pour tout-à-fait, mon cher Baron...
+Je veux partir sur le champ ; je veux retourner à Paris.
+
+-*who_lebaron
+Comment donc !
+Y pensez-vous ?
+Et Dorante, que dirait-il ?
+
+-*who_lacomtesse
+Il n'a qu'à venir m'y trouver.
+
+-*who_lebaron
+Qu'y a-t-il donc de si pressé ?
+
+-*who_lacomtesse
+Mon honneur est offensé.
+
+-*who_lebaron
+Comment diantre !
+Votre honneur ?
+
+-*who_lacomtesse
+Et je vous demande justice de l'insolent amour de votre neveu, ou je saurai me la faire.
+
+-*who_lebaron
+Que vous a-t-il donc fait ?
+Comment !
+Petit écervelé, vous insultez Madame, à son âge !
+Sans égard pour...
+
+-*who_valere
+Moi, mon oncle !
+Je vous jure que...
+
+-*who_lacomtesse
+Non, Baron ; son amour...
+
+-*who_lebaron
+Son amour !
+Son amour est impertinent.
+Est-ce qu'on doit en avoir pour vous, Madame ?
+Petit coquin, une femme respectable!...
+
+-*who_valere
+Je vous proteste, mon oncle, que j'ai pour Madame un respect infini.
+
+-*who_lebaron
+Une jeune barbe qui ne songe pas que vous seriez sa mère, et qui ose vous manquer.
+
+-*who_lacomtesse
+À l'autre !
+Il extravague.
+
+-*who_lebaron
+Oui, c'est un extravagant, un petit étourdi, qui n'a rien vu, et qui ne vous connaît seulement pas.
+
+-*who_lacomtesse
+La colère me suffoque.
+Il est devenu fou !
+
+-*who_lebaron
+Ce serait une folie impardonnable, à son âge : mais il n'y retournera plus, Madame ; et je vous demande pardon de sa témérité.
+
+-*who_lacomtesse
+Savez-vous bien, Baron, qu'il y a une heure que vous ne savez ce que vous dites ?
+Que voulez-vous dire de mon âge, que je serais sa mère ?
+Je vous trouve original de croire qu'il faut être fou pour m'aimer !
+Et qui vous dit qu'il m'aime ?
+
+-*who_lebaron
+Comment !
+Vous ne disiez pas que c'était à vous ?...
+
+-*who_lacomtesse
+J'aimerais mille fois mieux, vraiment, qu'il se fût adressé à moi ; le mal ne serait pas si grand : mais il a l'insolence d'aimer Mademoiselle ; il n'en fait aucun mystère; il me l'avoue à moi-même ; je l'ai trouvé à ses genoux.
+Voyez si ma colère est fondée, et si je puis, après cela, demeurer dans la même maison ?
+
+-*who_lebaron
+Oh !
+Oh !
+C'est autre chose.
+Quoi!
+Monsieur !
+Mais ceci mérite réflexion.
+J'approuve votre colère, Madame ; mais je désapprouve votre départ: et, qui plus est, je vous conseille de demeurer ici, comme si de rien n'était.
+
+-*who_lacomtesse
+Comme si de rien n'était !
+Comment l'entendez- vous, Monsieur ?
+
+-*who_lebaron
+Oui, Madame ; vous devez agir ici de sang-froid, et vous posséder : c'est moi qui vous le conseille, qui suis vif, comme vous venez de le voir.
+
+-*who_lacomtesse
+Ah !
+Oui, fort à propos.
+Et moi, je vous signifie que je veux être en colère dans vingt ans.
+
+-*who_lebaron
+L'éclat que vous feriez serait plus dangereux que l'affaire même.
+Dorante n'est point instruit de ce qui s'est passé ; le moyen de le lui cacher, c'est de laisser les choses au même état.
+
+-*who_valere
+Ah !
+Mon oncle.
+Si vous daigniez ajouter à tant de bontés...
+
+-*who_lebaron
+Tais-toi : je te parlerai.
+Tu verras comment je saurai faire passer cet amour prétendu, cette bouffée de jeunesse : je t'apprendrai si l'on doit aimer à ton âge, et dans mon château, sans ma permission !
+
+-*who_valere
+Mon oncle...
+
+-*who_lebaron
+Si tu parles, je te ferai conduire dans mes prisons.
+
+-*who_lacomtesse
+Allons Baron, soyez vif ; ne vous ralentissez point.
+Je sens...
+Oui, je sens que votre colère me tranquillise.
+
+-*who_lebaron
+Laissez-moi faire.
+Je me fâcherai pour vous et pour moi.
+
+-*who_lacomtesse
+Songez que c'est un mariage que vous vez fait, un mariage conclu, fini, où l'on fait à Mademoiselle le plus grands avantages.
+
+-*who_lebaron
+Quand ce mariage ne vous serait pas avantageur, madame, vous avez donné votre arole : comment y pourrez-vous manquer ?
+Et pour une petite fantaisie musquée d'un godelureau, j'irais passer, moi, pour...
+Car enfin, c'est moi, c'est chez moi, c'est mon neveu.
+
+-*who_lacomtesse
+Oui, vous avez raison.
+Emportez vous, Baron, emportez-vous ; vous devez être furieux.
+Pour moi, je me calme : par politique, au moins ; car je ne me connais plus...
+Mais il s'agit, comme vous dites fort bien, de sortir d'embarras.
+
+-*who_lebaron
+Au fond, cela n'est pas difficile.
+Vous ne direz mot de ce qui vient d'arriver.
+
+-*who_lacomtesse
+Non, puisque vous le voulez ; sans cela, mademoiselle, mademoiselle...
+
+-*who_lebaron
+Cette aventure sera donc secrète ; il n'y aurait à craindre que ce petit-monsieur là.
+N'en soyez point inquiète, quand il serait malhonnête homme...
+Suffit, je vous en réponds.
+
+-*who_lacomtesse
+Votre douceur me paraît inconcevable : enfin, vous me rendez douce, et je suis confondue, baron ; je m'abandonne à vos conseils.
+Mais, ciel !
+N'est-ce pas là Dorante ?
+
+-*who_lebaron
+Il n'y aurait point de remède, s'il nous avait écouté.
+
+**** *book_ *id_I20 *act_I *date_1739
+
+-*who_lacomtesse
+Vous nous mettez dans une jolie situation, Mademoiselle !
+
+-*who_lebaron
+Il n'y aurait point de remède, s'il nous avait écouté.
+
+-*who_valere
+Plut au Ciel !
+
+-*who_lacomtesse
+Qu'il a l'air occupé !
+
+-*who_lebaron
+Il ne sait comment nous aborder.
+
+-*who_dorante
+Il fallait bien un bal...
+À des noces...
+
+-*who_lebaron
+Il faut cacher notre embarras.
+En vérité, Dorante, il est bien singulier que vous paraissiez devant ces Dames en robe-de chambre.
+Vous m'aviez paru plus galant.
+
+-*who_lacomtesse
+Il ne se soucie plus de plaire à ma fille, preuve de mépris !
+De quelque façon que soit Monsieur il est toujours bien.
+
+-*who_dorante
+Oui, toujours bien...
+En Courier...
+En Turc...
+En Domino...
+Tout est égal.
+
+-*who_lacomtesse
+Je suis de votre avis, Monsieur ; vous avez raison; il faut ou beaucoup faire de façons, ou n'en point faire du tout.
+
+-*who_dorante
+Ma foi? point de façons...
+Vous ne faites point de façons, il me paraît.
+Ah, ah, ah !...
+Ah, ah, ah !...
+
+-*who_valere
+Il a tout entendu.
+
+-*who_lebaron
+Vous êtes toujours naturel, toujours jovial.
+Oh !
+Je vous reconnais bien.
+
+-*who_dorante
+Vous me connaissez ?...
+Non...
+Oh !
+Non.
+Ah, ah, ah.
+
+-*who_lacomtesse
+Voilà ma fille qui...
+
+-*who_dorante
+Votre fille !...
+Ah, ah !...
+Bien déguisée...
+Ah !
+Ah !...
+Bien déguisée...
+Ah, ah.
+
+-*who_lacomtesse
+Déguisée !
+Que voulez-vous dire, Monsieur ?
+Vous nous connaissez bien peu, si vous croyez...
+
+-*who_dorante
+Ma foi, je ne la connais, ni ne veut la connaître...
+
+-*who_lebaron
+En vérité, Dorante, c'est moi qui ne vous connaîs plus.
+
+-*who_dorante
+Plus !...
+Tant mieux...
+Ce sont des masques.
+
+-*who_lacomtesse
+Voilà ce que vous m'attirez, Mademoiselle.
+Mais c'en est trop aussi, que de joindre l'insulte à la familiarité.
+Sachez, Monsieur, que tout autre parti était plus honnête que celui que vous prenez pour rompre avec nous.
+
+-*who_dorante
+Ouf !
+Je suis beaucoup mieux...
+Je vois tout le train...
+
+-*who_lacomtesse
+Je n'y puis plus tenir.
+Monsieur, je vous rends votre parole ; je retire la mienne, et rien ne pourra m'engager à vous donner Rosalie.
+
+-*who_dorante
+Qu'elle aille se promener avec un autre.
+
+-*who_lebaron
+Mais pensez donc, Dorante...
+
+-*who_lacomtesse
+Laissez tout cela, Baron.
+Je ne veux ni explication, ni ménagement.
+Vous m'aviez fait faire un sot mariage : votre neveu a trouvé le moyen de le rompre.
+Trouvez bon que je ne vous voye ni l'un ni l'autre.
+Adieu.
+
+-*who_lebaron
+Arrêtez, Madame.
+En punissant votre fille, vous achevez de la perdre.
+Mon neveu peut réparer le tort qu'il faisait à Rosalie.
+Nous sommes amis, vous et moi.
+Puisque Monsieur persiste dans ses refus...
+
+-*who_lacomtesse
+Vous m'eclairez, Baron, sur ma vengeance.
+J'accepte votre neveu, pour apprendre à Monsieur Dorante que l'on n'est pas sans ressource.
+
+-*who_rosalie
+Ah !
+Ma mère !
+
+-*who_valere
+Rien n'égale monbonheur.
+Quoi !
+Vous êtes à moi?
+
+-*who_rosalie
+Oui.
+Aurions-nous pu nous en flatter ?
+
+**** *book_ *id_I21 *act_I *date_1739
+
+-*who_frontin
+Il s'est échappé : je ne l'ai plus trouvé dans son lit.
+Où diable peut-il être ?
+
+-*who_thibaut
+Tiens, morgué, le vela là-bas en conversation avec la compagnie.
+
+-*who_frontin
+Motus, mon oncle.
+
+-*who_thibaut
+Oh !
+Laisse-moi, je n'avons rien à ménager.
+C'est un...
+
+-*who_frontin
+Parbleu vous ne direz mot.
+
+-*who_thibaut
+N'a-t-il étranglé personne ?
+
+-*who_lacomtesse
+Comment ?
+
+-*who_lebaron
+Quel est ce galimatias ?
+
+-*who_thibaut
+Je vous dis que son Maître est un fou, qui dort quand il est éveillé.
+
+-*who_lebaron
+Coquin, rêves-tu ?
+
+-*who_thibaut
+Non, morgné ; c'est lui qui rêve : et pour vous faire voir que je ne mentons pas, je connaissons son petit doigt, et j'allons l'éveiller.
+
+-*who_valere
+Que veut dire tout ceci ?
+
+-*who_rosalie
+Je n'y comprends rien.
+Mais, quand on est heureux, on doit tout craindre.
+
+-*who_dorante
+Aye !
+Où suis-je ?...
+Ah !
+Monsieur le Baron, c'est vous !
+Tirez moi de peine, je vous conjure ; n'ai-je rien dit ?...
+N'ai-je rien fait ?...
+
+-*who_lebaron
+Pouvez-vous le demander ?
+Que vous importe, puisque votre mariage est rompu ?
+
+-*who_dorante
+Il est rompu !
+Ciel !
+Je ne puis comprendre...
+
+-*who_frontin
+Pour moi, je comprends fort bien, Monsieur.
+Nous sommes découverts, et vous aurez fait quelqu'extravagance.
+J'ose vous assurer, Madame, que mon Maître est l'homme du monde le plus sage, quand il veille ; et ce n'est pas sa faute, s'il a le sommeil un peu brutal.
+
+-*who_lacomtesse
+Quoi !
+L'on me voudra faire passer pour rêve la façon indigne dont vous nous avez traitées ma fille et moi.
+Oh bien !
+Monsieur, apprenez à rêver plus poliment.
+
+-*who_valere
+Au moins, Madame, vous étiez bien éveillée, et mon oncle aussi, lorsque vous m'avez promis Rosalie.
+
+-*who_dorante
+Quoi !
+C'est à Valère...
+
+-*who_thibaut
+Lui-même.
+Dame, il y a plus de six mois qu'il n'en dort pas, lui.
+
+-*who_rosalie
+Pour moi, Dorante, vous le dirai-je ?
+Je ne vous épousais que par obéissance.
+
+-*who_dorante
+Cet aveu ne me permet par d'insister ; et je ne dois plus que rire d'une aventure qui nous empêche tous trois d'être malheureux.
+
+-*who_thibaut
+Vous avez raison.
+Morguenne, le bonheur vous vient en dormant.
+
+-*who_lebaron
+Allons, allons, mes enfants ; tout en nous promenant, nous prendrons des mesures pour ne pas retarder votre bonheur.
+
+-*who_frontin
+Il aurait tort de se plaindre ; il n'est pas le premier qui perd sa femme quand il dort.

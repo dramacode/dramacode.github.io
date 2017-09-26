@@ -1,0 +1,1474 @@
+---
+identifier: dancourt_bonsoldat  
+creator: Dancourt Florent Carton dit  
+date: 1693  
+title: Le bon soldat . , comédie  
+---
+
+
+LE BON SOLDAT
+
+COMÉDIE EN VERS
+
+M. DCC XVIII. AVEC PRIVILÈGE DU ROI.
+
+
+
+# PRIVILÈGE DU ROI. LOUIS par la grâce de dieu, Roi de France et de Navarre : À nos amés et Féaux Conseillers, les Gens tenant nos Cours de Parlement, Maîtres des Requêtes ordinaires de notre Hôtel, Grand-Conseil, Prévôt de Paris, Baillifs, Sénéchaux, leurs Lieutenants Civils, et autres nos Justiciers qu'il appartiendra, Salut. Notre bien-amé CHISTOPHE DAVID, Libraire à Paris, Nous ayons fait exposer qu'il souhaiterait faire imprimer Les uvres de Montfleury, contenant ses Pièces choisies de Théâtre, et donner au Public, s'il Nous plaisait lui accorder nos Lettres de Privilège, pour la Ville de Paris seulement ; Nous avons permis et permettons par ces Présentes audit David, de faire imprimer lesdites uvres de Montfleury, en tels Volume, forme, marge, caractère, conjointement ou séparément, et de les vendre, faire vendre et débiter par tout notre Royaume, pendant le temps de dix années consécutives, à compter du jour de la date desdites Présentes. Faisons défenses à toutes Personnes de quelque qualité et condition qu'elles soient, d'en introduire d'impression étrangère dans aucun Lieu de notre obéissance, et à tous Libraires-Imprimeurs, et autres, dans ladite Ville de Paris seulement, d'imprimer ou faire imprimer, vendre, faire vendre et débiter d'autre impression que de celle qui aura été faites pour ledit Exposant, sous peine de confiscation des Exemplaires contrefaits, de mil livres d'amende contre chacun des Contrevenants, dont un tiers à Nous, un tiers à l'Hôtel-Dieu de Paris, l'autre tiers audit Exposant, et de tous dépens, dommages et intérêts ; à la charge que ces Présentes seront enregistrées tout au long sur le Registre de la Communauté des Imprimeurs et Libraires de Paris, et ce dans trois mois de la date d'icelles ; que l'Impression desdites uvres de Montfleury sera faite dans notre Royaume, et non ailleurs, en bon papier et en beaux caractères, conformément aux Règlement de la Librairie ; et qu'avant que de les exposer en vente, il en sera mis deux Exemplaires dans notre Bibliothèque publique, un dans celle de notre Château du Louvre, et un dans celle de notre très cher et féal Chevalier Chancelier de France le Sieur Voisin, Commandeur de nos Ordres ; le tout à peine de nullité des Présentes : du contenu desquelles vous mandons et enjoignons de faire jouir l'Exposant ou ses ayants cause pleinement et paisiblement, sans souffrir qu'il leur soit fait aucun trouble ou empêchement,. Voulons que la copie desdites Présentes, qui sera imprimée au commencement ou à la fin desdites uvres, soit tenue pour dûment signifiée, et qu'aux Copies collationnées par l'un de nos amés et féaux Conseillers et Secrétaires, foi soit ajoutée comme à l'Original. Commandons au premier notre Huissier ou Sergent de faire pour l'exécution d'icelles tous Actes requis et nécessaires, sans demander autre permission, et nonobstant clameur de Haro, Charte Normande, et Lettres à ce contraires : Car tel est notre plaisir. Donné à Paris le onzième jour du mois d'Août, l'an de grâce mil sept cent seize, et de notre Règne le premier. Signé, par le Roi en son Conseil, FOUQUET, Avec grille et paraphe. Registré sur le Registre, N°. 4. de la Communauté des Libraires et Imprimeurs de Paris, page 44. N°. 56. conformément aux Règlements, et notamment à l'Arrêt du 13. Août 1703. À Paris le 28. Août 1716. DELAUNAY, Syndic. # APPROBATION. J'ai lu par ordre de Monseigneur le Chancelier, les Pièces choisies de Montfleury, et j'ai cru que le Public qui en voit encore les Représentations avec plaisir, en recevrait favorablement une nouvelle Édition. Fait à Paris ce 5. Août 1716. DANCHET.À PARIS, Chez CHRISTOPHE DAVID, Libraire sur le Quai des Grands Augustins, attenant la porte de fer de leur Église, à l'Image Saint Christophe.
+Représentée pour la première fois le 24 Avril 1693 au Théâtre de la rue des Fossés Saint-Germain.
+
+
+# ACTEURS.
+ – MONSIEUR GROGNARD, prétendu Mari d'Angélique.
+ – ANGÉLIQUE, Amoureuse de Léandre.
+ – JACINTE, Servante d'Angélique.
+ – LÉANDRE, Amant d'Angélique.
+ – JOCRISSE, Valet de M. Grognard.
+ – BARBE, Cuisinière de M. Grognard.
+ – UN CLERC.
+ – UN SOLDAT.
+ – UN ROTISSEUR.La Scène est chez Monsieur Grognard. 
+
+
+# .
+
+
+## SCÈNE I. Angélique, Jacinte.
+
+    JACINTE.
+Il faut au pis-aller s'y résoudre, Madame.  
+
+    ANGÉLIQUE.
+Quoi, d'un jaloux vieillard je me verrais la femme ?  
+Jacinte, nous aimons l'honnête liberté,  
+Nous serions toutes deux dans la captivité,  
+Plus de Bal, d'Opéra, de Jeu, de Comédie,  
+Qui faisaient nos plaisirs.  
+
+    JACINTE.
+        J'en suis toute étourdie,  
+Nous aurons vous et moi diantrement à souffrir,  
+Madame.  
+
+    ANGÉLIQUE.
+        J'aime autant me résoudre à mourir  
+Que mon Père...  
+
+    JACINTE.
+        Voyez son avarice extrême,  
+Chez ce futur époux il vous conduit lui-même,  
+Il vous y fait loger et veut dès aujourd'hui,  
+Au plus tard dès demain vous marier chez lui,  
+Et même sans prier aucun de la famille,  
+Qui jamais de la sorte a marié sa fille ?  
+
+    ANGÉLIQUE. [1]
+Son père est attaqué de la goutte, il est vieux.  
+
+    JACINTE.
+Que sa goutte remonte on en sera bien mieux.  
+
+    ANGÉLIQUE.
+Et Léandre me laisse au bord du précipice.  
+
+    JACINTE.
+Mais...  
+
+    ANGÉLIQUE.
+        Cesse en l'excusant d'augmenter mon supplice.  
+
+    JACINTE.
+Il peut tout ignorer.  
+
+    ANGÉLIQUE.
+        Dis qu'il peut m'oublier,  
+Répond-il à ma lettre ?  
+
+    JACINTE.
+        On lui vient d'envoyer,   [2]
+Jocrisse l'a portée.  
+
+    ANGÉLIQUE.
+        Ha ! Si je lui suis chère  
+Qu'il vienne m'enlever dans les bras de mon père,  
+Qu'il me sauve de ceux de ce jaloux vieillard.  
+
+    JACINTE. [3]
+C'est un vilain magot que ce Monsieur Grognard.  
+
+    ANGÉLIQUE.
+Mon Père le croit riche, et veut que je l'adore,  
+Il faut feindre d'aimer ce que mon coeur abhorre.  
+
+    JACINTE.
+Et vous feignez si bien, Madame, en vérité,  
+Que vous semblez l'aimer avec sincérité.  
+
+    ANGÉLIQUE.
+Toi-même m'as donné cet avis, je l'observe,  
+Et pour plaire à mon père, il faut que je m'en serve,  
+Si, dit-il, je ne l'aime avec emportement,  
+Il me fera finir mes jours en un couvent ;  
+Vois, pour les abuser comme il faut que j'agisse.  
+
+    JACINTE.
+Vous avez un esprit qui se démonte à visse.  
+
+    ANGÉLIQUE.
+Si Léandre hasardait de venir jusqu'ici.  
+
+    JACINTE.
+Jocrisse vous dira... mais déjà le voici.  
+
+
+## SCÈNE II. Angélique, Jacinte, Jocrisse.
+
+    JOCRISSE.
+Il enrage,  
+Votre papier, je pense, était un sorcelage,  
+Il a dit, le lisant, puis-je croire cela ?  
+Ah diable d'innocent que m'apportes-tu là ?  
+Puis prenant ses cheveux et la piau de sa tête,  
+Il s'est tout écorché d'une force...  
+
+    JACINTE.
+        La bête,  
+Les cheveux et la peau, Jocrisse n'est-ce pas ?  
+
+    JOCRISSE.
+Non la piau, les cheveux, oui, j'ai vu tout à bas,  
+Une tête de viau qu'on écorche est de même,  
+La sienne.  
+
+    ANGÉLIQUE.
+        Qu'a-t-il dit ? Ah ma peine est extrême ?  
+
+    JOCRISSE.
+Rien. Qu'avait-ce papier donc ?  
+
+    ANGÉLIQUE.
+        Des enchantements ;  
+Dieu m'a bien assistée de ne pas voir dedans,  
+Comme je me serais accommodée.  
+
+    JACINTE.
+        Madame,  
+Voici Monsieur Grognard, je crois qu'il a dans l'âme  
+Quelque chagrin.  
+
+
+## SCÈNE III. Monsieur Grognard, Angélique, Jacinte, Jocrisse.
+
+    GROGNARD.
+        Mamour, je suis au désespoir   [4]
+Pour aller à Poissy, je vais partir ce soir,  
+Mon frère se meurt.  
+
+    JACINTE.
+        Bon, excellente nouvelle,  
+J'en vais faire avertir Léandre.  
+
+
+## SCÈNE IV. Monsieur Grognard, Angélique, Jocrisse.
+
+    GROGNARD.
+        Que dit-elle ?  
+
+    ANGÉLIQUE.
+Qu'avec votre départ vous me désespérerez,  
+Si près de nous unir serions-nous séparés.  
+
+    GROGNARD.
+Ce n'est que pour un jour.  
+
+    ANGÉLIQUE.
+        Et c'est ce qui m'étonne.  
+
+    GROGNARD.
+Mais je ne saurais m'en dispenser, mignonne,  
+Tu pleures.  
+
+    ANGÉLIQUE.
+        Si jamais je ne vous avais vu  
+Que je serais heureuse !  
+
+    GROGNARD.
+        Hé bien, aurait-on cru  
+Ce grand amour pour moi, franchement je l'admire,  
+Et j'en suis si surpris, que je ne sais qu'en dire.  
+
+    ANGÉLIQUE.
+Il est tard, ne partez que demain, s'il vous plaît.  
+Mon fils.  
+
+    GROGNARD.
+        Ma montre est là, voyons quelle heure il est.  
+
+    ANGÉLIQUE.
+Va-t-elle bien ?  
+
+    GROGNARD.
+        Fort bien, elle est d'or et sonnante.  
+
+    ANGÉLIQUE.
+Elle vous coûte bien vingt Louis ?  
+
+    GROGNARD.
+        Dites trente.  
+
+    ANGÉLIQUE.
+Vraiment elle est fort belle.  
+
+    GROGNARD.
+    Et bonne.  
+
+    ANGÉLIQUE.
+        Je le crois.  
+
+    GROGNARD.
+Je la mets là, jamais je n'en porte sur moi.  
+
+    ANGÉLIQUE.
+Enfin, quelle heure est-il ?  
+
+    GROGNARD.
+        J'aurai du temps de reste.  
+
+    ANGÉLIQUE.
+Hélas ! Ne partez point.  
+
+    GROGNARD.
+        Ne pas partir, la peste  
+Il s'agit d'hériter, ce mien frère a du bien,  
+Et je veux avoir l'oeil, qu'on ne détourne rien.  
+Mais avant que de partir, mangeons dans la cuisine,  
+Un morceau près du feu, j'ai froid à la poitrine,  
+Mais je me charge ici...  
+
+    ANGÉLIQUE.
+        Qu'est-ce encore que cela ?  
+
+    GROGNARD. [5]
+Des Mémoires. Que veut ce petit drôle-là ?  
+
+
+## SCÈNE V. Monsieur Grognard, Angélique, Le Maître-Clerc, Jocrisse.
+
+    LE CLERC.
+Je suis le Maître-Clerc de chez votre notaire.  
+
+    GROGNARD.
+Monsieur, excusez-moi.  
+
+    LE CLERC.
+        Voilà votre inventaire  
+Copié de ma main.  
+
+    GROGNARD.
+        Vous m'obligez, Monsieur,  
+Vous écrivez très bien, et...  
+
+    LE CLERC.
+        Votre serviteur.  
+
+    GROGNARD.
+Mon homme a votre argent, si vous vouliez l'attendre.  
+
+    LE CLERC.
+Non, j'enverrai demain un petit clerc le prendre.  
+
+    GROGNARD.
+Ma foi je doute fort demain comme aujourd'hui  
+Qu'il en puisse envoyer un plus petit que lui.  
+Jocrisse tiens-toi là, qu'aucun n'entre ou ne sorte.  
+
+    JOCRISSE. [6]
+Non, je n'ouvrirai pas qu'on ne buque à la porte.  
+
+    GROGNARD.
+Quand on y buquerait, n'ouvre pas, innocent.  
+
+    JOCRISSE.
+Bien, pas un n'entrera, quand ils y viendraient cent.   [7]
+Par la gueule du sac, la carogne est entrée,  
+Palsanguenne al en tient la chienne est éventrée,  
+Al n'est pargué pas morte, il y fallait cela,  
+Qu'elle ronge à présent.  
+
+
+## SCÈNE VI. M. Grognard, Jocrisse.
+
+    GROGNARD, SA SERVIETTE À LA MAIN.
+        Quel bruit fais-tu donc là ?  
+
+    JOCRISSE.
+Oh parguenne, al en tient, Monsieur.  
+
+    GROGNARD.
+        Que veux-tu dire ?  
+
+    JOCRISSE.
+C'est qu'al en tient, ouvrez, et vous allez bien rire,  
+Si vous ne la trouvez en quatre ou cinq quartiers...  
+
+    GROGNARD.
+Quoi donc ?  
+
+    JOCRISSE.
+        Une Souris qui rongeait vos papiers.  
+
+    GROGNARD.
+Une Souris, où donc ?  
+
+    JOCRISSE.
+        J'entendais la carogne,  
+Cric, crac, cric, crac, cric, crac, al avançait besogne.  
+
+    GROGNARD VOULANT RENTRER.
+Elle est morte.  
+
+    JOCRISSE.
+        Oh vraiment, hé, Monsieur, s'il vous plaît,  
+Ouvrez le sac, voyez en quel état qu'al est.  
+
+    GROGNARD.
+Le sac, ah je crains bien...  
+
+    JOCRISSE.
+        Allez sur ma parole,   [8]
+Ne craignez rien, al est plus plate qu'une sole,  
+Six coups de mon bâton...  
+
+    GROGNARD, TIRANT LA MONTRE.
+        Hélas ! Je suis perdu.  
+
+    JOCRISSE.
+Ah oui da, pour si peu qu'elle vous a mordu,  
+Al en a dans les dents.  
+
+    GROGNARD.
+        M'en voilà pour ma Montre,  
+Ah ! Que m'as-tu fais là, diable de malencontre.  
+
+
+## SCÈNE VII. Angélique, Monsieur Grognard, Jocrisse.
+
+    ANGÉLIQUE.
+Que vous m'avez fait peur, à quoi bon tous ces cris.  
+
+    GROGNARD.
+C'est pour ma montre.  
+
+    JOCRISSE.
+        Il ment, c'est pour une souris.  
+
+    GROGNARD.
+Ce malheureux a mis ma montre de la sorte,  
+Et croit que tout cela n'est qu'une souris morte.  
+
+    JOCRISSE.
+Mais notre serrurier la raccommodera,  
+Donnez-la-moi, Monsieur, on la rapportera.  
+
+    GROGNARD.
+Un serrurier ? Je veux que dès demain tu sortes.  
+
+    JOCRISSE.
+Il a raccommodé des choses bien plus fortes.  
+
+    ANGÉLIQUE.
+Aussi, pourquoi toujours mettre votre sac là.  
+
+    GROGNARD.
+Qui diantre se serait défié de cela ?  
+
+    ANGÉLIQUE.
+Rentrez, vous aurez froid dans cette grande salle,  
+Monsieur.  
+
+    GROGNARD. [9]
+        Chien de butor, va brider ma cavale.  
+Allons donc.  
+
+    ANGÉLIQUE.
+        Je vous suis, allez tout apprêter,   [10]
+Vous n'avez pas besoin de moi pour vous botter.  
+
+
+## SCÈNE VIII. Angélique, Jacinte.
+
+    JACINTE.
+Hé bien, partira-t-il ce grogneux ?  
+
+    ANGÉLIQUE.
+        Oui, Jacinte,  
+Il se botte.  
+
+    JACINTE.
+        Avez-vous commencé votre plainte ?  
+
+    ANGÉLIQUE.
+À merveille.  
+
+    JACINTE.
+        Il faudra paraître au désespoir  
+Dans les derniers adieux, Madame.  
+
+    ANGÉLIQUE.
+        Oh tu vas voir,  
+Ces feints déplaisirs font, étant crus véritables,  
+Dans un jaloux absent des effets admirables ;  
+As-tu trouvé Léandre ?  
+
+    JACINTE.
+        Oui, j'ai su l'avertir,  
+Que votre vieil Amant s'apprête pour partir,  
+Et même en ce moment, au coin de cette rue  
+Il a mis devant moi son valet à l'affût,  
+Pour savoir quand Monsieur Grognard décampera,  
+Et pour souper ici Léandre se rendra.  
+
+    GROGNARD, DERRIÈRE LE THÉÂTRE.
+Angélique.  
+
+    ANGÉLIQUE.
+    J'y vais.  
+
+
+## SCÈNE IX. Jacinte, Jocrisse.
+
+    JOCRISSE.
+        Morgué, cela m'affole,  
+Comment diable est-ce donc que ceci se bricole,   [11]
+Que sert ce fer, pourquoi ces brimborions-là,  
+Palsanguenne un licou vaut mieux que tout cela ?  
+
+    JACINTE.
+Il va donc partir ?  
+
+    JOCRISSE.
+        Oui, mais afin qu'il détale,  
+Morgué ne savez-vous point brider une cavale ?  
+
+    JACINTE.
+Ouvre-lui bien la bouche et mets le mors dedans.  
+
+    JOCRISSE.
+C'est qu'al lève le nez, et qu'a serre les dents,  
+Je suis pour la brider, monté dans la mangeoire,  
+Al m'a levé la tête, et cassé la mâchoire,  
+Je l'ai pourtant bridée, et il n'y manquait rien,  
+Hors que le fer était sous la gorge.  
+
+    JACINTE.
+        Fort bien,  
+Va vite la brider de crainte de la touche,  
+Voici Monsieur.  
+
+    JOCRISSE.
+        Comment lui faire ouvrir la bouche ?  
+
+    JACINTE, À PART.
+Ah ! Le vilain botté.  
+
+
+## SCÈNE X. Monsieur Grognard, Angélique, Jacinte.
+
+    ANGÉLIQUE.
+        Quoi, vous allez partir ?  
+
+    GROGNARD.
+Il le faut bien mamour, tu viens d'y consentir.  
+
+    ANGÉLIQUE.
+Non, absente de vous, je ne pourrai pas vivre,  
+Ou souffrez que je meure, ou laissez-moi vous suivre.  
+
+    GROGNARD.
+Mais, mon coeur, que veux-tu ?  
+
+    ANGÉLIQUE.
+        Je veux toujours vous voir.  
+
+    GROGNARD.
+Mais tu sais...  
+
+    ANGÉLIQUE.
+        Vous voulez me mettre au désespoir.  
+
+    GROGNARD.
+Ce n'est que pour deux jours.  
+
+    ANGÉLIQUE.
+        Deux jours ! Ce mot me tue,  
+Je pourrais me priver deux jours de votre vue,  
+Deux jours !  
+
+    GROGNARD.
+        Je ne sais pas d'où vient cet amour-là,  
+Car je n'ai rien en moi qui l'oblige à cela.  
+
+    ANGÉLIQUE.
+Tout est charmant en vous, et tout a su me plaire,  
+Vous le savez fort bien.  
+
+    GROGNARD.
+        Non fait, ma foi, ma chère,  
+Laisse donc pour deux jours partir tous mes appas.  
+
+    ANGÉLIQUE.
+Non, non, si je ne pars, ils ne partiront pas,  
+Je ne vous quitte point.  
+
+    GROGNARD.
+        Mais, mamour, comment faire,  
+Tu sais bien qu'il s'agit d'une importante affaire.  
+
+    JACINTE.
+Vous nous désespérez.  
+
+    GROGNARD.
+        Cela me fait damner.  
+
+    ANGÉLIQUE.
+Quoi, si près d'un hymen, vouloir m'abandonner ?  
+
+    GROGNARD.
+Quand je t'en ai parlé tu semblais t'y résoudre.  
+
+    ANGÉLIQUE.
+Hé ce moment venu m'est pis qu'un coup de foudre ;  
+Oui, j'ai cru me résoudre à vous laisser partir,  
+Mais je vois bien qu'enfin je n'y puis consentir.  
+
+    GROGNARD.
+Pour moi je ne sais pas où j'ai pris tant de charmes,  
+Je ne puis m'empêcher de répandre des larmes.  
+
+    ANGÉLIQUE.
+Quoi ! Vous pleurez, mon cher, ah cessez...  
+
+    GROGNARD.
+        Je ne puis,  
+Jamais amant ne fut plus aimé que je suis,  
+Vois-tu sa passion ?  
+
+    JACINTE.
+        Elle est trop violente ?  
+S'il revient dans deux jours, serez-vous pas contente ?  
+
+    ANGÉLIQUE.
+Non, puisque son départ causera mon trépas.  
+
+    GROGNARD.
+Hé bien, mon petit coeur, je ne partirai pas,  
+Tu serais triste, et moi je serais à la gêne.  
+
+    JACINTE.
+Vos affaires iront d'une belle dégaine,  
+Vous ne seriez pas pis s'il était votre époux !  
+Votre ménage ira tout sens dessus dessous,  
+Un mari ne pourra jamais faire un voyage,  
+Sans qu'une femme soit à ses trousses, j'enrage,  
+Quelle honte !  
+
+    ANGÉLIQUE.
+    Partez.  
+
+    JACINTE.
+        Je la consolerai.  
+
+    ANGÉLIQUE.
+Quand viendrez-vous ?  
+
+    GROGNARD.
+        Demain ou je ne le pourrai.  
+
+    ANGÉLIQUE.
+Puisque je me résous à souffrir votre absence,  
+Loin de vous supplier à faire diligence,  
+Pour ne me plus jouer de si sensibles tours,  
+Au lieu de deux, de trois, prenez huit ou dix jours.  
+
+    GROGNARD.
+Je ne puis me résoudre à souffrir ton absence,  
+Je ne partirai point.  
+
+    JACINTE.
+        Mais vous rêvez, je pense !  
+
+    ANGÉLIQUE.
+Non, non, partez, Monsieur.  
+
+    GROGNARD.
+        Je le veux, prends en soin.  
+Je m'en vais donc, mamour !  
+
+    ANGÉLIQUE.
+        Fussiez-vous déjà loin,  
+Je pourrais vous revoir plutôt que je n'espère.  
+
+    JACINTE.
+Laissez-le donc aller, Madame.  
+
+    GROGNARD.
+        Adieu, ma chère.  
+
+    ANGÉLIQUE.
+Il est déjà bien tard.  
+
+    GROGNARD.
+        Je gagnerai Poissy.  
+
+    ANGÉLIQUE.
+Mais la nuit vous prendra dans une heure d'ici.  
+
+    JACINTE.
+Mais la nuit à présent n'est pas noire, elle est blonde,  
+Puisque le clair de lune est le plus beau du monde.  
+
+    ANGÉLIQUE.
+Faut-il laisser aller ce que j'aime le mieux ?  
+
+    JACINTE, LES SÉPARANT.
+Ma foi, vous finirez malgré tous vos adieux,  
+Partez, s'il fallait donc qu'il fit un grand voyage !  
+
+    ANGÉLIQUE.
+Ah Ciel !  
+
+    GROGNARD.
+        Que nous allons faire un heureux ménage.  
+
+    ANGÉLIQUE.
+Adieu toute ma joie.  
+
+    GROGNARD.
+        Adieu tout mon désir.  
+
+
+## SCÈNE XI. Angélique, Jacinte.
+
+    JACINTE.
+Il croit que vous allez mourir de déplaisir.  
+
+    ANGÉLIQUE.
+Ha, je respire, et bien sais-je me contrefaire ?  
+
+    JACINTE.
+Mais vous avez pensé gâter toute l'affaire,  
+Votre feint déplaisir l'a mis si fort à bout,  
+Qu'il a, ma foi, pensé ne point partir du tout.  
+
+    ANGÉLIQUE.
+La feinte était fort bien.  
+
+    JACINTE.
+        Mais un peu trop poussée,  
+Pour l'obliger d'agir selon notre pensée.  
+
+    ANGÉLIQUE.
+Enfin, il est absent, pour le coup, respirons,  
+Et jouissons un peu du bien que nous avons.  
+
+    JACINTE.
+Vraiment vous voilà seule, et n'avez plus de crainte,  
+Vous allez voir Léandre, et le voir sans contrainte.  
+
+
+## SCÈNE XII. Angélique, Jacinte, Le Soldat, Barbe.
+
+    JACINTE.
+Qu'est-ce ?  
+
+    LE SOLDAT.
+    Monsieur Grognard.  
+
+    JACINTE.
+    Hé bien !  
+
+    LE SOLDAT.
+        Est-il ici ?  
+
+    JACINTE.
+Non, il est à la campagne.  
+
+    LE SOLDAT.
+        Un ordre que voici,  
+L'oblige à me loger cette nuit par étape.  
+
+    JACINTE.
+À moins qu'on ne coure après, et qu'on ne le rattrape,  
+On ne vous peut loger.  
+
+    LE SOLDAT.
+        Il le faut pourtant bien.  
+
+    JACINTE.
+Étant seules ici...  
+
+    LE SOLDAT.
+        L'on ne doit craindre rien.  
+
+    JACINTE.
+Je le crois, mais, Madame est une jeune femme,  
+Ou va l'être du moins.  
+
+    LE SOLDAT.
+        Que fait cela, Madame.  
+
+    ANGÉLIQUE.
+Comment, que fait cela ? Quoi, vous souffrir chez moi,  
+Seule.  
+
+    LE SOLDAT.
+        Que voulez-vous, c'est un Ordre du Roi,  
+Puis il est tard, la nuit sera bientôt passée.  
+
+    JACINTE.
+L'honnêteté, Monsieur, n'en est pas moins blessée.  
+
+    ANGÉLIQUE.
+Puis-je, mon Accordé, Monsieur, étant aux champs,  
+Souffrir, avec honneur, le moindre homme céans ?  
+
+    LE SOLDAT.
+Mais, comment voulez-vous, Madame, que je fasse,  
+Ce que vous me devez, je le demande en grâce,  
+Et tout autre Soldat viendrait brutalement,   [12]
+Ce billet à la main, prendre son logement,  
+Mais, j'en use partout avec respect, Madame.  
+
+    JACINTE.
+Rien n'est si chatouilleux que l'honneur d'une femme,  
+Vous le savez, Monsieur, nous avons ce malheur,  
+Le moindre homme suffit pour ternir notre honneur,  
+Et son ombre à présent nous ferait du scandale.  
+
+    ANGÉLIQUE.
+Je n'ai qu'une cuisine, une chambre et ma salle,   [13]
+On ne peut vous coucher que dans un galetas.  
+
+    LE SOLDAT.
+Partout où vous voudrez, il ne m'importe pas,  
+Mais mon souper, Madame ?  
+
+    JACINTE.
+        Il n'y faut point de nappe,  
+Nous n'avons pain ni vin.  
+
+    LE SOLDAT.
+        La peste, quelle étape !  
+La Ville est bonne.  
+
+    JACINTE.
+    Mais il est tard.  
+
+    LE SOLDAT.
+        J'ai grand faim.  
+
+    JACINTE.
+Barbe vous trouvera quelque morceau de pain,  
+Sans le mari, toujours la femme se chagrine,  
+Et pour lors il n'est rien plus froid que la cuisine.  
+
+    LE SOLDAT.
+N'avez-vous point ici d'eau-de-vie, ou du vin ?  
+
+    JACINTE.
+Oh, non, passez-vous-en jusqu'à demain matin.  
+
+    LE SOLDAT.
+Jamais jeûne ne fût plus loin de ma pensée,  
+Que celui-là l'était.  
+
+    JACINTE.
+        La nuit est avancée,  
+Barbe, de la lumière, et conduisez Monsieur  
+Au galetas.  
+
+    BARBE.
+    Montez.  
+
+    LE SOLDAT.
+        Testigué, serviteur.  
+
+    ANGÉLIQUE.
+Je crains...  
+
+    JACINTE.
+        Ne craignez rien, la justice est si bonne,  
+Que l'on ose aujourd'hui faire insulte à personne.  
+
+
+## SCÈNE XIII. Angélique, Jacinte, Le Rôtisseur.
+
+    ANGÉLIQUE.
+Vois qui heurte ?  
+
+    LE ROTISSEUR.
+    Bonsoir.  
+
+    JACINTE.
+        Qu'est-ce encore que ceci ?  
+
+    LE ROTISSEUR.
+C'est du vin et du rôt que j'apportons ici.  
+
+    JACINTE.
+Vous apportez du vin et du rôt, pourquoi faire ?  
+
+    LE ROTISSEUR.
+Pargué, Madame, c'est pour faire bonne chère.  
+
+    JACINTE.
+Et qui vous a chargé de l'apporter chez nous ?  
+
+    LE ROTISSEUR.
+Le valet d'un Monsieur, qui doit souper chez vous.  
+
+    JACINTE.
+Ne vous l'ai-je pas dis, portez dans la cuisine,  
+Découvre un peu, voyons.  
+
+    LE ROTISSEUR.
+        Vla qu'a-t-il bonne mine ?  
+
+    JACINTE.
+Bonne ou mauvaise, va l'on te payera bien.  
+
+    LE ROTISSEUR.
+Hé, j'en sommes payés, je n'en demandons rien.  
+
+
+## SCÈNE XIV. Angélique, Jacinte, Le Rôtisseur, Barbe.
+
+    JACINTE.
+Donne donc ton bassin à notre cuisinière.  
+
+    LE ROTISSEUR.
+Le voilà, vous avez deux oiseaux de rivière,  
+Un levraut, deux faisans, trois perdrix.  
+
+    JACINTE.
+        C'est assez.  
+
+    LE ROTISSEUR.
+Tout cela coûte bien plus que vous ne pensez.  
+
+    JACINTE.
+Tant mieux.  
+
+    LE ROTISSEUR.
+        Le plat de rôt est aussi raisonnable...  
+
+    ANGÉLIQUE.
+Hé va, nous le verrons quand nous serons à table.  
+
+    JACINTE.
+Barbe, tenez tout prêt pour le servir ici,  
+Quand ce Monsieur viendra.  
+
+    ANGÉLIQUE.
+        Jacinte, le voici.  
+
+
+## SCÈNE XV. Angélique, Léandre, Jacinte, Barbe.
+
+    LÉANDRE.
+Madame, vous voyez ce que j'ose entreprendre,  
+Mais si vous ne m'aimez, que deviendra Léandre ?  
+
+    ANGÉLIQUE.
+Je vous aime, mon coeur ne dément point ma voix,  
+Je crois depuis deux ans vous l'avoir dit cent fois,  
+Je vous aime.  
+
+    LÉANDRE.
+        Hé, Madame, est-ce assez de le dire  
+Et d'en demeurer là, pour croître mon martyre ;  
+Vos souhaits et les miens seront-ils superflus,  
+Montrez que vous m'aimez, et ne le dites plus.  
+
+    ANGÉLIQUE.
+C'est dessus notre hymen que mon amour se fonde ;  
+
+    JACINTE.
+Voici l'occasion la plus belle du monde ;  
+Votre jaloux amant est parti pour deux jours,  
+L'agréable saison pour les tendres amours :  
+Madame, mettra-t-on le couvert dans la salle,  
+
+    ANGÉLIQUE. [14]
+Où donc, vous prétendez me faire un grand régale.  
+
+    LÉANDRE.
+Non, Madame, ce n'est qu'un fort petit cadeau,  
+Et l'on ne peut ici vous le donner plus beau.  
+
+    ANGÉLIQUE.
+Jacinte, que je sens de trouble dans mon âme.  
+
+    LÉANDRE.
+Ah, Madame, serait-ce en faveur de ma flamme ?  
+
+    ANGÉLIQUE.
+Et ma bouche et mes yeux, ne vous l'ont que trop dit.  
+
+    JACINTE.
+Mais votre amour s'échauffe, et le souper froidit,  
+Si longtemps sans manger, est-ce être raisonnable,  
+Ne voulez-vous donc pas, Monsieur, vous mettre à table ;  
+Dites-lui qu'il s'y mette, il veut être prié,  
+Plus de soupirs, demain vous serez marié.  
+
+    ANGÉLIQUE.
+La porte du devant est-elle bien fermée ?  
+
+    JACINTE.
+Oui, Madame, elle l'est.  
+
+    ANGÉLIQUE.
+        Je viens d'être alarmée.  
+
+    LÉANDRE.
+De qui donc ?  
+
+    ANGÉLIQUE.
+        D'un soldat que nous avons là-haut.  
+
+    LÉANDRE.
+Par étape ?  
+
+    ANGÉLIQUE.
+    Oui.  
+
+    LÉANDRE.
+    Dort-il ?  
+
+    ANGÉLIQUE.
+        Il ronfle comme il faut.  
+
+    LÉANDRE.
+Quand ces gens soupent bien, ils dorment à merveille,  
+Et l'on leur tirerait le canon dans l'oreille,  
+Qu'ils dormiraient encore. Qu'a-t-il soupé ?  
+
+    ANGÉLIQUE.
+Lui ? Rien.  
+
+    LÉANDRE.
+        Tant pis, l'estomac vide, on ne dort pas bien.  
+
+    JACINTE.
+Qui diantre heurte ainsi ?  
+
+    ANGÉLIQUE.
+        Monsieur, quelle est ma crainte !  
+
+    JACINTE.
+Il faut bien que ce soit Monsieur.  
+
+    LÉANDRE.
+        Va voir, Jacinte.  
+
+    ANGÉLIQUE.
+Ah, si c'est lui, Léandre, où vous sauverez-vous ?  
+
+    LÉANDRE.
+Je ne sais, car par là, tout est fermé sur nous.  
+
+    JACINTE.
+C'est lui-même.  
+
+    ANGÉLIQUE.
+        C'est lui ? Que lui ferai-je croire ?  
+
+    JACINTE.
+Mais il monte.  
+
+    ANGÉLIQUE.
+        Portez dans cette grande armoire  
+La Table comme elle est.  
+
+    BARBE.
+        Est-elle grande assez ?  
+
+    ANGÉLIQUE.
+Oui, vous dis-je, elle l'est plus que vous ne pensez,  
+Cachez-vous dans ce coin, Monsieur.  
+
+    LÉANDRE.
+        Quoi qu'il arrive...  
+
+    ANGÉLIQUE.
+Dépêchez-vous, je suis bien plus morte que vive.  
+
+    LÉANDRE.
+Madame, vous n'avez à craindre nullement.  
+
+
+## SCÈNE XVI. Grognard, Angélique, Jacinte.
+
+    GROGNARD.
+Je te surprends, mamour, fort agréablement,  
+Tu ne m'attendais-pas !  
+
+    ANGÉLIQUE.
+        Non, j'en suis si surprise,  
+Que de ce soir, Monsieur, je n'en serai remise.  
+
+    GROGNARD.
+D'où vient donc ?  
+
+    JACINTE.
+        Entendant que l'on heurtait si fort,  
+Nous croyons toutes deux qu'on vous rapportait mort.  
+
+    GROGNARD.
+Mort !  
+
+    ANGÉLIQUE.
+        À l'heure qu'il est, que voulez-vous qu'on croie ?  
+
+    GROGNARD.
+Qu'elle m'aime !  
+
+    JACINTE.
+    Oh !  
+
+    GROGNARD.
+    Mon coeur !  
+
+    ANGÉLIQUE.
+    Ah !  
+
+    GROGNARD.
+        Reprends donc ta joie  
+Mon coeur !  
+
+    ANGÉLIQUE.
+        Votre retour m'est un coup de poignard ;  
+Pourquoi s'en revenir puisqu'il était si tard  
+Et pourquoi me donner une frayeur mortelle.  
+
+    GROGNARD.
+Mais je ne suis pas mort, tu le vois bien, ma belle.  
+
+    ANGÉLIQUE.
+Oui, mais mon trop d'amour entretient ma frayeur,  
+J'aime, et je crains toujours.  
+
+    GROGNARD.
+        Mon pauvre petit coeur,  
+On ne peut pas, je crois, voir dans aucun ménage,  
+La femme et le mari s'entraimer davantage.  
+
+    JACINTE.
+On ferait tout Paris.  
+
+    ANGÉLIQUE.
+        J'avais déjà l'effroi  
+D'un Soldat qui céans s'est logé malgré moi  
+Souffrir un homme ici, seules, en votre absence,  
+Que dira-t-on de moi ?  
+
+    GROGNARD.
+        Qu'en dira-t-on ? Je pense  
+Que nul n'y peut trouver à redire que moi,  
+C'est par étape et c'est par ordre du Roi.  
+J'ai sortant de Paris trouvé l'apothicaire,  
+Qui m'a dit qu'une crise avait sauvé mon frère,  
+Et je suis revenu pour souper, qu'avons-nous ?  
+
+    ANGÉLIQUE.
+Ne vous attendant pas, qu'aurions-nous eu sans vous.  
+
+    JACINTE.
+Nous n'avons employé ni broche ni marmite,  
+Et chacune a, je crois, mangé sa pomme cuite.  
+
+    GROGNARD.
+Mais...  
+
+    JACINTE.
+        À l'heure qu'il est on ne peut rien avoir.  
+
+    GROGNARD.
+Tant pis.  
+
+
+## SCÈNE XVII. Grognard, Angélique, Jacinte, Barbe, Le Soldat.
+
+    LE SOLDAT.
+        Je viens, Monsieur, vous donner le bonsoir,  
+C'est un petit devoir qu'on doit à son Hôte,  
+Que j'importune ici.  
+
+    GROGNARD.
+        Ce n'est pas votre faute.  
+
+    LE SOLDAT.
+L'ombre d'un homme met Madame au désespoir.  
+
+    GROGNARD.
+La pauvre énfant n'a pas accoutumé d'en voir,  
+Il faut lui pardonner.  
+
+    LE SOLDAT.
+        Oui, Madame est fort sage,  
+Le seul nom de soldat, mon habit, mon visage.  
+
+    GROGNARD.
+Tout cela lui fait peur.  
+
+    LE SOLDAT.
+        Je m'en suis aperçu,   [15]
+Un cadet fort bien fait... eût été mieux reçu.  
+
+    ANGÉLIQUE.
+Ah, ne le croyez pas, Monsieur qu'allez-vous dire ?  
+
+    GROGNARD.
+Hé, que crains-tu ?  
+
+    LE SOLDAT.
+        Je n'ai nul dessein de vous nuire.  
+
+    GROGNARD.
+Je le crois fort, Monsieur.  
+
+    LE SOLDAT.
+        Pour souper, qu'avons-nous ?  
+
+    GROGNARD.
+Rien du tout, dont j'enrage.  
+
+    LE SOLDAT.
+        Écoutez entre nous,  
+Je vais vous découvrir une importante affaire,  
+Et dans ce même instant vous faire fort grande chère,  
+Ne me perdez pas, à vingt ans j'eus le bien,  
+De servir quatre mois un grand magicien,  
+Je sais tout ce qu'on peut savoir dans les magies,  
+Informez-vous dedans nos compagnies,  
+Vous saurez de quel bois se chauffe Joli-coeur,  
+C'est mon nom et celui de votre serviteur,  
+J'ai pouvoir sur le Diable, et si je lui commande  
+D'apporter promptement dans ce lieu, pain, vin, viande,  
+D'un seul mot tout cela se va trouver ici.   [16]
+Dites quel rôt vous plaît.  
+
+    ANGÉLIQUE.
+        Jacinte, qu'est ceci ?  
+
+    LE SOLDAT.
+Ne vous alarmez point, je vous ferai grand chère.  
+
+    GROGNARD.
+De tous ces contes-là, je ne me repais guère,  
+Si ce n'est que cela, je crois, sans vous fâcher,  
+Que nous n'avons tous trois qu'à nous aller coucher ;  
+Car nous ne verrons point ce souper-là paraître.  
+
+    LE SOLDAT.
+La frayeur fait passer votre appétit peut-être,  
+Et de tout ce rôt-là vous ne mangerez rien.  
+
+    GROGNARD.
+Pourquoi, s'il était bon, j'en mangerais fort bien.  
+
+    LE SOLDAT.
+Il sera merveilleux.  
+
+    GROGNARD.
+        Goûtons-le pour le croire.  
+
+    LE SOLDAT.
+Démon, qu'en cet instant se trouve en cette armoire,  
+Deux oiseaux de Rivière, un Levraut, trois Perdrix,  
+Et que ce Rôt-là soit le meilleur de Paris,  
+Qu'on ajoute à cela deux faisans, je te prie.  
+
+    GROGNARD.
+Hé, Monsieur Joli-coeur, trêve de raillerie.  
+
+    LE SOLDAT.
+Filles, apportez tout.  
+
+    ANGÉLIQUE.
+        Il me prend un frisson.  
+
+    LE SOLDAT.
+Madame, ne craignez en aucune façon.  
+
+    ANGÉLIQUE.
+Ah, Monsieur, c'est un Diable.  
+
+    GROGNARD.
+        Il n'en a nulle tache,  
+Et je suis sûr qu'il est sorcier comme une vache.  
+
+    LE SOLDAT.
+Les verres et le vin, il faut tout apporter.  
+
+    ANGÉLIQUE.
+C'est un Magicien, il n'en faut plus douter.  
+
+    GROGNARD.
+Oui, c'en est un, j'en vois une marque sensible.  
+
+    LE SOLDAT.
+Voilà de quoi, soupons.  
+
+    ANGÉLIQUE.
+        Cela m'est impossible.  
+
+    GROGNARD.
+Et moi je ne suis pas d'un repas infernal.  
+
+    LE SOLDAT.
+Qui n'en mangera pas s'en trouvera fort mal.  
+
+    GROGNARD.
+J'en vais manger.  
+
+    ANGÉLIQUE.
+    Et moi.  
+
+    JACINTE.
+        J'en mangerai de même.  
+
+    LE SOLDAT.
+Çà, je vais vous servir.  
+
+    BARBE.
+        Ah ! Que Monsieur est blême.  
+
+    ANGÉLIQUE.
+Ah, Monsieur est un Diable, il va nous perdre, Hélas !  
+
+    JACINTE.
+Monsieur est un bon Diable, il ne nous perdra pas.  
+
+    LE SOLDAT.
+Non, non, il est souvent des diables favorables,  
+Qui dans certains périls se trouvent secourables ;  
+Vous auriez bien sujet d'avoir le coeur contrit,  
+Mesdames, bien vous prend que j'aie un peu d'esprit,  
+Du vin, à la santé de celui qui nous traite,  
+Et pour rendre la fête à mon gré plus complète,  
+Je vais l'accompagner d'un couplet de chanson,  
+Qui vous plaira, je crois, puisqu'il me semble bon.  
+Il chante.
+
+Bacchus et L'Amour font débauche,  
+Buvons à droit, buvons à gauche,  
+Ils sont d'accord ici tous deux,  
+Et la fête n'est que pour eux,  
+Quel plaisir de les voir à table,  
+Qu'avec un peu d'amour Bacchus est agréable,  
+Et que l'Amour est divin  
+Quand il a pris un petit doigt de vin.  
+
+    GROGNARD.
+Je ne vois pas ici que nous fassions débauche,  
+Votre Démon voit trouble, ou du moins voit à gauche ;  
+Ainsi je crois pouvoir dire avec raison,  
+Que cette chanson-là, n'est guère de saison.  
+
+    LE SOLDAT.
+J'en vais chanter une autre.  
+Il chante.
+
+L'amour vous récompense  
+De votre long chagrin,  
+Profitez de l'absence  
+Du vieux faquin,  
+Du vieux faquin,  
+Du vieux bouquin,  
+Du vieux bouquin,  
+Qu'il perde toute espérance,   [17]
+Le gros pendard,  
+Le sot bavard,  
+Le grand braillard,   [18]
+Le vieux pénard,  
+Trompez tous deux d'intelligence,  
+Le laid hibou   [19]
+Le loup garou,  
+Le vieux houhou,   [20]
+Le franc coucou.  
+
+    GROGNARD.
+Hé bien, c'est encor pis,  
+Que voulez-vous donc dire avecque tous vos ris ?  
+
+    JACINTE.
+Mes ris ! Je ne ris pas, Monsieur, c'est que je pleure.  
+
+    GROGNARD.
+Elle pleure à présent, et riait tout à l'heure.  
+Quelle sera la fin de ce désordre ici !  
+Mais il est trop certain qu'un Démon est ici.  
+
+    LE SOLDAT.
+Pour troubler les amours...  
+
+    ANGÉLIQUE, S’ÉCRIANT.
+        C'est pour troubler les nôtres.  
+
+    GROGNARD.
+Hé vraiment oui, le Diable en fit-il jamais d'autres ?  
+
+    LE SOLDAT.
+Ce n'est pas encor tout, il faut que vous voyiez  
+Le Diable cuisinier qui nous a régalés.  
+
+    ANGÉLIQUE.
+Lui ! Si nous le voyons, Monsieur, je suis perdue.  
+On sort de table, et on l'emporte.
+
+
+    GROGNARD.
+Ah ! De grâce, Monsieur, privez-nous de sa vue.  
+
+    JACINTE.
+Nous verrons, s'il le faut, l'Enfer de bout en bout,  
+Mais ne nous montrez point ce Diable-là surtout.  
+
+    LE SOLDAT. [21]
+Mais comme il est céans, il faut bien qu'il en sorte,  
+Ou par la cheminée enfin, ou par la porte,  
+Pour la forme, il l'aura telle que je voudrai,  
+Choisissez-la vous-même, ou je la choisirai,  
+La voulez-vous d'un boeuf, ou d'un homme, ou d'un diable ?  
+
+    ANGÉLIQUE.
+La figure de l'homme est la plus agréable :  
+Que comme un tourbillon il sorte de ces lieux,  
+Je tournerai le dos, ou fermerai les yeux.  
+
+    GROGNARD.
+Moi, pour ne le point voir je ferai l'un et l'autre.  
+
+    LE SOLDAT.
+Tournez le dos, Jacinte, et vous Barbe, le vôtre.  
+
+    GROGNARD.
+Moi, je ferme les yeux, et je tourne le dos,  
+Pour ne point voir l'objet qui trouble mon repos.  
+
+    LE SOLDAT.
+Démon tu vas sortir, qu'on ouvre chaque porte ;  
+Comment souhaitez-vous qu'il soit vêtu ?  
+
+    GROGNARD.
+Qu'importe ?  
+
+    LE SOLDAT.
+        Prends un habit galant, des plumes, des rubans,  
+Quand je battrai des mains, sors vite de céans,  
+Quitte ta laide face, prends-en une plus belle,  
+Pour ne point faire peur à cette Demoiselle,  
+Car tu peux être vu d'elle et de son amant,  
+Et prends garde surtout d'en user autrement,  
+Vous le verrez un peu, tournez-vous d'autre sorte.  
+
+    GROGNARD.
+Qui, moi ? Si je le vois que le Diable m'emporte.  
+
+    LE SOLDAT.
+Prépare ta sortie, et ne t'arrête pas.  
+Il bat des mains.
+
+
+    LÉANDRE, PARAÎT.
+Angélique venez vous jeter dans mes bras,  
+Suivez-moi tous.  
+
+    GROGNARD, SEUL.
+        Ah, ah, quelle voix infernale,  
+Nul mortel ici-bas n'a de voix qui l'égale,  
+Suivez-moi tous. Comment je reste seul ici ?  
+Angélique, Jacinte, et le Soldat aussi,  
+Tout est au Diable, et moi bien plus qu'eux misérable,  
+J'ai tort, je suis mieux qu'eux puisqu'ils sont tous au Diable ;  
+Angélique, un Démon vous enlève aujourd'hui,  
+Ah ! N'avez-vous point fait quelque pacte avec lui ?  
+Un Diable me l'emporte.  
+
+
+## SCÈNE XVIII. Grognard, Jacinte.
+
+    JACINTE.
+        Ils sont bien dix ou douze,  
+Mais le Diable, Monsieur, qui l'emporte, l'épouse,  
+C'est Léandre.  
+
+    GROGNARD.
+        Il l'épouse, elle qui m'aimait tant.  
+
+    JACINTE.
+Preniez-vous tout cela pour de l'argent comptant.  
+
+    GROGNARD.
+Ah ! Quelle trahison, cela n'est pas croyable.  
+
+    JACINTE.
+Elle vous haïssait, Monsieur, comme le Diable,  
+Je ne suis pas d'humeur à vous déguiser rien.  
+Et je vous parle franc.  
+
+    GROGNARD.
+        Vraiment je le vois bien,  
+Et pour me consoler encor de cette affaire,  
+Si la mort me faisait l'héritier de mon frère ;   [22]
+Mais tout coup vaille, il faut pour m'éloigner d'ici,  
+Reprendre doucement le chemin de Poissy.  
+
+-------
+
+
+[1] Goutte : Maladie causée par la fluxion d'une humeur acre sur des articles et jointures du corps; et qui est fort douloureuse. F
+
+[2] Jocrisse : terme injurieux et populaire, qui se dit en cette phrase proverbiale, "C'est un jocrisse qui mène les poules pisser", en se moquant d'un homme qui s'amuse au menus soins du ménage, qui est faible, et avare. F
+
+[3] Magot : Gros singe sans queue du genre des macaques. Fig. et familièrement. Un magot, un homme fort laid. L
+
+[4] Poissy : Ville au bord de la Seine à l'ouest de Paris et au delà de Nanterre. 
+
+[5] Drôle : Se dit d'un homme ou d'un enfant qui, ayant quelque chose de décidé, de déluré, ne laisse pas d'exciter quelque inquiétude, et sur lequel d'ailleurs on s'attribue quelque supériorité. L
+
+[6] Buquer : Heurter, frapper.  (ancien français)
+
+[7] Carogne : terme injurieux, qui se dit entre les femmes de basse condition, pour se reprocher leur mauvaise vie, leurs ordures, leur puanteur. F
+
+[8] Sole : Poisson plat.
+
+[9] Butor : Gros oiseau, espèce de héron fainéant et poltron. On dit figurément d'un homme stupide et maladroit que c'est un butor. F
+
+[10] Botter : Mettre les bottes à quelqu'un. L
+
+[11] Brimborion : Colifichet, babiole, chose de peu de valeur. FC
+
+[12] Billet : Missive, petite lettre qui n'a pas les formules usitées dans les lettres ordinaires. L
+
+[13] Galetas : étage pris dans le comble ; grenier ou lieu qui touche à la couverture du logis. F
+
+[14] Régale :  Bonne chère. Il nous a fait un magnifique régale. Donner un régale à un de ses amis. R
+
+[15] Cadet : Gentilhomme qui servait comme soldat et bientôt après comme bas-officier, pour apprendre le métier. L
+
+[16] Rôt : Viande rôtie à la broche. Le rôt se sert au milieu du repas. F
+
+[17] Pendard : Par exagération, celui, celle qui est digne de pendaison, qui ne vaut rien du tout. F
+
+[18] Pénard : terme injurieux qu'on dit quelquefois des hommes agés, des vieillards cassés. F
+
+[19] Loup-garou : Est dans l'esprit du peuple un esprit dangereux et malin qui court les champs et les rues la nuit. F
+
+[20] Coucou : On dit figurément, qu'on home est coucou, ou cocu, quand le femme lui fait quelque infidélité conjugale. F
+
+[21] Céans : Terme démonstratif du lieu où on est. F
+
+[22] Tout coup vaille : Arrive ce qu'il pourra. L

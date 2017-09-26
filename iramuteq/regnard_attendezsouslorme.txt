@@ -1,0 +1,1186 @@
+
+
+**** *book_ *id_I01 *act_I *date_1694
+
+-*who_pasquin
+Pour m'expliquer en termes plus clairs, j'ai avancé la dépense du voyage depuis notre garnison jusqu'à ce village-ci ; nous y avons déjà séjourné quinze jours sur mes crochets : je vous prie que nous comptions ensemble, et je vous demande mon congé.
+
+-*who_dorante
+Oh, palsembleu !
+Tu prends bien ton temps.
+
+-*who_pasquin
+Eh !
+Puis-je le mieux prendre, monsieur ?
+Vous venez d'être réformé ; il faut bien que vous réformiez votre train.
+
+-*who_dorante
+Pasquin, quitter le service d'un officier, c'est se brouiller avec la fortune.
+
+-*who_pasquin
+Ma foi, monsieur, je me suis brouillé avec elle dès le jour que je suis entré chez vous : mais, Dieu merci, je suis au-dessus de la fortune ; je veux me retirer du monde.
+
+-*who_dorante
+Le fat !
+Ô le fat !
+
+-*who_pasquin
+Oui, monsieur, j'ai fait depuis peu des réflexions morales sur la vanité des plaisirs mondains : je suis las d'être bien battu et mal nourri ; je suis las de passer la nuit à la porte d'un lansquenet, et le jour à vous détourner des grisettes ; je suis las enfin d'avoir de la condescendance pour vos débauches, et de m'enivrer au buffet, pendant que vous vous enivrez à table.
+Il faut faire une fin, monsieur.
+Je vais me rendre mari d'une certaine Lisette, qui est le bel esprit de ce village-ci.
+Les plus jolies filles de Poitou la consultent comme un oracle, parce qu'elle a fait ses études sous une coquette de Paris ; c'est là où elle est devenue amoureuse de moi.
+
+-*who_dorante
+Hé!
+Je n'ai point encore trouvé en mon chemin cette Lisette si aimable ; j'en sais mauvais gré à mon étoile.
+
+-*who_pasquin
+Ce n'est pas votre étoile, monsieur ; c'est moi qui ai pris soin de vous cacher Lisette : je l'ai trouvée trop jolie pour vous la faire connaître.
+Mais cette digression vous fait oublier qu'il s'agit entre vous et moi d'une petite règle d'arithmétique.
+Il y a huit ans que je vous sers ; à vingt-cinq écus de gages, somme totale, six cents livres ; sur quoi j'ai reçu quelques coups de canne, coups de pied au cul ; partant reste toujours six cents livres, que je vous prie de me donner présentement.
+
+-*who_dorante
+Quoi !
+J'ai eu la patience de garder huit ans un coquin comme toi !
+
+-*who_pasquin
+Tout autant, monsieur.
+
+-*who_dorante
+Un maraud !
+
+-*who_pasquin
+Oui, monsieur.
+
+-*who_dorante
+Huit ans, un valet à pendre !
+
+-*who_pasquin
+Ah !
+
+-*who_dorante
+À noyer, à écraser !
+
+-*who_pasquin
+Il y a du malheur à mon affaire.
+Vous avez été jusqu'à présent très content de mon service, et vous cessez de l'être dans le moment que je vous demande mes gages.
+
+-*who_dorante
+Pasquin, ce n'est pas d'aujourd'hui que je suis la dupe de ma bonté.
+Va, mon cher, je veux bien encore ne te point chasser de chez moi.
+
+-*who_pasquin
+Vraiment, monsieur, ce n'est pas vous qui me chassez ; c'est moi qui vous demande mon congé, et les six cents livres.
+
+-*who_dorante
+Non, mon coeur, tu ne me quitteras point.
+Tu ne sais ce qu'il te faut.
+La vie champêtre ne convient point à un intrigant, à un fourbe.
+
+-*who_pasquin
+Je sais bien que j'ai tous les talents pour faire fortune à la ville ; mais je borne mon ambition à Lisette, à qui j'apporte en mariage les six cents livres dont je vais vous donner quittance.
+
+-*who_dorante
+Peste soit du faquin !
+Tu n'as que tes affaires en tête : parlons un peu des miennes.
+J'épouse demain la petite fermière Agathe.
+J'ai si bien fait, par mon manège, que le père est à présent aussi amoureux de moi que sa fille.
+Elle a dix mille écus, Pasquin.
+
+-*who_pasquin
+Vous n'avez que vos affaires en tête ; reparlons un peu des miennes.
+
+-*who_dorante
+Agathe m'attend chez elle à quatre heures ; et, avant que d'y aller, j'ai à régler certaines choses avec le notaire.
+
+-*who_pasquin
+Monsieur, il n'y a que deux mots à mon affaire.
+
+-*who_dorante
+Le notaire m'attend, Pasquin.
+
+-*who_pasquin
+Mon congé et mes gages.
+
+-*who_dorante
+Oh !
+Puisque tu veux absolument que nous finissions d'affaire ensemble...
+
+-*who_pasquin
+Si ce n'était pas pour une occasion aussi pressante...
+
+-*who_dorante
+Il faut faire un effort...
+
+-*who_pasquin
+Je ne vous importunerais pas.
+
+-*who_dorante
+Quelque peine que cela me fasse...
+
+-*who_pasquin
+Voici la quittance.
+
+-*who_dorante
+Va, je te donne ton congé.
+
+-*who_pasquin
+Et mes gages, monsieur ?
+
+-*who_dorante
+Tu m'attendris, Pasquin ; je ne veux pas te voir davantage.
+
+**** *book_ *id_I02 *act_I *date_1694
+
+-*who_pasquin
+Le scélérat !
+Je n'ai plus rien à ménager avec cet homme-là ; Lisette me sollicite de rompre son mariage avec Agathe.
+Allons voir ce qui en sera.
+
+**** *book_ *id_I03 *act_I *date_1694
+
+-*who_pasquin
+Ah !
+Te voilà !
+
+-*who_lisette
+Il y a une heure que je te cherche.
+Es-tu d'accord avec ton maître ?
+
+-*who_pasquin
+Peu s'en faut.
+Il ne s'agissait entre lui et moi que de deux articles.
+Je lui demandais mon congé et mes gages : il a partagé le différend par moitié ; il m'a donné mon congé, et me retient mes gages.
+
+-*who_lisette
+Et tu gardes des mesures avec cet homme-là !
+Te feras-tu encore tirer l'oreille pour m'aider à rompre son mariage, en faveur de mon pauvre frère Colin à qui Agathe était promise ?
+Il ne tient qu'à toi de rendre la joie à tout le village.
+Ce n'était que fêtes, danses et chansons préparées pour les noces de Colin et d'Agathe ; et depuis que ton officier réformé est venu nous enlever le coeur de cette jolie fermière, toute notre galanterie poitevine est en deuil.
+
+-*who_pasquin
+Je ne manque pas de bonne volonté ; mais je considère...
+
+-*who_lisette
+Et moi, je ne considère plus rien.
+Je suis bien sotte de prier quand j'ai droit de commander.
+Colin est mon frère, et s'il n'épouse point Agathe par ton moyen, Lisette n'épousera point Pasquin.
+
+-*who_pasquin
+Ouais !
+Tu me mets bien librement le marché à la main !
+
+-*who_lisette
+C'est que je ne suis pas comme la plupart de celles qui font de pareils marchés.
+Je ne t'ai point donné d'arrhes et je romprai, si...
+
+-*who_pasquin
+Doucement.
+Cà, que faut-il donc faire pour ce petit frère Colin ?
+As-tu pris des mesures avec lui ?
+
+-*who_lisette
+Des mesures avec Colin ?
+Bon !
+C'est un jeune amant à la franquette, qui n'est capable que de se trémousser à contretemps.
+Il va, il vient, il piétine, il peste contre son infidèle, et a toujours quelque raisonnement d'enfant qu'il veut qu'on écoute ; enfin, c'est un petit obstiné que j'ai été contrainte d'enfermer, afin qu'il me laissât en paix travailler à ses affaires.
+Je crois que le voilà encore.
+
+**** *book_ *id_I04 *act_I *date_1694
+
+-*who_lisette
+Quoi !
+Petit lutin, tu seras toujours sur mes talons ?
+
+-*who_colin
+J'ai sauté par la fenêtre de la salle où tu m'avais enfermé, pour te venir dire que tout le tripotage de veuve que tu veux faire pour attraper ce Dorante, par-ci, par-là, tant y a que tout ça ne vaut rien.
+
+-*who_lisette
+Mort de ma vie !
+Si tu...
+
+-*who_pasquin
+Laissez opiner Colin ; il me paraît homme de tête.
+
+-*who_colin
+Assurément.
+J'ai trouvé un secret pour qu'Agathe me r'aime, et j'ai commencé à imaginer...
+
+-*who_lisette
+Et va-t'en achever d'imaginer ; laisse-moi exécuter.
+
+-*who_colin
+Oh !
+Y faut que ce soit moi qui...
+
+-*who_lisette
+Oh !
+Ce ne sera pas toi qui...
+
+-*who_colin
+Je te dis que...
+
+-*who_lisette
+Je te dis que tu te taises.
+
+-*who_colin
+Oh !
+C'est moi qui suis I'amoureux, une fois ; je veux parler tout mon soûl.
+
+-*who_lisette
+Oh !
+Le petit mutin d'amoureux !
+
+-*who_colin
+Tenez, si Pasquin me dit que je n'ai pas pus d'esprit que toi, pour ce qui est d'Agathe, je veux bien m'en retourner dans la salle.
+
+-*who_lisette
+Écoutons, à cette condition.
+
+-*who_colin
+C'est que j'ai eune ruse pour faire venir Agathe dans un endroit où je vous cacherai tous deux.
+
+-*who_pasquin
+Fort bien !
+
+-*who_colin
+Et pis, quand a sera là, je li dirai : Çà, gnia personne qui nous écoute ; n'est-y pas vrai, Agathe, qu'ou m'avez dit cent fois qu'ou m'aimiez ?
+A dira, Oui, Colin ; car ça est vrai.
+N'est-y pas vrai, li redirai-je, que quand vous me dites ça, je dis, moi, que les paroles étaient belles et bonnes, mais que ça ne tient guère, à moins qui n'y ait quelque chose, là, qui signifie qu'ou n'oseriez pus prendre d'autre mari .que moi ?
+Agathe dira : Oui, Colin.
+N'est-y pas vrai, ce li ferai-je encore, qu'un certain jour que l'épingle de votre collet était défaite, je le soulevis tout doucement, tout doucement ?...
+
+-*who_lisette
+Oh !
+Va donc plus vite ; j'aime l'expédition.
+
+-*who_pasquin
+Ce récit promet beaucoup au moins.
+Et nous serons cachés pour entendre tout cela ?
+
+-*who_colin
+Assurément.
+Je ne barguignerai point à li faire tout dire ; car si a m'épouse, l'épousaille couvre tout ; et sinon, je sis bien aise qu'on sache que la récolte appartient à sti qui a défriché la terre.
+Oh !
+Donc, je dirai à Agathe : N'est-y pas vrai, quand j'eu entr'ouvart votre collet, que je pris dessous un papier dans votre sein, et que sur ce papier vous m'aviez fagoté en lacs d'amour votre nom parmi le mien, pour montrer ce que je devions être l'un à l'autre ?
+
+-*who_pasquin
+Et a dira : Oui, Colin.
+
+-*who_colin
+Oh !
+A dira peut-être que c'est qu'a dormait ; mais je sais bien qu'a ne faisait que semblant ; car a se réveillit tout juste quand...
+
+-*who_lisette
+Hé bien, enfin !
+Quand elle aura tout dit...
+
+-*who_colin
+Vous sortirez tous deux de votre cache, et vous li direz : Agathe, faut qu'ou vous mariez rien qu'avec Colin tout seul, ou nous allons dire partout qu'ous aimez deux hommes à la fois.
+Oh !
+À ne voudra pas.
+
+-*who_lisette
+O que si, a voudra.
+Les femmes en font gloire.
+
+-*who_colin
+Faire gloire d'aimer un autre que sti avec qui on se marie !
+Non, gnia point de femme comme ça dans tout le monde.
+
+-*who_pasquin
+Colin n'a pas voyagé.
+Çà, je juge que M. Colin imagine mieux que nous, mais nous exécuterons mieux que Colin.
+Partant, condamné à retourner dans la salle jusqu'à ce que nous ayons besoin de lui.
+
+-*who_colin
+Oh !
+Ne vlà-t-il pas qu'il dit comme Lisette à cause que... hé ! la la.
+
+-*who_lisette
+Oh !
+Va donc, ou je ne me mêle plus de tes affaires.
+
+-*who_colin
+J'y vas, mais j'enrage.
+
+**** *book_ *id_I05 *act_I *date_1694
+
+-*who_lisette
+Oh !
+Nous voilà délivrés de lui.
+Çà, il s'agit de guérir Agathe de l'entêtement où elle est pour ton maître.
+
+-*who_pasquin
+Hom !
+Quand l'amour s'est une fois emparé d'un coeur aussi simple que celui d'Agathe, il est difficile de l'en chasser ; il se trouve mieux logé là que chez une coquette.
+
+-*who_lisette
+J'avoue que les grands airs de ton maître ont saisi la superficie de son imagination ; mais le fond du coeur est encore pour Colin.
+Finissons.
+Il faut empêcher Agathe de sortir de chez elle, afin qu'elle ne vienne point rompre les mesures que nous avons prises.
+Comment nous y prendrons-nous ?
+
+-*who_pasquin
+Hom !
+Attendez.
+Nous lui avons fait venir des habits de Paris.
+Si j'allais lui dire que mon maître veut qu'elle les mette...
+La coiffure seule suffit pour amuser une femme toute la journée.
+
+-*who_lisette
+La voici qui vient ; songe à la renvoyer chez elle.
+
+**** *book_ *id_I06 *act_I *date_1694
+
+-*who_agathe
+Où est donc ton maître, Pasquin ?
+Il y a deux heures que je l'attends chez moi.
+
+-*who_pasquin
+Vous vous trompez, madame, mon maître est trop amoureux pour vous faire attendre.
+
+-*who_lisette
+Je vous avais bien dit que ses empressements ne dureraient pas.
+
+-*who_agathe
+Oh !
+C'est tout le contraire, Lisette.
+Dorante doit être aujourd'hui amoureux de moi à la folie ; car il m'a promis que son amour augmenterait tous les jours, et il m'aimait déjà bien hier.
+
+-*who_lisette
+En une nuit, il arrive de grandes révolutions dans le coeur d'un Français.
+
+-*who_pasquin
+Oui, sur la fin de ce siècle-ci, les amants et les saisons se sont bien déréglés ; le chaud et le froid n'y dominent plus que par caprice.
+
+-*who_lisette
+Oh !
+En Poitou nous avons une règle certaine ; c'est que le jour des noces, le thermomètre de la tendresse est à son plus haut degré ; mais le lendemain il descend bien bas.
+
+-*who_agathe
+Vous voulez me persuader tous deux que Dorante sera inconstant ; mais il faudrait que je fusse folle pour craindre qu'il change.
+Quoi !
+Quand Colin me disait tout simplement qu'il me serait fidèle, je le croyais ; et je ne croirais pas Dorante qui est gentilhomme, et qui fait des serments horribles qu'il m'aimera toujours ?
+
+-*who_pasquin
+En amour, les serments d'un courtisan ne prouvent rien ; c'est le langage du pays.
+
+-*who_lisette
+Si vous vouliez m'écouter une fois en votre vie, je vous ferais voir que Dorante...
+
+-*who_agathe
+Parlons d'autre chose, Lisette.
+
+-*who_pasquin
+Elle a raison.
+Parlons des beaux habits que mon maître vous a fait venir.
+
+-*who_agathe
+Ah, Pasquin !
+J'en suis charmée.
+
+-*who_pasquin
+À propos, mon maître voulait vous voir aujourd'hui parée.
+
+-*who_agathe
+Je voudrais bien l'être aussi ; niais je ne sais pas lequel je dois mettre des deux habits.
+Dis-moi, Pasquin, lequel aimera-t-il mieux de l'innocente ou de la gourgandine ?
+
+-*who_pasquin
+La gourgandine a toujours été du goût de mon maître.
+
+-*who_agathe
+Il faut que les femmes de Paris aient bien de l'esprit pour inventer de si jolis noms.
+
+-*who_pasquin
+Malepeste !
+Leur imagination travaille beaucoup.
+Elles n'inventent point de modes qui ne servent à cacher quelque défaut.
+Falbala par haut pour celles qui n'ont point de hanches ; celles qui en ont trop le portent plus bas.
+Le col long et les gorges creuses ont donné lieu à la steinkerque ; et ainsi du reste.
+
+-*who_agathe
+Ce qui m'embarrasse le plus, c'est la coiffure.
+Je ne pourrai jamais venir à bout d'arranger tant de machines sur ma tête ; il n'y a pas de place pour en mettre seulement la moitié.
+
+-*who_pasquin
+Oh !
+Quand il s'agit de placer des fadaises, la tête d'une femme a plus d'étendue qu'on ne pensé.
+Mais vous me faites souvenir que j'ai ici le livre instructif que la coiffeuse a envoyé de Paris.
+Il s'intitule :
+    « Les Éléments de la toilette, ou le Système harmonique de la coiffure d'une femme. »
+
+-*who_agathe
+Ah !
+Que ce livre doit être joli !
+
+-*who_lisette
+Et savant !
+
+-*who_pasquin
+Voici le second tome.
+Pour le premier, il ne contient qu'une table alphabétique des principales pièces qui entrent dans la composition d'une commode, comme :
+« La duchesse, le solitaire
+La fontange, le chou,
+Le tête-à-tête, la culbute,
+Le mousquetaire, le croissant,
+Le firmament, le dixième ciel,
+La palissade et la souris. »
+
+-*who_agathe
+Ah, Pasquin !
+Cherche-moi l'endroit où le livre dit que se met la souris.
+J'ai un noeud de ruban qui s'appelle comme cela.
+
+-*who_pasquin
+C'est ici quelque part ; attendez...
+« Coiffure pour raccourcir le visage. »
+Ce n'est pas cela.
+« Petits tours blonds à boucles fringantes pour les fronts étroits et les nez longs. »
+Je n'y suis pas.
+« Suppléments ingénieux qui donnent du relief aux joues plates. »
+Ouais !
+« Cornettes fuyantes pour faire sortir les yeux en avant. »
+Ah !
+Voici ce que vous demandez.
+« La souris est un petit noeud de nompareille qui se place dans le bois.
+Nota qu'on appelle petit bois un paquet de cheveux hérissés, qui garnissent le pied de la futaie bouclée. »
+Mais vous lirez cela à loisir.
+Allez vite arranger votre toilette ; je vous, enverrai mon maître sitôt qu'il aura fini une petite affaire.
+
+-*who_agathe
+Qu'il ne me fasse pas attendre au moins.
+Adieu, Lisette.
+
+-*who_lisette
+Adieu, Agathe.
+
+**** *book_ *id_I07 *act_I *date_1694
+
+-*who_lisette
+On vient à bout de tout en ce monde, quand on sait prendre chacun par son faible ; les hommes par les femmes, les femmes par les habits.
+Çà, il faut à présent nous assurer de ton maître.
+
+-*who_pasquin
+Il est chez le notaire ; il faut qu'il repasse par ici ; pour aller chez Agathe, et je l'arrêterai pendant que tu iras te déguiser en veuve.
+
+-*who_lisette
+Récapitulons un peu ce déguisement.
+Tu es bien sûr que ton maître n'a jamais vu la veuve ?
+
+-*who_pasquin
+Assurément.
+Sur la réputation qu'elle a dans Poitiers d'être fort riche, mon fanfaron s'est vanté qu'elle était amoureuse de lui.
+Pour se venger, elle a pris plaisir à se trouver masquée à deux ou trois assemblées où il était, de faire la passionnée ; en un mot, de se moquer de lui, trouvant toujours des excuses pour ne se point démasquer.
+C'est une gaillarde qui fait mille plaisanteries de cette nature pour égayer son veuvage.
+
+-*who_lisette
+Puisque cela est ainsi, je contreferai la veuve comme si je l'étais.
+
+-*who_pasquin
+Tant pis ; car on ne saurait bien contrefaire la veuve, qu'on n'ait contrefait la femme mariée.
+L'habit est-il prêt ?
+
+-*who_lisette
+Oui.
+
+-*who_pasquin
+Voilà mon maître qui vient.
+
+-*who_lisette
+Amuse-le pendant que je me déguiserai ; et après, tu iras avertir Agathe qu'elle vienne nous surprendre ; tu la feras écouter notre conversation.
+Laisse-moi faire.
+
+**** *book_ *id_I08 *act_I *date_1694
+
+-*who_pasquin
+Comment lui tournerai-je la chose ?
+Mais il ne faut pas tant de façon avec mon maître.
+Un homme qui se croit aimé de toutes les femmes en est aisément la dupe.
+
+**** *book_ *id_I09 *act_I *date_1694
+
+-*who_pasquin
+Monsieur !
+Monsieur !
+
+-*who_dorante
+Ne m'arrête point ; Agathe m'attend.
+
+-*who_pasquin
+Ce n'est plus de mes affaires que je veux vous parler à présent.
+
+-*who_dorante
+Je meurs d'impatience de la voir.
+L'amour, Pasquin, l'amour !
+Ah !
+Quand on a le coeur pris...
+
+-*who_pasquin
+Fait comme vous êtes, monsieur, je n'eusse jamais deviné que l'amour vous ferait perdre votre fortune.
+
+-*who_dorante
+Que veux-tu dire par là ?
+
+-*who_pasquin
+Que votre amour pour Agathe vous fait manquer cette veuve de cinquante mille écus.
+
+-*who_dorante
+Eh !
+Ne t'ai-je pas dit que la sotte est devenue invisible à Poitiers ?
+
+-*who_pasquin
+Apparemment elle voulait éprouver votre constance.
+L'heureux moment est venu ; elle est ici, monsieur.
+
+-*who_dorante
+Est-il possible ?
+
+-*who_pasquin
+Il n'y a rien de plus vrai ; et depuis que vous m'avez quitté...
+Mais n'en parlons plus, vous avez le coeur pris pour Agathe.
+
+-*who_dorante
+Achève, Pasquin, achève.
+
+-*who_pasquin
+Amoureux comme vous êtes, vous ne voudriez pas rompre un mariage d'inclination pour vingt mille écus plus ou moins.
+
+-*who_dorante
+Il faudra se faire violence.
+Avec vingt mille écus on achète un régiment, on est utile au prince ; tu sais qu'un gentilhomme doit se sacrifier pour les besoins de l'État.
+
+-*who_pasquin
+Entre nous, l'État n'a pas besoin de vous, puisqu'il vous a remercié de vos services à la tête de votre compagnie.
+
+-*who_dorante
+Parlons de la veuve, Pasquin.
+
+-*who_pasquin
+La veuve est venue ce matin de Poitiers pour vos beaux yeux ; et depuis que vous m'avez quitté, on vient de m'offrir de sa part cent pistoles, si je puis livrer votre coeur.
+
+-*who_dorante
+Je serai ravi de te faire gagner cent pistoles.
+J'aime m'acquitter, Pasquin.
+
+-*who_pasquin
+En rabattant sur les gages.
+
+-*who_dorante
+Çà, que faut-il faire, mon cher coeur ?
+
+-*who_pasquin
+On est convenu avec moi que le hasard amènerait la veuve sous cet orme dans un quart d'heure.
+
+-*who_dorante
+Bon !
+
+-*who_pasquin
+J'ai promis que le même hasard vous y conduirait aussi.
+
+-*who_dorante
+Fort bien !
+
+-*who_pasquin
+Il faut que vous vous promeniez, sans faire semblant de rien.
+Elle va venir, sans faire semblant de rien.
+Pour lors vous l'aborderez, vous, en faisant semblant de rien ; elle vous écoutera en faisant semblant de rien.
+Voilà comment se font les mariages des Tuileries.
+
+-*who_dorante
+Parbleu, tu es un homme adorable !
+
+-*who_pasquin
+Çà, préparez-vous à aborder la veuve en petit maître.
+Cachez-vous un oeil avec votre chapeau, la main dans la ceinture, le coude en avant, le corps d'un côté et la tête de l'autre ; surtout, gardez-vous bien de vous promener sur une ligne droite, cela est trop bourgeois.
+
+-*who_dorante
+Ce maraud-là en sait presque autant que moi.
+
+-*who_dorante
+Voici l'occasion monsieur, de faire profiter les talents que vous avez pour le grand art de la minauderie.
+Ah !
+Si vous pouviez vous souvenir de cette mine que vous fîtes l'autre jour à la comédie, là, une certaine mine qui perdit de réputation cette femme à qui vous n'aviez jamais parlé.
+
+-*who_dorante
+Que tu es badin !
+
+**** *book_ *id_I10 *act_I *date_1694
+
+-*who_pasquin
+Voici la veuve, monsieur ; faites semblant de rien ; hem, semblant de rien.
+N'y a-t-il rien de nouveau en Catalogne ?
+Que dit-on de l'Allemagne ?
+Vous avez reçu des lettres de Flandre.
+La promenade est bien déserte aujourd'hui.
+De quel côté vient le vent ?
+Mon Dieu !
+La belle journée !
+
+-*who_dorante
+Pasquin la veuve soupire.
+
+-*who_pasquin
+Apparemment, c'est pour le défunt.
+
+-*who_dorante
+Il faut un peu la laisser ronger son frein.
+Elle est sensible aux bons airs.
+Je me sers de mes avantages.
+
+-*who_pasquin
+Vous avez raison ; votre geste est tout plein de mérite, et vous avez encore plus d'esprit de loin que de près.
+Si elle vous entendait chanter, elle serait charmée, monsieur.
+Ne savez-vous point par coeur quelque impromptu de l'opéra nouveau ?
+
+-*who_dorante
+Je vais chanter, pour me désennuyer, un petit air que je fis à Poitiers pour cette charmante veuve.
+Hem.
+Palsambleu l'Amour est un fat,
+L'Amour est un fat ;
+Sans égard pour ma naissance,
+Il me fait soupirer, gémir, sentir l'absence
+Comme un amant du tiers-état.
+Palsambleu l'Amour, etc.
+Il n'est point de belle en France
+Que je n'aie soumise à ce petit ingrat ;
+Et, pour toute récompense,
+Il m'enchaîne comme un forçat.
+Palsambleu l'Amour, etc.
+
+-*who_pasquin
+Vous êtes l'Amour, monsieur !
+
+-*who_dorante
+C'est assez la faire languir.
+Ciel !
+Quelle aventure, Pasquin !
+Je crois que voilà mon aimable invisible dont je te parlais.
+
+-*who_pasquin
+C'est elle-même.
+
+-*who_dorante
+Par quel bonheur, madame, vous trouve-t-on dans ce village ?
+
+-*who_lisette
+J'y venais chercher la solitude, et pleurer en liberté.
+
+-*who_pasquin
+Retirons-nous donc, monsieur : il est dangereux d'interrompre les larmes d'une veuve.
+La vue d'un joli homme fait rentrer la douleur en dedans.
+
+-*who_dorante
+Je vous l'ai dit cent fois, charmante spirituelle, je suis le cavalier de France le plus spécifique pour la consolation des dames.
+
+-*who_lisette
+Un cavalier fait comme vous ne saurait en consoler une, qu'il n'en afflige mille autres.
+
+-*who_dorante
+Périssent de jalousie toutes les femmes du monde, pourvu que vous vouliez bien...
+
+-*who_lisette
+Ah !
+N'achevez pas, monsieur ; je crains que vous ne me fassiez des propositions que je ne pourrais entendre sans horreur ; car, enfin, il n'y a encore que huit ans que mon mari est mort.
+
+-*who_pasquin
+Ah, monsieur !
+Vous allez rouvrir une plaie qui n'est pas encore bien refermée.
+
+-*who_dorante
+Ah, Pasquin !
+Je sens que mon feu se rallume.
+
+-*who_lisette
+Hélas !
+Le pauvre défunt m'aimait tant !
+
+-*who_pasquin
+Elle parle du défunt ; vos affaires vont bien.
+
+-*who_lisette
+Il m'a fait promettre, en mourant ...
+Que je ne me remarierais point.
+
+-*who_pasquin
+Profitez du moment, monsieur : elle est femme ; et puisque sa parole baisse, il faut qu'elle soit bien faible.
+
+-*who_lisette
+Je tiendrai... ma promesse... ou bien...
+
+-*who_pasquin
+Elle bégaie, il est temps que je me retire.
+
+-*who_dorante
+Va-t'en.
+
+**** *book_ *id_I11 *act_I *date_1694
+
+-*who_dorante
+Nous sommes seuls, madame ; accordez-moi donc enfin ce que vous m'avez tant de fois refusé à Poitiers ; levez ce voile cruel...
+
+-*who_lisette
+Monsieur, l'affliction m'a si fort changée...
+
+-*who_dorante
+Eh !
+Je vous conjure...
+
+-*who_lisette
+Je ne dors point ; la fatigue du carrosse, la chaleur, la poussière, le grand jour...
+Vous me trouverez laide à faire peur.
+
+-*who_dorante
+Je vous trouverai charmante.
+
+-*who_lisette
+Vous le voulez ?
+
+-*who_dorante
+Que vois-je ?
+
+-*who_lisette
+Puisqu'il faut vous l'avouer, dès la seconde fois que je vous vis, je formai le dessein de faire votre fortune ; mais je voulais vous éprouver.
+Ah, cruel !
+Fallait-il si tôt vous rebuter ?
+
+-*who_dorante
+Eh !
+Vous avais-je vue, madame ?
+
+**** *book_ *id_I12 *act_I *date_1694
+
+-*who_agathe
+C'est donc pour cela qu'il me faisait tant attendre ?
+
+-*who_pasquin
+Écoutez...
+
+**** *book_ *id_I13 *act_I *date_1694
+
+-*who_dorante
+Je l'avoue finalement ; à votre refus, j'avais baissé les yeux sur une petite fermière ; parce que je trouvais une somme d'argent pour nettoyer de gros biens que j'ai en direction : mais d'honneur je ne l'ai jamais regardée que comme un enfant, une poupée avec quoi on se joue ; et depuis les charmantes conversations de Poitiers, vous n'avez point désemparé mon coeur.
+
+-*who_agathe
+Le traître !
+
+-*who_lisette
+Apparemment que je vous crois, puisque je veux bien vous donner ma main.
+Mais, avant toutes choses, il faut que vous disiez à Agathe, en ma présence, que vous ne l'avez jamais aimée.
+
+-*who_dorante
+En votre présence ?
+
+-*who_lisette
+Quoi !
+Vous hésitez ?
+
+-*who_dorante
+Nullement.
+Mais enfin, dire en face à une femme que je ne l'aime point, c'est l'assassiner : le coup est mortel, madame ; et je dois avoir des ménagements pour une pauvre petite créature, qui...
+
+-*who_lisette
+Qui...
+
+-*who_dorante
+Qui, puisqu'il faut vous faire la confidence, a eu pour moi certaines faiblesses.
+Je suis galant homme.
+
+-*who_agathe
+Comme il ment !
+
+-*who_dorante
+Mais, madame, je quitte tout pour vous suivre.
+Je me laisse enlever, je vous épouse : faut-il d'autres marques de mon amour ?
+
+-*who_lisette
+Au moins, je vous ordonne d'aller tout présentement rompre l'engagement que vous avez avec le père.
+
+-*who_dorante
+Oh !
+Pour cela, volontiers.
+
+-*who_lisette
+Allez promptement, et revenez dans une demi-heure m'attendre sous cet orme.
+
+-*who_dorante
+Je vais vous satisfaire.
+
+-*who_lisette
+Sous l'orme, au moins.
+
+**** *book_ *id_I14 *act_I *date_1694
+
+-*who_agathe
+Il faut que je sache d'elle...
+Mais me ferai-je connaître après ce qu'on lui vient de dire de moi ?
+
+-*who_lisette
+Mon Dieu !
+La jolie mignonne !
+Qu'elle est aimable !
+Me voulez-vous parler ?
+
+-*who_agathe
+Non.
+
+-*who_lisette
+Mais je crois vous avoir vue quelque part.
+N'êtes-vous pas la belle Agathe ?
+
+-*who_agathe
+Je ne sais pas.
+
+-*who_lisette
+Ne craignez rien, ma bouchonne.
+Vous m'aviez enlevé mon amant ; mais je suis déjà vengée, puisqu'il vous a sacrifiée à moi.
+
+-*who_agathe
+Le traître !
+
+-*who_lisette
+Vous êtes bien fâchée, n'est-ce pas, de perdre un si joli petit homme ?
+
+-*who_agathe
+Je ne suis fâchée que de ce qu'il vous vient de dire des faussetés de moi.
+Il dit que j'ai eu des faiblesses pour lui : ah !
+Ne le croyez pas au moins, madame ; c'est un méchant qui en dira tout autant de vous.
+
+-*who_lisette
+Ha, ha !
+
+-*who_agathe
+Vous riez !
+Est-ce que vous me soupçonnez de ce que ce menteur-là vous a dit ?
+
+-*who_lisette
+Dorante ne saurait mentir ; il est gentilhomme.
+
+-*who_agathe
+Que je suis malheureuse !
+Quoi !
+Vous croyez...
+
+-*who_lisette
+Oui, je crois...
+
+-*who_agathe
+C'est Lisette !
+
+-*who_lisette
+Je crois, comme je l'ai toujours cru, que vous êtes fort sage, et que Dorante est le plus grand scélérat ; mais je suis contente, vous avez tout entendu.
+Ce n'est pas sa faute, comme vous voyez, si je ne suis qu'une fausse veuve.
+Hé bien, que vous dit le coeur présentement ?
+
+-*who_agathe
+Hélas !
+J'ai trahi Colin !
+Colin m'aime-t-il encore ?
+
+-*who_lisette
+Il fera tout comme s'il vous aimait ; et sitôt que vous lui aurez dit un mot, il ne songera plus qu'à se venger de Dorante.
+
+-*who_agathe
+Ah !
+Qu'il ne s'y joue pas : Dorante m'a dit qu'il était bien méchant.
+
+-*who_lisette
+Il s'agit d'une vengeance qui servira de divertissement à toute notre petite société galante.
+Il sera berné... qu'il ne manquera rien.
+
+**** *book_ *id_I15 *act_I *date_1694
+
+-*who_colin
+Pasquin me vient de dire que tout allait bien, pourvu que je patientisse ; mais, quand je devrais tout gâter, je ne saurais plus me tenir en place ; je sis trop amoureux.
+
+-*who_agathe
+Ah Colin !
+Colin !
+
+-*who_colin
+Ce n'est pas de vous au moins que je dis que je sis amoureux : il ferait beau var que j'aimisse encore eune... ingrate !
+
+-*who_agathe
+Il est vrai.
+
+-*who_colin
+Eune... infidèle.
+
+-*who_agathe
+Oui, Colin.
+
+-*who_colin
+Eune... changeuse !
+
+-*who_agathe
+Hélas !
+Je n'aime pas trop à changer ; mais c'est que cela me vint malgré moi tout d'un coup, parce que je n'avais jamais vu d'homme fait comme Dorante.
+
+-*who_colin
+Oui, vous êtes une traîtresse.
+
+-*who_agathe
+Oh !
+Pour traîtresse, non...
+Ne vous avais-je pas averti que je voulais aimer Dorante ?
+
+-*who_colin
+Eune.... aouf !
+Gnia pu moyen de retenir mon naturel.
+Baille-moi ta main.
+
+-*who_agathe
+Ah Colin !
+Que je suis fâchée !
+
+-*who_colin
+Ah !
+Que je sis aise, moi !
+
+-*who_lisette
+Vous allez user toute votre tendresse ; gardez-en un peu pour quand vous serez mariés, vous en aurez besoin.
+Çà, Dorante va venir m'attendre sous l'orme ; nous avons résolu de nous moquer de lui.
+Pierrot, Nanette et Licas nous doivent aider ; ils sont là tout prêts.
+Les voici.
+
+**** *book_ *id_I16 *act_I *date_1694
+
+-*who_lisette
+Qui vous a donc avertis qu'il était temps ?
+
+-*who_nanette
+Nous avons vu de loin qu'elle se laissait baiser la main par Colin ; nous avons jugé...
+
+-*who_colin
+C'est signe qu'al' a retrouvé l'esprit qu'al' avait pardu.
+
+-*who_agathe
+Que je suis honteuse, Nanette, d'avoir été trompée par un homme !
+
+-*who_nanette
+Hélas !
+À qui est-ce de nous autres que cela n'arrive point ?
+Mais nous allons faire voir à ce petit coquet de Dorante qu'il ne sait pas son métier, puisqu'il donne le temps à une fille de faire des réflexions.
+
+-*who_lisette
+Tous vos petits rôles de raillerie sont-ils prêts ?
+
+-*who_nanette
+Bon !
+Notre Licas et notre Pierrot feraient un opéra en deux heures.
+
+-*who_lisette
+Oui, je vais vous donner votre rôle.
+
+-*who_nanette
+Voici Dorante.
+Retirez-vous ; c'est à moi à commencer.
+
+**** *book_ *id_I17 *act_I *date_1694
+
+-*who_dorante
+Voici à peu près l'heure rendez-vous.
+J'ai bien fait de ne voir ni le père ni la fille : si la veuve m'allait manquer, je serais bien aise de retrouver Agathe.
+J'entends des villageois qui chantent ; laissons-les passer.
+
+**** *book_ *id_I18 *act_I *date_1694
+
+-*who_nanette
+Mon pauvre Nicaise, tu perds ton temps et ta chanson.
+Il est vrai que je t'ai aimé ; mais c'est justement pour cela que je ne t'aime plus.
+Ce sont là nos règles.
+
+-*who_nicaise
+Lorsque tu me promis, sous cet orme fatal,
+Que je triompherais bientôt de mon rival,
+Tu m'en voulus donner une preuve certaine.
+Ah ! Que n'en ai-je profité !
+Je ne serais plus à la peine
+De te reprocher ton infidélité.
+
+-*who_nanette
+Il est vrai que ma franchise
+Fut surprise
+Par tes discours trompeurs et par ton air charmant ;
+Mais j'ai passé l'écueil du dangereux moment.
+J'ai pensé faire la sottise :
+Tu ne m'as pas prise au mot ;
+Tu seras le sot.
+Tu seras le sot.
+Tu seras le sot.
+
+**** *book_ *id_I19 *act_I *date_1694
+
+-*who_dorante
+Ces poitevines sont galantes naturellement.
+Mais la veuve tarde beaucoup.
+
+**** *book_ *id_I20 *act_I *date_1694
+
+-*who_pasquin
+Ah, monsieur !
+Nous jouons de malheur.
+
+-*who_dorante
+Qu'y a-t-il donc ?
+
+-*who_pasquin
+La veuve est partie, monsieur ; une de ses tantes est venue l'enlever à ma barbe.
+Tout ce que la pauvrette a pu faire, c'est de sortir la tête par la portière du carrosse, et de me faire signe de loin qu'elle ne laisserait pas de vous aimer toujours.
+
+-*who_dorante
+Se serait-elle moquée de moi ?
+
+-*who_pasquin
+Monsieur, j'ai sellé votre anglais ; le voilà attaché, à la porte : si vous voulez suivre le carrosse, il n'est pas encore bien loin.
+
+-*who_dorante
+Pasquin il faut aller au plus certain.
+Je vais trouver Agathe, et conclure avec elle.
+La voici justement.
+
+**** *book_ *id_I21 *act_I *date_1694
+
+-*who_atgathe
+Je vais bien me moquer de lui.
+Ah !
+Vous voilà, monsieur ; il faudra donc que je vous cherche toute la journée ?
+
+-*who_dorante
+Ah !
+Pardon, ma charmante ; j'ai eu une affaire indispensable.
+
+-*who_agathe
+N'est-ce point plutôt que vous m'auriez fait quelque infidélité ?
+
+-*who_dorante
+Que dites-vous là cruelle, injuste, ingrate ?
+J'atteste le ciel...
+
+-*who_agathe
+Hé ! la la, ne jurez point.
+Je sais bien comme vous m'aimez,
+
+-*who_dorante
+Mais vous, qui parlez, est-ce aimer, que de pouvoir attendre jusqu'à demain ?
+
+-*who_agathe
+Hé bien, marions-nous tout à l'heure.
+
+-*who_dorante
+Dites donc au papa qu'il abrége les formalités : ces articles, ce contrat, me désespèrent.
+
+-*who_pasquin
+La sotte coutume pour les amants qui sont bien pressés !
+
+-*who_agathe
+Nous irons dans un moment trouver mon père ; et, s'il nous fait trop attendre, nous nous marierons tous deux tout seuls.
+
+**** *book_ *id_I22 *act_I *date_1694
+
+-*who_lechoeur
+Attendez-moi sous l'orme,
+Vous m'attendrez longtemps.
+
+**** *book_ *id_I23 *act_I *date_1694
+
+-*who_dorante
+Qu'entends-je ?
+
+-*who_agathe
+C'est la noce d'un nommé Colin.
+Vous ne le connaissez pas ?
+
+-*who_pasquin
+Une noce !
+Ma foi, je m'en vais danser.
+
+**** *book_ *id_I24 *act_I *date_1694
+
+-*who_dorante
+Ils s'avancent, cédons-leur la place.
+
+-*who_agathe
+Oh !
+Il faut que je sois de cette noce-là.
+
+-*who_dorante
+Quoi !
+Vous pouvez différer un moment ?
+
+-*who_agathe
+Sitôt que la noce sera faite, nous nous marierons.
+
+-*who_lechoeur
+Attendez-moi sous l'orme,
+Vous m'attendrez longtemps.
+
+-*who_dorante
+Pasquin, voici bien des circonstances.
+
+-*who_pasquin
+C'est le hasard, monsieur.
+
+-*who_dorante
+En tout cas, il faut faire bonne contenance.
+Fort bien, mes enfants.
+Vive la Poitevine !
+Menuet de Poitou.
+Courage, Pasquin.
+Prenez la fillette
+Au premier mouvement ;
+Car elle est sujette
+Au changement :
+Souvent la plus tendre
+Qu'on fait trop attendre,
+Se moque de vous
+Au rendez-vous.
+
+-*who_pasquin
+Nous sommes trahis ; on nous berne, monsieur.
+
+-*who_dorante
+Ceci me confond.
+
+-*who_lisette
+Vous qui pour héritage
+N'avez que vos appas,
+L'argent ni l'équipage
+Ne vous manqueront pas :
+Malgré votre réforme,
+La veuve y pourvoira ;
+Attendez-la sous l'orme,
+Peut-être elle viendra.
+Agathe, chante à Dorante.
+La fille de village
+Ne donne à l'officier
+Qu'un amour de passage ;
+C'est le droit du guerrier :
+Mais le contrat en forme,
+C'est le lot du fermier :
+Attendez-moi sous l'orme,
+Monsieur l'aventurier.
+
+-*who_colin
+Un jour notre goulu de chat
+Tenait la souris sous la patte ;
+Mais al' était pour li trop délicate,
+Il la lâchit pour prendre un rat.
+
+-*who_pasquin
+Voilà de mauvais plaisants, monsieur.
+Votre cheval est sellé.
+
+-*who_pierrot
+Tout bellement, ou nous ferons sonner le tocsin sur vous.
+
+-*who_dorante
+Je viendrai saccager ce village-ci avec un régiment que j'achèterai exprès.
+
+-*who_lisette
+Ce sera des deniers de la veuve ?
+
+-*who_levillage
+Attendez-moi sous l'orme,
+Vous m'attendrez longtemps.

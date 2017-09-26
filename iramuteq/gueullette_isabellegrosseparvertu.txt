@@ -1,0 +1,493 @@
+
+
+**** *book_ *id_I01 *act_I *date_1738
+
+-*who_isabelle
+Certainement, mon cher Gilles, tu es tout mon espoir.
+
+-*who_gilles
+Ho !
+Voilà qui est fort bien ; le diable vous emporte, Mam'selle, à force d'avoir imaginé des stratagèmes dans le pour et le contre de votre amour, le tournebroche de mon esprit est usé, les filles croient qu'on est toujours en état et avec elles, il faut toujours recommencer.
+
+-*who_isabelle
+Mais que veux-tu donc que je devienne, vertueuse comme je suis, faut-il que je me voie entraînée dans une hyménée, où de toute nécessité mon époux sera cocu.
+Tu sais et tu n'ignores pas quelle haine j'ai pour le docteur, et quel amour j'ai pour Léandre.
+
+-*who_gilles
+Oui, mais jarnonbille, il faut récompenser les gens quand on veut qu'ils se mettent dans le margouillis pour nous.
+
+-*who_isabelle
+Quelle récompense veux-tu que je te donne ?
+Tu sais que je n'ai pas tant seulement un liard.
+
+-*who_gilles
+Une fille a toujours une monnaie avec laquelle elle peut s'acquitter, et on peut frapper cette monnaie-là en cachette, sans craindre d'être pendu.
+
+-*who_isabelle
+Comment !
+Étant le domestique de mon père, vous voudriez... certainement...
+Gilles, c'est une plaisanterie de votre part.
+
+-*who_gilles
+Eh bien !
+Faites donc comme vous voudrez ; car avec votre docteur, avec votre Léandre, avec la peste qui les étouffe, je ne sais comment ajuster vos engingorniaux.
+
+-*who_isabelle
+Je ne vois pas à quoi me résoudre.
+Dis-moi, me ferai-je enlever par Léandre ?
+Serai-je déclarer mon père imbécile ?
+Ou bien ferai-je empoisonner le docteur ?
+
+-*who_gilles
+Attendez, je trouve un bon moyen pour empêcher qu'on ne vous pose ? propose, veux je dire ? le docteur : vous n'avez qu'à déclarer que vous êtes grosse.
+
+-*who_isabelle
+Grosse !
+Je ne la suis point, mon cher Gilles ; comment veux-tu que je la paraisse.
+
+-*who_gilles
+Eh pardi !
+L'an passé que vous l'étiez, vous avez bien fait comme si vous ne l'étiez pas, vous pouvez bien faire à présent comme si vous l'étiez.
+
+-*who_isabelle
+Taisez-vous, insolent ; apprenez que je n'aime point les mots à double entente.
+
+-*who_gilles
+Ho !
+Parbleu, ce n'est pas pour vous manquer de respect, mais je ne m'embarrasse guère si cela vous fâche.
+
+-*who_isabelle
+Quoique ton discours soit impertinent, je le trouve très convenable.
+Allons, je me résous à passer pour grosse, cela dégoûtera t'assurément le Docteur ; mais ne faudra-t-il point avertir Liandre que ce n'est qu'une feinte agriable que j'emploie pour le posséder ?
+
+-*who_gilles
+Il faut que vous soyez bien bête, Mamselle, ne voyez-vous pas bien que s'il sait le pot aux roses, il ne fera pas le grimace d'assez bonne grâce, et qu'il ne viendra pas si bien à l'appui de la boule de patrigotage de notre tartagême d'amour.
+D'ailleurs, comme il doit être votre mari, il faut qu'il s'accoutume de bonne heure à croire que ses enfants ne sont as de lui seul.
+
+-*who_isabelle
+Je suis obligée de convenir, Gilles, que rien n'est si intègre que tous tes raisonnements, je m'y soumets sans regarder derrière moi davantage.
+Mais pour l'enflure...
+Dis-moi.
+
+-*who_gilles
+Allez imbécile, allez, ne voilà-t-il pas une chose bien difficile à imaginer.
+Retirez-vous, j'aperçois votre père, je vais lui donner une godan.
+
+**** *book_ *id_I02 *act_I *date_1738
+
+-*who_cassandre
+Heu... heu.... heu....
+Pouas.
+Monsieur le docteur.
+Monsieur le docteur.
+Monsieur le docteur.
+Se fait bien attendre.
+
+-*who_gilles
+La fièvre vous serre, Monsieur Cassandre, je ne connais rien de si malheureux, de si corbeau, de si chat-huant que vous.
+
+-*who_cassandre
+Comment ?
+
+-*who_gilles
+Il faut que vous ayez marché sur une planète bien maligne, vous avez z'été autrefois au pilori, vous avez fait il y a deux ans amende honorable, votre première femme vous a fait cornard, la seconde vous a fait cocu, vous avez la mine d'un singe, vous êtes fait comme un scorpion, vous êtes bête comme un cochon, votre fille accoucha l'année dernière en pleine compagnie, et la voilà encore grosse aujourd'hui.
+
+-*who_cassandre
+Grosse !
+
+-*who_gilles
+Oui vraiment, je viens pour vous préparer l'esprit là-dessus, si vous en avez.
+
+-*who_cassandre
+Eh sais-tu si c'est d'un garçon ou d'une fille ?
+
+-*who_gilles
+Peste soit de la rosse, est-ce que j'y ai regardé ?
+
+-*who_cassandre
+Eh dis-moi, par qui est-elle donc devenue grosse ?
+Est-ce par quelqu'un de mes amis ?
+
+-*who_gilles
+Non, mais il y a apparence que c'est par quelqu'un des siens.
+Tous vos amis sont de vieilles charpentes qui tombent en cannelle.
+
+-*who_cassandre
+Est-ce de mon notaire ?
+
+-*who_gilles
+Bon !
+Il ne grossoie plus.
+
+-*who_cassandre
+Est-ce de mon procureur ?
+
+-*who_gilles
+Il ne produit plus.
+
+-*who_cassandre
+Est-ce de mon avocat ?
+
+-*who_gilles
+Il ne conclut plus.
+
+-*who_cassandre
+Est-ce de mon huissier ?
+
+-*who_gilles
+Il n'exploite plus.
+
+-*who_cassandre
+Est-ce de mon marchand de drap ?
+
+-*who_gilles
+Il n'étale plus.
+
+-*who_cassandre
+Est-ce de mon tailleur ?
+
+-*who_gilles
+Il ne coud plus.
+
+-*who_cassandre
+Il ne coud plus, il ne produit plus, il ne grossoie plus.
+Tiens, maraud, voilà pour tes négatives.
+
+-*who_gilles
+Oui, oh !
+Monsieur Cassandre, je ne suis point ingrat je vais d'une terrible façon vous en donner dans les tripes.
+
+-*who_cassandre
+Comment, misérable, tu oses frapper ton maître dont tu manges le pain, ah... ah, ah, ah.
+
+-*who_gilles
+Oui, M. Cassandre, vous avez besoin de cette petite correction-là.
+
+-*who_gilles
+Vous voilà donc à terre, Monsieur Cassandre.
+
+-*who_cassandre
+Ah !
+Je suis tout disloqué.
+
+-*who_gilles
+Et moi aussi.
+N'avez-vous pas besoin d'un peu d'huile de cotret ?
+
+-*who_cassandre
+Que dit donc encore ce pendard ?
+
+-*who_gilles
+Attendez, ne vous êtes-vous pas fait mal au nez ?
+
+-*who_cassandre
+Oui, coquin, je me suis fait mal au nez.
+
+-*who_gilles
+Il faut le tenir le plus chaudement que vous pourrez.
+Approchez, approchez.
+
+-*who_cassandre
+Ôtes-toi, malheureux, si tu ne veux que je t'assomme.
+Mais voilà ma fille, il faut que je la réprimande.
+
+-*who_gilles
+Et moi je vais boire chopine, et manger une tranche d'aloyau.
+Adieu Monsieur Cassandre.
+
+**** *book_ *id_I03 *act_I *date_1738
+
+-*who_isabelle
+Ahi, ahi, ahi, je n'en puis plus.
+
+-*who_cassandre
+Paraissez donc la belle, paraissez.
+Eh quoi donc !
+Vous êtes encore grosse ?
+
+-*who_isabelle
+Oui, mon père.
+
+-*who_cassandre
+Mais ces façons-là ne me conviennent point : eh que diantre ; est-ce que vous ne sauriez-vous amuser à autre chose ?
+
+-*who_isabelle
+Mon père, cela m'est impossible.
+
+-*who_cassandre
+Je ne dis pas qu'on ne prenne quelque fois quelque passe-temps.
+
+-*who_isabelle
+Ah ne m'étourdissez pas, je vous prie.
+
+-*who_cassandre
+Mais il faut par une sage conduite...
+
+-*who_isabelle
+Il s'agit bien de sage conduite, c'est d'une sage-femme dont j'ai affaire.
+
+-*who_cassandre
+Je ne sais pas comment le docteur prendra la chose.
+
+-*who_isabelle
+Il la prendra comme il voudra.
+
+-*who_cassandre
+Heureusement il a la vue basse.
+
+-*who_isabelle
+En ce cas-là il pourrait bien ne s'en pas apercevoir.
+
+-*who_cassandre
+Mais dis-moi, ma mie, de qui est donc cet enfant ?
+
+-*who_isabelle
+Ah mon père !
+Vous savez ma vertu, n'exigez point un pareil aveu de ma part, je crains d'en accuser quelqu'un qui n'en serait pas coupable.
+
+-*who_cassandre
+J'ai toujours reconnu de bons principes en toi.
+Mais j'aperçois le docteur.
+
+**** *book_ *id_I04 *act_I *date_1738
+
+-*who_gilles
+Dia, huriau, haye.
+Cet homme-là a le ventre si farci de science, qu'il ne peut pas faire un pas, il faut que je le conduise moi-même ici.
+
+-*who_cassandre
+Approchez, Seigneur Docteur, et venez embrasser ma fille.
+
+-*who_ledocteur
+Volontiers...
+
+-*who_ledocteur
+Ouais !
+Père Cassandre, on dit que deux montagnes ne peuvent pas se rencontrer, mais il me semble que cela n'est pas toujours véritable.
+
+-*who_cassandre
+Toujours des maximes !
+Ô l'habile homme !
+L'habile homme !
+
+-*who_gilles
+Allons voilà le moment du stratagème.
+
+-*who_ledocteur
+Oui, je suis fort habile.
+Mais...
+
+-*who_cassandre
+Hé bien !
+C'est aujourd'hui que vous devez épouser ma fille.
+
+-*who_ledocteur
+Oui.
+Mais...
+
+-*who_cassandre
+Elle a les yeux bien émerillonnés.
+
+-*who_ledocteur
+Oui.
+Mais...
+
+-*who_cassandre
+Nous allons bien nous divertir à la noce.
+
+-*who_ledocteur
+Oui.
+Mais...
+
+-*who_cassandre
+Oui.
+Mais...
+Oui.
+Mais...
+Qu'est-ce que cela veut donc dire ?
+Vous savez bien que dans ces occasions-là on ne doit pas reculer.
+
+-*who_ledocteur
+Non.
+Mais...
+
+-*who_cassandre
+Tous les préparatifs sont faits, il y a plus de huit jours que les fruits sont préparés.
+
+-*who_ledocteur
+Il y a plus de huit mois, de par tous les diables, que la poire est prête à tomber.
+
+-*who_cassandre
+Comment !
+Est-ce parce que vous vous apercevez que ma fille est grosse, que vous voudriez rompre ?
+
+-*who_ledocteur
+Non.
+Mais...
+
+-*who_cassandre
+Je voudrais bien que vous me fissiez cet affront.
+
+-*who_ledocteur
+Écoutez.
+Je vous ai fait une promesse, votre fille m'a fait un poupon, retirons chacun notre enjeu.
+
+-*who_cassandre
+Allez, vous êtes un benêt.
+
+-*who_ledocteur
+Tout beau !
+Père la Rapapiolle.
+
+-*who_gilles
+Eh arrêtez donc.
+Voilà deux jeunes gens qui vont s'égorger.
+Au Guet, un commissaire, une sage-femme, je suis grosse.
+
+-*who_cassandre
+Mais contraignons-nous, j'aperçois Léandre.
+
+-*who_gilles
+Silence, silence.
+Conticuere omnes.
+
+**** *book_ *id_I05 *act_I *date_1738
+
+-*who_leandre
+Non, parbleu, il ne sera pas dit que j'en serai le dindon, et je vois bien que je n'ai pas d'autre parti à prendre que de mettre l'épée à la main.
+
+-*who_gilles
+Comment, qu'est-ce que c'est ?
+
+-*who_leandre
+Ne doutez point de mon respect, charmante Isabelle, mais ce que j'apprends est bien extraordinaire.
+Je quitte le Havre, où je passais assurément de très beaux jours, je viens avec la chasse-marée sur mes fesses, dès que j'ai mis pied à terre à Paris, je monte derrière un fiacre, afin d'arriver plutôt, vous savez d'ailleurs que j'ai un dévoiement qui m'incommode beaucoup ; et malgré tous ces obstacles qui me sont envoyés par la Déesse Fortune, j'apprends en arrivant que c'est aujourd'hui le jour qui doit éclairer les flambeaux de votre union avec le docteur.
+
+-*who_ledocteur
+Oh !
+Je vous réponds...
+
+-*who_gilles
+Paix.
+
+-*who_ledocteur
+Si...
+
+-*who_gilles
+Taisez-vous, queue de morue.
+
+-*who_ledocteur
+J'ai...
+
+-*who_gilles
+Merde à votre nez.
+
+-*who_isabelle
+Votre retour, mon cher Léandre, a bien de quoi me charmer certainement, vous pouvez être sûr que vous êtes le seul de mes amants dont je veux jouir par le mariage, et je vous sais bien du gré d'avoir été si longtemps en province, puisque cela n'a fait que enflammer votre amour.
+
+-*who_leandre
+Ah !
+Que j'embrasse cent et cent fois vos genoux.
+Mais qu'est-ce que j'aperçois ?
+
+-*who_isabelle
+N'ayez aucun étonnement, c'est un vent coulis qui s'est glissé dans la ruelle de mon lit, qui m'a gonflé, comme vous voyez.
+
+-*who_leandre
+Mam'selle, se sont des fichus raisons que celles-là, songez qu'il y a dix mois que je partis par les batelets, et qu'assurément depuis ce temps-là, je ne vous ni ai vue ni maniée.
+
+-*who_isabelle
+Eh bien, il faut avouer que c'est un malheur qui m'a arrivé, je ne sais comment.
+
+-*who_leandre
+Ça ne fait rien charmante Isabelle, je sais les manières que doit avoir un gentilhomme, et je vous regarde comme mon épouse, s'il n'y a point d'empêchement à notre mariage.
+
+-*who_cassandre
+Ah !
+Que je suis ravi de la joie que vous me causez.
+Allons, puisque le docteur ne veut point de ma fille, je vous la donne.
+
+-*who_gilles
+Beau compliment !
+Ah !
+Le porc.
+
+-*who_ledocteur
+Volontiers.
+
+-*who_leandre
+Mais je fais serment sur la garde de mon épée, et sur le toupet de cheveux dont vous avez accordé la faveur aux Porcherons, de ne me point coucher entre deux draps, que je n'aie fait l'accomplissement de deux choses.
+
+-*who_isabelle
+Qu'est-ce que c'est ?
+
+-*who_leandre
+Premièrement, charmante Isabelle, c'est que puisque vous êtes grosse, Monsieur votre père ne périra jamais que de ma main.
+
+-*who_cassandre
+Comment ?
+
+-*who_leandre
+S'il vous avait mise de bonne heure z'à l'hôpital, je n'aurais pas le désagrément que j'ai t'aujourd'hui.
+La brebis n'est point coupable quand elle est mangée par le Loup.
+Ce n'est pas la faute de l'abricot quand il est tacheté par les morsures des injustes frelons : et quand l'enfant demande t'a faire caca, c'est la faute de Madame sa mère s'il vient à foirer dans ses chausses.
+
+-*who_gilles
+Cela est sensible.
+
+-*who_ledocteur
+Cela est sensible.
+
+-*who_gilles
+Allons préparez-vous à quitter la perruque.
+
+-*who_cassandre
+Maraud !
+
+-*who_isabelle
+Ah !
+Que vous m'alarmez !
+Et quelle est l'autre chose, mon cher Léandre ?
+
+-*who_leandre
+Cruelle Isabelle, c'est de mourir moi-même en personne devant vous tout à l'heure.
+
+-*who_isabelle
+Ha !
+Allez, ingrat, allez, je n'étais grosse que de vous voir.
+
+-*who_leandre
+Que dites-vous ?
+
+-*who_isabelle
+Tenez perfide, voilà toute ma réponse.
+
+-*who_leandre
+Ah !
+Que vois-je !
+Quelle faveur !
+Feinte trop spirituelle !
+Terrine qui me rendez la vie en périssant ; tessons qui méritez d'être bordés d'or tout à l'entour, ne doutez point de l'estime et de la reconnaissance que j'aurai éternellement pour vous.
+
+-*who_gilles
+Il envie bien cette terrine-là ; mais pour moi j'aimerais encore mieux une terrine de bœuf à la mode.
+
+-*who_cassandre
+Descends à mon secours
+Amour, daigne m'entendre ;
+Anime les vieux jours
+Du bon homme Cassandre :
+En mariant ma fille,
+Ne me refuse pas
+Un retour de béquille
+Est son ingénieur.
+
+-*who_gilles
+Beaux masques masculins,
+Et beaux masques femelles,
+Ayez plaisirs sans fins,
+Ayez ardeurs fidèles :
+Si vous en croyez Gilles,
+Il faut ce Mardi-Gras
+Employer la béquille
+Du père Barnabas.

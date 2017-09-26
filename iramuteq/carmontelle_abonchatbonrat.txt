@@ -1,0 +1,1143 @@
+
+
+**** *book_ *id_I01 *act_I *date_1768
+
+-*who_gilles
+Voyons t'un peu si je n'oublions rien : v'là ici la place le m'ame Savon, là au beau mitan, entre le marié et la nariée : ici, c'est Monsieur Thériaque, le compère, et pis en face, vis-à-vis de lui, la commère m'ame Laiguille ; à l'autre bout, le père et la mère du futur, et pis moi...
+Oh !
+Moi, j'irons et je viendrons...
+Oui-da, v'là qu'est ben symétrique comme ça.
+I'ne manque que le fricot.
+Ah !
+Gilles, mon ami, comme tu vas t'en donner !
+Je crains tant seulement d'attraper zune indigestion : quand zon n'est pas stylé à manger tout son soûl, y a du risque.
+Ah !
+Morguenne !
+Aussi pourquoi qu'un jour de noce ne revient pas trois fois par semaine ?
+
+**** *book_ *id_I02 *act_I *date_1768
+
+-*who_laplume
+Bonjour, Gilles, te voilà bien occupé !
+
+-*who_gilles
+Et vous, morgue !
+Vous v'là ben arrivé !
+Jarniguoi !
+Qu'ous avez le nez fin !
+
+-*who_laplume
+Je viens souhaiter la bonne année à ma voisine et à mam'selle sa fille.
+
+-*who_gilles
+Ah !
+Sainte Opportune, queue défaite !
+Et au festin de la noce, est-ce que vous ne l'i souhaiterez rien ?
+
+-*who_laplume
+C'est donc aujourd'hui le grand jour pour Suzette ?
+
+-*who_gilles
+Ah !
+Dame oui, i'n'y a pus à barguigner : c'est aujourd'hui qu'il faut en découdre.
+
+-*who_laplume
+Es-tu bien sûr de ça, Gilles, que ça soit aujourd'hui ?
+
+-*who_gilles
+Plus sûr que de mon père, voyez-vous.
+Eh !
+Jarni !
+Regardez donc c'te table.
+Crayez-vous que m'ame Savon se mette en dépense pour rien ?
+I' gn'y a, morgue !
+Pas de saint dans l'année qui la mette en ribote comme ça, n'était c'ti-là du mariage.
+
+-*who_laplume
+Ainsi donc, mon cher Gilles, tu es sûr que mam'selle Suzette se marie aujourd'hui ?
+
+-*who_gilles
+Ah !
+Jarniguoi !
+Vous me feriez tourner la tête, avec vos croyances du oui ou du non : je vous disons encore un coup que mam'selle, pisque m'ainselle y a, sera madame ce soir, à moins que le diable ne s'en mêle.
+
+-*who_laplume
+Eh bien !
+Il s'en mêlera !
+Ah !
+Ah !
+Ah !
+Ah !
+
+-*who_gilles
+Comment !
+Y s'en mêlera !
+
+-*who_laplume
+Oui, mon ami, hi !
+Hi !
+Hi !
+Hi !
+
+-*who_gilles
+Ah ! çà, ne badinez pas, monsieur de La Plume ; est-ce que vous auriez queuque tripotage ensemble, queuque ?...
+
+-*who_laplume
+Ah !
+Ah !
+Ah !
+Ah !
+
+-*who_gilles
+Ah !
+Me v'là ben savant avec vos risées !
+
+-*who_laplume
+Ah !
+Ah !
+Ah !
+Ah !
+Rira bien qui rira le dernier.
+
+-*who_gilles
+Eh !
+Morgue !
+Contez-moi donc ça : j'aimerions autant qu'on ne nous disît rien que de nous rien apprendre.
+
+-*who_laplume
+Écoute-moi, Gilles, et promets-moi le secret : je te dirai tout ; aussi bien j'aurais besoin de toi pour glisser queuque mot à mam'selle Suzette.
+
+-*who_gilles
+Dites toujours : je vous promets de garder le silence à bouche que veux-tu.
+
+-*who_laplume
+Je t'ai déjà fait confidence que j'aimais m'amselle Suzette, mais tu m'as dit qu'elle était promise à Foulonet, et ce mariage a été si précipité que je n'ai pas eu le temps de trouver les moyens de l'empêcher...
+
+-*who_gilles
+Eh ben !
+I' se fera donc, comme ça ?
+
+-*who_laplume
+Écoute-moi, tu vas voir.
+
+-*who_gilles
+Ah !
+Voyons, voyons.
+
+-*who_laplume
+Foulonet avait promis mariage à une autre fille avant Suzette, qui s'appelle tout comme elle, et ce matin il leur a écrit à toutes les deux, pour leur envoyer des étrennes.
+Il m'est venu trouver à mon bureau pour ça.
+Ne t'inquiète pas, Gilles, quand la lettre de Suzette va venir, tu verras de la besogne bien faite, va.
+
+-*who_gilles
+Ah !
+Ventregué !
+Queue manigance !
+Contez-moi donc ça de fil en aiguille.
+
+-*who_laplume
+Tais-toi, voilà Madame Savon avec sa fille, je te conterai tout ça une autre fois : je vas leux faire non compliment.
+
+**** *book_ *id_I03 *act_I *date_1768
+
+-*who_madamesavon
+Allons donc, Suzette, tiens-toi donc : t'as un air gauche.
+Est-ce qu'on se laisse aller somme ça un jour de noce, donc ?
+T'as l'air d'un lendenain.
+
+-*who_laplume
+Madame Savon, je vous présente bien mes petits respects.
+En qualité de voisin je viens vous la souhaiter bonne et heureuse, ainsi qu'à m'amselle Suzette, accompagnée de plusieurs autres, et de la santé par-dessus tout.
+
+-*who_madamesavon
+Ben obligée, monsieur.
+Dame !
+Suzette, v'là qu'est tourné : on voit ben que monsieur za la plume en main.
+
+-*who_suzette
+Vraiment, ma mère, c'est que monsieur est versé dans l'écriture.
+
+-*who_laplume
+Ah !
+Mademoiselle, quand on voit des personnes comme vous et Madame votre mère, il est ben facile d'être versé dans la politesse.
+
+-*who_madamesavon
+Tredame, ma fille, v'là qui nous surpasse.
+
+-*who_gilles
+Pardine !
+Oui, c'est le proverbe : dis-moi qui tu hantes, je te dirai qui tu fréquentes.
+
+-*who_laplume
+Madame Savon veut-elle bien recevoir ces deux fines oranges et permettre qu'on l'embrasse ?
+
+-*who_madamesavon
+Ah !
+Monsieur, de tout mon coeur...
+Gilles, portez ces oranges-là dans l'aute chambre : vous les mettrez dessus la cheminée.
+
+-*who_laplume
+En voici deux autres pour m'amselle Suzette : veut-elle bien permettre aussi...
+
+-*who_suzette
+Comment donc, monsieur de La Plume, vous vous êtes mis en dépense !
+Tiens, Gilles.
+
+-*who_gilles
+Fouillez-vous donc, monsieur de La Plume : est-ce qu'il n'y en a pas pour moi aussi ?
+
+-*who_madamesavon
+Monsieur de La Plume, je ne savons comment vous remercier de vot' politesse ; mais t'nez, c'est aujourd'hui le mariage de Suzette : j'allons faire la noce ici, faites-nous l'amiquié d'y rester.
+Vous êtes entendu, vous serez le garçon d'honneur ; pas vrai, Suzette ?
+
+-*who_laplume
+Madame, c'est bien de l'honneur pour moi.
+
+-*who_suzette
+Oh !
+Monsieur, l'honneur sera pour nous.
+
+-*who_gilles
+Eh !
+Morgue !
+Y aura pus d'honneur dans tout ça que de profit.
+
+**** *book_ *id_I04 *act_I *date_1768
+
+-*who_madamelaiguille
+Eh !
+Bonjour donc, ma commère ; bonjour, mon enfant.
+
+-*who_madamesavon
+Ah !
+V'là la commère, et Monsieur Thériaque, l'apothicaire de feu mon homme.
+
+-*who_suzette
+Bonjour, ma tante ; bonjour, monsieur.
+
+-*who_theriaque
+C'est pour vous la souhaiter bonne et heureuse, commère, et vous, ma belle enfant.
+
+-*who_madamelaiguille
+Tenez, commère, v'là des dragées que je vous apporte.
+
+-*who_madamesavon
+Vous êtes ben bonne, commère...
+Prends tout ça, Gilles : ça servira pour le repas.
+
+-*who_theriaque
+Tenez, commère, voilà des marrons de Lyon, de la bonne faiseuse : je les ai commandés exprès pour vous.
+
+-*who_madamesavon
+Comme il est agréable, le compère !
+Il a toujours le mot pour rire.
+
+-*who_madamelaiguille
+Ah !
+Mon Dieu !
+Mon pauvre Gilles, cours donc bien vite...
+
+-*who_gilles
+Eh !
+Jarniguoi !
+Quoi que vous avez donc ?
+
+-*who_suzette
+Queu qu'c'est donc, ma tante ?
+
+-*who_madamelaiguille
+Eh !
+Mon enfant, nous causons là, et le fiacre qui est zà la porte !
+
+-*who_theriaque
+Ah !
+Morbleu, je n'y pensais pus !
+Tiens, Gilles, porte-lui ces vingt-quatre-sous-là.
+
+-*who_madamesavon
+Vous êtes donc venus ten carrosse?
+
+-*who_madamelaiguille
+Hélas !
+Oui, commère.
+Y a si loin de c'te porte Saint-Antoine !
+I'semble qu'all'recule tous les jours.
+
+-*who_theriaque
+Et puis on danse aujourd'hui, il faut ben faire la fine jambe et le fin bas blanc.
+
+-*who_madamesavon
+Vantez-vous-en : j'espère ben que je danserons ensemble, compère.
+
+-*who_theriaque
+Mais ça se doit : j'ouvrirons le bal.
+
+-*who_madamelaiguille
+À propos de ça, tiens, Suzette, v'là zun petit présent de noce que je t'apporte.
+
+-*who_suzette
+Ben obligée, ma tante...
+Ah !
+Ma mère, c'est des rubans à l'anglaise.
+
+-*who_madamesavon
+Avec des devises, da !
+C'est du galant !
+Feu mon homme m'en donnait comme ça de couleur de rose, avec les fontanges pareilles : ça m'allait, dame !
+Fallait voir !
+Aussi le garçon d'honneur quand il prit la jarretière de la mariée...
+À propos, je t'avertis de ça, Suzette : faut te laisser faire.
+
+-*who_theriaque
+Ah !
+Dame !
+Oui !
+Mam'selle.
+Ne vous inquiétez pas, je me charge de l'opération.
+
+-*who_madamesavon
+Eh ben !
+Mais monsieur de La Plume, vous ne dites rien : vous êtes là comme une silence !
+
+-*who_laplume
+J'écoute, madame, j'écoute.
+
+-*who_madamelaiguille
+Je crois me remettre d'avoir vu monsieur queuque part.
+
+-*who_laplume
+Madame, c'est bien de l'honneur pour moi.
+
+-*who_madamesavon
+Pardine !
+C'est Monsieur de La Plume, qui a son bureau sous les Charniers, à trois pas de la boutique où c'qu'est ma fille.
+
+-*who_theriaque
+Ah !
+Monsieur est un homme de lettres !
+
+-*who_laplume
+À votre service, Monsieur.
+
+-*who_suzette
+Ah !
+Dame !
+Oui, monsieur est un savant.
+
+-*who_madamesavon
+Eh ben !
+Dites donc un peu, monsieur de La Plume, queu qu' ça veut dire c'te devise-là ?
+
+-*who_madamelaiguille
+Pardi !
+C'est un coeur qui s'envole, et un chien qui court après.
+
+-*who_madamesavon
+Je le voyons ben ; mais l'énigme de ça ?
+
+-*who_laplume
+Madame, on appelle ça un anglème : ça signifie la fidélité et la persévérance.
+
+-*who_theriaque
+Oui, ma foi, c'est bien trouvé.
+
+-*who_madamesavon
+Ah !
+Dame, oui, v'là ce que c'est que l'esprit : c'est zune sentence.
+
+**** *book_ *id_I05 *act_I *date_1768
+
+-*who_gilles
+De la part de Monsieur Foulonet, madame.
+
+-*who_madamesavon
+Ah !
+C'est le valet de mon gendre.
+Entrez, mon ami.
+
+-*who_lesavoyard
+Madame, je viens de la part de mon naître, qui dit comme ça qu'il vous souhaite une bonne année, ainsi qu'à mam'selle, et comme par lequel il vous envoie ces oranges-là pour vos étrennes, en attendant qu'il vienne lui-même vous apporter le présent de noce.
+
+-*who_madamesavon
+C'est fort ben, mon enfant ; dites à vot' maître que je l'attendons tretous avec impatience...
+Gilles, emmène-le avec toi au cabaret du coin, où ce qu'on fait le repas, et fais-l'i boire un coup à not' santé.
+
+-*who_lesavoyard
+Grand merci, madame ; pour qu'ail'soit meilleure, j'en boirons ben deux.
+
+-*who_madamesavon
+Gilles, ne t'éloigne pas, j'allons tavoir besoin de loi.
+
+-*who_gilles
+Eh !
+Morgue !
+Je n'ons garde : je ne sortirons pas du cabaret.
+
+-*who_lesavoyard
+Ah !
+Tenez, mam'selle, v'là me letttre que mon maître m'a chargé de vous remettre.
+
+-*who_suzette
+Écoutez donc, faut-il zune réponse ?
+
+-*who_lesavoyard
+Une réponse ?...
+
+-*who_gilles
+Eh !
+Jarniguoi !
+Si t'attends la réponse, n'y aura pus de quoi boire, viens toujours.
+
+-*who_lesavoyard
+Eh ben !
+Je la prendrons en sortant du cabaret : vous n'avez qu'à la tenir prête.
+
+**** *book_ *id_I06 *act_I *date_1768
+
+-*who_suzette
+Ah !
+Ciel !
+Ma mère !...
+
+-*who_madamesavon
+Que que t'as donc, mon enfant ?
+Te v'là toute comme une surprise !
+
+-*who_suzette
+Ah !
+L'indigne !
+Est-il possible !
+
+-*who_madamelaiguille
+De de quoi que c'est donc.
+
+-*who_madamesavon
+Queu qu'ça dit donc, ce chiffon-là ?
+Voyons un peu, monsieur de Ls Plume, débrouillez-nous ça.
+
+-*who_monsieurlaplume
+« Mademoiselle, je profite de l'occasion de la nouvelle année, pour vous la souhaiter bonne et heureuse ; mais je suis trop honnête-homme pour vous laisser ignorer ce qui se passe...»
+
+-*who_madamesavon
+Eh ben !
+Qui donc qui se passe ?
+
+-*who_monsieurlaplume
+« Je vous avertis que j'ai une inclination ailleurs...»
+
+-*who_madamesavon
+Ah !
+Le scélérat !
+Queu noirceur !
+
+-*who_monsieurlaplume
+« Je vous ai promis mariage, je ne suis plus en pouvoir de vous tenir parole...»
+
+-*who_madamelaiguille
+Tredame !
+On peut ben l'y forcer.
+
+-*who_madamesavon
+Ah !
+Vantez-vous-en que le chien n'ei sera pas quitte pour se dédire...
+Allez, monsieur de La Plume, continuez.
+
+-*who_monsieurlaplume
+« Pour vous dédommager de la perte de mon coeur, je vous prie d'accepter cette douzaine d'oranges que je vous envoie... »
+
+-*who_madamesavon
+Ah !
+Qu'elles t'égranglent, tes chiennes d'oranges, ailes mettraient la peste dans la maison.
+Lisez toujours, monsieur de La Plume.
+
+-*who_monsieurlaplume
+« Au reste, quoique vous soyez ben aimable, vous n'étiez pas de compétence faite pour épouser le fils d'un chapelier.
+Votre serviteur, FOULONET. »
+
+-*who_suzette
+Ah !
+Ma mère !
+
+-*who_madamelaiguille
+Ah !
+Ciel !
+Queu blasphème !
+
+-*who_madamesavon
+Le fils d'un chapelier !
+Tredame !
+V'là-t-il pas zune famille ben relevée donc !
+Parce que son père étale des chapeaux retournés sous le petit Châtelet.
+
+-*who_madamelaiguille
+Eh pardine !
+Si son père fait des chapeaux, ma nièce est coiffeuse, ça va de pair.
+
+-*who_theriaque
+Pour ça, oui.
+Madame valait ben monsieur.
+
+-*who_suzette
+Ah !
+Ma tante !
+Me faire un affront comme ça !
+À une fille d'honneur !
+
+-*who_madamesavon
+Apparemment, c'est que t'en as trop pour lui.
+Jour de Dieu !
+Qu'il ne se montre pas devant moi, car je l'étranglerais mort ou vif.
+
+-*who_madamelaiguille
+Console-toi, va, ma nièce, si tu ne coiffes pas c'ti-là, t'en coifferas queuque autre.
+
+-*who_madamesavon
+Pardine !
+Oui, que jeté voie pleurer pour un gueux comme ça !
+As-tu peur d'en manquer ?
+
+-*who_theriaque
+Mam'selle n'est pas faite pour ça.
+
+-*who_monsieurlaplume
+Assurément, et si mam'selle voulait, y a ici des personnes qui aimeraient ben mieux payer les violons pour leux compte que de voir danser les autres.
+
+-*who_madamesavon
+Tiens, v'là-t-il zune proposition qu'on e propose déjà !
+Ah !
+Va, va, pour un de perdu cent de Retrouvés.
+
+**** *book_ *id_I07 *act_I *date_1768
+
+-*who_monsieurfoulon
+Eh !
+Bonjour, madame Savon.
+
+-*who_madamefoulon
+Bonjour, mon enfant.
+
+-*who_madamesavon
+Eh !
+Mon Dieu !
+Ne vous blessez donc pas.
+Vous êtes ben complimenteux dans la famille !
+
+-*who_suzette
+Laissez-moi, Madame.
+
+**** *book_ *id_I08 *act_I *date_1768
+
+-*who_madamefoulon
+Où va donc la petite ?
+
+-*who_madamesavon
+Au fait ben.
+All' sent qu'ail' n'est pas faite pour le fils d'un chapelier.
+
+-*who_monsieurfoulon
+Mais qu'avez-vous donc, madame Savon ?
+
+-*who_madamelaiguille
+Faut être ben traître pour venir encore embrasser les gens.
+
+-*who_theriaque
+Fi! cela n'est guère honnête !
+
+-*who_madamefoulon
+Comment !
+Mais que voulez-vous donc dire ?
+
+-*who_madamesavon
+Demandez-le à votre fils.
+En attendant, portez-l'i ses oranges, et recommandez-l'i ben de ne pas regarder ma porte en face, ou sinon je vous le repasserai, moi, votre fils de chapelier.
+
+**** *book_ *id_I09 *act_I *date_1768
+
+-*who_ungarcon
+C'est-i pas ici cheux Mme Savon?
+
+-*who_madamesavon
+Eh ben !
+Quoi que c'est ?
+
+-*who_ungarcon
+C'est le repas de noce.
+Tout est prêt.
+
+-*who_madamesavon
+Tu te trompes, mon ami.
+Quiens porte-les cheux ce beau monsieur-là.
+Vois-tu sous le petit Châtelet, à gauche, à l'enseigne du Ben-Rotapé.
+C'est la noce de Monsieur son fils.
+
+-*who_monsieurfoulon
+Mais, madame Savon, perdez-vous la tête ?
+
+-*who_madamesavon
+Allez donc, monsieur, trop d'honneur ; vous avez oublié queuque chose chez vous.
+Vot' fils vous dira l'mot du guet.
+
+-*who_madamefoulon
+Ah !
+Mon ami, vous ne voyez pas qu'on nous insulte.
+Allons-nous-en ou je vas me trouver mal ici.
+
+-*who_madamesavon
+Mais, vraiment, je ne vous y trouvons déjà pas ben.
+Allez, vous serez mieux dehors.
+
+-*who_ungarcon
+Mais, Madame, où mettrai-je-t-i' ces plats ?
+
+-*who_madamesavon
+Eh ! va-t'en au diable avec tes plats, cuisinier de malheur.
+
+-*who_theriaque
+Doucement, commère.
+Va-t'en , mon ami : tu vois bien qu'on n'en veut pas.
+
+-*who_ungarcon
+Ma foi, le v'là toujours.
+Je m'en vais dire ça à Madame Rognon : vous vous arrangerez avec elle.
+
+-*who_madamesavon
+Attends,attends-moi ; je te vas conduire.
+
+**** *book_ *id_I10 *act_I *date_1768
+
+-*who_madamesavon
+Eh ben !
+Vous autres, est-ce que vous plantez là l'piquet ?
+Allez, allez tourner vos vieux chapeaux.
+
+-*who_monsieurfoulon
+Ah !
+Madame Savon, voilà qui est trop !
+Vous vous souviendrez de celle-là.
+Allons-nous-en, femme, allons-nous-en.
+
+-*who_madamesavon
+Bon voyage.
+Écoutez donc, si vous rentrez les violons, faites-vous jouer la conduite de Grê⁎⁎⁎le, ça vous égayera sur le chemin.
+
+**** *book_ *id_I11 *act_I *date_1768
+
+-*who_theriaque
+Ma foi, Madame Savon, c'est affaire à |⁎⁎⁎⁎.
+Vous leux avez ben donné la monnaie de leur pièce.
+
+-*who_madamelaiguille
+La commère a raison : j'en aurais ben fait autant.
+
+-*who_laplume
+Oh !
+Oui, ça valait ça.
+
+**** *book_ *id_I12 *act_I *date_1768
+
+-*who_madamerognon
+Parlez donc, m'ame Savon, c'est-i' du vrai qu'ous ne voulez pus du festin ?
+
+-*who_madamesavon
+Dame !
+Vantez-vous-en.
+Que c'ti-là qui se marie le mange.
+
+-*who_madamerognon
+Répétez-nous donc ça : je n'entendons pas de c't'oreille-là.
+
+-*who_madamesavon
+C'est pourtant du clair : quand z'i gn'y a pas d' noce, i'gn'y a pas de festin, p't.-êt'.
+
+-*who_madamerognon
+Tout ça m'est égal, à moi.
+Mon festin zest commandé : qu'on le mange ou non, faut qu'on l'paye.
+
+-*who_madamesavon
+Ah ! ça ne sera pas du vrai.
+
+-*who_madamerognon
+Non-da.
+Écoute un peu François, je n'ons pas le temps de disputer : va-t'en me chercher un commissaire.
+
+-*who_theriaque
+Mais écoutez donc, madame Rognon faut être raisonnable, faut vivre avec les vivants.
+D'abord qu'on ne le mange pas, vous pourriez le reprendre, moyennant queuque bénéfice.
+
+-*who_madamerognon
+Quiens !
+Monsieur Jocrisse !
+Eh !
+Que bénéfice voulez-vous que j'y fasse ?
+Est-ce que ça aura de la vente ça ?
+Tenez v'ià-t-il pas un gigot qui a bonne mine!
+
+-*who_laplume
+Ah !
+Si Mme Savon voulait, il y aura bien une manière d'arranger tout cela : il ne faudra renvoyer ni le repas ni les violons.
+
+-*who_madamesavon
+Eh ben !
+Mais, voyons ; queu qu'i' faudrait pour ça ?
+
+-*who_laplume
+Il ne faudrait dire qu'un mot.
+
+-*who_theriaque
+Qu'un mot !
+Ça n'est pas la mer à boire.
+
+-*who_madamelaiguille
+Expliquez-vous donc, monsieur La Plume.
+
+-*who_laplume
+Tenez, madame Savon, l'occasion, comme a dit, fait le larron : j'aime mam'selle votre fille depuis longtemps, et je pourrais faire un bon parti pour elle.
+Le contrat, la noce et les violons sont commandés : si vous voulez me la donner en mariage, il n'y a que faire ne rien renvoyer, je payerai tout.
+
+-*who_madamerognon
+Ah !
+Dame, oui, v'là qu'est ben comode.
+
+-*who_madamesavon
+Monsieur de La Plume, v'là qui demande réflexion.
+
+-*who_madamerognon
+Bon, réflexion !
+Et le repas qui est tout chaud.
+
+-*who_madamelaiguille
+Ma foi, commère, si j'étais que de vous, je ne barguignerais pas : je prendrais Monsieur de La Plume au mot ; ça vengerait vot' fille, et ce gueux de Toulonet en crèverait de dépit.
+
+-*who_madamesavon
+Qu'en pensez-vous, monsieur Thériaque ?
+
+-*who_theriaque
+Moi, je suis assez de c't avis-là.
+En fait de mariage, il ne faut jamais faire venir l'eau à la cruche d'une fille pour rien.
+
+-*who_madamesavon
+Eh bien ! monsieur de La Plume, v'là c'est conclu : je vous prends pour mon gendre.
+Vous, commère, allez un peu disposer Suzette à c'te petite vengeance-là.
+
+-*who_madamelaiguille
+Oui, oui, laissez-moi faire : je vais sonder sur c't article-là.
+
+**** *book_ *id_I13 *act_I *date_1768
+
+-*who_laplume
+Ah !
+Madame, que je suis heureux d'être au monde !...
+Combien vous faut-il pour le repas, madame Rognon ?
+
+-*who_madamerognon
+Tenez, à cause de l'occasion, je vous ferai bon marché.
+
+-*who_theriaque
+Dame !
+Oui, c'est du hasard : il ne faut vendre ça comme neuf.
+
+-*who_madamerognon
+Écoutez, parce que c'est vous, donnez-moi dix écus, et j'allons vous repasser ce gigot-là dans la sauce.
+
+-*who_laplume
+Tenez, v'là toujours quinze francs à compte.
+Faites-nous tenir les plats bien chauds.
+Il n'y a qu'un pas d'ici chez nous : je m'en vas vous chercher votre reste.
+
+-*who_madamerognon
+Je suis t'a vos ordres : vot' servante, messieurs et dames.
+
+**** *book_ *id_I14 *act_I *date_1768
+
+-*who_laplume
+Et moi, madame Savon, en chemin faisant, je m'en vais passer chez le notaire et lui dire d'apporter le contrat.
+
+-*who_madamesavon
+Allez, monsieur de La Plume, pendant c' temps-là j'allons couler ça à Suzette, et quand vous reviendrez, all' sera prête.
+Venez-vous-en, monsieur Thériaque.
+
+**** *book_ *id_I15 *act_I *date_1768
+
+-*who_gilles
+Quoi que ça signifie donc tout ça ?
+J'avons vu les garçons remporter le festin.
+Ah !
+Morgue !
+Queu crève-coeur !
+Je nous verrions passer devant le nez un gueuleton comme c'ti-là, et je n'en aurions que la fumée !...
+Non jarniguoi ! ça ne se passera pas comme ça...
+C'est c'te chienne de lettre, tenez.
+Au diable soit M. de La Plume avec son invention, qui fait jeûner les gens.
+Je l'i avons promis le secret ; mais, morgue !
+Je n'en savions pas la conséquence.
+Encore s'il donnait pourboire, là, queuque dédommagement; mais il ne sonne mot et l'on remporte les plats...
+Ah !
+Jarnonbille !
+J'allons tout découvrir à Madame Savon.
+
+**** *book_ *id_I16 *act_I *date_1768
+
+-*who_foulonet
+Ah !
+Mon ami Gilles, que je te trouve à propos sous ma main.
+Dis-moi, queu qu' Mme Savon veut donc dire ?
+Elle a chanté pouille à mon père, elle a dit des sottises à ma mère, et elle veut m'étrangler.
+Moi.
+
+-*who_gilles
+Je l'avions ben dit : c'est la lettre Monsieur de La Plume.
+
+-*who_foulonet
+Réponds-moi, mon ami, et tire-moi de l'embarras, de l'inquiétude où le silence de ton obstination est capable de me plonger.
+
+-*who_gilles
+Écoutez, i' ne tient qu'à moi de vous tirer tout ça zau clair.
+
+-*who_foulonet
+Ah !
+Mon cher Gilles, achève.
+Tiens, prends ma bourse, prends ma fortune ; prends, mon ami.
+V'là le profit de ma dernière semaine.
+Prends-les, et donne-moi queuque consolation dans la douleur de mon affliction.
+
+-*who_gilles
+Ah !
+Monsieur Foulonet, cet argent a les manières trop nobles : on n'y peut pas tenir, vous n'êtes pas fait pour être susplanté par un vilain chiffonneur de papier...
+Mais v'là mam'selle Suzette: je vais vous expliquer tout ça devant elle.
+
+**** *book_ *id_I17 *act_I *date_1768
+
+-*who_suzette
+Non, c'est énutile ; je veux pus entendre parler de mariage.
+
+-*who_foulonet
+Ah !
+Ma chère Suzette !
+
+-*who_suzette
+Comment, monsieur, vous avez la hardiesse d'avoir l'impudence...
+
+-*who_gilles
+Doucement, mem'selle doucement...
+Zun peu de sang-froid.
+Y a ici du quiproquo, et je venais pour vous débrouiller tout ça...
+Vous, monsieur, n'avez-vous pas t'écrit ce matin des lettres ?
+
+-*who_foulonet
+Oui-da, Gilles ; mais comme il m'est survenu zun mal d'aventure au pouce, j'ai prié M. de La Plume de me les écrire.
+
+-*who_gilles
+Eh ben !
+Monsieur, il vous a joué un tour pour faire rompre votre mariage.
+
+-*who_foulonet
+Oh !
+Ciel !
+Est-il possible que ça se puisse.
+
+-*who_suzette
+Tenez, monsieur, la v'là vot' belle lettre.
+Lisez-la: vous y avez peut-être oublié queuque chose.
+
+-*who_foulonet
+Ah !
+Queue trahison !
+Il a changé l'adresse.
+C'te lettre n'était pas pour vous : c'est z'un congé que je donnais tà une autre personne pour ne conserver tout entier tà ma chère Suzette.
+
+-*who_suzette
+Zhélas !
+Puis-je croire ce que vous me dites ?
+
+-*who_foulonet
+Que la foudre !...
+Que les éclairs !...
+Qu'un tremblement !...
+Que cinq cent mille diables !...
+
+-*who_gilles
+Eh !
+Ne jurez pas, je réponds de tout...
+Ce La Plume m'est venu conter ça tout chaud...
+Mais, mais !
+Queulle invention diabolique !
+I' faut, morgue !
+Qui ait l'esprit pus noir que sa bouteille à l'encre.
+
+-*who_foulonet
+Quen scélérat ?
+Sa vie ne tient plus qi un fil !
+
+-*who_suzette
+Arrêtez, cher zamant !...
+Ne vous emportez pas tà des violences qui ne serviraient zà rien.
+Venez-voùs-en plutôt faire entendre raison à ma ch' mère et toute ma famille qui est dans une colère de chien contre vous.
+
+-*who_foulonet
+Vous avez raison, ma chère Suzette, j'aurai toujours le temps de lui couper le nez et les oreilles ; mais, comme dit le proverbe, charité bien ordonnée commence par soi-même.
+
+**** *book_ *id_I18 *act_I *date_1768
+
+-*who_madamesavon
+N'ai-je- pas entendu la voix de c't indigne renégat ?
+
+-*who_foulonet
+Ah !
+Madame, je viens taux pieds dé vot' compassion...
+
+-*who_madamesavon
+Ôte-toi de devant mes yeux, affronteur, enragé, suborneur !
+Retenez-moi, compère ; car, tenez, pour un rien, je déferais un scélérat comme ça.
+
+-*who_theriaque
+Allons, m'ame Savon, allons, remettez vous dans vot' tranquille.
+
+-*who_madamelaiguille
+Fi !
+C'est indigne.
+Vous devriez rougir.
+
+-*who_suzette
+Ah !
+Ma tante.
+
+-*who_foulonet
+Ah !
+Madame, écoutez-moi seulement une parole.
+
+-*who_madamesavon
+Queu qu'tu diras, langue de serpent ?
+Qu'eu qu' tu diras ?
+N'en as-tu pas tassez t'écrit ?...
+Et, Suzette, faut que t'aies ben peu de coeur, après sa lettre.
+
+-*who_suzette
+Ah !
+Ma mère, c'est zune trahison.
+
+-*who_foulonet
+Hélas !
+Oui, madame : rien n'est pus faux.
+Pas vrai, Gilles, tu sais la vérité de ça.
+
+-*who_gilles
+Eh !
+Ventreguenne !
+Oui, not' maîtressé, c'est zun startagème de Monsieur de La Plume, donc que vous avez donné dedans comme une bête.
+
+-*who_foulonet
+Oui, madame : ce matin je l'ai prié d'écrire une lettre pour ma chère Suzette, et une: aut' pour une fille qui voulait m'épouser, mais que je ni tant seulement pas regardée depis que je connais ma chère Suzette.
+Je lui déclarais qu'elle ne devait pas songer zà moi, et ce coquin de La Plume a mis texprès, l'adresse de l'une sur l'aut', et voilà ce qui a fait vot'colère, mais dont je suis tinnocent, et dont je vous en demande mille pardons, à la tendresse de l'amour que j'ai pour vot' chère fille, pour vous, madame ; et pour toute vot' chère et aimable famille.
+
+-*who_suzette
+Ah !
+Ma mère, vous voyez, ça n'est pas sa faute.
+
+-*who_madamelaiguille
+Allons, commère, faut l'i pardonner : pi, ça m'attendrit, que j'en avons la larme à l'oeil.
+
+-*who_theriaque
+Allons, commère, allons, laissez-vous ⁎⁎⁎⁎.
+
+-*who_gilles
+Eh ben !
+Not' maîtresse, irons-je-ti chercher les violons ?
+
+-*who_madamesavon
+Ah !
+Queu scélérat que ce La Plume l' me le payera, ou je ne serons pas Mme Savon ; voyez-vous le serment que je fais...
+Monsieur, puisque vous aimez toujours ma fille, i' gn'y a rien de gâté.
+Gilles !
+Va-t'en ben vite chercher Monsieur et Madame Foulon, ramène-les dans un fiacre, et dis-leux ben que c'est un malentendu ; mais que dans tout çà i' gn'y a pas de quoi fouetter zun chat.
+
+-*who_foulonet
+Ah !
+Madame, vous mettez le comble au bonheur de ma satisfaction.
+
+-*who_gllles
+Eh !
+Voilà Monsieur de La Plume qui monte.
+
+-*who_foulonet
+Ah !
+L'indigne !
+Je vas le mettre à feu et à sang.
+
+-*who_suzette
+Ah !
+Ciel, mon cher zamant, ne vous exposez pas à la trahison d'un traître.
+
+-*who_foulonet
+Ne craignez rien, ma chère Suzette : je vous jure, par l'épée que je porte, que je vas l'y enfoncer la garde au travers du corps.
+
+-*who_madamesavon
+Il a raison, ça ne mérite pas de vivre.
+
+-*who_theriaque
+Sans doute, mais il est plus prudent de prendre les voies de la prudence.
+
+-*who_madamelaiguille
+C'est ben dit : écoulez, mon cher enfant, c'est un vilain ladre : il vaut mieux le prendre par son avarice, ça l'i sera plus sensuel.
+Cachez-vous j'allons l'i faire payer tous les frais de la noce, et quand si sera temps, vous vous montrerez.
+
+-*who_theriaque
+Oui, morbleu !
+À bon chat bon rat !
+Il a voulu vous attraper, il faut qu'il le soit lui-même.
+
+-*who_madamesavon
+Oui, cachez-vous, mon gendre, et laissez-nous mener tout ça.
+
+-*who_foulonet
+Eh bien !
+Mesdames, je remets entre vos mains mon amour et ma vengeance.
+
+**** *book_ *id_I19 *act_I *date_1768
+
+-*who_laplume
+Tout est arrangé, madame : j'ai payé le repas, et voilà le notaire et la musique que je vous amène.
+
+-*who_madamesavon
+Peste !
+C'est affaire à vous, monsieur de La Plume.
+
+-*who_madamelaiguille
+Monsienr a l'air d'un vivant qui ne s'endort pas sur le rôti.
+
+-*who_theriaque
+Il a raison : faut battre le fer quand il est chaud.
+
+-*who_laplume
+Voilà, mam'selle Suzette, une tite paire de bracelets faits des propres cheveux de ma perruque, avec mon chiffre : c'est un petit présent de noce que je vous prie d'accepter.
+
+-*who_suzette
+Monsieur...
+
+-*who_madamesavon
+Prends, prends, ma fille...
+Monsieur est trop honnête, on ne peut rien l'i refuser.
+
+-*who_lenotaire
+Madame, le contrat était tout fait dès tantôt, il n'y avait plus que les noms à remplir ; si vous voulez me les dicter...
+
+-*who_madamesavon
+Avec plaisir : venez ici, monsieur...
+Ma commère, faites compagnie à Monsieur de La Plume en attendant.
+
+-*who_madamelaiguille
+Oui, oui, commère, faites toujours...
+La vérité, Suzette, faut convenir que t'es née coiffée, zavoir trouvé comme ça zun épouseux à point nommé.
+
+-*who_laplume
+C'est moi, madame, qui suis trop heureux que l'occasion m'ait été si favorable : aussi je me suis empressé de la prendre au vol, comme l'on dit.
+
+-*who_theriaque
+Au vol !
+Oui, ma foi, c'est bien trouvé !
+Morbleu !
+Monsieur de La Plume, vous en savez long !...
+
+-*who_madamesavon
+Allons, mes enfants, voilà qui est fait : il n'y a plus qu'à signer.
+À vous, Monsieur de La Plume.
+
+-*who_laplume
+Ah !
+Madame, y a ben longtemps que j'ai tenu la plume pour la première fois, mais je n'ai jamais rien écrit qui m'ait fait tant de plaisir !
+
+-*who_madamelaiguille
+À merveille, monsieur de La Plume.
+V'là qu'est pis qu'un compliment...
+À toi, Suzette..
+Vous, compère, et pis moi....
+Allons, morguenne !
+Y a pus à s'en dédire.
+Êtes-vous payé, monsieur Bonnefoi ?
+
+-*who_lenotaire
+Oui, madame.
+
+-*who_madamelaiguille
+Eh ben !
+Emportez tout ça.
+
+-*who_laplume
+Ah !
+Madame, quel plaisir !
+Quel bonheur !...
+Allons, violons, voilà de quoi boire.
+Jouez-nous toujours un menuet, nous allons danser en attendant le repas.
+
+-*who_madamesavon
+C'est ben pensé : de la joie, mes amis.
+Allons, Suzette, faut commencer le bal avec mon gendre.
+
+-*who_laplume
+De tout mon coeur ; mais je vous retiens pour mon second, m'ame Savon.
+
+**** *book_ *id_I20 *act_I *date_1768
+
+-*who_foulonet
+Zun instant, mon cher monsieur de La Plume.
+Chacun à son tour : vous avez fait le mariage pour moi et maintenant je vas danser pour vous.
+
+-*who_laplume
+Comment ?
+Que voulez-vous dire !
+
+-*who_gilles
+Ah !
+Monsieur de La Plume, vous arrivez trop tard : vous êtes le plus habile à mettre les adresses, mais pour les contrats, vous n'y entendez rien.
+
+-*who_laplume
+Qu'est-ce que cela signifie ?
+
+-*who_madamesavon
+Ça signifie que vous avez signé pour témoin, vous, mais qu'v'là l'épouseux.
+
+-*who_laplume
+Comment donc, Gilles !...
+
+-*who_gilles
+Hélas !
+Oui.
+J'ons découvert le pot au noir.
+
+-*who_laplume
+Ah !
+Ventrebleu !
+
+-*who_foulonet
+De la modération, monsieur de La Plume : avalez ça en douceur, ou sinon...
+
+-*who_madamelaiguille
+Oui-da, vous v'là tout porté.
+Si vous voulez t'être de la noce, vous aurez toujours la jartière de la mariée, c'est toujours ça.
+Pas vrai donc, Monsieur Thériaque ?
+
+-*who_theriaque
+Sans doute.
+Et si c'te cérémonie-là vous fait mal au coeur, je vous donnerai encore une petite médecine par-dessus le manche.
+Dame !
+Tout ça fait ben intérêt de vot' argent.
+
+-*who_laplume
+Morbleu !
+Je mérite ça.
+Grand merci, messieurs et dames, et vot' serviteur...
+C'est à toi que j'ai l'obligation de ça, mon ami Gilles !
+
+-*who_gilles
+Eh ben !
+Not' maître, payez-nous pendant que vous êtes en train.
+
+-*who_laplume
+Je n'ai pas d'argent sur moi, mais si jamais je te rencontre, maraud, je te promets vingt coups de bâton.
+
+-*who_gilles
+Eh !
+Je ne sommes pas intéressé.
+Prenez ne je vous ayons servi gratis.
+
+-*who_madamesavon
+Allons, mes enfants, divertissons-nous, et que Monsieur de La Plume nous apprenne que la tricherie et revient toujours à son maître.

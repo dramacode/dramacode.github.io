@@ -1,0 +1,471 @@
+
+
+**** *book_ *id_I01 *act_I *date_1720
+
+-*who_gilles
+Pardienne, je suis tombé cheux un bon maître, ou plutôt cheux une bonne maîtresse ; car Mamselle z'Isabelle porte les culottes : il est vrai qu'elle n'en use pas pour une paire, mais que m'importe à moi ?
+Monsieur Cassandre, son bon homme de mari, z'est plus que content.
+Elle est généreuse, elle m'a donné avant hier une vieille écritoire, l'autre jour un vieux chauffe-pied pour mettre mes sabots, hier un peigne, et aujourd'hui six paires de ses vieux souliers, du pain d'épice, un sifflet de bouys, une cuillere de bois, et plus de trente chansons nouvelles du Pont-Neuf, et j'ai toujours ma soupe toute pleine de choux.
+Pardienne tout cela z'est bien joli, et pourquoi faire ?
+Pour dire à Monsieur le Chanoine que Mamselle n'y est pas quand elle est avec Monsieur Liandre ; pour dire à Monsieur Liandre qu'elle est sortie quand Monsieur le Chanoine est dedans, et puis pour ne rien dire de tout cela à Monsieur Cassandre.
+Oh Dame !
+Cela n'est pas bien difficile, ça ne me fatigue pas beaucoup, aussi je suis plus gras que notre défunt cochon.
+Mais notre Demoiselle m'a dit de tout écouter, et de lui tout dire.
+Voilà deux parents de notre vieux maître ; écoutons sans faire semblant de rien leur conversation.
+
+**** *book_ *id_I02 *act_I *date_1720
+
+-*who_picotin
+En vérité, Monsieur Cassecroute, je n'y puis plus tenir.
+
+-*who_cassecroute
+Comment donc ?
+Qu'est-ce que c'est donc que vous avez ?
+
+-*who_picotin
+Et je viens pour avertir Monsieur Cassandre qu'il est un sot, et qu'il se laisse mener par le nez par sa femme.
+
+-*who_cassecroute
+Dame, c'est peut-être qu'elle ne peut pas le mener par autre chose ; je viens aussi lui parler sur sa coiffure.
+
+-*who_picotin
+Vous voulez sans doute lui parler de Monsieur Liandre.
+
+-*who_cassecroute
+Oh que nenni : je viens l'avertir que Monsieur le Chanoine est son aide-de-camp.
+
+-*who_picotin
+Oui-da, voyez-vous, nous ne sommes que deux, et j'en connaissons deux.
+
+-*who_cassecroute
+Si j'étions quatre, vous verriez, j'en connaîtrions quatre.
+
+-*who_picotin
+Mais savez-vous qu'il faut mettre ordre à ça, et que nous n'avons jamais eu de cocus dans notre famille.
+
+-*who_cassecroute
+Pour moi je suis bien résolu de l'avertir de tout ce qui se passe.
+
+-*who_picotin
+Mais comme ceci t'est un conseil de famille, et qu'il ne faut rien faire à la légère, allons boire chopine ici près chez le cousin du coin.
+
+-*who_cassecroute
+J'y consens, ça nous donnera toujours du courage ; il faudrait y mener le cousin Cassandre, car on dit qu'un verre de vin avise son homme.
+
+-*who_picotin
+Oh, mordié !
+Il ne boit donc que de l'eau, car il n'est guere avisé.
+
+**** *book_ *id_I03 *act_I *date_1720
+
+-*who_gilles
+Pardienne, venez donc vite notre Demoiselle.
+
+-*who_isabelle
+Quoi donc ?
+Qu'y a-t-il de si pressé ?
+Est-ce que le feu est à la chiminée ?
+
+-*who_gilles
+Non.
+
+-*who_isabelle
+Est-ce que le vin s'enfuit ?
+
+-*who_gilles
+Oh que nenni.
+
+-*who_isabelle
+Mais dis donc si tu veux, car tu m'impatientes.
+
+-*who_gilles
+Vous connaissez bien Monsieur chose ?
+
+-*who_isabelle
+Qui ?
+
+-*who_gilles
+Et là, Monsieur chose, le chose, parent de votre chose.
+
+-*who_isabelle
+Hé, mon Dieu !
+Que de choses.
+
+-*who_gilles
+Monsieur Picotin.
+
+-*who_isabelle
+Qui le Savetier ?
+
+-*who_gilles
+Oui lui-même.
+Et Monsieur chose, Monsieur Cassecroute, le chose.
+
+-*who_isabelle
+L'Ecureux de puits ?
+
+-*who_gilles
+Oui les cousins de votre chose.
+
+-*who_isabelle
+Allons après, les cousins de mon mari ?
+
+-*who_gilles
+Hé bien ils savont tout.
+
+-*who_isabelle
+Comment tout ?
+
+-*who_gilles
+Oui.
+L'un a parlé du Chanoine, l'autre de Monsieur chose, de Monsieur Liandre.
+
+-*who_isabelle
+Ils n'ont parlé que de Liandre et du Chanoine ?
+
+-*who_gilles
+Est-ce qu'il n'y en a pas t'assez ?
+
+-*who_isabelle
+Ce n'est pas ça, quoique ça pourrait bien être.
+Mais les as-tu bien entendus ?
+
+-*who_gilles
+Comment il est vrai que vous l'avez fait.
+
+-*who_isabelle
+Hé bien que disaient-ils encore ?
+
+-*who_gilles
+Dame, ils voulont avertir Monsieur Cassandre que vous le menez par le nez, ne pouvant le mener par ailleurs, qu'ils n'ont jamais eu de choses dans leur famille ; enfin finale sur cela, ils sont allez boire chopine.
+
+-*who_isabelle
+Est-ce là tout z'encore une fois ?
+
+-*who_gilles
+Est-ce que n'en vla pas t'assez ?
+Hé bien qu'allez-vous faire ?
+
+-*who_isabelle
+Moi !
+Je m'en vas le dire à Monsieur Cassandre.
+
+-*who_gilles
+Pardienne prenez garde à vous, il ne faut pas parler de chose dans la maison d'un chose.
+
+-*who_isabelle
+Ne vois-tu pas que quand je l'aurai instruit, ils ne lui apprendront rien.
+
+-*who_gilles
+Cela z'est encore vrai.
+
+-*who_isabelle
+Mais je te suis bien obligée.
+Va-t'en boire un reste de bouteille que tu trouveras dans l'armoire, et que je gardais pour mon souper.
+
+-*who_gilles
+Pardienne, j'y vais.
+Il y a toujours quelque chose à gagner avec les femmes.
+
+-*who_isabelle
+Va-t'en, te dis-je, car voilà Monsieur Cassandre qui vient par ici, et je lui veux parler.
+
+-*who_gilles
+Ce n'est pas là le bon chose.
+
+**** *book_ *id_I04 *act_I *date_1720
+
+-*who_cassandre
+Bonjour ma pouponne ; qu'avez-vous donc ?
+Vous me paroissez toute triste.
+
+-*who_isabelle
+Je n'ai rien.
+
+-*who_cassandre
+Vous me pardonnerez, mignonne, la mélancolie vous afflige ; avez-vous quelque chose de caché pour votre petit mari ?
+
+-*who_isabelle
+Je crains que vous n'ayez pas assez d'amitié pour moi.
+
+-*who_cassandre
+Mon Dieu je n'ai de bonheur bien heureux que depuis nos épousailles.
+
+-*who_isabelle
+Vous savez si l'on peut z'être plus contente que moi, depuis que l'hymenée nous réunit.
+
+-*who_cassandre
+Cela z'est vrai, ma charmante, mais pourquoi donc me paraissez-vous t'en inquiétude ?
+
+-*who_isabelle
+C'est qu'il y a des mâtins dans le monde qui voulont nous brouiller.
+
+-*who_cassandre
+Qui sont-ils ces chiens-là, cesiInfidèles, ces turcs ?
+
+-*who_isabelle
+Oh !
+Je ne veux pas vous les nommer.
+
+-*who_cassandre
+Nommez, nommez toujours, mon adorable.
+
+-*who_isabelle
+Non ferai, car je ne veux pas vous fâcher.
+
+-*who_cassandre
+Hé bien je ne fâcherai pas.
+
+-*who_isabelle
+Vous leur direz peut-être, et puis je vous aurAis brouillé avec vos parens, et puis l'on se gourme, l'on se chamaille, et l'on s'en prend à sa femme que l'on traite de causeuse.
+
+-*who_cassandre
+Hé bien, foi de Cassandre, je ne ferai rien de tout ça.
+
+-*who_isabelle
+Hé bien, car je ne puis rien avoir de secret pour mon cher z'époux, hé bien donc, Monsieur Picotin et Monsieur Cassecroute sont fâchés que je le porte plus beau que leurs femmes, car vous voyez toujours comme je suis mise ; ils ont dit à par t'eux, comment ferons-nous pour lui faire tort ?
+Il faut la brouiller avec son mari, ont-ils dit tous deux.
+
+-*who_cassandre
+Hé bien ?
+
+-*who_isabelle
+Hé bien se font-ils, il faut dire à Monsieur Cassandre que sa femme l'a rendu sot ; voyez, mon cher mari, si je n'ai pas raison d'avoir le visage triste.
+
+-*who_cassandre
+Ah les méchants !
+Attaquer ainsi l'honneur d'une femme si pleine de modestie et d'honnêteté.
+
+-*who_isabelle
+Hélas vous savez comme je me comporte ; il est bien dur de se refuser tout comme je le fais, et d'être traitée de vergogne.
+
+-*who_cassandre
+Hé, la, la, consolez-vous, mon incomparable, je vous connais si bien.
+
+-*who_isabelle
+Non, je n'en puis rien faire, ce n'est pas encore tout, ils ne s'en sont pas tenus là.
+
+-*who_cassandre
+Quoi donc !
+Qu'ont-ils fait ?
+
+-*who_isabelle
+Ils avons dit que ce n'est pas tout que de dire comme ça ; il faut nommer queuxques-uns.
+
+-*who_cassandre
+Hé bien qu'ont-ils nommé ?
+
+-*who_isabelle
+Il faut chercher, se font-ils entr'eux, ceux qui habitent le plus chez elle ; le Chanoine par exemple.
+
+-*who_cassandre
+Ah, ah, le Chanoine !
+Ils sont ma foi bien avisés.
+
+-*who_isabelle
+Vous savez s'il sait troubler l'eau qu'il boit ; de plus sans vous je ne le connoîtrais pas, c'est vous qui l'avez mené à la maison.
+
+-*who_cassandre
+Cela est tout vrai, mais puisqu'ils le prennent par-là, si je ne l'avais pas amené, j'irais le chercher tout-à-l'heure, et j'y vas.
+
+-*who_isabelle
+Non, il n'est pas nécessaire, mon cher époux, et je ne veux plus le voir.
+
+-*who_cassandre
+Parbleu vous le verrez, c'est la joie de notre maison, il est tout-à-fait jovial.
+
+-*who_isabelle
+Il faut bien qu'une honnête femme obéisse à son mari.
+
+-*who_cassandre
+Sans doute, pardi, voilà de drôles de gens ; et qu'ont-ils dit encore ?
+
+-*who_isabelle
+Il en faut encore un, avons-t-ils continué, afin de les brouiller plus fort.
+Nommons, avont-ils dit, Monsieur Liandre.
+
+-*who_cassandre
+Ah !
+Celui-là n'est pas mauvais, le meilleur de tous mes amis.
+Mais sais-tu bien, ma mignonne, que si je ne te voyais pas triste, je rirais comme un fou, car ça est trop plaisant, Monsieur Liandre.
+Hé bien ?
+
+-*who_isabelle
+Voilà ce qu'ils ont arrêté de vous dire, et qu'ils vous ont peut-être déjà dit.
+
+-*who_cassandre
+Non fait, ma foi.
+Mais qu'ils y viennent, ils verront beau jeu.
+Va, si ce n'est que ça qui t'afflige...
+
+-*who_isabelle
+Mais qu'est-ce qu'une femme a de plus cher que son cher honneur ?
+Savez-vous bien que j'aimerais mieux l'avoir fait, et qu'on ne le dit point ?
+
+-*who_cassandre
+Allez, ma mignonne, consolez-vous.
+Je suis le plus avantagé mari par la fortune qui m'a donné une femme si sage.
+Donne-moi, Isabelle, un petit baiser d'amour.
+
+-*who_isabelle
+Tenez.
+Mais je les vois venir ces méchants dont je vous parle.
+Je rentre, car leurs regards me suffoquent.
+
+-*who_cassandre
+Vous faites bien, ma mignonne, je vais bientôt vous retrouver.
+
+**** *book_ *id_I05 *act_I *date_1720
+
+-*who_cassecroute
+Bonjour notre bon parent Cassandre.
+
+-*who_cassecroute
+Bonjour, bonjour, Monsieur Picotin.
+
+-*who_pictoin
+Nous étions gros de vous voir.
+
+-*who_cassandre
+Cette grossesse ne vous durera pas longtemps.
+
+-*who_cassecroute
+Nous avons bien des choses à vous dire, car nous vous aimons beaucoup.
+
+-*who_picotin
+Nous n'avons bu rien que chopine chacun, pour vous le prouver plus promptement.
+
+-*who_cassandre
+Messieurs mes bons parents, je ne doute pas de vos bonnes intentions ; mais de quoi s'agit-il ?
+
+-*who_picotin
+Il s'agit de vous assurer que vous n'avez pas de meilleurs amis que nous deux.
+
+-*who_cassecroute
+Oui nous deux nous sommes vos bons parents.
+
+-*who_cassandre
+Enfin finale, de quoi s'agit-il ?
+
+-*who_picotin
+Nous n'avons rien de plus cher que l'honneur voyons-nous.
+
+-*who_cassandre
+Il faut qu'il soit bien cher, car il est bien rare, n'est-ce pas ?
+
+-*who_cassecroute
+Pour ça oui, et nous venons vous avertir de prendre garde au vôtre.
+
+-*who_picotin
+Oui, c'est ce qui nous amène.
+
+-*who_cassandre
+Voyons donc où il est mon honneur.
+
+-*who_picotin
+Il est mal placé.
+
+-*who_cassandre
+Cela n'est pas vrai, il est fort bien placé.
+
+-*who_cassecroute
+Puisque l'on ne peut pas se faire entendre, apprenez que vous êtes cocu.
+
+-*who_cassandre
+Cela est bientôt dit.
+
+-*who_picotin
+Et tout aussitôt fait.
+
+-*who_cassandre
+Enfin je suis donc cocu.
+Comment cela je vous prie, et par où ?
+
+-*who_cassecroute
+Par où !
+Pardi celui-là est bon, demandez-le à votre charmante z'Isabelle.
+
+-*who_cassandre
+Je voulais demander par qui, et la langue m'a fourché.
+
+-*who_picotin
+Je voudrais qu'il n'y eut que cela qui fourchât chez vous, car enfin je ne sommes pas accoutumés à ça dans la famille.
+
+-*who_cassandre
+Mais pour vous mettre à votre aise, Messieurs mes bons parents et amis, je m'en vas vous le dire moi.
+Un certain Chanoine, un certain Monsieur Liandre.
+
+-*who_picotin
+Vous y voilà.
+
+-*who_cassecroute
+Vous pensez juste.
+
+-*who_cassandre
+Oui vous croyez cela ?
+
+-*who_picotin
+Nous n'en doutons point.
+
+-*who_cassecroute
+Je venons exprès pour vous le dire.
+
+-*who_cassandre
+Eh bien le Chanoine est ma consolation, et Monsieur Liandre est mon bon ami.
+
+-*who_picotin
+Elle ne dirait pas mieux au moins, vela comme elle parle.
+
+-*who_cassandre
+Non, Dieu me damne, je parle au nom de Monsieur Cassandre ; mais comme mes bons amis ne sont pas ici, je vais vous entretenir pour eux, et je les prierai d'en faire autant.
+
+**** *book_ *id_I06 *act_I *date_1720
+
+-*who_cassandre
+Les voilà donc partis ces insolents, ces méchants, qui veulent faire tort à un honneur comme celui-là d'Isabelle.
+Hola Gilles.
+
+**** *book_ *id_I07 *act_I *date_1720
+
+-*who_gilles
+Monsieur.
+
+-*who_cassandre
+Appelles un peu ma charmante z'Isabelle, et puis va-t'en prier mes amis le Chanoine et Monsieur Liandre, de me faire la consolation et le plaisir de souper ce soir avec moi.
+
+-*who_gilles
+Vous n'avez que l'ordinaire pour eux, n'est pas deux grands gigots avec une grande entrée ?
+
+-*who_cassandre
+Non, je n'ai que ça, mais ils s'en accommodent assez souvent.
+
+-*who_gilles
+J'y vais.
+Taye notre maîtresse, voilà nôte maître qui vous le demande.
+
+**** *book_ *id_I08 *act_I *date_1720
+
+-*who_isabelle
+Que voulez-vous, mon cher époux ?
+
+-*who_cassandre
+Vous conter comment j'ai épousseté ces bons coquins de parents.
+
+-*who_isabelle
+N'en prenez pas la peine, j'ai tout vu par le trou de l'évier.
+
+-*who_cassandre
+N'êtes-vous pas contente de moi ?
+
+-*who_isabelle
+Je suis charmée de la douceur, et de l'assurance de mon cher époux.
+
+-*who_cassandre
+Sans doute, j'ai peut-être la femme de Paris la plus sage et la plus réservée.
+
+-*who_isabelle
+Comptez, mon cher époux, que je la serai toujours de même.
+
+-*who_cassandre
+Allons tout préparer pour recevoir nos amis.
+Messieurs, croyez-moi, faites-en tout autant ce soir cheux vous.

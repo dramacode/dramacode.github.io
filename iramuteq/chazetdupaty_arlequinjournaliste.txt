@@ -1,0 +1,2227 @@
+
+
+**** *book_ *id_I01 *act_I *date_1797
+
+-*who_lesdeuxcolporteurs
+Achetez du nouveau !
+Achetez !
+
+-*who_premiercolporteur
+Ah !
+C'est toi ?
+Allons, courons, amis, courons,
+La vitesse est utile.
+Plus nous irons, plus nous vendrons.
+Courons d'un pas agile
+Pour vendre nos journaux ; courons,
+Courons toute la ville,
+Courons,
+Courons toute la ville.
+
+-*who_secondcolporteur
+Pour tous les goûts j'ai des journaux,
+Ainsi que des nouvelles ;
+Car nous savons faire à propos
+De nouvelles nouvelles,
+Et même nous donnons jusqu'aux,
+Jusqu'aux vieilles nouvelles,
+Jusqu'aux,
+Jusqu'aux vieilles nouvelles.
+
+-*who_premiercolporteur
+Prônons bien fort tous nos journaux,
+Déjà plus d'un chancelle ;
+Je crains surtout pour les nouveaux...
+Dans la saison nouvelle,
+On voit souvent tomber jusqu'aux,
+Jusqu'aux feuilles nouvelles,
+Jusq'aux,
+Jusqu'aux feuilles nouvelles.
+
+-*who_secondcolporteur
+Voici du nouveau ; achetez !
+
+-*who_premiercolporteur
+Les tiens ne sont pas bons.
+
+-*who_secondcolporteur
+Les tiens ne valent rien.
+
+-*who_premiercolporteur
+Les tiens sont mauvais.
+
+-*who_lesdeuxcolporteurs
+Je te dis que si ; je te dis que non...
+Achetez !....
+Achetez !...
+
+-*who_premiercolporteur
+Voici l'étonnante Trompette,
+
+-*who_secondcolporteur
+Qui ne fait pas le moindre bruit.
+
+-*who_premiercolporteur
+Puis, voici l'écho....
+
+-*who_secondcolporteur
+      Qui répète
+Ce que personne n'a dit. (bis.)
+
+-*who_premiercolporteur
+L'Observateur !
+
+-*who_secondcolporteur
+      Qui n'y voit goutte.
+
+-*who_premiercolporteur
+La Balance !
+
+-*who_secondcolporteur
+      Un peu de côté.
+
+-*who_premiercolporteur
+Le Tableau !
+
+-*who_secondcolporteur
+      Ce n'est qu'une croûte.
+
+-*who_premiercolporteur
+Et le Postillon !
+
+-*who_secondcolporteur
+      Mal monté. (bis.)
+
+-*who_premiercolporteur
+J'ai le Courrier....
+
+-*who_secondcolporteur
+      Qui reste en place.
+
+-*who_premiercolporteur
+Le Fanal !
+
+-*who_secondcolporteur
+      Il est un peu noir.
+
+-*who_premiercolporteur
+J'ai le Thermomètre !
+
+-*who_secondcolporteur
+      À la glace.
+
+-*who_premiercolporteur
+Le Point du Jour !
+
+-*who_secondcolporteur
+      Qu'on voit le soir. (bis.)
+
+-*who_premiercolporteur
+Le Mercure !
+
+-*who_secondcolporteur
+      Qui bat d'une aile.
+
+-*who_premiercolporteur
+L'Esprit des Journaux !
+
+-*who_secondcolporteur
+      Sans esprit.
+
+-*who_premiercolporteur
+Puis, le Rapporteur !
+
+-*who_secondcolporteur
+      Peu fidèle.
+
+-*who_premiercolporteur
+Enfin l'Acquéreur !
+
+-*who_secondcolporteur
+      Sans crédit. (bis).
+
+-*who_premiercolporteur
+Journaux à peine connus ; parlons des miens....
+D'abord mon journal,
+C'est l'Original :
+Je vends aussi des Chroniques.
+J'ai l'Indicateur,
+J'ai le Narrateur.
+
+-*who_secondcolporteur
+Et combien de Véridiques ?
+
+-*who_premiercolporteur
+Je n'en ai plus.... mais....
+J'ai le Frondeur !
+Quel Raisonneur,
+Ah ! peste !
+Le Babillard !
+C'est un gaillard
+Fort leste.
+Puis l'Avertisseur.....
+Encore un menteur !...
+Venez m'acheter mon reste....
+
+-*who_lesdeuxcolporteurs
+Achetez, voilà du nouveau !...
+
+**** *book_ *id_I02 *act_I *date_1797
+
+-*who_lecolporteur
+Il faut que j'avertisse une petite demoiselle qui m'achète régulièrement l'Original...
+Mamzelle ma pratique ?
+
+-*who_delphine
+C'est vous !
+Je descends....
+
+**** *book_ *id_I03 *act_I *date_1797
+
+-*who_lecolporteur
+C'est une jolie personne et de considération que cette pratique-là, mamzelle Delphine La Ronde, fille d'un écrivain public !
+V'là ce qui s'appelle une famille conséquente dans un quartier !
+Son père vous a une fière main !
+
+**** *book_ *id_I04 *act_I *date_1797
+
+-*who_lecolporteur
+Mamzelle !
+V'là le journal ; il est tout frais.
+
+-*who_delphine
+Eh bien !
+Comment va la vente ?
+
+-*who_lecolporteur
+Ah !
+Tout doucement, mamzelle !
+Nous ne sommes dans le métier que depuis la paix.
+Ah !
+Que n'y étions nous pendant la guerre....
+Jarni !
+Alors j'aurions vendu bien mieux,
+Comme vous pouvez croire.
+Partout de nos combats fameux
+On achetait l'histoire ;
+Et spéculant sur les exploits
+Des enfants de la gloire ;
+J'aurions fait fortune en trois mois
+À deux sous par victoire.
+D'ailleurs, la vente dépend de tant de choses !...
+
+-*who_delphine
+De quoi ?
+
+-*who_lecolporteur
+Du temps qui fait, et puis du titre...
+Quand il y a de grands événements, de grands décrets, not'bourgeois dit qu'il y a du gain.
+Oh !
+Le titre, v'là le principal ; et quand j'en trouvons un bon, je le commandons, queuquefois, pour le lendemain...
+C'est ça qui fait tout...
+Vous ne voulez pas d'autres journaux ?
+
+-*who_delphine
+Celui-là seul m'intéresse.
+
+-*who_lecolporteur
+Adieu, mamzelle !
+V'là du nouveau !
+Achetez l'Original !...
+
+**** *book_ *id_I05 *act_I *date_1797
+
+-*who_arlequin
+C'est pourtant Arlequin qui fait ce journal ; et pourquoi ?
+Parce qu'il sait que mon père ne veut me donner qu'à un homme de lettres.
+Du choix brillant qu'on me destine,
+Jaloux de mériter l'honneur ;
+Pour avoir sa chère Delphine,
+Mon Arlequin s'est fait auteur.
+À ses prompts succès je dois croire,
+Puisque je le vois en ce jour
+Suivre le sentier de la gloire,
+Pour voler au temple d'Amour.
+Il réussira, mon Arlequin, pourvu que Monsieur Gilles n'aille pas l'emporter sur lui auprès de mon père.
+
+**** *book_ *id_I06 *act_I *date_1797
+
+-*who_arlequin
+Depuis vingt-quatre mortelles heures, je n'ai pas vu ma bonne amie, ma chère Delphine !...
+J'ai mis tout mon esprit dans le numéro d'hier ; et si je ne la vois pas aujourd'hui !
+Ah !...
+
+-*who_delphine
+Ah !...
+
+-*who_arlequin
+Bonjour, ma bonne amie : tu tiens déjà le journal ?...
+
+-*who_delphine
+Il est charmant.
+Comment fais-tu donc ?...
+
+-*who_arlequin
+C'est un petit revenant - bon de notre amour.
+Je t'aime, et me voilà tout de suite un homme....
+Oui, un homme de mérite...
+Pourtant ton monsieur père, qui a des préjugés, ne veut pas que sa fille épouse Arlequin, parce qu'il prétend que je n'ai rien....
+Il a tort.
+Il faut avoir quelque chose,
+C'est la loi que l'on impose
+À ton futur époux.
+J'ai ton amour : or donc, entre nous,
+Je sens que j'ai quelque chose. (ter.)
+
+-*who_delphine
+Mon cœur est bien à toi ; mais en sommes-nous plus avancés ?
+Qu'y gagnes-tu ?
+
+-*who_arlequin
+Comment, mademoiselle, ce que j'y gagne !
+D'abord, en gagnant ton amour,
+J'ai bien gagné, ma chère ;
+Mon esprit gagne chaque jour,
+En gagnant l'art de plaire.
+Ma plume gagne en écrivant ;
+Et je pourrai, j'espère,
+Gagner, en gagnant de l'argent,
+L'aveu de ton cher père.
+
+-*who_delphine
+Mais ta fortune s'accroît-elle autant que notre amour ?...
+
+-*who_arlequin
+Pas si vite...
+Attendu que Monsieur Gilles est le propriétaire de la propriété du journal, et que je n'en suis que le rédacteur.
+
+-*who_delphine
+C'est pourtant toi qui fais tout.
+
+-*who_arlequin
+Gilles a fourni tout l'argent...
+
+-*who_delphine
+Ne fournis-tu pas tout l'esprit ?...
+
+-*who_arlequin
+Sur ce point-là, Monsieur Gilles ne peut pas faire de fonds ; je suis un auteur pauvre, vois-tu ?...
+Mais lui, il ne serait jamais qu'un pauvre auteur...
+Ce n'est pas qu'il ne t'aime.
+Oh ça !...
+Mais ce n'est pas d'aimer qui donne de l'esprit ; au contraire, ça rend bête....
+Ce qui en donne c'est d'être aimé : aussi...
+Dans tes yeux j'ai puisé l'esprit :
+Le doux regard d'une maitresse,
+Quand c'est le bonheur qu'on y lit,
+Donne du trait, de la finesse.
+Mais au moins....
+Si l'esprit se prend dans tes yeux,
+Lorsque l'on y voit sa conquête,
+Près de toi, que Gille amoureux
+Ne cesse jamais d'être bête...
+Près de toi, que Gille amoureux
+Ne cesse jamais d'être bête...
+
+-*who_delphine
+Va, sois sûr que Gille amoureux
+Près de moi sera toujours bête.
+Va, sois sûr que Gille amoureux
+Près de moi sera toujours bête.
+
+-*who_arlequin
+Tu m'enchantes !...
+Malheureusement je n'ai encore acquis que de l'honneur, et cela ne suffit pas...
+
+-*who_delphine
+J'entends, je crois, mon père,
+
+-*who_arlequin
+Je viendrai un jour le surprendre avec un gros sac d'écus, et nous verrons s'il résistera à mes bonnes qualités....
+Adieu, ma chère Delphine !
+
+-*who_delphine
+Rentre....
+
+-*who_arlequin
+Adieu...
+Adieu, ma charmante Ronde, ma petite bonne amie...
+
+-*who_delphine
+Pars donc....
+Le voici....
+
+**** *book_ *id_I07 *act_I *date_1797
+
+-*who_laronde
+Que faites-vous là ?...
+
+-*who_delphine
+Je viens d'acheter le journal.
+
+-*who_laronde
+Et moi, je vais le lire.
+Bonne lecture,
+De tout un journal met au fait.
+Plus d'un nouveau riche figure,
+Sans jamais, peut être, avoir fait
+D'autre lecture.
+Rentrez...
+
+-*who_delphine
+Déjà...
+
+-*who_laronde
+Je vous devine.
+Vous ne cherchez à sortir que pour voir, Monsieur Arlequin...
+Je vous déclare que je ne souffrirai ni cet amour ni ce mariage...
+
+-*who_delphine
+Mais...
+
+-*who_laronde
+La fille de Monsieur de La Ronde, expert dans les vérifications, ci-devant syndic de la communauté des écrivains, n'est pas faite pour épouser un homme sans état, sans fortune : cependant je veux faire ton bonheur.
+Je te promets, ma chère,
+Mari
+Choisi,
+De sorte à te plaire,
+Et digne de ton père ;
+Fameux par ses écrits,
+Ses récits,
+Son esprit,
+Son crédit.
+Songe qu'un écrivain
+En gros ainsi qu'en fin,
+Qui fait, pour tout le monde,
+Billets,
+Placets,
+En bâtarde, en ronde,
+Ne peut, sans qu'on le fronde,
+Pour l'honneur du métier,
+S'allier
+Qu'à des gens
+À talents.
+Aussi je te destine au propriétaire de ce journal.
+Cet homme, à en juger par son ouvrage, est ce qu'il me faut.
+
+-*who_delphine
+Ciel !...
+
+-*who_laronde
+Je ne le connais pas, parce qu'il garde l'anonyme ; mais je le découvrirai ; et s'il veut de toi, c'est arrangé...
+Monte.
+
+-*who_delphine
+Voulez-vous d'abord que je vous aide à ouvrir votre boutique ?
+
+-*who_laronde
+Qu'appellez-vous, ma boutique ?...
+Apprenez que la boutique d'un homme de lettres est un bureau...
+Mettons-nous à l'ouvrage.
+
+**** *book_ *id_I08 *act_I *date_1797
+
+-*who_arlequin
+St, st, est-il parti ?.....
+
+-*who_delphine
+Vite, deux mots.
+
+-*who_arlequin
+Quoi !
+
+-*who_delphine
+On me destine au propriétaire de ton journal....
+
+-*who_arlequin
+Ah !
+Sangodémi, je n'en suis que le rédacteur.
+
+-*who_delphine
+Que faire ?
+
+-*who_arlequin
+Sait-on que Gilles est le propriétaire ?
+
+-*who_delphine
+Non.
+
+-*who_arlequin
+Tant mieux ; il me vient une idée.
+
+-*who_delphine
+Comment !
+
+-*who_arlequin
+Je veux...
+
+-*who_delphine
+Paix.
+Il ouvre....
+
+-*who_laronde
+Encore ici ?
+Vous attendez sûrement que Monsieur Arlequin vienne...
+
+-*who_delphine
+Il ne viendra pas....
+
+-*who_arlequin
+Il est tout venu...
+Il ne sait pas que je suis là.
+
+-*who_laronde
+Montez donc...
+
+-*who_delphine
+Je prends l'air.
+
+-*who_arlequin
+Oui, l'air du bureau...
+
+-*who_laronde
+Vous prenez l'air ? Ah ! J'y consens ;
+Mais l'air est malsain dans la rue.
+
+-*who_delphine
+C'est qu'en ces lieux, en même-temps,
+On a le plaisir de la vue...
+
+-*who_laronde
+Ah !
+Vous voulez prendre l'air et voir tout-à-la-fois.
+Montez, je sais ce qu'il vous faut ;
+Vous satisfaire est chose aisée.
+On peut, en prenant l'air là-haut,
+Tout voir par la croisée.
+On peut, en prenant l'air là-haut,
+Tout voir par la croisée.
+
+-*who_arlequin,delphine
+Montons, nous pourrons de là-haut,
+Tout voir par la croisée.
+Montons, nous pourrons de là-haut,
+Tout voir par la croisée.
+
+-*who_delphine
+J'obéis.
+
+-*who_arlequin
+Je monte aussi.
+
+-*who_laronde
+Allez, vous serez plus commodément à la fenêtre.
+
+-*who_arlequin
+Voilà ce qui s'appelle des attentions !...
+Un père qui est aux petits soins.
+
+**** *book_ *id_I09 *act_I *date_1797
+
+-*who_laronde
+Grâce à Dieu, mon état devient meilleur de jour en jour ; je n'y puis plus suffire.
+Tout le jour à travailler
+Se passe et se consume ;
+A peine, dans mon métier,
+Ai-je le tems de tailler
+Ma plume.
+Ma plume.
+Ma plume.
+Ce sont les pétitions surtout qui me font du bien : je vis de pétitions.
+Celui qui ne possède rien,
+Se plaint d'un si mince partage ;
+Un autre a-t-il un peu de bien,
+Il veut en avoir davantage.
+Aussi près de nos comités,
+Des postulants la foule est grande ;
+On demande de tous côtés,
+Et voilà... ce que je demande.
+Examinons nos papiers.
+
+**** *book_ *id_I10 *act_I *date_1797
+
+-*who_gilles
+C'est donc ici qu'habite la maison de mademoiselle La Ronde, et cependant je ne puis jamais lui parler...
+Elle vous a une manière si singulière de vous regarder... qu'aussitôt que je m'approche d'elle, je n'ai plus la parole à la main...
+Écrivons-lui...
+Écrire !
+C'est fort bien ; mais c'est que je ne suis fort ni sur l'écriture, ni sur l'orthographe...
+Comment faire !...
+Pardi !
+Adressons nous à monsieur son père, qui est au fait de ça...
+Voyons, je m'en vais lui dicter,
+Pour sa fille, un billet bien tendre ;
+Il ne pourra pas se douter
+Du piège que je vais lui tendre.
+D'ailleurs, moi, puisque chacun dit
+Que c'est par les lettres qu'il brille,
+Je veux voir comment il écrit
+Les lettres de famille.
+Monsieur !
+
+-*who_laronde
+Monsieur !
+
+-*who_gilles
+Vous êtes écrivain ?
+
+-*who_laronde
+Mon enseigne le dit.
+
+-*who_gilles
+Vous écrivez de tout ?
+
+-*who_laronde
+Généralement.
+
+-*who_gilles
+Tous les genres ?
+
+-*who_laronde
+Quelconques.
+
+-*who_gilles
+Je vous demanderai un billet doux.
+
+-*who_laronde
+Volontiers.
+
+-*who_gilles
+Ce n'est pas que je ne sache écrire ; mais je ne veux pas qu'on voie mon écriture.
+
+-*who_laronde
+Voulez-vous entrer ?
+
+-*who_gilles
+Je suis fort bien là.
+
+-*who_laronde
+Quelle écriture voulez-vous ?
+
+-*who_gilles
+Comment, laquelle !
+
+-*who_laronde
+Nous en avons de plusieurs sortes.
+
+-*who_gilles
+Ma foi, ça m'est égal, pourvu que ce soit de l'écriture bien écrite.
+
+-*who_laronde
+Voulez-vous de la bâtarde ?
+
+-*who_gilles
+Ah ça, Monsieur, pas de sottise...
+Cet autre, avec sa bâtarde !
+
+-*who_laronde
+Aimez-vous mieux la ronde ?
+
+-*who_gilles
+Pardienne, si je l'aime.
+Est-ce qu'il saurait quelque chose ?
+
+-*who_laronde
+En ce cas, je vais vous donner la ronde.
+Laquelle préférez-vous, la petite ou la grande ?
+
+-*who_gilles
+La petite ronde, s'il vous plaît ; j'aime la petite ronde à la folie.
+
+-*who_laronde
+Comme vous vous passionnez pour mon écriture.
+
+-*who_gilles
+Tiens, il prend sa fille pour une écriture.
+
+-*who_laronde
+C'est qu'elle est bien moulée.
+
+-*who_gilles
+Vous avez bien travaillé ça.
+
+-*who_laronde
+Voulez-vous que je compose, ou dictez-vous ?
+
+-*who_gilles
+Dicter !
+C'est mon fort.
+
+-*who_laronde
+J'y suis.
+
+-*who_gilles
+Attendez que je me réveille...
+C'est long à venir ; mais quand je vous tiens une fois le premier mot, je vous défile ça droit, currente calamo.
+
+-*who_laronde
+Y êtes-vous ?
+
+**** *book_ *id_I11 *act_I *date_1797
+
+-*who_arlequin
+M'y voilà...
+
+-*who_delphine
+Et moi aussi.
+
+-*who_gilles
+Une minute.
+
+-*who_arlequin
+J'ai déjà un plan....
+
+-*who_delphine
+Quoi ?
+
+-*who_arlequin
+Ah !
+J'aperçois Gilles chez ton père.
+
+-*who_laronde
+Êtes-vous prêts ?
+
+-*who_gilles
+Je tiens tout.
+
+-*who_arlequin
+Il lui fait écrire une lettre.
+
+-*who_delphine
+Chut.
+
+-*who_gilles
+Écrivez...
+Mademoiselle.
+
+-*who_laronde
+Mademoiselle.
+
+-*who_arlequin
+C'est pour une demoiselle.
+
+-*who_gilles
+De depuis l'instant fortuné, du moment ousque j'ai été assez heureux pour avoir l'agrément de vous entrevoir au petit Coblentz, je me sens, à l'encontre de vous, une passion, et comme une manière de feu qui me parcourt.
+
+-*who_arlequin
+C'est une lettre d'amour.
+
+-*who_laronde
+Pas si vite, on ne peut pas vous suivre.
+
+-*who_gilles
+Impossible d'aller plus doucement.
+Quand l'esprit sort de chez moi, c'est comme l'éclair... et comme une manière de feu qui me parcourt...
+Je vous prie donc de croire à l'estime proportionnée à la conséquence de vos charmes que j'ai pour vous, et dont je vous demande une réponse cathé... cathé... catho...
+Mon dieu, que je suis bête !....
+
+-*who_laronde
+Que je suis bête !...
+
+-*who_gilles
+N'écrivez donc pas cela....
+C'est cathé.... cathé.... cathégorique, dont je vous demande une réponse cathégorique, pour me déclarer à monsieur votre père avec lequel j'ai l'honneur d'être, et cétera ... absolument à votre service.
+Gilles.
+
+-*who_delphine
+Je crois que la lettre est pour moi.
+
+-*who_arlequin
+Oh !
+Sangodémi, le coquin !
+
+-*who_laronde
+Tenez, monsieur, entre nous, votre billet n'est pas ce qu'il y a de mieux ; je vais en dicter un autre, l'écrire, et vous répéterez...
+
+-*who_arlequin
+Parbleu !
+Nous ausssi.
+
+-*who_laronde
+Pour toi, du plus tendre amour,
+Mon cœur brûle sans détour.
+Sois sensible à ma tendresse,
+Et nous pourrons, avant peu,
+D'un père obtenir l'aveu
+Sans user de finesse
+En usant de finesse.
+
+-*who_laronde
+Voilà bien le vrai genre de La Ronde : comme il est attrapé !
+
+-*who_gilles
+Oh !
+Comme il est attrapé !
+
+-*who_delphine
+Lui aussi est attrapé.
+
+-*who_arlequin
+Ils sont attrapés.
+
+-*who_laronde
+L'adresse ?
+
+-*who_gilles
+Je m'en charge....
+Voilà votre argent.
+
+-*who_laronde
+Monsieur.
+
+-*who_gilles
+Je reprendrai ça sur la dot.
+
+-*who_arlequin
+Ton père s'en va.
+Je descends pour exécuter mon dessein.
+
+-*who_laronde
+Portons en ville mes expéditions.
+
+**** *book_ *id_I12 *act_I *date_1797
+
+-*who_gilles
+Voilà ce qui s'appelle un vrai tour d'amoureux...
+Je verrai à faire remettre ma lettre : mais voyons d'abord Arlequin pour la composition du journal ; c'est l'essentiel.
+
+**** *book_ *id_I13 *act_I *date_1797
+
+-*who_arlequin
+Il ne sait rien faire : commençons par le charger de la besogne.
+
+-*who_gilles
+Ah !
+Te voilà, mon cher Arlequin ; je suis certainement très content de ta rédaction ; mais, pour dieu, mon ami, de la prudence !...
+Tu dis trop de mal de la pièce nouvelle ; un auteur peut trouver cela mauvais...
+On ne sait pas...
+
+-*who_arlequin
+Monsieur Gilles, il faut savoir parler vrai.
+
+-*who_gilles
+Je tremble.
+
+-*who_arlequin
+Je conviens que votre état est périlleux, et que les propriétaires sont exposés tous les jours à se faire assommer...
+Mais dussé-je vous mettre tous les mauvais auteurs à dos...
+Je prétends....
+
+-*who_gilles
+Quelle extravagance !
+Un imprudent qui fronde
+Paye cher son esprit :
+En flattant tout le monde,
+On se met en crédit ;
+Et c'est ainsi
+Qu'on peut toujours s'épargner du souci.
+
+-*who_arlequin
+Ainsi, à votre compte.
+Il faut imiter, je comprends,
+Ces journalistes fort prudents,
+Qui, passant pour de bons apôtres,
+Flatteurs honnêtes et polis,
+N'ont jamais donné leur avis,
+Sans songer à celui des autres.
+Du reste, si vous avez peur, vous n'avez rien à craindre pour aujourd'hui ; le journal n'est pas fait, et ce n'est pas moi qui le ferai.
+
+-*who_gilles
+Pourquoi ?
+
+-*who_arlequin
+Je suis triste.
+Vous savez qu'un lecteur prétend
+Qu'avant tout on le fasse rire ;
+Et pour lui plaire, il faut souvent
+L'amuser, plutôt que l'instruire.
+Or, j'ai des vapeurs aujourd'hui,
+C'est là l'obstacle qui m'arrête :
+On a peur d'inspirer l'ennui
+Quand on a du noir dans la tête.
+
+-*who_gilles
+Mais comment ferai-je ?
+
+-*who_arlequin
+Comme je fais quand vous ne faites rien.
+
+-*who_gilles
+Allons donc...
+Moi, faire un journal !...
+Mais sais-tu que c'est très difficile ?
+
+-*who_arlequin
+Il faut beaucoup de connaissances.
+
+-*who_gilles
+Pour des connaissances, je n'en ai pas mal, et qui s'abonneront.
+
+-*who_arlequin
+Celles-là sont très utiles ; mais je parle de la science...
+Il faut savoir rajeunir les nouvelles, les tourner, les arranger, leur donner un air de vraisemblance, combiner les événements, les dates : voilà le talent ; allons !...
+
+-*who_gilles
+Je ne sais rien de neuf.
+
+-*who_arlequin
+Eh bien, on invente, on prend des villes, on gagne des batailles, on fait marcher les armées, on annonce la conquête des Pays-Bas, la prise de Mantoue, et puis mille autres petites nouveautés...
+À Paris on date de Londres
+Le grand renvoi de monsieur Pitt.
+Par soi-même on se fait répondre
+A des lettres que l'on s'écrit ;
+On s'attaque pour se défendre,
+Par-tout on extrait de l'esprit,
+Et l'on a grand soin de répandre
+Les on dit qu'on n'a jamais dit.
+
+-*who_gilles
+Tu ne peux donc rien faire aujourd'hui ?
+
+-*who_arlequin
+Non.
+
+-*who_gilles
+Eh bien, heureusement voici monsieur Balourd qui va nous tirer d'affaire, et qui nous apporte des morceaux.
+
+-*who_arlequin
+Oui, oui, tu crois ?
+Ah !
+Tu vas voir.
+
+**** *book_ *id_I14 *act_I *date_1797
+
+-*who_gilles
+Que nous apportez-vous, monsieur Balourd ?
+
+-*who_balourd
+Dix pages....
+C'est long.... mais c'est beau.
+
+-*who_gilles
+Imprimons vite !
+
+-*who_arlequin
+Un moment.
+
+-*who_balourd
+Prenez lecture.
+
+-*who_gilles
+Donnez à monsieur, qui a un très-bel organe.
+
+-*who_arlequin
+Je suis trop enroué.
+
+-*who_gilles
+Lis à mi-voix.
+
+-*who_arlequin
+J'ai mal aux yeux.
+
+-*who_balourd
+En ce cas, lisez...
+
+-*who_gilles
+Faisons semblant...
+Voyons.
+
+-*who_balourd
+Lisez haut.
+
+-*who_arlequin
+Je n'entends point.
+
+-*who_gilles
+Le taquin !...
+J'ai parcouru...
+C'est gentil...
+
+-*who_balourd
+Gentil !...
+
+-*who_arlequin
+Ah !
+Gentil !
+Un morceau de Monsieur Balourd...
+C'est trop long.
+
+-*who_gilles
+Il y en aura pour deux fois.
+
+-*who_arlequin
+C'est égal.
+
+-*who_gilles
+Ôtons la fin.
+
+-*who_balourd
+Ôter mon dénouement !
+
+-*who_arlequin
+Ça ne se peut pas...
+
+-*who_gilles
+Alors ôtez le commencement.
+
+-*who_balourd
+Y pensez-vous ?
+Commencer, finir par le milieu mais ça n'a pas d'exemple.
+
+-*who_arlequin
+Pardonnez-moi ; on a fait tant de choses qui n'avaient ni queue ni tête...
+Mais ça n'est pas une raison pour ôter votre fin et votre commencement : j'aimerais mieux ôter tout.
+
+-*who_balourd
+Je vois que ce morceau ne vous convient pas ; je vais vous donner de la poésie, un distique.
+
+-*who_gilles
+Qu'est-ce que c'est que ça ?
+
+-*who_balourd
+Un poème en deux vers.
+
+-*who_arlequin
+C'est de l'épique.
+
+-*who_balourd
+Écoutez...
+Que la reconnaissance a d'invincibles droits
+Sur les cœurs... francs, bons, doux... hauts, purs, vifs... chauds et droits.
+Hein !...
+
+-*who_gilles
+Il n'y a que ça.
+
+-*who_arlequin
+Dites que c'est trop court.
+
+-*who_gilles
+Si l'on pouvait allonger un peu les vers.
+
+-*who_balourd
+Allonger mes vers !...
+
+-*who_gilles
+C'est que ça ne fera que deux lignes, et je voudrais que ça fasse au moins un quatrain.
+
+-*who_balourd
+Vous ne voulez donc pas de mes deux vers ?
+
+-*who_arlequin
+Vous voyez bien que Monsieur Gilles les trouve trop courts.
+
+-*who_balourd
+Trop longs, trop courts, point de commencement, point de fin : vous moquez-vous de moi ?
+
+-*who_gilles
+Il se met en colère.
+
+-*who_arlequin
+Je vais arranger ça... ne vous emportez pas...
+Monsieur Gilles n'a voulu que s'amuser.
+
+-*who_balourd
+S'amuser à mes dépens.
+
+-*who_gilles
+Parle-lui donc ?
+
+-*who_arlequin
+Soyez tranquille...
+Monsieur, il est bien fâché d'avoir trouvé votre ouvrage médiocre...
+C'est qu'il a le goût comme ça.
+
+-*who_balourd
+Médiocre, moi !
+Me trouver médiocre !...
+
+-*who_gilles
+Il se fâche !
+
+-*who_arlequin
+Attendez...
+Monsieur, pardonnez, il le trouve tout-à-fait mauvais... mais par politesse...
+
+-*who_balourd
+Comment, mauvais !...
+Apprenez, Monsieur, que je me soucie fort peu de votre jugement... que vous n'êtes pas en état de m'apprécier !...
+
+-*who_arlequin
+C'est vrai...
+
+-*who_balourd
+Que vous êtes un ignorant.
+
+-*who_arlequin
+C'est vrai...
+
+-*who_balourd
+Un fat.
+
+-*who_arlequin
+C'est vrai.
+Il faut bien dire comme lui...
+
+-*who_gilles
+Oui.
+
+-*who_balourd
+Et que je saurai m'en venger...
+
+-*who_gilles
+Non...
+
+-*who_balourd
+Ah ! morbleu, quelle impudence !
+Et je pourrais souffrir en silence
+Une pareille insolence ?
+Morbleu ! non,
+J'en veux avoir raison.
+
+-*who_gilles
+Mais permettez donc ?
+
+-*who_balourd
+Bientôt, bientôt, ma vengeance
+Prouvera,
+Que de ma science
+On fait plus de cas en France.
+Ailleurs, oui, l'on m'imprimera.
+
+**** *book_ *id_I15 *act_I *date_1797
+
+-*who_arlequin
+Ah ! La bonne circonstance !
+Il faut en profiter en silence ;
+Car il croit que de l'offense,
+Tout de bon,
+Il veut avoir raison.
+
+-*who_gilles
+Quelle affreuse circonstance !
+Comment faire ?... De cette offense
+Il voudra, dans sa vengeance,
+Tout de bon,
+Me demander raison.
+
+-*who_arlequin
+Profitons de sa frayeur, et courons donner le mot aux Colporteurs et aux autres...
+
+**** *book_ *id_I16 *act_I *date_1797
+
+-*who_gilles
+Monsieur Arlequin, avec votre obstination à ne pas lire, voyez...
+Oh ciel !
+Il est parti, rien de fait !
+Un auteur en colère !
+Ma personne en danger !...
+Où sera-t-il allé ?
+Vite, cherchons-le : il faudra bien qu'il travaille...
+
+**** *book_ *id_I17 *act_I *date_1797
+
+-*who_arlequin
+Monsieur l'Imprimeur, monsieur le Prote ; et toi, mon ami, vous voulez donc bien me servir ?...
+
+-*who_arlequin,limprimeur,lecolporteur
+Certainement.
+
+-*who_limprimeur
+Il me chicane toujours pour la dépense.
+
+-*who_leprote
+Moi, pour l'impression.
+
+-*who_lecolporteur
+Moi, pour la recette.
+
+-*who_arlequin
+Vous ferez donc tout ce qu'il faudra faire ?
+
+-*who_leprote
+Qui mieux que nous, Monsieur, peut vous servir ?
+
+-*who_limprimeur
+Un Imprimeur est homme à caractère.
+
+-*who_lecolporteur
+Un Colporteur est homme à bien mentir.
+
+-*who_arlequin
+Je crois pouvoir, s'ils y mettent du zèle,
+Dans mes projets, dès ce soir, réussir.
+
+-*who_arlequin,limprimeur,lecolporteur
+De notre part, s'il ne faut que du zèle,
+Dans vos desseins, vous allez réussir.
+
+-*who_limprimeur
+De mon talent je donnerai des preuves.
+
+-*who_lecolporteur
+Pour plus d'un jour je saurai l'effrayer.
+
+-*who_leprote
+Un Prote est fait à faire des épreuves,
+Et vous verrez si je sais mon métier.
+
+-*who_arlequin
+Puisque je puis compter sur votre zèle,
+Me voilà donc certain de réussir.
+
+-*who_limprimeur,leprote,lecolporteur
+Comptez sur nous, à vos leçons fidèles,
+D'attraper Gilles, on se fait un plaisir.
+
+**** *book_ *id_I18 *act_I *date_1797
+
+-*who_delphine
+Eh bien !
+
+-*who_arlequin
+Viens.
+
+-*who_delphine
+Quel est ton projet ?
+
+-*who_arlequin
+Je vais devenir le propriétaire.
+
+-*who_delphine
+Vrai ?...
+
+-*who_arlequin
+Tu sauras tout...
+L'heure presse ; il faut bien vite que j'extraie tout ces papiers pour faire la feuille...
+
+-*who_delphine
+Que de lettres !
+
+-*who_arlequin
+En voilà de tous les pays.
+
+-*who_delphine
+Et tu reçois tout cela ?
+
+-*who_arlequin
+Il le faut bien.
+Chaque journaliste habile,
+En tous lieux a des agents.
+On écrit de chaque ville
+Par des couriers diligens.
+Tous les jours en très-bon style
+Les dépêches de Strasbourg,
+Bâle, Madrid, Naples, Lille,
+Rome, Bourg,
+Philisbourg,
+De Luxembourg,
+Magdebourg,
+Pétersbourg,
+De Fribourg,
+De Louisbourg,
+De Hambourg,
+De Limbourg.
+D'Edimbourg
+Et d'Ausbourg
+Arrivent à la file.
+
+-*who_delphine
+Un journaliste est donc un homme universel ?
+
+-*who_arlequin
+Il a des correspondances partout...
+D'abord...
+Correspondances littéraires
+Avec messieurs les gens d'esprit ;
+Puis, avec messieurs les libraires,
+Correspondance de profit.
+
+-*who_delphine
+En voilà de bonnes.
+
+-*who_arlequin
+Voici les mauvaises.
+Correspondance d'écritures,
+Mais non d'esprit avec les sots ;
+Puis correspondances d'injures
+Avec la plupart des journaux.
+Nous avons aussi des livres à annoncer.
+Tiens : voilà un nouveau roman dont il faudra faire l'analyse.
+
+-*who_delphine
+J'espère au moins qu'il ne ressemble pas à ces nouveaux romans anglais, si noirs... si effrayants...
+
+-*who_arlequin
+Ah !
+Ne m'en parle pas, ils me font encore peur !...
+
+-*who_delphine
+Dis-moi pourquoi tous ces romans
+N'offrent que tableaux sombres,
+Des monstres et des revenants,
+Des sorciers et des ombres,
+Spectres ambulants,
+Fantômes sanglants
+Et démons effroyables ?...
+
+-*who_arlequin
+C'est que leurs auteurs
+Et leurs traducteurs
+Ont de l'esprit en diables.
+Voici maintenant des articles communiqués, où mettrons-nous cela ?...
+Voyons... "Dissertation sur les fortunes" !...
+
+-*who_delphine
+C'est tout simple : à l'article Changement de domicile.
+
+-*who_arlequin
+Et ce petit traité sur les "Opinions".
+
+-*who_delphine
+Oh !
+Cela va de droit à l'article "Variétés".
+
+-*who_arlequin
+Ce morceau sur les "Écrivains du jour".
+
+-*who_delphine
+Article "Mélange3.
+
+-*who_arlequin
+Oh !
+Pour cet "Essai sur la Morale et l'Innocence", je le placerai aux "Effets perdus...
+Récompense honnête à qui en donnera des renseignements".
+
+-*who_delphine
+Tu penses donc bien mal de notre siècle ?...
+
+-*who_arlequin
+Oh !
+Il n'y a pas de quoi...
+Tiens, voilà une jeune personne qui me prie de l'afficher pour avoir un mari.
+
+-*who_delphine
+Bon moyen !
+
+-*who_arlequin
+Excellent...
+Plus d'une Grecque d'aujourd'hui,
+Par sa conduite peu cachée,
+Tout en affichant son mari,
+Depuis l'hymen s'est affichée.
+Après l'hymen, encore passe ! . . . .
+Mais fille qui s'en va cherchant
+Époux qui, sous ses lois, s'engage,
+N'en trouve guère en s'affichant
+Avant le mariage.
+Ah !
+Ceci est un article sur un certain bal d'hier. . . .
+
+-*who_delphine
+Quoi !
+Vas-tu, comme tant de journalistes, dire aussi du mal des femmes, les attaquer pour un rigodon, un menuet, un balancé ?...
+
+-*who_arlequin
+Oh !
+Ce ne serait pas poli...
+Et puis je les aime trop pour cela...
+
+-*who_delphine
+Cette raison-là ne vaut rien.
+Tour-à-tour détracteurs, amants,
+Les hommes nous placent sans cesse
+Entre la critique et l'encens,
+Entre la haine et la tendresse.
+Messieurs, suivez donc mieux nos lois,
+Abjurez vos plaintes frivoles ;
+Et, par respect pour votre choix,
+Ne maltraitez pas vos idoles.
+
+-*who_arlequin
+Ne crains pas qu'un sexe charmant
+Soit l'objet de mes épigrammes ;
+On doit attaquer le méchant ;
+On ne doit que chanter les femmes.
+Pour les sots et les intrigants,
+Pour tous les amis du désordre,
+Je réserve mes traits piquants,
+Et j'ai bien assez de quoi mordre.
+Il faut que je fasse encore un petit article "Spectacle" ; car j'ai vu jouer hier Contat...
+
+-*who_delphine
+Ah !
+Je te conçois...
+Contat, sur la scène embellie,
+Nous surprend par son jeu parfait ;
+Et, confidente de Thalie,
+Trahit et garde son secret.
+Toujours d'une vaine imposture,
+Méprisant l'éclat emprunté,
+Elle a su faire à la nature
+Le larcin de la vérité.
+
+-*who_arlequin
+Voilà encore des morceaux qu'il faudrait mettre en mille morceaux.
+Il sera impossible de tout insérer...
+Mais j'aperçois Gilles : rentre, et sois tranquille...
+Un petit baiser.
+
+-*who_delphine
+Ça ne se demande pas...
+
+-*who_arlequin
+Tu as raison, ça se prend...
+Ah !
+Monsieur le poltron !
+Monsieur l'ignorant !
+Monsieur l'avare !
+Monsieur l'amoureux !. . .
+
+**** *book_ *id_I19 *act_I *date_1797
+
+-*who_gilles
+Enfin je te retrouve.
+Songe donc à mon embarras.
+Si tu ne fais rien, le journal tombe.
+
+-*who_arlequin
+Voici le Prote : faisons venir les autres...
+Travaillez ; serviteur.
+
+-*who_gilles
+Tu sors !
+Et Monsieur Balourd, s'il revient ?
+
+-*who_arlequin
+Travaillez...
+
+-*who_gilles
+Mon dieu !
+Mon dieu !
+
+**** *book_ *id_I20 *act_I *date_1797
+
+-*who_leprote
+Monsieur.
+
+-*who_gilles
+Quoi !
+
+-*who_leprote
+Bien vite, bien vite,
+J'accours tout de suite,
+Chercher quelque morceaux piquants,
+De prose, de prose ;
+C'est bien peu de chose
+Pour votre esprit, pour vos talents.
+J'attends de vous un chef-d'œuvre insigne ;
+Car, en faisant l'Original,
+Vous vous êtes toujours ; oui, toujours rendu digne
+Du titre, du titre de votre journal.
+
+-*who_gilles
+Tu n'as rien !
+
+-*who_leprote
+Rien.
+
+-*who_gilles
+Et il en faut bien long...
+
+-*who_leprote
+Tout le journal.
+
+-*who_gilles
+Comment faire ?...
+J'irai tout-à-l'heure vous porter la copie...
+Allez.
+
+-*who_leprote
+Hâtez-vous ?...
+Bon, le voilà bien embarrassé !
+
+-*who_gilles
+Allons, j'irai trouver un de mes amis qui me fera quelques articles...
+À l'autre, voici I'Imprimeur...
+Que voulez-vous ?...
+
+**** *book_ *id_I21 *act_I *date_1797
+
+-*who_limprimeur
+De l'argent ?
+
+-*who_gilles
+Je n'en ai pas...
+
+-*who_limprimeur
+Il m'en faut...
+
+-*who_gilles
+Combien ?
+
+-*who_limprimeur
+Quinze cents francs.
+
+-*who_gilles
+C'est trop...
+
+-*who_limprimeur
+Voilà le compte.
+
+-*who_gilles
+Arrangeons-nous...
+Je vous donne tout de suite
+Deux cents francs.
+
+-*who_limprimeur
+      Non, non.
+
+-*who_gilles
+Quoi ! non.
+
+-*who_limprimeur
+      Non, non.
+
+-*who_gilles
+Quoi ! non.
+
+-*who_limprimeur
+      Non, non.
+
+-*who_gilles
+De grace, tenez-moi quitte
+Pour le quart !
+
+-*who_limprimeur
+      Non, non.
+
+-*who_gilles
+Quoi ! non.
+
+-*who_limprimeur
+      Non, non.
+
+-*who_gilles
+Quoi ! non.
+
+-*who_limprimeur
+      Non, non.
+
+-*who_ensemble
+Mettez-vous à la raison ? (bis.)
+
+-*who_gilles
+En ce cas-là, je vous donne
+Les deux tiers.
+
+-*who_limprimeur
+      Non, tout.
+
+-*who_gilles
+Quoi ! Tout.
+
+-*who_limprimeur
+      Oui, tout.
+
+-*who_gilles
+Quoi ! tout.
+
+-*who_limprimeur
+      Oui, tout.
+
+-*who_gilles
+Mais tant de rigueur m'étonne !
+Les trois quarts !
+
+-*who_limprimeur
+      Non, tout.
+
+-*who_gilles
+Quoi ! Tout.
+
+-*who_limprimeur
+      Oui, tout.
+
+-*who_gilles
+Quoi ! Tout.
+
+-*who_limprimeur
+      Oui, tout.
+
+-*who_gilles
+Non, non, vous n'aurez pas tout.
+
+-*who_limprimeur
+Je prétends bien avoir tout.
+
+-*who_gilles
+Rabattez un peu...
+
+-*who_limprimeur
+Je veux tout.
+
+-*who_gilles
+Vous aurez tout.
+
+-*who_limprimeur
+Et de plus...
+
+-*who_gilles
+Encore !...
+
+-*who_limprimeur
+Il me faut des avances...
+Encore autant !
+
+-*who_gilles
+Je n'ai pas mille écus.
+
+-*who_limprimeur
+Cherchez-les...
+
+-*who_gilles
+Jugez...
+
+-*who_limprimeur
+Mille écus !...
+
+-*who_gilles
+Considérez...
+
+-*who_limprimeur
+Mille écus !...
+
+-*who_gilles
+Quoi !
+Vous voulez...
+
+-*who_limprimeur
+Mille écus ?...
+
+-*who_gilles
+Donnez-moi...
+
+-*who_limprimeur
+Mille écus ?...
+
+-*who_gilles
+Du temps ?...
+
+-*who_limprimeur
+Une heure.
+
+-*who_gilles
+Huit jours !...
+
+-*who_limprimeur
+Non.
+
+-*who_gilles
+Au moins...
+
+-*who_limprimeur
+C'est dit.
+
+-*who_gilles
+Songez !
+
+-*who_limprimeur
+Adieu...
+
+-*who_gilles
+Mille écus !
+Mille écus !
+Allons, je ferai un dernier effort ; mais je n'abandonne pas mon journal...
+
+**** *book_ *id_I22 *act_I *date_1797
+
+-*who_lecolporteur
+Monsieur !
+
+-*who_gilles
+M'apportes-tu des espèces ?
+
+-*who_lecolporteur
+Non, et vous me voyez bien triste.
+
+-*who_gilles
+Tu sais ce qui m'arrive.
+
+-*who_lecolporteur
+Il faut de la bravoure.
+
+-*who_gilles
+Non, c'est de l'argent.
+
+-*who_lecolporteur
+Ah !
+C'est que vous ne savez pas...
+Laissez-moi vous pleurer d'avance.
+
+-*who_gilles
+Qu'as-tu ?
+
+-*who_lecolporteur
+Un si joli garçon !
+
+-*who_gilles
+Je le sais.
+
+-*who_lecolporteur
+À la fleur de son âge.
+
+-*who_gilles
+Trente ans...
+
+-*who_lecolporteur
+Qui a de quoi vivre !
+
+-*who_gilles
+Quinze mille francs de fonds.
+
+-*who_lecolporteur
+Et mourir !
+
+-*who_gilles
+Que dis-tu ?
+
+-*who_lecolporteur
+Je veux vous accompagner.
+
+-*who_gilles
+Où ?
+
+-*who_lecolporteur
+Jusqu'à l'endroit fatal.
+
+-*who_gilles
+Quel endroit ?
+
+-*who_lecolporteur
+Je vous apporte un cartel.
+
+-*who_gilles
+De qui ?...
+
+-*who_lecolporteur
+D'un auteur.
+
+-*who_gilles
+Pour qui ?
+
+-*who_lecolporteur
+Pour vous...
+
+-*who_gilles
+Gageons que c'est de Monsieur Balourd.
+
+-*who_lecolporteur
+Juste.
+
+-*who_gilles
+Ah !
+Malheureux Arlequin, voilà ce que tu m'attires...
+Je ne me bats pas.
+
+-*who_lecolporteur
+Il vous tuera tout de même.
+
+-*who_gilles
+Alors je me battrai.
+
+-*who_lecolporteur
+Il vous tuera encore.
+
+-*who_gilles
+En ce cas-là je ne me battrai pas.
+
+-*who_lecolporteur
+Vous ne pouvez pas l'échapper.
+Il veut vous tuer, n'importe comment.
+
+-*who_gilles
+Lis donc.
+
+-*who_lecolporteur
+À monsieur le propriétaire de l'Original,
+
+-*who_gilles
+L'Original !...
+C'est bien moi !
+
+-*who_lecolporteur
+Monsieur, vous avez trouvé ma prose trop longue, mes vers trop courts : en conséquence de quoi, vous m'en rendrez raison ce soir au bois de Boulogne, où j'aurai l'honneur d'être, et de vous tuer...
+Balourd.
+
+-*who_gilles
+Tu crois donc que j'en mourrai ?
+
+-*who_lecolporteur
+Il ne se bat jamais sans tuer son homme.
+
+-*who_gilles
+Eh bien !
+Arlequin se battra.
+
+-*who_lecolporteur
+Il ne veut pas se battre avec Arlequin.
+
+-*who_gilles
+Mais Arlequin est le rédacteur.
+
+-*who_lecolporteur
+Vous voyez qu'il en veut au propriétaire, et je ne vois qu'un moyen ; c'est d'en faire tuer un autre à votre place.
+
+-*who_gilles
+Eh bien !
+Veux-tu ?
+
+-*who_lecolporteur
+Moi !
+
+-*who_gilles
+Pour de l'argent...
+
+-*who_lecolporteur
+Ce n'est pas ça...
+Monsieur Balourd ne veut se battre qu'avec le propriétaire...
+Donnez vite votre propriété à quelqu'un.
+Monsieur Balourd viendra, et c'est celui-là qui se battra.
+
+-*who_gilles
+Tu as raison, tu me sauves la vie.
+
+-*who_lecolporteur
+Dépêchez-vous, il sera ici dans deux heures.
+
+**** *book_ *id_I23 *act_I *date_1797
+
+-*who_gilles
+Je n'aurai pas le tems de chercher un autre acheteur...
+Vendons mon journal à Arlequin...
+Je serais pourtant fâché que ce pauvre Arlequin fût tué...
+Mais c'est prévu ; il est adroit, il tuera Monsieur Balourd, et je serai vengé...
+Mettons-y mon adresse ordinaire, et faisons le donner dedans, en tâchant de ne pas tout perdre...
+
+**** *book_ *id_I24 *act_I *date_1797
+
+-*who_arlequin
+Eh bien, Monsieur Gilles, avez-vous pensé à ce que vous feriez ?
+
+-*who_gilles
+Oui.
+
+-*who_arlequin
+Que faites-vous ?...
+
+-*who_gilles
+Rien ; mais j'ai réfléchi que je ne sais pas travailler.
+Je te suis considérablement attaché, et je veux faire ta fortune.
+
+-*who_arlequin
+Comment ?...
+
+-*who_gilles
+Je te donne ma propriété.
+
+-*who_arlequin
+Vous me donnez !...
+
+-*who_gilles
+Je te vendrai bon marché.
+
+-*who_arlequin
+Ah !
+C'est comme ça que vous donnez.
+
+-*who_gilles
+Nous traiterons.
+
+-*who_arlequin
+Je n'achète point.
+
+-*who_gilles
+Qu'est-ce qui t'effarouche ?
+
+-*who_arlequin
+Un propriétaire répond de tout.
+
+-*who_gilles
+Mais le rédacteur aussi.
+
+-*who_arlequin
+Jamais...
+Il faut de l'argent, le propriétaire paye ; un auteur se fâche, le propriétaire répond...
+L'auteur se fâche encore, le propriétaire doit se fâcher ; on l'insulte, il faut se battre ; il se met en garde, il est tué.
+
+-*who_gilles
+Mais si le propriétaire tue l'auteur, comme tu es adroit.
+
+-*who_arlequin
+Il est pris.
+
+-*who_gilles
+Tué ou pris.
+
+-*who_arlequin
+Il n'y a que ces deux manières-là de se tirer d'affaire.
+
+-*who_gilles
+Mais quand il est pris ?
+
+-*who_arlequin
+Les duels sont défendus...
+Enfermé.
+
+-*who_gilles
+Vrai !
+
+-*who_arlequin
+Pour le reste de ses jours.
+
+-*who_gilles
+Oh !
+Mon dieu !
+
+-*who_arlequin
+Sur la paille.
+
+-*who_gilles
+Est-il possible ?
+
+-*who_arlequin
+Au pain et à l'eau.
+
+-*who_gilles
+Quelle barbarie !
+
+-*who_arlequin
+Dans un cachot...
+
+-*who_gilles
+Ciel !
+
+-*who_arlequin
+À vingt pieds sous terre.
+
+-*who_gilles
+Miséricorde !
+
+-*who_arlequin
+Et quand il sort ?
+
+-*who_gilles
+Quoi !
+
+-*who_arlequin
+Aux galères.
+
+-*who_gilles
+Aux galères !
+
+-*who_arlequin
+Une chaîne aux pieds.
+
+-*who_gilles
+Ah !
+
+-*who_arlequin
+Un grand aviron de cinquante pieds de long à la main.
+
+-*who_gilles
+Si long que ça !
+
+-*who_arlequin
+Puis des coups de bâtons.
+
+-*who_gilles
+Je n'y tiens plus, je veux vendre mon journal.
+Je ne crains certainement pas tout cela...
+Mais rends-toi, mon cher Arlequin !
+
+-*who_arlequin
+Je n'ai point d'argent.
+
+-*who_gilles
+Je te ferai crédit.
+
+-*who_arlequin
+Je ne veux point le payer.
+
+-*who_gilles
+Je te le donne.
+
+-*who_arlequin
+Je le prends.
+
+-*who_gilles
+Comme il gobe ça !
+
+-*who_arlequin
+Je le tiens.
+
+-*who_gilles
+Passons le marché...
+
+-*who_arlequin
+Sur-le-champ.
+
+-*who_gilles
+Je vais te chercher tout ce qu'il faut....
+Point d'ouvrage à faire, point d'argent à donner, point d'auteur à craindre, marché d'or...
+
+**** *book_ *id_I25 *act_I *date_1797
+
+-*who_arlequin
+Ma chère Delphine, je triomphe ; je suis le propriétaire.
+
+-*who_delphine
+Déjà !...
+Voici mon père, je descends.
+
+**** *book_ *id_I26 *act_I *date_1797
+
+-*who_gilles
+Voilà tout.
+
+-*who_arlequin
+Je suis prêt...
+
+-*who_gilles
+Écris.
+Moi, Gilles ! Propriétaire
+De l'Original, journal
+Politique, littéraire,
+Économique et moral ;
+J'en déclare titulaire
+Arlequin le rédacteur ;
+Ce matin mon secrétaire,
+Et ce soir mon successeur.
+As-tu mis ?
+
+-*who_arlequin
+C'est fait.
+
+-*who_gilles
+Une petite clause.
+
+-*who_arlequin
+Quoi !
+
+-*who_gilles
+Tu peux mourir, on ne sait pas ce qui peut arriver...
+Écris.
+Si tu t'en allais le premier,
+Chose dont n'est exempt personne,
+Je redeviendrai l'héritier
+De mon journal que je te donne.
+
+-*who_arlequin
+C'est juste.
+
+-*who_gilles
+De cette façon, comme il peut être tué ce soir, je n'y perdrai rien...
+En foi de quoi, j'ai souscrit, moi, Jean Gilles.
+Homme-de-lettres, champenois,
+
+-*who_arlequin
+Lequel ne sachant pas écrire,
+Suivant l'usage a fait sa croix.
+Signez...
+
+-*who_gilles
+Il ne sait pas ce qu'il risque.
+
+-*who_arlequin
+Il ne sait pas ce qu'il perd.
+
+-*who_gilles
+Maintenant il faut que je m'occupe de faire remettre une lettre à ma maîtresse.
+
+-*who_arlequin
+Son nom ?...
+
+-*who_gilles
+Delphine...
+
+-*who_arlequin
+La Ronde ?
+
+-*who_gilles
+Juste.
+La voici ; je me déclare.
+Mademoiselle, je trouve donc l'instant propice ousque...
+
+**** *book_ *id_I27 *act_I *date_1797
+
+-*who_delphine
+Laissez-moi !
+
+-*who_gilles
+Lisez au moins cette lettre.
+
+-*who_arlequin
+Prends : nous en saurons faire usage.
+
+-*who_gilles
+Elle la prend, signe explicatif du feu caché qu'elle montre pour moi.
+Justement voici le père.
+
+**** *book_ *id_I28 *act_I *date_1797
+
+-*who_laronde
+Quoi !
+Mademoiselle, avec Monsieur Arlequin !
+
+-*who_arlequin
+Monsieur !...
+
+-*who_gilles
+Monsieur...
+
+-*who_laronde
+Encore un poulet.
+
+-*who_gilles
+Chut...
+Je viens vous proposer un joli marché pour vous et votre fille.
+Un mari !...
+Moi !
+
+-*who_laronde
+Et la maîtresse de tantôt.
+
+-*who_delphine
+Il ne sait seulement pas écrire.
+
+-*who_laronde
+Vous ne savez pas écrire ?
+
+-*who_delphine
+Je le prouve par cette lettre qu'il vous dicta pour moi, en vous trompant indignement.
+
+-*who_laronde
+Mais c'est horrible.
+
+-*who_gilles
+Ce n'était qu'une plaisanterie.
+
+-*who_arlequin
+Monsieur La Ronde, je viens pour vous proposer un autre mari.
+
+-*who_laronde
+Sait-il écrire ?
+
+-*who_delphine
+Le propriétaire du journal.
+
+-*who_laronde
+Je suis charmé de voir que tu te rends à mes intentions, et dès que j'aurai vu Monsieur le journaliste...
+
+-*who_arlequin
+Le voilà.
+
+-*who_laronde
+Vous, Arlequin !...
+
+-*who_arlequin
+Oui, monsieur.
+
+-*who_gilles
+Bah !
+Il n'a rien....
+
+-*who_arlequin
+Et le journal ?...
+
+-*who_gilles
+Bénéfice en l'air ; il n'est pas fait, et il va tomber.
+
+**** *book_ *id_I29 *act_I *date_1797
+
+-*who_leprote
+Voilà la feuille toute imprimée pour demain.
+
+-*who_gilles
+Il avait fait le journal...
+C'est égal, il faut qu'il donne mille écus dans une heure, et il n'a pas le sou.
+
+-*who_limprimeur
+Je lui fais crédit.
+
+-*who_gilles
+Quoi !...
+C'est encore égal, il va être tué en duel ce soir.
+
+-*who_delphine
+Que dites-vous ?
+
+-*who_lecolporteur
+C'est un conte que je vous ont fait...
+Monsieur Balourd ne se bat pas.
+
+-*who_gilles
+Je crois que je suis attrapé !
+
+-*who_arlequin
+Oui...
+Mais laissez-moi épouser Delphine, et je vous rendrai votre propriété.
+
+-*who_gilles
+Ce n'est que ça ?...
+Elle ne m'aime pas.
+Je te pardonne ; épouse.
+
+-*who_arlequin
+Vous qui êtes le papa de Delphine, puisque je suis le journaliste, vous voulez donc bien devenir le mien ?
+
+-*who_laronde
+J'y consens ; et je suis sûr que l'on dira par-tout, La Ronde ne s'est pas mésallié.
+
+-*who_arlequin,delphine
+Le bon père !...
+
+**** *book_ *id_I30 *act_I *date_1797
+
+-*who_delphine
+Chez nous plus que par-tout ailleurs,
+La mode exerce sa puis-sance.
+Nos goûts, nos ha-bits et nos mœurs
+Sont soumis à son in-flu-en-ce,
+Sont sou-mis à son in-flu-ence.
+Que d'autres, par lé-gère-te,
+De l'a-mour fa-ti-guent les ai-les
+Nous, met-tons la fi-dé-li- té
+Au nom-bre des mo-des nou-vel--les,
+Au nombre des mo-des nou - velles.
+
+-*who_gilles
+En poètes, vrais inventeurs,
+La France n'est pas très-féconde ;
+En beaux-esprits imitateurs,
+De tous les côtés elle abonde.
+Aussi combien d'auteurs nouveaux,
+En gâtant les anciens modèles,
+Replacent de mauvais bons mots
+Dans de vieilles pièces nouvelles.
+
+-*who_lecolporteur
+Pour faire briller son esprit,
+Un critique par trop sévere,
+Bien souvent, à ceux qu'il poursuit,
+Reproche un tort imaginaire.
+Si nous avons chargé les traits
+Des journalistes, nos modèles,
+Ne croyez pas à nos portraits
+Plus qu'on ne croit à leurs nouvelles.
+
+-*who_arlequin
+De chaque ouvrage qui paraît,
+Soit qu'il tombe ou qu'il réussisse,
+Au public je dois un extrait,
+Envers lui c'est-là mon office.
+Nous touchons à l'instant fatal,
+Accueillez cette bagatelle,
+Afin que demain mon journal
+Puisse en donner bonne nouvelle.

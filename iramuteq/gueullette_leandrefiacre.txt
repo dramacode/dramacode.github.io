@@ -1,0 +1,378 @@
+
+
+**** *book_ *id_I01 *act_I *date_1720
+
+-*who_leandre
+Quoi !
+Charmante z'Isabelle, j'apprens que vous allez t'épouser Monsieur Cassandre.
+Où est la foi que vous m'avez promise ?
+Où est l'amour, où est le bien que vous me portiez ?
+
+-*who_isabelle
+Taisez-vous donc, mon cher Liandre, si vous ne voulez t'empêcher mon établissement ; car enfin je vous aime plus que lui, mais il a plus de moyen que vous.
+
+-*who_leandre
+Mamselle, tout cela z'est bel et bon, mais enfin il vaut mieux faire plaisir d'un pied à une honnête personne, que d'un doigt à un sot et à un vieux comme il est.
+
+-*who_isabelle
+Mais vraiment, mon cher Liandre, je sens bien ce qu'en vaut l'aune.
+Aussi ce n'est point la badinerie qui me fait prendre le parti, c'est l'envie d'avoir de quoi, je compte bien toujours vous voir.
+
+-*who_leandre
+Non, Mamselle, je ne veux point que vous soyez Madame Cassandre.
+Je veux moi même faire votre fortune, et il ne sera pas dit que l'on m'aura passé le bec par la plume.
+
+-*who_isabelle
+Mais, mon père, charmant Liandre, que dira-t-il ?
+
+-*who_leandre
+J'aurai toujours pour sa personne beaucoup de considération, mais je lui donnerai vingt coups de pieds dans le vendre, s'il ne fait pas ce je veux.
+
+-*who_isabelle
+Vous êtes assurément bien le maître de faire ce qu'il vous plaira, si vous croyez que ce soit pour le mieux.
+
+-*who_leandre
+Je sais que Monsieur Cassandre va venir pour vous épouser, faites comme si de rien n'était et laissez-moi faire.
+
+-*who_isabelle
+Oui, mon cher z'Amant, vous ferez toujours comme vous voudrez et tant qu'il vous plaira. 
+
+**** *book_ *id_I02 *act_I *date_1720
+
+-*who_cassandre
+Enfin je viens ici pour épouser.
+
+-*who_gilles
+Oui, mais non pas pour épousseter.
+
+-*who_cassandre
+Veux-tu bien m'écouter ?
+Je veux faire une fin.
+
+-*who_gilles
+Pardienne, Monsieur, elle est toute faite et vous voulez stapendant épouser Mamselle z'Isabelle.
+
+-*who_cassandre
+Oui bien assurément.
+
+-*who_gilles
+Je ne parle pas pour elle, mais les filles de ce pays sont quelquefois si savantes, qu'elles n'apprennent rien de nouveau la première nuit de leurs noces.
+
+-*who_cassandre
+Oh nous savons cela, mais il y a fille et fille.
+
+-*who_gilles
+Oui, Monsieur, il y en a de la grande et petite espèce : mais, Monsieur, voulez-vous savoir ce qui vient partout ?
+
+-*who_cassandre
+Oui-da, je suis toujours bien aise de m'instruire.
+
+-*who_gilles
+Monsieur, ce sont des cornes ; car il n'y a point de terre qui ne produise des cocus.
+
+-*who_cassandre
+C'est vraiment bien le temps de me tenir ces propos.
+
+-*who_gilles
+Si vous voulez j'imposerai silence à mes paroles, mais aussi voulez-vous que j'attende que vous ayez voyagé en Cornouailles, et que l'on vous appelle Monsieur Corneille.
+
+-*who_cassandre
+Ce malheur ne peut m'arriver, Isabelle est belle, elle est sage, elle est fille de mon bon ami Villebrequin.
+
+-*who_gilles
+Oui elle est belle, mais un homme qui a une belle femme, tout le monde est son cousin.
+
+-*who_cassandre
+Hé bien tant mieux, on me fera plus d'honneur.
+
+-*who_gilles
+Mais pardienne, ne savez-vous donc pas qu'une bonne chèvre, une bonne mule, et une bonne femme, font trois mauvaises bêtes.
+
+-*who_cassandre
+Enfin, je te demande conseil, mais ce n'est pas pour me contredire.
+
+-*who_gilles
+Monsieur, puisque vous le prenez par-là, je vous baise bien les mains ; baisez-moi les fesses.
+
+-*who_cassandre
+Tout cela est bon ; va t'en dire à mon compère Villebrequin que je l'attends ici pour lui faire visite comme l'honnêteté le désire.
+
+-*who_gilles
+J'y vesse, mais pardienne, par les mamelles de mon cul, vous faites là une grande folie.
+Taye, taye, taye, Monsieur Villebrequin.
+
+**** *book_ *id_I03 *act_I *date_1720
+
+-*who_gilles
+Voilà Monsieur Cassandre qui vient pour vous trousser son compliment, et pour trousser Mamselle z'Isabelle.
+
+-*who_villebrequin
+Ah !
+Bonjour mon compère et mon bon ami.
+
+-*who_cassandre
+Vous me voyez frais, gaillard, et dispos, et je viens pour terminer la petite affaire dont nous avons parlé.
+
+-*who_villebrequin
+Et quand la voulez-vous faire ?
+
+-*who_cassandre
+Tout à l'heure.
+
+-*who_villebrequin
+J'y consens.
+Isabelle, hola ; ho, Isabelle.
+
+**** *book_ *id_I04 *act_I *date_1720
+
+-*who_isabelle
+Plaît-il, mon père ?
+Qu'est-ce que vos commandements m'ordonnent ?
+
+-*who_cassandre
+Qu'elle est bien élevée !
+Quelle modestie !
+
+-*who_villebrequin
+Saluez mon bon ami Monsieur Cassandre, il vient pour vous prendre à femme.
+
+-*who_isabelle
+Ah !
+Mon cher Papa, je ne pourrai jamais.
+
+-*who_gilles
+Pardienne, c'est lui bien plutôt qui ne le pourra pas.
+
+-*who_cassandre
+Mademoiselle, vous voyez un homme qui voudrait avoir tout l'or d'un pays pour le soumettre à vos pieds, et pour mériter votre consentement.
+
+-*who_isabelle
+Monsieur, tout ce que mon cher Papa ordonne, je le fais toujours.
+
+-*who_cassandre
+Vous me charmez.
+Allons donc mon beau-père.
+
+-*who_gilles
+Monsieur Villebrequin n'est donc plus votre compère, vous verrez que c'est Mamselle.
+
+-*who_cassandre
+Oui, je t'assure, qu'elle m'est tout ce qu'on peut être pour moi.
+
+-*who_villebrequin
+Tenez, ma fille, voilà mon bourson, allez acheter tout ce qu'il vous faudra, prenez un fiacre pour avoir plutôt fait.
+Vous verrez tout ce qu'elle achetera.
+
+-*who_cassandre
+Si vous voulez prendre ma bourse aussi ?
+
+-*who_villebrequin
+Non, laissez, vous vous mocquez de moi.
+Elle a suffisamment de quoi, je lui donne plus de quinze francs.
+Vous verrez, vous verrez, vous dis-je, laissez la faire.
+
+-*who_isabelle
+Oui, mon cher Papa, je m'y en vais, ne vous impatientez pas.
+
+**** *book_ *id_I05 *act_I *date_1720
+
+-*who_cassandre
+En vérité votre Isabelle est une charmante personne.
+
+-*who_villebrequin
+Il est vrai, c'est une créature qui est fort bonne ; toutes nos voisines la montrent pour exemple.
+
+-*who_gilles
+Et tous nos voisins la montent.
+
+-*who_villebrequin
+Jamais de bruit avec elle, c'est la complaisance même.
+
+-*who_gilles
+Oui, quand on fait ce qu'elle veut.
+
+-*who_cassandre
+Que je vais vivre une vie agréable et joyeuse !
+
+-*who_gilles
+Et cornue.
+
+-*who_cassandre
+Te tairas-tu z'insolent.
+Par mon âme, si j'entendais ce que tu dis, je crois que je te battrais.
+
+-*who_villebrequin
+Va t'en, mon ami, voir quand le fiacre sera de retour, et viens nous avertir.
+
+-*who_cassandre
+Va, je te prie, car je brûle d'impatience de la revoir.
+
+-*who_gilles
+Je vous prends toujours à témoin que ce n'est pas ma faute, si vous en faites la folie.
+
+-*who_cassandre
+Très assurément je te battrai, si tu ne m'obéis pas, et si tu parles encore.
+
+**** *book_ *id_I06 *act_I *date_1720
+
+-*who_cassandre
+Je vous demande excuse pour ce mien serviteur, il a de l'esprit, mais il ne sait pas toujours ce qu'il dit.
+
+-*who_villebrequin
+Oh !
+Vous vous moquez, ces sortes de gens ne peuvent z'avoir autant de bien disance, ni tant d'esprit que nous en avons...
+Enfin vous êtes donc content de ma charmante z'Isabelle.
+
+-*who_cassandre
+On ne peut z'avoir plus de joie t'au coeur que vous m'en donnez, mon cher beau-père.
+
+**** *book_ *id_I07 *act_I *date_1720
+
+-*who_gilles
+Monsieur, Monsieur.
+
+-*who_cassandre
+He bien ?
+
+-*who_gilles
+Le fiacre est à la porte.
+
+-*who_villebrequin
+Allons donc au-devant de ma fille.
+
+-*who_gilles
+Monsieur, je ne crois pas que cela vous soit nécessaire, non plus qu'à elle.
+
+-*who_villebrequin
+Eh pourquoi donc ?
+
+-*who_gilles
+Écoutez-moi bien.
+
+-*who_cassandre
+Que nous va-t-il dire ?
+
+-*who_gilles
+Le carrosse est bien à la porte comme je viens de vous le dire ; les glaces de bois sont bien fermées, le fiacre va bien, mais les chevaux ne marchent point.
+
+-*who_villebrequin
+Comment !
+Qu'est-ce que cela veut dire ?
+
+-*who_cassandre
+Cela me paraît incompréhensible.
+
+-*who_gilles
+Oh pardienne, je le comprens bien moi.
+
+-*who_villebrequin
+Expliques-toi donc.
+
+-*who_cassandre
+Parle donc promptement.
+
+-*who_gilles
+Par le masque de mon derriere, je crois qu'ils faisaient le manège dans le carrosse.
+
+-*who_cassandre
+Comment ?
+
+-*who_gilles
+Pardienne oui.
+Le manége se fait là sans éperons, et les écuyers n'ont besoin que d'une baguette de six ou sept pouces de long.
+
+-*who_villebrequin
+Je commence à me douter de ce qu'il veut dire, mais je ne puis le croire.
+Je m'en vais voir qu'est-ce que c'est.
+Attendez-moi ici.
+
+**** *book_ *id_I08 *act_I *date_1720
+
+-*who_cassandre
+  Tout ceci commence à me mettre z'un tant soit peu en cervelle à me donner du souci.
+Gilles aurait-il raison ?
+Mais non, une personne t'aussi-bien élevée, aussi modeste comme Mamselle z'Isabelle, et la fille du compère Villebrequin....
+Oh non, cela n'est pas possible.
+
+**** *book_ *id_I09 *act_I *date_1720
+
+-*who_villebrequin
+La voici que je vous ramène.
+
+-*who_gilles
+Pardienne il les a fait sortir tous deux du carrosse.
+
+-*who_cassandre
+Qui ?
+
+-*who_gilles
+Pardienne, le fiacre et vot'Maîtresse.
+
+-*who_isabelle
+Je causais avec lui, je faisais mon marché.
+
+-*who_villebrequin
+Cela est vrai, ils étaient tous deux dans le carrosse.
+Mais mon ami que voulez-vous de plus ?
+Est-ce que vous n'êtes pas content ?
+
+-*who_leandre
+Non mordi, je ne le suis pas, j'en veux encore, je veux avoir mon reste.
+Et le premier qui branche ici, je lui casse mon fouet sur le corps.
+
+-*who_gilles
+Sainte merde !
+
+-*who_cassandre
+Jérusalem.
+
+-*who_villebrequin
+Ma fille donne-lui tout ce qu'il demandera, et qu'il nous laisse en repos.
+
+-*who_isabelle
+Mon cher papa, je lui en ai donné tant qu'il a voulu ; ce n'est pas ma faute, je vous en assure, s'il en veut encore.
+
+-*who_leandre
+Non, Monsieur, je n'en ai point z'assez.
+Je ne suis point tel que je parais figuré à vos yeux.
+J'ai emprunté le carrosse d'un de mes amis, pour témoigner à la charmante z'Isabelle combien j'ai de passion pour elle.
+Je suis Monsieur Léandre.
+
+-*who_villebrequin
+Monsieur, vous en êtes bien le maître.
+
+-*who_cassandre
+Monsieur, je vous laisse tout mon droit.
+
+-*who_gilles
+Pardienne, Monsieur, vous ne laissez pas grand chose.
+
+-*who_leandre
+Allons profiter d'un déguisement, qui m'a fait vous obtenir de messieurs vos parents.
+
+-*who_villebrequin
+Allons faire la noce.
+Voulez-vous venir avec nous, mon Compere ?
+
+-*who_cassandre
+Pour le présent, je vous suis bien obligé.
+
+**** *book_ *id_I10 *act_I *date_1720
+
+-*who_gilles
+Pardienne, Monsieur, j'avais bien raison, ce n'était pas ma faute.
+
+-*who_cassandre
+Tais-toi, tu me sens le vieux battu.
+
+-*who_gilles
+Et vous le vieux cocu.
+
+-*who_cassandre
+Oh pour le coup, si je n'avais peur de casser mon bâton...
+
+-*who_gilles
+Donnez, donnez, je ne crains que les coups de votre tête, car elle est trop bien armée.
+
+-*who_cassandre
+Voilà pour toi.

@@ -1,0 +1,1235 @@
+
+
+**** *book_ *id_I01 *act_I *date_1686
+
+-*who_lagloire
+Tout doit céder dans l'Univers
+À l'Auguste Héros que j'aime,
+L'effort des ennemis, les glaces des hivers,
+Les Rochers, les Fleuves, les Mers ,
+Rien n'arrête l'ardeur de sa valeur extrême.
+
+-*who_lasagesse
+Tout doit céder dans l'Univers
+À l'Auguste Héros que j'aime,
+Il sait l'art de tenir tous les monstres aux fers,
+Il est Maître absolu de cent peuples divers,
+Et plus Maître encor de lui-même.
+
+-*who_lagloire,lasagesse
+Tout doit céder dans l'Univers
+À l'Auguste Héros que j'aime.
+
+-*who_lasagesseetsasuite
+Chantons la douceur de ses lois.
+
+-*who_lagloireetsasuite
+Chantons ses glorieux exploits.
+
+-*who_lagloire,lasagesse
+D'une égale tendresse,
+Nous aimons le même Vainqueur.
+
+-*who_lasagesse
+Fière Gloire, c'est vous...
+
+-*who_lagloire
+      C'est vous, douce Sagesse...
+
+-*who_lagloire,lasagesse
+C'est vous, qui partagez avec moi son grand coeur.
+
+-*who_lagloire
+Je l'emportais sur vous tant qu'a duré la Guerre,
+Mais dans la paix vous l'emportez sur moi.
+Vous réglez en secret avec ce sage Roi.
+Le destin de toute la Terre.
+
+-*who_lasagesse
+la Victoire a suivi ce Héros en tous lieux;
+Mais pour montrer son amour pour la Gloire,
+Il se sert encore mieux
+De la Paix que de la Victoire.
+Au milieu du repos qu'il assure aux Humains,
+Il fait tomber sous ses puissantes mains
+Un Monstre qu'on a cru si longtemps invincible,
+On voit dans ses travaux combien il est sensible :
+Pour votre immortelle Beauté ;
+Il prévient vos désirs, il passe votre attente,
+L'ardeur dont il vous aime incessamment s'augmente,
+Et n'a jamais tant éclaté.
+Qu'un vain désir de préférence
+N'altère point l'intelligence
+Que ce Héros contre nous veut former :
+Disputons seulement à qui sait mieux l'aimer.
+
+-*who_lagloire,lasagesse
+Dés qu'on le voit paraître,
+De quel coeur n'est-il point le maître ?
+Qu'il est doux de suivre ses pas !
+Peut-on le connaître
+Et ne l'aimer pas ?
+
+-*who_lasagesse
+Aimons notre Héros, que rien ne nous sépare :
+Il nous invite aux Jeux qu'on nous prépare :
+Nous y verrons Penaud, malgré la Volupté,
+Suivre un Conseil fidèle et sage ;
+Nous le verrons sortir du Palais enchanté,
+Où par l'Amour d'Armide il était arrêté,
+Et voler où la gloire appelle son courage,
+Le grand Roi qui partage entre nous ses désirs,
+Aime à nous voir même dans ses plaisirs.
+
+-*who_lagloire
+Que l'éclat de son nom s'étende au bout du Monde.
+Réunissons nos voix ;
+Que chacun nous réponde.
+
+-*who_lagloire,lasagesse,leschoeurs
+Chantons la douceur de ses lois,
+Chantons ses glorieux exploits.
+
+-*who_leschoeurs
+Que dans le Temple de Mémoire
+Son Nom soit pour jamais gravé,
+C'est à lui qu'il est réservé ,
+D'unir la Sagesse et la Gloire.
+
+**** *book_ *id_II01 *act_II *date_1686
+
+-*who_armide
+Dans un jour de Triomphe au milieu des plaisirs,
+Qui peut vous inspirer une sombre tristesse ?
+La Gloire, la Grandeur, la beauté, la Jeunesse,
+Tous les biens comblent vos désirs.
+
+-*who_sidonie
+Vous allumer une fatale flamme
+Que vous ne ressentez jamais ;
+L'amour n'ose troubler la paix
+Qui règne dans votre âme.
+
+-*who_phenice,sidonie
+Quel sort a plus d'appas ?
+Et qui peut être heureux si vous ne l'êtes pas ?
+
+-*who_phenice
+Si la guerre aujourd'hui fait craindre ses ravages,
+C'est aux bords du Jourdain qu'ils doivent s'arrêter,
+Nos tranquilles rivages
+N'ont rien à redouter.
+
+-*who_sidonie
+Les Enfers, s'il le faut, prendront pour nous les armes !
+Et vous savez leur imposer la loi.
+
+-*who_phenice
+Vos yeux n'ont eu besoin que de leurs propres charmes,
+Pour affaiblir le Camp de Godefroy.
+
+-*who_sidonie
+Ses plus vaillants guerriers contre vous sans défense
+Sont tombés en vôtre puissance.
+
+-*who_armide
+Je ne triomphe pas du plus vaillant de tous.
+Renaud, pour qui ma haine a tant de violence,
+L'indomptable Renaud échappe à mon courroux.
+Tout le camp ennemi pour moi devient sensible.
+Et lui seul, toujours invincible,
+Fit gloire de me voir d'un oeil indifférent,
+Il est dans l'âge aimable où sans effort on aime...
+Non je ne puis manquer sans un effort extrême,
+La conquête d'un coeur si superbe et si grand.
+
+-*who_sidonie
+Qu'importe qu'un captif manque à votre vie noire,
+On n'en voit dans vos fers assez d'autres témoins ;
+Et pour un esclave de moins
+Un Triomphe si beau perdra peu de sa gloire.
+
+-*who_phenice
+Pourquoi voulez-vous songer
+À ce qui peut vous déplaire
+Il est plus sûr de se venger
+Par l'oubli que par la colère.
+
+-*who_armide
+Les enfers ont prédit cent fois,
+Que contre ce guerrier nos armes seraient vaines,
+Et qu'il vaincra nos plus grands Rois :
+Ah ! Qu'il me serait doux de l'accabler de chaînes,
+Et d'arrêter le cours de ses exploits !
+Que je hais ! Que son mépris m'outrage :
+Qu'il fera fier d'éviter l'esclavage
+Où je tiens tant d'autres héros !
+Incessamment son importune image
+Malgré moi trouble mon repos.
+Un songe affreux m'inspire une fureur nouvelle,
+Contre ce funeste ennemi,
+J'ai cru le voir, j'en ai frémi,
+J'ai cru qui me frappait d'une atteinte mortelle.
+Je suis tombée aux pieds de ce cruel Vainqueur:
+Rien ne fléchissait sa rigueur ;
+Et par un charme inconcevable,
+Je me sentais contrainte à le trouver aimable
+Dans le fatal moment qu'il me perçait le coeur ;
+Vous troublez-vous d'une image légère
+Que le sommeil produit ?
+Le beau jour qui vous luit.
+Doit dissiper cette vaine chimère.
+Ainsi qu'il a détruit
+Les ombres de la nuit.
+
+**** *book_ *id_II02 *act_II *date_1686
+
+-*who_hidraot
+Armide, que le sang qui m'unit avec vous
+Me rend sensible aux soins que l'on prend pour vous plaire 1
+Que votre triomphe m'est doux !
+Que j'aime à voir briller le beau jour qui l'éclaire !
+Je n'aurais plus de voeux à faire.
+Si vous choisissiez un époux.
+Je vois de près la mort qui me menace
+Et bientôt l'âge qui me glace
+Va m'accabler sous son pesant fardeau :
+C'est le dernier bien ou j'aspire,
+Que de voir votre hymen promettre à cet Empire,
+Des Rois formé d'un sang si beau ;
+Sans me plaindre du sort, je cesserai de vivre.
+Si ce doux espoir peut me suivre
+Dans l'affreuse nuit du tombeau.
+
+-*who_armide
+La haine de l'Hymen m'étonne,
+Je crains les plus aimables noeuds.
+Ah qu'un coeur devient malheureux
+Quand la liberté l'abandonne !
+
+-*who_hidraot
+Pour vous, quand il vous plaît, tout l'Enfer est armé !
+Vous êtes plus savante en mon art que moi-même :
+Des grands Rois à vos pieds mettent leur diadème ;
+Qu'il vous voit un moment, est pour jamais charmé.
+Pouvez-vous mieux goûter votre plaisir extrême
+Qu'avec un époux qui vous aime,
+Et qui soit digne d'être aimé.
+
+-*who_armide
+Contre mes ennemis à mon gré je déchaîne
+Le noir Empire des enfers ;
+L'Amour met des Rois dans mes fers,
+Je fuis de mille amants maîtresse souveraine :
+Mais je fais mon plus grand bonheur
+D'être maîtresse de mon coeur.
+
+-*who_hidraot
+Bornez-vous vos désirs à la gloire cruelle
+Des maux que fait votre beauté ;
+Ne ferez-vous jamais votre félicité ?
+Du bonheur d'un amant fidèle.
+
+-*who_armide
+Si je dois m'engager un jour,
+Au moins devez vous croire
+Qu'il faudra que ce soit la Gloire
+Qui livre mon coeur à l'Amour.
+Pour devenir mon maître
+Ce n'est point assez d'être Roi.
+Ce sera la Valeur qui me fera connaître
+Celui qui mérite ma foi.
+Le Vainqueur de Renaud, si quelqu'un le peut-être.
+Sera digne de moi.
+
+**** *book_ *id_II03 *act_II *date_1686
+
+-*who_hidraot
+Armide est encor plus aimable
+Qu'elle n'est redoutable.
+Que son Triomphe est glorieux
+Ses charmes les plus forts sont ceux de ses beaux yeux,
+Elle n'a besoin d'emprunter l'Art terrible
+Qui sait quand il lui plaît faire armer les Enfers,
+Sa beauté trouve tout possible.
+Nos plus fiers Ennemis gémissent dans ses fers.
+
+-*who_hidraot,lechoeur
+Armide est encor plus aimable
+Qu'elle n'est redoutable.
+Que son Triomphe est glorieux !
+Ses charmes les plus forts sont ceux de ses beaux yeux.
+
+-*who_phenice,lechoeur
+Suivons Armide, et chantons sa victoire,
+Tout l'Univers retentit de sa gloire.
+
+-*who_phenice
+Nos Ennemis affaiblis et troublés
+N'étendront plus le progrès de leurs armes !
+Ah ! Quel bonheur ! Nos désirs sont comblés.
+Sans nous coûter ni de sang ni de larmes.
+
+-*who_lechoeur
+Suivons Armide, et chantons sa victoire,
+Tout l'Univers retentit de sa gloire.
+
+-*who_phenice
+L'ardent Amour qui la fuit en tous lieux
+S'attache aux coeurs qu'elle veut qu'il enflamme.
+Il est content de régner dans ses yeux,
+Et n'ose encor passer jusqu'à son âme.
+
+-*who_lechoeur
+Suivons Armide, et chantons sa Victoire,
+Tout L'Univers retentit de sa gloire.
+
+-*who_sidonie,lechoeur
+Que la douceur d'un triomphe est extrême,
+Quand on n'en doit tout l'honneur qu'à soi-même.
+
+-*who_sidonie
+Nous n'avons point fait armer nos soldats,
+Sans leur secours Armide est triomphante ;
+Tout son pouvoir est dans ses doux appas,
+Rien n'est si beau, que sa beauté charmante.
+
+-*who_lechoeur
+Que la douceur d'un triomphe est extrême,
+Quand, on n'en doit tout l'honneur qu'à soi-même !
+
+-*who_sidonie
+La belle Armide a su vaincre aisément
+De fiers Guerriers plus craints que le tonnerre,
+Et ses regards ont en moins d'un moment
+Donné des lois aux Vainqueurs de la terre.
+
+-*who_lechoeur
+Que la douceur d'un Triomphe est extrême,
+Quand on n'en doit tout l'honneur qu'à soi-même !
+
+**** *book_ *id_II04 *act_II *date_1686
+
+-*who_aronte
+Ô Ciel ! Ô disgrâce cruelle !
+Je conduisais vos Captifs avec soin ;
+J'ai tout tenté pour vous marquer mon zèle,
+Mon sang qui coule en est témoin.
+
+-*who_armide
+Mais où sont mes captifs ?
+
+-*who_aronte
+Un Guerrier indomptable
+Les a délivrés tous.
+
+-*who_armide,hidraot
+Un seul Guerrier ! Que dites-vous !
+Ciel !
+
+-*who_aronte
+      De nos ennemis c'est le plus redoutable.
+Nos plus vaillants soldats sont tombés sous ses coups :
+Rien ne peut résister à sa valeur extrême...
+
+-*who_armide
+Ô Ciel ! C'est Renaud.
+
+-*who_aronte
+C'est lui-même.
+
+-*who_armide,hidraot
+Poursuivons jusqu'aux trépas
+L'ennemi qni nous offense.
+Qu'il n'échappe pas
+À notre vengeance.
+
+-*who_lechoeur
+Poursuivons jusqu'aux trépas
+L'ennemi qui nous offense.
+Qu'il n'échappe pas
+À notre vengeance.
+
+**** *book_ *id_III01 *act_III *date_1686
+
+-*who_artemidore
+Invincible Héros, c'est par votre courage
+Que j'échappe aux rigueurs d'un funeste esclavage ?
+Après ce généreux recours,
+Puis-je me dispenser de vous suivre toujours ?
+
+-*who_renaud
+Allez, allez remplir ma place.
+Aux lieux d'où mon malheur me chasse,
+Le fier Renaud m'a contraint à punir,
+Sa téméraire audace :
+D'une indigne prison Godefroy me menace
+Et de son Camp m'oblige à me bannir,
+Je m'en éloigne avec contrainte,
+Heureux ! Si j'avais pu consacrer mes exploits
+À délivrer la Cité sainte
+Qui gémit sous des dures lois,
+Suivez les guerriers qu'un beau zèle
+Presse de signaler leur valeur et leur foi :
+Cherchez une gloire immortelle,
+Je veux dans mon exil n'envelopper que moi.
+
+-*who_artemidore
+Sans vous que peut-on entreprendre ;
+Celui qui vous bannit ne pourra s'en défendre
+De souhaiter votre retour.
+S'il faut que je vous quitte ; au moins ne puis-je apprendre
+En quels lieux vous allez choisir votre séjour.
+
+-*who_renaud
+Le repos me fait violence,
+La feule Gloire a pour moi des appas :
+Je prétend adresser mes pas
+Où la Justice et l'innocence
+Auront besoin du secours de mes bras.
+
+-*who_artemidore
+Fuyez les lieux où règne Armide,
+Si vous cherchez à vivre heureux ;
+Pour le Coeur le plus intrépide
+Elle a des charmes dangereux,
+C'est une ennemie implacable,
+Évitez ses ressentiments ;
+Puisse le Ciel à mes voeux favorable
+Vous garantit de ses enchantements.
+Pat une heureuse indifférence
+Mon coeur s'est dérobé fans peine à sa puissance,
+Je la vis seulement d'un regard curieux.
+Est-il plus mal aisé d'éviter sa vengeance.
+Que d'échapper au pouvoir de ses yeux ?
+J'aime la liberté, rien ne m'a pu contraindre
+À m'engager jusqu'à ce jour.
+Quand on peut mépriser le charme de l'Amour.
+Quels enchantements peut-on craindre ?
+
+**** *book_ *id_III02 *act_III *date_1686
+
+-*who_hidraot
+Arrêtons-nous ici, c'est dans ce lieu fatal
+Que la fureur qui nous anime
+Ordonne à l'Empire infernal
+De conduire notre victime.
+
+-*who_armide
+Que l'Enfer aujourd'hui tarde à suivre nos lois !
+
+-*who_hidraot
+Pour achever le charme il faut unit nos voix.
+
+-*who_hidraot,armide
+Esprit de haine et de rage,
+Démons, obéissez-nous.
+Livrez à notre courroux
+L'Ennemi qui nous outrage.
+Esprit de haine et de rage,
+Démons obéissez-nous.
+
+-*who_armide
+Démons affreux, cachez-vous
+Sous une agréable image ,
+Enchantez ce fier courage
+Par les charmes les plus doux. ,
+
+-*who_hidraot,armide
+Esprit de haine et de rage,
+Démons, obéissez-nous.
+
+-*who_armide
+Dans le piège fatal notre ennemi s'engage.
+
+-*who_hidraot
+Nos Soldats font cachés dans le prochain bocage,
+Il faut que sur Renaud ils viennent fondre tous.
+
+-*who_armide
+Cette victime est mon partage ;
+Laissez-moi l'immoler, laissez-moi l'avantage
+De voir ce coeur superbe expirer de mes coups.-
+
+**** *book_ *id_III03 *act_III *date_1686
+
+-*who_renaud
+Plus j'observe ces lieux, et plus je les admire,
+Ce Pleuve coule lentement
+Et s'éloigne à regret d'un séjour si charmant.
+Les plus aimables fleurs, et le plus doux zéphyr
+Parfument l'air qu'on y respire.
+Non, je ne puis quitter des rivages si beaux,
+Un son harmonieux se mêle au bruit des eaux ;
+Les Oiseaux enchantés se taisent pour l'entendre.
+Des charmes du sommeil j'ai peine à me défendre.
+Ce gazon, cet ombrage frais,
+Tout m'invite au repos sous ce feuillage épais.
+
+**** *book_ *id_III04 *act_III *date_1686
+
+-*who_unenaiade
+Au temps heureux où l'on sait plaire
+Qu'il est doux d'aimer tendrement,
+Pourquoi dans les périls avec empressement
+Chercher d'un vain honneur l'éclat imaginaire ?
+Pour une trompeuse chimère
+Faut-il quitter un bien charmant ?
+Au temps heureux où l'on sait plaire
+Qu'il est doux d'aimer tendrement !
+
+-*who_lechoeur
+Ha ! Quelle erreur ! Quelle folie !
+De ne pas jouir de la vie !
+C'est aux Jeux, c'est aux Amours,
+Qu'il faut donner les beaux jours.
+
+-*who_unebergere
+On s'étonnerait moins que la saison nouvelle
+Revint sans amener les fleurs et les zéphyrs,
+Que de voir de nos ans la saison la plus belle
+Sans l'Amour et sans les plaisirs.
+Laissons au tendre amour la jeunesse en partage ;
+La Sagesse a son temps, il ne vint que trop tôt :
+Ce n'est pas être sage,
+D'être plus sage qu'il ne faut.
+
+-*who_leschoeurs
+Ah ! Quelle erreur ! Quelle folie !
+De ne pas jouir de la vie !
+C'est aux jeux, c'est aux amours
+Qu'il faut donner les beaux jours.
+
+**** *book_ *id_III05 *act_III *date_1686
+
+-*who_armide
+Enfin, il est en ma puissance,
+Ce fatal ennemi, ce superbe vainqueur,
+Le charme du sommeil le livre à ma vengeance.
+Je vais percer son invincible coeur.
+Par lui, tous mes captifs sont sortis d'esclavage,
+Qu'il éprouve toute ma rage...
+Quel trouble me saisit ? Qui me fait hésiter ?
+Qu'est-ce qu'en sa faveur la pitié me veut dire ?
+Frappons... Ciel ! Qui peut m'arrêter ;
+Achevons... je frémis ! Vengeons-nous... je soupire ;
+Est-ce ainsi que je dois me venger aujourd'hui ?
+Ma colère s'éteint quand j'approche de lui.
+Plus je le vois plus ma colère est vaine,
+Mon bras tremblant se refuse à ma haine,
+Ah ! Quelle cruauté de lui ravir le jour !
+À ce jeune Héros tout cède sur la Terre.
+Qui croirait qu'il fut né seulement pour la guerre ?
+Il semble être fait pour l'Amour.
+Ne puis-je me venger à moins qu'il ne périsse ;
+Hé ne suffit-il pas que l'Amour le punisse !
+Puisqu'il n'a pu trouver mes yeux assez charmants,
+Qu'il m'aime au moins par mes enchantements,
+Que s'il se peut, je le haïsse.
+Venez, secondez mes désirs,
+Démons, transformez-vous en d'aimables zéphyrs.
+Je cède à ce vainqueur, la pitié me surmonte ;
+Cachez ma faiblesse et ma honte
+Dans les plus reculés déserts.
+Volez, conduisez-nous au bout de l'Univers/
+
+**** *book_ *id_IV01 *act_IV *date_1686
+
+-*who_armide
+Ah ! Si la liberté me doit être ravie
+Est-ce à toi d'être mon vainqueur !
+Trop funeste ennemi du bonheur de ma vie,
+Faut-il que malgré moi tu règnes dans mon coeur ?
+Le désir de ta mort fut ma plus chère envie ,
+Comment as-tu changé ma colère en langueur ?
+En vain, de mille amants je me voyais suivie,
+Aucun n'a fléchi ma rigueur,
+Se peut-il que Renaud tienne Armide asservie ?
+Ah ! Si la liberté me doit être ravie,
+Est-ce à toi d'être mon vainqueur ?
+Trop funeste ennemi du bonheur de ma vie
+Faut-il que malgré moi tu règnes dans mon coeur ?
+
+**** *book_ *id_IV02 *act_IV *date_1686
+
+-*who_phenice
+Que ne peut point votre art ? La force en est extrême.
+Quel prodige ! Quel changement !
+Renaud qui fut si fier, vous aime ;
+On n'a jamais aimé si tendrement.
+
+-*who_sidonie
+Montrez vous à ses yeux, soyez témoin vous-même.
+Du merveilleux effet de votre enchantement.
+
+-*who_armide
+L'Enfer n'a pas encore rempli mon espérance.
+Il faut qu'un nouveau charme assure ma vengeance.
+
+-*who_sidonie
+Sur des bords séparez du séjour des humains,
+Qui peut arracher de vos mains
+Un ennemi qui vous adore ?
+Vous enchantez Renaud, que craignez vous encore ?
+
+-*who_armide
+Hélas ! C'est mon coeur que je crains
+Votre amitié dans mon sort s'intéresse :
+Je vous ai fait conduire avec moi dans ces lieux.
+Au reste des Mortels je cache ma faiblesse,
+Je n'en veux rougir qu'à vos yeux.
+De mes plus doux regards Renaud sut se défendre,
+Je ne pus engager ce coeur fier à se rendre,
+Il m'échappa malgré mes soins.
+Sous le nom du Dépit l'Amour vint me surprendre
+Lorsque je m'en gardais le moins :
+Plus Renaud m'aimera, moins je serai tranquille ;
+J'ai résolu de le haïr :
+Je n'ai tenté jamais rien de si difficile :
+Je crains que pour forcer son coeur à m'obéir.
+Tout mon art ne soit inutile.
+
+-*who_phenice
+Que votre art serait beau ! Qu'il serait admiré !
+S'il savait garantir des troubles de la vie !
+De disposer de son coeur à son gré !
+C'est un secret digne d'envie,
+Mais de tous les secrets c'est les plus ignoré.
+
+-*who_sidonie
+La haine est affreuse et barbare ;
+L'Amour contraint les coeurs dont il s'empare
+À souffrir des maux rigoureux :
+Si votre sort est en votre puissance,
+Faites choix de l'indifférence,
+Elle assure un repos heureux.
+
+-*who_armide
+Non, non, il ne m'est pas possible
+De passer de mon trouble en un état paisible,
+Mon coeur ne se peut plus calmer
+Renaud m'offense trop, il n'est que trop aimable.
+
+-*who_melisse
+C'est pour moi désormais un choix indispensable.
+De le haïr ou de l'aimer.
+
+-*who_phenice
+Vous n'avez pu haïr ce héros invincible !
+Lorsqu'il était le plus terrible
+De tous vos ennemis.
+Il vous aime, l'Amour l'enchaîne
+Garderiez-vous mieux votre haine
+Contre un amant si tendre et si soumis ?
+
+-*who_armide
+Il m'aime, quel amour ! Ma honte s'en augmente,
+Dois-je être aimée ainsi ? Puis-je en être contente ?
+C'est un vain triomphe, un faux bien.
+Hélas ! Que son amour est différent du mien !
+J'ai recours aux Enfers pour allumer sa flamme
+C'est l'effort de mon art qui peut tout sur son âme,
+Ma faible beauté n'y peut rien.
+Par son propre mérite il suspend ma vengeance,
+Sans secours, sans effort, même sans qu'il y pense,
+Il enchaîne mon coeur d'un trop charmant lien.
+Hélas ! Que mon amour est différent du sien ;
+Qu'elle vengeance ai-je à prétendre
+Si je le veux aimer toujours ?
+Quoi, céder sans rien entreprendre ?
+Non, il faut appeler la Haine à mon secours.
+L'horreur de ces lieux solitaires
+Par mon art va se redoubler.
+Détournez vos regards de mes affreux mystères.
+Et surtout empêchez Renaud de me troubler.
+
+**** *book_ *id_IV03 *act_IV *date_1686
+
+-*who_armide
+Venez, venez, Haine implacable,
+Sortez du gouffre épouvantable
+Où vous faites régner une éternelle horreur.
+Sauvez-moi de l'Amour, rien n'est si redoutable,
+Contre un ennemi trop aimable :
+Rendez-moi mon courroux, rallumez ma fureur.
+Venez, venez, Haine implacable,
+Sortez du gouffre épouvantable
+Où vous faites régner une éternelle horreur.
+
+**** *book_ *id_IV04 *act_IV *date_1686
+
+-*who_lahaine
+Je réponds à tes voeux, ta voix s'est fait entendre
+Jusques dans le fond des Enfers.
+Pour toi, contre l'Amour, je vais tout entreprendre,
+Et quand on veut bien s'en défendre
+On peut se garantir de ses indignes fers.
+
+-*who_lahaine,sasuite
+Plus on connaît l'Amour, et plus on le déteste ;
+Détruisons son pouvoir funeste,
+Rompons ses noeuds, déchirons son bandeau ,
+Brûlons ses traits, éteignons son flambeau.
+
+-*who_lechoeur
+Plus on connaît l'Amour, et plus on le déteste,
+Détruisons son pouvoir funeste ,
+Rompons ses noeuds, déchirons son bandeau,
+Brûlons ses traits, éteignons son Flambeau.
+
+-*who_lahaine,sasuite
+Amour, sort pour jamais, sort d'un coeur qui te chasse,
+Que la Haine règne en ta place,
+Tu fais trop souffrir sous ta loi ;
+Non, tout l'Enfer n'a rien de si cruel que toi.
+
+-*who_lahaine
+Sors, sors du sein d'Armide, Amour brise ta chaîne.
+
+-*who_armide
+Arrête, arrête, affreuse Haine,
+Laisse-moi sous les lois d'un si charmant vainqueur.
+Laisse-moi, je renonce à ton secours horrible,
+Non, non, n'achève pas ; non il n'est pas possible
+De m'ôter mon amour sans m'arracher le coeur.
+
+-*who_lahaine
+N'implores-tu mon assistance
+Que pour mépriser ma puissance ?
+Suis l'amour, puisque tu le veux,
+Infortunée Armide,
+Suis l'Amour qui te guide
+Dans un abîme affreux.
+Sur ces bords écartés c'est en vain que tu caches
+Le Héros dont ton coeur s'est trop laissé toucher
+La Gloire à qui tu l'arraches,
+Doit bientôt te l'arracher,
+Malgré tes soins, au mépris de tes larmes
+Tu le verras échapper à tes charmes.
+Tu me rappelleras, peut-être , dés ce jour :
+Et ton attente sera vaine :
+Je vais te quitter sans retour,
+Je ne puis te punir d'une plus rude peine,
+Que de t'abandonner pour jamais à l'Amour.
+
+**** *book_ *id_V01 *act_V *date_1686
+
+-*who_ubalde,lechevalierdanois
+Nous ne trouvons partout que des gouffres ouverts ;
+Armide a dans ces lieux transportées les Enfers.
+Ah ! Que d'objets horribles !
+Que de Monstres terribles !
+
+-*who_ubalde
+Celui qui nous envoie a prévu ce danger.
+Et nous a montré l'art de nous en dégager.
+Ne craignons point Armide ni ses charmes
+Par ce secours plus puissant que nos armes
+Nous en serons aisément garantis.
+Laissez-nous un libre passage,
+Monstres, allez cacher votre inutile rage
+Dans l'abîme profond d'où vous êtes sortis.
+
+-*who_lechevalierdanois
+Allons chercher Renaud ; le ciel nous favorise
+Dans notre pénible entreprise.
+Ce qui peut flatter nos désirs,
+Doit à son tour tenter de nous surprendre :
+C'est désormais du charme des plaisirs
+Que nous aurons à nous défendre,
+
+-*who_ubalde,lechevalierdanois
+Redoublons nos soins, gardons-nous
+Des périls agréables,
+Les enchantements les plus doux
+Sont les plus redoutables.
+
+-*who_ubalde
+On voit d'ici le séjour enchanté
+D'Armide, et du Héros qu'elle aime.
+Dans ce Palais Renaud est arrêté
+Par un charme fatal dont la force est extrême
+C'est là, que ce vainqueur si fier, si redouté.
+Oubliant tout jusqu'à lui-même,
+Est réduit à languir avec indignité
+Dans une molle oisiveté.
+
+-*who_lechevalierdanois
+En vain, tout l'Enfer s'intéresse
+Dans l'Amour qui séduit un coeur si Glorieux
+Si sur ce bouclier Renaud tourne les yeux,
+Il rougira de sa faiblesse,
+Et nous l'engagerons à partir de ces lieux.
+
+**** *book_ *id_V02 *act_V *date_1686
+
+-*who_lucinde
+Voici la charmante Retraite
+De la félicité parfaite ;
+Voici l'heureux séjour
+Des jeux et de l'amour.
+
+-*who_lechoeur
+Voici la charmante Retraite
+De la félicité parfaite ;
+Voici l'heureux séjour
+Des Jeux et de l'Amour.
+
+-*who_ubalde
+Allons, qui vous retient encore ?
+Allons, c'est trop nous arrêter.
+
+-*who_lechevalierdanois
+Je vois la Beauté que j'adore,
+C'est elle, je n'en puis douter.
+
+-*who_lucinde,lechoeur
+Jamais dans ses beaux lieux notre attente n'est vaine ,
+Le bien que nous cherchons se vient offrir à nous,
+Et pour l'avoir trouvé fans peine,
+Nous ne l'en trouvons pas moins doux.
+
+-*who_lechoeur
+Voici la charmante retraite
+De la félicité parfaite ,
+Voici l'heureux séjour
+Des Jeux et de l'Amour.
+
+-*who_lucinde
+Enfin, je vois l'amant pour qui mon coeur soupire :
+Je retrouve le bien que j'ai tant souhaité.
+
+-*who_lechevalierdanois
+Puis-je voir ici la Beauté
+Qui m'a soumis à son empire.
+
+-*who_ubalde
+Non, ce n'est qu'un charme trompeur
+Dont il faut garder votre coeur.
+
+-*who_lechevalierdanois
+Si loin des bords glacés, où vous prîtes naissance,
+Qui peut vous offrir à mes yeux !
+
+-*who_lucinde
+Par une magique puissance,
+Armide m'a conduite en ces aimables lieux ;
+Et je vivais dans la douce espérance
+D'y voir bientôt ce que j'aime le mieux.
+Goûtons-les doux plaisirs que pour nos coeurs fidèles
+Dans cet heureux séjour l'Amour a préparé.
+Le devoir par des lois cruelles
+Ne nous a que trop séparés.
+
+-*who_ubalde
+Fuyez, faites-vous violence.
+
+-*who_lechevalierdanois
+L'Amour ne me le permet pas,
+Contre de si charmants appas
+Mon coeur est sans défense.
+
+-*who_ubalde
+Est-ce là cette fermeté
+Dont vous êtes tant vanté ?
+
+-*who_lechevalierdanois,lucinde
+Jouissons d'un bonheur extrême.
+Hé quel autre bien peut valoir
+Le plaisir de voir ce qu'on aime ;
+Hé ! Quel autre bien peut valoir
+Le plaisir de vous voir.
+
+-*who_ubalde
+Malgré la puissance infernale,
+Malgré vous-même, il faut vous détromper
+Ce sceptre d'or peut dissiper
+Une erreur si fatale.
+
+**** *book_ *id_V03 *act_V *date_1686
+
+-*who_lechevalierdanois
+Je tourne en vain mes yeux de toutes parts.
+Je ne vois plus cette beauté si chère :
+Elle échappe à mes regards
+Comme une vapeur légère.
+
+-*who_ubalde
+Ce que l'Amour a de charmant,
+N'est qu'une illusion qui ne laisse après elle
+Qu'une honte éternelle.
+Ce que l'Amour a de charmant,
+N'est qu'un funeste enchantement.
+
+-*who_lechevalierdanois
+Je vois le danger où s'expose
+Un coeur qui se fuit dans un charme si puissant
+Que vous êtes heureux si vous êtes exempt
+Des faiblesses que l'Amour cause.
+
+-*who_ubalde
+Non, je n'ai point gardé mon coeur jusqu'à ce jour
+Près de l'objet que j'aime il m'était doux de vivre ;
+Mais quand la Gloire ordonne de la suivre
+Il faut laisser gémir l'Amour.
+Des charmes les plus forts la raison me dégage,
+Rien ne nous doit ici retenir davantage ;
+Profitons des conseils, que l'on nous a donnés.
+
+**** *book_ *id_V04 *act_V *date_1686
+
+-*who_melisse
+D'où vient que vous vous détournez
+De ces eaux et de cet ombrage ?
+Goûtez un doux repos, étrangers fortunés ;
+Délassez-vous ici d'un pénible voyage,
+Un favorable sort vous appelle au partage
+Des biens qui nous sont destinés.
+
+-*who_ubalde
+Est-ce vous, charmante Mélisse ?
+
+-*who_melisse
+Est-ce vous, cher Amant ! Est-ce vous que je vois ?
+
+-*who_ubalde,melisse
+Au rapport de mes sens je n'ose ajouter foi.
+Se peut-il qu'en ces lieux l'Amour nous réunisse.
+
+-*who_melisse
+Est-ce vous, cher amant ; est-ce vous que je vois ?
+
+-*who_ubalde
+Est-ce vous, charmante Mélisse ?
+
+-*who_lechevalierdanois
+Non, ce n'est qu'un charme trompeur
+Dont il faut garder votre coeur.
+Fuyez, faites vous violence.
+
+-*who_melisse
+Pourquoi, faut-il encore marcher mon Amant ?
+Faut-il ne vous voir qu'un moment
+Après une si longue absence ;
+Je ne puis consentir à votre éloignement ;
+Je n'ai que trop souffert un si cruel tourment,
+Et je mourrai s'il recommence.
+
+-*who_ubalde,melisse
+Faut-il ne nous voir qu'un moment
+Après une si longue absence ?
+
+-*who_lechevalierdanois
+Est-ce là cette fermeté.
+Dont vous vous êtes tant vanté ;
+Sortez de votre erreur, la Raison vous appelle.
+Ah ! Que la Raison est cruelle,
+Si je suis abusé pourquoi m'en avertir ?
+Que mon erreur ma paraît belle ?
+Que je serais heureux de n'en jamais sortir ?
+
+-*who_lechevalierdanois
+J'aurai soin, malgré vous, de vous garantir.
+
+-*who_ubalde
+Que devient l'objet qui m'enflamme
+Mélisse disparaît soudain.
+Ciel faut-il qu'un fantôme vain.
+Cause tant de trouble à mon âme ?
+
+-*who_lechevalierdanois
+Ce que l'Amour a de charmant
+N'est qu'une illusion qui ne laisse après elle
+Qu'une honte éternelle.
+Ce que l'Amour a de charmant
+N'est qu'un funeste enchantement.
+
+-*who_ubalde,lechevalierdanois
+Ce que l'Amour a de charmant
+N'est qu'un funeste enchantement.
+
+-*who_ubalde
+D'une nouvelle erreur, songeons à nous défendre.
+Évitons des trompeurs attraits ;
+Ne nous détournons plus du chemin qu'il faut prendre
+Pour arriver à ce palais.
+
+-*who_ubalde,lechevalierdanois
+Fuyons les douceurs dangereuses
+Des illusions amoureuses :-
+On s'égare quand on les suit ;
+Heureux qui n'en est pas séduit.
+
+**** *book_ *id_VI01 *act_VI *date_1686
+
+-*who_renaud
+Armide, vous m'allez quitter !
+
+-*who_armide
+J'ai besoin des Enfers, je vais les consulter ;
+Mon art veut de la solitude :
+L'amour que j'ai pour vous cause l'inquiétude
+Dont mon coeur se sent agité.
+
+-*who_renaud
+Armide vous m'allez quitter ?
+
+-*who_armide
+Voyez en quel lieux je vous laisse.
+
+-*who_renaud
+Puis-je rien voir que vos appas !
+
+-*who_armide
+Les plaisirs vous suivrons sans cesse,
+
+-*who_renaud
+En est-il où vous n'êtes pas ?
+
+-*who_armide
+Un noir pressentiment me trouble et me tourmente,
+Il m'annonce un malheur que je veux prévenir ;
+Et plus notre bonheur m'enchante,
+Plus je crains de le voir finir.
+
+-*who_renaud
+D'une vaine terreur pouvez-vous être atteinte,
+Vous qui faites trembler le ténébreux séjour ?
+
+-*who_armide
+Vous m'apprenez à connaître l'Amour,
+L'Amour m'apprend à connaître la crainte,
+Vous brûliez pour la Gloire avant que de m'aimer,
+Vous la cherchiez partout d'une ardeur sans égale.
+La Gloire est une rivale
+Qui doit toujours m'alarmer.
+
+-*who_renaud
+Que j'étais insensé de croire
+Qu'un vain laurier donné par la Victoire :
+De tous les biens fut le plus précieux ?
+Tout l'éclat dont brille la Gloire,
+Vaut-il un regard de vos yeux ?
+Est-il un bien si charmant et si rare
+Que celui dont l'Amour veut combler mon espoir ?
+
+-*who_armide
+La sévère Raison et le devoir barbare ;
+Sur les Héros n'ont que trop de pouvoir.
+
+-*who_renaud
+J'en suis plus amoureux plus la raison m'éclaire.
+Vous aimer, belle Armide, est mon premier devoir ;
+Je fais ma gloire de vous plaire
+Et tout mon bonheur de vous voir.
+
+-*who_armide
+Que sous d'aimables lois mon âme est asservie !
+
+-*who_renaud
+Qu'il est doux de vous voir partager ma langueur !
+
+-*who_armide
+Qu'il m'est doux d'enchaîner un si fameux vainqueur !
+
+-*who_renaud
+Que mes fers sont dignes d'envie !
+
+-*who_renaud,armlde
+Aimons-nous, tout nous y convie
+Ah ! Si vous aviez la rigueur
+De m'ôter votre coeur,
+Vous m'ôteriez la vie.
+
+-*who_renaud
+Non, je perdrai plutôt le jour.
+Que d'éteindre ma flamme.
+
+-*who_armide
+Non, rien ne peut changer mon âme.
+
+-*who_renaud
+Non, je perdrai plutôt le jour,
+
+-*who_renaud,armlde
+Non je perdrai plutôt le jour,
+Que d'éteindre ma flamme ;
+Non rien ne peut changer mon âme.
+Non, je perdrai plutôt le jour.
+Que de me dégager d'un si charmant amour.
+
+-*who_armide
+Témoins de notre amour extrême,
+Vous, qui suiviez mes lois dans ce séjour heureux
+Jusques à mon retour par d'agréables jeux :
+Occupez le Héros que j'aime.
+
+**** *book_ *id_VI02 *act_VI *date_1686
+
+-*who_unamant
+Les plaisirs ont choisi pour asile
+Ce séjour agréable et tranquille :
+Que ces lieux sont charmants,
+Pour les heureux amants !
+C'est l'Amour qui retient dans ses chaînes
+Mille oiseaux qu'en nos bois nuit et jour, on entend.
+Si l'Amour ne causait que des peines,
+Les oiseaux amoureux ne chanteraient pas tant.
+Jeunes Coeurs, tout vous est favorable,
+Profitez d'un bonheur peu durable.
+Dans l'hiver de nos ans, l'Amour ne règne plus :
+Les beaux jours que l'on perd sont pour jamais perdu.
+Les plaisirs ont choisi pour asile
+Ce séjour agréable et tranquille.
+Que ces lieux sont charmants ;
+Pour les heureux amants !
+
+-*who_renaud
+Allez, éloignez-vous de moi,
+Doux plaisirs, attendez, qu'Armide vous ramène.
+Sans la beauté qui me tient sous sa loi,
+Rien ne me plaît, tout augmente ma peine,
+Allez, éloignez-vous de moi,
+Doux plaisirs, attendez qu'Armide vous ramène.
+
+**** *book_ *id_VI03 *act_VI *date_1686
+
+-*who_ubalde
+Il est seul, profitons d'un temps si précieux.
+
+-*who_renaud
+Que vois-je ? Quel éclat me vient frapper les yeux ?
+
+-*who_ubalde
+Le Ciel veut vous faire connaître
+L'erreur dont vos sens sont séduits.
+
+-*who_renaud
+Ciel quelle honte de paraître
+Dans l'indigne état ou je suis ?
+
+-*who_ubalde
+Notre général vous rappelle :
+La Victoire vous garde une palme immortelle,
+Tout doit presser votre retour ;
+De cent divers climats chacun court à la guerre ;
+Renaud seul au bout de la Terre,
+Caché dans un charmant séjour,
+Veut-il suivre un honteux amour.
+
+-*who_renaud
+Vains ornements d'un indigne mollesse,
+Ne m'offrez plus vos frivoles attraits :
+Restez honteux de ma faiblesse,
+Allez quittez-moi pour jamais.
+
+-*who_lechevalierdanois
+Dérobez-vous aux pleurs d'Armide,
+C'est l'unique danger dont votre âme intrépide
+A besoin de se garantir.
+Dans ces lieux enchantés la Volupté préside,
+Vous n'en sauriez trop tôt sortir.
+
+-*who_renaud
+Allons, hâtons-nous de partir.
+
+**** *book_ *id_VI04 *act_VI *date_1686
+
+-*who_armide
+Renaud ; Ciel ; ô mortelle peine ;
+Vous partez ; Renaud ; vous partez ;
+Démons, suivez ses pas, volez, et l'arrêtez.
+Hélas ; tout me trahit, et ma puissance est vaine.
+Renaud ! Ciel ! Ô mortelle peine!
+Mes cris ne sont pas écoutés,
+Vous partez : Renaud, vous partez,
+Si je ne vous vois plus, croyez-vous que je vive ?
+Ai-je pu mériter un si cruel tourment ?
+Au moins comme ennemi, si ce n'est comme Amant,
+Emmenez Armide captive,
+J'irai dans les combats, j'irai m'offrir aux coups,
+Qui seront destinés pour vous :
+Renaud, pourvu que je vous suive
+Le sort plus affreux me paraîtra trop doux.
+
+-*who_renaud
+Armide, il est temps que j'évite
+Le péril trop charmant que je trouve à vous voir.
+La Gloire veut que je vous quitte,
+Elle ordonne à l'Amour de céder au devoir :
+Si vous souffrez, vous pouvez croire
+Que je m'éloigne à regret de vos yeux ;
+Vous régnerez toujours dans la mémoire,
+Vous serez après la Gloire
+Ce que j'aimerai le mieux.
+
+-*who_armide
+Non, jamais de l'Amour tu n'as senti le charme ;
+Tu te plais à causer de funestes malheurs,
+Tu m'entends soupirer, tu vois couler mes pleurs,
+Sans me rendre un soupir , sans verser une larme.
+Par les noeuds les plus doux je te conjure en vain ;
+Tu suis un fier devoir, tu veux qu'il nous sépare.
+Non, non ; ton coeur n'a rien d'humain,
+Le coeur d'un tigre est moins barbare.
+Je mourrai si tu pars, tu n'en peut douter ;
+Ingrat, sans toi je ne puis vivre :
+Mais après mon trépas ne crois pas éviter
+Mon ombre obstinée à te suivre ;
+Tu la verras s'armer contre ton coeur sans foi :
+Tu la trouvera inflexible,
+Comme tu l'as été pour moi ;
+Et sa fureur, s'il est possible,
+Égalera l'amour dont j'ai brûlé pour toi...
+Ah la lumière m'est ravie ;
+Barbare ; es tu content ?
+Tu jouis en parlant,
+Du plaisir de m'ôter la vie.
+
+-*who_renaud
+Trop malheureuse Armide, hélas !
+Que ton destin est déplorable.
+
+-*who_ubalde,lechevalierdanois
+Il faut partir, hâtez vos pas,
+La gloire attend de vous un coeur inébranlable.
+
+-*who_renaud
+Non, la Gloire n'ordonne pas
+Qu'un grand coeur soit impitoyable.
+
+-*who_ubalde,lechevalierdanois
+Il faut vous arracher aux dangereux appas
+D'un objet trop aimable.
+
+-*who_renaud
+Trop malheureuse Armide, hélas !
+Que ton destin est déplorable !
+
+**** *book_ *id_VI05 *act_VI *date_1686
+
+-*who_armide
+Le perfide Renaud me fuit ?
+Tout perfide qu'il est, mon lâche coeur le fuit.
+Il me laisse mourante, il veut que je périsse,
+À regret, je revois la clarté qui me luit :
+L'horreur de l'éternelle nuit
+Cède à l'horreur de mon supplice
+Le perfide Renaud me fuit ?
+Tout perfide qu'il est mon lâche coeur le suit,
+Quand le Barbare était en ma puissance,
+Que n'ai-je cru la Haine et la Vengeance ?
+Que n'ai-je suivi leurs transports ?
+Je m'échappe, il s'éloigne, il va quitter ces bords ;
+Il brave l'Enfer et ma rage,
+Il est déjà près du rivage,
+Je fais pour m'y traîner d'inutiles efforts.
+Traître, attends... je le tiens... Je tiens son coeur perfide.
+Ah ! Je l'immole à ma fureur...
+Que dis-je, où suis-je : hélas ; Infortunée Armide !
+Où t'emporte une aveugle erreur ?
+L'espoir de ma vengeance est le seul qui me reste.
+Fuyez, Plaisirs, fuyez, perdez tous vos attraits.
+Démons, détruisez ce Palais,
+Partons, et s'il se peut, que mon Amour funeste.
+Demeure enseveli dans ces lieux pour jamais.

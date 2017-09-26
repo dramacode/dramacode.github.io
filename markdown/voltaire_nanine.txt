@@ -1,0 +1,2856 @@
+---
+identifier: voltaire_nanine  
+creator: Voltaire  
+date: 1749  
+title: Nanine ou le préjugé vaincu. , comédie  
+---
+
+
+NANINE
+
+COMÉDIE EN TROIS ACTES
+
+EN VERS DE DIX SYLLABES
+
+Donnée par l'Auteur
+
+M. DCC. XLIX. AVEC PRIVILÈGE DU ROI.
+
+Voltaire
+
+À PARIS, Chez P.G. LE MERCIER, Imprimeur-Libraire, rue Saint-Jacques, au Livre d'Or. M. LAMBERT, Libraire, rue Saint Jacques.
+
+
+
+# PRIVILÈGE DU ROI.
+
+LOUIS, PAR LE GRÊCE DE DIEU, ROI DE FRNACE ET DE NAVARRE, À nos âmes et féaux conseillers les gens tenants nos Cours de Parlement, maîtres de requêtes ordinaires de notre hôtel, Grand-conseil, prévôt de Paris, baillis, sénéchaux, leurs lieutenants civils et autres nos justiciers qu'il appartiendra ; SALUT : Notre amé PIERRE-GILLES LE MERCIER, imprimeur-libraire à Paris, ancien adjoint de la Communauté, Nous a fait exposer qu'il désirerait imprimer et donner au public à Paris, ancien adjoint de sa communauté, Nous a fait exposer qu'il désirerait imprimer et donner au public un ouvrage qui a pour titre : Nanine Comédie, s'il Nous plaisait lui accorder nos lettres de Permission pour ce nécessaires. À CES CAUSES, voulant favorablement traiter l'exposant, Nous lui avons permis et permettons par ces présentes, de faire imprimer le dit ouvrage en un ou plusieurs volumes, et autant de fois que bon lui semblera, et de la vendre, faire vendre et débiter par tout Notre Royaume, pendant le temps de trois années consécutives, à compter du jour de la date desdites présentes seront enregistrées tout au long sur le Registre de la Communauté des Libraires et Imprimeurs de Paris, dans trois mois de la date d'icelles ; que l'impression dudit ouvrage sera faite dans notre Royaume, et non ailleurs, en bon papier et beaux caractères, conformément à la feuille imprimée et attachée pour modèle sous le contre-scel desdites présentes ; que l'impétrant se conformera en tout aux règlements de la librairie, et notamment à celui du 10 avril 1725, qu'avant de l'exposer en vente, la manuscrit aura servi de copie à l'impression dudit ouvrage, sera remis dans le même état où l'approbation y aura été donnée, ès mains de notre très cher et féal Chevalier le Sieur DAGUESSEAU, Chancelier de France, Commandeur de nos ordres, et qu'il en sera ensuite remis deux exemplaires dans notre bibliothèque publique, un dans notre Château du Louvre, et un dans celle de notre très cher et féal Chevalier le sieur DAGUESEAU, Chancelier de FRANCE : le tout à peine de nullité desdites présentes. Du contenu desquelles vous mandons et enjoignons de faire jouir ledit Exposant et des ayants causes, pleinement et paisiblement, sans souffrir qu'il leur soit fait aucun trouble et empêchement. Voulons qu'à la copie des présentes, qui sera imprimée tout au long au commencement ou à la fin dudit ouvrage, foi soit ajoutée comme à l'original : Commandons au premier notre huissier ou sergent sur ce requis, de faire pour l'exécution d'icelles tous actes requis et nécessaires, sans demander autre permission, et nonobstant clameur de Haro, Charte Normande, et lettres à ce contraires : CAR tel est notre plaisir. DONNÉ à Paris, le quinzième jour du mois de novembre, l'an de grâce mille sept cent quarante-neuf, et de notre règne le trente-cinquième. Par le Roi en son conseil.
+
+Signe, SAINSON.
+
+Registré sur le registre XII de la Chambre Royale des Libraires et Imprimeurs de Paris, n°346 fol 227 conformément aux anciens règlements confirmés par celui du 28 février 1723. À Paris le dix-huit octobre mille sept cent quarante neuf.
+
+Signé, TH. LEGRAS, Syndic.< APPROBATION >
+
+J'ai lu par ordre de Monseigneur le Chancelier, un manuscrit qui a pour titre, Nanine ou le préjugé vaincu, comédie. Fait à Paris ce 3 novembre 1749.
+
+JOLLY.
+
+
+# PRÉFACE.
+
+Cette bagatelle fut représentée au mois de juillet 1748. Elle n'a point été destinée pour le théâtre de Paris, encore moins pour l'impression, et on ne la donnerait pas aujourd'hui au public, s'il n'en avait paru une édition subreptrice et toute défigurée sous le nom de la compagnie des libraires associés de Paris. Il y a dans cette édition fautive plus de cent vers qui ne sont pas de l'auteur. C'est avec la même infidélité , et avec plus de fautes encore, que l'on a imprimé clandestinement la tragédie de Sémiramis, et c'est ainsi qu'on a défiguré presque tous les ouvrages de l'auteur. Il est obligé de se servir de cette occasion pour avertir ceux qui cultivent les Lettres, et qui se forment des Cabinets de Livres, que toutes les éditions qu'on a faites de ses prétendus ouvrages, il n'y en a pas une seule qui mérite d'être regardée. Celle de Ledet à Amsterdam, celle de Merkus dans la même ville, les autres qu'on a faites d'après celles-là sont absurdes, et on y a même ajouté un volume entier, qui n'est rempli que de grossièretés insipides faites par la canaille ; celles qui sont intitulées de Londres et de Genève ne sont pas moins défectueuses.
+
+L'Auteur n'a pas eu encore le temps d'examiner celle de Dresde, ainsi il ne peut rien en dire, mais en général les amateurs des Lettres ne doivent avoir aucun égard aux éditions qui ne sont point faites sous ses yeux et pas ses ordres, encore moins à tous ces petits ouvrages qu'on affecte de débiter sous son nom, à ses vers qu'on envoie au Mercure et aux journaux étrangers, et qui ne sont que le ridicule effet d'une réputation bien vaine et bien dangereuse. En attendant qu'il puisse un jour donner ses soins à faire imprimer ses véritables ouvrages, il est dans la nécessité de faire donner au moins par un libraire accrédité et muni d'un privilège la tragédie de Sémiramis, et cette petite pièce qui ont paru toutes deux l'année passée dans la foule des spectacles nouveaux qu'on donne à Paris tous les ans.
+
+Dans cette autre foule beaucoup plus nombreuses dont on est inondé, il en parut une dans ce temps-là qui mérite d'être distinguée. C'est une dissertation ingénieuse et approfondie d'un Académicien de la Rochelle sur cette question qui semble partager depuis quelques années la Littérature ; savoir s'il est permis de faire des comédies attendrissantes. Il paraît se déclarer fortement contre ce genre, dont la petite comédie de Nanine tient beaucoup en quelques endroits. Il condamne avec raison tout ce qui aurait l'air d'une tragédie bourgeoise. En effet, que serait-ce qu'une intrigue tragique entre des hommes du commun ? Ce serait seulement avilir la cothurne ; ce serait manquer à la fois l'objet de la Tragédie et de la Comédie, ce serait une espèce bâtarde, un monstre né de l'impuissance de faire une comédie et une tragédie véritable.
+
+Cet académicien judicieux blâme surtout les intrigues romanesques et forcées, dans ce genre de comédie où l'on veut attendrir les spectateurs, et qu'on appelle par dérision Comédie larmoyante. Mais dans quel genre les intrigues romanesques et forcées peuvent elles être admises ? Ne sont elles pas toujours un vice essentiel dans quelque ouvrage que ce puisse être ? Il conclut enfin en disant que si dans un comédie l'attendrissement peut aller quelquefois jusqu'aux larmes, il n'appartient qu'à la passion de l'amour de les faire répandre. Il n'entend pas sans doute l'amour tel qu'il est représenté dans les bonnes tragédie, l'amour furieux, barbare, funeste, suivi de crimes et de remords. Il entend l'amour naïf et tendre qui seul est du ressort de la comédie.
+
+Cette réflexion en fait naître une autre, qu'on soumet au jugement des gens de Lettres. C'est que dans notre nation la tragédie a commencé par s'approprier la langage de la comédie. Si on y prend garde, l'amour dans beaucoup d'ouvrages dont la terreur et la pitié devraient être l'âme, est traité comme il doit l'être en effet dans le genre comique. La galanterie, les déclarations d'amour, la coquetterie, la naïveté, la familiarité, tout cela ne se trouve que trop chez nos héros et nos héroïnes de Rome et de la Grèce dont nos théâtre retentissent. De sorte qu'en effet l'amour naïf et attendrissant dans une comédie, n'est point un larcin fait à Melpomène, mais c'est au contraire Melpomène qui depuis longtemps a pris chez nous les brodequins de Thalie.
+
+Qu'on jette les yeux sur les première tragédies qui eurent de si prodigieux succès vers le temps du Carfinal de Richelieu ; la Sophonisbe de Mairet, la Mariane, l'Amour tyrannique, Alcionnée. On verra que l'amour y parle toujours sur un ton familier et quelques fois aussi bas , que l'héroïsme s'y exprime avec un emphase ridicule. C'est peut-être la raison pour laquelle notre nation n'eut en ce temps aucune comédie supportable. C'est qu'en effet le théâtre tragique avait envahi tous les droits de l'autre. Il est même vraisemblable que cette raison détermina Molière à donner rarement aux amants qu'il met sur scène, une passion vive et touchante, il sentait que la tragédie l'avait prévenu.
+
+Depuis la Sophonisbe de Mairet qui fut la première pièce dans laquelle on trouva quelque régularité, on avait commencé à regarder les déclarations d'amour des héros, les réponses artificieuses et coquettes des princesses, les peintures galantes de l'amour, comme des choses essentielles au théâtre tragique. Il est resté des écrits de ce temps là dans lesquels on cite avec de grands éloges ces vers que dit Massinissa après la bataille de Cirthe :
+J'aime plus de moitié quand je me sens aimé,  
+Et ma flamme s'accroît par un coeur enflammé,  
+Comme par une vague une vague s'irrite,  
+Un soupir amoureux par un autre s'excite,  
+Quand les chaînes d'hymen étreignent deux esprits  
+un plaisir doit se rendre aussitôt qu'il est pris.  
+
+Cette habitude de parler ainsi d'amour influa sur les meilleurs esprits ; et ceux même dont le génie mâle et sublime était fait pour rendre en tout à la tragédie son ancienne dignité se laissèrent entraîner à la contagion.
+
+On vit dans les meilleures pièces,
+Un malheureux visage,  
+Qui d'un chevalier romain  
+Captiva la courage,  
+
+Le héros dit à sa maîtresse :
+Adieu trop vertueux objet et trop charmant.  
+
+L'héroïne lui répond :
+Adieu trop malheureux et trop parfait amant.  
+
+Cléopâtre dit qu'ne princesse
+aimant sa renommée,  
+En avouant qu'elle aime est sûre d'être aimée.  
+
+Que César :
+Trace ses soupirs et d'un style plaintif,  
+Dans son champs de victoire il se dit son captif.  
+
+Elle ajoute qu'il ne tient qu'à elle d'avoir des rigueurs et de rendre César malheureux. Sur quoi sa confidente lui répond.
+J'oserais bien jurer que vos charmants appas,  
+Se vantent d'un pouvoir dont ils n'useront pas.  
+
+Dans toutes les pièces du même auteur qui suivent le Mort de Pompée, on est obligé d'avouer que l'amour est toujours traité de ce ton familier. Mais sans prendre la peine inutile de rapporter des exemples de ces défauts trop visibles, examinons seulement les meilleurs vers que l'auteur de Cinna ait fait débiter sur le théâtre, comme maximes de galanterie.
+Il est des noeuds secrets, il est des sympathies,  
+Dont le doux rapport les armes assorties,  
+S'attachent l'une et l'autre, et se laissent piquer,  
+Par ce je ne sais quoi qu'on ne peut expliquer.  
+
+De bonne foi croirait-on que ces vers du haut comique fussent dans la bouche d'une princesse des Parthes qui va demande à son amant la tête de sa mère ? Est-ce dans un jour si terrible qu'on parle "d'un je ne sais quoi, dont par le doux rapport des âmes sont assorties" ? Sophocles aurait-il débiter de tels madrigaux ? Et toutes ces petites sentences amoureuses ne sont-elles pas uniquement du ressort de la comédie ?
+
+La grand homme qui a porté un si haut point la véritable éloquence des vers, qui a fait parler à l'amour un langage si touchant à la fois et si noble, a mis cependant dans ses tragédies plus d'une scène que Boileau trouvait plus propre de la haute comédie de Térence que du rival et vainqueur d'Euripide.
+
+On pourrait citer plus de trois cent vers dans ce goût, ce n'est pas que la simplicité qui a ses charmes, la naïveté qui quelquefois même tient du sublime ne soient nécessaires, pour servir ou de préparation, ou de liaison et de passage au pathétique. Mais si ces traits naïfs et simples appartiennent même au tragique, à plus forte raison appartiennent-ils au grand comique, c'est dans ce point où la tragédie s'abaisse et où la comédie s'élève que ces deux arts se rencontrent et se touchent. C'est là seulement que leurs bornes se confondent. et s'il est permis à Oreste et à Hermione de se dire :
+Ah ! Ne souhaites vous pas le destin de Pyrrhus ;  
+Je vous haïrais trop - vous ne m'aimerez plus,  
+Ah ! Que vous me verriez d'une regard moins contraire,  
+Vous me voulez aimer, et je ne peux vous plaire,  
+Vous m'aimeriez, Madame, en me voulant haïr ;  
+Car enfin vous hait, son âme ailleurs éprise,  
+N'a plus qui vous l'a dit, Seigneur, qu'il me méprise,  
+Jugez-vous que ma vue inspire des mépris ?  
+
+Si ces héros, dis-je, se sont exprimés avec cette familiarité, à combien plus forte raison le MLisanthrope est-il bine reçu de dire à sa maîtresse avec véhémence.
+Rougissez bien plutôt, vous en avez raison,  
+Et j'ai de sûrs témoins de votre trahison ;  
+Voilà ce que marquaient les troubles de mon âme :  
+Ce n'était pas en vain que s'alarmait ma flamme ;  
+Mais ne présumez pas que, sans être vengé,  
+Je succombe à l'affront de ma voir outragé  
+Ah ! Je ne trouverais aucun sujet de plainte,  
+Si pour moi votre bouche avait parlé sans feinte,  
+Mon coeur n'aurait eu droit de s'en prendre qu'au sort.  
+Mais d'un aveu trompeur voir ma flamme applaudie,  
+C'est une trahison, c'est une perfidie,  
+Qui ne saurait trouver de trop grands châtiments,  
+Oui, je peux tout permettre à mes ressentiments ;  
+Redoutez tout, Madame, après un tel outrage ;  
+Je ne suis plus à moi, je suis tout à la rage,  
+Percé du coup mortel dont vous m'assassinez,  
+Mes sens par la raison ne sont plus gouvernés,  
+
+Certainement si toute la pièce du Misanthrope était dans ce goût ce ne serait plus une comédie, si Oreste et Hermione s'exprimaient toujours comme on vient de la voir, ce ne serait plus une tragédie. Mais après que ces deux genres si différents se sont ainsi rapprochés, ils rentrent chacun dans leur véritable carrière. L'un reprend le ton plaisant et l'autre le ton sublime.
+
+La comédie encore une fois peut donc se passionner, s'emporter, attendrir pourvu qu'ensuite elle fasse rire les honnêtes gens. Si elle manquait de comique, si elle n'était que larmoyante, c'est alors qu'elle serait un genre très vicieux, et très désagréable.
+
+On avoue qu'il est rare de faire passer les spectateurs insensiblement de l'attendrissement au rire. Mais ce passage, tout difficile qu'il est de la saisir dans une comédie, n'en est pas moins naturel aux hommes. On a déjà remarqué ailleurs que rien n'est plus ordinaire que les aventures qui, et dont certaines circonstances inspirent ensuite une gaieté passagère. C'est ainsi malheureusement que le genre humain est fait. Homère représente même les Dieux riant de la mauvaise grâce de Vulcain dans le temps qu'ils décident du destin du monde.
+
+Hector sourit de la peur de son fils Astyanax, tendis qu'Andromaque répand des larmes, on voir souvent jusques dans l'horreur des batailles, des incendies, de tous les désastres qui nous affligent, qu'une naïveté, un bon mot excitent le rire jusques dans le sein de la désolation et de la pitié. On défendit à un régiment dans la bataille de Spire de faire quartier ; un officier allemand demande la vie à l'un des nôtres, qui lui répond : Monsieur, demandez-moi tout autre chose, mais pour la vie il n'y a pas de moyen. Cette naïveté passe aussitôt de bouche en bouche, et on rit au milieu du carnage. À combien plus forte raison le rire peut-il succéder dans la comédie à des sentiments touchants ? Ne s'attendrit-on pas avec Alcmène ? Ne rit-on pas avec Sosie ? Quel misérable et vain travail de disputer contre l'expérience ! Si ceux qui disputent ainsi, ne se payaient pas de raison et aimaient mieux des vers, ou leur citerait ceux-ci.
+L'amour règne par le délire  
+Sur ce ridicule univers.  
+Tantôt aux esprits de travers  
+Il fait rimer de mauvais vers,  
+Tantôt il renverse un empire.  
+L'oeil en feu, le fer à la main,  
+Il frémit dans le tragédie ;  
+Non moins touchant et plus humain  
+Il anime la comédie ;  
+Il affadit dans l'élégie ;  
+Et dans un madrigal badin  
+Il se joue aux pieds de Sylvie.  
+Tous les genres de poésie,  
+De Virgile jusqu'à Chaulieu,  
+Sont aussi soumis à ce Dieu,  
+Que tous les états de la vie.  
+
+
+# PERSONNAGES.
+ – Le COMTE d'OLBAN, seigneur retiré à la campagne.
+ – La BARONNE de L'ORME, parente du Comte, femme impérieuse, aigre, difficile à vivre.
+ – La MARQUISE d'OLBAN, mère du Comte
+ – NANINE, fille élevée à la maison du Comte.
+ – PHILIBERT HOMBERT, paysan du voisinage.
+ – BLAISE, jardinier.
+ – GERMON, domestique.
+ – MARIN, autre domestique.La scène est dans le château du Comte d'Olban.
+
+
+# ACTE I.
+
+
+## SCÈNE I. Le Comte D'Olban, La Baronne de L'Orme.
+
+    LA BARONNE.
+Il faut parler, il faut, Monsieur le Comte,  
+Vous expliquer nettement sur mon compte.  
+Ni vous ni moi n'avons un coeur tout neuf ;  
+Vous êtes libre, et depuis deux ans veuf :  
+Devers ce temps j'eus cet honneur moi-même ;  
+Et nos procès, dont l'embarras extrême  
+Était si triste et si peu fait pour nous,  
+Sont enterrés, ainsi que mon époux.  
+
+    LE COMTE.
+Oui, tout procès m'est fort insupportable.  
+
+    LA BARONNE.
+Ne suis-je pas comme eux fort haïssable ?  
+
+    LE COMTE.
+Qui ? Vous, madame ?  
+
+    LA BARONNE.
+        Oui, moi. Depuis deux ans,  
+Libres tous deux, comme tous deux parents,  
+Pour terminer nous habitons ensemble ;  
+Le sang, le goût, l'intérêt nous rassemble.  
+
+    LE COMTE.
+Ah ! L'intérêt ! Parlez mieux.  
+
+    LA BARONNE.
+        Non, Monsieur.  
+Je parle bien, et c'est avec douleur ;  
+Et je sais trop que votre âme inconstante  
+Ne me voit plus que comme une parente.  
+
+    LE COMTE.
+Je n'ai pas l'air d'un volage, je crois.  
+
+    LA BARONNE.
+Vous avez l'air de me manquer de foi.  
+
+    LE COMTE, À PART.
+Ah !  
+
+    LA BARONNE.
+        Vous savez que cette longue guerre,  
+Que mon mari vous faisait pour ma terre,  
+A dû finir en confondant nos droits  
+Dans un hymen dicté par notre choix :  
+Votre promesse à ma foi vous engage ;  
+Vous différez, et qui diffère outrage.  
+
+    LE COMTE.
+J'attends ma mère.  
+
+    LA BARONNE.
+        Elle radote : bon !  
+
+    LE COMTE.
+Je la respecte, et je l'aime.  
+
+    LA BARONNE.
+        Et moi, non.  
+Mais pour me faire un affront qui m'étonne,  
+Assurément vous n'attendez personne,  
+Perfide ! Ingrat !  
+
+    LE COMTE.
+        D'où vient ce grand courroux ?  
+Qui vous a donc dit tout cela ?  
+
+    LA BARONNE.
+        Qui ? Vous ;  
+Vous, votre ton, votre air d'indifférence,  
+Votre conduite, en un mot, qui m'offense,  
+Qui me soulève, et qui choque mes yeux :  
+Ayez moins tort, ou défendez-vous mieux.  
+Ne vois-je pas l'indignité, la honte,  
+L'excès, l'affront du goût qui vous surmonte ?  
+Quoi ! Pour l'objet le plus vil, le plus bas,  
+Vous me trompez !  
+
+    LE COMTE.
+        Non, je ne trompe pas ;  
+Dissimuler n'est pas mon caractère :  
+J'étais à vous, vous aviez su me plaire,  
+Et j'espérais avec vous retrouver  
+Ce que le ciel a voulu m'enlever,  
+Goûter en paix, dans cet heureux asile,  
+Les nouveaux fruits d'un noeud doux et tranquille ;  
+Mais vous cherchez à détruire vos lois.  
+Je vous l'ai dit, l'amour a deux carquois :  
+L'un est rempli de ces traits tout de flamme,  
+Dont la douceur porte la paix dans l'âme,  
+Qui rend plus purs nos goûts, nos sentiments,  
+Nos soins plus vifs, nos plaisirs plus touchants ;  
+L'autre n'est plein que de flèches cruelles  
+Qui, répandant les soupçons, les querelles,  
+Rebutent l'âme, y portent la tiédeur,  
+Font succéder les dégoûts à l'ardeur :  
+Voilà les traits que vous prenez vous-même  
+Contre nous deux ; et vous voulez qu'on aime !  
+
+    LA BARONNE.
+Oui, j'aurai tort ! Quand vous vous détachez,  
+C'est donc à moi que vous le reprochez.  
+Je dois souffrir vos belles incartades,  
+Vos procédés, vos comparaisons fades.  
+Qu'ai-je donc fait, pour perdre votre coeur ?  
+Que me peut-on reprocher ?  
+
+    LE COMTE.
+        Votre humeur,  
+N'en doutez pas : oui, la beauté, Madame,  
+Ne plaît qu'aux yeux ; la douceur charme l'âme.  
+
+    LA BARONNE.
+Mais êtes-vous sans humeur, vous ?  
+
+    LE COMTE.
+        Moi ? Non ;  
+J'en ai sans doute, et pour cette raison  
+Je veux, madame, une femme indulgente,  
+Dont la beauté douce et compatissante,  
+À mes défauts facile à se plier,  
+Daigne avec moi me réconcilier,  
+Me corriger sans prendre un ton caustique,  
+Me gouverner sans être tyrannique,  
+Et dans mon coeur pénétrer pas à pas,  
+Comme un jour doux dans des yeux délicats :  
+Qui sent le joug le porte avec murmure ;  
+L'amour tyran est un dieu que j'abjure.  
+Je veux aimer, et ne veux point servir ;  
+C'est votre orgueil qui peut seul m'avilir.  
+J'ai des défauts ; mais le ciel fit les femmes  
+Pour corriger le levain de nos âmes,  
+Pour adoucir nos chagrins, nos humeurs,  
+Pour nous calmer, pour nous rendre meilleurs.  
+C'est là leur lot ; et pour moi, je préfère  
+Laideur affable à beauté rude et fière.  
+
+    LA BARONNE.
+C'est fort bien dit, traître ! Vous prétendez,  
+Quand vous m'outrez, m'insultez, m'excédez,  
+Que je pardonne, en lâche complaisante,  
+De vos amours la honte extravagante ?  
+Et qu'à mes yeux un faux air de hauteur  
+Excuse en vous les bassesses du coeur ?  
+
+    LE COMTE.
+Comment, madame ?  
+
+    LA BARONNE.
+        Oui, la jeune Nanine  
+Fait tout mon tort. Un enfant vous domine,  
+Une servante, une fille des champs,  
+Que j'élevai par mes soins imprudents,  
+Que par pitié votre facile mère  
+Daigna tirer du sein de la misère.  
+Vous rougissez !  
+
+    LE COMTE.
+        Moi ! Je lui veux du bien.  
+
+    LA BARONNE.
+Non, vous l'aimez, j'en suis très sûre.  
+
+    LE COMTE.
+        Eh bien !  
+Si je l'aimais, apprenez donc, Madame,  
+Que hautement je publierais ma flamme.  
+
+    LA BARONNE.
+Vous en êtes capable.  
+
+    LE COMTE.
+        Assurément.  
+
+    LA BARONNE.
+Vous oseriez trahir impudemment  
+De votre rang toute la bienséance ;  
+Humilier ainsi votre naissance ;  
+Et, dans la honte où vos sens sont plongés,  
+Braver l'honneur ?  
+
+    LE COMTE.
+        Dites les préjugés.  
+Je ne prends point, quoi qu'on en puisse croire,  
+La vanité pour l'honneur et la gloire.  
+L'éclat vous plaît ; vous mettez la grandeur  
+Dans des blasons : je la veux dans le coeur.  
+L'homme de bien, modeste avec courage,  
+Et la beauté spirituelle, sage,  
+Sans bien, sans nom, sans tous ces titres vains,  
+Sont à mes yeux les premiers des humains.  
+
+    LA BARONNE.
+Il faut au moins être bon gentilhomme.  
+Un vil savant, un obscur honnête homme,  
+Serait chez vous, pour un peu de vertu,  
+Comme un seigneur avec honneur reçu ?  
+
+    LE COMTE.
+Le vertueux aurait la préférence.  
+
+    LA BARONNE.
+Peut-on souffrir cette humble extravagance ?  
+Ne doit-on rien, s'il vous plaît, à son rang ?  
+
+    LE COMTE.
+Être honnête homme est ce qu'on doit.  
+
+    LA BARONNE.
+        Mon sang  
+Exigerait un plus haut caractère.  
+
+    LE COMTE.
+Il est très haut, il brave le vulgaire.  
+
+    LA BARONNE.
+Vous dégradez ainsi la qualité !  
+
+    LE COMTE.
+Non ; mais j'honore ainsi l'humanité.  
+
+    LA BARONNE.
+Vous êtes fou ; quoi ! Le public, l'usage ! ...  
+
+    LE COMTE.
+L'usage est fait pour le mépris du sage ;  
+Je me conforme à ses ordres gênants,  
+Pour mes habits, non pour mes sentiments.  
+Il faut être homme, et d'une âme sensée,  
+Avoir à soi ses goûts et sa pensée.  
+Irai-je en sot aux autres m'informer  
+Qui je dois fuir, chercher, louer, blâmer ?  
+Quoi ! De mon être il faudra qu'on décide ?  
+J'ai ma raison ; c'est ma mode et mon guide.  
+Le singe est né pour être imitateur,  
+Et l'homme doit agir d'après son coeur.  
+
+    LA BARONNE.
+Voilà parler en homme libre, en sage.  
+Allez ; aimez des filles de village,  
+Coeur noble et grand, soyez l'heureux rival  
+Du magister et du greffier fiscal ;  
+Soutenez bien l'honneur de votre race.  
+
+    LE COMTE.
+Ah ! Juste ciel ! Que faut-il que je fasse ?  
+
+
+## SCÈNE II. Le Comte, La Baronne, Blaise.
+
+    LE COMTE.
+Que veux-tu, toi ?  
+
+    BLAISE.
+        C'est votre jardinier,  
+Qui vient, monsieur, humblement supplier  
+Votre grandeur.  
+
+    LE COMTE.
+        Ma grandeur ! Eh bien ! Blaise,  
+Que te faut-il ?  
+
+    BLAISE.
+        Mais c'est, ne vous déplaise,  
+Que je voudrais me marier...  
+
+    LE COMTE.
+        D'accord,  
+Très volontiers ; ce projet me plaît fort.  
+Je t'aiderai ; j'aime qu'on se marie :  
+Et la future, est-elle un peu jolie ?  
+
+    BLAISE.
+Ah, oui, ma foi ! C'est un morceau friand.  
+
+    LA BARONNE.
+Et Blaise en est aimé ?  
+
+    BLAISE.
+        Certainement.  
+
+    LE COMTE.
+Et nous nommons cette beauté divine ?...  
+
+    BLAISE.
+Mais, c'est...  
+
+    LE COMTE.
+    Eh bien ?  
+
+    BLAISE.
+        C'est la belle Nanine.  
+
+    LE COMTE.
+Nanine ?  
+
+    LA BARONNE.
+        Ah ! Bon ! Je ne m'oppose point  
+À de pareils amours.  
+
+    LE COMTE, À PART.
+        Ciel ! à quel point  
+On m'avilit ! Non, je ne le puis être.  
+
+    BLAISE.
+Ce parti-là doit bien plaire à mon maître.  
+
+    LE COMTE.
+Tu dis qu'on t'aime, impudent !  
+
+    BLAISE.
+        Ah ! Pardon.  
+
+    LE COMTE.
+T'a-t-elle dit qu'elle t'aimât ?  
+
+    BLAISE.
+        Mais... non,  
+Pas tout à fait ; elle m'a fait entendre  
+Tant seulement qu'elle a pour nous du tendre ;  
+D'un ton si bon, si doux, si familier,  
+Elle m'a dit cent fois : " cher jardinier,  
+Cher ami Blaise, aide-moi donc à faire  
+Un beau bouquet de fleurs, qui puisse plaire  
+À monseigneur, à ce maître charmant ; "  
+Et puis d'un air si touché, si touchant,  
+Elle faisait ce bouquet : et sa vue  
+Était troublée ; elle était toute émue,  
+Toute rêveuse, avec un certain air,  
+Un air, là, qui... peste ! L'on y voit clair.  
+
+    LE COMTE.
+Blaise, va-t'en... quoi ! J'aurais su lui plaire !  
+
+    BLAISE.
+çà, n'allez pas traînasser notre affaire.  
+
+    LE COMTE.
+Hem ! ...  
+
+    BLAISE.
+        Vous verrez comme ce terrain-là  
+Entre mes mains bientôt profitera.  
+Répondez donc ; pourquoi ne me rien dire ?  
+
+    LE COMTE.
+Ah ! Mon coeur est trop plein. Je me retire...  
+Adieu, madame.  
+
+
+## SCÈNE III. La Baronne, Blaise.
+
+    LA BARONNE.
+        Il l'aime comme un fou,  
+J'en suis certaine. Et comment donc, par où,  
+Par quels attraits, par quelle heureuse adresse,  
+A-t-elle pu me ravir sa tendresse ?  
+Nanine ! Ô ciel ! Quel choix ! Quelle fureur !  
+Nanine ! Non ; j'en mourrai de douleur.  
+
+    BLAISE REVENANT.
+Ah ! Vous parlez de Nanine.  
+
+    LA BARONNE.
+        Insolente !  
+
+    BLAISE.
+Est-il pas vrai que Nanine est charmante ?  
+
+    LA BARONNE.
+Non.  
+
+    BLAISE.
+        Eh ! Si fait : parlez un peu pour nous,  
+Protégez Blaise.  
+
+    LA BARONNE.
+        Ah ! Quels horribles coups !  
+
+    BLAISE.
+J'ai des écus ; Pierre Blaise mon père  
+M'a bien laissé trois bons journaux de terre :  
+Tout est pour elle, écus comptants, journaux,  
+Tout mon avoir, et tout ce que je vaux ;  
+Mon corps, mon coeur, tout moi-même, tout Blaise.  
+
+    LA BARONNE.
+Autant que toi crois que j'en serais aise ;  
+Mon pauvre enfant, si je puis te servir,  
+Tous deux ce soir je voudrais vous unir :  
+Je lui paierai sa dot.  
+
+    BLAISE.
+        Digne Baronne,  
+Que j'aimerai votre chère personne !  
+Que de plaisir ! Est-il possible !  
+
+    LA BARONNE.
+        Hélas !  
+Je crains, ami, de ne réussir pas.  
+
+    BLAISE.
+Ah ! Par pitié, réussissez, Madame.  
+
+    LA BARONNE.
+Va, plût au ciel qu'elle devînt ta femme !  
+Attends mon ordre.  
+
+    BLAISE.
+    Eh ! Puis-je attendre ?  
+
+    LA BARONNE.
+        Va.  
+
+    BLAISE.
+Adieu. J'aurai, ma foi, cet enfant-là.  
+
+
+## SCÈNE IV.
+
+    LA BARONNE.
+Vit-on jamais une telle aventure !  
+Peut-on sentir une plus vive injure ;  
+Plus lâchement se voir sacrifier !  
+Le Comte Olban rival d'un jardinier !  
+À un laquais.
+
+Holà ! Quelqu'un ! Qu'on appelle Nanine.  
+C'est mon malheur qu'il faut que j'examine.  
+Où pourrait-elle avoir pris l'art flatteur,  
+L'art de séduire et de garder un coeur,  
+L'art d'allumer un feu vif et qui dure ?  
+Où ? Dans ses yeux, dans la simple nature.  
+Je crois pourtant que cet indigne amour  
+N'a point encore osé se mettre au jour.  
+J'ai vu qu'Olban se respecte avec elle ;  
+Ah ! C'est encore une douleur nouvelle ;  
+J'espérerais s'il se respectait moins.  
+D'un amour vrai le traître a tous les soins.  
+Ah ! La voici : je me sens au supplice.  
+Que la nature est pleine d'injustice !  
+À qui va-t-elle accorder la beauté !  
+C'est un affront fait à la qualité.  
+Approchez-vous ; venez, Mademoiselle.  
+
+
+## SCÈNE V. La Baronne, Nanine.
+
+    NANINE.
+Madame.  
+
+    LA BARONNE.
+        Mais est-elle donc si belle ?  
+Ces grands yeux noirs ne disent rien du tout ;  
+Mais s'ils ont dit : j'aime... ah ! Je suis à bout.  
+Possédons-nous. Venez.  
+
+    NANINE.
+        Je viens me rendre  
+À mon devoir.  
+
+    LA BARONNE.
+        Vous vous faites attendre  
+Un peu de temps ; avancez-vous. Comment !  
+Comme elle est mise ! Et quel ajustement !  
+Il n'est pas fait pour une créature  
+De votre espèce.  
+
+    NANINE.
+        Il est vrai. Je vous jure,  
+Par mon respect, qu'en secret j'ai rougi  
+Plus d'une fois d'être vêtue ainsi ;  
+Mais c'est l'effet de vos bontés premières,  
+De ces bontés qui me sont toujours chères.  
+De tant de soins vous daigniez m'honorer !  
+Vous vous plaisiez vous-même à me parer.  
+Songez combien vous m'aviez protégée :  
+Sous cet habit je ne suis point changée.  
+Voudriez-vous, madame, humilier  
+Un coeur soumis, qui ne peut s'oublier ?  
+
+    LA BARONNE.
+Approchez-moi ce fauteuil... ah ! J'enrage...  
+D'où venez-vous ?  
+
+    NANINE.
+    Je lisais.  
+
+    LA BARONNE.
+        Quel ouvrage ?  
+
+    NANINE.
+Un livre anglais dont on m'a fait présent.  
+
+    LA BARONNE.
+Sur quel sujet ?  
+
+    NANINE.
+        Il est intéressant :  
+L'auteur prétend que les hommes sont frères,  
+Nés tous égaux ; mais ce sont des chimères :  
+Je ne puis croire à cette égalité.  
+
+    LA BARONNE.
+Elle y croira. Quel fonds de vanité !  
+Que l'on m'apporte ici mon écritoire...  
+
+    NANINE.
+J'y vais.  
+
+    LA BARONNE.
+        Restez. Que l'on me donne à boire.  
+
+    NANINE.
+Quoi ?  
+
+    LA BARONNE.
+        Rien. Prenez mon éventail... sortez.  
+Allez chercher mes gants... laissez... restez.  
+Avancez-vous... gardez-vous, je vous prie,  
+D'imaginer que vous soyez jolie.  
+
+    NANINE.
+Vous me l'avez si souvent répété,  
+Que si j'avais ce fonds de vanité,  
+Si l'amour-propre avait gâté mon âme,  
+Je vous devrais ma guérison, madame.  
+
+    LA BARONNE.
+Où trouve-t-elle ainsi ce qu'elle dit ?  
+Que je la hais ! Quoi ! Belle, et de l'esprit !  
+Avec dépit.
+
+Écoutez-moi. J'eus bien de la tendresse  
+Pour votre enfance.  
+
+    NANINE.
+        Oui. Puisse ma jeunesse  
+être honorée encor de vos bontés !  
+
+    LA BARONNE.
+Eh bien ! Voyez si vous les méritez.  
+Je prétends, moi, ce jour, cette heure même,  
+Vous établir ; jugez si je vous aime.  
+
+    NANINE.
+Moi ?  
+
+    LA BARONNE.
+        Je vous donne une dot. Votre époux  
+Est fort bien fait, et très digne de vous ;  
+C'est un parti de tout point fort sortable :  
+C'est le seul même aujourd'hui convenable ;  
+Et vous devez bien m'en remercier :  
+C'est, en un mot, Blaise le jardinier.  
+
+    NANINE.
+Blaise, Madame ?  
+
+    LA BARONNE.
+        Oui. D'où vient ce sourire ?  
+Hésitez-vous un moment d'y souscrire ?  
+Mes offres sont un ordre, entendez-vous ?  
+Obéissez, ou craignez mon courroux.  
+
+    NANINE.
+Mais...  
+
+    LA BARONNE.
+        Apprenez qu'un mais est une offense.  
+Il vous sied bien d'avoir l'impertinence  
+De refuser un mari de ma main !  
+Ce coeur si simple est devenu bien vain.  
+Mais votre audace est trop prématurée ;  
+Votre triomphe est de peu de durée.  
+Vous abusez du caprice d'un jour,  
+Et vous verrez quel en est le retour.  
+Petite ingrate, objet de ma colère,  
+Vous avez donc l'insolence de plaire ?  
+Vous m'entendez ; je vous ferai rentrer  
+Dans le néant dont j'ai su vous tirer.  
+Tu pleureras ton orgueil, ta folie.  
+Je te ferai renfermer pour ta vie  
+Dans un couvent.  
+
+    NANINE.
+        J'embrasse vos genoux ;  
+Renfermez-moi ; mon sort sera trop doux.  
+Oui, des faveurs que vous vouliez me faire,  
+Cette rigueur est pour moi la plus chère.  
+Enfermez-moi dans un cloître à jamais :  
+J'y bénirai mon maître et vos bienfaits ;  
+J'y calmerai des alarmes mortelles,  
+Des maux plus grands, des craintes plus cruelles,  
+Des sentiments plus dangereux pour moi  
+Que ce courroux qui me glace d'effroi.  
+Madame, au nom de ce courroux extrême,  
+Délivrez-moi, s'il se peut, de moi-même ;  
+Dès cet instant je suis prête à partir.  
+
+    LA BARONNE.
+Est-il possible ? Et que viens-je d'ouïr ?  
+Est-il bien vrai ? Me trompez-vous, Nanine ?  
+
+    NANINE.
+Non. Faites-moi cette faveur divine :  
+Mon coeur en a trop besoin.  
+
+    LA BARONNE, AVEC UN EMPORTEMENT DE TENDRESSE.
+        Lève-toi :  
+Que je t'embrasse. ô jour heureux pour moi !  
+Ma chère amie, eh bien ! Je vais sur l'heure  
+Préparer tout pour ta belle demeure.  
+Ah ! Quel plaisir que de vivre en couvent !  
+
+    NANINE.
+C'est pour le moins un abri consolant.  
+
+    LA BARONNE.
+Non ; c'est, ma fille, un séjour délectable.  
+
+    NANINE.
+Le croyez-vous ?  
+
+    LA BARONNE.
+        Le monde est haïssable,  
+Jaloux...  
+
+    NANINE.
+    Oh ! Oui.  
+
+    LA BARONNE.
+        Fou, méchant, vain, trompeur,  
+Changeant, ingrat ; tout cela fait horreur.  
+
+    NANINE.
+Oui ; j'entrevois qu'il me serait funeste,  
+Qu'il faut le fuir...  
+
+    LA BARONNE.
+        La chose est manifeste ;  
+Un bon couvent est un port assuré.  
+Monsieur le Comte, ah ! Je vous préviendrai.  
+
+    NANINE.
+Que dites-vous de monseigneur ?  
+
+    LA BARONNE.
+        Je t'aime  
+À la fureur ; et dès ce moment même  
+Je voudrais bien te faire le plaisir  
+De t'enfermer pour ne jamais sortir.  
+Mais il est tard, hélas ! Il faut attendre  
+Le point du jour. écoute : il faut te rendre  
+Vers le minuit dans mon appartement.  
+Nous partirons d'ici secrètement  
+Pour ton couvent à cinq heures sonnantes :  
+Sois prête au moins.  
+
+
+## SCÈNE VI.
+
+    NANINE.
+        Quelles douleurs cuisantes !  
+Quel embarras ! Quel tourment ! Quel dessein !  
+Quels sentiments combattent dans mon sein !  
+Hélas ! Je fuis le plus aimable maître !  
+En le fuyant, je l'offense peut-être ;  
+Mais, en restant, l'excès de ses bontés  
+M'attirerait trop de calamités,  
+Dans sa maison mettrait un trouble horrible.  
+Madame croit qu'il est pour moi sensible,  
+Que jusqu'à moi ce coeur peut s'abaisser :  
+Je le redoute, et n'ose le penser.  
+De quel courroux madame est animée !  
+Quoi ! L'on me hait, et je crains d'être aimée ?  
+Mais, moi ! Mais moi ! Je me crains encor plus ;  
+Mon coeur troublé de lui-même est confus.  
+Que devenir ? De mon état tirée,  
+Pour mon malheur je suis trop éclairée.  
+C'est un danger, c'est peut-être un grand tort  
+D'avoir une âme au-dessus de son sort.  
+Il faut partir ; j'en mourrai, mais n'importe.  
+
+
+## SCÈNE VII. Le Comte, Nanine, un laquais.
+
+    LE COMTE.
+Holà ! Quelqu'un ! Qu'on reste à cette porte.  
+Des sièges, vite.  
+Il fait la révérence à Nanine, qui lui en fait une profonde.
+
+        Asseyons-nous ici.  
+
+    NANINE.
+Qui ? Moi, monsieur ?  
+
+    LE COMTE.
+        Oui, je le veux ainsi ;  
+Et je vous rends ce que votre conduite,  
+Votre beauté, votre vertu mérite.  
+Un diamant trouvé dans un désert  
+Est-il moins beau, moins précieux, moins cher ?  
+Quoi ! Vos beaux yeux semblent mouillés de larmes !  
+Ah ! Je le vois, jalouse de vos charmes,  
+Notre Baronne aura, par ses aigreurs,  
+Par son courroux, fait répandre vos pleurs.  
+
+    NANINE.
+Non, monsieur, non ; sa bonté respectable  
+Jamais pour moi ne fut si favorable ;  
+Et j'avouerai qu'ici tout m'attendrit.  
+
+    LE COMTE.
+Vous me charmez : je craignais son dépit.  
+
+    NANINE.
+Hélas ! Pourquoi ?  
+
+    LE COMTE.
+        Jeune et belle Nanine,  
+La jalousie en tous les coeurs domine :  
+L'homme est jaloux dès qu'il peut s'enflammer ;  
+La femme l'est, même avant que d'aimer.  
+Un jeune objet, beau, doux, discret, sincère,  
+À tout son sexe est bien sûr de déplaire.  
+L'homme est plus juste ; et d'un sexe jaloux  
+Nous nous vengeons autant qu'il est en nous.  
+Croyez surtout que je vous rends justice.  
+J'aime ce coeur qui n'a point d'artifice ;  
+J'admire encore à quel point vous avez  
+Développé vos talents cultivés.  
+De votre esprit la naïve justesse  
+Me rend surpris autant qu'il m'intéresse.  
+
+    NANINE.
+J'en ai bien peu ; mais quoi ! Je vous ai vu,  
+Et je vous ai tous les jours entendu :  
+Vous avez trop relevé ma naissance ;  
+Je vous dois trop ; c'est par vous que je pense.  
+
+    LE COMTE.
+Ah ! Croyez-moi, l'esprit ne s'apprend pas.  
+
+    NANINE.
+Je pense trop pour un état si bas ;  
+Au dernier rang les destins m'ont comprise.  
+
+    LE COMTE.
+Dans le premier vos vertus vous ont mise.  
+Naïvement dites-moi quel effet  
+Ce livre anglais sur votre esprit a fait ?  
+
+    NANINE.
+Il ne m'a point du tout persuadée ;  
+Plus que jamais, monsieur, j'ai dans l'idée  
+Qu'il est des coeurs si grands, si généreux,  
+Que tout le reste est bien vil auprès d'eux.  
+
+    LE COMTE.
+Vous en êtes la preuve... ah çà, Nanine,  
+Permettez-moi qu'ici l'on vous destine  
+Un sort, un rang moins indigne de vous.  
+
+    NANINE.
+Hélas ! Mon sort était trop haut, trop doux.  
+
+    LE COMTE.
+Non. Désormais soyez de la famille :  
+Ma mère arrive ; elle vous voit en fille ;  
+Et mon estime, et sa tendre amitié  
+Doivent ici vous mettre sur un pied  
+Fort éloigné de cette indigne gêne  
+Où vous tenait une femme hautaine.  
+
+    NANINE.
+Elle n'a fait, hélas ! Que m'avertir  
+De mes devoirs... qu'ils sont durs à remplir !  
+
+    LE COMTE.
+Quoi ! Quel devoir ? Ah ! Le vôtre est de plaire ;  
+Il est rempli : le nôtre ne l'est guère.  
+Il vous fallait plus d'aisance et d'éclat :  
+Vous n'êtes pas encor dans votre état.  
+
+    NANINE.
+J'en suis sortie, et c'est ce qui m'accable ;  
+C'est un malheur peut-être irréparable.  
+En se levant.
+
+Ah ! Monseigneur ! Ah ! Mon maître ! écartez  
+De mon esprit toutes ces vanités ;  
+De vos bienfaits confuse, pénétrée,  
+Laissez-moi vivre à jamais ignorée.  
+Le ciel me fit pour un état obscur ;  
+L'humilité n'a pour moi rien de dur.  
+Ah ! Laissez-moi ma retraite profonde.  
+Eh ! Que ferais-je, et que verrais-je au monde,  
+Après avoir admiré vos vertus ?  
+
+    LE COMTE.
+Non, c'en est trop, je n'y résiste plus.  
+Qui ? Vous, obscure ! Vous !  
+
+    NANINE.
+        Quoi que je fasse.  
+Puis-je de vous obtenir une grâce ?  
+
+    LE COMTE.
+Qu'ordonnez-vous ? Parlez.  
+
+    NANINE.
+        Depuis un temps  
+Votre bonté me comble de présents.  
+
+    LE COMTE.
+Eh bien ! Pardon. J'en agis comme un père,  
+Un père tendre à qui sa fille est chère.  
+Je n'ai point l'art d'embellir un présent ;  
+Et je suis juste, et ne suis point galant.  
+De la fortune il faut venger l'injure :  
+Elle vous traita mal : mais la nature,  
+En récompense, a voulu vous doter  
+De tous ses biens ; j'aurais dû l'imiter.  
+
+    NANINE.
+Vous en avez trop fait ; mais je me flatte  
+Qu'il m'est permis, sans que je sois ingrate,  
+De disposer de ces dons précieux  
+Que votre main rend si chers à mes yeux.  
+
+    LE COMTE.
+Vous m'outragez.  
+
+
+## SCÈNE VIII. Le Comte, Nanine, Germon.
+
+    GERMON.
+        Madame vous demande,  
+Madame attend.  
+
+    LE COMTE.
+        Eh ! Que madame attende.  
+Quoi ! L'on ne peut un moment vous parler,  
+Sans qu'aussitôt on vienne nous troubler !  
+
+    NANINE.
+Avec douleur, sans doute, je vous laisse ;  
+Mais vous savez qu'elle fut ma maîtresse.  
+
+    LE COMTE.
+Non, non, jamais je ne veux le savoir.  
+
+    NANINE.
+Elle conserve un reste de pouvoir.  
+
+    LE COMTE.
+Elle n'en garde aucun, je vous assure.  
+Vous gémissez... quoi ! Votre coeur murmure ?  
+Qu'avez-vous donc ?  
+
+    NANINE.
+        Je vous quitte à regret ;  
+Mais il le faut... Ô ciel ! C'en est donc fait !  
+Elle sort.
+
+
+
+## SCÈNE IX. Le Comte, Germon.
+
+    LE COMTE.
+Elle pleurait. D'une femme orgueilleuse  
+Depuis longtemps l'aigreur capricieuse  
+La fait gémir sous trop de dureté ;  
+Et de quel droit ? Par quelle autorité ?  
+Sur ces abus ma raison se récrie.  
+Ce monde-ci n'est qu'une loterie  
+De biens, de rangs, de dignités, de droits,  
+Brigués sans titre, et répandus sans choix.  
+Hé !  
+
+    GERMON.
+    Monseigneur.  
+
+    LE COMTE.
+        Demain sur sa toilette  
+Vous porterez cette somme complète  
+De trois cents louis d'or ; n'y manquez pas :  
+Puis vous irez chercher ces gens là-bas ;  
+Ils attendront.  
+
+    GERMON.
+        Madame la Baronne  
+Aura l'argent que monseigneur me donne,  
+Sur sa toilette.  
+
+    LE COMTE.
+        Eh ! L'esprit lourd ! Eh non !  
+C'est pour Nanine, entendez-vous ?  
+
+    GERMON.
+        Pardon.  
+
+    LE COMTE.
+Allez, allez, laissez-moi.  
+Germon sort.
+
+        Ma tendresse  
+Assurément n'est point une faiblesse.  
+Je l'idolâtre, il est vrai ; mais mon coeur  
+Dans ses yeux seuls n'a point pris son ardeur.  
+Son caractère est fait pour plaire au sage ;  
+Et sa belle âme a mon premier hommage :  
+Mais son état ? Elle est trop au-dessus ;  
+Fût-il plus bas, je l'en aimerais plus.  
+Mais puis-je enfin l'épouser ? Oui, sans doute.  
+Pour être heureux qu'est-ce donc qu'il en coûte ?  
+D'un monde vain dois-je craindre l'écueil,  
+Et de mon goût me priver par orgueil ?  
+Mais la coutume ? ... eh bien ! Elle est cruelle ;  
+Et la nature eut ses droits avant elle.  
+Eh quoi ! Rival de Blaise ! Pourquoi non ?  
+Blaise est un homme ; il l'aime, il a raison.  
+Elle fera dans une paix profonde  
+Le bien d'un seul, et les désirs du monde.  
+Elle doit plaire aux jardiniers, aux rois ;  
+Et mon bonheur justifiera mon choix.  
+
+
+# ACTE II.
+
+
+## SCÈNE I. Le Comte, Marin.
+
+    LE COMTE.
+Ah ! Cette nuit est une année entière !  
+Que le sommeil est loin de ma paupière !  
+Tout dort ici ; Nanine dort en paix ;  
+Un doux repos rafraîchit ses attraits :  
+Et moi, je vais, je cours, je veux écrire,  
+Je n'écris rien ; vainement je veux lire,  
+Mon oeil troublé voit les mots sans les voir,  
+Et mon esprit ne les peut concevoir ;  
+Dans chaque mot le seul nom de Nanine  
+Est imprimé par une main divine.  
+Holà ! Quelqu'un ! Qu'on vienne. Quoi ! Mes gens  
+Sont-ils pas las de dormir si longtemps ?  
+Germon ! Marin !  
+
+    MARIN DERRIÈRE LE THÉÂTRE.
+    J'accours.  
+
+    LE COMTE.
+        Quelle paresse !  
+Eh ! Venez vite ; il fait jour ; le temps presse :  
+Arrivez donc.  
+
+    MARIN.
+        Eh ! Monsieur, quel lutin  
+Vous a sans nous éveillé si matin ?  
+
+    LE COMTE.
+L'amour.  
+
+    MARIN.
+        Oh ! Oh ! La Baronne de L'Orme  
+Ne permet pas qu'en ce logis on dorme.  
+Qu'ordonnez-vous ?  
+
+    LE COMTE.
+        Je veux, mon cher Marin,  
+Je veux avoir, au plus tard pour demain,  
+Six chevaux neufs, un nouvel équipage,  
+Femme de chambre adroite, bonne, et sage ;  
+Valet de chambre avec deux grands laquais,  
+Point libertins, qui soient jeunes, bien faits ;  
+Des diamants, des boucles des plus belles,  
+Des bijoux d'or, des étoffes nouvelles.  
+Pars dans l'instant, cours en poste à Paris ;  
+Crève tous les chevaux.  
+
+    MARIN.
+        Vous voilà pris.  
+J'entends, j'entends ; madame la Baronne  
+Est la maîtresse aujourd'hui qu'on nous donne ;  
+Vous l'épousez ?  
+
+    LE COMTE.
+        Quel que soit mon projet,  
+Vole et reviens.  
+
+    MARIN.
+        Vous serez satisfait.  
+
+
+## SCÈNE II. Le Comte, Germon.
+
+    LE COMTE.
+Quoi ! J'aurai donc cette douceur extrême  
+De rendre heureux, d'honorer ce que j'aime !  
+Notre Baronne avec fureur criera ;  
+Très volontiers, et tant qu'elle voudra.  
+Les vains discours, le monde, la Baronne,  
+Rien ne m'émeut, et je ne crains personne ;  
+Aux préjugés c'est trop être soumis :  
+Il faut les vaincre, ils sont nos ennemis ;  
+Et ceux qui font les esprits raisonnables,  
+Plus vertueux, sont les seuls respectables.  
+Eh ! Mais... quel bruit entends-je dans ma cour ?  
+C'est un carrosse. Oui... mais... au point du jour  
+Qui peut venir ? ... c'est ma mère, peut-être.  
+Germon...  
+
+    GERMON, ARRIVANT.
+    Monsieur.  
+
+    LE COMTE.
+        Vois ce que ce peut être.  
+
+    GERMON.
+C'est un carrosse.  
+
+    LE COMTE.
+        Eh qui ? Par quel hasard ?  
+Qui vient ici ?  
+
+    GERMON.
+        L'on ne vient point ; l'on part.  
+
+    LE COMTE.
+Comment ! On part ?  
+
+    GERMON.
+        Madame la Baronne  
+Sort tout à l'heure.  
+
+    LE COMTE.
+        Oh ! Je le lui pardonne ;  
+Que pour jamais puisse-t-elle sortir !  
+
+    GERMON.
+Avec Nanine elle est prête à partir.  
+
+    LE COMTE.
+Ciel ! Que dis-tu ? Nanine ?  
+
+    GERMON.
+        La suivante  
+Le dit tout haut.  
+
+    LE COMTE.
+    Quoi donc ?  
+
+    GERMON.
+        Votre parente  
+Part avec elle ; elle va, ce matin,  
+Mettre Nanine à ce couvent voisin.  
+
+    LE COMTE.
+Courons, volons. Mais quoi ! Que vais-je faire ?  
+Pour leur parler je suis trop en colère :  
+N'importe : allons. Quand je devrais... mais non :  
+On verrait trop toute ma passion.  
+Qu'on ferme tout, qu'on vole, qu'on l'arrête ;  
+Répondez-moi d'elle sur votre tête :  
+Amenez-moi Nanine.  
+Germon sort.
+
+        Ah ! Juste ciel !  
+On l'enlevait. Quel jour ! Quel coup mortel !  
+Qu'ai-je donc fait ? Pourquoi ? Par quel caprice ?  
+Par quelle ingrate et cruelle injustice ?  
+Qu'ai-je donc fait, hélas ! Que l'adorer,  
+Sans la contraindre, et sans me déclarer,  
+Sans alarmer sa timide innocence ?  
+Pourquoi me fuir ? Je m'y perds, plus j'y pense.  
+
+
+## SCÈNE III. Le Comte, Nanine.
+
+    LE COMTE.
+Belle Nanine, est-ce vous que je vois ?  
+Quoi ! Vous voulez vous dérober à moi !  
+Ah ! Répondez, expliquez-vous, de grâce.  
+Vous avez craint, sans doute, la menace  
+De la Baronne ; et ces purs sentiments,  
+Que vos vertus m'inspirent dès longtemps,  
+Plus que jamais l'auront, sans doute, aigrie.  
+Vous n'auriez point de vous-même eu l'envie  
+De nous quitter, d'arracher à ces lieux  
+Leur seul éclat que leur prêtaient vos yeux.  
+Hier au soir, de pleurs toute trempée,  
+De ce dessein étiez-vous occupée ?  
+Répondez donc. Pourquoi me quittiez-vous ?  
+
+    NANINE.
+Vous me voyez tremblante à vos genoux.  
+
+    LE COMTE, LA RELEVANT.
+Ah ! Parlez-moi. Je tremble plus encore.  
+
+    NANINE.
+Madame...  
+
+    LE COMTE.
+    Eh bien ?  
+
+    NANINE.
+        Madame, que j'honore,  
+Pour le couvent n'a point forcé mes voeux.  
+
+    LE COMTE.
+Ce serait vous ? Qu'entends-je ! Ah, malheureux !  
+
+    NANINE.
+Je vous l'avoue ; oui, je l'ai conjurée  
+De mettre un frein à mon âme égarée...  
+Elle voulait, monsieur, me marier.  
+
+    LE COMTE.
+Elle ? à qui donc ?  
+
+    NANINE.
+        À votre jardinier.  
+
+    LE COMTE.
+Le digne choix !  
+
+    NANINE.
+        Et moi, toute honteuse,  
+Plus qu'on ne croit peut-être malheureuse,  
+Moi qui repousse avec un vain effort  
+Des sentiments au-dessus de mon sort,  
+Que vos bontés avaient trop élevée,  
+Pour m'en punir, j'en dois être privée.  
+
+    LE COMTE.
+Vous, vous punir ! Ah ! Nanine ! Et de quoi ?  
+
+    NANINE.
+D'avoir osé soulever contre moi  
+Votre parente, autrefois ma maîtresse.  
+Je lui déplais ; mon seul aspect la blesse :  
+Elle a raison ; et j'ai près d'elle, hélas !  
+Un tort bien grand... qui ne finira pas.  
+J'ai craint ce tort ; il est peut-être extrême.  
+J'ai prétendu m'arracher à moi-même,  
+Et déchirer dans les austérités  
+Ce coeur trop haut, trop fier de vos bontés,  
+Venger sur lui sa faute involontaire.  
+Mais ma douleur, hélas ! La plus amère,  
+En perdant tout, en courant m'éclipser,  
+En vous fuyant, fut de vous offenser.  
+
+    LE COMTE, SE DÉTOURNANT ET SE PROMENANT.
+Quels sentiments ! Et quelle âme ingénue !  
+En ma faveur est-elle prévenue ?  
+A-t-elle craint de m'aimer ? ô vertu !  
+
+    NANINE.
+Cent fois pardon, si je vous ai déplu :  
+Mais permettez qu'au fond d'une retraite  
+J'aille cacher ma douleur inquiète,  
+M'entretenir en secret à jamais  
+De mes devoirs, de vous, de vos bienfaits.  
+
+    LE COMTE.
+N'en parlons plus. écoutez : la Baronne  
+Vous favorise, et noblement vous donne  
+Un domestique, un rustre pour époux ;  
+Moi, j'en sais un moins indigne de vous :  
+Il est d'un rang fort au-dessus de Blaise,  
+Jeune, honnête homme ; il est fort à son aise :  
+Je vous réponds qu'il a des sentiments :  
+Son caractère est loin des moeurs du temps ;  
+Et je me trompe, ou pour vous j'envisage  
+Un destin doux, un excellent ménage.  
+Un tel parti flatte-t-il votre coeur ?  
+Vaut-il pas bien le couvent ?  
+
+    NANINE.
+        Non, monsieur...  
+Ce nouveau bien que vous daignez me faire,  
+Je l'avouerai, ne peut me satisfaire.  
+Vous pénétrez mon coeur reconnaissant :  
+Daignez y lire, et voyez ce qu'il sent ;  
+Voyez sur quoi ma retraite se fonde.  
+Un jardinier, un monarque du monde,  
+Qui pour époux s'offriraient à mes voeux,  
+Également me déplairaient tous deux.  
+
+    LE COMTE.
+Vous décidez mon sort. Eh bien ! Nanine,  
+Connaissez donc celui qu'on vous destine :  
+Vous l'estimez ; il est sous votre loi ;  
+Il vous adore, et cet époux... c'est moi.  
+À part.
+
+L'étonnement, le trouble l'a saisie.  
+À Nanine.
+
+Ah ! Parlez-moi ; disposez de ma vie ;  
+Ah ! Reprenez vos sens trop agités.  
+
+    NANINE.
+Qu'ai-je entendu ?  
+
+    LE COMTE.
+        Ce que vous méritez.  
+
+    NANINE.
+Quoi ! Vous m'aimez ? Ah ! Gardez-vous de croire  
+Que j'ose user d'une telle victoire.  
+Non, monsieur, non, je ne souffrirai pas  
+Qu'ainsi pour moi vous descendiez si bas :  
+Un tel hymen est toujours trop funeste ;  
+Le goût se passe, et le repentir reste.  
+J'ose à vos pieds attester vos aïeux...  
+Hélas ! Sur moi ne jetez point les yeux.  
+Vous avez pris pitié de mon jeune âge ;  
+Formé par vous, ce coeur est votre ouvrage ;  
+Il en serait indigne désormais  
+S'il acceptait le plus grand des bienfaits.  
+Oui, je vous dois des refus. Oui, mon âme  
+Doit s'immoler.  
+
+    LE COMTE.
+        Non, vous serez ma femme.  
+Quoi ! Tout à l'heure ici vous m'assuriez,  
+Vous l'avez dit, que vous refuseriez  
+Tout autre époux, fût-ce un prince.  
+
+    NANINE.
+        Oui, sans doute ;  
+Et ce n'est pas ce refus qui me coûte.  
+
+    LE COMTE.
+Mais me haïssez-vous ?  
+
+    NANINE.
+        Aurais-je fui,  
+Craindrais-je tant, si vous étiez haï ?  
+
+    LE COMTE.
+Ah ! Ce mot seul a fait ma destinée.  
+
+    NANINE.
+Eh ! Que prétendez-vous ?  
+
+    LE COMTE.
+        Notre hyménée.  
+
+    NANINE.
+Songez...  
+
+    LE COMTE.
+    Je songe à tout.  
+
+    NANINE.
+        Mais prévoyez...  
+
+    LE COMTE.
+Tout est prévu...  
+
+    NANINE.
+        Si vous m'aimez, croyez...  
+
+    LE COMTE.
+Je crois former le bonheur de ma vie.  
+
+    NANINE.
+Vous oubliez...  
+
+    LE COMTE.
+        Il n'est rien que j'oublie.  
+Tout sera prêt, et tout est ordonné...  
+
+    NANINE.
+Quoi ! Malgré moi votre amour obstiné...  
+
+    LE COMTE.
+Oui, malgré vous, ma flamme impatiente  
+Va tout presser pour cette heure charmante.  
+Un seul instant je quitte vos attraits  
+Pour que mes yeux n'en soient privés jamais.  
+Adieu, Nanine, adieu, vous que j'adore.  
+
+
+## SCÈNE IV.
+
+    NANINE.
+Ciel, est-ce un rêve ? Et puis-je croire encore  
+Que je parvienne au comble du bonheur ?  
+Non, ce n'est pas l'excès d'un tel honneur,  
+Tout grand qu'il est, qui me plaît et me frappe ;  
+À mes regards tant de grandeur échappe :  
+Mais épouser ce mortel généreux,  
+Lui, cet objet de mes timides voeux,  
+Lui, que j'avais tant craint d'aimer, que j'aime,  
+Lui, qui m'élève au-dessus de moi-même ;  
+Je l'aime trop pour pouvoir l'avilir :  
+Je devrais... non, je ne puis plus le fuir ;  
+Non... mon état ne saurait se comprendre.  
+Moi, l'épouser ! Quel parti dois-je prendre ?  
+Le ciel pourra m'éclairer aujourd'hui ;  
+Dans ma faiblesse il m'envoie un appui.  
+Peut-être même... allons ; il faut écrire,  
+Il faut... par où commencer, et que dire ?  
+Quelle surprise ! écrivons promptement,  
+Avant d'oser prendre un engagement.  
+Elle se met à écrire.
+
+
+
+## SCÈNE V. Nanine, Blaise.
+
+    BLAISE.
+Ah ! La voici. Madame la Baronne  
+En ma faveur vous a parlé, mignonne.  
+Ouais, elle écrit sans me voir seulement.  
+
+    NANINE, ÉCRIVANT TOUJOURS.
+Blaise, bonjour.  
+
+    BLAISE.
+        Bonjour est sec, vraiment.  
+
+    NANINE, ÉCRIVANT.
+À chaque mot mon embarras redouble ;  
+Toute ma lettre est pleine de mon trouble.  
+
+    BLAISE.
+Le grand génie ! Elle écrit tout courant ;  
+Qu'elle a d'esprit ! Et que n'en ai-je autant !  
+çà, je disais...  
+
+    NANINE.
+    Eh bien ?  
+
+    BLAISE.
+        Elle m'impose  
+Par son maintien ; devant elle je n'ose  
+M'expliquer... là... tout comme je voudrais :  
+Je suis venu cependant tout exprès.  
+
+    NANINE.
+Cher Blaise, il faut me rendre un grand service.  
+
+    BLAISE.
+Oh ! Deux plutôt.  
+
+    NANINE.
+        Je te fais la justice  
+De me fier à ta discrétion,  
+À ton bon coeur.  
+
+    BLAISE.
+        Oh ! Parlez sans façon :  
+Car, vous voyez, Blaise est prêt à tout faire  
+Pour vous servir ; vite, point de mystère.  
+
+    NANINE.
+Tu vas souvent au village prochain,  
+À Rémival, à droite du chemin ?  
+
+    BLAISE.
+Oui.  
+
+    NANINE.
+        Pourrais-tu trouver dans ce village  
+Philippe Hombert ?  
+
+    BLAISE.
+        Non. Quel est ce visage ?  
+Philippe Hombert ? Je ne connais pas ça.  
+
+    NANINE.
+Hier au soir je crois qu'il arriva ;  
+Informe-t'en. Tâche de lui remettre,  
+Mais sans délai, cet argent, cette lettre.  
+
+    BLAISE.
+Oh ! De l'argent !  
+
+    NANINE.
+        Donne aussi ce paquet ;  
+Monte à cheval pour avoir plus tôt fait ;  
+Pars, et sois sûr de ma reconnaissance.  
+
+    BLAISE.
+J'irais pour vous au fin fond de la France.  
+Philippe Hombert est un heureux manant ;  
+La bourse est pleine : ah ! Que d'argent comptant !  
+Est-ce une dette ?  
+
+    NANINE.
+        Elle est très avérée ;  
+Il n'en est point, Blaise, de plus sacrée.  
+Écoute : Hombert est peut-être inconnu ;  
+Peut-être même il n'est pas revenu.  
+Mon cher ami, tu me rendras ma lettre,  
+Si tu ne peux en ses mains la remettre.  
+
+    BLAISE.
+Mon cher ami !  
+
+    NANINE.
+        Je me fie à ta foi.  
+
+    BLAISE.
+Son cher ami !  
+
+    NANINE.
+        Va, j'attends tout de toi.  
+
+
+## SCÈNE VI. La Baronne, Blaise.
+
+    BLAISE.
+D'où diable vient cet argent ? Quel message !  
+Il nous aurait aidé dans le ménage.  
+Allons, elle a pour nous de l'amitié ;  
+Et ça vaut mieux que de l'argent, morgué !  
+Courons, courons.  
+Il met l'argent et le paquet dans sa poche ; il rencontre la Baronne, et la heurte.
+
+
+    LA BARONNE.
+        Eh ! Le butor ! ... arrête.  
+L'étourdi m'a pensé casser la tête.  
+
+    BLAISE.
+Pardon, Madame.  
+
+    LA BARONNE.
+        Où vas-tu ? Que tiens-tu ?  
+Que fait Nanine ? As-tu rien entendu ?  
+Monsieur le Comte est-il bien en colère ?  
+Quel billet est-ce là ?  
+
+    BLAISE.
+        C'est un mystère.  
+Peste ! ...  
+
+    LA BARONNE.
+    Voyons.  
+
+    BLAISE.
+        Nanine gronderait.  
+
+    LA BARONNE.
+Comment dis-tu ? Nanine ! Elle pourrait  
+Avoir écrit, te charger d'un message !  
+Donne, ou je romps soudain ton mariage :  
+Donne, te dis-je.  
+
+    BLAISE, RIANT.
+    Ho, ho.  
+
+    LA BARONNE.
+        De quoi ris-tu ?  
+
+    BLAISE, RIANT ENCORE.
+Ha, ha.  
+
+    LA BARONNE.
+        J'en veux savoir le contenu.  
+Elle décachette la lettre.
+
+Il m'intéresse, ou je suis bien trompée.  
+
+    BLAISE, RIANT ENCORE.
+Ha, ha, ha, ha, qu'elle est bien attrapée !  
+Elle n'a là qu'un chiffon de papier ;  
+Moi, j'ai l'argent, et je m'en vais payer  
+Philippe Hombert : faut servir sa maîtresse.  
+Courons.  
+
+
+## SCÈNE VII.
+
+    LA BARONNE.
+        Lisons. « Ma joie et ma tendresse  
+Sont sans mesure, ainsi que mon bonheur.  
+Vous arrivez : quel moment pour mon coeur !  
+Quoi ! Je ne puis vous voir et vous entendre !  
+Entre vos bras je ne puis me jeter !  
+Je vous conjure au moins de vouloir prendre  
+Ces deux paquets : daignez les accepter.  
+Sachez qu'on m'offre un sort digne d'envie,  
+Et dont il est permis de s'éblouir :  
+Mais il n'est rien que je ne sacrifie  
+Au seul mortel que mon coeur doit chérir. »  
+Ouais. Voilà donc le style de Nanine !  
+Comme elle écrit, l'innocente orpheline !  
+Comme elle fait parler la passion !  
+En vérité ce billet est bien bon.  
+Tout est parfait, je ne me sens pas d'aise.  
+Ah, ah, rusée, ainsi vous trompiez Blaise !  
+Vous m'enleviez en secret mon amant.  
+Vous avez feint d'aller dans un couvent ;  
+Et tout l'argent que le Comte vous donne,  
+C'est pour Philippe Hombert ! Fort bien, friponne ;  
+J'en suis charmée, et le perfide amour  
+Du Comte Olban méritait bien ce tour.  
+Je m'en doutais que le coeur de Nanine  
+Était plus bas que sa basse origine.  
+
+
+## SCÈNE VIII. Le Comte, La Baronne.
+
+    LA BARONNE.
+Venez, venez, homme à grands sentiments,  
+Homme au-dessus des préjugés du temps,  
+Sage amoureux, philosophe sensible ;  
+Vous allez voir un trait assez risible.  
+Vous connaissez sans doute à Rémival  
+Monsieur Philippe Hombert, votre rival ?  
+
+    LE COMTE.
+Ah ! Quels discours vous me tenez ?  
+
+    LA BARONNE.
+        Peut-être  
+Ce billet-là vous le fera connaître.  
+Je crois qu'Hombert est un fort beau garçon.  
+
+    LE COMTE.
+Tous vos efforts ne sont plus de saison :  
+Mon parti pris, je suis inébranlable.  
+Contentez-vous du tour abominable  
+Que vous vouliez me jouer ce matin.  
+
+    LA BARONNE.
+Ce nouveau tour est un peu plus malin.  
+Tenez, lisez. Ceci pourra vous plaire ;  
+Vous connaîtrez les moeurs, le caractère  
+Du digne objet qui vous a subjugué.  
+Tandis que le Comte lit.
+
+Tout en lisant, il me semble intrigué.  
+Il a pâli ; l'affaire émeut sa bile...  
+Eh bien ! Monsieur, que pensez-vous du style ?  
+Il ne voit rien, ne dit rien, n'entend rien :  
+Oh ! Le pauvre homme ! Il le méritait bien.  
+
+    LE COMTE.
+Ai-je bien lu ? Je demeure stupide.  
+Ô tour affreux ! Sexe ingrat, coeur perfide !  
+
+    LA BARONNE.
+Je le connais, il est né violent ;  
+Il est prompt, ferme ; il va dans un moment  
+Prendre un parti.  
+
+
+## SCÈNE IX. Le Comte, La Baronne, Germon.
+
+    GERMON.
+        Voici dans l'avenue  
+Madame Olban.  
+
+    LA BARONNE.
+        La vieille est revenue ?  
+
+    GERMON.
+Madame votre mère, entendez-vous ?  
+Est près d'ici, monsieur.  
+
+    LA BARONNE.
+        Dans son courroux,  
+Il est devenu sourd. La lettre opère.  
+
+    GERMON, CRIANT.
+Monsieur.  
+
+    LE COMTE.
+    Plaît-il ?  
+
+    GERMON, HAUT.
+        Madame votre mère,  
+Monsieur.  
+
+    LE COMTE.
+        Que fait Nanine en ce moment ?  
+
+    GERMON.
+Mais... elle écrit dans son appartement.  
+
+    LE COMTE, D’UN AIR FROID ET SEC.
+Allez saisir ses papiers, allez prendre  
+Ce qu'elle écrit ; vous viendrez me le rendre.  
+Qu'on la renvoie à l'instant.  
+
+    GERMON.
+        Qui, monsieur ?  
+
+    LE COMTE.
+Nanine.  
+
+    GERMON.
+        Non, je n'aurais pas ce coeur ;  
+Si vous saviez à quel point sa personne  
+Nous charme tous ; comme elle est noble, bonne !  
+
+    LE COMTE.
+Obéissez, ou je vous chasse.  
+
+    GERMON.
+        Allons.  
+Il sort.
+
+
+
+## SCÈNE X. Le Comte, La Baronne.
+
+    LA BARONNE.
+Ah ! Je respire : enfin nous l'emportons ;  
+Vous devenez un homme raisonnable.  
+Ah çà, voyez s'il n'est pas véritable  
+Qu'on tient toujours de son premier état,  
+Et que les gens dans un certain éclat  
+Ont un coeur noble, ainsi que leur personne ?  
+Le sang fait tout, et la naissance donne  
+Des sentiments à Nanine inconnus.  
+
+    LE COMTE.
+Je n'en crois rien ; mais soit, n'en parlons plus :  
+Réparons tout. Le plus sage, en sa vie,  
+A quelquefois ses accès de folie :  
+Chacun s'égare, et le moins imprudent  
+Est celui-là qui plus tôt se repent.  
+
+    LA BARONNE.
+Oui.  
+
+    LE COMTE.
+        Pour jamais cessez de parler d'elle.  
+
+    LA BARONNE.
+Très volontiers.  
+
+    LE COMTE.
+        Ce sujet de querelle  
+Doit s'oublier.  
+
+    LA BARONNE.
+        Mais vous, de vos serments  
+Souvenez-vous.  
+
+    LE COMTE.
+        Fort bien, je vous entends ;  
+Je les tiendrai.  
+
+    LA BARONNE.
+        Ce n'est qu'un prompt hommage  
+Qui peut ici réparer mon outrage.  
+Indignement notre hymen différé  
+Est un affront.  
+
+    LE COMTE.
+        Il sera réparé.  
+Madame, il faut...  
+
+    LA BARONNE.
+        Il ne faut qu'un notaire.  
+
+    LE COMTE.
+Vous savez bien... que j'attendais ma mère.  
+
+    LA BARONNE.
+Elle est ici.  
+
+
+## SCÈNE XI. La Marquise, Le Comte, La Baronne.
+
+    LE COMTE, À SA MÈRE.
+        Madame, j'aurais dû...  
+À part.
+
+Philippe Hombert ! ...  
+À sa mère.
+
+        Vous m'avez prévenu ;  
+Et mon respect, mon zèle, ma tendresse...  
+À part.
+
+Avec cet air innocent, la traîtresse !  
+
+    LA MARQUISE.
+Mais vous extravaguez, mon très cher fils.  
+On m'avait dit, en passant par Paris,  
+Que vous aviez la tête un peu frappée :  
+Je m'aperçois qu'on ne m'a pas trompée :  
+Mais ce mal-là...  
+
+    LE COMTE.
+        Ciel ! Que je suis confus !  
+
+    LA MARQUISE.
+Prend-il souvent ?  
+
+    LE COMTE.
+        Il ne me prendra plus.  
+
+    LA MARQUISE.
+çà, je voudrais ici vous parler seule.  
+Faisant une petite révérence à la Baronne.
+
+Bonjour, madame.  
+
+    LA BARONNE, À PART.
+        Hom ! La vieille bégueule !  
+Madame, il faut vous laisser le plaisir  
+D'entretenir monsieur tout à loisir.  
+Je me retire.  
+Elle sort.
+
+
+
+## SCÈNE XII. La Marquise, Le Comte.
+
+    LA MARQUISE, PARLANT FORT VITE, ET D’UN TON DE PETITE VIEILLE BABILLARDE.
+        Eh bien ! Monsieur le Comte,  
+Vous faites donc à la fin votre compte  
+De me donner la Baronne pour bru ;  
+C'est sur cela que j'ai vite accouru.  
+Votre Baronne est une acariâtre,  
+Impertinente, altière, opiniâtre,  
+Qui n'eut jamais pour moi le moindre égard ;  
+Qui l'an passé, chez la Marquise Agard,  
+En plein souper me traita de bavarde :  
+D'y plus souper désormais dieu me garde !  
+Bavarde, moi ! Je sais d'ailleurs très bien  
+Qu'elle n'a pas, entre nous, tant de bien :  
+C'est un grand point ; il faut qu'on s'en informe ;  
+Car on m'a dit que son château de L'Orme  
+À son mari n'appartient qu'à moitié ;  
+Qu'un vieux procès, qui n'est pas oublié,  
+Lui disputait la moitié de la terre.  
+J'ai su cela de feu votre grand-père :  
+Il disait vrai, c'était un homme, lui ;  
+On n'en voit plus de sa trempe aujourd'hui.  
+Paris est plein de ces petits bouts d'homme,  
+Vains, fiers, fous, sots, dont le caquet m'assomme,  
+Parlant de tout avec l'air empressé,  
+Et se moquant toujours du temps passé.  
+J'entends parler de nouvelle cuisine,  
+De nouveaux goûts ; on crève, on se ruine :  
+Les femmes sont sans frein, et les maris  
+Sont des benêts. Tout va de pis en pis.  
+
+    LE COMTE, RELISANT LE BILLET.
+Qui l'aurait cru ? Ce trait me désespère.  
+Eh bien, Germon ?  
+
+
+## SCÈNE XIII. La Marquise, Le Comte, Germon.
+
+    GERMON.
+        Voici Votre notaire.  
+
+    LE COMTE.
+Oh ! Qu'il attende.  
+
+    GERMON.
+        Et voici le papier  
+Qu'elle devait, monsieur, vous envoyer.  
+
+    LE COMTE, LISANT.
+Donne... fort bien. Elle m'aime, dit-elle,  
+Et, par respect, me refuse... infidèle !  
+Tu ne dis pas la raison du refus !  
+
+    LA MARQUISE.
+Ma foi, mon fils a le cerveau perclus :  
+C'est sa Baronne ; et l'amour le domine.  
+
+    LE COMTE, À GERMON.
+M'a-t-on bientôt délivré de Nanine ?  
+
+    GERMON.
+Hélas ! Monsieur, elle a déjà repris  
+Modestement ses champêtres habits,  
+Sans dire un mot de plainte et de murmure.  
+
+    LE COMTE.
+Je le crois bien.  
+
+    GERMON.
+        Elle a pris cette injure  
+Tranquillement, lorsque nous pleurons tous.  
+
+    LE COMTE.
+Tranquillement ?  
+
+    LA MARQUISE.
+        Hem ! De qui parlez-vous ?  
+
+    GERMON.
+Nanine, hélas ! Madame, que l'on chasse :  
+Tout le château pleure de sa disgrâce.  
+
+    LA MARQUISE.
+Vous la chassez ? Je n'entends point cela.  
+Quoi ! Ma Nanine ? Allons, rappelez-la.  
+Qu'a-t-elle fait, ma charmante orpheline ?  
+C'est moi, mon fils, qui vous donnai Nanine.  
+Je me souviens qu'à l'âge de dix ans  
+Elle enchantait tout le monde céans.  
+Notre Baronne ici la prit pour elle ;  
+Et je prédis dès lors que cette belle  
+Serait fort mal ; et j'ai très bien prédit.  
+Mais j'eus toujours chez vous peu de crédit :  
+Vous prétendez tout faire à votre tête.  
+Chasser Nanine est un trait malhonnête.  
+
+    LE COMTE.
+Quoi ! Seule, à pied, sans secours, sans argent ?  
+
+    GERMON.
+Ah ! J'oubliais de dire qu'à l'instant  
+Un vieux bonhomme à vos gens se présente :  
+Il dit que c'est une affaire importante,  
+Qu'il ne saurait communiquer qu'à vous ;  
+Il veut, dit-il, se mettre à vos genoux.  
+
+    LE COMTE.
+Dans le chagrin où mon coeur s'abandonne,  
+Suis-je en état de parler à personne ?  
+
+    LA MARQUISE.
+Ah ! Vous avez du chagrin, je le crois ;  
+Vous m'en donnez aussi beaucoup à moi.  
+Chasser Nanine, et faire un mariage  
+Qui me déplaît ! Non, vous n'êtes pas sage.  
+Allez ; trois mois ne seront pas passés  
+Que vous serez l'un de l'autre lassés.  
+Je vous prédis la pareille aventure  
+Qu'à mon cousin le Marquis de Marmure.  
+Sa femme était aigre comme verjus ;  
+Mais, entre nous, la vôtre l'est bien plus.  
+En s'épousant, ils crurent qu'ils s'aimèrent ;  
+Deux mois après tous deux se séparèrent :  
+Madame alla vivre avec un galant,  
+Fat, petit-maître, escroc, extravagant ;  
+Et monsieur prit une franche coquette,  
+Une intrigante et friponne parfaite ;  
+Des soupers fins, la petite maison,  
+Chevaux, habits, maître d'hôtel fripon,  
+Bijoux nouveaux pris à crédit, notaires,  
+Contrats vendus, et dettes usuraires :  
+Enfin monsieur et madame, en deux ans,  
+À l'hôpital allèrent tout d'un temps.  
+Je me souviens encor d'une autre histoire,  
+Bien plus tragique, et difficile à croire ;  
+C'était...  
+
+    LE COMTE.
+        Ma mère, il faut aller dîner.  
+Venez... Ô ciel ! Ai-je pu soupçonner  
+Pareille horreur !  
+
+    LA MARQUISE.
+        Elle est épouvantable.  
+Allons, je vais la raconter à table ;  
+Et vous pourrez tirer un grand profit  
+En temps et lieu de tout ce que j'ai dit.  
+
+
+# ACTE III.
+
+
+## SCÈNE I. Nanine, vêtue en paysanne ; Germon.
+
+    GERMON.
+Nous pleurons tous en vous voyant sortir.  
+
+    NANINE.
+J'ai tardé trop ; il est temps de partir.  
+
+    GERMON.
+Quoi ! Pour jamais, et dans cet équipage ?  
+
+    NANINE.
+L'obscurité fut mon premier partage.  
+
+    GERMON.
+Quel changement ! Quoi ! Du matin au soir...  
+Souffrir n'est rien ; c'est tout que de déchoir.  
+
+    NANINE.
+Il est des maux mille fois plus sensibles.  
+
+    GERMON.
+J'admire encor des regrets si paisibles.  
+Certes, mon maître est bien malavisé ;  
+Notre Baronne a sans doute abusé  
+De son pouvoir, et vous fait cet outrage :  
+Jamais monsieur n'aurait eu ce courage.  
+
+    NANINE.
+Je lui dois tout : il me chasse aujourd'hui ;  
+Obéissons. Ses bienfaits sont à lui ;  
+Il peut user du droit de les reprendre.  
+
+    GERMON.
+À ce trait-là qui diable eût pu s'attendre ?  
+En cet état qu'allez-vous devenir ?  
+
+    NANINE.
+Me retirer, longtemps me repentir.  
+
+    GERMON.
+Que nous allons haïr notre Baronne !  
+
+    NANINE.
+Mes maux sont grands, mais je les lui pardonne.  
+
+    GERMON.
+Mais que dirai-je au moins de votre part  
+À notre maître, après votre départ ?  
+
+    NANINE.
+Vous lui direz que je le remercie  
+Qu'il m'ait rendue à ma première vie,  
+Et qu'à jamais sensible à ses bontés  
+Je n'oublierai... rien... que ses cruautés.  
+
+    GERMON.
+Vous me fendez le coeur, et tout à l'heure  
+Je quitterais pour vous cette demeure ;  
+J'irais partout avec vous m'établir :  
+Mais Monsieur Blaise a su nous prévenir ;  
+Qu'il est heureux ! Avec vous il va vivre :  
+Chacun voudrait l'imiter, et vous suivre.  
+
+    NANINE.
+On est bien loin de me suivre... ah ! Germon !  
+Je suis chassée... et par qui ! ...  
+
+    GERMON.
+        Le démon  
+A mis du sien dans cette brouillerie :  
+Nous vous perdons... et monsieur se marie.  
+
+    NANINE.
+Il se marie ! ... ah ! Partons de ce lieu ;  
+Il fut pour moi trop dangereux... adieu...  
+Elle sort.
+
+
+    GERMON.
+Monsieur le Comte a l'âme un peu bien dure :  
+Comment chasser pareille créature !  
+Elle paraît une fille de bien :  
+Mais il ne faut pourtant jurer de rien.  
+
+
+## SCÈNE II. Le Comte, Germon.
+
+    LE COMTE.
+Eh bien ! Nanine est donc enfin partie !  
+
+    GERMON.
+Oui, c'en est fait.  
+
+    LE COMTE.
+        J'en ai l'âme ravie.  
+
+    GERMON.
+Votre âme est donc de fer ?  
+
+    LE COMTE.
+        Dans le chemin  
+Philippe Hombert lui donnait-il la main ?  
+
+    GERMON.
+Qui ? Quel Philippe Hombert ? Hélas ! Nanine,  
+Sans écuyer, fort tristement chemine,  
+Et de ma main ne veut pas seulement.  
+
+    LE COMTE.
+Où donc va-t-elle ?  
+
+    GERMON.
+        Où ? Mais apparemment  
+Chez ses amis.  
+
+    LE COMTE.
+        À Rémival, sans doute ?  
+
+    GERMON.
+Oui, je crois bien qu'elle prend cette route.  
+
+    LE COMTE.
+Va la conduire à ce couvent voisin,  
+Où la Baronne allait dès ce matin :  
+Mon dessein est qu'on la mette sur l'heure  
+Dans cette utile et décente demeure ;  
+Ces cent louis la feront recevoir.  
+Va... garde-toi de laisser entrevoir  
+Que c'est un don que je veux bien lui faire ;  
+Dis-lui que c'est un présent de ma mère ;  
+Je te défends de prononcer mon nom.  
+
+    GERMON.
+Fort bien ; je vais vous obéir.  
+Il fait quelques pas.
+
+
+    LE COMTE.
+        Germon,  
+À son départ tu dis que tu l'as vue ?  
+
+    GERMON.
+Eh ! Oui, vous dis-je.  
+
+    LE COMTE.
+        Elle était abattue ?  
+Elle pleurait ?  
+
+    GERMON.
+        Elle faisait bien mieux,  
+Ses pleurs coulaient à peine de ses yeux ;  
+Elle voulait ne pas pleurer.  
+
+    LE COMTE.
+        A-t-elle  
+Dit quelque mot qui marque, qui décèle  
+Ses sentiments ? As-tu remarqué...  
+
+    GERMON.
+        Quoi ?  
+
+    LE COMTE.
+A-t-elle enfin, Germon, parlé de moi ?  
+
+    GERMON.
+Oh ! Oui, beaucoup.  
+
+    LE COMTE.
+        Eh bien ! Dis-moi donc, traître !  
+Qu'a-t-elle dit ?  
+
+    GERMON.
+        Que vous êtes son maître ;  
+Que vous avez des vertus, des bontés...  
+Qu'elle oubliera tout... hors vos cruautés.  
+
+    LE COMTE.
+Va... mais surtout garde qu'elle revienne.  
+Germon sort.
+
+Germon !  
+
+    GERMON.
+    Monsieur.  
+
+    LE COMTE.
+        Un mot ; qu'il te souvienne,  
+Si par hasard, quand tu la conduiras,  
+Certain Hombert venait suivre ses pas,  
+De le chasser de la belle manière.  
+
+    GERMON. [1]
+Oui, poliment, à grands coups d'étrivière :  
+Comptez sur moi ; je sers fidèlement.  
+Le jeune Hombert, dites-vous ?  
+
+    LE COMTE.
+        Justement.  
+
+    GERMON.
+Bon ! Je n'ai pas l'honneur de le connaître ;  
+Mais le premier que je verrai paraître  
+Sera rossé de la bonne façon ;  
+Et puis après il me dira son nom.  
+Il fait un pas et revient.
+
+Ce jeune Hombert est quelque amant, je gage,  
+Un beau garçon, le coq de son village.  
+Laissez-moi faire.  
+
+    LE COMTE.
+        Obéis promptement.  
+
+    GERMON.
+Je me doutais qu'elle avait quelque amant ;  
+Et Blaise aussi lui tient au coeur peut-être.  
+On aime mieux son égal que son maître.  
+
+    LE COMTE.
+Ah ! Cours, te dis-je.  
+
+
+## SCÈNE III.
+
+    LE COMTE.
+        Hélas ! Il a raison ;  
+Il prononçait ma condamnation ;  
+Et moi, du coup qui m'a pénétré l'âme  
+Je me punis ; la Baronne est ma femme ;  
+Il le faut bien, le sort en est jeté.  
+Je souffrirai, je l'ai bien mérité.  
+Ce mariage est au moins convenable.  
+Notre Baronne a l'humeur peu traitable ;  
+Mais, quand on veut, on sait donner la loi :  
+Un esprit ferme est le maître chez soi.  
+
+
+## SCÈNE IV. Le Comte, La Baronne, La Marquise.
+
+    LA MARQUISE.
+Or çà, mon fils, vous épousez madame ?  
+
+    LE COMTE.
+Eh ! Oui.  
+
+    LA MARQUISE.
+        Ce soir elle est donc votre femme ?  
+Elle est ma bru ?  
+
+    LA BARONNE.
+        Si vous le trouvez bon :  
+J'aurai, je crois, votre approbation.  
+
+    LA MARQUISE.
+Allons, allons, il faut bien y souscrire ;  
+Mais dès demain chez moi je me retire.  
+
+    LE COMTE.
+Vous retirer ! Eh ! Ma mère, pourquoi ?  
+
+    LA MARQUISE.
+J'emmènerai ma Nanine avec moi,  
+Vous la chassez, et moi, je la marie ;  
+Je fais la noce en mon château de Brie,  
+Et je la donne au jeune sénéchal,  
+Propre neveu du procureur fiscal,  
+Jean Roc Souci ; c'est lui de qui le père  
+Eut à Corbeil cette plaisante affaire.  
+De cet enfant je ne puis me passer ;  
+C'est un bijou que je veux enchâsser.  
+Je vais la marier... adieu.  
+
+    LE COMTE.
+        Ma mère,  
+Ne soyez pas contre nous en colère ;  
+Laissez Nanine aller dans le couvent ;  
+Ne changez rien à notre arrangement.  
+
+    LA BARONNE.
+Oui, croyez-nous, madame, une famille  
+Ne se doit point charger de telle fille.  
+
+    LA MARQUISE.
+Comment ? Quoi donc ?  
+
+    LA BARONNE.
+    Peu de chose.  
+
+    LA MARQUISE.
+    Mais...  
+
+    LA BARONNE.
+        Rien.  
+
+    LA MARQUISE.
+Rien, c'est beaucoup. J'entends, j'entends fort bien.  
+Aurait-elle eu quelque tendre folie ?  
+Cela se peut, car elle est si jolie !  
+Je m'y connais ; on tente, on est tenté :  
+Le coeur a bien de la fragilité ;  
+Les filles sont toujours un peu coquettes :  
+Le mal n'est pas si grand que vous le faites.  
+çà, contez-moi sans nul déguisement  
+Tout ce qu'a fait notre charmante enfant.  
+
+    LE COMTE.
+Moi, vous conter ?  
+
+    LA MARQUISE.
+        Vous avez bien la mine  
+D'avoir au fond quelque goût pour Nanine ;  
+Et vous pourriez...  
+
+
+## SCÈNE V. Le Comte, La Marquise, La Baronne ; Marin, en bottes.
+
+    MARIN.
+        Enfin tout est bâclé,  
+Tout est fini.  
+
+    LA MARQUISE.
+    Quoi ?  
+
+    LA BARONNE.
+    Qu'est-ce ?  
+
+    MARIN.
+        J'ai parlé  
+À nos marchands ; j'ai bien fait mon message ;  
+Et vous aurez demain tout l'équipage.  
+
+    LA BARONNE.
+Quel équipage ?  
+
+    MARIN.
+        Oui, tout ce que pour vous  
+A commandé votre futur époux ;  
+Six beaux chevaux : et vous serez contente  
+De la berline ; elle est bonne, brillante ;  
+Tous les panneaux par Martin sont vernis ;  
+Les diamants sont beaux, très bien choisis ;  
+Et vous verrez des étoffes nouvelles  
+D'un goût charmant... Oh ! Rien n'approche d'elles.  
+
+    LA BARONNE, AU COMTE.
+Vous avez donc commandé tout cela ?  
+
+    LE COMTE.
+À part.
+
+Oui... mais pour qui !  
+
+    MARIN.
+        Le tout arrivera  
+Demain matin dans ce nouveau carrosse,  
+Et sera prêt le soir pour votre noce.  
+Vive Paris pour avoir sur-le-champ  
+Tout ce qu'on veut, quand on a de l'argent !  
+En revenant, j'ai revu le notaire,  
+Tout près d'ici, griffonnant votre affaire.  
+
+    LA BARONNE.
+Ce mariage a traîné bien longtemps.  
+
+    LA MARQUISE, À PART.
+Ah ! Je voudrais qu'il traînât quarante ans.  
+
+    MARIN.
+Dans ce salon j'ai trouvé tout à l'heure  
+Un bon vieillard, qui gémit et qui pleure ;  
+Depuis longtemps il voudrait vous parler.  
+
+    LA BARONNE.
+Quel importun ! Qu'on le fasse en aller ;  
+Il prend trop mal son temps.  
+
+    LA MARQUISE.
+        Pourquoi, madame ?  
+Mon fils, ayez un peu de bonté d'âme,  
+Et, croyez-moi, c'est un mal des plus grands  
+De rebuter ainsi les pauvres gens :  
+Je vous ai dit cent fois dans votre enfance  
+Qu'il faut pour eux avoir de l'indulgence,  
+Les écouter d'un air affable, doux.  
+Ne sont-ils pas hommes tout comme nous ?  
+On ne sait pas à qui l'on fait injure ;  
+On se repent d'avoir eu l'âme dure.  
+Les orgueilleux ne prospèrent jamais.  
+À Marin.
+
+Allez chercher ce bonhomme.  
+
+    MARIN.
+        J'y vais.  
+Il sort.
+
+
+    LE COMTE.
+Pardon, ma mère : il a fallu vous rendre  
+Mes premiers soins ; et je suis prêt d'entendre  
+Cet homme-là, malgré mon embarras.  
+
+
+## SCÈNE VI. Le Comte, La Marquise, La Baronne, Le Paysan.
+
+    LA MARQUISE, AU PAYSAN.
+Approchez-vous, parlez, ne tremblez pas.  
+
+    LE PAYSAN.
+Ah ! Monseigneur ! écoutez-moi de grâce :  
+Je suis... je tombe à vos pieds que j'embrasse ;  
+Je viens vous rendre...  
+
+    LE COMTE.
+        Ami, relevez-vous :  
+Je ne veux point qu'on me parle à genoux ;  
+D'un tel orgueil je suis trop incapable.  
+Vous avez l'air d'être un homme estimable.  
+Dans ma maison cherchez-vous de l'emploi ?  
+À qui parlé-je ?  
+
+    LA MARQUISE.
+        Allons, rassure-toi.  
+
+    LE PAYSAN.
+Je suis, hélas ! Le père de Nanine.  
+
+    LE COMTE.
+Vous ?  
+
+    LA BARONNE.
+        Ta fille est une grande coquine.  
+
+    LE PAYSAN.
+Ah ! Monseigneur, voilà ce que j'ai craint ;  
+Voilà le coup dont mon coeur est atteint :  
+J'ai bien pensé qu'une somme si forte  
+N'appartient pas à des gens de sa sorte ;  
+Et les petits perdent bientôt leurs moeurs,  
+Et sont gâtés auprès des grands seigneurs.  
+
+    LA BARONNE.
+Il a raison : mais il trompe, et Nanine  
+N'est point sa fille ; elle était orpheline.  
+
+    LE PAYSAN.
+Il est trop vrai : chez de pauvres parents  
+Je la laissai dès ses plus jeunes ans ;  
+Ayant perdu mon bien avec sa mère,  
+J'allai servir, forcé par la misère,  
+Ne voulant pas, dans mon funeste état,  
+Qu'elle passât pour fille d'un soldat,  
+Lui défendant de me nommer son père.  
+
+    LA MARQUISE.
+Pourquoi cela ? Pour moi, je considère  
+Les bons soldats ; on a grand besoin d'eux.  
+
+    LE COMTE.
+Qu'a ce métier, s'il vous plaît, de honteux ?  
+
+    LE PAYSAN.
+Il est bien moins honoré qu'honorable.  
+
+    LE COMTE.
+Ce préjugé fut toujours condamnable.  
+J'estime plus un vertueux soldat,  
+Qui de son sang sert son prince et l'état,  
+Qu'un important, que sa lâche industrie  
+Engraisse en paix du sang de la patrie.  
+
+    LA MARQUISE.
+çà, vous avez vu beaucoup de combats ;  
+Contez-les-moi bien tous, n'y manquez pas.  
+
+    LE PAYSAN.
+Dans la douleur, hélas ! Qui me déchire,  
+Permettez-moi seulement de vous dire  
+Qu'on me promit cent fois de m'avancer :  
+Mais, sans appui, comment peut-on percer ?  
+Toujours jeté dans la foule commune,  
+Mais distingué, l'honneur fut ma fortune.  
+
+    LA MARQUISE.
+Vous êtes donc né de condition ?  
+
+    LA BARONNE.
+Fi ! Quelle idée !  
+
+    LE PAYSAN, À LA MARQUISE.
+        Hélas ! Madame, non ;  
+Mais je suis né d'une honnête famille :  
+Je méritais peut-être une autre fille.  
+Que vouliez-vous de mieux ?  
+
+    LE COMTE.
+        Eh ! Poursuivez.  
+
+    LA MARQUISE.
+Mieux que Nanine ?  
+
+    LE COMTE.
+        Ah ! De grâce, achevez.  
+
+    LE PAYSAN.
+J'appris qu'ici ma fille fut nourrie,  
+Qu'elle y vivait bien traitée et chérie.  
+Heureux alors, et bénissant le ciel,  
+Vous, vos bontés, votre soin paternel,  
+Je suis venu dans le prochain village,  
+Mais plein de trouble et craignant son jeune âge,  
+Tremblant encor, lorsque j'ai tout perdu,  
+De retrouver le bien qui m'est rendu.  
+Montrant la Baronne.
+
+Je viens d'entendre, au discours de madame,  
+Que j'eus raison : elle m'a percé l'âme ;  
+Je vois fort bien que ces cent louis d'or,  
+Des diamants, sont un trop grand trésor  
+Pour les tenir par un droit légitime ;  
+Elle ne peut les avoir eus sans crime.  
+Ce seul soupçon me fait frémir d'horreur,  
+Et j'en mourrai de honte et de douleur.  
+Je suis venu soudain pour vous les rendre :  
+Ils sont à vous ; vous devez les reprendre,  
+Et si ma fille est criminelle, hélas !  
+Punissez-moi, mais ne la perdez pas.  
+
+    LA MARQUISE.
+Ah ! Mon cher fils ! Je suis tout attendrie.  
+
+    LA BARONNE.
+Ouais, est-ce un songe ? Est-ce une fourberie ?  
+
+    LE COMTE.
+Ah ! Qu'ai-je fait ?  
+
+    LE PAYSAN, TIRANT LA BOURSE ET LE PAQUET.
+        Tenez, monsieur, tenez.  
+
+    LE COMTE.
+Moi, les reprendre ! Ils ont été donnés ;  
+Elle en a fait un respectable usage.  
+C'est donc à vous qu'on a fait le message ?  
+Qui l'a porté ?  
+
+    LE PAYSAN.
+        C'est votre jardinier,  
+À qui Nanine osa se confier.  
+
+    LE COMTE.
+Quoi ! C'est à vous que le présent s'adresse ?  
+
+    LE PAYSAN.
+Oui, je l'avoue.  
+
+    LE COMTE.
+        Ô douleur ! Ô tendresse !  
+Des deux côtés quel excès de vertu !  
+Et votre nom ? ... je demeure éperdu.  
+
+    LA MARQUISE.
+Eh ! Dites donc votre nom ? Quel mystère !  
+Philippe Hombert De Gatine.  
+
+    LE COMTE.
+        Ah ! Mon père !  
+
+    LA BARONNE.
+Que dit-il là ?  
+
+    LE COMTE.
+        Quel jour vient m'éclairer !  
+J'ai fait un crime ; il le faut réparer.  
+Si vous saviez combien je suis coupable !  
+J'ai maltraité la vertu respectable.  
+Il va lui-même à un de ses gens.
+
+Holà, courez.  
+
+    LA BARONNE.
+        Eh ! Quel empressement !  
+
+    LE COMTE.
+Vite un carrosse.  
+
+    LA MARQUISE.
+        Oui, madame, à l'instant :  
+Vous devriez être sa protectrice.  
+Quand on a fait une telle injustice,  
+Sachez de moi que l'on ne doit rougir  
+Que de ne pas assez se repentir.  
+Monsieur mon fils a souvent des lubies  
+Que l'on prendrait pour de franches folies :  
+Mais dans le fond c'est un coeur généreux ;  
+Il est né bon ; j'en fais ce que je veux.  
+Vous n'êtes pas, ma bru, si bienfaisante ;  
+Il s'en faut bien.  
+
+    LA BARONNE.
+        Que tout m'impatiente !  
+Qu'il a l'air sombre, embarrassé, rêveur !  
+Quel sentiment étrange est dans son coeur ?  
+Voyez, monsieur, ce que vous voulez faire.  
+
+    LA MARQUISE.
+Oui, pour Nanine.  
+
+    LA BARONNE.
+        On peut la satisfaire  
+Par des présents.  
+
+    LA MARQUISE.
+        C'est le moindre devoir.  
+
+    LA BARONNE.
+Mais moi, jamais je ne veux la revoir ;  
+Que du château jamais elle n'approche :  
+Entendez-vous ?  
+
+    LE COMTE.
+    J'entends.  
+
+    LA MARQUISE.
+        Quel coeur de roche !  
+
+    LA BARONNE.
+De mes soupçons évitez les éclats :  
+Vous hésitez ?  
+
+    LE COMTE, APRÈS UN SILENCE.
+        Non, je n'hésite pas.  
+
+    LA BARONNE.
+Je dois m'attendre à cette déférence ;  
+Vous la devez à tous les deux, je pense.  
+
+    LA MARQUISE.
+Seriez-vous bien assez cruel, mon fils ?  
+
+    LA BARONNE.
+Quel parti prendrez-vous ?  
+
+    LE COMTE.
+        Il est tout pris.  
+Vous connaissez mon âme et sa franchise :  
+Il faut parler. Ma main vous fut promise ;  
+Mais nous n'avions voulu former ces noeuds  
+Que pour finir un procès dangereux :  
+Je le termine ; et, dès l'instant, je donne,  
+Sans nul regret, sans détour j'abandonne  
+Mes droits entiers, et les prétentions  
+Dont il naquit tant de divisions :  
+Que l'intérêt encor vous en revienne :  
+Tout est à vous ; jouissez-en sans peine.  
+Que la raison fasse du moins de nous  
+Deux bons parents, ne pouvant être époux.  
+Oublions tout ; que rien ne nous aigrisse.  
+Pour n'aimer pas, faut-il qu'on se haïsse ?  
+
+    LA BARONNE.
+Je m'attendais à ton manque de foi.  
+Va, je renonce à tes présents, à toi.  
+Traître ! Je vois avec qui tu vas vivre,  
+À quel mépris ta passion te livre.  
+Sers noblement sous les plus viles lois ;  
+Je t'abandonne à ton indigne choix.  
+Elle sort.
+
+
+
+## SCÈNE VII. Le Comte, La Marquise, Philippe Hombert.
+
+    LE COMTE.
+Non, il n'est point indigne ; non, madame,  
+Un fol amour n'aveugla point mon âme :  
+Cette vertu, qu'il faut récompenser,  
+Doit m'attendrir, et ne peut m'abaisser.  
+Dans ce vieillard, ce qu'on nomme bassesse  
+Fait son mérite ; et voilà sa noblesse.  
+La mienne à moi, c'est d'en payer le prix.  
+C'est pour des coeurs par eux-mêmes ennoblis.  
+Et distingués par ce grand caractère,  
+Qu'il faut passer sur la règle ordinaire :  
+Et leur naissance, avec tant de vertus,  
+Dans ma maison n'est qu'un titre de plus.  
+
+    LA MARQUISE.
+Quoi donc ? Quel titre ? Et que voulez-vous dire ?  
+
+
+## SCÈNE VIII. Le Comte, La Marquise, Nanine, Philippe Hombert.
+
+    LE COMTE, À SA MÈRE.
+Son seul aspect devrait vous en instruire.  
+
+    LA MARQUISE.
+Embrasse-moi cent fois, ma chère enfant.  
+Elle est vêtue un peu mesquinement ;  
+Mais qu'elle est belle ! Et comme elle a l'air sage !  
+
+    NANINE, COURANT ENTRE LES BRAS DE PHILIPPE HOMBERT, APRÈS S’ÊTRE BAISSÉE DEVANT LA MARQUISE.
+Ah ! La nature a mon premier hommage.  
+Mon père !  
+
+    PHILIPPE HOMBERT.
+        Ô ciel ! Ô ma fille ! Ah, monsieur !  
+Vous réparez quarante ans de malheur.  
+
+    LE COMTE.
+Oui ; mais comment faut-il que je répare  
+L'indigne affront qu'un mérite si rare  
+Dans ma maison put de moi recevoir ?  
+Sous quel habit revient-elle nous voir !  
+Il est trop vil ; mais elle le décore.  
+Non, il n'est rien que sa vertu n'honore.  
+Eh bien ! Parlez : auriez-vous la bonté  
+De pardonner à tant de dureté ?  
+
+    NANINE.
+Que me demandez-vous ? Ah ! Je m'étonne  
+Que vous doutiez si mon coeur vous pardonne.  
+Je n'ai pas cru que vous pussiez jamais  
+Avoir eu tort après tant de bienfaits.  
+
+    LE COMTE.
+Si vous avez oublié cet outrage,  
+Donnez-m'en donc le plus sûr témoignage :  
+Je ne veux plus commander qu'une fois ;  
+Mais jurez-moi d'obéir à mes lois.  
+
+    PHILIPPE HOMBERT.
+Elle le doit, et sa reconnaissance...  
+
+    NANINE, À SON PÈRE.
+Il est bien sûr de mon obéissance.  
+
+    LE COMTE.
+J'ose y compter. Oui, je vous avertis  
+Que vos devoirs ne sont pas tous remplis.  
+Je vous ai vue aux genoux de ma mère ;  
+Je vous ai vue embrasser votre père ;  
+Ce qui vous reste en des moments si doux...  
+C'est... à leurs yeux... d'embrasser... votre époux.  
+
+    NANINE.
+Moi !  
+
+    LA MARQUISE.
+    Quelle idée ! Est-il bien vrai ?  
+
+    PHILIPPE HOMBERT.
+        Ma fille !  
+
+    LE COMTE, À SA MÈRE.
+Le daignez-vous permettre ?  
+
+    LA MARQUISE.
+        La famille  
+Étrangement, mon fils, clabaudera.  
+
+    LE COMTE.
+En la voyant, elle l'approuvera.  
+
+    PHILIPPE HOMBERT.
+Quel coup du sort ! Non, je ne puis comprendre  
+Que jusque-là vous prétendiez descendre.  
+
+    LE COMTE.
+On m'a promis d'obéir... je le veux.  
+
+    LA MARQUISE.
+Mon fils...  
+
+    LE COMTE.
+        Ma mère, il s'agit d'être heureux.  
+L'intérêt seul a fait cent mariages.  
+Nous avons vu les hommes les plus sages  
+Ne consulter que les moeurs et le bien :  
+Elle a les moeurs, il ne lui manque rien ;  
+Et je ferai par goût et par justice  
+Ce qu'on a fait cent fois par avarice.  
+Ma mère, enfin, terminez ces combats,  
+Et consentez.  
+
+    NANINE.
+        Non, n'y consentez pas ;  
+Opposez-vous à sa flamme... à la mienne ;  
+Voilà de vous ce qu'il faut que j'obtienne.  
+L'amour l'aveugle ; il le faut éclairer.  
+Ah ! Loin de lui, laissez-moi l'adorer.  
+Voyez mon sort, voyez ce qu'est mon père :  
+Puis-je jamais vous appeler ma mère ?  
+
+    LA MARQUISE.
+Oui, tu le peux, tu le dois ; c'en est fait :  
+Je ne tiens pas contre ce dernier trait ;  
+Il nous dit trop combien il faut qu'on t'aime ;  
+Il est unique aussi bien que toi-même.  
+
+    NANINE.
+J'obéis donc à votre ordre, à l'amour ;  
+Mon coeur ne peut résister.  
+
+    LA MARQUISE.
+        Que ce jour  
+Soit des vertus la digne récompense,  
+Mais sans tirer jamais à conséquence.  
+
+-------
+
+
+[1] Etrivière : Courroie de cuir, par laquelle les étriers sont suspendus. Donner les étrivières, c'est châtier des valets de livrée, les fouetter avec les étrivières. F

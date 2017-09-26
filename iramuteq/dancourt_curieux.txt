@@ -1,0 +1,1703 @@
+
+
+**** *book_ *id_I01 *act_I *date_1698
+
+-*who_lechevalier
+Oh !
+Cadédis, je n'y comprends rien : comment ?
+Parce que j'ai perdu mon argent ; je deviens triste au milieu des plaisirs et des agréments d'un camp paisible ?
+Hé, où est donc ton esprit, Chevalier de Fourbignac ?
+Qu'est-il devenu, mon enfant ?
+Crains-tu de demeurer court, toi, dont la cervelle est le magasin des expédients ?
+Ah !
+Te voilà ; bonjour l'ami Frontin ; comment se porte ton excellence ?
+
+**** *book_ *id_I02 *act_I *date_1698
+
+-*who_frontin
+Fort au service de la vôtre, Monsieur le Chevalier.
+Mais vous, comment vous en va ?
+
+-*who_lechevalier
+Tu vois, mon enfant, le mieux du monde ; toujours gai, gaillard, accablé d'honneurs, et comblé de dettes ; sans amour, Dieu merci ; sans argent, de par tous les diables.
+
+-*who_frontin
+C'est tout comme chez nous, Monsieur ; et à l'amour près, dont mon maître a bonne provision, vos destinées sont assez pareilles.
+
+-*who_lechevalier
+Oh, cadédis !
+Je le défie d'être aussi gueux que je le suis : je te parle confidemment ; je fais figure en apparence, toujours bonne table, beaucoup de vin, les hautbois du Régiment : force Bergères de Paris, quelques Provinciales, maintes Villageoises dansent les soirs devant ma tente ; je me donne ainsi le bal à peu de frais.
+Je n'ai pas quatre pistoles, et je me divertis toujours, tout coup vaille.
+
+-*who_frontin
+Vous êtes heureux d'avoir bon crédit.
+
+-*who_lechevalier
+Sandis, je le prends à telle fin que de raison, et je ne suis embarrassé que d'une certaine grosse hôtesse, chez qui j'ai mis loger, à mes dépens, des incommodes de Paris, moitié Bourgeois, moitié Bourgeoises, qui sont très indiscrètement venus me rendre ici visite.
+
+-*who_frontin
+Hé, de quoi diantre vous avisez-vous de défrayer cette caravane ?
+Ce sont bien là les allures d'un homme de votre pays ?
+
+-*who_lechevalier
+Paix, tais-toi, je leur garde bonne : ce sont de bonnes connaissances subalternes, de Robe, Marchands, Usuriers pour la plupart : je suis un peu sur leurs parties, je m'y veux mettre pour davantage ; et je leur paie consciencieusement par avance l'intérêt de leur argent, parce que le principal est mal assuré.
+
+-*who_frontin
+Cela est de bonne foi pour un Chevalier de Gascogne, et je croyais qu'il n'y avait que mon maître capable d'une si grande délicatesse de conscience.
+
+-*who_lechevalier
+Comment ?
+
+-*who_frontin
+Nous sommes dans la même crise que vous, Monsieur.
+Monsieur Nicolas Valentin, honnête Marchand, qui fournit le Régiment, Madame Judith Valentin sa femme, Mademoiselle Angélique Valentin leur fille, avec d'autres Bourgeois et Bourgeoises des environs de la rue du Roulle, se sont avisés de venir voir le Camp : Monsieur mon maître, qui est fort libéral, quoiqu'il n'ait pas le double, les a généreusement régalés presque tous les jours.
+On a fait de grands repas, nous en avons fait les honneurs : mais je serais d'avis d'en laisser payer la dépense à nos Bourgeois ; qu'en dites-vous ?
+
+-*who_lechevalier
+J'opinerais de même pour les miens, si je n'envisageais les suites.
+
+-*who_frontin
+Ce qui nous embarrasse le plus, nous autres, c'est que mon maître est amoureux de Mademoiselle Valentin la fille ; cela nous pique d'honneur, voyez-vous ; et il faut ou crever, ou faire bien les choses.
+
+-*who_lechevalier
+Tu as raison.
+Le voici, ton maître.
+
+**** *book_ *id_I03 *act_I *date_1698
+
+-*who_clitandre
+Ah !
+Mon pauvre Frontin, je suis au désespoir.
+Bonjour, Chevalier, comment te portes-tu ?
+
+-*who_lechevalier
+Aussi mal que toi.
+Qui te désespère ?
+
+-*who_clitandre
+Je suis dans la plus cruelle situation où je me sois trouvé de ma vie.
+
+-*who_lechevalier
+Hé bien, donne la main, je t'en offre autant, je ne suis pas mieux.
+
+-*who_clitandre
+Sais-tu la cause de mes chagrins ?
+
+-*who_lechevalier
+Si je la sais ?
+Je la ressens comme toi-même, je suis dans le cas, te dis-je.
+
+-*who_clitandre
+Toi, Chevalier, tu serais amoureux ?
+
+-*who_lechevalier
+Amoureux, moi ?
+Je ne connais l'amour que chez autrui ; ce n'est point par le cœur que nous nous ressemblons, mon ami, c'est par la bourse.
+
+-*who_clitandre
+Ah !
+C'est encore un surcroît à mon malheur ; je n'ai pas un sou, mon pauvre Chevalier.
+
+-*who_lechevalier
+Amoureux et gueux !
+Ces deux qualités qui séparément ne sont pas fort bonnes ; c'est bien le diable quand le hasard les met ensemble.
+
+-*who_clitandre
+Mon pauvre Frontin, que ferons-nous ?
+Parle.
+
+-*who_frontin
+Ma foi, je ne sais, Monsieur : ce qui me paraît de plus facile, c'est que vous consoliez Monsieur le Chevalier, que Monsieur le Chevalier vous console, et que je vous exhorte tous deux à prendre patience ; car je ne vois pas que nous soyons en état de nous rendre réciproquement d'autre service.
+
+-*who_lechevalier
+Cadédis, pourquoi non ?
+Associons nos infortunes et nos savoir-faire : allons, un coup de désespoir, Frontin.
+
+-*who_clitandre
+Il n'y a rien que je ne sois capable d'entreprendre pour me tirer de cette affaire.
+
+-*who_lechevalier
+Moi, j'escaladerais le firmament pour en sortir avec honneur.
+
+-*who_frontin
+Mais, si vous vous trouvez tant de résolution, il y aurait un moyen…
+
+-*who_clitandre
+Quel est-il ?
+Parle.
+
+-*who_frontin
+Il est un peu scabreux, à la vérité ; mais pour franchir un mauvais pas…
+
+-*who_lechevalier
+Explique-toi seulement, dépêche.
+
+-*who_frontin
+Ne pourrions-nous point aller en parti sur le grand chemin de Paris ?
+Il y aurait là de bons coups à faire.
+
+-*who_clitandre
+Tu perds l'esprit, Frontin.
+
+-*who_frontin
+Point du tout, Monsieur, aux environs d'un Camp, il n'y a point de mal d'aller en parti ; la curiosité a rendu la Bourgeoisie de Paris très voyageuse ; quel inconvénient trouveriez-vous de faire payer aux premiers venus les frais que nous sont venus faire ici leurs camarades ?
+
+-*who_lechevalier
+L'expédient me plairait assez, si je n'appréhendais les conséquences.
+
+-*who_frontin
+Mais écoutez, cela peut avoir des suites, vous avez raison, voyez.
+
+-*who_clitandre
+Si tu n'imagines pas autre chose, je ne vois pas…
+
+-*who_lechevalier
+Oh, cadédis !
+Je tiens une idée qui vaut, je crois, son pesant d'or.
+
+-*who_frontin
+Je ne suis point jaloux de l'invention ; parlez.
+
+-*who_clitandre
+Dis-nous ce que c'est.
+
+-*who_lechevalier
+Tu ne veux pas te brouiller ouvertement avec ta compagnie Bourgeoise, j'ai quelque sorte de ménagement pour la mienne ; tout cela est dans les règles, il faut de la bonne foi, de la politesse et du savoir-vivre.
+Mais…
+
+-*who_frontin
+Où ce mais-là nous mènera-t-il ?
+Voyons.
+
+-*who_lechevalier
+Abandonnons-nous réciproquement nos curieux, vous ferez ce que vous pourrez des miens ; et des vôtres, moi, j'en tirerai raison, sur ma parole.
+
+-*who_clitandre
+Que dis-tu de cette imagination, Frontin ?
+
+-*who_frontin
+Cela m'ouvre l'esprit, Monsieur : notre Monsieur Valentin, à son négoce près, est un Bourgeois aussi bourgeois et aussi neuf…
+
+-*who_lechevalier
+Les miens sont à peu près de même, habiles gens dans leur commerce, mais d'autre part très imbéciles.
+
+-*who_frontin
+Voilà de bons sujets, il faudrait un peu raisonner là-dessus.
+
+-*who_lechevalier
+Allez raisonner de ce côté, je vous rejoins dans le moment même.
+
+-*who_clitandre
+Qui t'empêche de venir avec nous ?
+
+-*who_lechevalier
+Une grosse Hôtesse de ces quartiers, que je vois venir.
+Comme je lui dois, je la ménage ; et je voudrais bien, en cas de besoin, qu'elle fût femme d'accommodement.
+
+-*who_frontin
+Comment ?
+Et c'est Madame Pinuin, la maîtresse des trois Rois.
+
+-*who_clitandre
+Madame Pinuin ?
+
+-*who_lechevalier
+Justement.
+Vous la connaissez ?
+
+-*who_frontin
+Si nous la connaissons ?
+Elle a été femme de charge d'une fille d'Opéra, chez qui nous soupions quelquefois ; c'est une fort bonne pâte de femme ; et dans le dessein que nous avons, nous pourrions bien avoir besoin d'elle.
+
+-*who_lechevalier
+Oui, je vais la mettre dans ma manche, laissez faire, et retirez-vous, je ne vous ferai pas attendre.
+
+**** *book_ *id_I04 *act_I *date_1698
+
+-*who_lechevalier
+Hé bien, qu'est-ce, la belle hôtesse ?
+Sitôt que je vous aperçois, j'écarte les importuns, comme vous voyez ; et je connais à votre physionomie que je ne vous fais pas de chagrin.
+Sympathiserions-nous ensemble quelque tant soit peu, par aventure ?
+
+-*who_madamepinuin
+Pourquoi non, Monsieur le Chevalier ?
+J'aime les gens de bonne humeur ; et de tous les Gascons que j'ai jamais vus, vous me paraissez le plus drôle et le plus divertissant, je vous assure.
+
+-*who_lechevalier
+Aussi suis-je : quel goût de femme !
+Devenez veuve, Madame Pinuin, je fais votre fortune, devenez veuve, encore une fois, et je vous épouse.
+
+-*who_madamepinuin
+Que je devienne veuve !
+Il y a trous ans que je le suis, Monsieur.
+
+-*who_lechevalier
+Comment, vous l'êtes ?
+Quoi, ce gros vivant qui ordonne tout dans la maison, qui tranche, qui taille, qui rogne.
+
+-*who_madamepinuin
+Ce n'est que mon compère, Monsieur le Chevalier.
+
+-*who_lechevalier
+Votre compère ?
+Hé bien, devenez veuve du compère, et nous ferons nos conditions.
+
+-*who_madamepinuin
+Il n'y a point de conditions à faire entre vous et moi.
+J'ai d'autres vues pour vous, Monsieur le Chevalier, je veux faire votre fortune à vous qui m'offrez de faire la mienne.
+
+-*who_lechevalier
+Ma fortune, à moi ?
+Cadédis, je vous mets à même, parlez.
+
+-*who_madamepinuin
+Avez-vous le cœur libre, Monsieur le Chevalier ?
+
+-*who_lechevalier
+Si j'ai le cœur libre ?
+J'entends ; j'ai fait quelque passion dans le pays : eh !
+Cadédis, pauvre Chevalier, ne seras-tu jamais corrigé de trop d'ascendant sur les Dames ?
+
+-*who_madamepinuin
+Cela viendra, ne vous affligez point, et dites-moi naturellement si vous pouvez disposer de vous.
+
+-*who_lechevalier
+En faveur de qui, ma chère enfant ?
+Si c'est une vieille, néant, je suis loué ; si c'est une jeune, nous passerons bail quand il lui plaira.
+
+-*who_madamepinuin
+Ce n'est point un bail dont il est question, c'est un bon contrat de mariage.
+
+-*who_lechevalier
+Bail ou Contrat, je ne dispute point des termes, sachons seulement qui ce peut être.
+
+-*who_madamepinuin
+C'est Madame Robin.
+
+-*who_lechevalier
+Qui?
+Cette gaillarde bourgeoise qui a toujours un pied en l'air ?
+
+-*who_madamepinuin
+Elle-même, justement.
+
+-*who_lechevalier
+Hé !
+C'est la maîtresse de Monsieur Mouflard, un de ces Messieurs que j'ai logés chez vous ; c'est avec lui qu'elle est venue de Paris, ils sont fiancés depuis quatre jours.
+
+-*who_madamepinuin
+Elle se défiancera si vous voulez, l'air du Camp lui a donné une noble aversion pour son fiancé, et un goût pour tout ce qui s'appelle homme d'épée.
+
+-*who_lechevalier
+Oh cadédis, le goût est trop général.
+
+-*who_madamepinuin
+Vous en profiterez seul, et de trente mille écus d'argent comptant que je vous offre de sa part, aux conditions de l'épouser.
+
+-*who_lechevalier
+Trente mille écus, Madame Pinuin !
+Je ne me sens point de répugnance dans cette affaire.
+Agis donc, achève, termine, je me repose sur tes soins et sur mon mérite : elle m'aime sans trop me connaître ; quand elle me connaîtra, qui pourrait-elle me préférer ?
+
+-*who_madamepinuin
+Il n'a pas mauvaise opinion de sa petite personne.
+
+-*who_lechevalier
+Écoute, au moins, vois où tu m'embarques, je compte là-dessus ; si l'affaire manque, il faudra me faire crédit, je t'en avertis.
+Sans adieu, mon aimable hôtesse.
+
+-*who_madamepinuin
+Jusqu'au revoir, Monsieur le Chevalier.
+
+**** *book_ *id_I05 *act_I *date_1698
+
+-*who_madamepinuin
+L'affaire ne manquera pas, à ce que je prévois : la Dame est éprise du Gascon, le Gascon est fort épris de trente mille écus.
+Oh !
+Par ma foi, Monsieur Mouflard, vous vous repentirez à Compiègne de m'avoir refusé crédit à Paris, quand je n'étais que femme de chambre.
+
+**** *book_ *id_I06 *act_I *date_1698
+
+-*who_guillaume
+Sarviteur à la couseine Pinuin, comment se porte-t-alle ?
+Est-ce qu'alle est devenue folle ?
+Il m'est avis qu'alle parle toute seule.
+
+-*who_madamepinuin
+Je réfléchissais sur certaines petites affaires.
+
+-*who_guillaume
+Parguenne, vous les faites bian, vos petites affaires, et vous êtes une futée commère pour une Compiègnoise.
+
+-*who_madamepinuin
+Hélas, Monsieur Guillaume, vous n'êtes pas trop nigaud pour un Picard, et vous entendez assez bien vos petits intérêts, aussi bien que moi.
+
+-*who_guillaume
+Dame, acoutez, quand je sommes une fois déniaisés, nous autres Picards, je ne nous changerions pas contre certains badauds qui n'avont rien vu ; tatigué, la plaisante engeance.
+
+-*who_madamepinuin
+Vous n'avez pas mal fait votre compte avec eux, et le voisinage du Camp ne vous a point apporté de dommage.
+
+-*who_guillaume
+Oh, pour stila non ; je me suis avisé de tenir cabaret dans notre farme, c'est un bon métier, couseine, n'an gagne ce qu'on veut ; j'avons morgué eu du monde jusques dans nos étables, et si ils y couchiont tretous sur de la litière à vingt sous par tête tant qu'ils en vouliont : oh morgué, j'ai bien vendu mes denrées.
+
+-*who_madamepinuin
+Hé, n'est-il pas juste que ces Curieux de Paris paient un peu cher le plaisir de voir un Camp ?
+
+-*who_guillaume
+Parguenne, ils seriaint encore trop heureux quand il leur en coûterait encore dix fois davantage ; ils avont vu une armée une fois, comme alle campe, comme alle file, comme alle marche, comme alle décampe, comme alle… que sais-je moi ?
+Tatigué, quand ils seront retournés chez eux, comme ils débagouleront tout ça dans leur voisinage !
+
+-*who_madamepinuin
+Ceux qui ne l'auront pas vue seront fâchés d'en avoir manqué l'occasion, je gage.
+
+-*who_guillaume
+Ça se pourra fort bian : pour les hommes encore passe, n'an leur pardonne ; mais ces Bourgeoises, que venont-elles faire ici ?
+
+-*who_madamepinuin
+La curiosité est plus pardonnable aux femmes qu'aux hommes, et…
+
+-*who_guillaume
+Hé fi, morgué, c'est se moquer, la curiosité est parmise à de certaines femmes : mais à des Marchandes, à des Cabaretières, à des Procureuses : est-ce que c'est leur besogne de quitter leur ménage et de s'en venir à l'armée ?
+
+-*who_madamepinuin
+Il y a quelque chose à dire à cela, vous avez raison.
+
+-*who_guillaume
+Il y a morgué de ces masques-là qui avons fait garder la maison aux Procureux pendant qu'alles s'en venont ici courir la prétantaine avec des maîtres Clercs.
+
+-*who_madamepinuin
+Cela n'est pas bien.
+
+-*who_guillaume
+Je voudrais, parguenne, pour la rareté du fait, qu'on en fît tant seulement passer queuque demi douzaine par les baguettes, ça leur apprendrait à demeurer chez elles.
+
+-*who_madamepinuin
+C'est dommage que le cousin n'ait pas grande autorité, il s'en servirait bien judicieusement.
+
+-*who_guillaume
+Tatiguenne oui, je n'aime point les sottes gens, et je ne sis jamais plus ravi que quand on les barne.
+
+-*who_madamepinuin
+Cela est de bon sens.
+
+-*who_guillaume
+Tenez couseine, j'étais ces jours-ci dans la joie de mon cœur.
+
+-*who_madamepinuin
+Et à propos de quoi ?
+
+-*who_guillaume
+Deux nigauds qui logiont chez nous, un avocat et un Apothicaire.
+
+-*who_madamepinuin
+Hé bien ?
+
+-*who_guillaume
+Ils aviont, morgué, de biaux justaucorps tout chamarrés d'or, et ils étions montés comme des Saints-Georges ; ils fesions les olibrius dans les commencements : mais ils avont le caquet bien rabattu, à l'heure qu'il est.
+
+-*who_madamepinuin
+Comment donc ?
+
+-*who_guillaume
+Des aigrefins de ce Camp les avont fait jouer, et ils leur avont tout gagné l'argent, les justaucorps et les montures ; les badauds s'en retourneront en veste à Paris par des chemins de traverses, et si ils ne feront pas grand'chère sur la route.
+Morgué, que c'est bian fait !
+
+-*who_madamepinuin
+Mais ces gens-là dont vous vous moquez, vous apportent de l'argent, cousin.
+
+-*who_guillaume
+Bian entendu, voirement, je profite de leurs sottises, mais je m'en gobarge.
+Ainsi va le monde, ça est-il défendu ?
+
+-*who_madamepinuin
+Non, vraiment.
+
+-*who_guillaume
+Il y a encore cheux nous des originaux, à qui j'ai opignon qu'on jouera queuque pièce.
+
+-*who_madamepinuin
+Et qui sont-ils, ces originaux-là ?
+
+-*who_guillaume
+Je ne sais, morgué, pas bian : mais ils sont de la connaissance d'un certain Officier que je vians chercher ici, et ce certain Officier a un certain valet.
+Hé, pargué, le vela, tenez couseine : ce n'est morgué pas un sot que ce drôle-là.
+
+-*who_madamepinuin
+Non, vraiment, c'est un garçon de ma connaissance, et vous me ferez plaisir de me laisser avec lui.
+
+-*who_guillaume
+Oui : mais quand vous en aurez fait, vous me le livrerais ; j'ai aussi queuque affaire avec ly, moi, couseine.
+
+**** *book_ *id_I07 *act_I *date_1698
+
+-*who_frontin
+Ah, ah !
+C'est vous, Monsieur Guillaume ?
+
+-*who_guillaume
+Votre maître m'a dit que je vous trouvisse ici, qu'il avait queuque chose à me dire ; et comme ces parsonnes qu'il a logées cheux nous s'en allont demain, je crois qu'ils ne demandont point à compter : je voudrais bian savoir, ou d'eux, ou de ly, qui me baillera de l'argent ; car je suis homme d'accommodement, il ne m'importe pas qui m'en baille, pourvu que j'en aie.
+
+-*who_frontin
+Vous en aurez, je réglerai cela, moi.
+Quand boirons-nous ensemble ?
+
+-*who_guillaume
+Pargué, tout à l'heure, le plutôt vaut le mieux : finissez avec la couseine, je m'en vais cheux elle faire tirer du meilleur ; si vous tardez trop, je boirai tout seul en vous attendant, et vous me trouverais peut-être ivre.
+Sans adieu, Monsieur Frontin ; votre valet, couseine.
+
+**** *book_ *id_I08 *act_I *date_1698
+
+-*who_frontin
+Quoi !
+C'est votre cousin que ce Monsieur Guillaume, Madame Pinuin ?
+
+-*who_madamepinuin
+Fort à votre service, Monsieur Frontin.
+
+-*who_frontin
+Ce Gentilhomme-là ne fait point de déshonneur à la famille, au moins ; et je crois qu'avec un peu de vos lumières, il pourrait faire quelque chose dans le monde.
+
+-*who_madamepinuin
+S'il avait pris quelques-unes de vos leçons seulement.
+
+-*who_frontin
+J'ai envie de lui en donner pour voir, et de lui faire faire dès aujourd'hui son apprentissage.
+Mais toi, en faveur de l'ancienne connaissance, serais-tu d'humeur à rendre un bon office à mon Maître ?
+
+-*who_madamepinuin
+De tout mon cœur.
+De quoi s'agit-il ?
+
+-*who_frontin
+Je vais te l'expliquer, il est amoureux, premièrement.
+
+-*who_madamepinuin
+Amoureux ?
+Mais écoute donc, Frontin.
+
+-*who_frontin
+Oh !
+Il n'est pas question ici d'un mariage d'Opéra, nous avons des vues raisonnables.
+
+-*who_madamepinuin
+Sur ce pied-là, tu n'as qu'à parler : quel est l'objet de son amour ?
+
+-*who_frontin
+Une petite personne, qui, avec son père et sa mère, est logée chez le cousin Guillaume.
+
+-*who_madamepinuin
+Et quelles gens sont-ce que le père et la mère ?
+
+-*who_frontin
+Le père est Monsieur Valentin, un honnête homme, Marchand de nos amis ; et la mère… la mère… est femme du père.
+
+-*who_madamepinuin
+Je comprends cela : mais si ton maître est dans le dessein d'épouser leur fille, il leur fait honneur : quelles difficultés y a-t-il à vaincre ?
+Je n'y en vois pas pour moi.
+
+-*who_frontin
+Tu n'y en vois pas ?
+Je vais t'y en faire trouver, moi, donne-toi patience.
+Cet honnête Marchand est un Bourgeois fort riche, et mon maître est un Gentilhomme fort gueux.
+
+-*who_madamepinuin
+Cela rend l'affaire épineuse, tu as raison.
+
+-*who_frontin
+Autre difficulté : le bonhomme sait le mauvais état de nos affaires ; il a aidé lui-même à les déranger, en nous vendant très cher à crédit de mauvaises marchandises, qu'il nous faisait revendre comptant à très bon marché, et en nous prêtons quelquefois cent pistoles dans le besoin, dont il tirait des billets de mille écus.
+
+-*who_madamepinuin
+Mais, vraiment, c'est un usurier que ce Marchand-là.
+
+-*who_frontin
+Un usurier ?
+Oh, parlez mieux, c'est bien un fripon, Madame Pinuin.
+
+-*who_madamepinuin
+Et ton maître veut épouser la fille d'un fripon ?
+
+-*who_frontin
+Le père est un fripon, mais la fille est un bon parti : ces sortes de mariage ne sont pas sans exemple.
+
+-*who_madamepinuin
+Mais, que puis-je là-dedans, moi ?
+Quel est l'emploi que tu me destines ?
+
+-*who_frontin
+Celui d'apprendre à la petite fille que mon maître est amoureux d'elle.
+
+-*who_madamepinuin
+Comment, elle n'en est pas informée.
+
+-*who_frontin
+Non, mon enfant, on ne s'est encore fait que des mines de part et d'autre ; et outre que nous ne savons pas bien si elle entend les nôtres, nous ne comprenons pas trop ce que les siennes signifient.
+
+-*who_madamepinuin
+Quoi, vous n'avez pu ménager un moment de conversation ?
+Trouver le moyen de rendre un billet ?
+
+-*who_frontin
+Non, la mère est un diable, qui ne la quitte pas : c'est une de ces Bourgeoises de la vieille roche, une pie-grièche, un dragon surveillant, qu'il n'y a pas moyen d'endormir, et que tu auras peine à tromper toi-même, quelque talent et quelque expérience que tu aies.
+
+-*who_madamepinuin
+Il faudra donc que cela soit bien difficile ?
+
+**** *book_ *id_I09 *act_I *date_1698
+
+-*who_madamerobin
+Ah, la charmante chose la magnifique chose, qu'une armée !
+Le délicieux séjour que celui d'un Camp !
+
+-*who_frontin
+Quelle est cette femme ?
+La connais-tu ?
+Dis.
+
+-*who_madamepinuin
+Paix, tais-toi ; c'est une riche Bourgeoise, que je veux faire épouser au Chevalier de Fourbignac.
+
+-*who_frontin
+Ah !
+Je sais ce que c'est, il vient de nous le dire.
+
+-*who_madamerobin
+On ne doit plus se soucier de mourir quand on a vu cela.
+Pour moi je ne me sens pas, je suis ravie, je me meurs de plaisir, je me meurs de plaisir, je me meurs de plaisir.
+
+-*who_madamepinuin
+Comment donc, qu'avez-vous, Madame ?
+Est-ce que le Camp vous donne des vapeurs ?
+
+-*who_madamerobin
+Ah !
+Ma chère Madame Pinuin, il fait dans mon cœur et dans mon esprit des révolutions à quoi je ne m'étais pas attendue : je suis dans des ravissements !
+Quel charmant spectacle !
+Madame Pinuin, quel charmant spectacle !
+
+-*who_frontin
+On ne voit point de cela à Paris, Madame.
+
+-*who_madamerobin
+Oh, vraiment non, il y a bien de la différence.
+Nous vîmes avant-hier passer tous les équipages de l'armée ; il n'y a point d'Ambassadeur qui en ait un si beau.
+
+-*who_madamerobin
+Cela est vrai, au moins.
+Que de chevaux !
+Que de chariots !
+Que de mulets !
+
+-*who_madamepinuin
+Non, assurément, ni si nombreux, Madame.
+
+-*who_madamerobin
+Cela est vrai, au moins.
+Que de chevaux !
+Que de chariots !
+Que de mulets !
+
+-*who_frontin
+Que de harnois !
+Que de grelots !
+Que de sonnettes !
+Madame !
+
+-*who_madamerobin
+Oui, quel agréable tintamarre !
+La satisfaisante chose !
+Quel ordre !
+Quelle magnificence !
+Cela plaît, cela charme, cela ravit ; que cela est beau, que cela est grand, que cela est excellent, que cela est superbe !
+
+-*who_madamepinuin
+Vous n'avez pas de regret à votre voyage, Madame ?
+
+-*who_madamerobin
+Non, je t'assure ; y a-t-il rien de plus gracieux que tout ce que j'ai vu ?
+Ce mélange de bataillons confus, ces escadrons épars, ces Officiers, ces Valets, ces Vivandiers, ces gens de condition.
+
+-*who_frontin
+Il y a là de la marchandise à choisir ; c'est une belle Foire, n'est-ce pas, Madame ?
+
+-*who_madamerobin
+Je ne m'étonne pas s'il y vient tant de monde.
+
+-*who_madamepinuin
+Et moi, je ne suis pas surprise qu'après avoir vu tant de belles choses, la Bourgeoisie soit si peu de votre goût.
+
+-*who_madamerobin
+Ah !
+Je t'ai fait confidence de ma faiblesse, la Bourgeoisie me pue horriblement à l'heure qu'il est, et je m'aimerais mieux simple Cavalière, que la plus honorable Bourgeoise de Paris.
+
+-*who_frontin
+Les voyages font bien les gens, Madame Pinuin.
+
+-*who_madamerobin
+N'as-tu point vu ce petit badin de Chevalier ?
+
+-*who_madamepinuin
+Si je l'ai vu ?
+
+-*who_madamerobin
+Paix, parle bas.
+
+-*who_madamepinuin
+Ne craignez rien, on peut tout dire devant cet honnête garçon-là.
+
+-*who_frontin
+Oui, Madame, je suis des amis de Monsieur le Chevalier, confident ordinaire de toutes les Bourgeoises suivant l'armée.
+
+-*who_madamerobin
+Tu n'as pas mal d'occupation.
+Hé bien, mon enfant ?
+
+-*who_madamepinuin
+Hé bien, Madame, vous devez être la personne du monde la plus contente : Monsieur le Chevalier m'a prévenue sur tout ce que je m'étais proposé de lui dire de votre part ; il est amoureux de vous à la folie.
+
+-*who_madamerobin
+Le petit fripon !
+
+-*who_frontin
+Elle vous a dit vrai, Madame, il me l'a dit aussi, à moi : c'est bien la passion la plus pétulante.
+
+-*who_madamerobin
+Je n'en fais jamais d'autre, et je me suis toujours bien doutée qu'il m'en voulait.
+Depuis huit jours que nous sommes ici, il n'a jamais manqué l'occasion de me dire les plus jolies choses ?
+Oh !
+Nous avons beaucoup de sympathie ; il est bouffon, si bouffon dans la conversation ; moi, je suis si folle, si folle dans mes manières.
+
+-*who_madamepinuin
+Si ce mariage-là se fait, Madame, vous deviendrez le charme de la garnison.
+
+-*who_madamerobin
+De la garnison ?
+De la garnison ?
+Quoi, Monsieur le Chevalier me mènera en garnison ?
+
+-*who_madamepinuin
+Oui, vraiment, et sur la frontière même ; et comme il est un des plus anciens Officiers du Régiment, le moins que vous puissiez espérer, c'est de vous trouver au premier jour la commandante d'un Bataillon.
+
+-*who_madamerobin
+La commandante d'un Bataillon ?
+Je commanderais un Bataillon, moi, sur la frontière ?
+Mais, ma chère Madame Pinuin.
+
+-*who_madamepinuin
+Cela vaut bien mieux que de ne commander qu'à des garçons de boutique.
+
+-*who_madamerobin
+Il n'y a pas de comparaison, vraiment.
+Ah !
+Je ne sais pas ce que je ne donnerais point pour être défaite de ce vilain Monsieur Mouflard.
+
+-*who_frontin
+Nous nous en déferons, Madame, ne vous mettez pas en peine : j'en ai bien expédié d'autres.
+
+-*who_madamerobin
+Mais je ne voudrais pas qu'on le tuât ;
+
+-*who_frontin
+Non, non, Madame.
+
+-*who_madamerobin
+Il est bon d'avoir un peu de conduite dans la vie.
+
+-*who_frontin
+Nous n'en manquerons pas plus que vous, Madame, laissez-nous faire.
+
+-*who_madamerobin
+Faites donc, mes enfants, faites : mais réussissez.
+Je vais retrouver ma tante et ma sœur, pour leur faire part de ma bonne fortune, et tâcher, en me promenant, de rencontrer ce petit étourdi de Chevalier.
+Ma chère Madame Pinuin ?
+
+-*who_madamepinuin
+Madame ?
+
+-*who_madamerobin
+Je serai Commandante d'un Bataillon en garnison, moi, sur la frontière.
+Que je vais faire des miennes !
+Que je vais faire des miennes !
+Que je vais faire des miennes !
+
+**** *book_ *id_I10 *act_I *date_1698
+
+-*who_frontin
+Voilà une belle folle, au moins, et je ne sais si c'est rendre un bon office au Chevalier.
+
+-*who_madamepinuin
+Et mort de ma vie !
+C'est l'argent qu'il épouse, ce n'est pas la folle, ne te mets pas en peine.
+
+**** *book_ *id_I11 *act_I *date_1698
+
+-*who_lechevalier
+Hé cadédis, l'ami Frontin, tu t'endors, je pense, ou tout au moins tu t'oublies auprès des charmes de ma chère hôtesse.
+À quoi diantre songes-tu donc ?
+
+-*who_frontin
+À vos affaires, Monsieur.
+
+-*who_madamepinuin
+Nous n'avons parlé d'autre chose ; et si vous étiez venu de ce côté, vous auriez trouvé Madame Robin toute charmée de l'espérance qu'elle a de vous posséder.
+
+-*who_lechevalier
+La pauvre femme !
+Je l'adore.
+Les trente mille écus sont comptants, au moins ?
+
+-*who_madamepinuin
+Et sans cela, serait-elle adorable ?
+Allez-vous-en la joindre, Monsieur, et prenez soin de l'entretenir dans les agréables idées que nous lui avons données de son bonheur.
+
+-*who_lechevalier
+Laissez-moi faire, je veux la ravir en extase.
+Mais écoute, Frontin, le Mouflard et le Valentin n'ont plus guères à rester ici… Il faut se hâter.
+
+-*who_frontin
+Hé allez, Monsieur, quand ils partiraient demain, nous leur donnerons ce soir un petit bal d'armée pour leur faire nos adieux : songez seulement à vous rendre au plutôt dans la tente de mon maître.
+
+-*who_lechevalier
+Tu peux compter que j'y suis déjà, j'y cours, j'y vole, et j'y mène la Dame Robin, dont je me nantis par avance.
+
+**** *book_ *id_I12 *act_I *date_1698
+
+-*who_madamepinuin
+Tu n'as maintenant qu'à me faire connaître la femme et la fille de Monsieur Valentin, je trouverai bientôt les moyens d'apprendre à la petite personne ce qu'il faut qu'elle sache, et de pénétrer ce qu'elle a dans l'âme.
+
+-*who_frontin
+Nous ne te demandons pas autre chose.
+Hé parbleu, je crois que les voilà, le hasard nous les amène ici le plus à propos du monde, cela est d'un heureux présage pour notre entreprise.
+
+-*who_madamepinuin
+Où te trouverai-je ?
+
+-*who_frontin
+Dans notre tente : tu sais bien où campe le Régiment.
+
+-*who_madamepinuin
+Bon, n'y déjeunâmes-nous pas l'autre jour ensemble ?
+Les voilà qui approchent ; laisse-moi, tu auras bientôt de mes nouvelles.
+
+**** *book_ *id_I13 *act_I *date_1698
+
+-*who_madamevalentin
+Ah !
+Que je suis lasse de tout ceci !
+Quel charivari !
+Quelle peste de cohue !
+Votre père est un plaisant animal, vraiment, de nous avoir fait faire un si sot voyage.
+
+-*who_madamepinuin
+Madame, je suis votre très humble servante.
+
+-*who_madamevalentin
+Je suis la vôtre, Madame.
+
+-*who_angelique
+Frontin était avec cette Dame-là, et elle me fait des signes, cela veut dire quelque chose : ne serait-elle point des amies de son maître ?
+
+-*who_madamevalentin
+Hem, plaît-il ?
+Quoi ?
+
+-*who_angelique
+Rien, ma mère.
+
+-*who_madamevalentin
+Hé bien, qu'est-il devenu, ce visage-là ?
+Son animal de frère, votre imbécile de tante, son grand benet de fils, qui ne nous donne pas seulement la main, où tout cela s'est-il fourré ; il faudra les attendre, cela est bien agréable.
+Ah, que je suis lasse de tout ce train-ci, que j'en suis lasse !
+Hem !
+
+-*who_madamepinuin
+Vous êtes Madame Valentin, Madame, apparemment ?
+
+-*who_madamevalentin
+Oui, je suis Madame Valentin.
+Baissez les yeux, petite fille.
+
+-*who_madamepinuin
+Et Madame Valentin de très mauvaise humeur, si je ne me trompe ?
+
+-*who_madamevalentin
+Oh pour cela oui, je vous en réponds.
+
+-*who_madamepinuin
+Hélas, ma chère Madame que je vous trouve changée ?
+
+-*who_madamevalentin
+Changée, Madame ?
+Voilà un fort sot compliment, et je ne suis point en âge de paraître changée.
+
+-*who_madamepinuin
+Ah vraiment, c'est en bien que vous l'êtes, Madame, et vous embellissez à vue d'œil.
+
+-*who_madamevalentin
+Comment, j'embellis ?
+Tredame, Madame, un visage taillé comme le mien n'a pas grand besoin d'embellir.
+
+-*who_madamepinuin
+Ne vous fâchez donc point, Madame, ce n'est pas mon dessein.
+
+-*who_madamevalentin
+J'étais à quinze ans toute aussi aimable que je le suis, Madame ; et si vous m'aviez vue au Jasmin fleuri, dans la boutique de feu mon papa ?
+C'était moi qu'on appelait la belle Parfumeuse, afin que vous le sachiez.
+
+-*who_madamepinuin
+Hé, vraiment oui, je le sais bien ; c'est de ce temps-là que j'ai l'honneur de vous connaître, Madame.
+
+-*who_madamevalentin
+Hé bien donc ?
+Tenez-vous droite, bouvière.
+
+-*who_madamepinuin
+Vous avez là une aimable enfant, Madame, qui paraît bien sage et bien élevée.
+
+-*who_madamevalentin
+Elle ?
+C'est une sournoise que son père me gâte.
+
+-*who_madamepinuin
+Vous songez bientôt à la marier, sans doute ?
+
+-*who_madamevalentin
+À la marier, Madame, à la marier ?
+Cela ne presse pas.
+
+-*who_angelique
+Oh, vraiment non !
+Madame, je n'ai encore que seize ans, et ma mère n'a été mariée qu'à trente-neuf.
+
+-*who_madamevalentin
+Hé bien, tenez !
+Cette impertinente, avec ses seize ans, et les trente-neuf !
+On va s'imaginer que j'en ai soixante : je ne vous mènerai jamais avec moi, votre père aura beau dire et beau faire.
+
+-*who_madamepinuin
+Je ne vous conseillerais pourtant pas, Madame, de la laisser seule en ce pays-ci, surtout ; l'air d'une armée est si dangereux, et pour des jeunes personnes de Paris encore !
+Dès qu'il s'en égare quelqu'une dans ce Camp pour trois ou quatre jours seulement, il faut savoir toutes les sottises qu'on en dit.
+
+-*who_madamevalentin
+Je le crois bien, vraiment : mais pour moi, je veille la mienne de près, et je ne crains pas que le voyage du Camp fasse aucun tort à sa réputation, ni à la mienne.
+
+-*who_madamepinuin
+Oh, je sais dans quelle retenue et dans quelle contrainte vous l'élevez, Madame ; et cela est fort louable, je vous assure.
+
+-*who_angelique
+Et fort chagrinant pour moi, Madame, qu'on n'ait pas assez bonne opinion de ma conduite…
+
+-*who_madamevalentin
+Je la crois fort bonne : mais le soin que j'en prends ne la rendra pas plus mauvaise.
+
+-*who_madamepinuin
+Non, assurément, on ne saurait prendre trop de précautions pour empêcher de jeunes personnes de répondre aux témoignages d'estime et de tendresse que de jeunes gens peuvent leur donner.
+
+-*who_madamevalentin
+Je suis toujours en garde là-contre.
+
+-*who_madamepinuin
+Et vous faites fort bien ; le siècle est si perverti, et les hommes d'aujourd'hui sont si rusés et si adroits…
+
+-*who_madamevalentin
+Je défie qui que ce soit de m'attraper.
+
+-*who_angelique
+Il faudrait être bien fin, à moins que de se faire entendre avec des mines…
+
+-*who_madamevalentin
+Vous entendez les mines, Mademoiselle ma fille ?
+
+-*who_angelique
+C'est vous qui m'avez montré à les entendre, ma mère.
+
+-*who_madamevalentin
+Je vous ai montré cela, moi ?
+
+-*who_angelique
+Oui, vraiment, ne faites-vous pas presque toujours la grimace à mon père ?
+
+-*who_madamevalentin
+Hé bien ?
+
+-*who_angelique
+Hé bien, ma mère, cela veut dire que vous êtes fâchée, n'est-ce pas ?
+Et par conséquent un visage gracieux doit signifier que l'on est contente.
+
+-*who_madamepinuin
+Il n'y a rien de plus naturel.
+
+-*who_madamevalentin
+Elle ne manque point d'esprit, au moins.
+
+-*who_madamepinuin
+Si jamais elle est sensible à l'amour, elle en aura bien plus encore.
+
+-*who_angelique
+Je n'en aurai jamais davantage, Madame, je vous assure.
+
+-*who_madamepinuin
+Quoi ?
+Si vous aviez un Amant incertain de sa destinée, que quelque personne s'intéressât à s'en éclaircir, vous trouveriez moyen de lui faire savoir…
+
+-*who_angelique
+Oui, Madame, je l'instruirais de mes sentiments, et en présence de ma mère même.
+
+-*who_madamevalentin
+En ma présence ?
+
+-*who_madamepinuin
+Je le voudrais pour la rareté du fait, cela serait trop plaisant.
+
+-*who_madamevalentin
+Je ne lui conseillerais pas de s'y hasarder.
+
+-*who_angelique
+Quoi, vous trouveriez mauvais, ma mère, que j'avouasse naturellement que je ne suis pas insensible à une passion respectueuse ?
+
+-*who_madamevalentin
+Personne n'a de passion pour vous, Mademoiselle, voilà des discours inutiles.
+
+-*who_angelique
+Si quelqu'un en avait, ma mère, des desseins honnêtes et des vues raisonnables lui feraient aisément trouver le chemin de mon cœur.
+Mais sans l'aveu de ma famille, Madame, il ne devrait jamais rien prétendre.
+
+-*who_madamepinuin
+Que cela est soumis !
+Que cela est respectueux !
+Vous devez être bien contente de cette belle enfant-là, Madame.
+
+-*who_madamevalentin
+Voilà ce que fait la bonne éducation, cela ne fera jamais que ce que je voudrai.
+
+-*who_madamepinuin
+Je suis si charmée, que je voudrais faire durer la conversation jusqu'à demain.
+Quoi, sans l'aveu de vos parents, on n'aurait donc rien à espérer, Mademoiselle ?
+
+-*who_angelique
+Non, Madame, je vous assure.
+
+-*who_madamepinuin
+Vous n'êtes pas charmée d'entendre cela, Madame ?
+Et si vous aviez des parents bizarres qui s'opposaient à votre bonheur, qui voulussent forcer votre inclination ?
+
+-*who_angelique
+Je n'ai rien à craindre de ce côté-là, Madame.
+
+-*who_madamepinuin
+Il n'y a pas d'apparence, vous avez raison : mais il arrive des choses si peu prévues quelquefois.
+Supposons que cela fût, (avec tout son esprit, je vais l'embarrasser, je gage) quelqu'un qui vous aimerait tendrement, et qui entreprendrait tout pour vous posséder, vous défendriez-vous de pardonner à ce quelqu'un là…
+
+-*who_angelique
+Hé, Madame, l'amour ne doit-il pas pardonner tout ce que l'amour fait entreprendre ?
+
+-*who_madamepinuin
+La pauvre enfant !
+Voilà une jolie maxime, n'est-ce pas, Madame ?
+
+-*who_madamevalentin
+Non, vraiment, elle n'est point jolie, et je la trouve fort impertinente, au contraire.
+
+-*who_madamepinuin
+Impertinente, Madame !
+Un pauvre amant serait ravi de savoir qu'on pense cela.
+
+-*who_angelique
+Ah !
+Je voudrais de tout mon cœur que vous en connaissiez quelqu'un, Madame ; je vous permettrais tout de ce pas de lui aller dire.
+
+-*who_madamepinuin
+Oh !
+Je n'y manquerais pas, je vous en réponds : votre très humble servante, Madame Valentin.
+Adieu, Mademoiselle.
+
+**** *book_ *id_I14 *act_I *date_1698
+
+-*who_madamevalentin
+Voilà une drôlesse qui a la langue bien pendue, à ce qu'il me semble ; et vous êtes aussi furieusement jaseuse : elle fera bien de n'y pas revenir.
+
+-*who_angelique
+Elle me paraît si bonne personne et de si bon conseil ; je crois, pour moi, ma mère, qu'il y aurait beaucoup à profiter avec elle.
+
+-*who_madamevalentin
+Je le crois, il y aurait à profiter : mais je ne veux pas que vous fassiez de ces profits-là.
+
+**** *book_ *id_I15 *act_I *date_1698
+
+-*who_monsieurmouflard
+Ah !
+Je n'en puis plus, j'en mourrai de chagrin.
+Mais voyez ces brutaux, ces canailles-là…
+
+-*who_angelique
+Hé, ma mère, voilà Monsieur Mouflard, notre voisin !
+Il est déguisé en Gentilhomme, aussi bien que mon père : nous ne sommes pas seuls qui ayons fait le voyage du camp, comme vous voyez.
+
+-*who_madamevalentin
+Je le crois bien, vraiment : s'il n'y avait que votre père d'extravagant dans tout lez quartier, ce serait un beau miracle.
+
+-*who_monsieurmouflard
+Ah !
+Si l'on m'y attrape.
+
+-*who_madamevalentin
+Bonjour, Monsieur Mouflard.
+
+-*who_monsieurmouflard
+Votre valet, Madame Valentin.
+
+-*who_angelique
+Vous paraissez bien houspillé : vous est-il arrivé quelque chose de fâcheux, Monsieur Mouflard ?
+
+-*who_monsieurmouflard
+Ah !
+Mademoiselle Angélique, me voilà bien revenu de l'estime et de la considération que j'avais pour l'armée.
+
+-*who_madamevalentin
+Comment donc ?
+
+-*who_monsieurmouflard
+Toute la revue s'est aujourd'hui déchaînée pour me faire pièce.
+
+-*who_angelique
+Vous venez de voir la revue ?
+
+-*who_monsieurmouflard
+Je viens de voir le diable : je n'ai rien vu.
+J'étais avec trois Messieurs que vous connaissez, mon beau-frère le Miroitier, mon cousin le Bonnetier, et mon neveu le Notaire, tous bien vêtus, avec de grandes épées, et des plumes rouges même.
+
+-*who_angelique
+Avaient-ils aussi bonne mine que vous, Monsieur Mouflard ?
+
+-*who_monsieurmouflard
+Pas tout à fait, mais il ne s'en fallait guères ; et avec tout cela, je crois que tout le monde s'était donné le mot pour nous reconnaître.
+
+-*who_angelique
+Est-il possible ?
+
+-*who_monsieurmouflard
+Il faut bien que cela soit ; car de quelque côté que nous allassions, j'entendais toujours : Tirez, Bourgeois : fi les vilains, à la Boutique.
+Cela n'est point plaisant à essuyer, au moins.
+
+-*who_madamevalentin
+Non, vraiment, cela est fort ridicule.
+
+-*who_monsieurmouflard
+Et les maudites hallebardes : ah !
+Les vilaines armes, Madame Valentin, les vilaines armes !
+
+-*who_angelique
+Vous en paraissez bien mécontent ; seriez-vous blessé ?
+
+-*who_monsieurmouflard
+Non pas dangereusement : mais ces brutaux de Sergents ne croient que vous faire signe de vous ranger, et ils vous assomment.
+
+-*who_madamevalentin
+Allez, mon pauvre Monsieur Mouflard, vous en voilà quitte à bon marché.
+
+-*who_monsieurmouflard
+Ah !
+Ce qui me chagrine le plus, c'est le cousin et le beau-frère, que j'ai persécutés pour faire le voyage, et qu'on a mis en chemise : leurs femmes ne me le pardonneront jamais.
+
+-*who_angelique
+On les a mis en chemise ?
+
+-*who_monsieurmouflard
+Oui, nous nous sauvions de Régiment en Régiment, pour éviter le tumulte et le scandale ; il est désagréable de se faire des affaires avec une armée, voyez-vous ?
+
+-*who_madamevalentin
+Il faut céder à la force ; vous avez raison.
+
+-*who_monsieurmouflard
+En chemin faisant, nous sommes malheureusement tombés dans un diable de Bataillon, dont les Officiers étaient à peu près vêtus comme ces deux Messieurs.
+
+-*who_angelique
+Cela vous devait faire respecter.
+
+-*who_monsieurmouflard
+Cela a fait tout le contraire : quatre grands pendards de Soldats leur ont fait une querelle d'Allemand, sur ce qu'ils ont contrefait les habits uniformes du Régiment ; ils les ont dépouillés en un clin d'œil, et on les a mis au Drapeau pour vingt-quatre heures.
+
+-*who_madamevalentin
+Mais cela ne se fait point, il faut s'aller plaindre, il y a bonne justice.
+
+-*who_monsieurmouflard
+Il faut s'aller plaindre ?
+Se plaindra qui voudra : pour moi, je pars demain, et de grand matin même.
+Jusqu'au revoir, Mesdames.
+
+-*who_angelique
+Nous nous retrouverons à Paris, Monsieur Mouflard ?
+
+-*who_monsieurmouflard
+Oui, mais nous ne nous retrouverons jamais au Camp, sur ma parole.
+Ah !
+La vilaine chose !
+Qu'une revue, la vilaine chose !
+Je n'en verrai de ma vie, pas même à la Plaine de Grenelle.
+
+**** *book_ *id_I16 *act_I *date_1698
+
+-*who_madamevalentin
+Ah !
+Que votre père mériterait bien qu'il lui en arrivât autant.
+Voyez un peu ce vieux fou, planter là sa femme et sa fille, pour aller voir des tambours, et des trompettes, des chevaux, des mousquets, des hommes et des piques : car ce n'est que cela dans le fonds : ne voilà-t-il pas une belle curiosité ?
+
+-*who_angelique
+Voilà mon père.
+
+**** *book_ *id_I17 *act_I *date_1698
+
+-*who_monsieurvalentin
+Mon cher Monsieur Frontin, que je vous ai d'obligation.
+
+-*who_frontin
+Oh !
+Point du tout, Monsieur, je vous assure.
+
+-*who_monsieurvalentin
+Ah !
+C'est toi, ma petite femme, ma mie, je te croyais avec mon neveu.
+Pourquoi nous as-tu quittés ?
+Tu as bien perdu, va.
+
+-*who_madamevalentin
+Ç'amon, vraiment, tirez, Bourgeois, à la boutique : cela est bien plaisant, de s'aller faire dire au nez de ces sottises-là ?
+
+-*who_monsieurvalentin
+Ah, ah !
+Cela est vrai, on a crié cela, et tout auprès de moi : mais ce n'était pas à moi que cela s'adressait, au moins.
+
+-*who_madamevalentin
+Non, car cela ne vous convient pas, aussi bien qu'aux autres ?
+
+-*who_frontin
+Oh !
+Il y a Bourgeois et Bourgeois, Madame ; et Monsieur Valentin est un homme aussi respecté parmi les troupes…
+
+-*who_monsieurvalentin
+J'ai rencontré Monsieur Frontin, le plus heureusement du monde ; et sous ses auspices, j'ai vu assez commodément tout ce qui se pouvait voir.
+
+-*who_frontin
+Vous vous moquez, Monsieur, je suis seulement fâché de vous avoir voulu faire passer imprudemment par cet endroit que gardaient ces deux sentinelles.
+
+-*who_monsieurvalentin
+C'était notre plus court.
+
+-*who_frontin
+Cela est vrai, mais en prenant le plus long, cela vous aurait épargné les bourrades que ces brutaux-là vous ont données.
+
+-*who_madamevalentin
+Des bourrades, Monsieur Valentin ?
+
+-*who_monsieurvalentin
+Oh !
+J'ai fort bien soutenu cela, je ne me suis point déferré, je les aurais forcés si j'avais voulu.
+
+-*who_frontin
+Vous avez bien fait de ne le pas vouloir.
+
+-*who_madamevalentin
+Le beau plaisir de faire vingt lieues pour se faire battre par des sentinelles !
+
+-*who_monsieurvalentin
+Je vous dis que je m'en suis fort bien tiré, encore une fois.
+
+-*who_frontin
+Oui, oui, Madame ; et tout cela se serait fort bien passé, Monsieur, sans ce brutal d'Aide-Major ; qui vous a fort vilainement appliqué une vingtaine de coups de canne en passant-là.
+
+-*who_madamevalentin
+Une vingtaine de coups de canne ?
+
+-*who_angelique
+Comment, mon père ?
+
+-*who_monsieurvalentin
+C'est une méprise, il l'a fait par mégarde, cet Aide-Major-là est un de mes amis, et qui me doit de l'argent même ; il ne me voyait que par le dos quand il frappait, dès que j'ai retourné le visage, et qu'il m'a reconnu, il s'est mis à rire comme un fou ; il n'était point du tout fâché contre moi.
+
+-*who_frontin
+Monsieur votre mari a l'esprit bien fait, Madame Valentin, vous devez être bienheureuse avec cet honnête homme-là.
+
+-*who_monsieurvalentin
+Savez-vous bien ce qui me chagrine le plus de tout cela, Monsieur Frontin ?
+
+-*who_frontin
+Hé quoi, Monsieur ?
+
+-*who_monsieurvalentin
+C'est le coup de pied que ce cheval m'a donné dans l'estomac.
+
+-*who_frontin
+Écoutez, ce cheval-là pourrait bien l'avoir fait exprès, lui ; car il vous a vu au visage.
+
+-*who_monsieurvalentin
+Enfin, tout compté, tout rabattu, je suis fort content de mon petit voyage ; et après tout ce que j'ai vu, je commanderais une armée en cas de besoin, il n'y a rien de plus facile.
+
+**** *book_ *id_I18 *act_I *date_1698
+
+-*who_guillaume
+Ah !
+Palsangué, Monsieur Frontin, je nous allons bian rire.
+
+-*who_frontin
+Comment donc, qu'est-il arrivé, Monsieur Guillaume ?
+
+-*who_guillaume
+Parguenne, il y a une douzaine d'Officiers à qui l'on a baillé ordre de faire la recharche de tous les Curieux qui se trouveront ici, et qui n'y avont que faire.
+
+-*who_frontin
+La recherche des Curieux qui n'ont que faire ici ?
+Et pourquoi cela, Monsieur Guillaume ?
+
+-*who_guillaume
+Margué, n'an les mettra tretous sur le cheval de bois, n'an dit que ce sont des espions.
+
+-*who_madamevalentin
+Monsieur Valentin ?
+
+-*who_angelique
+Sur le cheval de bois, mon père ?
+
+-*who_monsieurvalentin
+Fi donc, vous êtes folle, cela ne me regarde point, je ne suis point un espion.
+
+-*who_guillaume
+Tatigué, vous en avez pourtant bian la meine.
+Dame, accoutez, songez à votre conscience, autant de grimpé, il n'y a pas là de façons.
+
+-*who_monsieurvalentin
+Mais voyez cet animal, avec son grimpé.
+
+-*who_frontin
+Il ne sait ce qu'il dit, Monsieur, il n'y a jamais eu de cheval de bois dans un Camp.
+
+-*who_guillaume
+On en a fait faire tout exprès.
+
+-*who_monsieurvalentin
+Tout exprès, Monsieur Frontin !
+
+-*who_frontin
+On fera entendre raison à ces Officiers-là, Monsieur, ne vous mettez pas en peine.
+
+-*who_guillaume
+On palsanguenne, oui raison ; ils n'écoutont raison que le lendemain, et ils fesont toujours monter à cheval la veille.
+Oh, ces gens-là abrégeont bian la procédure.
+
+-*who_madamevalentin
+Il faut partir, Monsieur Valentin, regagnons Paris.
+Je serais au désespoir, si par quelque malentendu, il vous arrivait un accident à Compiègne.
+
+-*who_monsieurvalentin
+Vous me feriez enrager, Madame Valentin.
+On me connaît une fois, quand je dirai qui je suis…
+
+-*who_frontin
+Au pis aller, Monsieur, si on vous faisait ce chagrin-là, il ne durerait pas du moins ; mon maître a des amis, et vous ne seriez pas là plus de trois ou quatre heures.
+
+**** *book_ *id_I19 *act_I *date_1698
+
+-*who_lechevalier
+Doucement, camarades point de tumulte, ni de méprise, et qu'on fasse les choses dans l'ordre.
+
+-*who_guillaume
+Ah !
+Tatigué, vela un de ces persécuteurs de Curieux, je gage, vous n'avez morgué qu'à vous bian tenir.
+
+-*who_monsieurvalentin
+Ne vous éloignez pas, ma femme ; tenez-vous auprès de moi, ma fille ; ne nous quittez pas, Monsieur Frontin.
+
+-*who_frontin
+Non, non, Monsieur, laissez-moi faire :
+Voilà un Bourgeois bien en sûreté !
+
+-*who_lechevalier
+Ah, cadédis, la plaisante occupation !
+Sera-ce bientôt fait ?
+Que je suis las de ces corvées.
+Hé, Boisansoif, Fuzillard, la Taillade ?
+
+-*who_fuzillard
+Monsieur ?
+
+-*who_lechevalier
+Combien avons-nous de ces Messieurs les Curieux à cheval ?
+
+-*who_fuzillard
+Dix-neuf, je pense ; et un que voilà que nous y aurons bientôt mis, ce sera la vingtaine.
+
+-*who_monsieurvalentin
+Monsieur Frontin, ce n'est point une raillerie, vraiment.
+
+-*who_frontin
+Paix, je connais cet Officier-là, laissez-moi faire ; Monsieur, je vous donne le bonjour.
+
+-*who_lechevalier
+Ton valet, Frontin.
+Qui sont ces gens ?
+Connais-tu ce visage ?
+
+-*who_madamevalentin
+Comment visage ?
+
+-*who_monsieurvalentin
+Taisez-vous, ma femme, ne vous faites point d'affaires.
+
+-*who_lechevalier
+Il a mauvaise physionomie.
+
+-*who_frontin
+C'est pourtant un fort honnête homme, un des intimes amis de mon maître
+
+-*who_lechevalier
+Quand il serait l'intime du Diable.
+Allons, enfants, que l'on commence par s'en assurer.
+
+-*who_monsieurvalentin
+Hé, Monsieur, faites-moi la grâce de m'écouter.
+
+-*who_lechevalier
+Il fait rébellion, je pense ?
+Qu'on me lui fende l'estomac de trente coups de pertuisanes.
+
+-*who_monsieurvalentin
+Hé, Monsieur, ayez pitié de moi, je suis un honnête Bourgeois, qui fournit je ne sais combien de Régiments.
+
+-*who_lechevalier
+Un Bourgeois dans cet équipage ?
+Déguisé dans un camp ?
+Pris en flagrant délit, le procès est tout fait.
+
+-*who_monsieurvalentin
+Mais, Monsieur…
+
+-*who_lechevalier
+Ne voyez-vous pas bien vous-même que vous êtes trop bien vêtu pour rester à pied ?
+Allons, enfants, que l'on fasse venir en cérémonie une monture pour ce galant homme.
+
+-*who_madamevalentin
+C'est mon mari, Monsieur l'Officier.
+
+-*who_angelique
+C'est mon père, Monsieur.
+
+-*who_lechevalier
+Votre mari ?
+Votre père ?
+Les aimables personnes !
+À votre considération, Mesdames, on ne lui mettra que vingt livres pesant de boulet à chaque jambe.
+
+-*who_monsieurvalentin
+Miséricorde !
+Hé mon pauvre Monsieur Frontin, où est votre maître ?
+C'est lui qui m'a fait venir ici, cela crie vengeance.
+
+-*who_frontin
+Cela est bien chagrinant, je vous l'avoue ; tâchez de ne point monter à cheval sitôt, je m'en vais le chercher.
+
+-*who_monsieurvalentin
+Ah le maudit voyage !
+Qu'on se va moquer de moi, le maudit voyage !
+
+**** *book_ *id_I20 *act_I *date_1698
+
+-*who_monsieurvalentin
+Ouais, tout ceci est trop bien concerté pour être naturel, c'est un tour qu'on me joue, assurément.
+
+-*who_madamevalentin
+Hom !
+Que c'est bien employé.
+
+-*who_monsieurvalentin
+Vous tairez-vous ?
+
+-*who_lechevalier
+Allons, mon cher Monsieur, sans façon, donnez la main, que je vous serve d'Écuyer, venez.
+
+-*who_monsieurvalentin
+Monsieur, ceci n'est qu'une plaisanterie que vous voulez me faire, je le vois bien ; mais tout en riant vous allez me déshonorer, et le ridicule m'en demeurera.
+
+-*who_lechevalier
+Comment, une plaisanterie ?
+Oui riez, et bien fort, je vous le conseille ; nous perdons ici le temps.
+Holà, hé Fuzillard ?
+
+**** *book_ *id_I21 *act_I *date_1698
+
+-*who_monsieurmouflard
+Je ne fais point de résistance, Monsieur ; mais que je sache du moins pourquoi l'on m'arrête ?
+
+-*who_clitandre
+On vous le dira, marchez, Monsieur, marchez.
+
+**** *book_ *id_I22 *act_I *date_1698
+
+-*who_frontin
+Ah, Monsieur !
+Il y a une heure que je vous cherche, où diable êtes-vous donc ?
+Voilà le pauvre Monsieur Valentin que l'on prend pour un espion.
+
+-*who_monsieurvalentin
+Oui, Monsieur, vous savez ce qui en est, tenez, ils me veulent faire grimper là-dessus.
+
+-*who_monsieurmouflard
+Et moi, Monsieur le Chevalier, on me mène en prison sans que je sache pourquoi.
+
+-*who_lechevalier
+On vous arrête aussi, Monsieur Mouflard ?
+Ah cadédis, la cruelle affaire !
+
+-*who_guillaume
+Ils le mettront morgué en croupe darrière vous, ne vous chagreignez point.
+
+-*who_clitandre
+Écoute, Chevalier, voilà ton ami, voilà le mien, j'ai les mêmes ordres que toi, l'un me répondra de l'autre.
+
+-*who_frontin
+Si vous montez celui-ci, nous monterons celui-là par représailles.
+
+-*who_guillaume
+Hé, jarnigué, laissez-les à pied tous deux, pis qu'ils s'y trouvont bian, ils aimeront peut-être mieux porter la tarre à cette fortification que n'an va faire.
+
+-*who_monsieurmouflard
+Porter la terre !
+Hé, Monsieur le Chevalier, ayez pitié de moi.
+
+-*who_monsieurvalentin
+Me laisserez-vous recevoir cet affront-là, Monsieur Clitandre ?
+
+-*who_clitandre
+Un peu d'humanité, mon pauvre Chevalier.
+
+-*who_lechevalier
+Mais un peu de réflexion, toi.
+Cela ne peut manquer d'être su, l'ordre est exprès ; si nous y manquons, demain nous voilà cassés, je t'en avertis : hé donc, qui nous dédommagera de cet inconvénient ?
+
+-*who_monsieurmouflard
+Ah !
+S'il ne tenait qu'à de l'argent, j'ai quatre-vingt-dix louis dans ma bourse.
+
+-*who_monsieurvalentin
+Et j'en ai cent trente, moi, Monsieur.
+
+-*who_clitandre
+Vous vous moquez de nous, je pense, avec votre argent.
+
+-*who_lechevalier
+Ce n'est point l'intérêt qui nous gouverne, à moins qu'on ne nous fasse un établissement solide…
+
+-*who_monsieurmouflard
+Un établissement solide !
+
+-*who_monsieurvalentin
+Tout mon bien n'y suffirait pas.
+
+-*who_lechevalier
+Oh que si fait, voilà votre fille ; que mon ami l'épouse.
+
+-*who_monsieurvalentin
+Qu'il épouse ma fille !
+
+-*who_lechevalier
+Vous hésitez ?
+Hé donc, rien n'est trop avancé, voyez.
+
+-*who_monsieurvalentin
+Madame Valentin ?
+
+-*who_madamevalentin
+Que ma fille épouse un homme de guerre ?
+J'aime mieux que vous soyez pendu, Monsieur Valentin.
+
+-*who_guillaume
+La bonne femme que vela !
+
+-*who_angelique
+Et moi, ma mère, je suis d'un bien meilleur naturel ; pour tirer mon père d'un mauvais pas ; il n'y a rien que je ne sois capable de faire.
+
+-*who_monsieurvalentin
+Ma chère enfant !
+
+-*who_lechevalier
+La pauvre petite personne !
+Elle en épouserait vingt, en cas de besoin, pour faire plaisir à son père.
+
+-*who_madamevalentin
+Je me moque de cela, moi, et je ne consentirai point…
+
+-*who_lechevalier
+Oh si vous faites la rétive, je vous mets à dada, vous, maman Valentin.
+
+-*who_madamevalentin
+Hom !
+
+-*who_clitandre
+Y consentirez-vous sans répugnance ?
+Et puis-je me flatter…
+
+-*who_lechevalier
+Répugnance ou non, te voilà pourvu ; mais moi je reste, et Monsieur Mouflard n'a point de fille.
+
+-*who_guillaume
+Hé bian, palsanguienne, épousez sa femme ; il y a une Madame ici qui ne l'est pas encore ; mais que n'an dit qui allait bientôt l'être, faut-il tant de façons ?
+Qu'alle devienne la vôtre.
+
+-*who_lechevalier
+Madame Robin ?
+L'avis n'est pas mauvais, je m'en accommode.
+
+-*who_monsieurmouflard
+Mais il ne dépend pas de moi, Monsieur…
+
+-*who_lechevalier
+Il ne dépend pas de vous ?
+À cheval, Monsieur Mouflard, à cheval ; allons, enfants, le boute-selle.
+
+-*who_monsieurmouflard
+Hé, voilà Madame Robin, Monsieur, qu'elle y consente ; je voudrai tout ce qu'elle voudra, moi, je vous le promets.
+
+**** *book_ *id_I23 *act_I *date_1698
+
+-*who_lechevalier
+Hé bien, voilà parler raison.
+Approchez, aimable personne.
+Que la voilà gracieusement déguisée !
+
+-*who_madamepinuin
+C'est pour faire honneur à un certain petit Bal dont on nous a parlé.
+
+-*who_guillaume
+Oh tâtiguenne, il est bien question de Bal, couseine, vela Monsieur Mouflard que n'an va mettre sur le cheval de bois, à moins que Madame n'épouse Monsieur le Chevalier.
+
+-*who_madamerobin
+On ferait un tel affront à Monsieur Mouflard, lui que j'aime plus que ma vie ?
+
+-*who_monsieurmouflard
+Hé bien, Monsieur, je ne lui fais pas dire, comme vous voyez.
+
+-*who_lechevalier
+Sa destinée dépend de vous.
+Allons, tôt, décidez, charmante.
+
+-*who_monsieurmouflard
+Je ne balance point ; et pour faire plaisir à Monsieur Mouflard, je me détermine à tout ce que vous voudrez.
+Voilà ma main, Monsieur le Chevalier.
+
+-*who_lechevalier
+Comment, Madame ?
+
+-*who_lechevalier
+Le boute-selle, Monsieur Mouflard.
+
+-*who_monsieurmouflard
+Mais nous sommes liés, Madame et moi, par des engagements.
+
+-*who_lechevalier
+Oh, cadédis, fussiez-vous liés du nœud gordien, je le coupe, c'est mon affaire ; et nous ne nous quitterons pas que toutes nos conventions ne soient bien signées de part et d'autre, je les garde à vue.
+
+-*who_monsieurmouflard
+Pour moi, je veux m'en retourner à Paris, je me déplais trop ici.
+
+-*who_guillaume
+Oh palsangué, vous y resterais, vous êtes un incivil, Monsieur Mouflard, ces Messieurs vous auriont fait l'honneur de vous voir à cheval, il faut bian que vous leur fassiez sti de les voir marier.
+
+-*who_lechevalier
+C'est excellemment bien parler.
+Que les plaisirs succèdent à la crainte ; nous avons ici des hautbois, bonne compagnie.
+Allons, Frontin, ce petit bal d'armée, que nous avons tantôt projeté ; et nous irons ensuite souper tous ensemble chez le cousin Guillaume, où il aura soin de faire trouver un Notaire.
+
+-*who_guillaume
+Oh parguenne oui, je vous en réponds.
+Si tous les Curieux qui n'avont que faire au Camp y sont régalés comme ceux-ci, les Officiers ne seront morgué pas ruinés de ces visites-là, sur ma parole.
+
+**** *book_ *id_I24 *act_I *date_1698
+
+-*who_monsieurtouvenel
+Le bruit éclatant des trompettes,
+Et le son bruyant des tambours,
+Dans ces aimables retraites,
+Ne menacent point nos jours.
+Venez, Bourgeois, venez Grisettes,
+Venez Guerriers, venez Coquettes,
+Tout invite aux plaisirs, aux festins, aux amours.
+
+-*who_madamerobin
+Que j'aime un Camp près de Paris,
+Là le plaisir vous accompagne,
+Et l'on y trouve des maris
+Choisis, polis,
+De tous pays.
+Pour moi je prétends, si je vis,
+Tous les mois faire une campagne.
+
+-*who_lechevalier
+Heureuse Madame Robin,
+Il n'était fait que pour Bellone
+Ce cœur si fier que je vous donne ;
+Rendez grâce à votre destin.
+De cette gaillarde aventure,
+Que direz-vous, race future ?
+L'Amour a mis dans le milieu d'un Camp,
+Le cœur d'un Gascon à l'encan.
+Beautés, qui dans le champ de Mars,
+Cherchez à faire des conquêtes,
+Au milieu de ses fêtes
+Vous courez bien des hasards.
+Prenez le parti du mystère ;
+Et si vous voulez toujours plaire,
+Ce n'est point au son du tambour,
+Que vous devez faire l'amour.
+
+-*who_monsieurtouvenel
+Que de Bourgeois viennent à l'aventure,
+Voir dans le Camp la guerre en mignature,
+Qui
+Si ce n'était en peinture,
+Se tiendraient bien loin d'ici.
+Qui
+Si ce n'était en peinture,
+Se tiendraient bien loin d'ici.
+
+-*who_guillaume
+Je fons ici, d'une façon courtoise,
+De très grand cœur accueil à la Bourgeoise ;
+Mais
+D'une manière grivoise,
+Je régalons le Bourgeois.
+Mais
+D'une manière grivoise,
+Je régalons le Bourgeois.
+
+-*who_mademoisellegesmarres
+Monsieur Mouftard, vraiment c'est grand dommage,
+Qu'un peu trop tard la guerre vous engage ;
+Car
+Si vous aviez du courage,
+On vous prendrait pour César.
+
+-*who_lechevalier
+On a parlé de Camp et de Revues,
+Bourgeoises sont aussitôt accourues.
+Pour
+Travailler à des recrues,
+Qui pourront servir un jour.
+
+-*who_frontin
+D'exploits guerriers on voit ici l'image ;
+Et si d'assaut on prenait quelque ouvrage,
+Les
+Bourgeoises du Voisinage,
+Verraient l'action de près.
+
+-*who_madamerobin
+Monsieur Valentin vous avez la figure,
+D'aller bien loin pour peu que le Camp dure,
+Point,
+Notre bête est d'une allure,
+Qui n'avance pas chemin.
+
+-*who_guillaume
+Vous aviais là une noble monture,
+Un grand dada de fort belle encolure ;
+Ouais
+La selle eût été bien dure,
+Pour des darrières bourgeois.

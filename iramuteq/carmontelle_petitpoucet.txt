@@ -1,0 +1,987 @@
+
+
+**** *book_ *id_I01 *act_I *date_(inc
+
+-*who_guillaume
+Hé bien, Perrette, es-tu tout-à-fait déterminée à perdre encore une fois nos enfants ?
+
+-*who_perrette
+Il le faut bien, Guillaume !
+
+-*who_lepetitpoucet
+Mon frère , mes soeurs, ne craignez rien ; faites toujours semblant de travailler.
+
+-*who_guillaume
+Quoi , abandonner comme cela le petit Poucet, et Javotte !
+
+-*who_perrette
+Pierrot et Janette !
+
+-*who_guillaume
+C'est un grand malheur que la misère !
+
+-*who_perrette
+Veux-tu les voir mourir de faim ?
+Auras-tu ce coeur-là ?
+
+-*who_guillaume
+Quatre enfans à nourrir et pas un denier !
+Pas un morceau de pain !
+
+-*who_perrette
+Profitons du moment où ils ramassent des branches, pour nous en aller.
+
+-*who_guillaume
+J'espère qu'ils reviendront encore une fois à la maison.
+
+-*who_perrette
+Pour moi, je le crains et je le désire.
+
+-*who_guillaume
+Le Petit Poucet a bien de l'esprit.
+
+-*who_perrette
+Pierrot est déjà fort.
+
+-*who_guillaume
+Javotte sera bien jolie.
+
+-*who_perrette
+Et Janette ?
+Quel dommage !
+
+-*who_guillaume
+Oui , mais d'ici au temps où ils seront grands, il y a bien loin ; que je les plains !
+
+-*who_perrette
+Allons, puisqu'il le faut.
+
+-*who_guillaume
+Aussi bien le jour tombe.
+
+-*who_perrette
+Ce que nous faisons là est affreux î
+
+-*who_guillaume
+Pour moi, j'en mourrai de douleur !
+
+**** *book_ *id_I02 *act_I *date_(inc
+
+-*who_pierrot
+Hé bien, mon frère, les voilà en allés.
+
+-*who_javotte
+Comment ferons-nous?
+
+-*who_janette
+Serons-nous perdus?
+
+-*who_lepetitpoucet
+Non, non, laissez-moi faire.
+N'ayant point de petits cailloux blancs à semer cette fois-ci, pour reconnaître notre chemin ; j'ai semé de la mie de pain.
+
+-*who_janette
+De la mie de pain ?
+
+-*who_lepetitpoucet
+Oui.
+
+-*who_pierrot
+Ah, c'est bon !
+
+-*who_javotte
+Où est-elle ?
+
+-*who_lepetitpoucet
+Il faut regarder à terre.
+
+-*who_pierrot
+Cherchons, cherchons.
+
+-*who_javotte
+Mon frère , je n'en vois point.
+
+-*who_janette
+Ni moi non plus.
+
+-*who_pierrot
+Je m'en vais voir par ici.
+
+-*who_lepetitpoucet
+Et moi par là.
+Attendez-moi.
+
+-*who_javotte
+Ma soeur, en voyez-vous ?
+
+-*who_pierrot
+Non , ma soeur.
+
+-*who_janette
+Comment serons-nous donc ?
+
+-*who_javotte
+Le petit Poucet nous le dira.
+
+-*who_janette
+Le voilà qui vient.
+
+-*who_pierrot
+Hé bien , mon frère ?
+
+-*who_lepetitpoucet
+Je ne trouve rien.
+Les oiseaux ont apparemment mangé ma mie de pain.
+Que je suis fâché de n'avoir pas eu mes petits cailloux blancs !
+
+-*who_pierrot
+Et voilà la nuit qui vient encore.
+
+-*who_javotte
+Si nous allions être mangés des loups ?
+
+-*who_janette
+Des loups ?
+Ah , mon Dieu, que j'ai de peur !
+
+-*who_pierrot
+Oh, je les tuerai, moi , plutôt que de laisser manger mes petites soeurs.
+
+-*who_lepetitpoucet
+Oui, vous les tuerez.
+Attendez, attendez, je m'en vais monter sur un arbre.
+
+-*who_janette
+Pourquoi faire ?
+
+-*who_javotte
+Est-ce pour passer la nuit ?
+
+-*who_pierrot
+J'y monterai bien aussi moi.
+
+-*who_janette
+Et nous, nous serons donc mangés ?
+
+-*who_lepetitpoucet
+Non , non, écoutez-moi.
+Nous sommes trop heureux !
+Je vois une petite petite lumière, qui est bien loin, bien loin , bien loin.
+
+-*who_pierrot
+Par où ?
+
+-*who_lepetitpoucet
+Par-là, tout droit ; devant moi.
+
+-*who_javotte
+Ah, c'est bien bon cela !
+
+-*who_pierrot
+C'est sûrement une maison , il faut y aller.
+
+-*who_lepetitpoucet
+Je vais vous y mener.
+
+-*who_pierrot
+Allons, allons, marchons.
+
+-*who_janette
+Et moi, mon frère ?
+
+-*who_pierrot
+Si vous ne pouvez pas marcher, nous vous porterons.
+
+-*who_javotte
+Par où faut-il aller, mon frère le Petit Poucet ?
+
+-*who_lepetitpoucet
+Je vais chercher pour voir où est la lumière.
+
+-*who_pierrot
+Hé bien ?
+
+-*who_lepetitpoucet
+Je ne la trouve pas.
+
+-*who_javotte
+Vous ne la trouvez pas ?
+
+-*who_lepetitpoucet
+Non ; mais je vais remonter sur l'arbre.
+
+-*who_javotte
+Si la lumière était éteinte.
+
+-*who_lepetitpoucet
+Non, non ; je la vois, et j'irai tout droit.
+
+-*who_pierrot
+Ah, c'est bon ; c'est bon.
+
+-*who_lepetitpoucet
+Écoutez : Tenons-nous tous et suivez-moi.
+Moi, oh ; c'est bien près, c'est ici ne faites pas de bruit.
+
+-*who_pierrot_javotte_janette
+Non , non.
+
+-*who_lepetitpoucet
+Me voilà contre une maison et je vois la lumière à travers une petite fente.
+Ah, je Vois une bonne Femme qui file.
+
+**** *book_ *id_I03 *act_I *date_(inc
+
+-*who_lamerebonnette
+Qu'est-ce qui est là ?
+
+-*who_lepetitpoucet
+C'est nous ; ouvrez, ouvrez-nous ; nous sommes perdus.
+
+-*who_lamerebonnette
+Hé mon Dieu, les beaux petits enfants que voilà !
+Et mes amis , qu'est-ce que vous venez faire ici ?
+
+-*who_lepetitpoucet
+Nous vous prions de nous donner à souper et à coucher.
+
+-*who_pierrot
+Et de nous mettre dans notre chemin, demain matin.
+
+-*who_lamerebonnette
+Hé, mes enfants, vous ne savez pas où vous êtes !
+
+-*who_lepetitpoucet
+Hé, vraiment non ; puisque nous sommes perdus.
+
+-*who_lamerebonnette
+Perdus ?
+Hé, mon Dieu, oui, vous êtes perdus !
+Je tremble pour vous !
+Ah, s'il revenait !
+Savez-vous que vous êtes chez un Ogre ?
+
+-*who_pierrot
+Un Ogre ; qu'est-ce que c'est que cela ?
+
+-*who_javotte
+Un Ogre !
+
+-*who_janette
+Un Ogre, ma soeur !
+
+-*who_lamerebonnette
+Oui, Ogre.
+
+-*who_lepetitpoucet
+Et qu'est-ce qu'un Ogre, ma bonne Dame ?
+
+-*who_lamerebonnette
+C'est.... c'est.... je tremble à vous le dire, c'est un homme qui mange les petits enfants.
+
+-*who_lepetitpoucet
+Qui mange les petits enfants !
+
+-*who_pierrot
+Où sommes-nous tombés !
+
+-*who_janette
+Ah, ma soeur !
+
+-*who_javotte
+Ah, mes frères !
+
+-*who_lamerebonnette
+Hé , mon Dieu, que ce serait grand dommage !
+Qu'ils me font de peine !
+
+-*who_pierrot
+Vous nous effrayez !
+
+-*who_lepetitpoucet
+Et en mangez-vous aussi , vous, des petits enfants ?
+
+-*who_lamerebonnette
+Moi ?
+Moi, en manger !
+Vous ne savez-pas, mes amis, que c'est pour n'être pas mangée, que j'ai consenti à vivre ici avec lui, pour lui servir de servante.
+
+-*who_pierrot
+Comment, il a voulu vous manger ?
+
+-*who_lamerebonnette
+Oui, vraiment.
+
+-*who_lepetitpoucet
+Il fallait vous enfuir.
+
+-*who_lamerebonnette
+Oui, m'enfuir ; il a des bottes de sept lieues, avec quoi il m'aurait bientôt rattrapée.
+
+-*who_javotte
+Comment ferons-nous donc ?
+
+-*who_lamerebonnette
+Il y a plus de cinquante ans que je vis comme cela ici ; j'étais aussi grande que le plus grand de vous tous ; oui , plus grande encore ; non, pas tout-à-fait ; tout de même.
+Hé bien, le voilà qui me dit comme cela qu'il m'allait manger, si je ne voulais pas rester avec lui, pour le servir.
+
+-*who_janette
+Vous n'avez donç pas été mangée ?
+
+-*who_lamerebonnette
+Non, vraiment, et je suis toujours restée ici comme cela.
+
+-*who_lepetitpoucet
+Mais s'il voulait, nous le servirions aussi.
+
+-*who_pierrot
+Oui, nous irions chercher du bois à la forêt.
+
+-*who_janette
+Moi, je soufflerais son feu.
+
+-*who_javotte
+Moi, je mettrais la nappe.
+
+-*who_janette
+Et nous serions tous quatre bien sages, bien sages.
+
+-*who_javotte
+Pour cela oui.
+
+-*who_lamerebonnette
+Oh, il aimera mieux vous manger.
+Que je vous plains !
+
+-*who_javotte_janette
+Nous manger !
+
+-*who_pierrot
+Mon frère, il faut le tuer à nous deux.
+
+-*who_lepetitpoucet
+Non, il vaut mieux nous cacher, et quand demain il sera sorti, cette bonne femme nous montrera notre chemin, et si nous voulons rentrer chez nous, il ne faudra plus en sortir du tout, du tout.
+
+-*who_pierrot
+Vous avez raison, mon frère.
+
+-*who_lamerebonnette
+Hé bien, je m'en vais vous cacher ; mais il ne faudra pas remuer.
+
+-*who_lepetitpoucet
+Oh, pour cela non.
+
+-*who_lamerebonnette
+Ni parler.
+
+-*who_lepetitpoucet_pierrot_javotte_janette
+Non, non.
+
+-*who_lepetitpoucet
+Entrons dans la maison.
+
+-*who_lamerebonnette
+Dans la maison ?
+L'Ogre vous trouverait tout de fuite.
+
+-*who_pierrot
+Où nous mettrons-nous donc ?
+
+-*who_lamerebonnette
+Tenez, derrière ce buisson.
+Ah, je crois que je l'entends.
+Cachez-vous bien , et ne faites pas de bruit.
+
+**** *book_ *id_I04 *act_I *date_(inc
+
+-*who_logre
+Hé bien, la mère Bonnette, le souper est-il prêt ?
+
+-*who_lamerebonnette
+Oui, mon Maître ; le Mouton vient d'être mis à la broche , et je vous attendais pour le retirer.
+
+-*who_logre
+N'est-il venu personne ?
+
+-*who_lamerebonnette
+Mon Dieu, non.
+
+-*who_logre
+As-tu tiré du vin ?
+
+-*who_lamerebonnette
+Oui, mon Maître.
+
+-*who_logre
+Tu dis qu'il n'est venu personne ?
+
+-*who_lamerebonnette
+Qui voulez-vous qui soit venu ?
+
+-*who_logre
+Je sens pourtant la chair fraîche.
+
+-*who_lamerebonnette
+Bon !
+C'est ce veau que j'ai habillé pour votre dîner de demain.
+
+-*who_logre
+Je sens la chair fraîche, te dis-je.
+
+-*who_lamerebonnette
+Je ne sais pas d'où cela vient.
+
+-*who_logre
+Donnez-moi la lampe.
+Ah, maudite chienne !
+Voilà donc comme tu me trompais !
+Je ne sais qui me tient que je ne te mange.
+Tu es bienheureuse d'être trop vieille, et de ce que je n'ai plus que quarante-neuf dents.
+
+-*who_lamerebonnette
+Mais, mon Maître, je n'ai pas le nez si bon que vous, je ne savais pas que ces enfants étaient là, si près de notre maison.
+
+-*who_logre
+Tu ne le savais pas, chienne ?
+Je t'apprendrai à mentir.
+Voilà du gibier qui vient bien à propos pour régaler trois Ogres de mes amis, qui viennent demain dîner avec moi.
+
+-*who_lamerebonnette
+Les malheureux enfants !
+Comment les sauver ?
+
+-*who_logre
+Qu'est-ce que tu marmottes là ?
+
+-*who_lamerebonnette
+Moi ?
+Je ne dis rien, je ne dis rien,
+
+-*who_logre
+Tiens cette lampe.
+
+-*who_lepetitpoucet_pierrot_javotte_janette
+Pardon , pardon.
+
+-*who_lepetitpoucet
+Monsieur l'Ogre, ne nous mangez pas, je vous en prie.
+
+-*who_logre
+Voilà de friands morceaux.
+La mère Bonnette , donne-moi mon couteau et ma pierre pour le réguiser.
+Ah, je les ai sur moi.
+
+-*who_lamerebonnette
+Hé, mon Maître, que voulez-vous faire ?
+Vous avez tant de viande de tuée !
+
+-*who_logre
+Celle-ci sera plus mortifiée.
+
+-*who_javotte
+Ah, pardon, pardon !
+
+-*who_lamerebonnette
+Vous avez un veau, deux moutons, trois cochons, tout cela se gâtera.
+
+-*who_logre
+Tu as raison.
+Hé bien, donne-leur donc à manger pendant que je vas souper ; afin qu'ils ne maigrissent pas.
+
+-*who_lamerebonnette
+Oui, oui, j'en aurai bien soin.
+
+-*who_logre
+J'aurais pourtant envie...
+Ah, demain, il fera assez temps.
+
+-*who_lamerebonnette
+Je vais leur chercher à manger.
+Tenez-vous-là, mes pauvres petits, et n'ayez pas de peur.
+Quand l'Ogre fera endormi, nous verrons ce que nous ferons.
+
+**** *book_ *id_I05 *act_I *date_(inc
+
+-*who_javotte
+Ah, mon Dieu, que j'ai eu de peur !
+
+-*who_janette
+Et moi, ma soeur ; je croyais toujours qu'il allait nous manger.
+
+-*who_pierrot
+Mais comment ferons-nous ?
+
+-*who_javotte
+Oui, demain matin ?
+
+-*who_lepetitpoucet
+Paix, Javotte, ne pleure pas.
+J'entends quelqu'un.
+
+-*who_janette
+S'il revenait.
+
+-*who_lepetitpoucet
+Non ; c'est la mère Bonnette.
+
+**** *book_ *id_I06 *act_I *date_(inc
+
+-*who_lamerebonnette
+Venez, mes enfants, je vous apporte de quoi manger.
+
+-*who_janette
+Ah, maman, nous n'avons pas faim.
+
+-*who_lepetitpoucet
+Que fait l'Ogre, la mère Bonnette ?
+
+-*who_lamerebonnette
+Il boit et mange comme un affamé ; j'espère qu'après il s'endormira tout de suite.
+Je m'en vais, car il me gronderait, si je restais plus longtemps.
+Je reviendrai bientôt.
+
+**** *book_ *id_I07 *act_I *date_(inc
+
+-*who_lepetitpoucet
+Allons, Javotte, Janette, mangez ; mangez.
+
+-*who_javotte
+Ah, mon frère, je ne pourrai jamais.
+
+-*who_janette
+Pour moi, le coeur me bat trop fort.
+
+-*who_lepetitpoucet
+Il faut bien prendre des forces, si nous sommes obligés de nous enfuir.
+
+-*who_janette
+Oui, et les loups ?
+
+-*who_pierrot
+Nous n'en trouverons peut-être pas.
+Allons, allons.
+
+-*who_javotte
+Oui, mais si l'Ogre nous poursuit avec ses bottes de sept lieues ?
+
+-*who_lepetitpoucet
+Hé bien, nous nous cacherons.
+
+-*who_javotte
+Oui, mais il nous sentira, mon frère.
+
+-*who_lepetitpoucet
+C'est vrai , si nous pouvions seulement sortir de la Forêt, ou bien trouver des bûcherons, ils nous défendraient.
+
+-*who_pierrot
+Le jour va bientôt venir.
+
+-*who_lepetitpoucet
+Oui, mettons tout cela dans nos poches et allons-nous en sans faire de bruit.
+
+-*who_pierrot
+C'est bien dit.
+
+-*who_javotte
+Hé bien, mon frère, aidez-moi.
+
+-*who_janette
+Et moi aussi.
+
+-*who_lepetitpoucet
+Prenez-en le plus que vous pourrez et venez.
+
+-*who_javotte
+C'est fait.
+
+-*who_lepetitpoucet
+Pierrot, marche devant, par là ; je verrai derrière si l'Ogre ne vient pas après nous.
+
+**** *book_ *id_I08 *act_I *date_(inc
+
+-*who_lamerebonnette
+Hé, mon Maître, où allez-vous donc, au lieu de vous coucher ?
+
+-*who_logre
+Mère Bonnette, apporte la lampe, je me ravise ; il vaut mieux tuer ces enfants à présent, les Ogres rnes amis aimeront mieux les manger que de manger du mouton, du veau, ou du cochon.
+
+-*who_lamerebonnette
+Mais mon Maître.. ..
+
+-*who_logre
+Encore ?
+Je n'aime pas qu'on me contredise, tu le sais bien.
+Allons, obéis ; apporte la lampe.
+
+-*who_lamerebonnette
+Ah, les malheureux enfants !
+
+-*who_logre
+Tu réponds , je crois ?
+
+-*who_lamerebonnette
+Je dis que vous l'aurez dans l'instant.
+
+-*who_logre
+Qu'est-ce que ceci veut dire ?
+Je ne les sens plus.
+Veux-tu venir ?
+
+-*who_lamerebonnette
+C'est que la lampe est éteinte.
+
+-*who_logre
+Comment, chienne !
+
+-*who_lamerebonnette
+Je fuis tombée, pour m'être trop pressée.
+
+-*who_logre
+Je t'irai chercher,
+
+-*who_lamerebonnette
+Notre feu est éteint, il faut que je batte le briquet.
+
+-*who_logre
+Comment vieille sorcière !
+Je vais aller à toi ; attends, attends-moi.
+
+-*who_lamerebonnette
+Ah, j'ai trouvé du feu.
+
+-*who_logre
+Si je vas te chercher, tu t'en repentiras.
+
+-*who_lamerebonnette
+J'y suis tout-à-l'heure.
+
+-*who_logre
+Voyons, éclaire-moi.
+Éclaire donc bien.
+Ils n'y sont plus ; c'est toi, abominable bête, qui en es cause.
+
+-*who_lamerebonnette
+Moi?
+
+-*who_logre
+Oui, toi.
+Je ne sais qui me tient que je ne t'étrangle, oui...
+
+-*who_lamerebonnette
+Ah, mon cher Maître, miséricorde !
+
+-*who_logre
+Lève-toi, et donne-moi mes bottes de sept lieues, tout-à-l'heure.
+
+-*who_lamerebonnette
+J'y vais.
+Comment faire ?
+
+-*who_logre
+Oui, sûrement, c'est elle.
+Viendras-tu ?
+
+-*who_lamerebonnette
+Je les tiens.
+
+-*who_logre
+Allons donc.
+Si je ne les trouve pas.
+Tu seras mangée à mon retour.
+
+**** *book_ *id_I09 *act_I *date_(inc
+
+-*who_lamerebonnette
+Ah, mon Dieu, que je suis malheureuse !
+Si je pouvais m'enfuir avec ces enfants ; mais s'il me rencontrait, il les ferait mourir encore plutôt, sûrement.
+Rentrons, rentrons.
+
+**** *book_ *id_I10 *act_I *date_(inc
+
+-*who_pierrot
+Par ici, par ici.
+
+-*who_javotte
+Ah, mon Dieu, mon frère, que je suis lasse !
+
+-*who_janette
+Et moi aussi.
+
+-*who_lepetitpoucet
+Paix donc , paix donc.
+
+-*who_pierrot
+Voilà le jour qui vient.
+
+-*who_lepetitpoucet
+Tant-mieux.
+Je crois voir une caverne, il faut y entrer et nous y cacher en attendant qu'il soit jour tout-à-fait.
+
+-*who_pierrot
+Allons, je le veux bien.
+
+-*who_lepetitpoucet
+Entrez, mes soeurs, toi, Pierrot, après, et moi je me tiendrai à la porte pour voir s'il ne viendra rien ; avec ces pierres à fusil je ferai peur aux loups.
+J'entends quelque chose.
+Ne remuez pas.
+
+**** *book_ *id_I11 *act_I *date_(inc
+
+-*who_logre
+Où sont-ils, où sont-ils ?
+J'étranglerai cette chienne de vieille.
+J'ai fait plus de quatorze cent lieues, je n'en puis plus !
+Je meurs d'envie de dormir.
+Couchons-nous là, je trouverai toujours bien ces enfants.
+
+-*who_lepetitpoucet
+Je le crois bien endormi.
+
+-*who_pierrot
+Oui, il ronfle bien fort.
+
+-*who_lepetitpoucet
+Pierrot, viens ; ôtons-lui ses bottes de sept lieues ; s'il ne s'éveille pas, nous les cacherons dans la caverne, et il ne pourra plus nous poursuivre.
+
+-*who_pierrot
+Je le veux bien.
+
+-*who_lepetitpoucet
+Mes soeurs, restez là.
+
+-*who_pierrot
+Va bien doucement.
+
+-*who_lepetitpoucet
+Oui, oui.
+
+-*who_pierrot
+En voilà une.
+
+-*who_lepetitpoucet
+Et voilà l'autre.
+
+-*who_pierrot
+Cachons-les dans la caverne, nous nous en irons après, s'il dort toujours.
+
+-*who_logre
+Je ne saurais dormir.
+Allons, allons, il faut que je les cherche encore.
+
+-*who_lepetitpoucet
+Le voilà parti.
+Il faut rester ici et mettre des branches devant la caverne, pour qu'il ne la voye pas, s'il revient.
+
+**** *book_ *id_I12 *act_I *date_(inc
+
+-*who_perrette
+Pour cela, Guillaume , nous avons eu grand tort de ne pas confier notre malheur au Seigneur.
+
+-*who_guillaume
+Oui, puisqu'il nous a envoyé de l'argent, dès qu'il l'a su.
+
+-*who_perrette
+Comment n'avions-nous pas pensé qu'il nous soulagerait ?
+
+-*who_guillaume
+Il est vrai que nous devions bien nous en douter, connaissant son bon coeur.
+
+-*who_perrette
+Va , nous ne serons plus à plaindre, si nous retrouvons nos enfants.
+C'est ici, je crois, que nous les avions laissés ?
+
+-*who_guillaume
+Oui ; mais j'ai bien peur qu'il ne leur soit arrivé quelque accident.
+
+-*who_perrette
+Pour moi, je jure de ne rien manger qu'avec eux, quand je les aurai retrouvés.
+
+-*who_guillaume
+Il m'a été impossible à moi, d'y penser à manger.
+
+-*who_perrette
+Hélas, ils meurent peut-être de faim actuellement !
+
+-*who_guillaume
+Si les loups les avoient dévorés !
+
+-*who_perrette
+Comment as-tu pu consentir que nous les abandonnassions comme cela, dans le plus épais de la forêt ?
+
+-*who_guillaume
+N'est-ce pas toi qui l'as voulu ?
+
+-*who_perrette
+Mais, n'étais-tu pas le maître ?
+Il faut être bien inhumain, pour songer à exposer ainsi ses enfants !
+
+-*who_guillaume
+Dis donc toujours la même chose.
+Au lieu de les pleurer, continuons à les chercher.
+
+-*who_perrette
+Hélas, où sont mes pauvres enfants !
+Mes pauvres enfants, où êtes-vous ?
+
+-*who_lepetitpoucet_pierrot_javotte_janette
+Nous voilà, nous voilà.
+
+-*who_perrette
+Hé, mon Dieu, mes chers enfants, que je suis aise de vous voir !
+
+-*who_guillaume
+N'êtes-vous pas bien las, n'avez-vous pas bien faim ?
+
+-*who_perrette
+Comme te voilà fait, Pierrot !
+Et toi, Janette !
+
+-*who_guillaume
+Petit Poucet, Javotte, n'avez-vous pas eu bien peur ?
+
+-*who_petitpoucet_javotte
+Oh, pour cela oui, mon Papa.
+
+-*who_pierrot
+Nous avons trouvé un Ogre, qui voulait nous manger.
+
+-*who_perrette
+Je vous le disais bien : les pauvres enfants.
+
+-*who_guillaume
+Allons, allons, venez-vous en chez nous.
+
+-*who_lepetitpoucet
+Vous ne nous perdrez plus ?
+
+-*who_guillaume
+Oh, pour cela non ; je vous en répondons.
+
+-*who_perrette
+Oui, j'ons eu trop d'inquiétudes et de regrets.
+
+**** *book_ *id_I13 *act_I *date_(inc
+
+-*who_larentree
+Ah, ah, vous voilà de bonne heure au bois, Guillaume.
+
+-*who_guillaume
+Oui, et vous ?
+Est-ce que vous chassez déjà à cause de la fête du Seigneur ; car on dit que vous avez bien du monde au Château aujourd'hui.
+
+-*who_labrisee
+Il est vrai.
+
+-*who_perrette
+Oui, mais cela ne l'a pas empêché de penser à nous, le Seigneur.
+
+-*who_larentree
+Oh, je croyons bien, il pense à tout lui.
+
+-*who_labrisee
+Oui, mais ce n'est pas cela ; c'est que j'ons enfin attrappé l'Ogre ; parce qu'il n'avait pas ses bottes de sept lieues.
+
+-*who_lepetitpoucet
+Quoi, il est pris ?
+
+-*who_labrisee
+Enchaîné et en prison, où il demeurera toujours.
+
+-*who_lepetitpoucet
+Mon frère, nous avons bien fait de lui voler ses bottes.
+
+-*who_larentree
+Quoi, c'est vous autres ?
+
+-*who_pierrot
+Oui, parce qu'il courait après nous, pour nous manger.
+
+-*who_labrisee
+Ah , le coquin !
+Et savez-vous où il demeurait ?
+
+-*who_lepetitpoucet
+Oui, tenez, voilà sa maison.
+
+-*who_larentree
+Allons ; c'est bon.
+
+**** *book_ *id_I14 *act_I *date_(inc
+
+-*who_larentree
+C'est vous justement que nous cherchons.
+
+-*who_lamerebonnette
+Hé, Messieurs, pourquoi faire ?
+
+-*who_labrisee
+Pour aller en prison, pour avoir demeuré avec l'Ogre, qui est pris enfin.
+
+-*who_lamerebonnette
+L'Ogre est pris ?
+
+-*who_larentree
+Oui, oui, allons en prison.
+
+-*who_lamerebonnette
+Moi, en prison ?
+
+-*who_lepetitpoucet
+Ah, la Rentrée, il ne faut pas lui faire de mal...
+
+-*who_larentree
+Comment !
+Pourquoi cela ?
+
+-*who_pierrot
+C'est qu'elle a empêché l'Ogre de nous manger.
+
+-*who_javotte
+Ah ; c'est bien vrai, cela.
+
+-*who_janette
+Oui, c'est bien vrai, bien vrai.
+
+-*who_labrisee
+Oh, mais, qu'elle vienne toujours avec nous ; car en ce cas-là le Seigneur la récompensera.
+
+**** *book_ *id_I15 *act_I *date_(inc
+
+-*who_beauvais
+Hé, dites donc, Guillaume et Perrette !
+Vous vous faites bien chercher.
+
+-*who_guillaume
+Pourquoi faire ?
+
+-*who_bourguignon
+Le Seigneur a appris que vous aviez perdu vos enfants, il est bien en colère contre vous.
+
+-*who_perrette
+Et qu'est-ce qui lui a dit cela ?
+
+-*who_beauvais
+Ce sont des paysans qui vous ont rencontrés, à qui vous avez demandé s'ils ne les avaient pas trouvés dans la forêt.
+
+-*who_guillaume
+Nous en avons bien été fâchés, Beauvais, vous pourrez bien lui dire.
+
+-*who_perrette
+Oui, Bourguignon ; je vous en prie, dites-lui que cela ne nous arrivera plus.
+
+-*who_bourguignon
+Oh, je le crois bien ; car il veut se charger de les faire élever, et puis après de leur faire apprendre un métier à chacun.
+
+-*who_guillaume_perrette
+Ah, le bon Seigneur !
+Ah , le bon Seigneur !
+
+-*who_larentree
+On a bien raison de l'aimer dans le village.
+
+-*who_beauvais
+Dans le Village ?
+Oh, dis aussi à la Ville, partout, partout où on le connaît.
+
+-*who_perrette
+Allons, Guillaume, allons le remercier et jouir du plaisir de lui devoir notre bonheur et celui de nos enfants.

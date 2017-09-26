@@ -1,0 +1,2047 @@
+
+
+**** *book_ *id_I01 *act_I *date_1666
+
+-*who_sganarelle
+Non, je te dis que je n'en veux rien faire : et que c'est à moi de parler et d'être le maître.
+
+-*who_martine
+Et je te dis, moi, que je veux que tu vives à ma fantaisie : et que je ne me suis point mariée avec toi pour souffrir tes fredaines.
+
+-*who_sganarelle
+Ô la grande fatigue que d'avoir une femme : et qu'Aristote a bien raison, quand il dit qu'une femme est pire qu'un Démon !
+
+-*who_martine
+Voyez un peu l'habile homme, avec son benêt d'Aristote !
+
+-*who_sganarelle
+Oui, habile homme : trouve-moi un faiseur de fagots qui sache, comme moi, raisonner des choses, qui ait servi six ans, un fameux médecin, et qui ait su, dans son jeune âge, son rudiment par coeur.
+
+-*who_martine
+Peste du fou fieffé !
+
+-*who_sganarelle
+Peste de la carogne !
+
+-*who_martine
+Que maudit soit l'heure et le jour, où je m'avisai d'aller dire oui.
+
+-*who_sganarelle
+Que maudit soit le bec cornu de notaire qui me fit signer ma ruine.
+
+-*who_martine
+C'est bien à toi, vraiment, à te plaindre de cette affaire : devrais-tu être un seul moment sans rendre grâce au Ciel de m'avoir pour ta femme, et méritais-tu d'épouser une personne comme moi ?
+
+-*who_sganarelle
+Il est vrai que tu me fis trop d'honneur : et que j'eus lieu de me louer la première nuit de nos noces !
+Hé !
+Morbleu, ne me fais point parler là-dessus : je dirais de certaines choses...
+
+-*who_martine
+Quoi ?
+Que dirais-tu ?
+
+-*who_sganarelle
+Baste, laissons là ce chapitre, il suffit que nous savons ce que nous savons : et que tu fus bien heureuse de me trouver.
+
+-*who_martine
+Qu'appelles-tu bien heureuse, de te trouver un homme qui me réduit à l'hôpital, un débauché, un traître, qui me mange tout ce que j'ai ?
+
+-*who_sganarelle
+Tu as menti, j'en bois une partie.
+
+-*who_martine
+Qui me vend, pièce à pièce, tout ce qui est dans le logis.
+
+-*who_sganarelle
+C'est vivre de ménage.
+
+-*who_martine
+Qui m'a ôté jusqu'au lit que j'avais.
+
+-*who_sganarelle
+Tu t'en lèveras plus matin.
+
+-*who_martine
+Enfin qui ne laisse aucun meuble dans toute la maison.
+
+-*who_sganarelle
+On en déménage plus aisément.
+
+-*who_martine
+Et qui du matin jusqu'au soir, ne fait que jouer, et que boire.
+
+-*who_sganarelle
+C'est pour ne me point ennuyer.
+
+-*who_martine
+Et que veux-tu pendant ce temps, que je fasse avec ma famille ?
+
+-*who_sganarelle
+Tout ce qu'il te plaira.
+
+-*who_martine
+J'ai quatre pauvres petits enfants sur les bras.
+
+-*who_sganarelle
+Mets-les à terre.
+
+-*who_martine
+Qui me demandent à toute heure, du pain.
+
+-*who_sganarelle
+Donne-leur le fouet.
+Quand j'ai bien bu, et bien mangé, je veux que tout le monde soit saoul dans ma maison.
+
+-*who_martine
+Et tu prétends ivrogne, que les choses aillent toujours de même ?
+
+-*who_sganarelle
+Ma femme, allons tout doucement, s'il vous plaît.
+
+-*who_martine
+Que j'endure éternellement tes insolences, et tes débauches ?
+
+-*who_sganarelle
+Ne nous emportons point ma femme.
+
+-*who_martine
+Et que je ne sache pas trouver le moyen de te ranger à ton devoir ?
+
+-*who_sganarelle
+Ma femme, vous savez que je n'ai pas l'âme endurante : et que j'ai le bras assez bon.
+
+-*who_martine
+Je me moque de tes menaces.
+
+-*who_sganarelle
+Ma petite femme, ma mie, votre peau vous démange, à votre ordinaire.
+
+-*who_martine
+Je te montrerai bien que je ne te crains nullement.
+
+-*who_sganarelle
+Ma chère moitié, vous avez envie de me dérober quelque chose.
+
+-*who_martine
+Crois-tu que je m'épouvante de tes paroles ?
+
+-*who_sganarelle
+Doux objet de mes voeux, je vous frotterai les oreilles.
+
+-*who_martine
+Ivrogne que tu es.
+
+-*who_sganarelle
+Je vous battrai.
+
+-*who_martine
+Sac à vin.
+
+-*who_sganarelle
+Je vous rosserai.
+
+-*who_martine
+Infâme.
+
+-*who_sganarelle
+Je vous étrillerai.
+
+-*who_martine
+Traître, insolent, trompeur, lâche, coquin, pendard, gueux, belître, fripon, maraud, voleur...
+
+-*who_sganarelle
+Ah !
+Vous en voulez, donc.
+
+-*who_martine
+Ah, ah, ah, ah !
+
+-*who_sganarelle
+Voilà le vrai moyen de vous apaiser.
+
+**** *book_ *id_I02 *act_I *date_1666
+
+-*who_monsieurrobert
+Holà, holà, holà, fi, qu'est-ce ci ?
+Quelle infamie peste, soit le coquin, de battre ainsi sa femme !
+
+-*who_martine
+Et je veux qu'il me batte, moi.
+
+-*who_monsieurrobert
+Ah !
+J'y consens de tout mon coeur.
+
+-*who_martine
+De quoi vous mêlez-vous ?
+
+-*who_monsieurrobert
+J'ai tort.
+
+-*who_martine
+Est-ce là votre affaire ?
+
+-*who_monsieurrobert
+Vous avez raison.
+
+-*who_martine
+Voyez un peu cet impertinent, qui veut empêcher les maris de battre leurs femmes.
+
+-*who_monsieurrobert
+Je me rétracte.
+
+-*who_martine
+Qu'avez-vous à voir là-dessus ?
+
+-*who_monsieurrobert
+Rien.
+
+-*who_martine
+Est-ce à vous, d'y mettre le nez ?
+
+-*who_monsieurrobert
+Non.
+
+-*who_martine
+Mêlez-vous de vos affaires.
+
+-*who_monsieurrobert
+Je ne dis plus mot.
+
+-*who_martine
+Il me plaît d'être battue.
+
+-*who_monsieurrobert
+D'accord.
+
+-*who_martine
+Ce n'est pas à vos dépens.
+
+-*who_monsieurrobert
+Il est vrai.
+
+-*who_martine
+Et vous êtes un sot de venir vous fourrer où vous n'avez que faire.
+
+-*who_monsieurrobert
+Compère, je vous demande pardon de tout mon coeur, faites, rossez, battez, comme il faut, votre femme ; je vous aiderai si vous le voulez.
+
+-*who_sganarelle
+Il ne me plaît pas, moi.
+
+-*who_monsieurrobert
+Ah !
+C'est une autre chose.
+
+-*who_sganarelle
+Je la veux battre, si je le veux : et ne la veux pas battre, si je ne le veux pas.
+
+-*who_monsieurrobert
+Fort bien.
+
+-*who_sganarelle
+C'est ma femme, et non pas la vôtre.
+
+-*who_monsieurrobert
+Sans doute.
+
+-*who_sganarelle
+Vous n'avez rien à me commander.
+
+-*who_monsieurrobert
+D'accord.
+
+-*who_sganarelle
+Je n'ai que faire de votre aide.
+
+-*who_monsieurrobert
+Très volontiers.
+
+-*who_sganarelle
+Et vous êtes un impertinent, de vous ingérer des affaires d'autrui : apprenez que Cicéron dit qu'entre l'arbre et le doigt il ne faut point mettre l'écorce.
+Ô çà, faisons la paix nous deux.
+Touche là.
+
+-*who_martine
+Oui !
+Après m'avoir ainsi battue !
+
+-*who_sganarelle
+Cela n'est rien, touche.
+
+-*who_martine
+Je ne veux pas.
+
+-*who_sganarelle
+Eh !
+
+-*who_martine
+Non.
+
+-*who_sganarelle
+Ma petite femme !
+
+-*who_martine
+Point.
+
+-*who_sganarelle
+Allons, te dis-je.
+
+-*who_martine
+Je n'en ferai rien.
+
+-*who_sganarelle
+Viens, viens, viens.
+
+-*who_martine
+Non : je veux être en colère.
+
+-*who_sganarelle
+Fi, c'est une bagatelle, allons, allons.
+
+-*who_martine
+Laisse-moi là.
+
+-*who_sganarelle
+Touche, te dis-je.
+
+-*who_martine
+Tu m'as trop maltraitée.
+
+-*who_sganarelle
+Eh bien va, je te demande pardon, mets là, ta main.
+
+-*who_martine
+Je te pardonne?
+mais tu le payeras.
+
+-*who_sganarelle
+Tu es une folle de prendre garde à cela.
+Ce sont petites choses qui sont, de temps, en temps, nécessaires dans l'amitié : et cinq ou six coups de bâton, entre gens qui s'aiment, ne font que ragaillardir l'affection.
+Va, je m'en vais au bois : et je te promets, aujourd'hui, plus d'un cent de fagots.
+
+**** *book_ *id_I03 *act_I *date_1666
+
+-*who_martine
+Va, quelque mine que je fasse, je n'oublie pas mon ressentiment : et je brûle en moi-même de trouver les moyens de te punir des coups que tu me donnes.
+Je sais bien qu'une femme a toujours dans les mains, de quoi se venger d'un mari : mais c'est une punition trop délicate pour mon pendard.
+Je veux une vengeance qui se fasse un peu mieux sentir : et ce n'est pas contentement pour l'injure que j'ai reçue.
+
+**** *book_ *id_I04 *act_I *date_1666
+
+-*who_lucas
+Parguenne !
+J'avons pris là tous deux une gueble de commission ; et je ne sais pas, moi, ce que je pensons attraper.
+
+-*who_valere
+Que veux-tu, mon pauvre nourricier ?
+Il faut bien obéir à notre maître : et puis, nous avons intérêt, l'un et l'autre, à la santé de sa fille notre maîtresse, et, sans doute, son mariage différé par sa maladie, nous vaudrait quelque récompense.
+Horace qui est libéral, a bonne part aux prétentions qu'on peut avoir sur sa personne : et quoiqu'elle ait fait voir de l'amitié pour un certain Léandre, tu sais bien que son père n'a jamais voulu consentir à le recevoir pour son gendre.
+
+-*who_martine
+Ne puis-je point trouver quelque invention pour me venger ?
+
+-*who_lucas
+Mais quelle fantaisie s'est-il boutée là dans la tête, puisque les médecins y avont tous pardu leur latin ?
+
+-*who_valere
+On trouve quelquefois, à force de chercher, ce qu'on ne trouve pas d'abord : et souvent, en de simples lieux...
+
+-*who_martine
+Oui, il faut que je m'en venge à quelque prix que ce soit : ces coups de bâton me reviennent au coeur, je ne les saurais digérer, et...
+Ah !
+Messieurs, je vous demande pardon, je ne vous voyais pas : et cherchais dans ma tête quelque chose qui m'embarrasse.
+
+-*who_valere
+Chacun a ses soins dans le monde, et nous cherchons aussi ce que nous voudrions bien trouver.
+
+-*who_martine
+Serait-ce quelque chose où je vous puisse aider ?
+
+-*who_valere
+Cela se pourrait faire ; et nous tâchons de rencontrer quelque habile homme, quelque médecin particulier, qui pût donner quelque soulagement à la fille notre maître, attaquée d'une maladie qui lui a ôté, tout d'un coup, l'usage de la langue.
+Plusieurs médecins ont déjà épuisé toute leur science après elle : mais on trouve, parfois, des gens avec des secrets admirables, de certains remèdes particuliers, qui font le plus souvent ce que les autres n'ont su faire, et c'est là, ce que nous cherchons.
+
+-*who_martine
+Ah !
+Que le Ciel m'inspire une admirable invention pour me venger de mon pendard !
+Vous ne pouviez jamais vous mieux adresser pour rencontrer ce que vous cherchez : et nous avons ici un homme, le plus merveilleux homme du monde, pour les maladies désespérées.
+
+-*who_valere
+Et de grâce, où pouvons-nous le rencontrer ?
+
+-*who_martine
+Vous le trouverez, maintenant, vers ce petit lieu que voilà, qui s'amuse à couper du bois.
+
+-*who_lucas
+Un médecin qui coupe du bois !
+
+-*who_valere
+Qui s'amuse à cueillir des simples, voulez-vous dire ?
+
+-*who_martine
+Non : c'est un homme extraordinaire qui se plaît à cela, fantasque, bizarre, quinteux, et que vous ne prendriez jamais, pour ce qu'il est.
+Il va vêtu d'une façon extravagante, affecte, quelquefois, de paraître ignorant, tient sa science renfermée, et ne fuit rien tant tous les jours que d'exercer les merveilleux talents qu'il a eus du ciel, pour la médecine.
+
+-*who_valere
+C'est une chose admirable, que tous les grands hommes ont toujours du caprice, quelque petit grain de folie mêlé à leur science.
+
+-*who_martine
+La folie de celui-ci, est plus grande qu'on ne peut croire, car elle va parfois jusqu'à vouloir être battu pour demeurer d'accord de sa capacité : et je vous donne avis que vous n'en viendrez point à bout, qu'il n'avouera jamais, qu'il est médecin, s'il se le met en fantaisie, que vous ne preniez chacun un bâton, et ne le réduisiez, à force de coups, à vous confesser à la fin ce qu'il vous cachera d'abord.
+C'est ainsi que nous en usons quand nous avons besoin de lui.
+
+-*who_valere
+Voilà une étrange folie !
+
+-*who_martine
+Il est vrai : mais, après cela, vous verrez qu'il fait des merveilles.
+
+-*who_valere
+Comment s'appelle-t-il ?
+
+-*who_martine
+Il s'appelle Sganarelle : mais il est aisé à connaître.
+C'est un homme qui a une large barbe noire, et qui porte une fraise, avec un habit jaune et vert.
+
+-*who_lucas
+Un habit jaune et vert !
+C'est donc le médecin des paroquets ?
+
+-*who_valere
+Mais est-il bien vrai qu'il soit si habile, que vous le dites ?
+
+-*who_martine
+Comment !
+C'est un homme qui fait des miracles.
+Il y a six mois qu'une femme fut abandonnée de tous les autres médecins.
+On la tenait morte? il y avait déjà six heures : et l'on se disposait à l'ensevelir, lorsqu'on y fit venir de force l'homme dont nous parlons.
+Il lui mit, l'ayant vue, une petite goutte de je ne sais quoi dans la bouche : et dans le même instant, elle se leva de son lit, et se mit, aussitôt, à se promener dans sa chambre, comme si de rien n'eût été.
+
+-*who_lucas
+Ah !
+
+-*who_valere
+Il fallait que ce fût quelque goutte d'or potable.
+
+-*who_martine
+Cela pourrait bien être.
+Il n'y a pas trois semaines, encore, qu'un jeune enfant de douze ans tomba du haut du clocher, en bas, et se brisa, sur le pavé, la tête, les bras et les jambes.
+On n'y eut pas plutôt amené notre homme, qu'il le frotta par tout le corps, d'un certain onguent qu'il sait faire ; et l'enfant aussitôt se leva sur ses pieds, et courut jouer à la fossette.
+
+-*who_lucas
+Ah !
+
+-*who_valere
+Il faut que cet homme-là ait la médecine universelle.
+
+-*who_martine
+Qui en doute ?
+
+-*who_lucas
+Testigué, vela justement l'homme qu'il nous faut : allons vite le chercher.
+
+-*who_valere
+Nous vous remercions du plaisir que vous nous faites.
+
+-*who_martine
+Mais souvenez-vous bien au moins, de l'avertissement que je vous ai donné.
+
+-*who_lucas
+Eh !
+Morguenne, laissez-nous faire, s'il ne tient qu'à battre, la vache est à nous.
+
+-*who_valere
+Nous sommes bien heureux d'avoir fait cette rencontre : et j'en conçois, pour moi, la meilleure espérance du monde.
+
+**** *book_ *id_I05 *act_I *date_1666
+
+-*who_sganarelle
+La, la, la.
+
+-*who_valere
+J'entends quelqu'un qui chante, et qui coupe du bois.
+
+-*who_sganarelle
+La, la, la...
+Ma foi, c'est assez travaillé pour un coup : prenons un peu d'haleine.
+Voilà du bois qui est salé, comme tous les diables.
+
+
+Qu'ils sont doux,
+Bouteille jolie,
+Qu'ils sont doux
+Vos petits glou-gloux !
+Mais mon sort ferait bien des jaloux,
+Si vous étiez toujours remplie.
+Ah ! Bouteille, ma mie,
+Pourquoi vous videz-vous ?
+Allons, morbleu !
+Il ne faut point engendrer de mélancolie.
+
+-*who_valere
+Le voilà lui-même.
+
+-*who_lucas
+Je pense que vous dites vrai, et que j'avons bouté le nez dessus.
+
+-*who_valere
+Voyons de près.
+
+-*who_sganarelle
+Ah !
+Ma petite friponne, que je t'aime, mon petit bouchon.
+... Mon sort.. ferait... bien des... jaloux,
+Si...
+Que diable !
+À qui en veulent ces gens-là ?
+
+-*who_valere
+C'est lui assurément...
+
+-*who_lucas
+Le velà tout craché comme on nous l'a défiguré.
+
+-*who_sganarelle
+Ils consultent en me regardant.
+Quel dessein auraient-ils ?
+
+-*who_valere
+Monsieur, n'est-ce pas vous qui vous appelez Sganarelle ?
+
+-*who_sganarelle
+Eh quoi ?
+
+-*who_valere
+Je vous demande si ce n'est pas vous, qui se nomme Sganarelle.
+
+-*who_sganarelle
+Oui, et non, selon ce que vous lui voulez.
+
+-*who_valere
+Nous ne voulons que lui faire toutes les civilités que nous pourrons.
+
+-*who_sganarelle
+En ce cas, c'est moi, qui se nomme Sganarelle.
+
+-*who_valere
+Monsieur, nous sommes ravis de vous voir.
+On nous a adressés à vous pour ce que nous cherchons ; et nous venons implorer votre aide, dont nous avons besoin.
+
+-*who_sganarelle
+Si c'est quelque chose, Messieurs, qui dépende de mon petit négoce, je suis tout prêt à vous rendre service.
+
+-*who_valere
+Monsieur, c'est trop de grâce que vous nous faites.
+Mais, Monsieur, couvrez-vous, s'il vous plaît ; le soleil pourrait vous incommoder.
+
+-*who_lucas
+Monsieur, boutez dessus.
+
+-*who_sganarelle
+Voici des gens bien pleins de cérémonie.
+
+-*who_valere
+Monsieur, il ne faut pas trouver étrange que nous venions à vous : les habiles gens sont toujours recherchés, et nous sommes instruits de votre capacité.
+
+-*who_sganarelle
+Il est vrai, Messieurs, que je suis le premier homme du monde pour faire des fagots.
+
+-*who_valere
+Ah !
+Monsieur...
+
+-*who_sganarelle
+Je n'y épargne aucune chose, et les fais d'une façon qu'il n'y a rien à dire.
+
+-*who_valere
+Monsieur, ce n'est pas cela dont il est question.
+
+-*who_sganarelle
+Mais aussi je les vends cent dix sols, le cent.
+
+-*who_valere
+Ne parlons point de cela, s'il vous plaît.
+
+-*who_sganarelle
+Je vous promets, que je ne saurais les donner à moins.
+
+-*who_valere
+Monsieur, nous savons les choses.
+
+-*who_sganarelle
+Si vous savez les choses, vous savez que je les vends cela.
+
+-*who_valere
+Monsieur, c'est se moquer que...
+
+-*who_sganarelle
+Je ne me moque point, je n'en puis rien rabattre.
+
+-*who_valere
+Parlons d'autre façon, de grâce.
+
+-*who_sganarelle
+Vous en pourrez trouver autre part, à moins : il y a fagots et fagots.
+Mais pour ceux que je fais...
+
+-*who_valere
+Eh ?
+Monsieur, laissons là, ce discours.
+
+-*who_sganarelle
+Je vous jure que vous ne les auriez pas, s'il s'en fallait un double.
+
+-*who_valere
+Eh fi.
+
+-*who_sganarelle
+Non, en conscience, vous en payerez cela.
+Je vous parle sincèrement, et ne suis pas homme à surfaire.
+
+-*who_valere
+Faut-il, Monsieur, qu'une personne comme vous s'amuse à ces grossières feintes ?
+S'abaisse à parler de la sorte ?
+Qu'un homme si savant, un fameux médecin, comme vous êtes, veuille se déguiser aux yeux du monde, et tenir enterrés les beaux talents qu'il a ?
+
+-*who_sganarelle
+Il est fou.
+
+-*who_valere
+De grâce, Monsieur, ne dissimulez point avec nous.
+
+-*who_sganarelle
+Comment ?
+
+-*who_lucas
+Tout ce tripotage ne sart de rian, je savons, çen que je savons.
+
+-*who_sganarelle
+Quoi, donc, que me voulez-vous dire ?
+Pour qui me prenez-vous ?
+
+-*who_valere
+Pour ce que vous êtes, pour un grand médecin.
+
+-*who_sganarelle
+Médecin, vous-même : je ne le suis point, et ne l'ai jamais été.
+
+-*who_valere
+Voilà sa folie qui le tient.
+Monsieur, ne veuillez point nier les choses davantage : et n'en venons point, s'il vous plaît, à de fâcheuses extrémités.
+
+-*who_sganarelle
+À quoi, donc ?
+
+-*who_valere
+À de certaines choses dont nous serions marris.
+
+-*who_sganarelle
+Parbleu, venez-en à tout ce qu'il vous plaira, je ne suis point médecin : et ne sais ce que vous me voulez dire.
+
+-*who_valere
+Je vois bien qu'il faut se servir du remède.
+Monsieur, encore, un coup, je vous prie d'avouer ce que vous êtes.
+
+-*who_lucas
+Et testigué !
+Ne lantiponez point davantage ; et confessez à la franquette que v'estes médecin.
+
+-*who_sganarelle
+J'enrage.
+
+-*who_valere
+À quoi bon nier ce qu'on sait ?
+
+-*who_lucas
+Pourquoi toutes ces fraimes-là ?
+Et à quoi est-ce que ça vous sart ?
+
+-*who_sganarelle
+Messieurs, en un mot, autant qu'en deux mille, je vous dis que je ne suis point médecin.
+
+-*who_valere
+Vous n'êtes point médecin ?
+
+-*who_sganarelle
+Non.
+
+-*who_lucas
+V'n'êtes pas médecin ?
+
+-*who_sganarelle
+Non, vous dis-je.
+
+-*who_valere
+Puisque vous le voulez, il faut s'y résoudre.
+
+-*who_sganarelle
+Ah ! ah ! ah !
+Messieurs, je suis tout ce qu'il vous plaira.
+
+-*who_valere
+Pourquoi, Monsieur, nous obligez-vous à cette violence ?
+
+-*who_lucas
+À quoi bon nous bailler la peine de vous battre ?
+
+-*who_valere
+Je vous assure que j'en ai tous les regrets du monde.
+
+-*who_lucas
+Par ma figué !
+J'en sis fâché, franchement.
+
+-*who_sganarelle
+Que diable est-ce ci, Messieurs, de grâce, est-ce pour rire, ou si tous deux vous extravaguez, de vouloir que je sois médecin ?
+
+-*who_valere
+Quoi ?
+Vous ne vous rendez pas encore, et vous vous défendez d'être médecin ?
+
+-*who_sganarelle
+Diable emporte si je le suis !
+
+-*who_lucas
+Il n'est pas vrai qu'ous sayez médecin ?
+
+-*who_sganarelle
+Non, la peste m'étouffe.
+Ah, ah !
+Eh bien, Messieurs, oui, puisque vous le voulez, je suis médecin, je suis médecin, apothicaire encore, si vous le trouvez bon.
+J'aime mieux consentir à tout que de me faire assommer.
+
+-*who_valere
+Ah !
+Voilà qui va bien, Monsieur, je suis ravi de vous voir raisonnable.
+
+-*who_lucas
+Vous me boutez la joie au coeur, quand je vous vois parler comme ça.
+
+-*who_valere
+Je vous demande pardon, de toute mon âme.
+
+-*who_lucas
+Je vous demandons excuse de la libarté que j'avons prise.
+
+-*who_sganarelle
+Ouais !
+Serait-ce bien moi qui me tromperais, et serais-je devenu médecin sans m'en être aperçu ?
+
+-*who_valere
+Monsieur, vous ne vous repentirez pas de nous montrer ce que vous êtes ; et vous verrez assurément que vous en serez satisfait.
+
+-*who_sganarelle
+Mais, Messieurs, dites-moi, ne vous trompez-vous point vous-mêmes ?
+Est-il bien assuré que je sois médecin ?
+
+-*who_lucas
+Oui, par ma figué !
+
+-*who_sganarelle
+Tout de bon ?
+
+-*who_valere
+Sans doute.
+
+-*who_sganarelle
+Diable emporte si je le savais !
+
+-*who_valere
+Comment ?
+Vous êtes le plus habile médecin du monde.
+
+-*who_sganarelle
+Ah ! ah !
+
+-*who_lucas
+Un médecin, qui a gari, je ne sais combien de maladies.
+
+-*who_sganarelle
+Tudieu !
+
+-*who_valere
+Une femme était tenue pour morte il y avait six heures ; elle était prête à ensevelir, lorsque avec une goutte de quelque chose, vous la fîtes revenir et marcher d'abord, par la chambre.
+
+-*who_sganarelle
+Peste !
+
+-*who_lucas
+Un petit enfant de douze ans se laissit choir du haut d'un clocher, de quoi il eut la tête, les jambes et les bras cassés : et vous, avec je ne sais quel onguent, vous fîtes qu'aussitôt, il se relevit sur ses pieds, et s'en fut jouer à la fossette.
+
+-*who_sganarelle
+Diantre !
+
+-*who_valere
+Enfin, Monsieur, vous aurez contentement avec nous : et vous gagnerez ce que vous voudrez, en vous laissant conduire où nous prétendons vous mener.
+
+-*who_sganarelle
+Je gagnerai ce que je voudrai ?
+
+-*who_valere
+Oui.
+
+-*who_sganarelle
+Ah !
+Je suis médecin, sans contredit.
+Je l'avais oublié, mais je m'en ressouviens.
+De quoi est-il question ?
+Où faut-il se transporter ?
+
+-*who_valere
+Nous vous conduirons.
+Il est question d'aller voir une fille qui a perdu la parole.
+
+-*who_sganarelle
+Ma foi !
+Je ne l'ai pas trouvée.
+
+-*who_valere
+Il aime à rire.
+Allons, Monsieur.
+
+-*who_sganarelle
+Sans une robe de médecin ?
+
+-*who_valere
+Nous en prendrons une.
+
+-*who_sganarelle
+Tenez cela, vous : voilà où je mets mes juleps.
+Vous, marchez là-dessus, par ordonnance du médecin.
+
+-*who_lucas
+Palsanguenne !
+Velà un médecin qui me plaît ; je pense qu'il réussira ; car il est bouffon.
+
+**** *book_ *id_II01 *act_II *date_1666
+
+-*who_valere
+Oui, Monsieur, je crois que vous serez satisfait : et nous vous avons amené le plus grand médecin du monde.
+
+-*who_lucas
+Oh morguenne, il faut tirer l'échelle après ceti-là : et tous les autres ne sont pas daignes de li déchausser ses souillez.
+
+-*who_valere
+C'est un homme qui a fait des cures merveilleuses.
+
+-*who_lucas
+Qui a gari des gens qui estiants morts.
+
+-*who_valere
+Il est un peu capricieux, comme je vous ai dit : et parfois, il a des moments où son esprit s'échappe, et ne paraît pas ce qu'il est.
+
+-*who_lucas
+Oui, il aime à bouffonner, et l'an dirait parfois, ne v'sen déplaise, qu'il a quelque petit coup de hache à la tête.
+
+-*who_valere
+Mais, dans le fond, il est toute Science : et bien souvent, il dit des choses tout à fait relevées.
+
+-*who_lucas
+Quand il s'y boute, il parle tout fin drait, comme s'il lisait dans un livre.
+
+-*who_valere
+Sa réputation s'est déjà répandue ici : et tout le monde vient à lui.
+
+-*who_geronte
+Je meurs d'envie de le voir, faites-le-moi vite venir.
+
+-*who_valere
+Je le vais quérir.
+
+-*who_jacqueline
+Par ma fi, Monsieu, ceti-ci fera justement ce qu'ant fait les autres.
+Je pense que ce sera queussi queumi : et la meilleure médeçaine que l'an pourrait bailler à votre fille, ce serait, selon moi, un biau et bon mari, pour qui elle eût de l'amiquié.
+
+-*who_geronte
+Ouais, Nourrice, ma mie, vous vous mêlez de bien des choses.
+
+-*who_lucas
+Taisez-vous, notre ménagère Jaquelaine : ce n'est pas à vous à bouter là votre nez.
+
+-*who_jacqueline
+Je vous dis et vous douze que tous ces médecins n'y feront rian que de l'iau claire ; que votre fille a besoin d'autre chose que de ribarbe et de sené, et qu'un mari est une emplâtre qui garit tous les maux des filles.
+
+-*who_geronte
+Est-elle en état maintenant qu'on s'en voulût charger, avec l'infirmité qu'elle a ?
+Et lorsque j'ai été dans le dessein de la marier, ne s'est-elle pas opposée à mes volontés ?
+
+-*who_jacqueline
+Je le crois bian : vous li vouilliez bailler cun homme qu'alle n'aime point.
+Que ne preniais-vous ce Monsieu Liandre, qui li touchoit au coeur.
+Alle aurait été fort obéissante : et je m'en vas gager qu'il la prendrait, li, comme alle est, si vous la li vouillais donner.
+
+-*who_geronte
+Ce Léandre n'est pas ce qu'il lui faut : il n'a pas du bien, comme l'autre.
+
+-*who_jacqueline
+Il a un oncle qui est si riche, dont il est hériquié.
+
+-*who_geronte
+Tous ces biens à venir, me semblent autant de chansons.
+Il n'est rien tel que ce qu'on tient : et l'on court grand risque de s'abuser, lorsque l'on compte sur le bien qu'un autre vous garde.
+La mort n'a pas toujours les oreilles ouvertes aux voeux et aux prières de Messieurs les héritiers : et l'on a le temps d'avoir les dents longues, lorsqu'on attend, pour vivre, le trépas de quelqu'un.
+
+-*who_jacqueline
+Enfin, j'ai, toujours, ouï dire, qu'en mariage, comme ailleurs, contentement passe richesse.
+Les bères et les mères ant cette maudite couteume de demander toujours, Qu'a-t-il et Qu'a-t-elle ?
+Et le compère Biarre a marié sa fille Simonette au gros Thomas, pour un quarquié de vaigne qu'il avait davantage que le jeune Robin, où alle avait bouté son amiquié : et velà que la pauvre creiature en est devenue jaune comme un coing, et n'a point profité tout depuis ce temps-là.
+C'est un bel exemple pour vous, Monsieu ; on n'a que son plaisir en ce monde : et j'aimerais mieux, bailler à ma fille, un bon mari qui li fût agriable, que toutes les rentes de la Biausse.
+
+-*who_geronte
+Peste !
+Madame la Nourrice, comme vous dégoisez !
+Taisez-vous, je vous prie, vous prenez trop de soin, et vous échauffez votre lait.
+
+-*who_lucas
+Morgué !
+Tais-toi, t'es cune impartinante.
+Monsieu n'a que faire de tes discours, et il sait ce qu'il a à faire.
+Mêle-toi de donner à téter à ton enfant, sans tant faire la raisonneuse.
+Monsieu est le père de sa fille ; et il est bon et sage, pour voir ce qu'il li faut.
+
+-*who_geronte
+Tout doux, oh, tout doux.
+
+-*who_lucas
+Monsieu, je veux un peu la mortifier : et li apprendre le respect qu'alle vous doit.
+
+-*who_geronte
+Oui, mais ces gestes ne sont pas nécessaires.
+
+**** *book_ *id_II02 *act_II *date_1666
+
+-*who_valere
+Monsieur préparez-vous, voici notre médecin qui entre.
+
+-*who_geronte
+Monsieur, je suis ravi de vous voir chez moi : et nous avons grand besoin de vous.
+
+-*who_sganarelle
+Hippocrate dit... que nous nous couvrions tous deux.
+
+-*who_geronte
+Hippocrate dit cela ?
+
+-*who_sganarelle
+Oui.
+
+-*who_geronte
+Dans quel chapitre, s'il vous plaît ?
+
+-*who_sganarelle
+Dans son chapitre des chapeaux.
+
+-*who_geronte
+Puisque Hippocrate le dit, il le faut faire.
+
+-*who_sganarelle
+Monsieur le Médecin, ayant appris les merveilleuses choses...
+
+-*who_geronte
+À qui parlez-vous, de grâce ?
+
+-*who_sganarelle
+À vous.
+
+-*who_geronte
+Je ne suis pas médecin.
+
+-*who_sganarelle
+Vous n'êtes pas médecin ?
+
+-*who_geronte
+Non, vraiment.
+
+-*who_sganarelle
+Tout de bon ?
+
+-*who_geronte
+Tout de bon.
+Ah !
+Ah !
+Ah !
+
+-*who_sganarelle
+Vous êtes médecin, maintenant, je n'ai jamais eu d'autres licences.
+
+-*who_geronte
+Quel diable d'homme m'avez-vous là amené ?
+
+-*who_valere
+Je vous ai bien dit que c'était un médecin goguenard.
+
+-*who_geronte
+Oui ; mais je l'envoirais promener avec ses goguenarderies.
+
+-*who_lucas
+Ne prenez pas garde à ça, Monsieu, ce n'est que pour rire.
+
+-*who_geronte
+Cette raillerie ne me plaît pas.
+
+-*who_sganarelle
+Monsieur, je vous demande pardon de la liberté que j'ai prise.
+
+-*who_geronte
+Monsieur, je suis votre serviteur.
+
+-*who_sganarelle
+Je suis fâché...
+
+-*who_geronte
+Cela n'est rien.
+
+-*who_sganarelle
+Des coups de bâton...
+
+-*who_geronte
+Il n'y a pas de mal.
+
+-*who_sganarelle
+Que j'ai eu l'honneur de vous donner.
+
+-*who_geronte
+Ne parlons plus de cela.
+Monsieur, j'ai une fille qui est tombée dans une étrange maladie.
+
+-*who_sganarelle
+Je suis ravi, Monsieur, que votre fille ait besoin de moi : et je souhaiterais de tout mon coeur que vous en eussiez besoin, aussi, vous et toute votre famille, pour vous témoigner l'envie que j'ai de vous servir.
+
+-*who_geronte
+Je vous suis obligé de ces sentiments.
+
+-*who_sganarelle
+Je vous assure que c'est du meilleur de mon âme, que je vous parle.
+
+-*who_geronte
+C'est trop d'honneur que vous me faites.
+
+-*who_sganarelle
+Comment s'appelle votre fille ?
+
+-*who_geronte
+Lucinde.
+
+-*who_sganarelle
+Lucinde !
+Ah beau nom à médicamenter !
+Lucinde !
+
+-*who_geronte
+Je m'en vais voir un peu ce qu'elle fait.
+
+-*who_sganarelle
+Qui est cette grande femme-là.
+
+-*who_geronte
+C'est la nourrice d'un petit enfant que j'ai.
+
+-*who_sganarelle
+Peste !
+Le joli meuble que voilà !
+Ah Nourrice !
+Charmante Nourrice, ma médecine est la très humble esclave de votre nourricerie ; et je voudrais bien être le petit poupon fortuné qui tetât le lait de vos bonnes grâces.
+Tous mes remèdes, toute ma science, toute ma capacité est à votre service, et...
+
+-*who_lucas
+Avec votre parmission, Monsieu le Médecin, laissez là ma femme, je vous prie.
+
+-*who_sganarelle
+Quoi, est-elle votre femme ?
+
+-*who_lucas
+Oui.
+
+-*who_sganarelle
+Ah vraiment, je ne savais pas cela : et je m'en réjouis pour l'amour de l'un et de l'autre.
+
+-*who_lucas
+Tout doucement, s'il vous plaît.
+
+-*who_sganarelle
+Je vous assure que je suis ravi que vous soyez unis ensemble.
+Je la félicite d'avoir un mari comme vous : et je vous félicite vous, d'avoir une femme si belle, si sage, et si bien faite, comme elle est.
+
+-*who_lucas
+Eh testigué, point tant de compliment, je vous supplie.
+
+-*who_sganarelle
+Ne voulez-vous pas que je me réjouisse avec vous, d'un si bel assemblage ?
+
+-*who_lucas
+Avec moi, tant qu'il vous plaira : mais avec ma femme, trêve de sarimonie.
+
+-*who_sganarelle
+Je prends part également au bonheur de tous deux ; et...
+si je vous embrasse pour vous en témoigner ma joie, je l'embrasse de même pour lui en témoigner aussi...
+
+-*who_lucas
+Ah vartigué, Monsieu le Médecin, que de lantiponages.
+
+**** *book_ *id_II03 *act_II *date_1666
+
+-*who_geronte
+Monsieur, voici tout à l'heure ma fille qu'on va vous amener.
+
+-*who_sganarelle
+Je l'attends, Monsieur, avec toute la médecine.
+
+-*who_geronte
+Où est-elle ?
+
+-*who_sganarelle
+Là dedans.
+
+-*who_geronte
+Fort bien.
+
+-*who_sganarelle
+Mais, comme je m'intéresse à toute votre famille, il faut que j'essaye un peu le lait de votre nourrice : et que je visite son sein.
+
+-*who_lucas
+Nanin, nanin ; je n'avons que faire de ça.
+
+-*who_sganarelle
+C'est l'office du médecin, de voir les tétons des nourrices.
+
+-*who_lucas
+Il gnia office qui quienne, je sis votre sarviteur.
+
+-*who_sganarelle
+As-tu bien la hardiesse de t'opposer au médecin ?
+Hors de là !
+
+-*who_lucas
+Je me moque de çà.
+
+-*who_sganarelle
+Je te donnerai la fièvre.
+
+-*who_jacqueline
+Ôte-toi de là, aussi, est-ce que je ne sis pas assez grande pour me défendre moi-même, s'il me fait quelque chose, qui ne soit pas à faire ?
+
+-*who_lucas
+Je ne veux pas qu'il te tâte, moi.
+
+-*who_sganarelle
+Fi, le vilain, qui est jaloux de sa femme.
+
+-*who_geronte
+Voici ma fille.
+
+**** *book_ *id_II04 *act_II *date_1666
+
+-*who_sganarelle
+Est-ce là, la malade ?
+
+-*who_geronte
+Oui, je n'ai qu'elle de fille : et j'aurais tous les regrets du monde si elle venait à mourir.
+
+-*who_sganarelle
+Qu'elle s'en garde bien, il ne faut pas qu'elle meure sans l'ordonnance du médecin.
+
+-*who_geronte
+Allons, un siège.
+
+-*who_sganarelle
+Voilà une malade qui n'est pas tant dégoûtante : et je tiens qu'un homme bien sain s'en accommoderait assez.
+
+-*who_geronte
+Vous l'avez fait rire, Monsieur.
+
+-*who_sganarelle
+Tant mieux : lorsque le médecin fait rire le malade, c'est le meilleur signe du monde.
+Eh bien, de quoi est-il question ?
+Qu'avez-vous ?
+Quel est le mal que vous sentez ?
+
+-*who_lucinde
+Han, hi, hom, han.
+
+-*who_sganarelle
+Eh !
+Que dites-vous ?
+
+-*who_lucinde
+Han, hi, hom, han, han, hi, hom.
+
+-*who_sganarelle
+Quoi ?
+
+-*who_lucinde
+Han, hi, hom.
+
+-*who_sganarelle
+Han, hi, hom, han, ha : je ne vous entends point.
+Quel diable de langage est-ce là ?
+
+-*who_geronte
+Monsieur, c'est là sa maladie.
+Elle est devenue muette, sans que jusques ici on en ait pu savoir la cause : et c'est un accident qui a fait reculer son mariage.
+
+-*who_sganarelle
+Et pourquoi ?
+
+-*who_geronte
+Celui qu'elle doit épouser veut attendre sa guérison pour conclure les choses.
+
+-*who_sganarelle
+Et qui est ce sot-là, qui ne veut pas que sa femme soit muette ?
+Plût à Dieu que la mienne eût cette maladie, je me garderais bien de la vouloir guérir.
+
+-*who_geronte
+Enfin, Monsieur, nous vous prions d'employer tous vos soins pour la soulager de son mal.
+
+-*who_sganarelle
+Ah !
+Ne vous mettez pas en peine.
+Dites-moi un peu, ce mal l'oppresse-t-il beaucoup ?
+
+-*who_geronte
+Oui, Monsieur.
+
+-*who_sganarelle
+Tant mieux.
+Sent-elle de grandes douleurs ?
+
+-*who_geronte
+Fort grandes.
+
+-*who_sganarelle
+C'est fort bien fait.
+Va-t-elle où vous savez ?
+
+-*who_geronte
+Oui.
+
+-*who_sganarelle
+Copieusement ?
+
+-*who_geronte
+Je n'entends rien à cela.
+
+-*who_sganarelle
+La matière est-elle louable ?
+
+-*who_geronte
+Je ne me connais pas à ces choses.
+
+-*who_sganarelle
+Donnez-moi votre bras.
+Voilà un pouls qui marque que votre fille est muette.
+
+-*who_geronte
+Eh !
+Oui, Monsieur, c'est là son mal : vous l'avez trouvé tout du premier coup.
+
+-*who_sganarelle
+Ah, ah.
+
+-*who_jacqueline
+Voyez, comme il a deviné sa maladie !
+
+-*who_sganarelle
+Nous autres grands médecins, nous connaissons d'abord, les choses.
+Un ignorant aurait été embarrassé, et vous eût été dire, c'est ceci, c'est cela : mais moi, je touche au but du premier coup, et je vous apprends que votre fille est muette.
+
+-*who_geronte
+Oui, mais je voudrais bien que vous me pussiez dire d'où cela vient.
+
+-*who_sganarelle
+Il n'est rien plus aisé.
+Cela vient de ce qu'elle a perdu la parole.
+
+-*who_geronte
+Fort bien : mais la cause, s'il vous plaît, qui fait qu'elle a perdu la parole ?
+
+-*who_sganarelle
+Tous nos meilleurs auteurs vous diront que c'est l'empêchement de l'action de sa langue.
+
+-*who_geronte
+Mais encore, vos sentiments sur cet empêchement de l'action de sa langue ?
+
+-*who_sganarelle
+Aristote, là-dessus, dit... de fort belles choses.
+
+-*who_geronte
+Je le crois.
+
+-*who_sganarelle
+Ah !
+C'était un grand homme !
+
+-*who_geronte
+Sans doute.
+
+-*who_sganarelle
+Grand homme tout à fait : un homme qui était plus grand que moi de tout cela.
+Pour revenir donc à notre raisonnement.
+Je tiens que cet empêchement de l'action de sa langue est causé par de certaines humeurs, qu'entre nous autres, savants, nous appelons humeurs peccantes, peccantes, c'est-à-dire... humeurs peccantes : d'autant que les vapeurs formées par les exhalaisons des influences qui s'élèvent dans la région des maladies, venant... pour ainsi dire... à...
+Entendez-vous le latin ?
+
+-*who_geronte
+En aucune façon.
+
+-*who_sganarelle
+Vous n'entendez point le latin !
+
+-*who_geronte
+Non.
+
+-*who_sganarelle
+Cabricias arci thuram, catalamus, singulariter, nominativo haec Musa la Muse, bonus, bona, bonum, Deus sanctus, est ne oratio latinas ?
+Etiam, oui, quare, pourquoi, quia substantivo, et adjectivum concordat in generi, numerum, et casus.
+
+-*who_geronte
+Ah !
+Que n'ai-je étudié ?
+
+-*who_jacqueline
+L'habile homme que velà !
+
+-*who_lucas
+Oui, ça est si biau, que je n'y entends goutte.
+
+-*who_sganarelle
+Or ces vapeurs dont je vous parle venant à passer, du côté gauche, où est le foie, au côté droit, où est le coeur, il se trouve que le poumon, que nous appelons en latin armyan, ayant communication avec le cerveau, que nous nommons en grec nasmus, par le moyen de la veine cave, que nous appelons en hébreu, cubile, rencontre en son chemin lesdites vapeurs, qui remplissent les ventricules de l'omoplate ; et parce que lesdites vapeurs...
+Comprenez bien ce raisonnement, je vous prie ; et parce que lesdites vapeurs ont une certaine malignité...
+Écoutez bien ceci, je vous conjure.
+
+-*who_geronte
+Oui.
+
+-*who_sganarelle
+Ont une certaine malignité, qui est causée...
+Soyez attentif, s'il vous plaît.
+
+-*who_geronte
+Je le suis.
+
+-*who_sganarelle
+Qui est causée par l'âcreté des humeurs, engendrées dans la concavité du diaphragme, il arrive que ces vapeurs...
+Ossabandus, nequeys, nequer, potarinum, quipsa milus.
+Voilà justement ce qui fait que votre fille est muette.
+
+-*who_jacqueline
+Ah !
+Que ça est bian dit, notte homme !
+
+-*who_lucas
+Que n'ai-je la langue aussi bian pendue ?
+
+-*who_geronte
+On ne peut pas mieux raisonner, sans doute.
+Il n'y a qu'une seule chose qui m'a choqué.
+C'est l'endroit du foie et du coeur.
+Il me semble que vous les placez autrement qu'ils ne sont.
+Que le coeur est du côté gauche, et le foie du côté droit.
+
+-*who_sganarelle
+Oui, cela était, autrefois, ainsi ; mais nous avons changé tout cela, et nous faisons maintenant la médecine d'une méthode toute nouvelle.
+
+-*who_geronte
+C'est ce que je ne savais pas : et je vous demande pardon de mon ignorance.
+
+-*who_sganarelle
+Il n'y a point de mal : et vous n'êtes pas obligé d'être aussi habile que nous.
+
+-*who_geronte
+Assurément : Mais, Monsieur, que croyez-vous qu'il faille faire à cette maladie ?
+
+-*who_sganarelle
+Ce que je crois qu'il faille faire ?
+
+-*who_geronte
+Oui.
+
+-*who_sganarelle
+Mon avis est qu'on la remette sur son lit : et qu'on lui fasse prendre pour remède, quantité de pain trempé dans du vin.
+
+-*who_geronte
+Pourquoi cela, Monsieur ?
+
+-*who_sganarelle
+Parce qu'il y a dans le vin et le pain, mêlés ensemble, une vertu sympathique qui fait parler.
+Ne voyez-vous pas bien qu'on ne donne autre chose aux perroquets : et qu'ils apprennent à parler en mangeant de cela ?
+
+-*who_geronte
+Cela est vrai, ah !
+Le grand homme !
+Vite, quantité de pain et de vin !
+
+-*who_sganarelle
+Je reviendrai voir, sur le soir, en quel état elle sera.
+Doucement, vous.
+Monsieur, voilà une nourrice à laquelle il faut que je fasse quelques petits remèdes.
+
+-*who_jacqueline
+Qui, moi ?
+Je me porte le mieux du monde.
+
+-*who_sganarelle
+Tant pis, Nourrice, tant pis.
+Cette grande santé est à craindre : et il ne sera mauvais de vous faire quelque petite saignée amiable, de vous donner quelque petit clystère dulcifiant.
+
+-*who_geronte
+Mais, Monsieur, voilà une mode que je ne comprends point.
+Pourquoi s'aller faire saigner quand on n'a point de maladie ?
+
+-*who_sganarelle
+Il n'importe, la mode en est salutaire ; et comme on boit pour la soif à venir, il faut se faire aussi saigner pour la maladie à venir.
+
+-*who_jacqueline
+Ma fi, je me moque de ça, et je ne veux point faire de mon corps une boutique d'apothicaire.
+
+-*who_sganarelle
+Vous êtes rétive aux remèdes ; mais nous saurons vous soumettre à la raison.
+Je vous donne le bonjour.
+
+-*who_geronte
+Attendez un peu, s'il vous plaît.
+
+-*who_sganarelle
+Que voulez-vous faire ?
+
+-*who_geronte
+Vous donner de l'argent, Monsieur.
+
+-*who_sganarelle
+Je n'en prendrai pas, Monsieur.
+
+-*who_geronte
+Monsieur.
+
+-*who_sganarelle
+Point du tout.
+
+-*who_geronte
+Un petit moment.
+
+-*who_sganarelle
+En aucune façon.
+
+-*who_geronte
+De grâce !
+
+-*who_sganarelle
+Vous vous moquez.
+
+-*who_geronte
+Voilà qui est fait.
+
+-*who_sganarelle
+Je n'en ferai rien.
+
+-*who_geronte
+Eh !
+
+-*who_sganarelle
+Ce n'est pas l'argent qui me fait agir.
+
+-*who_geronte
+Je le crois.
+
+-*who_sganarelle
+Cela est-il de poids ?
+
+-*who_geronte
+Oui, Monsieur.
+
+-*who_sganarelle
+Je ne suis pas un médecin mercenaire.
+
+-*who_geronte
+Je le sais bien.
+
+-*who_sganarelle
+L'intérêt ne me gouverne point.
+
+-*who_geronte
+Je n'ai pas cette pensée.
+
+**** *book_ *id_II05 *act_II *date_1666
+
+-*who_sganarelle
+Ma foi !
+Cela ne va pas mal, et pourvu que...
+
+-*who_leandre
+Monsieur, il y a longtemps que je vous attends : et je viens implorer votre assistance.
+
+-*who_sganarelle
+Voilà un pouls qui est fort mauvais.
+
+-*who_leandre
+Je ne suis point malade, Monsieur, et ce n'est pas pour cela que je viens à vous.
+
+-*who_sganarelle
+Si vous n'êtes pas malade, que diable ne le dites-vous donc.
+
+-*who_leandre
+Non : pour vous dire la chose en deux mots, je m'appelle Léandre, qui suis amoureux de Lucinde, que vous venez de visiter : et comme, par la mauvaise humeur, de son père, toute sorte d'accès m'est fermé auprès d'elle, je me hasarde à vous prier de vouloir servir mon amour : et de me donner lieu d'exécuter un stratagème que j'ai trouvé, pour lui pouvoir dire deux mots, d'où dépendent absolument mon bonheur et ma vie.
+
+-*who_sganarelle
+Pour qui me prenez-vous ?
+Comment oser vous adresser à moi, pour vous servir dans votre amour, et vouloir ravaler la dignité de médecin, à des emplois de cette nature ?
+
+-*who_leandre
+Monsieur, ne faites point de bruit.
+
+-*who_sganarelle
+J'en veux faire, moi, vous êtes un impertinent.
+
+-*who_leandre
+Eh !
+Monsieur, doucement.
+
+-*who_sganarelle
+Un malavisé.
+
+-*who_leandre
+De grâce.
+
+-*who_sganarelle
+Je vous apprendrai que je ne suis point homme à cela : et que c'est une insolence extrême...
+
+-*who_leandre
+Monsieur.
+
+-*who_sganarelle
+De vouloir m'employer...
+Je ne parle pas pour vous, car vous êtes honnête homme, et je serois ravi de vous rendre service.
+Mais il y a de certains impertinents au monde, qui viennent prendre les gens pour ce qu'ils ne sont pas : et je vous avoue que cela me met en colère.
+
+-*who_leandre
+Je vous demande pardon, Monsieur, de la liberté que...
+
+-*who_sganarelle
+Vous vous moquez : de quoi est-il question ?
+
+-*who_leandre
+Vous saurez, donc, Monsieur, que cette maladie que vous voulez guérir, est une feinte maladie.
+Les médecins ont raisonné là-dessus, comme il faut ; et ils n'ont pas manqué de dire, que cela procédait, qui du cerveau, qui des entrailles, qui, de la rate, qui du foie.
+Mais il est certain que l'amour en est la véritable cause : et que Lucinde n'a trouvé cette maladie, que pour se délivrer d'un mariage, dont elle était importunée.
+Mais, de crainte qu'on ne nous voye ensemble, retirons-nous d'ici : et je vous dirai en marchant, ce que je souhaite de vous.
+
+-*who_sganarelle
+Allons, Monsieur, vous m'avez donné pour votre amour, une tendresse qui n'est pas concevable : et j'y perdrai toute ma médecine, ou la malade crèvera, ou bien elle sera à vous.
+
+**** *book_ *id_III01 *act_III *date_1666
+
+-*who_leandre
+Il me semble que je ne suis pas mal ainsi, pour un apothicaire : et comme le père ne m'a guère vu, ce changement d'habit, et de perruque, est assez capable, je crois, de me déguiser à ses yeux.
+
+-*who_sganarelle
+Sans doute.
+
+-*who_leandre
+Tout ce que je souhaiterais, serait de savoir cinq ou six grands mots de médecine, pour parer mon discours, et me donner l'air d'habile homme.
+
+-*who_sganarelle
+Allez, allez, tout cela n'est pas nécessaire.
+Il suffit de l'habit : et je n'en sais pas plus que vous.
+
+-*who_leandre
+Comment !
+
+-*who_sganarelle
+Diable emporte, si j'entends rien en médecine.
+Vous êtes honnête homme : et je veux bien me confier à vous, comme vous vous confiez à moi.
+
+-*who_leandre
+Quoi, vous n'êtes pas effectivement...
+
+-*who_sganarelle
+Non, vous dis-je, ils m'ont fait médecin malgré mes dents.
+Je ne m'étais jamais mêlé d'être si savant que cela : et toutes mes études n'ont été que jusqu'en sixième.
+Je ne sais point sur quoi cette imagination leur est venue : mais quand j'ai vu qu'à toute force ils voulaient que je fusse médecin, je me suis résolu de l'être, aux dépens de qui il appartiendra.
+Cependant, vous ne sauriez croire comment l'erreur s'est répandue : et de quelle façon, chacun est endiablé à me croire habile homme.
+On me vient chercher de tous les côtés : et si les choses vont toujours de même, je suis d'avis de m'en tenir, toute ma vie, à la médecine.
+Je trouve que c'est le métier le meilleur de tous : car soi qu'on fasse bien, ou soit qu'on fasse mal, on est toujours payé de même sorte.
+La méchante besogne ne retombe jamais sur notre dos ; et nous taillons, comme il nous plaît, sur l'étoffe où nous travaillons.
+Un cordonnier en faisant des souliers, ne saurait gâter un morceau de cuir qu'il n'en paye les pots cassés ; mais ici l'on peut gâter un homme, sans qu'il en coûte rien.
+Les bévues ne sont point pour nous : et c'est toujours la faute de celui qui meurt.
+Enfin le bon de cette profession, est qu'il y a parmi les morts, une honnêteté, une discrétion la plus grande du monde : et jamais on n'en voit se plaindre du médecin qui l'a tué.
+
+-*who_leandre
+Il est vrai que les morts sont fort honnêtes gens, sur cette matière.
+
+-*who_sganarelle
+Voilà des gens qui ont la mine de me venir consulter.
+Allez toujours m'attendre auprès du logis de votre maîtresse.
+
+**** *book_ *id_III02 *act_III *date_1666
+
+-*who_thibaut
+Monsieu, je venons vous charcher, mon fils Perrin et moi.
+
+-*who_sganarelle
+Qu'y a-t-il ?
+
+-*who_thibaut
+Sa pauvre mère, qui a nom Parette, est dans un lit, malade, il y a six mois.
+
+-*who_sganarelle
+Que voulez-vous que j'y fasse ?
+
+-*who_thibaut
+Je voudrions, Monsieu, que vous nous baillissiez quelque petite drôlerie pour la garir.
+
+-*who_sganarelle
+Il faut voir de quoi est-ce qu'elle est malade.
+
+-*who_thibaut
+Alle est malade d'hypocrisie, Monsieu.
+
+-*who_sganarelle
+D'hypocrisie ?
+
+-*who_thibaut
+Oui, c'est-à-dire qu'alle est enflée partout, et l'an dit que c'est quantité de sériosités qu'alle a dans le corps, et que son foie, son ventre, ou sa rate, comme vous voudrais l'appeler, au glieu de faire du sang, ne fait plus que de l'iau.
+Alle a, de deux jours l'un, la fièvre quotiguenne, avec des lassitules et des douleurs dans les mufles des jambes.
+On entend dans sa gorge des fleumes qui sont tout prêts à l'étouffer : et, parfois, il lui prend des syncoles, et des conversions, que je crayons qu'alle est passée.
+J'avons dans notre village, un apothicaire, révérence parler, qui li a donné je ne sai combien d'histoires : et il m'en coûte plus d'eune douzaine de bons écus, en lavements, ne v's'en déplaise, en apostumes, qu'on li a fait prendre, en infections de jacinthe, et en portions cordales.
+Mais tout ça, comme dit l'autre, n'a été que de l'onguent miton mitaine.
+Il velait li bailler d'eune certaine drogue que l'on appelle du vin amétile ; mais j'ai-s-eu peur, franchement, que ça l'envoyît à patres, et l'an dit que ces gros médecins tuont je ne sais combien de monde, avec cette invention-là.
+
+-*who_sganarelle
+Venons au fait, mon ami, venons au fait.
+
+-*who_thibaut
+Le fait est, Monsieur, que je venons vous prier de nous dire ce qu'il faut que je fassions.
+
+-*who_sganarelle
+Je ne vous entends point du tout.
+
+-*who_perrin
+Monsieu, ma mère est malade, et velà deux écus que je vous apportons, pour nous bailler queuque remède.
+
+-*who_sganarelle
+Ah !
+Je vous entends, vous.
+Voilà un garçon qui parle clairement, qui s'explique comme il faut.
+Vous dites que votre mère est malade d'hydropisie, qu'elle est enflée par tout le corps, qu'elle a la fièvre, avec des douleurs dans les jambes : et qu'il lui prend parfois des syncopes, et des convulsions, c'est-à-dire des évanouissements ?
+
+-*who_perrin
+Eh oui, Monsieu, c'est justement ça.
+
+-*who_sganarelle
+J'ai compris d'abord vos paroles.
+Vous avez un père qui ne sait ce qu'il dit.
+Maintenant vous me demandez un remède ?
+
+-*who_perrin
+Oui, Monsieu.
+
+-*who_sganarelle
+Un remède pour la guérir ?
+
+-*who_perrin
+C'est comme je l'entendons.
+
+-*who_sganarelle
+Tenez, voilà un morceau de formage qu'il faut que vous lui fassiez prendre.
+
+-*who_perrin
+Du fromage, Monsieu ?
+
+-*who_sganarelle
+Oui, c'est un formage préparé, où il entre de l'or, du coral, et des perles, et quantité d'autres choses précieuses.
+
+-*who_perrin
+Monsieu, je vous sommes bien obligés : et j'allons li faire prendre ça tout à l'heure.
+
+-*who_sganarelle
+Allez.
+Si elle meurt, ne manquez pas de la faire enterrer du mieux que vous pourrez.
+
+**** *book_ *id_III03 *act_III *date_1666
+
+-*who_sganarelle
+Voici la belle Nourrice.
+Ah nourrice de mon coeur, je suis ravi de cette rencontre : et votre vue est la rhubarbe, la casse et le séné, qui purgent toute la mélancolie de mon âme.
+
+-*who_jacqueline
+Par ma figué, Monsieu le Médecin, ça est trop bian dit pour moi : et je n'entends rien à tout votre latin.
+
+-*who_sganarelle
+Devenez malade, Nourrice, je vous prie, devenez malade pour l'amour de moi.
+J'aurais toutes les joies du monde, de vous guérir.
+
+-*who_jacqueline
+Je sis votte sarvante, j'aime bian mieux qu'an ne me guérisse pas.
+
+-*who_sganarelle
+Que je vous plains, belle Nourrice, d'avoir un mari jaloux et fâcheux, comme celui que vous avez !
+
+-*who_jacqueline
+Que velez-vous, Monsieu, c'est pour la pénitence de mes fautes : et là où la chèvre est liée, il faut bian qu'alle y broute.
+
+-*who_sganarelle
+Comment, un rustre comme cela !
+Un homme qui vous observe toujours, et ne veut pas que personne vous parle !
+
+-*who_jacqueline
+Hélas !
+Vous n'avez rien vu encore : et ce n'est qu'un petit échantillon de sa mauvaise humeur.
+
+-*who_sganarelle
+Est-il possible, et qu'un homme ait l'âme assez basse, pour maltraiter une personne comme vous ?
+Ah que j'en sais, belle Nourrice, et qui ne sont pas loin d'ici, qui se tiendroient heureux de baiser, seulement, les petits bouts de vos petons !
+Pourquoi faut-il qu'une personne si bien faite, soit tombée en de telles mains : et qu'un franc animal, un brutal, un stupide, un sot...
+Pardonnez-moi, Nourrice, si je parle ainsi de votre mari.
+
+-*who_jacqueline
+Eh, Monsieu, je sai bien qu'il mérite tous ces noms-là.
+
+-*who_sganarelle
+Oui, sans doute, Nourrice, il les mérite : et il mériterait encore, que vous lui missiez quelque chose sur la tête, pour le punir des soupçons qu'il a.
+
+-*who_jacqueline
+Il est bien vrai que si je n'avais, devant les yeux, que son intérêt, il pourrait m'obliger à queuque étrange chose.
+
+-*who_sganarelle
+Ma foi !
+Vous ne feriez pas mal de vous venger de lui avec quelqu'un.
+C'est un homme, je vous le dis, qui mérite bien cela : et si j'étais assez heureux, belle Nourrice, pour être choisi pour...
+
+**** *book_ *id_III04 *act_III *date_1666
+
+-*who_geronte
+Holà, Lucas, n'as-tu point vu ici, notre médecin ?
+
+-*who_lucas
+Et oui, de par tous les diantres, je l'ai vu, et ma femme aussi.
+
+-*who_geronte
+Où est-ce, donc, qu'il peut être ?
+
+-*who_lucas
+Je ne sais : mais je voudrais qu'il fût à tous les guebles.
+
+-*who_geronte
+Va-t'en voir un peu, ce que fait ma fille.
+
+**** *book_ *id_III05 *act_III *date_1666
+
+-*who_geronte
+Ah !
+Monsieur, je demandais où vous étiez ?
+
+-*who_sganarelle
+Je m'étais amusé dans votre cour, à expulser le superflu de la boisson.
+Comment se porte la malade ?
+
+-*who_geronte
+Un peu plus mal, depuis votre remède.
+
+-*who_sganarelle
+Tant mieux.
+C'est signe qu'il opère.
+
+-*who_geronte
+Oui, mais en opérant, je crains qu'il ne l'étouffe.
+
+-*who_sganarelle
+Ne vous mettez pas en peine : j'ai des remèdes qui se moquent de tout, et je l'attends à l'agonie.
+
+-*who_geronte
+Qui est cet homme-là, que vous amenez ?
+
+-*who_sganarelle
+C'est...
+
+-*who_geronte
+Quoi ?
+
+-*who_sganarelle
+Celui...
+
+-*who_geronte
+Eh ?
+
+-*who_sganarelle
+Qui...
+
+-*who_geronte
+Je vous entends.
+
+-*who_sganarelle
+Votre fille en aura besoin.
+
+**** *book_ *id_III06 *act_III *date_1666
+
+-*who_jacqueline
+Monsieu, velà votre fille qui veut un peu marcher.
+
+-*who_sganarelle
+Cela lui fera du bien.
+Allez-vous-en, Monsieur l'Apothicaire, tâter un peu son pouls, afin que je raisonne tantôt, avec vous, de sa maladie.
+Monsieur, c'est une grande et subtile question entre les doctes, de savoir si les femmes sont plus faciles à guérir que les hommes ?Je vous prie d'écouter ceci, s'il vous plaît.
+Les uns disent que non, les autres disent que oui : et moi je dis que oui, et non : d'autant que l'incongruité des humeurs opaques, qui se rencontrent au tempérament naturel des femmes; étant cause que la partie brutale veut toujours prendre empire sur la sensitive, on voit que l'inégalité de leurs opinions dépend du mouvement oblique, du cercle de la Lune ; et comme le soleil, qui darde ses rayons sur la concavité de la terre, trouve...
+
+-*who_lucinde
+Non, je ne suis point du tout capable de changer de sentiments.
+
+-*who_geronte
+Voilà ma fille qui parle !
+Ô grande vertu du remède !
+Ô admirable médecin !
+Que je vous suis obligé, Monsieur, de cette guérison merveilleuse : et que puis-je faire pour vous après un tel service ?
+
+-*who_sganarelle
+Voilà une maladie qui m'a bien donné de la peine !
+
+-*who_lucinde
+Oui, mon père, j'ai recouvré la parole : mais je l'ai recouvrée pour vous dire, que je n'aurai jamais d'autre époux que Léandre, et que c'est inutilement que vous voulez me donner Horace.
+
+-*who_geronte
+Mais...
+
+-*who_lucinde
+Rien n'est capable d'ébranler la résolution que j'ai prise.
+
+-*who_geronte
+Quoi...
+
+-*who_lucinde
+Vous m'opposerez en vain de belles raisons.
+
+-*who_geronte
+Si...
+
+-*who_lucinde
+Tous vos discours ne serviront de rien.
+
+-*who_geronte
+Je...
+
+-*who_lucinde
+C'est une chose où je suis déterminée.
+
+-*who_geronte
+Mais...
+
+-*who_lucinde
+Il n'est puissance paternelle, qui me puisse obliger à me marier malgré moi.
+
+-*who_geronte
+J'ai...
+
+-*who_lucinde
+Vous avez beau faire tous vos efforts.
+
+-*who_geronte
+Il...
+
+-*who_lucinde
+Mon coeur ne saurait se soumettre à cette tyrannie.
+
+-*who_geronte
+Là...
+
+-*who_lucinde
+Et je me jetterai plutôt dans un convent, que d'épouser un homme que je n'aime point.
+
+-*who_geronte
+Mais...
+
+-*who_lucinde
+Non.
+En aucune façon.
+Point d'affaire.
+Vous perdez le temps.
+Je n'en ferai rien.
+Cela est résolu.
+
+-*who_geronte
+Ah !
+Quelle impétuosité de paroles, il n'y a pas moyen d'y résister, Monsieur, je vous prie de la faire redevenir muette.
+
+-*who_sganarelle
+C'est une chose qui m'est impossible.
+Tout ce que je puis faire pour votre service est de vous rendre sourd, si vous voulez.
+
+-*who_geronte
+Je vous remercie.
+Penses-tu donc...
+
+-*who_lucinde
+Non.
+Toutes vos raisons ne gagneront rien sur mon âme.
+
+-*who_geronte
+Tu épouseras Horace, dès ce soir.
+
+-*who_lucinde
+J'épouserai plutôt la mort.
+
+-*who_sganarelle
+Mon Dieu !
+Arrêtez-vous, laissez-moi médicamenter cette affaire.
+C'est une maladie qui la tient, et je sais le remède qu'il y faut apporter.
+
+-*who_geronte
+Serait-il possible, Monsieur, que vous pussiez, aussi, guérir cette maladie d'esprit ?
+
+-*who_sganarelle
+Oui, laissez-moi faire, j'ai des remèdes pour tout : et notre apothicaire nous servira pour cette cure.
+Un mot.Vous voyez que l'ardeur qu'elle a pour ce Léandre est tout à fait contraire aux volontés du père, qu'il n'y a point de temps à perdre, que les humeurs sont fort aigries, et qu'il est nécessaire de trouver promptement un remède à ce mal, qui pourrait empirer par le retardement.
+Pour moi, je n'y en vois qu'un seul, qui est une prise de fuite purgative, que vous mêlerez comme il faut, avec deux drachmes de matrimonium en pilules.
+Peut-être fera-t-elle quelque difficulté à prendre ce remède : mais, comme vous êtes habile homme dans votre métier, c'est à vous de l'y résoudre, et de lui faire avaler la chose du mieux que vous pourrez.
+Allez-vous-en lui faire faire un petit tour de jardin, afin de préparer les humeurs, tandis que j'entretiendrai ici son père : mais surtout, ne perdez point de temps.
+Au remède vite, au remède spécifique !
+
+**** *book_ *id_III07 *act_III *date_1666
+
+-*who_geronte
+Quelles drogues, Monsieur, sont celles que vous venez de dire ?
+Il me semble que je ne les ai jamais ouï nommer.
+
+-*who_sganarelle
+Ce sont drogues dont on se sert dans les nécessités urgentes.
+
+-*who_geronte
+Avez-vous jamais, vu une insolence pareille à la sienne ?
+
+-*who_sganarelle
+Les filles sont quelquefois un peu têtues.
+
+-*who_geronte
+Vous ne sauriez croire comme elle est affolée de ce Léandre.
+
+-*who_sganarelle
+La chaleur du sang, fait cela dans les jeunes esprits.
+
+-*who_geronte
+Pour moi, dès que j'ai eu découvert la violence de cet amour, j'ai su tenir toujours ma fille renfermée.
+
+-*who_sganarelle
+Vous avez fait sagement.
+
+-*who_geronte
+Et j'ai bien empêché qu'ils n'aient eu communication ensemble.
+
+-*who_sganarelle
+Fort bien.
+
+-*who_geronte
+Il serait arrivé quelque folie, si j'avais souffert qu'ils se fussent vus.
+
+-*who_sganarelle
+Sans doute.
+
+-*who_geronte
+Et je crois qu'elle aurait été fille à s'en aller avec lui.
+
+-*who_sganarelle
+C'est prudemment, raisonné.
+
+-*who_geronte
+On m'avertit qu'il fait tous ses efforts pour lui parler.
+
+-*who_sganarelle
+Quel drôle.
+
+-*who_geronte
+Mais il perdra son temps.
+
+-*who_sganarelle
+Ah, ah !
+
+-*who_geronte
+Et j'empêcherai bien qu'il ne la voye.
+
+-*who_sganarelle
+Il n'a pas affaire à un sot, et vous savez des rubriques qu'il ne sait pas plus fin que vous n'est pas bête.
+
+**** *book_ *id_III08 *act_III *date_1666
+
+-*who_lucas
+Ah !
+Paisanguenne, Monsieu, vaici bian du tintamarre, votre fille s'en est enfuie avec son Liandre, c'était lui qui était l'apothicaire, et velà Monsieu le Médecin, qui a fait cette belle opération-là.
+
+-*who_geronte
+Comment ?
+M'assassiner de la façon !
+Allons, un, commissaire, et qu'on empêche qu'il ne sorte.
+Ah, traître, je vous ferai punir par la justice.
+
+-*who_lucas
+Ah par ma fi, Monsieu le Médecin, vous serez pendu, ne bougez de là seulement.
+
+**** *book_ *id_III09 *act_III *date_1666
+
+-*who_martine
+Ah !
+Mon Dieu, que j'ai eu de peine à trouver ce logis : dites-moi un peu des nouvelles du médecin que je vous ai donné.
+
+-*who_lucas
+Le velà, qui va être pendu.
+
+-*who_martine
+Quoi, mon mari pendu, hélas et qu'a-t-il fait pour cela.
+
+-*who_lucas
+Il a fait enlever la fille de notre maître.
+
+-*who_martine
+Hélas !
+Mon cher mari, est-il bien vrai qu'on te va pendre ?
+
+-*who_sganarelle
+Tu vois, ah.
+
+-*who_martine
+Faut-il que tu te laisses mourir en présence de tant de gens ?
+
+-*who_sganarelle
+Que veux-tu que j'y fasse.
+
+-*who_martine
+Encore, si tu avais achevé de couper notre bois, je prendrais quelque consolation.
+
+-*who_sganarelle
+Retire-toi de là, tu me fends le coeur.
+
+-*who_martine
+Non, je veux demeurer pour t'encourager à la mort : et je ne te quitterai point, que je ne t'aie vu pendu.
+
+-*who_sganarelle
+Ah.
+
+**** *book_ *id_III10 *act_III *date_1666
+
+-*who_geronte
+Le Commissaire viendra bientôt, et l'on s'en va vous mettre en lieu, où l'on me répondra de vous.
+
+-*who_sganarelle
+Hélas, cela ne se peut-il point changer en quelques coups de bâton ?
+
+-*who_geronte
+Non, non, la justice en ordonnera...
+Mais que vois-je.
+
+**** *book_ *id_III11 *act_III *date_1666
+
+-*who_leandre
+Monsieur, je viens faire paraître Léandre à vos yeux, et remettre Lucinde en votre pouvoir, nous avons eu dessein de prendre la fuite nous deux, et de nous aller marier ensemble : mais cette entreprise a fait place à un procédé plus honnête : je ne prétends point vous voler votre fille, et ce n'est que de votre main que je veux la recevoir : ce que je vous dirai, Monsieur, c'est que je viens tout à l'heure de recevoir des lettres par où j'apprends que mon oncle est mort, et que je suis héritier de tous ses biens.
+
+-*who_geronte
+Monsieur, votre vertu m'est tout à fait considérable, et je vous donne ma fille, avec la plus grande joie du monde.
+
+-*who_sganarelle
+La médecine l'a échappé belle !
+
+-*who_martine
+Puisque tu ne seras point pendu, rends-moi grâce d'être médecin : car c'est moi qui t'ai procuré cet honneur.
+
+-*who_sganarelle
+Oui, c'est toi qui m'as procuré je ne sais combien de coups de bâton.
+
+-*who_leandre
+L'effet en est trop beau, pour en garder du ressentiment.
+
+-*who_sganarelle
+Soit, je te pardonne ces coups de bâton, en faveur de la dignité où tu m'as élevé : mais prépare-toi désormais à vivre dans un grand respect avec un homme de ma conséquence, et songe que la colère d'un médecin est plus à craindre qu'on ne peut croire.

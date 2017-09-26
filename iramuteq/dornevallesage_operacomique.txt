@@ -1,0 +1,684 @@
+
+
+**** *book_ *id_I01 *act_I *date_1730
+
+-*who_lacomediefrancaise
+Eh quoi ? La Troupe Romaine
+Ne détruira jamais le Comique-Qpéra !
+
+-*who_lacomedieitalienne
+Quoi donc ? L'Italienne,
+Faridondaine,
+Et lonlanla.
+Jamais à la Foraine,
+Faridondaine
+Ne nuira.
+
+-*who_lacomediefrancaise
+Nous n'avons encor pu qu'à demi
+Nous venger de ce fier Ennemi.
+
+-*who_lacomedieitalienne
+Contre lui notre juste furie
+Ne sera donc qu'un inutile effort ?
+À nos yeux il a l'effronterie
+De se venir retrancher dans ce fort.
+
+-*who_lacomediefrancaise
+La belle gloire !
+La belle gloire,
+De l'avoir mis hors de la Foire !
+Tin, terlintin, terlintin, terlintin ;
+Et pour en garder la mémoire,
+D'avoir perdu tant de latin.
+
+-*who_lacomedieitalienne
+Il tire sans cesse sur nous,
+Nous donne souvent du dessous.
+
+-*who_lacomediefrancaise
+Il a, ma foi, fait des sorties,
+Que nous avons bien ressenties.
+Mais contre fortune bon coeur ;
+Il nous faut reprendre vigueur.
+Ne consultons que la colère.
+
+-*who_lacomedieitalienne
+Oui, mais, après mille travaux,
+Nos vieux Soldats sont tous manchots :
+Comment faire ?
+
+-*who_lacomediefrancaise
+Oh !
+Vraiment, je ne serais point en peine si "Brutus et Catilina" me venaient secourir, comme ils me l'ont promis : mais je ne puis compter sur ces grands guerriers...
+Catilina, par sa lenteur,
+Me laisserait réduire en poudre :
+Brutus devient un déserteur,
+Quand il voit qu'il faut en découdre.
+
+-*who_lacomedieitalienne
+Cela est fâcheux pour nous.
+Il nous faudrait pourtant quelque puissant secours,
+
+-*who_lacomediefrancaise
+J'espère que bientôt nous en aurons un qui nous délivrera de nos Ennemis.
+C'est un monstre de ma connaissance à qui j'ai envoyé ordre de se rendre ici.
+
+-*who_lacomedieitalienne
+Ho-ho !
+
+-*who_lacomediefrancaise
+Ce Monstre en malice n'a pas
+Son pareil fur la Terre :
+Il fait cent fois plus de dégâts
+Que la Peste et la Guerre ;
+Il fait d'écus, et d'escalins
+Tous ses repas funestes ;
+Les Veuves et les Orphelins
+Ne mangent que ses restes.
+
+-*who_lacomedieitalienne
+Que me dites-vous !
+
+-*who_lacomediefrancaise
+Du Manceau, comme du Normand,
+Cette Bête est l'organe.
+Elle est des environs de Caen.
+
+-*who_lacomedieitalienne
+Ha ! C'est donc la Chicane !
+
+-*who_lacomediefrancaise
+Vous l'avez deviné.
+Je l'attends...
+Mais, tenez, la voici.
+
+-*who_lacomedieitalienne
+O che bruta figura !
+
+**** *book_ *id_I02 *act_I *date_1730
+
+-*who_lachicane
+En bâche Normandie
+Ton ordre a pénétré,
+O chuch' ma fey !
+Je viens t'offrir, ma Mie,,
+Tout le pouvoir que j'ay.;
+O chuch' ma fey.
+Vér' guieu m'damne !
+Donn' z'au guiéble !
+Qui se prend à tey,
+Se prend à mey,
+O chuch' ma fey !
+
+-*who_lacomediefrancaise
+Sur l'Opéra-Comique,
+Et sur toute sa clique
+Exerce ta fureur ;
+Massacre cette race ;
+Va remplir cette place
+De carnage et d'horreur.
+
+-*who_lachicane
+Venez, l'Envie et la Fraude,
+Allons leur donner l'assaut :
+Cà, çà , çà, qu'on les galvaude
+Vaude, vaude,
+Çà, çà , çà, qu'on les galvaude
+Comme il faut.
+
+**** *book_ *id_I03 *act_I *date_1730
+
+-*who_choeurdeforains
+Ah ! Quels objets horribles !
+Ah ! Quels Monstres terribles !
+
+-*who_lacomedieitalienne
+L'alarme est au quartier.
+
+-*who_mezzetin
+Vole à nous, Cousin l'Opéra ?
+Contre ces vilains : monstres-là
+Tu dois prendre notre défense.
+
+-*who_choeurdeforains
+Y-avance, y-avance, y-avance !
+
+-*who_mezzetin
+Nous payons bien ton assistance.
+
+**** *book_ *id_I04 *act_I *date_1730
+
+-*who_lopera
+Qu'est-ce donc que cela ?
+
+-*who_choeurdeforains
+Bon, le voilà !
+
+-*who_lopera
+Oui, mes Enfants, l'Opéra
+Toujours vous protégera.
+Quoi ? Vous ne voudrez donc jamais
+Laisser mes Amis en paix !
+Je vous écraserai tous.
+Redoutez mes coups,
+Ô Coeurs jaloux !
+Fuyez, fuyez, éloignez- vous,
+Pour éviter mon courroux.
+Et toi, Monstre fatal,
+Affreux Animal,
+Échappé du séjour infernal !
+À nous tu t'adresses bien mal.
+Reçois, Méchant,
+Dans ce moment,
+Ton châtiment.
+Pour ton tourment,
+Je vais promptement
+Te lier fortement,
+T'envoyer aux Enfers,
+Expier dans les fers.
+Tous les maux que par toi les Forains ont soufferts.
+
+-*who_pierrette
+Quelle horreur ! Quel triste ravage !
+Le Monstre redouble sa rage !
+L'Opéra s'expose pour nous !
+Grands Dieux, donnez-lui l'avantage,
+Conduisez son bras et ses coups !
+
+-*who_mezzetin
+Amis, réjouissons-nous :
+L'Opéra , plein de gloire,
+Vient d'abattre sous ses coups
+la Chicane. Chantons tous :
+Victoire ! Victoire ! Victoire !
+
+-*who_choeurdeforains
+Victoire ! Victoire ! Victoire !
+Que du nom d'Opéra retentissent les airs !
+Rien ne peut nous troubler, la Chicane est aux fers.
+
+-*who_lopera
+Enfants, j'ai fini mon ouvrage.
+Je ne puis plus rien pour vos jours :
+N'attendez plus d'autre secours
+Que de votre courage.
+
+**** *book_ *id_I05 *act_I *date_1730
+
+-*who_lacomediefrancaise
+Ciel ! Qui l'aurait pu prévoir !
+
+-*who_lacomedieitalienne
+Ha ! Que la peste le crève,
+L'Opéra qui nous enlève
+Notre plus charmant espoir !
+
+-*who_lacomediefrancaise
+Ne perdons point l'espérance
+De voir les Forains périr.
+Il faut à notre vengeance
+Les immoler, ou mourir.
+
+-*who_lacomedieitalienne
+C'est bien dit.
+Mais conduisons-nous prudemment.
+Ils se rendront sans coup férir,
+Ou je veux y brûler mes livres.
+Pour les prendre fans ,courir ,
+Il faut leur couper les vivres.
+Il faut leur couper
+      les vivres,
+
+**** *book_ *id_I06 *act_I *date_1730
+
+-*who_scaramouche
+Grande nouvelle, Mesdames, grande nouvelle !
+
+-*who_lacomedieitalienne
+Qu'y a-t-il donc, Scaramouche ?
+
+-*who_scaramouche
+Le Malade par complaisance
+À petit pas ici s'avance,
+Escorté d'un joli garçon,
+Appelé Le Bal du Parnasse.
+Tous deux conduisent un Caisson,
+Ils vont ravitailler la Place.
+
+**** *book_ *id_I07 *act_I *date_1730
+
+-*who_lacomediefrancaise
+C'est ce qu'il ne faut pas souffrir.
+
+-*who_lacomedieitalienne
+Quelles troupes leur opposerons-nous ?
+
+-*who_lacomediefrancaise
+Hé, mais, votre Roi de Grenade ,
+Ou bien votre Prince Malade.
+
+-*who_lacomedieitalienne
+Hélas ! Ignorez-vous leur sort ?
+L'un ne vit plus, et l'autre est mort.
+
+-*who_lacomediefrancaise
+Cela est bien triste.
+
+-*who_lacomediefrancaise
+N'avez-vous pas vos Philosophes amoureux ?
+
+-*who_lacomediefrancaise
+Non.
+Mes Philosophes amoureux
+Viennent de partir pour leur Terre ;
+Pour jamais dégoûtés tous deux
+Du rude métier de la Guerre,
+Voulant jouir d'un sort plus doux,
+Ils sont allés planter des choux.
+
+-*who_lacomedieitalienne
+Nous voilà bien embarrassées.
+Attaquons nous-mêmes le convoi.
+Venez, secondez mon ardeur :
+Montrons que nous avons du coeur ;
+Deux hommes nous feront-ils peur ?
+Ma Bonne, allez je vous proteste
+Que nous leur donnerons leur reste.
+
+-*who_lacomediefrancaise
+J'en fuis persuadée.
+Courons au devant de l'ennemi.
+
+**** *book_ *id_I08 *act_I *date_1730
+
+-*who_lacomediefrancaise
+Mais à nous il arrive.
+
+-*who_lacomedieitalienne
+Qui vive ? Qui vive ? Qui vive ?
+
+-*who_lemalade
+Vive le Comique-Opéra.
+
+-*who_lacomediefrancaise
+Messieurs les Guerriers, halte-là !
+Songez à vous défendre.
+Tout Forain est notre ennemi.
+
+-*who_lacomedieitalienne
+Pare moi celle-là :
+Ti, ta, ta !
+Hé ! Tire donc ta lame !
+
+-*who_lacomediefrancaise
+Et toi, résistes-tu ?
+Tu, tu, tu ?
+Je vais te brûler l'âme.
+
+-*who_lacomedieitalienne
+Ah ! Que vous avez de peine !
+Allons donc mon Capitaine !
+Voyez la belle dégaine !
+
+-*who_lebal
+Je vous demande quartier.
+
+-*who_lemalade
+Madame de l'Italie,
+Épargnez-moi, je vous prie !
+Je n'ai qu'un souffle de vie...
+Je suis votre prisonnier.
+
+-*who_lacomedieitalienne
+Hé bien, soit.
+Entrez dans ma tente avec vos vivres.
+
+-*who_lacomediefrancaise
+Oh !
+Pour les vivres, non.
+Qu'on les conduise à notre Camp.
+Nous en avons plus besoin que vous.
+
+**** *book_ *id_I09 *act_I *date_1730
+
+-*who_scaramouche
+La Reine du Barostan,
+Vient ici, tambour battant.
+Les Couplets sont avec elle...
+Et leur dessein est, dit-on,
+D'aller de la Citadelle
+Renforcer la Garnison.
+
+-*who_lacomedieitalienne
+Elle n'a qu'à venir, pendant que nous sommes en train de ferrailler.
+
+-*who_lacomediefrancaise
+Hom !
+Nous allons peut-être trouver à qui parler.
+Les Troupes Orientales m'inquiètent.
+Elles nous ont souvent taillés des croupières...
+Mais quel Personnage vient à nous ?
+
+**** *book_ *id_I10 *act_I *date_1730
+
+-*who_callisthene
+Madame, vous voyez le bouillant Callisthéne.
+En Chevalier Errant ,touché de votre peine,
+Je viens vous présenter le secours de mon bras,
+Qui vous vaudra lui seul des milliers de Soldats.
+Pour louer ma valeur, il faut des hyperboles.
+
+-*who_lacomediefrancaise
+Il faut des actions, et non pas des paroles.
+
+-*who_lacomedieitalienne
+C'est le prendre en effet sur un assez haut ton.
+
+-*who_callisthene
+Vous verrez dès ce jour si je suis un Gascon.
+
+-*who_lacomediefrancaise
+Mon brave Callisthène,
+Lassi,
+Lasson,
+Lasson bredondaine :
+Mon bonheur vous amène
+Fort à propos ici :
+Patari,
+Pataton :
+Fort à propos ici,
+Pour combattre une Reine,
+Lassi,
+Lasson,
+Lasson, bredondaine ;
+Pour combatre une Reine,
+Qui sert notre Ennemi.
+
+-*who_lacomedieitalienne
+Elle vient, ma foi ! Je l'entends.
+Je la vois avec tous ses gens.
+
+-*who_lacomediefrancaise
+Opposez-vous à son passage,
+Et nous montrez votre courage :
+Pan, pan, pan !
+Allez-vous-en
+À la Reine du Barostan.
+
+-*who_lacomedieitalienne
+Voici les Dragons qui viennent,
+Vite sauvons-nous !
+
+**** *book_ *id_I11 *act_I *date_1730
+
+-*who_lareine
+Allons, mes enfants, alerte !
+On arrête ici nos pas,
+L'Ennemi vient. Il court à sa perte.
+Donnons dessus, ne l'épargnons pas.
+
+-*who_callisthene
+Ne vous battez point, ma Reine ,
+Contre un trop fort ennemi :
+Rendez-vous à Callisthène.
+
+-*who_lareine
+Ô turlutaine !
+
+-*who_callisthene
+Il vous fera bon parti.
+
+-*who_lareine
+Turlutu, tantaleri !
+
+-*who_callisthene
+Prenez- y garde.
+Je suis un rude compagnon,
+Et j'ai bien de l'école :
+J'y vais de pointe et d'espadon.
+
+-*who_lareine
+Ha ! Voyez donc.
+Ha ! Voyez donc.
+Comment s'y prend le Drôle !
+Filez, Grivois, filez.
+Gagnez promptement le Fort.
+
+-*who_callisthene
+Je vais écharper votre escorte.
+
+-*who_lareine
+Plaît-il ?
+
+-*who_callisthene
+Je ne souffrirai pas qu'elle entre.
+
+-*who_lareine
+Tout beau, tout beau.
+
+-*who_callisthene
+      Mort ! Tête ! Ventre !
+Je ne souffrirai pas cela.
+
+-*who_lareine
+Menacez, grondez, pestez, criez, jurez,
+Fulminez ; mais restez-en là.
+
+-*who_callisthene
+Quoi ?
+Il sera dit qu'une femme à ma Barbe...
+
+-*who_lareine
+Croyez-moi, faites retraite.
+Il n'y a rien à gagner ici pour vous.
+
+-*who_callisthene
+J'enrage !
+
+-*who_lareine
+Rejoignons nos gens.
+
+**** *book_ *id_I12 *act_I *date_1730
+
+-*who_lejeu
+Attendez, Reine, attendez !
+
+-*who_lareine
+Qu'est-ce que vous demandez ?
+
+-*who_lejeu
+Contre vous, non sans alarmes :
+Tique, tique, taque, et lonlanla !
+je viens éprouver mes amies,
+Je vous demande cela.
+
+-*who_lareine
+Qui êtes-vous ?
+
+-*who_lejeu
+Je suis le Jeu de l'Amour et du Hasard.
+Mais que vois-je !
+Je trouve de la ressemblance,
+Ma Princesse, entre vous et moi.
+
+-*who_lareine
+De vos parents les miens, je crois,
+N'avaient aucune connaissance :
+Cette ressemblance ne part
+Que d'un simple jeu du Hasard.
+
+-*who_lejeu
+Quel honneur pour moi, ma Reine !
+
+-*who_lareine
+N'écoutons que notre haine.
+
+-*who_lejeu
+Je n'en ai plus.
+
+-*who_lareine
+      Battons-nous,
+Mettez-vous vite en défense.
+
+-*who_lejeu
+Non, j'ai trop de répugnance
+À me battre contre vous.
+
+**** *book_ *id_I13 *act_I *date_1730
+
+-*who_lacomedieitalienne
+C'est le fort Samson qui va paraître :
+Vous allez trouver votre Maître.
+
+-*who_lareine
+Sauvons-nous dans la Forteresse.
+
+**** *book_ *id_I14 *act_I *date_1730
+
+-*who_samson
+Où sont-ils,
+Ces Forains maudits ?
+Cette engeance,
+Qui balance
+Les forces de mes Amis ?
+La fureur
+Règne dans mon coeur.
+C'est en vain qu'une Citadelle
+Entre ces murs recèle
+Des gens que glace la peur.
+Par la mort !
+Dans mon fier transport,
+Ma. mâchoire d'âne ,
+Tombant sur leur crâne,
+Enverra
+Chez Pluton ces Faquins-là.
+
+-*who_lacomedieitalienne
+Suivez votre noble audace,
+La victoire vous attend.
+
+-*who_samson
+De mon asinine masse,
+Je m'en vais tout culbutant,
+Le long de ça ,
+Le long de là ,
+Le long de la Place,
+Par derrière et par devant.
+
+-*who_lacomedieitalienne
+Quel abatteur de quilles !
+
+**** *book_ *id_I15 *act_I *date_1730
+
+-*who_larelne
+Ne souffrons pas un tel affront :
+Jetons nous sur Samson.
+
+-*who_lacomedieitalienne
+Songez à les bien recevoir.
+
+-*who_samson
+Je ferai mon devoir.
+
+-*who_choeurdeforains
+Qu'il périsse !
+Qu'il périsse!
+
+-*who_mezzetin
+Nous avons pour notre Chef
+Le courageux Fils d'Ulysse.
+
+-*who_choeur
+Qu'il périsse !
+Qu'il périsse !
+
+-*who_telemaque
+Je suis plus fort que Samson, moi.
+
+-*who_samson
+Oui ; car je n'ai qu'une mâchoire d'âne et tu en as deux.
+Tiens voilà ton estasse.
+Va te faire panser.
+Unissez-vous contre un héros
+Suivi de la Victoire :
+Venez, je vous attends , Marauds ;
+Sentez le poids de ma mâchoire.
+Je vais sur vos malheureux corps,
+Je vais frapper et déstoc et de taille.
+Sous mes invincibles efforts
+Tombez, tombez, vile canaille :
+Pata , pata , pan !
+Pan, pan, pan !
+Pata , pata, pata, pan !
+Tombez, tombez, vile Canaille.
+
+**** *book_ *id_I16 *act_I *date_1730
+
+-*who_samson
+Des Troupes Foraines
+Je suis le vainqueur.
+
+-*who_lacomedieitalienne
+De mes Capitaines
+Vous êtes la fleur.
+
+-*who_samson
+Oui ; mais, ma petite;
+Il faudra, vraiment,
+Payer mon mérite
+Toujours doublement.
+
+-*who_lacomedieitalienne
+Sans doute.
+Vous aurez double solde.
+Il ne m'en coûtera rien, le public est le trésorier de mes troupes.
+
+**** *book_ *id_I17 *act_I *date_1730
+
+-*who_lacomediefrancaise
+Nous venons de Samson célébrer la victoire.
+Nous ne devons donc plus appréhender la Foire ?
+
+-*who_lacomedieitalienne
+De lui j'attends encor un coup plus généreux.
+
+-*who_lacomediefrancaise
+Quel coup ?
+
+-*who_lacomedieitalienne
+      Qu'il vous assomme en ce moment tous dcus,
+
+-*who_callisthene
+Ô Ciel !
+
+-*who_lacomediefrancaise
+Qu'entends-je !
+Pourriez-vous tourner vos armes contre vos Alliés !
+
+-*who_lacomedieitalienne
+Apprenez à me connaître.
+Quelque bonne mine que je vous fasse, je vous regarde comme ma plus grande ennemie.
+
+-*who_lacomediefrancaise
+Il y a de 1a franchise dans cet aveu.
+
+-*who_lacomedieitalienne
+Et de la vérité.
+Je voudrais qu'il n'y eût à Paris que notre troupe.
+
+-*who_samson
+C'est bien dit.
+Comme un soleil suffît au Céleste lambris,
+Un Théâtre suffit pour divertir Paris.
+N'est-ce pas, Seigneur Callisthène ?
+
+-*who_lacomedieitalienne
+Ne perdons point de temps, expédiez les l'un et l'autre.
+
+-*who_lacomediefrancaise
+La Traîtresse !
+
+-*who_callisthene
+C'en est fait, je me meurs. Âme double et sans foi !
+Bientôt ton imprimeur me vengera de toi.

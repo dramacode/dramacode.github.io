@@ -1,0 +1,1407 @@
+
+
+**** *book_ *id_I01 *act_I *date_1779
+
+-*who_franville
+Parbleu !
+C'est une cruelle chose qu'une entreprise nouvelle, où diable avais-je l'esprit quand j'ai imaginé de me mettre à la tête d'un Spectacle !
+Mon Théâtre est construit à la vérité, mes décorations sont prêtes, c'est bien quelque chose ; mes pièces sont commandées...
+Il ne me manque plus que des acteurs pour les jouer.
+Voici vingt lettres de sujets qui se proposent, mais la peur que j'ai de faire de mauvaises acquisitions m'a retenu jusqu'à présent ; il faut pourtant finir.
+Voyons, récapitulons un peu ces lettres, et au risque d'être trompé, répondons à quelques-unes.
+Relisons d'abord celle-ci.
+" Monsieur, mes pleurs qui tombent dans mon cornet ont rendu mon encre si blanche, que vous aurez peine à lire ma lettre. "
+Voilà un beau début !
+Excusez une malheureuse fille, la voix me manque et la main me tremble ; et si vous pouviez me voir dans l'état où un infidèle m'a réduite...
+Ah !
+C'est un beau désespoir !
+Oui, voilà une vocation bien favorable pour la Comédie !
+Voyons un peu l'emploi que la Demoiselle compte prendre.
+Les amoureuses apparemment.
+" Hum !
+Hum !
+J'ai dix-huit ans."
+C'est le bon âge.
+"Taille avantageuse."
+C'est ce qu'il faut.
+"Figure fort revenante, surtout lorsque je suis de bonne humeur."
+Apostille intéressante : ou aura soin d'égaler la Demoiselle.
+"Je jouerai les ingénuités, les Agnès."
+Ah !
+Madame l'ingénue !
+Il y a conscience : c'est s'y prendre un peu tard !...
+Serviteur à votre ingénuité !
+Voilà pourtant de ces Agnès comme on en rencontre avec connaissance de cause.
+
+**** *book_ *id_I02 *act_I *date_1779
+
+-*who_lesoufleur
+Monsieur, je suis bien votre serviteur, j'ai l'honneur de vous saluer, je vous souhaite bien le bonjour, Monsieur.
+
+-*who_franville
+Et moi pareillement, Monsieur, qu'y a-t-il pour votre service, Monsieur?
+
+-*who_lesoufleur
+Monsieur, je n'ai qu'un mot à vous dire, Monsieur, qu'un mot...
+Si c'était un effet de votre complaisance de vouloir bien m'interrompre sans m'écouter, ça sera fait toute de suite ; Monsieur, ça sera fait tout de suite, je n'ai qu'un mot.
+
+-*who_franville
+Eh bien, Monsieur !
+Tout de suite, dites-le ce mot, Monsieur, dites-le.
+C'est un original dont il faut que je m'amuse.
+
+-*who_lesoufleur
+Monsieur, j'ai entendu dire que...
+
+-*who_franville
+Est-il possible, Monsieur ?
+Comment, vous avez entendu dire que...
+
+-*who_lesoufleur
+Oui, Monsieur, c'est par voix indirecte ; il m'est revenu que...
+
+-*who_franville
+Comment, Monsieur, cela vous est revenu !
+
+-*who_lesoufleur
+Assurément, Monsieur, je n'en impose pas, il court un bruit que...
+
+-*who_franville
+Comment donc ; mais ce bruit là est inquiétant au moins !...
+Et vous dites, Monsieur, que...
+
+-*who_lesoufleur
+Eh !
+Bien ; mais, Monsieur, je dis qu'on dit que vous avez dit que vous faisiez une troupe de Comédie.
+
+-*who_franville
+On dit cela, Monsieur ?
+
+-*who_lesoufleur
+Oui, Monsieur...
+Et comme je me trouve sans place, moi, pour le moment, ce qui ne prouve rien, voyez-vous, parce que tous les jours vous sentez bien, on est dans le cas de...
+
+-*who_franville
+Assurément.
+
+-*who_lesoufleur
+Eh bien, Monsieur je viens vous proposer mes talents.
+
+-*who_franville
+Vos talents, Monsieur !
+Cela n'est pas de refus ; dans quel genre sont-ils ?
+
+-*who_lesoufleur
+Mais, Monsieur, en tout genre ; pour ce qui est en fait de Tragédie, de Comédie, et même d'Opera, Monsieur.
+
+-*who_franville
+Comment, Monsieur, est-ce que vous chantez ?
+
+-*who_lesoufleur
+Non, Monsieur ; au contraire je ne chante pas.
+Je chanterais bien, si je voulais ; mais je vous conviendrai d'une chose, je n'ai pas d'oreille.
+
+-*who_franville
+Pas d'oreille !
+Ah !
+Cela vous plaît à dire.
+
+-*who_lesoufleur
+Oh !
+Monsieur ; c'est une politesse de votre part ; mais je ne veux pas vous tromper.
+
+-*who_franville
+C'est bien honnête.
+Monsieur est pour les Tragédies, apparemment.
+Monsieur déclame.
+
+-*who_lesoufleur
+Déclame : non.
+Je l'aimerais assez, la Tragédie ; mais je vous avouerai encore une autre chose, j'ai la voix fausse dans le haut.
+
+-*who_franville
+Ah !
+C'est dommage...
+Vous êtes obligé comme cela de vous borner à la Comédie.
+
+-*who_lesoufleur
+La Comédie, moi !
+Ah !
+Bien oui !
+Belle bagatelle : je m'amuse bien à cela, ma foi.
+
+-*who_franville
+Comment ?
+Vous ne chantez, ni ne déclamez, ni ne jouez la Comédie !
+Que diable faites-vous donc dans les pièces ?
+
+-*who_lesoufleur
+Ah !
+Ce que j'y fais ?
+Je les souffle, Monsieur, je les soufFle.
+
+-*who_franville
+Ah !
+Vous les soufflez.
+
+-*who_lesoufleur
+Oui, Monsieur, je les souffle ; et bien même, je m'en vante encor, et on ne peut pas m'ôter ça, voyez vous ?
+
+-*who_franville
+Je vous en fais mon compliment, Monsieur ; vous pouvez ne m'être pas inutile ; mais je serais charmé de vous connaître un peu.
+
+-*who_lesoufleur
+Me connaître !
+Ah parbleu, c'est bien aisé.
+Il n'y a pas grand chose à vous dire pour ça.
+Je ne vous parlerai pas de ma taille.
+Vous ne la voyez pas ; je suis tout enveloppé dans ce manteau...
+Mais qu'est-ce que cela vous fait, que ma taille soit élégante ou non, avantageuse ou raccourcie, tout ça est égal, pourvu que j'atteigne à la trappe ; c'est tout ce qu'il faut, n'est-il pas vrai ?
+
+-*who_franville
+Oui, c'est la mesure tout juste.
+
+-*who_lesoufleur
+Pour mes jambes, je n'ai rien à vous en dire non plus ; que vous importe en effet, qu'elles soient droites ou cagneuses, arquées ou bancales.
+Toute la besogne d'un souffleur se fait assis.
+
+-*who_franville
+Vous avez raison.
+
+-*who_lesoufleur
+Je ne sais pas, Monsieur, si vous trouvez ma figure bien revenante ?
+
+-*who_franville
+Mais elle n'est pas mal.
+
+-*who_lesoufleur
+Eh bien, tout ça ne fait encore rien à la chose.
+Quand je serai là, moi.
+Le Public ne verra mon visage que par derrière.
+
+-*who_franville
+Il n'y perdra pas.
+
+-*who_lesoufleur
+Toute l'explication que j'ai à vous donner se réduit donc à trois points.
+L'intelligence, l'oeil et la voix...
+Pour l'intelligence, la modestie m'empêche de vous dire là-dessus tout ce qui en est.
+J'ai un principe moi ; c'est qu'il ne faut jamais se vanter en face de soi-même, sans quoi faut rougir ; et il y a des gens que ça embarrasse...
+Mais pour le regard, ah !
+Personne ne l'a plus vif que moi pour lire d'un coup d'oeil deux vers à la fois.
+Et de mes deux yeux, tandis que l'un ne perd pas de vue le livre, l'autre continuellement fixé sur l'acteur, observe son maintien, devine son embarras, et prévient son silence.
+
+-*who_franville
+Le beau portait !
+Il me semble voir un colimaçon à la découverte, un oeil à droite et l'autre à gauche.
+
+-*who_lesoufleur
+Pour la voix, comme je vous dis, je ne l'ai pas imposante dans le haut ; mais elle est moelleuse dans le médium, et par le mécanisme adroit de l'articulation, faisant une porte-voix de mes lèvres, personne ne parle bas plus intelligiblement que moi.
+Souvent même dans ces moments où la scène se passe au fond du Théâtre, l'Acteur emporté par la passion, ou trop éloigné de moi pour m'entendre, a reconnu son vers au seul mouvement de mes lèvres.
+
+-*who_franville
+Tubleu !
+C'est tirer le talent à l'alambic.
+
+-*who_lesoufleur
+Il y aurait encor un détail à vous faire sur la main.
+Le souffleur, ordinairement, copie les répertoires ; est-il vrai ?
+Je ne vous dis rien de mon écriture ; mais tenez, en voilà un échantillon ; vous avez des yeux, je m'en rapporte.
+Vous ne voyez que de la commune au moins, l'écriture de tous les jours, mais nous avons la moulée pour les grandes occasions, et le trait pour les coups d'éclat ; à présent, Monsieur, décidez-vous.
+
+-*who_franville
+Monsieur, si vos talents répondent à l'idée que vous m'en donnez, je serai charmé de vous avoir ; mais permettez-moi de vous essayer auparavant : sitôt que ma troupe sera assemblée nous commencerons des répétitions, et là vous serez à même de vous faire connaître.
+Voici un billet d'entrée avec lequel les portes du théâtre vous seront ouvertes.
+
+-*who_lesoufleur
+Eh !
+Bien ; je ne manquerai pas de m'y présenter, en attendant, je suis bien votre serviteur, Monsieur ; j'ai l'honneur de vous saluer, je vous souhaite bien le bonjour, Monsieur.
+
+**** *book_ *id_I03 *act_I *date_1779
+
+-*who_franville
+Voilà un plaisant Monsieur !
+S'il souffle comme il parle, cela doit être intéressant ; voyons mes autres lettres.
+
+**** *book_ *id_I04 *act_I *date_1779
+
+-*who_levalet
+Voyons s'il me reconnaîtra...
+Ah !
+Monsieur le Directeur, vous voulez essayer les gens !..
+Oh bien, je vais de mon côté essayer un peu votre patience.
+
+-*who_franville
+Qui est là ?
+
+-*who_levalet
+Serfiteur, Monsir.
+
+-*who_franville
+Que demandez-vous, l'ami ?
+
+-*who_levalet
+Monsir, l'y être un petit lettre.
+
+-*who_franville
+Donnez.
+" Monsieur, avec l'envie que j'ai de jouer la Comédie, si la nature m'avait gratifié de six pieds de hauteur et de poumons à la Romaine, je me serais jeté à corps perdu dans les Tyrans ou dans les Héros, et je choisirais un autre champ que votre Théâtre pour développer mes talents, mais je suis à peu près de la taille d'un bel épi de bled de Turquie, et ma tige n'a guère que cinq pieds au-dessus de la terre, cela me détermine pour les rôles comiques, et je vous offre ma médiocrité ; j'ai d'ailleurs un assortiment de bonne volonté, d'intelligence et de mémoire ; avec un fond de gaieté et une extrême envie de rire aux dépens de qui il appartiendra.
+Comme je sais que vous n'aimez pas à acheter chat en poche, je vous préviens que je vous mettrai à même de m'essayer avant de conclure, et si ma petite provision peut vous convenir, nous passerons un bail ensemble.
+J'ai l'honneur, etc."
+Du moins il a de la conscience celui-là, je suis curieux de connaître l'écrivain.
+Mon ami, dites à votre maître que s'il veut me faire le plaisir de me venir voir, nous nous arrangerons ensemble.
+
+-*who_franville
+Entendez-vous, mon enfant ?
+
+-*who_levalet
+Monsir, il parle pour moi ?
+
+-*who_franville
+Oui, je vous prie de dire à celui qui vous envoie qu'il vienne me voir...
+Mais dites-moi que fait-il ce Monsieur là ?
+
+-*who_levalet
+Monsir, javre apporté un lettre, chattendre un réponse.
+
+-*who_franville
+Eh !
+Bien, je vous l'ai faite.
+
+-*who_levalet
+Monsir, ché temante pardone, che n'ententre pas.
+
+-*who_franville
+Je vous demande à présent qui est celui qui vous envoie ; ce qu'il fait ?
+
+-*who_levalet
+Monsir, excusez-moi, ché n'ententre pas.
+
+-*who_franville
+Vous n'entendez-pas.
+Cela est pourtant clair ; je ne saurais m'expliquer mieux...
+Je vous demande quel est son état, sa profession.
+
+-*who_levalet
+É‰crire, Monsir, écrire.
+
+-*who_franville
+Ah !
+Il écrit...
+Est-ce un homme de lettres ?
+Est-ce un commis, un secrétaire.
+
+-*who_levalet
+É‰crire, Monsir, écrire.
+
+-*who_franville
+Eh non, ce n'est plus cela que je vous demande ;
+Il ne comprend rien, j'aurai plutôt fait de le renvoyer.
+Allez dire à votre maître qu'il vienne me voir, nous causerons ensemble.
+
+-*who_levalet
+Mais, Monsir, est-ce que fous n'ententre pas aussi, chattendre ein réponse depuis trois heures.
+
+-*who_franville
+Mais, morbleu, est-ce que vous êtes ivre ?
+Voilà vingt fois que je vous la répète.
+
+-*who_levalet
+É‰crire fous, Monsir.
+
+-*who_franville
+Mais, je n'ai rien à lui écrire, dites-lui cela.
+Ah !
+Parbleu celui-là est réjouissant !
+Vous êtes familier l'ami.
+
+-*who_levalet
+É‰crire fous, encore ein coup, écrire, ché n'entendre pas.
+
+-*who_franville
+Où diable a-t-on déterré un pareil commissionnaire ?
+Comment vous ne comprenez-pas ce que je vous dis ?
+
+-*who_levalet
+Tarteifle !
+Fous l'y être fou donc ?
+Quand je dire ché n'ententre pas ; ententre-fous, ou n'ententre pas encore, écrire.
+
+-*who_franville
+Peste soit de l'animal !
+Je crois, Dieu me pardonne, qu'il est sourd.
+Est-ce que vous êtes sourd ?
+
+-*who_levalet
+Ah gouth !
+Ah gouth !
+La sourd.
+
+-*who_franville
+Le diable l'emporte !
+Il y a deux heures que je me casse la tête là bien à propos !
+Écrire, je comprends actuellement...
+Attendez un instant.
+
+-*who_levalet
+Ya, ya, écrire fous, écrire.
+
+-*who_franville
+Allez, Monsieur écrire, allez.
+
+-*who_levalet
+Monsir.
+
+-*who_franville
+Eh bien !
+Quoi ?
+Que faut-il ?
+Encore écrire?
+
+-*who_levalet
+Fous faire la Comédie.
+
+-*who_franville
+Que veut-il dire ?
+
+-*who_levalet
+Ché aussi capable pour faire.
+Quand fous il donne moi beaucoup l'archent, ché vas chouer pon, beaucoup, pon.
+
+-*who_franville
+Comment !
+Mais je crois qu'il parle de jouer la comédie.
+
+-*who_levalet
+É‰crire fous, ché n'entens pas.
+
+-*who_franville
+Va-t-en au diable avec tes écritures.
+
+-*who_levalet
+Monsir, je sonne fort pien du cor.
+
+-*who_franville
+Va-t-en, va-t-en.
+
+-*who_levalet
+Je connais fort peaucoup la flÉ»te.
+
+-*who_franville
+Eh morbleu, t'en iras-tu ?
+
+-*who_levalet
+É‰crire, Monsir, écrire.
+
+-*who_franville
+Oui, oui, je vais t'écrire la porte sur le nez.
+
+**** *book_ *id_I05 *act_I *date_1779
+
+-*who_franville
+Parbleu, voila une belle acquisition à faire, et une jolie conversation que je viens d'avoir !
+Mais je ne reviens pas de ma simplicité.
+Voilà deux heures que je ne m'aperçois pas que cet animal est sourd, et je veux lui faire entendre raison ; si je juge du Maître par le Valet, cela ne m'en donne pas grande idée.
+
+**** *book_ *id_I06 *act_I *date_1779
+
+-*who_leandre
+Monsieur, c'est pour avoir l'honneur de vous souhaiter le bonjour.
+
+-*who_franville
+Je vous salue, Monsieur, peut-on savoir ce qui vous amène.
+
+-*who_leandre
+Monsieur, je suis tun jeune homme dont auquel vous pouvez faire tout ce qui dépendra de moi.
+
+-*who_franville
+Je ne comprends pas trop ce que vous me faites l'honneur de me dire.
+
+-*who_leandre
+Je vais tentrer zavec vous ten pourparler, Monsieur.
+J'ai t'eu une inducation proportionnée ta ma naissance, qu'est très honnête, étant le fils d'un père qu'est zun bourgeois t'honoré dans Paris ; mais, comme vous savez, Monsieur, un jeune homme ne peut pas demeurer comme un cul de plomb zen une boutique, c'est ce qui fait que je me suis t'informé de vous, comme par lequel nous pouvons faire un arrangement zensemble.
+
+-*who_franville
+Mais quelle serait votre intention ?
+
+-*who_leandre
+Monsieur, mon intention ça dépend de vous.
+Je n'ai pas d'intention moi...
+Quand je dis je n'en ai pas, c'est-à-dire, si fait.
+J'en ai bien tune, mais elle est subordonnée za la vôtre.
+
+-*who_franville
+Est ce que vous auriez envie de jouer la Comédie ?
+
+-*who_leandre
+Monsieur, c'est positivement zen cette qualité que je viens ta vous.
+
+-*who_franville
+Monsieur, la Comédie est un art bien difficile.
+
+-*who_leandre
+Je n'en ignore pas, la Comédie c'est une chose très-difficile.
+Quand je dis difficile, c'est-à-dire, il n'y a rien de si aisé, il ne faut que de l'interligence pour ça.
+
+-*who_franville
+De l'interligence, oh !
+Il me paraît que vous n'en manquez pas ; avez-vous déjà joué quelque fois ?
+
+-*who_leandre
+Non, Monsieur, jamais...
+Quand je dis jamais ; c'est-à-dire, si fait...
+Je me suis essayé devant zune glace qui est dans la chambre de mon père.
+
+-*who_franville
+La peste, vous êtes fort avancé !
+Vous savez sans doute des rôles.
+
+-*who_leandre
+Oh !
+Pour ça, oui, beaucoup...
+Quand je dis beaucoup, c'est-à-dire, non, je n'en sais pas, mais c'est égal, il ne faut que de la mémoire pour ça.
+
+-*who_franville
+Oh bien !
+Moi, je vous conseille de ne pas prendre cet état là.
+
+-*who_leandre
+À cause de pourquoi t'est-ce ?
+
+-*who_franville
+Mais pour bien des raisons.
+
+-*who_leandre
+Encore, dites-moi zen tune, Monsieur.
+
+-*who_franville
+Eh !
+Mais, par exemple, en voilà tune très forte.
+
+-*who_leandre
+Zen quoi donc, Monsieur ?
+
+-*who_franville
+Eh !
+Parbleu, zen tout...
+La première chose que l'on exige au théâtre, c'est de parler correctement le Français et franchement vous me paraissez avoir un certain accent.
+
+-*who_leandre
+C'est zun rien ça, Monsieur, je m'en vas vous dire d'où c'que ç'a provient ; j'ai tun peu fréquenté sur le Boulevard du Temple, où ce que j'ai entendu jouer la parade avec attention, et j'en ai contracté zune habitude d'appuyer p't'être un peu trop d'sus la prononciation.
+Mais avec un peu de négligence, Monsieur, je me remettrai zau niveau de tout le monde.
+
+-*who_franville
+C'est plus difficile que vous ne pensez, d'ailleurs vous ne savez aucune rôle, et vous ne pourriez pas m'être utile.
+
+-*who_leandre
+Monsieur, pardon, excuse.
+Quand je dis je ne sais taucun rôle, c'est-à-dire si fait, j'en sais bien, mais ce sont des petites comédies toutes entières, et si vous voulez je vas tavoir l'honneur de vous en jouer tune à moi tout seul.
+
+-*who_franville
+À vous tout seul !
+Cela doit être curieux.
+
+-*who_leandre
+Monsieur, je m'en fais fort.
+
+-*who_franville
+Il n'est qu'onze heures ; je n'ai rien à faire jusqu'à midi, amusons-nous de son extravagance.
+Allons, Monsieur, je vous écoute.
+
+-*who_leandre
+Eh bien !
+Monsieur, voilà que je m'y mets, zil est bon de vous figurer qu'il y a tune prison dessus l'théâtre, voilà justement zune table et des chaises...
+Je suis tun Militaire dont auquel sa maîtresse lui a faite zune infidélité ; au fort de ma colère j'ai désalté : la Marichaussée m'a rattrapé, je suis tenfermé.
+Je commence la pièce par un monologue à moi tout seul.
+C'est moi qui parle.
+Enfin je suis ten cage.
+Ici, je prends une grosse voix pour faire le soldat, parce que c'est le zéros de la pièce.
+
+-*who_franville
+C'est bien pensé.
+
+-*who_leandre
+Enfin je suis ten cage ! Ô perfide maîtresse !
+C'est pour votre inutile et cruelle Duchesse
+Que votre amant, bientôt, perdra le goÉ»t du pain !
+À présent, Monsieur, la fille entre dans la prison.
+Le monologue devient à deux.
+Elle s'écrie.
+Ah ! Cher zamant, hélas !
+Vous voyez, Monsieur, que je prends ma voix dans le clair.
+C'est pour imiter la fille.
+
+-*who_franville
+C'est fort bien, Monsieur.
+
+-*who_leandre
+Le Soldat lui répond d'un air sévère.
+Que cherchez-vous tici ?
+Venez-vous près de moi faire le bon apôtre ?
+Allez, jamais mon oeil ne reverra le vôtre.
+La fille lui dit zà ça.
+Mon ami, c'est mon ch'pere.
+Mais le Soldat lui répond tout net.
+Votre ch'pere est un sot, et vous tune... Suffit.
+La fille qui commence à se piquer, lui dit.
+Mais calmez-vous tun peu,
+Je ne suis point mariée, et ce n'était qu'un jeu.
+Le soldat tombe des nues.
+Qu'un jeu ? Ah ! Malheureux !
+Il se jette la tête et les deux mains sur la table en appuyant bien fort, pus il fait du bruit en cognant, et pus le coup de théâtre est frappant.
+
+-*who_franville
+Je le crois.
+
+-*who_leandre
+Ici, Monsieur, le père entre, le monologue continue toujours, mais il devient à trois personnes.
+
+-*who_franville
+Fort bien.
+
+-*who_leandre
+Je prends une voix cassée pour le père, parce que c'est z'un invalide...
+Mon ami, pour te voir j'ai dans le voisinage
+Visith les bouchons, couru tout le village.
+Enfin je viens tici sans trop savoir pourquoi ;
+Mais je suis enchanté d'abord que je t'y vois.
+Pas du tout, Monsieur, v'là que pour découvrir le pot au noir, la fille qui était sortie, rentre en criant :
+Ah ! ciel ! Tout est pérdu ! Papa, c'est pour quatre heures.
+Le père demande.
+Eh quoi, qu'a-t-il donc fait ?
+La tante qui est venu là aussi, répond :
+C'est qu'il a désalté.
+La père qu'est pus suté qu'eux tous, dit:
+Si j'avais le nez fin, je m'en serais douté.
+Sa tante qui fond en larmes, lui dit:
+Pour la dernière fois, embrasse donc ta tante,
+Mon enfant (Elle tombe sur lui.)
+Le Père.- Mon ami. (Il tombe sur lui.)
+La Fille.- Cher zamant. (Elle tombe sur lui.)
+Le Soldat.- Chere zamante. (Iltombe sur elle.)
+Et les voilà tous quatre en attitude dans les bras des uns des autres, ce qui forme un tableau superbe; alors les grenadiers paraissent, et l'on entend, poun, poun, poun.
+
+-*who_franville
+Qu'est-ce que cela ?
+
+-*who_leandre
+Cà, Monsieur ?
+C'est l'intérêt de la pièce !
+C'est le tambour.
+Poun.
+Au second coup, l'amant revient à lui, et dit za la fille :
+Adieu, séparons nous, car voici le moment
+Qui doit de cette pièce hâter le dénouement;
+Reçois cette embrassade, et s'il faut que je meure,
+Crois-moi, mourir n'est rien, c'est notre dernière heure.
+Là-dessus la fille s'évanouit comme de raison, ainsi que tout le monde ; alors les grenadiers emmènent le soldat, il monte l'escalier de bois en se retournant trois fois, joignant les mains au ciel, comme pour dire, tout est dit.
+Il s'en va avec un grand courage...
+Sitôt qu'il est parti, l'invalide se relève, et dit aux autres :
+Désévanouissons-nous et courons sur la place,
+Car je viens de rêver qu'il obtiendrait sa grâce.
+Et ils partent.
+Tout de suite la toile se lève ; le soldat vient d'avoir sa grâce ; il est entouré du peuple ; la fille les pousse à droite et à gauche ; où est-il, où sont-ils ?
+Ah ! Rangez-vous, rendez-moi mon amant,
+Que je l'embrasse en cet heureux moment.
+Ici, Monsieur, v'là le coup de théâtre, le soldat la reçoit dans ses bras, et leur dit à tous avec dignité.
+Vous m'aviez fait zun tour qui passait raillerie,
+Et moi j'avais mal pris votre plaisanterie,
+Ça prouve, mes enfants, que dans ce jeu fatal
+Nous avons t'eu tous plus de peur que de mal.
+Voilà, Monsieur, de quoi zy retourne, et la pièce est finie.
+
+-*who_franville
+Monsieur, je vous fais mon compliment, et voici une scène qui me donne de vous la meilleure idée.
+
+-*who_leandre
+Eh ben, Monsieur, nous n'avons qu'à faire un petit arrangement zensemble.
+
+-*who_franville
+Je veux m'en amuser encore.
+Monsieur, je ne puis rien conclure pour le moment.
+J'attends mon associé, et si vous voulez me faire le plaisir de rester à dîner avec nous, nous parlerons d'affaires ; il sera charmé de vous entendre.
+
+-*who_leandre
+Eh !
+Ben, Monsieur, avec plaisir, j'ai z'une petite affaire ici près, j'y vas faire un petit tour et je reviendrai.
+
+-*who_franville
+Oh !
+Non, je vous en prie, ne sortez pas, nous allons nous mettre à table ; en attendant, voici un cabinet qui donne sur la rue, entrez-y pour vous dissiper ; si vous voulez lire, il y a des comédies.
+
+-*who_leandre
+Ah !
+Volontiers, Monsieur : je suis taffectionné à la lecture.
+
+-*who_franville
+La bibliothèque est à droite ; voyez-vous ?
+
+-*who_leandre
+Oui, Monsieur, j'ai tun livre en main.
+
+-*who_franville
+Si vous voulez répéter quelques scènes, il y a une glace aussi.
+
+-*who_leandre
+Oui, Monsieur, j'en ai déjà t'eu l'intention.
+
+-*who_franville
+Si cependant vous aviez quelques besoins dehors, il y a une porte qui s'ouvre sur la rue.
+
+-*who_leandre
+Je vous remercie, Monsieur : me voilà t'avec un livre, et je vous prie de ne plus penser z'à moi.
+
+-*who_franville
+Bon, bon, amusez-vous...
+Nous allons bien rire à ses dépens...
+Mais j'entends quelqu'un, c'est sans doute mon associé.
+Il ne saurait venir plus à propos.
+
+**** *book_ *id_I07 *act_I *date_1779
+
+-*who_pointu
+Votre serviteur de tout mon coeur.
+
+-*who_franville
+Quelle diable de visite est cela ?
+Que voulez-vous, Monsieur ?
+
+-*who_pointu
+Mon cher Monsieur, vous voyez un homme accablé d'affliction.
+
+-*who_franville
+Il y paraît.
+
+-*who_pointu
+Il m'est impossible de porter.
+
+-*who_franville
+Tout le vin qu'il a bu.
+
+-*who_pointu
+De porter le quart de mes chagrins...
+J'ai perdu...
+
+-*who_franville
+La raison.
+
+-*who_pointu
+J'ai perdu la gaieté... et je succombe sous le poids de...
+
+-*who_franville
+Sous le poids de l'ivrognerie.
+
+-*who_pointu
+Sous le poids de ma douleur.
+
+-*who_franville
+Qu'avez-vous donc, Monsieur ?
+
+-*who_pointu
+Monsieur, j'ai des chagrins domestiques.
+J'ai une servante qui me vole.
+
+-*who_franville
+Il faut la mettre à la porte.
+
+-*who_pointu
+Ce n'est rien que cela, Monsieur ; j'ai une femme qui est mon tourment ; quand elle était jeune elle me faisait...
+Elle me faisait enrager, mais j'en venais à bout parce que j'étais jeune aussi ; a présent qu'elle est vieille, elle ne peut plus...
+Elle ne peut plus me souffrir elle me reproche tout.
+Je n'ai qu'une consolation, c'est de boire un petit coup de temps en temps, avec modération ; cependant il n'y paraît jamais.
+Eh bien !
+Monsieur, je ne sais pas comment diable elle fait son compte.
+Je ne peux pas avaler un verre de vin qu'elle ne s'en aperçoive aussitôt.
+
+-*who_franville
+Elle est donc bien maligne ?
+
+-*who_pointu
+Oh !
+C'est un démon...
+Tenez, Monsieur, par exemple, aujourd'hui, on ne se douterait pas que j'aie bu.
+Eh bien !
+Croiriez vous, je n'ose pas rentrer à la maison.
+Sitôt qu'elle va me sentir seulement, elle va me faire un sabbat d'enragé, et cependant je n'ai pas l'haleine chargée du tout...
+Tenez, voyez plutôt.
+
+-*who_franville
+Pouah !
+Retirez vous donc, Monsieur.
+
+-*who_pointu
+Non, c'est pour vous faire sentir...
+
+-*who_franville
+Oh !
+Parbleu, je le sens de reste.
+
+-*who_pointu
+Ce n'est rien que tout cela, Monsieur, ça n'attaque que le tempérament ça...
+Mais ce que je vas vous dire attaque l'honneur.
+
+-*who_franville
+Ceci devient sérieux, Monsieur, il y a de l'indiscrétion à conter ainsi des affaires de cette conséquence à des gens qu'on ne connaît pas, et je vous prie de me dispenser de vous écouter.
+
+-*who_pointu
+Pardonnez-moi, Monsieur, la chose peut vous regarder, et je vous prie en grâce de m'entendre.
+
+-*who_franville
+Eh bien !
+Monsieur, parlez donc.
+
+-*who_pointu
+Primo d'abord, Monsieur, il vous faut savoir que je suis Bourgeois de Paris, établi depuis trente ans à la Butte Saint-Roch ; j'ai passé tous les grades de ma profession, et maintenant je suis Syndic de ma Communauté ; voilà qui met une famille dans une belle passe.
+Eh bien !
+Monsieur, j'ai un fils qui est un mauvais sujet, un vaurien, Monsieur.
+
+-*who_franville
+Voilà qui est fâcheux.
+
+-*who_pointu
+Croiriez-vous, Monsieur, que ce misérable-là, qui est en état d'aller à tout, n'a jamais voulu apprendre de métier.
+Il s'est mis dans la tête d'étudier pour jouer la parade ; il va par les rues avec un habit tout galonné, et il se fait appeler le beau Léandre, plutôt que de se nommer comme son père Eustache Pointu.
+Çà ne crie-t-il pas vengeance?
+
+-*who_franville
+Il a tort.
+Comment, Monsieur, vous êtes le père d'un jeune-homme qui porte un habit...
+
+-*who_pointu
+Oui, mon cher Monsieur, je suis son propre père.
+
+-*who_franville
+Effectivement, je vous regardais, et je vous trouvais un air de ressemblance.
+
+-*who_pointu
+C'est bien naturel...
+Tenez, mon cher ami, dans tout ça je vous regarde comme mon sauveur.
+J'ai dans la tête un projet pour punir ce coquin-là, pour me venger de sa mère, et pour me contenter moi sans qu'on ait rien à me reprocher.
+
+-*who_franville
+Eh !
+Comment cela ?
+
+-*who_pointu
+Mon ami, mon fils veut se déshonorer, je l'abandonne à son malheureux sort ; ma femme me dit tous les jours de quitter la maison, je n'y remettrai pas le pied.
+Vous êtes Directeur de Comédie, vous ?
+Eh bien !
+Vous n'avez qu'à m'engager.
+
+-*who_franville
+Vous engager !
+Ah !
+Parbleu, en voilà une bonne !
+Pour jouer les ivrognes donc ?
+
+-*who_pointu
+Pourquoi pas ?
+C'est un excellent marché pour vous.
+J'ai du naturel d'abord ; je n'aurai pas d'étude à faire, et je vous promets d'être toujours dans le caractère de mon rôle, qu'en dites-vous, mon cher ami, répondez-moi.
+
+-*who_franville
+Il me vient une idée.
+Je veux le mettre tête à tête avec son fils, et jouir un peu de leur surprise.
+
+-*who_pointu
+Eh bien !
+Mon ami, répondez donc.
+
+-*who_franville
+Monsieur, nous pourrons nous accorder, mais j'attends ici quelqu'un, faites-moi l'amitié de rester à dîner avec moi.
+Passez un instant dans ce cabinet, je vais vous y rejoindre ; et nous parlerons à notre aise.
+
+-*who_pointu
+Eh bien !
+Mon ami, ne vous gênez-pas.
+Je vais vous attendre.
+
+-*who_franville
+Il ne s'attend pas à la rencontre : écoutons.
+
+**** *book_ *id_I08 *act_I *date_1779
+
+-*who_endedans
+Eh !
+Quoi, c'est vous, mon père...
+Comment, coquin, te voilà ici...
+Est-ce que vous connaissez Monsieur le Directeur ?...
+Misérable !
+N'as tu pas de honte ?...
+Mais mon pere...
+Tais-toi, tu es un gueux, un mauvais sujet.
+
+-*who_franville
+Je rirais bien s'il allait lui donner une petite correction paternelle.
+
+-*who_endedans
+Mais, mon père, quand zon a tune inclination...
+Coquin, si tu me parles encore de cela je te déshérite.
+
+-*who_franville
+Ah !
+Parbleu, je serais curieux de savoir lequel est le plus sou des deux.
+Si le fils savait la proposition que le père m'a faite, cela lui fournirait la réplique...
+Si mon Associé pouvait venir !
+Mais, quelle est cette Dame ?
+
+**** *book_ *id_I09 *act_I *date_1779
+
+-*who_franville
+Madame, puis-je vous être bon à quelque chose ?
+
+-*who_madamepointu
+Né, né, né, n'êtes-vous pas Mon, monsieur F. F. Fr.
+Franville ?
+
+-*who_franville
+Franville, Madame, pour vous obéir.
+
+-*who_madamepointu
+Fr, Fr, Franville, oui, ju, ju, justement ; j'en, j'en, j'embrasse vos genoux.
+
+-*who_franville
+Eh !
+Madame, que faites-vous?
+
+-*who_madamepointu
+Je me fi, fie à vos bontés.
+
+-*who_franville
+Que voulez-vous, Madame?
+
+-*who_madamepointu
+Je veux vous faire pi, pi, pi, pitié.
+
+-*who_franville
+Mais, levez-vous, Madame, et parlez.
+
+-*who_madamepointu
+Non, il faut que je me soulage en pleurant à vos pieds.
+Ah, ah, ah, ah.
+
+-*who_franville
+Ah !
+Voilà un autre genre de folie.
+
+-*who_madamepointu
+Ah !
+Monsieur, je suis pleine de ca, ca, calamités et de cha, chagrins.
+
+-*who_franville
+Eh !
+Que puis-je faire pour vous ?
+
+-*who_madamepointu
+Ah !
+Monsieur, vous avez des pou pouvoirs suffisants pour essuyer mes mes larmes.
+
+-*who_franville
+Eh, comment, Madame.
+
+-*who_madamepointu
+En faisant ca cas de mes prières, il faut me rendre le congé de mon fils.
+
+-*who_franville
+De votre fils ?
+
+-*who_madamepointu
+Oui, vous êtes son ca ca capitaine.
+
+-*who_franville
+Moi, Madame ?
+
+-*who_madamepointu
+Oui, Monsieur, vous f... f... faites semblant de ne pas m'entendre, mais je sais tout.
+Voilà la lettre que vous venez de lui écrire.
+
+-*who_franville
+« Monsieur, je ne puis terminer avec vous sans  vous connaître, ainsi faites-moi l'amitié de passer chez moi demain, et si vous pouvez me convenir, je vous ferai votre engagement...  »
+Mais c'est la lettre que j'ai donnée à ce valet Allemand, à ce sourd.
+
+-*who_madamepointu
+Oui Monsieur c'est pour mon fils.
+
+-*who_franville
+Ah !
+Je soupçonne quelque chose.
+Votre fils, n'est-ce pas un jeune homme qui porte un habit couleur de rose, galonné en argent ?
+
+-*who_madamepointu
+Justement, Monsieur, un gen gen gentil garçon, qui me ressemble un peu.
+
+-*who_franville
+C'est cela.
+Et n'avez vous pas un mari qui...
+
+-*who_madamepointu
+Ah !
+Monsieur, mon mari est un co co coquin, qui boit toute la journée, et qui tous les soirs fait ca ca carillon dans la maison.
+
+-*who_franville
+Ah !
+Parbleu !
+Nous y voilà.
+Vous êtes donc Madame Pointu ?
+
+-*who_madamepointu
+Hélas oui, Monsieur, depuis que Monsieur Pointu m'a fait prendre ce vilain nom là.
+
+-*who_franville
+Écoutez, Madame, êtes-vous curieuse de voir tout-à-l'heure Monsieur Pointu le père, et Monsieur Pointu le fils ?
+
+-*who_madamepointu
+Ah !
+Monsieur, je leur arracherais les yeux.
+
+-*who_franville
+Eh bien, Madame, donnez-vous la peine d'entrer dans ce cabinet, vous ne tarderez pas à les voir.
+
+-*who_madamepointu
+De de tout mon coeur.
+Mais êtes-vous sûr qu'ils ne tarderont pas ?
+Il y a quelqu'un de mes parents qui m'attend à la porte en ca ca carosse.
+
+-*who_franville
+Vous allez les voir à l'instant, entrez seulement.
+
+**** *book_ *id_I10 *act_I *date_1779
+
+-*who_madamepointu
+Comment !
+Ca ca canailles, vous voilà donc !
+
+-*who_pointu
+Allons, Madame Pointu, de la douceur, qu'est-ce que vous venez faire ici ?
+
+-*who_leandre
+Comment, ma mère, vous venez tici toute seule.
+
+-*who_franville
+Je crois que l'entrevue va devenir piquante, il n'y manque plus que le valet Allemand.
+
+-*who_pointu
+Ah !
+Monsieur le vaurien, je te ferai engager à Saint-Lazare.
+
+-*who_madamepointu
+Et toi vilain ivrogne...
+
+-*who_pointu
+Parbleu, ma femme, il faut que vous ayez bien peu de raison !
+À peine si j'ai mouillé mes lèvres d'aujourd'hui.
+
+-*who_leandre
+Mais mon père après tout...
+
+-*who_pointu
+Taisez-vous, vous êtes un drôle.
+
+-*who_leandre
+Mais ma mère...
+
+-*who_madamepointu
+Ah !
+Co co coquin, tu me perds le respect ?
+Attends, attends.
+
+-*who_leandre
+Ahi, ahi, ahi...
+
+-*who_pointu
+Allons, ma femme, ça passe raillerie...
+
+-*who_madamepointu
+Tiens, tiens, tu en auras...
+
+-*who_leandre
+Ahi, ahi !...
+
+-*who_franville
+Ah, ah, ah, ah, ah.
+Parbleu, voilà une excellente matinée pour moi.
+Si ce pauvre Monsieur de la Rime était ici, il me ferait de cela une Comédie tout entière.
+Ah, ah, ah.
+
+**** *book_ *id_I11 *act_I *date_1779
+
+-*who_labbe
+Monsieur, je vous baise les mains.
+
+-*who_franville
+Monsieur, qui a-t-il pour votre service ?
+
+-*who_labbe
+Monsieur, je suis venu avec une de mes parentes qui avait à vous parler pour affaire, et je l'attends à la porte depuis assez longtemps.
+
+-*who_franville
+Ah !
+Vous demandez Madame Pointu, sans doute ?
+
+-*who_labbe
+Oui, Monsieur, elle m'a dit que vous aviez engagé son fils, et je viens joindre mes prières aux siennes, pour obtenir de vous son congé.
+
+-*who_franville
+Monsieur, Madame Pointu s'est trompée, je ne suis point militaire, je suis Directeur de Comédie, et Monsieur son fils n'est point engagé.
+
+-*who_labbe
+Ah !
+Monsieur est Directeur de Comédie ?
+
+-*who_franville
+Oui, Monsieur.
+
+-*who_labbe
+C'est une belle chose que la Comédie, et pour laquelle il faut bien des talents.
+Par exemple, Monsieur, c'est un de mes goûts dominants.
+
+-*who_franville
+Comment, Monsieur, vous aimez la Comédie ?
+
+-*who_labbe
+Oui, Monsieur, je l'idolâtre, et depuis très longtemps j'en ai fait une étude particulière.
+
+-*who_franville
+Dans quel genre, Monsieur, est-ce pour la jouer vous-même, ou pour composer des pièces ?
+
+-*who_labbe
+Monsieur, j'aurais beaucoup aimé à la jouer moi-même, mais j'ai les passions si fortes et la poitrine si délicate, qu'elle n'aurait jamais pu suffire à la vivacité de mes expressions.
+J'aurais pu de même m'adonner à la composition, mais malheureusement je viens trop tard.
+Je trouve dans Molière, dans Corneille, et dans Racine à peu près ce que je pense tous les jours, et je ne peux pas écrire.
+Nos esprits étant formés sur le même modèle, je ressemblerais nécessairement.
+
+-*who_franville
+Voilà qui est fâcheux, le public y perd beaucoup.
+
+-*who_labbe
+Sans doute.
+Mais pour le dédommager et pour avoir en même-temps le mérite de la nouveauté, j'ai donné dans un genre sur lequel personne n'a encore travaillé.
+
+-*who_franville
+Lequel donc, Monsieur !
+
+-*who_labbe
+C'est celui des spectacles à la muette, c'est pour pouvoir exprimer toutes les passions sans paroles.
+Oui, Monsieur, après de longues recherches sur le jeu des meilleurs acteurs de la capitale et des provinces, je viens de composer un traité complet sur la pantomime, et je vais le proposer par souscription à tous les directeurs.
+
+-*who_franville
+Cela doit faire un ouvrage fort curieux.
+
+-*who_labbe
+Je vous en réponds ; si vous voulez, je vous en réserverai quelques exemplaires.
+
+-*who_franville
+Vous me ferez le plus grand plaisir, et si je ne craignais d'abuser de votre complaisance, je vous prierais de m'en donner d'avance une petite idée.
+
+-*who_labbe
+Très volontiers, Monsieur ; nous n'aurions pas le temps d'entrer dans le détail des préceptes, mais je vais vous donner quelques exemples qui vous rendront les effets plus sensibles.
+Souvenez-vous qu'il n'y a pas de paroles dans ce spectacle là, et qu'il faut y suppléer par les attitudes.
+
+-*who_franville
+J'y suis, Monsieur, j'y suis.
+
+-*who_labbe
+Figurez-vous donc, Monsieur, deux armées en présence, les deux chefs en tête de leurs troupes, et exprimez-moi le premier mouvement d'indignation qui se passe entre eux.
+C'est le défi d'Achille, Monsieur ; voyez-le.
+Portez votre jambe en arrière, mettez vivement vos deux poings dans la poche gauche, et tournez la tête à droite avec un oeil farouche.
+Le voici.
+Ils se battent, Monsieur, l'un des deux chefs est désarmé par l'autre ; exprimez-moi son désespoir ?
+« Frappez un grand coup de poing de la main droite sur le coeur, couvrez-vous le front de la main gauche, renversez la tête en arrière les yeux fermés, et resserrez les épaules en avant.
+Le voilà. »
+À ce mouvement là, Monsieur, son casque est tombé, sa tête se découvre, et son vainqueur le reconnaît.
+C'est sa maîtresse, c'est son père, son fils, tout ce que l'on voudra.
+Jugez du grand étonnement.
+Le voici, Monsieur.
+« Renversez-vous et ployez sur la partie gauche, tendez les deux mains en avant, et restez la bouche ouverte. »
+« Eh ! Quoi, c'est vous. »
+L'autre qui le reconnaît alors, lui pardonne sa victoire, et exprime l'amour, la tendresse qui étouffe la rancune ; et le voici.
+« Portez les deux mains sur votre coeur, haussez les épaules, balancez vivement la tête, élancez-vous en l'air en détachant les mains, et restez sur la pointe du pied.
+« Ah ! Trop cher ennemi, je vous pardonne tout. »
+Alors les deux armées se mettent à danser pour célébrer la fête.
+Voilà le ballet.
+Les deux chefs s'embrassent, et cette pantomime là, par exemple, tout le monde la sait.
+
+-*who_franville
+C'est superbe, Monsieur, je sens toute l'utilité d'un travail aussi précieux...
+Mais pardon, cela vous fatigue trop, et...
+
+-*who_labbe
+Non, au contraire...
+Tenez, un exemple dans le grand tragique.
+« Sous mes pas chancelants je sens trembler la terre !
+J'entends partir la foudre et gronder le tonnerre !
+Un serpent venimeux me déchire le coeur !
+Dieux ! Quels affreux tourments ! Je succombe, je meurs. »
+Et en voici d'un genre plus tranquille...
+Si vous aviez à jouer la Tragédie de Mithridate en Pantomime, comment vous y prendriez-vous.
+
+-*who_franville
+Mais je serais fort embarrassé, et vous ?
+
+-*who_labbe
+Moi, Monsieur, point du tout..
+Tenez, écoutez le commencement.
+C'est Zipharès qui parle à son confident, lorsqu'il croit Mithridate mort ; il lui dit :
+Ainsi ce Roi qui seul et pendant quarante ans
+Lassa tout ce que Rome eut de chefs importants,
+Et qui dans l'Orient balançant la fortune,
+Vengeait de tous les Rois la querelle commune,
+Meurt et laisse après lui pour venger son trépas
+Deux fils infortunés qui ne s'accordent pas.
+Croyez-vous que ce petit traité l'à aura quelque succès.
+
+-*who_franville
+Comment, Monsieur, je vous garantis que cet ouvrage vous fera le plus grand honneur, quant à moi, j'en retiens plusieurs exemplaires, et j'en veux fournir à chaque Comédien que j'engagerai ; mais il est tard, faites-moi l'amitié de dîner avec moi, nous parlerons plus amplement de votre ouvrage.
+
+-*who_labbe
+Vous êtes bien honnête, Monsieur, mais ma tante.
+
+-*who_franville
+Ah !
+Madame votre tante, je n'y pensais plus, c'est le plaisir que j'ai à vous entendre qui me la fait oublier, donnez-vous la peine d'entrer dans ce cabinet, vous allez y trouver compagnie.
+Je vais vous y rejoindre.
+
+-*who_labbe
+Ma tante y est donc, Monsieur ?
+
+-*who_franville
+Oui, Monsieur, et d'autres personnes de votre connAissance.
+
+**** *book_ *id_I12 *act_I *date_1779
+
+-*who_franville
+Ah !
+Parbleu, nous allons faire un petit dîner de famille qui j'espère sera réjouissant.
+Voyons un peu comment ou le reçoit.
+
+**** *book_ *id_I13 *act_I *date_1779
+
+-*who_lefiacre
+Parlez donc, Monsieur, est-ce qu'on se gobarge de moi donc, de me faire rester comme une enseigne par le temps qu'il fait ?
+
+-*who_franville
+Que demandez-vous, mon ami ?
+
+-*who_lefiacre
+Par la ventregué !
+Je demande une vieille béquillarde avec un farluquet d'Abbé qui m'avont planté là comme pour raverdir.
+
+-*who_franville
+Il faut attendre un instant, mon enfant.
+
+-*who_lefiacre
+Ah !
+Jarnonbille !
+Attendre, et mes chevaux qui n'ont rien dans le ventre.
+Prenez-vous par vous-même.
+Faut-il pas que ces pauvres animaux mangent ?
+
+-*who_franville
+Vous avez raison, mon ami, je vais vous faire parler à Monsieur l'Abbé.
+
+-*who_lefiacre
+Ah !
+Morgué, parler, je n'ons pas besoin de parlemantage.
+C'est de l'argent qu'il me faut.
+
+-*who_lefiacre
+Oui, cherche ; vas, tu les trouveras...
+Ah !
+Monsieur le Directeur, vous voulez essayer les gens.
+
+-*who_franville
+Ah !
+Morbleu, il n'y a plus personne, ils sont sortis par derrière.
+La Pierre, hola, la Pierre !
+Ce drôle là est à courir depuis le matin.
+
+-*who_lefiacre
+Eh !
+Ben, Monsieur, où est-ce qu'est donc l'Abbé ?
+
+-*who_franville
+Ma foi, mon ami, je n'en sais rien.
+
+-*who_lefiacre
+Comment, morgué, vous ne savez pas ?
+Et ste Vieille, sans dents, est-ce qu'alle est fondue aussi ?
+
+-*who_franville
+Ils étaient dans ce cabinet qui donne sur la rue ; ils s'en seront allez pendant que vous êtes entré.
+
+-*who_lefiacre
+Ah !
+Ventregué, je ne donnons pas dans ce godan là, vous les avez caché quelque part ; mais sarpejeu je serons payé, où j'allons faire un beau sabat !
+
+-*who_franville
+Que veut dire ce drôle là ?
+Je les ai fait cacher !
+Allons, va attendre ton monde à la porte, et ne fais pas l'insolent.
+
+-*who_lefiacre
+Allons donc, note bourgeois ; ne faites donc pas comme ça le gausseur ; mettez la main à la poche, croyez-moi, c'est vote plus court.
+
+-*who_franville
+Allons, sors d'ici, tout à l'heure.
+
+-*who_lefiacre
+Qu'appellez-vous, sors d'ici !
+Je ne démare pas que je n'ayons de l'argent déjà primo.
+
+-*who_franville
+Et moi je te conseille de t'en aller au plus vite, sinon je vais te faire étriller.
+
+-*who_lefiacre
+Oui, Monsieur le Directeur ; vous prenez le mors aux dents ; ah !
+Ben, je vas vous faire cabrer, moi.
+
+-*who_franville
+La Pierre !
+Oh la Pierre !
+
+-*who_lefiacre
+Ah !
+Palsangué, je me ris de la Pierre et de la butte comme de Colin Tampon ; mais morgué, j'allons voir si vous vous rirez du Commissaire, vous, Monsieur le débaucheur ; j'allons voir çà.
+
+-*who_franville
+Oui, oui, sors d'ici, toujours.
+
+-*who_lefiacre
+Ah !
+Ventrebleu, ne nous poussez pas, car je sommes rétifs, je vous en avertis, et je pourrions vous lâcher une ruade en manière de salut.
+
+-*who_franville
+La Pierre, viendras-tu donc, maraud ?
+
+-*who_lefiacre
+Eh !
+Donc !
+Eh !
+Donc note bourgeois.
+Dia, dia, bride en main.
+Le Commissaire demeure ici devant.
+J'allons savoir la définition de ça.
+
+**** *book_ *id_I14 *act_I *date_1779
+
+-*who_franville
+Au diable soit le maudit homme !
+Et ce coquin de La Pierre, tenez, qui me laisse seul ici depuis ce matin, pour me faire une commission.
+Mais je n'en reviens pas qu'ils soient partis tous, comme cela, sans me rien dire !
+Ils se sont trouvés quatre, ils auront voulu profiter du fiacre pour s'en aller ensemble, ils sont peut-être en bas dans son carrosse ; je m'en vas voir.
+
+**** *book_ *id_I15 *act_I *date_1779
+
+-*who_lecommissaire
+Qu'est-ce que c'est donc, Monsieur, qu'est-ce que c'est donc ?
+L'on me fait des plaintes contre vous.
+
+-*who_franville
+Contre moi, Monsieur, à quel sujet, s'il vous plaît ?
+
+-*who_lecommissaire
+À quel sujet !
+Mais à plusieurs sujets, Monsieur, l'accusation est grave.
+
+-*who_franville
+Quoi, Monsieur, vous écoutez un coquin de fiacre !
+
+-*who_lecommissaire
+Non, non, Monsieur ; je n'écoute point un coquin de fiacre, il s'est bien venu plaindre à mo i; mais ce n'est pas là-dessus que je vous interpelle de répondre, Monsieur.
+Il s'agit d'une affaire de plus grande importance.
+
+-*who_franville
+Mais, Monsieur, je ne crois pas...
+
+-*who_lecommissaire
+Silence, Monsieur, laissez-moi parler !
+Vous ne croyez pas...
+Vous débauchez des jeunes gens, et j'ai reçu des plaintes contre vous de toute une famille.
+
+-*who_franville
+De toute une famille.
+
+-*who_lecommissaire
+Oui, Monsieur, de toute une famille.
+C'est au sujet du nommé Eustache Pointu ; vous remettez-vous cela, Monsieur.
+
+-*who_franville
+Eh !
+Monsieur, l'on vous a trompé.
+Monsieur Eustache Pointu le fils est un nigaud qui n'est bon à rien.
+Son père est un ivrogne, sa mère une ridicule, et Monsieur l'Abbé, leur digne cousin, est un fou fieffé.
+
+-*who_lecommissaire
+Monsieur, Monsieur; ne dites pas de mal de cette famille là, je vous prie.
+
+-*who_franville
+Est-ce que vous y prenez intérêt, Monsieur ?
+
+-*who_lecommissaire
+Oui, Monsieur, beaucoup, excessivement, Monsieur.
+
+-*who_franville
+Mais, Monsieur le Commissaire, ne seriez-vous pas un peu parent ?
+Je vous trouve un certain air de ressemblance.
+
+-*who_lecommissaire
+Trouvez-vous cela, Monsieur ?
+
+-*who_franville
+Ma foi, Monsieur, l'on ne peut d'avantage...
+Je ne sais si je vois trouble aujourd'hui, ou si j'ai l'oeil ensorcelé mais tous ceux que j'ai vu ce matin m'ont paru se ressembler...
+Il n'y a pas jusqu'à ce maudit Fiacre à qui j'ai trouvé un air de...
+
+-*who_lecommissaire
+Monsieur, Monsieur, tout cela est bon pour la plaisanterie.
+Mais l'affaire est grave.
+Je vous en avertis, la famille instruit contre vous, et je vous conseille d'arranger cela.
+
+-*who_franville
+Mais ; Monsieur, je n'ai aucun tort, il m'est aisé de vous en convaincre ; ils sont tous venus me voir ce matin les uns après les autres, et je n'ai pris avec eux d'autre arrangement que de les inviter à dîner.
+
+-*who_lecommissaire
+Eh bien !
+Monsieur, pour vous donner les moyens de prouver votre innocence, je vais rester aussi et nous dînerons tous ensemble.
+
+-*who_franville
+Ah !
+Monsieur, de tout mon coeur, mais où les prendre actuellement ?
+
+-*who_lecommissaire
+Oh !
+Oh !
+Je les ferai bien retrouver moi.
+Préparez-vous seulement à soutenir la confrontation.
+
+-*who_franville
+Ma foi, Monsieur, quand on voudra, je suis tout prêt.
+
+-*who_lecommissaire
+Eh !
+Bien, Monsieur, attention : vous voyez d'abord le Commissaire.
+V'là le Fiacre not' Bourgeois.
+Voici Monsieur l'Abbé.
+Voici Monsieur Eustache Pointu le père.
+Voilà Madame Poin, Pointu la mère.
+Monsieur, je suis le jeune homme dont auquel.
+Ly être la commissionaire de la lettre, Monsir.
+Je viens, Monsieur, vous représenter le billet d'entrée que vous m'avez fourni pour savoir, Monsieur, si vous aviez besoin de mon petit service.
+
+-*who_franville
+Comment, Monsieur, c'est vous qui m'avez ainsi promené toute la matinée.
+J'en suis enchanté !
+J'ai pensé vingt fois me douter de la plaisanterie.
+
+-*who_lejeunehomme
+Pardon, Monsieur.
+Mais l'extrême envie que j'ai de jouer la Comédie m'ayant déterminé à m'adresser à vous, j'ai voulu, comme je vous l'annonçais dans ma lettre, vous mettre à même de m'essayer avant de conclure ; en conséquence je suis venu, avec ma provision d'habits dans une voiture m'établir à votre porte.
+Je me suis présenté et vous m'avez facilité vous-même mes travestissements, en me logeant dans ce cabinet qui s'ouvre sur la rue ; je suis revenu alternativement sous différentes formes, c'est maintenant à vous de juger sous laquelle je pourrai vous convenir.
+
+-*who_franville
+Monsieur, je suis charmé de vous connaître, allons d'abord nous mettre à table, nous terminerons notre affaire ensuite, et j'espère que nous aurons sujet d'être contents tous deux.
+
+-*who_lejeunehomme
+Monsieur, si le talent chez moi ne répond pas à la bonne volonté, souvenez-vous toujours du Proverbe.
+ON FAIT CE QU'ON PEUT,
+ET NON CE QU'ON VEUT.

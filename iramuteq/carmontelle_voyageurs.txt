@@ -1,0 +1,918 @@
+
+
+**** *book_ *id_I01 *act_I *date_(inc
+
+-*who_monsieurduhable
+Où est-elle ?
+Madame Rougeau ?
+
+-*who_madamerougeau
+Me voilà !
+Me voilà !
+Ah !
+C'est vous Monsieur Du Hable ?
+
+-*who_monsieurduhable
+Oui, c'est moi-même : n'y a-t-il personne ici qui nous entende ?
+
+-*who_madamerougeau
+Non, non, vous pouvez parler.
+
+-*who_monsieurduhable
+Il va vous arriver une voiture où il y a un abbé et deux dames.
+
+-*who_madamerougeau
+En poste ?
+
+-*who_monsieurduhable
+Oui : ainsi vous savez bien ce que vous avez à faire.
+
+-*who_madamerougeau
+Sans doute, mais c'est que je crains toujours.
+
+-*who_monsieurduhable
+Quoi ?
+
+-*who_madamerougeau
+Que, si à la fin cela tournait mal...
+
+-*who_monsieurduhable
+Que voulez-vous dire ?
+Quel mal trouvez-vous d'attraper des nigauds ?
+D'ailleurs, vous leur faites bonne chère, et ils ne souperaient pas si bien et ne seraient pas si bien couchés à d'autres postes.
+
+-*who_madamerougeau
+Cela est vrai.
+
+-*who_monsieurduhable
+Ne seront-ils pas trop heureux d'être ici ?
+
+-*who_madamerougeau
+Sans doute, mais...
+
+-*who_monsieurduhable
+N'avons-nous pas toujours réussi ?
+N'y gagnez-vous pas de l'argent ?
+
+-*who_madamerougeau
+J'en conviens, mais...
+
+-*who_monsieurduhable
+Quelle idée avez-vous donc aujourd'hui ?
+Tenez, voilà la voiture arrivée ; songez à vous dans un moment je ferai le reste.
+
+**** *book_ *id_I02 *act_I *date_(inc
+
+-*who_andre
+Madame Rougeau, v'là qu'on demande quatre chevaux.
+
+-*who_madamerougeau
+N'as-tu pas dit qu'il n'y en avait pas ?
+
+-*who_andre
+Oui vraiment, mais il y a un abbé qui jure comme un possédé et qui dit qu'il nous en fera bien trouver.
+
+-*who_madamerougeau
+Ah !
+Je ne le crains pas : fais sortir ceux qui sont dans l'écurie dans le verger, et ferme bien la porte du jardin.
+
+-*who_andre
+Ah !
+Oui, oui, j'entends : j'y vais.
+
+**** *book_ *id_I03 *act_I *date_(inc
+
+-*who_labbe
+Comment !
+Ventre non pas d'un diable, il n'y a pas de chevaux ici !
+Je ferai casser le maître de poste.
+
+-*who_madamerougeau
+Monsieur l'Abbé, il n'y en a pas : il est mort il y a trois ans, le pauvre homme !
+
+-*who_labbe
+Est-ce vous qui êtes la maîtresse de la poste !
+
+-*who_madamerougeau
+Oui, Monsieur, à vous obéir.
+
+-*who_labbe
+À m'obéir !
+En ce cas-là, donnez-nous des chevaux.
+
+-*who_madamerougeau
+Mais, Monsieur l'Abbé, je n'en ai pas pour le présent.
+
+-*who_labbe
+Comment !
+Mort non pas d'un diable ; vous n'avez pas de chevaux !
+Pourquoi donc êtes-vous maîtresse de poste ?
+Je m'en plaindrai à Monsieur l'Intendant.
+
+-*who_madamerougeau
+Et c'est justement lui-même qui les a tous pris.
+
+-*who_labbe
+Qui ?
+
+-*who_madamerougeau
+Monseigneur l'intendant ; mais avant une heure il y en aura sûrement de retour.
+
+-*who_labbe
+Comment !
+L'Intendant ?
+
+-*who_madamerougeau
+Il fait sa tournée, et il a bien du monde : je vous réponds que les chevaux ne tarderont pas.
+
+-*who_labbe
+Il faudrait envoyer au-devant.
+
+-*who_madamerougeau
+De quel côté ces dames vont-elles, Monsieur l'Abbé ?
+
+-*who_labbe
+Nous allons à Sedan.
+
+-*who_madamerougeau
+À Sedan, Monsieur l'Abbé ?
+
+-*who_labbe
+Oui, à Sedan.
+
+-*who_madamerougeau
+Allons, puisque vous voulez partir absolument.
+
+-*who_labbe
+Assurément.
+
+-*who_madamerougeau
+Je vais envoyer.
+
+-*who_labbe
+Et vous ferez bien.
+
+**** *book_ *id_I04 *act_I *date_(inc
+
+-*who_madamedemortiliere
+Vous voyez, Madame, comme il est nécessaire d'avoir des hommes quand on voyage pour parler à tous ces gens-là.
+
+-*who_madamedesousay
+Oui, mais l'abbé m'a fait peur : il jure, que c'est affreux !
+
+-*who_labbe
+Bon ! vous ne voyez rien : quand j'ai pensé être cornette de dragons, je jurais bien mieux que cela.
+
+-*who_madamedemortiliere
+Mais, fi donc !
+
+-*who_labbe
+Mon oncle avait un lieutenant dans sa compagnie, qui s'appelait Pinçon, qui m'en avait bien appris d'autres.
+Oh !
+J'aurais été un fort bon militaire si l'on ne m'avait pas fait abbé.
+
+-*who_madamedesousay
+Je le crois, au moins, Madame.
+
+-*who_madamedemortiliere
+Et moi aussi : je voudrais voir l'Abbé d'Orlot en dragon.
+
+-*who_labbe
+Je vous en donnerai le plaisir si vous voulez, quand nous serons à Sedan.
+J'ai encore l'habit qu'on m'avait fait faire.
+
+-*who_madamedesousay
+Je ne m'étonne pas s'il est brave, l'abbé : il est charmant !
+Il n'a peur de rien en voyage, il est tout à fait rassurant.
+
+-*who_labbe
+La bravoure est une misère : quand on pense d'une certaine façon, l'état ne fait rien.
+
+-*who_madamedemortiliere
+Je ne crois pas cela, car j'ai vu un évêque qui avait peur des vaches : s'il eût été colonel, sûrement il ne les aurait pas craintes.
+
+-*who_madamedesousay
+Enfin nous sommes fort heureuses d'avoir l'abbé avec nous.
+
+-*who_madamedemortiliere
+Il faut en avoir bien soin.
+
+-*who_madamedesousay
+Sans doute, et je pense qu'il s'est enroué en criant : si nous lui faisions faire un lait de poule ?
+
+-*who_madamedemortiliere
+Cela est très bien pensé.
+
+-*who_labbe
+Allons, Mesdames, vous êtes trop bonnes.
+
+-*who_madamedesousay
+Non, non, Monsieur l'abbé, je le veux absolument, et je vais appeler quelqu'un.
+
+-*who_madamedemortiliere
+Oui, car il ne pourrait peut-être plus chanter.
+Ah !
+Voilà la maîtresse.
+
+**** *book_ *id_I05 *act_I *date_(inc
+
+-*who_madamerougeau
+Monsieur l'abbé, je viens vous dire une bonne nouvelle.
+
+-*who_labbe
+Comment ?
+
+-*who_madamerougeau
+Vous aurez des chevaux avant un quart d'heure.
+
+-*who_labbe
+Vous voyez bien, Mesdames, que je savais bien que je vous en ferais avoir.
+
+-*who_madamerougeau
+Oui ; mais, Monsieur l'abbé, je ne sais pas si vous ferez bien de vous en servir.
+
+-*who_labbe
+Pourquoi donc ?
+
+-*who_madamerougeau
+C'est qu'il est déjà tard, et la nuit...
+
+-*who_labbe
+Oh !
+Nous ne craignons rien.
+
+-*who_madamerougeau
+Si vous ne craignez rien, cela est différent.
+
+-*who_labbe
+Comment !
+Cela est différent ?
+Est-ce qu'il y a de mauvais chemins ?
+
+-*who_madamerougeau
+Ce n'est pas cela : le chemin est bon, mais la forêt...
+
+-*who_labbe
+La forêt ! que voulez-vous dire ?
+
+-*who_madamerougeau
+Oh !
+Rien, je ne veux pas faire peur à ces dames.
+Je ferai mettre les chevaux aussitôt qu'ils seront arrivés : on ne leur fera pas manger l'avoine pour ne pas vous retarder.
+
+-*who_madamedemortiliere
+Dites donc, Madame, qu'est-ce qu'il y a dans la forêt ?
+
+-*who_madamerougeau
+Oh !
+Rien, rien.
+
+-*who_madamedesousay
+Nous voulons le savoir absolument.
+
+-*who_madamerougeau
+Eh bien !
+Madame, je m'en vais le dire à Monsieur l'Abbé.
+
+-*who_labbe
+Voyons, dites-moi ce que c'est.
+
+-*who_madamerougeau
+Est-ce que vous n'avez pas entendu parler de Bras-de-fer ?
+
+-*who_labbe
+Non, qu'est-ce que c'est que Bras-de-fer ?
+
+-*who_madamerougeau
+C'est un solitaire qui arrête toutes les voitures pour les voler.
+
+-*who_labbe
+Cela est bien certain ?
+
+-*who_madamerougeau
+Oui, Monsieur l'Abbé.
+
+-*who_madamedesousay
+Madame, l'abbé pâlit.
+
+-*who_labbe
+Je pâlis ?
+
+-*who_madamedesousay
+Oui, Monsieur l'Abbé.
+
+-*who_labbe
+Moi !
+Point du tout.
+
+-*who_madamedemortiliere
+Allons, Madame, dites-nous donc...
+
+**** *book_ *id_I06 *act_I *date_(inc
+
+-*who_monsieurduhable
+Allons donc, Madame Rougeau, des chevaux, des chevaux ; mais où est-elle donc ?
+
+-*who_madamerougeau
+Me voilà !
+Me voilà !
+
+-*who_monsieurduhable
+Ah !
+Ah !
+Ici ?
+Mesdames, je vous demande bien pardon.
+
+-*who_labbe
+Entrez donc, Monsieur, entrez donc.
+
+-*who_monsieurduhable
+C'est que je crains d'être indiscret.
+
+-*who_labbe
+Ces dames vous en prient.
+
+-*who_madamedesousay
+Oui, Monsieur, nous serions bien aises de causer avec vous.
+
+-*who_labbe
+Monsieur, pourrait-on vous demander si vous venez de Sedan ?
+
+-*who_monsieurduhable
+Oui, Monsieur.
+
+-*who_madamedemortiliere
+Ah !
+Ah !
+Madame, nous allons savoir...
+
+-*who_labbe
+Monsieur, le chemin est-il sûr ?
+
+-*who_monsieurduhable
+Oui, Monsieur, c'est un fort bon chemin.
+
+-*who_labbe
+Il n'y a donc rien à craindre ?
+
+-*who_monsieurduhable
+Non : pour peu que votre voiture soit bonne, vous arriverez aisément à Sedan.
+
+-*who_madamedemortiliere
+Mais ce n'est pas là ce que nous vous demandons : nous voudrions savoir si nous ferons bien de traverser la forêt la nuit.
+
+-*who_monsieurduhable
+C'est selon qu'on est brave.
+
+-*who_madamedesousay
+Comment ?
+Brave !
+Madame...
+
+-*who_labbe
+Voilà ces dames qui se récrient déjà.
+Pour moi, je n'aurais pas peur, mais quand on est avec des femmes vous sentez bien qu'on est fort embarrassé.
+
+-*who_monsieurduhable
+Ma foi, Monsieur, il me semble pourtant qu'on doit avoir peur la nuit : pour le jour, on voit venir et l'on se tient sur ses gardes.
+
+-*who_labbe
+Comment, sur ses gardes ?
+
+-*who_monsieurduhable
+Oui.
+Par exemple, j'ai vu Bras-de-fer venir à gauche, j'ai tenu mon pistolet sur la portière, il s'est éloigné.
+Je me suis bien douté qu'il reparaîtrait à droite.
+En effet, il s'est présenté, et moi, mes deux pistolets à droite et à gauche, j'ai passé la forêt tranquillement : ainsi, en faisant comme moi, mais de jour, vous n'avez rien à craindre.
+
+-*who_labbe
+Mais nous n'avons point de pistolets : je n'ai pas cru, en sortant de Paris, qu'il y avait à craindre sur ce chemin-ci.
+
+-*who_monsieurduhable
+Il y a des moments où vous pourriez passer.
+
+-*who_labbe
+Des moments ?
+
+-*who_monsieurduhable
+Oui, où Bras-de-fer serait occupé ailleurs, par exemple...
+
+-*who_madamedemortiliere
+Monsieur l'Abbé, je ne passerai jamais la forêt.
+
+-*who_madamedesousay
+Ni moi non plus, sûrement.
+
+-*who_labbe
+Attendez donc, Mesdames : il ne faut pas avoir peur comme cela, si vous étiez toutes seules à la bonne heure.
+
+-*who_monsieurduhable
+Mesdames, songez donc que vous avez Monsieur l'abbé qui doit vous rassurer.
+
+-*who_madamedemortiliere
+Oui, mais nous ne voulons pas le faire tuer.
+
+-*who_monsieurduhable
+Il n'y a rien à craindre avec des pistolets, je vous en réponds.
+
+-*who_madamedesousay
+Mais, Monsieur, on vous a déjà dit que nous n'en avions point.
+
+-*who_monsieurduhable
+Cela devient différent.
+
+-*who_labbe
+Attendez, Mesdames, il me vient une idée.
+
+-*who_madamedemortiliere
+Allons, voyons, Monsieur l'Abbé.
+
+-*who_madamedesousay
+Ah !
+Il est charmant.
+
+-*who_labbe
+Monsieur, vous pouvez nous faire un grand plaisir et qui obligerait infiniment ces dames.
+
+-*who_monsieurduhable
+Je ne demande pas mieux, assurément.
+
+-*who_labbe
+Je le crois ; ainsi voici ma proposition : vous pourriez nous prêter ou nous céder vos pistolets ; vous n'en avez pas besoin pour aller d'ici à Paris : il n'y a rien à craindre, nous en venons.
+
+-*who_monsieurduhable
+Oui, Monsieur ; mais je n'y vais pas, moi : à trois lieues d'ici je quitte la grande route..., et, ma foi, on ne sait pour lors qui on peut rencontrer ; je suis au désespoir de vous refuser ainsi que ces dames.
+Je voudrais de tout mon cœur...
+
+-*who_madamedemortiliere
+Ah !
+Monsieur, nous n'en doutons pas.
+En vérité, Monsieur l'Abbé, aussi vous ne songez à rien.
+
+-*who_labbe
+Vous verrez que j'ai tort, à présent.
+
+-*who_madamedesousay
+Les hommes sont comme cela.
+
+-*who_madamedemortiliere
+Moi, je ne saurais souffrir les gens trop braves.
+
+-*who_labbe
+Mais, Madame, ce n'est pas ma faute si...
+
+-*who_madamedesousay
+Il faut du moins craindre pour les autres et ne pas croire que tout le monde vous ressemble.
+
+-*who_labbe
+Croyez-vous que je ne crains pas ?
+
+-*who_monsieurduhable
+Attendez, Mesdames, je crois que je pourrai vous tirer d'embarras.
+
+-*who_madamedemortiliere
+Ah !
+Monsieur, dites donc promptement.
+
+-*who_monsieurduhable
+Oui, sûrement, je dois les avoir.
+
+-*who_labbe
+Quoi donc ?
+
+-*who_monsieurduhable
+Je m'en vais vous le dire.
+
+-*who_madamedesousay
+Ne nous faites pas languir.
+
+-*who_monsieurduhable
+Un de mes cousins, qui raffole de belles armes, m'a prié de lui rapporter de Sedan une paire de pistolets, et je crois que je les ai dans ma malle.
+
+-*who_labbe
+Réellement ?
+
+-*who_monsieurduhable
+Je n'en suis pas bien sûr, mais je vais y voir.
+
+-*who_madamedemortiliere
+Ah !
+Monsieur, ne perdez pas un instant.
+
+-*who_labbe
+Pourvu que vous ne les ayez pas oubliés.
+
+-*who_monsieurduhable
+Je me rappelle à présent qu'ils doivent y être : je reviens dans le moment.
+
+-*who_labbe
+Allez, allez, Monsieur, allez vite et en voyez-nous la maîtresse.
+
+-*who_monsieurduhable
+La voici, Monsieur l'Abbé.
+
+**** *book_ *id_I07 *act_I *date_(inc
+
+-*who_madamerougeau
+Monsieur l'Abbé, vos chevaux vont être mis dans l'instant.
+
+-*who_labbe
+Écoutez-nous, Madame.
+
+-*who_madamerougeau
+Oh !
+Monsieur, ils sont bons, ils vous mèneront bien.
+
+-*who_labbe
+Ce n'est pas là ce que je veux dire.
+
+-*who_madamerougeau
+Je vous donnerai deux postillons qui n'ont pas peur.
+
+-*who_labbe
+Un moment donc.
+
+-*who_madamerougeau
+Ils iront ventre à terre, si on vous attaque...
+
+-*who_labbe
+Mais nous ne voulons pas partir à présent.
+
+-*who_madamerougeau
+Vous partirez quand vous voudrez, je vous réponds qu'avec ces deux hommes-là vous n'avez rien à craindre.
+
+-*who_labbe
+Nous ne craignons pas non plus, mais ces dames veulent coucher ici.
+
+-*who_madamerougeau
+En ce cas, je m'en vais faire leurs lits.
+
+-*who_labbe
+À la bonne heure, mais avant...
+
+-*who_madamerougeau
+Vous aurez des draps très propres et de bons lits, cela va être fait dans le moment.
+
+-*who_labbe
+Attendez donc.
+
+-*who_madamerougeau
+Je sais tout ce qu'il faut à des dames comme celles-là, ne vous inquiétez pas, Monsieur l'Abbé, vous serez aussi très bien couché.
+Allons, Marianne !
+Geneviève !
+
+-*who_labbe
+Voulez-vous bien attendre ?
+
+-*who_madamerougeau
+Quoi donc ?
+
+-*who_labbe
+Nous voulons souper avant tout.
+
+-*who_madamerougeau
+Il faut donc le dire.
+Allons, je vais faire tuer des poulets.
+
+-*who_labbe
+Mais ils seront durs.
+
+-*who_madamerougeau
+Oh !
+Que non, on leur fait avaler du vinaigre : je vais vous faire faire une bonne fricassée.
+
+-*who_labbe
+Mais il faut autre chose.
+
+-*who_madamerougeau
+Ne vous embarrassez pas, vous serez contents.
+Allons, Marianne !
+Geneviève !
+
+-*who_labbe
+Vous ne voulez pas nous dire...
+
+-*who_madamerougeau
+Mon Dieu !
+Laissez-moi faire, laissez-moi faire.
+
+**** *book_ *id_I08 *act_I *date_(inc
+
+-*who_monsieurduhable
+Tenez, Monsieur l'abbé, voilà les pistolets dont je vous ai parlé.
+
+-*who_labbe
+Voyons, voyons.
+
+-*who_madamedemortiliere
+Monsieur l'Abbé, prenez garde.
+
+-*who_monsieurduhable
+Ils ne sont pas chargés, Madame.
+
+-*who_labbe
+Ils sont bien à la main.
+Eh bien !
+Qu'est-ce que c'est donc que cela ?
+
+-*who_madamedesousay
+Monsier l'Abbé, n'êtes-vous pas blessé ?
+
+-*who_monsieurduhable
+Il n'y a rien à craindre, Madame.
+
+-*who_labbe
+Non, c'est que je voulais essayer...
+
+-*who_madamedemortiliere
+Prenez donc garde, encore une fois.
+
+-*who_labbe
+Ce n'est pas d'aujourd'hui que je sais manier des armes : je crois ces pistolets fort bons.
+
+-*who_monsieurduhable
+Ils sont bien conditionnés.
+
+-*who_labbe
+C'est ce que je vous dis, et combien vous ont-ils coûté ?
+
+-*who_monsieurduhable
+Dix louis, Monsieur l'Abbé.
+
+-*who_labbe
+Je vais vous les payer.
+
+-*who_madamedemortiliere
+Non, Monsieur l'Abbé, c'est notre affaire.
+
+-*who_labbe
+Voilà ce que je ne souffrirai pas.
+
+-*who_madamedesousay
+C'est une misère.
+
+-*who_labbe
+D'ailleurs c'est moi qui les achète.
+
+-*who_madamedemortiliere
+Je vous dis que non.
+
+-*who_labbe
+Je veux les avoir à moi.
+
+-*who_madamedesousay
+Eh bien !
+Nous vous en faisons présent.
+
+-*who_labbe
+Cela serait joli !
+Ah !
+Çà, Monsieur, vous dites dix louis ?
+
+-*who_monsieurduhable
+Ces dames m'ont payé, Monsieur.
+
+-*who_labbe
+En vérité, Mesdames, voilà de ces choses qui ne se font pas.
+
+-*who_madamedemortiliere
+Allons, Monsieur l'Abbé, ne parlez plus de cela.
+
+-*who_labbe
+Je vais vous rendre vos dix louis.
+
+-*who_madamedesousay
+Voulez-vous bien finir cet enfantillage-là, l'abbé ?
+
+-*who_madamedemortiliere
+Allez plutôt voir si notre souper sera bon, vous vous y connaissez.
+
+-*who_labbe
+Un peu.
+
+-*who_madamedesousay
+Il faut que Monsieur soupe avec nous.
+
+-*who_monsieurduhable
+Madame, je ne puis pas avoir cet honneur-là.
+
+-*who_madamedemortiliere
+Ah !
+Monsieur, nous vous en prions ; nous vous avons trop d'obligations pour que...
+
+-*who_labbe
+Monsieur, vous ne pouvez pas refuser ces dames.
+
+-*who_monsieurduhable
+Puisqu'elles le veulent absolument...
+
+**** *book_ *id_I09 *act_I *date_(inc
+
+-*who_monsieurpincon
+Où est-il donc, Monsieur l'Abbé d'Orlot ?
+
+-*who_madamerougeau
+Ici, Monsieur.
+
+-*who_labbe
+Ah ! c'est Monsieur Pinçon.
+
+-*who_monsieurpincon
+Moi-même, Monsieur l'Abbé ; j'ai reconnu là-bas Flamand, qui m'a dit que vous étiez ici.
+
+-*who_labbe
+Mesdames ; voilà mon maître à jurer, dont je vous parlais tout à l'heure.
+
+-*who_monsieurpincon
+Que dites-vous donc là, Monsieur l'Abbé ?
+
+-*who_madamedemortiliere
+Nous serons fort aises de faire connaissance avec Monsieur Pinçon.
+
+-*who_labbe
+D'où venez-vous comme cela, Monsieur Pinçon ?
+
+-*who_monsieurpincon
+De trois lieues d'ici, Monsieur l'Abbé.
+
+-*who_madamedesousay
+Et allez-vous à Sedan, Monsieur ?
+
+-*who_monsieurpincon
+Oui, Madame.
+
+-*who_madamedemortiliere
+J'en suis fort aise, parce que vous pourrez nous accompagner.
+
+-*who_monsieurpincon
+De tout mon cœur, Madame.
+
+-*who_madamedesousay
+Êtes-vous armé ?
+
+-*who_monsieurpincon
+Oui, Madame, et assez bien : d'ailleurs j'ai encore quatre personnes avec moi qui le sont aussi.
+
+-*who_monsieurduhable
+Quel est donc cet homme-là ?
+
+-*who_madamerougeau
+Je ne le connais pas.
+
+-*who_monsieurduhable
+J'ai envie de m'enfuir.
+
+-*who_madamedemortiliere
+Monsieur, où allez-vous donc ?
+
+-*who_monsieurduhable
+Je reviens, Monsieur l'Abbé.
+
+-*who_madamedesousay
+Ah !
+L'Abbé, je parie qu'il ne veut pas souper avec nous.
+Retenez-le donc.
+
+-*who_monsieurpincon
+Sûrement : Monsieur, restez, restez.
+
+-*who_monsieurduhable
+Monsieur, est-ce que j'ai l'honneur d'être connu de vous ?
+
+-*who_monsieurpincon
+Non, Monsieur, pas encore.
+
+-*who_madamedemortiliere
+Ah !
+Monsieur, c'est le plus honnête homme du monde, et à qui nous avons la plus grande obligation.
+
+-*who_monsieurpincon
+Comment donc ?
+
+-*who_madamedesousay
+Il nous a fait le plaisir de nous céder ces pistolets pour ce qu'ils lui ont coûté.
+
+-*who_labbe
+Oui, pour dix louis.
+
+-*who_monsieurpincon
+Ils sont fort beaux, mais qu'en voulez-vous faire ?
+
+-*who_labbe
+Passer la forêt en sûreté : c'est ce qui nous a fait demander si vous étiez armé, à cause d'un certain voleur nommé Bras-de-fer.
+
+-*who_monsieurpincon
+Qui est dans la forêt ?
+
+-*who_madamedemortiliere
+Oui, vraiment : est-ce que vous ne le saviez pas ?
+
+-*who_monsieurpincon
+On m'en avait dit quelque chose, mais je ne le croyais pas.
+
+-*who_madamedesousay
+Voilà monsieur qui l'a vu.
+
+-*who_monsieurpincon
+Vous l'avez vu, Monsieur ?
+
+-*who_monsieurduhable
+Oui, Monsieur.
+
+-*who_monsieurpincon
+Et vous avez vendu ces pistolets à ces dames ?
+
+-*who_monsieurduhable
+Je les ai cédés.
+
+-*who_monsieurpincon
+Pour dix louis ?
+
+-*who_monsieurduhable
+Pour ce qu'ils m'ont coûté.
+
+-*who_monsieurpincon
+C'est fort bien à vous.
+Monsieur l'Abbé, on parle beaucoup à Sedan de ce voleur.
+
+-*who_madamedemortiliere
+Mais il faudrait le faire arrêter.
+
+-*who_monsieurpincon
+On a trouvé des moyens pour cela, et M. l'intendant fait faire des perquisitions...
+
+-*who_madamedesousay
+Il faut qu'une route comme celle-ci soit sûre.
+
+-*who_monsieurpincon
+Elle le sera aussi.
+Monsieur l'Abbé, j'ai quitté les dragons.
+
+-*who_labbe
+Comment mon oncle y a-t-il consenti ?
+
+-*who_monsieurpincon
+Il savait que je n'avais point de fortune : il m'avait faire un arrangement pour céder mon emploi, et il m'a fait avoir une lieutenance de la maréchaussée de cette province.
+
+-*who_monsieurduhable
+Ah !
+Ciel !
+
+-*who_madamedemortiliere
+C'est fort heureux pour nous, Madame, nous voyagerons sûrement.
+
+-*who_monsieurpincon
+Monsieur, je vous ai déjà dit de rester.
+Actuellement, commencez par rendre à ces dames les dix louis qu'elles vous ont donnés pour vos pistolets.
+
+-*who_monsieurduhable
+Puisqu'elles n'en ont pas besoin, j'en suis fort aise.
+
+-*who_monsieurpincon
+Un moment, s'il vous plaît, Monsieur.
+
+-*who_monsieurduhable
+Mais, Monsieur, j'ai affaire.
+
+-*who_monsieurpincon
+Je sais votre affaire.
+Savez-vous quel était le commerce de ce monsieur-là, Mesdames ?
+Celui d'épouvanter les voyageurs pour leur vendre dix louis des pistolets d'un louis.
+
+-*who_monsieurduhable
+Monsieur, en vérité...
+
+-*who_madamedesousay
+Quoi ! il serait possible que nous eussions été sa dupe !
+
+-*who_monsieurpincon
+Sûrement, Mesdames.
+
+-*who_labbe
+Si vous voulez que je vous le dise, je m'en étais un peu douté et je voulais lui parler en particulier.
+
+-*who_madamedemortiliere
+Ah !
+Oui, l'abbé, c'est bien fin à cette heure que vous le connaissez.
+
+-*who_monsieurpincon
+Allons, Monsieur, suivez-moi.
+
+-*who_monsieurduhable
+Mais, Messieurs, Mesdames, Monsieur l'Abbé, priez donc pour moi.
+
+-*who_monsieurpincon
+Cela est inutile.
+Pour vous, Madame Rougeau, nous nous reverrons : faites donner des chevaux à ces dames.
+
+-*who_madamerougeau
+Et le souper que l'on fait pour elles ?
+
+-*who_monsieurpincon
+Ces dames ne souperont ni ne coucheront ici.
+
+-*who_madamerougeau
+Monsieur Du Hable, je vous l'avais bien dit.
+
+-*who_monsieurpincon
+Allons, Mesdames, j'aurai l'honneur de vous escorter.

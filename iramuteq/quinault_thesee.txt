@@ -1,0 +1,2073 @@
+
+
+**** *book_ *id_I01 *act_I *date_1675
+
+-*who_unplaisir
+Le maître de ces lieux n'aime que la victoire,
+Il en fait ses plus chers désirs :
+Il néglige ici les plaisirs,
+Et tous ses soins sont pour la gloire.
+
+-*who_lechoeurdesgraces
+Les jeux et les amours
+Ne règnent pas toujours.
+
+-*who_unplaisir
+C'était dans ces jardins, au bord de ces fontaines,
+Que l'aimable mère d'amour
+Espérait d'établir sa bienheureuse cour :
+Mais ses espérances sont vaines.
+
+-*who_lechoeurdesgraces
+Les jeux et les amours
+Ne règnent pas toujours.
+
+-*who_undesjeux
+Ne nous écartons pas de ces charmantes plaines,
+Allons nous retirer dans les bois d'alentour.
+
+-*who_troisjeux
+Ah ! Quelles peines
+De quitter un si beau séjour !
+
+-*who_troisplaisirs
+Le maître de ces lieux n'aime que la victoire,
+Il en fait ses plus chers désirs :
+Il néglige ici les plaisirs,
+Et tous ses soins sont pour la gloire.
+
+-*who_lechoeurgraces
+Les jeux et les amours
+Ne règnent pas toujours.
+
+-*who_venus
+Revenez, amours, revenez ;
+Pourquoi quitter ces lieux où l'on est sans alarmes ?
+La beauté perd ses plus doux charmes,
+Sitôt que vous l'abandonnez :
+Revenez, amours, revenez.
+Beaux lieux, où les plaisirs suivaient partout mes pas,
+Que sont devenus vos appas ?
+Qu'un si charmant séjour est triste et solitaire !
+Hélas ! Hélas !
+Les amours n'y sont pas,
+Sans les amours, rien ne peut plaire.
+Revenez, amours, revenez ;
+Quel chagrin si pressant vous a tous emmenés ?
+Est-il quelque danger dont Mars ne vous délivre ?
+Il chasse les fureurs de ces lieux fortunés,
+À la seule victoire il permet de le suivre.
+Revenez, amours, revenez.
+
+-*who_mars
+Que rien ne trouble ici Vénus et les amours.
+Que sous d'aimables lois, dans ces douces retraites,
+On passe en repos d'heureux jours ;
+Que les hautbois, que les musettes
+L'emportent sur les trompettes,
+Et sur les tambours.
+Que rien ne trouble ici Vénus et les amours.
+
+-*who_mars
+Partez, allez, volez, redoutable Bellone.
+Laissez en paix ici les amours et les jeux ;
+Que Cérès, que Bacchus, s'avancent avec eux ;
+Éloignez ce qui les étonne.
+Portez aux ennemis de cet empire heureux
+Tout ce que la guerre a d'affreux :
+Vénus le veut, Mars vous l'ordonne.
+Partez, allez, volez, redoutable Bellone.
+
+-*who_venus
+Inexorable Mars, pourquoi déchaînez-vous
+Contre un héros vainqueur tant d'ennemis jaloux ?
+Faut-il que l'univers avec fureur conspire
+Contre ce glorieux empire
+Dont le séjour nous est si doux ?
+Sans une aimable paix peut-on jamais attendre
+De beaux jours ni d'heureux moments ?
+La plainte la plus tendre,
+Les plus doux soupirs des amants,
+Sont le seul bruit qu'on doit entendre
+En des lieux si charmants.
+
+-*who_mars
+Que dans ce beau séjour rien ne vous épouvante,
+Un nouveau Mars rendra la France triomphante.
+Le destin de la guerre en ses mains est remis.
+Et si j'augmente
+Le nombre de ses ennemis,
+C'est pour rendre sa gloire encor plus éclatante.
+Le dieu de la valeur doit toujours l'animer.
+
+-*who_venus
+Vénus répand sur lui tout ce qui peut charmer.
+
+-*who_mars
+Malheur, malheur à qui voudra contraindre
+Un si grand héros à s'armer.
+
+-*who_venus
+Tout doit l'aimer.
+
+-*who_mars
+Tout doit le craindre.
+
+-*who_venus,mars
+Tout doit le craindre,
+Tout doit l'aimer.
+
+-*who_venus,mars
+Qu'il passe, au gré de ses désirs,
+De la gloire aux plaisirs,
+Des plaisirs à la gloire.
+Venez, aimables dieux, venez tous dans sa cour.
+Mêlez aux chants de victoire
+Les douces chansons d'amour.
+
+-*who_lechoeurdesgraces
+Mêlons aux chants de victoire
+Les douces chansons d'amour.
+
+-*who_bacchus,ceres
+Que tout le reste de la terre
+Porte envie au bonheur de ces lieux pleins d'attraits.
+
+-*who_choeur_graces
+Que tout le reste de la terre
+Porte envie au bonheur de ces lieux pleins d'attraits.
+
+-*who_mars,venus
+Au milieu de la guerre
+Goûtons les plaisirs de la paix.
+
+-*who_lechoeurgraces
+Au milieu de la guerre
+Goûtons les plaisirs de la paix.
+
+-*who_ceres
+Trop heureux qui moissonne
+Dans les champs des amours !
+Amants que rien ne vous étonne,
+L'espérance est un grand secours :
+Quand on vient à cueillir les fruits que l'amour donne,
+On est riche à jamais, et content pour toujours,
+Trop heureux qui moissonne
+Dans les champs des amours.
+
+-*who_bacchus
+Pour les plus fortunés, pour les plus malheureux,
+Dans l'empire amoureux,
+Le dieu du vin est nécessaire :
+S'il prend part aux plaisirs c'est pour les redoubler ;
+Il charme les chagrins des cours qu'on désespère :
+Bacchus a de quoi consoler
+De tous les maux qu'amour peut faire.
+
+-*who_mars,venus
+Qu'il passe au gré de ses désirs
+De la gloire aux plaisirs,
+Des plaisirs à la gloire ;
+Venez, aimables dieux, venez tous, dans sa cour :
+Mêlez aux chants de victoire
+Les douces chansons d'amour.
+
+-*who_lechoeurdesgraces
+Mêlons aux chants de victoire
+Les douces chansons d'amour.
+
+-*who_bacchus,ceres
+Que tout le reste de la terre
+Porte envie au bonheur de ces lieux pleins d'attraits.
+
+-*who_choeur_graces
+Que tout le reste de la terre
+Porte envie au bonheur de ces lieux pleins d'attraits.
+
+-*who_mars,venus
+Au milieu de la guerre,
+Goûtons les plaisirs de la paix.
+
+-*who_lechoeurdesgraces
+Au milieu de la guerre,
+Goûtons les plaisirs de la paix.
+
+**** *book_ *id_II01 *act_II *date_1675
+
+-*who_lechoeurdescombattants
+Avançons, avançons ; que rien ne nous étonne ;
+Frappons, perçons, frappons ; qu'on n'épargne personne ;
+Il faut périr, il faut périr ;
+Il faut vaincre, ou mourir.
+
+**** *book_ *id_II02 *act_II *date_1675
+
+-*who_aegle
+Quel que soit mon destin, il faut ici l'attendre,
+Minerve, c'est à vous que je viens recourir.
+Divinité qui devez prendre
+Le soin de nous défendre,
+Hâtez-vous de nous secourir.
+
+-*who_lechoeurdescombattants
+Il faut vaincre, ou mourir.
+
+-*who_aegle
+Ô ciel ! ô juste ciel ! Vous est-il doux d'entendre
+Ces cris pleins de fureur que je ne puis souffrir ?
+Dieux ! Aimez-vous à voir tant de sang se répandre ?
+
+-*who_lechoeurdescombattants
+Il faut périr, il faut périr,
+Il faut vaincre ou mourir.
+
+**** *book_ *id_II03 *act_II *date_1675
+
+-*who_aegle
+Est-ce aux athéniens, est-ce au parti contraire,
+Que l'avantage est demeuré ?
+Dis-moi pour qui le sort s'est enfin déclaré.
+Ton silence me désespère.
+
+-*who_cleone
+Pardonnez à la peur qui me force à me taire.
+Mes yeux troublés d'effroi n'ont rien considéré :
+Thésée est le dieu tutélaire
+Qui me donne en ce temple un refuge assuré :
+Je ne sais rien de plus, et j'ai cru beaucoup faire
+De gagner en tremblant cet asile sacré.
+
+-*who_aegle
+Au milieu des clameurs, au travers du carnage,
+Thésée a jusqu'ici conduit mes pas errants :
+Son généreux courage
+A fait ses premiers soins de m'ouvrir un passage
+Entre deux effroyables rangs
+De morts et de mourants.
+N'as-tu point admiré l'ardeur noble et guerrière
+Dont il court au péril et s'expose au trépas ?
+Ah qu'un jeune héros dans l'horreur des combats
+Couvert de sang, et de poussière,
+Aux yeux d'une princesse fière
+A de charmants appas !
+
+-*who_cleone
+Thésée est aimable, il vous aime ;
+Tout cède à sa valeur extrême ;
+Vous pouvez sans rougir souffrir à votre tour
+Que jusqu'à votre cour il porte sa victoire.
+Il n'est rien de si beau que les nouds de l'amour
+Quand ils sont formés par la gloire.
+
+-*who_aegle,cleone
+Il n'est rien de si beau que les nouds de l'amour
+Quand ils sont formés par la gloire.
+
+-*who_lechoeurdescombattants
+Il faut périr, il faut périr,
+Il faut vaincre, ou mourir.
+
+**** *book_ *id_II04 *act_II *date_1675
+
+-*who_aegle
+Le ciel ne veut-il point mettre fin à nos peines ?
+Éclaircis-nous, Arcas, quel est le sort d'Athènes ?
+
+-*who_arcas
+Le combat dure encor, il est sanglant, affreux,
+Et le succès en est douteux.
+Le roi m'a commandé de prendre
+Le soin de l'avertir s'il fallait vous défendre,
+Et ce n'est que pour vous qu'il est touché d'effroi...
+
+-*who_aegle
+Thésée est-il avec le roi ?
+
+-*who_arcas
+Des plus fiers ennemis il écarte la foule,
+On reconnaît sa trace aux flots du sang qui coule :
+Une grêle de traits ne l'a point retenu.
+
+-*who_aegle
+Ô dieux ! ...
+      Mon secret est connu ;
+Je crains devant Arcas d'en faire trop entendre,
+Cléone, s'il se peut, obtiens qu'il aille apprendre
+Ce que Thésée est devenu.
+
+**** *book_ *id_II05 *act_II *date_1675
+
+-*who_cleone
+Laissons aller la princesse,
+Prier en paix la déesse.
+Arcas, je veux voir en ce jour
+Jusqu'où va pour moi ton amour.
+
+-*who_arcas
+Peux-tu douter de ma tendresse ?
+
+-*who_cleone
+J'en doute encor, je le confesse.
+Tu m'as fait des serments cent fois
+Que tu suivrais toujours mes lois,
+Et qu'il te serait doux de mourir pour me plaire ;
+Mais la plupart des amants
+Sont sujets à faire
+Bien des faux serments.
+
+-*who_arcas
+Tu n'as qu'à commander, tu seras satisfaite.
+
+-*who_cleone
+Cherche Thésée, et suis ses pas
+Jusqu'à sa victoire parfaite,
+Ou jusqu'à son trépas.
+
+-*who_arcas
+D'où vient qu'en sa faveur ton âme s'inquiète ?
+
+-*who_cleone
+Si tu veux que je t'aime, Arcas,
+Fais ce que je souhaite,
+Et ne réplique pas.
+
+-*who_arcas
+Pour un autre que moi Cléone s'intéresse ?
+Prétends-tu que je sois un amant qui me presse
+De me charger d'un soin à mon amour fatal ?
+C'est un plaisir charmant de servir sa maîtresse,
+Mais c'est un chagrin sans égal
+De servir son rival.
+L'ordre du roi m'engage
+À prendre soin de vous.
+
+-*who_cleone
+L'ennemi jusqu'ici n'ose porter sa rage.
+Tout le monde est aux mains, veux-tu seul fuir les coups ?
+
+-*who_arcas
+Ce grand empressement me donne de l'ombrage.
+
+-*who_cleone
+La valeur à mes yeux a des charmes bien doux,
+Et le moindre soupçon m'outrage :
+Je ne veux point avoir d'époux
+Qui soit jaloux,
+Ni d'amant qui soit sans courage.
+
+-*who_arcas
+Faut-il qu'un étranger ait pour toi tant d'appas ?
+
+-*who_cleone
+Je te l'ai déjà dit, et je te le répète,
+Si tu veux que je t'aime, Arcas
+Fais ce que je souhaite,
+Et ne réplique pas.
+
+-*who_arcas
+Hé bien, je suivrai ton envie,
+J'en veux faire toujours ma loi ;
+La peur de te déplaire est mon plus grand effroi :
+Je crains peu d'exposer ma vie,
+Je ne puis hasarder rien qui ne soit à toi.
+
+-*who_lechoeurdescombattants
+Avançons, avançons ; que rien ne nous étonne ;
+Frappons, perçons, frappons, qu'on n'épargne personne ;
+Il faut périr, il faut périr,
+Il faut vaincre, ou mourir.
+
+**** *book_ *id_II06 *act_II *date_1675
+
+-*who_lagrandepretresse
+Prions, prions la déesse
+De nous dégager
+Du danger
+Qui nous presse
+Prions, prions la déesse.
+
+-*who_lapretresse,aegle,cleone
+Prions, prions, la déesse.
+
+-*who_lechoeurdescombattants
+Mourez, mourez, perfides cours,
+Tombez sous les coups des vainqueurs.
+
+-*who_lagrandepretresse
+Dieux ! Quelle barbarie !
+
+-*who_aegle
+Entendrons-nous toujours ces horribles clameurs ?
+
+-*who_lapretresse,aegle,cleone
+Dieux ! Quelle barbarie !
+
+-*who_lechoeurdescombattants
+Mourez, mourez, perfides cours,
+Tombez sous les coups des vainqueurs.
+
+-*who_uncombattant
+Sauve un malheureux qui te prie.
+Ah je meurs ! Ah je meurs !
+
+-*who_lapretresse,aegle,cleone
+Dieux ! Quelle barbarie !
+
+-*who_uncombattant
+Ah je meurs ! Ah je meurs !
+Sauve un malheureux qui te prie.
+
+-*who_lechoeurdescombattants
+Mourez, mourez, perfides cours,
+Tombez sous les coups des vainqueurs.
+
+-*who_lagrandepretresse
+Ô Minerve ! Arrêtez la cruelle furie
+Qui désole notre patrie :
+Écartez loin de nous la guerre et ses horreurs ;
+Ciel ! Épargnez le sang, contentez-vous de pleurs,
+
+-*who_lapretresse,aegle,cleone
+Ciel ! Épargnez le sang, contentez-vous de pleurs.
+
+-*who_lechoeurdescombattants
+Liberté, liberté.
+Victoire, victoire, victoire.
+Courons, courons tous à la gloire.
+Combattons avec fermeté.
+Défendons notre liberté.
+Liberté, liberté.
+Emportons la victoire.
+Victoire, victoire, victoire.
+Liberté, liberté.
+Victoire, victoire, victoire.
+
+**** *book_ *id_II07 *act_II *date_1675
+
+-*who_leroi
+Les mutins sont vaincus, leurs chefs sont immolés,
+Leur vaine espérance est détruite.
+Tous les peuples voisins qu'ils avaient appelés
+Sont dans nos fers, ou sont en fuite.
+
+-*who_lagrandepretresse
+Rendons grâces aux dieux.
+
+-*who_ensemble
+Rendons grâces aux dieux.
+
+-*who_lagrandepretresse
+Puisque le juste ciel à nos voux est propice,
+Allons, empressons-nous d'offrir un sacrifice
+À la divinité qui protège ces lieux.
+Rendons grâces aux dieux.
+
+-*who_tousensemble
+Rendons grâces aux dieux.
+
+**** *book_ *id_II08 *act_II *date_1675
+
+-*who_leroi
+Cessez, charmante, AEglé, de répandre des larmes,
+Commençons après tant d'alarmes
+À jouir d'un destin plus doux :
+Puisque je vois mon trône affermi par les armes,
+J'y veux joindre de nouveaux charmes
+En le partageant avec vous.
+
+-*who_aegle
+Avec moi ! Vous ! Seigneur !
+
+-*who_leroi
+Que votre trouble cesse.
+C'est peut-être, un peu tard vouloir plaire à vos yeux,
+Je ne suis plus au temps de l'aimable jeunesse,
+Mais je suis, roi, belle princesse, et roi victorieux.
+Faites grâce à mon âge en faveur de ma gloire,
+Voyez le prix du rang qui vous est destiné :
+La vieillesse sied bien sur un front couronné,
+Quand on y voit briller l'éclat de la victoire.
+Parlez charmante AEglé, parlez à votre tour.
+
+-*who_aegle
+Depuis que j'ai perdu mon père
+Vos soins ont prévenu mes voux dans votre cour.
+Je dois vous respecter, Seigneur, je vous révère...
+
+-*who_leroi
+Vous parlez de respect quand je parle d'amour.
+
+-*who_aegle
+Mais votre foi, Seigneur, à Médée est promise ?
+
+-*who_leroi
+Je sais que lorsqu'on la méprise
+On s'expose aux fureurs de ses ressentiments.
+Toute la nature est soumise
+À ses affreux commandements,
+L'enfer la favorise,
+Elle confond les éléments,
+Le ciel même est troublé par ses enchantements.
+Mais j'ai fait élever en secret dans Trézene
+Un fils qui peut m'ôter de peine :
+Je veux qu'en épousant Medée au lieu de moi,
+Il dégage ma foi.
+
+-*who_aegle
+Mais si malgré vos soins, Médée ambitieuse,
+Ne s'attache qu'au rang que vous me présentez ?
+
+-*who_leroi
+Que vous êtes ingénieuse
+À trouver des difficultés !
+Que Médée en fureur, s'arme, menace, tonne,
+Il faut que ma main vous couronne
+Quand il m'en coûterait et l'empire, et le jour.
+Un grand cour qui se sent animé par l'amour
+Ne doit jamais trouver de péril qui l'étonne.
+J'atteste Minerve à vos yeux,
+J'atteste le maître des cieux,
+Et sa foudroyante justice...
+
+-*who_aegle
+Tout est prêt pour le sacrifice
+Chacun s'avance dans ces lieux,
+Rendons grâces aux dieux.
+
+**** *book_ *id_II09 *act_II *date_1675
+
+-*who_lagrandepretresse
+Cet empire puissant que votre soin conserve
+Vient reconnaître ici votre divin secours,
+Favorable Minerve !
+Protégez-nous toujours.
+
+-*who_lechoeurdespretresses
+Favorable Minerve !
+Protégez-nous toujours.
+
+-*who_lagrandepretresse
+Le péril était redoutable :
+Mais vous nous inspirez un courage indomptable
+Qui de notre malheur a détourné le cours,
+Ô Pallas favorable !
+Protégez-nous toujours.
+
+-*who_lechoeurdespretresses
+Ô Pallas favorable !
+Protégez-nous toujours.
+
+-*who_lagrandepretresse
+Il faut profiter
+Du bonheur de nos armes.
+C'est trop écouter
+Le bruit des alarmes,
+Le cours de nos larmes
+Se doit arrêter,
+Songeons à goûter
+Un sort plein de charmes ;
+Il faut profiter
+Du bonheur de nos armes.
+
+-*who_lechoeurdespretresses
+Chantez tous en paix,
+Chantez la victoire,
+Et que la mémoire
+En vive à jamais :
+Chantez les attraits
+Dont brille la gloire ;
+Chantez tous en paix,
+Chantez la victoire.
+
+-*who_lagrandepretresse
+Le calme est bien doux
+Après un grand orage.
+La gloire est pour nous,
+La honte et la rage
+Seront le partage
+Des voisins jaloux :
+Tout cède à nos coups,
+Tout cède au courage :
+Le calme est bien doux
+Après un grand orage.
+
+-*who_lechoeurdespretresses
+Chantons tour à tour
+Dans ces lieux aimables,
+Des dieux favorables
+Y font leur séjour :
+Les seuls traits d'amour
+Y sont redoutables :
+Chantons tour à tour
+Dans ces lieux aimables.
+
+**** *book_ *id_II10 *act_II *date_1675
+
+-*who_lagrandepretresse
+Ô Minerve savante !
+Ô guerrière Pallas !
+Que par votre faveur puissante
+Une félicité charmante
+Nous offre chaque jour mille nouveaux appas,
+Ô Minerve savante !
+Ô guerrière Pallas !
+
+-*who_leschoeurs
+Animez nos cours, et nos bras,
+Rendez la victoire constante,
+Conduisez nos soldats,
+Partout, devant leurs pas,
+Jetez le trouble et l'épouvante ;
+Ô Minerve savante !
+Ô guerrière Pallas !
+
+-*who_lagrandepretresse
+Souffrez qu'un jeu sacré dans ces lieux vous présente
+Une image innocente
+De guerre et de combats.
+
+-*who_leschoeurs
+Ô Minerve savante !
+Ô guerrière Pallas !
+
+-*who_leschoeurs
+Que la guerre sanglante
+Passe en d'autres états,
+Ô Minerve savante !
+Ô guerrière Pallas !
+Que la foudre grondante
+Détourne ses éclats :
+Ô Minerve savante !
+Ô guerrière Pallas !
+
+-*who_lagrandepretresse
+Puissions-nous voir toujours Athènes triomphante,
+Puisse son roi vainqueur des plus grands potentats
+La rendre heureuse et florissante.
+
+-*who_leschoeurs
+Ô Minerve savante !
+Ô guerrière Pallas !
+
+**** *book_ *id_III01 *act_III *date_1675
+
+-*who_medee
+Doux repos, innocente paix,
+Heureux, heureux un cour qui ne vous perd jamais !
+L'impitoyable amour m'a toujours poursuivie ;
+N'était-ce point assez des maux qu'il m'avait faits !
+Pourquoi ce dieu cruel avec de nouveaux traits
+Vient-il encor troubler le reste de ma vie ?
+Doux repos, innocente paix,
+Heureux, heureux un cour qui ne vous perd jamais !
+
+-*who_dorine
+Recommencez d'aimer, reprenez l'espérance ;
+Thésée est un héros charmant,
+Méprisez en l'aimant
+L'ingrat Jason qui vous offense.
+Il faut par le changement
+Punir l'inconstance,
+C'est une douce vengeance
+De faire un nouvel amant.
+
+-*who_medee
+La gloire de Thésée à mes yeux paraît belle,
+On l'a vu triompher dés qu'il a combattu ;
+Le destin de Médée est d'être criminelle,
+Mais son cour était fait pour aimer la vertu.
+
+-*who_dorine
+Le dépit veut que l'on s'engage
+Sous de nouvelles lois,
+Quand on s'abuse au premier choix ;
+On n'est pas volage
+Pour ne changer qu'une fois.
+
+-*who_medee
+Un tendre engagement va plus loin qu'on ne pense ;
+On ne voit pas, lorsqu'il commence,
+Tout ce qu'il doit coûter un jour :
+Mon cour aurait encor sa première innocence
+S'il n'avait jamais eu d'amour.
+Mon frère et mes deux fils ont été les victimes
+De mon implacable fureur ;
+J'ai rempli l'univers d"horreur,
+Mais le cruel amour a fait seul tous mes crimes.
+
+-*who_dorine
+Espérez de former de plus aimables nouds.
+Une cruelle expérience
+Vous apprend que l'amour est un mal dangereux ;
+Mais l'ennuyeuse indifférence
+Ne rend pas un cour plus heureux.
+Aimez, aimez Thésée, aimez sa gloire extrême.
+
+-*who_medee
+Mais qui me répondra qu'il m'aime ?
+
+-*who_dorine
+Peut-il trouver un sort plus beau ?
+
+-*who_medee
+Peut-être que mon cour cherche un malheur nouveau.
+Mon dépit, tu le sais, dédaigne de se plaindre :
+Il est difficile à calmer,
+S'il venait à se rallumer,
+Il faudrait du sang pour l'éteindre.
+
+-*who_dorine
+Que ne peut point Médée avec l'art de charmer ?
+Que puis-je ? Hélas ! Parlons sans feindre.
+Les enfers quand je veux sont contraints à s'armer,
+Mais on ne force point un cour à s'enflammer ;
+Mes charmes les plus forts ne sauraient l'y contraindre,
+Ah je n'en ai que trop pour forcer à me craindre,
+Et trop peu pour me faire aimer.
+
+**** *book_ *id_III02 *act_III *date_1675
+
+-*who_leroi
+Je vois le succès favorable
+Des soins que vous m'avez promis,
+Médée et son art redoutable
+Ont gardé ce palais contre mes ennemis.
+J'ai différé longtemps de tenir ma promesse,
+Je devrais être votre époux.
+
+-*who_medee
+L'hymen n'a rien qui presse
+Ni pour moi, ni pour vous.
+
+-*who_leroi
+Vous pouvez sans chagrin souffrir que je diffère.
+Avec un époux plein d'appas
+L'hymen a de la peine à plaire ;
+Quelle peur ne doit-il pas faire
+Quand l'époux ne plaît pas ?
+Désormais sans péril je puis faire paraître
+Un fils que dans ma cour je n'osais reconnaître.
+Il peut venir dans peu de temps.
+
+-*who_medee
+Laissons-là votre fils, Seigneur, je vous entends
+La jeune AEglé vous paraît belle,
+Chaque jour, je m'en aperçois ;
+Si vous m'abandonnez pour elle,
+Thésée est seul digne de moi.
+
+-*who_leroi,medee
+Ne nous piquons point de constance ;
+Consentons à nous dégager.
+Goûtons d'intelligence
+La douceur de changer.
+
+-*who_medee
+Quand on suit une amour nouvelle,
+C'est une trahison cruelle
+De laisser dans l'engagement
+Un cour tendre et fidèle ;
+Mais rien n'est si charmant
+Qu'une inconstance mutuelle.
+
+-*who_leroi,medee
+Heureux deux amants inconstants,
+Quand ils le sont en même temps.
+
+**** *book_ *id_III03 *act_III *date_1675
+
+-*who_arcas
+Seigneur, songez à vous.
+
+-*who_leroi
+      Quel malheur nous menace ?
+
+-*who_arcas
+Thésée est si puissant qu'il peut vous alarmer,
+Ses glorieux exploits charment la populace,
+Au lieu d'un héritier qui manque à votre race,
+Pour votre successeur on le veut proclamer.
+
+-*who_leroi
+Il faut arrêter cette audace.
+
+**** *book_ *id_III04 *act_III *date_1675
+
+-*who_dorine
+Demeure, écoute un mot, Arcas.
+
+-*who_arcas
+Mon devoir près du roi m'appelle,
+Il faut que je suive ses pas.
+
+-*who_dorine
+Autrefois tu m'étais fidèle,
+Tu jurais de m'aimer d'une ardeur éternelle.
+
+-*who_arcas
+Nous sommes dans un temps de trouble et de combats.
+
+-*who_dorine
+Cléone a des appas,
+On te voit souvent avec elle,
+N'est-ce point une amour nouvelle
+Qui fait ton embarras ?
+Tu rougis ? Tu ne réponds pas ?
+
+-*who_arcas
+Mon devoir près du roi m'appelle,
+Il faut que je suive ses pas.
+
+**** *book_ *id_III05 *act_III *date_1675
+
+-*who_dorine
+C'est donc là tout le prix d'une amour trop sincère.
+N'aimons jamais, ou n'aimons guère :
+Il est dangereux d'aimer tant,
+Ce n'est pas le plus sûr pour plaire.
+Bien souvent on croit faire
+Un amant heureux et content,
+Et l'on ne fait qu'un inconstant.
+
+**** *book_ *id_III06 *act_III *date_1675
+
+-*who_peuples
+Régnez, héros indomptable ;
+Régnez rendez nous heureux.
+
+-*who_dorine
+Le peuple vient ici. Sa faveur est semblable
+Au transport des cours amoureux ;
+L'ardeur des plus grands feux
+N'est pas la plus durable.
+
+-*who_peuples
+Régnez, héros indomptable,
+Rendez, rendez-nous heureux.
+
+**** *book_ *id_III07 *act_III *date_1675
+
+-*who_lechoeur
+Que l'on doit être
+Content d'avoir un maître
+Vainqueur des plus grands rois !
+Que l'on entende
+Chanter partout ses exploits :
+Joignons nos voix.
+Que toujours il nous défende,
+Qu'il triomphe, qu'il commande,
+Qu'il jouisse des douceurs
+De régner sur tous les cours.
+
+-*who_deuxvieillards
+Pour le peu de bon temps qui nous reste
+Rien n'est si funeste
+Qu'un noir chagrin.
+Le plaisir se présente,
+Chantons quand on chante,
+Vivons au gré du destin.
+L'affreuse vieillesse
+Qui doit voir sans cesse
+La mort s'approcher,
+Trouve assez la tristesse
+Sans la chercher.
+Achevons nos vieux ans sans alarmes ;
+La vie a des charmes
+Jusqu'à la fin.
+Le plaisir se présente,
+Chantons quand on chante,
+Vivons au gré du destin.
+L'affreuse vieillesse
+Qui doit voir sans cesse
+La mort s'approcher,
+Trouve assez la tristesse
+Sans la chercher.
+
+-*who_lechoeur
+Que la victoire
+Le comble ici de gloire ;
+Suivons, aimons ses lois.
+Que l'on entende
+Chanter partout ses exploits :
+Joignons nos voix.
+Que toujours il nous défende,
+Qu'il triomphe, qu'il commande,
+Qu'il jouisse des douceurs
+De régner sur tous les cours.
+
+-*who_thesee
+C'est assez, amis, c'est assez,
+Allez, et que chacun en bon ordre se rende
+Aux endroits qu'au besoin il faudra qu'il défende :
+Allez, je suis content de vos soins empressés,
+Si vous voulez que je commande,
+Allez, allez, obéissez.
+
+**** *book_ *id_III08 *act_III *date_1675
+
+-*who_medee
+Thésée où courez-vous ? Que prétendez-vous faire ?
+
+-*who_thesee
+Chercher le roi, le voir, et calmer sa colère.
+
+-*who_medee
+Le roi souffrira-t-il que vous donniez la loi ?
+
+-*who_thesee
+Il n'aura pas lieu de se plaindre,
+Si l'on a trop d'ardeur pour moi,
+C'est un feu que j'ai soin d'éteindre.
+
+-*who_medee
+Vous êtes de trop bonne foi ;
+Quand on a fait trembler un roi,
+Apprenez qu'on en doit tout craindre.
+
+-*who_thesee
+Sans un charme puissant qui m'attache à sa cour
+J'irais chercher ailleurs une guerre nouvelle.
+La gloire m'enflamma dès que je vis le jour,
+Tout mon cour était fait pour elle ;
+Mais dans un jeune cour, la gloire la plus belle
+Fait aisément place à l'amour.
+
+-*who_medee
+Un peu d'amoureuse tendresse
+Sied bien aux plus fameux vainqueurs ;
+Si l'amour est une faiblesse,
+C'est la faiblesse des grands cours.
+Parlez, que rien ne vous alarme
+J'obligerai le roi de vous tout accorder.
+
+-*who_thesee
+C'est la belle AEglé qui me charme,
+Elle est l'unique prix que je veux demander.
+
+-*who_medee
+C'est AEglé ? Dites-vous, AEglé, qui vous engage ?
+
+-*who_thesee
+Je sais que la grandeur a pour vous des attraits,
+Régnez avec le roi, régnez tous deux en paix,
+AEglé, l'aimable AEglé, n'est qu'un trop beau partage.
+
+-*who_medee
+Je crains pour votre amour un obstacle fatal.
+
+-*who_thesee
+Si Médée est pour moi qui peut m'être contraire ?
+
+-*who_medee
+Vous avez le roi pour rival.
+
+-*who_thesee
+Malgré sa foi promise, AEglé pourrait lui plaire ?
+
+-*who_medee
+Laissez-moi voir AEglé, laissez-moi voir le roi,
+Vous connaîtrez bientôt les soins que je vais prendre
+Allez, allez, m'attendre,
+Et fiez-vous à moi.
+
+**** *book_ *id_III09 *act_III *date_1675
+
+-*who_medee
+Dépit mortel, transport jaloux,
+Je m'abandonne à vous.
+Et toi, meurs pour jamais, tendresse trop fatale ;
+Que le barbare amour, que j'avais cru si doux,
+Se change dans mon cour en furie infernale.
+Dépit mortel, transport jaloux,
+Je m'abandonne à vous.
+Inventons quelque peine affreuse, et sans égale :
+Préparons avec soin, nos plus funestes coups.
+Ah ! Si l'ingrat que j'aime échappe à mon courroux,
+Au moins, n'épargnons pas mon heureuse rivale.
+Dépit mortel, transport jaloux,
+Je m'abandonne à vous.
+
+**** *book_ *id_IV01 *act_IV *date_1675
+
+-*who_cleone
+Vous allez voir bientôt votre amant dans ces lieux.
+
+-*who_aegle
+Je le verrai victorieux.
+Après de mortelles alarmes
+Qu'un bienheureux retour est doux pour les amants !
+L'amour s'accroît par les tourments,
+Les biens qu'il fait payer avec le plus de larmes
+N'en deviennent que plus charmants.
+
+-*who_cleone
+Thésée est triomphant, chacun le veut pour maître.
+
+-*who_aegle
+Ne verrai-je point paraître
+Un si glorieux vainqueur ?
+Il négligera peut-être
+La conquête de mon cour.
+
+-*who_cleone
+On n'est pas inconstant pour aimer la victoire.
+Si le passage est beau de l'amour à la gloire,
+Rien n'est si doux que le retour
+De la gloire à l'amour.
+
+-*who_aegle
+Non, son amour n'est point extrême :
+Faut-il qu'il trouve ailleurs tant de soins importants ?
+Il n'ignore pas que je l'aime,
+Il doit songer que je l'attends.
+
+-*who_aegle,cleone
+La gloire n'est que trop pressante,
+Un héros doit la suivre avec empressement ;
+Mais dès que la gloire est contente,
+L'amour doit promptement
+Ramener un amant.
+
+**** *book_ *id_IV02 *act_IV *date_1675
+
+-*who_arcas
+Le roi m'ordonne de vous dire
+Qu'il vous fera bientôt régner :
+Rien ne trouble plus son empire...
+Vous tremblez ? Votre cour soupire ?
+Le roi tout vieux qu'il est n'est pas à dédaigner.
+Lorsque par le feu du bel âge
+Un jeune cour se sent pressé,
+Dans une ardente amour sans effort on l'engage :
+On triomphe bien davantage
+Quand on enflamme un cour que les ans ont glacé.
+
+-*who_aegle
+Si tu connais, Arcas, le trouble qui me presse,
+Ne va point découvrir la peine où tu me vois.
+
+-*who_cleone
+Si tu veux m'obliger oblige la princesse :
+Fais, s'il se peut par ton adresse
+Que le roi tourne ailleurs son choix.
+
+-*who_arcas
+Tu me donnes toujours d'assez fâcheux emplois.
+
+-*who_aegle,cleone,arcas
+Il n'est point de grandeur charmante
+Sans l'amour et sans ses douceurs :
+Rien ne plaît, rien n'enchante,
+Sans l'amour et sans ses douceurs :
+Rien ne contente
+Les jeunes cours
+Sans l'amour et sans ses douceurs :
+Il n'est point de grandeur charmante
+Sans l'amour et sans ses douceurs.
+
+**** *book_ *id_IV03 *act_IV *date_1675
+
+-*who_medee
+Princesse savez-vous ce que peut ma colère
+Quand on l'oblige d'éclater ?
+
+-*who_aegle
+Je prétends ne rien faire
+Qui vous doive irriter.
+
+-*who_medee
+Et n'est-ce rien que de trop plaire ?
+
+-*who_aegle
+Je renonce à l'hymen du roi
+Si je lui plais, c'est malgré moi.
+Ce n'est point dans le rang suprême
+Qu'on trouve les plus doux appas,
+Et souvent un bonheur extrême
+Est plus sûr dans un rang plus bas.
+
+-*who_medee
+Vous aimez donc Thésée ? Ah ! N'en rougissez pas,
+Il n'est que trop digne qu'on l'aime.
+Je m'intéresse en votre amour ;
+Parlez, vous connaîtrez mon cour à votre tour.
+
+-*who_aegle
+J'avais toujours bravé l'amour et sa puissance
+Avant que d'avoir vu ce glorieux vainqueur ;
+Mais la gloire et l'amour tous deux d'intelligence
+Ne sont que trop puissants pour vaincre un jeune cour.
+Que votre soin au mien réponde,
+J'espère que le roi deviendra votre époux :
+Régnez par son hymen dans une paix profonde,
+Laissez-moi ce héros, mon sort est assez doux ;
+Quand vous posséderiez tout l'empire du monde,
+Mon cour n'en serait point jaloux.
+
+-*who_medee
+Mais enfin, si le roi commande,
+Vous êtes soumise à sa loi.
+
+-*who_aegle
+Ma vie est au pouvoir du roi,
+Et je veux bien qu'elle en dépende :
+Mais c'est en vain qu'il demande
+Un cour qui n'est plus à moi.
+
+-*who_medee
+Vous m'en avez trop dit, il est temps qu'entre nous
+La confidence soit égale.
+Il faut vous dégager d'une chaîne fatale.
+
+-*who_aegle
+La mort, la seule mort rompra des nouds si doux.
+
+-*who_medee
+Je veux que dés demain le roi soit votre époux :
+Vous aimez un héros qui ne peut être à vous,
+Et Médée est votre rivale ;
+Prenez soin d'éviter mon funeste courroux.
+
+-*who_aegle
+Nos deux cours sont unis par un amour fidèle.
+
+-*who_medee
+En dépit de l'amour je les veux diviser.
+
+-*who_aegle
+La chaîne qui nous lie est si forte et si belle.
+
+-*who_medee
+J'aurai plus de plaisir si je la puis briser.
+
+-*who_aegle
+Non, j'aime mieux la mort qu'une lâche inconstance,
+Tout l'enfer à mes yeux n'aura rien de si noir ;
+Malgré Médée et sa vengeance,
+Mon amour fera son devoir.
+
+-*who_medee
+Voyons si votre amour est tel qu'il veut paraître,
+Puisque vous le voulez vous allez me connaître :
+Je vais vous faire voir
+Ce que c'est que Médée et quel est son pouvoir.
+
+**** *book_ *id_IV04 *act_IV *date_1675
+
+-*who_aegle,cleone,arcas
+Dieux ! Où sommes nous !
+
+-*who_cleone
+Que d'objets horribles !
+
+-*who_arcas
+Quels monstres terribles !
+
+-*who_aegle
+Quel affreux courroux !
+
+-*who_aegle,cleone,arcas
+Dieux ! Où sommes-nous !
+
+-*who_aegle
+Me laissez-vous, cruelle,
+Dans cette horreur mortelle ?
+Ah cruelle ! Où me laissez-vous ?
+
+-*who_aegle,cleone,arcas
+Dieux ! Où sommes nous ?
+
+**** *book_ *id_IV05 *act_IV *date_1675
+
+-*who_cleone
+Contre ce monstre qui m'alarme
+Viens me défendre Arcas.
+
+-*who_arcas
+Ne crains rien avant mon trépas.
+Ô ciel ! On me désarme !
+Tu peux beaucoup ici, belle Dorine, hélas !
+Ne l'abandonne pas.
+
+-*who_cleone,arcas
+Belle, Dorine, hélas !
+Ne m'abandonne pas.
+Ne l'abandonne pas.
+
+-*who_dorine
+Il est bon d'être nécessaire ;
+C'est un charme puissant pour plaire
+Où peu de cours ont résisté :
+Un grand secours qu'on espère
+Est un grand trait de beauté.
+
+-*who_arcas
+Ce n'est pas d'aujourd'hui que je te trouve belle.
+
+-*who_cleone
+Où pourrait-il voir plus d'attraits ?
+
+-*who_dorine
+Je sais trop votre amour nouvelle.
+
+-*who_cleone,arcas
+Non, non, je le promets,
+Non, je ne l'aimerai jamais.
+
+-*who_dorine
+Pour se tirer de peine
+Chacun promet assez ;
+Mais la promesse est vaine
+Lorsque les périls sont passés.
+
+-*who_cleone,arcas
+Ne doute point de ma promesse.
+
+-*who_dorine
+Non, je ne prétends point regagner désormais
+D'un si volage amant la trompeuse tendresse ;
+Non, non, je le promets ;
+Non, je ne l'aimerai jamais.
+
+-*who_cleone,arcas,dorine
+Non, non, je le promets,
+Non, je ne l'aimerai jamais.
+
+**** *book_ *id_IV06 *act_IV *date_1675
+
+-*who_medee
+Qu'on ne me trouble point, qu'on leur ouvre un passage.
+C'est sur d'autres que vous que doit tomber ma rage,
+Fuyez de ce funeste lieu.
+
+-*who_cleone,arcas
+Adieu, Dorine, adieu.
+
+**** *book_ *id_IV07 *act_IV *date_1675
+
+-*who_medee
+Sortez, ombres, sortez de la nuit éternelle.
+Voyez le jour pour le troubler.
+Hâtez-vous d'obéir quand ma voix vous appelle,
+Que l'affreux désespoir, que la rage cruelle
+Prennent soin de vous assembler.
+Sortez, ombres, sortez de la nuit éternelle.
+
+-*who_lechoeurdelenfer
+Sortons de la nuit éternelle.
+
+-*who_medee
+Venez peuple infernal, venez,
+Avancez malheureux coupables,
+Soyez aujourd'hui déchaînés :
+Goûtez l'unique bien des cours infortunés,
+Ne soyons pas seuls misérables.
+
+-*who_lechoeurdelenfer
+Goûtons l'unique bien des cours infortunés,
+Ne soyons pas seuls misérables.
+
+-*who_medee
+Redoublez en ce jour le soin que vous prenez
+De mes vengeances redoutables.
+
+-*who_lechoeurdelenfer
+Ordonnez, ordonnez.
+
+-*who_medee
+Ma rivale m'expose à des maux effroyables ;
+Qu'elle ait part aux tourments qui vous sont destinés :
+Tous les enfers impitoyables
+Auront peine à former des horreurs comparables
+Aux troubles qu'elle m'a donné :
+Goûtons l'unique bien des cours infortunés,
+Ne soyons pas seuls misérables.
+
+-*who_lechoeurdelenfer
+Goûtons l'unique bien des cours infortunés,
+Ne soyons pas seuls misérables.
+On nous tourmente
+Sans cesse aux enfers,
+Que l'on ressente
+Nos feux et nos fers.
+Tout doit se troubler,
+Tout doit trembler.
+La colère
+Ne laisse jamais
+Nos cours en paix ;
+Les plaintes qu'on peut faire
+Nous doivent toujours plaire,
+Et nous ne plaignons guère
+Les yeux qui sont en pleurs :
+Dans la rage,
+Les maux qu'on partage
+Ne sont pas sans douceurs.
+On nous déchaine,
+Suivons nos fureurs ;
+Dans notre peine
+Troublons tous les cours.
+Un grand désespoir
+Est doux à voir.
+La colère
+Ne laisse jamais
+Nos cours en paix ;
+Les plaintes qu'on peut faire
+Nous doivent toujours plaire,
+Et nous ne plaignons guère
+Les yeux qui sont en pleurs :
+Dans la rage,
+Les maux qu'on partage
+Ne sont pas sans douceurs.
+
+**** *book_ *id_IV08 *act_IV *date_1675
+
+-*who_lechoeurdelenfer
+Que tout frémisse :
+Qu'avec nous tout gémisse :
+Quelle douceur de voir souffrir !
+
+-*who_aegle
+Ah quel effroyable supplice !
+Faites-moi promptement mourir.
+
+-*who_lechoeurdelenfer
+Que tout frémisse :
+Qu'avec nous tout gémisse :
+Quelle douceur de voir souffrir !
+
+**** *book_ *id_V01 *act_V *date_1675
+
+-*who_aegle
+Cruelle, ne voulez-vous pas
+Faire cesser ma peine ?
+Au moins achevez, inhumaine,
+Achevez mon trépas.
+
+-*who_medee
+Satisfaites le roi, contentez mon envie,
+Si vous voulez sortir de cet affreux sejour.
+
+-*who_aegle
+Hélas ! Laissez-moi mon amour,
+Prenez plutôt ma vie.
+
+-*who_medee
+Ma rage en vous perdant ne peut être assouvie,
+C'est grâce, c'est pitié de vous ôter le jour.
+
+-*who_aegle
+Vous aurez beau me poursuivre,
+Vous aurez beau m'alarmer,
+Ce n'est qu'en cessant de vivre
+Que je puis cesser d'aimer.
+
+-*who_medee
+Achevez de savoir de quoi je suis capable ;
+La plus horrible mort n'a rien de comparable
+Au coup qui vous menace en ce fatal instant :
+Moi-même j'en frémis tant il est effroyable.
+
+-*who_aegle
+Est-ce un crime si punissable
+D'avoir un cour tendre et constant ?
+
+-*who_medee
+Il n'est que trop aisé de percer un cour tendre :
+Toute ma rage enfin va paraître à vos yeux.
+
+-*who_aegle
+Quel spectacle vient me surprendre ?
+C'est Thésée endormi qu'on transporte en ces lieux.
+
+**** *book_ *id_V02 *act_V *date_1675
+
+-*who_medee
+Venez à mon secours implacables furies.
+Que le sang innocent recommence à couler ;
+Il faut encor nous signaler
+Par de nouvelles barbaries,
+Venez à mon secours implacables furies.
+
+**** *book_ *id_V03 *act_V *date_1675
+
+-*who_aegle
+Faut-il voir contre moi tous les enfers armés ?
+
+-*who_medee
+Tremblez en apprenant quel est votre supplice.
+Votre amant va périr, c'est vous qui m'animez
+À m'en faire à vos yeux un affreux sacrifice.
+
+-*who_aegle
+Vous pouvez vouloir qu'il périsse ?
+Et vous dites que vous l'aimez ?
+
+-*who_medee
+Il faut voir qui des deux l'aimera davantage,
+Plutôt que le céder, j'aime mieux que la mort
+En fasse entre nous le partage,
+Et l'amour n'en est que plus fort
+Quand il passe jusqu'à la rage.
+Dépêchez, achevez votre sanglant ouvrage.
+
+-*who_aegle
+Arrêtez, retenez leurs coups,
+J'épouserai le roi, je suivrai votre envie :
+Je cède ce héros, que son cour soit à vous,
+Rien ne m'est si cher que sa vie.
+
+-*who_medee
+Mais aurez-vous bien le pouvoir
+De lui paraître ingrate, insensible, volage ?
+
+-*who_aegle
+C'est lui faire un cruel outrage,
+J'aimerais mieux ne le point voir.
+
+-*who_medee
+Non il faut lui montrer une âme déloyale
+Qui l'immole sans peine à la grandeur royale
+Tandis que je feindrai d'agir en sa faveur :
+Enfin je veux gagner son cour
+Par le secours de ma rivale.
+
+-*who_aegle
+Dieux ! Quelle contrainte fatale !
+
+-*who_medee
+Pour le prix de ses jours attirez ses mépris,
+Ou je vais...
+
+-*who_aegle
+      Non, qu'il vive, il n'importe à quel prix :
+Je veux tout, je puis tout pour sauver ce que j'aime ;
+Mon amour vous promet de se trahir lui-même.
+
+-*who_medee
+Cessez donc de trembler : voyez en un moment
+Changer ces lieux affreux en un séjour charmant.
+
+**** *book_ *id_V04 *act_V *date_1675
+
+-*who_medee
+Voyez ce que j'ai soin de faire
+Pour un trop malheureux amant.
+
+-*who_thesee
+Où suis-je ? Et d'où me vient ce nouvel ornement ?
+
+-*who_medee
+J'ai voulu vous aider à plaire.
+
+-*who_thesee
+Mon épée ! Ah rendez-la moi.
+
+-*who_medee
+On va vous l'apporter. Si vous craignez le roi,
+Je serai vos plus fortes armes.
+
+-*who_thesee
+Après tout ce que je vous dois...
+Est-ce vous ? Ma princesse, est-ce vous que je vois ?
+Mais où détournez-vous vos regards pleins de charmes ?
+
+-*who_medee
+Quoy ? Vous ne tournez pas les yeux
+Sur un amant si glorieux ?
+
+-*who_thesee
+Belle AEglé, dites-moi, quel crime ai-je pu faire ?
+
+-*who_medee
+N'appreéhendez-vous point qu'on ose se venger ?
+
+-*who_thesee
+Non, elle aura beau m'outrager,
+Elle me sera toujours chère.
+
+-*who_medee
+Tant d'amour ne vous touche pas ?
+Ingrate, croyez-vous qu'un trône ait plus d'appas ?
+
+-*who_thesee
+Vous m'aviez tant promis de n'être point légère ?
+
+-*who_medee
+De quoi ne vient point à bout
+Un roi qui veut plaire ?
+La constance ne tient guère
+Contre un amant qui peut tout.
+Le roi doit redouter que mon dépit n'éclate :
+Pour regagner son cour, je vais encor le voir.
+Essayez, cependant, d'attendrir cette ingrate :
+Si tous nos soins unis ne peuvent l'émouvoir,
+Votre amour seul peut-être aura plus de pouvoir.
+
+**** *book_ *id_V05 *act_V *date_1675
+
+-*who_thesee
+AEglé ne m'aime plus, et n'a rien à me dire ?
+Qu'avez-vous fait des nouds que l'amour fit pour nous ?
+Quoi pour les briser tous.
+Un jour, un seul jour peut suffire ?
+J'aurais abandonné le plus puissant empire
+Pour garder des liens si doux.
+
+-*who_aegle
+Cessez d'aimer une volage ;
+Servez-vous de votre courage
+Pour chercher un plus heureux sort.
+
+-*who_thesee
+Je ne m'en servirai que pour chercher la mort.
+Si la belle AEglé m'est ravie
+Je ne prétends plus rien :
+Je perds l'unique bien
+Qui m'aurait fait aimer la vie.
+
+-*who_aegle
+Hélas !
+
+-*who_thesee
+      Ah ! Quel soupir échappe à votre cour !
+
+-*who_aegle
+Ce soupir échappé n'est que pour la grandeur.
+
+-*who_thesee
+Vos beaux yeux répandent des larmes ?
+
+-*who_aegle
+Non, non, sans m'attendrir je verrai vos douleurs.
+
+-*who_thesee
+Vous voulez me cacher vos pleurs ?
+Pourquoi m'en dérober les charmes ?
+
+-*who_aegle
+Ah ! Que vous me donnez de mortelles alarmes ?
+On vous a peut-être entendu
+Thésée, et vous êtes perdu.
+
+-*who_thesee
+On ne nous entend point, non, ma belle princesse,
+Si vous m'aimez toujours ne craignez rien pour moi.
+
+-*who_aegle
+Que nous payerons cher l'excès de ma tendresse ?
+Il y va de vos jours, j'épouserai le roi.
+
+-*who_thesee
+C'est trop appréhender que le roi ne s'irrite.
+Il faut vous dire tout, l'amour m'en sollicite ;
+Je suis fils du roi,
+
+-*who_aegle
+      Vous, seigneur !
+
+-*who_thesee
+Je n'ai montré d'abord que ma seule valeur,
+C'était à mon propre mérite
+Que je voulais devoir ma gloire et votre cour.
+
+-*who_aegle
+Le roi, le monde entier prendraient en vain les armes,
+Il n'est rien de si fort que Médée, et ses charmes,
+Nous sommes les objets de ses transports jaloux.
+S'ils n'en voulaient qu'à moi je les braverais tous,
+Mais ils m'ont su frapper par où je suis sensible.
+
+-*who_thesee
+Quoi, le roi sera votre époux ?
+
+-*who_aegle
+Je ne puis vous sauver sans cet hymen horrible.
+
+-*who_thesee
+Laissez armer plutôt tout l'enfer en courroux ;
+Le trépas est cent fois plus doux
+Qu'un secours si terrible ;
+Vivez pour moi, s'il est possible,
+Ou laissez-moi mourir pour vous.
+
+-*who_aegle,thesee
+Quel injustice !
+Que de tourments !
+Ah quel supplice
+De briser des nouds si charmants !
+
+**** *book_ *id_V06 *act_V *date_1675
+
+-*who_medee
+Finissez vos regrets, c'est trop, c'est trop vous plaindre,
+Je viens d'entendre tout il n'est plus temps de feindre.
+
+-*who_aegle
+Pardonnez à l'amour qui ne m'a pas permis
+De tenir ce que j'ai promis.
+
+-*who_thesee
+Vengez-vous sur moi seul de notre amour extrême.
+
+-*who_aegle
+C'est par mon seul trépas qu'il faut nous désunir.
+
+-*who_thesee
+Sa vie est la faveur que je veux obtenir.
+
+-*who_aegle
+Conservez ce héros, sauvez-le pour vous-même.
+
+-*who_aegle,thesee
+Épargnez ce que j'aime,
+C'est moi, c'est moi qu'il faut punir.
+
+-*who_medee
+Je vous aime, Thésée, et vous l'allez connaître,
+Le crime enfin commence à me paraître affreux,
+Je respecte de si beaux nouds,
+Ma rage a beau s'armer, vous en êtes le maître ;
+Votre vertu m'inspire un dépit généreux,
+Je rendrai ce que j'aime heureux
+Puisque mon amour ne peut l'être.
+
+-*who_aegle,thesee
+Quel bonheur surprenant pour nos cours amoureux !
+
+-*who_medee
+Espérez tout de mon secours.
+Vous pouvez reprendre vos armes.
+Gardez vos tendres amours,
+Goûtez-en les charmes,
+Aimez sans alarmes,
+Aimez-vous toujours.
+
+-*who_aegle,thesee
+Gardons nos tendres amours,
+Goûtons-en les charmes,
+Aimons sans alarmes,
+Aimons-nous toujours.
+
+-*who_medee
+Habitants fortunés de ces lieux si charmants ;
+Commencez les plaisirs de ces heureux amants.
+
+**** *book_ *id_V07 *act_V *date_1675
+
+-*who_deuxbergeres
+Que nos prairies
+Seront fleuries !
+Les cours glacés
+Pour jamais en sont chassés.
+Ces lieux tranquilles
+Sont les asiles
+Des doux plaisirs,
+Et des heureux loisirs :
+La terre est belle,
+La fleur nouvelle
+Rit aux zéphirs.
+Que nos prairies
+Seront fleuries !
+Les cours glacés
+Pour jamais en sont chassés.
+C'est dans nos bois
+Qu'amour a fait ses lois :
+Leur vert feuillage
+Doit toujours durer,
+Un cour sauvage
+N'y doit point entrer.
+Que nos prairies
+Seront fleuries !
+Les cours glacés
+Pour jamais en sont chassés.
+La seule affaire
+D'une bergère
+C'est de songer
+À l'amour de son berger.
+Lorsqu'il la mène,
+Bien qu'elle prenne
+De longs détours,
+Tous les chemins sont courts :
+Sa bergerie
+Est moins chérie
+Que ses amours.
+La seule affaire
+D'une bergère
+C'est de songer
+À l'amour de son berger.
+Quand son amant
+La quitte un seul moment,
+Nos champs pour elle
+N'ont plus d'autre bien,
+Elle en querelle
+Jusques à son chien.
+La seule affaire
+D'une bergère
+C'est de songer
+À l'amour de son berger.
+
+-*who_bergers
+Aimons, tout nous y convie,
+On aime ici sans danger,
+Il est permis de changer,
+Chacun y suit son envie :
+Mais, heureux, cent, et cent fois,
+Un amant qui fait un choix
+Qui dure autant que sa vie !
+Fuyons le bruit des villages,
+Fuyons l'éclat du grand jour,
+Les fruits charmants de l'amour
+Sont dans les sombres bocages.
+N'ayons point de peur des loups,
+Ne craignons que les jaloux
+Qui sont encor plus sauvages.
+
+-*who_unhabitant
+Quel plaisir d'aimer
+Sans contrainte !
+Nous pouvons former
+Des voux sans crainte.
+
+-*who_choeurdeshabitants
+Quel plaisir d'aimer
+Sans contrainte !
+Nous pouvons former
+Des voux sans crainte.
+
+-*who_unhabitant
+Jusques aux langueurs,
+Et jusqu'aux larmes,
+Pour les tendres cours
+Tout a des charmes.
+
+-*who_choeurdeshabitants
+Jusques aux langueurs,
+Et jusqu'aux larmes,
+Pour les tendres cours
+Tout a des charmes.
+
+-*who_unhabitant
+C'est le plus discret
+Qui doit plaire ;
+Il faut du secret
+Et du mystère.
+
+-*who_choeurdeshabitants
+C'est le plus discret
+Qui doit plaire ;
+Il faut du secret
+Et du mystère.
+
+-*who_unhabitant
+On dit les rigueurs
+De sa bergère,
+Mais pour les faveurs,
+On s'en doit taire.
+
+-*who_choeurdeshabitants
+On dit les rigueurs
+De sa bergère,
+Mais pour les faveurs,
+On s'en doit taire.
+
+-*who_unhabitant
+L'amour plaît malgré ses peines,
+L'amour plaît aux cours constants :
+
+-*who_choeurdeshabitants
+L'amour plaît malgré ses peines,
+L'amour plaît aux cours constants :
+
+-*who_unhabitant
+On ne peut porter ses chaînes
+Assez tôt, ni trop longtemps.
+
+-*who_choeurdeshabitants
+On ne peut porter ses chaînes
+Assez tôt, ni trop longtemps.
+
+-*who_unhabitant
+Sans amour, tout est sans âme,
+L'amour seul nous rend contents ;
+
+-*who_choeurdeshabitants
+Sans amour, tout est sans âme,
+L'amour seul nous rend contents ;
+
+-*who_unhabitant
+On ne peut sentir sa flamme
+Assez tôt, ni trop longtemps.
+
+-*who_choeurdeshabitants
+On ne peut sentir sa flamme
+Assez tôt, ni trop longtemps.
+
+**** *book_ *id_VI01 *act_VI *date_1675
+
+-*who_medee
+Ah faut-il me venger
+En perdant ce que j'aime !
+Que fais-tu ma fureur, où vas-tu m'engager ?
+Punir ce cour ingrat c'est me punir moi-même,
+J'en mourrai de douleur, je tremble d'y songer,
+Ah faut-il me venger
+En perdant ce que j'aime !
+Ma rivale triomphe, et me voit outrager :
+Quoi, laisser son amour sans peine, et sans danger ?
+Voir le spectacle affreux de son bonheur extrême ?
+Non, il faut me venger
+En perdant ce que j'aime.
+
+**** *book_ *id_VI02 *act_VI *date_1675
+
+-*who_dorine
+Que Thésée est content de son bienheureux sort !
+
+-*who_medee
+Dorine, c'en est fait, tout est prêt pour sa mort.
+
+-*who_dorine
+Quoi ce grand appareil est sa mort qu'on prépare ?
+Le roi le doit choisir ici pour successeur ;
+Votre soin pour lui se déclare.
+
+-*who_medee
+J'ai caché mon dépit sous ma feinte douceur ;
+La vengeance ordinaire est trop peu pour mon cour,
+Je la veux horrible et barbare.
+Je m'éloignais tantôt exprès pour tout savoir.
+Du secret de Thésée il faut me prévaloir,
+Le roi l'ignore encor, et pour me satisfaire
+Contre un fils inconnu j'arme son propre père :
+J'immolai mes enfants, j'osai les égorger ;
+Je ne serai pas seule inhumaine, et perfide,
+Je ne puis me venger
+À moins d'un parricide.
+
+**** *book_ *id_VI03 *act_VI *date_1675
+
+-*who_medee
+Ce vase par mes soins vient d'être empoisonné ;
+Vous n'aurez qu'à l'offrir... vous semblez étonné ?
+
+-*who_leroi
+Ce héros m'a servi, malgré moi je l'estime,
+Puis-je lui préparer un injuste trépas ?
+
+-*who_medee
+L'espoir de votre amour, la paix de vos états,
+Tout dépend d'immoler cette grande victime.
+Contre un rival heureux faut-il qu'on vous anime ?
+La vengeance a bien des appas,
+Est-ce trop la payer s'il vous en coûte un crime ?
+
+-*who_leroi
+Je n'ai rien fait jusqu'à ce jour
+Qui puisse ternir ma mémoire ;
+Si près de mon tombeau faut-il trahir ma gloire ?
+Ne vaudrait-il pas mieux étouffer mon amour ?
+
+-*who_medee
+Vous avez un fils à Trézene,
+Il faudra toujours l'éloigner :
+Votre peuple pour lui n'aura que de la haine,
+Il adore Thésée, il veut le voir régner.
+Laisserez-vous un fils sans nom, et sans empire,
+Tandis qu'un étranger jouira de son sort,
+Et peut-être osera s'assurer par sa mort...
+
+-*who_leroi
+Je cède aux sentiments que la nature inspire,
+Je me rends, l'amour seul n'était pas assez fort.
+
+-*who_medee,leroi
+Que la vengeance
+A d'attraits pour des cours jaloux !
+N'épargnons point qui nous offense,
+Vengeons-nous, vengeons-nous,
+L'amour même, n'est pas plus doux
+Que la vengeance.
+
+**** *book_ *id_VI04 *act_VI *date_1675
+
+-*who_medee,leroi
+Ne craignez rien parfaits amants
+Les plaisirs suivront vos tourments.
+
+-*who_choeur
+Ne craignez rien parfaits amants
+Les plaisirs suivront vos tourments.
+
+-*who_medee,leroi
+Recevez la récompence
+De votre constance.
+
+-*who_lechoeur
+Ne craignez rien parfaits amants
+Les plaisirs suivront vos tourments.
+
+-*who_leroi
+Oublions le passé, ma colère est finie ;
+Puisqu'Athènes le veut je consens qu'après moi
+Ce héros soit un jour son légitime roi.
+Commençons la cérémonie.
+Qu'on apprenne à servir Thésée en souverain.
+Prenez ce vase de ma main.
+
+-*who_thesee
+Je jure sur ce fer qui m'a comblé de gloire,
+Que je vous servirai contre vos ennemis,
+Et que vous n'aurez point de sujet plus soumis...
+
+-*who_leroi
+Que vois-je ? Quelle épée ! Ah qui l'aurait pu croire !
+Ô ciel ! J'allais perdre mon fils !
+J'avais laissé ce fer pour ta reconnaissance,
+Mon fils, ah mon cher fils, où nous exposais-tu ?
+
+-*who_thesee
+Ce fer eût dans mes mains trahi votre espérance
+En vous montrant un fils qui n'eut point combattu,
+Sans prendre aucun secours d'une illustre naissance
+Je voulais éprouver jusqu'où va la vertu.
+
+**** *book_ *id_VI05 *act_VI *date_1675
+
+-*who_leroi
+Ah ! Perfide Médée ! ... elle fuit l'inhumaine,
+Qu'on la poursuive, allez, ne la respectez plus ;
+Mais la poursuite en sera vaine,
+Elle sait des chemins qui nous sont inconnus !
+
+-*who_thesee
+C'est assez d'éviter sa haine ;
+Soyons heureux, Seigneur :
+Notre parfait bonheur
+Suffira pour sa peine.
+
+-*who_leroi,thesee,aegle
+Notre parfait bonheur
+Suffira pour sa peine.
+
+-*who_leroi
+Je suis charmé de vos appas,
+Je ne m'en défends pas,
+Trop aimable AEglé, je vous aime ;
+Mais je veux être heureux dans un autre moi-même ;
+Mon rival m'est trop cher pour en être jaloux,
+Je reconnais mon fils à son amour extrême,
+C'est le sort de mon sang de s'enflammer pour vous.
+Que l'hymen prépare
+Des nouds pleins d'attraits
+Soyez unis à jamais,
+Que l'amour répare
+Tous les maux qu'il vous a faits
+Soyez unis à jamais.
+
+-*who_choeur
+Soyez unis à jamais.
+
+-*who_thesee,aegle
+Les plus belles chaînes
+Coûtent des soupirs ;
+Il faut passer par les peines
+Pour arriver aux plaisirs.
+
+-*who_leroi,cleone,arcas
+Que l'hymen prépare
+Des noeuds pleins d'attraits.
+
+-*who_choeur
+Soyez unis à jamais.
+
+-*who_leroi,cleone,arcas
+Que l'amour répare
+Tous les maux qu'il vous a faits.
+
+-*who_choeur
+Soyez unis à jamais.
+
+**** *book_ *id_VI06 *act_VI *date_1675
+
+-*who_medee
+Vous n'êtes pas encor délivrés de ma rage :
+Je n'ai point préparé la pompe de ces lieux
+Pour servir au bonheur d'un amour qui m'outrage ;
+Je veux que les enfers détruisent mon ouvrage,
+C'est ainsi qu'en partant je vous fais mes adieux.
+
+**** *book_ *id_VI07 *act_VI *date_1675
+
+-*who_lechoeur
+Secourez-nous, justes dieux !
+Quelle flamme épouvantable !
+Quels ennemis furieux !
+Secourez-nous, justes dieux !
+Une mort inévitable
+S'offre partout à nos yeux !
+Secourez-nous, justes dieux !
+
+**** *book_ *id_VI08 *act_VI *date_1675
+
+-*who_minerve
+
+
+Le ciel veut écarter tout ce qui peut vous nuire :
+Voyez par mon pouvoir élever à l'instant
+Un palais éclatant
+Que l'enfer n'osera détruire.
+
+-*who_minerve_divinites
+Vivez, vivez contents dans ces aimables lieux.
+
+-*who_lechoeur
+Vivons, vivons contents dans ces aimables lieux.
+
+-*who_minerve,leschoeurs
+Bienheureux qui peut naître
+Sous un règne si glorieux !
+Vivez, vivez contents dans ces aimables lieux.
+Vivons, vivons contents dans ces aimables lieux.
+Un roi digne de l'être
+Est le don le plus grand des cieux.
+Vivez, vivez contents dans ces aimables lieux.
+Vivons, vivons contents dans ces aimables lieux.
+
+**** *book_ *id_VI09 *act_VI *date_1675
+
+-*who_arcas,cleone
+
+
+Le plus sage
+S'enflamme, et s'engage,
+Sans savoir comment,
+La fierté se dément,
+Le cour le plus sauvage
+Soupire aisément
+Dans un fatal moment.
+Le plus sage
+S'enflamme, et s'engage,
+Sans savoir comment.
+Contre un mal si doux, et si charmant
+Le plus grand courage
+Combat faiblement.
+Le plus sage
+S'enflamme, et s'engage,
+Sans savoir comment.
+
+Quel dommage,
+Si l'on ne ménage
+Les moments heureux !
+Formons d'aimables noeuds ;
+Faisons un doux usage
+Du temps où les jeux
+Suivront partout nos voeux.
+Quel dommage
+Si l'on ne ménage
+Les moments heureux !
+Qui n'est point dans l'empire amoureux
+N'aura pour partage
+Que des soins fâcheux.
+Quel dommage
+Si l'on ne ménage
+Les moments heureux !

@@ -1,0 +1,1303 @@
+
+
+**** *book_ *id_I01 *act_I
+
+-*who_laroche
+Mademoiselle, voici l'instant décisif ; deux rivaux se disputent votre main, et c'est aujourd'hui qu'il faut choisir.
+
+-*who_julie
+Je voudrais connaître les intentions de mon oncle.
+
+-*who_laroche
+Et moi, je voudrais bien connaître les vôtres.
+
+-*who_julie
+Monsieur de Chambre me paraît avoir d'excellentes qualités.
+
+-*who_laroche
+Oui ; mais il est bien sérieux : un mari sérieux !
+Ah !
+Prenez-y garde, mademoiselle.
+Moi, je crois (soit dit entre nous)
+Que, pour le bonheur d'un ménage,
+Il ne faut jamais que l'époux
+Affecte le maintien d'un sage.
+Souvent la femme d'un Caton,
+Dans un siècle comme le nôtre,
+Laisse à son mari sa raison,
+Et perd la sienne avec un autre.
+
+-*who_julie
+Tu as, je le vois, une grande idée de nos forces...
+Mais, dis-moi, as-tu découvert quelque chose sur l'inconnu qui prétend à ma main ?
+
+-*who_laroche
+Monsieur votre oncle ne dit que ce qu'il veut ; je sais seulement qu'on attend un homme célèbre dans l'art des Calembourgs, et qu'on m'a donné l'ordre de préparer son appartement.
+
+-*who_julie
+Je suis bien impatiente de savoir qui c'est.
+
+-*who_laroche
+Modérez, croyez-moi, votre empressement, mademoiselle.
+De l'époux qu'on n'a jamais vu,
+On se forme une douce image ;
+Et pour lui le cœur prévenu
+Du bonheur rêve le présage.
+L'amant soumis qu'on attendait,
+Se montre, ce n'est plus qu'un maître :
+Pour l'aimer toujours, il faudrait
+Ne jamais le connaître.
+
+-*who_julie
+Trève de leçons, je n'aime point ta morale.
+
+-*who_laroche
+Je vous annonce Monsieur de Chambre ; la sienne vous plaira peut-être davantage.
+
+**** *book_ *id_I02 *act_I
+
+-*who_chambre
+Enfin, je puis vous trouver seule un instant.
+
+-*who_julie
+Quel intérêt si puissant pouvait vous le faire désirer ?
+
+-*who_chambre
+L'impatience de voir décider mon sort.
+Vous savez, belle Julie, que de vous dépend tout mon bonheur.
+J'aurais déjà sollicité le consentement de votre oncle, si je pouvais me flatter d'obtenir le vôtre.
+
+-*who_julie
+Les sentiments que l'on inspire,
+Ne doit-on pas les deviner.
+
+-*who_chambre
+Dans votre cœur je crains de lire
+L'arrêt qui doit me condamner.
+
+-*who_julie
+Par l'amitié la plus constante
+Je vous ai payé de retour :
+Quoi ! votre âme n'est point contente ?
+
+-*who_chambre
+L'amitié n'est pas de l'amour.
+Pour prix de tant d'amour, Julie,
+Vous m'offrez un froid sentiment !
+Vous ne seriez que mon amie,
+Et moi, je serais votre amant.
+
+-*who_julie
+Je crois répondre à votre attente
+Par une amitié sans détour.
+
+-*who_chambre
+Laissez ce mot qui me tourmente :
+L'amitié...
+
+-*who_laroche
+      Promet de l'amour,
+L'amitié promet de l'amour.
+
+-*who_chambre
+Ah !
+Combien je me croirais heureux, si cette promesse était partie de votre cœur !
+
+-*who_julie
+Je pouvais la démentir.
+
+-*who_chambre
+Julie !...
+Je vous connais trop généreuse pour me laisser un espoir que vous n'auriez pas dessein de couronner.
+
+-*who_julie
+Suis-je maîtresse de mon sort ?
+Vous savez qu'un oncle a sur moi toute la puissance d'un père, et vous n'ignorez pas qu'il a déjà reçu les propositions d'un de vos rivaux.
+
+-*who_chambre
+Si les talents, si la naissance,
+De votre oncle fixaient le choix,
+À mériter la préférence
+Peut-être aurais-je moins de droits ;
+Mais il vous aime, et son suffrage
+Va combler mes voeux aujourd'hui,
+Puisqu'il doit préférer celui
+Qui sait vous chérir davantage.
+
+-*who_julie
+J'en accepte l'augure.
+Mais j'oublie que la santé de mon oncle réclame ma présence.
+Je vous quitte.
+
+-*who_chambre
+Souffrez que je vous accompagne auprès de lui, et qu'en partageant vos soins, je m'efforce à le disposer en ma faveur.
+
+**** *book_ *id_I03 *act_I
+
+-*who_laroche
+Voilà bien les amants ; un seul mot, et ils se croient sûrs du succès.
+De l'aveu qu'ils viennent de faire,
+Chacun d'eux semble satisfait :
+Mais qui va si vite en affaire,
+N'arrive pas toujours au fait.
+Les deux amants auront beau faire,
+Sans le cher oncle rien n'est fait ;
+Et l'intérêt pourra défaire
+Ce que l'amour croit avoir fait.
+
+**** *book_ *id_I04 *act_I
+
+-*who_laroche
+Quelqu'un vient de ce côté...
+Un valet en livrée...
+Je ne reconnais point cet habit-là...
+Eh !
+C'est monsieur Dubois.
+
+-*who_dubois
+Quelle est la jolie bouche qui décline aussi bien mon nom ?
+Oh !
+La charmante rencontre !
+Quoi !
+C'est toi, mon adorable ?
+
+-*who_laroche
+Dubois est un peu familier.
+Il me parlait plus poliment avant de porter cet habit.
+
+-*who_dubois
+Tu as raison, ma chère ; mais alors je n'étais pas homme... de condition.
+
+-*who_laroche
+Monsieur veut dire en condition.
+Sais-tu qu'il y a cinq ans que nous ne nous sommes rencontrés, Dubois ?
+
+-*who_dubois
+Oui, vraiment.
+Depuis notre dernière entrevue, il nous est tombé à chacun un lustre sur la tête : cela ne m'a pas empêché de faire bien des métiers.
+
+-*who_laroche
+Voyons : lesquels ?
+
+-*who_dubois
+D'abord, commis à la barrière.
+
+-*who_laroche
+Pour parler toujours poliment ?
+
+-*who_dubois
+Ensuite garçon d'un libraire,
+
+-*who_laroche
+Afin de lire couramment ?
+
+-*who_dubois
+À Pézenas, je fus dentiste.
+
+-*who_laroche
+Aussi, dis-tu la vérité.
+Est-ce tout ?
+
+-*who_dubois
+Oh !
+Que non...
+Des courtiers, je grossis la liste.
+
+-*who_laroche
+Pour faire un cours de probité ?
+
+-*who_dubois
+Et toi, ma belle, as-tu changé de condition ?
+
+-*who_laroche
+Moi !
+J'ai fait aussi quatre maisons...
+D'abord.
+Chez une dévote discrète ;
+
+-*who_dubois
+Aussi, tu ne médis jamais ?
+
+-*who_laroche
+Puis j'entrai chez une coquette :
+
+-*who_dubois
+L'art n'est pour rien dans tes attraits ?
+
+-*who_laroche
+Après, dans une hôtellerie.
+
+-*who_dubois
+Chacun te paya son écot.
+Et tu fus en dernier ?
+
+-*who_laroche
+Dans un bureau de loterie.
+
+-*who_dubois
+M'as-tu gardé quelque bon lot ?
+À propos, qu'est devenu Frontin, mon ci-devant rival ?
+
+-*who_laroche
+Ah !
+Celui qui voulait emporter aux îles une cargaison de vin de Champagne ?
+
+-*who_dubois
+Sans doute pour que son vaisseau ne manquât pas de mousse.
+
+-*who_laroche
+Il ne m'a pas écrit.
+
+-*who_dubois
+Il n'a pas écrit !
+C'est qu'en arrivant au port, il aura jeté l'ancre.
+
+-*who_laroche
+Je vois que tu es aussi mauvais sujet qu'autrefois.
+
+-*who_dubois
+Je pouvais jadis avoir des défauts ; mais maintenant je suis...
+Je suis un homme de qualité.
+
+-*who_laroche
+Tu le suis...
+Et tu le nommes ?
+
+-*who_dubois
+Monsieur de Bièvre, aimable courtisan, professeur de calembourgs, homme de lettres à la mode ; c'est pour le devenir que je suis entré chez lui.
+
+-*who_laroche
+Devenir homme de lettres !
+Toi, Dubois....
+
+-*who_dubois
+Oui, je suis Dubois....
+Dont on les fait ; d'ailleurs, cela n'est pas difficile à présent.
+Ne voit-on pas aujourd'hui
+Des emprunts de toute espèce ?
+On emprunte la richesse,
+Même la femme d'autrui.
+Combien de belles vantées,
+N'ont que grâces empruntées !
+Combien de vertus citées
+Des mœurs empruntent l'habit !
+On emprunte sa coiffure,
+Et maint auteur qui figure
+N'a pu se mettre en crédit,
+Qu'en empruntant son esprit.
+Près de mon maître, il ne faut que de la mémoire.
+
+-*who_laroche
+Est-il connu dans cette maison ?
+
+-*who_dubois
+Depuis un siècle !
+Sans un maudit voyage que nous obligea de faire une vieille Comtesse...
+
+-*who_laroche
+Une ?...
+
+-*who_dubois
+Une vieille contestation sur des biens de famille, mon maître aurait tenu fidèle compagnie au cher oncle, qui, dit-on, se porte assez mal.
+Comment va-t-il ?
+
+-*who_laroche
+Le pauvre homme, perclus de la goutte, ne peut sortir de sa chambre.
+
+-*who_dubois
+Ah ! Je le plains en vérité,
+Sa souffrance doit être extrême.
+Le mal dont il est tourmenté
+A pourtant un côté que j'aime.
+Si j'en crains l'effet douloureux,
+Son nom n'a rien qui me dégoûte :
+Quoique j'aime peu les goûteux,
+Parfois j'aime la goutte.
+Et je compte bien boire à la noce de mon maître.
+
+-*who_laroche
+Et quelle est sa future ?
+
+-*who_dubois
+Ta maîtresse.
+Son oncle y consent, c'est un mariage arrangé.
+
+-*who_laroche
+Mais qui n'est pas fait.
+
+-*who_dubois
+Aurions-nous un rival ?
+
+-*who_laroche
+Cela se pourrait.
+
+-*who_dubois
+Il n'est pas à craindre.
+
+-*who_laroche
+Peut-être.
+
+-*who_dubois
+Ah ! Si ta maîtresse a du goût,
+Elle doit préférer mon maître :
+Grâce, esprit, talents, il a tout,
+Et plaît dès qu'on le voit paraître.
+Dans l'art de vaincre un jeune cœur,
+Ne crois pas qu'il faille l'instruire :
+Celui qui fit le Séducteur,
+A tout ce qu'il faut pour séduire.
+
+-*who_laroche
+Entre nous, mon cher Dubois, ton maître fera bien de renoncer à ses prétentions ; son rival est aimé.
+
+-*who_dubois
+Tu le protèges, je gage ?
+
+-*who_laroche
+Un peu.
+
+-*who_dubois
+C'est trop.
+Son nom ?
+
+-*who_laroche
+Monsieur de Chambre.
+
+-*who_dubois
+Monsieur de Chambre, dis-tu ?
+Mais tu n'y penses pas.
+Nous devons tous deux être contre lui.
+
+-*who_laroche
+Pourquoi cela ?
+
+-*who_dubois
+Ne sommes-nous point par état voués à l'antichambre ?
+
+-*who_laroche
+Je vois bien que toutes les bêtes ne sont pas à Montmartre.
+
+-*who_dubois
+Très heureusement, car cela ferait un sot mont.
+
+-*who_laroche
+Mon pauvre Dubois, qui te montre ce jargon ?
+
+-*who_dubois
+Voici mon maître.
+
+**** *book_ *id_I05 *act_I
+
+-*who_bievre
+Mademoiselle de Latour n'est point ici ?
+
+-*who_laroche
+Pardonnez-moi, monsieur.
+
+-*who_bievre
+Brûlant d'impatience
+De lui faire ma cour,
+Sans m'arrêter un jour,
+J'arrive en diligence.
+
+-*who_dubois
+Oui, et bien suspendue encore ; la voiture allait si vite, que les cailloux battaient la caisse.
+Aussi avons-nous failli verser.
+
+-*who_bievre
+Eh bien, le grand malheur !
+On nous aurait relevés avec un cric.
+Mais...
+Ne perdons point de temps, va vite, mon enfant, avertis ta maîtresse que je demande la permission de la voir, et dis-lui que si elle veut bien se rendre ici de bonne heure...
+
+-*who_dubois
+Elle sera le nôtre.
+
+-*who_bievre
+Le coquin me l'a volé !
+
+-*who_laroche
+J'obéis.
+
+**** *book_ *id_I06 *act_I
+
+-*who_bievre
+À présent, Monsieur Dubois, il faut faire marcher de front l'Amour et Thémis, et cela doit être, parce qu'ils n'y voient pas mieux l'un que l'autre.
+Il faut aujourd'hui gagner ma maîtresse et mon procès.
+Pour cela, tandis que je vais intéresser en ma faveur l'oncle et la nièce, tu iras faire ma cour à certain homme de loi dont les bonnes grâces me sont aussi très chères.
+
+-*who_dubois
+Oh !
+Oui, très chères ; mais cela ne doit pas vous étonner.
+Vautours et gens d'affaires,
+Corbeaux et procureurs,
+Éperviers et notaires,
+Et buses et rimeurs,
+Partout c'est la coutume,
+Il faut s'en consoler :
+Tout ce qui porte plume
+Est sujet à voler.
+
+-*who_bievre
+Prends mon cheval...
+Le coureur, celui auquel on a mis hier les fers aux pieds, et qui n'en va que plus vite.
+
+-*who_dubois
+Il est bon celui-là.
+Mais, monsieur, j'aime mieux prendre le mien ; le vôtre est si rétif, il fait des pointes.
+
+-*who_bievre
+Mon cheval fait des pointes ?
+Le charmant animal !
+Eh bien !
+Prends mon petit cheval de selle.
+
+-*who_dubois
+Un cheval de sel, vous n'y pensez pas, monsieur ; s'il venait à pleuvoir, je jouerais au cheval fondu.
+
+-*who_bievre
+Comment !
+Point d'éperons, toujours étourdi, toujours négligent !
+
+-*who_dubois
+Et vous, toujours grondeur.
+
+-*who_bievre
+Cette fois-ci, je conviens que c'est à propos de bottes...
+Mais laissons cela ; prends cette lettre, et qu'elle soit remise avant deux heures.
+
+-*who_dubois
+Avant deux heures ?
+Remise !....
+Que cette lettre soit remise !
+
+-*who_bievre
+Eh bien !
+Qu'attends-tu ?
+
+-*who_dubois
+Un petit moment, monsieur ; une lettre....
+Remise....
+Ma foi, monsieur, je n'entends pas celui-là.
+Je me rends.
+Cependant je devine assez facilement comme monsieur peut voir.
+
+-*who_bievre
+L'imbécile !
+Il lui faut toujours de l'esprit.
+Tiens-t-en à la lettre, maraud !
+
+-*who_dubois
+Ah !
+Pour le coup j'y suis, je vais la porter.
+
+-*who_bievre
+Et moi, je vais chez Monsieur de Latour.
+
+-*who_dubois
+Monsieur n'a pas d'autres commissions à me donner ?
+
+-*who_bievre
+Non...
+Ah !
+Tu passeras chez mon banquier pour toucher cette lettre de change, et tu iras aux Français pour savoir si l'on donnera demain ma pièce.
+
+-*who_dubois
+Je serai ici dans une heure.
+
+**** *book_ *id_I07 *act_I
+
+-*who_laroche
+Tu sors, Dubois ; où vas-tu donc ?
+
+-*who_dubois
+Sur mes sens enflammés l'amour a tant d'empire.
+Je vais... je viens... je pars... et ne sais que vous dire...
+
+-*who_laroche
+Je ne t'entends pas.
+
+-*who_dubois
+Je te plains.
+
+-*who_laroche
+Mais, monsieur Dubois, je vous trouve bien merveilleux.
+Savez-vous que vous visez à l'impertinence ?
+
+-*who_dubois
+J'espère bien l'avoir attrapée.
+
+-*who_laroche
+Croyez-vous qu'elle vous réussisse ?
+
+-*who_dubois
+Sans doute !
+À la cour comme à la ville,
+Pour être du meilleur ton,
+Il faut toujours de son style
+Bannir la sotte raison.
+Quoi ! Vous faites la cruelle !
+
+-*who_laroche
+Je suis lasse du jargon.
+
+-*who_dubois
+Diable, Mademoiselle Laroche !
+Je croyais ton cœur, ma belle,
+Un peu moins dur que ton nom.
+
+-*who_laroche
+Encore une équivoque.
+
+-*who_dubois
+Pour te l'expliquer,
+Ma chère, il faut que je t'embrasse.
+
+-*who_laroche
+Cessez vos gestes libertins :
+Les jeux de mots, on vous les passe ;
+Mais trêve pour les jeux de mains.
+
+-*who_dubois
+Inhumaine !
+Barbare !
+
+-*who_laroche
+Laisse-moi, ma maîtresse vient.
+
+-*who_dubois
+Et moi, je me sauve.
+
+**** *book_ *id_I08 *act_I
+
+-*who_julie
+Quel est ce valet ?
+
+-*who_laroche
+C'est celui de Monsieur de Bièvre, que vous connaissez sans doute à présent pour le rival de Monsieur de Chambre.
+
+-*who_julie
+Oui, mon oncle vient de m'ordonner de lui accorder un moment d'entretien.
+Tu connais donc ce valet ?
+
+-*who_laroche
+Oui, mademoiselle.
+
+-*who_julie
+Tu semblais lui parler familièrement.
+
+-*who_laroche
+Je l'ai vu autrefois à Paris ; mais il est devenu si fou, que je ne le reconnais plus : son maître et lui ne parlent qu'en pointes ou en calembourgs.
+
+-*who_julie
+Quelle manie !
+
+-*who_laroche
+Monsieur Dubois a de l'esprit,
+Mais son esprit tient du délire ;
+On goûterait fort ce qu'il dit,
+Si l'on savait ce qu'il veut dire.
+De son maître, singe et rival,
+Il l'imite, il le parodie,
+Et c'est un grand original,
+Quoiqu'il ne soit qu'une copie.
+
+-*who_julie
+Que ce travers me déplaît !
+
+-*who_laroche
+Y pensez-vous, mademoiselle ?
+Il doit vous servir.
+
+-*who_julie
+À quoi ?
+
+-*who_laroche
+À éconduire Monsieur de Bièvre.
+
+-*who_julie
+Explique-toi.
+
+-*who_laroche
+C'est tout simple.
+Vous exigez de lui le sacrifice de son goût dominant, il vous le doit, il vous le promettra ; mais l'habitude sera plus forte, et manquant à sa parole, il vous laissera maîtresse de la vôtre.
+
+-*who_julie
+L'idée est heureuse et j'en profiterai.
+
+-*who_laroche
+Vous n'attendrez pas longtemps pour le mettre à l'épreuve : le voici lui-même.
+
+**** *book_ *id_I09 *act_I
+
+-*who_bievre
+Mademoiselle, je sors de chez monsieur votre oncle ; je dois à son amitié la permission de vous présenter mon hommage.
+
+-*who_julie
+Je suis flattée, monsieur....
+
+-*who_bievre
+Pour rendre hommage à vos appas,
+Attiré par la renommée,
+Je cherche l'amour sur vos pas,
+Et laisse ma gloire à l'armée.
+Le camp, sans détours je le dis,
+Bien moins que ce séjour me tente :
+Quand de la nièce on est épris,
+Sans regret on quitte la tente.
+
+-*who_julie
+Votre nom, monsieur, votre réputation préviennent en votre faveur ; mais avant de répondre à des intentions qui ne peuvent que m'honorer, vous conviendrez que la connaissance du caractère...
+
+-*who_bievre
+Vous avez raison, mademoiselle, sans caractère on ne peut faire impression.
+Mais il suffit de vous voir, pour vous rendre le tribut qui vous est dû.
+L'amour qui rit de mes tourments,
+Redoublant les maux que j'endure,
+Pour rendre ses traits plus piquants,
+A pris ceux de votre figure.
+J'admire tant d'appas divers,
+Qui du printemps m'offrent l'image :
+Ces pieds où je vois l'univers,
+Ces beaux yeux, ce joli corsage.
+
+-*who_julie
+Changeons de conversation.
+L'attachement que vous avez pour mon oncle, Monsieur, vous retiendra sans doute quelques jours ici.
+
+-*who_bievre
+Monsieur de Latour m'a permis d'y attendre le résultat de vos réflexions.
+
+-*who_julie
+Mon oncle, Monsieur, doit en être le premier instruit.
+
+-*who_bievre
+Pour époux, sans vous contraindre,
+Si vous m'avez accepté,
+Ah ! sans avoir rien à craindre,
+Je vais être époux vanté.
+
+-*who_julie
+Monsieur !...
+
+-*who_bievre
+Auprès de vous rien n'apaise
+Les doux transports que je sens ;
+Mais aussi, quoique française,
+Vous avez des yeux perçants.
+
+-*who_julie
+On ne m'a point trompée, Monsieur, en me parlant de votre esprit ; mais permettez à ma franchise un aveu que le vôtre rend nécessaire.
+Je déteste les calembourgs, c'est un tort sans doute à vos yeux ; mais si vous mettez quelque prix à mon opinion, vous me ferez le sacrifice d'un goût trop frivole pour que vous y attachiez de l'importance.
+
+-*who_bievre
+Mademoiselle.
+
+-*who_julie
+Je hais ce jargon pointilleux,
+Par qui le faux esprit circule,
+Art où le plus ingénieux
+Est toujours le plus ridicule :
+Pour plaire, un amant, un auteur,
+Doit-il se donner la torture ?
+Amants, consultez votre cœur ;
+Auteurs, consultez la nature.
+
+-*who_bievre
+Vous êtes bien sévère, mademoiselle ; mais s'il faut, pour vous plaire, renoncer à un genre d'amusement que je croyais innocent, je prends ici l'engagement solennel de ne jamais faire de calembourgs.
+
+-*who_julie
+Ô ciel !
+Vous me le promettez !
+
+-*who_bievre
+Oui, je vous jure, et pour la vie,
+De renoncer au calembourg ;
+Je sens que la plaisanterie
+Blesse le véritable amour.
+Quand le cœur est de la partie,
+Pour plaire on a tout ce qu'il faut,
+Et l'on ne peut gagner Julie
+En jouant avec un défaut.
+
+-*who_julie
+Je respire.
+Un dés faux !
+
+-*who_bievre
+Ah !
+Dieu !
+Je suis perdu...
+L'habitude m'a emporté : mais croyez, belle Julie.
+
+-*who_julie
+L'habitude, Monsieur, est une seconde nature ; je sens que j'avais trop exigé : ne soyez pas étonné que je ne joigne point mon consentement au choix de mon oncle.
+J'applaudirais de bien bon cœur
+Aux traits dont votre esprit nous frappe ;
+Mais, je vous l'ai dit, par malheur,
+Des énigmes le mot m'échappe :
+Je ne comprends pas vos discours.
+À ma main cessez de prétendre :
+Pour s'épouser, il faut toujours
+Commencer par s'entendre.
+
+**** *book_ *id_I10 *act_I
+
+-*who_bievre
+Je ne pourrai jamais la faire revenir sur mon compte.
+Je ne puis pourtant pas l'abandonner à mon rival ; je ne dois pas souffrir qu'elle devienne femme de Chambre....
+Au reste, que sais-je ?
+Peut-être m'en trouverai-je mieux.
+Vraiment, je ne suis pas assez raisonnable pour me marier.
+Oui, dès l'instant qu'on se marie,
+Il faut vivre comme un Caton,
+Et l'heureux temps de la folie
+Fait place au temps de la raison.
+Oui, le mariage
+Veut un esprit sage ;
+Le soin du ménage
+S'oppose au bonheur ;
+Et puis votre belle
+Devient infidèle :
+Vous brûlez pour elle,
+Un autre a son cœur.
+De l'hymen la chaîne
+Après elle entraîne
+Les tourments, la gêne,
+Trop souvent l'ennui.
+Hélas ! tout l'atteste,
+Par un sort funeste,
+Le dégoût nous reste
+Quand l'amour a fui.
+Oui, dès, etc.
+Ah !
+J'aperçois Monsieur de Chambre.
+
+**** *book_ *id_I11 *act_I
+
+-*who_chambre
+On vient de me prévenir, Monsieur, que vous étiez dans cet appartement, et j'ai pensé que vous voudriez bien y recevoir ma visite sans cérémonie.
+
+-*who_bievre
+Je suis flatté que Monsieur de Chambre ne me fasse pas une visite de cour.
+
+-*who_chambre
+Je prie Monsieur de Bièvre de me prêter l'oreille.
+
+-*who_bievre
+Monsieur, je ne me la fais jamais tirer.
+
+-*who_chambre
+Trêve de plaisanterie, s'il vous plaît ; les pointes, à la longue...
+
+-*who_bievre
+Je vois que Monsieur préfère les courtes pointes.
+
+-*who_chambre
+Votre intention, sans doute, est de m'aigrir ?
+
+-*who_bievre
+Point du tout, Monsieur, je ne me trouve pas trop gras comme cela.
+
+-*who_chambre
+Je croyais mériter plus d'égards.
+
+-*who_bievre
+Monsieur, en doutez-vous ?
+
+-*who_chambre
+Vous êtes homme d'honneur, je compte sur votre franchise ; quelles sont ici vos vues ?
+
+-*who_bievre
+Les plus élevées.
+Je n'aime pas les vues basses.
+
+-*who_chambre
+De grâce, parlons sérieusement, ou je croirai que vous m'insultez.
+Voulez-vous vous asseoir ?...
+Mademoiselle Latour ?...
+
+-*who_bievre
+Au nom de Latour, je sens que c'est le cas d'un siège...
+
+-*who_chambre
+Monsieur, vous voulez me pousser à bout.
+Allons, quittez ce ton railleur
+Et ce froid persiflage :
+Sachez que je ne puis, monsieur,
+Le souffrir davantage.
+C'en est trop, l'épée à la main,
+Et, sans plus de remise.....
+
+-*who_bievre
+Acceptez, monsieur, puisqu'enfin
+Nous en sommes aux prises.
+
+-*who_chambre
+Il me semble, Monsieur, que vous ne savez faire que du bruit.
+
+-*who_bievre
+Vous me dites cela, parce que je viens de tirer une boîte.
+
+-*who_chambre
+Du bel esprit, avec charmes,
+Lancez les traits contre moi ;
+Mais il vous faut d'autres armes
+Pour me faire ici la loi.
+Voici l'instant de connaître
+Si, lorsqu'il s'agit d'honneur,
+Les gens d'esprit savent être
+Quelquefois des gens de cœur.
+Vous défendez-vous, monsieur ?
+
+-*who_bievre
+Vous le prenez au sérieux.
+Eh bien !
+Malgré cela, nous allons faire des parades : mais, je vous en préviens :
+Au poing ferme, au coup-d'œil sûr,
+Chez moi l'adresse est jointe :
+Je vous mets au pied du mur ;
+Car je suis vraiment fort sur
+La pointe. (ter.)
+
+**** *book_ *id_I12 *act_I
+
+-*who_julie
+Ah ! grands dieux, quel transport barbare !
+Qu'alliez-vous faire ? je frémis !
+Vite au secours, qu'on les sépare !
+
+-*who_bievre
+Nous séparer !
+Mais, vous nous croyez donc unis ?
+
+-*who_julie
+Ah !
+Monsieur, chez mon oncle !
+Venez, monsieur, suivez-moi, je l'exige.
+
+-*who_chambre
+Au revoir, monsieur.
+
+-*who_bievre
+Je vous entends, Monsieur.
+
+**** *book_ *id_I13 *act_I
+
+-*who_bievre
+Je ne puis m'empêcher de rire quand je songe à la fureur de Monsieur de Chambre ; il n'aime pas les pointes ; je ne conçois pas cela.
+À ce langage ingénieux
+Les hommes devraient rendre hommage,
+En songeant qu'autrefois les dieux
+Des doubles sens faisaient usage.
+À Delphes, Apollon consulté
+En calembourgs faisait miracle ;
+Peut-on mieux faire, en vérité,
+Que de parler comme un oracle ?
+
+**** *book_ *id_I14 *act_I
+
+-*who_bievre
+Te voilà, Dubois ?
+Eh bien !
+Qu'as-tu donc qui te chagrine ?
+
+-*who_dubois
+Hélas !
+Monsieur, en traversant Paris, une paille m'est entrée dans l'œil : j'ai répandu la larme dans tout le quartier.
+
+-*who_bievre
+Ce ne sera rien.
+As-tu reçu ma lettre de change ?
+
+-*who_dubois
+Non, monsieur, la voilà.
+Elle est impayable.
+
+-*who_bievre
+Pourquoi donc ?
+
+-*who_dubois
+Ah ! quelle bévue ! (bis.)
+Monsieur, votre payeur est
+Aveugle, et votre billet
+Est payable à vue. (bis.)
+
+-*who_bievre
+Oh !
+Je lui ferai bien voir qu'il me faut de l'argent.
+
+-*who_dubois
+Certainement, quand ce ne serait que pour prêter à Monsieur de Saint-Far, qui est venu vous demander cent louis.
+
+-*who_bievre
+Non, en vérité, je ne veux plus être utile qu'au Mont-de-Piété : au moins celui-là est-il rempli de reconnaissances.
+
+-*who_dubois
+Votre pièce, Monsieur, ne sera pas jouée : Molé est si enrhumé qu'on ne l'entend pas.
+
+-*who_bievre
+Tant mieux, il faut jouer le Séducteur en roué...
+Au moins, mon procès est-il jugé ?
+
+-*who_dubois
+Oui, Monsieur ; il est même gagné.
+
+-*who_bievre
+J'ai gagné mon procès !
+
+-*who_dubois
+Non, Monsieur, il est gagné par votre partie adverse ; mais ce qui doit vous consoler, c'est que vous l'avez perdu par votre faute.
+
+-*who_bievre
+Comment ?
+
+-*who_dubois
+Votre avocat ne vous a point défendu ; il m'a rendu la lettre que vous lui aviez envoyée, à laquelle il n'a rien compris.
+
+-*who_bievre
+Elle est pourtant bien claire ; il s'agit d'un pré, il fait partie d'un héritage qui m'est échu ; mes titres sont en règle, il ne faut que les présenter : voici ce que dit ma lettre, écoute.
+« MONSIEUR, Je vous envoie les pièces ; tenez-vous-en au texte, et nous aurons le pré ; car mon procès n'est qu'un pré-texte.
+Quoique l'objet en litige ne soit pas éloigné, je le crois précaire. »
+
+-*who_dubois
+C'est en Égypte.
+
+-*who_bievre
+« Cependant, si vous le voulez, vous emporterez le pré par votre talent pré-dominant, et je suis caution de votre succès, si vous prenez toutes vos pré-cautions.»
+Je suis, etc.
+D. B. Dans le fait, ce n'est pas là précisément le style du Palais.
+Mais quoi !
+La sottise est faite, et l'on ne peut pas revenir sur le pré-jugé.
+
+-*who_dubois
+Il est incurable !
+
+-*who_bievre
+Comment !
+Incurable ?
+
+-*who_dubois
+Certainement, Monsieur.
+Vous avez fait aujourd'hui cinquante calembourgs, au moins, il n'y en a pas trente neufs.
+
+-*who_bievre
+Qu'y a-t-il de nouveau à Paris ?
+
+-*who_dubois
+Il y a bien des choses, Monsieur.
+D'abord, j'ai traversé les Tuileries, et j'ai trouvé tous les arbres en allées.
+
+-*who_bievre
+Après ?
+
+-*who_dubois
+J'ai passé chez votre libraire.
+Oh !
+Monsieur, c'est un bien brave homme que votre libraire.
+
+-*who_bievre
+Je te l'ai toujours dit.
+
+-*who_dubois
+Il m'a donné trois livres pour quarante-cinq sols.
+
+-*who_bievre
+Peste !
+
+-*who_dubois
+Enfin, Monsieur, ce qui sans doute vous sera fort agréable...
+Ma femme est sur le point d'accoucher.
+
+-*who_bievre
+Tu as raison, cela me fait grand plaisir, et je t'en félicite.
+Tu vas avoir un nouveau-né.
+
+-*who_dubois
+Enfin tout est nouveau, Monsieur, tout.
+Nouveaux plaisirs, nouvelles fêtes,
+Nouveaux maintiens, nouveaux habits,
+Nouveaux bals, nouvelles conquêtes,
+Nouveaux tourments pour les maris,
+Nouveaux romans dans les affiches,
+Faits par de nouveaux gens d'esprit,
+Et tout exprès de nouveaux riches,
+Pour lire les nouveaux écrits.
+Mais vous n'écoutez pas mes nouvelles, monsieur.
+
+-*who_bievre
+Je réfléchissais.
+J'admire ma journée !
+De pointes en pointes : j'ai perdu ma maîtresse, mon procès, et j'ai manqué de gagner un coup d'épée.
+
+-*who_dubois
+Voilà de l'esprit bien employé !...
+Comment !
+Monsieur de Chambre...
+
+-*who_bievre
+Il faut que je te conte cela.
+Tu étais à peine parti...
+
+**** *book_ *id_I15 *act_I
+
+-*who_bievre
+Qui vient nous interrompre ?
+Oh !
+Je te vois venir, messager de malheurs ; c'est un congé que tu m'apportes.
+
+-*who_levalet
+Monsieur, c'est de la part...
+
+-*who_bievre
+Oh !
+C'est de la part de l'oncle, de la nièce...
+Ce poulet-là contient des politesses, et les adieux de toute la famille.
+
+-*who_levalet
+Monsieur...
+
+-*who_bievre
+On s'imagine que je vais me désespérer : mais si j'ai perdu d'un côté, j'ai gagné de l'autre.
+J'ai perdu ce procès, l'objet de tant de soins ;
+Mon rival épouse Julie.
+Quelques dettes de plus, une femme de moins,
+Tout est balancé dans la vie.
+
+-*who_dubois
+Belle consolation !
+
+-*who_bievre
+Enfin, lisons...
+    « Monsieur de Latour vient de m'accorder son aimable nièce : soyons donc amis, puisque nous ne sommes plus rivaux.
+J'espère que vous voudrez bien m'en donner une preuve, en accédant à la première demande que je prends la liberté de vous faire au nom de mon oncle et de mon épouse.»
+Monsieur de Chambre est très honnête.
+Je veux vous voir au plus tôt ;
+À demain, deux novembre,
+Venez dîner, sans écot,
+À la fortune du pot...
+
+-*who_dubois
+Quelle fortune !
+
+-*who_bievre
+Qu'as-tu à rire ?
+
+-*who_dubois
+Comment, Monsieur, vous n'appréciez pas tout votre bonheur !
+
+-*who_bievre
+Ah !
+Battu !
+Morbleu !
+Battu avec mes propres armes !
+Un mal-adroit !
+
+-*who_dubois
+Pas si bête, pourtant.
+
+-*who_bievre
+Qui n'a jamais fait un calembourg.
+
+-*who_dubois
+C'est bien commencer.
+
+-*who_bievre
+Il me passe au travers du corps la première pointe, peut-être, qu'il ait faite de sa vie : après un coup comme celui-là, il ne m'est plus permis de dire rien de plaisant.
+Si le mauvais ton du faubourg
+Égale celui de la ville,
+Et si dans l'art du calembourg
+Un ignorant se montre habile ;
+Je vois que pour être en crédit,
+Pour être toujours sûr de plaire,
+Il faut avoir beaucoup d'esprit,
+Mais qu'il faut se garder d'en faire.
+
+-*who_dubois
+C'est ce que beaucoup de gens disent : mais, croyez-moi, Monsieur, c'est par jalousie.
+Avec un jeu comme le vôtre, et un valet de cœur comme moi, vous gagnerez toujours la partie.
+
+-*who_bievre
+Que vois-je !
+Julie avec Monsieur de Chambre ?
+
+**** *book_ *id_I16 *act_I
+
+-*who_bievre
+Ah !
+Monsieur, ce n'est point assez pour vous de l'emporter sur moi : voulez-vous encore ajouter à mes regrets, en m'offrant le spectacle de votre bonheur ?
+
+-*who_julie
+J'aime à croire, Monsieur, qu'un amour aussi subit n'a pas fait encore de grands progrès : les sujets de consolation dont vous êtes environné, vos talents, une fortune considérable...
+
+-*who_bievre
+Ah !
+Madame, ma fortune d'aujourd'hui ne sera certainement pas une bonne fortune.
+
+-*who_laroche
+Je crois que vous pouvez vous rassurer sur les jours de Monsieur de Bièvre, il fait de l'esprit, il n'en mourra pas.
+
+-*who_bievre
+Voilà ce qui vous trompe, Mademoiselle Laroche, j'en mourrai, mais il me faudra du temps.
+Puis-je vous offrir Dubois,
+Pour servir Madame ?
+
+-*who_chambre
+Gardez-le, son nom, je crois,
+Peut faire épigramme.
+
+-*who_bievre
+Puisqu'il n'a point votre voix,
+Il faut partir, je le vois,
+En gardant toujours du bois,
+Pour nourrir ma flamme.
+
+-*who_chambre
+Nous nous flattons que vous resterez, Monsieur ; vous êtes attendu chez Monsieur de Latour.
+Oui, prolongez votre voyage,
+Ici de vous on a besoin ;
+Aujourd'hui, pour mon mariage,
+Veuillez me servir de témoin.
+
+-*who_bievre
+Je ne saurais.
+
+-*who_chambre
+Ah ! pour Julie
+Vous devez être complaisant ;
+Puisqu'en ce jour on la marie,
+Il lui faut au moins.... un présent.
+
+-*who_bievre
+Pas mauvais !
+Si je pouvais riposter.
+Je suis désolé de vous refuser ; mais....
+
+-*who_chambre
+Je le demande comme un ami, et Madame comme une Grèce.
+
+-*who_bievre
+Encore !
+Et rien ne me vient....
+À ce titre, je dois céder.
+
+-*who_julie
+Nous ne vous retiendrons que le temps nécessaire pour signer le contrat.
+
+-*who_bievre
+Je suis donc à vos ordres.
+
+-*who_julie
+Cela ne sera pas long.
+Vous savez que les notaires font beaucoup de choses.... dans une minute.
+
+-*who_bievre
+Julie aussi !
+Ah !
+Je vois que vous voulez me combattre avec mes propres armes.
+
+-*who_dubois
+Une minute....
+Je n'aurais pas deviné celui-là.
+
+-*who_laroche
+C'est que tu n'as pas l'esprit devin.
+
+-*who_bievre
+Nous sommes perdus, tout le monde s'en mêle.
+
+-*who_chambre
+À votre école on profite.
+Allons, ma chère Julie, retournons près de votre oncle, et méritons, par nos soins, les bontés dont il nous comble aujourd'hui.
+
+**** *book_ *id_I17 *act_I
+
+-*who_chambre
+Jadis Molière
+Par qui l'on rit,
+En grand traçait un caractère :
+Chez nous, pour plaire,
+Tout est petit,
+Excepté l'abus de l'esprit.
+De nos aïeux le vieux langage
+Était moins brillant que sensé ;
+Nous parlons mieux et davantage ;
+Et toujours sans avoir pensé.
+
+-*who_tous
+Jadis Molière
+Par qui l'on rit,
+En grand traçait un caractère :
+Chez nous, pour plaire,
+Tout est petit,
+Excepté l'abus de l'esprit.
+De nos aïeux le vieux langage
+Était moins brillant que sensé ;
+Nous parlons mieux et davantage ;
+Et toujours sans avoir pensé.
+
+-*who_bievre
+Je blâme nos Auteurs frivoles ;
+Leurs discours, moins profonds que creux,
+N'ont pas de sens, et mes paroles
+Pour l'esprit en ont toujours deux.
+
+-*who_tous
+Jadis Molière
+Par qui l'on rit,
+En grand traçait un caractère :
+Chez nous, pour plaire,
+Tout est petit,
+Excepté l'abus de l'esprit.
+De nos aïeux le vieux langage
+Était moins brillant que sensé ;
+Nous parlons mieux et davantage ;
+Et toujours sans avoir pensé.
+
+-*who_julie
+Rien ne s'achève, tout s'esquisse,
+On veut tout faire, on manque tout :
+Le feu brillant de l'artifice
+Éclipse le flambeau du goût.
+
+-*who_tous
+Jadis Molière
+Par qui l'on rit,
+En grand traçait un caractère :
+Chez nous, pour plaire,
+Tout est petit,
+Excepté l'abus de l'esprit.
+De nos aïeux le vieux langage
+Était moins brillant que sensé ;
+Nous parlons mieux et davantage ;
+Et toujours sans avoir pensé.
+
+-*who_dubois
+Combien de pièces très connues
+Ont la vogue en ce pays-ci ;
+Les scènes y tombent des nues,
+Le dénouement en tombe aussi.
+
+-*who_tous
+Jadis Molière
+Par qui l'on rit,
+En grand traçait un caractère :
+Chez nous, pour plaire,
+Tout est petit,
+Excepté l'abus de l'esprit.
+De nos aïeux le vieux langage
+Était moins brillant que sensé ;
+Nous parlons mieux et davantage ;
+Et toujours sans avoir pensé.
+
+-*who_laroche
+Le jargon est commun en France :
+Sans vouloir le mettre en crédit,
+Pour une fois, sans conséquence,
+Approuvez l'abus de l'esprit.
+Le grand Molière,
+Par qui l'on rit,
+Nous apprendra l'art de vous plaire.
+Réduits à faire
+Tout en petit,
+Nous fuirons l'abus de l'esprit.

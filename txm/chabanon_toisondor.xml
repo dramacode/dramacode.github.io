@@ -1,0 +1,1064 @@
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>La toison d’or</title>
+        <title type="sub">, tragédie lyrique, en quatre actes et en vers.</title>
+        <author born="1730" born_location="Saint-Domingue" death="1792" death_location="Paris" academie="">
+          <surname>Chabanon</surname>
+          <forename> Michel-Paul-Guy de</forename>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p>publié par Paul FIEVRE, août 2013.</p>
+        <idno/>
+      </publicationStmt>
+      <sourceDesc>
+        <genre>Tragédie lyrique</genre>
+        <inspiration>mythe grec</inspiration>
+        <structure>Quatre actes</structure>
+        <type>prose</type>
+        <periode>1781-1790</periode>
+        <taille>(mesure non pertinente)</taille>
+        <permalien>http://gallica.bnf.fr/ark:/12148/bpt6k57540736</permalien>
+        <sources>
+          <source id="1">
+            <author/>
+            <text/>
+          </source>
+        </sources>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="created" when="(non représentée)"/>
+        <date type="issued" when="1788"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="genre">Tragédie lyrique</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div1 xml:id="I" type="act" n="1">
+        <head>ACTE I</head>
+        <div2 xml:id="I01" type="scene" n="1">
+          <head>SCÈNE PREMIÈRE. Médée, Nérine.<listPerson type="configuration" xml:id="conf1"/></head>
+          <sp xml:id="I01-1" who="MEDEE">
+            <l n="1" xml:id="l1">Oui, ce que j’éprouve Nérine,</l>
+            <l n="2" xml:id="l2">Ce trouble de mes sens, ce désordre inconnu,</l>
+            <l n="3" xml:id="l3">Effet impérieux du sort qui me domine,</l>
+            <l n="4" xml:id="l4">L’enfer me l’annonçait, mon art l’avait prévu.</l>
+            <l n="5" xml:id="l5">Quand j’ai voulu des temps sonder la nuit obscure,</l>
+            <l n="6" xml:id="l6">L’enfer me répondait avec un long murmure :</l>
+            <l n="7" xml:id="l7">« Par toi doit s’accomplir un grand événement</l>
+            <l n="8" xml:id="l8">Tes voeux, ta volonté, ton âme toute entière,</l>
+            <l n="9" xml:id="l9">Des décrets du destin, sont l’aveugle instrument. »</l>
+            <l n="10" xml:id="l10">Jason vient d’aborder cette rive étrangère ;</l>
+            <l n="11" xml:id="l11">Je n’ai pu soutenir un regard de ses yeux :</l>
+            <l n="12" xml:id="l12">Frappé d’une soudaine atteinte,</l>
+            <l n="13" xml:id="l13">Mon cceur a trésailli de désir et de crainte.</l>
+            <l n="14" xml:id="l14">J’ai dit : voilà l’instant que m’annonçaient les Dieux.</l>
+          </sp>
+          <sp xml:id="I01-2" who="NERINE">
+            <l n="15" xml:id="l15">Eh bien ! Médée en ce désordre extrême,</l>
+            <l n="16" xml:id="l16">Qu’avez-vous résolu ?</l>
+          </sp>
+          <sp xml:id="I01-3" who="MEDEE">
+            <l n="17" xml:id="l17">De triompher du sort et de moi-même ;</l>
+            <l n="18" xml:id="l18">De garder sur mes sens un empire absolu.</l>
+            <l n="19" xml:id="l19">Qu’une âme faible et sans courage</l>
+            <l n="20" xml:id="l20">Impute à la nécessité,</l>
+            <l n="21" xml:id="l21">L’erreur où son penchant l’engage.</l>
+            <l n="22" xml:id="l22">Qu’une âme faible et sans courage,</l>
+            <l n="23" xml:id="l23">Laisse enchaîner sa liberté.</l>
+            <l n="24" xml:id="l24">Le sort eût-il arrêté</l>
+            <l n="25" xml:id="l25">Que je vivrais criminelle,</l>
+            <l n="26" xml:id="l26">Ma constante fermeté</l>
+            <l n="27" xml:id="l27">Résisterait à la fatalité.</l>
+            <l n="28" xml:id="l28">Et se croirait encor plus immuable qu’elle.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="I02" type="scene" n="2">
+          <head>SCÈNE II. Médée, Aetès.<listPerson type="configuration" xml:id="conf2"/></head>
+          <sp xml:id="I02-1" who="AETES">
+            <l n="29" xml:id="l29">Jason en nous servant, vient d’illustrer son bras;</l>
+            <l n="30" xml:id="l30">Les Scythes sont défaits, l’indomptable Athamas</l>
+            <l n="31" xml:id="l31">Ne ravagera plus cette heureuse contrée</l>
+            <l n="32" xml:id="l32">Nous possédons en paix la dépouille sacrée,</l>
+            <l n="33" xml:id="l33">L’immortelle Toison, trésor de ces climats,</l>
+            <l n="34" xml:id="l34">Où restent attachés par la main des Dieux même,</l>
+            <l n="35" xml:id="l35">Du trône où je m’assieds, la fortune suprême</l>
+            <l n="36" xml:id="l36">Et le destin de mes États.</l>
+          </sp>
+          <sp xml:id="I02-2" who="MEDEE">
+            <l n="37" xml:id="l37">Ce triomphe m’enchante il ne m’étonne pas.</l>
+            <l n="38" xml:id="l38">De quel prix votre justice</l>
+            <l n="39" xml:id="l39">Récompensera-t-elle un si noble service ?</l>
+          </sp>
+          <sp xml:id="I02-3" who="AETES">
+            <l n="40" xml:id="l40">Les désirs du vainqueur ont réglé mes desseins ;</l>
+            <l n="41" xml:id="l41">Il t’aime, et veut t’unir à ses brillants destins.</l>
+          </sp>
+          <sp xml:id="I02-4" who="MEDEE">
+            <l n="42" xml:id="l42" part="I">Ciel !</l>
+          </sp>
+          <sp xml:id="I02-5" who="AETES">
+            <l part="F">D’où peut naître ta surprise ?</l>
+          </sp>
+          <sp xml:id="I02-6" who="MEDEE">
+            <l n="43" xml:id="l43">J’étais loin de prévoir un semblable projet.</l>
+          </sp>
+          <sp xml:id="I02-7" who="AETES">
+            <l n="44" xml:id="l44">Ma fille, je l’approuve et ta main est promise.</l>
+          </sp>
+          <sp xml:id="I02-8" who="MEDEE">
+            <l n="45" xml:id="l45">Ô mon père qu’avez-vous fait ?</l>
+            <l n="46" xml:id="l46">Je fuis d’importunes chaînes ;</l>
+            <l n="47" xml:id="l47">Ma vie exempte de peines,</l>
+            <l n="48" xml:id="l48">S’écoule comme un beau jour:</l>
+            <l n="49" xml:id="l49">Cette paisible jouissance,</l>
+            <l n="50" xml:id="l50">Ce doux repos de l’innocence,</l>
+            <l n="51" xml:id="l51">Faut-il les voir céder aux troubles de l’amour ?</l>
+          </sp>
+          <sp xml:id="I02-9" who="AETES">
+            <l n="52" xml:id="l52">Cet effroi de l’amour, qui peut le faire naître ?</l>
+          </sp>
+          <sp xml:id="I02-10" who="MEDEE">
+            <l n="53" xml:id="l53">Je redoute mon coeur, et crains de me connaître.</l>
+            <l n="54" xml:id="l54">Loin des périls que je prévois,</l>
+            <l n="55" xml:id="l55">Ma raison calme et souveraine,</l>
+            <l n="56" xml:id="l56">Tient mes passions à la chaîne,</l>
+            <l n="57" xml:id="l57">Et leur fait respecter ses lois :</l>
+            <l n="58" xml:id="l58">Mais dans cet esclavage où j’ai su les contraindre,</l>
+            <l n="59" xml:id="l59">Je sens ces fiers tyrans prêts à se soulever ;</l>
+            <l n="60" xml:id="l60">Leur silence menace, et m’avertit de craindre</l>
+            <l n="61" xml:id="l61">Tout ce que leur fureur peut me faire éprouver.</l>
+          </sp>
+          <sp xml:id="I02-11" who="AETES">
+            <l n="62" xml:id="l62">Écarte une chimère</l>
+            <l n="63" xml:id="l63">Dont l’erreur te séduit.</l>
+          </sp>
+          <sp xml:id="I02-12" who="MEDEE">
+            <l n="64" xml:id="l64">Cet effroi salutaire</l>
+            <l n="65" xml:id="l65">La raison l’a produit.</l>
+          </sp>
+          <sp xml:id="I02-13" who="AETES">
+            <l n="66" xml:id="l66">L’hymen ne détruit pas la paix des coeurs sensibles.</l>
+          </sp>
+          <sp xml:id="I02-14" who="MEDEE">
+            <l n="67" xml:id="l67">L’amour a quelquefois fait verser bien des pleurs !</l>
+          </sp>
+          <sp xml:id="I02-15" who="AETES">
+            <l n="68" xml:id="l68">Combien tu chériras des noeuds doux et paisibles.</l>
+          </sp>
+          <sp xml:id="I02-16" who="MEDEE">
+            <l n="69" xml:id="l69">Combien vous gémirez d’avoir fait mes malheurs !</l>
+          </sp>
+          <sp xml:id="I02-17" who="AETES">
+            <l n="70" xml:id="l70">Ô sagesse ! Ô prodige</l>
+            <l n="71" xml:id="l71">Quand son refus m’afflige,</l>
+            <l n="72" xml:id="l72">Je suis contraint à l’admirer.</l>
+          </sp>
+          <sp xml:id="I02-18" who="AETES">
+            <l n="73" xml:id="l73">Ô sagesse ! Ô prodige!</l>
+            <l n="74" xml:id="l74">Quand ton refus m’afflige,</l>
+            <l n="75" xml:id="l75">Je suis contraint à l’admirer.</l>
+          </sp>
+          <sp xml:id="I02-19" who="MEDEE">
+            <l n="76" xml:id="l76">Ô tendresse ! Ô prodige !</l>
+            <l n="77" xml:id="l77">Quand son pouvoir m’afflige.</l>
+            <l n="78" xml:id="l78">Je suis contrainte à l’adorer.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="I03" type="scene" n="3">
+          <head>SCÈNE III. Les Mêmes, Jason, Les Argonautes, Peuples de la Colchide.<listPerson type="configuration" xml:id="conf3"/></head>
+          <sp xml:id="I03-1" who="AETES">
+            <l n="79" xml:id="l79">Jeune héros, qui, des champs de la Grèce,</l>
+            <l n="80" xml:id="l80">Êtes venu dans un monde nouveau,</l>
+            <l n="81" xml:id="l81">Pour épargner à ma vieillesse,</l>
+            <l n="82" xml:id="l82">L’affront qui l’eût mise au tombeau :</l>
+            <l n="83" xml:id="l83">Je remets avec joie, au vengeur de l’empire,</l>
+            <l n="84" xml:id="l84">Le prix que son amour avait sollicité :</l>
+            <l n="85" xml:id="l85">Ce prix est la vertu, la grâce, et la beauté.</l>
+          </sp>
+          <sp xml:id="I03-2" who="JASON">
+            <l n="86" xml:id="l86">Princesse, confirmez le bonheur où j’aspire.</l>
+          </sp>
+          <sp xml:id="I03-3" who="MEDEE">
+            <l n="87" xml:id="l87">Aux ordres paternels, c’est à moi de souscrire ;</l>
+            <l n="88" xml:id="l88">Mais connaissez le coeur qu’à vos loix je soumets.</l>
+            <l n="89" xml:id="l89">L’hymen épouvantait ma fière indépendance,</l>
+            <l n="90" xml:id="l90">Et je ne pensais pas qu’un mortel dût jamais</l>
+            <l n="91" xml:id="l91">Triompher de ma résistance.</l>
+            <l n="92" xml:id="l92">Jason vous avez seul adouci ma fierté ;</l>
+            <l n="93" xml:id="l93">Mai lorsqu’à vos verras, je rends cette justice,</l>
+            <l n="94" xml:id="l94">Prêt d’engager pour vous, ses voeux, sa liberté,</l>
+            <l n="95" xml:id="l95">Mon coeur s’étonne encor d’un si grand sacrifice.</l>
+          </sp>
+          <sp xml:id="I03-4" who="AETES">
+            <l n="96" xml:id="l96">Ce sacrifice est doux quand il est mérité.</l>
+          </sp>
+          <sp xml:id="I03-5" who="MEDEE,AETES,JASON">
+            <l n="97" xml:id="l97">Jour heureux ! Jour plein de gloire !</l>
+            <l n="98" xml:id="l98">Tu combles tous nos désirs :</l>
+            <l n="99" xml:id="l99">À l’ivresse de la victoire,</l>
+            <l n="100" xml:id="l100">Tu joins l’ivresse des plaisirs.</l>
+          </sp>
+          <sp xml:id="I03-6" who="AETES">
+            <l n="101" xml:id="l101">Jason, je vous dois ma couronne.</l>
+          </sp>
+          <sp xml:id="I03-7" who="JASON">
+            <l n="102" xml:id="l102">Je tiens de vous un bien plus grand.</l>
+          </sp>
+          <sp xml:id="I03-8" who="AETES">
+            <l n="103" xml:id="l103">Vous l’obtenez en conquérant,</l>
+            <l n="104" xml:id="l104">Et c’est l’amour qui vous le donne.</l>
+          </sp>
+          <sp xml:id="I03-9" who="AETES,MEDEE">
+            <l n="105" xml:id="l105">Oui, c’est l’amour qui vous le donne.</l>
+          </sp>
+          <sp xml:id="I03-10" who="MEDEE,AETES,JASON">
+            <l n="106" xml:id="l106">Jour heureux, etc.</l>
+          </sp>
+          <sp xml:id="I03-11" who="AETES">
+            <l n="107" xml:id="l107">Sans Médée, et sans ses attraits,</l>
+            <l n="108" xml:id="l108">Ma stérile reconnaissance</l>
+            <l n="109" xml:id="l109">Ne pouvoir payer vos bienfaits.</l>
+          </sp>
+          <sp xml:id="I03-12" who="JASON">
+            <l n="110" xml:id="l110">Sans Médée, et sans ses attraits,</l>
+            <l n="111" xml:id="l111">Tous les dons de votre puissance,</l>
+            <l n="112" xml:id="l112">N’étaient que des dons imparfaits.</l>
+          </sp>
+          <sp xml:id="I03-13" who="MEDEE,AETES,JASON">
+            <l n="113" xml:id="l113">Jour heureux etc.</l>
+          </sp>
+          <sp xml:id="I03-14" who="JASON">
+            <l n="114" xml:id="l114">Des beaux arts dont les Dieux ont enrichi la Grèce,</l>
+            <l n="115" xml:id="l115">Déployons sur ces bords, la pompe enchanteresse.</l>
+          </sp>
+          <sp xml:id="I03-15" who="ORPHEE">
+            <l n="116" xml:id="l116">Ô mère de la volupté !</l>
+            <l n="117" xml:id="l117">Vénus ! Descends sur ce rivage ;</l>
+            <l n="118" xml:id="l118">Viens y couronner la beauté,</l>
+            <l n="119" xml:id="l119">Viens y sourire à ton image.</l>
+            <l n="120" xml:id="l120">Au nom de Vénus, l’air sépare</l>
+            <l n="121" xml:id="l121">La terre s’émaille de fleurs ;</l>
+            <l n="122" xml:id="l122">Et leurs parfums enchanteurs,</l>
+            <l n="123" xml:id="l123">Sont l’encens que la nature</l>
+            <l n="124" xml:id="l124">Offre à la Divinité</l>
+            <l n="125" xml:id="l125">Qui d’un seul regard lui procure</l>
+            <l n="126" xml:id="l126">Le calme, et la sérénité.</l>
+          </sp>
+          <sp xml:id="I03-16" who="MEDEE">
+            <l n="127" xml:id="l127">Beaux-arts, enfans du ciel ! J’ai donc connu vos charmes :</l>
+            <l n="128" xml:id="l128">Vous prêtez à l’Amour ses plus puissantes armes.</l>
+            <l n="129" xml:id="l129">Par un magique enchantement,</l>
+            <l n="130" xml:id="l130">J’ai cru me voir en un moment,</l>
+            <l n="131" xml:id="l131">Loin de ces rives transportée ;</l>
+            <l n="132" xml:id="l132">J’avais franchi les vastes mers,</l>
+            <l n="133" xml:id="l133">J’habitais un aurre univers, </l>
+            <l n="134" xml:id="l134">Séjour des Dieux, terre enchantée ;</l>
+            <l n="135" xml:id="l135">Là, tout invite à s’enflammer,</l>
+            <l n="136" xml:id="l136">Et l’on ne vit que pour aimer.</l>
+            <l n="137" xml:id="l137">Beaux-arts etc.</l>
+          </sp>
+          <sp xml:id="I03-17" who="AETES">
+            <l n="138" xml:id="l138">Venez, Jason, venez ; hâtons l’instant heureux,</l>
+            <l n="139" xml:id="l139">Qui par un noeud charmant, doit vous unir tous deux.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="I04" type="scene" n="4">
+          <head>SCÈNE IV. Pollux, Idamas, Choeur de Grecs.<listPerson type="configuration" xml:id="conf4"/></head>
+          <sp xml:id="I04-1" who="POLLUX">
+            <l n="140" xml:id="l140">Amis, n’êtes-vous plus les enfants de la gloire ?</l>
+            <l n="141" xml:id="l141">Ne sommes-nous venus dans cet affreux séjour,</l>
+            <l n="142" xml:id="l142">Que pour y consacrer des fêtes à l’Amour ?</l>
+          </sp>
+          <sp xml:id="I04-2" who="IDAMAS">
+            <l n="143" xml:id="l143">Ces jeux seront suivis des jeux de la victoire.</l>
+          </sp>
+          <sp xml:id="I04-3" who="POLLUX">
+            <l n="144" xml:id="l144">Dis plutôt que Jason s’apprête à nous trahir.</l>
+          </sp>
+          <sp xml:id="I04-4" who="IDAMAS">
+            <l n="145" xml:id="l145" part="I">Lui !</l>
+          </sp>
+          <sp xml:id="I04-5" who="POLLUX">
+            <l part="F">L’amant de Médée est un Grec infidèle ;</l>
+            <l n="146" xml:id="l146">Prêt à s’unir avec elle,</l>
+            <l n="147" xml:id="l147">Il est traître envers nous, où va le devenir.</l>
+            <l n="148" xml:id="l148">Pollux ne sera pas complice</l>
+            <l n="149" xml:id="l149">De cette lâche trahison.</l>
+          </sp>
+          <sp xml:id="I04-6" who="IDAMAS">
+            <l n="150" xml:id="l150">Eh ! Que prétend ton injustice ?</l>
+          </sp>
+          <sp xml:id="I04-7" who="POLLUX">
+            <l n="151" xml:id="l151">Sauver d’un amoureux caprice,</l>
+            <l n="152" xml:id="l152">La conquête de la Toison.</l>
+            <l n="153" xml:id="l153">Entre la Grèce et la Colchide</l>
+            <l n="154" xml:id="l154">Que le fils d’OEson se décide.</l>
+          </sp>
+          <sp xml:id="I04-8" who="CHOEUR">
+            <l n="155" xml:id="l155">Oui, qu’il prononce, et dès ce jour.</l>
+          </sp>
+          <sp xml:id="I04-9" who="IDAMAS">
+            <l n="156" xml:id="l156">Pourquoi cette épreuve inutile ?</l>
+          </sp>
+          <sp xml:id="I04-10" who="POLLUX">
+            <l n="157" xml:id="l157">Le choix est-il si difficile ?</l>
+          </sp>
+          <sp xml:id="I04-11" who="CHOEUR">
+            <l n="158" xml:id="l158">Non ; qu’il prononce, et dès ce jour.</l>
+          </sp>
+          <sp xml:id="I04-12" who="IDAMAS">
+            <l n="159" xml:id="l159">Dieux ! Que je crains pour son amour !</l>
+          </sp>
+          <sp xml:id="I04-13" who="POLLUX">
+            <l n="160" xml:id="l160">Si ce faible guerrier balance.</l>
+          </sp>
+          <sp xml:id="I04-14" who="CHOEUR">
+            <l n="161" xml:id="l161">Nous commettons à ta vaillance,</l>
+            <l n="162" xml:id="l162">L’espoir de nos brillants succès.</l>
+          </sp>
+          <sp xml:id="I04-15" who="POLLUX">
+            <l n="163" xml:id="l163">Ô douce ! Ô flatteuse espérance !</l>
+          </sp>
+          <sp xml:id="I04-16" who="IDAMAS">
+            <l n="164" xml:id="l164">Quittez ces dangereux projets.</l>
+          </sp>
+          <sp xml:id="I04-17" who="POLLUX">
+            <l n="165" xml:id="l165">Ô douce ! Ô flatteuse espérance !</l>
+          </sp>
+          <sp xml:id="I04-18" who="POLLUX">
+            <l n="166" xml:id="l166">Si le faible Jason balance</l>
+            <l n="167" xml:id="l167">Ne commettez qu’à ma vailance,</l>
+            <l n="168" xml:id="l168">L’espoir de vos brillants succès.</l>
+          </sp>
+          <sp xml:id="I04-19" who="CHOEUR">
+            <l n="169" xml:id="l169">Si le faible Jason balance</l>
+            <l n="170" xml:id="l170">Nous commettond à ta vailance,</l>
+            <l n="171" xml:id="l171">L’espoir de nos brillants succès.</l>
+          </sp>
+          <sp xml:id="I04-20" who="IDAMAS">
+            <l n="172" xml:id="l172">Jason vous verra avec prudence.</l>
+            <l n="173" xml:id="l173">Ne commettez qu’à ma vaillance.</l>
+            <l n="174" xml:id="l174">L’espoir de vos brillants succès.</l>
+          </sp>
+        </div2>
+      </div1>
+      <div1 xml:id="II" type="act" n="2">
+        <head>ACTE II</head>
+        <div2 xml:id="II01" type="scene" n="1">
+          <head>SCÈNE PREMIÈRE. Aetès, Médée, Peuple de la Colchide.<listPerson type="configuration" xml:id="conf6"/></head>
+          <sp xml:id="II01-1" who="AETES">
+            <l n="175" xml:id="l175">J’aime à voir sur ton front embelli par la joie,</l>
+            <l n="176" xml:id="l176">Cette sérénité que l’amour y déploie.</l>
+          </sp>
+          <sp xml:id="II01-2" who="MEDEE">
+            <l n="177" xml:id="l177">Quelle était mon erreur !</l>
+            <l n="178" xml:id="l178">D’un noeud plein de douceur,</l>
+            <l n="179" xml:id="l179">Vous me vantiez le charme et l’innocence ;</l>
+            <l n="180" xml:id="l180">Mon aveugle imprudence</l>
+            <l n="181" xml:id="l181">Se refusait aux leçons du bonheur.</l>
+            <l n="182" xml:id="l182">Les biens dont je jouis, vous les avez fait naître</l>
+            <l n="183" xml:id="l183">Pour un jeune héros mon coeur s’est enflammé</l>
+            <l n="184" xml:id="l184">J’ai honte des moments perdus sans le connaître,</l>
+            <l n="185" xml:id="l185">Je déteste les jours où je n’ai point aimé.</l>
+          </sp>
+          <sp xml:id="II01-3" who="AETES">
+            <l n="186" xml:id="l186">Témoin de ton bonheur, je veux l’accroître encore.</l>
+          </sp>
+          <sp xml:id="II01-4" who="MEDEE">
+            <l n="187" xml:id="l187">Non ; tout votre pouvoir le tenterait en vain.</l>
+          </sp>
+          <sp xml:id="II01-5" who="AETES">
+            <l n="188" xml:id="l188">Prends ma couronne, et que ta main</l>
+            <l n="189" xml:id="l189">L’attache sur le front du héros qui t’adore.</l>
+          </sp>
+          <sp xml:id="II01-6" who="MEDEE">
+            <l n="190" xml:id="l190">Conservez vos grandeurs, notre amour nous suffit.</l>
+          </sp>
+          <sp xml:id="II01-7" who="AETES">
+            <l n="191" xml:id="l191">Quand je te place au rang suprême</l>
+            <l n="192" xml:id="l192">Au don de tes appas, j’ajoute un diadème</l>
+            <l n="193" xml:id="l193">À de pareil présents, l’amour même applaudit.</l>
+          </sp>
+          <sp xml:id="II01-8" who="AETES">
+            <l n="194" xml:id="l194">Médée est votre souveraine,</l>
+            <l n="195" xml:id="l195">Obéissez tous à sa loi.</l>
+          </sp>
+          <sp xml:id="II01-9" who="CHOEUR">
+            <l n="196" xml:id="l196">Médée est notre Souveraine,</l>
+            <l n="197" xml:id="l197">Obéissons tous à sa loi.</l>
+          </sp>
+          <sp xml:id="II01-10" who="AETES">
+            <l n="198" xml:id="l198">Que sous son joug heureux le devoir vous enchaîne.</l>
+          </sp>
+          <sp xml:id="II01-11" who="CHOEUR">
+            <l n="199" xml:id="l199">Médée est notre Souveraine.</l>
+          </sp>
+          <sp xml:id="II01-12" who="AETES">
+            <l n="200" xml:id="l200">Conservez lui l’amour que vous eûtes pour moi.</l>
+          </sp>
+          <sp xml:id="II01-13" who="CHOEUR">
+            <l n="201" xml:id="l201">Médée est notre Souveraine.</l>
+          </sp>
+          <sp xml:id="II01-14" who="AETES">
+            <l n="202" xml:id="l202">Médée est votre Souveraine,.</l>
+            <l n="203" xml:id="l203">Et Jason sera votre roi.</l>
+          </sp>
+          <sp xml:id="II01-15" who="CHOEUR">
+            <l n="204" xml:id="l204">Oui, que Jason soit notre roi.</l>
+          </sp>
+          <sp xml:id="II01-16" who="AETES">
+            <l n="205" xml:id="l205">Jason nous devient nécessaire ;</l>
+            <l n="206" xml:id="l206">Il fixe dans ces lieux</l>
+            <l n="207" xml:id="l207">Le don mystérieux</l>
+            <l n="208" xml:id="l208">Que Phrixus a daigné nous faire.</l>
+          </sp>
+          <sp xml:id="II01-17" who="CHOEUR">
+            <l n="209" xml:id="l209">Gage longtemps disputé,</l>
+            <l n="210" xml:id="l210">De notre félicité,</l>
+            <l n="211" xml:id="l211">Fais le bonheur de la Colchide ;</l>
+            <l n="212" xml:id="l212">Repose en sûreté,</l>
+            <l n="213" xml:id="l213">Sous le bras redouté</l>
+            <l n="214" xml:id="l214">Qui te couvre de son égide,</l>
+          </sp>
+        </div2>
+        <div2 xml:id="II02" type="scene" n="2">
+          <head>SCÈNE II. Les Mêmes, Jason.<listPerson type="configuration" xml:id="conf7"/></head>
+          <sp xml:id="II02-1" who="JASON">
+            <l n="215" xml:id="l215">Non, peuples jusques-là je ne puis vous servir,</l>
+            <l n="216" xml:id="l216">Et ma bouche et mon cceur sont loin de le promettre :</l>
+            <l n="217" xml:id="l217">Le trésor qu’à mes soins vous prétendez commettre,</l>
+            <l n="218" xml:id="l218">Je ne viens à Colchos que pour vous le ravir.</l>
+          </sp>
+          <sp xml:id="II02-2" who="AETES">
+            <l n="219" xml:id="l219" part="I">Qu’entends-je !</l>
+          </sp>
+          <sp xml:id="II02-3" who="MEDEE">
+            <l part="M">Ciel !</l>
+          </sp>
+          <sp xml:id="II02-4" who="CHOEUR">
+            <l part="M">Ô ciel !</l>
+          </sp>
+          <sp xml:id="II02-5" who="JASON">
+            <l part="F">Adorable Princesse,</l>
+            <l n="220" xml:id="l220">J’offense vos appas;</l>
+            <l n="221" xml:id="l221">Mais un serment me lie, et je dois à la Grèce</l>
+            <l n="222" xml:id="l222">Le service éclatant qu’elle attend de mon bras.</l>
+            <l n="223" xml:id="l223">Je n’aurai pas du moins trompé votre tendresse,</l>
+            <l n="224" xml:id="l224">Pour usurper un bien que je dois conquérir :</l>
+            <l n="225" xml:id="l225">Je puis vous affliger, mais non pas vous trahir.</l>
+          </sp>
+          <sp xml:id="II02-6" who="AETES,MEDEE">
+            <l n="226" xml:id="l226">Veilié-je ? Est-ce un songe ?</l>
+            <l n="227" xml:id="l227">Dans quel nouveau malheur ce discours me replonge ?</l>
+          </sp>
+          <sp xml:id="II02-7" who="CHOEUR">
+            <l n="228" xml:id="l228">Perdons un ennemi</l>
+            <l n="229" xml:id="l229">Qui contre nous conspire.</l>
+          </sp>
+          <sp xml:id="II02-8" who="MEDEE">
+            <l n="230" xml:id="l230">De mon père il sauva l’empire.</l>
+          </sp>
+          <sp xml:id="II02-9" who="AETES">
+            <l n="231" xml:id="l231">Par lui mon trône est raffermi.</l>
+          </sp>
+          <sp xml:id="II02-10" who="CHOEUR">
+            <l n="232" xml:id="l232">Il cherche à le détruire.</l>
+            <l n="233" xml:id="l233">Perdons un ennemi</l>
+            <l n="234" xml:id="l234">Qui contre nous conspire.</l>
+          </sp>
+          <sp xml:id="II02-11" who="JASON">
+            <l n="235" xml:id="l235">Peuple ingrat ! Que veut ta fureur ?</l>
+            <l n="236" xml:id="l236">C’est contre ton vengeur</l>
+            <l n="237" xml:id="l237">Que ta voix éclate et menace.</l>
+          </sp>
+          <sp xml:id="II02-12" who="AETES,MEDEE">
+            <l n="238" xml:id="l238">C’est contre ton vengeur</l>
+            <l n="239" xml:id="l239">Que ta voix éclate et menace.</l>
+          </sp>
+          <sp xml:id="II02-13" who="CHOEUR">
+            <l n="240" xml:id="l240">Il n’est point, ô Jason !</l>
+            <l n="241" xml:id="l241">De bienfait que n’efface</l>
+            <l n="242" xml:id="l242">La criminelle audace</l>
+            <l n="243" xml:id="l243">Qui veut nous ravir la Toison.</l>
+          </sp>
+          <sp xml:id="II02-14" who="MEDEE">
+            <l n="244" xml:id="l244">Cessez, troupe séditieuse ;</l>
+            <l n="245" xml:id="l245">Les maux que vous craignez, je puis les empêcher.</l>
+            <l n="246" xml:id="l246">Dépouille chere et précieuse !</l>
+            <l n="247" xml:id="l247">Je dévoue au trépas la main ambitieuse</l>
+            <l n="248" xml:id="l248">Qui t’oserait toucher.</l>
+            <l n="249" xml:id="l249">Qu’un dragon rugissant te couvre et te protége :</l>
+            <l n="250" xml:id="l250">Contre un attentat sacrilège,</l>
+            <l n="251" xml:id="l251">J’arme des taureaux furieux ;</l>
+            <l n="252" xml:id="l252">Leur haleine empestée obscurcira les cieux ;</l>
+            <l n="253" xml:id="l253">Leurs cris jusqu’aux enfers iront se faire entendre ;</l>
+            <l n="254" xml:id="l254">Et du sein de la terre ouverte sous leurs pas,</l>
+            <l n="255" xml:id="l255">Naîtront des moissons de soldats</l>
+            <l n="256" xml:id="l256">Toujours prêts à te défendre.</l>
+            <l n="257" xml:id="l257">En faut-il plus encor ?</l>
+          </sp>
+          <sp xml:id="II02-15" who="CHOEUR">
+            <l n="258" xml:id="l258">Non, non ;</l>
+            <l n="259" xml:id="l259">Vous parlez, notre crainte cesse.</l>
+          </sp>
+          <sp xml:id="II02-16" who="AETES">
+            <l n="260" xml:id="l260">Je reconnais mon sang ; jamais nulle faiblesse</l>
+            <l n="261" xml:id="l261">N’a flétri ta vertu, ni troublé ta raison.</l>
+          </sp>
+          <sp xml:id="II02-17" who="MEDEE">
+            <l n="262" xml:id="l262">Laissez-moi seule entretenir Jason.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="II03" type="scene" n="3">
+          <head>SCÈNE III. Jason, Médée.<listPerson type="configuration" xml:id="conf8"/></head>
+          <sp xml:id="II03-1" who="MEDEE">
+            <l n="263" xml:id="l263">Pour détruire un projet à notre amour nuisible,</l>
+            <l n="264" xml:id="l264">J’ai voulu que mon art le rendit impossible.</l>
+          </sp>
+          <sp xml:id="II03-2" who="JASON">
+            <l n="265" xml:id="l265">Hélas vous n’avez imploré</l>
+            <l n="266" xml:id="l266">Qu’un secours faible et stérile ;</l>
+            <l n="267" xml:id="l267">Peut-être le succès devient plus difficile,</l>
+            <l n="268" xml:id="l268">Mais mon projet n’est pas moins assuré.</l>
+          </sp>
+          <sp xml:id="II03-3" who="MEDEE">
+            <l n="269" xml:id="l269" part="I">Vous oseriez encor...</l>
+          </sp>
+          <sp xml:id="II03-4" who="JASON">
+            <l part="F">Ah ce que n’a pu faire</l>
+            <l n="270" xml:id="l270">La crainte de vous déplaire,</l>
+            <l n="271" xml:id="l271">La crainte du péril le doit-elle opérer ?</l>
+          </sp>
+          <sp xml:id="II03-5" who="MEDEE">
+            <l n="272" xml:id="l272">Qu’oses-tu donc espérer ?</l>
+          </sp>
+          <sp xml:id="II03-6" who="JASON">
+            <l n="273" xml:id="l273" part="I">Le triomphe.</l>
+          </sp>
+          <sp xml:id="II03-7" who="MEDEE">
+            <l part="F">Insensé ! Renonce à ce langage.</l>
+          </sp>
+          <sp xml:id="II03-8" who="JASON">
+            <l n="274" xml:id="l274">De cet espoir je me sens animé.</l>
+          </sp>
+          <sp xml:id="II03-9" who="MEDEE">
+            <l n="275" xml:id="l275">Contre toi l’enfer est arnté.</l>
+          </sp>
+          <sp xml:id="II03-10" who="JASON">
+            <l n="276" xml:id="l276">J’aurai pour moi, le ciel et mon courage.</l>
+          </sp>
+          <sp xml:id="II03-11" who="MEDEE">
+            <l n="277" xml:id="l277">Les feux que tu viens d’allumer,</l>
+            <l n="278" xml:id="l278">Jason, veux-tu les éteindre ?</l>
+            <l n="279" xml:id="l279">Jason, veux-tu me contraindre </l>
+            <l n="280" xml:id="l280">À cesser de t’aimer ?</l>
+            <l n="281" xml:id="l281">Tu vois jusqu’où va ma faiblesse,</l>
+            <l n="282" xml:id="l282">Devant toi je répands des pleurs ;</l>
+            <l n="283" xml:id="l283">Ingrat, partage ma tendresse,</l>
+            <l n="284" xml:id="l284">Et prends pitié de mes douleurs.</l>
+          </sp>
+          <sp xml:id="II03-12" who="JASON">
+            <l n="285" xml:id="l285">Ah ! Toi-mème, plutôt, suis un époux fidèle ;</l>
+            <l n="286" xml:id="l286">Ne vois plus que là Grèce où mon amour t’appelle.</l>
+            <l n="287" xml:id="l287">Pour ces climats, favorises des cieux,</l>
+            <l n="288" xml:id="l288">Quitte ce sauvage empire,</l>
+            <l n="289" xml:id="l289">Où la nature, à tes yeux,.</l>
+            <l n="290" xml:id="l290">Jamais n’a daigné sourire.</l>
+            <l n="291" xml:id="l291">Ici tout peint encor, de l’antique chaos,</l>
+            <l n="292" xml:id="l292">Le silence immobile, et l’éternel repos.</l>
+            <l n="293" xml:id="l293">Est-ce là le séjour d’une reine charmante,</l>
+            <l n="294" xml:id="l294">Dont les arts, les plaisirs la volupté touchante,</l>
+            <l n="295" xml:id="l295">Doivent accompagner les pas ?</l>
+            <l n="296" xml:id="l296">Ici la Cour la plus brillante,</l>
+            <l n="297" xml:id="l297">Est un exil pour tes appas.</l>
+            <l n="298" xml:id="l298">Ah ! Sous un ciel plus doux, que l’amour te conduise ;</l>
+            <l n="299" xml:id="l299">Les fleurs vont devant toi parfumer les chemins.</l>
+            <l n="300" xml:id="l300">Viens, dans nos tempies admise ;</l>
+            <l n="301" xml:id="l301">Près de Vénus même assise, </l>
+            <l n="302" xml:id="l302">Viens t’enivrer en paix, de l’encens des humains.</l>
+            <l n="303" xml:id="l303">Non non, il n’est plus rien ici qui te retienne ;</l>
+            <l n="304" xml:id="l304">L’amour a brisé tes liens :</l>
+            <l n="305" xml:id="l305">L’un pour l’autre formés, ma patrie est la tienne,</l>
+            <l n="306" xml:id="l306">Et mes triomphes sont les tiens.</l>
+          </sp>
+          <sp xml:id="II03-13" who="MEDEE">
+            <l n="307" xml:id="l307">Allez, Jason, allez votre amour qui m’outrage,</l>
+            <l n="308" xml:id="l308">Quand vous me connaitrez changera de langage.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="II04" type="scene" n="4">
+          <head>SCÈNE IV.<listPerson type="configuration" xml:id="conf9"/></head>
+          <sp xml:id="II04-1" who="MEDEE">
+            <l n="309" xml:id="l309">Malheureuse, que résous-tu ?</l>
+            <l n="310" xml:id="l310">Entre le crime et la vertu,</l>
+            <l n="311" xml:id="l311">Vas-tu traîner l’opprobre de ta chaîne ?</l>
+            <l n="312" xml:id="l312">Victime de l’amour, victime du devoir,</l>
+            <l n="313" xml:id="l313">Sécher dans les remords, ou languir dans la peine ;</l>
+            <l n="314" xml:id="l314">C’est je sort le plus doux qui te reste à prévoir :</l>
+            <l n="315" xml:id="l315">Ah ! plutôt... Non, l’amour me défend d epoursuivre ;</l>
+            <l n="316" xml:id="l316">Je cesserais d’aimer Jason !</l>
+            <l n="317" xml:id="l317">Non cette seule idée a troublé ma raison ;</l>
+            <l n="318" xml:id="l318">En prononçant ces mots, j’ai cru cesser de vivre.</l>
+            <l n="319" xml:id="l319">Sans lui, quel serait mon sort,</l>
+            <l n="320" xml:id="l320">Mes désirs, mon espérance ?</l>
+            <l n="321" xml:id="l321">Mes jours filés avec indifférence,</l>
+            <l n="322" xml:id="l322">Ressembleraient au sommeil de la mort.</l>
+            <l n="323" xml:id="l323">Cependant, de mon père il trame la ruine...</l>
+            <l n="324" xml:id="l324">De la nécessité, l’empire le domine ;</l>
+            <l n="325" xml:id="l325">C’est à moi de le plaindre, et non de le haïr...</l>
+            <l n="326" xml:id="l326">Mais s’il combat enfin, s’il s’obstine à périr.</l>
+            <l n="327" xml:id="l327">Image horrible et sanglante !</l>
+            <l n="328" xml:id="l328">Eh quoi ! de tous le côtés,</l>
+            <l n="329" xml:id="l329">À mes yeux épouvantés,</l>
+            <l n="330" xml:id="l330">L’affreuse mort se présente !</l>
+            <l n="331" xml:id="l331">Ah ! Qu’elle tranche mes jours ;</l>
+            <l n="332" xml:id="l332">Plus heureuse et plus contente,</l>
+            <l n="333" xml:id="l333">Je bénirai son secours.</l>
+          </sp>
+        </div2>
+      </div1>
+      <div1 xml:id="III" type="act" n="3">
+        <head>ACTE III</head>
+        <div2 xml:id="III01" type="scene" n="1">
+          <head>SCÈNE PREMIÈRE.<listPerson type="configuration" xml:id="conf11"/></head>
+          <sp xml:id="III01-1" who="JASON">
+            <l n="334" xml:id="l334">Médée, en ce eéduit m’ordonne de me rendre</l>
+            <l n="335" xml:id="l335">Quel est doncT.pour me voir, le lieu qu’elle a choisi l</l>
+            <l n="336" xml:id="l336">Et que dois-je enfin attendre</l>
+            <l n="337" xml:id="l337">Du magique appareil qui se présente ici ?</l>
+            <l n="338" xml:id="l338">Amour ! Ô mon Dieu tutélaire</l>
+            <l n="339" xml:id="l339">Préside à ce doux entretien ;</l>
+            <l n="340" xml:id="l340">Allume au coeur d’une amante si fière,</l>
+            <l n="341" xml:id="l341">Toute l’ardeur qui consume le mien.</l>
+            <l n="342" xml:id="l342">Mais peut-elle approuver le dessein qui m’engage ?</l>
+            <l n="343" xml:id="l343">Je viens briser le trône où régnaient ses aïeux.</l>
+            <l n="344" xml:id="l344">L’éclat d’un tel exploit en déguise l’outrage.</l>
+            <l n="345" xml:id="l345">Courrons nous à ses yeux</l>
+            <l n="346" xml:id="l346">De palmes immortelles ;</l>
+            <l n="347" xml:id="l347">Étonnons son coeur orgueilleux.</l>
+            <l n="348" xml:id="l348">Enchaînons ses penchants rebelles ;</l>
+            <l n="349" xml:id="l349">Que Médée en donnant sa foi,</l>
+            <l n="350" xml:id="l350">Fière de régner sur mon âme,</l>
+            <l n="351" xml:id="l351">S’enorgueillisse de sa flamme,</l>
+            <l n="352" xml:id="l352">Et trouve de la gloire à soupirer pour moi.</l>
+            <l n="353" xml:id="l353">C’est elle ; je la vois paraître.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="III02" type="scene" n="2">
+          <head>SCÈNE II. Médée, Jason.<listPerson type="configuration" xml:id="conf12"/></head>
+          <sp xml:id="III02-1" who="MEDEE">
+            <l n="354" xml:id="l354">Dans ce réduit secret je t’ai fait appeler ;</l>
+            <l n="355" xml:id="l355">Pour la dernière fois j’ai voulu te parler,</l>
+            <l n="356" xml:id="l356">Éprouver ton coeur, le connaître,</l>
+            <l n="357" xml:id="l357">Et sur tes sentiments, moi-même me régler.</l>
+          </sp>
+          <sp xml:id="III02-2" who="JASON">
+            <l n="358" xml:id="l358" part="I">Tu doutes de ma foi ?</l>
+          </sp>
+          <sp xml:id="III02-3" who="MEDEE">
+            <l part="F">Je 1e croirai sincère,</l>
+            <l n="359" xml:id="l359">Si d’un projet téméraire,</l>
+            <l n="360" xml:id="l360">Qui nuit à notre bonheur,</l>
+            <l n="361" xml:id="l361">Tu veux bannir de ton coeur</l>
+            <l n="362" xml:id="l362">L’ambitieuse chimère.</l>
+            <l n="363" xml:id="l363">Satisfais ce juste désir ;</l>
+            <l n="364" xml:id="l364">Au lieu d’un vain trésor, je deviens ta conquête ;</l>
+            <l n="365" xml:id="l365">Dis un mot seulement, l’hymen va nous unir :</l>
+            <l n="366" xml:id="l366">Cet autel est paré, la flamme est toute prête.</l>
+          </sp>
+          <sp xml:id="III02-4" who="JASON">
+            <l n="367" xml:id="l367">Ô comble inattendu d’une injuste rigueur !</l>
+            <l n="368" xml:id="l368">Eh quoi ! Tu me chéris, et veux mon déshonneur !</l>
+          </sp>
+          <sp xml:id="III02-5" who="MEDEE">
+            <l n="369" xml:id="l369" part="I">Il suffit ; je t’entends. Sors.</l>
+          </sp>
+          <sp xml:id="III02-6" who="JASON">
+            <l part="F">Que prétends tu faire ?</l>
+          </sp>
+          <sp xml:id="III02-7" who="MEDEE">
+            <l n="370" xml:id="l370">Sur cet autel qui t’engageait ma foi,</l>
+            <l n="371" xml:id="l371">Où l’amour t’appellait pour un plus doux mystère,</l>
+            <l n="372" xml:id="l372">Je vais par un secours affreux, mais nécessaire,</l>
+            <l n="373" xml:id="l373">Éteindre tout l’amour dont je brûle pour toi.</l>
+          </sp>
+          <sp xml:id="III02-8" who="JASON">
+            <l n="374" xml:id="l374" part="I">Quoi ! Tu veux me haïr ?</l>
+          </sp>
+          <sp xml:id="III02-9" who="MEDEE">
+            <l part="F">Tu m’y contrains, barbare.</l>
+            <l n="375" xml:id="l375">Que me sert de t’aimer, quand ta mort se prépare ?</l>
+          </sp>
+          <sp xml:id="III02-10" who="JASON">
+            <l n="376" xml:id="l376">Eh ! Quand il serait vrai que je dusse périr ;</l>
+            <l n="377" xml:id="l377">Me laisserais tu mourir,</l>
+            <l n="378" xml:id="l378">Chargé de tes dédains, de ton indifférence ?</l>
+            <l n="379" xml:id="l379">Ah ! Si ta tendre prévoyance</l>
+            <l n="380" xml:id="l380">Cherche à me conserver le jour,</l>
+            <l n="381" xml:id="l381">Du moins ne trahis pas les soins de ta prudence ;</l>
+            <l n="382" xml:id="l382">N’abrège pas ma vie en m’ôtant ton amour.</l>
+            <l n="383" xml:id="l383">J’espérais que Médée et sensible et fidèle,</l>
+            <l n="384" xml:id="l384">Quand la mort m’eût separé d’elle,</l>
+            <l n="385" xml:id="l385">Garderait de nos feux, un long ressouvenir ;</l>
+            <l n="386" xml:id="l386">Ingrate, l’amant qui t’adore,</l>
+            <l n="387" xml:id="l387">Il respire ; il te parle encore,</l>
+            <l n="388" xml:id="l388">Et déjà de ton coeur tu prétends le bannir.</l>
+          </sp>
+          <sp xml:id="III02-11" who="MEDEE">
+            <l n="389" xml:id="l389">Où suis-je ? Hélas ! Quel trouble est venu me saisir ?</l>
+          </sp>
+          <sp xml:id="III02-12" who="JASON">
+            <l n="390" xml:id="l390">Ingrate l’amant qui t’adore,</l>
+            <l n="391" xml:id="l391">Il respire, il te parle encore,</l>
+            <l n="392" xml:id="l392">Et déjà de ton coeur tu prétends le bannir.</l>
+          </sp>
+          <sp xml:id="III02-13" who="MEDEE">
+            <l n="393" xml:id="l393">Je n’ai pu l’écouter sans répandre des larmes.</l>
+            <l n="394" xml:id="l394">Par quel enchantement</l>
+            <l n="395" xml:id="l395">Oubliai-je en un moment,</l>
+            <l n="396" xml:id="l396">Ma résolution, mes projets, mes alarmes ?</l>
+            <l n="397" xml:id="l397">Je ne vois que l’amour, je ne sens que ses charmes :</l>
+            <l n="398" xml:id="l398">Malheureuse Médée, où vas-tu t’engager ?</l>
+            <l n="399" xml:id="l399">Ah tu cours à ta perte, et chéris ton danger.</l>
+          </sp>
+          <sp xml:id="III02-14" who="JASON">
+            <l n="400" xml:id="l400">Vers le céleste empirée,</l>
+            <l n="401" xml:id="l401">Médée, éleve les yeux ;</l>
+            <l n="402" xml:id="l402">Vois le conseil des Dieux,</l>
+            <l n="403" xml:id="l403">Vois leur troupe sacrée</l>
+            <l n="404" xml:id="l404">Applaudir à nos feux.</l>
+            <l n="405" xml:id="l405">L’Amour sur tous ces Dieux préside ;</l>
+            <l n="406" xml:id="l406">Il est ton maître, il fut mon guide ;</l>
+            <l n="407" xml:id="l407">Il t’appelle j’entends sa voix :</l>
+            <l n="408" xml:id="l408">Viens à l’autel amante moins timide,</l>
+            <l n="409" xml:id="l409">Viens de l’hymen subir les douces lois.</l>
+          </sp>
+          <sp xml:id="III02-15" who="MEDEE">
+            <l n="410" xml:id="l410">Sitôt qu’il a parlé tout mon courage expire ;</l>
+            <l n="411" xml:id="l411">De la fatalité l’irrésistible empire</l>
+            <l n="412" xml:id="l412">L’enchaîne et le tient abattu...</l>
+            <l n="413" xml:id="l413">Montrons dans ce péril encor quelque vertu.</l>
+            <l n="414" xml:id="l414" part="I">Hécate !</l>
+          </sp>
+          <sp xml:id="III02-16" who="JASON">
+            <l part="M">Arrête.</l>
+          </sp>
+          <sp xml:id="III02-17" who="MEDEE">
+            <l part="M">Hécate !</l>
+          </sp>
+          <sp xml:id="III02-18" who="JASON">
+            <l part="F">Arrête ; que fais-tu ?</l>
+          </sp>
+          <sp xml:id="III02-19" who="MEDEE">
+            <l n="415" xml:id="l415">J’invite les enfers à prendre ma défense.</l>
+          </sp>
+          <sp xml:id="III02-20" who="JASON">
+            <l n="416" xml:id="l416">Ah ! Tu n’as pas besoin de ce triste secours ;</l>
+            <l n="417" xml:id="l417">Mon amour envers toi fut ma plus grande offense :</l>
+            <l n="418" xml:id="l418">Je vais la réparer en terminant mes jours.</l>
+          </sp>
+          <sp xml:id="III02-21" who="MEDEE">
+            <l n="419" xml:id="l419">C’est donc trop peu des maux qui remplissent ma vie,</l>
+            <l n="420" xml:id="l420">Tu veux de ton trépas me rendre le témoin !</l>
+          </sp>
+          <sp xml:id="III02-22" who="JASON">
+            <l n="421" xml:id="l421">Tu cherches à briser la chaîne qui nous lie ;</l>
+            <l n="422" xml:id="l422">Je veux te délivrer de ce funeste soin.</l>
+          </sp>
+          <sp xml:id="III02-23" who="MEDEE">
+            <l n="423" xml:id="l423">Aux tourments affreux que j’éprouve,</l>
+            <l n="424" xml:id="l424">Ton inflexible orgueil ne sait point campâtir.</l>
+          </sp>
+          <sp xml:id="III02-24" who="JASON">
+            <l n="425" xml:id="l425">À des noeuds que le ciel approuve,</l>
+            <l n="426" xml:id="l426">Ton injuste rigueur ne veut pas consentir.</l>
+            <l n="427" xml:id="l427" part="I">Ô Medée !</l>
+          </sp>
+          <sp xml:id="III02-25" who="MEDEE">
+            <l part="M">Ô Jason!</l>
+          </sp>
+          <sp xml:id="III02-26" who="MEDEE,JASON">
+            <l part="F">Dans ce malheur funeste,</l>
+            <l n="428" xml:id="l428">Quel autre espoir me reste,</l>
+            <l n="429" xml:id="l429">Que de te perdre et de mourir ?</l>
+          </sp>
+          <sp xml:id="III02-27" who="MEDEE,JASON">
+            <l n="430" xml:id="l430">Quelle vive clarté commence à se répandre ?</l>
+            <l n="431" xml:id="l431">Quels magiques concerts, ici se font entendre ?</l>
+          </sp>
+          <sp xml:id="III02-28" who="CHOEUR">
+            <l n="432" xml:id="l432">L’Amour est présent en ces lieux,</l>
+            <l n="433" xml:id="l433">Et tout y ressent sa puissance ;</l>
+            <l n="434" xml:id="l434">Cette clarté des cieux,</l>
+            <l n="435" xml:id="l435">Ces chants harmonieux ;</l>
+            <l n="436" xml:id="l436">Tout vous annonce sa présence.</l>
+          </sp>
+          <sp xml:id="III02-29" who="MEDEE">
+            <l n="437" xml:id="l437">Le trouble de mon coeur me l’annonce encor mieux.</l>
+            <l n="438" xml:id="l438">Cédons, il faut enfin que mon sort s’accomplisse :</l>
+            <l n="439" xml:id="l439">Si c’est un crime, hélas ! Le ciel en est complice.</l>
+          </sp>
+          <sp xml:id="III02-30" who="JASON">
+            <l n="440" xml:id="l440">Divinité des amants,</l>
+            <l n="441" xml:id="l441">Reçois nos tendres serments.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="III03" type="scene" n="3">
+          <head>SCÈNE III. Les mêmes, l’Amour.<listPerson type="configuration" xml:id="conf13"/></head>
+          <sp xml:id="III03-1" who="LAMOUR">
+            <l n="442" xml:id="l442">Oui, l’Amour les reçoit ; que le ciel les entende,</l>
+            <l n="443" xml:id="l443">Que des rapides vents le soufle les répande</l>
+            <l n="444" xml:id="l444">Jusques au bout de l’univers ;</l>
+            <l n="445" xml:id="l445">À la célébrité d’une action si grande,</l>
+            <l n="446" xml:id="l446">J’intéresse le ciel, et la terre, et les mers.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="III04" type="scene" n="4">
+          <head>SCÈNE IV. Jason, Médée, Idamas.<listPerson type="configuration" xml:id="conf14"/></head>
+          <sp xml:id="III04-1" who="IDAMAS">
+            <l n="447" xml:id="l447">Apprends le sort qui te menace</l>
+            <l n="448" xml:id="l448">Pollux et le fier Telamon,</l>
+            <l n="449" xml:id="l449">De ta gloire jaloux, vont ravir la Toison.</l>
+          </sp>
+          <sp xml:id="III04-2" who="JASON">
+            <l n="450" xml:id="l450">Je cours prévenir leur audace.</l>
+          </sp>
+          <sp xml:id="III04-3" who="MEDEE">
+            <l n="451" xml:id="l451">Arrête ambitieux Jason.</l>
+            <l n="452" xml:id="l452">De ses pas suivons la trace ;</l>
+            <l n="453" xml:id="l453">Et s’il faut qu’à mes pleurs il résiste aujourd’hui,</l>
+            <l n="454" xml:id="l454">Imitons son courage, et mourons avant lui.</l>
+          </sp>
+        </div2>
+      </div1>
+      <div1 xml:id="IV" type="act" n="4">
+        <head>ACTE IV</head>
+        <div2 xml:id="IV01" type="scene" n="1">
+          <head>SCÈNE PREMIÈRE.	Médée, Jason.<listPerson type="configuration" xml:id="conf16"/></head>
+          <sp xml:id="IV01-1" who="MEDEE">
+            <l n="455" xml:id="l455" part="I">Où cours-tu malheureux ?</l>
+          </sp>
+          <sp xml:id="IV01-2" who="JASON">
+            <l part="F">Où la gloire m’appelle.</l>
+          </sp>
+          <sp xml:id="IV01-3" who="MEDEE">
+            <l n="456" xml:id="l456" part="I">Dis, où la mort t’attend.</l>
+          </sp>
+          <sp xml:id="IV01-4" who="JASON">
+            <l part="F">La mort me semble belle ;</l>
+            <l n="457" xml:id="l457">L’honneur, le devoir m’y conduit.</l>
+          </sp>
+          <sp xml:id="IV01-5" who="MEDEE">
+            <l n="458" xml:id="l458">Barbare ! Voilà donc le triste et premier fruit</l>
+            <l n="459" xml:id="l459">Des serments que j’ai faits, du beau noeud qui nous lie !</l>
+            <l n="460" xml:id="l460">L’instant qui nous unit, va donc nous séparer !</l>
+            <l n="461" xml:id="l461">Ingrat ! Tu n’as voulu me consacrer ta vie,</l>
+            <l n="462" xml:id="l462">Que pour me la faire pleurer.</l>
+            <l n="463" xml:id="l463">Mais quel bruit, tout-à-coup, vient de se faire entendre ?</l>
+          </sp>
+          <sp xml:id="IV01-6" who="JASON">
+            <l n="464" xml:id="l464">À ce signal, Médée, il faut me rendre.</l>
+          </sp>
+          <sp xml:id="IV01-7" who="MEDEE">
+            <l n="465" xml:id="l465">Tu n’iras point ; non, les Dieux ennemis</l>
+            <l n="466" xml:id="l466">Ne t’ont pas pour Médée, inspiré tant de haine ;</l>
+            <l n="467" xml:id="l467">Leur rigueur inhumaine</l>
+            <l n="468" xml:id="l468">Ne t’a pas commandé des forfaits inouis.</l>
+            <l n="469" xml:id="l469">Les périls où tu cours, mon art les a produits :</l>
+            <l n="470" xml:id="l470">Si tu suis les projets où ta fureur te guide,</l>
+            <l n="471" xml:id="l471">Tu me rends, de tes jours, la barbare homicide.</l>
+            <l n="472" xml:id="l472">Condamne un juste effroi,</l>
+            <l n="473" xml:id="l473">Ose me reprocher des alarmes trop vives.</l>
+          </sp>
+          <sp xml:id="IV01-8" who="JASON">
+            <l n="474" xml:id="l474" part="I">Que me demandes-tu, cruelle ?</l>
+          </sp>
+          <sp xml:id="IV01-9" who="MEDEE">
+            <l part="F">Que tu vives.</l>
+          </sp>
+          <sp xml:id="IV01-10" who="JASON">
+            <l n="475" xml:id="l475">Indigne de la Grèce, et du jour, et de toi ?</l>
+            <l n="476" xml:id="l476">Dieux ! Soutenez ma force qui chancelle.</l>
+            <l n="477" xml:id="l477">Ce bruit a ranimé mon courage expirant.</l>
+            <l n="478" xml:id="l478">L’as-tu bien entendu, ce signal éclatant ?</l>
+            <l n="479" xml:id="l479">C’est la victoire qui m’appelle ;</l>
+            <l n="480" xml:id="l480">Médée, en l’écoutant,</l>
+            <l n="481" xml:id="l481">Prends une âme nouvelle</l>
+            <l n="482" xml:id="l482">D’un destin plus noble et plus grand,</l>
+            <l n="483" xml:id="l483">Conçois l’espérance immortelle.</l>
+          </sp>
+          <sp xml:id="IV01-11" who="MEDEE">
+            <l n="484" xml:id="l484">Je tombe à tes genoux, et les baigne de pleurs.</l>
+          </sp>
+          <sp xml:id="IV01-12" who="JASON">
+            <l n="485" xml:id="l485">Non, je n’en croirai point tes honteuses douleurs ;</l>
+            <l n="486" xml:id="l486">Je saurai te servir en dépit de toi-même,</l>
+            <l n="487" xml:id="l487">En illustrant mon nom, illustrer ta beauté,</l>
+            <l n="488" xml:id="l488">Et me montrer aux yeux de l’épouse que j’aime,</l>
+            <l n="489" xml:id="l489">Tout rayonnant des feux de l’immortalité.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="IV02" type="scene" n="2">
+          <head>SCÈNE II.<listPerson type="configuration" xml:id="conf17"/></head>
+          <sp xml:id="IV02-1" who="MEDEE">
+            <l n="490" xml:id="l490">Jason !... Que sert, hélas ! Que ma voix gémissante</l>
+            <l n="491" xml:id="l491">Le suive au fond de ces déserts ?</l>
+            <l n="492" xml:id="l492">Il n’entend point mes cris, sourd aux voeux d’une amante.</l>
+            <l n="493" xml:id="l493">Mais déjà les taureaux, de leur bouche fumante,</l>
+            <l n="494" xml:id="l494">Ont vomi le feu des enfers ;</l>
+            <l n="495" xml:id="l495">L’intrépide Jason devant eux se présente ;</l>
+            <l n="496" xml:id="l496">Il va périr.... Arrêtez-vous,</l>
+            <l n="497" xml:id="l497">Monstres qu’à créés ma puissance,</l>
+            <l n="498" xml:id="l498">Respectez mon amant, respectez mon époux ;</l>
+            <l n="499" xml:id="l499">Devant son bras vainqueur, demeurez sans défense...</l>
+            <l n="500" xml:id="l500">Livrez-lui le trésor dont il fut trop jaloux ;</l>
+            <l n="501" xml:id="l501">Et vous que j’ai commis à la garde fidèle</l>
+            <l n="502" xml:id="l502">D’une dépouille, et si riche, et si belle,</l>
+            <l n="503" xml:id="l503">Hécate, Némésis, Cerbère, Phlégéton</l>
+            <l n="504" xml:id="l504">Vous me répondez tous du salut de Jason.</l>
+            <l n="505" xml:id="l505">Qu’ai-je dit ? Qu’ai-je fait et que devient mon père ?</l>
+            <l n="506" xml:id="l506">Mon père !... Je le vois, c’en est fait, je me meurs.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="IV03" type="scene" n="3">
+          <head>SCÈNE III. Aetès, Médée.<listPerson type="configuration" xml:id="conf18"/></head>
+          <sp xml:id="IV03-1" who="AETES">
+            <l n="507" xml:id="l507">Ma fille, tu prévois le plus grand des malheurs ;</l>
+            <l n="508" xml:id="l508">Ton amant va périr : dans ta douleur amère,</l>
+            <l n="509" xml:id="l509">Il reste au moins, à ton coeur abattu,</l>
+            <l n="510" xml:id="l510">Deux recours consolant, ton père, et ta vertu.</l>
+          </sp>
+          <sp xml:id="IV03-2" who="MEDEE">
+            <l n="511" xml:id="l511">Terre ! Ô terre ! Ouvre-moi ton plus profond abîme ;</l>
+            <l n="512" xml:id="l512">Dieux ! Mon père applaudit aux vertus de mon coeur.</l>
+          </sp>
+          <sp xml:id="IV03-3" who="AETES">
+            <l n="513" xml:id="l513" part="I">Viens...</l>
+          </sp>
+          <sp xml:id="IV03-4" who="MEDEE">
+            <l part="F">Sa voix est pour moi celle d’un Dieu vengeur ;</l>
+            <l n="514" xml:id="l514">Et son amour trompé me punit de mon crime.</l>
+          </sp>
+          <sp xml:id="IV03-5" who="AETES">
+            <l n="515" xml:id="l515" part="I">Calme tes sens troublés.</l>
+          </sp>
+          <sp xml:id="IV03-6" who="MEDEE">
+            <l part="F">Fuyons de cette Cour ;</l>
+            <l n="516" xml:id="l516">Quittons cet horrible séjour : </l>
+            <l n="517" xml:id="l517">Aux yeux de vos sujets gardez vous de paraître ;</l>
+            <l n="518" xml:id="l518">Ils frémiraient de voir la honte de leur maître.</l>
+          </sp>
+          <sp xml:id="IV03-7" who="AETES">
+            <l n="519" xml:id="l519">Qu’entends-je ? Quel discours !... Mais le ciel s’obscurcit,</l>
+            <l n="520" xml:id="l520">La terre sous mes pas, et s’ébranle, et mugit.</l>
+          </sp>
+          <sp xml:id="IV03-8" who="MEDEE">
+            <l n="521" xml:id="l521">Craignez-vous d’expliquer ce terrible présage ?</l>
+            <l n="522" xml:id="l522">Mon silence, mes cris, ma douleur, et ma rage,</l>
+            <l n="523" xml:id="l523">Et le ciel, et l’enfer tout parle, tout vous dit</l>
+            <l n="524" xml:id="l524">Que votre fille vous trahit :</l>
+            <l n="525" xml:id="l525">Du salut de l’empire, elle a Iivré le gage.</l>
+          </sp>
+          <sp xml:id="IV03-9" who="AETES">
+            <l n="526" xml:id="l526" part="I">Toi ! Ma fille.</l>
+          </sp>
+          <sp xml:id="IV03-10" who="MEDEE">
+            <l part="F">Fuyons, les moments nous sont chers ;</l>
+            <l n="527" xml:id="l527">Cherchons les plus lointains déserts.</l>
+          </sp>
+          <sp xml:id="IV03-11" who="AETES">
+            <l n="528" xml:id="l528">Où veux-tu m’entraîner, effroyable furie ?</l>
+          </sp>
+          <sp xml:id="IV03-12" who="MEDEE">
+            <l n="529" xml:id="l529">Oui, mon crime est affreux ; mais mon remord l’expie.</l>
+          </sp>
+          <sp xml:id="IV03-13" who="AETES">
+            <l n="530" xml:id="l530">Contemple tous les maux qu’a causés ta fureur :</l>
+            <l n="531" xml:id="l531">Ces marbres sont brisés, ces tombes se renversent ;</l>
+            <l n="532" xml:id="l532">Des Princes, tes aïeux, les cendres se dispersent ;</l>
+            <l n="533" xml:id="l533">La nature en désordre, accuse tes forfaits :</l>
+            <l n="534" xml:id="l534">Tu veux ma mort, je la désire ;</l>
+            <l n="535" xml:id="l535">J’ensevelis ma honte et mes regrets, </l>
+            <l n="536" xml:id="l536">Sous les débris de mon empire.</l>
+          </sp>
+          <sp xml:id="IV03-14" who="MEDEE">
+            <l n="537" xml:id="l537" part="I">Ciel !</l>
+          </sp>
+        </div2>
+        <div2 xml:id="IV04" type="scene" n="4">
+          <head>SCÈNE IV. Médée, Choeur des Argonautes.<listPerson type="configuration" xml:id="conf19"/></head>
+          <sp xml:id="IV04-1" who="CHOEUR">
+            <l part="F">Jason, des enfers, est demeuré vainqueur.</l>
+          </sp>
+          <sp xml:id="IV04-2" who="MEDEE">
+            <l n="538" xml:id="l538" part="I">Mon père !</l>
+          </sp>
+          <sp xml:id="IV04-3" who="CHOEUR">
+            <l part="F">Célébrons ce héros magnanime.</l>
+          </sp>
+          <sp xml:id="IV04-4" who="MEDEE">
+            <l n="539" xml:id="l539">Ces chants révoltent ma douleur.</l>
+            <l n="540" xml:id="l540">Hélas ! Leur triomphe est mon crime.</l>
+          </sp>
+          <sp xml:id="IV04-5" who="CHOEUR">
+            <l n="541" xml:id="l541">Jason, tranquille et désarmé,</l>
+            <l n="542" xml:id="l542">Vers un objet aimé,</l>
+            <l n="543" xml:id="l543">Que l’Amour te serve de guide.</l>
+          </sp>
+          <sp xml:id="IV04-6" who="MEDEE">
+            <l n="544" xml:id="l544">Je te suis, mon père, et descends</l>
+            <l n="545" xml:id="l545">Par les chemins sanglants,</l>
+            <l n="546" xml:id="l546">Que t’ouvrit mon bras parricide.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="IV05" type="scene" n="5">
+          <head>SCÈNE V. Les mêmes, Jason.<listPerson type="configuration" xml:id="conf20"/></head>
+          <sp xml:id="IV05-1" who="JASON">
+            <l n="547" xml:id="l547">Que fais-tu ? Jusques-là pourrais-tu me haïr ?</l>
+          </sp>
+          <sp xml:id="IV05-2" who="MEDEE">
+            <l n="548" xml:id="l548">D’un forfait odieux, laisse-moi me punir.</l>
+          </sp>
+        </div2>
+        <div2 xml:id="IV06" type="scene" n="6">
+          <head>SCÈNE VI. LES MÊMES, VÉNUS dans les airs.<listPerson type="configuration" xml:id="conf21"/></head>
+          <sp xml:id="IV06-1" who="VENUS">
+            <l n="549" xml:id="l549">Jason, à ton bonheur ma puissance préside ;</l>
+            <l n="550" xml:id="l550">Que ton vaisseau s’apprête à voguer sur les flots ;</l>
+            <l n="551" xml:id="l551">Bientôt j’y conduirai ton amante chérie :</l>
+            <l n="552" xml:id="l552">Qu’elle fuie avec toi, compagne d’un héros</l>
+            <l n="553" xml:id="l553">Qui doit lui tenir lieu de père et de patrie.</l>
+            <l n="554" xml:id="l554">Puisse-t-elle, pour ton repos,</l>
+            <l n="555" xml:id="l555">Être aussi chère à ta tendresse,</l>
+            <l n="556" xml:id="l556">Dans les champs fortunés de la riante Grèce,</l>
+            <l n="557" xml:id="l557">Qu’au milieu des rochers de l’aride Colchos.</l>
+          </sp>
+          <sp xml:id="IV06-2" who="JASON">
+            <l n="558" xml:id="l558">J’obéis à ta voix, et vole au sein de l’onde.</l>
+          </sp>
+          <sp xml:id="IV06-3" who="CHOEUR">
+            <l n="559" xml:id="l559">Volons au sein de l’onde,</l>
+            <l n="560" xml:id="l560">Et remplissons le monde</l>
+            <l n="561" xml:id="l561">Du bruit de nos exploits ;</l>
+            <l n="562" xml:id="l562">Que l’univers apprenne,</l>
+            <l n="563" xml:id="l563">Qu’aux ordres de l’Amour, à sa voix souveraine,</l>
+            <l n="564" xml:id="l564">Le Phase a vu tomber le trône de ses Rois.</l>
+          </sp>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI>

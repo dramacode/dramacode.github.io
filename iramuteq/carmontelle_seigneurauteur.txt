@@ -1,0 +1,506 @@
+
+
+**** *book_ *id_I01 *act_I *date_(inc
+
+-*who_leduc
+Quoi, je ne pourrai pas faire un vers, un vers seulement !
+Ah voyons.
+Non, il est trop long.
+Oui, mais de cette façon ?
+Il est trop court.
+
+-*who_dupre
+Mais, Monseigneur, pourquoi faire ces vers vous-même, puisque vous avez tant de peine ?
+
+-*who_leduc
+Tant de peine ?
+Qu'est ce que c'est que cette façon de parler ?
+Ai-je jamais eu de la peine à faire des vers.
+
+-*who_dupre
+Je sais bien que non, tant que vous avez eu ce secrétaire un peu fou, que vous aimiez tant.
+
+-*who_leduc
+Allons, taisez-vous ; vous me faites perdre mes idées.
+
+-*who_dupre
+J'en suis bien éloigné et si j'en trouvais, je les donnerais tout à l'heure à Monseigneur.
+
+-*who_leduc
+Des idées, vous ?
+Attendez, ne faites pas de bruit.
+Ah, oui-da, c'est lyrique tout à fait ; écrivons.
+Fort bien.
+Mais où est la rime ?
+Cela me fait perdre trop de temps.
+C'est incroyable qu'aujourd'hui je ne puisse pas.
+
+-*who_dupre
+En vérité, Monseigneur, si vous vouliez m'entendre, vous auriez bientôt fait.
+
+-*who_leduc
+Hé bien, Monsieur le Docteur, parlez.
+
+-*who_dupre
+Je prendrais mon parti, moi, je ferais faire ces vers tout simplement par les gens du métier.
+
+-*who_leduc
+Oui, si je n'en savais pas faire, imbécile.
+
+-*who_dupre
+Ah, je demande pardon à Monsieur, je croyais.
+
+-*who_leduc
+Allons, laissez-moi.
+Voyons encore.
+
+-*who_dupre
+Monsieur Ronflant et Monsieur Décousu demandent à voir Monseigneur.
+
+-*who_leduc
+Que me veulent-ils ?
+Je suis en affaire.
+
+-*who_dupre
+Je le leur ai dit ; cependant, je crois que vous feriez bien.
+
+-*who_leduc
+Allons, faites-les entrer.
+
+**** *book_ *id_I02 *act_I *date_(inc
+
+-*who_leduc
+Ah, Messieurs, je suis charmé de vous voir ; mais ce ne sera pas pour longtemPs; parce que je suis un peu occupé.
+
+-*who_monsieurronflant
+Monsieur le Duc cultive toujours les Muses sans doute.
+
+-*who_monsieurdecousu
+Et il a raison ; elles le favorisent assez pour qu'il ne les délaisse pas.
+
+-*who_leduc
+Il est vrai que quelquefois elles ne m'ont pas mal traité.
+
+-*who_monsieurronflant
+Oh, toujours, toujours.
+
+-*who_leduc
+Parfois elles ont des caprices, comme vous savez.
+
+-*who_monsieurdecousu
+Vous ne les connaissez guère, je crois ?
+
+-*who_leduc
+Comme un autre.
+
+-*who_monsieurronflant
+Monsieur le Duc, j'ai l'honneur de vous apporter le cinquième Acte de ma nouvelle Tragédie, si vous aviez un quart d'heure seulement à me donner.
+
+-*who_monsieurdecousu
+Moi, je ne veux faire voir ?
+Monsieur le Duc, que mon Ariette de la chaise de poste qui va se briser et qui sonne la ferraille, ce sera encore plus court.
+
+-*who_monsieurronflant
+Monsieur Décousu, un moment, s'il vous plaît, vous ne devez parler qu'après moi.
+
+-*who_monsieurdecousu
+Monsieur Ronflant, vous prenez-là un ton.
+
+-*who_leduc
+Messieurs vous vous disputerez une autrefois.
+
+-*who_monsieurronflant
+Mais, Monsieur le Duc, jugez un peu si un poète d'Opéra comique doit avoir le pas sur un poète tragique ; si quelqu'un doit protéger le ton des Héros, je crois que c'est vous.
+
+-*who_monsieurdecousu
+Oui, le vrai ton des héros ; mais celui qu'ils n'ont jamais eu et qu'ils n'auront jamais, cela est différent.
+
+-*who_monsieurronflant
+Qu'ils n'auront jamais ?
+
+-*who_monsieurdecousu
+Assurément ; au lieu que moi, je peins la nature, la vérité.
+
+-*who_monsieurronflant
+La nature et la vérité, il y a bien du mérite à toujours copier, où est donc le génie ?
+
+-*who_monsieurdecousu
+Molière manquent de mérite, osez-vous dire cela ?
+
+-*who_monsieurronflant
+Molière !
+Molière, n'a point fait de tragédies.
+
+-*who_leduc
+Eh, Messieurs, ne disputez pas, je n'ai pas le temps.
+
+-*who_monsieurronflant
+Monsieur le Duc, suivant votre conseil, j'ai cherché pour mon dénouement, et j'ai imaginé un tyran de plus.
+
+-*who_monsieurdecousu
+Moi, j'ai cru que ma chaise de poste était une nouveauté dont vous seriez content.
+
+-*who_leduc
+Je vous ai déjà dit que j'étais occupé très sérieusement.
+
+-*who_monsieurronflant
+Si Monsieur le Duc voulait nous faire part de ses productions.
+
+-*who_monsieurdecousu
+Nous serions bien sûrs d'avoir de quoi admirer.
+
+-*who_leduc
+Non, vous dis-je, j'ai passé toute ma matinée à rêver, à barbouiller du papier, sans pouvoir rien faire.
+
+-*who_monsieurronflant
+C'est qu'apparemment c'est un nouveau genre que Monsieur le Duc a choisi ?
+
+-*who_leduc
+Non, au contraire, c'est un couplet ; ainsi vous voyez bien.
+
+-*who_monsieurdecousu
+Personne n'en fait assurément aussi facilement, que Monsieur le Duc.
+
+-*who_leduc
+Ordinairement cela ne me coûte rien ; mais, aujourd'hui je ne sais ce que j'ai.
+
+-*who_monsieurronflant
+Est-ce un sujet rare ?
+
+-*who_leduc
+Non, c'est un bouquet.
+
+-*who_monsieurdecousu
+Un bouquet ?
+
+-*who_leduc
+Oui, un bouquet, pour une femme que j'aime, et vous sentez bien qu'il faut que cela soit neuf, qu'il faut de la pensée.
+Asseyez, vous asseyez-vous-là.
+
+-*who_monsieurronflant
+Mais la pensée Monsieur le Duc l'a trouvée.
+
+-*who_leduc
+Moi !
+
+-*who_monsieurdecousu
+Oui, un bouquet.
+
+-*who_leduc
+C'est vrai; c'est moi qui veux que ce soit un bouquet.
+Comme vous dites, voilà la pensée trouvée.
+Mais il faut la mettre en chant, et voilà le difficile.
+
+-*who_monsieurdecousu
+Avez-vous choisi un air ?
+
+-*who_leduc
+Bon, j'en ai cent.
+
+-*who_monsieurdecousu
+Il faut s'arrêter à un seul.
+
+-*who_leduc
+C'est vrai, aussi j'avais envie de prendre.
+
+-*who_monsieurronflant
+Monsieur Décousu vous en dira, Monsieur le Duc.
+
+-*who_monsieurdecousu
+Oui, prenez.
+C'est la fille à Simonette.
+
+-*who_leduc
+C'était justement celui-là que j'avais en vue.
+
+-*who_monsieurronflant
+Hé bien, votre couplet est fait.
+
+-*who_leduc
+Pas tout à fait.
+
+-*who_monsieurronflant
+Pardonnez-moi, tenez, écrivez.
+
+-*who_leduc
+C'est vrai, les choses viennent quelquefois comme cela sans peine.
+
+-*who_monsieurdecousu
+Sans peine, vous n'en avez sûrement pas.
+
+-*who_monsieurronflant
+Vous commencez par dire.
+Que de fleurs on va répandre.
+
+-*who_leduc
+Oh, pour ce vers là, je l'ai déjà écrit plus de vingt fois et je l'ai effacé de même.
+
+-*who_monsieurronflant
+Pourquoi l'effacer ?
+Il est bon ; il annonce la fête.
+
+-*who_leduc
+C'est vrai.
+Que de fleurs on va répandre.
+
+-*who_monsieurdecousu
+Dans un jour aussi charmant !
+
+-*who_leduc
+Voilà ce que j'ai fait.
+Que de fleurs on va répandre,
+Dans un jour aussi charmant !
+
+-*who_monsieurronflant
+Vous allez d'un train !
+Attendez ; voyons ce que vous allez dire.
+Laissons faire Monsieur le Duc, ne le troublons pas.
+
+-*who_leduc
+Je dirais par exemple.
+
+-*who_monsieurdecousu
+Que de chants se font entendre,
+
+-*who_monsieurronflant
+Pour exprimer ce qu'on sent !
+
+-*who_leduc
+Oui, oui.
+Que de chants.
+
+-*who_monsieurdecousu
+      Se font entendre,
+Un moment s'il vous plaît
+Pour...
+
+-*who_monsieurronflant
+      Exprimez ce qu'on sent !
+
+-*who_leduc
+Pour exprimer ce qu'on sent !
+Je ne trouve pas mal ces deux vers là, qu'en dites- vous ?
+Ne me flattez pas ; parlez-moi naturellement ?
+Que de fleurs se font entendre,
+
+-*who_monsieurdecousu
+Que de chants.
+
+-*who_leduc
+Oui, oui.
+      Que de chants se font entendre,
+Pour exprimer ce qu'on sent !
+Cela va bien.
+
+-*who_monsieurronflant
+À merveilles !
+
+-*who_leduc
+Voyons un peu le reste.
+Je voudrais parler de ses grâces.
+
+-*who_monsieurronflant
+Oui, de ses grâces ; c'est très bien vu.
+
+-*who_monsieurdecousu
+Vos grâces, votre art de plaire.
+
+-*who_leduc
+Oui, je dis.
+Vos grâces, votre art de plaire.
+Écrivons.
+
+-*who_monsieurronflant
+Ce n'est sûrement pas nous qui le faisons dire à Monsieur le Duc.
+
+-*who_leduc
+Vous grâces, votre art de plaire.
+
+-*who_monsieurronflant
+Font répéter tous les jours.
+
+-*who_leduc
+Se répètent tous les jours :
+
+-*who_monsieurronflant
+Non, non, vous dites.
+Font répéter tous les jours :
+
+-*who_leduc
+Oui, oui, je dis.
+Font répéter tous les jours :
+Font répéter, font répéter ; il y a bien de quoi ; c'est qu'il faut peindre en chantant.
+
+-*who_monsieurdecousu
+Sans Doute, et c'est-là votre talent.
+
+-*who_leduc
+Oui, je n'y suis pas absolument maladroit.
+Font répéter tous les jours :
+
+-*who_monsieurdecousu
+C'est la fête de Cythère ;
+
+-*who_leduc
+Oh, pour celui-là, je me le vole à moi-même en le faisant ; je n'ai pas dit autre chose de la matinée.
+C'est la fête de Cythère ;
+
+-*who_monsieurronflant
+C'est la fête des Amours.
+
+-*who_leduc
+Cela va de soi-même ; fête de Cythère, fête des amours ; qui dit l'un, dit l'autre.
+
+-*who_monsieurdecousu
+Dites, qui fait l'un, fait l'autre.
+
+-*who_leduc
+Sûrement.
+C'est la fête des Amours.
+
+-*who_monsieurronflant
+C'est un tableau charmant !
+
+-*who_monsieurdecousu
+On ne voit que des guirlandes dans les airs.
+
+-*who_monsieurronflant
+Des fleurs les parfument ; c'est un spectacle enchanteur !
+Personne que vous ne pourrait dire aussi bien :
+C'est la fête de Cythère;
+C'est la fête des Amours.
+
+-*who_leduc
+Il est vrai que je n'en suis pas mécontent, j'ose le dire.
+
+-*who_monsieurdecousu
+Parbleu, je le crois bien.
+
+-*who_leduc
+Revoyons tout le couplet, Messieurs, je vous en prie.
+Que de fleurs on va répandre,
+Dans un jour aussi charmant !
+Que de chants se font entendre,
+Pour exprimer ce qu'on sent !
+
+-*who_monsieurronflant
+Je vois la décoration de la fête.
+Quelle pompe !
+Quelle magnificence !
+
+-*who_monsieurdecousu
+Les choeurs chantants, sont rangés à droite et à gauche.
+
+-*who_leduc
+C'est vrai, je n'y avais pas pris garde.
+
+-*who_monsieurronflant
+Bon, rien ne manque ?
+Cette fête ; quelle imagination !
+
+-*who_monsieurdecousu
+Et dans un seul couplet.
+
+-*who_leduc
+Vos grâces, votre art de plaire
+Font répéter tous les jours :
+C'est la fête de Cythère,
+
+-*who_toustroisensemble
+C'est la fête des Amours.
+
+-*who_monsieurronflant
+Divin !
+
+-*who_monsieurdecousu
+Délicieux !
+
+-*who_leduc
+Je suis bien aise que vous en soyez contents.
+
+-*who_monsieurdecousu
+Contents ?
+
+-*who_monsieurronflant
+Nous en sommes enchantés, ravis.
+
+-*who_leduc
+Hé bien ; croiriez-vous que ce matin j'ai été au point de croire que je ne parviendrais jamais à faire ce couplet ?
+
+-*who_monsieurdecousu
+Vous ne connaissez pas vos talents, Monsieur le Duc.
+
+-*who_monsieurronflant
+Quand voulez-vous que je revienne pour mon cinquième Acte, car je voudrais après obtenir une lecture des Comédiens ?
+
+-*who_leduc
+Mais quand vous voudrez.
+
+-*who_monsieurronflant
+J'ai grand besoin que Monsieur le Duc veuille bien leur faire parler par quelqu'un.
+
+-*who_leduc
+Je le veux bien, vous me direz par qui.
+
+-*who_monsieurronflant
+C'est que c'est difficile.
+
+-*who_monsieurdecousu
+Moi, je ne demande que le suffrage de Monsieur le Duc, sur mon ariette ; car le musicien en est content.
+
+-*who_leduc
+Nous verrons, je vous dirai naturellement.
+
+-*who_monsieurdecousu
+C'est-là tout ce qui me retient, les rôles sont déjà distribués, et cela ira tout de suite.
+
+-*who_leduc
+Je vous ferai dire.
+
+-*who_monsieurdecousu
+Pour votre couplet, Monsieur le Duc, je voudrais l'avoir fait.
+
+-*who_monsieurronflant
+Et moi aussi, je vous en réponds.
+
+-*who_leduc
+Vous me faites le plus grand plaisir.
+
+-*who_monsieurronflant
+Je vous en demanderai une copie la première fois.
+
+-*who_leduc
+Vous l'aurez.
+
+-*who_ronflant,decousu
+C'est la fête de Cythère,
+C'est la fête des Amours.
+
+**** *book_ *id_I03 *act_I *date_(inc
+
+-*who_leduc
+Oh là, quelqu'un !
+
+-*who_dupre
+Monseigneur ?
+
+-*who_leduc
+Allons.
+
+-*who_dupre
+Hé bien, Monseigneur, votre couplet ?
+
+-*who_leduc
+Il est fait.
+
+-*who_dupre
+Et vous en êtes content ?
+
+-*who_leduc
+Je t'en réponds, il est charmant !
+
+-*who_dupre
+Je savais bien que vous en viendriez à bout, je n'avais garde de renvoyer ces Messieurs.
+
+-*who_leduc
+Allons, viens, je te le chanterai en m'habillant.

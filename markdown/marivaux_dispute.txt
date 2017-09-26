@@ -1,0 +1,1509 @@
+---
+identifier: marivaux_dispute  
+creator: Marivaux  
+date: 1744  
+title: La dispute. , comédie  
+---
+
+
+LA DISPUTE
+
+COMÉDIE en un acte, en prose.
+
+M. DCC. XLVII.
+
+par M. de M...arivaux
+
+# Approbation. J'ai lu par ordre de Monseigneur le Chancelier une Comédie de M. de Marivaux, qui a pour titre "La Dispute", et j'ai cru qu'on pouvait en permettre l'impression. À Paris, le 25 octobre 1746. Signé, MAUNOIR. # Privilège du Roi. Louis par la grâce de Dieu, Roi de France et de Navarre : à nos âmés et déaux conseillers, les gens tenants nos cours de Parlement, maîtres de requêtes ordinaires de notre Hôtel, Grand conseiller, Prévôt de Paris, Baillifs, Sénéchaux, leurs lieutenants civils, et autres nos justiciers qu'il appartiendra : salut. Noté amé JACQUES CLOUSIER, libraire à Paris, nous a fait exposer qu'il désirerait faire imprimer et donner au public deux comédies, qui ont pour titre , "Le Préjugé vaincu" et l'autre "La Dispute", s'il nous plaisait lui accorder nos lettres de permission pour ce nécessaires, à ces causes, voulant favorablement traiter l'exposant. Nous lui avons permis et permettons par ces présentes de faire imprimer les dites comédies en un ou plusieurs volumes, et autant de fois que bon lui semblera, et de les vendre ; faire vendre et débiter de trois années consécutives, à compter du jour de la date des présentes. Faisons défenses à tous libraires, imprimeurs et autres personnes de quelque qualité et condition qu'elles soient, d'une introduite d'impression étrangère dans aucun lieu de notre obéissance ; à la charge que ces présentes seront enregistrées tout au long au registre de la Communauté des Libraires et Imprimeurs de Paris; dans trois mois de la date d'icelle, que l'impression desdites comédies sera faite dans notre royaume et non ailleurs, en bon papier et beaux caractères, conformément à la feuille imprimée, attachée pour modèle sous le contre-scel des présentes, qe l'impétrant se conformera en tout aux règlements de la librairie, et notamment à celui du 10 avril 1725 qu'avant de les exposer en vente, les manuscrits qui auront servi de copie à l'impression desdites comédies seront remis dans le même état où l'approbation y aura été donné es mains de notre très cher et féal le chevalier le sieur Daguesseau, Chancelier de France, Commandeur de nos ordres, et qu'il en sera ensuite remis deux exemplaires de chacune dans notre bibliothèque publique, un dans celle de notre château du Louvre, et un dans celle de notre dit très cher et féal Chevalier le sieur Daguesseau, Chancelier de France, le tout à peine de nullité des présentes, du contenu desquelles vous mandons et enjoignons de faire jouir ledit exposant et ses ayant causes pleinement et paisiblement, sans souffrir qu'il leur soit fait aucun trouble ou empêchement. Voulons qu'à la copie des présentes qui sera imprimée tout au long au commencement ou à la fin des dites comédies foi soit ajoutée comme à l'original. Commandons au premier notre huissier ou sergent sur ce requis de faire l'exécution d'icelles tous actes requis et nécessaires, sans demander d'autre permission, et nonobstant clameur de haro, charte Normande, et lettres à ce contraire ; Car tel est notre plaisir. Donné à Versailles le vingt-troisième jour du mois de décembre, l'an de grâce mil sept cent quarante-six, et de notre règne le trente-deuxième. Par le roi en son conseil. Signe SAINSON. Registré sur le registre de la communauté Royale et Syndicale des Libraires-Imprimeurs de Paris, n° Fol. conformément aux anciens règlements confirmés par celui du 28 février 1743, à Paris le sic Janvier 1747. Signé G. CAVELIER, père, syndic. À PARIS, chez Jacques Clousier, rue Saint Jacques, à l'Écu de France.
+Comédie en un acte et en prose représentée pour la première fois par les comédiens Français, le 19 Octobre 1744
+
+
+# Présentation des représentations et premières éditions.
+
+L'année 1744 est riche en représentations théâtrales aussi bien rue des Fossés Saint-Germain qu'à l'Hôtel de Bourgogne. On y recense plus de 450 représentations (463 selon le Calendrier Electronique des Spectacles de l'Ancien Régime). Sur les planches du théâtre de la rue des Fossés Saint-Germain, La "Dispute" n'a été jouée qu'une fois, elle suit "Le Français de Londres" de Boissy du 15 octobre en sa neuvième représentation dans ce théâtre depuis 1727. Elle précède "Esope à la cour" d'Edme Boursault jouée le 20 octobre en sa huitième représentation depuis 1701 dans ce théâtre.
+
+Le Dictionnaire portatif des théâtre signale cette comédie de cette façon : "La DISPUTE : Com. en pro. et en un acte par M. de Marivaux, donnée au Théâtre français le 19 Octob. 1744 et retirée après sa première représentation" ; ce qui signifie qu'elle ne connut pas de succès.
+
+La première impression de l'imprimeur-libraire est de 1747 (exemplaires BnF YF-7184, et 8-RF-11847), l'approbation de Maunoir est du 25 octobre 1746 et le privilège est du 23 décembre 1746. Cette impression ne comporte ni préface, ni dédicace. Celle-ci a été suivie en 1749 d'une nouvelle impression de l'imprimeur P. Prault (in 12, 68p.) (exemplaires BnF YF-4498, YF-10098, 8-YTH-5237, GD-479 (3)), puis 1759 de plusieurs autres effectuées par le même (BnF Arsenal GF-9123), ce qui laisse à penser que la bonne réception de "La Dispute" est due aux lecteurs des éditions plutôt qu'au public des représentations.
+
+
+# ACTEURS.
+ – HERMIANE.
+ – LE PRINCE.
+ – MESROU.
+ – CARISE.
+ – EGLÉ.
+ – AZOR.
+ – ADINE.
+ – MESRIN.
+ – MESLIS.
+ – DINA.
+ – La SUITE du PRINCE.La scène est à la campagne.
+
+
+# .
+
+
+## SCÈNE PREMIÈRE. Le prince, Hermiane, Carise, Mesrou.
+
+    HERMIANE.
+Où allons-nous, Seigneur, voici le lieu du monde le plus sauvage et le plus solitaire, et rien n'y annonce la fête que vous m'avez promise.
+
+    LE-PRINCE, EN RIANT.
+Tout y est prêt.
+
+    HERMIANE.
+Je n'y comprends rien ; qu'est-ce que c'est que cette maison où vous me faites entrer, et qui forme un édifice si singulier ? Que signifie la hauteur prodigieuse des différents murs qui l'environnent : où me menez-vous ?
+
+    LE-PRINCE.
+À un spectacle très curieux ; vous savez la question que nous agitâmes hier au soir. Vous souteniez contre toute ma cour que ce n'était pas votre sexe, mais le nôtre, qui avait le premier donné l'exemple de l'inconstance et de l'infidélité en amour.
+
+    HERMIANE.
+Oui, Seigneur, je le soutiens encore. La première inconstance, ou la première infidélité, n'a pu commencer que par quelqu'un d'assez hardi pour ne rougir de rien. Oh ! Comment veut-on que les femmes, avec la pudeur et la timidité naturelles qu'elles avaient, et qu'elles ont encore depuis que le monde et sa corruption durent, comment veut-on qu'elles soient tombées les premières dans des vices de coeur qui demandent autant d'audace, autant de libertinage de sentiment, autant d'effronterie que ceux dont nous parlons ? Cela n'est pas croyable.
+
+    LE-PRINCE.
+Eh ! Sans doute, Hermiane, je n'y trouve pas plus d'apparence que vous, ce n'est pas moi qu'il faut combattre là-dessus, je suis de votre sentiment contre tout le monde, vous le savez.
+
+    HERMIANE.
+Oui, vous en êtes par pure galanterie, je l'ai bien remarqué.
+
+    LE-PRINCE.
+Si c'est par galanterie, je ne m'en doute pas. Il est vrai que je vous aime, et que mon extrême envie de vous plaire peut fort bien me persuader que vous avez raison, mais ce qui est de certain, c'est qu'elle me le persuade si finement que je ne m'en aperçois pas. Je n'estime point le coeur des hommes, et je vous l'abandonne ; je le crois sans comparaison plus sujet à l'inconstance et à l'infidélité que celui des femmes ; je n'en excepte que le mien, à qui même je ne ferais pas cet honneur-là si j'en aimais une autre que vous.
+
+    HERMIANE.
+Ce discours-là sent bien l'ironie.
+
+    LE-PRINCE.
+J'en serai donc bientôt puni ; car je vais vous donner de quoi me confondre, si je ne pense pas comme vous.
+
+    HERMIANE.
+Que voulez-vous dire ?
+
+    LE-PRINCE.
+Oui, c'est la nature elle-même que nous allons interroger, il n'y a qu'elle qui puisse décider la question sans réplique, et sûrement elle prononcera en votre faveur.
+
+    HERMIANE.
+Expliquez-vous, je ne vous entends point.
+
+    LE-PRINCE.
+Pour bien savoir si la première inconstance ou la première infidélité est venue d'un homme, comme vous le prétendez, et moi aussi, il faudrait avoir assisté au commencement du monde et de la société.
+
+    HERMIANE.
+Sans doute, mais nous n'y étions pas.
+
+    LE-PRINCE.
+Nous allons y être ; oui, les hommes et les femmes de ce temps-là, le monde et ses premières amours vont reparaître à nos yeux tels qu'ils étaient, ou du moins tels qu'ils ont dû être ; ce ne seront peut-être pas les mêmes aventures, mais ce seront les mêmes caractères ; vous allez voir le même état de coeur, des âmes tout aussi neuves que les premières, encore plus neuves s'il est possible.
+À Carie et à Mesrou.
+
+Carise, et vous, Mesrou, partez, et quand il sera temps que nous nous retirions, faites le signal dont nous sommes convenus.
+À sa suite.
+
+Et vous, qu'on nous laisse.
+
+
+## SCÈNE II. Hermiane, Le Prince.
+
+    HERMIANE.
+Vous excitez ma curiosité, je l'avoue.
+
+    LE-PRINCE.
+Voici le fait : il y a dix-huit ou dix-neuf ans que la dispute d'aujourd'hui s'éleva à la cour de mon père, s'échauffa beaucoup et dura très longtemps. Mon père, naturellement assez philosophe, et qui n'était pas de votre sentiment, résolut de savoir à quoi s'en tenir, par une épreuve qui ne laissât rien à désirer. Quatre enfants au berceau, deux de votre sexe et deux du nôtre, furent portés dans la forêt où il avait fait bâtir cette maison exprès pour eux, où chacun d'eux fut ! logé à part, et où actuellement même il occupe un terrain dont il n'est jamais sorti, de sorte qu'ils ne se sont jamais vus. Ils ne connaissent encore que Mesrou et sa soeur qui les ont élevés, et qui ont toujours eu soin d'eux, et qui furent choisis de la couleur dont ils sont, afin que leurs élèves en fussent plus étonnés quand ils verraient d'autres hommes. On va donc pour la première fois leur laisser la liberté de sortir de leur enceinte, et de se connaître ; on leur a appris la langue que nous parlons ; on peut regarder le commerce qu'ils vont avoir ensemble comme le premier âge du monde ; les premières amours vont recommencer, nous verrons ce qui en arrivera.
+Ici, on entend un bruit de trompettes.
+
+Mais hâtons-nous de nous retirer, j'entends le signal qui nous en avertit, nos jeunes gens vont paraître ; voici une galerie qui règne tout le long de l'édifice, et d'où nous pourrons les voir et les écouter, de quelque côté qu'ils sortent de chez eux. Partons.
+
+
+## SCÈNE III. Carise, Eglé.
+
+    CARISE.
+Venez, Eglé, suivez-moi ; voici de nouvelles terres que vous n'avez jamais vues, et que vous pouvez parcourir en sûreté.
+
+    EGLÉ.
+Que vois-je ? Quelle quantité de nouveaux mondes !
+
+    CARISE.
+C'est toujours le même, mais vous n'en connaissez pas toute l'étendue.
+
+    EGLÉ.
+Que de pays ! Que d'habitations ! Il me semble que je ne suis plus rien dans un si grand espace, cela me fait plaisir et peur.
+Elle regarde et s'arrête à un ruisseau.
+
+Qu'est-ce que c'est que cette eau ne je vois et qui roule à terre ? Je n'ai rien vu de semblable à cela dans le monde d'où je sors.
+
+    CARISE.
+Vous avez raison, et c'est ce qu'on appelle un ruisseau.
+
+    EGLÉ, REGARDANT.
+Ah ! Carise, approchez, venez voir, il y a quelque chose qui habite dans le ruisseau qui est fait comme une personne, et elle paraît aussi étonnée de moi que je le suis d'elle.
+
+    CARISE, RIANT.
+Eh ! Non, c'est vous que vous y voyez tous les ruisseaux font cet effet-là.
+
+    EGLÉ.
+Quoi ! C'est là moi, c'est mon visage ?
+
+    CARISE.
+Sans doute.
+
+    EGLÉ.
+Mais savez-vous bien que cela est très beau, que cela fait un objet charmant ? Quel dommage de ne l'avoir pas su plus tôt !
+
+    CARISE.
+Il est vrai que vous êtes belle.
+
+    EGLÉ.
+Comment, belle, admirable ! Cette découverte-là m'enchante.
+Elle se regarde encore.
+
+Le ruisseau fait toutes mes mines, et toutes me plaisent. Vous devez avoir eu bien du plaisir à me regarder, Mesrou et vous. Je passerais ma vie à me contempler ; que je vais m'aimer à présent !
+
+    CARISE.
+Promenez-vous à votre aise, je vous laisse pour rentrer dans votre habitation, où j'ai quelque chose à faire.
+
+    EGLÉ.
+Allez, allez, je ne m'ennuierai pas avec le ruisseau.
+
+
+## SCÈNE IV. Eglé, Azor.
+Eglé un instant seule, Azor parait vis-à-vis d'elle.
+
+
+    EGLÉ, CONTINUANT ET SE TÂTANT LE VISAGE.
+Je ne me lasse point de moi.
+Et puis, apercevant Azor, avec frayeur.
+
+Qu'est-ce que c'est que cela, une personne comme moi ?...N'approchez point.
+Azor étendant les bras d'admiration et souriant. Eglé continue.
+
+La personne rit, on dirait qu'elle m'admire.
+Azor fait un pas.
+
+Attendez... Ses regards sont pourtant bien doux... Savez-vous parler ?
+
+    AZOR.
+Le plaisir de vous voir m'a d'abord ôté la parole.
+
+    EGLÉ, GAIEMENT.
+La personne m'entend, me répond, et si agréablement !
+
+    AZOR.
+Vous me ravissez.
+
+    EGLÉ.
+Tant mieux.
+
+    AZOR.
+Vous m'enchantez.
+
+    EGLÉ.
+Vous me plaisez aussi.
+
+    AZOR.
+Pourquoi donc me défendez-vous d'avancer ?
+
+    EGLÉ.
+Je ne vous le défends plus de bon coeur.
+
+    AZOR.
+Je vais donc approcher.
+
+    EGLÉ.
+J'en ai bien envie.
+Il avance.
+
+Arrêtez un peu... Que je suis émue !.
+
+    AZOR.
+J'obéis, car je suis à vous.
+
+    EGLÉ.
+Elle obéit ; venez donc tout à fait, afin d'être à moi de plus près.
+Il vient.
+
+Ah ! La voilà, c'est vous, qu'elle est bien faite ! En vérité, vous êtes aussi belle que moi.
+
+    AZOR.
+Je meurs de joie d'être auprès de vous, je me donne à vous, je ne sais pas ce que je sens, je ne saurais le dire.
+
+    EGLÉ.
+Eh ! c'est tout comme moi.
+
+    AZOR.
+Je suis heureux, je suis agité.
+
+    EGLÉ.
+Je soupire.
+
+    AZOR.
+J'ai beau être auprès de vous, je ne vous vois pas encore assez.
+
+    EGLÉ.
+C'est ma pensée, mais on ne peut pas se voir davantage, car nous sommes là.
+
+    AZOR.
+Mon coeur désire vos mains.
+
+    EGLÉ.
+Tenez, le mien vous les donne ; êtes-vous plus contente ?
+
+    AZOR.
+Oui, mais non pas plus tranquille
+
+    EGLÉ.
+C'est ce qui m'arrive, nous nous ressemblons en tout.
+
+    AZOR.
+Oh ! Quelle différence ! Tout ce que je suis ne vaut pas vos yeux, ils sont si tendres !
+
+    EGLÉ.
+Les vôtres si vifs !
+
+    AZOR.
+Vous êtes si mignonne, si délicate !
+
+    EGLÉ.
+Oui, mais je vous assure qu'il vous sied fort bien de ne l'être pas tant que moi, je ne voudrais pas que vous fussiez autrement, c'est une autre perfection, je ne nie pas la mienne, gardez-moi la vôtre.
+
+    AZOR.
+Je n'en changerai point, je l'aurai toujours.
+
+    EGLÉ.
+Ah çà ! Dites-moi, où étiez-vous quand je ne vous connaissais pas ?
+
+    AZOR.
+Dans un monde à moi, où je ne retournerai plus, puisque vous n'en êtes pas, et que je veux toujours avoir vos mains ; ni moi ni ma bouche ne saurions plus nous passer d'elles.
+
+    EGLÉ.
+Ni mes mains se passer de votre bouche ; mais j'entends du bruit, ce sont des personnes de mon monde : de peur de les effrayer, cachez-vous derrière les arbres, je vais vous rappeler.
+
+    AZOR.
+Oui, mais je vous perdrai de vue.
+
+    EGLÉ.
+Non, vous n'avez qu'à regarder dans cette eau qui coule, mon visage y est, vous l'y verrez.
+
+
+## SCÈNE V. Mesrou, Carise, Eglé.
+
+    EGLÉ, SOUPIRANT.
+Ah ! je m'ennuie déjà de son absence.
+
+    CARISE.
+Eglé, je vous retrouve inquiète, ce me semble, qu'avez-vous ?
+
+    MESROU.
+Elle a même les yeux plus attendris qu'à l'ordinaire.
+
+    EGLÉ.
+C'est qu'il y a une grande nouvelle ; vous croyez que nous ne sommes que trois, je vous avertis que nous sommes quatre ; j'ai fait l'acquisition d'un objet qui me tenait la main tout à l'heure.
+
+    CARISE.
+Qui vous tenait la main, Eglé ! Que n'avez-vous a appelé à votre secours ?
+
+    EGLÉ.
+Du secours contre quoi ? Contre le plaisir qu'il me faisait ? J'étais bien aise qu'il me la tint ; il me la tenait par ma permission : il la baisait tant qu'il pouvait, et je ne l'aurai pas plus tôt rappelé qu'il la baisera encore pour mon plaisir et le sien.
+
+    MESROU.
+Je sais qui c'est, je crois même l'avoir entrevu qui se retirait ; cet objet s'appelle un homme, c'est Azor, nous le connaissons.
+
+    EGLÉ.
+C'est Azor ? Le joli nom ! Le cher Azor ! Le cher homme ! Il va venir.
+
+    CARISE.
+Je ne m'étonne point qu'il vous aime et que vous l'aimiez, vous êtes faits l'un pour l'autre.
+
+    EGLÉ.
+Justement, nous l'avons deviné de nous-mêmes.
+Elle l'appelle.
+
+Azor, mon Azor, venez vite, l'homme !
+
+
+## SCÈNE VI. Carise, Eglé, Mesrou, Azor.
+
+    AZOR.
+Eh ! C'est Carise et Mesrou, ce sont mes amis.
+
+    EGLÉ, GAIEMENT.
+Ils me l'ont dit, vous êtes fait exprès pour moi, moi faite exprès pour vous, ils me l'apprennent : voilà pourquoi nous nous aimons tant, je suis votre Eglé, vous mon Azor.
+
+    MESROU.
+L'un est l'homme, et l'autre la femme.
+
+    AZOR.
+Mon Eglé, mon charme, mes délices, et ma femme !
+
+    EGLÉ.
+Tenez, voilà ma main, consolez-vous d'avoir été caché.
+À Mesrou et à Carise.
+
+Regardez, voilà comme il faisait tantôt, fallait-il appeler à mon secours ?
+
+    CARISE.
+Mes enfants, je vous l'ai déjà dit, votre destination naturelle est d'être charmés l'un de l'autre.
+
+    EGLÉ, LE TENANT PAR LA MAIN.
+Il n'y a rien de si clair.
+
+    CARISE.
+Mais il y a une chose à observer, si vous voulez vous aimer toujours.
+
+    EGLÉ.
+Oui, je comprends, c'est d'être toujours ensemble.
+
+    CARISE.
+Au contraire, c'est qu'il faut de temps en temps vous priver du plaisir de vous voir.
+
+    EGLÉ, ÉTONNÉ.
+Comment ?
+
+    AZOR, ÉTONNÉ.
+Quoi ?
+
+    CARISE.
+Oui, vous dis-je, sans quoi ce plaisir diminuerait et vous deviendrait indifférent.
+
+    EGLÉ, RIANT.
+Indifférent, indifférent, mon Azor ! Ah ! Ah ! Ah !... La plaisante pensée !
+
+    AZOR, RIANT.
+Comme elle s'y entend !
+
+    MESROU.
+N'en riez pas, elle vous donne un très bon conseil, ce n'est qu'en pratiquant ce qu'elle vous dit là, et qu'en nous séparant quelquefois, que nous continuons de nous aimer, Carise et moi.
+
+    EGLÉ.
+Vraiment, je le crois bien, cela peut vous être bon à vous autres qui êtes tous deux si noirs, et qui avez dû vous enfuir de peur la première fois que vous vous êtes vus.
+
+    AZOR.
+Tout ce que vous avez pu faire, c'est de vous supporter l'un et l'autre.
+
+    EGLÉ.
+Et vous seriez bientôt rebutés de vous voir si vous ne vous quittiez jamais, car vous n'avez rien de beau à vous montrer ; moi qui vous aime, par exemple, quand je ne vous vois pas, je me passe de vous, je n'ai pas besoin de votre présence, pourquoi ? C'est que vous ne me charmez pas ; au lieu que nous nous charmons, Azor et moi ; il est si beau, moi si admirable, si attrayante, que nous nous ravissons en nous contemplant.
+
+
+AZOR, prenant la main d'Eglé.
+
+La seule main d'Eglé, voyez-vous, sa main seule, je souffre quand je ne la tiens pas et quand je la tiens, je me meurs si je ne la baise, et quand je l'ai baisée, je me meurs encore.
+
+    EGLÉ.
+L'homme a raison, tout ce qu'il vous dit là, je le sens ; voilà pourtant où nous en sommes, et vous qui. Parlez de notre plaisir, vous ne savez pas ce que c'est, nous ne le comprenons pas, nous qui le sentons, il est infini.
+
+    MESROU.
+Nous ne vous proposons de vous séparer que deux ou trois heures seulement dans la journée.
+
+    EGLÉ.
+Pas d'une minute.
+
+    MESROU.
+Tant pis.
+
+    EGLÉ.
+Vous m'impatientez, Mesrou ; est-ce qu'à force de nous voir nous deviendrons laids ? Cesserons-nous d'être charmants ?
+
+    CARISE.
+Non, mais vous cesserez de sentir que vous l'êtes.
+
+    EGLÉ.
+Eh ! Qu'est-ce qui nous empêchera de le sentir puisque nous le sommes ?
+
+    AZOR.
+Eglé sera toujours Eglé.
+
+    EGLÉ.
+Azor toujours Azor.
+
+    MESROU.
+J'en conviens, mais que sait-on ce qui peut arriver ? Supposons, par exemple, que je devinsse aussi aimable qu'Azor, que Carise devînt aussi belle qu'Eglé.
+
+    EGLÉ.
+Qu'est-ce que cela nous ferait ?
+
+    CARISE.
+Peut-être alors que, rassasiés de vous voir, vous seriez tentés de vous quitter tous deux pour nous aimer.
+
+    EGLÉ.
+Pourquoi tentés ? Quitte-t-on ce qu'on aime ? Est-ce là raisonner ? Azor et moi, nous nous aimons, voilà qui est fini, devenez beau tant qu'il vous plaira, que nous importe ? Ce sera votre affaire, la nôtre est arrêtée.
+
+    AZOR.
+Ils n'y comprendront jamais rien, il faut être nous pour savoir ce qui en est.
+
+    MESROU.
+Comme vous voudrez.
+
+    AZOR.
+Mon amitié, c'est ma vie.
+
+    EGLÉ.
+Entendez-vous ce qu'il dit, sa vie ? Comment me quitterait-il ? Il faut bien qu'il vive, et moi aussi.
+
+    AZOR.
+Oui, ma vie, comment est-il possible qu'on soit si belle, qu'on ait de si beaux regards, une si belle bouche, et tout si beau ?
+
+    EGLÉ.
+J'aime tant qu'il m'admire !
+
+    MESROU.
+Il est vrai qu'il vous adore.
+
+    AZOR.
+Ah ! Que c'est bien dit, je l'adore ! Mesrou me comprend, je vous adore.
+
+    EGLÉ, SOUPIRANT.
+Adorez donc, mais donnez-moi le temps de respirer ; ah !
+
+    CARISE.
+Que de tendresse ! J'en suis enchantée moi-même ! Mais il n'y a qu'un moyen de la conserver, c'est de nous en croire ; et si vous avez la sagesse de vous y déterminer, tenez, Eglé, donnez ceci à Azor, ce sera de quoi l'aider à supporter votre absence.
+
+    EGLÉ, PRENANT UN PORTRAIT QUE CARISE LUI DONNE.
+Comment donc ! Je me reconnais ; c'est encore moi, et bien mieux que dans les eaux du ruisseau, c'est toute ma beauté, c'est moi, quel plaisir de se trouver partout ! Regardez, Azor, regardez mes charmes.
+
+    AZOR.
+Ah ! C'est Eglé, c'est ma chère femme, la voilà, sinon que la véritable est encore plus belle.
+Il baise le portrait.
+
+
+    MESROU.
+Du moins cela il représente.
+
+    AZOR.
+Oui, cela la fait désirer.
+Il le baise encore.
+
+
+    EGLÉ.
+Je n'y trouve qu'un défaut, quand il le baise, ma copie a tout.
+
+    AZOR, PRENANT SA MAIN, QU’IL BAISE.
+Otons ce défaut-là.
+
+    EGLÉ.
+Ah çà ! J'en veux autant pour m'amuser.
+
+    MESROU.
+Choisissez de son portrait ou du vôtre.
+
+    EGLÉ.
+Je les retiens tous deux.
+
+    MESROU.
+Oh ! Il faut opter, s'il vous plaît, je suis bien aise d'en garder un.
+
+    EGLÉ.
+Eh bien ! En ce cas-là je n'ai que faire de vous pour avoir Azor ; car j'ai déjà son portrait dans mon esprit, ainsi donnez-moi le mien, je les aurai tous deux.
+
+    CARISE.
+Le voilà d'une autre manière. Cela s'appelle un miroir, il n'y a qu'à presser cet endroit pour l'ouvrir. Adieu, nous reviendrons vous trouver dans quelque temps, mais, de grâce, songez aux petites absences.
+
+
+## SCÈNE VII. Azor, Eglé.
+
+    EGLÉ, TÂCHANT D’OUVRIR LA BOÎTE.
+Voyons, je ne saurais l'ouvrir ; essayez, Azor, c'est là qu'elle a dit de presser.
+
+    AZOR L’OUVRE ET SE REGARDE.
+Bon ! Ce n'est que moi, je pense, c'est ma mine que le ruisseau d'ici près m'a montrée.
+
+    EGLÉ.
+Ah ! Ah ! Que je voie donc ! Eh ! Point du tout, cher homme, c'est plus moi que jamais, c'est réellement votre Eglé, la véritable, tenez, approchez.
+
+    AZOR.
+Eh ! Oui, c'est vous, attendez donc, c'est nous deux, c'est moitié l'un et moitié l'autre ; j'aimerais mieux que ce fût vous toute seule, car je m'empêche de vous voir tout entière.
+
+    EGLÉ.
+Ah ! Je suis bien aise d'y voir un peu de vous aussi, vous n'y gâtez rien ; avancez encore, tenez-vous bien.
+
+    AZOR.
+Nos visages vont se toucher, voilà qu'ils se touchent, quel bonheur pour le mien ! Quel ravissement !
+
+    EGLÉ.
+Je vous sens bien, et je le trouve bon..
+
+    AZOR.
+Si nos bouches s'approchaient !
+Il lui prend un baiser.
+
+
+    EGLÉ, SE RETOURNANT.
+Oh ! Vous nous dérangez, à présent je ne vois plus que moi, l'aimable invention qu'un miroir !.
+
+    AZOR, PRENANT LE MIROIR D’EGLÉ.
+Ah ! Le portrait est aussi une excellente chose.
+Il le baise.
+
+
+    EGLÉ.
+Carise et Mesrou sont pourtant de bonnes gens.
+
+    AZOR.
+Ils ne veulent que notre bien, j'allais vous parler d'eux, et de ce conseil qu'ils nous ont donné.
+
+    EGLÉ.
+Sur ces absences, n'est-ce pas ? J'y rêvais aussi.
+
+    AZOR.
+Oui, mon Eglé, leur prédiction me fait quelque peur ; je n'appréhende rien de ma part, mais n'allez pas vous ennuyer de moi, au moins, je serais désespéré.
+
+    EGLÉ.
+Prenez garde à vous-même, ne vous lassez pas de m'adorer, en vérité, toute belle que je suis, votre peur m'effraie aussi.
+
+    AZOR.
+À merveille ! Ce n'est pas à vous de trembler... À quoi rêvez-vous ?
+
+    EGLÉ.
+Allons, allons, tout bien examiné, mon parti est pris : donnons-nous du chagrin, séparons-nous pour deux heures, j'aime encore mieux votre coeur et son adoration que votre présence, qui m'est pourtant bien douce.
+
+    AZOR.
+Quoi ! Nous quitter !
+
+    EGLÉ.
+Ah ! Si vous ne me prenez pas au mot, tout à l'heure je ne le voudrai plus.
+
+    AZOR.
+Hélas ! Le courage me manque.
+
+    EGLÉ.
+Tant pis, je vous déclare que le mien se passe.
+
+    AZOR, PLEURANT.
+Adieu, Eglé, puisqu'il le faut.
+
+    EGLÉ.
+Vous pleurez ? Eh bien ! Restez donc pourvu qu'il n'y ait point de danger.
+
+    AZOR.
+Mais s'il y en avait !
+
+    EGLÉ.
+Partez donc.
+
+    AZOR.
+Je m'enfuis.
+
+
+## SCÈNE VIII.
+
+    EGLÉ, SEULE.
+Ah ! il n'y est plus, je suis seule, je n'entends plus sa voix, il n'y a plus que le miroir.
+Elle s'y regarde.
+
+J'ai eu tort de renvoyer mon homme, Carise et Mesrou ne savent ce qu'ils disent.
+En se regardant.
+
+Si je m'étais mieux considérée, Azor ne serait point parti. Pour aimer toujours ce que je vois là, il n'avait pas besoin de l'absence... Allons, je vais m'asseoir auprès du ruisseau, c'est encore un miroir de plus.
+
+
+## SCÈNE IX. Eglé, Adine.
+
+    EGLÉ.
+Mais que vois-je ? Encore une autre personne !
+
+    ADINE.
+Ah ! Ah ! Qu'est-ce que c'est que ce nouvel objet-ci ?Elle avance.
+
+    EGLÉ.
+Elle me considère avec attention, mais ne m'admire point, ce n'est pas là un Azor.
+Elle se regarde dans son miroir.
+
+C'est encore moins une Eglé... Je crois pourtant qu'elle se compare.
+
+    ADINE.
+Je ne sais que penser de cette figure-là, je ne sais ce qui lui manque, elle a quelque chose d'insipide.
+
+    EGLÉ.
+Elle est d'une espèce qui ne me revient point.
+
+    ADINE.
+A-t-elle un langage ?... Voyons... Êtes-vous une personne ?
+
+    EGLÉ.
+Oui assurément, et très personne.
+
+    ADINE.
+Eh bien ! N'avez-vous rien à me dire ?
+
+    EGLÉ.
+Non, d'ordinaire on me prévient, c'est à moi qu'on parle.
+
+    ADINE.
+Mais n'êtes-vous pas charmée de moi ?
+
+    EGLÉ.
+De vous ? C'est moi qui charme les autres.
+
+    ADINE.
+Quoi ! Vous n'êtes pas bien aise de me voir ?
+
+    EGLÉ.
+Hélas ! Ni bien aise ni fâchée, qu'est-ce que cela me fait ?
+
+    ADINE.
+Voilà qui est particulier ! Vous me considérez, je me montre, et vous ne sentez rien ? C'est que vous regardez ailleurs ; contemplez-moi un peu attentivement, là, comment me trouvez-vous ?
+
+    EGLÉ.
+Mais qu'est-ce que c'est que vous ? Est-il question de vous ? Je vous dis que c'est d'abord moi qu'on voit, moi qu'on informe de ce qu'on pense, voilà comme cela se pratique, et vous voulez que ce soit moi qui vous contemple pendant que je suis présente !
+
+    ADINE.
+Sans doute, c'est la plus belle à attendre qu'on la remarque et qu'on s'étonne.
+
+    EGLÉ.
+Eh bien, étonnez-vous donc !
+
+    ADINE.
+Vous ne m'entendez donc pas ? On vous dit que c'est à la plus belle à attendre.
+
+    EGLÉ.
+On vous répond qu'elle attend.
+
+    ADINE.
+Mais si ce n'est pas moi, où est-elle ? Je suis pourtant l'admiration de trois autres personnes qui habitent dans le monde.
+
+    EGLÉ.
+Je ne connais pas vos personnes, mais je sais qu'il y en a trois que je ravis et qui me traitent de merveille.
+
+    ADINE.
+Et moi je sais que je suis si belle, si belle, que je me charme moi-même toutes les fois que je me regarde, voyez ce que c'est.
+
+    EGLÉ.
+Que me contez-vous là ? Je ne me considère jamais que je ne sois enchantée, moi qui vous parle.
+
+    ADINE.
+Enchantée ! Il est vrai que vous êtes passable, et même assez gentille, je vous rends justice, je ne suis pas comme vous.
+
+    EGLÉ, À PART.
+Je la battrais de bon coeur avec sa justice.
+
+    ADINE.
+Mais de croire que vous pouvez entrer en dispute avec moi, c'est se moquer, il n'y a qu'à voir.
+
+    EGLÉ.
+Mais c'est aussi en voyant, que je vous trouve assez laide.
+
+    ADINE.
+Bon ! C'est que vous me portez envie, et que vous vous empêchez de me trouver belle.
+
+    EGLÉ.
+Il n'y a que votre visage qui m'en empêche.
+
+    ADINE.
+Mon visage ! Oh ! Je n'en suis pas en peine, car je l'ai vu, allez demander ce qu'il est aux eaux du ruisseau qui coule, demandez-le à Mesrin qui m'adore.
+
+    EGLÉ.
+Les eaux du ruisseau, qui se moquent de vous, m'apprendront qu'il n'y a rien de si beau que moi, et elles me l'ont déjà appris, je ne sais ce que c'est qu'un Mesrin, mais il ne vous regarderait pas s'il me voyait ; j'ai un Azor qui vaut mieux que lui, un Azor que j'aime, qui est presque aussi admirable que moi, et qui dit que je suis sa vie ; vous n'êtes la vie de personne, vous ; et puis j'ai un miroir qui achève de me confirmer tout ce que mon Azor et le ruisseau assurent ; y a-t-il rien de plus fort ?
+
+    ADINE, EN RIANT.
+Un miroir ! vous avez aussi un miroir ! Eh ! À quoi vous sert-il ? À vous regarder ? Ah ! Ah ! Ah !
+
+    EGLÉ.
+Ah ! Ah ! Ah !... N'ai-je pas deviné qu'elle me déplairait ?.
+
+    ADINE.
+Tenez, en voilà un meilleur, venez apprendre à vous connaître et à vous taire.
+Carise paraît dans l'éloignement.
+
+
+    EGLÉ, IRONIQUEMENT.
+Jetez les yeux sur celui-ci pour y savoir votre médiocrité, et la modestie qui vous est convenable avec moi.
+
+    ADINE.
+Passez votre chemin : dès que vous refusez de prendre du plaisir à me considérer, vous ne m'êtes bonne à rien, je ne vous parle plus.
+Elles ne se regardent plus.
+
+
+    EGLÉ.
+Et moi, j'ignore que vous êtes là.
+Elles s'écartent.
+
+
+    ADINE, À PART.
+Quelle folle !
+
+    EGLÉ, À PART.
+Quelle visionnaire, de quel monde cela sort-il ?
+
+
+## SCÈNE X. Carise, Adine, Eglé.
+
+    CARISE.
+Que faites-vous donc là toutes deux éloignées l'une de l'autre, et sans vous parler ?
+
+    ADINE, RIANT.
+C'est une nouvelle figure que j'ai rencontrée et que ma beauté désespère.
+
+    EGLÉ.
+Que diriez-vous de ce fade objet, de cette ridicule espèce de personne qui aspire à m'étonner, qui me demande ce que je sens en la voyant, qui veut que j'aie du plaisir à la voir, qui me dit : Eh ! Contemplez-moi donc ! Eh ! Comment me trouvez-vous ? Et qui prétend être aussi belle que moi !
+
+    ADINE.
+Je ne dis pas cela, je dis plus belle, comme cela se voit dans le miroir.
+
+    EGLÉ, MONTRANT LE SIEN.
+Mais qu'elle se voie donc dans celui-ci, si elle ose !
+
+    ADINE.
+Je ne lui demande qu'un coup d'oeil dans le mien, qui est le véritable.
+
+    CARISE.
+Doucement, ne vous emportez point ; profitez plutôt du hasard qui vous a fait faire connaissance ensemble, unissons-nous tous, devenez compagnes, et joignez l'agrément de vous voir à la douceur d'être toutes deux adorées, Eglé par l'aimable Azor qu'elle chérit, Adine par l'aimable Mesrin qu'elle aime ; allons, raccommodez-vous.
+
+    EGLÉ.
+Qu'elle se défasse donc de sa vision de beauté qui m'ennuie.
+
+    ADINE.
+Tenez, je sais le moyen de lui faire entendre raison, je n'ai qu'à lui ôter son Azor dont je ne me soucie pas, mais rien que pour avoir la paix.
+
+    EGLÉ, FÂCHÉE.
+Où est son imbécile Mesrin ? Malheur à elle, si je le rencontre ! Adieu, je m'écarte, car je ne saurais la souffrir.
+
+    ADINE.
+Ah ! Ah ! Ah !.. Mon mérite est son aversion.
+
+    EGLÉ, SE RETOURNANT.
+Ah ! Ah ! Ah ! Quelle grimace !
+
+
+## SCÈNE XI. Adine, Carise.
+
+    CARISE.
+Allons, laissez-la dire.
+
+    ADINE.
+Vraiment, bien entendu ; elle me fait pitié.
+
+    CARISE.
+Sortons d'ici, voilà l'heure de votre leçon de musique, je ne pourrai pas vous la donner si vous tardez.
+
+    ADINE.
+Je vous suis, mais j'aperçois Mesrin, je n'ai qu'un mot à lui dire.
+
+    CARISE.
+Vous venez de le quitter.
+
+    ADINE.
+Je ne serai qu'un moment en passant.
+
+
+## SCÈNE XII. Mesrin, Carise, Adine.
+
+    ADINE, APPELLE.
+Mesrin !
+
+    MESRIN, ACCOURANT.
+Quoi ! C'est vous, c'est mon Adine qui est revenue ; que j'ai de joie ! Que j'étais impatient !
+
+    ADINE.
+Eh ! Non, remettez votre joie, je ne suis pas revenue, je m'en retourne, ce n'est que par hasard que je suis ici.
+
+    MESRIN.
+Il fallait donc y être avec moi par hasard.
+
+    ADINE.
+Écoutez, écoutez ce qui vient de m'arriver.
+
+    CARISE.
+Abrégez, car j'ai autre chose à faire.
+
+    ADINE.
+J'ai fait
+À Mesrin.
+
+Je suis belle, n'est-ce pas ?
+
+    MESRIN.
+Belle ! Si vous êtes belle !
+
+    ADINE.
+Il n'hésite pas, lui, il dit ce qu'il voit.
+
+    MESRIN.
+Si vous êtes divine ! La beauté même.
+
+    ADINE.
+Eh ! Oui, je n'en doute pas ; et cependant, vous, Carise et moi, nous nous trompons, je suis laide.
+
+    MESRIN.
+Mon Adine !
+
+    ADINE.
+Elle-même ; en vous quittant, j'ai trouvé une nouvelle personne qui est d'un autre monde, et qui, au lieu d'être étonnée de moi, d'être transportée comme vous l'êtes et comme elle devrait l'être, voulait au contraire que je fusse charmée d'elle, et sur le refus que j'en ai fait, m'a accusée d'être laide.
+
+    MESRIN.
+Vous me mettez d'une colère !
+
+    ADINE.
+M'a soutenu que vous me quitteriez quand vous l'auriez vue.
+
+    CARISE.
+C'est qu'elle était fâchée.
+
+    MESRIN.
+Mais, est-ce bien une personne ?
+
+    ADINE.
+Elle dit que oui, et elle en paraît une, à peu près.
+
+    CARISE.
+C'en est une aussi.
+
+    ADINE.
+Elle reviendra sans doute, et je veux absolument que vous la méprisiez, quand vous la trouverez, je veux qu'elle vous fasse peur.
+
+    MESRIN.
+Elle doit être horrible ?
+
+    ADINE.
+Elle s'appelle... Attendez, elle s'appelle...
+
+    CARISE.
+Eglé.
+
+    ADINE.
+Oui, c'est une Eglé. Voici à présent comme elle est faite : c'est un visage fâché, renfrogné, qui n'est pas comme celui de Carise, qui n'est pas blanc comme le mien non plus, c'est une couleur qu'on ne peut pas bien dire.
+
+    MESRIN.
+Et qui ne plaît pas ?
+
+    ADINE.
+Oh ! Point du tout, couleur indifférente ; elle a des yeux, comment vous dirai-je ? Des yeux qui ne font pas plaisir, qui regardent, voilà tout ; une bouche ni grande ni petite, une bouche qui lui sert à parler ; une figure toute droite, toute droite et qui serait pourtant à peu près comme la nôtre, si elle était bien faite ; qui a des mains qui vont et qui viennent, des doigts longs et maigres, je pense ; avec une voix rude et aigre ; oh ! Vous la reconnaîtrez bien.
+
+    MESRIN.
+Il me semble que je la vois, laissez-moi faire : il faut la renvoyer dans un autre monde, après que je l'aurai bien mortifiée.
+
+    ADINE.
+Bien humiliée, bien désolée.
+
+    MESRIN.
+Et bien moquée, oh ! Ne vous embarrassez pas, et donnez-moi cette main.
+
+    ADINE.
+Eh ! Prenez-la, c'est pour vous que je l'ai.
+Mesrin baise sa main.
+
+
+    CARISE, LUI ÔTANT LA MAIN.
+Allons, tout est dit, partons.
+
+    ADINE.
+Quand il aura achevé de baiser ma main.
+
+    CARISE.
+Laissez-la donc, Mesrin, je suis pressée.
+
+    ADINE.
+Adieu tout ce que j'aime, je ne serai pas longtemps, songez à ma vengeance.
+
+    MESRIN.
+Adieu tout mon charme ! Je suis furieux.
+
+
+## SCÈNE XIII. Mesrin, Azor.
+
+    MESRIN, LES PREMIERS MOTS SEUL, RÉPÉTANT LE PORTRAIT.
+Une couleur ni noire ni blanche, une figure toute droite, une bouche qui parle... Où pourrais-je la trouver ?
+Voyant Azor.
+
+Mais j'aperçois quelqu'un, c'est une personne comme moi, serait-ce Eglé ? Non, car elle n'est point difforme.
+
+    AZOR, LE CONSIDÉRANT.
+Vous êtes pareille à moi, ce me semble ?
+
+    MESRIN.
+C'est ce que je pensais.
+
+    AZOR.
+Vous êtes donc un homme ?
+
+    MESRIN.
+On m'a dit que oui.
+
+    AZOR.
+On m'en a dit de moi tout autant.
+
+    MESRIN.
+On vous a dit : est-ce que vous connaissez des personnes
+
+    AZOR.
+Oh ! Oui, je les connais toutes, deux noires et une blanche.
+
+    MESRIN.
+Moi, c'est la même chose, d'où venez-vous ?
+
+    AZOR.
+Du monde.
+
+    MESRIN.
+Est-ce du mien ?
+
+    AZOR.
+Ah ! Je n'en sais rien, car il y en a tant !
+
+    MESRIN.
+Qu'importe ? Votre mine me convient, mettez votre main dans la mienne, il faut nous aimer.
+
+    AZOR.
+Oui-da ; vous me réjouissez, je me plais à vous voir sans que vous ayez des charmes.
+
+    MESRIN.
+Ni vous non plus ; je ne me soucie pas de vous, sinon que vous êtes bonhomme.
+
+    AZOR.
+Voilà ce que c'est, je vous trouve de même, un bon camarade, moi un autre bon camarade, je me moque du visage.
+
+    MESRIN.
+Eh ! Quoi donc, c'est par la bonne humeur que je vous regarde ; à propos, prenez-vous vos repas ?
+
+    AZOR.
+Tous les jours.
+
+    MESRIN.
+Eh bien ! Je les prends aussi ; prenons-les ensemble pour notre divertissement, afin de nous tenir gaillards ; allons, ce sera pour tantôt : nous rirons, nous sauterons, n'est-il pas vrai ? J'en saute déjà.
+Il saute.
+
+
+    AZOR, IL SAUTE AUSSI.
+Moi de même, et nous serons deux, peut-être quatre, car je le dirai à ma blanche qui a un visage : il faut voir ! Ah ! Ah ! C'est elle qui en a un qui vaut mieux que nous deux.
+
+    MESRIN.
+Oh ! Je le crois, camarade, car vous n'êtes rien du tout, ni moi non plus, auprès d'une autre mine que je connais, que nous mettrons avec nous, qui me transporte, et qui a des mains si douces, si blanches, qu'elle me laisse tant baiser !
+
+    AZOR.
+Des mains, camarade ? Est-ce que ma blanche n'en a pas aussi qui sont célestes, et que je caresse tant qu'il me plaît ? Je les attends.
+
+    MESRIN.
+Tant mieux, je viens de quitter les miennes, et il faut que je vous quitte aussi pour une petite affaire ; restez ici jusqu'à ce que je revienne avec mon Adine, et sautons encore pour nous réjouir de l'heureuse rencontre.
+Ils sautent tout deux en riant.
+
+Ah ! Ah ! Ah !
+
+
+## SCÈNE XIV. Azor, Mesrin, Eglé.
+
+    EGLÉ, S’APPROCHANT.
+Qu'est-ce que c'est que cela : qui plaît tant ?
+
+    MESRIN, LA VOYANT.
+Ah ! Le bel objet qui nous écoute !
+
+    AZOR.
+C'est ma blanche, c'est Eglé.
+
+    MESRIN, À PART.
+Eglé, c'est là ce visage fâché ?
+
+    AZOR.
+Ah ! Que je suis heureux !
+
+    EGLÉ, S’APPROCHANT.
+C'est donc un nouvel ami qui nous a apparu tout d'un coup ?
+
+    AZOR.
+Oui, c'est un camarade que j'ai fait, qui s'appelle homme, et qui arrive d'un monde ici près.
+
+    MESRIN.
+Ah ! Qu'on a de plaisir dans celui-ci !
+
+    EGLÉ.
+En avez-vous plus que dans le vôtre ?
+
+    MESRIN.
+Oh ! Je vous assure.
+
+    EGLÉ.
+Eh bien ! L'homme, il n'y a qu'à y rester.
+
+    AZOR.
+C'est ce que nous disions, car il est tout à fait bon et joyeux ; je l'aime, non pas comme j'aime ma ravissante Eglé que j'adore, au lieu qu'à lui je n'y prends seulement pas garde, il n'y a que sa compagnie que je cherche pour parler de vous, de votre bouche, de vos yeux, de vos mains, après qui je languissais.
+Il lui baise une main.
+
+
+    MESRIN LUI PREND L’AUTRE MAIN.
+Je vais donc prendre l'autre.
+Il baise cette main, Eglé rit, et ne dit mot.
+
+
+    AZOR, LUI REPRENANT CETTE MAIN.
+Oh ! Doucement, ce n'est pas ici votre blanche, c'est la mienne, ces deux mains sont à moi, vous n'y avez rien.
+
+    EGLÉ.
+Ah ! Il n'y a pas de mal ; mais, à propos, allez vous-en, Azor, vous savez bien que l'absence est nécessaire, il n'y a pas assez longtemps que la nôtre dure.
+
+    AZOR.
+Comment ! Il y a je ne sais combien d'heures que je ne vous ai vue.
+
+    EGLÉ.
+Vous vous trompez, il n'y a pas assez longtemps que, vous dis-je ; je sais bien compter, et ce que j'ai résolu je le veux tenir.
+
+    AZOR.
+Mais vous allez rester seule.
+
+    EGLÉ.
+Eh bien ! Je m'en contenterai.
+
+    MESRIN.
+Ne la chagrinez pas, camarade.
+
+    AZOR.
+Je crois que vous vous fâchez contre moi.
+
+    EGLÉ.
+Pourquoi m'obstinez-vous ? Ne vous a-t-on pas dit qu'il n'y a rien de si dangereux que de nous voir ?
+
+    AZOR.
+Ce n'est peut-être pas la vérité.
+
+    EGLÉ.
+Et moi je me doute que ce n'est pas un mensonge.
+Carise paraît ici dans l'éloignement et écoute.
+
+
+    AZOR.
+Je pars donc pour vous complaire, mais je serai bientôt de retour, allons, camarade, qui avez affaire, venez avec moi pour m'aider à passer le temps.
+
+    MESRIN.
+Oui, mais...
+
+    EGLÉ, SOURIANT.
+Quoi ?
+
+    MESRIN.
+C'est qu'il y a longtemps que je me promène.
+
+    EGLÉ.
+Il faut qu'il se repose.
+
+    MESRIN.
+Et j'aurais empêché que la belle femme ne s'ennuie.
+
+    EGLÉ.
+Oui, il empêcherait.
+
+    AZOR.
+N'a-t-elle pas dit qu'elle voulait être seule ? Sans cela, je la désennuierais encore mieux que vous. Partons !
+
+    EGLÉ, À PART ET DE DÉPIT.
+Partons !
+
+
+## SCÈNE XV. Carise, Eglé.
+
+    CARISE, APPROCHE ET REGARDE EGLÉ QUI RÊVE.
+À quoi rêvez-vous donc ?
+
+    EGLÉ.
+Je rêve que je ne suis pas de bonne humeur.
+
+    CARISE.
+Avez-vous du chagrin ?
+
+    EGLÉ.
+Ce n'est pas du chagrin non plus, c'est de l'embarras d'esprit.
+
+    CARISE.
+D'ou vient-il ?
+
+    EGLÉ.
+Vous nous disiez tantôt qu'en fait d'amitié on ne sait ce peut arriver ?
+
+    CARISE.
+Il est vrai.
+
+    EGLÉ.
+Eh bien ! Je ne sais ce qui m'arrive.
+
+    CARISE.
+Mais qu'avez-vous ?
+
+    EGLÉ.
+Il me semble que je suis fâchée contre moi, que je suis fâchée contre Azor, je ne sais à qui j'en ai.
+
+    CARISE.
+Pourquoi fâchée contre vous ?
+
+    EGLÉ.
+C'est que j'ai dessein d'aimer toujours Azor, et j'ai peur d'y manquer.
+
+    CARISE.
+Serait-il possible ?
+
+    EGLÉ.
+Oui, j'en veux à Azor, parce que ses manières en sont cause.
+
+    CARISE.
+Je soupçonne que vous lui cherchez querelle.
+
+    EGLÉ.
+Vous n'avez qu'a me répondre toujours de même, je serai bientôt fâchée contre vous aussi.
+
+    CARISE.
+Vous êtes en effet de bien mauvaise humeur ; mais que vous a fait Azor ?
+
+    EGLÉ.
+Ce qu'il m'a fait ? Nous convenons de nous séparer : il part, il revient sur-le-champ, il voudrait toujours être là ; à la fin, ce que vous lui avez perdit lui arrivera.
+
+    CARISE.
+Quoi ? Vous cesserez de l'aimer ?
+
+    EGLÉ.
+Sans doute ; si le plaisir de se voir s'en va quand on le prend trop souvent, est-ce ma faute à moi ?
+
+    CARISE.
+Vous nous avez soutenu que cela ne se pouvait pas.
+
+    EGLÉ.
+Ne me chicanez donc pas ; que savais-je ? Je l'ai soutenu par ignorance.
+
+    CARISE.
+Eglé, ce ne peut pas être son trop d'empressement à vous voir qui lui nuit auprès de vous, il n'y a pas assez longtemps que vous le connaissez.
+
+    EGLÉ.
+Pas mal de temps ; nous avons déjà eu trois conversations ensemble, et apparemment que la longueur des entretiens est contraire.
+
+    CARISE.
+Vous ne dites pas son véritable tort, encore une fois.
+
+    EGLÉ.
+Oh ! Il en a encore un et même deux, il en a je ne sais combien : premièrement, il m'a contrariée ; car mes mains sont à moi, je pense, elles m'appartiennent, et il défend qu'on les baise !
+
+    CARISE.
+Et qui est-ce qui a voulu les baiser ?
+
+    EGLÉ.
+Un camarade qu'il a découvert tout nouvellement, et qui s'appelle homme.
+
+    CARISE.
+Et qui est aimable ?
+
+    EGLÉ.
+Oh ! Charmant, plus doux qu'Azor, et qui proposait aussi de demeurer pour me tenir compagnie ; et ce fantasque d'Azor ne lui a permis ni la main, ni la compagnie, l'a querellé et l'a emmené brusquement sans consulter mon désir : ah ! Ah ! Je ne suis donc pas ma maîtresse ? Il ne se fie donc pas à moi ? Il a donc peur qu'on ne m'aime ?
+
+    CARISE.
+Non, mais il a craint que son camarade ne vous plût.
+
+    EGLÉ.
+Eh bien ! Il n'a qu'a me plaire davantage, car à l'égard d'être aimée, je suis bien aise de l'être, je le déclare, et au lieu d'un camarade, en eût-il cent, je voudrais qu'ils m'aimassent tous, c'est mon plaisir ; il veut que ma beauté soit pour lui tout seul, et moi je prétends qu'elle soit pour tout le monde.
+
+    CARISE.
+Tenez, votre dégoût pour Azor ne vient pas de tout ce que vous dites là, mais de ce que vous aimez mieux à présent son camarade que lui.
+
+    EGLÉ.
+Croyez-vous ? Vous pourriez bien avoir raison.
+
+    CARISE.
+Eh ! Dites-moi, ne rougissez-vous pas un peu de votre inconstance ?
+
+    EGLÉ.
+Il me parait que oui, mon accident me fait honte, j'ai encore cette ignorance-là.
+
+    CARISE.
+Ce n'en est pas une, vous aviez tant promis de l'aimer constamment.
+
+    EGLÉ.
+Attendez, quand je l'ai promis, il n'y avait que lui, il fallait donc qu'il restât seul, le camarade n'était pas de mon compte.
+
+    CARISE.
+Avouez que ces raisons-là ne sont point bonnes, vous les aviez tantôt réfutées d'avance.
+
+    EGLÉ.
+Il est vrai que je ne les estime pas beaucoup ; il y en a pourtant une excellente, c'est que le camarade vaut mieux qu'Azor.
+
+    CARISE.
+Vous vous méprenez encore là-dessus, ce n'est pas qu'il vaille mieux, c'est qu'il a l'avantage d'être nouveau venu.
+
+    EGLÉ.
+Mais cet avantage-là est considérable, n'est-ce rien que d'être nouveau venu ? N'est-ce rien que d'être un autre ? Cela est fort joli, au moins, ce sont des perfections qu'Azor n'a pas.
+
+    CARISE.
+Ajoutez que ce nouveau venu vous aimera.
+
+    EGLÉ.
+Justement, il m'aimera, je l'espère, il a encore cette qualité-là.
+
+    CARISE.
+Au lieu qu'Azor n'en est pas à vous aimer.
+
+    EGLÉ.
+Eh ! Non, car il m'aime déjà.
+
+    CARISE.
+Quels étranges motifs de changement ! Je gagerais bien que vous n'en êtes pas contente.
+
+    EGLÉ.
+Je ne suis contente de rien, d'un côté, le changement me fait peine, de l'autre, il me fait plaisir ; je ne puis pas plus empêcher l'un que l'autre ; ils sont tous deux de conséquence ; auquel des deux suis-je le plus obligée ? Faut-il me faire de la peine ? Faut-il me faire du plaisir ? Je vous défie de le dire.
+
+    CARISE.
+Consultez votre bon coeur, vous sentirez qu'il condamne votre inconstance.
+
+    EGLÉ.
+Vous n'écoutez donc pas ; mon bon coeur le condamne, mon bon coeur l'approuve, il dit oui, il dit non, il est de deux avis, il n'y a donc qu'a choisir le plus commode.
+
+    CARISE.
+Savez-vous le parti qu'il faut prendre ? C'est de fuir le camarade d'Azor ; allons, venez ; vous n'aurez pas la peine de combattre.
+
+    EGLÉ, VOYANT VENIR MESRIN.
+Oui, mais nous fuyons bien tard : voilà le combat qui vient, le camarade arrive.
+
+    CARISE.
+N'importe, efforcez-vous, courage ! Ne le regardez pas.
+
+
+## SCÈNE XVI. Mesrou, Mesrin, Eglé, Carise.
+
+    MESROU, DE LOIN, VOULANT RETENIR MESRIN, QUI SE DÉGAGE.
+Il s'échappe de moi, il veut être inconstant, empêchez-le d'approcher.
+
+    CARISE, À MESRIN.
+N'avancez pas.
+
+    MESRIN.
+Pourquoi ?
+
+    CARISE.
+C'est que je vous le défends ; Mesrou et moi, nous devons avoir quelque autorité sur vous, nous sommes vos maîtres.
+
+    MESRIN, SE RÉVOLTANT.
+Mes maîtres ! Qu'est-ce que c'est qu'un maître ?
+
+    CARISE.
+Eh bien ! Je ne vous le commande plus, je vous en prie, et la belle Eglé joint sa prière à la mienne.
+
+    EGLÉ.
+Moi ! Point du tout, je ne joins point de prière.
+
+    CARISE, À EGLÉ, À PART.
+Retirons-nous, vous n'êtes pas encore sûre qu'il vous aime.
+
+    EGLÉ.
+Oh ! Je n'espère pas le contraire, il n'y a qu'à lui demander ce qui en est. Que souhaitez-vous, le joli camarade ?
+
+    MESRIN.
+Vous voir, vous contempler, vous admirer, vous appeler mon âme.
+
+    EGLÉ.
+Vous voyez bien qu'il parle de son âme ; est-ce que vous m'aimez ?
+
+    MESRIN.
+Comme un perdu.
+
+    EGLÉ.
+Ne l'avais-je pas bien dit ?
+
+    MESRIN.
+M'aimez-vous aussi ?
+
+    EGLÉ.
+Je voudrais bien m'en dispenser si je le pouvais, à cause d'Azor qui compte sur moi.
+
+    MESROU.
+Mesrin, imitez Eglé, ne soyez point infidèle.
+
+    EGLÉ.
+Mesrin ! L'homme s'appelle Mesrin !
+
+    MESRIN.
+Eh ! Oui.
+
+    EGLÉ.
+L'ami d'Adine ?
+
+    MESRIN.
+C'est moi qui l'étais, et qui n'ai plus besoin de son portrait.
+
+    EGLÉ LE PREND.
+Son portrait et l'ami d'Adine ! Il a encore ce mérite-là ; ah ! Ah ! Carise, voila trop de qualités, il n'y a pas moyen de résister ; Mesrin, venez que je vous aime.
+
+    MESRIN.
+Ah ! Délicieuse main que je possède !
+
+    EGLÉ.
+L'incomparable ami que je gagne !
+
+    MESROU.
+Pourquoi quitter Adine ? Avez-vous à vous plaindre d'elle ?
+
+    MESRIN.
+Non, c'est ce beau visage-là qui veut que je la laisse.
+
+    EGLÉ.
+C'est qu'il a des yeux, voilà tout.
+
+    MESRIN.
+Oh ! Pour infidèle je le suis, mais je n'y saurais que faire.
+
+    EGLÉ.
+Oui, je l'y contrains, nous nous contraignons tous deux.
+
+    CARISE.
+Azor et elle vont être au désespoir.
+
+    MESRIN.
+Tant pis.
+
+    EGLÉ.
+Quel remède ?
+
+    CARISE.
+Si vous voulez, je sais le moyen de faire cesser leur affliction avec leur tendresse.
+
+    MESRIN.
+Eh bien ! Faites.
+
+    EGLÉ.
+Eh ! Non, je serai bien aise qu'Azor me regrette, moi ; ma beauté le mérite ; il n'y a pas de mal aussi qu'Adine soupire un peu, pour lui apprendre à se méconnaître.
+
+
+## SCÈNE XVII. Mesrin, Eglé, Carise, Azor, Mesrou.
+
+    MESROU.
+Voici Azor.
+
+    MESRIN.
+Le camarade m'embarrasse, il va être bien étonné.
+
+    CARISE.
+À sa contenance, on dirait qu'il devine le tort que vous lui faites.
+
+    EGLÉ.
+Oui, il est triste ; ah ! Il y a bien de quoi.
+Azor s'avance honteux ; Eglé continue.
+
+Êtes-vous bien fâché, Azor ?
+
+    AZOR.
+Oui, Eglé.
+
+    EGLÉ.
+Beaucoup ?
+
+    AZOR.
+Assurément.
+
+    EGLÉ.
+Il y paraît, eh ! Comment savez-vous que j'aime Mesrin ?
+
+    AZOR, ÉTONNÉ.
+Comment ?
+
+    MESRIN.
+Oui, camarade.
+
+    AZOR.
+Eglé vous aime, elle ne se soucie plus de moi ?
+
+    EGLÉ.
+Il est vrai.
+
+    AZOR, GAI.
+Eh ! Tant mieux ; continuez, je ne me soucie plus de vous non plus, attendez-moi, je reviens.
+
+    EGLÉ.
+Arrêtez donc, que voulez-vous dire, vous ne m'aimez plus, qu'est-ce que cela signifie ?
+
+    AZOR, EN S’EN ALLANT.
+Tout à l'heure vous saurez le reste.
+
+
+## SCÈNE XVIII. Mesrou, Carise, Eglé, Mesrin.
+
+    MESRIN.
+Vous le rappelez, je pense, eh ! D'où vient ? Qu'avez-vous affaire à lui, puisque vous m'aimez ?
+
+    EGLÉ.
+Eh ! Laissez-moi faire, je ne vous en aimerai que mieux, si je puis le ravoir, c'est seulement que je ne veux rien perdre.
+
+    CARISE ET MESROU, RIANT.
+Eh ! Eh ! Eh ! Eh !
+
+    EGLÉ.
+Le beau sujet de rire !
+
+
+## SCÈNE XIX. Mesrou, Carise, Eglé, Mesrin, Adine, Azor.
+
+    ADINE, EN RIANT.
+Bonjour, la belle Eglé, quand vous voudrez vous voir, adressez-vous à moi, j'ai votre portrait, on me l'a cédé.
+
+    EGLÉ, LUI JETANT LE SIEN.
+Tenez, je vous rends le vôtre, qui ne vaut pas la peine que je le garde.
+
+    ADINE.
+Comment ! Mesrin, mon portrait ! Et comment l'a-t-elle ?
+
+    MESRIN.
+C'est que je l'ai donné.
+
+    EGLÉ.
+Allons, Azor, venez que je vous parle.
+
+    MESRIN.
+Que vous lui parliez ! Et moi ?
+
+    ADINE.
+Passez ici, Mesrin, que faites-vous là, vous extravaguez, je pense.
+
+
+## SCÈNE DERNIÈRE. Mesrou, Carise, Eglé, Mesrin, Le Prince, Hermiane, Adine, Meslis, Dina, Azor.
+
+    HERMIANE, ENTRANT AVEC VIVACITÉ.
+Non, laissez-moi, Prince je n'en veux pas voir davantage ; cette Adine et cette Eglé me sont insupportables, il faut que le sort soit tombé sur ce qu'il y aura jamais de plus haïssable parmi mon sexe.
+
+    EGLÉ.
+Qu'est-ce que c'est que toutes ces figures-là, qui arrivent en grondant ? Je me sauve.Ils veulent tous fuir.
+
+    CARISE.
+Demeurez tous, n'ayez point de peur ; voici de nouveaux camarades qui viennent, ne les épouvantez point, et voyons ce qu'ils pensent.
+
+    MESLIS, S’ARRÊTANT AU MILIEU DU THÉÂTRE.
+Ah ! Chère Dina, que de personnes !
+
+    DINA.
+Oui, mais nous n'avons que faire d'elles.
+
+    MESLIS.
+Sans doute, il n'y en a pas une qui vous ressemble. Ah ! C'est vous, Carise et Mesrou, tout cela est-il hommes ou femmes ?
+
+    CARISE.
+Il y a autant de femmes que d'hommes ; voilà les unes, et voici les autres ; voyez, Meslis, si parmi les femmes vous n'en verriez pas quelqu'une qui vous plairait encore plus que Dina, on vous la donnerait.
+
+    EGLÉ.
+J'aimerais bien son amitié.
+
+    MESLIS.
+Ne l'aimez point, car vous ne l'aurez pas.
+
+    CARISE.
+Choisissez-en une autre.
+
+    MESLIS.
+Je vous remercie, elles ne me déplaisent point, mais je ne me soucie pas d'elles, il n'y a qu'une Dina dans le monde.
+
+    DINA, JETANT SON BRAS SUR LE SIEN.
+Que c'est bien dit !
+
+    CARISE.
+Et vous, Dina, examinez.
+
+    DINA, LE PRENANT PAR-DESSOUS LE BRAS.
+Tout est vu ; allons-nous-en.
+
+    HERMIANE.
+L'aimable enfant ! Je me charge de sa fortune.
+
+    LE PRINCE.
+Et moi de celle de Meslis.
+
+    DINA.
+Nous avons assez de nous deux.
+
+    LE PRINCE.
+On ne vous séparera pas ; allez, Carise, qu'on les mette à part et qu'on place les autres suivant mes ordres.
+Et à Hermiane.
+
+Les deux sexes n'ont rien à se reprocher, Madame : vices et vertus, tout est égal entre eux.
+
+    HERMIANE.
+Ah ! Je vous prie, mettez-y quelque différence : votre sexe est d'une perfidie horrible, il change à propos de rien, sans chercher même de prétexte.
+
+    LE PRINCE.
+Je l'avoue, le procédé du vôtre est du moins plus hypocrite, et par là plus décent, il fait plus de façon avec sa conscience que le nôtre.
+
+    HERMIANE.
+Croyez-moi, nous n'avons pas lieu de plaisanter. Partons.

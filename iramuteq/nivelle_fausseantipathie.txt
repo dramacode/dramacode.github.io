@@ -1,0 +1,2798 @@
+
+
+**** *book_ *id_I01 *act_I *date_1744
+
+-*who_legenie
+On ne se plaindra plus que je suis indocile.
+Sur le goût du public je vais être éclairci :
+Lui-même, il m'apprendra ce secret difficile...
+Que vois-je ? La Folie et la Bon-Sens aussi.
+
+**** *book_ *id_I02 *act_I *date_1744
+
+-*who_lafolie
+Si je n'étais pas la Folie,
+Oh ! Je voudrais être Thalie :
+Son projet est digne de moi.
+
+-*who_legenie
+Voulez-vous bien me dire en quoi ?
+
+-*who_lafolie
+Ah ! L'extravagance est complète.
+
+-*who_legenie
+Si vous ne daignez pas vous en expliquer mieux...
+
+-*who_lafolie
+Comment ? Vous ajournez le public en ces lieux,
+Pour le mettre sur la sellette ;
+Et lui faire avouer en quoi, comment, par où,
+On peut le contenter ? Eh ! Mais rien n'est plus fou.
+Demander au public le secret de lui plaire !
+Vous allez bien l'embarrasser.
+
+-*who_legenie
+Vous m'étonnez. Puis-je mieux faire ?
+À qui faut-il donc m'adresser ?
+
+-*who_lafolie
+À tout autre. Sait-il ce qu'il veut, ce qu'il aime,
+Lui, qui ne fut jamais d'accord avec lui-même ?
+Ne lui demandez pas ce qu'il ne jamais sut.
+Ce qui le détermine est toujours imprévu :
+Le caprice est son guide et sa loi naturelle :
+Son goût est pour lui-même une énigme éternelle.
+
+-*who_lebonsens
+Le public n'est pas tel que vous le dépeignez ;
+Du moins, le véritable : et vous vous méprenez.
+
+-*who_lafolie
+Qu'appelez-vous le véritable ?
+Combien en tentez-vous ?
+
+-*who_lebonsens
+      Autant qu'il est de gens,
+Dont les goûts sont entre eux plus ou moins différents,
+Le moindre cercle usurpe un nom si respectable ;
+C'est là qu'un suffisant décide à tout hasard,
+Suivant les préjugés, les goûts, et les usages
+De tous ces différents et faux aéropages,
+Chaque société forme un public à part :
+Mais il en est un autre ; et c'est le véritable,
+Le moins nombreux de tous, et le plus redoutable ;
+Qui sait ce qui lui plaît, qui sait ce qu'il lui faut,
+Qui, tous les jours ici, le déclare assez haut.
+N'attendez pas de lui ces louanges frivoles,
+Ces ris contagieux, ces éclats indécents ;
+Enfants de l'ignorance, ennemis du bon-sens,
+Qu'excite tous les jours aux pièces les plus folles
+Un premier mouvement qui ne se soutient pas.
+Sa joie et ses plaisirs ne sont point un délire,
+Un accès passager qui n'a qu'un faux appas :
+Il ne rougit jamais de ce qui l'a fait rire ;
+Ce public m'appartient, les autres sont à vous.
+
+-*who_lafolie
+Bon-Sens, vous radotez. Ils m'appartiennent tous.
+De quel droit venez-vous ici me tenir tête.
+
+-*who_lebonsens
+Ou par droit naturel, ou par droit de conquête.
+
+-*who_lafolie
+Vous allez discourir, et m'ennuyer à mort.
+Eh, que m'importe, à moi, d'avoir raison, ou tort ?
+Ici la préséance entre nous est réglée.
+
+-*who_lebonsens
+Ne vous lassez-vous point de vous y voir sifflée ?
+Vous l'êtes tous les jours ; jamais je ne le fus.
+
+-*who_lafolie
+On m'aime ; et l'on vous craint : voilà la différence.
+Lorsque vous paraissez, on baille ; et rien de plus.
+Ah ! Je ressens déjà l'effet de sa présence.
+Oh ! Vous allez jouer un rôle fort plaisant.
+
+-*who_lebonsens
+On va plaider ma cause, et j'y serai présent.
+
+-*who_lafolie
+Tant pis.
+
+-*who_lebonsens
+      Peut-être.
+
+**** *book_ *id_I03 *act_I *date_1744
+
+-*who_lacritique
+      Ah ! Serviteur, Déesse.
+
+-*who_lafolie
+D'où vient donc que ces gens lui font tant de caresses ?
+
+-*who_lacritique
+Ah ! Parbleu, mon Patron, je vous sers assez bien,
+Envers et contre-tous ; je ne ménage rien.
+Vous êtes ce que j'ai de plus cher au monde.
+Sans cesse, à tout propos, je critique, je fronde.
+Malheur à tous les sots, y compris les auteurs ;
+Sans compter les admirateurs. ;
+Quand, suivant leur coutume, ils vous font quelque outrage,
+Ventrebleu ! Je m'élève, et contre eux je fais rage.
+
+-*who_lebonsens
+Je vous suis obligé. Mais loin de me servir,
+Si vous continuez, vous me ferez haïr.
+
+-*who_laprecieuse
+Le sexe dont je suis ne vous rend guère hommage :
+Mais je déroge à notre usage,
+Et mets en non-valeur ma dispense de vous.
+Je veux bien vous devoir mes charmes les plus doux.
+
+-*who_ladmirateur
+Madame fait valoir le moindre bagatelle.
+Personne, en vérité, ne s'exprime comme elle.
+
+-*who_lacritique
+Tant pis, morbleu.
+
+-*who_lafolie
+      Voyons ; ce n'est pas d'aujourd'hui
+Que je vois les plus fous se réclamer de lui.
+
+-*who_lebourgeois
+Touchez-là, notre ami ; je suis aussi le vôtre.
+Demandez à ma femme, à qui, soir et matin,
+je vous prône sans cesse; et c'est, comme dit l'autre,
+Perdre son temps et son latin.
+
+-*who_legenie
+Vous savez l'embarras que mon emploi me donne ;
+Je suis chargé du soin de vos amusements.
+Je voudrais, s'il se peut, ne déplaire à personne ;
+Et réunir enfin vos applaudissements.
+Donnez m'en la secret ; vous le savez ?
+
+-*who_tous
+      Sans doute.
+
+-*who_legenie
+Convenez entre vous ; déterminez ma route ;
+Et vous serez servis au gré de vos désirs.
+Dites-moi votre goût ; ordonnez vos plaisirs.
+
+-*who_lafolie
+Qui, mieux que moi, peut vous le dire ?
+N'est-ce pas moi qui les inspire ?
+
+-*who_lebourgeois
+Or sus, pour commencer, tout d'abord je conclus
+Que la meilleure pièce est où l'on rit le plus.
+Pour moi, la plus joyeuse est celle où je me livre.
+Du reste, serviteur ; je m'ennuie en entrant ;
+Et fut-elle un chef-d'oeuvre, et propre à faire un livre,
+Malgré moi, ventrebleu, je baille, en admirant.
+
+-*who_ladmirateur
+Oui, j'aimerais assez une pièce égayée.
+
+-*who_lebourgeois
+En un mot, j'aime à rire, à gorge déployée.
+
+-*who_laprecieuse
+Est-ce qu'on rit encore ?
+
+-*who_lebourgeois
+      Est-ce qu'on ne rit plus ?
+Vous me la donnez belle ! Et, par quelle aventure...
+
+-*who_laprecieuse
+La joie est tombée en route.
+
+-*who_lebourgeois
+Et le Bon-Sens aussi. Je m'en moque. Au surplus,
+Je veux rire ; ou sambleu ! Je prendrai ma revanche.
+Monsieur l'ordonnateur, adieu, jusqu'à dimanche.
+
+**** *book_ *id_I04 *act_I *date_1744
+
+-*who_lebonsens
+Et d'un public.
+
+-*who_lafolie
+      Eh bien ? Celui-là par hasard
+N'est-il point à vous ?
+
+-*who_lebonsens
+      Non : je n'y prends point de part.
+
+-*who_lafolie
+Ainsi du reste.
+      À vous, caustique impitoyable.
+
+-*who_legenie
+Dites-nous votre avis. Que trouvez-vous de bon ?
+
+-*who_lecritique
+Rien.
+
+-*who_legenie
+      Rien ?
+
+-*who_lecritique
+      Oui, rien de bon, ni même de passable.
+
+-*who_legenie
+Vous ne louez donc jamais ?
+
+-*who_lecritique
+      Non;
+Je n'en eux de mes jours la sotte complaisance.
+
+-*who_legenie
+Quoi, Vous n'approuvez rien ?
+
+-*who_lecritique
+      Je n'ai jamais été
+Réduit à cette extrémité :
+Et pour n'y pas tomber, je blâme tout d'avance.
+Le titre de l'ouvrage, et le nom de l'auteur,
+Suffisent pour cela, quand on est connaisseur.
+C'est le Bon-Sens qui fait que jamais je ne loue.
+
+-*who_lebonsens
+Moi ? Soyez assuré que je vous désavoue.
+Je n'approuvai jamais cette extrême rigueur
+Que l'on exerce autant par air, que par humeur.
+Mais au contraire, je me prête
+en faveur des beautés, je fais grâce aux défauts.
+Trop de délicatesse est souvent indiscrète.
+Un dégoût général désigne un esprit faux.
+Qui n'est jamais content, n'est pas digne de l'être.
+Tel épluche un ouvrage, en croyant s'y connaître ;
+Et trouve des défauts partout,
+Qui ne sont bine souvent que dans son propre goût,
+
+-*who_lecritique
+Ah ! Vous êtes trop bon.
+
+-*who_legenie
+      Et vous, trop intraitable.
+Je n'ai rien à vous demander.
+
+-*who_lecritique
+Cependant je puis vous aider
+A donner un spectacle un peu moins détestable.
+Je connais le public. Il est malin, cruel,
+Il aime à voir la bile avec le fiel.
+Quittez tout autre goût ; embrassez la critique ;
+Armez-vous de ses traits ;devenez satyrique.
+Ce genre a trouvé du crédit ;
+On l'a rendu facile : Il y faut moins d'esprit.
+
+-*who_lebonsens
+La critique, autrefois moins âpre et moins amère,
+Instruisait les auteurs, savait les redresser ;
+Comme on voit une tendre mère
+Corriger des enfants qu'elle craint de blesser.
+Alors, elle pouvait briller sur le théâtre :
+Mais son utilité n'a pas duré longtemps ;
+Ce n'est plus aujourd'hui qu'une affreuse marâtre,
+Qui dès le berceau même étouffe ses enfants.
+
+-*who_lafolie
+Vous voulez supprimer la plaisir de médire ?
+
+-*who_lecritique
+Qu'importe que l'on nuise aussitôt qu'on fait rire ?
+Tombera sur ce peuple d'auteurs
+À qui l'appas du gain et sa fainéantise
+Font apporter ici sottise sur sottise,
+Dont ils savent trop bien empaumer les acteurs :
+Aides-les à se faire une guerre cruelle ;
+Empoisonnez encore leur haine mutuelle.
+Et la rage qu'ils ont à s'entre-déchirer ;
+N'épargnez à pas un la plus forte satyre ;
+Fut-ce même Apollon. Le public aime à rire
+De ceux que tous les jours on lui voit admirer.
+
+-*who_legenie
+En suivant votre avis...
+
+-*who_lecritique
+      Vous ne pouvez mieux faire.
+
+-*who_legenie
+Je serai donc sûr de vous plaire.
+
+-*who_lecritique
+Point du tout. Quant à moi, ce que je vous en dis,
+C'est pour votre profit. Jamais je n'applaudis.
+
+**** *book_ *id_I05 *act_I *date_1744
+
+-*who_ladmirateur
+Cette guerre d'auteurs aurait bien son mérite.
+
+-*who_laprecieuse
+Vous moquez vous des spectateurs ?
+Quoi ? Nous aurons toujours des bisbilles d'auteurs ?
+Ces sujets sont trop bas. La Public vous en quitte,
+Génie, élevez-vous à des objets plus grands.
+Prenez le ton philosophique ;
+Ajustez la métaphysique
+À l'usage du sexe et des honnêtes gens ;
+Pour la mettre à portée, ôtez-lui ses échasses :
+Mais ne lui donnez pas des allures trop basses.
+Ayez le badinage abstrait et clair-obscur,
+Toujours enveloppé d'une tendre crépuscule.
+Faites-vous deviner, vous plairez à coup sûr.
+Ayez pour votre langage un peu moins de scrupule ;
+Osez-en disposer comme de votre bien :
+Pour dire ce qu'on veut, c'est l'unique moyen.
+D'heureuses libertés sont bine récompensées,
+Soyez maniéré dans vos réflexions,
+Et toujours imprévu dans vos expressions.
+Agences votre style à l'air de vos pensées.
+
+-*who_ladmirateur
+Ah miracle !
+
+-*who_lebonsens
+      Monsieur entend apparemment
+Ce jargon-là tout couramment ?
+
+-*who_ladmirateur
+J'imagine l'entendre, ou du moins je l'admire.
+
+-*who_lafolie
+Hé ! Mais rien n'est plus clair. Je ne pourrais mieux dire.
+Ah ! Vous haussez les épaules à tout ce que l'on dit.
+Ce langage n'est pas la vôtre :
+C'est celui de l'esprit. Quiconque en parle un autre ;
+Encanaille à la fois sa langue et son esprit.
+
+-*who_legenie
+Donnerons-nous encor dans ce tatillonnage ?
+
+-*who_lebonsens
+La nouveauté du genre a d'abord ébloui ;
+Mais le charme est évanoui.
+La raison a repris son ancien langage ;
+Et c'est celui de vos aïeux :
+Il doit être pour vous aussi bon que pour eux.
+
+-*who_laprecieuse
+J'en appelle.
+
+-*who_legenie
+      À qui donc ?
+
+-*who_laprecieuse
+      Au bon sens.
+
+-*who_legenie
+      C'est lui-même.
+Qui vient de décider.
+
+-*who_laprecieuse
+      Votre erreur est extrême.
+Je m'y connais : ce n'est point lui.
+Ismène ouvre, ce soir, son cercle académique.
+On doit en sa faveur y relire aujourd'hui
+Une pièce d'un goût Métaphysi-comique ;
+C'est de l'esprit tout pur, passé par l'alambic,
+Trop fin pour le goût du public ;
+La Bon-sens ; mais je dis le bon-sens véritable.
+
+-*who_lebonsens
+Vous verrez que nous sommes deux.
+
+-*who_lafolie
+Autant que le public ; cela n'est pas douteux.
+
+-*who_laprecieuse
+Il y fera, vous dis-je, et ce juge équitable
+Approuvera mon goût, et me rendra raison
+De l'accueil si bourgeois qu'on me fait en son nom.
+
+**** *book_ *id_I06 *act_I *date_1744
+
+-*who_lebonsens
+La bonne connaissance !
+
+-*who_lafolie
+      Allez, ma chère amie ;
+J'aurai soin de me rendre à votre Académie.
+
+-*who_ladmirateur
+Pour moi, l'on satisfait aisément mes désirs.
+Je suis de tous les goûts et de tous les plaisirs.
+J'ai pour tous les auteurs une estime infinie :
+Je ne sifflai jamais aucun d'eux de ma vie.
+Tout homme qui s'adonne à divertir autrui,
+Mérite que l'on ait un peu d'égard pour lui.
+Aussi malgré ma femme, et ses façons maussades ;
+J'en ai toujours sans vanité
+Chez moi deux ou trois accolades,
+À l'heure du dîner, pour leur commodité,
+Mon cuisinier fait des merveilles.
+Ces messieurs, à leur tour, enchantent nos oreilles.
+Ainsi...
+
+-*who_legenie
+      De vos avis on se passera bien.
+Quiconque admire tout, ne se connaît à rien.
+
+**** *book_ *id_I07 *act_I *date_1744
+
+-*who_lepetitmaitre
+Je viens tard ; excusez. Je me sauve au plus vite.
+Déesse, vous voilà ! Je vous en félicite.
+Je vous trouve partout ou l'on trouve quelqu'un,
+Quel est ce visage importun ?
+Je n'ai vu sa figure en aucun lieu du monde.
+Cela sent son poète une lieue à sa ronde.
+
+-*who_lafolie
+C'est toute une autre espèce, un être de raison.
+
+-*who_lebonsens
+Avez qui vous n'aurez jamais de liaison.
+
+-*who_lepetitmaitre
+Qu'on nomme ?
+
+-*who_lafolie
+      Le Bon-Sens.
+
+-*who_lepetitmaitre
+      Oui, je me le rappelle.
+
+-*who_lebonsens
+C'est du plus loin.
+
+-*who_lepetitmaitre
+      Quelle nouvelle ?
+Hé bien ? Qu'a-t-on conclu ?
+
+-*who_legenie
+      Rien encore entre nous.
+
+-*who_lepetitmaitre
+Qu'attend-on ?
+
+-*who_legenie
+      Votre avis.
+
+-*who_lepetitmaitre
+      Soit.
+
+-*who_legenie
+      D'abord, aimez-vous ?...
+
+-*who_lepetitmaitre
+Beaucoup.
+
+-*who_legenie
+      La comédie ?
+
+-*who_lepetitmaitre
+      Oui, quand elle est meublée.
+
+-*who_legenie
+Qui vous la fait aimer ?
+
+-*who_lepetitmaitre
+      Le monde, et l'assemblée.
+
+-*who_legenie
+Mais...
+
+-*who_lepetitmaitre
+      Le monde se cherche, et je le cherche aussi.
+
+-*who_legenie
+C'est là tout ce qui peut vous attirer ici ?
+
+-*who_lepetitmaitre
+Oui, l'affluence est tout ce qui m'est nécessaire.
+Je jette, en arrivant, un coup d'oeil circulaire.
+Nous ne valons qu'autant que nous nous faisons voir,
+Si quelque femme d'importance,
+Fière d'être à la Cour un peu sur le trottoir,
+Veut éluder ma révérence,
+Je me fais un plaisir d'abaisser son orgueil
+Jusqu'à me saluer : je fais le guerre à l'oeil,
+Je le tiens en arrêt, et je m'opiniâtre
+Tant, qu'au milieu d'un acte enfin l'on m'aperçoit.
+Je me lève, on me rend le salut qu'on reçoit ;
+Cela fait un coup de théâtre.
+
+-*who_legenie
+Et la pièce ?
+
+-*who_lepetitmaitre
+      Elle va son train, et moi, le mien.
+
+-*who_legenie
+Sans qu'elle vous occupe en rien ?
+Car vous n'êtes pas homme à prendre la fatigue
+D'entrer dans les détails, et d'en suivre l'intrigue.
+
+-*who_lepetitmaitre
+L'intrigue ! Ah ! Palsambleu, l'auteur peut arranger
+La sienne pour le mieux. J'ai la mienne à songer.
+Avant qu'on soit au fait des nouvelles courantes,
+Que l'on ait décliné vingt femmes différentes,
+À qui, de loge en loge, on va faire sa cour,
+Et qu'on ait au foyer été faite son tour,
+La pièce est aux abois ; le dernier acte expire.
+
+-*who_legenie
+Et vous jugez alors ?...
+
+-*who_lepetitmaitre
+      Définitivement.
+
+-*who_legenie
+Mais encor, que pouvez-vous dire ?
+
+-*who_lepetitmaitre
+Ma décision roule alternativement
+Sur ces deux mots...
+
+-*who_legenie
+      Qui sont ?
+
+-*who_lepetitmaitre
+      Divin, ou détestable,
+Et souvent le dernier est le plus véritable.
+
+-*who_legenie
+Ah ! Je vous reconnais pour être d'un pays,
+Où d'abord on sait tout, sans avoir rien appris.
+
+-*who_lepetitmaitre
+Enfin, les spectacles que j'aime,
+Sont ceux où la presse est extrême.
+
+-*who_legenie
+Pour l'attiser ici, savez-vous un moyen ?
+
+-*who_lepetitmaitre
+Parbleu, rien n'est plus simple.
+
+-*who_legenie
+      Hé bien ?
+
+-*who_lepetitmaitre
+Les nouveautés sont toujours belles.
+Sans vous embarrasser du choix,
+Ne nous donnez jamais que des pièces nouvelles ;
+Affichez-les d'abord pour la dernière fois ;
+Prenez-double, rendez vos plaisirs impayables ;
+Exceptez la parterre : il pourrait au surplus
+Vous envoyer à tous les diables.
+C'est du reste à quoi je conclus.
+
+**** *book_ *id_I08 *act_I *date_1744
+
+-*who_lafolie
+Voilà bien des publics qui passent en revue.
+Vous voyez qu'à la ville aussi bien qu'à la cour,
+Vous n'étrennerez pas, si cela continue.
+
+-*who_lebonsens
+Peut-être que j'aurai mon tour.
+
+-*who_legenie
+Passons à vous, Monsieur.
+
+-*who_lhommesense
+      Moi, sur cette matière
+Je n'ai qu'un faible usage, et fort peu de lumière.
+Je pourrais me tromper.
+
+-*who_lafolie
+      C'en est le pis-aller.
+Cela ne doit jamais empêcher de parler.
+Comment ? Vous rougissez ?
+
+-*who_lhommesense
+      J'ai lieu d'être timide.
+
+-*who_lafolie
+On pense mal des gens qui n'osent dire un mot.
+
+-*who_lebonsens
+Souvent il n'en faut qu'un pour passer pour un sot.
+
+-*who_lafolie
+Bon, bon, dites toujours.
+
+-*who_lhommesense
+      Jamais je ne décide.
+
+-*who_lafolie
+Peut-on s'en empêcher ?
+
+-*who_lhommesense
+      J'écoute ce qu'on dit ;
+Et je tâche au surplus de la mettre à profit.
+
+-*who_lebonsens
+Cet homme, par hasard, serait-il raisonnable ?
+J'aime sa retenue, et sa timidité.
+Quand on compte si peu sur sa capacité,
+On ne dit jamais rien qui ne soit convenable.
+
+-*who_lhommesense
+Je vais, puisque vous l'exigez,
+Dire à peu près ce que je pense,
+Mais ce sera sans conséquence.
+Ce ne sont que des préjugés.
+
+-*who_legenie
+Sur le théâtre, enfin, que faut-il vous produire ?
+
+-*who_lhommesense
+Je cherche à m'amuser ; encor plus à m'instruire.
+
+-*who_lafolie
+À s'instruire ! Cet homme est de mauvaise foi.
+
+-*who_lhommesense
+La vrai, le naturel ont des charmes pour moi.
+Renvoyez aux forains ces folles rapsodies,
+Que l'on veut bien nommer du nom de comédie,
+Qu'on ne voit qu'une fois, que jamais on ne lit,
+Où l'esprit et le coeur ne font aucun profit.
+Quoi ? Nous aurons des farces surchargées ?
+Une intrigue cousue à des scène brochées ?
+Des suppositions, des caractères faux,
+Absurdes, indécents, chargés outre mesure ;
+Des portraits inventés, dont jamais la nature
+N'a fourni les originaux ?
+Hé quoi ? Dans le siècle où nous sommes,
+Quelle nécessité d'imaginer des hommes !
+De pousser leur folie au suprême degré !
+C'est assez des travers que chacun d'eux se donne.
+Peignez les tels qu'ils sont. Un ridicule outré
+Fait rire, et cependant ne corrige personne.
+Je m'explique peut-être avec témérité.
+Bien d'autres cependant osent penser de même,
+Toutefois je n'en tire aucune autorité.
+À vos décisions, je soumets mon système.
+
+**** *book_ *id_I09 *act_I *date_1744
+
+-*who_lebonsens
+Ah ! Je le reconnais à ce discours sensé.
+La voilà ce public que j'avais annoncé,
+À qui par préférence, il faut cherche à plaire.
+
+-*who_legenie
+Que ne m'est-il permis d'y borner tous mes soins ?
+
+-*who_lafolie
+Lui ? C'est un franc visionnaire,
+Et, de tous les publics, celui qui vaut le moins ;
+Car il est sérieux. Avec la multitude
+On ne gagne souvent que de l'incertitude.
+Mais j'ai pitié de vous. Je serai votre appui.
+Laissez-moi sur la scène un souverain empire ;
+Surtout que le Bon-sens pour jamais se retire :
+Je ne veux rien avoir à débattre avec lui.
+À ce prix, j'entreprends d'entretenir Thalie,
+Et Melpomène encor, par dessus le marché.
+
+-*who_legenie
+Je ne puis, Au on-sens je suis trop attaché.
+Mais souffre qu'avec lui je vous réconcilie.
+Cet accord vous convient, et ferait mon bonheur.
+
+-*who_lafolie
+Qui, moi ? Que je m'unisse avec un raisonneur.
+Qui s'oppose sans cesse à mon heureux délire,
+Dont le but est d'apprendre à se passer de rire ?
+Un pédant, dont le front toujours chargé d'ennui,
+Écarte le plaisir qui vient s'offrir à lui ?
+La fléau de tous ceux qui deviennent sa proie,
+Qui dispense à regret, et mettre la joie
+Que je répands à pleines mains ?
+Ce ridicule accord déplairait aux humains.
+
+-*who_legenie
+Vous vous corrigerez tous les deux l'un et l'autre.
+
+-*who_lafolie
+Entre nous, en un mot, il faut se déclarer.
+
+-*who_legenie
+Je n'oserais vous séparer.
+Son secours m'est utile, et j'ai besoin du vôtre.
+
+-*who_lafolie
+Hé bien ! Éprouve donc sa persécution,
+Insensé ; je te livre à sa direction.
+Bientôt tes spectateurs aussi froids que des ombres,
+Encor plus ennuyés que les mânes plaintifs,
+Épars sur les rivages sombres,
+Rappelleront ici les plaisirs fugitifs :
+J'aurai conduit ailleurs leur folâtre cohorte.
+À commencer dès aujourd'hui,
+Ce lieu va devenir le temple de l'ennui.
+Tu finiras par mettre écriteau sur la porte.
+
+**** *book_ *id_I10 *act_I *date_1744
+
+-*who_legenie
+C'est prédiction pourrait bien s'accomplir.
+Je crains qu'elle aille s'établir...
+
+-*who_lebonsens
+Laisser, laissez aller cette folle immortelle :
+On peut ici se passer d'elle.
+Vous ne manquerez pas de prodiges nouveaux.
+Plus d'un vrai nourrisson des filles de Mémoire
+Pour quelque temps encore assurent votre gloire.
+Si ce n'est pas assez, ils auront des rivaux.
+J'en sais qui n'ont besoin que d'un peu plus d'audace ;
+Et je vais les encourager.
+
+**** *book_ *id_I11 *act_I *date_1744
+
+-*who_legenie
+Je suis dépourvu. Que faut-il que je fasse ?
+La Folie en tous temps, est bonne à ménager.
+
+**** *book_ *id_I12 *act_I *date_1744
+
+-*who_legenie
+Déesse, vous voyez mon embarras extrême.
+
+-*who_thalie
+Oui, le public n'est pas d'accord avec lui-même.
+
+-*who_legenie
+J'ai reçu vingt avis tous différents entre eux :
+Un seul m'a paru bon ; mais il est dangereux.
+
+-*who_thalie
+Il faut pourtant le suivre.
+
+-*who_legenie
+      Où prendrez-vous des pièces ?
+
+-*who_thalie
+Les Bon-sens t'a promis ses soins officieux.
+
+-*who_legenie
+Oui, mais en attendant l'effet de ses promesses,
+Je n'ai rien à donner.
+
+-*who_thalie
+      Eh bien ? Faute de mieux,
+Prends cette comédie.
+
+-*who_legenie
+      Est-ce une bonne aubaine ?
+
+-*who_thalie
+C'est l'essai d'un auteur que je connais à peine.
+
+-*who_legenie
+Tant pis.
+
+-*who_thalie
+      Au bas du Pinde on m'a fait ce présent.
+
+-*who_legenie
+Si c'en est un.
+
+-*who_thalie
+      Peut-être. Et je n'ose à présent
+Jurer de rien, en fait d'ouvrage,
+Le Public qu'on prévient, refuse son suffrage.
+Entre-nous, celui-ci paraît hasardeux.
+Je ne sais ;j'y voudrais une fable mieux faite,
+Un peu plus de comique, et l'intrigue plus nette.
+
+-*who_legenie
+Allons, prenons toujours ; les temps sont malheureux.
+
+**** *book_ *id_II01 *act_II *date_1744
+
+-*who_nerine
+Ton maître et ma maîtresse auraient bien dû s'aimer.
+C'est lui...
+
+-*who_frontin
+      C'est elle...
+
+-*who_nerine
+      Quoi ?
+
+-*who_frontin
+      Qui devait l'enflammer.
+Léonore a toujours une mélancolie
+Qui lui fait bien du tort. L'amour suit la folie.
+On veut qu'une maîtresse ait l'air vif, sémillant ;
+Un peu moins de bon sens, un peu plus de brillant.
+
+-*who_nerine
+Un fou cherche une folle, et la trouve de reste.
+L'état de Léonore est cruel et funeste.
+Frontin, toute sa vie, est...
+
+-*who_frontin
+      Défiez-vous-en ;
+L'histoire d'une femme est toujours un roman.
+
+-*who_nerine
+Oui. Le sien commença par un sot mariage.
+Ce ne fut point l'amour qui la mit en ménage ;
+Et jamais on n'en eut un dépit plus mortel.
+Il fallut obéir, et marcher à l'autel :
+Mais, en sortant du temple, un jeune téméraire,
+À qui, sans le savoir, elle avait trop su plaire,
+Furieux de la perdre, attaqua son époux,
+L'obligea de se battre, et tomba sous ses coups.
+Pour dérober sa tête à l'injuste poursuite
+D'un ennemi puissant, cet époux prit la fuite.
+Léonore aussitôt saisit sa liberté ;
+Et s'enfuit en secret dans un cloître écarté,
+Sous ce nom inconnu, qu'elle conserve encore.
+Que ne ferait-on pas pour fuir ce qu'on abhorre ?
+Sa mère, mais trop tard, en mourut de regret.
+Géronte apprit enfin notre asile secret,
+Et vint nous apporter...
+
+-*who_frontin
+      Un brevet de veuvage ?
+
+-*who_nerine
+Oui. Nous vîmes la fin d'un si long esclavage.
+Cet oncle généreux nous retira chez lui.
+
+-*who_frontin
+Mais je ne vois point là tant de sujet d'ennui ;
+Car Léonore est veuve, et dans le plus bel âge.
+
+-*who_nerine
+Douze ans d'absence ont mis tous ses biens au pillage :
+C'est pour les recueillir, ou du moins leurs débris,
+Que Géronte est allé faire un tour à Paris.
+S'il ne réussit pas dans ses justes poursuites,
+Vois l'état malheureux où nous serons réduites.
+Géronte a pour sa nièce une tendre amitié ;
+Mais tu sais qu'on ne peut vivre avec sa moitié.
+Il le faudra, peut-être. Est-il enfer plus rude,
+Que d'être à la merci d'une maudite prude,
+Toujours contente d'elle, et jamais du prochain ;
+Dont la vertu bruyante insulte au genre humain ?
+Joins à l'humeur d'Orphise un sujet infaillible,
+Qui la rendra pour nous encore plus terrible :
+Elle a, d'un premier lit, une fille à pourvoir.
+
+-*who_frontin
+Ceci m'ouvre l'esprit ; et je crois entrevoir...
+Que je n'étais qu'un sot... oui.
+
+-*who_nerine
+      Cela peut bien être.
+
+-*who_frontin
+Je crois que Léonore arrête ici mon maître ;
+Mais qu'à cause d'Orphise il tient ses feux secrets.
+Quand Damon acheta cette terre ici près,
+Tu sais que le château n'était pas praticable ;
+Et qu'il était besoin pour le rendre habitable...
+
+-*who_nerine
+Oui, je sais qu'il fallut le faire rétablir.
+
+-*who_frontin
+Géronte, en attendant, s'en vint nous accueillir ;
+Et, comme un bon voisin, nous offrir un asile.
+Nous vînmes donc chez lui. Mais notre domicile
+Est depuis quelque tems en état d'y loger :
+Mon maître cependant paraît n'y pas songer.
+
+-*who_nerine
+Ta remarque est juste. Oui... mais la fille d'Orphise...
+
+-*who_frontin
+Julie ? Ah ! Si mon maître en avait l'âme éprise,
+Son amour oserait paraître à découvert.
+Léonore est trop fière ; et sa fierté nous perd.
+
+-*who_nerine
+Les femmes ne sont pas tout ce qu'elles paraissent.
+J'en aurai le coeur net.
+
+-*who_frontin
+      Les femmes se connaissent.
+
+-*who_nerine
+Léonore m'appelle. Adieu. Cela suffit.
+Je m'en vais travailler sur ce que tu m'as dit.
+
+**** *book_ *id_II02 *act_II *date_1744
+
+-*who_nerine
+Tout ce que ma mémoire à présent me rappelle,
+Me confirme encor plus cette heureuse nouvelle.
+
+**** *book_ *id_II03 *act_II *date_1744
+
+-*who_nerine
+Vous m'avez appelée.
+
+-*who_leonore
+      Oui. Je voulais sortir.
+Mais de la part d'Orphise on vient de m'avertir
+Qu'elle veut me parler ; ainsi je vais l'attendre.
+Pour toi, l'on ne sait plus désormais où te prendre.
+Tu sembles te lasser de l'état où je suis ;
+Et pourtant je m'en plains tout le moins que je puis.
+
+-*who_nerine
+J'étais avec Frontin, puisqu'il faut vous le dire :
+Je lui parlais de vous.
+
+-*who_leonore
+      Je sais ce qui l'attire.
+
+-*who_nerine
+Nous disions que Damon aurait dû vous aimer :
+Il a pourtant bien fait de ne pas s'enflammer.
+
+-*who_leonore
+Tu n'es pas raisonnable.
+
+-*who_nerine
+      Il serait trop à plaindre.
+
+-*who_leonore
+Va, ce malheur pour lui ne fut jamais à craindre.
+Tu m'assurais pourtant...
+
+-*who_nerine
+      Oui, je croyais d'abord
+Que Damon vous aimait, madame, j'avais tort.
+
+-*who_leonore
+J'y prends peu d'intérêt. Mais sur quelle assurance
+Accuses-tu Damon de tant d'indifférence ?
+
+-*who_nerine
+Si l'on aimait encore, ainsi que Céladon,
+Peut-être je pourrais en soupçonner Damon.
+Mais de pareils amans ne sont plus qu'en idée.
+À présent une intrigue est bientôt décidée :
+On ne se donne plus le tems d'être enchaîné :
+L'amour prend son essor aussitôt qu'il est né.
+Dès qu'on aime, on en fait un récit infidèle ;
+On exagère un feu qui n'est qu'une étincelle ;
+Pour mieux en assurer l'objet de son amour,
+Un amant en instruit et la ville et la cour.
+La sotte vanité conduit tout le mystère ;
+Et la fatuité l'empêche de se taire.
+Si Damon vous aimait, il en eût fait l'aveu.
+Ainsi nous nous trompions... cela vous fâche un peu ?
+
+-*who_leonore
+Vous vous émancipez. M'avez-vous reconnue
+Pour être, en ma faveur, follement prévenue ?
+
+-*who_nerine
+Ainsi vous croyez donc mon discours conséquent.
+Non, ma chère maîtresse, il est extravagant,
+Insoutenable.
+
+-*who_leonore
+      En quoi ?
+
+-*who_nerine
+      C'est que Damon vous aime.
+
+-*who_leonore
+Mais accorde-toi donc, Nérine, avec toi-même.
+
+-*who_nerine
+Un tiers voit mieux que ceux qui sont dans l'embarras.
+
+-*who_leonore
+Tu viens de me prouver...
+
+-*who_nerine
+      Que Damon n'avait pas
+Les défauts des amans qu'en ce siècle on voit naître.
+Quoi ? Parce que l'on n'est ni fat, ni petit-maître,
+On ne peut vous aimer ? L'obstacle est imprévu.
+
+-*who_leonore
+Par où peux-tu juger...
+
+-*who_nerine
+      Par tout ce que j'ai vu.
+
+-*who_leonore
+Mais encore, quoi donc ?
+
+-*who_nerine
+      Premièrement, vos charmes.
+
+-*who_leonore
+Je n'ai jamais compté sur de si faibles armes.
+
+-*who_nerine
+J'ai démêlé, vous dis-je, à travers ses respects,
+Des soupirs étouffés, des regards indirects,
+Un silence pénible, autant qu'involontaire,
+Des désirs, des égards, du trouble, du mystère,
+Un intérêt secret, un soin particulier.
+Un homme indifférent est bien plus familier.
+Ce sont-là mes garants. Tout cela fait en somme
+De l'amour ; et, de plus, un amant honnête homme.
+J'ai vu bien plus encore.
+
+-*who_leonore
+      Achève ; dis-moi tout.
+
+-*who_nerine
+Que cet amant serait assez de votre goût.
+
+-*who_leonore
+Ah ! C'est trop voir. Finis ; je ne veux plus t'entendre.
+Je te défends... hélas ! Que puis-je lui défendre ?
+Quoi ! De faibles attraits flétris par les douleurs,
+Ces yeux accoutumés à pleurer mes malheurs,
+Pourraient causer encore une faiblesse ?
+
+-*who_nerine
+Et surtout à l'objet pour qui l'amour vous blesse ?
+Car il faut vous aider.
+
+-*who_leonore
+      Nérine, tu me perds.
+
+-*who_nerine
+De quoi m'accusez-vous ? Croyez que je vous sers.
+Léonore et Damon sont formés l'un pour l'autre.
+C'est moi qui vous apprends sa défaite et la vôtre.
+L'hymen peut réparer les maux qu'il vous a faits.
+Il forme quelquefois des liens pleins d'attraits.
+Quand on dépend de soi, pour soi l'on se marie.
+
+-*who_leonore
+Ne me rappelle plus le malheur de ma vie,
+Ni les égarements d'un âge sans raison.
+À peine j'achevais ma première saison,
+On me tira du cloître ; et j'entrai dans le monde,
+Avec les préjugés dont la jeunesse abonde.
+Une mère absolue, abusant de ses droits,
+Avait promis ma main, sans consulter mon choix.
+Je me prévins d'abord. Mon dépit fut extrême.
+Je croyais qu'on devait m'obtenir de moi-même.
+Je croyais mériter du moins quelques soupirs :
+Mais, loin de s'abaisser à flatter mes désirs,
+On ne m'honora pas d'une seule entrevue.
+Je fus au temple ; et là, sans détourner la vue,
+Victime dévouée au cruel intérêt,
+On me fit malgré moi prononcer mon arrêt.
+Quel hymen ! Ou plutôt quelle union fatale !
+L'aversion, sans doute, entre nous fut égale.
+En sortant de l'autel, Sainflore disparut.
+Moi-même je m'enfuis ; et mon époux mourut.
+Mais j'ai connu l'erreur de mon antipathie,
+Je crois, si mon époux n'eût pas perdu la vie,
+Que sans doute l'hymen, mon devoir, et le temps,
+Auraient mis dans mon coeur de plus doux sentiments.
+
+-*who_nerine
+En tout cas, par bonheur, il est en l'autre monde.
+Pour vous montrer sur quoi mon préjugé se fonde,
+Au sujet de Damon, il faut vous expliquer
+Ce que m'a dit Frontin. Il m'a fait remarquer
+Que Damon s'accoutume à la maison d'Orphise.
+
+-*who_leonore
+Peut-être que sa fille...
+
+-*who_nerine
+      Eh ! Souffrez qu'on vous dise...
+Mais on vient.
+
+-*who_leonore
+      C'est, sans doute, Orphise que j'attends !
+
+-*who_nerine
+Le diable qui l'amène a bien mal pris son temps.
+
+**** *book_ *id_II04 *act_II *date_1744
+
+-*who_orphise
+Vous pouvez demeurer. Vous avez quelque adresse ;
+J'aurai besoin de vous, et de votre maîtresse.
+Madame, vous savez qu'autant que je le puis,
+Je me fais un devoir d'adoucir vos ennuis.
+Entre ma fille et vous tout mon coeur se partage.
+J'espère que Géronte en fera davantage ;
+Qu'il vous fera rentrer dans vos biens usurpés.
+Si par malheur enfin ses soins étaient trompés,
+Vous deviendrez, madame, une seconde fille,
+Que la fortune aura mise dans ma famille ;
+Et vos plus grands malheurs m'attacheront à vous.
+
+-*who_nerine
+Que diantre signifie un exorde si doux ?
+
+-*who_leonore
+Madame...
+
+-*who_orphise
+      Je prévois ce que vous m'allez dire.
+
+-*who_leonore
+Ma reconnaissance...
+
+-*who_orphise
+      Est telle que je désire.
+
+-*who_leonore
+De grâce...
+
+-*who_orphise
+      Épargnez-vous de vains remerciements.
+C'est tout ce que je crains quand j'oblige les gens.
+
+-*who_leonore
+Souffrez...
+
+-*who_orphise
+      Je viens d'apprendre un départ qui m'afflige.
+Damon va nous quitter. Et c'est ce qui m'oblige
+À vous venir prier d'empêcher son départ.
+
+-*who_leonore
+Pour vos moindres désirs il aura plus d'égard.
+
+-*who_orphise
+N'importe. Je voudrais, sans être compromise,
+Que vous employassiez ici votre entremise.
+
+-*who_leonore
+Madame, sur Damon, ai-je assez de crédit ?...
+
+-*who_orphise
+Assez, pour l'amener au point dont il s'agit.
+J'ai des desseins secrets qu'il faut que je vous dise.
+Connaissez-vous Damon ? Parlez avec franchise.
+
+-*who_leonore
+Je le crois honnête homme.
+
+-*who_orphise
+      Oh ! Je n'en doute pas.
+Le mystère a pour lui de furieux appas.
+Je m'y perds comme vous. Depuis qu'il nous fréquente,
+Il est d'une réserve incivile et piquante.
+
+-*who_leonore
+En quoi, madame ?
+
+-*who_orphise
+      En tout. En voici quelques traits.
+Il est homme de guerre, et n'en parle jamais.
+
+-*who_leonore
+Tous ses pareils devraient imiter sa prudence.
+
+-*who_orphise
+Quand on est noble, on peut en faire confidence.
+Il ne cite jamais ni lui, ni ses ayeux.
+
+-*who_leonore
+Ceux qui font autrement sont toujours ennuyeux.
+
+-*who_orphise
+Quand on est riche, est-il naturel qu'on s'en cache ?
+Le premier avantage est que chacun le sache.
+
+-*who_leonore
+Il n'appartient qu'aux sots d'en tirer vanité.
+
+-*who_orphise
+Ainsi vous approuvez sa singularité ?
+Tant mieux. Du reste, il est homme assez sociable.
+Je crois qu'on en peut faire un mari fort passable.
+
+-*who_leonore
+Plaît-il ?
+
+-*who_leonore
+      Rien.
+      Ciel ! De quoi va-t-elle me prier !
+
+-*who_orphise
+J'ai, comme vous savez, ma fille à marier.
+Et ce serait me faire un plaisir véritable
+De savoir si Damon est un parti sortable.
+En ce cas, agissez, madame ; servez-nous,
+Comme on vous servirait ; faites comme pour vous.
+
+-*who_nerine
+Sans doute, c'est à quoi vous devez vous attendre.
+
+-*who_orphise
+Je veux, de votre main, l'accepter pour mon gendre.
+Je crois qu'il va venir vous faire son adieu.
+Je sors ; il ne faut pas qu'il me trouve en ce lieu.
+Vous ne mettrez en jeu ni moi, ni la future.
+
+-*who_leonore
+En vérité, madame...
+
+-*who_orphise
+      En pareille aventure,
+Il faut avec adresse employer les détours.
+Tout homme qu'on recherche en abuse toujours :
+Se renchérit d'abord, sans valoir davantage :
+Et, de rien qu'il était, s'érige en personnage.
+Leur fatuité vient du cas que l'on en fait.
+Il faut les maîtriser, malgré que l'on en ait,
+Se les assujettir, les faire à son caprice.
+Nous perdons leur estime, en leur rendant justice ;
+Nous nous avilissons, si nous sentons leur prix ;
+Et la moindre indulgence attire leur mépris.
+Je vous laisse.
+
+**** *book_ *id_II05 *act_II *date_1744
+
+-*who_leonore
+      Nérine...
+
+-*who_nerine
+      Ah ! Rien n'est plus risible.
+Orphise vous procure un moyen infaillible
+De vous servir vous-même, en servant ses desseins.
+Voilà des intérêts remis en bonnes mains.
+
+-*who_leonore
+Quelle commission dangereuse et cruelle !
+Je ne puis y songer ni pour moi, ni pour elle.
+Oui, cette occasion n'est qu'un piége fatal.
+Je m'exposerais trop, je la servirais mal.
+Laissons aller Damon ; il faut que je l'évite.
+Imagine une excuse, et reçois sa visite.
+
+-*who_nerine
+Quel danger courez-vous ? Quoi ! Vous n'osez saisir
+La seule occasion qui peut vous éclaircir.
+
+-*who_leonore
+J'aime mieux à jamais ignorer ma victoire,
+Que de mettre en danger mon honneur et ma gloire.
+
+-*who_nerine
+À ne point voir Damon, ne vous obstinez plus.
+Que pourrait-il penser d'un semblable refus ?
+Cette affectation serait plus dangereuse.
+D'ailleurs, Madame Orphise en serait furieuse.
+Madame, il faut céder à la nécessité.
+Mais j'aperçois Damon.
+
+-*who_leonore
+      Que ne l'ai-je évité !
+
+**** *book_ *id_II06 *act_II *date_1744
+
+-*who_nerine
+Que deux amants sont sots, quand ils sont en présence !
+Il faut que je les aide à rompre le silence.
+On dit que vous allez chercher en d'autres lieux
+Une société qui vous amuse mieux.
+
+-*who_damon
+L'ennui n'habite point le séjour où vous êtes.
+Des motifs plus pressants, d'autres peines secrètes...
+
+-*who_nerine
+Quoi ! Vous partez, monsieur ?
+
+-*who_damon
+      Oui, madame, je fuis ;
+Je fais ce que je dois, et plus que je ne puis.
+
+-*who_nerine
+Si la maison vous plaît ?
+
+-*who_damon
+      Que trop ?
+
+-*who_nerine
+      Hé ! Qui vous presse ?
+
+-*who_damon
+Mon honneur, ma raison, le danger, ma faiblesse ;
+Votre repos, enfin.
+
+-*who_leonore
+      Mon repos, dites-vous ?
+
+-*who_damon
+Ah ! Madame, daignez m'écouter sans courroux.
+N'y cherchez point un sens coupable et téméraire.
+Oui, pour votre repos, ma fuite est nécessaire.
+Orphise dans ces lieux cherche à me retenir ;
+Et c'est ce qui m'a fait résoudre à me bannir.
+Car enfin je dois voir ce qu'on rend trop visible,
+Sa bonté m'est à charge, et vous serait nuisible.
+
+-*who_nerine
+Quoi ! Vous savez déjà le bien qu'elle vous veut ?
+
+-*who_damon
+Quelqu'un l'ignore-t-il ? Non, jamais on ne peut
+Avec plus de mystère, être plus indiscrète.
+Mais je ne puis répondre à ce qu'elle souhaite.
+
+-*who_leonore
+On croyait que Julie aurait dû vous charmer.
+Quoi ! Ses attraits naissants n'ont pu vous enflammer ?
+
+-*who_damon
+Ah ! Tout autre que moi doit lui rendre les armes.
+
+-*who_nerine
+Vous ne l'aimez donc pas ?
+
+-*who_damon
+      Non. J'échappe à ses charmes.
+Vous seriez exposée à des soupçons jaloux.
+Orphise, avec raison, n'accuserait que vous
+Du refus que je fais de prendre cette chaîne.
+Sa pénible amitié se changerait en haine.
+Sans compter d'autres maux trop aisés à prévoir,
+Je payerais trop cher le plaisir de vous voir.
+
+-*who_leonore
+Vous le voulez ? Il faut approuver votre zèle.
+
+-*who_nerine
+Allez, monsieur, allez où l'amour vous appelle.
+
+-*who_damon
+De quoi m'accusez-vous ? Je m'exile chez moi.
+D'ailleurs, si quelqu'objet me tenait sous sa loi,
+Hélas ! Je n'aurais point de retour à prétendre ;
+Mon coeur s'entretiendrait dans l'amour le plus tendre,
+Sans laisser éclater le moindre de ses feux.
+
+-*who_nerine
+Tenez monsieur, j'ai peine à croire au merveilleux :
+Tant de discrétion est hors de vraisemblance.
+
+-*who_leonore
+Sans entrer plus avant dans votre confidence,
+Puisque vous nous quittez, vous avez vos raisons.
+
+-*who_damon
+Moi, des raisons ? Je vois vos injustes soupçons.
+Vous croyez que je vole où mon bonheur m'appelle.
+Si vous saviez combien cette erreur m'est cruelle ! ...
+Puisque vous m'y forcez, apprenez mon état.
+Si j'aimais, mon amour éviterait l'éclat.
+Je dis plus. Mon aveu deviendrait un outrage,
+Qui déshonorerait l'objet de mon hommage.
+Mon vainqueur ne pourrait répondre à mon amour.
+Hé ! Que me servirait le plus tendre retour ?
+Il ferait le malheur de cette infortunée.
+Je gémis dans les fers d'un cruel hyménée.
+
+-*who_leonore
+Vous êtes marié ?
+
+-*who_damon
+      Je le suis. Mais enfin
+Un prompt événement peut changer mon destin.
+
+-*who_nerine
+Partez, monsieur, partez ; vous ne pouvez mieux faire.
+
+-*who_leonore
+Orphise approuvera ce départ nécessaire.
+
+-*who_damon
+Madame, j'obéis. J'espère un prompt retour.
+
+**** *book_ *id_II07 *act_II *date_1744
+
+-*who_leonore
+Il est donc marié ?... Que devient mon amour ?
+Nérine, je l'aimais... Sa présence funeste
+N'eût fait qu'entretenir un feu que je déteste.
+Est-ce là le bonheur dont mon coeur s'est flatté ?
+Rassure-moi ; je crains d'avoir trop éclaté.
+Ai-je pu contenir ma colère trop prompte ?
+N'en ai-je point trop dit ? Ah ! Je mourrais de honte.
+
+-*who_nerine
+Je ne puis qu'approuver un trop juste dépit.
+Mais quel sens peut avoir un mot qu'il vous a dit.
+Qu'un prompt événement peut changer sa fortune ?
+
+-*who_leonore
+Ah ! Ne te donne point une gêne importune.
+Quand la nécessité ramène ma raison,
+Cesse de retarder encor ma guérison.
+C'est assez... va chercher l'épouse de Géronte.
+De tout ce qui se passe, il faut lui rendre compte.
+Pour ne plus voir Damon, qui part dans un moment,
+Je vais me renfermer dans mon appartement.
+
+**** *book_ *id_II08 *act_II *date_1744
+
+-*who_frontin
+Ah ! Te voilà, Nérine ! Enseigne-moi mon maître.
+
+-*who_nerine
+Il faut que je t'étrangle. Approche, double traître.
+Ton maître est marié ; tu m'en fais un secret ?
+
+-*who_frontin
+Si j'en sais rien, je veux être étranglé tout net.
+Mon maître est un sournois comme on n'en trouve guère :
+Oui, je crois que le diable est son homme d'affaires.
+Je le trouvai jadis en pays étranger :
+Il n'a, depuis ce tems, cessé de voyager.
+Ce n'est que depuis peu, que nous sommes en France.
+Il n'a fait, que je sache, aucune connaissance ;
+Si ce n'est chez Géronte, où tu sais bien comment
+Il n'a pu refuser de prendre un logement.
+Oh ! S'il est marié, ce que je ne puis croire,
+Ce n'est pas de mon bail : c'est quelque vieille histoire...
+Bon ! Il n'a point de femme appartenante à lui ;
+Partout il a roulé sur le compte d'autrui.
+
+-*who_nerine
+C'est un fait. D'où viens-tu ?
+
+-*who_frontin
+      Je viens, à toute outrance,
+De chez cet avocat ici près en vacance ;
+J'y vais dix fois pour une, et toujours sans succès ;
+Mais à la fin...
+
+-*who_nerine
+      Ton maître a-t-il quelque procès ?
+
+-*who_frontin
+Ma foi, je ne sais point quelle est leur manigance.
+Le robin m'a donné ce paquet d'importance,
+En me disant : " voilà votre maître en repos...
+Mais, à quoi rêves-tu ? "
+
+-*who_nerine
+      C'est à certains propos...
+Pourrais-tu deviner ce que ce papier chante ?
+
+-*who_frontin
+Oui, si j'étais sorcier. Ah ! L'enquête plaisante !
+
+-*who_nerine
+Ah ! Tu n'es bon à rien. Va-t'en, sans différer.
+Je ne sais pas pourquoi j'ose encore espérer.
+
+**** *book_ *id_III01 *act_III *date_1744
+
+-*who_leonore
+Damon est-il parti ?
+
+-*who_nerine
+      Sans doute qu'il doit l'être.
+
+-*who_leonore
+Orphise ne vient point ?
+
+-*who_nerine
+      C'est qu'elle sait peut-être
+Tout ce que vous avez à lui dire. En tout cas...
+La voilà justement.
+
+-*who_leonore
+      Ne m'abandonne pas.
+
+**** *book_ *id_III02 *act_III *date_1744
+
+-*who_orphise
+Madame, en vérité, vous êtes admirable,
+Une personne unique, une femme adorable.
+
+-*who_leonore
+Des noms aussi flatteurs ne me conviennent point :
+Et vous me surprenez, madame, au dernier point.
+
+-*who_orphise
+Damon nous reste enfin, grâce à votre entremise :
+Si je le sais déjà, n'en soyez pas surprise.
+
+-*who_leonore
+Madame, excusez-moi...
+
+-*who_orphise
+      Ses gens l'ont dit aux miens.
+Les valets savent tout ; c'est d'eux que je le tiens.
+Vous me voyez sensible, on ne peut davantage.
+Allons, madame, il faut achever votre ouvrage.
+
+-*who_leonore
+Mon ouvrage ?
+
+-*who_orphise
+      Quoi donc ?
+
+-*who_leonore
+      Je n'y prends point de part.
+
+-*who_orphise
+Mais ne venez-vous pas d'empêcher son départ ?
+
+-*who_leonore
+Il vous plaît de le croire.
+
+-*who_orphise
+      Et de plus, j'en suis sûre.
+
+-*who_leonore
+Madame, il n'en est rien.
+
+-*who_orphise
+      Comment ?
+
+-*who_leonore
+      Non, je vous jure.
+
+-*who_orphise
+Damon reste pourtant ; les ordres sont donnez.
+
+-*who_leonore
+Cela peut être vrai ; mais vous me l'apprenez.
+Quoi, véritablement ?
+
+-*who_leonore
+      Je vous le certifie.
+Je n'ai parlé de rien.
+
+-*who_orphise
+      J'en ai l'âme ravie.
+Vous n'avez point écrit ?
+
+-*who_leonore
+      Encore moins.
+
+-*who_orphise
+      Tant mieux.
+Je connais le motif qui l'attache en ces lieux.
+Ma fille, j'en suis sûre, en a tout le mérite.
+Damon ne peut quitter un séjour qu'elle habite.
+Pour vous, madame, à qui cette affaire déplaît,
+Il faut vous dispenser d'y prendre d'intérêt.
+Oui, je n'ignore pas qu'une femme à votre âge,
+N'aime guère à jouer un second personnage.
+Elle voudrait que tout lui devînt personnel ;
+être l'unique but, l'objet perpétuel
+Où tendent tous les coeurs, les yeux et les oreilles ;
+Plaire, à l'exclusion de toutes ses pareilles ;
+N'en reconnaître aucune, et dominer partout.
+À votre âge, madame, on est fort de ce goût.
+
+-*who_leonore
+Oui, je sais qu'une femme aime un peu trop à plaire ;
+C'est de l'âge où je suis la faiblesse ordinaire.
+Dans l'arrière-saison, on ne fait qu'en changer ;
+Du monde qui nous quitte on cherche à se venger,
+Du plaisir qui nous fuit, des défauts qu'on regrette,
+Auxquels on voudrait bien être encore sujette.
+Alors, par désespoir et par nécessité,
+On se masque ; l'on prend un air d'autorité ;
+On se croit vertueuse en voulant le paraître,
+Tandis qu'au fond du coeur, on néglige de l'être ;
+Qu'au contraire on se fait un plaisir inhumain
+De nourrir son orgueil aux dépens du prochain.
+L'esprit de charité paraît une faiblesse ;
+Et la mauvaise humeur prend le nom de sagesse :
+Ainsi chaque âge apporte un travers différent.
+On échange un défaut contre un autre plus grand ;
+Et l'on corrige un vice avec un autre vice.
+Mais je veux vous forcer à me rendre justice.
+Un mot vous suffira, pour voir quel intérêt
+Je dois prendre à Damon.
+
+-*who_orphise
+      Voyons donc ce que c'est.
+
+-*who_leonore
+Apprenez que Damon ne peut être à Julie.
+
+-*who_orphise
+Qui l'en empêchera ? Pourquoi donc, je vous prie ?
+
+-*who_leonore
+Par un hymen secret il se trouve lié.
+
+-*who_orphise
+Bon ! Que me dites-vous ? Le traître est marié ?
+En secret.
+
+-*who_orphise
+      Avec vous ?
+
+-*who_leonore
+      Non, je vous en assure.
+Ainsi, vous voyez bien que c'est me faire injure.
+
+-*who_orphise
+Ah ! L'énigme est assez facile à deviner.
+Damon devait cesser de nous importuner.
+Il n'est point retenu par moi, ni par Julie ;
+Et cependant il reste.
+
+-*who_leonore
+      Ah ! Quelle calomnie !
+
+**** *book_ *id_III03 *act_III *date_1744
+
+-*who_leonore
+Je n'y saurais tenir ; je suis au désespoir.
+Quel trait injurieux ! En est-il un plus noir ?
+Il reste ; je l'ignore ; et l'on m'en fait un crime :
+Mon repos, mon honneur, tout en est la victime.
+
+-*who_nerine
+Vous connaissez Orphise, et sa malignité.
+
+-*who_leonore
+Et pouvais-je m'attendre à cette indignité,
+Et qu'on m'imputerait la dernière bassesse ?
+Nérine, quelle horreur ! On me croit la maîtresse
+D'un homme marié ?
+
+-*who_nerine
+      Ce trait est inouï.
+Une prude jamais n'a bien pensé d'autrui.
+
+-*who_leonore
+Que vais-je devenir ? Le bruit va s'en répandre.
+Orphise va le dire à qui voudra l'entendre.
+
+-*who_nerine
+Et l'on n'en croira rien.
+
+-*who_leonore
+      Ah ! Quelle est ton erreur ?
+C'est assez qu'une histoire attaque notre honneur,
+Elle passe aussitôt pour être véritable.
+Tout ce qui peut nous nuire, ou nous perdre, est croyable,
+On n'examine rien ; et la crédulité
+Va toujours contre nous jusqu'à l'absurdité.
+
+-*who_nerine
+Je ne m'étonne plus si tant d'infortunées
+Se plaignent, tous les jours, d'être à tort condamnées.
+Je vois bien à présent qu'une femme d'honneur,
+Avec son innocence, a besoin de bonheur.
+
+-*who_leonore
+Dis-moi la vérité. Ne m'as-tu point trahie ?
+
+-*who_nerine
+Moi, vous trahir, madame ? En quoi, je vous supplie ?
+
+-*who_leonore
+Damon devait partir. J'ai reçu ses adieux :
+Cependant il s'obstine à rester en ces lieux.
+N'aurais-tu point parlé ?
+
+-*who_nerine
+      Nullement, je vous jure.
+
+-*who_leonore
+Je ne sais que penser ; je ne sais que conclure.
+Me serais-je oubliée ?... Aurait-il deviné ?
+Dis-moi par quel motif il s'est déterminé ?
+Après tant de respect, d'où lui vient tant d'audace ?
+Il faut donc m'éloigner, il faut que je me chasse.
+Mais il devinera que c'est lui que je fuis.
+Il me suivra partout, puisqu'il reste où je suis.
+Va le trouver. Dis-lui... Non, il vaut mieux écrire.
+On ne dit par écrit que ce que l'on veut dire.
+Et toi, tu lui feras remettre mon billet.
+
+-*who_nerine
+Allez.
+
+**** *book_ *id_III04 *act_III *date_1744
+
+-*who_nerine
+      Je vais tâcher de trouver son valet.
+S'il est intelligent, il me pourrait instruire
+D'où vient ce changement, et qui peut le produire.
+
+**** *book_ *id_III05 *act_III *date_1744
+
+-*who_damon
+Faisons cesser enfin le bruit de mon trépas.
+Mon ennemi s'apaise après tant de débats.
+Celle à qui mon malheur avait uni ma vie,
+Se porte à dénouer la chaîne qui nous lie ;
+Du moins on se fait fort de lui faire agréer
+Ce projet, que ses gens viennent de m'envoyer.
+J'ai donné ma parole ; on répond de la sienne.
+Ainsi, dans quelque endroit que ma femme se tienne,
+Nous nous verrons bientôt, pour ne nous plus revoir.
+Mes amis en secret m'ont donné cet espoir.
+Qu'il m'est doux de briser une odieuse chaîne !
+Je tiens notre rupture infaillible et prochaine ;
+Il ne nous manque plus qu'une formalité
+Pour achever enfin notre félicité.
+En attendant, cessons une feinte importune :
+Allons à Léonore annoncer ma fortune.
+Avant que je lui dise et mon nom et mon rang,
+Pénétrons dans son coeur. C'est d'où mon sort dépend.
+Voyons si mon amour... mais j'aperçois Nérine.
+
+**** *book_ *id_III06 *act_III *date_1744
+
+-*who_damon
+Peut-on voir Léonore ?
+
+-*who_nerine
+      Ah ! Monsieur, j'imagine
+Que vous rêvez.
+
+-*who_damon
+      Je veux lui parler un moment.
+
+-*who_nerine
+Vous me faites frémir d'y penser seulement.
+
+-*who_damon
+Il faut que je la voie.
+
+-*who_nerine
+      Ah ! Je vous crois trop sage
+Pour oser à ses yeux vous offrir davantage.
+Votre présence ici cause assez d'embarras.
+
+-*who_damon
+De grâce, annonce-moi.
+
+-*who_nerine
+      Je ne le ferai pas.
+
+-*who_damon
+Que je lui dise un mot.
+
+-*who_nerine
+      Cela n'est pas possible.
+
+-*who_damon
+Il m'est de conséquence.
+
+-*who_nerine
+      Elle n'est pas visible.
+En vérité, monsieur, je ne vous comprends pas...
+Que cherchez-vous ?
+
+-*who_damon
+      Ma bague.
+
+-*who_nerine
+      Ah ! Je la vois là-bas,
+Ou je suis bien trompée. Oui, justement c'est elle.
+C'eût été grand dommage ; elle est vraiment fort belle.
+
+-*who_damon
+Elle est en bonnes mains ; et, puisqu'elle te plaît,
+Profite du présent que le hasard te fait.
+
+-*who_nerine
+Moi, que je la garde ?
+
+-*who_damon
+      Oui ; c'est une bagatelle :
+Nérine, je voudrais qu'elle eût été plus belle.
+Ce n'est qu'un faible essai du bien que je te veux.
+
+-*who_nerine
+Voilà ce qui s'appelle un homme dangereux.
+On ne saurait prévoir des tours de cette espèce.
+
+-*who_damon
+Puisqu'on ne peut parler à ta belle maîtresse,
+Tu lui donneras bien un billet de ma part.
+
+-*who_nerine
+Voilà donc l'encloueure ! Allons, à tout hasard.
+L'avez-vous ce billet ? Il faut que je m'acquitte.
+
+-*who_damon
+Je cours te le chercher, je reviens au plus vite.
+
+**** *book_ *id_III07 *act_III *date_1744
+
+-*who_nerine
+Je ne sais, à présent que j'ai le diamant,
+Je vois que je me suis oubliée un moment :
+Réfléchissons un peu sur mon étourderie.
+Je devais refuser cette galanterie.
+Mon petit intérêt m'a fait illusion.
+C'est la première fois... maudite occasion !
+Tu sais apprivoiser l'honneur le plus sauvage ;
+Tu mènes où tu veux la fille la plus sage.
+Sans toi, l'on pourrait l'être avec facilité.
+Je ne me croyais pas tant de fragilité.
+Cependant, si je rends la bague que j'ai prise
+Je répare une faute avec une sottise.
+Damon ne voudra pas reprendre son présent :
+Au contraire, il croira qu'il n'est pas suffisant.
+Il sera généreux ; je voudrai me défendre ;
+Il ne démordra pas, je finirai par prendre :
+Voilà pour cet article. Autre réflexion.
+Mais comment m'acquitter de ma commission ?
+
+**** *book_ *id_III08 *act_III *date_1744
+
+-*who_leonore
+Tiens, fais rendre à Damon...
+
+-*who_damon
+      Tiens, donne à ta maîtresse...
+
+-*who_nerine
+Donnez, je remettrai chacune à son adresse.
+
+-*who_leonore
+Damon !
+
+-*who_damon
+      Madame avait quelque ordre à me donner ?
+
+-*who_leonore
+Vous le deviez attendre ; et je dois m'étonner
+De n'avoir pas reçu cette marque d'estime.
+
+-*who_damon
+Une raison heureuse, ou du moins légitime,
+Dont je vais vous instruire...
+
+-*who_leonore
+      Épargnez-vous le soin
+D'un éclaircissement, dont je n'ai pas besoin.
+Nous nous devons toujours éviter l'un et l'autre.
+J'ai ma raison. Souffrez que j'ignore la vôtre.
+Partez, monsieur, partez ; et cessons de nous voir ;
+Que ce soit par égard, si ce n'est par devoir.
+C'est pour vous en prier que j'ose vous écrire.
+
+-*who_damon
+Mais...
+
+-*who_leonore
+      Vous ne devez plus avoir rien à me dire.
+
+-*who_damon
+Ah ! Madame...
+
+-*who_leonore
+      Damon ose me retenir ?
+
+-*who_damon
+Apprenez donc mon crime, avant de me punir.
+
+-*who_leonore
+J'ai lieu de m'offenser de votre résistance.
+
+-*who_damon
+Il est vrai. Pardonnez cette dernière instance.
+Il y va de mes jours. Permettez en partant,
+Qu'on vous dise un secret qui peut m'être important.
+
+-*who_leonore
+Je ne veux rien savoir...
+
+-*who_damon
+      Hélas ! Daignez m'entendre.
+Enfin, je puis céder à l'amour le plus tendre.
+Ces soupirs, si longtemps retenus dans mon coeur,
+Peuvent enfin paraître aux yeux de mon vainqueur.
+Moins je l'offense, et plus je ressens que je l'aime.
+Je n'ai plus désormais que sa rigueur extrême...
+
+-*who_nerine
+Votre épouse n'est plus ?
+
+-*who_damon
+      Ah ! Ce titre si doux
+Aurait dû ne jamais appartenir qu'à vous.
+Celle qui le portait n'a point perdu la vie ;
+Nous cédons l'un et l'autre à notre antipathie ;
+Et ces noeuds que l'hymen avait désavoués,
+Sont d'un commun accord entre nous dénoués.
+
+-*who_leonore
+Quoi ! Vous vous séparez ?
+
+-*who_damon
+      Une heureuse rupture
+Nous dégage tous deux d'une chaîne trop dure.
+Nos serments étaient nuls, ils ont été forcés ;
+Notre bouche à regret les avait prononcés.
+Nos coeurs ont réclamé contre la tyrannie
+De ceux à qui le ciel nous fit devoir la vie.
+La loi me restitue et ma main et mon coeur.
+Nous pouvons tous les deux nous choisir un vainqueur.
+Hélas ! Mon choix est fait ; et vous devez m'entendre.
+
+-*who_leonore
+C'est donc-là ce secret que vous vouliez m'apprendre ?
+Et vous croyez, monsieur, qu'il doit m'intéresser ?
+
+-*who_damon
+Quoi donc ! Ce faible espoir peut-il vous offenser ?
+
+-*who_leonore
+Malgré tous ces détours où votre esprit s'efforce,
+Ce que vous m'annoncez est toujours un divorce.
+Oui, tel que soit le nom dont vous les colorez,
+C'est votre épouse enfin que vous déshonorez.
+Vous prétendez, monsieur, me rendre la complice
+D'un coupable abandon fondé sur un caprice.
+C'est vous qui l'exigez. Peut-elle y consentir ?
+Je sens le désespoir qu'elle doit ressentir
+D'un si terrible affront. Je me mets à sa place.
+Pour elle enfin, monsieur, je vous demande grâce.
+Si vous n'aimiez ailleurs... ah ! N'en espérez rien.
+Elle m'accuserait... votre coeur est son bien.
+Loin de favoriser cette indigne rupture,
+Je ne puis profiter de sa triste aventure.
+
+-*who_damon
+N'appelez point divorce un accommodement.
+Quand je consens à rompre un faux engagement,
+Une chaîne, à tous deux également cruelle,
+Ce n'est point un affront ; c'est un bonheur pour elle.
+Vous n'avez jamais su, vous n'éprouverez point
+Que le plus grand malheur est celui d'être joint
+Au déplorable objet d'une haine invincible.
+
+-*who_leonore
+Quelle conformité.
+
+-*who_damon
+      Soyez-y donc sensible.
+Quand vous refuseriez de vous rendre à mes voeux,
+Nous ne romprons pas moins nos liens rigoureux.
+Ma femme n'eut pour moi qu'une haine mortelle ;
+C'est ce que vous avez de commun avec elle.
+
+-*who_leonore
+Dites-moi donc comment elle a pu vous haïr ?
+Vous me haïssez bien.
+
+-*who_leonore
+      Ah ! Laissez-moi vous fuir.
+Oublions-nous tous deux.
+
+-*who_damon
+      Moi, que je vous oublie ?
+Vous, sur qui je fondais le bonheur de ma vie,
+Qui seule avez trouvé le secret d'enflammer
+Un coeur que je croyais incapable d'aimer,
+Dont vous allez causer l'éternelle souffrance !
+Perd-on le souvenir, en perdant l'espérance ?
+Ce n'est qu'en expirant d'amour et de douleur,
+Que je puis oublier l'auteur de mon malheur.
+Vous l'apprendrez bientôt ; c'est l'espoir qui me reste.
+
+-*who_leonore
+N'ajoutez pas encore à mon état funeste
+Cet affreux désespoir.
+
+-*who_damon
+      C'est vous qui le causez.
+Ces frivoles raisons que vous me proposez,
+Qu'invente contre moi votre délicatesse,
+Ne l'emporteraient pas sur la moindre tendresse.
+De votre aversion, c'est le plus sûr garant.
+
+-*who_leonore
+Restez dans votre erreur, et vivez seulement.
+
+-*who_damon
+Ah ! Puis-je interpréter ce que je viens d'entendre ?
+Est-ce pitié ? Serait-ce un sentiment plus tendre ?
+Léonore, achevez.
+
+-*who_leonore
+      Damon...
+
+-*who_damon
+      Éclaircissez...
+
+-*who_leonore
+Que vois-je ! Orphise ? Adieu ; fuyez, disparaissez.
+
+**** *book_ *id_III09 *act_III *date_1744
+
+-*who_nerine
+Ferme, tenez-vous bien.
+
+-*who_orphise
+      Ce que j'ai vu m'enchante !
+
+-*who_nerine
+Quoi donc ?
+
+-*who_orphise
+      En vérité, l'attitude est touchante.
+Je venais vous marquer que j'avais du regret
+D'avoir conçu peut-être un soupçon indiscret.
+L'excuse n'a plus lieu.
+
+-*who_leonore
+      Pardonnez-moi, madame.
+
+-*who_orphise
+Vous souffrez que Damon vous parle de sa flamme ?
+
+-*who_leonore
+Je fais plus ; car je l'aime.
+
+-*who_orphise
+      Avez-vous oublié
+Que Damon, par malheur, est déjà marié ?
+Pour vous, apparemment, c'est une bagatelle ;
+Ou bien vous m'avez dit une fausse nouvelle.
+
+-*who_leonore
+Elle était vraie alors ; mais tout est bien changé.
+D'un malheureux hymen Damon est dégagé.
+On va briser sa chaîne ; il me l'a dit lui-même.
+Voilà ce qui me fait avouer que je l'aime :
+Car je dois avec vous bannir un vain détour.
+Toutefois à Damon j'ai caché mon amour.
+Je le crois ; ou du moins je cherche à me séduire.
+Mais, Madame, en tout cas, vous pouvez l'en instruire.
+
+-*who_orphise
+On va briser ses fers ?
+
+-*who_leonore
+      Ils vont être rompus.
+
+-*who_orphise
+Madame, il devient libre, et vous ne l'êtes plus.
+
+-*who_leonore
+Oui, je n'en rougis point ; je chéris ma défaite ;
+Je perds ma liberté, sans que je la regrette ;
+J'ai rencontré l'objet que je devais aimer.
+Un mutuel amour a su nous enflammer.
+C'est une sympathie invincible, absolue,
+Que j'ai d'abord sentie à la première vue.
+Si le même rapport n'eût agi dans son coeur,
+Jamais je n'aurais pu survivre à ce malheur.
+
+-*who_orphise
+Vous survivrez, madame, à de plus grandes peines.
+La mort de votre époux n'a point brisé vos chaînes :
+Il est encore vivant.
+
+-*who_leonore
+      Mon époux est vivant !
+
+-*who_orphise
+Oui. C'est ce que Géronte a dit en arrivant.
+Il va vous confirmer cette heureuse nouvelle.
+Il était temps.
+
+-*who_leonore
+      Il vit, et je suis infidèle !
+Grand dieu ! Dans quelle horreur me précipitez-vous ?
+
+-*who_orphise
+Est-ce un si grand malheur de revoir un époux ?
+
+-*who_leonore
+Ah ! Vous n'ignorez pas quelle est l'antipathie,
+Que m'inspira l'époux à qui je suis unie.
+L'un et l'autre aux autels nous fûmes entraînés,
+L'un à l'autre à regret nous fûmes enchaînés.
+
+-*who_orphise
+Une fille aisément se prévient, et s'entête ;
+Et veut mal-à-propos se choisir sa conquête.
+Je subis, à votre âge, un hymen plus fâcheux :
+J'en ai fait un second plus conforme à mes voeux :
+Et bien, je vous dirai qu'ils reviennent au même.
+
+-*who_leonore
+Hélas ! Pour éviter une infortune extrême,
+À quel triste moyen n'ai-je pas eu recours ?
+Que ne me laissait-on finir mes tristes jours ?
+J'avais passé douze ans ignorée et tranquille :
+Devais-je consentir à quitter mon asile,
+Pour venir retrouver celui que je fuyais ?
+Sainflore n'était plus ; du moins je le croyais ;
+Il ne m'en resta pas la moindre incertitude.
+C'est-là ce qui me fit quitter ma solitude.
+J'ai cru renaître. Hélas ! Je n'avais point vécu.
+Le plus beau de ma vie avait été perdu ;
+Et l'amour en devait empoisonner le reste.
+Damon vint dans ces lieux. C'est l'époque funeste
+Du plus grand de mes maux. Mon coeur en fut blessé.
+Je crus pouvoir aimer. Mon coeur s'est trop pressé.
+
+-*who_orphise
+Il faudra bien éteindre une flamme importune.
+Et d'ailleurs, quelle est donc cette grande infortune ?
+
+-*who_leonore
+C'est d'avoir cru pouvoir disposer de mon coeur.
+Mais enfin, sous ce nom, qu'au moins pour mon bonheur
+Votre époux a voulu que je gardasse encore,
+Je peux fuir à jamais un époux qui m'abhorre.
+De quel front à présent paraîtrais-je à ses yeux ?
+Pourrais-je soutenir le reproche odieux
+Dont il accablerait une épouse infidèle,
+Que peut-être il voudrait retrouver criminelle ?
+
+-*who_orphise
+C'est la sujétion du sexe infortuné
+De périr sous le joug quand il est enchaîné.
+Abandonnez enfin le nom de Léonore.
+La feinte vous rendrait plus criminelle encore.
+Allez, Silvie, allez, retrouver votre époux.
+Vous vous inspirerez des sentiments plus doux.
+Aussi bien que l'amour, l'aversion s'épuise.
+D'autre ressource enfin ne vous est plus permise.
+
+-*who_leonore
+On connaît son erreur sans pouvoir en guérir.
+Adieu. Je pars, je fuis ; et je vais en mourir.
+
+**** *book_ *id_III10 *act_III *date_1744
+
+-*who_geronte
+Léonore est en pleurs ? D'où vient qu'elle m'évite ?
+
+-*who_orphise
+C'est vous, Monsieur Géronte ? Où courez-vous
+Si vite ?
+
+-*who_geronte
+      Je dois à Léonore un petit compliment ;
+Je vais m'en acquitter.
+
+-*who_orphise
+      Eh ! De grâce, un moment.
+
+-*who_geronte
+À votre appartement, je me suis fait écrire.
+Si vos gens sont exacts, ils pourront vous le dire.
+
+-*who_orphise
+Certes, pour un époux l'accueil est très galant ;
+Après un mois d'absence, il est fort consolant.
+
+-*who_geronte
+Nous nous retrouverons ; et plutôt dix fois qu'une.
+Ne nous imposons point une gêne importune,
+Ni ces empressements follement amoureux,
+Ridicules à l'âge où nous sommes tous deux.
+
+-*who_orphise
+Monsieur, parlez du vôtre.
+
+-*who_geronte
+      Oui, dans l'âge où nous sommes,
+Vous croyez que le tems ne vieillit que les hommes ?
+
+-*who_orphise
+Autrefois...
+
+-*who_geronte
+      Est passé pour ne plus revenir.
+
+-*who_orphise
+Et vous anticipez toujours sur l'avenir.
+Monsieur, entendons-nous une fois dans la vie.
+
+-*who_geronte
+C'est quand vous le voudrez.
+
+-*who_orphise
+      Au sujet de Silvie...
+
+-*who_geronte
+Eh ! Madame, pourquoi l'appeler de ce nom ?
+Vous avez toujours eu cette démangeaison.
+
+-*who_orphise
+Monsieur, c'est que jamais je n'aimai le mystère.
+
+-*who_geronte
+Vous savez cependant qu'il était nécessaire,
+De peur d'effaroucher des gens intéressés
+Entre qui tous ses biens se trouvaient dispersés :
+Mais c'était un secret, et la charge est pesante.
+
+-*who_orphise
+L'apostrophe est commune, et même déplaisante.
+
+-*who_geronte
+Tout va bien.
+
+-*who_orphise
+      Son époux est vivant ?
+
+-*who_geronte
+      Ah ! D'accord.
+Oui, cet homme prétend n'avoir pas été mort :
+Il revient, c'est à quoi je ne m'attendais guère :
+Les gens qu'il a chargé du soin de ses affaires,
+Ont arrêté les miens, quand j'allais terminer :
+Mais d'une autre façon j'ai su me retourner,
+Sans paraître autrement, que par mes émissaires ;
+J'ai pris les sûretés qui m'étaient nécessaires.
+Léonore, en tout cas, n'y participe en rien.
+C'est sur quoi nous allons avoir un entretien ;
+Car elle ne sait pas ce que j'ai fait pour elle.
+
+-*who_orphise
+En vérité, j'ai plaint sa fortune cruelle.
+
+-*who_geronte
+Tant mieux.
+
+-*who_orphise
+      Mais cependant, pour certaine raison,
+Il faudra, qu'elle ou moi, sortions de la maison.
+
+-*who_geronte
+Parbleu, l'alternative est toujours quelque chose.
+Pourquoi donc, s'il vous plaît ?
+
+-*who_orphise
+      C'est que je me propose
+De marier...
+
+-*who_geronte
+      Ah, ah !
+
+-*who_orphise
+      Ma fille avec Damon.
+
+-*who_geronte
+Oui-da, ce parti-là pourrait être assez bon.
+Mais, pour cela, faut-il que je chasse ma nièce ?
+
+-*who_orphise
+C'est qu'en un mot ici sa présence me blesse.
+Je n'en dirai pas plus, ni d'elle, ni de lui.
+Suffit. Je n'aime point à parler mal d'autrui.
+
+-*who_geronte
+J'entends à demi-mot.
+
+-*who_orphise
+      Disposez votre nièce
+À suivre son époux. J'y compte. Je vous laisse.
+Arrangez-vous ensemble ; et faites pour le mieux.
+
+**** *book_ *id_III11 *act_III *date_1744
+
+-*who_geronte
+Les femmes ont toujours des projets merveilleux.
+Ma nièce n'aura point regret à mon voyage.
+D'abord, j'ai retiré tous ses biens du pillage.
+Son époux, il est vrai, n'est pas mort. Cependant
+Je n'en suis pas la cause ; et c'est un accident
+Qui n'interrompra guère, ou très peu son veuvage,
+Puisqu'il veut bien laisser casser son mariage.
+Allons la préparer à cet événement.
+Elle n'espère pas un si bon dénouement.
+
+**** *book_ *id_IV01 *act_IV *date_1744
+
+-*who_orphise
+Sachons ce que Géronte aura fait chez sa nièce.
+S'il aime un peu ma fille, en cas qu'il s'intéresse
+À son hymen, il peut me servir à mon gré.
+Damon est gentilhomme ; il est même titré...
+
+**** *book_ *id_IV02 *act_IV *date_1744
+
+-*who_geronte
+La femme est une espece à qui rien ne ressemble ;
+C'est tout bien ou tout mal ; et tous les deux ensemble.
+Est-elle vertueuse ? Elle l'est à l'excès.
+Sa sagesse devient un véritable accès ;
+La modération lui paraît insipide :
+C'est toujours à l'extrême où son penchant la guide.
+Ses moindres mouvements sont des convulsions ;
+La vertu, dans son coeur, se change en passions,
+Dégénère en faux zèle, et devient fanatique.
+
+-*who_orphise
+Ah ! Vous voilà, monsieur, dans votre humeur critique.
+
+-*who_geronte
+Ne vous chagrinez pas d'un portrait si flatté.
+Une femme, à tout âge, est un enfant gâté.
+
+-*who_orphise
+Le mépris pour le sexe est un air qu'on se donne,
+Qui n'est, en vérité, convenable à personne.
+
+-*who_geronte
+Madame, je suis juste, et sans prévention.
+J'avais fait jusqu'ici certaine exception...
+
+-*who_orphise
+Peut-on savoir combien vous en exceptiez ?
+
+-*who_geronte
+      Une.
+Et c'était encor trop.
+
+-*who_orphise
+      Pour nous quelle fortune !
+
+-*who_geronte
+C'est Silvie. Ah ! Morbleu, je me trompe de nom.
+Son caprice imprévu me trouble la raison.
+Diable ! Je ne sais plus ce que je voulais dire.
+J'exceptais Léonore ; et cela vous fait rire.
+
+-*who_orphise
+C'est votre nièce, à qui vous faisiez cet honneur ?
+
+-*who_geronte
+Léonore, elle-même.
+
+-*who_orphise
+      Elle a bien du bonheur.
+
+-*who_geronte
+Oui, d'avoir du mérite.
+
+-*who_orphise
+      Autant que de sagesse.
+
+-*who_geronte
+Que trop. Et c'est en elle un excès qui me blesse,
+Un travers véritable, un faux raffinement,
+Fondé sur le scrupule, et sur l'entêtement.
+Je m'en vais préparer Damon à sa disgrâce.
+
+-*who_orphise
+Bon ! Je l'ai prévenu de tout ce qui se passe.
+
+-*who_geronte
+Déjà ? Mais vous l'avez accablé de douleurs ?
+
+-*who_orphise
+Il fallait, tôt ou tard, qu'il apprît ses malheurs.
+Plutôt on les apprend, plutôt on s'en console.
+
+-*who_geronte
+J'espère cependant...
+
+-*who_orphise
+      Espérance frivole.
+
+-*who_geronte
+Peut-être que Damon, que j'ai fait avertir,
+Aura plus de crédit...
+
+-*who_orphise
+      Eh ! Laissez-la partir.
+Elle est mariée...
+
+-*who_geronte
+      Oui.
+
+-*who_orphise
+      L'affaire est terminée.
+
+-*who_geronte
+Point du tout. Si ma nièce était moins obstinée,
+Elle pourrait...
+
+-*who_orphise
+      Aller retrouver son époux.
+
+**** *book_ *id_IV03 *act_IV *date_1744
+
+-*who_geronte
+Venez, monsieur, venez vous unir avec nous ;
+La pauvre Léonore... elle se croyait veuve.
+Eh bien, il n'en est rien ; nous en avons la preuve.
+Mais de son esclavage on pourrait l'affranchir.
+Peut-être mieux que moi vous pourrez la fléchir.
+Un mot de ce qu'on aime a toute une autre force.
+
+-*who_orphise
+Quoi ! Vous voulez, monsieur, la porter au divorce ?
+
+-*who_geronte
+Déterminez un coeur fortement combattu.
+Ne l'abandonnez pas à sa triste vertu.
+Car je n'ignore plus qu'elle vous intéresse.
+Vous l'aimez ?
+
+-*who_damon
+      Je l'adore. à quoi sert ma tendresse ?
+
+-*who_orphise
+Ce sont-là de vos tours. Vous servez en ami.
+
+-*who_geronte
+Ma foi, sans le savoir, je travaillais pour lui.
+Quand ma nièce peut rompre une chaîne cruelle,
+Elle n'approuve plus ce que j'ai fait pour elle.
+Sous main, depuis un mois, j'ai mis l'affaire en train ;
+Mais le diable jaloux, ou l'esprit féminin,
+Ne veulent pas permettre une union si belle.
+
+-*who_orphise
+On s'en consolera. Modérez votre zèle.
+
+-*who_damon
+Je m'en consolerai ?
+
+-*who_orphise
+      Vous serez dans le cas.
+
+-*who_damon
+Jamais ; et j'en mourrai.
+
+-*who_orphise
+      Non, vous n'en mourrez pas.
+
+-*who_geronte
+Eh ! Madame, tâchez d'être un peu plus tranquille.
+
+-*who_orphise
+Vous, donnez un conseil plus sage et plus utile.
+
+-*who_geronte
+Jetez-vous à ses pieds.
+
+-*who_orphise
+      Ne la voyez jamais.
+
+-*who_geronte
+Employez les soupirs.
+
+-*who_orphise
+      Oubliez ses attraits.
+
+-*who_geronte
+Allez.
+
+-*who_orphise
+      Quoi ? Voulez-vous déshonorer Silvie.
+
+-*who_damon
+Moi, la déshonorer ? En quoi, je vous supplie ?
+Ah ! Silvie aurait tort de se plaindre de moi.
+Je fais ce qu'elle veut ; et je lui rends sa foi.
+Elle a fait trop longtemps le malheur de ma vie.
+Quand on ne s'aime point, aisément on s'oublie.
+
+-*who_geronte
+Quand on ne s'aime point ?
+
+-*who_orphise
+      Pour le coup, je m'y perds.
+
+-*who_damon
+On cherche volontiers à sortir de ses fers.
+
+-*who_orphise
+Ceci ne laisse pas d'être incompréhensible.
+Pour qui donc votre coeur était-il si sensible ?
+Léonore n'est point l'objet de vos amours ?
+
+-*who_damon
+Léonore est l'objet que j'aimerai toujours.
+
+-*who_orphise
+Nous extravaguons tous.
+
+-*who_geronte
+      Je m'en doutais, madame.
+Ma nièce est cependant l'objet qui vous enflamme ?
+L'équivoque des noms a pu nous embrouiller ;
+Mais l'histoire en serait trop longue à détailler.
+
+-*who_damon
+Mon secret doit ici n'être su de personne.
+Ce nom m'a fait frémir ; et ce rapport m'étonne.
+
+-*who_geronte
+C'est peut-être le nom de certaine beauté,
+Qui vous a fait, sans doute, une infidélité.
+
+**** *book_ *id_IV04 *act_IV *date_1744
+
+-*who_leonore
+Madame, à vos avis je rends plus de justice.
+Vous arrêtez mes pas au bord du précipice.
+Victime d'un penchant devenu criminel,
+J'allais m'envelopper d'un opprobre éternel ;
+J'allais me dérober au pouvoir légitime
+D'un époux, qu'on ne peut abandonner sans crime.
+
+-*who_geronte
+Ma nièce, en vérité, tous ces grands sentiments
+Sont des inventions pour orner des romans.
+
+-*who_orphise
+La morale est légère, et ce n'est pas la mienne.
+Monsieur, que voulez-vous que madame devienne ?
+
+-*who_geronte
+Heureuse, apparemment.
+
+-*who_orphise
+      Eh ! Le moyen ?
+
+-*who_geronte
+      Est sûr.
+
+-*who_orphise
+Quoi ! Faudra-t-il qu'au fond de quelque asile obscur,
+Elle aille ensevelir une épouse craintive,
+Ou mener une vie errante et fugitive ?
+
+-*who_leonore
+C'est un dessein coupable ; et je n'y pense plus.
+Je reprends des liens que je croyais rompus.
+Il m'en coûtera cher... que dis-je, malheureuse ?
+Mais la nécessité me rendra vertueuse.
+J'ai gagné sur mon coeur, ou du moins je le crois.
+Ah, rencontre cruelle ! Et qu'est-ce que je vois ?
+
+-*who_damon
+C'est un infortuné, qui n'a plus guère à vivre.
+
+-*who_leonore
+Je vous l'ai dit, vivez ; mais cessez de me suivre.
+
+-*who_damon
+Eh ! Le puis-je ? C'est vous qui voulez mon trépas.
+
+-*who_leonore
+Ah ! Ne m'engagez point à de nouveaux combats.
+Mon coeur n'a pas besoin d'une épreuve cruelle.
+
+-*who_damon
+Hélas ! Que craignez-vous ? À quoi servirait-elle ?
+
+-*who_leonore
+À vous faire haïr, à me désespérer.
+C'est me persécuter, c'est me déshonorer,
+Que d'exposer encor mon coeur à se défendre.
+Ce sont de vains regrets que je ne puis entendre.
+Vous avez un rival qui n'en doit point avoir.
+Je vais le retrouver, et remplir mon devoir.
+
+-*who_damon
+Vous l'étendez plus loin qu'il ne devrait s'étendre.
+Madame, si je crois ce qu'on m'a fait entendre,
+Sans blesser ce devoir, vous pourriez recourir
+À des moyens plus doux, qu'on vient de vous offrir.
+
+-*who_leonore
+Non, je n'ai point assez d'audace, ni de force,
+Pour aller mendier un malheureux divorce.
+Je n'imagine pas qu'une femme de bien,
+Puisse jamais avoir recours à ce moyen.
+Il faut un front d'airain pour donner ce scandale.
+
+-*who_damon
+On vous excepterait de la loi générale.
+
+-*who_orphise
+Ne vous en flattez pas.
+
+-*who_geronte
+      Le cas est différent.
+
+-*who_leonore
+Sur l'espoir d'un succès toujours déshonorant,
+Je ne risquerai point d'être tympanisée.
+Le plus grand des malheurs est d'être méprisée.
+Hé quoi ! Sur un prétexte absurde et mendié,
+Aller de porte en porte implorer la pitié,
+Y faire de sa vie un journal équivoque,
+Que personne ne croit, et dont chacun se moque
+Suborner des témoins, gagner des partisans ;
+Remplir les tribunaux de ses cris indécents ;
+Y faire débiter des plaintes infidèles ;
+Inonder le public d'injurieux libelles ;
+Ébruiter des malheurs qu'on pouvait empêcher,
+Ou qu'au moins la raison devait faire cacher :
+Je ne puis seulement soutenir cette idée.
+
+-*who_geronte
+Eh ! Non. Rassure-toi. Ta crainte est mal fondée.
+
+-*who_orphise
+Eh ! Mais, pardonnez-moi.
+
+-*who_geronte
+      Non. Il s'agit au plus
+D'achever de briser des noeuds presque rompus,
+De m'en laisser le soin ; en un mot, de reprendre
+L'heureuse liberté qu'on offre de lui rendre ;
+De quitter un époux.
+
+-*who_leonore
+      Daignez lui pardonner.
+À sa discrétion, je veux m'abandonner.
+Peut-être que l'absence, et son état funeste
+Auront changé son coeur ; le mien fera le reste.
+
+-*who_geronte
+Erreur ! N'espérez pas de si tendres retours.
+
+-*who_damon
+Vous allez exposer votre gloire, et vos jours.
+Songez-vous qu'un mortel, insensible à vos larmes,
+Va jouir, malgré vous, d'un bien si plein de charmes ?
+Je ne vous parle point du désespoir affreux
+Où vous allez jeter le coeur d'un malheureux,
+Qui mourra, malgré vous, dans sa persévérance.
+J'avais pris dans vos yeux une fausse espérance.
+Je perds tout, en perdant ce bonheur apparent.
+Ce que je deviendrai vous est indifférent.
+
+-*who_leonore
+Ah, cruel ! D'où vient donc le remords qui m'accable...
+Qu'ai-je dit ? Je me rends encore plus coupable.
+Ne vous promettez rien des pleurs que je répands.
+Non, quand je briserais les noeuds que je reprends,
+Notre hymen ne peut plus devenir légitime.
+Ce serait avouer, et consommer mon crime.
+Vous avez une épouse. Imitez-moi tous deux :
+Ou, plutôt, puissiez-vous l'un et l'autre être heureux.
+Je sens que tôt ou tard il faut qu'elle vous aime.
+
+-*who_damon
+N'exigez pas de moi cette faiblesse extrême.
+Sa haine ou son amour ne m'intéressent plus.
+Ne consent-elle pas que nos fers soient rompus ?
+
+-*who_leonore
+C'est vous qui le voulez.
+
+-*who_damon
+      Y consentirait-elle,
+Si ce n'était pour prendre une chaîne nouvelle ?
+Je n'eus jamais son coeur ; elle a repris sa foi.
+
+-*who_leonore
+Arrêtez. On pourrait en dire autant de moi.
+C'est vous qui me jugez.
+
+-*who_geronte
+      Quelle bizarrerie !
+
+-*who_orphise
+Oh ! Vous traitez toujours la vertu de folie.
+
+**** *book_ *id_IV05 *act_IV *date_1744
+
+-*who_frontin
+Vos gens et vos chevaux, tout est prêt pour aller...
+
+-*who_geronte
+Eh ! Ventrebleu, va-t-en les faire dételer.
+
+**** *book_ *id_IV06 *act_IV *date_1744
+
+-*who_geronte
+Pourquoi s'abandonner au torrent des scrupules ?
+De trop grands sentiments sont souvent ridicules.
+Si c'était un époux tel qu'eût été Damon,
+Passe ; mais ç'en est un qui n'en eut que le nom ;
+Un jeune écervelé qui laisse sa compagne,
+Et, pour libertiner, va battre la campagne ;
+Que je ne connais point ; car ma soeur, dieu merci,
+Ne consultait personne en tout, comme en ceci ;
+Un homme qui n'agit que par ses émissaires,
+Et n'ose se montrer que par ses gens d'affaires ;
+Qui, lorsqu'on le croit mort, revient après douze ans
+Pour se démarier.
+
+-*who_damon
+      Quels rapports étonnants !
+
+-*who_leonore
+Respectez ses malheurs.
+
+-*who_damon
+      Eh ! De grâce, Madame...
+
+-*who_geronte
+Voilà pourtant l'époux que ma nièce réclame !
+
+-*who_damon
+Peut on savoir le nom...
+
+-*who_leonore
+      Ne le sachez jamais.
+
+-*who_damon
+Ne me refusez pas...
+
+-*who_leonore
+      J'entrevois vos projets ;
+Et le coupable espoir que vous gardez encore.
+Voulez-vous achever de perdre Léonore ?
+Son repos, son honneur devraient bien vous toucher.
+
+-*who_damon
+Sous ce nom étranger, cessez de vous cacher.
+Vous vous nommez Silvie, et non pas Léonore.
+Que n'êtes-vous aussi l'épouse de Sainflore !
+
+-*who_leonore
+Ah ! Qui m'a pu trahir !... Téméraire ! Arrêtez.
+Quelle horreur !... Laissez-moi...
+
+-*who_damon
+      Madame, permettez...
+
+-*who_orphise
+Damon, y songez-vous ?
+
+-*who_nerine
+      Pour le coup, il s'oublie.
+
+-*who_damon
+Je renais... Ah ! Madame... Ah ! Ma chère Silvie...
+Tenez... je suis... voilà votre consentement ;
+Retrouvez un époux dans le plus tendre amant.
+
+-*who_geronte
+Voyons donc.
+
+-*who_leonore
+      Vous, Sainflore ?
+
+-*who_orphise
+      Ah, grand dieu !
+
+-*who_geronte
+      C'est lui-même.
+
+-*who_leonore
+Ô sort trop fortuné ! C'est mon époux que j'aime.
+
+-*who_geronte
+La bonne antipathie ! Ah ! Gardez-la toujours.
+Haïssez-vous ainsi, le reste de vos jours.

@@ -1,0 +1,1620 @@
+
+
+**** *book_ *id_I01 *act_I *date_1759
+
+-*who_cendrillon
+Des rigueurs d'un cruel destin,
+Aurai-je toujours à me plaindre ?
+Un faible espoir me luit en vain,
+Je n'en ai pas moins tout à craindre.
+Des rigueurs d'un cruel destin,
+Aurai-je toujours à me plaindre ?
+J'ai joui cette nuit du spectacle enchanteur,
+Qu'étale aux yeux la Cour la plus brillante ;
+Un Prince à mes genoux exprimait son ardeur...
+Il ne me reste hélas ! de toute ma grandeur,
+Qu'un souvenir qui me tourmente.
+J'aperçois venir ma Maraine,
+Sa présence augmente ma peine ;
+À ses lois j'ai désobéi ;
+Quel reproche elle va me faire !
+Seule sensible à mon ennui,
+Elle me tenoit lieu de mère.
+
+**** *book_ *id_I02 *act_I *date_1759
+
+-*who_lamaraine
+Ah ! Dans quel état je vous vois !
+Ne cherchez point d'excuse ;
+Je devine aisément pourquoi
+Vous n'avez point suivi ma loi.
+
+-*who_cendrillon
+Il est vrai, j'en suis confuse,
+J'en suis confuse.
+
+-*who_lamaraine
+Ah ! vraiment, je le crois :
+Mais pourquoi ce manque de foi,
+Ce manque de foi ?
+Fillette toujours raisonne,
+Et n'écoute personne,
+Quand on s'oppose à son penchant.
+
+-*who_cendrillon
+Non, non, c'est que, ma Bonne,
+Je n'ai pas pu faire autrement.
+
+-*who_lamaraine
+Il fallait n'en croire que moi ;
+Il fallait mieux suivre ma loi.
+
+-*who_cendrillon
+Il est vrai, mais ma folie
+Est bien punie ;
+Un moment !...
+
+-*who_lamaraine
+Un moment
+Fait effet :
+On s'y plaît,
+On s'en fait
+Un amusement.
+
+-*who_cendrillon
+Pardon, ma Bonne,
+Pardon, ma Bonne,
+Je n'ai pas pu faire autrement.
+
+-*who_lamaraine
+Oui ! Oui !
+
+-*who_cendrillon
+Pardon, ma Bonne,
+Je n'ai pas pu faire autrement.
+
+-*who_lamaraine
+Par un effet de mon pouvoir magique,
+Pour relever l'éclat de vos appas,
+Je vous ai mis un habit magnifique,
+Nombreux cortège accompagnait vos pas,
+Je n'exigeais de votre obéissance
+Que de sortir du bal avant minuit ;
+Faute d'avoir observé ma défense,
+De mes bontés vous perdez tout le fruit.
+
+-*who_cendrillon
+Je le sais bien,
+J'ai tout perdu ;
+En moins de rien,
+Tout a disparu :
+Que le sort me traite,
+S'il veut, sans pitié ;
+Non, je ne regrette
+Que votre amitié,
+
+-*who_lamaraine
+Vous me serez toujours chère ;
+Ne craignez plus ma colère.
+
+-*who_cendrillon
+Ah ! Que mon cour est content !
+
+-*who_lamaraine
+Mais par un aveu sincère,
+Je veux savoir le mystère
+De ce long retardement.
+
+-*who_cendrillon
+Vous m'allez gronder encore.
+
+-*who_lamaraine
+Non, vous dis-je, ne craignez rien ;
+Il faut bien
+M'apprendre ce que j'ignore ;
+Croyez-moi, c'est pour votre bien.
+
+-*who_cendrillon
+Je n'en doute pas, Madame,
+Il faut donc vous ouvrir mon âme.
+Qui m'eût dit qu'un bal...
+
+-*who_lamaraine
+Hé bien ! Ce bal ?
+
+-*who_cendrillon
+Dut m'être si fatal !
+
+-*who_lamaraine
+Que vous me causez d'alarmes !
+Mais, comment donc ?
+Quelle raison,
+Vous fait verser des larmes ?
+
+-*who_cendrillon
+J'en ai bien sujet.
+
+-*who_lamaraine
+Quel est ce secret ?
+Qu'est-ce qu'on vous a fait ?
+
+-*who_cendrillon
+J'arrivai dans le Palais
+D'aise transportée ;
+De tout ce que je voyais,
+J'étais enchantée,
+Un Prince...
+
+-*who_lamaraine
+      Ah ! Nous y voilà.
+
+-*who_cendrillon
+Un Prince s'est trouvé là.
+
+-*who_lamaraine
+Vous a-t-il fâchée ?
+Ô gué !
+Vous a-t-il fâchée ?
+
+-*who_cendrillon
+Le connaissez-vous ?
+
+-*who_lamaraine
+      Oui, vraiment.
+
+-*who_cendrillon
+N'est-il pas vrai qu'il est charmant ?
+
+-*who_lamaraine
+Si vous voulez même adorable ;
+Laissez-là son mérite à part ;
+Voyons en quoi ce Prince aimable
+Aurait pu vous manquer d'égard.
+
+-*who_cendrillon
+Les yeux vers moi tournés sans cesse,
+Tendrement il me regardait,
+De ses regards la douceur et l'ivresse.
+M'inspiraient ce qu'il ressentait.
+À mes côtés est une place,
+Il s'en saisit ;
+Il s'enhardit,
+Je m'attendris ;
+Je veux le fuir, et je ne puis,
+Je veux fuir et ne puis,
+Je veux le fuir, et je ne puis.
+Déjà mon trouble augmentait son audace,
+Quand minuit sonna,
+Et tout finit là.
+Comme un éclair, soudain je prends la fuite ;
+En entendant l'heure qui me chassait ;
+On se met à ma poursuite,
+Mais en vain on me cherchait...
+Je n'étais plus ce qu'ils me croyaient être,
+Ils me voyaient sans suite et sans éclat ;
+Comment, hélas ! M'auraient-ils pu connaître !
+Je m'ignorais moi-même en cet état.
+
+-*who_lamaraine
+Ce changement n'a rien qui doive vous surprendre ;
+Je crains plutôt pour vous un sentiment trop tendre.
+
+-*who_cendrillon
+Je ne saurais vous le cacher,
+Je ne saurais vous le cacher,
+Ce Prince a trop su me toucher ;
+Je l'aime, je l'aime :
+Le croyez-vous épris pour moi de même ?
+
+-*who_lamaraine
+Si vous l'aviez trop rebuté...
+
+-*who_cendrillon
+Oh ! non.
+
+-*who_lamaraine
+      Je dois le croire ;
+Si vous n'avez rien accordé,
+Qui blesse votre gloire.
+
+-*who_cendrillon
+Je sais trop ce que je me dois ;
+Pour me laisser surprendre ;
+Il n'a rien obtenu de moi,
+Que ce qu'il m'a su prendre.
+
+-*who_lamaraine
+Et que vous a-t-il pris ?
+
+-*who_cendrillon
+      Ma Bonne...
+Que dire, hélas !
+
+-*who_lamaraine
+Répondez-moi, je vous l'ordonne ?
+
+-*who_cendrillon
+Quel embarras !
+
+-*who_lamaraine
+Et pourquoi donc ces sots scrupules ?
+Surcoût craignez de me tromper.
+
+-*who_cendrillon
+Il m'a pris une de mes mules ;
+Qu'en fuyant j'ai laissé tomber.
+Je n'en ai plus qu'une à présent;
+
+-*who_lamaraine
+Consolez-vous, ma chère enfant,
+On peut réparer ce dommage
+Au fond je n'y vois pas grand mal.
+Que de Beautés sortant du Bal
+Ont souvent perdu davantage !
+Vos sours en reviennent sans doute,
+Ce bruit annonce leur retour ;
+Rentrez, et quoi qu'il vous en coûte ;
+Tâchez de vaincre votre amour.
+
+**** *book_ *id_I03 *act_I *date_1759
+
+-*who_lainee
+Rien, en vérité n'est si plaisant ;
+Nos appas ont fait fortune assurément :
+Rien, en vérité, n'est si plaisant,
+À chaque moment,
+C'était nouveau Galant.
+Ce gros caissier qui croyait me connaître,
+M'a-t-il tenu des propos assez doux ?
+
+-*who_lacadette
+Ce Sénateur, en léger Petit-Maître,
+M'a-t-il assez étalé ses bijoux ?
+Rien, en vérité, n'est si plaisant ;
+Nos appas ont fait fortune assurément :
+Rien, en vérité, n'est si plaisant,
+À chaque moment,
+C'était nouveau Galant.
+Mais cela ne me touche guère ;
+Je dédaigne de tels objets.
+
+-*who_lainee
+Sans crainte de passer pour fière,
+Je porte plus haut mes projets.
+Le destin qui pour moi s'apprête
+Flatte mon cour ambitieux.
+
+-*who_lacadette
+Une plus illustre conquête
+Peut seule contenter mes voeux.
+
+-*who_lainee
+Un Amant pour moi soupire,
+Dont je dois taire le nom.
+
+-*who_lacadette
+Quelqu'un, que je n'ose dire,
+De son cour m'a fait le don.
+
+-*who_lainee
+Mais à t'en faire un mystère,
+Mon amitié souffrirait.
+
+-*who_lacadette
+Pour une sour aussi chère,
+Puis-je avoir quelque secret ?
+
+-*who_lainee
+Si j'obtiens ce que je désire ,
+Vous en sentirez les effets.
+
+-*who_lacadette
+Si j'atteins le but où j'aspire,
+C'est pour combler tous vos souhaits.
+
+-*who_lainee
+Oui, disputons cet avantage
+Entre nous deux ;
+Le bonheur qu'ainsi l'on partage
+Se goûte mieux.
+
+-*who_lacadette
+Quel est ce captif glorieux ,
+Qu'Amour met en votre puissance ?
+
+-*who_lainee
+Quel est cet amant dont les feux
+Enflent si fort votre espérance ?
+
+-*who_lacadette
+Devinez.
+
+-*who_lainee
+      Non, dites-le moi.
+
+-*who_lacadette
+Ma chère, c'est le fils du Roi.
+
+-*who_lainee
+Le fils du Roi !
+Le fils du Roi !
+
+-*who_lacadette
+Et oui vraiment, le fils du Roi.
+
+-*who_lainee
+La conquête est glorieuse !
+
+-*who_lacadette
+Ne suis-je pas bien heureuse ?
+Il veut me donner sa foi.
+C'est votre tour à me dire,
+Quel amant suit votre empire.
+
+-*who_lainee
+C'est, ma sour, le fils du Roi.
+
+-*who_lacadette
+Le fils du Roi !
+Vous raillez, je crois !
+
+-*who_lainee
+Non, vraiment ; rien n'est plus véritables.
+
+-*who_lacadette
+Je n'en crois rien.
+
+-*who_lainee
+Moi, je le crois bien ;
+Votre avis ne détruit pas le mien.
+Vous êtes fort aimable,
+J'en conviendrai ; mais,
+Malgré tous vos attraits,
+Croyez qu'on est capable,
+Quand on le voudra,
+D'effacer ces traits là.
+
+-*who_lacadette
+Ce n'est pas vous.
+
+-*who_lainee
+      Ce sera moi.
+
+-*who_lacadette
+Mais il faut être de bonne foi :
+Jusqu'à présent votre beauté,
+En vérité,
+N'a point trop éclaté.
+
+-*who_lainee
+Petite impertinente !
+
+-*who_lacadette
+Eh ! Bien, j'avouerai,
+Partout je publierai,
+Que vous êtes charmante ;
+Sûre qu'en ce point,
+On ne me croira point.
+
+-*who_lainee
+Vous me poussez à bout,
+Vous cherchez, en tout,
+À combattre mon goût ;
+Votre humeur
+Montre tant d'aigreur,
+Qu'à nous séparer,
+Il faut vous préparer :
+Un excès de fierté,
+De vanité,
+Sans rime ni raison,
+Vous donne un ton ;
+Il semble qu'en ces lieux,
+Jeunes et vieux
+Viennent se brûler aux feux
+De vos yeux :
+Vous voyez cependant,
+Le plus souvent,
+Qu'on vous laisse à l'écart ;
+C'est un hasard,
+Quand quelque freluquet
+Daigne sourire à votre air coquet.
+
+-*who_lacadette
+Criez tout à loisir :
+Un jour à venir,
+Je saurai répondre ;
+Je vais, pour vous confondre,
+Monter au rang
+Qui m'attend.
+
+-*who_lainee
+À ce rang désiré ,
+On peut me conduire ;
+Je vous y préviendrai.
+
+-*who_lacadette
+Vous me faites rire !
+
+-*who_lainee
+Cendrillon, que je vois là,
+En jugera.
+
+**** *book_ *id_I04 *act_I *date_1759
+
+-*who_lacadette
+Qui de nous deux
+Te paraît la plus belle ?
+
+-*who_lainee
+Qui de nous deux
+Inspire plus de feux ?
+
+-*who_lacadette
+Laissez-moi parler.
+
+-*who_lainee
+Taisez-vous, Péronnelle,
+Sans dissimuler...
+
+-*who_lacadette
+Oui, conviens que c'est elle.
+
+-*who_lesdeuxsoeurs
+Ne finirez-vous pas
+Tout ce tracas ?
+Il me fatigue fort ;
+Vous ayez tort,
+Mais, mais, très grand tort,
+D'oser encor
+Prendre un tel essor.
+
+-*who_lainee
+Décide donc entre nous.
+
+-*who_cendrillon
+Que voulez-vous ?
+
+-*who_lacadette
+Je te l'ai déjà dit,
+C'est qu'il s'agit...
+
+-*who_lainee
+De savoir qui des deux
+Peut mériter le mieux.
+L'hommage d'un Prince amoureux.
+
+-*who_lacadette
+Ce Prince est le fils du Roi.
+
+-*who_cendrillon
+Le fils du Roi !
+
+-*who_lacadette
+Il est épris de moi.
+
+-*who_lainee
+Non, c'est de moi ;
+C'est de moi, sur ma foi.
+
+-*who_lacadette
+Cela suffit :
+Je sais ce qu'il m'a dit.
+
+-*who_lainee
+Dis-nous donc
+Quelque raison.
+Te voilà bien rêveuse !
+
+-*who_cendrillon
+Sûrement,
+C'est mon amant ;
+Ne suis-je pas bien chanceuse ?
+Ceci pour moi tourne mal.
+
+-*who_lacadette
+Cette nuit nous étions au bal.
+
+-*who_cendrillon
+Au Bal ! C'est mon inconstant,
+C'est mon perfide amant !
+
+-*who_lacadette
+Parle-nous donc, si tu veux.
+
+-*who_cendrillon
+Je n'oserais...
+Vous avez toutes deux
+Mêmes attraits ;
+Qui voudrait faire un choix,
+Aurait besoin, je crois,
+D'y regarder plus d'une fois :
+Mais qui sait si quelqu'objet,
+Bien moins parfait,
+De ce beau Prince-là,
+N'a pas déjà
+Su captiver le cour ?
+
+-*who_lesdeuxsoeurs
+Non, non, ma sour :
+Moi seule ai cet honneur. ,
+
+-*who_lacadette
+Certain objet, à tout le monde inconnu,
+Au Bai s'est pourtant vu.
+D'abord le Prince attaché sans cesse à ses pas...
+
+-*who_cendrillon
+Hé bien ?
+
+-*who_lacadette
+      Semblait en faire cas.
+
+-*who_cendrillon
+Avait-elle des appas ?
+
+-*who_lacadette
+Beaucoup.
+
+-*who_lainee
+      Très peu.
+
+-*who_lacadette
+Près d'elle, j'en fais l'aveu,
+Vous n'auriez pas beau jeu.
+
+-*who_lainee
+Le méchant esprit!
+
+-*who_lacadette
+Oui, c'est par dépit
+Que vous en parlez.
+
+-*who_cendrillon
+Vous vous querellez
+Pour un rien.
+
+-*who_lainee
+      Tais-toi,
+Il te sied, ma foi,
+D'oser me faire la loi.
+
+-*who_cendrillon
+À vos débats.,
+Moi, dame, je ne prends aucune part ;
+Ne doit on pas
+L'une pour l'autre avoir quelqu'égard ?
+
+-*who_lacadette
+Garde tes leçons ;
+Adieu, nous verrons.
+Qui l'emportera.
+
+-*who_lainee
+Oui, oui, l'on verra :
+Adieu donc, ma sour ;
+Dans votre grandeur,
+Soyez de meilleure humeur.
+
+**** *book_ *id_I05 *act_I *date_1759
+
+-*who_cendrillon
+À me nuire,
+Tout conspire ;
+Ô sort, quelle est ta rigueur !
+D'Amour un trait me déchire ;
+Et c'est encore un malheur !
+Deux rivales se déclarent.
+Que deviendra mon ardeur ?
+Des maux qui sur moi se préparent,
+Le plus sensible à mon cour
+Serait d'aimer un trompeur,
+À me nuire,
+Tout conspire ;
+Ô sort, quelle est ta rigueur !
+D'Amour un trait me déchire !
+Et c'est encore un malheur !
+
+**** *book_ *id_I06 *act_I *date_1759
+
+-*who_cendrillon
+Voyez une infortunée.
+
+-*who_lamaraine
+Quels nouveaux malheurs ;
+Font naître vos douleurs f
+
+-*who_cendrillon
+Ne suis-je donc condamnée ;
+Qu'à vivre toujours dans les pleurs ?
+Vous avez assez vu, Madame,
+Quel objet a touché mon âme.
+
+-*who_lamaraine
+Hé ! Bien.
+
+-*who_cendrillon
+      Ce funeste vainqueur,
+Que j'adore au fond de mon cour,
+Peut-être n'est qu'un imposteur ;
+Mes sours se disputent l'amant
+Qui cause aujourd'hui mon tourment.
+
+-*who_lamaraine
+Vos sours ne sont que des ambitieuses :
+D'un seul regard
+Par hasard
+Échappé,
+Leur esprit s'est frappé.
+Sur tous les cours ces Orgueilleuses
+Croient avoir
+Un pouvoir.
+Quand leur Beauté surpasserait la vôtre,
+II est un art qui manque à l'une et l'autre,
+Qui seul pent allumer une constante ardeur ;
+Cet art, c'est la douceur.
+C'est la première des vertus
+Dont se doit parer une Belle ;
+C'est la ceinture dont Vénus
+Retient les Amours auprès d'elle.
+
+-*who_cendrillon
+À juger par leurs discours,
+Mes sours ont raison de croire
+Qu'on les aime.
+
+-*who_lamaraine
+      Vains détours
+De sottes qui s'en font accroire.
+D'un Prince qui veut s'amuser,
+Un mot a pu les abuser.
+
+-*who_cendrillon
+Mais cependant...
+
+-*who_lamaraine
+      Mais s'il avait
+Une telle manie, ,
+Un jour il se repentirait
+D'avoir fait la folie.
+
+-*who_cendrillon
+Bon ! Si d'un autre il est l'époux,
+Qu'il s'en repente ou non, voyez-vous,
+Je n'en serais, ne vous déplaise,
+Guère plus à mon aise.
+
+-*who_lamaraine
+Mais comment donc l'Amour en peu de temps ;
+A fait chez vous des progrès surprenants !
+
+-*who_cendrillon
+Qu'est-ce donc que j'entends ?
+
+-*who_lamaraine
+Je vous en rendrai compte ;
+Demeurez un instant >
+Je reviens sur le champ.
+
+-*who_cendrillon
+D'un amoureux penchant,
+Ma Bonne me fait honte ;
+Et veux que je surmonte
+Ce qui me fait plaisir
+Encore à ressentir.
+
+**** *book_ *id_I07 *act_I *date_1759
+
+-*who_cendrillon
+Amour, dont je ressens la flamme,
+Épargne un faible cour qui se livre à tes coups ;
+Les traits dont tu blesses mon âme
+Font-ils l'effet de ton courroux ?
+Fais briller à mes yeux un rayon d'espérance,
+Ou rend-moi mon indifférence ;
+Mon sort me paraîtra plus doux.
+
+**** *book_ *id_I08 *act_I *date_1759
+
+-*who_lainee
+Est-il bien vrai ?
+
+-*who_lofficier
+Oui, sans délai,
+Il faut, Mesdames, que chacune vienne.
+
+-*who_lacadette
+Et savez-vous
+Ce que de nous
+Le Roi demande aujourd'hui ?
+
+-*who_lofficier
+Oui.
+Le Prince Azor
+Fait à la fin un effort ;
+Lui qui d'Amour a toujours fui la chaîne,
+Il veut avoir,
+Une épouse dès ce soir,
+Parmi les Belles du canton.
+
+-*who_lesdeuxsoeurs
+Bon.
+
+-*who_lainee
+Déjà je vois,
+Je prévois
+Où ce choix
+Peut tomber.
+
+-*who_lacadette
+Vous pourriez bien vous tromper,
+Ma Reine.
+
+-*who_lainee
+Je ne suis pas,
+En ce cas,
+Seule ici,
+Qui pourrait en avoir le démenti.
+
+-*who_lacadette
+Si.
+
+-*who_lainee
+À cet Hymen glorieux,
+Vous pouvez bien toutes les deux
+Prétendre ;
+Certaine épreuve on fera,
+Qui sur ce point décidera.
+
+-*who_lesdeuxsoeurs
+Ah !
+
+-*who_lacadette
+Quelle est cette épreuve-là ?
+
+-*who_lofficier
+Vous ne pouvez en ce moment l'apprendre ;
+Adieu. Ce soir on saura
+Pour qui fera
+Ce prix-là.
+
+-*who_lesdeuxsoeurs
+      Ah !
+
+-*who_lainee
+À l'insu de ma sour cadette,
+Monsieur, dites-moi franchement
+Si, dans l'hymen qui se projette,
+On parle de moi.
+
+-*who_lofficier
+      Non, vraiment.
+
+-*who_lainee
+Vous badinez ?
+
+-*who_lofficier
+      Sur ma parole,
+La pauvre Demoiselle est folle.
+
+-*who_lacadette
+Sans en rien dire à mon aînée,
+Avouez moi, mon cher Monsieur,
+Que le Prince ; en cette journée,
+Va s'expliquer en ma faveur ?
+
+-*who_lofficier
+Nenni.
+
+-*who_lacadette
+      Vous n'êtes pas sincère.
+
+-*who_lofficier
+Oh ! parbleu, les deux-font la paire.
+Eh ! Quel est ce joli minois,
+Qui nous écouté en tapinois ?
+
+-*who_lainee
+C'est une pauvre fille.
+
+-*who_lacadette
+Qui nous visite quelquefois.
+
+-*who_lofficier
+Elle est, ma foi, gentille !
+
+-*who_cendrillon
+Eh quoi ! Mes sours, en ce moment,
+Rougissent de me reconnaître !
+
+-*who_lofficier
+Approchez donc, la belle enfant ;
+On ne risque rien de paraître,
+Quand on posséde tant d'appas.
+
+-*who_lainee
+Voulez-vous bien aller là-bas ?
+Pour peu que le cour vous en dise,
+Soyez avec nous moins discret :
+Comme à nos soins elle est commise,
+Votre hymen serait bientôt fait.
+
+-*who_lofficier
+J'accepterais des offres si flatteuses,
+Si vous étiez moins curieuses ;
+Mais là-dessus,
+Tous vos efforts sont superflus ;
+Attendez à ce soir,
+Pour tout savoir,
+Attendez à ce soir.
+
+**** *book_ *id_I09 *act_I *date_1759
+
+-*who_lainee
+Enfin voici le moment,
+Où mon triomphe s'apprête ;
+La main d'un Prince charmant
+Va devenir ma conquête ;
+Préparons, préparons, préparons tout,
+Pour briller à cette fête ;
+Préparons, préparons, préparons tout,
+Pour l'affermir dans son goût.
+
+-*who_lacadette
+Par le secours de la toilette,
+Rendons ma beauté si parfaite,
+Qu'Azor puisse en mes yeux
+Retrouver encor de nouveaux feux.
+Dieux ! S'il répond à ma tendresse,
+Quelle fera mon allégresse !
+Cendrillon, dépêchons ; tôt, tôt,
+Apportez ce qu'il faut,
+Je veux partir bientôt.
+
+-*who_lainee
+Oh ! Faites comme il vous plaira ;
+Sa seule affaire
+Est de me plaire ;
+Oh ! Faites comme il vous plaira ;
+Je retiens Cendrillon pour cela.
+Qu'on apporte ici ma toilette.
+
+-*who_lacadette
+Qu'on apporte la mienne aussi.
+
+-*who_lainee
+Je céderais à ma cadette !
+
+-*who_lacadette
+Oh ! L'âge ne fait rien ici.
+
+-*who_cendrillon
+Par qui faut-il que je commence ?
+
+-*who_lacadette
+C'est par moi.
+
+-*who_lainee
+Oh ! Vous voulez prendre l'avance,
+Je le vois.
+Mais quittez ce fol espoir.
+
+-*who_lacadette
+Il faut voir.
+
+-*who_lainee
+Allons vite qu'on m'arrange.
+
+-*who_lacadette
+Je vous trouve fort étrange.
+Cendrillon, venez m'aider,
+Laissez-la s'accommoder.
+
+-*who_lainee
+Vous parlez bien à votre aise :
+Attendez, ne vous déplaise,
+Qu'elle ait posé mes rubans :
+Cendrillon n'a pas le temps.
+
+-*who_lacadette
+Ah ! Si vous êtes la maîtresse,
+Il est juste qu'on se presse.
+
+-*who_lainee
+C'est vous qui faites la Princesse ;
+Tout vous choque, tout vous blesse.
+
+-*who_ensemble
+Madame fait la Princesse,
+Madame fait la maîtresse.
+
+-*who_cendrillon
+Si vous parlez toutes les deux,
+Comment répondre à vos voeux.
+
+-*who_lainee
+Raisonneuse !
+
+-*who_lacadette
+Paresseuse !
+
+-*who_lainee
+Faut-il, quand on dit un mot,
+Que vous soyez de l'écot ?
+
+-*who_cendrillon
+Me gronderez-vous sans cesse,
+Quoique je n'aie aucun tort ?
+
+-*who_lainee
+Encore ?
+
+-*who_lacadette
+Aurez-vous bientôt fini ?
+Songez-vous que l'heure presse ?
+
+-*who_lainee
+Si je le sais ? Vraiment oui ;
+Eh ! vraiment oui.
+Mais quel démon vous transporte,
+De la presser de la sorte ?
+Pour finir plus promptement,
+Elle m'assomme la tête,
+La maladroite, la bête !
+Elle m'assomme la tête :
+Allez donc plus doucement,
+Plus doucement.
+
+-*who_cendrillon
+Je ne puis mieux faire,
+Mieux faire.
+
+-*who_lainee
+Ôte-toi de là.
+
+-*who_lacadette
+Ôte-toi de là.
+Va-t-en, va-t-en, va-t-en ma chère,
+De tes soins on se passera ;
+Ôte-toi de là, ma chère ;
+Et pour ma sour garde ce soin,
+Je n'en ai plus aucun besoin.
+Suivons l'Amour, c'est lui qui nous mène.
+
+**** *book_ *id_I10 *act_I *date_1759
+
+-*who_lamaraine
+Où vont-elles si gaiement ?
+
+-*who_cendrillon
+Ce n'est point un mystère ;
+Vous savez l'événement,
+À mon amour contraire.
+Azor les mande au Palais.
+Quelle triste nouvelle !
+Pourra-t-il, en voyant tant d'attraits,
+Ne pas m'être infidèle ?
+
+-*who_lamaraine
+L'espoir qui les conduit,
+Les séduit ;
+Soyez moins alarmée ;
+Vous verrez leurs projets
+Sans effets
+SanS aller en fumée.
+Ce sont autant de pas perdus ;
+Elles sont bien loin de leur compte ;
+J'en sais plus qu'elles là-dessus,
+Elles n'en auront que la honte. .
+L'épreuve qu'on doit exiger,
+Va les confondre et vous venger.
+
+-*who_cendrillon
+De quelle épreuve parle-t-on ?
+
+-*who_lamaraine
+Je ne puis vous le dire .
+Suffit qu'en cette occasions
+Rien ne saurait vous nuire ;
+Vous en aurez tout l'agrément,
+C'est moi qui vous l'assure.
+Allez au Palais seulement,
+Et tentez l'aventure,
+II faut aller disputer la victoire :
+Ce jour est celui de la gloire ;
+La Fortune et l'Amour veulent vous couronner.
+
+-*who_cendrillon
+À cet espoir flatteur dois-je m'abandonner ?
+
+-*who_lamaraine
+Partez vous dis-je, allez en assurance
+
+-*who_cendrillon
+Très volontiers. Mais...
+
+-*who_lamaraine
+      Quoi ?
+
+-*who_cendrillon
+      Ma bonne.
+
+-*who_lamaraine
+      Eh bien ?
+
+-*who_cendrillon
+Peut me montrer avec plus de décence,
+Ne faut-il pas ?...
+
+-*who_lamaraine
+      Non, non, il ne faut rien.
+
+-*who_cendrillon
+Eh ! Quoi ! Vous prétendez que parmi tant de Belles,
+Dont l'art relève encor les grâces naturelles,
+Dans l'état où je suis j'irai me présenter !
+Azor m'oserait-il seulement regarder ?
+
+-*who_lamaraine
+Votre beauté,
+Cet heureux don de la Nature,
+Votre beauté,
+Vous dédommage avec usure.
+N'altérez point par l'imposture
+Cette aimable simplicité ;
+La plus élégante parure,
+C'est la beauté.
+
+-*who_cendrillon
+Je souscris à vos volontés :
+Guidez mon ignorance ;
+Je dois répondre à vos bontés
+Par mon obéissance.
+
+**** *book_ *id_I11 *act_I *date_1759
+
+-*who_azor
+Ô toi qui me punis de mon indifférence,
+Amour, Amour, j'implore ta clémence ;
+Mon cour en ce moment abjure son erreur.
+Ah ! Si mon repentir désarme ta rigueur,
+Fais-moi connaître ce que j'aime ;
+Fais encor plus pour mon bonheur,
+Fais que j'en sois aimé de même.
+
+**** *book_ *id_I12 *act_I *date_1759
+
+-*who_pierrot
+Vous qui faisiez l'esprit fort ;
+Vous sentez donc votre tort ;
+Vous parliez différemment ;
+Je vous l'ai prédit, souvenez-vous en,
+Je vous ai prédit qu'Amour
+Vous jouerait un mauvais tour.
+
+-*who_azor
+Mon ordre a-t-il été suivi ?
+
+-*who_pierrot
+Seigneur, vous ferez obéi ;
+On vient de me l'apprendre.
+Quel sabbat nous aurons ici !
+Toutes nos Dames à l'envi
+Ont promis de s'y rendre.
+
+-*who_azor
+Je rêverai donc ma Déesse :
+Un Dieu propice à ma tendresse,
+À mes désirs pressants va la rendre aujourd'hui...
+
+-*who_pierrot
+Par ma foi, vous aurez beau faire ;
+Cet objet qui vous a su plaire
+Ne vous sera jamais rendu.
+
+-*who_azor
+Pourquoi donc ?
+
+-*who_pierrot
+      C'est quelque chimère,
+Une ombre, un être imaginaire ;
+Hier, quand elle a disparu,
+On a cherché tant qu'on a pu,
+Elle s'est trouvée... introuvable ;
+Pour moi je crois que c'est le Diable
+Qui sous ce minois simple et doux,
+S'est voulu divertir de vous.
+Laissez-donc là cette chaussure ;
+À quoi peut être vous servir ?
+Croyez vous y voir la figure
+Du tendron qui vous fait souffrir ?
+
+-*who_azor
+Vois, Pierrot, quelle gentillesse !
+
+-*who_pierrot
+Je vois plutôt votre faiblesse.
+
+-*who_azor
+Le joli pied ! Ah ! Qu'il me plaît !
+
+-*who_pierrot
+Oui, mais tient-il ce qu'il promet ?
+Par cet échantillon,
+Vous jugez d'une Belle ;
+Vous perdez la raison ;
+Pardonnez à mon zèle ;
+Mais, en honneur,
+C'est une erreur ;
+Souvent le pied le plus mignon
+Sert à porter, une laid'ron,
+Une laid'ron.
+
+-*who_azor
+Je me fuis fait à moi-même
+Les reproches les plus forts ;
+Du destin la loi suprême,
+Triomphe de mes efforts.
+Loin de blâmer ma tendresse,
+Sers plutôt, sers, mon ardeur ;
+Et respecte une faiblesse,
+Où j'attache mon bonheur.
+
+-*who_pierrot
+J'y ferai diligence,
+Comptez, comptez sur ma vigilance :
+J'y ferai diligence.
+
+**** *book_ *id_I13 *act_I *date_1759
+
+-*who_pierrot
+Mais qu'est-ce que j'entends ?
+
+-*who_lesuisse
+Doucement, doucement, doucement.
+
+-*who_pierrot
+Ah ! Quel charivari,
+Nous allons voir ici !
+Un régiment de Belles,
+En beaux atours, en modes nouvelles,
+Malgré les Sentinelles,
+Entrent dans le moment.
+
+-*who_lesuisse
+Doucement, doucement, doucement.
+
+-*who_lechoeurdesfemmes
+C'est l'ordre du Roi ;
+Monsieur, laissez-moi,
+Passer, je vous prie.
+C'est l'ordre du Roi ;
+Je vous en supplie,
+Monsieur, laissez-moi.
+
+-*who_lesuisse
+Si vous n'y prenir garde,
+Moi, de mon hallebarde,
+Je donne un coup à toi.
+
+-*who_lechoeurdesfemmes
+C'est l'ordre du Roi;
+Monsieur laissez-moi. ;
+
+-*who_lesuisse
+Personne n'y passe.
+
+-*who_lechoeurdesfemmes
+C'est l'ordre du Roi.
+
+-*who_lesuisse
+Je ferai main basse,
+Jarni, par mon foi.
+
+**** *book_ *id_I14 *act_I *date_1759
+
+-*who_pierrot
+Voici nos aspirantes ;
+Voyez, voyez ; qu'elles sont charmantes !
+Voici nos Aspirantes ;
+Défendez bien, Seigneur,
+Votre cour,
+Votre cour.
+Aimez-vous la blonde ou la brune ?
+Ici l'on a de quoi choisir...
+Ne les faites donc pas languir.
+Pourquoi faut-il n'en prendre qu'une ?
+J'en vois beaucoup qui dès ce soir,
+Accepteraient bien le mouchoir.
+
+-*who_lainee
+Je viens, Seigneur...
+
+-*who_lacadette
+Avec grande impatience....
+
+-*who_lainee
+Jouir d'un honneur....
+
+-*who_lacadette
+J'ai couru, Seigneur...
+
+-*who_lainee
+Pour moi bien flatteur.
+
+-*who_lacadette
+Sitôt votre ordre venu...
+
+-*who_lainee
+L'aurais-je jamais cru ?
+
+-*who_lacadette
+J'ai fait diligence.
+
+-*who_lainee
+Ce jour précieux...
+
+-*who_lacadette
+Moment trop heureux !
+
+-*who_lainee
+Comble tous mes voeux.
+
+-*who_lacadette
+Quel doux espoir...
+
+-*who_lainee
+Pour moi quelle gloire...
+
+-*who_lacadette
+J'ose concevoir !
+
+-*who_lainee
+D'être en votre mémoire !
+
+-*who_lacadette
+Tant de Belles à la cour...
+
+-*who_lainee
+Aussi ma reconnaissance...
+
+-*who_lacadette
+Peuvent briguer votre amour...
+
+-*who_lainee
+Vous assure du retour.
+
+-*who_lacadette
+Que je n'osais me flatter...
+
+-*who_lainee
+Excusez mon imprudence.
+
+-*who_lacadette
+D'avoir su le mériter.
+
+-*who_lainee
+Le zèle a su m'emporter.
+
+-*who_azor
+Je n'entends rien à ce jargon.
+
+-*who_pierrot
+Ni moi non plus, je vous répond ;
+Ce sont deux sours qui, cette nuit,
+Au bal ont fait du bruit ;
+Qui, d'abord qu'on les regardait,
+Croyait que l'on leur en contait ;
+Qui toujours minaudant ;
+Toujours vous minaudant ;
+Semblaient vous dire ; allons, Seigneur,
+Humanisez donc votre cour.
+
+-*who_azor
+Un tel empressement
+Me flatte infiniment...
+Tâche de m'en défaire.
+
+-*who_pierrot
+Le Prince, en vérité...
+Se trouve... très flatté...
+Je ne sais comment faire.
+Nous ne sommes pas
+Hors d'embarras ;
+Toutes vont venir,
+Et vous tenir
+Même langage ;
+Nous ne sommes pas,
+Hors d'embarras ;
+Toutes vont bientôt vous tomber sur les bras.
+Il faut pour vous débarrasser
+De cette foule ridicule,
+Il faut, vous dis-je, commencer
+À faire l'essai de la mule.
+
+**** *book_ *id_I15 *act_I *date_1759
+
+-*who_lamaraine
+Entrez donc.
+
+-*who_cendrillon
+      Non, j'ai trop peur ;
+Je sens palpiter mon cour.
+
+-*who_lamaraine
+Qui peut vous causer un tel effroi ?
+
+-*who_cendrillon
+C'est que l'on va se moquer de moi.
+
+-*who_lamaraine
+Point tant de discours,
+Avancez toujours.
+
+-*who_cendrillon
+Guidez donc mes pas ;
+Ne me quittez pas.
+
+-*who_lamaraine
+Ah ! Que de façon !
+
+-*who_cendrillon
+Ma Bonne, venez donc.
+
+-*who_lechoeurdesfemmes
+Quelle Nymphe se présente !
+Oh, oh, tourelouribo !
+Voyez donc qu'elle est charmante !
+Oh, oh, tourelouribo !
+En honneur, elle m'enchante.
+Oh, oh ,oh, tourelouribo !
+
+-*who_lainee
+Que venez-vous chercher, petite téméraire ?
+Osez-vous vous montrer avec ces haillons-là ?
+
+-*who_lacadette
+Sors, ou crains ma colère.
+
+-*who_lamaraine
+Non, elle restera.
+
+-*who_azor
+Pierrot, fais-les donc taire.
+
+-*who_pierrot
+Paix-là !
+
+-*who_azor
+Venez,venez.
+      Que d'appas ! Qu'elle est belle !
+Venez, venez ; bannissez la frayeur.
+Quel feu nouveau vient m'enflammer pour elle !
+Quel nouveau trait perce mon cour !
+
+-*who_lamaraine
+À notre témérité
+Daignerez-vous faire grâce ?
+Et n'est-ce point trop d'audace ?
+
+-*who_azor
+Ah ! J'en suis trop enchanté.
+Si quelqu'objet peut s'attendre,
+À m'enchaîner sous ses lois ;
+Vous seule y pouvez prétendre,
+Vous seule fixez mon choix.
+
+-*who_pierrot
+Et la mule ?
+Et la mule ?
+Seigneur,
+Un peu moins d'ardeur,
+Qui trop avance, recule ;
+Et la mule ?
+Ce n'est pas assez pour lui plaire,
+D'avoir beaux yeux, belle bouche, beaux bras ;
+Jambe fine et taille légère,
+Sont des beautés qui ne le flattent pas.
+Il faut pour gagner son amitié,
+Un joli petit,
+Un petit joli,
+Un joli gentil petit pied.
+
+-*who_azor
+Non, je ne saurais
+Risquer à perdre tant d'attraits ;
+Non, non, non, je ne saurais
+Remettre au sort de si chers intérêts.
+Je ne veux devoir qu'à l'Amour,
+Le prix que j'attends en ce jour.
+Ce Dieu lui-même,
+Dans l'objet que j'aime,
+M'assure un bien suprême.
+Non, je ne saurais
+Risquer à perdre tant d'attraits ;
+Non, non, non, je ne saurais
+Remettre au sort de si chers intérêts.
+Oui, je vous aime ;
+Mais quel fera le prix de cette ardeur extrême ?
+Vous pouvez d'un seul mot dissiper mes ennuis.
+
+-*who_cendrillon
+Seigneur...
+
+-*who_azor
+      Vous balancez... parlez...
+
+-*who_cendrillon
+      Non, je ne puis.
+
+-*who_azor
+Que je vous aime !
+
+-*who_cendrillon
+Eh ! Bien, oui, je vous aime.
+
+-*who_pierrot
+Voilà, ma foi, ce qui s'appelle,
+Mener l'Amour tambour battant ;
+Sans en faire à deux fois, la Belle,
+D'un plein faut, court au dénouement ;
+Mais laissons-les s'assurer de leurs flammes,
+En pareil cas, un témoin toujours nuit ;
+Adieu, Mesdames,
+Tout est dit.
+
+-*who_lainee
+Cette petite Cendrillon !
+
+-*who_lacadette
+Cette petite Cendrillon !
+
+-*who_lamaraine
+De deux sours est-ce là le ton ?
+Apprenez l'une et l'autre
+À respecter son rang et son nom ;
+Ils valent bien le vôtre.
+Mais vous l'avez trop outragée ;
+Il est temps qu'elle soit vengée,
+Demeurez encor un instant,
+Je vais vous la faire connaître.
+Pour le sort le plus éclatant,
+Sachez que les Dieux l'ont fait naître.
+Si le Prince Azor,
+Voyait encor
+Son inconnue ?...
+Dans ce jeune objet,
+S'il la retrouvait trait pour trait ?...
+Un charme secret
+La dérobait à votre vue ;
+Mais à votre amour,
+Je la rends en ce jour.
+
+-*who_azor
+Quoi ! C'est vous
+Qui m'inspiriez les transports les plus doux ?
+Quoi ! C'est vous ?...
+
+-*who_lamaraine
+Reconnaissez-vous ceci ?
+
+-*who_pierrot
+Vraiment, ma Commère, oui :
+Tenez, voilà la pareille.
+Quelle est donc cette merveille !
+Je me perds dans tout ceci.
+
+-*who_azor,cendrillon,lamaraine
+Aux plus tendres ardeurs,
+Livrons, livrons nos cours
+Livrons, livrons nos cours
+Livrez, livrez vos cours
+L'amour nous engage,
+L'amour vous engage,
+L'Hymen va nous unir,
+L'Hymen va vous unir,
+Quel plaisir ! Quel plaisir J
+Toujours plus amoureux,
+Serrons, serrons, les noeuds,
+Serrez, serrez, les noeuds,
+Qui vont nous rendre heureux !
+Qui vont vous rendre heureux !
+
+-*who_lesdeuxsoeurs
+Aux plus noires fureurs ;
+Livrons, livrons nos cours ;
+La honte, la rage,
+Est notre partage ;
+Ah ! C'est trop en souffrir !
+Fuyons, fuyons ces lieux,
+Et délivrons nos yeux,
+D'un spectacle odieux.
+
+-*who_cendrillon
+Des rigueurs d'un cruel destin
+Aurai-je toujours à ma plaindre ?
+Des rigueurs d'un cruel destin,
+Aurai-je toujours à me plaindre ?
+Un faible espoir me luit ne vain,
+Je n'en ai pas moins tout à craindre.
+J'ai joui cette nuit du spectacle enchanteur,
+Qu'étale aux yeux le cour la plus brillante.
+Un prince à mes genoux exprimait son ardeur.
+Il ne me reste hélas ! De toute ma grandeur
+Qu'un souvenir qui me tourmente.
+
+-*who_lamaraine
+Ah ! Dans quel état je vous vois !
+Ne cherchez point d'excuse.
+Je devine aisément pourquoi
+Vous n'avez point suivi ma loi.
+Il est vrai ; j'en suis confuse.
+Oh ! Vraiment je le crois, je le crois,
+Mais pourquoi, mais pourquoi
+Ce manque de foi, ce manque de foi ?
+Fillette toujours raisonne,
+Et n'écoute personne,
+Quand on s'oppose à son penchant.
+
+-*who_cendrillon
+Non, non ; c'est que, ma Bonne,
+C'est que, ma Bonne,
+Je n'ai pas pu faire autrement,
+Je n'ai pas pu faire autrement.
+
+-*who_lamaraine
+Il fallait n'en croire que moi,
+Il fallait mieux suivre ma loi.
+
+-*who_cendrillon
+Il est vrai : mais ma folie
+Est bien punie : un moment...
+
+-*who_lamaraine
+Un moment fait effet ; on s'y plaît,
+On s'en fait un amusement.
+
+-*who_cendrillon
+Pardon, ma Bonne, Pardon, ma Bonne,
+Je n'ai pas pu faire autrement.
+Oui, oui. Pardon, ma bonne,
+Je n'ai pas pu faire autrement,
+Pardon, ma Bonne, Pardon, ma Bonne
+Je n'ai pas pu faire autrement.
+Je le sais bien,
+J'ai tout perdu.
+En moins de rien
+tout a disparu :
+Que le sort me traite,
+S'il veut, sans pitié,
+Non, non, je ne regrette
+Que votre amitié,
+Non, non, je ne regrette
+Que votre amitié.
+Les yeux vers moi tournés sans cesse,
+Tendrement il me regardait,
+Il me regardait ;
+De ses regards la douceur et l'ivresse,
+Et l'ivresse,
+M'inspiraient ce qu'il ressentait,
+M'inspiraient ce qu'il ressentait,
+À mes côtés est une place,
+Il s'en saisit ; Il s'enhardit,
+Je m'attendrit, Je m'attendris,
+Je veux le fuit, et je ne puis,
+Je ne veux finir, et ne puis,
+Je veux fuir et ne puis,
+Je veux le fuit, et je ne puis.
+Déjà mon trouble augmentait son audace,
+Quand minuit sonna, Et tout finit là :
+Déjà mon trouble augmentait son audace,
+Quand minuit sonna,
+Et tout finit là, tout finit là, tout finit là.
+Amour, dont je ressens la flamme,
+Épargne un faible cour qui se livre à tes coups,
+Épargne un faible cour qui se livre à tes coups,
+Les traits dont tu blesses mon âme
+Sont-ils l'effet de ton courroux,
+Sont-ils l'effet de ton courroux ?
+Fais briller à mes yeux un rayon d'espérance,
+Ou rends moi mon indifférence,
+Mon sort me paraître plus doux.

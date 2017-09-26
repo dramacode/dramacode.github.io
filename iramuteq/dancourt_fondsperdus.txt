@@ -1,0 +1,1752 @@
+
+
+**** *book_ *id_I01 *act_I *date_1686
+
+-*who_merlin
+Enfin donc, quoi qu'il en puisse arriver, vous voulez voir Angélique ?
+
+-*who_valere
+Oui, mon pauvre Merlin, je veux savoir d'elle sa destinée et la mienne, et je ne saurais plus vivre dans la contrainte où nous sommes depuis si longtemps l'un et l'autre.
+
+-*who_merlin
+Vous allez rompre toutes les mesures que nous avons prises, si l'on vous voit avec Angélique.
+
+-*who_valere
+Que je suis malheureux.
+J'aime, je suis aimé de la plus aimable personne du monde, mon père s'avise d'en devenir amoureux ; et, pour comble de disgrâce, je donne malheureusement de l'amour à la mère de celle que j'aime.
+
+-*who_merlin
+Tout cela est vrai mais, raisonnons un peu là-dessus.
+
+-*who_valere
+Et suis-je en état de raisonner, dans le chagrin où je me trouve, lorsque mon amour ?...
+
+-*who_merlin
+Ma foi, Monsieur, votre amour n'est qu'une bête, puisqu'il vous empêche de raisonner.
+Je voudrais bien savoir d'où diantre il peut venir ce chagrin où vous des si mal à propos.
+Une veuve, un peu sur le retour à la vérité, est amoureuse de vous ; le grand malheur !
+Elle est assez folle pour se persuader que vous l'aimez aussi quel accident !
+Dans cette pensée, elle vous donne la meilleure partie de son bien ; cela est fort chagrinant !
+Grâce aux petits soins que je prends, vous n'avez, pas seulement la peine de souhaiter cela est bien rude !
+Sans faire la moindre démarche qui paraisse intéressée, vous voyez pleuvoir chez vous les donations ; quelle affliction !
+L'argent comptant ; le moyen de résister à ces affaires-là !
+Les pierreries ; voilà de quoi s'aller pendre !
+Hé morbleu, que vous ne savez guère bien user de votre fortune !
+Combien y a-t-il de jeunes gens à Paris, des mieux bâtis et des plus huppés, qui sous de pareilles conditions voudraient toute leur vit : être obligés de faire assidûment leur cour à Mélusine et à Urgande même, si elles vivaient encore.
+
+-*who_valere
+Ali !
+Mon pauvre Merlin, qu'ils en seraient bientôt dégoûtés, s'ils étaient dans le même état où je suis aujourd'hui.
+
+-*who_merlin
+Donnez-vous un peu de patiente, nous allons examiner le reste.
+Premièrement, je tombe d'accord avec vous qu'une vieille amoureuse est un très fâcheux animal.
+Mais enfin, Madame Gérante n'est pas si fort avancée dans la carrière elle n'a que quarante-cinq, ou quarante-huit ans tout au plus, et ce n'est à proprement parler, qu'une demi-vieille.
+Il est vrai qu'elle est un peu pressante, elle veut que vous l'épousiez aujourd'hui ; cela est violent, et je ne vous conseille pas de le faire.
+
+-*who_valere
+Ah !
+Je n'ai pas attendu tes conseils pour prendre ma résolution.
+
+-*who_merlin
+Je n'en suis point surpris.
+Venons à Mademoiselle sa fille, que vous aimez ; vous avez raison, la fille est plus jeune que la mère ; mais enfin, vous êtes bien persuadé que cette fille vous aime, et ce n'est pas là ce qui vous chagrine apparemment ?
+Il est vrai que Monsieur votre père l'aime aussi, qu'il se ruine pour l'enrichir.
+Il y aurait quelque chose a dire à cela, si Madame Gérante ne vous donnait pas merveilleusement bien votre revanche, et qu'elle ne fit pas les mêmes choses pour vous.
+Mais, Dieu merci.
+
+-*who_valere
+Ah !
+Morbleu tu m'as engagé là dans une affaire qui ne va point aussi vite que je l'avais espéré ; nous restons longtemps dans un certain milieu, dont mon impatience ne me permet pas d'attendre la fin ; et outre la répugnance naturelle que j'ai pour les moyens dont tu te sers, je ne vois pas bien encore comment tu prétends parvenir au but que tu t'es proposé.
+
+-*who_merlin
+Non ?
+
+-*who_valere
+Non.
+
+-*who_merlin
+Oh bien j'ai donc plus d'esprit que vous ; car je vois clairement moi, que pourvu que vous me laissiez faire, et que vous ne traversiez point mes desseins par vos impertinents scrupules, je vois, dis-je, Monsieur votre père et Madame Gérante dans la nécessité de faire tout ce que nous voudrons.
+
+-*who_valere
+Mais, elle me presse de l'épouser.
+
+-*who_merlin
+Promettez tout ; ce sera moi qui ferai dresser les articles.
+
+-*who_valere
+Oh bien !
+Fais donc ce que tu voudras mais, je veux voir Angélique, et tout à l'heure.
+
+-*who_merlin
+Oh !
+Voilà justement à quoi je ne consens point.
+
+-*who_valere
+Quoi !
+Je n'aurai pas un moment ?
+Quoi cette vieille folle ?...
+
+-*who_merlin
+Doucement, Monsieur, doucement, nous sommes ici chez elle et quoiqu'elle soit sortie, elle a un certain maraud de valet bègue, qui a beaucoup de peine à parler ; mais on entend merveilleusement bien tout ce qu'on dit, et qui est toujours au guet pour écouler.
+
+-*who_valere
+Hé bien, Merlin, je me tairai, pourvu que tu me fasses parler à Angélique.
+
+-*who_merlin
+Vous dites toujours la même chose.
+Remettons la partie à une autre fois j'ai pour vos affaires quelque dessein dans la tête que vous m'allez gâter, si Madame Gérante vous trouve ici.
+
+-*who_valere
+Et quel est ce dessein, dis-moi ?
+
+-*who_merlin
+C'est une petite entreprise utile et nécessaire pour tirer de la bonne dame certains deux mille écus qu'elle a reçus depuis peu, et qui seront beaucoup mieux dans nos coffres que dans les siens.
+
+-*who_valere
+Mon pauvre Merlin, je vois Angélique.
+
+-*who_merlin
+Ah !
+J'enrage.
+
+**** *book_ *id_I02 *act_I *date_1686
+
+-*who_valere
+Ah !
+Madame, que je vous suis redevable de me donner vous-même les occasions de vous entretenir que ce bonheur me récompense bien de tous les moments que j'ai passés sans oser vous parler J'ai maintenant mille choses à vous dire, Madame.
+
+-*who_merlin
+Monsieur, parlez en abrégé, s'il vous plaît, le temps nous presse un peu.
+
+-*who_angelique
+Et moi, Valère, j'ai de bien fâcheuses nouvelles à vous apprendre.
+Votre père me persécute pour me faire consentir à l'épouser ; il demanda hier l'aveu de ma mère, et vous jugez bien qu'il l'a obtenu.
+Elle ne m'a donné que cette seule journée pour me préparer.
+
+-*who_valere
+Que je suis malheureux !
+Hélas, Madame votre mère me fit hier aussi la même proposition.
+
+-*who_merlin
+C'est apparemment la même lune qui gouverne la cervelle de ces deux bonnes gens-là.
+
+-*who_valere
+Merlin, mon pauvre Merlin, tu vois l'embarras nous sommes.
+
+-*who_merlin
+Bon, bon, vous voilà bien malades d'épouser Madame Gérante, vous ; et vous, Monsieur Oronte.
+C'est le pis qu'il en puisse arriver.
+
+-*who_valere
+Que tu me fais passer de fâcheux moments !
+
+-*who_merlin
+Ne serez-vous pas bien aise de devenir le beau-père de Monsieur votre père ?
+Je ne trouve rien de plus drôle que cela, moi.
+
+-*who_angelique
+Quelle extravagance !
+
+-*who_merlin
+Hé !
+Madame, votre mère deviendra votre fille, à vous ; cela sera tout à fait plaisant, oui.
+
+-*who_valere
+Et de grâce, Merlin, point de plaisanteries à contre-temps achevé, s'il se peut, de nous rendre service, et sois assuré d'une parfaite reconnaissance, si tu viens à bout, de celle affaire.
+
+-*who_merlin
+Oh !
+Pour cela oui, j'en viendrai à bout, pourvu que vous soyez raisonnables, et que, vous continuiez toujours d'avoir beaucoup de complaisance, vous pour Monsieur Oronte, et vous pour Madame Gérante ; que vous n'alliez point effaroucher leurs esprits par des refus ; mais que vous vous serviez au contraire du faible qu'ils ont, pour obtenir un délai, et pour vous approprier leurs dépouilles.
+Par exemple, vous, qui vous empêche de vous faire faire par le bonhomme une bonne donation dans les formes d'un certain contrat du trente mille écus qui lui restent ?
+Lisette conduira fort bien celle affaire, et elle est venue à bout de choses bien plus difficiles : c'est une illustre, Madame.
+
+-*who_lisette
+Oh !
+Monsieur Merlin, cela vous plaît à dire.
+
+-*who_merlin
+Pour moi, je vous promets foi d'honnête homme, de ruiner absolument Madame votre mère ; c'est tout ce que je puis pour voire service et quand vous serez une fois les maîtres de tout, vous pourrez cesser de vous contraindre, et vous leur déclarerez, alors vos véritables sentiments.
+
+-*who_angelique
+Cela me paraît un peu rude, Valère.
+
+-*who_merlin
+Oh !
+Ventrebleu Madame, point de scrupules.
+
+-*who_valere
+Si la tendresse la plus vive peut mériter...
+
+-*who_merlin
+Et vous, Monsieur, point de compliments remettez, s'il vous plaît, toutes vos tendresses pour une autre saison.
+Il y a longtemps que nous jasons ici, il est temps de nous séparer.
+
+-*who_valere
+Quel supplice de nous quitter sitôt !
+
+-*who_angelique
+Je ressens autant de peine que vous.
+
+-*who_lisette
+On le voit assez, sans que vous preniez la peine de le dire.
+
+-*who_merlin
+Je suis dans des appréhensions mortelles.
+
+-*who_valere
+Quand vous reverrai-je, Madame ?
+
+-*who_angelique
+Le plus tôt qu'il me sera possible, si vous aimez à ma faire plaisir.
+
+**** *book_ *id_I03 *act_I *date_1686
+
+-*who_lisette
+Nous en voilà débarrassés.
+
+-*who_merlin
+Ma foi, j'avais terriblement peur que la mère ne survint : nous étions gâtés franchement.
+
+-*who_lisette
+Oh ça, de quoi s'agit-il ?
+Car, après ce que j'ai déjà fait, quand il est question d'achever, je ne prétends point demeurer ici les bras croisés.
+
+-*who_merlin
+Ah !
+Ah !
+Tu prends donc cette affaire avec beaucoup de chaleur.
+
+-*who_lisette
+Assurément ; et depuis que je m'en mêle, j'ai tiré pour Angélique en diverses fois plus de dix mille écus de Monsieur Oronte.
+
+-*who_merlin
+Et moi, de Madame Gérante, près de quarante mille francs pour mon maître.
+
+-*who_lisette
+Voilà de l'argent bien placé !
+Il y a des gens bien fous dans le monde.
+
+-*who_merlin
+Il n'y a point d'extravagance que de vieilles gens amoureux ne soient capables de faire.
+
+-*who_lisette
+Et si, il faut voir avec quelle indifférence Angélique a reçu tous ces présents-là.
+
+-*who_merlin
+La pauvre enfant !
+Et mon maître, lui, n'a jamais pris qu'avec chagrin tout ce que Madame Gérante lui a donné.
+
+-*who_lisette
+Le pauvre garçon !
+Cela est bien dur aussi d'être obligé comme cela de ruiner son père et sa mère, pour leur faire entendre raison.
+
+-*who_merlin
+Ils ont bien de la peine à s'y résoudre.
+
+-*who_lisette
+Oui ; mais les choses sont déjà bien avancées, et il est un peu tard de s'aviser de reculer, quand on n'a plus qu'un pas à faire.
+
+-*who_merlin
+Au bout du compte, il n'y a pas grand mal à tout cela, et le bien ne sort point de la maison.
+
+-*who_lisette
+Non vraiment, et c'est proprement comme l'argent du jeu, qui passe seulement d'une main dans une autre.
+
+-*who_merlin
+Fort bien, et nous avons le profit des cartes, nous.
+
+-*who_lisette
+Cela est vrai.
+Mais voici Madame qui revient, il faut changer de style.
+
+**** *book_ *id_I04 *act_I *date_1686
+
+-*who_madamegerante
+Bonjour, Merlin.
+
+-*who_merlin
+Madame, je vous souhaite le bonjour.
+
+-*who_madamegerante
+Que fait ton maître ?
+Comment se porte-t-il ?
+
+-*who_merlin
+Ma foi, Madame, je ne sais pas trop bien, je crois ; le pauvre garçon n'a pas ferme l'oeil de toute la nuit, il n'a fait que se tourmenter dans son lit.
+
+-*who_madamegerante
+Ah voilà pour le faire malade et sur le matin encore, ne s'est-il point endormi ?
+
+-*who_merlin
+Je croyais qu'il reposerait toute la matinée.
+Il commençait même de s'assoupir ; mais comme vous savez, Madame, le matin... c'est le temps des songes ordinairement.
+J'étais dans sa chambre à préparer ses habits, quand je l'ai entendu grommeler quelque chose entre ses dents ; je me suis bien douté de ce que c'était ; car il rêve tout haut le plus souvent.
+Il pensait à Vous dans ce moment-là.
+
+-*who_madamegerante
+À moi, Merlin ?
+Oui vraiment, il me l'a dit quand il a été éveillé.
+
+-*who_madamegerante
+Est-il possible ?
+Belle demande Est-ce que je voudrais mentir.
+
+-*who_lisette
+Bon, Merlin vous le dirait-il, s'il n'était vrai ?
+
+-*who_merlin
+Oh non demandez à Lisette, elle sait fort bien que je ne mens jamais.
+
+-*who_madamegerante
+As-tu entendu quelque chose de ce qu'il disait ?
+
+-*who_merlin
+Ah !
+Il disait les choses du monde les plus tendres.
+
+-*who_madamegerante
+Et quoi encore ?
+
+-*who_merlin
+Des choses dont vous allez être charmée.
+
+-*who_lisette
+Dépêche-toi de le dire.
+
+-*who_merlin
+Il vous appelait son coeur.
+
+-*who_madamegerante
+Sérieusement ?
+
+-*who_merlin
+Sa belle enfant.
+
+-*who_madamegerante
+Tout de bon ?
+
+-*who_merlin
+Son aimable mignonne.
+
+-*who_madamegerante
+Lisette !
+
+-*who_merlin
+Son aimable mignonne.
+
+-*who_madamegerante
+Lisette !
+
+-*who_merlin
+Son adorable petite femme.
+
+-*who_lisette
+Madame !
+
+-*who_merlin
+Je voudrais que vous eussiez été la pour l'entendre.
+
+-*who_madamegerante
+Cela m'aurait bien fait plaisir, Merlin.
+
+-*who_merlin
+Oh !
+S'il ne s'était pas éveillé, la suite vous en aurait fait bien davantage.
+
+-*who_madamegerante
+Ce pauvre garçon !
+Cela est bien obligeant au moins, Lisette, de faire des songes de moi dans ces termes-là.
+
+-*who_lisette
+Assurément, Madame, ce jeune homme-là vous aime terriblement.
+
+-*who_madamegerante
+Et ne s'est-il point rendormi pour rêver encore.
+
+-*who_merlin
+Non, Madame : il s'est habillé le plus vite qu'il a pu, et il est venu ici pour vous voir ; mais ne vous trouvant point, il est tombé dans une mélancolie épouvantable, et il s'en est allé sans nous rien dire.
+Pour moi, Madame, j'ai cru qu'il était de mon petit devoir de vous attendre ici pour vous faire part des agréables rêveries de mon maître.
+
+-*who_madamegerante
+Je te tiendrai compte du plaisir que tu m'as fait.
+
+-*who_merlin
+Je vais le chercher, et lui dire que vous êtes ici.
+
+-*who_madamegerante
+Fais-le venir le plus tôt qu'il pourra.
+
+-*who_merlin
+Je vous l'amènerai moi-même, si je le trouve.
+
+**** *book_ *id_I05 *act_I *date_1686
+
+-*who_madamegerante
+Angélique est-elle habillée ?
+
+-*who_lisette
+Bon, elle n'est peut-être pas encore coiffée seulement.
+Ne faut-il pas qu'elle soit toujours trois heures devant un miroir, et qu'elle passe toute la matinée à ajuster des choux, des souris, des palissades, des nonpareilles ?...
+Je ne sais pas de qui elle tient ; car vous êtes la diligence même, vous ; et depuis que les maux de tête vous ont obligée de faire couper vos cheveux, vos coiffures sont toujours montées pour plus de quinze jours, et vous n'êtes pas plus de temps à les mettre que si c'était une perruque cela est fort commode au moins.
+
+-*who_madamegerante
+Oui vraiment, outre que c'est un remède souverain contre les maux de tête, cela vous met en droit de choisir la couleur des cheveux qui vous plaît le plus, et qui vient le mieux à l'air de votre visage.
+
+-*who_lisette
+Le châtain clair vous sied admirablement bien, Madame.
+
+-*who_madamegerante
+Et le blond, Lisette ?
+
+-*who_lisette
+Ah !
+Quand vous mettez du blond, vous êtes comme ces petits anges de cire.
+
+-*who_madamegerante
+Le noir ne me va pas trop mal aussi.
+
+-*who_lisette
+Comment ?
+Vous êtes charmante en toutes manières mais les cheveux noirs, surtout, ne servent pas peu à faire paraître la blancheur de votre teint.
+
+-*who_madamegerante
+Comment l'ai-je aujourd'hui, Lisette ?
+
+-*who_lisette
+Ah !
+Bons Dieux !
+Tout de lys et de roses.
+
+-*who_madamegerante
+Plus de quatre personnes me l'ont déjà dit.
+
+-*who_lisette
+Vous seriez bien folle de l'avoir autrement ; et en teint comme en cheveux, il faut toujours prendre les plus belles couleurs.
+
+-*who_madamegerante
+Parlons d'autres choses, Lisette.
+
+-*who_lisette
+Ah, Madame !
+Voyez Monsieur Oronte.
+Quelle propreté !
+Il ne parait pas quarante ans avec cet habit-la, et le voilà rajeuni de plus de la moitié.
+
+**** *book_ *id_I06 *act_I *date_1686
+
+-*who_monsieuroronte
+Très humble serviteur à mon aimable bru.
+
+-*who_madamegerante
+Comment, mon gendre, vous avez l'air tout à fait conquérant aujourd'hui.
+
+-*who_lisette
+Son gendre !
+Sa bru !
+Comme ils s'accommodent ?
+Hum, qui compte sans son hôte, compte deux fois.
+
+-*who_monsieuroronte
+Vous trouvez donc, Madame, que j'ai quelque mine avec cet habit-là ?
+
+-*who_madamegerante
+La meilleure du monde !
+Et je vous assure que si ma liberté n'était engagée, vous lui donneriez un terrible assaut.
+
+-*who_monsieuroronte
+À Dieu ne plaise.
+Madame, que je fisse un pareil chagrin à mon fils.
+
+-*who_lisette
+Il serait beau vraiment que vous lui coupassiez l'herbe sous le pied.
+
+-*who_monsieuroronte
+Ce n'est point mon dessein, Lisette.
+Mais vous, Madame, vous voilà plus belle que jamais.
+
+-*who_madamegerante
+Je ne sais comment cela se fait car je ne prends aucun soin pour cela.
+
+-*who_lisette
+Oh !
+Non, assurément.
+
+-*who_monsieuroronte
+Que je serais heureux, Madame, d'être aussi digne des affections d'Angélique, que vous l'êtes de la tendresse de Valère !
+
+-*who_lisette
+Oh !
+Par ma foi, les choses sont bien égales, je vous en réponds.
+
+-*who_madamegerante
+Angélique a de trop bons yeux, Monsieur, pour ne pas rendre justice a tout ce que vous valez.
+
+-*who_lisette
+Mais en effet, vous me paraissez charmants l'un et l'autre.
+Tenez-vous un peu, regardez-moi, là prenez-vous par la main, que je vous vois marcher.
+Le joli couple que voilà !
+Par ma foi, il n'y a point de jeunes gens qui vous valent, et sans y chercher tant de façons, vous devriez vous marier ensemble.
+
+-*who_monsieuroronte
+Valère n'y consentirait jamais.
+
+-*who_madamegerante
+Angélique serait au désespoir.
+
+-*who_lisette
+Qu'elle va être aise.
+Madame, de le voir comme cela !
+
+-*who_madamegerante
+Va t'avertir, Lisette, que Monsieur est ici : allons l'attendre dans ma chambre.
+
+**** *book_ *id_I07 *act_I *date_1686
+
+-*who_lisette
+Tout est merveilleusement bien disposé pour ce que nous souhaitons.
+Ces bonnes gens-là sont plus fous et plus amoureux que jamais.
+Allons avertir Angélique.
+
+**** *book_ *id_II01 *act_II *date_1686
+
+-*who_lisette
+Mais vous n'y songez pas de vous dérober ainsi pendant que Monsieur Oronte est dans le cabinet de Madame votre mère.
+Que deviendra-t-il, quand il ne vous trouvera plus ?
+Vous l'allez mettre au désespoir.
+
+-*who_angelique
+En vérité, Lisette, je ne pouvais plus y tenir, je mourais de chagrin ; et ma mère m'a bien fait plaisir d'avoir quelque chose de particulier à lui dire.
+
+-*who_lisette
+Je ne sais ce que ce peut être ; mais je me doute que Valère et vous vous avez bonne part à leur entretien.
+
+-*who_angelique
+Ah !
+Que je crains qu'ils ne prennent des mesures trop justes, et que nous n'espérions en vain de les rompre.
+
+-*who_lisette
+Bon, bon, que les mesures de vieux fous comme cela peuvent-ils prendre, que le bonheur des jeunes gens, et l'adresse de ceux qui les servent, ne rendent facilement inutiles ?
+Soyez-en repos là-dessus.
+Mais à propos, comment le trouvez-vous aujourd'hui, Monsieur Oronte ?
+
+-*who_angelique
+Ah !
+Ne me fais pas souvenir de lui, je te prie, il ne m'a jamais paru si fatigant et si ennuyeux.
+
+-*who_lisette
+Vous lui faisiez une triste mine, franchement, et ce n'est guère là le moyen de faciliter notre entreprise : je vous j'avais tant dit.
+
+-*who_angelique
+Et quelle mine veux-tu que je fasse à un homme qui me dit cent extravagances plus impertinentes les unes que les autres, cent fades puérilités ?
+
+-*who_lisette
+Il fait tout ce qu'il peut pour paraître jeune.
+Mais voici Monsieur Oronte : montez vite dans votre chambre, et me laissez seule avec lui.
+
+**** *book_ *id_II02 *act_II *date_1686
+
+-*who_lisette
+Vous avez beau dire, et beau me prier, j'aimerais mieux mourir que d'en avoir rien fait.
+
+-*who_monsieuroronte
+C'est Lisette.
+
+-*who_lisette
+Je lui conseillerai plutôt le contraire.
+
+-*who_monsieuroronte
+Que dit-elle là ?
+
+-*who_lisette
+Cela est horrible.
+
+-*who_monsieuroronte
+Hem.
+
+-*who_lisette
+En agir ainsi avec Monsieur Oronte !
+
+-*who_monsieuroronte
+C'est moi qu'elle nomme.
+
+-*who_lisette
+Le meilleur et le plus honnête homme du monde ?
+J'enrage.
+
+-*who_monsieuroronte
+Holà Lisette, qu'est-ce qu'il y a ?
+
+-*who_lisette
+L'amener a cet excès d'amour !
+
+-*who_monsieuroronte
+À qui en as-tu ?
+
+-*who_lisette
+Pour lui mettre le pied sur la gorge !
+
+-*who_monsieuroronte
+Mais, réponds-moi donc ?
+
+-*who_lisette
+Et lui faire faire les choses malgré qu'il en ait !
+
+-*who_monsieuroronte
+Est-ce que l'emportement te rend aveugle ?
+
+-*who_lisette
+Ah !
+Ah !
+Ah !
+Monsieur, je vous demande pardon.
+Je suis si fort irritée....
+
+-*who_monsieuroronte
+Qu'est-il donc arrivé ?
+
+-*who_lisette
+C'est une petite folle.
+
+-*who_monsieuroronte
+Comment ?
+
+-*who_lisette
+Une petite ridicule.
+
+-*who_monsieuroronte
+Qui donc ?
+
+-*who_lisette
+Mademoiselle Angélique, Monsieur, qui prend des résolutions extravagantes, qui se met déjà en tête de faire des lois aux gens ; je lui conseille vraiment.
+
+-*who_monsieuroronte
+Eh bien !
+Qu'est-ce ?
+De quoi s'agit-il ?
+
+-*who_lisette
+Vous avez vu sa mine qu'elle vous a faite, elle vous a quitté brusquement pour venir me dire qu'elle ne voulait point entendre parler de mariage, si vous ne lui faites...
+
+-*who_monsieuroronte
+Eh bien !
+Si je ne lui fais...
+Quoi ?
+
+-*who_lisette
+De grands avantages, dit-elle ; elle parle de contrats, de donations, que sais-je, moi ?
+
+-*who_monsieuroronte
+De donations ?
+
+-*who_lisette
+Oui.
+
+-*who_monsieuroronte
+Il faut que je lui parle un peu.
+
+-*who_lisette
+Prenez garde à ne rien gâter.
+
+-*who_monsieuroronte
+Est-elle seule ?
+
+-*who_lisette
+Oui, Monsieur, vous pouvez monter dans sa chambre ; mais, songez à ne la point aigrir.
+
+-*who_monsieuroronte
+Non, non.
+
+-*who_lisette
+Tout serait perdu.
+
+-*who_monsieuroronte
+Ne crains rien.
+Ah !
+Que c'est une terrible chose que d'aimer.
+Je vais la voir un peu.
+
+-*who_lisette
+Allez, Monsieur, allez.
+Cela prend un assez bon train, à ce qu'il me semble.
+Voici Madame.
+
+**** *book_ *id_II03 *act_II *date_1686
+
+-*who_madamegerante
+Où donc est Angélique ?
+
+-*who_lisette
+Elle est là-haut avec Monsieur Oronte.
+
+-*who_madamegerante
+Avec Monsieur Oronte !
+Il m'avait dit qu'il allait chez son notaire....
+La Verdure.
+
+**** *book_ *id_II04 *act_II *date_1686
+
+-*who_lebegue
+Que vous plaît-il, Madame ?
+
+-*who_madamegerante
+Allez dire a Monsieur Oronte...
+
+-*who_lisette
+Il n'en est pas besoin, Madame, il ne fera pas long séjour avec Mademoiselle votre fille ; car, elle se plaint d'un mal de tête épouvantable.
+
+-*who_madamegerante
+Elle prend bien son temps pour être malade.
+
+-*who_lisette
+Comme s'il dépendait d'elle de se bien porter : Monsieur Oronte l'étourdit trop aussi, et ses discours éternels d'ardeurs, de feux, de flamme, tout cela échauffe terriblement au moins.
+
+-*who_madamegerante
+Angélique est-elle fort contente de ce mariage ?
+
+-*who_lisette
+Bon, quelle raison pourrait-elle avoir pour ne le pas être ?
+Quoi, cette grande inégalité d'âge qui est entre elle et Monsieur Oronte, qu'est-ce que cela ?
+Elle a un si bel exemple devant les yeux ; car enfin, cette inégalité n'est guère moindre entre vous et Valère, et cependant vous ne laissez pas d'en être contente.
+
+-*who_madamegerante
+Il m'inquiète, Valère et je suis surprise qu'il ne soit point encore ici.
+
+-*who_lisette
+On ne t'aura pas trouvé pour lui dire que vous êtes revenue.
+
+-*who_madamegerante
+Mais, penses-tu, Lisette, qu'il m'aime autant qu'on me le dit ?
+
+-*who_lisette
+Le beau doute !
+Vous êtes si aimable, et vous lui donnez tant de sujets pour vous aimer.
+
+-*who_madamegerante
+La plupart des hommes sont ordinairement si volages et si peu reconnaissants.
+
+-*who_lisette
+Oh Valère n'est pas fait comme les autres ; et tenez, voilà Monsieur Merlin, qui vous en peut répondre encore mieux que moi.
+
+**** *book_ *id_II05 *act_II *date_1686
+
+-*who_merlin
+Ah !
+Je n'en puis plus.
+Je me suis mis tout hors d'haleine à force de courir.
+
+-*who_madamegerante
+As-tu trouvé ton maître ?
+
+-*who_merlin
+Monsieur Oronte est-il ici, Lisette ?
+
+-*who_lisette
+Il ne fait que de sortir.
+
+-*who_merlin
+Bon...
+Que je suis misérable !
+Où pourrais-je le rencontrer ?
+
+-*who_madamegerante
+Qu'as-tu donc ?
+Qu'est-il arrivé ?
+Te voilà tout ému.
+
+-*who_merlin
+Ah !
+Madame, on le serait a moins ; mais, dites-moi de grâce, où pourrais-je trouver Monsieur Oronte ?
+
+-*who_madamegerante
+Eh qu'as-tu donc de si pressant à lui dire ?
+
+-*who_merlin
+Ne vous informez point de cela, Madame, on m'a défendu de vous en parler.
+
+-*who_madamegerante
+Serait-il arrivé quelque chose à ton maître ?
+
+-*who_merlin
+Vous ne saurez rien de tout cela, vous dis-je, que les affaires ne soient accommodées.
+
+-*who_madamegerante
+Ah Lisette, je suis perdue.
+Il est arrivé quelque malheur à ce pauvre garçon.
+Soutiens-moi.
+
+-*who_merlin
+Monsieur Oronte, Lisette, n'a-t-il point dit où il allait ?
+
+-*who_lisette
+Chez son notaire, je crois.
+
+-*who_merlin
+Eh !
+Dis vite, sais-tu où il demeure ?
+
+-*who_lisette
+Non vraiment, je n'en sais rien.
+
+-*who_merlin
+Il n'importe, je m'en vais le chercher de notaire en notaire.
+Je serai bien malheureux si je ne le rencontre.
+
+-*who_madamegerante
+Attends un peu, Merlin, je t'en conjure, écoute un mot avant de t'en aller.
+
+-*who_merlin
+Oh !
+Que je n'ai pas le temps de m'arrêter.
+Ces affaires-ci pressent diablement ; et ce sont des jeux d'enfants, au moins.
+
+-*who_madamegerante
+Tire-moi de l'inquiétude où tu m'as mise je suis toute hors de moi-même ; et tes discours m'ont si fort alarmée, qu'à l'heure qu'il est, il ne tient qu'à moi de m'évanouir.
+
+-*who_lisette
+Que cette envie-là ne vous prenne point, Madame : vous nous donneriez ici de l'occupation.
+
+-*who_madamegerante
+Qu'il me dise donc ce qu'il y a.
+
+-*who_merlin
+Vous prendriez l'affaire trop à coeur et je sais bien moi-même que si je vous le disais, je vous mettrais dans un si terrible état, qu'il ne tiendrait qu'à vous de mourir.
+
+-*who_lisette
+C'est bien pis que l'évanouissement.
+
+-*who_madamegerante
+Je le promets, Merlin, de ne me point, trop affliger.
+
+-*who_merlin
+Vous n'en serez pas la maîtresse, Madame, je vous connais, vous avez le coeur tendre.
+
+-*who_lisette
+Eh !
+Va, va, elle l'a dur quand elle veut ; dis vite.
+
+-*who_merlin
+Mais promettez-moi donc, Madame, que mon maître ne saura rien de tout ceci.
+
+-*who_lisette
+Et sommes-nous gens à lui aller dire ?
+
+-*who_merlin
+Il me mettrait dehors avec cent coups.
+
+-*who_madamegerante
+Que cela ne t'inquiète point, parle.
+
+-*who_merlin
+C'est que mon maître...
+
+-*who_madamegerante
+Ah !
+Ah !
+
+-*who_merlin
+N'avais-je pas bien dit que je lui donnerais trop de chagrin ?
+
+-*who_lisette
+Eh !
+Dis tout aussi sans barguigner !
+
+-*who_madamegerante
+Achevé, je te prie.
+Ton maître ?
+
+-*who_merlin
+Il est aimé d'une fille qui veut l'épouser malgré qu'il en ait.
+
+-*who_madamegerante
+L'épouser malgré qu'il en ait !
+
+-*who_merlin
+Oui, madame.
+
+-*who_madamegerante
+Comment donc, est-ce qu'on prend les gens à force ?
+
+-*who_merlin
+C'est ce que j'ai dit d'abord ; mais il lui a fait autrefois une promesse de mariage.
+
+-*who_madamegerante
+Une promesse de mariage !
+
+-*who_merlin
+Oui vraiment, et c'est là le diable.
+
+-*who_madamegerante
+Une promesse de mariage !
+Il était donc amoureux d'elle.
+
+-*who_merlin
+Point du tout, Madame, ce n'était que par manière de conversation ; et cependant, voyez la malice, on s'en sert aujourd'hui pour l'inquiéter, et pour traverser la passion qu'il a pour vous.
+
+-*who_madamegerante
+Le malheureux garçon !
+Pourquoi ne m'a-t-il pas avertie de cette affaire !
+
+-*who_merlin
+Il pensait bien à cela, vraiment ; il ne prévoyait rien moins que l'affront qu'on vient de lui faire.
+
+-*who_madamegerante
+Comment ?
+Que dis-tu ?
+Quel affront ?
+
+-*who_merlin
+Est-ce que vous ne voyez pas où tout cela conduit ?
+Une fille amoureuse d'un jeune homme qui se va marier, de qui elle a une promesse de mariage, cela va tout droit au Châtetet.
+
+-*who_madamegerante
+Au Châtelet !
+
+-*who_merlin
+Oui vraiment au Châtelet et une preuve convaincante de ce que je vous dis-là, c'est qu'on vient d'y conduire mon maître.
+
+-*who_lisette
+Ton maître est prisonnier ?
+
+-*who_merlin
+Oui, Lisette.
+
+-*who_madamegerante
+Valère en prison !
+
+-*who_merlin
+Oui, Madame, et je viens de le voir y faire son entrée.
+
+-*who_madamegerante
+Le pauvre garçon !
+Et comment l'a-t-on mené-là ?
+
+-*who_merlin
+Je vous tirerais des larmes si je vous en faisais le récit.
+
+-*who_madamegerante
+Il n'importe, je veux tout savoir.
+
+-*who_merlin
+Vous me commandez de renouveler mes douleurs ; mais en revanche, je vais terriblement aigrir les vôtres.
+
+-*who_lisette
+Ah !
+Ah !
+
+-*who_madamegerante
+Ah !
+Ah !
+
+-*who_merlin
+Oh !
+Madame, ne vous avisez point de pleurer comme cela quand j'aurai une fois commencé ; car, je n'aime pas qu'on m'interrompe.
+J'avais rejoint mon maître, et je vous l'amenais comme vous me l'aviez dit, lorsqu'un certain gros maroufle a passé tout proche de lui, et lui a arraché son épée.
+J'ai voulu courir tout aussitôt, dans la pensée que c'était un filou, quand vingt coquins comme le premier nous ont entourés.
+Il y avait une chaise à porteurs qui suivait : ils ont prié mon maître d'y entrer ; mais civilement, Madame, et avec des manières si pressantes, qu'il n'a jamais pu s'en défendre.
+
+-*who_madamegerante
+Ils l'ont mené en chaise ?
+
+-*who_merlin
+Oui, Madame.
+
+-*who_lisette
+Cela est bien honnête, vraiment.
+
+-*who_merlin
+Les porteurs qui avaient le mot, ont enfilé la vallée de misère, et je me suis mis à suivre comme les autres, pour voir un peu tout ce que cela deviendrait : nous sommes arrivés à la petite porte d'un grand hôtel, on a ouvert une barrière pour nous faire plus d'honneur.
+Mon maître est sorti de la chaise, deux de ces honnêtes personnes qui l'avaient amené, l'ont pris par la main, et lui ont servi d'écuyers.
+Il ne s'était jamais vu un si beau train.
+
+-*who_madamegerante
+Eh bien ?
+
+-*who_merlin
+Eh bien !
+Madame, il est entré, je l'ai voulu suivre mais on m'a fait attendre dans une petite antichambre, un peu obscure à la vérité.
+Quelques amis de mon maître, qui ont appris cette nouvelle-là, sont venus pour le voir, et nous avons tous de compagnie attendu qu'il fût visible.
+Enfin, un des officiers de la maison nous a fait entrer, et nous l'avons trouvé qui se désespérait.
+
+-*who_madamegerante
+Ah !
+Ah !
+
+-*who_merlin
+Il m'a conté toute son affaire, et m'a dit d'aller, au plus vite, chercher Monsieur son père, afin qu'il y mit ordre mais ; ce qu'il m'a le plus recommandé, c'est de ne vous parler de rien, tant il a peur de vous chagriner.
+
+-*who_madamegerante
+Le pauvre garçon !
+Eh !
+Que fait-il là-dedans encore ?
+
+-*who_merlin
+Je l'ai laissé dans le plus triste état du monde : ses amis ont envoyé à la galère.
+
+-*who_madamegerante
+Comment ?
+Que dis-tu à la galère ?
+
+-*who_merlin
+Oui, Madame, chez Rousseau.
+
+-*who_madamegerante
+Qu'est-ce que c'est que Rousseau ?
+
+-*who_merlin
+C'est un fort honnête homme, chez lequel on boit de fort bon vin.
+
+-*who_madamegerante
+De fort bon vin ?
+
+-*who_merlin
+Oui, Madame.
+Ils en ont fait apporter une douzaine de bouteilles.
+
+-*who_madamegerante
+Une douzaine de bouteilles ?
+
+-*who_merlin
+Oui, Madame, avec un grand plat de rôt.
+
+-*who_lisette
+Avec un grand plat de rôt ?
+
+-*who_merlin
+Oui, Lisette.
+
+-*who_lisette
+Le pauvre garçon !
+
+-*who_merlin
+Mon maître s'est mis à table avec eux.
+
+-*who_madamegerante
+Il s'est mis à table ?
+
+-*who_merlin
+Oui, Madame.
+Il y avait une moitié d'agneau qui avait une mine admirable, à quoi il n'a pas touché.
+
+-*who_madamegerante
+Il n'a point voulu manger ?
+
+-*who_merlin
+Pardonnez-moi, Madame ; mais, fort peu de chose, un poulet de grain seulement, un dindon et un lapereau.
+
+-*who_madamegerante
+Le pauvre garçon !
+
+-*who_merlin
+Enfin, ils ont tous résolu de boire toute l'après-diner.
+
+-*who_madamegerante
+De boire toute l'après-diner.
+
+-*who_merlin
+Oui, Madame, pour se désennuyer.
+
+-*who_madamegerante
+Et demeurera-t-il là longtemps, Merlin ?
+
+-*who_merlin
+C'est selon )a manière dont on s'y prendra pour l'en tirer.
+
+-*who_madamegerante
+Et comment faudrait-il s'y prendre ?
+Dis.
+
+-*who_merlin
+Vous l'allez savoir tout à l'heure.
+En sortant de chez lui...
+
+-*who_lisette
+Comment, en sortant de chez lui ?
+
+-*who_merlin
+Oui, de son nouveau domicile, j'ai rencontré notre partie ; un honnête pousse-cul m'a fait la grâce de me la montrer ; car, je ne la connaissais point.
+D'abord, je lui ai dit que cela était fort vilain d'en agir comme elle faisait elle m'a répondu qu'elle avait raison de le faire.
+Je lui ai dit que non, elle m'a dit que si ; et nous avons eu comme cela une petite conversation de démentis, qui s'est pourtant terminée fort aimablement.
+
+-*who_madamegerante
+Mais enfin, qu'avez-vous conclu ?
+
+-*who_merlin
+J'ai conclu, moi, que mon maître ne rait l'épouserait jamais et elle a conclu, elle, qu'il l'épouserait, qu'il était à elle ; mais, j'ai bien vu pourtant qu'elle ne serait pas fâchée de le revendre.
+Son procureur était là, qui est un des plus honnêtes procureurs de tout le Châtelet, je l'ai tiré à part, je l'ai prié de chercher un biais pour accommoder cette affaire.
+Il a été lui proposer ; il est venu me reparler ; il est retourné à elle ; il est revenu à moi enfin, après bien des allées et des venues, on est tombé d'accord que moyennant deux mille écus, elle rendrait la promesse de mariage, et qu'on ne parlerait plus de rien.
+
+-*who_madamegerante
+Deux mille écus, Merlin ?
+
+-*who_merlin
+Oui, Madame.
+
+-*who_madamegerante
+Et Valère sortira-t-il tout aussitôt ?
+
+-*who_merlin
+Oui, Madame, pourvu qu'ils aient achevé de dîner ; mais, c'est un petit vilain qui ne les vaut pas, les deux mille écus, et je ne sais pas qui les voudrait donner ; car, pour lui, je suis sûr qu'il aimerait mieux demeurer là six mois, et dépenser vingt mille francs à plaider, que de donner un sol a cette fille-là, après le tour qu'elle vient de lui jouer.
+Pour Monsieur son père, je crois qu'il aura bien de la peine à se résoudre de payer les folies de son fils.
+Je m'en vais pourtant le trouver pour lui en faire la proposition.
+Ah !
+Mon pauvre maître !
+Est-il possible qu'on aurait la dureté de te laisser coucher en prison ?
+Adieu, Madame.
+
+-*who_madamegerante
+Merlin.
+
+-*who_merlin
+Plaît-il, Madame ?
+
+-*who_madamegerante
+Viens çà.
+
+-*who_merlin
+Qu'y a-t-il pour votre service ?
+
+-*who_madamegerante
+Je crois que j'ai deux mille écus là-haut dans mon cabinet.
+
+-*who_merlin
+Je le savais bien.
+
+-*who_madamegerante
+Que dis-tu ?
+
+-*who_merlin
+Eh bien !
+Madame, vous avez deux mille écus ?
+
+-*who_madamegerante
+Oui, il faut les porter à cette fille.
+
+-*who_merlin
+Oh !
+Madame, mon maître serait trop en colère, si je faisais un coup comme celui-là il verrait bien que je vous aurais conté l'histoire, outre qu'il ne vous a déjà que trop d'obligations.
+
+-*who_madamegerante
+Je serai bien aise, Merlin, qu'il m'ait encore celle-ci.
+
+-*who_merlin
+Cela vous empêcherait peut-être de faire pour lui quelque chose qui lui serait plus avantageux.
+
+-*who_madamegerante
+Point, point, va.
+
+-*who_merlin
+Mais, comment ferions-nous, Madame ?
+Car, de porter cet argent-là vous-même, cela n'aurait point bonne grâce, à ce qu'il me semble.
+
+-*who_madamegerante
+Je m'en fierai bien à toi.
+
+-*who_merlin
+Je vous rend grâces, Madame ; mais encore un petit mot, s'il vous plaît.
+Comme nous n'avons pas besoin de Monsieur Oronte dans cette affaire, il ne sera que mieux, je crois, de ne lui en point parler du tout.
+
+-*who_madamegerante
+Tu as raison : entendez-vous, Lisette ?
+
+-*who_lisette
+Oui, madame.
+
+-*who_madamegerante
+Viens prendre cet argent, je vais te le compter.
+
+-*who_merlin
+Au moins, Madame, c'est sans préjudice du reste.
+
+-*who_madamegerante
+Ne te mets en peine de rien.
+
+-*who_lisette
+Par ma foi, voilà une bonne femme à qui l'argent sied bien ; car, elle fait un bon usage.
+
+**** *book_ *id_III01 *act_III *date_1686
+
+-*who_lisette
+Ah !
+Ah !
+C'est toi ; où est ton maître ?
+
+-*who_merlin
+Il n'a pas encore achevé les douze bouteilles.
+
+-*who_lisette
+Tu railles.
+Mais, je te trouve bien hardi de revenir ici sans lui.
+
+-*who_merlin
+Pourquoi donc ?
+
+-*who_lisette
+Pourquoi ?
+Et il me semble que pour ses deux mille écus, Madame Géronte est en droit de te le demander.
+
+-*who_merlin
+Il est vrai ; mais, je suis en droit, moi, de lui répondre, et en possession, Dieu merci, de lui faire croire ce que je veux.
+
+-*who_lisette
+Je crains que cela ne dure pas, et tu la fourbes un peu trop souvent.
+
+-*who_merlin
+Je ne me soucie pas aussi que cela dure, pourvu que cela aille vite.
+
+-*who_lisette
+Et les deux mille écus, les as-tu mis en lieu de sûreté ?
+
+-*who_merlin
+Je viens de les scrrer avec la plus grand dévotion du monde.
+
+-*who_lisette
+Que dit Valère de tout ceci ?
+
+-*who_merlin
+Ne sais-tu pus bien qu'il a coutume de dire ?
+Rien n'est capable de lui faire plaisir que le présence d'Angélique ; il ne saurait penser qu'à elle, et il faut qu'il parle d'elle, ou qu'il ne dise rien.
+
+-*who_lisette
+Mais sérieusement, que fait-il maintenant ?
+
+-*who_merlin
+Il est ici avec un jeune notaire de nos amis, que nous ménageons en cas de besoin, et qui a nos affaires toutes prêtes.
+
+-*who_lisette
+À propos de notaire, Monsieur Oronte a tantôt passé chez le sien, et je crois qu'il doit venir ici aujourd'hui.
+
+-*who_merlin
+Fi, cela ne vaudrait pas le diable.
+Il ne faut point que des visages inconnus se mêlent de nos affaires.
+
+-*who_lisette
+C'est à quoi j'ai songé d'abord.
+
+-*who_merlin
+Il est donc revenu, Monsieur Oronte ?
+
+-*who_lisette
+Oui.
+
+-*who_merlin
+Eh bien ?
+
+-*who_lisette
+J'ai fait quelque petite tentative.
+
+-*who_merlin
+A-t-elle produit son effet ?
+
+-*who_lisette
+Oui, ma foi.
+
+-*who_merlin
+J'en suis vraiment bien aise.
+
+-*who_lisette
+J'ai diantrement embarrassé le bonhomme ; et quand je l'ai vu suffisamment ébranlé, je l'ai envoyé à Angélique, qui a achevé de le battre en ruine : un seul regard a terminé son irrésolution, et il a promis de signer aveuglément tout ce qu'on voudrait.
+
+-*who_merlin
+Voilà un fort honnête, et si Madame Gérante est aussi raisonnable, les affaires seront bien faites.
+
+-*who_lisette
+Cependant Angélique est diablement embarrassée de n'avoir plus de prétexte pour différer.
+
+-*who_merlin
+Il ne faut point que cela l'embarrasse, nous mettrons bientôt ordre à tout.
+
+-*who_lisette
+Ma foi, si j'etais à sa place, les seuls transports de Monsieur Oronte seraient capables de me désespérer.
+
+-*who_merlin
+Comment donc ?
+
+-*who_lisette
+Comment ?
+Il fait là-haut cent extravagances, il lui a déchiré ses gants pour lui baiser la main.
+
+-*who_merlin
+La peste !
+
+-*who_lisette
+Il a rompu son éventail, parce qu'elle s'en cachait le visage.
+
+-*who_merlin
+Tudieu !
+
+-*who_lisette
+Il lui a mordu le bout des doigts.
+
+-*who_merlin
+Oh !
+Pour cela, tu te moques ?
+Est-ce qu'on a de quoi mordre à son âge ?
+
+-*who_lisette
+Enfin, il semble qu'elle soit déjà sa femme.
+
+-*who_merlin
+Oui ?
+Oh !
+Je vois bien qu'il n'y a point de temps à perdre, il faut se dépêcher.
+Monsieur Oronte signera tout ce qu'on voudra : Madame Gérante est une bonne femme aussi, et elle fera de même ; j'ai pris mes mesures pour cela.
+Allons, mettons les fers au feu.
+N'est-elle pas là-haut ?
+
+-*who_lisette
+Oui, dans de grandes impatiences de revoir Valère.
+
+-*who_merlin
+Voici de quoi l'amuser, en attendant qu'il vienne.
+
+-*who_lisette
+Va donc : pour moi, je vais donner les ordres qu'il faut pour éloigner le notaire de Monsieur Oronte.
+Voici le Bègue tout à propos.
+Hé, la Verdure ?
+
+**** *book_ *id_III02 *act_III *date_1686
+
+-*who_lebegue
+Que voulez-vous ?
+
+-*who_lisette
+Écoute.
+Il doit venir ici un notaire, qui demandera Monsieur Oronte m'entends-tu ?
+
+-*who_lebegue
+Oui.
+
+-*who_lisette
+Dis-lui qu'il revienne une autre fois.
+
+-*who_lebegue
+Et comment est-il fait un notaire?
+
+-*who_lisette
+Il est fait, il est fait comme un honnête homme.
+
+-*who_lebegue
+Et comment est fait un honnête homme ?
+
+-*who_lisette
+Oh ma foi, je ne sais, je ne t'en saurais faire le portrait.
+Qui diantre s'imaginerait qu'un maroufle comme cela ferait une question aussi embarrassante ?
+Mais pour plus de sûreté, dis à tout le monde qu'il n'y a personne.
+
+**** *book_ *id_III03 *act_III *date_1686
+
+-*who_lebegue
+Cela vaut fait.
+Voilà la plus jolie fille du monde, j'en suis fou ; mais quand je lui veux dire que je l'aime, elle a le temps de s'enfuir avant que j achève.
+Il faut pourtant que j'apprenne à parler plus vite.
+Allons, essayons un peu pour voir Madame Lisette, je vous aime de tout mon coeur.
+Hé bien, ne voilà-t-il pas ?
+Elle serait déjà à une lieue d'ici ; j'enrage.
+Ah !
+Ah !
+Voilà quelqu'un qui est fait comme un honnête homme, ce pourrait bien être le notaire.
+
+**** *book_ *id_III04 *act_III *date_1686
+
+-*who_lenotaire
+N'est-ce pas ici le logis de Madame Gérante ?
+
+-*who_lebegue
+Oui, Monsieur.
+
+-*who_lenotaire
+Je crois que ce maraud-là me contrefait voyons un peu s'il continuera.
+Monsieur Oronte est-il ici ?
+
+-*who_lebegue
+Non, Monsieur, il n'y a personne.
+
+-*who_lenotaire
+Comment, coquin ?
+Tu te moques de moi, je crois ?
+
+-*who_lebegue
+Monsieur, je ne me moque point de vous, il n'y a personne assurément.
+
+-*who_lenotaire
+Si tu me fais prendre un bâton, je t'étrillerai comme il faut.
+
+-*who_lebegue
+Si vous m'étrillez, ma foi, je me revancherai.
+
+-*who_lenotaire
+Coquin !
+
+-*who_lebegue
+Au secours.
+
+**** *book_ *id_III05 *act_III *date_1686
+
+-*who_lisette
+Holà, donc !
+Holà !
+Qu'est-ce que c'est que ce bruit-là ?
+
+-*who_lebegue
+C'est cet homme-là qui vient me battre, parce que je lui dis qu'il n'y a personne.
+
+-*who_lisette
+Pourquoi le maltraitez-vous, Monsieur ?
+Il vous dit vrai, il n'y a personne ici.
+
+-*who_lenotaire
+C'est un insolent qui me contrefait.
+
+-*who_lisette
+Ah ! ah ! ah ! ah ! ah !
+
+-*who_lenotaire
+Monsieur Oronte m'a-t-il fait venir ici pour se moquer de moi ?
+
+-*who_lisette
+Personne ne se moque de vous, et ce garçon-là ne peut pas parler autrement.
+
+-*who_lenotaire
+Cela n'est pas vrai, il parle bien quand il veut.
+
+-*who_lebegue
+Mordi cela n'est pas vrai, vous-même ; c'est vous qui parlez bien quand vous voulez, et vous vous êtes moqué le premier.
+
+-*who_lenotaire
+Pendard !
+
+-*who_lebegue
+Et je devais aussi vous battre le premier.
+
+-*who_lenotaire
+Coquin !
+
+-*who_lisette
+Monsieur, il ne faut point faire ici tant de bruit.
+Vous demandez Madame, ou Monsieur Oronte, n'est-ce pas ?
+Ils n'y sont ni l'un ni l'autre.
+
+-*who_lenotaire
+N'importe, je saurai bien où les trouver, pour me plaindre de votre insolence : vous verrez, vous verrez.
+
+**** *book_ *id_III06 *act_III *date_1686
+
+-*who_lisette
+L'aventure est tout a fait drôle.
+
+-*who_lebegue
+Vraiment, il m'a roué de coups.
+
+-*who_lisette
+Tais-toi, et va voir là-haut si j'y suis : voici Merlin avec Madame, il ne faut point les troubter.
+
+**** *book_ *id_III07 *act_III *date_1686
+
+-*who_merlin
+Oui, Madame, on m'a apporté près d'une douzaine de billets comme celui-là, que je n'ai jamais voulu rendre à mon maître mais enfin, comme on m'a dit que celui-ci était de conséquence, j'ai été bien aise de vous le faire voir, pour vous demander si je le lui dois donner.
+
+-*who_madamegerante
+Je te suis obligée, Merlin.
+
+-*who_merlin
+Madame, si j'osais vous prier de lire haut ; car enfin, je suis bien aise de savoir un peu les affaires de mon maître.
+
+-*who_madamegerante
+Fort volontiers.
+
+-*who_merlin
+Voyons ce que cela dira.
+
+-*who_madamegerante
+"Je vous ai écrit, et vous m'avez assez dédaignée, pour ne me point faire de réponse."
+
+-*who_merlin
+Vous voyez bien, Madame, que ce n'est pas la première fois.
+
+-*who_madamegerante
+Oui.
+"Un juste ressentiment me dit que je devrais vous oublier ; mais, mon coeur ne saurait l'en croire, et l'excès de ma passion m'oblige à vous écrire encore."
+
+-*who_merlin
+Voilà une personne qui écrit bien tendrement !
+
+-*who_madamegerante
+"On dit que vous devez épouser aujourd'hui Madame Gérante ; elle a moins de jeunesse et moins de beauté que moi, et ne peut avoir tant d'amour." Hum !
+
+-*who_merlin
+Voilà qui est fort impertinent.
+N'en lisez pas davantage, Madame.
+
+-*who_madamegerante
+Je veux voir ce qui reste.
+"Si vous voulez rompre l'engagement que vous avez avec elle, j'ai deux cent mille francs de bien, dont je vous ferai absolument le maître.
+La Marquise des Fontaines."
+
+-*who_merlin
+Une marquise, deux cent mille francs !
+Oh !
+Oh !
+Cela me fait ouvrir les oreilles.
+
+-*who_madamegerante
+Connais-tu cette personne-là, Merlin ?
+
+-*who_merlin
+Non, mais elle écrit fort bien et ce dernier article-là n'est point tant sot.
+Rendez-moi mon billet, s'il vous plaît, Madame.
+
+-*who_madamegerante
+Qu'en veux-tu faire ?
+
+-*who_merlin
+Le porter à mon maître, avec votre permission, afin que nous examinions cette proposition-là.
+
+-*who_madamegerante
+Quoi!
+Tu me trahirais ainsi ?
+
+-*who_merlin
+Oui, Madame, assurément ; il faut prendre ses avantages où on les trouve.
+Deux cent mille francs ma foi, quelque tendresse que nous ayons pour vous, si les deux cent mille francs sont en belles et bonnes espèces, nous pourrons bien devenir marquis des Fontaines.
+
+-*who_madamegerante
+Écoute, Merlin, si tu me faisais un tour comme celui-là...
+
+-*who_merlin
+Et comment voulez-vous que je fasse, Madame ?
+Je vois mon maître à la veille de n'avoir rien.
+Monsieur son père donne tout son bien à Mademoiselle votre fille, je ne sais pas si vous le savez ; mais on vient de me le dire tout à l'heure.
+
+-*who_madamegerante
+Il donne tout son bien à Angélique ?
+
+-*who_merlin
+On le dit comme cela, du moins.
+Si vous faisiez de même encore pour mon maître, passe, nous nous verrions quelque chose d'assuré ; mais, sans cela, vous voyez bien que deux cent mille francs sont bons à gagner, franchement.
+Rendez-moi mon billet, je vous prie.
+
+-*who_madamegerante
+Je ne te le rendrai point.
+
+-*who_merlin
+Eh bien, je le dirai par coeur, j'ai la mémoire bonne : Madame la marquise des Fontaines, n'est-ce pas ?
+
+-*who_madamegerante
+Arrête, Merlin, j'aime mieux donner à ton maître tout ce que je possède, que de m'exposer au chagrin de le voir à une autre.
+
+-*who_merlin
+C'est quelque chose encore : j'aime à entendre parler comme cela.
+
+-*who_madamegerante
+Je signerai tout ce qu'il voudra.
+
+-*who_merlin
+Eh bien !
+Je ne dirai donc rien des deux cent mille francs : voilà cependant près de vingt mille écus que nous perdons à ce marché-là.
+
+-*who_madamegerante
+J'ai dit à Monsieur Oronte de faire venir ici son notaire.
+
+-*who_merlin
+Fi, Madame.
+Il vous faut un jeune notaire pour dresser votre contrat, les jeunes portent bonheur ; ne vous mettez en peine de rien, j'aurai soin de vos affaires et de celles de Monsieur Oronte.
+Je vais de ce pas chercher ce qu'il vous faut, et voilà mon maître tout à propos, qui vous tiendra compagnie en mon absence.
+Tout va bien, Angélique sera bientôt notre femme.
+
+**** *book_ *id_III08 *act_III *date_1686
+
+-*who_madamegerante
+Ah !
+Valère, que vous m'avez donné de chagrin et d'inquiétude !
+
+-*who_valere
+J'ai bien querellé ce maraud-là, Madame, et je lui avais bien recommandé de vous l'épargner.
+
+-*who_madamegerante
+Je ne m'en souviens déjà plus depuis que je vous vois.
+
+-*who_valere
+Que je suis heureux !
+Je vois Angélique !
+
+**** *book_ *id_III09 *act_III *date_1686
+
+-*who_angelique
+Ah !
+Lisette, c'est mon bon destin qui m'amène ; je vois Valère.
+
+-*who_lisette
+Ne faites semblant de rien.
+
+-*who_monsieuroronte
+J'ai passé chez mon notaire, Madame, et nous l'aurons bientôt ici.
+
+-*who_madamegerante
+Il n'en sera pas besoin, je crois ; et Merlin en est allé chercher un qui nous portera bonheur, dit-il, parce qu'il est jeune.
+
+-*who_lisette
+Oh !
+Il n'y a point de doute à cela.
+
+-*who_valere
+Vous allez donc être ma belle-mère, Mademoiselle ?
+
+-*who_angelique
+Et vous mon beau-père, Monsieur ?
+
+**** *book_ *id_III10 *act_III *date_1686
+
+-*who_merlin
+Allons, allons, de la joie, voici de quoi est le triomphe ; allons, Monsieur, donnez-moi, que je signe, s'il vous plaît.
+
+-*who_valere
+Quoi ?
+Que veux-tu signer ?
+
+-*who_merlin
+Un contrat pour Lisette et pour moi, afin de vous montrer comme il faut faire.
+Signe, toi : allons, morbleu, vive l'amour ; il ne faut point tant, de façons !
+À vous, maintenant.
+
+-*who_lenotaire
+Par devant les notaires garde notes, etc.
+
+-*who_monsieuroronte
+Il n'est pas besoin de cela, Monsieur.
+
+-*who_merlin
+Monsieur n'y entend pas plus de finesse que moi.
+
+-*who_monsieuroronte
+Oui, Monsieur, je signe tout aveuglément.
+
+-*who_madamegerante
+Et j'en veux faire autant.
+
+-*who_merlin
+Dépêchez-vous voilà deux plumes, signez-en chacun un.
+
+-*who_madamegerante
+Signez donc maintenant, vous.
+
+-*who_merlin
+Oh !
+C'est de tout leur coeur, n'est-ce pas ?
+Il y a longtemps qu'ils attendaient ce moment-là que les voilà aises !
+Je vous l'avais bien promis que cela arriverait, moi.
+Allons, à vous, Monsieur.
+Eh bien !
+Que dites-vous de ces deux jeunes gens-là ?
+
+-*who_lenotaire
+Monsieur aurait eu peine à faire un meilleur choix.
+
+-*who_monsieuroronte
+Comment ?
+Qu'est-ce que cela veut dire c'est ma femme à moi.
+
+-*who_lenotaire
+Pardonnez-moi, Monsieur.
+
+-*who_monsieuroronte
+Comment, pardonnez-moi ?
+Je vous dis que c'est ma femme !
+
+-*who_lenotaire
+Vous vous moquez, Monsieur, cela ne se peut pas.
+
+-*who_monsieuroronte
+Je vous dis que cela est.
+
+-*who_lenotaire
+Cela ne se peut pas, vous dis-je.
+
+-*who_monsieuroronte
+Ouais !
+
+-*who_merlin
+Que diantre voulez-vous disputer contre Monsieur ?
+Il le sait mieux que vous, c'est lui qui a fait le contrat, une fois.
+
+-*who_madamegerante
+Qu'est-ce que c'est donc ?
+
+-*who_valere
+Monsieur veut que ce soit Mademoiselle votre fille que j'épouse.
+
+-*who_lenotaire
+Assurément je viens de marier Monsieur avec Madame, et vous avec Mademoiselle.
+
+-*who_monsieuroronte
+Ce n'est pas cela.
+Oh !
+Il y a du malentendu.
+
+-*who_madamegerante
+Vous vous êtes mépris, Monsieur.
+
+-*who_lenotaire
+Pardonnez-moi, Madame, je ne me suis point mépris, cela ne peut pas être autrement.
+Quoi !
+Vous, épouser un jeune homme, et Monsieur une jeune fille ?
+
+-*who_merlin
+Vous avez raison, l'on ferait charivari à leurs noces.
+
+-*who_lenotaire
+Je n'ai garde de faire des mariages comme ceux-là, tous mes confères se moqueraient de moi.
+
+-*who_madamegerante
+Valère !
+
+-*who_valere
+Puisque Monsieur le veut, Madame, j'en suis content pour moi.
+
+-*who_monsieuroronte
+Mademoiselle.
+
+-*who_angelique
+Je trouve, Monsieur, que Valère a raison.
+
+-*who_lisette
+Est-ce que vous voulez que Monsieur ait la peine de récrire tout cela ?
+
+-*who_merlin
+Oui, allez, Monsieur, vous n'avez plus que faire ici.
+
+-*who_monsieuroronte
+Oui vous nous jouez ainsi ?
+Oh vous n'aurez pas un sol de moi.
+
+-*who_madamegerante
+Ni de moi, je vous assure.
+
+-*who_merlin
+Oh vous venez de signer le contraire.
+
+-*who_monsieuroronte
+Comment ?
+
+-*who_merlin
+En bonne forme, demandez à Monsieur.
+
+-*who_madamegerante
+Fourbe !
+
+-*who_monsieuroronte
+Coquin !
+
+-*who_merlin
+La, la, la, la, ne vous fâchez point, la colère fait mal ; vous avez mis votre bien à fonds perdu pour vous mais, il ne l'est point pour la famille vos enfants sont honnêtes gens, ils auront soin de vous et des enfants qui vous viendront.
+
+-*who_monsieuroronte
+J'enrage !
+
+-*who_madamegerante
+Je suis au désespoir !
+
+-*who_merlin
+Eh bien, ne vous ai-je pas tenu parole ?
+Voilà Monsieur votre père et Madame votre mère mariés ensemble, lorsqu'ils s'y attendaient le moins ; qu'ils consomment le mariage, si bon leur semble.
+Songeons à ce qu'il faut faire pour le vôtre, et rendez grâce au ciel, que les extravagances de vos parents ne soient point sorties de leurs familles.

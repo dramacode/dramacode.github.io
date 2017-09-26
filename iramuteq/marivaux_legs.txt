@@ -1,0 +1,2056 @@
+
+
+**** *book_ *id_I01 *act_I *date_1736
+
+-*who_lechevalier
+La démarche que vous allez faire auprès du Marquis m'alarme.
+
+-*who_hortense
+Je ne risque rien, vous dis-je.
+Raisonnons.
+Défunt son parent et le mien lui laisse six cent mille francs, à la charge il est vrai de m'épouser, ou de m'en donner deux cent mille ; cela est à son choix ; mais le Marquis ne sent rien pour moi.
+Je suis sûre qu'il a de l'inclination pour la Comtesse ; d'ailleurs, il est déjà assez riche par lui-même ; voilà encore une succession de six cent mille francs qui lui vient, à laquelle il ne s'attendait pas ; et vous croyez que, plutôt que d'en distraire deux cent mille, il aimera mieux m'épouser, moi qui lui suis indifférente, pendant qu'il a de l'amour pour la Comtesse, qui peut-être ne le hait pas, et qui a plus de bien que moi ?
+Il n'y a pas d'apparence.
+
+-*who_lechevalier
+Mais à quoi jugez-vous que la Comtesse ne le hait pas ?
+
+-*who_hortense
+À mille petites remarques que je fais tous les jours ; et je n'en suis pas surprise.
+Du caractère dont elle est, celui du Marquis doit être de son goût.
+La Comtesse est une femme brusque, qui aime à primer, à gouverner, à être la maîtresse.
+Le Marquis est un homme doux, paisible, aisé à conduire ; et voilà ce qu'il faut à la Comtesse.
+Aussi ne parle-t-elle de lui qu'avec éloge.
+Son air de naïveté lui plaît ; c'est, dit-elle, le meilleur homme, le plus complaisant, le plus sociable.
+D'ailleurs, le Marquis est d'un âge qui lui convient ; elle n'est plus de cette grande jeunesse : il a trente-cinq ou quarante ans, et je vois bien qu'elle serait charmée de vivre avec lui.
+
+-*who_lechevalier
+J'ai peur que l'événement ne vous trompe.
+Ce n'est pas un petit objet que deux cent mille francs qu'il faudra qu'on vous donne si l'on ne vous épouse pas ; et puis, quand le Marquis et la Comtesse s'aimeraient, de l'humeur dont ils sont tous deux, ils auront bien de la peine à se le dire.
+
+-*who_hortense
+Oh !
+Moyennant l'embarras où je vais jeter le Marquis, il faudra bien qu'il parle, et je veux savoir à quoi m'en tenir.
+Depuis le temps que nous sommes à cette campagne chez la Comtesse, il ne me dit rien.
+Il y a six semaines qu'il se tait ; je veux qu'il s'explique.
+Je ne perdrai pas le legs qui me revient, si je n'épouse pas le Marquis.
+
+-*who_lechevalier
+Mais, s'il accepte votre main ?
+
+-*who_hortense
+Eh !
+Non, vous dis-je.
+Laissez-moi faire.
+Je crois qu'il espère que ce sera moi qui le refuserai.
+Peut-être même feindra-t-il de consentir à notre union ; mais que cela ne vous épouvante pas.
+Vous n'êtes point assez riche pour m'épouser avec deux cent mille francs de moins ; je suis bien aise de vous les apporter en mariage.
+Je suis persuadée que la Comtesse et le Marquis ne se haïssent pas.
+Voyons ce que me diront là-dessus Lépine et Lisette, qui vont venir me parler.
+L'un est un Gascon froid, mais adroit ; Lisette a de l'esprit.
+Je sais qu'ils ont tous deux la confiance de leurs maîtres ; je les intéresserai à m'instruire, et tout ira bien.
+Les voilà qui viennent.
+Retirez-vous.
+
+**** *book_ *id_I02 *act_I *date_1736
+
+-*who_hortense
+Venez, Lisette ; approchez.
+
+-*who_lisette
+Que souhaitez-vous de nous, Madame ?
+
+-*who_hortense
+Rien que vous ne puissiez me dire sans blesser la fidélité que vous devez, vous au Marquis, et vous à la Comtesse.
+
+-*who_lisette
+Tant mieux, Madame.
+
+-*who_lepine
+Ce début encourage.
+Nos services vous sont acquis.
+
+-*who_hortense
+Tenez, Lisette ; tout service mérite récompense.
+
+-*who_lisette
+Du moins, Madame, faudrait-il savoir auparavant de quoi il s'agit.
+
+-*who_hortense
+Prenez ; je vous le donne, quoi qu'il arrive.
+Voilà pour vous, Monsieur de Lépine.
+
+-*who_lepine
+Madame, je serais volontiers de l'avis de Mademoiselle ; mais je prends : le respect défend que je raisonne.
+
+-*who_hortense
+Je ne prétends vous engager à rien et voici de quoi il est question ; le Marquis, votre maître, vous estime, Lépine ?
+
+-*who_lepine
+Extrêmement, Madame ; il me connaît.
+
+-*who_hortense
+Je remarque qu'il vous confie aisément ce qu'il pense.
+
+-*who_lepine
+Oui, Madame ; de toutes ses pensées, incontinent j'en ai copie ; il n'en sait pas le compte mieux que moi.
+
+-*who_hortense
+Vous, Lisette, vous êtes sur le même ton avec la Comtesse ?
+
+-*who_lisette
+J'ai cet honneur-là, Madame.
+
+-*who_hortense
+Dites-moi, Lépine, je me figure que le Marquis aime la Comtesse ; me trompé-je ?
+Il n'y a point d'inconvénient à me dire ce qui en est.
+
+-*who_lepine
+Je n'affirme rien ; mais patience.
+Nous devons ce soir nous entretenir là-dessus.
+
+-*who_hortense
+Et soupçonnez-vous qu'il l'aime ?
+
+-*who_lepine
+De soupçons, j'en ai de violents.
+Je m'en éclaircirai tantôt.
+
+-*who_hortense
+Et vous, Lisette, quel est votre sentiment sur la Comtesse ?
+
+-*who_lisette
+Qu'elle ne songe point du tout au Marquis, Madame.
+
+-*who_lepine
+Je diffère avec vous de pensée.
+
+-*who_hortense
+Je crois aussi qu'ils s'aiment.
+Et supposons que je ne me trompe pas ; du caractère dont ils sont, ils auront de la peine à s'en parler.
+Vous, Lépine, voudriez-vous exciter le Marquis à le déclarer à la Comtesse ?
+Et vous, Lisette, disposer la Comtesse à se l'entendre dire.
+Ce sera une industrie fort innocente.
+
+-*who_lepine
+Et même louable.
+
+-*who_lisette
+Madame, permettez que je vous rende votre argent.
+
+-*who_hortense
+Gardez.
+D'où vient ?...
+
+-*who_lisette
+C'est qu'il me semble que voilà précisément le service que vous exigez de moi, et c'est précisément celui que je ne puis vous rendre.
+Ma maîtresse est veuve ; elle est tranquille ; son état est heureux ; ce serait dommage de l'en tirer ; je prie le Ciel qu'elle y reste.
+
+-*who_lepine
+Quant à moi, je garde mon lot ; rien ne m'oblige à restitution.
+J'ai la volonté de vous être utile.
+Monsieur le Marquis vit dans le célibat ; mais le mariage, il est bon, très bon, il a ses peines, chaque état a les siennes ; quelquefois le mien me pèse ; le tout est égal.
+Oui, je vous servirai, Madame, je vous servirai.
+Je n'y vois point de mal.
+On s'épouse de tout temps, on s'épousera toujours ; on n'a que cette honnête ressource quand on aime.
+
+-*who_hortense
+Vous me surprenez, Lisette, d'autant plus que je m'imaginais que vous pouviez vous aimer tous deux.
+
+-*who_lisette
+C'est de quoi il n'est pas question de ma part.
+
+-*who_lepine
+De la mienne, j'en suis demeuré à l'estime.
+Néanmoins Mademoiselle est aimable ; mais j'ai passé mon chemin sans y prendre garde.
+
+-*who_lisette
+J'espère que vous passerez toujours de même.
+
+-*who_hortense
+Voilà ce que j'avais à vous dire.
+Adieu, Lisette ; vous ferez ce qu'il vous plaira ; je ne vous demande que le secret.
+J'accepte vos services, Lépine.
+
+**** *book_ *id_I03 *act_I *date_1736
+
+-*who_lisette
+Nous n'avons rien à nous dire, Mons de Lépine.
+J'ai affaire, et je vous laisse.
+
+-*who_lepine
+Doucement, Mademoiselle, retardez d'un moment ; je trouve à propos de vous informer d'un petit accident qui m'arrive.
+
+-*who_lisette
+Voyons.
+
+-*who_lepine
+D'homme d'honneur, je n'avais pas envisagé vos grâces ; je ne connaissais pas votre mine.
+
+-*who_lisette
+Qu'importe ?
+Je vous en offre autant ; c'est tout au plus si je connais actuellement la vôtre.
+
+-*who_lepine
+Cette dame se figurait que nous nous aimions.
+
+-*who_lisette
+Eh bien !
+Elle se figurait mal.
+
+-*who_lepine
+Attendez ; voici l'accident.
+Son discours a fait que mes yeux se sont arrêtés dessus vous plus attentivement que de coutume.
+
+-*who_lisette
+Vos yeux ont pris bien de la peine.
+
+-*who_lepine
+Et vous êtes jolie, sandis, oh !
+Très jolie.
+
+-*who_lisette
+Ma foi, Monsieur de Lépine, vous êtes galant, oh !
+Très galant ; mais l'ennui me prend dès qu'on me loue.
+Abrégeons.
+Est-ce là tout ?
+
+-*who_lepine
+À mon exemple, envisagez-moi, je vous prie ; faites-en l'épreuve.
+
+-*who_lisette
+Oui-da.
+Tenez, je vous regarde.
+
+-*who_lepine
+Eh donc !
+Est-ce là ce Lépine, que vous connaissiez ?
+N'y voyez-vous rien de nouveau ?
+Que vous dit le coeur ?
+
+-*who_lisette
+Pas le mot.
+Il n'y a rien là pour lui.
+
+-*who_lepine
+Quelquefois pourtant nombre de gens ont estimé que j'étais un garçon assez revenant ; mais nous y retournerons ; c'est partie à remettre.
+Écoutez le restant.
+Il est certain que mon maître distingue tendrement votre maîtresse.
+Aujourd'hui même il m'a confié qu'il méditait de vous communiquer ses sentiments.
+
+-*who_lisette
+Comme il lui plaira.
+La réponse que j'aurai l'honneur de lui communiquer sera courte.
+
+-*who_lepine
+Remarquons d'abondance que la Comtesse se plaît avec mon maître, qu'elle a l'âme joyeuse en le voyant.
+Vous me direz que nos gens sont étranges personnes, et je vous l'accorde.
+Le Marquis, homme tout simple, peu hasardeux dans le discours, n'osera jamais aventurer la déclaration ; et des déclarations, la Comtesse les épouvante ; femme qui néglige les compliments, qui vous parle entre l'aigre et le doux, et dont l'entretien a je ne sais quoi de sec, de froid, de purement raisonnable.
+Le moyen que l'amour puisse être mis en avant avec cette femme.
+Il ne sera jamais à propos de lui dire : "Je vous aime", à moins qu'on ne le lui dise à propos de rien.
+Cette matière, avec elle, ne peut tomber que des nues.
+On dit qu'elle traite l'amour de bagatelle d'enfant ; moi, je prétends qu'elle a pris goût à cette enfance.
+Dans cette conjoncture, j'opine que nous encouragions ces deux personnages.
+Qu'en sera-t-il ?
+Qu'ils s'aimeront bonnement, en toute simplesse, et qu'ils s'épouseront de même.
+Qu'en sera-t-il ?
+Qu'en me voyant votre camarade, vous me rendrez votre mari par la douce habitude de me voir.
+Eh donc !
+Parlez, êtes-vous d'accord ?
+
+-*who_lisette
+Non.
+
+-*who_lepine
+Mademoiselle, est-ce mon amour qui vous déplaît ?
+
+-*who_lisette
+Oui.
+
+-*who_lepine
+En peu de mots vous dites beaucoup ; mais considérez l'occurrence.
+Je vous prédis que nos maîtres se marieront ; que la commodité vous tente.
+
+-*who_lisette
+Je vous prédis qu'ils ne se marieront point.
+Je ne veux pas, moi.
+Ma maîtresse, comme vous dites fort habilement, tient l'amour au-dessous d'elle ; et j'aurai soin de l'entretenir dans cette humeur, attendu qu'il n'est pas de mon petit intérêt qu'elle se marie.
+Ma condition n'en serait pas si bonne, entendez-vous ?
+Il n'y a point d'apparence que la Comtesse y gagne, et moi j'y perdrais beaucoup.
+J'ai fait un petit calcul là-dessus, au moyen duquel je trouve que tous vos arrangements me dérangent et ne me valent rien.
+Ainsi, quelque jolie que je sois, continuez de n'en rien voir ; laissez là la découverte que vous avez faite de mes grâces, et passez toujours sans y prendre garde.
+
+-*who_lepine
+Je les ai vues, Mademoiselle ; j'en suis frappé et n'ai de remède que votre coeur.
+
+-*who_lisette
+Tenez-vous donc pour incurable.
+
+-*who_lepine
+Me donnez-vous votre dernier mot ?
+
+-*who_lisette
+Je n'y changerai pas une syllabe.
+
+-*who_lepine
+Permettez que je reparte.
+Vous calculez ; moi de même.
+Selon vous, il ne faut pas que nos gens se marient ; il faut qu'ils s'épousent, selon moi, je le prétends.
+
+-*who_lisette
+Mauvaise gasconnade !
+
+-*who_lepine
+Patience.
+Je vous aime, et vous me refusez le réciproque.
+Je calcule qu'il me fait besoin, et je l'aurai, sandis !
+Je le prétends.
+
+-*who_lisette
+Vous ne l'aurez pas, sandis !
+
+-*who_lepine
+J'ai tout dit.
+Laissez parler mon maître qui nous arrive.
+
+**** *book_ *id_I04 *act_I *date_1736
+
+-*who_lemarquis
+Ah ! vous voici, Lisette !
+Je suis bien aise de vous trouver.
+
+-*who_lisette
+Je vous suis obligée, Monsieur ; mais je m'en allais.
+
+-*who_lemarquis
+Vous vous en alliez ?
+J'avais pourtant quelque chose à vous dire.
+Êtes-vous un peu de nos amis ?
+
+-*who_lepine
+Petitement.
+
+-*who_lisette
+J'ai beaucoup d'estime et de respect pour Monsieur le Marquis.
+
+-*who_lemarquis
+Tout de bon ?
+Vous me faites plaisir, Lisette ; je fais beaucoup de cas de vous aussi.
+Vous me paraissez une très bonne fille, et vous êtes à une maîtresse qui a bien du mérite.
+
+-*who_lisette
+Il y a longtemps que je le sais, Monsieur.
+
+-*who_lemarquis
+Ne vous parle-t-elle jamais de moi ?
+Que vous en dit-elle ?
+
+-*who_lisette
+Oh !
+Rien.
+
+-*who_lemarquis
+C'est que, entre nous, il n'y a point de femme que j'aime tant qu'elle.
+
+-*who_lisette
+Qu'appelez-vous aimer, Monsieur le Marquis ?
+Est-ce de l'amour que vous entendez ?
+
+-*who_lemarquis
+Eh !
+Mais oui, de l'amour, de l'inclination, comme tu voudras ; le nom n'y fait rien.
+Je l'aime mieux qu'un autre.
+Voilà tout.
+
+-*who_lisette
+Cela se peut.
+
+-*who_lemarquis
+Mais elle n'en sait rien ; je n'ai pas osé le lui apprendre.
+Je n'ai pas trop le talent de parler d'amour.
+
+-*who_lisette
+C'est ce qui me semble.
+
+-*who_lemarquis
+Oui, cela m'embarrasse, et, comme ta maîtresse est une femme fort raisonnable, j'ai peur qu'elle ne se moque de moi, et je ne saurais plus que lui dire ; de sorte que j'ai rêvé qu'il serait bon que tu la prévinsses en ma faveur.
+
+-*who_lisette
+Je vous demande pardon, Monsieur, mais il fallait rêver tout le contraire.
+Je ne puis rien pour vous, en vérité.
+
+-*who_lemarquis
+Eh !
+D'où vient ?
+Je t'aurai grande obligation.
+Je payerai bien tes peines ; et si ce garçon-là...
+Te convenait, je vous ferais un fort bon parti à tous les deux.
+
+-*who_lepine
+Derechef, recueillez-vous là-dessus, Mademoiselle.
+
+-*who_lisette
+Il n'y a pas moyen, Monsieur le Marquis.
+Si je parlais de vos sentiments à ma maîtresse, vous avez beau dire que le nom n'y fait rien, je me brouillerais avec elle, je vous y brouillerais vous-même.
+Ne la connaissez-vous pas ?
+
+-*who_lemarquis
+Tu crois donc qu'il n'y a rien à faire ?
+
+-*who_lisette
+Absolument rien.
+
+-*who_lemarquis
+Tant pis, cela me chagrine.
+Elle me fait tant d'amitié, cette femme !
+Allons, il ne faut donc plus y penser.
+
+-*who_lepine
+Monsieur, ne vous déconfortez pas.
+Du récit de Mademoiselle, n'en tenez compte, elle vous triche.
+Retirons-nous ; venez me consulter à l'écart, je serai plus consolant.
+Partons.
+
+-*who_lemarquis
+Viens ; voyons ce que tu as à me dire.
+Adieu, Lisette ; ne me nuis pas, voilà tout ce que j'exige.
+
+**** *book_ *id_I05 *act_I *date_1736
+
+-*who_lepine
+N'exigez rien ; ne gênons point Mademoiselle.
+Soyons galamment ennemis déclarés ; faisons-nous du mal en toute franchise.
+Adieu, gentille personne, je vous chéris ni plus ni moins ; gardez-moi votre coeur, c'est un dépôt que je vous laisse.
+
+-*who_lisette
+Adieu, mon pauvre Lépine ; vous êtes peut-être de tous les fous de la Garonne le plus effronté, mais aussi le plus divertissant.
+
+**** *book_ *id_I06 *act_I *date_1736
+
+-*who_lisette
+Voici ma maîtresse.
+De l'humeur dont elle est, je crois que cet amour-ci ne la divertira guère.
+Gare que le Marquis ne soit bientôt congédié !
+
+-*who_lacomtesse
+Tenez, Lisette, dites qu'on porte cette lettre à la poste ; en voilà dix que j'écris depuis trois semaines.
+La sotte chose qu'un procès !
+Que j'en suis lasse !
+Je ne m'étonne pas s'il y a tant de femmes qui se remarient.
+
+-*who_lisette
+Bon, votre procès, une affaire de mille francs, voilà quelque chose de bien considérable pour vous !
+Avez-vous envie de vous remarier ?
+J'ai votre affaire.
+
+-*who_lacomtesse
+Qu'est-ce que c'est qu'envie de me remarier ?
+Pourquoi me dites-vous cela ?
+
+-*who_lisette
+Ne vous fâchez pas ; je ne veux que vous divertir.
+
+-*who_lacomtesse
+Ce pourrait être quelqu'un de Paris qui vous aurait fait une confidence ; en tout cas, ne me le nommez pas.
+
+-*who_lisette
+Oh !
+Il faut pourtant que vous connaissiez celui dont je parle.
+
+-*who_lacomtesse
+Brisons là-dessus.
+Je rêve à une chose ; le Marquis n'a ici qu'un valet de chambre dont il a peut-être besoin ; et je voulais lui demander s'il n'a pas quelque paquet à porter à la poste, on le porterait avec le mien.
+Où est-il, le Marquis ?
+L'as-tu vu ce matin ?
+
+-*who_lisette
+Oh !
+Oui ; malepeste, il a ses raisons pour être éveillé de bonne heure.
+Revenons au mari que j'ai à vous donner, celui qui brûle pour vous, et que vous avez enflammé de passion...
+
+-*who_lacomtesse
+Qui est ce benêt-là ?
+
+-*who_lisette
+Vous le devinez.
+
+-*who_lacomtesse
+Celui qui brûle est un sot.
+Je ne veux rien savoir de Paris.
+
+-*who_lisette
+Ce n'est point de Paris ; votre conquête est dans le château.
+Vous l'appelez benêt ; moi je vais le flatter ; c'est un soupirant qui a l'air fort simple, un air de bon homme.
+Y êtes-vous ?
+
+-*who_lacomtesse
+Nullement.
+Qui est-ce qui ressemble à cela ici ?
+
+-*who_lisette
+Eh !
+Le Marquis.
+
+-*who_lacomtesse
+Celui qui est avec nous ?
+
+-*who_lisette
+Lui-même.
+
+-*who_lacomtesse
+Je n'avais garde d'y être.
+Où as-tu pris son air simple et de bon homme ?
+Dis donc un air franc et ouvert, à la bonne heure ; il sera reconnaissable.
+
+-*who_lisette
+Ma foi, Madame, je vous le rends comme je le vois.
+
+-*who_lacomtesse
+Tu le vois très mal, on ne peut pas plus mal ; en mille ans on ne le devinerait pas à ce portrait-là.
+Mais de qui tiens-tu ce que tu me contes de son amour ?
+
+-*who_lisette
+De lui qui me l'a dit ; rien que cela.
+N'en riez-vous pas ?
+Ne faites pas semblant de le savoir.
+Au reste, il n'y a qu'à vous en défaire tout doucement.
+
+-*who_lacomtesse
+Hélas ! je ne lui en veux point de mal.
+C'est un fort honnête homme, un homme dont je fais cas, qui a d'excellentes qualités ; et j'aime encore mieux que ce soit lui qu'un autre.
+Mais ne te trompes-tu pas aussi ?
+Il ne t'aura peut-être parlé que d'estime ; il en a beaucoup pour moi, beaucoup ; il me l'a marquée en mille occasions d'une manière fort obligeante.
+
+-*who_lisette
+Non, Madame, c'est de l'amour qui regarde vos appas ; il en a prononcé le mot sans bredouiller comme à l'ordinaire.
+C'est de la flamme ; il languit, il soupire.
+
+-*who_lacomtesse
+Est-il possible ?
+Sur ce pied-là, je le plains ; car ce n'est pas un étourdi ; il faut qu'il le sente puisqu'il le dit, et ce n'est pas de ces gens-là qu'on se moque ; jamais leur amour n'est ridicule.
+Mais il n'osera m'en parler, n'est-ce pas ?
+
+-*who_lisette
+Oh !
+Ne craignez rien, j'y ai mis bon ordre ; il ne s'y jouera pas.
+Je lui ai ôté toute espérance ; n'ai-je pas bien fait ?
+
+-*who_lacomtesse
+Mais...
+Oui, sans doute, oui...
+Pourvu que vous ne l'ayez pas brusqué, pourtant ; il fallait y prendre garde ; c'est un ami que je veux conserver, et vous avez quelquefois le ton dur et revêche, Lisette ; il valait mieux le laisser dire.
+
+-*who_lisette
+Point du tout.
+Il voulait que je vous parlasse en sa faveur.
+
+-*who_lacomtesse
+Ce pauvre homme !
+
+-*who_lisette
+Et je lui ai répondu que je ne pouvais pas m'en mêler, que je me brouillerais avec vous si je vous en parlais, que vous me donneriez mon congé, que vous lui donneriez le sien.
+
+-*who_lacomtesse
+Le sien ?
+Quelle grossièreté ?
+Ah !
+Que c'est mal parler !
+Son congé ?
+Et même est-ce que je vous aurais donné le vôtre ?
+Vous savez bien que non.
+D'où vient mentir, Lisette ?
+C'est un ennemi que vous m'allez faire d'un des hommes du monde que je considère le plus, et qui le mérite le mieux.
+Quel sot langage de domestique !
+Eh ! il était si simple de vous en tenir à lui dire : "Monsieur, je ne saurais ; ce ne sont pas là mes affaires ; parlez-en vous-même." Je voudrais qu'il osât m'en parler, pour raccommoder un peu votre malhonnêteté.
+Son congé ! son congé !
+Il va se croire insulté.
+
+-*who_lisette
+Eh ! non, Madame ; il était impossible de vous en débarrasser à moins de frais.
+Faut-il que vous l'aimiez, de peur de le fâcher ?
+Voulez-vous être sa femme par politesse, lui qui doit épouser Hortense ?
+Je ne lui ai rien dit de trop, et vous en voilà quitte.
+Mais je l'aperçois qui vient en rêvant ; évitez-le, vous avez le temps.
+
+-*who_lacomtesse
+L'éviter ?
+Lui qui me voit ?
+Ah !
+Je m'en garderai bien.
+Après les discours que vous lui avez tenus, il croirait que je les ai dictés.
+Non, non, je ne changerai rien à ma façon de vivre avec lui.
+Allez porter ma lettre.
+
+-*who_lisette
+Hum !
+Il y a ici quelque chose.
+Madame, je suis d'avis de rester auprès de vous ; cela m'arrive souvent, et vous en serez plus à abri d'une déclaration.
+
+-*who_lacomtesse
+Belle finesse ! quand je lui échapperais aujourd'hui, ne me retrouvera-t-il pas demain ?
+Il faudrait donc vous avoir toujours à mes côtés ?
+Non, non, partez.
+S'il me parle, je sais répondre.
+
+-*who_lisette
+Je suis à vous dans l'instant ; je n'ai qu'à donner cette lettre à un laquais.
+
+-*who_lacomtesse
+Non, Lisette ; c'est une lettre de conséquence, et vous me ferez plaisir de la porter vous-même, parce que, si le courrier est passé, vous me la rapporterez, et je l'enverrai par une autre voie.
+Je ne me fie point aux valets, ils ne sont point exacts.
+
+-*who_lisette
+Le courrier ne passe que dans deux heures, Madame.
+
+-*who_lacomtesse
+Eh !
+Allez, vous dis-je.
+Que sait-on ?
+
+-*who_lisette
+Quel prétexte !
+Cette femme-là ne va pas droit avec moi.
+
+**** *book_ *id_I07 *act_I *date_1736
+
+-*who_lacomtesse
+Elle avait la fureur de rester.
+Les domestiques sont haïssables ; il n'y a pas jusqu'à leur zèle qui ne vous désoblige.
+C'est toujours de travers qu'ils vous servent.
+
+**** *book_ *id_I08 *act_I *date_1736
+
+-*who_lepine
+Madame, Monsieur le Marquis vous a vue de loin avec Lisette.
+Il demande s'il n'y a point de mal qu'il approche ; il a le désir de vous consulter, mais il se fait le scrupule de vous êtes importun.
+
+-*who_lacomtesse
+Lui importun !
+Il ne saurait l'être.
+Dites-lui que je l'attends, Lépine ; qu'il vienne.
+
+-*who_lepine
+Je vais le réjouir de la nouvelle.
+Vous l'allez voir dans la minute.
+
+**** *book_ *id_I09 *act_I *date_1736
+
+-*who_lepine
+Monsieur, venez prendre audience ; Madame l'accorde.
+Courage, Monsieur ; l'accueil est gracieux, presque tendre ; c'est un coeur qui demande qu'on le prenne.
+
+**** *book_ *id_I10 *act_I *date_1736
+
+-*who_lacomtesse
+Eh !
+D'où vient donc la cérémonie que vous faites, Marquis ?
+Vous n'y songez pas.
+
+-*who_lemarquis
+Madame, vous avez bien de la bonté ; c'est que j'ai bien des choses à vous dire.
+
+-*who_lacomtesse
+Effectivement, vous me paraissez rêveur, inquiet.
+
+-*who_lemarquis
+Oui, j'ai l'esprit en peine.
+J'ai besoin de conseil, j'ai besoin de grâces, et le tout de votre part.
+
+-*who_lacomtesse
+Tant mieux.
+Vous avez encore moins besoin de tout cela, que je n'ai d'envie de vous être bonne à quelque chose.
+
+-*who_lemarquis
+Oh !
+Bonne ?
+Il ne tient qu'à vous de m'être excellente, si vous voulez.
+
+-*who_lacomtesse
+Comment !
+Si je veux ?
+Manquez-vous de confiance ?
+Ah !
+Je vous prie, ne me ménagez point ; vous pouvez tout sur moi, marquis ; je suis bien aise de vous le dire.
+
+-*who_lemarquis
+Cette assurance m'est bien agréable, et je serais tenté d'en abuser.
+
+-*who_lacomtesse
+J'ai grande peur que vous ne résistiez à la tentation.
+Vous ne comptez pas assez sur vos amis ; car vous êtes si réservé, si retenu !
+
+-*who_lemarquis
+Oui, j'ai beaucoup de timidité.
+
+-*who_lacomtesse
+Je fais de mon mieux pour vous l'ôter, comme vous voyez.
+
+-*who_lemarquis
+Vous savez dans quelle situation je suis avec Hortense, que je dois l'épouser ou lui donner deux cent mille francs.
+
+-*who_lacomtesse
+Oui, et je me suis aperçue que vous n'aviez pas grand goût pour elle.
+
+-*who_lemarquis
+Oh !
+On ne peut pas moins ; je ne l'aime point du tout.
+
+-*who_lacomtesse
+Je n'en suis pas surprise.
+Son caractère est si différent du vôtre !
+Elle a quelque chose de trop arrangé pour vous.
+
+-*who_lemarquis
+Vous y êtes ; elle songe trop à ses grâces.
+Il faudrait toujours l'entretenir de compliments, et moi, ce n'est pas là mon fort.
+La coquetterie me gêne ; elle me rend muet.
+
+-*who_lacomtesse
+Ah !
+Ah !
+Je conviens qu'elle en a un peu ; mais presque toutes les femmes sont de même.
+Vous ne trouverez que cela partout, Marquis.
+
+-*who_lemarquis
+Hors chez vous.
+Quelle différence, par exemple ! vous plaisez sans y penser, ce n'est pas votre faute.
+Vous ne savez pas seulement que vous êtes aimable ; mais d'autres le savent pour vous.
+
+-*who_lacomtesse
+Moi, Marquis ?
+Je pense qu'à cet égard-là les autres songent aussi peu à moi que j'y songe moi-même.
+
+-*who_lemarquis
+Oh !
+J'en connais qui ne vous disent pas tout ce qu'ils songent.
+
+-*who_lacomtesse
+Eh !
+Qui sont-ils, Marquis ?
+Quelques amis comme vous, sans doute ?
+
+-*who_lemarquis
+Bon, des amis !
+Voilà bien de quoi ; vous n'en aurez encore de longtemps.
+
+-*who_lacomtesse
+Je vous suis obligée du petit compliment que vous me faites en passant.
+
+-*who_lemarquis
+Point du tout.
+Je ne passe jamais, moi ; je dis toujours exprès.
+
+-*who_lacomtesse
+Comment ?
+Vous qui ne voulez pas que j'aie encore des amis !
+Est-ce que vous n'êtes pas le mien ?
+
+-*who_lemarquis
+Vous m'excuserez ; mais quand je serais autre chose, il n'y aurait rien de surprenant.
+
+-*who_lacomtesse
+Eh bien !
+Je ne laisserais pas d'en être surprise.
+
+-*who_lemarquis
+Et encore plus fâchée ?
+
+-*who_lacomtesse
+En vérité, surprise.
+Je veux pourtant croire que je suis aimable, puisque vous le dites.
+
+-*who_lemarquis
+Oh !
+Charmante, et je serais bien heureux si Hortense vous ressemblait ; je l'épouserais d'un grand coeur ; et j'ai bien de la peine à m'y résoudre.
+
+-*who_lacomtesse
+Je le crois ; et ce serait encore pis si vous aviez de l'inclination pour une autre.
+
+-*who_lemarquis
+Eh bien !
+C'est que justement le pis s'y trouve.
+
+-*who_lacomtesse
+Oui !
+Vous aimez ailleurs ?
+
+-*who_lemarquis
+De toute mon âme.
+
+-*who_lacomtesse
+Je m'en suis doutée, Marquis.
+
+-*who_lemarquis
+Et vous êtes-vous doutée de la personne ?
+
+-*who_lacomtesse
+Non ; mais vous me la direz.
+
+-*who_lemarquis
+Vous me feriez grand plaisir de la deviner.
+
+-*who_lacomtesse
+Pourquoi m'en donneriez-vous la peine, puisque vous voilà ?
+
+-*who_lemarquis
+C'est que vous ne connaissez qu'elle ; c'est la plus aimable femme, la plus franche...
+Vous parlez de gens sans façon ?
+Il n'y a personne comme elle ; plus je la vois, plus je l'admire.
+
+-*who_lacomtesse
+Épousez-la, Marquis, épousez-la, et laissez là Hortense ; il n'y a point à hésiter, vous n'avez point d'autre parti à prendre.
+
+-*who_lemarquis
+Oui ; mais je songe à une chose ; n'y aurait-il pas moyen de me sauver le deux cent mille francs ?
+Je vous parle à coeur ouvert.
+
+-*who_lacomtesse
+Regardez-moi dans cette occasion-ci comme une autre vous-même.
+
+-*who_lemarquis
+Ah !
+Que c'est bien dit, une autre moi-même !
+
+-*who_lacomtesse
+Ce qui me plaît en vous, c'est votre franchise, qui est une qualité admirable.
+Revenons.
+Comment vous sauver ces deux cent mille francs ?
+
+-*who_lemarquis
+C'est qu'Hortense aime le Chevalier.
+Mais, à propos, c'est votre parent ?
+
+-*who_lacomtesse
+Oh !
+Parent, ...de loin.
+
+-*who_lemarquis
+Or, de cet amour qu'elle a pour lui, je conclus qu'elle ne se soucie pas de moi.
+Je n'ai donc qu'à faire semblant de vouloir l'épouser ; elle me refusera, et je ne lui devrai plus rien ; son refus me servira de quittance.
+
+-*who_lacomtesse
+Oui-da, vous pouvez le tenter.
+Ce n'est pas qu'il n'y ait du risque ; elle a du discernement, Marquis.
+Vous supposez qu'elle vous refusera ?
+Je n'en sais rien ; vous n'êtes pas un homme à dédaigner.
+
+-*who_lemarquis
+Est-il vrai ?
+
+-*who_lacomtesse
+C'est mon sentiment.
+
+-*who_lemarquis
+Vous me flattez, vous encouragez ma franchise.
+
+-*who_lacomtesse
+Je vous encourage !
+Eh !
+Mais en êtes-vous encore là ?
+Mettez-vous donc dans l'esprit que je ne demande qu'à vous obliger, qu'il n'y a que l'impossible qui m'arrêtera, et que vous devez compter sur tout ce qui dépendra de moi.
+Ne perdez point cela de vue, étrange homme que vous êtes, et achevez hardiment.
+Vous voulez des conseils, je vous en donne.
+Quand nous en serons à l'article des grâces, il n'y aura qu'à parler ; elles ne feront pas plus de difficulté que le reste, entendez-vous ?
+Et que cela soit dit pour toujours.
+
+-*who_lemarquis
+Vous me ravissez d'espérance.
+
+-*who_lacomtesse
+Allons par ordre.
+Si Hortense allait vous prendre au mot ?
+
+-*who_lemarquis
+J'espère que non.
+En tout cas, je lui payerais sa somme, pourvu qu'auparavant la personne qui a pris mon coeur ait la bonté de me dire qu'elle veut bien de moi.
+
+-*who_lacomtesse
+Hélas !
+Elle serait donc bien difficile ?
+Mais, Marquis, est-ce qu'elle ne sait pas que vous l'aimez ?
+
+-*who_lemarquis
+Non vraiment ; je n'ai pas osé le lui dire.
+
+-*who_lacomtesse
+Et le tout par timidité.
+Oh !
+En vérité, c'est la pousser trop loin, et, toute amie des bienséances que je suis, je ne vous approuve pas ; ce n'est pas se rendre justice.
+
+-*who_lemarquis
+Elle est si sensée, que j'ai peur d'elle.
+Vous me conseillez donc de lui en parler ?
+
+-*who_lacomtesse
+Eh !
+Cela devrait être fait.
+Peut-être vous attend-elle.
+Vous dites qu'elle est sensée ; que craignez-vous ?
+Il est louable de penser modestement de soi ; mais avec de la modestie, on parle, on se propose.
+Parlez, Marquis ; parlez, tout ira bien.
+
+-*who_lemarquis
+Hélas !
+Si vous saviez qui c'est, vous ne m'exhorteriez pas tant.
+Que vous êtes heureuse de n'aimer rien, et de mépriser l'amour !
+
+-*who_lacomtesse
+Moi, mépriser ce qu'il y a au monde de plus naturel !
+Cela ne serait pas raisonnable.
+Ce n'est pas l'amour, ce sont les amants, tels qu'ils sont la plupart, que je méprise, et non pas le sentiment qui fait qu'on aime, qui n'a rien en soi que de fort honnête, de fort permis, et de fort involontaire.
+C'est le plus doux sentiment de la vie ; comment le haïrais-je ?
+Non, certes, et il y a tel homme à qui je pardonnerais de m'aimer s'il me l'avouait avec cette simplicité de caractère que je louais tout à l'heure en vous.
+
+-*who_lemarquis
+En effet, quand on le dit naïvement, comme on le sent...
+
+-*who_lacomtesse
+Il n'y a point de mal alors.
+On a toujours bonne grâce ; voilà ce que pense.
+Je ne suis pas une âme sauvage.
+
+-*who_lemarquis
+Ce serait bien dommage...
+Vous avez la plus belle santé !
+
+-*who_lacomtesse
+Il est bien question de ma santé !
+C'est l'air de la campagne.
+
+-*who_lemarquis
+L'air de la ville vous fait de même l'oeil le plus vif, le teint le plus frais !
+
+-*who_lacomtesse
+Je me porte assez bien.
+Mais savez-vous bien que vous me dites des douceurs sans y penser ?
+
+-*who_lemarquis
+Pourquoi sans y penser ?
+Moi, j'y pense.
+
+-*who_lacomtesse
+Gardez-les pour la personne que vous aimez.
+
+-*who_lemarquis
+Eh !
+Si c'était vous, il n'y aurait que faire de les garder.
+
+-*who_lacomtesse
+Comment, si c'était moi !
+Est-ce de moi dont il s'agit ?
+Qu'est-ce que cela signifie ?
+Est-ce une déclaration d'amour que vous me faites ?
+
+-*who_lemarquis
+Oh !
+Point du tout.
+
+-*who_lacomtesse
+Eh !
+De quoi vous avisez-vous donc de m'entretenir de ma santé ?
+Qui est-ce qui ne s'y tromperait pas ?
+
+-*who_lemarquis
+Ce n'est que façon de parler : je dis seulement qu'il est fâcheux que vous ne vouliez ni aimer, ni vous remarier, et que j'en suis mortifié, parce que je ne vois pas de femme qui peut convenir autant que vous.
+Mais je ne vous en dis mot, de peur de vous déplaire.
+
+-*who_lacomtesse
+Mais encore une fois, vous me parlez d'amour.
+Je ne me trompe pas : c'est moi que vous aimez, vous me le dites en termes exprès.
+
+-*who_lemarquis
+Hé bien, oui, quand ce serait vous, il n'est pas nécessaire de se fâcher.
+Ne dirait-on pas que tout est perdu ?
+Calmez-vous ; prenez que je n'aie rien dit.
+
+-*who_lacomtesse
+La belle chute !
+Vous êtes bien singulier.
+
+-*who_lemarquis
+Et vous de bien mauvaise humeur.
+Eh !
+Tout à l'heure, à votre avis, on avait si bonne grâce à dire naïvement qu'on aime !
+Voyez comme cela réussit.
+Me voilà bien avancé !
+
+-*who_lacomtesse
+Ne le voilà-t-il pas bien reculé ?
+À qui en avez-vous ?
+Je vous demande à qui vous parlez ?
+
+-*who_lemarquis
+À personne, Madame, à personne.
+Je ne dirai plus mot ; êtes-vous contente ?
+Si vous vous mettez en colère contre tous ceux qui me ressemblent, vous en querellerez bien d'autres.
+
+-*who_lacomtesse
+Quel original !
+Et qui est-ce qui vous querelle ?
+
+-*who_lemarquis
+Ah !
+La manière dont vous me refusez n'est pas douce.
+
+-*who_lacomtesse
+Allez, vous rêvez.
+
+-*who_lemarquis
+Courage !
+Avec la qualité d'original dont vous venez de m'honorer tout bas, il ne me manquait plus que celle de rêveur ; au surplus, je ne m'en plains pas.
+Je ne vous conviens point ; qu'y faire ?
+Il n'y a plus qu'à me taire, et je me tairai.
+Adieu, Comtesse ; n'en soyons pas moins bons amis, et du moins ayez la bonté de m'aider à me tirer d'affaire avec Hortense.
+
+-*who_lacomtesse
+
+LA COMTESSE, seule un moment comme il s'en va.
+Quel homme !
+Celui-ci ne m'ennuiera pas du récit de mes rigueurs.
+J'aime les gens simples et unis ; mais en vérité celui-là l'est trop.
+
+**** *book_ *id_I11 *act_I *date_1736
+
+-*who_hortense
+Monsieur le Marquis, je vous prie, ne vous en allez pas ; nous avons à nous parler, et Madame peut être présente.
+
+-*who_lemarquis
+Comme vous voudrez, Madame.
+
+-*who_hortense
+Vous savez ce dont il s'agit ?
+
+-*who_lemarquis
+Non, je ne sais pas ce que c'est ; je ne m'en souviens plus.
+
+-*who_hortense
+Vous me surprenez !
+Je me flattais que vous seriez le premier à rompre le silence.
+Il est humiliant pour moi d'être obligée de vous prévenir.
+Avez-vous oublié qu'il y a un testament qui nous regarde ?
+
+-*who_lemarquis
+Oh !
+Oui, je me souviens du testament.
+
+-*who_hortense
+Et qui dispose de ma main en votre faveur ?
+
+-*who_lemarquis
+Oui, Madame, oui ; il faut que je vous épouse, cela est vrai.
+
+-*who_hortense
+Eh bien, Monsieur, à quoi vous déterminez-vous ?
+Il est temps de fixer mon état.
+Je ne vous cache point que vous avez un rival ; c'est le Chevalier, qui est parent de Madame, que je ne vous préfère pas, mais que je préfère à tout autre, et que j'estime assez pour en faire mon époux si vous ne devenez pas le mien ; c'est ce que je lui ai dit jusqu'ici ; et comme il m'assure avoir des raisons pressantes de savoir aujourd'hui même à quoi s'en tenir, je n'ai pu lui refuser de vous parler.
+Monsieur, le congédierai-je, ou non ?
+Que voulez-vous que je lui dise ?
+Ma main est à vous, si vous la demandez.
+
+-*who_lemarquis
+Vous me faites bien de la grâce ; je la prends, Mademoiselle.
+
+-*who_hortense
+Est-ce votre coeur qui me choisit, Monsieur le Marquis ?
+
+-*who_lemarquis
+N'êtes-vous pas assez aimable pour cela ?
+
+-*who_hortense
+Et vous m'aimez ?
+
+-*who_lemarquis
+Qui est-ce qui vous dit le contraire ?
+Tout à l'heure j'en parlais à Madame.
+
+-*who_lacomtesse
+Il est vrai, c'était de vous dont il m'entretenait ; il songeait à vous proposer ce mariage.
+
+-*who_hortense
+Et vous disait-il aussi qu'il m'aimait ?
+
+-*who_lacomtesse
+Il me semble que oui ; du moins me parlait-il de penchant.
+
+-*who_hortense
+D'où vient donc, Monsieur le Marquis, me l'avez-vous laissé ignorer depuis six semaines ?
+Quand on aime, on en donne quelques marques, et dans le cas où nous sommes, vous aviez droit de vous déclarer.
+
+-*who_lemarquis
+J'en conviens ; mais le temps se passe ; on est distrait ; on ne sait pas si les gens sont de votre avis.
+
+-*who_hortense
+Vous êtes bien modeste.
+Voilà qui est donc arrêté, et je vais l'annoncer au Chevalier qui entre.
+
+**** *book_ *id_I12 *act_I *date_1736
+
+-*who_hortense
+Il accepte ma main, mais de mauvaise grâce ; ce n'est qu'une ruse, ne vous effrayez pas.
+
+-*who_lechevalier
+Vous m'inquiétez.
+Eh bien !
+Madame, il ne me reste plus d'espérance, sans doute ?
+Je n'ai pas dû m'attendre que Monsieur le Marquis pût consentir à vous perdre.
+
+-*who_hortense
+Oui, Chevalier, je l'épouse ; la chose est conclue, et le ciel vous destine à une autre qu'à moi.
+Le Marquis m'aimait en secret, et c'était, dit-il, par distraction qu'il ne me le déclarait pas.
+Par distraction !
+
+-*who_lechevalier
+J'entends ; il avait oublié de vous le dire.
+
+-*who_hortense
+Oui, c'est cela même ; mais il vient de me l'avouer, et il l'avait confié à Madame.
+
+-*who_lechevalier
+Eh ! que ne m'avertissiez-vous, Comtesse ?
+J'ai cru quelquefois qu'il vous aimait vous-même.
+
+-*who_lacomtesse
+Quelle imagination !
+A propos de quoi me citer ici ?
+
+-*who_hortense
+Il y a eu des instants où je le soupçonnais aussi.
+
+-*who_lacomtesse
+Encore !
+Où est donc la plaisanterie, Hortense ?
+
+-*who_lemarquis
+Pour moi, je ne dis mot.
+
+-*who_lechevalier
+Vous me désespérez, Marquis.
+
+-*who_lemarquis
+J'en suis fâché, mais mettez-vous à ma place ; il y a un testament, vous le savez bien ; je ne peux pas faire autrement.
+
+-*who_lechevalier
+Sans le testament, vous n'aimeriez peut-être pas autant que moi.
+
+-*who_lemarquis
+Oh !
+Vous me pardonnerez, je n'aime que trop.
+
+-*who_hortense
+Je tâcherai de le mériter, Monsieur.
+Demandez qu'on presse notre mariage.
+
+-*who_lechevalier
+N'est-ce pas trop risquer ?
+Dans l'état où je suis, Marquis, achevez de me prouver que mon malheur est sans remède.
+
+-*who_lemarquis
+La preuve s'en verra quand je l'épouserai.
+Je ne peux pas l'épouser tout à l'heure.
+
+-*who_lechevalier
+Vous avez raison.
+Il vous épousera.
+
+-*who_hortense
+Vous gâtez tout.
+J'entends bien ce que le Chevalier veut dire ; c'est qu'il espère toujours que nous ne nous marierons pas, Monsieur le Marquis ; n'est-ce pas, Chevalier ?
+
+-*who_lechevalier
+Non, Madame, je n'espère plus rien.
+
+-*who_hortense
+Vous m'excuserez ; vous n'êtes pas convaincu, vous ne l'êtes pas ; et comme il faut, m'avez-vous dit, que vous alliez demain à Paris pour y prendre des mesures nécessaires en cette occasion-ci, vous voudriez, avant que de partir, savoir bien précisément s'il ne vous reste plus d'espoir ?
+Voilà ce que c'est ; vous avez besoin d'une entière certitude ?
+Dites qu'oui.
+
+-*who_lechevalier
+Mais oui.
+
+-*who_hortense
+Monsieur le Marquis, nous ne sommes qu'à une lieue de Paris ; il est de bonne heure ; envoyez Lépine chercher un notaire, et passons notre contrat aujourd'hui, pour donner au Chevalier la triste conviction qu'il demande.
+
+-*who_lacomtesse
+Mais il me paraît que vous lui faites accroire qu'il la demande ; je suis persuadée qu'il ne s'en soucie pas.
+
+-*who_hortense
+Soutenez donc.
+
+-*who_lechevalier
+Oui, Comtesse, un notaire me ferait plaisir.
+
+-*who_lacomtesse
+Voilà un sentiment bien bizarre !
+
+-*who_hortense
+Point du tout.
+Ses affaires exigent qu'il sache à quoi s'en tenir ; il n'y a rien de si simple, et il a raison ; il n'osait le dire, et je le dis pour lui.
+Allez-vous envoyer Lépine, Monsieur le Marquis ?
+
+-*who_lemarquis
+Comme il vous plaira.
+Mais qui est-ce qui songeait à avoir un notaire aujourd'hui ?
+
+-*who_hortense
+Insistez.
+
+-*who_lechevalier
+Je vous en prie, Marquis.
+
+-*who_lacomtesse
+Oh !
+Vous aurez la bonté d'attendre à demain, Monsieur le Chevalier ; vous n'êtes pas si pressé ; votre fantaisie n'est pas d'une espèce à mériter qu'on se gêne tant pour elle ; ce serait ce soir ici un embarras qui nous dérangerait.
+J'ai quelques affaires ; demain, il sera temps.
+
+-*who_hortense
+Pressez.
+
+-*who_lechevalier
+Eh !
+Comtesse, de grâce.
+
+-*who_lacomtesse
+De grâce !
+L'hétéroclite prière !
+Il est donc bien ragoûtant de voir sa maîtresse mariée à son rival ?
+Comme Monsieur voudra, au reste !
+
+-*who_lemarquis
+Il serait impoli de gêner Madame ; au surplus, je m'en rapporte à elle ; demain serait bon.
+
+-*who_hortense
+Dès qu'elle y consent, il n'y a qu'à envoyer Lépine.
+
+**** *book_ *id_I13 *act_I *date_1736
+
+-*who_hortense
+Voici Lisette qui entre ; je vais lui dire de nous l'aller chercher.
+Lisette, on doit passer ce soir un contrat de mariage entre Monsieur le Marquis et moi ; il veut tout à l'heure faire partir Lépine pour amener son notaire de Paris ; ayez la bonté de lui dire qu'il vienne recevoir ses ordres.
+
+-*who_lisette
+J'y cours, Madame.
+
+-*who_lacomtesse
+Où allez-vous ?
+En fait de mariage, je ne veux ni m'en mêler, ni que mes gens s'en mêlent.
+
+-*who_lisette
+Moi, ce n'est que pour rendre service.
+Tenez, je n'ai que faire de sortir ; je le vois sur la terrasse.
+Monsieur de Lépine !
+
+-*who_lacomtesse
+Cette sotte !
+
+**** *book_ *id_I14 *act_I *date_1736
+
+-*who_lepine
+Qui est-ce qui m'appelle ?
+
+-*who_lisette
+Vite, vite, à cheval.
+Il s'agit d'un contrat de mariage entre Madame et votre maître, et il faut aller à Paris chercher le notaire de Monsieur le Marquis.
+
+-*who_lepine
+Le notaire !
+Ce qu'elle conte est-il vrai, Monsieur ?
+Nous avons la partie de chasse pour tantôt ; je me suis arrangé pour courir le lièvre, et non pas le notaire.
+
+-*who_lemarquis
+C'est pourtant le dernier qu'on veut.
+
+-*who_lepine
+Ce n'est pas la peine que je voyage pour avoir le vôtre ; je le compte pour mort.
+Ne le savez-vous pas ?
+La fièvre le travaillait quand nous partîmes, avec le médecin par-dessus ; il en avait le transport au cerveau.
+
+-*who_lemarquis
+Vraiment, oui ; à propos, il était très malade.
+
+-*who_lepine
+Il agonisait, sandis !...
+
+-*who_lisette
+Il n'y a qu'à prendre celui de Madame.
+
+-*who_lacomtesse
+Il n'y a qu'à vous taire ; car si celui de Monsieur est mort, le mien l'est aussi.
+Il y a quelque temps qu'il me dit qu'il était le sien.
+
+-*who_lisette
+Il me semble qu'il n'y a pas longtemps que vous lui avez écrit, Madame.
+
+-*who_lacomtesse
+La belle conséquence !
+Ma lettre a-t-elle empêché qu'il ne mourût ?
+Il est certain que je lui ai écrit ; mais aussi ne m'a-t-il point fait de réponse.
+
+-*who_lechevalier
+Je commence à me rassurer.
+
+-*who_hortense
+Il y a plus d'un notaire à Paris.
+Lépine verra s'il se porte mieux.
+Depuis six semaines que nous sommes ici, il a eu le temps de revenir en bonne santé.
+Allez lui écrire un mot, Monsieur le Marquis, et priez-le, s'il ne peut venir, d'en indiquer un autre.
+Lépine ira se préparer pendant que vous écrirez.
+
+-*who_lepine
+Non, Madame ; si je monte à cheval, c'est autant de resté par les chemins.
+Je parlais de la partie de chasse ; mais voici que je me sens mal, extrêmement mal ; d'aujourd'hui je ne prendrai ni gibier, ni notaire.
+
+-*who_lisette
+Est-ce que vous êtes mort aussi ?
+
+-*who_lepine
+Non, Mademoiselle ; mais je vis souffrant et je ne pourrais fournir la course.
+Ahi !
+Sans le respect de la compagnie, je ferais des cris perçants.
+Je me brisai hier d'une chute sur l'escalier ; je roulai tout un étage, et je commençais d'en entamer un autre quand on me retint sur le penchant.
+Jugez de la douleur ; je la sens qui m'enveloppe.
+
+-*who_lechevalier
+Eh bien !
+Tu n'as qu'à prendre ma chaise.
+Dites-lui qu'il parte, Marquis.
+
+-*who_lemarquis
+Ce garçon qui est tout froissé, qui a roulé un étage, je m'étonne qu'il ne soit pas au lit.
+Pars si tu peux, au reste.
+
+-*who_hortense
+Allez, partez, Lépine ; on n'est point fatigué dans une chaise.
+
+-*who_lepine
+Vous dirai-je le vrai, Mademoiselle ?
+Obligez-moi de me dispenser de la commission.
+Monsieur traite avec vous de sa ruine ; vous ne l'aimez point, Madame ; j'en ai connaissance, et ce mariage ne peut être que fatal ; je me ferais un reproche d'y avoir part.
+Je parle en conscience.
+Si mon scrupule déplaît, qu'on me dise : Va-t'en ; qu'on me casse, je m'y soumets ; ma probité me console.
+
+-*who_lacomtesse
+Voilà ce qu'on appelle un excellent domestique !
+Ils sont bien rares !
+
+-*who_lemarquis
+Vous l'entendez.
+Comment voulez-vous que je m'y prenne avec cet opiniâtre ?
+Quand je me fâcherais, il n'en sera ni plus ni moins.
+Il faut donc le chasser.
+Retire-toi.
+
+-*who_hortense
+On se passera de lui.
+Allez toujours écrire ; un de mes gens portera la lettre, ou quelqu'un du village.
+
+**** *book_ *id_I15 *act_I *date_1736
+
+-*who_hortense
+Ah ! çà, vous allez faire votre billet ; j'en vais écrire un qu'on laissera chez moi en passant.
+
+-*who_lemarquis
+Oui-da ; mais consultez-vous ; si par hasard vous ne m'aimiez pas, tant pis ; car j'y vais de bon eu.
+
+-*who_lechevalier
+Vous le poussez trop.
+
+-*who_hortense
+Paix !
+Tout est consulté, Monsieur ; adieu.
+Chevalier, vous voyez bien qu'il ne m'est plus permis de vous écouter.
+
+-*who_lechevalier
+Adieu, Mademoiselle ; je vais me livrer à la douleur où vous me laissez.
+
+**** *book_ *id_I16 *act_I *date_1736
+
+-*who_lemarquis
+Je n'en reviens point !
+C'est le diable qui m'en veut.
+Vous voulez que cette fille-là m'aime ?
+
+-*who_lacomtesse
+Non ; mais elle est assez mutine pour vous épouser.
+Croyez-moi, terminez avec elle.
+
+-*who_lemarquis
+Si je lui offrais cent mille francs ?
+Mais ils ne sont pas prêts ; je ne les ai point.
+
+-*who_lacomtesse
+Que cela ne vous retienne pas ; je vous les prêterai, moi ; je les ai à Paris.
+Rappelez-les ; votre situation me fait de la peine.
+Courez, je les vois encore tous deux.
+
+-*who_lemarquis
+Je vous rends mille grâces.
+Madame !
+Monsieur le Chevalier !
+
+**** *book_ *id_I17 *act_I *date_1736
+
+-*who_lemarquis
+Voulez-vous bien revenir ?
+J'ai un petit mot à vous communiquer.
+
+-*who_hortense
+De quoi s'agit-il donc ?
+
+-*who_lechevalier
+Vous me rappelez aussi ; dois-je en tirer un bon augure ?
+
+-*who_hortense
+Je croyais que vous alliez écrire.
+
+-*who_lemarquis
+Rien n'empêche.
+Mais c'est que j'ai une proposition à vous faire, et qui est tout à fait raisonnable.
+
+-*who_hortense
+Une proposition, Monsieur le Marquis ?
+Vous m'avez donc trompée ?
+Votre amour n'est pas aussi vrai que vous me l'avez dit.
+
+-*who_lemarquis
+Que diantre voulez-vous ?
+On prétend aussi que vous ne m'aimez point ; cela me chicane.
+
+-*who_hortense
+Je ne vous aime pas encore, mais je vous aimerai.
+Et puis, Monsieur, avec de la vertu, on se passe d'amour pour un mari.
+
+-*who_lemarquis
+Oh !
+Je serais un mari qui ne s'en passerait pas, moi.
+Nous ne gagnerions, à nous marier, que le loisir de nous quereller à notre aise, et ce n'est pas là une partie de plaisir bien touchante ; ainsi, tenez, accommodons-nous plutôt.
+Partageons le différend en deux ; il y a deux cent mille francs sur le testament ; prenez-en la moitié, quoique vous ne m'aimiez pas, et laissons là tous les notaires, tant vivants que morts.
+
+-*who_lechevalier
+Je ne crains plus rien.
+
+-*who_hortense
+Vous n'y pensez pas, Monsieur ; cent mille francs ne peuvent entrer en comparaison avec l'avantage de vous épouser, et vous ne vous évaluez pas ce que vous valez.
+
+-*who_lemarquis
+Ma foi, je ne les vaux pas quand je suis de mauvaise humeur, et je vous annonce que j'y serai toujours.
+
+-*who_hortense
+Ma douceur naturelle me rassure.
+
+-*who_lemarquis
+Vous ne voulez donc pas ?
+Allons notre chemin ; vous serez mariée.
+
+-*who_hortense
+C'est le plus court et je m'en retourne.
+
+-*who_lemarquis
+Ne suis-je pas bien malheureux d'être obligé de donner la moitié d'une pareille somme à une personne qui ne se soucie pas de moi ?
+Il n'y a qu'à plaider, Madame ; nous verrons un peu si on me condamnera à épouser une fille qui ne m'aime pas.
+
+-*who_hortense
+Et moi je dirai que je vous aime ; qui est-ce qui me prouvera le contraire dès que je vous accepte ?
+Je soutiendrai que c'est vous qui ne m'aimez pas, et qui même, dit-on, en aime une autre.
+
+-*who_lemarquis
+Du moins, en tout cas, ne la connaît-on point comme on connaît le Chevalier ?
+
+-*who_hortense
+Tout de même, Monsieur ; je la connais, moi.
+
+-*who_lacomtesse
+Eh !
+Finissez, Monsieur, finissez.
+Ah !
+L'odieuse contestation !
+
+-*who_hortense
+Oui, finissons.
+Je vous épouserai, Monsieur ; il n'y a que cela à dire.
+
+-*who_lemarquis
+Eh bien !
+Et moi aussi, Madame, et moi aussi.
+
+-*who_hortense
+Épousez donc.
+
+-*who_lemarquis
+Oui, parbleu !
+J'en aurai le plaisir ; il faudra bien que l'amour vous vienne ; et, pour début de mariage, je prétends, s'il vous plaît, que Monsieur le Chevalier ait la bonté d'être notre ami de loin.
+
+-*who_lechevalier
+Ceci ne vaut rien ; il se pique.
+
+-*who_hortense
+Taisez-vous.
+Monsieur le Chevalier me connaît assez pour être persuadé qu'il ne me verra plus.
+Adieu, Monsieur ; je vais écrire mon billet ; tenez le vôtre prêt ; ne perdons point de temps.
+
+-*who_lacomtesse
+Oh !
+Pour votre contrat, je vous certifie que vous irez le signer où il vous plaira, mais que ce ne sera pas chez moi.
+C'est s'égorger que se marier comme vous faites, et je ne prêterai jamais ma maison pour une si funeste cérémonie ; vos fureurs iront se passer ailleurs, si vous le trouvez bon.
+
+-*who_hortense
+Eh bien !
+Comtesse, la Marquise est votre voisine ; nous irons chez elle.
+
+-*who_lemarquis
+Oui, si j'en suis d'avis ; car, enfin, cela dépend de moi.
+Je ne connais point votre Marquise.
+
+-*who_hortense
+N'importe, vous y consentirez, Monsieur.
+Je vous quitte.
+
+-*who_lemarquis
+À tout ce que je vois, mon espérance renaît un peu.
+
+**** *book_ *id_I18 *act_I *date_1736
+
+-*who_lacomtesse
+Restez, Chevalier ; parlons un peu de ceci.
+Y eut-il jamais rien de pareil ?
+Qu'en pensez-vous, vous qui aimez Hortense, vous qu'elle aime ?
+Le mariage ne vous fait-il pas trembler ?
+Moi qui ne suis pas son amant, il m'effraie.
+
+-*who_lechevalier
+C'est une chose affreuse !
+Il n'y a point d'exemple de cela.
+
+-*who_lemarquis
+Je ne m'en soucie guère ; elle sera ma femme, mais en revanche je serai son mari ; c'est ce qui me console, et ce sont plus ses affaires que les miennes.
+Aujourd'hui le contrat, demain la noce, et ce soir confinée dans son appartement ; pas plus de façon.
+Je suis piqué, je ne donnerais pas cela de plus.
+
+-*who_lacomtesse
+Pour moi, je serais d'avis qu'on les empêchât absolument de s'engager ; et un notaire honnête homme, s'il était instruit, leur refuserait tout net son ministère.
+Je les enfermerais si j'étais la maîtresse.
+Hortense peut-elle se sacrifier à un aussi vil intérêt ?
+Vous qui êtes né généreux, Chevalier, et qui avez du pouvoir sur elle, retenez-la ; faites-lui, par pitié, entendre raison, si ce n'est par amour.
+Je suis sûre qu'elle ne marchande si vilainement qu'à cause de vous.
+
+-*who_lemarquis
+Il n'y a plus de risque à tenir bon.
+Que voulez-vous que j'y fasse, Comtesse ?
+Je n'y vois point de remède.
+
+-*who_lacomtesse
+Comment ?
+Que dites-vous ?
+Il faut que j'aie mal entendu ; car je vous estime.
+
+-*who_lechevalier
+Je dis que je ne puis rien là-dedans, et que c'est ma tendresse qui me défend de la résoudre à ce que vous souhaitez.
+
+-*who_lacomtesse
+Et par quel trait d'esprit me prouverez-vous la justesse de ce petit raisonnement-là ?
+
+-*who_lechevalier
+Oui, Madame, je veux qu'elle soit heureuse.
+Si je l'épouse, elle ne le serait pas assez avec la fortune que j'ai ; la douceur de notre union s'altérerait ; je la verrais se repentir de m'avoir épousé, de n'avoir pas épousé Monsieur, et c'est à quoi je ne m'exposerai point.
+
+-*who_lacomtesse
+On ne peut vous répondre qu'en haussant les épaules.
+Est-ce vous qui me parlez, Chevalier ?
+
+-*who_lechevalier
+Oui, Madame.
+
+-*who_lacomtesse
+Vous avez donc l'âme mercenaire aussi, mon petit cousin ?
+Je ne m'étonne plus de l'inclination que vous avez l'un pour l'autre.
+Oui, vous êtes digne d'elle ; vos coeurs sont bien assortis.
+Ah !
+L'horrible façon d'aimer !
+
+-*who_lechevalier
+Madame, la vraie tendresse ne raisonne pas autrement que la mienne.
+
+-*who_lacomtesse
+Ah !
+Monsieur, ne prononcez pas seulement le mot de tendresse ; vous le profanez.
+
+-*who_lechevalier
+Mais...
+
+-*who_lacomtesse
+Vous me scandalisez, vous dis-je.
+Vous êtes mon parent malheureusement, mais je ne m'en vanterai point.
+N'avez-vous pas de honte ?
+Vous parlez de votre fortune, je la connais ; elle vous met fort en état de supporter le retranchement d'une aussi misérable somme que celle dont il s'agit, et qui ne peut jamais être que mal acquise.
+Ah ciel !
+Moi qui vous estimais !
+Quelle avarice sordide !
+Quel coeur sans sentiment !
+Et de pareils gens disent qu'ils aiment !
+Ah !
+Le vilain amour !
+Vous pouvez vous retirer ; je n'ai plus rien à vous dire.
+
+-*who_lemarquis
+Ni moi non plus rien à entendre.
+Le billet va partir ; vous avez encore trois heures à entretenir Hortense, après quoi j'espère qu'on ne vous verra plus.
+
+-*who_lechevalier
+Monsieur, le contrat signé, je pars.
+Pour vous, Comtesse, quand vous y penserez bien sérieusement, vous excuserez votre parent et vous lui rendrez plus de justice.
+
+-*who_lacomtesse
+Ah !
+Non ; voilà qui est fini, je ne saurais le mépriser davantage.
+
+**** *book_ *id_I19 *act_I *date_1736
+
+-*who_lemarquis
+Eh bien !
+Suis-je assez à plaindre ?
+
+-*who_lacomtesse
+Eh !
+Monsieur, délivrez-vous d'elle et donnez-lui les deux cent mille francs.
+
+-*who_lemarquis
+Deux cent mille francs plutôt que de l'épouser !
+Non, parbleu !
+Je n'irai pas m'incommoder jusque-là ; je ne pourrais pas les trouver sans me déranger.
+
+-*who_lacomtesse
+Ne vous ai-je pas dit que j'ai justement la moitié de cette somme-là toute prête ?
+À l'égard du reste, on tâchera de vous la faire.
+
+-*who_lemarquis
+Eh !
+Quand on emprunte, ne faut-il pas rendre ?
+Si vous aviez voulu de moi, à la bonne heure ; mais dès qu'il n'y a rien à faire, je retiens la demoiselle ; elle serait trop chère à renvoyer.
+
+-*who_lacomtesse
+Trop chère !
+Prenez donc garde, vous parlez comme eux.
+Seriez-vous capable de sentiments si mesquins ?
+Il vaudrait mieux qu'il vous en coûtât tout votre bien que de la retenir, puisque vous ne l'aimez pas, Monsieur.
+
+-*who_lemarquis
+Eh !
+En aimerais-je une autre davantage ?
+À l'exception de vous, toute femme m'est égale ; brune, blonde, petite ou grande, tout cela revient au même, puisque je ne vous ai pas, que je ne puis vous avoir, et qu'il n'y a que vous que j'aimais.
+
+-*who_lacomtesse
+Voyez donc comment vous ferez ; car enfin, est-ce une nécessité que je vous épouse à cause de la situation désagréable où vous êtes ?
+En vérité, cela me paraît bien fort, Marquis.
+
+-*who_lemarquis
+Oh ! je ne dis pas que ce soit une nécessité ; vous me faites plus ridicule que je ne le suis.
+Je sais bien que vous n'êtes obligée à rien.
+Ce n'est pas votre faute si je vous aime, et je ne prétends pas que vous m'aimiez ; je ne vous en parle point non plus.
+
+-*who_lacomtesse
+Vous faites fort bien, Monsieur ; votre discrétion est tout à fait raisonnable ; je m'y attendais, et vous avez tort de croire que je vous fais plus ridicule que vous ne l'êtes.
+
+-*who_lemarquis
+Tout le mal qu'il y a, c'est que j'épouserai cette fille-ci avec un peu plus de peine que je n'en aurais eu sans vous.
+Voilà toute l'obligation que je vous ai.
+Adieu, Comtesse.
+
+-*who_lacomtesse
+Adieu, Marquis ; vous vous en allez donc gaillardement comme cela, sans imaginer d'autre expédient que ce contrat extravagant !
+
+-*who_lemarquis
+Eh !
+Quel expédient ?
+Je n'en savais qu'un qui n'a pas réussi, et je n'en sais plus.
+Je suis votre très humble serviteur.
+
+-*who_lacomtesse
+Bonsoir, Monsieur.
+Ne perdez point de temps en révérences, la chose presse.
+
+**** *book_ *id_I20 *act_I *date_1736
+
+-*who_lacomtesse
+Qu'on me dise en vertu de quoi cet homme-là s'est mis dans la tête que je ne l'aime point !
+Je suis quelquefois, par impatience, tentée de lui dire que je l'aime, pour lui montrer qu'il n'est qu'un idiot.
+Il faut que je me satisfasse.
+
+**** *book_ *id_I21 *act_I *date_1736
+
+-*who_lepine
+Puis-je prendre la licence de m'approcher de Madame la Comtesse ?
+
+-*who_lacomtesse
+Qu'as-tu à me dire ?
+
+-*who_lepine
+De nous rendre réconciliés, Monsieur le Marquis et moi.
+
+-*who_lacomtesse
+Il est vrai qu'avec l'esprit tourné comme il l'a, il est homme à te punir de l'avoir bien servi.
+
+-*who_lepine
+J'ai le contentement que vous avez approuvé mon refus de partir.
+Il vous a semblé que j'étais un serviteur excellent ; Madame, ce sont les termes de la louange dont votre justice m'a gratifié.
+
+-*who_lacomtesse
+Oui, excellent, je le dis encore.
+
+-*who_lepine
+C'est cependant mon excellence qui fait aujourd'hui que je chancelle dans mon poste.
+Tout estimé que je suis de la plus aimable Comtesse, elle verra qu'on me supprime.
+
+-*who_lacomtesse
+Non, non, il n'y a pas d'apparence.
+Je parlerai pour toi.
+
+-*who_lepine
+Madame, enseignez à Monsieur le Marquis le mérite de mon procédé.
+Ce notaire me consternait : dans l'excès de mon zèle, je l'ai fait malade, je l'ai fait mort ; je l'aurais enterré, sandis, le tout par affection, et néanmoins on me gronde !
+Je sais au demeurant que Monsieur le Marquis vous aime ; Lisette le sait ; nous l'avions même priée de vous en toucher deux mots pour exciter votre compassion, mais elle a craint la diminution de ses petits profits.
+
+-*who_lacomtesse
+Je n'entends pas ce que cela veut dire.
+
+-*who_lepine
+Le voici au net.
+Elle prétend que votre état de veuve lui rapporte davantage que ne ferait votre état de femme en puissance d'époux, que vous lui êtes plus profitable, autrement dit, plus lucrative.
+
+-*who_lacomtesse
+Plus lucrative !
+C'était donc là le motif de ses refus ?
+Lisette est une jolie petite personne !
+
+-*who_lepine
+Cette prudence ne vous rit pas, elle vous répugne ; votre belle âme de comtesse s'en scandalise ; mais tout le monde n'est pas comtesse ; c'est une pensée de soubrette que je rapporte.
+Il faut excuser la servitude.
+Se fâche-t-on qu'une fourmi rampe ?
+La médiocrité de l'état fait que les pensées sont médiocres.
+Lisette n'a point de bien, et c'est avec de petits sentiments qu'on en amasse.
+
+-*who_lacomtesse
+L'impertinente !
+La voici.
+Va, laisse-nous ; je te raccommoderai avec ton maître ; dis-lui que je le prie de me venir parler.
+
+**** *book_ *id_I22 *act_I *date_1736
+
+-*who_lepine
+Mademoiselle, vous allez trouver le temps orageux ; mais ce n'est qu'une gentillesse de ma façon pour obtenir votre coeur.  
+
+**** *book_ *id_I23 *act_I *date_1736
+
+-*who_lisette
+Que veut-il dire ?
+
+-*who_lacomtesse
+Ah !
+C'est donc vous ?
+
+-*who_lisette
+Oui, Madame ; et la poste n'était point partie.
+Eh bien !
+Que vous a dit le Marquis ?
+
+-*who_lacomtesse
+Vous méritez bien que je l'épouse !
+
+-*who_lisette
+Je ne sais pas en quoi je le mérite ; mais ce qui est de certain, c'est que, toute réflexion faite, je venais pour vous le conseiller.
+Il faut céder au torrent.
+
+-*who_lacomtesse
+Vous me surprenez.
+Et vos profits, que deviendront-ils ?
+
+-*who_lisette
+Qu'est-ce que c'est que mes profits ?
+
+-*who_lacomtesse
+Oui, vous ne gagneriez plus tant avec moi si j'avais un mari, avez-vous dit à Lépine.
+Penserait-on que je serai peut-être obligée de me remarier, pour échapper à la fourberie et aux services intéressés de mes domestiques ?
+
+-*who_lisette
+Ah !
+Le coquin !
+Il m'a donc tenu parole.
+Vous ne savez pas qu'il m'aime, Madame ; que par là il a intérêt que vous épousiez son maître ; et, comme j'ai refusé de vous parler en faveur du Marquis, Lépine a cru que je le desservais auprès de vous ; il m'a dit que je m'en repentirais ; et voilà comme il s'y prend !
+Mais, en bonne foi, me reconnaissez-vous au discours qu'il me fait tenir ?
+Y a-t-il même du bon sens ?
+M'en aimerez-vous moins quand vous serez mariée ?
+En serez-vous moins bonne, moins généreuse ?
+
+-*who_lacomtesse
+Je ne pense pas.
+
+-*who_lisette
+Surtout avec le Marquis, qui, de son côté, est le meilleur homme du monde ?
+Ainsi, qu'est-ce que j'y perdrais ?
+Au contraire, si j'aime tant mes profits, avec vos bienfaits je pourrai encore espérer les siens.
+
+-*who_lacomtesse
+Sans difficulté.
+
+-*who_lisette
+Et enfin, je pense si différemment, que je venais actuellement, comme je vous l'ai dit, tâcher de vous porter au mariage en question, parce que je le juge nécessaire.
+
+-*who_lacomtesse
+Voilà qui est bien, je vous crois.
+Je ne savais pas que Lépine vous aimait ; et cela change tout, c'est un article qui vous justifie.
+
+-*who_lisette
+Oui ; mais on vous prévient bien aisément contre moi, Madame ; vous ne rendez guère justice à mon attachement pour vous.
+
+-*who_lacomtesse
+Tu te trompes ; je sais ce que tu vaux, et je n'étais pas si persuadée que tu te l'imagines.
+N'en parlons plus.
+Qu'est-ce que tu voulais me dire ?
+
+-*who_lisette
+Que je songeais que le Marquis est un homme estimable.
+
+-*who_lacomtesse
+Sans contredit, je n'ai jamais pensé autrement.
+
+-*who_lisette
+Un homme avec qui vous aurez l'agrément d'avoir un ami sûr, sans avoir de maître.
+
+-*who_lacomtesse
+Cela est encore vrai ; ce n'est pas là ce que je dispute.
+
+-*who_lisette
+Vos affaires vous fatiguent.
+
+-*who_lacomtesse
+Plus que je ne puis dire ; je les entends mal, et je suis une paresseuse.
+
+-*who_lisette
+Vous en avez des instants de mauvaise humeur qui nuisent à votre santé.
+
+-*who_lacomtesse
+Je n'ai connu mes migraines que depuis mon veuvage.
+
+-*who_lisette
+Procureurs, avocats, fermiers, le Marquis vous délivrerait de tous ces gens-là.
+
+-*who_lacomtesse
+Je t'avoue que tu as réfléchi là-dessus plus sûrement que moi.
+Jusqu'ici je n'ai point de raisons qui combattent les tiennes.
+
+-*who_lisette
+Savez-vous bien que c'est peut-être le seul homme qui vous convienne ?
+
+-*who_lacomtesse
+Il faut donc que j'y rêve.
+
+-*who_lisette
+Vous ne vous sentez point de l'éloignement pour lui ?
+
+-*who_lacomtesse
+Non, aucun.
+Je ne dis pas que je l'aime de ce qu'on appelle passion ; mais je n'ai rien dans le coeur qui lui soit contraire.
+
+-*who_lisette
+Eh !
+N'est-ce pas assez, vraiment !
+De la passion !
+Si, pour vous marier, vous attendez qu'il vous en vienne, vous resterez toujours veuve ; et à proprement parler, ce n'est pas lui que je vous propose d'épouser, c'est son caractère.
+
+-*who_lacomtesse
+Qui est admirable, j'en conviens.
+
+-*who_lisette
+Et puis, voyez le service que vous lui rendrez chemin faisant, en rompant le triste mariage qu'il va conclure plus par désespoir que par intérêt !
+
+-*who_lacomtesse
+Oui, c'est une bonne action que je ferai, et il est louable d'en faire autant qu'on peut.
+
+-*who_lisette
+Surtout quand il n'en coûte rien au coeur.
+
+-*who_lacomtesse
+D'accord.
+On peut dire assurément que tu plaides bien pour lui.
+Tu me disposes on ne peut pas mieux ; mais il n'aura pas l'esprit d'en profiter, mon enfant.
+
+-*who_lisette
+D'où vient donc ?
+Ne vous a-t-il pas parlé de son amour ?
+
+-*who_lacomtesse
+Oui, il m'a dit qu'il m'aimait, et mon premier mouvement a été d'en paraître étonnée ; c'était bien le moins.
+Sais-tu ce qui est arrivé ?
+Qu'il a pris mon étonnement pour de la colère.
+Il a commencé par établir que je ne pouvais pas le souffrir.
+En un mot, je le déteste, je suis furieuse contre son amour ; voilà d'où il part ; moyennant quoi je ne saurais le désabuser sans lui dire : Monsieur, vous ne savez ce que vous dites.
+Ce serait me jeter à sa tête ; aussi n'en ferai-je rien.
+
+-*who_lisette
+Oh !
+C'est une autre affaire : vous avez raison ; ce n'est point ce que je vous conseille non plus, et il n'y a qu'à le laisser là.
+
+-*who_lacomtesse
+Bon ! tu veux que je l'épouse, tu veux que je le laisse là ; tu me promènes d'une extrémité à l'autre.
+Eh !
+Peut-être n'a-t-il pas tant de tort, et que c'est ma faute.
+Je lui réponds quelquefois avec aigreur.
+
+-*who_lisette
+J'y pensais : c'est ce que j'allais vous dire.
+Voulez-vous que j'en parle à Lépine, et que je lui insinue de l'encourager ?
+
+-*who_lacomtesse
+Non, je te le défends, Lisette, à moins que je n'y sois pour rien.
+
+-*who_lisette
+Apparemment, ce n'est pas vous qui vous en avisez, c'est moi.
+
+-*who_lacomtesse
+En ce cas, je n'y prends point de part.
+Si je l'épouse, c'est à toi à qui il en aura l'obligation ; et je prétends qu'il le sache, afin qu'il t'en récompense.
+
+-*who_lisette
+Comme il vous plaira, Madame.
+
+-*who_lacomtesse
+À propos, cette robe brune qui me déplaît, l'as-tu prise ?
+J'ai oublié de te dire que je te la donne.
+
+-*who_lisette
+Voyez comme votre mariage diminuera mes profits.
+Je vous quitte pour chercher Lépine, mais ce n'est pas la peine ; je vois le Marquis, et je vous laisse.
+
+**** *book_ *id_I24 *act_I *date_1736
+
+-*who_lemarquis
+Voici cette lettre que je viens de faire pour le notaire, mais je ne sais pas si elle partira ; je ne suis pas d'accord avec moi-même.
+On dit que vous souhaitez me parler, Comtesse ?
+
+-*who_lacomtesse
+Oui, c'est en faveur de Lépine.
+Il n'a voulu que vous rendre service ; il craint que vous ne le congédiiez, et vous m'obligerez de le garder ; c'est une grâce que vous ne me refuserez pas, puisque vous dites que vous m'aimez.
+
+-*who_lemarquis
+Vraiment oui, je vous aime, et ne vous aimerai encore que trop longtemps.
+
+-*who_lacomtesse
+Je ne vous en empêche pas.
+
+-*who_lemarquis
+Parbleu !
+Je vous en défierais, puisque je ne saurais m'en empêcher moi-même.
+
+-*who_lacomtesse
+Ah !
+Ah !
+Ah !
+Ce ton brusque me fait rire.
+
+-*who_lemarquis
+Oh !
+Oui, la chose est fort plaisante !
+
+-*who_lacomtesse
+Plus que vous ne pensez.
+
+-*who_lemarquis
+Ma foi, je pense que je voudrais ne vous avoir jamais vue.
+
+-*who_lacomtesse
+Votre inclination s'explique avec des grâces infinies.
+
+-*who_lemarquis
+Bon !
+Des grâces !
+À quoi me serviraient-elles ?
+N'a-t-il pas plu à votre coeur de me trouver haïssable ?
+
+-*who_lacomtesse
+Que vous êtes impatientant avec votre haine !
+Eh !
+Quelles preuves avez-vous de la mienne ?
+Vous n'en avez que de ma patience à écouter la bizarrerie des discours que vous me tenez toujours.
+Vous ai-je jamais dit un mot de ce que vous m'avez fait dire, ni que vous me fâchiez, ni que je vous hais, ni que je vous raille ?
+Toutes visions que vous prenez, je ne sais comment, dans votre tête, et que vous vous figurez venir de moi ; visions que vous grossissez, que vous multipliez à chaque fois que vous me répondez ou que vous croyez me répondre ; car vous êtes d'une maladresse !
+Ce n'est non plus à moi que vous répondez, qu'à qui ne vous parla jamais ; et cependant Monsieur se plaint !
+
+-*who_lemarquis
+C'est que Monsieur est un extravagant.
+
+-*who_lacomtesse
+C'est du moins le plus insupportable homme que je connaisse.
+Oui, vous pouvez être persuadé qu'il n'y a rien de si original que vos conversations avec moi, de si incroyable !
+
+-*who_lemarquis
+Comme votre aversion m'accommode !
+
+-*who_lacomtesse
+Vous allez voir.
+Tenez ; vous dites que vous m'aimez, n'est-ce pas ?
+Et je vous crois.
+Mais voyons, que souhaiteriez-vous que je vous répondisse ?
+
+-*who_lemarquis
+Ce que je souhaiterais ?
+Voilà qui est bien difficile à deviner.
+Parbleu, vous le savez de reste.
+
+-*who_lacomtesse
+Eh bien !
+Ne l'ai-je pas dit ?
+Est-ce là me répondre ?
+Allez, Monsieur, je ne vous aimerai jamais, non, jamais.
+
+-*who_lemarquis
+Tant pis, Madame, tant pis ; je vous prie de trouver bon que j'en sois fâché.
+
+-*who_lacomtesse
+Apprenez donc, lorsqu'on dit aux gens qu'on les aime, qu'il faut du moins leur demander ce qu'ils en pensent.
+
+-*who_lemarquis
+Quelle chicane vous me faites !
+
+-*who_lacomtesse
+Je n'y saurais tenir ; adieu.
+
+-*who_lemarquis
+Eh bien !
+Madame, je vous aime ; qu'en pensez-vous ? et encore une fois, qu'en pensez-vous ?
+
+-*who_lacomtesse
+Ah !
+Ce que j'en pense ?
+Que je le veux bien, Monsieur ; et encore une fois, que je le veux bien ; car, si je ne m'y prenais pas de cette façon, nous ne finirions jamais.
+
+-*who_lemarquis
+Ah !
+Vous le voulez bien ?
+Ah !
+Je respire, Comtesse, donnez-moi votre main, que je la baise.
+
+**** *book_ *id_I25 *act_I *date_1736
+
+-*who_hortense
+Votre billet est-il prêt, Marquis ?
+Mais vous baisez la main de la Comtesse, ce me semble ?
+
+-*who_lemarquis
+Oui ; c'est pour la remercier du peu de regret que j'ai aux deux cent mille francs que je vous donne.
+
+-*who_hortense
+Et moi, sans compliment, je vous remercie de vouloir bien les perdre.
+
+-*who_lechevalier
+Nous voilà donc contents.
+Que je vous embrasse, Marquis.
+Comtesse, voilà le dénouement que nous attendions.
+
+-*who_lacomtesse
+Eh bien !
+Vous n'attendrez plus.
+
+-*who_lisette
+Maraud !
+Je crois en effet qu'il faudra que je t'épouse.
+
+-*who_lepine
+Je l'avais entrepris.

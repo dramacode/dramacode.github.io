@@ -1,0 +1,1359 @@
+
+
+**** *book_ *id_I01 *act_I *date_1877
+
+-*who_athena
+Ô fils de Laërte, je te vois toujours à l'affût et cherchant à assaillir l'ennemi.
+Et voici que je te rencontre auprès des tentes marines d'Ajax, à l'extrémité de la flotte, déjà en chasse et mesurant les traces récentes de l'homme, afin de savoir s'il est dedans ou dehors.
+Tu es venu conduit comme par le flair sagace d'une chienne Lakainienne, car cet homme est là, la tête trempée de sueur et les mains ensanglantées.
+Tu n'as pas besoin d'épier davantage à travers cette porte.
+Dis-moi la raison des peines que tu t'es données, afin que je t'apprenne ce que je sais de celui-ci.
+
+-*who_ulysse
+Ô voix d'Athéna, de celle de toutes les déesses qui m'est la plus chère !
+Bien que tu restes invisible, ta parole entre dans mes oreilles et résonne dans mon esprit, telle que le son éclatant de la trompette d'airain des Tyrrhéniens !
+Et, maintenant, tu as bien compris que je rôdais autour de cet ennemi, Ajax, le porteur de bouclier ; car c'est lui-même, et non un autre, que j'épie depuis longtemps.
+Cette nuit, il a commis contre nous une action mauvaise que nous n'avons pas vue ; s'il l'a commise cependant, car nous ne savons rien de sûr, et nous errons incertains.
+C'est pourquoi je me suis donné la tâche d'aller à la découverte.
+Nous avons trouvé tout le bétail du butin mort et égorgé par une main inconnue avec les gardiens du troupeau.
+Tous accusent Ajax de cette action ; et un des gardes m'a rapporté et m'a affirmé qu'il l'avait vu marchant seul à grands pas à travers la plaine, tenant une épée récemment teinte de sang.
+J'ai aussitôt suivi ses traces et voici que j'en trouve quelques-unes non douteuses et d'autres dont je suis troublé ; et je ne sais qui me donnera une certitude.
+Ainsi tu viens à temps, car, pour les choses passées et pour les choses futures, je suis conduit par toi.
+
+-*who_athena
+Je savais cela, Ulysse, et je me suis mise en chemin depuis longtemps pour te protéger et favoriser ta chasse.
+
+-*who_ulysse
+Chère maîtresse, ai-je pris une peine qui ne sera point inutile ?
+
+-*who_athena
+Certes !
+Car c'est lui qui a fait ces choses.
+
+-*who_ulysse
+Par quelle démence furieuse a-t-il agi ainsi ?
+
+-*who_athena
+Plein de fureur de ce que les armes d'Achille lui aient été refusées.
+
+-*who_ulysse
+Et pourquoi s'est-il rué sur des troupeaux ?
+
+-*who_athena
+Il était persuadé qu'il trempait ses mains dans votre sang.
+
+-*who_ulysse
+Il méditait donc ce meurtre contre les Argiens ?
+
+-*who_athena
+Et il l'eût fait, si j'avais été négligente.
+
+-*who_ulysse
+Par quelle audace et par quelle arrogance d'esprit ?
+
+-*who_athena
+La nuit, et furtivement, il est sorti seul contre vous.
+
+-*who_ulysse
+A-t-il approché de très près ?
+A-t-il atteint le terme du chemin ?
+
+-*who_athena
+Il touchait déjà aux tentes des deux chefs.
+
+-*who_ulysse
+Et comment a-t-il arrêté sa main avide de meurtre ?
+
+-*who_athena
+Je lui ai refusé cette joie irrémédiable, ayant jeté des images mensongères dans ses yeux.
+Et je l'ai détourné vers le bétail du butin, vers les troupeaux mêlés, non encore partagés, et que les bouviers gardaient confusément.
+Et il s'est rué, massacrant les boeufs porteurs de cornes, frappant çà et là, pensant tuer de sa main les Atrides, et se jetant tantôt sur l'un, tantôt sur l'autre.
+Et moi j'excitais l'homme en proie à la démence furieuse et je le poussais dans des embûches.
+Enfin, se reposant de sa tâche, il a lié les boeufs survivants et les autres troupeaux, et il les a tous emmenés dans ses tentes, certain de posséder des hommes et non des bêtes cornues ; et maintenant il les tourmente, liés dans sa tente.
+Mais je rendrai son mal manifeste, afin que tu le voies et que tu le racontes à tous les Argiens.
+Reste ici avec confiance et ne crains rien de cet homme.
+Je tournerai ses yeux d'un autre côté de peur qu'il n'aperçoive ton visage.
+Holà !
+Toi qui étreins avec des liens des mains captives !
+Ajax, je t'appelle, viens ici, sors.
+
+-*who_ulysse
+Que fais-tu, Athéna ?
+Ne l'appelle point au dehors.
+
+-*who_athena
+Tais-toi et ne crains rien.
+
+-*who_ulysse
+Par les Dieux ! qu'il reste plutôt dans sa tente !
+
+-*who_athena
+Qu'as-tu donc ?
+Celui-ci n'a-t-il pas toujours été un homme ?
+
+-*who_ulysse
+Il est mon ennemi, et maintenant plus encore.
+
+-*who_athena
+N'est-il pas très doux de rire de ses ennemis ?
+
+-*who_ulysse
+Il me suffit qu'il reste dans sa tente.
+
+-*who_athena
+Tu crains de voir un homme manifestement en démence ?
+
+-*who_ulysse
+S'il était sain d'esprit, je ne craindrais pas de le regarder.
+
+-*who_athena
+Mais, maintenant, il ne te verra pas, même de près.
+
+-*who_ulysse
+Comment, s'il regarde avec ses yeux ?
+
+-*who_athena
+Je répandrai un brouillard sur ses yeux qui voient.
+
+-*who_ulysse
+Tout peut être fait, quand un dieu y travaille.
+
+-*who_athena
+Maintenant sois muet et reste où tu es.
+
+-*who_ulysse
+Je resterai.
+Cependant j'aimerais mieux être loin d'ici.
+
+-*who_athena
+Holà !
+Toi, Ajax, je t'appelle de nouveau.
+Pourquoi fais-tu si peu de cas de ta protectrice ?
+
+-*who_ajax
+Salut, ô Athéna, salut, fille de Zeus !
+Combien tu viens à temps !
+Je te comblerai de dépouilles dorées, en retour de ce butin.
+
+-*who_athena
+Tu as bien dit ; mais apprends-le-moi : as-tu bien trempé ton épée dans le sang des Argiens ?
+
+-*who_ajax
+Je puis m'en glorifier et je ne nierai point le fait.
+
+-*who_athena
+As-tu porté une main armée sur les Atrides ?
+
+-*who_ajax
+De façon à ce qu'ils n'outragent plus Ajax.
+
+-*who_athena
+Ils ont péri, si je comprends tes paroles ?
+
+-*who_ajax
+Ils sont morts.
+Qu'ils m'arrachent mes armes maintenant !
+
+-*who_athena
+Bien.
+Mais le fils de Laërte ?
+Quel a été son sort ?
+Est-ce qu'il t'a échappé ?
+
+-*who_ajax
+Tu demandes où est ce renard subtil ?
+
+-*who_athena
+Sans doute : je parle d'Ulysse, ton adversaire.
+
+-*who_ajax
+Il est lié dans ma tente, ô maîtresse, et c'est un spectacle très doux pour moi.
+Je ne veux pas qu'il meure encore.
+
+-*who_athena
+Que feras-tu avant cela ?
+Quel profit en retireras-tu ?
+
+-*who_ajax
+Auparavant, l'ayant lié à une colonne de la demeure…
+
+-*who_athena
+Quel mal feras-tu au malheureux ?
+
+-*who_ajax
+Il faut qu'il ait, avant de mourir, le dos tout saignant du fouet.
+
+-*who_athena
+Ne déchire pas ainsi ce malheureux.
+
+-*who_ajax
+Je ferai toutes les autres choses qui te plairont, Athéna ; mais il subira ce châtiment, non un autre.
+
+-*who_athena
+Puisqu'il te plaît d'agir ainsi, frappe, et n'oublie rien de ce que tu veux faire.
+
+-*who_ajax
+Je vais agir, et je te demande de me venir ainsi toujours en aide.
+
+-*who_athena
+Vois, Ulysse, combien est grande la puissance des dieux.
+As-tu jamais rencontré un homme plus sensé et meilleur dans l'action que ne l'était celui-ci ?
+
+-*who_ulysse
+Personne, à la vérité.
+J'ai pitié de ce malheureux, bien qu'il soit mon ennemi, parce qu'il est en proie à une destinée mauvaise, et je songe à la mienne autant qu'à la sienne, car nous ne sommes, nous tous qui vivons, rien autre chose que des images et des ombres vaines.
+
+-*who_athena
+Puisque tu vois ceci, garde-toi de jamais parler insolemment des dieux, et de ne point t'enfler d'orgueil, si tu l'emportes sur quelqu'un par ta force ou par l'abondance des richesses.
+Un seul jour abaisse ou relève les choses humaines.
+Les dieux aiment les modestes et haïssent les impies.
+
+**** *book_ *id_I02 *act_I *date_1877
+
+-*who_lechoeur
+Télamonien, qui possèdes Salamis entourée des flots, si tu prospères, je me réjouis ; mais si la haine de Zeus ou la parole violente et mauvaise des Danaens t'assiège, alors je suis saisi d'une grande crainte, et je frémis comme l'oeil de la colombe ailée.
+Ainsi les hautes clameurs d'un bruit sinistre nous ont appris que, la nuit passée, te ruant dans la prairie où paillent les chevaux, tu as égorgé les troupeaux des Danaens et tué par le fer luisant tout ce qui restait du butin de la lance.
+Ulysse répand de telles rumeurs, et il les murmure à l'oreille de tous, et il les persuade sans peine.
+Les choses qu'il dit de toi sont aisément crues, et quiconque l'entend insulte à tes misères et s'en réjouit plus encore que celui qui les révèle.
+Les injures qu'on lance aux grands hommes ne dévient pas facilement ; mais qui en dirait autant de moi ne persuaderait point, car l'envie court au puissant.
+Les humbles, cependant, sans les puissants, sont d'un faible appui pour la cité.
+L'humble prospère à l'aide des puissants, et l'homme puissant s'élève à l'aide des humbles.
+Mais on ne peut enseigner ces choses vraies à des insensés.
+Et, maintenant, tu es assailli par la clameur des hommes ; et, sans toi, nous ne pouvons nous y opposer, ô roi, car, ayant fui de tes yeux, ils bavardent comme une bande d'oiseaux.
+Mais, si tu t'avançais, épouvantés par le grand vautour, ils garderaient aussitôt le silence et resteraient muets.
+Est-ce donc la fille de Zeus, portée par des taureaux, Artémis, – ô nouvelle terrible ! – ô mère de ma honte ! – qui t'a poussé contre ces troupeaux de boeufs qui sont à tous, soit qu'elle ait été laissée sans récompense de quelque victoire ou de quelque chasse, soit qu'elle ait été frustrée d'illustres dépouilles ?
+Est-ce Arès, vêtu d'une cuirasse d'airain, qui, te reprochant l'aide de sa lance, a vengé son injure par ces embûches nocturnes ?
+Télamonien, ce n'est point de toi-même, en effet, que tu as cédé à cette démence de te ruer contre des troupeaux.
+N'as-tu pas été saisi plutôt d'un mal divin ?
+Que Zeus et Phoibos répriment donc les mauvaises paroles des Argiens !
+Si les deux grands rois, ou quelqu'un de la très inique race des Sisyphides, répandent ces mensonges furtivement ourdis, je t'adjure, ô roi, ne reste pas plus longtemps inerte dans tes tentes marines, de peur de confirmer contre toi ce bruit mauvais.
+Mais lève-toi de tes demeures où tu es resté longuement dans une anxieuse inaction, irritant ainsi ton mal Ouranien.
+Pendant ce temps, la rage de tes ennemis, que nulle crainte ne réprime, se déploie impunément, comme le feu dans les vallées où souffle le vent.
+Avec des éclats de rire, ils te couvrent de très amers outrages, et je suis rongé de douleur.
+
+-*who_tecmesse
+Compagnons marins d'Ajax, issus des Érekhthéides nés de Gaia, il nous faut gémir, nous qui avons souci de la maison de Télamôn, car le terrible, le grand, le très vigoureux Ajax gît maintenant en proie à la violence du mal.
+
+-*who_lechoeur
+Quelle calamité la nuit a-t-elle amenée après un jour tranquille ?
+Dis, enfant du Phrygien Téleutas, toi que le violent Ajax aime et honore comme la compagne de son lit, toi, sa captive.
+Sachant la vérité, tu peux nous l'enseigner par tes paroles.
+
+-*who_tecmesse
+Comment rappellerai-je cette chose affreuse ?
+Tu apprendras un malheur non moins terrible que la mort.
+Cette nuit, l'illustre Ajax, saisi de démence, s'est couvert d'ignominie.
+Tu peux voir dans sa tente les bêtes massacrées et saignantes, victimes de l'homme.
+
+-*who_lechoeur
+Quelle nouvelle nous apportes-tu de l'homme furieux ?
+Chose accablante, inéluctable, qu'ont répandue les rumeurs des princes Danaens et que la parole publique accroît encore !
+Hélas !
+Je crains le mal qui doit suivre.
+Il est manifeste qu'il devra mourir, l'homme qui a massacré d'une main furieuse et de l'épée ensanglantée les troupeaux et leurs pasteurs cavaliers.
+
+-*who_tecmesse
+Hélas !
+C'est donc de là, c'est de là qu'il est revenu, menant les troupeaux chargés de liens ; et il a égorgé les uns couchés contre terre, et il a coupé les autres par le milieu, à travers les côtes.
+Et il a saisi deux béliers blancs, et il a tranché la tête de l'un et le bout de la langue qu'il a jetée au loin ; et, l'autre, il l'a attaché debout contre une colonne avec une courroie de cheval, le frappant d'un fouet double et l'accablant de paroles insultantes qu'un daimôn seul, et non un homme, lui a enseignées.
+
+-*who_lechoeur
+Voici le moment où chacun, se cachant la tête, doit prendre la fuite en secret, ou, s'asseyant au banc des rameurs, éloigner à la force des avirons la nef qui court sur la mer ; car les deux chefs Atrides éclatent en menaces contre nous.
+Je crains de subir une mort misérable sous les pierres et d'être soumis au même supplice que celui-ci que presse l'inévitable force de la destinée.
+
+-*who_tecmesse
+Elle ne le presse plus.
+Sa fureur est tombée comme a coutume de tomber le souffle violent du Notos que n'accompagne point le brillant éclair.
+Mais, ayant recouvré l'esprit, il est maintenant tourmenté d'une douleur nouvelle ; car, contempler ses propres maux, quand personne ne les a causés que soi-même, accroît amèrement les douleurs.
+
+-*who_lechoeur
+Mais, s'il est apaisé, je pense que cela est très heureux pour lui.
+En effet, le souci d'un mal passé est moindre.
+
+-*who_tecmesse
+Que choisirais-tu, s'il t'était donné de choisir : ou, en affligeant tes amis, être joyeux toi-même, ou souffrir des mêmes maux ?
+
+-*who_lechoeur
+Il est plus amer, ô femme, de souffrir des deux côtés.
+
+-*who_tecmesse
+Bien que nous soyons délivrés de ce mal, nous sommes cependant en proie au malheur.
+
+-*who_lechoeur
+Comment as-tu dit ?
+Je ne comprends pas tes paroles.
+
+-*who_tecmesse
+Aussi longtemps qu'Ajax a été en démence, il se réjouissait du mal qui le possédait, et le chagrin nous affligeait, nous qui étions sains d'esprit.
+Et maintenant que le mal le laisse respirer, il est en proie tout entier à un amer chagrin, et nous ne sommes en rien moins tourmentés qu'auparavant.
+Au lieu d'une douleur n'en avons-nous pas deux ?
+
+-*who_lechoeur
+À la vérité, je pense comme toi, et je crains que cette plaie n'ait été infligée à cet homme par un dieu.
+Comment, en effet, puisque, délivré de son mal, il n'est pas plus joyeux que lorsqu'il était malade ?
+
+-*who_tecmesse
+Les choses sont ainsi, sache-le bien.
+
+-*who_lechoeur
+Quels ont été les commencements de ce mal qui l'a envahi ?
+Dis-le-nous, à nous qui en gémissons avec toi.
+
+-*who_tecmesse
+Je te dirai tout ce qui est arrivé, puisque tu partages ma douleur.
+En pleine nuit, quand les torches du soir ne brûlaient plus, ayant saisi une épée à deux tranchants, il parut vouloir sortir sans raison.
+Alors, je l'interpelle par ces paroles : – Que fais-tu, Ajax ?
+Où vas-tu, non appelé, ni pressé par quelque message, ni par le son de la trompette ?
+Maintenant, toute l'armée dort. – Et lui me répondit cette brève parole toujours dite : – Femme, le silence est l'honneur des femmes. – L'ayant entendu, je me tus, et il s'élança seul au dehors, et je ne sais ce qui a été fait dans l'intervalle.
+Puis, il revint, amenant dans sa tente, liés ensemble, des taureaux, des chiens de berger et tout un butin cornu.
+Et il coupa la tête des uns, et, renversant les autres, il les égorgea et les mis en morceaux ; et il en lia d'autres qu'il déchira à coups de fouet, frappant ce bétail comme s'il frappait des hommes.
+Puis, il s'élança dehors, parlant d'une voix rauque à je ne sais quel spectre, insultant, tantôt les Atrides, tantôt Ulysse, avec des rires et se vantant de s'être vengé de leurs injures.
+Puis, il se rua dans sa tente, et revenant à lui après un long temps, quand il vit sa demeure pleine de carnage par sa démence, il se frappa la tête, cria et se jeta sur les cadavres du troupeau égorgé, arrachant ses cheveux avec ses ongles.
+Et il resta ainsi longtemps muet.
+Puis il me menaça d'un grand châtiment si je ne lui révélais tout ce qui était arrivé, et il me demanda enfin dans quel état il était tombé.
+Et moi, pleine de crainte, ô amis, je lui racontai tout, autant que je le savais.
+Et aussitôt il se lamenta en hurlements lugubres tels que je n'en avais jamais entendu venant de lui ; car il avait coutume de dire que gémir ainsi était d'un homme lâche et d'un coeur vil.
+C'est pourquoi, quand il était saisi de douleur, sans cris ni lamentations, il gémissait sourdement comme un taureau qui mugit.
+Maintenant, accablé par ce malheur, sans boire ni manger, il reste assis et immobile au milieu des animaux égorgés par le fer ; et il est manifeste qu'il médite quelque mauvais dessein, car il le témoigne par ses paroles et par ses gémissements.
+C'est pour cela, ô chers, que je suis venue.
+Entrez, et, si vous le pouvez, venez-lui en aide, car les hommes tels que celui-ci ont coutume d'être touchés des paroles de leurs amis.
+
+-*who_lechoeur
+Tecmesse, fille de Téleutas, tu nous racontes des choses terribles en nous disant que cet homme est saisi de démence.
+
+**** *book_ *id_I03 *act_I *date_1877
+
+-*who_ajax
+Hélas !
+Hélas !
+
+-*who_tecmesse
+Il semble que son mal va croître.
+N'entendez-vous pas comme Ajax pousse des clameurs ?
+
+-*who_ajax
+Hélas !
+
+-*who_lechoeur
+Encore !
+Il semble en proie au mal ou troublé par le souvenir des maux passés.
+
+-*who_ajax
+Hélas !
+Enfant, enfant !
+
+-*who_tecmesse
+Malheur à moi !
+Eurysakès, il t'appelle.
+Qu'a-t-il dans l'esprit ?
+Où es-tu ?
+Malheureuse que je suis !
+
+-*who_ajax
+J'appelle Teucros.
+Où est Teucros ?
+Cherchera-t-il toujours du butin ?
+Pour moi, je meurs.
+
+-*who_lechoeur
+On dirait qu'il revient à lui.
+Ouvrez l'entrée.
+Peut-être, s'il me voit, aura-t-il quelque honte.
+
+-*who_tecmesse
+Voici que j'ouvre.
+Tu peux regarder ce qu'il a fait et comment il est lui-même.
+
+-*who_ajax
+Ô chers compagnons marins, mes seuls amis, qui seuls m'avez gardé votre foi, voyez de quels flots de sanglante tempête je suis environné !
+
+-*who_lechoeur
+Hélas ! tu ne m'as attesté, Tecmesse, que des choses trop vraies.
+Ceci ne prouve que trop qu'il est en démence.
+
+-*who_ajax
+Ô habiles marins, mes compagnons, qui, sur la nef, remuez l'aviron, c'est vous, vous seuls, parmi ceux qui avaient souci de moi, qui êtes prêts à me secourir.
+Allons !
+Tuez-moi !
+
+-*who_lechoeur
+Parle mieux.
+Donnant un mal pour un mal, n'accroîs pas la mesure de ton malheur.
+
+-*who_ajax
+Voyez-vous cet homme audacieux, au grand coeur, intrépide autrefois dans les combats, maintenant hardi contre de paisibles animaux ?
+Oh !
+Que de rires j'exciterai !
+Dans quel opprobre je suis tombé !
+
+-*who_tecmesse
+Maître Ajax, ne dis pas de telles choses, je t'en conjure !
+
+-*who_ajax
+N'es-tu pas sortie ?
+Tourne le pied en arrière !
+Hélas !
+Hélas !
+
+-*who_lechoeur
+Par les dieux, je t'en supplie, reviens à la raison.
+
+-*who_ajax
+Ô malheureux ! qui ai laissé ces impies échapper de ma main, et qui, me ruant sur des boeufs aux cornes recourbées et sur des troupeaux bêlants, ai versé leur sang noir !
+
+-*who_lechoeur
+Que te tourmentes-tu de choses accomplies ?
+Rien ne peut faire que ce qui est ne soit pas.
+
+-*who_ajax
+Ô toi qui épies tout, ouvrier de malheur, fils de Laërte, très sale vagabond de l'armée, comme tu dois rire aux éclats dans ta joie !
+
+-*who_lechoeur
+Selon qu'un dieu le veut, chacun rit ou pleure.
+
+-*who_ajax
+Que ne puis-je le voir en face, bien que je sois accablé de maux, hélas !
+
+-*who_lechoeur
+Ne parle point orgueilleusement.
+Oublies-tu que tu es dans le malheur ?
+
+-*who_ajax
+Ô Zeus, premier père de mes aïeux, puissé-je, ayant tué ce très bavard et odieux menteur et les deux rois aussi, mourir enfin moi-même !
+
+-*who_tecmesse
+Si tu fais cette imprécation, souhaite aussi ma mort.
+Que m'importe de vivre, toi mort ?
+
+-*who_ajax
+Ô obscurité, ma lumière ! ô Érébos très splendide pour moi ! recevez, recevez-moi pour habitant, recevez-moi ! car je ne suis digne désormais d'être secouru ni par les dieux, ni par la race des mortels.
+La très puissante fille de Zeus me tourmente jusqu'à la mort.
+Où fuirai-je ?
+Où m'arrêterai-je ?
+Si tout me manque, amis, la vengeance, me suivant à la trace, me verra couché sur les victimes de ma démence, et il arrivera assurément que toute l'armée me tuera en m'attaquant des deux côtés.
+
+-*who_tecmesse
+Ô malheureuse !
+Se peut-il qu'un homme aussi sage parle ainsi, ce qu'il n'aurait jamais voulu faire auparavant ?
+
+-*who_ajax
+Ô détroits et antres où retentissent les flots de la mer, ô prairies du rivage, longtemps, longtemps vous m'avez retenu devant Troie, mais vous ne me verrez plus désormais respirant la vie !
+Que celui qui l'entend le sache !
+Ô flots prochains du Skamandros, bienveillants aux Argiens, vous ne verrez plus cet homme, je le dis orgueilleusement, qui n'a été égalé par aucun de ceux qui sont venus de la terre Hellénique à Troie.
+Pour lui, maintenant il gît déshonoré contre terre !
+
+-*who_lechoeur
+Tu es assiégé de maux si terribles que je ne sais s'il faut que je t'arrête ou que je te laisse parler ainsi.
+
+-*who_ajax
+Aïe, aïe !
+Qui aurait jamais pensé que mon nom conviendrait ainsi à mes maux ?
+Maintenant, en effet, pourquoi ne crierai-je pas deux ou trois fois : Aïe !
+Aïe !
+Plongé que je suis en de tels maux ?
+Mon père, de cette même terre Idaienne, revint autrefois, ayant remporté les plus hauts prix des plus grandes actions guerrières et la plus illustre gloire ; et moi, son fils, qui suis venu vers cette même Troie avec un courage non moindre et qui ai fait d'aussi grandes actions, je meurs déshonoré parmi les Argiens.
+Mais, au moins, je tiens pour certain que si Achille vivant avait décerné ses armes à qui eût emporté la palme du courage, aucun ne les aurait eues plutôt que moi.
+Maintenant, par leurs ruses, les Atrides les ont livrées, au mépris de mes actions glorieuses, à un homme subtil et impie.
+Et si ces yeux et cet esprit troublé ne m'avaient détourné de ce que j'avais résolu, ils ne pourraient plus désormais rendre un tel jugement contre quelqu'un.
+Mais la fille effrayante et indomptée de Zeus m'a égaré, quand je levais ma main sur eux, et m'a envoyé une démence furieuse qui a fait que j'ai souillé mes mains du sang de ces animaux.
+Et maintenant, m'ayant échappé contre mon gré, ils me raillent ; mais, quand un dieu le veut, le lâche échappe au plus brave.
+Que faut-il donc que je fasse ?
+Je suis manifestement détesté des dieux, l'armée des Hellènes me hait, et je suis odieux à Troie tout entière et à ce pays.
+Regagnant ma demeure, abandonnant cette station de nefs et laissant les Atrides, traverserai-je la mer Aigaienne ?
+Mais de quel front me montrerai-je à mon père Télamôn ?
+Comment soutiendra-t-il la vue de qui revient sans gloire et privé de ces prix du courage dont il avait obtenu, lui, l'illustre honneur ?
+Ceci n'est pas supportable.
+Si, me ruant contre les murailles Troiènnes, je combattais seul contre eux tous, et si, accomplissant une action héroïque, je mourais enfin ?
+Mais je ferais une chose utile et agréable aux Atrides.
+Ceci ne me plaît en rien.
+Il faut tenter une autre voie par laquelle je prouverai à mon vieux père qu'un lâche n'est pas né de lui.
+En effet, il est honteux à un homme de désirer une longue vie, s'il n'y a aucun remède à ses maux.
+Qu'est-ce qu'un jour ajouté à un jour peut apporter de félicité, en reculant la mort au lendemain ?
+Je n'estime à aucun prix l'homme qui se flatte d'une vaine espérance.
+Ou vivre glorieusement ou mourir de même convient à un homme bien né.
+C'est tout ce que j'ai à dire.
+
+-*who_lechoeur
+Personne ne dira jamais, Ajax, que ce langage n'est pas tien et t'a été inspiré, car il est propre à ton esprit.
+Réprime cependant cette colère, et, oubliant tes peines, laisse-toi fléchir par tes amis.
+
+-*who_tecmesse
+Ô maître Ajax, il n'est pas un plus terrible mal pour les hommes que la servitude.
+Je suis née d'un père libre et plus puissant par ses richesses qu'aucun autre entre tous les Phrygiens, et maintenant je suis esclave.
+Ainsi les dieux et surtout ton bras l'ont voulu.
+C'est pourquoi, depuis que je suis entrée dans ton lit, je m'inquiète de ce qui te touche.
+Je t'adjure donc, par Zeus qui protége le foyer, par ton lit où tu t'es uni à moi, ne me laisse pas devenir la triste risée et le jouet de tes ennemis, en me livrant au caprice de chacun.
+Le jour où, mourant, tu me délaisseras par ta mort, ne doute pas que, violemment saisie par les Argiens, je ne mange, avec ton fils, une nourriture servile.
+Et quelque nouveau maître, en m'insultant, me dira peut-être cette parole amère : – Regardez l'épouse d'Ajax qui fut le plus puissant de l'armée par sa force ; voyez quelle servitude elle subit au lieu de la destinée enviable qui était la sienne. – Il dira de telles paroles, et la dure nécessité me tourmentera, et ces paroles déshonoreront toi et ta race.
+Respecte ton père que tu abandonneras accablé d'une triste vieillesse ; respecte ta mère chargée de nombreuses années, qui supplie sans relâche les dieux, afin que tu reviennes sain et sauf dans la demeure !
+Ô roi, aie pitié aussi de ton enfant qui, privé des soins dus à son âge, et privé de toi, sera maltraité par des tuteurs injustes, tant tu nous laisseras de misères à lui et à moi, si tu meurs !
+Il n'est rien, en effet, que je puisse regarder, si ce n'est toi, puisque tu as détruit ma patrie par la lance, et que la Moire a saisi mon père et ma mère qui sont morts et habitent le Hadès.
+Qui pourrait, hors toi, remplacer patrie et richesses ?
+Mon unique salut est en toi.
+Souviens-toi donc de moi.
+Il convient qu'un homme se souvienne de ce qui lui a plu, et la gratitude amène toujours la gratitude.
+Celui en qui s'évanouit la mémoire d'un bienfait ne peut être tenu pour un homme bien né.
+
+-*who_lechoeur
+Je voudrais, Ajax, que tu fusses touché de pitié comme moi.
+Tu louerais en effet ses paroles.
+
+-*who_ajax
+Je lui donnerais de grandes louanges si elle osait accomplir ce que je vais lui ordonner.
+
+-*who_tecmesse
+Ô cher Ajax, je t'obéirai en toute chose.
+
+-*who_ajax
+Amène-moi donc mon fils, afin que je le voie.
+
+-*who_tecmesse
+Saisie de crainte, je l'avais éloigné.
+
+-*who_ajax
+Est-ce par terreur de mon mal, ou veux-tu parler de quelque autre crainte ?
+
+-*who_tecmesse
+Je craignais que le malheureux mourût s'il te rencontrait par hasard.
+
+-*who_ajax
+Cela n'eût pas été impossible à mon daimôn.
+
+-*who_tecmesse
+Ainsi ai-je fait pour chasser le malheur loin de lui.
+
+-*who_ajax
+Je te loue pour cette action et pour ta prévoyance.
+
+-*who_tecmesse
+Quel service puis-je te rendre maintenant ?
+
+-*who_ajax
+Fais que je le voie en face et que je lui parle.
+
+-*who_tecmesse
+Il est gardé près d'ici par les serviteurs.
+
+-*who_ajax
+Pourquoi tarde-t-il et ne vient-il pas promptement ?
+
+-*who_tecmesse
+Ô enfant, ton père t'appelle.
+Que celui des serviteurs qui prend soin de lui l'amène ici !
+
+-*who_ajax
+Vient-il à tes paroles, ou ne les a-t-il pas entendues ?
+
+-*who_tecmesse
+Le voici : un serviteur l'amène.
+
+-*who_ajax
+Porte-le, porte-le ici.
+Il ne s'épouvantera pas, à la vue de cet égorgement, s'il est vraiment né de moi ; mais il faut que, tout jeune, il se forme aux moeurs farouches de son père, et qu'il ait une nature semblable à la sienne.
+Ô enfant, plaise aux dieux que tu sois plus heureux que ton père et semblable à lui pour le reste !
+Ainsi tu seras irréprochable.
+Et, maintenant, il m'est permis de te dire heureux, car tu ne ressens rien de mes maux.
+La vie la plus heureuse est de ne rien savoir, jusqu'à ce qu'on apprenne à se réjouir ou à gémir.
+Quand tu seras arrivé à cet âge, il faut que tu songes alors à montrer à mes ennemis de quel père tu es né.
+En attendant, nourris-toi de douces haleines et laisse croître ta jeune vie, délices de ta mère.
+Aucun des Achéens, je le sais, ne t'insultera par d'odieux outrages, bien qu'en mon absence, car je te laisserai un gardien vigilant, Teucros, qui te nourrira et t'élèvera.
+Maintenant il est loin d'ici, faisant du butin.
+Mais vous, hommes porteurs de boucliers, peuple marin, je vous ordonne, si vous consentez à l'y aider, de lui annoncer ma volonté, afin qu'ayant conduit cet enfant dans ma demeure, il le montre à mon père Télamôn et à ma mère Ériboia, pour être le soutien de leur vieillesse.
+Pour mes armes, que ni les juges des jeux, ni celui qui m'a perdu, ne les offrent en prix aux Achéens ! mais, ce bouclier, épais de sept peaux de boeuf et impénétrable, duquel tu as reçu ton nom, prends-le, enfant Eurysakès, et possède-le, afin de le faire mouvoir à l'aide de la courroie.
+Mes autres armes seront ensevelies avec moi.
+Femme, reçois cet enfant à la hâte, ferme l'entrée de la demeure, et ne te répands pas en gémissements devant la tente.
+Certes, la femme est toujours trop prête à pleurer.
+Je te dis de fermer promptement la porte.
+Il n'est pas d'un sage médecin de faire des incantations pour un mal qui ne demande qu'à être tranché.
+
+-*who_lechoeur
+Je suis effrayé d'entendre cette violence empressée et tes rudes paroles ne me plaisent pas.
+
+-*who_tecmesse
+Ô maître Ajax, que médites-tu dans ton esprit ?
+
+-*who_ajax
+Ne le demande ni ne le recherche.
+Il est beau d'être prudent.
+
+-*who_tecmesse
+Hélas !
+Que je suis désespérée !
+Je t'en conjure par les dieux, par ton fils, ne nous abandonne pas !
+
+-*who_ajax
+Tu m'importunes trop.
+Ne sais-tu pas que je suis affranchi de tout devoir envers les dieux ?
+
+-*who_tecmesse
+Prononce des paroles de bon augure !
+
+-*who_ajax
+Parle à qui t'entend.
+
+-*who_tecmesse
+Ne seras-tu donc point persuadé ?
+
+-*who_ajax
+Tu parles outre mesure.
+
+-*who_tecmesse
+Je suis épouvantée, en effet, ô roi !
+
+-*who_ajax
+Ne l'enfermerez-vous pas promptement ?
+
+-*who_tecmesse
+Par les dieux, apaise-toi !
+
+-*who_ajax
+Tu es insensée si tu songes à redresser maintenant ma nature.
+
+-*who_lechoeur
+Ô illustre Salamis entourée de flots, toi qui vis maintenant heureuse et toujours glorieuse pour tous les hommes, pour moi, malheureux, j'attends depuis longtemps la possession des plaines Idaiennes, dans le déroulement sans fin des mois, usé par le cours mobile du temps, et nourrissant l'amère espérance que je partirai enfin pour le sombre et odieux Hadès !
+Et ceci accroît mes maux de voir Ajax qui ne peut guérir, hélas ! saisi d'une démence divine, lui que tu as envoyé autre fois pour être victorieux dans les luttes d'Arès, et qui, maintenant, privé de son esprit, cause une amère affliction à ses amis, car les grandes actions qu'il a déjà faites de ses vaillantes mains sont dédaignées par les Atrides ingrats.
+Certes, quand sa vieille mère, envahie par la blanche vieillesse, apprendra qu'il est saisi de démence, elle n'exhalera pas une douce plainte, ni un triste chant comme le malheureux rossignol, mais elle poussera des clameurs et des hurlements, et sa poitrine résonnera des coups de ses mains, et elle arrachera ses cheveux blancs.
+Car il vaudrait mieux qu'il fût enseveli dans le Hadès que d'être affligé d'un mal irrémédiable, lui qui, l'emportant sur les braves Achéens par l'excellence de sa race, n'a plus ses moeurs accoutumées, et dont l'esprit est égaré.
+Ô malheureux père, faut-il que tu apprennes la calamité lamentable de ton fils, telle que la race des Aiakides n'en a jamais subi, excepté en celui-ci !
+
+-*who_ajax
+Le temps long et infini manifeste à la lumière toutes choses cachées et cache les choses manifestes, et il n'est rien qui ne puisse arriver.
+La sainteté des serments sacrés est violée et la rigueur des fermes esprits est vaincue.
+Moi qui, récemment, résistais victorieusement à tout, comme le fer huilé, voici que je suis amolli par cette femme, et j'ai compassion de la laisser veuve et mon fils orphelin au milieu de mes ennemis.
+Mais je vais aux bains et aux prairies du rivage, afin, purifié de mes souillures, d'échapper à la colère terrible de la déesse.
+Ayant atteint un lieu désert et non hanté, je cacherai cette épée, la plus odieuse des armes, dans la terre creusée, là où personne ne la verra.
+La nuit et Hadès la garderont sous terre, car, du jour où je l'ai reçue de Hector, ce très mortel ennemi, rien de bon ne m'est venu des Argiens.
+Et cette parole est vraie qui est dite communément : les dons d'un ennemi ne sont ni des dons, ni des choses utiles.
+C'est pourquoi nous saurons désormais céder aux dieux, nous apprendrons à révérer les Atrides.
+Pourquoi non ?
+La grandeur et la puissance cèdent à qui commande ; les hivers neigeux cèdent la place aux étés fructueux ; l'astre de la nuit sombre recule quand le jour resplendit amené par ses chevaux blancs ; et le souffle des vents violents s'apaise sur la mer gémissante ; et le sommeil, qui dompte tous les vivants, délie ceux qu'il avait enchaînés, et il ne les retient pas toujours.
+Pourquoi nous aussi n'apprendrionsnous pas à être plus modestes ?
+Pour moi, je l'apprendrai enfin, sachant maintenant qu'il faut haïr notre ennemi, comme s'il pouvait nous aimer de nouveau ; et, d'autre part, j'aimerai un ami et je l'aiderai de mes services, comme si, quelque jour, il pouvait devenir mon ennemi.
+Pour le plus grand nombre des hommes le port de l'amitié n'est pas sûr.
+Mais c'est assez.
+Toi, femme, rentre, et supplie les dieux afin qu'ils accomplissent ce que je désire.
+Et vous, compagnons, rendez-moi le même honneur, et dites à Teucros, dès qu'il sera venu, qu'il s'inquiète de nous et qu'il ait un souci égal au vôtre.
+Et moi, j'irai là où il faut que j'aille.
+Vous, faites ce que j'ai dit, et vous apprendrez promptement mon salut, tout malheureux que je suis maintenant.
+
+**** *book_ *id_I04 *act_I *date_1877
+
+-*who_lechoeur
+Je frémis de désir, je bondis d'une haute joie !
+Iô !
+Pan !
+Pan, ô Pan qui cours sur la mer, descends vers nous des rochers neigeux de Killana !
+Ô toi qui conduis les choeurs des dieux, habile à bondir par ton seul génie, viens afin de mener avec moi les danses de Nysa et de Cnôssos.
+Car j'ai maintenant le désir de la danse.
+Et toi, viens, Apollôn Dalios, viens à travers la mer lkarienne, et sois-moi favorable !
+Arès a dissipé la douleur terrible qui troublait mes yeux.
+Maintenant, de nouveau, ô Zeus, une pure lumière resplendit qui me laisse approcher des nefs rapides qui courent sur la mer, puisque Ajax, ayant oublié ses maux, a bien agi envers les dieux et obéi pieusement à leurs lois vénérables.
+Le long temps détruit toutes choses, et je ne nie point que tout ne puisse arriver, puisque Ajax est revenu de sa colère désespérée et de ses querelles terribles avec les Atrides.
+
+-*who_unmessager
+Avant tout, amis, je veux vous annoncer ceci : Teucros vient d'arriver des hautes montagnes Mysiennes.
+Étant parvenu au milieu du camp, il a été insulté par la multitude unanime des Argiens.
+Dès qu'ils l'eurent vu de loin, ils s'assemblèrent autour de lui, et, alors, ils l'accablèrent de malédictions, aucun ne modérant sa langue ; et ils le nommaient le frère de l'insensé, de celui qui trahissait l'armée, et ils affirmaient que rien ne le préserverait de mourir, écrasé par les pierres ; et ils en vinrent à tirer déjà leurs épées des gaines.
+Cependant, la querelle, poussée au plus haut point, s'est apaisée, ayant été calmée par les paroles des vieillards.
+Mais où est Ajax, afin que je lui raconte ces choses, car il faut tout dire à qui commande ?
+
+-*who_lechoeur
+Il n'est point ici, mais il vient de sortir, ayant de nouveaux desseins conformes à ses nouvelles pensées.
+
+-*who_unmessager
+Hélas ! hélas !
+Celui qui m'a envoyé a donc été trop lent à le faire, ou moi-même j'ai tardé à venir !
+
+-*who_lechoeur
+En quoi as-tu manqué à la tâche ?
+
+-*who_unmessager
+Teucros défendait qu'Ajax sortît de sa tente avant que luimême ne fût ici.
+
+-*who_lechoeur
+Il s'en est allé, mais avec de meilleurs desseins, afin de sacrifier sa colère aux dieux.
+
+-*who_unmessager
+Ces paroles sont pleines de démence, si Calchas a prophétisé sagement.
+
+-*who_lechoeur
+Que dit-il donc, et qu'a-t-il appris sur le départ d'Ajax ?
+
+-*who_unmessager
+Je ne sais que ceci, ayant été présent moi-même.
+Calchas, étant sorti, sans les Atrides, du cercle où les rois délibéraient, et ayant mis familièrement sa main droite dans la main de Teucros, lui dit et lui recommanda de retenir Ajax dans sa tente, par tous les moyens, tant que le jour luirait, et de ne pas le laisser s'en échapper, s'il voulait le revoir vivant.
+Et c'était aujourd'hui seulement, à ce qu'il disait, que la colère de la divine Athéna devait poursuivre Ajax.
+Et le divinateur disait aussi que ces hommes d'une taille très haute étaient précipités par les dieux en de terribles calamités, car, étant hommes, ils ne pensent point comme il convient à des hommes.
+Dès qu'il quitta ses demeures, il manifesta sa démence en n'écoutant pas les sages conseils de son père.
+Et celui-ci lui dit ces paroles : – Fils, tente de vaincre par tes armes, mais toujours avec l'aide des dieux. – Et il répondit arrogamment et stupidement : – Père, avec l'aide des dieux un homme de rien peut être victorieux.
+Moi, je suis certain d'obtenir cette gloire, même sans leur aide. – Il se vantait ainsi en paroles orgueilleuses.
+Puis, à la divine Athéna, qui l'excitait et lui commandait de porter une main terrible sur les ennemis, il répondit par cette parole superbe et impie : – Reine, secours les autres Argiens ; là où je suis, jamais l'ennemi ne rompra nos lignes. – C'est par ces paroles et en poussant son orgueil au delà de la destinée humaine, qu'il a excité la colère implacable de la déesse.
+Cependant, s'il survit à ce jour, peut-être pourrons-nous le sauver, à l'aide d'un dieu.
+Ainsi a parlé le divinateur, et Teucros m'a envoyé aussitôt te porter ces ordres afin que tu surveilles Ajax ; mais si je les ai portés en vain, l'homme n'est plus vivant, ou Calchas n'a rien prophétisé.
+
+-*who_lechoeur
+Ô malheureuse Tecmesse, ô race lamentable, sors et entends quelles paroles il apporte !
+Il coupe dans le vif et chasse toute joie.
+
+-*who_tecmesse
+Pourquoi me fais-tu lever, moi, malheureuse, qui me repose à peine de mes maux inépuisables ?
+
+-*who_lechoeur
+Entends de la bouche de cet homme quelle triste nouvelle nous est apportée d'Ajax.
+
+-*who_tecmesse
+Hélas !
+Qu'annonces-tu, ô homme ?
+Allons-nous périr ?
+
+-*who_unmessager
+Je ne sais ce qui arrivera de toi, mais je crains pour Ajax, s'il est sorti.
+
+-*who_tecmesse
+Certes, il est sorti ; c'est pourquoi je suis anxieuse, me demandant ce que tu veux dire.
+
+-*who_unmessager
+Teucros ordonne de le retenir dans sa tente et que vous l'empêchiez de sortir seul.
+
+-*who_tecmesse
+Où est Teucros et pourquoi a-t-il dit cela ?
+
+-*who_unmessager
+Il vient d'arriver et craint que cette sortie d'Ajax lui soit fatale.
+
+-*who_tecmesse
+Hélas !
+Malheureuse !
+De quel homme a-t-il appris cela ?
+
+-*who_unmessager
+Du divinateur Thestoride qui a dit que ce jour même verrait la mort ou la vie d'Ajax.
+
+-*who_tecmesse
+Hélas !
+Amis, secourez-moi dans cette nécessité qui me presse.
+Qu'une partie d'entre vous hâte la prompte arrivée de Teucros ; que les uns aillent vers les collines occidentales, les autres vers les orientales, et qu'ils cherchent où peut être Ajax fatalement sorti !
+Je sens qu'il m'a trompée et qu'il m'a retiré son ancienne faveur.
+Hélas !
+Que ferai-je, ô fils ?
+Ce n'est pas le moment de rester.
+J'irai moi-même aussi promptement que je le pourrai.
+Allons !
+Hâtons-nous ; il ne faut pas s'arrêter.
+
+-*who_lechoeur
+Je suis prêt, et ce ne sont pas seulement des paroles : la promptitude de nos pieds suivra de près.
+
+**** *book_ *id_I05 *act_I *date_1877
+
+-*who_ajax
+L'épée meurtrière est dressée de façon que, même en y songeant à loisir, elle ne pourrait mieux pénétrer.
+Ce don de Hector, de cet hôte très détesté et odieux à voir, il est enfoncé dans la terre ennemie de Troie.
+J'en ai récemment aiguisé le fer sur la pierre, et je l'ai fixé et apprêté pour qu'il me soit très bienveillant et que je meure promptement.
+Ainsi nous sommes bien préparés.
+Après ceci, toi, le premier, ô Zeus, aide-moi, comme il convient.
+Je ne te demanderai pas un grand don.
+Envoie pour moi un messager qui porte à Teucros la nouvelle lamentable, afin qu'avant tous les autres il m'enlève, traversé de cette épée sanglante, et de peur qu'un de mes ennemis m'ayant vu d'abord, je sois jeté en proie aux chiens et aux oiseaux carnassiers.
+Je ne te demande que cela, ô Zeus !
+En même temps, j'invoque Hermès souterrain, conducteur des âmes, afin qu'il m'endorme doucement, et que, là où j'aurai percé mon flanc de cette épée, je meure d'une chute facile et prompte.
+J'appelle aussi à l'aide les vierges qui voient toujours les actions des mortels, les vénérables Erinnyes aux pieds rapides, afin qu'elles sachent comment je meurs misérable par les Atrides.
+Allez, ô Erinnyes vengeresses et rapides, dévouez toute l'armée et n'épargnez rien !
+Et toi, qui mènes ton char à travers le haut Ouranos, Helios ! quand tu verras la terre de ma patrie, retenant un peu tes rênes d'or, annonce mes calamités et ma destinée à mon vieux père et à ma mère misérable.
+Sans doute que la malheureuse, dès qu'elle aura entendu cette nouvelle, répandra dans toute la ville un grand hurlement.
+Mais que sert-il de se lamenter en vain ?
+Il importe plutôt d'agir promptement.
+Ô Thanathos, Thanathos ! viens maintenant et regarde-moi, bien que je doive t'invoquer aussi, là où nous habiterons tous deux.
+Et toi, vivant éclat du jour splendide, et toi, Hèlios, conducteur de char, je vous parle pour la dernière fois, et jamais plus désormais !
+Ô lumière, ô terre de la patrie, sol sacré de Salamis !
+Ô foyer paternel, illustre Athènaiè !
+Ô ma génération, sources, fleuves, plaines Troiènnes, je vous appelle ! salut, ô nourris avec moi !
+Ajax vous dit ces dernières paroles.
+Je raconterai le reste aux ombres dans le Hadès.
+
+-*who_choeur1
+Le travail ajouté au travaille porte au comble.
+Où, en effet, n'ai-je point pénétré ?
+Cependant, aucun lieu ne m'a rien révélé.
+Mais voici, voici que j'entends quelque bruit.
+
+-*who_choeur2
+C'est nous, vos compagnons de nefs.
+
+-*who_choeur1
+Qu'y a-t-il donc ?
+
+-*who_choeur2
+J'ai parcouru tout le côté occidental du camp naval.
+
+-*who_choeur1
+Qu'as-tu trouvé ?
+
+-*who_choeur2
+Abondance de peine, et je n'ai vu rien de plus.
+
+-*who_choeur1
+Moi, j'ai parcouru le côté oriental, et l'homme ne s'est laissé voir nulle part.
+
+-*who_lechoeur
+Qui donc, parmi les pêcheurs laborieux, éveillé et guettant sa proie, laquelle des déesses Olympiades ou de celles qui habitent les fleuves qui coulent dans le Bosphoros, qui me dira où il a vu errant le farouche Ajax ?
+Il est, en effet, terrible pour moi d'avoir fait une course malheureuse avec une si grande fatigue et de n'avoir point découvert cet homme insensé et débile.
+
+-*who_tecmesse
+Hélas !
+Hélas !
+
+-*who_lechoeur
+Quel cri s'est échappé de ce bois prochain ?
+
+-*who_tecmesse
+Hélas !
+Malheureuse !
+
+-*who_lechoeur
+Je vois la captive Tecmesse, la femme malheureuse, qui se répand en gémissements.
+
+-*who_tecmesse
+Je péris, je meurs, c'en est fait, amis ; rien ne survit de moi.
+
+-*who_lechoeur
+Qu 'y-a-t-il ?
+
+-*who_tecmesse
+Voici notre Ajax qui gît là, avec une blessure récente, frappé de l'épée, loin de tous !
+
+-*who_lechoeur
+Hélas !
+Hélas !
+C'en est fait pour moi du retour.
+Hélas !
+Tu m'as tué aussi, ô roi, moi, ton compagnon.
+Ô malheureux que je suis !
+Ô femme lamentable !
+
+-*who_tecmesse
+Puisqu'il en est ainsi, maintenant il convient de gémir.
+
+-*who_lechoeur
+Mais quelle misérable main a commis ce crime ?
+
+-*who_tecmesse
+Sa propre main sans doute.
+Cette épée fixée en terre et sur laquelle il s'est jeté le prouve.
+
+-*who_lechoeur
+Hélas !
+Ô malheur !
+Te voilà tout sanglant, sans l'aide d'aucun ami, et moi, stupide et inerte, j'ai négligé de veiller sur toi !
+Où est-il couché, l'intraitable Ajax au nom malheureux ?
+
+-*who_tecmesse
+Je ne permettrai point qu'on le regarde, mais je le couvrirai en entier de ce vêtement.
+Personne, en effet, étant son ami, ne supporterait la vue du sang noir qui coule de ses narines et de la plaie qu'il s'est faite lui-même.
+Hélas !
+Que ferai-je ?
+Lequel de tes amis t'emportera ?
+Où est Teucros ?
+Qu'il viendrait à temps s'il venait maintenant, afin d'honorer son frère tombé !
+Ô malheureux Ajax, quel homme tu as été, et quel homme lamentable te voilà, fait pour arracher des larmes même à tes ennemis !
+
+-*who_lechoeur
+Donc, ô malheureux, voilà la fin que, dans ton obstination, tu devais donner, par un destin terrible, à tes misères incessantes !
+C'est pour cela que, nuit et jour, tu poussais les gémissements de ton coeur farouche, répandant des paroles lamentables et terribles contre les Atrides !
+Certes, il fut l'origine de grands maux, le jour où les armes d'Achille furent proposées pour le prix du courage !
+
+-*who_tecmesse
+Hélas sur moi !
+
+-*who_lechoeur
+Je sais qu'une amère douleur pénètre jusqu'au foie.
+
+-*who_tecmesse
+Hélas sur moi !
+
+-*who_lechoeur
+Il n'est pas étonnant, femme, que tu gémisses de nouveau, quand un malheur récent te prive d'un tel ami.
+
+-*who_tecmesse
+Tu raisonnes sur ces choses, mais je ne les sens que trop.
+
+-*who_lechoeur
+Je l'avoue.
+
+-*who_tecmesse
+Hélas !
+Fils, quelle servitude nous allons subir !
+Quels maîtres nous sont réservés !
+
+-*who_lechoeur
+Hélas !
+Certes, tu prévois, dans ce deuil, un horrible outrage des Atrides sans pitié ; mais qu'un dieu s'y oppose !
+
+-*who_tecmesse
+Ces choses ne seraient pas arrivées sans les dieux.
+
+-*who_lechoeur
+Certes, ils t'ont réservé un fardeau trop lourd.
+
+-*who_tecmesse
+La fille terrible de Zeus, la déesse Pallas, n'a que trop ourdi cette calamité en faveur d'Ulysse.
+
+-*who_lechoeur
+Sans doute cet homme subtil nous raille dans son esprit rusé ; il rit aux éclats des maux qu'a causés la démence d'Ajax, hélas !
+Et les deux rois Atrides, en les apprenant, rient avec lui.
+
+-*who_tecmesse
+Qu'ils rient et qu'ils se réjouissent donc des maux de celui-ci !
+Peut-être, le désirant moins quand il vivait, le pleureront-ils mort, dans le regret de sa lance ; car les insensés qui possédaient un bien ne l'estiment que lorsqu'ils l'ont perdu.
+Il est plus cruel pour moi qu'il ait péri que cela ne leur est agréable ; mais pour lui cela est doux, puisqu'il possède ce qu'il désirait et qu'il est mort comme il l'a voulu.
+Qu'ont donc ceux-ci à rire de lui ?
+II a été tué par les dieux, et non, certes, par eux.
+Qu'Ulysse prodigue donc ses vains outrages !
+Désormais, pour eux, Ajax n'est plus ; mais il est mort, me laissant les douleurs et les lamentions.
+
+-*who_teucros
+Malheur à moi !
+
+-*who_lechoeur
+Tais-toi, car il me semble entendre la voix de Teucros poussant une clameur qui atteint la hauteur de cette calamité.
+
+**** *book_ *id_I06 *act_I *date_1877
+
+-*who_teucros
+Ô très cher Ajax, ô chère tête fraternelle, c'en est-il donc fait de toi, comme le dit la renommée ?
+
+-*who_lechoeur
+L'homme est mort, Teucros, sache-le.
+
+-*who_teucros
+Hélas !
+Ô malheur terrible pour moi !
+
+-*who_lechoeur
+Puisque les choses sont telles…
+
+-*who_teucros
+Ô malheureux, malheureux que je suis !
+
+-*who_lechoeur
+Il ne reste qu'à gémir.
+
+-*who_teucros
+Ô calamité amère !
+
+-*who_lechoeur
+Trop amère, à la vérité, Teucros !
+
+-*who_teucros
+Hélas !
+Malheureux !
+Qu'est devenu son fils ?
+En quel lieu de la terre Troadienne est-il ?
+
+-*who_lechoeur
+Il est seul dans la tente.
+
+-*who_teucros
+Amène-le promptement ici, de peur qu'un des ennemis ne l'enlève comme le petit de la lionne veuve.
+Va !
+Hâte-toi, cours !
+Car on a coutume d'insulter les morts.
+
+-*who_lechoeur
+À la vérité, quand il vivait, il te recommandait de prendre soin de son fils, comme tu le fais.
+
+-*who_teucros
+Ô le plus amer de tous les spectacles que j'aie vus de mes yeux !
+Ô le plus triste des chemins que j'aie jamais faits, quand je suis venu ici, ô très cher Ajax, à la première nouvelle de ton fatal malheur, te suivant et cherchant tes traces !
+En effet, la rapide renommée, telle que la voix même d'un dieu, avait répandu parmi les Achéens le bruit que tu avais péri.
+Et moi, malheureux, quand je l'appris loin d'ici, je gémis ; et, maintenant que je te vois, je meurs !
+Hélas !
+Allons !
+Découvre-le, afin que je voie tout mon malheur, et combien il est grand.
+Ô chose terrible à regarder !
+Ô trop cruelle audace !
+Quels amers soucis me réserve ta mort !
+Où, en effet, et vers quels hommes pourrai-je aller, moi qui ne suis point venu à ton aide dans tes douleurs ?
+Certes, Télamôn, qui est ton père et le mien, me recevra avec un visage doux et bienveillant quand je viendrai sans toi !
+Pourquoi non, lui qui ne souriait même pas, joyeux d'une heureuse nouvelle ?
+Que ne dirat- il pas, que n'épargnera-t-il en me reprochant, à moi, fils illégitime d'une mère captive, de t'avoir trahi par épouvante et par lâcheté, ô très cher Ajax, afin de posséder par ta mort ta demeure et tes richesses ?
+Cet homme plein de colère dira cela, triste de vieillesse et irritable qu'il est pour la cause la plus légère.
+Enfin, je serai chassé de ma patrie, traité comme un esclave, non comme un homme libre.
+Ces choses me sont réservées dans ma demeure ; et, devant Troie, mes ennemis sont nombreux, et peu d'autres me soutiennent, et toutes ces calamités me sont venues de ta mort.
+Hélas !
+Que ferai-je ?
+Comment arracher de toi cette épée aiguë et meurtrière par laquelle tu as rendu l'âme, malheureux ?
+Avais-tu prévu que Hector, tout mort qu'il est, te perdrait un jour ?
+Voyez, par les dieux, la destinée de ces deux hommes !
+Hector, attaché au char rapide par le même baudrier que lui avait donné Ajax, a été déchiré jusqu'à ce qu'il ait rendu l'âme ; et Ajax, se jetant sur cette épée, présent de Hector, a péri d'une blessure mortelle !
+Érinnys n'a-t-elle point forgé cette épée, et l'horrible ouvrier Hadès ce bouclier ?
+C'est pourquoi je dirai que les dieux ont ourdi ceci comme tout le reste contre les hommes.
+Si cette pensée semble moins certaine à quelqu'autre, qu'il croie ce qu'il préfère, et moi de même !
+
+-*who_lechoeur
+N'en dis pas plus long, mais songe plutôt à ensevelir cet homme et à la réponse que tu dois faire bientôt.
+En effet, j'aperçois un ennemi.
+Il vient peut-être, mauvais qu'il est, afin de rire de nos maux.
+
+-*who_teucros
+Quel est cet homme guerrier que tu aperçois ?
+
+-*who_lechoeur
+Ménélas, pour qui nous avons entrepris cette navigation.
+
+-*who_teucros
+Je le vois : étant proche il est facile à reconnaître.
+
+**** *book_ *id_I07 *act_I *date_1877
+
+-*who_menelas
+Holà !
+Toi !
+Je te le dis : n'ensevelis point ce cadavre et laisse-le tel qu'il est.
+
+-*who_teucros
+Pourquoi ces paroles insolentes ?
+
+-*who_menelas
+Je le veux ainsi, et celui qui commande l'armée l'ordonne.
+
+-*who_teucros
+Ne diras-tu point pour quel motif tu donnes cet ordre ?
+
+-*who_menelas
+C'est que nous avions pensé amener aux Achéens un compagnon et un ami, et que nous avons trouvé en lui un ennemi plus funeste que les Phrygiens eux-mêmes.
+Ayant médité le massacre de l'armée, il est sorti de nuit afin de nous tuer par la lance ; et, si un dieu n'avait rompu son dessein, nous aurions subi la destinée qu'il s'est faite et nous serions couchés dans une mort honteuse, et lui vivrait.
+Mais un dieu a détourné sa fureur sur nos troupeaux.
+C'est pourquoi nul n'est assez puissant pour mettre ce cadavre sous terre.
+Jeté sur le sable jaune du rivage, il sera la pâture des oiseaux de mer.
+Donc, ne laisse point ton coeur s'enfler outre mesure ; car, si nous n'avons pu réprimer Ajax vivant, du moins le ferons-nous maintenant qu'il est mort, et, si tu ne le veux pas, nous te contraindrons par la force.
+Jamais, vivant, il ne voulut obéir à mes paroles.
+Cependant, ceci est d'un mauvais esprit qu'un simple citoyen refuse d'obéir aux magistrats.
+Jamais les lois ne seront respectées dans la cité, si la crainte est secouée, et jamais une armée n'obéira aux ordres des chefs, étant libre de crainte et de pudeur.
+Mais il faut que tout homme, quelque force qu'il possède, songe cependant qu'il peut être renversé pour une petite faute.
+Sache donc qu'il est sain et sauf celui qui a crainte et pudeur ; mais aussi que la cité où l'emporteront la violence et l'injure doit être telle qu'une nef qui périt après une heureuse course.
+Gardons une juste mesure de crainte, et songeons qu'en retour des choses qui nous réjouissent nous devons subir celles qui nous affligent.
+Toutes se succèdent les unes les autres.
+Cet homme était fougueux et injurieux ; je suis orgueilleux à mon tour, et je te commande de ne point le mettre au tombeau de peur d'y tomber toi-même en voulant l'ensevelir.
+
+-*who_lechoeur
+Ménélas, après avoir parlé avec tant de sagesse, ne deviens pas injurieux pour les morts.
+
+-*who_teucros
+Je ne m'étonnerai plus, ô citoyens, de voir faillir un homme de race vile, quand ceux qui semblent être sortis d'une race illustre prononcent des paroles aussi insensées.
+Allons ! recommence tout ceci.
+Ne dis-tu pas que tu as amené Ajax aux Achéens et qu'il n'a point navigué de lui-même et volontairement ?
+En quoi es-tu son chef ?
+En quoi t'est-il permis de commander à ceux qu'il a menés de la patrie ?
+Tu es venu, étant roi de Sparte, et non ayant sur nous aucun pouvoir, et il ne t'appartient pas plus de lui donner des ordres qu'il n'a le droit lui-même de te faire obéir aux siens.
+Tu es venu ici soumis à d'autres ; tu n'es point le chef de tous et tu n'as jamais été celui d'Ajax.
+Commande à ceux que tu mènes et parle leur arrogamment !
+Mais, que vous le défendiez ou non, toi et l'autre chef, j'enfermerai Ajax dans le tombeau, comme il est juste, sans souci de tes menaces.
+En effet, jamais il n'a combattu pour ton épouse, comme ceux qui subissent tous les dangers de la guerre.
+Il était lié par son serment, et il n'a rien fait pour toi, car il n'avait nulle estime pour les hommes de rien.
+Viens donc ici, amenant avec toi le chef lui-même suivi de nombreux hérauts ; car je ne me soucie en aucune façon de ton bavardage, tant que tu seras ce que tu es.
+
+-*who_lechoeur
+Je n'approuve pas, encore une fois, qu'on dise de telles paroles dans l'affliction, car elles sont amères, et elles blessent, quoique justes.
+
+-*who_menelas
+Cet archer ne me semble pas très humble.
+
+-*who_teucros
+Mon adresse non plus n'est pas méprisable.
+
+-*who_menelas
+Ton esprit s'enflerait hautement si tu portais un bouclier.
+
+-*who_teucros
+Sans armes je suffirais à Ménélas armé.
+
+-*who_menelas
+Ta langue nourrit un grand courage.
+
+-*who_teucros
+À l'aide de la justice il est permis d'avoir le coeur haut.
+
+-*who_menelas
+Tu trouves juste que celui qui m'a tué l'emporte ?
+
+-*who_teucros
+Qui t'a tué ?
+Tu parles merveilleusement.
+Tu vis et tu es mort ?
+
+-*who_menelas
+Un dieu m'a sauvé ; mais, autant qu'il était en lui, je suis mort.
+
+-*who_teucros
+Sauvé par les dieux, n'outrage donc point les dieux.
+
+-*who_menelas
+Ai-je donc violé les lois des dieux ?
+
+-*who_teucros
+Certes, si tu ne permets pas d'ensevelir les morts.
+
+-*who_menelas
+Je le défends pour mes ennemis.
+Cela ne convient pas.
+
+-*who_teucros
+Ajax s'est-il donc jamais opposé à toi en ennemi ?
+
+-*who_menelas
+Il me haïssait et je le haïssais : cela ne t'a pas été caché.
+
+-*who_teucros
+C'est qu'il savait que tu l'avais trompé par un faux suffrage.
+
+-*who_menelas
+Cette faute fut celle des juges, non la mienne.
+
+-*who_teucros
+Tu ne peux que mal cacher tes nombreuses mauvaises actions.
+
+-*who_menelas
+Ces paroles seront funestes à quelqu'un.
+
+-*who_teucros
+Certes, nous en souffrirons moins que toi.
+
+-*who_menelas
+Je ne te dirai qu'un mot : Cet homme ne sera pas enseveli.
+
+-*who_teucros
+Apprends-le à ton tour : Il sera enseveli.
+
+-*who_menelas
+J'ai vu récemment un homme, audacieux de la langue, qui excitait les marins à naviguer, l'orage menaçant, mais tu n'aurais plus entendu sa voix tandis que la tempête grondait de toutes parts ; car, enveloppé de son manteau, il se laissait fouler aux pieds par le premier venu des matelots.
+Il en sera ainsi de toi, quand une grande tempête jaillira d'une petite nuée et réprimera aisément la clameur odieuse de ta bouche insolente.
+
+-*who_teucros
+Et moi, j'ai vu un homme plein de démence qui insultait aux maux des autres.
+Ensuite, quelqu'un, semblable à moi et qui avait le même esprit, l'ayant regardé en face, lui dit ces paroles : – Homme, ne sois pas injurieux envers les morts.
+Si tu agis ainsi, sache que tu en seras châtié. – C'est ainsi qu'il avertissait ce misérable.
+Et je vois cet homme, et si je ne me trompe, il n'est personne autre que toi.
+Ai-je parlé obscurément ?
+
+-*who_menelas
+Je m'en vais, car ceci serait honteux qu'on apprît qu'il a combattu en paroles celui qui peut contraindre par la force.
+
+-*who_teucros
+Va donc, car il est aussi très honteux pour moi d'entendre un insensé se répandre en paroles vaines.
+
+**** *book_ *id_I08 *act_I *date_1877
+
+-*who_lechoeur
+Voici qu'une grande querelle se prépare.
+Autant que tu le pourras, Teucros, hâte-toi d'ouvrir une fosse creuse où il sera enfermé dans la terre noire, afin qu'il obtienne un tombeau illustre parmi les mortels.
+
+-*who_teucros
+Voici que le fils de l'homme et sa femme arrivent à temps pour célébrer les funérailles du mort malheureux.
+Ô enfant, viens ici, et touche en suppliant le père qui t'a engendré.
+Reste, en le regardant et en tenant dans tes mains mes cheveux, ceux de celle-ci et les tiens, protection des suppliants.
+Si quelqu'un de l'armée t'entraînait de force loin de ces funérailles, que ce mauvais homme meure et reste non enseveli loin de sa patrie, et que la racine de sa race soit coupée comme je coupe cette boucle !
+Tiens ton père et garde-le, enfant, et que rien ne t'en éloigne, mais reste assis près de lui.
+Et vous, ne vous tenez pas tels que des femmes, au lieu de faire en hommes.
+Protégez-les jusqu'à ce que je revienne et que j'aie préparé son tombeau, même si personne ne le permettait.
+
+-*who_lechoeur
+Quand viendra le terme de ce déroulement d'années qui, sans relâche, amènent pour moi les misères sans fin des travaux guerriers, devant cette large Troie, opprobre malheureux des Hellènes ?
+Plût aux dieux qu'il se fût évanoui dans les souilles de l'immense Éther, ou qu'il eût subi le Hadès commun à tous, l'homme qui a enseigné aux Hellènes l'usage des armes lamentables, tournées les unes contre les autres !
+Ô peines qu'ont précédées d'autres peines !
+En effet, cet homme a perdu la race des hommes.
+C'est lui qui m'a refusé la joie des couronnes et des larges coupes, et du doux son des flûtes et des voluptés nocturnes.
+Hélas ! il m'a enlevé l'amour !
+Et je suis couché, délaissé, mouillant mes cheveux de rosées abondantes, souvenir de la funeste Troie !
+Naguère le brave Ajax était mon rempart contre les terreurs nocturnes et les traits cruels ; mais il a été livré à un daimôn odieux.
+Quelle volupté aurai-je désormais ?
+Plût aux dieux que je fusse là où le promontoire boisé de Souniôn domine la haute mer, afin de saluer la sainte Athéna !
+
+-*who_teucros
+Je me suis hâté, ayant aperçu le chef Agamemnôn qui vient à nous d'un pas rapide.
+Certes, sa bouche va s'ouvrir à moi en paroles sinistres.
+
+**** *book_ *id_I09 *act_I *date_1877
+
+-*who_agamemnon
+On m'annonce que tu oses te répandre impunément en insolences contre nous ?
+Cependant, tu es né d'une captive.
+Combien, te dressant sur l'extrémité de tes pieds, ne te vanterais-tu pas orgueilleusement, si tu avais été nourri par une mère libre, puisque n'étant qu'un homme de rien tu combats pour celui qui n'est plus rien, disant que nous ne sommes les chefs ni des nefs, ni des Achéens, ni des tiens, et qu'Ajax est monté sur ses nefs par sa propre volonté ?
+N'est-ce point un grand opprobre d'entendre de telles choses d'un esclave ?
+Et pour quel homme parles-tu si insolemment ?
+Où est-il allé, où s'est-il arrêté, que je ne l'aie fait aussi ?
+N'y a-t-il point d'hommes parmi les Achéens, excepté celui-ci ?
+Nous avons mal fait de proposer les armes d'Achille en prix aux Argiens, si nous sommes déclarés iniques par Teucros, et s'il ne vous plaît point, quoique vaincus, de subir le jugement de tous, nous accablant toujours d'outrages et nous mordant de ruses perfides, parce que vous avez perdu votre cause.
+En agissant ainsi, aucune loi ne serait jamais stable, si ceux que le jugement a déclarés vainqueurs sont contraints de céder, et si les vaincus dépossèdent les premiers.
+Mais cela doit être réprimé.
+Ce n'est point par la haute masse du corps et par les larges épaules que les hommes sont les premiers, mais ce sont ceux qui pensent sagement qui l'emportent en tout lieu.
+Le boeuf aux larges flancs est poussé dans le droit chemin par un petit fouet.
+Je prévois qu'il faudra user de ce remède pour toi, si tu ne reviens à la saine raison, toi qui, en faveur d'un homme qui ne vit plus et qui n'est plus qu'une ombre vaine, oses outrager et parler d'une bouche sans frein.
+Ne réprimeras-tu pas cet esprit insolent ?
+Ne peux-tu, songeant de qui tu es né, amener ici quelque homme libre qui parle pour toi ?
+Car je ne puis comprendre ce que tu dis, n'entendant point la langue barbare.
+
+-*who_lechoeur
+Plût aux dieux que vous fussiez plus modérés l'un et l'autre !
+Je n'ai rien de mieux à dire sur ce qui vous concerne tous deux.
+
+-*who_teucros
+Hélas !
+Combien la mémoire d'un mort et des services qu'il a rendus s'efface promptement parmi ceux qui survivent, puisque cet homme ne rappelle ton souvenir par la plus légère parole, Ajax, lui pour qui, exposant ton âme, tu as subi tant de fois les travaux de la guerre !
+Mais toutes ces choses sont oubliées.
+Ô toi qui viens de répandre tant de paroles inutiles, ne te souvient-il plus qu'étant bloqués dans vos retranchements et sur le point de périr au milieu de la fuite de tous, le seul Ajax vous délivra, quand déjà flambaient les poupes et les bancs de rameurs, et quand le farouche Hector, ayant franchi les fossés, sautait sur les nefs ?
+Qui repoussa ces calamités ?
+N'est-ce point celui-ci que tu dis n'avoir jamais tenu de pied ferme contre l'ennemi ?
+Ces grandes actions d'Ajax ne sont-elles point vraies ?
+Et, de nouveau, seul contre le seul Hector, ne soutint-il pas le combat, ayant couru la chance du sort de son propre mouvement et n'ayant point jeté lâchement un peu de terre grasse dans le casque chevelu, mais un gage qui en devait jaillir aisément le premier.
+Il a fait cela, et j'étais là, moi, l'esclave, moi, enfanté par une mère barbare !
+Misérable ! comment oses-tu me parler ainsi face à face ?
+Ignores-tu que l'antique Pélops, qui fut ton aïeul, était un barbare Phrygien, et que le très impie Atreus qui t'engendra a offert en festin à son frère les propres enfants de celui-ci ?
+Et toi-même, tu es né d'une mère krétoise que ton père, ayant surprise en adultère, ordonna de jeter à la mer pour être en pâture aux poissons muets.
+Tel que tu es, oses-tu donc me reprocher ma naissance, à moi qui suis né de Télamôn, qui, pour prix de son glorieux courage, reçut cet honneur de prendre ma mère pour compagne de son lit, elle qui était issue d'une race royale, fille de Laomédôn, et donnée à mon père comme une illustre récompense par l'enfant d'Alkmèna ?
+Moi donc, irréprochable et né de parents irréprochables, serai-je en opprobre aux miens que tu veux laisser non ensevelis, accablés déjà de tant de maux ?
+Et tu n'as aucune honte de l'avouer !
+Mais sache ceci : où que vous jetiez celui-ci, vous vous jetterez tous trois avec lui, car il est plus beau à moi de trouver une mort glorieuse en combattant pour lui, que pour ta cause ou pour la femme de ton frère.
+Vois enfin, non ce qui me touche, mais ce qui t'intéresse, car si tu m'offenses en quoi que ce soit, tu regretteras un jour de n'avoir pas été plutôt timide que violent envers moi.
+
+-*who_lechoeur
+Roi Ulysse, sache que tu es venu à temps, non pour quereller comme eux, mais pour rompre la lutte.
+
+-*who_ulysse
+Qu'est-ce, hommes ?
+J'ai entendu de loin la voix des Atrides s'élever sur le corps de cet homme brave.
+
+-*who_agamemnon
+Roi Ulysse, n'avons-nous pas entendu de celui-ci les plus honteuses paroles ?
+
+-*who_ulysse
+Quelles paroles ?
+Je pardonne à qui est provoqué par les outrages de répondre par des outrages.
+
+-*who_agamemnon
+Les outrages qu'il a reçus étaient tels que ceux qu'il m'a adressés.
+
+-*who_ulysse
+Que t'a-t-il donc fait pour que tu l'insultes ?
+
+-*who_agamemnon
+Il ne veut pas que ce cadavre reste non enseveli, et il dit qu'il l'ensevelira malgré moi.
+
+-*who_ulysse
+Est-il permis à un ami de te dire des choses vraies, et, néanmoins, de rester en paix avec toi comme auparavant ?
+
+-*who_agamemnon
+Dis.
+Si je te le défendais, je serais sans raison puisque je te tiens pour le plus grand de mes amis parmi les Argiens.
+
+-*who_ulysse
+Écoute donc.
+Je t'en conjura par les dieux, ne persiste pas cruellement à jeter là cet homme non enseveli ; que ta violence ne te pousse pas à tant de haine, que tu n'aies aucun souci de la justice.
+Cet homme était le plus grand ennemi que j'eusse dans l'armée, depuis le jour où les armes d'Achille m'ont été décernées ; et cependant, quelque irrité qu'il ait été contre moi, je ne serai pas inique au point de ne pas avouer qu'il était le plus brave des Argiens, de tous, tant que nous sommes, venus à Troie, excepté Achille.
+Donc, tu serais injuste de le priver de cet honneur, et tu l'outragerais moins encore que les lois des dieux.
+Il n'est point permis d'outrager un homme après sa mort, bien qu'on l'ait haï vivant.
+
+-*who_agamemnon
+Alors, Ulysse, c'est toi qui me résistes en sa faveur ?
+
+-*who_ulysse
+Certes.
+Je le haïssais quand il convenait de le haïr.
+
+-*who_agamemnon
+Ne devrais-tu pas plutôt insulter à ce mort ?
+
+-*who_ulysse
+Ne te réjouis pas, Atride, d'un avantage impie.
+
+-*who_agamemnon
+Il n'est pas facile à un roi d'être pieux.
+
+-*who_ulysse
+Mais les rois peuvent obéir aux amis qui les conseillent bien.
+
+-*who_agamemnon
+Il sied à un homme juste d'obéir aux rois.
+
+-*who_ulysse
+Arrête.
+Qui est vaincu par un ami n'en est pas moins vainqueur.
+
+-*who_agamemnon
+Souviens-toi de l'homme pour lequel tu demandes cette grâce.
+
+-*who_ulysse
+Il était mon ennemi, mais il était noblement né.
+
+-*who_agamemnon
+Que t'arrivera-t-il, si tu respectes ainsi un ennemi mort ?
+
+-*who_ulysse
+La vertu l'emporte en moi sur la haine.
+
+-*who_agamemnon
+Que ces hommes ont l'esprit mobile !
+
+-*who_ulysse
+Beaucoup sont maintenant amis qui plus tard se haïront.
+
+-*who_agamemnon
+Approuves-tu qu'on acquière de tels amis ?
+
+-*who_ulysse
+Je n'ai point coutume de louer une âme inflexible.
+
+-*who_agamemnon
+Tu feras en sorte qu'on nous prendra aujourd'hui pour des lâches.
+
+-*who_ulysse
+Au contraire, nous semblerons équitables à tous les Hellènes.
+
+-*who_agamemnon
+Tu me conseilles donc de laisser ensevelir ce cadavre ?
+
+-*who_ulysse
+Certes, car moi aussi j'en serai réduit là.
+
+-*who_agamemnon
+Comme chacun agit dans son propre intérêt !
+
+-*who_ulysse
+Pourquoi aurais-je plus de souci d'un autre que de moi ?
+
+-*who_agamemnon
+On dira que cette action est tienne et non mienne.
+
+-*who_ulysse
+Quoi que tu fasses, tu seras loué par tous.
+
+-*who_agamemnon
+Sache donc, et tiens pour certain, que je voudrais t'accorder une grâce plus grande encore, mais cet homme, vivant et mort, ne m'en sera pas moins odieux.
+Tu peux faire ce que tu désires.
+
+-*who_lechoeur
+Puisque tu as eu cette bonne pensée Ulysse, il serait un insensé celui qui dirait que tu n'est pas sage.
+
+-*who_ulysse
+Je déclare ceci à Teucros : autant j'ai été ennemi, autant je serai désormais un ami.
+Je veux ensevelir ce corps, vous venir en aide et ne rien oublier des honneurs qu'il convient de rendre aux meilleurs hommes.
+
+-*who_teucros
+Excellent Ulysse, je puis te louer de toute façon, puisque tu as entièrement trompé mon espérance.
+Toi qui, en effet, étais, de tous les Argiens, le plus grand ennemi d'Ajax, seul tu lui es venu en aide, et, vivant, tu n'as pas insulté un mort, comme ce stratège insensé et son frère l'ont fait en voulant le laisser outrageusement non enseveli.
+C'est pourquoi, que le père Zeus, maître de l'Olympos, que l'inévitable Erinnys et que la justice qui dispense les châtiments frappent ces misérables, de même qu'ils ont voulu accabler d'outrages Ajax non enseveli.
+Mais toi, ô race du vieux Laërte, je crains à la vérité de te laisser toucher ce tombeau, redoutant de déplaire au mort.
+Aide-nous dans les autres choses, et si tu veux que quelque autre de l'armée vienne aux funérailles, cela ne nous déplaira pas.
+
+-*who_ulysse
+Je voulais en effet vous aider, mais si cela ne t'est pas agréable, je pars, cédant à ton désir.
+
+-*who_teucros
+C'est assez, un long temps s'est déjà écoulé.
+Pour vous, que les uns préparent une fosse creuse ; que les autres posent sur le feu un haut trépied destiné aux bains pieux, et qu'une troupe d'hommes apporte de la tente les armes d'Ajax.
+Toi, enfant, entoure avec tendresse de tes bras le corps de ton père, autant que tu le pourras, et soulève ses flancs avec moi.
+En effet, les chaudes bouches de sa plaie rendent encore un sang noir.
+Allons ! que quiconque se dit son ami vienne et se hâte de venir en aide à cet homme bon entre tous et le meilleur des mortels !
+
+-*who_lechoeur
+Certes, l'expérience enseigne beaucoup de choses aux hommes.
+Avant que l'événement nous soit manifeste, aucun divinateur ne nous dira ce qui doit arriver.

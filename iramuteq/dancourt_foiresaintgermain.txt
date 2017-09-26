@@ -1,0 +1,2038 @@
+
+
+**** *book_ *id_I01 *act_I *date_1697
+
+-*who_mademoisellemousset
+De belles robes de chambres, Messieurs ?
+Des étoffes de la Chine ?
+Des bonnets à la bénéficière ?
+Des déshabillés à bonne fortune ?
+Voyez ici, Mesdames.
+
+-*who_mimi
+Des rubans d'or ?
+Des tabliers ?
+Des fichus ?
+De belles écharpes, Messieurs.
+
+-*who_lolotte
+Des tabatières ?
+Des cannes ?
+Des cordons de chapeau ?
+Des nœuds d'épée, Mesdames.
+
+-*who_manon
+Marchandise du Levant, Messieurs ?
+Eaux de senteur de Constantinople ?
+Baume de Perse ?
+Mastic pour les trous de la petite vérole ?
+Ciment pour recrépir les visages ?
+Nous avons ce qu'il vous faut, Mesdames.
+
+-*who_lorange
+Café, thé, chocolat ?
+Vin de saint Laurent ?
+Vin de la Ciotat ?
+Vin de Canarie ?
+
+**** *book_ *id_I02 *act_I *date_1697
+
+-*who_urbine
+Venir tant de bonne heure à la Foire Saint-Germain !
+Vous n'y portez pas attention, Chevalier ?
+
+-*who_lechevalier
+À toutes les heures du jour ; gens de chez nous, ma sœur, pensent à leurs affaires, et font très bien.
+Nous sommes d'une noblesse tellement ancienne, que tous nos biens en sont usés ; nous n'avons, vous et moi, d'autre patrimoine que le savoir-faire : mais qu'importe ?
+Les sots doivent tribut aux gens d'esprit, et il y a dans cette Foire Saint-Germain quantité de Bureaux où je me fais payer mes rentes.
+
+-*who_urbine
+Hé donc, en venez-vous toucher quelqu'une aujourd'hui ?
+
+-*who_lechevalier
+Cadédis, ma chère sœurette, je suis sans cesse à l'affût de la fortune.
+Je lui ai donné la chasse à la Cour, j'ai cru la tenir par le toupet, la coquine s'est trouvée chauve.
+À la guerre, je l'ai poursuivie, et je lui ai fait peur, apparemment ; elle s'est tenue close et couverte pour me faire pièce, on ne l'a point vue pendant la campagne.
+Mais grâces au Ciel, je la retrouve en quartier d'hiver ; et pour ne l'effaroucher pas, en attendant que l'amour m'en fasse absolument raison, je la mine tout doucement ici, et je l'attrape par les menus.
+
+-*who_urbine
+Vous seriez amoureux, mon frère ?
+
+-*who_lechevalier
+Amoureux, moi !
+De richesses, oui ; de femmes, non, je vous proteste.
+Holà, hé, Mademoiselle Mousset, serviteur ; un mot ici, je vous en conjure.
+
+**** *book_ *id_I03 *act_I *date_1697
+
+-*who_mademoisellemousset
+C'est déjà vous, Monsieur le Chevalier ?
+On ne sera ici que dans une heure.
+
+-*who_lechevalier
+Mais y sera-t-on ?
+Car je n'ai point de temps à perdre, je ne veux pas qu'on m'amuse.
+
+-*who_mademoisellemousset
+On m'a bien promis de s'y rendre.
+
+-*who_lechevalier
+As-tu touché la grosse corde, et peut-on appuyer ferme dessus sans la rompre ?
+
+-*who_mademoisellemousset
+Toutes choses sont bien disposées, et vous en aurez bonne issue.
+Ne voulez-vous pas entrer ?
+
+-*who_lechevalier
+Non, mon enfant, ta boutique est plus incommode que ce carrefour ; elle est toujours pleine de cent personnes à qui tu crois vendre des robes de chambre, et qui n'ont pas de quoi payer un bonnet.
+
+-*who_mademoisellemousset
+Cette Dame est de votre compagnie, apparemment ?
+
+-*who_lechevalier
+C'est ma sœur Urbine de Castagnac, ma chère Mademoiselle Mousset.
+
+-*who_urbine
+Cette Marchande paraît bien de vos amies, mon frère, je lui suis tant et plus acquise.
+
+-*who_mademoisellemousset
+Je suis votre très humble servante, Madame.
+
+-*who_lechevalier
+Envisagez bien cette femme-là, ma sœur, c'est une illustre de Paris, au moins.
+
+-*who_urbine
+Tant nouvelle je suis à la ville, que je n'en connais pas encore les merveilles.
+
+-*who_mademoisellemousset
+Vous en allez faire un des plus beaux ornements, Madame.
+
+-*who_urbine
+Hélas, Madame !
+J'ai confusion d'être sortie de la Province ; mais je m'y recache dans le moment que j'aurai mis quelque fin à mes affaires.
+
+-*who_mademoisellemousset
+Vous avez des affaires en ces pays-ci ?
+
+-*who_lechevalier
+Bon, des affaires, c'est moins que rien.
+Tu connais cet homme, peut-être ?
+
+-*who_mademoisellemousset
+Quel homme, Monsieur ?
+
+-*who_lechevalier
+Un certain Monsieur Farfadel de par le monde.
+
+-*who_mademoisellemousset
+Ce vieillard si riche et si fou, qui en conte à toute la terre ?
+
+-*who_lechevalier
+Justement, ce grand épouseur en paroles, ce fameux honnisseur de filles.
+
+-*who_mademoisellemousset
+Il en fait accroire depuis six mois à plus de quatre de ma connaissance.
+
+-*who_lechevalier
+Voilà l'homme : il y a quelques mois qu'il vint en Province ; il vit ma sœur Urbine, il prit du goût pour elle ; il lui fit une promesse de mariage par manière de conversation, dit-il ; et parce que je méprise de l'assommer, ma sœur Urbine, par manière d'acquit, le va faire pendre : cela sera bientôt vidé.
+
+-*who_mademoisellemousset
+Et vous appelez cela moins que rien ?
+
+-*who_lechevalier
+Oui, mon enfant, la Comtesse de Méripillerious, notre parente, tient toute la robe dans sa manche ; je vais accompagner ma sœur chez elle pour son affaire, et je reviens dans l'instant ici pour la nôtre.
+
+**** *book_ *id_I04 *act_I *date_1697
+
+-*who_mademoisellemousset
+La sœur Urbine est une trop aimable personne pour la Province, il faut trouver moyen de la fixer à Paris.
+
+**** *book_ *id_I05 *act_I *date_1697
+
+-*who_lorange
+Je donne le bonjour à mon agréable voisine.
+
+-*who_mademoisellemousset
+Ah, ah !
+Vous vous en avisez, monsieur l'Arménien ; depuis huit jours que la Foire est ouverte, à peine m'avez-vous fait l'honneur de me saluer.
+Quel heureux caprice vous porte à chercher à faire aujourd'hui connaissance ?
+
+-*who_lorange
+Parbleu, je ne cherche point à la faire, je cherche à la renouveler, ma voisine.
+
+-*who_mademoisellemousset
+À la renouveler !
+Nous nous sommes donc connus, à votre compte ?
+
+-*who_lorange
+Quelquefois un peu par-ci, par-là ; mais cependant, je vous l'avoue, j'ai eu toutes les peines du monde à vous remettre, parce que je ne pouvais me figurer que Madame la Marquise de la Papelardière du Marais, fût devenue Marchande de robes de chambre à la Foire.
+
+-*who_mademoisellemousset
+Les fortunes du Marais ne sont pas solides, comme vous voyez.
+
+-*who_lorange
+J'en fais l'expérience par moi-même.
+Je n'ai pas toujours vendu du Café, et je n'ai d'Arménien que la barbe.
+
+-*who_mademoisellemousset
+Ah, juste ciel !
+Quelle surprise !
+C'est le Chevalier de Gourdinvilliers, la Coqueluche de la rue Sainte Avoye.
+
+-*who_lorange
+C'est lui-même, ma chère Marquise, toujours fidèle, toujours amoureux de vis charmes.
+
+-*who_mademoisellemousset
+Hé !
+Qu'as-tu donc fait de ta Chevalerie, mon pauvre Lorange.
+
+-*who_lorange
+Elle est allée tenir compagnie à ton Marquisat, ma chère Marton.
+
+-*who_mademoisellemousset
+Tu as fait de grands voyages, à ce que l'on m'a dit, depuis que nous nous sommes vus ?
+
+-*who_lorange
+Comment, morbleu, de grands voyages ?
+J'ai pensé faire celui de l'autre monde.
+
+-*who_mademoisellemousset
+Tu as pensé mourir ?
+
+-*who_lorange
+Oui, vraiment, il y a eu des ordres exprès pour cela, et ils ont été affichés, même ; mais je n'ai pas voulu les suivre ; j'aime à vivre, moi, comme tu sais.
+
+-*who_mademoisellemousset
+Tu as raison : mais ne risques-tu rien ici ?
+
+-*who_lorange
+La chose est problématique ; comme enfant de Paris, Écuyer sieur de Lorange, et Chevalier de Gourdinvilliers, les ordres sont précis : mais comme Arménien, naturalisé depuis trois semaines, il n'y a rien à craindre.
+C'est pourquoi, mon enfant, supprime, s'il te plaît, le nom de Lorange, et ne me nomme que l'Arménien.
+
+-*who_mademoisellemousset
+Très volontiers, tu n'es qu'à dire.
+Mais toi, ne m'appelle point Marton, je te prie.
+
+-*who_lorange
+J'entends bien, il y a aussi quelques ordres expédiés sous ce nom-là, n'est-ce pas ?
+C'est la même qui nous domine ; nous finirons ensemble de manière ou d'autre.
+
+**** *book_ *id_I06 *act_I *date_1697
+
+-*who_clitandre
+Les valets sont bien nés pour nous impatienter !
+À quoi diantre ce maraud-là s'amuse-t-il ?
+
+-*who_mademoisellemousset
+Hé !
+Qu'avez-vous aujourd'hui, Monsieur ?
+Vous voilà bien sombre !
+
+-*who_clitandre
+Mon coquin de Breton se moque de moi, ma chère Mademoiselle Mousset : je lui ai dit de me venir rendre réponse, il y a deux heures que je l'attends : je suis sur des épines.
+
+-*who_lorange
+Si vous vouliez, Monsieur, rafraîchir votre impatience de quelque petit verre de liqueurs, j'en ai des meilleures de la Foire.
+
+-*who_clitandre
+Non, mon enfant, je vous remercie.
+
+**** *book_ *id_I07 *act_I *date_1697
+
+-*who_clitandre
+Ah !
+Te voilà, bourreau ?
+
+-*who_lebreton
+Oui, Monsieur, c'est moi-même, qui ne veux plus me mêler de vos affaires, et qui viens vous demander mon congé.
+
+-*who_clitandre
+Comment, misérable ?
+
+-*who_mademoisellemousset
+Hé, Monsieur !
+
+-*who_clitandre
+Hé, quelles nouvelles m'apportes-tu encore ?
+Çà, voyons.
+
+-*who_lebreton
+Je ne vous en apporte aucune ; il n'y a rien à faire, il faut nous séparer, et vous n'avez qu'à chercher fortune.
+
+-*who_clitandre
+Quoi, pendart !
+
+-*who_lorange
+Hé, point d'emportement.
+
+-*who_lebreton
+Ne le lâchez pas, au moins, il devient fou, je vous en avertis.
+
+-*who_clitandre
+Je te ferai mourir sous le bâton.
+
+-*who_lebreton
+Il ne s'en aperçoit pas, lui : mais cela ne laisse pas d'être.
+
+-*who_clitandre
+Ah !
+Je n'en puis plus.
+Oui, je perds l'esprit, je l'avoue ; mais c'est ce malheureux, qui me fait tourner la cervelle.
+
+-*who_mademoisellemousset
+Lui, Monsieur ?
+
+-*who_lorange
+Comment donc ?
+
+-*who_lebreton
+Il ne sait ce qu'il dit, comme vous voyez.
+
+-*who_clitandre
+Je vous en fais juges vous-mêmes.
+Depuis un mois, je suis amoureux de la plus aimable personne du monde.
+
+-*who_lebreton
+Vous voyez bien que ce n'est pas moi qui lui gâte l'esprit, que diable !
+
+-*who_clitandre
+Monsieur le Breton, ce charmant Monsieur le Breton que vous voyez, connaît tout l'excès de mon amour ; il est témoin de tous les tourments que me fait souffrir l'impossibilité d'avoir accès chez cette Belle.
+
+-*who_lebreton
+Oui, je vois de belles choses, assurément.
+
+-*who_clitandre
+Et le bélître a la constance et la malice de ne pas imaginer aucune chose pour me rendre le moindre service.
+
+-*who_lebreton
+Monsieur l'Arménien ?
+
+-*who_lorange
+Oh, vous avez tort, Monsieur le Breton, il faut passer condamnation, cela n'est pas bien.
+
+-*who_lebreton
+Mademoiselle Mousset ?
+
+-*who_mademoisellemousset
+Je suis contre vous aussi.
+Vous n'êtes point un valet zélé.
+
+-*who_lebreton
+Je me donne au diable ; vous y seriez bien empêchés, vous autres ; et pourtant les Marchands Forains ne sont pas les moins habiles pour ces affaires-là.
+
+-*who_lorange
+Je gage en deux jours d'emporter l'affaire, quelque difficile qu'elle puisse être.
+
+-*who_mademoisellemousset
+Je parie d'y réussir en vingt-quatre heures.
+
+-*who_clitandre
+Tu vois, infâme.
+
+-*who_lebreton
+Je ne suis point jaloux, Monsieur ; je cède l'entreprise, et je leur servirai de croupier même, en cas de besoin.
+
+-*who_clitandre
+Ah !
+Mes amis, de grâce, unissez-vous tous trois pour me rendre service.
+Si vous pouvez y réussir, vous pouvez aussi compter sur une parfaite reconnaissance.
+
+-*who_mademoisellemousset
+Il faut commencer par savoir les personnes à qui nous avons à faire.
+
+-*who_lorange
+Cela est de conséquence.
+
+-*who_lebreton
+Je vais vous en informer.
+Premièrement, la fille est une jeune personne.
+
+-*who_clitandre
+Toute charmante, toute adorable.
+
+-*who_lebreton
+Oui, toute adorable, d'une physionomie très vive et très coquette.
+
+-*who_lorange
+Cela promet quelque chose.
+
+-*who_lebreton
+La mère est une veuve entre deux âges, un exemple de régularité ; femme très prude, et très rébarbative se son métier.
+
+-*who_mademoisellemousset
+Cet article-là rend l'affaire épineuse.
+
+-*who_lebreton
+La suivante est un monstre de laideur, et un dragon de vertu, plus affreuse que le diable, et par conséquent plus méchante.
+
+-*who_lorange
+Cet animal-là sera difficile à apprivoiser.
+
+-*who_lebreton
+Avec cela il y a dans la maison une espèce d'Abbé qui sert d'Intendant, un valet de chambre qui a les gouttes, un cuisinier manchot, un cocher borgne, et trois vieux laquais qui n'ont jamais bu de vin.
+Le moyen de faire connaissance avec ces gens-là ?
+
+-*who_mademoisellemousset
+Voilà un agréable petit domestique.
+
+-*who_lebreton
+Ils sont tous zélés pour la mère, et gardent tous la fille à vue.
+Les entrepreneurs n'ont qu'à tabler là-dessus, et faire leurs diligences.
+
+-*who_mademoisellemousset
+Monsieur l'Arménien ?
+
+-*who_lorange
+Mademoiselle Mousset ?
+
+-*who_mademoisellemousset
+Il faut plus de deux jours pour cette affaire-là.
+
+-*who_lorange
+Vous n'en sortirez pas en vingt-quatre heures.
+
+-*who_lebreton
+Bon, il y a près d'un mois que j'y travaille, et je n'ai pu l'entamer encore.
+
+-*who_clitandre
+Hé !
+Mes chers enfants, ne m'abandonnez pas, je vous en conjure.
+
+-*who_mademoisellemousset
+Mort de ma vie, nous sommes trois, il ne faut pas en avoir le démenti.
+
+-*who_lorange
+Non, assurément.
+
+-*who_lebreton
+Ah !
+Monsieur, voilà Mademoiselle Angélique, je pense, elle vient de ce côté-ci, même.
+
+-*who_clitandre
+Ah !
+Mon cher Breton : je n'en puis plus, tous mes sens sont interdits.
+Par où commencer ?
+Comment l'aborder ?
+Que lui dirai-je ?
+
+-*who_lebreton
+Vous ne lui direz rien, s'il vous plaît.
+Ce sera assez de la regarder ; la maudite suivante, et le maître Laquais sont avec elle.
+
+-*who_clitandre
+Ah, juste Ciel ?
+
+**** *book_ *id_I08 *act_I *date_1697
+
+-*who_lorange
+Éloignez-vous, et me laissez faire, je vous débarrasserai des incommodes.
+
+-*who_clitandre
+Serait-il possible ?
+
+-*who_lorange
+Éloignez-vous, vous dis-je.
+Elle vient par ici, n'est-ce pas ?
+
+-*who_lebreton
+Elle va passer, la voilà presque au milieu de la rue.
+
+-*who_lorange
+Vous avez de l'esprit, secondez-moi bien, seulement.
+
+-*who_lebreton
+Il nous quitte et rentre chez lui ; que diantre va-t-il faire ?
+
+-*who_mademoisellemousset
+Je ne puis le deviner, mais il n'est pas bête.
+
+-*who_lebreton
+Angélique et sa suite approchent, nous les manquerons.
+
+-*who_lorange
+Gare l'eau.
+
+**** *book_ *id_I09 *act_I *date_1697
+
+-*who_angelique
+Ah, juste Ciel !
+Qu'est-ce que cela ?
+
+-*who_madameisaac
+Comment donc ?
+Quels insolents !
+Quelles canailles !
+En pleine Foire, jeter des immondices par les fenêtres !
+Un procès-verbal ?
+Des témoins ?
+Un honnête Commissaire ?
+
+-*who_mademoisellemousset
+À qui en ont-elles, donc ?
+
+-*who_lebreton
+À qui ?
+Monsieur l'Arménien vient de vider une chocolatière sur le corps de la surveillante.
+
+-*who_angelique
+Voilà des choses qui ne sont pas permises.
+
+-*who_madameisaac
+Hé, la, la, c'est bien employé, Mademoiselle ; si vous aviez été au Palais, comme Madame votre mère vous l'avait dit, et non pas à la Foire… Hom, hom, voilà comme le Ciel punit vos extravagances.
+
+-*who_angelique
+Moi !
+Je ne me plains point, je n'ai rien eu.
+Mais vous qui êtes une personne si sage, et si raisonnable, Madame Isaac, qu'est-ce que le Ciel punit en vous, je vous prie ?
+
+-*who_madameisaac
+L'impertinence que j'ai eue d'adhérer à vis sottises : mais cela ne m'arrive pas souvent.
+
+**** *book_ *id_I10 *act_I *date_1697
+
+-*who_lorange
+Je viens vous demander mille pardons, Madame, du petit incident de la chocolatière.
+
+-*who_angelique
+Ce n'est pas moi, Monsieur l'Arménien, à qui vous devez…
+
+-*who_madameisaac
+Oh, vous me paierez mes hardes, si elles sont gâtées.
+
+-*who_lorange
+Je suis bien fâché, Madame…
+
+-*who_madameisaac
+Mais voyez-vous ce brutal avec ses excuses ?
+
+-*who_lebreton
+La fortune m'est bien favorable, Madame, de m'offrir l'occasion d'un petit service.
+
+-*who_madameisaac
+Hé, miséricorde, vous me cassez les jambes, vous marchez dessus.
+
+-*who_mademoisellemousset
+Hé, bon Dieu, Madame, n'êtes-vous point blessée ?
+
+-*who_madameisaac
+Ah, juste Ciel !
+Vous me déboîtez l'épaule, Madame.
+
+-*who_lebreton
+Vraiment, voilà une vieille Demoiselle qui est bien délicate ?
+
+-*who_lorange
+Nous sommes bien mal adroits tous tant que nous sommes.
+
+-*who_madameisaac
+Allons, Mademoiselle, retournons au logis, s'il vous plaît.
+
+-*who_angelique
+Que je m'en retourne, moi, Madame ?
+
+-*who_madameisaac
+Assurément.
+Voulez-vous que je demeure dans cet équipage-là ?
+
+-*who_lorange
+Je ne vous le conseille pas, il n'y a pas d'apparence.
+
+-*who_lebreton
+On vous prendrait pour quelque bonne fortune de la rue de la Lingerie.
+
+-*who_madameisaac
+Oh, je n'y resterai pas, je vous en réponds.
+
+-*who_mademoisellemousset
+Vous ferez fort bien, assurément.
+
+-*who_angelique
+Vous êtes la maîtresse, Madame : pour moi qui n'ai point à changer de hardes, et qui ai des emplettes à faire, vous trouverez bon que j'y demeure.
+
+-*who_mademoisellemousset
+Si vous voulez prendre un siège en attendant…
+
+-*who_angelique
+Je vous suis obligée, Madame.
+
+-*who_madameisaac
+Je vous laisserais ici toute seule ?
+
+-*who_angelique
+Ah !
+Que vous êtes ridicule avec vos manières !
+Allez, Madame, il suffit de moi pour me garder, et d'un laquais pour vous rendre compte de mes actions et de mes paroles.
+
+-*who_madameisaac
+Ah, ah !
+Vous le prenez sur ce ton-là ?
+Oh bien, bien, je ne reviendrai pas, moi, mais je vais vous envoyer compagnie.
+
+-*who_angelique
+Vous me ferez plaisir, je n'en sais pas de plus désagréable que la vôtre.
+
+-*who_madameisaac
+Je te la recommande, ne la quitte pas de vue.
+
+-*who_jasmin
+J'ai de bons yeux, ne vous mettez pas en peine.
+
+**** *book_ *id_I11 *act_I *date_1697
+
+-*who_lorange
+Bon, voilà déjà un de nos espions de parti.
+
+-*who_lebreton
+Je m'en vais bientôt faire décamper l'autre.
+
+-*who_angelique
+Ah, que je suis fatiguée de l'esclavage où l'on me fait vivre !
+N'en sortirai-je que pour passer dans un autre encore plus rude ?
+
+-*who_mademoisellemousset
+Il ne tiendra qu'à vous d'être heureuse, j'ose vous en répondre.
+
+-*who_angelique
+Quoi, Madame !
+
+-*who_lebreton
+Comment, coquin, tu fouilles dans ma poche ?
+
+-*who_jasmin
+Moi, Monsieur ?
+
+-*who_lebreton
+Oui, toi-même.
+
+-*who_angelique
+C'est mon laquais, Monsieur.
+
+-*who_lebreton
+C'est un coupeur de bourses, Madame, je l'ai pris sur le fait.
+
+-*who_lorange
+À qui en avez-vous ?
+Que vous fait-on, Monsieur ?
+
+-*who_lebreton
+On vole, on pille auprès de votre boutique, et vous souffrez cela, Monsieur l'Arménien ?
+
+-*who_jasmin
+Messieurs…
+
+-*who_lorange
+Hé !
+C'est mon fripon de l'autre jour, je le reconnais.
+
+-*who_jasmin
+Je suis honnête garçon, ne me frappez pas.
+
+-*who_angelique
+Doucement, Messieurs, c'est mon laquais je vous assure.
+
+-*who_mademoisellemousset
+Lui, je le connais pour un voleur, Madame.
+
+-*who_angelique
+Vous n'y songez pas.
+
+-*who_mademoisellemousset
+Il prit encore hier au soir dans la poche d'une vieille Marquise de ma connaissance le portrait d'un jeune Abbé, qu'elle venait de retirer de chez la Frenaye.
+
+-*who_angelique
+Jasmin ?
+
+-*who_jasmin
+En vérité, Mademoiselle… Cela n'est pas vrai, je vous assure.
+
+-*who_lorange
+Il a coupé, il n'y a que trois jours, à une fort honnête Procureuse de la rue Galande, une Croix de diamants de près de dix pistoles, que deux jeunes Académistes lui avaient donnée.
+
+-*who_lebreton
+Voilà des preuves convaincantes, allons, marchons chez le Commissaire.
+
+-*who_jasmin
+Au secours, à la force.
+
+-*who_lorange
+Oh !
+Tu as beau crier, tu iras en galère.
+
+-*who_angelique
+Mais vraiment, ces violences-là ne se font point.
+Qu'on prenne garde à ce qu'on fait, c'est mon laquais, encore une fois.
+
+-*who_mademoisellemousset
+Hé !
+Laissez-le emmener, on a quelque chose à vous dire qu'on ne veut pas qu'il sache.
+
+**** *book_ *id_I12 *act_I *date_1697
+
+-*who_angelique
+Expliquez-moi ce mystère, Madame.
+
+-*who_mademoisellemousset
+Ne le comprenez-vous pas ?
+Vous êtes toujours aimable, et l'on écarte les surveillants pour vous découvrir sans contrainte les sentiments que vous faîtes naître.
+
+-*who_angelique
+Comment, Madame ?
+
+-*who_mademoisellemousset
+Ne craignez rien.
+
+-*who_angelique
+C'est lui, c'est Clitandre : je suis perdue.
+
+**** *book_ *id_I13 *act_I *date_1697
+
+-*who_clitandre
+Pardonnez, charmante personne, à la violence de mon amour les artifices innocents dont on se sert pour me faciliter les moyens de vous entretenir : depuis longtemps je vous adore, je n'ai pu vous parler que des yeux, et je n'ai rien lu dans les vôtres qui m'ait flatté du moindre espoir.
+Enfin, j'ose, en tremblant, vous consulter ici moi-même sur ma destinée : mon cœur est tout à vous, avez-vous disposé du vôtre ?
+Que faut-il faire pour l'obtenir ?
+Si vous le destinez au plus tendre, au plus fidèle, au plus passionné de tous les amants, aucun autre que moi n'a droit d'y prétendre.
+
+-*who_mademoisellemousset
+Cela est bien écrit, au moins, ne faites-vous point de réponse ?
+
+-*who_clitandre
+Vous refusez de vous déclarer ?
+Que je suis à plaindre !
+
+-*who_angelique
+Quand je vous aurai dit l'état où je suis, vous vous trouverez bien plus malheureux encore.
+
+-*who_clitandre
+Vous avez un engagement, Madame !
+
+-*who_angelique
+Dans quatre jours on me marie.
+
+-*who_clitandre
+Ah, je suis mort !
+
+-*who_mademoisellemousset
+Mort de ma vie ; voilà un homme que vous poignardez, Mademoiselle.
+
+-*who_angelique
+Écoutez-moi, Monsieur.
+Vous me dites que vous m'aimez, vos regards m'en ont assurée, et leur langage s'est fait entendre dès le moment qu'ils m'ont parlé.
+La liberté de mon procédé va vous étonner, peut-être : mais la situation où je me trouve suffit de reste pour le justifier.
+On prétend me faire épouser un vieux mari que je déteste.
+Ma mère est riche, je suis jeune, tout le monde me trouve belle, consultez bien encore votre cœur et vos yeux.
+Je vous aime, ne me trompez point, si vous m'aimez véritablement, n'épargnez rien pour faire changer les sentiments de ma mère, et trouver les moyens d'assurer ensemble votre bonheur et mon repos.
+
+-*who_clitandre
+Divine Angélique !
+À quel excès de joie…
+
+-*who_mademoisellemousset
+Doucement, s'il vous plaît, Monsieur, un peu moins de transport, et plus de réflexion ; nous ne sommes pas ici en place d'avoir de longues conversations : venons au fait.
+Qui est cet heureux vieillard qu'on veut vous donner, et que vous détestez tant ?
+
+-*who_angelique
+Monsieur Farfadel.
+
+-*who_mademoisellemousset
+Monsieur Farfadel !
+
+-*who_angelique
+Lui-même ; le connaissez-vous ?
+
+-*who_mademoisellemousset
+Et très fort même : il vient ici presque tous les jours.
+Je sais de ses fredaines ; et votre affaire n'est pas encore si bien conclue, qu'on ne puisse la rompre.
+
+-*who_clitandre
+Sais-tu des moyens pour cela ?
+
+-*who_angelique
+Serait-il possible ?
+
+-*who_mademoisellemousset
+S'il ne s'agit que de détromper Madame votre mère, nous en viendrons aisément à bout : mais pour y parvenir, il est bon qu'on ne vous voie point ensemble, et que je ne paraisse pas me mêler de vos affaires même.
+
+-*who_angelique
+Elle a raison, séparons-nous.
+Je vais dans la boutique de Laigu, envoyez-y mon laquais et ma vieille surveillante, en cas qu'elle vienne.
+
+-*who_clitandre
+Je n'ose vous accompagner, Madame ; mais mon cœur et mon esprit ne vous quittent pas un seul moment, je vous jure.
+
+**** *book_ *id_I14 *act_I *date_1697
+
+-*who_mademoisellemousset
+Je vous pardonne d'être si fort amoureux, la petite personne en vaut bien la peine.
+
+-*who_clitandre
+Puisque tu approuves mon amour, songe donc à me rendre heureux, je te prie.
+
+-*who_mademoisellemousset
+Ne vous mettez point en peine, je connais la mère de votre maîtresse, c'est déjà quelque chose.
+
+-*who_clitandre
+Quoi, prude comme elle est, tu as des liaisons avec elle.
+
+-*who_mademoisellemousset
+C'est une de mes meilleures pratiques.
+Nous en aurons raison.
+Faites-moi chercher l'Arménien et votre Breton, qu'ils lâchent le filou prétendu, et qu'ils se dépêchent de venir ici.
+
+-*who_clitandre
+Je vais te les renvoyer, et revenir ensuite chez Laigu, pour y regarder du moins Angélique, s'il ne m'est pas permis de lui parler.
+
+**** *book_ *id_I15 *act_I *date_1697
+
+-*who_mademoisellemousset
+Oh !
+Que les amants sont fous !
+Je suis bienheureuse que l'expérience m'ait corrigée de ces faiblesses.
+Mais voici Monsieur Farfadel.
+
+**** *book_ *id_I16 *act_I *date_1697
+
+-*who_monsieurfarfadel
+Hé, laquais, qu'on ne me suive point.
+
+-*who_mademoisellemousset
+C'est lui-même.
+
+-*who_monsieurfarfadel
+Et que mon carrosse aille m'attendre à la petite porte de la rue des Cannettes
+
+-*who_mademoisellemousset
+Voilà des ordres qui sentent furieusement la bonne fortune.
+
+-*who_monsieurfarfadel
+Bon jour, mon enfant, je ne suis jamais sans cela, comme tu sais.
+
+-*who_mademoisellemousset
+Vous êtes le mortel le plus coureur, et le plus couru que je connaisse.
+
+-*who_monsieurfarfadel
+Et avec tout cela je n'aime point les femmes, elles sont toutes folles de moi.
+Je suis un peu coquet de mon naturel ; je les laisse se flatter ; je dis que je veux épouser l'une, je promets de faire la fortune de l'autre ; je donne des régals, des cadeaux, des promenades ; somme totale, je les amuse, et je ne conclus rien.
+Oh !
+Cela me donne un grand relief dans le monde.
+
+-*who_mademoisellemousset
+Vous avez raison.
+
+-*who_monsieurfarfadel
+Quand quelque petite fortune me donne dans la vue, je donne d'abord de l'emploi à ses frères, ou à ses cousins.
+Quand j'ai soupé trois ou quatre fois avec elle, crac, je les révoque.
+
+-*who_mademoisellemousset
+Chacun se distingue à sa manière.
+
+-*who_monsieurfarfadel
+J'ai choisi la bonne, moi.
+La manière de se distinguer à la guerre est dangereuse ; celle de la robe est trop sérieuse, et trop pénible ; il n'est rien tel que de briller dans la Finance.
+
+-*who_mademoisellemousset
+Assurément, cela est bien plus sûr, et bien plus commode.
+
+-*who_monsieurfarfadel
+Je n'ai que du plaisir, je ne cours point dans le risque, et je suis pourtant un homme considérable, au moins.
+
+-*who_mademoisellemousset
+Et considéré même.
+Je gage qu'il n'y a point de mère, qui ne soit ravie de vous voir faire les doux yeux à sa fille.
+
+-*who_monsieurfarfadel
+Oh, pour cela oui, je t'en réponds.
+Je suis à la veille d'en épouser une toute des plus jolies.
+
+-*who_mademoisellemousset
+Quoi, vous voulez vous marier sérieusement.
+
+-*who_monsieurfarfadel
+Oui, mon enfant, j'ai mes raisons.
+Cette fille est riche, et ce qui fait que je viens ici incognito aujourd'hui, c'est que la mère est une prude qu'il faut ménager ; je ne veux pas manquer cette affaire, elle est sérieuse : mais quand la dupe sera une fois embarquée, je ne suis pas d'humeur à me contraindre, et je me rejetterai dans la bagatelle.
+
+-*who_mademoisellemousset
+Vous n'en sortez pas trop, à ce qu'il me semble.
+Et quel rendez-vous vous attire à la Foire, s'il vous plaît ?
+
+-*who_monsieurfarfadel
+J'y en ai deux, Mademoiselle Mousset : un chez toi avec une petite grisette.
+
+-*who_mademoisellemousset
+Je n'ai encore vu personne.
+
+-*who_monsieurfarfadel
+On viendra, les petites grisettes sont exactes, elles n'ont pas tant d'affaires que les femmes de qualité : en attendant je m'en vais chez Laigu, où se doit trouver une petite bretonne de ta connaissance.
+Je ne te dis pas adieu, Mademoiselle Mousset.
+
+**** *book_ *id_I17 *act_I *date_1697
+
+-*who_mademoisellemousset
+Jusqu'au revoir, Monsieur.
+L'agréable chose qu'un petit libertin sexagénaire : Il trouvera compagnie chez Laigu ; mais ce ne sera pas celle qu'il cherche.
+Consultons maintenant avec nos deux associés ce que nous pourrons faire pour…
+
+**** *book_ *id_I18 *act_I *date_1697
+
+-*who_lebreton
+Hé bien, nos amants sont-ils contents l'un de l'autre ?
+Se sont-ils abouchés ?
+
+-*who_lorange
+Nous leur avons donné tout le temps et toute la commodité de le faire.
+
+-*who_mademoisellemousset
+Est-ce que vous n'avez point vu Clitandre ?
+Il vous cherche.
+
+-*who_lebreton
+À quelle intention ?
+
+-*who_mademoisellemousset
+Pour vous dire de venir ici, et de laisser aller ce pauvre diable.
+
+-*who_lorange
+On a prévenu ses ordres ; l'espion pris en a été quitte pour quelques soufflets, quelques coups de pied dans le ventre, quelques croquignoles ; le tout pour lui apprendre à écouter aux portes.
+
+-*who_lebreton
+Comment s'est passée l'entrevue ?
+
+-*who_mademoisellemousset
+Le mieux du monde.
+Angélique est presque aussi amoureuse de ton maître, que ton maître est amoureux d'elle.
+
+-*who_lorange
+Est-il possible ?
+
+-*who_mademoisellemousset
+Oui, te dis-je, il n'y a qu'une petite difficulté.
+
+-*who_lorange
+Hé quelle ?
+
+-*who_mademoisellemousset
+Son mariage est conclu avec un autre.
+
+-*who_lorange
+Quoi, ce n'est que cela !
+Voilà une belle bagatelle !
+
+-*who_lebreton
+Cela n'est rien, mon enfant, mon maître n'est pas scrupuleux, il l'épousera en sec ondes noces avant qu'elle soit veuve.
+
+-*who_mademoisellemousset
+Tu as raison, voilà un accommodement : mais il est bien aise d'épouser en premier.
+
+-*who_lorange
+Il a tort, les mariages en second sont les moins embarrassants, et les moins dangereux pour les suites.
+
+-*who_mademoisellemousset
+Laissons-là la plaisanterie, et parlons sérieusement, il faut rompre cette affaire, et assurer la nôtre.
+
+-*who_lebreton
+Comment s'y prendre ?
+
+-*who_mademoisellemousset
+Le rival de ton maître est à la Foire.
+
+-*who_lorange
+Oui.
+
+-*who_mademoisellemousset
+Il est allé chez Laigu où il trouvera Angélique.
+
+-*who_lebreton
+Quel homme est-ce ?
+
+-*who_mademoisellemousset
+Un soupirant banal, un petit maître de soixante ans.
+
+-*who_lorange
+De robe, d'épée, ou de finance ?
+
+-*who_mademoisellemousset
+Selon le goût de ses maîtresses ; il n'est rien, et il est tout ; c'est un petit caméléon d'amour, un animal amphibie en qui la finance domine.
+
+-*who_lebreton
+Voilà un bon sujet, Monsieur l'Arménien.
+
+-*who_lorange
+Oui, cela doit bien rendre.
+
+-*who_lebreton
+Il va donner apparemment à son épouse prétendue quelques-uns des divertissements de la Foire, le Cercle, le petit Opéra, les Danseurs de corde ?
+Ne pourrions-nous point nous servir de cette occasion ?
+
+-*who_mademoisellemousset
+Où cela pourrait-il nous mener ?
+À ridiculiser le personnage tout au plus.
+
+-*who_lebreton
+Il n'importe : commençons par-là ; c'est toujours quelque chose.
+
+-*who_lorange
+Le garçon qui montre le Cercle est de mes intimes.
+
+-*who_lebreton
+L'Entrepreneur du petit Opéra est le bâtard d'une de mes tantes, et la petite Danseuse de corde, est la maîtresse de mon neveu.
+Nous sommes en pays de connaissance.
+
+-*who_mademoisellemousset
+Qu'est-ce que cela fait ?
+Que prétends-tu faire ?
+
+-*who_lebreton
+Ne vous mettez pas en peine, je vais toujours en me divertissant préparer un petit régal de Foire, qui finira peut-être agréablement notre intrigue.
+Songez au dénouement, vous autres.
+
+-*who_lorange
+Mais il faudrait…
+
+-*who_lebreton
+Mais, mais : je vous laisse le soin de l'utile et du nécessaire, et je ne me charge que de l'agréable ; je fais bien les choses comme vous voyez.
+
+**** *book_ *id_I19 *act_I *date_1697
+
+-*who_mademoisellemousset
+Que diantre va-t-il faire ?
+Et de quoi nous peut-il servir, son petit Opéra ?
+
+-*who_lorange
+Ce garçon-là donne furieusement dans la bagatelle, il ne s'attache point au solide ; je ne m'étonne point qu'il ait été si longtemps à entamer l'intrigue de son maître.
+
+-*who_mademoisellemousset
+Et toi, qui es plus essentiel et plus habile, dis-moi un peu de quelle manière…
+
+**** *book_ *id_I20 *act_I *date_1697
+
+-*who_mademoiselledekermorin
+Ah !
+Ma chère Mademoiselle Mousset, tu vois une fille outrée de désespoir, ma chère enfant.
+
+-*who_mademoisellemousset
+Hé !
+C'est Mademoiselle de Kermonin, la petite bretonne de Monsieur Farfadel, apparemment.
+
+-*who_mademoiselledekermorin
+La rage me surmonte, je ne saurais parler…
+
+-*who_lorange
+Ce sont des vapeurs : mais je ne les hais pas, les vapeurs, cela a ses commodités.
+Allons, Mademoiselle, allons, revenez à vous.
+
+-*who_mademoiselledekermorin
+Ne me quittez pas, Monsieur, ne me quittez pas.
+
+-*who_lorange
+Diantre soit des vapeurs, elle m'étrangle.
+
+-*who_mademoiselledekermorin
+Je crève, le me meurs, je ne saurais parler, je ne saurais parler…
+
+-*who_mademoisellemousset
+Cela n'est pas naturel !
+Hé, à qui en avez-vous, Mademoiselle ?
+
+-*who_mademoiselledekermorin
+Hé !
+Ma chère Mademoiselle Mousset, secourez-moi.
+
+-*who_mademoisellemousset
+Voilà des vapeurs extraordinaires.
+
+-*who_lorange
+Je me donne au diable si ce sont des vapeurs.
+C'est une fille qui va devenir mère, ne vous y trompez pas.
+
+-*who_mademoiselledekermorin
+Ah, ah, ah.
+
+-*who_mademoisellemousset
+Hé !
+La, la, remettez-vous.
+
+-*who_lorange
+Tâchez de reporter cela jusques chez vous, Mademoiselle ; allons, courage.
+
+-*who_mademoiselledekermorin
+Quelle trahison ?
+Que je suis malheureuse !
+Quelle perfidie !
+
+-*who_mademoisellemousset
+Que vous est-il arrivé qui puisse vous causer un tel déplaisir ?
+
+-*who_mademoiselledekermorin
+J'en mourrai, Mademoiselle, je ne survivrai point à cet affront-là, ah, ah, ah, ah.
+
+-*who_lorange
+Écoutez, il est fâcheux que cela arrive en pleine Foire, la chose ne sera pas secrète ; vous avez raison : mais au bout du compte…
+
+-*who_mademoiselledekermorin
+Ah, ah , ah, ah, ah.
+
+-*who_mademoisellemousset
+Ce sont des vapeurs, assurément.
+
+-*who_lorange
+Oui, elle est folle, sans contredit, elle a les yeux hagards.
+
+-*who_mademoiselledekermorin
+Ah, ah , ah, ah, ah.
+
+-*who_lorange
+Maugrebleu de la masque, avec sa folie.
+
+-*who_mademoisellemousset
+Je ne sais qu'en croire.
+
+-*who_mademoiselledekermorin
+Où suis-je ?
+Qu'ai-je dit ?
+Qu'ai-je fait ?
+Ah !
+Que j'ai souffert !
+
+-*who_mademoisellemousset
+Je le crois bien.
+Vous êtes à la Foire, Mademoiselle.
+
+-*who_mademoiselledekermorin
+Oui, je m'en souviens, je sors de Laigu.
+
+-*who_lorange
+Et vous m'avez donné un soufflet.
+
+-*who_mademoiselledekermorin
+Je vous demande pardon, je suis si troublée.
+Si tu savais, Mademoiselle Mousset, l'indignité que ce vieux singe de Farfadel vient de me faire ?
+
+-*who_mademoisellemousset
+Vous n'étiez pas seule pour lui chez Laigu, il y avait un autre rendez-vous que le vôtre.
+
+-*who_mademoiselledekermorin
+Je l'y attendais depuis une heure ; il y est venu, j'ai été au-devant de lui, il n'a pas fait semblant de me voir, Mademoiselle Mousset ; et il est allé faire mille caresses en ma présence à une guenon, qui ne le regardait presque pas, seulement.
+
+-*who_lorange
+Il fallait lui donner le soufflet que j'ai eu, cela eût été dans l'ordre.
+
+-*who_mademoiselledekermorin
+Si je n'avais appréhendé l'éclat…
+
+-*who_mademoisellemousset
+Mademoiselle de Kermonin est une personne fort prudente.
+
+-*who_lorange
+Et fort vaporeuse, de par tous les diables.
+
+-*who_mademoiselledekermorin
+Il faut qu'il ait perdu l'esprit, car cette personne-là n'est rien moins que jolie.
+
+-*who_mademoisellemousset
+C'est une fille qu'il va épouser, je vous en avertis
+
+-*who_mademoiselledekermorin
+Qu'il va épouser !
+Oh !
+Je l'en défie, je le tuerai, je le mangerai, je l'assommerai, je le poignarderai, je le dévisagerai, je l'étranglerai.
+Ah !
+Je n'en puis plus, je ne saurais parler.
+
+-*who_lorange
+Il ne fait pas bon ici.
+
+-*who_mademoisellemousset
+Ne me quittez pas, Monsieur l'Arménien, il faut bien finir notre affaire.
+
+-*who_mademoiselledekermorin
+Il en épouserait une autre que moi ?
+
+-*who_mademoisellemousset
+Est-ce que vous avez ensemble quelques engagements qui l'en empêchent.
+
+-*who_mademoiselledekermorin
+Si nous en avons, Mademoiselle Mousset ?
+Il y a six semaines qu'il me rend visite ?
+Il a mon portrait en miniature, et j'ai le sien en cire dans ma chambre.
+
+-*who_lorange
+Un portrait en cire ?
+Ce ne sont pas là des bagatelles.
+
+-*who_mademoiselledekermorin
+Il faut que ru m'aides à rompre son mariage.
+
+-*who_mademoisellemousset
+De tour mon cœur ; que pourrions-nous faire ?
+
+**** *book_ *id_I21 *act_I *date_1697
+
+-*who_marotte
+Bonjour, Mademoiselle Mousset.
+
+-*who_mademoisellemousset
+Votre servante, Mademoiselle Marotte.
+
+-*who_marotte
+N'avez-vous point vu Monsieur Farfadel aujourd'hui ?
+
+-*who_mademoiselledekermorin
+Monsieur Farfadel !
+Que lui veut-elle ?
+
+-*who_mademoisellemousset
+C'est encore quelqu'une de vos rivales, sur ma parole.
+
+-*who_lorange
+Parbleu, la Foire sera bonne, les marchandes s'amassent.
+
+-*who_marotte
+Il avait gagé une discrétion contre moi, qu'il serait ici le premier, il a perdu, comme vous voyez.
+
+-*who_mademoiselledekermorin
+Fais jaser cette petite créature-là, Mademoiselle Mousset.
+
+-*who_mademoisellemousset
+Ce ne sera pas bien difficile.
+
+-*who_marotte
+Il perd exprès, pour me donner ma Foire, il fait les choses de bonne grâce.
+
+-*who_mademoisellemousset
+Vous avez d'étroites liaisons avec lui, apparemment ?
+
+-*who_marotte
+Oh, tant !
+Il y a près d'un mois que nous nous connaissons.
+Il donne une pension à ma tante, une commission à mon oncle ; il a mis mon frère au Collège, et nous espérons qu'il m'épousera.
+
+-*who_lorange
+C'est un terrible épouseur que cet homme-là.
+
+-*who_mademoiselledekermorin
+Le scélérat !
+Oh j'en serai vengée.
+
+-*who_mademoisellemousset
+Il vous rend de fréquentes visites, sans doute !
+
+-*who_marotte
+Pas si fréquentes qu'il voudrait.
+
+-*who_mademoisellemousset
+Qui peut l'en empêcher ?
+Il fait tant de bien à la famille.
+
+-*who_marotte
+Il garde des mesures à cause d'une certaine femme qu'il ne veut pas tout à fait désespérer, et qu'il quitte pour moi.
+Oh, Monsieur Farfadel a beaucoup de conduite, au moins, c'est un fort honnête homme.
+
+-*who_lorange
+Il en a de toutes les façons.
+
+-*who_mademoiselledekermorin
+C'est un monstre qu'il faut étouffer ; je suis dans une colère…
+
+-*who_lorange
+Prenez garde d'étouffer, vous-même.
+
+-*who_mademoisellemousset
+Et qui est cette personne qu'il vous sacrifie !
+
+-*who_marotte
+Une petite folle, une petite Bretonne, qui a des vapeurs à chaque bout de champ.
+
+-*who_mademoiselledekermorin
+Comment ?
+
+-*who_marotte
+Il dit qu'elle est si ridicule, si ridicule ; il ne peut plus la souffrir depuis qu'il m'a vue.
+
+-*who_mademoiselledekermorin
+Quelle petite impertinente est-ce là ?
+
+-*who_lorange
+Gare les vapeurs.
+
+-*who_mademoiselledekermorin
+De qui parlez-vous, s'il vous plaît, ma mie ?
+
+-*who_marotte
+Hélas !
+C'est peut-être de vous, Madame.
+Je ne connais pas la petite bretonne : mais vous prenez feu d'une manière…
+
+-*who_mademoisellemousset
+C'est elle-même : vous ne songez point à ce que vous dites.
+
+-*who_mademoiselledekermorin
+Vous êtes une insolente.
+
+-*who_lorange
+Hé !
+Mademoiselle.
+
+-*who_marotte
+Je vous le disais bien, qu'elle était folle.
+
+-*who_mademoisellemousset
+Hé, paix.
+
+-*who_mademoiselledekermorin
+Ah !
+Je vous apprendrai à parler.
+
+-*who_lorange
+Hé, la, la, la, en pleine Foire ?
+
+-*who_marotte
+Et moi, je vous montrerai à vous taire.
+
+-*who_mademoiselledekermorin
+Vous me ferez taire, moi ?
+Vous me ferez taire ?
+Oh, je vous en défie.
+
+-*who_mademoisellemousset
+Ne prenez pas garde à ce qu'elle dit.
+
+-*who_mademoiselledekermorin
+Une petite Bourgeoise de Paris.
+
+-*who_lorange
+Doucement.
+
+-*who_marotte
+Une petite grisette de Bretagne.
+
+-*who_mademoiselledekermorin
+Comment, Grisette ?
+Ah, quel outrage !
+
+**** *book_ *id_I22 *act_I *date_1697
+
+-*who_lebreton
+Notre petit opéra est disposé à faire merveilles.
+Je viens maintenant savoir…
+
+-*who_mademoiselledekermorin
+Des Grisettes dans la maison de Kermonin !
+Je ne sais qui me tient…
+
+-*who_mademoisellemousset
+Hé, Mademoiselle de grâce.
+
+-*who_lebreton
+Je ne me trompe point, c'est elle-même.
+Ah !
+Carogne, comme te voilà brave !
+
+-*who_mademoiselledekermorin
+Ah, juste Ciel !
+Quelle rencontre !
+
+-*who_mademoisellemousset
+Comment donc, qu'est-ce que cela signifie ?
+
+-*who_lorange
+Des carognes dans la maison de Kermonin !
+Vous n'y songez pas, Monsieur le Breton.
+
+-*who_lebreton
+Que diable voulez-vous dire avec votre Kermonin : c'est ma sœur Nicole, qu'il y a quatre ans que je n'ai vue.
+
+-*who_mademoisellemousset
+Sa sœur Nicole ?
+
+-*who_mademoiselledekermorin
+Vous me perdez, mon frère.
+
+-*who_lebreton
+Bon, je te perds, je te retrouve, au contraire, et en bon état, même : j'en suis bien aise.
+Hé, comment diable es-tu fait fortune ?
+
+-*who_marotte
+Les petites Bourgeoises de Paris valent bien certaines personnes de qualité, Mademoiselle Nicole.
+
+-*who_mademoisellemousset
+Oh, point d'invectives, Mademoiselle Marotte, vous deviendrez aussi fille de qualité, quelque jour : l'amour donne des lettres de noblesse.
+
+-*who_lebreton
+Ces Dames ont quelque dispute ensemble ?
+
+-*who_lorange
+Elles n'en étaient encore qu'aux injures, elles s'allaient mettre aux soufflets quand tu es arrivé.
+
+-*who_lebreton
+Que je ne trouble point votre conversation, Mesdames, je ne prétends point vous déranger en aucune manière.
+
+-*who_mademoisellemousset
+Non, s'il vous plaît, que les querelles finissent.
+Elles sont rivales, c'est ce qui les brouille : mais on les trahit l'une et l'autre, il faut que la ressemblance de leur destinée les réconcilie.
+
+-*who_marotte
+Monsieur Farfadel me tromperait aussi ?
+
+-*who_mademoisellemousset
+Il en trompe bien d'autres.
+
+-*who_marotte
+Ah !
+Le vieux coquin.
+
+-*who_lebreton
+Qu'est-ce que c'est que ce Monsieur Farfadel ?
+
+-*who_mademoisellemousset
+C'est notre animal amphibie.
+
+-*who_lebreton
+Je viens de le rencontrer en venant ici, il se promène dans l'autre allée avec Angélique, mon maître les suit pas à pas, et ne les perds pas de vue.
+
+**** *book_ *id_I23 *act_I *date_1697
+
+-*who_urbine
+Je reviens vous trouver, Madame, vous me paraissez une personne tant gracieuse.
+
+-*who_lechevalier
+Nous voilà retournés de chez la Comtesse.
+Ton valet, Mademoiselle Mousset.
+Salut, Monsieur l'Arménien.
+Dieu te garde, Breton ; Où est ton maître ?
+Bonjour, la belle enfant.
+Votre très humble serviteur, ma Reine.
+En gros et en détail, je baise les mains à la compagnie.
+
+-*who_mademoisellemousset
+La compagnie est bien votre servante, Monsieur.
+
+-*who_lechevalier
+La voilà bonne.
+Qui la rassemble ?
+Est-ce l'estime, l'amitié, l'intérêt, le plaisir, les affaires, la conversation, ou le hasard seul qui s'en mêle ?
+Hé, donc ?
+
+-*who_lorange
+Oh, parbleu, le hasard y a plus de part que le reste.
+Et voilà Mademoiselle Nicole, qui est la sœur de Monsieur le Breton, par exemple.
+
+-*who_lechevalier
+Comment, sa sœur ?
+
+-*who_lebreton
+Oui, Monsieur, je l'ai rencontrée par hasard ; elle a fait fortune par aventure, il se trouve, par accident, que ces deux Princesses ont le même adorateur de leurs charmes.
+Ce galant homme, par cas fortuit, est d'autre part rival de mon maître, nous voudrions bien le berner de dessein formé, et comme le hasard vous conduit ici, vous serez, si vous voulez, de la partie.
+
+-*who_lechevalier
+Sandis, très plus que volontiers, nous en prendrons le plaisir.
+Quel est l'objet du bernement ?
+
+-*who_lorange
+Un vieux Seigneur du quartier saint Roch, qu'on appelle Monsieur Farfadel dans le monde.
+
+-*who_lechevalier
+Votre Farfadel, ma sœur !
+
+-*who_urbine
+Le scélérat !
+Il est sans distinction comme sans bonne foi.
+
+-*who_mademoisellemousset
+Ce ne sont pas encore là toutes vos rivales, j'en connais bien d'autres.
+
+-*who_lechevalier
+Oh, cadedis, vous la danserez tout de long, Monsieur de la Farfadelière.
+
+-*who_lebreton
+Vous connaissez ce Gentilhomme-là, Monsieur ?
+
+-*who_lechevalier
+Et ma sœur Urbine aussi, par tous les diables.
+Donnez les mains, Mesdames ; augmentation de rivalités, surcroît de consolation ou de colère.
+Quoi !
+Vous en soupirez ?
+Allons, ferme, point de faiblesse, force d'esprit, résolution : vos causes sont pareilles ; en attendant qu'on le pende en pleine Grève, il faut le berner en pleine Foire.
+
+-*who_urbine
+Il ne sera rien que je ne fasse pour être vengée de ce misérable.
+
+-*who_mademoiselledekermorin
+Et pour moi, je l'étranglerai bien toute seule, il n'y a qu'à me laisser faire.
+
+-*who_lechevalier
+La sœur Nicole est vive, Monsieur le Breton.
+Et la petite personne, qu'en pense-t-elle ?
+
+-*who_marotte
+Ma tante n'aura plus de pension, elle sera bien fâchée ; mais il n'importe.
+
+-*who_mademoisellemousset
+De quelle manière nous y prendrons-nous ?
+
+-*who_lorange
+Veut-t on me donner la conduite de l'affaire ?
+
+-*who_lechevalier
+Monsieur l'Arménien paraît entendu.
+Déférez à ses conseils, Mesdames.
+
+-*who_mademoiselledekermorin
+Je m'y soumets entièrement, qu'il parle.
+
+-*who_urbine
+Je lui donne la carte blanche, qu'il fasse.
+
+-*who_marotte
+Il n'a qu'à dire, je ferai ce qu'il voudra.
+
+-*who_lorange
+Je réglerai vos rôles, ne vous mettez pas en peine, vous nous aiderez d'un petit opéra de votre façon, Monsieur le Breton ?
+
+-*who_lebreton
+Tout est disposé pour cela, Monsieur l'Arménien.
+
+-*who_lorange
+Cela sera le mieux du monde ; et j'y joindrai, moi, de mon côté, une espèce de cercle de mon imagination… Oui… Justement… Il n'est rien tel que de mêler les divertissements de la Foire.
+
+-*who_lebreton
+Assurément.
+Je vais achever de préparer le mien.
+Quand vous serez prêt, vous aurez soin…
+
+-*who_lorange
+J'aurai bientôt fait, dépêchez.
+Vous ne demeurez pas loin d'ici, Mademoiselle Nicole ?
+
+-*who_mademoiselledekermorin
+À vingt pas, dans la rue de Tournon.
+
+-*who_lorange
+Dans la rue de Tournon ?
+Voilà qui est à merveilles.
+Allons chez vous nous concerter, seulement.
+
+-*who_urbine
+Mais il serait besoin…
+
+-*who_lorange
+Allons, vous dis-je, et me laissez faire, je ne gâterai rien, sur ma parole.
+
+-*who_mademoisellemousset
+Vous êtes en bonne main, laissez-vous conduire.
+
+**** *book_ *id_I24 *act_I *date_1697
+
+-*who_lechevalier
+Allez et revenez, je vous attends, Mesdames.
+Cet Arménien me semble alerte et de bon esprit, il devrait être de chez nous.
+
+-*who_mademoisellemousset
+Oui, l'esprit et le savoir-faire sont l'apanage des Gascons : vous avez raison.
+
+-*who_lechevalier
+N'est-il pas vrai ?
+Oh, çà, ma chère enfant, pendant que l'Arménien va concerter avec ces Dames pour leurs affaires, concertons-nous un peu pour la nôtre.
+Elle est lente à venir, cette Dame que nous attendons, et l'amour ne la pointe pas assez, à ce qu'il me semble.
+
+-*who_mademoisellemousset
+Elle ne saurait tarder beaucoup encore.
+
+-*who_lechevalier
+Je me suis sous main informé d'elle, et je n'ai rien appris qui me flatte.
+Elle est riche, d'accord ; mais très peu donnante : mauvaise qualité, ma chère, et que nous n'aimons pas, nous autres.
+Vive la libéralité ; sandis, c'est la folie de la nation.
+
+-*who_mademoisellemousset
+Il faut se voir, et convenir de ses faits avant toutes choses.
+
+-*who_lechevalier
+Je ne suis pas fort épouseur, moi, de mon naturel ; et sur le pied que sont aujourd'hui la plupart des femmes, la qualité de mari me semble la moins honorante de toutes.
+Écuyer, Gentilhomme, Intendant, Économe, le bon ami de maison, avec de bons appointements et quelques gratifications, cela vaut mieux.
+Faisons en sorte que je lui sois sur ce pied-là, Mademoiselle Mousset.
+
+-*who_mademoisellemousset
+Vous vous expliquerez ensemble, elle vous aime ; et la précaution qu'elle prend de marier sa fille, fait assez voir qu'elle a dessein...
+
+-*who_lechevalier
+Elle marie sa fille Angélique ?
+
+-*who_mademoisellemousset
+Et à Monsieur Farfadel, même ; c'est elle dont votre ami Clitandre est amoureux.
+
+-*who_lechevalier
+À Monsieur Farfadel !
+Quoi !
+Farfadel ici, Farfadel là, Farfadel partout ?
+Quel diable d'homme !
+Il épousera tout Paris, si la Police ne s'en mêle.
+
+-*who_mademoisellemousset
+Voici la Dame.
+
+**** *book_ *id_I25 *act_I *date_1697
+
+-*who_madamebardoux
+Bonjour, Mademoiselle Mousset.
+
+-*who_mademoisellemousset
+Votre servante, Madame.
+
+-*who_madamebardoux
+Je vous ai fait attendre, Monsieur le Chevalier : mais j'ai mes heures marquées, et je me suis fais une règle de vie, que la raison et la bienséance ne me permettent pas de déranger.
+
+-*who_lechevalier
+Je me donne au diable, madame, si je sais rien de plus louable que cette régularité dont vous faites profession.
+Pudeur sur le visage, sages discours sur les lèvres, politique dans la conduite, déguisement dans l'amour-propre, simplicité dans la coiffure, modestie dans l'ajustement ; vous êtes un modèle accompli de perfections morales, ou la peste m'étouffe.
+
+-*who_madamebardoux
+Je tâche de me conserver la réputation que les premières années de mon veuvage m'ont acquise.
+
+-*who_lechevalier
+Et vous êtes femme d'esprit, il ne faut pas perdre en un jour le fruit de dix ans de contrainte.
+
+-*who_madamebardoux
+La démarche que je ais aujourd'hui pourtant de vous donner un rendez-vous à la Foire…
+
+-*who_lechevalier
+Cadedis, que vous l'entendez.
+La Foire est bien choisie, Madame, vous n'êtes pas connue des personnes qui la fréquentent, on ne vous soupçonne point d'y venir ; et tel vous y verrait en face, qui se donnerait au diable que ce n'est pas vous.
+
+-*who_mademoisellemousset
+Monsieur le Chevalier a raison, Madame ; vous hasardez moins à la Foire, qu'en lieu du monde.
+
+-*who_madamebardoux
+J'ai dit chez moi que j'allais visiter les prisonniers de l'Abbaye.
+
+-*who_mademoisellemousset
+Cela est fort prudent ; et supposez même qu'on vous vît ici, ne pourriez-vous pas y être venue faire provision de confitures pour les malades ?
+
+-*who_lechevalier
+Femme de jugement, autre ressource, excellent prétexte, Madame !
+
+-*who_madamebardoux
+Et avec toutes ces précautions, Monsieur le Chevalier, si l'on me voit avec vous, je hasarde étrangement ma réputation.
+
+-*who_lechevalier
+Comment, votre réputation ?
+Hé donc, Est-ce que dans le temps où nous sommes, un joli homme déshonore les femmes, quelques régulières qu'elles paraissent ?
+Presque toutes sont des coquettes, on en convient, on leur pardonnez comme défaut de tempérament, et ce n'est que leur bon ou leur mauvais choix qui fait qu'on les méprise, ou qu'on les estime.
+
+-*who_madamebardoux
+Qu'il a d'esprit, Mademoiselle Mousset, qu'il a d'esprit, et qu'il s'énonce bien !
+Ah, le joli homme !
+
+-*who_mademoisellemousset
+Il n'y a point de régularité qui puisse tenir là contre, n'est-il pas vrai ?
+
+-*who_lechevalier
+Or sus, venons au fait, et ne barguignons point, Madame : vous avez du goût pour moi, l'on me l'a dit.
+
+-*who_madamebardoux
+La vertu la plus austère, Monsieur le Chevalier, n'est point à l'épreuve de certains mérites triomphants ; et je veux bien vous avouer que le vôtre a fait sur mon cœur…
+
+-*who_lechevalier
+Oui, j'en ai, j'en conviens ; passons…
+
+-*who_mademoisellemousset
+Voilà un gentilhomme qui se connaît, Madame.
+
+-*who_madamebardoux
+Et trop, peut-être.
+
+-*who_lechevalier
+Vous avez donc du goût pour moi, Madame, et j'en ai pour vous, Dieu me damne, tout ce qu'on en saurait avoir ; mais sur quel pied nous aimons-nous ?
+Épouserons-nous, ou non ?
+Décidez, vous n'avez qu'à parler.
+
+-*who_madamebardoux
+Je ne crois pas, Monsieur, que vous pensiez que je puisse avoir d'autres vues que celles…
+
+-*who_lechevalier
+Je m'explique, Madame, entendons-nous, de grâces.
+Pour épouser, il faut connaître ?
+Et nous ne nous connaissons pas encore.
+En attendant le contrat de mariage, Ne peut-on faire un bail de cœur à certaines clauses ?
+
+-*who_madamebardoux
+Une personne comme moi ne devrait pas être exposée à entendre des discours si peu respectueux…
+
+-*who_lechevalier
+Peu respectueux !
+Vous vous cabrez, vous prenez mal les choses ; vertueuse et régulière comme vous êtes, je veux donner le temps à votre pudeur de se résoudre à convoler en secondes noces ; et par excès de régularité, vous voulez précipiter les événements.
+Hé bien, soit, parlons de mariage, et supprimons le bail de cœur ; c'est une espèce de contrat qui est pourtant bien à la mode.
+
+-*who_madamebardoux
+Si vous avez pour moi les sentiments que je souhaite, vous pouvez compter, Monsieur…
+
+**** *book_ *id_I26 *act_I *date_1697
+
+-*who_clitandre
+Ah !
+Ma chère Mademoiselle Mousset ; je me meurs d'amour, de rage, et de jalousie.
+Un indigne rival…
+
+-*who_lechevalier
+Serviteur à l'agonisant ; je veux te ressusciter, mon ami.
+
+-*who_clitandre
+Ah !
+Mon pauvre Chevalier, tu auras bien de la peine.
+
+-*who_lechevalier
+Regarde cette Dame, ce sera un antidote admirable pour toi, sur ma parole.
+
+-*who_clitandre
+La mère d'Angélique à la Foire !
+Par quelle aventure…
+
+-*who_madamebardoux
+Tout se terminera bien, je vais avertir nos gens, donnez-vous patience.
+
+**** *book_ *id_I27 *act_I *date_1697
+
+-*who_madamebardoux
+Quel est ce Gentilhomme, Monsieur le Chevalier ?
+
+-*who_lechevalier
+C'est un de mes amis, Madame, qui voudrait bien être votre gendre.
+
+-*who_clitandre
+Si j'osais espérer, Madame…
+
+-*who_madamebardoux
+Mon gendre, Monsieur !
+Cela ne se peut pas.
+
+-*who_clitandre
+Ah, juste Ciel !
+
+-*who_lechevalier
+Je rendrai la chose possible.
+
+-*who_madamebardoux
+Je suis engagée de parole avec un autre, et le contrat doit être signé demain.
+
+-*who_lechevalier
+Monsieur Farfadel, je le sais.
+Il ne me connaît pas ; mais je le connais, et je vous le ferai connaître.
+
+**** *book_ *id_I28 *act_I *date_1697
+
+-*who_monsieurfarfadel
+Quoi, dans les termes où nous en sommes, vous pouvez vous défendre…
+
+-*who_angelique
+Non, Monsieur, ni présents, ni régal, je ne recevrai rien de vous, s'il vous plaît.
+
+-*who_lechevalier
+Hé !
+Le voilà, ce galant homme.
+
+-*who_madamebardoux
+Mon gendre et ma fille sont ici !
+
+-*who_angelique
+Ah, juste Ciel !
+Ma mère !
+
+-*who_monsieurfarfadel
+Vous nous surprenez dans une espèce de tête à tête, que votre aveu rend permis, Madame.
+
+-*who_madamebardoux
+Je vous croyais au Palais, ma fille ; par quel hasard…
+
+-*who_angelique
+Vous deviez aller aux prisonniers, Madame ; par quelle aventure…
+
+-*who_madamebardoux
+Oui, mais j'ai eu mes raisons pour…
+
+-*who_angelique
+Nous avons changé de sentiments l'une et l'autre, Madame, il n'y a rien de plus naturel ; et vous ne devez point blâmer en moi ce que vous avez fait vous-même.
+
+-*who_madamebardoux
+Il y a ici quelque chose que je n'entends pas bien.
+
+-*who_lechevalier
+Ce Monsieur Farfadel est dangereux, madame, je vous le garantis ; couru des Belles, et elles l'attraperont à la fin.
+
+-*who_clitandre
+Que deviendra tout ceci ?
+
+**** *book_ *id_I29 *act_I *date_1697
+
+-*who_lebreton
+Messieurs, le grand Opéra de la foire Saint-Germain ?
+C'est ici, Messieurs, entrez vite, Mesdames.
+
+-*who_clitandre
+C'est Breton, c'est lui-même.
+
+-*who_lechevalier
+Ne dites mot, et laissez faire.
+
+-*who_lorange
+Voyez ici, Messieurs le Cercle nouveau, des Figures parlantes, aussi hautes que le naturel ; voyez, ici, Messieurs.
+
+-*who_lebreton
+Le Triomphe de Vulcain !
+Messieurs ?
+Le voilà qui va commencer ; entrez vite.
+
+-*who_lechevalier
+Le Triomphe de Vulcain !
+Cadedis, il faut donner régal aux Dames.
+Monsieur Farfadel, le Triomphe de Vulcain, c'est un prélude pour vos noces.
+
+-*who_monsieurfarfadel
+Je ne demande pas mieux que de faire les honneurs de la Foire.
+
+-*who_lechevalier
+Vous les ferez, et très bien même, j'en donne parole.
+Allons, Mesdames.
+
+-*who_clitandre
+Où tout cela nous mènera-t-il ?
+
+-*who_lechevalier
+Silence.
+
+-*who_madamebardoux
+Je ne suis pas femme de spectacle : mais la Foire, et la compagnie…
+
+-*who_lechevalier
+De la complaisance, Madame.
+Qu'on ne nous fasse pas attendre ?
+
+-*who_lebreton
+C'est moi qui chante le Prologue.
+Allons Messieurs de l'Orchestre, un petit prélude.
+
+-*who_lebreton
+Ô que la Foire Saint-Germain
+Grossit la Cour de Vulcain.
+
+**** *book_ *id_I30 *act_I *date_1697
+
+-*who_mademoisellemousset
+Hé, à quoi songez-vous donc, Monsieur du Prologue, de commencer ainsi sans avertir vos camarades ?
+
+-*who_lebreton
+Qu'est-ce qu'il y a pour faire tant de bruit ?
+À qui tient-il qu'on ne continue ?
+
+-*who_mademoisellemousset
+Hé, le moyen ?
+Mademoiselle Madelon est enfermée dans sa loge avec ce trésorier de la Douane, la servante a emporté la clef ; je m'en vais chercher un Serrurier pour leur faire ouvrir.
+
+-*who_lebreton
+Maugrébleu de ces Trésoriers, Ils font toujours faire quelque impertinence à nos filles d'Opéra.
+Nous vous demandons bien pardon, Messieurs.
+
+-*who_lorange
+Si ces Messieurs veulent, en attendant, pour ne point perdre de temps, on montrera le cercle.
+
+-*who_farfadel
+Le cercle ?
+Oui, voyons ce Cercle, c'est ma folie, à moi, que les Cercles.
+
+-*who_lorange
+Vous serez surpris de celui-ci, je vous en réponds.
+
+-*who_farfadel
+Comment, c'est moi, je pense !
+
+-*who_clitandre
+La figure de Monsieur Farfadel !
+
+-*who_lechevalier
+Oui, par la sandis, c'est lui-même.
+
+-*who_madamebardoux
+Que veut dire ceci ?
+
+-*who_lechevalier
+Vous avez un gendre de distinction, Madame ; il brille à la foire.
+
+-*who_farfadel
+Monsieur le montreur de Cercle, je vous apprendrai…
+
+-*who_lorange
+Je ne suis que le garçon, Monsieur, c'est une petite Bretonne qui est l'Entrepreneuse.
+
+-*who_farfadel
+Une petite Bretonne ?
+
+-*who_lorange
+Oui, Mademoiselle de Kermonin : vous connaissez cela ?
+
+-*who_farfadel
+On se moque de moi, je pense ; écoutez, je prendrai mon sérieux.
+
+-*who_mademoiselledekermorin
+Tu croyais donc me jouer impunément, vieux singe ?
+
+-*who_farfadel
+Quel contretemps !
+
+-*who_urbine
+Tu ne t'échapperas pas de moi, scélérat.
+
+-*who_farfadel
+Encore ?
+Ah, je suis perdu !
+
+-*who_marotte
+Oh, je te dévisagerai, moi ; je suis aussi méchante que les autres.
+
+-*who_farfadel
+À l'aide !
+Elles ont le diable au corps, il en pleut, je pense.
+
+-*who_lorange
+Ce sont des figures parlantes que celles-là.
+
+-*who_mademoisellemousset
+Et agissantes même.
+Voilà un beau Cercle !
+
+-*who_madamebardoux
+Cela passe la raillerie, Monsieur le Chevalier.
+
+-*who_lechevalier
+Ce n'est point raillerie ; ce sont réalités, madame.
+
+-*who_madamebardoux
+Comment ?
+
+-*who_lechevalier
+Allons, chantez, Monsieur de Farfadel, vous êtes pris ; chantez, vous dis-je, où je vous fais mener au Châtelet par cette escouade de femmes.
+
+-*who_madamebardoux
+Expliquez-moi donc ce mystère ?
+
+-*who_lechevalier
+Voilà ma sœur Urbine, Madame, à qui ce faquin a fait une promesse de mariage.
+
+-*who_monsieurfarfadel
+Hé, je suis tout prêt à l'épouser, tirez-moi d'affaires.
+
+-*who_lechevalier
+Je le prends sous ma protection ; voilà qui est fini.
+
+-*who_mademoiselledekermoninetmarotte
+Comment, Monsieur ?
+
+-*who_lechevalier
+Point de bruit, Nicole ; doucement, Grisette : il nous revient un petit Opéra qu'il ne faut pas perdre ; Mais réglons auparavant nos petites affaires.
+Donnez votre sœur Nicole à l'Arménien, Breton, Clitandre aura soin de leur fortune.
+Vous épouserez la Grisette, vous ; le beau-frère Farfadel continuera la pension de la tante, et il vous fera sous-fermier au premier jour.
+
+-*who_lebreton
+Oui, mais sans conséquence, au moins.
+
+-*who_monsieurfarfadel
+Ils s'entendaient tous comme larrons en Foire.
+
+-*who_lechevalier
+De vous à moi, nous sommes à peu près d'accord, Madame ; donnez Angélique à mon ami, vous m'en trouverez plus traitable.
+
+-*who_mademoisellemousset
+Et moi, qui ne me marie point, je dresserai les articles.
+
+-*who_madamebardoux
+Et moi, Monsieur le Chevalier, je ferai tout ce que vous me conseillerez de faire.
+
+-*who_clitandre
+Ah !
+Madame.
+
+-*who_lechevalier
+Hé, trêve de remerciements.
+Chose ennuyeuse, la Foire Saint-Germain est aujourd'hui pour nous la Foire aux mariages.
+Voyons le petit Opéra, et nous irons tous souper ensemble.
+
+**** *book_ *id_I31 *act_I *date_1697
+
+-*who_lebreton
+Ô que la Foire Saint-Germain
+Grossit la Cour de Vulcain !
+L'Amour y met en étalage
+Ce que son art a de plus fin.
+Les présents y sont en usage :
+Et telle femme y vient fort sage,
+Qui l'est bien moins le lendemain.
+Ô que la Foire Saint-Germain
+Grossit la Cour de Vulcain !
+
+-*who_tous
+Amants sans délicatesses,
+Qui changez soir et matin,
+Venez prendre des maîtresses
+À la Foire Saint-Germain.
+Mille beautés, peu tigresses
+Font ici commerce de tendresses.
+En amour
+Les marchés n'y durent qu'un jour.
+Chaque saison a sa Divinité.
+L'Hiver est soumis à Borée,
+Au Printemps, Flore est adorée,
+Cérès domine sur l'Été,
+Et Bacchus en Automne est le Dieu respecté.
+Dans l'Empire de l'hyménée
+Vulcain règne toute l'année.
+
+-*who_lebreton
+Le soir aux chandelles
+Tout brille en ces lieux.
+Souvent les moins belles
+Y charment les yeux.
+Un cœur prompt à se rendre
+Peut s'y laisser prendre :
+Mais sitôt qu'il est jour,
+Adieu le charme de l'amour.
+
+-*who_tous
+Vive l'amour, vive la bonne chère,
+Est-il rien qui soit plus doux ?
+Bannissons tous
+Ces vieux hiboux,
+Ces loups-garous,
+Ils sont jaloux
+De nous voir faire
+Ce qu'ils faisaient avant nous.
+Avec Bacchus et l'Amour et sa mère,
+Il est un temps pour être fous.
+Vive l'amour, vive la bonne chère,
+Est-il rien qui soit plus doux ?
+
+-*who_lebreton
+L'amour est un Dieu commode,
+Qui s'est fait Marchand Forain.
+La marchandise à la mode,
+Se prend dans son magasin ;
+Et si l'on ne s'en accommode,
+On peut le changer le lendemain.
+Quand l'Amour donne en partage
+Des attraits, des grâces à foison,
+On en fait un doux usage
+Par plaisir et par raison :
+Mais, qui vend au Printemps de l'âge,
+Achète dans l'arrière saison.
+Que l'emplette est bonne et belle
+D'une aimable fille de quinze ans ;
+Mais si l'on la veut fidèle,
+Il faut la chercher longtemps ;
+Marchandise de ce modèle,
+Ne se trouve pas chez nos Marchands.
+Boutique la mieux garnie,
+N'est pas celle où vont plus de gens ;
+Pour attirer compagnie,
+Il faut de certains talents.
+Marchande coquette et jolie,
+N'a jamais eu faute de chalands.
+Au seul bonheur de vous plaire,
+Nous bornons nos vœux et nos talents ;
+À cette importante affaire,
+Nous donnons tous nos moments.
+Si nous pouvions encore mieux faire,
+Nous serions heureux, et vous contents.

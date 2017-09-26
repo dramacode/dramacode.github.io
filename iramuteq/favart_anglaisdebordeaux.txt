@@ -1,0 +1,2056 @@
+
+
+**** *book_ *id_I01 *act_I *date_1763
+
+-*who_lamarquise
+Je vous renonce pour mon frère.
+Toujours pensif, rien ne vous rit !
+Vos prisonniers anglais vous ont gâté l'esprit ;
+Vous n'êtes occupé que du soin de leur plaire ;
+Votre Milord Brumton vous rend atrabilaire.
+
+-*who_darmant
+Ma sour, je suis piqué ; mais piqué jusqu'au vif ;
+L'amitié du Milord me serait précieuse :
+En tout, pour la gagner, on me voit attentif ;
+Mais sa fierté superbe et dédaigneuse
+Rejette mes secours, s'indigne de mes soins,
+Il aime mieux s'exposer aux besoins,
+Rendre sa fille malheureuse :
+Il croit son honneur avili,
+S'il accepte un bienfait des mains d'un ennemi.
+
+-*who_lamarquise
+Mais, mon frère, en cherchant à lui rendre service,
+Ne songeriez-vous point à sa fille Clarice ?
+Cette anglaise est charmante !
+
+-*who_darmant
+      Épargnez-moi, ma sour,
+Et ne déchirez point le voile de mon cour.
+Si l'on me soupçonnait  il est vrai, je l'adore.
+Je veux me le cacher, je veux qu'elle l'ignore :
+L'amour dégraderoit la générosité.
+
+-*who_lamarquise
+Qui vous fait donc agir ?
+
+-*who_darmant
+      L'humanité.
+J'ai plongé dans la peine une noble famille.
+Qu'une guerre fatale entraîne de regrets !
+Brumton part de Dublin pour Londres, avec sa fille ;
+Il embarque avec lui ses plus riches effets.
+La Frégate que je commande, croisant sur les côtes d'Irlande,
+Rencontre son vaisseau, l'atteint et le combat.
+Brumton, qu'aucun danger n'alarme,
+Soutient notre abordage et montre avec éclat
+L'activité d'un chef, et l'ardeur d'un soldat ;
+Il fond sur moi, me blesse et ma main le désarme ;
+Il veut braver la mort, je prends soin de ses jours.
+À l'Ennemi vaincu, l'honneur doit des secours.
+
+-*who_lamarquise
+Fort bien, mon frère.
+
+-*who_darmant
+      Enfin, nous avons l'avantage,
+Son vaisseau coule à fond, et l'on n'a que le temps
+De sauver sur mon bord les gens de l'équipage.
+Je reviens à Bordeaux, où mes soins vigilants
+De ces infortunés soulagent la misère ;
+Mais Brumton se refuse à mes empressements.
+
+-*who_lamarquise
+Moi, j'aime assez ce caractère.
+Il est brusque... mais il est franc.
+Sa fierté qui paraît choquer la politesse,
+Relève en lui l'air de noblesse
+D'an homme qui soutient son rang.
+Si son maintien est froid... ses yeux ont de la flamme ;
+Et je lui crois une belle âme.
+Il n'a pas quarante ans cet homme ?
+
+-*who_darmant
+      Tout au plus.
+
+-*who_lamarquise
+Devenez son ami.
+
+-*who_darmant
+      Mes soins sont superflus :
+Ses principes outrés d'honneur patriotique,
+Sa façon de penser qu'il croit Philosophique,
+Sa haine contre les François,
+Tout met une barrière entre nous pour jamais.
+
+-*who_lamarquise
+Je prétends la briser : oui vous pouvez m'en croire.
+Pour vous, pour moi, pour notre gloire
+Il reviendra de sa prévention.
+Il s'agit de l'honneur de notre Nation.
+Nous verrons donc ce Philosophe ;
+Et s'il veut raisonner, c'est moi qui l'apostrophe :
+Je philosophe aussi, quand je veux, tout au mieux.
+
+-*who_darmant
+Plaisantez-vous ?
+
+-*who_lamarquise
+      Moi ? Point du tout, mon frère,
+Et cela devient sérieux.
+Allez, allez, laissez-moi faire.
+Doutez-vous des talents que j'ai ?
+Par un ridicule contraire,
+Un ridicule est souvent corrigé.
+Vous voyez bien que je me rends justice ;
+J'entreprends le Mylord, vous poursuivez Clarice ;
+Il est honteux pour vous, pour un Français,
+D'aimer sans espoir de succès ;
+Cependant, obligez le Mylord en silence,
+Et cherchez des moyens secrets.
+
+-*who_darmant
+J'ai déjà commencé ; mais n'en parlez jamais ;
+D'un bienfait divulgué, l'amour-propre s'offense,
+Le valet Robinson est dans mes intérêts ;
+Par l'on moyen, son Maître a touché quelques sommes
+Sous le nom supposé d'un patriote Anglais.
+
+-*who_lamarquise
+Voilà comme il faudrait toujours tromper les hommes.
+
+-*who_darmant
+J'aperçois Robinson ; viens-ça.
+
+**** *book_ *id_I02 *act_I *date_1763
+
+-*who_robinson
+      Bonjour, Monsieur ;
+Bonjour, Madame. Ah ! Le bon frère
+Que vous avez-là ! le bon cour !
+Sans lui nous étions morts, j'espère.
+
+-*who_darmant
+Paix ! Je t'ai défendu...
+
+-*who_robinson
+      Quel Français obligeant !
+Brave homme, toujours prêt à donner de l'argent :
+Il est notre unique ressource.
+Je crois toujours lui voir ouvrir sa bourse,
+En me disant : tiens, Robinson,
+Prends, mon ami, prends sans façon.
+
+-*who_darmant
+Prends donc et te tais.
+
+-*who_robinson
+      Oh ! je n'ai garde de dire...
+
+-*who_lamarquise
+Que fait ton Maître ?
+
+-*who_robinson
+      Il pense.
+
+-*who_darmant
+      Et Clarice ?
+
+-*who_robinson
+      Soupire.
+
+-*who_lamarquise
+Penser, soupirer ! Pauvres gens !
+C'est fort bien employer le temps.
+
+-*who_robinson
+Clarice s'amusait à lire
+Un de ces beaux Romans qu'on fabrique à Paris :
+Tout en rêvant, s'est approché mon Maître :
+« Un ouvrage François ! » dit-il, d'un air surpris ;
+Et le Roman vole par la fenêtre.
+
+-*who_lamarquise
+Cet homme a l'esprit juste.
+
+-*who_robinson
+      « Occupez vous de Locke,
+Ma fille ; lisez Clark, Swift, Newton, Bolingbroke.
+Songez que vous êtes Anglaise :
+Apprenez à penser ! »
+Puis ayant dit ces mots,
+Il s'enfonce dans une chaise,
+Pour réfléchir plus à son aise,
+En décidant que vous êtes des sots.
+
+-*who_lamarquise
+Cet homme est singulier.
+
+-*who_robinson
+      C'est la vérité pure,
+Et je n'ajoute rien, Madame, je vous jure.
+
+-*who_lamarquise
+Mais, quelquefois Mylord t'a-t-il parlé de moi ?
+
+-*who_robinson
+Toujours beaucoup ; il dit, Madame...
+
+-*who_lamarquise
+      Quoi ?
+
+-*who_robinson
+Il dit qu'il vous trouve bien folle,
+Et que c'est grand dommage.
+
+-*who_lamarquise
+      Bon !
+Je conclus sur cela que mon esprit frivole
+Va lui faire entendre raison.
+
+-*who_darmant
+Que pense-t-il de la lettre de change ?
+
+-*who_robinson
+Il la croit véritable et n'y voit rien d'étrange.
+
+-*who_darmant
+Elle est bonne effet ; c'est de l'argent comptant.
+
+-*who_robinson
+Pour en toucher la somme, il m'envoie à l'instant.
+
+-*who_darmant
+Vas donc chez mon banquier ; mais que chacun ignore...
+
+-*who_robinson
+Ne craignez rien, j'ai fait passer encore
+L'effet sous le nom de Sudmer,
+Négociant de Londres et l'on ami très cher :
+Mon Maître convaincu qu'il lui doit ce service,
+Hâtera le moment de lui donner Clarice.
+
+-*who_darmant
+Clarice à Sudmer ?
+
+-*who_robinson
+      Oui. Monsieur tout à la fois,
+Au lieu d'une personne, en obligera trois,
+Et Clarice sur-tout qui deviendra la femme...
+
+-*who_darmant
+C'en est assez, va-t'en.
+      Quel coup fatal !
+
+**** *book_ *id_I03 *act_I *date_1763
+
+-*who_lamarquise
+Comment ! Vous travailliez au bonheur d'un rival ?
+Mais rien n'est si plaisant.
+
+-*who_darmant
+      Raffermissez mon âme ;
+Je crains de me trahir, et je dois résister.
+Je suis impétueux, je me laisse emporter ;
+Et vous sentez trop bien qu'il faut cacher ma flamme.
+
+-*who_lamarquise
+Qu'elle éclate plutôt, livrés-vous à l'espoir.
+Quel est donc ce Sudmer, pour entrer en balance
+Avec les agréments que vous pouvez avoir ?
+Vous méritez la préférence ;
+Le don de plaire est votre lot,
+L'excès de modestie est défaut à votre âge ;
+Soyez plus confiant, plus Français en un mot :
+Faites sentir un peu votre avantage.
+
+-*who_darmant
+Qui s'éleve est un fat.
+
+-*who_lamarquise
+      Qui s'abaisse est un sot.
+Cette délicatesse à la fin peut vous nuire,
+Et vous avez besoin de vous laisser conduire.
+Feu mon mari, le Marquis Floricourt,
+Qui passait pour un agréable,
+Me consultait pour être aimable :
+Je l'ai rendu l'homme du jour :
+Ainsi par mes conseils
+
+-*who_darmant
+      Souffrez que je m'en passe.
+Tout ce que je demande est un profond secret.
+
+-*who_lamarquise
+Eh ! bien, on le taira, Monsieur l'amant discret ;
+Je vous livre à vous même.
+
+-*who_darmant
+      Oui, faites-m'en la grâce.
+Tout espoir m'est ravi.
+
+-*who_lamarquise
+      Clarice vient à nous.
+
+**** *book_ *id_I04 *act_I *date_1763
+
+-*who_clarice
+Madame, j'ai recours à vous.
+Mon père s'abandonne à la mélancolie.
+Tout lui déplaît, l'inquiète, l'ennuie.
+Hélas ! rendez son sort plus doux.
+
+-*who_lamarquise
+Qui ? Moi ? Très volontiers.
+
+-*who_darmant
+      Ô Ciel ! Que faut-il faire ?
+Parlez.
+
+-*who_clarice
+      Je n'en sais rien ; mais cependant j'espère.
+Tantôt plongé dans un chagrin mortel,
+Il vous entend de la salle voisine,
+Jouer au clavecin un concerto d'Haendel,
+Et je vois éclaircir l'humeur qui le domine :
+Il écoute, il admire, et vos savants accords
+Sont comme autant de traits de flamme.
+Notre Musique anglaise excite ses transports :
+Pour la première fois, je vois ici, Madame,
+Le plaisir dans ses yeux et le jour dans son âme.
+
+-*who_darmant
+Ma sour, courez au clavecin.
+
+-*who_lamarquise
+Monsieur Darmant, il n'est pas nécessaire :
+Suivez votre projet ; pour moi, j'ai mon dessein.
+Adieu. Qu'il est nigaud ! Mais c'est pourtant mon frère.
+
+**** *book_ *id_I05 *act_I *date_1763
+
+-*who_darmant
+Restez, belle Clarice ; ah ! Que vous m'êtes chère !
+
+-*who_clarice
+Moi Monsieur ?
+
+-*who_darmant
+      Oui, vous, par l'attachement
+Que vous montrez pour un si digne père.
+Je l'estime, je le révère.
+
+-*who_clarice
+Il le mérite.
+
+-*who_darmant
+      Assurément ;
+Mais toujours à mes vœux le verrai-je contraire ?
+
+-*who_clarice
+Vos vœux ? je ne vois pas que ce soit son affaire.
+
+-*who_darmant
+Ah ! L'amour...
+
+-*who_clarice
+      Quoi, Monsieur ?
+
+-*who_darmant
+      L'amour-propre blessé
+Devrait gémir dans mon cour offensé,
+Des efforts impuissants que j'ai faits pour lui plaire.
+
+-*who_clarice
+Votre dépit s'exprime vivement.
+
+-*who_darmant
+Je ne m'observe pas.
+
+-*who_clarice
+      Est-il quelque mystère ?
+
+-*who_darmant
+Quelque mystère ? Nullement ;
+Mais je sais que Mylord me hait et me déteste.
+Vous partagez ce cruel sentiment ?
+
+-*who_clarice
+La haine ! ah ! c'est, je crois, le plus cruel tourment ;
+Et mon cour n'est point fait pour cet état funeste.
+Je devrais fuir l'amour également.
+Monsieur, croyez-vous que j'approuve
+Ces injustes préventions Qui divisent nos nations ?
+J'honore la vertu partout où je la trouve.
+
+-*who_darmant
+Oui, la vertu ; vous l'inspirez ;
+Et votre père aussi : c'est vous qui la parez ;
+Vous la représentez affable et circonspecte ;
+Elle a pris tous vos traits afin qu'on la respecte,
+J'ai, pour servir l'État, recherché de l'emploi ;
+Avec ardeur j'ai désiré la guerre ;
+Vos malheurs l'ont rendue un vrai fléau pour moi ;
+Et c'est depuis que je vous vois,
+Que la paix me paraît le bonheur de la Terre.
+
+-*who_clarice
+Je n'ai garde d'ajouter foi
+À des paroles si flatteuses,
+C'est votre style à tous.
+Votre première loi
+Est de nous prodiguer des louanges trompeuses.
+L'art dangereux de la séduction
+Est le trait principal qui vous caractérise ;
+Cet art que chez nous on méprise,
+Fait partie, en ces lieux, de l'éducation :
+Et cette fausseté que l'agrément déguise...
+
+-*who_darmant
+Justement ; du Mylord voilà les préjuges ;
+Vous n'imaginez pas combien vous m'affligez.
+Votre air de dédain m'humilie
+Plus que l'excès d'un vrai courroux.
+
+-*who_clarice
+En critiquant votre patrie,
+Je voudrais que le trait ne portât point sur vous.
+
+-*who_darmant
+Quoi ! vous m'excepteriez ?
+
+-*who_clarice
+      Non vraiment, je n'ai garde ;
+Je voudrais seulement pouvoir vous excepter.
+
+-*who_darmant
+Mais, de ma bonne foi, qui vous ferait douter ?
+Peut-on n'être pas vrai, lorsque l'on vous regarde ?
+
+-*who_clarice
+Ah ! vous reprenez le jargon !
+De ce moment je vous laisse.
+
+-*who_darmant
+      Non, non
+Encore un seul instant demeurez, je vous prie.
+
+-*who_clarice
+J'y consens ; mais surtout aucune flatterie.
+
+-*who_darmant
+Eh ! bien, Clarice, je promets
+Que je ne vous dirai jamais
+Ces vérités qui vous déplaisent.
+Il faut, à votre égard, que les désirs se taisent.
+Vous leur imposez trop, et mon dessein n'est point.
+
+-*who_clarice
+Ah ! Monsieur, je vous rends justice sur ce point.
+
+-*who_darmant
+Vous avez bien raison, oui ; mais daignez m'entendre :
+L'estime peut unir des esprits opposés.
+
+-*who_clarice
+Oui ; mais quand deux pays sont aussi divisés,
+Il ne faut pas de sentiment plus tendre.
+
+-*who_darmant
+Aussi n'en ai-je pas. Je dirai cependant
+Que le cour n'admet point un pays différent.
+C'est la diversité des mœurs, des caractères,
+Qui fit imaginer chaque gouvernement ;
+Les lois sont des freins salutaires
+Qu'il faut varier prudemment,
+Suivant chaque climat, chaque tempérament.
+Ce sont des règles nécessaires,
+Pour que l'on puisse adopter librement
+Des vertus même involontaires ;
+Mais ce qui tient au sentiment,
+N'a dans tous les pays qu'une loi, qu'un langage.
+Tous les hommes également
+S'accordent pour en faire usage.
+Français, Anglais, Espagnol, Allemand
+Vont au devant du noud que le cour leur dénote :
+Ils sont tous confondus par ce lien charmant,
+Et quand on est sensible, on est compatriote.
+Malheur à ceux qui pensent autrement.
+Une âme sèche, une âme dure
+Devrait rentrer dans le néant ;
+C'est aller contre l'ordre.
+Un être indifférent
+Est une erreur de la Nature.
+
+-*who_clarice
+Il est bien vrai Monsieur...
+
+-*who_darmant
+      Ah ! Clarice !
+
+-*who_clarice
+      Il suffit.
+Que voulez-vous prouver ? Que voulez-vous entendre ?
+
+-*who_darmant
+Moi ! j'ai trop de respect, je n'ai rien à prétendre.
+
+-*who_clarice
+Me serais-je trahie ?
+
+-*who_darmant
+      Ô ciel ! J'en ai trop dit.
+
+-*who_clarice
+Mais je crois que j'entends mon père.
+
+-*who_darmant
+      Ma présence
+Pourrait l'importuner, et je dois l'éviter.
+Je craindrais d'impatienter
+Un sage, dont je veux gagner la confiance.
+
+**** *book_ *id_I06 *act_I *date_1763
+
+-*who_lemylord
+On n'y saurait tenir : quel peuple ! Quel pays !
+
+-*who_clarice
+Qu'avez-vous donc encor, mon père ?
+
+-*who_lemylord
+Je me sens transporté d'une juste colère ;
+Je ne vois que des jeux, je n'entends que des ris.
+Chanteurs importuns ! Doubles traîtres !
+Avec leurs violons, leurs tambourins maudits,
+Incessamment, exprès, passer sous mes fenêtres,
+Pour me troubler dans mes ennuis.
+Tous les jours des sauts, des gambades,
+Et tous les soirs des sérénades.
+Quand pourrai-je sortir du chaos où je suis ?
+
+-*who_clarice
+Les François sont gais par usage :
+De votre sombre humeur écartez le nuage.
+
+-*who_lemylord
+Tandis que la discorde en cent climats divers,
+De tant d'infortunés écrase les asiles,
+Le François chante ; on ne voit dans ses villes.
+Que festins, jeux, bals et concerts.
+Quel Dieu le fait jouir de ces destins tranquilles ?
+Dans le sein de la guerre, il goûte le repos ;
+Sans peines, sans besoins et libre sous un Maître,
+Le Français est heureux, et l'Anglais cherche à l'être.
+
+-*who_clarice
+Vous pouvez l'être aussi.
+
+-*who_lemylord
+      Ma fille, laissez-moi,
+J'ai besoin d'être seul.
+
+-*who_clarice
+      Toujours seul ! Et pourquoi...
+
+**** *book_ *id_I07 *act_I *date_1763
+
+-*who_lemylord
+Je me vois retenu chez un peuple frivole,
+Qu'on ne peut définir. Plein d'amour pour son Roi,
+Tout entier à l'honneur sa principale loi,
+Fidèle à ses devoirs ; au plaisir son idole,
+Des moments les plus chers il consacre l'emploi.
+Tout ne présente ici qu'un luxe ridicule.
+Quoi ! l'art a décoré jusqu'à cette pendule !
+On couronne de fleurs l'interprète du temps,
+Qui divise nos jours, et marque nos instants !
+Tandis que tristement ce globe qui balance,
+Me fait compter les pas de la mort qui s'avance :
+Le François entraîné par de légers désirs,
+Ne voit sur ce cadran qu'un cercle de plaisirs.
+Ô ciel ! est il tourment plus rude ?
+Qui vient encore ici troubler ma solitude ?
+Quoi ! Toujours ! Ah ! C'est de l'argent,
+Je le reçois dans un besoin urgent ;
+Des secours étrangers il m'épargne la honte.
+Tu ne t'es pas trompé ? Sans doute, j'ai mon compte ?
+
+-*who_levalet
+Oui, Mylord.
+
+-*who_lemylord
+      Relisons la Lettre de Sudmer.
+Ô généreux Anglais, que tu me deviens cher !
+« Mylord, vous devez avoir besoin d'argent dans la situation ou vous êtes ; je vous envoie une lettre de change de deux mille guinées.
+Je compte trop sur votre amitié pour ne pas être sûr que vous n'offenserez pas la mienne par un refus.
+Mon bras est assez bien remis, je n'ai pas encore la liberté d'écrire moi-même ; ne me faites point de réponse, je m'embarque pour la Caroline, nous nous verrons à mon retour. »
+Les bienfaits de Darmant pour moi sont une offense ;
+Mais de ceux d'un ami l'on ne doit pas rougir.
+Que mon sort est heureux ! d'ici je vais sortir :
+Oh ! j'y mourrais d'impatience.
+Porte ces sacs dans mon appartement ;
+Et dis à Robinson d'aller en diligence
+Chercher un autre logement,
+Pour vivre seuls dans l'ombre et le silence.
+
+**** *book_ *id_I08 *act_I *date_1763
+
+-*who_lamarquise
+C'est penser merveilleusement.
+Vous voulez nous quitter : j'en décide autrement.
+Vous paraissez surpris, Monsieur ?
+
+-*who_lemylord
+      J'ai lieu de l'être.
+
+-*who_lamarquise
+Vous êtes un singulier être.
+Quoi ! depuis un mois environ
+Que vous logez dans la maison...
+
+-*who_lemylord
+C'est à mon grand regret.
+
+-*who_lamarquise
+      On ne peut vous connaître !
+Quatre ou cinq fois, je vous ai vu paraître :
+Quatre ou cinq fois, vous avez dit deux mots
+Encor placés mal à propos.
+
+-*who_lemylord
+      J'en ai trop dit, Madame, et votre caractère
+S'accorde mal, sans doute, avec le mien.
+Je craindrais d'ennuyer.
+
+-*who_lamarquise
+      Il se pourrait très bien ;
+Mais pour se rapprocher, se convenir, se plaire,
+Fort souvent il ne faut qu'un rien.
+Vous avez ce qu'il faut pour être un homme aimable,
+Et vous vous efforcez pour être insoutenable !
+Oh ! Je vous entreprends... mais écoutez-moi donc,
+Demeurez. Je le veux.
+
+-*who_lemylord
+      Madame prend un ton...
+
+-*who_lamarquise
+Qui me convient, je suis femme et française.
+
+-*who_lemylord
+Tant pis.
+
+-*who_lamarquise
+      Tant mieux. Causons, Mylord, ne vous déplaise.
+
+-*who_lemylord
+Je parle peu.
+
+-*who_lamarquise
+      Je parlerai pour vous,
+Et vous me répondrez, si vous pouvez.
+      Tout doux.
+
+-*who_lemylord
+Je réponds mal.
+
+-*who_lamarquise
+      Eh ! bien, tout a votre aise ;
+On ne se gêne point chez nous.
+En qualité d'homme qui pense,
+Je ne crois pourtant pas que Monsieur se dispense
+D'éclairer ma raison, mon cour et mon esprit :
+Vous êtes Philosophe, à ce que l'on m'a dit :
+Communiquez un peu vôtre science.
+
+-*who_lemylord
+Je pense pour moi seul.
+
+-*who_lamarquise
+      Ah ! Quelle inconséquence !
+En vain le Sage réfléchit,
+Si la Société n'en tire aucun profit ;
+On doit la cultiver pour elle, pour soi-même.
+Eh ! Laissez-là vos songes creux ;
+La meilleure morale est de se rendre heureux.
+On ne peut l'être seul avec votre système.
+Mon instinct me le dit, et mon cour encor mieux.
+La chaîne des besoins rapproche tous les hommes.
+Le lien du plaisir les unit encor plus.
+Ces nouds si doux pour vous sont-ils rompus ?
+Pour être heureux, soyez ce que nous sommes.
+
+-*who_lemylord
+Ô ciel ! À des travers on me verrait soumis !
+Madame, excusez-moi ; mais vous m'avez permis.
+
+-*who_lamarquise
+Eh ! Oui, de tout mon cour j'excuse ;
+Ne nous ménagez pas, Monsieur, cela m'amuse.
+
+-*who_lemylord
+J'en suis charmé, Madame, et selon votre avis
+Je dois me réformer, devenir sociable,
+Renoncer au bon sens pour être un agréable.
+
+-*who_lamarquise
+Mais on gagne toujours à le rendre amusant.
+
+-*who_lemylord
+Suis-je fait pour être plaisant ?
+Connaissez mieux l'Anglais,
+Madame ; son génie Le porte à de plus grands objets.
+Politique profond, occupé de projets,
+Il prétend à l'honneur d'éclairer sa patrie.
+Le moindre citoyen, attentif à les droits,
+Voit les papiers publics, et régit l'Angleterre ;
+Du Parlement compte les voix,
+Juge de l'équité des Lois,
+Prononce librement sur la paix ou la guerre,
+Pese les intérêts des Rois,
+Et, du fond d'un café, leur mesure la terre.
+
+-*who_lamarquise
+Vous êtes en cela plus plaisant mille fois :
+Trop au-dessus de nous sont ces graves emplois.
+Libres de tout soin inutile,
+Nos heureux Citoyens respirent le repos :
+La surface des mers voit agiter les flots ;
+Mais la profonde arène est constante et tranquille.
+Jouissez comme nous.
+
+-*who_lemylord
+      Mais d'un si doux loisir
+Quel est le fruit ?
+
+-*who_lamarquise
+      Le plaisir.
+
+-*who_lemylord
+      Le plaisir !
+J'entends, et si je veux vous plaire,
+Il faut, comme j'ai dit, changer de caractère,
+Jouer le rôle fatiguant
+D'un joli petit-maître, et d'un fat élégant.
+Ah ! Lorsque de penser on a pris l'habitude...
+
+-*who_lamarquise
+On est sot avec art, maussade avec étude.
+
+-*who_lemylord
+Il faut avoir l'esprit bien faux,
+Pour se prêter à cette extravagance.
+
+-*who_lamarquise
+Je m'y prête bien, moi.
+
+-*who_lemylord
+      La bonne conséquence.
+
+-*who_lamarquise
+Si vous vous arrêtez à ces légers défauts,
+Vous n'êtes pas au bout.
+La liste en est très ample.
+Nous avons mille originaux.
+Je pourrais vous citer... Moi, Monsieur, par exemple...
+
+-*who_lemylord
+Je ne m'attendais pas à cette bonne foi.
+
+-*who_lamarquise
+Je parais ridicule à vos yeux, je le vois ;
+Mais tout considéré, quel est le ridicule ?
+Sous des traits différents dans le monde il circule ;
+Mais, au fond, quel est-il ? Une convention,
+Un fantôme idéal, une prévention ;
+Il n'exista jamais aux yeux d'un homme sage ;
+Se variant au gré de chaque nation,
+Le ridicule appartient à l'usage :
+L'usage est pour les mœurs, les habits, le langage ;
+Mais je ne vois point les rapports
+Qu'il peut avoir avec notre âme.
+L'homme est homme partout : si la vertu l'enflamme,
+C'est mon héros, je laisse les dehors.
+Quoi ! Toujours notre esprit fantasque
+Ne jugera jamais l'homme que sur le masque ?
+Nous avons des défauts, chaque peuple a les siens.
+Pourquoi s'attacher à des riens ?
+Eh ! Oui, des riens, des misères, vous dis-je,
+Qui ne méritent pas d'exciter votre humeur ;
+C'est d'un vice réel qu'il faut qu'on se corrige,
+Les écarts de l'esprit ne sont pas ceux du cour.
+
+-*who_lemylord
+Comment ! Vous êtes philosophe !
+
+-*who_lamarquise
+Moi ! Je ne connais point les gens de cette étoffe
+Ni ne veux les connaître, ils sont trop ennuyeux ;
+Je cherche à m'amuser, cela me convient mieux.
+
+-*who_lemylord
+Toujours l'amusement !
+
+-*who_lamarquise
+      Oui, Mylord hypocondre,
+Je pourrais censurer les usages de Londres,
+Comme vous attaquez nos goûts ;
+Mais je ris simplement et de vous et de nous.
+Que les Anglais soient tristes, misanthropes ?
+Toujours avec nous contrastés,
+Cela ne me fait rien ; leurs sombres enveloppes
+N'offusquent point d'ailleurs leurs bonnes qualités.
+Ils sont francs, généreux, braves ; je les estime.
+
+-*who_lemylord
+Quoi ! Vous estimez les Anglais ?
+
+-*who_lamarquise
+Assurément ! ils ont une âme magnanime,
+De l'honneur, des vertus, et je sais d'eux des traits...
+
+-*who_lemylord
+Vous me charmez.
+
+-*who_lamarquise
+      Bon, son humeur s'apaise.
+
+-*who_lemylord
+Comment donc, vous pensez ?
+
+-*who_lamarquise
+      Qui ? Moi ? Je n'en sais rien.
+
+-*who_lemylord
+Ah ! Vous me séduiriez si vous étiez Anglaise.
+Je goûte dans votre entretien...
+
+-*who_lamarquise
+Je ne veux point penser, Monsieur, c'est un ouvrage.
+Ce que je dis, part de l'esprit, du cour,
+De l'âme, dans l'instant, en vous laissant l'honneur
+D'une prétention qui ne convient qu'au Sage.
+
+-*who_lemylord
+Vous en avez, Madame, un plus grand avantage.
+
+-*who_lamarquise
+Que faites-vous ?
+      Il est déconcerté.
+
+-*who_lemylord
+Je demeure interdit ; je crois, en vérité,
+Que mon cour malgré moi...
+
+-*who_lamarquise
+      Cet essai m'encourage.
+Mais je m'arrête ici, je pense qu'il est tard.
+
+-*who_lemylord
+Non, Madame.
+
+-*who_lamarquise
+      Excusez, on m'attend autre part,
+Pour arranger un ballet agréable ;
+C'est pour ce soir qu'on doit le préparer.
+Vous seriez un homme adorable,
+Si vous vouliez y figurer.
+
+-*who_lemylord
+Vous vous moquez, je pense, ou c'est mal me connaître.
+
+-*who_lamarquise
+Pourqui me refuser quand vous pouvez en être ?
+Cessez de chercher des raisons
+Pour nourrir chaque jour votre mélancolie.
+Vous pensez, et nous jouissons.
+Laissez-la, croyez-moi, votre philosophie.
+Elle donne le spleen, elle endurcit les cours :
+Nôtre gaieté, que vous nommez folie,
+Nuance notre esprit de riantes couleurs,
+Par un charme qui le varie :
+Elle orne la raison, elle adoucit les mœurs ;
+C'est un printemps qui fait naître les fleurs
+Sur les épines de la vie.
+
+-*who_lemylord
+Je risque trop à l'écouter,
+Je ferai mieux de l'éviter,
+Qu'entends-je encor ! quel affreux tintamarre !
+
+**** *book_ *id_I09 *act_I *date_1763
+
+-*who_lebordelais
+Marquise, eh donc ! Nous allons répéter ?
+
+-*who_lemylord
+Où fuir ?
+
+-*who_lamarquise
+      N'allez pas nous quitter.
+
+-*who_lemylord
+Vous me ferez mourir.
+
+-*who_lamarquise
+      Vous êtes bien bizarre.
+
+-*who_lebordelais
+Le Mylord est des nôtres.
+
+-*who_lamarquise
+      Oui.
+Vraiment, je compte bien sur lui.
+
+-*who_lemylord
+Épargnez-moi, je vous supplie.
+
+-*who_lebordelais
+Monsé danse lé munuet ?
+
+-*who_lemylord
+Eh ! Je n'ai dansé de ma vie.
+
+-*who_lebordelais
+En deux ou trois leçons nous vous rendrons parfait.
+
+-*who_lemylord
+Morbleu !
+
+-*who_lamarquise
+      Dissimulez votre misanthropie.
+Vous vous déshonorez.
+      Allez, je vous rejoins.
+
+**** *book_ *id_I10 *act_I *date_1763
+
+-*who_lamarquise
+Rendez-vous digne de mes soins.
+Une heure ou deux je veux bien faire trève ;
+Après cela, je vous enlève.
+Point de refus, ou bien vous me déplairiez fort ;
+Je vous en avertis. Adieu mon cher Mylord.
+Si nous extravaguons, le plaisir nous excuse :
+Bien fou qui s'en afflige, heureux qui s'en amuse.
+
+**** *book_ *id_I11 *act_I *date_1763
+
+-*who_lemylord
+M'en voilà quitte par bonheur.
+Mais je ne devais pas lui marquer tant d'aigreur ;
+Car malgré son inconséquence,
+Je m'aperçois, qu'elle a bon cour,
+Et sans qu'elle y songe, elle pense.
+Oui, je la jugeais mal, et je sens mon erreur.
+Allons, allons, Mylord, il faut que tu t'apaises ;
+Fais effort sur toi-même, et pardonne aux Françaises.
+On peut s'y faire... Ah ! j'aperçois Darmant,
+Et sa présence est un tourment.
+
+**** *book_ *id_I12 *act_I *date_1763
+
+-*who_darmant
+Mylord, je vous annonce une heureuse nouvelle.
+C'est votre intérêt seul.
+
+-*who_lemylord
+      Abrégeons. Quelle est-elle ?
+
+-*who_darmant
+Nous allons renvoyer des prisonniers Anglais
+Pour pareil nombre de Français ;
+Je vous ai fait, Mylord, comprendre dans l'échange ;
+J'ai tant sollicité.
+
+-*who_lemylord
+      Vous en ai je prié ?
+
+-*who_darmant
+Je cherche à vous servir.
+
+-*who_lemylord
+      Cet homme est bien étrange !
+
+-*who_darmant
+Quoi ! Mon empressement...
+
+-*who_lemylord
+      M'a trop humilié :
+Je ne veux rien devoir qu'à ma Nation même.
+M'obliger malgré moi !
+
+-*who_darmant
+      Quoi ! Toujours dans l'extrême.
+Vous ne prêtez à tout que de sombres couleurs !
+
+-*who_lemylord
+J'ai fait des dépêches pour Londres :
+Si la fortune à mes vœux peut répondre,
+Je trouverai sans vous la fin de mes malheurs ;
+Je reste en attendant.
+
+-*who_darmant
+      Me voilà plus tranquille.
+Avec regret je l'aurois vû partir.
+Ma maison est à vous.
+
+-*who_lemylord
+      Non, non ; j'en dois sortir.
+
+-*who_darmant
+Pourquoi chercher un autre asile ?
+Qui pourrait ici vous troubler ?
+A-t-on manqué d'égards ?...
+
+-*who_lemylord
+      C'est trop m'en accabler.
+
+-*who_darmant
+Vous ne me rendez pas justice.
+Aurait-il soupçonné mon amour pour Clarice ?
+Quelque nouveau sujet excite votre aigreur ?
+Ah ! Je sais ce que c'est ; vous avez vu ma sour,
+Ses airs évaporés et sa tête légère...
+
+-*who_lemylord
+Veut-il interroger mon cour ?
+
+-*who_darmant
+Oui, je conçois qu'elle a pu vous déplaire.
+
+-*who_lemylord
+À quoi bon votre sour ? Je l'excuse aisément ;
+Elle est d'un sexe.
+
+-*who_darmant
+      Oui, mais son caractère...
+
+-*who_lemylord
+M'en suis-je plaint ?
+
+-*who_darmant
+      Non ; poliment...
+
+-*who_lemylord
+Je ne suis point poli.
+
+-*who_darmant
+      Sachez que son système
+Est de vous consoler, de vous rendre à vous-même.
+Si je ne l'arrêtais, Monsieur, journellement
+Vous seriez obsédé.
+
+-*who_lemylord
+      Monsieur, laissez-la faire.
+
+-*who_darmant
+Non, je lui vais défendre expressément
+De vous revoir.
+
+-*who_lemylord
+      Ah ! Quel acharnement !
+
+-*who_darmant
+Je cours pour l'avertir.
+
+-*who_lemylord
+      Il n'est pas nécessaire.
+
+-*who_darmant
+Mais je dois réprimer, l'indiscrète chaleur...
+
+-*who_lemylord
+Je sais ce que j'en pense, il suffit ; serviteur.
+
+-*who_darmant
+Je n'ai qu'un mot, après quoi je vous laisse.
+J'aurais été jaloux d'avoir votre amitié :
+Mais je n'espère plus que votre haine cesse :
+Du moins un peu d'estime, et je suis trop payé.
+
+-*who_lemylord
+Eh ! Malgré moi, Monsieur, vous avez mon estime.
+Je suis votre ennemi, mais sans vous mépriser.
+Je ne suis point injuste, et ne puis refuser
+Ce qui me parait légitime.
+Mais pour mon amitié ne l'esperez jamais.
+Dans ces temps de discorde, entre Anglais et Français,
+Toute liaison est un crime :
+De sa patrie on doit prendre l'esprit ;
+Qui s'en écarte, la trahit.
+
+-*who_darmant
+Imitez donc votre patrie ;
+Et des préventions dont votre âme est nourrie,
+Connaissez enfin les erreurs.
+Nous allons voir cesser les fléaux de la guerre.
+La paix doit réunir la France et l'Angleterre,
+Et nous allons bientôt jouir de ses douceurs.
+
+-*who_lemylord
+La paix ! La paix ! Quelle chimère !
+On ne peut jamais l'espérer.
+Des intérêts puissants doivent nous séparer.
+
+**** *book_ *id_I13 *act_I *date_1763
+
+-*who_levalet
+Mylord, un Anglais vous demande.
+
+-*who_lemylord
+Un Anglais ! Un Anglais ! Qu'il entre, et promptement.
+
+**** *book_ *id_I14 *act_I *date_1763
+
+-*who_sudmer
+Vive, vive, Mylord ! Ah ! Quel heureux moment !
+Je vous retrouve et ma joie est si grande....
+
+-*who_lemylord
+C'est vous, mon cher Sudmer !
+
+-*who_sudmer
+      C'est moi, certainement.
+
+-*who_darmant
+Sudmer ! Ah ! Quel événement !
+
+-*who_sudmer
+Mais c'est vous-même aussi, je pense.
+C'est vous, voilà vos traits ; je rends grâce au hasard.
+Cher Mylord, attendez.
+
+-*who_lemylord
+      D'où vient donc cet écart ?
+
+-*who_sudmer
+Le premier des devoirs est la reconnaissance.
+Le sort en cet instant a rempli mon espoir.
+
+-*who_darmant
+Monsieur, je n'ai jamais eu l'honneur de vous voir.
+
+-*who_sudmer
+Je suis assez heureux, moi, pour vous reconnaître.
+
+-*who_darmant
+Mais je n'ai point d'idée...
+
+-*who_sudmer
+      Aucune ?
+
+-*who_darmant
+      Point du tout.
+
+-*who_sudmer
+Je ne me trompe point ; et j'y crois encore être.
+
+-*who_lemylord
+Cet accueil n'est pas de mon goût.
+
+-*who_sudmer
+Ne vous en allez pas.
+
+-*who_darmant
+      Mais je dois par prudence...
+
+-*who_sudmer
+Vous n'êtes pas de trop, cédez à mon instance,
+Et songez que mes sentiments...
+C'est un homme des plus charmants,
+C'est un homme d'espèce unique.
+
+-*who_lemylord
+Charmant ! Charmant ! Parbleu, pour des êtres pensants,
+Voilà, sans doute, un beau panégyrique !
+
+-*who_sudmer
+Qu'entendez-vous ?
+
+-*who_lemylord
+      Cela s'entend sans qu'on l'explique.
+Un homme n'est jamais charmant en bonne part,
+Et lorsqu'à la raison on veut avoir égard...
+
+-*who_sudmer
+Je ne vois point à quoi cela s'applique.
+Remettez-vous aussi mes traits ;
+Rappelez-vous que je vous dois la vie.
+Vous changeâtes pour moi la fortune ennemie.
+Voilà le livre où sont écrits tous les bienfaits.
+Vous êtes mon ami, du moins je suis le vôtre ;
+C'est par vos procédés que vous m'avez lié.
+Je m'en souviens, vous l'avez oublié :
+Nous faisons notre charge en cela l'un et l'autre.
+
+-*who_darmant
+Mais vous vous méprenez, Monsieur.
+
+-*who_sudmer
+Moi, point de tout ; moi, jamais me méprendre
+Quand la reconnoissance en moi se fait entendre
+Et m'offre mon libérateur.
+Le sentiment me donne des lumières
+Pour reconnaître un bienfaiteur,
+Les yeux ne sont point nécessaires :
+Je suis toujours averti par mon cour.
+
+-*who_darmant
+Ah ! Je vois à peu près ce que vous voulez dire.
+
+-*who_lemylord
+Moi, je ne le vois pas.
+
+-*who_sudmer
+      Je vais vous en instruire.
+Nous devons publier les belles actions ;
+Je montais un vaisseau de trente-huit canons,
+Je fus, prés d'une côte, accueilli d'un orage,
+Terrible, violent beaucoup :
+J'étais prêt à faire naufrage,
+Et les Français avaient de quoi faire un beau coup.
+Aussi, Monsieur, en homme sage,
+Lorsque les vents furent calmés,
+En tira-t-il un très grand avantage ; Et nous voyant démâtés désarmés,
+« Je pourrais, me dit-il, prendre votre équipage ;
+Mais, pour en profiter, je suis trop généreux ;
+On n'est plus ennemi lorsqu'on est malheureux. »
+Bref, il me soulagea, m'obligea de sa bourse,
+Me rendit mes effets avec la liberté :
+Les bienfaits, de son cour, coulaient comme une source.
+Peut-on trop admirer sa générosité ?
+
+-*who_lemylord
+Tout bienfait, avec lui, porte sa récompense ;
+On agit pour soi-même en agissant ainsi.
+Je suis forcé de l'admirer aussi :
+Mais sans tirer à conséquence.
+
+-*who_darmant
+Jugez la Nation avec plus d'équité.
+Comme Français, mon premier apanage
+Consiste dans l'humanité.
+Mes ennemis sont-ils dans la prospérité :
+Je les combats avec courage.
+Tombent-ils dans l'adversité :
+Ils sont hommes, je les soulage.
+
+-*who_sudmer
+Eh ! c'est ainsi qu'on pense avec un cour loyal.
+Je ne décide point entre Rome et Carthage :
+Soyons humains ; voilà le principal.
+
+-*who_lemylord
+Vous n'êtes pas Anglais.
+
+-*who_sudmer
+      Je suis plus ; je suis homme.
+Qu'avez-vous contre lui ?
+Cette froideur m'assomme :
+Esclave né d'un goût national,
+Vous êtes toujours partial.
+N'admettez plus des maximes contraires ;
+Et, comme moi, voyez d'un œil égal
+Tous les hommes qui sont vos frères.
+J'ai détesté toujours un préjugé fatal.
+Quoi ! Parce qu'on habite un autre coin de terre,
+Il faut se déchirer, et se faire la guerre !
+Tendons tous au bien général.
+Crois-moi, Mylord, j'ai parcouru le Monde.
+Je ne connais sur la machine ronde
+Rien que deux peuples différents ;
+Savoir, les hommes bons et les hommes méchants.
+Je trouve partout ma patrie
+Où je trouve d'honnêtes gens ;
+En Cochinchine, en Barbarie,
+Chez les sauvages même : allons, soyons unis ;
+Embrassons-nous comme trois bons amis.
+Vous serez de ma noce, au moins ?
+
+-*who_darmant
+      Quoi ?
+
+-*who_sudmer
+      Je l'exige.
+Je vais me marier avec un vrai prodige,
+Fille aimable, dit-on, et qui me plaira fort :
+Je m'apprête à l'aimer. Quoi ! cela vous afflige ?
+
+-*who_darmant
+Moi, je partage votre sort.
+
+-*who_sudmer
+Point de partage, je vous prie,
+Surtout si la fille est jolie.
+
+-*who_darmant
+Je respecte les nouds dont vous serez unis.
+
+-*who_darmant
+Ma fille, de ce mariage,
+Sans doute, sentira le prix ;
+Je vais, sans tarder d'avantage,
+La préparer, en des instants si doux,
+Sur l'honneur qu'elle aura de s'unir avec vous.
+
+**** *book_ *id_I15 *act_I *date_1763
+
+-*who_sudmer
+Vous connaissez l'objet qu'on me destine ?
+Hein ? Mais, mon cher Français, qu'est-ce qui vous chagrine ?
+Morbleu ! Seriez vous mon rival ?
+Comment ? Cela m'est bien égal ;
+Mais je veux savoir tout à l'heure...
+
+-*who_darmant
+Monsieur, sur ce sujet ne m'interrogez point.
+
+-*who_sudmer
+Ma future chez vous demeure,
+Et je veux m'éclaircir d'un point.
+
+-*who_darmant
+Monsieur, quoi qu'il en soit, vous n'ayez rien à craindre.
+Clarice est adorable, et je pourrais l'aimer,
+Sans que vous eussiez à vous plaindre.
+Tâchons encor de me calmer.
+
+-*who_sudmer
+Cependant je remarque un trouble. Hein ?
+Parlez, hein ? Son embarras redouble.
+
+-*who_darmant
+C'en est assez. Adieu, Monsieur.
+Jouissez de votre bonheur,
+Et de mes sentiments n'ayez aucun ombrage.
+On peut aimer Clarice, on peut s'en faire honneur :
+Je ne vous dis rien davantage.
+
+**** *book_ *id_I16 *act_I *date_1763
+
+-*who_sudmer
+C'est parler fièrement ; je prétends découvrir.
+J'ai des soupçons qu'il faut que j'éclaircisse.
+Ah ! J'aperçois Mylord, et sans doute Clarice.
+Examinons un peu comme je dois agir.
+On ne m'a point trompé : je la trouve fort belle,
+Belle certainement !
+
+**** *book_ *id_I17 *act_I *date_1763
+
+-*who_sudmer
+      Bonjour, Mademoiselle.
+Je suis Sudmer pour vous servir,
+Et je viens remplir votre attente ;
+Oui, oui, ma belle enfant, je vous épouserai ;
+Je dis plus, je sens bien que je vous aimerai :
+Autrement j'aurais tort. Je la trouve charmante.
+
+-*who_clarice
+Monsieur.
+
+-*who_sudmer
+      Reste à savoir si je vous conviendrai.
+M'aimerez-vous aussi ?
+
+-*who_clarice
+      Mais, Monsieur, je l'espère.
+Les volontés du Mylord sont des lois.
+La générosité de votre caractère,
+Vos nobles procédés font honneur à son choix ;
+Et les vertus, sur mon cour, ont des droits
+Préférables à l'amour même.
+Lorsque de la raison on écoute la voix,
+On estime du moins en attendant qu'on aime.
+
+-*who_sudmer
+Oh ! je suis votre serviteur.
+En attendant ! C'est bon pour qui pourrait attendre.
+Mylord, je suis pressé ; vous avez un vieux gendre
+Qui n'a pas un instant à perdre, par malheur.
+Je ne crois pas que l'amour, à mon âge,
+Parle beaucoup en ma faveur ;
+C'est un arrangement que notre mariage.
+Notre intérêt commun en aura tout l'honneur :
+Cela ne suffit pas ; je crois qu'elle est fort sage :
+Mais il se peut qu'un autre objet l'engage.
+
+-*who_clarice
+En tous cas, je saurais commander à mon cour.
+
+-*who_sudmer
+Bon ! Voilà le même langage
+Que vient de me tenir Darmant.
+
+-*who_lemylord
+Darmant !
+
+-*who_sudmer
+      Elle rougit, et je vois clairement.
+N'est-il pas vrai, chere future ?
+Il se pourrait par aventure.
+Hein ?
+
+-*who_lemylord
+      Sudmer, de pareils soupçons.
+
+-*who_sudmer
+Pour demander cela, Mylord, j'ai mes raisons.
+
+-*who_lemylord
+Mais Darmant est Français, et ma fille est Anglaise ;
+Elle ne peut l'aimer.
+
+-*who_sudmer
+      Conséquence mauvaise ;
+Les Français ont toujours l'art de se faire aimer.
+Je les connais pour gens fort agréables,
+Et qui plus est encor, fort estimables ;
+Il est tout naturel de s'en laisser charmer.
+
+-*who_lemylord
+Je sais comme ma fille pense,
+Je réponds de son cour : oui, la reconnaissance
+Qu'elle sent, comme moi, de vos rares bienfaits,
+Doit l'attacher à vous tendrement pour jamais.
+
+-*who_sudmer
+Que parlez-vous de bienfaits, je vous prie ?
+
+-*who_clarice
+Si ma main doit payer ces généreux secours.
+
+-*who_sudmer
+Je ne vous entends point, et je n'ai de mes jours
+
+-*who_lemylord
+Vous même m'écrivez ?
+
+-*who_sudmer
+      Point de plaisanterie.
+
+-*who_lemylord
+Moi, plaisanter !
+
+-*who_sudmer
+      Vous êtes fou, Mylord,
+C'est depuis quelques jours que je sais votre sort.
+
+-*who_lemylord
+Mais cependant la chose est sûre,
+Et votre lettre que voici ;
+Tenez.
+
+-*who_sudmer
+      Que veut dire ceci ?
+Ce n'est point là mon écriture.
+
+-*who_lemylord
+Je le sçais bien ; mais votre bras cassé...
+
+-*who_sudmer
+Je n'ai pas eu le bras cassé
+
+-*who_lemylord
+      Qu'entends-je ?
+
+-*who_sudmer
+Certainement, vous n'êtes pas sensé.
+
+-*who_lemylord
+Mais lisez donc, lisez.
+      Sa tête se dérange.
+
+-*who_clarice
+Assurément, je l'ai déjà pensé.
+
+-*who_sudmer
+Je suis dans un courroux extrême.
+Comment ! Quelqu'un a pris mon nom
+Pour faire une bonne action,
+Que j'aurais pu faire moi-même ?
+Morbleu ! C'est une trahison
+Dont je prétends avoir raison.
+Et vous avez reçu la somme ?
+
+-*who_lemylord
+Oui, d'un banquier.
+
+-*who_sudmer
+      Nommé ?
+
+-*who_lemylord
+      Monsieur Argant.
+
+-*who_sudmer
+Il loge ?
+
+-*who_lemylord
+      Près d'ici.
+
+-*who_sudmer
+      Je vais trouver cet homme ;
+J'en aurai le cour net ; je reviens à l'instant.
+
+**** *book_ *id_I18 *act_I *date_1763
+
+-*who_lemylord
+Tout cela me paraît étrange !
+D'où peut venir cette lettre de change,
+Et ces autres effets que j'ai déjà reçus ?
+Ce n'est pas de Sudmer ! Je demeure confus.
+Si ce n'est pas de lui, c'est d'un compatriote,
+Qui veut m'obliger en secret.
+Tel est l'Anglais, il cache le bienfait ;
+Exactement j'en conserve la note,
+Pour m'acquitter de celui qu'on m'a fait ;
+Pour un homme d'honneur, c'est le plus grand regret
+Que de manquer à la reconnaissance,
+Et payer un service est une jouissance.
+Je ferai tant que nous serons au fait.
+Ah ! çà, venons à vous, ma fille :
+Sudmer, par les grands biens, relève ma famille ;
+Il vous fait un état certain ;
+Vous ne répugnez pas à lui donner la main ?
+
+-*who_clarice
+Je dois vous obéir.
+
+-*who_lemylord
+      Vous soupirez, Clarice.
+
+-*who_clarice
+Oui mon père, il est vrai.
+
+-*who_lemylord
+      Parlez sans artifice,
+Parlez avec sincérité.
+Ne dissimulez rien.
+
+-*who_clarice
+      M'en croyez-vous capable ?
+Je ne sais point trahir la vérité,
+Et qui dissimule est coupable.
+Je n'ai rien dans mon cour que je doive cacher
+Aux yeux indulgents de mon père.
+Est-il quelque secret, est-il quelque mystère
+Que dans son sein je ne puisse épancher ?
+
+-*who_lemylord
+À mes desseins vous verrais-je contraire ?
+
+-*who_clarice
+Non, je veux me soumettre a votre volonté :
+En Angleterre un cour n'est point esclave ;
+Le pouvoir paternel est chez nous limité.
+Mais ne soupçonnez pas que jamais je le brave.
+Périsse cette liberté qui des parents détruit l'autorité.
+Ah ! Je le sens, un père est toujours père.
+Sur des enfants bien nés il conserve ses droits.
+Quand le devoir en nous grave son caractère,
+Rien ne peut effacer cette empreinte si chère.
+En vain la liberté veut élever sa voix,
+Et dans nos cours exciter le murmure ;
+La loi nous émancipe, et jamais la Nature.
+
+-*who_lemylord
+Vous pensez bien ; mais, dites-moi,
+Où nous conduit cet étalage ?
+Sudmer, vous déplaît-il ?
+
+-*who_clarice
+      Non, mon père, mais...
+
+-*who_lemylord
+      Quoi ?
+
+-*who_clarice
+J'épouserai Sudmer, si c'est votre avantage.
+
+-*who_lemylord
+J'ai donné ma parole.
+
+-*who_clarice
+      Il aura donc ma foi.
+Mais un autre a mon cour.
+
+-*who_lemylord
+      Expliquez ce langage ;
+Épouser celui-ci, pour aimer celui-la !
+Vous vous formez, ma fille, et j'aperçois déjà
+Que de ce pays-ci vous adoptez l'usage.
+S'il vous plaît, rien de tout cela.
+Quel est le nom du personnage ?
+Dites-le moi.
+
+-*who_clarice
+      J'en aurai le courage.
+Malgré moi mon cour s'est soumis.
+Les vertus d'un Français...
+
+-*who_lemylord
+      Un de nos ennemis !
+
+-*who_clarice
+Il ne l'est point ; c'est Darmant, c'est lui-même.
+
+-*who_lemylord
+Qu'ai-je entendu ? Ma surprise est extrême.
+Je vois quel est le but de ses empressements.
+
+-*who_clarice
+Arrêtez. Vos soupçons seraient trop offensants.
+Rien ne m'a jusqu'ici fait connaître qu'il m'aime :
+L'estime, le respect sont les seuls sentiments
+Qu'il ait osé faire paraître.
+Rien aussi de ma part n'a pu faire connaître
+Le trouble secret de mes sens.
+
+-*who_lemylord
+À la bonne heure. Eh ! bien, puisque je suis le maître,
+Vous aimerez Sudmer, et je l'ai décidé.
+Songez-y bien ; j'ai commandé.
+
+**** *book_ *id_I19 *act_I *date_1763
+
+-*who_sudmer
+Ma foi ! moi n'y puis rien comprendre
+J'ai vu votre banquier, votre donneur d'argent ;
+Il m'a reçu d'un air fort obligeant.
+Mais il bat la campagne, et n'a pu rien m'apprendre.
+Il m'a dit seulement qu'en cette maison-ci,
+Par un valet Anglais je serais éclairci.
+
+-*who_lemylord
+C'est mon valet, sans doute.
+
+-*who_sudmer
+      Il peut donc nous instruire.
+
+-*who_lemylord
+Robinson !
+
+**** *book_ *id_I20 *act_I *date_1763
+
+-*who_robinson
+      Mylord !
+
+-*who_lemylord
+      Viens ici. Il faut tout à l'heure me dire
+D'où vient l'argent que tu m'as apporté :
+Ne cache point la vérité ;
+Tu sais, dit-on, tout le mystère.
+
+-*who_robinson
+Mylord, c'est d'un de vos amis.
+
+-*who_lemylord
+De Sudmer ?
+
+-*who_robinson
+      Oui, la chose est claire,
+
+-*who_sudmer
+De moi, Maraud, de moi !
+
+-*who_robinson
+      Me voilà pris.
+
+-*who_sudmer
+Je te surprends en menterie ;
+C'est moi qui suis Sudmer.
+
+-*who_robinson
+      Monsieur, j'en suis charmé.
+Comment vous portez-vous ?
+
+-*who_sudmer
+      Qui peut avoir tramé
+Une pareille fourberie ?
+Coquin ! J'ai donc le bras cassé ?
+Oh ! je te ferai voir...
+
+-*who_robinson
+      Doucement, je vous prie.
+Quoi ! Ce n'est donc pas vous dont le cour bien placé...
+
+-*who_sudmer
+Non, non, certainement.
+
+-*who_robinson
+      Eh ! bien, c'est donc un autre.
+
+-*who_sudmer
+Qui donc a pris mon nom ?
+
+-*who_robinson
+      Un nom tel que le vôtre
+Doit faire honneur à l'amitié.
+
+-*who_lemylord
+De ce complot, le traître est de moitié !
+Déclare vite, ou je t'assomme.
+
+-*who_robinson
+Vous m'allez ruiner.
+
+-*who_lemylord
+      Comment ?
+
+-*who_robinson
+      Oui, c'est un fait.
+De temps en temps, je reçois quelque somme
+Pour m'engager à garder le secret.
+
+-*who_lemylord
+Ah ! Tu connais donc ?
+
+-*who_robinson
+      Oui, c'est un fort honnête homme,
+Qui veut vous obliger, et sans être connu.
+Vous savez bien, Mylord, que je suis ingénu.
+Il m'a séduit, et pour lui plaire,
+Robinson est fourbe et faussaire.
+Oui, c'est de moi que vient toute l'invention ;
+Mais c'était, je proteste, à bonne intention.
+
+-*who_lemylord
+En un mot, quel est-il ?
+
+-*who_robinson
+      Eh ! bien, c'est, c'est... notre hôte.
+
+-*who_lemylord
+Darmant !
+
+-*who_clarice
+      Darmant !
+
+-*who_lemylord
+      L'auteur d'une telle action !
+Ah ! Malheureux !
+
+-*who_robinson
+      Je reconnais ma faute.
+
+-*who_lemylord
+Tu mérites punition.
+Écoute, aimerait-il ma fille ?
+
+-*who_robinson
+Oh ! Point du tout, Mylord ; il n'oserait.
+C'est générosité toute pure qui brille,
+Dans ce que pour vous il a fait.
+
+-*who_lemylord
+Vous, Clarice, êtes-vous instruite ?
+
+-*who_clarice
+Non, je vous jure, et je suis interdite.
+
+-*who_lemylord
+Je ne comprens rien à cela !
+En vérité, son procédé m'étonne !
+
+-*who_sudmer
+Moi, point m'en étonner ; je le reconnais là :
+Et d'avoir pris mon nom, très fort je lui pardonne.
+
+-*who_lemylord
+Je te fais grâce ; mais ne lui parle de rien.
+
+**** *book_ *id_I21 *act_I *date_1763
+
+-*who_lamarquise
+La Paix est sûre, elle est ratifiée.
+Je me fais un plaisir de la voir publiée.
+La Paix ! ce mot seul fait du bien :
+Elle est de l'Univers le plus tendre lien :
+La foule avec transport inonde chaque rue,
+Sans être coudoyé, l'on ne peut faire un pas,
+Sans se connaître on se salue,
+On parle, on s'interrompt, on ne se répond pas ;
+La joie en tous lieux répandue,
+En animant les cours, égale les États.
+
+-*who_clarice
+Ce spectacle est charmant, j'en serais attendrie.
+
+-*who_lamarquise
+Je viens vous chercher tout exprès
+Pour que vous et Mylord examiniez de près
+Le pouvoir qu'a sur nous l'amour de la Patrie.
+Le vrai contentement déride tous les traits :
+La brillante gaieté, ce fard de la Nature,
+Rajeunit les vieillards, leur donne un air plus frais ;
+D'un coloris si doux la teinte vive et pure
+Partout imprime ses attraits ;
+C'est le bonheur qui fournit la peinture,
+Et le plaisir de l'âme embellit les plus laids.
+La Marchande dans sa boutique
+Étale ses colifichets,
+Répète à tout moment, la Paix, la Paix, la Paix !
+De Messieurs les Anglais j'aurai donc la pratique :
+Et sa petite fille, avec un air comique,
+Dit : ah ! Maman, comment c'est-il fait, un Anglais ?
+On rencontre plus loin des chansonniers bien ivres,
+Raclant du violon et braillant des couplets,
+Bons, excellents, quoique mauvais,
+Et qui surpassent de gros Livres,
+Parce que le cour les a faits.
+En un mot, vous verrez que nous autres Français,
+Notre plus grand plaisir est d'adorer nos Maîtres ;
+C'est l'Amour qui prend soin d'éclairer nos fenêtres.
+Le sentiment, voilà notre première loi :
+Eh ! qui l'éprouve plus que moi ?
+Je danserai la nuit entière :
+Je donnerai le ton, et serai la première
+À bien crier, vive le Roi !
+
+-*who_lemylord
+Vous m'enchantez, Madame la Marquise :
+De mon esprit chagrin vous changez la couleur ;
+Je sens que la gaieté, qui vous caractérise,
+Ne peut se rencontrer qu'avec un très bon cour ;
+Darmant, nos nations sont réconciliées :
+Par vos traits généreux vous m'avez corrigé ;
+Et l'amitié surmonte enfin le préjugé :
+Que par cette amitié nos maisons soient liées.
+
+-*who_darmant
+Ah ! Mylord, je vous suis attaché pour jamais.
+
+-*who_lemylord
+Ces secours détournés qu'avec tant de noblesse
+Vous m'avez su fournir par des moyens secrets,
+Pour ne point faire ombrage à ma délicatesse,
+Je les acquitterai bientôt grâce à la Paix :
+Mais mon cour en paiera toujours les intérêts.
+
+-*who_darmant
+Daignez me regarder comme de la famille.
+
+-*who_lemylord
+Monsieur, pour vous marquer combien vous m'êtes cher,
+Vous signerez le contrat de ma fille,
+Que, dès ces soir, je marie à Sudmer.
+
+-*who_lamarquise
+À cette faveur-là mon frère est bien sensible.
+
+-*who_darmant
+Ô Ciel !
+
+-*who_lemylord
+      Darmant soupire, et la Marquise rit !
+Mais cela n'est pourtant ni triste, ni risible.
+
+-*who_lamarquise
+Mais c'est que mon cher frère est sot, sans contredit :
+Je m'y connais ; tenez, admirez la statue !
+
+-*who_darmant
+Ma sour.
+
+-*who_sudmer
+      Mais en effet, lui paraître interdit.
+
+-*who_lamarquise
+C'est qu'il est amoureux de votre prétendue ;
+Mais grave soupirant, discret, silencieux,
+Le respect a toujours étouffé sa parole,
+Et tristement comme une idole,
+Son amour n'a jamais parlé que par ses yeux.
+
+-*who_sudmer
+Mylord, je pourrais faire une grand sottise
+D'épouser votre fille ; elle est fort à ma guise ;
+Mais, Monsieur, pourrait bien être à la sienne aussi
+Un petit peu, n'est-ce pas ? Hein ?
+Je pense, Et je vois que, dans tout ceci,
+Mon rival doit, au fond, avoir la préférence.
+Sous mon nom il a su saisir l'occasion
+D'avoir pour vous, Mylord, un procédé fort bon,
+Si je deviens le mari de Clarice :
+Il est homme, peut-être, à rendre encor service :
+Je suis accoutumé d'être son prête-nom.
+
+-*who_lemylord
+Darmant, je vous prends pour mon gendre.
+
+-*who_clarice
+Ah ! Mon père.
+
+-*who_darmant
+      Ah ! Monsieur, en cet heureux instant,
+Que j'ai de grâces à vous rendre !
+Je suis de l'Univers l'homme le plus content.
+
+-*who_sudmer
+Cette alliance est fort bien assortie.
+
+-*who_darmant
+Ma sour, en même-temps, devrait
+Consentir à vous être unie ;
+Ce double hymen ne laisserait
+Aucun soupçon d'antipathie.
+
+-*who_lamarquise
+Je craindrais que Mylord ne fut triste et jaloux.
+
+-*who_lemylord
+La proposition, il est vrai, m'intimide ;
+Mais cependant, Madame, croyez-vous
+Qu'une Française, ayant l'esprit vif et rapide,
+Puisse y joindre en effet, par un accord bien doux,
+Un caractère allez solide
+Pour faire constamment le bonheur d'un époux ?
+
+-*who_lamarquise
+Avant que de répondre, en faisant mon éloge,
+Souffrez, de mon côté, que je vous interroge.
+Croyez-vous qu'un Anglais, qui toujours réfléchit,
+En prenant une femme aimable et vertueuse,
+Ait assez de douceur, de liant dans l'esprit
+Pour la rendre constante en la rendant heureuse ;
+Pour qu'elle s'applaudisse, enfin, d'être avec lui ?
+On ne peut guère avoir une femme fidèle,
+Qu'en attirant l'amusement chez elle.
+Le manque de vertu vient quelquefois d'ennui.
+
+-*who_lamarquise
+Marquise, courons-en les risques l'un et l'autre,
+Vous verrez un amant dans un époux soumis,
+Et quand la Paix confond ma Patrie et la vôtre,
+Tous mes préjugés sont détruits.
+
+-*who_sudmer
+Daignez, mon cher Darmant, en cette circonstance
+Me soulager du poids de la reconnaissance :
+Je sens que je suis vieux, je me vois de grands biens ;
+Je n'ai point d'héritier, soyez tous deux les miens...
+Point de remerciements, ce serait une offense.
+Si je vous sais heureux, mes amis, c'est assez :
+C'est vous, c'est vous qui me récompensez ;
+Mais j'entends retentir les cris de l'allégresse :
+Courons tous : le plaisir du cour
+S'augmente encor par le commun bonheur.
+
+-*who_lamarquise
+Mylord, j'en pleure de tendresse ;
+Le courage et l'honneur rapprochent les pays ;
+Et deux peuples égaux en vertus, en lumières,
+De leurs divisions renversent les barrières,
+Pour demeurer toujours amis.
+
+**** *book_ *id_I23 *act_I *date_1763
+
+-*who_tous
+
+
+Voici le jour de l'allégresse,
+Le plus beau de nos jours ;
+Plus de soucis, plus de tristesse :
+Régnez, Plaisirs, Amours ;
+Chacun répète avec ivresse,
+Ce mot si cher, si plein d'attraits :
+La Paix, la Paix ;
+La Paix, la Paix.
+
+Gens à Manteau, Gens de Finance,
+Nous gémissons pour vous ;
+Nos Officiers par leur présence
+Vont vous éloigner tous :
+Le mal n'est pas si grand qu'on pense :
+Si vous voulez être discrets,
+Eh ! Paix, Paix, Paix !
+La Paix, la Paix.
+
+Ne soyez plus, Sagesse austère,
+En guerre avec l'Amour,
+C'est un enfant, laissez-le faire :
+Passons-lui quelque tour.
+Est ce le temps d'être sévère,
+S'il lance en cachette ses traits ?
+Eh ! Paix, Paix, Paix !
+La Paix, la Paix.
+
+Accourez tous près de vos belles,
+Volez, guerriers, amants,
+Elles vous sont toujours fidèles,
+Croyez en leurs serments :
+Consolez dons vos tourterelles,
+Mais sans demander leurs secrets.
+Eh ! Paix, Paix, Paix !
+La Paix, la Paix.
+
+Laissons la fraude et l'artifice,
+Terminons tous procès ;
+Venez ici gens de Justice,
+Et suspendez vos frais.
+Pour que chacun se réjouisse ;
+Avocats, laissez le Palais :
+Eh ! Paix, Paix, Paix !
+La Paix, la Paix.
+
+Pourquoi toujours s'entre-détruire,
+Savants et beaux esprits,
+Tout céderait à votre empire,
+Si vous étiez unis :
+Vous vous livrez à la satyre,
+N'avez-vous pas d'autres objets ?
+Chantez la Paix,
+Chantez la Paix.
+
+Un mari, pour une grisette,
+Néglige sa moitié :
+Sa femme, tant soit peu coquette,
+A fait une amitié.
+De part et d'autre l'on se prête,
+On n'approfondit point les faits.
+Eh ! Paix, Paix, Paix !
+La Paix, la Paix.
+
+-*who_lemylord
+
+
+Plus entre nous d'antipathie :
+Vous avez trop d'attraits,
+Toute raison n'est que folie,
+Quand elle est dans l'excès.
+Femme d'esprit, femme jolie
+Ramène à des principes vrais.
+Allons, la Paix !
+La Paix, la Paix.
+
+Faisons revivre l'harmonie
+Du commerce et des arts,
+Et que la paix toujours chérie
+Règne de toutes parts.
+Ne faites plus qu'une patrie,
+Espagnols, Anglais et Français.
+Eh ! Paix, Paix, Paix !
+La Paix, la Paix.
+
+-*who_sudmer
+
+
+Galants barbons qu'Amour inspire,
+Ne tentez point le sort ;
+Le vent nous manque, et le navire
+N'ira pas à bon port.
+Je sens qu'Amour voudrait me dire.
+Que Clarice a beaucoup d'attraits.
+Hein... Quoi ?... oui... mais
+Allons, mon cour, la paix, la paix.
+
+Jugez de cette bagatelle
+Seulement par le cour,
+Et ne nous faites point querelle,
+Partagez notre ardeur.
+Vous le sentez ; c'est notre zèle
+Qui peint l'amour de tout Français.
+Et Paix, Paix.
+Messieurs, la paix.

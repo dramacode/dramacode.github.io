@@ -1,0 +1,1039 @@
+
+
+**** *book_ *id_I01 *act_I *date_1672
+
+-*who_goulemer
+Buvons ce pot. À vous ?
+
+-*who_frelingue
+      C'est ce que je demande.
+
+-*who_goulemer
+Comment va la santé de Madame Hollande.
+
+-*who_frelingue
+Chacun dit que son mal prend un fort mauvais cours.
+
+-*who_goulemer
+Comment ?
+
+-*who_frelingue
+      C'est qu'on la voit empirer tous les jours.
+
+-*who_goulemer
+Elle a le mal de mer, et la fièvre la terre.
+
+-*who_frelingue
+Elle a le mal de mer, elle a le mal de terre,
+Elle a... Que sais-je enfin ? Elle n'est pas trop bien ;
+Cent drogues qu'on lui fait, ne lui servent de rien.
+Si l'on la peut sauver, la cure sera belle.
+Taisons nous ; ces gens-là sont je crois de chez elle.
+
+-*who_marille
+Chacun la tient fort mal.
+
+-*who_badzin
+      Oui, je la viens de voir.
+
+-*who_marille
+Elle doit prendre encor un lavement ce soir ;
+On la fera mourir.
+
+-*who_badzin
+      Je pense qu'on y tâche.
+Pourquoi ce lavement ? On dit qu'elle est si lâche,
+Qu'elle laisse aller tout.
+
+-*who_marille
+      De moment en moment
+Elle en prend, mais c'est bien contre son sentiment.
+Ces lavements sont faits d'une poudre étonnante,
+Qui lui fait rendre tout.
+
+-*who_badzin
+      Elle est fort violente.
+Entre-t-il pas dedans du salpêtre et du plomb ?
+
+-*who_marille
+Je ne sais. L'on dirait de la poudre à canon.
+
+-*who_badzin
+C'est cela. Ce mal la prit avec violence.
+
+-*who_marille
+C'est un air empesté, qui vient (dit-on) de France.
+
+-*who_goulemer
+Ce n'était que fumée et que feu tout le jour,
+Nous ne nous vîmes point non plus que dans un four,
+Sur mer il faut chômer la Fête toute entière,
+On ne trouve point là de porte de derrière.
+Quand cent coups de canon vous fracassent vos mâts,
+Qu'il a mis sur le pont des trente hommes à bas,
+Et sans cesse bou-boue, et des coups effroyables
+Qui jettent votre mat à tous les mille Diables,
+Ou que quelque brûlot s'accroche à votre bord,
+C'est là qu'il faut périr. La frayeur prend d'abord.
+Le brûlot fait effet, le feu prend à la poudre,
+Et tout d'un coup boudoue, ah c'est le coup de foudre ;
+Les brûlots, les canons, les hommes, les vaisseaux,
+Palcorbleu vous sautez tous comme des crapauds.
+
+-*who_marille
+On dit bien, quand on vit la comète paraître,
+Que les Français un jour nous feraient du bissêtre,
+
+-*who_goulemer
+Ils sont mordienne tous des vrais frappe-d'abord.
+
+-*who_badzin
+Chacun perdit il bien des hommes dans son bord ?
+
+-*who_goulemer
+J'en vis tuer quarante au nôtre.
+
+-*who_marille
+      La misère !
+Étiez-vous là ?
+
+-*who_goulemer
+      Nenni, c'était mon petit frère.
+Notre bord reçut d'eux, trois cents coups de canon,
+Ou n'en reçut pas un. Ah c'était tout de bon,
+Jamais vaisseau ne peut le rechaper plus belle,
+Je crus qu'ils en voulaient faire de la cannelle.
+II semble à ces gens-là qui n'ont jamais rien vu,
+Que chacun soit comme eux. À vous ?
+
+-*who_frelingue
+      C'est assez bu.
+
+-*who_marille
+Peut-on voir tant de gens tués sur un navire ?
+Je frémis seulement de l'avoir ouï dire.
+Où les enterre-t-on ces morts cependant ?
+
+-*who_goulemer
+Enterrez dans la mer.
+
+-*who_badzin
+      Le Cimetière est grand,
+Madame Hollande était et grasse et potelée.
+
+-*who_marille
+Elle en a pour sa graisse, elle s'en est allée.
+
+-*who_badzin
+Mais maigrir tout d'un coup !
+
+-*who_marille
+      Il n'est rien de pareil ;
+Elle a fondu d'abord comme beurre au Soleil.
+Elle est toujours debout.
+
+-*who_frelingue
+      Debout ? Doit-on permettre...
+
+-*who_marille
+À peine trouve-t-elle une place à se mettre ;
+Son mal la prend partout.
+
+-*who_badzin
+      Qu'on change en peu de temps.
+Elle n'est plus d'humeur à brocarder les gens.
+
+-*who_marille
+Oui, c'était sa coutume, elle la paye bonne.
+
+-*who_badzin
+C'est qu'il ne faut jamais se railler de personne.
+Les Gens ne disent rien quand on les a piqués :
+Mais après, comme on voit, les moqueurs sont moqués.
+
+-*who_marille
+Fusse Nostradamus, aurait-il pu comprendre,
+Que des maux si fâcheux dussent jamais la prendre,
+Dans le meilleur état qu'elle ait jamais été ?
+
+-*who_badzin
+On ne pouvait pas être en meilleure santé.
+
+**** *book_ *id_I02 *act_I *date_1672
+
+-*who_pacole
+Marille, venez donc ? Vite l'on vous demande.
+
+-*who_marille
+Qui presse donc si fort ?
+
+-*who_pacole
+      Hé Madame Holande.
+
+-*who_marille
+Est-ce qu'elle est plus mal ?
+
+-*who_pacole
+      Eh non pas autrement,
+Mais elle ne sent pas son mal assurément.
+
+-*who_marille
+Écoute donc, viens ça, qu'en penses-tu, Pacole ?
+
+-*who_pacole
+Je pense que son mal la fait devenir folle.
+
+-*who_marille
+Est-ce que ta l'as-vue en quelque égarement ?
+
+-*who_pacole
+Vraiment oui, mais cela n'a duré qu'un moment.
+Ah sa pauvre cervelle était bien dévoyée !
+Elle s'est mise à rire à gorge déployée ;
+Puis elle a fait un saut qui nous a tous surpris.
+Nous l'avons vue après reprendre ses esprits.
+Béline en vient d'avoir une frayeur extrême.
+
+-*who_marille
+Ce mal ne l'avait point encor prise de même.
+Mais Béline est donc là qui ne la quitte pas.
+
+-*who_pacole
+Oui ; Mais venez-vous-en.
+
+-*who_marille
+      Je marche fur tes pas.
+
+-*who_badzin
+Cà.
+
+-*who_lhote
+      Payez là-dedans. Hélas ! Que c'est dommage !
+
+-*who_goulemer
+Qu'avons-nous ?
+
+-*who_lhote
+      Vous avez pour dix sols de fromage,
+Quatre sols en bière, et pour deux sols de pain,
+J'oubliais pour chacun sept sols de Bran-de-Vin,
+Ce sont quarante sols tous justes de dépense.
+
+-*who_goulemer
+Oui ? Racontez un peu, vous vous trompez, je pense.
+
+-*who_lhote
+Vous avez pour chacun sept sols de Bran-de-Vin,
+Nous ne comptons je crois que pour deux sols de pain,
+Quatorze sols en bière, et dix sols de fromage,
+Pour avoir recompté, quarante sols.
+
+-*who_goulemer
+      Courage.
+
+-*who_lhote
+Cela fait quatre-francs.
+
+-*who_goulemer
+      Êtes-vous hébété ?
+Comment ? Quarante sols pour avoir recompté !
+
+-*who_lhote
+Autant.
+
+-*who_goulemer
+      Je les payerais ?
+
+-*who_lhote
+      Qui donc ? Belle demande !
+Ignorez-vous encor la mode de Hollande?
+
+-*who_goulemer
+Oui, ma foi, je l'ignore.
+
+-*who_lhote
+      Oh soyez-en instruit :
+Ajoutons à cela quatre-francs pour le bruit.
+
+-*who_goulemer
+Pour le bruit quatre francs !
+
+-*who_lhote
+      J'oubliais pour le beurre
+Vingt fols. Ce sont neuf-francs qu'il me faut tout-à-l'heure.
+
+-*who_goulemer
+Quatre francs pour 1c btuit J
+
+-*who_lhote
+      Êtes-vous Hollandais ?
+
+-*who_goulemer
+Oui : mais vous me prenez je crois pour un Français;
+
+-*who_lhote
+Voulez vous ras payer?
+
+-*who_goulemer
+      Je ne veux pas débattre !
+Mais quatre francs c'est trop.
+
+-*who_lhote
+      Je n'en puis rien rabattre.
+Avec vos bou-bouë, hé qu'est-ce que cela ?
+Un Français eut payé vingt francs de ce bruit-là :
+Et plaignez-vous encor ? Vous savez qu'en Hollande
+Il faut sans contester payer ce qu'on demande,
+Et que jamais aussi nous n'avons le défaut
+De compter comme en France, un sol plus qu'il ne faut.
+
+-*who_goulemer
+Je le sais bien. Pourtant je doute fort qu'en France
+Un Français trouvât là pour neuf francs de dépense.
+
+-*who_lhote
+Enfin les Français sont à leur mode de là ;
+Et la nôtre est ainsi. Neuf francs donc ?
+
+-*who_goulemer
+      Les voilà.
+
+-*who_lhote
+Allons. Si ceci dure, il faut fermer boutique.
+
+-*who_goulemer
+Pourquoi ?
+
+-*who_lhote
+      Depuis deux mois je n'ai plus de pratique ;
+Le grand mal de Madame attriste mes chalands.
+
+-*who_goulemer
+Et votre marchandise aigrit en peu de temps.
+Elle veut du débit.
+
+-*who_lhote
+      Diable oui. J'appréhende ;
+J'entends d'ici les cris de Madame Hollande.
+
+**** *book_ *id_I03 *act_I *date_1672
+
+-*who_lahollande
+Ah, Beline, mon mal pénètre jusqu'aux os.
+
+-*who_beline
+Si vous pouviez un peu demeurer en repos...
+
+-*who_lahollande
+Demeurer en repos ! Le puis-je, misérable,
+Lorsque j'ai des voisins qui font un bruit de Diable ?
+
+-*who_beline
+Vos forces sont encor grandes.
+
+-*who_lahollande
+      Je le sais bien ;
+Mais ces forces pourtant ne me servent de rien.
+
+-*who_beline
+En ces sortes de maux les forces sont utiles.
+
+-*who_lahollande
+Elles agissent peu, les membres font débiles,
+Et je puis bien hélas ? dire avec douleur,
+Que j'ai des forces, mais que je manque de cour.
+
+-*who_beline
+Vous sautiez bien tantôt.
+
+-*who_lahollande
+      Ha que l'on me soutienne,
+Je sauterai bien mieux avant que l'Hiver vienne.
+N'a-t-on rien qui me put fortifier le cour ?
+
+-*who_marille
+Oui, Madame, il vous faut prendre quelque liqueur.
+
+-*who_lahollande
+Un peu de vin d'Espagne, il m'est bon...
+
+-*who_beline
+      Ce Breuvage
+Est le seul qui vous peut donner quelque courage.
+
+-*who_lahollande
+Oui, s'il n'est point aigri, ni gâté, j'en boirai,
+Il me fortifiera je crois, j'en userai.
+Ah, ah, un vin d'Espagne, attend-on que je meure ?
+
+-*who_marille
+On vous le va quérir, Madame, tout à l'heure.
+
+-*who_lahollande
+Quand mon mal commença, j'en prenais tous les jours,
+Il n'a pu cependant en arrêter le cours.
+
+-*who_beline
+Mais le tonnerre ici s'est toujours fait entendre,
+Il peut être tourné.
+
+-*who_lahollande
+      Je n'en pourrais pas prendre.
+
+-*who_marille
+Hé bien, s'il est gâté, prenez-le par en bas.
+
+-*who_lahollande
+Qu'entends-tu par en bas ?
+
+-*who_marille
+      Oui.
+
+-*who_lahollande
+      Je ne t'entends pas.
+Est-ce ce vin d'Espagne ?
+
+-*who_marille
+      Oui, prenez-le en clystère.
+
+-*who_lahollande
+Hé bien fais-le porter chez mon apothicaire,
+Qu'il l'apporte au plutôt : mais Marille, il faut bien
+Qu'il me prête un canon, car j'ai perdu le mien.
+Qu'il était doux, Marille, et que j'en crains un autre !
+
+-*who_marille
+Jamais canon ne fit moins de mal que le vôtre.
+
+**** *book_ *id_I04 *act_I *date_1672
+
+-*who_pacole
+Madame, Flandre est là, qu'on n'entend presque pas,
+Avec son baragouin, vous demande là-bas.
+
+-*who_lahollande
+La persécution est grande. Hé bien, qu'elle entre.
+Ha le ventre, le ventre. Ah ventre, ventre, ventre,
+
+**** *book_ *id_I05 *act_I *date_1672
+
+-*who_laflamande
+Je li viens point vous voir pour li fer vous jurer,
+Mon Dame je li viens pour li vous assurer...
+
+-*who_lahollande
+Hé je ne jure point, c'est qu'avec des tenailles.
+Des Démons, que je crois, m'arrachent les entrailles.
+
+-*who_laflamande
+Quoye donc, c'est stimal, mon Dam, qui vous l'avez,
+Gel vous croye abil fort, si vous vous l'en sauvez.
+
+-*who_lahollande
+Ha je m'en doute bien.
+
+-*who_laflamande
+      On le peut vous bien plaindre,
+Et je le croye bien fort que vous li devez craindre.
+Je l'ai bien eu sté mal, c'est li plus grand dy tous.
+Gi li fus pourtant pas malad si tant que vous.
+
+-*who_lahollande
+Quand vous prit-il ce mal ?
+
+-*who_laflamande
+      Gi m'en l'étais moquée :
+Dans l'an soixanty-sep gi l'en fus attaquée.
+
+-*who_lahollande
+Je m'en moquais de même, et ne le croyais pas ;
+Te l'aurais défié, mais il m'a mise à bas.
+
+-*who_beline
+Et si bas, que chacun doute qu'elle en relève.
+
+-*who_lahollande
+C'est un mal empesté dont tout mon monde crève.
+
+-*who_laflamande
+Il est michant sti mal, jel save bien mon foi,
+Il m'emporte d'un coup quatre l'enfants di moi.
+
+-*who_lahollande
+J'attends des médecins de grande expérience,
+Qui me soulageront.
+
+-*who_beline
+      Qui la tueront, je pense ;
+Ils sont tous étrangers. L'Epagnol et l'Anglais,
+Et l'Allemand encor, bref jusques au Français,
+Quelques-uns de ceux-là la tueront, je m'assure,
+
+-*who_laflamande
+Desté consulty-là gil tir point bon laugure ;
+Gil trouve grand vostri mal, gel voye qu'il vous a mis
+Dans l'esprit de li voir tretous vos l'ennemis.
+Mon Dam, songez-li bien à tous vos grands affaires,
+Les Médecins di hors, qu'il entre lis Notaires ;
+Le servelle li tourn, li toum li jugement,
+Et l'on prouve jamais li fair di testament.
+
+-*who_lahollande
+Madame s'il vous plaît, finissez votre prône.
+
+-*who_laflamande
+Desti mal-là mon face il devient blanc tout jaune :
+Et comme vostri mal qu'il est contagieux,
+Gil veux point que mes yeux il y voye vos yeux:
+Toute ces médicins li sont bourreaux, mon Dame.
+Ils vont faire mourir vous, Dieu prenne vous votre âme
+
+-*who_lahollande
+L'impertinente Masque ! Ah que j'en ai souffert !
+Pour me désespérer, elle était de concert :
+La petite Guenon avec son flux de bouche
+De Flamand Francisé, dirait-on qu'elle y touche ?
+Ah, ah, le maudit mal ! Ah je me sens fort bas,
+Eh tous ces médecins ?
+
+**** *book_ *id_I06 *act_I *date_1672
+
+-*who_marille
+      Ils arrivent là-bas.
+
+-*who_pacole
+Deux bourguemestres-là...
+
+-*who_lahollande
+      Qu'ils aillent tous aux Diables,
+Je ne puis plus souffrir ces monstres effroyables.
+
+**** *book_ *id_I07 *act_I *date_1672
+
+-*who_bourguemestre1
+Hé Madame, tout-beau.
+
+-*who_lahollande
+      Vos conseils odieux
+N'ont-ils pas attiré tout le mal dans ces lieux !
+Si vos esprits grossiers eussent prévu ces choses,
+Tout cela n'eut été peut-être que des roses,
+Je serais en repos ; et ce mauvais air-ci,
+Ne serait pas venu m'étouffer jusqu'ici,
+Et me tirer enfin les entrailles du ventre.
+
+-*who_bourguemestre2
+Pouvons-nous empêcher, Madame, que l'air n'entre ?
+Un air subtil encor comme l'est celui-là.
+Nous n'avons point d'emplâtre à mettre à tout cela,
+Et ces affaires-ci sont bien embarrassantes.
+Vous nous dites encor des paroles piquantes,
+Vous pourriez bien pour nous avoir plus de bonté,
+Et faire moins d'outrage à notre dignité.
+
+-*who_lahollande
+Ehque ces Médecins viennent-cn diligence)
+
+-*who_bourguemestre1
+Mais notre mal, Madame, est plus grand qu'on ne pense,
+Puisqu'il n'est que trop vrai que le sort nous a mis
+Au point de recourir à tous nos ennemis.
+Mais qui nous force à faire une celle bévue :
+Devons-nous endurer, Madame, qu'on vous tue ?
+Prétendez-vous avoir des consolations,
+En mandant des bourreaux de toutes Nations ?
+S'ils peuvent approcher un jour votre personne,
+En est-il quelqu'un d'eux qui ne vous empoisonne.
+Qui n'avance vos jours, et ne soit envieux
+De ce que vous avez rarement besoin d'eux ?
+De voir votre santé d'une telle durée,
+Que tout l'air infecté ne la point altérée ?
+Qu'eux-mêmes affligés, ils ont cent fois dit tous,
+Que la santé n'était au Monde que pour vous ?
+
+-*who_bourguemestre2
+Plus votre mal est grand, plus leur âme est ravie :
+Prenons un autre biais pour vous sauver la vie,
+Mais prenons-le chez nous, et que vos assassins
+S'en retournent chez eux faire les médecins.
+
+-*who_lahollande
+Que vous me fatiguez d'inutiles harangues !
+Hé laissez en repos vos ignorantes langues.
+
+**** *book_ *id_I08 *act_I *date_1672
+
+-*who_pacole
+Le Médecin Français, et l'Auglais sont ici.
+
+-*who_lahollande
+Voilà déjà l'Anglais.
+
+-*who_beline
+      Le Français !
+
+-*who_pacole
+      Le voici.
+
+-*who_lahollande
+Ha ! ha !
+
+-*who_francais
+      Qu'avez-vous donc ?
+
+-*who_anglais
+      Vos transports sont extrêmes.
+
+-*who_lahollande
+Hé qui le peut savoir, Messieurs, mieux que vous-mêmes !
+
+-*who_bourguemestre1
+Pouvons-nous bien souffrir ces nations chez nous ?
+
+-*who_bourguemestre2
+S'ils nous pouvaient crever...
+
+-*who_anglais
+      Taisez-vous ?
+
+-*who_francais
+      Taisez-vous ?
+
+-*who_bourguemestre1
+Nous parler de la sorte ! Apprenez à connaître
+Un Bourguemestre ici ? Sachez qu'il est le maître,
+Qu'il a le plein pouvoir, et que l'étant tous deux,
+Vous ne sauriez avoir trop de respect pour eux ?
+Qu'ils vous renverseraient de leur vent, de leur souffle ?
+Voyez, Madame, et puis....
+
+-*who_francais
+      Taisez vous, gros maroufle ?
+
+-*who_bourguemestre1
+Une telle insolence excite mon courroux.
+Vous m'appeliez maroufle, Insolent ?
+
+-*who_francais
+      Taisez-vous ?
+
+-*who_bourguemestre2
+Un soufflet devant moi ! Devant Madame Hollande !
+Madame, peut-on voir hardiesse plus grande ?
+Ici, le plus huppé tremble en parlant à nous,
+Hé...
+
+-*who_anglais
+      Taisez-vous gros âne ?
+
+-*who_bourguemestre2
+      Insolent !
+
+-*who_anglais
+      Taisez vous ?
+
+-*who_lahollande
+Vous en usez ainsi, Meilleurs ? Je vous le cède.
+
+-*who_anglais
+Selon le mal, il faut appliquer le remède.
+
+-*who_lahollande
+Mais sans apothicaire, et sans chirurgien,
+Vous le faites vous-même, et vous rappliquez bien.
+
+-*who_francais
+Il faut à certains maux des remèdes extrêmes.
+
+-*who_lahollande
+Ceux que vous me ferez, Messieurs, sont-ce les mêmes ?
+
+-*who_francais
+Hé nous venons ici, Madame, exprès pour vous,
+Et nous vous apportons des remèdes plus doux,
+Tout ce qui maintenant pourra vous satisfaire,
+Ou nous vous le ferons, ou vous le ferons faire.
+
+-*who_lahollande
+Hé dépêchez.
+
+-*who_francais
+      Avant que de rien ordonner,
+Mon avis est, qu'il faut la faire promener.
+
+-*who_anglais
+Madame, levez-vous ? Mon avis est le vôtre.
+
+-*who_lahollande
+Je ne crois pas pouvoir mettre un pied devant l'autre.
+Vite, vite, ma chaise. Ah que j'ai mal au cour !
+
+-*who_francais
+Voici le Médecin Espagnol. Serviteur.
+
+**** *book_ *id_I09 *act_I *date_1672
+
+-*who_espagnol
+Monsieur, Madame Hollande est je pense tombée.
+
+-*who_beline
+Monsieur, relevez-là. Je crois qu'elle est pâmée.
+
+-*who_espagnol
+Hé je lui vais donner de mon catholicon.
+Il est miraculeux.
+
+-*who_francais
+      Elle revient.
+
+-*who_espagnol
+      Bon, bon,
+
+-*who_beline
+Êtes-vous mieux, Madame ?
+
+-*who_anglais
+      Hé la voila remise.
+
+-*who_espagnol
+De mon Catholicum avalez cette prise.
+
+-*who_beline
+Hélas ! Elle se meurt, Monsieur, c'est du poison.
+
+-*who_francais
+Elle est fort mal, Monsieur.
+
+-*who_espagnol
+      Quoi ? Mon Catholicum
+Donne la vie.
+
+-*who_marille
+      Hélas ! Il a fait le contraire.
+
+-*who_espagnol
+Mais comment diable encor cela se peut-il faire ?
+Voila depuis deux ans que j'en donne à la Cour,
+Pour la troisième sois qu'il m'a joué ce tour.
+Mais son pouls est fort bon.
+
+-*who_beline
+      C'est mon bras, elle est morte.
+
+-*who_espagnol
+Je le croyais le sien, ou le diable m'emporte.
+Je m'étonnais aussi qu'elle eut le pouls si bon.
+
+-*who_beline
+Vous me serriez les bras d'une étrange façon !
+
+-*who_espagnol
+Elle revient.
+
+-*who_lahollande
+      Messieurs !
+
+-*who_francais
+      Les plus nobles parties
+N'agissent presque plus, n'ont plus ces sympathies
+Ni cette égalité dedans leurs fonctions,
+Et cela cause en vous ces agitations,
+Tous vos membres étant de Provinces Unies,
+Mais qui ne l'étant plus, toutes ces harmonies
+>Ne sont plus qu'un chaos : Enfin tout est péri,
+D'un concert que c'était, c'est un charivari,
+Les esprits y manquants, la gangrène succède,
+Il faut pour lors courir au périlleux remède,
+Il faut dis-je, extirper, et jouer des couteaux.
+Ainsi se corps formé par des membres si beaux,
+Qui semblait défier la mauvaise influence,
+Tout d'un coup est détruit, et tombe en décadence,
+Pour n'avoir point usé de ces précautions
+Qui préviennent le mal par des purgations.
+
+-*who_lahollande
+Un autre médecin qui se croit grand génie,
+Pour montrer ce qu'il sait, m'attend à l'agonie.
+C'est un Allemand.
+
+-*who_anglais
+      Oui, n'ayez aucun souci,
+Ce sera fait de vous, avant qu'il soit ici,
+Il a la goûte.
+
+-*who_lahollande
+      Lui ?
+
+-*who_anglais
+      Pour le moins je m'en doute,
+À voir comme il cause, il faut qu'il ait la goûte,
+Et quand il faut guérir un mal si violent,
+C'est un faible secours, qu'un remède si lent :
+Le voici.
+
+**** *book_ *id_I10 *act_I *date_1672
+
+-*who_allemand
+      J'ai la goûte aux pieds, ne vous déplaise.
+
+-*who_espagnol
+Elle mourra devant qu'il puisse être à sa chaise.
+L'un après l'autre enfin voyons donc ce qu'elle a,
+Et tâchons, s'il se peut, à la tirer de là.
+
+-*who_francais
+Voyons la langue un peu.
+
+-*who_lahollande
+      Ma mort est assurée.
+
+-*who_francais
+Ah la méchante langue ! Elle est toute ulcérée ;
+Le plus fort gargarisme est inutile là ;
+Nous n'avons que le feu pour dessécher cela.
+
+-*who_allemand
+Le pouls intermittent un fort mauvais augure :
+Elle ne la fera pas longue, je m'assure.
+
+-*who_beline
+Peut-elle encor durer quelque temps ?
+
+-*who_allemand
+      Eh pas trop.
+On voit bien que ce mal l'emmène au grand galop,
+Il est fort violent, la Nature est peu forte ,
+Et je ne doute point du tout qu'il ne l'emporte.
+Oui, le mal est trop grand, pour la pouvoir guérir,
+Je m'en vais, ne pouvant ici la secourir.
+
+-*who_espagnol
+Mais je ne la vois point encor désespérée,
+Son mal ne marque point une mort assurée.
+
+-*who_lahollande
+Mon espoir est en vous, ne m'abandonnez pas.
+
+-*who_espagnol
+Je ne vous quitte point jusqu'à votre trépas ;
+Je l'ai promis, Madame, et je tiendrai parole.
+
+-*who_lahollande
+Hé c'est dans mon malheur tout ce qui me console.
+
+-*who_espagnol
+Votre mal toutefois, Madame a pris un cours,
+Qu'on ne peut arrêter qu'avec un grand secours,
+Et même il n'est pas sûr, quelque grand qu'il puisse être,
+Qu'il le pût être assez pour en être le maître :
+Mais je vous veux servir sans intérêt, ainsi
+Je ne prétends de vous qu'un simple grand merci.
+
+-*who_lahollande
+Que pourrais-je donner ? Je suis dans l'impuissance.
+Chacun sait qu'autrefois j'étais dans l'opulence :
+Qu'une personne alors fut pauvre à n'avoir rien,
+Qu'elle eut avidité de se voir quelque bien,
+Hélas ! Elle n'avait, pour être satisfaite,
+Que s'en venir chez moi, sa fortune était faite.
+
+-*who_francais
+Vous n'avez point usé de régime du tout,
+Madame, votre mal nous pousse tous à bout ;
+Votre clou, votre poivre, et vos épiceries,
+N'ajoutent rien rien de bon à vos intempéries,
+Vos fromages encor irritent ce mal là,
+Et vous ne vous pouviez passer de tout cela.
+
+-*who_lahollande
+Je pense que les eaux me seraient salutaires.
+
+-*who_espagnol
+Les Minérales ? Point, elles vous sont contraires.
+
+-*who_lahollande
+J'entends parler des eaux de ce Pays.
+
+-*who_espagnol
+      Ah bon.
+Oui, les eaux du pays seraient fort de saison,
+En grande quantité sans doute elles conservent,
+Et nuisent autrement bien plus qu'elles ne servent.
+Mais le soleil ici brûle et dessèche tout,
+Où les prendre ? Il n'est rien dont il ne vienne à bout :
+Et cet astre brûlant qui vous est si contraire,
+Donne un peu trop à plomb dessus votre hémisphère.
+
+-*who_anglais
+Examinons un peu tout ce bas ventre-ci.
+Penchez-vous sur le dos ? Vous êtes bien ainsi.
+Que de malignité là-dedans est enclose !
+11est aisé de voir et le mal et la cause :
+Mais que ferons-nous là, Messieurs ? Vous voyez bien
+Par ce qui vous paraît, que le tout n'en vaut rien,
+Que ce bas ventre est plein de choses étrangères,
+Qui n'ont déjà que trop enflammé les viscères.
+À ces sortes de maux, le remède effectif,
+Est de lui faire prendre un fort grand vomitif.
+
+-*who_lahollande
+Un vomitif, Monsieur ! Je ne puis plus rien prendre.
+
+-*who_anglais
+C'est l'unique remède : il faut crever ou rendre,
+Madame, et prenant tout ce qu'on vous donnera,
+Je ne sais même encor si l'on vous sauvera.
+Le mauvais vent qui vient du côté de la Terre,
+Livre à votre santé cette mortelle guerre,
+Et celui de la mer qui vous fut excellent,
+N'est aujourd'hui pour vous qu'un mal très pestilent.
+Ainsi je suis certain, si cc mal ne vous tue,
+Que la mer vous doit être à jamais défendue,
+Et le poisson surtout, c'est pour vous un poison,
+Gardez-vous d'en manger en aucune saison.
+Votre pêche aux harengs encor, quoi qu'on en die,
+Cause une bonne part de votre maladie.
+Il faut lui provoquer un grand vomissement.
+
+-*who_francais
+Et lui tirer du sang, mais copieusement.
+
+-*who_lahollande
+Quoi me tirer du sang encor ? Quelle ordonnance !
+Je n'attendais pa smoins d'un médecin de France.
+Je me sens affaiblie, et ne puis faire un pas,
+On m'en a tant tiré, que l'on m'a mise à bas.
+Médecin dangereux !
+
+-*who_anglais
+      La langue de vipère !
+Toute prête à mourir, elle ne se peut taire ;
+Des injures toujours, elle n'a point cessé.
+
+-*who_francais
+C'est qu'elle veut finir comme elle a commencé.
+
+-*who_lahollande
+Le chagrin me dévore. Hélas ! Que faut-il faire ?
+
+-*who_anglais
+Votre mal n'étant pas un mal fort ordinaire,
+Il vous faut un remède aussi hors du commun.
+
+-*who_lahollande
+ïi n'en est point pour moy.
+
+-*who_francais
+      Bon, nous en avons un
+Qui contre votre mal est souverain, Madame.
+Vous avez, dites-vous, quelque chagrin dans l'âme.
+Vous estes triste ?
+
+-*who_lahollande
+      Hélas ! Plus qu'on ne peut penser.
+
+-*who_francais
+Monsieur l'Anglais et moi nous vous ferons danser.
+
+-*who_lahollande
+Danser !
+
+-*who_anglais
+      C'est le remède à votre maladie :
+La joie est l'antidote à la mélancolie.
+
+-*who_lahollande
+Que mes violons donc viennent dans le salon.
+
+-*who_francais
+Hé nous vous ferons bien danser sans violon.
+
+-*who_lahollande
+Vous vous moquez.
+
+-*who_anglais
+      Point, point. Êtes-vous la première
+Que Monsieur le Français traite de la manière ?
+
+-*who_lahollande
+Un petit violon, Messieurs, j'en ai de bons.
+
+-*who_francais
+Oui, vous avez chez vous de plaisants violons ?
+
+-*who_lahollande
+Je ne saurais danser, ma faiblesse est trop grande.
+
+-*who_francais
+Vous danserez pourtant, Madame la Hollande,
+C'est l'unique moyen de vous guérir.
+
+-*who_lahollande
+      Hé bien,
+Puisque vous le voulez, éprouvons ce moyen,
+Mon cour pour ce remède a de la répugnance,
+Et c'est, à dire vrai, malgré moi que je danse.
+
+-*who_francais
+Là, vous voilà fort bien, il vus observera.
+
+-*who_anglais
+Et quand vous broncherez, il vous relèvera.
+
+-*who_francais
+Jouez.
+
+-*who_lahollande
+      Les bons appuis pour la pauvre Hollande !
+
+-*who_francais
+Hé jouez donc, Messieurs, puisqu'on vous le demande ?
+
+-*who_lahollande
+Ha mes membres sont morts.
+
+-*who_francais
+      Les sentez-vous pas tous?
+
+-*who_lahollande
+Je ne les sens non plus que s'ils étaient à vous.
+Messieurs, je ne puis plus, soutenez-moi, la tête !
+Je ne me suis jamais trouvé à telle fête :
+Avant que de danser, Messieurs, je chancelais ;
+Cependant j'ai dansé plus que je ne voulais.
+Ma langue s'épaissit.
+
+-*who_francais
+      Voilà l'esquinancie.
+
+-*who_anglais
+L'Art de la Médecine, et de la Pharmacie,
+Ne la peuvent sauver.
+
+-*who_francais
+      Le mal augmentera.
+
+-*who_espagnol
+Pour moi, je ne sais pas ce que l'on en fera.
+
+-*who_anglais
+Ma foi, ni moi non plus.
+
+-*who_espagnol
+      Ses maux sont déplorables.
+
+-*who_francais
+Que l'on la fasse donc porter aux Incurables.
+Messieurs, séparons-nous.
+
+-*who_marille
+      Hélas ! Quel crève-cour !
+
+-*who_francais
+Serviteur.
+
+-*who_anglais
+      Serviteur.
+
+-*who_espagnol
+      Serviteur, Serviteur.

@@ -1,0 +1,742 @@
+
+
+**** *book_ *id_I01 *act_I *date_1718
+
+-*who_mercure
+Serviteur à Monsieur Gargot.
+
+-*who_monsieurgargot
+Que vois-je ! C'est le Dieu Mercure.
+
+-*who_mercure
+Je vous amène un bon écot.
+
+-*who_monsieurgargot
+C'est quelque galante aventure.
+
+-*who_mercure
+Non. Jupiter vient en ce jour.
+Chez vous avec toute sa Cour.
+Nous y venons célébrer les noces de Thétis et de Pelée.
+Vous y verrez Pallas, Junon,
+Vous y verrez Pallas, Junon,
+Et la Mère de Cupidon :
+Dondaine, dondaine,
+Et mainte autre Dondon.
+Olympienne.
+
+-*who_monsieurgargot
+Le Grand Jupiter fait trop d'honneur à ma Guinguette.
+Je vais me mettre en quatre, pour contenter une si belle compagnie.
+
+-*who_mercure
+Ils ont déjà dîné.
+Ils viennent pour passer ici l'après-dinée, et y souper ensuite.
+Tenez.
+Voilà l'ordre du repas.
+Mettez vite la main à la pâte.
+
+-*who_monsieurgargot
+Je ne perdrai point de temps.
+Holà !
+Garçons !
+Vous placerez ces deux Bourgeoises avec ces deux Officiers dans la chambre sur le devant.
+
+-*who_mercure
+L'ordre est judicieux.
+
+-*who_monsieurgargot
+Ils avaient retenu celle-ci qui est plus particulière.
+
+-*who_mercure
+Ils choisissent bien les logements.
+Ce sont apparemment deux Maréchaux des Logis.
+
+-*who_monsieurgargot
+Garçons !
+Mettez du vin au frais.
+
+-*who_mercure
+Oui ; mais point de chasse-cousin, s'il vous plaît.
+
+-*who_monsieurgargot
+Oh !
+Nous n'avons que du bon.
+
+-*who_mercure
+Eh !
+Mon enfant, à qui vendez-vous vos coquilles ?
+Ce n'est pas le vin qu'on vient chercher ici.
+
+-*who_monsieurgargot
+D'accord, mais j'en ai d'excellent.
+
+-*who_mercure
+Il faudra qu'il soit exquis pour piquer des gosiers accoutumés au nectar.
+Un peu trop de douceur ou d'âcreté les dégoûtera.
+
+-*who_monsieurgargot
+De l'âcreté !
+Loin de trouver mes vins trop acres,
+Je réponds que Messieurs les Dieux.
+S'en retourneront tous aux Cieux
+Plus ivres que des Fiacres.
+
+-*who_mercure
+Si cela arrive, les Déesses seront aussi bien conditionnées, sur ma parole.
+Ma foi, le Sexe féminin
+Aujourd'hui fait honneur au vin,
+Lon-lan la, derirette.
+
+-*who_monsieurgargot
+Qui le voit mieux que nous ici ?
+Lonlan la, deriri.
+
+-*who_mercure
+Mais, voici Jupiter.
+
+**** *book_ *id_I02 *act_I *date_1718
+
+-*who_jupiter
+Allons, allons, allons
+À la Guinguette, allons.
+De la joie, mes enfants, de la joie.Je suis en train aujourd'hui.
+Divertissons-nous.Du vin, du vin comme de l'eau.
+
+-*who_monsieurgargot
+Vous en aurez bientôt de frais.
+
+-*who_jupiter
+Et des violons, n'y en a-t-il pas ici ?
+
+-*who_monsieurgargot
+D'excellents.
+
+-*who_jupiter
+Bon.
+Tant mieux.
+Je veux danser, et me réjouir comme un compère.
+
+-*who_monsieurgargot
+Ce Jupiter me paraît bonhomme : Je le crois même un peu bête.
+
+-*who_mercure
+Vous lui faites grâce du peu.
+
+-*who_jupiter
+Dansons.
+Chantons.
+Morbleu !
+Qu'il est doux de laisser sa qualité à la porte d'une Guinguette, et de goûter des plaisirs à la croque-au-sel !
+
+-*who_mercure
+Aussi, cela se fait assez souvent.
+
+-*who_jupiter
+Mais, Dame Vénus, je ne vois point ici votre fils.
+Où est-il donc, ce petit coquin ?
+
+-*who_venus
+Je ne sais.
+Il ne suit que sa fantaisie.
+
+-*who_mercure
+Vous ne l'attendrez pas longtemps.
+Le voici.
+
+**** *book_ *id_I03 *act_I *date_1718
+
+-*who_venus
+Hé, d'où venez-vous donc, petit fripon.
+
+-*who_lamour
+Oh, dame !
+Chacun a ses affaires.
+
+-*who_venus
+Comme vous répondez !
+Qu'avez-vous donc ?
+Quelle mine vous faites ?
+
+-*who_lamour
+Je ne saurais la faire meilleure, tant que je verrai devant moi ce benêt d'Hymen.
+C'est ma bête.
+
+-*who_lhymen
+En vain vous faites la grimace ;
+Je triomphe en cet heureux jour.
+Cédez le pas de bonne grâce.
+
+-*who_lamour
+Cédez-le vous-même à l'Amour.
+Ha, ha, ha !
+Regardez un peu ce nigaud, avec sa face de papier mâché.
+Ah ! Voyez donc comme il est fait !
+Avec ton air plat et discret.
+Tu fais trop le Dieu d'importance.
+Y-avance , y-avance, y-avance,
+Avec ton habit d'ordonnance.
+
+-*who_jupiter
+Mes enfants, point de querelle.
+
+-*who_lamour
+Je suis fâché d'être venu ici, puisque je l'y trouve.
+
+-*who_lhymen
+Tout beau, Seigneur Cupidon.
+Ma compagnie vous fait honneur, au moins.
+Malgré cette humeur vaine,
+Dans plus d'une maison,
+Boudrillon,
+Vous ne pouvez,, sans peine,
+Entrer que sous mon nom,
+Boudrillon.
+Petit boudrillon,
+Boudrillon, dondaine,
+Petit boudrillon,
+Boudrillon, dondon.
+
+-*who_lamour
+Il est vrai que vous êtes un prête-nom.
+Mais sans moi, mon ami, vous auriez l'air d'attendre longtemps la pratique.
+
+-*who_lhymen
+Pourquoi donc, sans vous ?
+
+-*who_lamour
+J'aveugle les amants
+Qui prennent votre chaîne ;
+C'est moi qui vous les mène,
+Qui, cachant vos tourments,
+Leur peins vos noeuds charmants,
+Après tout, vous n'avez que mes restes.
+
+-*who_lhymen
+Oh !
+Je me passe de vous assez souvent.
+
+-*who_lamour
+Oui ; mais cela va d'une belle dégaine, quand je ne suis pas de la partie.
+
+-*who_lhymen
+Allez.
+Vous n'êtes qu'un libertin.
+
+-*who_lamour
+Et vous, qu'un vil esclave.
+Écoutez ce que dit l'Opéra :
+L'Hymen vient quand on l'appelle,
+L'Amour vient quand il lui plaît.
+L'Opéra met entre nous bien de la différence comme vous voyez.
+
+-*who_lhymen
+L'Opéra dit bien d'autres sottises.
+C'est un impertinent, et vous aussi.
+
+-*who_lamour
+Et vous, vous êtes un sot.
+
+-*who_lhymen
+À qui en veut donc ce brutal ?
+
+-*who_jupiter
+Hé-bien, hé-bien...
+Cela finira-t-il ; bientôt ?
+On vient ici pour se réjouir, et...
+
+-*who_venus
+Allons, mon fils, soyez sage.
+
+-*who_jupiter
+Je veux que vous vous raccommodiez avec l'Hymen : Tout en ira mieux.
+
+-*who_lamour
+Au contraire.
+Sans mes petits tours de passe-passe, tout irait sans-dessus-dessous.
+Voulez-vous que je vous le prouve.
+
+-*who_jupiter
+Voyons.
+
+-*who_lamour
+Si d'une pudique flamme
+Le Magistrat, le Marquis
+Brûlait toujours pour sa femme,
+Que deviendraient cent belles à Paris ?
+
+-*who_jupiter
+Il a raison.
+
+-*who_venus
+L'Enfant dit vrai.
+
+-*who_lamour
+Très souvent d'un père à béquille,
+Qui se voit sans espoir d'enfants,
+Je fais recruter la famille ,
+Et faire honneur à ses vieux ans.
+
+-*who_jupiter
+Cela est véritable.
+
+-*who_venus
+Oh, pour cela, oui.
+
+-*who_lamour
+Ce Procureur à mine austère
+Pourrait-il, par sa maigre chère,
+Garder jamais de clercs chez lui,
+Si Madame la Procureuse,
+En secret plaignant leur ennui,
+Ne leur devenait gracieuse.
+C'est pourtant mon ouvrage, cela.
+
+-*who_jupiter
+Mais, mais, il a raison.
+
+-*who_venus
+L'Enfant dit vrai.
+
+-*who_lamour
+Sans moi, que deviendraient la Villette, Passy, les Bois de Boulogne et de Vincennes, Charenton, la Râpée, etc.
+Ces doux asiles des époux mal-assortis, ces correctifs de la nonchalance des maris deviendraient d'affreux déserts.
+
+-*who_jupiter
+Tout cela est le mieux du monde, mon enfant ; mais fais quelque chose pour Thétis et Pelée.
+
+-*who_lamour
+Soit : Mais, ce sera sans tirer à conséquence.
+
+-*who_jupiter
+Voilà qui est bien.
+Dansons présentement.
+
+-*who_jupiter
+Que signifie donc cette vapeur-là ?
+Qui diable fait un si grand sabat ?
+Ah, morbleu !
+C'est cette vilaine Discorde !
+Voila bien du rabat-joie.
+Jarni !
+
+**** *book_ *id_I04 *act_I *date_1718
+
+-*who_ladiscorde
+Ah !
+Ha !
+Je vous y atrape !
+Dianche !
+Comme vo z'y âllez !
+Hé, d'où vient donc que vous né m'avez pas priée de la noche ?
+
+-*who_mercure
+On a grand tort, assurément.
+
+-*who_jupiter
+Peste de Normande, ta présence m'afflige.
+Va-t-en au Diable.
+
+-*who_ladiscorde
+Hé !
+Vas y tey-même, grand Chenapan.
+
+-*who_jupiter
+Morguienne de vous.
+Quell' femme, quell' femme,
+Morguienne de vous,
+Quell' femme êtes vous.
+
+-*who_ladiscorde
+J'aurais été de trop ichit, apparemment.
+No valons pourtant bien toutes ces Pinbéches-là.
+Demandez à ces deux Normands
+Combien j'ai fait d'amants
+
+-*who_undesnormands
+Donn' z'au Guiéble, tout notre pais
+En va pour ses attraits.
+
+-*who_ladiscorde
+Domfront reconnoît ma puissance,
+Ainsi que Valogne et Guibray ;
+L'on m'adore à Vire, à Coutance,
+Tout Caen ne jure que par mey.
+
+-*who_undesnormands
+Oh !
+Vére, mâ fey.
+
+-*who_jupiter
+Plaisante puissance.
+
+-*who_lenormand
+All est aussi pissante que vo, si pus n'est.
+
+-*who_ladiscorde
+Vére, Guieume dânne !
+Pat la sang-Guiêble !
+Il me prend envie de vo galvauder tretons, et de jeter par les fernêtres les Dieux, les Diesses ry les violons z'aussi.
+
+-*who_junon
+Ma Comète, ne te fâche point.
+Si nous ne t'avons pas mise de la partie, ce n'a point été par mépris.
+Tu sais que je t'ai toujours aimée.
+
+-*who_venus
+On nous a dit que tu avais affaire aujourd'hui.
+
+-*who_ladiscorde
+Cela est vrai.
+On a besoin de mey dans l'Université de Paris, où l'on va procéder ; à sélection d'un Recteur : mais, item, il fallait tréjours me semoncer de lâ noche.
+
+-*who_junon
+Tu n'aurois rien perdu pour cela, mon enfant, nous t'aurons gardé une part de gâteau.
+
+-*who_ladiscorde
+Ah !
+Que vo z'êtes de braves femmes !
+Tenez par reconnaissance via un petit présent que je vo fais.
+
+-*who_venus
+Voyons, voyons.
+
+-*who_ladiscorde
+C'est une poume de Vire z'en Normandie.
+Que Junon, Pallas et Venus se la disputent.
+
+-*who_junon
+Ah ! donne-la moi, ma mignonne.
+Avec quel plaisir je la vois 1
+
+-*who_ladiscorde
+Non, s'il vo pglaît, je ne la donne
+Qu'à la plus belle de vo trois.
+
+-*who_lestroisdeesses
+C'est donc pour moi, c'est donc pour moi.
+
+-*who_ladiscorde
+Tenez, vieux Grigou.
+C'est en vos mains que je lâ remets, pour en faire l'adjudication comme adviserez bon être.
+
+-*who_jupiter
+Que voulez-vous que j'en fasse, moi ?
+
+-*who_ladiscorde
+Ce qu'il vo pglaira.
+Adieu.
+Réjouissez-vo bien , mez'efans.
+Cette poume vo bâillera du tintoin, comptez là-dessus.
+
+**** *book_ *id_I05 *act_I *date_1718
+
+-*who_jupiter
+Peste de la Carogne, avec sa chienne de pomme.
+
+-*who_mercure
+Hé, pourquoi la preniez-vous ?
+En vous la donnant on vous avertit qu'elle sera fatale, vous êtes assez sot pour la recevoir.
+
+-*who_jupiter
+Oui, j'ai tort, il est vrai, j'ai tort.
+Ah !
+Maudite Discorde !
+
+-*who_junon
+Ça, ça, qu'on nous donne cette pomme.
+
+-*who_pallas
+Ne différons point.
+
+-*who_venus
+C'est le plus pressé.
+
+-*who_jupiter
+Hé bien, hé bien, ne voilà-t-il pas déjà le commencement du branle ?
+Ah !
+Que je prévois de maux à l'heure qu'il est !
+
+-*who_pallas
+Mon Papa, dépêchez-vous.
+Considérez ma figure.
+
+-*who_junon
+Allons, mon fils, jugez-nous.
+
+-*who_jupiter
+Turelure.
+
+-*who_venus
+J'aurai le prix, je vous jure.
+
+-*who_pallas
+Robin, turelure lure.
+
+-*who_jupiter
+Oh !
+Que je me garderai bien de prononcer entre vous.
+
+-*who_pallas
+Décidez en Maître des Dieux.
+
+-*who_venus
+Il ne faut avoir que des yeux ;
+Pour bien décider cette affaire.
+
+-*who_junon
+Laire la, laire lan-laire,
+Laire la,
+Laire lan-la.
+
+-*who_jupiter
+Je n'en ferai rien, vous dis-je.
+Rapportez-vous-en à quelque mortel qui ait du discernement.
+
+-*who_mercure
+J'ai votre fait, Mesdames.
+
+-*who_junon
+Qui ?
+
+-*who_mercure
+Pâris.
+C'est un Berger de Charenton, un Virtuose, qui fait arrêter les carrosses, et nouer l'éguillette.
+
+-*who_pallas
+J'ai entendu parler de ce drôle-là.
+
+-*who_mercure
+C'est lui qui juge les querelles
+De tous les Bergers d'alentour.
+
+-*who_venus
+Qu'il juge donc trois Immortelles ;
+Qu'il ait cet honneur en ce jour.
+
+-*who_jupiter
+Portez vite cette pomme à Pâris : Qu'il la donne à qui elle appartient.
+Pour nous, que cela ne regarde plus, continuons de nous réjouir.
+
+**** *book_ *id_I06 *act_I *date_1718
+
+-*who_paris
+Gardons nos moutons,
+Lirette , liron,
+Liron, lire, lirette.
+
+**** *book_ *id_I07 *act_I *date_1718
+
+-*who_mercure
+Apprends à quel sort glorieux
+T'élève le Maître des Dieux ;
+Il met en tes mains la querelle
+De Junon, Pallas et Venus ;
+Donne ce prix à la plus belle.
+Voilà ses ordres absolus.
+
+-*who_paris
+Jupiter me gonfle d'honneur.
+Vous pouvez, mon ami Mercure,
+Aller dire à ce bon Seigneur
+Qu'il doit compter sur ma droiture.
+Quel bruit fait retentir ces lieux ?
+
+-*who_mercure
+C'est Pallas qui s'offre à tes yeux.
+
+**** *book_ *id_I08 *act_I *date_1718
+
+-*who_pallas
+Suis, Pâris mes étendards,
+Si tu veux, briller dans l'histoire ;
+Viens dans les nobles hasards
+Chercher une immortelle gloire,
+La fière Pallas,
+Suivra tes pas
+Dans les combats ;
+Tu deviendras
+Un fier-à-bras.
+
+-*who_paris
+Hoïmé !
+Je suis mort.
+
+-*who_pallas
+Ne crains rien.
+C'est Junon qui s'approche.
+
+**** *book_ *id_I09 *act_I *date_1718
+
+-*who_paris
+Morbleu, Madame Junon, vous m'avez fait grand-peur !
+Ne sauriez vous m'aider d'une manière moins bruyante ?
+
+-*who_junon
+Berger, ce qui cause ta peur
+N'était que pour te faire honneur :
+Le Dieu des Cieux et de la Terre
+A bien voulu te régaler
+De ce petit coup de tonnerre,
+Que tu viens d'entendre rouler.
+
+-*who_paris
+Beau régal, ma foi.
+
+**** *book_ *id_I10 *act_I *date_1718
+
+-*who_venus
+De toi dépend toute ma gloire,
+Aurai-je le don précieux ?
+Oui, Berger, je lis dans tes yeux
+Ma prochaine victoire.
+
+-*who_paris
+Tudieu ! Quel essaim d'appas !
+Peut-on voir un plus beau bras ?
+Plus blanc, plus mignon
+Plus ferme et plus rond ?
+Ah ! Quelle main jolie !
+Ces petits doigts d'un moribond
+Rappelleraient la vie,
+Loula,
+Rappelleraient la vie.
+
+-*who_pallas
+Mon ami, juge en ma faveur.
+
+-*who_junon
+Je compte sur la préférence.
+
+-*who_venus
+Je connais bien son tendre coeur ;
+Je ferai pencher la balance.
+
+-*who_paris
+Mais voulez-vous sur l'apparence
+Que je prononce ma sentence ?
+Puisqu'il s'agit de vos attraits,
+Il faut, Mesdames les Déesses,
+Qu'à fond de ce fameux procès
+J'examine toutes les pièces.
+
+-*who_venus
+Le petit badin !
+
+-*who_junon
+Charmant Berger, accepte l'abondance.
+
+-*who_venus
+Je te promets des plaisirs à ton choix.
+
+-*who_pallas
+C'est moi, mon cher, qui donne la prudence,
+Et la valeur mère des grands exploits.
+
+-*who_venus
+Laisse-là les armes ;
+Les travaux guerriers,
+Pour de vains lauriers
+Causent mille alarmes :
+Ce sont les Amours
+Qui font les beaux jours.
+
+-*who_paris
+Ne vantez point les combats,
+Je n'en tâterai pas.
+
+-*who_pallas
+De la valeur je suis la source.
+
+-*who_junon
+Il n'est rien de bon que la bourse ;
+Et l'amant comme le héros
+N'est jamais en repos.
+
+-*who_venus
+Pâris, sois plus sage,
+Méprise son or ;
+Le plus grand trésor
+Offre un esclavage ;
+Ce sont les Amours
+Qui font les beaux jours.
+
+-*who_paris
+Cela mérite réflexion.
+
+-*who_junon
+Tu ne choisis point les richesses !
+
+-*who_pallas
+La valeur ne te touche pas !
+
+-*who_paris
+Je penche fort vers les espèces ;
+Mais l'Amour a bien des appas.
+
+-*who_pallas
+Je te donne le bras d'Ulysse.
+
+-*who_junon
+Et moi, des biens et des honneurs.
+
+-*who_venus
+Moi, la main d'une jeune actrice,
+Qui doit ruiner vingt seigneurs.
+
+-*who_paris
+Oh, parbleu, attendez.
+Je vais vous accorder toutes trois.
+
+-*who_junon
+Que veux-tu faire ?
+
+-*who_paris
+Partager la pomme entre vous !
+Et pour mes trois pièces, vous me donnerez chacune un peu de votre marchandise.
+
+-*who_venus
+Je veux tout ou rien.
+
+-*who_paris
+Eh bien, elle est à vous, belle Vénus.
+Au diable l'argent et les armes ;
+À vos promesses je me rends.
+
+-*who_junon
+Tu décides sur les présents,
+Au lieu de juger sur nos charmes ?
+
+-*who_pallas
+Est-ce là juger sainement ?
+
+-*who_paris
+L'Opéra fait-il autrement ?
+
+-*who_pallas
+Tu méprises la gloire !
+Tu mourras dans l'histoire
+Comme un lâche soldat.
+
+-*who_junon
+Va. Je me donne au Diable,
+Tu seras, Misérable,
+Toujours gueux comme un rat,
+
+**** *book_ *id_I11 *act_I *date_1718
+
+-*who_paris
+Je pourrais bien être un sot homme,
+D'avoir ainsi livré la pomme.
+Junon m'annonce un sort fatal :
+Vous l'avez entendu, Madame.
+
+-*who_venus
+Bon. Peux-tu craindre l'hôpital ?
+Je te donne une belle femme.
+
+-*who_paris
+Et vogue la galère,
+Tant qu'elle, tant qu'elle,
+Et vogue la galère,
+Tant qu'elle pourra voguer.

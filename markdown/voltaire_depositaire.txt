@@ -1,0 +1,3812 @@
+---
+identifier: voltaire_depositaire  
+creator: Voltaire  
+date: (non  
+title: Le dépostaire. , comédie  
+---
+
+
+LE DÉPOSTAIRE
+
+COMÉDIE EN CINQ ACTES
+
+1769
+
+Voltaire
+
+
+.
+
+
+# AVERTISSEMENT DE MOLAND.
+
+Voltaire, dans ses Mélanges littéraires, a raconté l'anecdote qui fait le sujet de cette comédie avec plus de détails qu'il ne le fait dans la préface ci-après: « Lorsque M. de Gourville, qui fut nommé vingt-quatre heures pour succéder à Colbert et que nous avons vu mourir l'un des hommes de France le plus considéré; lors, dis-je, que ce M. de Gourville, craignant d'être pendu en personne comme il le fut en effigie, s'enfuit de France en 1661, il laissa deux cassettes pleines d'argent, l'une à Mlle de Lenclos, l'autre à un faux dévot. A son retour, il trouva chez Ninon sa cassette en fort bon état; il y avait même plus d'argent qu'il n'en avait laissé, parce que les espèces avaient augmenté depuis ce temps-là. Il prétendit qu'au moins le surplus appartenait de droit à la dépositaire; elle ne lui répondit qu'en le menaçant de faire jeter la cassette par les fenêtres. Le dévot s'y prit d'une autre façon, il dit qu'il avait employé son dépôt en oeuvres pies, et qu'il avait préféré le salut de l'âme de Gourville à un argent qui sûrement l'aurait damné. »
+
+Il ne faudrait pas sans doute se porter garant de la parfaite exactitude de tous ces détails. Mais il y avait certainement quelque vérité dans le fond de l'anecdote. Saint-Évremond écrit à Ninon de Lenclos elle-même: « Car enfin, ma belle gardeuse de cassette, la réputation de votre probité est particulièrement établie sur ce que vous avez résisté à des amants qui se fussent accommodés volontiers de l'argent de vos amis... 
+Dans un couvent, en soeur dépositaire,  
+Vous auriez bien ménagé quelque affaire;  
+Et dans le monde, à garder les dépôts,  
+On vous eût justement préférée aux dévots. »  
+
+(Les Véritables Oeuvres de M. de Saint-Évremont, Londres, 1707, tome II, pages 395-396.)
+
+
+# AVERTISSEMENT DE BEUCHOT.
+
+Dans les éditions de Kehl on lit, au titre de cette pièce: comédie de société, jouée à la campagne en 1767. Cependant la première lettre où Voltaire en parle est celle à Thieriot, du 6 mars 1769. C'est à la date du 5 février 1770 que les Mémoires secrets en font mention pour la première fois ; et Wagnière n'a fait ici aucune observation. L'auteur n'avait pas destiné sa pièce au théâtre. Cependant, huit mois plus tard, on en fit une lecture au comité du Théâtre-Français, qui, ne sachant d'où elle venait, la refusa.
+
+Ce ne fut que deux ans après que Voltaire la fit imprimer. La première édition est sans préface: mais au bas de la liste des personnages on lit en note: « Le fond de cette comédie est tiré des mémoires du temps. Rien n'est plus connu que l'histoire d'un dépôt nié par un homme très grave, et rendu par la célèbre Ninon. »
+
+Une autre édition, aussi de 1772, n'a plus cette note, mais contient la Préface qui suit ; c'est cette édition qui forme le texte actuel. C'est l'édition de 1772 avec la note au bas de la liste des personnages, qui présente les variantes.
+
+L'abbé de Châteauneuf, auteur du Dialogue sur la musique des anciens,ouvrage savant et agréable, rapporte à la page 104 l'anecdote suivante:
+
+« Molière nous cita Mlle Ninon de Lenclos comme la personne qu'il connaissait sur qui le ridicule faisait une plus prompte impression, et nous apprit qu'ayant été la veille lui lire son Tartuffe (selon sa coutume de la consulter sur tout ce qu'il faisait), elle le paya en même monnaie par le récit d'une aventure qui lui était arrivée avec un scélérat à peu près de cette espèce, dont elle lui fit le portrait avec des couleurs si vives et si naturelles que, si sa pièce n'eût pas été faite, nous disait-il, il ne l'aurait jamais entreprise, tant il se serait cru incapable de rien mettre sur le théâtre d'aussi parfait que le Tartuffe de Mlle Lenclos. »
+
+Supposé que Molière ait parlé ainsi, je ne sais à quoi il pensait. Cette peinture d'un faux dévot, si vive et si brillante dans la bouche de Ninon, aurait dû au contraire exciter Molière à composer sa comédie du Tartuffe, s'il ne l'avait pas déjà faite. Un génie tel que le sien eût vu tout d'un coup, dans le simple récit de Ninon, de quoi construire son inimitable pièce, le chef-d'oeuvre du bon comique, de la saine morale, et le tableau le plus vrai de la fourberie la plus dangereuse. D'ailleurs il y a, comme on sait, une prodigieuse différence entre raconter plaisamment et intriguer une comédie supérieurement.
+
+L'aventure dont parlait Ninon pouvait fournir un bon conte, sans être la matière d'une bonne comédie.
+
+Je me souviens qu'étant un jour dans la nécessité d'emprunter de l'argent d'un usurier, je trouvai deux crucifix sur la table. Je lui demandai si c'étaient des gages de ses débiteurs; il me répondit que non; mais qu'il ne faisait jamais de marché qu'en présence du crucifix. Je lui repartis qu'en ce cas un seul suffisait, et que je lui conseillais de le placer entre les deux larrons. Il me traita d'impie, et me déclara qu'il ne me prêterait point d'argent. Je pris congé de lui; il courut après moi sur l'escalier, et me dit, en faisant le signe de la croix, que, si je pouvais l'assurer que je n avais point eu de mauvaises intentions en lui parlant, il pourrait conclure mon affaire en conscience. Je lui répondis que je n'avais eu que de très bonnes intentions. Il se résolut donc à me prêter sur gage à dix pour cent pour six mois, retint les intérêts par devers lui, et au bout des six mois il disparut avec mes gages, qui valaient quatre ou cinq fois l'argent qu'il m'avait prêté. La figure de ce galant homme, son ton de voix, toutes ses allures, étaient si comiques qu'en les imitant j'ai fait rire quelquefois des convives à qui je racontais cette petite historiette. Mais certainement si j'en avais voulu faire une comédie, elle aurait été des plus insipides.
+
+Il en est peut-être ainsi de la comédie du Dépositaire. Le fond de cette pièce est ce même conte que Mlle Lenclos fit à Molière. Tout le monde sait que Gourville ayant confié une partie de son bien à cette fille si galante et si philosophe, et une autre à un homme qui passait pour très dévot, le dévot garda le dépôt pour lui, et celle qu'on regardait comme peu scrupuleuse le rendit fidèlement sans y avoir touché.
+
+Il y a aussi quelque chose de vrai dans l'aventure des deux frères. Mlle Lenclos racontait souvent qu'elle avait fait un honnête homme d'un jeune fanatique, à qui un fripon avait tourné la tête, et qui, ayant été volé par des hypocrites, avait renoncé à eux pour jamais.
+
+De tout cela on s'est avisé de faire une comédie, qu'on n'a jamais osé montrer qu'à quelques intimes amis. Nous ne la donnons pas comme un ouvrage bien théâtral; nous pensons même qu'elle n'est pas faite pour être jouée. Les usages, le goût, sont trop changés depuis ce temps-là. Les moeurs bourgeoises semblent bannies du théâtre. Il n'y a plus d'ivrognes: c'est une mode qui était trop commune du temps de Ninon. On sait que Chapelle s'enivrait presque tous les jours ; Boileau même, dans ses premières satires, le sobre Boileau parle toujours de bouteilles de vin, et de trois ou quatre cabaretiers, ce qui serait aujourd'hui insupportable.
+
+Nous donnons seulement cette pièce comme un monument très singulier, dans lequel on retrouve mot pour mot ce que pensait Ninon sur la probité et sur l'amour. Voici ce qu'en dit l'abbé de Châteauneuf, page 119:
+
+« Comme le premier usage qu'elle a fait de sa raison a été de s'affranchir des erreurs vulgaires, elle a compris de bonne heure qu'il ne peut y avoir qu'une même morale pour les hommes et pour les femmes. Suivant cette maxime, qui a toujours fait la règle de sa conduite, il n'y a ni exemple ni coutume qui pût lui faire excuser en elle la fausseté, l'indiscrétion, la malignité, l'envie, et tous les autres défauts, qui, pour être ordinaires aux femmes, ne blessent pas moins les premiers devoirs de la société.
+
+« Mais ce principe, qui lui fait ainsi juger des passions selon ce qu'elles sont en elles-mêmes, l'engage aussi, par une suite nécessaire, à ne les pas condamner plus sévèrement dans l'un que dans l'autre sexe. C'est pour cela, par exemple, qu'elle n'a jamais pu respecter l'autorité de l'opinion dans l'injustice qu'ont les hommes de tirer vanité de la même passion à laquelle ils attachent la honte des femmes, jusqu'à en faire leur plus grand, ou plutôt leur unique crime, de la même manière qu'on réduit aussi leurs vertus à une seule, et que la probité, qui comprend toutes les autres, est une qualification aussi inusitée à leur égard que si elles n'avaient aucun droit d'y prétendre. »
+
+Ce caractère est précisément le même qu'on retrouve dans la pièce, et ces traits nous ont paru suffire pour rendre l'ouvrage précieux à tous les amateurs des singularités de notre littérature, et surtout à ceux qui cherchent avec avidité tout ce qui concerne une personne aussi singulière que Mlle Ninon Lenclos. Le lecteur est seulement prié de faire attention que ce n'est pas la Ninon de vingt ans, mais la Ninon de quarante.
+
+
+# PERSONNAGES.
+ – NINON, femme de trente-cinq à quarante ans, très bien mise; grand caractère du haut comique.
+ – GOURVILLE L'AÎNÉ, grand nigaud, habillé de noir, mal boutonné, une mauvaise perruque de travers, l'air très gauche.
+ – GOURVILLE LE JEUNE, petit-maître du bon ton.
+ – MONSIEUR GARANT, marguillier, en manteau noir, large rabat, large perruque, pesant ses paroles, et l'air recueilli.
+ – L'AVOCAT PLACET, en rabat et en robe, l'air empesé, et déclamant tout.
+ – MONSIEUR AGNANT, bon bourgeois, buveur, et non pas ivrogne de comédie.
+ – MADAME AGNANT, habillée et coiffée à l'antique, bourgeoise acariâtre.
+ – LISETTE, valet de comédie dans l'ancien goût.
+ – PICARD, valet de comédie dans l'ancien goût.La scène est chez Mlle Ninon de Lenclos, au Marais.
+
+
+# ACTE I.
+
+
+## SCÈNE I. Ninon, Le Jeune Gourville.
+
+    LE JEUNE GOURVILLE.
+Ainsi, belle Ninon, votre philosophie  
+Pardonne à mes défauts, et souffre ma folie.  
+De ce jeune étourdi vous daignez prendre soin.  
+Vous êtes tolérante, et j'en ai grand besoin.  
+
+    NINON. [1]
+J'aime assez, cher Gourville, à former la jeunesse.  
+Le fils de mon ami vivement m'intéresse ;  
+Je touche à mon hiver, et c'est mon passe-temps  
+De cultiver en vous les fleurs d'un beau printemps.  
+N'étant plus bonne à rien désormais pour moi-même,  
+Je suis pour le conseil ; voilà tout ce que j'aime :  
+Mais la sévérité ne me va point du tout.  
+Hélas ! on sait assez que ce n'est point mon goût.  
+L'indulgence à jamais doit être mon partage ;  
+J'en eus un peu besoin quand j'étais à votre âge.  
+Eh bien ! vous aimez donc cette petite Agnant ?  
+
+    LE JEUNE GOURVILLE.
+Oui, ma belle Ninon.  
+
+    NINON.
+        C'est une aimable enfant ;  
+Sa mère quelquefois dans la maison l'amène.  
+J'ai l'oeil bon ; j'ai prévu de loin votre fredaine.  
+Mais est-ce un simple goût, une inclination ?  
+
+    LE JEUNE GOURVILLE.
+Du moins pour le présent c'est une passion.  
+Un certain avocat pour mari se propose :  
+Mais auprès de la fille il a perdu sa cause.  
+
+    NINON.
+Je crois que mieux que lui vous avez su plaider.  
+
+    LE JEUNE GOURVILLE.
+Je suis assez heureux pour la persuader.  
+
+    NINON.
+Sans doute vous flattez et le père et la mère,  
+Et jusqu'à l'avocat ; c'est le grand art de plaire.  
+
+    LE JEUNE GOURVILLE.
+J'y mets comme je puis tous mes petits talents.  
+Le père aime le vin.  
+
+    NINON.
+        C'est un vice du temps,  
+La mode en passera. Ces buveurs me déplaisent ;  
+Leur gaîté m'assourdit, leurs vains discours me pèsent,  
+J'aime peu leurs chansons, et je hais leur fracas ;  
+La bonne compagnie en fait très peu de cas.  
+
+    LE JEUNE GOURVILLE.
+La mère Agnant est brusque, emportée, et revêche,   [2]
+Sotte, un oison bridé devenu pie-grièche,  
+Bonne diablesse au fond.  
+
+    NINON.
+        Oui, voilà trait pour trait  
+De nos très sots voisins le fidèle portrait.  
+Mais on doit se plier à souffrir tout le monde,  
+Les plats et lourds bourgeois dont cette ville abonde,  
+Les grands airs de la cour, les faux airs de Paris,  
+Nos étourdis seigneurs, nos pincés beaux-esprits :  
+C'est un mal nécessaire, et que souvent j'essuie :  
+Pour ne pas trop déplaire il faut bien qu'on s'ennuie.  
+
+    LE JEUNE GOURVILLE.
+Mais Sophie est charmante, et ne m'ennuiera pas.  
+
+    NINON.
+Ah ! je vous avouerai qu'elle est pleine d'appas :  
+Aimez-la, quittez-la, mon amitié tranquille  
+A vos goûts, quels qu'ils soient, sera toujours facile.  
+A la droite raison dans le reste soumis,  
+Changez de voluptés, ne changez point d'amis ;  
+Soyez homme d'honneur, d'esprit et de courage,  
+Et livrez-vous sans crainte aux erreurs du bel âge.   [3]
+Quoi qu'en disent l'Astrée, et Clélie, et Cyrus,  
+L'amour ne fut jamais dans le rang des vertus ;   [4]
+L'amour n'exige point de raison, de mérite.  
+J'ai vu des sots qu'on prend, des gens de bien qu'on quitte.  
+Je fus, et tout Paris l'a souvent publié,  
+Infidèle en amour, fidèle en amitié.  
+Je vous chéris, Gourville, et pour toute ma vie.  
+Votre père n'eut pas de plus constante amie :  
+Dans des temps malheureux il arrangea mon bien,  
+Je dois tout à ses soins sans lui je n'aurais rien.  
+Vous savez à quel point j'avais sa confiance.  
+C'est un plaisir pour moi que la reconnaissance ;  
+Elle occupe le coeur : je n'ai point de parents ;  
+Et votre frère et vous me tenez lieu d'enfants.  
+
+    LE JEUNE GOURVILLE.
+Votre exemple m'instruit, votre bonté m'accable.  
+Ninon dans tous les temps fut un homme estimable.  
+
+    NINON.
+Parlons donc, je vous prie, un peu solidement.  
+Vous n'êtes pas, je crois, fort en argent comptant ?  
+
+    LE JEUNE GOURVILLE.
+Pas trop.  
+
+    NINON.
+        Voici le temps où de votre fortune  
+Le noeud très délicat, l'intrigue peu commune,  
+Grâce à monsieur Garant, pourra se débrouiller.  
+
+    LE JEUNE GOURVILLE.
+Ce bon monsieur Garant me fait toujours bailler.  
+Il est si compassé, si grave, si sévère !  
+Je rougis devant lui d'être fils de mon père.  
+Il me fait trop sentir que, par un sort fâcheux,  
+Il manque à mon baptême un paragraphe ou deux.  
+
+    NINON.
+On omit, il est vrai, le mot de légitime.  
+Gourville, votre père, eut la publique estime ;  
+Il eut mille vertus, mais il eut, entre nous,  
+Pour les beaux noeuds d'hymen de merveilleux dégoûts.  
+La rigueur de la loi (peut-être un peu trop sage)  
+A votre frère, à vous, ravit tout héritage.  
+Vous ne possédez rien ; mais ce monsieur Garant,  
+Son banquier autrefois, et son correspondant,  
+Pour deux cent mille francs étant son légataire,  
+N'en est, vous le savez, que le dépositaire.  
+Il fera son devoir ; il l'a dit devant moi :  
+L'honneur est plus puissant, plus sacré que la loi.  
+
+    LE JEUNE GOURVILLE.
+Je voudrais que l'honneur fût un peu plus honnête.  
+Cet homme de sermons me rompt toujours la tête :  
+Directeur d'hôpitaux, syndic, et marguillier,  
+Il n'a daigné jamais avec moi s'égayer.  
+Il prétend que je suis une tête légère,  
+Un jeune dissolu, sans moeurs, sans caractère,  
+Jouant, courant le bal, les filles, les buveurs :  
+Oui, je suis débauché ; mais, parbleu, j'ai des moeurs ;  
+Je ne dois rien ; je suis fidèle à mes promesses ;  
+Je n'ai jamais trompé, pas même mes maîtresses ;  
+Je bois sans m'enivrer ; j'ai tout payé comptant ;  
+Je ne vais point jouer quand je n'ai point d'argent.  
+Tout marguillier qu'il est, ma foi, je le défie  
+De mener dans Paris une meilleure vie.  
+
+    NINON.
+Il est un temps pour tout.  
+
+    LE JEUNE GOURVILLE.
+        Monsieur mon frère aîné,  
+Je l'avoue, a l'esprit tout autrement tourné.  
+Il est sage et profond ; sa conduite est austère ;  
+Il lit les vieux auteurs, et ne les entend guère ;  
+Il méprise le monde : eh bien ! qu'il soit un jour,  
+Pour prix de ses vertus, marguillier à son tour ;  
+Et que monsieur Garant, qui dans tout le gouverne,  
+Lui donne plus qu'à moi. Ce qui seul me concerne,  
+C'est le plaisir ; l'argent, voyez-vous, ne m'est rien ;  
+Je suis assez content d'un honnête entretien.  
+L'avarice est un monstre ; et, pourvu que je puisse  
+Supplanter l'avocat, mon sort est trop propice.  
+
+    NINON.
+Tout réussit aux gens qui sont doux et joyeux.  
+Pour monsieur votre aîné, c'est un fou sérieux :  
+Un précepteur maudit, maîtrisant sa jeunesse,  
+Chargea d'un joug pesant sa docile faiblesse,  
+De sombres visions tourmenta son esprit,  
+Et l'âge a conservé ce que l'enfance y mit.  
+Il s'est fait à lui-même un bien triste esclavage.  
+Malheur a tout esprit qui veut être trop sage ?  
+J'ai bonne opinion, je vous l'ai déjà dit,  
+D'un jeune écervelé, quand il a de l'esprit,  
+Mais un jeune pédant, fut-il très estimable,  
+Deviendra, s'il persiste, un être insupportable.  
+Je ris lorsque je vois que votre frère a fait  
+L'extravagant dessein d'être un homme parfait.  
+
+    LE JEUNE GOURVILLE.
+Un pédant chez Ninon est un plaisant prodige !  
+
+    NINON.
+Le parti qu'il a pris n'est pas ce qui m'afflige :  
+J'aime les gens de bien, mais je hais les cagots ;  
+Et je crains les fripons qui gouvernent les sots.  
+
+    LE JEUNE GOURVILLE.
+Voilà le marguillier.  
+
+
+## SCÈNE II. Ninon, Le Jeune Gourville ; Monsieur Garant, en manteau noir, grand rabat, gants blancs, large perruque.
+
+    MONSIEUR GARANT.
+        Je me suis fait attendre.  
+Le temps, vous le savez, est difficile à prendre.  
+Mes emplois sont bien lourds...  
+
+    NINON.
+    Je le sais.  
+
+    MONSIEUR GARANT.
+        Bien pesants.  
+
+    NINON.
+C'est ajouter beaucoup.  
+
+    MONSIEUR GARANT.
+        Sans mes soins vigilants,  
+Sans mon activité...  
+
+    NINON.
+    Fort bien.  
+
+    MONSIEUR GARANT.
+        Sans ma prudence,  
+Sans mon crédit...  
+
+    NINON.
+    Encor !  
+
+    MONSIEUR GARANT.
+        L'oeuvre aurait pu, je pense,  
+Souffrir un grand déchet ; mais j'ai tout réparé.  
+
+    LE JEUNE GOURVILLE.
+Ah ! Tout Paris en parle, et vous en sait bon gré.  
+
+    MONSIEUR GARANT.
+Les pauvres sont d'ailleurs si pauvres ! Leurs souffrances  
+Me percent tant le coeur, que de leurs doléances  
+Je m'afflige toujours.  
+
+    NINON.
+        Il faut les secourir ;  
+C'est un devoir sacré.  
+
+    MONSIEUR GARANT.
+        Leurs maux me font souffrir.  
+
+    LE JEUNE GOURVILLE.
+Vous régissez si bien leur petite finance  
+Que les pauvres bientôt seront dans l'opulence.  
+
+    NINON.
+Çà, monsieur l'aumônier, vous savez que céans  
+Il est, ainsi qu'ailleurs, de jeunes indigents ;  
+Ils sont recommandés à vos nobles largesses.  
+Vous n'avez pas, sans doute, oublié vos promesses.  
+
+    MONSIEUR GARANT.
+Vous savez que mon coeur est toujours pénétré  
+Des extrêmes bontés dont je fus honoré  
+Par ce parfait ami, ce cher monsieur Gourville,  
+Si bon pour ses amis... qui fut toujours utile  
+A tous ceux qu'il aima... qui fut si bon pour moi,  
+Si généreux !... Je sais tout ce que je lui doi.  
+L'honneur, la probité, l'équité, la justice,  
+Ordonnent qu'un ami sans réserve accomplisse  
+Ce qu'un ami voulait.  
+
+    NINON.
+        Ah ! Que c'est parler bien !  
+
+    LE JEUNE GOURVILLE.
+Il est fort éloquent.  
+
+    MONSIEUR GARANT.
+    Que dites-vous là ?  
+
+    LE JEUNE GOURVILLE.
+        Bien.  
+
+    NINON, LE CONTREFAISANT.
+Je me flatte, je crois, je suis persuadée,  
+Je me sens convaincue, et surtout j'ai l'idée  
+Que vous rendrez bientôt les deux cent mille francs  
+A votre ami si cher, ès mains de ses enfants.  
+
+    MONSIEUR GARANT.
+Madame, il faut payer ses dettes légitimes ;  
+Et les moindres délais en ce cas sont des crimes ;  
+L'honneur, la probité, le sens, et la raison,  
+Demandent qu'on s'applique avec attention  
+A remplir ses devoirs, à ne nuire à personne,  
+A voir quand et comment, à qui, pourquoi l'on donne,  
+A bien considérer si le droit est lésé,  
+Si tout est bien en ordre.  
+
+    NINON.
+        Eh ! Rien n'est plus aisé...  
+Des deux cent mille francs n'êtes-vous pas le maître ?  
+
+    MONSIEUR GARANT.
+Oh, oui ! son testament le fait assez connaître.  
+Je les dois recevoir en louis trébuchants.  
+
+    NINON.
+Eh bien ! À chacun d'eux donnez cent mille francs.  
+
+    LE JEUNE GOURVILLE.
+Le compte est clair et net.  
+
+    MONSIEUR GARANT.
+        Oui, cette arithmétique  
+Est parfaite en son genre, et n'a point de réplique ;  
+Égales portions.  
+
+    NINON.
+        Par cette égalité  
+Vous assurez la paix de leur société.  
+
+    MONSIEUR GARANT.
+Soyez sûre que l'un n'aura pas plus que l'autre,  
+Quand j'aurai tout réglé.  
+
+    NINON.
+        Quelle idée est la vôtre !  
+Tout est réglé, monsieur...  
+
+    MONSIEUR GARANT.
+        Il faudra mûrement  
+Consulter sur ce cas quelque avocat savant,  
+Quelque bon procureur, quelque habile notaire,  
+Qui puisse prévenir toute fâcheuse affaire.  
+Il faut fermer la bouche aux malins héritiers,  
+Qui pourraient méchamment répéter les deniers.  
+
+    LE JEUNE GOURVILLE.
+Mon père n'en a point.  
+
+    MONSIEUR GARANT.
+        Hélas ! dès qu'on enterre  
+Un vieillard un peu riche, il sort de dessous terre  
+Mille collatéraux qu'on ne connaissait pas.  
+Voyez que de chagrins, de peines, d'embarras,  
+Si jamais il fallait que, par quelque artifice,  
+J'éludasse les lois de la sainte justice ?  
+L'honneur, vous le savez, qui doit conduire tout...  
+
+    NINON.
+Le véritable honneur est très fort de mon goût,  
+Mais il sait écarter ces craintes ridicules.  
+Il est de certains cas où j'ai peu de scrupules.  
+
+    MONSIEUR GARANT.
+J'en suis persuadé, madame, je le crois ;  
+C'est mon opinion... mais la rigueur des lois,  
+De ces collatéraux les plaintes, les murmures,  
+Et les prétentions avec les procédures...  
+
+    NINON.
+Ayez des procédés, je réponds du succès.  
+
+    LE JEUNE GOURVILLE.
+Ce n'est point là du tout une affaire à procès.  
+
+    MONSIEUR GARANT.
+Vous ne connaissez pas, madame, les affaires,  
+Leurs détours, leurs dangers, les lois et leurs mystères.  
+
+    NINON.
+Toujours cent mots pour un. Moi, je vais à l'instant  
+Répondre à vos discours en un mot comme en cent.  
+Mon cher petit Gourville, allez dire à Lisette  
+Qu'elle m'apporte ici cette grande cassette.  
+Elle sait ce que c'est.  
+
+    LE JEUNE GOURVILLE.
+    J'y cours.  
+
+
+## SCÈNE III. Ninon, Monsieur Garant.
+
+    MONSIEUR GARANT.
+        Avec chagrin.  
+Je vois que ce jeune homme a pris un mauvais train,  
+De mauvais sentiments... une allure mauvaise.  
+Je crains que s'il était un jour trop à son aise...  
+Il ne se confirmât dans le mal...  
+
+    NINON.
+        Mais vraiment  
+Vous me touchez le coeur par un soin si prudent.  
+
+    MONSIEUR GARANT.
+Il est fort libertin : une trop grande aisance...  
+Trop d'argent dans les mains, trop d'or, trop d'opulence...  
+Donne aux vices du coeur trop de facilité.  
+
+    NINON.
+On ne peut parler mieux ; mais trop de pauvreté  
+Dans des dangers plus grands peut plonger la jeunesse :  
+Je ne voudrais pour lui pauvreté ni richesse,  
+Point d'excès ; mais son bien lui doit appartenir.  
+
+    MONSIEUR GARANT.
+D'accord, c'est à cela que je veux parvenir.  
+
+    NINON.
+Et son frère ?  
+
+    MONSIEUR GARANT.
+        Ah ! pour lui, ce sont d'autres affaires,  
+Vous avez des bontés qu'il ne mérite guère.  
+
+    NINON.
+Comment donc?...  
+
+    MONSIEUR GARANT.
+        Vous avez acheté sous son nom,  
+Quand son père vivait, votre propre maison.  
+
+    NINON.
+Oui...  
+
+    MONSIEUR GARANT.
+    Vous avez mal fait.  
+
+    NINON.
+        C'était un avantage  
+Que son père lui fit.  
+
+    MONSIEUR GARANT.
+        Mais cela n'est pas sage :  
+Nous y remédierons ; je vous en parlerai :  
+J'ai d'honnêtes desseins que je vous confierai  
+Vous êtes belle encore.  
+
+    NINON.
+    Ah !  
+
+    MONSIEUR GARANT.
+        Vous savez, le monde...  
+
+    NINON.
+Ah, monsieur !...  
+
+    MONSIEUR GARANT.
+        Vous avez la science profonde  
+Des secrètes façons dont on peut se pousser,  
+Être considéré, s'intriguer, s'avancer ;  
+Vous êtes éclairée, avisée, et discrète.  
+
+    NINON.
+Et surtout patiente.  
+
+
+## SCÈNE IV. Ninon, Monsieur Garant, Le Jeune Gourville, Lisette, Un Laquais.
+
+    LISETTE.
+        Ah ! La lourde cassette !  
+Comment voulez-vous donc que j'apporte cela ?  
+Picard la traîne à peine.  
+
+    NINON.
+        Allons, vite, ouvrons-la.  
+
+    LISETTE.
+C'est un vrai coffre-fort.  
+
+    NINON.
+        C'est le très faible reste  
+De l'argent qu'autrefois, dans un péril funeste,  
+Étant contraint de fuir, Gourville me laissa ;  
+Longtemps à son retour dans ce coffre il puisa ;  
+Le compte est de sa main. Allez tous deux sur l'heure  
+Donner à ses enfants le peu qu'il en demeure :  
+Ce sera pour chacun, je crois, deux mille écus.  
+Par un partage égal il faut qu'ils soient reçus.  
+Pour leurs menus plaisirs ils en feront usage,  
+Attendant que monsieur fasse un plus grand partage.  
+On remporte le coffre.
+
+
+    LISETTE.
+J'y cours ; je sais compter.  
+
+    LE JEUNE GOURVILLE.
+        L'adorable Ninon !  
+
+    NINON, À M. GARANT.
+Pour remplir son devoir il faut peu de façon :  
+Vous le voyez, monsieur.  
+
+    MONSIEUR GARANT.
+        Cela n'est pas dans l'ordre,  
+Dans l'exacte équité : la justice y peut mordre.  
+Cette caisse au défunt appartint autrefois,  
+Et les collatéraux réclameront leurs droits :  
+Il faut pour préalable en faire un inventaire.  
+Je suis exécuteur qu'on dit testamentaire.  
+
+    LE JEUNE GOURVILLE.
+Eh bien ! exécutez les généreux desseins  
+D'un ami qui remit sa fortune en vos mains.  
+
+    MONSIEUR GARANT.
+Allez, j'en suis chargé ; n'en soyez point en peine.  
+
+    NINON.
+Quand apporterez-vous cette petite aubaine  
+Des deux cent mille francs en contrats bien dressés ?  
+Et quand remplirez-vous ces devoirs si pressés ?  
+
+    MONSIEUR GARANT.
+Bientôt. L'oeuvre m'attend, et les pauvres gémissent :  
+Lorsque je suis absent tous les secours languissent.  
+Adieu...  
+Il fait deux pas, et revient.
+
+        Vous devriez employer prudemment  
+Ces quatre mille écus donnés légèrement.  
+
+    NINON.
+Eh ! fi donc !  
+
+    MONSIEUR GARANT, REVENANT ENCORE, LA TIRANT À L’ÉCART.
+        La débauche ! hélas ! de toute espèce  
+À la perdition conduira sa jeunesse.  
+Il dissipera tout, je vous en avertis.  
+
+    LE JEUNE GOURVILLE.
+Hem, que dit-il de moi ?  
+
+    MONSIEUR GARANT.
+        Pour votre bien, mon fils,  
+Avec discrétion je m'explique à madame...  
+Bas, à Ninon.
+
+Il est très inconstant.  
+
+    NINON.
+        Ah ! Cela perce l'âme.  
+
+    MONSIEUR GARANT.
+Il a déjà séduit notre voisine Agnant :  
+Cela fera du bruit.  
+
+    NINON.
+        Ah ! Mon Dieu ! Le méchant !  
+Courtiser une fille ! Ô ciel ! Est-il possible ?  
+
+    MONSIEUR GARANT.
+C'est comme je le dis.  
+
+    NINON.
+        Quel crime irrémissible !  
+
+    MONSIEUR GARANT, À NINON.
+Un mot dans votre oreille.  
+
+    LE JEUNE GOURVILLE.
+        Il lui parle tout bas.  
+C'est mauvais signe...  
+
+    NINON, À M. GARANT QUI SORT.
+        Allez, je ne l'oublierai pas.  
+
+
+## SCÈNE V. Ninon, Le Jeune Gourville.
+
+    LE JEUNE GOURVILLE.
+Que vous disait-il donc ?  
+
+    NINON.
+        Il voulait, ce me semble,  
+Par pure probité, nous mettre mal ensemble.  
+
+    LE JEUNE GOURVILLE.
+Entre nous, je commence à penser à la fin   [5]
+Que cet original est un maître Gonin.  
+
+    NINON.
+Vous pouvez, croyez-moi, le penser sans scrupule :  
+On peut être à la fois fripon et ridicule.  
+Avec son verbiage et ses fades propos,  
+Ce fat dans le quartier séduit les idiots.  
+Sous un amas confus de paroles oiseuses  
+Il pense déguiser ses trames ténébreuses.  
+J'aime fort la vertu ; mais, pour les gens sensés,  
+Quiconque en parle trop n'en eut jamais assez.  
+Plus il veut se cacher, plus on lit dans son âme ;  
+Et que ceci soit dit et pour homme et pour femme.  
+Enfin, je ne veux point, par un zèle imprudent,  
+Garantir la vertu de ce monsieur Garant.  
+
+    LE JEUNE GOURVILLE.
+Ma foi, ni moi non plus.  
+
+
+## SCÈNE VI. Ninon, Le Jeune Gourville, Lisette.
+
+    NINON.
+        Eh bien ! Chère Lisette,  
+Ma petite ambassade a-t-elle été bien faite ?  
+Son frère a-t-il de vous reçu son contingent ?  
+
+    LISETTE.
+Oui, madame, à la fin il a reçu l'argent.  
+
+    NINON.
+Est-il bien satisfait ?  
+
+    LISETTE.
+        Point du tout, je vous jure.  
+
+    NINON.
+Comment ?  
+
+    LISETTE.
+        Oh ! Les savants sont d'étrange nature.  
+Quel étonnant jeune homme, et qu'il est triste et sec !  
+Vous l'eussiez vu courbé sur un vieux livre grec ;  
+Un bonnet sale et gras qui cachait sa figure,  
+De l'encre au bout des doigts, composaient sa parure ;  
+Dans un tas de papiers il était enterré ;  
+Il se parlait tout bas comme un homme égaré ;  
+De lui dire deux mots je me suis hasardée ;  
+Madame, il ne m'a pas seulement regardée.  
+En élevant la voix.
+
+« J'apporte de l'argent, monsieur, qui vous est dû ;  
+Monsieur, c'est de l'argent. » Il n'a rien répondu :  
+Il a continué de feuilleter, d'écrire.  
+J'ai fait, avec Picard, un grand éclat de rire :  
+Ce bruit l'a réveillé. « Voilà deux mille écus,  
+Monsieur, que ma maîtresse avait pour vous reçus.  
+- Hem ! Qui ? Quoi ? M'a-t-il dit ; allez chez les notaires ;  
+Je n'ai jamais, ma bonne, entendu les affaires  
+Je ne me mêle point de ces pauvretés-là.  
+- Monsieur, ils sont à vous, prenez-les, les voilà. »  
+Il a repris soudain papier, plume, écritoire.  
+Picard, l'interrompant, a demandé pour boire.  
+« Pourquoi boire ? A-t-il dit, fi ! Rien n'est si vilain  
+Que de s'accoutumer à boire si matin ! »  
+Enfin il a compris ce qu'il devait entendre :  
+« Voilà les sacs, dit-il, et vous pouvez y prendre  
+Tout ce qu'il vous plaira pour la commission. »  
+Nous avons pris, madame, avec discrétion.  
+Il n'a pas un moment daigné tourner la tête  
+Pour voir de nos cinq doigts la modestie honnête ;  
+Et nous sommes partis avec étonnement,  
+Sans recevoir pour vous le moindre compliment.  
+Avez-vous vu jamais un mortel plus bizarre ?  
+
+    NINON.
+Il en faut convenir, son caractère est rare.  
+La nature a conçu des desseins différents,  
+Alors que son caprice a formé ces enfants.  
+Un contraste parfait est dans leurs caractères ;  
+Et le jour et la nuit ne sont pas plus contraires.  
+
+    LE JEUNE GOURVILLE.
+Je l'aime cependant du meilleur de mon coeur.  
+
+    LISETTE.
+Moi, de tout mon pouvoir je l'aime aussi, monsieur ;  
+J'ai toujours remarqué, sans trop oser le dire,  
+Que vous aimez assez les gens qui vous font rire.  
+
+    NINON.
+Je ne ris point de lui, Lisette, je le plains :  
+Il a le coeur très bon, je le sais ; mais je crains  
+Que cette aversion des plaisirs et du monde,  
+Des usages, des moeurs, l'ignorance profonde,  
+Ce goût pour la retraite, et cette austérité,  
+Ne produisent bientôt quelque calamité.  
+Pour ce monsieur Garant sa pleine confiance  
+Alarme ma tendresse, accroît ma défiance :  
+Souvent un esprit gauche en sa simplicité,  
+Croyant faire le bien, fait le mal par bonté.  
+
+    LE JEUNE GOURVILLE.
+Oh ! Je vais de ce pas laver sa tête aînée ;  
+De sa sotte raison la mienne est étonnée ;  
+Je lui parlerai net, et je veux, à la fin,  
+Pour le débarbouiller, en faire un libertin.  
+
+    NINON.
+Puissiez-vous tous les deux être plus raisonnables !  
+Mais le monde aime mieux des erreurs agréables,  
+Et d'un esprit trop vif la piquante gaîté,  
+Qu'un précoce Caton, de sagesse hébété,  
+Occupé tristement de mystiques systèmes,  
+Inutile aux humains, et dupe des sots mêmes.  
+
+    LE JEUNE GOURVILLE.
+Il faut vous avouer qu'avec discrétion,  
+Dans mes amours nouveaux, je me sers de son nom,  
+Afin que si la mère a jamais connaissance  
+Des mystères secrets de notre intelligence,   [6] [7]
+Aux mots de syndérèse et de componction,  
+La lettre lui paraisse une exhortation,  
+Un essai de morale envoyé par mon frère.  
+Nous écrivons tous deux d'un même caractère ;  
+En un mot, sous son nom j'écris tous mes billets ;  
+En son nom, prudemment, les messages sont faits.  
+C'est un fort grand plaisir que ce petit mystère.  
+
+    NINON.
+Il est un peu scabreux, et je crains cette mère.  
+Prenez bien garde, au moins, vous vous y méprendrez.  
+Vos discours de vertu seront peu mesurés ;  
+Tout sera reconnu.  
+
+    LE JEUNE GOURVILLE.
+        Le tour est assez drôle.  
+
+    NINON.
+Mais c'est du loup berger que vous jouez le rôle.  
+
+    LE JEUNE GOURVILLE.
+D'ailleurs, je suis très bien déjà dans la maison :  
+À la mère toujours je dis qu'elle a raison ;  
+Je bois avec le père, et chante avec la fille ;  
+Je deviens nécessaire à toute la famille.  
+Vous ne me blâmez pas ?  
+
+    NINON.
+        Pour ce dernier point, non.  
+
+    LISETTE.
+Ma foi, les jeunes gens ont souvent bien du bon.  
+
+
+# ACTE II.
+
+
+## SCÈNE I. Gourville L'Aîné, tenant un livre ; Le Jeune Gourville.
+Tous deux arrivent et continuent la conversation : l'aîné est vêtu de noir, la perruque de travers, l'habit mal boutonné.
+
+
+    LE JEUNE GOURVILLE.
+N'es-tu donc pas honteux, en effet, à ton âge,  
+De vouloir devenir un grave personnage ?  
+Tu forces ton instinct par pure vanité,  
+Pour parvenir un jour à la stupidité.  
+Qui peut donc contre toi t'inspirer tant de haine ?  
+Pour être malheureux tu prends bien de la peine.  
+Que dirais-tu d'un fou qui, des pieds et des mains,  
+Se plairait d'écraser les fleurs de ses jardins  
+De peur d'en savourer le parfum délectable ?  
+Le ciel a formé l'homme animal sociable.  
+Pourquoi nous fuir ? Pourquoi se refuser à tout ?  
+Être sans amitié, sans plaisirs, et sans goût,  
+C'est être un homme mort. Oh ! La plaisante gloire  
+Que de gâter son vin de crainte de trop boire !  
+Comme te voilà fait ! Le teint jaune et l'oeil creux !  
+Penses-tu plaire au ciel en te rendant hideux ?  
+Au monde, en attendant, sois très sûr de déplaire.  
+La charmante Ninon, qui nous tient lieu de mère,  
+Voit avec grand chagrin qu'en ta propre maison,  
+Loin d'elle, et loin de moi, tu languis en prison.  
+Est-ce monsieur Garant qui, par son éloquence,  
+Nourrit de tes travers la lourde extravagance ?  
+Allons, imite-moi, songe à te réjouir ;  
+Je prétends, malgré toi, te donner du plaisir.  
+
+    GOURVILLE L’AÎNÉ.
+De si vilains propos, une telle conduite,  
+Me font pitié, monsieur, j'en prévois trop la suite.  
+Vous ferez à coup sur une mauvaise fin.  
+Je ne puis plus souffrir un si grand libertin.  
+De cette maison-ci je connais les scandales ;  
+Il en peut arriver des choses bien fatales :  
+Déjà monsieur Garant m'en a trop averti.  
+Je n'y veux plus rester, et j'ai pris mon parti.  
+
+    LE JEUNE GOURVILLE.
+Son accès le reprend.  
+
+    GOURVILLE L’AÎNÉ.
+        Monsieur Garant, mon frère,  
+Que vous calomniez, est d'un tel caractère  
+De probité, d'honneur... de vertu... de...  
+
+    LE JEUNE GOURVILLE.
+        Je vois  
+Que déjà son beau style a passé jusqu'à toi.  
+
+    GOURVILLE L’AÎNÉ.
+Il met discrètement la paix dans les familles ;  
+Il garde la vertu des garçons et des filles :  
+Je voudrais jusqu'à lui, s'il se peut, m'exalter.  
+Allez dans le beau monde ; allez vous y jeter ;  
+Plongez-vous jusqu'au cou dans l'ordure brillante  
+De ce monde effréné dont l'éclat vous enchante ;  
+Moquez-vous plaisamment des hommes vertueux ;  
+Nagez dans les plaisirs, dans ces plaisirs honteux,  
+Ces plaisirs dans lesquels tout le jour se consume,  
+Et la douceur desquels produit tant d'amertume.  
+
+    LE JEUNE GOURVILLE.
+Pas tant.  
+
+    GOURVILLE L’AÎNÉ.
+        Allez, je sais tout ce qu'il faut savoir.  
+J'ai bien lu.  
+
+    LE JEUNE GOURVILLE.
+        Va, lis moins, mais apprends à mieux voir.  
+Tu pourras tout au plus quelque jour faire un livre.  
+Mais dis-moi, mon pauvre homme, avec qui peux-tu vivre ?  
+
+    GOURVILLE L’AÎNÉ.
+Avec personne.  
+
+    LE JEUNE GOURVILLE.
+        Quoi ! tout seul dans un désert ?  
+
+    GOURVILLE L’AÎNÉ.
+Oh ! Je fréquenterai souvent madame Aubert.  
+
+    LE JEUNE GOURVILLE, RIANT.
+Madame Aubert !  
+
+    GOURVILLE L’AÎNÉ.
+    Eh oui ! Madame Aubert.  
+
+    LE JEUNE GOURVILLE.
+        Parente  
+Du marguillier Garant ?  
+
+    GOURVILLE L’AÎNÉ.
+        Oui, pieuse et savante,  
+D'un esprit transcendant, d'un mérite accompli.  
+
+    LE JEUNE GOURVILLE.
+La connais-tu ?  
+
+    GOURVILLE L’AÎNÉ.
+        Non ; mais son logis est rempli  
+Des gens les plus versés dans les vertus pratiques.  
+Elle connaît à fond tous les auteurs mystiques ;  
+Elle reçoit souvent les plus graves docteurs,  
+Et force gens de bien qu'on ne voit point ailleurs.  
+
+    LE JEUNE GOURVILLE.
+Madame Aubert t'attend ?  
+
+    GOURVILLE L’AÎNÉ.
+        Oui : mon tuteur fidèle,  
+Monsieur Garant, me mène enfin dîner chez elle.  
+
+    LE JEUNE GOURVILLE.
+Chez sa cousine ?...  
+
+    GOURVILLE L’AÎNÉ.
+    Eh ! Oui.  
+
+    LE JEUNE GOURVILLE.
+        Cette femme de bien ?  
+
+    GOURVILLE L’AÎNÉ.
+Elle-même ; et je veux, après cet entretien,  
+Ne hanter désormais que de tels caractères,   [8]
+Des dévots éprouvés, secs, durs, atrabilaires.  
+Je ne veux plus vous voir ; et je préfère un trou,  
+Un ermitage, un antre...  
+
+    LE JEUNE GOURVILLE, EN L’EMBRASSANT.
+        Adieu, mon pauvre fou.  
+
+
+## SCÈNE II.
+
+    GOURVILLE L’AÎNÉ.
+Je pleure sur son sort ; le voilà qui s'abîme ;  
+Il va de femme en fille, il court de crime en crime.  
+Il s'assied, et ouvre un livre.
+
+Que Garasse a raison ! Qu'il peint bien, à mon sens,  
+Les travers odieux de tous nos jeunes gens !  
+Qu'il enflamme mon coeur, et qu'il le fortifie  
+Contre les passions qui tourmentent la vie !  
+Il lit encore.
+
+C'est bien dit oui, voilà le plan que je suivrai.  
+Du sentier des méchants je me retirerai.  
+J'éviterai le jeu, la table, les querelles,  
+Les vains amusements, les spectacles, les belles.  
+Il se lève.
+
+Quel plaisir noble et doux de haïr les plaisirs ;  
+De se dire en secret : Me voilà sans désirs ;  
+Je suis maître de moi, juste, insensible, sage ;  
+Et mon âme est un roc au milieu de l'orage !  
+Je rougis quand je vois dans ce maudit logis  
+Ces conversations, ces soupers, ces amis.  
+Je souris de pitié de voir qu'on me préfère,  
+Sans nul ménagement, mon étourdi de frère.  
+Il plaît à tout le monde, il est tout fait pour lui.  
+C'en est trop pour jamais j'y renonce aujourd'hui.  
+Je conserve à Ninon de la reconnaissance ;  
+Elle eut soin de nous deux au sortir de l'enfance ;  
+Et, malgré ses écarts, elle a des sentiments  
+Qu'on eût pris pour vertu peut-être en d'autres temps.  
+Mais...  
+Il se mord le doigt, et fait une grimace effroyable.
+
+
+
+## SCÈNE III. Gourville L'Aîné, Monsieur Garant.
+
+    MONSIEUR GARANT.
+        Eh bien ! mon très cher, mon vertueux Gourville,  
+De tant d'iniquités allez-vous fuir l'asile ?  
+
+    GOURVILLE L’AÎNÉ.
+J'y suis très résolu.  
+
+    MONSIEUR GARANT.
+        Ce logis infecté  
+N'était point convenable à votre piété.  
+Sortez-en promptement... Mais que voulez-vous faire  
+De ces deux mille écus de monsieur votre père ?  
+
+    GOURVILLE L’AÎNÉ.
+Tout ce qu'il vous plaira ; vous en disposerez.  
+
+    MONSIEUR GARANT.
+L'argent est inutile aux coeurs bien pénétrés  
+D'un vrai détachement des vanités du monde ;  
+Et votre indifférence en ce point est profonde :  
+Je veux bien m'en charger ; je les ferai valoir...  
+Pour les pauvres s'entend... Vous aurez le pouvoir  
+D'en répéter chez moi le tout ou bien partie,  
+Dès que vous en aurez la plus légère envie.  
+
+    GOURVILLE L’AÎNÉ.
+Ah ! Que vous m'obligez ! Je ne pourrai jamais  
+Vous payer dignement le prix de vos bienfaits.  
+
+    MONSIEUR GARANT.
+Je puis avoir à vous d'autres sommes en caisse.  
+Eh ! eh !  
+
+    GOURVILLE L’AÎNÉ.
+        L'on me l'a dit... Mon Dieu, je vous les laisse.  
+Vous voulez bien encore en être embarrassé ?  
+
+    MONSIEUR GARANT.
+Je mettrai tout ensemble.  
+
+    GOURVILLE L’AÎNÉ.
+        Oui, c'est fort bien pensé.  
+
+    MONSIEUR GARANT.
+Or çà, votre dessein de chercher domicile  
+Est très juste et très bon ; mais il est inutile :  
+La maison est à vous : gardez-vous d'en sortir,  
+Et priez seulement Ninon d'en déguerpir.  
+Par mille éclats fâcheux la maison polluée,  
+Quand vous y vivrez seul, sera purifiée,  
+Et je pourrais bien même y loger avec vous.  
+
+    GOURVILLE L’AÎNÉ.
+Cet honneur me serait bien utile et bien doux ;  
+Mais je ne me sens pas l'âme encore assez forte  
+Pour chasser une femme, et la mettre à la porte.  
+C'est un acte pieux : mais l'honneur a ses droits ;  
+Et vous savez, monsieur, tout ce que je lui dois.  
+Pourrais-je, sans rougir, dire à ma bienfaitrice :  
+« Sortez de la maison, et rendez-vous justice ? »  
+Cela n'est-il pas dur ?  
+
+    MONSIEUR GARANT.
+        Un tel ménagement  
+Est bien louable en vous, et m'émeut puissamment.  
+Ce scrupule d'abord a barré mes idées ;  
+Mais j'ai considéré qu'elles sont bien fondées.  
+Le désordre est trop grand. Votre propre danger  
+A la faire sortir devrait vous engager.  
+Sachez que votre frère entretient avec elle  
+Une intrigue odieuse, indigne, criminelle,  
+Un scandaleux commerce... un... je n'ose parler  
+De tout ce qui s'est fait... tant je m'en sens troubler.  
+
+    GOURVILLE L’AÎNÉ.
+Voilà donc la raison de cette préférence  
+Qu'on lui donnait sur moi !  
+
+    MONSIEUR GARANT.
+        Sentez la conséquence.  
+
+    GOURVILLE L’AÎNÉ.
+Je n'aurais pu jamais la deviner sans vous.  
+Les vilains !... Grâce au ciel, je n'en suis point jaloux.  
+Je n'imaginais pas qu'un si grand fou dût plaire.  
+
+    MONSIEUR GARANT.
+Les fous plaisent parfois. Oui.  
+
+    GOURVILLE L’AÎNÉ.
+        Ah ! J'en suis en colère  
+Pour l'honneur du Marais.  
+
+    MONSIEUR GARANT.
+        Il faut premièrement  
+Détourner loin de nous ce scandale impudent,  
+Mais avec l'air honnête, avec toute décence,  
+Avec tous les dehors que veut la bienséance :  
+Nous avons concerté que de cette maison  
+Vous feriez pour un tiers une donation,  
+Un acte bien secret que je pourrais vous rendre.  
+Armé de cet écrit, je puis tout entreprendre.  
+Je ne m'emparerai que de votre logis,  
+Et vous aurez vos droits sans être compromis.  
+
+    GOURVILLE L’AÎNÉ.
+Oui, l'idée est profonde ; oui, les dévots, les sages,  
+Sur le reste du monde ont de grands avantages.  
+Je signerai demain.  
+
+    MONSIEUR GARANT.
+        Ce soir, votre cadet  
+Reviendra vous braver comme il a toujours fait.  
+Tout se moque de vous, laquais, cocher, servante :  
+Ils traitent la vertu de chose impertinente.  
+
+    GOURVILLE L’AÎNÉ.
+La vertu !  
+
+    MONSIEUR GARANT.
+        Vraiment oui. Toujours un marguillier  
+A soin d'avoir en poche encre, plume, papier.  
+Venez, l'acte est dressé. Cet honnête artifice  
+Est, comme vous voyez, dans l'exacte justice.  
+Signez sur mon genou.  
+Il lève son genou.
+
+
+    MONSIEUR GARANT, EN SIGNANT.
+        Je signe aveuglément,  
+Et crois n'avoir jamais rien fait de si prudent.  
+
+    MONSIEUR GARANT.
+Je rédigerai tout dès ce soir par notaire.  
+
+    GOURVILLE L’AÎNÉ.
+Vous êtes, je le vois, très actif en affaire.  
+
+    MONSIEUR GARANT.
+Vous pouvez du logis sortir dès à présent.  
+
+    GOURVILLE L’AÎNÉ.
+Oui.  
+
+    MONSIEUR GARANT.
+        Donnez-moi la clef de votre appartement.  
+
+    GOURVILLE L’AÎNÉ.
+La voilà.  
+
+    MONSIEUR GARANT.
+        Tout est bien ; et puis chez ma cousine,  
+Chez la savante Aubert, notre illustre voisine...  
+Nous irons faire ensemble un dîner familier.  
+
+    GOURVILLE L’AÎNÉ.
+Vous m'enchantez !  
+
+    MONSIEUR GARANT.
+        Elle est la perle du quartier.  
+Il est dans sa maison de doctes assemblées,  
+Des conversations utiles et réglées ;  
+Il y doit aujourd'hui venir quelques docteurs,  
+Des savants pleins de grec, de brillants orateurs,  
+Avec quelques abbés, gens de l'Académie,  
+Tous pétris du vrai suc de la philosophie.  
+
+    GOURVILLE L’AÎNÉ.
+Et c'est là justement tout ce qu'il me fallait ;  
+Vous m'avez découvert ce que mon coeur voulait.  
+Vous me faites penser, vous êtes mon Socrate ;  
+Je suis Alcibiade ah ! que cela me flatte !  
+Me voilà dans mon centre.  
+
+    MONSIEUR GARANT.
+        On n'est jamais heureux  
+Qu'avec des gens de bien, savants et vertueux.  
+Chez ma cousine Aubert, mon fils, allez vous rendre  
+Je ne me ferai pas, je crois, longtemps attendre.  
+
+    GOURVILLE L’AÎNÉ.
+J'y vais.  
+
+
+## SCÈNE IV. Ninon, Monsieur Garant, Gourville L'Aîné.
+
+    NINON, À GOURVILLE L’AÎNÉ.
+        Ah ! Ah ! Monsieur, vous sortez donc enfin !  
+Vous vous humanisez, et votre noir chagrin  
+Cède au besoin qu'on a de vivre en compagnie.  
+Le plaisir sied très bien à la philosophie ;  
+La solitude accable, et cause trop d'ennui.  
+Eh bien ! où comptez-vous de dîner aujourd'hui ?  
+
+    GOURVILLE L’AÎNÉ.
+Avec des gens de bien, madame.  
+
+    NINON.
+        Eh mais !... j'espère...  
+Que ce n'est pas avec des fripons.  
+
+    GOURVILLE L’AÎNÉ.
+        Au contraire.  
+
+    NINON.
+Et vos convives sont ?  
+
+    GOURVILLE L’AÎNÉ.
+        Des docteurs très savants.  
+
+    NINON.
+On en trouve, en effet, de très honnêtes gens,  
+Et chez qui la vertu n'offre rien que d'aimable.  
+
+    GOURVILLE L’AÎNÉ.
+L'heure presse, avec eux je vais me mettre à table.  
+
+    NINON.
+Allez, c'est fort bien fait.  
+
+
+## SCÈNE V. Ninon, Monsieur Garant.
+
+    NINON.
+        Quelle mauvaise humeur !  
+Il semble en me parlant qu'il soit rempli d'aigreur !  
+En savez-vous la cause ?  
+
+    MONSIEUR GARANT.
+        Eh oui, je suis sincère,  
+La cause est en effet son méchant caractère.  
+
+    NINON.
+Je savais qu'il était et bizarre et pédant,  
+Mais je ne croyais pas qu'il eût le coeur méchant.  
+
+    MONSIEUR GARANT.
+Allez, je m'y connais ; vous pouvez être sûre  
+Qu'il n'est point d'âme au fond plus ingrate et plus dure.  
+
+    NINON.
+Il est vrai qu'en effet de mon petit présent  
+Il n'a pas daigné faire un seul remerciement ;  
+Mais c'est distraction, manque de savoir-vivre,  
+Et pour l'instruire mieux le monde est un grand livre.  
+
+    MONSIEUR GARANT.
+Je vous dis que son coeur est pour jamais gâté,  
+Endurci, gangrené, méchant... au mal porté ;  
+Faux... avec fausseté ; ses allures secrètes,  
+Sombres...  
+
+    NINON, RIANT.
+        Vous prodiguez assez les épithètes.  
+
+    MONSIEUR GARANT.
+Il ne peut vous souffrir. Il vient de s'engager  
+A vendre sa maison pour vous en déloger...  
+Vous en riez?  
+
+    NINON.
+        La chose est-elle bien certaine ?  
+
+    MONSIEUR GARANT.
+J'en suis témoin ; j'ai vu cet effet de sa haine ;  
+J'en ai vu l'acte en forme au notaire porté :  
+C'est l'usage qu'il fait de sa majorité.  
+Quel homme !  
+
+    NINON.
+        Ce n'est rien, n'en soyez point en peine ;  
+Cela s'ajustera.  
+
+    MONSIEUR GARANT.
+        Craignez tout de sa haine.  
+
+    NINON.
+Ce mauvais procédé ne lui peut réussir.  
+
+    MONSIEUR GARANT.
+De cette ingratitude il faut le bien punir,  
+Qu'il sorte de chez vous.  
+
+    NINON.
+        Peut-être il le mérite.  
+
+    MONSIEUR GARANT.
+Pour moi, je l'abandonne, et je le déshérite :  
+De ses cent mille francs il n'aura, ma foi, rien.  
+
+    NINON.
+S'ils dépendent de vous, monsieur, je le crois bien.  
+
+    MONSIEUR GARANT.
+Que nous sommes à plaindre ! Un bon ami nous laisse  
+De ses deux chers enfants à guider la jeunesse :  
+L'un est un garnement, turbulent, effronté,  
+À la perdition par le vice emporté ;  
+L'autre est fourbe, perfide, ingrat, atrabilaire,  
+Dur, méchant... De tous deux il nous faudra défaire.  
+
+    NINON.
+Me le conseillez-vous ?  
+
+    MONSIEUR GARANT.
+        Ce doit être l'avis  
+De tous les gens d'honneur et de vos vrais amis,  
+Prenez un parti sage... Écoutez... Cette caisse  
+Dont vous avez tantôt fait si prompte largesse,  
+Était-elle bien pleine autrefois ?  
+
+    NINON.
+        Jusqu'au bord :  
+De notre ami défunt c'était le coffre-fort ;  
+Vous le savez assez.  
+
+    MONSIEUR GARANT.
+        Selon que je calcule,  
+Vous avez amassé loyaument, sans scrupule,  
+Un bien considérable, une fortune ?  
+
+    NINON.
+        Non ;  
+Mais mon bien me suffit pour tenir ma maison.  
+
+    MONSIEUR GARANT.
+Vous avez du crédit : la dame qui régente,  
+Madame Esther, vous garde une amitié constante.  
+Et, si vous le vouliez, vous pourriez quelque jour  
+Faire beaucoup de bien vous produisant en cour.  
+
+    NINON.
+A la cour ! moi, monsieur ! que le ciel m'en préserve !  
+Si j'ai quelques amis, il faut avec réserve  
+Ménager leurs bontés, craindre d'importuner,  
+Ne les inviter point à nous abandonner.  
+Pour garder son crédit, monsieur, n'en usons guère.  
+
+    MONSIEUR GARANT.
+Il le faut réserver pour les grandes affaires,  
+Pour les grands coups, madame ; oui, vous avez raison ;  
+Et votre sentiment est ici ma leçon.  
+Il s'approche un peu d'elle, et après un moment de silence.
+
+Je dois avec candeur vous faire une ouverture  
+Pleine de confiance et d'une amitié pure :  
+Je suis riche, il est vrai ; mais avec plus d'argent  
+Je ferais plus de bien.  
+
+    NINON.
+        Je le crois bonnement.  
+
+    MONSIEUR GARANT.
+Il vous faut un état, vous êtes de mon âge,  
+Je suis aussi du vôtre.  
+
+    NINON.
+    Oh ! Oui.  
+
+    MONSIEUR GARANT.
+        Quel bon ménage  
+Se formerait bientôt de nos biens rassemblés,  
+Loin de ces deux marmots du logis exilés !  
+Les deux cent mille francs, croissant notre fortune,  
+Entreraient de plein saut dans la masse commune ;  
+Vous pourriez employer votre art persuasif  
+A nous faire obtenir un poste lucratif.  
+Vous seriez dans le monde avec plus d'importance ;  
+Il faut que le crédit augmente votre aisance ;  
+Que des prudes surtout la noble faction,  
+Célébrant de vos moeurs la réputation,  
+Et s'enorgueillissant d'une telle conquête,  
+A vous bien épauler se tienne toujours prête.  
+Avec un pot-de-vin j'aurais par ce canal  
+Un fortuné brevet de fermier général.  
+Nous pourrions sourdement, sans bruit, sans peine aucune,  
+Placer à cent pour cent ma petite fortune ;  
+Et votre rare esprit tout bas se moquerait  
+De tout le genre humain qui vous respecterait.  
+Vous ne répondez rien ?  
+
+    NINON.
+        C'est que je considère  
+Avec maturité cette sublime affaire.  
+Vous voulez m'épouser ?  
+
+    MONSIEUR GARANT.
+        Sans doute, je voudrais  
+Payer de tout mon bien tant d'esprit, tant d'attraits :  
+C'est à quoi j ai pensé dès que mon sort prospère  
+De deux cent mille francs me nomma légataire.  
+
+    NINON.
+Vous m'aimez donc un peu ?  
+
+    MONSIEUR GARANT.
+        J'ai combattu longtemps  
+Les inspirations de ces désirs puissants ;  
+Mais en les combattant avec justesse extrême,  
+En m'examinant bien, comptant avec moi-même,  
+Calculant, rabattant, j'ai vu pour résultat  
+Qu'il est temps en effet que vous changiez d'état,  
+Que nous nous convenons, et qu'un amour sincère,  
+Soutenu par le bien, ne doit pas vous déplaire.  
+
+    NINON.
+Je ne m'attendais pas à cet excès d'honneur.  
+Peut-être on vous a dit quelle était mon humeur.  
+J'eus longtemps pour l'hymen un peu de répugnance :  
+Son joug effarouchait ma libre indépendance :  
+C'est un frein respectable ; et, si je l'avais pris,  
+Croyez que ses devoirs auraient été remplis.  
+Je fus dans ma jeunesse un tant soit peu légère ;  
+Je n'avais pas alors le bonheur de vous plaire.  
+
+    MONSIEUR GARANT.
+Madame, croyez-moi, tout ce qui s'est passé  
+Fait peu d'impression sur un esprit sensé ;  
+Ces bagatelles-là n'ont rien qui m'intimide :  
+Je vais droit à mon but, et je pense au solide.  
+
+    NINON.
+Eh bien ! j'y pense aussi : vos offres à mes yeux  
+Présentent des objets qui sont bien spécieux.  
+Il est vrai qu'ou pourrait m'imputer par envie  
+Je ne sais quoi d'injuste, et quelque hypocrisie.  
+
+    MONSIEUR GARANT.
+Eh, mon Dieu ! c'est par là qu'on réussit toujours.  
+
+    NINON.
+Oui ; la monnaie est fausse, elle a pourtant du cours.  
+Que me sont, après tout, les enfants de Gourville ?  
+Rien que des étrangers à qui je fus utile.  
+
+    MONSIEUR GARANT.
+Il faut l'être à nous seuls, et songer en effet  
+Que pour ces étrangers nous en avons trop fait.  
+
+    NINON.
+J'admire vos raisons, et j'en suis pénétrée.  
+
+    MONSIEUR GARANT.
+Ah ! je me doutais bien que votre âme éclairée  
+En sentirait la force et le vrai fondement,  
+Le poids...  
+
+    NINON.
+        Oui, tout cela me pèse infiniment.  
+
+    MONSIEUR GARANT.
+Vous vous rendez ?  
+
+    NINON.
+        Ce soir vous aurez ma réponse ;  
+Et devant tout le monde il faut que je l'annonce.  
+
+    MONSIEUR GARANT.
+Ah ! vous me ravissez je n'ai parlé d'abord  
+Que de vos intérêts qui me touchent si fort ;  
+Mais si vous connaissiez quel effet font vos charmes,  
+Vos beaux yeux, votre esprit !... Quelles puissantes armes  
+M'ont ôté pour jamais ma chère liberté !...  
+De quel excès d'amour je me sens tourmenté !...  
+
+    NINON.
+Mon Dieu ! finissez donc ; vous me tournez la tête :  
+Sortez... n'abusez point de ma faible conquête...  
+Mais revenez bientôt.  
+
+    MONSIEUR GARANT.
+        Vous n'en pouvez douter.  
+
+    NINON.
+J'y compte.  
+
+    MONSIEUR GARANT.
+        Sur mon coeur daignez toujours compter.  
+Ne trouvez-vous pas bon que j'amène un notaire  
+Pour coucher par écrit cette divine affaire ?  
+
+    NINON.
+Par contrat ! eh ! mais oui... vos desseins concertés  
+Ne sauraient, à mon sens, être trop constatés.  
+
+    MONSIEUR GARANT.
+Nos faits sont convenus ?  
+
+    NINON.
+    Oui-dà.  
+
+    MONSIEUR GARANT.
+        Notre fortune  
+Sera par la coutume entre nous deux commune ?  
+
+    NINON.
+Plus vous parlez, et plus mon coeur se sent lier.  
+
+    MONSIEUR GARANT.
+À ce soir, ma Ninon.  
+
+    NINON, LE CONTREFAISANT.
+        Ce soir, mon marguillier.  
+
+
+## SCÈNE VI.
+
+    NINON.
+Quel indigne animal, et quelle âme de boue !  
+Il ne s'aperçoit pas seulement qu'on le joue ;  
+Tout absorbé qu'il est dans ses desseins honteux,  
+Il n'en peut discerner le ridicule affreux.  
+J'ai vu de ces gens-là, qui se croyaient habiles  
+Pour avoir quelque temps trompé des imbéciles,  
+Dans leurs propres filets bientôt enveloppés :  
+Le monde avec plaisir voit les dupeurs dupés.  
+On peint l'Amour aveugle ; il peut l'être, sans doute :  
+Mais l'intérêt l'est plus, et souvent ne voit goutte.  
+Vouloir toujours tromper, c'est un malheureux lot :  
+Bien souvent, quoi qu'on dise, un fripon n'est qu'un sot.  
+
+
+# ACTE III.
+
+
+## SCÈNE I. Lisette, Picard.
+
+    LISETTE.
+Eh bien ! Picard, sais-tu la plaisante nouvelle ?  
+
+    PICARD.
+Je n'ai jamais rien su le premier : quelle est-elle ?  
+
+    LISETTE.
+Notre maîtresse enfin s'en va prendre un mari.  
+
+    PICARD.
+Ma foi, j'en ai le coeur tout à fait réjoui.  
+Ah ! c'est donc pour cela que madame est sortie !  
+C'est pour se marier... J'ai souvent même envie,  
+Tu le sais ; et je crois que nous devons tous deux  
+Suivre un si digne exemple.  
+
+    LISETTE.
+        Ah ! Picard, ces beaux noeuds  
+Sont faits pour les messieurs qui sont dans l'opulence ;  
+Peu de chose avec rien ne fait pas de l'aisance ;  
+Et nous sommes trop gueux, Picard, pour être unis.  
+Le mari de madame aujourd'hui m'a promis  
+De faire ma fortune.  
+
+    PICARD.
+        Est-il bien vrai, Lisette ?  
+
+    LISETTE.
+Et je t'épouserai dès qu'elle sera faite.  
+
+    PICARD.
+Bon ! attendons-nous-y ! Quand le bien te viendra,  
+D'autres amants viendront ; tu me planteras là :  
+Des filles de Paris je connais trop l'allure ;  
+Elles n'épousent point Picard.  
+
+    LISETTE.
+        Va, je te jure  
+Que les honneurs chez moi ne changent point les moeurs ;  
+Je t'aime, et je ne puis être contente ailleurs.  
+
+    PICARD.
+Allons, il faudra donc se résoudre d'attendre.  
+Et quel est ce monsieur que madame va prendre ?  
+
+    LISETTE.
+La peste ! c'est un homme extrêmement puissant,  
+Marguillier de paroisse, ayant beaucoup d'argent ;  
+Sur son large visage on voit tout son mérite ;  
+Homme de bon conseil, et qui souvent hérite  
+Des gens qui ne sont pas seulement ses parents.  
+Il a toujours, dit-on, vécu de ses talents ;  
+Il est le directeur de plus de vingt familles :  
+Il peut faire aisément beaucoup de bien aux filles.  
+C'est ce monsieur Garant qui vient dans la maison.  
+
+    PICARD.
+Bon ! l'on m'a dit à moi qu'il est gueux et fripon.  
+
+    LISETTE.
+Eh bien ! que fait cela ? Cette friponnerie  
+N'empêche pas, je crois, qu'un homme se marie.  
+Il m'a promis beaucoup.  
+
+    PICARD.
+        Plus qu'il ne te tiendra...  
+Quoi ! c'est lui qu'aujourd'hui madame épousera ?  
+
+    LISETTE.
+Rien n'est plus vrai, Picard.  
+
+    PICARD.
+        C'est lui que madame aime ?  
+
+    LISETTE.
+Je n'en saurais douter.  
+
+    PICARD.
+    Qui te l'a dit ?  
+
+    LISETTE.
+        Lui-même.  
+J'ai de plus entendu des mots de leurs discours ;  
+Picard, ils se juraient d'éternelles amours.  
+Pour revenir bientôt ce monsieur l'a quittée ;  
+Et madame aussitôt en carrosse est montée.  
+
+    PICARD.
+Mon Dieu, comme en amour on va vite à présent !  
+Je ne l'aurais pas cru car, vois-tu, j'ai souvent  
+Entendu ma maîtresse avec un beau langage  
+Se moquer, en riant, des lois du mariage.  
+
+    LISETTE.
+Tout change avec le temps : on ne rit pas toujours ;  
+Ou devient sérieux au déclin des beaux jours.  
+La femme est un roseau que le moindre vent plie ;  
+Et bientôt il lui faut un soutien qui l'appuie.  
+
+    PICARD.
+Quand t'appuierai-je donc ?  
+
+    LISETTE.
+        Va, nous attendrons bien  
+Que madame ait choisi monsieur pour son soutien.  
+
+    PICARD.
+Mais que va devenir Gourville avec son frère ?  
+
+    LISETTE.
+Je pense que l'aîné va dans un monastère ;  
+L'autre sera, je crois, cornette ou lieutenant.  
+Chacun suit son instinct ; tout s'arrange aisément.  
+
+    PICARD.
+Je ne sais, mon instinct me dit que ces affaires  
+Ne s'arrangeront pas ainsi que tu l'espères.  
+
+    LISETTE.
+Pourquoi ? Pour en douter quelles raisons as-tu ?  
+
+    PICARD.
+Je n'ai point de raisons, moi ; j'ai des yeux, j'ai vu  
+Que, lorsqu'on veut aux gens assurer quelque chose,  
+On se trompe toujours ; je n'en sais point la cause :  
+J'ai vu tant de messieurs qui pour tes doux appas  
+Disaient qu'ils reviendraient, et ne revenaient pas !  
+
+    LISETTE.
+Quoi ! Maroufle, insolent !  
+
+    PICARD.
+        À ton tour, ma mignonne,  
+Jamais, en promettant, n'as-tu trompé personne ?  
+
+    LISETTE.
+Hem !  
+
+    PICARD.
+        Ne te fâche point. Allons, rendons bien net  
+De notre cher savant le sale cabinet ;  
+Tenons la chambre propre : allons, la nuit approche.  
+
+    LISETTE.
+Bon ! ce monsieur Garant a la clef dans sa poche.  
+
+    PICARD.
+Diable ! il est donc déjà maître de la maison ;  
+Et ce grand mariage est donc fait tout de bon ?  
+
+    LISETTE.
+Ne te l'ai-je pas dit ? Madame, avec mystère,  
+A dit à son cocher : « Cocher, chez le notaire. »  
+Ils sont allés signer.  
+
+    PICARD.
+        Oui, je comprends très bien  
+Que l'affaire est conclue, et je n'en savais rien.  
+
+    LISETTE.
+Un excellent souper qu'un grand traiteur apprête  
+Ce soir de ces beaux noeuds doit célébrer la fête ;  
+Les amis du logis y sont tous invités.  
+
+    PICARD.
+Tant mieux ; nous danserons : plaisir de tous côtés.  
+Mais que va devenir notre aîné de Gourville ?  
+Il était si posé, si sage, si tranquille,  
+Lui-même se servant, n'exigeant rien de nous ;  
+Fort dévot, cependant d'un naturel très doux.  
+Où donc est-il allé ?  
+
+    LISETTE.
+        C'est chez notre voisine,  
+Comme lui très pieuse, et de Garant cousine ;  
+On m'a dit qu'il y dîne avec quelques docteurs.  
+
+    PICARD.
+Oh ! c'est un grand savant ; il lit tous les auteurs.  
+
+
+## SCÈNE II. Lisette, Picard, Gourville L'Aîné.
+
+    LISETTE.
+Le voici qui revient.  
+
+    PICARD.
+        Pour la noce peut-être.  
+
+    LISETTE.
+Ah ! comme il a l'air triste !  
+
+    PICARD.
+        Oui, je crois reconnaître  
+Qu'il est bien affligé.  
+
+    LISETTE.
+        Quelles contorsions !  
+
+    GOURVILLE L’AÎNÉ, DANS LE FOND.
+Ô ciel ! Ô juste ciel !  
+
+    PICARD.
+        C'est des convulsions.  
+
+    GOURVILLE L’AÎNÉ.
+Je voudrais être mort.  
+
+    LISETTE.
+        Il a des yeux funestes.  
+
+    PICARD.
+C'est d'un vrai possédé les regards et les gestes.  
+Gourville s'avance.
+
+
+    LISETTE.
+Qu'avez-vous donc, monsieur ?  
+
+    PICARD.
+        Vous avez l'oeil poché,  
+Bosse au front, nez sanglant, et l'habit tout taché.  
+
+    LISETTE.
+Êtes-vous ici près, monsieur, tombé par terre ?  
+
+    GOURVILLE L’AÎNÉ.
+Que son sein m'engloutisse !  
+
+    PICARD.
+    Et quoi donc ?  
+
+    GOURVILLE L’AÎNÉ.
+        Qu'on m'enterre  
+Je ne mérite pas de voir le jour.  
+
+    PICARD.
+        Monsieur !  
+
+    LISETTE.
+Qu'est-il donc arrivé ?  
+
+    GOURVILLE L’AÎNÉ.
+        Je me meurs de douleur,  
+De honte, de dépit...  
+
+    PICARD.
+        Et de vos meurtrissures.  
+
+    LISETTE.
+Hélas ! n'auriez-vous point reçu quelques blessures ?  
+
+    GOURVILLE L’AÎNÉ, S’ASSIED.
+Je ne puis me tenir : ah ! Lisette, écoutez  
+Mes fautes, mes malheurs, et mes indignités.  
+
+    PICARD.
+Écoutons bien.  
+Ils se mettent à ses côtés, et allongent le cou.
+
+
+    LISETTE.
+        Mon Dieu, que ce début m'étonne !  
+
+    GOURVILLE L’AÎNÉ.
+Voulant rester chez moi, monsieur Garant me donne  
+Rendez-vous à dîner chez sa cousine Aubert.  
+
+    PICARD.
+C'est une brave dame.  
+
+    GOURVILLE L’AÎNÉ.
+        Ah ! Diablesse d'enfer !  
+Il y devait venir de savants personnages,  
+Parfaits chez les parfaits, sages entre les sages :  
+J'y vais ; madame Aubert était encore au lit.  
+Monsieur Aubert tout seul près de moi s'établit,  
+Me propose un trictrac en attendant la table :  
+J'avais pour tous les jeux une haine effroyable ;  
+Et cependant je joue.  
+
+    LISETTE.
+        Eh bien ! jusqu'à présent  
+La chose est très commune, et le mal n'est pas grand.  
+
+    GOURVILLE L’AÎNÉ.
+J'y gagne, j'y prends goût ; de partie en partie  
+Je ne vois point venir la docte compagnie :  
+Le jeu se continue ; enfin le sort fait tant,  
+Qu'ayant bientôt perdu tout mon argent comptant,  
+Je redois mille écus encor sur ma parole.  
+
+    LISETTE.
+De ces petits chagrins un sage se console.  
+
+    GOURVILLE L’AÎNÉ.
+Ah ! ce n'est rien encor. Garant à son cousin  
+Écrit que les docteurs ne viendront que demain,  
+Et qu'il l'attend chez lui pour affaire pressante.  
+Aubert me fait excuse, Aubert me complimente :  
+Il sort, je reste seul ; je n'osais demeurer,  
+Et dans notre maison j'étais prêt à rentrer.  
+Madame Aubert paraît avec un air modeste,  
+Bien coiffée en cheveux, un déshabillé leste,  
+Un négligé brillant, mais qui paraît sans art.  
+« On a dîné partout, me dit-elle ; il est tard  
+Je vous proposerais de dîner tête à tête ;  
+Mais je vous ennuierais... » J'accepte cette fête :  
+Le repas était propre et très bien ordonné ;  
+Elle avait du vin grec dont je me suis donné.  
+
+    LISETTE.
+Vous avez oublié votre théologie ?  
+
+    GOURVILLE L’AÎNÉ.
+Hélas ! oui, ce vin grec la rendait plus jolie ;  
+Madame Aubert tenait des propos enchanteurs,  
+Que j'ai rarement vus chez nos plus vieux auteurs :  
+Je l'entendais parler, je la voyais sourire  
+Avec cet agrément que Sapho sut décrire.  
+Vous connaissez Sapho ?  
+
+    PICARD.
+    Non.  
+
+    GOURVILLE L’AÎNÉ.
+        Le plus doux poison  
+Par l'oreille et les yeux surprenait ma raison.  
+Nous nous attendrissons : monsieur Aubert arrive ;  
+Madame Aubert s'enfuit éplorée et craintive,  
+En criant que je suis un homme dangereux.  
+
+    LISETTE.
+Vous, dangereux, monsieur ?  
+
+    GOURVILLE L’AÎNÉ.
+        L'époux est très fâcheux  
+Il m'applique un soufflet ; je suis assez colère,  
+J'en rends deux sur-le-champ : nous nous roulons par terre ;  
+L'un sur l'autre acharnés, je frappais, il frappait ;  
+Et j'entendais de loin madame qui riait...  
+Vous avez lu tous deux de ces combats d'athlète ?  
+
+    PICARD.
+Je n'ai jamais rien lu.  
+
+    GOURVILLE L’AÎNÉ.
+        Ni toi non plus, Lisette ?  
+
+    LISETTE.
+Très peu.  
+
+    GOURVILLE L’AÎNÉ.
+        Quoi qu'il en soit, meurtrissants et meurtris,  
+Nous heurtions de nos fronts les carreaux, les lambris ;  
+Des oisifs du quartier une foule accourue  
+Remplissait la maison, l'escalier, et la rue :  
+Ou crie, on nous sépare ; un procureur du coin  
+D'accommoder l'affaire a pris sur lui le soin :  
+Pour empêcher les gens d'aller chercher main-forte,  
+Pour prévenir, dit-il, une amende plus forte,  
+Pour payer le scandale avec les coups reçus,  
+Je lui signe un billet encor de mille écus.  
+Ah, Lisette ! Ah, Picard ! Le sage est peu de chose !  
+
+    PICARD.
+Oui, je le croirais bien.  
+
+    LISETTE.
+        Quelle métamorphose !  
+
+    GOURVILLE L’AÎNÉ.
+Après ce que je viens de faire et d'essuyer,  
+Comment revoir jamais monsieur le marguillier ?  
+Comment revoir madame ?  
+
+    PICARD.
+        Oh ! Madame est très bonne.  
+
+    LISETTE.
+Toujours aux jeunes gens, monsieur, elle pardonne.  
+
+    GOURVILLE L’AÎNÉ.
+Comment revoir mon frère, après l'avoir traité  
+Avec tant de hauteur et de sévérité ?  
+
+
+## SCÈNE III. Gourville L'Aîné, Gourville Le Jeune, Lisette, Picard.
+
+    LE JEUNE GOURVILLE, TOUT ESSOUFFLÉ.
+Ah, mon frère ! Ah, Lisette !  
+
+    LISETTE.
+    Eh bien ?  
+
+    LE JEUNE GOURVILLE, À LISETTE, À PART.
+        Ma chère amie,  
+Dans ce danger terrible aide-moi, je te prie.  
+
+    GOURVILLE L’AÎNÉ.
+Mon frère, je rougis et je pleure à vos yeux.  
+
+    LE JEUNE GOURVILLE.
+Mon frère, pardonnez ce petit tour joyeux.  
+Prenant Lisette à part.
+
+Lisette, prends bien garde au moins qu'on ne la voie ;  
+Pour la faire sortir nous aurons une voie.  
+
+    GOURVILLE L’AÎNÉ.
+Ô ciel ! madame Aubert serait dans la maison ?  
+Elle a donc pris pour moi bien de la passion !  
+Ah de grâce, oubliez ma sottise effroyable.  
+
+    LE JEUNE GOURVILLE.
+Ah ! passez-moi ma faute, elle est très excusable.  
+Allant à Lisette.
+
+Lisette, à mon secours !  
+
+    PICARD.
+        Eh ! Mon Dieu ! Ces gens-ci  
+Sont tous devenus fous : qu'a-t-on donc fait ici ?  
+Lisette s'entretient avec le jeune Gourville.
+
+
+    GOURVILLE L’AÎNÉ, SUR LE DEVANT.
+Est-ce une illusion ? Est-ce un tour qu'on me joue ?  
+Quels docteurs j'ai trouvés ! Je me tâte, et j'avoue  
+Que je suis confondu, que je n'y comprends rien.  
+
+    LE JEUNE GOURVILLE.
+À Lisette ; il lui parle à l'oreille.
+
+Picard, garde la porte... Et toi... Tu m'entends bien.  
+
+    LISETTE.
+J'y vais ; comptez sur moi.  
+
+    LE JEUNE GOURVILLE, À LISETTE.
+        Par ton seul savoir-faire  
+Tu sauras amuser et le père et la mère.  
+
+    GOURVILLE L’AÎNÉ.
+Quoi ! son père et sa mère ont l'obstination  
+De me poursuivre ici pour réparation ?  
+
+    LE JEUNE GOURVILLE.
+Hélas ! j'en suis honteux.  
+
+    GOURVILLE L’AÎNÉ.
+        C'est moi qui meurs de honte.  
+
+    LE JEUNE GOURVILLE.
+Sophie échappera par une fuite prompte ;  
+Et Lisette saura la mettre en sûreté.  
+Revenant à Gourville l'aîné.
+
+De grâce, mon cher frère, ayez tant de bonté  
+Que de lui pardonner ce petit artifice.  
+
+    GOURVILLE L’AÎNÉ.
+Quel galimatias !  
+
+    LE JEUNE GOURVILLE.
+        Ce n'était pas malice ;  
+C'est un trait de jeunesse, et peut-être il la perd.  
+
+    GOURVILLE L’AÎNÉ.
+Vous voulez excuser ici madame Aubert ?  
+
+    LE JEUNE GOURVILLE.
+Laissons madame Aubert ; mon frère, je vous jure  
+Que nul dans ce quartier n'a su cette aventure.  
+
+    GOURVILLE L’AÎNÉ.
+Que dites-vous ? après un bruit si violent ?  
+
+    LE JEUNE GOURVILLE.
+Il ne s'est rien passé qui ne fût très décent.  
+
+    GOURVILLE L’AÎNÉ.
+Ah ! vous êtes trop bon.  
+
+    LE JEUNE GOURVILLE.
+        Toujours tendre et fidèle,  
+Je cours la consoler, et je vous réponds d'elle.  
+Il sort.
+
+
+    GOURVILLE L’AÎNÉ.
+Mon frère est un bon coeur, il oublie aisément ;  
+Mais de ce qu'il me dit pas un mot ne s'entend.  
+Quel est cet homme en robe ?  
+
+
+## SCÈNE IV. Gourvile L'Aîné ; L'Avocat Placet, en robe.
+
+    L’AVOCAT PLACET, TOUJOURS D’UN TON EMPESÉ, ET SE RENGORGEANT.
+        On m'a dit par la ville  
+Que je dois m'adresser à monsieur de Gourville,  
+Des Courville l'aîné.  
+
+    GOURVILLE L’AÎNÉ.
+        Très humble serviteur.  
+
+    L’AVOCAT PLACET.
+Tout prêt à vous servir.  
+
+    GOURVILLE L’AÎNÉ.
+        C'est sans doute un docteur  
+Que, pour me consoler, monsieur Garant m'envoie.  
+
+    L’AVOCAT PLACET.
+Je suis docteur en droit.  
+
+    GOURVILLE L’AÎNÉ.
+        J'en ai bien de la joie ;  
+Je les révère tous.  
+
+    L’AVOCAT PLACET.
+        Au barreau du palais,  
+Depuis deux ans, je plaide avec quelque succès.  
+
+    GOURVILLE L’AÎNÉ.
+Contre madame Aubert plaidez donc, je vous prie,  
+Et vengez-moi, monsieur, de sa friponnerie.  
+
+    L’AVOCAT PLACET.
+Je ferai tout pour vous. Vous pouvez, au parquet,  
+Vous informer du nom de l'avocat Placet.  
+
+    GOURVILLE L’AÎNÉ.
+Si vous voulez, monsieur, vous charger de ma cause...  
+
+    L’AVOCAT PLACET.
+Vous devez être instruit...  
+
+    GOURVILLE L’AÎNÉ.
+        En deux mots je l'expose.  
+
+    L’AVOCAT PLACET.
+J'ai dès longtemps en vue un établissement,  
+Et j'avais pourchassé Claire-Sophie Agnant ;  
+Pour elle vous savez, monsieur, quelle est ma flamme.  
+
+    GOURVILLE L’AÎNÉ.
+Non ; mais un avocat fait bien de prendre femme  
+Pour se désennuyer quand il a travaillé.  
+
+    L’AVOCAT PLACET.
+Vous me privez d'icelle ; et vous m'avez baillé,  
+Par vos productions, bien de la tablature.  
+
+    GOURVILLE L’AÎNÉ.
+Qui ? moi, monsieur ?  
+
+    L’AVOCAT PLACET.
+        Vous-même ; et votre procédure  
+Par madame sa mère est remise en mes mains :  
+On a surpris, monsieur, vos papiers clandestins,  
+Vos missives d'amour, et tous vos beaux mystères,  
+Colorés d'un vernis de maximes austères ;  
+À nos yeux clairvoyants le poison s'est montré.  
+
+    GOURVILLE L’AÎNÉ.
+Je veux être pendu, je veux être enterré,  
+Si j'ai jamais écrit à cette demoiselle,  
+Et si j'ai pu sentir le moindre goût pour elle !  
+
+    L’AVOCAT PLACET.
+On renia toujours, monsieur, les vilains cas ;  
+Mademoiselle Agnant ne vous ressemble pas,  
+Elle a tout avoué.  
+
+    GOURVILLE L’AÎNÉ.
+    Quoi !  
+
+    L’AVOCAT PLACET.
+        Que votre éloquence  
+Avait voulu tromper sa timide innocence.  
+
+    GOURVILLE L’AÎNÉ.
+Ah ! c'est une coquine ; et je ferai serment  
+Que rien n'est plus menteur que cette fille Agnant.  
+
+    L’AVOCAT PLACET.
+Les serments coûtent peu, monsieur, aux hypocrites ;  
+Et chez madame Aubert vos infâmes visites,  
+Le viol dont partout vous êtes accusé,  
+Un mari trop bénin par vous de coups brisé,  
+Ont fait connaître assez votre affreux caractère.  
+
+    GOURVILLE L’AÎNÉ.
+Juste ciel !  
+
+    L’AVOCAT PLACET.
+        Poursuivons... Vous connaissez la mère ?  
+
+    GOURVILLE L’AÎNÉ.
+Qui donc ?  
+
+    L’AVOCAT PLACET.
+    Madame Agnant.  
+
+    GOURVILLE L’AÎNÉ.
+        Je sais qu'en ce logis  
+On la souffre parfois ; mais je vous avertis  
+Que je n'ai jamais eu la plus légère envie  
+D'elle ni de sa fille, et très peu me soucie  
+De la famille Agnant.  
+
+    L’AVOCAT PLACET.
+        Vous savez sur l'honneur  
+Combien elle est terrible, et quelle est son humeur.  
+
+    GOURVILLE L’AÎNÉ.
+Je n'en sais rien du tout.  
+
+    L’AVOCAT PLACET.
+        Pour venger son injure,  
+Sa main de deux soufflets a doué ma future  
+Devant monsieur Agnant et devant les valets.  
+
+    GOURVILLE L’AÎNÉ.
+Ma foi, cette journée est féconde en soufflets.  
+
+    L’AVOCAT PLACET.
+D'une telle leçon ma future excédée,  
+Du logis maternel soudain s'est évadée :  
+On sait qu'elle est chez vous, et je m'en doutais bien ;  
+Monsieur, il faut la rendre, et ma femme est mon bien.  
+Je vous rapporte ici vos lettres ridicules,  
+Où vous parlez toujours de péchés, de scrupules :  
+Rendez-moi sur-le-champ ses petits billets doux ;  
+Que tout ceci se passe en secret entre nous,  
+Et ne me forcez point d'aller à l'audience  
+Faire rougir messieurs de votre extravagance.  
+
+    GOURVILLE L’AÎNÉ.
+Le diable vous emporte et vous et vos billets !  
+Vous me feriez jurer. Non, je ne vis jamais  
+Une si détestable et si lourde imposture.  
+
+    L’AVOCAT PLACET.
+Vous êtes donc, monsieur, ravisseur et parjure ?  
+
+    GOURVILLE L’AÎNÉ.
+Allez, vous êtes fou.  
+
+    L’AVOCAT PLACET.
+        J'avais l'intention  
+De ménager céans la réputation  
+De l'objet que mon coeur destinait à ma couche ;  
+Mais, puisque vous niez, puisque rien ne vous touche,  
+Que dans le crime enfin vous êtes endurci,  
+Adieu, monsieur. Bientôt vous me verrez ici ;  
+Je viendrai vous y prendre en bonne compagnie ;  
+Les lois sauront punir cet excès d'infamie ;  
+Et vous verrez s'il est un plus énorme cas  
+Que d'oser se jouer aux femmes d'avocats.  
+Il sort.
+
+
+
+## SCÈNE V.
+
+    GOURVILLE L’AÎNÉ.
+Que voilà pour m'instruire une bonne journée !  
+J'étais charmé de moi ; ma sagesse obstinée  
+Se complaisait en elle, et j'admirais mon voeu  
+De fuir l'amour, le vin, les querelles, le jeu :  
+Je joue, et je perds tout ; certaine Aubert maudite  
+M'enlace en ses filets par sa mine hypocrite ;  
+Je bois, on m'assassine : en tout point confondu,  
+Je paye encor l'amende ayant été battu.  
+Un bavard d'avocat, dans cette conjoncture,  
+Veut me persuader que j'ai pris sa future,  
+Et me vient menacer d'un procès criminel.  
+Garant peut me tirer de cet état cruel ;  
+Garant ne paraît point, il me laisse, il emporte  
+Jusqu'aux clefs de ma chambre, et je reste à la porte,  
+N'osant, dans mes terreurs, ni fuir, ni demeurer.  
+Ô sagesse ! À quel sort as-tu pu me livrer !  
+Voilà donc le beau fruit d'une étude profonde !  
+Ah ! si j'avais appris à connaître le monde,  
+Je ne me verrais pas au point où je me voi :  
+Mon libertin de frère est plus sage que moi.  
+
+
+## SCÈNE VI. Gourville L'Aîné, Picard.
+
+    GOURVILLE L’AÎNÉ.
+Qui frappe à coups pressés ? quel bruit ! quel tintamarre !  
+Que fait-on donc là-bas ? Est-ce une autre bagarre ?  
+Est-ce madame Aubert qui me vient harceler,  
+Pour mille écus comptant qu'on m'a fait stipuler ?  
+
+    PICARD, ACCOURANT.
+Ah ! Cachez-vous.  
+
+    GOURVILLE L’AÎNÉ.
+    Quoi donc ?  
+
+    PICARD.
+        Une mère affligée  
+Qui vient redemander une fille outragée...  
+
+    GOURVILLE L’AÎNÉ.
+Madame Aubert la mère ?  
+
+    PICARD.
+        Un mari pris de vin  
+Qui prétend boire ici du soir jusqu'au matin...  
+
+    GOURVILLE L’AÎNÉ.
+Monsieur Aubert lui-même ?  
+
+    PICARD.
+        Et qui veut qu'on lui rende  
+Sa belle et chère enfant que sa femme demande :  
+Tout retentit des cris de la dame en fureur ;  
+Ses regards seulement m'ont fait trembler de peur ;  
+Et pour son premier mot elle m'a fait entendre  
+Qu'elle venait céans pour vous faire tous pendre.  
+
+    GOURVILLE L’AÎNÉ.
+Ah ! Cela me manquait.  
+
+    PICARD.
+        Quelques bonnets carrés,  
+Pour mieux y parvenir, sont avec elle entrés :  
+Déjà l'on verbalise.  
+
+    GOURVILLE L’AÎNÉ.
+        Eh bien ! Que faut-il faire ?  
+Où fuir ? Où me fourrer ?  
+
+    PICARD.
+        Venez, j'ai votre affaire ;  
+Je m'en vais vous tapir au fond du galetas.  
+
+    GOURVILLE L’AÎNÉ.
+Ah ! j'y cours m'y jeter de la fenêtre en bas(14).  
+
+    PICARD.
+Oui, oui, dépêchez-vous.  
+
+    GOURVILLE L’AÎNÉ.
+        Allons, si j'en réchappe,  
+Sera bien fin, je crois, qui jamais m'y rattrape.  
+Monsieur, madame Aubert, et tous les grands docteurs,  
+Ces dévots du quartier, et ces prédicateurs,  
+Ne tourmenteront plus ma simple bonhomie ;  
+Je renonce à jamais à la théologie :  
+Je vois que j'en étais sottement entiché,  
+Et j'aurais moins mal fait d'être un franc débauché.  
+
+
+# ACTE IV.
+
+
+## SCÈNE I. Le Jeune Gourville, Lisette.
+
+    LE JEUNE GOURVILLE.
+J'y songe, j'y resonge, et tout cela, Lisette,  
+Me paraît impossible.  
+
+    LISETTE.
+        Oui, mais la chose est faite.  
+
+    LE JEUNE GOURVILLE.
+N'importe, mon enfant, qu'elle soit faite ou non,  
+Ta maîtresse à ce point ne perd pas la raison.  
+
+    LISETTE.
+Bon ! je la perds bien, moi, monsieur, moi qui raisonne,  
+Pour ce petit Picard.  
+
+    LE JEUNE GOURVILLE.
+        Picard passe, ma bonne ;  
+Mais pour Garant, l'objet de son aversion,  
+Un fat, un plat bourgeois, un ennuyeux fripon...  
+
+    LISETTE.
+Ah ! la femme est si faible !  
+
+    LE JEUNE GOURVILLE.
+        Il est très vrai, ma reine,  
+Vous passez volontiers de l'amour à la haine ;  
+Des exemples frappants le montrent chaque jour ;  
+Mais vous ne passez point du mépris à l'amour.  
+
+    LISETTE.
+Tout ce qu'il vous plaira ; mais j'ai quelques lumières ;  
+J'en sais autant que vous sur ces grandes matières :  
+Un abbé, grand ami de madame Ninon,  
+Qui, dans mon jeune temps, fréquentait la maison,  
+Et qui même, entre nous, eut du goût pour Lisette,  
+Me disait que la femme est comme la girouette ;  
+Quand elle est neuve encore, à toute heure on l'entend,  
+Elle brille aux regards, elle tourne à tout vent ;  
+Elle se fixe enfin quand le temps l'a rouillée.  
+
+    LE JEUNE GOURVILLE.
+De ta comparaison j'ai l'âme émerveillée ;  
+Fixe-toi pour Picard, rouille-toi, mon enfant :  
+Ninon n'en fera rien pour notre ami Garant.  
+
+    LISETTE.
+La chose est pourtant sûre.  
+
+    LE JEUNE GOURVILLE.
+        Ouais ! Ninon marguillière !  
+
+    LISETTE.
+Croyez-le.  
+
+    LE JEUNE GOURVILLE.
+        Je le crois, et je ne le crois guère ;  
+Mais on voit des marchés non moins extravagants,  
+Et Paris est rempli de ces événements.  
+Aujourd'hui l'on en rit, demain on les oublie :  
+Tout passe et tout renaît ; chaque jour sa folie.  
+Mais quel train, quel fracas, quel trouble, elle verra  
+Dans sa propre maison lorsqu'elle y reviendra !  
+Comment sauver Agnant, cette fille si chère ?  
+Que ferons-nous ici de mon benêt de frère,  
+De l'avocat Placet, et de madame Agnant ?  
+
+    LISETTE.
+Ils ont déjà cherché, dans chaque appartement.  
+Ils n'ont pu déterrer la petite Sophie.  
+
+    LE JEUNE GOURVILLE.
+Au fond je suis fâché que mon espièglerie  
+Ait à mon frère aîné causé tant de tourment ;  
+Mais il faut bien un peu décrasser un pédant :  
+Ce sont là des leçons pour un grand philosophe.  
+
+    LISETTE.
+Oui ; mais madame Agnant paraît d'une autre étoffe ;  
+Elle est à craindre ici.  
+
+    LE JEUNE GOURVILLE.
+        Bon ! Tout s'apaisera ;  
+Car enfin tout s'apaise : un quartaut suffira  
+Pour faire oublier tout au bonhomme de père ;  
+Et plus en ce moment sa femme est en colère,  
+Plus nous verrons bientôt s'adoucir son humeur.  
+
+
+## SCÈNE II. Gourville L'Aîné, poursuivi par Madame Agnant ; Monsieur Agnant, L'Avocat Placet, Le Jeune Gourville, Lisette, Picard.
+
+    GOURVILLE L’AÎNÉ, COURANT.
+Au secours !  
+
+    MADAME AGNANT, COURANT APRÈS LUI.
+    Au méchant !  
+
+    MONSIEUR AGNANT, COURANT APRÈS MME AGNANT.
+    Qu'on l'arrête !  
+
+    L’AVOCAT PLACET, COURANT APRÈS M. AGNANT.
+        Au voleur !  
+Ils font le tour du théâtre en poursuivant Gourville l'aîné.
+
+
+    GOURVILLE L’AÎNÉ.
+Ah ! j'ai le nez cassé !  
+
+    MADAME AGNANT.
+    Je suis morte !  
+
+    MONSIEUR AGNANT.
+        Ah ! Ma femme,  
+Es-tu morte en effet ?  
+
+    MADAME AGNANT, À GOURVILLE L’AÎNÉ.
+        Non... Séducteur infâme,  
+Tu m'enlèves ma fille, impudent loup-garou,  
+Et de la mère encor tu viens casser le cou !  
+
+    GOURVILLE L’AÎNÉ.
+Eh ! madame, pardon !  
+
+    MADAME AGNANT.
+        Détestable hypocrite !  
+
+    L’AVOCAT PLACET.
+Race de débauchés !  
+
+    MADAME AGNANT.
+        Coeur faux ! plume maudite !  
+Tu me rendras ma fille, ou je t'étranglerai.  
+
+    GOURVILLE L’AÎNÉ.
+Hélas ! Je la rendrai sitôt que je l'aurai.  
+
+    MADAME AGNANT, AU JEUNE GOURVILLE.
+Tu m'insultes encore !... Et toi qui fus si sage,  
+Parle, as-tu pu souffrir un pareil brigandage ?  
+
+    LE JEUNE GOURVILLE.
+Madame, calmez-vous... Monsieur, écoutez-moi.  
+
+    MONSIEUR AGNANT.
+Volontiers ; tu parais un très bon vivant, toi ;  
+Je t'ai toujours aimé.  
+
+    LE JEUNE GOURVILLE.
+        Rassurez-vous, mon frère  
+Vous, monsieur l'avocat, éclaircissons l'affaire ;  
+Entendons-nous.  
+
+    MONSIEUR AGNANT.
+        Parbleu, l'on ne peut mieux parler :  
+Il faut toujours s'entendre, et non se quereller.  
+
+    LE JEUNE GOURVILLE.
+Picard, apportez-nous ici sur cette table  
+De ce bon vin muscat.  
+
+    MONSIEUR AGNANT.
+        Il est fort agréable ;  
+J'en boirai volontiers, en ayant bu déjà :  
+Asseyons-nous, ma femme, et pesons tout cela.  
+Il s'assied auprès de la table.
+
+
+    MADAME AGNANT.
+Je n'ai rien à peser ; il faut que l'on commence  
+Par me rendre ma fille.  
+
+    L’AVOCAT PLACET.
+        Oui, c'est la conséquence.  
+Ils se rangent autour de M. Agnant, qui reste assis.
+
+
+    GOURVILLE L’AÎNÉ.
+Reprenez-la partout où vous la trouverez,  
+Et que d'elle et de vous nous soyons délivrés.  
+
+    MADAME AGNANT.
+Eh bien ! vous le voyez, encore il m'injurie,  
+L'effronté dissolu !  
+
+    LE JEUNE GOURVILLE, À PART, À SON FRÈRE.
+        Mon frère, je vous prie,  
+Gardons-nous de heurter ses préjugés de front.  
+
+    GOURVILLE L’AÎNÉ.
+Non, je n'y puis tenir ; tout ceci me confond.  
+
+    LE JEUNE GOURVILLE, PRENANT MME AGNANT À PART.
+Madame, vous savez combien je suis sincère.  
+
+    MONSIEUR AGNANT.
+Il n'est point frelaté.  
+
+    LE JEUNE GOURVILLE.
+        Je ne saurais vous taire  
+Que depuis quelque temps mon cher frère en effet  
+Eut avec votre fille un commerce secret.  
+
+    GOURVILLE L’AÎNÉ.
+Ça n'est pas vrai.  
+
+    LE JEUNE GOURVILLE, À SON FRÈRE.
+        Paix donc ; c'est un commerce honnête,  
+Pur, moral, instructif, pour bien régler sa tête,  
+Pour éloigner son coeur d'un monde décevant,  
+Et pour la disposer à se mettre en couvent.  
+
+    MONSIEUR AGNANT.
+Mettre au couvent ma fille ! Oh, le plaisant visage !  
+
+    MADAME AGNANT.
+C'est un impertinent.  
+
+    GOURVILLE L’AÎNÉ.
+    Je vous dis...  
+
+    LE JEUNE GOURVILLE, FAISANT SIGNE À SON FRÈRE.
+    Chut !  
+
+    GOURVILLE L’AÎNÉ.
+        J'enrage !  
+
+    L’AVOCAT PLACET.
+Cette excuse louable est d'un coeur fraternel ;  
+Mais, monsieur, votre aîné n'est pas moins criminel.  
+Tenez, monsieur, voilà ses missives infâmes,  
+Et ses instructions pour diriger les âmes.  
+Il tire des lettres de dessous sa robe.
+
+
+    LE JEUNE GOURVILLE, PRENANT LES LETTRES.
+Prêtez-moi.  
+
+    L’AVOCAT PLACET.
+    Les voilà.  
+
+    LE JEUNE GOURVILLE.
+        D'un esprit attentif  
+J'en veux voir la teneur et le dispositif.  
+
+    L’AVOCAT PLACET.
+Mais il faut me les rendre.  
+
+    LE JEUNE GOURVILLE.
+        Oui, mais je dois vous dire  
+Qu'avant de vous les rendre il me faudra les lire.  
+Il met les lettres dans sa poche ; Mme Agnant se jette dessus, et en prend une.
+
+
+    GOURVILLE L’AÎNÉ.
+Allez, ces lettres sont d'un faussaire.  
+
+    MADAME AGNANT, À GOURVILLE L’AÎNÉ.
+        Fripon,  
+Nieras-tu tes écrits ? Tiens, voici tout du long  
+Tes beaux enseignements dont ma fille se coiffe ;  
+Les voici.  
+
+    L’AVOCAT PLACET.
+        Nous devons les déposer au greffe.  
+
+    MADAME AGNANT, PRENANT DES LUNETTES.
+Écoute... « La vertu que je veux vous montrer  
+Doit plaire à votre coeur, l'échauffer, l'éclairer.  
+Votre vertu m'enchante, et la mienne me guide... »  
+Ah ! Je te donnerai de la vertu, perfide !  
+
+    GOURVILLE L’AÎNÉ.
+Je n'ai jamais écrit ces sottises.  
+
+    LE JEUNE GOURVILLE, VERSANT À BOIRE À M. AGNANT.
+        Voisin !  
+
+    MONSIEUR AGNANT.
+De la vertu !  
+
+    LE JEUNE GOURVILLE.
+        Voyons celle de ce bon vin.  
+À Mme Agnant.
+
+Madame, goûtez-en.  
+
+    MADAME AGNANT, AYANT BU.
+        Peste ! Il est admirable !  
+
+    LE JEUNE GOURVILLE, À M. AGNANT.
+Vous en aurez ce soir, mon cher, sur votre table ;  
+On vous porte un quartaut dont vous serez content.  
+
+    MONSIEUR AGNANT.
+Non, je n'ai jamais vu de plus honnête enfant.  
+
+    LE JEUNE GOURVILLE, À L’AVOCAT PLACET.
+Et vous ?  
+
+    L’AVOCAT PLACET BOIT UN COUP.
+        Il est fort bon ; mais vous ne pouvez croire  
+Qu'en l'état où je suis je vienne ici pour boire.  
+
+    LE JEUNE GOURVILLE, EN PRÉSENTE À SON FRÈRE.
+Vous, mon frère ?  
+
+    GOURVILLE L’AÎNÉ.
+        Ah ! Cessez vos ébats ennuyeux ;  
+Plus vous paraissez gai, plus je suis sérieux ;  
+Après tant de chagrins et de tracasserie,  
+C'est une cruauté que la plaisanterie ;  
+Dans ce jour de malheur tout le quartier, je crois,  
+S'était donné le mot pour se moquer de moi.  
+À Mme Agnant.
+
+Ma voisine, à la fin, vous voilà bien instruite  
+Que si votre Sophie est par malheur en fuite,  
+Ce n'était pas pour moi qu'elle a fait ce beau tour ;  
+Ni vos yeux ni les siens ne m'ont donné d'amour.  
+
+    MADAME AGNANT.
+Mes yeux, méchant !  
+
+    GOURVILLE L’AÎNÉ.
+        Vos yeux. C'est une calomnie,  
+Un mensonge effroyable inventé par l'envie.  
+Vous en rapportez-vous au bon monsieur Garant ?  
+Nous l'attendons ici de moment en moment :  
+Il connaît assez bien quelle est mon écriture ;  
+Et dans sa poche même il a ma signature ;  
+Il a jusqu'à la clef de mon appartement,  
+Où lui-même a laissé tout mon argent comptant :  
+Il me rendra justice.  
+
+    MADAME AGNANT.
+        Oh ! C'est un honnête homme.  
+
+    L’AVOCAT PLACET.
+Un grand homme de bien.  
+
+    LE JEUNE GOURVILLE.
+        Chacun ainsi le nomme.  
+
+    MADAME AGNANT.
+Un homme franc, tout rond.  
+
+    MONSIEUR AGNANT.
+        L'oracle du quartier.  
+
+    LE JEUNE GOURVILLE.
+Madame, entre nous tous, je veux vous confier  
+Quelle est à ce sujet ma pensée.  
+
+    MONSIEUR AGNANT, EN BUVANT, ET LE REGARDANT ENSUITE FIXEMENT.
+        Oui, confie.  
+
+    LE JEUNE GOURVILLE.
+Je crois que c'est chez lui que la belle Sophie  
+A couru se cacher pour fuir votre courroux,  
+Et pour qu'il la remît en grâce auprès de vous :  
+Dans toute la paroisse il prend soin des affaires,  
+Très charitablement, des filles et des mères.  
+
+    MADAME AGNANT.
+Vraiment, l'avis est bon.  
+
+    LE JEUNE GOURVILLE.
+        Mademoiselle Agnant  
+À du coeur ; elle pense, et n'est plus une enfant ;  
+Vous l'avez souffletée, elle s'en est sentie  
+Un peu trop vivement, et puis elle est partie.  
+
+    MONSIEUR AGNANT, TOUJOURS ASSIS, ET LE VERRE À LA MAIN.
+C'est votre faute aussi, ma femme ; et franchement  
+Vous deviez avec elle agir moins durement :  
+Vous avez la main prompte, et vous êtes la cause  
+De tout notre malheur.  
+
+    LE JEUNE GOURVILLE.
+        Mon Dieu, c'est peu de chose.  
+Allez, tout ira bien... J'entends monsieur Garant ;  
+Il revient ; parlez-lui, mon frère, et promptement :  
+Sur tous les marguilliers on sait votre influence ;  
+Déployez avec lui votre rare éloquence.  
+
+    GOURVILLE L’AÎNÉ.
+Que lui dire ?  
+
+    LE JEUNE GOURVILLE.
+        Vous seul pouvez persuader.  
+
+    GOURVILLE L’AÎNÉ.
+Persuader ! et quoi ?  
+
+    LE JEUNE GOURVILLE.
+        Tout va s'accommoder.  
+
+    GOURVILLE L’AÎNÉ.
+Comment ?  
+
+    LE JEUNE GOURVILLE.
+        Vous seul pouvez manier cette affaire.  
+Vous seul rendrez Sophie à sa charmante mère.  
+
+    GOURVILLE L’AÎNÉ.
+Moi ?  
+
+    MADAME AGNANT.
+        Va, si tu la rends, je te pardonne tout.  
+
+    GOURVILLE L’AÎNÉ.
+Je n'entends rien...  
+
+    LE JEUNE GOURVILLE.
+        D'un mot vous en viendrez à bout.  
+
+    GOURVILLE L’AÎNÉ.
+Allons donc.  
+Il sort.
+
+
+    LE JEUNE GOURVILLE.
+        Vous mettrez la paix dans le ménage.  
+
+    MONSIEUR AGNANT, MONTRANT LE JEUNE GOURVILLE.
+Ma femme, ce jeune homme est un esprit bien sage.  
+
+
+## SCÈNE III. Les Précédents ; Le Jeuene Gourville, prenant par la main Monsieur et Madame Agnant, et se mettant entre eux.
+
+    LE JEUNE GOURVILLE.
+Puisqu'il n'est plus ici, je puis avec candeur,  
+Madame, en liberté vous ouvrir tout mon coeur.  
+J'ai traité devant lui cette importante affaire  
+Comme peu dangereuse, et j'excusais mon frère ;  
+Mais je dois avec vous faire réflexion  
+Que nous hasardons tous la réputation  
+D'une fille nubile, et sous vos yeux instruite,  
+Au chemin de l'honneur par vos leçons conduite :  
+Ce chemin de l'honneur est tout à fait glissant ;  
+Ceci fera du bruit, le monde est médisant.  
+
+    MADAME AGNANT.
+Et c'est ce que je crains.  
+
+    LE JEUNE GOURVILLE.
+        Une fille enlevée,  
+Avec procès-verbal chez un homme trouvée :  
+Vous sentez bien, madame, et vous comprenez bien  
+Que de tout le Marais ce sera l'entretien ;  
+Qu'il en faut prévenir la triste conséquence.  
+
+    MONSIEUR AGNANT.
+Par ma foi, ce jeune homme est rempli de prudence.  
+
+    LE JEUNE GOURVILLE.
+J'ai fort à coeur aussi, dans ce fâcheux éclat,  
+Le propre honneur lésé de monsieur l'avocat.  
+Que pensera tout l'ordre en voyant un confrère  
+Qui prend, sans respecter son grave caractère,  
+Une fille à ses yeux enlevée aujourd'hui,  
+Dont un autre est aimé ?... Fi ! J'en rougis pour lui.  
+
+    L’AVOCAT PLACET.
+Mais, monsieur, c'est moi seul que cette affaire touche :  
+On me donne une dot qui doit fermer la bouche  
+Aux malins envieux, prêts à tout censurer ;  
+Dix mille écus comptant sont à considérer.  
+
+    MONSIEUR AGNANT, TOUJOURS BIEN FIXE, ET L’AIR UN PEU HÉBÉTÉ D’UN BUVEUR HONNÊTE, MAIS NON PAS D’UN VILAIN IVROGNE DE COMÉDIE À HOQUETS.
+Vous avez de gros biens ?  
+
+    L’AVOCAT PLACET.
+        Oui, j'ai mon éloquence,  
+Mon étude, ma voix, les plaideurs, l'audience.  
+
+    LE JEUNE GOURVILLE.
+Madame, je vous plains ; j'avoue ingénument  
+Qu'on devait respecter un tel engagement.  
+Mon frère a fait sans doute une grande sottise  
+D'enlever la future à ce futur promise ;  
+Il n'en peut résulter qu'une triste union,  
+Pleine de jalousie et de dissension ;  
+Les deux futurs ensemble à peine pourraient vivre.  
+
+    MADAME AGNANT.
+J'en ai peur en effet.  
+
+    MONSIEUR AGNANT.
+        Il parle comme un livre,  
+Il a toujours raison.  
+
+    LE JEUNE GOURVILLE.
+        Par un destin fatal  
+Vous voyez que mon frère a seul fait tout le mal ;  
+C'est votre propre sang, c'est l'honneur qu'il vous ôte  
+Madame, c'est à moi de réparer sa faute ;  
+Pour Sophie, il est vrai, je n'eus aucun désir,  
+Mais je l'épouserai pour vous faire plaisir.  
+
+    MONSIEUR AGNANT.
+Parbleu, je le voudrais.  
+
+    L’AVOCAT PLACET.
+    Moi, non.  
+
+    MADAME AGNANT.
+        Quelle folie !  
+Tu n'as rien, un cadet de Basse-Normandie  
+Est plus riche que toi.  
+
+    LE JEUNE GOURVILLE.
+        D'aujourd'hui seulement  
+Notre belle Ninon m'a fait voir clairement  
+Que j'ai cent mille francs que m'a laissés mon père ;  
+Monsieur Garant lui-même en est dépositaire.  
+
+    MADAME AGNANT.
+Cent mille francs ? Grand Dieu !  
+
+    MONSIEUR AGNANT.
+        Ma foi, j'en suis charmé.  
+
+    LE JEUNE GOURVILLE.
+De Sophie, il est vrai, je ne suis point aimé ;  
+Mais je suis à sa mère attaché pour ma vie,  
+Et ce n'est que pour vous que je me sacrifie.  
+
+    MADAME AGNANT.
+Et la somme, mon fils, est chez monsieur Garant ?  
+
+    LE JEUNE GOURVILLE.
+Sans doute ; il en convient.  
+
+    L’AVOCAT PLACET.
+        J'en doute fortement.  
+
+    MADAME AGNANT, À MONSIEUR AGNANT.
+Cent mille francs, mon cher !  
+
+    MONSIEUR AGNANT.
+        Cent mille francs, ma femme  
+Ah ! ça me plaît.  
+
+    MADAME AGNANT.
+        Ça va jusqu'au fond de mon âme.  
+Cent mille francs, mon fils !  
+
+    LE JEUNE GOURVILLE.
+        J'ai quelque chose avec.  
+
+    MONSIEUR AGNANT.
+Il est plein de mérite, et d'ailleurs il boit sec.  
+
+    L’AVOCAT PLACET.
+Mais songez, s'il vous plaît...  
+
+    MONSIEUR AGNANT.
+        Tais-toi ; je vais le prendre  
+Dès ce même moment a ton nez pour mon gendre.  
+
+    L’AVOCAT PLACET.
+Comment, madame, après des articles conclus,  
+Stipulés par vous-même !  
+
+    MADAME AGNANT.
+        Ils ne le seront plus.  
+Elle le pousse.
+
+Cent mille francs... Allez.  
+
+    MONSIEUR AGNANT, LE POUSSANT D’UN AUTRE CÔTÉ.
+        Dénichez au plus vite.  
+
+    MADAME AGNANT, LUI FAISANT FAIRE LA PIROUETTE À DROITE.
+Allez plaider ailleurs.  
+
+    MONSIEUR AGNANT, LUI FAISANT FAIRE LA PIROUETTE À GAUCHE.
+        Cherchez un autre gîte.  
+Cent mille francs !  
+
+    L’AVOCAT PLACET.
+        Je vais vous faire assigner tous.  
+
+    LE JEUNE GOURVILLE ? EN LE RETOURNANT.
+N'y manquez pas.  
+
+    MONSIEUR AGNANT.
+    Bonsoir.  
+
+    MADAME AGNANT.
+        Allons, arrangeons-nous.  
+L'avocat Placet sort.
+
+
+
+## SCÈNE IV. Le Jeune Gourville, Monsieur Agnant, Madame Agnant.
+
+    MONSIEUR AGNANT.
+Mais que n'as-tu plus tôt expliqué ton affaire ?  
+Pourquoi de ta fortune as-tu fait un mystère ?  
+
+    LE JEUNE GOURVILLE.
+Ce n'est que d'aujourd'hui que j'en suis assuré.  
+Monsieur Garant m'a dit que ce dépôt sacré  
+Était entre ses mains.  
+
+    MONSIEUR AGNANT.
+        C'est comme dans les tiennes.  
+
+    MADAME AGNANT.
+Tout de même : et ma fille ? Afin que tu la tiennes,  
+Il faut que je la trouve.  
+
+    LE JEUNE GOURVILLE.
+        Oh ! L'on vous la rendra.  
+
+    MONSIEUR AGNANT.
+Elle ne revient point, donc elle reviendra.  
+
+    LE JEUNE GOURVILLE.
+Mais ne lui donnez plus de soufflets, je vous prie ;  
+Cela cabre un esprit.  
+
+    MONSIEUR AGNANT.
+        Ça peut l'avoir aigrie.  
+
+    MADAME AGNANT.
+Ça n'arrivera plus... C'est chez l'ami Garant  
+Que tu la crois cachée ?  
+
+    LE JEUNE GOURVILLE.
+        Oui, très certainement,  
+Et je vais de ce pas tout préparer, ma mère,  
+Pour remettre en vos bras une fille si chère.  
+Il fait un pas pour sortir.
+
+
+    MADAME AGNANT, L’EMBRASSANT.
+Il faut que je t'embrasse.  
+
+    MONSIEUR AGNANT.
+        Oui, j'en veux faire autant.  
+
+    MADAME AGNANT.
+Reviens bien vite au moins.  
+
+    LE JEUNE GOURVILLE.
+        Je revole à l'instant.  
+
+    MADAME AGNANT, L’ARRÊTANT ENCORE.
+Écoute encore un peu, mon cher ami, mon gendre ;  
+En famille avec toi quels plaisirs je vais prendre !  
+Je ne puis te quitter... va, mon fils... sois certain  
+Que ma fille est ta femme.  
+
+    LE JEUNE GOURVILLE.
+        Oui, tel fut mon dessein.  
+
+    MADAME AGNANT.
+Tu réponds d'elle !  
+
+    LE JEUNE GOURVILLE, EN S’EN ALLANT.
+        Oh ! Oui, tout comme de moi-même.  
+
+    MADAME AGNANT.
+Quel bon ami j'ai là ! Mon Dieu, comme je l'aime !  
+
+
+## SCÈNE V. Monsieur Agnant, Madame Agnant.
+
+    MONSIEUR AGNANT.
+Par ma foi, notre gendre est un charmant garçon.  
+
+    MADAME AGNANT.
+Oh ! c'est bien élevé. La voisine Ninon  
+Vous a formé cela ; c'est une dégourdie  
+Qui sait bien mieux que nous ce que c'est que la vie,  
+Un grand esprit.  
+
+    MONSIEUR AGNANT.
+    Ah ! ah !  
+
+    MADAME AGNANT.
+        Je voudrais l'égaler ;  
+Mais sitôt qu'elle parle on n'ose plus parler.  
+
+    MONSIEUR AGNANT.
+On dit qu'elle entend tout, et même les affaires,  
+Une bonne caboche !  
+
+    MADAME AGNANT.
+        On dit que les deux frères  
+Lui doivent ce qu'ils sont ; comment ? Cent mille francs !  
+L'avocat n'aurait pu les gagner en trente ans ;  
+Ce n'est rien qu'un bavard.  
+
+    MONSIEUR AGNANT.
+        Un pédant imbécile,  
+Fait pour rincer au plus les verres de Gourville.  
+
+
+## SCÈNE VI. Monsieur Agnant, Madame Agnant, Monsieur Garant.
+
+    MADAME AGNANT.
+Eh bien ? Monsieur Garant, enfin tout est conclu.  
+
+    MONSIEUR GARANT.
+Oui, ma chère voisine, et le ciel l'a voulu.  
+
+    MADAME AGNANT.
+Quel bonheur !  
+
+    MONSIEUR GARANT.
+        Il est vrai qu'on a sur sa conduite  
+Glosé bien fortement ; mais l'hymen par la suite  
+Vous passe un beau vernis sur ces péchés mignons.  
+
+    MADAME AGNANT.
+L'escapade, monsieur, que nous lui reprochons,  
+Ne peut se mettre au rang des fautes criminelles.  
+
+    MONSIEUR GARANT.
+La réputation revient d'ailleurs aux belles  
+Ainsi que les cheveux : et puis considérons  
+Qu'elle a bien du crédit, des amis, des patrons ;  
+Et qu'outre sa richesse à tous les deux commune,  
+Elle pourra me faire une grande fortune.  
+
+    MADAME AGNANT.
+Une fortune, à vous !  
+
+    MONSIEUR AGNANT.
+        Je suis tout interdit.  
+Ma fille, de grands biens, des patrons, du crédit !  
+Quels discours !  
+
+    MADAME AGNANT.
+        Il est vrai qu'elle est assez gentille ;  
+Mais du Crédit !  
+
+    MONSIEUR GARANT.
+        Qui parle ici de votre fille ?  
+
+    MADAME AGNANT.
+De qui donc parlez-vous ?  
+
+    MONSIEUR GARANT.
+        De la belle Ninon,  
+Que j'épouse ce soir, ici, dans sa maison ;  
+Je vous prie à la noce, et vous devez en être.  
+
+    MADAME AGNANT.
+Comment ! vous épousez notre Ninon ?  
+
+    MONSIEUR AGNANT.
+        Mon maître,  
+Est-il bien vrai ?  
+
+    MONSIEUR GARANT.
+    Très vrai.  
+
+    MONSIEUR AGNANT.
+        J'en suis, parbleu, touché.  
+Vous ne pourriez jamais faire un meilleur marché.  
+
+    MADAME AGNANT.
+Et moi je vous disais que je donne Sophie  
+À mon petit Gourville, et qu'elle s'est blottie  
+Chez vous, en votre absence, et qu'elle en va sortir  
+Pour serrer ces doux noeuds que je viens d'assortir,  
+Et qu'il nous faut donner, pour aider leur tendresse,  
+Cent mille francs comptant que vous avez en caisse.  
+
+    MONSIEUR AGNANT.
+Oui, tant qu'il vous plaira, mariez-vous ici ;  
+Mais, parbleu, permettez qu'on se marie aussi.  
+
+    MONSIEUR GARANT.
+Rêvez-vous, mes voisins ? Et ce petit délire  
+Vous prend-il quelquefois ? Qui diable a pu vous dire  
+Que Sophie est chez moi, que Gourville aujourd'hui  
+Aura cent mille francs qui sont tout prêts pour lui ?  
+
+    MADAME AGNANT.
+Je le tiens de sa bouche.  
+
+    MONSIEUR AGNANT.
+        Il nous l'a dit lui-même.  
+
+    MONSIEUR GARANT.
+De ce jeune étourdi la folie est extrême ;  
+Il séduit tour à tour les filles du Marais ;  
+Il leur fait des serments d'épouser leurs attraits ;  
+Et pour les mieux tromper, il fait accroire aux mères  
+Qu'il a cent mille francs placés dans mes affaires.  
+Il n'en est pas un mot, et je ne lui dois rien.  
+Monsieur son frère et lui sont tous les deux sans bien,  
+Et tous deux au logis cesseront de paraître  
+Dès le premier moment que j'en serai le maître.  
+
+    MADAME AGNANT.
+Vous n'avez pas à lui le moindre argent comptant ?  
+
+    MONSIEUR GARANT.
+Pas un denier.  
+
+    MADAME AGNANT.
+        Mon Dieu, le méchant garnement !  
+
+    MONSIEUR AGNANT, EN BUVANT UN COUP.
+C'est dommage.  
+
+    MADAME AGNANT.
+        Ma fille, à mes bras enlevée,  
+Après dîner chez vous ne s'était pas sauvée ?  
+
+    MONSIEUR GARANT.
+Il n'en est pas un mot.  
+
+    MADAME AGNANT.
+        Les deux frères, je vois,  
+D'accord pour m'outrager, s'entendent contre moi.  
+
+    MONSIEUR AGNANT.
+Les fripons que voilà !  
+
+    MONSIEUR GARANT.
+        Toujours de ces deux frères  
+J'ai craint, je l'avouerai, les méchants caractères.  
+
+    MADAME AGNANT.
+Tous deux m'ont pris ma fille ! Ah ! J'en aurai raison ;  
+Et je mettrai plutôt le feu dans la maison.  
+
+    MONSIEUR GARANT.
+La maison m'appartient ; gardez-vous-en, ma bonne.  
+
+    MADAME AGNANT.
+Quoi donc ! pour épouser nous n'aurons plus personne ?  
+Allons, courons bien vite après notre avocat ;  
+Il vaudra mieux que rien.  
+
+    MONSIEUR, AVEC LE GESTE D’UN HOMME IVRE.
+        Ma femme, il est bien plat.  
+
+
+# ACTE V.
+
+
+## SCÈNE I. Ninon, Lisette.
+
+    LISETTE.
+Ah ! Madame, quel train, quel bruit dans votre absence !  
+Quel tumulte effroyable, et quelle extravagance !  
+
+    NINON.
+Je sais ce qu'on a fait ; je prétends calmer tout,  
+Et j'ai pris les devants pour en venir à bout.  
+
+    LISETTE.
+Madame, contre moi ne soyez point fâchée  
+Que la petite Agnant se soit ici cachée ;  
+Hélas ! J'en aurais fait de bon coeur tout autant  
+Si j avais eu pour mère une madame Agnant :  
+Comment ! battre sa fille ! ah ! c'est une infamie.  
+
+    NINON.
+Oui, ce trait ne sent pas la bonne compagnie  
+Notre pauvre Gourville en est encore ému.  
+
+    LISETTE.
+Il l'adore en effet.  
+
+    NINON.
+        Lisette, que veux-tu ?  
+Il faut pour la jeunesse être un peu complaisante.  
+Ninon aurait grand tort de faire la méchante.  
+La jeune Agnant me touche.  
+
+    LISETTE.
+        À peine je conçois  
+Comment nos plats voisins, avec leur air bourgeois,  
+Ont trouvé le secret de nous faire une fille  
+Si pleine d'agréments, si douce, si gentille.  
+
+    NINON.
+Dès la première fois son maintien me surprit,  
+Sa grâce me charma, j'aimai son tour d'esprit.  
+Des femmes quelquefois assez extravagantes,  
+Ayant de sots maris, font des filles charmantes.  
+Il fallut bien souffrir de ses très sots parents  
+La visite importune et les plats compliments ;  
+Sa mère m'excéda par droit de voisinage :  
+Sa fille était tout autre ; elle obtint mon suffrage.  
+Elle aura quelque bien : Gourville, en l'épousant,  
+N'est point forcé de vivre avec madame Agnant ;  
+On respecte beaucoup sa chère belle-mère,  
+On la voit rarement, encor moins le beau-père.  
+Je me trompe, ou Sophie est bonne par le coeur ;  
+Point de coquetterie, elle aime avec candeur.  
+Je veux aux deux amants faire des avantages.  
+
+    LISETTE.
+Vous allez donc ce soir bâcler trois mariages ;  
+Celui de ces enfants, le vôtre, et puis le mien.  
+Madame, en un seul jour c'est faire assez de bien :  
+Il faudrait tout d'un temps, dans votre zèle extrême,  
+Pour notre aîné Gourville en faire un quatrième ;  
+Le mariage forme et dégourdit les gens.  
+
+    NINON.
+Il en a grand besoin : tout vient avec le temps.  
+Dans la rage qu'il eut d'être trop raisonnable,  
+Il ne lui manqua rien que d'être supportable ;  
+Mais les fortes leçons qu'il vient de recevoir  
+Sur cet esprit flexible ont eu quelque pouvoir :  
+Pour toi ton tour approche, et ton affaire est prête.  
+Mon cher ami Garant s'était mis dans la tête  
+De t'engager, Lisette, à me parler pour lui :  
+Il t'a promis beaucoup, est-il vrai ?  
+
+    LISETTE.
+        Madame, oui.  
+
+    NINON.
+Un peu de différence est entre sa personne  
+Et la mienne peut-être, il promet et je donne :  
+Prends cinquante louis pour subvenir aux frais  
+De ton nouveau ménage.  
+
+
+## SCÈNE II. Ninon, Lisette, Picard.
+
+    LISETTE.
+        Ah ! Picard, quels bienfaits !  
+En montrant la bourse.
+
+Vois-tu cela ?  
+
+    PICARD.
+        Madame, il faut d'abord vous dire  
+Que mon bonheur est grand... et que je ne désire  
+Rien plus... sinon qu'il dure... et que Lisette et moi  
+Nous sommes obligés... Mais aide-moi donc, toi ;  
+Je ne sais point parler.  
+
+    NINON.
+        J'aime ton éloquence,  
+Picard, et je me plais à ta reconnaissance.  
+
+    PICARD.
+Ah ! Madame, à vos pieds ici nous devons tous...  
+
+    NINON.
+Nous devons rendre heureux quiconque est près de nous.  
+Pour ceux qui sont trop loin, ce n'est pas notre affaire.  
+Çà, notre ami Picard, il faut ne me rien taire  
+De ce qu'on fait chez moi, tandis qu'en liberté  
+J'ai choisi, loin du bruit, cet endroit écarté(15).  
+
+    PICARD.
+D'abord un homme noir raisonne et gesticule  
+Avec monsieur Garant ; et les mots de scrupule,  
+De probité, d'honneur, de raisons, de devoirs,  
+M'ont saisi de respect pour ces deux manteaux noirs.  
+L'un dicte, l'autre écrit, disant qu'il instrumente  
+Pour le faire bien riche, et vous rendre contente,  
+Et qu'il fait un contrat.  
+
+    NINON.
+        Oui, c'est l'intention  
+De ce monsieur Garant si plein d'affection.  
+
+    PICARD.
+C'est un digne homme !  
+
+    NINON.
+        Oh, oui Mais, dis-moi, je te prie,  
+Que fait madame Agnant ?  
+
+    PICARD.
+        Mais, madame, elle crie,  
+Elle gronde vos gens, messieurs Gourville, et moi,  
+Son mari, tout le monde, et dit qu'on est sans foi ;  
+Et dit qu'on l'a trompée, et que sa fille est prise ;  
+Et dit qu'il faudra bien que quelqu'un l'indemnise,  
+Et puis elle s'apaise, et convient qu'elle a tort,  
+Puis dit qu'elle a raison, et crie encor plus fort.  
+
+    NINON.
+Et monsieur son époux ?  
+
+    PICARD.
+        En véritable sage,  
+Il voit sans sourciller tout ce remue-ménage,  
+Et, pour fuir les chagrins qui pourraient l'occuper,  
+Il s'amusait à boire attendant le souper.  
+
+    NINON.
+Que fait notre Gourville ?  
+
+    PICARD.
+        En son humeur plaisante  
+Il les amuse tous, et boit, et rit, et chante.  
+
+    NINON.
+Et l'autre frère ?  
+
+    PICARD.
+    Il pleure.  
+
+    NINON.
+        Ah ! j'aime à voir les gens  
+Dans leur vrai caractère à nos yeux se montrant.  
+Monsieur le marguillier est bien le seul peut-être  
+Qui voudrait dans le fond qu'on put le méconnaître :  
+Malgré sa modestie on le découvre assez...  
+Ah ! voici notre aîné qui vient les yeux baissés.  
+
+
+## SCÈNE III. Ninon, Gourville L'Aîné, Lisette, Picard.
+
+    GOURVILLE L’AÎNÉ, VÊTU PLUS RÉGULIÈREMENT, MIEUX COIFFÉ, ET L’AIR PLUS HONNÊTE.
+Vous me voyez, madame, après d'étranges crises,  
+Bien sot et bien confus de toutes mes bêtises :  
+Je ne mérite pas votre excès de bonté,  
+Dont, tout en plaisantant, mon frère m'a flatté.  
+Hélas ! j'avais voulu, dans ma mélancolie,  
+Et dans les visions de ma sombre folie,  
+Me séparer de vous, et donner la maison  
+Que vos propres bienfaits ont mise sous mon nom.  
+
+    NINON.
+Tout est raccommodé. J'avais pris mes mesures,  
+Tout va bien.  
+
+    GOURVILLE L’AÎNÉ.
+        Vous pourriez pardonner tant d'injures !  
+J'étais coupable et sot.  
+
+    NINON.
+        Ah ! Vos yeux sont ouverts ;  
+Vous démêlez enfin ces esprits de travers,  
+Ces cagots insolents, ces sombres rigoristes(16),  
+Qui pensent être bons quand ils ne sont que tristes,  
+Et ces autres fripons, n'ayant ni feu ni lieu,  
+Qui volent dans la poche en vous parlant de Dieu ;  
+Ces escrocs recueillis, et leurs plates bigotes  
+Sans foi, sans probités(17), plus méchantes que sottes.  
+Allez, les gens du monde ont cent fois plus de sens,  
+D'honneur et de vertu, comme plus d'agréments.  
+
+    GOURVILLE L’AÎNÉ.
+Vous en êtes la preuve.  
+
+    NINON.
+        Ainsi la politesse  
+Déjà dans votre esprit succède à la rudesse ;  
+Je vous vois dans le train de la conversion  
+Vous deviendrez aimable, et j'en suis caution.  
+Mais comment trouvez-vous ce grave personnage  
+Que mon bizarre sort me donne en mariage ?  
+
+    GOURVILLE L’AÎNÉ.
+Il ne m'appartient plus d'avoir un sentiment ;  
+Tout ce que vous ferez sera fait prudemment.  
+
+    NINON.
+Blâmeriez-vous tout bas une union si chère ?  
+
+    GOURVILLE L’AÎNÉ.
+Je n'ose plus blâmer ; mais quand je considère  
+Que pour nous séparer, pour m'entraîner ailleurs,  
+Il vous a peinte à moi des plus noires couleurs,  
+Qu'il voulait vous chasser de votre maison même...  
+
+    NINON.
+Oh ! C'était par vertu ; dans le fond Garant m'aime,  
+Il ne veut que mon bien : c'est un homme excellent :  
+Mais ne lui donnez plus la clef de votre argent ;  
+Et surtout gardez-vous un peu de ses cousines.  
+
+    GOURVILLE L’AÎNÉ.
+Ah ! Que ces prudes-là sont de grandes coquines !  
+Quel antre de voleurs ! et cependant enfin  
+Vous allez donc, madame, épouser le cousin !  
+
+    NINON.
+Reposez-vous sur moi de ce que je vais faire :  
+Allez, croyez surtout qu'il était nécessaire  
+Que j'en agisse ainsi pour sauver votre bien ;  
+Un seul moment plus tard vous n'aviez jamais rien.  
+
+    GOURVILLE L’AÎNÉ.
+Comment ?  
+
+    NINON.
+        Vous apprendrez par des faits admirables  
+De quoi les marguilliers sont quelquefois capables ;  
+Vous serez convaincu bientôt, comme je crois,  
+Que ces hommes de bien sont différents de moi :  
+Vous y renoncerez pour toute votre vie,  
+Et vous préférerez la bonne compagnie.  
+
+    GOURVILLE L’AÎNÉ.
+Je ne réplique point. Honteux, désespéré,  
+Des sauvages erreurs dont j'étais enivré,  
+Je vous fais de mon sort la souveraine arbitre ;  
+Et dépendant de vous, je veux vivre à ce titre(18).  
+
+
+## SCÈNE IV. Ninon, Gourville L'Aîné, Gourvillle Le Jeune, amenant Monsieur et Madame Aagnant ; Lisette, Picard.
+
+    LE JEUNE GOURVILLE.
+Adorable Ninon, daignez tranquilliser  
+Notre madame Agnant, qu'on ne peut apaiser.  
+
+    MONSIEUR AGNANT.
+Elle a tort.  
+
+    MADAME AGNANT.
+        Oui, j'ai tort quand ma fille est perdue,  
+Qu'on ne me la rend point !  
+
+    LE JEUNE GOURVILLE.
+        Eh ! Mon Dieu, je me tue  
+De vous dire cent fois qu'elle est en sûreté.  
+
+    MADAME AGNANT.
+Est-ce donc ce benêt... ou toi, jeune éventé,  
+Qui m'as pris ma Sophie ?  
+
+    GOURVILLE L’AÎNÉ.
+        Hélas ! Soyez très sûre  
+Que je n'y prétends rien.  
+
+    LE JEUNE GOURVILLE.
+        Eh bien ! Moi, je vous jure  
+Que j'y prétends beaucoup.  
+
+    MADAME AGNANT.
+        Va, tu n'es qu'un vaurien,  
+Un fort mauvais plaisant, sans un écu de bien.  
+J'avais un avocat dont j'étais fort contente ;  
+Je prétends qu'il revienne, et veux qu'il instrumente  
+Contre toi pour ma fille ; et tes cent mille francs  
+Ne me tromperont pas, mon ami, plus longtemps :  
+Ni vous non plus, madame.  
+
+    NINON.
+        Écoutez-moi, de grâce ;  
+Souffrez sans vous fâcher que je vous satisfasse.  
+
+    MADAME AGNANT.
+Ah ! Souffrez que je crie, et quand j'aurai crié  
+Je veux crier encore.  
+
+    MONSIEUR AGNANT.
+        Eh ! tais-toi, ma moitié.  
+Madame Ninon parle ; écoutons sans rien dire.  
+
+    NINON.
+Mes bons, mes chers voisins, daignez d'abord m'instruire  
+Si c'est votre intérêt et votre volonté  
+De donner votre fille et sa propriété  
+À mon jeune Gourville, en cas que par mon compte  
+À cent bons mille francs sa fortune se monte ?  
+
+    MONSIEUR AGNANT.
+Oui, parbleu, ma voisine.  
+
+    NINON.
+        Eh bien ! je vous promets  
+Qu'il aura cette somme.  
+
+    MADAME AGNANT.
+        Ah ! cela va bien... Mais  
+Pour finir ce marché que de grand coeur j'approuve,  
+Pour marier Sophie, il faut qu'on la retrouve ;  
+On ne peut rien sans elle.  
+
+    NINON.
+        Eh bien ! Je veux encor  
+M'engager avec vous à rendre ce trésor.  
+
+    MONSIEUR ET MADAME AGNANT.
+Ah !  
+
+    NINON.
+        Mais auparavant je me flatte, j'espère,  
+Que vous me laisserez finir ma grande affaire  
+Avec le vertueux, le bon monsieur Garant.  
+
+    MADAME AGNANT.
+Oui, passe, et puis la mienne ira pareillement.  
+
+    PICARD.
+Et puis la mienne aussi.  
+
+    MONSIEUR AGNANT.
+        C'est une comédie ;  
+Personne ne s'entend, et chacun se marie.  
+À Gourville l'aîné.
+
+Soupera-t-on bientôt ? Allons, mon grand flandrin,  
+Il faut que je t'apprenne à te connaître en vin.  
+
+    GOURVILLE L’AÎNÉ, À NINON.
+J'y suis bien neuf encore... À tout ce grand mystère  
+Ma présence, madame, est-elle nécessaire ?  
+
+    NINON.
+Vraiment oui ; demeurez : vous verrez avec nous  
+Ce que monsieur Garant veut bien faire pour vous ;  
+Et nous aurons besoin de votre signature.  
+
+    LISETTE.
+Je sais signer aussi.  
+
+    NINON.
+        Nous allons tout conclure.  
+
+    MONSIEUR AGNANT.
+Eh bien ! tu vois, ma femme, et je l'avais bien dit,  
+Que madame Ninon avec son grand esprit  
+Saurait arranger tout.  
+
+    MADAME AGNANT.
+        Je ne vois rien paraître.  
+
+    NINON.
+Voilà monsieur Garant ; vous allez tout connaître.  
+
+
+## SCÈNE V. Les Précédents, Monsieur Garant, après avoir salué la compagnie, qui se range d'un côté, tandis que M. Garant et Ninon se mettent de l'autre ; les domestiques derrière.
+
+    MONSIEUR GARANT, SERRANT LA MAIN DE NINON.
+La raison, l'intérêt, le bonheur vous attend.  
+Voici notre acte en forme et dressé congrûment,  
+Avec mesure et poids, d'une manière sage,  
+Selon toutes les lois, la coutume, et l'usage.  
+À Madame Agrant.
+
+Madame, permettez...  
+À Monsieur Agnant.
+
+        Un moment, mon voisin.  
+
+    NINON.
+De mon côté je tiens un charmant parchemin.  
+
+    MONSIEUR GARANT.
+Le ciel le bénira ; mais, avant d'y souscrire,  
+À l'écart, s'il vous plaît, mettons-nous pour le lire.  
+
+    NINON.
+Non, mon coeur est si plein de tous vos tendres soins,  
+Que je n'en puis avoir ici trop de témoins ;  
+Et même j'ai mandé des amis, gens d'élite,  
+Qui publieront mon choix et tout votre mérite.  
+Nous souperons ensemble ; ils seront enchantés  
+De votre prud'homie et de vos loyautés.  
+Sans doute ce contrat porte en gros caractères  
+Les deux cent mille francs qui sont pour les deux frères ?  
+
+    MONSIEUR GARANT.
+J'ignore ce qu'on peut leur devoir en effet,  
+Et cela n'entre point dans l'état mis au net  
+Des stipulations entre nous énoncées.  
+Ce sont, vous le savez, des affaires passées ;  
+Et nous étions d'accord qu'on n'en parlerait plus.  
+
+    MONSIEUR AGNANT.
+Comment ?  
+
+    MADAME AGNANT.
+        À tout moment cent mille francs perdus !  
+Ma fille aussi ! sortons de ce franc coupe-gorge  
+Montrant le jeune Gourville.
+
+Où chacun me trompait, où ce traître m'égorge.  
+À Gourville l'aîné.
+
+Et c'est vous, grand nigaud, dont les séductions  
+M'ont valu mes chagrins, m'ont causé tant d'affronts :  
+Ma fille payera cher son énorme sottise.  
+
+    GOURVILLE L’AÎNÉ.
+Vous vous trompez.  
+
+    LISETTE.
+        Voici le moment de la crise.  
+
+    LE JEUNE GOURVILLE, ARRÊTANT M. ET MME AGNANT, ET LES RAMENANT TOUS DEUX PAR LA MAIN.
+Mon Dieu, ne sortez point ; restez, mon cher Agnant  
+Quoi qu'il puisse arriver, tout finira gaîment.  
+
+    NINON, À M. GARANT DANS UN COIN DU THÉÂTRE, TANDIS QUE LE RESTE DES PERSONNAGES EST DE L’AUTRE.
+Il faut les adoucir par de bonnes paroles.  
+
+    MONSIEUR GARANT.
+Oui, qui ne disent rien... là... des raisons frivoles,  
+Qu'on croit valoir beaucoup.  
+
+    NINON.
+        Laissez-moi m'expliquer,  
+Et si dans mes propos un mot peut vous choquer,  
+N'en faites pas semblant.  
+
+    MONSIEUR GARANT.
+        Ah ! Vraiment, je n'ai garde.  
+
+    MADAME AGNANT, À MONSIEUR AGNANT.
+Que disent-ils de nous ?  
+
+    NINON, À MONSIEUR GARANT.
+        Et si je me hasarde  
+De vous interroger, alors vous répondrez.  
+Madame, et vous, Gourville, enfin vous apprendrez  
+Quels sont mes sentiments, et quelles sont mes vues.  
+
+    MADAME AGNANT.
+Ma foi, jusqu'à présent elles sont peu connues.  
+
+    NINON, À MADAME AGNANT.
+Vous voulez votre fille et de l'argent comptant ?  
+
+    MADAME AGNANT.
+Oui, mais rien ne nous vient.  
+
+    NINON.
+        Il faut premièrement  
+Vous mettre tous au fait... Feu monsieur de Gourville  
+Me confia ses fils, et je leur fus utile :  
+Il ne put leur laisser rien par son testament ;  
+Vous en savez la cause.  
+
+    MADAME AGNANT.
+    Oui.  
+
+    NINON.
+        Mais, par supplément,  
+Il voulut faire choix d'un fameux personnage,  
+Justement honoré dans tout le voisinage,  
+Et bien recommandé par des gens vertueux  
+Et ses amis secrets, tous bien d'accord entre eux ;  
+Et cet homme de bien nommé son légataire,  
+Cet homme honnête et franc, c'est monsieur.  
+
+    MONSIEUR GARANT, FAISANT LA RÉVÉRENCE À LA COMPAGNIE.
+        C'est me faire  
+Mille fois trop d'honneur.  
+
+    NINON.
+        C'est à lui qu'on légua  
+Les deux cent mille francs qu'en hâte il s'appliqua.  
+Des esprits prévenus eurent la fausse idée  
+Qu'une somme si forte et par lui possédée  
+N'était rien qu'un dépôt qu'entre ses mains il tient  
+Pour le rendre aux enfants auxquels il appartient ;  
+Mais il n'est pas permis, dit-on, qu'ils en jouissent  
+C'est un crime effroyable, et que les lois punissent.  
+À Monsieur Garant.
+
+N'est-ce pas ?  
+
+    MONSIEUR GARANT.
+    Oui, madame.  
+
+    NINON.
+        Et ces graves délits,  
+Comment les nomme-t-on ?  
+
+    MONSIEUR GARANT.
+        Des fidéicommis.  
+
+    NINON.
+Et, pour se mettre en règle, il faut qu'un honnête homme  
+Jure qu'à son profit il gardera la somme ?  
+
+    MONSIEUR GARANT.
+Oui, madame.  
+
+    LE JEUNE GOURVILLE.
+    Ah ! Fort bien.  
+
+    MONSIEUR AGNANT.
+        Et monsieur a juré  
+Qu'il gardera le tout ?  
+
+    MONSIEUR GARANT.
+        Oui, je le garderai.  
+
+    MADAME AGNANT, AU JEUNE GOURVILLE.
+De ta femme, ma foi, voilà la dot payée.  
+J'enrage. Ah ! c'en est trop.  
+
+    NINON.
+        Soyez moins effrayée,  
+Et daignez, s'il vous plaît, m'écouter jusqu'au bout.  
+
+    GOURVILLE L’AÎNÉ.
+Pour moi, de cet argent je n'attends rien du tout ;  
+Et je me sens, madame, indigne d'y prétendre.  
+
+    LE JEUNE GOURVILLE.
+Pour moi, je le prendrais, au moins pour le répandre.  
+
+    NINON.
+Poursuivons... Toujours prêt de me favoriser,  
+Monsieur, me croyant riche, a voulu m'épouser,  
+Afin que nous puissions, dans des emplois utiles,  
+Nous enrichir encor du bien des deux pupilles.  
+
+    MONSIEUR GARANT.
+Mais il ne fallait pas dire cela.  
+
+    NINON.
+        Si fait ;  
+Rien ne saurait ici faire un meilleur effet.  
+Aux autres personnages.
+
+Il faut vous dire enfin qu'aussitôt que Gourville  
+Eut fait son testament, un ami difficile,  
+Un esprit de travers, eut l'injuste soupçon  
+Que votre marguillier pourrait être un fripon.  
+
+    MONSIEUR GARANT.
+Mais vous perdez la tête !  
+
+    NINON.
+        Eh ! mon Dieu, non, vous dis-je.  
+Gourville épouvanté dans l'instant se corrige ;  
+Et peut-être trompé, mais sain d'entendement,  
+Il fait, sans en rien dire, un second testament.  
+Il m'a fallu courir longtemps chez les notaires  
+Pour y faire apposer les formes nécessaires,  
+Payer de certains droits qui m'étaient inconnus :  
+Et, si j'avais tardé, les miens étaient perdus ;  
+Monsieur gardait l'argent pour son beau mariage.  
+Tenez, voilà, je pense, un testament fort sage :  
+Il est en ma faveur ; c'est pour moi tout le bien :  
+J'en ai le coeur percé ; monsieur Garant n'a rien.  
+
+    MONSIEUR AGNANT.
+Quel tour !  
+
+    MADAME AGNANT.
+    La brave femme !  
+
+    NINON, EN MONTRANT LES DEUX GOURVILLE.
+        Entre eux deux je partage,  
+Ainsi que je le dois, le petit héritage.  
+Je souhaite à monsieur d'autres engagements,  
+Une plus digne épouse, et d'autres testaments.  
+
+    MONSIEUR GARANT.
+Il faudra voir cela.  
+
+    NINON.
+        Lisez, vous savez lire.  
+
+    LE JEUNE GOURVILLE.
+Il médite beaucoup, car il ne peut rien dire.  
+
+    NINON, À MADAME AGNANT.
+La dot de votre fille enfin va se payer.  
+
+    MONSIEUR GARANT, EN S’EN ALLANT.
+Serviteur.  
+
+    LE JEUNE GOURVILLE, LUI SERRANT LA MAIN.
+    Tout à vous.  
+
+    NINON.
+        Adieu, cher marguillier.  
+
+    MADAME AGNANT.
+Adieu, vilain mâtin, qui m'en fis tant accroire.  
+
+    MONSIEUR AGNANT, LE SAISISSANT PAR LE BRAS.
+Et pourquoi t'en aller ? Reste avec nous pour boire.  
+
+    MONSIEUR GARANT, SE DÉBARRASSANT D’EUX.
+L'oeuvre m'attend, j'ai hâte.  
+
+    LISETTE, LUI FAISANT LA RÉVÉRENCE, ET LUI MONTRANT LA BOURSE DE CINQUANTE LOUIS.
+        Acceptez ce dépôt ;  
+Vous les gardez si bien.  
+
+    GOURVILLE L’AÎNÉ.
+        Laissons là ce maraud.  
+
+    LE JEUNE GOURVILLE, À NINON.
+Ah ! je suis à vos pieds.  
+
+    MADAME AGNANT.
+        Nous y devons tous être.  
+
+    GOURVILLE L’AÎNÉ.
+Comme elle a démasqué, vilipendé le traître !  
+
+    MADAME AGNANT.
+Et ma fille ?  
+
+    NINON.
+        Ah ! croyez que, dès qu'elle saura  
+Qu'on va la marier, elle reparaîtra.  
+
+    LISETTE, À PICARD.
+Ne t'avais-je pas dit, Picard, que ma maîtresse  
+À plus d'esprit qu'eux tous, d'honneur, et de sagesse?  
+
+-------
+
+
+[1] Ninon de Lenclos : Femme célèbre du XVIIème siècle, né à Paris en 1615, morte en 1705, était fille d'un gentilhomme aisé de Touraine. Devenue à 15 ans, par la mort de ses parents, maîtresse de ses actions, elle donne un libre-cour à son penchant pour le plaisir. Belle, riche spirituelle, incrédule, elle se fit une philosphie toute épicurienne, renonça au mariage, et eut de nombreux amants. Molière Saint-Evremont, Fontenelle la consultait sur leurs ouvrages ; elle devina le génie de Voltaire, accueillit la jeune poète au sortir du collège, et lui légua en mourant 2000 francs, pour acheter des livres. B
+
+[2] Pie-grièche : Passereau commun. L'original porte « Pigrièche ».
+
+[3] L'Astrée est un roman d 'Honoré d'Urfé, Clélie et Cyrus sont deux romans fleuves de Madeleine de Scudéry. 
+
+[4] Ce sont les propres mots de Ninon dans le petit livre de Chateauneuf. note de voltaire
+
+[5] Gonin : Ce mot n'est en usage que dans cette phrase populaire : « c'est un maître Gonin. » C'est à dire un homme fi et rusé. F
+
+[6] Syndérèse : Reproche secret que fait la conscience de quelque crime qu'on a commis, et qui tourmente sans cesse. F
+
+[7] Compoction : Terme de théologie et de dévotion. Une douleur qu'on a dans l'âme pour avoir offensé Dieu. La confession n'est bonne que quand on a un vif repentir, une grande componction de coeur. F
+
+[8] Atrabilaire : Mélancolique, qui est d'un tempérament où la bile noire domine. F « Le Misanthrope » de Molière est sous-titré « l'Atrabilaire amoureux ».

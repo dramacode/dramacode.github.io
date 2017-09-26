@@ -1,0 +1,2356 @@
+
+
+**** *book_ *id_I01 *act_I *date_1715
+
+-*who_cassandre
+Venez ici, mon ami ; je compte avoir fait une bonne acquisition en prenant un valet comme vous.
+On m'a assuré que vous êtes fidèle et que c'est là votre meilleure qualité.
+Mais, en même temps, l'on m'a dit que vous êtes la simplicité même ; que, lorsqu'on vous donne une commission, vous la faites toujours de travers et que, quand on vous charge de porter quelque paquet, vous avez le plus souvent la bêtise de vous le laisser escamoter.
+Cela ne m'accommoderait pas.
+
+-*who_gilles
+Ce sont des gens qui m'en veulent qui vous ont parlé ainsi.
+Il est vrai qu'il m'est arrivé quelquefois d'avoir à faire à des filous bien subtils.
+Mais, ma foi, de plus fins que moi y auraient été attrapés.
+Aujourd'hui, Monsieur, je suis plus sur mes gardes, et je veux que le diable m'arrache quatre de vos meilleures dents s'ils ont quelque prise sur moi.
+
+-*who_cassandre
+Parle pour les tiennes, et non pour les miennes ; je n'en ai pas trop.
+Mais, à la bonne heure, si tu es à présent si dégourdi.
+Rentrons, et va déjeuner.
+Après cela, je te donnerai deux lapins de ma garenne que tu porteras chez mon procureur.
+
+-*who_gilles
+Oui, Monsieur.
+Oh !
+Vous verrez comme je m'acquitterai de cette commission.
+
+**** *book_ *id_I02 *act_I *date_1715
+
+-*who_prendstout
+Oh !
+Parbleu, camarade, je viens d'entendre Monsieur Cassandre donner à Gilles une commission qui m'a fait grand plaisir.
+Nous n'avons rien de gras pour souper ce soir.
+Il faut que nous enlevions une couple de lapins qu'il va porter au procureur de ce vieux fou.
+
+-*who_laisserien
+C'est, mordi, bien imaginé.
+
+-*who_prendstout
+Comment veux-tu que nous les mangions ?
+En civet ou à la broche ?
+
+-*who_laisserien
+Je crois qu'il faudrait commencer par nous rendre maîtres des lapins avant que de décider à quelle sauce nous les mangerons.
+
+-*who_prendstout
+Cela est égal, mon ami ; je les compte à nous.
+Sois seulement attentif à ce qu'il faut que tu fasses pour y parvenir.
+Je cours promptement me déguiser.
+
+-*who_laisserien
+Cela vaut fait.
+Ne t'embarrasse de rien ; je jouerai bien mon rôle ; mais ne perds pas de temps.
+J'aperçois Gilles, je vais commencer la fourberie et tu viendras y donner la dernière main.
+
+**** *book_ *id_I03 *act_I *date_1715
+
+-*who_gilles
+Oh !
+Parguenne, pour le coup, je veux faire voir à mon maître que je ne suis pas un sot.
+Il faut que le diable s'en mêle si je ne porte pas ces lapins-là à son procureur.
+
+-*who_laisserien
+Peaux de connins !
+Peaux de connins !
+Qui est-ce qui veut vendre des peaux de connins ?
+
+-*who_gilles
+Oh !
+Oh !
+Voilà un drôle de marchand.
+Eh !
+Dites-moi, s'il vous plaît, mon ami, quel commerce faites-vous là ?
+
+-*who_laisserien
+J'achète des peaux de connins, je les repasse et je les revends aux fourreurs.
+
+-*who_gilles
+Aux ?...
+
+-*who_laisserien
+Aux fourreurs.
+
+-*who_gilles
+Diable !
+Vous faites là un joli métier.
+Ne pourrais-je pas repasser aussi quelqu'une de ces peaux-là ?
+
+-*who_laisserien
+Mais, Monsieur, il faut avoir appris son métier pour cela.
+
+-*who_gilles
+Bon !
+Cela s'apprend tout seul.
+
+-*who_laisserien
+Je ne vous comprends pas, Monsieur ; pour moi j'ai été six grands mois à l'apprendre.
+
+-*who_gilles
+Oh !
+Quel butor !
+
+-*who_laisserien
+Mais, Monsieur, je vois bien que nous ne nous entendons pas.
+Vous pensez peut-être à malice ?
+
+-*who_gilles
+Ah !
+Que non.
+Les peaux de connins, cela s'entend de reste.
+
+-*who_laisserien
+Oui, cela s'entend.
+Ce sont des peaux de lapins que j'achète.
+On conserve toujours dans les arts les mots propres, et, autrefois, les lapins ne s'appelaient pas autrement que connils et connins.
+
+-*who_gilles
+Oh !
+Oh !
+Je ne savais pas celui-là, et je m'imaginais tout autre chose.
+
+-*who_laisserien
+J'ai bien vu que vous étiez dans l'erreur.
+Nous achetons aussi des peaux de toute sorte d'animaux : des chats, par exemple ; mais elles ne sont pas si chères que celles des lapins.
+Je paie une peau de connin, suivant l'ancien style, quatre sols, et je n'en pourrais donner au plus que deux de celles des chats que vous portez.
+
+-*who_gilles
+Qu'appelez-vous chats ?
+Est-ce que vous êtes fou ?
+
+-*who_laisserien
+Non, vraiment.
+
+-*who_gilles
+Oh !
+Parbleu, il est bon là !
+Des lapins de la garenne de mon maître, les appeler des chats !
+
+-*who_laisserien
+Des lapins, dites-vous ?
+Ah !
+Ah !
+Ah !
+Il est bouffon.
+Vous voulez rire, apparemment.
+À vous permis !
+
+-*who_gilles
+Non, parbleu !
+Je ne veux pas rire.
+
+-*who_laisserien
+Comme il vous plaira.
+Il m'est fort indifférent, à moi, que ce soit là un chat ou un lapin.
+Mais il faut ne pas avoir le sens commun pour dire que c'est là un lapin.
+
+-*who_gilles
+Et que voulez-vous donc que ce soit ?
+Une lapine ?
+
+-*who_laisserien
+Non, mon ami, un chat, et cet autre encore un chat.
+Je le soutiendrai devant tous les garenniers et tous les écorcheurs de France.
+
+-*who_gilles
+Ouais !
+Qu'est-ce que cela veut dire ?
+Mon maître voudrait-il se moquer de moi ?
+Mais non, parbleu !
+Ce sont des lapins.
+
+-*who_laisserien
+Voudriez-vous gager un petit écu que ce ne sont pas des lapins ?
+Mais non ; il y aurait de la conscience, car je suis sûr de mon fait.
+
+-*who_gilles
+Je ne possède que vingt-quatre sols, que mon maître me doit.
+Mais, parbleu !
+Je gagerais bien le contraire à ce prix.
+
+-*who_laisserien
+Eh bien !
+Va, mon écu contre vos vingt-quatre sols !
+
+-*who_gilles
+Tope !
+Mais qui est-ce qui nous jugera ?
+
+-*who_laisserien
+Qui vous voudrez, pourvu que ce soit quelqu'un qui ne nous connaisse ni l'un ni l'autre.
+
+-*who_gilles
+Cela est juste.
+Oh ! le benêt !...
+Tenez, j'aperçois un homme en robe qui vient de ce côté.
+Priez-le de décider notre différend.
+
+-*who_laisserien
+Je le veux bien.
+Mais n'est-il pas de votre connaissance ?
+
+-*who_gilles
+Je vous jure que non.
+
+-*who_laisserien
+Cela étant, je vais le prier d'être notre juge.
+
+-*who_gilles
+L'écu passera bientôt dans ma poche ; car sûrement ce sont deux lapins de garenne que je tiens là.
+
+**** *book_ *id_I04 *act_I *date_1715
+
+-*who_laisserien
+Monsieur, ayez la bonté de vouloir bien...
+
+-*who_prendstout
+Le Ciel t'assiste, mon ami.
+
+-*who_laisserien
+Je ne vous demande pas l'aumône, Monsieur.
+
+-*who_gilles
+Monsieur, c'est que cet homme et moi nous sommes en dispute.
+
+-*who_prendstout
+Eh !
+Passe ton chemin et laisse-nous en repos.
+
+-*who_gilles
+Ce monsieur robin est bien difficile à aborder.
+
+-*who_laisserien
+Il faut qu'il ait quelque chose dans la tête.
+C'est peut-être un avocat.
+
+-*who_prendstout
+« Oui, Messieurs, ce n'est pas sans confusion que je me suis vu élevé, par vos suffrages, à la place d'échevin de cette ville.
+Je ne pouvais pas y prétendre par ma naissance.
+Elle devait sûrement m'en exclure.»
+Peste soit de l'animal qui a composé cette harangue !
+De quoi s'avise-t-il d'aller parler de mon père ?
+Oh ! je lui laverai la tête comme il faut.
+C'est un sot, ou j'ai l'esprit bouché...
+
+-*who_gilles
+Monsieur, si l'on osait vous interrompre pour un moment.
+
+-*who_prendstout
+Pourquoi faire, mon ami ?
+
+-*who_gilles
+Pour vous prier d'être juge entre cet homme et moi.
+
+-*who_prendstout
+Cela regarde-t-il l'échevinage ?
+
+-*who_gilles
+Je ne sais pas ce que c'est que le vinage.
+
+-*who_prendstout
+Va l'apprendre, bête que tu es, et me laisse étudier ma harangue.
+
+-*who_laisserien
+C'est qu'il étudie apparemment quelque discours...
+Il faut lui faire à croire que notre contestation regarde l'échevinage.
+Mon camarade ne sait pas ce qu'il dit, Monsieur.
+C'est un fait qui regarde la police de la ville.
+
+-*who_prendstout
+Cela étant, je vous écoute.
+
+-*who_laisserien
+Monseigneur...
+Je crois vous reconnaître pour vous avoir vu hier dans votre boutique...
+
+-*who_prendstout
+Ouf !
+Passez les qualités, mon ami, au fait !
+
+-*who_laisserien
+Voici de quoi il s'agit : Le maître de ce garçon l'a chargé de porter à un des huissiers de la ville (à Gilles : Il ne faut pas lui dire que c'est au procureur de votre barbon) un présent honnête ; mais je ne lui ai pas conseillé de le faire.
+
+-*who_prendstout
+Et pourquoi voulez-vous sevrer ce pauvre diable d'huissier de la galanterie qu'on veut lui faire ?
+
+-*who_laisserien
+Pourquoi ?
+Vous n'avez qu'à jeter la vue sur la nature du présent...
+
+-*who_prendstout
+Il est vrai que la raillerie est un peu trop forte.
+On ne se moque pas ainsi d'un membre de la ville ; et son maître et lui mériteraient qu'on les envoya pour quinze jours à la Charbonnière.
+
+-*who_gilles
+Et pour quelle raison, s'il vous plaît ?
+
+-*who_prendstout
+Parce que c'est insulter un honnête homme que de lui envoyer des chats en présent.
+
+-*who_gilles
+Des chats ?
+
+-*who_laisserien
+Vous voyez que je ne lui fais pas dire.
+
+-*who_prendstout
+Qu'est-ce que cela signifie ?
+
+-*who_laisserien
+C'est, Monsieur, qu'il y a un quart d'heure que ce garçon-là me veut soutenir que ce sont des lapins.
+
+-*who_prendstout
+Ce n'est pas possible.
+
+-*who_laisserien
+Je vous dis la vérité pure, Monsieur ; j'ai eu beau lui dire que c'étaient des chats, il n'en a voulu rien croire.
+
+-*who_prendstout
+Mais il faut être aveugle pour ne pas voir ce que c'est.
+
+-*who_laisserien
+Il a fait plus, il a voulu parier vingt-quatre sols que son maître lui doit contre moi un écu.
+
+-*who_prendstout
+Il a sûrement perdu la gageure.
+Mais il ne convient pas que vous preniez les vingt-quatre sols.
+Ne voyez-vous pas bien que c'est un imbécile ?
+
+-*who_gilles
+Comment, Monsieur, ce sont là des chats ?
+
+-*who_prendstout
+On n'en peut douter.
+Mais retirez-vous, vous êtes jugés.
+
+-*who_gilles
+Des chats !
+
+-*who_prendstout
+Oui, des chats.
+Je me connais un peu en peausserie.
+Mon père en vendait.
+
+-*who_gilles
+Ce ne sont pas des lapins ?
+
+-*who_prendstout
+Non vraiment, et si vous les portiez à l'un de nos huissiers, il vous ferait donner cent coups de bâton.
+Adieu, mon ami.
+
+-*who_laisserien
+Savez-vous ce que je pense de ceci ?
+Votre maître veut se réjouir à vos dépens et vous faire payer votre béjaune.
+C'est un tour de carnaval.
+Il veut vous faire berner par les clercs de votre procureur.
+Allez, mon garçon, allez lui porter votre accolade de chats.
+
+-*who_gilles
+Oui-da !...
+Du diable si j'en suis la dupe !
+Je ne suis pas assez sot pour exécuter cette commission.
+Prenne ces chats qui voudra.
+C'est pour l'écorcheur.
+
+-*who_laisserien
+Si je les ramasse, ce n'est que pour en avoir la peau.
+
+-*who_gilles
+Oh !
+Faites-en ce qu'il vous plaira.
+Pour moi, je ne veux pas être berné.
+
+-*who_laisserien
+Serviteur !
+Allons rejoindre Prends-Tout et manger ensemble nos lapins.
+
+**** *book_ *id_I05 *act_I *date_1715
+
+-*who_cassandre
+Sans doute que Gilles aura porté mes lapins chez mon procureur.
+
+-*who_gilles
+Ah !
+Que je ne suis pas si bête !
+
+-*who_cassandre
+Qu'est-ce à dire ?
+
+-*who_gilles
+Oh !
+Le gros fin !
+Pour être berné par ses clercs !
+
+-*who_cassandre
+Je ne t'entends pas.
+
+-*who_gilles
+Eh !
+Oui, oui !
+J'irai lui porter un chat au lieu d'un lapin, afin qu'il me fasse étriller !...
+
+-*who_cassandre
+Ceci est pour moi du haut allemand.
+
+-*who_gilles
+Qu'est-ce que vous m'avez donné à porter à votre procureur ?
+
+-*who_cassandre
+Deux lapins de ma garenne.
+
+-*who_gilles
+Ah !
+Oui.
+Deux lapins.
+Fiez-vous-y !
+J'étais dans la bonne foi, moi.
+Vous me dîtes : Gilles, porte ces lapins à mon procureur.
+J'y vais.
+
+-*who_cassandre
+Il les a donc reçus.
+
+-*who_gilles
+Doucement !
+J'allais sottement exécuter vos ordres...
+
+-*who_cassandre
+Sottement ?
+Et qui est-ce qui t'en a empêché ?
+
+-*who_gilles
+Un galant homme que j'ai heureusement rencontré et qui fait commerce de peaux de connins.
+
+-*who_cassandre
+Mais pourquoi t'en a-t-il empêché ?
+
+-*who_gilles
+Il les repasse, ces peaux de connins.
+Ensuite il les vend aux fou... aux fou...
+
+-*who_cassandre
+Aux fourreurs ?
+
+-*who_gilles
+Oui, justement, à ces gens-là.
+
+-*who_cassandre
+Mais viens donc au fait !
+
+-*who_gilles
+M'y voici.
+Il m'a demandé si je voulais lui vendre la peau de mes deux chats.
+
+-*who_cassandre
+Quels chats ?
+
+-*who_gilles
+Eh !
+Parbleu, de vos prétendus lapins de garenne.
+
+-*who_cassandre
+Mais tu extravagues.
+
+-*who_gilles
+Attendez, vous n'y êtes pas.
+Écoutez jusqu'au bout.
+Je me suis fâché d'abord.
+Je lui ai soutenu que c'étaient des lapins ; il s'est moqué de moi.
+Enfin nous avons parié, lui que c'étaient des chats, moi, des lapins, et nous avons pris pour juge le premier passant.
+Il s'est heureusement trouvé que c'était un échevin.
+
+-*who_cassandre
+Ah !
+Je respire.
+Si véritablement c'était un échevin, je suis certain que tu as gagné la gageure.
+Et en quoi consistait-elle ?
+
+-*who_gilles
+Dans les vingt-quatre sols que vous me devez.
+
+-*who_cassandre
+Vous n'avez donc pas mis au jeu ?
+
+-*who_gilles
+Non, pas moi ; mais lui, il a mis un écu qu'il avait dans sa poche.
+
+-*who_cassandre
+Et qui a été le dépositaire de cet écu ?
+
+-*who_gilles
+Je vous dis que c'est sa poche.
+
+-*who_cassandre
+Tout ceci me paraît embrouillé.
+Enfin, l'échevin a donc jugé en ta faveur.
+
+-*who_gilles
+C'est ce qui vous trompe, j'ai perdu la gageure.
+
+-*who_cassandre
+Comment !
+
+-*who_gilles
+Il a décidé gravement que c'étaient deux chats, et m'a dit que c'était sans doute une plaisanterie de votre part pour me faire berner par les clercs de votre procureur.
+
+-*who_cassandre
+Quel conte !
+Cela n'est pas possible.
+
+-*who_gilles
+C'est très vrai, Monsieur.
+
+-*who_cassandre
+Enfin, qu'as-tu fait de mes deux lapins de garenne ?
+
+-*who_gilles
+Dites donc de vos deux chats.
+
+-*who_cassandre
+Comment, des chats ?
+
+-*who_gilles
+Oui, Monsieur, cela est jugé.
+
+-*who_cassandre
+Par qui jugé ?
+
+-*who_gilles
+Par cet échevin.
+
+-*who_cassandre
+Quelle patience il faut avoir avec ce butor !
+Eh bien ! qu'as-tu fait de ces chats ?
+
+-*who_gilles
+Ah !
+Vous en convenez donc !
+
+-*who_cassandre
+Nullement, mais c'est pour avoir de toi une réponse positive.
+
+-*who_gilles
+Parguenne, que vouliez-vous que j'en fisse ?
+Je les ai jetés au nez de celui contre qui j'avais gagé.
+Il les a ramassés seulement à cause de la peau ; mais quoiqu'il eût gagné la gageure, il a eu la politesse de ne pas me demander ma pièce de vingt-quatre sols.
+
+-*who_cassandre
+Oh !
+Bête que tu es !
+On ne m'a pas trompé sur ton compte.
+Ne te voilà t'il pas encore la dupe de deux fripons qui t'ont sans doute escamoté mes lapins !
+
+-*who_gilles
+Ah !
+Monsieur, ce sont d'honnêtes gens et qui ne se connaissaient sûrement pas.
+
+-*who_cassandre
+Je te soutiens, moi, que c'étaient deux fourbes ensemble.
+
+-*who_gilles
+Non, Monsieur ; parguenne, je m'en serais bien aperçu.
+Je suis plus fin que vous ne pensez.
+
+-*who_cassandre
+Va, mon pauvre garçon, tu ne seras jamais qu'un sot.
+Je suis bien heureux d'en être quitte pour si peu de chose.
+Ce n'est pas une très grande perte que deux lapins, et je me sais très bon gré de ne t'avoir pas donné à porter à Mademoiselle Isabelle, ma maîtresse, un panier de gibier dans lequel il y a deux faisans et quatre bécasses.
+
+-*who_gilles
+Ah !
+Parguenne, Monsieur notre maître, ne me faites pas l'affront d'en charger un autre.
+On ne dira pas que ce sont des chats.
+Au pis aller, s'il m'arrive quelque accident au sujet de ce panier, vous en rabattrez le prix sur mes gages.
+
+-*who_cassandre
+En ce cas, je veux bien encore hasarder d'avoir cette confiance en toi.
+Mais prends bien garde à te laisser encore duper.
+
+-*who_gilles
+Cela n'arrivera pas, sur ma parole.
+Les affaires font les hommes, et j'aurai toute l'attention possible pour que votre commission soit bien faite.
+
+-*who_cassandre
+Viens donc prendre ce panier avec une lettre que je vais écrire à Mademoiselle Isabelle.
+
+**** *book_ *id_I06 *act_I *date_1715
+
+-*who_prendstout
+Oh !
+Parbleu, Monsieur Cassandre, puisque vous êtes assez bon pour confier encore à Gilles votre panier de gibier, Mademoiselle Isabelle n'en croquera que d'une dent.
+
+-*who_laisserien
+Camarade, il faut ici user d'adresse.
+Gilles est sur ses gardes.
+
+-*who_prendstout
+Malgré cela, il sera bien fin s'il nous échappe.
+Il faut le prendre du côté de l'intérêt.
+
+-*who_laisserien
+C'est bien dit.
+Tu feras, pour cet effet, le comte de Regniababo.
+
+-*who_prendstout
+Parbleu !
+Mon rôle ne sera pas bien difficile !
+Je n'ai pas le mot à dire.
+
+-*who_laisserien
+Cela est vrai, mais il faut pourtant s'en tirer avec adresse.
+Je crois entendre Gilles.
+Mets-toi vite tout de ton long sur ce banc.
+
+-*who_prendstout
+M'y voilà.
+
+**** *book_ *id_I07 *act_I *date_1715
+
+-*who_gilles
+Je vous dis, Monsieur, que vous n'ayez aucune inquiétude.
+Votre panier sera rendu.
+Parguenne ! serait-il possible que ces deux hommes de tantôt fussent des filous ?
+Ils n'en avaient pas la mine.
+
+-*who_laisserien
+Oh !
+Malheur des malheurs !
+Accident des accidents !
+Ah !
+Mon pauvre maître!
+Quoi !
+Je n'aurai pas la satisfaction de vous conduire convenablement dans vos terres !
+
+-*who_gilles
+Voilà un homme qui me paraît bien affligé !
+
+-*who_laisserien
+Est-il possible que je ne trouverai personne qui veuille me rendre service en cette occasion ?
+Je le payerais volontiers sur le pied d'une pistole par heure.
+
+-*who_gilles
+Une pistole par heure !
+Ma foi, cela est bon à gagner.
+Voyons un peu de quoi il s'agit.
+Monsieur, dites-moi un peu pourquoi vous êtes si triste.
+
+-*who_laisserien
+Ah !
+Monsieur, c'est que je suis dans une grande affliction.
+
+-*who_gilles
+Je le vois bien ; mais pourquoi ?
+
+-*who_laisserien
+Par la mort de mon bon maître, Monsieur le comte de Regniababo.
+
+-*who_gilles
+Je conçois cela, mais vous parliez de donner une pistole par heure !
+Pourquoi faire, s'il vous plaît ?
+
+-*who_laisserien
+Mon ami, il faut que tu saches que mon maître est mort à l'armée d'un boulet de canon qui lui est entré dans l'oeil.
+
+-*who_gilles
+Dans l'oeil ?
+Houlas!
+
+-*who_laisserien
+Comme il avait un pressentiment que la campagne lui serait funeste, il a fait son testament.
+Il a ordonné qu'après sa mort on le transporterait à sa terre de Regniababo.
+Il m'a chargé de ce soin et me donne mille écus pour ma peine.
+
+-*who_gilles
+Mille écus ?
+Morguenne, je ne vois pas là de quoi vous désespérer.
+
+-*who_laisserien
+Ah !
+Que vous êtes vif !
+Écoutez jusqu'au bout.
+Il est vrai qu'il me donne mille écus, mais à condition que, dans trois jours, je le ferai conduire à sa terre sans accident et aussi entier qu'il se trouvera être au moment de sa mort ; et le chariot qui le portait vient de verser à quatre pas d'ici.
+
+-*who_gilles
+Eh bien !
+Il faut le raccommoder.
+Cela est-il difficile ?
+
+-*who_laisserien
+C'est aussi ce que l'on fait.
+Mais, pendant ce temps, qui sera au moins de trois ou quatre heures, il faut empêcher que les mouches ne mangent mon cher maître.
+
+-*who_gilles
+Cela est plaisant !
+Et qu'est-ce que ça veut dire ?
+
+-*who_laisserien
+C'est qu'en arrivant à son château, si on lui trouve seulement une piqûre de mouche, voilà mes mille écus perdus.
+
+-*who_gilles
+Diable !
+Ça change la thèse et me paraît de conséquence pour vous.
+Mais quel remède y voyez-vous ?
+
+-*who_laisserien
+C'est de trouver quelqu'un qui chasse les mouches d'autour de mon maître pendant que je serai occupé à faire raccommoder le chariot.
+
+-*who_gilles
+Et vous donnerez une pistole par heure ?
+
+-*who_laisserien
+Cela s'entend.
+Vous voyez bien que j'y gagnerai encore.
+
+-*who_gilles
+Eh bien !
+J'ai trouvé votre homme.
+
+-*who_laisserien
+Sérieusement ?
+
+-*who_gilles
+Oui, c'est moi-même.
+
+-*who_laisserien
+Ah !
+Mon ami, vous me ravissez d'aise.
+Tenez, mettez-vous là !
+
+-*who_gilles
+Volontiers ; mais écoutez, camarade.
+Quand je serai tout seul avec le mort, si je viens à avoir peur ?
+
+-*who_laisserien
+Eh !
+Fi donc !
+Vous êtes grand comme père et mère.
+Savez-vous ce que vous ferez pour vous dissiper ?
+Vous n'aurez qu'à chanter.
+
+-*who_gilles
+Vous avez raison.
+
+-*who_laisserien
+Après tout, je ne serai qu'au tournant de la rue, chez le charron.
+Si la frayeur vous prenait, vous n'avez qu'à m'appeler.
+
+-*who_gilles
+Et votre nom, s'il vous plaît ?
+
+-*who_laisserien
+Abracadabra.
+
+-*who_gilles
+Abracadabra ?
+Voilà un drôle de nom.
+Mais avec quoi chasserai-je les mouches ?
+
+-*who_laisserien
+Avec ce mouchoir.
+
+-*who_gilles
+Fort bien !
+Vous n'avez maintenant qu'à aller à vos affaires.
+Ma foi, je ne suis pas trop rassuré...
+Abracadabra, Abracadabra !
+
+-*who_laisserien
+Qu'est-ce qu'il y a ?
+
+-*who_gilles
+J'ai jeté un coup d'oeil sur votre marquis de Regniababo.
+Ne m'avez-vous pas dit qu'il a été tué d'un coup de boulet de canon dans l'oeil ?
+
+-*who_laisserien
+Oui, mon ami.
+
+-*who_gilles
+Et il a encore ses deux yeux ?
+
+-*who_laisserien
+Cela est vrai.
+Le boulet ne lui a emporté que la prunelle de l'oeil gauche et est sorti par l'oreille droite.
+Adieu.
+
+-*who_gilles
+Houlas !
+Abracadabra !
+Le mort vient de me faire une grimace épouvantable.
+
+-*who_laisserien
+Tu te trompes, mon ami.
+C'est que, lorsque ce boulet de canon lui passa à travers l'oeil, cela lui a causé une contraction de nerfs qui lui a dérangé la physionomie.
+
+-*who_gilles
+Oh !
+Je ne savais pas.
+Et cette contradiction de nerfs lui fait faire une si laide grimace ?
+
+-*who_laisserien
+Oui vraiment.
+
+-*who_gilles
+Cela suffit.
+Tu peux t'en aller.
+Pour ne pas m'effrayer, je vais me placer du côté des pieds.
+
+-*who_gilles
+Abracadabra !
+Abracadabra !
+
+-*who_laisserien
+Que me veux-tu donc ?
+
+-*who_gilles
+Tiens, regarde !
+
+-*who_laisserien
+Je ne vois rien.
+
+-*who_gilles
+Tu ne vois pas ce qui est arrivé ?
+
+-*who_laisserien
+Non vraiment.
+
+-*who_gilles
+Il n'y a qu'un moment qu'il avait les pieds là.
+À présent il les a à la tête.
+
+-*who_laisserien
+Erreur, mon ami.
+Il a toujours été placé de cette manière.
+
+-*who_gilles
+C'est donc la peur qui me fait voir double.
+
+-*who_laisserien
+Cela se peut.
+Allons, rassure-toi !
+
+-*who_gilles
+Pour le coup, je vais changer de place.
+Miséricorde ! je ne sais ce que je fais.
+Je me mets encore du côté de la tête.
+Songeons à mon panier de gibier, c'est essentiel.
+Eh !
+Eh !
+Abracadabra !
+
+-*who_laisserien
+À qui diable en as-tu donc ?
+
+-*who_gilles
+Tiens !
+Tiens, regarde sa main en l'air.
+Il m'a donné un coup de poing de toute sa force.
+
+-*who_laisserien
+La chose n'est pas impossible et ne doit pas te surprendre.
+Le boulet de canon l'ayant frappé droit dans la visière, il y porta d'abord la main, et la contraction des nerfs...
+
+-*who_gilles
+Oh !
+Je n'ai rien à dire à cela.
+
+-*who_laisserien
+Et nous avons eu toute la peine du monde à lui remettre la main dans une position conforme à son état.
+Vois plutôt.
+
+-*who_gilles
+Parguenne !
+Voilà qui est bien singulier.
+Voyons un peu si j'en viendrais à bout.
+
+-*who_laisserien
+T'en voilà bien convaincu à présent.
+
+-*who_gilles
+Tu as raison.
+
+-*who_laisserien
+La main s'abaissera tout doucement.
+Tiens, vois-tu, la voilà à sa place.
+Or çà, tu me laisseras peut-être à présent en repos ?
+
+-*who_gilles
+Ah !
+Oui.
+Tu n'as qu'à aller chez le charron.
+Eh !
+Eh !
+Abracadabra !
+
+-*who_laisserien
+Mais ça ne finira point !
+
+-*who_gilles
+Dame !
+C'est bien autre chose que le bras.
+Il m'a sanglé deux coups de pied dans le dos.
+
+-*who_laisserien
+Eh bien !
+Cela t'étonne ?
+
+-*who_gilles
+Comment, cela m'étonne ?
+C'est la contradiction des nerfs, n'est-ce pas ?
+
+-*who_laisserien
+Sans doute.
+Cela part du même principe.
+Lorsqu'il fut atteint par le boulet de canon, il en fut renversé cul par-dessus tête et tomba les jambes en haut, comme tu le vois actuellement, et par la même raison naturelle, c'est-à-dire par la contraction des nerfs, nous aurons bien de la peine à le redresser ; mais j'espère en venir à bout avec ton secours.
+Tire les jambes à toi.
+
+-*who_gilles
+À moi !
+À moi !
+
+-*who_laisserien
+Qu'as-tu donc ?
+Ne suis-je pas avec toi ?
+
+-*who_gilles
+Ne vois-tu pas le mort qui m'embrasse avec des yeux de fureur ?
+
+-*who_laisserien
+Je n'ai rien vu.
+Mais c'est le raidissement des nerfs qui fait cette opération.
+Si tu me retiens toujours, je ne pourrai jamais faire raccommoder mon chariot.
+
+-*who_gilles
+Voilà qui est fini.
+Tu peux partir...
+Tiens !
+Tiens !
+Le voilà dans une autre posture !
+
+-*who_laisserien
+C'est que tu l'avais mal placé.
+
+-*who_gilles
+L'entends-tu ?
+Est-ce que je rêve ?
+Là !
+Comment appelles-tu cela ?
+
+-*who_laisserien
+Eh !
+Mais...
+Cela s'appelle...
+Cela s'appelle faire un pet à la mort.
+
+-*who_gilles
+Il pue comme une charogne !
+
+-*who_laisserien
+Effectivement : ça ne sent pas bon.
+Tiens, prends une prise de tabac.
+
+-*who_gilles
+Volontiers.
+Va-t'en, va !
+Je ne t'appellerai plus.
+Ma foi, pour chasser la peur, j'ai envie de chanter.
+La, la, la, la ! etc.
+Abracadabra !
+Abracadabra !...
+Au secours !
+
+-*who_laisserien
+Tu piailleras donc toujours ?
+
+-*who_gilles
+Voilà bien une autre paire de manches.
+Je chantais pour me désennuyer.
+
+-*who_laisserien
+Eh bien ?
+
+-*who_gilles
+Eh bien !
+Ne voilà-t-il pas mon diable de mort qui s'est mis à danser !
+
+-*who_laisserien
+À danser ?
+
+-*who_gilles
+Oui !
+À danser!
+Dame, je l'ai vu.
+Ce ne sont pas des contes.
+
+-*who_laisserien
+Tu te moques de moi.
+Il est vrai pourtant que, comme Provençal, de son vivant il aimait passionnément la danse et que, sitôt qu'il entendait ou chanter ou jouer des instruments, il ne pouvait s'empêcher de danser.
+Il faut, si tu dis vrai, que ce soient les esprits animaux qui jouent leur rôle.
+
+-*who_gilles
+Qu'appelles-tu esprits animaux ?
+
+-*who_laisserien
+Esprits animaux, c'est-à-dire esprits vitaux.
+
+-*who_gilles
+Esprits vitaux !
+J'entends cela.
+Et dans une femme, comment appelle-t-on ces esprits-là ?
+
+-*who_laisserien
+Oh !
+Que diable, avec tes questions impertinentes, tu m'occuperas tout le reste de la journée.
+Fais ton ouvrage et laisse-moi aller à mes affaires.
+
+-*who_gilles
+Parguenne !
+Ce drôle-là, avec ses esprits vitaux, de quoi diable s'avise-t-il de danser !
+Je vais bien l'attraper.
+Je vais chanter une chanson si triste qu'il n'en aura pas d'envie.
+Monsieur Lapalice est mort,
+Il est mort de maladie.
+Hélas ! S'il n'était pas mort,
+Il serait encore en vie.
+Abracadabra !
+Abracadabra !
+
+-*who_laisserien
+À qui donc en as-tu ?
+Tu cries comme un enragé.
+
+-*who_gilles
+Ah !
+Parguenne, on crierait à moins.
+J'avais chanté, il n'y a qu'un moment, sur un air gai, il s'est mis à danser.
+J'ai dit en moi-même : «Je l'attraperai bien ; je vais chanter sur un ton si lugubre qu'il ne branlera pas de sa place.»
+À peine ai-je eu achevé ma chanson qu'il s'est levé, a grincé des dents horriblement et m'a rossé à tour de bras.
+
+-*who_laisserien
+Parbleu !
+Mon ami, tu joues de malheur !
+Il n'y a qu'une seule chanson capable de mettre les esprits animaux dans une pareille agitation.
+Il l'avait en horreur ; apparemment que tu l'auras chantée.
+
+-*who_gilles
+Et quelle est-elle ?
+
+-*who_laisserien
+La voici : Monsieur Lapalice est mort...
+
+-*who_gilles
+Justement, c'est elle-même que j'ai chantée.
+Parguenne, camarade, voyons en ta présence si elle fera sur lui le même effet.
+
+-*who_laisserien
+Volontiers.
+
+-*who_laisserien
+Ah !
+Misérable !
+Avec ta maudite chanson, je suis moulu de coups.
+Je ne sais à quoi il tient que je ne t'assomme !...
+Mais, ciel !
+Voilà Monsieur le comte de Regniababo parti et mes mille écus au diable.
+
+-*who_gilles
+À moi !
+À moi !
+Ah !
+Je n'en puis plus.
+Voilà bien le diable.
+Le mort s'est sauvé, l'autre court après.
+Il ne rattrapera jamais, et ma pistole est bien aventurée.
+Mais où est donc mon panier !
+Abracadabra !...
+Mon panier !
+Abracadabra !
+Ah !
+Malheureux que je suis !
+Monsieur de Regniababo l'aura emporté.
+Au voleur !
+Au secours !
+
+**** *book_ *id_I08 *act_I *date_1715
+
+-*who_cassandre
+Qu'est-ce donc que j'entends ?
+Pourquoi tout ce bruit ?
+
+-*who_gilles
+Ah !
+Parguenne, notre maître, voilà une drôle d'aventure.
+
+-*who_cassandre
+Qu'est-ce que c'est ?
+
+-*who_gilles
+Vous ne vous imagineriez jamais.
+
+-*who_cassandre
+De quoi s'agit-il ?
+
+-*who_gilles
+Vous m'aviez donné un panier de gibier pour porter à Mademoiselle Isabelle.
+
+-*who_cassandre
+Eh bien ?
+L'a-t-elle reçue ?
+
+-*who_gilles
+Vous allez trop vite.
+
+-*who_cassandre
+Elle l'a refusé ?
+
+-*who_gilles
+Non, Monsieur.
+
+-*who_cassandre
+Et pourquoi donc n'est-il pas entre ses mains ?
+
+-*who_gilles
+C'est que je ne lui ai pas porté.
+
+-*who_cassandre
+Et la raison ?
+
+-*who_gilles
+La voici.
+C'est qu'il s'agissait d'une petite fortune pour moi.
+
+-*who_cassandre
+D'une petite fortune ?
+
+-*who_gilles
+Oui, Monsieur ; d'une pistole par heure.
+
+-*who_cassandre
+D'une pistole par heure ?
+
+-*who_gilles
+Oui, Monsieur ; et le diable vient d'emporter le mort avec le panier de gibier.
+
+-*who_cassandre
+Quel galimatias me fais-tu du mort, du diable et du panier ?
+
+-*who_gilles
+C'est pourtant bien clair !
+Le mort s'appelait le comte de Regniababo.
+Il a été tué à l'armée d'un boulet de canon qui lui est entré dans l'oeil et qui lui est sorti par l'oreille.
+
+-*who_cassandre
+Quelle extravagance !
+
+-*who_gilles
+Je vous dis qu'on le reportait à sa terre ; le chariot a rompu pendant qu'on le raccommodait.
+Il fallait quelqu'un qui chassât les mouches d'autour de lui.
+On m'a offert une pistole par heure pour cela ; une pistole est bonne à gagner.
+Je l'émouchais de toutes mes forces quand, après plusieurs coups de poing, de pied, de bâton, que le mort m'a donnés, il a disparu avec le panier de gibier.
+
+-*who_cassandre
+Des coups de bâton que le mort t'a donnés ?
+Ah !
+Misérable !
+Je vois bien que ce sont encore des filous qui t'ont volé mon panier de gibier.
+
+-*who_gilles
+Ma foi.
+Monsieur, ce n'est pas ma faute ; je ne pouvais pas me méfier d'un mort.
+Parguenne, il faut que le monde soit bien méchant.
+Mais écoutez, Monsieur, je crois avoir vu celui qui m'avait donné le mort à garder entrer dans la porte à côté de la fruitière d'ici près.
+Je m'en vas lui redemander mon panier ; vous verrez que ce n'est qu'une plaisanterie qu'on m'aura voulu faire.
+Tenez-vous seulement à quatre pas d'ici.
+
+-*who_cassandre
+Il faut avoir bien de la patience.
+
+**** *book_ *id_I09 *act_I *date_1715
+
+-*who_gilles
+Toc, toc, toc.
+
+-*who_prendstout
+Que voulez-vous, Monsieur ?
+
+-*who_gilles
+Je vous demande mon panier, Monsieur ?
+
+-*who_prendstout
+Ton...
+Ton...
+Ton panier ?
+
+-*who_gilles
+Eh !
+Oui, mon panier que vous m'avez pris pour rire.
+
+-*who_prendstout
+Ton panier ?
+N'y a point de panier, n'y a point de panier, n'y a point de panier !
+
+-*who_gilles
+Monsieur, j'ai heurté à la porte ; j'ai demandé mon panier.
+
+-*who_cassandre
+Eh bien ?
+
+-*who_gilles
+On m'a répondu : «N'y a point de panier, n'y a point de panier, n'y a point de panier.»
+Mais je ne me tiens pas bien battu ; j'y veux retourner.
+Éloignez-vous seulement.
+
+-*who_cassandre
+Ah !
+Mon pauvre garçon, je vois bien que tu n'es qu'une bête, et comme il n'est pas possible de se servir de toi, tu peux prendre ton parti et chercher un autre maître.
+Je mériterais d'être volé à chaque instant si je gardais un valet aussi sot.
+
+-*who_gilles
+Comment, Monsieur, vous me donnez effectivement mon congé ?
+
+-*who_cassandre
+Sans doute, mon ami.
+Tu peux chercher une autre condition ou te pourvoir d'un maître plus patient que moi ; mais un autre t'aurait assommé du coup !
+
+**** *book_ *id_I10 *act_I *date_1715
+
+-*who_gilles
+Parguenne !
+Je suis bien chanceux !
+Voilà qui est fini ; je ne veux plus être valet.
+J'ai entendu dire que notre voisin, le barbier, avait besoin d'un garçon ; je vais me présenter chez lui.
+Holà !
+Est-ce qu'il n'y a personne ici ?
+
+-*who_lebarbier
+Qu'y a-t-il ?
+
+-*who_gilles
+Monsieur, on m'a dit que vous cherchiez un bon garçon pour être à votre boutique.
+
+-*who_lebarbier
+C'est vrai.
+Vous avez sans doute quelque commencement ?
+
+-*who_gilles
+Oh !
+Que oui, Monsieur.
+
+-*who_lebarbier
+Vous savez apparemment tresser ?
+
+-*who_gilles
+Oh !
+Que oui, Monsieur.
+Je ferais tout Paris en une heure.
+
+-*who_lebarbier
+Je ne vous dis pas tracer ; je vous dis tresser des cheveux pour faire une perruque.
+
+-*who_gilles
+Oh !
+Non, Monsieur.
+
+-*who_lebarbier
+Vous savez accommoder les cheveux ?
+
+-*who_gilles
+Nullement.
+
+-*who_lebarbier
+Mais vous savez raser ?
+
+-*who_gilles
+Oh !
+Que non, Monsieur.
+
+-*who_lebarbier
+Mais que diable savez-vous donc faire ?
+
+-*who_gilles
+Je sais faire chauffer de l'eau pour faire la barbe.
+
+-*who_lebarbier
+Malepeste !
+Vous êtes bien avancé.
+
+-*who_gilles
+Je sais encore faire mousser les savonnettes et ébrécher les rasoirs.
+
+-*who_lebarbier
+Oh !
+Oh !
+C'est quelque chose cela !
+
+-*who_gilles
+Mais, pour faire le poil, je ne l'ai jamais essayé que sur un barbet.
+Encore était-ce avec des ciseaux.
+
+-*who_lebarbier
+Cela suffit...
+Il faut que je me réjouisse un peu aux dépens de ce benêt-là...
+Eh bien !
+Mon ami, malgré ton peu de capacité, comme tu me parais de bonne volonté, je te retiens à mon service et je veux, avant un mois, que tu sois un des plus habiles de notre profession.
+Mais je mets quelques conditions dans notre marché.
+
+-*who_gilles
+Qu'est-ce que c'est que des conditions ?
+Cela est-il difficile à exécuter ?
+
+-*who_lebarbier
+Non !
+Primo, tu ne mangeras de la soupe que deux fois par jour.
+
+-*who_gilles
+Oh !
+Oh !
+J'en serai fort content.
+
+-*who_lebarbier
+Secundo, tu ne boiras pas plus de deux pintes de vin à chaque repas et tu n'auras que vingt-cinq livres de pain par semaine.
+
+-*who_gilles
+Je m'accommoderai assez de tout cela.
+Diantre !
+Voilà une bonne condition.
+Et de la viande ?
+
+-*who_lebarbier
+Oh !
+Tu en auras à discrétion.
+Il y a quelque chose de plus : c'est que le premier jour qu'un garçon entre chez moi, j'ai coutume de lui donner un repas exquis et, pour commencer avec toi, je pré-tends que tu fasses très grande chère tout à l'heure.
+Holà !
+Que l'on apporte cette table !
+
+-*who_gilles
+Pardi, je l'apporterai bien moi-même.
+
+-*who_lebarbier
+Aimes-tu la soupe aux choux ?
+
+-*who_gilles
+Beaucoup.
+
+-*who_lebarbier
+Allons, mettons-nous à table.
+Que l'on serve la soupe.
+Tiens !
+Mange-moi une bonne assiettée de ces choux de Milan.
+
+-*who_gilles
+Ma foi, je vois bien la table et les assiettes, mais je ne vois rien dessus.
+
+-*who_lebarbier
+Prends garde de te brûler.
+Eh bien !
+Comment les trouves-tu, ces choux ?
+
+-*who_gilles
+Délicieux !
+
+-*who_lebarbier
+J'ai pensé me dépouiller le palais.
+
+-*who_gilles
+Je n'y comprends rien.
+C'est une plaisanterie !
+Il faut nous y prêter.
+
+-*who_lebarbier
+Ne mangeons point de bouilli.
+Nous avons quelque chose de meilleur.
+
+-*who_gilles
+Comme il vous plaira.
+
+-*who_lebarbier
+Passons aux entrées.
+Goûte de cette fricassée de pieds de mouton.
+
+-*who_gilles
+Morguenne !
+Qu'ils sont délicats !
+Le verjus de grain n'y est pas épargné.
+
+-*who_lebarbier
+Ce drôle-là est bouffon.
+Mange-moi de ces fricandeaux.
+
+-*who_gilles
+Ils sont exquis.
+Mais si nous buvions un coup ?
+
+-*who_lebarbier
+C'est bien pensé.
+Voilà du vin de Beaune.
+
+-*who_gilles
+Il est, ma foi, excellent.
+
+-*who_lebarbier
+Allons !
+Expédie-moi cette aile de chapon !
+
+-*who_gilles
+Mais vous me faites trop manger.
+
+-*who_lebarbier
+Bon !
+Bon !
+Aimes-tu la salade ?
+
+-*who_gilles
+Si je l'aime !
+
+-*who_lebarbier
+Celle-ci est très bien assaisonnée.
+
+-*who_gilles
+À merveille.
+
+-*who_lebarbier
+Allons !
+Il faut encore manger cet estomac de perdrix et ces deux cuisses de bécasse.
+
+-*who_gilles
+Ah !
+Monsieur, j'aurai bien de la peine à en venir à bout.
+
+-*who_lebarbier
+Passons au Champagne...
+Pouf !
+
+-*who_gilles
+Qu'est-ce que cela ?
+
+-*who_lebarbier
+C'est le bouchon qui saute au plancher.
+
+-*who_gilles
+Diantre !
+C'est donc de grand vin ?
+
+-*who_lebarbier
+Vois, comme il mousse !
+
+-*who_gilles
+La peste !
+Il gratte le gosier.
+
+-*who_lebarbier
+Encore un coup.
+
+-*who_gilles
+Très volontiers.
+
+-*who_lebarbier
+Ces pieds de porc à la Sainte-Menehould ?
+Ceux-là sont longtemps bouillis puis panés.
+
+-*who_gilles
+Ils sont bons, mais il faudrait un peu de moutarde.
+
+-*who_lebarbier
+Eh !
+En voilà !
+Que ne parles-tu ?
+
+-*who_gilles
+Le diable m'emporte si je la voyais.
+
+-*who_lebarbier
+Allons en Champagne !
+Une rasade à ta santé !
+
+-*who_gilles
+Tope !
+À la vôtre !
+
+-*who_lebarbier
+À tes plaisirs !
+
+-*who_gilles
+Aux vôtres !
+
+-*who_lebarbier
+À qui boirons-nous, à présent ?
+
+-*who_gilles
+Ah !
+Mais, Monsieur, laissez-moi respirer.
+Vous me griserez et je vous avertis que j'ai le vin mauvais.
+Rira bien qui rira le dernier.
+
+-*who_lebarbier
+Un doigt de vin de Muscat ?
+
+-*who_gilles
+Je ne puis plus boire.
+
+-*who_lebarbier
+Allons !
+Allons !
+Du courage !
+
+-*who_gilles
+Tout coup vaille !
+Versez donc plein mon verre.
+
+-*who_lebarbier
+Comme vous le sablez !
+
+-*who_gilles
+Je bois toujours ainsi le vin muscat.
+
+-*who_lebarbier
+Eh bien !
+Que dites-vous de celui-là ?
+
+-*who_gilles
+Je n'ai pas eu le temps de le goûter.
+Encore un coup pour
+Boire à son toureloure,
+Boire à son tirelire lire
+Boire à son tour.
+
+-*who_lebarbier
+Ah !
+Vous avez le vin gai.
+
+-*who_gilles
+Je vous l'avais bien dit...
+Heu !...
+Voilà ce que c'est !
+
+-*who_lebarbier
+Il est, ma foi, très bouffon !
+
+-*who_gilles
+Bouffon toi-même.
+Je te trouve bien plaisant de m'insulter sur le pavé du roi !
+Passe ton chemin.
+Sais-tu bien à qui tu parles...
+Heu ?
+
+-*who_lebarbier
+Non vraiment.
+
+-*who_gilles
+Eh bien !
+Apprends que je suis un homme d'esprit, heu !....
+Qui ai eu l'honneur, heu !...
+D'être refusé à l'Académie, quoique j'aie plus usé de papier à torcher mon cul que tu n'en as employé toute ta vie à écrire.
+
+-*who_lebarbier
+Oh !
+Monsieur, je le crois bien.
+
+-*who_gilles
+Et tu es un insolent drès-là de me parler comme tu fais...
+Heu !
+
+-*who_lebarbier
+Je vous demande excuse.
+
+-*who_gilles
+À la bonne heure.
+Porte-moi donc le respect qui m'est dû !
+
+-*who_lebarbier
+Ah !
+Volontiers.
+
+-*who_gilles
+Tu es un ivrogne !
+Je suis sobre, moi.
+
+-*who_lebarbier
+Il y paraît.
+Il joue bien son rôle.
+
+-*who_gilles
+Ma foi, quand j'ai bien bu, je crois
+Que toute la terre est à moi...
+
+-*who_lebarbier
+Tu chantes à merveille.
+
+-*who_gilles
+Je chante comme je puis !
+Heu...
+
+-*who_lebarbier
+Mais, l'ami, soutenez-vous donc.
+
+-*who_gilles
+Vive qui le pourrait !
+Pourquoi m'as-tu fait tant boire ?...
+Heu !
+
+-*who_lebarbier
+Je suis la dupe de ce drôle-là.
+J'ai voulu rire à ses dépens, et le coquin s'est moqué de moi.
+
+-*who_gilles
+Qu'appelles-tu coquin ?
+Coquin toi-même.
+
+-*who_lebarbier
+Oh !
+Cela passe le jeu.
+
+-*who_gilles
+Eh bien !
+Laisse-moi cuver mon vin.
+
+-*who_lebarbier
+Il faut rire encore, sinon on se moquerait de moi.
+C'est bien dit ; dors, mon ami.
+Je vais acheter de l'essence et de la poudre, et je reviens dans un quart d'heure.
+
+**** *book_ *id_I11 *act_I *date_1715
+
+-*who_gilles
+Ah !
+Ma foi, Monsieur le barbier, je vous ai eu le poil.
+
+-*who_lepaysan
+Y a-t-il là queuqu'un ?
+
+-*who_gilles
+Me voilà.
+Que voulez-vous ?
+
+-*who_lepaysan
+Est-ce ici qu'on rase proprement ?
+
+-*who_gilles
+Oui, mon ami.
+
+-*who_lepaysan
+Alors, dépêchez-vous !
+Je n'ai pas le temps d'attendre, moi.
+
+-*who_gilles
+Vous êtes donc bien pressé ?
+
+-*who_lepaysan
+Oui vraiment.
+C'est que je me marie, et il faut que j'aille voir ma maîtresse dans le moment même.
+
+-*who_gilles
+Eh bien ! mon ami, mettez-vous là et tenez-vous bien droit.
+
+-*who_lepaysan
+Que diable voulez-vous donc faire ?
+
+-*who_gilles
+Ne dites-vous pas que vous êtes pressé ?
+
+-*who_lepaysan
+Oui.
+
+-*who_gilles
+Eh bien !
+Je veux vous couper la tête afin de vous faire la barbe tout à mon aise.
+Vous pourrez, pendant ce temps, aller chez votre maîtresse.
+
+-*who_lepaysan
+Queu niais !
+J'aime bien mieux être ici un peu plus longtemps.
+
+-*who_gilles
+Asseyez-vous donc comme il faut.
+Tenez, voilà ce qui s'appelle du linge blanc.
+
+-*who_lepaysan
+Que prétendez-vous donc faire avec votre bouchon de paille ?
+
+-*who_gilles
+C'est pour brûler les poils follets.
+
+-*who_lepaysan
+Pardi !
+J'ai eu belle peur.
+J'ai cru que vous m'alliez griller comme un cochon.
+
+-*who_gilles
+On peut dire que voilà une barbe bien faite !
+
+-*who_lepaysan
+Combien vous faut-il ?
+
+-*who_gilles
+Faut-il vous surfaire ?
+
+-*who_lepaysan
+Non.
+
+-*who_gilles
+Mais je crois que cela vaut bien quinze francs.
+
+-*who_lepaysan
+Quinze francs !
+
+-*who_gilles
+Eh bien !
+Mettez-en douze.
+Ce sera six francs pour le maître et six francs pour le garçon.
+
+-*who_lepaysan
+Je pense que vous vous moquez de moi.
+Si je vous donnais la pièce tapée, je croirais vous avoir trop payé.
+
+-*who_gilles
+Monsieur le manant, je n'aime pas les plaisanteries.
+
+-*who_lepaysan
+Oh !
+Puisque cela est sérieux, il faut vous payer.
+
+-*who_gilles
+Au secours !
+Au secours !
+
+**** *book_ *id_I12 *act_I *date_1715
+
+-*who_lebarbier
+Qu'est-ce donc que tout ce tapage ?
+
+-*who_gilles
+Ah !
+Monsieur notre maître...
+À moi !
+
+-*who_lepaysan
+C'est là le maître.
+
+-*who_gilles
+Oui, c'est lui.
+
+-*who_lepaysan
+Ah !
+Parguenne, il en aura donc sa part.
+
+-*who_lebarbier
+Ahi !
+Ahi !
+Ahi !
+Qu'est-ce que cela signifie ?
+
+-*who_gilles
+Cela signifie que ce drôle-là nous a donné des coups de bâton.
+
+-*who_lebarbier
+Oui ; mais pourquoi les avoir donnés ?
+
+-*who_gilles
+Parce que je lui ai demandé douze francs pour lui avoir fait la barbe : savoir, six francs pour le maître et autant pour moi.
+
+-*who_lebarbier
+Peste soit de l'impertinent !
+Quatre sols étaient encore trop, et ce manant a eu raison de l'étriller.
+Mais moi, je n'avais que faire de cela.
+
+-*who_gilles
+Ah !
+Monsieur, vous êtes le maître pour recevoir les profits de la boutique.
+
+-*who_lebarbier
+Va-t'en au diable avec ta chienne de recepte !
+Je ne sais à quoi il tient que je ne t'assomme.
+
+-*who_gilles
+Tout beau, Monsieur le raseur.
+C'est-à-dire que chez vous, on ne mange qu'en imagination et que l'on est battu avec réalité.
+Eh bien !
+Je suis votre serviteur.
+Pourvoyez-vous d'un autre garçon.
+
+-*who_lebarbier
+Parbleu, mon ami, je n'aurai pas grande peine à te remplacer.
+
+**** *book_ *id_I13 *act_I *date_1715
+
+-*who_gilles
+Me voilà donc hors de condition et sans argent.
+Mais, parguenne, j'oubliais bien le meilleur.
+Quand j'ai quitté Monsieur Cassandre, il ne m'a pas payé un mémoire de la dépense que j'avais faite pour lui.
+Il ne sera pas assez déraisonnable pour ne m'en pas rembourser.
+D'ailleurs, j'ai à lui remettre la lettre qu'il m'avait donnée pour Mademoiselle Isabelle et à lui rendre réponse de celle que je lui ai portée hier.
+
+**** *book_ *id_I14 *act_I *date_1715
+
+-*who_cassandre
+J'ai renvoyé Gilles sans lui redemander ma lettre et la réponse à celle d'hier.
+Il faut que j'aille le chercher...
+Mais, le voilà.
+
+-*who_gilles
+Parguenne, voici Monsieur Cassandre bien à propos.
+Bonjour, notre défunt maître.
+
+-*who_cassandre
+Voilà un sot compliment.
+Notre défunt !
+Je suis, parbleu, bien en vie.
+Dieu merci !
+J'avais oublié de te demander des nouvelles de mes lettres.
+
+-*who_gilles
+Je vous en rendrai bien compte ; et moi, je ne m'étais pas souvenu d'un petit mémoire de dépense que voici.
+
+-*who_cassandre
+Voyons !
+1° Pour trois rognons de mouton et un pot d'onguent pour la rogne, sept francs.
+Plus pour une oie rôtie et un brayer pour le maître, la somme de neuf francs.
+
+-*who_gilles
+Tout autant, Monsieur, encore n'était-il pas neuf.
+
+-*who_cassandre
+Pour six pâtés de requête, pour le déjeuner de Monsieur Gilles et deux mesures d'avoine pour le maître, treize francs !...
+Qu'est-ce à dire ?
+
+-*who_gilles
+Oh !
+Monsieur, il n'y a rien à rabattre.
+
+-*who_cassandre
+Pour un quarteron de beurre frais pour les hémorroïdes de Monsieur Gilles, et pour avoir fait le poil à Monsieur, six sols.
+
+-*who_gilles
+Je suis exact, comme vous voyez.
+
+-*who_cassandre
+Pour avoir fait blanchir le linge à barbe dudit Cassandre et avoir fait raccommoder la lunette du privé...
+
+-*who_gilles
+Oh !
+Je n'ai rien oublié.
+
+-*who_cassandre
+Non !
+Si ce n'est d'accoler vos articles un peu mieux.
+Voilà un fort joli mémoire.
+Et quel est le sot qui l'a dressé ainsi ?
+
+-*who_gilles
+C'est moi, Monsieur ; je l'ai dicté à un écrivain de dessous le charnier des Innocents.
+
+-*who_cassandre
+Il est d'un style bien élégant !...
+Vingt-neuf francs six sols ?...
+
+-*who_gilles
+Oui, Monsieur, que vous aurez la bonté de me donner, si vous n'aimez mieux me reprendre à votre service ; auquel cas je vous ferai crédit.
+
+-*who_cassandre
+Si tu avais un peu plus d'intelligence, on pourrait faire quelque chose de toi.
+Mais tu es si bête !
+Tu as si peu d'esprit !
+
+-*who_gilles
+Ah !
+Dame, Monsieur, tout le monde n'en a pas un si grand que vous.
+
+-*who_cassandre
+Eh bien !
+Mes lettres, qu'en as-tu fait ?
+
+-*who_gilles
+Celle d'aujourd'hui, la voilà.
+Je ne l'ai pas rendue, comme vous savez bien.
+Pour celle d'hier, je l'ai donnée en mains propres.
+Mais, allez, j'ai eu diablement peur.
+Il était arrivé un grand malheur à Mademoiselle Isabelle !
+
+-*who_cassandre
+Tu me fais trembler.
+Quel malheur ?
+
+-*who_gilles
+Elle l'a, morguenne, échappée belle !
+Tenez, Monsieur, quand je suis entré dans sa chambre, je l'ai trouvée pendue à sa cheminée...
+
+-*who_cassandre
+Oh, ciel !
+Pendue !
+Cela est-il possible ?
+
+-*who_gilles
+Dame, oui !
+Elle ne grouillait ni pieds ni pattes.
+La frayeur m'a saisi d'abord, mais cependant je n'ai pas perdu le jugement.
+Je suis vite monté à l'échelle ; j'ai bravement coupé la corde.
+Patatras, voilà Mademoiselle Isabelle par terre !
+
+-*who_cassandre
+Oh !
+Mon cher Gilles, que je t'embrasse.
+Sans doute, alors, elle est revenue à elle ?
+
+-*who_gilles
+Non, Monsieur, pas encore.
+Quand j'ai vu qu'elle ne me parlait pas, j'ai pris votre lettre et je la lui ai attachée à la main avec une grosse épingle.
+
+-*who_cassandre
+C'est alors qu'elle a fait les hauts cris !
+
+-*who_gilles
+Non, Monsieur, elle n'en a rien senti.
+
+-*who_cassandre
+Oh !
+Ciel, elle est donc morte ?
+
+-*who_gilles
+Non, Monsieur ; elle est revenue... de la ville un instant après.
+
+-*who_cassandre
+Que veux-tu dire, revenue de la ville ?
+
+-*who_gilles
+Oui, vraiment, Monsieur, revenue de la ville.
+Je n'ai jamais eu si peur de la voir double.
+
+-*who_cassandre
+Peste soit du faquin !
+Comme Mademoiselle Isabelle s'est fait peindre et qu'on devait hier lui apporter sort portrait, je parie que cet imbécile, en coupant la corde, aura fracassé toute la bordure !
+
+-*who_gilles
+Vous avez gagné, Monsieur, c'était sa portraiture.
+Dame !
+Je croyais que c'était Mademoiselle Isabelle elle-même.
+
+-*who_cassandre
+Sans doute qu'elle t'aura fait donner cent coups de bâton pour ta balourdise !
+
+-*who_gilles
+Non, Monsieur ; elle était d'abord bien en colère ; mais, comme il n'y a rien eu de cassé, elle s'est mise à rire comme une folle en voyant ma frayeur.
+Ensuite, elle m'a fait asseoir à côté d'elle auprès du feu et m'a fait boire deux ou trois coups...
+
+-*who_cassandre
+Mademoiselle Isabelle est bien bonne !
+
+-*who_gilles
+Oh !
+Pour cela, Monsieur, c'est une bonne fille.
+Mais, parguenne, il y a eu quelque chose de bien plus drôle, allez !
+C'est, ma foi, une bonne diablesse.
+
+-*who_cassandre
+Comment ?
+Insolent !
+
+-*who_gilles
+Oh !
+Vous vous fâchez toujours.
+On ne saurait vous parler...
+Par la sambille, j'ai vu pourtant chez elle une plaisante chose.
+
+-*who_cassandre
+Qu'est-ce que c'est que cette plaisante chose ?
+
+-*who_gilles
+Ma foi, je ne sais pas trop !
+Mais j'ai bien ri en la voyant.
+
+-*who_cassandre
+Mais, enfin, qu'as-tu vu ?
+
+-*who_gilles
+Monsieur, permettez auparavant que je vous propose quelques questions.
+Un chat a des oreilles ?
+
+-*who_cassandre
+Oui, pour l'ordinaire.
+
+-*who_gilles
+Ce n'était donc pas un chat !
+
+-*who_cassandre
+Mais que diable veux-tu dire ?
+
+-*who_gilles
+Tenez, Monsieur, il faut vous expliquer cela.
+Il faisait froid.
+Nous étions auprès du feu, Mademoiselle Isabelle et moi.
+Elle était jambe deçà, jambe delà.
+Les pieds sur la pomme des chenets.
+En voulant ramasser mon chapeau, qui était tombé par terre...
+J'ai aperçu...
+
+-*who_cassandre
+Quoi ?...
+Son petit chat, peut-être ?
+
+-*who_gilles
+Monsieur, a-t-il le poil noir ?
+
+-*who_cassandre
+Oui.
+
+-*who_gilles
+Cela étant, c'était son chat.
+
+-*who_cassandre
+Voilà bien des discours pour dire que tu as vu son chat...
+C'est un petit folichon qui badine toujours avec elle.
+Il se fourre à tous moments sous ses jupons.
+Elle l'aime à la folie.
+
+-*who_gilles
+Il faut donc que ce soit son chat, car elle le caressait de la main.
+Mais, Monsieur, il me vient un scrupule.
+Y a-t-il des chats qui aient la gueule fendue de cette façon ?
+
+-*who_cassandre
+Non, mon ami.
+
+-*who_gilles
+Oh !
+Par la sanguenne, ce n'était donc pas son chat que j'ai vu.
+
+-*who_cassandre
+Que diable veux-tu donc que ce soit ?
+Car, enfin, puisque tu l'as vue caresser ce petit animal, tu as pu distinguer aisément s'il relevait la queue, comme font tous ses pareils.
+
+-*who_gilles
+Oh !
+Monsieur, je l'ai vu distinctement.
+Il n'avait pas de queue.
+
+-*who_cassandre
+Il n'avait pas de queue ?
+
+-*who_gilles
+Non, Monsieur, très sûrement ; mais je suis sûr qu'il en aurait bien voulu avoir.
+
+-*who_cassandre
+Peste soit de l'animal !
+Va, mon ami, tu ne sais ce que tu dis.
+
+-*who_gilles
+Dame !
+Si c'eût été à moi qu'elle eût fait ces caresses-là, il y aurait eu quelque différence au moins !
+
+-*who_cassandre
+Tais-toi, impertinent !
+Je suis bien sot de m'amuser aux mauvais propos de cet imbécile-là !
+Ma lettre, enfin, quelle réponse y a-t-on faite ?
+
+-*who_gilles
+Je n'oserais vous le dire, Monsieur, vous en mourriez subitement.
+
+-*who_cassandre
+Qu'est-ce que cela signifie ?
+
+-*who_gilles
+Cela signifie que Mademoiselle Isabelle m'a dit de vous dire qu'elle viendrait ce soir souper avec vous.
+
+-*who_cassandre
+Souper avec moi ?
+Ah !
+Mon cher Gilles, tu as raison, c'est, à mon endroit, une faveur des plus favorables, et, en faveur de cette faveur, je te reprends à mon service.
+
+-*who_gilles
+Quel galimatias !
+Ma foi, Monsieur, l'amour vous fait perdre le peu d'esprit que vous aviez.
+
+-*who_cassandre
+Je veux lui faire un repas magnifique.
+Tiens, voilà vingt-quatre sols.
+Cours vite chez Monsieur Gargot.
+Apporte-nous un bon morceau de boeuf à la mode, un quarteron de fromage de Hollande, des noix, une salade et une bonne bouteille de vin à six.
+L'heure s'avance.
+Ne perds point de temps.
+
+-*who_gilles
+Vous allez être servi promptement.
+Je vais prendre un panier pour apporter tout cela.
+
+-*who_cassandre
+Moi, je rentre pour ranger dans la salle, afin d'être en état d'y recevoir ma maîtresse.
+
+**** *book_ *id_I15 *act_I *date_1715
+
+-*who_prendstout
+Parbleu, il faut que Monsieur Cassandre soit imbécile pour avoir encore repris Gilles à son service.
+Il ne sera pas dit que ce sera impunément.
+Non, quand ce ne serait que pour me réjouir, il faut que je lui escamote la pièce de 24 sols qu'il vient de lui donner.
+Je l'aperçois, commençons notre fourberie.
+
+**** *book_ *id_I16 *act_I *date_1715
+
+-*who_prendstout
+Ah !
+Pauvre Monsieur Cassandre, que deviendras-tu quand tu sauras cette triste nouvelle ?
+
+-*who_gilles
+On parle de mon maître !
+
+-*who_prendstout
+Tu mourras de douleur quand tu apprendras que Mademoiselle Isabelle est empoisonnée.
+
+-*who_gilles
+Mademoiselle Isabelle, empoisonnée ?
+Houlas !
+Voilà bien le diable !
+Dites donc, mon ami, qu'est-ce que vous parlez là tout seul de Mademoiselle Isabelle ?
+
+-*who_prendstout
+Hélas !
+Je dis que, par le plus grand des malheurs, elle s'est empoisonnée.
+
+-*who_gilles
+Et comment cela ?
+
+-*who_prendstout
+En voulant boire à la santé de Monsieur Cassandre, une araignée est tombée dans son verre, et elle l'a avalée sans s'en apercevoir.
+
+-*who_gilles
+Elle a avalé une araignée !
+
+-*who_prendstout
+Oui, mon ami, et qui avait des pattes grandes comme cela !
+Dans le moment, sa langue s'est épaissie, la gorge lui a enflé, ses yeux se sont fermés, et elle allait mourir sans le secours du gros Thomas, qui heureusement passait devant sa maison au moment que toutes ses voisines témoignaient leur embarras par des cris très perçants.
+
+-*who_gilles
+Eh bien ?
+L'a-t-il soulagée ?
+J'ai cru qu'il n'arrachait que les dents.
+
+-*who_prendstout
+Bon !
+Il a des secrets merveilleux pour les maladies les plus singulières.
+Il nous a d'abord rassurés en nous disant qu'il avait un remède excellent pour l'accident arrivé à Mademoiselle Isabelle ; il a même commencé son opération, mais il ne veut pas l'achever à moins de six francs.
+
+-*who_gilles
+Eh bien !
+Il faut les lui donner.
+
+-*who_prendstout
+C'est bien dit.
+Mais Mademoiselle Isabelle, qui revenait de faire ses provisions, ne se trouve pas avoir chez elle cette somme.
+Il ne lui reste que quatre francs seize sols, et le gros Thomas ne veut pas achever son opération à moins de six francs.
+Il est cher comme le diable !
+
+-*who_gilles
+Mais est-ce que ses voisines ne peuvent pas lui prêter le surplus ?
+
+-*who_prendstout
+Bon !
+Quand elles ont entendu parler d'argent, elles ont aussitôt décampé l'une après l'autre.
+
+-*who_gilles
+Mais combien donc manque-t-il à Mademoiselle Isabelle ?
+
+-*who_prendstout
+Je crois que cela peut aller à vingt-quatre sols.
+C'est une misère et je vais mettre mon habit engage pour cela.
+Mais, avant que j'aie été à la friperie, la pauvre Mademoiselle Isabelle ne sera peut-être plus en vie, et j'en serais bien fâché, car c'est une bonne voisine.
+
+-*who_gilles
+Cela ne laisse pas que d'être embarrassant.
+Mais êtes-vous bien sûr du remède du gros Thomas ?
+
+-*who_prendstout
+Oh !
+Très sûr.
+On aperçoit déjà les pattes de l'araignée, et je les ai vues comme je vous vois.
+
+-*who_gilles
+Vous avez vu les pattes de l'araignée ?
+Et où ?
+
+-*who_prendstout
+Je vais vous le dire.
+Pour faire connaître qu'il n'est pas un charlatan, le gros Thomas n'a pas eu plutôt reçu les quatre francs seize sols à compte, qu'il a pris Mademoiselle Isabelle et vous l'a mise sur ses genoux comme un petit enfant que l'on veut fouetter.
+Il lui a troussé sa jaquette, lui a mis le derrière à l'air vis-à-vis la fenêtre...
+
+-*who_gilles
+Et vous étiez là présent ?
+
+-*who_prendstout
+Sans doute !
+Il n'y avait que moi et le gros Thomas.
+Alors il a tiré de sa poche une petite boîte d'ivoire dans laquelle étaient cinq ou six mouches en vie qu'il ne nourrit, à ce qu'il m'a dit, qu'avec de la cervelle de cirons, et il n'en a pas eu plutôt approché une du clos Bruneau de la pauvre malade que l'araignée a montré le bout du nez et a sorti deux grandes pattes pour attraper la mouche.
+
+-*who_gilles
+Elle est donc sortie ?
+
+-*who_prendstout
+Non, pas tout à fait.
+Faute des vingt-quatre sols, l'araignée est rentrée, et le gros Thomas n'a pas voulu achever l'opération.
+
+-*who_gilles
+Ah !
+Le misérable !
+
+-*who_prendstout
+Depuis ce temps-là, Mademoiselle Isabelle est dans une agitation des plus violentes.
+
+-*who_gilles
+Et a-t-elle toujours le cul à l'air ?
+
+-*who_prendstout
+Mais je crois que oui.
+
+-*who_gilles
+Cela doit être curieux à voir.
+
+-*who_prendstout
+Oh !
+Ma foi, quand on souffre, on ne s'embarrasse pas de tout cela.
+Mais, vous m'amusez mal à propos.
+Je suis bien sot de vous raconter toutes ces choses-là pendant que je devrais avoir déjà été mettre mon habit en gage.
+Ce retard coûtera peut-être la vie à Mademoiselle Isabelle.
+
+-*who_gilles
+Écoutez, mon ami, j'appartiens à Monsieur Cassandre qui, comptant avoir ce soir Mademoiselle Isabelle à souper, m'avait donné vingt-quatre sols pour aller chercher de quoi la régaler.
+Mais j'estime qu'ils seront bien mieux employés à donner au gros Thomas.
+Tenez, les voilà !
+
+-*who_prendstout
+Eh !
+Que ne les avez-vous donnés il y a un quart d'heure ?
+Je cours à toutes jambes porter du secours à Mademoiselle Isabelle, s'il en est encore temps ; sinon, je viens vous rejoindre ici pour vous remettre la pièce de vingt-quatre sols.
+Comment vous appelez-vous ?
+
+-*who_gilles
+Gilles Bambinois Cadet L'Aîné, fort à votre service.
+
+-*who_prendstout
+Adieu, Monsieur Gilles Cadet L'Aîné.
+
+-*who_gilles
+Allez vite, sinon son derrière gagnera quelque bon rhume.
+Parguenne, je suis bien heureux de m'être rencontré ici aussi à propos !
+
+**** *book_ *id_I17 *act_I *date_1715
+
+-*who_cassandre
+Je ne me sens pas d'aise.
+Quoi !
+Ma charmante Isabelle viendra ce soir souper avec moi !
+Je meurs d'impatience de la voir.
+Mais Gilles est bien longtemps à revenir de chez Monsieur Gargot et à faire ses autres emplettes.
+Le voici.
+Eh bien !
+Mon ami ?
+
+-*who_gilles
+Eh bien ?
+Monsieur, ne voilà-t-il pas un terrible accident ?
+
+-*who_cassandre
+Quel accident ?
+
+-*who_gilles
+Mademoiselle Isabelle !
+
+-*who_cassandre
+Quoi, Mademoiselle Isabelle ?
+Qu'y a-t-il de nouveau ?
+
+-*who_gilles
+Elle n'en mourra pas grâce à moi.
+
+-*who_cassandre
+Qu'est-ce que cela veut dire ?
+
+-*who_gilles
+Cela veut dire que Mademoiselle Isabelle est morte, ou peu s'en faut, et que vous en êtes la cause.
+
+-*who_cassandre
+Quel galimatias !
+Est-ce encore quelque aventure, comme celle du portrait de tantôt ?
+
+-*who_gilles
+Oh !
+Que non !
+C'est elle-même en propre original qui s'est empoisonnée.
+
+-*who_cassandre
+Comment ?
+Empoisonnée...
+
+-*who_gilles
+Oui, Monsieur, et par rapport à vous.
+Mais ne vous effrayez pas encore.
+Mademoiselle Isabelle, en buvant à votre santé, avait avalé une araignée...
+
+-*who_cassandre
+Juste Ciel !
+Ah !
+Quel malheur !
+
+-*who_gilles
+Elle se mourait.
+Le gros Thomas a passé par là.
+Il voulait bien la guérir ; mais il demandait six francs et elle n'avait que quatre francs seize sols.
+
+-*who_cassandre
+Eh !
+Finis ton misérable récit, auquel je ne comprends rien !
+
+-*who_gilles
+Patience !
+Il vous l'a couchée sur ses genoux, lui a mis au derrière une mouche d'une espèce singulière.
+L'araignée est venue pour la gober, et, moyennant les vingt-quatre sols que j'ai donnés pour faire la somme complète, je compte que cette vilaine bête lui est sortie du corps à l'heure que je vous parle.
+
+-*who_cassandre
+Je ne comprends rien à ces discours.
+Je crois que Gilles est devenu fou.
+
+-*who_gilles
+Non, Monsieur, je ne suis pas fou.
+Je vous dis la vérité pure.
+Je la tiens d'un galant homme à qui j'ai donné les vingt-quatre sols qui manquaient à Mademoiselle Isabelle.
+Il m'a tout raconté comme je vous le dis.
+
+-*who_cassandre
+Eh !
+Pauvre sot !
+Sans doute encore quelque nouveau tour de filou !
+Comment veux-tu, bête que tu es, qu'une araignée qui aurait été avalée sorte toute en vie après avoir passé à travers plus de trente aunes de boyaux ?
+
+-*who_gilles
+Trente aunes de boyaux ?
+Est-ce que vous avez mesuré les boyaux de Mademoiselle Isabelle ?
+Dame !
+Pour moi, je n'en sais pas tant.
+On me dit qu'elle est empoisonnée, qu'elle va mourir !
+Que, faute de vingt-quatre sols qui manquent pour payer le gros Thomas, elle court risque de la vie.
+Parguenne, pour la lui sauver, je n'ai pas fait difficulté de les donner.
+
+-*who_cassandre
+Le motif est bon.
+Tu n'as péché que par ignorance et par bêtise.
+Je cours chez Mademoiselle Isabelle, que je ramènerai, j'en suis sûr, en bonne santé ; et je donnerai ordre, en revenant, pour notre souper.
+
+-*who_gilles
+Je le souhaite.
+Mais, parguenne, je crains bien que l'histoire de l'araignée ne soit que trop vraie.
+
+-*who_cassandre
+Et moi, je suis très persuadé du contraire.
+
+-*who_gilles
+À propos, nôtre maître, j'ai oublié de vous dire, de la part de Mademoiselle Isabelle, que vous ne lui donniez pas de tripaille.
+Elle dit que toutes les fois qu'elle vous voit vous ne lui présentez que du mou.
+Dame ! elle en est bien lasse.
+
+-*who_cassandre
+Tais-toi, insolent !
+Mademoiselle Isabelle sera contente.

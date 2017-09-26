@@ -1,0 +1,3378 @@
+---
+identifier: voltaire_enfantprodigue  
+creator: Voltaire  
+date: 1736  
+title: L’enfant prodigue. , comédie en cinq actes  
+---
+
+
+L'ENFANT PRODIGUE
+
+COMÉDIE en cinq actes
+
+1738
+
+Voltaire
+
+⁎⁎⁎⁎⁎⁎⁎⁎⁎
+Représentée, pour la première fois, le 10 octobre 1736 au Théâtre de la rue des Fossés Saint-Germain par la Comédie françaiseNoms des acteurs qui jouèrent dans l'Enfant prodigue et dans l'Avocat Patelin, de Brueys, qui l'accompagnait : Dangeville, Dufresne (Euphémon fils), Duchemin, Armand, Poisson, Montmény, Sarrazin, Grandval, Dangeville jeune, Fierville ; Mmes Quinault la cadette (la baronne de Croupillac), Dubreuil, Du Boccage, Dangeville jeune (Marthe), Gussin (Lise), Grandval.Recette : 644 livres.Dans sa nouveauté, l'Enfant prodigue eut vingt-deux représentations. (G.A.)
+
+
+# PRÉFACE de l'édition de 1738.
+
+Il est assez étrange que l'on n'ait pas songé plus tôt à imprimer cette comédie, qui fut jouée il y après de deux ans, et qui eut environ trente représentations. L'auteur ne s'étant point déclaré on l'a mise jusqu'ici sur le compte de diverses personnes très estimées ; mais elle est véritablement de M. De Voltaire, quoique le style de la Henriade et d'Alzire soit si différent de celui-ci qu'il ne permet guère d'y reconnaître la même main. C'est ce qui fait que nous donnons sous son nom cette pièce au public, comme la première comédie qui soit écrite en vers de cinq pieds. Peut-être cette nouveauté engagera-t-elle quelqu'un à se servir de cette mesure. Elle produira sur le théâtre français de la variété ; et qui donne des plaisirs nouveaux doit toujours être bien reçu.
+
+Si la comédie doit être la représentation des moeurs, cette pièce semble être assez de ce caractère. On y voit un mélange de sérieux et de plaisanterie, de comique et de touchant. C'est ainsi que la vie des hommes est bigarrée ; souvent même une seule aventure produit tous ces contrastes. Rien n'est si commun qu'une maison dans laquelle un père gronde, une fille occupée de sa passion pleure, le fils se moque des deux, et quelques parents prennent différemment part à la scène. On raille très souvent dans une chambre de ce qui attendrit dans la chambre voisine, et la même personne a quelquefois ri et pleuré de la même chose dans le même quart d'heure.
+
+Une dame très respectable, étant un jour au chevet d'une de ses filles qui était en danger de mort, entourée de toute sa famille, s'écriait en fondant en larmes : « Mon Dieu, rendez-la-moi, et prenez tous mes autres enfants ! » Un homme qui avait épousé une autre de ses filles s'approcha d'elle, et, la tirant par la manche : « Madame, dit-il, les gendres en sont-ils ? » Le sang-froid et le comique avec lequel il prononça ces paroles fit un tel effet sur cette dame affligée qu'elle sortit en éclatant de rire ; tout le monde la suivit en riant ; et la malade, ayant su de quoi il était question, se mit à rire plus fort que les autres.
+
+Nous n'inférons pas de là que toute comédie doive avoir des scènes de bouffonnerie et des scènes attendrissantes. Il y a beaucoup de très bonnes pièces où il ne règne que de la gaieté ; d'autres toutes sérieuses, d'autres mélangées, d'autres où l'attendrissement va jusqu'aux larmes. Il ne faut donner l'exclusion à aucun genre, et si l'on me demandait quel genre est le meilleur, je répondrais : « Celui qui est le mieux traité. »
+
+Il serait peut-être à propos et conforme au goût de ce siècle raisonneur d'examiner ici quelle est cette sorte de plaisanterie qui nous fait rire à la comédie.
+
+La cause du rire est une de ces choses plus senties que connues. L'admirable Molière, Regnard, qui le vaut quelquefois, et les auteurs de tant de jolies petites pièces, se sont contentés d'exciter en nous ce plaisir, sans nous en rendre jamais raison, et sans dire leur secret.
+
+J'ai cru remarquer aux spectacles qu'il ne s'élève presque jamais de ces éclats de rire universels qu'à l'occasion d'une méprise. Mercure pris pour Sosie ; le chevalier Ménechme pris pour son frère ; Crispin faisant son testament sous le nom du bonhomme Géronte ; Valère parlant à Harpagon des beaux yeux de sa fille, tandis qu'Harpagon n'entend que les beaux yeux de sa cassette ; Pourceaugnac à qui on tâte le pouls, parce qu'on le veut faire passer pour fou ; en un mot, les méprises, les équivoques de pareille espèce, excitent un rire général. Arlequin ne fait guère rire que quand il se méprend ; et voilà pourquoi le litre de balourd lui était si bien approprié.
+
+Il y a bien d'autres genres de comique. Il y a des plaisanteries qui causent une autre sorte de plaisir ; mais je n'ai jamais vu ce qui s'appelle rire de tout son coeur, soit aux spectacles, soit dans la société, que dans des cas approchants de ceux dont je viens de parler.
+
+Il y a des caractères ridicules dont la représentation plaît, sans causer ce rire immodéré de joie. Trissotin et Vadius, par exemple, semblent être de ce genre ; le Joueur, le Grondeur, qui font un plaisir inexprimable, ne permettent guère le rire éclatant.
+
+Il y a d'autres ridicules mêlés de vices, dont on est charmé de voir la peinture, et qui ne causent qu'un plaisir sérieux. Un malhonnête homme ne fera jamais rire, parce que dans le rire il entre toujours de la gaieté, incompatible avec le mépris et l'indignation. Il est vrai qu'on rit au Tartuffe ; mais ce n'est pas de son hypocrisie, c'est de la méprise du bonhomme qui le croit un saint, et, l'hypocrisie une fois reconnue, on ne rit plus : on sent d'autres impressions. On pourrait aisément remonter aux sources de nos autres sentiments, à ce qui excite la gaieté, la curiosité, l'intérêt, l'émotion, les larmes. Ce serait surtout aux auteurs dramatiques à nous développer tous ces ressorts, puisque ce sont eux qui les font jouer. Mais ils sont plus occupés de remuer les passions que de les examiner ; ils sont persuadés qu'un sentiment vaut mieux qu'une définition, et je suis trop de leur avis pour mettre un traité de philosophie au devant d'une pièce de théâtre.
+
+Je me bornerai simplement à insister encore un peu sur la nécessité où nous sommes d'avoir des choses nouvelles. Si l'on avait toujours mis sur le théâtre tragique la grandeur romaine, à la fin on s'en serait rebuté ; si les héros ne parlaient jamais que de tendresse, on serait affadi.
+O imitatores, servum pecus !  
+
+Les bons ouvrages que nous avons depuis les Corneille, les Molière, les Racine, les Quinault, Les Lulli, les Le Brun, me paraissent tous avoir quelque chose de neuf et d'original qui les a sauvés du naufrage. Encore une fois, tous les genres sont bons, hors le genre ennuyeux.
+
+Ainsi il ne faut jamais dire si cette musique n'a pas réussi, si ce tableau ne plaît pas, si cette pièce est tombée, c'est que cela était d'une espèce nouvelle ; il faut dire : C'est que cela ne vaut rien dans son espèce.
+
+
+# PERSONNAGES.
+ – EUPHÉMON Père.
+ – EUPHÉMON Fils.
+ – FIERENFAT, président de Cognac, second fils d'Euphémon.
+ – RONDON, Bourgeois de Cognac.
+ – LISE, fille de Rondon.
+ – LA BARONNE DE CROUPILLAC..
+ – MARTHE, suivante de Lise.
+ – JASMIN, Valet d'Euphémon fils.La scène est à Cognac.
+
+
+# ACTE I.
+
+
+## SCÈNE I. Euphémon, Rondon.
+
+    RONDON.
+Mon triste ami, mon cher et vieux voisin,  
+Que de bon coeur j'oublierai ton chagrin !  
+Que je rirai ! Quel plaisir ! Que ma fille  
+Va ranimer ta dolente famille !  
+Mais mons ton fils, le sieur de Fierenfat,  
+Me semble avoir un procédé bien plat.  
+
+    EUPHÉMON.
+Quoi donc ?  
+
+    RONDON.
+        Tout fier de sa magistrature  
+Il fait l'amour avec poids et mesure.  
+Adolescent qui s'érige en barbon,  
+Jeune écolier qui vous parle en Caton,  
+Est, à mon sens, un animal bernable ;  
+Et j'aime mieux l'air fou que l'air capable :  
+Il est trop fat.  
+
+    EUPHÉMON.
+        Et vous êtes aussi  
+Un peu trop brusque.  
+
+    RONDON.
+        Ah ! Je suis fait ainsi.  
+J'aime le vrai, je me plais à l'entendre ;  
+J'aime à le dire, à gourmander mon gendre,  
+À bien mater cette fatuité,  
+Et l'air pédant dont il est encrouté.  
+Vous avez fait, beau-père, en père sage,  
+Quand son aîné, ce joueur, ce volage,  
+Ce débauché, ce fou, partit d'ici,  
+De donner tout à ce sot cadet-ci ;  
+De mettre en lui toute votre espérance,  
+Et d'acheter pour lui la présidence  
+De cette ville : oui, c'est un trait prudent.  
+Mais dès qu'il fut monsieur le président  
+Il fut, ma foi, gonflé d'impertinence :  
+Sa gravité marche et parle en cadence,  
+Il dit qu'il a bien plus d'esprit que moi,  
+Qui, comme on sait, en ai bien plus que toi.  
+Il est...  
+
+    EUPHÉMON.
+        Eh mais ! Quelle humeur vous emporte ?  
+Faut-il toujours...  
+
+    RONDON.
+        Va, va, laisse, qu'importe ?  
+Tous ces défauts, vois-tu, sont comme rien  
+Lorsque d'ailleurs on amasse un gros bien.  
+Il est avare ; et tout avare est sage.  
+Oh ! C'est un vice excellent en ménage,  
+Un très bon vice. Allons, dès aujourd'hui  
+Il est mon gendre, et ma Lise est à lui.  
+Il reste donc, notre triste beau-père,  
+À faire ici donation entière  
+De tous vos biens, contrats, acquis, conquis,  
+Présents, futurs, à monsieur votre fils,  
+En réservant sur votre vieille tête  
+D'un usufruit l'entretien fort honnête ;  
+Le tout en bref arrêté, cimenté,  
+Pour que ce fils, bien cossu, bien doté,  
+Joigne à nos biens une vaste opulence :  
+Sans quoi soudain ma Lise à d'autres pense.  
+
+    EUPHÉMON.
+Je l'ai promis, et j'y satisferai ;  
+Oui, Fierenfat aura le bien que j'ai.  
+Je veux couler au sein de la retraite  
+La triste fin de ma vie inquiète ;  
+Mais je voudrais qu'un fils si bien doté  
+Eût pour mes biens un peu moins d'âpreté.  
+J'ai vu d'un fils la débauche insensée,  
+Je vois dans l'autre une âme intéressée.  
+
+    RONDON.
+Tant mieux ! Tant mieux !  
+
+    EUPHÉMON.
+        Cher ami, je suis né  
+Pour n'être rien qu'un père infortuné.  
+
+    RONDON.
+Voilà-t-il pas de vos jérémiades,  
+De vos regrets, de vos complaintes fades ?  
+Voulez-vous pas que ce maître étourdi,  
+Ce bel aîné dans le vice enhardi,  
+Venant gâter les douceurs que j'apprête,  
+Dans cet hymen paraisse en trouble-fête ?  
+
+    EUPHÉMON.
+Non.  
+
+    RONDON.
+        Voulez-vous qu'il vienne sans façon  
+Mettre en jurant le feu dans la maison ?  
+
+    EUPHÉMON.
+Non.  
+
+    RONDON.
+        Qu'il vous batte, et qu'il m'enlève Lise ?  
+Lise autrefois à cet aîné promise ;  
+Ma Lise qui...  
+
+    EUPHÉMON.
+        Que cet objet charmant  
+Soit préservé d'un pareil garnement !  
+
+    RONDON.
+Qu'il entre ici pour dépouiller son père ?  
+Pour succéder ?  
+
+    EUPHÉMON.
+        Non.. tout est à son frère.  
+
+    RONDON.
+Ah ! Sans cela point de Lise pour lui.  
+
+    EUPHÉMON.
+Il aura Lise et mes biens aujourd'hui ;  
+Et son aîné n'aura, pour tout partage,  
+Que le courroux d'un père qu'il outrage :  
+Il le mérite, il fut dénaturé.  
+
+    RONDON.
+Ah ! Vous l'aviez trop longtemps enduré.  
+L'autre du moins agit avec prudence ;  
+Mais cet aîné ! Quel trait d'extravagance !  
+Le libertin, mon Dieu, que c'était là !  
+Te souvient-il, vieux beau-père, ah, ah, ah !  
+Qu'il te vola (ce tour est bagatelle)  
+Chevaux, habits, linge, meubles, vaisselle,  
+Pour équiper la petite Jourdain,  
+Qui le quitta le lendemain matin ?  
+J'en ai bien ri, je l'avoue.  
+
+    EUPHÉMON.
+        Ah ! Quels charmes  
+Trouvez-vous donc à rappeler mes larmes ?  
+
+    RONDON.
+Et sur un as mettant vingt rouleaux d'or...  
+Hé, hé !  
+
+    EUPHÉMON.
+    Cessez.  
+
+    RONDON.
+        Te souvient-il encor,  
+Quand l'étourdi dut en lace d'église  
+Se fiancer à ma petite Lise,  
+Dans quel endroit on le trouva caché ?  
+Comment, pour qui ?... Peste, quel débauché !  
+
+    EUPHÉMON.
+Épargnez-moi ces indignes histoires,  
+De sa conduite impressions trop noires ;  
+Ne suis-je pas assez infortuné ?  
+Je suis sorti des lieux où je suis né  
+Pour m'épargner, pour ôter de ma vue  
+Ce qui rappelle un malheur qui me tue :  
+Votre commerce ici vous a conduit ;  
+Mon amitié, ma douleur vous y suit.  
+Ménagez-les : vous prodiguez sans cesse  
+La vérité ; mais la vérité blesse.  
+
+    RONDON.
+Je me tairai, soit : j'y consens, d'accord.  
+Pardon ; mais diable ! Aussi vous aviez tort,  
+En connaissant le fougueux caractère  
+De votre fils, d'en faire un mousquetaire.  
+
+    EUPHÉMON.
+Encor !  
+
+    RONDON.
+    Pardon ; mais vous deviez...  
+
+    EUPHÉMON.
+        Je dois  
+Oublier tout pour notre nouveau choix,  
+Pour mon cadet, et pour son mariage.  
+Çà, pensez-vous que ce cadet si sage  
+De votre fille ait pu toucher le coeur ?  
+
+    RONDON.
+Assurément. Ma fille a de l'honneur,  
+Elle obéit à mon pouvoir suprême ;  
+Et quand je dis : « Allons, je veux qu'on aime, »  
+Son coeur docile, et que j'ai su tourner,  
+Tout aussitôt aime sans raisonner :  
+À mon plaisir j'ai pétri sa jeune âme.  
+
+    EUPHÉMON.
+Je doute un peu pourtant qu'elle s'enflamme  
+Par vos leçons ; et je me trompe fort  
+Si de vos soins votre fille est d'accord.  
+Pour mon aîné j'obtins le sacrifice  
+Des voeux naissants de son âme novice :  
+Je sais quels sont ces premiers traits d'amour :  
+Le coeur est tendre ; il saigne plus d'un jour.  
+
+    RONDON.
+Vous radotez.  
+
+    EUPHÉMON.
+        Quoi que vous puissiez dire,  
+Cet étourdi pouvait très bien séduire.  
+
+    RONDON.
+Lui ? Point du tout ; ce n'était qu'un vaurien.  
+Pauvre bonhomme ! Allez, ne craignez rien ;  
+Car à ma fille, après ce beau ménage,  
+J'ai défendu de l'aimer davantage.  
+Ayez le coeur sur cela réjoui ;  
+Quand j'ai dit non, personne ne dit oui.  
+Voyez plutôt.  
+
+
+## SCÈNE II. Euphémon, Rondon, Lise, Marthe.
+
+    RONDON.
+        Approchez, venez, Lise ;  
+Ce jour pour vous est un grand jour de crise.  
+Que je te donne un mari jeune ou vieux,  
+Ou laid ou beau, triste ou gai, riche ou gueux,  
+Ne sens-tu pas des désirs de lui plaire,  
+Du goût pour lui, de l'amour ?  
+
+    LISE.
+Non, mon père.  
+
+    RONDON.
+    Comment, coquine ?  
+
+    EUPHÉMON.
+        Ah ! Ah ! Notre féal,  
+Votre pouvoir va, ce semble, un peu mal :  
+Qu'est devenu ce despotique empire ?  
+
+    RONDON.
+Comment ! Après tout ce que j'ai pu dire,  
+Tu n'aurais pas un peu de passion  
+Pour ton futur époux ?  
+
+    LISE.
+        Mon père, non.  
+
+    RONDON.
+Ne sais-tu pas que le devoir t'oblige  
+À lui donner tout ton coeur ?  
+
+    LISE.
+        Non, vous dis-je.  
+Je sais, mon père, à quoi ce noeud sacré  
+Oblige un coeur de vertu pénétré ;  
+Je sais qu'il faut, aimable en sa sagesse,  
+De son époux mériter la tendresse,  
+Et réparer du moins par la bonté  
+Ce que le sort nous refuse en beauté ;  
+Être au dehors discrète, raisonnable ;  
+Dans sa maison, douce, égale, agréable :  
+Quant à l'amour, c'est tout un autre point ;  
+Les sentiments ne se commandent point.  
+N'ordonnez rien ; l'amour fuit l'esclavage.  
+De mon époux le reste est le partage ;  
+Mais pour mon coeur, il le doit mériter :  
+Ce coeur au moins, difficile à dompter,  
+Ne peut aimer ni par ordre d'un père,  
+Ni par raison, ni par devant notaire.  
+
+    EUPHÉMON.
+C'est, à mon gré, raisonner sensément ;  
+J'approuve fort ce juste sentiment.  
+C'est à mon fils à tâcher de se rendre  
+Digne d'un coeur aussi noble que tendre.  
+
+    RONDON.
+Vous tairez-vous, radoteur complaisant,  
+Flatteur barbon, vrai corrupteur d'enfant ?  
+Jamais sans vous ma fille, bien apprise,  
+N'eût devant moi lâché cette sottise.  
+À Lise.
+
+Écoute, toi : je te baille un mari  
+Tant soit peu fat, et par trop renchéri ;  
+Mais c'est à moi de corriger mon gendre :  
+Toi, tel qu'il est, c'est à toi de le prendre,  
+De vous aimer, si vous pouvez, tous deux,  
+Et d'obéir à tout ce que je veux :  
+C'est là ton lot ; et toi, notre beau-père,  
+Allons signer chez notre gros notaire,  
+Qui vous allonge en cent mots superflus  
+Ce qu'on dirait en quatre tout au plus.  
+Allons hâter son bavard griffonnage ;  
+Lavons la tête à ce large visage ;  
+Puis je reviens ; après cet entretien,  
+Gronder ton fils, ma fille, et toi.  
+
+    EUPHÉMON.
+        Fort bien.  
+
+
+## SCÈNE III. Lise, Marthe.
+
+    MARTHE.
+Mon Dieu, qu'il joint à tous ses airs grotesques  
+Des sentiments et des travers burlesques !  
+
+    LISE.
+Je suis sa fille ; et de plus son humeur  
+N'altère point la bonté de son coeur ;  
+Et sous les plis d'un front atrabilaire,  
+Sous cet air brusque il a l'âme d'un père :  
+Quelquefois même, au milieu de ses cris,  
+Tout en grondant, il cède à mes avis.  
+Il est bien vrai qu'en blâmant la personne  
+Et les défauts du mari qu'il me donne,  
+En me montrant d'une telle union  
+Tous les dangers, il a grande raison ;  
+Mais lorsqu'ensuite il ordonne que j'aime,  
+Dieu ! Que je sens que son tort est extrême !  
+
+    MARTHE.
+Comment aimer un monsieur Fierenfat ?  
+J'épouserais plutôt un vieux soldat  
+Qui jure, boit, bat sa femme, et qui l'aime,  
+Qu'un fat en robe, enivré de lui-même,  
+Qui, d'un ton grave et d'un air de pédant,  
+Semble juger sa femme en lui parlant ;  
+Qui comme un paon dans lui-même se mire,  
+Sous son rabat se rengorge et s'admire,  
+Et, plus avare encor que suffisant,  
+Vous fait l'amour en comptant son argent.  
+
+    LISE.
+Ah ! Ton pinceau l'a peint d'après nature.  
+Mais qu'y ferai-je ? Il faut bien que j'endure  
+L'état forcé de cet hymen prochain.  
+On ne fait pas comme on veut son destin :  
+Et mes parents, ma fortune, mon âge,  
+Tout de l'hymen me prescrit l'esclavage.  
+Ce Fierenfat est, malgré mes dégoûts,  
+Le seul qui puisse être ici mon époux ;  
+Il est le fils de l'ami de mon père ;  
+C'est un parti devenu nécessaire.  
+Hélas ! Quel coeur, libre dans ses soupirs,  
+Peut se donner au gré de ses désirs ?  
+Il faut céder le temps, la patience,  
+Sur mon époux vaincront ma répugnance ;  
+Et je pourrai, soumise à mes liens,  
+À ses défauts me prêter comme aux miens.  
+
+    MARTHE.
+C'est bien parler, belle et discrète Lise :  
+Mais votre coeur tant soit peu se déguise.  
+Si j'osais... mais vous m'avez ordonné  
+De ne parler jamais de cet aîné.  
+
+    LISE.
+Quoi ?  
+
+    MARTHE.
+        D'Euphémon, qui, malgré tous ses vices,  
+De votre coeur eut les tendres prémices ;  
+Qui vous aimait.  
+
+    LISE.
+        Il ne m'aima jamais.  
+Ne parlons plus de ce nom que je hais.  
+
+    MARTHE S’EN ALLANT.
+N'en parlons plus.  
+
+    LISE LA RETANANT.
+        Il est vrai, sa jeunesse  
+Pour quelque temps a surpris ma tendresse.  
+Était-il fait pour un coeur vertueux ?  
+
+    MARTHE S’EN ALLANT.
+C'était un fou, ma foi, très dangereux.  
+
+    LISE LA RETANANT.
+De corrupteurs sa jeunesse entourée,  
+Dans les excès se plongeait égarée :  
+Le malheureux ! Il cherchait tour à tour  
+Tous les plaisirs ; il ignorait l'amour.  
+
+    MARTHE.
+Mais autrefois vous m'avez paru croire  
+Qu'à vous aimer il avait mis sa gloire,  
+Que dans vos fers il était engagé.  
+
+    LISE.
+S'il eût aimé, je l'aurais corrigé.  
+Un amour vrai, sans feinte et sans caprice,  
+Est en effet le plus grand frein du vice.  
+Dans ses liens qui sait se retenir  
+Est honnête homme, ou va le devenir.  
+Mais Euphémon dédaigna sa maîtresse ;  
+Pour la débauche il quitta la tendresse.  
+Ses faux amis, indigents scélérats,  
+Qui dans le piège avaient conduit ses pas,  
+Ayant mangé tout le bien de sa mère,  
+Ont sous son nom volé son triste père ;  
+Pour comble enfin, ces séducteurs cruels  
+L'ont entraîné loin des bras paternels,  
+Loin de mes yeux, qui, noyés dans les larmes,  
+Pleuraient encor ses vices et ses charmes.  
+Je ne prends plus nul intérêt à lui.  
+
+    MARTHE.
+Son frère enfin lui succède aujourd'hui :  
+Il aura Lise ; et certes c'est dommage ;  
+Car l'autre avait un bien joli visage,  
+De blonds cheveux, la jambe faite au tour,  
+Dansait, chantait, était né pour l'amour.  
+
+    LISE.
+Ah ! Que dis-tu ?  
+
+    MARTHE.
+        Même dans ces mélanges  
+D'égarements, de sottises étranges,  
+On découvrait aisément dans son coeur,  
+Sous ces défauts, un certain fonds d'honneur.  
+
+    LISE.
+Il était né pour le bien, je l'avoue.  
+
+    MARTHE.
+Ne croyez pas que ma bouche le loue ;  
+Mais il n'était, me semble, point flatteur,  
+Point médisant, point escroc, point menteur.  
+
+    LISE.
+Oui ; mais...  
+
+    MARTHE.
+        Fuyons ; car c'est monsieur son frère.  
+
+    LISE.
+Il faut rester ; c'est un mal nécessaire.  
+
+
+## SCÈNE IV. Lise, Marthe, Le Président Fierenfat.
+
+    FIERENFAT.
+Je l'avouerai, cette donation  
+Doit augmenter la satisfaction  
+Que vous avez d'un si beau mariage.  
+Surcroît de biens est l'âme d'un ménage :  
+Fortune, honneurs, et dignités, je crois,  
+Abondamment se trouvent avec moi ;  
+Et vous aurez dans Cognac, à la ronde,  
+L'honneur du pas sur les gens du beau monde.  
+C'est un plaisir bien flatteur que cela :  
+Vous entendrez murmurer : « La voilà ! »  
+En vérité, quand j'examine au large  
+Mon rang, mon bien, tous les droits de ma charge,  
+Les agréments que dans le monde j'ai,  
+Les droits d'aînesse où je suis subrogé,  
+Je vous en fais mon compliment, madame.  
+
+    MARTHE.
+Moi, je la plains : c'est une chose infâme  
+Que vous mêliez dans tous vos entretiens  
+Vos qualités, votre rang, et vos biens.  
+Être à la fois et Midas et Narcisse,  
+Enflé d'orgueil et pincé d'avarice ;  
+Lorgner sans cesse avec un oeil content  
+Et sa personne et son argent comptant ;  
+Être en rabat un petit-maître avare,  
+C'est un excès de ridicule rare :  
+Un jeune fat passe encor ; mais, ma foi,  
+Un jeune avare est un monstre pour moi.  
+
+    FIERENFAT.
+Ce n'est pas vous probablement, ma mie,  
+À qui mon père aujourd'hui me marie ;  
+C'est à madame : ainsi donc, s'il vous plaît,  
+Prenez à nous un peu moins d'intérêt.  
+À Lise.
+
+Le silence est votre fait... Vous, madame,  
+Qui dans une heure ou deux serez ma femme,  
+Avant la nuit vous aurez la bonté  
+De me chasser ce gendarme effronté,  
+Qui, sous le nom d'une fille suivante,  
+Donne carrière à sa langue impudente.  
+Je ne suis pas un président pour rien ;  
+Et nous pourrions l'enfermer pour son bien.  
+
+    MARTHE À LISE.
+Défendez-moi, parlez-lui, parlez ferme :  
+Je suis à vous, empêchez qu'on m'enferme ;  
+Il pourrait bien vous enfermer aussi.  
+
+    LISE.
+J'augure mal déjà de tout ceci.  
+
+    MARTHE.
+Parlez-lui donc, laissez ces vains murmures.  
+
+    LISE.
+Que puis-je, hélas ! Lui dire ?  
+
+    MARTHE.
+        Des injures.  
+
+    LISE.
+Non, des raisons valent mieux.  
+
+    MARTHE.
+        Croyez-moi,  
+Point de raisons, c'est le plus sûr.  
+
+
+## SCÈNE V. Les Précédents, Rondon.
+
+    RONDON.
+        Ma foi !  
+Il nous arrive une plaisante affaire.  
+
+    FIERENFAT.
+Eh quoi, monsieur ?  
+
+    RONDON.
+        Écoute. A ton vieux père  
+J'allais porter notre papier timbré,  
+Quand nous l'avons ici près rencontré,  
+Entretenant au pied de cette roche  
+Un voyageur qui descendait du coche.  
+
+    LISE.
+Un voyageur jeune ?...  
+
+    RONDON.
+        Nenni vraiment,  
+Un béquillard, un vieux ridé sans dent.  
+Nos deux barbons, d'abord avec franchise  
+L'un contre l'autre ont mis leur barbe grise ;  
+Leurs dos voûtés s'élevaient, s'abaissaient  
+Aux longs élans des soupirs qu'ils poussaient ;  
+Et sur leur nez leur prunelle éraillée  
+Versait les pleurs dont elle était mouillée :  
+Puis Euphémon, d'un air tout rechigné,  
+Dans son logis soudain s'est rencogné :  
+Il dit qu'il sent une douleur insigne,  
+Qu'il faut au moins qu'il pleure avant qu'il signe,  
+Et qu'à personne il ne prétend parler.  
+
+    FIERENFAT.
+Ah ! Je prétends, moi, l'aller consoler.  
+Vous savez tous comme je le gouverne ;  
+Et d'assez près la chose nous concerne :  
+Je le connais ; et dès qu'il me verra  
+Contrat en main, d'abord il signera.  
+Le temps est cher, mon nouveau droit d'aînesse  
+Est un objet.  
+
+    LISE.
+        Non, monsieur, rien ne presse.  
+
+    RONDON.
+Si fait, tout presse ; et c'est ta faute aussi  
+Que tout cela.  
+
+    LISE.
+    Comment ? Moi ! Ma faute ?  
+
+    RONDON.
+        Oui.  
+Les contre-temps qui troublent les familles  
+Viennent toujours par la faute des filles.  
+
+    LISE.
+Qu'ai-je donc fait qui vous fâche si fort ?  
+
+    RONDON.
+Vous avez fait que vous avez tous tort.  
+Je veux un peu voir nos deux trouble-fêtes  
+À la raison ranger leurs lourdes têtes ;  
+Et je prétends vous marier tantôt,  
+Malgré leurs dents, malgré vous, s'il le faut.  
+
+
+# ACTE II.
+
+
+## SCÈNE I. Lise, Marthe.
+
+    MARTHE.
+Vous frémissez en voyant de plus près  
+Tout ce fracas, ces noces, ces apprêts.  
+
+    LISE.
+Ah ! Plus mon coeur s'étudie et s'essaie,  
+Plus de ce joug la pesanteur m'effraie :  
+À mon avis, l'hymen et ses liens  
+Sont les plus grands ou des maux ou des biens.  
+Point de milieu ; l'état du mariage  
+Est des humains le plus cher avantage  
+Quand le rapport des esprits et des coeurs,  
+Des sentiments, des goûts, et des humeurs,  
+Serre ces noeuds tissus par la nature,  
+Que l'amour forme et que l'honneur épure.  
+Dieux ! Quel plaisir d'aimer publiquement,  
+Et de porter le nom de son amant !  
+Votre maison, vos gens, votre livrée,  
+Tout vous retrace une image adorée ;  
+Et vos enfants, ces gages précieux,  
+Nés de l'amour, en sont de nouveaux noeuds.  
+Un tel hymen, une union si chère,  
+Si l'on en voit, c'est le ciel sur la terre.  
+Mais tristement vendre par un contrat  
+Sa liberté, son nom, et son état,  
+Aux volontés d'un maître despotique,  
+Dont on devient le premier domestique ;  
+Se quereller ou s'éviter le jour ;  
+Sans joie à table, et la nuit sans amour ;  
+Trembler toujours d'avoir une faiblesse,  
+Y succomber, ou combattre sans cesse ;  
+Tromper son maître, ou vivre sans espoir  
+Dans les langueurs d'un importun devoir ;  
+Gémir, sécher dans sa douleur profonde ;  
+Un tel hymen est l'enfer de ce monde.  
+
+    MARTHE.
+En vérité, les filles, comme on dit,  
+Ont un démon qui leur forme l'esprit :  
+Que de lumière en une âme si neuve !  
+La plus experte et la plus fine veuve,  
+Qui sagement se console à Paris  
+D'avoir porté le deuil de trois maris,  
+N'en eût pas dit sur ce point davantage.  
+Mais vos dégoûts sur ce beau mariage  
+Auraient besoin d'un éclaircissement.  
+L'hymen déplaît avec le président ;  
+Vous plairait-il avec monsieur son frère ?  
+Débrouillez-moi, de grâce, ce mystère :  
+L'aîné fait-il bien du tort au cadet ?  
+Haïssez-vous ? Aimez-vous ? Parlez net.  
+
+    LISE.
+Je n'en sais rien ; je ne puis et je n'ose  
+De mes dégoûts bien démêler la cause.  
+Comment chercher la triste vérité  
+Au fond d'un coeur, hélas ! Trop agité ?  
+Il faut au moins, pour se mirer dans l'onde,  
+Laisser calmer la tempête qui gronde,  
+Et que l'orage et les vents en repos  
+Ne rident plus la surface des eaux.  
+
+    MARTHE.
+Comparaison n'est pas raison, madame :  
+On lit très bien dans le fond de son âme,  
+On y voit clair et si les passions  
+Portent en nous tant d'agitations,  
+Fille de bien sait toujours dans sa tête  
+D'où vient le vent qui cause la tempête.  
+On sait...  
+
+    LISE.
+        Et moi, je ne veux rien savoir :  
+Mon oeil se ferme, et je ne veux rien voir :  
+Je ne veux point chercher si j'aime encore  
+Un malheureux qu'il faut bien que j'abhorre ;  
+Je ne veux point accroître mes dégoûts  
+Du vain regret d'un plus aimable époux.  
+Que loin de moi cet Euphémon, ce traître,  
+Vive content, soit heureux, s'il peut l'être ;  
+Qu'il ne soit pas au moins déshérité :  
+Je n'aurai pas l'affreuse dureté,  
+Dans ce contrat où je me détermine,  
+D'être sa soeur pour hâter sa ruine.  
+Voilà mon coeur ; c'est trop le pénétrer :  
+Aller plus loin serait le déchirer.  
+
+
+## SCÈNE II. Lise, Marthe, un laquais.
+
+    LE LAQUAIS.
+Là-bas, madame, il est une baronne  
+De Croupillac...  
+
+    LISE.
+        Sa visite m'étonne.  
+
+    LE LAQUAIS.
+Qui d'Angoulême arrive justement,  
+Et veut ici vous faire compliment.  
+
+    LISE.
+Hélas ! Sur quoi ?  
+
+    MARTHE.
+        Sur votre hymen, sans doute.  
+
+    LISE.
+Ah ! C'est encor tout ce que je redoute.  
+Suis-je en état d'entendre ces propos,  
+Ces compliments, protocole des sots,  
+Où l'on se gêne, où le bon sens expire  
+Dans le travail de parler sans rien dire ?  
+Que ce fardeau me pèse et me déplaît !  
+
+
+## SCÈNE III. Lise, Madame Croupillac, Marthe.
+
+    MARTHE.
+Voilà la dame.  
+
+    LISE.
+        Oh ! Je vois trop qui c'est.  
+
+    MARTHE.
+On dit qu'elle est assez grande épouseuse,  
+Un peu plaideuse, et beaucoup radoteuse.  
+
+    LISE.
+Des sièges donc. Madame, pardon si...  
+
+    MADAME CROUPILLAC.
+Ah ! Madame !  
+
+    LISE.
+    Eh ! Madame !  
+
+    MADAME CROUPILLAC.
+        Il faut aussi...  
+
+    LISE.
+S'asseoir, madame.  
+
+    MADAME CROUPILLAC, ASSISE.
+        En vérité, madame,  
+Je suis confuse ; et dans le fond de l'âme  
+Je voudrais bien...  
+
+    LISE.
+    Madame ?  
+
+    MADAME CROUPILLAC.
+        Je voudrais  
+Vous enlaidir, vous ôter vos attraits.  
+Je pleure, hélas ! Vous voyant si jolie.  
+
+    LISE.
+Consolez-vous, madame.  
+
+    MADAME CROUPILLAC.
+        Oh non, ma mie.  
+Je ne saurais ; je vois que vous aurez  
+Tous les maris que vous demanderez.  
+J'en avais un, du moins en espérance  
+(Un seul, hélas ! C'est bien peu, quand j'y pense),  
+Et j'avais eu grand'peine à le trouver ;  
+Vous me l'ôtez, vous allez m'en priver.  
+Il est un temps (Ah ! Que ce temps vient vite !)  
+Où j'en perd tout quand un amant nous quitte,  
+Où l'on est seule ; et certe il n'est pas bien  
+D'enlever tout à qui n'a presque rien.  
+
+    LISE.
+Excusez-moi si je suis interdite  
+De vos discours et de votre visite.  
+Quel accident afflige vos esprits ?  
+Qui perdez-vous ? Et qui vous ai-je pris ?  
+
+    MADAME CROUPILLAC.
+Ma chère enfant, il est force bégueules  
+Au teint ridé, qui pensent qu'elles seules,  
+Avec du fard et quelques fausses dents,  
+Fixent l'amour, les plaisirs, et le temps :  
+Pour mon malheur, hélas ! Je suis plus sage ;  
+Je vois trop bien que tout passe, et j'enrage.  
+
+    LISE.
+J'en suis fâchée, et tout est ainsi fait  
+Mais je ne puis vous rajeunir.  
+
+    MADAME CROUPILLAC.
+        Si fait ;  
+J'espère encore ; et ce serait peut-être  
+Me rajeunir que me rendre mon traître.  
+
+    LISE.
+Mais de quel traître ici me parlez-vous ?  
+
+    MADAME CROUPILLAC.
+D'un président, d'un ingrat, d'un époux,  
+Que je poursuis, pour qui je perds haleine,  
+Et sûrement qui n'en vaut pas la peine.  
+
+    LISE.
+Eh bien, madame ?  
+
+    MADAME CROUPILLAC.
+        Eh bien ! Dans mon printemps  
+Je ne parlais jamais aux présidents ;  
+Je haïssais leur personne et leur style ;  
+Mais avec l'âge on est moins difficile.  
+
+    LISE.
+Enfin, madame ?  
+
+    MADAME CROUPILLAC.
+        Enfin il faut savoir  
+Que vous m'avez réduite au désespoir.  
+
+    LISE.
+Comment ? En quoi ?  
+
+    MADAME CROUPILLAC.
+        J'étais dans Angoulême,  
+Veuve, et pouvant disposer de moi-même :  
+Dans Angoulême, en ce temps, Fierenfat  
+Étudiait, apprenti magistrat ;  
+Il me lorgnait ; il se mit dans la tête  
+Pour ma personne un amour malhonnête,  
+Bien malhonnête, hélas ! Bien outrageant ;  
+Car il faisait l'amour à mon argent.  
+Je fis écrire au bonhomme de père :  
+On s'entremit, on poussa loin l'affaire ;  
+Car en mon nom souvent on lui parla :  
+Il répondit qu'il verrait tout cela ;  
+Vous voyez bien que la chose était sûre.  
+
+    LISE.
+Oh, oui.  
+
+    MADAME CROUPILLAC.
+        Pour moi, j'étais prête à conclure.  
+De Fierenfat alors le frère aîné  
+À votre lit fut, dit-on, destiné.  
+
+    LISE.
+Quel souvenir !  
+
+    MADAME CROUPILLAC.
+        C'était un fou, ma chère,  
+Qui jouissait de l'honneur de vous plaire.  
+
+    LISE.
+Ah !  
+
+    MADAME CROUPILLAC.
+        Ce fou-là s'étant fort dérangé,  
+Et de son père ayant pris son congé,  
+Errant, proscrit, peut-être mort, que sais-je ?  
+(Vous vous troublez !) mon héros de collège,  
+Mon président, sachant que votre bien  
+Est, tout compté, plus ample que le mien,  
+Méprise enfin ma fortune et mes larmes :  
+De votre dot il convoite les charmes ;  
+Entre vos bras il est ce soir admis.  
+Mais pensez-vous qu'il vous soit bien permis  
+D'aller ainsi, courant de frère en frère,  
+Vous emparer d'une famille entière ?  
+Pour moi déjà, par protestation,  
+J'arrête ici la célébration ;  
+J'y mangerai mon château, mon douaire ;  
+Et le procès sera fait de manière  
+Que vous, son père, et les enfants que j'ai,  
+Nous serons morts avant qu'il soit jugé.  
+
+    LISE.
+En vérité je suis toute honteuse  
+Que mon hymen vous rende malheureuse ;  
+Je suis peu digne, hélas ! De ce courroux.  
+Sans être heureux on fait donc des jaloux !  
+Cessez, madame, avec un oeil d'envie  
+De regarder mon état et ma vie ;  
+On nous pourrait aisément accorder :  
+Pour un mari je ne veux point plaider.  
+
+    MADAME CROUPILLAC.
+Quoi ! Point plaider ?  
+
+    LISE.
+        Non : je vous l'abandonne.  
+
+    MADAME CROUPILLAC.
+Vous êtes donc sans goût pour sa personne ?  
+Vous n'aimez point ?  
+
+    LISE.
+        Je trouve peu d'attraits  
+Dans l'hyménée, et nul dans les procès.  
+
+
+## SCÈNE IV. Madame Croupillac, Lise, Rondon.
+
+    RONDON.
+Oh ! Oh ! Ma fille, on nous fait des affaires  
+Qui font dresser les cheveux aux beaux-pères !  
+On m'a parlé de protestation.  
+Eh ! Vertubleu ! Qu'on en parle à Rondon :  
+Je chasserai bien loin ces créatures.  
+
+    MADAME CROUPILLAC.
+Faut-il encore essuyer des injures ?  
+Monsieur Rondon, de grâce, écoutez-moi.  
+
+    RONDON.
+Que vous plaît-il ?  
+
+    MADAME CROUPILLAC.
+        Votre gendre est sans foi ;  
+C'est un fripon d'espèce toute neuve,  
+Galant avare, écornifleur de veuve ;  
+C'est de l'argent qu'il aime.  
+
+    RONDON.
+        Il a raison.  
+
+    MADAME CROUPILLAC.
+Il m'a cent fois promis dans ma maison  
+Un pur amour, d'éternelles tendresses.  
+
+    RONDON.
+Est-ce qu'on tient de semblables promesses ?  
+
+    MADAME CROUPILLAC.
+Il m'a quittée, hélas ! Si durement...  
+
+    RONDON.
+J'en aurais fait de bon coeur tout autant.  
+
+    MADAME CROUPILLAC.
+Je vais parler comme il faut à son père.  
+
+    RONDON.
+Ah ! Parlez-lui plutôt qu'à moi.  
+
+    MADAME CROUPILLAC.
+        L'affaire  
+Est effroyable, et le beau sexe entier  
+En ma faveur ira partout crier.  
+
+    RONDON.
+Il criera moins que vous.  
+
+    MADAME CROUPILLAC.
+        Ah ! Vos personnes  
+Sauront un peu ce qu'on doit aux baronnes.  
+
+    RONDON.
+On doit en rire.  
+
+    MADAME CROUPILLAC.
+        Il me faut un époux ;  
+Et je prendrai lui, son vieux père, ou vous.  
+
+    RONDON.
+Qui, moi ?  
+
+    MADAME CROUPILLAC.
+    Vous-même.  
+
+    RONDON.
+        Oh ! Je vous en défie.  
+
+    MADAME CROUPILLAC.
+Nous plaiderons.  
+
+    RONDON.
+        Mais voyez la folie !  
+
+
+## SCÈNE V. Rondon, Fierenfat, Lise.
+
+    RONDON À LISE.
+Je voudrais bien savoir aussi pourquoi  
+Vous recevez ces visites chez moi ?  
+Vous m'attirez toujours des algarades.  
+À Fierenfat.
+
+Et vous, monsieur, le roi des pédants fades,  
+Quel sot démon vous force à courtiser  
+Une baronne afin de l'abuser ?  
+C'est bien à vous, avec ce plat visage,  
+De vous donner des airs d'être volage !  
+Il vous sied bien, grave et triste indolent,  
+De vous mêler du métier de galant !  
+C'était le fait de votre fou de frère ;  
+Mais vous, mais vous !  
+
+    FIERENFAT.
+        Détrompez-vous, beau-père,  
+Je n'ai jamais requis cette union :  
+Je ne promis que sous condition,  
+Me réservant toujours an fond de l'âme  
+Le droit de prendre une plus riche femme.  
+De mon aîné l'exhérédation,  
+Et tous ses biens en ma possession,  
+À votre fille enfin m'ont fait prétendre :  
+Argent comptant fait et beau-père et gendre.  
+
+    RONDON.
+Il a raison, ma foi ! J'en suis d'accord.  
+
+    LISE.
+Avoir ainsi raison, c'est un grand tort.  
+
+    RONDON.
+L'argent fait tout : va, c'est chose très sure.  
+Hâtons-nous donc sur ce pied de conclure.  
+D'écus tournois soixante pesants sacs  
+Finiront tout, malgré les Croupillacs.  
+Qu'Euphémon tarde, et qu'il me désespère !  
+Signons toujours avant lui.  
+
+    LISE.
+        Non, mon père ;  
+Je fais aussi mes protestations,  
+Et je me donne à des conditions.  
+
+    RONDON.
+Conditions, toi ? Quelle impertinence !  
+Tu dis, tu dis ?...  
+
+    LISE.
+        Je dis ce que je pense.  
+Peut-on goûter le bonheur odieux  
+De se nourrir des pleurs d'un malheureux ?  
+À Fierenfat.
+
+Et vous, monsieur, dans votre sort prospère,  
+Oubliez-vous que vous avez un frère ?  
+
+    FIERENFAT.
+Mon frère ? Moi, je ne l'ai jamais vu ;  
+Et du logis il était disparu  
+Lorsque j'étais encor dans notre école,  
+Le nez collé sur Cujas et Barthole.  
+J'ai su depuis ses beaux déportements ;  
+Et si jamais il reparaît céans,  
+Consolez-vous, nous savons les affaires,  
+Nous l'enverrons en douceur aux galères.  
+
+    LISE.
+C'est un projet fraternel et chrétien.  
+En attendant, vous confisquez son bien :  
+C'est votre avis ; mais moi, je vous déclare  
+Que je déteste un tel projet.  
+
+    RONDON.
+        Tarare.  
+Va, mon enfant, le contrat est dressé ;  
+Sur tout cela le notaire a passé.  
+
+    FIERENFAT.
+Nos pères l'ont ordonné de la sorte ;  
+En droit écrit leur volonté l'emporte.  
+Lisez Cujas, chapitres cinq, six, sept :  
+"Tout libertin de débauches infect,  
+Qui, renonçant à l'aile paternelle,  
+Fuit la maison, ou bien qui pille icelle,  
+Ipso facto, de tout dépossédé,  
+Comme un bâtard il est exhérédé."  
+
+    LISE.
+Je ne connais le droit ni la coutume ;  
+Je n'ai point lu Cujas, mais je présume  
+Que ce sont tous de malhonnêtes gens,  
+Vrais ennemis du coeur et du bon sens,  
+Si dans leur code ils ordonnent qu'un frère  
+Laisse périr son frère de misère ;  
+Et la nature et l'honneur ont leurs droits,  
+Qui valent mieux que Cujas et vos lois.  
+
+    RONDON.
+Ah ! Laissez là vos lois et votre code,  
+Et votre honneur, et faites à ma mode ;  
+De cet aîné que t'embarrasses-tu ?  
+Il faut du bien.  
+
+    LISE.
+        Il faut de la vertu.  
+Qu'il soit puni, mais au moins qu'on lui laisse  
+Un peu de bien, reste d'un droit d'aînesse.  
+Je vous le dis, ma main ni mes faveurs  
+Ne seront point le prix de ses malheurs.  
+Corrigez donc l'article que j'abhorre  
+Dans ce contrat, qui tous nous déshonore :  
+Si l'intérêt ainsi l'a pu dresser,  
+C'est un opprobre : il le faut effacer.  
+
+    FIERENFAT.
+Ah ! Qu'une femme entend mal les affaires !  
+
+    RONDON.
+Quoi ! Tu voudrais corriger deux notaires ?  
+Faire changer un contrat ?  
+
+    LISE.
+        Pourquoi non ?  
+
+    RONDON.
+Tu ne feras jamais bonne maison ;  
+Tu perdras tout.  
+
+    LISE.
+        Je n'ai pas grand usage,  
+Jusqu'à présent, du monde et du ménage ;  
+Mais l'intérêt (mon coeur vous le maintient)  
+Perd des maisons autant qu'il en soutient.  
+Si j'en fais une, au moins cet édifice  
+Sera d'abord fondé sur la justice.  
+
+    RONDON.
+Elle est têtue, et, pour la contenter,  
+Allons, mon gendre, il faut s'exécuter :  
+Çà, donne un peu.  
+
+    FIERENFAT.
+        Oui, je donne à mon frère...  
+Je donne... allons...  
+
+    RONDON.
+        Ne lui donne donc guère.  
+
+
+## SCÈNE VI. Euphémon, Rondon, Lise, Fierenfat.
+
+    RONDON.
+Ah ! Le voici, le bonhomme Euphémon.  
+Viens, viens, j'ai mis ma fille à la raison.  
+On n'attend plus rien que ta signature ;  
+Presse-moi donc cette tardive allure :  
+Dégourdis-toi, prends un ton réjoui,  
+Un air de noce, un front épanoui ;  
+Car dans neuf mois je veux, ne te déplaise,  
+Que deux enfants... Je ne me sens pas d'aise.  
+Allons, ris donc, chassons tous les ennuis ;  
+Signons, signons.  
+
+    EUPHÉMON.
+        Non, monsieur, je ne puis.  
+
+    FIERENFAT.
+Vous ne pouvez ?  
+
+    RONDON.
+        En voici bien d'une autre.  
+
+    FIERENFAT.
+Quelle raison ?  
+
+    RONDON.
+        Quelle rage est la vôtre ?  
+Quoi ! Tout le monde est-il devenu fou ?  
+Chacun dit non : comment ? Pourquoi ? Par où ?  
+
+    EUPHÉMON.
+Ah ! Ce serait outrager la nature  
+Que de signer dans cette conjoncture.  
+
+    RONDON.
+Serait-ce point la dame Croupillac  
+Qui sourdement fait ce maudit micmac ?  
+
+    EUPHÉMON.
+Non, cette femme est folle, et dans sa tête  
+Elle veut rompre un hymen que j'apprête :  
+Mais ce n'est pas de ses cris impuissants  
+Que sont venus les ennuis que je sens.  
+
+    RONDON.
+Eh bien ! Quoi donc ? Ce béquillard du coche  
+Dérange tout, et notre affaire accroche ?  
+
+    EUPHÉMON.
+Ce qu'il a dit doit retarder du moins  
+L'heureux hymen, objet de tant de soins.  
+
+    LISE.
+Qu'a-t-il donc dit, monsieur ?  
+
+    FIERENFAT.
+        Quelle nouvelle  
+A-t-il apprise ?  
+
+    EUPHÉMON.
+        Une, hélas ! Trop cruelle.  
+Devers Bordeaux cet homme a vu mon fils,  
+Dans les prisons, sans secours, sans habits,  
+Mourant de faim ; la honte et la tristesse  
+Vers le tombeau conduisaient sa jeunesse ;  
+La maladie et l'excès du malheur  
+De son printemps avaient séché la fleur ;  
+Et dans son sang la fièvre enracinée  
+Précipitait sa dernière journée.  
+Quand il le vit, il était expirant :  
+Sans doute, hélas ! Il est mort à présent.  
+
+    RONDON.
+Voilà, ma foi, sa pension payée.  
+
+    LISE.
+Il serait mort !  
+
+    RONDON.
+        N'en sois point effrayée ;  
+Va, que t'importe ?  
+
+    FIERENFAT.
+        Ah ! Monsieur, la pâleur  
+De son visage efface la couleur.  
+
+    RONDON.
+Elle est, ma foi, sensible : ah ! La friponne !  
+Puisqu'il est mort, allons, je te pardonne.  
+
+    FIERENFAT.
+Mais après tout, mon père, voulez-vous... ?  
+
+    EUPHÉMON.
+Ne craignez rien, vous serez son époux :  
+C'est mon bonheur. Mais il serait atroce  
+Qu'un jour de deuil devînt un jour de noce.  
+Puis-je, mon fils, mêler à ce festin  
+Le contre-temps de mon juste chagrin,  
+Et sur vos fronts parés de fleurs nouvelles  
+Laisser couler mes larmes paternelles ?  
+Donnez, mon fils, ce jour à nos soupirs,  
+Et différez l'heure de vos plaisirs  
+Par une joie indiscrète, insensée,  
+L'honnêteté serait trop offensée.  
+
+    LISE.
+Ah ! Oui, monsieur, j'approuve vos douleurs ;  
+Il m'est plus doux de partager vos pleurs  
+Que de former les noeuds du mariage.  
+
+    FIERENFAT.
+Eh ! Mais, mon père...  
+
+    RONDON.
+        Eh ! Vous n'êtes pas sage.  
+Quoi ! Différer un hymen projeté,  
+Pour un ingrat cent fois déshérité,  
+Maudit de vous, de sa famille entière !  
+
+    EUPHÉMON.
+Dans ces moments un père est toujours père :  
+Ses attentats et toutes ses erreurs  
+Furent toujours le sujet de mes pleurs ;  
+Et ce qui pèse à mon âme attendrie,  
+C'est qu'il est mort sans réparer sa vie.  
+
+    RONDON.
+Réparons-la ; donnons-nous aujourd'hui  
+Des petits-fils qui vaillent mieux que lui :  
+Signons, dansons, allons. Que de faiblesse !  
+
+    EUPHÉMON.
+Mais...  
+
+    RONDON.
+        Mais, morbleu ! Ce procédé me blesse :  
+De regretter même le plus grand bien,  
+C'est fort mal fait : douleur n'est bonne à rien ;  
+Mais regretter le fardeau qu'on vous ôte,  
+C'est une énorme et ridicule faute.  
+Ce fils aîné, ce fils, votre fléau,  
+Vous mit trois fois sur le bord du tombeau.  
+Pauvre cher homme ! Allez, sa frénésie  
+Eût tôt ou tard abrégé votre vie.  
+Soyez tranquille, et suivez mes avis ;  
+C'est un grand gain que de perdre un tel fils.  
+
+    EUPHÉMON.
+Oui, mais ce gain coûte plus qu'on ne pense ;  
+Je pleure, hélas ! Sa mort et sa naissance.  
+
+    RONDON, À FIERENFAT.
+Va, suis ton père, et sois expéditif ;  
+Prends ce contrat ; le mort saisit le vif.  
+Il n'est plus temps qu'avec moi l'on barguigne  
+Prends-lui la main, qu'il parafe et qu'il signe.  
+À Lise.
+
+Et toi, ma fille, attendons à ce soir :  
+Tout ira bien.  
+
+    LISE.
+        Je suis au désespoir.  
+
+
+# ACTE III.
+
+
+## SCÈNE I. Euphémon Fils, Jasmin.
+
+    JASMIN.
+Oui, mon ami, tu fus jadis mon maître ;  
+Je t'ai servi deux ans sans te connaître ;  
+Ainsi que moi réduit à l'hôpital,  
+Ta pauvreté m'a rendu ton égal.  
+Non, tu n'es plus ce monsieur d'Entremonde,  
+Ce chevalier si pimpant dans le monde,  
+Fêté, couru, de femmes entouré,  
+Nonchalamment de plaisirs enivré :  
+Tout est au diable. Éteins dans ta mémoire  
+Ces vains regrets des beaux jours de ta gloire :  
+Sur du fumier l'orgueil est un abus ;  
+Le souvenir d'un bonheur qui n'est plus  
+Est à nos maux un poids insupportable.  
+Toujours Jasmin, j'en suis moins misérable :  
+Né pour souffrir, je sais souffrir gaîment ;  
+Manquer de tout, voilà mon élément :  
+Ton vieux chapeau, tes guenilles de bure,  
+Dont tu rougis, c'était là ma parure.  
+Tu dois avoir, ma foi, bien du chagrin  
+De n'avoir pas été toujours Jasmin.  
+
+    EUPHÉMON FILS.
+Que la misère entraîne d'infâmie !  
+Faut-il encor qu'un valet m'humilie ?  
+Quelle accablante et terrible leçon !  
+Je sens encor, je sens qu'il a raison.  
+Il me console au moins à sa manière ;  
+Il m'accompagne, et son âme grossière,  
+Sensible et tendre en sa rusticité,  
+N'a point pour moi perdu l'humanité ;  
+Né mon égal (puisqu'enfin il est homme),  
+Il me soutient sous le poids qui m'assomme,  
+Il suit gaîment mon sort infortuné ;  
+Et mes amis m'ont tous abandonné.  
+
+    JASMIN.
+Toi, des amis ! Hélas ! Mon pauvre maître,  
+Apprends-moi donc, de grâce, à les connaître ;  
+Comment sont faits les gens qu'on nomme amis !  
+
+    EUPHÉMON FILS.
+Tu les as vus chez moi toujours admis,  
+M'importunant souvent de leurs visites,  
+À mes soupers délicats parasites,  
+Vantant mes goûts d'un esprit complaisant,  
+Et sur le tout empruntant mon argent ;  
+De leur bon coeur m'étourdissant la tête,  
+Et me louant moi présent.  
+
+    JASMIN.
+        Pauvre bête !  
+Pauvre innocent ! Tu ne les voyais pas  
+Te chansonner au sortir d'un repas ;  
+Siffler, berner ta bénigne imprudence ?  
+
+    EUPHÉMON FILS.
+Ah ! Je le crois ; car, dans ma décadence,  
+Lorsqu'à Bordeaux je me vis arrêté,  
+Aucun de ceux à qui j'ai tout prêté  
+Ne me vint voir ; nul ne m'offrit sa bourse :  
+Puis au sortir, malade et sans ressource,  
+Lorsqu'à l'un d'eux, que j'avais tant aimé,  
+J'allai m'offrir mourant, inanimé,  
+Sous ces haillons, dépouilles délabrées,  
+De l'indigence exécrables livrées ;  
+Quand je lui vins demander un secours  
+D'où dépendaient mes misérables jours,  
+Il détourna son oeil confus et traître,  
+Puis il feignit de ne me pas connaître,  
+Et me chassa comme un pauvre importun.  
+
+    JASMIN.
+Aucun n'osa te consoler ?  
+
+    EUPHÉMON FILS.
+        Aucun.  
+
+    JASMIN.
+Ah, les amis ! Les amis ! Quels infâmes !  
+
+    EUPHÉMON FILS.
+Les hommes sont tous de fer.  
+
+    JASMIN.
+        Et les femmes ?  
+
+    EUPHÉMON FILS.
+J'en attendais, hélas ! Plus de douceur ;  
+J'en ai cent fois essuyé plus d'horreur.  
+Celle surtout qui, m'aimant sans mystère,  
+Semblait placer son orgueil à me plaire,  
+Dans son logis, meublé de mes présents,  
+De mes bienfaits achetait des amants,  
+Et de mon vin régalait leur cohue  
+Lorsque de faim j'expirais dans sa rue.  
+Enfin, Jasmin, sans ce pauvre vieillard  
+Qui dans Bordeaux me trouva par hasard,  
+Qui m'avait vu, dit-il, dans mon enfance,  
+Une mort prompte eût fini ma souffrance.  
+Mais en quel lieu sommes-nous, cher Jasmin ?  
+
+    JASMIN.
+Près de Cognac, si je sais mon chemin ;  
+Et l'on m'a dit que mon vieux premier maître,  
+Monsieur Rondon, loge en ces lieux peut-être.  
+
+    EUPHÉMON FILS.
+Rondon, le père de... Quel nom dis-tu ?  
+
+    JASMIN.
+Le nom d'un homme assez brusque et bourru.  
+Je fus jadis page dans sa cuisine ;  
+Mais, dominé d'une humeur libertine,  
+Je voyageai : je fus depuis coureur,  
+Laquais, commis, fantassin, déserteur ;  
+Puis dans Bordeaux je te pris pour mon maître.  
+De moi Rondon se souviendra peut-être ;  
+Et nous pourrions, dans notre adversité...  
+
+    EUPHÉMON FILS.
+Et depuis quand, dis-moi, l'as-tu quitté ?  
+
+    JASMIN.
+Depuis quinze ans. C'était un caractère  
+Moitié plaisant, moitié triste et colère ;  
+Au fond, bon diable : il avait un enfant,  
+Un vrai bijou, fille unique vraiment,  
+Oeil bleu, nez court, teint frais, bouche vermeille,  
+Et des raisons ! C'était une merveille.  
+Cela pouvait bien avoir de mon temps,  
+À bien compter, entre six à sept ans ;  
+Et cette fleur, avec l'âge embellie,  
+Est en état, ma foi ! D'être cueillie.  
+
+    EUPHÉMON FILS.
+Ah, malheureux !  
+
+    JASMIN.
+        Mais j'ai beau te parler,  
+Ce que je dis ne te peut consoler :  
+Je vois toujours à travers ta visière  
+Tomber des pleurs qui bordent ta paupière.  
+
+    EUPHÉMON FILS.
+Quel coup du sort, ou quel ordre des cieux  
+A pu guider ma misère en ces lieux ?  
+Hélas !  
+
+    JASMIN.
+        Ton oeil contemple ces demeures ;  
+Tu restes là tout pensif, et tu pleures.  
+
+    EUPHÉMON FILS.
+J'en ai sujet.  
+
+    JASMIN.
+        Mais connais-tu Rondon ?  
+Serais-tu pas parent de la maison ?  
+
+    EUPHÉMON FILS.
+Ah ! Laisse-moi.  
+
+    JASMIN, EN L’EMBRASSANT.
+        Par charité, mon maître,  
+Mon cher ami, dis-moi qui tu peux être.  
+
+    EUPHÉMON FILS, EN PLEURANT.
+Je suis... je suis un malheureux mortel,  
+Je suis un fou, je suis un criminel,  
+Qu'on doit haïr, que le ciel doit poursuivre,  
+Et qui devrait être mort.  
+
+    JASMIN.
+        Songe à vivre ;  
+Mourir de faim est par trop rigoureux :  
+Tiens, nous avons quatre mains à nous deux ;  
+Servons-nous-en sans complainte importune.  
+Vois-tu d'ici ces gens dont la fortune  
+Est dans leurs bras, qui, la bêche à la main,  
+Le dos courbé, retournent ce jardin  
+Enrôlons-nous parmi cette canaille ;  
+Viens avec eux, imite-les, travaille,  
+Gagne ta vie.  
+
+    EUPHÉMON FILS.
+        Hélas ! Dans leurs travaux,  
+Ces vils humains, moins hommes qu'animaux,  
+Goûtent des biens dont toujours mes caprices  
+M'avaient privé dans mes fausses délices ;  
+Ils ont au moins, sans trouble, sans remords,  
+La paix de l'âme et la santé du corps.  
+
+
+## SCÈNE II. Madame Croupillac, Euphémon Fils, Jasmin.
+
+    MADAME CROUPILLAC, DANS L’ENFONCEMENT.
+Que vois-je ici ? Serais-je aveugle ou borgne ?  
+C'est lui, ma foi ! Plus j'avise et je lorgne  
+Cet homme-là, plus je dis que c'est lui.  
+Elle le considère.
+
+Mais ce n'est plus le même homme aujourd'hui.  
+Ce cavalier brillant dans Angoulême,  
+Jouant gros jeu, cousu d'or... c'est lui-même.  
+Elle s'approche d'Euphémon.
+
+Mais l'autre était riche, heureux, beau, bien fait,  
+Et celui-ci me semble pauvre et laid.  
+La maladie altère un beau visage ;  
+La pauvreté change encor davantage.  
+
+    JASMIN.
+Mais pourquoi donc ce spectre féminin  
+Nous poursuit-il de son regard malin ?  
+
+    EUPHÉMON FILS.
+Je la connais, hélas ! Ou je me trompe ;  
+Elle m'a vu dans l'éclat, dans la pompe.  
+Il est affreux d'être ainsi dépouillé  
+Aux mêmes yeux auxquels on a brillé.  
+Sortons.  
+
+    MADAME CROUPILLAC, S’AVANÇANT VERS EUPHÉMON FILS.
+        Mon fils, quelle étrange aventure  
+T'a donc réduit en si piètre posture ?  
+
+    EUPHÉMON FILS.
+Ma faute.  
+
+    MADAME CROUPILLAC.
+        Hélas ! Comme te voilà mis !  
+
+    JASMIN.
+C'est pour avoir eu d'excellents amis,  
+C'est pour avoir été volé, madame.  
+
+    MADAME CROUPILLAC.
+Volé ! Par qui ? Comment ?  
+
+    JASMIN.
+        Par bonté d'âme.  
+Nos voleurs sont de très honnêtes gens,  
+Gens du beau monde, aimables fainéants,  
+Buveurs, joueurs, et conteurs agréables,  
+Des gens d'esprit, des femmes adorables.  
+
+    MADAME CROUPILLAC.
+J'entends, j'entends, vous avez tout mangé ;  
+Mais vous serez cent fois plus affligé  
+Quand vous saurez les excessives pertes  
+Qu'en fait d'hymen j'ai depuis peu souffertes.  
+
+    EUPHÉMON FILS.
+Adieu, madame.  
+
+    MADAME CROUPILLAC, L’ARRÊTANT.
+        Adieu ! Non, tu sauras  
+Mon accident ; parbleu ! Tu me plaindras.  
+
+    EUPHÉMON FILS.
+Soit, je vous plains ; adieu.  
+
+    MADAME CROUPILLAC.
+        Non, je te jure  
+Que tu sauras toute mon aventure.  
+Un Fierenfat, robin de son métier,  
+Vint avec moi connaissance lier,  
+Elle court après lui.
+
+Dans Angoulême, au temps où vous battîtes  
+Quatre huissiers, et la fuite vous prîtes.  
+Ce Fierenfat habite en ce canton  
+Avec son père, un seigneur Euphémon.  
+
+    EUPHÉMON FILS, REVENANT.
+Euphémon ?  
+
+    MADAME CROUPILLAC.
+    Oui.  
+
+    EUPHÉMON FILS.
+        Ciel ! Madame, de grâce,  
+Cet Euphémon, cet honneur de sa race,  
+Que ses vertus ont rendu si fameux,  
+Serait...  
+
+    MADAME CROUPILLAC.
+    Eh oui.  
+
+    EUPHÉMON FILS.
+        Quoi ! Dans ces mêmes lieux ?  
+
+    MADAME CROUPILLAC.
+Oui.  
+
+    EUPHÉMON FILS.
+        Puis-je au moins savoir... comme il se porte ?  
+
+    MADAME CROUPILLAC.
+Fort bien, je crois... Que diable vous importe ?  
+
+    EUPHÉMON FILS.
+Et que dit-on... ?  
+
+    MADAME CROUPILLAC.
+    De qui ?  
+
+    EUPHÉMON FILS.
+        D'un fils aîné  
+Qu'il eut jadis ?  
+
+    MADAME CROUPILLAC.
+        Ah ! C'est un fils mal né,  
+Un garnement, une tête légère,  
+Un fou fieffé, le fléau de son père,  
+Depuis longtemps de débauches perdu,  
+Et qui peut-être est à présent pendu.  
+
+    EUPHÉMON FILS.
+En vérité...je suis confus dans l'âme  
+De vous avoir interrompu, madame.  
+
+    MADAME CROUPILLAC.
+Poursuivons donc. Fierenfat, son cadet,  
+Chez moi l'amour hautement me faisait ;  
+Il me devait avoir par mariage.  
+
+    EUPHÉMON FILS.
+Eh bien ! A-t-il ce bonheur en partage ?  
+Est-il à vous ?  
+
+    MADAME CROUPILLAC.
+        Non, ce fat engraissé  
+De tout le lot de son frère insensé,  
+Devenu riche, et voulant l'être encore.  
+Rompt aujourd'hui cet hymen qui l'honore.  
+Il veut saisir la fille d'un Rondon,  
+D'un plat bourgeois, le coq de ce canton.  
+
+    EUPHÉMON FILS.
+Que dites-vous ? Quoi ! Madame, il l'épouse ?  
+
+    MADAME CROUPILLAC.
+Vous m'en voyez terriblement jalouse.  
+
+    EUPHÉMON FILS.
+Ce jeune objet aimable..., dont Jasmin  
+M'a tantôt fait un portrait si divin,  
+Se donnerait...  
+
+    JASMIN.
+        Quelle rage est la vôtre !  
+Autant lui vaut ce mari-là qu'un autre.  
+Quel diable d'homme ! Il s'afflige de tout.  
+
+    EUPHÉMON FILS, À PART.
+Ce coup a mis ma patience à bout.  
+À Mme Croupillac.
+
+Ne doutez point que mon coeur ne partage  
+Amèrement un si sensible outrage :  
+Si j'étais cru, cette Lise aujourd'hui  
+Assurément ne serait pas pour lui.  
+
+    MADAME CROUPILLAC.
+Oh ! Tu le prends du ton qu'il le faut prendre :  
+Tu plains mon sort, un gueux est toujours tendre ;  
+Tu paraissais bien moins compatissant  
+Quand tu roulais sur l'or et sur l'argent :  
+Écoute ; on peut s'entr'aider dans la vie.  
+
+    JASMIN.
+Aidez-nous donc, madame, je vous prie.  
+
+    MADAME CROUPILLAC.
+Je veux ici te faire agir pour moi.  
+
+    EUPHÉMON FILS.
+Moi, vous servir ! Hélas ! Madame, en quoi ?  
+
+    MADAME CROUPILLAC.
+En tout. Il faut prendre en main mon injure :  
+Un autre habit, quelque peu de parure,  
+Te pourraient rendre encore assez joli.  
+Ton esprit est insinuant, poli ;  
+Tu connais l'art d'empaumer une fille ;  
+Introduis-toi, mon cher, dans la famille ;  
+Fais le flatteur auprès de Fierenfat ;  
+Vante son bien, son esprit, son rabat ;  
+Sois en faveur ; et lorsque je proteste  
+Contre son vol, toi, mon cher, fais le reste ;  
+Je veux gagner du temps en protestant.  
+
+    EUPHÉMON, VOYANT SON FILS.
+Que vois-je ? Ô ciel !  
+Il s'enfuit.
+
+
+    MADAME CROUPILLAC.
+        Cet homme est fou, vraiment :  
+Pourquoi s'enfuir ?  
+
+    JASMIN.
+        C'est qu'il vous craint, sans doute.  
+
+    MADAME CROUPILLAC.
+Poltron, demeure, arrête, écoute, écoute.  
+
+
+## SCÈNE III. Euphémon Père, Jasmin.
+
+    EUPHÉMON.
+Je l'avouerai, cet aspect imprévu  
+D'un malheureux avec peine entrevu  
+Porte à mon coeur je ne sais quelle atteinte  
+Qui me remplit d'amertume et de crainte :  
+Il a l'air noble, et même certains traits  
+Qui m'ont touché : las ! Je ne vois jamais  
+De malheureux à peu près de cet âge,  
+Que de mon fils la douloureuse image  
+Ne vienne alors, par un retour cruel,  
+Persécuter ce coeur trop paternel.  
+Mon fils est mort, ou vit dans la misère,  
+Dans la débauche, et fait honte à son père.  
+De tous côtés je suis bien malheureux !  
+J'ai deux enfants, ils m'accablent tous deux :  
+L'un, par sa perte et par sa vie infâme,  
+Fait mon supplice et déchire mon âme ;  
+L'autre en abuse : il sent trop que sur lui  
+De mes vieux ans j'ai fondé tout l'appui.  
+Pour moi la vie est un poids qui m'accable.  
+Apercevant Jasmin qui le salue.
+
+Que me veux-tu, l'ami ?  
+
+    JASMIN.
+        Seigneur aimable,  
+Reconnaissez, digne et noble Euphémon,  
+Certain Jasmin élevé chez Rondon.  
+
+    EUPHÉMON.
+Ah ! Ah ! C'est toi ? Le temps change un visage ;  
+Et mon front chauve en sent le long outrage.  
+Quand tu partis, tu me vis encor frais ;  
+Mais l'âge avance, et le terme est bien près.  
+Tu reviens donc enfin dans ta patrie ?  
+
+    JASMIN.
+Oui, je suis las de tourmenter ma vie,  
+De vivre errant et damné comme un juif :  
+Le bonheur semble un être fugitif :  
+Le diable enfin, qui toujours me promène,  
+Me fit partir ; le diable me ramène.  
+
+    EUPHÉMON.
+Je t'aiderai : sois sage, si tu peux.  
+Mais quel était cet autre malheureux  
+Qui te parlait dans cette promenade,  
+Qui s'est enfui ?  
+
+    JASMIN.
+        Mais... c'est mon camarade,  
+Un pauvre hère, affamé comme moi,  
+Qui, n'ayant rien, cherche aussi de l'emploi.  
+
+    EUPHÉMON.
+On peut tous deux vous occuper peut-être.  
+A-t-il des moeurs ? Est-il sage ?  
+
+    JASMIN.
+        Il doit l'être.  
+Je lui connais d'assez bons sentiments ;  
+Il a, de plus, de fort jolis talents ;  
+Il sait écrire, il sait l'arithmétique,  
+Dessine un peu, sait un peu de musique :  
+Ce drôle-là fut très bien élevé.  
+
+    EUPHÉMON.
+S'il est ainsi, son poste est tout trouvé.  
+Jasmin, mon fils deviendra votre maître :  
+Il se marie, et dès ce soir peut-être ;  
+Avec son bien son train doit augmenter.  
+Un de ses gens qui vient de le quitter  
+Vous laisse encore une place vacante :  
+Tous deux ce soir il faut qu'on vous présente ;  
+Vous le verrez chez Rondon, mon voisin ;  
+J'en parlerai. J'y vais : adieu, Jasmin ;  
+En attendant, tiens, voici de quoi boire.  
+
+
+## SCÈNE IV.
+
+    JASMIN, SEUL.
+Ah, l'honnête homme ! Ô ciel ! Pourrait-on croire  
+Qu'il soit encore, en ce siècle félon,  
+Un coeur si droit, un mortel aussi bon ?  
+Cet air, ce port, cette âme bienfaisante  
+Du bon vieux temps est l'image parlante.  
+
+
+## SCÈNE V. Euphémon Fils revenant, Jasmin.
+
+    JASMIN, EN L’EMBRASSANT.
+Je t'ai trouvé déjà condition,  
+Et nous serons laquais chez Euphémon.  
+
+    EUPHÉMON FILS.
+Ah !  
+
+    JASMIN.
+        S'il te plaît, quel excès de surprise ?  
+Pourquoi ces yeux de gens qu'on exorcise,  
+Et ces sanglots coup sur coup redoublés,  
+Pressant tes mots au passage étranglés ?  
+
+    EUPHÉMON FILS.
+Ah ! Je ne puis contenir ma tendresse ;  
+Je cède au trouble, au remords qui me presse.  
+
+    JASMIN.
+Qu'a-t-elle dit qui fait tant agité ?  
+
+    EUPHÉMON FILS.
+Elle m'a dit... Je n'ai rien écouté.  
+
+    JASMIN.
+Qu'avez-vous donc ?  
+
+    EUPHÉMON FILS.
+        Mon coeur ne peut se taire :  
+Cet Euphémon...  
+
+    JASMIN.
+    Eh bien ?  
+
+    EUPHÉMON FILS.
+        Ah !... c'est mon père.  
+
+    JASMIN.
+Qui ? Lui, monsieur ?  
+
+    EUPHÉMON FILS.
+        Oui, je suis cet aîné,  
+Ce criminel, et cet infortuné,  
+Qui désola sa famille éperdue.  
+Ah ! Que mon coeur palpitait à sa vue !  
+Qu'il lui portait ses voeux humiliés !  
+Que j'étais prêt de tomber à ses pieds !  
+
+    JASMIN.
+Qui ? Vous, son fils ? Ah ! Pardonnez, de grâce,  
+Ma familière et ridicule audace ;  
+Pardon, monsieur.  
+
+    EUPHÉMON FILS.
+        Va, mon coeur oppressé  
+Peut-il savoir si tu m'as offensé ?  
+
+    JASMIN.
+Vous êtes fils d'un homme qu'on admire,  
+D'un homme unique ; et, s'il faut tout vous dire,  
+D'Euphémon fils la réputation  
+Ne flaire pas à beaucoup près si bon.  
+
+    EUPHÉMON FILS.
+Et c'est aussi ce qui me désespère.  
+Mais réponds-moi ; que te disait mon père ?  
+
+    JASMIN.
+Moi, je disais que nous étions tous deux  
+Prêts à servir, bien élevés, très gueux ;  
+Et lui, plaignant nos destins sympathiques,  
+Nous recevait tous deux pour domestiques.  
+Il doit ce soir vous placer chez ce fils,  
+Ce président à Lise tant promis,  
+Ce président, votre fortuné frère,  
+De qui Rondon doit être le beau-père.  
+
+    EUPHÉMON FILS.
+Eh bien ! Il faut développer mon coeur.  
+Vois tous mes maux, connais leur profondeur ;  
+S'être attiré, par un tissu de crimes,  
+D'un père aimé les fureurs légitimes,  
+Être maudit, être déshérité,  
+Sentir l'horreur de la mendicité,  
+À mon cadet voir passer ma fortune,  
+Être exposé, dans ma honte importune,  
+À le servir, quand il m'a tout ôté ;  
+Voilà mon sort : je l'ai bien mérité.  
+Mais croirais-tu qu'au sein de la souffrance,  
+Mort aux plaisirs, et mort à l'espérance,  
+Haï du monde, et méprisé de tous,  
+N'attendant rien, j'ose être encor jaloux ?  
+
+    JASMIN.
+Jaloux ! De qui ?  
+
+    EUPHÉMON FILS.
+        De mon frère, de Lise.  
+
+    JASMIN.
+Vous sentiriez un peu de convoitise  
+Pour votre soeur ? Mais vraiment c'est un trait  
+Digne de vous ; ce péché vous manquait.  
+
+    EUPHÉMON FILS.
+Tu ne sais pas qu'au sortir de l'enfance  
+(Car chez Rondon tu n'étais plus, je pense),  
+Par nos parents l'un à l'autre promis,  
+Nos coeurs étaient à leurs ordres soumis ;  
+Tout nous liait, la conformité d'âge,  
+Celle des goûts, les jeux, le voisinage :  
+Plantés exprès, deux jeunes arbrisseaux  
+Croissent ainsi pour unir leurs rameaux.  
+Le temps, l'amour qui hâtait sa jeunesse,  
+La fit plus belle, augmenta sa tendresse :  
+Tout l'univers alors m'eût envié ;  
+Mais jeune, aveugle, à des méchants lié,  
+Qui de mon coeur corrompaient l'innocence,  
+Ivre de tout dans mon extravagance,  
+Je me faisais un lâche point d'honneur  
+De mépriser, d'insulter son ardeur.  
+Le croirais-tu ? Je l'accablai d'outrages.  
+Quels temps, hélas ! Les violents orages  
+Des passions qui troublaient mon destin  
+À mes parents m'arrachèrent enfin.  
+Tu sais depuis quel fut mon sort funeste :  
+J'ai tout perdu ; mon amour seul me reste :  
+Le ciel, ce ciel qui doit nous désunir,  
+Me laisse un coeur, et c'est pour me punir.  
+
+    JASMIN.
+S'il est ainsi, si dans votre misère  
+Vous la r'aimez, n'ayant pas mieux à faire,  
+De Croupillac le conseil était bon  
+De vous fourrer, s'il se peut, chez Rondon.  
+Le sort maudit épuisa votre bourse ;  
+L'amour pourrait vous servir de ressource.  
+
+    EUPHÉMON FILS.
+Moi, l'oser voir ! Moi, m'offrir à ses yeux,  
+Après mon crime, en cet état hideux !  
+Il me faut fuir un père, une maîtresse :  
+J'ai de tous deux outragé la tendresse ;  
+Et je ne sais, ô regrets superflus !  
+Lequel des deux doit me haïr le plus.  
+
+
+## SCÈNE VI. Euphémon Fils, Fierenfat, Jasmin.
+
+    JASMIN.
+Voilà, je crois, ce président si sage.  
+
+    EUPHÉMON FILS.
+Lui ? Je n'avais jamais vu son visage.  
+Quoi ! C'est donc lui, mon frère, mon rival ?  
+
+    FIERENFAT.
+En vérité, cela ne va pas mal :  
+J'ai tant pressé, tant sermonné mon père,  
+Que malgré lui nous finissons l'affaire.  
+En voyant Jasmin.
+
+Où sont ces gens qui voulaient me servir ?  
+
+    JASMIN.
+C'est nous, monsieur ; nous venions nous offrir  
+Très humblement.  
+
+    FIERENFAT.
+        Qui de vous deux sait lire ?  
+
+    JASMIN.
+C'est lui, monsieur.  
+
+    FIERENFAT.
+        Il sait sans doute écrire ?  
+
+    JASMIN.
+Oh ! Oui, monsieur, déchiffrer, calculer.  
+
+    FIERENFAT.
+Mais il devrait savoir aussi parler.  
+
+    JASMIN.
+Il est timide, et sort de maladie.  
+
+    FIERENFAT.
+Il a pourtant la mine assez hardie ;  
+Il me paraît qu'il sent assez son bien.  
+Combien veux-tu gagner de gages ?  
+
+    EUPHÉMON FILS.
+        Rien.  
+
+    JASMIN.
+Oh ! Nous avons, monsieur, l'âme héroïque.  
+
+    FIERENFAT.
+À ce prix-là, viens, sois mon domestique ;  
+C'est un marché que je veux accepter ;  
+Viens, à ma femme il faut te présenter.  
+
+    EUPHÉMON FILS.
+À votre femme ?  
+
+    FIERENFAT.
+        Oui, oui, je me marie.  
+
+    EUPHÉMON FILS.
+Quand ?  
+
+    FIERENFAT.
+    Dès ce soir.  
+
+    EUPHÉMON FILS.
+        Ciel !... Monsieur, je vous prie,  
+De cet objet vous êtes donc charmé ?  
+
+    FIERENFAT.
+Oui.  
+
+    EUPHÉMON FILS.
+    Monsieur...  
+
+    FIERENFAT.
+    Hem !  
+
+    EUPHÉMON FILS.
+        En seriez-vous aimé ?  
+
+    FIERENFAT.
+Oui. Vous semblez bien curieux, mon drôle !  
+
+    EUPHÉMON FILS.
+Que je voudrais lui couper la parole,  
+Et le punir de son trop de bonheur !  
+
+    FIERENFAT.
+Qu'est-ce qu'il dit ?  
+
+    JASMIN.
+        Il dit que de grand coeur  
+Il voudrait bien vous ressembler et plaire.  
+
+    FIERENFAT.
+Eh ! Je le crois : mon homme est téméraire.  
+Çà, qu'on me suive, et qu'on soit diligent,  
+Sobre, frugal, soigneux, adroit, prudent,  
+Respectueux ; allons, La Fleur, La Brie,  
+Venez, faquins.  
+
+    EUPHÉMON FILS.
+        Il me prend une envie,  
+C'est d'affubler sa face de palais,  
+À poing fermé, de deux larges soufflets.  
+
+    JASMIN.
+Vous n'êtes pas trop corrigé, mon maître !  
+
+    EUPHÉMON FILS.
+Ah ! Soyons sage : il est bien temps de l'être.  
+Le fruit au moins que je dois recueillir  
+De tant d'erreurs est de savoir souffrir.  
+
+
+# ACTE IV.
+
+
+## SCÈNE I. Madame Croupillac, Euphémon Fils, Jasmin.
+
+    MADAME CROUPILLAC.
+J'ai, mon très cher, par prévoyance extrême,  
+Fait arriver deux huissiers d'Angoulême.  
+Et toi, t'es-tu servi de ton esprit ?  
+As-tu bien fait tout ce que je t'ai dit ?  
+Pourras-tu bien d'un air de prud'homie  
+Dans la maison semer la zizanie ?  
+As-tu flatté le bonhomme Euphémon ?  
+Parle : as-tu vu la future ?  
+
+    EUPHÉMON FILS.
+        Hélas ! Non.  
+
+    MADAME CROUPILLAC.
+Comment ?  
+
+    EUPHÉMON FILS.
+        Croyez que je me meurs d'envie  
+D'être à ses pieds.  
+
+    MADAME CROUPILLAC.
+        Allons donc, je t'en prie ;  
+Attaque-la pour me plaire, et rende-moi  
+Ce traître ingrat qui séduisit ma foi.  
+Je vais pour toi procéder en justice,  
+Et tu feras l'amour pour mon service.  
+Reprends cet air imposant et vainqueur,  
+Si sur de soi, si puissant sur un coeur,  
+Qui triomphait sitôt de la sagesse.  
+Pour être heureux, reprends ta hardiesse.  
+
+    EUPHÉMON FILS.
+Je l'ai perdue.  
+
+    MADAME CROUPILLAC.
+        Eh quoi ! Quel embarras !  
+
+    EUPHÉMON FILS.
+J'étais hardi lorsque je n'aimais pas.  
+
+    JASMIN.
+D'autres raisons l'intimident peut-être ;  
+Ce Fierenfat est, ma foi, notre maître ;  
+Pour ses valets il nous retient tous deux.  
+
+    MADAME CROUPILLAC.
+C'est fort bien fait, vous êtes trop heureux ;  
+De sa maîtresse être le domestique  
+Est un bonheur, un destin presque unique :  
+Profitez-en.  
+
+    JASMIN.
+        Je vois certains attraits  
+S'acheminer pour prendre ici le frais ;  
+De chez Rondon, me semble, elle est sortie.  
+
+    MADAME CROUPILLAC.
+Eh ! Sois donc vite amoureux, je t'en prie :  
+Voici le temps : ose un peu lui parler.  
+Quoi ! Je te vois soupirer et trembler !  
+Tu l'aimes donc ? Ah ! Mon cher, ah ! De grâce !  
+
+    EUPHÉMON FILS.
+Si vous saviez, hélas ! Ce qui se passe  
+Dans mon esprit interdit et confus,  
+Ce tremblement ne vous surprendrait plus.  
+
+    JASMIN, EN VOYANT LISE.
+L'aimable enfant ! Comme elle est embellie !  
+
+    EUPHÉMON FILS.
+C'est elle ; ô Dieu ! Je meurs de jalousie,  
+De désespoir, de remords, et d'amour.  
+
+    MADAME CROUPILLAC.
+Adieu : je vais te servir à mon tour.  
+
+    EUPHÉMON FILS.
+Si vous pouvez, faites que l'on diffère  
+Ce triste hymen.  
+
+    MADAME CROUPILLAC.
+        C'est ce que je vais faire.  
+
+    EUPHÉMON FILS.
+Je tremble, hélas !  
+
+    JASMIN.
+        Il faut tâcher du moins  
+Que vous puissiez lui parler sans témoins.  
+Retirons-nous.  
+
+    EUPHÉMON FILS.
+        Oh ! Je te suis : j'ignore  
+Ce que j'ai fait, ce qu'il faut faire encore :  
+Je n'oserai jamais m'y présenter.  
+
+
+## SCÈNE II. Lise, Marthe ; Jasmin dans l'enfoncement, et Eupéhmon Fils, plus reculé.
+
+    LISE.
+J'ai beau me fuir, me chercher, m'éviter,  
+Rentrer, sortir, goûter la solitude,  
+Et de mon coeur faire en secret l'étude ;  
+Plus j'y regarde, hélas ! Et plus je vois  
+Que le bonheur n'était pas fait pour moi.  
+Si quelque chose un moment me console,  
+C'est Croupillac, c'est cette vieille folle,  
+À mon hymen mettant empêchement.  
+Mais ce qui vient redoubler mon tourment,  
+C'est qu'en effet Fierenfat et mon père  
+En sont plus vifs à presser ma misère :  
+Ils ont gagné le bonhomme Euphémon.  
+
+    MARTHE.
+En vérité, ce vieillard est trop bon ;  
+Ce Fierenfat est par trop tyrannique,  
+Il le gouverne.  
+
+    LISE.
+        Il aime un fils unique ;  
+Je lui pardonne : accablé du premier,  
+Au moins sur l'autre il cherche à s'appuyer.  
+
+    MARTHE.
+Mais, après tout, malgré ce qu'on publie,  
+Il n'est pas sûr que l'autre soit sans vie.  
+
+    LISE.
+Hélas ! Il faut (quel funeste tourment !)  
+Le pleurer mort, ou le haïr vivant.  
+
+    MARTHE.
+De son danger cependant la nouvelle  
+Dans votre coeur mettait quelque étincelle.  
+
+    LISE.
+Ah ! Sans l'aimer, on peut plaindre son sort.  
+
+    MARTHE.
+Mais n'être plus aimé, c'est être mort.  
+Vous allez donc être enfin à son frère ?  
+
+    LISE.
+Ma chère enfant, ce mot me désespère.  
+Pour Fierenfat tu connais ma froideur ;  
+L'aversion s'est changée en horreur :  
+C'est un breuvage affreux, plein d'amertume,  
+Que, dans l'excès du mal qui me consume,  
+Je me résous de prendre malgré moi,  
+Et que ma main rejette avec effroi.  
+
+    JASMIN, TIRANT MARTHE PAR LA ROBE.
+Puis-je en secret, ô gentille merveille !  
+Vous dire ici quatre mots à l'oreille ?  
+
+    MARTHE, JASMIN.
+Très volontiers.  
+
+    LISE, À PART.
+        Ô sort ! Pourquoi faut-il  
+Que de mes jours tu respectes le fil,  
+Lorsqu'un ingrat, un amant si coupable,  
+Rendit ma vie, hélas ! Si misérable ?  
+
+    MARTHE, VENANT À LISE.
+C'est un des gens de votre président ;  
+Il est à lui, dit-il, nouvellement ;  
+Il voudrait bien vous parler.  
+
+    LISE.
+        Qu'il attende.  
+
+    MARTHE, JASMIN.
+Mon cher ami, madame vous commande  
+D'attendre un peu.  
+
+    LISE.
+        Quoi ! Toujours m'excéder !  
+Et même absent en tous lieux m'obséder !  
+De mon hymen que je suis déjà lasse !  
+
+    JASMIN, À MARTHE.
+Ma belle enfant, obtiens-nous cette grâce.  
+
+    MARTHE, REVENANT.
+Absolument il prétend vous parler.  
+
+    LISE.
+Ah je vois bien qu'il faut nous en aller.  
+
+    MARTHE.
+Ce quelqu'un-là veut vous voir tout à l'heure ;  
+Il faut, dit-il, qu'il vous parle, ou qu'il meure.  
+
+    LISE.
+Rentrons donc vite, et courons me cacher.  
+
+
+## SCÈNE III. Lise, Marthe, Euphémon Fils, s'appuyant sur Jasmin.
+
+    EUPHÉMON FILS.
+La voix me manque, et je ne puis marcher ;  
+Mes faibles yeux sont couverts d'un nuage.  
+
+    JASMIN.
+Donnez la main ; venons sur son passage.  
+
+    EUPHÉMON FILS.
+Un froid mortel a passé dans mon coeur.  
+À Lise.
+
+Souffrirez-vous... ?  
+
+    LISE SANS LE REGARDER.
+        Que voulez-vous, monsieur ?  
+
+    EUPHÉMON FILS SE JETANT À GENOUX.
+Ce que je veux ? La mort que je mérite.  
+
+    LISE.
+Que vois-je ? Ô ciel !  
+
+    MARTHE.
+        Quelle étrange visite !  
+C'est Euphémon ! Grand Dieu ! Qu'il est changé !  
+
+    EUPHÉMON FILS.
+Oui, je le suis ; votre coeur est vengé ;  
+Oui, vous devez en tout me méconnaître :  
+Je ne suis plus ce furieux, ce traître,  
+Si détesté, si craint, dans ce séjour,  
+Qui fit rougir la nature et l'amour.  
+Jeune, égaré, j'avais tous les caprices ;  
+De mes amis j'avais pris tous les vices ;  
+Et le plus grand, qui ne peut s'effacer,  
+Le plus affreux, fut de vous offenser.  
+J'ai reconnu (j'en jure par vous-même,  
+Par la vertu que j'ai fui, mais que j'aime),  
+J'ai reconnu ma détestable erreur ;  
+Le vice était étranger dans mon coeur :  
+Ce coeur n'a plus les taches criminelles  
+Dont il couvrit ses clartés naturelles ;  
+Mon feu pour vous, ce feu saint et sacré,  
+Y reste seul ; il a tout épuré.  
+C'est cet amour, c'est lui qui me ramène,  
+Non pour briser votre nouvelle chaîne,  
+Non pour oser traverser vos destins ;  
+Un malheureux n'a pas de tels desseins :  
+Mais quand les maux où mon esprit succombe  
+Dans mes beaux jours avaient creusé ma tombe,  
+À peine encore échappé du trépas,  
+Je suis venu ; l'amour guidait mes pas.  
+Oui, je vous cherche à mon heure dernière,  
+Heureux cent fois, en quittant la lumière,  
+Si, destiné pour être votre époux,  
+Je meurs au moins sans être haï de vous !  
+
+    LISE.
+Je suis à peine en mon sens revenue.  
+C'est vous, ô ciel ! Vous, qui cherchez ma vue !  
+Dans quel état ! Quel jour !... Ah, malheureux !  
+Que vous avez fait de tort à tous deux !  
+
+    EUPHÉMON FILS.
+Oui, je le sais ; mes excès, que j'abhorre,  
+En vous voyant semblent plus grands encore ;  
+Ils sont affreux, et vous les connaissez :  
+J'en suis puni, mais point encore assez.  
+
+    LISE.
+Est-il bien vrai, malheureux que vous êtes,  
+Qu'enfin domptant vos fougues indiscrètes,  
+Dans votre coeur en effet combattu,  
+Tant d'infortune ait produit la vertu ?  
+
+    EUPHÉMON FILS.
+Qu'importe, hélas ! Que la vertu m'éclaire ?  
+Ah ! J'ai trop tard aperçu sa lumière !  
+Trop vainement mon coeur en est épris,  
+De la vertu je perds en vous le prix.  
+
+    LISE.
+Mais répondez, Euphémon, puis-je croire  
+Que vous avez gagné cette victoire ?  
+Consultez-vous, ne trompez point mes voeux ;  
+Seriez-vous bien et sage et vertueux ?  
+
+    EUPHÉMON FILS.
+Oui, je le suis, car mon coeur vous adore.  
+
+    LISE.
+Vous, Euphémon ! Vous m'aimeriez encore ?  
+
+    EUPHÉMON FILS.
+Si je vous aime ? Hélas ! Je n'ai vécu  
+Que par l'amour, qui seul m'a soutenu.  
+J'ai tout souffert, tout jusqu'à l'infamie ;  
+Ma main cent fois allait trancher ma vie ;  
+Je respectai les maux qui m'accablaient ;  
+J'aimai mes jours, ils vous appartenaient.  
+Oui, je vous dois mes sentiments, mon être,  
+Ces jours nouveaux qui me luiront peut-être ;  
+De ma raison je vous dois le retour,  
+Si j'en conserve avec autant d'amour.  
+Ne cachez point à mes yeux pleins de larmes  
+Ce front serein, brillant de nouveaux charmes :  
+Regardez-moi, tout changé que je suis ;  
+Voyez l'effet de mes cruels ennuis.  
+De longs remords, une horrible tristesse,  
+Sur mon visage ont flétri la jeunesse.  
+Je fus peut-être autrefois moins affreux ;  
+Mais voyez-moi, c'est tout ce que je veux.  
+
+    LISE.
+Si je vous vois constant et raisonnable,  
+C'en est assez, je vous vois trop aimable.  
+
+    EUPHÉMON FILS.
+Que dites-vous ? Juste ciel ! Vous pleurez ?  
+
+    LISE À MARTHE.
+Ah ! Soutiens-moi, mes sens sont égarés.  
+Moi, je serais l'épouse de son frère !...  
+N'avez-vous point vu déjà votre père ?  
+
+    EUPHÉMON FILS.
+Mon front rougit, il ne s'est point montré  
+À ce vieillard que j'ai déshonoré :  
+Haï de lui, proscrit, sans espérance,  
+J'ose l'aimer, mais je fuis sa présence.  
+
+    LISE.
+Eh ! Quel est donc votre projet enfin ?  
+
+    EUPHÉMON FILS.
+Si de mes jours Dieu recule la fin,  
+Si votre sort vous attache à mon frère,  
+Je vais chercher le trépas à la guerre ;  
+Changeant de nom aussi bien que d'état.  
+Avec honneur je servirai soldat.  
+Peut-être un jour le bonheur de mes armes  
+Fera ma gloire, et m'obtiendra vos larmes.  
+Par ce métier l'honneur n'est point blessé ;  
+Rose et Fabert ont ainsi commencé.  
+
+    LISE.
+Ce désespoir est d'une âme bien haute,  
+Il est d'un coeur au-dessus de sa faute ;  
+Ces sentiments me touchent encor plus  
+Que vos pleurs même à mes pieds répandus.  
+Non, Euphémon, si de moi je dispose,  
+Si je peux fuir l'hymen qu'on me propose,  
+De votre sort si je puis prendre soin,  
+Pour le changer vous n'irez pas si loin.  
+
+    EUPHÉMON FILS.
+O ciel ! Mes maux ont attendri votre âme !  
+
+    LISE.
+Ils me touchaient : votre remords m'enflamme.  
+
+    EUPHÉMON FILS.
+Quoi ! Vos beaux yeux, si longtemps courroucés,  
+Avec amour sur les miens sont baissés !  
+Vous rallumez ces feux si légitimes,  
+Ces feux sacrés qu'avaient éteints mes crimes.  
+Ah ! Si mon frère, aux trésors attaché,  
+Garde mon bien à mon père arraché,  
+S'il engloutit à jamais l'héritage  
+Dont la nature avait fait mon partage ;  
+Qu'il porte envie à ma félicité :  
+Je vous suis cher, il est déshérité.  
+Ah ! Je mourrai de l'excès de ma joie !  
+
+    MARTHE.
+Ma foi ! C'est lui qu'ici le diable envoie.  
+
+    LISE.
+Contraignez donc ces soupirs enflammés ;  
+Dissimulez.  
+
+    EUPHÉMON FILS.
+        Pourquoi, si vous m'aimez ?  
+
+    LISE.
+Ah ! Redoutez mes parents, votre père !  
+Nous ne pouvons cacher à votre frère  
+Que vous avez embrassé mes genoux ;  
+Laissez-le au moins ignorer que c'est vous.  
+
+    MARTHE.
+Je ris déjà de sa grave colère.  
+
+
+## SCÈNE IV. Lise, Euphémon Fils, Marthe, Jasmin ; Fienrenfat, dans le fond, pendant qu'Euphémon lui tourne le dos.
+
+    FIERENFAT.
+Ou quelque diable a troublé ma visière,  
+Ou, si mon oeil est toujours clair et net,  
+Je suis... j'ai vu... je le suis... j'ai mon fait.  
+En avançant vers Euphémon.
+
+Ah ! C'est donc toi, traître, impudent, faussaire !  
+
+    EUPHÉMON FILS, EN COLÈRE.
+Je...  
+
+    JASMIN, SE METTANT ENTRE EUX.
+        C'est, monsieur, une importante affaire  
+Qui se traitait, et que vous dérangez ;  
+Ce sont deux coeurs en peu de temps changés ;  
+C'est du respect, de la reconnaissance,  
+De la vertu... Je m'y perds, quand j'y pense.  
+
+    FIERENFAT.
+De la vertu ? Quoi ! Lui baiser la main !  
+De la vertu ? Scélérat !  
+
+    EUPHÉMON FILS.
+        Ah ! Jasmin,  
+Que, si j'osais...  
+
+    FIERENFAT.
+        Non, tout ceci m'assomme :  
+Si c'eût été du moins un gentilhomme !  
+Mais un valet, un gueux contre lequel,  
+En intentant un procès criminel,  
+C'est de l'argent que je perdrais peut-être !...  
+
+    LISE, À EUPHÉMON.
+Contraignez-vous, si vous m'aimez.  
+
+    FIERENFAT.
+        Ah ! Traître !  
+Je te ferai pendre ici, sur ma foi !  
+À Marthe.
+
+Tu ris, coquine !  
+
+    MARTHE.
+    Oui, monsieur.  
+
+    FIERENFAT.
+        Et pourquoi ?  
+De quoi ris-tu ?  
+
+    MARTHE.
+        Mais, monsieur, de la chose...  
+
+    FIERENFAT.
+Tu ne sais pas à quoi ceci t'expose,  
+Ma bonne amie, et ce qu'au nom du roi  
+On fait parfois aux filles comme toi ?  
+
+    MARTHE.
+Pardonnez-moi, je le sais à merveilles.  
+
+    FIERENFAT, À LISE.
+Et vous semblez vous boucher les oreilles,  
+Vous, infidèle avec votre air sucré,  
+Qui m'avez fait ce tour prématuré ;  
+De votre coeur l'inconstance est précoce ;  
+Un jour d'hymen ! Une heure avant la noce !  
+Voilà, ma foi, de votre probité !  
+
+    LISE.
+Calmez, monsieur, votre esprit irrité :  
+Il ne faut pas sur la simple apparence  
+Légèrement condamner l'innocence.  
+
+    FIERENFAT.
+Quelle innocence !  
+
+    LISE.
+        Oui, quand vous connaîtrez  
+Mes sentiments, vous les estimerez.  
+
+    FIERENFAT.
+Plaisant chemin pour avoir de l'estime !  
+
+    EUPHÉMON FILS.
+Oh ! C'en est trop.  
+
+    LISE, À EUPHÉMON.
+        Quel courroux vous anime ?  
+Eh ! Réprimez...  
+
+    EUPHÉMON FILS.
+        Non, je ne puis souffrir  
+Que d'un reproche il ose vous couvrir.  
+
+    FIERENFAT.
+Savez-vous bien que l'on perd son douaire,  
+Son bien, sa dot, quand...  
+
+    EUPHÉMON FILS, EN COLÈRE, ET METTANT LA MAIN SUR LA GARDE DE SON ÉPÉE..
+        Savez-vous vous taire ?  
+
+    LISE.
+Eh ! Modérez...  
+
+    EUPHÉMON FILS.
+        Monsieur le président,  
+Prenez un air un peu moins imposant,  
+Moins fier, moins haut, moins juge ; car madame  
+N'a pas l'honneur d'être encor votre femme ;  
+Elle n'est point votre maîtresse aussi.  
+Eh ! Pourquoi donc gronder de tout ceci ?  
+Vos droits sont nuls : il faut avoir su plaire  
+Pour obtenir le droit d'être en colère.  
+De tels appas n'étaient point faits pour vous ;  
+Il vous sied mal d'oser être jaloux.  
+Madame est bonne, et fait grâce à mon zèle :  
+Imitez-la, soyez aussi bon qu'elle.  
+
+    FIERENFAT, EN POSTURE DE SE BATTRE.
+Je n'y puis plus tenir. A moi, mes gens !  
+
+    EUPHÉMON FILS.
+Comment ?  
+
+    FIERENFAT.
+        Allez me chercher des sergents.  
+
+    LISE, À EUPHÉMON.
+Retirez-vous.  
+
+    FIERENFAT.
+        Je te ferai connaître  
+Ce que l'on doit de respect à son maître,  
+À mon état, à ma robe.  
+
+    EUPHÉMON FILS.
+        Observez  
+Ce qu'à madame ici vous en devez ;  
+Et quant à moi, quoi qu'il puisse en paraître,  
+C'est vous, monsieur, qui m'en devez, peut-être.  
+
+    FIERENFAT.
+Moi... moi ?  
+
+    EUPHÉMON FILS.
+    Vous... vous.  
+
+    FIERENFAT.
+        Ce drôle est bien osé.  
+C'est quelque amant en valet déguisé.  
+Qui donc es-tu ? Réponds-moi.  
+
+    EUPHÉMON FILS.
+        Je l'ignore ;  
+Ma destinée est incertaine encore :  
+Mon sort, mon rang, mon état, mon bonheur,  
+Mon être enfin, tout dépend de son coeur,  
+De ses regards, de sa bonté propice.  
+
+    FIERENFAT.
+Il dépendra bientôt de la justice,  
+Je t'en réponds ; va, va, je cours hâter  
+Tous mes recors, et vite instrumenter.  
+À Lise.
+
+Allez, perfide, et craignez ma colère ;  
+J'amènerai vos parents, votre père ;  
+Votre innocence en son jour paraîtra,  
+Et comme il faut on vous estimera.  
+
+
+## SCÈNE V. Lise, Euphémon Fils, Marthe.
+
+    LISE.
+Eh ! Cachez-vous, de grâce ; rentrons vite :  
+De tout ceci je crains pour nous la suite.  
+Si votre père apprenait que c'est vous,  
+Rien ne pourrait apaiser son courroux ;  
+Il penserait qu'une fureur nouvelle  
+Pour l'insulter en ces lieux vous rappelle ;  
+Que vous venez entre nos deux maisons  
+Porter le trouble et les divisions ;  
+Et l'on pourrait, pour ce nouvel esclandre,  
+Vous enfermer, hélas sans vous entendre.  
+
+    MARTHE.
+Laissez-moi donc le soin de le cacher.  
+Soyez-en sûre, on aura beau chercher.  
+
+    LISE.
+Allez, croyez qu'il est très nécessaire  
+Que j'adoucisse en secret votre père.  
+De la nature il faut que le retour  
+Soit, s'il se peut, l'ouvrage de l'amour.  
+Cachez-vous bien...  
+À Marthe.
+
+        Prends soin qu'il ne paraisse.  
+Eh ! Va donc vite.  
+
+
+## SCÈNE VI. Rondon, Lise.
+
+    RONDON.
+        Eh bien ! Ma Lise, qu'est-ce ?  
+Je te cherchais, et ton époux aussi.  
+
+    LISE.
+Il ne l'est pas, que je crois, Dieu merci  
+
+    RONDON.
+Où vas-tu donc ?  
+
+    LISE.
+        Monsieur, la bienséance  
+M'oblige encor d'éviter sa présence.  
+Elle sort.
+
+
+    RONDON.
+Ce président est donc bien dangereux !  
+Je voudrais être incognito près d'eux ;  
+Là... voir un peu quelle plaisante mine  
+Font deux amants qu'à l'hymen on destine.  
+
+
+## SCÈNE VII. Fierenfat, Rondon, Sergents.
+
+    FIERENFAT.
+Ah ! Les fripons, ils sont fins et subtils.  
+Où les trouver ? Où sont-ils ? Où sont-ils ?  
+Où cachent-ils ma honte et leur fredaine ?  
+
+    RONDON.
+Ta gravité me semble hors d'haleine.  
+Que prétends-tu ? Que cherches-tu ? Qu'as-tu ?  
+Que t'a-t-on fait ?  
+
+    FIERENFAT.
+        J'ai... qu'on m'a fait cocu.  
+
+    RONDON.
+Cocu ! Tudieu ! Prends garde, arrête, observe.  
+
+    FIERENFAT.
+Oui, oui, ma femme. Allez, Dieu me préserve  
+De lui donner le nom que je lui dois !  
+Je suis cocu, malgré toutes les lois.  
+
+    RONDON.
+Mon gendre !  
+
+    FIERENFAT.
+        Hélas ! Il est trop vrai, beau-père.  
+
+    RONDON.
+Eh quoi ! La chose...  
+
+    FIERENFAT.
+        Oh ! La chose est fort claire.  
+
+    RONDON.
+Vous me poussez...  
+
+    FIERENFAT.
+        C'est moi qu'on pousse à bout.  
+
+    RONDON.
+Si je croyais...  
+
+    FIERENFAT.
+        Vous pouvez croire tout.  
+
+    RONDON.
+Mais plus j'entends, moins je comprends, mon gendre.  
+
+    FIERENFAT.
+Mon fait pourtant est facile à comprendre.  
+
+    RONDON.
+S'il était vrai, devant tous mes voisins  
+J'étranglerais ma Lise de mes mains.  
+
+    FIERENFAT.
+Étranglez donc, car la chose est prouvée.  
+
+    RONDON.
+Mais en effet ici je l'ai trouvée,  
+La voix éteinte et le regard baissé ;  
+Elle avait l'air timide, embarrassé.  
+Mon gendre, allons, surprenons la pendarde ;  
+Voyons le cas, car l'honneur me poignarde.  
+Tudieu, l'honneur ! Oh, voyez-vous, Rondon,  
+En fait d'honneur, n'entend jamais raison.  
+
+
+# ACTE V.
+
+
+## SCÈNE I. Lise, Marthe.
+
+    LISE.
+Ah je me sauve à peine entre tes bras :  
+Que de danger ! Quel horrible embarras !  
+Faut-il qu'une âme aussi tendre, aussi pure,  
+D'un tel soupçon souffre un moment l'injure !  
+Cher Euphémon, cher et funeste amant,  
+Es-tu donc né pour faire mon tourment ?  
+À ton départ tu m'arrachas la vie,  
+Et ton retour m'expose à l'infamie.  
+À Marthe.
+
+Prends garde au moins, car on cherche partout.  
+
+    MARTHE.
+J'ai mis, je crois, tous mes chercheurs à bout,  
+Nous braverons le greffe et l'écritoire ;  
+Certains recoins, chez moi, dans mon armoire,  
+Pour mon usage en secret pratiqués,  
+Par ces furets ne sont point remarqués ;  
+Là, votre amant se tapit, se dérobe  
+Aux yeux hagards des noirs pédants en robe :  
+Je les ai tous fait courir comme il faut,  
+Et de ces chiens la meute est en défaut.  
+
+
+## SCÈNE II. Lise, Marthe, Jasmin.
+
+    LISE.
+Eh bien ! Jasmin, qu'a-t-on fait ?  
+
+    JASMIN.
+        Avec gloire  
+J'ai soutenu mon interrogatoire ;  
+Tel qu'un fripon blanchi dans le métier,  
+J'ai répondu sans jamais m'effrayer.  
+L'un vous traînait sa voix de pédagogue,  
+L'autre braillait d'un ton cas, d'un air rogue ;  
+Tandis qu'un autre, avec un ton flûté,  
+Disait : « Mon fils, sachons la vérité. »  
+Moi, toujours ferme, et toujours laconique,  
+Je rembarrais la troupe scolastique.  
+
+    LISE.
+On ne sait rien ?  
+
+    JASMIN.
+        Non, rien ; mais dès demain  
+On saura tout, car tout se sait enfin.  
+
+    LISE.
+Ah ! Que du moins Fierenfat en colère  
+N'ait pas le temps de prévenir son père :  
+Je tremble encore, et tout accroît ma peur ;  
+Je crains pour lui, je crains pour mon honneur.  
+Dans mon amour j'ai mis mes espérances ;  
+Il m'aidera...  
+
+    MARTHE.
+        Moi, je suis dans des transes  
+Que tout ceci ne soit cruel pour vous,  
+Car nous avons deux pères contre nous,  
+Un président, les bégueules, les prudes.  
+Si vous saviez quels airs hautains et rudes,  
+Quel ton sévère, et quel sourcil froncé,  
+De leur vertu le faste rehaussé  
+Prend contre vous ; avec quelle insolence  
+Leur âcreté poursuit votre innocence :  
+Leurs cris, leur zèle, et leur sainte fureur  
+Vous feraient rire, ou vous feraient horreur.  
+
+    JASMIN.
+J'ai voyagé, j'ai vu du tintamarre :  
+Je n'ai jamais vu semblable bagarre :  
+Tout le logis est sens dessus dessous.  
+Ah ! Que les gens sont sots, méchants, et fous !  
+On vous accuse, on augmente, on murmure ;  
+En cent façons on conte l'aventure.  
+Les violons sont déjà renvoyés,  
+Tout interdits, sans boire, et point payés ;  
+Pour le festin six tables bien dressées  
+Dans ce tumulte ont été renversées.  
+Le peuple accourt, le laquais boit et rit,  
+Et Rondon jure, et Fierenfat écrit.  
+
+    LISE.
+Et d'Euphémon le père respectable,  
+Que fait-il donc dans ce trouble effroyable ?  
+
+    MARTHE.
+Madame, on voit sur son front éperdu  
+Cette douleur qui sied à la vertu ;  
+Il lève au ciel les yeux ; il ne peut croire  
+Que vous ayez d'une tache si noire  
+Souillé l'honneur de vos jours innocents ;  
+Par des raisons il combat vos parents :  
+Enfin, surpris des preuves qu'on lui donne,  
+Il en gémit, et dit que sur personne  
+Il ne faudra s'assurer désormais,  
+Si cette tache a flétri vos attraits.  
+
+    LISE.
+Que ce vieillard m'inspire de tendresse !  
+
+    MARTHE.
+Voici Rondon, vieillard d'une autre espèce.  
+Fuyons, madame.  
+
+    LISE.
+        Ah ! Gardons-nous-en bien ;  
+Mon coeur est pur : il ne doit craindre rien.  
+
+    JASMIN.
+Moi, je crains donc.  
+
+
+## SCÈNE III. Lise, Marthe, Rondon.
+
+    RONDON.
+        Matoise ! Mijaurée !  
+Fille pressée, âme dénaturée !  
+Ah ! Lise, Lise, allons, je veux savoir  
+Tous les entours de ce procédé noir.  
+Çà, depuis quand connais-tu le corsaire ?  
+Son nom ? Son rang ? Comment t'a-t-il pu plaire ?  
+De ses méfaits je veux savoir le fil.  
+D'où nous vient-il ? En quel endroit est-il ?  
+Réponds, réponds : tu ris de ma colère ?  
+Tu ne meurs pas de honte ?  
+
+    LISE.
+        Non, mon père.  
+
+    RONDON.
+Encor des non ? Toujours ce chien de ton ;  
+Et toujours non, quand on parle à Rondon !  
+La négative est pour moi trop suspecte :  
+Quand on a tort, il faut qu'on me respecte,  
+Que l'on me craigne, et qu'on sache obéir.  
+
+    LISE.
+Oui, je suis prête à vous tout découvrir.  
+
+    RONDON.
+Ah ! C'est parler cela ; quand je menace,  
+On est petit...  
+
+    LISE.
+        Je ne veux qu'une grâce,  
+C'est qu'Euphémon daignât auparavant  
+Seul en ce lieu me parler un moment.  
+
+    RONDON.
+Euphémon ? Bon ! Eh ! Que pourra-t-il faire ?  
+C'est à moi seul qu'il faut parler.  
+
+    LISE.
+        Mon père,  
+J'ai des secrets qu'il faut lui confier ;  
+Pour votre honneur daignez me l'envoyer,  
+Daignez... c'est tout ce que je puis vous dire.  
+
+    RONDON.
+À sa demande encor faut-il souscrire ?  
+À ce bonhomme elle veut s'expliquer ;  
+On peut fort bien souffrir, sans rien risquer,  
+Qu'en confidence elle lui parle seule ;  
+Puis sur-le-champ je cloître ma bégueule.  
+
+
+## SCÈNE IV. Lise, Marthe.
+
+    LISE.
+Digne Euphémon, pourrai-je te toucher ?  
+Mon coeur de moi semble se détacher.  
+J'attends ici mon trépas ou ma vie.  
+À Marthe.
+
+Écoute un peu.  
+Elle lui parle à l'oreille.
+
+
+    MARTHE.
+        Vous serez obéie.  
+
+
+## SCÈNE V. Euphémon Père, Lise.
+
+    LISE.
+Un siège... Hélas !... Monsieur, asseyez-vous,  
+Et permettez que je parle à genoux.  
+
+    EUPHÉMON, L’EMPÊCHANT DE SA METTRE À GENOUX.
+Vous m'outragez.  
+
+    LISE.
+        Non, mon coeur vous révère ;  
+Je vous regarde à jamais comme un père.  
+
+    EUPHÉMON PÈRE.
+Qui ? Vous ! Ma fille ?  
+
+    LISE.
+        Oui, j'ose me flatter  
+Que c'est un nom que j'ai su mériter.  
+
+    EUPHÉMON PÈRE.
+Après l'éclat et la triste aventure  
+Qui de nos noeuds a causé la rupture !  
+
+    LISE.
+Soyez mon juge, et lisez dans mon coeur ;  
+Mon juge enfin sera mon protecteur.  
+Écoutez-moi ; vous allez reconnaître  
+Mes sentiments, et les vôtres peut-être.  
+Elle prend un siège à côté de lui.
+
+Si votre coeur avait été lié,  
+Par la plus tendre et plus pure amitié,  
+À quelque objet de qui l'aimable enfance  
+Donna d'abord la plus belle espérance,  
+Et qui brilla dans son heureux printemps,  
+Croissant en grâce, en mérite, en talents ;  
+Si quelque temps sa jeunesse abusée,  
+Des vains plaisirs suivant la pente aisée,  
+Au feu de l'âge avait sacrifié  
+Tous ses devoirs, et même l'amitié.  
+
+    EUPHÉMON PÈRE.
+Eh bien ?  
+
+    LISE.
+        Monsieur, si son expérience  
+Eût reconnu la triste jouissance  
+De ces faux biens, objets de ses transports,  
+Nés de l'erreur, et suivis des remords ;  
+Honteux enfin de sa folle conduite,  
+Si sa raison, par le malheur instruite,  
+De ses vertus rallument le flambeau,  
+Le ramenait avec un coeur nouveau ;  
+Ou que plutôt, honnête homme et fidèle,  
+Il eût repris sa forme naturelle ;  
+Pourriez-vous bien lui fermer aujourd'hui  
+L'accès d'un coeur qui fut ouvert pour lui ?  
+
+    EUPHÉMON PÈRE.
+De ce portrait que voulez-vous conclure ?  
+Et quel rapport a-t-il à mon injure ?  
+Le malheureux qu'à vos pieds on a vu  
+Est un jeune homme en ces lieux inconnu ;  
+Et cette veuve, ici, dit elle-même  
+Qu'elle l'a vu six mois dans Angoulême ;  
+Un autre dit que c'est un effronté,  
+D'amours obscurs follement entêté ;  
+Et j'avouerai que ce portrait redouble  
+L'étonnement et l'horreur qui me trouble.  
+
+    LISE.
+Hélas ! Monsieur, quand vous aurez appris  
+Tout ce qu'il est, vous serez plus surpris.  
+De grâce, un mot ; votre âme est noble et belle ;  
+La cruauté n'est pas faite pour elle :  
+N'est-il pas vrai qu'Euphémon votre fils  
+Fut longtemps cher à vos yeux attendris ?  
+
+    EUPHÉMON PÈRE.
+Oui, je l'avoue, et ses lâches offenses  
+Ont d'autant mieux mérité mes vengeances :  
+J'ai plaint sa mort, j'avais plaint ses malheurs ;  
+Mais la nature, au milieu de mes pleurs,  
+Aurait laissé ma raison saine et pure  
+De ses excès punir sur lui l'injure.  
+
+    LISE.
+Vous ! Vous pourriez à jamais le punir,  
+Sentir toujours le malheur de haïr,  
+Et repousser encore avec outrage  
+Ce fils changé, devenu votre image,  
+Qui de ses pleurs arroserait vos pieds !  
+Le pourriez-vous ?  
+
+    EUPHÉMON PÈRE.
+        Hélas ! Vous oubliez  
+Qu'il ne faut point, par de nouveaux supplices,  
+De ma blessure ouvrir les cicatrices.  
+Mon fils est mort, ou mon fils, loin d'ici,  
+Est dans le crime à jamais endurci :  
+De la vertu s'il eût repris la trace,  
+Viendrait-il pas me demander sa grâce ?  
+
+    LISE.
+La demander ! Sans doute, il y viendra ;  
+Vous l'entendrez ; il vous attendrira.  
+
+    EUPHÉMON PÈRE.
+Que dites-vous ?  
+
+    LISE.
+        Oui, si la mort trop prompte  
+N'a pas fini sa douleur et sa honte,  
+Peut-être ici vous le verrez mourir  
+À vos genoux, d'excès de retentir.  
+
+    EUPHÉMON PÈRE.
+Vous sentez trop quel est mon trouble extrême.  
+Mon fils vivrait !  
+
+    LISE.
+        S'il respire, il vous aime.  
+
+    EUPHÉMON PÈRE.
+Ah ! S'il m'aimait ! Mais quelle vaine erreur !  
+Comment ? De qui l'apprendre ?  
+
+    LISE.
+        De son coeur.  
+
+    EUPHÉMON PÈRE.
+Mais sauriez-vous... ?  
+
+    LISE.
+        Sur tout ce qui le touche  
+La vérité vous parle par ma bouche.  
+
+    EUPHÉMON PÈRE.
+Non, non, c'est trop me tenir en suspens ;  
+Ayez pitié du déclin de mes ans :  
+J'espère encore, et je suis plein d'alarmes.  
+J'aimai mon fils ; jugez-en par mes larmes.  
+Ah ! S'il vivait, s'il était vertueux !  
+Expliquez-vous ; parlez-moi.  
+
+    LISE.
+        Je le veux :  
+Il en est temps, il faut vous satisfaire.  
+Elle fait quelques pas, et s'adresse à Euphémon fils, qui est dans la coulisse.
+
+Venez enfin.  
+
+
+## SCÈNE VI. Euphémon Père, Euphémon Fils, Lise.
+
+    EUPHÉMON PÈRE.
+    Que vois-je ? Ô ciel !  
+
+    EUPHÉMON FILS, AUX PIES DE SON PÈRE.
+        Mon père,  
+Connaissez-moi, décidez de mon sort ;  
+J'attends d'un mot ou la vie ou la mort.  
+
+    EUPHÉMON PÈRE.
+Ah ! Qui ramène en cette conjoncture ?  
+
+    EUPHÉMON FILS.
+Le repentir, l'amour, et la nature.  
+
+    LISE, SE METTANT À GENOUX.
+À vos genoux vous voyez vos enfants ;  
+Oui, nous avons les mêmes sentiments,  
+Le même coeur...  
+
+    EUPHÉMON FILS, SE MONTRANT À LISE.
+        Hélas ! Son indulgence  
+De mes fureurs a pardonné l'offense ;  
+Suivez, suivez, pour cet infortuné,  
+L'exemple heureux que l'amour a donné.  
+Je n'espérais, dans ma douleur mortelle,  
+Que d'expirer aimé de vous et d'elle ;  
+Et si je vis, ah ! C'est pour mériter  
+Ces sentiments dont j'ose me flatter.  
+D'un malheureux vous détournez la vue ?  
+De quels transports votre âme est-elle émue ?  
+Est-ce la haine ? Et ce fils condamné...  
+
+    EUPHÉMON PÈRE, SE LEVANT ET L’EMBRASSANT.
+C'est la tendresse, et tout est pardonné.  
+Si la vertu règne enfin dans ton âme :  
+Je suis ton père.  
+
+    LISE.
+        Et j'ose être sa femme.  
+À Euphémon.
+
+J'étais à lui ; permettez qu'à vos pieds  
+Nos premiers noeuds soient enfin renoués.  
+Non, ce n'est pas votre bien qu'il demande,  
+D'un coeur plus pur il vous porte l'offrande.  
+Il ne veut rien, et, s'il est vertueux,  
+Tout ce que j'ai suffira pour nous deux.  
+
+
+## SCÈNE VII. Les Précédents, Rondon, Madame Croupillac, Fierenfat, Recors, Suite.
+
+    FIERENFAT.
+Ah ! Le voici qui parle encore à Lise.  
+Prenons notre homme hardiment par surprise,  
+Montrons un coeur au-dessus du commun.  
+
+    RONDON.
+Soyons hardis, nous sommes six contre un.  
+
+    LISE, À RONDON.
+Ouvrez les yeux, et connaissez qui j'aime.  
+
+    RONDON.
+C'est lui.  
+
+    FIERENFAT.
+    Qui donc ?  
+
+    LISE.
+    Votre frère.  
+
+    EUPHÉMON PÈRE.
+        Lui-même.  
+
+    FIERENFAT.
+Vous vous moquez ! Ce fripon, mon frère ?  
+
+    LISE.
+        Oui.  
+
+    MADAME CROUPILLAC.
+J'en ai le coeur tout à fait réjoui.  
+
+    RONDON.
+Quel changement ! Quoi ? C'est donc là mon drôle ?  
+
+    FIERENFAT.
+Oh ! Oh ! Je joue un fort singulier rôle :  
+Tudieu, quel frère !  
+
+    EUPHÉMON PÈRE.
+        Oui, je l'avais perdu ;  
+Le repentir, le ciel me l'a rendu.  
+
+    MADAME CROUPILLAC.
+Bien à propos pour moi.  
+
+    FIERENFAT.
+        La vilaine âme !  
+Il ne revient que pour m'ôter ma femme !  
+
+    EUPHÉMON FILS, À FIERENFAT.
+Il faut enfin que vous me connaissiez :  
+C'est vous, monsieur, qui me la ravissiez.  
+Dans d'autres temps j'avais eu sa tendresse.  
+L'emportement d'une folle jeunesse  
+M'ôta ce bien dont on doit être épris,  
+Et dont j'avais trop mal connu le prix.  
+J'ai retrouvé, dans ce jour salutaire,  
+Ma probité, ma maîtresse, mon père.  
+M'envierez-vous l'inopiné retour  
+Des droits du sang et des droits de l'amour ?  
+Gardez mes biens, je vous les abandonne ;  
+Vous les aimez... moi, j'aime sa personne ;  
+Chacun de nous aura son vrai bonheur,  
+Vous dans mes biens, moi, monsieur, dans son coeur.  
+
+    EUPHÉMON PÈRE.
+Non, sa bonté si désintéressée  
+Ne sera pas si mal récompensée ;  
+Non, Euphémon, ton père ne veut pas  
+T'offrir sans bien, sans dot, à ses appas.  
+
+    RONDON.
+Oh ! Bon cela.  
+
+    MADAME CROUPILLAC.
+        Je suis émerveillée,  
+Tout ébaubie, et toute consolée.  
+Ce gentilhomme est venu tout exprès,  
+En vérité, pour venger mes attraits.  
+À Euphémon fils.
+
+Vite, épousez le ciel vous favorise,  
+Car tout exprès pour vous il a fait Lise ;  
+Et je pourrais par ce bel accident,  
+Si l'on voulait, ravoir mon président.  
+
+    LISE.
+À Rondon.
+
+De tout mon coeur. Et vous, souffrez, mon père,  
+Souffrez qu'une âme et fidèle et sincère,  
+Qui ne pouvait se donner qu'une fois,  
+Soit ramenée à ses premières lois.  
+
+    RONDON.
+Si sa cervelle est enfin moins volage...  
+
+    LISE.
+Oh ! J'en réponds.  
+
+    RONDON.
+        S'il t'aime, s'il est sage...  
+
+    LISE.
+N'en doutez pas.  
+
+    RONDON.
+        Si surtout Euphémon  
+D'une ample dot lui fait un large don,  
+J'en suis d'accord.  
+
+    FIERENFAT.
+        Je gagne en cette affaire  
+Beaucoup, sans doute, en trouvant un mien frère :  
+Mais cependant je perds en moins de rien  
+Mes frais de noce, une femme, et du bien.  
+
+    MADAME CROUPILLAC.
+Eh ! Fi, vilain ! Quel coeur sordide et chiche !  
+Faut-il toujours courtiser la plus riche ?  
+N'ai-je donc pas en contrats, en châteaux,  
+Assez pour vivre, et plus que tu ne vaux ?  
+Ne suis-je pas en date la première ?  
+N'as-tu pas fait, dans l'ardeur de me plaire,  
+De longs serments, tous couchés par écrit ;  
+Des madrigaux, des chansons sans esprit ?  
+Entre les mains j'ai toutes tes promesses :  
+Nous plaiderons ; je montrerai les pièces :  
+Le parlement doit, en semblable cas,  
+Rendre un arrêt contre tous les ingrats.  
+
+    RONDON.
+Ma foi, l'ami, crains sa juste colère ;  
+Épouse-la, crois-moi, pour t'en défaire.  
+
+    EUPHÉMON PÈRE, À MADAME CROUPILLAC.
+Je suis confus du vif empressement  
+Dont vous flattez mon fils le président ;  
+Votre procès lui devrait plaire encore ;  
+C'est un dépit dont la cause l'honore ;  
+Mais permettez que mes soins réunis  
+Soient pour l'objet qui m'a rendu mon fils.  
+Vous, mes enfants, dans ces moments prospères,  
+Soyez unis, embrassez-vous en frères.  
+Nous, mon ami, rendons grâces aux cieux,  
+Dont les bontés ont tout fait pour le mieux.  
+Non, il ne faut (et mon coeur le confesse)  
+Désespérer jamais de la jeunesse.  

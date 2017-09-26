@@ -1,0 +1,386 @@
+
+
+**** *book_ *id_I01 *act_I *date_1720
+
+-*who_leandre
+Écoute, mon citer z'Arlequin.
+
+-*who_arlequin
+Oui da, Monsieur, car je ne suis pas sourd.
+
+-*who_leandre
+Toujours plaisant à l'accoutumée, mais ce n'est pas de ça dont il s'agit, je t'ai toujours compté mes peines et mes malheurs.
+
+-*who_arlequin
+Oui, Monsieur.
+
+-*who_leandre
+J'ai du chagrin, mon cher z'Arlequiri, ce n'est point assurément contre la charmante z'isabelle, jamais fille ne peut être plus honnête et plus civile, car tous les jours elle m'aime ; mais encore tu sais bien que je vais passer z'ordinairement la nuit chez elle.
+
+-*who_arlequin
+Oui, Monsieur.
+
+-*who_leandre
+Ce n'est point contre la fortune que j'ai du méchant vouloir ; j'ai grâce au Ciel toujours la pièce blanche pour payer une bouteille z'à un ami.
+
+-*who_arlequin
+Je voudrais bien l'avoir moi pour payer une poularde et douze bouteilles de vin.
+
+-*who_leandre
+Ne deviendras-tu jamais modeste, mon cher z'Arlequin, les bons exemples et la civilité que tu me vois ne te feront-ils point z'amander.
+
+-*who_arlequin
+Mais, Monsieur, l'on dit tel valet... tel Maître.
+
+-*who_leandre
+Cela z'est vrai, tout le monde dit cela.
+
+-*who_arlequin
+Vous avez une maîtresse, vous avez la pièce blanche; si j'avais feulement le quart d'une maîtresse, et deux pièces blanches je serais plus content qu'un Pape.
+
+-*who_leandre
+Tais-toi z'insolent, il ne faut pas parler de ces personnes-là ; mais je te promets de quoi avoir z'une bonne bouteille de vin de la cuisse, si tu veux t'intéresser dans mon malheur.
+
+-*who_arlequin
+Parlez vite, car j'ai grand soif.
+
+-*who_leandre
+Tu connais ce coquin de manant de Gilles qui loge ici près !
+
+-*who_arlequin
+Si je le connais, je l'ai dévisagé cent foisÂ»
+
+-*who_leandre
+Hé bien c'est un malpropre, qui vient tous les jours paroles ne puent point faire ses excréments, ses vilenies à ma porte.
+
+-*who_arlequin
+Et pour cela vous me donnerez une bouteille de vin ?
+
+-*who_leandre
+Tu es toujours d'une z'impromptitude...
+
+-*who_arlequin
+Voulez-vous que j'en aille faire autant à la sienne, vous n'avez qu'à parler, cela sera bientôt fait, ce fera de l'argent bien gagné.
+
+-*who_leandre
+He non.
+
+-*who_arlequin
+Dame c'est que vous me faites venir l'eau à la bouche.
+
+-*who_leandre
+Écoute-moi,
+
+-*who_arlequin
+S'il ne tient qu'à cela pour obliger un ami, je mettrai tout par écuelles.
+
+-*who_leandre
+Veux-tu te taire ?
+
+-*who_arlequin
+C'est qu'aussi vous m'avez fait passer.
+
+-*who_leandre
+Encore !
+
+-*who_arlequin
+Monsieur, ne vous fâchez pas, mais dépêchez-vous, je fais pressé.
+
+-*who_leandre
+Je voudrais punir cet insolent qui a l'audace...
+
+-*who_arlequin
+De chier à notre porte.
+
+-*who_leandre
+Mais où est-ce que ça se fait ?
+Quoi !
+Parce que je lui ai donné quelques coups de bâton.
+
+-*who_arlequin
+Si cela se rendait comme cela, j'aurais chié dans votre lit, moi.
+Mais, Monsieur, ne vous mettez pas en peine, je vous promets de vous venger.
+Le voici qui sort, rentrons.
+Vous verrez beau jeu, il vient de me venir quelque chose en tête qui ne sera pas de paille.
+
+-*who_leandre
+Tu vois, mon cher z'Arlequin, que ton Maître te confie tout ce qui le chagrine,
+
+-*who_arlequin
+Allons, vous dis-je, nous allons voir beau jeu.
+
+**** *book_ *id_I02 *act_I *date_1720
+
+-*who_gilles
+Depuis que je n'ai plus mon onque ; je m'ennuie cheux nous, je ne sais que faire de mes dix doigts ; car enfin on ne peut toujours se gratter ; il faut que je me marie ; ma femme me grattera, je la gratterai, nous nous gratterons, je la battrai, elle me battra, nous nous battrons, et puis nous ferons la paix, et puis... parguenne, la voici ; quand on parle du loup on en voit la queue.
+Je voudrais bien qu'elle parlât de moi.
+
+**** *book_ *id_I03 *act_I *date_1720
+
+-*who_gilles
+Pardienne, voilà ce qu'on appelle ça un un bon cul de ménage, un bon...
+
+-*who_catin
+Que regardez-vous là, Monsieur Gilles ?
+
+-*who_gilles
+Mamselle je vous releluque ; et que faites vous comme ça toute seule ?
+
+-*who_catin
+Je vous entends badin ; mais pour se marier il faut avoir de quoi, et je n'ai pas de quoi payer une chopine de vin, ou bien un coup de café de Suisse.
+
+-*who_gilles
+Tant mieux ni moi non plus.
+
+-*who_catin
+Tant pis, et la marmite ?
+
+-*who_gilles
+Nous n'en ferons point, ça se répand d'un rien, bon, bon, qu'importe, regardez-moi, je ne sis ni tortu ni bossu, je trouverais de quoi ; s'il n'y avait que ceux qui ont des rentes qui en fissions la folie, il n'y aurait pas tant de cocus.
+
+-*who_catin
+Tout cela est bel et bon, Monsieur Gilles, mais il faut du comptant.
+
+-*who_gilles
+Ah, Mamselle, vous en avez pour nous deux, mais pardienne je suis bien aise de vous voir avant que les choses aillent plus loin.
+
+-*who_catin
+He pourquoi donc ?
+
+-*who_gilles
+Trottez, marchez, quarrez-vous devant moi.
+
+-*who_catin
+Est-ce comme cela, Monsieur Gilles ?
+
+-*who_gilles
+Oui fort bien, car je ne veux pas acheter chat en poche ; mais dites-moi z'un peu ?
+
+-*who_catin
+Quoi ?
+
+-*who_gilles
+Êtes-vous bien fille partout ?
+
+-*who_catin
+Oh beaucoup.
+Comptez que je la suis autant que l'était ma mère après m'avoir mis au monde.
+Je ne puis pas dire davantage.
+
+-*who_gilles
+Oh !
+Si cela est, je n'ai rien à dire, car assurément votre mère n'était pas un homme.
+
+-*who_catin
+Oui, mais Monsieur Gilles, je m'amuse ici à la moutarde, votre cul est une bête qui se fait porter par un âne ; si vous croyez m'épouser sans rien avoir, on sans savoir comment en gagner.
+Je suis votre servante, Monsieur Gilles.
+
+**** *book_ *id_I04 *act_I *date_1720
+
+-*who_gilles
+Pardienne, elle a raison : il faut que je cherche à faire queuque chose.
+Voyons :
+Si j'avais des rentes je n'aurais pas tant de peine à trouver un métier.
+Allons, il faut que j'en cherche, j'épouserai Catin, j'aurai bien des petits enfants ; toutes les filles seront Catins, et tous les garçons seront Gilles.
+Pardienne, j'aurai bien de la famille.
+
+**** *book_ *id_I05 *act_I *date_1720
+
+-*who_arlequin
+Ah bonjour Gilles ; comment te portes-tu ?
+
+-*who_gilles
+Fort bien, sans argent, sans embarras ; et toi ?
+
+-*who_arlequin
+Je me suis mis dans le négoce, de la marchandise.
+
+-*who_gilles
+Diantre !
+Eh que vendez-vous donc ?
+
+-*who_arlequin
+Tenez, voyez si vous connaissez cette marchandise ?
+
+-*who_gilles
+Pardienne, oui, j'en fais tous les jours, c'est de la merde ; est-ce que cela se vent ?
+
+-*who_arlequin
+Vraiment oui, on en a même un grand débit ; d'où venez vous donc ?
+
+-*who_gilles
+Jamais je n'en ai entendu parler, et j'en vois tant dans les rues auxquelles on ne touche point.
+
+-*who_arlequin
+C'est qu'il y a tant de gens qui ont d'autres professions, qu'ils ne pensent point à cela.
+
+-*who_gilles
+Mais moi qui vous parle qui ne sais point de métier, je n'y ai jamais pensé non plus.
+Oh combien j'en ai perdu !
+Mais à qui vend on cela ?
+
+-*who_arlequin
+Ô bien des gens, mais surtout aux Apothicaires.
+Tenez vous-là, vous allez voir.
+
+**** *book_ *id_I06 *act_I *date_1720
+
+-*who_arlequin
+Voudriez-vous, Monsieur, acheter ma marchandise, j'en ferai bon marché !
+
+-*who_lapothicaire
+Voyons, Monsieur, voyons.
+
+-*who_arlequin
+Goûtez, Monsieur, examinez, vous n'en trouverez pas de meilleure.
+
+-*who_lapothicaire
+La marchandise pourrait être mieux conditionnée.
+Mais voyons, le prix fait tout ; combien en voulez-vous ?
+
+-*who_arlequin
+J'en veux sept écus.
+
+-*who_lapothicaire
+Allons, c'est trop : en voulez-vous cinq ?
+
+-*who_arlequin
+Oh !
+Je ne puis, Monsieur, j'y perdrais trop.
+
+-*who_gilles
+Il y perdrait ?
+
+-*who_arlequin
+Croyez-moi, Monsieur, ne me laissez point aller.
+Je fournis un de vos confrères qui ne barguignera pas lui, il m'en donnera peut-être davantage.
+
+-*who_lapothicaire
+Tenez donc, voilà vos sept écus, puisque vous n'en voulez rien rabattre.
+
+**** *book_ *id_I07 *act_I *date_1720
+
+-*who_arlequin
+Hé bien, ne l'ai-je pas bien vendu ?
+Et si la marchandise allait, j'en aurais eu bien davantage.
+
+-*who_gilles
+Pardienne voilà qui est admirable !
+Je ne l'aurais pas cru si je ne l'avais vu.
+Allons voilà qui est fait.
+Je me fais Marchand de Merde ; je cherchais une profession, celle-là n'est pas difficile, je serai Maître tout d'un plein saut, et Catin n'aura plus rien à me reprocher.
+Monsieur z'Arlequin je vous suis bien obligé.
+
+**** *book_ *id_I08 *act_I *date_1720
+
+-*who_arlequin
+Le drôle de corps !
+Je lui ai donné là un métier avec lequel il va faire une grande fortune, mais du moins notre quartier sera propre, il ne chiera plus à notre porte, et Monsieur Liandre me donnera pour boire.
+Voici l'Apothicaire qui ne me paraît pas content de sa marchandise, sauvons-nous.
+
+**** *book_ *id_I09 *act_I *date_1720
+
+-*who_lapothicaire
+Si je pouvais tenir cet insolent, cet affronteur qui m'a vendu de la merde pour du miel, je lui ferais bien voir que ce n'est pas à un Apothicaire qu'il faut se jouer.
+Je n'ose me plaindre de la friponnerie qu'on m'a faite, car tout le monde encore se moquerait de moi.
+Que faire ?
+Il faut prendre patience en enrageant.
+
+**** *book_ *id_I10 *act_I *date_1720
+
+-*who_gilles
+Qui veut de ma merde ?
+Argent de ma merde ; c'est de la fraîche.
+
+-*who_lapothicaire
+Voilà un de ces affronteurs, ou quelqu'un qui veut se moquer de moi.
+
+-*who_gilles
+Ah !
+Monsieur, profitez du bon marché, je suis pressé de vendre.
+
+-*who_lapothicaire
+Vous êtes un insolent.
+
+-*who_gilles
+Monsieur, Monsieur, on ne traite point un honnête marchand comme vous faites.
+
+-*who_lapothicaire
+Un Marchand de mon cul.
+
+-*who_gilles
+Je parie que votre cul n'en fait pas de si bonne que celle-ci.
+Mais goûtez avant que de mépriser la marchandise, vous verrez qu'elle vaut mieux que celle de tantôt.
+
+-*who_lapothicaire
+Ce coquin ci payera pour l'autre.
+
+-*who_gilles
+Vous avez donné tantôt sept écus pour un petit baril ?
+Hé bien je vous donnerai celui-ci qui est trois fois plus gros pour dix écus, comptez que c'est une trouvaille.
+
+-*who_lapothicaire
+Tiens Marchand de Merde, garde ta marchandise pour toi et t'en va.
+
+-*who_gilles
+Au voleur, au voleur, je suis un homme ruiné, il n'y a plus de police ici.
+
+**** *book_ *id_I11 *act_I *date_1720
+
+-*who_arlequin
+Qu'as-tu donc à crier ?
+
+-*who_gilles
+Ah !
+Mon confrère, vous voyez comment on traite les marchands.
+
+-*who_arlequin
+Il faut faire une plainte devant Monsieur le Commissaire.
+
+-*who_gilles
+J'y consens.
+
+-*who_arlequin
+Tu as peut-être aussi fait quelque faute ?
+Le métier n'est cependant pas difficile.
+
+-*who_gilles
+Non vraimentÂ» je vous assure, la marchandise était bonne, sentez plutôt, vous devez vous y connaître.
+Ce vilain apothicaire de mon cul, n'a seulement pas voulu la goûter.
+
+-*who_arlequin
+Il était peut-être enrhumé ?
+
+-*who_leandre
+Il faut espérer, Monsieur Gilles, que vous serez plus heureux une autrefois ; continuez toujours.
+
+-*who_gilles
+Pardienne, Monsieur, je suis bien dégoûté du commerce.
+
+-*who_leandre
+Croyez-moi cependant, ne venez plus chier à la porte des gens, gardez votre marchandise pour vous.
+
+-*who_arlequin
+Nous t'avons donné sur le corps la pièce de ton échantillon...
+
+**** *book_ *id_I12 *act_I *date_1720
+
+-*who_catin
+Hé mon pauvre Gilles, comment te voilà fait, on ne saurait t'approcher.
+
+-*who_gilles
+Tu vois, j'ai voulu lever boutique pour être en état de t'épouser, je me suis fait Marchand de Merde.
+
+-*who_catin
+Je le sens bien nigaud ; je ne veux pas d'un mari qui soit aussi sot, je veux que ce soit moi qui le fasse.
+Votre servante, Monsieur.
+
+-*who_leandre
+Ni moi d'un voisin qui vienne tous les jours chier à ma porte.
+
+-*who_arlequin
+Et moi je ne veux jamais parler z'à un homme qui sait aussi mal vendre sa marchandise.
+
+-*who_gilles
+Adieu donc.
+Pardienne aussi la vie du monde est bien difficile.

@@ -1,0 +1,1157 @@
+---
+identifier: marivaux_arlequinpoliparlamour  
+creator: Marivaux  
+date: 1720  
+title: Arlequin poli par l’amour. , comédie  
+---
+
+
+ARLEQUIN POLI PAR L'AMOUR
+
+COMÉDIE en un acte, en prose.
+
+REPRÉSENTÉE PAR LES Comédiens Italiens de son Altesse Royale Monseigneur LE DUC D'ORLÉANS.
+
+M. DCC. XXIII.
+
+MARIVAUX
+
+# PRIVILÈGE DU ROI. LOUIS, par la grâce de Dieu, Roi de France et de Navarre : À nos Amés et féaux Conseillers, les Gens tenant nos Cours de Paiement, Maîtres des Requêtes ordinaires de nôtre Hôtel, Grand Conseil, Prévôt de Paris, Baillifs, Sénéchaux, leurs Lieutenants Civils, et autres Nos Justiciers qu'il appartiendra, Salut : Nôtre bien amé le Sieur CARLET DE MARIVAUX nous ayant fait exposer qu'il souhaiterait faire imprimer et donner au Public Arlequin Poli par l'amour ; et la Surprise de l'amour s'il Nous plaisait de lui accorder nos Lettres de Privilège sur ce nécessaires : À ces causes, voulant traiter favorablement ledit exposant, Nous lui avons permis et permettons par ces présentes de faire imprimer ledit Livre ci-dessus énoncé en tels volumes, forme, marge, caractères, conjointement ou séparément et autant de fois que bon lui semblera et de le faire vendre et débiter partout nôtre Royaume, pendant le temps de six Années consécutives à compter du jour de la date desdites Présentes : Faisons défenses à toutes sortes de personnes de quelque qualité et condition qu'elles soient, d'en introduire d'impression étrangère dans aucun lieu de notre obéissance : Comme aussi à tous Imprimeurs, Libraires et autres, d'imprimer, faire imprimer, vendre, faire vendre, débiter ni contrefaire ledit Livre ci-dessus spécifié en tout ou en partie ni d'en faire aucun extraits, sous quelque prétexte que ce soit, d'augmentation, correction, changement de titre ou autrement, sans la permission expresse et par écrit dudit Sieur exposant ou de ceux qui auront droit de lui, à peine de confiscation des exemplaires contrefaits, de quinze cent livres d'amende contre chacun des contrevenants dont un tiers à Nous, un tiers à l'Hôtel-Dieu de Paris, l'autre tiers audit Sieur Exposant, et de tous dépens, dommages et intérêts : À la charge que ces Présentes feront enregistrées tout au long sur le Registre de la Communauté des Imprimeurs et Libraires de Paris, et ce dans trois mois de la date d'icelles ; Que l'impression de ce Livre fera faite dans notre Royaume, et non ailleurs, en bon papier et en beaux caractères, conformément aux Règlements de la Librairie et qu'avant que l'exposer en vente, le Manuscrit ou imprimé qui aura servi de copie à l'Impression dudit Livre, sera remis dans le même état où l'approbation y aura été donnée, es mains de notre très cher et féal Chevalier Garde des Sceaux de France le sieur Fleuriau d'Armenonville : Et qu'il en fera ensuite remis deux exemplaires dans nôtre Bibliothèque publique, un dans celle de notre Château du Louvre, et un dans celle de nôtre très-cher et féal Chevalier-Garde des sceaux de France, le Sieur Fleuriau d'Armenonviile. Le tout à peine de nullité des présentes du contenu desquelles vous mandons et enjoignons de faire jouir ledit Sieur Exposant ou ses ayants causes, pleinement et paisiblement, sans souffrir qu'il leur soit fait aucun trouble ou empêchements : Voulons que la copie desdites présentes, qui sera imprimée tout au long au commencement ou à la fin dudit Livre, soit tenue pour dument signifiée, et qu'aux Copies collationnées par l'un de nos Amés et Féaux Condeilliers et Secrétaires, foi soit ajoutée comme à l'Original ; Commandons an premier notre Huissier ou Sergent de faire pour l'exécution d'icelles tous actes requis et nécessaires sans demander autre permimon, et nonobstant Clameur de Haro, Charte Normande, et Lettres à ce contraires. CAR TEL EST NÔTRE PLAISIR. Donné à Paris le quatrième jour du mois de Juin, l'An de grâce mille sept cent vingt-trois, et de notre Règne le huitième. Signé par le Roi en son Conseil, DE S. HILAIRE. Il est ordonnée par L'Edit du Roi, du mois d'août 1686 et Arrêt de son conseil, que les livres dont l'impression se permet par Privilège de sa Majesté, ne pourront être vendus que par un Libraire ou Imprimeur. Registré sur le Registre IV de la Communauté des Imprimeurs et libraires de PAris, Page 270. n°544 conformément aux Règlements, et notamment à l'Arrêt du Conseil du 13 août 1703. À Paris le 19 juin 1723. BALLARD, Syndic. # APPROBATION. J4ai lu par l'Ordre de Monseigneur le Chancelier une Comédie qui a pour titre : Arlequin poli par l'Amour, et j'ai cru que l'impression en serait agréable au public. À Paris, ce 2 juin 1723. Signé DANCHET.À PARIS, Chez La VEUVE GUILLAUME, Quai des Augustins, au coin de la rue Pavée, au nom de Jésus.
+Représentée pour la première fois par les Comédiens-Italiens, le 17 octobre 1720, à l'Hôtel de Bourgogne.
+
+
+# ACTEURS DE LA COMÉDIE.
+ – LA FÉE..
+ – TRIVELIN, domestique de la Fée.
+ – ARLEQUIN, jeune homme enlevé par la Fée.
+ – SILVIA, bergère, amante d'Arlequin.
+ – UN BERGER, amoureux de Silvia.
+ – AUTRE BERGÈRE, cousine de Silvia.
+ – TROUPE DE DANSEURS ET CHANTEURS.
+ – TROUPE DE LUTINS.Le jardin de la Fée est représenté.
+
+
+# .
+
+
+## SCÈNE I. La Fée, Trivelin.
+
+    TRIVELIN, À LA FÉE QUI SOUPIRE.
+Vous soupirez, Madame, et malheureusement pour vous, vous risquez de soupirer longtemps si votre raison n'y met ordre ; me permettrez-vous de vous dire ici mon petit sentiment ?
+
+    LA FÉE.
+Parle.
+
+    TRIVELIN.
+Le jeune homme que vous avez enlevé à ses parents est un beau brun, bien fait ; c'est la figure la plus charmante du monde ; il dormait dans un bois quand vous le vîtes, et c'était assurément voir l'Amour endormi ; je ne suis donc point surpris du penchant subit qui vous a pris pour lui.
+
+    LA FÉE.
+Est-il rien de plus naturel que d'aimer ce qui est aimable ?
+
+    TRIVELIN.
+Oh sans doute ; cependant avant cette aventure, vous aimiez assez le grand enchanteur Merlin.
+
+    LA FÉE.
+Eh bien, l'un me fait oublier l'autre : cela est encore fort naturel.
+
+    TRIVELIN.
+C'est la pure nature ; mais il reste une petite observation à faire : c'est que vous enlevez le jeune homme endormi, quand peu de jours après vous allez épouser le même Merlin qui en a votre parole. Oh ! Cela devient sérieux ; et entre nous, c'est prendre la nature un peu trop à la lettre ; cependant passe encore ; le pis qu'il en pouvait arriver, c'était d'être infidèle ; cela serait très vilain dans un homme, mais dans une femme, cela est plus supportable : quand une femme est fidèle, on l'admire ; mais il y a des femmes modestes qui n'ont pas la vanité de vouloir être admirées ; vous êtes de celles-là, moins de gloire, et plus de plaisir, à la bonne heure.
+
+    LA FÉE.
+De la gloire à la place où je suis, je serais une grande dupe de me gêner pour si peu de chose.
+
+    TRIVELIN.
+C'est bien dit, poursuivons : vous portez le jeune homme endormi dans votre palais, et vous voilà à guetter le moment de son réveil ; vous êtes en habit de conquête, et dans un attirail digne du mépris généreux que vous avez pour la gloire, vous vous attendiez de la part du beau garçon à la surprise la plus amoureuse ; il s'éveille, et vous salue du regard le plus imbécile que jamais nigaud ait porté : vous vous approchez, il bâille deux ou trois fois de toutes ses forces, s'allonge, se retourne et se rendort : voilà l'histoire curieuse d'un réveil qui promettait une scène si intéressante. Vous sortez en soupirant de dépit, et peut-être chassée par un ronflement de basse-taille, aussi nourri qu'il en soit ; une heure se passe, il se réveille encore, et ne voyant personne auprès de lui, il crie : eh ! À ce cri galant, vous rentrez ; l'Amour se frottait les yeux : que voulez-vous, beau jeune homme, lui dites-vous ? Je veux goûter, moi, répond-il. Mais n'êtes-vous point surpris de me voir, ajoutez-vous ? Eh ! Mais oui, repart-il. Depuis quinze jours qu'il est ici, sa conversation a toujours été de la même force ; cependant vous l'aimez, et qui pis est, vous laissez penser à Merlin qu'il va vous épouser, et votre dessein, m'avez-vous dit, est, s'il est possible, d'épouser le jeune homme ; franchement, si vous les prenez tous deux, suivant toutes les règles, le second mari doit gâter le premier.
+
+    LA FÉE.
+Je vais te répondre en deux mots : la figure du jeune homme en question m'enchante ; j'ignorais qu'il eût si peu d'esprit quand je l'ai enlevé. Pour moi, sa bêtise ne me rebute point : j'aime, avec les grâces qu'il a déjà, celles que lui prêtera l'esprit quand il en aura. Quelle volupté de voir un homme aussi charmant me dire à mes pieds : je vous aime ! Il est déjà le plus beau brun du monde, mais sa bouche, ses yeux, tous ses traits seront adorables, quand un peu d'amour les aura retouchés, mes soins réussiront peut-être à lui en inspirer. Souvent il me regarde ; et tous les jours je touche au moment où il peut me sentir et se sentir lui-même : si cela lui arrive, sur-le-champ j'en fais mon mari ; cette qualité le mettra alors à l'abri des fureurs de Merlin; mais avant cela, je n'ose mécontenter cet enchanteur, aussi puissant que moi, et avec qui je différerai le plus longtemps que je pourrai.
+
+    TRIVELIN.
+Mais si le jeune homme n'est jamais, ni plus amoureux, ni plus spirituel, si l'éducation que vous tâchez de lui donner ne réussit pas, vous épouserez donc Merlin ?
+
+    LA FÉE.
+Non ; car en l'épousant même je ne pourrais me déterminer à perdre de vue l'autre, et si jamais il venait à m'aimer, toute mariée que je serais, je veux bien te l'avouer, je ne me fierais pas à moi.
+
+    TRIVELIN.
+Oh, je m'en serais bien douté, sans que vous me l'eussiez dit : femme tentée, et femme vaincue, c'est tout un. Mais je vois notre bel imbécile qui vient avec son maître à danser.
+
+
+## SCÈNE II. Arlequin, entre, la tête dans l'estomac, ou de la façon niaise dont il voudra, Son Maître à danser, La Fée, Trivelin.
+
+    LA FÉE.
+Eh bien, aimable enfant, vous me paraissez triste : y a-t-il quelque chose ici qui vous déplaise ?
+
+    ARLEQUIN.
+Moi, je n'en sais rien.
+Trivelin rit.
+
+
+    LA FÉE, À TRIVELIN.
+Oh ! je vous prie, ne riez pas, cela me fait injure, je l'aime, cela vous suffit pour le respecter.
+Pendant ce temps Arlequin prend des mouches, la Fée continuant à parler à Arlequin.
+
+Voulez-vous bien prendre votre leçon, mon cher enfant ?
+
+    ARLEQUIN, COMME N’AYANT PAS ENTENDU.
+Hem.
+
+    LA FÉE.
+Voulez-vous prendre votre leçon, pour l'amour de moi ?
+
+    ARLEQUIN.
+Non.
+
+    LA FÉE.
+Quoi ! Vous me refusez si peu de chose, à moi qui vous aime ?
+Alors Arlequin lui voit une grosse bague au doigt, il lui va prendre la main, regarde la bague, et lève la tête en se mettant à rire niaisement.
+
+
+    LA FÉE.
+Voulez-vous que je vous la donne ?
+
+    ARLEQUIN.
+Oui-dà.
+
+    LA FÉE TIRE LA BAGUE DE SON DOIGT, ET LUI PRÉSENTE.
+Comme il la prend grossièrement, elle lui dit.
+
+Mon cher Arlequin, un beau garçon comme vous, quand une dame lui présente quelque chose, doit baiser la main en le recevant.
+Arlequin alors prend goulûment la main de la Fée qu'il baise.
+
+
+    LA FÉE DIT.
+Il ne m'entend pas, mais du moins sa méprise m'a fait plaisir.
+Elle ajoute :
+
+Baisez la vôtre à présent.
+Arlequin alors baise le dessus de sa main ; la Fée soupire, et lui donnant sa bague, lui dit :
+
+La voilà, en revanche, recevez votre leçon.
+Alors le maître à danser apprend à Arlequin à faire la révérence. Arlequin égaie cette scène de tout ce que son génie peut lui fournir de propre au sujet.
+
+
+    ARLEQUIN.
+Je m'ennuie.
+
+    LA FÉE.
+En voilà donc assez : nous allons tâcher de vous divertir.
+
+    ARLEQUIN ALORS SAUTE DE JOIE DU DIVERTISSEMENT PROPOSÉ, ET DIT EN RIANT.
+Divertir, divertir.
+
+
+## SCÈNE III. La Fée, Arlequin, Trivelin, Une troupe de chanteurs et danseurs.
+La Fée fait asseoir Arlequin alors auprès d'elle sur un banc de gazon qui sera auprès de la grille du théâtre. Pendant qu'on danse, Arlequin siffle.
+
+
+    UN CHANTEUR, À ARLEQUIN.
+Beau brunet, l'Amour vous appelle.  
+
+    ARLEQUIN, À CE VERS, SE LÈVE NIAISEMENT ET DIT.
+Je ne l'entends pas, où est-il ?
+Il l'appelle:
+
+Hé ! Hé !
+
+    LE CHANTEUR CONTINUE.
+Beau brunet, l'Amour vous appelle.  
+
+    ARLEQUIN, EN SE RASSEYANT, DIT.
+Qu'il crie donc plus haut.
+
+    LE CHANTEUR CONTINUE EN LUI MONTRANT LA FÉE.
+Voyez-vous cet objet charmant,  
+Ces yeux dont l'ardeur étincelle,  
+Vous répètent à tout moment :  
+Beau brunet, l'Amour vous appelle.  
+
+    ARLEQUIN, ALORS EN REGARDANT LES YEUX DE LA FÉE, DIT.
+Dame, cela est drôle !
+
+    UNE CHANTEUSE BERGÈRE VIENT, ET DIT À ARLEQUIN.
+Aimez, aimez, rien n'est si doux.  
+
+    ARLEQUIN, LÀ-DESSUS, RÉPOND.
+Apprenez, apprenez-moi cela.
+
+    LA CHANTEUSE CONTINUE EN LE REGARDANT.
+Ah ! Que je plains votre ignorance.  
+Quel bonheur pour moi, quand j'y pense,  
+Elle montre le chanteur.
+
+Qu'Atys en sache plus que vous !  
+
+    LA FÉE, ALORS EN SE LEVANT, DIT À ARLEQUIN.
+Cher Arlequin, ces tendres chansons ne vous inspirent-elles rien ? Que sentez-vous ?
+
+    ARLEQUIN.
+Je sens un grand appétit.
+
+    TRIVELIN.
+C'est-à-dire qu'il soupire après sa collation ; mais voici un paysan qui veut vous donner le plaisir d'une danse de village, après quoi nous irons manger.
+Un paysan danse.
+
+
+    LA FÉE SE RASSIED, ET FAIT ASSEOIR ARLEQUIN QUI S’ENDORT.
+Quand la danse finit, la Fée le tire par le bras, et lui dit en se levant.Vous vous endormez, que faut-il donc faire pour vous amuser ?
+
+    ARLEQUIN, EN SE RÉVEILLANT, PLEURE.
+Hi, hi, hi, mon père, eh ! Je ne vois point ma mère !
+
+    LA FÉE, À TRIVELIN.
+Emmenez-le, il se distraira peut-être, en mangeant, du chagrin qui le prend ; je sors d'ici pour quelques moments ; quand il aura fait collation, laissez-le se promener où il voudra.
+Ils sortent tous.
+
+
+
+## SCÈNE IV. Silvia, Le Berger.
+La scène change et représente au loin quelques moutons qui paissent. Silvia entre sur la scène en habit de bergère, une houlette à la main, un berger la suit.
+
+
+    LE BERGER.
+Vous me fuyez, belle Silvia ?
+
+    SILVIA.
+Que voulez-vous que je fasse, vous m'entretenez d'une chose qui m'ennuie, vous me parlez toujours d'amour.
+
+    LE BERGER.
+Je vous parle de ce que je sens.
+
+    SILVIA.
+Oui, mais je ne sens rien, moi.
+
+    LE BERGER.
+Voilà ce qui me désespère.
+
+    SILVIA.
+Ce n'est pas ma faute, je sais bien que toutes nos bergères ont chacune un berger qui ne les quitte point ; elles me disent qu'elles aiment, qu'elles soupirent ; elles y trouvent leur plaisir. Pour moi, je suis bien malheureuse : depuis que vous dites que vous soupirez pour moi, j'ai fait ce que j'ai pu pour soupirer aussi, car j'aimerais autant qu'une autre à être bien aise ; s'il y avait quelque secret pour cela, tenez, je vous rendrais heureux tout d'un coup, car je suis naturellement bonne.
+
+    LE BERGER.
+Hélas ! pour de secret, je n'en sais point d'autre que celui de vous aimer moi-même.
+
+    SILVIA.
+Apparemment que ce secret-là ne vaut rien ; car je ne vous aime point encore, et j'en suis bien fâchée ; comment avez-vous fait pour m'aimer, vous ?
+
+    LE BERGER.
+Moi, je vous ai vue : voilà tout.
+
+    SILVIA.
+Voyez quelle différence ; et moi, plus je vous vois et moins je vous aime. N'importe, allez, allez, cela viendra peut-être, mais ne me gênez point. Par exemple, à présent, je vous haïrais si vous restiez ici.
+
+    LE BERGER.
+Je me retirerai donc, puisque c'est vous plaire, mais pour me consoler, donnez-moi votre main, que je la baise.
+
+    SILVIA.
+Oh non ! On dit que c'est une faveur, et qu'il n'est pas honnête d'en faire, et cela est vrai, car je sais bien que les bergères se cachent de cela.
+
+    LE BERGER.
+Personne ne nous voit.
+
+    SILVIA.
+Oui ; mais puisque c'est une faute, je ne veux point la faire qu'elle ne me donne du plaisir comme aux autres.
+
+    LE BERGER.
+Adieu donc, belle Silvia, songez quelquefois à moi.
+
+    SILVIA.
+Oui, oui.
+
+
+## SCÈNE V. Silvia, Arlequin, mais il ne vient qu'un moment après que Silvia a été seule.
+
+    SILVIA.
+Que ce berger me déplaît avec son amour ! Toutes les fois qu'il me parle, je suis toute de méchante humeur.
+Et puis voyant Arlequin.
+
+Mais qui est-ce qui vient là ? Ah mon Dieu le beau garçon !
+
+    ARLEQUIN ENTRE EN JOUANT AU VOLANT, IL VIENT DE CETTE FAÇON JUSQU’AUX PIEDS DE SILVIA, LÀ IL LAISSE EN JOUANT TOMBER LE VOLANT, ET, EN SE BAISSANT POUR LE RAMASSER, IL VOIT SILVIA ; IL DEMEURE ÉTONNÉ ET COURBÉ ; PETIT À PETIT ET PAR SECOUSSES IL SE REDRESSE LE CORPS : QUAND IL S’EST ENTIÈREMENT REDRESSÉ, IL LA REGARDE, ELLE, HONTEUSE, FEINT DE SE RETIRER DANS SON EMBARRAS, IL L’ARRÊTE, ET DIT.
+Vous êtes bien pressée ?
+
+    SILVIA.
+Je me retire, car je ne vous connais pas.
+
+    ARLEQUIN.
+Vous ne me connaissez pas ? Tant pis ; faisons connaissance, voulez-vous ?
+
+    SILVIA, ENCORE HONTEUSE.
+Je le veux bien.
+
+    ARLEQUIN, ALORS S’APPROCHE D’ELLE ET LUI MARQUE SA JOIE PAR DE PETITS RIS, ET DIT.
+Que vous êtes jolie !
+
+    SILVIA.
+Vous êtes bien obligeant.
+
+    ARLEQUIN.
+Oh point, je dis la vérité.!
+
+    SILVIA, EN RIANT UN PEU À SON TOUR.
+Vous êtes bien joli aussi, vous.
+
+    ARLEQUIN.
+Tant mieux : où demeurez-vous ? Je vous irai voir.
+
+    SILVIA.
+Je demeure tout près ; mais il ne faut pas venir; il vaut mieux nous voir toujours ici, parce qu'il y a un berger qui m'aime ; il serait jaloux, et il nous suivrait.
+
+    ARLEQUIN.
+Ce berger-là vous aime ?
+
+    SILVIA.
+Oui.
+
+    ARLEQUIN.
+Voyez donc cet impertinent ! Je ne le veux pas, moi. Est-ce que vous l'aimez, vous ?
+
+    SILVIA.
+Non, je n'en ai jamais pu venir à bout.
+
+    ARLEQUIN.
+C'est bien fait, il faut n'aimer personne que nous deux ; voyez si vous le pouvez ?
+
+    SILVIA.
+Oh ! De reste, je ne trouve rien de si aisé.
+
+    ARLEQUIN.
+Tout de bon ?
+
+    SILVIA.
+Oh ! Je ne mens jamais, mais où demeurez-vous aussi ?
+
+    ARLEQUIN, LUI MONTRANT DU DOIGT.
+Dans cette grande maison.
+
+    SILVIA.
+Quoi ! Chez la Fée ?
+
+    ARLEQUIN.
+Oui.
+
+    SILVIA, TRISTEMENT.
+J'ai toujours eu du malheur.
+
+    ARLEQUIN, TRISTEMENT AUSSI.
+Qu'est-ce que vous avez, ma chère amie ?
+
+    SILVIA.
+C'est que cette Fée est plus belle que moi, et j'ai peur que notre amitié ne tienne pas.
+
+    ARLEQUIN, IMPATIEMMENT.
+J'aimerais mieux mourir.
+Et puis tendrement.
+
+Allez, ne vous affligez pas, mon petit coeur.
+
+    SILVIA.
+Vous m'aimerez donc toujours ?
+
+    ARLEQUIN.
+Tant que je serai en vie.
+
+    SILVIA.
+Ce serait bien dommage de me tromper, car je suis si simple. Mais mes moutons s'écartent, on me gronderait s'il s'en perdait quelqu'un : il faut que je m'en aille. Quand reviendrez-vous ?
+
+    ARLEQUIN, AVEC CHAGRIN.
+Oh ! Que ces moutons me fâchent !
+
+    SILVIA.
+Et moi aussi, mais que faire ? Serez-vous ici sur le soir ?
+
+    ARLEQUIN.
+Sans faute.
+En disant cela il lui prend la main et il ajoute :
+
+Oh les jolis petits doigts !
+Il lui baise la main et dit :
+
+Je n'ai jamais eu de bonbon si bon que cela.
+
+    SILVIA RIT ET DIT.
+Adieu donc.
+Et puis à part.
+
+Voilà que je soupire, et je n'ai point eu de secret pour cela.
+Elle laisse tomber son mouchoir en s'en allant. Arlequin le ramasse et la rappelle pour lui donner.
+
+
+    ARLEQUIN.
+Mon amie !
+
+    SILVIA.
+Que voulez-vous, mon amant ?
+Et puis voyant son mouchoir entre les mains d'Arlequin.
+
+Ah ! C'est mon mouchoir, donnez.
+
+    ARLEQUIN LE TEND, ET PUIS RETIRE LA MAIN; IL HÉSITE, ET ENFIN IL LE GARDE, ET DIT :.
+Non, je veux le garder, il me tiendra compagnie. Qu'est-ce que vous en faites ?
+
+    SILVIA.
+Je me lave quelquefois le visage, et je m'essuie avec.
+
+    ARLEQUIN, EN LE DÉPLOYANT.
+Et par où vous sert-il, afin que je le baise par là ?
+
+    SILVIA, EN S’EN ALLANT.
+Partout, mais j'ai hâte, je ne vois plus mes moutons ; adieu, jusqu'à tantôt.
+Arlequin la salue en faisant des singeries, et se retire aussi.
+
+
+
+## SCÈNE VI. La Fée, Trivelin.
+La scène change, et représente le jardin de la Fée.
+
+
+    LA FÉE.
+Eh bien ! Notre jeune homme, a-t-il goûté ?
+
+    TRIVELIN.
+Oui, goûté comme quatre : il excelle en fait d'appétit.
+
+    LA FÉE.
+Où est-il à présent ?
+
+    TRIVELIN.
+Je crois qu'il joue au volant dans les prairies ; mais j'ai une nouvelle à vous apprendre.
+
+    LA FÉE.
+Quoi, qu'est-ce que c'est ?
+
+    TRIVELIN.
+Merlin est venu pour vous voir.
+
+    LA FÉE.
+Je suis ravie de ne m'y être point rencontrée ; car c'est une grande peine que de feindre de l'amour pour qui l'on n'en sent plus.
+
+    TRIVELIN.
+En vérité, Madame, c'est bien dommage que ce petit innocent l'ait chassé de votre coeur ! Merlin est au comble de la joie, il croit vous épouser incessamment. Imagines-tu quelque chose d'aussi beau qu'elle ? me disait-il tantôt, en regardant votre portrait. Ah ! Trivelin, que de plaisirs m'attendent ! Mais je vois bien que de ces plaisirs-là il n'en tâtera qu'en idée, et cela est d'une triste ressource, quand on s'en est promis la belle et bonne réalité. Il reviendra, comment vous tirerez-vous d'affaire avec lui ?
+
+    LA FÉE.
+Jusqu'ici je n'ai point encore d'autre parti à prendre que de le tromper.
+
+    TRIVELIN.
+Eh ! N'en sentez-vous pas quelque remords de conscience ?
+
+    LA FÉE.
+Oh ! J'ai bien d'autres choses en tête, qu'à m'amuser à consulter ma conscience sur une bagatelle..
+
+    TRIVELIN, À PART.
+Voilà ce qui s'appelle un coeur de femme complet.
+
+    LA FÉE.
+Je m'ennuie de ne point voir Arlequin ; je vais le chercher ; mais le voilà qui vient à nous : qu'en dis-tu, Trivelin ? Il me semble qu'il se tient mieux qu'à l'ordinaire ?
+
+
+## SCÈNE VII. La Fée, Trivelin, Arlequin.
+Arlequin arrive tenant en main le mouchoir de Silvia qu'il regarde, et dont il se frotte tout doucement le visage.
+
+
+    LA FÉE, CONTINUANT DE PARLER À TRIVELIN.
+Je suis curieuse de voir ce qu'il fera tout seul, mets-toi à côté de moi, je vais tourner mon anneau qui nous rendra invisibles.
+Arlequin arrive au bord du théâtre, et il saute en tenant le mouchoir de Silvia, il le met dans son sein, il se couche et se roule dessus; et tout cela gaiement. La Fée, à Trivelin.
+
+Qu'est-ce que cela veut dire ? Cela me paraît singulier. Où a-t-il pris ce mouchoir ? Ne serait-ce pas un des miens qu'il aurait trouvé ? Ah ! Si cela était, Trivelin, toutes ces postures-là seraient peut-être de bon augure.
+
+    TRIVELIN.
+Je gagerais moi que c'est un linge qui sent le musc.
+
+    LA FÉE.
+Oh non ! Je veux lui parler, mais éloignons-nous un peu pour feindre que nous arrivons.
+Elle s'éloigne de quelques pas, pendant qu'Arlequin se promène en long en chantant.
+
+
+    ARLEQUIN.
+Ter li ta ta li ta.
+
+    LA FÉE.
+Bonjour, Arlequin.
+
+    ARLEQUIN, EN TIRANT LE PIED, ET METTANT LE MOUCHOIR SOUS SON BRAS.
+Je suis votre très humble serviteur.
+
+    LA FÉE, À PART À TRIVELIN.
+Comment ! Voilà des manières ! Il ne m'en a jamais tant dit depuis qu'il est ici.
+
+    ARLEQUIN, À LA FÉE.
+Madame, voulez-vous avoir la bonté de vouloir bien me dire comment on est quand on aime bien une personne ?
+
+    LA FÉE, CHARMÉE À TRIVELIN.
+Trivelin, entends-tu ?
+Et puis à Arlequin.
+
+Quand on aime, mon cher enfant, on souhaite toujours de voir les gens, on ne peut se séparer d'eux, on les perd de vue avec chagrin : enfin on sent des transports, des impatiences et souvent des désirs.
+
+    ARLEQUIN, EN SAUTANT D’AISE ET COMME À PART.
+M'y voilà.
+
+    LA FÉE.
+Est-ce que vous sentez tout ce que je dis là ?
+
+    ARLEQUIN, D’UN AIR INDIFFÉRENT.
+Non, c'est une curiosité que j'ai.
+
+    TRIVELIN.
+Il jase vraiment !
+
+    LA FÉE.
+Il jase, il est vrai, mais sa réponse ne me plaît pas : mon cher Arlequin, ce n'est donc pas de moi que vous parlez ?
+
+    ARLEQUIN.
+Oh ! Je ne suis pas un niais, je ne dis pas ce que je pense.
+
+    LA FÉE, AVEC FEU, ET D’UN TON BRUSQUE.
+Qu'est-ce que cela signifie ? Où avez-vous pris ce mouchoir ?
+
+    ARLEQUIN, LA REGARDANT AVEC CRAINTE.
+Je l'ai pris à terre.
+
+    LA FÉE.
+À qui est-il ?
+
+    ARLEQUIN.
+Il est à...
+Et puis s'arrêtant.
+
+Je n'en sais rien.
+
+    LA FÉE.
+Il y a quelque mystère désolant là-dessous ! Donnez-moi ce mouchoir !
+Elle lui arrache, et après l'avoir regardé avec chagrin, et à part.
+
+Il n'est pas à moi et il le baisait ; n'importe, cachons-lui mes soupçons, et ne l'intimidons pas ; car il ne me découvrirait rien.
+
+    ARLEQUIN, ALORS VA, LE CHAPEAU BAS ET HUMBLEMENT, LUI REDEMANDER LE MOUCHOIR.
+Ayez la charité de me rendre le mouchoir.
+
+    LA FÉE, EN SOUPIRANT EN SECRET.
+Tenez, Arlequin, je ne veux pas vous l'ôter, puisqu'il vous fait plaisir.
+Arlequin en le recevant baise la main, la salue, et s'en va. La Fée le regardant.
+
+Vous me quittez ; où allez-vous ?
+
+    ARLEQUIN.
+Dormir sous un arbre.
+
+    LA FÉE, DOUCEMENT.
+Allez, allez.
+
+
+## SCÈNE VIII. La Fée, Trivelin.
+
+    LA FÉE.
+Ah ! Trivelin, je suis perdue.
+
+    TRIVELIN.
+Je vous avoue, Madame, que voici une aventure où je ne comprends rien, que serait-il donc arrivé à ce petit peste-là ?
+
+    LA FÉE, AU DÉSESPOIR ET AVEC FEU.
+Il a de l'esprit, Trivelin, il en a, et je n'en suis pas mieux, je suis plus folle que jamais. Ah ! Quel coup pour moi, que le petit ingrat vient de me paraître aimable ! As-tu vu comme il est changé ? As-tu remarqué de quel air il me parlait ? Combien sa physionomie était devenue fine ? Et ce n'est pas de moi qu'il tient toutes ces grâces-là ! Il a déjà de la délicatesse de sentiment, il s'est retenu, il n'ose me dire à qui appartient le mouchoir, il devine que j'en serais jalouse ; ah ! Qu'il faut qu'il ait pris d'amour pour avoir déjà tant d'esprit ! Que je suis malheureuse ! Une autre lui entendra dire ce je vous aime que j'ai tant désiré, et je sens qu'il méritera d'être adoré ; je suis au désespoir. Sortons, Trivelin ; il s'agit ici de découvrir ma rivale, je vais le suivre et parcourir tous les lieux où ils pourront se voir. Cherche de ton côté, va vite, je me meurs.
+
+
+## SCÈNE IX. Silvia, Une de ses cousines.
+La scène change et représente une prairie où de loin paissent des moutons.
+
+
+    SILVIA.
+Arrête-toi un moment, ma cousine ; je t'aurai bientôt conté mon histoire, et tu me donneras quelque avis. Tiens, j'étais ici quand il est venu ; dès qu'il s'est approché, le coeur m'a dit que je l'aimais ; cela est admirable ! Il s'est approché aussi, il m'a parlé ; sais-tu ce qu'il m'a dit ? Qu'il m'aimait aussi. J'étais plus contente que si on m'avait donné tous les moutons du hameau : vraiment je ne m'étonne pas si toutes nos bergères sont si aises d'aimer ; je voudrais n'avoir fait que cela depuis que je suis au monde, tant je le trouve charmant ; mais ce n'est pas tout, il doit revenir ici bientôt ; il m'a déjà baisé la main, et je vois bien qu'il voudra me la baiser encore. Donne-moi conseil, toi qui as eu tant d'amants ; dois-je le laisser faire ?
+
+    LA COUSINE.
+Garde-t'en bien, ma cousine, sois bien sévère, cela entretient l'amour d'un amant.
+
+    SILVIA.
+Quoi, il n'y a point de moyen plus aisé que cela pour l'entretenir ?
+
+    LA COUSINE.
+Non ; il ne faut point aussi lui dire tant que tu l'aimes.
+
+    SILVIA.
+Eh ! comment s'en empêcher ? Je suis encore trop jeune pour pouvoir me gêner.
+
+    LA COUSINE.
+Fais comme tu pourras, mais on m'attend, je ne puis rester plus longtemps, adieu, ma cousine.
+
+
+## SCÈNE X.
+
+    SILVIA, UN MOMENT APRÈS.
+Que je suis inquiète ! J'aimerais autant ne point aimer que d'être obligée d'être sévère ; cependant elle dit que cela entretient l'amour, voilà qui est étrange ; on devrait bien changer une manière si incommode ; ceux qui l'on inventée n'aimaient pas tant que moi.
+
+
+## SCÈNE XI. Silvia, Arlequin.
+Arlequin arrive.
+
+
+    SILVIA, EN LE VOYANT.
+Voici mon amant ; que j'aurai de peine à me retenir !
+Dès qu'Arlequin l'aperçoit, il vient à elle en sautant de joie ; il lui fait des caresses avec son chapeau, auquel il a attaché le mouchoir, il tourne autour de Silvia, tantôt il baise le mouchoir, tantôt il caresse Silvia.
+
+
+    ARLEQUIN.
+Vous voilà donc, mon petit coeur ?
+
+    SILVIA, EN RIANT.
+Oui, mon amant.
+
+    ARLEQUIN.
+Êtes-vous bien aise de me voir ?
+
+    SILVIA.
+Assez.
+
+    ARLEQUIN, EN RÉPÉTANT CE MOT.
+Assez, ce n'est pas assez.
+
+    SILVIA.
+Oh si fait, il n'en faut pas davantage.
+Arlequin ici lui prend la main, Silvia paraît embarrassé.
+
+
+    ARLEQUIN, EN LA TENANT, DIT.
+Et moi, je ne veux pas que vous disiez comme cela.Il veut alors lui baiser la main, en disant ces derniers mots.
+
+    SILVIA, RETIRANT SA MAIN.
+Ne me baisez pas la main au moins.
+
+    ARLEQUIN, FÂCHÉ.
+Ne voilà-t-il pas encore ? Allez, vous êtes une trompeuse.
+Il pleure.
+
+
+    SILVIA, TENDREMENT, EN LUI PRENANT LE MENTON.
+Hélas ! Mon petit amant, ne pleurez pas.
+
+    ARLEQUIN, CONTINUANT DE GÉMIR.
+Vous m'aviez promis votre amitié.
+
+    SILVIA.
+Eh ! Je vous l'ai donnée.
+
+    ARLEQUIN.
+Non : quand on aime les gens, on ne les empêche pas de baiser sa main.
+En lui offrant la sienne.
+
+Tenez, voilà la mienne ; voyez si je ferai comme vous.
+
+    SILVIA, EN SE RESSOUVENANT DES CONSEILS DE SA COUSINE.
+Oh ! Ma cousine dira ce qu'elle voudra, mais je ne puis y tenir. Là, là, consolez-vous, mon amant, et baisez ma main puisque vous en avez envie ; baisez, mais écoutez, n'allez pas me demander combien je vous aime, car je vous en dirais toujours la moitié moins qu'il n'y en a. Cela n'empêchera pas que, dans le fond, je ne vous aime de tout mon coeur ; mais vous ne devez pas le savoir, parce que cela vous ôterait votre amitié, on me l'a dit.
+
+    ARLEQUIN, D’UNE VOIX PLAINTIVE.
+Tous ceux qui vous ont dit cela ont fait un mensonge : ce sont des causeurs qui n'entendent rien à notre affaire. Le coeur me bat quand je baise votre main et que vous dites que vous m'aimez, et c'est marque que ces choses-là sont bonnes à mon amitié.
+
+    SILVIA.
+Cela se peut bien, car la mienne en va de mieux en mieux aussi ; mais n'importe, puisqu'on dit que cela ne vaut rien, faisons un marché de peur d'accident : toutes les fois que vous me demanderez si j'ai beaucoup d'amitié pour vous, je vous répondrai que je n'en ai guère, et cela ne sera pourtant pas vrai ; et quand vous voudrez me baiser la main, je ne le voudrai pas, et pourtant j'en aurai envie.
+
+    ARLEQUIN, EN RIANT.
+Eh ! Eh ! Cela sera drôle ! Je le veux bien ; mais avant ce marché-là, laissez-moi baiser votre main à mon aise, cela ne sera pas du jeu.
+
+    SILVIA.
+Baisez, cela est juste.
+
+    ARLEQUIN LUI BAISE ET REBAISE LA MAIN, ET APRÈS, FAISANT RÉFLEXION AU PLAISIR QU’IL VIENT D’AVOIR, IL DIT.
+Oh ! mais, mon amie, peut-être que le marché nous fâchera tous deux.
+
+    SILVIA.
+Eh ! quand cela nous fâchera tout de bon, ne sommes-nous pas les maîtres ?
+
+    ARLEQUIN.
+Il est vrai, mon amie ; cela est donc arrêté ?
+
+    SILVIA.
+Oui.
+
+    ARLEQUIN.
+Cela sera tout divertissant : voyons pour voir.
+Arlequin ici badine, et l'interroge pour rire.
+
+M'aimez-vous beaucoup ?
+
+    SILVIA.
+Pas beaucoup.
+
+    ARLEQUIN, SÉRIEUSEMENT.
+Ce n'est que pour rire au moins, autrement...
+
+    SILVIA, RIANT.
+Eh ! sans doute.
+
+    ARLEQUIN, POURSUIVANT TOUJOURS LA BADINERIE, ET RIANT.
+Ah ! Ah ! Ah !
+Et puis pour badiner encore.
+
+Donnez-moi votre main, ma mignonne.
+
+    SILVIA.
+Je ne le veux pas.
+
+    ARLEQUIN, SOURIANT.
+Je sais pourtant que vous le voudriez bien.
+
+    SILVIA.
+Plus que vous ; mais je ne veux pas le dire.
+
+    ARLEQUIN, SOURIANT ENCORE ICI, ET PUIS CHANGEANT DE FAÇON, ET TRISTEMENT.
+Je veux la baiser, ou je serai fâché.
+
+    SILVIA.
+Vous badinez, mon amant ?
+
+    ARLEQUIN, COMME TRISTEMENT TOUJOURS.
+Non.
+
+    SILVIA.
+Quoi ! C'est tout de bon ?
+
+    ARLEQUIN.
+Tout de bon.
+
+    SILVIA, EN LUI TENDANT LA MAIN.
+Tenez donc.
+
+
+## SCÈNE XII. La Fée, Arlequin, Silvia.
+
+    ICI LA FÉE QUI LES CHERCHAIT ARRIVE, ET DIT À PART EN RETOURNANT SON ANNEAU.
+Ah ! Je vois mon malheur !
+
+    ARLEQUIN, APRÈS AVOIR BAISÉ LA MAIN DE SILVIA.
+Dame ! Je badinais.
+
+    SILVIA.
+Je vois bien que vous m'avez attrapée, mais j'en profite aussi.
+
+    ARLEQUIN, QUI LUI TIENT TOUJOURS LA MAIN.
+Voilà un petit mot qui me plaît comme tout.
+
+    LA FÉE , À PART.
+Ah ! juste ciel, quel langage ! Paraissons.
+Elle retourne son anneau.
+
+
+    SILVIA, EFFRAYÉE DE LA VOIR, FAIT UN CRI.
+Ah !
+
+    ARLEQUIN, DE SON CÔTÉ.
+Ouf !
+
+    LA FÉE , À ARLEQUIN AVEC ALTÉRATION.
+Vous en savez déjà beaucoup !
+
+    ARLEQUIN, EMBARRASSÉ.
+Eh ! Eh ! Je ne savais pourtant pas que vous étiez là.
+
+    LA FÉE , EN LE REGARDANT FIXEMENT.
+Ingrat !
+Et puis le touchant de sa baguette.
+
+Suivez-moi.
+Après ce dernier mot, elle touche aussi Silvia sans lui rien dire.
+
+
+    SILVIA, TOUCHÉE, DIT.
+Miséricorde !
+La Fée alors part avec Arlequin, qui marche devant en silence et comme par compas.
+
+
+
+## SCÈNE XIII. Silvia, Lutins.
+
+    SILVIA, SEULE, TREMBLANTE, ET SANS BOUGER.
+Ah ! La méchante femme, je tremble encore de peur. Hélas ! Peut-être qu'elle va tuer mon amant, elle ne lui pardonnera jamais de m'aimer, mais je sais bien comment je ferai ; je m'en vais assembler tous les bergers du hameau, et les mener chez elle : allons.
+Silvia là-dessus veut marcher, mais elle ne peut avancer un pas, elle dit :
+
+Qu'est-ce que j'ai donc ? Je ne puis me remuer.
+Elle fait des efforts et ajoute :
+
+Ah ! Cette magicienne m'a jeté un sortilège aux jambes.
+À ces mots, deux ou trois Lutins viennent pour l'enlever.
+
+Ahi ! Ahi ! Messieurs, ayez pitié de moi, au secours, au secours !
+
+    UN DES LUTINS.
+Suivez-nous, suivez-nous.
+
+    SILVIA.
+Je ne veux pas, je veux retourner au logis.
+
+    UN AUTRE LUTIN.
+Marchons.
+Ils l'enlèvent en criant.
+
+
+
+## SCÈNE XIV. La Fée, Arlequin.
+La scène change et représente le jardin de la Fée.
+
+
+    LA FÉE PARAÎT AVEC ARLEQUIN, QUI MARCHE DEVANT ELLE DANS LA MÊME POSTURE QU’IL A FAIT CI-DEVANT, ET LA TÊTE BAISSÉE.
+Fourbe que tu es ! Je n'ai pu paraître aimable à tes yeux, je n'ai pu t'inspirer le moindre sentiment, malgré tous les soins et toute la tendresse que tu m'as vue ; et ton changement est l'ouvrage d'une misérable bergère ! Réponds, ingrat, que lui trouves-tu de si charmant ? Parle.
+
+    ARLEQUIN, FEIGNANT D’ÊTRE RETOMBÉ DANS SA BÊTISE.
+Qu'est-ce que vous voulez ?
+
+    LA FÉE.
+Je ne te conseille pas d'affecter une stupidité que tu n'as plus, et si tu ne te montres tel que tu es, tu vas me voir poignarder l'indigne objet de ton choix.
+
+    ARLEQUIN, VITE ET AVEC CRAINTE.
+Eh ! Non, non ; je vous promets que j'aurai de l'esprit autant que vous le voudrez.
+
+    LA FÉE.
+Tu trembles pour elle.
+
+    ARLEQUIN.
+C'est que je n'aime à voir mourir personne.
+
+    LA FÉE.
+Tu me verras mourir, moi, si tu ne m'aimes.
+
+    ARLEQUIN, EN LA FLATTANT.
+Ne soyez donc point en colère contre nous.
+
+    LA FÉE, EN S’ATTENDRISSANT.
+Ah ! Mon cher Arlequin, regarde-moi, repens-toi de m'avoir désespérée, j'oublierai de quelle part t'est venu ton esprit ; mais puisque tu en as, qu'il te serve à connaître les avantages que je t'offre.
+
+    ARLEQUIN.
+Tenez, dans le fond, je vois bien que j'ai tort ; vous êtes belle et brave cent fois plus que l'autre, mais j'enrage.
+
+    LA FÉE.
+Eh ! De quoi ?
+
+    ARLEQUIN.
+C'est que j'ai laissé prendre mon coeur par cette petite friponne qui est plus laide que vous.
+
+    LA FÉE SOUPIRE EN SECRET ET DIT.
+Arlequin, voudrais-tu aimer une personne qui te trompe, qui a voulu badiner avec toi, et qui ne t'aime pas ?
+
+    ARLEQUIN.
+Oh ! Pour cela si fait, elle m'aime à la folie.
+
+    LA FÉE.
+Elle t'abusait, je le sais bien, puisqu'elle doit épouser un berger du village qui est son amant : si tu veux, je m'en vais l'envoyer chercher, et elle te le dira elle-même.
+
+    ARLEQUIN, EN SE METTANT LA MAIN SUR LA POITRINE OU SUR SON COEUR.
+Tic, tac, tic, tac, ouf voilà des paroles qui me rendent malade.
+Et puis vite.
+
+Allons, allons, je veux savoir cela ; car si elle me trompe, jarni, je vous caresserai, je vous épouserai devant ses deux yeux pour la punir.
+
+    LA FÉE.
+Eh bien ! je vais donc l'envoyer chercher.
+
+    ARLEQUIN, ENCORE ÉMU.
+Oui ; mais vous êtes bien fine, si vous êtes là quand elle me parlera, vous lui ferez la grimace, elle vous craindra, et elle n'osera me dire rondement sa pensée.
+
+    LA FÉE.
+Je me retirerai.
+
+    ARLEQUIN.
+La peste ! Vous êtes une sorcière, vous nous jouerez un tour comme tantôt, et elle s'en doutera : vous êtes au milieu du monde, et on ne voit rien. Oh ! je ne veux point que vous trichiez ; faites un serment que vous n'y serez pas en cachette.
+
+    LA FÉE.
+Je te le jure, foi de fée.
+
+    ARLEQUIN.
+Je ne sais point si ce juron-là est bon ; mais je me souviens à cette heure, quand on me lisait des histoires, d'avoir vu qu'on jurait par le six, le tix, oui le Styx.
+
+    LA FÉE.
+C'est la même chose.
+
+    ARLEQUIN.
+N'importe, jurez toujours ; dame, puisque vous craignez, c'est que c'est le meilleur.
+
+    LA FÉE, APRÈS AVOIR RÊVÉ.
+Eh bien ! Je n'y serai point, je t'en jure par le Styx, et je vais donner ordre qu'on l'amène ici.
+
+    ARLEQUIN.
+Et moi en attendant je m'en vais gémir en me promenant.
+Il sort.
+
+
+
+## SCÈNE XV.
+
+    LA FÉE, SEULE.
+Mon serment me lie, mais je n'en sais pas moins le moyen d'épouvanter la bergère sans être présente, et il me reste une ressource ; je donnerai mon anneau à Trivelin qui les écoutera invisible, et qui me rapportera ce qu'ils auront dit. Appelons-le : Trivelin ! Trivelin !
+
+
+## SCÈNE XVI. La Fée, Trivelin.
+
+    TRIVELIN, VIENT.
+Que voulez-vous, Madame ?
+
+    LA FÉE.
+Faites venir ici cette bergère, je veux lui parler ; et vous, prenez cette bague. Quand j'aurai quitté cette fille, vous avertirez Arlequin de lui venir parler, et vous le suivrez sans qu'il le sache pour venir écouter leur entretien, avec la précaution de retourner la bague, pour n'être point vu d'eux ; après quoi, vous me redirez leur discours : entendez-vous ? Soyez exact, je vous prie.
+
+    TRIVELIN.
+Oui, Madame.
+Il sort pour aller chercher Silvia.
+
+
+
+## SCÈNE XVII. La Fée, Silvia.
+
+    LA FÉE, UN MOMENT SEULE.
+Est-il d'aventure plus triste que la mienne ? Je n'ai lieu d'aimer plus que je n'aimais, que pour en souffrir davantage ; cependant il me reste encore quelque espérance ; mais voici ma rivale.
+Silvia entre. La Fée en colère :
+
+Approchez, approchez.
+
+    SILVIA.
+Madame, est-ce que vous voulez toujours me retenir de force ici ? Si ce beau garçon m'aime, est-ce ma faute ? Il dit que je suis belle, dame, je ne puis pas m'empêcher de l'être.
+
+    LA FÉE , AVEC UN SENTIMENT DE FUREUR.
+Oh ! si je ne craignais de tout perdre, je la déchirerais.
+Haut.
+
+Écoutez-moi, petite fille, mille tourments vous sont préparés, si vous ne m'obéissez.
+
+    SILVIA, EN TREMBLANT.
+Hélas ! vous n'avez qu'à dire.
+
+    LA FÉE.
+Arlequin va paraître ici : je vous ordonne de lui dire que vous n'avez voulu que vous divertir avec lui, que vous ne l'aimez point, et qu'on va vous marier avec un berger du village ; je ne paraîtrai point dans votre conversation, mais je serai à vos côtés sans que vous me voyiez, et si vous n'observez mes ordres avec la dernière rigueur, s'il vous échappe le moindre mot qui lui fasse deviner que je vous aie forcée à lui parler comme je le veux, tout est prêt pour votre supplice.
+
+    SILVIA.
+Moi, lui dire que j'ai voulu me moquer de lui ? Cela est-il raisonnable ? Il se mettra à pleurer, et je me mettrai à pleurer aussi : vous savez bien que cela est immanquable.
+
+    LA FÉE , EN COLÈRE.
+Vous osez me résister ! Paraissez, esprits infernaux, enchaînez-la, et n'oubliez rien pour la tourmenter.
+Des esprit entrent.
+
+
+    SILVIA, PLEURANT, DIT.
+N'avez-vous pas de conscience de me demander une chose impossible ?
+
+    LA FÉE , AUX ESPRITS.
+Ce n'est pas tout; allez prendre l'ingrat qu'elle aime, et donnez-lui la mort à ses yeux.
+
+    SILVIA, AVEC EXCLAMATION.
+La mort ! Ah ! Madame la Fée, vous n'avez qu'à le faire venir ; je m'en vais lui dire que je le hais, et je vous promets de ne point pleurer du tout ; je l'aime trop pour cela.
+
+    LA FÉE.
+Si vous versez une larme, si vous ne paraissez tranquille, il est perdu, et vous aussi.
+Aux esprits.
+
+Ôtez-lui ses fers.
+À Silvia.
+
+Quand vous lui aurez parlé, je vous ferai reconduire chez vous, si j'ai lieu d'être contente : il va venir, attendez ici.
+La Fée sort et les diables aussi.
+
+
+
+## SCÈNE XVIII. Silvia, Arlequin, Trivelin.
+
+    SILVIA, UN MOMENT SEULE.
+Achevons vite de pleurer, afin que mon amant ne croie pas que je l'aime, le pauvre enfant, ce serait le tuer moi-même. Ah ! Maudite fée ! Mais essuyons mes yeux, le voilà qui vient.
+Arlequin entre alors triste et la tête penchée, il ne dit mot jusqu'auprès de Silvia, il se présente à elle, la regarde un moment sans parler ; et après, Trivelin invisible entre.
+
+
+    ARLEQUIN.
+Mon amie !
+
+    SILVIA, D’UN AIR LIBRE.
+Eh bien ?
+
+    ARLEQUIN.
+Regardez-moi.
+
+    SILVIA, EMBARRASSÉE.
+À quoi sert tout cela ? On m'a fait venir ici pour vous parler ; j'ai hâte, qu'est-ce que vous voulez ?
+
+    ARLEQUIN, TENDREMENT.
+Est-ce vrai que vous m'avez fourbé ?
+
+    SILVIA.
+Oui, tout ce que j'ai fait, ce n'était que pour me donner du plaisir.
+
+    ARLEQUIN S’APPROCHE D’ELLE TENDREMENT ET LUI DIT.
+Mon amie, dites franchement, cette coquine de fée n'est point ici, car elle en a juré.
+Et puis en flattant Silvia.
+
+Là, là, remettez-vous, mon petit coeur : dites, êtes-vous une perfide ? Allez-vous être la femme d'un vilain berger ?
+
+    SILVIA.
+Oui, encore une fois, tout cela est vrai.
+
+    ARLEQUIN, LÀ-DESSUS, PLEURE DE TOUTE SA FORCE.
+Hi, hi, hi.
+
+    SILVIA, À PART.
+Le courage me manque.
+Arlequin, en pleurant sans rien dire, cherche dans ses poches ; il en tire un petit couteau qu'il aiguise sur sa manche.
+
+
+    SILVIA, LE VOYANT FAIRE.
+Qu'allez-vous donc faire ?
+Alors Arlequin sans répondre allonge le bras comme pour prendre sa secousse, et ouvre un peu son estomac.
+
+
+    SILVIA, EFFRAYÉE.
+Ah ! Il va se tuer; arrêtez-vous, mon amant ! J'ai été obligée de vous dire des menteries.
+Et puis en parlant à la Fée qu'elle croit à côté d'elle.
+
+Madame la Fée, pardonnez-moi en quelque endroit que vous soyez ici, vous voyez bien ce qui en est.
+
+    ARLEQUIN, À CES MOTS CESSANT SON DÉSESPOIR, LUI PREND VITE LA MAIN ET DIT.
+Ah ! Quel plaisir ! Soutenez-moi, m'amour, je m'évanouis d'aise.
+Silvia le soutient.
+
+Trivelin, alors, paraît tout d'un coup à leurs yeux.
+
+    SILVIA, DANS LA SURPRISE, DIT.
+Ah ! Voilà la Fée.
+
+    TRIVELIN.
+Non, mes enfants, ce n'est pas la Fée ; mais elle m'a donné son anneau, afin que je vous écoutasse sans être vu. Ce serait bien dommage d'abandonner de si tendres amants à sa fureur : aussi bien ne mérite-t-elle pas qu'on la serve, puisqu'elle est infidèle au plus généreux magicien du monde, à qui je suis dévoué : soyez en repos, je vais vous donner un moyen d'assurer votre bonheur. Il faut qu'Arlequin paraisse mécontent de vous, Silvia ; et que de votre côté vous feigniez de le quitter en le raillant. Je vais chercher la Fée qui m'attend, à qui je dirai que vous vous êtes parfaitement acquittée de ce qu'elle vous avait ordonné : elle sera témoin de votre retraite. Pour vous, Arlequin, quand Silvia sera sortie, vous resterez avec la Fée, et alors en l'assurant que vous ne songez plus à Silvia infidèle, vous jurerez de vous attacher à elle, et tâcherez par quelque tour d'adresse, et comme en badinant, de lui prendre sa baguette ; je vous avertis que dès qu'elle sera dans vos mains, la Fée n'aura plus aucun pouvoir sur vous deux ; et qu'en la touchant elle-même d'un coup de la baguette, vous en serez absolument le maître. Pour lors, vous pourrez sortir d'ici et vous faire telle destinée qu'il vous plaira.
+
+    SILVIA.
+Je prie le ciel qu'il vous récompense.
+
+    ARLEQUIN.
+Oh ! Quel honnête homme ! Quand j'aurai la baguette, je vous donnerai votre plein chapeau de liards.
+
+    TRIVELIN.
+Préparez-vous, je vais amener ici la Fée.
+
+
+## SCÈNE XIX. Arlequin, Silvia.
+
+    ARLEQUIN.
+Ma chère amie, la joie me court dans le corps ; il faut que je vous baise, nous avons bien le temps de cela.
+
+    SILVIA, EN L’ARRÊTANT.
+Taisez-vous donc, mon ami, ne nous caressons pas à cette heure, afin de pouvoir nous caresser toujours : on vient, dites-moi bien des injures, pour avoir la baguette.
+La Fée entre.
+
+
+    ARLEQUIN, COMME EN COLÈRE.
+Allons, petite coquine.
+
+
+## SCÈNE XX. La Fée, Trivelin, Silvia, Arlequin.
+
+    TRIVELIN, À LA FÉE EN ENTRANT.
+Je crois, Madame, que vous aurez lieu d'être contente.
+
+    ARLEQUIN, CONTINUANT À GRONDER SILVIA.
+Sortez d'ici, friponne; voyez cette petite effrontée ! Sortez d'ici, mort de ma vie !
+
+    SILVIA, SE RETIRANT EN RIANT.
+Ah ! Ah ! Qu'il est drôle ! Adieu, adieu, je m'en vais épouser mon amant : une autre fois ne croyez pas tout ce qu'on vous dit, petit garçon.
+Et puis Silvia dit à la Fée :
+
+Madame, voulez-vous que je m'en aille ?
+
+    LA FÉE, À TRIVELIN.
+Faites-la sortir, Trivelin.
+Elle sort avec Trivelin.
+
+
+
+## SCÈNE XXI. La Fée, Arlequin.
+
+    LA FÉE.
+Je vous avais dit la vérité, comme vous voyez
+
+    ARLEQUIN, COMME INDIFFÉRENT.
+Oh ! Je me soucie bien de cela : c'est une petite laide qui ne vous vaut pas. Allez, allez, à présent je vois bien que vous êtes une bonne personne. Fi ! Que j'étais sot ; laissez faire, nous l'attraperons bien, quand nous serons mari et femme.
+
+    LA FÉE.
+Quoi ! Mon cher Arlequin, vous m'aimerez donc ?
+
+    ARLEQUIN.
+Eh, qui donc ? J'avais assurément la vue trouble. Tenez, cela m'avait fâché d'abord, mais à présent je donnerais toutes les bergères des champs pour une mauvaise épingle.
+Et puis doucement.
+
+Mais vous n'avez peut-être plus envie de moi, à cause que j'ai été si bête ?
+
+    LA FÉE, CHARMÉE.
+Mon cher Arlequin, je te fais mon maître, mon mari ; oui, je t'épouse ; je te donne mon coeur, mes richesses, ma puissance. Es-tu content ?
+
+    ARLEQUIN, EN LA REGARDANT SUR CELA TENDREMENT.
+Ah ! Ma mie, que vous me plaisez !
+Et lui prenant la main.
+
+Moi, je vous donne ma personne, et puis cela encore.
+C'est son chapeau.
+
+Et puis encore cela.
+C'est son épée. Là-dessus, en badinant, il lui met son épée au côté, et dit en lui prenant sa baguette :
+
+Et je m'en vais mettre ce bâton à mon côté.
+
+    QUAND IL TIENT LA BAGUETTE, LA FÉE, INQUIÈTE, LUI DIT :.
+Donnez, donnez-moi cette baguette, mon fils ; vous la casserez.
+
+    ARLEQUIN, SE RECULANT AUX APPROCHES DE LA FÉE, TOURNANT AUTOUR DU THÉÂTRE, ET D’UNE FAÇON REPOSÉE.
+Tout doucement, tout doucement!
+
+    LA FÉE, ENCORE PLUS ALARMÉE.
+Donnez donc vite, j'en ai besoin.
+
+    ARLEQUIN, ALORS, LA TOUCHE DE LA BAGUETTE ADROITEMENT ET LUI DIT.
+Tout beau, asseyez-vous là ; et soyez sage.
+
+    LA FÉE TOMBE SUR LE SIÈGE DE GAZON MIS AUPRÈS DE LA GRILLE DU THÉÂTRE ET DIT.
+Ah! Je suis perdue, je suis trahie.
+
+    ARLEQUIN, EN RIANT.
+Et moi, je suis on ne peut pas mieux. Oh ! Oh ! Vous me grondiez tantôt parce que je n'avais pas d'esprit ; j'en ai pourtant plus que vous.
+Arlequin alors fait des sauts de joie ; il rit, il danse, il siffle, et de temps en temps va autour de la Fée, et lui montrant la baguette.
+
+Soyez bien sage, madame la sorcière, car voyez bien cela !
+Alors il appelle tout le monde.
+
+Allons, qu'on m'apporte ici mon petit coeur. Trivelin où sont mes valets et tous les diables aussi ? Vite, j'ordonne, je commande, ou par la sambleu...
+Tout accourt à sa voix.
+
+
+
+## SCÈNE DERNIÈRE. Silvia conduite par Trivelin, Les Danseurs, Les Chanteurs et Les Esprits.
+
+    ARLEQUIN, COURANT AU-DEVANT DE SILVIA, ET LUI MONTRANT LA BAGUETTE.
+Ma chère amie, voilà la machine ; je suis sorcier à cette heure ; tenez, prenez, prenez ; il faut que vous soyez sorcière aussi.
+Il lui donne la baguette.
+
+
+    SILVIA PREND LA BAGUETTE EN SAUTANT D’AISE ET DIT.
+Oh ! Mon amant, nous n'aurons plus d'envieux.
+À peine Silvia a-t-elle dit ces mots, que quelques esprits s'avancent, et l'un d'eux dit :
+
+
+    UN ESPRIT.
+Vous êtes notre maîtresse, que voulez-vous de nous ?
+
+    SILVIA, SURPRISE DE LEUR APPROCHE, SE RETIRE ET A PEUR, ET DIT.
+Voilà encore ces vilains hommes qui me font peur.
+
+    ARLEQUIN, FÂCHÉ.
+Jarni, je vous apprendrai à vivre.
+À Silvia.
+
+Donnez-moi ce bâton, afin que je les rosse.
+Il prend la baguette, et ensuite bat les esprits avec son épée ; il bat après les danseurs, les chanteurs, et jusqu'à Trivelin même.
+
+
+    SILVIA, LUI DIT, EN L’ARRÊTANT.
+En voilà assez, mon ami.
+Arlequin menace toujours tout le monde, et va à la Fée qui est sur le banc, et la menace aussi.
+
+
+    SILVIA, ALORS, S’APPROCHE À SON TOUR DE LA FÉE ET LUI DIT EN LA SALUANT.
+Bonjour, Madame, comment vous portez-vous ? Vous n'êtes donc plus si méchante ?
+La Fée retourne la tête en jetant des regards de fureur sur eux.
+
+
+    SILVIA.
+Oh ! Qu'elle est en colère.
+
+    ARLEQUIN, ALORS À LA FÉE.
+Tout doux, je suis le maître ; allons, qu'on nous regarde tout à l'heure agréablement.
+
+    SILVIA.
+Laissons-la, mon ami, soyons généreux : la compassion est une belle chose.
+
+    ARLEQUIN.
+Je lui pardonne, mais je veux qu'on chante, qu'on danse, et puis après nous irons nous faire roi quelque part.

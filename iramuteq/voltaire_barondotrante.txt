@@ -1,0 +1,593 @@
+
+
+**** *book_ *id_I01 *act_I *date_1784
+
+-*who_lebaron
+Ah que je m'ennuie
+Je n'ai point encore eu de plaisir ce matin.
+On m'assure pourtant que les jours de ma vie
+Doivent couler, couler sans ombre de chagrin.
+Je prétends qu'on me réjouisse
+Dès que j'ai le moindre désir.
+Holà mes gens, qu'on m'avertisse
+Si je puis avoir du plaisir.
+
+**** *book_ *id_I02 *act_I *date_1784
+
+-*who_leconseiller
+Monseigneur, notre unique envie
+Est de vous voir heureux dans votre baronnie
+D'un seigneur tel que vous c'est l'unique destin.
+
+-*who_lebaron
+Ah que je m'ennuie !
+Je n'ai point encore eu de plaisir ce matin.
+
+-*who_leconseiller
+C'est aujourd'hui le jour où le ciel a fait naître
+Dans ce fameux château notre adorable maître.
+Nous célébrons ce jour par des jeux bien brillants...
+
+-*who_lebaron
+Et quel âge ai-je donc ?
+
+-*who_leconseiller
+      Vous avez dix-huit ans.
+
+-*who_lebaron
+Ah ! Me voilà majeur !
+
+-*who_leconseiller
+      Les barons à cet âge
+De leur majorité font le plus noble usage
+Ils ont tous de l'esprit, ils sont pleins de bon sens
+Ils font, quand il leur plaît, la guerre aux musulmans,
+Rançonnent leurs vassaux à leurs ordres tremblants
+Vident leurs coffres-forts, ou coupent leurs oreilles
+Ils n'entreprennent rien dont on ne vienne à bout.
+Ils font tout d'un seul mot, bien souvent rien du tout
+Et quand ils sont oisifs ils font toujours merveilles.
+
+-*who_lebaron
+On me l'a toujours dit : je fus bien élevé.
+Or çà, répondez-moi, mon conseiller privé
+Ai-je beaucoup d'argent ?
+
+-*who_leconseiller
+      Fort peu mais on peut prendre
+Celui de vos fermiers, et même sans le rendre.
+
+-*who_lebaron
+Et des soldats ?
+
+-*who_leconseiller
+      Pas un mais en disant deux mots
+Tous les manants d'ici deviendront des héros.
+
+-*who_lebaron
+Ai-je quelque galère ?
+
+-*who_leconseiller
+      Oui, seigneur Votre Altesse
+A des bois, une rade, et quand elle voudra
+On fera des vaisseaux l'Hellespont tremblera
+Elle sera des mers souveraine maîtresse.
+
+-*who_lebaron
+Je me vois bien puissant.
+
+-*who_leconseiller
+      Nul ne l'est plus que vous.
+Seigneur, goûtez en paix ce destin noble et doux
+Ne vous mêlez de rien, chacun pour vous travaille.
+
+-*who_lebaron
+Étant si fortuné, d'où vient donc que je bâille ?
+
+-*who_leconseiller
+Seigneur, ces bâillements sont l'effet d'un grand coeur
+Qui se sent au-dessus de toute sa grandeur.
+Ce beau jour de gala, ce beau jour de naissance
+Célèbre son bonheur ainsi que son pouvoir
+Et monseigneur, sans doute, aura la complaisance
+De prendre du plaisir, puisqu'il en veut avoir.
+Vous serez harangué c'est le premier devoir
+Les spectacles suivront c'est notre antique usage.
+
+-*who_lebaron
+Tout cela bien souvent fait bâiller davantage
+Les harangues surtout ont ce don merveilleux.
+Ô ciel je vois Irène arriver en ces lieux !
+Irène, si matin, vient me rendre visite !
+Mes conseillers privés, qu'on s'en aille au plus vite.
+Les harangues pour moi sont des soins superflus :
+Ma cousine parait je ne bâillerai plus.
+
+**** *book_ *id_I03 *act_I *date_1784
+
+-*who_lebaron
+Belle Irène, belle cousine,
+Ma langueur chagrine
+S'en va quand je te vois
+L'amour vole à ta voix
+Tes yeux m'inspirent l'allégresse,
+Ton coeur fait mon destin
+Tout m'ennuyait, tout m'intéresse
+Je commence à goûter du plaisir ce matin,
+Mais répondez-moi donc en chansons, belle Irène
+C'est dans ces lieux chéris une loi souveraine
+Dont ni berger ni roi ne se peut écarter
+Si l'on y parle un peu, ce n'est que pour chanter.
+Vous avez une voix si tendre et si touchante !
+
+-*who_irene
+Il n'est point à propos, mon cousin, que je chante ;
+Je n'en ai nulle envie on pleure dans Otrante :
+Vos conseillers privés prennent tout notre argent ;
+Vous ne songez à rien, et l'on vous fait accroire
+Que tout le monde est fort content.
+
+-*who_lebaron
+Je le suis avec vous, j'y mets toute ma gloire.
+
+-*who_irene
+Sachez que pour me plaire il vous faudra changer :
+D'une mollesse indigne il faut vous corriger ;
+Sans cela point de mariage.
+Vous avez des vertus, vous avez du courage ;
+La nonchalance a tout gâté :
+On ne vous a donné que des leçons stériles :
+On s'est moqué de vous, et votre oisiveté
+Rendra vos vertus inutiles.
+
+-*who_lebaron
+Mes conseillers privés...
+
+-*who_irene
+      Seigneur, sont des fripons
+Qui vous avaient donné de méchantes leçons,
+Et qui vous nourrissaient d'orgueil et de fadaise,
+Pour mieux pouvoir piller la baronnie à l'aise.
+
+-*who_lebaron
+Oui, l'on m'élevait mal ; oui, je m'en aperçois,
+Et je me sens tout autre alors que je vous vois.
+On ne m'a rien appris, le vide est dans ma tête ;
+Mais mon coeur plein de vous, et plein de ma conquête,
+Me rendra digne enfin de plaire à vos beaux yeux ;
+Étant aimé de vous, j'en vaudrai beaucoup mieux.
+
+-*who_irene
+Alors, seigneur, alors, à vos vertus rendue,
+Je reprendrai pour vous la voix que j'ai perdue.
+Pour jamais je vous chérirai ;
+De tout mon coeur je chanterai :
+Amant charmant, aimez toujours Irène :
+Régnez sur tous les coeurs, et préférez le mien ;
+Que le temps affermisse un si tendre lien,
+Que le temps redouble ma chaîne !
+
+-*who_irene,lebaron
+Non, je ne m'ennuierai jamais
+J'aimerai toute ma vie.
+Amour, amour, lance tes traits,
+Lance tes traits
+Dans mon âme ravie.
+Non, je ne m'ennuierai jamais ;
+J'aimerai toute ma vie.
+
+-*who_irene
+Ô ciel quels cris affreux !
+
+-*who_lebaron
+      Quel tumulte ! Quel bruit !
+Quel étrange gala ! Chacun court, chacun fuit.
+
+**** *book_ *id_I04 *act_I *date_1784
+
+-*who_leconseiller
+Ah seigneur, c'en est fait les Turcs sont dans la ville.
+
+-*who_irene
+Les Turcs
+
+-*who_lebaron
+      Est-il bien vrai ?
+
+-*who_leconseiller
+      Vous n'avez plus d'asile.
+
+-*who_lebaron
+Comment cela ? Par où sont-ils donc arrivés ?
+
+-*who_irene
+Voilà ce qu'ont produit vos conseillers privés.
+
+-*who_lebaron
+Allez dire à mes gens qu'on fasse résistance
+Je cours les seconder.
+
+-*who_leconseiller
+      Seigneur, votre grandeur
+De son rang glorieux doit garder la décence.
+
+-*who_irene
+Hélas ma gouvernante et mes filles d'honneur
+Viennent de tous côtés, et sont toutes tremblantes.
+
+**** *book_ *id_I05 *act_I *date_1784
+
+-*who_lagouvernante
+Ah ! Madame ! les Turcs...
+
+-*who_irene
+      Ah pauvres innocentes !
+Qu'ont fait ces Turcs maudits ?...
+
+-*who_lagouvernante
+      Les Turcs... je n'en puis plus...
+Dans votre appartement... Ils sont tous répandus.
+Le corsaire Abdalla tout enlève, et tout pille
+On enchaîne à la fois père, enfant, femme, fille.
+Madame !... Entendez-vous les tambours... Les clameurs ?...
+
+-*who_lesturcs
+Alla ! alla ! guerra !
+
+-*who_lagouvernante
+      Madame.... je me meurs!
+
+**** *book_ *id_I06 *act_I *date_1784
+
+-*who_quatuordeturcs
+Pillar, pillar, grand Abdalla
+Alla, ylla, alla!
+Tout conquir,
+Tout occir,
+Tout ravir
+Alla, ylla, alla!
+
+-*who_abdalla
+Non amazzar,
+No, no, non amazzar.
+Basta, basta tout saccagear
+Ma non amazzar,
+Incatenar,
+Bever, violar,
+Non amazzar.
+
+-*who_lebaron
+Irène, vous voyez si dans cette posture
+Je fais pour un baron une noble figure.
+
+-*who_quatuordeturcs
+Pillar, pillar, grand Abdalla
+Tout saccagear
+Pillar, bever, violar.
+Alla, ylla, alla
+
+-*who_irene
+Quoi ces Turcs si méchants n'enchaînent point les dames
+Tant d'honneur entre-t-il dans ces vilaines âmes ?
+
+-*who_abdalla
+O bravi corsari,
+Spavento de' mari,
+Andate a partagir,
+A bever, a fruir.
+A' vostri strapazzi
+Cedo li ragazzi,
+E.tutti li consiglieri.
+Tutte le donne son per me
+Ë'1 mio costume,
+Tutte le donne son per me.
+Pillar, pillar, grand Abdalla
+Alla, ylla, alla!
+
+-*who_irene
+Allez, mon cher cousin, je me flatte, j'espère,
+Si ce Turc est galant, de vous tirer d'affaire.
+Peut-être direz-vous, par mes soins relevé,
+Qu'une femme vaut mieux qu'un conseiller privé.
+
+**** *book_ *id_II01 *act_II *date_1784
+
+-*who_irene
+Consolons-nous, ma bonne il faut avec adresse
+Corriger, si l'on peut, la fortune traîtresse.
+Vous savez du baron le bizarre destin ?
+
+-*who_lagouvernante
+Point du tout.
+
+-*who_irene
+      Le corsaire, échauffé par le vin,
+Dans les transports de joie où son coeur s'abandonne,
+Sans s'informer du rang ni du nom de personne,
+A, pour se réjouir, dans la cour du château
+Assemblé les captifs, et, par un goût nouveau,
+Fait tirer aux trois dés les emplois qu'il leur donne.
+Un grave magistrat se trouve cuisinier ;
+Le baron, pour son lot, est reçu muletier.
+Ce sont là, nous dit-on, les jeux de la fortune /
+Cette bizarrerie en Turquie est commune.
+
+-*who_lagouvernante
+Se peut-il qu'un baron, hélas ! soit réduit là ?
+Et quelle est votre place à la cour d'Abdalla ?
+
+-*who_irene
+Je n'en ai point encor ; mais, si je dois en croire
+Certains regards hardis que, du haut de sa gloire,
+L'impudent, en passant, a fait tomber sur moi,
+J'aurai bientôt, je pense, un assez bel emploi.
+Et j'en ferai, ma bonne, un très-honnête usage.
+
+-*who_lagouvernante
+Ah ! Je n'en doute pas je sais qu'Irène est sage.
+Mais, madame, un corsaire est un peu dangereux
+Il paraît volontaire et le pas est scabreux.
+
+-*who_irene
+Il a pris sans façon l'appartement du maître :
+« Je le suis, a-t-il dit, et j'ai seul droit de l'être.
+Vin, fille, argent comptant, tout est pour le plus fort ;
+Le vainqueur les mérite, et les vaincus ont tort. »
+Dans cette belle idée il s'en donne à coeur-joie,
+Et pour tous les plaisirs son bon goût se déploie,
+Tandis que mon baron, une étrille à la main,
+Gémit dans l'écurie, et s'y tourmente en vain.
+Il fait venir ici les dames les plus belles,
+Pour leur rendre justice, et pour juger entre elles,
+Mettre au jour leur mérite, exercer leurs talents
+Par des pas de ballet, des mines, et des chants.
+Nous allons lui donner cette petite fête
+Et si de son mouchoir mes yeux font la conquête,
+Je pourrai m'en servir pour lui jouer un tour
+Qui fera triompher ma gloire et mon amour.
+J'entends déjà d'ici ses fifres, ses timbales ;
+Voilà nos ennemis, et voici mes rivales.
+
+**** *book_ *id_II02 *act_II *date_1784
+
+-*who_abdalla
+Su, su, Zitelle tenere
+La mia spada fa tremar.
+Ma voi, fanciulle care,
+Mi piacer, mi disarmar
+Mi sentir più grand' onore
+Di rendirmi a l'amore,
+Che rapir tutta la terra
+Col terrore della guerra.
+Su, su, Zitelle tenere, etc.
+
+-*who_irene
+C'est pour servir notre adorable maître,
+C'est pour l'aimer que le ciel nous fit naître.
+Mars et l'Amour à l'envi l'ont form :
+Son bras est craint, son coeur est plus aimé.
+Des Amours la tendre mère
+Naquit dans le sein des eaux
+Pour orner notre corsaire
+De ses présents les plus beaux.
+Votre mouchoir fait la plus chère envie
+De ces beautés de notre baronnie ;
+Mais nul objet n'a droit de s'en flatter :
+On peut vous plaire, et non vous mériter.
+
+-*who_abdalla
+Pigliate voi il fazzoletto,
+L'avete ben guadagnato
+Che tutte le altre fanciulle
+Men leggiadre, e meno belle,
+Aspettino per un' altra volta
+La mia sobrana volontà.
+Al mio canto Irena stia
+E tutte le altre via, via.
+Bene, bene, sarà per un' altra volta,
+Un' altra volta.
+
+**** *book_ *id_II03 *act_II *date_1784
+
+-*who_abdalla
+Cara Irena, adesso,
+Sedete appresso di me.
+Amor mi punge e mi consume.
+Più appresso, più appresso.
+
+-*who_irene
+Seigneur, de vos bontés mon âme est pénétrée ;
+Je n'ai jamais passé de plus belle soirée.
+Quand je craignais les Turcs, si fiers dans les combats,
+Mon coeur, mon tendre coeur ne vous connaissait pas.
+Non, il n'est point de Turc qui vous soit comparable.
+Je crois que Mahomet fut beaucoup moins aimable ;
+Et, pour mettre le comble à des plaisirs si doux,
+Je compte avoir l'honneur de souper avec vous.
+
+-*who_abdalla
+Si, si, cara : ceneremo insieme, tête à tête, l'uno dirimpetto a l'altra ; senza schiavi ; solo con sola ; beveremo del vino greco e canteremo, e ci trastulleremo, dirimpetto l'uno a l'altra : si, si, cara, per dio Maccone.
+
+-*who_irene
+Après tant de bontés aurai-je encor l'audace
+D'implorer de mon Turc une nouvelle grâce ?
+
+-*who_abdalla
+Parli, parli faro tutto
+Che vorrete, presto, presto.
+
+-*who_irene
+Seigneur, je suis baronne et mon père autrefois
+Dans Otrante a donné des lois.
+Il était connétable, ou comte d'écurie ;
+C'est une dignité que j'ai toujours chérie :
+Mon coeur en est encor tellement occupé
+Que si vous permettez que j'aille avant soupé
+Commander un quart d'heure où commandait mon père,
+C'est le plus grand plaisir que vous me puissiez faire.
+
+-*who_abdalla
+Come ! nella stalla ?
+
+-*who_irene
+      Nella stalla, signor.
+Au nom du tendre amour je vous en prie encor.
+Un héros tel que vous, formé pour la tendresse,
+Pourrait-il durement refuser sa maîtresse ?
+
+-*who_abdalla
+La signora è matta.
+Le stalle sono puzzolente ; bisognerà più d'un fiasco d'acqua nanfa per nettarla.
+Or su andate a vostro piacere, lo concedo andate, cara, e ritornate.
+
+**** *book_ *id_II04 *act_II *date_1784
+
+-*who_abdalla
+Ogni fanciulla tien là
+Qualche fantasia,
+Somigliante alla pazzia.
+Ma l'ira mia è vana.
+Basta che la Zitella
+Sia facile e bclla
+Tutto si perdona.
+Ogni fanciulla tien là
+Qualche fantasia.
+
+**** *book_ *id_III01 *act_III *date_1784
+
+-*who_irene
+Oui, oui, je dois tout espérer ;
+Tout est prêt pour vous délivrer.
+Oui... oui... je peux tout espérer ;
+L'amour vous protége et m'inspire.
+Votre malheur m'a fait pleurer ;
+Mais en trompant ce Turc que je fais soupirer,
+Je suis prête à mourir de rire.
+
+-*who_lebaron
+Lorsque vous me voyez une étrille à la main,
+Si vous riez, c'est de moi-même.
+Je l'ai bien mérité : dans ma grandeur suprême,
+J'étais indigne, hélas ! Du pouvoir souverain,
+Et du charmant objet que j'aime.
+
+-*who_irene
+Non, le destin volage
+Ne peut rien sur mon coeur.
+Je vous aimai dans la grandeur ;
+Je vous aime dans l'esclavage.
+Rien ne peut nous humilier ;
+Et quand mon tendre amant devient un muletier,
+Je l'en aime encor davantage.
+Et quand mon tendre amant devient un muletier,
+Je l'en aime encor davantage.
+
+-*who_lebaron
+Il faut donc mériter un si parfait amour :
+Ainsi que mon destin je change en un seul jour ;
+Irène et mes malheurs éveillent mon courage.
+Amis, le fer en main, frayons-nous un passage
+Dans nos propres foyers ravis par ces brigands.
+Enchaînons, à leur tour, ces vainqueurs insolents
+Plongés dans leur ivresse, et se livrant en proie
+À la sécurité de leur brutale joie.
+Vous, gardez cette porte ; et vous, vous m'attendrez
+Près de ma chambre même, au haut de ces degrés
+Qui donnent au palais une secrète issue.
+J'en ouvrirai la porte au public inconnue.
+Je veux que de ma main le corsaire soit pris.
+Dans le même moment appelez à grands cris
+Tous les bons citoyens au secours de leur maître :
+Frappez, percez, tuez, jetez par la fenêtre,
+Quiconque à ma valeur osera résister.
+Déesse de mon coeur, c'est trop vous arrêter :
+Allez à ce festin que le vainqueur prépare.
+Je lui destine un plat qu'il pourra trouver rare ;
+Et j'espère ce soir, plus heureux qu'au matin,
+De manger le rôti qu'on cuit pour le vilain.
+
+-*who_irene
+J'y cours ; vous m'y verrez : mais que votre tendresse
+Ne s'effarouche pas si de quelque caresse
+Je daigne encourager ses désirs effrontés :
+Ce ne sont point, seigneur, des infidélités.
+Je ne pense qu'à vous, quand je lui dis que j'aime ;
+En buvant avec lui, je bois avec vous-même ;
+En acceptant son coeur je vous donne le mien :
+Il faut un petit mal souvent pour un grand bien.
+
+**** *book_ *id_III02 *act_III *date_1784
+
+-*who_lebaron
+Allons donc, mes amis, hâtons-nous de nous rendre
+Au souper où l'Amour avec Mars doit m'attendre.
+Le temps est précieux : je cours quelque hasard
+D'être un peu passé maître, et d'arriver trop tard.
+Faites de point en point ce que j'ai su prescrire ;
+Gardez de vous méprendre, et laissez-vous conduire.
+Avancez à tâtons sous ces longs souterrains :
+De la gloire bientôt ils seront les chemins.
+
+**** *book_ *id_III03 *act_III *date_1784
+
+-*who_irene
+Ah quel plaisir
+De boire avec son corsaire !
+Chaque coup que je bois augmente mon désir
+De boire encore, et de lui plaire.
+Verse, verse, mon bel amant :
+Ah ! Que tu verses tendrement
+Tous les feux d'amour dans mon verre !
+
+-*who_abdalla
+Si, si, brindisi a te,
+Amate, bevete, ridete.
+Si, si, brindisi a te,
+Questo vino di Champagna
+A te somiglia,
+Incanta tutta la terra,
+Li cristiani,
+Li musulmani.
+Begli occhi scintillate
+Al par del vino spumante.
+Si, si, brindisi a te,
+
+-*who_irene,abdalla
+Si, si, brindisi a te,
+Amate, bevete, ridete.
+Si, si, brindisi a te, etc.
+Si, si, brindisi a te, etc.
+
+**** *book_ *id_III04 *act_III *date_1784
+
+-*who_lebaron
+Corsaire, il faut ici danser une autre danse.
+
+-*who_abdalla
+Che veggo ! Che veggo !
+
+-*who_lebaron
+      Ton maître, et la vengeance.
+Il est juste, soldats, qu'on l'enchaîne à son tour :
+Ainsi tout à son terme, et tout passe en un jour.
+
+-*who_abdalla
+Levanti, venite !
+
+-*who_lebaron
+      Tes Levantis, corsaire,
+Sont tous mis à la chaîne, et s'en vont en galère.
+Ami, l'oisiveté t'a perdu comme moi :
+Je te rends la leçon que je reçus de toi.
+Je t'en donne encore une avec reconnaissance :
+Je te rends ton vaisseau ; va, pars en diligence :
+Laisse-moi la beauté qui nous a tous sauvés,
+Et rembarque avec toi mes conseillers privés.
+Je jure... Je jure d'obéir
+Pour jamais à ma belle Irène.
+Peuples heureux, dont elle est souveraine,
+Répétez avec moi, contents de la servir :
+
+-*who_lechoeur
+Je jure. je jure d'obéir
+Pour jamais à la belle Irène.

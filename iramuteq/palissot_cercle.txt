@@ -1,0 +1,1023 @@
+
+
+**** *book_ *id_I01 *act_I *date_1755
+
+-*who_orphise
+Convenez que cela sera plaisant.
+
+-*who_ariste
+Ah !
+Très plaisant.
+
+-*who_orphise
+Et que c'est une idée délicieuse.
+
+-*who_ariste
+Admirable, en vérité, admirable !
+
+-*who_orphise
+Pour moi, je crois que nous allons nous divertir prodigieusement.
+
+-*who_ariste
+Oui, prodigieusement ; c'est le mot.
+
+-*who_orphise
+Mais vous dites cela d'un ton bien sérieux, Ariste.
+N'allez-vous pas encore m'opposer des difficultés ?
+
+-*who_ariste
+Tenez, Madame, toutes ces parties dont on se promet tant de plaisir, finissent ordinairement par de l'ennui.
+Vous voyez ma répugnance, je jouerai mal mon rôle, dispensez-moi de m'en charger.
+
+-*who_orphise
+Et moi je vous réponds que vous le jouerez très bien.
+
+-*who_ariste
+Point du tout.
+Vous m'annoncez des poètes, des beaux-esprits, des auteurs ; et, soit préjugé ou non, je me fais conscience de m'amuser de ces messieurs-là.
+J'aime les arts ; je respecte ceux qui les cultivent, et je pense sérieusement que le peu de considération que l'on a pour eux dans le monde, est un reste de barbarie, une espèce de vengeance que prennent les sots de la supériorité que les gens de mérite ont sur eux ; et je ne conçois pas comment la France, qui doit tant aux grands hommes qui l'ont éclairée, peut avilir elle-même ce qui la rend si considérable aux yeux des autres nations.
+
+-*who_orphise
+Vous n'y pensez pas, Ariste; je fais autant de cas que vous des vrais talents : mais il en est de subalternes qu'un esprit de vertige ou de mode a tirés de l'obscurité, qui, à la faveur de la singularité ou du manège, sont parvenus à une réputation usurpée, dont ils abusent pour étouffer le vrai mérite ; et je crois que, dans tous les états, il est permis de s'amuser des charlatans et du peuple.
+
+-*who_ariste
+J'en tombe d'accord, Madame, et vous savez que je ne les épargne pas.
+Cependant le public injuste fait rejaillir indifféremment sur les uns, le mépris qu'on lui donne pour les autres.
+Insensiblement on l'accoutume à confondre....
+
+-*who_orphise
+Savez-vous bien, Ariste, que vous vous êtes rouillé dans ce long séjour que vous avez fait en province ?
+À vous entendre, on croirait qu'il n'est question ici que de gens de lettres, et vous savez que je vous ai promis des ridicules de plus d'un genre.
+Mais je suppose que nous ne nous amusions pas autant que je l'imagine, avons-nous rien de mieux à faire ?
+
+-*who_ariste
+Et comptez-vous pour rien la malice de votre projet ?
+
+-*who_orphise
+Ah !
+Voici de la morale.
+Voyons pourtant, examinons bien la prétendue malice de ce projet.
+Mon mari a la fantaisie de tenir cercle trois jours de la semaine, de recevoir des savants, des beaux-esprits, des originaux de toute espèce ; et ce qui à tout autre que lui paraîtrait singulier, bizarre, extravagant même, est précisément ce qui lui plaît davantage.
+J'ai la complaisance de me prêter à son goût, et souvent de feindre beaucoup de gaîté au milieu de ces importuns qui m'excèdent.
+Aujourd'hui qu'il est à la campagne, je me propose de me réjouir un peu aux dépens de sa société ; je veux vous la faire connaître, jouir de la surprise que vous causeront, certains ridicules que j'aurai soin de faire sortir assez pour qu'ils nous donnent la comédie.
+Où donc est le crime de tout cela ?
+Ne puis-je me venger une fois de toute l'humeur que m'ont donnée ces originaux depuis deux ans que j'ai la générosité de m'ennuyer avec eux ?
+En vérité, Ariste, vous avez des scrupules qui ne vous vont point.
+
+-*who_ariste
+Mais, Madame...
+
+-*who_orphise
+Oh !
+Vos mais ne finiraient pas : l'heure où je reçois du monde approche, et je vous promets que vous n'aurez personne de connaissance.
+Vous n'en serez que plus à votre aise pour remplir le rôle que je vous destine.
+La beauté du jour nous invite à rester dans ce jardin ; je vais donner mes ordres pour qu'on laisse entrer : mais souvenez-vous que je veux que vous soyez plaisant.
+
+-*who_ariste
+Bon moyen pour m'empêcher de l'être.
+
+-*who_orphise
+Et que vous ne vous refusiez aucune épigramme, entendez-vous, Ariste ?
+
+-*who_ariste
+Il faut vouloir tout ce que vous voulez.
+
+-*who_orphise
+Frontin !
+Frontin !...
+Vous laisserez entrer le monde ordinaire.
+Je voudrais cependant éviter la cohue.
+Je n'y suis, que pour une personne ou deux à la fois tout au plus...
+Vous n'annoncerez que celles qui n'ont pas coutume de venir habituellement au cercle...
+Attendez !
+Si Lucinde ou Lindor se présentent, dites-leur que je suis ici.
+
+-*who_ariste
+Quoi !
+Lucinde ?
+Cette aimable enfant qui promettait un si bel avenir, lorsque je partis pour la province, et qui, je crois, vous est un peu parente ?
+
+-*who_orphise
+Elle-même.
+Un petit chagrin dont elle ne m'a pas encore fait la confidence, mais que je devine à peu près, doit l'amener tantôt ici.
+C'est une affaire de coeur, une querelle de jeunes gens...
+
+-*who_ariste
+Une affaire de coeur ?
+
+-*who_orphise
+Oui, le choix qu'elle a fait est convenable ; et si je réussis, comme je l'espère, à dissiper ce petit nuage, la fête dont je vous ai parlé sera pour elle.
+Allons, Ariste ; je crois apercevoir une des personnes la plus assidue de notre société.
+
+-*who_ariste
+Qui ?
+Cet homme que je vois au bout de cette allée, dont la physionomie, paraît moitié sérieuse, moitié comique, qui marche d'un air distrait, et qui semble ne pas nous remarquer ?
+
+-*who_orphise
+Précisément.
+C'est un poète qui a fait autrefois quelque bruit, mais avec qui ses protecteurs viennent de s'abonner pour qu'il cesse d'écrire.
+
+-*who_ariste
+Il n'a pas encore jeté les yeux sur nous ; il paraît de mauvaise humeur, et si nous voulons en jouir, il faut le tirer un peu de cette rêverie.
+
+-*who_orphise
+C'est un petit ressentiment qu'il a contre le public, qui vient de siffler impitoyablement une de ses pièces, dont le succès lui tournait la tête avant la représentation.
+
+-*who_ariste
+Tant mieux, nous allons peut-être lui trouver de la modestie.
+
+-*who_orphise
+Un poète médiocre, sifflé, et modeste !
+Ah, ah, ah, ah !
+Vous allez en juger, Ariste.
+Eh !
+De grâce, monsieur du Volcan, un moment de trêve à vos réflexions.
+
+**** *book_ *id_I02 *act_I *date_1755
+
+-*who_orphise
+Je parie que vous étiez assez bon pour vous occuper encore de la petite disgrâce de la semaine passée ?
+
+-*who_lepoete
+Non, Madame.
+J'avais tâché de plaire au public ; je m'étais, autant que je l'avais pu, rapproché des grands modèles, que nous devons regarder comme nos maîtres.
+Je me suis trompé.
+Il faut bien que j'aie mérité mon malheur par quelque endroit, et que la prévention qu'il est si naturel d'avoir pour ses ouvrages, m'ait aveuglé sur mes défauts.
+
+-*who_ariste
+Mais c'est parler on ne peut pas plus sensément, et je vois bien que vous avez voulu me surprendre...
+
+-*who_orphise
+Je vous avoue que je ne reviens pas de cette chute.
+La pièce avait pris une si grande faveur avant qu'on ne la jouât....
+
+-*who_lepoete
+Eh !
+Voilà précisément ce qui nous perd, Madame !
+Des amis trop zélés nous étouffent en nous caressant.
+On nous annonce comme des prodiges ; le public n'en est que plus en garde contre nous : et malheureusement ma pièce démentait trop visiblement les éloges fastueux qu'on m'avait donnés.
+
+-*who_ariste
+Oh !
+Pour le coup, je me déclare pour lui, et...
+
+-*who_orphise
+Votre modestie, monsieur du Volcan , ne peut me convaincre que l'on vous ait rendu justice.
+J'en appelle du public au public même : car enfin de véritables connaisseurs m'ont assuré que le plan de votre pièce était absolument dans les règles ; qu'il y avait de l'intérêt, des situations parfaitement dessinées, une décoration merveilleuse, des coups de théâtre à chaque scène...
+
+-*who_lepoete
+Oh !
+Pour le plan, j'avoue, Madame, qu'il était régulier, s'il en fut jamais ; que le spectacle en était pompeux, les situations neuves et frappantes.
+Quant à l'intérêt, comme il ne dépend que du choix du sujet, et que souvent ce choix n'est pour nous qu'une bonne fortune du hasard, je crois pouvoir convenir, sans orgueil, que le pathétique du mien s'est fait sentir dès l'exposition : aussi, malgré le tumulte du parterre ; on a remarqué des moments où le grand intérêt gagnait jusqu'au souffleur.
+
+-*who_ariste
+Il faut croire que votre pièce ne péchait apparemment que par les vers.
+Le style est en effet une partie bien essentielle...
+
+-*who_lepoete
+Oh !
+Pour les vers, Monsieur est excusable d'en parler ainsi : il ne connaît pas l'ouvrage.
+
+-*who_orphise
+Ah, ah, ah, ah, ah, ah !
+
+-*who_lepoete
+Quelques ennemis, Madame, peuvent vous avoir prévenue contre mes vers ; mais si vous me permettiez seulement de vous réciter une tirade...
+
+-*who_orphise
+Ah !
+Monsieur du Volcan.
+
+-*who_lepoete
+Une petite tirade.
+
+-*who_orphise
+Ah !
+
+-*who_lepoete
+De cinquante à soixante vers au plus.
+
+-*who_orphise
+Ah !
+
+-*who_lepoete
+Celle-ci, seulement, que le hasard me rappelle.
+
+-*who_orphise
+Eh !
+De grâce.
+
+-*who_lepoete
+« Aveugle ambition, cruelle politique... »
+
+-*who_orphise
+Trêve aux citations, je vous en prie, monsieur du Volcan : elles m'ennuient à périr.
+
+-*who_ariste
+À ce que je peux comprendre, Monsieur, votre pièce était un chef-d'oeuvre ; qui peut donc l'avoir fait siffler ?
+
+-*who_lepoete
+La cabale ; car avec du mérite on a des flots d'ennemis : le mauvais goût ; on ne veut plus aujourd'hui que des misères, des brochures, des sauts périlleux, de vils bouffons, de ridicules ariettes, et c'est ce qui déshonore la nation : le poète Capraro, à qui l'impuissance de plaire a donné la fureur de nuire, et qui, de temps en temps, s'agite sous le mépris public dont il est couvert, pour tâcher d'en rejeter quelque partie sur les autres : les acteurs enfin, qui ne savaient pas leurs rôles, qui ont joué faux d'un bout à l'autre de la pièce : une actrice surtout, à qui j'avais refusé de faire une épigramme contre sa rivale, et qui ne m'a jamais pardonné de l'avoir surprise dans son négligé.
+Mais je me flatte d'avoir imaginé un moyen de contenter le public, malgré qu'il en ait.
+
+-*who_ariste
+Vous cesserez d'écrire, peut-être ?
+
+-*who_lepoete
+Je l'avais résolu d'abord par dépit ; mais on ne se dérobe pas à l'impulsion du génie.
+J'ai remarqué qu'il est difficile que le Français admire longtemps, sans qu'il lui prenne envie de rire.
+Il en saisit l'occasion avec une avidité qui prouve bien que c'est son goût dominant.
+Il conserve cependant quelque sensibilité pour les beautés vraiment touchantes : j'imagine donc de lui donner des pièces qui le fassent rire et pleurer en même temps ; des comédies, par exemple.
+
+-*who_orphise
+Des comédies qui fassent pleurer !
+
+-*who_ariste
+Vous n'y pensez pas, monsieur du Volcan !
+
+-*who_lepoete
+Eh oui, Madame, oui, des comédies.
+Cela vous paraît singulier, tant mieux !
+C'est un présage de réussite : aussi bien, ne voyez-vous pas que Molière ennuie ?
+C'est qu'il est trop uniforme ; il faut toujours rire avec lui : mais par le mélange que j'invente, on aura de plus le plaisir d'être attendri.
+
+-*who_orphise
+J'entends ; vous voulez parler de ces pièces naïves, qui peuvent affecter le coeur par des peintures délicates et gracieuses...
+
+-*who_lepoete
+Non, Madame, non.
+Il n'y a pas le mot pour rire dans ces comédies-là.
+Je veux bien qu'il y ait de l'intérêt dans les miennes ; mais j'y veux de plus de bonnes plaisanteries, des paysans, des valets, des crispins même, et je vous réponds que cela prendra.
+
+-*who_orphise
+Véritablement, cette idée commence à me paraître très comique.
+
+-*who_lepoete
+C'est de l'invention que cela !
+
+-*who_ariste
+Oui.
+Quelques situations romanesques que l'on trouve partout ; quelques portraits plaisans d'originaux qui n'existent pas ; des lieux communs de morale mis en rimes : voilà de quoi se faire la réputation d'un génie du premier ordre.
+C'est savoir se placer, que d'imaginer une ressource comme celle-là, et je conçois que ce genre amphibie peut devenir très plaisante.
+
+-*who_lepoete
+Je brûle d'en être à l'essai.
+J'avais d'abord songé à relever l'opéra ; mais les musiciens et le public s'accoutument à se passer de paroles.
+Adieu, Madame ; je ne me suis jamais senti l'imagination si brillante.
+
+**** *book_ *id_I03 *act_I *date_1755
+
+-*who_ariste
+Je l'avais pris pour le plus sensé ; mais voilà bien le plus fou de tous nos poètes !
+
+-*who_orphise
+Parlez bas, Ariste ; je vois une personne qui ne vous pardonnerait jamais d'avoir trouvé monsieur du Volcan ridicule.
+
+-*who_ariste
+Cette femme qui vient à nous, et qui, si je ne me trompe, cache encore des prétentions sous cette physionomie prude ?
+
+-*who_orphise
+Elle-même ; c'est la douairière de nos femmes beaux esprits.
+
+-*who_ariste
+De nos femmes beaux-esprits ?
+
+-*who_orphise
+Du moins elle a droit de passer pour telle.
+Physique, géométrie, beaux-arts, tout est de son ressort ; et nous avons d'elle un traité des forces mouvantes.
+
+-*who_ariste
+Elle lit ; apparemment elle étudie son livre !
+
+-*who_orphise
+Cela pourrait bien être ; car, entre nous, je me défie beaucoup de ces femmes à sciences profondes.
+Celle-ci d'ailleurs est si journalière, qu'on la trouve, tour-à-tour, ingénieuse ou sotte, selon les personnes qu'elle a vues la veille.
+Elle a son jour de belles-lettres, son jour de philosophie, son jour de vapeurs enfin, qui est ordinairement celui où elle écoute tout le monde, pour avoir de l'esprit le lendemain.
+
+-*who_ariste
+Elle approche.
+
+**** *book_ *id_I04 *act_I *date_1755
+
+-*who_lafemmesavante
+Pardon, Madame ; je croyais vous trouver seule : je crains d'être importune...
+Je me retire.
+
+-*who_orphise
+Non, Madame.
+Une personne de votre mérite ne peut jamais être de trop.
+Je ne suis alarmée que de la diversion que nous avons pu faire à vos savantes méditations.
+Tous vos moments sont si précieux !
+
+-*who_lafemmesavante
+Oh !
+Point du tout.
+Je n'étais occupée que d'un problème assez abstrait, à la vérité, mais qu'il me sera facile de résoudre par la méthode des infiniment petits.
+
+-*who_orphise
+Ah !
+Nous sommes perdus !
+Elle est dans son jour d'érudition.
+Des infiniment petits, Madame !
+
+-*who_lafemmesavante
+Oui, Madame.
+C'est par cette heureuse méthode que l'on est parvenu à déterminer les quantités incommensurables.
+Sans elle nous irions encore à tâtons dans les sublimes mystères de la géométrie transcendante.
+Descartes l'avait indiquée par sa méthode des tangentes ; le grand Newton la mit dans son plus beau jour, quoique l'illustre Leibnitz lui dispute l'honneur de cette découverte.
+
+-*who_orphise
+Ah !
+Madame, quelle profusion de science !
+Que ne suis-je digne de vous entendre !
+
+-*who_lafemmesavante
+Vous vous moquez, Madame !
+Ce n'est là qu'une légère esquisse d'un article que je destine à l'Encyclopédie.
+Je pourrai bien y joindre aussi une nouvelle méthode d'opérer sur les sections coniques : cela sera lumineux, par exemple.
+
+-*who_ariste
+J'admire, Madame, cette érudition imposante ; mais faites grâce à mes préjugés.
+Mon oreille, trop vulgaire sans doute, a quelque peine à se familiariser avec ce langage sublime, et vous-même, ne le trouvez-vous pas un peu déplacé dans une personne de votre sexe ?
+
+-*who_lafemmesavante
+Préjugés ridicules, puisés dans une comédie de l'autre siècle !
+Les savants de nos jours pensent bien différemment.
+Ils sont convenus de déférer en tout au jugement des femmes ; et ce n'est pas une légère preuve des progrès de l'esprit philosophique dont s'honore la nation.
+C'est du moins ce que démontra parfaitement, il y a quelques jours, monsieur du Volcan, dans un cercle où je présidais.
+Il faut convenir que c'est un homme admirable, que ce monsieur du Volcan !
+Il est si persuadé de cette vérité, qu'il ne donnerait pas la plus petite brochure sans m'avoir consultée.
+Il est vrai que je lui communique aussi mes ouvrages ; et il en est toujours si content !
+Si content !
+
+-*who_ariste
+Et ses vers, sans doute, vous paraissent toujours les plus beaux du monde ?
+
+-*who_lafemmesavante
+Je n'en saisis pas toujours la pensée, et c'est ce qui me charme : j'aime qu'elle soit assez adroitement enveloppée, pour laisser un mérite à la pénétration du lecteur.
+Je vous avoue qu'après les mathématiques, ma passion eût été de deviner des énigmes.
+
+-*who_orphise
+C'est un plaisir délicieux, et que monsieur du Volcan a pu vous donner quelquefois.
+
+-*who_lafemmesavante
+Vous me rappelez qu'il me doit la lecture d'un volume d'Odes, où l'esprit géométrique brille dans toute sa justesse.
+C'est Euclide et Pindare tout ensemble.
+Pardon, Madame, si je vous quitté pour aller l'entendre ; et vous, Monsieur, songez qu'il y a de la barbarie à vouloir interdire aux femmes l'habitude des connaissances profondes.
+
+-*who_ariste
+J'avoue que leur partage est de plaire ; que leur sentiment vif et délicat doit être consulté de préférence, peut-être, dans les ouvrages d'agrément ; que les Savants mêmes sont redevables à leur commerce, de ce vernis de politesse qui s'est répandu jusque sur eux.
+Mais permettez-moi de croire (ne fût-ce que parce qu'elles y perdraient) qu'elles ne sont pas nées pour ces sciences abstraites et sauvages, qui substitueraient à leurs grâces naturelles le ridicule qui résulte presque toujours des demi-connaissances.
+
+-*who_lafemmesavante
+Des demi-connaissances !
+Il faut espérer que l'on vous désabusera, Monsieur.
+Que n'ai-je existé du temps de cet impertinent de Molière !
+Il n'eût pas sans doute osé me confondre avec ces plates bourgeoises qui s'occupent à des dissertations de grammaire.
+Cet homme-là n'avait nulle idée du haut comique; et je sais bon gré à nos auteurs d'avoir abandonné son genre.
+Mais je crains de me faire attendre.
+Adieu, Madame.
+
+**** *book_ *id_I05 *act_I *date_1755
+
+-*who_ariste
+Un pédant, même en rabat, est, à mon avis, un étrange animal ; mais un pédant en cornettes confond toutes mes idées !
+C'est un genre de ridicule si bizarre, qu'à peine je l'aurais cru possible.
+
+-*who_orphise
+C'est encore la plus raisonnable de son espèce.
+Heureusement que cette manie n'entre guère dans le système d'une femme de vingt ans.
+Avant que les sciences paraissent un besoin, il faut que les moyens de plaire soient bien épuisés ; et là-dessus, on ne s'en tient pas ordinairement à la première expérience.
+
+**** *book_ *id_I06 *act_I *date_1755
+
+-*who_lefinancier
+Eh !
+Bonjour, charmante Orphise ; je suis comblé de vous rencontrer.
+J'ai les plus jolis bijoux du monde à vous faire voir.
+En vérité, ce George est divin, sublime, essentiel à l'État.
+Tout ce qui sort de ses mains est d'une élégance qui enchante.
+Je lui dois près de vingt mille écus...
+Que dites-vous de cette bague ?
+
+-*who_orphise
+Le travail en est surprenant.
+
+-*who_lefinancier
+Mais, peut-être, ai-je commis une indiscrétion ?
+Vous pouviez être en affaire, et je suis désespéré quand je dérange.
+N'admirez-vous pas l'émail de cette boîte, Monsieur, les facettes de ce diamant ?
+Je crois cependant m'apercevoir qu'il est un peu louche.
+Qui est cet homme-là ?
+
+-*who_orphise
+C'est un de mes amis, monsieur Lisidor, homme de goût, de bonne compagnie.
+
+-*who_lefinancier
+Connaisseur par conséquent ?
+Tant mieux.
+Je veux que Monsieur juge de toutes mes emplettes.
+C'est mon faible, à moi, que les gens de goût, ceux, surtout, qui ont l'épigramme leste.
+Vous savez, Madame, que je me pique un peu d'y réussir.
+J'ai chez moi deux ou trois poètes, sur lesquels je tire à bout-portant, et que je paie exprès pour se déchirer les uns les autres.
+Je dois leur connaissance à mon cuisinier, qui est lui-même un virtuose, du premier ordre : je veux que Monsieur en décide, et je me flatte que ce soir...
+
+-*who_ariste
+J'avoue que la décision est intéressante ; mais...
+
+-*who_lefinancier
+Ce sera dans ma petite maison.
+Vous la connaissez, Madame : n'en rougissez pas.
+Plus d'une femme de la Cour, si j'étais indiscret.... mais on se doit des égards à soi-même.
+Je veux voir un peu Monsieur en prise avec mes poètes.
+Je lui détacherai l'invulnérable Capraro : cela sera plaisant.
+Je prétends aussi qu'il voie ma bibliothèque.
+Je ne crois pas qu'il y ait au monde un relieur comme le mien : il faut qu'il ait employé chez moi tout le maroquin du Levant ; mais c'est son travail dont il faut juger.
+Des filets, des bordures d'un goût qui étonne !
+En vérité, ce n'est qu'à regret que j'ouvre mes livres.
+
+-*who_orphise
+C'est en faire un très bon usage.
+
+-*who_lefinancier
+Vous riez, Madame ?
+Mais vous avez tort, et d'honneur, vous, en serez enchantée vous-même.
+À propos, j'ai fait l'acquisition du plus joli sujet du monde.
+Une cantatrice italienne, qui parle à peine le français, et qui met dans son chant l'expression là plus séduisante !
+C'est un organe dont on ne se fait point d'idée, et l'instrument le plus mélodieux, le plus enchanteur que je connaisse.
+Nous ne sommes arrangés que d'hier au soir ; elle sera, du souper, Monsieur ; vous voudrez bien en être aussi, Madame.
+Convenez que nous nous amuserons prodigieusement.
+
+-*who_orphise
+Non, monsieur Lisidor.
+Je soupe aujourd'hui chez moi; j'ai même le projet de donner un bal, et je me flatte que vous aurez la complaisance d'y figurer.
+
+-*who_lefinancier
+Un bal !
+Mais c'est où je triomphe.
+De son aveu, Marcel n'a pas fait de meilleur élève que moi.
+Un bal !
+Vous m'y verrez, Madame, sous un déguisement d'une espèce neuve, dont l'idée m'appartient, et qui, le carnaval dernier, me réussit à faire envie.
+La Duchapt, vaincue dans sa propre science, est venue me demander des modèles.
+C'est par moi que la Finance a commencé, dans les choses de goût, à prendre insensiblement le pas sur la Cour ; et c'est une justice que doit me rendre publiquement un de mes poètes dans sa première dédicace.
+
+-*who_ariste
+Eh oui !
+Voilà ce qui s'appelle du goût !
+Mais pourquoi ne pas me prévenir aussi que Monsieur était financier ?
+Qui diable l'eût jamais deviné !
+
+-*who_orphise
+Et comment vous représentiez-vous donc un homme de finance ?
+
+-*who_ariste
+Je l'avouerai : sur le préjugé que les faveurs de la fortune sont ordinairement très gratuites, qu'elle est d'ailleurs presque toujours suivie de la flatterie qui la caresse, et de l'ignorance, fille du luxe et de l'oisiveté, j'envisageais ces messieurs en gros, comme des êtres nécessairement massifs, lourds, épais, n'existant qu'en estomac, ensevelis dans un volume de matière grotesquement taillée...
+
+-*who_orphise
+Eh !
+Fi donc, Ariste ; vous ne connaissez que la vieille finance.
+
+-*who_lefinancier
+Il est vrai que le portrait de Monsieur est d'une décrépitude !...
+Il faut qu'il sache son Turcaret par coeur.
+
+-*who_ariste
+Oh !
+Voilà de l'épigramme, monsieur Lisidor !
+Eh bien !
+Je réformerai mes idées, et je conçois à présent que mon premier portrait n'était pas assez ridicule pour être ressemblant.
+
+-*who_lefinancier
+Adieu, Madame ; voici l'heure des boulevards, et je dois au public le spectacle d'une calèche d'un nouveau genre, attelée de six chevaux anglais, uniques dans leur espèce.
+C'est ma passion que de mener.
+Nos plus habiles cochers, nos jeunes seigneurs même, ne me le disputeraient pas.
+
+**** *book_ *id_I07 *act_I *date_1755
+
+-*who_orphise
+Eh bien, Ariste, votre pénétration était en défaut.
+
+-*who_ariste
+Je ne m'attendais pas, je vous l'avoue, à ce personnage de sous-seigneur.
+Quel alliage !
+Quelle métamorphose !...
+Mais quelqu'un vient.
+
+-*who_orphise
+C'est un homme d'un genre si nouveau dans la société, que je n'ai pas encore eu le temps de l'approfondir.
+
+**** *book_ *id_I08 *act_I *date_1755
+
+-*who_lephilosophe
+Vous voyez, Madame, un homme désespéré.
+La situation où je me trouvé exige les remèdes les plus prompts, et je crains de ne pouvoir en sortir sans un secours surnaturel.
+
+-*who_orphise
+Eh !
+De quoi vous plaignez-vous donc, Monsieur ?
+
+-*who_lephilosophe
+D'être devenu philosophe !
+Madame.
+
+-*who_orphise
+Comment !
+D'être devenu philosophe ?
+Mais, en effet, c'est la maladie épidémique : jamais on ne vit tant de philosophes.
+
+-*who_ariste
+Vous me surprenez, Monsieur.
+Quoi !
+Vous avez du regret d'être philosophe ?
+
+-*who_lephilosophe
+Oui, et mon malheur veut que je ne puisse plus m'en dédire.
+
+-*who_orphise
+Je n'y conçois rien ; mais ne vous tromperiez-vous pas, Monsieur ?
+Êtes-vous bien sûr d'être philosophe?
+
+-*who_lephilosophe
+Ah !
+Si je le suis ?
+S'il ne faut que faire mes preuves, Madame, il me sera facile de vous persuader.
+Premièrement, j'ai donné quelques ouvrages au public ; et tandis qu'on voit tant d'auteurs qui rougissent de leur nom, parce qu'ils ne le trouvent pas assez noble, j'ai eu le courage d'afficher le mien, et d'apprendre, à qui l'a voulu, que je m'appelle Blaise-Gille-Antoine, le Cosmopolite,
+
+-*who_orphise
+Blaise-Gille-Antoine !
+Il faut en effet de la philosophie pour porter un nom comme celui-là.
+
+-*who_ariste
+Passons à la seconde preuve.
+
+-*who_lephilosophe
+J'ai fait des préfaces, où j'ai dit tout naturellement au public que je me moquais de lui.
+
+-*who_ariste
+Et, sans doute, il vous l'a bien rendu?
+
+-*who_lephilosophe
+Il m'a sifflé ; mais j'ai dit que j'en étais bien aise.
+
+-*who_orphise
+Voilà une modération tout-à-fait philosophique.
+
+-*who_lephilosophe
+Ah !
+Madame, vous n'êtes pas encore au bout.
+J'ai publié que ce que tous les hommes avaient estimé jusqu'à présent, n'avait servi qu'à les rendre fripons ; et que, tout calcul fait, il valait mieux parier pour la probité d'un sot, que pour celle d'un homme d'esprit.
+
+-*who_ariste
+Vous seriez la preuve du contraire : mais pourquoi, Monsieur, avez-vous débité toutes ces gentillesses-là ?
+
+-*who_lephilosophe
+Parce que je voulais être philosophe.
+
+-*who_ariste
+Et vous n'avez pas trouvé d'autres moyens ?
+
+-*who_lephilosophe
+J'aurais tort de m'en plaindre ; on ne me connaissait pas : depuis ce temps-là chacun me montre au doigt, et je doute fort que Diogène ait fait plus de bruit chez les Athéniens.
+
+-*who_ariste
+Mais ne pouviez-vous pas travailler plus heureusement à découvrir des vérités neuves, qu'à soutenir ainsi des paradoxes bizarres ?
+
+-*who_lephilosophe
+Eh !
+Qu'importe, si par-là-je me suis fait une réputation ?
+Pensez-vous , lorsque j'ai débuté dans le monde, que je n'aie pas ri moi-même de me trouver des partisans ?
+Mais enfin, c'est tout ce que je désirais.
+Et pourquoi préférer une route difficile à des chemins plus aisés ?
+Le philosophe, ainsi que la nature, doit toujours aller à l'épargne de la peine.
+
+-*who_ariste
+J'entends.
+
+-*who_orphise
+Quel motif avez-vous donc d'être affligé ?
+Vous vouliez être philosophe, ou le paraître ; on vous a pris au mot : il me semble que vous devriez être content.
+
+-*who_lephilosophe
+Ah !
+Voici ce qui m'afflige, Madame.
+J'ai débité toutes ces belles choses-là sans les croire, dans l'idée qu'un philosophe devait penser, parler, écrire, et même s'habiller autrement que le vulgaire.
+J'ai refusé jusqu'à de l'argent, pour ne ressembler à personne.
+À la faveur de mes opinions singulières, je prétendais à la considération ; j'ai réussi d'abord au-delà de mes espérances, tout concourait à ma célébrité : mais l'estime se perd par l'habitude.
+J'aurais dû paraître moins encore que je ne l'ai fait, et ne pas familiariser le public avec mes manières.
+La facilité avec laquelle je me suis fait des partisans m'a séduit ; et il y a bien autant de monde qui me prend aujourd'hui pour un fou, qu'il y en avait autrefois qui me prenait pour un sage.
+
+-*who_orphise
+Ah !
+Monsieur le Philosophe, vous prétendiez à la considération ?
+
+-*who_lephilosophe
+Pour l'honneur de la philosophie, Madame.
+
+-*who_orphise
+Eh bien !
+Monsieur Blaise-Gille-Antoine, le Cosmopolite, il faut que la vraie philosophie vous console, et que vous reveniez tout naturellement à vous réconcilier avec le sens commun.
+
+-*who_lephilosophe
+Eh !
+Quel avantage trouverais-je à penser comme tout le monde ?
+
+-*who_ariste
+D'inspirer, peut-être, moins de curiosité, mais d'éviter le ridicule.
+
+-*who_lephilosophe
+Non, Monsieur, non.
+Je ne compromettrai pas ainsi l'honneur de la philosophie ; et puisque vous n'avez rien de mieux à me conseiller, je vais m'égayer dans quelque brochure nouvelle, aux dépens de la Nation, de la Noblesse et de l'Académie royale de musique.
+Quand on sait aimer et plaire,
+A-t-on besoin d'autre bien ?
+
+-*who_orphise
+Vous allez achever de désabuser le public sur votre compte, et peut-être y réussirez-vous assez bien pour vous corriger.
+
+**** *book_ *id_I09 *act_I *date_1755
+
+-*who_ariste
+Voilà des philosophes dont je n'aurais jamais imaginé l'espèce.
+Mais je crois apercevoir Lucinde.
+
+-*who_orphise
+C'est elle-même.
+
+**** *book_ *id_I10 *act_I *date_1755
+
+-*who_orphise
+Comment !
+Ma chère Lucinde !
+Ceci devient sérieux.
+De la langueur, des yeux chargés, une physionomie abattue, un négligé de convalescente.
+Voilà qui devient respectable ; et si je ne m'étais arrangée pour être gaie toute la journée, j'aurais toutes les peines du monde à ne pas m'affliger avec vous.
+L'intérêt a déjà gagné le coeur d'Ariste !
+Mais il a beau faire, l'exemple n'opérera pas sur moi.
+Lindor serait trop flatté, s'il était témoin de ce petit désordre ; et s'il est dans son tort, comme je le pense, il ne mérite pas de déranger nos plaisirs.
+
+-*who_lucinde
+Ah !
+S'il est dans son tort, Madame ?
+Quel souvenir me rappelez-vous !
+
+-*who_ariste
+Ce ton sérieux va mal avec tant de charmes.
+Un caprice, une fausse apparence peut-être, a pu vous donner des soupçons contre votre amant.
+Rendez-vous justice, belle Lucinde, vos yeux ne permettent pas de le croire infidèle.
+
+-*who_orphise
+Ma chère Lucinde, un moment de trêve à vos douleurs.
+Ceci ne finira pas aussi mal que vous le pensez : fiez-vous à mon expérience.
+J'aperçois quelqu'un qui peut faire diversion à votre tristesse : gardez-vous de vous laisser deviner.
+J'exige, au contraire, que vous vous fassiez quelque violence pour prendre part à nos amusements.
+Je veux vous le faire connaître, Ariste.
+Il approche ; c'est mon médecin.
+
+-*who_ariste
+Un médecin !
+Je ne m'en serais pas douté.
+
+**** *book_ *id_I11 *act_I *date_1755
+
+-*who_orphise
+Ah !
+Bonjour, cher petit Docteur ; vous êtes charmant d'être venu.
+Je vous demande, Ariste, votre confiance pour Monsieur.
+
+-*who_ariste
+Monsieur est un élève d'Hippocrate ?
+
+-*who_lemedecin
+Je suis médecin, Monsieur ; je sais qu'Hippocrate était un fort bon homme, plein de bon sens, et voilà tout.
+
+-*who_ariste
+On me l'avait peint comme un philosophe respectable, dont les moeurs étaient simples, et qui guérissait.
+
+-*who_lemedecin
+Il guérissait, oui ; mais si maussadement !
+
+-*who_orphise
+Comment !
+
+-*who_lemedecin
+Mais, oui, sans doute ; y a-t-il rien, par exemple, de plus ridicule, de plus insupportable que son eau blanche ?
+J'ose à peine en prononcer le nom.
+Quel triste régime pour les malades !
+
+-*who_orphise
+Mais s'ils s'en portaient mieux ?
+
+-*who_lemedecin
+C'est au moins se bien porter d'une façon très malhonnête.
+Le bon homme allait fort terre-à-terre.
+Il en était encore aux seules maladies du corps : pour nous, nous avons santé, par-dessus tout cela, aux maladies de l'esprit.
+
+-*who_ariste
+Aux maladies de l'esprit ?
+C'est avoir fait du chemin : mais j'interromps l'histoire d'Hippocrate.
+
+-*who_lemedecin
+C'est pitié de voir combien il se donnait de peine pour observer les maladies !
+À ce métier, il eût fait ici très mauvaise figure : il y perdait un temps infini.
+
+-*who_orphise
+Appelez-vous cela perdre son temps pour un médecin ?
+Eh !
+Que faites-vous donc, Messieurs ?
+
+-*who_lemedecin
+Nous, Madame ?
+Nous voyons des malades; pour des maladies, c'est autre chose.
+
+-*who_orphise
+Et quelle différence faites-vous entre voir des malades et des maladies ?
+
+-*who_lemedecin
+Oh !
+Je vous réponds qu'il y en a une très grande pour le malade et pour le médecin.
+Mais Mademoiselle pourra vous faire juger de la différence.
+Cet air abattu, ce négligé annoncent sûrement quelque indisposition.
+
+-*who_orphise
+N'allez pas le contredire.
+
+-*who_lemedecin
+À travers ce léger désordre, elle a pourtant l'air d'une très belle santé ; et ce négligé-là lui réussit à miracle.
+De quoi vous plaignez-vous, ma belle Demoiselle ?
+Avec une physionomie si intéressante, peut-on savoir ?...
+
+-*who_lucinde
+Monsieur...
+
+-*who_orphise
+C'est son estomac dont elle se plaint.
+Prêtez-vous donc à sa manie.
+
+-*who_lemedecin
+C'est une petite tracasserie que cela, et qui n'est pas sans doute fort ancienne ?
+
+-*who_lucinde
+Depuis deux mois, elle me tourmente.
+
+-*who_lemedecin
+Deux mois !
+Voilà qui est d'une opiniâtreté choquante.
+Il y a comme cela des estomacs qui ont dès fantaisies.
+Apparemment, vous n'avez qu'un extrait d'appétit ?
+
+-*who_lucinde
+Je dévore.
+
+-*who_lemedecin
+Le petit coeur, quelquefois mal à son aise ?
+
+-*who_lucinde
+Jamais.
+
+-*who_lemedecin
+La tête ne vous dit rien ?
+Point de disparates ?
+
+-*who_lucinde
+Mais, ne me dit rien...
+Je n'y ressens point de mal.
+
+-*who_lemedecin
+Quoi !
+Rien de tout cela ?
+
+-*who_lucinde
+Rien absolument.
+
+-*who_lemedecin
+Je l'avais précisément deviné.
+J'ai le coup-d'oeil d'une justesse !...
+Vapeurs que cela.
+
+-*who_lucinde
+Comment !
+Des vapeurs !
+
+-*who_lemedecin
+Le terme vous choque ?
+C'est, plus honnêtement, l'esprit éthéré, le fluide nerveux, devenu de nos jours électrique, qui vous cause des grippements de nerfs, des agacements, des mouvements spasmodiques....
+
+-*who_orphise
+Il est savant, du moins, le petit Docteur !
+
+-*who_ariste
+C'est ce qu'il me semble.
+
+-*who_lemedecin
+Ma belle malade, je vais vous ordonner de la poudre tempérante, un joli petit julep, une liqueur anodine....
+
+-*who_lucinde
+Eh !
+Monsieur, je suis nourrie de tout cela.
+
+-*who_lemedecin
+Ceci deviendrait sérieux : voyons donc.
+Oh !
+Oh !
+Il y a de la fréquence dans ce pouls-là.
+Mais la nuit, avez-vous le sommeil doré ?
+
+-*who_lucinde
+Le sommeil doré ?
+Il me semble que je repose fort bien.
+
+-*who_orphise
+Le sommeil doré !
+C'est qu'il est charmant avec ses petites phrases !
+Je ne connais personne qui parle comme lui.
+Le sommeil doré !
+
+-*who_ariste
+Effectivement, les malades de Monsieur, doivent mourir le plus gaiement du monde.
+
+-*who_orphise
+Ce sont ses bulletins qu'il faut voir !
+En vérité, cela se lit avec autant de plaisir qu'un joli madrigal.
+Mais revenons à la malade.
+
+-*who_lemedecin
+Tout bien pesé, je croirais à propos qu'elle se fît éventer la veine.
+N'auriez-vous pas ceci météorise ?
+
+-*who_lucinde
+Météorisé ?
+Je ne vous entends pas.
+
+-*who_lemedecin
+Oui, météorisé : votre pouls l'indique ; et votre maladie m'eût donné le change, si la pneumato-pathologie, découverte de nos jours, ne me marquait la route que je dois suivre : prenez donc du miel aérien, des siliques égyptiaques...
+
+-*who_orphise
+Voilà des remèdes que je ne me rappelle pas d'avoir entendu nommer.
+
+-*who_lemedecin
+Ce sont de nouveaux mots que nous avons résolu d'adopter, pour nous exprimer avec plus de décence.
+Le miel aérien, c'est de la manne : les siliques égyptiaques, de la casse.
+Les apothicaires sont prévenus.
+
+-*who_orphise
+J'entends.
+
+-*who_lemedecin
+Oh !
+Nous ne ressemblons pas à ces médecins de l'autre siècle, et nous avons mis la médecine sur un ton d'élégance qui ne laisse plus de prise au ridicule.
+
+-*who_orphise
+Vous en êtes la preuve.
+Actuellement, je suis au fait de la différence qu'il y a entre voir un malade et une maladie.
+Ici, vous avez vu la malade, et même de très-près ; pour la maladie...
+
+-*who_lemedecin
+J'avoue que je l'ai un peu tirée au juger.
+Il y a cependant beaucoup de vraisemblance que ce sont des vapeurs.
+Comment ?
+Déjà six heures !
+J'ai cent visites encore à faire avant la nuit.
+Il faut que je vole au Marais, chez la présidente Bélise : c'est aujourd'hui son jour de migraine.
+On m'attend à une consultation au faubourg, pour tâcher de faire dormir une jeune duchesse, dont l'insomnie a tenu bon contre un roman de sentiment en douze volumes.
+De là, le marquis Mondor m'a fait promettre de passer chez cette petite danseuse qui le ruine, et qui m'a recommandé la santé d'un jeune abbé qui garde l'incognito chez elle depuis six semaines.
+En vérité, je suis excédé ; je n'ai pas un moment à moi, et je ne conçois pas comment nos vieux médecins pouvaient se passer d'équipage.
+Adieu, Madame; et vous, Mademoiselle, observez ce que je vous ai prescrit.
+
+**** *book_ *id_I12 *act_I *date_1755
+
+-*who_orphise
+Ce n'est point là le médecin qu'il vous faut, ma chère Lucinde.
+Mais je vois Lindor.
+Quand on ne s'évite pas plus que cela, on n'est pas loin de se rapprocher.
+
+-*who_lucinde
+Ciel !
+Où fuirai-je? ?
+
+**** *book_ *id_I13 *act_I *date_1755
+
+-*who_orphise
+Approchez, Lindor, approchez.
+Nous parlions de vous, et nous avons un sujet de querelle à vous faire.
+
+-*who_lindor
+Non, Madame, non ; c'est une perfidie qui n'a point d'exemple, et vous aurez beau me parler en sa faveur.
+
+-*who_lucinde
+En ma faveur, Monsieur !
+Eh !
+Qui vous dit que Madame en ait la moindre idée ?
+
+-*who_lindor
+Je ne doute pas, ingrate, du soin que vous aurez pris de prévenir ici tout le mondé contré moi; mais j'aurai du moins la consolation dé publier une inconstance qui vous.... déshonoré, oui, qui vous déshonore : le terme est fort, je l'avoue, mais il est placé.
+
+-*who_lucinde
+Et moi, Monsieur, dans la crainte de m'abaisser à vous faire des reproches...
+
+-*who_lindor
+À me faire des reproches !
+À moi ?
+À l'amant le plus tendre et le plus outragé ?
+
+-*who_lucinde
+Madame ne m'obligera pas à souffrir plus longtemps votre humeur.
+Adieu, Monsieur, je vous laisse le champ fibre; je me retire.
+
+-*who_lindor
+Vous voyez, Madame, qu'elle ne peut supporter ma présence ; c'est un témoin qui l'accuse, et une confusion que je veux bien encore lui épargner.
+
+-*who_ariste
+Non, Monsieur, vous ne nous échapperez pas.
+Je suis bien aise de voir le dénouement de tout ceci.
+
+-*who_lindor
+C'est vous, Lucinde, qui m'y forcez.
+
+-*who_orphise
+Expliquez-vous, je le veux.
+
+-*who_lindor
+Vous le voulez, Madame ?
+Eh bien, Lucinde, je ne vous reprocherai pas d'abord cette indolence de l'âme, cette froideur dont je me suis plaint mille fois.
+Je croyais, parce que vous me l'aviez dit, que vous ne m'en aimiez pas moins, et que cet air d'indifférence n'était en vous que l'effet du caractère.
+Je feignais de le croire du moins ; et quelquefois, je l'avoue, j'imaginais vous avoir trouvée plus sensible.
+Mais, après ce que j'ai vu, il ne m'est plus permis de douter de la vérité de cette indifférence.
+Que dis-je, indifférence !
+On ne pousse pas le mépris plus loin.
+
+-*who_lucinde
+Le mépris !
+Ah ciel !
+
+-*who_lindor
+Oui, le mépris : ne dissimulez plus; jugez-en, Madame.
+Je rends, en sa présence, pendant un bal entier, les soins les plus décidés à Cydalise.
+Je me fais violence pour lui dire les choses les plus flatteuses et les plus tendres, de manière que Lucinde les entendît.
+J'étais bien aise d'éprouver enfin si ce coeur qu'on m'avait peint si naturel et si vrai, répondait en effet à tout l'amour dont je l'avais cru digne ; et l'insensible n'en perdit pas un moment de gaîté : pas le moindre trouble, pas l'ombre de la jalousie.
+Est-ce ainsi que l'on aime, Madame ?
+Je vous le demande, est-ce ainsi que l'on aime ?
+Mais j'ai découvert enfin d'où partait ce fond d'indifférence pour moi; et l'entretien secret qu'elle eut pendant le même bal avec Dorante, ne m'apprend que trop de quoi je dois me plaindre.
+
+-*who_lucinde
+Et fîtes-vous paraître, Monsieur, moins de gaîté, plus de trouble, plus de jalousie, pendant cet entretien avec Dorante ?
+
+-*who_lindor
+Non, Mademoiselle, non.
+Je ne voulus point vous donner le triomphe de paraître affligé.
+C'était tout ce que vous désiriez, sans doute, pour jouir avec mon rival des coups que vous me portiez l'un et l'autre : mais il n'y a que moi qui sache ce que j'ai souffert.
+J'ai renfermé mon dépit au point de vous inquiéter peut-être, et j'ai pris, à mon tour, cet air de froideur que je vous avais tant de fois reproché.
+
+-*who_lucinde
+Vous n'aimez donc point Cydalise, Lindor ?
+
+-*who_lindor
+Moi ?
+L'aimer !
+Je le voudrais, ingrate.
+Ma vengeance en serait plus complète : mais est-on le maître de disposer si facilement d'un coeur où vous avez régné ?
+Ah, Lucinde !
+Je ne méritais pas un pareil traitement.
+Il n'y a que vous, dans le monde, capable d'une inconstance si prompte, si c'est une inconstance encore : car, vous ne m'avez jamais aimé, et vous n'avez que le choix de la légèreté ou de la coquetterie.
+
+-*who_lucinde
+Vous avez donc beaucoup souffert, Lindor ?
+
+-*who_lindor
+Si j'ai souffert ?
+Cruelle !
+
+-*who_lucinde
+Eh bien !
+Je souffrais aussi tandis que vous parliez à Cydalise, et j'avais les mêmes raisons que vous pour cacher mon trouble.
+
+-*who_lindor
+Vous n'aimez donc pas Dorante, Lucinde ?
+
+-*who_lucinde
+Non, mais je sens que je devrais vous haïr.
+Je voulus me venger d'une épreuve que je ne méritais point, et que je prenais pour une perfidie.
+Ce n'était pas de vous que je devais apprendre à me faire une violence si cruelle.
+
+-*who_lindor
+Vous n'aimez point Dorante ?...
+Ah !
+Belle Lucinde, comment pourrai-je expier mon injustice ?
+
+-*who_lucinde
+Une autre serait tentée dé jouir de votre confusion ; mais non, Lindor, je veux achever de vous rendre inexcusable, je vous pardonne.
+
+-*who_lindor
+Adorable Lucinde !
+Puis-je me justifier à mes propres yeux ?
+
+-*who_orphise
+Vous vous êtes trompés tous deux par une fausse inconstance.
+Je n'aurais peut-être pas été si facile à vous pardonner, Lindor ; mais les fautes de l'amour portent leur excuse avec elles.
+Allons, Ariste, c'est une scène de plus à notre comédie ; et les folies de deux jeunes amants ne sont pas si déplacées qu'on le croirait, dans un cercle d'originaux.
+
+**** *book_ *id_I14 *act_I *date_1755
+
+-*who_frontin
+Madame, les musiciens que vous avez mandés viennent d'arriver, avec une suite assez nombreuse, et sont là-bas à vous attendre.
+
+-*who_orphise
+Que cette petite fêté, ma chère Lucinde, serve de prélude à votre bonheur; et vous, Ariste, venez m'aider à en faire les honneurs.

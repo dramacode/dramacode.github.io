@@ -1,0 +1,1951 @@
+
+
+**** *book_ *id_I01 *act_
+
+-*who_madame_duru
+Mais, mon très-cher Marquis, comment, en conscience,
+Puis-je accorder ma fille à votre impatience,
+Sans l'aveu d'un époux ? Le cas est inouï.
+
+-*who_le_marquis
+Comment ? Avec trois mots, un bon contrat, un oui ;
+Rien de plus agréable et rien de plus facile.
+À vos commandements votre fille est docile ;
+Vos bontés m'ont permis de lui faire ma cour ;
+Elle a quelque indulgence, et moi beaucoup d'amour ;
+Pour votre intime ami dès longtemps je m'affiche ;
+Je me crois honnête homme, et je suis assez riche.
+Nous vivons fort gaiement, nous vivrons encor mieux,
+Et nos jours, croyez-moi, seront délicieux.
+
+-*who_madame_duru
+D'accord, mais mon mari ?
+
+-*who_le_marquis
+      Votre mari m'assomme.
+Quel besoin avons-nous de conseils d'un tel homme ?
+
+-*who_madame_duru
+Quoi ! Pendant son absence ?...
+
+-*who_le_marquis
+      Ah ! Les absents ont tort.
+Absent depuis douze ans, c'est comme à-peu-près mort.
+Si dans le fond de l'Inde il prétend être en vie,
+C'est pour vous amasser, avec sa ladrerie,
+Un bien que vous savez dépenser noblement ;
+Je consens qu'à ce prix il soit encor vivant ;
+Mais je le tiens pour mort aussitôt qu'il s'avise
+De vouloir disposer de la charmante Erise.
+Celle qui la forma doit en prendre le soin ;
+Et l'on n'arrange pas les filles d'aussi loin.
+Pardonnez...
+
+-*who_madame_duru
+      Je suis bonne, et vous devez connaître
+Que pour Monsieur Duru, mon Seigneur et mon maître,
+Je n'ai pas un amour aveugle et violent.
+Je l'aime ... comme il faut... pas trop fort... sensément ;
+Mais je lui dois respect et quelque obéissance.
+
+-*who_le_marquis
+Eh ! mon Dieu, point du tout ; vous vous moquez, je pense.
+Qui, vous ? Vous, du respect pour un Monsieur Duru ?
+Fort bien. Nous vous verrions, si nous l'en avions cru,
+Dans un habit de serge, en un second étage,
+Tenir, sans domestique, un fort plaisant ménage.
+Vous êtes Demoiselle ; et quand l'adversité,
+Malgré votre mérite et votre qualité,
+Avec Monsieur Duru vous fit en biens commune,
+Alors qu'il commençait à bâtir sa fortune.
+C'était à ce Monsieur faire beaucoup d'honneur ;
+Et vous aviez, je crois, un peu trop de douceur,
+De souffrir qu'il joignît avec rude manière
+À vos tendres appas sa personne grossière.
+Voulez-vous pas encore aller sacrifier
+Votre charmante Erise au fils d'un usurier ?
+De ce Monsieur Gripon, son très digne compère ?
+Monsieur Duru, je pense, a voulu cette affaire :
+Il l'avait fort à coeur, et, par respect pour lui,
+Vous devriez, ma foi, la conclure aujourd'hui.
+
+-*who_madame_duru
+Ne plaisantez pas tant, il m'en écrit encore,
+Et de son plein pouvoir dans sa Lettre il m'honore.
+
+-*who_le_marquis
+Eh ! De ce plein pouvoir que ne vous servez-vous
+Pour faire un heureux choix d'un plus honnête époux ?
+
+-*who_madame_duru
+Hélas ! À vos désirs je voudrais condescendre,
+Ce serait mon bonheur de vous avoir pour gendre
+J'avais, dans cette idée, écrit plus d'une fois ;
+J'ai prié mon mari de laisser à mon choix
+Cet établissement de deux enfants que j'aime.
+Monsieur Gripon me cause une frayeur extrême ;
+Mais, tout Gripon qu'il est, il le faut ménager,
+Écrire encor dans l'Inde, examiner, songer.
+
+-*who_le_marquis
+Oui, voilà des raisons, des mesures commodes,
+Envoyer publier des bancs aux Antipodes
+Pour avoir dans trois ans un refus clair et net.
+De votre cher mari je ne suis pas le fait.
+Du seul nom de Marquis sa grosse âme étonnée,
+Croirait voir sa maison au pillage donnée.
+Il aime fort l'argent, il connaît peu l'amour.
+Au nom du cher objet qui de vous tient le jour,
+De la vive amitié qui m'attache à sa mère,
+De cet amour ardent qu'elle voit sans colère,
+Daignez former, Madame, un si tendre lien ;
+Ordonnez mon bonheur, j'ose dire le sien.
+Qu'à jamais à vos pieds je passe ici ma vie.
+
+-*who_madame_duru
+Oh, çà, vous aimez donc ma fille à la folie ?
+
+-*who_le_marquis
+Si je l'adore, ô Ciel ! Pour croître mon bonheur
+Je compte à votre fils donner aussi ma soeur.
+Vous aurez quatre enfants, qui d'une âme soumise,
+D'un coeur toujours à vous...
+
+**** *book_ *id_I02 *act_
+
+-*who_le_marquis
+      Ah ! Venez belle Érise,
+Fléchissez votre mère, et daignez la toucher,
+Je ne la connais plus, c'est un coeur de rocher.
+
+-*who_madame_duru
+Quel rocher ! Vous voyez un homme ici, ma fille
+Qui veut obstinément être de la familles
+Il est pressant ; je crains que l'ardeur de ce feu,
+Le rendant importun, ne vous déplaise un peu.
+
+-*who_erise
+Oh ! Non, ne craignez rien ; s'il n'a pu vous déplaire
+Croyez que contre lui je n'ai point de colère :
+J'aime à vous obéir. Comment ne pas vouloir
+Ce que vous commandez, ce qui fait mon devoir,
+Ce qui de mon respect est la preuve si claire ?
+
+-*who_madame_duru
+Je ne commande point.
+
+-*who_erise
+      Pardonnez-moi, ma mère
+Vous l'avez commandé, mon coeur en est témoin.
+
+-*who_le_marquis
+De me justifier elle-même prend soin.
+Nous sommes deux ici contre vous. Ah Madame !
+Soyez sensible aux feux d'une si pure flamme ;
+Vous l'avez allumée, et vous ne voudrez point
+Voir mourir sans s'unir ce que vous avez joint.
+Parlez donc, aidez-moi. Qu'avez-vous à sourire?
+
+-*who_erise
+Mais vous parlez si bien que je n'ai rien à dire ;
+J'aurais peur d'être trop de votre sentiment,
+Et j'en ai dit, me semble, assez honnêtement.
+
+-*who_madame_duru
+Je vois, mes chers enfants, qu'il est fort nécessaire
+De conclure au plus tôt cette importante affaire.
+C'est pitié de vous voir ainsi sécher tous deux,
+Et mon bonheur dépend du succès de vos voeux.
+Mais mon mari !
+
+-*who_le_marquis
+      Toujours son mari ! Sa faiblesse
+De cet épouvantail s'inquiète sans cesse.
+
+-*who_erise
+Il est mon père.
+
+**** *book_ *id_I03 *act_
+
+-*who_damis
+      Ah ? Ah ! L'on parle donc ici
+D'hymenée et d'amour ? Je veux m'y joindre aussi.
+Votre bonté pour moi ne s'est point démentie :
+Ma mère me mettra, je crois, de la partie.
+Monsieur a la bonté de m'accorder sa soeur,
+Je compte absolument jouir de cet honneur.
+Non point par vanité, mais par tendresse pure,
+Je l'aime éperdument, et mon coeur vous conjure
+De voir avec pitié ma vive passion.
+Voyez-vous, je suis homme à perdre la raison ;
+Enfin c'est un parti qu'on ne peut plus combattre.
+Une noce après tout suffira pour nous quatre.
+Il n'est pas trop commun de savoir en un jour
+Rendre deux coeurs heureux par les mains de l'amour.
+Mais faire quatre heureux par un seul coup de plume,
+Par un seul mot, ma mère, et contre la coutume,
+C'est un plaisir divin qui n'appartient qu'à vous,
+Et vous serez, ma mère, heureuse autant que nous.
+
+-*who_le_marquis
+Je réponds de ma soeur, je réponds de moi-même ;
+Mais Madame balance, et c'est en vain qu'on aime.
+
+-*who_erise
+Ah ! vous êtes si bonne ! Auriez-vous la rigueur
+De maltraiter un fils si cher à votre coeur ?
+Son amour est si vrai, si pur, si raisonnable !
+Vous l'aimez, voulez-vous le rendre misérable ?
+
+-*who_damis
+Désespérerez-vous par tant de cruautés,
+Une fille toujours souple à vos volontés ?
+Elle aime tout de bon, et je me persuade
+Que le moindre refus va la rendre malade,
+
+-*who_erise
+Je connais bien mon frère, et j'ai lu dans son coeur :
+Un refus le ferait expirer de douleur.
+Pour moi, j'obéirai sans réplique à ma mère,
+
+-*who_damis
+Je parle pour ma soeur.
+
+-*who_erise
+      Je parle pour mon frère,
+
+-*who_le_marquis
+      Moi, je parle pour tous.
+
+-*who_madame_duru
+Écoutez donc tous trois.
+Vos amours sont charmants et vos goûts font mon choix :
+Je sens combien m'honore une telle alliance ;
+Mon coeur à vos plaisirs se livre par avance.
+Nous serons tous contents, ou bien je ne pourrai :
+J'ai donné ma parole et je vous la tiendrai.
+
+-*who_damis_erise_le_marquis
+Ah !
+
+-*who_madame_duru
+      Mais...
+
+-*who_le_marquis
+      Toujours des mais ? Vous allez encor dire
+Mais mon mari.
+
+-*who_madame_duru
+      Sans doute.
+
+-*who_erise
+      Ah ! Quels coups !
+
+-*who_damis
+      Quel martyre !
+
+-*who_madame_duru
+Qh ! Laissez-moi parler. Vous saurez, mes enfants,
+Que quand on m'épousa j'avais près de quinze ans.
+Je dois tout aux bons soins de votre honoré père :
+Sa fortune déjà commençait à se faire ;
+Il eut l'art d'amasser et de garder du bien
+En travaillant beaucoup et ne dépensant rien.
+Il me recommanda, quand il quitta la France,
+De fuir toujours le monde, et surtout la dépense.
+J'ai dépensé beaucoup à vous bien élever ;
+Malgré moi le beau monde est venu me trouver.
+Au fond d'un galetas il reléguait ma vie,
+Et plus honnêtement je me suis établie.
+Il voulait que son fils, en bonnet, en rabat,
+Traînât dans le Palais la robe d'avocat ;
+Au régiment du Roi je le fis Capitaine.
+Il prétend aujourd'hui, sous peine de sa haine,
+Que de Monsieur Gripon, et la fille et le fils,
+Par un beau mariage avec nous soient unis.
+Je l'empêcherai bien, j'y suis fort résolue.
+
+-*who_damis
+Et nous aussi.
+
+-*who_madame_duru
+      Je crains quelque déconvenue,
+Je crains de mon mari le courroux véhément.
+
+-*who_le_marquis
+Ne craignez rien de loin.
+
+-*who_madame_duru
+      Son cher correspondant
+Maître Isaac Gripon, d'une âme fort rebourse,
+Ferme depuis un an les cordons de sa bourse.
+
+-*who_damis
+Il vous en reste assez.
+
+-*who_madame_duru
+      Oui, mais j'ai consulté...
+
+-*who_le_marquis
+Hélas ! Consultez-nous.
+
+-*who_madame_duru
+      Sur la validité
+D'une telle démarche ; et l'on dit qu'à votre âge
+On ne peut sûrement contracter mariage
+Contre la volonté d'un propre père.
+
+-*who_damis
+      Non
+Lorsque ce propre père, étant dans la maison,
+Sur son droit de présence obstinément se fonde.
+Mais quand ce propre père est dans un bout du monde,
+On peut à l'autre bout se marier sans lui.
+
+-*who_le_marquis
+Oui, c'est ce qu'il faut faire, et quand ? Dès aujourd'hui.
+
+**** *book_ *id_I04 *act_
+
+-*who_marthe
+Voi1a Monsieur Gripon qui veut forcer la porte ;
+Il vient pour un grand cas, dit-il, qui vous importe.
+Ce sont ses propres mots, faut-il qu'il entre ?
+
+-*who_madame_duru
+      Hélas !
+Il le faut bien souffrir. Voyons quel est ce cas.
+
+**** *book_ *id_I05 *act_
+
+-*who_madame_duru
+Si tard, Monsieur Gripon ! Quel sujet vous attire ?
+
+-*who_monsieur_gripon
+Un bon sujet.
+
+-*who_madame_duru
+      Comment ?
+
+-*who_monsieur_gripon
+      Je m'en vais vous le dire.
+
+-*who_damis
+Quelque présent de l'Inde ?
+
+-*who_monsieur_gripon
+      Oh ! vraiment oui. Voici
+L'ordre de votre père que je vous porte ici.
+Ma fille est votre bru, mon fils est votre gendre ;
+Ils le seront du moins, et sans beaucoup attendre.
+Lisez.
+
+-*who_madame_duru
+      L'ordre est très net, que faire ?
+
+-*who_monsieur_gripon
+      À votre chef
+Obéir sans réplique et tout bâcler en bref.
+Il reviendra bientôt ; et même, par avance,
+Son commis vient régler des comptes d'importance.
+J'ai peu de temps à perdre ; ayez la charité
+De dépêcher la chose avec célérité.
+
+-*who_madame_duru
+La proposition, mes enfants, doit vous plaire.
+Comment la trouvez-vous ?
+
+-*who_damis_erise
+      Tout comme vous, ma mère.
+
+-*who_le_marquis
+De nos communs désirs il faut presser l'effet.
+Ah ! Que de cet hymen mon coeur est satisfait !
+
+-*who_monsieur_gripon
+Que ça vous satisfasse, ou que ça vous déplaise,
+Ça doit importer peu.
+
+-*who_le_marquis
+      Je ne me sens pas d'aise,
+
+-*who_monsieur_gripon
+Pourquoi tant d'aise ?
+
+-*who_le_marquis
+      Mais... j'ai cette affaire à coeur.
+
+-*who_monsieur_gripon
+Vous, à coeur mon affaire ?
+
+-*who_le_marquis
+      Oui, je suis serviteur
+De votre ami Duru, de toute la famille,
+De Madame sa femme, et surtout de sa fille.
+Cet hymen est si cher, si précieux pour moi...
+Je suis le bon ami du logis.
+
+-*who_monsieur_gripon
+      Par ma foi,
+Ces amis du logis sont de mauvaise augure.
+Madame, sans amis, hâtons-nous de conclure.
+
+-*who_erise
+Quoi, si tôt ?
+
+-*who_madame_duru
+      Sans donner le temps de consulter,
+De voir ma bru, mon gendre, et sans les présenter ?
+C'est pousser avec nous vivement votre pointe.
+
+-*who_monsieur_gripon
+Pour se bien marier il faut que la conjointe
+N'ait jamais entrevu son conjoint.
+
+-*who_madame_duru
+      Oui, d'accord,
+On s'en aime bien mieux ; mais je voudrais d'abord
+Moi, mère, et qui dois voir le parti qu'il faut prendre,
+Embrasser votre fille et voir un peu mon gendre.
+
+-*who_monsieur_gripon
+Vous les voyez en moi, corps pour corps, trait pour trait,
+Et ma fille Phlipotte est en tout mon portrait.
+
+-*who_madame_duru
+Les aimables enfants !
+
+-*who_damis
+      Oh ! Monsieur, je vous jure
+Qu'on ne sentit jamais une flamme plus pure.
+
+-*who_monsieur_gripon
+Pour ma Phlipotte ?
+
+-*who_damis
+      Hélas ! Pour cet objet vainqueur
+Qui règne sur mes sens, et m'a donné son coeur.
+
+-*who_monsieur_gripon
+On ne t'a rien donné, je ne puis te comprendre ;
+Ma fille, ainsi que moi, n'a point l'âme si tendre.
+Et vous, qui souriez, vous ne me dites rien ?
+
+-*who_erise
+Je dis la même chose, et je vous promets bien
+De placer les devoirs, les plaisirs de ma vie
+À plaire au tendre amant à qui mon coeur me lie.
+
+-*who_monsieur_gripon
+Il n'est point tendre amant, vous répondez fort mal.
+
+-*who_le_marquis
+Je vous jure qu'il l'est.
+
+-*who_monsieur_gripon
+      Oh ! Quel original !
+L'ami de la maison, mêlez-vous, je vous prie,
+Un peu moins de la fête et des gens qu'on marie.
+Oh, çà, j'ai réussi dans ma commission.
+Je vois pour votre époux votre soumission ;
+Il ne faut à présent qu'un peu de signature,
+J'amènerai demain le Futur, la Future.
+Vous aurez des enfants, souples, respectueux,
+Grands ménagers, enfin on sera content d'eux.
+Il est vrai qu'ils n'ont pas les grands airs du beau monde.
+
+-*who_madame_duru
+C'est une bagatelle, et mon espoir se fonde
+Sur les leçons d'un père, et sur leurs sentiments,
+Qui valent cent fois mieux que les dehors charmants.
+
+-*who_damis
+J'aime déjà leur grâce, et simple, et naturelle.
+
+-*who_erise
+Leur bon sens dont leur père est le parfait modèle.
+
+-*who_le_marquis
+Je leur crois bien du goût.
+
+-*who_monsieur_gripon
+      Ils n'ont rien de cela.
+Que diable ici fait-on de ce beau Monsieur là ?
+À demain donc, Madame ; une noce frugale
+Préparera sans bruit l'union conjugale.
+Il est tard, et le soir jamais nous ne sortons.
+
+-*who_damis
+Eh ! Que faites-vous donc vers le soir ?
+
+-*who_monsieur_gripon
+      Nous dormons.
+On se lève avant jour ; ainsi fait votre père,
+Imitez-le dans tout pour vivre heureux sur terre.
+Soyez sobre, attentif à placer votre argent ;
+Ne donnez jamais rien, et prêtez rarement.
+Demain de grand matin, je reviendrai, Madame.
+
+-*who_madame_duru
+Pas le matin.
+
+-*who_le_marquis
+      Allez, vous nous ravissez l'âme.
+
+-*who_monsieur_gripon
+Cet homme me déplaît. Dès demain je prétends.
+Que l'ami du logis déniche de céans,
+Adieu.
+
+-*who_marthe
+      Moniseur, un mot.
+
+-*who_monsieur_gripon
+      Eh quoi ?
+
+-*who_marthe
+      Sans vous déplaire,
+Peut-ou vous proposer une excellente affaire ?
+
+-*who_monsieur_gripon
+Proposez.
+
+-*who_marthe
+      Vous donnez aux enfants du logis
+Phlipotte, votre fille, et Phlipot votre fils ?
+
+-*who_monsieur_gripon
+Qui.
+
+-*who_marthe
+      L'on donne une dot en pareille aventure ?
+
+-*who_monsieur_gripon
+Pas toujours.
+
+-*who_marthe
+      Vous pourriez, et je vous en conjure
+Partager par moitié vos généreux présents,
+
+-*who_monsieur_gripon
+Comment ?
+
+-*who_marthe
+      Payez la dot, et gardez vos enfants,
+
+-*who_monsieur_gripon
+Madame, il nous faudra chasser cette donzelle ;
+Et l'ami du logis ne me plaît pas plus qu'elle.
+
+**** *book_ *id_I06 *act_
+
+-*who_marthe
+Eh bien ! Vous laissez-vous tous les quatre effrayer
+Par le malheureux cas de ce maître usurier ?
+
+-*who_damis
+Madame, vous voyez qu'il est indispensable,
+De prévenir soudain ce marché détestable.
+
+-*who_le_marquis
+Contre nos ennemis formons vite un traité
+Qui mette pour jamais nos droits en sûreté.
+Madame, on vous y force, et tout vous autorise,
+Et c'est le sentiment de la charmante Erise,
+
+-*who_erise
+Je me flatte toujours d'être de votre avis.
+
+-*who_damis
+Hélas ! De vos bienfaits mon coeur s'est tout promis.
+Il faut que le vilain, qui tous nous inquiète,
+En revenant demain trouve la noce faite.
+
+-*who_madame_duru
+Mais...
+
+-*who_le_marquis
+      Les mais à présent deviennent superflus.
+Résolvez-vous, Madame, ou nous sommes perdus.
+
+-*who_madame_duru
+Le péril est pressant, et je suis bonne mère ;
+Mais... à qui pourrons-nous recourir ?
+
+-*who_marthe
+      Au Notaire,
+À la noce, à l'hymen. Je prends sur moi le soin
+D'amener à l'instant le Notaire du coin,
+D'ordonner le souper, de mander la musique :
+S'il est quelqu'autre usage admis dans la pratique.
+Je ne m'en mêle pas.
+
+-*who_damis
+      Elle a grande raison ;
+Et je veux que demain Maître Isaac Gripon
+Trouve en venant ici peu de choses à faire.
+
+-*who_erise
+J'admire vos conseils et celui de mon frère.
+
+-*who_madame_duru
+C'est votre avis à tous ?
+
+-*who_damis,_erise,_le_marquis
+      Oui, ma mère.
+
+-*who_madame_duru
+      Fort bien.
+Je peux vous assurer que c'est aussi le mien.
+
+**** *book_ *id_II01 *act_
+
+-*who_monsieur_gripon
+Comment ! Dans ce logis est-on fou, mon garçon ?
+Quel tapage a-t-on fait la nuit dans la maison ?
+Quoi ! Deux tables encor impudemment dressées !
+Des débris d'un festin, des chaises renversées,
+Des laquais étendus ronflants sur le plancher.
+Et quatre violons, qui ne pouvant marcher.
+S'en vont en fredonnant à tâtons dans la rue !
+N'es-tu pas tout honteux ?
+
+-*who_damis
+      Non ; mon âme est émue
+D'un sentiment si doux, d'un si charmant plaisir,
+Que devant vous encor je n'en saurais rougir.
+
+-*who_monsieur_gripon
+D'un sentiment si doux ! Que diable veux-tu dire?
+
+-*who_damis
+Je dis que notre hymen à la famille inspire
+Un délire de joie, un transport inouï.
+À peine hier au soir sortîtes-vous d'ici,
+Que livrés par avance au lien qui nous presse,
+Après un long souper, la joie et la tendresse
+Préparant à l'envi le lien conjugal,
+Nous avons cette nuit ici donné le bal.
+
+-*who_monsieur_gripon
+Voilà trop de fracas avec trop de dépense.
+Je n'aime point qu'on ait du plaisir par avance.
+Cette vie à ton père à coup sûr déplaira.
+Et que seras-tu donc quand on te mariera ?
+
+-*who_damis
+Ah ! Si vous connaissiez cette ardeur vive et pure
+Ces traits, ces feux sacrés, l'âme de la nature ;
+Cette délicatesse et ces ravissements,
+Qui ne sont bien connus que des heureux amants ;
+Si vous saviez...
+
+-*who_monsieur_gripon
+      Je sais que je ne puis comprendre
+Rien de ce que tu dis.
+
+-*who_damis
+      Votre coeur n'est point tendre.
+Vous ignorez les feux dont je suis consumé.
+Mon cher Monsieur Gripon, vous n'avez point aimé.
+
+-*who_monsieur_gripon
+Si fait, si fait.
+
+-*who_damis
+      Comment ; vous aussi, vous ?
+
+-*who_monsieur_gripon
+      Moi-même.
+
+-*who_damis
+Vous concevez donc bien l'emportement extrême,
+Les douceurs ?...
+
+-*who_monsieur_gripon
+      Et oui, oui. J'ai fait, à ma façon
+L'amour un jour ou deux à Madame Gripon ;
+Mais cela n'était pas comme ta belle flamme,
+Ni tes discours de fou que tu tiens sur ta femme.
+
+-*who_damis
+Je le vois bien ; enfin, vous me le pardonnez ?
+
+-*who_monsieur_gripon
+Oui dà, quand les contrats seront faits et signés.
+Allons, avec ta mère il faut que je m'abouche ;
+Finissons tout.
+
+-*who_damis
+      Ma mère en ce moment se couche.
+
+-*who_monsieur_gripon
+Quoi ? Ta mère ?
+
+-*who_damis
+      Approuvant le goût qui nous conduit,
+Elle a dans notre bal dansé toute la nuit,
+
+-*who_monsieur_gripon
+Ta mère est folle.
+
+-*who_damis
+      Non, elle est très respectable,
+Magnifique, avec goût, douce, tendre, adorable.
+
+-*who_monsieur_gripon
+Écoute ; il faut ici te parler clairement.
+Nous attendons ton père, il viendra promptement ;
+Et déjà son commis arrive en diligence
+Pour régler sa recette ainsi que la dépense.
+Il sera très fâché du train qu'on fait ici ;
+Et tu comprends fort bien que je le suis aussi.
+C'est dans un autre esprit que Phlipotte est nourrie ;
+Elle a trente-sept ans, fille honnête, accomplie,
+Qui, seule avec mon fils, compose ma maison ;
+L'été sans éventail, et l'hiver sans manchon ;
+Blanchit, repasse, coud, compte comme barème,
+Et sait manquer de tout aussi bien que moi-même.
+Prends exemple sur elle afin de vivre heureux.
+Je reviendrai ce soir vous marier tous deux.
+Tu parais bon enfant, et ma fille est bien née.
+Mais, crois-moi, ta cervelle est un peu mal tournée,
+Il faut que la maison soit sur un autre pied.
+Dis-moi. Ce grand flandrin, qui m'a tant ennuyé,
+Qui toujours de côté me fait la révérence,
+Vient-il ici souvent ?
+
+-*who_damis
+      Oh ! Fort souvent.
+
+-*who_monsieur_gripon
+      Je pense
+Que pour cause il est bon qu'il n'y revienne plus.
+
+-*who_damis
+Nous suivrons sur cela vos ordres absolus.
+
+-*who_monsieur_gripon
+C'est très bien dit. Mon gendre a du bon, et j'espère
+Morigéner bientôt cette tête légère ;
+Mais surtout plus de bal : je ne prétends plus voir
+Changer la nuit en jour, et le matin en soir.
+
+-*who_damis
+Ne craignez rien.
+
+-*who_monsieur_gripon
+      Eh bien, où vas-tu ?
+
+-*who_damis
+      Satisfaire
+Le plus doux devoirs et l'ardeur la plus chère.
+
+-*who_monsieur_gripon
+Il brûle pour Phlipotte.
+
+-*who_damis
+      Après avoir dansé,
+Plein des traits amoureux dont mon coeur est blessé,
+Je vais, Monsieur je vais... me coucher... Je me flatte .
+Que ma passion vive, autant que délicate,
+Me sera, peu dormir en ce fortuné jour,
+Et je serai longtemps éveillé par l'amour.
+
+**** *book_ *id_II02 *act_
+
+-*who_monsieur_gripon
+Les romans l'ont gâté, sa tête est attaquée ;
+Mais celle de son père est aussi détraquée,
+De prétendre chez lui se rendre incognito.
+Quel profit à cela ? C'est un vrai vertigo.
+Ce n'est qu'en fait d'argent que j'aime le mystère ;
+Mais je fais ce qu'il veut ; ma foi, c'est son affaire.
+Mari qui veut surprendre est souvent fort surpris,
+Et... mais voici Monsieur qui vient dans son logis.
+
+**** *book_ *id_II03 *act_
+
+-*who_monsieur_duru
+Quelle réception ! Après douze ans d'absence.
+Comme tout se corrompt, comme tout change en France !
+
+-*who_monsieur_gripon
+Bonjour, compère.
+
+-*who_monsieur_duru
+      Ô Ciel !
+
+-*who_monsieur_gripon
+      Il ne me répond point.
+Il rêve.
+
+-*who_monsieur_duru
+      Quoi ! Ma femme infidèle à ce point !
+À quel horrible luxe elle s'est emportée !
+Cette maison, je crois, du diable est habitée,
+Et j'y mettrais le feu sans les dépens maudits
+Qu'à brûler les maisons il en coûte à Paris.
+
+-*who_monsieur_gripon
+Il parle longtemps seul, c'est signe de démence.
+
+-*who_monsieur_duru
+Je l'ai bien mérité par ma sotte imprudence.
+À votre femme un mois confiez votre bien,
+Au bout de trente jours vous ne retrouvez rien.
+Je m'étais noblement privé du nécessaire :
+M'en voilà bien payé ; que résoudre, que faire ?
+Je suis assassiné, confondu, ruiné.
+
+-*who_monsieur_gripon
+Bonjour, compère. Eh bien, vous avez terminé
+Assez heureusement un assez long voyage.
+Je vous trouve un peu vieux.
+
+-*who_monsieur_duru
+      Je vous dis que j'enrage.
+
+-*who_monsieur_gripon
+Oui, je le crois, il est fort triste de vieillir ;
+On a bien moins de temps pour pouvoir s'enrichir.
+
+-*who_monsieur_duru
+Plus d'honneur, plus de règle, et les lois violées !...
+
+-*who_monsieur_gripon
+Je n'ai violé rien, les choses sont réglées.
+J'ai pour vous dans mes mains, en beaux et bons papiers,
+Trois cent deux mille francs, dix-huit sols neuf deniers.
+Revenez-vous bien riche ?
+
+-*who_monsieur_duru
+      Oui.
+
+-*who_monsieur_gripon
+      Moquez-vous du monde.
+
+-*who_monsieur_duru
+Oh ! J'ai le coeur navré d'une douleur profonde.
+J'apporte un million tout au plus ; le voilà.
+Je suis outré, perdu.
+
+-*who_monsieur_gripon
+      Quoi ! N'est-ce que cela ?
+Il faut se consoler.
+
+-*who_monsieur_duru
+      Ma femme me ruine.
+Vous voyez quel logis et quel train. La coquine !...
+
+-*who_monsieur_gripon
+Sois le maître chez toi, mets-la dans un couvent.
+
+-*who_monsieur_duru
+Je n'y manquerai pas. Je trouve en arrivant
+Des laquais de six pieds, tous ivres de la veille,
+Un portier à moustaches, armé d'une bouteille,
+Qui, me voyant passer, m'invite en bégayant,
+À venir déjeuner dans son appartement.
+
+-*who_monsieur_gripon
+Chasse tous ces coquins.
+
+-*who_monsieur_duru
+      C'est ce que je veux faire.
+
+-*who_monsieur_gripon
+C'est un profit tout clair. Tous ces gens-là, compère,
+Sont nos vrais ennemis, dévorent notre bien ;
+Et pour vivre à son aise, il faut vivre de rien.
+
+-*who_monsieur_duru
+Ils m'auront ruiné ; cela me perce l'âme.
+Me conseillerais-tu de surprendre ma femme ?
+
+-*who_monsieur_gripon
+Tout comme tu voudras.
+
+-*who_monsieur_duru
+      Me conseillerais-tu
+D'attendre encor un peu, de rester inconnu ?
+
+-*who_monsieur_gripon
+Selon ta fantaisie.
+
+-*who_monsieur_duru
+      Ah, le maudit ménage !
+Comment a-t-on reçu l'ordre du mariage ?
+
+-*who_monsieur_gripon
+Oh ! Fort bien : sur ce point nous serons tous contents ;
+On aime avec transport déjà mes deux enfants.
+
+-*who_monsieur_duru
+Passe. On n'a donc point eu de peine à satisfaire
+À mes ordres précis ?
+
+-*who_monsieur_gripon
+      De la peine, au contraire ;
+Ils ont avec plaisir conclu soudainement.
+Ton fils a pour ma fille un amour véhément,
+Et ta fille déjà brûle, sur ma parole.
+Pour mon petit Gripon.
+
+-*who_monsieur_duru
+      Du moins cela console.
+Nous mettrons ordre au reste.
+
+-*who_monsieur_gripon
+      Oh ! Tout est résolu,
+Et cet après-midi l'hymen sera conclu,
+
+-*who_monsieur_duru
+Mais, ma femme ?
+
+-*who_monsieur_gripon
+      Oh ! Parbleu, ta femme est ton affaire.
+Je te donne une bru charmante et ménagère :
+J'ai toujours à ton fils destiné ce bijou ;
+Et nous les marierons sans leur donner un sou.
+
+-*who_monsieur_duru
+Fort bien.
+
+-*who_monsieur_gripon
+      L'argent corrompt la jeunesse volage.
+Point d'argent : c'est un point capital en ménage.
+
+-*who_monsieur_duru
+Mais ma femme ?
+
+-*who_monsieur_gripon
+      Fais-en tout ce qu'il te plaira.
+
+-*who_monsieur_duru
+Je voudrais voir un peu comme on me recevra,
+Quel air aura ma femme.
+
+-*who_monsieur_gripon
+      Et pourquoi ? Que t'importe ?
+
+-*who_monsieur_duru
+Voir ... là... Si la nature est au moins assez forte
+Si le sang parle assez dans ma fille et mon fils,
+Pour reconnaître en moi le maître du logis.
+
+-*who_monsieur_gripon
+Quand tu te nommeras, tu te feras connaître.
+Est-ce que le sang parle ? Et ne dois-tu pas être
+Honnêtement content, quand, pour comble de biens
+Tes dociles enfants vont épouser les miens ?
+Adieu ; j'ai quelque dette active et d'importance,
+Qui devers le midi demande ma présence.
+Et je reviens, compère, après un court dîner,
+Moi, ma fille et mon fils, pour conclure et signer.
+
+**** *book_ *id_II04 *act_
+
+-*who_monsieur_duru
+Les affaires vont bien ; quant à ce mariage,
+J'en suis fort satisfait ; mais quant à mon ménage,
+C'est un scandale affreux, et qui me pousse à bout.
+Il faut tout observer, découvrir tout, voir tout.
+J'entends une sonnette et du bruit ; on appelle.
+
+**** *book_ *id_II05 *act_
+
+-*who_monsieur_duru
+Oh ! Quelle est cette jeune et belle Demoiselle
+Qui va vers cette porte ? Elle a l'air bien coquet.
+Est-ce ma fille ? Mais... j'en ai peur : en effet,
+Elle est bien faite, au moins passablement jolie,
+Et cela fait plaisir. Écoutez, je vous prie ;
+Où courez-vous si vite, aimable et chère enfant ?
+
+-*who_marthe
+Je vais chez ma maîtresse en son appartement.
+
+-*who_monsieur_duru
+Quoi ! Vous êtes suivante ; et de qui, ma mignonne ?
+
+-*who_marthe
+De Madame Duru.
+
+-*who_monsieur_duru
+      Je veux de la friponne
+Tirer quelque parti, m'instruire, si je puis.
+Écoutez.
+
+-*who_marthe
+      Quoi ! Monsieur ?
+
+-*who_monsieur_duru
+      Savez-vous qui je suis ?
+
+-*who_marthe
+Non ; mais je vois assez ce que vous pouvez être.
+
+-*who_monsieur_duru
+Je suis l'intime ami de Monsieur votre Maître
+Et de Monsieur Gripon. Je peux très aisément
+Vous faire ici du bien, même en argent comptant.
+
+-*who_marthe
+Vous me ferez plaisir. Mais, Monsieur, le temps presse,
+Et voici le moment de coucher ma maîtresse.
+
+-*who_monsieur_duru
+Se coucher quand il est neuf heures du matin ?
+
+-*who_marthe
+Oui, Monsieur.
+
+-*who_monsieur_duru
+      Quelle vie et quel horrible train !
+
+-*who_marthe
+C'est un train fort honnête. Après souper on joue,
+Après le jeu l'on danse, et puis on dort.
+
+-*who_monsieur_duru
+      J'avoue
+Que vous me surprenez ; je ne m'attendais pas
+Que Madame Duru fit un si beau fracas.
+
+-*who_marthe
+Quoi ! Cela vous surprend... Vous bonhomme, à votre âge ?
+Mais rien n'est plus commun. Madame fait usage
+Des grands biens amassés par son ladre mari ;
+Et quand on tient maison, chacun en use ainsi.
+
+-*who_monsieur_duru
+Mignonne, ces discours me font peine à comprendre.
+Qu'est-ce tenir maison ?
+
+-*who_marthe
+      Faut-il tout vous apprendre ?
+D'où diable venez-vous.?
+
+-*who_monsieur_duru
+      D'un peu loin.
+
+-*who_marthe
+      Je le vois,
+Vous me paraissez neuf quoiqu'antique.
+
+-*who_monsieur_duru
+      Ma foi,
+Tout est neuf à mes yeux. Ma petite Maîtresse,
+Vous tenez donc maison ?
+
+-*who_marthe
+      Oui.
+
+-*who_monsieur_duru
+      Mais de quelle espèce ?
+Et dans cette maison que fait-on, s'il vous plaît,
+
+-*who_marthe
+De quoi vous mêlez-vous ?
+
+-*who_monsieur_duru
+      J'y prends quelque intérêt.
+
+-*who_marthe
+Vous, Monsieur ?
+
+-*who_monsieur_duru
+      Oui, moi-même. Il faut que je hasarde
+Un peu d'or de ma poche avec cette égrillarde :
+Ce n'est pas sans regret, mais essayons enfin.
+Monsieur Duru vous fait ce présent par ma main.
+
+-*who_marthe
+Grand merci.
+
+-*who_monsieur_duru
+      Méritez un tel effort, ma belle ;
+C'est à vous de montrer l'excès de votre zèle
+Pour le patron d'ici, le bon Monsieur Duru
+Que, par malheur pour vous, vous n'avez jamais vu.
+Quelqu'amant, entre nous, a, pendant son absence,
+Produit tous ces excès avec cette dépense.
+
+-*who_marthe
+Quelque amant ! Vous osez attaquer notre honneur !
+Quelque amant ! À ce trait, qui blesse ma pudeur,
+Je ne sais qui me tient, que mes mains appliquées
+Ne soient sur votre face avec cinq doigts marquées.
+Quelque amant, dites-vous ?
+
+-*who_monsieur_duru
+      Eh ! Pardon.
+
+-*who_marthe
+      Apprenez
+Que ce n'est pas à vous à fourrer votre nez
+Dans ce que fait Madame.
+
+-*who_marthe
+      Eh ! mais...
+
+-*who_marthe
+      Elle est trop bonne,
+Trop sage, trop honnête, et trop douce personne ;
+Et vous êtes un sot avec vos questions.
+J'y vais... Un impudent, un rôdeur de maisons.
+Tout-à-l'heure ... Un benêt qui pense que les filles
+Iront lui confier des secrets de famille.
+Eh ! J'y cours ... Un vieux fou que la main que voilà
+Devrait punir cent fois... L'on y va, l'on y va.
+
+**** *book_ *id_II06 *act_
+
+-*who_monsieur_duru
+Je ne sais si je dois en croire sa colère ;
+Tout ici m'est suspect ; et sur ce grand mystère
+Les femmes ont juré de ne parler jamais ;
+On n'en peut rien tirer par force ou par bienfaits ;
+Et toutes se liguant pour nous en faire accroire,
+S'entendent contre nous comme larrons en foire.
+Non, je n'entrerai point, je veux examiner
+Jusqu'où du bon chemin on peut se détourner.
+Que vois-je ? Un beau Monsieur sortant de chez ma femme !
+Ah ! Voilà comme on tient maison.
+
+**** *book_ *id_II07 *act_
+
+-*who_le_marquis
+      Adieu, Madame.
+Ah ! Que je suis heureux !
+
+-*who_monsieur_duru
+      Et beaucoup trop. J'en tiens.
+
+-*who_le_marquis
+Adieu, jusqu'à ce soir.
+
+-*who_monsieur_duru
+      Ce soir encore ? Fort bien.
+Comme de la maison je vois ici deux maîtres,
+L'un des deux pourrait bien sortir par les fenêtres.
+On ne me connaît pas, gardons-nous d'éclater.
+
+-*who_le_marquis
+Quelqu'un parle, je crois.
+
+-*who_monsieur_duru
+      Je n'en saurais douter.
+Volets fermés, au lit, petit jour, porte close,
+La suivante à mon nez complice de la chose !
+
+-*who_le_marquis
+Quel est cet homme là qui jure entre ses dents ?
+
+-*who_monsieur_duru
+Mon fait est clair.
+
+-*who_le_marquis
+      Il paraît hors de sens,
+
+-*who_monsieur_duru
+J'aurais mieux fait, ma foi, de rester à Surate
+Avec tout mon argent. Ah, traître ! Ah, scélérate !
+
+-*who_le_marquis
+Qu'avez vous donc, Monsieur, qui parlez seul ainsi.
+
+-*who_monsieur_duru
+Mais j'étais étonné que vous fussiez ici.
+
+-*who_le_marquis
+Et pourquoi, mon ami ?
+
+-*who_monsieur_duru
+      Moniseur Duru, peut-être
+Ne serait pas content de vous y voir paraître.
+
+-*who_le_marquis
+Lui mécontent de moi ? Qui vous à dit cela ?
+
+-*who_monsieur_duru
+Des gens bien informés. Ce Monsieur Duru là,
+Chez qui vous avez pris des façons si commodes,
+Le connaissez-vous ?
+
+-*who_le_marquis
+      Non : il est aux Antipodes,
+Dans les Indes, je crois, cousu d'or et d'argent.
+
+-*who_monsieur_duru
+Mais vous connaissez fort Madame ?
+
+-*who_le_marquis
+      Apparemment !
+Sa bonté m'est toujours précieuse et nouvelle,
+Et je fais mon bonheur de vivre ici près d'elle.
+Si vous avez besoin de sa protection,
+Parlez, j'ai du crédit, je crois, dans la maison.
+
+-*who_monsieur_duru
+Je le vois... De Monsieur je suis l'homme d'affaires.
+
+-*who_le_marquis
+Ma foi, de ces gens-là je ne me mêle guère.
+Soyez le bienvenu, prenez surtout le soin
+D'apporter quelqu'argent dont nous avons besoin.
+Bonsoir.
+
+-*who_monsieur_duru
+      J'enfermerai dans peu ma chère femme.
+Que l'enfer...
+      Mais, Monsieur, qui gouvernez Madame,
+La chambre de sa fille est-elle près d'ici ?
+
+-*who_le_marquis
+Tout auprès, et j'y vais. Oui, l'ami, la voici.
+
+-*who_monsieur_duru
+Cet homme est nécessaire à toute ma famille :
+Il sort de chez ma femme, et s'en va chez ma fille.
+Je n'y puis plus tenir, et je succombe enfin.
+Justice ! Je suis mort.
+
+**** *book_ *id_II08 *act_
+
+-*who_erise
+      Eh ! Mon Dieu, quel lutin,
+Quand on va se coucher tempête à cette porte ?
+Qui peut crier ainsi de cette étrange sorte ?
+
+-*who_le_marquis
+Faites donc moins de bruit, je vous ai déjà dit,
+Qu'après qu'on a dansé on va se mettre au lit.
+Jurez plus bas tout seul.
+
+-*who_monsieur_duru
+      Je ne peux plus rien dire !
+Je suffoque.
+
+-*who_erise
+      Quoi donc ?
+
+-*who_monsieur_duru
+      Est-ce un rêve, un délire ?
+Je vengerai l'affront fait avec tant d'éclat.
+Juste ciel ! Et comment son frère l'avocat
+Peut-il souffrir céans cette honte inouïe,
+Sans plaider ?
+
+-*who_erise
+      Quel est donc cet homme, je vous prie ?
+
+-*who_le_marquis
+Je ne sais ; il paraît qu'il est extravagant ;
+Votre père, dit-il, l'a pris pour son agent.
+
+-*who_erise
+D'où vient que cet agent fait tant de tintamarre ?
+
+-*who_le_marquis
+Ma foi, je n'en sais rien : cet homme est si bizarre !
+
+-*who_erise
+Est-ce que mon mari, Monsieur, vous a fâché ?
+
+-*who_monsieur_duru
+Son mari !... J'en suis quitte encor à bon marché,
+C'est là votre mari ?
+
+-*who_erise
+      Sans doute, c'est lui-même.
+
+-*who_monsieur_duru
+Lui, le fils de Gripon ?
+
+-*who_erise
+      C'est mon mari, que j'aime.
+À mon père, Monsieur, lorsque vous écrirez,
+Peignez-lui bien les noeuds dont nous sommes serrés.
+
+-*who_monsieur_duru
+Que la fièvre le serre !
+
+-*who_le_marquis
+      Ah ! Daignez condescendre ?...
+
+-*who_monsieur_duru
+Maître Isaac Gripon m'avait bien fait entendre
+Qu'à votre mariage on pensait en effet ;
+Mais il ne m'a pas dit que tout cela fût fait.
+
+-*who_le_marquis
+Eh bien, je vous en fais la confidence entière.
+
+-*who_monsieur_duru
+Marié ?
+
+-*who_erise
+      Oui, Monsieur.
+
+-*who_monsieur_duru
+      De quand ?
+
+-*who_le_marquis
+      La nuit dernière.
+
+-*who_monsieur_duru
+Votre époux, je l'avoue, est un fort beau garçon ;
+Mais il ne m'a point l'air d'être fils de Gripon.
+
+-*who_le_marquis
+Monsieur sait qu'en la vie il est fort ordinaire
+De voir beaucoup d'enfants tenir peu de leur père.
+Par exemple, le fils de ce Monsieur Duru
+En est tout différent, n'en a rien.
+
+-*who_monsieur_duru
+      Qui l'eût cru ?
+Serait-il point aussi marié lui ?
+
+-*who_erise
+      Sans doute.
+
+-*who_monsieur_duru
+      Lui ?
+
+-*who_le_marquis
+Ma soeur dans ses bras en ce moment-ci goûte
+Les premières douceurs du conjugal lien.
+
+-*who_monsieur_duru
+Votre soeur ?
+
+-*who_le_marquis
+      Oui, Monsieur.
+
+-*who_monsieur_duru
+      Je n'y conçois plus rien.;
+Le compère Gripon m'eût dit cette nouvelle.
+
+-*who_le_marquis
+Il regarde cela comme une bagatelle.
+C'est un homme occupé toujours du denier dix,
+Noyé dans le calcul, fort distrait.
+
+-*who_monsieur_duru
+      Mais jadis
+Il avait l'esprit net.
+
+-*who_le_marquis
+      Les grands travaux et l'age
+Altèrent la mémoire ainsi que le visage.
+
+-*who_monsieur_duru
+Ce double mariage est donc fait ?
+
+-*who_erise
+      Oui, Monsieur.
+
+-*who_le_marquis
+Je vous en donne ici ma parole d'honneur.
+N'avez-vous donc pas vu les débris de la noce ?
+
+-*who_monsieur_duru
+Vous m'avez tous bien l'air d'aimer le fruit précoce,
+D'anticiper l'hymen qu'on avait projeté.
+
+-*who_le_marquis
+Ne nous soupçonnez pas de cette indignité,
+Cela serait criant.
+
+-*who_monsieur_duru
+      Oh ! La faute est légère.
+Pourvu qu'on n'ait pas fait une trop forte chère,
+Que la noce n'ait pas horriblement coûté,
+On peut vous pardonner cette vivacité.
+Vous paraissez d'ailleurs un homme assez aimable,
+
+-*who_erise
+Oh ! Très fort.
+
+-*who_monsieur_duru
+      Votre soeur est-elle aussi passable ?
+
+-*who_le_marquis
+Elle vaut cent fois mieux.
+
+-*who_monsieur_duru
+      Si la chose est ainsi,
+Monsieur Duru pourrait excuser tout ceci.
+Je vais enfin parler à sa mere, et pour cause...
+
+-*who_erise
+Ah ! Gardez-vous-en bien, Monsieur ; elle repose.
+Elle est trop fatiguée ; elle a pris tant de soins...
+
+-*who_monsieur_duru
+Je m'en vais donc parler à son fils.
+
+-*who_erise
+      Encore moins.
+
+-*who_le_marquis
+Il est trop occupé.
+
+-*who_monsieur_duru
+      L'aventure est fort bonne.
+Ainsi, dans ce logis, je ne peux voir personne ?
+
+-*who_le_marquis
+Il est de certains cas où des hommes de sens
+Se garderont toujours d'interrompre les gens.
+Vous voilà bien au fait. Je vais avec Madame,
+Me rendre aux doux transports de la plus pure flamme.
+Écrivez à son père un détail si charmant.
+
+-*who_erise
+Marquez-lui mon respect et mon contentement.
+
+-*who_monsieur_duru
+Et son contentement ! Je ne sais si ce père
+Doit être aussi content d'une si prompte affaire.
+Quelle éveillée !
+
+-*who_le_marquis
+      Adieu. Revenez vers le soir,
+Et soupez avec nous.
+
+-*who_erise
+      Bonjour, jusqu'au revoir.
+
+-*who_le_marquis
+Serviteur.
+
+-*who_erise
+      Toute à vous.
+
+**** *book_ *id_II09 *act_
+
+-*who_monsieur_duru
+      Mais Gripon, le compère,
+S'est bien pressé, sans moi de finir cette affaire.
+Quelle fureur de noce a saisi tous nos gens !
+Tous quatre à s'arranger sont un peu diligents.
+De tant d'événements j'ai la vue ébahie.
+J'arrive, et tout le monde à l'instant se marie.
+Il reste, en vérité, pour compléter ceci,
+Que ma femme à quelqu'un soit mariée aussi.
+Entrons, sans plus tarder. Ma femme ! Hola, qu'on m'ouvre.
+Ouvrez, vous dis-je, il faut qu'enfin tout se découvre.
+
+-*who_marthe
+Paix, paix, l'on n'entre point.
+
+-*who_monsieur_duru
+      Oh ! Ton Maître entrera,
+Suivante impertinente, et l'on m'obéira.
+
+**** *book_ *id_III01 *act_
+
+-*who_monsieur_duru
+J'ai beau frapper, crier, courir dans ce logis,
+De ma femme à mon gendre, et du gendre à mon fils,
+On répond en ronflant. Les valets, les servantes
+Ont tout barricadé. Ces manoeuvres plaisantes
+Me déplaisent beaucoup. Ces quatre extravagants.
+Si vite mariés, sont au lit trop longtemps.
+Et ma femme, ma femme ! Oh ! Je perds patience.
+Ouvrez, morbleu.
+
+**** *book_ *id_III02 *act_
+
+-*who_monsieur_gripon
+      Je viens signer notre alliance.
+
+-*who_monsieur_duru
+Comment signer !
+
+-*who_monsieur_gripon
+      Sans doute, et vous l'avez voulu.
+Il faut conclure tout.
+
+-*who_monsieur_duru
+      Tout est assez conclu.
+Vous radotez.
+
+-*who_monsieur_gripon
+      Je viens pour consommer la chose.
+
+-*who_monsieur_duru
+La chose est consommée.
+
+-*who_monsieur_gripon
+      Oh ! Oui ; je me propose
+De produire au grand jour ma Phlipotte et Phlipot.
+Ils viennent.
+
+-*who_monsieur_duru
+      Quels discours !
+
+-*who_monsieur_gripon
+      Tout est prêt en un mot.
+
+-*who_monsieur_duru
+Morbleu, vous vous moquez ; tout est fait.
+
+-*who_monsieur_gripon
+      Çà, compère
+Votre femme est instruite et prépare l'affaire.
+
+-*who_monsieur_duru
+Je n'ai point vu ma femme ; elle dort, et mon fils
+Dort avec votre fille ; et mon gendre au logis
+Avec ma fille dort, et tout dort. Quelle rage
+Vous a fait cette nuit presser ce mariage ?
+
+-*who_monsieur_gripon
+Es-tu devenu fou ?
+
+-*who_monsieur_duru
+      Quoi ! Mon fils ne tient pas
+À présent dans son lit Phlipotte et ses appas !
+Les noces, cette nuit, n'auraient pas été faites ?
+
+-*who_monsieur_gripon
+Ma fille a cette nuit repassé ses cornettes,
+Elle s'habille en hâte ; et mon fils, son cadet,
+Pour épargner les frais, met le contrat au net.
+
+-*who_monsieur_duru
+Juste ciel ! Quoi ! Ton fils n'est pas avec ma fille.
+
+-*who_monsieur_gripon
+Non, sans doute.
+
+-*who_monsieur_duru
+      Le diable est donc dans ma famille !
+
+-*who_monsieur_gripon
+Je le crois.
+
+-*who_monsieur_duru
+      Ah ! Fripons ! Femme indigne du jour,
+Vous payerez bien cher ce détestable tour !
+Lâches, vous apprendrez que c'est moi qui suis Maître.
+Approfondissons tout, je prétends tout connaître ;
+Fais descendre mon fils ; va compère, dis-lui
+Qu'un ami de son père, arrivé d'aujourd'hui,
+Vient lui parler d'affaire, et ne saurait attendre.
+
+-*who_monsieur_gripon
+Je vais te l'amener. Il faut punir mon gendre.
+Il faut un Commissaire, il faut verbaliser,
+Il faut venger Phlipotte.
+
+-*who_monsieur_duru
+      Eh ! Cours sans tant jaser.
+
+-*who_monsieur_gripon
+Cela pourra coûter quelqu'argent, mais n'importe.
+
+-*who_monsieur_duru
+Eh ! Va donc.
+
+-*who_monsieur_gripon
+      Il faudra faire amener main-forte.
+
+-*who_monsieur_duru
+Va, te dis-je.
+
+-*who_monsieur_gripon
+      J'y cours.
+
+**** *book_ *id_III03 *act_
+
+-*who_monsieur_duru
+      Voyage cruel !
+Ô pouvoir marital et pouvoir paternel !
+Ô luxe ! Maudit luxe ! Invention du diable,
+C'est toi qui corrompt tout, perd tout ; monstre exécrable !
+Ma femme, mes enfants, de toi sont infectés,
+J'entrevois là-dessous un tas d'iniquités,
+Un amas de noirceur, et surtout de dépenses,
+Qui me glacent le sang et redoublent mes transes.
+Épouse, fille, fils, m'ont tous perdu d'honneur,
+Je ne sais si je dois en mourir de douleur :
+Et quoique de me pendre il me prenne une envie,
+L'argent qu'on a gagné fait qu'on aime la vie.
+Ah ! J'aperçois, je crois, mon traître d'avocat.
+Quel habit ! Pourquoi donc n'a-t-il point de rabat ?
+
+**** *book_ *id_III04 *act_
+
+-*who_damis
+Quel est cet homme ? Il a l'air bien atrabilaire.
+
+-*who_monsieur_gripon
+C'est le meilleur ami qu'ait Monsieur votre père.
+
+-*who_damis
+Prête-t-il de l'argent ?
+
+-*who_monsieur_gripon
+      En aucune façon,
+Car il en a beaucoup.
+
+-*who_monsieur_duru
+      Répondez, beau garçon,
+Êtes-vous avocat?
+
+-*who_damis
+      Point du tout.
+
+-*who_monsieur_duru
+      Ah le traître!
+Êtes-vous marié ?
+
+-*who_damis
+      J'ai le bonheur de l'être.
+
+-*who_monsieur_duru
+Et votre soeur ?
+
+-*who_damis
+      Aussi. Nous avons cette nuit
+Goûté d'un double hymen le tendre et premier fruit.
+
+-*who_monsieur_duru
+Mariés !
+
+-*who_monsieur_gripon
+      Scélérat !
+
+-*who_monsieur_duru
+      À qui donc ?
+
+-*who_damis
+      À ma femme.
+
+-*who_monsieur_gripon
+À ma Phlipotte ?
+
+-*who_damis
+      Non.
+
+-*who_monsieur_duru
+      Je me sens percer l'âme.
+Quelle est-elle ? En un mot, vite, répondez-moi.
+
+-*who_damis
+Vous êtes curieux et poli, je le vois.
+
+-*who_monsieur_duru
+Je veux savoir de vous celle qui, par surprise,
+Pour braver votre père, ici s'impatronise.
+
+-*who_damis
+Quelle est ma femme ?
+
+-*who_monsieur_duru
+      Oui, oui.
+
+-*who_damis
+      C'est la soeur de celui
+À qui ma propre soeur est unie aujourd'hui.
+
+-*who_monsieur_gripon
+Quel galimatias !
+
+-*who_damis
+      Mais la chose est toute claire.
+Vous savez, cher Gripon, qu'un ordre de mon père
+Enjoignait à ma mère, en termes très précis,
+D'établir, au plutôt, et sa fille, et son fils.
+
+-*who_monsieur_duru
+Eh bien, traître ?
+
+-*who_damis
+      À cet ordre elle s'est asservie,
+Non pas absolument, mais du moins en partie.
+Il veut un prompt hymen, il s'est fait promptement.
+Il est vrai qu'on n'a pas conclu précisément
+Avec ceux que sa lettre a nommé par sa close ;
+Mais le plus fort est fait, le reste est peu de chose.
+Le Marquis d'Outremont, l'un de nos bons amis,
+Est un homme...
+
+-*who_monsieur_gripon
+      Ah ! C'est-là cet ami du logis.
+On s'est moqué de nous ; je m'en doutais, compère.
+
+-*who_monsieur_duru
+Allons, faites venir vite le Commissaire,
+Vingt Huissiers.
+
+-*who_damis
+      Et qui donc êtes-vous, s'il vous plaît,
+Qui daignez prendre à nous un si grand intérêt ?
+Cher ami de mon père, apprenez que peut-être,
+Sans mon respect pour lui, cette large fenêtre
+Serait votre chemin pour vider la maison.
+Dénichez de chez moi.
+
+-*who_monsieur_duru
+      Comment, maître fripon,
+Toi me chasser d'ici ? Toi scélérat, faussaire,
+Aigrefin, débauché, l'opprobre de ton père ?
+Qui n'es point avocat !
+
+**** *book_ *id_III05 *act_
+
+-*who_madame_duru
+      Mon carrosse est-il prêt ?
+D'où vient donc tout ce bruit ?
+
+-*who_le_marquis
+      Ah ! Je vois ce que c'est.
+
+-*who_marthe
+C'est mon questionneur.
+
+-*who_le_marquis
+      Oui, ce plaisant visage,
+Qui semblait si surpris de notre mariage.
+
+-*who_madame_duru
+Qui donc ?
+
+-*who_le_marquis
+      De votre époux il dit qu'il est agent.
+
+-*who_monsieur_duru
+Oui, c'est moi.
+
+-*who_marthe
+      Cet agent paraît peu patient.
+
+-*who_madame_duru
+Que vois-je ! Quels traits ! C'est lui-même, et mon âme...
+
+-*who_monsieur_duru
+Voilà donc à la fin ma coquine de femme ?
+Oh ; comme elle est changée ! Elle n'a plus, ma foi,
+De quoi raccommoder ses fautes près de moi.
+
+-*who_madame_duru
+Quoi ! C'est vous, mon mari, mon cher époux ?...
+
+-*who_damis
+      Mon père !
+
+-*who_madame_duru
+Daignez jeter, Monsieur, un regard moins sévère
+Sur moi, sur mes enfants, qui sont à vos genoux.
+
+-*who_le_marquis
+Oh ! Pardon ; j'ignorais que vous fussiez chez vous.
+
+-*who_monsieur_duru
+Ce matin...
+
+-*who_le_marquis
+      Excusez, j'en suis honteux dans l'âme.
+
+-*who_marthe
+Et qui vous aurait cru le mari de Madame ?
+
+-*who_damis
+À vos pieds...
+
+-*who_monsieur_duru
+      Fils indigne, apostat du barreau,
+Malheureux marié, qui fais ici le beau,
+Fripon ; c'est donc ainsi que ton père lui-même
+S'est vu reçu de toi ? C'est ainsi que l'on m'aime.
+
+-*who_monsieur_gripon
+C'est la force du sang.
+
+-*who_damis
+      Je ne suis pas devin.
+
+-*who_madame_duru
+Pourquoi tant de courroux dans notre heureux destin ?
+Vous retrouvez ici toute votre famille ;
+Un gendre, un fils bien né, votre épouse, une fille.
+Que voulez-vous de plus ? Faut-il après douze ans
+Voir d'un oeil de travers sa femme et ses enfants ?
+
+-*who_monsieur_duru
+Vous n'êtes point ma femme ; elle était ménagère ;
+Elle cousait, filait, faisait très maigre chère ;
+Et n'eût point à mon bien porté le coup mortel,
+Par la main d'un filou, nommé maître d'hôtel ;
+N'eût point joué, n'eût point ruiné ma famille,
+Ni d'un maudit Marquis ensorcelé ma fille ;
+N'aurait pas à mon fils fait perdre son latin,
+Et fait d'un avocat un pimpant aigrefin.
+Perfide, voilà donc la belle récompense
+D'un travail de douze ans et de ma confiance ?
+Des soupers dans la nuit, à midi petit jour !
+Auprès de votre lit un oisif de la Cour !
+Et portant en public le honteux étalage
+Du rouge enluminé qui peint votre visage !
+C'est ainsi qu'à profit vous placiez mon argent ?
+Allons, de cet hôtel qu'on déniche à l'instant,
+Et qu'on aille m'attendre à son second étage.
+
+-*who_damis
+Quel père !
+
+-*who_le_marquis
+      Quel beau-père !
+
+-*who_erise
+      Eh ! Bon Dieu quel langage !
+
+-*who_madame_duru
+Je puis avoir des torts, vous quelques préjugés.
+Modérez-vous de grâce, écoutez et jugez.
+Alors que la misère à tous deux fut commune
+Je me fis des vertus propres à ma fortune ;
+D'élever vos enfants je pris sur moi les soins ;
+Je me refusai tout pour leur laisser, du moins,
+Une éducation qui tînt lieu d'héritage.
+Quand vous eûtes acquis, dans votre heureux voyage,
+Un peu de bien ; commis à ma fidélité,
+J'en sus placer le fonds, il est en sûreté.
+
+-*who_monsieur_duru
+      Oui.
+
+-*who_madame_duru
+Votre bien s'accrut ; il servit, en partie,
+À nous donner à tous une plus douce vie.
+Je voulus dans la robe élever votre fils,
+Il n'y parut pas propre, et je changeai d'avis :
+Il fallait cultiver, non forcer la nature ;
+Il est né valeureux, vif, mais plein de droiture...
+J'ai fait, à ses talents habile à me plier,
+D'un mauvais avocat, un très bon officier.
+Avantageusement j'ai marié ma fille ;
+La paix et les plaisirs règnent dans ma famille ;
+Nous avons des amis ; des seigneurs sans fracas
+Sans vanité, sans airs, et qui n'empruntent pas,
+Soupent chez nous gaiement et passent la soirée ;
+La chère est délicate et toujours modérée.
+Le jeu n'est pas trop fort ; et jamais nos plaisirs
+Ne nous ont, grâce au Ciel, causé de repentirs.
+De mon premier état je soutins l'indigence ;
+Avec le même esprit j'use de l'abondance.
+On doit compte au public de l'usage du bien,
+Et qui l'ensevelit est mauvais citoyen ;
+Il fait tort à l'État, il s'en fait à soi-même ;
+Faut-il, sur son comptoir, l'oeil trouble et le teint blême,
+Manquer du nécessaire, auprès d'un coffre-fort,
+Pour avoir de quoi vivre un jour après sa mort ?
+Ah ! Vivez avec nous dans une honnête aisance :
+Le prix de vos travaux est dans la jouissance.
+Faites votre bonheur en remplissant nos voeux.
+Être riche n'est rien : le tout est d'être heureux.
+
+-*who_monsieur_duru
+Le beau sermon du luxe et de l'intempérance !
+Gripon, je souffrirais que pendant mon absence
+On dispose de tout, de mes biens, de mon fils,
+De ma fille ?
+
+-*who_madame_duru
+      Monsieur, je vous en écrivis.
+Cette union est sage, et doit vous le paraître.
+Vos enfants sont heureux, leur père devrait l'être.
+
+-*who_monsieur_duru
+Non, je serais outré d'être heureux malgré moi.
+C'est être heureux en sot de souffrir que chez soi,
+Femme, fils, gendre, fille ainsi se réjouissent.
+
+-*who_madame_duru
+Ah ! Qu'à cette union tous vos voeux applaudissent !
+
+-*who_monsieur_duru
+Non, non, non, non ; il faut être maître chez soi.
+
+-*who_madame_duru
+Vous le serez toujours.
+
+-*who_erise
+      Ah ! Disposez de moi.
+
+-*who_madame_duru
+Nous sommes à vos pieds.
+
+-*who_damis
+      Tout ici doit vous plaire,
+Serez-vous inflexible ?
+
+-*who_madame_duru
+      Ah ! Mon époux !
+
+-*who_damis_erise
+      Mon père !
+
+-*who_monsieur_duru
+Gripon, m'attendrirai-je ?
+
+-*who_monsieur_gripon
+      Écoutez, entre nous
+Ça demande du temps.
+
+-*who_marthe
+      Vite, attendrissez-vous.
+Tous ces gens-là, Monsieur, s'aiment à la folie ;
+Croyez-moi, mettez-vous aussi de la partie.
+Personne n'attendait que vous vinssiez ici.
+La maison va fort bien, vous voilà, restez-y.
+Soyez gai comme nous, ou que Dieu vous renvoie,
+Nous vous promettons tous de vous tenir en joie.
+Rien n'est plus douloureux, comme plus inhumain,
+Que de gronder tout seul des plaisirs du prochain.
+
+-*who_monsieur_duru
+L'impertinente ! Eh bien, qu'en pense-tu, compère ?
+
+-*who_monsieur_gripon
+J'ai le coeur un peu dur ; mais après tout que faire ?
+La chose est sans remède, et ma Phlipotte aura
+Cent avocats pour un si-tôt qu'elle voudra.
+
+-*who_madame_duru
+Eh bien, vous rendez-vous ?
+
+-*who_monsieur_duru
+      Çà, mes enfants, ma femme,
+Je n'ai pas, dans le fond, une si vilaine âme.
+Mes enfants sont pourvus. Et puisque de son bien,
+Alors que l'on est mort, on ne peut garder rien,
+Il faut en dépenser un peu pendant sa vie.
+Mais, ne mangez, pas tout, Madame, je vous prie.
+
+-*who_madame_duru
+Ne craignez rien, vivez, possédez, jouissez...
+
+-*who_monsieur_duru
+Dix fois cent mille francs par vous sont-ils placés ?
+
+-*who_madame_duru
+En contrats, en effets de la meilleure sorte.
+
+-*who_monsieur_duru
+En voici donc autant qu'avec moi je rapporte.
+
+-*who_madame_duru
+Rapportez-nous un coeur doux, tendre, généreux :
+Voilà les millions qui sont chers à nos voeux.
+
+-*who_monsieur_duru
+Allons donc ; je vois bien qu'il faut, avec constance,
+Prendre enfin mon bonheur du moins en patience.

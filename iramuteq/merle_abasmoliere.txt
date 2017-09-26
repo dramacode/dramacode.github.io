@@ -1,0 +1,1629 @@
+
+
+**** *book_ *id_I01 *act_I *date_1809
+
+-*who_lariffardiere
+Alain , une demi-tasse.
+
+-*who_alain
+Voilà, monsieur, voilà.
+Versez à Molière.
+
+-*who_dramantour
+Toujours Molière ; on n'entend que ce nom, comme si mes pièces n'avaient pas un autre mérite que les siennes.
+
+-*who_lahausse
+Monsieur Dramantour a raison : quand est-ce que vous faites enlever ce buste là, monsieur Malingre ?
+
+-*who_malingre
+Ma foi, Monsieur de Lahausse, j'attends, pour le déplacer quelqu'un...
+
+-*who_lariffardiere
+Quelqu'un qui vaille mieux que lui ?
+Vous attendrez longtemps.
+Des sots il brave le courroux ;
+Malgré leur insolente audace,
+Sur le Pinde, mieux que chez vous,
+Longtemps il gardera sa place.
+Que de portraits dans ses tableaux !
+Il sut, courtisan de Thalie,
+Copier les originaux,
+Et rester toujours sans copie.
+
+-*who_alain
+Voilà votre demi-tasse.
+
+-*who_malingre
+Du premier au vint-neuf, vingt-neuf demi-tasses : quand me payerez-vous ?
+
+-*who_lariffardiere
+Vous pouvez compter... sur ma bonne volonté.
+
+-*who_malingre
+Je ne payerai pas mon médecin avec votre bonne volonté.
+
+-*who_lariffardiere
+Laissez donc votre médecin : vous n'êtes pas plus malade que moi.
+
+-*who_malingre
+Je ne suis pas malade !
+Je ne suis pas malade !
+Moi qui suis toute l'année entre les mains d'un médecin et de deux apothicaires : je ne suis pas malade !
+
+-*who_lariffardiere
+Hé, renvoyez-les.
+
+-*who_malingre
+Mêlez-vous de payer vos créanciers, Monsieur de Lariffardière : moi je paye mes médecins, et je ne les renvoie pas.
+
+-*who_lariffardiere
+Nous différons en cela, monsieur ; moi je renvoie mes créanciers, et je ne les paye pas.
+
+-*who_lahausse
+Monsieur le comédien, songez donc qu'il y a ici des gens comme il faut...
+Vous faites un bruit à n'y pas tenir.
+Vous interrompez ma partie ;
+Voilà que je perds mes deux tours :
+Je n'ai plus d'esprit quand on crie...
+
+-*who_lariffardiere
+Monsieur, nous crions donc toujours.
+
+-*who_lahausse
+Encore une lourde sottise...
+
+-*who_lariffardiere
+Ah ! Je conçois votre fureur :
+Sitôt qu'on dit une bêtise,
+D'abord vous criez au voleur.
+
+-*who_dramantour
+Ma princesse paraît sur le donjon...
+L'aspect de la nature, de l'eau, du pain sec...
+Garçon.
+
+-*who_alain
+Monsieur.
+
+-*who_dramantour
+Une glace.
+
+-*who_lahausse
+Qu'est-ce que c'est que çà, Monsieur Dandinville ?
+
+-*who_dandinville
+C'est un fou.
+
+-*who_dramantour
+La dame est à côté de la tour ; le chevalier défend la dame, de peur d'un échec...
+
+-*who_dandinville
+Oh !
+Que diable, Monsieur, ne parlez donc pas sur le jeu !
+
+-*who_dramantour
+Eh !
+Peut-on s'occuper de votre jeu lorsqu'on est en proie aux sublimes conceptions du théâtre ?
+
+-*who_lahausse
+Parce que Monsieur Dramantour fait des comédies...
+
+-*who_dramantour
+Des comédies, Monsieur !
+Dites donc des mélodrames.
+
+-*who_lariffardiere
+Sans doute, cela n'a rien de commun.
+Pour écrire un bon mélodrame,
+Le bon comique est superflu :
+Il faut un tyran, une femme,
+Un poignard, un enfant perdu.
+De grands combats, une tempête,
+Et. surtout un rôle de bête :
+Ce rôle est toujours plein d'effet ;
+Maint auteur y met son cachet.
+
+-*who_dramantour
+Vous verrez le mien.
+
+-*who_lahausse
+J'y serai.
+
+-*who_malingreetdandinville
+Nous y serons tous en dépit de Molière.
+
+-*who_dramantour
+Molière !
+Il est passé de mode.
+
+-*who_malingre
+Un homme qui se moque des médecins et des pauvres malades.
+
+-*who_dramantour
+Qui plaisante les poètes célèbres : Vadius et Trissotin.
+
+-*who_lahausse
+Qui tourne en ridicule Monsieur Jourdain.
+
+-*who_dandinville
+Qui n'a rien de sacré ; qui ne respecte pas même les maris.
+
+-*who_lariffardiere
+Qui a peint tout le monde.
+
+-*who_dramantour
+Six heures, messieurs.
+Au théâtre, au théâtre.
+Deux pièces de lui !
+Il faut qu'il succombe : l'heure de la vengeance a sonné.
+Allons, messieurs, ceux qui nous attendent
+Sont, comme nous, soutiens des bonnes moeurs :
+Point de pitié, lorsqu'elles commandent.
+Du vrai talent montrons-nous les vengeurs.
+
+-*who_malingre
+Sur les docteurs, sifflez bien ses critiques.
+
+-*who_dramantour
+Sur les auteurs, sifflons tous ses écrits.
+Sur les Jourdains, sifflons ses traits caustiques;
+
+-*who_dandinville
+Sifflons surtout ses traits sur les maris.
+
+-*who_tous
+Allons, messieurs, etc.
+
+**** *book_ *id_I02 *act_I *date_1809
+
+-*who_malingre
+Ouf, je suis bien aise qu'on aille apprendre à vivre à cet impertinent Molière.
+Vous n'y allez pas, vous?
+
+-*who_lariffardiere
+Vous lui en voulez donc beaucoup ?
+
+-*who_malingre
+Moi ?
+Je ne le connais pas ; mais tout mon café lui en veut.
+
+-*who_lariffardiere
+Par son ignorance poussée,
+Chez nous on vit, dans tous les temps,
+Des sots la cohorte insensée
+S'armer contre les vrais talents :
+Envers Molière leur audace
+De ses tableaux prouve l'effet ;
+C'est le rustre brisant la glace
+Qui lui présente son portrait.
+
+-*who_malingre
+Enfin, monsieur Dramantour n'est pas de votre avis ; et il doit se connaître en comédies ; il fait de si jolis mélodrames.
+
+-*who_lariffardiere
+Malpeste !
+On s'en aperçoit à sa conversation ; il y mêle des petits passages tirés de ses sombres compositions ; il ne parle que par échantillon de ses pièces.
+
+-*who_malingre
+Il y a de l'étoffe dans ce jeune homme-là.
+J'espère que, son oncle Géronte arrivant aujourd'hui, il épousera ma fille ce soir.
+
+-*who_lariffardiere
+Ma foi, je vous le conseille.
+Je saurai bien l'empêcher.
+
+-*who_malingre
+Comment !
+Je vous supposais des intentions.
+Je croyais que vous aviez mis cette alliance dans votre tête.
+Est-ce que cela vous serait sorti de l'idée ?
+
+-*who_lariffardiere
+Que voulez-vous ?
+Vous m'avez refusé ; cependant cela nous arrangeait tous les deux.
+Je vous devais déjà deux cent quinze francs ; j'espérais aussi vous devoir mon bonheur.
+Nous aurions été quittes.
+Vous me réfutez ; et, comme a dit Molière, il faut vouloir ce qu'on ne peut empêcher.
+
+**** *book_ *id_I03 *act_I *date_1809
+
+-*who_alain
+Eh bien !
+Où est donc Monsieur Dramantour ?
+Il demande quelque chose, et il s'en va ; il n'a donc pas de mémoire ?
+
+-*who_lariffardiere
+C'est égal, c'est égal.
+J'en ai un, moi, et je m'en charge.
+
+-*who_malingre
+Prenez garde ; c'est que ce sera trop froid.
+
+-*who_lariffardiere
+Voulez-vous en prendre votre part ?
+
+-*who_malingre
+Vous plaisantez, je crois !
+Dans un état comme le mien,
+Où le régime est nécessaire ,
+Bien loin de m'Ëtre salutaire,
+Pour moi cela ne vaudrait rien.
+En vain l'on me condamne ;
+A la fin voulant me
+Porter beaucoup mieux, je
+Vais prendre un verre de
+Ma ptisane.
+Ma ptisane.
+
+**** *book_ *id_I04 *act_I *date_1809
+
+-*who_lariffardiere
+Me voilà seul...
+Songeons un peu à nos affaires.
+Géronte, vieil avare, oncle de Dramantour, arrive ce soir...
+Diable !
+C'est embarrassant...
+Heureusement Dramantour, mon rival, n'est point aimé...
+Si je pouvais tirer parti de tous ces caractères...
+Pourquoi pas ?
+Oui, je n'aurai point joué pendant dix ans les valets de comédie pour être arrêté par des originaux, Molière a joué tous les ridicules ; il me fournira mes moyens d'attaque...
+Malingre, malade imaginaire ; un médecin m'en fera raison.
+Il m'a refusé sa fille à cause de mes dettes ; monsieur de Lahausse, vous qui ne vous doutez pas que nous soyons parents, ceci vous regarde.
+Géronte, nouvel Harpagon...
+À moi, Scapin, avec tes fourberies.
+De Duguesclin, l'arme invincible,
+Rappelant ses nombreux hauts faits,
+Après sa mort, toujours terrible,
+Effrayait encor les Anglais.
+Molière, ainsi malgré leur nombre,
+Malgré leur cabale et leurs cris,
+Avec ta férule et ton ombre,
+J'écraserai tes ennemis.
+
+**** *book_ *id_I05 *act_I *date_1809
+
+-*who_adele
+Ah !
+Monieur de Lariffardière, vous voilà.
+
+-*who_lariffardiere
+Elle est excellente.
+
+-*who_adele
+Quoi !
+Dans le moment où l'on va me forcer à épouser Monsieur Dramantour, vous n'avez pas l'air de me voir.
+Je vois bien que vous ne m'aimez pas.
+
+-*who_lariffardiere
+Je ne vous aime pas !...
+Je ne vous aime pas!
+Eh !
+Quelles preuves voulez-vous de mon amour ?
+Depuis six mois que je vous connais, ai-je manqué de venir un seul jour ici, prendre le matin ma tasse de chocolat ; à deux heures, d'y venir dîner ; et le soir, ne m'y revoyez-vous pas encore prendre le dernier repas de la journée ?
+Cruelle !
+C'est pour vous, et je ne vous aime pas !...
+
+-*who_adele
+Voilà bien votre caractère ; toujours prêt à plaisanter dans les choses les plus sérieuses.
+
+-*who_lariffardiere
+Soyez tranquille ; on a toujours assez de temps pour se désoler.
+J'ai pour notre mariage certain projet.
+
+-*who_adele
+Exécutez-le donc au plus tôt ; car vous êtes, en tout, d'une inconstance...
+Par exemple, depuis huit jours, avez-vous pensé un seul moment à me faire répéter un rôle.
+
+-*who_lariffardiere
+Je n'ai pas beaucoup de temps ; mais je suis trop heureux de vous le consacrer.
+Mais, vous qui parlez, avez-vous seulement pensé à achever mon portrait ?
+
+-*who_adele
+Ce doux travail fait mon bonheur ;
+Mais l'art parfois est inutile :
+Vos traits sont comme votre coeur ;
+Les fixer n'est pas très facile.
+Ce portrait m'offre à chaque instant
+Une difficulté nouvelle ;
+Car, pour qu'il soit bien ressemblant.
+Il ne faut pas qu'il soit fidèle.
+
+-*who_lariffardiere
+Je vais vous donner un bon moyen.
+De l'artiste judicieux
+Voulez-vous éviter le blâme,
+Peignez mon amour dans mes yeux.
+Et dans mes yeux peignez mon âme :
+De mon portrait facilement
+Vous ferez un autre moi-même.
+Si vous voulez qu'il soit parlant,
+Faites-lui dire : je vous aime.
+Mais voici votre père ; il ne faut pas qu'il nous trouve ensemble ; nous nous reverrons.
+
+**** *book_ *id_I06 *act_I *date_1809
+
+-*who_malingre
+Je ne puis pas me plaindre de cette ptisane-là, elle m'a fait bien de l'effet...
+Mettons mes comples en ordre, et voyons celui de Monsieu Calmant, mon apothicaire...
+Racine de patience...
+Celle-là il y a longtemps que je m'en sers...
+Casse, pour médecine...
+Le séné ne m'avait rien fait ; mais le docteur me répond de la casse...
+Voyons le total : Cinq et cinq, dix; dix et dix, vingt; pose...
+Hum... hum...
+Quatre-vingt-quatre francs...
+Ah !
+Mon Dieu !
+Que d'argent, sans compter l'opium, qui ne me fait pas fermer l'oeil, et mon médecin veut que je ferme les yeux là-dessus.
+L'astre des jours me voit passer les nuits
+Dans les tourments d'une longue insomnie ;
+Et ce qui vient redoubler mes ennuis,
+C'est que l'on met ma bourse à l'agonie,
+Par les soins d'un docteur vanté :
+Puisque tout mon argent s'évade,
+Je n'aurai plus la faculté (bis.)
+La faculté d'être malade.
+Et encore on me laisse, on m'abandonne.
+Je reste sur mes jambes, moi qui devrais être dans mon lit...Quelle maison !
+Adèle...
+Adèle...
+Personne ne vient...
+Adèle.
+
+**** *book_ *id_I07 *act_I *date_1809
+
+-*who_choeur
+Nous avons la victoire entière :
+Ah ! Quel grand jour ! Ah ! Quel bonheur !
+Le parterre a sifflé Molière,
+Et le bon goût reste vainqueur.
+
+-*who_malingre
+Eh !
+Messieurs, quel tapage faites-vous donc ?
+Vous ne songez pas à ma position.
+
+-*who_dramantour
+Que n'étiez-vous là ; deux pièces de Molière qu'on n'a pas laissé achever.
+
+-*who_malingre
+Ah !
+Vous me comblez d'aise.
+
+-*who_lahausse
+Bon !...
+
+-*who_dramantour
+Plus de Molière,
+Criait en choeur notre parti ;
+Sa gaité nous paraît grossière,
+Et le bon ton le veut ainsi :
+Plus de Molière.
+
+-*who_lahausse
+Plus de Molière,
+Disait maint auteur délicat ;
+Il faut des douceurs pour nous plaire :
+Vivent Marivaux et Dorat ;
+Plus de Molière.
+
+-*who_lariffardiere
+Plus de Molière,
+Je le répète comme vous ;
+Il ouvre et ferme la carrière :
+Messieurs, on ne verra chez nous
+Plus de Molière.
+
+-*who_lahausse
+Le docteur Tantmieux a bien fait son devoir.
+
+-*who_tantmieux
+Je ne devais pas ménager un auteur de mauvais ton.
+
+-*who_lahausse
+Qui vivait dans un siècle reculé.
+
+-*who_dandinville
+Dont les pièces fourmillent d'expressions triviales et indécentes.
+N'appelle-t-il pas les maris...
+
+-*who_lariffardiere
+Voilà de vos arrêts, messieurs les gens de goût.
+Sa franchise vous indispose ;
+D'un rien vous êtes alarmés :
+Le terme qui sied à la chose,
+Il l'adopte, et vous l'en blâmez :
+Vous exigez un mot qui flatte ;
+Mais moi je vous le dis tout bas :
+L'oreille n'est si délicate,
+Que lorsque le coeur ne l'est pas.
+
+-*who_dandinville
+C'est bon, c'est bon, Monsieur de Lariffardière.
+
+-*who_dramantour
+Messieurs, n'oublions pas ce que l'amitié nous commande.
+Portons cette grande nouvelle,
+Et chez nos amis allons tous :
+Ils ont secondé notre zèle;
+Ils vont en jouir avec nous.
+Le jour de notre mariage
+Doit être un grand jour d'apparat ;
+Et ce soir, moi je vous engage...
+À venir signer le contrat.
+Portons cette grande, etc.
+
+-*who_lariffardiere
+Laissons les croire à leur nouvelle,
+Car d'honneur je crois qu'ils sont fous ;
+Mais bientôt, grâces à mon zèle,
+Ici je veux les jouer tous.
+
+**** *book_ *id_I08 *act_I *date_1809
+
+-*who_malingre
+Enfin, nous pourrons causer librement.
+Il y a longtems que vous n'êtes venu ?
+
+-*who_tantmieux
+J'ai tant d'affaires ; tant de gens à voir.
+
+-*who_malingre
+Et ce jeune homme, votre voisin, comment va-t-il ?
+
+-*who_tantmieux
+C'est une affaire finie.
+
+-*who_malingre
+Il va donc bien ?
+
+-*who_tantmieux
+Eh !
+Non ; il est mort.
+
+-*who_malingre
+Vous aviez pourtant dit que vous le guéririez.
+
+-*who_tantmieux
+Aussi ai-je fait ; il est mort guéri.
+Mais parlons de vous ; comment cela va-t-il,depuis que je ne vous ai vu ?
+
+-*who_malingre
+Pas trop bien ; je dépéris visiblement sans que ça paraisse.
+
+-*who_tantmieux
+Tant mieux ; car vous sentez votre mal.
+
+-*who_malingre
+C'est que vos\isites sont si rares.
+
+-*who_tantmieux
+À présent j'aurai plus de temps à moi.
+
+-*who_malingre
+Comment ?
+
+-*who_tantmieux
+Trois colons avaient des accès
+D'humeur noire et mélancolique :
+Chaque jour je leur conseillais
+De retourner en Amérique.
+Longtemps ils furent indécis,
+Malgré ma science profonde ;
+Enfin ils ont cru mes avis,
+Et sont partis pour l'autre monde.
+
+-*who_malingre
+Ce que c'est que la docilité.
+
+-*who_tantmieux
+Mais à propos, où en est le mariage de votre fille ?
+
+-*who_malingre
+Nous attendons Géronte, l'oncle du jeune homme.
+Adèle n'aime pas beaucoup son futur ; mais Monsieur Dramantour achalande beaucoup mon café.
+Ce garçon là m'est fort utile ;
+Son esprit m'est d'un grand secours :
+Chez moi je vois toute la ville
+Venir écouter ses discours.
+Ses chutes sont loin de l'abattre ;
+Son talent n'est point étouffé ;
+Et s'il ne prend point au théâtre,
+Il prend beaucoup dans mon café.
+
+-*who_tantmieux
+Tant mieux, tant mieux.
+Mais voici quelqu'un.
+
+**** *book_ *id_I09 *act_I *date_1809
+
+-*who_geronte
+Eh !
+Bonjour , mon vieil ami.
+
+-*who_malingre
+Comment c'est vous !...
+C'est un ami d'enfance ; il y a cinquante ans que nous ne nous sommes vus !
+
+-*who_geronte
+Aussi, quel plaisir de se revoir !
+Comme cela déride !...
+
+-*who_malingre
+Oui, mon ami, ça déride, et ça ne laisse pas que de rajeunir.
+
+-*who_geronte
+Monsieur, je vous salue.
+
+-*who_malingre
+Vous vous portez toujours bien ; ce n'est pas comme moi, je ne sais pas ce qui m'arrive, mais je m'en vas, je décline, décline, décline...
+
+-*who_geronte
+Parlons de mon neveu.
+On m'a dit qu'il faisait des vers ; je trouve que ça ne rime à rien.
+
+-*who_malingre
+Que dites-vous donc ?
+Un jeune homme qui à ce qu on dit, est très connu au Pinde.
+
+-*who_geronte
+Ah !
+Ah !
+
+-*who_tantmieux
+Un jeune homme qui monte Pégase.
+
+-*who_geronte
+Oh !
+Oh !
+
+-*who_tantmieux
+Un jeune homme qui brille dans les citations !
+
+-*who_geronte
+Son procureur est donc bien content de lui ?
+
+-*who_tantmieux
+Son procureur !
+Laissez donc.
+Méprisant d'indignes liens,
+Fatigué de la servitude,
+Mettant en oeuvre ses moyens,
+Avec des goûts comme les siens,
+Il peut bien se passer d'étude :
+Epris d'une plus noble ardeur,
+Parcourant des routes nouvelles,
+Il a quitté son procureur.
+Pour voler (bis) de ses propres ailes.
+
+-*who_geronte
+Eh bien !
+Alors cela revient au même.
+Allons, que ce mariage se fasse ce soir.
+
+-*who_malingre
+Ce soir...
+Un instant ; si je suis malade, je ne serai pas à la noce.
+
+-*who_geronte
+C'est votre faute aussi, et si vous n'étiez pas toujours entouré de médecins, qui vous ruinent le corps et la bourse.
+
+-*who_tantmieux
+Que voulez-vous dire, monsieur.
+
+-*who_geronte
+Que j'ai vu dans une comédie de Molière, ou peut-être de Rabelais, je ne sais, qu'ils étaient fort tournés en ridicule.
+
+-*who_tantmieux
+En ridicule, monsieur, en ridicule !
+
+**** *book_ *id_I10 *act_I *date_1809
+
+-*who_geronte
+Entre nous, nous les connaissons.
+
+-*who_tantmieux
+Pensez-vous bien à ce que vous dites ?
+
+-*who_lariffardiere
+On se dispute, écoutons.
+
+-*who_geronte
+Je dis ce que je pense, et je pense comme Molière.
+
+-*who_tantmieux
+Molière est un sot, et vous un imperlinent, Monsieur Géronte.
+
+-*who_malingre
+Monsieur Géronte....
+Monsieur le docteur.
+
+-*who_tantmieux
+Apprenez qu'un homme dont le savoir est attesté sur un diplôme en parchemin...
+
+-*who_geronte
+D'accord ; mais...
+
+-*who_lariffardiere
+Allez donc.
+
+-*who_tantmieux
+Qui a pris ses grades dans l'Université d'Orange.
+
+-*who_geronte
+Cela est fort bien ; mais...
+
+-*who_tantmieux
+Qui du bachalauréat a passé au doctorat.
+
+-*who_geronte
+Sans doute ; mais...
+
+-*who_tantmieux
+Ne doit pas être traité comme un ignorant.
+
+-*who_geronte
+Je ne dis pas cela ; mais...
+
+-*who_lariffardiere
+Courage.
+
+-*who_tantmieux
+Et que celui qui pense ainsi se rend coupable du crime de lèze-faculté.
+
+-*who_malingre
+Monsieur le docteur...
+Monsieur Géronte...
+
+-*who_geronte
+Je n'ai point prétendu...
+
+-*who_tantmieux
+Et mérite d'être livré à la vengeance hippocratique.
+Contre vous et tous vos amis,
+Je vois se former un orage :
+Vous méritez d'être punis ;
+Je saurai venger mon outrage.
+Vous avez partagé son tort :
+Craignez maint accident funeste ;
+Craignez la fièvre et le transport,
+L'asthme, la gravelle, la mort.
+
+-*who_malingre
+Daignez m'épargner le reste.
+
+-*who_geronte
+Moi je me moque du reste.
+
+**** *book_ *id_I11 *act_I *date_1809
+
+-*who_malingre
+Ô mon Dieu !
+Mon Dieu !
+Quel malheur !
+Faut-il que j'en sois la victime !...
+Maudite amitié, à quoi m'exposes-tu ?
+
+-*who_lariffardiere
+Qu'avez-vous, Monsieur Malingre ?
+Vous paraissez fortement ému ; vous est-il arrivé qu'elqu'accident fâcheux ?
+
+-*who_malingre
+Mon ancien ami, Monsieur Géronte, se permet de dire devant mon docteur, que Molière a bien fait de s'égayer sur le compte de la médecine.
+
+-*who_lariffardiere
+Il a osé !...
+Ciel !
+Que m'apprenez-vous !
+Il ne tremble pas du sort de Molière ?
+Savez-vous comment les médècins se sont vengés de lui ?
+
+-*who_malingre
+Que lui ont-ils donc fait ?
+
+-*who_lariffardiere
+Ce qu'ils lui ont fait ?
+Rien.
+
+-*who_malingre
+Ô mon Dieu !
+
+-*who_lariffardiere
+Il n'a pas pu en obtenir la plus petite saignée.
+
+-*who_malingre
+Ô Ciel !
+
+-*who_lariffardiere
+Pas le moindre petit grain d'émétique.
+
+-*who_malingre
+Miséricorde !
+
+-*who_lariffardiere
+Et, enfin, abandonné par eux, je ne conçois pas comment il ne s'en est pas tiré.
+
+-*who_malingre
+Ce qui m'arrive est aussi fâcheux.
+Monsieur Tantmieux a menacé Géronte et ses amis de toutes les maladies ; or , il est.... il était mon ami, et, d'après cela, je suis en danger.
+
+-*who_lariffardiere
+Ma foi, par l'intérêt que je vous porte, je vous plains.
+
+-*who_malingre
+Monsieur Lariffardière, allez, je vous prie, trouver Monsieur Tantmieux, dites-lui que sans un dédit de trois mille francs qui me lie avec Monsieur Géronte, je ne le verrais plus.
+
+-*who_lariffardiere
+Un dédit, j'en fais mon affaire.
+Quel homme est-ce que ce Géronte ?
+
+-*who_malingre
+C'est un bon homme assez bizarre ;
+
+-*who_lariffardiere
+C'est-là ce qu'on appelle un sot ;
+
+-*who_malingre
+Économe ;
+
+-*who_lariffardiere
+      C'est un avare ;
+
+-*who_malingre
+Crédule ;
+
+-*who_lariffardiere
+      C'est ce qu'il nous faut ;
+Je me charge de votre affaire,
+Et, prouvant aujourd'hui mon tact,
+Je traite l'oncle à la Molière,
+Et le Géronte est dans le sac.
+
+-*who_malingre
+Il ne sera pas à son aise ; mais ceci m'a tout troublé , et je me sens...
+Allez trouver Monsieur Tantmieux ; c'est une affaire très pressante, très pressante.
+
+-*who_lariffardiere
+Allez, allez, et laissez-moi faire.
+
+**** *book_ *id_I12 *act_I *date_1809
+
+-*who_lariffardiere
+Les circonstances me favorisent ; il faut en profiter.
+
+-*who_adele
+Mon père a l'air bien ému.
+
+-*who_lariffardiere
+Je suis fort tranquille.
+
+-*who_adele
+D'abord, s'il me fait épouser M. Dramantour...
+
+-*who_lariffardiere
+Nous serons deux, monsieur mon rival.
+
+-*who_adele
+Il serait si aisé avec du caractère.
+
+-*who_lariffardiere
+On peut s'en tirer avec de l'esprit.
+
+-*who_adele
+Mais mon père n'en a pas.
+
+-*who_lariffardiere
+Enfin, mon parti est pris.
+
+-*who_adele
+J'y suis décidée.
+Je sais bien qui est-ce qui m'instruira.. .
+
+-*who_lariffardiere
+Surtout ne disons rien à Adèle...
+Ah !
+Vous voilà.
+
+-*who_adele
+Ah !
+C'est vous.
+Ah !
+Monsieur, je vous y prends, c'est bien joli, de vouloir me cacher vos secrets.
+
+-*who_lariffardiere
+Mais j'ai cru, ma chère amie.
+
+-*who_adele
+Comme s'ils n'étaient pas à moi comme à vous.
+
+-*who_lariffardiere
+D'accord ; mais...
+
+-*who_adele
+Lorsque l'on s'aime, peine et plaisir doivent ctr-e en commun.
+Dans le plaisir, dans la tristesse,
+la confiance est un bonheur ;
+C'est le charme de la tendresse ;
+C'est le premier besoin du coeur ;
+Tendre amour c'est, grâce à ta flamme,
+Qu'on devient doublement heureux :
+Les indifférents n'ont qu'une âme ;
+Mais lorsqu'on aime, on en a deux.
+
+-*who_lariffardiere
+Je sens tout cela comme vous...
+Mais voici justement Monsieur de Lahausse ; j'ai besoin d'être seul avec lui.
+Adieu, mon Adèle.
+
+-*who_adele
+Adieu , puisque vous ne voulez pas que je sache...
+Je me soumets...
+Mais j'écouterai.
+
+**** *book_ *id_I13 *act_I *date_1809
+
+-*who_lahausse
+Tous nos amis sont d'accord, et on n'entendra plus parler de Molière.
+
+-*who_lariffardiere
+Tu ne demanderais pas mieux.
+
+-*who_lahausse
+Encore ce comédien....
+Attaquer Monsieur Jourdain.
+
+-*who_lariffardiere
+Oui.
+Je vois que Monsieur Jourdain vous tient au coeur.
+
+-*who_lahausse
+C'est bon, c'est bon...
+Qui est-ce qui lui parle ?
+
+-*who_lariffardiere
+Je t'y ferai bien venir.
+Mais Monsieur de Lahausse, il n'y a rien de commun entre vous et ce bourgeois.
+
+-*who_lahausse
+Il est certain qu'il y a de la différence.
+
+-*who_lariffardiere
+Votre famille est connue, et...
+
+-*who_lahausse
+Il n'y a pas de doute que...
+
+-*who_lariffardiere
+Il y a toujours quelque chose qui distingue les gens de votre sorte.
+
+-*who_lahausse
+Les gens de ma sorte...
+Ce garçon-là a des expressions...
+Vous trouvez donc ma tournure...
+
+-*who_lariffardiere
+On n'a pas l'air distingué comme vous.
+
+-*who_lahausse
+Parbleu !
+Monsieur de Lariffardière...
+Garçon, un quart de punch.
+
+-*who_lariffardiere
+Ah !
+Monsieur, je n'oserai pas avec un homme de votre rang.
+
+-*who_lahausse
+De mon rang !...
+Un demi-bol.
+
+-*who_lariffardiere
+En vérité, vous me comblez ; je n'ai jamais vu de seigneur...
+
+-*who_lahausse
+De seigneur...
+Le bol entier.
+Je ne regarde pas à la dépense, lorsque je rencontre des personnes aussi respectueuses pour les gens comme moi.
+
+-*who_lariffardiere
+Je sais les apprécier, et leur rendre la justice qu'ils méritent.
+D'ailleurs, monsieur, je n'oublirai jamais que j'ai connu monsieur votre père.
+
+-*who_lahausse
+Il a connu mon père !...
+Hum !...
+Où diable veut-il en venir ?
+
+-*who_lariffardiere
+C'était un homme fort estimable, un coeur si pur ; qui faisait valoir lui-même les terres des autres.
+
+-*who_lahausse
+Oui, oui, il aimait beaucoup la campagne.
+
+-*who_lariffardiere
+Il y passait sa vie au milieu des troupeaux, qu'il gardait lui-même, comme dans l'âge d'or...
+Vous aviez un oncle aussi, ce me semble ?
+
+-*who_lahausse
+Oui, je crois me rappeler...
+
+-*who_lariffardiere
+Il se consacrait à l'instruction de la jeunesse.
+On l'appelait le Magister du village...
+C'était mon père, monsieur.
+
+-*who_lahausse
+Ah !
+Dieux !
+Maudite rencontre !
+Quoi !
+Vous seriez ?...
+
+-*who_lariffardiere
+Eustache Desvignes, ton cousin ; la nature ne te le disait pas ?
+
+-*who_lahausse
+Certainement...
+Mon cher cousin.
+Que la peste t'étouffe.
+
+-*who_lariffardiere
+Écoute, Grégoire ; tu as fait fortune, tu as oublié tes parents ; c'est l'usage.
+Je suis toujours resté gueux ; je me souviens des miens ; c'est tout naturel.
+Tu as besoin d'un nom, j'ai besoin d'argent ; je puis t'ôter l'un, tu peux me donner l'autre.
+Arrangeons-nous.
+
+-*who_lahausse
+Comment l'entendez-vous ?
+
+-*who_lariffardiere
+Je vais me marier ; il me faut cent louis ; tu me le donneras, et, par reconnaissance, j'aurai l'air de ne t'avoir jamais connu.
+
+-*who_lahausse
+Non, parbleu pas.
+Aimes-tu mieux signer au contrat comme mon cousin ; au fait, cela me conviendrait assez.
+
+-*who_lahausse
+Attendez un peu...
+Si vingt-cinq louis...
+
+-*who_lariffardiere
+Ah !
+Fi donc !
+Fi donc, l'honneur de t'appartenir ; non, non.
+
+-*who_lahausse
+Que diable...
+Arrangeons-nous...
+Voyons, trente louis.
+
+-*who_lariffardiere
+Je ne puis en conscience ;
+Crois-moi, perds toute espérance
+Qu'ici de ton alliance
+Je me désiste à ce prix.
+
+-*who_lahausse
+Mettons cinquante louis.
+
+-*who_lariffardiere
+J'en veux cent, je le redis :
+Songe que dans la province,
+Tu tiens un état de prince ;
+Que connu pour ton parent,
+J'aurai un crédit important.
+
+-*who_lahausse
+C'est à regret que j'augmente ;
+Mais enfin j'en mets soixante :
+Voyez si cela vous tente ;
+Mais le secret entre nous.
+
+-*who_lariffardiere
+Non, car je suis jaloux
+Du grand honneur d'être à vous ;
+Et quand pour moi l'espoir brille
+De retrouver ma famille,
+Pour si peu doit-on penser
+Que mon coeur puisse y renoncer !
+Non, je n'en veux rien rabattre,
+Et dut-on me mettre en quatre :
+Cessons donc de nous débattre ;
+C'est trop longtemps balancer.
+
+-*who_lahausse
+Puisqu'il n'en veut rien rabattre,
+Il faut donc me mettre en quatre,
+Et j'aurai beau me débattre,
+Je ne puis plus balancer.
+
+-*who_lahausse
+Allons, je vais les chercher ; voilà un parent qui m'est bien cher !
+
+-*who_lariffardiere
+Et d'une ; ah !
+Molière, Molière !
+Que je te remercie.
+Voici Monsieur Géronte, l'oncle de mon rival ; comme il vient à propos.
+
+**** *book_ *id_I14 *act_I *date_1809
+
+-*who_geronte
+Mon neveu, Dramantour, n'était pas chez lui ; la notaire était sorti ; où diable peuvent-ils être.
+Cet homme me regarde bien.
+J'espérais les rencontrer l'un ou l'autre ; mais à qui en veut donc cet homme ?
+
+-*who_lariffardiere
+À toi, et tu paieras ton dédit.
+Monsieur ?
+
+-*who_geronte
+Est-ce à moi que cela s'adresse ?
+
+-*who_lariffardiere
+Oui, monsieur ; pardon de mon importunilé ; mais vous me paraissez un homme respectable, serviable, équitable, et vous me serez favorable.
+
+-*who_geronte
+Voudrait-il me demander de l'argent.
+
+-*who_lariffardiere
+Il s'agit d'un malheureux.
+Donnez-moi...
+
+-*who_geronte
+Impossible.
+Je donne parfois le bonjour ;
+Je donne parfois audience ;
+Je donne aux voisins, tour à tour,
+De l'eau, du feu sans conséquence ;
+Je donne encore quelquefois,
+Plus d'une recette assez bonne.
+
+-*who_lariffardiere
+Et de l'argent ?
+
+-*who_geronte
+      Je le reçois,
+Et jamais je n'en donne.
+
+-*who_lariffardiere
+Il ne s'agit pas d'argent ; mais d'un conseil.
+
+-*who_geronte
+Je suis à vous.
+J'en donne aussi très volontiers.
+
+-*who_lariffardiere
+Eh bien !
+Sachez que j'ai un ami...
+Ah !
+Un jeune homme qui a un oncle, qu'il aime...
+Ah !
+Qu'il aime, qu'il aime...
+Ah, ah , ah !
+
+-*who_geronte
+Ne pleurez pas tant ; voyons.
+
+-*who_lariffardiere
+Un joli garçon , aimant à rire ; mais sage, rangé, qui aime les plaisirs, les fêtes, le bal, la comédie, pourvu qu'il ne lui en coûte rien.
+
+-*who_geronte
+C'est bien ; après, après.
+
+-*who_lariffardiere
+Et ce jeune homme s'endette par économie, et ne paie pas par arrangement.
+
+-*who_geronte
+Comment, par arrangement ?
+
+-*who_lariffardiere
+Sans doute , il place son argent à gros intérêts, et il fait attendre ses créanciers : il a beaucoup d'ordre.
+
+-*who_geronte
+J'aime les jeunes gens comme ça.
+Quel est le nom de votre ami ?
+
+-*who_lariffardiere
+On l'appelle Dramantour ; homme d'esprit, de talent.
+
+-*who_geronte
+C'est mon neveu.
+Vous ne sauriez croire combien cela m'intéresse.
+Eh bien !
+
+-*who_lariffardiere
+Ah, ah , ah !
+
+-*who_geronte
+Comment, ah , ah !
+Lui serait-il arrivé quelque malheur.
+
+-*who_lariffardiere
+Ah !
+Monsieur ; ah !
+Monsieur.
+
+-*who_geronte
+Eh bien !
+
+-*who_lariffardiere
+Eh bien !
+Il est en prison.
+
+-*who_geronte
+En prison !
+Et pourquoi ?
+
+-*who_lariffardiere
+Parce que ses créanciers n'ont pas voulu entrer dans ses arrangements ; ayant su qu'il était au spectacle, car il y va...
+
+-*who_geronte
+De grâce, achevez....
+Et apprenez que je suis son oncle.
+Ciel !
+Vous, son oncle...
+Ô destin !
+Ô nature !
+Voilà de tes coups...
+Sachez donc, qu'ayant appris qu'on l'attendait tous les soirs, il sortait par une petite porte de derrière, pour éviter la cohue, et c'est là qu'on s'est saisi de lui.
+
+-*who_geronte
+Pourquoi diable sortir par cette porte.
+Est-ce qu'il n'y en a pas une autre ?
+
+-*who_lariffardiere
+Non, monsieur ; c'est pour cela qu'il l'a choisie.
+
+-*who_geronte
+Maudits créanciers !
+
+-*who_lariffardiere
+Il s'agit de le tirer de leurs mains ; et vous seul pouvez...
+
+-*who_geronte
+Voici ce qu'il faut faire...
+Dites-lui que je l'aime beaucoup...
+
+-*who_lariffardiere
+Ah !
+Le cher oncle !...
+Le cher oncle !
+
+-*who_geronte
+Dites-lui qu'il trouve un répondant, et qu'il vienne se jeter dans mes bras.
+
+-*who_lariffardiere
+Ami malheureux, le ciel m'est témoin que si j'étais en fonds, cher Pylade, tu serais délivré par Oreste.
+
+-*who_geronte
+Cet homme-là lui est bien attaché.
+Eh bien !
+Monsieur Preste, combien faudrait-il ?
+
+-*who_lariffardiere
+Une misère, mille écus.
+
+-*who_geronte
+Mille écus !
+Ah !
+Mon Dieu !
+
+-*who_lariffardiere
+Eh !
+Monsieur, pour une si petite somme, vous, son oncle, voulez-vous lui faire manquer un mariage qui doit placer sur sa tête...
+
+-*who_geronte
+Quoi donc ?
+
+-*who_lariffardiere
+Quarante mille francs au moins.
+
+-*who_geronte
+Cela est fort bien...
+Mais mille écus.
+
+-*who_lariffardiere
+Il vous les rendra.
+
+-*who_geronte
+Ah !
+Bath.
+
+-*who_lariffardiere
+Avec les intérêts.
+
+-*who_geronte
+Vous croyez...
+Je les ai là en or.
+Mais m'en séparer sitôt.
+Je ne me doutais en rien
+Que j'aurais cette faiblesse ;
+Mais enfin votre promesse....
+Les mille écus y sont bien.
+
+-*who_lariffardiere
+Avarice et bienfaisance
+Luttaient dans cette occurrence ;
+Mais grâce à mon éloquence,
+La bourse va me rester.
+J'étais, je vous le confesse,
+En invoquant la tendresse,
+Bien certain de l'emporter.
+
+**** *book_ *id_I15 *act_I *date_1809
+
+-*who_lariffardiere
+J'ai mis vos affaires en bon train.
+Convenez de tout.
+J'ai menti à votre oncle : ne me démentez pas, et comptez sur moi.
+
+-*who_dramantour
+Diable m'emporte si je sais ce qu'il veut dire ; mais c'est égal.
+
+**** *book_ *id_I16 *act_I *date_1809
+
+-*who_dramantour
+Voici mon oncle.
+Ici, la tirade de la reconnaissance.
+Ô mon oncle inattendu !
+C'est vous que le destin prospère précipite dans mon sein !
+
+-*who_geronte
+Mon cher neveu, que je suis aise de t'embrasser !
+On t'a donc laissé sortir de prison sur parole ?
+
+-*who_dramantour
+Oui, mon oncle...
+Mais au reste....
+
+-*who_geronte
+Oreste, il m'a tout conté ; mais une autre fois, ne sors plus par cette maudite porte.
+
+-*who_dramantour
+Oui, mon oncle.
+
+-*who_geronte
+Cela parait te faire de la peine : parlons de ton mariage ; cela te plaira mieux.
+
+-*who_dramantour
+Sans doute.
+Ma phrase de la confidence.
+C'est sur Adèle ; c'est sur cet objet de mes plus tendres affections que repose la base de tout mon avenir, embelli par le prisme de l'espérance.
+
+-*who_geronte
+Ah !
+Elle est donc jolie, ta future ?
+
+-*who_dramantour
+Tenez, la voici, suivie du respectable vieillard de qui elle tient le jour.
+
+**** *book_ *id_I17 *act_I *date_1809
+
+-*who_malingre
+Approchez, approchez, Adèle ; vous avez toujours fait ce que je vous ai dit, et je vais vous dire ce qu'il faut faire.
+
+-*who_adele
+Mon père, je ferai ce que vous me direz.
+
+-*who_malingre
+Ce sera très bien fait.
+
+-*who_geronte
+Et c'est fort bien dit.
+
+-*who_malingre
+Cela voit toujours du même oeil que moi.
+
+-*who_geronte
+Je lui en fais mon compliment.
+
+-*who_dramantour
+Ici ma tirade sentimentale.
+Adèle, non, le ciel peut sur moi exercer sa colère ; je brave les traits du destin, quelle que soit sa rigueur ; le bonheur qui m'attend près de vous sera l'égide de mon âme.
+Ange tutélaire, je connais l'héroïsme des femmes ; comptes sur ma franchise : je ne suis pas l'homme à trois visages ; et j'ose espérer que vous ne serez, jamais la femme à deux maris...
+
+-*who_adele
+Ce langage amphibologique
+Présente deux sens an lieu d'un ;
+C'est une énigme amphigourique,
+Dont le mot n'est pas sens commun.
+Ce style a droit de me confondre ;
+Mais quoiqu'il ait bien du succès.
+Moi je ne puis pas y répondre ;
+Car je ne sais que le français.
+
+-*who_geronte
+Hum , si le reste n'est pas intelligible, ceci me parait assez clair.
+
+-*who_malingre
+Comment, vous ne savez pas ce que signifie le discours de monsieur !
+Qu'est-ce que cela signifie, mademoiselle ?
+
+-*who_adele
+Cela signifie, mon père, que s'il s'agit d'aimer monsieur...
+
+-*who_malingre
+Il s'agit de l'épouser.
+
+-*who_dramantour
+Elle me refuse !
+Ici mon couplet du tyran.
+Eh quoi !
+Ni mes prières ni mon désespoir ne peuvent attendrir votre coeur formé par l'insensibilité...
+Eh bien !
+Cruelle, craignez tout de ma juste fureur.
+Holà, gardes...
+Ce n'est pas ça ; j'ai été trop loin.
+
+-*who_geronte
+Mon neveu, on ne vous aime pas ; il faut prendre votre parti, et que Monsieur Malingre paye le dédit.
+
+-*who_malingre
+Le dédit, je ne le payerai pas.
+
+-*who_geronte
+Vous le payerez, ou vous nous épouserez.
+
+-*who_malingre
+Je ne...
+Si mon médecin ne m'avait pas défendu de me mettre en colère....
+
+**** *book_ *id_I18 *act_I *date_1809
+
+-*who_lariffardiere
+Allons, courage, Monsieur le docteur.
+
+-*who_tantmieux
+Eh quoi ! votre audace
+Jamais ne se lasse !
+De ce qui se passe
+Ne tremblez-vous pas ?
+Sans mon ordonnance,
+Faire une alliance,
+Dont la conséquence
+Est votre trépas.
+Contre Hippocrate
+Votre âme ingrate,
+Ici constate
+Un grief certain :
+Quoi ! Téméraire,
+Vous osez faire
+De sa colère
+Un fatal dédain !
+Mais l'apoplexie,
+Et l'hydropisie,
+Et l'épilepsie,
+Servant mon courroux,
+Avec la colique,
+Et la sciatique,
+Vous rendront étique :
+C'en est fait de vous.
+
+-*who_malingre
+Ah !
+Ah !
+De grâce, Monsieur le docteur.
+
+-*who_tantmieux
+Je suis inflexible...
+Allez, vous n'êtes pas digne d'être malade.
+
+-*who_malingre
+Faut-il mourir ?....
+Je me recommande à vous.
+
+-*who_lariffardiere
+Allons, voyons, Monsieur Tantmieux, composons.
+
+-*who_tantmieux
+S'allier avec une famille qui a encouru la haine de la médecine !
+
+-*who_geronte
+Bath, bath, nous n'avons jamais eu de médecins dans notre famille, et nous n'en sommes pas moin» morts bien portants.
+
+-*who_dramantour
+Ici mon... imprécation... barbare !
+Non, tes menaces ne peuvent rien sur moi.
+Soutenu par ma vertu, je te braverai dans les fers : qui méprise la mort, ne craint point.... un médecin.
+
+-*who_tantmieux
+Monsieur Malingre, vous me résistez !
+
+-*who_malingre
+Mais Monsieur le docteur , c'est que ce dédit.
+
+-*who_lariffardiere
+Ne vous inquiétez pas.
+J'aime votre fille; je lui plais.
+
+-*who_malingre
+Vrai ?
+
+-*who_adele
+Oui, mon père.
+
+-*who_lariffardiere
+Et je paye le droit.
+
+-*who_malingre
+Depuis que vous êtes sorti, il vous est donc survenu des rentrées.
+
+-*who_lariffardiere
+Monsieur Géronte, donnez-moi l'écrit, et je vais vous satisfaire.
+C'est bon.
+Voilà les mille écus bien comptés dans cette bourse.
+
+-*who_geronte
+C'est la bourse de tantôt.
+
+-*who_lariffardiere
+La même, Monsieur Géronte, la même.
+
+-*who_geronte
+Et les dettes de mon neveu ?
+
+-*who_lariffardiere
+Vous les payerez avec cet argent là.
+
+-*who_geronte
+Je commence à m'apercevoir...
+Il m'attrape...
+Mais je rattrape mon argent.
+
+-*who_dramantour
+Nous sommes les jouets d'une conspiration ténébreuse.
+
+-*who_geronte
+Ah !
+Bath, avec tes phrases.
+
+**** *book_ *id_I19 *act_I *date_1809
+
+-*who_dandinville
+Après vous, monsieur.
+
+-*who_lahausse
+C'est très bien.
+Monsieur de Lariffardière, voilà vos cent louis.
+
+-*who_lariffardiere
+Je vous remercie bien, mon cher cousin.
+
+-*who_tous
+Quoi !
+Ton cousin !
+
+-*who_lariffardiere
+Oui, je l'étais ; mais il ne s'en souviens plus.
+Son nouvel éclat se change ;
+Le destin brise nos noeuds ;
+Et de cette mode étrange,
+Les exemples sont nombreux.
+Notre mémoire s'envole
+Quand le sort nous a souri ;
+Et le fleuve du Pactole
+Devient le fleuve d'oubli.
+
+-*who_lahausse
+C'est affreux, monsieur ; d'après nos conventions, vous deviez vous taire.
+
+-*who_geronte
+Comme ce monsieur s'est laissé jouer !
+Ah !
+Ah !
+Voilà bien un autre Monsieur de Jourdain !
+
+-*who_lariffardiere
+Et vous qui parlez, n'est-ce pas avec votre argent que vous vous êtes payé le dédit ?
+
+-*who_lahausse
+Ah !
+Ah !
+Vous êtes bien plus crédule que le Géronte des Fourberies de Scapin.
+
+-*who_tantmieux
+Et vous Monsieur Dramantour, petit Trissotin, comme il vous a attrapé !
+Ah !
+Ah !
+Ah !
+
+-*who_dramantour
+Et c'est vous, Monsieur Purgon, qu'il a fait agir auprès du malade imaginaire ; et s'il en était permis de rire.
+Ah !
+Ah !
+Ah !
+
+-*who_malingre
+Qu'appelez-vous malade imaginaire ?
+J'aime mieux être malade imaginaire , que...
+
+-*who_dandinville
+C'est bon, c'est bon ; mais il a respecté les maris, et je suis le seul qui ne suis pas...
+
+-*who_lariffardiere
+Non, non, Monsieur Dandinville ; il y en a beaucoup comme vous.
+
+-*who_adele
+Mon ami, vous n'avez pas voulu faire des jaloux vous les avez joués tous.
+
+-*who_lariffardiere
+Ils ont sifflé Molière, et Molière s'est vengé.
+Du coeur humain peintre fidèle,
+Il en a trahi le secret ;
+Il a fait rire le modèle
+En lui présentant son portrait.
+Drapant la cour,
+Il mit au jour,
+Près d'un flatteur,
+Un vertueux frondeur.
+Dans ses tableaux
+Les faux dévots
+Sont dévoilés ;
+Les Cotins signalés.
+Sans la chercher, trouvant la gloire,
+D'un naturel toujours exquis,
+Il fit de ses moindres croquis
+Des tableaux pour l'histoire.
+
+-*who_tantmieux
+Oui, oui ; il faut convenir qu'à certains égards il a du bon.
+
+VAUDEVILLE.
+
+-*who_lariffardiere
+Nous changerons tous :
+Honneur à l'immortel Molière,
+Pourvu que sur nous
+Il ne dirige pas ses coups.
+
+-*who_tous
+Nous chanterons tous, etc.
+
+-*who_tantmieux
+Que contre un Jourdain,
+Il lance sa critique amère,
+Bravo ; mais qu'enfin
+Il apprécie un médecin.
+
+-*who_lahausse
+De la faculté,
+Qu'il fasse rire le parterre ;
+Mais dans sa gaîté,
+Que le riche soit respecté.
+
+-*who_dramantour
+D'un George Dandin
+Qu'il persiffle le caractère,
+Bon ; mais que Cotin
+Soit à l'abri du trait malin.
+
+-*who_dandinville
+Qu'il lance ses traits
+Sur un malade imaginaire,
+J'applaudirai ; mais
+Qu'il laisse les maris en paix.
+
+-*who_malingre
+Qu'il fasse rougir
+Le ladre, je ne m'en plains guère ;
+Mais pourquoi venir
+M'attaquer, moi qui vais mourir.
+
+-*who_geronte
+Je ris quand il mord ;
+Mais faire à l'avare la guerre.
+C'est aussi trop fort :
+Garder son or n'est un tort.
+
+-*who_adele
+Que tous nos défauts
+Soient pardonnés, grâce à Molière ;
+Car pour nos tableaux
+Il aurait fallu ses pinceaux.
+
+-*who_lariffardiere
+L'ouvrage nouveau,
+Après tout, ne saurait déplaire ;
+Car un nom si beau
+N'a jamais eu que des bravo.

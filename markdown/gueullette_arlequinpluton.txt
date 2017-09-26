@@ -1,0 +1,1787 @@
+---
+identifier: gueullette_arlequinpluton  
+creator: Gueullette Thomas-Simon  
+date: 1719  
+title: Arlequin-pluton. , comédie inédite en trois actes  
+---
+
+
+ARLEQUIN-PLUTON
+
+COMÉDIE INÉDITE EN TROIS ACTES.
+
+PRÉCÉDÉE D'UNE PRÉFACE
+
+M. DCC. XIX.
+
+PAR Thomas-Simon GUEULLETTE
+
+# .
+Cette pièce a été représentée par les comédiens italiens le 19 janvier 1719. Elle a été jouée ensuite en présence du Roi sur son petit théâtre des Tuileries. [1] [2]
+
+
+# PRÉFACE de 1889 de Charles Gueullette.
+
+Le succès obtenu l'année dernière par la parade inédite de Thomas-Simon Gueullette, les Fausses Envies, m'encourage à donner aujourd'hui Arlequin-Pluton du même auteur, une pièce également inédite, que le public du XVIIIe siècle a fort goûtée lors de son apparition, et à laquelle nos lecteurs modernes feront, je n'en doute pas, un accueil favorable.
+
+Thomas Gueullette, dont il a été longuement question dans notre préface des Fausses Envies, s'adonna d'une façon toute spéciale au théâtre italien ; et c'est en parlant de ce théâtre que nous allons le retrouver jouant sans cesse un rôle actif et mêlé invariablement à ses différentes transformations.
+
+Les acteurs italiens (nous le rappelons pour mémoire), après avoir une première fois visité la France en 1570, y revinrent officiellement sous Henri III, en 1576, et y firent, depuis cette époque, des stations de plus en plus fréquentes et de mieux en mieux goûtées du public, dont ils gagnèrent à ce point les bonnes grâces qu'ils éclipsèrent, pour un moment, la gloire des comédiens français. On n'a pas oublié le fameux Scaramouche (Fiurelli), qui eut l'honneur de faire rire aux larmes Louis XIV en bas âge, et qui dut, aux traces que cette hilarité abondante laissa sur ses vêtements, les faveurs particulières dont il jouit toute sa vie. On se souvient aussi de la brillante campagne de 1662 à 1688, où s'illustrèrent les inimitables zanni Locatelli et Dominique, le premier jusqu'en 1671 dans le rôle de Trivelin, le second dans celui d'Arlequin.
+
+Le théâtre italien, qui avait fait son chemin malgré la cabale et qui s'était définitivement conquis une place au soleil, disparut en 1697 pour s'être permis quelques allusions à la pruderie grincheuse de Mme de Maintenon. Mais, en 1716, des jours meilleurs ayant lui, la troupe de Louis Riccoboni, mandée de Parme par le régent, s'installait à l'Hôtel de Bourgogne, et, sept années plus tard, par autorisation royale, elle gravait les armes de France sur la porte principale du bâtiment, et inscrivait au-dessus en lettres d'or : "Hôtel des comédiens italiens ordinaires du roi, entretenus par Sa Majesté, rétablis en France en l'année MDCCXVI".
+
+Je n'ai pas mission d'énumérer les différentes étoiles de la scène italienne ; mais, fidèle à mon sujet, je dirai quelques mots des acteurs inscrits en tête d' Arlequin-Pluton pour paraître dans la reprise de cette charmante pièce.
+
+Dominique, qui devait jouer le rôle de Pluton, n'était autre que le fils du fameux Dominique Biancolelli. Auteur et acteur comme son père, il fut reçu à la fin de la foire Saint-Laurent (1717), et débuta le 11 octobre sur le théâtre de l'hôtel de Bourgogne.
+
+Thomassin Vicentini (Arlequin) faisait partie de la troupe de début en 1716. C'est le père de Catherine (Violette), reçue dans la compagnie en 1727, et du comédien Vicentini, que la préface du Nouveau Théâtre italien porte comme ayant joué, à l'âge de cinq ans, le rôle du petit Arlequin dans la pièce de Gueullette (19 janvier 1719).
+
+Romagnesi (Cinthio, un Suisse), qui débuta le 15 avril 1725 dans le rôle de Lélio de la Surprise de l'amour, était le petit-fils d'Antonio Romagnesi, de l'ancienne troupe italienne. Auteur dramatique en même temps qu'acteur, comme la plupart de ses camarades, il donna différentes pièces qui eurent du succès, et collabora avec Dominique et Riccoboni fils.
+
+Pagheti, désigné pour le triple rôle de Pasquin, de Mathanasius et de l'Aubergiste, avait joué aux foires Saint-Germain et Saint-Laurent avant de paraître sur le théâtre de l'hôtel de Bourgogne, où il fit ses débuts en 1720. Sa mort, survenue le 14 novembre 1732, témoigne que les rôles d'Arlequin-Pluton avaient été distribués bien avant l'époque fixée pour sa reprise.
+
+Giuseppe Baletti , autrement dit Mario (Mercure), figurait déjà pour remploi d'un amoureux sur la liste de 1716, et nous le retrouvons en 1752 avec la même qualité. Il était alors doyen de la troupe.
+
+Benozzi (Scaramouche et Caron) était frère de la célèbre Silvia,dont nous parlerons tout à Theure. Il débuta le 3 mars 1732 dans une pièce de l'ancien théâtre italien : Colombine avocat pour et contre.
+
+Fabio Sticotti (Pantalon) débuta le 5 janvier 1733, et tint son emploi jusqu'en 1741, date de sa mort.
+
+Melle Belmont (une femme bel esprit, ou Mme Romanville) était tante de Romagnesi et femme du petit-fils de la grande comédienne Aurélia, favorite de la reine Anne d'Autriche.
+
+Cette dernière, qui abandonna le théâtre en 1683, vécut jusqu'à l'âge de quatre-vingt-dix ans, et Melle Belmont se souvenait parfaitement de l'avoir vue sur son lit de parade aux derniers temps de sa vie, toujours coquette et extrêmement parée. Melle Belmont avait débuté le 1er juin 1728 dans la Femme jalouse.
+
+Mme Thérèse Lalande (Proserpine), actrice française, débuta dans la pièce de Danaé, le 17 août 1721, par les rôles de Junon et de Colombine. Elle mourut le 16 décembre 1738, âgée de quarante-sept ans.
+
+Melle Silvia, qui devait remplir dans la reprise d'Arlequin-Pluton le double rôle de son nom et de Mzlle Descoulisses, était Pactrice la plus renommée de sa compagnie. Originaire de Toulouse et enrôlée dans la troupe de début en 1716, Zanetta Rosa (Silvia) Benozzi remplit pendant quarante-huit ans les rôles d'amoureuses avec la même vivacité, la même finesse et la même illusion. « Un volume suffirait à peine, dit Desboulmiers, pour contenir tous les éloges qu'elle a reçus tant en prose qu'en vers. » Et il cite tout entière la fable de Protée, qui lui fut adressée, et dont nous extrayons le quatrain suivant :
+
+Qui de nos moeurs si bien nous traça la peinture,
+
+Tant d'agrément sur la scène employa,
+
+Sauva mieux l'art, rendit mieux la nature,
+
+Que fait l'aimable Silvia ?
+
+Une particularité intéressante : Gueullette, qui abandonnait d'ordinaire ses droits d'auteur aux acteurs de ses pièces, fit don de sa dernière, l'Horoscope accompli, à Melle Silvia. Nous fermons sur ce nom, devenu célèbre, la liste des acteurs désignés pour notre pièce.
+
+La troupe de Riccoboni, à son arrivée à Paris (1716), commença par jouer en italien ; mais le public demandait à comprendre, et on eut l'heureuse idée de publier le français en regard de la pièce originale ; puis on imprima également en français les arguments avec le détail de chaque scène et de ce que les acteurs y devaient dire. Mais on laissait à la disposition du comédien la forme même du dialogue, et en cela on se conformait aux aptitudes des Italiens, qui improvisaient les paroles avec une sagacité merveilleuse. Riccoboni était très fier de ce don d'improvisation, comme il l'exprime dans son Histoire du Théâtre italien ; et Gherardi, dans le tableau qu'il fait d'un acteur jouant simplement de mémoire, le compare aux échos qui ne parleraient jamais si d'autres n'avaient parlé avant eux. « Un comédien de cette sorte, conclut-il, est comme un bras paralytique. La seule différence que je trouve entre le bras mort et le membre inutile de la comédie, c'est que, si le premier ne sert de rien au corps, il est certain qu'il n'en reçoit aucune nourriture ; mais le dernier ne laisse pas de recevoir autant de nourriture que les acteurs qui fatiguent le plus et qui sont le plus nécessaires. »
+
+Quoi qu'il en soit, les comédies finirent par être imprimées de toutes pièces, divisées et dialoguées en français par l'auteur lui-même : c'est la troisième et dernière transformation du théâtre italien, et ici encore nous retrouvons Gueullette, dont le nom aura sans cesse été mêlé à l'histoire de ce théâtre.
+
+En effet, si les frères Parfaict ont signé leur ouvrage, ils le disent dans leur préface : « Nous annonçons de bonne foi que L'Histoire de l'ancien Théâtre italien que nous donnons aujourd'hui est presque toute due à M. Gueullette, qui, pour sa propre satisfaction, a rassemblé la plus grande partie des matériaux qui la composent.
+
+Le catalogue de Louis Riccoboni embrasse les pièces parues de 1500 à 1650, et le recueil d'Évariste Gherardi comprend les comédies jouées du 22 janvier 1682 au 2 mars 1697 ; mais il existait entre ces deux périodes une lacune considérable, et c'est Gueullette qui se chargea de la combler en analysant le répertoire de Dominique, formé de quarante comédies représentées en France de 1662 à 1674, et parmi lesquelles nous citons: « Il Basilico di Bernagasso », « I Tre Ladri scoperti », « Il Rimedio a tutti mali », « Mondo allo rovescio », « Arlecchino creato re perventura », « Aggianta al Convitato di pietra », etc. Le concours de Thomas Gueullette en cette circonstance est, ne l'oublions pas, d'autant plus précieux que le manuscrit où Dominique donnait les canevas des pièces de son temps a été perdu, et que les analyses de notre auteur sont bien faites pour le remplacer.
+
+Mais le nouveau théâtre italien s'est installé (1716), et Gueullette, auteur dramatique, maintenant va le suivre dans ses différentes transformations, qu'il marquera par quelqu'une de ses oeuvres.
+
+Comme échantillons des pièces italiennes, avec le français en regard, nous avons de lui la traduction de « La vie est un songe » (10 février 1717) et d'Adamire, ou la Statue de l'Honneur (12 décembre de la même année).
+
+Le 15 mars 1718 paraissent les « Comédiens par hasard », avec l'Anneau de Brunel en second acte, pièce où l'indication détaillée des scènes et du dialogue remplace le dialogue lui-même.
+
+Enfin, Gueullette donne les quatre comédies suivantes, qui seront jouées telles qu'elles sont écrites, et auxquelles il ne manque rien pour la scène : « Arlequin-Pluton » (19 janvier 1719), « le Trésor supposé » (7 février 1720), « l'Amour précepteur » (25 juillet 1726), enfin « l'Horoscope accompli » (6 juillet 1727).
+
+Des sept pièces que nous venons d'énumérer, cinq sont imprimées; deux seulement, « Arlequin-Pluton » et « les Comédiens par hasard », sont inédites. Nous publions aujourd'hui la première, réservant pour plus tard la seconde, à laquelle sera jointe une surprise bibliographique. Ainsi sera complétée l'oeuvre théâtrale de Gueullette, à la satisfaction du lecteur, nous l'espérons, et aussi à notre satisfaction à nous-même, qui accomplissons un devoir de famille en reportant l'attention du public sur cet ancêtre que le XVIIIème siècle eut en haute estime.
+
+Désireux de ne point allonger ma préface outre mesure, je n'insisterai pas sur les cinq pièces imprimées, qu'on trouvera dans le Nouveau Théâtre italien de Louis Riccoboni, et je me bornerai à donner sur elles quelques renseignements indispensables.
+
+« La vie est un songe » (en italien La vita è un sogno), est une tragi-comédie en cinq actes traduite par Gueullette du poète Cicognini, qui lui-même l'avait tirée de la pièce espagnole « La vida es sueño », chef-d'oeuvre de Calderon. Par la suite, de Boissy en donna une imitation en vers libres, réduite à trois actes ; mais, malgré le jugement élogieux de Desboulmiers, la pièce de ce dernier est bien inférieure à son modèle, en ce qu'elle supprime de fort beaux passages et que la versification en est lourde et insuffisante. La comédie de Cicognini, traduite par Gueullette, est imprimée dans le 2ème volume du Nouveau Théâtre italien (édition de 1729).
+
+« Adamire, ou la Statue de l'Honneur » (Adamira, o la Statua del Onore), tragi-comédie en cinq actes, comme la précédente, appartient en propre au poète Cicognini. Elle a été imprimée, avec la traduction de Gueullette en regard, dans le 3ème volume du Nouveau Théâtre italien (même édition); mais les éditions postérieures à 1729 ne la donnent plus, ainsi que l'explique l'avertissement du libraire de 1753. « On me fit comprendre, y est-il dit, que ces morceaux italiens, ne plaisant pas à tout le monde, pourraient faire tort au débit de l'ouvrage en France. Pour me conformer à cet avis, je les retranchai de ce livre dès 1733, et je formai un corps de ces morceaux, que je réunis en 3 volumes in-12, et que je vendrai soit conjointement, soit pièce par pièce. »
+
+Avant d'être imprimée dans le Nouveau Théâtre italien, « Adamire », traduite par Gueullette, avait été publiée « chez Antoine-Urbain Coustelier, libraire-imprimeur de S. A. R. Mgr le duc d'Orléans, régent, MDCCXVII »; mais cette édition est presque disparue, et l'exemplaire de la bibliothèque de l'Arsenal, nous apprend Henri Nicolle, se présente comme une précieuse plaquette.
+
+« Le Trésor supposé », comédie française en trois actes, qui avait été représenté pour la première fois le 7 février 1720, fut remis au théâtre, avec des changements, en avril 1731. Il est imprimé en tête du 2ème volume du Nouveau Théâtre italien (édition de 1753). M. de Paulmy, qui juge l'oeuvre sévèrement, avoue cependant qu'elle a été substituée au Port-à-l'Anglais dans l'édition de 1769. En considérant, d'un autre côté, qu'elle fut reprise onze ans après sa première apparition, nous concluons au moins qu'elle était dans le goût du public.
+
+« L'Amour précepteur », comédie française en trois actes, avec un divertissement, est imprimé en troisième pièce dans le 8ème volume du Nouveau Théâtre italien (édition de 1729), et en cinquième pièce dans le 5ème volume du même ouvrage (édition de 1753). Desboulmiers, qui en fait une analyse assez complète dans son Histoire anecdotique (2ème volume), en parle avec éloge et constate qu'il fut bien accueilli du public. Les chansons, d'après Riccoboni, seraient de M.d'Y..., sieur du M... (d'Yvry, sieur du Mesnil). Rien n'est plus douteux ; les Notices de Gueullette ne le disent point, et le Nouveau Théâtre lui-même, qui donne ce détail en 1729, le supprime dans l'édition de 1753.
+
+« L'Horoscope accompli », pièce française en un acte, que nous lisons en cinquième pièce dans le 8ème volume du Nouveau Théâtre italien (édition de 1729), et en septième pièce dans le 6ème volume (édition de 1753), a été l'objet, de la part de Desboulmiers, d'une analyse de onze pages. Le critique y constate la faveur dont il a joui, et il ajoute, à propos de son auteur : « M. Gueullette est déjà connu par plusieurs pièces dont la plupart ont été jouées avec succès, et par conséquent rappelées dans cet ouvrage avec éloge. Il nous en resterait beaucoup plus à lui donner si nous n'étions obligé, par la forme de cet ouvrage, de ne parler seulement que du mérite littéraire et des talents dont les auteurs ont fait preuve sur le théâtre italien ». « L'Horoscope accompli », qui, d'après les registres de la Comédie, n'eut d'abord que six représentations consécutives, fut souvent rejoué depuis. De Paulmy, satisfait cette fois, écrit en note, sur son exemplaire du Nouveau Théâtre italien : « L'Horoscope accompli est une très jolie pièce de M. Gueullette ; elle eut beaucoup de succès et elle a été souvent reprise. C'est la dernière pièce que M. Gueullette ait donnée au théâtre, bien qu'il ne soit mort qu'en 1766, âgé de quatre-vingt-trois ans. » La même note ajoute : « Ses vaudevilles ont tant de succès qu'ils sont connus de tout le monde. »
+
+Nous voici arrivés aux deux pièces inédites qui complètent l'oeuvre dramatique de Thomas Gueullette, et que nous avons réservées pour la fin. Elles prennent date entre la traduction d'« Adamire » et la comédie originale le « Trésor supposé ».
+
+La première, sous forme de dialogue à la troisième personne, est intitulée, comme nous l'avons dit, les Comédiens par hasard. Elle a trois actes, en y comprenant « l'Anneau de Brunel », qui sert de second. L'argument s'en trouve aux pages 70 et 73 du 1er volume du Nouveau Théâtre italien (édition de 1729).
+
+« L'auteur, rapporte cet ouvrage, supprima depuis L'Anneau de Brunel, et M. Lélio lui substitua les Deux Arlequines, petite comédie de sa composition. » Nous remarquerons en passant que, Louis Riccoboni et Lélio étant tout un, si L'Anneau de Brunel fut écarté, ce ne fut pas certes du fait de son auteur. La pièce de Gueullette, écrite tout entière de sa main, existe dans la collection Soleinne, d'où nous comptons bien la tirer un jour pour en faire hommage au public, ainsi que nous l'avons promis.
+
+« Arlequin-Pluton », objet de notre publication actuelle, est, nous apprend le catalogue du Nouveau Théâtre italien, une comédie en trois actes, jouée d'abord, le 19 janvier 1719, avec des scènes italiennes que l'auteur mit plus tard en français. Le vaudeville, qui seul a été imprimé, figure dans le tome Ier du Nouveau Théâtre italien (édition de 1753), avec la musique à la fin du volume; mais ce vaudeville lui-même a été tronqué : le nom des personnages y est supprimé, et l'avant dernier couplet a été sauté par l'éditeur. Desboulmiers , après la courte analyse qu'il donne à l'« Arlequin-Pluton » dans son Histoire anecdotique, annonce que la pièce est tirée du « conte de Zagacrift », roi d'Ethiopie ; que les spectacles, les danses et la musique sont de la composition de Mouret, et que cette comédie fut très accueillie du public; puis il ajoute, en forme de critique : « On peut cependant assurer, sans faire tort au mérite de M. Gueullette, qui en est l'auteur, et dont la réputation est établie par beaucoup d'autres succès, qu'elle serait moins favorablement reçue aujourd'hui... Le bon goût a heureusement confiné sur les planches de l'Opéra tous ces personnages imaginaires, et nous ne verrons plus, sur nos théâtres raisonnables, les dieux et les déesses, les Vices et les Vertus, débiter des madrigaux et faire des gargouillades. »
+
+Evidemment Desboulmiers se trompait quand, en 1769, il prétendait que dieux et déesses étaient à jamais bannis de nos théâtres. L'Olympe, dont s'amusait le public d'alors, récrée encore notre public d'à présent, et les temps ne sont pas éloignés où tout Paris se pâmait d'aise aux gargouillades d'« Orphée aux enfers ». Quant au succès d'« Arlequin-Pluton », il fut plus sérieux et moins éphémère que ne le juge Desboulmiers. Le manuscrit sur lequel nous avons copié le renseignement témoigne en effet que la pièce fut jouée en présence du roi, sur son petit théâtre des Tuileries, et qu'en 1735, c'est-à-dire seize ans après son apparition, elle dut être remise à la scène : « Les rôles avaient été distribués, et si elle ne fut point reprise, c'est qu'il y eut probablement quelque nouveauté qui en empêcha la représentation. »
+
+La comédie d'« Arlequin-Pluton » était, par conséquent, dans les goûts du XVIIIème siècle, et elle aurait, j'en suis convaincu, l'agrément de nos spectateurs contemporains, s'il venait à un directeur l'idée de la remonter. C'est une pièce très fine, d'une invention ingénieuse et d'une originalité piquante ; le dialogue en est vif, spirituel, et chaque personnage s'y montre dans son caractère. Nous observerons, en outre, que le lettré perce toujours chez Gueullette, alors même qu'il traite un sujet comique. Dans « l'Amour précepteur », Flaminia et son valet Trivelin, tous deux travestis en docteurs, soutiennent une thèse rimée sur les grands hommes de l'antiquité. Dans son Arlequin-Pluton, l'auteur fait débiter à son héros une amusante parodie des imprécations d'Oreste, et ménage aux Tartares un assaut d'élucubrations burlesques entre les ombres de Mathanasius et de Melle Romanville, deux beaux esprits de leur temps. Quant à la mise en scène, nous notons les changements à vue obligés, un enfer où les diables et les furies se confondent en dépit de leur origine, enfin l'éternelle intervention des monstres quand il s'agit de fermer la route à un indiscret, procédé que nos féeries françaises exploitent de nos jours à grand renfort de figurants et de décors, mais que nous avons été curieux de retrouver dans sa simplicité primitive sur un théâtre de Barcelone, où nous assistions dernièrement à une nouvelle pièce du cru : « lo Rellotje del Montseny. »
+
+17 mai 1879.
+
+Charles Gueullette.
+
+
+# ACTEURS.
+ – PLUTON. - Dominique.
+ – PROSERPINE. - Lalande.
+ – PANTALON.
+ – VIOLETTE, file de Pantalon - Catherine.
+ – ROSETTE, file de Pantalon - Babiche.
+ – ARLEQUIN.
+ – SILVIA, nièce de Pantalon.
+ – CINTHIO, amant de Silvia - Romagnesi.
+ – PASQUIN, valet de Pantalon - Pagheti.
+ – SCARAMOUCHE.
+ – MERCURE. - Mario.
+ – CARON. - Scaramouche.
+ – UN PETIT ARLEQUIN.
+ – UNE PETITE ARLEQUINE.
+
+
+# OMBRES.
+ – MATHANASIUS. - Pagheti.
+ – UNE FEMME BEL-ESPRIT. - Belmont.
+ – UNE COMEDIENNE. - Silvia.
+ – UN AUBERGISTE. - Pagheti.
+ – UN SUISSE. - Romagnesi.
+ – DIABLES.
+ – PAYSANS.
+ – PAYSANNES.La scène est en Sicile, partie sur terre et partie aux enfers.
+
+
+# ACTE I.
+
+
+## SCÈNE PREMIÈRE. Pluton, Proserpine.
+La scène est au devant des enfers.
+
+
+    PROSERPINE.
+Vous voilà galamment vêtu, seigneur Pluton, et l'on aurait de la peine à reconnaître sous ce déguisement le Dieu des Enfers. Peut-on vous demander quelle est l'heureuse mortelle que vous honorez aujourd'huI de vos faveurs ?
+
+    PLUTON.
+Quoi ! Morbleu ! Madame, vous me persécuterez sans relâche, et vos jalousies continuelles ne me donneront jamais un moment de repos ?
+
+    PROSERPINE.
+Il vous sied bien, vraiment, de le prendre sur ce ton, et vous avez bonne grâce de trouver à redire aux tendres reproches d'une femme qui vous aime !
+
+    PLUTON.
+Et, ventrebleu ! Aimez-moi un peu moins si vous voulez être plus aimable à mes yeux : car enfin, les vacarmes que vous faites ici à tout propos m'obligeront d'en venir avec vous à une rupture ouverte, et pour peu que vous continuiez vos extravagances...
+
+    PROSERPINE.
+Qu'est-ce à dire, extravagances ? Sachez qu'il n'y a rien de ridicule dans ma conduite ; vous êtes mon mari, une fois...
+
+    PLUTON.
+Que trop, dont j'enrage ! Maudit soit le jour que je pensai à vous enlever ! Je n'ai pas joui d'une heure de tranquillité depuis que j'ai fait cette sottise ; si elle était encore à refaire, vous ne me désoleriez pas tous les jours.
+
+    PROSERPINE. [3]
+Fort bien ! Ne devriez-vous pas rougir de pareils sentiments ? Il vous convient bien, à votre âge, de faire encore le galant et de vous habiller comme un baladin pour plaire à quelques petites créatures !...
+
+    PLUTON. [4]
+Fi ! La jalouse !
+
+    PROSERPINE.
+Et n'ai-je pas raison de l'être ?
+
+    PLUTON.
+Apprenez, ma petite mignonne, que si l'un de nous doit être jaloux, c'est moi qui ai lieu de l'être. Vous êtes tous les ans six mois sur la terre ; chacun vous y fait la cour. Cependant je n'y trouve point à redire : la jalousie est une passion trop bourgeoise ! Et moi, pauvre diable, je passe toute l'année dans ce lieu de tristesse, où la moitié du temps je suis pour ainsi dire veuf.
+
+    PROSERPINE.
+Je crois que ce n'est pas là votre plus mauvais moment.
+
+    PLUTON.
+Aussi je ne m'en plains pas autrement. Il est bien juste que je prenne aussi l'air pour me rafraîchir, et, si vous étiez raisonnable...
+
+    PROSERPINE.
+Raisonnable ! Ne vous y trompez pas, c'est la qualité dont les femmes se piquent le moins avec leurs maris, et je n'irai pas, pour vous plaire, tourner le dos à la multitude.
+
+    PLUTON.
+Faites comme il vous plaira, je ne veux plus être contrôlé.
+
+    PROSERPINE.
+Vous me poussez à bout. Je vous suivrai partout... Je veux connaître ma rivale.
+
+    PLUTON.
+Votre rivale ?
+
+    PROSERPINE.
+Oui. Vos fréquentes liaisons avec Mercure me font soupçonner votre fidélité.
+
+    PLUTON.
+N'est-il pas ainsi de tous les autres dieux ?
+
+    PROSERPINE.
+Tant pis pour eux. Il est cause de notre mauvais ménage !
+
+    PLUTON, À PART.
+Elle devine assez juste... Mais prenons un ton ferme.
+Haut.
+
+Savez-vous que je veux être obéi ?
+
+    PROSERPINE.
+Obéi ! Ciel ! Obéi ! Une femme obéir à son mari ! On voit bien que vous ignorez l'usage du beau monde.
+
+    PLUTON.
+Usage ou non, rentrez dans les enfers.
+
+    PROSERPINE.
+Je n'en ferai rien.
+
+    PLUTON.
+Je ferai venir une légion de diables.
+
+    PROSERPINE.
+Et moi une légion de femmes. Nous verrons qui l'emportera.
+
+    PLUTON.
+Holà ! Qu'on la conduise dans les Enfers, qu'on la garde à vue jusqu'à mon retour !
+Des diables font rentrer Proserpine.
+
+
+
+## SCÈNE II.
+
+    PLUTON, SEUL.
+Ah ! Je respire à la fin. Presque tous les hommes qui descendent ici-bas se plaignent de leurs femmes. Puisque les dieux ne sont pas exempts de leur mauvaise humeur, je ne dois pas m'en étonner. Mercure me fait bien attendre. Je ne sais s'il aura réussi auprès de l'aimable Violette et s'il lui a laissé ignorer qui je suis. Mais le voici.
+
+
+## SCÈNE III. Pluton, Mercure.
+
+    PLUTON.
+Satisfais, je te prie, mon impatience. As-tu parlé à Violette de la force de mon amour ? Puis-je me flatter...
+
+    MERCURE.
+Quelle vivacité ! Vous n'avez pas affaire à une déesse, pour en espérer si bonne composition. J'ai trouvé le secret de tromper Pantalon, le père de Violette, et d'expliquer à celle-ci votre tendresse.
+
+    PLUTON.
+Que dois-je espérer ?
+
+    MERCURE.
+Violette n'est pas pour vous.
+
+    PLUTON.
+Que m'apprends-tu ?
+
+    MERCURE.
+Nos soupçons sont justes : elle aime Arlequin et n'est pas d'avis de négliger un établissement solide pour un amour de passage. À moins d'un mariage dans les formes...
+
+    PLUTON.
+Il faudrait donc pour cela répudier Proserpine.
+
+    MERCURE.
+Gardez-vous-en bien ! Elle ferait un vacarme de tous les diables. Mais faites mieux... Silvia, cousine de Violette, ne serait pas si difficile. Elle a pris pour elle les douceurs que vous disiez à l'autre, et je suis chargé de vous apprendre qu'elle vous aime.
+
+    PLUTON.
+Un bonheur précipité me dégoûte. D'ailleurs la résistance de Violette irrite mes désirs : je veux vaincre sa fierté.
+
+    MERCURE.
+Cela ne sera pas aisé. Mais, sans répudier Proserpine, prenez Violette pour femme d'été ; peut-être en amènerez-vous la mode, comme de changer de meubles aux quatre saisons.
+
+    PLUTON.
+Le remède serait plus que le mal.
+
+    MERCURE.
+Faites-lui du moins espérer qu'elle deviendra votre femme. Elle vous croit un seigneur voisin de son père : cette fortune apparente l'éblouira et la fera répondre à vos désirs.
+
+    PLUTON.
+Tu me rends la vie. Ne m'abandonne point et compte sur ma reconnaissance.
+
+    MERCURE. [5]
+Je vais travailler pour vous. Mais n'allez pas prendre auprès de cette fille des airs de petit-maître, si communs aujourd'hui parmi nos dieux. Ils pourraient la révolter.
+
+    PLUTON.
+Je ne donne point dans le ridicule des hommes. Tu en peux juger par l'habit que j'ai pris pour voir ma maîtresse.
+
+    MERCURE.
+Quoique ce soit par mon conseil que vous ayez pris l'habit d'Arlequin, peut-être n'avez-vous pas mieux fait. Un bel habit donne dans la vue ; les femmes aiment le faste.
+
+    PLUTON.
+Trop de parure l'aurait peut-être effarouchée. Mes présents feront mieux. Silvia s'est ressentie de mes libéralités, et avec cette bourse et ton secours je viendrai à bout de mes desseins.
+
+    MERCURE.
+Suivez-moi donc.
+
+
+## SCÈNE IV. Arlequin, Pasquin.
+Le théâtre représente une campagne et la maison de Pantalon.
+
+
+    PASQUIN. [6]
+Eh bien ! Mon cher Arlequin, il y a une heure que je vous suis comme un barbet sans tirer de vous une seule parole. Dites-moi donc le sujet de votre mélancolie.
+
+    ARLEQUIN.
+Pasquin amato, Pasquin amabile e carissimo amico, Pasquin Pasquinissimo.
+
+    PASQUIN.
+Me voilà bien instruit ! Serviteur à votre discrète et taciturne personne.
+
+    ARLEQUIN.
+Ne m'abandonne pas, je t'en conjure. Tu vois en moi le miroir des loyaux amants et le prototype d'un chevalier de la triste figure.
+
+    PASQUIN.
+Comment diable ! Voilà du haut style.
+
+    ARLEQUIN.
+Ah ! Caro amico, je suis mort ! L'ingrate Violette reçoit si mal ma tendresse qu'il m'est impossible de survivre à son infidélité.
+
+    PASQUIN.
+Que me dites-vous là ? Lui en avez-vous donné quelque sujet ?
+
+    ARLEQUIN.
+Nullement ; je n'ai jamais manqué une occasion de lui plaire. Prenait-elle la clé de la cave, je me saisissais de la chandelle et d'un verre ; je portais la main sur le robinet de la fontaine ; j'emplissais sa cruche et je n'oubliais jamais de boire cinq ou six rasades à sa santé, auxquelles elle répondait avec affection.
+
+    PASQUIN.
+Fort bien.
+
+    ARLEQUIN.
+Faisait-elle quelque fricassée : « Arlequin, me disait-elle, trempe ton doigt dans la sauce. » Moi, avec un courage de héros, je portais un doigt intrépide dans le milieu de la casserole. « Ah ! Belle Violette ! La canelle, le citron, le fromage de Milan, dominent autant dans ce ragoût que vous êtes supérieure en beauté aux jeunes filles de ce canton. »
+
+    PASQUIN.
+Voilà des compliments admirables.
+
+    ARLEQUIN.
+Une autre fois, tournant la broche : « Belle Violette, lui disais-je, vous allez vous brûler le visage. Le mien, déjà rissolé au feu de vos beaux yeux, soutiendra mieux cette fatigue. » Elle avait la complaisance de me mettre la broche à la main. Plus content alors qu'un roi de Cocagne, j'avalais avec plaisir les lardons que je tirais de la poularde, et je baisais tendrement la menotte ou le petit museau de cette scélérate. De la poularde à Violette, de Violette à la poularde, je prenais souvent l'une pour l'autre.
+
+    PASQUIN.
+Oh ! Cher bel imbroglio ! Mais je ne vois rien qui doive tant vous affliger !
+
+    ARLEQUIN.
+Cet heureux temps n'est plus ! Je n'ai que des marques d'aversion et c'est ce qui fait mon désespoir. Je n'ai rien à me reprocher. J'ai toujours été droit en besogne avec elle.
+
+    PASQUIN.
+Je lui parlerai comme il faut, et je saurai pourquoi elle vous traite avec tant de dureté. Je vous apporterai de bonnes nouvelles.
+
+    ARLEQUIN.
+Tu me rends la vie. Puisque tu es le fidèle dépositaire de mes plus secrètes pensées, tu seras l'heureux pilote qui conduira mon vaisseau battu par la tempête de la mauvaise humeur de Violette dans le port désiré de ses affections.
+
+
+## SCÈNE V.
+
+    SILVIA.
+Enfin, me voilà seule, et je puis m'entretenir de la nouvelle passion que je ressens pour le riche inconnu !... Cinthio ne me touche plus. Y a-t-il à balancer ? Il est concierge du château de ce bourg ; la plaisante fortune en comparaison de l'autre !... Son confident est dans mes intérêts; il ne nuira pas à la réussite de cette affaire. Mon oncle, à la vérité, a des obligations infinies à Cinthio... Qu'est-ce que cela me fait ? Suis-je obligée de payer ses dettes ? Qu'il lui fasse épouser ma cousine ! Le voici. Diantre soit de l'importun!
+
+
+## SCÈNE VI. Silvia, Cinthio.
+
+    CINTHIO.
+Qu'avez-vous, belle Silvia ? Vous me paraissez toute changée. Depuis huit jours vous ne m'avez pas dit une parole gracieuse.
+
+    SILVIA.
+Que voulez-vous que je vous dise ?
+
+    CINTHIO.
+Que vous m'aimez toujours avec la même ardeur.
+
+    SILVIA.
+Je ne saurais vous dire cela.
+
+    CINTHIO.
+Pourquoi, s'il vous plaît ?
+
+    SILVIA.
+C'est que cela n'est pas vrai.
+
+    CINTHIO.
+Ciel ! Ne m'avez-vous pas dit mille fois qu'il était impossible que votre tendresse pût augmenter ?
+
+    SILVIA.
+C'est pourquoi elle a beaucoup perdu de sa force. Tenez, Cinthio, l'amour ressemble à la lune : il diminue lorsqu'il ne peut plus croître.
+
+    CINTHIO.
+Quoi ! Silvia, vous ne m'aimeriez plus ?
+
+    SILVIA.
+Non, je suis toute naturelle. Si vous m'en croyez, vous chercherez fortune ailleurs.
+
+    CINTHIO.
+Avez-vous sujet de vous plaindre de moi ?
+
+    SILVIA.
+Au contraire. Celui que je vous préfère n'est pas si joli que vous.
+
+    CINTHIO.
+Pourquoi l'emporte-t-il donc sur moi ?
+
+    SILVIA.
+Il est riche, et en l'épousant je ne resterai pas longtemps sous un habit aussi simple.
+
+    CINTHIO.
+Silvia, cessons la raillerie.
+
+    SILVIA.
+Ce n'en est point une. Regardez ce brillant. Ce n'est qu'un petit échantillon de sa tendresse. Ma cousine en a bien d'autres, et elle n'est qu'en second dans cette intrigue !
+
+    CINTHIO.
+Il serait possible que vous eussiez changé ?
+
+    SILVIA.
+Pourquoi non ? Rien n'est si commun qu'une fille inconstante.
+
+    CINTHIO.
+C'est l'usage des villes ; mais au village...
+
+    SILVIA.
+À la ville comme au village, la femme est toujours la femme. Si les filles de ma condition sont plus réservées, c'est que les occasions leur manquent.
+
+    CINTHIO.
+Qui vous en a tant appris ?
+
+    SILVIA.
+Un petit séjour que j'ai fait à Naples, chez une de mes parentes. Et puis, mon pauvre Cinlhio, la seule nature fait chez nous plus d'opération en vingt-quatre heures que toute l'éducation que l'on donne aux hommes. À quinze ans une fille est faite, et souvent à trente un homme n'est qu'un sot.
+
+    CINTHIO.
+Quelle surprise !
+
+    SILVIA.
+Vous n'avez pas voyagé, puisque vous connaissez si peu les femmes.
+
+    CINTHIO.
+Oh ! Votre infidélité ne m'apprend que trop à les connaître ! On ne voit en vous rien de naturel que le désir de plaire.
+
+    SILVIA.
+Si vous êtes si bien instruit, devenez donc libre à votre tour.
+
+    CINTHIO.
+Perfide ! Je n'ai pas la force de vous imiter. Votre ingratitude me tue ; mais, avant de mourir, j'arracherai la vie à mon indigne rival.
+
+
+## SCÈNE VII. Silvia, Pasquin.
+
+    SILVIA.
+Ô Ciel ! Que va-t-il faire ? Je suis au désespoir... Pasquin, cours, je te prie, après Cinthio, qui veut se battre contre ce riche inconnu. Il est jaloux à la fureur.
+
+    PASQUIN.
+Quel intérêt Cinthio prend-il à ce qui regarde Violette ?
+
+    SILVIA.
+Comment ! Ce qui regarde Violette ?
+
+    PASQUIN.
+Elle vient de me faire confidence qu'elle aime assez mal à propos cet inconnu. Elle en est aimée passionnément.
+
+    SILVIA.
+Elle est folle, mon pauvre Pasquin. C'est moi qu'il aime.
+
+    PASQUIN.
+Point de chimères ! Allez au solide: Cinthio vous convient.
+
+    SILVIA.
+Je n'ai que faire de tes leçons. Si tu ne veux pas aller après lui, j'y vais moi-même.
+
+    PASQUIN.
+Suivons-la pour l'engager à rendre sa tendresse à son premier amant.
+
+
+## SCÈNE VIII. Pantalon, Violette.
+
+    PANTALON.
+À qui diantre en avez-vous donc ? Depuis quelques jours on ne voit que bouder dans cette maison. Vous êtes sur le point d'épouser Arlequin, et vous êtes triste !
+
+    VIOLETTE.
+Arlequin ? Quel mari me destinez-vous là ?
+
+    PANTALON.
+Avez-vous perdu l'esprit ? Le plus gentil, le plus amusant de nos garçons, et que vous aimez à la folie !
+
+    VIOLETTE.
+Il ne me plaît plus : tel est le sujet de ma tristesse.
+
+    PANTALON.
+Oh ! Oh ! Voilà du fruit nouveau ! Parbleu ! Je me moque de vos caprices. Vous m'avez demandé Arlequin, et vous l'épouserez. J'ai donné ma parole.
+
+    VIOLETTE.
+Je l'ai donnée à un autre.
+
+    PANTALON.
+Vous osez faire une pareille impertinence !
+
+
+## SCÈNE IX. Les précédents, Arlequin.
+
+    ARLEQUIN.
+Qu'avez-vous donc à quereller si fort ma maîtresse ?
+
+    PANTALON.
+Me tenir un tel discours !
+
+    ARLEQUIN.
+La, la ! Quoi ! Violette, vous ne voulez pas que je vous caresse ?
+
+    VIOLETTE.
+Laissez-moi... C'est par rapport à vous qu'il est si fort en colère.
+
+    PANTALON.
+Que lui va-t-elle dire ? Il faut cacher cette fantaisie, qui lui passera.
+
+    VIOLETTE.
+Oui, mon père, mon parti est pris, je n'épouserai point Arlequin.
+
+    ARLEQUIN.
+Ohimé ! Je suis mort!
+
+    PANTALON.
+À moins, dit-elle, que la noce se fasse aujourd'hui.
+
+    ARLEQUIN.
+Oh ! Je suis prêt à la contenter !
+
+    VIOLETTE.
+N'en croyez rien, Arlequin.
+
+    PANTALON.
+La pudeur l'empêche...
+
+    ARLEQUIN.
+O che' gusto ! Che' consolazione ! Che' allegrezza !
+Mercure, jouant de la flûte, les endort.
+
+
+
+## SCÈNE X. Les Précédents, Pluton, Mercure.
+
+    PLUTON.
+Que je t'ai d'obligations !
+
+    MERCURE.
+Point de compliments... Profitez de leur sommeil.
+
+    PLUTON.
+Qu'elle est belle ! Mais dissipe son assoupissement... Je n'aime point une beauté endormie.
+
+    MERCURE.
+Peut-être la trouverez-vous trop éveillée.
+Il la réveille.
+
+
+    VIOLETTE.
+Ô Seigneur ! C'est vous ? Mais j'aperçois mon père avec Arlequin.
+
+    PLUTON.
+Ils ne se réveilleront pas de sitôt. Je vous ai fait préparer une collation dans le détour du bois. Venez-y. Toi, Mercure, exécute mes ordres.
+Il paraît deux monstres. Mercure réveille Pantalon et Arlequin, qui crient à la vue des monstres.
+
+
+    ARLEQUIN.
+Violette ! Deux monstres épouvantables !
+
+    VIOLETTE.
+C'est le reste d'un songe fâcheux. J'ai rêvé bien plus agréablement : je viens de recevoir la foi de mariage d'un jeune seigneur.
+
+    ARLEQUIN.
+Ce n'est qu'un rêve.
+
+    VIOLETTE.
+La chose est réelle : voilà les présents de noce. Il m'attend, je cours le rejoindre. Il n'y a plus de Violette pour toi... Je vais devenir au moins comtesse.
+Ils veulent la suivre; les monstres les arrêtent. Cinthio et Scaramouche accourent.
+
+
+
+## SCÈNE XI. Pantalon, Arlequin, Cinthio, Scaramouche.
+
+    ARLEQUIN.
+Ah ! Mes amis, Violette suit son nouvel amant ! Venez, courons après son ravisseur.
+Ils le suivent.
+
+
+
+## SCÈNE XII.
+
+    PANTALON, SEUL.
+Je veux courir aussi après elle, mais les jambes me manquent. Que je suis à plaindre d'avoir une fille si extravagante ! On lui aura jeté un sort ; elle aimait trop Arlequin!
+
+
+## SCÈNE XIII. Pantalon, Arlequin, Cinthio, Scaramouche.
+
+    ARLEQUIN.
+Malheureux que je suis ! Il faut que ce soit un diable, puisqu'il m'a échappé. Malheureux Arlequin ! Perfide Violette ! Pantalon infortuné !
+
+    PANTALON.
+Comment cela se peut-il faire ?
+
+    ARLEQUIN. [7]
+Je n'en sais rien. Nous avons parcouru la campagne de l'orient à l'occident, du midi au septentrion, sans rien découvrir. Et je survivrais à un tel affront !... Te voilà seul ! Non, tu ne fus jamais moins seul : la douleur, la rage, la fureur, le désespoir, t'accompagnent. Ah ! Je la vois ! Courons après elle ! Mais un nuage m'arrête. Quel prodige ! Je marche, et je n'ai point de tête.
+
+    PANTALON.
+Son esprit s'égare.
+
+    ARLEQUIN. [8] [9]
+Si je n'ai plus de tête, à quoi bon ce chapeau ?... Plaît-il ?... Vous avez raison. Mais comment voulez-vous que je monte dans l'Olympe ? Vous n'avez pas le sens commun. Ah ! Voilà l'hippogriffe, le cheval d'Astolphe. Mignon !... Mignon !... Je suis dessus ! Je fends l'air ! Je vois l'étoile de Vénus, Mercure, Saturne... Ah ! Qu'il est laid !... Me voici devant le maître des dieux. Justice, messire Jupin, d'un fripon qui m'enlève ma maîtresse !
+
+    PANTALON.
+Il me prend pour Jupiter. Prêtons-nous à son extravagance. Arlequin, je te l'accorde. Retourne sur terre.
+
+    ARLEQUIN.
+Bonsoir, Messieurs. Mon cheval prévient mon impatience. Me voici dans les lieux où j'ai perdu Violette. Mon rival est avec elle ! Elle fuit, mais il ne m'évitera pas.
+Il bat Pantalon.
+
+
+    PANTALON.
+Ayuto ! Au secours !
+
+    ARLEQUIN.
+Enfin, je suis vainqueur. J'ai pourfendu le géant ! Ah ! Te voilà donc, scélérate ! Tu pleures la mort de mon rival ! N'espère pas me toucher avec tes larmes de crocodile.
+
+    PANTALON, À PART.
+Il me prend pour Violette. Faisons-le rentrer dans la maison.
+Haut.
+
+Arlequin, je te demande pardon de ma légèreté.
+
+    ARLEQUIN.
+Est-ce de bon coeur ?
+
+    PANTALON.
+Oui, cher petit bonhomme.
+
+    ARLEQUIN.
+Eh bien ! J'oublie ton infidélité. Viens que je t'embrasse... Violette a de la barbe !... Ciel ! C'est son amant ! Je croyais l'avoir tué.
+Il le bat.
+
+
+    PANTALON.
+Ayuto ! Misericordia !
+
+    ARLEQUIN.
+Mais que vois-je ? À mon nez Violette l'embrasse !  
+L'insolente lui rit et me fait la grimace !  
+Quels regards effrontés elle tourne vers moi !  
+Dieux ! Quel charivari traîne-t-elle après soi !  
+De poêles, de chaudrons, quel burlesque équipage !  
+Dans tes meubles il faut que je fasse tapage.  
+De sales marmitons quel cortège la suit !  
+Viennent-ils m'enlever dans l'éternelle nuit ?  
+Venez ! À vos fureurs Arlequin s'abandonne !  
+Mais je vois au galop s'éloigner la friponne.  
+Oh! sans perdre de temps à faire l'enragé,  
+Périssons, ou vengeons notre amour outragé.  
+Il s'enfuit.
+
+
+    PANTALON.
+Arrête! arrête !
+
+
+# ACTE II.
+
+
+## SCÈNE PREMIÈRE. Silvia, Rosette.
+
+    SILVIA.
+Ciel ! Peut-on voir une pareille trahison ? Le perfide ! Enlever Violette presque en ma présence ! Ah ! Cinthio, que vous êtes bien vengé de mes mépris !
+
+    ROSETTE.
+Qu'avez-vous donc, ma cousine, pour être si fâchée ?
+
+    SILVIA.
+Mon Dieu !
+
+    ROSETTE.
+Vous aviez tout à l'heure la larme à l'oeil et vous nommiez Cinthio. Je gage que c'est lui qui vous a encore querellée. Il n'a qu'à revenir, je lui fermerai la porte au nez.
+
+    SILVIA.
+Ce n'est point là ce qui m'afflige : c'est l'enlèvement de votre soeur.
+
+    ROSETTE.
+Vous êtes bien bonne de vous affliger de si peu de chose ! Pour moi, j'en suis bien aise.
+
+    SILVIA.
+Et pourquoi ?
+
+    ROSETTE.
+Parce qu'elle me querellait sans cesse. Elle disait que je serais bientôt une petite coquette, parce que je me regardais à son miroir, qu'à votre exemple je me rengorgeais à tout moment, et que je disais que je voudrais bien avoir des amants.
+
+    SILVIA.
+Et savez-vous ce que c'est ?
+
+    ROSETTE.
+Oh que oui ! Je vous ai entendue plusieurs fois jaser avec le vôtre. J'ai retenu surtout une conversation que vous eûtes avec lui il y a quinze jours.
+
+    SILVIA.
+Je n'en ai pas la moindre idée.
+
+    ROSETTE.
+Tenez, c'était le jour de votre fête. Cinthio vous apporta un bouquet que vous ne vouliez pas recevoir. « Belle Silvia, vous dit-il, qu'ai-je fait pour tant de rigueur ? » À cela vous ne répondiez rien. Il ne se rebuta point, vous prit la main, qu'il baisa plus de vingt fois. Sa soumission vous attendrit ; vous reçûtes son bouquet, et vous passâtes dans le petit cabinet pour achever de vous coiffer. Je ne pus entendre le reste ; mais je vis... Hum !...
+
+    SILVIA.
+Que vîtes-vous ? Vous me feriez presque rougir.
+
+    ROSETTE.
+Vous pouvez rougir en sûreté : personne ne nous écoute, et je suis discrète. Je vis Cinthio attacher le bouquet à côté de votre sein, ensuite se payer de ses peines par un baiser qui vous rendit toute interdite.
+
+    SILVIA.
+Vous avez dû voir aussi que je le grondai.
+
+    ROSETTE.
+Oui, mais vous n'étiez pas en colère.
+
+    SILVIA.
+Taisez-vous.
+
+    ROSETTE.
+Ne vous fâchez pas, car je dirais tout à mon oncle. Baisez-moi plutôt, pour me marquer que vous ne m'en voulez plus.
+
+    SILVIA.
+Je le veux bien, mais aux conditions que vous ne direz rien, quoiqu'au fond je n'aie point fait de mal.
+
+
+## SCÈNE II. Silvia, Rosette, Pantalon, Cinthio, Scaramouche.
+
+    PANTALON.
+Quoi ! Le pauvre Arlequin est mort ! Je ne m'en consolerai jamais.
+
+    SILVIA.
+Ô Ciel ! Arlequin est mort !
+
+    SCARAMOUCHE.
+Oui. Il courait après Violette ; nous l'avons vu tomber dans une fondrière où il s'est brisé en mille pièces.
+
+    CINTHIO.
+L'affliction est générale dans le canton. Nos habitants lui ont dressé un tombeau rustique. On va lui rendre les honneurs funèbres.
+Bruit sourd d'instruments champêtres. Arlequin sur un tombeau composé de fromages.
+
+
+    PAYSAN.
+Arlequin a fini le cours  
+De ses burlesques jours.  
+Versons, versons des larmes  
+Sur son tombeau.   [10]
+Implacable Atropos, ton funeste ciseau  
+Nous cause aujourd'hui mille alarmes.  
+Il était de l'allégresse  
+Le plus ferme appui ;  
+La sombre tristesse  
+Fuyait loin de lui.  
+Ah ! Quelle disgrâce!  
+Quel sort rigoureux !  
+Toujours sur sa trace  
+Volaient les ris et les jeux.  
+Versons, versons des larmes  
+Sur son tombeau.  
+
+
+## SCÈNE III. Un Petit Arlequin, Une Petite Arlequine.
+
+    LA FILLE.
+Ah ! Mon petit cousin, nous avons perdu pour jamais notre oncle, le charmant Arlequin !
+
+    LE GARÇON.
+Hélas ! Oui. J'en mourrai de douleur ; il m'aimait comme son propre fils.
+
+    LA FILLE.
+Il est vrai qu'il disait qu'avant qu'il fût deux ans il voulait faire de vous un garçon accompli. Vous le remplacerez sûrement.
+
+    LE GARÇON.
+Pourquoi est-il mort si promptement?
+
+    LA FILLE.
+Il s'est tué de désespoir de l'infidélité de sa maîtresse.
+
+    LE GARÇON.
+Ohimè ! Ché Balardo ! Faire cette sottise pour une fille.
+
+    LA FILLE.
+Oui vraiment.
+
+    LE GARÇON.
+À sa place, j'aurais chanté :
+Marotte fait bien la fière  
+Pour un petit bien qu'elle a.  
+
+
+## SCENE IV. CINTHIO, SILVIA.
+
+    CINTHIO.
+Avez-vous encore regret au perfide ravisseur de Violette ?
+
+    SILVIA.
+Je ne puis m'empêcher de penser à ma cousine. Je m'imagine que les suites d'un enlèvement sont si agréables que je voudrais être à sa place.
+
+    CINTHIO.
+Vous ne rougissez pas d'un pareil sentiment ?
+
+    SILVIA.
+J'ai toutes les inclinations d'une fille de qualité
+
+    CINTHIO.
+Songez-vous à l'horreur qu'ont vos compagnes pour la perfide Violette ?
+
+    SILVIA.
+Ce sont des innocentes. On fait aujourd'hui grand bruit de cette aventure ; demain on n'y pensera plus.
+
+    CINTHIO.
+Je ne vous regarde plus qu'avec une indifférence qui ira bientôt jusques au mépris.
+
+    SILVIA.
+Vous m'avez toujours trop aimée pour changer si promptement.
+
+    CINTHIO.
+Livrez-vous sans remords à vos lâches inclinations.
+
+    SILVIA.
+Si vous croyez m'affliger, vous vous trompez, Cinthio. Quand je voudrai, je ne manquerai pas d'amants. Vous savez que la nouveauté plaît à mon sexe.
+
+    CINTHIO.
+À la bonne heure !
+
+    SILVIA.
+Vous ne voulez donc pas faire la paix ?
+
+    CINTHIO.
+Le Ciel m'en préserve !
+
+    SILVIA, À PART.
+Fort bien... Il faut user d'adresse.
+Haut.
+
+Ah ! Cinthio que vous connaissez mal mon coeur ! Apprenez que je vous ai toujours aimé. J'ai voulu réveiller votre tendresse par une pincée de jalousie.
+
+    CINTHIO.
+Vos démarches ont été trop naturelles pour n'être qu'une feinte.
+
+    SILVIA.
+Je suis bien sotte de perdre ici le temps à vouloir vous convaincre de ma tendresse.
+
+    CINTHIO.
+Si j'étais bien persuadé...
+
+    SILVIA.
+Suivez votre penchant... Je suis la plus infidèle des femmes.
+Elle pleure.
+
+
+    CINTHIO.
+Silvia ! Ces larmes me font assez connaître l'innocence de votre procédé.
+
+    SILVIA, BAS.
+Bon ! Il commence à s'attendrir.
+Haut.
+
+Laissez-moi, vous dis-je ! Je suis un monstre d'ingratitude.
+
+    CINTHIO.
+Je vous demande mille pardons.
+
+    SILVIA.
+Je ne vous pardonnerai jamais !
+
+    CINTHIO.
+La mort vous délivrera donc d'un objet odieux.
+
+    SILVIA.
+Où courez-vous ?
+
+    CINTHIO.
+Je vais mourir.
+
+    SILVIA.
+Cinthio, votre repentir est trop sincère... Je vous rends mon coeur.
+
+    CINTHIO.
+Quelle joie ! Que la foi donnée dans ce jour vous soit un sûr garant de l'injustice de mes soupçons !
+
+    SILVIA.
+Je l'accepte avec plaisir.
+Bas.
+
+Les hommes ont beau faire, ils seront toujours nos dupes.
+
+
+## SCÈNE V. Arlequin, Mercure.
+Le théâtre représente les enfers.
+
+
+    MERCURE.
+Je n'ai point trouvé d'autre moyen, pour débarrasser Pluton d'Arlequin, que d'ouvrir la terre sous ses pieds et de le conduire en ces lieux. On le croit mort chez Pantalon et je vais le lui persuader à lui-même.
+
+    ARLEQUIN.
+Qui m'a conduit dans ces lieux ? Sans un guide aussi habile, je me serais cassé le nez plus de dix fois.
+
+    MERCURE.
+Vous en avez l'obligation au dieu Mercure.
+
+    ARLEQUIN , FOUILLANT DANS SES POCHES.
+Poveretto mi ! Son assassinado ! Ladro ! Furfante ! On me l'avait bien assuré que vous étiez le dieu des filous.
+
+    MERCURE.
+Explique-toi.
+
+    ARLEQUIN, RETOURNANT SES POCHES.
+Voilà des témoins muets de la souplesse de vos mains.
+
+    MERCURE.
+Tu as oublié que tu es mort, et que les morts n'emportent rien avec eux.
+
+    ARLEQUIN.
+Je suis mort ?
+
+    MERCURE.
+Oui vraiment. En courant après une certaine Violette, tu t'es précipité dans un abîme où tu as perdu la vie.
+
+    ARLEQUIN.
+Hui ! Hui !
+
+    MERCURE.
+Pourquoi pleures-tu?
+
+    ARLEQUIN.
+N'est-ce pas l'usage que les amis d'un défunt pleurent sa mort ?
+
+    MERCURE.
+Cela est vrai.
+
+    ARLEQUIN.
+Eh bien ! Je n'avais pas de meilleur ami que moi.
+
+    MERCURE.
+Les tiens ont célébré tes funérailles avec une douzaine de plats chargés de fromage de Milan, de saucissons de Bologne, mortadelles, cervelas et macarons.
+
+    ARLEQUIN.
+Et qu'a-t-on fait de tout cela ?
+
+    MERCURE.
+On l'a laissé sur ton tombeau.
+
+    ARLEQUIN.
+Tant pis ! Il fallait l'apporter ici. Votre récit a tellement excité mon appétit que je dévorerais cela en quatre bouchées.
+
+    MERCURE.
+On ne mange point quand on est mort, et, puisque tu es dans les enfers, je vais te placer avec ces ombres que tu vois de si bonne humeur.
+
+    ARLEQUIN.
+Faites-les moi donc connaître !
+
+    MERCURE.
+La plus proche de nous s'appelait Raisin.
+
+    ARLEQUIN.
+Bonne compagnie ! Nous ne manquerons pas de vin, puisqu'on en fait avec du raisin.
+
+    MERCURE.
+Non, Raisin est le nom d'un homme qui, ainsi que les trois autres, appelés Molière, Fiurelly et Dominique, ont excellé dans l'art de divertir agréablement et avec noblesse le reste des hommes. Tu ne peux être en compagnie qui te convienne mieux.
+
+    ARLEQUIN.
+S'ils sont d'aussi bonne humeur que moi, nous allons faire crever de rire tous les enfers. Apprenez-moi qui est le fripon qui m'a enlevé Violette ; je serais bien aise de m'en venger. Je suis une âme vindicative.
+
+    MERCURE.
+Une autre fois, je te le dirai. Je vais faire d'autres commissions. Jusqu'au revoir, mon ami.
+
+    ARLEQUIN.
+Bon voyage, seigneur Mercure.
+
+
+## SCÈNE VI. Arlequin, Caron.
+
+    ARLEQUIN.
+Je suis donc mort, à ce que dit Mercure ? Le diable m'emporte si je m'en souviens ! Il fallait être fou pour ne pas survivre à une infidèle. Je ne me reconnais point là dedans. Qu'importe ? Rions-en le premier, puisque la sottise est faite. Ah ! Ah ! Ah ! Caron. Je ne vois pas, Seigneur, que vous ayez tant sujet de rire.
+
+    ARLEQUIN.
+Et pourquoi, mon ami ?
+
+    CARON.
+C'est que Proserpine a soulevé tout l'enfer.
+
+    ARLEQUIN.
+Et que m'importe?
+
+    CARON.
+Vous le connaîtrez bientôt, quand vous verrez les furies renverser votre trône, et, sans respect pour Votre Majesté...
+
+    ARLEQUIN, À PART.
+C'est quelque ivrogne.
+Haut.
+
+Eh bien ? Sans respect pour ma Majesté...
+
+    CARON.
+Chasser Pluton de son royaume.
+
+    ARLEQUIN. [11]
+Mais, mon ami, quel rapport Proserpine, un trône, des furies et Pluton ont-ils avec moi ?
+
+    CARON.
+Le dieu des enfers veut rire ! Mais, seigneur Pluton...
+
+    ARLEQUIN.
+Pour qui me prend-on ici ? Je te donnerai de ton Pluton par les oreilles.
+
+
+## SCÈNE VII. Arlequin, Proserpine, Caron.
+
+    PROSERPINE.
+Ah ! Te voilà donc, traître ?
+
+    CARON. [12]
+Ce n'est là qu'un léger crayon de ses fureurs.
+
+    ARLEQUIN.
+À qui en veut cette folle ?
+
+    CARON.
+Quoi ! Vous méconnaissez Proserpine ?
+
+    ARLEQUIN.
+La peste m'étouffe si je l'ai jamais vue !
+
+    PROSERPINE.
+Il vaudrait mieux que cela fût vrai, perfide ! Pourquoi m'enlevais-tu à ma mère et âmes fidèles compagnes si tu voulais me traiter ainsi ? M'abandonner pour une petite créature !
+
+    ARLEQUIN.
+Vous extravaguez, ma mie.
+
+    PROSERPINE.
+Ne crois pas me tromper davantage... J'ai découvert quelle est ma rivale ! Oui, je l'ai découvert... Elle s'appelle Violette, fille de Pantalon. Eh bien ! Qu'as-tu à dire à cela ?
+
+    ARLEQUIN.
+Qu'entends-je ?... On me prend pour le dieu des enfers, et c'est ce dieu même qui m'enlève ma maîtresse !
+
+    PROSERPINE.
+Suis-je bien informée de tes amours ?
+
+    ARLEQUIN, À PART.
+Mon parti est pris. Profitons de son erreur et rendons à Pluton outrage pour outrage...
+Haut.
+
+Mais, en vérité, Proserpine, croyez-vous que tout le bruit que vous faites serve à quelque chose ? Si vous preniez un autre ton, je ne dis pas que peut-être je n'écoutasse la raison... Eh bien ! Je l'avoue, j'ai aimé Violette, mais je ne l'aime plus. Ce sont des petites folies de passage auxquelles une honnête femme ne doit pas regarder de si près.
+
+    PROSERPINE.
+Oh ! Je suis bien votre servante, seigneur Pluton !
+
+    ARLEQUIN.
+Une femme d'esprit, en pareil cas, ramène son mari par de tendres caresses plutôt que de l'éloigner par des emportements.
+
+    PROSERPINE.
+Oh ! Mon cher petit mari, s'il ne faut que des caresses pour vous toucher, je vous promets de vous en faire tant, tant...
+
+    ARLEQUIN.
+Bon ! C'est tomber dans l'autre extrémité. Il en faut dans le ménage, comme du vinaigre dans une salade, ni trop, ni trop peu.
+
+    PROSERPINE.
+Eh bien ! Mon cher Pluton, vous serez content et vous n'aurez jamais sujet de vous plaindre de moi.
+
+    ARLEQUIN. [13]
+Tope ! Voilà la paix faite. Che gusto ! ( ô che consolazione !
+
+
+## SCÈNE VIII. Pluton, Violette, Mercure.
+Le théâtre représente un lieu enchanté.
+
+
+    MERCURE.
+Soyez en repos, Seigneur, Arlequin est en lieu de sûreté.
+
+    PLUTON.
+Tant mieux ! Qu'avez-vous donc, charmante Violette ? Vous pleurez.
+
+    VIOLETTE.
+J'ai l'âme déchirée par mille remords.
+
+    PLUTON.
+Fi donc! Vous faites l'enfant. Que cela est vilain !
+
+    MERCURE.
+Cela ne doit pas vous étonner, Seigneur, c'est l'usage de toutes les nouvelles mariées. Elles pleurent pour la forme, et rient au fond.
+
+    PLUTON.
+Allons, mon aimable, éloignez les chagrins puérils.
+
+    MERCURE.
+Ce divertissement vous servira mieux que toutes les caresses. Messieurs, faites votre devoir. Et vous, Mademoiselle, chantez-nous quelque air italien qui dissipe cette mélancolie.
+Air :
+
+La gioja e il rizo  
+Ti brillino in vizo  
+Che la giovinezza  
+Di sola allegrezza  
+Die pascere il cor.  
+D'amante perduto  
+Un novo venuto  
+Indonna sagace  
+Riporta la pace  
+E plaça il dolor.  
+
+    PLUTON.
+Dites-moi, la belle, quel est le sujet de votre inquiétude ?
+
+    VIOLETTE.
+Tout ce que vous m'avez donné est fort beau ; mais, malgré cela, je me rappelle sans cesse l'infidélité que je fais à ce pauvre Arlequin. Il est toujours présent à ma pensée. Tant de magnificence m'épouvante ; je sens que je ne suis pas née pour les grandeurs, et que vous êtes trop grand seigneur pour moi. De grâce, ramenez-moi chez mon père. Que je vous aie cette obligation-là.
+
+    PLUTON.
+En vérité, Violette, vous n'y pensez pas. Vos scrupules sont hors de place. Pouvez-vous faire un moment comparaison entre Arlequin et moi ?
+
+    VIOLETTE.
+Oui. Et je la fais à son avantage. Il m'inspire toujours la joie et la bonne humeur, et depuis que je suis avec vous j'ai le coeur rempli de tristesse. Il y a là-dessous quelque chose qui me passe.
+
+    MERCURE, BAS.
+Devinerait-elle que vous êtes Pluton ?
+
+    PLUTON.
+Mais, belle Violette, tous ces regrets sont inutiles. Quand je vous reconduirais chez votre père, vous n'en seriez pas plus avancée.
+
+    VIOLETTE.
+Et pourquoi ?
+
+    PLUTON.
+C'est qu'Arlequin est mort.
+Bas.
+
+Il faut la tromper.
+
+    VIOLETTE.
+Quoi, Arlequin est mort ?
+
+    PLUTON.
+Très certainement.
+
+    VIOLETTE.
+Ciel ! Le pauvre garçon s'est tué sans doute de désespoir ! Ah ! Perfide ! Si j'ai perdu mon amant, c'est toi qui en es la cause. Il est mort par ta faute.
+
+    PLUTON.
+Non, le diable m'emporte ! C'est par la sienne.
+
+    VIOLETTE.
+Malheureux Arlequin, que je plains ton sort !
+
+    PLUTON.
+Fort bien ! C'est-à-dire qu'il faudrait se tuer pour vous plaire. Ne voudriez-vous pas que je fisse cette sottise pour l'amour de vous ?
+
+    VIOLETTE.
+Oui, traître, ce serait ma plus grande joie.
+
+    PLUTON.
+Grand merci !
+
+    VIOLETTE.
+Chère ombre, pardonne la trahison que je t'ai faite ; mais, avant que de te rejoindre...
+
+    PLUTON.
+Que voulez-vous faire ?
+
+    VIOLETTE.
+Laisse-moi, scélérat, en proie à mes remords. Je ne te regarde plus que comme un monstre qui m'a privée de ce que j'avais de plus cher. Mais je ne mourrai pas contente que je ne t'aie auparavant...
+
+    MERCURE.
+Tout beau, la belle ! Vous ne savez pas à qui vous avez affaire.
+
+    VIOLETTE.
+Et toi, misérable ! Toi qui m'as presque séduite par tes discours, crois-tu éviter ma fureur ? Ah ! Je sens naître dans mon coeur toute la rage des Furies. Tu n'échapperas pas à ma vengeance. Je vais vous déchirer l'un et l'autre en mille pièces ; et, pour ne rien avoir d'un monstre que je déteste, voilà tes présents et le cas que j'en fais !
+
+    PLUTON.
+Mais vous n'y pensez pas !
+
+    VIOLETTE.
+Tiens, voilà comme je traite tes pareils.
+Elle le renverse d'un soufflet.
+
+
+    PLUTON.
+Quel emportement ! Je la croyais d'abord d'une douceur extrême. Elle est cent fois plus acariâtre que Proserpine. Ma foi, me voilà dégoûté du sexe pour longtemps ; et, diablesse pour diablesse, j'aime presque autant retourner à ma femme.
+
+
+# ACTE III.
+
+
+## SCÈNE PREMIÈRE. Caron, Medemoiselle Romanville, Mathanasius.
+
+    CARON. [14]
+Les nouveaux venus n'ont pas encore bu de l'eau du Léthé. Je veux me donner la comédie avec eux.
+
+    MADEMOISELLE ROMANVILLE.
+Peut-on être plus malheureuse ! Arriver ici avant que d'avoir achevé l'ouvrage que j'allais donner au public !
+
+    CARON.
+C'est quelque bel esprit femelle.
+
+    MADEMOISELLE ROMANVILLE.
+Ma seule description de l'âge d'or, si elle était finie, serait inestimable.
+
+    CARON.
+Oh ! Oh !
+
+    MADEMOISELLE ROMANVILLE.
+Qu'avez-vous donc à rire, monsieur Caron ?
+
+    CARON.
+Je vous demande excuse, mais le moindre petit auteur pourra continuer votre âge d'or.
+
+    MADEMOISELLE ROMANVILLE.
+Tout était nouveau dans mon livre, jusqu'à l'orthographe. Je vais vous en convaincre par quelques traits.
+
+    CARON.
+Tenez, Mademoiselle, voilà l'ombre d'un savant, du moins je le crois à son langage. Voulez-vous que je l'appelle ?
+
+    MADEMOISELLE ROMANVILLE.
+Très volontiers.
+
+    CARON.
+Holà ! Seigneur Mathanasius, voici une dame dont la connaissance vous fera plaisir.
+
+    MATHANASIUS.
+Je vous suis obligé. Mademoiselle composait sans doute ? Dans quel genre ?
+
+    MADEMOISELLE ROMANVILLE.
+J'allAis donner au public les Métamorphoses d'Ovide. Mais d'un style !...
+
+    MATHANASIUS.
+J'ai travaillé sur le même sujet. C'est en vers ?
+
+    MADEMOISELLE ROMANVILLE.
+Non, en prose.
+
+    MATHANASIUS.
+Fi ! Cela est trop rampant.
+
+    MADEMOISELLE ROMANVILLE.
+C'est selon. Écoutez : « Au siècle passé que l'on appelait siècle d'or, les hommes ne se conservaient dans l'innocence ni par la crainte des lois, ni par l'étude de la sagesse. »
+
+    MATHANASIUS.
+Cela n'est pas mal. Voici comme je commençais mes Métamorphoses :
+Toi qui guides le cours du ciel, porte-flambeaux,  
+Qui portes dans tes mains le moite frein des eaux,  
+Qui fais trembler la terre, et depuis la parole   [15]
+Serre et lâche la bride aux postillons d'Éole.  
+Voilà du sublime. Voici le chaos :
+Le monde était jadis une forme sans forme,  
+Une pile confuse, un mélange difforme  
+D'abîmes, un abîme ! Un corps mal compassé,  
+Un chaos de chaos, un tout mal entassé,  
+Où tous les éléments se logeaient pêle-mêle,  
+Où le liquide avait avec le sec querelle,  
+Le rond avec l'aigu, le froid contre le chaud,  
+Le dur avec le mol, le bas avec le haut,  
+L'amer avec le doux. Bref, durant cette guerre,  
+La terre était au ciel et le ciel sur la terre;  
+La terre, l'air, le feu, se tenaient dans la mer ;  
+La mer, le feu, la terre, étaient logés dans l'air ;  
+L'air, la mer et le feu dans la terre, et la terre  
+Chez l'air, le feu, la mer. Car alors le tonnerre...  
+
+    CARON.
+Voilà qui est terriblement embarrassé.
+
+    MATHANASIUS.
+C'est le fin de l'art. Pour bien parler du chaos, il fallait parler d'un style inintelligible.
+
+    MADEMOISELLE ROMANVILLE.
+Vous en êtes venu à bout. Je continue : « La pâle jalousie ne régnait point sur le coeur des mortels. Une jolie femme servait à trois ou quatre amis. »
+
+    CARON.
+Il y a mille gens qui font encore de même.
+
+    MATHANASIUS.
+Je disais à Jupiter, au sujet de la création du monde :
+L'immuable décret de ta bouche divine,  
+Qui causera sa fin, cause son origine,  
+Non en temps, avant temps, ni même avec le temps,  
+J'entends un temps confus, car les courses des ans,  
+Des siècles, des saisons, des mois et des années,  
+Par le ciel mesurés, des astres sont bornées.  
+Cela est du dernier beau. On m'a déjà traduit en latin, en italien, en espagnol et en allemand, avec des commentaires.
+
+    MADEMOISELLE ROMANVILLE.
+L'on fait sagement de vous commenter, car vous êtes furieusement obscur.
+
+    CARON, BÂILLANT.
+Passez dans cette allée prochaine, j'irai vous y trouver dans un moment.
+
+
+## SCÈNE II. Arlequin, Caron.
+
+    ARLEQUIN.
+L'architecture de ce pays est triste et la promenade lugubre. On ne voit que des supplices ridicules. Celui-ci porte une pierre que je voulais lui aider à rouler. J'ai vu près de là cinquante femelles qui remplissent des tonneaux crevés ; un autre est attaché à la roue d'un moulin qui tourne sans cesse, pour avoir fait les doux yeux à Madame Junon. Si Pluton est aussi vindicatif que son frère, il pourrait bien m'en arriver autant.
+
+    CARON.
+Seigneur Pluton, plusieurs ombres demandent audience.
+
+    ARLEQUIN.
+Est-ce qu'il n'y a pas de juges pour cela ?
+
+    CARON.
+D'accord ; mais il est de Votre Majesté de monter sur votre trône au moins une fois le mois.
+
+    ARLEQUIN.
+Avant de juger, ne va-t-on pas à la buvette ?
+
+    CARON.
+Vous voulez plaisanter ! Voilà votre manteau royal, votre sceptre et votre couronne qu'on vous apporte.
+On l'habille et on le porte sur son trône.
+
+
+
+## SCÈNE III. Arlequin, Mademoiselle Descoulisses.
+
+    ARLEQUIN.
+Dites-moi, la belle, de quelle profession étiez-vous là-haut ?
+
+    MADEMOISELLE DECOULISSES.
+Comédienne de campagne. Je me nommais Descoulisses.
+
+    ARLEQUIN.
+J'ai entendu parler de vous comme d'une grande actrice.
+
+    MADEMOISELLE DECOULISSES.
+Il est vrai que j'ai fort brillé. Cependant mes meilleures scènes n'étaient pas celles que je représentais. Je menais l'amour à la baguette. Je faisais naître de la passion sans en ressentir.
+
+    ARLEQUIN.
+Cela est difficile. Je ne puis parler de boire et de manger sans que l'eau ne m'en vienne à la bouche.
+
+    MADEMOISELLE DECOULISSES.
+Une bonne actrice sait se prêter à tous les caractères. Tout est bien venu chez elle. Elle n'aime personne, et fait enrager tout le monde.
+
+    ARLEQUIN.
+Comment cela se fait-il ?
+
+    MADEMOISELLE DECOULISSES.
+Rien de plus facile ; avec un peu d'usage du théâtre, on s'en tire aisément. Un jeune homme qui achevait son droit venait de recueillir une grosse succession. J'en tirai la meilleure partie avec quatre vers de Psyché. Un soir qu'il me faisait des offres de service, je lui dis du ton le plus tendre : [16]
+Plus j'ai les yeux sur vous, plus je me sens charmer.  
+Tout ce que j'ai senti n'agissait pas de même,  
+Et je dirais que je vous aime,  
+Hélas ! Si je savais ce que c'est que d'aimer.  
+Rompt-on avec un riche vieillard, vous croit-il outrée de sa perte, voici les adieux qu'on lui fait : [17]
+Ah ! Par ma foi, Monsieur, vous me la donnez bonne  
+De croire qu'en quittant votre triste personne, etc..  
+Un homme avait fait enfermer son fils parce qu'il m'aimait. J'allai le trouver ; il devint amoureux de moi, et fit tant d'extravagances que ses parents tirèrent son fils de la prison pour l'y faire enfermer à son tour.
+
+    ARLEQUIN.
+Cela est fort comique ; mais que voulez-vous de moi ?
+
+    MADEMOISELLE DECOULISSES.
+La grâce d'être ici avec les personnes que j'ai connues pendant ma vie, et de me laisser tourmenter les ombres à la place des diables.
+
+    ARLEQUIN.
+Très volontiers.
+
+
+## SCÈNE IV. Arlequin, un Hôtelier, un Suisse.
+
+    L’HÔTELIER.
+Justice, Seigneur ! Le traître m'a ruiné et est cause de ma mort. Je lui sers, pour son repas, un chapon, deux perdrix, un lapereau, une bécasse, un plat de macarons, du vin de Montefiascone ; il mange et boit tout cela.
+
+    LE SUISSE.
+Ly être caparetier emboissonneur. Je mange et poivre toute son maison, et moi crevir au bout de la table comme un poudin sur le gril. Je demandir justice, monsir Plutonne.
+
+    ARLEQUIN.
+Cela est triste.
+
+    L’HÔTELIER.
+Cet homme est un fou, un ivrogne.
+
+    LE SUISSE.
+Mentir toi filainement ! Moi poivre toujours avec tempérament.
+
+    L’HÔTELIER.
+Quand il creva, il avAit bu vingt-quatre bouteilles de vin. Il a eu la malice de crever pour ne pas me payer, et, depuis cette aventure, mon cabaret a été si fort décrié que j'en suis mort de chagrin.
+
+    ARLEQUIN.
+Dans quelle ville demeurais-tu ?
+
+    L’HÔTELIER.
+À Bergame. J'avais pour enseigne : « Le Croissant. »
+
+    ARLEQUIN.
+Eh ! Je te connais; ta femme t'avait fait prendre cette enseigne. Ne t'appelles-tu pas messire Cornuto?
+
+    L’HÔTELIER.
+Oui, Seigneur.
+
+    ARLEQUIN.
+Tu es un fripon... Tu m'as refusé crédit plus de dix fois.
+
+    L’HÔTELIER.
+Moi ! Avoir refusé crédit au seigneur Pluton ?
+
+    ARLEQUIN.
+Quand j'allais chez toi, je n'avais pas cet habit. J'ai été tenté plus d'une fois de t'assommer, mais je t'ai épargné jusqu'à ce que tu fusses ici. Je veux faire un exemple terrible de ces fripons qui refusent crédit aux honnêtes gens.
+
+    LE SUISSE.
+Point de quartier à sti friponne !
+
+    L’HÔTELIER.
+Pardonnez-moi, je vous en conjure par ces mets que j'apprêtais si délicatement.
+
+    ARLEQUIN.
+Sais-tu encore bien faire la cuisine ?
+
+    L’HÔTELIER.
+Je m'en flatte.
+
+    CARON. [18]
+Il n'a pas encore bu de l'eau du fleuve d'Oubli.
+
+    ARLEQUIN.
+Garde-toi bien de lui en donner.
+À l'hôtelier.
+
+Je te pardonne et te retiens pour mon cuisinier.
+
+    LE SUISSE.
+Monsir Plutonne li point faire à moi sti chagrinage.
+
+    ARLEQUIN.
+Pour vous consoler, je vous donne l'intendance de ma cave, à condition que vous ferez la paix avec ce pauvre homme.
+
+    LE SUISSE.
+Très volontiers. Moi n'avre point de fiel. Que moi fa poire !
+
+    ARLEQUIN.
+Et moi je vais manger. Caron , ôte-moi mon habit de cérémonie.
+
+    CARON.
+Il y a encore là plus d'un millier d'ombres qui demandent audience.
+
+    ARLEQUIN.
+Qu'elles s'aillent promener ! J'ai le ventre creux comme un tambour. Chasse-moi toute cette canaille.
+
+
+## SCÈNE V. Pluton, Caron.
+
+    PLUTON.
+Quoi ! Tu ne reconnais pas ton maître ?
+
+    CARON.
+Mon maître ?
+
+    PLUTON.
+Oui, Pluton.
+
+    CARON.
+Voilà à peu près les habits avec lesquels il est sorti ; mais il y a plus de deux heures qu'il est rentré. Les larmes de Proserpine l'ont attendri de façon qu'ils se sont réconciliés avec les plus tendres caresses.
+
+    PLUTON.
+Qu'entends-je ? C'est quelque nouveau tour de ma femme. Je vais punir cet imposteur.
+
+    CARON.
+Il est trop bien reconnu dans ces lieux pour Pluton. C'est le véritable, mon ami.
+
+    PLUTON.
+Quoi ! Je souffrirais cet affront ?
+
+    CARON.
+Si tu ne veux pas m'en croire, juges-en par tes yeux.
+
+
+## SCÈNE VI. Pluton, Caron, Arlequin, Proserpine, Mercure.
+
+    PLUTON.
+Ô dieux ! C'est Arlequin. Continuez : cela ne va pas mal.
+
+    PROSERPINE.
+Que vois-je ?
+
+    ARLEQUIN.
+Quel insolent parle ainsi à ma petite femme?
+
+    PLUTON.
+Ta femme, malheureux ? Oh ! Je t'étranglerai, et cette infâme ne portera pas loin l'injure qu'elle a faite à mon honneur.
+
+    ARLEQUIN.
+Ne craignez rien : c'est un extravagant que je vais faire enfermer avec les fous de l'enfer. Retire-toi. Si tu me fâches...
+
+    PROSERPINE.
+Mon cher petit Pluton, ne vous mettez pas en colère... Vous vous feriez malade.
+
+    PLUTON.
+Ah ! Scélérate ! Tu me désavoues pour ton mari ?
+
+    PROSERPINE.
+Va, malheureux ! Cesse de passer ici pour Pluton.
+
+    PLUTON.
+Je n'y puis plus tenir. La rage et la fureur...
+
+    ARLEQUIN.
+Doucement, il est temps de finir la comédie. Je vais tout éclaircir... Apprenez, Madame, que je m'appelle Arlequin.
+
+    PROSERPINE.
+Quoi ! Vous n'êtes pas Pluton ?
+
+    ARLEQUIN.
+Non, parbleu !
+
+    PLUTON.
+Avais-je tort, perfide?
+
+    ARLEQUIN.
+Point d'invectives. Vous m'avez enlevé ma maîtresse : je n'ai pas trop mal pris ma revanche avec votre femme.
+
+    PROSERPINE.
+Ah ! Seigneur, il ne s'est rien passé entre nous contre votre honneur. Je m'en suis tenue avec lui aux caresses les plus innocentes.
+
+    ARLEQUIN.
+Avalez doucement la pilule. Plus vous ferez d'éclat, plus ma vengeance sera complète.
+
+    PLUTON.
+Écoute, j'ai à te faire une petite proposition. Ce séjour n'est pas fort agréable pour toi.
+
+    ARLEQUIN.
+Je m'accommode de tout.
+
+    PLUTON.
+Retourne sur la terre; je t'y comblerai de biens.
+
+    ARLEQUIN.
+Je n'ai point d'ambition. Du bon vin, une table bien servie...
+
+    PLUTON.
+Tu l'auras.
+
+    ARLEQUIN.
+Tope ! Mais à une condition. De peur de nous trouver rivaux sur terre, jurez d'être fidèle à Proserpine.
+
+    PROSERPINE.
+Cela est fort bien imaginé.
+
+    PLUTON.
+Mais...
+
+    ARLEQUIN.
+Point de mais... Sinon marché nul.
+
+    PLUTON.
+Je jure donc de n'aimer que ma femme.
+Bas.
+
+Quelle punition !
+
+    PROSERPINE.
+Par le Styx ?
+
+    PLUTON.
+Oh ! Parbleu ! C'est trop demander.
+
+    ARLEQUIN.
+Elle a raison ! Vous n'avez aucun lieu de vous plaindre de Proserpine... Mes caresses ont été si simples qu'elle en a été scandalisée.
+
+    PLUTON.
+Cela est-il possible ?
+
+    ARLEQUIN.
+Songez donc que je ne suis qu'une ombre. Mercure me l'a assuré. Les morts n'ont point de corps.
+
+    PLUTON.
+Dans quel embarras Mercure m'a-t-il jeté !
+
+    MERCURE, ARRIVE EN RIANT.
+Oh ! Oh ! Je viens d'apprendre une partie de vos mésaventures, et j'ai deviné l'autre. À quoi en êtes-vous avec Arlequin ?
+
+    ARLEQUIN.
+Nous sommes d'accord ; mais si j'avais crû avoir mon corps...
+
+    PLUTON.
+Fort bien !
+
+    ARLEQUIN.
+Je vous aurais rendu la pareille. Vous n'avez pas fait le personnage d'une ombre avec Violette.
+
+    PLUTON.
+Je jure par le Styx qu'elle t'a été fidèle, et qu'il y a eu plus de jeunesse et d'ambition que de malice dans ce qu'elle a fait.
+
+    ARLEQUIN.
+Violette aurait résisté à un dieu ?
+
+    PLUTON.
+Rien n'est plus vrai. Retourne auprès d'elle ; Mercure te conduira où elle est. Jouissez d'un bonheur que je ne troublerai plus.
+
+    ARLEQUIN.
+Partons promptement. Je brûle de revoir ma maîtresse. Adieu, seigneur Pluton ; jusqu'au revoir. Belle Proserpine, en cas d'infidélité de la part de votre mari, Mercure vous dira où je demeure. Serviteur.
+
+
+## SCÈNE VII ET DERNIÈRE. Pantalon, Silvia, Violette, Rosette, Cinthio ; Mercure, et Arlequin qui surviennent.
+Le théâtre représente le devant de la maison de Pantalon.
+
+
+    CINTHIO.
+Seigneur Pantalon, la belle Silvia, revenue de son erreur, consent à m'épouser.
+
+    PANTALON.
+Quoique le jour ne soit guère propre pour une noce, je ne veux pas m'y opposer.
+
+    ROSETTE.
+Mon cher père, voilà ma soeur Violette de retour.
+
+    PANTALON.
+Comment ?
+
+    ROSETTE.
+Elle a appris la mort du pauvre Arlequin ; elle s'en désespère.
+
+    CINTHIO.
+L'inconnu l'aura abandonnée : voilà le sujet de ses larmes.
+
+    ROSETTE.
+Elle est si honteuse qu'elle n'ose lever les yeux.
+
+    PANTALON.
+Qu'on ne me parle pas de cette coquine-là !
+
+    SILVIA.
+Eh ! Seigneur Pantalon...
+
+    PANTALON.
+Qu'elle ne se présente jamais devant moi !
+Violette se jette à ses pieds.
+
+N'as-tu pas honte de te montrer après une telle action qui a causé la mort d'Arlequin ? Les dieux enverront son ombre pour te punir de ta perfidie. Qu'entends-je ? Aiuto ! Misericordia !
+Mercure et Arlequin sortent des enfers. Arlequin arrête Violette.
+
+
+    ARLEQUIN.
+Oh ! Oh ! Friponne ! Vous ne m'échapperez pas.
+
+    VIOLETTE.
+Ah ! Chère ombre !
+
+    ARLEQUIN.
+La peur vous fait parler. Je ne suis pas si chère que vous le dites, puisque vous m'avez préféré un aventurier.
+
+    VIOLETTE.
+Ombre de mon amant, pardonne-moi la surprise que l'on m'a faite. À la nouvelle de ta mort, j'ai traité ton rival avec le dernier mépris.
+
+    ARLEQUIN. [19]
+Tu voudrais passer auprès de moi pour une vestale ?
+
+    VIOLETTE.
+Ah ! Tu m'outrages... Je ferai les serments...
+
+    ARLEQUIN. [20]
+Tarare ! Si je ne savais à quoi m'en tenir. Mais m'aimes-tu encore ?
+
+    VIOLETTE.
+De tout mon coeur.
+
+    ARLEQUIN.
+Pour me le prouver, il faut m'épouser tout-à-l'heure.
+
+    VIOLETTE.
+T'épouser ?
+
+    ARLEQUIN.
+Sans balancer.
+
+    VIOLETTE.
+Il y a un obstacle invincible.
+
+    ARLEQUIN.
+Quel est-il ?
+
+    VIOLETTE.
+Cela révolterait toutes les femmes contre moi.
+
+    ARLEQUIN.
+Il est vrai qu'elles aiment moins l'esprit que le corps. Je veux être ton mari, ou je ferai le diable à quatre.
+
+    VIOLETTE.
+Je n'y puis consentir. Je mourrais à tout moment de frayeur.
+
+    ARLEQUIN.
+Je vois bien ce qui te tient. Je ne suis pas si ombre que je le parais. Touche, pour voir...
+
+    VIOLETTE.
+Oui, vraiment, c'est lui-même.
+
+    MERCURE, RAMENANT LES AUTRES.
+Oui, je vous le répète, vos cris ont percé jusqu'au royaume sombre. Pluton vous renvoie le gracieux Arlequin.
+
+    PANTALON.
+Nous lui en rendons de très humbles grâces, Seigneur Mercure.
+À Arlequin.
+
+Que je suis fâché que Violette ne soit plus digne de vous !
+
+    ARLEQUIN.
+Qui vous a dit cela ? Je suis mieux informé que vous sur son chapitre. Il est vrai qu'il y a eu quelque irrégularité dans l'économie de sa conduite ; mais j'ai de bonnes cautions de sa sagesse. J'oublie son inconstance, et je l'épouse.
+
+    PANTALON.
+Che consolazione !
+
+    ROSETTE.
+Que je vais danser à sa noce !
+
+    ARLEQUIN.
+À la bonne heure, mais vous n'écouterez pas le compliment du lendemain.
+
+    CINTHIO.
+Voilà tout le village qui vient prendre part à notre joie.
+
+
+## DIVERTISSEMENT.
+
+    UN PAYSAN.
+Célébrons d'Arlequin le fortuné retour,  
+Chantons son triomphe et sa gloire.  
+Quoi qu'il ait passé l'onde noire,  
+Pluton l'a fait sortir du ténébreux séjour.  
+Célébrons, etc.  
+Ce dieu, de sa moitié jaloux avec raison,  
+Craignait, suivant toute apparence,  
+Qu'une trop grande ressemblance  
+Ne lui fit souvent prendre Arlequin pour Pluton.  
+Célébrons, etc.  
+
+
+## VAUDEVILLE.
+
+    UN PAYSAN.
+Proserpine a fait le contraire  
+De nos coquettes de Paris :  
+Les amants ne peuvent leur plaire  
+Quand ils ressemblent aux maris.  
+
+    SILVIA.
+Là-bas, par sa femme surprise,  
+Pluton a presque été trahi ;  
+Ce n'est point ici par méprise  
+Qu'une femme trompe un mari.  
+
+    UN PAYSAN.
+Près d'une belle être de glace,  
+C'est s'exposer à son courroux.  
+Arlequin, tout autre à ta place  
+Aurait mieux contrefait l'époux.  
+
+    ROSETTE.
+À l'amour vous rendez hommage,  
+Vous suivez sans peine un galant.  
+Hélas ! que ne suis-je à votre âge,  
+Ma soeur ! J'en voudrais faire autant.  
+
+    ARLEQUIN.
+En vain dans le royaume sombre  
+Proserpine m'a recherché.  
+Comme je croyais être une ombre,  
+Elle en fut quitte à bon marché.  
+
+-------
+
+
+[1] Elle devait être remise au théâtre en 1735, et les rôles dévaient être distribués aux acteurs nommés au dos de ce feuillet ; elle ne fut pas jouée parce qu'il y eut apparemment au théâtre quelque nouveauté qui empêcha la représentation. 
+
+[2] (Ces notes du manuscrit sont de la main de Gueullette.) 
+
+[3] Baladin : Danseur de profession sur les théâtres publics, qui dans à gages et pour de l'argent. On le dit quelquefois plus généralement des bouffons, et farceurs qui divertissent le peuple. F
+
+[4] Fi : Particule qui sert à faire une exclamation pour témoigner le mépris, la haine, l'aversion qu'on a pour quelque personne ou quelque chose. F
+
+[5] Petit maître : Fig. et familièrement. Petit-maître, jeune homme qui a de la recherche dans sa parure, et un ton avantageux avec les femmes. L
+
+[6] Berbet : Chien à gros poil et frisé qui va à l'eau, et qu'on dresse pour la chasse aux canards : ce qui fait qu'on les appelle aussi canard ou sa femelle canne. On dit proverbialement d'un homme qui en suit toujours un autre, qu'il le suit comme un barbet. F
+
+[7] Septentrion : Constellation céleste composé de sept étoiles, que les astronomes nomment la petite ourse, et le peuple le chariot, dont l'extrémité est me plus proche de notre pôle. Se dit aussi de la partie du globe qui est depuis l'équateur jusqu'à notre pôle. F
+
+[8] Jupin : terme burlesque. Nom que l'on donne à Jupiter en badinant, et dans le style burlesque, au lieu de celui de Jupiter. T
+
+[9] Hippogriffe : Animal fabuleux que le poème de l'Arioste a rendu célèbre. On lui donne des ailes, et on le fait en partie cheval et en partie griffon. F
+
+[10] Atropos : L'une des trois Parques qui tenaient les ciseaux qui coupaient le fil de la vie des hommes.
+
+[11] Proserpine : Femme de Pluton et déesse des Enfers, était fille de Jupiter et de Cérès. B
+
+[12] Crayon : Se dit figurément des description qu'on fait par le discours, soit des personnes, soit des choses. F
+
+[13] Tope : Se dit aussi dans les discours familiers, des consentements ou approbations qu'on donne  quelque chose. F
+
+[14] Léthé : Nom propre d'un des fleuves des Enfers. La Fable dit que l'on en faisait boire aux âmes des morts dans les enfers, et que quand on en avait bu, on ne se souvenait plus de rien. T
+
+[15] Éole : dieu des vents.
+
+[16] Voir Psyché de Molière, Acte III, scène 3, v. 1061-1064, Psyché.
+
+[17] Voir Les Folies amoureuses de Regnard, Acte I, scène 2, v. 510-511, Lisette.
+
+[18] Le Fleuve de l'Oubli est Léthé, il coule dans les Enfers.
+
+[19] Vestale : Fille vierge chez les Romains, qui était consacrée au service de la déesse Vesta, pour garder le feu sacré de son temple. F
+
+[20] Tarare : mot burlesque pour dire quand on s'en sert, qu'on se moque de se que l'on dit. F

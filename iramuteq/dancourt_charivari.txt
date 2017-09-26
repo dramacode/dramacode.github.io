@@ -1,0 +1,1461 @@
+
+
+**** *book_ *id_I01 *act_I *date_1697
+
+-*who_eraste
+Tenez, la Fleur, ôtez mon manteau, et allez m'attendre au Dauphin avec vos camarades.
+
+-*who_lafleur
+Oui, Monsieur.
+
+-*who_eraste
+Que je vous y trouve, au moins, si j'ai affaire de vous.
+
+-*who_lafleur
+Nous ne nous éloignerons pas, Monsieur, cela suffit.
+
+**** *book_ *id_I02 *act_I *date_1697
+
+-*who_eraste
+Me voilà déguisé d'une manière à n'être reconnu de personne.Oh !Pour cela il n'y a que la jeunesse, ou l'amour, qui puisse autoriser cette partie de plaisir.
+
+**** *book_ *id_I03 *act_I *date_1697
+
+-*who_clitandre
+La Fontaine, payez ce Fiacre, et le renvoyez, entendez-vous ?
+
+-*who_lafontaine
+Oui, Monsieur.
+Où mettra-t-on tous ces ustensiles de Musique que vous avez fait apporter ?
+
+-*who_clitandre
+Au premier cabaret ; je ne tarderai pas à vous y joindre.
+
+-*who_lafontaine
+Nous allons vous y attendre.
+
+**** *book_ *id_I04 *act_I *date_1697
+
+-*who_eraste
+Ce Village n'est pas bien fréquenté aujourd'hui, et je n'y vois aucune apparence de noce.
+
+-*who_clitandre
+Je ne sais où est la maison de Madame Loricart.
+
+**** *book_ *id_I05 *act_I *date_1697
+
+-*who_lolive
+Je ne connais ni le marié, ni la mariée, et je serai pourtant un des garçons de la noce.
+
+-*who_eraste
+Un des garçons de la noce ?
+Justement, voilà ce que je cherche.
+
+-*who_clitandre
+Ces deux drôles-ci m'apprendront peut-être ce que je veux savoir.
+
+-*who_lolive
+Voilà deux paysans assez bien bâtis, et la canaille de ce pays-ci n'est pas mal faite.
+
+-*who_eraste
+Serviteur, l'ami.
+
+-*who_lolive
+Ton valet, camarade.
+
+-*who_clitandre
+Bonjour, enfants.
+
+-*who_eraste
+Que veut dire ceci ?
+Me tromperais-je ?
+
+-*who_clitandre
+Est-ce un songe, ou une vérité ?
+
+-*who_lolive
+Je me donne au diable, je crois que j'ai la berlue.
+
+-*who_eraste
+Est-ce toi, Lolive ?
+
+-*who_lolive
+Serait-ce vous, Monsieur Éraste ?
+
+-*who_clitandre
+Éraste et Lolive !
+
+-*who_eraste
+C'est aussi Clitandre, je pense.
+
+-*who_clitandre
+Oui, c'est moi-même.
+
+-*who_lolive
+Hé, vraiment oui.
+Masques, où y a-t-il bal ?
+
+-*who_eraste
+Hé !
+Que diantre fais-tu ici dans cet équipage ?
+
+-*who_clitandre
+Hé, que diantre y fais-tu toi-même ?
+Parle.
+
+-*who_eraste
+Hé mais
+
+-*who_clitandre
+Quoi, mais ?
+
+-*who_lolive
+Point de finesse, Messieurs, nous sommes tous trois dans le même équipage, nous y faisons tous trois la même chose, et peut-être courons-nous tous trois le même lièvre ?
+
+-*who_eraste
+L'aventure est assez bizarre.
+Oh çà, ne nous trahissons point, éclaircissons-nous doucement, et convenons de nos faits.
+
+-*who_lolive
+C'est bien dit, nous sommes tous trois amoureux apparemment : si les objets sont différents, à la bonne heure, on se rendra réciproquement service de bonne amitié : si nous en voulons à la même personne, vous vous égorgerez tous deux, pour voir à qui elle demeurera, et je vous regarderai faire.
+
+-*who_clitandre
+Je ne crois pas que nous poussions la chose jusque-là.
+
+-*who_eraste
+Çà voyons, parle-moi, franchement, qui t'amène ici ?
+
+-*who_lolive
+L'occasion d'une noce.
+
+-*who_eraste
+C'est aussi ce qui m'y attire.
+
+-*who_lolive
+Nous aimons tous trois la danse, à ce que je vois ; j'y viens dans la même intention.
+
+-*who_clitandre
+On m'a fait dire de me déguiser en paysan, d'amener des instruments, et des musiciens.
+
+-*who_eraste
+On m'a fait dire la même chose.
+
+-*who_lolive
+À la musique près, j'ai reçu le même ordre, comme vous voyez.
+
+-*who_eraste
+La charmante personne que j'aime se nomme Angélique.
+
+-*who_clitandre
+Celle que j'adore, est Mariane.
+
+-*who_lolive
+Bon : Vivat, Messieurs, point de rancune, la mienne s'appelle Mathurine.
+
+-*who_eraste
+Angélique est fille d'une vieille Madame Loricart, qui a une maison dans le Village.
+
+-*who_clitandre
+Mariane est sa nièce.
+
+-*who_lolive
+Et Mathurine est la servante : cela est tout à fait heureux.
+Messieurs, nous ne sortirons pas de la famille.
+
+-*who_eraste
+Angélique est la plus charmante personne.
+
+-*who_clitandre
+Mariane est la plus adorable.
+
+-*who_lolive
+C'est la plus appétissante dondon que Mathurine !
+
+-*who_clitandre
+Mais la Madame Loricart est une vieille folle qu'il n'y a pas moyen d'apprivoiser ; et depuis trois semaines qu'elle est dans ce village, je n'ai pas osé en aborder.
+
+-*who_eraste
+Je t'en offre autant, c'est une aussi surveillante Madame.
+
+-*who_lolive
+Nous l'endormirons, ne vous mettez pas en peine, on ne nous a pas mandés pour rien.
+Il y a une noce dans le village, nos Dames en seront apparemment : ces noces de village sont tumultueuses, on ne nous connaîtra point.
+J'augure bien de notre voyage.
+
+-*who_eraste
+Il faudrait tâcher de prendre langue, et de savoir
+
+-*who_lolive
+Laissez-moi faire.
+Voici la maison de Madame Loricart.
+Je vais reconnaître la place, et je vous en rendrai compte.
+Où vous trouverai-je ?
+
+-*who_eraste
+J'ai dit à mes gens de m'attendre au Dauphin.
+
+-*who_clitandre
+Les miens y sont aussi, apparemment.
+
+-*who_lolive
+À la bonne heure, j'aime les rendez-vous de cabaret, ils sont heureux.
+Quelqu'un sort de la maison, je vais faire jaser ce compère-là, et vous aurez bientôt de mes nouvelles.
+
+**** *book_ *id_I06 *act_I *date_1697
+
+-*who_thibaut
+Morgué, je ne sais ce que ça veut dire, vela quasiment ma forteune faite, et je ne saurais avoir le cœur joyeux.
+
+-*who_lolive
+Voilà une vraie physionomie de nouveau marié, ne serait-ce point celui dont nous venons honorer la noce ?
+
+-*who_thibaut
+Ouais, vela un drôle qui m'examine bian.
+
+-*who_lolive
+Je ne me trompe point, c'est lui-même.
+
+-*who_thibaut
+Il a raison, c'est moi.
+Il faut que ce soit queuqu'un de connaissance.
+
+-*who_lolive
+Vous voulez bien qu'on ait l'honneur de vous faire la révérence, et que l'on vous témoigne la joie que l'on a de votre heureux mariage.
+
+-*who_thibaut
+Mon mariage, à moi !
+Et comment savez-vous ça ?
+Il faut morgué que vous soyez sorcier, je n'en avons parlé à personne.
+
+-*who_lolive
+C'est pourtant une chose publique dans le village, et tout le monde se prépare pour danser à la noce
+
+-*who_thibaut
+Hé, ventregué ce n'est pas ça, c'est celle d'Ambroise et de la grande Margot que vous velez dire ; car pour la mienne, c'est un secret, voyez-vous, il ne faut morgué pas que personne en sache rian.
+
+-*who_lolive
+Il n'importe, je vous en félicite, et la part que je prends à tout ce qui vous regarde
+
+-*who_thibaut
+Pargué, je vous en sis bian obligé, je vous remarcie.
+Mais d'où viant cette amitié-là ?
+D'où est-ce que je nous connaissons, s'il vous plaît ?
+
+-*who_lolive
+Quoi, vous ne me remettez pas ?
+
+-*who_thibaut
+Hé, palsangué, comment vous remettre, pisque je ne nous sommes jamais vus ?
+
+-*who_lolive
+Cela ne fait rien, c'est moi qui suis le bon ami du cousin de la nièce de ce Curé, qui est parent du beau-frère de ce neveu, dont la tante avait un fils qui était ami de la marraine là
+
+-*who_thibaut
+De ma marraine, à moi ?
+
+-*who_lolive
+Oui, justement, de votre marraine.
+
+-*who_thibaut
+Ah !
+Que c'était une bonne parsonne que ma marraine, alle m'aimait bian pendant son vivant ; mais du depuis qu'elle est trépassée
+
+-*who_lolive
+Elle est morte, la pauvre femme !
+
+-*who_thibaut
+Oh, tatigué, oui, elle est défunte, et son mari m'a joué d'un tour.
+
+-*who_lolive
+Comment donc cela ?
+
+-*who_thibaut
+C'est un Procureur, comme vous savez, que le mari de défunt ma marraine.
+
+-*who_lolive
+Vraiment oui, je sais cela.
+
+-*who_thibaut
+Vous savez donc bian itou qu'il était enragé de ce que sa femme avait un filleul qu'alle aimait tant ?
+
+-*who_lolive
+Oh diable oui, il était bien bien fâché, je m'en souviens.
+
+-*who_thibaut
+Oui, mais il n'osait rian dire ; car de son côté il avait itou une petite filleule, et ils ne savions tous deux rien de ça quand ils s'épousirent.
+
+-*who_lolive
+Je le crois bien.
+
+-*who_thibaut
+Oh dame, sitôt qu'ils furent mari et femme, le parrain fit sottement venir la filleule, la marraine fit bravement venir le filleul : chacun le sian, ce n'est pas trop, n'est-ce pas ?
+La marraine est morte, le parrain m'a fait paysan, et il a fait sa filleule Madame.
+Vous comprenez bian ?
+
+-*who_lolive
+Oui, je comprends que vous avez beaucoup perdu à la mort de cette marraine-là.
+
+-*who_thibaut
+Tatigué, je m'en gausse, j'ai bian rencontré ; je sommes heureux nous autres filleuls : je me suis fait le Jardinier d'une vieille Madame, qui a pris une si bonne amitié pour moi, que c'est la plus grande piquié du monde.
+
+-*who_lolive
+Madame Loricart ?
+
+-*who_thibaut
+Justement : alle est folle de moi, et je ne sais par où : il y a morgué bian du caprice dans la tête des femmes, car je ne suis pas trop biau, n'est-ce pas ?
+
+-*who_lolive
+Vraiment, il n'y a pas d'excès.
+
+-*who_thibaut
+Stanpandant, alle veut m'épouser, c'est sa folie ; je ly avais pourtant offert qu'alle ne m'épousît pas : mais j'ai biau dire, alle n'en veut morgué pas démordre.
+
+-*who_lolive
+Quand une femme se met quelque chose dans la cervelle
+
+-*who_thibaut
+J'ai opignion que ce qu'alle en fait, c'est pour faire enrager sa fille et sa nièce, qu'alle n'aime point.
+
+-*who_lolive
+Ah, ah !
+
+-*who_thibaut
+Alles ne m'aimont point itou, moi, cette fille et cette nièce ; alles vont avec une Mathuraine, qui est un serpent pour sa malice, alles me fesont toujours queuque pièce : et par vindication, pour faire ma forteune ; vous m'entendez bian ?
+
+-*who_lolive
+C'est fort bien fait.
+
+-*who_thibaut
+Oui, mais motus, au moins ; il ne faut pas qu'on sache rian de ça, voyez-vous ?
+
+-*who_lolive
+Non, non, ne craignez rien.
+
+-*who_thibaut
+Je fesons mystère de ça, comme si je tuions un homme.
+
+-*who_lolive
+Vous avez raison.
+
+-*who_thibaut
+Le Tabellion a déjà eu plus de vingt écus pour qu'il n'en parlît à parsonne, et j'en ai fantaisie qu'il l'a dit à queuqu'un ; car il m'est avis que tout le monde s'en doute, et si je n'en sonne mot, moi, je m'en garde bian.
+
+-*who_lolive
+Que parlez-vous de Tabellion ?
+Le contrat est donc dressé, apparemment ?
+
+-*who_thibaut
+Oui, voirement, et seigné itou de Madame Loricart, da ; car je ne seigne pas, moi ; et je prenons l'occasion de la noce d'Ambroise pour faire la nôtre à l'appui de la boule : ça n'est pas mal rusé ; n'est-ce pas.
+
+-*who_lolive
+Non, vraiment, cela est bien imaginé.
+
+-*who_thibaut
+Quand ça sera fait une fois, ça sera fait ; je nous déclarerons, et j'apprendrai à lire et à écrire pour exercer queuque bonne charge de robe.
+
+-*who_lolive
+Fort bien.
+
+-*who_thibaut
+En après ça je deviendrai veuf, et puis vela le garçon, je serai heureux comme un petit roi ; car je ne l'aime pas, moi, Madame Loricart ; et si ce n'était que je m'ennuie d'être Jardinier
+
+-*who_lolive
+Je comprends fort bien cela, il n'y a personne qui n'en fît autant.
+
+-*who_thibaut
+N'est-il pas vrai ?
+Ah, ah !
+Vela cette dessalée de Mathuraine que je vous disais ; je crois, Dieu me pardonne, qu'alle vous fait des mines.
+
+-*who_lolive
+À moi ?
+
+-*who_thibaut
+Oui, palsanguenne, à vous ; je n'ai point la vue trouble.
+Est-ce que vous la connaîtriais, cette masque-là.
+
+-*who_lolive
+Non, je vous assure.
+Il ne faut point l'aborder devant cet animal-là.
+Jusqu'au revoir, Monsieur le Jardinier, je vous baise bien les mains.
+
+-*who_thibaut
+Pargué, je ne nous séparerons pas comme ça, je renouvellerons connaissance.
+
+**** *book_ *id_I07 *act_I *date_1697
+
+-*who_mathurine
+Parlez donc ho, Monsieur Thibaut, Madame est dans le jardin qui vous demande.
+
+-*who_thibaut
+Pargué, qu'alle attende, alle me verra assez.
+J'allons boire bouteille.
+
+-*who_lolive
+Et nous ne tarderons pas à revenir : que Madame ne s'impatiente point.
+
+**** *book_ *id_I08 *act_I *date_1697
+
+-*who_mathurine
+C'est ce maroufle de jardinier qui est cause que Lolive s'en va sans me dire un mot : il a bian fait, ce visage-là redit tout à Madame, ce sont deux têtes dans le même bonnet ; et la fausse vieille a biau dire que c'est le jardinage qu'elle aime, c'est le jardinier à qui alle en veut, sur ma parole.
+
+**** *book_ *id_I09 *act_I *date_1697
+
+-*who_cleonte
+Bonjour, ma chère Mathurine.
+
+-*who_mathurine
+Ah !
+Votre servante, Monsieur Cléonte, soyez le bienvenu, vous danserez à la noce.
+
+-*who_cleonte
+Comment se porte ma belle-sœur, Madame Loricart ?
+
+-*who_mathurine
+Toujours tout de même, alle nous fait enrager, comme de coutume ; alle ne veut jamais ce que je voulons, et alle veut toujours ce que je ne voulons pas ; et si je fais tout ce que je puis, moi, pour avoir l'honneur de ses bonnes grâces.
+
+-*who_cleonte
+Elle est d'une humeur fort extraordinaire, cette femme-là ; mais il faut tâcher de s'y accommoder, et prendre des mesures pour concilier vos petits intérêts et ses caprices.
+
+-*who_mathurine
+C'est bien dit, Monsieur, vous parlez d'or, faites de même, je vous seconderons que rian n'y manquera : vous voici venu tout à propos, et je mourions d'envie de vous voir, ces Damoiselles et moi, afin que vous nous conseillissiais ce qu'il faut que je fassions ; car, voyez-vous, je n'y entendons point de malice, je ne demandons qu'amour et simplesse : je vous en croirons !
+Qu'en pensez-vous, vous n'avez qu'à dire ?
+
+-*who_cleonte
+Mais avant que de vous expliquer ma pensée, il faut que je sois informé des vôtres.
+De quoi est-il question ?
+
+-*who_mathurine
+Il est question que je sommes amoureuses, conseillez-nous, nous marions-je ?
+
+-*who_cleonte
+C'est le seul parti qu'il y ait à prendre, à ce qu'il me semble.
+
+-*who_mathurine
+Hé bian, c'est justement le parti que votre belle-sœur ne veut pas que nous prenions.
+
+-*who_cleonte
+Comment donc ?
+Quel est son dessein ?
+
+-*who_mathurine
+Que je mourions filles.
+
+-*who_cleonte
+Je la vis pourtant, il y a deux mois, dans la résolution de marier sa fille et sa nièce, et elle voulait aussi te faire épouser
+
+-*who_mathurine
+Hé !
+Voirement oui, elle me voulait bailler un homme qui aurait parti quatre jours après pour aller chercher forteune aux antipodes : ho !
+Je ne veux point d'un mari voyageur.
+Tenez, Monsieur Cléonte, ça ne vaut rian pour l'honneur d'une femme, ni pour le repos de sa conscience.
+
+-*who_cleonte
+Tu as raison : mais pourquoi ma nièce Angélique a-t-elle refusé ce riche Banquier que sa mère lui destinait.
+
+-*who_mathurine
+Pourquoi, Monsieur ?
+C'était un vieux goûteux qui trépassit, il y a quinze jours : il y a deux mois que nan voulait faire le mariage ; si on l'avait fait, il y a plus de sept semaines qu'il serait entarré.
+Voyez-vous, Mademoiselle Angélique veut se marier pour être mariée, et sa mère la voulait marier pour qu'alle fût veuve ; je m'en rapporte à vous, laqueulle est-ce qui a tort ?
+
+-*who_cleonte
+Je ne puis condamner les sentiments de ma nièce ; si pourtant elle avait suivi ceux de sa mère, elle serait maîtresse d'un gros bien, elle aurait un douaire considérable
+
+-*who_mathurine
+Hé !
+Fi, fi, Monsieur, ce serait un bian mal acquis, je ne voulons point de ça, il n'est rian tel qu'un douaire bian gagné, c'est le plus profitable : des héritiers n'avont rian à dire.
+Pour moi je serai bian aise de n'avoir rian à me reprocher.
+
+-*who_cleonte
+Vous êtes scrupuleuse, à ce que je vois : serait-ce par scrupule aussi que Mademoiselle Mariane n'a point voulu de ce jeune avocat
+
+-*who_mathurine
+Cet avocat, Monsieur ?
+C'est un nigaud, un imbécile ; qu'aurait-elle fait de ce benêt-là ?
+Alle est riche, Mademoiselle Mariane, alle a de quoi faire la forteune d'un homme.
+Oh dame, accoutez, on est bian aise d'avoir queuque chose de bon pour son argent, et puis il m'est avis qu'une honnête femme ne doit point vouloir d'un mari sot.
+
+-*who_cleonte
+Je ne la blâme donc pas, d'avoir refusé celui-là.
+
+-*who_mathurine
+Vela tout justement, Monsieur, les petites raisons que j'avons eues pour ne vouloir point des maris que nan voulait nous bailler, et pour prendre la libarté d'en choisir d'autres, que je ne prendrons pourtant que bian à propos.
+
+-*who_cleonte
+J'entends bien.
+Ces Damoiselles ont quelque amant dans la tête, n'est-ce pas ?
+
+-*who_mathurine
+Et moi itou, Monsieur ; je vous les ferons voir, ils sont tous trois dans le village ; et je vous prierons, comme vous êtes Avocat, de nous bailler queuque rubrique, pour en faire accroire à Madame, et pour nous moquer d'elle sous la protection de la Justice.
+
+-*who_cleonte
+Nous verrons cela : et si mes nièces ont fait un bon choix, je ne m'opposerai point à leur bonheur.
+
+-*who_mathurine
+Je crois que vela Madame.
+Il n'est pas besoin qu'alle sache encore rian de tout ça, entendez-vous ?
+
+-*who_cleonte
+Non, non, ne crains rien.
+
+**** *book_ *id_I10 *act_I *date_1697
+
+-*who_madameloricart
+Hé bien, Mathurine, où est donc le Jardinier ?
+Ne t'avais-je pas dit
+
+-*who_mathurine
+Oui, Madame : mais
+
+-*who_madameloricart
+Ah, ah !
+Voilà mon beau-frère.
+Qui vous a mandé ?
+Que venez-vous faire ici.
+
+-*who_cleonte
+Vous rendre visite, ma sœur, chercher à vous divertir, et à vous tirer de cette mauvaise humeur où l'on dit que vous prenez plaisir à vous entretenir vous-même.
+
+-*who_madameloricart
+Où l'on dit, où l'on dit.
+Ah !
+Que je reconnais bien là mes deux coquines, qui me font passer pour une bourrue, pour une capricieuse.
+N'est-ce point toi aussi qui te mêles
+
+-*who_mathurine
+Moi, Madame ?
+Demandez à Monsieur si je vous ai parlé de ça.
+Au contraire, voirement, je vous trouve la Madame la plus joyeuse du monde, quand vous êtes avec votre Jardinier, da.
+
+-*who_madameloricart
+Il n'y a que lui de raisonnable dans toute la maison.
+
+-*who_mathurine
+Ça est vrai, Madame, nous sommes des bêtes nous autres ; et Monsieur Cléonte itou n'est qu'un animal en comparaison de Monsieur Thibaut.
+
+-*who_cleonte
+En te remerciant, ma chère Mathurine.
+
+-*who_madameloricart
+Il ne faut pas prendre garde à ce qu'elle dit.
+Oh, çà, çà, je suis bien aise de vous voir.
+Quand vous en retournez-vous ?
+
+-*who_cleonte
+Quand je m'apercevrai que je vous incommode.
+
+-*who_madameloricart
+Vous ne m'incommodez point, pourvu que vous ne vous mêliez point de mes affaires.
+
+-*who_cleonte
+Cela suffit.
+
+-*who_madameloricart
+Que vous me laissiez gouverner ma famille à ma fantaisie.
+
+-*who_cleonte
+Vous êtes la maîtresse.
+
+-*who_madameloricart
+Que vous ne preniez point mal à propos le parti de vos nièces.
+
+-*who_cleonte
+Je m'en garderai bien.
+
+-*who_mathurine
+Et que vous faisiez bian des amitiés à maître Thibaut, entendez-vous ?
+
+-*who_cleonte
+Qu'à cela ne tienne.
+
+-*who_mathurine
+Ces Damoiselles ne le respectont pas assez queuquefois, et ça fâche Madame.
+
+-*who_madameloricart
+Ce sont des insolentes que je réduirai.
+
+-*who_cleonte
+Vous ferez bien.
+
+-*who_madameloricart
+Elles me contredisent en toutes choses, et moi de mon côté.
+
+-*who_cleonte
+Vous les contraignez en toutes choses aussi, n'est-ce pas ?
+
+-*who_madameloricart
+Assurément.
+
+-*who_mathurine
+C'est bian fait, ce sont des obstinées.
+Tenez, Monsieur, il y a une noce dans le Village, dont alles avont prié qu'on les priit ; et par esprit de contradiction alles n'en voulont pas être, afin que Madame veuille qu'alles en soyont.
+
+-*who_madameloricart
+Ho je n'en aurai pas le démenti, je fais tous les frais de la noce ; on dansera ici dans ma cour, et je ferai même le festin pour leur faire dépit.
+
+-*who_cleonte
+C'est bien prendre la chose.
+
+-*who_mathurine
+Alles seront bian attrapées, n'est-ce pas, Monsieur ?
+
+-*who_cleonte
+Sans doute.
+
+-*who_madameloricart
+Et pour les mortifier davantage, là, pour abaisser leur petit orgueil, je les fais habiller en paysannes.
+
+-*who_mathurine
+C'est moi qui vous ai baillé cet avis-là Madame.
+
+-*who_madameloricart
+Cela est vrai, je t'en ai l'obligation.
+
+-*who_cleonte
+Vous prenez le bon parti, il faut dompter ces petits naturels-là.
+
+-*who_madameloricart
+J'en viendrai à bout, pourvu que vous ne les gâtiez pas, vous : car vous êtes leur bon oncle, à ce qu'elles disent, et vous ne savez non plus gouverner des enfants
+
+-*who_cleonte
+Ne craignez rien, je vais les voir, et je ne leur donnerai que de bons conseils et des sentiments raisonnables.
+
+**** *book_ *id_I11 *act_I *date_1697
+
+-*who_mathurine
+Avec tout ça, c'est un bonhomme que ce Monsieur Cléonte, et si pourtant il m'est avis que vous n'êtes pas trop aise quand il viant cheux vous.
+
+-*who_madameloricart
+Vraiment, j'ai bien affaire de lui, n'ai-je pas assez souffert de la mauvaise humeur de feu son frère, sans avoir les fréquentes visites de celui-ci ?
+
+-*who_mathurine
+Est-ce que feu Monsieur Loricart était de mauvaise himeur, Madame ?
+
+-*who_madameloricart
+Lui ?
+C'était le plus grand cheval de carrosse, le plus grand brutal.
+Dieu veuille avoir son âme ; il a bien fait de mourir, je n'y pouvais plus vivre.
+
+-*who_mathurine
+Vela une belle épitaphe ?
+
+-*who_madameloricart
+Il m'a donné bien des chagrins : mais, ou je ne pourrai, ou je les rendrai bien à Mademoiselle sa fille.
+
+-*who_mathurine
+À sa fille, Madame !
+Et n'est-ce point la vôtre ?
+
+-*who_madameloricart
+Je ne saurais que te dire, le beau-frère, la fille, la nièce, je n'aime point du tout cette parenté-là.
+On n'a point de plus grands ennemis que ses parents, ce sont des espions qui contrôlent perpétuellement tout ce que vous faites, et je n'aime pas être contrôlée, moi.
+
+-*who_mathurine
+Ça n'est pas récriatif, vous avez raison.
+
+-*who_madameloricart
+Je suis veuve, j'ai du bien, je ne dépends de personne, je veux faire la fortune de quelqu'un qui m'en sache gré.
+
+-*who_mathurine
+C'est bian avisé, Madame, faites la mienne, je sis une bonne pâte de criature, je vous remarcierai tant que vous n'aurez à dire.
+
+-*who_madameloricart
+Oui, j'aurai soin de toi, laisse-moi faire, tu es une fort bonne fille : mais
+
+-*who_mathurine
+Ah, j'entends bien ce mais-là, ce n'est pas la frorteune d'une fille que vous voulez faire, c'est celle de queuque garçon, n'est-ce pas ?
+
+-*who_madameloricart
+Ma famille m'a fait prendre autrefois un mari à sa fantaisie, sans m'en demander mon avis.
+
+-*who_mathurine
+C'est votre tour à cette heure, d'en prendre un à votre fantaisie, à vous, sans demander l'avis de la famille.
+
+-*who_madameloricart
+Il me paraît qu'il n'y a rien de plus juste.
+
+-*who_mathurine
+Non voirement.
+Ah l'heureux Jardinier que ce maître Thibaut !
+
+-*who_madameloricart
+Hé, qui te dit que c'est lui
+
+-*who_mathurine
+Oh, que je ne me trompe point.
+Tenez, Madame, à le voir impartinant comme il est, je me sis quasiment toujours doutée de la chose.
+
+-*who_madameloricart
+Paix, tais-toi, sur les yeux de ta tête : quoique je sois maîtresse de mes actions, je veux éviter de certaines choses.
+
+-*who_mathurine
+Oui, c'est bian dit, vous avez raison, on en ferait des chansons, si on savait ça.
+Il y a de maleignes gens dans le Village.
+
+-*who_madameloricart
+Bon, des chansons !
+C'est bien là ce que je crains.
+Mais pour ne se pas exposer aux reproches et aux sots discours
+
+-*who_mathurine
+Allez, allez, n'en appréhendez point du côté de cheux nous, c'est la même Leune qui gouverne toute votre famille.
+
+-*who_madameloricart
+Comment donc ?
+Que veux-tu dire ?
+
+-*who_mathurine
+Je ne sais pas queu vent a soufflé sur la maison ; mais votre fille et votre nièce sont tout aussi folles que vous, je vous en avartis.
+
+-*who_madameloricart
+Mathurine !
+
+-*who_mathurine
+Alles voulont itou faire la forteune de queuqu'un.
+
+-*who_madameloricart
+Qu'est-ce que cela signifie ?
+
+-*who_mathurine
+Qu'alles avont chacune un amoureux dans le Village.
+
+-*who_madameloricart
+Ah !
+Les impertinentes, les ridicules, les extravagantes.
+
+-*who_mathurine
+Oui, c'est tout comme vous, vous dis-je, alles avont cette fantaisie-là.
+
+-*who_madameloricart
+Mais voyez ces malheureuses, ces coquines, ces dévergondées : ah !
+Je leur apprendrai bien
+
+-*who_mathurine
+Mais voirement, Madame, alles ne font pas pis que vous ; tout le tort qu'alles avont, c'est qu'alles pourriont mieux faire, qu'alles n'ont qu'à choisir ; et que vous, ce n'est pas de même.
+
+-*who_madameloricart
+Comment ?
+Comment donc ?
+
+-*who_mathurine
+Quand on est comme elles, on prend ce qu'on veut : quand on est comme vous, on prend ce qu'on trouve.
+
+-*who_madameloricart
+Ne va pas leur faire cette confidence, au moins.
+
+-*who_mathurine
+Non, non, Madame, ne faites pas non plus semblant de savoir ce que je vous ai dit d'elles.
+
+-*who_madameloricart
+Que mon beau-frère surtout
+
+-*who_mathurine
+Je le ferons donner dans le panniau, ne vous mettez pas en peine, je suis pour mon compte itou là-dedans, moi, Madame.
+
+-*who_madameloricart
+Toi, Mathurine ?
+
+-*who_mathurine
+Oui, voirement, et tenez vela mon paysan : oh dame, Madame, j'avons chacun le nôtre.
+
+-*who_madameloricart
+Ce garçon-là n'est pas mal fait, vraiment.
+
+-*who_mathurine
+N'est-il pas vrai ?
+Vous auriais grondé dans un autre temps, mais j'ons barre sur vous.
+Comme ça vous rend bonne !
+Approchez, garçon, et faites la révérence à Madame.
+
+**** *book_ *id_I12 *act_I *date_1697
+
+-*who_lolive
+Je suis bien heureux, Madame, d'avoir l'honneur
+
+-*who_madameloricart
+Bon jour, mon ami, bon jour.
+Je vais rejoindre mon beau frère, si tu vois Thibaut, envoie-le moi, j'ai quelque chose à lui dire.
+
+**** *book_ *id_I13 *act_I *date_1697
+
+-*who_lolive
+Qu'est-ce donc que cela ?
+Madame Loricart me paraît plus traitable que de coutume, elle s'apprivoise, à ce qu'il me semble.
+
+-*who_mathurine
+C'est notre Jardinier qui l'a apprivoisée ; je l'y passons ses fredaines, alle nous passe les nôtres.
+
+-*who_lolive
+Cela n'est pas malheureux, et sur ce pied-là, je n'aurai pas de regret à mon mariage, apparemment.
+Pourquoi m'es-tu fait venir ?
+Çà, voyons, de quoi est-il question.
+
+-*who_mathurine
+De nous épouser : je suis bian nippée !
+J'ai six cents francs, tu as bon esprit, je ne sis pas sotte ; tian, mon garçon, marions-nous, l'ai opignion que nous serons bian ensemble.
+
+-*who_lolive
+Mais cela est bien, prompt, Mathurine, comme cette envie-là te prend !
+Je croyais venir à la noce d'un autre, et c'est de la mienne dont je suis prié.
+
+-*who_mathurine
+Ça t'accommode-t-il ?
+Vois si tu le veux, vela qui est fait : si tu ne le veux pas, que je ne te voie plus, j'en prendrai queuque autre.
+
+-*who_lolive
+Voilà une grosse personne qui aime bien délicatement.
+
+-*who_mathurine
+Détermine-toi donc, je hais les barguigneux, dépêche.
+
+-*who_lolive
+Mais je ferai tout ce que tu voudras, moi, tu n'as qu'à dire.
+Je t'aime, tu m'aimes aussi, tu as six cent francs, tu me demandes en mariage à moi-même, parce que je suis seul de ma famille : je ne suis pas cruel, je m'accorde à tes désirs ; voilà qui est fini, j'aurai la complaisance de t'épouser.
+
+-*who_mathurine
+La complaisance !
+Mais voyez ce magot ?
+
+-*who_lolive
+Ne te fâche donc point, nous voilà d'accord de nos faits : travaillons un peu pour le prochain maintenant.
+Il y a dans le Village deux fidèles pasteurs qui attendent de mes nouvelles : ne pourrions-nous point les aboucher avec leurs bergères, et prendre ensemble des mesures
+
+-*who_mathurine
+Tu connais les amoureux de nos Demoiselles ?
+
+-*who_lolive
+Si je les connais ?
+Ils m'attendent au Dauphin, te dis-je.
+
+-*who_mathurine
+Va-t-en les chercher, et qu'ils veniont ici, il n'y a plus rian à craindre.
+
+-*who_lolive
+Mais sur quel pied se présenteront-ils ?
+Ils sont déguisés en paysans.
+
+-*who_mathurine
+Je le savons bian, c'est le tant mieux de l'affaire ; il ne faut pas qu'on sache qu'ils sont des Monsieux.
+Fais les venir, et ne t'embarrasse point, tout ira bian.
+
+**** *book_ *id_I14 *act_I *date_1697
+
+-*who_thibaut
+Oh palsanguenne, oui, j'ai bian affaire de ça.
+Mais voyez un peu ces nigauds-là à qui ils en avont.
+
+-*who_mathurine
+Qu'est-ce que c'est donc, Monsieur Thibaut, vous voilà bian de mauvaise himeur ?
+
+-*who_thibaut
+Hé vantregué, qui ne le serait pas ?
+N'an se gobarge de moi dans tout le Village, et les petits enfants couront après moi : oh dame.
+
+-*who_mathurine
+Est-ce que vous leur avez fait queuque chose.
+
+-*who_thibaut
+Non, voirement, c'est notre Madame qui est cause de ça.
+
+-*who_mathurine
+Madame Loricart ?
+
+-*who_thibaut
+Avec son mariage qu'alle dit qui sera secret, et tout le monde en va à la moutarde.
+
+-*who_mathurine
+Hé bian, tant mieux pour vous, cela vous fait honneur.
+
+-*who_thibaut
+Queu peste d'honneur !
+Ils se gaussont tretous de moi, vous dis-je.
+
+-*who_mathurine
+Ils ne prenont pas bien la chose.
+
+-*who_thibaut
+Morgué, ils n'avont pas tort, il faut se rendre justice.
+Tenez, à la franquette, Madame Mathurine, je nous déshonorons tous deux, Madame Loricart et moi, chacun à notre manière : alle, moi, parce qu'alle est vieille ; moi, alle, parce que je ne sis qu'un paysan : et si dans le fonds, il y va plus du mien que du sien ; car tatigué, je vaux mieux qu'elle, oui, et elle le sait bian, c'est alle qui me recherche.
+
+-*who_mathurine
+Et tu crois que cela te déshonore de devenir le mari d'une parsonne dont tu n'es que le Jardinier.
+
+-*who_thibaut
+Hé bian, qu'est-ce que ça fait ?
+
+-*who_mathurine
+Ça fait ta forteune.
+
+-*who_thibaut
+Bon, ma forteune, il faut bian qu'alle y trouve son compte, elle, pis que c'est elle qui me prie, vous dit-on : mais palsanguenne, il n'en sera rian, vela qui est résolu.
+
+-*who_mathurine
+Mais acoutez donc, Monsieu Thibaut, songez bian que Madame est amoureuse de vous, au moins, et que
+
+-*who_thibaut
+Ça n'y fait rian : quand elle en devrait crever, alle ne m'aura morgué pas.
+
+-*who_mathurine
+Mais
+
+-*who_thibaut
+Il n'en sera pargué rian, vous dis-je : je sais bian ce qui en arriverait, je sis brutal, je me connais, je n'aime pas les gausseries, je casserais la tête à queuqu'un, qui en trépasserait, la Justice s'en voudrait mêler, et puis crac, vela le marié branché ; le beau commencement de noce !
+On dame, voyez-vous, j'aime mieux être un Jardinier en bonne santé, qu'un Monsieu pendu, il n'y a point de milieu.
+
+-*who_mathurine
+Il n'y aura pas moyen de faire entendre raison à cet animal-là.
+
+-*who_thibaut
+Où est-ce qu'est Madame ?
+Je m'en vais tout franchement ly dire que je ne veux point d'elle.
+Sans adieu, Madame Mathureine.
+
+-*who_mathurine
+Mais attendez donc
+
+-*who_thibaut
+Je n'en démordrai point, vela qui est fini.
+
+**** *book_ *id_I15 *act_I *date_1697
+
+-*who_mathurine
+Ce brutal-là va faire une sottise qui portera préjudice à nos Damoiselles.
+En voici déjà une, je varrons biantôt l'autre.
+
+**** *book_ *id_I16 *act_I *date_1697
+
+-*who_mariane
+Hé bien, ma chère Mathurine, n'as-tu point de nouvelles d'Éraste et de Clitandre ?
+Ma cousine est, comme moi, dans une impatience
+
+-*who_mathurine
+Ils sont tous deux ici, ne vous impatientez plus.
+
+-*who_mariane
+Sais-tu s'ils sont déguisés comme nous leur avons fait dire ?
+
+-*who_mathurine
+Oui, vous allez les voir, j'ai donné ordre qu'on les amenît.
+
+-*who_mariane
+Ah, Mathurine !
+Tu n'y songes pas, et ma tante
+
+-*who_mathurine
+Que ça ne vous embarrasse point : vous les avez fait venir pour les voir une fois, pour qu'ils sachent ce que vous pensez, et pour savoir ce qu'ils voulont faire ; et il m'est avis qu'ils ne pouvont vous dire ça, à moins qu'ils ne vous parliont, je vous défie de faire autrement.
+
+-*who_mariane
+Mais nous avions projeté, comme tu sais, qu'ils ne paraîtraient ici qu'avec toute la noce, et que pendant qu'on danserait, dans la chaleur du divertissement, nous trouverions moyen de les entretenir, sans que ma tante, toute soupçonneuse qu'elle est, pût s'imaginer que deux paysans fussent nos amants.
+
+-*who_mathurine
+Oh !
+Elle s'imaginerait fort bian ça, elle est la maîtresse d'un paysan, afin que vous le sachiais.
+
+-*who_mariane
+Tu perds l'esprit, Mathurine Ma tante
+
+-*who_mathurine
+Est amoureuse du Jardinier Ne vous l'ai-je pas toujours bian dit ?
+
+-*who_mariane
+Cela n'est pas possible !
+Ma tante et Thibaut ?
+Cela serait trop plaisant.
+
+-*who_mathurine
+Oui ; ça est bian réjouissant, n'est-ce pas ?
+
+-*who_mariane
+Ma tante amoureuse à son âge ?
+
+-*who_mathurine
+Et amoureuse de maître Thibaut encore.
+
+-*who_mariane
+Elle qui fait si fort la prude, et qui nous prêche continuellement de mépriser tous les hommes du monde ?
+
+-*who_mathurine
+Oh !
+Défiez-vous de ces sarmonneuses-là, alles ne prenont jamais pour elles ce qu'alles disent aux autres.
+
+-*who_mariane
+Oh, je l'attends désormais avec ses sermons et ses remontrances.
+
+-*who_mathurine
+Je sommes en droit de chapitrer la chapitreuse.
+
+-*who_mariane
+Je ne m'en sens pas de joie, je l'avoue.
+
+**** *book_ *id_I17 *act_I *date_1697
+
+-*who_mariane
+Ma chère cousine, ta mère est folle, nous sommes les plus heureuses personnes du monde.
+
+-*who_angelique
+Tu extravagues toi-même de te figurer cela, et de le regarder comme un bonheur.
+
+-*who_mariane
+Il ne pouvait nous en arriver un plus grand.
+
+-*who_cleonte
+Vous n'y songez pas, ma nièce, de quelle utilité pourrait vous être ce que vous dites, supposé même qu'il fût vrai ?
+
+-*who_mariane
+Vous ne le comprenez pas, parce que ma cousine n'a pas achevé de vous dire toutes nos affaires, et que vous ignorez de quelle nature est la folie de ma tante.
+
+-*who_cleonte
+Je sais que Clitandre vous aime, qu'Éraste est amoureux d'Angélique, que vous êtes sensibles toutes deux au mérite et à la passion de l'un et de l'autre ; et il me semble que bien loin de vous réjouir que votre tante fût folle, vous devriez souhaiter qu'elle fût assez sage pour agréer ces deux alliances.
+
+-*who_mathurine
+Oh pour stilà, c'est moi qui en réponds, elle sera assez sage pour agrier tous vos mariages, pourvu que vous soyais assez fous pour agrier le sien.
+
+-*who_cleonte
+Comment donc ?
+
+-*who_angelique
+Je m'y perds : quel galimatias nous fait-on de folie, de mariage de ma mère ?
+Qu'est-ce que cela veut dire ?
+
+-*who_mathurine
+Ça veut dire que votre mère va épouser son Jardinier.
+
+-*who_angelique
+Ah, mon oncle !
+
+-*who_cleonte
+Mathurine ?
+
+-*who_angelique
+Il faut empêcher cela, mon oncle.
+
+-*who_cleonte
+Au contraire, ne nous y opposons point.
+
+-*who_mathurine
+Monsieur a bon esprit, laissez faire à Madame cette sottise-là, afin qu'alle vous laisse faire les vôtres.
+
+-*who_mariane
+Mais Éraste et Clitandre s'accommoderont-ils, l'un de devenir le gendre, et l'autre le neveu d'un paysan ?
+
+-*who_mathurine
+La belle doutance, ils se sont bian fait paysans eux-mêmes pour l'amour de vous.
+Tenez, les vela.
+Monsieur, les auriais-vous reconnus ?
+
+-*who_cleonte
+Non vraiment.
+
+**** *book_ *id_I18 *act_I *date_1697
+
+-*who_eraste
+C'est leur oncle qui est avec elles, Lolive.
+
+-*who_lolive
+Il n'importe, approchons toujours, tout coup vaille.
+
+-*who_clitandre
+Que notre déguisement ne vous révolte point contre nous, Monsieur : il doit servir au contraire à vous marquer l'excès de la passion que nous avons pour ces adorables personnes ; et vous jugerez de la pureté de nos intentions
+
+-*who_cleonte
+Je ferais tort à mes nièces d'en douter, Messieurs ; et si Madame Loricart était raisonnable, vous n'auriez pas besoin de paraître ici sous des figures empruntées ; mais
+
+-*who_eraste
+Nous serons malheureux sans votre protection, Monsieur.
+
+-*who_cleonte
+Je n'oublierai rien pour vous rendre service.
+
+-*who_mariane
+Y a-t-il longtemps que vous êtes ici ?
+
+-*who_clitandre
+L'amour m'a fait y voler, belle Mariane.
+
+-*who_angelique
+Vous êtes venu le dernier, je gage ?
+
+-*who_eraste
+Vous perdriez, je vous assure.
+
+-*who_mathurine
+Hé bian, ne vela-t-il pas ?
+Vous vous parlez à l'oreille, il est bian temps de ça, j'ons des affaires communes, faut parler en commun, n'est-il pas vrai, monsieur Cléonte ?
+Oh ça, tenez, vela itou, mon amoureux, je voudrions bian faire ces trois noces-là ; après ce que je vous ai dit, il m'est avis que la chose n'est pas si mal aisée.
+Boutez un peu la main à la pâte, comment nous y prendrons-je ?
+
+-*who_clitandre
+Entrez un peu dans nos intérêts, Monsieur.
+
+-*who_eraste
+Soyez-nous favorable, de grâce.
+
+-*who_lolive
+Prenez pitié de ces enfants-là.
+
+-*who_mariane
+Mon cher petit oncle ?
+
+-*who_angelique
+Mon bon oncle ?
+
+-*who_mathurine
+Monsieur Clionte ?
+
+-*who_cleonte
+Je ferai tout ce qui dépendra de moi, je vous le promets.
+Si nous pouvions seulement avoir quelque preuve sérieuse des intentions de ma belle-sœur pour son maître Thibaut
+
+-*who_lolive
+Elles sont publiques dans le village, Monsieur ; et on leur prépare le régal d'un petit charivari même, j'en viens de voir les apprêts.
+
+-*who_cleonte
+Ce peut-être un faux bruit qu'elle désavouera, et qui l'empêchera de s'engager plus avant dans cette fausse démarche.
+
+-*who_lolive
+Oh, parbleu, je la défie de reculer, elle a signé un Contrat, que j'ai vu ; je viens de boire avec maître Thibaut et avec le Tabellion.
+
+-*who_cleonte
+Elle a signé un contrat ?
+Il ne nous en faut pas davantage.
+Allons, mes nièces.
+Suivez-nous, Messieurs.
+Tu sais le logis du Tabellion ?
+
+-*who_lolive
+Si je le sais ?
+C'est un de mes anciens amis, un bon vivant, nous avons été ensemble au Collège.
+Je m'en vais vous y mener.
+
+-*who_mathurine
+Ne faut-il pas que j'aille avec vous, moi ?
+J'y ai affaire, à ce qu'il me semble.
+
+-*who_mariane
+Non, demeure ici, Mathurine, afin d'amuser ma tante, en cas qu'elle s'avisât de demander où nous sommes.
+
+-*who_mathurine
+Oui ; mais qu'on aille pas m'oublier chez le Tabellion.
+Je veux être itou mariée, Monsieur Clionte.
+
+-*who_lolive
+Ne te mets pas en peine, ce sont mes affaires.
+
+**** *book_ *id_I19 *act_I *date_1697
+
+-*who_mathurine
+Ça sera trop plaisant, je nous en allons faire une charretée de noces, et c'est celle de Madame Loricart qui est cause de tout ça : queulle bénédiction !
+
+**** *book_ *id_I20 *act_I *date_1697
+
+-*who_thibaut
+Tatigué, Madame, ne vous avisez pas de me frapper, je serions deux, voyez-vous.
+
+-*who_madameloricart
+Tu es un coquin, tu m'épouseras, tu me l'as promis : tu me tiendras parole.
+
+-*who_mathurine
+Hé, Madame, vous n'y pensez pas ; quel emportement !
+
+-*who_madameloricart
+Mais, voyez ce fripon, ce maraud, ce bélître, ce gueux, cet impertinent, qui fait difficulté de m'épouser !
+
+-*who_mathurine
+Il a tort, Madame, je le lui ai déjà dit.
+Est-ce que vous êtes fou, maître Thibaut ?
+
+-*who_thibaut
+Non, morgué, je ne sis point fou, Madame le sait bian ; je vians de lui dire ce que je vous avais dit, vela ce qui la fâche tant.
+
+-*who_madameloricart
+Le petit ingrat !
+C'est quelque mauvais conseil qu'on lui a donné, ma pauvre Mathurine ; car hier encore, signant le Contrat
+
+-*who_thibaut
+Vous m'avez attrapé, Madame, l'y a de la tricherie.
+
+-*who_madameloricart
+Je l'ai attrapé, moi ?
+
+-*who_thibaut
+Oh !
+Tatigué oui ; vous m'avez fait accroire que de me marier avec vous, ça me ferait de l'honneur, et c'est tout le contraire, ça me fait de la vergogne.
+
+-*who_madameloricart
+Ah !
+L'insolent, de quel terme il se sert.
+De la vergogne, moi ?
+De la vergogne ?
+Mais fais-lui donc entendre raison, ma chère Mathurine ; il me fera mourir de chagrin, ce petit perfide-là.
+
+-*who_thibaut
+Oh, ventregué, Madame, rengainez vos injures, je ne sis point un parfide, voyez-vous ?
+
+-*who_mathurine
+Si fait voirement, vous manquez de parole à Madame.
+
+-*who_madameloricart
+Après les engagements que nous avons ensemble
+
+-*who_thibaut
+Les engagements, Madame ?
+Oh palsangué, je ne vous crains point, il ne s'est rian passé entre vous et moi, je sis à couvart du blâme.
+
+-*who_madameloricart
+N'avons-nous pas un Contrat de mariage ?
+
+-*who_thibaut
+Ça n'y fait rian, je sis mineur, je reviendrai là contre.
+
+-*who_madameloricart
+Tu ferais casser notre Contrat, traître ?
+
+-*who_thibaut
+Assurément, je sis un enfant en comparaison de vous ; l'y a eu de la surprise.
+Si vous n'aviais point babillé encore, vous ou le Tabellion, c'en était pargué fait, j'eusse achevé la sottise, vous me teniais ; mais vous avez jasé, n'an s'est gaussé de moi, vous ne tenez rian.
+
+-*who_madameloricart
+Que je suis malheureuse !
+
+-*who_mathurine
+Mais savez-vous bian que vous pardez l'esprit ; vous croyez qu'on se gausse de vous, parce que vous épousez Madame ; on se gaussera bian davantage, si vous ne l'épousez pas.
+
+-*who_thibaut
+Vous croyez ça ?
+Mais voici qui est admirable, les uns disont d'une façon, les autres disont de l'autre ; on ne sait à qui croire.
+
+-*who_mathurine
+Ce sont des envieux de votre bonheur, qui vous tenont de mauvais discours.
+
+-*who_thibaut
+Des envieux ?
+
+-*who_madameloricart
+Oui, mon cher enfant, des mal intentionnés, qui ne voient notre union qu'avec chagrin.
+
+-*who_thibaut
+Hé bian, tenez, vela-t-il pas tout juste ?
+C'est encore là ce que j'appréhende.
+Votre biau-frère sera fâché, votre fille enragera, votre nièce fera la meine.
+
+-*who_mathurine
+Non, je vous réponds du contraire, moi.
+
+-*who_madameloricart
+Ils en seront tous ravis, pourvu que tu m'aimes, n'est-ce pas, Mathurine ?
+
+-*who_mathurine
+Oui, Madame, vous avez la meilleure famille
+
+-*who_thibaut
+Morgué, pas trop, et puis velez-vous que je vous dise, vous avez de vilaines manières, Madame.
+
+-*who_madameloricart
+Moi ?
+
+-*who_thibaut
+Vous tenez là un bâton.
+Oh dame, acoutez, quand je serai le mari, ne croyez pas avoir affaire au Jardinier, je veux être le maître.
+
+-*who_madameloricart
+Hé bien, tu le seras, je te le promets.
+
+-*who_thibaut
+Vela qui est donc fait, moyennant tout ça je me raccommode : mais prenez-y garde, au moins.
+
+-*who_lechoeur
+Courons faire honneur au mariage
+De Madame Loricart.
+
+-*who_thibaut
+Queu tintamarre est-ce ça ?
+C'est vous qui nommont, je pense.
+Qu'est-ce que ça signifie : tatigué que de monde !
+
+**** *book_ *id_I21 *act_I *date_1697
+
+-*who_cleonte
+Voici tout le Village que nous vous amenons, ma sœur, avec les violons de la noce d'Ambroise, pour servir de prélude à la vôtre ; et pour nous réjouir avec vous du bon choix que vous avez fait.
+
+-*who_thibaut
+Ils savont déjà tretous ça, voyez-vous
+
+-*who_madameloricart
+Je ne crois pas, Monsieur, que vous soyez en droit de trouver mauvais
+
+-*who_cleonte
+Au contraire, Madame, nous en sommes tous ravis, je vous assure ; et Monsieur Thibaut veut bien que je sois le premier à le féliciter.
+
+-*who_thibaut
+Parguenne, ils prennent bian la chose ; touchez, biau-frère ; embrassez-moi, ma fille ; serviteur ma nièce : et qu'on me baille un fauteuil, Mathureine.
+
+-*who_cleonte
+Voici votre gendre aussi, Monsieur Thibaut, qui vous vient faire la révérence.
+
+-*who_madameloricart
+Comment, un gendre ?
+
+-*who_cleonte
+Oui, Madame, votre famille augmente à vue d'œil, comme vous voyez ; et voilà encore un neveu que je vous présente.
+
+-*who_thibaut
+Alles avont itou chacune un Paysan : on a bon esprit dans cette famille-là, je les en aime davantage.
+
+-*who_cleonte
+Vous ne refuserez pas, Madame, de signer les Contrats de ces deux Demoiselles ?
+
+-*who_mathurine
+Et le nôtre, Madame, s'il vous plaît ?
+Votre domestique se multiplie itou à l'exemple de la famille.
+
+-*who_cleonte
+Approchez, Monsieur le Tabellion : allons, Madame.
+
+-*who_letabellion
+Mais, Madame, il serait bon de savoir
+
+-*who_thibaut
+Hé, fy, morguenne, an ne nous fait point d'empêchement, il serait vilain d'en faire aux autres : allons, seignez ça, ma femme.
+
+-*who_madameloricart
+Mais, mon fils ?
+
+-*who_thibaut
+Morgué, seignez, vous dis-je, et ne me le faites pas dire deux fois, vous savez bian que je veux être le maître.
+
+-*who_cleonte
+Je vous assure, monsieur Thibaut, que vous êtes un fort galant homme, et que
+
+-*who_thibaut
+Sans compliment tretous, n'an vous en quitte.
+Aimez-moi bian, respectez-moi bian, et je serons bons amis : allons, morgué, ablativo tout en un tas, mettons toutes les noces en une, point de gausserie, et vive la joie ; vela ma forteune faite.
+
+**** *book_ *id_I22 *act_I *date_1697
+
+-*who_guillemette
+Oh le joyeux assemblage,
+Accourez y prendre part.
+Habitants de ce village,
+Et venez à grand bruit : car
+Il faut faire honneur au mariage
+De Madame Loricart.
+
+-*who_lechoeur
+Il faut faire honneur au mariage
+De Madame Loricart.
+
+-*who_letabellion
+Vous autres qui cherchez maris,
+La trompeuse marchandise :
+Fillettes, prenez garde à qui
+Vous donnez votre chalandise :
+Retenez, pour faire un bon choix,
+Qu'un jeune garçon de village,
+En ménage,
+Vaut toujours mieux qu'un vieux bourgeois.
+
+-*who_guillemette
+Ma commère Colinette,
+Ton mari t'aime-t-il bien ?
+
+-*who_colinette
+En bonne foi, Guillemette,
+Es-tu contente du tien ?
+
+-*who_guillemette
+Hé, le moyen ?
+C'est un vaurien,
+Qui toujours a quelque amourette,
+Il en compte à la Robinette,
+À moi seule il ne dit rien ;
+Quel mari.
+
+-*who_colinette
+C'est comme le mien.
+
+-*who_guillemette
+Au par dessus Blaise est ivrogne.
+
+-*who_colinette
+Et Lucas est un sac à vin.
+
+-*who_guillemette
+Qui toujours grogne.
+
+-*who_colinette
+Qui tempête soir et matin.
+
+-*who_ensemble
+Ah ! Ma commère, quel chagrin,
+D'avoir un mari libertin ?
+
+-*who_guillemette
+J'en mourrais sans notre voisin,
+Qui parfois me tient compagnie.
+
+-*who_colinette
+Que ferais-je sans Mathurin,
+Qui me vient voir quand je m'ennuie ?
+
+-*who_ensemble
+Bien folle qui se marie.
+
+-*who_guillemette
+Malheureuse qui se lie
+D'un nœud si fort.
+
+-*who_colinette
+Qui dure tant.
+
+-*who_ensemble
+Ah ! Quelle manie,
+Chaque fille en dit autant ;
+Et pourtant,
+Toutes en font la folie.
+
+-*who_letabellion
+Que le joug du mariage,
+Est un joug doux et léger ;
+Telle en a fait un long usage,
+Qui s'y laisse encore engager.
+Contre le poids du ménage,
+On a beau jurer, pester,
+Le veuvage
+À tout âge
+Est plus rude à supporter.
+
+
+Madame Loricart fine,
+Prend pour époux,
+Son Jardinier sur sa mine,
+Qu'en dirons-nous ?
+Il n'est rien tel qu'un bon mari,
+Charivari.
+
+La fortune et la naissance
+Brillent aux yeux ;
+Mais elle, par préférence,
+Croit faire mieux,
+De prendre un manant bien nourri.
+Charivari.
+
+Filles qui sont toutes neuves,
+S'elles avaient
+L'expérience des veuves,
+Maris prendraient,
+Aux champs bien plutôt qu'à Paris,
+Charivari.
+
+À leur retour de l'armée,
+Les Officiers
+Vaudront, dit-on, cette année
+Des jardiniers ;
+Que l'on va prendre de ceux-ci !
+Charivari.
+
+Plaisir vaut mieux que richesse,
+À ce qu'on dit ;
+Si notre petite pièce
+Vous divertit,
+Demain, Messieurs, revenez-y,
+Charivari.

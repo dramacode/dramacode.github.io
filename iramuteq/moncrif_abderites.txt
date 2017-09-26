@@ -1,0 +1,1269 @@
+
+
+**** *book_ *id_I01 *act_I *date_1732
+
+-*who_thalie
+Je verrais sans émotion
+Mes talents décriés et ma gloire flétrie!
+Comment on traite de folie
+La plus sage occupation,
+L'art de jouer la comédie !
+Ah ! Vous voilà. Vénus.
+
+-*who_venus
+      Eh qu'avez-vous, Thalie?
+
+-*who_thalie
+Du dépit.
+
+-*who_venus
+      Du dépit ! Vraiment,
+Vous en parlez modestement ;
+Vous me paraissez en furie.
+
+-*who_thalie
+Vous ignorez apparemment,
+L'affront sanglant qu'on va me faire.
+Je parus autrefois dans la ville d'Abdere ;
+Ses habitants, d'abord, gens de goût et charmants,
+Enchantés de mes agréments,
+Firent de déclamer leur principale affaire.
+Aujourd'hui sur la Scène, hélas ! Le croiriez-vous ,
+Contre moi l'injustice éclate sans limites :
+Mes antiques sujets, ces heureux Abdérites,
+Parce qu'ils m'adoraient, font mis au rang des fous !
+
+-*who_venus
+Ce jugement doit-il vous causer des alarmes?
+Un éloge pour vous est une trahison ?
+Prouver qu'on vous chérit jusqu'à la déraison,
+C'est vous accréditer, c'est illustrer vos charmes.
+
+-*who_thalie
+Mon règne fleurissait, j'avais l'espoir flatteur,
+De voir chaque mortel amoureux de Thalie,
+Tour-à-tour avec zèle acteur ou spectateur :
+Peut-on mieux partager sa vie ?
+Mais quels tristes revers : j'ai de nouveaux sujets
+Qui me trahissent sans scrupule,
+Eux-mêmes à l'envi tournent en ridicule
+Tous les dons que je leur ai faits.
+
+-*who_venus
+Hé bien ! De ces ingrats, il faut punir l'outrage.
+
+-*who_thalie
+Dois-je de mes talents leur ôter le partage ?
+
+-*who_venus
+Non, vengez-vous plutôt par de nouveaux bienfaits;
+Dans ce jour même, il faut que votre art les inspire
+Plus heureusement que jamais,
+Ils étendront vos droits en croyant les détruire,
+Et vous les punirez par leurs propres succès.
+Vous pouvez acquérir la gloire la plus belle:
+Une Divinité plus puissante que nous,
+Qui sert aux Grâces de modèle,
+Consent à voir ces jeux préparés malgré vous.
+Vous réprouverez ; sa présence,
+Et ses applaudissements,
+Furent toujours des plus parfaits talents,
+La source et la récompense ;
+Au plaisir de l'admirer,
+Sans effort toujours fidèle,
+On se voit effacer par elle,
+On ne saurait en murmurer :
+Le sort a pris soin de l'orner
+D'un charme dans l'esprit et dans le caractère,
+Qui nous force à lui pardonner,
+D'avoir mieux que nous l'art de plaire.
+
+-*who_thalie
+Ah ! Que vous m'inspirez l'ardeur de réussir :
+La pièce est préparée, allons, qu'elle commence,
+Mais contre les acteurs il faut me secourir :
+Les applaudir, sera leur peine et ma vengeance;
+Vous ne sauriez trop les punir.
+
+**** *book_ *id_II01 *act_II *date_1732
+
+-*who_lisis
+Mais Dromon, es-tu fou ?
+
+-*who_dromon
+      J'en ai tout l'air, d'accord ;
+Mon discours; j'en conviens, a l'entière apparence,
+De la plus haute extravagance:
+Je vous fais cependant un fidèle rapport.
+
+-*who_lisis
+Réponds, mais nettement ; la lettre
+Qu'à Nicandre il fallait remettre ?...
+
+-*who_dromon
+Votre billet à Nicandre est rendu.
+
+-*who_lisis
+Hé bien, qu'a-t-il répondu ?
+
+-*who_dromon
+Le voici mot pour mot, je l'ai bien retenu :
+Seigneur, concevez-vous l'horreur qui me possède?
+Un monstre, ah quel époux pour ma fille Andromède !
+
+-*who_lisis
+Va dormir, va.
+
+-*who_dromon
+      Je veille et parle de bon sens.
+
+-*who_lisis
+L'ivresse quelquefois met dans l'esprit des gens
+Une bizarre rêverie.
+
+-*who_dromon
+Ah ! Que si je l'osais je serais en furie.
+Comment ! Seigneur, j'aurai raison
+Pour la première fois peut-être de ma vie,
+Et n'en jouirai pas ?
+
+-*who_lisis
+      De bonne foi, Dromon ,
+Dis-moi quelle vapeur t'a troublé la mémoire?
+
+-*who_dromon
+Écoutez moi patiemment,
+Et malgré-vous, vous m'allez croire :
+Comment aurais-je oublié,
+Que dès le grand matin, chagrin, estropié,
+Je fuis à votre suite arrivé dans Abdère,
+Où tout dormait tranquillement, où je pestais contre vous de colère,
+De n'en pouvoir faire autant.
+
+-*who_lisis
+Fort bien.
+
+-*who_dromon
+      Je conte exactement,
+Impatient, comme à votre ordinaire,
+Ne m'avez-vous donc pas envoyé brusquement,.
+Chez votre futur beau-père,
+Chez Nicandre ? Avouez...
+
+-*who_lisis
+      Qui te dit le contraire ?
+
+-*who_dromon
+Écoutez-moi toujours: chez Nicandre arrivé,
+N'ai-je pas trouvé
+Mirto son épouse si chère,
+Qui m'a reçu d'un air plein de bonté :
+L'agréable caractère!
+Elle aurait la docilité
+De parler un an sans se taire;
+
+-*who_lisis
+Après ?
+
+-*who_dromon
+      Voici le vrai noeud de l'affaire :
+Lorsqu'à Nicandre enfin je me suis présenté,
+Je ne mens pas d'un mot, il était ajusté.
+Il m'a parlé d'une manière
+Véritablement singulière,
+Pour soutenir la gravité
+Du premier magistrat d'Abdere.
+
+-*who_lisis
+Ah ! Te voilà dans ta chimère.
+
+-*who_dromon
+Tenant un sceptre en main, marmottant de grands mots,
+Il était transporté d'une plaisante ivresse:
+Tantôt il me traitait de vainqueur, de héros,
+Et le moment d'après, il m'appelait Princesse.
+
+-*who_lisis
+Pauvre Dromon ! Cerveau pour jamais éventé.
+
+-*who_dromon
+Seigneur, j'ai pour garant, outre ma probité,
+Mirto sa femme, et sa fille Carite :
+Ah les voilà ! Quelle félicité !
+Vous l'allez voir ; la vérité
+Est ma vertu favorite.
+
+**** *book_ *id_II02 *act_II *date_1732
+
+-*who_carite
+Maman, c'est Lisis ! Je le vois.
+
+-*who_lisis
+Je vous retrouve enfin,
+      De grâce apprenez-moi...
+
+-*who_mirto
+J'ai bien à vous conter fans doute ;
+Vous arrivez apparemment ?
+
+-*who_lisis
+Oui.
+      Mon coeur !
+
+-*who_mirto
+      Mais enfin, dites-moi donc comment
+Vous vous trouvez de votre route ;
+Vos affaires, votre santé,
+En êtes-vous content, tout a-t-il bien été ?
+
+-*who_lisis
+Mirto, je vais d'abord...
+
+-*who_mirto
+      Il faut ne me rien taire.
+
+-*who_carite
+Lisis.
+
+-*who_lisis
+      Écoutez un récit,
+Que ce maraud vient de me faire.
+
+-*who_carite
+Vous parlez toujours à ma mère,
+Vous ne m'avez encor rien dit.
+
+-*who_lisis
+Je soupire, je crains, c'est vous parler, Carite.
+
+-*who_mirto
+Un bizarre malheur depuis peu nous agite.
+
+-*who_lisis
+Quel est ce chagrin si pressant ?
+
+-*who_mirto
+Depuis que vous êtes absent,
+Mon pauvre époux ! Quelle manie!
+Un charme de la Thessalie,
+Car cela ne se peut sans un enchantement,
+L'a fait passer en un moment,
+De la raison à la folie.
+
+-*who_dromon
+Dromon est un ivrogne.
+
+-*who_lisis
+      Ah quel événement !
+Nicandre était la raison même :
+Tourner à la folie, et dans si peu d'instants!
+
+-*who_carite
+Jugez s'il est dans son bon sens :
+Il ne veut plus que je vous aime.
+
+-*who_lisis
+Quel excès ! Que m'apprenez-vous !
+
+-*who_mirto
+Il s'est engoué d'Aristeme.
+De ma fille peut-être, il en fera l'époux.
+
+-*who_carite
+Je ne voudrai jamais.
+
+-*who_lisis
+      Que devient sa parole ?
+Entre nous tout est concerté.
+
+-*who_mirto
+Depuis l'enchantement dont il est tourmenté,
+Le reste lui paraît frivole.
+
+-*who_lisis
+Quoi ! de la République un premier Magistrat,
+Nicandre, à nous régir homme si nécessaire !
+Son malheur s'il est su fera bien de l'éclat.
+
+-*who_mirto
+Bon, hors nous, sa manie ici n'étonne guère,
+Presque tous les cerveaux d'Abdere,
+Sont en aussi mauvais état.
+
+-*who_lisis
+Voici bien un autre mystère!
+
+-*who_mirto
+Ah c'est une contagion!
+Oui, j'en reviens toujours à ma réflexion ;
+L'art de la Thessalie entre dans cette affaire.
+Tenez, voici l'occasion
+De cette malédiction,
+Dont Abdere jamais n'avait connu d'exemple.
+Des étrangers dans le cirque un matin,
+Dressèrent à nos yeux une espèce de Temple :
+L'espace n'était pas fort ample ;
+Mais leur art les servit si bien,
+Qu'ayant fasciné notre vue,
+Nous vîmes un palais d'une immense étendue,
+Puis des monts, des rochers, et puis dévastes mers :
+Un Dragon en sortit qui jetait dans les airs,
+(J'en ai l'âme encor toute émue,)
+Des torrents de feux et d'éclairs.
+Enfin ces étrangers conservant leurs visages,
+Mais ayant certain vêtement,
+Nécessaire sans doute, à cet enchantement,
+Devinrent tout à coup d'étonnants personnages :
+C'était des Dieux et des héros ;
+Ils l'étaient en effet ; car avec certains mots,
+Dont ils frappèrent nos oreilles,
+La crainte ou le respect, la joie ou la douleur,
+À leur gré se glissait au fond de notre coeur.
+De ces dangereuses merveilles,
+Mon esprit sagement se sentit alarmé ;
+Je ramenai Carite, et je fus m'enfermer
+Pour ne point voir choses pareilles.
+
+-*who_carite
+J'en partis à regret, on y parlait d'aimer :
+Un de ces enchanteurs, son nom, c'était Persée ;
+Je m'en souviendrai plus d'un jour ;
+Il aimait Andromède, et lui parlait d'amour ;
+Vous me veniez d'abord en la pensée.
+Tout ce qu'il exprimait ma paraissait si doux ;
+Pour mes yeux c'était lui, pour mon coeur c'était vous.
+
+-*who_lisis
+Cette naïveté la rend plus adorable.
+Carite, croyez-moi mieux que ces enchanteurs,
+Vous possédez l'art admirable,
+De vous assujettir les coeurs.
+
+-*who_mirto
+Vraiment vous ignorez la suite épouvantable,
+Du pouvoir de ces démons-là.
+Je ne sais de leur voix quel charme s'exhala,
+Mais depuis, chacun dans Abdere,
+Est à les imiter sans relâche occupé :
+On ne connaît plus,.d'autre affaire.
+Nicandre mon époux, et je m'en désespère,
+De la contagion paraît le plus frappé
+
+-*who_lisis
+Dissipez ces frayeurs, perdez votre tristesse;
+Cette puissance enchanteresse,
+Dont la nouveauté vous séduit :
+N'est qu'une ingénieuse adresse,
+Pour amuser le coeoeur, pour embellir l'esprit.
+Les plus sages peuples de Grèce,
+De ces utiles jeux font leur plus grand plaisir.
+
+-*who_carite
+Ah ! Que vous me plaisez ! Nous pourrons en jouir
+J'avais grand peiné à les haïr,
+Ils parlent si bien:de tendresse !
+
+-*who_mirto
+Bon, des jeux ! Ces jeux rendent fous !
+À les représenter tout. Abdere s'applique,
+Et pour s'en occuper, mon insensé d'époux ,
+Néglige la chose publique,
+Et tous les devoirs de chez nous.
+
+-*who_lisis
+Mais quoi ! Phorbas, Anaximene,
+Ses collègues chargés comme lui de l'État ?...
+
+-*who_mirto
+Bon : Phorbas est un sot, Anaximene un fat,
+Que la même fureur promène
+Sur ce que Nicandre prescrit,
+Phorbas est sans cesse en extase,
+Et répétant toujours mot pour mot ce qu'on dit,
+Pourvu qu'il retourne la phrase,
+Il se croit un fort bel esprit.
+
+-*who_lisis
+D'accord.
+
+-*who_mirto
+      Anaximene est, ne vous en déplaise,
+D'esprit si gauche et si diffus :
+On voit qu'il est tant à son aise,
+Quand il saisit le faux pour l'outrer encor plus.
+Les voilà : le bel assemblage!
+Ô cela fait pleurer, les voir en cet état.
+
+-*who_lisis
+Ils aiment le métier: porter cet équipage,
+Dans le lieu même où se tient le Sénat !
+
+-*who_mirto
+Je vais... vous allez voir.
+
+-*who_lisis
+      Eh ! Point de pétulance,
+Croyez-moi la patience
+Sert bien mieux que le courroux.
+Fiez-vous à mon coeur.
+      Fiez-vous à mon zèle.
+Je vais joindre Nicandre, et ramener à nous....
+
+-*who_carite
+Ramenez, revenez, Lisis ; dépêchez-vous.
+
+-*who_mirto
+Ô Minerve ! De mon époux,
+Retournez un peu la cervelle.
+
+**** *book_ *id_II03 *act_II *date_1732
+
+-*who_lisis
+Seigneur, mon retour m'est bien doux ;
+Tout ; m'appelle auprès de Nicandre.
+
+-*who_nicandre
+Adieu Lisis.
+
+-*who_lisis
+      J'ose prétendre...
+
+-*who_nicandre
+Pour les soins de l'État, il me faut vous quitter.
+
+-*who_lisis
+Sur une scène tragique,
+Je venais vous consulter.
+
+-*who_nicandre
+Sur une scène ? Hé bien ; la République,
+Le conseil achevé, pourra vous écouter.
+
+**** *book_ *id_II04 *act_II *date_1732
+
+-*who_nicandre
+C'est un bon citoyen, il n'est pas sans mérite :
+Qu'en dit Phorbas ?
+
+-*who_phorbas
+      Fort bien ! Très bien !
+Du mérite ; il est vrai : mérite et citoyen.
+
+-*who_anaximene
+Sans la frivolité, sans l'erreur qui l'agite,
+D'accroître ses honneurs, ses titres et son bien,
+Nous en ferions, je pense, un grand comédien.
+
+-*who_phorbas
+Le croyez-vous?
+
+-*who_nicandre
+      Sans doute.
+
+-*who_phorbas
+      Il jouerait bien je pense !
+
+-*who_nicandre
+Des rôles entre nous, il faut fixer le choix.
+
+-*who_anaximene
+Je ferai les héros.
+
+-*who_nicandre
+      Moi j'ai choisi les rois.
+Vous, Seigneur ?
+
+-*who_phorbas
+      Les amants ! Et c'est par convenance.
+
+-*who_nicandre
+Fort bien ; mais à propos, il est temps de peser
+Un intérêt qui paraît d'importance :
+L'envoyé de Sardis attend son audience;
+Il vient, dit-on, nous proposer
+Un traité de commerce.
+
+-*who_anaximene
+      Il faudra qu'il diffère ;
+Un autre objet a droit de nous intéresser.
+
+-*who_nicandre
+Nous avons un théâtre à faire,
+Et bien des acteurs à dresser.
+
+-*who_phorbas
+Il m'enchante : à dresser et le Théâtre à faire.
+
+-*who_unesclave
+L'envoyé de Sardis se présente.
+
+-*who_anaximene
+      Un moment.
+Faut-il le recevoir, dans cet ajustement ?
+
+-*who_nicandre
+Peut-on être plus décemment,
+Qu'en habit de tragédie.
+Allez, qu'il vienne.
+
+-*who_phorbas
+      Allez ; il peut venir.
+
+-*who_anaximene
+Oui, ce grand appareil doit être à l'avenir
+Notre habit de cérémonie.
+
+**** *book_ *id_II05 *act_II *date_1732
+
+-*who_tergalion
+Que vois-je ! Suis-je au Sénat !
+C'est vous qui régissez l'État ?
+
+-*who_nicandre
+Vous voyez les trois chefs de notre République.
+
+-*who_tergalion
+Seigneurs ! Des Sardiens vers Abdere envoie,
+Je viens serrer les noeuds de l'alliance antique,
+Que fonda la vertu, qu'affermit l'amitié...
+
+-*who_nicandre
+Il débite avec grâce.
+
+-*who_anaximene
+      Il a du pathétique.
+
+-*who_nicandre
+Ah qu'il réussirait à jouer le tragique !
+
+-*who_phorbas
+J'y songeais, au tragique il pourrait réussir.
+
+-*who_tergalion
+Quoi ! Vous m'interrompez !
+
+-*who_nicandre
+      C'est pour vous applaudir,
+Poursuivez ; tout en vous, Seigneur, nous intéresse.
+
+-*who_tergalion
+Le commerce en tous les États,
+Est la source de la richesse ;
+Respectable Sénat, votre haute sagesse
+Sans doute ne l'ignore pas.
+Il est temps que Sardis unie avec Abdere,
+De cette ressource si chère
+fasse naître et fleurir l'avantage certain :
+Ô Mercure ! Protège un si juste dessein !
+Que vois-je ! Quel est ce délire !
+Sénateurs , répondez. On ne m'écoute pas.
+
+-*who_anaximene
+Votre fille vivra je puis vous le prédire,
+Cet oracle est plus sûr que celui de Calchas.
+
+-*who_tergalion
+On m'outrage : La Grèce...
+
+-*who_nicandre
+      Est trop inquiétée,
+De soins plus importants, je l'ai cru agitée:
+Ce n'est ps-là le ton , je me ferais siffler.
+
+-*who_tergalion
+Quel Démon vient donc les troubler !
+Celui-ci me paraît plus sage ;
+Que dites-vous, Seigneur, de cet outrage ?
+
+-*who_phorbas
+Dans ces tendres instants, j'ai cent fois éprouvé,
+Qu'un mortel peut goûter un bonheur achevé.
+Ah ! Lorsque pénétré d'un amour véritable,
+Et gémissant aux pieds d'un objet adorable ,
+J'ai connu dans ses yeux, timides ou distraits,
+Que mes soins de son coeur avaient troublé la paix.
+
+-*who_anaximene
+La gloire m'excitant, d'un vol audacieux
+J'ai fait la guerre aux rois, je la ferais aux Dieux.
+Héros, votre valeur rivale du tonnerre,
+Vous fait plus que les rois, les maîtres de la Terre,
+
+-*who_nicandre
+La Grèce en ma faveur, est trop inquiétée,
+D'un soin plus important, je l'ai cru agitée,
+Seigneur, et fur le nom de son ambassadeur,
+J'avais dans ses desseins conçu plus de grandeur.
+
+-*who_tergalion
+Quel bruit ! Que d'impertinences !
+Ce Sénat est majestueux :
+On ne peut faire avec eux,
+Qu'un commerce d'extravagances.
+
+-*who_nicandre
+Quoi ! Tandis que mous déclamions,
+L'Ambassadeur a quitté l'audience ?
+
+-*who_anaximene
+Il a vu que nous répétions,
+Il s'est retire par prudence.
+
+-*who_nicandre
+Songeons à mettre enfin un théâtre en état.
+
+-*who_anaximene
+Hé bien, je vais dresser un décret du Sénat
+Qui fixera la forme des coulisses.
+
+-*who_nicandre
+Et vous, Seigneur?
+
+-*who_phorbas
+      Et moi.. .
+
+-*who_nicandre
+      Vous pouvez...
+
+-*who_phorbas
+      Oui, je puis....
+
+-*who_nicandre
+Aller choisir des fleurs pour coiffer les actrices.
+J'aurai soin d'ordonner la pompe des habits.
+
+**** *book_ *id_II06 *act_II *date_1732
+
+-*who_unesclave
+Une troupe, Seigneur, se montre ambitieuse
+De vous plaire. Elle vient devant vous débuter.
+
+-*who_nicandre
+Une troupe ! Elle est nombreuse.
+Sans doute ?
+
+-*who_unesclave
+      Ils ne font qu'un.
+
+-*who_nicandre
+      Un ! Il faut l'écouter.
+Cette énigme me cause une surprise extrême.
+
+**** *book_ *id_II07 *act_II *date_1732
+
+-*who_nicandre
+Que vois-je ! C'est Aristème.
+
+-*who_aristeme
+L'annonce a dû vous troubler,
+Il n'en est pas moins croyable.
+Quelle découverte admirable,
+Seigneur, je vais vous révéler !
+La troupe la plus zélée
+Sans foins n'est pas rassemblée.
+Le goût du changement ou de la liberté,
+La fortune, l'amour, la haute dignité,
+Peuvent vous débaucher un acteur regrettable ;
+Le penchant le plus raisonnable,
+Par un frivole objet est souvent emporté :
+J'évite par mon art cet embarras extrême,
+De réunir longtemps les goûts et les humeurs ;
+Apprenez mon secret : je suis, moi seul,
+Les actrices et les acteurs. moi-même,
+
+-*who_nicandre
+Vous méritez une statue.
+
+-*who_aristeme
+Le projet est hardi ! vous en verrez l'issue :
+Une scène ou deux seulement,
+Vous suffiront pour bien juger du reste.
+
+-*who_nicandre
+Quel est le sujet ?
+
+-*who_aristeme
+      Le moment
+De la reconnaissance et d'Électre et d'Oreste.
+Vous êtes le public, songez à vous placer :
+Allons, la troupe est prête.
+
+-*who_nicandre
+      Elle peut commencer.
+
+-*who_aristeme
+Égiste, enfin le sort va remplir ta vengeance,
+Tu vois ton ennemi tomber en ta puissance,
+Oreste est dans ces lieux, par Alecton conduit :
+Et tu vas le plonger dans l'éternelle nuit.
+Sous le nom d'assassin, il a cru me surprendre :
+D'Oreste, disait-il, j'apporte ici la cendre ;
+Mais malgré ce rapport adroitement tissu,
+À sa secrète horreur, mon coeur l'a reconnu.
+D'un mensonge inventé, je vais faire un oracle.
+Tu supposais ta mort, j'en aurai le spectacle:
+Électre qui d'un frère en toi voit l'assassin
+Te cherche, et d'un poignard va te percer le sein.
+Mais, il vient, et je vois Électre qui s'avance :
+Sortons , laissons au fort le soin de ma vengeance.
+Oreste, que ces lieux irritent ta douleur !
+Palais d'Agamemnon, vous me frappez d'horreur ;
+Dieux ! Vous l'avez permis ; le meurtre de mon père,
+Est pour comble d'horreur, le crime de ma mère.
+Égiste a consommé ses barbares fureurs :
+Mais quelle est cette esclave ? Elle répand des pleurs !
+
+-*who_electre
+Ah je vois le perfide ! Ô justice céleste,
+Conduis mes coups ! Frappons... Meurs assassin d'Oreste !
+
+-*who_oreste
+D'Oreste ! À m'immoler qui peut vous engager ?
+Si vous saviez sur qui vous allez le venger.
+
+-*who_electre
+Il est mort par tes coups ; tu t'en vantes, barbare.
+Et tu doutes du sort qu'Électre te prépare ?
+
+-*who_oreste
+Vous, Électre.
+
+-*who_electre
+      Cruel pour remplir ta fureur,
+Tu fis périr le frère, immole encor la soeur.
+Oracles imposteurs, crédulité funeste !
+Pourquoi m'abusiez vous sur le destin d'Oreste !
+Tout m'assure sa mort ! J'attendais son retour.
+
+-*who_oreste
+Ah calmez vos douleurs ! Oreste voit le jour.
+
+-*who_electre
+Il respire ? Grands Dieux, je reverrais mon frère !
+
+-*who_oreste
+Il vient briser vos fers, venger la mort d'un père.
+Il ne vit que pour vous, pour, finir vos malheurs.
+
+-*who_electre
+Il va paraître ! II m'aime ! Eh quel garant ?
+
+-*who_oreste
+      Mes pleurs.
+
+-*who_electre
+Vos pleurs ! Mais Ciel !
+
+-*who_oreste
+      Électre.
+
+-*who_electre
+      Ah ! Par mon trouble extrême
+Je vois...
+
+-*who_oreste
+      Quoi... Votre coeur !...
+
+-*who_electre
+      Mon frère, c'est vous-même.
+
+-*who_aristeme
+Hé bien, la Troupe ?
+
+-*who_nicandre
+      Ah ! J'en fuis enchanté.
+
+-*who_aristeme
+Et vous trouvez qu'Électre joue...
+
+-*who_nicandre
+Avec tendresse et dignité.
+Une reconnaissance à vous seul, je l'avoue,
+Est un morceau tout neuf, et bien exécuté.
+Vous voulez, je le sais entrer dans ma famille,
+Je vais de votre hymen hâter les doux instants,
+Je romps avec Lisis tous mes engagements :
+Il n'a que ma parole et le coeur de ma fille,
+Des trésors, des vertus ; vous avez des talents.
+
+-*who_aristeme
+Ah Seigneur ! Par combien de scènes
+Vais-je vous assurer d'un coeur reconnaissant.
+
+-*who_nicandre
+Allez faire dresser cet acte intéressant,
+Qui de l'hymen forme les chaînes.
+
+**** *book_ *id_II08 *act_II *date_1732
+
+-*who_lisis
+Oui les Abdérites sont fous,
+D'aimer ainsi la comédie.
+Mais le voici. Sur sa manie,
+Songez à le flatter ; ayez l'esprit plus doux.
+
+-*who_mirto
+Je viens à vos genoux rougir de l'ignorance
+Qui me faisait si sottement,
+Exercer votre patience,
+En condamnant obstinément,
+L'ingénieux amusement,
+Que j'accusais d'extravagance.
+Quand je dirais que ma haute prudence,
+Ma vive pénétration,
+Ont démêlé l'illusion :
+Ce serait mentir d'importance.
+Pourtant me pardonnerait-on,
+En faveur de l'effort, rarement efficace,
+Qu'il faut qu'une femme se fasse
+Pour revenir à la raison.
+De bonne foi, je veux bien vous le dire,
+De mon ridicule délire,
+Lisis seul a détruit la folle impression,
+De votre aveu, je lui promis ma fille.
+Unissons-le à notre famille.
+Il sait guérir l'esprit, croyez-moi, cher époux,
+Un pareil empirique est un trésor pour nous.
+
+-*who_nicandre
+J'estime fort Lisis je connais son mérite.
+
+-*who_mirto
+Mais que décidez-vous sur le sort de Carite ?
+
+-*who_nicandre
+Je songe à son hymen.
+
+-*who_carite
+      J'y songe bien aussi.
+
+-*who_nicandre
+Votre époux est parfait.
+
+-*who_carite
+      Mon coeur me l'a choisi.
+
+-*who_nicandre
+Il a le geste admirable,
+L'intelligence, et la voix..
+C'est Aristeme enfin.
+
+-*who_carite
+      Lisis.
+
+-*who_nicandre
+      Voilà mon choix,
+Un gendre qui déclame est toujours préférable.
+
+-*who_lisis
+Le Seigneur Nicandre a raison.
+
+-*who_mirto
+Faut-il,savoir jamais ? Quoi, vous trouverez bon...
+
+-*who_lisis
+Calmez-vous, et me laissez faire.
+Je dis raison...
+
+-*who_carite
+      Moi je n'en ai donc guère,
+Lisis, de vous aimer si bien,
+
+-*who_lisis
+Peut-être en ma faveur son âme était séduite,
+Quand il me promit que Carite
+Unirait son sort et le mien ;
+Il est juste, après tout, qu'il pèse le mérite
+Des concurrents dont la poursuite
+A pour objet un si grand bien.
+Je l'avouerai d'ailleurs, dussai-je lui déplaire,
+Sur cet art devenu notre plus grande affaire,
+Mon sentiment est diffèrent du sien.
+
+-*who_carite
+Non vraiment.
+      Eh ! n'en croyez rien.
+
+-*who_lisis
+Un moment.
+
+-*who_nicandre
+      Quel avis diffère ?...
+
+-*who_lisis
+La scène entre les dons répandus par les Dieux,
+Sans doute est la faveur aux mortels la plus chère.
+Vous gouvernez l'État, et fixez dans Abdere ,
+Un Trésor si précieux !
+
+-*who_nicandre
+Seigneur, tout y déclame ! ai-je pu faire mieux ?
+
+-*who_lisis
+Tristes habitants des campagnes,
+Quoi vous seriez réduits dans votre obscurité,
+À vivre sans théâtre avec tranquillité !
+L'innocente simplicité,
+La paix et l'amitié, ses fidèles compagnes,
+Feraient dans les vallons, même fur les montagnes,
+Votre unique félicité !
+
+-*who_nicandre
+Seigneur, vous me frappez par un trait de clarté ;
+Mais la grossièreté
+D'une bergère et d'un pâtre,
+Serait-elle sensible à la sublimité
+Des grands sentiments du théâtre ?
+
+-*who_lisis
+J'ai formé des acteurs, qui sans prose, ni vers ,
+Peuvent être entendus dans le vaste univers.
+
+-*who_nicandre
+Comment est-on saisi par des scènes pareilles ?
+Quoi ! Sans prose, ni vers !
+
+-*who_lisis
+      Leur art ingénieux
+Parle à l'esprit, au coeur, sans frapper les oreilles.
+
+-*who_nicandre
+Que fait le spectateur ?
+
+-*who_lisis
+      Il ouvre de grands yeux.
+
+-*who_nicandre
+Vous nous annoncez-là d'étonnantes merveilles.
+
+-*who_lisis
+Soyez bien attentif, leurs discours sont précis.
+
+-*who_mirto
+Discourir sans parler, ce sont contes frivoles.
+
+-*who_carite
+Pourquoi ? Tenez, j'entends un geste de Lisis,
+Mieux que d'un autre les paroles.
+
+-*who_nicandre
+C'est la fin.
+
+-*who_carite
+      Ils m'attendrissaient.
+
+-*who_lisis
+Allez.
+
+-*who_mirto
+      Ils me divertissaient.
+
+-*who_lisis
+Seigneur, vous gardez le silence,
+Est-ce mépris, indifférence? . .
+
+-*who_nicandre
+Pouvez-vous le soupçonner?
+Seigneur, je vous admire et vous m'allez connaître :
+Quiconque a la vertu que vous faites paraître,
+Mieux que moi, dans Abdere, a droit de gouverner.
+Je vous cède ma place.
+
+-*who_lisis
+      Hé non.
+
+-*who_nicandre
+      Vaine réplique,
+Je vais vous y forcer par l'aveu du Sénat,
+Charmé de procurer à notre République,
+Un aussi grand homme d'État.
+
+-*who_carite
+Me donnez-vous aussi ?...
+
+-*who_mirto
+      Lisis lui plaît et l'aime.
+Après avoir promis, pouvez-vous hésiter ?
+Vous le savez, je suis la complaisance même,
+Mais si vous croyez l'emporter.
+
+-*who_nicandre
+Puis-je désespérer le Seigneur Aristème !
+Il a de grands talents , s'il allait nous quitter :
+J'abandonne en ce jour pour pouvoir m'acquitter,
+À lui ma fille, à vous le rang suprême.
+
+-*who_lisis
+Quoi !
+
+-*who_nicandre
+      Le Sénat bientôt s'assemblera,
+Entre Aristème et vous, c'est lui qui jugera. !
+
+-*who_mirto
+Le Sénat.
+
+-*who_nicandre
+      Ah ! C'est Aristème.
+Anaximene suit et j'aperçois Phorbas,
+Leur avis m'ôtera d'un embarras extrême.
+
+-*who_carite
+Eh pourquoi sur cet embarras ,
+Ne me pas consulter moi-même ?
+Sur le choix d'un époux qu'est ce qu'ils m'apprendront ?
+C'est moi qui dois l'aimer, c'est eux qui choisiront ?
+
+**** *book_ *id_II09 *act_II *date_1732
+
+-*who_nicandre
+Hé bien !
+
+-*who_anaximene
+      J'apporte ici d'importantes nouvelles.
+Le théâtre est dressé, formons vite les Choeurs.
+Il contient, comprenant les ailes,
+Mille ou douze cents acteurs.
+
+-*who_nicandre
+Nos actrices, hé bien, vous avez eu pour elles,
+De parfaitement belles fleurs ?
+
+-*who_phorbas
+Oui des fleurs parfaitement belles.
+
+-*who_aristeme
+Vous êtes obéi, Seigneur, exactement ;
+Voici cet acte heureux, aimable dénouement ;
+Qui conduit à l'hymen.
+
+-*who_nicandre
+      Voyons ce qu'il expose.
+
+-*who_lisis
+C'est-là votre contrat ?
+
+-*who_aristeme
+      Oui.
+
+-*who_lisis
+      Donnez.
+
+-*who_aristeme
+      Hé pourquoi ?
+
+-*who_lisis
+C'est-là votre contrat ?
+
+-*who_aristeme
+      Oui.
+
+-*who_lisis
+      Carite est à moi.
+Vous y renoncez, je le vois.
+
+-*who_aristeme
+Moi ?
+
+-*who_lisis
+      Sans doute.
+
+-*who_nicandre
+      Comment ?
+
+-*who_lisis
+      Le contrat est en prose.
+
+-*who_anaximene
+En prose ?
+
+-*who_nicandre
+      En prose ?
+
+-*who_phorbas
+      En prose ?
+
+-*who_aristeme
+      Assurément.
+
+-*who_lisis
+Je ne le force pas, il le dit librement :
+Je vous réclame, ici profonde politique,
+De ces illustres Chefs de notre République.
+À combien de clarté nos yeux se sont ouverts?
+Depuis que nos esprits devenus dramatiques,
+Passent à déclamer les instants les plus chers.
+Non, vous n'en doutez point, pour rendre à l'univers
+Nos actes, vos arrêts à jamais authentiques,
+Il faut dès cet instant qu'on les compose en vers.
+
+-*who_nicandre
+Ô sublime génie !
+
+-*who_anaximene
+      Il est digne d'un temple.
+
+-*who_lisis
+J'établis à la fois le précepte et l'exemple.
+
+-*who_nicandre
+Un contrat poétique : ah quelle autorité!
+
+-*who_anaximene
+Modèle séduisant pour la postérité.
+
+-*who_nicandre
+Lisez.
+
+-*who_lisis
+      Ce fut.
+
+-*who_phorbas
+      Lisez.
+
+-*who_nicandre
+      Taisez-vous.
+
+-*who_phorbas
+      Oui, me taire.
+
+-*who_lisis
+Ce fut l'an mémorable où le Sénat d'Abdere,
+Acquit de déclamer le talent salutaire,
+Où Nicandre enflammé par un zèle si beau,
+Fut le père et l'honneur du théâtre au berceau;
+Que l'amoureux Lisis, la charmante Carite,
+La raison les guidant, les plaisirs à sa suite,
+Sur la foi de l'estime et l'ordre des amours,
+Obtinrent de l'hymen qu'ils s'aimeraient.
+Le coeur fit le serment, les parents l'approuvèrent,
+Et pour le confirmer sourirent et signèrent.
+
+-*who_nicandre
+Je suis charmé, je signe en cet acte, Seigneur,
+L'époque de notre grandeur.
+
+-*who_mirto
+Pour moi, c'est un plaisir extrême :
+Quand je me marierais moi-même,
+Je n'aurais pas assurément,
+Un plus parfait contentement.
+Puissiez-vous éternellement,
+Joyeusement, fidèlement.
+
+-*who_carite
+Maman, dépêchez je vous prie.
+Ah ! Je viens de signer le bonheur de ma vie.
+
+-*who_lisis
+Je suis plus sûr encor que vous signez le mien.
+
+-*who_aristeme
+Mon espoir est tombé, sa flamme est applaudie,
+Mon rôle c'est l'amant ? L'époux sera le sien :
+Il est peu d'acteurs dans la vie
+Qui d'un rôle éternel, s'acquittent toujours bien.
+
+-*who_nicandre
+Pour couronner le jour de cet heureux lien,
+Il faut sur le théâtre en célébrer la fête.
+
+-*who_anaximene
+Et pour la préparer quatre jours seulement.
+
+-*who_lisis
+La préparer ! Elle est prête.
+
+-*who_anaximene
+Prête déjà ?
+
+-*who_phorbas
+      Déjà prête.
+
+-*who_anaximene
+      Comment ?
+À peine arrivez-vous et pour ce soin pénible...
+
+-*who_lisis
+Je détruis par un mot ce grand étonnement ;
+Aimez Carite un seul moment,
+Vous ne verrez rien d'impossible.
+
+-*who_nicandre
+Quel trésor de sagesse!
+
+-*who_mirto
+      Oh le gendre charmant !
+
+-*who_lisis
+Plaçons-nous.
+
+-*who_phorbas
+      Oui plaçons.
+
+-*who_lisis
+      Qu'on commence à l'instant.
+Parcourez, pesez mûrement
+Les plus doux plaisirs de la vie ;
+Ce qui vous rit dans un moment,
+Le moment d'après vous ennuie.
+Non rien ne plaît si constamment,
+Que de jouer la comédie.
+Quand l'objet qui trahit vos feux,
+À vous bien tromper s'étudie,
+Si vous êtes bien amoureux,
+S'il vous cache sa perfidie,
+Vous êtes encor trop heureux
+Qu'il ait joué la Comédie.
+Complaisant, doux, ingénieux,
+Damis plaira toute sa vie ;
+Vous ne lisez point dans ses yeux,
+Que votre sottise l'ennuie.
+Pour les sots, peut-on faire mieux
+Que de jouer la comédie.
+
+-*who_carite
+Amour, que mon rôle est charmant !
+Il me plaît plus je l'étudie :
+J'épouse aujourd'hui mon amant
+Pour mieux l'aimer toute ma vie.
+Ah que d'aimer bien tendrement,
+Est une douce comédie !
+
+-*who_nicandre
+Un amant conte les rigueurs
+Que lui fait souffrir sa Silvie.
+
+-*who_phorbas
+Que Nicandre connaît les coeurs!
+Oui, les rigueurs on les publie.
+
+-*who_nicandre
+Mais plus discret sur les saveurs,
+Il doit jouer la Comédie.
+Un sot prétend vous amuser,
+La plus laide se croit jolie,
+Chercher à les désabuser,
+Ce serait bien une folie.
+Un sage a de quoi s'excuser,
+D'avoir joué la comédie.
+Pour plaire affecter chaque jour,
+Les transports d'une âme attendrie,
+Il vaut mieux même sans retour
+Aimer tout le temps de sa vie.
+L'état le plus dupe en amour,
+Est de jouer la comédie.
+
+-*who_oreste
+Quel plaisir ! Je revois ma soeur !
+
+-*who_electre
+Ah mon frère ! J'en suis ravie :
+Égiste a fait notre malheur.
+
+-*who_oreste
+Le perfide a perdu la vie,
+Je viens de lui percer le coeur.
+
+-*who_electre
+Ô l'agréable tragédie !

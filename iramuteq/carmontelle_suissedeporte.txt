@@ -1,0 +1,294 @@
+
+
+**** *book_ *id_I01 *act_I *date_(inc
+
+-*who_lebaron
+Dubois, que fait la Marquise ?
+
+-*who_dubois
+Elle est à sa toilette, Monsieur le Baron, et elle écrit.
+
+-*who_lebaron
+On ne peut pas la voir ?
+
+-*who_dubois
+Non pas dans ce moment-ci.
+
+-*who_lebaron
+J'attendrai.
+Faites entrer quelqu'un qui est là, qui est venu avec moi, et ne dites pas à la Marquise que je ne suis pas seul.
+
+-*who_dubois
+C'est bon.
+Monsieur, donnez-vous la peine d'entrer.
+
+**** *book_ *id_I02 *act_I *date_(inc
+
+-*who_lecomte
+Ah, Baron !
+Tu ne saurais concevoir tout ce que j'éprouve en me retrouvant ici.
+
+-*who_lebaron
+Je le crois ; puisque tu aimes encore la Marquise.
+
+-*who_lecomte
+Et elle ne veut pas consentir à me voir !
+
+-*who_lebaron
+Il est vrai ; mais je ne saurais croire qu'elle ait cessé de t'aimer.
+Il est vrai que toutes les fois que je lui ai parlé de toi, elle m'a fait taire ou, elle ne m'a jamais écouté sans une espèce d'indignation.
+
+-*who_lecomte
+Je ne puis la blâmer ; mais le temps doit tout adoucir.
+
+-*who_lebaron
+Je ne saurais te rien faire espérer encore, de je crains que l'épreuve que tu veux faire ne te réussisse pas.
+
+-*who_lecomte
+Je le crains comme toi ; mais je n'ai point d'autre ressource que celle de tomber à ses pieds.
+Si elle me rebute, je me retire pour jamais dans mes Terres de Dauphiné, oui, je pars dans l'instant.
+
+-*who_lebaron
+Je te demande au moins huit jours.
+
+-*who_lecomte
+Que n'ai-je pas fait pour expier ma faute !
+Hélas, tu le sais.
+Combien de fois ne me suis-je pas présenté à sa porte, que de lettres que m'a renvoyé sans vouloir les lire !
+
+-*who_lebaron
+Tout cela devait être.
+
+-*who_lecomte
+Et pourquoi ?
+
+-*who_lebaron
+Comment veux-tu qu'après une rupture aussi éclatante elle puisse te recevoir ?
+Après avoir donné ton portrait à son Suisse, afin qu'il ne s'y trompe pas, et qu'il ne te laisse plus entrer.
+
+-*who_lecomte
+Peux-tu me rappeler ce comble d'humiliation ?
+
+-*who_lebaron
+Il est vrai que ce même Suisse a été renvoyé depuis un mois, et que sans cela tu ne serais pas entré ici aujourd'hui, que même tu ne l'aurais pas essayé.
+
+-*who_lecomte
+Non sûrement.
+
+-*who_lebaron
+Je vais donc parler à la Marquise encore en ta faveur : cache toi, et si tu trouves un instant où tu puisse espérer de la toucher, tu feras tout ce que tu voudras, je te seconderai autant qu'il me sera possible.
+
+-*who_lecomte
+Je te devrai le bonheur de ma vie.
+
+-*who_lebaron
+Entre dans ce Cabinet, aussi bien j'entends quelqu'un et c'est peut être-elle.
+
+**** *book_ *id_I03 *act_I *date_(inc
+
+-*who_lamarquise
+Baron, je vous suis obligé d'avoir bien voulu m'attendre ; j'achevais une lettre, et je crois que vous auriez été fâché que je me dérangeasse ; je compte assez sur votre amitié pour cela.
+
+-*who_lebaron
+Je suis plus sensible a cette confiance qu'à toutes les protestations qu'on peut faire.
+Quelque plaisir que j'aie à vous faire ma cour ; et je n'avais eu qu'un instant à vous donner, je m'en serais privé plutôt que de vous interrompre.
+Vous ne me paraissez pas trop bien aujourd'hui.
+
+-*who_lamarquise
+Je n'ai point dormi, j'ai eu de l'agitation, j'ai rêvé, mais des choses qui m'ont tourmentée beaucoup.
+
+-*who_lebaron
+Je vous plains bien sincèrement ; en vérité il ne me paraît pas trop injuste que l'on ne soit pas tout-à-fait heureux, quand on fait le malheur des autres.
+
+-*who_lamarquise
+Je vois où vous en voulez venir, Baron.
+
+-*who_lebaron
+Mais Madame, voulez-vous être toujours insensible ?
+Je vois malgré vous, tout ce que vous souffrez de cette rigueur ; l'impression qu'avait fait le Comte sur votre coeur, ne peut point s'effacer, vous vous efforcez en vain de me le cacher , votre santé en est altérée et il ne dépendrait que de vous de terminer, tous vos maux.
+
+-*who_lamarquise
+Eh, le puis-je, Baron !
+Vous savez le procédé du Comte.
+Presqu'au moment de m'épouser.
+Il me trahit, l'ingrat !
+Et pour qui ?
+
+-*who_lebaron
+Pouvez-vous croire que son coeur ait eu part à cette erreur ?
+Non, Madame : vous n'avez pas voulu savoir tout ce qu'il en a souffert, il a bien expié son crime ; si vous aviez été témoin de son repentir, du délire où l'a plongé sa douleur !
+Je ne dis pas l'amour, mais la pitié seule, vous aurait rendue sensible à tant de maux.
+Après la maladie qu'ils lui ont occasionnée, la convalescence bien loin d'avoir des charmes pour lui en lui rendant ses forces, faisait chaque jour renaître ses tourments.
+Je me suis tu tant qu'il m'a paru coupable ; mais un si vif repentir m'a prouvé qu'il méritait sa grâce, oui, Madame, vous avez fait justice ; mais vous devez pardonner.
+
+-*who_lamarquise
+Quoi, vous pouvez me donner ce conseil ?
+Je vous croyais mon ami...
+
+-*who_lebaron
+C'est pour vous-même que je vous le donne, et si vous me laissiez lire dans votre coeoeur...
+
+-*who_lamarquise
+Vous y verriez que la confiance n'y peut plus renaître.
+Lorsque l'amour le plus tendre s'est vu tromper une fois, l'espoir de la constance dans les hommes est perdu sans retour.
+
+-*who_lebaron
+Mais vous aimez encore le Comte.
+
+-*who_lamarquise
+Je l'aimerais qu'il n'en serait pas plus heureux.
+
+-*who_lebaron
+Consentez du moins à le voir.
+
+-*who_lamarquise
+S'il était à Paris, je m'en éloignerais dans l'instant.
+
+**** *book_ *id_I04 *act_I *date_(inc
+
+-*who_lecomte
+Non, Madame, c'est moi qui vais m'en bannir pour toute ma vie ; puisque je n'ai plus d'espoir, et je viens vous dire un éternel adieu.
+
+-*who_lamarquise
+Que vois-je !
+Quelle audace !...
+
+-*who_lebaron
+Madame...
+
+-*who_lamarquise
+Levez-vous, Monsieur, au Baron.
+Baron, sonnez je vous prie.
+
+-*who_lebaron
+Que voulez-vous faire ?
+
+-*who_lamarquise
+Sonnez, ou bien je vais moi-même...
+
+-*who_lebaron
+Allons, Madame.
+
+**** *book_ *id_I05 *act_I *date_(inc
+
+-*who_lamarquise
+Qu'on fasse monter le Suisse.
+
+-*who_dubois
+Le voilà qui apporte les lettres de Madame.
+
+-*who_lamarquise
+Pourquoi avez-vous laissé entrer Monsieur ?
+
+-*who_lesuisse
+Matame il n'a point dit de refuser personne aujourd'hui.
+
+-*who_lamarquise
+Oui, mais Monsieur ?
+Ne vous a-t-on pas dit que jamais...
+
+-*who_lesuisse
+Monsieur, il vient avec Monsieur Baron, il est vrai que j'ai point vu encore sa nom ni sa visage, et j'ai crois que c'est un connaissance nouvelle.
+
+-*who_lamarquise
+Mais Fribourg, vous a laissé un portrait ?
+
+-*who_lesuisse
+La Camarade, il m'a donné, je laisse point entrer jamais non plus ste Monsieur.
+
+-*who_lamarquise
+Et le voilà.
+
+-*who_lesuisse
+Oh que non, Matame , il rit avec moi.
+La visage que j'ai dans mon poche, il est un un gros visage.
+Regarde vous-même.
+
+-*who_lamarquise
+Je n'ai que faire de voir.
+
+-*who_lesuisse
+Il est pon cette visage du portrait, et je laisse point entrer.
+
+-*who_lamarquise
+Je vous dis que c'est Monsieur, et je vous chasse.
+
+-*who_lesuisse
+Je sorte point, c'est la Peintre qui n'a point raison , je vais dire à lui de venir et puis Madame il le chassera après s'il veut.
+Regarde vous un peu la portrait toujours en attendant.
+
+**** *book_ *id_I06 *act_I *date_(inc
+
+-*who_lebaron
+Madame, le Suisse n'a pas tort, il aurait connu le Comte autrefois, qu'il aurait pu ne pas le reconnaître aujourd'hui.
+
+-*who_lecomte
+Non, Madame, je ne suis plus le même, mes remords m'ont bien changé, mon coeur n'a jamais cessé de vous adorer ; au milieu de mon égarement je me fuis abhorré moi-même, les premiers reproches que j'ai éprouvés ce font les miens.
+Je mérite une haine éternelle ; mais si vous m'avez aimée...
+
+-*who_lamarquise
+Ne prononcez pas ce mot-là.
+
+-*who_lecomte
+Le malheur peut nous entraîner une fois ; mais après cela, le flambeau de la Raison vous répond de la conduite du reste de la vie.
+Qui n'a rien éprouvé ne saurait répondre de soi.
+
+-*who_lamarquise
+Et si vous m'aviez véritablement aimée ; comment auriez-vous pu consentir à me trahir ?
+
+-*who_lecomte
+Je vous l'ai dit, Madame , mon coeur n'a point eu de part à ce délire: oubliez cette faute, c'est toute la grâce que je vous demande ; si je continue à être privé de votre estime , je ne réponds pas de mon désespoir.
+
+-*who_lamarquise
+Dépend-t-il de moi de vous la rendre ?
+La contrariété peut irriter votre amour et vous faire croire que vous ne seriez plus coupable ; voilà tout le changement qui s'est fait en vous.
+
+-*who_lecomte
+Ah, Madame ; ne croyez pas...
+
+-*who_lamarquise
+Je sais par quoi je pourrai compter.
+
+-*who_lebaron
+Madame, je réponds de lui.
+
+-*who_lamarquise
+Eh , croyez-vous, si l'on pouvait répondre des hommes, que j'aurais besoin de caution dans ce moment-ci.
+Reprenez ce portrait, Comte.
+
+-*who_lecomte
+Comment, Madame ?
+
+-*who_lamarquise
+L'image du bonheur m'avait trompée.
+Puisse celle du repentir que je vois dans cet instant, ne m'abuser jamais !
+
+-*who_lecomte
+Qu'entends-je ?
+
+-*who_lamarquise
+Je viens de chasser mon Suisse, je veux que vous le repreniez.
+
+-*who_lecomte
+Je ne sais que penser...
+
+-*who_lamarquise
+Ce ne sera plu s à vous que je m'en prendrai s'il vous arrive une seconde fois...
+
+-*who_lecomte
+Bannissez pour jamais cette pensée.
+
+-*who_lamarquise
+Ce sera à moi, à ma faiblesse, à mon amour que tous vos torts n'ont pu détruire.
+
+-*who_lecomte
+Je vais expirer de joie à vos pieds !
+
+-*who_lebaron
+Voilà, Madame, l'opinion que j'avais de votre âme, elle est trop délicate et trop généreuse pour être toujours inflexible.
+
+-*who_lamarquise
+Je me sacrifie pour ce que j'aime.
+
+-*who_lecomte
+Vous jugerez de l'excès de mon bonheur par tout ce que je ferai pour.

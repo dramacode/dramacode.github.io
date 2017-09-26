@@ -1,0 +1,2012 @@
+
+
+**** *book_ *id_I01 *act_I *date_1750
+
+-*who_madamelepine
+Ah !
+Vraiment, il est bien temps de venir : je n'ai plus le loisir de vous entretenir ; il y a une heure que je vous attends, et que vous devriez être ici.
+
+-*who_lechevalier
+C'est la faute de ce coquin-là, qui m'a éveillé trop tard.
+
+-*who_laramee
+Ma foi, c'est que je ne me suis pas éveillé plus tôt.
+Quand on dort, on ne se ressouvient pas de se lever.
+
+-*who_madamelepine
+Madame La Thibaudière est presque habillée : elle ou Lisette peut descendre dans cette salle-ci, et il faut être plus exact.
+
+-*who_lechevalier
+Ne vous fâchez pas.
+De quoi s'agit-il ?
+Mettez-moi au fait en deux mots : qu'est-ce que c'est d'abord que Madame La Thibaudière ?
+
+-*who_madamelepine
+Une femme de province, qui n'est ici que depuis huit jours ; qui est venue occuper un très grand appartement, précisément dans l'hôtel où je suis logée ; avec qui j'ai lié connaissance le surlendemain de son arrivée ; qui est veuve depuis un an ; qui a presque toujours demeuré à la campagne, qui jamais n'a vu Paris, ni quitté la province ; qui, depuis six mois, a hérité d'un oncle qui la laisse prodigieusement riche ; et qui, le jour même où je la connus, reçut un remboursement de plus de cent mille livres, qu'elle a encore.
+
+-*who_lechevalier
+Qu'elle a encore ?
+
+-*who_laramee
+Qu'elle a encore !...
+Cela est beau !
+
+-*who_lechevalier
+Et c'est cette femme-là, sans doute, avec qui je vous rencontrai avant-hier à midi dans la boutique de ce marchand, où j'étais moi-même avec ces deux dames ?
+
+-*who_madamelepine
+Elle-même.
+Vous comprenez à présent pourquoi j'affectai tant de vous connaître et de vous saluer ; pourquoi je vous glissai à l'oreille de la lorgner beaucoup, et de vous trouver le même jour au Luxembourg, où je serais avec elle, et d'y continuer vos lorgneries.
+
+-*who_lechevalier
+Oui, je commence à être au fait.
+
+-*who_laramee
+Parbleu, cela n'est pas difficile !
+Le remboursement rend cela plus clair que le jour.
+
+-*who_lechevalier
+Vous me dîtes aussi d'envoyer La Ramée le lendemain à votre hôtel, à l'heure de votre dîner, sous prétexte de savoir à quelle heure je pourrais vous voir aujourd'hui.
+Quelle était votre idée, Madame Lépine ?
+
+-*who_madamelepine
+Que La Ramée entrât dans la salle où nous dînions, Madame La Thibaudière et moi ; qu'elle le reconnût pour l'avoir vu la veille avec vous, et qu'elle se doutât que vous ne vouliez venir me parler que pour tâcher de la voir encore, comme en effet elle s'en est doutée.
+
+-*who_laramee
+J'entends quelqu'un.
+
+-*who_madamelepine
+Je vous le disais bien ; c'est elle-même !
+Et je ne vous ai pas dit la moitié de ce qu'il faut que vous sachiez.
+Mais heureusement je pense qu'elle va sortir pour quelque achat qu'elle doit faire ce matin.
+Contentez-vous à présent de la saluer en homme qui ne vient voir que moi.
+
+-*who_lechevalier
+Ne vous inquiétez point.
+
+**** *book_ *id_I02 *act_I *date_1750
+
+-*who_madamelathibaudiere
+Je vous cherchais, Madame Lépine, pour vous emmener avec moi.
+Mais vous avez compagnie, et je ne veux point vous déranger.
+
+-*who_lechevalier
+Déranger, Madame ?
+Quant à moi, je ne sache rien qui m'arrange tant que le plaisir de vous voir.
+
+-*who_madamelathibaudiere
+Cela est fort galant, Monsieur, mais vous pouvez avoir quelque chose à vous dire ; je suis pressée, et je crois devoir vous laisser en liberté.
+Adieu, Madame Lépine : je ne serai pas longtemps absente, et nous nous reverrons bientôt.
+
+**** *book_ *id_I03 *act_I *date_1750
+
+-*who_lechevalier
+Oh !
+Oui, Madame Lépine : à vue de pays, nous viendrons à bout de cette femme-là.
+Elle a des façons qui nous le promettent, et je prévois que nous la subjuguerons, en la flattant d'avoir de bons airs.
+
+-*who_madamelepine
+Je n'en doute pas, moi qui la connais.
+
+-*who_lechevalier
+Elle me paraît faite pour la lettre que je lui ai écrite, en supposant que je ne la visse pas chez vous, et qu'elle ne refusera pas de prendre de votre main.
+
+-*who_madamelepine
+Oui, mais elle va revenir, et je ne veux pas qu'elle vous retrouve.
+Laissez-moi seulement La Ramée, que je vais instruire de ce qu'il est bon que vous sachiez.
+Il ira vous rejoindre, et vous reviendrez ensemble.
+
+-*who_lechevalier
+Soit.
+Je vais donc t'attendre chez moi.
+
+-*who_laramee
+Oui, Monsieur.
+
+-*who_madamelepine
+Chevalier, un mot.
+Souvenez-vous de nos conventions après le succès de cette aventure-ci, au moins.
+
+-*who_lechevalier
+Pouvez-vous vous méfier de moi ?
+
+-*who_laramee
+Monsieur, Monsieur, un autre petit mot, s'il vous plaît.
+
+-*who_lechevalier
+Que me veux-tu ?
+
+-*who_laramee
+Vous oubliez un règlement pour moi.
+
+-*who_lechevalier
+Qu'appelles-tu un règlement ?
+Tu nous parles comme à des fripons.
+
+-*who_laramee
+Non pas, mais comme à des espiègles dont j'ai l'honneur d'être associé.
+Vous allez attaquer un coeur novice dont vous aurez le pillage ; vous serez les chefs de l'action : regardez-moi comme un soldat qui demande sa paye.
+
+-*who_lechevalier
+Assurément.
+
+-*who_madamelepine
+Oui, il a raison.
+Allons, La Ramée, on récompensera bien tes services, je te le promets.
+
+-*who_laramee
+Grand merci, mon capitaine.
+Et votre lieutenant, quelle est sa pensée un peu au net ?
+
+-*who_lechevalier
+Il y aura cinquante pistoles pour toi ; adieu.
+
+**** *book_ *id_I04 *act_I *date_1750
+
+-*who_laramee
+Madame Lépine, il s'agit ici d'une espèce de parti bleu honnête contre une cassette ; et par ma foi, cinquante pistoles, ce n'est pas assez.
+Si je désertais chez l'ennemi, ma désertion me vaudrait davantage.
+
+-*who_madamelepine
+Déserter !
+Garde-t-en bien, La Ramée !
+
+-*who_laramee
+Oh !
+Ne craignez rien : ce n'est qu'une petite réflexion dont je vous avise.
+
+-*who_madamelepine
+Tu seras content du Chevalier et de moi ; je te le garantis : ton payement sera le premier levé.
+
+-*who_laramee
+Tant mieux !
+
+-*who_madamelepine
+Dis-moi : cette lettre qu'il m'a laissée, est-elle dans le goût que j'ai demandé ?
+
+-*who_laramee
+Comptez sur le billet doux le plus cavalier, le plus leste, le plus dégagé...
+Vous verrez !
+Vous verrez !
+Ce n'est pas pour me vanter, mais j'y ai quelque part.
+Il n'a pas plus de sept ou huit lignes ; et en honneur, c'est un chef-d'oeuvre d'impertinence.
+Soyez sûre qu'une femme sensée, en pareil cas, en ferait jeter l'auteur par les fenêtres.
+
+-*who_madamelepine
+Et voilà précisément comme il nous le faut avec notre provinciale, préparée comme elle l'est !
+C'est cette impertinence-là qui en fera le mérite auprès d'elle.
+
+-*who_laramee
+Il est parfait, vous dis-je ; il est écrit sous ma dictée ; bien entendu que ladite Marquise soit assez folle pour le soutenir.
+Le succès dépend de l'état où vous avez mis sa tête.
+
+-*who_madamelepine
+Oh !
+Rien n'y manque.
+
+-*who_laramee
+Et puis, c'est une tête de femme, ce qui prête beaucoup.
+Et le Chevalier, à propos, l'avez-vous fait de grande maison, tout fils de bourgeois qu'il est ?
+
+-*who_madamelepine
+Oh !
+C'est un de nos galants du bel air, et des plus répandus que j'aie jamais connu chez tout ce qu'il y a de plus distingué.
+
+-*who_laramee
+Et en quelle qualité êtes-vous avec elle ?
+Ne serait-il pas nécessaire de le savoir ?
+
+-*who_madamelepine
+Mon enfant, dans une qualité assez équivoque, et j'allais te le dire.
+Je ne suis ni son égale, ni son inférieure.
+
+-*who_laramee
+On peut vous appeler un ambigu.
+
+-*who_madamelepine
+Elle a voulu que je demeurasse avec elle : elle me loge, me nourrit, m'a déjà fait quelques petits présents, que j'ai d'abord refusés par décence, et que j'ai acceptés par amitié.
+Voici mon histoire : je suis une jeune dame veuve, qui était à son aise, mais qui a de la peine à présent à soutenir noblesse, à cause de la perte d'un grand procès, qui me force à vivre retirée.
+Avant mon mariage, j'ai passé quelques années avec des duchesses et même des princesses, dont j'avais l'honneur d'être la compagne gagée et qui me menaient partout, ce qui m'a acquis une expérience consommée sur les usages du beau monde, en vertu de laquelle je gouverne notre provinciale.
+
+-*who_laramee
+Le joli roman !
+
+-*who_madamelepine
+Mais comme, d'un autre côté, la fortune lui donne de grands avantages sur une dame ruinée, j'ai la modestie de négliger les cérémonies avec la Marquise de la Thibaudière, de lui céder les honneurs du pas, et de laisser, entre elle et moi, une petite distance qui me gagne sa vanité, et qui ne me coûte que des égards et quelques flatteries, de façon que je suis tour à tour, et sa complaisante, et son oracle.
+
+-*who_laramee
+Quel génie supérieur !
+Ah !
+Madame Lépine, avec un pareil don du ciel, le patrimoine du prochain sera toujours le vôtre !
+
+-*who_madamelepine
+Votre Marquise, au reste, n'a encore reçu de visite que d'un de ses parents, homme de province assez âgé, et qui, pour terminer une grande affaire qu'elle a ici, vient la marier avec un homme de considération, qu'il doit lui amener incessamment, et qui la fixerait à Paris.
+Entends-tu ?
+
+-*who_laramee
+Malepeste !
+Voilà un mariage qu'il faut gagner de vitesse, de peur que le remboursement ne change de place, et ne soit stipulé dans le contrat.
+Mais, Madame Lépine, au lieu de nous en tenir à ces petits bénéfices de passage, si nous épousions la future ; si nous tâchions de saisir le gros de l'arbre, au lieu des branches ?
+
+-*who_madamelepine
+Cela serait trop difficile, et puis j'irais directement contre mes préceptes : je lui ai déjà dit que, pour le bon air, il était indécent d'aimer son mari, et qu'il ne fallait garder l'amour que pour la galanterie, et non pas pour le mariage : ainsi il n'y a pas moyen.
+Adieu, va-t'en, tout est dit.
+
+-*who_laramee
+Je sors donc, songez à mes intérêts.
+
+-*who_madamelepine
+Tu peux t'en fier à moi ; pars.
+St, st, La Ramée !
+Je rêve que nous aurions besoin d'une femme qui, sur le pied d'amante de ton maître, et d'amante jalouse, se douterait de son intrigue avec la Marquise, et viendrait hardiment ici, ou pour l'y chercher, ou pour examiner sa rivale, et lui dirait en même temps de la suivre chez un notaire, afin d'y achever le paiement d'un régiment qu'il achèterait.
+
+-*who_laramee
+D'un régiment fabuleux, de votre invention ?
+
+-*who_madamelepine
+Oui, que je lui donne, et qu'on supposera.
+
+-*who_laramee
+Je ferai votre affaire.
+Il s'agit d'une virtuose, et nous en connaissons tant...
+Je vous en fournirai une, moi...
+Elle ne sera pas de votre force, Madame Lépine ; mais elle ne sera pas mal.
+Sont-ce là tous les outils qu'il vous faut ?...
+Quand voulez-vous celui-là ?
+
+-*who_madamelepine
+Tantôt, quand le Chevalier sera revenu.
+
+-*who_laramee
+Vous serez servie.
+
+-*who_madamelepine
+Adieu donc.
+
+-*who_laramee
+Adieu.
+N'avez-vous plus rien à me dire ?
+
+-*who_madamelepine
+Non.
+
+-*who_laramee
+Je ne suis pas de même...
+Je rêve aussi, moi.
+
+-*who_madamelepine
+Parle.
+
+-*who_laramee
+Vous avez une lettre du Chevalier à rendre à la Marquise...
+Oserais-je en toute humilité vous en confier une pour mon petit compte ?
+
+-*who_madamelepine
+Qu'est-ce que c'est qu'une pour toi ?
+Est-ce que tu écris aussi à la Marquise ?
+
+-*who_laramee
+Non, c'est une porte plus bas ; c'est à Cathos dont je ne sais le nom que de tout à l'heure, à ce petit minois de femme de chambre, qui était avec vous chez ce marchand, qui me parut niaise, mais jolie, et avec qui, par inspiration, j'ébauchai une petite conversation de regards, où elle joua assez bien sa partie ; et hier, quand le Chevalier m'envoya chez vous, en redescendant, je la trouvai sur la porte d'un entre-sol, où je repris le fil du discours par un : Votre valet très humble, Mademoiselle, et par une ou deux révérences, aussi bien troussées, soutenues d'un déhanchement aussi parfait !...
+Je sentis, en vérité, que cela lui allait au coeur.
+Nous venons encore de nous entre-saluer ici ; et à l'exemple de mon maître, dont vous rendrez le billet, voici un petit bout de papier que j'ai écrit, et que je vous supplierai de lui remettre par la même commodité.
+
+-*who_madamelepine
+Par la même commodité !...
+Monsieur de la Ramée, vous me manquez de respect.
+
+-*who_laramee
+Oh !
+Vous êtes si fort au-dessus de cette puérile délicatesse-là ; vous êtes si serviable !...
+
+-*who_madamelepine
+Mais à quoi vous conduira cet amour-là ?
+
+-*who_laramee
+Hélas !
+À ce qu'il pourra.
+Je ne m'attends pas qu'on ait rien remboursé à Cathos ; mais si vous vouliez, chemin faisant, la mettre un peu en goût d'être du bel air avec moi, je n'aurai point de régiment à acheter, mais j'aurai quelque payement à faire, et tout m'est bon : je glanerai ; ce qui viendra, je le prendrai.
+
+-*who_madamelepine
+Soit ; je glisserai à tout hasard quelques mots en votre faveur.
+À l'égard de votre papier, faites-lui votre commission vous-même, puisque la voilà qui vient ; et puis, partez pour rejoindre votre maître.
+
+-*who_laramee
+Vous allez voir mon aisance.
+
+**** *book_ *id_I05 *act_I *date_1750
+
+-*who_cathos
+Nous sommes revenues ; et Madame la Marquise s'est arrêtée dans le jardin.
+Vous avez donc encore du monde ?
+
+-*who_madamelepine
+Oui, c'est Monsieur de la Ramée qui m'apporte un billet que Monsieur le Chevalier avait oublié de me donner.
+
+-*who_laramee
+Et il m'en reste encore un dont l'objet de mes soupirs aura, s'il vous plaît, la bonté de me défaire.
+
+-*who_cathos
+Est-ce moi que Monsieur veut dire ?
+
+-*who_laramee
+Et qui donc, divine brunette ?
+Vous n'ignorez pas l'objet que j'aime !
+
+-*who_cathos
+Je me doute qui c'est, par-ci, par-là.
+
+-*who_madamelepine
+Ha, ha, ha, courage !...
+Monsieur de la Ramée est un illustre au moins, un garçon très couru.
+
+-*who_laramee
+Et ce garçon si couru, c'est vous qui l'avez attrapé.
+
+-*who_cathos
+Je ne cours pourtant pas trop fort ; et vous me contez des fleurettes, Monsieur.
+
+-*who_laramee
+Oh !
+Palsambleu, beauté sans pair, vous avez lu dans mes yeux que je vous adore, et je requiers de pouvoir en lire autant dans les vôtres.
+
+-*who_cathos
+Ah !
+Dame !
+Il faut le temps de faire réponse.
+
+-*who_laramee
+Vous m'avez promis dans un regard ou deux que je n'attendrais pas, et je suis impatient.
+C'est ce que vous verrez dans cette petite épître qui vous entretiendra de moi jusqu'à mon retour, et que je n'ai pu qu'adresser à Mademoiselle, Mademoiselle en blanc, faute d'être instruit de votre nom.
+Comment vous appelle-t-on, mes amours, afin que je l'écrive ?
+
+-*who_cathos
+Il n'y a qu'à mettre Cathos, pour vous servir, si j'en suis capable.
+
+-*who_laramee
+Très capable !
+Extrêmement capable !
+Madame Lépine, je vous demande pardon de la liberté que je prends devant vous, mais ce petit minois m'étourdit ; il est céleste, il m'égare ; il s'agit d'amour, et cela passe partout...
+N'est-ce pas Cathos que vous dites, charme de ma vie ?
+
+-*who_cathos
+Oui, Monsieur.
+
+-*who_laramee
+Ce nom-là m'est familier ; je connais une des plus belles pies du monde qui s'appelle de même.
+
+-*who_cathos
+Oh !
+Mais je m'appelle aussi Charlotte.
+
+-*who_laramee
+La pie n'a pas cet honneur-là, et tous vos noms sont des enchantements.
+Prenez, Charlotte, prenez cette lettre, et souvenez-vous que c'est Charlot de la Ramée qui vous la présente, et qui brûle d'en avoir réponse.
+Adieu, bel oeil ; adieu, figure triomphante, et adieu, bijou tout neuf !
+
+-*who_madamelepine
+Je pense comme toi, La Ramée.
+
+-*who_laramee
+Madame, votre approbation met le comble à son éloge.
+À propos !
+J'oubliais votre main...
+Donnez-moi, que je la baise.
+
+-*who_cathos
+Ma main ?
+Eh mais, c'est de bonne heure.
+
+**** *book_ *id_I06 *act_I *date_1750
+
+-*who_laramee
+Hé bien, je vous fais crédit jusqu'à tantôt.
+
+-*who_monsieurlormeau
+Qu'est-ce que c'est que cet homme-là, Cathos ?
+À qui donc parlez-vous de faire crédit ici ?
+
+-*who_laramee
+À la merveilleuse Cathos, suivante de Madame la Marquise, Monsieur.
+
+-*who_monsieurlormeau
+Ce drôle-là a l'air d'un fripon ; Madame Lépine, que signifie ce crédit et cette Marquise ?
+
+-*who_cathos
+Bon, du crédit !
+C'est qu'il raille ; c'est ma main qu'il voulait baiser, et qu'il ne baisera que tantôt.
+
+-*who_monsieurlormeau
+Qu'il ne baisera que tantôt, qu'est-ce que cela signifie ?
+
+-*who_cathos
+Oui, l'affaire est remise.
+À l'égard du garçon, c'est l'homme de chambre d'un jeune chevalier de nos amis ; et la Marquise, c'est Madame : voilà tout.
+
+-*who_monsieurlormeau
+Quelle Madame ?
+Ma parente ?
+
+-*who_cathos
+Elle-même.
+
+-*who_monsieurlormeau
+Eh !
+Depuis quand est-elle marquise ? de quelle promotion l'est-elle ?
+
+-*who_cathos
+D'avant-hier matin : cela se conclut une heure après son dîner.
+
+-*who_monsieurlormeau
+Madame, ne m'apprendrez-vous pas ce que c'est que ce marquisat ?
+
+-*who_madamelepine
+Madame La Thibaudière m'a dit qu'elle avait une terre qui portait ce titre, et elle l'a pris elle-même, ce qui est assez d'usage.
+
+-*who_cathos
+Pardi, on se sert de ce qu'on a.
+
+-*who_monsieurlormeau
+Elle n'y songe pas.
+Est-elle folle ?
+Je ne l'appellerai jamais que Madame Riquet ; c'est son nom, et non pas La Thibaudière.
+
+-*who_cathos
+Bon !
+Madame Riquet, pendant qu'on a un château de qualité !
+
+-*who_monsieurlormeau
+Fort bien !
+En voilà une à qui la tête a tourné aussi.
+Madame Lépine, voulez-vous que je vous dise ?
+Je crois que vous me gâtez la maîtresse et la servante.
+
+-*who_madamelepine
+Je les gâte, Monsieur ?
+Je les gâte ?...
+Vous ne mesurez pas vos discours ; et ces termes-là ne conviennent pas à une femme comme moi.
+
+-*who_cathos
+Madame sait les belles compagnies sur le bout de son doigt ; elle nous apprend toutes les pratiques galantes, et la coutume des marquises, comtesses et duchesses : voyez si cela peut gâter le monde.
+
+-*who_monsieurlormeau
+Vous êtes en de bonnes mains à ce qui me semble, et vous me paraissez déjà fort avancée.
+Au surplus, Madame Riquet est sa maîtresse.
+Où est-elle ?
+Peut-on la voir ?
+N'y aura-t-il point quelque coutume galante qui m'en empêche ?
+
+-*who_cathos
+Tenez, la voilà qui vient.
+
+**** *book_ *id_I07 *act_I *date_1750
+
+-*who_monsieurlormeau
+Bonjour, ma cousine.
+
+-*who_madamelathibaudiere
+Ah !
+Bonjour, Monsieur, et non pas mon cousin.
+
+-*who_monsieurlormeau
+Autre pratique galante !...
+D'où vient donc ?
+
+-*who_madamelathibaudiere
+C'est qu'on n'ai ni cousin ni cousine à Paris, mon très cher...
+À cela près, que me voulez-vous ?
+
+-*who_monsieurlormeau
+Est-il vrai que vous avez changé de nom ?
+
+-*who_madamelathibaudiere
+Point du tout...
+De qui tenez-vous cela ?
+
+-*who_monsieurlormeau
+De Cathos, qui m'a voulu faire accroire que vous avez pris le nom de Marquise de la Thibaudière.
+
+-*who_madamelathibaudiere
+Il est vrai ; mais ce n'est pas là changer de nom : c'est prendre celui de sa terre.
+
+-*who_madamelepine
+Il n'y a rien de si commun.
+
+-*who_madamelathibaudiere
+Oui, mais Monsieur Lormeau ne sait point cela, il faut l'en instruire ; il est dans les simplicités de province.
+Allez, Monsieur, rassurez-vous, nous n'en serons pas moins bons parents...
+À propos, vous vis-je hier ?
+Comment vous portez-vous aujourd'hui ?
+
+-*who_monsieurlormeau
+Vous voyez, assez bien, Dieu merci...
+Mais, ma cousine, encore un petit mot.
+Feu Monsieur Riquet...
+
+-*who_madamelathibaudiere
+Ce bonhomme, avec sa cousine et son Riquet !
+
+-*who_cathos
+Ha, ha, ha !
+
+-*who_madamelathibaudiere
+Eh bien, que souhaite le cousin de la cousine ?
+
+-*who_monsieurlormeau
+Madame, ou Marquise...
+Lequel aimez-vous le mieux ?
+
+-*who_madamelathibaudiere
+Madame est bon, Marquise aussi, toujours l'un ou l'autre ; c'est la règle.
+Achevez.
+
+-*who_monsieurlormeau
+Feu votre mari s'appelait Monsieur Riquet, n'est-il pas vrai ?
+Il s'ensuit donc que vous êtes la veuve Riquet.
+
+-*who_madamelathibaudiere
+Prenez donc garde !
+Veuve Riquet et Marquise n'ont jamais été ensemble.
+Veuve Riquet se dit de la marchande du coin.
+Mon mari, au reste, s'appelait Monsieur Riquet, j'en conviens ; mais, depuis sa mort, j'ai hérité du marquisat de la Thibaudière, et j'en prends le nom, comme de son vivant il l'aurait pris lui-même, s'il avait été raisonnable.
+Allons, n'en parlons plus.
+Que devenez-vous aujourd'hui ?
+Avez-vous des nouvelles de mon affaire ?
+
+-*who_monsieurlormeau
+Oui, Marquise ; et je venais vous dire que je vous amènerai tantôt la personne avec qui je travaille à vous marier, pour vous éviter le procès que vous auriez ensemble touchant votre succession ; c'est un homme de distinction qui vous donnera un assez beau rang.
+Mais, de grâce, ne changez rien aux manières que vous aviez il n'y a pas plus de huit jours ; et laissez là les pratiques galantes, et la coutume des comtesses, marquises et duchesses...
+Adieu, cousine.
+
+-*who_madamelathibaudiere
+Salut au cousin.
+
+**** *book_ *id_I08 *act_I *date_1750
+
+-*who_madamelathibaudiere
+Les pratiques galantes et la coutume des comtesses, marquises et duchesses : les plaisantes expressions !...
+C'est que nos manières sont de l'arabe pour lui.
+
+-*who_cathos
+C'est moi qui lui ai enseigné cet arabe-là pour rire.
+
+-*who_madamelepine
+Ha !
+Que ce gentilhomme est grossier, Marquise !
+Que Monsieur votre cousin est campagnard !
+
+-*who_madamelathibaudiere
+Ha !
+D'un campagnard, d'un rustique !...
+
+-*who_cathos
+D'un lourd, d'un malappris !
+
+-*who_madamelepine
+Savez-vous bien, au reste, que vous venez de m'étonner, Marquise ?
+
+-*who_madamelathibaudiere
+Comment ?
+
+-*who_madamelepine
+Oui, m'étonner !
+Je vous admire !
+Vous avez eu tout à l'heure des façons de parler aussi distinguées, d'un aussi bon ton, des tours d'une finesse et d'une ironie d'un aussi bon goût qu'il y en ait à la cour.
+Vous excellerez, Marquise, vous excellerez.
+
+-*who_madamelathibaudiere
+Est-il possible ?
+C'est à vous à qui j'en ai l'obligation.
+
+-*who_cathos
+J'avance aussi, moi, n'est-ce pas ?
+Je me polis.
+
+-*who_madamelepine
+Pas mal, Cathos, pas mal.
+
+-*who_madamelathibaudiere
+Madame Lépine, si Cathos changeait de nom ?
+Cathos me déplaît, ai-je tort ?
+
+-*who_madamelepine
+Vous me charmez !
+Il faut que je vous embrasse, Marquise, je n'y saurais tenir ; voilà un dégoût qui part du sentiment le plus exquis, et que vous avez sans le secours de personne, ce qui est particulier...
+Oui, vous avez raison : Cathos ne vaut rien, il rappelle son ménage de province.
+
+-*who_madamelathibaudiere
+Justement.
+Allons, plus de Cathos, entendez-vous ?
+Cathos, je vous fais Lisette.
+
+-*who_madamelepine
+Fort bien.
+
+-*who_cathos
+Quel plaisir !
+Je serai Lisette par-ci, Lisette par-là...
+Ce nom me dégourdit.
+
+-*who_madamelathibaudiere
+Vous croyez donc, Madame Lépine, que je puis à présent me produire ?
+
+-*who_madamelepine
+Au moment où nous parlons, vous faites peut-être plus de bruit que vous ne pensez.
+
+-*who_madamelathibaudiere
+Moi, du bruit ?
+Sérieusement !
+Du bruit ?
+
+-*who_madamelepine
+Je sais un cavalier des plus aimables, qui vous donne actuellement la préférence sur nombre de femmes, qui en sont bien piquées.
+Voyez-vous cette lettre-là qu'on est venu tantôt à genoux me prier de vous rendre ?
+
+-*who_madamelathibaudiere
+À genoux !
+Voilà qui est passionné.
+
+-*who_cathos
+En voyez-vous une qu'on m'a donnée seulement debout, mais avec des civilités ?
+
+-*who_madamelathibaudiere
+Quoi !
+Déjà deux lettres ?
+
+-*who_cathos
+Oui, Marquise, chacune la nôtre.
+
+-*who_madamelepine
+Celle-ci est du Chevalier, qui, sans contredit, est l'homme de France le plus à la mode.
+
+-*who_madamelathibaudiere
+Ah !
+Joli homme !
+Il a je ne sais quelle étourderie si agréable ; mais je l'ai donc frappé ?
+Je le soupçonnais, Madame Lépine ; c'est ici où j'ai besoin d'un peu d'instruction.
+Comment traiterai-je avec lui ?
+Quoi qu'il en dise, dans le fond, notre liaison n'est presque rien ; cependant il m'écrit, et me parle d'amour apparemment.
+Dans mon pays, cela me paraîtrait impertinent ; ici, ce n'est peut-être qu'une liberté de savoir-vivre.
+Mais recevrai-je son billet ?
+Je crois que non.
+
+-*who_madamelepine
+Ne pas le recevoir ?
+Je serais curieuse de savoir sur quoi vous fondez cette opinion-là.
+
+-*who_madamelathibaudiere
+C'est-à-dire que ma difficulté est encore un reste de barbarie.
+Ah !
+Maudite éducation de province, qu'on a peine à se défaire de toi !
+Sachez donc que parmi nous on ne peut recevoir un billet doux du premier venu sans blesser les bonnes moeurs.
+
+-*who_cathos
+Dame !
+Oui, voilà ce que la vertu de chez nous en pense.
+
+-*who_madamelepine
+La plaisante superstition !
+Quel rapport y a-t-il d'une demi-feuille de papier à de la vertu ?
+
+-*who_cathos
+Quand ce serait une feuille tout entière ?
+
+-*who_madamelathibaudiere
+Que voulez-vous ?
+J'arrive, à peine suis-je débarquée, et je sors du pays de l'ignorance crasse.
+
+-*who_madamelepine
+Renvoyez un billet vous seriez perdue ; il n'y aurait plus de réputation à espérer pour vous.
+À Paris, manquez-vous de moeurs ?
+On en rit, et on vous le pardonne.
+Manquez-vous d'usage ?
+Vous n'en revenez point, vous êtes noyée.
+
+-*who_cathos
+Et cela, pour un chiffon de papier.
+
+-*who_madamelathibaudiere
+Oh !
+J'y mettrai bon ordre !
+M'écrive à présent qui voudra, je prends tout, je reçois tout, je lis tout.
+
+-*who_cathos
+Oh !
+Pardi, pour moi, je n'ai pas fait la bégueule.
+
+-*who_madamelepine
+Allons, Marquise, femme de qualité, ouvrez le billet, et lisez ferme.
+
+-*who_madamelathibaudiere
+Tenez, voilà comme j'hésite.
+Ai-je la main timide ?
+
+-*who_madamelepine
+Non : pourvu que vous répondiez aussi hardiment, tout ira bien.
+
+-*who_madamelathibaudiere
+Répondre ?...
+Cela est violent.
+
+-*who_madamelepine
+Quoi ?
+
+-*who_madamelathibaudiere
+Je dis violent, en province.
+
+-*who_madamelepine
+Je vous ai cru étonnée, j'ai craint une rechute.
+
+-*who_madamelathibaudiere
+Étonnée pour une réponse ?
+Si vous me piquez, j'en ferai deux.
+
+-*who_madamelepine
+Une suffira.
+
+-*who_cathos
+Allons, voilà la mienne ouverte, et si je ne la lis, ni ne réponds, je vous prends à témoin que c'est que je ne sais ni lire ni écrire.
+
+-*who_madamelepine
+Garde-la ; je te la lirai.
+
+-*who_cathos
+Grand merci !
+Il faudra bien, afin de sauver ma réputation.
+
+-*who_madamelepine
+Eh bien, Marquise, êtes-vous contente du style du Chevalier ?
+
+-*who_madamelathibaudiere
+Il est charmant, je dis charmant !
+Mais bien m'en prend d'être avertie : quinze jours plus tôt, j'aurais pris cette lettre-là pour une insulte, Madame Lépine, pour une insulte !
+Car elle est hardie, familière.
+On dirait qu'il y a dix ans qu'il me connaît.
+
+-*who_madamelepine
+Je le crois.
+Le Chevalier, qui sait son monde, vous traite en femme instruite.
+
+-*who_madamelathibaudiere
+Vraiment, je ne m'en plains pas ; il me fait honneur...
+Tenez, lisez-le.
+
+-*who_cathos
+Je crois aussi que celle de mon galant aura bien des charmes, car il va si vite dans le propos ; il me considère si peu, que c'est un plaisir, le petit folichon qu'il est.
+
+-*who_madamelepine
+Êtes-vous comme moi, Marquise ?
+Je n'ai fait que vous voir, et je me meurs ; je ne saurais plus vivre ; dites, ma reine, en quel état êtes-vous ?
+À peu près de même, n'est-ce pas ?
+Je m'en doute bien ; mon coeur ne serait pas parti si vite, si le vôtre avait dû vous rester.
+C'est ici une affaire de sympathie ; notre étoile était de nous aimer : hâtons-nous de la remplir ; j'ai besoin de vous voir ; vous m'attendez sans doute.
+À quelle heure viendrai-je ?
+Le tendre et respectueux Chevalier de la Trigaudière.
+C'est assez d'une pareille lettre, pour illustrer toute la vie d'une femme.
+
+-*who_cathos
+Quel trésor !
+
+-*who_madamelathibaudiere
+Que dites-vous de cette étoile qui veut que je l'aime ?
+
+-*who_madamelepine
+Et qui ne met rien sur le compte de son mérite !
+Remarquez la modestie...
+
+-*who_madamelathibaudiere
+Et cet endroit où il dit que je l'attends ; le joli mot !
+Je l'attends !
+De sorte que je n'aurai pas la peine de lui dire : Venez.
+Que cette tournure-là met une femme à son aise !
+
+-*who_cathos
+Elle trouve tout fait : il n'y a plus qu'à aller.
+
+-*who_madamelepine
+Point de sot respect.
+
+-*who_madamelathibaudiere
+Sinon qu'à la fin, de peur qu'il ne gêne le corps de la lettre...
+Mais je pense que quelqu'un vient.
+Madame Lépine, puisque ce billet-là m'est si honorable, il n'est pas nécessaire que je le cache.
+
+-*who_madamelepine
+Gardez-vous en bien !
+Qu'on le voie si on veut ; la discrétion là-dessus serait d'une platitude ignoble.
+
+**** *book_ *id_I09 *act_I *date_1750
+
+-*who_monsieurlormeau
+Madame, voici Monsieur Derval que je vous présente.
+On ne peut rien ajouter à l'empressement qu'il avait de vous voir.
+
+-*who_monsieurderval
+Je sens bien que j'en aurai encore davantage.
+
+-*who_madamelathibaudiere
+Vous êtes bien galant, Monsieur...
+Des sièges à ces Messieurs.
+
+-*who_monsieurderval
+Mais, Madame, ne prenons-nous pas mal notre temps ?
+Je vois que vous tenez une lettre, qui demande peut-être une réponse prompte.
+
+-*who_madamelathibaudiere
+J'avoue que j'allais écrire.
+
+-*who_monsieurderval
+Nous ne voulons point vous gêner, Madame.
+Sortons, Monsieur ; nous reviendrons.
+
+-*who_monsieurlormeau
+S'il s'agit de répondre à des nouvelles de province, le courrier ne part que demain.
+
+-*who_madamelathibaudiere
+Non, c'est un billet doux, que je viens de recevoir, mais qui est extrêmement léger et joli ; et Monsieur, qui est de Paris, sait bien qu'il faut y répondre.
+
+-*who_monsieurlormeau
+Un billet doux, Madame !
+Vous plaisantez ; vous ne vous en vanteriez pas.
+
+-*who_madamelathibaudiere
+Hé, hé, hé...
+Vous voilà donc bien épouvanté, notre cher parent ?
+Je ne le dis point pour m'en vanter non plus : je le dis comme une aventure toute simple et dont une femme du monde ne fait point mystère ; demandez à Monsieur.
+Hé, hé, hé...
+
+-*who_cathos
+Hé, hé, hé...
+
+-*who_monsieurderval
+Madame est la maîtresse de ses actions.
+
+-*who_madamelathibaudiere
+Oh !
+Je vous avertis que Monsieur Lormeau n'entend point raillerie là-dessus.
+
+-*who_monsieurlormeau
+Dès qu'il ne s'agit que d'en badiner, à la bonne heure !
+Mais je craignais que ce fût quelque jeune étourdi qui eût eu l'impertinence de vous écrire.
+
+-*who_madamelathibaudiere
+Ah !
+S'il vous faut un Caton, ce n'en est pas un.
+C'est un étourdi, j'en conviens ; et s'il ne l'était pas, qu'en ferait-on ?
+
+-*who_monsieurlormeau
+Vous ne songez pas, Madame, que ce billet doux peut inquiéter Monsieur Derval.
+
+-*who_madamelathibaudiere
+Hé, hé, hé !
+De quelle inquiétude provinciale nous parlez-vous là ?
+Tâchez donc de n'être plus si neuf.
+Monsieur en veut à ma main, et le Chevalier ne poursuit que mon coeur ; ce sont deux choses différentes, et qui n'ont point de rapport.
+
+-*who_monsieurderval
+Je me trouverais cependant fort à plaindre, si le coeur ne suivait pas la main.
+
+-*who_madamelathibaudiere
+Vraiment, il faudra bien qu'il la suive ; il n'y manquera pas : mais je pense entre nous que ce n'est pas là le plus grand de vos soucis, Monsieur, et que nous ne nous chicanerons pas là-dessus ; nous savons bien que le coeur est une espèce de hors-d'oeuvre dans le mariage.
+
+-*who_monsieurlormeau
+Que veut-elle dire avec son hors-d'oeuvre ?
+Ce ne serait pas trop là mon sentiment, mais nous retenons Madame qui veut écrire, Monsieur ; et nous aurons l'honneur de la revoir.
+
+-*who_madamelathibaudiere
+Quand il vous plaira, Monsieur.
+
+-*who_monsieurderval
+Quelqu'un abuse de la crédulité de votre parente.
+
+-*who_monsieurlormeau
+On vous a renversé l'esprit, cousine.
+
+-*who_madamelathibaudiere
+Croyez-vous ?
+Hé, hé, hé...
+Monsieur Lormeau n'en revient point !
+
+**** *book_ *id_I10 *act_I *date_1750
+
+-*who_madamelathibaudiere
+Mais qu'en dites-vous, Madame Lépine ? je trouve que mon prétendu a assez bonne façon.
+
+-*who_madamelepine
+Eh bien, qu'importe ?
+Avez-vous envie de l'aimer, d'être amoureuse de votre mari ?
+Prenez-y garde.
+
+-*who_madamelathibaudiere
+Ah !
+Doucement !
+Je ne mériterai jamais votre raillerie.
+Mais je l'aimerais encore mieux que le Chevalier, si c'était l'usage.
+
+-*who_cathos
+Oui, mais en cas d'époux, cela est défendu.
+
+-*who_madamelepine
+Il n'est pas même question d'aimer avec le Chevalier, il ne faut en avoir que l'air ; on ne nous demande que cela.
+Est-ce que les femmes du monde ont besoin d'un amour réel, en fait de galanterie ?
+Non, Marquise ; quand il y en a, on le prend ; quand il n'y en a point, on en contrefait, et quelquefois il en vient.
+
+-*who_madamelathibaudiere
+J'entends.
+
+-*who_madamelepine
+On s'étourdit de sentiments imaginaires.
+Je crois vous l'avoir déjà dit.
+
+-*who_madamelathibaudiere
+C'est justement à quoi j'en suis avec le Chevalier ; quoiqu'il ne m'ait pas fort touchée, je me figure que je l'aime : je me le fais accroire, pour m'aider à soutenir la chose avec les airs convenables.
+Oh !
+Je sais m'étourdir aussi.
+
+-*who_madamelepine
+Tout ceci n'est fait que pour votre réputation.
+
+**** *book_ *id_I11 *act_I *date_1750
+
+-*who_levalet
+Marquise, il y a là-bas un Monsieur.
+
+-*who_madamelepine
+Attendez...
+Ce garçon-ci fait une faute dont il est important de le corriger.
+Mon enfant, quand vous parlez à votre maîtresse, ce n'est pas à vous à l'appeler Marquise tout court ; c'est un manque de respect.
+Dites-lui Madame, entendez-vous ?
+
+-*who_levalet
+Ah !
+Pardi, c'est pourtant ce nom-là qu'on nous a ordonné l'autre jour.
+
+-*who_madamelepine
+C'est-à-dire que c'est sous ce nom-là que vous devez la servir, et que les étrangers doivent la demander.
+
+-*who_cathos
+Comprends-tu bien ce qu'on te dit là, Colin ?
+
+-*who_levalet
+Oui, Cathos.
+
+-*who_cathos
+Cathos !
+Avec ta Cathos !
+Il t'appartient bien de parler de la manière.
+Madame Lépine, le respect ne veut-il pas que la livrée m'appelle Mademoiselle tout court ?
+
+-*who_madamelepine
+Sans difficulté, comment donc !
+La suivante de Madame !
+
+-*who_madamelathibaudiere
+Eh bien, qu'on donne ordre là-bas que tous mes gens vous appellent Mademoiselle.
+Je vous en charge, Colin.
+
+-*who_colin
+Oui, notre maîtresse...
+Non, non : oui, Marquise, hé, je veux dire Madame.
+
+-*who_cathos
+Le benêt !
+
+-*who_madamelepine
+Ôtez-lui aussi le nom de Colin, qui sonne mal, et qui est campagnard.
+
+-*who_madamelathibaudiere
+J'y pensais.
+Et vous, au lieu de Colin, soyez Jasmin, petit garçon, et achevez ce que vous veniez me dire.
+
+-*who_valetcolin
+C'est qu'il y a là-bas un beau Monsieur, bien mis, qui est jeune, qui se carre, et qui est venu, disant : Madame la Marquise y est-elle ?
+Moi, je lui ai dit qu'oui ; et là-dessus il voulait entrer sans façon ; mais moi, je l'ai repoussé.
+Bellement, Monsieur ! lui ai-je fait ; je vais voir si c'est sa volonté que vous entriez.
+Qui êtes-vous d'abord ?...
+Va, butor, a-t-il fait, va lui dire que c'est moi dont elle a reçu un billet ce matin par Madame Lépine.
+
+-*who_madamelathibaudiere
+Ah !
+Madame, c'est sans doute le Chevalier !
+Et il est là-bas, depuis que tu nous parles !
+
+-*who_colin
+Eh !
+Pardi oui, droit sur ses jambes, dans le jardin, où il se promène.
+
+-*who_madamelepine
+Tant pis !
+La réception lui aura paru étrange.
+
+-*who_madamelathibaudiere
+Ah !
+Juste ciel, que va-t-il penser ?
+Un homme de qualité repoussé à ma porte !
+Misérable que tu es, sais-tu bien que ta rusticité me déshonore ?
+Il faut que je change tous mes gens.
+Madame Lépine : si Lisette allait le recevoir, et lui faire excuse ?
+
+-*who_madamelepine
+Je voulais vous le conseiller.
+
+-*who_madamelathibaudiere
+Allez, Lisette ; allez, courez vite.
+
+-*who_cathos
+Oh !
+Laissez-moi faire ; je m'entends à présent à la civilité.
+
+**** *book_ *id_I12 *act_I *date_1750
+
+-*who_madamelathibaudiere
+Voilà qui est désolant ! une réception brutale, un billet qui est encore sans réponse.
+Il va me prendre pour la plus sotte, pour la plus pécore de toutes les femmes.
+
+-*who_madamelepine
+Tranquillisez-vous ; un moment de conversation raccommodera tout.
+À l'égard du billet, vous y répondrez.
+
+-*who_madamelathibaudiere
+Vous me serez témoin que j'ai eu dessein d'y répondre, sans qu'il m'en ait coûté le moindre scrupule... vous m'en serez témoin.
+
+-*who_madamelepine
+Je le certifierai.
+
+-*who_madamelathibaudiere
+Ne puis-je pas aussi lui dire que je vais dans mon cabinet pour cette réponse ?
+
+-*who_madamelepine
+Oui-da !
+Il reviendra.
+Aussi bien ai-je encore quelques préparations essentielles à vous donner.
+
+-*who_madamelathibaudiere
+Eh !
+Voilà ce que c'est.
+Je ne suis pas encore assez forte pour risquer un long entretien avec lui.
+Le respect qu'on a ici avec les femmes, et qui est à la mode, je ne le connais pas ; et je crains toujours ma vertu de province.
+
+-*who_madamelepine
+Eh bien, congédiez votre soupirant après les premiers compliments.
+
+-*who_madamelathibaudiere
+C'est-à-dire, deux ou trois mots folâtres ; et puis : je suis votre servante.
+
+**** *book_ *id_I13 *act_I *date_1750
+
+-*who_lechevalier
+Enfin !
+Vous voici donc, Marquise ?
+Mon amour a bien de la peine à percer jusqu'à vos charmes : il y a longtemps qu'il attend à votre porte.
+Eh !
+Depuis quand l'Amour est-il si mal venu chez sa mère ?
+Cathos et La Ramée se font, du geste et des yeux, beaucoup d'amitié.
+
+-*who_madamelathibaudiere
+Pardon, Chevalier, pardon !
+La mère de l'Amour est très fâchée de votre accident, et va donner de si bons ordres que l'Amour n'attendra plus.
+
+-*who_lechevalier
+Ne me disputez pas l'entrée de votre coeur, et je pardonne à ceux qui m'ont disputé l'entrée de votre chambre.
+
+-*who_madamelathibaudiere
+Oh !
+Pour moi, je n'aime pas à disputer.
+
+-*who_lechevalier
+À propos de coeur, Marquise, j'ai à vous quereller...
+Je suis mécontent.
+
+-*who_madamelathibaudiere
+Quoi !
+Vous me boudez déjà, Chevalier ?
+
+-*who_lechevalier
+Oui, je gronde.
+Madame Lépine a sans doute eu la bonté de vous remettre certain billet pressant ; et cependant vous êtes en arrière ; il ne m'est pas venu de revanche.
+D'où vient cela, je vous prie ?
+C'est la Marquise de France la plus aimable et la plus dégagée que j'attaque ce matin, et qui laisse passer deux mortelles heures, sans donner signe de vie.
+
+-*who_madamelathibaudiere
+Deux mortelles heures, Madame Lépine !
+Deux heures !...
+Sur quel cadran se règle-t-il donc ?
+
+-*who_lechevalier
+Deux heures, vous dis-je ! l'amour sait compter.
+Qu'est-ce que c'est donc que cette paresse dans les devoirs les plus indispensables de galanterie ?
+Serait-ce que vous me tenez rigueur ?
+Et qu'une femme de qualité recule ?
+
+-*who_madamelathibaudiere
+Moi, reculer !
+Moi, tenir rigueur !
+
+-*who_lechevalier
+Il n'est pas croyable que mon billet ait été pour vous un sujet de scandale ; votre sagesse sait vivre apparemment, et n'est ni bourgeoise ni farouche.
+
+-*who_madamelathibaudiere
+Ah ciel !
+Eh mais, Chevalier !
+Vous allez jusqu'à l'injure.
+Attendez donc qu'on s'explique.
+Parlez-lui, Madame Lépine, parlez.
+
+-*who_madamelepine
+Non, Chevalier, Madame n'a point tort.
+
+-*who_cathos
+Oh !
+Pour cela non : il n'y a pas de sagesse à cela ; pas un brin.
+
+-*who_madamelepine
+C'est que Madame la Marquise a toujours été en affaire, et n'a pas eu le temps d'écrire.
+
+-*who_madamelathibaudiere
+Absolument pas le temps !
+Mais au surplus, le billet est charmant, il m'a réjouie, il m'a plu, vous me plaisez vous-même plus que vous ne méritez dans ce moment-ci, petit mutin que vous êtes !
+Et pour vous punir de vos mauvais propos, notre entretien ne sera pas long.
+Je vous quitte tout à l'heure pour aller vous répondre...
+Voyez, je vous prie, ce qu'il veut dire avec sa femme de qualité qui recule.
+
+-*who_lechevalier
+Pardon, Marquise !
+Pardon à mon tour : votre conduite est d'une aisance incontestable ; on ne saurait moins disputer le terrain que vous ne le faites, ni se présenter de meilleure grâce à une affaire de coeur ; et je vais, en réparation de mes soupçons, annoncer à la ville et aux faubourgs que vous êtes la beauté de l'Europe la plus accessible et la plus légère de scrupules et de modestie populaire.
+
+-*who_madamelathibaudiere
+Vous me devez cette justice-là, au moins.
+
+-*who_madamelepine
+Et le témoignage du Chevalier sera sans appel.
+
+-*who_lechevalier
+On en fait quelque cas dans le monde.
+Adieu, reine ; je m'éloigne pour un quart d'heure ; je reviendrai prendre votre billet moi-même ; et je m'attends à n'y pas trouver plus de réserve que dans vos façons.
+
+-*who_madamelathibaudiere
+Je n'y serai que trop bonne.
+
+**** *book_ *id_I14 *act_I *date_1750
+
+-*who_lechevalier
+Ne m'oubliez pas, ma chère Madame Lépine, et servez-moi auprès de la Marquise, car mon coeur est pressé...
+Jusqu'au revoir, notre chère amie.
+
+-*who_madamelepine
+Un moment...
+L'affaire de votre régiment est-elle terminée, Monsieur le Chevalier ?
+
+-*who_lechevalier
+Il ne me faut plus que dix mille écus ; et je vais voir si mon notaire me les a trouvés.
+
+-*who_laramee
+C'est une bagatelle, et nous les aurons tantôt.
+
+**** *book_ *id_I15 *act_I *date_1750
+
+-*who_laramee
+Je laisse partir Monsieur le Chevalier, pour avoir une petite explication avec mes amours.
+Soubrette de mon âme !
+Je boude aussi, moi.
+
+-*who_madamelepine
+Ha, ha, ha !...
+Encore un boudeur.
+
+-*who_cathos
+Et à cause de quoi donc ?
+
+-*who_laramee
+Ne suis-je pas en avance avec vous d'un certain poulet ?
+
+-*who_cathos
+Un poulet ?
+Je n'ai point vu de poulet.
+
+-*who_laramee
+J'entends certain billet.
+
+-*who_cathos
+Ah !
+Cela s'appelle un poulet !
+Oh !
+Je le sais bien, mais laissez faire.
+Ce n'est pas la modestie qui me tient ; je ne recule pas plus qu'une Marquise : mais il faut du temps, et vous n'avez qu'à vous en aller un peu, vous aurez votre affaire toute griffonnée.
+
+-*who_laramee
+Griffonnez, brunette ; je vous donne vingt minutes pour m'exprimer vos transports.
+Je vais, en attendant, haranguer certain cabaretier, à qui je dois vingt écus, et qui a comme envie de manquer de patience avec moi.
+S'il m'honorait d'une assignation, il faudrait encore la payer ; j'aime mieux la boire.
+Mais il n'y a que vingt écus.
+Est-ce trop, Madame Lépine ?
+Ce n'est tant que dix mille.
+
+-*who_madamelepine
+Hélas !
+Mon enfant, je souhaite que non.
+
+-*who_laramee
+Et mon ange, qu'en pense-t-il ?
+Chacun a son régiment : voilà le mien.
+
+-*who_cathos
+Bon, vingt écus !
+Avec soixante francs de monnaie, vous en serez quitte.
+
+-*who_laramee
+Eh oui, c'est de la mitraille !
+J'aime à vous voir mépriser cette somme-là : cela sent la soubrette de cour, qui ne s'effraye de rien.
+La belle âme que Cathos !
+
+-*who_cathos
+Eh dame !
+On est belle âme tout comme une autre.
+
+-*who_laramee
+Je suis si content de votre façon de penser, que je me repens de n'avoir pas bu davantage.
+Adieu, mes yeux noirs !
+Je vous rejoins incessamment.
+Madame Lépine, protégez-moi toujours auprès de ce grand coeur, qui regarde vingt écus comme de la monnaie.
+
+-*who_madamelepine
+Va, va, elle sait ce que tu vaux.
+
+**** *book_ *id_I16 *act_I *date_1750
+
+-*who_cathos
+Ah çà, notre chère dame, pendant que nous sommes seules, ouvrons le billet ; vous savez bien que vous m'avez promis de le lire ?
+
+-*who_madamelepine
+Volontiers, Lisette.
+
+-*who_cathos
+Voyons ce qu'il chante.
+
+-*who_madamelepine
+Vantez-vous-en, mignonne : le minois que vous portez est le plus subtil filou que je connaisse ; il lui a suffi de jouer un instant de la prunelle, pour escamoter mon coeur.
+
+-*who_cathos
+Qu'il est gentil avec cette prunelle qui le filoute !
+Il me filoutera aussi, moi !
+
+-*who_madamelepine
+C'est bien son intention.
+Mais continuons.
+Il lui a suffi de jouer un instant de la prunelle pour escamoter mon coeur.
+Ce sont vingt nymphes, de compte fait, qui en mourront de douleur ; qu'elles s'accommodent !
+Mais, à propos de coeur, si vous avez perdu le vôtre, n'en soyez point en peine ; c'est moi qui l'ai trouvé, m'amie Cathos.
+Je vous l'ai soufflé pendant que vous rafliez le mien.
+Ainsi il faudra que nous nous ajustions là-dessus.
+
+-*who_cathos
+Cet effronté !
+Savez-vous qu'il ne ment pas d'un mot, Madame Lépine ?
+
+-*who_madamelepine
+Comment ?
+
+-*who_cathos
+Oui, je pense qu'il est mon souffleur.
+Or çà, la réponse, vous me la ferez donc ?
+
+-*who_madamelepine
+Cela ne vaudrait rien, Lisette.
+Mais voilà la Marquise.
+Attends ; je te dirai comment tu t'en tireras.
+
+**** *book_ *id_I17 *act_I *date_1750
+
+-*who_madamelepine
+Avez-vous écrit, Marquise ?
+
+-*who_madamelathibaudiere
+Oui, j'ai brouillé bien du papier, et n'ai rien fini ; je ne suis pas assez sûre du ton sur lequel il faut que je le prenne, et je vous prie de me donner quelques avis là-dessus.
+Quel papier tenez-vous là, Cathos ?
+
+-*who_cathos
+C'est mon poulet à moi, où il est dit que mon minois est un larron, et que ma prunelle escamote le coeur du monde.
+
+-*who_madamelathibaudiere
+Ha, ha, je t'en félicite, Lisette !
+Tu deviendras fameuse.
+Mais revenons à ce qui m'amène et réglons d'abord ma réponse.
+Doit-elle être sérieuse, ou badine, ou folle ?
+
+-*who_madamelepine
+Folle, très folle, Marquise ; de l'étourdi, il n'y a pas à opter.
+C'est une preuve d'usage et d'expérience.
+
+-*who_madamelathibaudiere
+Je m'en suis doutée.
+J'avais d'abord mis du tendre ; mais j'ai eu peur que cela ne sentît sa femme novice qui fait trop de façon avec l'amour.
+
+-*who_madamelepine
+Et dont le coeur n'est pas assez déniaisé.
+La réflexion est bonne.
+Le tendre a quelque chose d'écolier, à moins qu'il ne soit emporté.
+L'emportement le corrige.
+
+-*who_madamelathibaudiere
+Et il n'est pas temps que je m'emporte ; nous ne sommes encore qu'au premier billet.
+
+-*who_cathos
+Cela viendra au second.
+On ne perd pas l'esprit tout d'un coup.
+
+-*who_madamelathibaudiere
+Je m'en tiendrai donc d'abord au simple étourdi ; et sur ce pied-là, mon billet est tout fait.
+
+-*who_madamelepine
+Voyons.
+
+-*who_madamelathibaudiere
+Il n'est que dans ma tête, et le voici à peu près.
+Il me dit qu'il se meurt.
+Vivez, Chevalier, vivez, lui dirai-je, vous me faites peur, mon cher enfant ; je vous défends de mourir : il faut m'aimer.
+Votre étoile le veut.
+Si la mienne entend que je vous le rende, eh bien, qu'à cela ne tienne, on vous le rendra, Monsieur, on vous le rendra ; et deux étoiles n'en auront pas le démenti.
+Qu'en dites-vous ?
+
+-*who_madamelepine
+Admirablement !
+
+-*who_cathos
+On vous le rendra, Monsieur, on vous le rendra.
+Les jolies paroles !
+Elles sont toutes en l'air.
+
+-*who_madamelathibaudiere
+On croirait que je l'aime ; et cependant il n'en est rien : je ne fais qu'imiter.
+
+-*who_madamelepine
+Eh oui, il ne s'agit que d'être sur la liste des jolies femmes qui ont occupé le Chevalier.
+Il n'y a rien de si brillant, en fait de réputation, que d'avoir été sur son compte.
+Oh ! vous jouez de bonheur.
+
+-*who_madamelathibaudiere
+Oui, si on savait qu'il m'aime ; mais il n'aura garde de s'en vanter à cause de mes rivales.
+
+-*who_madamelepine
+Lui, se taire ?
+Oh ! soyez en repos là-dessus ; tout le monde saura qu'il vous aime, et, qui plus est, que vous l'aimez.
+
+-*who_madamelathibaudiere
+Que je l'aime, moi ?
+Est-ce qu'il le dira ?
+Serai-je jusque-là dans ses caquets ?
+
+-*who_madamelepine
+Si vous y serez !
+Oui, certes ; vous préserve le ciel de n'y être pas !
+Eh ! s'il n'était pas indiscret, je ne vous l'aurais pas donné.
+C'est son heureuse indiscrétion qui vous fera connaître, qui vous mettra en spectacle.
+Votre célébrité dépend de là.
+
+-*who_madamelathibaudiere
+Je n'y suis plus !
+
+-*who_cathos
+Il y a une finesse là-dessous.
+
+-*who_madamelepine
+Vous n'y êtes plus ?
+Eh mais !
+Ce qui caractérise une femme à la mode, et du bel air, c'est de soutenir audacieusement le bruit qui se répand d'elle ; c'est de le répandre elle-même.
+On sait bien qu'une provinciale ou qu'une petite bourgeoise ne s'en accommoderait pas ; et vous n'avez qu'à voir si vous voulez qu'on dise que vous fuyez le Chevalier ; qu'une intrigue vous fait peur ; que vous vous en faites un monstre.
+Vous n'avez qu'à voir.
+
+-*who_madamelathibaudiere
+Ah !
+Juste ciel, tout est vu.
+Vous me faites trembler !
+Vous avez raison...
+Que j'étais stupide !
+
+-*who_cathos
+Voyez, je vous prie !
+Si on ne dit pas que vous êtes amoureuse, c'est tant pis pour votre honneur...
+Ce que c'est que l'ignorance !
+
+-*who_madamelathibaudiere
+Mais, êtes-vous bien sûre qu'il se vantera de son amour ?
+Car pour moi, je le dirai à qui voudra l'entendre.
+
+-*who_madamelepine
+Il n'est pas capable d'y manquer ; c'est la règle.
+
+-*who_madamelathibaudiere
+Vous me rassurez.
+Hé, dites-moi, Madame Lépine, dans la conversation, faut-il un peu de folies aussi ?
+
+-*who_madamelepine
+En deux mots, voici un modèle que vous suivrez.
+Supposez que je suis le Chevalier.
+J'arrive ; je vous salue ; je m'arrête.
+Mais, Marquise, je n'y comprends rien !
+Vous êtes encore plus belle que vous ne l'étiez il y a une heure ; un coeur ne sait que devenir avec vous, vous ne le ménagez pas, vous l'excédez ; il en faudrait une douzaine pour y suffire.
+Répondez.
+
+-*who_madamelathibaudiere
+Que je réponde ?
+Est-il vrai, Chevalier, ne me trompez-vous point ?
+Êtes-vous de bonne foi ?
+M'aimez-vous autant que vous le dites ?
+Fais-je bien ?
+
+-*who_madamelepine
+À merveille !
+
+-*who_cathos
+Comme un charme.
+
+-*who_madamelepine
+Je reprends...
+Moi !
+Vous aimer, Marquise, vous n'y songez pas.
+Qu'est-ce que c'est qu'aimer ?
+Est-ce qu'on vous aime ?
+Ah !
+Que cela serait mince...
+Eh non, ma reine, on vous idolâtre.
+Doucement, vous n'y êtes plus.
+Il ne faut pas retirer la main.
+
+-*who_madamelathibaudiere
+Oh !
+Tenez, qu'il prenne.
+
+-*who_madamelepine
+Ce n'est qu'une main après tout.
+
+-*who_madamelathibaudiere
+Oui, mais je sors d'un pays où l'on a les mains si rétives, si roides !
+On va toujours les retirant.
+
+-*who_cathos
+Jour de Dieu !
+Des mains, chez nous, ce n'est pas des prunes.
+
+-*who_madamelathibaudiere
+Je n'ai plus qu'à savoir, en cas que je trouve quelqu'une de mes rivales, comment je traiterai avec elle.
+
+-*who_madamelepine
+Avec une politesse aisée, tranquille et riante, qui ravalera ses charmes, qui marquera le peu de souci que vous en avez, et la supériorité des vôtres.
+
+-*who_madamelathibaudiere
+Oh !
+Je sais ces manières-là de tout temps.
+Mais si on voulait m'enlever le Chevalier, et qu'il chancelât ; je ne serais donc pas jalouse ?
+
+-*who_madamelepine
+Comme un démon !
+Jalouse avec éclat ; jusqu'à faire des scènes.
+
+-*who_madamelathibaudiere
+Oui, mais cet orgueil de ma beauté ?
+
+-*who_madamelepine
+Oh !
+Cet orgueil alors va comme il peut chez les femmes, il ne raisonne point.
+Jalouse avec fracas, vous dis-je : point de mollesse là-dessus.
+Rien en pareil cas ne fait aller une réputation si vite...
+C'est là le fin de votre état.
+
+-*who_madamelathibaudiere
+Laissez-moi faire.
+
+-*who_cathos
+Morbleu !
+Que les bégueles ne s'y frottent pas avec Madame : elle vous les revirerait...
+
+-*who_madamelepine
+Il y a une chose que j'omettais, et qui vous mettrait tout d'un coup au pair de tout ce qu'il y a de plus distingué en fait de femmes à la mode, et qui est même nécessaire, qui met le sceau à la bonne renommée...
+Ne plaignez-vous pas l'argent ?
+
+-*who_madamelathibaudiere
+C'est selon.
+J'aime à le dépenser à propos.
+
+-*who_madamelepine
+Vous ne le dépenserez pas : on vous le rendra presque de la main à la main.
+Je sais qu'il manque encore une somme au Chevalier pour achever de payer un régiment dont il est en marché.
+La circonstance est heureuse pour rendre votre nom fameux.
+Prêtez-lui la somme qu'il lui faut, pourvu qu'il y consente ; car il faudra l'y forcer.
+D'ailleurs ces sorte d'emprunts sont sacrés.
+
+-*who_madamelathibaudiere
+De tous les moyens de briller, voilà, à mon gré, le plus difficile.
+
+-*who_madamelepine
+Eh !
+Bien, prenez que je n'ai rien dit.
+C'est une voie que je vous ouvrais pour abréger.
+Le Chevalier ne sera pas en peine ; et il y a vingt femmes qui ne manqueront pas ce coup-là.
+
+-*who_madamelathibaudiere
+Il y a toujours quelque rabat-joie dans les choses !
+
+-*who_madamelepine
+N'en parlons plus, vous dis-je.
+Puisque la grande distinction ne vous tente pas, il n'y a qu'à aller plus terre à terre.
+
+-*who_cathos
+Allons, courage, Madame, on n'a rien pour rien.
+Il n'y a qu'à avoir un bon billet par-devant notaire.
+
+-*who_madamelepine
+Non pas, s'il vos plaît, Lisette ; on a mieux que cela.
+Le notaire, ici, c'est l'honneur : et le billet, c'est la parole du débiteur.
+Voilà ce qu'on appelle des sûretés.
+Il n'y a rien de si fort.
+
+-*who_madamelathibaudiere
+S'il ne fallait pas une si grande somme...
+
+-*who_madamelepine
+Petite ou grande, n'importe, dès que c'est l'honneur qui engage ; et puis, ce n'est point précisément par besoin qu'un cavalier emprunte en pareil cas ; c'est par galanterie ; pour faire briller une femme ; c'est un service qu'il lui rend.
+Mais laissons ce que cela répand d'éclat ; contentons-nous d'une célébrité médiocre : vous serez au second rang parmi les subalternes.
+
+-*who_madamelathibaudiere
+Nous verrons ; je me consulterai.
+Je vais toujours écrire ma lettre ; et à tout hasard, je mettrai sur moi des billets de plusieurs sommes.
+
+-*who_madamelepine
+Comme vous voudrez, Marquise ; j'ai fait l'acquit de ma conscience.
+
+**** *book_ *id_I18 *act_I *date_1750
+
+-*who_cathos
+Pardi, allez !
+Voilà une belle place que le second rang !
+Si j'étais aussi riche qu'elle, je serais bientôt au premier étage.
+
+-*who_madamelepine
+Il ne tient qu'à toi de t'y placer parmi celles de ton état.
+
+-*who_cathos
+Oui !
+Tout ce que vous avez dit pour elle est donc aussi pour moi ?
+
+-*who_madamelepine
+C'est la même chose, proportion gardée.
+Adieu.
+Je suis d'avis d'aller lui aider à faire sa lettre.
+
+-*who_cathos
+Ah !
+Mais la mienne ?
+
+-*who_madamelepine
+Dis à La Ramée que tu écris si mal, qu'il n'aurait pu lire ton écriture.
+
+-*who_cathos
+Attendez donc, Madame Lépine !
+Vous dites que tous vos enseignements à Madame me regardent aussi.
+Quoi !
+La politesse glorieuse avec mes rivales, la folie des paroles en devisant, et les mains qu'on baise ?...
+
+-*who_madamelepine
+Sans doute !
+
+-*who_cathos
+Et l'argent aussi ?
+
+-*who_madamelepine
+Oui, suivant tes moyens.
+
+-*who_cathos
+Et l'honneur de La Ramée pour notaire ?
+
+-*who_madamelepine
+Il n'y a nulle différence, sinon qu'il te sera permis d'être jalouse jusqu'à décoiffer tes rivales.
+
+-*who_cathos
+Ha !
+Les masques...
+Je vous les détignonnerai.
+
+-*who_madamelepine
+Et que tu observeras de tutoyer La Ramée, comme il te tutoiera lui-même ; c'est l'usage.
+Adieu, le voilà qui vient, je te laisse.
+
+**** *book_ *id_I19 *act_I *date_1750
+
+-*who_laramee
+Mon épître et point de quartier.
+
+-*who_cathos
+Oh !
+Dame, passez-vous-en, mon cher homme ; je ne sais faire que des pieds de mouche, et j'aime mieux vous donner mon écriture en paroles ; il n'y a pas tant de façon.
+Votre billet est bien troussé, il m'a été fort agréable ; c'est bien fait de me l'avoir mandé.
+Il dit que ma mine vous a filouté, j'en suis bien aise ; c'est queussi, queumi.
+Vous demandez la jouissance de mon coeur, et vous l'aurez.
+Es-tu content, mon mignon ?
+
+-*who_laramee
+Comblé, m'amie !
+Je vois bien que tu m'aimes, ma petite merveille.
+
+-*who_cathos
+Si je t'aime ?
+Pour qui me prends-tu donc ?
+Est-ce que tu crois que l'amour me fait peur ?
+Oh que nenni !
+Je t'aime comme une étourdie ; je ne sais à qui le dire.
+
+-*who_laramee
+Je me reconnais au désordre de ta tête : il est digne de mon mérite, et tu me ravis...
+Tu vaux ton pesant d'or.
+
+-*who_cathos
+Quand tu voudras baiser ma main, ne t'en fais point faute.
+Est-ce la droite ?
+Est-ce la gauche ?
+Prends, on sait bien que ce n'est que des mains.
+
+-*who_laramee
+Tu me les donnes à si bon marché que je les prendrai toutes deux.
+
+-*who_cathos
+Tiens !
+Je ne barguigne point, car je sais vivre.
+
+-*who_laramee
+Oh !
+Il y paraît, malepeste !
+Il est rare de trouver une honnête fille qui pousse la civilité aussi loin que toi.
+Tu es une originale, ma Cathos.
+
+-*who_cathos
+Fort peu de Cathos.
+C'est à présent Lisette.
+
+-*who_laramee
+C'est bien fait : tu es taillée pour la dignité de ce nom-là.
+Mais j'en reviens à ton coeur...
+Conte-moi un peu ce qui s'y passe.
+
+-*who_cathos
+Je t'aime d'abord par inclination.
+Cela est bon, cela ?
+
+-*who_laramee
+Délicieux.
+
+-*who_cathos
+Et puis par belles manières.
+
+-*who_laramee
+Tu me remues, tu m'attendris.
+Quel dommage d'être un fourbe avec elle !
+
+-*who_cathos
+Écoute : je prétends que mon amour soit connu d'un chacun.
+N'en fais pas un secret, au moins : ne me joue point ce tour-là.
+
+-*who_laramee
+Non, ma brebis, je te ferai afficher.
+
+-*who_cathos
+Ai-je bien des rivales ?
+
+-*who_laramee
+On ne saurait les compter ; Paris en fourmille.
+
+-*who_cathos
+Montrez-m'en quelqu'une, afin que je la méprise poliment, ou bien que je la décoiffe.
+
+-*who_laramee
+Va, ma petite cervelle, tu en verras tant que tu voudras.
+Hélas !
+Il ne tient qu'à moi de les ruiner toutes.
+
+-*who_cathos
+Oh !
+Merci de ma vie !
+C'est moi qui veux être ruinée toute seule, en attendant restitution.
+
+-*who_laramee
+Ma poule, je t'accorde la préférence.
+Quant à la restitution, je te la garantis sur mon honneur.
+
+-*who_cathos
+Son honneur !...
+Voilà le notaire.
+As-tu fini avec ton cabaretier ?
+
+-*who_laramee
+Pas encore, parce qu'il y a une certaine Marton plus opiniâtre qu'un démon, qui veut à toute force que j'accepte sa monnaie pour payer le vin que j'ai bu.
+
+-*who_cathos
+Elle est bien osée.
+Allons, prends cette bague qui m'a coûté trente bons francs.
+
+-*who_laramee
+Ta bague à mon cabaretier ?
+Le coquin n'a pas, à ses deux pattes, un seul doigt qui ne soit plus gros que ta main.
+
+-*who_cathos
+Eh bien, attends-moi ; je vais te chercher quelques louis d'or que j'ai dans mon coffre...; en prendra-t-il ?
+
+-*who_laramee
+Oh oui !
+Il est homme à s'en accommoder.
+
+-*who_cathos
+Je vais revenir : prends toujours la bague.
+
+**** *book_ *id_I20 *act_I *date_1750
+
+-*who_laramee
+Vous voilà déjà, Monsieur ?
+
+-*who_lechevalier
+Oui.
+Sais-tu si nos affaires sont avancées ?
+
+-*who_laramee
+Ma foi, je crois que nous sommes au jour de l'échéance.
+La soubrette vient d'entrer en payement avec moi, et j'attends un peu d'or qu'elle va m'apporter encore.
+
+-*who_lechevalier
+Tout de bon ?
+
+-*who_laramee
+Oh !
+La débâcle arrive, Monsieur.
+Vous êtes-vous fait annoncer ?
+
+-*who_lechevalier
+Oui : on est allé avertir la Marquise, avec qui je n'aurai pas une longue conversation ; car, à te dire vrai, cette folle-là m'ennuie ; et j'arrive avec la personne que tu sais, que j'ai laissée dans un fiacre là-bas, et qui doit entrer quelques instants après moi.
+
+-*who_laramee
+Doucement !
+Je vois la Marquise.
+
+**** *book_ *id_I21 *act_I *date_1750
+
+-*who_madamelathibaudiere
+Eh bien, Chevalier ? la voici enfin, cette réponse !
+Direz-vous encore qu'on vous tient rigueur ?
+
+-*who_lechevalier
+Eh mais !
+Que sait-on ?
+Cela dépend des termes du billet.
+Y verrai-je que vous m'aimez ?
+Que vous n'aimez que moi ?
+
+-*who_madamelepine
+Lisez, lisez, Monsieur le méfiant...
+Vous y verrez vos questions résolues.
+
+-*who_madamelepine
+Il y a apparence qu'il ne se plaindra pas, car il rit.
+
+-*who_lechevalier
+Vous me transportez, Marquise !
+Vous me pénétrez !
+Quel feu d'expressions !
+Je veux les apprendre à tout l'univers, afin que tout l'univers me porte envie.
+C'est l'Amour même qui vous les a dictées ; c'est lui qui vous a tenu la main.
+Que cette main m'est chère !
+Me sera-t-il permis ?...
+
+-*who_madamelathibaudiere
+On vous le permet, remerciez-la.
+
+-*who_lechevalier
+Donnez !
+Que mille baisers lui marquent mes transports.
+
+**** *book_ *id_I22 *act_I *date_1750
+
+-*who_lisette
+Voici une dame qui demande Monsieur le Chevalier.
+
+-*who_madamelathibaudiere
+Quoi !
+Jusque chez moi ?
+
+-*who_linconnue
+Ah !
+Je vous y prends, Monsieur !...
+Voilà donc pour qui vous me négligez ?
+Comptez-vous sur son coeur, Madame ?
+
+-*who_madamelathibaudiere
+Vous êtes si dangereuse que je ne sais plus qu'en penser.
+
+-*who_linconnue
+Je vous avertis que j'ai sur lui des droits, qui me paraissent un peu meilleurs que les vôtres.
+
+-*who_madamelathibaudiere
+Meilleurs que les miens !
+Et c'est vous qui êtes obligée de le venir enlever de chez moi, le petit fuyard !
+Contez-nous la sûreté de vos droits ; je compatis beaucoup à la fatigue qu'ils vous causent.
+Un fauteuil...
+Prenez la peine de vous asseoir, Madame ; vous en gronderez plus à votre aise, et nous en écouterons plus poliment la triste histoire de vos droits.
+
+-*who_linconnue
+Eh non, Madame ; je n'ai pas dessein de vous rendre visite.
+Allons, Chevalier.
+On est venu chez moi pour une affaire de la dernière conséquence qui vous regarde, et qui doit absolument finir aujourd'hui.
+C'est de votre régiment dont il est question ; un autre presse pour l'acheter ; son argent est tout prêt, m'a-t-on dit ; on diffère, par amitié pour vous, de conclure avec lui jusqu'à ce soir ; c'est notre ami le Maquis qui est venu m'en informer.
+Vous avez encore dix ou douze mille écus à donner, et je les ai chez mon notaire, où l'on nous attend pour terminer le marché...
+Partons.
+
+-*who_madamelathibaudiere
+Qu'est-ce que cela signifie : partons ?
+Savez-vous bien que je me fâcherai à la fin ?
+
+-*who_marton
+Un instant de patience, Madame ; que je parle à mon tour.
+Et vous, Mons de la Ramée, qui vous amusez ici à tourner la tête de ce petit oison de chambrière, qu'on détale, et qu'on marche devant moi tout à l'heure, pour aller payer ce marchand de vin avec l'argent que je porte et qu'un huissier vous demande !
+
+-*who_cathos
+Avec l'argent que vous portez, bavarde ?
+Ha, votre cornette vous pèse ! et vous voulez qu'on vous détignonne...
+
+-*who_linconnue
+Comment !
+Des violences !
+
+-*who_madamelathibaudiere
+Je suis dans une fureur !...
+Chevalier, congédiez cette femme-là, je vous prie.
+Vous avez besoin de dix mille écus, m'a-t-on dit, et non pas de douze, comme elle prétend.
+Ne vous inquiétez pas, nous tâcherons de vous les faire.
+
+-*who_linconnue
+Elle tâchera, dit-elle ?
+Elle tâchera !
+Et on les demande ce soir, sans remise.
+Eh bien !
+Je ne tâche point, moi ; il n'est pas question qu'on tâche, il faut de l'expédition, et j'ai la somme toute comptée.
+
+-*who_lechevalier
+Eh, Mesdames !
+Vous me mortifiez.
+Gardez votre argent, je vous conjure.
+Je n'en veux point ; ma somme est trouvée.
+
+-*who_madamelathibaudiere
+Ah !
+Cela étant, il n'y a plus à se débattre.
+Qu'elle s'en aille !
+
+-*who_lechevalier
+Quand je dis trouvée, du moins m'a-t-on comme assuré qu'on me la donnerait peut-être ce soir.
+
+-*who_linconnue
+Peut-être !
+Votre régiment dépend-il d'un peut-être ?
+Il ne sera plus temps demain.
+
+-*who_lechevalier
+D'accord.
+
+-*who_linconnue
+Partons, vous dis-je.
+
+-*who_madamelathibaudiere
+Attendez...
+Puisqu'on me met le poignard sur la gorge, et que j'ai affaire à la jalouse la plus incommode et la plus haïssable, oui, la plus haïssable...
+
+-*who_linconnue
+S'il hésite encore, je ne le verrai de ma vie.
+
+-*who_madamelathibaudiere
+Retirez-vous...
+N'est-ce pas dix mille écus ?...
+Si on avait le temps de marchander, et qu'on ne fût pas prise comme cela au pied levé...
+Car enfin tout se marchande, et on tirerait peut-être meilleur parti...
+
+-*who_lechevalier
+Eh !
+Laissez donc, Marquise !
+Et vous, n'insistez point, Comtesse.
+
+-*who_linconnue
+N'êtes-vous pas honteux de me mettre en parallèle avec une femme qui parle de marchander un régiment comme on marchande une pièce de toile ?
+Vous n'avez guère de coeur.
+
+-*who_lechevalier
+Oh !
+Votre emportement décide : vous insultez Madame ; et pour la venger, j'avouerai que je l'aime, et c'est son argent que j'accepte.
+Donnez, Marquise, donnez tout à l'heure, afin que la préférence soit éclatante.
+Sont-ce des billets que vous avez dans le portefeuille ?
+
+-*who_madamelathibaudiere
+Oui, Chevalier.
+Attendez que je les tire.
+Il y en a de différentes sommes, et plus qu'il n'en faut.
+
+-*who_laramee
+Allons, Cathos, amène...
+Je te venge aussi, moi.
+Et toi, Marton, va te cacher.
+
+-*who_marthon
+Double coquin !
+
+-*who_linconnue
+Perfide !
+
+-*who_cathos
+Les laides, avec leur pied de nez !
+
+-*who_linconnue
+Je suis désespérée.
+
+**** *book_ *id_I23 *act_I *date_1750
+
+-*who_monsieurlormeau
+Ma cousine, voici les soeurs de Monsieur Derval, qu'il vous amène, et qui ont voulu vous prévenir...
+Mais à qui en a cette dame-là qui paraît si emportée ?
+Et que faites-vous de ce portefeuille ?
+
+-*who_madamelathibaudiere
+Voilà qui va être fait.
+Pardonnez, Mesdames ; j'arrange pour dix mille écus de billets que cette dame si désespérée voulait fournir à Monsieur le Chevalier pour achever de payer un régiment qu'il achète.
+Il me donne la préférence sur elle, et je la paie assez cher !
+
+-*who_monsieurderval
+Qui ?
+Monsieur ?
+Lui, un régiment ?
+Lui, chevalier ?
+
+-*who_madamelathibaudiere
+Lui-même...
+Le connaissez-vous ?
+
+-*who_monsieurderval
+Si je le connais ?
+C'est le fils de mon procureur.
+
+-*who_madamelathibaudiere
+De votre procureur ?
+Ha !...
+Je suis jouée.
+
+-*who_cathos
+Doucement !
+Arrête là.
+
+-*who_laramee
+Tiens, reprends ta bague : je n'ai pas reçu d'autre acompte.
+
+-*who_lechevalier
+Le prend-on sur ce ton-là ?...
+Je ne m'en soucie guère.
+
+-*who_monsieurlormeau
+Fripons que vous êtes !
+
+-*who_laramee
+Non, Monsieur, nous ne sommes que des fourbes ; je vous le jure !
+
+-*who_monsieurderval
+Et pourquoi tirer dix mille écus de Madame ?
+
+-*who_laramee
+Pour la mettre en vogue ; pour lui donner de belles manières.
+
+-*who_unedesdames
+L'aventure est curieuse.
+
+-*who_laramee
+Oh !
+Tout à fait jolie.
+C'est dommage qu'elle ait manqué.
+La réputation de Madame y perd.
+
+-*who_cathos
+Quels misérables avec leur réputation !
+
+-*who_monsieurlormeau
+Renvoyons ce maraud-là, et qu'il ne soit plus parlé de cette malheureuse affaire.
+
+-*who_madamelathibaudiere
+Soyez vous-même notre arbitre dans les discussions que nous avons ensemble, Monsieur...
+Adieu, je vais me cacher dans le fond de ma province !

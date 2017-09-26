@@ -1,0 +1,1178 @@
+
+
+**** *book_ *id_I01 *act_I *date_1693
+
+-*who_arlequin
+La sotte coutume, madame, la sotte coutume !
+Quoi !
+Quand un gouverneur prend possession de cette île ; il est obligé de se marier ?
+Ma foi, c'est acheter trop cher un gouvernement.
+
+-*who_colombine
+Je vous dis que vous ne serez point reçu, que vous n'ayez choisi une femme.
+
+-*who_arlequin
+Mais, comment voulez-vous que je choisisse ?
+Je n'en connais encore aucune.
+Est-ce que vous avez ici, comme à Paris, de ces rues marchandes, où l'on trouve des filles en magasin ?
+
+-*who_colombine
+Non, mais la loi ordonne que vous choisissiez entre les filles du dernier gouverneur, quand il y en a.
+Par bonheur, le gouverneur défunt en a laissé douze, dont je suis l'aînée et la gouvernante.
+Enfin ma maison est une pépinière, où vous en trouverez de toutes les espèces.
+
+-*who_arlequin
+Et dans votre pépinière, les filles sont-elles toutes greffées ?
+
+-*who_colombine
+J'ai, entre autre, une jeune plante nommée Isabelle, où j'ai pris soin de greffer la sagesse la plus à l'épreuve.
+
+-*who_arlequin
+Hon, tous les arbres qu'on greffe ne reprennent pas, et la sagesse d'une fille est semblable à ces petites branches mal nourries qu'on veut enter sur un arbre trop fort, le plus souvent la sève les étouffe.
+Mais, dites-moi un peu ce qui a donné lieu à la coutume dont il s'agit, et quel intérêt vous avez que les gouverneurs se marient ?
+
+-*who_colombine
+En voici la raison.
+C'est que le plus beau des privilèges de nos habitants est fondé sur ce mariage ; c'est en sa faveur qu'ils jouissent des mal-assortis.
+
+-*who_arlequin
+Qu'est-ce que ce droit des mal-assortis ?
+
+-*who_colombine
+C'est que tous les époux mal-assortis, c'est-à-dire, qui ne sont pas contents l'un de l'autre, auront permission aujourd'hui de se plaindre à vous, et vous aurez le pouvoir de les faire troquer de femmes et de maris, si vous le jugez à propos.
+
+-*who_arlequin
+Oh, je jugerai toujours à propos de démarier les mal-assortis ; car j'en sais les conséquences.
+Mais deux choses m'embarrassent en ceci.
+La première, pourquoi en faveur d'un si beau droit votre île n'est pas plus peuplée ?
+
+-*who_colombine
+C'est qu'on n'y reçoit point de Français, et surtout de Parisiens, qui déserteraient leur ville pour venir jouir d'un nouveau privilège.
+
+-*who_arlequin
+La seconde difficulté que je trouve, c'est que tout le temps de mon gouvernement ne suffira pas, si je suis obligé d'écouter ceux qui sont mal mariés.
+
+-*who_colombine
+Oh, c'est ce qui vous trompe, car nos peuples sont de si bons sens, que tel qui a une femme jalouse, laide, capricieuse et coquette, ne veut point changer, de peur de trouver pis, et vous n'aurez peut-être aujourd'hui que cinq ou six mal-assortis à juger.
+
+-*who_arlequin
+Mais à propos ; je viens de m'aviser, que sans aller choisir dans votre pépinière, je me contenterais...
+
+-*who_colombine
+Oh, j'ai fait voeu de ne me point marier.
+
+-*who_arlequin
+La témérité de ce voeu-là est écrite dans vos yeux.
+
+-*who_colombine
+Je serais bien folle de me marier, puisque j'ai déjà par devers moi le plus grand avantage qu'attire après lui le mariage le plus heureux.
+
+-*who_arlequin
+Que voulez-vous dire par là ?
+Avez-vous de beaux enfants, bien conditionnés ?
+C'est un grand avantage.
+
+-*who_colombine
+Vous n'y êtes pas.
+
+-*who_arlequin
+Est-ce un gros douaire ?
+
+-*who_colombine
+Non.
+
+-*who_arlequin
+Ouais !
+Quel est donc ce grand avantage que le mariage le plus heureux attire après lui ?
+
+-*who_colombine
+C'est le veuvage.
+
+-*who_arlequin
+Ma foi, vous avez raison.
+Comment est-ce que je ne l'ai pas deviné !
+
+**** *book_ *id_I02 *act_I *date_1693
+
+-*who_arlequin
+Qui est cet homme-là ?
+
+-*who_colombine
+C'est le sous-gouverneur de mes soeurs ?
+
+-*who_arlequin
+Comment donc ?
+Un homme pour sous-gouverneur de vos soeurs ?
+
+-*who_colombine
+Oh, monsieur, ne vous scandalisez point, il a toutes les qualités requises pour...
+
+-*who_arlequin
+Oh, je vois bien à sa physionomie, que s'il est capable de gouverner des filles, ce n'est pas tant par les bonnes qualités qu'il a, que pour celles qui lui manquent.
+
+-*who_pierrot
+Madame...
+Monsieur, dis-je... non, non.
+Madame : ô, monsieur...
+Ô madame !
+À qui est-ce de vous deux que j'ai quelque chose à dire ?
+
+-*who_arlequin
+Ma foi, je n'en sais rien.
+
+-*who_pierrot
+N'importe, c'est pour un secret que mesdemoiselles vos soeurs m'envoient vous dire tout bas à l'oreille à quelqu'un de vous deux.
+C'est que monsieur le gouverneur n'aille pas les voir que dans une petite demi-heure, parce qu'elles ne sont pas encore prêtes.
+L'une attend ses cheveux qui sont chez la coiffeuse, l'autre, deux ou trois dents qu'on achève de limer ; celle-ci, sa couturière, qui lui fait une gorge de satin ; l'autre répète sa leçon devant un miroir.
+Tant y a qu'il leur faut encore quelque temps pour achever tous leurs exercices.
+
+-*who_colombine
+Monsieur, il faut donner le temps aux filles de s'ajuster.
+
+-*who_arlequin
+Je ne trouve pas cela étrange.
+Il n'est pas encore tout à fait nuit : et cinq heures du soir, c'est la plus belle heure de la toilette.
+
+-*who_colombine
+Monsieur, allons dans mon appartement, je vais achever de vous instruire des cérémonies des mal-assortis.
+
+-*who_pierrot
+Et moi je vais aider à ces pauvres filles à s'attifer ; car elles n'ont point d'autre femme de chambre que moi.
+
+**** *book_ *id_I03 *act_I *date_1693
+
+-*who_pierrot
+Ah, je suis bien aise que vous soyez plus diligente que vos sours !
+On ne saurait les tirer de leur toilette, et je crois que dans deux heures d'ici elles ne seront caparaçonnées.
+
+-*who_isabelle
+Hélas, mon soin est bien différent de celui de mes sours !
+Elles ont passé toute la nuit à s'ajuster, et moi à pleurer.
+Elles cherchent dans leur toilette des charmes qu'elles n'ont point, et je voudrais pouvoir cacher ceux que le ciel m'a donnés.
+
+-*who_pierrot
+Oh, les filles n'aiment guère à se cacher : et si elles étaient toutes faites comme vous, elles amèneraient bientôt la mode de s'habiller l'été avec du réseau.
+
+-*who_isabelle
+Mon pauvre eunuque, je tremble de peur que le gouverneur ne me trouve aimable.
+Tu sais ma passion pour Léandre, et que la princesse a rompu notre mariage, dans l'espérance que le gouverneur me choisisse.
+Que je suis malheureuse, d'être plus jolie que mes sours !
+Ne sais-tu point quelque secret pour me faire paraître laide ?
+
+-*who_pierrot
+Je n'en ai point encore vu dans les affiches : mais je m'imagine, que si on pouvait composer quelque pommade douce avec de la poudre à canon, s'en couvrir le visage, et y mettre le feu... mais je ne l'ai pas encore éprouvé.
+
+-*who_isabelle
+Oh, je voudrais bien être laide pour déplaire au gouverneur : mais je serais bien aise de redevenir belle, pour plaire à Léandre.
+
+-*who_pierrot
+Oh, cela ne se peut pas.
+La fleur de la beauté, c'est comme la fleur de la sagesse.
+Quand elle est une fois fanée, il n'y a plus rien à refaire.
+
+-*who_isabelle
+Je n'ai donc plus qu'une ressource, et j'espère que ma vertu me guérira de l'amour que j'ai pour Léandre.
+
+-*who_pierrot
+Bon, bon, la vertu !
+La vertu est justement tout comme les médecins, qui ne guérissent que des maladies qu'on n'a point.
+
+-*who_isabelle
+Oh, mon pauvre ami, s'il faut absolument que j'épouse le gouverneur, je ne verrai plus Léandre.
+
+-*who_pierrot
+Quoi, ce Léandre, si beau, si bien fait, qui se démène comme un coq, et se campe comme un cheval de manège, vous ne le verrez jamais ?
+À d'autres.
+
+-*who_isabelle
+Non, mais je m'enfermerai quelquefois dans ma chambre, et je l'aimerai toute seule sans qu'il y soit.
+
+-*who_pierrot
+Et cette vertu, morbleu, cette vertu ?
+
+-*who_isabelle
+Est-ce qu'il ne me sera pas permis de prendre plaisir à penser à lui, malgré moi ?
+
+-*who_pierrot
+Prendre plaisir malgré vous !
+Oh, il n'y a point de concordance à cette phrase-là : prendre plaisir malgré vous !
+Cicéron appelle cela ?
+La chèvre et les choux.
+
+-*who_isabelle
+Je ferai donc tous mes efforts pour oublier Léandre.
+Quand il me viendra dans l'esprit, je secouerai la tête, je me rongerai les ongles, je fermerai les yeux et les oreilles.
+
+-*who_pierrot
+Oh, l'Amour est un voleur de nuit, qui trouve toujours quelque porte ouverte.
+
+-*who_isabelle
+Hé bien, quand je serai lasse de combattre, je m'endormirai, afin de l'oublier tout à fait.
+
+-*who_pierrot
+C'est là où l'Amour vous guette.
+Il vous fera voir Léandre plus beau qu'il n'est, vous oublierez que vous dormez, et puis après, que sais-je moi ?
+Les songes sont bien malins.
+
+-*who_isabelle
+Mais je ne serai pas coupable, car ce n'est qu'un songe.
+
+-*who_pierrot
+Voilà vos sours qui m'appellent, je m'en vais vitement plier leur toilette, afin que le gouverneur qui va venir, ne voie pas tout cet attelage-là.
+
+-*who_isabelle
+Ciel !
+Fais que le gouverneur me haïsse, autant que Léandre m'aime.
+
+**** *book_ *id_I04 *act_I *date_1693
+
+-*who_lafille
+Ah !
+Ah !
+Je n'en puis plus.
+
+-*who_pierrot
+Voulez-vous que je la délace ?
+
+-*who_lafille
+Non, non, serrez tant que vous pourrez...
+Hai !
+Je crève...
+Ma taille m'est plus chère que ma santé...
+Serrez fort...
+Je crève.
+
+-*who_pierrot
+Est-ce assez ?
+
+-*who_lafille
+Non, serrez.
+Ah, ah !
+
+-*who_autrefille
+Pierrot, Pierrot.
+Ma couturière n'a-t-elle point apporté ma gorge ?
+
+-*who_pierrot
+Votre gorge ?
+Est-ce qu'elle n'est pas sous votre peignoir ?
+
+-*who_lafille
+C'est cette gorge à ressort que je lui ai donnée, pour couvrir de satin.
+
+-*who_pierrot
+Je ne connais point tous ces brimborions des filles, mais j'ai vu ici deux vessies de cochon : est-ce cela ?
+
+-*who_lafille
+Voilà ce que c'est : aide-moi à les mettre.
+Cache-moi donc.
+Si mes sours me voyaient : elles en voudraient avoir de même.
+
+**** *book_ *id_I05 *act_I *date_1693
+
+-*who_arlequin
+Je suis venu par l'escalier dérobé, afin de surprendre ces filles dans leur naturel, avant qu'elles aient le temps de se falsifier : car sitôt qu'une femme a le loisir de se préparer à recevoir visite, ma foi, les plus connaisseurs ne sauraient juger ni de son sein, ni de sa taille.
+J'ai toujours ouï dire, que pour bien juger d'un tableau, il faut le voir sans bordure, et un cheval tout nu par le licol.
+
+-*who_unedesfilles
+Ah, quelle trahison, monsieur le gouverneur, quelle trahison !
+
+-*who_arlequin
+Pardonnez ma curiosité.
+
+-*who_lafille
+Est-ce qu'on surprend ainsi une fille, avant qu'elle ait le temps de...
+
+-*who_arlequin
+Quelles mamelles !
+Où sont donc les petits marcassins ?
+Ma foi, je ne suis plus curieux.
+
+-*who_lafille
+Cela est bien aisé à dire, quand on a vu mille choses.
+En vérité, monsieur, c'est un crime contre la bienséance.
+
+-*who_arlequin
+Ce crime-là porte sa pénitence.
+
+-*who_lafille
+Ce n'est pas par ces badineries-là qu'on prétend plaire ; on a mille autres qualités.
+
+-*who_arlequin
+On peut juger des autres par celles-là.
+Je vous laisse en liberté.
+
+-*who_lafille
+Vraiment, il est bien temps quand on a fait la faute.
+
+-*who_arlequin
+Si j'ai fait la faute, je ne la boirai pas.
+
+-*who_lafille
+Il y a mille femmes scrupuleuses, qui prendraient mal les choses : mais pour moi qui ai l'intention bonne...
+
+-*who_arlequin
+Allez, allez achever de vous habiller.
+
+-*who_lafille
+Puisque vous me l'ordonnez, je serai à vous dans un moment.
+
+-*who_arlequin
+Si toute la famille lui ressemble, le choix m'embarrassera.
+
+-*who_autrefille
+De la joie, de la joie, monsieur le gouverneur.
+Nò, nò, non, che non prendo marito
+Amo troppo la mia libertà.
+Del disciolto e allegro mio core
+Mai signor nissum non sarà ;
+Voglio rider, cantar, e ballare,
+Nò, nò, nò, non mi vo maritare.
+
+-*who_arlequin
+L'humeur de celle-ci me plairait assez : mais il y a quelque chose à refaire à cette taille-là.
+
+-*who_lafille
+C'est que vous ne vous connaissez pas en tailles fines.
+Une fille sans embonpoint c'est une chambre sans meubles.
+
+-*who_arlequin
+Oh, vive les tailles fines !
+Je me défie de ces filles qui se piquent d'embonpoint, et qui sont toujours en déshabillé.
+
+-*who_lafille
+Croyez-moi, monsieur le gouverneur, vous seriez heureux avec une femme comme moi, qui ne sait ce que c'est que d'engendrer de la mélancolie.
+
+-*who_arlequin
+Non, mais vous savez ce que c'est que d'engendrer de la joie.
+Franchement, je n'ai point envie de vous prendre.
+
+-*who_lafille
+Ma foi, vous faites bien ; car quand vous le voudriez, je ne le voudrais pas.
+
+-*who_autrefille
+Il aime les tailles fines, il me va choisir.
+
+-*who_arlequin
+Cette taille-là me plaît assez, elle n'est point raboteuse.
+Madame, pourrait-on vous voir au visage ?
+
+-*who_lafille
+Ah !
+Je suis horrible aujourd'hui, je n'ai point dormi de la nuit.
+
+-*who_arlequin
+Apparemment qu'elle est jolie, car elle minaude.
+Hé je vous prie, Madame...
+
+-*who_lafille
+Le soleil fait ici mille fausses lueurs.
+
+-*who_arlequin
+Une beauté est à l'épreuve du soleil.
+
+-*who_lafille
+Je vous dis que je ne suis pas en jour.
+
+-*who_arlequin
+Hé bien, mettez-moi dans le point de vue.
+
+-*who_lafille
+Fermez donc les rideaux.
+
+-*who_lafille
+Ma beauté l'a surpris, il faut lui donner le temps de se reconnaître.
+
+**** *book_ *id_I06 *act_I *date_1693
+
+-*who_colombine
+Hé bien, monsieur, parmi ces charmantes sours, en avez-vous trouvé quelqu'une qui vous convienne ?
+Votre cour s'est-il déterminé ?
+
+-*who_arlequin
+Non, mais il s'est soulevé.
+Ah !
+
+-*who_colombine
+Vous trouvez-vous mal ?
+
+-*who_arlequin
+Franchement, madame, j'aime mieux renoncer au gouvernement, que de me marier ; votre famille est trop laide.
+
+-*who_colombine
+Où est donc Isabelle ?
+Apparemment qu'il ne l'a pas encore vue.
+Pourquoi donc vous cachez-vous ainsi ?
+
+-*who_isabelle
+Ah, ciel !
+
+-*who_colombine
+Celle-ci lui fera revenir le cour.
+Monsieur le gouverneur, tournez-vous ; en voici une qui vous plaira sans doute.
+
+-*who_arlequin
+Ah !
+Voici de l'eau de la reine de Hongrie.
+Madame, je l'épouse, et me tiens trop heureux de l'avoir.
+
+-*who_isabelle
+Mais, ma soeur, pourquoi contraindre monsieur à me choisir entre des soeurs qui sont plus aimables que moi ?
+
+-*who_colombine
+Je lui ai donné le temps d'examiner leur mérite.
+
+-*who_arlequin
+Leur mérite, ma foi, n'a pas besoin d'examen, il saute aux yeux d'abord.
+Madame, je m'en tiens à celle-ci, et je la choisis pour ma femme.
+
+-*who_isabelle
+Ah, grands dieux, quel malheur !
+
+-*who_colombine
+Allons, il faut obéir à la loi.
+
+-*who_isabelle
+Ah, ma sour !
+Faites-le changer de sentiment.
+
+-*who_arlequin
+Oh, ne craignez rien, je ne suis pas changeant.
+
+-*who_isabelle
+Que je suis malheureuse !
+
+-*who_arlequin
+Que dit-elle ?
+
+-*who_colombine
+Qu'elle est heureuse...
+
+-*who_isabelle
+Oui, j'en mourrai.
+
+-*who_arlequin
+Comment ?
+Elle en mourra ?
+
+-*who_colombine
+Oui, monsieur, de joie.
+
+-*who_arlequin
+Oh, il faut que les femmes modèrent leur joie.
+Hippocrate dit que « summum gaudium mulieres dilatando occidit ».
+
+-*who_colombine
+Je la laisse avec vous, et je vais donner mes ordres pour la cérémonie des mal-assortis.
+
+-*who_isabelle
+Il me vient une pensée pour le dégoûter de moi ; je vais lui faire accroire...
+
+-*who_arlequin
+Hé bien, charmante pouponne, je vais vous rendre heureuse.
+
+-*who_isabelle
+Monsieur, puisque vous voulez me rendre heureuse, je ne puis sans ingratitude vous rendre malheureux, et je me crois obligée de vous avertir que j'ai mille défauts, que vous ne pourrez jamais supporter.
+
+-*who_arlequin
+Oh, je me suis déjà aperçu de ces défauts-là.
+Vos yeux sont un peu trop vifs, votre bouche trop vermeille, votre taille trop fine.
+Mais quand on aime, on passe par-dessus ces petits défauts-là.
+
+-*who_isabelle
+Si vous connaissiez mon humeur !
+Je suis bizarre, capricieuse...
+
+-*who_arlequin
+Cela me vient le mieux du monde ; car mon médecin m'a ordonné, à cause de ma bile, de donner tous les matins à jeun trois ou quatre soufflets à quelqu'un ; et cette recette nous guérira tous deux, moi de ma bile, et vous de vos caprices.
+
+-*who_isabelle
+Quel brutal !
+Ô ciel !
+Monsieur, j'ai une autre maladie bien plus dangereuse.
+Toutes les nuits je suis sujette à des rêves furieux, qui allument la rage dans mon âme ; j'égratigne, je mords, j'assassine, et j'étouffai l'autre jour dans mes bras...
+
+-*who_arlequin
+Un amant ?
+
+-*who_isabelle
+Un petit bichon que ma soeur m'avait donné.
+
+-*who_arlequin
+Il faudra se précautionner, et je coucherai avec une armure à toute épreuve.
+
+-*who_isabelle
+Il n'y a point d'armure à toute épreuve de la rage d'une femme.
+Qui hait son mari.
+À propos, monsieur, j'oubliais à vous dire... mais je n'ose.
+
+-*who_arlequin
+Dites, dites, je suis tout disposé à vous entendre.
+
+-*who_isabelle
+C'est que j'ai eu déjà deux accès de folie.
+
+-*who_arlequin
+Quoi !
+Vous n'avez eu que deux accès de folie à votre âge ?
+Hé, vous êtes la perle des filles.
+
+-*who_isabelle
+Mais, monsieur, pourquoi vous obstiner à prendre une malheureuse ?
+Si vous connaissiez le mérite d'une sour que j'ai.
+Il faut que je vous la fasse voir.
+Ma sour Toinon...
+
+-*who_filles
+C'est moi, c'est moi que monsieur le gouverneur a choisi.
+
+**** *book_ *id_II01 *act_II *date_1693
+
+-*who_arlequin
+Ô Hymen, protecteur du chagrin domestique,
+Divinité climatérique,
+Qui fais aux deux époux, par ta rare équité,
+Prodiguer ses faveurs avec égalité :
+À l'un des maux de tête, à l'autre des coliques :
+Patron des animaux froids et mélancoliques ;
+Des chauves-souris, des hiboux,
+Des limaçons, et des coucous :
+Je ne viens point pour soustraire à ta main malfaisante
+Cette troupe dolente
+D'époux mal-assortis,
+Puisqu'en brisant leurs nouds je les assujettis
+À prendre d'autres chaînes.
+Il est vrai que souvent le changement des peines
+Cause quelque plaisir :
+Mais ne te fâche point, car selon ton désir,
+Tu les verras demain plus malheureux encore
+Qu'ils ne l'étaient hier. Ma bile s'évapore,
+Ô Hymen ! Mais pardonne-moi.
+Quelque mal qu'on dise de toi,
+Ou tôt ou tard dans tes fers on s'engage :
+Et moi tout le premier je viens te rendre hommage,
+Et dire à ta louange avec sincérité,
+Que tu ferais toujours notre félicité,
+Si dans les douceurs du ménage,
+Tu trouvais le secret de séparer l'usage,
+De la propriété.
+
+-*who_lhymen
+Je fais le malheur extrême
+De la plupart des humains :
+Mais leur bonheur suprême
+Est aussi dans mes mains.
+En ma droite je tiens l'heureuse destinée :
+Ma gauche livre le tourment.
+Celle-ci, par malheur, s'ouvre facilement,
+Et ma droite est toujours fermée.
+
+**** *book_ *id_II02 *act_II *date_1693
+
+-*who_lecabaretier
+Seigneur, puisqu'en faveur de votre mariage,
+On peut troquer de femme en dépit de l'usage...
+
+-*who_arlequin
+Qui êtes-vous, l'ami ?
+
+-*who_lecabaretier
+      Je suis cabaretier
+De mon métier.
+Mais grâce à sa laideur, j'ai bien peu de pratique.
+Autrefois les buveurs de clique,
+Les gourmets de profession,
+Et la bachique nation
+Des vieux doyens de confrérie,
+Vidaient mes muids jusqu'à la lie.
+Mais depuis que cette guenon
+A mis le pied dans ma maison,
+Chacun me chante injure,
+Et me prédit un très fâcheux hiver.
+Celui-ci dit, que ma femme est trop mûre,
+Et celui-là, que mon vin est trop vert.
+
+-*who_arlequin
+On a raison. Quand on veut dans l'année
+Avoir des officiers la joyeuse assemblée,
+Il faut avoir chez soi, pour se rendre fameux,
+Jeune femme et vin vieux.
+
+-*who_lacoquette
+Audience, monsieur, audience, audience !
+
+-*who_arlequin
+Patience, madame, un peu de patience,
+Laissez parler, Monsieur.
+
+-*who_lacoquette
+      Je vais m'évanouir
+Si vous ne m'écoutez. Je ne puis plus souffrir
+Cette chaîne
+Qui me gêne,
+En m'arrêtant si près de mon époux.
+
+-*who_arlequin
+C'est un grand supplice entre nous :
+Mais vous devez y être accoutumée.
+
+-*who_lacoquette
+Depuis que je suis mariée,
+Je n'ai jamais été si longtemps qu'aujourd'hui
+Tête à tête avec lui.
+C'est un insupportable,
+Un jaloux incurable :
+Il est bourru, fourbe, avare, menteur.
+
+-*who_arlequin
+À ce joli portrait, n'est-il point procureur ?
+
+-*who_leprocureur
+Fiscal, pour vous servir, et...
+
+-*who_arlequin
+Laissez-moi l'entendre.
+Vous pourrez vous défendre
+Quand elle aura tout dit.
+
+-*who_leprocureur
+      J'attendrai donc longtemps.
+
+-*who_lacoquette
+Oui, oui, je parlerai, et l'on verra comment
+Je suis traitée.
+Parce qu'un contrat dit que je suis mariée,
+Il prétend me faire la loi,
+Et disposer de moi
+Comme un amant d'une maîtresse.
+Monsieur me parle de tendresse,
+Et veut prendre avec moi des familiarités.
+
+-*who_arlequin
+Oh, ce n'est plus la mode, et de ces libertés
+Les femmes du bel air ont retranché l'usage.
+
+-*who_lacoquette
+Ce n'est pas tout, monsieur. L'autre jour ce visage,
+Devant la femme d'un greffier,
+D'un notaire, et d'un financier,
+Au lieu de m'appeler madame,
+Tout court, me fit l'affront de m'appeler sa femme.
+
+-*who_arlequin
+Il a grand tort, et je vois clairement
+Que vous vivez tous deux célibatiquement :
+...........................................
+Et vous nommer sa femme est une calomnie.
+
+-*who_lacoquette
+Hier au soir je voulais en toute liberté,
+Régaler mes amis. Le souper apprêté,
+Toute la troupe en joie, on voit pour mon malheur
+Arriver ce benêt, comme un écornifleur,
+Un chercheur de franche lippée :
+Et sans être connu d'aucun de l'assemblée,
+Se plante effrontément à table avecque nous.
+
+-*who_arlequin
+Cette impudence est sans seconde :
+Et ces bourgeois époux
+Ne savent point leur monde.
+Un mari de qualité
+N'aurait jamais connu cette incivilité.
+
+-*who_lacoquette
+Cet avare vilain se plaint de ma parure.
+Cependant cette chamarrure
+Ne revient qu'à cinq cents écus :
+...............................
+Et si c'est un argent que j'ai pris sur mon compte.
+
+-*who_arlequin
+Fi ! Votre époux devrait mourir de honte,
+De vous voir un habit qui ne lui coûte rien.
+
+-*who_lacoquette
+Les marchands sont contents, je les paye du mien.
+
+-*who_arlequin
+Quand la femme fournit à de telles dépenses,
+Ce n'est pas aux marchands qu'elle fait les avances.
+
+-*who_leprocureur
+Si vous saviez...
+
+-*who_arlequin
+      J'en sais plus qu'il n'en faut.
+Et vous maître nigaud,
+Qui semblez mépriser l'aiguillon qui vous pique,
+Ma foi, vous tenez plus du bouf que du stoïque,
+Si vous ne répondez à ces piquants discours.
+
+-*who_leprocureur
+Bon ! Je les entends tous les jours,
+Et je crois après tout, ma femme raisonnable.
+Je l'aime trop pour la donner au diable :
+Faites-moi le plaisir de la prendre pour vous.
+
+-*who_arlequin
+Je vais lui donner un époux,
+Qui du diable n'a pas tout à fait la figure,
+Mais qui dans peu de jours en aura la coiffure.
+C'est vous que je destine...
+Au Cabaretier.
+
+-*who_lacoquette
+      À moi, monsieur, à moi,
+Un mari de si bas aloi,
+À moi, qui d'un sergent suis l'unique héritière !
+Le Cabaretier à la coquette.
+Franchement, je ne connais guère
+Ni votre père ni le mien,
+Mais je crois que je vous vaux bien.
+
+-*who_lacoquette
+Vraiment, il ferait beau me voir cabaretière,
+Et d'un empoisonneur l'épouse gargotière !
+
+-*who_arlequin
+À vos mordants discours mettez un caveçon.
+Quoique son vin soit plein de colle de poisson,
+Il est moins frelaté qu'une franche coquette :
+Car sans parler de sa toilette,
+Tous ses regards confits au vinaigre et au miel
+Le désordre artificiel
+Des mouvements de son visage,
+Et ce tendre patelinage
+Qui remplit son discours d'une fade douceur :
+Tout cela franchement, fait plus de mal au cour
+Que le vin qu'il apprête
+Ne fait mal à la tête.
+
+-*who_lecabaretier
+Je sais quelque secret pour éclaircir le vin :
+Mais pour éclaircir votre teint,
+N'usez-vous point de fourberie ?
+
+-*who_lacoquette
+Mes roses et mes lys sont sans supercherie.
+
+-*who_lecabaretier
+Je crois que vous prenez vos roses et vos lys
+Chez le même épicier où je prends mes rubis.
+Ce teint n'est point clair net.
+
+-*who_lacoquette
+      Si son effronterie...
+
+-*who_arlequin
+Ou taisez-vous, ou je vous remarie
+Au procureur. C'est ainsi que je veux
+Que vous troquiez tous deux.
+
+-*who_leprocureur
+Monsieur...
+
+-*who_arlequin
+      Vous êtes trop heureux
+D'avoir une femme qui vous convienne.
+
+-*who_leprocureur
+Je l'aime encor mieux que la mienne.
+Toute laide qu'elle est.
+
+-*who_arlequin
+      Apprenez aujourd'hui,
+Qu'un procureur ne doit avoir chez lui
+Que pain moisi, vin détestable,
+Et femme laide comme un diable,
+Et le tout à cause des clercs.
+Vous, dont les berceaux sont déserts,
+Si vous voulez avoir chez vous bonne pratique,
+De ce joli bouchon parez votre pratique.
+
+-*who_lecabaretier
+Si l'on troquait de femme et de mari
+Chez Dautel, et chez Fagnany,
+Je leur conseillerais de fermer leurs boutiques,
+Et de louer, pour loger leurs pratiques,
+Toute la plaine Saint-Denis.
+
+-*who_lhymen
+Ô l'heureux ménage,
+D'une coquette, et d'un cabaretier
+Qui savent leur métier !
+Qu'ils vont mettre tous deux de talents en usage !
+L'un par son tripotage
+Sait rajeunir le vin ;
+Et l'autre, avec le blanc, et le carmin,
+Rajeunir le visage.
+
+**** *book_ *id_II03 *act_II *date_1693
+
+-*who_arlequin
+Une vieille, dont la bourse est vide, et un jeune homme qui se cure les dents !
+Cette scène muette parle toute seule.
+Vous voulez vous démarier, parce que vous voyez le fond de sa bourse ?
+Vous avez raison.
+Vous, vous vous plaignez apparemment qu'il ne vous a pas donné l'emploi de vos deniers ?
+Vous avez tort.
+Une vieille qui achète la tendresse d'un jeune homme, doit s'attendre, que dès le lendemain du marché, il portera chez sa voisine l'argent et la marchandise.
+Voyons, si nous trouverons ici de quoi vous assortir.
+
+-*who_lejardinier
+Ah !
+Il y a longtemps que j'attends ce jour bienheureux.
+
+-*who_arlequin
+De quelle vacation êtes-vous ?
+
+-*who_lejardinier
+Jardinier, pour vous servir.
+
+-*who_arlequin
+Je m'en suis douté, en voyant la rondeur de la jardinière : car la terre d'un jardinier est toujours plus fertile qu'une autre.
+
+-*who_lejardinier
+Vous me faites plus d'honneur qu'il ne m'en est dû.
+Mais vous voyez ce jeune homme.
+
+-*who_arlequin
+En est-ce à lui l'honneur ?
+
+-*who_lejardinier
+Je ne dis pas cela ; mais je suis son jardinier, et il y a quelque temps qu'il vint me trouver, et qu'il me dit : maître Ambroise, en récompense de tes services, je te veux faire un présent...
+Ah, monsieur...
+Oui, maître Ambroise, je te donne en mariage la fille de mon concierge...
+Oh !
+Comme il n'avait pas accoutumé de me faire de si grands présents, je me doutai de sa ruse, et je dis en moi-même : je l'attraperai.
+
+-*who_arlequin
+C'est-à-dire que vous ne voulûtes pas l'épouser.
+
+-*who_lejardinier
+Oh que si !
+Je l'épousai, pour mieux découvrir la vérité, mais sitôt que nous fûmes mariés, je pris la poste, et je fis un voyage de six mois.
+
+-*who_arlequin
+Je vous entends.
+C'est-à-dire que vous voulûtes voir, si malgré votre absence...
+
+-*who_lejardinier
+Vous l'avez dit.
+
+-*who_lajardiniere
+Oh, l'absence ou la présence ne fait rien à la chose, et le mariage va toujours son train.
+
+-*who_lejardinier
+Il n'y a que quinze jours que je suis de retour, et vous voyez.
+
+-*who_lajardiniere
+Cela ne vous doit pas surprendre.
+Vous qui êtes jardinier, vous devez savoir que les fruits semés sur couche, viennent souvent avant la saison.
+
+-*who_lejardinier
+Oh, cela n'est pas naturel.
+
+-*who_arlequin
+Oh, que si !
+Votre femme est peut-être une femme précoce.
+
+-*who_lajardiniere
+Monsieur, il dit qu'il n'y a que quinze jours qu'il est de retour, mais il faut qu'il y ait davantage, car le temps m'a bien duré.
+
+-*who_lejardinier
+Oh, tu as beau dire, le juge sera de mon côté, car il est homme comme moi.
+
+-*who_lajardiniere
+Il a intérêt de me justifier, car il a peut-être une femme comme moi.
+
+-*who_arlequin
+Écoutez, la faute de votre femme est une faute d'ignorance, car si elle avait su calculer, comme vous, les jours et les mois, elle aurait si bien pris ses mesures, que vous ne vouS seriez aperçu de rien, et il ne faut pas déshonorer une femme, parce qu'elle ne sait pas l'arithmétique.
+
+-*who_lejardinier
+Si vous voulez que je garde ma femme, défendez donc à monsieur de venir chez moi.
+
+-*who_lajardiniere
+Gardez-vous-en bien, c'est un homme de qualité qui trouverait fort mauvais qu'on lui fît ce compliment-là.
+
+-*who_arlequin
+Ce serait manquer de politesse que de vous opposer à l'honneur que monsieur veut bien vous faire.
+
+-*who_lejardinier
+Oh, qu'il me laisse l'honneur que j'ai, et je le quitte de celui qu'il me veut faire.
+
+-*who_lhymen
+Heureux qui par son labourage,
+Met à profit
+L'arbre fourchu du mariage :
+La femme a l'avantage
+D'être la branche à fruit.
+Mais au mari discret et sage
+Par son bois se met en crédit.
+D'un arbre roturier dont la tige est jolie,
+On voit souvent sortir un noble rejeton :
+Et par hasard aussi sur la branche anoblie
+Un jardinier pourrait greffer un sauvageon.
+
+-*who_arlequin
+Ce troc-ci est bien aisé à faire.
+Monsieur, vous savez mieux que moi l'hypothèque que vous avez sur cette jeune femme.
+Je vous l'adjuge, tâchez de regagner avec elle, ce que vous avez dépensé à la vieille.
+Et vous, mon ami, pour vous punir de la folie que vous avez faite, je vous ordonne d'épouser la bonne femme.
+C'est aux jardiniers qu'il faut donner les terres en friche, et une vieille ne doit point vous embarrasser.
+Vous trouverez le secret de la rajeunir, comme un vieux poirier, en lui coupant la tête : aussi bien une vieille sans argent, n'a plus que faire au monde.
+
+**** *book_ *id_II04 *act_II *date_1693
+
+-*who_isabelle
+Monsieur, en faveur de la fête,
+Je viens présenter ma requête.
+
+-*who_arlequin
+C'est pour troquer d'époux que vous venez ici ;
+Mais pourquoi vous déguiser ainsi.
+
+-*who_isabelle
+Vraiment, monsieur, si j'étais refusée,
+Et que mon mari sut...
+
+-*who_arlequin
+      La petite rusée !
+Que j'ai de curiosité
+De voir...
+
+-*who_isabelle
+      Oh, n'usez point de votre autorité.
+
+-*who_arlequin
+Découvrez-moi votre visage.
+
+-*who_isabelle
+Ne me pressez pas davantage.
+Je ne puis apporter trop de précaution
+Pour ne point troubler l'union
+Qui règne dans notre ménage :
+Elle est charmante.
+
+-*who_arlequin
+Oh, le plaisant langage :
+Ma foi, je crois que vous êtes unis
+Comme le loup et la brebis.
+Son discours sent un peu le déclin de la lune.
+Dites-moi vos raisons.
+
+-*who_isabelle
+Hélas je n'en n'ai qu'une.
+En aimant mon mari six mois sont écoulés,
+Et je trouve que c'est assez.
+
+-*who_arlequin
+Hon ! Ce n'est point cela qui vous rend malheureuse.
+Vous ne dites pas tout. Ne soyez point honteuse.
+Apprenez-moi le hic de cet aimable époux.
+Est-il brutal, est-il jaloux,
+A-t-il chez le voisin quelque second ménage ?
+
+-*who_isabelle
+Non. Mais six mois de mariage.
+
+-*who_arlequin
+D'accord, mais il me faut expliquer mieux le cas.
+Dites-le-moi tout bas.
+Vous a-t-il refusé quelque habit magnifique ?
+
+-*who_isabelle
+Six mois, monsieur, six mois.
+
+-*who_arlequin
+      La chose est sans explique,
+Cependant il faudrait savoir de votre époux,
+S'il est aussi las d'être à vous.
+
+-*who_isabelle
+Ah ! Si vous l'écoutez, monsieur, je suis perdue.
+Il consentira qu'on le tue,
+Plutôt que de rompre des nouds
+Qui font tout son bonheur.
+
+-*who_arlequin
+      Il est bien malheureux
+D'aimer une ingrate.
+Madame, votre affaire est un peu délicate,
+J'y veux rêver.
+
+**** *book_ *id_II05 *act_II *date_1693
+
+-*who_leandre
+      Monsieur.
+
+-*who_arlequin
+      Autre déguisement.
+Que voulez-vous de moi ?
+
+-*who_leandre
+      Je viens secrètement
+Vous faire un franc aveu de ma bizarrerie.
+Mon épouse est jeune et jolie,
+Et je pourrais faire serment
+Qu'elle m'aime fidèlement.
+Cependant, puisqu'il faut avouer ma faiblesse,
+Je ne puis supporter l'excès de sa tendresse,
+Et je viens vous prier
+De me démarier.
+
+-*who_arlequin
+Je ne m'attendais pas à ce sujet de plainte.
+Il est nouveau. Mais parlez-moi sans feinte,
+N'avez-vous point, pour briser ce lien,
+Quelque grief plus fort ?
+
+-*who_leandre
+Comptez-vous donc pour rien
+D'être obligé par complaisance,
+D'adorer une femme au moins en apparence,
+D'épouser son caprice, et de remplir ses voux,
+De suivre pas à pas ses transports amoureux,
+Enfin d'être auprès d'elle
+Nuit et jour ?
+
+-*who_arlequin
+      Je sais bien qu'une épouse fidèle
+Fais voir plus de pays à l'époux complaisant,
+Qu'une maîtresse à son amant.
+Mais après tout, il faut prendre courage.
+Vingt ou trente ans de mariage
+La mettront sur le pied
+D'une bonne amitié.
+
+-*who_leandre
+Je n'en crois rien, monsieur ; la froideur conjugale
+Ne sera jamais de son goût,
+Et son ardeur toujours égale
+Depuis six mois a mis ma patience à bout.
+
+-*who_arlequin
+Depuis six mois il est à la torture.
+Depuis six mois aussi...
+      La plaisante aventure !
+De votre cher époux peut-on savoir le nom ?
+
+-*who_isabelle
+C'est Léandre, monsieur.
+
+-*who_arlequin
+      Comment vous nomme-t-on ?
+
+-*who_leandre
+Léandre.
+
+-*who_arlequin
+      Justement. La chose est avérée,
+C'est le mari de la voilée.
+Je veux m'en divertir. Écoutez-moi tous deux.
+Je vais d'un seul arrêt satisfaire vos voux.
+Vous qui cherchez une femme inconstante,
+Croyez que celle-ci remplira votre attente ;
+Jamais son trop d'amour ne vous fatiguera,
+Et du moment qu'elle vous connaîtra,
+Je vous réponds de son indifférence.
+Pour vous,
+      Dont la volage instance
+A pour but de changer, pour changer seulement,
+Vous consentiriez aisément
+À l'hymen que je vous propose :
+Mais il n'est point de bail sans clause,
+Et je veux absolument
+Que sans résister un moment,
+Vous vous preniez tous deux.
+
+-*who_isabelle
+      Quoi donc, sans se connaître ?
+
+-*who_arlequin
+Vous aimez mieux, peut-être,
+Garder l'époux que vous avez ?
+
+-*who_isabelle
+Que vous m'embarrassez !
+
+-*who_arlequin
+Épouser au hasard, c'est la bonne méthode,
+Rien n'est plus à la mode,
+Et tous les jours on unit mille époux,
+Qui se connaissent moins que vous.
+Allons, allons, de peur que ce mari, dont vous êtes lasse, et que cette femme qui vous aime si tendrement, ne viennent s'opposer au troc, il faut vous marier promptement.
+Allons, donnez-vous la main, je vous marie dès à présent.
+
+-*who_arlequin
+Hymen, pour aujourd'hui faites cesser les plaintes,
+Fermez bien cette main si pleine de malheurs ;
+Rallumez vos flammes éteintes
+Et changez vos chaînes en fleurs.
+Aux nouveaux mariés.
+Ô troupe moins mal-assortie,
+Pour vous bien réjouir, songez combien d'époux
+Vont vous porter envie,
+Et voudraient, comme vous,
+Goûter en un seul jour les charmes du veuvage,
+Et les plaisirs d'un nouveau mariage.
+
+-*who_l_hymen
+Craignez le premier feu du flambeau de l'hyménée,
+Il brille autant que celui de l'amour :
+Mais bien souvent, en moins d'un jour,
+Sa flamme se change en fumée.
+Tu dis qu'en troquant de femme,
+Tu trompes ton compagnon ;
+Toi, tu le penses dans l'âme :
+Vous avez tous deux raison.
+Mais avant que le coq chante,
+Je crains bien que le plus fin
+Du marché ne se repente,
+En regrettant sa catin.
+
+-*who_arlequin
+Car toujours la plus charmante
+C'est la femme du voisin.
+Le Cabaretier dont la femme laide
+A épousé le procureur.
+Le seul défaut de ta laide,
+C'est qu'elle achète un amant :
+Aussi cher que quand tu plaides,
+Tu payes un témoin Normand ?
+Le Procureur dont la femme coquette
+A épousé le Cabaretier, répond.
+Si jamais la tienne attrape
+La clef du coffre au magot,
+Que de plumets par étape
+Te grugeront comme un sot !
+
+-*who_arlequin
+Quand la femme met la nappe,
+Le mari paie l'écot.
+La jardinière qui a épousé le jeune homme.
+Quitter le compère Ambroise
+Pour un jeune damoiseau,
+C'est bien troquer en matoise
+Sa miche pour du gâteau.
+
+-*who_lejardinier
+Mais la fille du village
+Se lasse de pain au lait.
+Le chat revient au fromage,
+Et la servante au valet.
+
+-*who_arlequin
+Le pain bis pour le ménage,
+Vaut bien mieux que le pain mollet,
+
+-*who_arlequin
+En faveur de notre fête,
+Combien d'époux à l'envi,
+Sans me présenter requête,
+Vont changer de femme aussi !
+Mais tel qui sans privilège
+Cherche à rire chez autrui.
+Retrouve après ce manège
+Le voisin qui rit chez lui.

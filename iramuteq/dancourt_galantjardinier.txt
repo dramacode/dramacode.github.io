@@ -1,0 +1,1834 @@
+
+
+**** *book_ *id_I01 *act_I *date_1704
+
+-*who_madamedubuisson
+Oh !
+Pour cela, monsieur Dubuisson, vous prenez bien mal votre temps pour faire ce mariage.
+
+-*who_monsieurdubuisson
+Taisez-vous, ma femme, je sais bien ce que je fais.
+Quand on a des filles d'un certain âge, d'un certain esprit, d'une certaine tournure, on ne peut trop se hâter de les marier, et il n'y a point de contretemps pour s'en défaire.
+
+-*who_madamedubuisson
+Il n'y a rien à craindre de la vôtre.
+Une jeune enfant, qui a passé toute sa vie dans un couvent, qui n'en sort que depuis quinze jours…
+
+-*who_monsieurdubuisson
+C'est justement ce qui fait que je m'en défie ; cela ne connaît point le monde, cela meurt d'envie de faire connaissance ; et il n'y a point d'oiseaux si faciles à attraper que ceux qui sortent tout nouvellement de la cage.
+En un mot, nous l'avons tirée du couvent pour la marier, elle sera mariée, et tout au plus vite.
+
+-*who_madamedubuisson
+Mais, mon fils, quand je l'ai été chercher en Lorraine, d'où nous arrivons, vous aviez pour elle un autre parti que celui que vous lui voulez donner.
+
+-*who_monsieurdubuisson
+Cela est vrai.
+Sur la proposition de mon frère l'avocat, je m'étais résolu de la donner au fils de monsieur Orgon, un de mes anciens camarades de collège, homme fort riche, qui n'a que ce fils-là : nous étions en paroles pour cela, monsieur Orgon et moi ; mais outre que ce fils-là ne m'est point connu, c'est qu'il me revient de plusieurs endroits que c'est un libertin, qui s'est fait capitaine malgré son père, grand dissipateur de biens, homme de plaisirs, de bonne chère, et aimant les femmes.
+
+-*who_madamedubuisson
+Le grand malheur !
+Vous étiez bien pis que tout cela quand nous nous mariâmes, et si ma famille y avait regardé de si près…
+
+-*who_monsieurdubuisson
+Il y a encore autre chose.
+Ce fils de monsieur Orgon devait être rendu à Paris il y a trois semaines, pour terminer l'affaire.
+Son père lui avait écrit d'y venir pour cela, et l'on n'en a ni vent ni nouvelle ; cela me fait comprendre que c'est un jeune homme qui craint de prendre un engagement.
+Il a de la répugnance pour le mariage, et cela m'en fait prendre pour lui donner ma fille.
+Enfin, ma femme, voulez-vous que je vous dise ?
+Si je me hâte de la marier à ce monsieur Caton, qui ne me plait guères, c'est que je suis prévenu que l'autre me plairait encore moins, et que je me veux mettre hors d'état d'être persécuté par monsieur Orgon, qui, comme l'on m'a dit, ne songe à marier son fils que pour le tirer du libertinage, et je ne veux point que ce soit ma fille qui ait cette peine-là.
+
+-*who_madamedubuisson
+Mais, savez-vous bien que votre fille hait à la mort ce monsieur Caton que vous voulez qu'elle épouse.
+
+-*who_monsieurdubuisson
+Ma fille n'a pas tort, c'est un vilain homme ; mais il est fort riche, et en chemin de le devenir davantage ; cela fera une bonne maison ; c'est un homme qui ne dépenserait pas une pistole mal à propos.
+
+-*who_madamedubuisson
+Tenez, mon fils, c'est un vilain, un ladre, un vieux coquin, qui a vécu jusqu'ici d'une manière fort serrée, et qui, faute d'expérience, se répandra au premier jour en des dépenses excessives pour le première guenon qui lui donnera dans la vue.
+Je ne dis pas que ma fille ne mérite bien les petites galanteries qu'il fait pour elle : mais, s'il était si raisonnable que vous le dites, il s'abstiendrait de ces bagatelles-là, nous sommes ici à notre maison de campagne.
+
+-*who_monsieurdubuisson
+Je suis venu pour éviter le fracas et la cohue, et pour faire la noce à moindre frais.
+
+-*who_madamedubuisson
+Et de quoi s'avise donc votre monsieur Caton, que vous trouvez si économe, de régaler tous les jours tout le village ?
+
+-*who_monsieurdubuisson
+Ce n'est pas lui qui fait ces sottises-là.
+
+-*who_madamedubuisson
+De faire tirer des fusées, des feux d'artifice ?
+
+-*who_monsieurdubuisson
+Vous n'y êtes pas.
+
+-*who_madamedubuisson
+De donner des violons et de la musique dans les avenues de notre bois ?
+L'impertinent !
+Le sot !
+À quoi cela est-il bon ?
+
+-*who_monsieurdubuisson
+Cela ne vient pas lui, vous dis-je : il y a quelque chose là-dessous que je soupçonne, et j'ai mis des gens en campagne pour le découvrir.
+
+-*who_madamedubuisson
+Bon, bon !
+Quelque chose là-dessous, que pourrait-ce être ?
+
+-*who_monsieurdubuisson
+Le neveu de Lucas m'en rendra bon compte ; c'est un coquin qui n'est pas mal entendu.
+
+-*who_madamedubuisson
+Quand s'en va-t-il, cet animal-là ?
+Il y a déjà dix ou douze jours qu'il est ici à pot et à rôt dans la maison.
+
+-*who_monsieurdubuisson
+C'est le neveu de notre jardinier, un sergent de milice, qui vient voir son oncle en allant à la garnison.
+
+-*who_madamedubuisson
+Je n'ai que faire de cela, je n'aime point si longues visites, quand elles se font à mes dépens.
+Hom !
+Votre jardinier vous en fait bien passer, monsieur Dubuisson.
+
+-*who_monsieurdubuisson
+À moi ?
+
+-*who_madamedubuisson
+À vous-même.
+Je voudrais bien savoir de quoi ce maroufle s'avise de prendre encore un garçon jardinier de surcroît, quand il y en a deux ici.
+
+-*who_monsieurdubuisson
+Ce sont ses affaires.
+
+-*who_madamedubuisson
+Ce sont les vôtres, et tout cela vit aux dépens du maître.
+Tenez, monsieur Dubuisson, vous êtes trop bon, trop facile, et cela me rend malade.
+Outre la fatigue du voyage et le mouvement de ce vilain carrosse de voiture, dont je ne saurais me remettre, j'ai une migraine si horrible, un si grand mal de tête…
+
+-*who_monsieurdubuisson
+Allez, ma femme, allez vous remettre sur votre lit, et ne vous inquiétez de rien, laissez-moi faire.
+Voilà justement le neveu du jardinier avec qui je suis bien aise d'avoir quelque petite conférence.
+
+-*who_madamedubuisson
+Je vous laisse, monsieur Dubuisson ; mais, si vous m'aimez, ne vous hâter point de conclure ce mariage.
+
+**** *book_ *id_I02 *act_I *date_1704
+
+-*who_monsieurdubuisson
+Eh bien !
+Qu'as-tu appris ?
+Sais-tu quelque chose ?
+As-tu quelque éclaircissement ?
+
+-*who_lamontagne
+Oh !
+Vraiment, oui, monsieur, vous avez soupçonné juste : toutes ces fêtes-là, toute cette musique qui nous fait coucher si tard et qui nous éveille si matin…
+
+-*who_monsieurdubuisson
+Eh bien ?
+
+-*who_lamontagne
+Eh bien !
+Monsieur, c'est quelque joli homme amoureux de mademoiselle votre fille, qui fait toutes ces galanteries-là, assurément.
+
+-*who_monsieurdubuisson
+Cela ne vient donc pas de monsieur Caton ?
+
+-*who_lamontagne
+Comment, de monsieur Caton ?
+Ce vilain monsieur qui est ici depuis quelques jours ?
+Est-ce que… Mais, par ma foi… Attendez, vous me faites rêver à une chose… Oui, justement… Mais cet animal-là aurait-il l'esprit… Oui da, oui da.
+Quelque vilain qu'on soit, l'amour donne des manières, quelquefois.
+Allez, monsieur, je me rappelle des choses ; il faut que ce soit lui, sur ma parole.
+
+-*who_monsieurdubuisson
+Mais sur quoi fonder tes conjonctures ?
+
+-*who_lamontagne
+Sur quoi ?
+Il est fort riche, monsieur Caton.
+
+-*who_monsieurdubuisson
+Oh !
+Beaucoup.
+
+-*who_lamontagne
+Et passablement fat, à ce qu'il me paraît.
+
+-*who_monsieurdubuisson
+Oh !
+Pour cela… C'est ce que…
+
+-*who_lamontagne
+C'est lui, monsieur.
+Il n'y a qu'un homme riche et sot qui puisse faire ces dépenses-là.
+
+-*who_monsieurdubuisson
+Mais qu'as-tu appris dans le village encore ?
+
+-*who_lamontagne
+Dans le village, monsieur ?
+Je ne m'en suis pas tenu là, j'ai été jusqu'à Paris pour être mieux informé.
+
+-*who_monsieurdubuisson
+Jusqu'à Paris ?
+
+-*who_lamontagne
+Oui vraiment.
+Il n'y a qu'une bonne lieue d'ici, et il y envoie lui, deux ou trois fois par jour.
+Il a trois ou quatre personnes dans le village qui ne font autre chose qu'aller et venir.
+
+-*who_monsieurdubuisson
+L'extravagant !
+
+-*who_lamontagne
+J'ai fait connaissance avec ces messieurs-là sans faire semblant de rien.
+Ils sont partis, je les ai suivis.
+
+-*who_monsieurdubuisson
+Eh bien ?
+Eh bien ?
+
+-*who_lamontagne
+Eh bien !
+Monsieur, nous sommes arrivés : l'un a été dans la rue Saint-Honoré, chez des marchants d'étoffes, l'autre chez des marchands joailliers, sur le quai des Morfondus, celui-ci chez Crépi, celui-là chez Lamorlière.
+
+-*who_monsieurdubuisson
+Mais cela ne conclut rien pour Monsieur Caton, et ils ne t'ont point dit que ce fût lui qui les employât.
+
+-*who_lamontagne
+Non, vraiment, ce sont des gens fort discrets : mais cela n'empêche pas qu'on ne voie fort bien que des joailliers, des marchands de vins, des rôtisseurs… Il y a bien de la profusion là-dedans, bien du dérangement d'esprit, et je ne crois pas moi, que vous fussiez d'humeur à donner votre fille à un homme comme cela.
+
+-*who_monsieurdubuisson
+Si j'étais sûr que ce fût lui : mais je ne vois rien encore qui me persuade…
+
+-*who_lamontagne
+Cela est vrai, il n'y a rien de positif : mais c'est déjà beaucoup que de soupçonner.
+Ne vous hâtez point de rien conclure, monsieur.
+
+-*who_monsieurdubuisson
+Non, je veux approfondir la chose.
+
+-*who_lamontagne
+Vous ne sauriez mieux faire.
+L'éclaircissement vous éclaircira si…
+
+-*who_monsieurdubuisson
+Je l'attendrai l'éclaircissement.
+Toi, ne pars point pour ta garnison que ce mystère ne soit découvert.
+
+-*who_lamontagne
+Je n'ai garde de vous quitter dans le fort de cette affaire-ci, monsieur.
+
+-*who_monsieurdubuisson
+J'ai pris confiance en toi.
+
+-*who_lamontagne
+Vous me faites bien de l'honneur.
+
+-*who_monsieurdubuisson
+Et je reconnaîtrai tes bons offices.
+
+-*who_lamontagne
+Je ne suis pas en peine de la reconnaissance, et pour le peu que j'en mériterai de sa part… Mais voici la jardinière.
+
+**** *book_ *id_I03 *act_I *date_1704
+
+-*who_mathurine
+Ah !
+Vous voilà, monsieur de la Montagne, il y a une heure que votre maître…
+
+-*who_lamontagne
+Eh !
+Paix, paix, madame Mathurine ; êtes-vous folle de ne me pas appeler votre neveu ?
+
+-*who_mathurine
+Ah !
+Vous avez raison, et je n'y songeais pas.
+Votre maître donc, il y a une heure…
+
+-*who_lamontagne
+Encore ?
+Ah !
+Tout est perdu.
+Avez-vous le diable au corps, ma tante Mathurine ?
+Est-ce que j'ai un maître, moi ?
+
+-*who_mathurine
+Oui voirement vous en avez un.
+Ce jeune monsieur qui a baillé de l'argent à notre homme pour être garçon jardinier, n'est pas votre maître ?
+Que voulez-vous dire ?
+Est-ce que je suis une bête.
+
+-*who_lamontagne
+Oh !
+Pour cela oui, très fort.
+Votre garçon jardinier est un jardinier, et moi je suis votre neveu, sergent de milice.
+On vous a dit cent fois…
+
+-*who_mathurine
+Ça est vrai, j'ai tort, je n'y serai plus attrapée…
+
+-*who_lamontagne
+À la bonne heure ; mais, pour éviter les inconvénients, il ne faut pas que nous ayons longue conversation ensemble.
+Jusqu'au revoir, ma tante Mathurine.
+
+-*who_mathurine
+Mais songez donc que votre maître… Le garçon jardinier vous cherche pour vous parler, mon neveu de la milice.
+
+**** *book_ *id_I04 *act_I *date_1704
+
+-*who_mathurine
+Ils avont bian faire et bian dire, je ne saurais m'accoutumer à ce qui n'est point.
+Mais quelle fantaisie a ce monsieur de se faire paysan, et à son homme de chambre de vouloir être le neveu de Lucas ?
+Le voilà lui-même ; il faut qu'il me dise pourquoi ça se fait.
+
+**** *book_ *id_I05 *act_I *date_1704
+
+-*who_lucas
+Bonjour, Mathurine, je sis bian aise que ce soit toi.
+Es-tu toute fine seule ?
+
+-*who_mathurine
+Eh !
+Parguenne tu le vois bian.
+
+-*who_lucas
+N'y a-t-il personne qui nous écoute ?
+
+-*who_mathurine
+Non voirement.
+
+-*who_lucas
+Ce ne sont pas ici des vétilleries, vois-tu ?
+
+-*who_mathurine
+À qui en as-tu donc, Lucas ?
+Je ne t'ai jamais vu si étrange.
+
+-*who_lucas
+Je le crois morgué bian : ma fortune est faite.
+
+-*who_mathurine
+Ta fortune, da ?
+Et la mienne, Lucas ?
+
+-*who_lucas
+Paix, motus, Mathurine, et la tienne itou.
+Ô çà, acoute, te sens-tu capable de garder un secret bian secrètement ?
+
+-*who_mathurine
+Oh !
+Pour ça, oui.
+Tiens, il m'est arrivé je ne sais combien de choses que je me serais plutôt fait hacher que te les dire à toi-même.
+
+-*who_lucas
+Bon ; il faut toujours faire comme ça : c'est une belle chose que le secret.
+
+-*who_mathurine
+Ne te mets pas en peine, et dis-moi tout au plus tôt…
+
+-*who_lucas
+Aga, tiens, Mathurine, je ne sais pas encore trop bien ce que c'est.
+Morgué, pourquoi faut-il que je ne sachions pas lire ni l'un ni l'autre ?
+
+-*who_mathurine
+Eh !
+Qu'est-ce que ça fait à notre fortune ?
+
+-*who_lucas
+Ce que ça y fait ?
+Tiens, voilà un papier qui est tombé de la poche de ce drôle que j'appelons notre neveu.
+
+-*who_mathurine
+Eh bien ?
+
+-*who_lucas
+Eh bien !
+C'est le factoton de ce jeune capitaine qui s'est fait garçon jardinier.
+
+-*who_mathurine
+Je le sais bien.
+
+-*who_lucas
+Or, ces gens-là, tu sais, remuont l'argent à la pelle ; ils faisont jouer, tu sais, jour et nuit les ménétriers dans le village ; ils tiront, tu sais, des fusées et des artifices sur l'iau.
+Ils m'ont baillé, tu sais, quinze pièces d'or pour que le capitaine devenît notre garçon, et son homme de chambre notre neveu, tu sais ?
+
+-*who_mathurine
+Eh bien ?
+Je sais, je sais : si je sais tout ça, pourquoi me le dire ?
+
+-*who_lucas
+Ah !
+Morguenne, bellement, Mathurine ; Tredame, t'es bien prompte.
+Ce que je te dis là, vois-tu, c'est à celle fin de te faire mieux entendre que ce capitaine-là est un homme riche, vois-tu, queuque maltôtier ; que c'est là, vois-tu, queuque bon papier de conséquence, queuque contrat de constitution, vois-tu, queuque lettre de change.
+
+-*who_mathurine
+Ça pourrait bien être.
+
+-*who_lucas
+J'ai marguenne opinion que ça est.
+Tatigué que d'envieux, que de gens fâchés dans le village, quand ils verront Mathurine et Lucas dans un biau carrosse !
+Car, vois-tu, je ne sommes pas pour en demeurer là.
+Si j'ai une fois de l'argent, crac, je me boute dans les affaires, je me fais partisan, tu seras partisane ; j'achèterons queuque charge de noblesse, et pis, et pis, on oubliera ce que j'avons été, et je ne nous en souviendrons morgué peut-être pas nous-mêmes.
+
+-*who_mathurine
+Je deviendrions nobles, Lucas ?
+J'aurions carrosse ?
+
+-*who_lucas
+Pourquoi non ?
+Je ne sommes pas les premiers paysans qui aurions fait fortune.
+
+-*who_mathurine
+Mais, acoute, Lucas, n'est ce point voler que de ne pas rendre ce papier à ce monsieur à qui il appartient ?
+
+-*who_lucas
+Bon, voler une feuille de papier, et pis, après tout, il n'y a pas de mal à ça : un paysan prendre à un capitaine, et au fils d'un maltôtier encore, ce n'est pas voler que ça, c'est prendre sa revanche.
+
+-*who_mathurine
+Tu as raison.
+Montre-moi ce papier, Lucas : donne, Lucas, donne.
+
+-*who_lucas
+Bellement donc, ne va pas le déchirer.
+
+-*who_mathurine
+Eh !
+Lucas, c'est de l'écriture dont on écrit les livres, je pense ?
+
+-*who_lucas
+Eh !
+Oui, tant mieux, c'est de la meilleure stelle-là, de la plus véritable, de celle qu'on croit davantage… Eh !
+Margué, que fais-tu ?
+T'es mal adroite ; ce n'est pas comme ça que ça se tient, c'est comme ça.
+J'ons déjà queuque connaissance, vois tu.
+Tiens, Mathurène, que je te montre ; tout ce qui est blanc, vois-tu, c'est le papier, et tout ce qui est noir, c'est les lettres.
+
+-*who_mathurine
+Tredame, Lucas, tu sais déjà lire.
+
+-*who_lucas
+Tredame, toi-même.
+N'est-ce pas biaucoup que de savoir faire la différence ?
+Mais voici nos deux drôles, ils donnont à plein collier dans l'ornière ; car je me doute qu'ils parlont de ça.
+Retourne-t-en à la cuisine, pendant que je m'en vais les acouter, moi, sans faire semblant de rian.
+Ah !
+Tatigué, que je sis un rusé marle !
+
+**** *book_ *id_I06 *act_I *date_1704
+
+-*who_lamontagne
+Il faut finir cette affaire-ci d'une manière ou d'une autre, monsieur ; et si monsieur votre père est encore huit jours sans apprendre de vos nouvelles, je vous le garantis défunt, ou, tout au moins, fou à lier.
+
+-*who_leandre
+Il est donc bien en peine de moi ?
+
+-*who_lamontagne
+Il en perd l'esprit, vous dis-je, et le bruit court dans le quartier que vous avez été pendu.
+
+-*who_leandre
+Maraud…
+
+-*who_lamontagne
+Ce n'est point un conte, monsieur : vous avez mandé, il y a un mois, que vous reveniez ; on vous sait parti d'Allemagne, vous n'arrivez point : tout le monde veut que des chenapans, que nous avons, dit-on, trouvés en chemin, nous aient, vous et moi, greffés tous deux sur quelque vieux chêne.
+
+-*who_leandre
+La ridicule imagination !
+
+-*who_lamontagne
+Moins ridicule que la vérité : car, enfin, y a-t-il rien de plus bizarre que ce que nous faisons ici ?
+Vous voilà garçon jardinier, vous qui ne savez pas comme croit une ciboule.
+
+-*who_leandre
+Ne parlons point de cela.
+Personne ne t'a reconnu à Paris ?
+Tu t'es informé de tout sans t'exposer…
+
+-*who_lamontagne
+Oh !
+Pour cela, oui, je vous en réponds ; mais j'ai pourtant été bien tenté de me découvrir.
+
+-*who_leandre
+Eh !
+Pourquoi ?
+
+-*who_lamontagne
+Pourquoi, morbleu ?
+Tenez, monsieur, voilà les billets que fait courir monsieur votre père ; il y en a même d'affichés au coin des rues.
+Où diantre aurai-je mis ce billet ?
+Il sera tombé de ma poche ; vous verrez que je l'aurai perdu.
+
+-*who_lucas
+Et que je l'aurai trouvé, moi.
+La belle chienne de fortune !
+
+-*who_leandre
+Qu'est-ce que c'est que ce billet ?
+Que veux-tu dire ?
+
+-*who_lamontagne
+Je ne sais ce que j'en ai fait ; mais je vous en dirai le sens : Trente pistoles à gagner pour qui donnera, chez monsieur Orgon, des nouvelles d'un jeune officier sur la route d'Allemagne ; le jeune homme, de taille ni petite ni grande, l'encolure déchargée, la jambe sèche et qui porte au vent.
+
+-*who_leandre
+Tu te moques ?
+
+-*who_lamontagne
+Je ne me moque point.
+
+-*who_lucas
+Trente pistoles à gagner !
+C'est toujours quelque chose.
+Achevons d'acouter, c'est le moyen d'apprendre.
+
+-*who_leandre
+Mon père n'y songe pas : le pauvre bonhomme !
+J'admire sa simplicité.
+
+-*who_lamontagne
+Dites plutôt son bon naturel.
+Allons, monsieur, que cela vous touche, arrachez-vous à cette passion extravagante qui vous retient ici.
+
+-*who_leandre
+Eh !
+Le moyen de m'en arracher ?
+Regarde ce portrait, mon pauvre la Montagne.
+
+-*who_lamontagne
+Voilà une jolie personne, je vous l'avoue.
+
+-*who_leandre
+Admire la fatalité de mon étoile : je pars de l'armée dans la résolution d'obéir aux ordres de mon père.
+
+-*who_lamontagne
+Ces bons sentiments-là ne vous ont pas duré.
+
+-*who_leandre
+Il n'attendait que mon retour à Paris pour me marier.
+
+-*who_lamontagne
+C'est ce qui vous fait craindre d'arriver ?
+
+-*who_leandre
+On ne peut échapper à sa destinée.
+
+-*who_lamontagne
+Vous vous livrez de bonne grâce à la vôtre.
+
+-*who_leandre
+Ma chaise se brise au milieu d'un bois.
+
+-*who_lamontagne
+Éloigné des postes.
+
+-*who_leandre
+Je me vois obligé de prendre place dans le carrosse de Metz.
+
+-*who_lamontagne
+Que le hasard fait passer par là tout à propos.
+
+-*who_leandre
+J'y trouve une jeune beauté, toute charmante, toute adorable.
+
+-*who_lamontagne
+Cela est bien heureux.
+
+-*who_leandre
+Que sa mère vient de retirer du couvent.
+
+-*who_lamontagne
+Surcroît de charmes et de mérite.
+
+-*who_leandre
+Je suis contraint de lui rendre les armes.
+
+-*who_lamontagne
+À trente lieues de Paris, qui se serait défié de l'embuscade ?
+Tous les ennemis ne sont pas au-delà de la frontière, monsieur.
+
+-*who_leandre
+Quel ennemi !
+Il est d'un sexe à qui les plus grands hommes font gloire de céder.
+
+-*who_lamontagne
+Bon, les plus grands hommes !
+Morale d'opéra, monsieur, fades discours ; on ne se rend que quand on veut bien ne pas résister.
+Mais venons-en au fait, s'il vous plaît ; j'ai eu la complaisance de m'accorder à vos visions, il faut continuer puisque j'ai commencé.
+Vous aimez Lucile ?
+
+-*who_leandre
+À la fureur.
+
+-*who_lamontagne
+Elle ne sait rien encore de votre amour ?
+
+-*who_leandre
+J'attends l'occasion de me découvrir.
+
+-*who_lamontagne
+Vous ne tarderez pas à la trouver.
+Ensuite ?
+
+-*who_leandre
+Si mon amour lui plaît, je la demanderai à son père.
+
+-*who_lamontagne
+Il a des engagements avec un autre.
+
+-*who_leandre
+Il faut les rompre.
+
+-*who_lamontagne
+J'ai commencé d'y travailler.
+
+-*who_leandre
+Cela n'est rien, si tu n'achèves.
+
+-*who_lamontagne
+Il nous faudra le consentement du vôtre.
+
+-*who_leandre
+Nous tâcherons de l'obtenir.
+
+-*who_lamontagne
+Cela sera difficile.
+
+-*who_leandre
+Cela ne sera pas impossible.
+
+-*who_lamontagne
+Nous aurons besoin d'argent.
+
+-*who_leandre
+Voilà ma bourse.
+
+-*who_lamontagne
+Fort bien, monsieur, vous avez réponse à tout.
+Malepeste, quel embonpoint de bourse !
+Celle-là ne se sent point des fatigues de la guerre, et ce n'est pas là la bourse uniforme du régiment.
+
+-*who_leandre
+As-tu fait donner ordre chez Crépi ?
+
+-*who_lamontagne
+Ne vous embarrassez de rien, je ruinerai votre rival dans l'esprit de monsieur Dubuisson ; je lui mettrai sur le corps toutes les sottises que vous faites… Présents, bijoux, cadeaux, sérénades ; j'ai pris mes mesures pour toutes choses : voilà de l'argent, laissez-moi faire, les mesures ne manqueront pas, sur ma parole.
+Songez seulement à découvrir à Lucile…
+
+**** *book_ *id_I07 *act_I *date_1704
+
+-*who_lucas
+Eh !
+Gare !
+Gare !
+Enfuyez-vous-en : velà monsieur Dubuisson qui viant envars ici ; il soupçonnera queuque chose, s'il vous trouve ensemble.
+
+-*who_leandre
+Il a raison, je me retire.
+
+-*who_lamontagne
+Et moi de mon côté…
+
+-*who_lucas
+Eh !
+Là, là, bellement, ne vous enfuyez pas, vous ; ce n'est pas pour vous qu'il viant, monsieur Du buisson, ce n'est que pour li.
+
+-*who_lamontagne
+Comment donc ?
+
+-*who_lucas
+Avec votre permission, mon neveu de la milice, j'ai queuque petite parole à vous dire.
+
+-*who_lamontagne
+C'est encore de l'argent qu'il demande ; je n'ai jamais vu de coquin plus intéressé.
+
+-*who_lucas
+Allons, palsangué, boutez dessus ; puisque vous êtes mon neveu, point de çarémonie.
+Qu'est-ce que c'est donc que ces trente pistoles qu'il y a à gagner pour qui baillera de certaines nouvelles, là…
+
+-*who_lamontagne
+Je ne vous entends pas.
+
+-*who_lucas
+Parguenne, je vous ai bian entendu, moi ; je sais tout le contenu de l'affiche que vous avez perdue, et c'est justement moi qui l'ai trouvée.
+
+-*who_lamontagne
+Justement ?
+
+-*who_lucas
+Trente pistoles à gagner !
+Foin de ma curiosité, je voudrais morgué point biaucoup ne savoir rien de ça, voyez-vous.
+
+-*who_lamontagne
+Comment, comment donc ?
+
+-*who_lucas
+Ces trente pistoles-là me feront perdre l'esprit ; oh !
+Pour ça, oui, elles me renversont la cervelle, monsieur de la Montagne.
+
+-*who_lamontagne
+Eh !
+Par quelle raison ?
+
+-*who_lucas
+Il me vient des scrupules.
+
+-*who_lamontagne
+Des scrupules à toi ?
+
+-*who_lucas
+Oui, voirement, des scrupules.
+Vous m'avez donné quinze pistoles.
+
+-*who_lamontagne
+Eh bien !
+Quinze pistoles : voudrais-tu les rendre ?
+
+-*who_lucas
+Moi, rendre de l'argent ?
+Vous n'y songez pas ; je sis fillot d'un procureur de Paris.
+
+-*who_lamontagne
+Mais d'où viennent donc ces scrupules ?
+Sur ce que pour servir mon maître, tu trompes le tien ?
+
+-*who_lucas
+Oh !
+Palsanguenne, non, vous me payez pour ça.
+
+-*who_lamontagne
+Eh bien donc ?
+
+-*who_lucas
+Ça n'est rien, ça se passera.
+
+-*who_lamontagne
+Mais encore ?
+
+-*who_lucas
+Et, mais, vous m'avez baillé quinze pistoles pour ne rien dire que c'est votre maître qui est ici.
+
+-*who_lamontagne
+Eh bien ?
+
+-*who_lucas
+Et son père en promet trente à sti qui li dira où il est : je me fais comme ça des scrupules.
+
+-*who_lamontagne
+Voilà un maître maroufle avec ces fantômes.
+
+-*who_lucas
+Je ne saurais sarvir sti-ci sans tromper sti-là, voyez-vous, et j'ai dans l'imagination que ce serait blesser ma conscience, si je ne sarvais pas sti qui promet le plus, au préjudice de sti qui baille le moins.
+
+-*who_lamontagne
+Oui da, oui da, il y a quelque chose à dire à cela.
+Le dangereux coquin !
+
+-*who_lucas
+Conseillez-moi un peu là-dessus, monsieur de la Montagne, vous qui êtes un si honnête homme.
+
+-*who_lamontagne
+Je vois bien ce qu'il y a à faire : tiens, voilà encore quinze louis d'or pour mettre les choses dans l'équilibre.
+
+-*who_lucas
+Tatigué, que vous êtes de bon conseil, monsieur de la Montagne !
+Mais, attendons un peu… Oui… tout juste, me voici un peu plus embarrassé qu'auparavant.
+
+-*who_lamontagne
+Comment ?
+Tu rêves.
+Serait-ce encore quelque scrupule ?
+
+-*who_lucas
+Palsangué, oui, je ne suis plus queu parti prendre avec votre peste d'équilibre.
+Pour que la balance penche de queuque côté, il faut du poids de plus, monsieur de la Montagne.
+
+-*who_lamontagne
+Voilà encore quatre louis, seras-tu content ?
+
+-*who_lucas
+On ne peut pas plus.
+Je vous sarvirons comme vous nous payez, à bonne mesure.
+
+-*who_lamontagne
+Oui ?
+Tu nous es d'un grand secours, vraiment.
+
+-*who_lucas
+Morguenne, vous ne savez pas ce que je risque, si monsieur Dubuisson ou madame sa femme venont à savoir que je me suis baillé pour compagnon de jardinage un jardinier qui n'est pas jardinier.
+
+-*who_lamontagne
+Et qui diantre veux-tu qui le lui dise, gros animal ?
+
+-*who_lucas
+Et que sais-je, moi ?
+Mademoiselle Lucile elle-même, peut-être : elle est fille et jaseuse, elle dégoisera queuque chose ; et sa suivante, mademoiselle Marthon, qui est itou une babillarde, et pis velà tout justement comment les choses se découvriront, monsieur de la Montagne.
+
+-*who_lamontagne
+Va, ne crains rien : elles n'ont garde de parler ni l'une ni l'autre, et Mademoiselle Lucille ne sait encore rien de la passion de mon maître, elle ne le connaît pas pour ce qu'il est.
+
+-*who_lucas
+Eh !
+Fi donc, vous m'en baillez à garder ; queu peste de conte !
+Si alle ne le connaissait pas, lui aurait-elle baillé sa portraiture ?
+
+-*who_lamontagne
+Paix, tais-toi, ne parle point de cela.
+Il ne faut pas qu'elle sache que mon maître a son portrait ; nous ne l'avons eu que par surprise.
+
+-*who_lucas
+Et comment, par surprise ?
+Expliquez-moi ça, monsieur de la Montagne.
+Effectivement, ça est bien surprenant.
+
+-*who_lamontagne
+Pas trop.
+Elle passe quelquefois des heures entières sur le grand balcon du côté de la rue ; un peintre de nos amis a trouvé le moyen de tirer le portrait que mon maître porte au bras, et que le hasard t'a fait voir.
+
+-*who_lucas
+Tatigué, l'habile peintre !
+J'ons vu le portrait, ça lui ressemble comme deux gouttes d'iau.
+
+-*who_lamontagne
+Souviens-toi de n'en point parler.
+
+-*who_lucas
+Mais, velà bien des secrets à garder, monsieur de la Montagne : c'est une nouvelle augmentation de peine.
+Ne faudrait-il point encore queuque petit salaire pour cette peine-là ?
+
+-*who_lamontagne
+On te paiera tout à la fin, si nos projets peuvent réussir.
+
+-*who_lucas
+Ils réussiront dès que ne serez pas épargnant ; car, voyez-vous, ce n'est pas pour me vanter, mais je sis un drôle qui aime bian l'argent, je vous en avertis.
+
+-*who_lamontagne
+J'en suis convaincu.
+Mais, dis-moi un peu une chose : ne soupe-t-il pas aujourd'hui quelqu'un avec monsieur Dubuisson ?
+
+-*who_lucas
+Et, palsanguenne, oui.
+Ils sont un tas de bourgeois et de bourgeoises, qui avont chacun envoyé leur plat, parce qu'ils savont que notre maître est un tantinet ladre.
+Oh !
+Parguenne, il y a de quoi manger ; j'avons morgué deux cochons de lait, trois longes de viau, un gros aloyau, quatre gigots et une tarrinée de bœuf à la mode.
+
+-*who_lamontagne
+Voilà une petite chère bien délicate.
+Allons, allons, nous la leur ferons faire meilleure qu'ils ne pensent, et nous en feront honneur à monsieur Caton.
+
+-*who_lucas
+Hem, plaît-il ?
+Que dites-vous ?
+
+-*who_lamontagne
+Rien.
+Va-t-en voir ici près à l'Épée-Royale s'il n'y est point encore arrivé trois carrossées d'hommes et de femmes à qui j'ai donné rendez-vous.
+
+-*who_lucas
+Trois carrossées !
+Velà bien du monde : qu'est-ce que vous voulez faire de tout ça ?
+
+-*who_lamontagne
+Tu le sauras : va vite, et viens me rendre réponse.
+
+-*who_lucas
+Oui, oui, je m'en vas vite, allez.
+Mais j'irai plus loin que l'Épée-Royale, et je gagnerai l'argent de l'affiche.
+
+**** *book_ *id_I08 *act_I *date_1704
+
+-*who_leandre
+Mon pauvre la Montagne, voici Lucile et Marthon qui viennent de ce côté-ci ; elles parlent ensemble : je me flatte d'avoir entendu quelque chose qui me regarde ; je voudrais bien en savoir davantage, comment faire ?
+
+-*who_lamontagne
+Achevez d'écouter, et suivant ce que vous entendrez, prenez occasion de vous déclarer ou de vous taire.
+Voici un endroit tout propre à vous cacher, mettez-vous sur ce gazon et faites semblant de dormir : il est assez naturel qu'un garçon jardinier s'endorme sur l'herbe au lieu de travailler.
+
+-*who_leandre
+Les voici.
+Que Lucile est belle, et que je suis amoureux !
+
+-*who_lamontagne
+Tout ira bien.
+Écoutez, parlez à propos, et me laisser faire le reste.
+
+**** *book_ *id_I09 *act_I *date_1704
+
+-*who_marthon
+Mort de ma vie, mademoiselle, vous n'êtes pas de bonne foi ; vous ne me dites point naturellement ce que vous avez dans l'âme.
+
+-*who_lucile
+Mais, que veux-tu que je te dise ?
+
+-*who_marthon
+Ce que vous avez.
+
+-*who_lucile
+J'ai du chagrin, Marthon.
+
+-*who_marthon
+Du chagrin !
+Vous voilà fraîchement sortie du couvent, où je sais bien que vous enragiez d'être ; on va vous marier, et vous avez du chagrin ?
+Je ne comprends pas…
+
+-*who_lucile
+Hélas !
+Marthon.
+
+-*who_marthon
+Vous soupirez, vous levez vos yeux au ciel ; oh !
+Je comprends à présent : vous êtes amoureuse, mademoiselle.
+
+-*who_lucile
+Ah !
+Marthon, ne va pas t'imaginer…
+
+-*who_marthon
+Je n'imagine rien que de juste, et je gage que ce n'est pas du mari qu'on vous destine que vous êtes amoureuse.
+Vos parents ont fait un choix pour vous sans vous consulter ; vous en avez fait un autre, vous, en votre petit particulier, sans prendre leur avis, et vous n'avez pas grand tort ; leur monsieur Caton est bien le plus vilain mâtin, le plus disgracié mortel, avec son tic et son bégaiement ; je ne connais que votre cousin, monsieur l'avocat, qui soit encore aussi ridicule.
+
+-*who_lucile
+Ah !
+Ma chère Marthon, que tous les hommes ne sont-ils faits comme ces deux-là ?
+
+-*who_marthon
+Fort bien, je vous entends.
+Si tous les hommes étaient faits comme eux, votre petit cœur serait moins agité, n'est-ce pas ?
+
+-*who_lucile
+Parle bas, ma pauvre Marthon.
+
+-*who_marthon
+Eh bien !
+Oui, volontiers ; mon dessein n'est pas de vous nuire.
+Hé bien ?
+
+-*who_lucile
+Hé bien !
+Marthon, je n'ai rien à te dire.
+
+-*who_marthon
+Je m'en vais parler haut.
+
+-*who_lucile
+Eh !
+Non, non, doucement.
+
+-*who_marthon
+Vouloir qu'on parle bas, et ne rien avouer, cela me révolte.
+Vous rougissez, c'est une manière de s'expliquer dont je vous sais gré.
+La pudeur sied à merveille sur le visage d'une jeune personne, c'est dommage que le mode en passe.
+Oh !
+Ça, ça, remettez-vous ; je sais bien qu'un aveu tendre coûte à faire à une fille qui sort du couvent, mais cela viendra ; le mot d'amour vous effarouche à présent, mais l'usage adoucira le mot et la chose, et vous ne l'aurez pas entendu prononcer cinq ou six fois, que vous en aurez pris l'habitude.
+
+-*who_lucile
+En effet, Marthon, tu es une personne admirable, et tes discours me donnent une certaine confiance.
+Je me sens plus de résolution… Mais, non, je n'aurai jamais la force de te le dire.
+
+-*who_marthon
+Quoi dire ?
+
+-*who_lucile
+Qu'il est vrai, Marthon, que je crois que j'ai de l'amour.
+
+-*who_marthon
+Eh, mort de ma vie !
+C'en est fait, le voilà tout dit.
+Avouez que vous voilà bien soulagée ; car, après l'aveu de la chose, celui des circonstances est compté pour rien.
+Il ne faut pas demander si le chevalier que vous aimez a beaucoup de mérite.
+
+-*who_lucile
+Oh !
+Tant, Marthon.
+
+-*who_marthon
+Je m'en doute bien.
+S'il est jeune, galant, bien fait.
+
+-*who_lucile
+Tout des plus galants, des plus jeunes, des mieux faits.
+
+-*who_marthon
+La pauvre enfant !
+Il ne faut plus chercher de qui sont les fêtes galantes qui se donnent ici depuis quelques jours ; c'est ce jeune amant, sans doute ?
+
+-*who_lucile
+Hélas !
+Non, Marthon, ce n'est point lui ; il ignore où je suis, mon nom même ne lui est peut-être pas connu.
+
+-*who_marthon
+Comment donc, vos affaires ne sont pas plus avancées que cela ?
+
+-*who_lucile
+Il n'a pas tenu à lui ni à moi, ma chère Marthon, et si j'en crois ses yeux et mon cœur…
+
+-*who_marthon
+Ses yeux et mon cœur !
+Comment, diantre, voilà du style le plus tendre, le plus délicat.
+S'expliquer ainsi en sortant du couvent !
+Ah !
+Nature !
+Nature !
+
+-*who_lucile
+Mais ma mère, qui, comme tu sais, est venue me chercher à Metz elle-même, nous a si fort observée l'un et l'autre pendant toute la route…
+
+-*who_marthon
+Comment donc, pendant toute la route ?
+C'est donc une aventure de carrosse que celle-ci ?
+
+-*who_lucile
+Hélas !
+Oui, Marthon.
+
+-*who_marthon
+La pauvre enfant !
+Que je la plains !
+
+-*who_lucile
+Je sais combien je suis à plaindre.
+Je me suis dit tout ce qu'on se peut dire ; je sens tout le ridicule de ma passion ; mais elle est telle, chère Marthon, que je ne suis plus maîtresse de la vaincre, et que je serai malheureuse toute ma vie.
+
+-*who_marthon
+Oh !
+Pour le coup, je suis bien fâchée de n'avoir pas été du voyage.
+Mais ne savez-vous point à peu près qui est ce jeune homme ?
+
+-*who_lucile
+Un Officier qui revenait d'Allemagne : sa chaise de poste rompit en chemin, il prit place dans le carrosse, je fus surprise en le voyant ; il me parut embarrassé comme moi, et tant que nous avons pu nous voir, nous n'avons point cessé de nous regarder l'un l'autre que quand ma mère nous regardait.
+
+-*who_marthon
+Les pauvres enfants !
+
+-*who_lucile
+Il me donnait la main quand nous descendions du carrosse, et il me la serrait avec tant d'ardeur…
+
+-*who_marthon
+Vous serriez la sienne ?...
+
+-*who_lucile
+Non, Marthon, je n'osais pas encore.
+
+-*who_marthon
+Cela est bien modeste.
+Et ne vous a-t-il point dit quelque bagatelle, glissé quelque petit mot ?
+
+-*who_lucile
+Oui, Marthon ; mais si adroitement, si spirituellement…
+
+-*who_marthon
+Et comment, encore ?
+
+-*who_lucile
+Il y avait dans notre même carrosse une jeune fille qui n'avait point de mère.
+
+-*who_marthon
+Qu'elle était heureuse !
+Eh bien ?
+
+-*who_lucile
+Eh bien !
+Marthon, il lui disait les plus jolies choses, les plus tendres, les plus amoureuses, et tout cela, Marthon, en me regardant toujours.
+Oh !
+Je voyais bien que c'était à moi que cela s'adressait.
+
+-*who_marthon
+Par bricole ; fort bien.
+Au bout du compte ?
+
+-*who_lucile
+Au bout du compte, nous sommes arrivés à Paris ; la fin du voyage nous a séparés ; il n'a point eu depuis de mes nouvelles, ni moi des siennes.
+
+-*who_marthon
+Voilà une passion qui aura de belles suites !
+Allez, mademoiselle, le meilleur parti que vous puissiez prendre, c'est d'oublier ce jeune homme là, et de ne pas penser que vous l'ayez vu.
+
+-*who_lucile
+Je ne saurais, Marthon, je l'ai trop regardé ; je crois le voir à tous moments, je cherche ses traits, son air, son regard, ses manières dans tout ce qui s'offre à mes yeux.
+
+-*who_marthon
+Vous ne trouvez rien qui lui ressemble, je gage ?
+
+-*who_lucile
+Si fait, Marthon ; mais je n'ose te le dire.
+
+-*who_marthon
+Parlez, parlez, ne craignez rien.
+
+-*who_lucile
+Ce nouveau jardinier qui est ici depuis quelques jours…
+
+-*who_marthon
+Qui, Colin ?
+
+-*who_lucile
+Il me paraît qu'il lui ressemble un peu.
+
+-*who_marthon
+Mais, vraiment, il n'est pas mal tourné, ce jeune drôle-là.
+
+-*who_lucile
+Je lui trouve quelques-uns de ses traits, le même air à peu près, les yeux un peu moins vifs à la vérité ; mais…
+
+-*who_marthon
+Vous regarde-t-il de même ?
+
+-*who_lucile
+Ah !
+Pas si amoureusement, Marthon.
+
+-*who_marthon
+Ce n'est donc pas lui.
+Le voilà qui dort sur ce gazon, taisons-nous.
+
+-*who_lucile
+Ah, ciel !
+Marthon, que je serais fâchée qu'il m'eût entendue !
+
+-*who_marthon
+Il n'y a rien à craindre, ces manants-là dorment d'un trop bon somme.
+
+-*who_lucile
+Ah !
+Marthon, si c'était lui et qu'il sentît ce que je sens, il ne dormirait pas si tranquillement.
+
+-*who_marthon
+Oh !
+Je le crois bien.
+Mais que vois-je ?
+Quel bijou pend au bras de monsieur Colin ?
+
+-*who_lucile
+Un bijou, dis-tu ?
+
+-*who_marthon
+Oui, vraiment, un bijou.
+
+-*who_lucile
+Prends donc garde, tu vas l'éveiller.
+
+-*who_marthon
+Comment donc, c'est un portrait, je crois ?
+
+-*who_lucile
+Un portrait ?
+
+-*who_marthon
+Mademoiselle, c'est le vôtre.
+
+-*who_lucile
+Mon portrait ?
+Tu n'es pas sage.
+Et comment, mon portrait !
+Ah, ciel !
+Que vois-je ?
+
+-*who_marthon
+Ah !
+Par ma foi, monsieur Colin est un paysan de la façon de l'amour.
+C'est lui, mademoiselle, c'est votre joli homme.
+
+-*who_lucile
+Ah !
+Ma chère Marthon, mon cœur, mes yeux, mon portrait, tout me le persuade.
+Mais qui m'assurera que ses desseins sont légitimes ?
+Qui me sera garant…
+
+-*who_leandre
+Moi, charmante personne.
+
+-*who_lucile
+Ah !
+
+-*who_marthon
+Colin ne dormait pas, sur ma parole.
+
+-*who_leandre
+Moi qui brûlais de me découvrir à vous, moi qui ne respire et qui ne veux vivre que pour vous, qui n'adore que vous et qui n'ait point d'autre objet, point d'autre passion que d'être à vous tour ma vie !
+
+-*who_marthon
+On vous en offre autant de ce côté-ci.
+
+-*who_lucile
+Ah !
+Ma chère Marthon, quelle surprise !
+
+-*who_marthon
+Il n'est point question de faire la fière ; monsieur Colin a tout entendu.
+
+-*who_leandre
+Oui, mon adorable Lucile, vos sentiments me sont connus ; ne doutez point, je vous en conjure, de la vivacité, de la sincérité des miens.
+
+-*who_marthon
+Ah !
+Mademoiselle, voilà votre père et ce vilain monsieur Caton.
+
+-*who_lucile
+Ah, ciel !
+
+-*who_leandre
+Ne faites semblant de rien, demeurez.
+
+**** *book_ *id_I10 *act_I *date_1704
+
+-*who_monsieurdubuisson
+Ah !
+Ah !
+Que veut dire ceci ?
+Un garçon jardinier aux pieds de ma fille.
+
+-*who_monsieurcaton
+Monsieur Dubuisson…
+
+-*who_leandre
+Comprenez-vous bian, mademoiselle ?
+Velà le corps de logis, la terrasse est comme là, le potager envars ici, et partant, vous voyez bian… Eh !
+Vous velà, monsieur, je vous demande pardon, c'est que…
+
+-*who_monsieurdubuisson
+Que fais-tu là ?
+
+-*who_leandre
+Rian, rian, monsieur : c'est que j'expliquais à ces madames que si vous vouliez, j'aurais dessein de prendre votre potager pour mettre en parterre.
+
+-*who_monsieurdubuisson
+Le beau dessein !
+Et de quoi te mêles-tu ?
+
+-*who_leandre
+De rian, monsieur.
+C'est que de cette manière-là, il ne manquerait plus rian à votre jardin.
+
+-*who_monsieurdubuisson
+Oui ; mais tout manquerait à ma cuisine.
+
+-*who_leandre
+En ce cas, nan pourrait d'un autre côté…
+
+-*who_monsieurdubuisson
+D'un autre côté ?
+Va-t'y en, toi, d'un autre côté.
+Et vous, mademoiselle, allez tenir compagnie à votre mère.
+Mettre mon potager en parterre, le beau projet !
+Et que mettre dans ma soupe ?
+Des tulipes ?
+
+**** *book_ *id_I11 *act_I *date_1704
+
+-*who_monsieurcaton
+Il n'a pas tort, c'est une belle chose qu'un beau parterre.
+
+-*who_monsieurdubuisson
+Oui, fort bien, vous vous découvrez trop.
+Écoutez, monsieur Caton, j'avais dessein de vous donner ma fille, parce que je vous croyais un homme réglé, grand ménager, bon économe ; et par vos discours et vos actions, vous me paraissez tout autre.
+
+-*who_monsieurcaton
+Moi ?
+
+-*who_monsieurdubuisson
+Vous : on dit que toutes ces dépenses ridicules qui se font depuis quelque temps dans le village sont de votre façon.
+
+-*who_monsieurcaton
+Non, ma foi.
+
+-*who_monsieurdubuisson
+N'avez-vous point de honte ?
+
+**** *book_ *id_I12 *act_I *date_1704
+
+-*who_mathurine
+Eh !
+Qu'est-ce que c'est donc que ça, monsieur ?
+Est-ce drès aujourd'hui que vous faites la noce ?
+
+-*who_monsieurdubuisson
+Comment ?
+
+-*who_mathurine
+Il viant d'arriver là-bas quatre hottées de volailles et gibier, avec six charges de bouteilles de vin, quatre grands marmitons et cinq ou six petits, qui, pour vous accommoder à souper, s'établissont dans votre cuisine aussi familièrement qu s'ils étiont chez eux.
+
+-*who_monsieurdubuisson
+Qu'est-ce que cela veut dire ?
+
+-*who_mathurine
+Ils aviont ôté les gigots et les longes de viau que j'avais mis à la broche ; ils aviont été chercher du bois et du charbon dans la cave, qui était ouverte, et ils faisiont des feux de reculée ; ils boutiont tout par écuelle, et ils disiont comme ça qu'il ne vous en coûtera rien, qu'on les laisse faire.
+
+**** *book_ *id_I13 *act_I *date_1704
+
+-*who_monsieurdubuisson
+Je n'y comprends rien, monsieur Caton.
+
+-*who_monsieurcaton
+Ça est pla… plaisant.
+
+-*who_monsieurdubuisson
+Oui, fort plaisant, fort plaisant.
+Eh !
+Le vieux fou !
+
+**** *book_ *id_I14 *act_I *date_1704
+
+-*who_lerotisseur
+Monsieur, voilà le mémoire du soupé.
+Votre homme de chambre a dit que si on ne le trouvait pas ici, qu'on vous le donnât à vous-même.
+
+-*who_monsieurcaton
+À moi, mon homme de chambre ?
+
+-*who_lerotisseur
+Oui, monsieur.
+Vous n'avez qu'à le voir, c'est lui qui payera.
+
+-*who_monsieurcaton
+Va, va, tu te méprends.
+
+-*who_monsieurdubuisson
+Parbleu voyons, ce mémoire nous éclaircira peut-être.
+Mémoire du soupé porté chez monsieur Dubuisson par ordre de monsieur son gendre.
+De mon gendre ?
+Oh !
+Par la ventrebleu il ne l'est pas encore.
+
+-*who_monsieurcaton
+Si je sais ce que c'est, monsieur Dubuisson…
+
+-*who_monsieurdubuisson
+Eh !
+Fi, fi, monsieur, c'est se moquer.
+L'incident est trop naturel.
+Vous aimez la bonne chère, monsieur Caton.
+
+-*who_monsieurcaton
+C'est une pièce qu'on me fait, monsieur Dubuisson.
+
+-*who_monsieurdubuisson
+Deux potages, huit entrées.
+Fort bien.
+Un marcassin, six perdrix, une douzaine de cailles, quatre gelinottes de bois.
+Quel mémoire !
+Voyons la somme.
+Cent quatre-vingt-deux livres dix sous.
+Hé bien !
+Voilà un fort bon ordinaire bourgeois ; une femme ne mourrait pas de faim avec vous, si cela pouvait continuer.
+
+-*who_monsieurcaton
+Je vous jure que…
+
+-*who_monsieurdubuisson
+Allez, vous êtes un vieux fou.
+
+**** *book_ *id_I15 *act_I *date_1704
+
+-*who_mathurine
+Monsieur ?
+
+-*who_monsieurdubuisson
+Qu'est-ce encore ?
+Le dîner de demain ?
+
+-*who_mathurine
+Non, monsieur, c'est ste madame qui est toujours si claire, si luisante.
+
+-*who_monsieurdubuisson
+Que veux-tu dire ?
+
+-*who_mathurine
+Et là, je m'entends bian ; cette grande madame sèche, qui se boute du varnis sur le visage.
+
+-*who_monsieurdubuisson
+Madame la marquise.
+C'est une vieille qui n'a ni enfants ni héritiers, allons la recevoir.
+La peste !
+
+-*who_mathurine
+Il y a itou votre cousin monsieur l'avocat qui est venu avec elle.
+
+-*who_monsieurdubuisson
+Oh !
+Pour cet animal-là, je me passerais bien de sa visite.
+Que diantre vient-il faire ici ce grimacier-là, avec son baragouin ?
+
+-*who_mathurine
+Il dit qu'il viant voir monsieur Caton votre gendre, qu'il n'a jamais vu.
+Le voilà.
+
+**** *book_ *id_I16 *act_I *date_1704
+
+-*who_monsieurdubuisson
+Ah !
+Ah !
+C'est vous, j'en suis bien aise.
+Bonjour, monsieur Bavardin, bonjour, soyez le bienvenu : quand vous en retournez-vous ?
+
+-*who_monsieurbavardin
+Je viens… je viens…
+
+-*who_monsieurdubuisson
+Vous venez, vous venez pour voir monsieur Caton.
+Voyez-le, et lui tenez compagnie, pendant que je vais recevoir madame la marquise.
+Je ne tarderai pas à vous rejoindre.
+
+**** *book_ *id_I17 *act_I *date_1704
+
+-*who_monsieurbavardin
+Je mou... mourais d'envie de vous saluer.
+
+-*who_monsieurcaton
+Et moi de vous voir.
+Votre répu putation m'est co connue.
+
+-*who_monsieurbavardin
+Monsieur Ca...
+Caton se moque de moi, je pense, voyons un peu s'il continuera.
+Je suis ravi que vous épousiez Lu lucile.
+Vous serez cou cou cousin germain de ma mère.
+
+-*who_monsieurcaton
+Pa pa parbleu, il me contrefait.
+Voyons jusqu'où cela ira.
+Ce sera bien de l'ho l'honneur pour moi d'être allié à un homme comme vous, qui est un fou foudre d'éloquence.
+
+-*who_monsieurbavardin
+Et un grand bonheur à la famille de vous vous avoir, vous qui êtes un fa un fa favori de la fortune.
+
+-*who_monsieurcaton
+Vous avez tous les talents et toute la physionomie d'un Cu d'un cu Cujas.
+
+-*who_monsieurbavardin
+Quelque dépense que vous fassiez, on on sait bien que vous sortez de le cai de la cai de la caisse moins d'argent que vous n'y faites entrer.
+
+-*who_monsieurcaton
+Cet homme-là cherche à m'in m'insulter.
+
+-*who_monsieurbavardin
+Cet animal-là se moque de moi.
+
+-*who_monsieurcaton
+Monsieur Ba bavardin, vous êtes un mau mauvais plaisant, je vous en avertis.
+
+-*who_monsieurbavardin
+Et vous un plat plat bou bouffon, monsieur Caton.
+
+-*who_monsieurcaton
+Vous poussez trop la la raillerie, monsieur Bavardin.
+
+-*who_monsieurbavardin
+Vous me tu tu turlupinez mal à propos, monsieur Caton.
+
+**** *book_ *id_I18 *act_I *date_1704
+
+-*who_marthon
+Eh !
+Qu'est-ce donc que ceci, messieurs ?
+À qui en avez-vous ?
+Déjà de la mésintelligence ?
+On voit bien que vous allez devenir parents.
+
+-*who_monsieurcaton
+De quoi ce vi visage-là s'avise-t-il de me contrefaire ?
+
+-*who_monsieurbavardin
+Morbleu, vi visage vous-même ; cela n'est pas vrai, c'est vous qui me con contrefaites.
+
+-*who_marthon
+Ah !
+Ah !
+La plaisante aventure !
+Allez, messieurs, point de rancune, vous ne vous contrefaites ni l'un ni l'autre, et ce sont de petites manières de parler, des agréments de la nature que vous posséder en commun.
+
+-*who_monsieurcaton
+Ah !
+Ah !
+C'est tout autre chose.
+Je vous demande par pardon, monsieur Bavardin.
+
+-*who_monsieurbavardin
+Je suis votre valet, monsieur Caton.
+
+**** *book_ *id_I19 *act_I *date_1704
+
+-*who_monsieurdubuisson
+Mais, parbleu, monsieur Caton, je ne vous comprends pas : avez-vous absolument perdu l'esprit ?
+Il faut être fou à lier pour faire les choses que vous faites.
+
+-*who_monsieurcaton
+Co-comment donc ?
+
+-*who_monsieurdubuisson
+Cela est étrange !
+Je ne suis pas le maître dans ma maison depuis que vous y êtes.
+Ce ne sont que des cadeaux, des festins, des mascarades.
+
+-*who_monsieurbavardin
+Il n'est bruit ici que de votre gal galanterie.
+
+-*who_monsieurcaton
+Je veux être pen pendu, si je sais ce que c'est.
+
+**** *book_ *id_I20 *act_I *date_1704
+
+-*who_lamontagne
+Venez donc voir, monsieur, comment vous voulez faire avec ces masques-là ?
+Il n'y a pas moyen de faire sortir ceux qui sont entrés, ni d'empêcher d'entrer ceux qui sont dehors.
+
+-*who_monsieurdubuisson
+Voilà un bel embarras que vous nous causez là !
+Et je donnerais ma fille à un fou comme vous ?
+
+-*who_monsieurcaton
+Monsieur Dubuisson…
+
+**** *book_ *id_I21 *act_I *date_1704
+
+-*who_mathurine
+Dame, monsieur, venez donc mettre ordre à ça, il n'y a plus moyen d'y tenir ; il faudra déserter, si vous ne faites agrandir la maison.
+
+-*who_monsieurdubuisson
+Ah !
+J'enrage : des masques chez moi qui forcent ma porte ?
+
+-*who_monsieurbavardin
+Je vais mettre ordre à cela.
+
+-*who_monsieurdubuisson
+Voilà ma maison au pillage.
+
+-*who_mathurine
+Non, non, ne craignez rian ; ce sont d'honnêtes gens, ils se recommandent tretous de monsieur Caton.
+
+-*who_monsieurdubuisson
+Oui, justement, voilà l'affaire.
+Ah !
+L'extravagant personnage !
+
+-*who_monsieurcaton
+Que la peste…
+
+-*who_monsieurdubuisson
+Que la peste t'étouffe…
+
+-*who_lamontagne
+Oui, vous avez raison, c'est un tour de son imagination ; et il y a parmi la mascarade une joueuse de gobelets, qui chante, qui danse, qui fait des tours.
+Elle m'a avoué que tout ceci était de l'invention d'un homme qui voulait faire à mademoiselle votre fille des présents de noces d'une manière galante.
+
+-*who_monsieurdubuisson
+C'est cela, c'est lui-même.
+
+**** *book_ *id_I22 *act_I *date_1704
+
+-*who_madamedubuisson
+En vérité, monsieur Dubuisson, vous avez bien peu de complaisance ; je vous avais prié de différer vos préparatifs de noces, et vous commencez par donner le bal pendant que je me meurs.
+Le beau remède contre ma migraine, qu'une cohue de masques et de violons !
+
+-*who_monsieurdubuisson
+Tenez, madame, c'est monsieur Caton à qui il faut vous en prendre, c'est lui…
+
+-*who_madamedubuisson
+Monsieur Caton est un sot, et je ne consentirai point à donner ma fille à un extravagant comme lui…
+
+-*who_monsieurcaton
+Je ne m'en pen pendrai pas.
+
+-*who_marthon
+Place, place, voici les folies de monsieur Caton qui s'avancent en musique.
+
+-*who_monsieurcaton
+Je ne suis pas seul amoureux de Lucile.
+
+-*who_lamontagne
+Rira bien qui rira le dernier, n'est-ce pas ?
+
+-*who_monsieurcaton
+Oui, oui, oui, oui.
+
+-*who_lapaysanne
+Sous cet agréable feuillage
+Lucile vient souvent rêver.
+
+-*who_lamontagne
+Lucile ?
+C'est pour elle que la fête se fait.
+
+-*who_monsieurcaton
+Oui, oui, oui.
+
+-*who_lapaysanne
+Sous cet agréable feuillage
+Lucile vient souvent rêver.
+Quand vous la verrez arriver,
+Vous qui dans votre doux ramage
+Des charmes de l'amour savez si bien parler,
+Petits oiseaux de ce bocage,
+Prenez soin de lui révéler
+Les plaisirs d'un cœur qui s'engage.
+
+-*who_monsieurdubuisson
+Cela est fort bien chanté, monsieur Caton…
+
+-*who_monsieurcaton
+Cela est vrai, cela est vrai, mon monsieur Dubuisson.
+
+-*who_marthon
+Pour moi, ce que j'en estime le plus, ce n'est pas la musique.
+Voyez la propreté de ces corbeilles, la beauté de ces fleurs : encore faut-il bien que je me fasse un bouquet.
+Ah, ciel !
+
+-*who_lamontagne
+Comment ?
+Aurais-tu trouvé là quelque serpent caché sous ces fleurs ?
+Tu ne serais pas la première nymphe…
+
+-*who_marthon
+Ah !
+L'ingénieuse imagination !
+Ce ne sont vraiment pas des serpents que ces fleurs cachent.
+
+-*who_madamedubuisson
+Qu'est-ce que c'est donc ?
+Qu'as-tu trouvé ?
+
+-*who_marthon
+Des étoffes magnifiques, madame, et qui se soutiennent d'or, voyez.
+Ah !
+Monsieur Caton, que vous êtes un royal homme !
+
+-*who_monsieurdubuisson
+Que ces gens-là remportent leurs étoffes.
+Vous êtes bien heureux, monsieur Caton, d'avoir affaire à des personnes raisonnables.
+
+-*who_marthon
+Ah !
+Monsieur, avant qu'on les emporte, laissez-nous du moins le plaisir de la vue.
+Apparemment cette autre manne renferme la petite oie ?
+
+-*who_monsieurdubuisson
+La bile me monte, et ces impertinences-là me mettent dans une colère…
+
+-*who_lamontagne
+Ah !
+Point d'humeur, voyons jusqu'au bout.
+Où est la joueuse de gobelets ?
+Qu'on apporte une table.
+
+-*who_labohemienne
+Chacun fait ici-bas des tours de gobelets.
+Aux champs, à la cour, à la ville, au palais,
+À qui mieux mieux chacun s'abuse :
+Pour se fourber les mortels semblent faits,
+Il n'en est point que la feinte n'amuse ;
+La vérité pour eux a moins d'attraits
+Que l'adresse et la ruse.
+Pour se fourber les mortels semblent faits ;
+Aux plus trompeurs l'usage sert d'excuse ;
+Chacun fait ici-bas des tours de gobelets.
+Aux champs, à la cour, à la ville, au palais,
+À qui mieux mieux chacun s'abuse.
+
+-*who_lamontagne
+La morale est fort bonne : mais elle est ennuyeuse.
+Allons, amusons-nous plus agréablement, et donnez-nous quelque joli tour de votre métier.
+
+-*who_labohemienne
+Très volontiers.
+Je ne suis ici que pour cela.
+Prenez bien garde à mes manches,
+À ma baguette, à ma main ;
+Disant trois fois prelin pin pin,
+Ces trois boulettes blanches
+Se vont changer soudain.
+Celle-ci, beauté brillante,
+Qui savez tout charmer,
+Est un livre qu'on vous présente,
+Le grand art de se faire aimer.
+
+-*who_lucile
+Un livre à moi ?
+
+-*who_marthon
+Donnez, donnez, j'aime la lecture.
+Voyons un peu.
+Ah !
+Madame, le beau livre !
+Que le style en est riche !
+Qu'il est brillant !
+Ce ne sont que pierreries, des bagues, des boucles d'oreilles, des pendants, un esclavage.
+Ah !
+Monsieur Caton, qu'il est doux de porter vos chaînes !
+
+-*who_lucile
+Des pierreries !
+Mon père, il faut renvoyer tout cela.
+
+-*who_marthon
+Oui, mademoiselle : mais je m'en vais toujours les serrer, sauf à rendre.
+
+-*who_lamontagne
+Eh !
+Attends, attends, ne te presse point, il faut voir la métamorphose des autres boulettes.
+
+-*who_labohemienne
+Celle-là, sans que j'y touche
+Que du petit bout de mon bâton,
+C'est l'art d'adoucir la Marthon
+La plus fière et la plus farouche.
+
+-*who_marthon
+On me dédie aussi des livres à moi !
+L'art d'adoucir la Marthon.
+
+-*who_lucile
+Voyons ce que c'est.
+Il est plein de louis !
+Garde-toi bien de prendre cela, Marthon…
+
+-*who_marthon
+Je vous demande pardon, mademoiselle, des livres ne se refusent point, j'aime la lecture, et celui-là ne sera point rendu sur ma parole.
+Ah !
+Monsieur Caton, que vous écrivez noblement !
+Dédiez-nous souvent de vos ouvrages.
+Le second tome ne vaut pourtant pas le premier, mais il ne laisse pas d'avoir son mérite, et j'aimerais assez une bibliothèque toute dans ce goût-là.
+Voyons le troisième.
+
+-*who_labohemienne
+Voici le plus difficile
+Et le plus beau de mon art ;
+Voyez si je suis habile,
+Et si le tour est gaillard :
+Q'il ne soit pas inutile,
+Chacun y peut prendre part.
+
+-*who_lucile
+Oh !
+Pour ce dernier tour-là il me fait plaisir ; j'en suis, et l'on ne saurait donner une collation d'une manière plus galante.
+
+-*who_marthon
+Oh !
+Par ma foi, l'auteur se dément, son style baisse, et les premiers tours sont les plus jolis à ma fantaisie : mais il n'importe, tirons-en partie, tout coup vaille.
+
+**** *book_ *id_I23 *act_I *date_1704
+
+-*who_lucas
+Laissez faire, monsieur, si je ne le trouvons pas là, je le trouverons… Il est morgué ici, ne vous boutez pas en peine.
+
+-*who_lamontagne
+Comment, diantre, que vois-je ?
+Le père de mon maître !
+
+-*who_lucas
+Tenez, voilà déjà son valet, n'est-ce pas ?
+
+-*who_monsieurbavardin
+Eh !
+Oui, justement, c'est lui-même.
+
+-*who_monsieurdubuisson
+Madame Dubuisson, c'est monsieur Orgon, je pense.
+
+-*who_monsieurbavardin
+Monsieur et madame Dubuisson, par quelle aventure vous trouvé-je ici ?
+
+-*who_monsieurdubuisson
+Eh !
+Vraiment, il n'y a point là d'aventure, nous sommes chez nous, Monsieur Orgon.
+
+-*who_monsieurbavardin
+Ah !
+Je vous demande pardon, je savais bien que vous aviez une maison auprès de Paris ; mais je ne savais pas qu'elle fût de ce côté-ci.
+
+-*who_monsieurdubuisson
+Quel hasard, ou quelle raison vous y amène, vous ?
+
+-*who_lamontagne
+Monsieur a su qu'il y avait bal ici, il aime la joie, il vient prendre part à la fête.
+Allons, allons, de la joie.
+
+-*who_monsieurbavardin
+La fête finira mal pour toi ; tu es un coquin qui débauche mon fils, apparemment.
+
+-*who_monsieurdubuisson
+Votre fils ?
+
+-*who_monsieurbavardin
+Oui, mon cher monsieur Dubuisson ; cet honnête paysan est venu m'avertir qu'il était ici déguisé en jardinier, amoureux d'une jeune personne, à qui il donnait tous les jours de nouvelles fêtes.
+
+-*who_lamontagne
+Ah !
+Bourreau, tu as fait là de belles affaires.
+
+-*who_lucas
+J'ons gagné les trente pistoles de l'affiche.
+Je ferai morgué une bonne maison, n'est-ce pas ?
+
+-*who_monsieurdubuisson
+Que veut dire tout ceci, monsieur Orgon ?
+Votre fils déguisé ici en jardinier et amoureux d'une personne à qui il donne des fêtes.
+Madame Dubuisson !
+
+-*who_madamedubuisson
+Mon fils !
+
+-*who_lucas
+Eh !
+Morgué, ne faut pas tant rêver, c'est de mademoiselle Lucile qu'il est amoureux.
+
+-*who_madamedubuisson
+De ma fille ?
+
+-*who_monsieurbavardin
+De votre fille ?
+
+-*who_monsieurcaton
+Voi, voi, voilà le fait, Monsieur Dubuisson.
+
+-*who_monsieurbavardin
+Mais, vraiment, ce serait une chose fort plaisante que le hasard eût ainsi prévenu nos projets !
+
+-*who_lamontagne
+Comment, comment vos projets ?
+Entendons-nous un peu, s'il vous plaît.
+
+-*who_monsieurbavardin
+Quand j'ai fait revenir ton maître d'Allemagne, c'était pour le marier avec la fille de monsieur.
+
+-*who_lamontagne
+Quoi !
+Tout de bon ?
+
+-*who_monsieurdubuisson
+Je n'ai retiré ma fille du couvent, moi, que pour ce mariage-là.
+
+-*who_lamontagne
+Cela est admirable : Point de tricherie, au moins !
+
+-*who_monsieurdubuisson
+On te dit vrai.
+
+-*who_lamontagne
+Oh bien !
+En ce cas-là, démasquez-vous, monsieur le jardinier, tout est découvert.
+
+-*who_leandre
+Mon père, je vous demande mille pardons.
+
+-*who_monsieurorgon
+Ah !
+Mon fils, mon cher enfant, je t'ai cru mort, je te retrouve, je te pardonne tout.
+Monsieur Dubuisson ?
+
+-*who_monsieurdubuisson
+Je suis tout prêt à vous tenir ma parole ; mais cependant j'hésitais à donner à monsieur Caton, à cause des dépenses excessives dont je le soupçonnais, et c'est notre faux jardinier qui les faisait.
+
+-*who_monsieurbavardin
+Que cela ne vous inquiète point, quelques dépenses qu'il puisse faire, j'ai assez de bien pour les soutenir.
+
+-*who_mathurine
+On a servi, monsieur.
+
+-*who_monsieurdubuisson
+Allons nous mettre à table, remettons le bal après le souper.
+
+-*who_monsieurcaton
+Je viens, ma foi, de l'échapper belle.
+
+-*who_lucas
+Et moi, palsanguenne, j'ai fait un biau coup.
+Avouez tretous, que je sis un habile homme.

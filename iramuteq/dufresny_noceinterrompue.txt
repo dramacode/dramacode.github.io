@@ -1,0 +1,1164 @@
+
+
+**** *book_ *id_I01 *act_I *date_1699
+
+-*who_letabellion
+Par la mort, non pas de mon âme, Monsieur le Comte et Madame le Comtesse se moquent-ils de faire attendre si longtemps un homme comme moi ?
+
+-*who_lucas
+Ah respect, respect, Monsieur le Tabellion.
+
+-*who_letabellion
+Parbleu si Monsieur le Comte est Seigneur du Village, j'en suis le Notaire Royal.
+
+-*who_lucas
+Mais Monsieur le Tabellion, pourvu que ma Mère boute là son nom, je serons mariés de reste ; à quoi tient-il donc.
+
+-*who_lamere
+Taisez-vous benêt ; à qui il tient, dit-il, à quoi il tient ?
+
+-*who_letabellion
+Il ne tient qu'à vous commère de soussigner dès maintenant ; pourquoi nous difficulter sur des bagatelles ?
+
+-*who_lamere
+Qu'est-ce à dire, sur des bagatelles ?
+
+-*who_letabellion
+Oui certes sur des bagatelles, sur des riens.
+
+-*who_lamere
+Est-ce une bagatelle que la dotation d'une fille ?
+La filleule de Madame la Comtesse n'a rien que les huit cent francs que Monsieur le Comte a promis ; l'argent ne vient point, et vous appelez cela des bagatelles ?
+
+-*who_letabellion
+Qu'importe, signez toujours.
+
+-*who_lamere
+Signez toujours, signez toujours ; que dites-vous à cela, mon frère le Corporal, signez toujours.
+
+-*who_lesoldat
+Et chut, paix, qu'on m'écoute.
+Il me vient une belle pensée là-dessus.
+Signez toujours, gnia point d'argent, c'est comme qui dirait, buvez toujours, allons compère, buvez toujours ; mais il n'y a point de vin : ça ne fait rien, buvez toujours : or, il faut voir le vin, et puis on boit.
+
+-*who_lamere
+Vla une belle sentence !
+Il faut voir l'argent, et puis on signe.
+
+-*who_lesoldat
+Il faut voir le vin, et puis on boit.
+Il faut voir le vin, et puis on boit : la belle pensée.
+
+-*who_letabellion
+J'aime aussi les belles pensées ; et en effet pour la consommation d'une affaire... je requiers.
+
+-*who_lesoldat
+Et chut... et rechut.
+
+-*who_letabellion
+Est-ce encore une belle pensée ?
+
+-*who_lesoldat
+Oui ; c'est que vous êtes un fat de parler d'affaire pendant que je bois ; je veux boire en musique moi.
+Allons Monsieur le Musicien, chantez-nous un air de chose là, quelque air en rond.
+
+-*who_lemusicien
+Un air grave, ou gai, vite ou lent ?
+De quelle mesure le voulez-vous.
+
+-*who_lesoldat
+Quelle mesure je veux !
+Je veux la mesure Saint-Denis, c'est la meilleure.
+
+-*who_lemusicien
+Je sais un vieil air qui convient à une noce ; car il parle d'amour, de vin et d'argent.
+
+-*who_lamere
+D'argent !
+Cela est bon.
+
+-*who_lucas
+Ah !
+De l'amour.
+
+-*who_lesoldat
+Et le vin sera pour moi.
+
+-*who_lemusicien
+L'argent, l'amour et le vin,
+Se sont jurés une triple alliance,
+Sans cesse l'un à l'autre ils se prêtent la main ;
+L'amour altère, et c'est le jus divin
+Qui fournit à l'amour la force et la constance.
+L'argent, l'amour etc.
+
+**** *book_ *id_I02 *act_I *date_1699
+
+-*who_lamere
+Dieu merci vla l'argent qui vient !
+
+-*who_letabellion
+Salut à l'homme d'affaire de Monsieur le Comte ; il nous va compter, nombrer et délivrer.
+
+-*who_adrien
+N'est-ce pas huit cents livres que Monsieur le Comte vous a promis ?
+
+-*who_lamere
+Huit cents livres, oui.
+
+-*who_adrien
+Huit cents livres ; bon.
+
+-*who_letabellion
+En quelle espèce de monnaie ?
+
+-*who_adrien
+Cela est bon, vous dis-je ; Monsieur le Comte m'abandonne l'ordre, mais nos finances sont courtes ; la vente de ses fruits n'a pas donné, il n'y a point de fond dans nos coffres, il n'y a que des pommes.
+
+-*who_lamere
+Je me doutais bien que l'argent ne viendrait point.
+
+-*who_adrien
+Je vous donne à choisir, prenez des pommes, ou la parole de Monsieur le Comte ; nous n'avons point d'autre fond.
+
+-*who_lamere
+Il n'y a point de fond ?
+Je remporte mon vin.
+
+-*who_unparent
+Point de fond ?
+
+-*who_autreparent
+Point de fond ?
+
+-*who_letabellion
+Point de fond ?
+
+-*who_lemusicien
+Point de fond ?
+Point de musique.
+
+-*who_lamere
+Allons mon frère le Corporal, c'est assez boire ; il n'y a point de fond : il n'y aura point de noce.
+
+-*who_lesoldat
+Point de noce ventrebleu !
+Je m'irai donc coucher à jeun ?
+Halte-là les flacons ; holà ho l'homme d'affaire, rapporte ici la fiancée ?
+J'ordonne que vous ferez la noce, ou je ferai quelque enterrement.
+
+-*who_lamere
+Mais mon frère le Corporal, voulez-vous que votre neveu épouse une fille sans argent ?
+
+-*who_lesoldat
+Je me moque bien d'argent : suffit que c'est mon neveu, et que je le fais mon héritier.
+
+-*who_lamere
+Votre héritier !
+Vous n'avez rien.
+
+-*who_lesoldat
+D'accord : et je dois quelque chose ; mais ma valeur, et ma gloire ne doive rien à personne.
+Va Lucas tu auras ma charge de Soldat, je t'en donne la survivance :
+Allons, donnez-vous tous deux le baiser de mariage.
+
+-*who_lamere
+Mais mon frère, la raison, la pudeur...
+
+-*who_lesoldat
+De la pudeur... cela est vrai, donnez-lui rien que votre main à baiser ; il n'y a point là de pudeur à craindre.
+
+-*who_lamere
+Mais mon frère...
+
+-*who_lesoldat
+Baise-lui la main ou je te tue.
+
+-*who_lucas
+Otez donc le gant, car il me tuerait.
+
+-*who_lesoldat
+Ah !
+Les voilà mariés, il y aura de la noce, Vivat.
+En attendant la noce, allons boire.
+
+-*who_lamere
+Allons, allons.
+
+**** *book_ *id_I03 *act_I *date_1699
+
+-*who_adrien
+Adieu la Noce, serviteur ; hé bien, la Fiancée, serez-vous encore muette ?
+La Noce vous affligeait, la rupture de la Noce ne vous rend pas plus gaie ; qu'avez-vous donc ?
+
+-*who_nanette
+Ahy !
+
+-*who_adrien
+Vous soupirez !
+Pour peu que je vous presse vous m'allez tout avouer ; car vous n'avez tout juste que l'âge qu'il faut pour aimer, vous êtes encore trop jeune pour savoir cacher votre amour.
+Vous rougissez !
+Ne laissez pas de me conter en rougissant l'aventure qui vous arriva l'autre jour ; il m'en est arrivé une aussi, je vous la conterai sans rougir, quand vous m'aurez conté la vôtre.
+
+-*who_nanette
+Ah mon pauvre Adrien, qu'une fille souffre quand elle n'ose parler ; j'en meure d'envie depuis hier, j'en étouffe.
+
+-*who_adrien
+Pourquoi ne vous pas soulager de cette oppression de paroles ?
+
+-*who_nanette
+À présent que le mariage est rompu, je parlerais de reste ; mais à qui me fier, n'ayant ni père ni mère ?
+Madame le Comtesse ne m'aime plus tant, depuis que son mari m'aime.
+Je le hais trop lui, pour lui demander conseil ; et il n'y a point de fille dans ce Village-ci, qui ait assez d'esprit pour être ma confidente.
+
+-*who_adrien
+Je suis fâché de ne me pas appeler Lisette ou Margoton ; mais puisque Madame la Comtesse n'a point d'autre femme de chambre que moi, j'ai droit de confidence sur sa filleule ; parlez.
+
+-*who_nanette
+Je vais donc te conter mon aventure.
+L'autre jour comme je me promenais seule dans le petit bois, j'aperçus un homme sur notre mur ; il se laissa tomber dans l'allée, j'eus peur d'abord, mais sitôt que je l'eus regardé, je te l'avoue, je n'eus plus peur de lui : je fis pourtant réflexion qu'une fille sage devait s'enfuir, je voulus courir.
+
+-*who_adrien
+Et les jambes vous manquèrent ?
+
+-*who_nanette
+Peut-être bien ; mais ce qui m'arrêta, c'est qu'il me cria d'un ton languissant : Ah !
+Charmante personne, ayez pitié de moi, je suis blessé : je crus bien qu'il faisait cela exprès, mais je ne le laissai pas d'en avoir compassion ; il fit un grand soupir, sa tête tomba sur l'herbe, comme s'il eut été mort.
+
+-*who_adrien
+Et que vous dit le défunt ?
+
+-*who_nanette
+J'allais le questionner sur le sujet de sa mort ; mais il se mit à fuir dans le fond du bois, parce que Monsieur le Comte venait par une autre allée : je me mis à fuir aussi ; car depuis que Monsieur le Comte a tant d'envie d'être seul avec moi, je crains toujours de m'y trouver.
+
+-*who_adrien
+Et en le fuyant ne fûtes-vous point vous cacher du mort ?
+
+-*who_nanette
+Non assurément, je ne l'ai point vu depuis ; mais il m'a écrit force billets si tendres, que j'ai eu la patience de les relire tous cinq ou six fois.
+
+-*who_adrien
+Voilà une fille qui aime bien la lecture !
+
+-*who_nanette
+J'ai lu ses billets avec plaisir ; mais enfin écrire tendrement, soupirer, faire le mort, escalader un mur, cela ne suffit pas pour faire un honnête homme ; qu'en dis-tu ?
+
+-*who_adrien
+Avant que de vous rien dire, je veux vous conter mon aventure.
+Hier au soir, en rentrant dans le Château, j'aperçus l'homme du petit bois, qui courait après moi tout hors d'haleine, et ne pouvant parler, il gesticulait, et en gesticulant il me mit quelques louis d'or dans la main.
+Ah !
+Monsieur, lui dis-je, si vous avez l'éloquence aussi belle que le geste, vous me persuaderez tout ce qu'il vous plaira : en effet il me persuada qu'il vous aimait, et conclut qu'il vous demanderait au Comte et à la Comtesse : doucement, lui dis-je, c'est une couple d'animaux féroces, incapables d'entendre raison ; ils s'entr'appellent mon bichon, ma bichonne, et ce sont deux dogues qui se montrent les dents vingt fois par jour ; toutes leurs conversations commencent par des caresses, et finissent par des coups de poing.
+Je lui dis pis que pendre de notre Maître, et ne lui dis pas le quart de ce qui en est.
+Au reste je me suis informé de ce joli homme-là, il s'appelle Dorante ; il est riche, plein d'esprit, de cœur, de politesse.
+Il est... mais le Comte et la Comtesse viennent, allez m'attendre là-dedans.
+Je vous achèverai le portrait de Dorante.
+
+**** *book_ *id_I04 *act_I *date_1699
+
+-*who_adrien
+Ça, comment ferai-je pour annoncer à ce brutal, que la Noce est interrompue !
+Il se va prendre à moi, de ce qu'on ne veut pas recevoir sa parole pour argent comptant.
+
+**** *book_ *id_I05 *act_I *date_1699
+
+-*who_lecomte
+Oui certes, les Noces de Nanette me ramènent l'idée des nôtres.
+Combien y a-t-il, mon cœur ?
+Il y a bien trente-cinq années que nous faisons la félicité l'un de l'autre.
+
+-*who_lacomtesse
+Si je consulte mon affection conjugale, il n'y a qu'un jour que je te possède.
+
+-*who_lecomte
+Dans les douceurs d'une union parfaite, la durée des ans est imperceptible.
+
+-*who_lacomtesse
+Je ne m'aperçois que de ta politesse extrême.
+
+-*who_lecomte
+Tes complaisances sont inouïes.
+Ah !
+Je vous cherche, Adrien.
+
+-*who_adrien
+Me voilà, Monsieur.
+
+-*who_lecomte
+Allez vite panser ma jument, que j'aille tuer du gibier pour la Noce.
+
+-*who_lacomtesse
+C'est moi qui ai besoin de vous, Adrien, venez m'habiller pour la Noce.
+
+-*who_lecomte
+Mais, mon aimable Comtesse, vous aviez une servante à vous toute seule, elle vous a quittée, Adrien n'est qu'à moi.
+
+-*who_lacomtesse
+Si faut-il que je sois coiffée, mon cher Comte ?
+
+-*who_lecomte
+Si faut-il que ma jument soit pansée ?
+
+-*who_lacomtesse
+Parlez à moi, Adrien ?
+J'avais laissé sur ma toilette le fer de ma coiffure, qu'en avez-vous fait.
+
+-*who_adrien
+Le voici : je l'avais pris pour le faire ressouder par notre maréchal.
+
+-*who_lecomte
+Ô quand le maréchal aura ferré ma jument, il travaillera pour vous ; ne l'amusez point, Madame ; vous empêchez toujours que le service ne se fasse.
+
+-*who_lacomtesse
+C'est moi qu'on doit servir.
+
+-*who_lecomte
+Après moi, m'amour.
+
+-*who_lacomtesse
+Il me coiffera mon fils, ou je lui donnerai vingt soufflets.
+
+-*who_lecomte
+Il m'obéira, mon cœur, ou je lui romprai les bras.
+
+-*who_adrien
+Ah !
+Monsieur, considérez, que je compose seul tout votre domestique ; je ne puis pas être en même temps à la chambre et à l'écurie, à la cuisine et au cabinet, faire les affaires de Monsieur, et le lit de Madame, et la jument par-dessus le marché ; je ne puis pas servir trois maîtres à la fois ; mais heureusement je me tirerai d'affaire aujourd'hui, en ne vous obéissant ni à l'un ni à l'autre.
+
+-*who_lecomte
+Qu'est-ce à dire ?
+
+-*who_lacomtesse
+Comment donc ?
+
+-*who_adrien
+Je m'explique ; c'est que vous n'avez que faire de monter à cheval, ni Madame de se parer, car la Noce ne se fait point.
+
+-*who_lecomte
+La Noce ne se fait point !
+Est-ce que je n'ai pas mandé le Notaire et les parents de Lucas ?
+
+-*who_adrien
+Oui, Monsieur ; le contrat était dressé, les parents d'accord, les Violons d'accord aussi, la nappe mise, le vin tiré, on n'attendait que vos huit cents francs : je leur ai offert votre parole, et sur votre parole tout a disparu.
+
+-*who_lecomte
+Comment donc maraud, ils ne veulent pas...
+
+-*who_adrien
+Ce n'est pas ma faute s'ils ne veulent pas.
+
+-*who_lecomte
+Ils ne veulent pas se fier à ma parole, Monsieur le coquin ?
+
+-*who_adrien
+Je ne suis pas eux, moi.
+
+-*who_lecomte
+Est-ce que ma parole n'est pas bonne, double chien ?
+
+-*who_adrien
+Ce n'est pas moi, vous dis-je ; vous savez bien que je m'y fie moi, à votre parole ?
+Et vous n'avez jamais payé mes gages que verbalement.
+
+-*who_lacomtesse
+Voilà des parents bien insolents, de ne se pas fier à la parole de leur Seigneur, de leur maître, qui peut les ruiner par sa puissance !
+
+-*who_lecomte
+C'est que ce sot-là ne leur a pas parlé comme il faut.
+Ah !
+J'aperçois Lucas, je suis sûr que d'un seul mot je le ferai consentir au mariage.
+
+-*who_lacomtesse
+Allons lui parler.
+
+**** *book_ *id_I06 *act_I *date_1699
+
+-*who_adrien
+Tout est perdu, ils vont contraindre Lucas à renouer la Noce ; ne trouverai-je point quelque expédient pour la rompre...
+Attendez ?
+Madame la Comtesse est jalouse de Nanette, tâchons d'allumer cette jalousie, afin que...
+
+**** *book_ *id_I07 *act_I *date_1699
+
+-*who_lacomtesse
+Je reviens, Adrien, je reviens te parler, pendant que mon époux est enfermé avec Lucas.
+
+-*who_adrien
+J'ai aussi quelque chose à vous dire, qu'il n'est pas bon que Monsieur le Comte entende.
+Vous savez, Madame, que je prends toujours votre parti contre lui, dans les petits chamaillis domestiques, qui se mêlent parfois à vos caresses.
+
+-*who_lacomtesse
+Je t'entends : tu veux parler de Nanette, c'est sur cela que je viens te consulter, et absolument je veux éloigner cette petite créature.
+Ce n'est pas que je soupçonne la fidélité de Monsieur le Comte, il est trop passionné pour moi.
+
+-*who_adrien
+Votre présence lui inspire tant d'amour, qu'il ne caressera jamais Nanette devant vous ; mais sitôt que vous avez le dos tourné, il oublie vos charmes.
+
+-*who_lacomtesse
+Ah !
+Oublier, c'est trop dire, il est de trop bon goût.
+
+-*who_adrien
+D'accord, pour préférer une jeune à une vraie beauté, à une beauté faite ; mais il y a longtemps qu'il vous trouve belle, et il n'y a guères que Nanette est jolie.
+
+-*who_lacomtesse
+Quoi qu'il en soit, il est bon de prévenir les choses qu'on craint le moins, et ce mariage-ci me tranquillise l'esprit : car Lucas emmène Nanette bien loin.
+
+-*who_adrien
+Monsieur le Comte vous a fait accroire cela pour ne vous point effaroucher ; mais je vous avertis moi, que dès le lendemain des Noces il fera Lucas son Fermier, et Nanette sa Concierge.
+
+-*who_lacomtesse
+Nanette sa Concierge !
+Le traître !
+Le parjure !
+Le scélérat !
+Il en aura le démenti ; c'est moi qui dois disposer de Nanette, son père me l'a laissée en mourant, c'est ma filleule : n'ai-je pas raison, mon pauvre Adrien, n'ai-je pas raison ?
+
+-*who_adrien
+La question n'est pas d'avoir raison.
+La raison est souvent du côté du plus faible, et c'est tout comme s'il avait tort ; mais Madame, laissez-moi rêver si je ne pourrais point adroitement dégoûter Lucas d'épouser Nanette.
+Si Lucas a le courage de refuser, vous épaulerez Lucas, et je vous épaulerai.
+
+-*who_lacomtesse
+Point de ménagement avec un volage.
+Non quand je me représente qu'un époux unique veut avoir deux inclinations, je ne peux plus me contenir.
+Je vais m'opposer ouvertement à ce mariage, et mettre ma filleule dans un couvent.
+
+**** *book_ *id_I08 *act_I *date_1699
+
+-*who_adrien
+Nanette dans un Couvent !
+Cela serait fâcheux ; car point de Nanette pour Dorante, point de fortune pour moi ; mais commençons toujours par rompre le mariage.
+Allons consulter Dorante.
+
+**** *book_ *id_I09 *act_I *date_1699
+
+-*who_adrien
+Oui, vous paraissez ici ?
+Vous hasardez d'être vu, pourquoi ne me pas attendre au rendez-vous ?
+
+-*who_dorante
+L'impatience m'a pris : mais on ne peut nous surprendre, j'ai fermé les portes.
+Dis-moi, Adrien, l'aimable Nanette a-t-elle compris mes billets ?
+Lui as-tu parlé de ma passion ?
+T'écoute-t-elle ?
+Y répond elle ?
+Puis-je espérer ?
+
+-*who_adrien
+On a compris vos billets, j'ai parlé, on m'a écouté, on m'a répondu, et si je ne vois pas grande espérance pour vous.
+
+-*who_dorante
+Point d'espérance !
+Est-elle insensible à mon amour ?
+
+-*who_adrien
+Ce n'est pas là la difficulté.
+Je suppose même, pour abréger matière, qu'elle est aussi folle que vous ; mais les choses n'en sont pas plus avancées.
+Je vous l'ai déjà dit, l'amour de Monsieur le Comte, ou plutôt sa convoitise pour Nanette, et la jalousie de la Comtesse vous sont également contraires : car ou la femme l'enfermera pour son profit, ou le mari pour le sien la mariera à un sot.
+
+-*who_dorante
+Notre campagnard, dis-tu, veut marier Nanette ?...
+
+-*who_adrien
+À un Paysan.
+
+-*who_dorante
+Fort bien.
+
+-*who_adrien
+À un sot.
+
+-*who_dorante
+Tant mieux.
+
+-*who_adrien
+Tant pis vraiment.
+
+-*who_dorante
+N'ai-je que cela à craindre ?
+
+-*who_adrien
+N'est-ce pas assez ?
+
+-*who_dorante
+Je ne craignais que l'indifférence de Nanette : si elle m'aime, mon bonheur est certain.
+
+-*who_adrien
+Je ne vous comprends pas.
+
+-*who_dorante
+Oui, Adrien, selon le projet que j'ai imaginé, la jalousie de la Comtesse, et les mauvais desseins du Comte serviront à faire réussir le mien.
+Je prétends que le Comte me prie d'épouser Nanette, et que la Comtesse en soit ravie
+
+-*who_adrien
+Je vois là bien des impossibilités, sans compter celle de faire vouloir une même chose à deux époux, qui se contredisent depuis quarante ans.
+
+-*who_dorante
+Je vais t'expliquer mon dessein.
+Tu sauras premièrement que j'ai le talent d'être bon Comédien, et voici le rôle que je jouerai...
+
+-*who_adrien
+On ouvre cette porte, sauvez-vous par l'autre, et allez m'attendre dans le petit bois.
+
+**** *book_ *id_I10 *act_I *date_1699
+
+-*who_lecomte
+Adrien, ne sais-tu point comment ma femme a pu deviner mes desseins ?
+
+-*who_adrien
+Elle aura lu dans vos yeux que vous voulez faire Nanette Concierge, et que...
+
+-*who_lecomte
+Chut.
+
+-*who_adrien
+J'ai tort, je ne voyais pas là le futur.
+
+-*who_lecomte
+Si je veux établir Nanette, c'est parce que feu son père m'a bien servi.
+
+-*who_adrien
+Vous aimiez le père, vous faites du bien à la fille, cela est naturel.
+
+-*who_lecomte
+Quoi qu'il en soit, je me ris ce la colère de ma femme, et dès ce matin je conclus l'affaire.
+Adrien faites revenir le Notaire, et tout l'appareil de la Noce.
+Songez aussi au festin.
+Dans les villages on ne peut manger que ce qu'on a ; mon garde-chasse n'a tué aujourd'hui que des lièvres, mettez-en trois sur la soupe, marinez-en, farcissez-en bref déguisez-les de génie pour composer un repas diversifié, un repas fin.
+
+-*who_adrien
+Je mettrai vos lièvres à quatre services ; j'en ferai même des compotes pour le fruit.
+
+**** *book_ *id_I11 *act_I *date_1699
+
+-*who_lecomte
+N'en doutez point, Lucas, en dépit de ma femme je vous ferai mon Fermier ; c'est assez que vous et moi soyons d'accord.
+
+-*who_lucas
+Oui : mais c'est ce que je ne sommes pas que d'accord.
+
+-*who_lecomte
+Plaît-il, Monsieur Lucas ?
+
+-*who_lucas
+Je sais bien que votre volonté est toujours d'accord avec ce qu'ou voulez ; mais je disais moi, que de prendre une femme pour rian, et une ferme pour pu qu'à ne vaut, c'est trop de parte en un jour.
+
+-*who_lecomte
+À l'égard de ma Ferme je vous ai dit mon mot, cela suffit.
+
+-*who_lucas
+Ça suffit !
+Ça suffit, parce que je ne fis pas daigne de vous contredire.
+Tout mon vaillant est dans votre départenance, vous pouvez me ruiner ; mais quand on prend une Ferme ce n'est pas pour y pardre.
+
+-*who_lecomte
+Ce n'est pas pour y gagner aussi ; cependant j'augmenterai votre lot de force droits seigneuriaux, cens et rentes, redevances ; quelques poules, par exemple, qui me sont dues par des vassaux ; tu me donneras seulement quelques chapons gras.
+
+-*who_lucas
+Je vous baillerai des chapons gras, pour des poules maigres.
+
+-*who_lecomte
+Tu auras encore droit de pêche dans mon étang de la grenouillère, et tu me fourniras de poisson.
+
+-*who_lucas
+Du poisson pour des grenouilles !
+Je vous remercie de tout ça, et si faut y qu'ous ôtiez du bail les sarimonies qu'ous avez imaginées, pour mettre à profit toutes les bonnes Fêtes de l'Almanach ; pour le vin de la Saint-Martin tras muids de cidre, six squiez d'avoine pour votre gâtiau de Rois, et pis deux cochons pour les éplingles de Madame la Comtesse ; et tout ça parce qu'ou vous fiez que je suis amoureux : mais j'aime mieux tout pardre, et mon amour avec, que de signer ma ruine
+
+-*who_lecomte
+La la doucement.
+Puisque vous êtes si tenant, si dur, nous adoucirons les choses ; ne vous inquiétez de rien, ne pensez qu'à Nanette, c'est un trésor ; allez vite lui redonner votre foi, je vais réduire ma femme.
+
+**** *book_ *id_I12 *act_I *date_1699
+
+-*who_lucas
+C'est un tyran que ce Monsieur le Comte ; c'est une tyranne itou que Nanette, qui me tyrannise la çarvelle, et sera peut-être bian pis, car Adrian viant de lâcher queuques paroles : il faut que je le fasse encore jaser.
+
+**** *book_ *id_I13 *act_I *date_1699
+
+-*who_adrien
+Hé, bien compère Lucas, votre marché est-il conclu ?
+
+-*who_lucas
+Hé cahin, caha.
+
+-*who_adrien
+C'est-à-dire qu'on vous fait épouser la ferme malgré vous, et que vous prenez Nanette à bail ; car Monsieur le Comte s'en réserve la propriété.
+
+-*who_lucas
+N'y a rien à gagner su ste farme-ci ; n'y aurait-il point queuque chose à pardre sue Nanette ?
+
+-*who_adrien
+Enfin vous allez achever la Noce.
+
+-*who_lucas
+J'ai peur que Monsieur le Comte ne l'ait commencée.
+Tout franc, je fis bian fâché d'être amoureux : ma mère l'a bian dit que je ne serais jamais qu'un sot.
+
+-*who_adrien
+C'est ce que je vous disais aussi.
+
+-*who_lucas
+Plaît-il ?
+
+-*who_adrien
+Par plaisanterie da ; car dans le fond Nanette est sage ; mais Monsieur le Comte est un peu dévergondé.
+
+-*who_lucas
+En bonne conscience, Monsieur Adrian, Nanette n'a-t-elle rian bouté du sian parmi le dévargondage de Monsieur le Comte ?
+Car je me vians d'apercevoir qu'il a si hâte de la marier ; si hâte, si hâte...
+
+-*who_adrien
+Il a peut-être calculé qu'il fallait dater votre mariage d'aujourd'hui : quelques jours plutôt ou plus tard, décident quelque fois de la réputation d'une nouvelle mariée.
+Le monde est si pointilleux sue la date des Noces...
+
+-*who_lucas
+J'entends cette date-là.
+
+-*who_adrien
+Ce n'est pas, comme je vous dis, que Nanette ne soit très sage ; mais Monsieur le Comte est un fin calculateur.
+Ne vous pressez point tant de conclure.
+
+-*who_lucas
+Morguenne je serais quasiment d'avis d'attendre encor queuque huit ou neuf mois pour voir ; mais tenez drès que j'aurai l'œil sur sa biauté, je serai pressé.
+
+-*who_adrien
+Je l'aperçois : fuyez faible Lucas, fuyez.
+
+-*who_lucas
+J'y tâche aussi ; mais l'amour prend le mord aux dents.
+Jarnigué l'amour en aura menti ; je m'enfuis, vous direz à Monsieur le Comte que je veux du temps pour m'aviser.
+
+**** *book_ *id_I14 *act_I *date_1699
+
+-*who_nanette
+Je suis au désespoir, mon pauvre Adrien, Monsieur le Comte veut que j'épouse Lucas ; Madame la Comtesse veut me mettre au couvent, et moi je veux toute autre chose.
+
+-*who_adrien
+Dorante et moi nous venons de conclure que vous devez obéir à Monsieur le Comte.
+Il veut que vous épousiez un paysan et nous y consentons.
+
+-*who_nanette
+Que veux-tu dire ?
+
+-*who_adrien
+Je lui proposai l'autre jour un Fermier de mes parents ; il vient d'arriver ; il est riche, jeune, bien bâti...
+
+-*who_nanette
+Quel galimatias me fais-tu ?
+
+-*who_adrien
+Je suis sûr qu'il ne vous déplaira pas.
+
+-*who_nanette
+Parles-tu sérieusement ?
+
+-*who_adrien
+Très sérieusement.
+
+-*who_nanette
+Ne sais-tu pas que je mourrais plutôt que d'être à un autre qu'à Dorante.
+
+-*who_adrien
+Venez, venez voir mon Paysan.
+
+-*who_nanette
+Je ne veux point le voir.
+
+**** *book_ *id_I15 *act_I *date_1699
+
+-*who_adrien
+Le voici pourtant.
+
+-*who_nanette
+Laisse-moi.
+
+-*who_adrien
+Regardez-le bien.
+
+-*who_nanette
+Ah !
+C'est Dorante !
+
+-*who_dorante
+Oui, charmante Nanette, c'est celui qui vous adore.
+
+-*who_adrien
+Vous saurez pourquoi il s'est déguisé ainsi ; mais répétez un peu ce que vous venez de me dire, que vous mourrez plutôt que d'être à un autre qu'à Dorante.
+
+-*who_dorante
+Vous avez dit cela ?
+
+-*who_nanette
+Je n'ai rien dit.
+
+-*who_adrien
+Vous ne dites rien encore de ce qu'il vous baise la main.
+
+-*who_nanette
+Vous avez tort, Monsieur, de me prendre la main sans m'en avertir.
+M'aimez-vous assez pour que je vous pardonne ?
+Vous ne dites mot.
+Craignez-vous de mentir ?
+
+-*who_adrien
+L'amour muet est celui qui ment le moins.
+
+-*who_dorante
+J'ai trop de plaisir pour pouvoir parler.
+Vous voulez être à moi !
+Ah répétez-le encore, je vous en conjure, parlez ?
+
+-*who_nanette
+Hélas !
+Je suis tout aussi muette que vous.
+
+-*who_adrien
+Je prévois que vous aurez souvent des conversations muettes.
+Ça pensons ; mais finissons.
+Pensez au rôle que vous devez jouer avec Monsieur le Comte, je vais avertir Madame la Comtesse du dessein que nous avons.
+
+-*who_nanette
+Ah !
+Voici Monsieur le Comte.
+
+-*who_adrien
+Hé bien, puisqu'il vous a vu ensemble, commencez à faire votre rôle de benêt ; tournez le dos à Nanette comme un sot là ; Vous Nanette, baissez modestement les yeux ; et allez-vous-en de ce côté-là.
+
+**** *book_ *id_I16 *act_I *date_1699
+
+-*who_lecomte
+Qu'est-ce donc que le manège que je vois ici ?
+
+-*who_adrien
+Ha, ha, ha, Monsieur c'est la plus plaisante chose du monde.
+Vous voyez ce benêt qui baille-là aux corneilles, c'est le plus
+Plaisant original...
+Premièrement, je vous dirai que c'est ce jeune Fermier de mes parents que je vous proposai l'autre jour.
+
+-*who_lecomte
+Fort bien ; mais que faisait-il avec Nanette ?
+
+-*who_adrien
+Ha, ha, ha, c'est ce qu'il y a de plaisant.
+Je vais vous conter...
+Et je vous dirai ensuite qu'il prend votre ferme sans marchander, et Nanette sans argent ; pour
+L'honneur de votre protection.
+Mais ce qui est plaisant, c'est que je voulais l'amorcer par les charmes de Nanette ; point du tout : il n'est pas curieux de beauté, dit-il, tous les visages lui sont égaux.
+
+-*who_lecomte
+Cela est assez plaisant : mais que veux-tu conclure de là ?
+
+-*who_adrien
+Je conclus que voilà un mari comme il nous le faut pour Nanette, sans amour, sans jalousie ; et qui ne se souciera non plus de sa femme que s'il était grand Seigneur.
+
+-*who_lecomte
+Effectivement il me paraît bon enfant.
+
+-*who_adrien
+Bon !
+Benêt tout à fait.
+Il sera docile, humble, respectueux pour votre qualité, et il aura une confiance aveugle et cordiale en vous et en sa femme.
+
+-*who_lecomte
+Je ne prétendrais pas en abuser.
+Je n'aime Nanette que pour l'esprit, pour la conversation.
+
+-*who_adrien
+Je le sais bien, Monsieur ; mais vous ne laisseriez pas d'être fâché qu'un jaloux vînt vous interrompre, quand vous seriez en train de dire de jolies choses.
+
+-*who_lecomte
+Il ne s'agit pas de cela : mais voyons si ce garçon-là m'accommodera d'ailleurs pour ma ferme.
+
+-*who_adrien
+Approchez, cousin Bertran, approchez.
+
+-*who_dorante
+Plaît-il, cousin.
+
+-*who_adrien
+Saluez Monsieur le Comte, saluez donc.
+
+-*who_lecomte
+Bon jour, mon enfant, bon jour : votre cousin dit que vous avez envie d'être mon Fermier.
+
+-*who_dorante
+Si c'est votre plaisir, Monseigneur.
+Je vous demande excuse da.
+
+-*who_lecomte
+Il est bien bête.
+
+-*who_adrien
+J'ai dit au cousin le prix de votre ferme ; il taupe à tout, et vous donne de plus vingt louis d'or de pot de vin.
+
+-*who_lecomte
+À ta considération, Adrien, j'écoute ses propositions : mais il faut que quelqu'un m'en réponde.
+
+-*who_dorante
+Ô j'ai un bon répondant da.
+
+-*who_lecomte
+Hé qui est-ce ?
+
+-*who_dorante
+Qui c'est ?
+Ô dame, je vais vous l'aveindre mon répondant.
+
+-*who_lecomte
+M'aveindre son répondant, quel imbécile !
+
+-*who_dorante
+Hé oui ; car il est dans ma poche mon répondant ; c'est le meilleur répondant que l'argent : quand il répond, il paye, il paye.
+
+-*who_lecomte
+Il a de l'esprit ce compère-ci.
+
+-*who_dorante
+Voilà déjà le pot de vin pour boire, Monseigneur, pour vous boire ; et puis voilà un autre magot que j'ai fait dans ma dernière farme, et cela me sarvira pour vous payer d'avance, d'avance : c'est une finesse que j'ai pour être plutôt quitte.
+
+-*who_lecomte
+Les manières de cet homme-là m'accommodent assez ; je souhaite qu'il s'accommode de Nanette.
+
+-*who_dorante
+Qu'est-ce que c'est donc que Nanette ?
+Est-ce ce petit brin de fille que j'ai vu là ?
+
+-*who_lecomte
+Oui.
+Ne la trouvez-vous pas jolie ?
+
+-*who_dorante
+Si c'est cela que vous appelez jolie, à le bonne heure ; mais je ne vise guère à la joliveté des filles moi ; car pour ce qu'il m'en faut ce n'est pas la peine : voyez-vous tout mon plaisir est de bian mettre une farme en valeur.
+
+-*who_lecomte
+Ne consentirez-vous pas à la prendre pour femme ?
+
+-*who_dorante
+Hé mais si c'est votre plaisir que je la prenne, je la prendrai bian.
+
+-*who_lecomte
+Sa complaisance me ravit.
+
+-*who_dorante
+Mais au moins c'est à la charge qu'elle ne sera point trop raffolée autour de moi ; car je n'aime pas qu'on m'interrompe quand je suis à travailler.
+Je ferai mon petit tracas d'un côté, elle de l'autre ; c'est la liberté qui fait la paix du bon ménage.
+
+-*who_lecomte
+Il a raison.
+
+-*who_dorante
+À propos, Monseigneur, j'oubliais à vous avertir d'une chose ; c'est qu'il faudra que je fasse de petits voyages à mon pays de temps en temps.
+
+-*who_lecomte
+Oh !
+Je veux que vous soyez sédentaire.
+
+-*who_dorante
+Oh !
+Je ne peux pas ; mais je laisserai ma femme à ma place pour avoir soin que vous soyez content.
+
+-*who_lecomte
+En ce cas-là, j'aime mieux en souffrir un peu.
+
+-*who_adrien
+Monsieur est si bon Maître...
+
+-*who_lecomte
+Ça, Adrien, pour pouvoir faire la Noce en paix, il faut faire croire à Madame la Comtesse que cet homme-ci emmènera Nanette bien loin.
+C'est que ma femme n'aime point à la voir.
+
+-*who_adrien
+Laissez-moi prévenir Madame la Comtesse, je me charge d'obtenir son consentement
+
+-*who_lecomte
+La voici ; je vais lui faire une galanterie de cette nouvelle.
+
+**** *book_ *id_I17 *act_I *date_1699
+
+-*who_lacomtesse
+Lucas me vient de déclarer qu'il ne veut point épouser Nanette, et moi je vous déclare que je vais l'enfermer.
+
+-*who_lecomte
+Doucement, doucement.
+Oublions la petite altercation qu'il y a entre nous, mes complaisances vont te fermer la bouche, et dissiper tes craintes.
+Il ne suffit pas d'être fidèle à ce qu'on aime, il ne faut pas même fatiguer son imagination par les moindres soupçons jalouX. Pour te contenter enfin je donne Nanette à ce jeune amoureux, qui l'emmènera demain, et je donnerai ma ferme à Lucas, à la charge qu'il restera garçon.
+
+-*who_lacomtesse
+S'il n'y a point de fourberie à ce que tu me dis, qu'il y a de délicatesse !
+
+-*who_lecomte
+La proposition t'agrée-t-elle ?
+Es-tu contente ?
+
+-*who_lacomtesse
+À Dieu ne plaise que je te commédise jamais en rien, j'exécuterai ce que tu souhaites sitôt que tu auras exécuté ce que tu me promets.
+
+-*who_lecomte
+À demain l'autre affaire, ne pensons aujourd'hui qu'au mariage.
+
+-*who_lacomtesse
+Assurons d'abord la Ferme à Lucas.
+
+-*who_lecomte
+Je t'en prie, commence par signer le Contrat.
+
+-*who_lacomtesse
+Je t'en conjure, commence par le Bail.
+
+-*who_lecomte
+Est-ce que tu te méfies de moi ?
+
+-*who_lacomtesse
+Voudrais-tu me tromper ?
+
+-*who_lecomte
+Non ; mais je veux une confiance aveugle.
+
+-*who_lacomtesse
+Et je veux voir clair, moI. Tu prétends que Nanette reste céans.
+
+-*who_lecomte
+Oh !
+Elle y restera, s'il me plaît.
+Osez-vous me contredire ?
+
+-*who_lacomtesse
+Osez-vous m'offenser ainsi ?
+
+-*who_lecomte
+Ne me poussez pas à bout.
+
+-*who_lacomtesse
+Ne m'échauffez pas les oreilles.
+
+-*who_lecomte
+Par la sambleu.
+
+-*who_lacomtesse
+Mort de ma vie.
+
+-*who_lecomte
+Je ne sais ce qui me tient.
+
+-*who_adrien
+Hé, Monsieur, allez-vous-en ; laissez-moi lui faire entendre raison.
+
+-*who_lecomte
+Je vais faire venir le Notaire ; et si vous ne signez, je me séparerai de corps et de biens, de corps et de biens.
+
+-*who_adrien
+J'empêcherai bien ce divorce.
+
+**** *book_ *id_I18 *act_I *date_1699
+
+-*who_adrien
+Hé, Madame, il y a une heure que je vous fais signe de consentir à tout.
+
+-*who_lacomtesse
+Moi, consentir.
+
+-*who_adrien
+C'est pour votre intérêt que j'ai imaginé un stratagème pour tromper Monsieur le Comte ; j'allais vous avertir...
+
+-*who_lacomtesse
+Hé de quoi m'avertir ?
+
+-*who_adrien
+Que cet homme-ci n'est point un Fermier, que c'est un riche Cavalier, amoureux de Nanette, qui s'est déguisé ainsi pour l'emmener avec votre consentement.
+
+-*who_lacomtesse
+Me dis-tu vrai ?
+
+-*who_adrien
+Je vais vous faire voir qu'il n'a que l'écorce d'un Paysan.
+Tenez, Madame.
+
+-*who_dorante
+Vous pouvez faire mon bonheur, Madame, et le vôtre aussi en me donnant Nanette.
+
+-*who_lacomtesse
+Mais ne me trompez-vous point ?
+Car enfin on peut emprunter une veste.
+
+-*who_dorante
+Voici une montre de soixante louis que je vous prie d'accepter pour preuve de ma bonne foi.
+
+-*who_lacomtesse
+On peut aussi emprunter une montre, mais on ne peut point emprunter l'air noble et galant dont vous faites les choses.
+Je vous jure, Monsieur, que si j'accepte votre montre, c'est pour vous persuader que je vous crois gros Seigneur.
+
+-*who_dorante
+Trop heureux que vous ayez quelque confiance en moi.
+
+-*who_adrien
+Voilà Monsieur le Comte qui revient, ne faites pas semblant de rien.
+
+**** *book_ *id_I19 *act_I *date_1699
+
+-*who_lecomte
+Le Notaire suit mes pas, Madame, nous allons voir si je suis le Maître.
+Allons, Nanette, je vous commande d'aimer ce jeune homme-là.
+
+-*who_nanette
+Vous êtes le Maître, Monsieur, je vous obéirai.
+
+-*who_lecomte
+Oui, ma femme, je suis le Maître, et je savais bien que je vous mettrais à la raison.
+
+-*who_lacomtesse
+Hélas !
+Ce n'est point la raison, c'est l'amour qui m'a dompté.
+Tu m'as menacée d'une séparation ; te séparer de moi, mon cher mari !
+Ah plutôt la mort.
+
+-*who_lecomte
+Tu m'attendris, pourvu que tu ne me contredises point.
+
+-*who_lacomtesse
+Je te demande bien pardon de mes brusqueries.
+
+-*who_lecomte
+C'est moi qui suis un petit emporté.
+
+-*who_lacomtesse
+On accuse les femmes de commencer les querelles, mais elles sont aussi les premières à revenir ; j'ai toujours eu pour toi une tendresse prévenante.
+
+-*who_lecomte
+Je te préviendrai dorénavant ; mais je te prie...
+
+-*who_lacomtesse
+Ah !
+N'achève pas, ma complaisance serait imparfaite, si tu avais seulement la peine de me répéter tes volontés.
+Tu souhaites que ce garçon-là épouse Nanette, qu'il soit ton Fermier, qu'elle soit ta Concierge, j'y consens volontiers.
+
+-*who_lecomte
+Quelle bonté !
+Quelle bonté de femme !
+Va je te le revaudrai.
+Vous entendez bien, Bertran, Madame la Comtesse vous donne Nanette en mariage, puissiez-vous vous chérir tous deux aussi tendrement, que nous nous chérissons ma femme et moi.
+
+-*who_lacomtesse
+Vous avez devant les yeux un bel exemple d'union.
+
+**** *book_ *id_I20 *act_I *date_1699
+
+-*who_lucas
+Parguenne, Monsieur le Comte, vla la Noce que je vous ramène, comme vous m'avez commandé.
+Ma mère m'a dit itou de bouter l'amour au croc, vla qu'es toisé.
+
+-*who_lamere
+Ha, ha, est-ce là le nouveau fiancé ?
+Il a la mine plus bonace que mon fils, Nanette l'y fiera mieux.
+
+-*who_lecomte
+Allons là-dedans signer le contrat, et nous reviendrons après nous réjouir.
+Commencez toujours.
+
+**** *book_ *id_I21 *act_I *date_1699
+
+-*who_adrien
+Vous êtes bienheureux, Monsieur Lucas, d'avoir évité les inconvénients de la Noce ; car on vous avait déjà mis à la tête du Vaudeville de Village, qu'on chante à tous les mariages qui se font : tenez, tenez, les entendez-vous ?
+
+**** *book_ *id_I22 *act_I *date_1699
+
+-*who_adrien
+Compère Gervais,
+Ne reçois jamais
+D'un Seigneur du Village,
+Ni Femme, ni Ferme, ni prêts ;
+Il s'empare de ton ménage,
+Ravage,
+Fait rage,
+Et prend à tes frais,
+Sur la Femme et sur l'Héritage
+De gros intérêts.
+Ivrogne Thomas,
+Ne recherche pas,
+Pour peu que ta femme vaille,
+D'un jeune voisin les repas :
+Si tu fais du vin qui se baille
+Gogaille,
+Ripaille :
+Bientôt tu mettras,
+En croyant vider sa futaille,
+Ton honneur au bas.
+
+-*who_adrien
+Vieux père Lucas,
+Tu me dis tout bas,
+Qu'avec une jeune servante
+Bientôt tu rajeuniras ;
+Tu la veux toujours bondissante,
+Bouillante,
+Fringante
+Tu ne l'entends pas ;
+Plus ta femme sera vivante,
+Et moins tu vivras.
+Landore Colas,
+Ne te flatte pas,
+Qu'avec une égrillarde
+Tu te regaillardiras pas ?
+Car avec ton humeur grognarde,
+Moularde,
+Caffarde,
+Crois qu'en certain cas,
+Plus ta femme sera gaillarde,
+Et moins tu vivras.
+
+**** *book_ *id_I23 *act_I *date_1699
+
+-*who_lecomte
+Ça mes enfants, la Noce ne sera plus interrompue, le Contrat est signé, ne pensons qu'à nous réjouir.
+L'honneur et le premier hommage,
+Sont dus par l'Habitant au seigneur du Village :
+Mais par malheur il exige souvent
+De l'Habitante la plus sage,
+L'honneur et le premier hommage.
+En cas de moi je ne veux pas
+Que ma femme s'avance
+Trop près de ces Seigneurs qui font tant de fracas :
+Ça troublerait si fort sa bienséance,
+Sa maintenance,
+Sa continence,
+Qu'en lui faisant la révérence,
+Elle ferait quelque faux pas.
+
+**** *book_ *id_I24 *act_I *date_1699
+
+-*who_dorante
+Monsieur, je me suis fait paysan pour obtenir Nanette, je suis redevenu cavalier pour vous en remercier.
+
+-*who_lecomte
+Je suis trompé !
+À moi mes gens, mes vassaux.
+
+-*who_adrien
+Vous n'avez point d'autre vassal que moi ; je suis à présent vassal de Monsieur.
+
+-*who_lacomtesse
+Nous sommes dupés, mon mouton ; mais console-toi ; si on t'enlève Nanette, tu retrouveras en moi une consolation légitime.
+D'un Valet de Gentilhommière,
+À ces Laquais de premier rang,
+Le chemin est grand ;
+Mais pour achever la carrière,
+Je ne vois plus qu'un pas à faire.
+D'une Laïs folle et légère
+À ces Lucrèces de renom,
+Le trajet est long :
+De la Lucrèce à la Mégère,
+Je ne vois plus qu'un pas à faire.
+Pour une innocente Bergère,
+Du Village au Pays Galant,
+Le voyage est grand :
+Du Pays Galant à Cythère,
+Je ne vois plus qu'un pas à faire.
+De l'esprit simple et populaire,
+À l'esprit sublime et savant,
+Le trajet est grand :
+Du bel esprit à la chimère,
+Je ne vois plus qu'un pas à faire.
+Dans l'ardeur de vous satisfaire,
+Le chemin le plus malaisé
+Nous paraît aisé :
+Mais du vouloir au savoir plaire,
+Ah ! Que je vois de pas à faire.

@@ -1,0 +1,1858 @@
+---
+identifier: laharpe_philoctete  
+creator: La harpe Jean-François de  
+date: 1783  
+title: Philoctète. , tragédie.  
+---
+
+
+PHILOCTÈTE
+
+TRAGÉDIE, traduite du grec de Sophocle
+
+M. DCC. LXXXI. avec approbation et privilège du Roi.
+
+de M. LA HARPE, de l'Académie française
+
+# Approbation. J'ai lu, par ordre de Mgr le Garde Sceaux, les oeuvres de M. de la Harpe, de l'Académie française, contenant les tragédies de Philoctète et de Menzicoff. À Paris, le 27 janvier 1781. Le privilège se trouve à la Tragédie de Menzicoff, du même auteur. GAILLARD À PARIS, Chez M. Lambert, et F.J. Baudouin, imp. Libraires, rue de la Harpe, près de S. Côme.
+Représentée, pour la première fois, le 16 juin 1783 au Théâtre de l'Odéon.
+
+
+# PRÉFACE.
+
+Il est sans doute bien honorable pour la mémoire de Sophocle, qu'en voulant trouver le chef-d'oeuvre de l'ancienne tragédie, il faille choisir entre deux de ses ouvrages, l'OEdipe roi et Philoctète. Il paraît que l'opinion du plus grand nombre s'est déclarée pour le premier : j'avouir que mon sentiment inclinerait pour le second. Il y a dans l'un, il est vrai, un plus grand intérêt de curiosité ; il y a dans l'autre un pathétique plus touchant. L'intrigue de l'un des deux sujets se développe et se dénoue avec beaucoup d'art : c'est peut-être un art encore plus admirable d'avoir pu soutenir la simplicité de l'autre ; peut-être est-il encore plus difficile de parler toujours du coeur, par l'expression des sentiments vrais, que d'attacher l'attention, et de la surprendre, pour ainsi dire, au fil des évènements. D'ailleurs, on pourrait, ce me semble, faire à la tragédie d'OEdipe des reproches plus graves qu'à celle de Philoctète : car telle est la condition de l'humanité, qu'il y a des fautes même dans les chefs-d'oeuvres. Sans parler des défauts essentiels, reconnus dans l'OEdipe, tels que celui du sujet même, qui a quelque chose de révoltant, puisque l'innocence y est la victime des Dieux et de la fatalité, celui des invraisemblances de l'avant-scène, puisqu'il n'est guère probable qu'OEdipe ni Jocaste n'aient jamais fait aucune recherche sur la mort de Laïus ; sans relever d'autres fautes qui tiennent à la nature du sujet, il y en a une dans la texture de la pièce, et qui n'appartient qu'à l'auteur ; c'est la querelle d'OEdipe et de Créon, qui occupe une grande place, et qui est à la fois dans intérêt et sans motif. La Roi de Thèbes accuse son parent avec une témérité et une précipitation inexcusable ; je sais bien que cet incident sert à remplir la pièce grecque, et que dans l'OEdipe français, Voltaire s'est servi d'un épisode pareil ; mais le besoin d'un remplissage est un défaut, et non pas une excuse ; et Sophocle dans Philoctète, sujet encore plus simple que l'OEdipe, s'est passé de cette ressource. On n'y peut remarquer qu'une scène inutile, celle du second acte, où un soldat d'Ulysse, déguisé, vient, par de fausse alarmes, presser le départ de Pyrrhus et de Philoctère, ressort superflu, puisque celui-ci n'a pas de désir plus ardent que d partir au plutôt. Cette scène ne sert doncqu'à allonger inutilement la marche de l'action, et j'ai cru devoir la retrancher ; mais, à cette faute près, si l'on considère que la pièce, faite avec trois personnages, dans un désert, ne languit pas un moment, que l'intérêt se gradue et se soutient par les moyens les plus naturels, toujours tirés des caractères, qui sont supérieurement dessinés ; que la situation de Philoctète, qui semblerait devoir être toujours la même, est si adroitement variée, qu'après s'être montré la plus à plaindre des hommes dans l'île de Lemnos, il regarde comme le plus grand des maus d'être obligé s'en sortir ; que ce personnage est un des plus théâtrals qui se puisse concevoir, parce qu'il réunit les dernières misères de l'humanité aux ressentiments les plus légitimes, et que le cri de la vengeance n'est chez lui que le cri de l'oppression ; qu'enfin, son rôle esy d'un bout à l'autre un modèle parfait de l'éloquence tragique ; on conviendra facilement qu'en voilà assez pour justifier ceux qui voient dans cet ouvrage la plus belle conception dramatique dont l'antiquité puisse s'applaudir.
+
+On a regardé comme un défaut, du moins pour nous, l'ombre d'ercule, qui produit le dénouement. Cette critique ne me paraît pas fondée : certes,, ce n'est point ici que le Dieu n'est qu'une machine. Si jamais l'intervention d'un Divinité a été suffisamment motivée, c'est sans contredit dans cette occasion ; et ce dénouement, qui ne choque point la vraisemblance théâtrale, puisqu'il est conforme aux idées religieuses du pays où se passe l'action, est d'ailleurs très bien amené, nécessaire et heureux. Hercule n'est rien moins qu'étranger à la pièce ; sans cesse il est quesiton de lui ; la possession de lses flèches en est le noeud principal ; le hhéros est son compagnon, son ami, son héritier : Philoctète a résisté et a dû resister à tout : qui l'emportera de lui ou de la Grèce ? Et qui tranchera plus dignement ce grand noeud qu'Hercule lui-même ? De plus, ne voit-on pas avec plaisir que Philoctète, jusqu'alors inflexible, ne cède qu'à la voix d'un demi-dieu, et d'un demi-dieu son ami ? C'est bien ici qu'on peut appliquer le précepte d'Horace, qui peut-être même pensait au Philoctète de Sophocle, quand il a dit :
+Nec Deux intersit, nisi dignus vindice docus. (Art. Poétique)  
+
+Quant à moi, j'ose croire que ce dénouement réussirait parmi nous, comme il a réussi chez les Grecs.
+
+Brunoy s'exprime très judiscieusmeent sur ce sujet, et en général sur les différents mérites de cette tragédie, qu'il a très bien développés.
+
+"Les Dieux (dit-il) font entendre que la victoire dépend de Philoctète et des flèches d'Hercule ; mais comment déterminer ce guerrier malheureux à secourir les Grecs, qu'il a droit de regarder comme le sauteurs de ses maux. C'est un Achille irrrité qu'il faut regagner, parce qu'on a besoind e son bras, et l'on a dû voir que Philoctète n'est pas moins inflexible qu'Achille, et que Sophocle n'est pas en-dessous d'Homère. Ulysse est employé à cette ambassade avec Néoptolème (Pyrrhus et Néoptolème, est le même personnage sous différents noms.) ; heureux contraste, dont Sophocle a tiré toute son intrigue ; car Ulysse, politique jusqu'à la fraude, et Néoptolème, sincère jusqu'à la franchise, en font tout le noeud, tandis que Philoctète, défiant et inéxorable, élude la ruse de l'un, et ne se rend point à la générosité de l'autre, de sorte qu'il faut qu'Hercule descende du ciel pour dompter ce coeur féroce, et pour faire le dénouement. On ne peut nier qu'un pareil noeud ne mérite d'être dénoué par Hercule."
+
+En conséquence de tout ce qu'on vient de lire, on me demandera pourquoi je ne fais pas paraître cet ouvrage sur la scène. Ce serait peut-être un genre de nouveauté assez piquant et assez digne d'atttention ; ce serait au moisn le première fois qu'on aurait vu sur le théâtre d'Athènes. Nous avons eu jusqu'ici que des imitations plus ou moins rapprochées de nos convenance et de nos moeurs ; et il y a longtemps que je pense, comme je l'ai dit ailleurs (Dans l'essai sur les Tragiques Grecs), que ce sujet est le seul, de ceux qu'aient traités les Anciens, qui soit de nature à être transporté en entier, et sans aucune altération, sur les théâtres modernes, parce qu'il est de tous les temps et de tous les lieux, celui de l'humanité souffrante. Mais indépendamment des rausons que j'ai de ne faire représenter , dans les circonstances actuelles, nio cet ouvrage ni aucun autre (raisons que j'ai indiquées dans la préface de Menzikoff, cette tragédie est actuellement sous presse), l'opinion avantageuse que j'ai de l'original grec, ne me rassurerait pas absolument sur le sort de la traduction, même en la supposant aussi bonne que j'aurais voulu la faire. Le Succès qu'elle a eu à la séance publique des l'Académie Française, ne serait pas même un garant infaillible de celui qu'elle pourrait avoir sur la scène : le jugement d'une assemblée quelle qu'elle soit, ne peut s'assimiler aux effets ur le théâtre. Et qui sait si l'on goûterait beaucoup sur le nôtre un drame grec d'une simplicité si nue, trois personnage sur une île déserte, une pièce non seulement sans amour, mais sans rôle de femme ? Il y a de quoi effaroucher bien des gens. La seule tentative qu'on ait faite en ce genre, soutenur du nom et du génie de Voltaire dans sa force, n'a pas réussi de manière à encorager ceux qui voudraient la renouveler. La "Mort de César" a obtenu le suffrage de tous les connaisseurs, mais n'a pu encore (peut-être à notre honte) s'établir (cet admirable ouvrage, joué en 1743, n'eut que sept représentations ; il n'a été repris qu'aux fêtes de la Pais, en 1763, et depuis il n'a pas reparu) ; sur notre théâtre. C'est en ain que les étrangers nous reprochent depuis longtemps, non sans quelque raison, cette préférence trop exclusive que nous donnons aux intrigues amoureuses, et d'où naît, dans nos pièces une sorte d'uniformité, dont l'auteur de "Mérope", d' "Oreste" et de "La Mort de César" , s'est efforcé de nous affranchir Voltaire. Ce grand homme, dont le goût était si exquis et si exercé, avait senti tout le mérite de cette antique simplicité, qui serait aujourd'hui d'autant plus recommandable, qu'elle pourrait servir d'antidote contre l'extrême corruption du goût. Mais comment accréditer ce genre de nouveauté, au milieu de la contagion générale, lorsqu'atteints de la maladie des gens rassasiés, nous voudrions au contraire rassembler tous les tableaux dans le même cadre , tous les intérêts dans un drame, tous les plaisirs dans un spectacle, transporter l'opéra dans la tragédie, et la tragédie sur la scène lyrique ? De là cette perversité d'esprit qui précipite tant d'acrivains dans le bizarre et le monstrueux : on ne songe pas assez qu'il faudrait prendre garde à ne pas user à la fois toutes les sensations et toutes les jouissances, ménager les ressources afinde les perpétuer, admettre chaque genre à sa place et à son rang, n'en dénaturer aucun, ne rejeter que ce qui est froid et faux, et surtout éviter les extrêmes, qui font toujours les abus.
+
+Je sais que dans le moment où j'écris, un certain nombre d'amateurs s'occupent à ranimer l'étude de l'antiquité ; que l'on a su gré à l'auteur d' "OEdipe chez Admète", d'avoir si heureusement emprunté les deux plus scène d' "OEdipe à Colone", en y ajoutant de nouvelle beautés ; que quelques personnes ont cru pouvoir en tirer un présage pour le succès de Philoctète ; mais je prie qu'on fasse attention que la vieillesse d'OEdipe aurait pu nous intéresser beaucoup moins, sans les pleurs d'Antigone : et je n'ai point d'Antigone ; en un mot, nous sommes accoutumés à voir des femmes sur la scène. Je conçois aussi bien que personne comment ce plaisir a pu devenir un besoin fort doiux ; je ne dis pas qu'il fût impossible de s'ne passer avec le génie de Sophocle ; mais il est aussi très possible qu'on ne pardonnât pas au Traduteur de l'avoir entrepris.
+
+Et puisque j'ai parlé d'"OEdipe chez Admete", cette pièce, malgré son matériel réel, qu'on ne m'accusera pas de méconnaître, n'est-elle pas elle-même un exemple de ces sortes d'alliages où nous jette la crainte de paraître trop simple ? Personne n'applaudit (Voyez le Mercure du 15 décembre 1778) plus volontiers que moi aux sucès d'un confrère dont j'honnore et chéris les talents et l'honnêteté ; mais c'est ici le lieu d'invoquer son propre témoignage, et de répéter ce que j'ai osé lui dire à lui-même, et ce qu'il a senti mieux que tout autre, parce que l'amour-prore du véritable talent est toujours subordonné à l'amour de l'art et de la vérité. Si M. Ducis se fût borné au sujet d' "OEdipe à Colone", qui, à la vérité, ne comportait que trois actes, il eût pu faire un ouvrage digne d'être mis en parallèle avec "La Mort de César", un tout omplet et régulier, qui n'aurait été que plus intéressant en devenant plus simple ; et il aurait évité le reproche d'avoir affaible une pièce d'Eurpide en l'amalgamant avec une pièce de Sophocle.
+
+Quoi qu'il en soit, c'est principalement au petit nombre de lecteurs versés dans les lettres grecques et dans l'étude de l'antiquité, que j'offre cette traduction fidèle de l'un des plus beaux ouvrages que l'on ait écrits dans la plus belle des langues connues. C'est surtout à cette classe de juges choisis, que je dois rendre compte de mon travail, qu'eux seuls peuvent apprécier : ils se souviendront sans doute que lorsqu'un poète traduit un poète, la véritable fidélité de la version consiste à rendre, s'il se peut, toutes les beautés plutôt que tous les mots, et ce principe, reçu même dans la prose, est d'un usage incontestable quand il s'agit de vers. Ce que je puis assurer, c'est qu'autant que me l'a permis la différence des langues et le caractère de notre versification, j'ai suivi non seulement les idées et le dialogue, mais même les tournures et les constructions du texte grec : persuadé qu'en traduisant un écrivains tel que Sophocle, plus on se rapproche de lui, plus on est près de la perfection, parce que tous les mouvements de son style sont toujours ceux de la nature. C'est ce que n'a pas assez senti M. Brunoy, homme éclairé et écrivain pur, qui connaissait le mérite des anciens, mais qui ne s'était pas assez rempli du génie de leur composition : il semble se faire une loi de ne conserver que le sens de son auteur, et de substituer d'ailleurs l'élégance moderne à cette expression simple, énergique et vraie de la poésie antique ; souvent il paraphrase Sophocle, et quelquefois le défigure, comme je l'ai observé dans plusieurs endroits que l'on verra cités dans des notes. Mais on lui pardonnerait plus aisément quelques fautes, toujours difficiles à éviter dans toute traduction, que le disproportion continuelle où il est à l'égard de son original. Peut-être aussi aura-t-on quelque peine à pardonner à son goût et à son jugement, la singulière comparaison qu'il fait de Philoctète avec Nicomède, et qui est le résultat de réflexions d'ailleurs sages et instructives. Voici comme il les termine (Voyez dans le second volume du "Théâtre des Grecs", les réflexions sur Philoctète.) : "À suivre le goût de l'antiquité, on ne peut reprocher à cette tragédie aucun défaut considérable ; tout y est lié, tout y est soutenu, tout tend directement au but ; c'est l'action même, telle qu'elle a dû se passer. Mais à en juger par rapport à nous, le trop de simplicité et le spectacle dominant d'un homme aussi tristement malheureux que Philoctète, ne peuvent nous faire une plaisir aussi vite que les malheurs plus brillants et plus variés de Nicomède dans Corneille."
+
+Ces dernière lignes offrent un rapprochement bien étrange. Quant au "trop de simplicité par rapport à nous", on a vu que je ne m'éloignais pas de le penser. Il n'en est pas de même du rôle de Philoctète, que Brunoy trouve "si tristement heureux". Si j'ai bien compris dans quel sens ces mots peuvent s'appliquer à un personnage dramatique, il me semble qu'ils ne peuvent convenir qu'à celui qui serait dans une situation monotone et irrémédiable ; c'est alors que le malheur afflige plus qu'il n'intéresse, parce qu'au théâtre il n'y a quère d'intérêt sans espérance. Mais Philoctète n'est nullement dans ce cas, et ni l'un ni lautre de cex deux reproches ne put tomber sur ce rôle, reocnnu si émminemment tragique. Enfin, de tous les personnages que l'on pourrait comparer au Philoctète de Sophocle, Nicomède est peut-être celui qu'il était le plus extraordinamre de choisir. Quel rapport entre ces deux pièces, quand le principal mérite de l'une est d'abonder en pathétique, et que le grand défaut de l'autre est d'en être totalement dépourvue ? On peut assurément, sans manquer de respect pour le génie de Corneille, s'étonner du "plaisir vif" que procure , selon Brunoy, le drame qui est en effet le moins tragique de tous ceux où Corneille n'a pas été absolument au-dessous de lui-même, ouvrage dans lequel il y a quelques traits de grandeur, mais pas un moment d'émotion.
+
+Le grand intérêt du rôle de Philoctète n'avait pas échappé à l'un des plus illustres élèves de l'antiquité, Fénelon, qui, du chef-d'oeuvre de Sophocle, a tiré le plus bel épidode du sien ; c'est encore le morceau du Télémaque qu'on relit le plus volontiers. Fénelon s'est approprié les traits les plus heureux grecs, et les a rendus dans notre langue avec tout le charme de leur simplicité primitive, et en homme plein de l'esprit des anciens, et pénétré de leur substance. Racine le fils, à qui son père, avait appris à les étudier et à les admirer, mais qui n'avait pas hérité de lui le talent de lutter contre eux, a essayé, dans ses "Réflexions sur la Poésie", de traduire en vers quelques endroits de Sophocle, et en particulier de Philoctète.
+
+Je ne crains pas qu'on m'accuse d'une consurrence mal entendue : tele st mon amour pour le beau, que si sa version m'avait paru digne de l'original, je l'aurais, sans balancer, substituée à la mienne. Mais ceux qui entendent le grec verront aisément combien le fils du grand Racine est loin de Sophocle : ses vers ont de la correction et quelquefois de l'élégance, mais ils manquent le plus souvent de vérité, de précision et d'énergie ; ses fautes même sont si palpables, qu'il est facile de les faire apercevoir à ceux qui ne connaissent pas l'original. Je me bornerai à un seul morceau fort court, mais dont l'examen peut servir à faire voir en même temps combien les anciens étaient de fidèles interprètes de la nature, et combien Racine le fils, qui les aime et qui les loue, les traduit infidèlement. Je choisis l'entrée de Philoctète sur la scène : voici la version en prose littérale.
+
+"Hélas ! Ô étrangers ! Qui êtes-vous, vous abordez dans cette terre, où il n'y a ni port ni habitation ? Quelle est votre patrie ? quelle est votre naissance ? À votre habit, je crois reconnaître la Grèce, qui m'est toujours si chère ; mais je voudrais entendre votre voix ; et ne soyez point effrayés de mon extérieru farouche, ne me craignez point mais plutôt ayaez pitié d'un malheureux, seul dans un désert, sans secours, sans appui. Parlez ; si vous venez comme amis, que vos paroles répondent aux mienne ; c'est une grace, une justice que vous ne pouvez me refuser."
+
+Voilà Sophocle ; ce langage est ce lui qu'a dû tenir Philoctète : rien d'essentiel n'y est omis, et il n'y a pas un mots de trop ; c'est la perfection du style dramatique. Voici Racine le fils.
+Quel malheur vous conduit dans cette île sauvage  
+Et vous force à chercher ce funeste visage ?  
+Vous que sans doute ici la tempête a jetés,  
+De quel lieu, de quel peuple êtes-vous écartés ?  
+Mais, quel est cet habit que je revois paraître ?  
+N'est-ce pas l'ahbit grec, que je crois reconnaître ?  
+Que cet vue, ô ciel ! Chère à mon souvenir,  
+Redouble en moi l'ardeur de vous entretenir !  
+Hâtez-vous donc, parlez, qu'il me tarde d'entendre  
+Les sons qui m'ont frappé dans l'âge le plus tendre,  
+Et cette langue, hélas ! que je ne parle plus !  
+Vous voyez un mortel qui de la terre exclue,  
+Des hommes et des Dieux satisfait le colère :  
+Généreux inconnus, d'une regard moins sévère,  
+Considérez l'objet de tant d'inimitié  
+Et soyez moins saisis d'horreur que de pitié.  
+
+Ces vers, considérés en eux-mêmes, ont de la douceur, et en général ne sont pas mal tournés ; mais jugez-les sur l'original et sur la situation, et vous serez étonné de voir combien de fautes, pire que des solecismes, combien de chevilles, d'inutilités, d'omissions essentielles !
+
+D'abord, quelle langueur dans les huit premiers vers, qui tombent tous deux à deux, et se répètent les uns les autres! quelle uniformité dans ces hémistiches accouplés, "cette île sauvagen ce funeste rivage, que je vois praître, que je crois reconnaître !" Ce défaut serait peut-être moins répréhensible ailleurs ; mais ici c'est l'opposé des mouvements qui doivent se succéder avec rapidité dans l'âme de Philoctecte, et que Sophocle a si bien exprimés. Où sont ces interrogations accumulées, qui doivent se presser dans le bouche de cet infortuné qui voit enfin des hommes.
+Quel malheur vous conduit dans cette île suavage,  
+Et vous force à cercher ce funeste rivage ?  
+
+Supposons un souverain dans sa cour, recevant des étrangers ; parlerait-il autrement ? Ce tranquille interrogatoire ressemble-t-il à ce premier cri que jette Philoctète ? phrase en grec , etc. "Hélas ! Ô étrangers ! Qui êtes-vous ? Ce cri demande du secours" , impore la pitié, et peint l'impatience de la curiosité ; rien ne pouvait le supplée, et les deux premiers vers de Racine le fils, sont uine espèce de contre-sens dans la situation.
+De quel peuple êtes-vous écartés ?  
+
+Ailleurs cette expression pourrait n'être pas mauvaise : ici elle est d'une recherche froide, parce que tout doit être simple, rapide : quel est votre nom ? Quelle est votre patrie ? Voilà ce qu'il fallait dire, tout autre langage était faux.
+Mais, quel est cet habit ?  
+
+Que ce "mais" est déplacé ! Et pourquoi interroger ici hors de propos, quand la chose est sous les yeux ? Sohocle dit simplement : "Si j'en crois l'apparence, votre habit est celui des Grecs." Et qu'est-ce que "l'ardeur de vous entretenir" ? Il est bien question d' "entretien" ; c'est la son de la voix d'un humain, c'est la voix d'un Grec que Philoctète veut entendre ; Sophocle le dit mot pour mot , texte en grec, "je veux entendre votre voix : qulle différence !"
+Qu'il me tarde d'entendre  
+Les sons qui m'ont frappé dans l'âge le plus tendre,  
+Et cette langue, hélas ! Que je ne parel plus !  
+
+Ces vers ne sont pas dans le grec, mais il sont dans la situation, ils sont bien faits ; cependant il eût mieux valu ne pas ajouter ici à Sophocle, et le traduire mieux dans le reste. Ce qu'on lui donne ne vaut pas ce qu'on lui a ôté ; il eut mieux valu ne pas commencer par mentir à la nature, ne pas omettre ensuite ce mouvement si vrai et si touchant ; "Ne soyez point effrayés à mon aspect, ne me voyez point avec horreur." C'est qu'en effet dans l'état où est Philoctète, il peut craindre cette espèce d'horreur qu'une profonde misère peut inspirer. La Traducteur a reporté cette idée dans le dernier vers ; mais une idée ne remplace pas un mouvement de l'âme, ne remplace pas ce beau vers : texte en grec
+Généreux inconnus, d'un regard moins sévère  
+Considérez l'objet de tant d'inimitié.  
+
+Tout cela est vague et faible, et n'est point dans Sophocle ; Philoctète ne les appelle point "généreux", car il ne sait pas encore s'ils le seront ; et tout ce qu'il dit, peint la défiance maturelle au malheur ; et si leur "regard" est "sévère", pourquoi les suppose-t-il "généreux" ? Ce sont des chevilles qui amènent à des incons"quences. Pourquoi leur parle-t-il de 'tant d'inimitié" ? Toutes ces expressions parasites ne vont poin tau fait, ne rendent point ce que dit et ce que doit dire Philoctète : "ayez pitié d'un malheureux abandonné dans un désert, sans secours et sans ami".
+
+Cette analyse peut paraître rigoureuse ; elle n'est pourtant que juste, elle est motivée, évidente, et porte sur des fautes capitales. C'est en axaminant dans cet esprit la poésie dramatique , que l'on concevra quel est le mérite d'un Racine et d'un Voltaire, qui, dans leurs bons ouvrages, ne commettent jamais de pareilles fautes ; c'est ainsi que l'on concevra en même-temps pourquoi il n'est pas possible de lire une scène de tant de pièces applaudies un moment par une multitude égarée, et dont les succès scandaleux nous ramènent à la barbarie.
+
+Ce n'était pas un barbare que Chateaubrun, qui emprunta des Grecs sa tragédie des "Troyennes", pièce touchante, malgré les défauts du plan et les inégalités du style ; mais s'il a réussi à imiter quelques situations d'Euripide, il n'a pas été aussi heureux en traitant le sujet de Philoctère après Sophocle. Sa diction, qui a dut naturel et de l'intérêt, quoique souvent faible et incorrecte, s'élève rarement à l'énergie du plus grand des tragiques grecs. Son plan est fort loin de la sublime simplicité de Sophocle ; son Philoctète est entièrement moderne ; il a mêlé une intrigue d'amour ; Pyrrhus devient tout d'un coup amoureux d'une fille de Philoctète, qu'il n'a fait qu'entrevoir ; et l'on sent qu'une passion si subite , qui ne saurait être d'un grand effet au théâtre , où il faut que tout soir préparé, ne sert qu'à partager l'intérêt qui doit se réunir sur Philoctète. D'ailleurs Chateaubrun a-t-il pu penser que ce fût la même chose pour ce malheureux prince, d'être seul sur l'île de Lemnos, ou d'y être savec sa fille ? Est-il vraisemblable encore que Sophie soit venue joindre son père, et que depuis dix ans le père de Philoctète et sa famille entière l'aient abandonné ? Un autr inconvénient de la pièce française, c'est que l'auteur, en rejetant le dénouement de Sophocle, a été obligé de faire Ulysse son principal personnage et le héros de sa tragédie. C'est lui dont l'éloquence finit par vaincre la haine de Philoctète ; et pour préparer cette révolution, il a fallu affaiblir beaucoup le cractère de ce dernier, et fortifier et embellir celui d'ulysse, ce qui est conttraire à la nature du sujet, et ce qui ne suffit pas même pour justifier le dénouement : car si Philoctète peut-être fléchi, est-ce bien par Ulysse, celui de tous les mortels qu'il doit le plus abhorrer ? S'il peut résister à Pyrrhus, qu'il aime, comment cède-t-il à Ulysse, qu'il déteste ? Un changement si peu ordinaire au coeur humain, ne peut pas être amené par des discours : il faut des ressorts plus puissants.
+
+PYRRHUS.
+Partons.  
+
+PHILOCTETE.
+Ciel ! Je me meurs.  
+
+PYRRHUS.
+Et quelle horreur subite,  
+Quel trouble s'est sasi de votre amie interdite ?  
+
+PHILOCTETE.
+Ah ! Dieux !  
+
+PYRRHUS.
+Vous gémissez, vous implorez les Dieux,  
+Et de vives douleurs sont peintes dans vos yeux.  
+
+SOPHIE.
+Mon père ! Ciel ! Reçois ma vie en sacrifice,  
+Et fais tomber sur moi son injuste supplice !  
+
+PHILOCTETE.
+Pyrrhus, que mes tournments ne vous rebutent pas.  
+
+PYRRHUS.
+Votre malheur me touche, et m'attache à vos pas.  
+
+PHILOCTETE.
+Oui, je puis... hâtons-nous d'atteindre le rivage.  
+Non, restons... Le poison se déploye avec rage.  
+
+SOPHIE.
+Ah ! Seigneur, vous voyez l'horreur de son destin.  
+
+PHILOCTETE.
+Dieux ! Quel feu dévorant se glisse dans mon sein !  
+Pyrrhus, tranchez des jours si remplis d'amertume ;  
+Qu'un bûcher allumé m'ebrase et me consume.  
+
+(Il rentre dans sa caverne.)
+
+Retrouve-t-on là ces gradations si bien ménagées dans le Philoctète Grec, ce mélange de douleur, de désespoir et d'effroi, ces efforts qu'il fait pour cacher ses tourments, cette inquiétude si naturelle et si intéressante, qui lui fait craindre sans cesse que l'horreur de son état ne rebute la pitié de Pyrrhus ; ces supplications qu'il lui adresse, ces serments qu'il lui demande, enfin tous ces grands développements qui portent jusqu'au fond du coeur l'intérêt d'une situation dramatique ?
+
+Ce n'est pas qu'il n'y ait des beautés dans l'ouvrage, et qui, même, n'appartiennent qu'à l'auteur ; tels sont ces deux beaux vers de Philoctète, parlant à Ulysse et aux Grecs :
+Un oracle fatal vous a glacés d'effroi ;  
+Vous vous trouvez pressés entre les dieux et moi.  
+Tel est encore cet endroit de son récit :  
+Loin des hommes cruels, injustes et sans foi,  
+Quelquefois mon désert eut des attraits pour moi :  
+Les bienfaits n'avaient pu m'attacher les Atrides,  
+Je peu apprivoiser jusqu'aux monstres avides.  
+
+Mais ailleurs on voit avec peine les lieux communs du bel esprit moderne, commes des parures de nos jours, qu'une peinture mêlerait dans un sujet de l'antiquité. Pyrrhus, en considérant la sort de Philoctète, s'exprime ainsi dans un monologue :
+Quel contraste, grand Dieux ! Dès la plus tendre enfance,  
+On étale à nos yeux sa superbe opulence,  
+On écarte de nous jusqu'à l'ombre des maux,  
+On m'offre à nos regards que de riants tableaux ;  
+Pour ne point nous déplaire, on nous cache à nous-même,  
+On ne nous entretient que de grandeurs suprêmes ;  
+On ajoute à nos noms des noms ambitieux ;  
+Autant que l'on le peut, on fait de nous des dieux.  
+Victimes des flatteurs, malheureux que nous sommes,  
+Que ne nous apprend-t-on que les rois sont des hommes ?  
+
+Il est clair que l'auteur, ne songeant qu'au temps où il acrivait, a oublié que dans les temps héroïques, tels qu'il sont décrits dans Homère, les rois n'étaient pas élevés comme ils l'ont été depuis, dans le luxe et la corruption des grands empires ; que l'éducation qu'Achille avait reçue de Chiron, ne l'avait pas amolli, et que le fils d'Achille n'avait pas besoin de voir Philoctète à Lemnos, pour savoir que les rois sont des hommes. Ces vers, qui pourtant furent applaudis à cause des rois et des hommes, ne sont donc qu'une vaine déclamation, qui aurait paru bien déplacée sur le théâtre d'Athènes.
+
+Je m'explique sur cet objet avec d'autant plus de liberté, que je ne crois pas qu'on m'attribue la prétention de lutter contre le Philoctète de Châteaubrun ; son ouvrage, au sujet près, est à lui ; le mien est tout entier à Sophocle; car je ne compte pour rien le très petit nombre de vers que j'ai été obligé d'ajouter à ma traduction, et que j'ai marqués avec des guillemets, par un excès de scrupule, et pour fair emieux comprendre qu'elle a été mon exactitude dans tout le reste. Je dois même exposer le motif de ces légères additions.
+
+Dans la première scène, je fais dire à Pyrrhus, au moment où il cède aux raisons d'Ulysse :
+Je dois venger un père et soutenir son nom ;  
+Cet honneur n'appartient qu'au vainqueur d'Ilion ;  
+J'ai pour le mériter, fait plus d'un sacrifice..  
+À Philoctète au moins, je puis sans artifice,  
+Me plaindre des affronts dont je fus indigné ;  
+Je tairai seulement que l'ai tout pardonné.  
+Puisqu'il el faut enfin, je consens qu'il ignore  
+Qu'offensé par les Grecs, Pyrrhus les sert encore.  
+Il en copute à mon coeur, et je cède à regret.  
+
+Ces vers ajoutés ont pour but d'instruire le lecteur que Pyrrhus, dans tout ce qu'il raconte ensuite à Philoctète, ne lui dit que la vérité, et ne le trompe qu'en lui faisant croire qu'il abandonne les Grecs, et qu'il retourne à Scyros. Sophocle n'avait pas besoin de cette précaution avec des spectateurs instruits comme lui de ces événements ; mais elle était nécessaire pour les lecteurs français, qui, sans cela, pourraient ne pas distinguer dans le scène suivante ce qui est conforme à la vérité, et ce qui ne l'est pas. Par la même raison, j'ai fait dire à Pyrrhus, au troisième acte, en parlant de la Grèce :
+... Je veux bien pour elle  
+Oublier, je l'avoue, une injure criminelle.  
+Mon coeur, qui s'en plaignait, ne vous a point déçu ;  
+Mais j'immole à l'Etat l'affront que j'ai reçu  
+imitiez mon exemple.  
+
+Le monologue qui ouvre le second acte, est aussi entièrement de moi ; il était nécessaire pour préparer l'aveu de Pyrrhus va faire à Philoctète, et annoncer l'impression qu'a faite sur lui le spectacle des douleurs de cet infortuné. Ce changement est indiqué dans le grec lorsque philoctète quitte la scène, et que Pyrrhus reste avec le choeur : retranchent ce choeur, ainsi que tous le sautres, il a fallu y suppléer par un monologue, puisque le pièce n'a point de confidents.
+
+On sait ce qu'étaient les choeurs chez les Grecs, des morceaux de poésie lyrique, souvent fort beaux, qui tenaient à leur système dramatique, mais qui ne servaient de rien à l'action, et quelquefois même les gênaient. Je les ai supprimés tous, comme inutiles et déplacés dans une traduction française qui peut être jouée. Je n'en ai conservé qu'un, dont j'ai mis les paroles dans la bouche de Pyrrhus, au premier acte, parce qu'il exprime les idées et les sentiments analogues à la situation et au caractère de Pyrrhus.
+
+Ce caractère n'a pas été à l'abri de la critique ; on a a reproché au fils d'Achille de se plier à la dissimulation, et même de savoir à son âge trop bien dissimuler. Mais que l'on songe qu'il avait ordre de suivre en tout les conseils d'Ulysse, et que s'il ne les suit pas, il perd toute espérance de prendre Troie et de venger son père. Voilà sans doute des motifs suffisants pour Pyrrhus ; et les leçons d'u!lysse sont si bien tracées, qu'il ne faut pas une grande expérience pour les suivre ; et avec quel plaisir on voit aussi ce jeune guerrier revenir à son caractère, qu'il n'a pas pu forcer qu'on moment, et se rendre à la pitié, après avoir cédé à la politique ? Que le moment où il se rend les flèches à Philoctète, est noble et attendrissant ! Et que c'est bien-là le tableau de la nature !
+
+Enfin, si cette traduction, (dans laquelle je n'ai retranché du texte qu'environ une soixantaine de vers, qui m'ont paru allonger le dialogue) peut plaire à ceux qui connaissent la poésie de Sophocle, et en donner aux autres une idée plus fidèle que les versions en prose que nous en avons, je serai assez payé de mon travail, qui, malgré ses difficultés, a été pour moi un plaisir, qu'one ne peut goûter qu'en traduisant un homme de génie. Il est doux d'être soutenu par le sentiment d'une admiration continuelle, et c'est alors que l'on jouit de ce qu'on ne saurait égaler.
+
+
+# Personnages.
+ – PHILOCTÈTE.
+ – ULYSSE.
+ – PYRRHUS.
+ – HERCULE, dans un nuage.
+ – Un GREC.
+ – SOLDATS.La scène est à Lemnos.
+
+
+# ACTE I.
+Le théâtre représente le bord de la mer. On voit de côté et d'autres différentes ouvertures entre des rochers; mais la grotte de Philoctète est supposée ne pouvoir être vue que dans le fond du théâtre.
+
+
+
+## SCÈNE I. Ulysse, Pyrrhus, Deux soldats grecs.
+
+    ULYSSE.
+Nous voici dans Lemnos, dans cette île sauvage,  
+Dont jamais nul mortel n'habita le rivage.  
+Du plus vaillant des Grecs, ô vous, fils et rival,  
+Fils d'Achille, ô Pyrrhus ! C'est sur ce bord fatal,  
+Au pied de ces rochers, près de cette retraite,  
+Que l'on abandonna le triste Philoctète.  
+C'est moi qui l'ai rempli cet ordre de rigueur.  
+Il le fallait : frappé par quelque dieu vengeur,  
+D'une incurable plaie éprouvant les supplices,  
+Il troublait de ses cris la paix des sacrifices,  
+De son aspect impur blessait leur sainteté,  
+Et souillait tout le camp de sa calamité.  
+Mais laissons ce récit : le temps, le danger presse.  
+Je veux rendre aujourd'hui Philoctète à la Grèce.  
+S'il sait que dans cette île Ulysse est descendu,  
+De nos travaux communs tout le fruit est perdu :  
+Je dois fuir ses regards. Vous, dont le noble zèle  
+Promit à mes projets l'appui le plus fidèle,  
+Approchez de cet antre, et voyez son séjour :  
+Par une double issue il est ouvert au jour ;  
+Un ruisseau, si le temps n'a point tari son onde,  
+Coule des flancs creusés d'une roche profonde.  
+Vous pouvez aisément reconnaître à ces traits  
+L'asile qu'il habite : observez-en l'accès.  
+Tâchez de découvrir s'il est dans sa demeure.  
+S'il est absent, je puis vous apprendre sur l'heure  
+Quels grands desseins ici je dois exécuter,  
+Et surtout quels secours vous devez leur prêter.  
+
+    PYRRHUS, S’AVANÇANT AU FOND DU THÉÂTRE.
+Au premier de vos soins je m'en vais satisfaire.  
+Oui, je crois voir déjà ce sauvage repaire,  
+Cette grotte...  
+
+    ULYSSE.
+        Au sommeil peut-être est-il livré.  
+
+    PYRRHUS.
+Nul homme ne se montre en ce lieu retiré.  
+Tout ce que j'aperçois, c'est un lit de feuillage,  
+Un vase d'un bois vil et d'un grossier ouvrage....  
+
+    ULYSSE.
+Ce sont là ses trésors.  
+
+    PYRRHUS.
+        Des rameaux dépouillés....  
+Que dis-je ! Des lambeaux que le sang a souillés.  
+Ah ! Dieux !  
+
+    ULYSSE.
+        C'est sa retraite : à nos yeux tout l'atteste  
+Sans doute il n'est pas loin ; sa blessure funeste  
+Laisse bien peu de force à ses pas douloureux.  
+Pourrait-il s'écarter ? Hélas ! Le malheureux  
+Est allé sur ces bords chercher sa nourriture,  
+Quelque plante, remède aux tourments qu'il endure.  
+Aux soldats.
+
+Vous, d'un oeil attentif observez tout, Soldats ;  
+Que son retour ici ne nous surprenne pas.  
+De tous les Grecs, objets du courroux qui l'anime ;  
+C'est Ulysse surtout qu'il voudrait pour victime.  
+Les deux soldats s'éloignent.
+
+
+    PYRRHUS.
+Il suffit. On se peut assurer sur leur, foi.  
+Sur vos desseins secrets ouvrez-vous avec moi.  
+Parlez.  
+
+    ULYSSE.
+        Fils d'un héros, songez bien que la Grèce  
+A de ses intérêts chargé votre jeunesse.  
+L'État n'a point ici besoin de votre bras,  
+Et la seule prudence y doit guider vos pas,  
+Doit fléchir la hauteur de votre caractère.  
+Quoi qu'on exige enfin de notre ministère,  
+Pour servir la patrie, il faut nous réunir ;  
+Elle attend tout de vous, et doit tout obtenir.  
+
+    PYRRHUS.
+Que faut-il ?  
+
+    ULYSSE.
+        Il s'agit de tromper Philoctète.  
+Je vois l'étonnement où ce seul mot vous jette ;  
+Mais, n'importe, écoutez : il va vous demander  
+Qui vous êtes, quel sort vous a fait aborder  
+Sur les rochers déserts qui défendent cette île :  
+Dites-lui, sans détour, je suis le fils d'Achille.  
+Mais feignez qu'animé d'un fier ressentiment,  
+Et contre des ingrats irrité justement,  
+Vous retournez au lieu où vous prîtes naissance,  
+Que vous abandonnez les Grecs et leur vengeance ;  
+Les Grecs qui, suppliants, abaissés devant vous,  
+Trop instruits qu'llion doit tomber sous vos coups,  
+Ont au pied de ses murs conduit votre courage,  
+Et qui de vos bienfaits vous payant par l'outrage,  
+Près du tombeau d'Achille ont dépouillé son fils,  
+De vos exploits, des siens, vous ont ravi le prix,  
+Et préférant Ulysse, ont à votre prière  
+Refusé l'héritage et l'armure d'un père.  
+Contre moi-même alors, s'il le faut, éclatez  
+En reproches amers par le courroux dictés,  
+Sans craindre que ma gloire en paraisse flétrie ;  
+On ne peut m'offenser en servant la Patrie ;  
+Et vous la trahissez, si Philoctète enfin  
+Échappe au piège adroit préparé par ma main.  
+Ne vous y trompez pas : sans les flèches d'Hercule,  
+En vain vous nourrissez l'espérance crédule  
+De renverser les murs d'un superbe Ilion ;  
+Oui, pour marquer le jour de sa destrcution,  
+Il faut que Philoctère aille aux remparts de Troie,  
+Et des flèches quiporte ilion est la proie.  
+Vous seul de tous les grecs, vous pouvez aujourd'hui,  
+Sans crainte et sans danger, paraître devant lui.  
+Il ne peut avec vous confondre en sa haine  
+Vous n'avez point prêté le serment qui m'enchaîne.  
+Vous n'eûtes point, trop jeune au gré de votre ardeur,  
+De part à nos exploits, non plus qu'à son malheur.  
+Mais, s'il savait qu'Ulysse a touché ce rivage,  
+Nous devons, vous et moi, tout craindre de sa rage.  
+C'est la ruse, en un mot, qui seule dans vos mains  
+Fera passer ces traits dont les coups sont certains,  
+Ces traits, dépôt fatal, trésor cher et terrible,  
+Armes d'un demi-dieu, qui l'ont fait invincible.  
+Je connais votre coeur, il feint malaisément ;  
+Sans doute il n'est pas né pour le déguisement.  
+Mais le prix en est doux, Seigneur ; c'est la victoire.  
+L'artifice est ici le chemin de la gloire.  
+Osez tromper pour vaincre, et n'en croyez que moi.   [1] [2]
+Ailleurs de l'équité suivons l'austère loi ;  
+Sachons en respecter les bornes légitimes ;  
+Aujourd'hui seulement oublions ses maximes.  
+Je ne veux rien qu'un jour, un seul jour ; désormais  
+À vous, à vos vertus, je vous rends pour jamais,  
+
+    PYRRHUS.
+À suivre vos conseils comment puis-je descendre ?   [3]
+Loin de les approuver, je souffre à les entendre.  
+Cessez, fils de Laà«rte, un semblable discours ;  
+Achille ne m'a point instruit à ces détours :  
+À son sang, comme à lui, la fraude est étrangère,  
+Et ce n'étaient point là les armes de mon père.  
+S'il nous faut entraîner Philoctète aux combats,  
+Je prétends contre lui n'employer que mon bras.  
+Faible et seul contre tous, où serait sa défense ?  
+J'ai promis avec vous d'agir d'intelligence ;  
+Mais dût-on m'accuser de faiblesse et d'erreur,  
+Je crains le nom de traître, il me fait trop d'horreur.  
+J'aime mieux, s'il le faut, succomber avec gloire,  
+Que d'avoir à rougir d'une indigne victoire.  
+
+    ULYSSE.
+Et moi, Pyrrhus, aussi, comme vous autrefois,   [4]
+Sans peur dans les dangers, dans les conseils sans voix,  
+Je crus que la valeur seule pouvait tout faire.  
+Aujourd'hui que le temps me détrompe et m'éclaire,  
+Je vois qu'il faut surtout, pour régir des États,  
+Que la tète commande et conduise le bras.  
+
+    PYRRHUS.
+Mais quoi ! C'est un mensonge enfin qu'on me demande.  
+
+    ULYSSE.
+Le mensonge est léger ; la récompense est grande,  
+
+    PYRRHUS.
+De fléchir ce guerrier n'est-il aucun moyen ?  
+
+    ULYSSE.
+La douceur ni la force ici ne peuvent rien,  
+
+    PYRRHUS.
+La force ! Ce mortel est-il donc indomptable ?  
+
+    ULYSSE.
+Ses traits portent la mort, la mort inévitable.  
+
+    PYRRHUS.
+Ainsi, l'on risque même à s'offrir devant lui ?  
+
+    ULYSSE.
+Oui, si l'art ne vous sert et de guide et d'appui,  
+
+    PYRRHUS.
+Trahir la vérité ! Le peut-on sans bassesse ?  
+
+    ULYSSE.
+On le doit, s'il s'agit du salut de la Grèce.  
+
+    PYRRHUS.
+Me résoudre à tromper ! Moi, seigneur ! J'en rougis.  
+
+    ULYSSE.
+Eh ! Comment rougit-on de servir son pays ?  
+
+    PYRRHUS.
+Quoi ! Pour servir les Grecs n'est-il point d'autre voie ?  
+
+    ULYSSE.
+À Philoctète enfin les dieux ont promis Troie.  
+
+    PYRRHUS.
+Ainsi l'on m'abusait lorsqu'on a prétendu  
+Qu'à mes destins, à moi, ce triomphe étoit dû ;  
+Et mon coeur que flatta son erreur et la vôtre,  
+S'enivrait d'un honneur réservé pour un autre.  
+
+    ULYSSE.
+La gloire entre tous deux est commune aujourd'hui;  
+Il ne peut rien sans vous, ni Pyrrhus rien sans lui.  
+
+    PYRRHUS.
+Eh bien ! Des immortels il faut remplir l'oracle ;  
+À leurs profonds desseins qui pourrait mettre obstacle ?  
+Je dois venger un père, et soutenir son nom :  
+Cet honneur n'appartient qu'au vainqueur d'Ilion.  
+J'ai, pour le mériter, fait plus d'un sacrifice...  
+À Philoctète au moins je puis, sans artifice,  
+Me plaindre des affronts dont je fus indigné ;  
+Je tairai seulement que j'ai tout pardonné.  
+Puisqu'il le faut enfin, je consens qu'il ignore,  
+Qu'offensé par les Grecs, Pyrrhus les sert encore.  
+Il en coûte à mon coeur, et je cède à regret.  
+
+    ULYSSE.
+Accomplissez des dieux l'immuable décret.  
+Le prix de la sagesse et celui du courage,  
+De qui leur est soumis est le double apanage.  
+
+    PYRRHUS.
+Je bannis tout scrupule... on le veut... j'obéis.  
+
+    ULYSSE.
+Mes conseils dans ce coeur sont-ils bien affermis ?  
+Puis-je compter sur vous ?  
+
+    PYRRHUS.
+        Ma parole est un gage  
+Qui doit vous rassurer.  
+
+    ULYSSE.
+        Je retourné au rivage.  
+Demeurez : attendez Philoctète en ces lieux.  
+Je vous laisse un moment ; et que puissent les dieux,  
+Mercure protecteur, Minerve tutélaire,  
+De nos soins partagés assurer le salaire !  
+Adieu.  
+
+
+## SCÈNE II.
+
+    PYRRHUS, SEUL.
+        La pitié parle a mon coeur combattu.  
+Sous quel affreux destin Philoctète abattu  
+Traîne depuis dix ans sa vie infortunée !  
+Sa misère en ces lieux gémit abandonnée.  
+Tourmenté de sa plaie, assiégé de besoins,  
+Il souffre sans remède, il pleure sans témoins.  
+Seul, il conte ses maux à la mer, au rivage,  
+Sans avoir un ami dont la voix le soulage.  
+Ignorant la douceur des soins compatissants,  
+Il n'a point de soutien de ses jours languissants,  
+Pas même ce plaisir, si cher aux misérables,  
+De voir, d'entretenir, d'entendre ses semblables,  
+De l'aspect des humains privé dans ses malheurs,  
+L'écho seul des rochers répond à ses douleurs.  
+Quel sort ! Et cependant, illustre dans la Grèce,  
+Égal à tous nos chefs, en courage, en noblesse,  
+Pour un autre avenir il semblait destiné :  
+À cette épreuve, hélas ! Les dieux l'ont condamné !  
+Nos jours sont leur présent ; nos destins, leur ouvrage :  
+Heureux qui de leur main ne reçut en partage  
+Que cet état obscur, que du moins leur faveur  
+Éloigna des dangers qui suivent la grandeur !  
+Mais un soldat revient.  
+
+
+## SCÈNE III. Pyrrhus, un Soldat.
+
+    LE SOLDAT.
+        Philoctète s'approche  
+Dans un sentier étroit, non loin de cette roche ;  
+Je l'ai, vu se traîner d'un pas appesanti,  
+Tremblant, par la douleur sans cesse ralenti.  
+Il m'a vu ; sur mes pas sans doute il va paraître.  
+
+
+## SCÈNE IV. Pyrrhus, Philoctète, Deux Soldats.
+
+    PHILOCTÈTE.
+Hélas ! Au nom des dieux, qui que vous puissiez être,  
+Étrangers que les vents dans cette île ont portés,  
+D'où venez-vous chercher ces bords inhabités ?  
+Et quel est votre nom ? Quelle est votre patrie ?  
+Vous m'offrez de la mienne une image chérie ;  
+Oui, c'est l'habit des Grecs qu'avec transport je vois.  
+Répondez, que je puisse entendre votre voix,  
+Reconnaître des Grecs l'accent et le langage,  
+Ah. ! N'ayez point d'horreur de mon aspect sauvage.  
+Je ne suis point à craindre : ayez, ayez pitié  
+D'un malheureux, du monde et des dieux oublié.  
+La grâce que de vous ici je dois attendre,  
+C'est qu'au moins vous daigniez me parler et m'entendre.  
+
+    PYRRHUS.
+Soyez donc satisfait, nous sommes Grecs.  
+
+    PHILOCTÈTE.
+        Ô ciel !  
+Après un si long temps d'un exil si cruel,  
+Ô que cette parole à mon oreille est chère !  
+Quel dessein, ou pour moi quel vent assez prospère  
+A guidé vos vaisseaux et vous mène en ces lieux ?  
+Parlez, et contentez mes désirs curieux.  
+
+    PYRRHUS. [5]
+On me nomme Pyrrhus ; je suis le fils d'Achille ;  
+Je suis né dans Scyros, et retourne à cette île.  
+Vous savez tout.  
+
+    PHILOCTÈTE.
+        Ô fils d'un mortel renommé,  
+D'un héros que jadis mon coeur a tant aimé !  
+Ô du vieux Lycomède et l'élève et la joie !  
+De quels bords venez-vous ?  
+
+    PYRRHUS.
+        Des rivages de Troie.  
+
+    PHILOCTÈTE.
+Comment ! Vous n'étiez point au nombre des guerriers  
+Qui contre ses remparts marchèrent les premiers ?  
+
+    PYRRHUS.
+Vous-même en étiez-vous ?  
+
+    PHILOCTÈTE.
+        Vous ignorez peut-être  
+Quel mortel devant vous le destin fait paraître.  
+
+    PYRRHUS.
+À part.
+
+Il faut dissimuler.  
+Haut.
+
+        D'où puis-je le savoir ?  
+Pour la première fois nous venons de vous voir.  
+
+    PHILOCTÈTE.
+Quoi ! Mon nom, mes revers, ma funeste aventure !  
+
+    PYRRHUS.
+Je n'en ai rien appris.  
+
+    PHILOCTÈTE.
+        Ô comble de l'injure !  
+Eh bien ! Suis-je en effet assez infortuné,  
+Des dieux et des mortels assez abandonné ?  
+La Grèce de mes maux n'est pas même informée ;  
+On en étouffe ainsi jusqu'à la renommée ;  
+Et quand le mal affreux dont je suis consumé,  
+Devient plus dévorant et plus envenimé,  
+Mes lâches oppresseurs, dans leur secrète joie,  
+Insultent aux tourments dont ils m'ont fait la proie.  
+Ô mon fils ! Vous voyez délaissé dans Lemnos  
+Ce guerrier, autrefois compagnon d'un héros,  
+Inutile héritier des traits du grand Alcide,  
+Philoctète, en un mot, que l'un et l'autre Atride,  
+Excités par Ulysse à cette lâcheté,  
+Et seul et sans secours dans cette île ont jeté,  
+Blessé par un serpent de qui la dent impure  
+M'infecta des poisons d'une horrible morsure.   [6]
+Les cruels !... De Chrysa, vers les bords phrygiens,  
+La victoire appelait leurs vaisseaux et les miens.  
+Nous touchons à Lemnos : fatigué du voyage,  
+Le sommeil me surprend sous un antre sauvage.  
+On saisit cet instant, ou m'abandonne, on part ;  
+On part en me laissant, par un reste d'égard,  
+Quelques vases grossiers, quelque vile pâture,  
+Des voiles déchirés, pour sécher ma blessure,  
+Quelques lambeaux, rebut du dernier des humains :  
+Puisse Atride éprouver de semblables destins !  
+Quel réveil ! Quel moment de surprise et d'alarmes !  
+Que d'imprécations ! Que de cris et de larmes !  
+Lorsqu'en ouvrant les yeux, je vis fuir mes vaisseaux  
+Que loin de moi les vents emportaient sur les eaux !  
+Lorsque je me vis seul sur cette plage aride,  
+Sans appui dans mes maux, sans compagnon, sans guide !  
+Jetant de tout côté des regards de douleur,  
+Je ne vis qu'un désert, hélas ! Et le malheur.  
+Tout ce qu'on m'a laissé, le désespoir, la rage !...  
+Le temps accrut, ainsi mes maux et mon outrage.  
+J'appris à soutenir mes misérables jours.  
+Mon arc, entre mes mains seul et dernier recours,  
+Servit à me nourrir ; et lorsqu'un trait rapide  
+Faisait du haut des airs tomber l'oiseau timide,  
+Souvent il me fallait, pour aller le chercher,  
+D'un pied faible et souffrant, gravir sur le rocher,  
+Me traîner, en rampant, vers ma chétive proie ;  
+Il fallait employer cette pénible voie  
+Pour briser des rameaux et pour y recueillir  
+Le feu que des cailloux mes mains faisaient jaillir.  
+Des glaçons, dont l'hiver blanchissait ce rivage,  
+J'exprimais avec peine un douloureux breuvage.  
+Enfin, cette caverne et mon arc destructeur,  
+Et le feu, de la vie heureux conservateur,  
+Ont soulagé du moins les besoins que j'endure ;  
+Mais rien n'a pu guérir ma funeste blessure.  
+Nul commerce, nul port aux voyageurs ouvert,  
+N'attire les vaisseaux dans ce triste désert.  
+On ne vient à Lemnos que poussé par l'orage ;  
+Et depuis si longtemps errant sur cette plage,  
+Si j'ai vu des nochers, malgré tous leurs efforts,  
+Pour obéir aux vents, descendre sur ces bords,  
+Je n'en obtenais rien qu'une pitié stérile,  
+Des consolations le langage inutile,  
+Des secours passagers, ou de vieux vêtements ;  
+Mais malgré ma prière et mes gémissements,  
+Nul n'a sur ses vaisseaux accueilli ma misère,  
+Ni voulu sur les flots me conduire à mon père.  
+Depuis dix ans, mon fils, je languis dans ces lieux,  
+Sans cesse dévoré d'un mal contagieux,  
+Victime d'une lâche et noire ingratitude,  
+Souffrant dans l'abandon et dans la solitude.  
+Les Atrides, Ulysse, ainsi m'ont attaché  
+À ce supplice lent que leur haine a cherché ;  
+Ils m'ont surpris ainsi dans les pièges qu'ils tendent ;  
+Ils m'ont fait tous ces maux : que les dieux les leur rendent !  
+
+    PYRRHUS.
+Noble fils de Poean, je ressens vos malheurs ;  
+J'en déteste avec vous les coupables auteurs ;  
+J'y reconnais la main d'Ulysse et des Atrides ;  
+Eh ! Qui sait mieux que moi combien ils sont perfides ?  
+
+    PHILOCTÈTE.
+Quoi ! Vous-même, Pyrrhus, vous ont-ils outragé ?  
+
+    PYRRHUS.
+Que puissé-je du moins être bientôt vengé !  
+Puissé-je apprendre aux rois d'Ithaque et de Mycènes,  
+À respecter le sang qui coule dans mes veines !  
+
+    PHILOCTÈTE.
+De grâce, instruisez-moi de leurs nouveaux forfaits.  
+
+    PYRRHUS.
+Comment vous raconter les affronts qu'ils m'ont faits ?  
+Quand la Parque d'Achille eut borné la carrière...  
+
+    PHILOCTÈTE.
+Qu'entends-je ? Achille est mort ?  
+
+    PYRRHUS.
+        Oui, seigneur ; mais mon père  
+Sous les coups d'un mortel du moins n'est pas tombé ;  
+Sous les traits d'Apollon Achille a succombé.  
+
+    PHILOCTÈTE.
+Ô mort digne, en effet, d'un héros invincible !  
+Ô perte qui pour moi n'en est pas moins sensible !  
+Pardonnez si mes pleurs vous ont interrompu ;  
+Aux mânes d'un ami cet hommage était dû.  
+
+    PYRRHUS.
+Ce tribut douloureux pour mon coeur a des charmes :  
+Mais pour d'autres que vous, vous reste-t-il des larmes ?  
+
+    PHILOCTÈTE.
+Ô mon fils !... Poursuivez.  
+
+    PYRRHUS.
+        Je pleurais ce héros,  
+Quand Ulysse et Phoenix, descendus à Scyros,  
+Alléguant un oracle, et flattant ma jeunesse,  
+Vinrent, au nom des dieux protecteurs de la Grèce,  
+M'assurer qu'à moi seul, à mon sang, à mon nom,  
+Appartenait l'honneur de détruire Ilion,  
+Que Pyrrhus héritait des grands destins d'Achille.  
+De me persuader sans doute il fut facile.  
+Le désir d'embrasser les restes précieux  
+D'un père que jamais n'avaient connu mes yeux,  
+D'aller offrir mes pleurs à des cendres aimées,  
+Qui sous la tombe encor n'étaient point enfermées ;  
+L'ardeur de le venger, le dirai-je ? L'orgueil  
+De renverser des murs qui furent son écueil,  
+Tout entraînaît mes pas. Par le ciel protégée,   [7]
+Ma flotte, au second jour, touche au port de Sigée,  
+Au sortir du vaisseau, je me vois entouré  
+De tout un camp, de joie et d'espoir enivré.  
+Tous jurent à la fois qu'on voit revivre Achille :  
+Hélas ! Il n'était plus !... D'une douleur stérile  
+À ses mânes sacrés, je porte les tributs;  
+Et l'oeil humide encor de mes pleurs répandus,  
+Je me présente aux chefs, et ma juste prière  
+Réclame devant eux l'héritage d'un père.  
+Quelle fut leur réponse ! "Oui ces biens sont à vous ;  
+Disposez-en , Seigneur, et les recueillez tous.  
+Mais ses armes, d'un autre ont été le partage,  
+Ulysse les possède". Indigné de l'outrage,  
+Des larmes de dépit coulèrent de mes yeux :  
+"Ces armes sont à moi, j'en atteste les dieux,  
+Dis-je alors, de quel droit une main étrangère  
+M'a-t-elle osé ravir une armure si chère ?"  
+"Je t'obtins, dit Ulysse, et ce don m'était dû ;  
+C'est le prix du service à la Grèce rendu,  
+Quand je sauvai l'armée et votre père même."  
+À ces mots, révolté de son audace extrême,  
+J'exhale les transports d'un courroux éclatant,  
+Et menace les Grecs de partir à l'instant,  
+Si je n'obtiens raison de ce vol sacrilège.  
+"Jeune homme, me dit-il, tu n'étais point au siège,  
+Tu n'as rien fait pour nous, et menaces encor !  
+Ne crois pas à Scyros remporter ce trésor ;  
+Tu ne l'auras jamais." Les chefs, amis d'Ulysse,  
+Se déclarent pour lui, défendent l'injustice;  
+Et moi, qu'un tel affront a percé jusqu'au coeur,  
+Moi, qu'on dépouille ainsi sans égard, sans pudeur,  
+Je retourne à Scyros, loin de ces rois perfides,  
+Et plus qu'Ulysse encor, j'accuse les Atrides.  
+Ce sont eux qui, méchants avec impunité,  
+Protecteurs de la fraude et de l'iniquité,  
+Infectent tous les coeurs de leurs lâches maximes,  
+Et l'abus du pouvoir enfante tous les crimes.  
+Ô ciel ! Que l'ennemi de ces rois odieux,  
+Soit l'ami de Pyrrhus et soit l'ami des dieux !  
+
+    PHILOCTÈTE.
+Je vois qu'on vous a fait une cruelle injure.  
+Ce n'est pas sans raison que loin d'un camp parjure,  
+Vous avez vers Scyros pressé l'heureux retour  
+Qui vous a, grâce aux dieux, conduit dans ce séjour.   [8]
+De Sisyphe en effet le rejeton profane,  
+Du mensonge toujours fut l'auteur et l'organe ;  
+De l'adroite imposture il aiguise les traits,  
+Sa main est occupée à tramer des forfaits.  
+Mais, de quel oeil Ajax a-t-il vu cette offense ?  
+
+    PYRRHUS.
+On ne l'eût pas osé commettre en sa présence.  
+Mais le trépas d'Ajax a mis la Grèce en deuil.  
+
+    PHILOCTÈTE.
+Dieux ! Ulysse respire ! Ajax est au cercueil !  
+Et ce sage mortel à qui l'expérience  
+Donnait de l'avenir la triste prévoyance,  
+Nestor, mon vieil ami, l'âme de nos conseils,  
+Qui confondit cent fois Ulysse et ses pareils,  
+Que fait-il ?  
+
+    PYRRHUS.
+        L'infortune accable sa vieillesse ;  
+Il se traîne au tombeau, consumé de tristesse;  
+Il gémit d'être père : il survit à son fils.  
+
+    PHILOCTÈTE.
+Antiloque ?...  
+
+    PYRRHUS.
+        Est tombé sous des traits ennemis.  
+
+    PHILOCTÈTE.
+À de nouveaux regrets chaque moment me livre.  
+Quoi ! Tous ceux que j'aimais ont donc cessé de vivre,  
+Ou subi les rigueurs d'un destin ennemi !...  
+Et d'Achille du moins ce vertueux ami,  
+Patrocle, dont les Grecs admiraient le courage ?  
+
+    PYRRHUS.
+Du redoutable Hector son trépas fut l'ouvrage.  
+Telle est la guerre enfin : Mars dans ses jeux sanglants,  
+Moissonne les vertus et fait grâce aux méchants.  
+
+    PHILOCTÈTE.
+Grâce au ciel, mon attente est trop bien confirmée,  
+La mort a respecté le rebut de l'armée ;  
+Les héros ne sont plus ! Aux lâches, aux pervers,  
+Les dieux semblent fermer le chemin des Enfers ;  
+Aux plus grands des humains ils en ouvrent la route.  
+Ulysse est donc vivant !.... et Thersite, sans doute.  
+Voilà , voilà les dieux, et nous les adorons !  
+
+    PYRRHUS.
+Pour moi, je vous l'ai dit, lassé de tant d'affronts,  
+Je m'éloigne à jamais d'une odieuse armée ,   [9]
+Où la vertu rougit par la brigue opprimée.  
+Scyros est pour mon coeur un séjour assez doux,  
+Et toujours la patrie a des charmes pour nous.  
+Puisse des dieux fléchis la bonté tutélaire  
+Guérir les maux affreux que vous fit leur colère !  
+Tels sont, fils de Poean, tels sont les justes voeux  
+Que Pyrrhus en partant peut joindre à ses adieux.  
+
+    PHILOCTÈTE.
+Vous partez ?  
+
+    PYRRHUS.
+        Il le faut, et mes vaisseaux n'attendent  
+Que l'instant d'obéir aux vents qui nous commandent.  
+
+    PHILOCTÈTE.
+Ah ! Par les Immortels de qui tu tiens le jour,  
+Par tout ce qui jamais fut cher à ton amour,  
+Par les mânes d'Achille et l'ombre de ta mère,  
+Mon fils, je t'en conjure, écoute ma prière :  
+Ne me laisse pas seul en proie au désespoir,  
+En proie à tous les maux que tes yeux peuvent voir.  
+Cher Pyrrhus, tire-moi des lieux où ma misère  
+M'a longtemps séparé de la nature entière.  
+C'est te charger, hélas ! d'un bien triste fardeau,  
+Je ne l'ignore pas ; l'effort sera plus beau  
+De m'avoir supporté : toi seul en étais digne,   [10]
+Et de m'abandonner la honte est trop insigne ;  
+Tu n'en es pas capable ; il n'est que les grands coeurs :  
+Qui sentent la pitié que l'on doit aux malheurs,  
+Qui sentent d'un bienfait le plaisir et la gloire.  
+Il sera glorieux, si tu daignes m'en croire,  
+D'avoir pu me sauver de ce fatal séjour :   [11]
+Jusqu'aux vallons d'OEta le trajet est d'un jour.  
+Jette-moi dans un coin du vaisseau qui te porte  
+À la poupe, à la proue, où tu voudras, n'importe.  
+Je t'en conjure encore, et j'atteste les dieux :  
+Le mortel suppliant est sacré devant eux.  
+Je tombe à tes genoux, ô mon fils ! Je les presse  
+D'un effort douloureux qui coûte à ma faiblesse.  
+Que j'obtienne de toi la fin de mes tourments ;  
+Accorde cette grâce à mes gémissements.   [12]
+Mène-moi dans l'Eubée, ou bien dans ta patrie ;  
+Le chemin n'est pas long à la rive chérie  
+Où j'ai reçu le jour, aux bords du Sperchius.  
+Bords charmants, et pour moi depuis longtemps perdus !  
+Mène-moi vers Poean : rends un fils à son père.  
+Et que je crains, ô ciel ! Que la Parque sévère  
+De ses ans, loin de moi, n'ait terminé le cours !  
+J'ai fait plus d'une fois demander ses secours.  
+Mais il est mort sans doute, ou ceux de qui le zèle  
+Lui devait de mon sort porter l'avis fidèle,  
+À peine en leur pays, ont bien vite oublié  
+Les serments qu'avait faits leur trompeuse pitié.  
+Ce n'est plus qu'en toi seul que mon espoir réside ;  
+Sois mon libérateur ; ô Pyrrhus, sois mon guide !  
+Considère le sort des fragiles humains ;  
+Et qui peut un moment compter sur les destins ?  
+Tel repousse aujourd'hui la misère importune,  
+Qui tombera demain dans la même infortune.  
+Il est beau de prévoir ces retours dangereux,  
+Et d'être bienfaisant alors qu'on est heureux.  
+
+    PYRRHUS.
+À la voix du malheur pourrais-je être insensible ?  
+Non, vous m'avez rendu le refus impossible;  
+Je cède à vos désirs ; venez sur mes vaisseaux :  
+Que le ciel, qui par moi veut terminer vos maux,  
+Accorde un vent propice à votre impatience,  
+Et nous conduise au port où tend votre espérance !  
+
+    PHILOCTÈTE.
+Jour heureux ! cher Pyrrhus, vous, compagnons chéris,  
+Ô Grecs ! Dans les transports de mes sens attendris,  
+Que ma reconnaissance au moins se fasse entendre !  
+Pour un si grand bienfait d'ailleurs que puis-je rendre ?  
+Souffrez que Philoctète, abandonnant ce lieu,  
+À cet asile encor dise un dernier adieu.  
+Ma grotte, après dix ans, me doit être sacrée.  
+Venez voir ma demeure obscure et resserrée,  
+Et connaissez quels maux vous daignez secourir;  
+Vous ne pourrez les voir, et j'ai pu les souffrir.  
+Et la nécessité, des lois la plus sévère,  
+M'a rendu bien souvent cette caverne chère.  
+
+    PYRRHUS.
+Je ne m'oppose point à de si justes soins ;  
+Prenez tout ce qui peut servir à vos besoins.  
+
+    PHILOCTÈTE.
+Eh ! Que puis-je emporter ? Qu'est-ce que je possède ?  
+Des plantes de ces bords, seul et faible remède,  
+Dont l'effet passager assoupit mes douleurs.   [13]
+Mes seuls biens sont mon arc et mes traits destructeurs.  
+
+    PYRRHUS.
+Ah ! Sans doute ce sont les flèches redoutées   [14]
+Que de son sang impur l'hydre avait infectées ?  
+
+    PHILOCTÈTE.
+Oui, je n'ai point d'autre arme, et que puissent les cieux  
+Ne m'enlever jamais ce trésor précieux !  
+
+    PYRRHUS.
+Puis-je toucher au moins ces armes révérées,  
+Que jadis d'un héros les mains ont consacrées ?  
+Puis-je les regarder d'un oeil religieux ?  
+
+    PHILOCTÈTE.
+Ah ! Sur moi, mon cher fils, tu peux ce que tu veux.  
+
+    PYRRHUS.
+Rejetez, s'il le faut, ma prière timide,  
+Et ne profanez point l'héritage d'Alcide.  
+
+    PHILOCTÈTE.
+Ta piété me charme : hélas ! N'est-ce pas toi  
+Qui me rends à la vie, à ma famille, à moi ;  
+Qui daignes sur ces bords, où chaque instant me tue,  
+Relever ma misère à tes pieds abattue ?  
+Tu trompes les fureurs de mes vils ennemis ;  
+J'étais mort en ces lieux, tu parais, je revis.  
+Prends sur moi désormais une entière puissance :  
+Le plaisir des bons coeurs, c'est la reconnaissance.  
+Cet arc qui fut jadis un don de l'amitié,  
+Pour prix de tes bienfaits te sera confié.  
+Tu dois à tes vertus ce noble privilège ;  
+Nul n'y porta jamais une main sacrilège ;  
+Nul, sans craindre la mort, n'osa s'en approcher :  
+Viens, toi seul des mortels auras pu le toucher.  
+Allons... Ciel !... Ô douleurs !  
+
+    PYRRHUS.
+        Quelle soudaine atteinte,  
+Seigneur, de votre sein arrache cette plainte ?  
+
+    PHILOCTÈTE.
+Rien... Je te suis... Ah dieux !  
+
+    PYRRHUS.
+        Que leur demandez-vous ?  
+
+    PHILOCTÈTE.
+De nous ouvrir la route et de veiller sur nous.  
+Dieux !  
+
+    PYRRHUS.
+        Vous déguisez mal le trouble qui vous presse.  
+
+    PHILOCTÈTE.
+Non : je reviens à moi ; pardonne à ma faiblesse,  
+Marchons... Ah ! Je ne puis.  
+
+    PYRRHUS.
+    Comment ?  
+
+    PHILOCTÈTE.
+        Il n'est plus temps  
+De te cacher encor de si cruels tourments.  
+Non, c'est trop, c'est en vain dissimuler mes peines.  
+Le poison se répand dans mes brûlantes veines.  
+Mon fils, avec le fer termine mes douleurs,  
+Tranche, tranche mes jours... Frappe, dis-je... Je meurs.  
+Je meurs à chaque instant.  
+
+    PYRRHUS.
+        Mon âme intimidée  
+De cet horrible état...  
+
+    PHILOCTÈTE.
+        Tu n'en as pas l'idée.  
+Mais prends pitié de moi, je t'en conjure, hélas !  
+Que l'aspect de mes maux ne te rebute pas.  
+Ne m'abandonne point... ma blessure fatale  
+Produit ces noirs accès, calmés par intervalle.  
+Je dois te l'avouer.  
+
+    PYRRHUS.
+        Ne craignez rien. Qui ! moi,  
+Moi vous abandonner, quand vous avez ma foi !  
+Venez, et rappelant votre force première...  
+
+    PHILOCTÈTE.
+J'implore, mon cher fils, une grâce dernière,  
+Le mal qui m'a surpris finit par le sommeil,  
+Et le soulagement suit l'instant du réveil.  
+Maintenant abattu, trop faible pour te suivre,  
+À tes soins généreux Philoctète se livre.  
+Viens dans ma grotte, viens, je mets en ton pouvoir  
+Ces flèches que tes yeux ont souhaité de voir ;  
+Mais prends garde surtout que la force ou l'adresse  
+N'enlève ce dépôt qu'entre tes mains je laisse.  
+Je perds tout, si jamais...  
+
+    PYRRHUS.
+        Non, soyez rassuré ;  
+Je réponds sur mes jours de ce trésor sacré.  
+
+    PHILOCTÈTE.
+C'est mon unique bien, c'est le seul qui me reste :  
+Veuille le juste ciel qu'il te soit moins funeste  
+Qu'il ne le fut, hélas ! Pour Alcide et pour moi !  
+
+    PYRRHUS.
+Le ciel nous conduira ; nous marchons sous sa loi :  
+Puisse-t-il nous frayer une route prospère !  
+
+    PHILOCTÈTE.
+Il n'exaucera point tes voeux et ta prière.  
+L'indomptable venin, passant jusqu'à mon coeur,  
+Dans mon sang embrasé bouillonne avec fureur ;  
+Il redouble de rage, il s'acharne à sa proie...  
+Ah ! Ne me quittez pas, amis, que je vous voie !...  
+Ne vous éloignez point... Il faut, il faut qu'enfin...  
+Ulysse, que ce feu ne brûle-t-il ton sein ?  
+C'est à vous, fils d'Atrée, à vous, ô rois perfides,  
+À vous seuls qu'étaient dûs ces tourments homicides.  
+Ô mort, dont tant de fois j'implorai le secours,  
+Mort, que toujours j'appelle et qui me fuis toujours,  
+Quand me recevras-tu dans mon dernier asile ?  
+À Pyrrhus.
+
+Prends le feu de Vulcain qui brûle dans cette île ;  
+Mets-moi sur le bûcher, comme jadis mes mains  
+Osèrent y placer le plus grand des humains.  
+Le prix que j'en reçus sera ta récompense...  
+Mais il ne m'entend pas, je n'ai plus d'espérance.  
+Pyrrhus, où donc es-tu, cher Pyrrhus ?  
+
+    PYRRHUS.
+        Je gémis,  
+Je pleure sur vos maux.  
+
+    PHILOCTÈTE.
+        Tu pleures, mon cher fils !  
+Garde cette pitié ; jure, quoi qu'il arrive,  
+De ne point me laisser mourant sur cette rive.  
+Ta bouche l'a promis ; ton coeur ne peut changer.  
+Mon mal est effrayant, mais il est passager.  
+Je n'espère qu'en toi.  
+
+    PYRRHUS.
+        Soyez sans défiance.  
+
+    PHILOCTÈTE.
+Qu'un serment solennel m'en donne l'assurance.  
+
+    PYRRHUS.
+J'en atteste les dieux : recevez-en ma foi.  
+
+    PHILOCTÈTE.
+Ah ! Ne me touche pas, n'approche point de moi.  
+
+    PYRRHUS.
+Eh quoi ! De mes secours voulez-vous vous défendre ?  
+
+    PHILOCTÈTE.
+Peut-être jusqu'à toi le poison peut s'étendre.  
+Laisse-moi... C'en est fait... Ô terre de Lemnos !  
+Reçois donc un mourant qui succombe à ses maux.  
+Il tombe évanoui sur un banc de pierre.
+
+
+    PYRRHUS, AUX SOLDATS GRECS.
+Aidez-moi, chers amis ; portons-le en son asile.  
+Attendons le moment où d'un sommeil tranquille  
+La douceur salutaire aura calmé ses sens,  
+Et suspendu le cours de ses affreux tourments.  
+Ils soutiennent Philoctète et l'emmènent hors du théâtre.
+
+
+
+# ACTE II.
+
+
+## SCENE I.
+
+    PYRRHUS, SEUL.
+Il lient a la main l'arc et les flèches d'Hercule.
+
+Les voilà donc ces traits par qui la destinée  
+Doit marquer d'Ilion la dernière journée,  
+Ces traits à qui le ciel attacha notre sort,  
+Et qui d'Achille enfin doivent venger la mort.  
+Philoctète en mes mains ainsi les abandonne !  
+On veut les lui ravir, et c'est lui qui les donne !  
+Mais ce n'est rien encor, si lui-même avec nous  
+Ne marche à ces remparts dévoués à nos coups.  
+Il est loin d'y penser, et tout prêt à me suivre,  
+À mes soins, à ma foi l'infortuné se livre.  
+Et je le trahirais ! Non : ce retour affreux  
+Est indigne d'un coeur qu'il a cru généreux.  
+Il faut lui dire tout : c'est trop en croire Ulysse,  
+Trop contre Philoctète employer l'artifice,  
+Abuser contre lui de son horrible état :  
+Tromper un malheureux est un double attentat.  
+Mais il vient.  
+
+
+## SCÈNE II. Pyrrhus, Philoctère, Seux soldats.
+
+    PHILOCTÈTE.
+        Ô réveil ; ô jour qui me ranime !  
+Pyrrhus, est-il bien vrai ? Ta bonté magnanime,  
+Par l'excès de mes maux n'a pu se rebuter !  
+Pyrrhus près d'un mourant a daigné s'arrêter !  
+Et sans que mon malheur le fatigue ou l'effraie,  
+Il supporte l'aspect et l'horreur de ma plaie !  
+Achille t'a transmis sa générosité.  
+Les Atrides ainsi ne m'avaient pas traité.  
+Mais allons. Je suis prêt à marcher au rivage.  
+Le sommeil du poison a suspendu la rage.  
+Viens.  
+
+    PYRRHUS.
+    Que ferai-je ? Hélas !  
+
+    PHILOCTÈTE. [15]
+        Tu balances !... Ô ciel !  
+
+    PYRRHUS, À PART.
+Oserai-je lui faire un aveu si cruel ?  
+
+    PHILOCTÈTE.
+La pitié que d'abord tu m'avais annoncée,  
+Du poids de mes malheurs serait-elle lassée ?  
+
+    PYRRHUS.
+Ô combien la vertu souffre à se démentir !  
+
+    PHILOCTÈTE.
+De quelle faute ici peux-tu te repentir ?  
+Les secours que de toi j'attends dans ma misère,  
+Ne feront point rougir les mânes de ton père.  
+
+    PYRRHUS.
+C'est moi qui dois rougir, moi qui suis désormais  
+Coupable, si je parle, et vil, si je me tais.  
+
+    PHILOCTÈTE.
+Tu veux m'abandonner, ton coeur se le propose,  
+Tu veux partir sans moi.  
+
+    PYRRHUS.
+        Non, mais si je m'expose  
+À mériter de vous des reproches plus vrais ?  
+Même en vous emmenant, si je vous trahiss is ?  
+
+    PHILOCTÈTE.
+Toi !... Que veux-tu me dire ? Explique ce mystère.  
+
+    PYRRHUS.
+Eh bien ! Sachez donc tout : je ne puis plus rien taire.  
+
+    PHILOCTÈTE.
+Comment ?  
+
+    PYRRHUS.
+        Pour Ilion vous partez avec moi.  
+
+    PHILOCTÈTE.
+Qu'as-tu dit ? juste ciel !  
+
+    PYRRHUS.
+    Daignez entendre....  
+
+    PHILOCTÈTE.
+        Eh quoi !  
+Que veux-tu que j'écoute, et que prétends-tu faire ?  
+
+    PYRRHUS.
+À tant de maux enfin pour jamais vous soustraire,  
+Vous guérir, et bientôt partager avec vous  
+Un honneur que les dieux n'ont réservé qu'à nous.  
+Sous vos coups, sous les miens, ils feront tomber Troie.  
+
+    PHILOCTÈTE.
+Ce sont là tes desseins ?  
+
+    PYRRHUS.
+        Oui, le ciel qui m'envoie,  
+Du soin de les remplir nous a chargés toute deux !  
+
+    PHILOCTÈTE.
+Je suis trahi, perdu ; qu'as-tu fait, malheureux ?  
+Pyrrhus, est-il bien vrai ? Rends-moi, rends-moi mes armes.  
+
+    PYRRHUS.
+Je ne le puis, seigneur, et la Grèce en alarmes,  
+Ne saurait aujourd'hui voir changer ses destins,  
+Que par ces traits puissants remis entre mes mains.  
+Je lui dois obéir, et je veux bien pour elle  
+Oublier, je l'avoue, une injure cruelle.  
+Mon coeur, qui s'en plaignait, ne vous a point déçu ;  
+Mais j'immole â l'Etat l'affront que j'ai reçu.  
+Imitez mon exemple.  
+
+    PHILOCTÈTE.
+        Ô trahison ! Ô rage !  
+Quoi ! Tu me préparais cet exécrable outrage !  
+Lâche, tu m'as séduit par d'indignes détours,  
+Pour m'enlever ainsi le soutien de mes jours !  
+Et lorsque tu trahis la foi qui m'était due ,  
+Tu peux me regarder et soutenir ma vue !  
+Tromper un suppliant qui gémit à tes pieds !  
+Rends, mon fils, rends ces traits que je t'ai confiés,  
+Tu ne peux les garder ; c'est mon bien, c'est ma vie,  
+Et ma crédulité doit-elle être punie ?  
+Rougis d'en abuser.... Au nom de tous les dieux....  
+Tu ne me réponds rien ! Tu détournes les yeux !  
+Je ne puis te fléchir !... Ô rochers ! Ô rivages !  
+Vous, mes seuls compagnons, ô vous, monstres sauvages,  
+Car je n'ai plus que vous à qui ma voix, hélas !  
+Puisse adresser des cris que l'on n'écoute pas,  
+Témoins accoutumés de ma plainte inutile,  
+Voyez ce que m'a fait le fils du grand Achille.  
+Il promet de m'ôter de ces tristes climats,  
+Il jure qu'à mon père il conduira mes pas ;  
+Et quand il me flattait de cette fausse joie,  
+Le perfide ! C'était pour me conduire à Troie.  
+Il consolait un coeur qu'il cherchait à frapper,  
+Sa main touche la mienne, et c'est pour me tromper !  
+Il ose me ravir mes flèches homicides,  
+Pour en faire un trophée aux insolents Atrides !  
+Il triomphe de moi, comme s'il m'eût dompté !  
+Il ne s'aperçoit pas, dans ma calamité,  
+Qu'il triomphe d'une ombre aux enfers descendue !  
+Oh ! devant que ma force en ces lieux fut perdue,  
+S'il m'avait attaqué !... Même tel que je suis,  
+Ce n'est que par surprise... Ah ! Pyrrhus ! Ah ! Mon fils !  
+Souviens-toi de ton nom, reprends ton caractère,  
+Sois semblable à toi-même, et semblable à ton père.  
+Tu gardes le silence, et je te parle en vain....  
+Antre qui m'as reçu, je reviens dans ton sein ;  
+J'y rentre dépouillé, privé de nourriture,  
+Et je n'attends de toi rien que la sépulture.  
+Tu me verras mourir : les hôtes des forêts  
+Ne ressentiront plus l'atteinte de mes traits.  
+Ma retraite contre eux n'a plus rien qui m'assure ;  
+J'en avais fait ma proie et serai leur pâture.  
+Et je suis donc tombé dans ce revers affreux,  
+Pour avoir cru Pyrrhus sincère et généreux !...  
+Écoute : jusqu'ici mon courroux qui balance,  
+N'a point aux immortels demandé, la vengeance.  
+Tu peux changer encore et céder à mes voeux ;  
+Tremble d'y résister, crains ma voix et les dieux.  
+
+    PYRRHUS.
+Je ne crains que mon coeur : Philoctète, la Grèce,  
+Les serments que j'ai faits, la pitié qui me presse...  
+Ah ! plût au ciel jamais n'avoir quitté Scyros !  
+
+    PHILOCTÈTE.
+Abjure des desseins indignes d'un héros.  
+Aux yeux de l'univers, aurais-tu la bassesse  
+De tromper le malheur, d'accabler la foiblesse ?  
+Tu n'es pas né méchant : quelque autre te conduit ;  
+Par de lâches conseils je vois qu'on t'a séduit.  
+Le crime t'entraînait ; que la vertu te guide.  
+
+    PYRRHUS.
+Quel parti prendre, ô ciel ?  
+
+
+## SCÈNE III. Philoctète, Pyrrhus, Ulysse, Suite de sordats.
+
+    ULYSSE, ARRIVANT AVEC PRÉCIPITATION.
+        Qu'attendez-vous, perfide ?  
+Remettez-moi ces traits,  
+
+    PHILOCTÈTE.
+        C'est Ulysse ! grands dieux !  
+
+    ULYSSE.
+Lui-même.  
+
+    PHILOCTÈTE.
+        Ciel ! Où suis-je ? Ulysse dans ces lieux !  
+Ah ! Lui seul a tout fait : ce cruel artifice,  
+Tout cet affreux complot est l'ouvrage d'Ulysse.  
+Mes armes, c'en est trop, mes armes...  
+
+    ULYSSE.
+        Non, Pyrrhus  
+Sait respecter des Grecs les ordres absolus.  
+Ces armes sont à nous : il ne peut vous les rendre.  
+Vous, marchez sur nos pas : c'est trop vous en défendre.  
+Ne vous obstinez plus à résister aux dieux,  
+Ou je vous fais sur l'heure enlever de ces lieux.  
+
+    PHILOCTÈTE.
+Tu me menaces, traître !... Ô Lemnos, mon asile,  
+Feux sacrés de Vulcain, allumés dans cette île !  
+Vous, mes seuls protecteurs, ô dieux de ces climats,  
+Vous voyez cet outrage, et ne le vengez pas !  
+
+    ULYSSE.
+Jupiter est leur maître, et c'est lui qui m'amène.  
+
+    PHILOCTÈTE.
+Ainsi, tu fais les dieux complices de ta haine,  
+Artisans du parjure et de l'iniquité !  
+
+    ULYSSE.
+Je vous parle en leur nom ; suivez leur volonté.  
+
+    PHILOCTÈTE.
+Penses-tu donc traiter Philoctète en esclave ?  
+
+    ULYSSE.
+Je le traite en guerrier et généreux et brave ;  
+En digne compagnon de tant de rois fameux,  
+Qui doit renverser Troie et triompher comme eux.  
+Ne fuyez point la gloire à vos regards offerte :  
+Venez, le ciel l'ordonne, et la route est ouverte.  
+
+    PHILOCTÈTE.
+Tant que cet antre obscur pourra me recevoir,  
+De m'arracher d'ici rien n'aura le pouvoir.  
+Oui, j'aime mieux mourir ; du haut de cette roche ;  
+J'aime mieux à l'instant...  
+
+    ULYSSE AUX SOLDATS.
+        Gardez qu'il n'en approche ;  
+Préservez-le, soldats, de sa propre fureur.  
+Les soldats environnent Philoctète.
+
+
+    PHILOCTÈTE.
+Ô comble de l'opprobre, ainsi que de l'horreur !  
+Ô bras, jadis à craindre, aujourd'hui sans défense !  
+Du plus vil des mortels je reçois cette offense !  
+Lâche qui ne connais ni remords ni pudeur,  
+De ce jeune héros tu séduis la candeur.  
+Son âme noble et pure, et semblable à la mienne?  
+N'était pas faite, hélas ! Pour imiter la tienne.  
+Il déteste en secret les complots qu'il servit ;  
+Sa faiblesse docile à regret t'obéit.  
+Son coeur sensible et bon, dont j'entends le murmure,  
+Se reproche à présent sa fraude et mon injure.  
+À ton fatal génie il ne put échapper,  
+Et toi seul, en un mot, sus l'instruire à tromper.  
+Et maintenant encor, pour combler tes outrages,  
+Tu prétends m'enlever de ces mêmes rivages  
+Où tu m'abandonnas, où je vis délaissé,  
+Du nombre des vivants dès longtemps effacé.  
+Ah ! Que puissent les dieux !... Que dis-je ? misérable....  
+Les dieux s'occupent-ils de mon sort déplorable ?  
+Et pourquoi répéter trop vainement, hélas !  
+Des imprécations que le ciel n'entend pas ?  
+Ses rigueurs sont pour moi, ses faveurs pour Ulysse.  
+Tu triomphes, cruel, et ris de mon supplice ;  
+Ma douleur fait ta joie, et ta prospérité  
+Est un affront de plus à ma calamité.  
+Va, va t'en réjouir avec tes chers Atrides;  
+Vante-leur le succès de tes ruses perfides.  
+Malgré toi cependant tu suivis leurs drapeaux,  
+Tandis qu'à leur secours j'ai conduit mes vaisseaux.  
+Ils prodiguent pour toi leurs biens et leur puissance ;  
+Ils m'ont abandonné, voilà ma récompense ;  
+Du moins tu les chargeais de ce crime honteux,  
+Et toi-même à ton tour en es chargé par eux.  
+Mais, dis-moi, que veux-tu ? Pourquoi dans sa retraite,  
+Pourquoi dans son tombeau troubles-tu Philoctète ?  
+Je suis mort pour les Grecs ; et comment à tes yeux  
+Ne suis-je plus un poids incommode, odieux,  
+Offensant les autels de ma présence impure,  
+L'horreur de tout un camp souillé par ma blessure ?  
+C'étaient là tes discours... barbare, si les dieux  
+Sont justes une fois, en exauçant mes voeux...  
+Et je vois qu'ils le sont : je vois qu'ils vous punissent ;  
+Leurs redoutables mains sur vous s'appesantissent.  
+De quelque trait fatal si vous n'étiez frappés,  
+À me chercher ici seriez-vous occupés ?  
+Eh bien ! Égale enfin le supplice à l'offense,  
+Ciel, qui m'as si longtemps refusé la vengeance !  
+De mes longues douleurs entends le dernier cri ;  
+Extermine les Grecs, et je me crois guéri.  
+
+    ULYSSE.
+Aux transports violents d'une aveugle furie,  
+Je n'oppose qu'un mot : j'ai servi la patrie.  
+C'est là mon seul honneur, c'est là mon seul devoir.  
+Sur les coeurs quelquefois ma voix eut du pouvoir ;  
+Mais je ne prétends pas en avoir sur le vôtre.  
+Vous voulez demeurer, et je vous cède : un autre  
+Saura des immortels mériter les bienfaits :  
+Cet arc est dans nos mains garant de nos succès.   [16]
+Le valeureux Teucer en saura faire usage ;  
+Moi-même de cet art j'ai fait l'apprentissage,  
+Et pour lancer ces traits, arbitres des combats,  
+Le bras d'Ulysse ou moins peut valoir votre bras.  
+Nourrissez à loisir la haine et la colère,  
+Habitez cette rive à votre coeur si chère.  
+Peut-être que les dieux, en conduisant mes coups,  
+M'accorderont un prix qu'ils destinaient pour vous.  
+
+    PHILOCTÈTE.
+Toi ! Posséder mes traits et mon arc homicide !  
+Armes que si longtemps porta le grand Alcide ;  
+Non, vous ne serez point au dernier des humains ;  
+Vous vous indigneriez de passer dans ses mains.  
+Quoi ! tu.te montrerais à la Grèce étonnée,  
+Paré de ma dépouille à ce point profanée !  
+
+    ULYSSE.
+Je n'écoute plus rien : je pars.  
+
+    PHILOCTÈTE.
+        Et toi, Pyrrhus !  
+Vous, amis, à ma voix vous ne répondez plus ?  
+
+    ULYSSE.
+Pyrrhus, de votre coeur surmontez la faiblesse.  
+Si vous ne me suivez, vous trahissez la Grèce.  
+Venez sans lui parler ; sans détourner les yeux.  
+
+    PYRRHUS.
+Souffrez que nos soldats demeurent en ces lieux.  
+On peut à son malheur, on peut à ma prière  
+Accorder sans danger cette grâce dernière ;  
+Et tandis qu'on s'apprête à quitter ce séjour,  
+Que l'on demande aux dieux un fortuné retour,  
+Philoctète abjurant une haine funeste,  
+Pourra mettre à profit le moment qui lui reste,  
+Il peut enfin se rendre, il peut se repentir...  
+Aux Grecs.
+
+Vous, au premier signal, soyez prêts à partir.  
+
+
+## SCÈNE IV. Philoctère, Soldats.
+
+    PHILOCTÈTE.
+Eh bien ! À tant d'horreurs il faut que je succombe.  
+Lemnos fut ma demeure, elle sera ma tombe.  
+Tout espoir est perdu, tout secours m'est ôté.  
+Oiseaux, ne fuyez plus cet antre redouté.  
+Hôtes de ces rochers, approchez-moi sans crainte;  
+Mes mains n'ont plus ces traits dont vous craigniez l'atteinte.  
+Vengez-vous, et tranchez mes jours infortunés :  
+Bientôt la faim, sans vous, les aura terminés.  
+Moi, j'irais secourir des ingrats, des perfides !  
+Non, périssent les Grecs, périssent les Atrides !  
+C'en est donc fait, hélas ! je mourrai loin de vous,  
+Ô patrie ! Ô mon père !... Il m'eût été bien doux,  
+Avant que d'expirer, de vous revoir encore !  
+Je vous abandonnai pour ces Grecs que j'abhorre,  
+Pour eux seuls j'ai tout fait, pour eux seuls tout quitté :  
+Ma mort en est le prix... je l'ai bien mérité.  
+Il rentre dans la caverne.
+
+
+
+# ACTE III.
+
+
+## SCÈNE I. Ulysse, Pyrrhus.
+
+    ULYSSE.
+Où courez-vous, seigneur ? quel transport vous agite ?  
+N'expliquerez-vous point cette soudaine fuite ?  
+De tous nos compagnons pourquoi vous séparer ?  
+
+    PYRRHUS.
+Pour expier ma faute, et pour la réparer.  
+
+    ULYSSE.
+Et quelle faute encore ?  
+
+    PYRRHUS.
+        Ah ! D'avoir pu vous croire,  
+Lorsque fidèle aux Grecs, et trahissant ma gloire,  
+Je me suis abaissé jusqu'à tromper la foi  
+De cet infortuné qui se livrait à moi.  
+
+    ULYSSE.
+Et que prétendez-vous ?  
+
+    PYRRHUS.
+        Lui rendre enfin justice.  
+
+    ULYSSE.
+Vous ! Comment ?  
+
+    PYRRHUS.
+        Je n'obtins que par un artifice  
+Ces traits que d'un héros lui laissa l'amitié,  
+Et je lui remettrai ce qu'il m'a confié.  
+
+    ULYSSE.
+Juste ciel ! Ce dessein qui me remplit d'alarmes,  
+Vous pourrez l'accomplir ? Vous lui rendrez ses armes ?  
+Ah ! de grâce, songez...  
+
+    PYRRHUS.
+        Tout est examiné.  
+
+    ULYSSE.
+Vous l'avez résolu ?  
+
+    PYRRHUS.
+        J'y suis déterminé.  
+
+    ULYSSE.
+Et Pyrrhus pense-t-il qu'ici rien ne s'oppose  
+Au funeste projet que son coeur se propose ?  
+
+    PYRRHUS.
+Et qui l'empêchera ?  
+
+    ULYSSE.
+        Qui ? Tous les Grecs et moi.  
+
+    PYRRHUS.
+Je brave leur courroux, et l'attends sans effroi ;  
+Quand je fais mon devoir, je ne saurais rien craindre.  
+
+    ULYSSE.
+Le devoir ! Croyez-vous, Seigneur, ne point l'enfreindre ?  
+Est-ce donc à vous seul que doit appartenir  
+Un bien que mes conseils vOus ont fait obtenir ?  
+
+    PYRRHUS.
+Il est vrai, vos conseils ( il faut que j'en rougisse )  
+M'avaient fait malgré moi commettre une injustice.  
+Ici la politique emprunta votre voix ;  
+Mais l'équité l'emporte, et j'accomplis ses lois.  
+
+    ULYSSE.
+Ainsi donc laissant Troie â nos coups échappée,  
+C'est contre vous, Pyrrhus, qu'il faut tirer l'épée.  
+
+    PYRRHUS.
+Armez-vous contre moi, la mienne est prête : allez.  
+
+    ULYSSE.
+Les Grecs vont vous punir, puisque vous le voulez,  
+Vous n'aurez pas longtemps défié leur puissance ;'  
+Et la peine du moins suivra de près l'offense.  
+Il sort.
+
+
+
+## SCÈNE II.
+
+    PYRRHUS, SEUL.
+Qu'ils viennent : j'aime mieux éprouver leur fureur,  
+Que d'avoir plus longtemps à combattre mon coeur.  
+Je ne rougirai plus aux yeux de Philoctète.  
+Je l'ai fait avertir.  
+
+
+## SCÈNE III. Pyrrhus, Philoctète, Soldats grecs.
+
+    PHILOCTÈTE.
+        Pourquoi de ma retraite  
+Venez-vous me tirer ? Que voulez-vous enfin ?  
+Venez-vous augmenter l'horreur de mon destin ?  
+Alh ! Qans doute, cruels, c'est là votre espérance.  
+Il s'assied sur un banc de pierre.
+
+
+    PYRRHUS.
+Rassurez-vous, Seigneur, soyez sans défiance.  
+Daignez m'entendre au moins.  
+
+    PHILOCTÈTE.
+        Il m'en a trop coûté,  
+Je suis trop bien puni de t'avoir écouté.  
+Auteur de tous les maux dont mon coeur est la proie...  
+
+    PYRRHUS.
+Eh bien ! au repentir n'est-il aucune voie ?  
+
+    PHILOCTÈTE.
+C'est avec ces discours que tu m'avais séduit,  
+Que dans un piège affreux toi-même m'as conduit.  
+Oui, tu trompas ainsi ta crédule victime.  
+
+    PYRRHUS.
+Vous connaîtrez bientôt quel intérêt m'anime.  
+Dites-moi seulement ( c'est tout ce que je veux )  
+Si vous vous obstinez à rester en ces lieux,  
+Si vous êtes toujours, à vous-même contraire ,  
+Si rien de ce dessein ne saurait vous distraire ?  
+De grâce, répondez.  
+
+    PHILOCTÈTE.
+        Oui, j'y suis résolu,  
+Résolu pour jamais.  
+
+    PYRRHUS.
+        Hélas ! J'aurais voulu  
+De ce coeur trop aigri fléchir la violence ;  
+Mais si vous l'ordonnez, je garde le silence.  
+
+    PHILOCTÈTE.
+Tu parlerais en vain : traître, c'est bien à toi  
+Qu'il convient de prétendre aucun pouvoir sur moi.  
+Va, trop indigne fils du plus illustre père,  
+Lorsque aujourd'hui ta fourbe a comblé ma misère.  
+Tu m'offres des conseils ! Ôte-toi de mes yeux:  
+Va retrouver Ulysse et tes Grecs odieux.  
+Tu n'échapperas pas, ni toi, ni les Atrides,  
+Au céleste courroux qui poursuit les perfides.  
+Je vous ai dévoués aux vengeances des dieux ;  
+Qu'elles tombent sur vous : ce sont là mes adieux.  
+
+    PYRRHUS.
+Plus d'imprécations, plus de cris, ni de larmes.  
+Connaissez-mieux Pyrrhus, et reprenez vos armes.  
+
+    PHILOCTÈTE.
+Est-ce un piège nouveau qui me serait tendu ?  
+
+    PYRRHUS.
+Recevez de mes mains ce bien qui vous est dû.  
+Ne craignez rien de moi, quand je viens vous le rendre ;  
+Me punisse le ciel, si je veux vous surprendre !  
+
+    PHILOCTÈTE.
+Se levant avec joie et reprenant ses flèches.
+
+Je reconnais ton sang à ce noble retour ;  
+Ce n'est pas un Sisyphe à qui tu dois le jour.  
+Tu viens de me montrer que la vertu t'est chère,  
+Que la gloire t'anime, et qu'Achille est ton père.  
+
+    PYRRHUS.
+Ah ! Pour son fils, Seigneur, il doit être bien doux  
+De voir que ce grand nom est si sacré pour vous.  
+Vous avez oublié ma faute et ma faiblesse.  
+Eh bien ! S'il est ainsi, souffrez que ma jeunesse,  
+Instruite par les dieux, dicte leur volonté,  
+Et s'arme contre vous de leur autorité.  
+Seigneur, il est des maux dont une loi sévère  
+Nous impose en naissant le fardeau nécessaire,  
+Des maux dont nul mortel ne peut être exempté.  
+Que nous fait la nature et la fatalité.  
+Mais lorsque nos malheurs sont notre propre ouvrage,  
+Lorsque nous repoussons la main qui nous soulage,  
+Rebelles aux conseils et sourds à l'amitié,  
+Nous devenons dès lors indignes de pitié.  
+Votre âme est inflexible, elle aigrit sa blessure ;  
+Les avis les plus chers sont pour vous une injure.  
+Tous les soins sont perdus : le plus fidèle ami,  
+S'il veut vous apaiser, vous semble un ennemi.  
+Je parlerai pourtant, et je dois vous apprendre  
+L'oracle que sur vous les dieux viennent de rendre.   [17]
+Le Troyen Hélénus, ce prophète sacré,  
+Sur nos destins communs est par eux éclairé.  
+Captif entre nos mains, il nous offre sa vie,  
+Si sa prédiction se trouve démentie.  
+Le ciel vous a puni : c'est lui dont la rigueur  
+Suscita contre vous le reptile vengeur,  
+Du temple de Chrysa le gardien redoutable,  
+Alors que profanant l'asIle inviolable  
+À ses soins confié par les dieux immortels,  
+Vous alliez y porter des regards criminels.  
+Vous ne verrez cesser le fléau qui vous frappe,   [18]
+Qu'en cherchant parmi nous les enfants d'Esculape,  
+Qu'en prenant Ilion ; la céleste faveur  
+De sa chute entre nous a partagé l'honneur.  
+De tous ces grands destins digne dépositaire,  
+Avez-vous donc aux dieux quelque reproche à faire ?  
+Ils vous offrent, Seigneur, les plus nobles travaux,  
+Le bonheur, la victoire et la fin de vos maux.  
+
+    PHILOCTÈTE.
+Pourquoi, traîné-je encore une inutile vie,  
+Que le ciel dès longtemps devrait m'avoir ravie ?  
+Que fais-je, hélas ! Au monde où je n'ai qu'à souffrir ?  
+Faut-il combattre encor ce que je dois chérir,  
+Qu'un mortel généreux qu'il faut que je revère,  
+M'adresse cependant une vaine prière !  
+Pyrrhus, épargne-moi, cesse de m'accuser ;  
+Va, mon dernier malheur est de te refuser.  
+Mais, que demandes-tu ? Quelle est ton injustice ?  
+Veux-tu que Philoctète à ce point s'avilisse ?  
+Qu'il reparaisse aux yeux des mortels indignés,  
+Couvert de tant d'affronts qu'il aura pardonnés ?  
+Où porter désormais ma honte volontaire ?  
+Ce soleil qui voit tout, ce jour qui nous éclaire,  
+Verra-t-il Philoctète auprès d'Ulysse assis ?   [19]
+Et pourrai-je d'Atrée envisager les fils ?  
+Qu'en puis-je attendre encore ? Et sur quelle assurance  
+D'un avenir meilleur fondes-tu l'espérance ?  
+Sais-tu quel traitement ils me gardent un jour ?  
+Va, de ces coeurs ingrats n'attends point de retour.  
+Le crime flétrit l'âme et ne conduit qu'au crime.  
+En leur faveur, dis-moi, quel intérêt t'anime ?  
+Je dois te l'avouer ; je m'étonne en effet  
+Que tu serves les Grecs après ce qu'ils t'ont fait.  
+Toi-même me l'as dit, que leur lâche insolence  
+D'Ajax et de Pyrrhus outragea la vaillance,  
+Et des armes d'Achille osa priver son fils ;  
+Et ton bras s'armerait contre leurs ennemis !  
+Garde, garde plutôt le serment qui te lie ;  
+Remène Philoctète aux bords de Thessalie ;  
+Et toi-même à Scyros, tranquille et respecté,  
+Laisse périr les Grecs comme ils l'ont mérité.  
+Ainsi d'un malheureux tu finis la misère ;  
+Ainsi dans son tombeau tu consoles ton père ;  
+Et tu n'as plus la honte, aux yeux de l'univers,  
+De rester le complice et l'appui des pervers.  
+
+    PYRRHUS.
+C'est contre vous, Seigneur, que votre voix prononce.  
+Le ciel veut vous guérir : sa clémence l'annonce :  
+Le remède est certain, et vous le rejetez !  
+
+    PHILOCTÈTE.
+Laisse-les moi ces maux : je les ai supportés.  
+
+    PYRRHUS.
+Pyrrhus est votre ami.  
+
+    PHILOCTÈTE.
+        C'est l'ami des Atrides.  
+Tu voudrais me traîner au camp de ces perfides,  
+Où de tous mes malheurs le cruel souvenir....  
+
+    PYRRHUS.
+Il les vit commencer, il les verra finir ;  
+Et pour vous de salut il n'est point d'autre voie.  
+
+    PHILOCTÈTE.
+Ne parle plus des Grecs, ne parle plus de Troie.  
+Tous deux m'ont trop coûté de pleurs et de tourments ;  
+Je ne te dis qu'un mot : j'ai reçu tes serments.  
+Veux-tu les accomplir ?  
+
+    PYRRHUS.
+        Je les tiendrai sans doute,  
+Malgré tous les périls qu'il faut que je redoute,  
+Dût la Grèce en fureur contre nous deux s'armer.  
+
+    PHILOCTÈTE.
+Va, leur ressentiment ne doit pas t'alarmer.  
+Pyrrhus aura pour lui la vertu qui le guide,  
+La cause la plus juste, et les flèches d'Alcide.  
+
+    PYRRHUS.
+Eh bien donc, suivez-moi.  
+
+
+## SCÈNE IV. Philoctète, Pyrrhus, Ulysse, Soldats de la suite d'Ulysse.
+
+    ULYSSE.
+        Non, ne l'espérez pas,  
+Ulysse et tous les Grecs arrêteront vos pas.  
+
+    PHILOCTÈTE.
+Ulysse ! Attends, mes traits vont punir cet outrage.  
+
+    PYRRHUS, LE RETENANT.
+Ah ! Gardez-vous d'en faire un si funeste usage.  
+Vous les tenez de moi.  
+
+    PHILOCTÈTE.
+        Dans un sang odieux  
+Laisse-moi les tremper.,..  
+
+    PYRRHUS.
+        Seigneur, au nom des dieux....  
+Le tonnerre gronde.
+
+Écoutez, leur voix parle, entendez le tonnerre :  
+Leur pouvoir se déclare.  
+
+    PHILOCTÈTE.
+        Oui, leur juste colère  
+M'encourage à frapper mon indigne ennemi.  
+
+
+## SCÈNE V. Philoctète, Pyrrhus, Ulysse, Hercule dans un nuage lumineux, Soldats.
+
+    HERCULE.
+Arrête, et reconnais Hercule et ton ami.  
+Je descends pour toi seul de la voûte éternelle.  
+Je partage des dieux la grandeur immortelle.  
+Tu sais par quel chemin je m'y suis élevé :  
+Par les mêmes travaux tu dois être éprouvé.  
+Ton sort est de marcher dans les sentiers d'Alcide ;  
+Suis ce jeune héros qui s'offre pour ton guide.  
+La Grèce sur tes pas conduira ses guerriers,   [20]
+Et le sang de Pâris doit teindre tes lauriers.  
+Sa vie est dévouée aux flèches que tu portes.  
+Du coupable Ilion tu briseras les portes.  
+Pour Pyrrhus et pour loi les destins ont gardé  
+Ce triomphe éclatant, si longtemps retardé.  
+Allez chercher tous deux votre commune proie ;  
+Présente au vieux Poean les dépouilles de Troie ;  
+Mais, lorsqu'en son palais tu rentreras vainqueur,  
+Rapportant dans OEta le prix de ta valeur,  
+Sur le tombeau d'Alcide offres-en les prémices ;  
+À mes flèches, à moi tu dois ces sacrifices.  
+Va, de ta guérison Esculape est chargé.  
+Rends grâce aux immortels qui t'auront protégé.  
+Honore-les toujours : ta gloire est leur ouvrage ;  
+D'un coeur religieux ils chérissent l'hommage :  
+Et la pure vertu, le plus beau don des cieux,  
+Ne meurt point avec l'homme, et se rejoint aux dieux.  
+Il remonte dans son nuage.
+
+
+    PHILOCTÈTE.
+Ô voix auguste et chère, et longtemps attendue !  
+Ô voix avec transport de mon coeur entendue !  
+Je vous obéirai : tous mes ressentiments  
+Doivent être effacés dans de si doux moments.   [21]
+Je me rends, c'en est fait : sous ces heureux auspices,   [22]
+Partons, brave Pyrrhus, avec les vents propices.  
+Remplissons le destin qui, nous est confié :  
+Je sers, en vous suivant, les dieux et l'amitié.  
+
+-------
+
+
+[1] Brunoy traduit : "Osons faire un crime léger, mais nécessaire". Cette phrase, qui n'est point dans l'original, st très déplacée dans cette traduction. Sophocle ne met qu'un seul mot, qui forme une espèce de référence maladroite : "osez, et nous serons ensuite vertueux". (...)
+
+[2] (...) Il ne se sert point du mot "crime", qui est beaucoup trop fort pour la situation, et qui blesserait trop l'oreille de Pyrrhus. Ulysse dit seulement : "Livrez-vous à moi, et oubliez de rougir pendant quelques heures. Il a obervé les convenances, et le traducteur les viole. La Harpe
+
+[3] Brunoy traduit "vos conseils me font horreur à entendre". Le traducteur commet ici encore le même faute. Il outre l'expression qui est jsute dans l'original. Il y a dans le grec ⁎⁎⁎⁎ ; mot à mot, je souffre à les entendre. Si le traducteur avait fait reflexion que Pyrrhus finit par sacrifier ses répugnances si justes et si nobles, il n'aurait pas employé le mot d' "horreur". Ces nuances sont esssentielles à la vérité dramatique. La Harpe
+
+[4] Brunoy traduit : "Prince trop généreux, j'approuve de si beaux et de si nobles sentiments." Il n'y a pas un mot de cela dans l'original : "fils d'un héros, et moi aussi, quand j'étais jeune, j'ai cru , etc. Combien ce dialogue est plus vif et plus précis. La Harpe
+
+[5] Scyros : île de la Grèce, dans la mer Egée, au nord-est de L'Eubée. Elle est célèbre dans la Fable i.e. histoire comme ayant été la retraite d'Achille, que sa mère y avait caché parmi les filles de Lycomède et comme le lieu où mourut Thésée. Cymon rapporta de cette île à Athènes les retes du héros. B
+
+[6] Chrysa : ou Crissa ville de Phocide, au sud-ouest de Delphes, à 4 km de la merdite de Crissa (partie nord du golfe de Corinthe), (...) avait pour port Cirrha. les Criséens avaient pillés le temple de Delphes, leur ville fut rasée par ordre des Amphyctions, en 594 avant JC. B
+
+[7] Sigée : promontoire de la Troade, sur la mer Egée à l'entrée de l'Hellespont, servit au grac de station navale epndant le guerre de Trois. C'est là qu'était le tombeau d'Achille et de Patrocle. (...) B
+
+[8] Sisyphe : Fils d'Eole et petit fils d'Helen, est célèbre dans la mythologie pour sa malice et sa fourberie. Il eut poiur femme l'Atlantide Mérope, et pour maîtresse Anticlée, qu'il laisse, dit-on, enceinte d'Ulysse ; il séduisit en outre sa propre nièce, Tyro, fille de Salmonée. (...) Enfin, il fut tué par Thésée et laissé sans sépulture. Pluton lui ayant accordé de revenir un seul jour sur la Terre, pour se faire inhumer, il ne voulut plus redescendre aux Enfers ; il fallut que Mercure (...) l'y trainât de force. En punition (...), il fut condamné à rouler sans cesse un bloc énorme au haut d'un rocher escarpé d'où il retombait aussitôt. B
+
+[9] Brigue : Désir ambitieux qu'on a d'obtenir quelque charge responsabilité ou propriété rémunératrice ou dignité, où l'on tâche de parvenir plus par adresse que par mérite. F
+
+[10] Insigne : Remarquable, excellent, qui se fait distinguer de ses semblables. (Dict; Furetière)
+
+[11] OEta : Montagne de la Grèce, sur les confins de la Thessalie, de la Phocide et de la Doride. C'est là que que selon la fable histoire mythique, Hercule monta sur le bûcher. (Dict. universel d'histoire et de géographie, Bouillet)
+
+[12] Eubée : Grande île de la mer Egée, de forme oblongue, s'étendant le lond des cotes de l'Attique, de la Boétie, et de la Locride, depuis de cap Sunium jusqu'à la Tessalie. B
+
+[13] Traits : flèches.
+
+[14] Hydre de Lerne: Serpent monstrueux, né de Typhon et d'Echidna , séjournait dans les eaux du Lac de Lerne en Argolide. Il avait sept têtes, et chacune repoussait à mesure qu'on la coupait, à moins qu'on ne brûlat immédiatement la plaie. Hercule en délivrat la terre : cet exploit est un des douze travaux que lui imposa Eurysthée B
+
+[15] Balancer: hésiter.
+
+[16] Teucer : Fils de Télamon et d'Hésione, demi-frère d'Ajax, accomapna ce dernier au siège de Troie, et en revint seul sans l'avoir vengé. Mal accueilli de son père, il s'axila et alla fonder la ville de Salamine en Cypre. Quelques uns lui attribuèrent la condation de Carthagène en Espagne. (Dict. universel d'histoire et de géographie, Bouillet)
+
+[17] Hélénus : fils de Priam, était habile devin. Il fut fait prisonnier par Ulysse pendant la guerre de Troie, et devint, après la prise de la ville, esclave de Pyrrhus ; il gagna l'amitié de ce prince par des avis importants que lui inspirait son habileté dans son art de prédire.. Pyrrhus pour reconnaître ses ses services, lui donné Andromaque en mariage, dont il avait fait précédemment sa propre épouse., et lui céda en mourant une partie de ses États. (Dict. universel d'histoire et de géographie, Bouillet)
+
+[18] Esculape : Dieu de la mmédecine, fisl d'Apollon et de Coronis, fut confié au soin du Centaure Chiron qui lui apprit l'art de guérir. Il suivit les Argonautes en Colchide, à son retour il rendit la vie à Hippolyte, fils de Thésée, mais à la prière de Pluton qui se plaignait de sa faire enlever sa rpoie, Apollon le frappa de la foudre. (..) Ce dieu était adoré principalement à Epidaure, à Athène, à Pergame, à Cos et à Smyrne. Le coq et le serpent, symboles de vigilance et de prudence, lui étaient consacrés. (...) (Dict. universel d'histoire et de géographie, Bouillet)
+
+[19] Envisager : regarder quelqu'un au visage (Dict. Furetière) ici, affronter du regard.
+
+[20] Lauriers : Se dit figuremment en morale, pour signifier la gloire d'un  triomphe, d'une conquête. (Dict. Furetière)
+
+[21] Auspices : c'était chez les anciens d'augure, de vaine superstition lorsqu'ils considéraient le vol et le chant des oiseaux, pour savoir si quelque entreprise que l'on commençait devait être heureuse ou malheureuse. (Dict. Furetière)
+
+[22] Propice : favorable.

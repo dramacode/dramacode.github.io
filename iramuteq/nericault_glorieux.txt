@@ -1,0 +1,4755 @@
+
+
+**** *book_ *id_I01 *act_I *date_1732
+
+-*who_pasquin
+Lisette ne vient point : je crois que la friponne
+A voulu se moquer un peu de ma personne
+En me donnant tantôt un rendez-vous ici.
+Pour le coup je m'en vais. Ah ! Ma foi, la voici.
+
+**** *book_ *id_I02 *act_I *date_1732
+
+-*who_lisette
+Mon cher Monsieur Pasquin, je suis votre servante.
+
+-*who_pasquin
+Très humble serviteur à l'aimable suivante
+D'une aimable maîtresse.
+
+-*who_lisette
+      Un si doux compliment
+Mérite de ma part un long remerciement ;
+Mais, pour m'en acquitter, je manque d'éloquence.
+Vous vous contenterez de cette révérence.
+Je vous ai fait attendre...
+
+-*who_pasquin
+      À vous parler sans fard,
+Ma reine, au rendez-vous vous venez un peu tard.
+
+-*who_lisette
+J'aurais voulu pouvoir un peu plus tôt m'y rendre.
+
+-*who_pasquin
+Autrefois j'étais vif, et j'enrageais d'attendre ;
+Rien ne pouvait calmer mes désirs excités ;
+Mais l'âge a mis un frein à mes vivacités.
+
+-*who_lisette
+Si bien que vous voilà devenu raisonnable ?
+
+-*who_pasquin
+Et j'en suis bien honteux.
+
+-*who_lisette
+      Honteux d'être estimable ?
+
+-*who_pasquin
+Oui, de l'être avec vous ; et je lis dans vos yeux
+Qu'avec moins de raison je vous plairais bien mieux.
+
+-*who_lisette
+À moi ? Je vous fuirais, si vous étiez moins sage.
+
+-*who_pasquin
+Me voilà donc au fait, et j'entends ce langage.
+Vous me trouvez trop vieux pour être un favori,
+Et de moi vous ferez un honnête mari.
+Je me sens pour ce titre un fond de patience
+Dont vous pourrez bientôt faire l'expérience.
+
+-*who_lisette
+Vous vous trompez bien fort : car je ne veux
+De vous ni faire mon amant, ni faire mon époux.
+
+-*who_pasquin
+Que me voulez-vous donc ? Quel sujet nous assemble ?
+
+-*who_lisette
+Je veux que nous tenions ici conseil ensemble.
+
+-*who_pasquin
+Sur quoi ?
+
+-*who_lisette
+      Sur votre maître et ma maîtresse.
+
+-*who_pasquin
+      Eh bien ?
+
+-*who_lisette
+Traitons cette matière, et ne nous cachons rien.
+Tous deux à les servir étant d'intelligence,
+Nous leur pourrons tous deux être utiles, je pense.
+
+-*who_pasquin
+Votre idée est très juste ; elle me plaît.
+
+-*who_lisette
+      Tant mieux.
+Le Comte votre maître est froid et sérieux,
+Et, depuis trois grands mois qu'avec nous il demeure,
+Je n'ai pas encor pu lui parler un quart d'heure.
+Quel est son caractère ? Entre nous, j'entrevois
+Que ma maîtresse l'aime ; et cependant je crois
+Qu'il ne doit pas longtemps compter sur sa tendresse :
+Car, avec de l'esprit, du sens, de la sagesse,
+Des grâces, des attraits, elle n'a pas le don
+S'aimer avec constance. Avant qu'aimer, dit-on,
+Il faut connaître à fond : car l'amour est bien traître.
+Pour Isabelle, elle aime avant que de connaître ;
+Mais son penchant ne peut l'aveugler tellement
+Qu'il dérobe à ses yeux les défauts d'un amant.
+Les cherchant avec soin et les trouvant sans peine,
+Après quelques efforts sa victoire est certaine ;
+Honteuse de son choix, elle reprend son cour,
+Et l'on voit à ses feux succéder la froideur ;
+Sur le point d'épouser, elle rompt sans mystère.
+
+-*who_pasquin
+Voilà, sur ma parole, un plaisant caractère.
+Un cour tendre et volage, un esprit vif, ardent
+Jusqu'à l'étourderie, et toutefois prudent ;
+Coquette au par-dessus.
+
+-*who_lisette
+      Non, point capricieuse,
+Point coquette, et surtout point artificieuse.
+Elle aime tendrement, et de très bonne foi ;
+Mais cela ne tient pas. Maintenant dites-moi
+Toutes les qualités du comte votre maître.
+C'est pour le mieux servir que je veux le connaître.
+Sans deviner pourquoi, j'ai du penchant pour lui,
+Et vous l'éprouverez même dès aujourd'hui.
+S'il a quelques défauts, empêchons ma maîtresse
+De s'en apercevoir, et fixons sa tendresse.
+Mais découvrez-les-moi pour me mettre en état
+De faire que l'hymen prévienne cet éclat.
+
+-*who_pasquin
+Instruit de vos desseins, je parlerai sans craindre,
+Et de la tête aux pieds je vais vous le dépeindre.
+Ses bonnes qualités seront mon premier point ;
+Ses défauts, mon second. Je ne vous cache point
+Que je serai très court sur le premier chapitre,
+Très long sur le dernier. Premièrement, son titre
+De comte de Tufière est un titre réel,
+Et son air de grandeur est un air naturel :
+Il est certainement d'une haute naissance.
+
+-*who_lisette
+C'est l'effet du hasard. Passons.
+
+-*who_pasquin
+      Toute la France
+Convient de sa valeur, et, brave confirmé,
+Parmi les gens de guerre il est très estimé.
+Il fera son chemin, à ce que l'on assure.
+Il est homme d'honneur ; on vante sa droiture.
+Quoique vif, pétulant, il a le cour très bon.
+Voilà mon premier point.
+
+-*who_lisette
+      Passons vite au second.
+
+**** *book_ *id_I03 *act_I *date_1732
+
+-*who_pasquin
+Ah ! Te voilà, La Fleur ? Que fait monsieur le Comte ?
+
+-*who_lafleur
+Il joue ; et, qui plus est, il y fait bien son compte :
+Car il va mettre à sec un franc provincial,
+Au moins aussi nigaud qu'il me paraît brutal ;
+Notre maître, tandis qu'il jure et se désole,
+Embourse son argent sans dire une parole.
+
+-*who_pasquin
+Pourquoi viens-tu sitôt ?
+
+-*who_lafleur
+      Pour un dessein que j'ai.
+
+-*who_pasquin
+Quel dessein ?
+
+-*who_lafleur
+      Je vous viens demander mon congé.
+
+-*who_pasquin
+À moi ?
+
+-*who_lafleur
+      Sans doute. Autant que je puis m'y connaître,
+Vous êtes factotum de monsieur notre maître.
+On n'ose lui parler sans le mettre en courroux :
+Il faut par conséquent que l'on s'adresse à vous.
+
+-*who_pasquin
+Tu me surprends, La Fleur, je te croyais plus sage.
+Servir monsieur le comte est un grand avantage.
+Pourquoi donc le quitter ? Éclaircis-moi ce point.
+
+-*who_lafleur
+C'est que vous parlez trop, et qu'il ne parle point.
+
+-*who_lisette
+Le trait est singulier, et la plainte est nouvelle.
+
+-*who_lafleur
+Tel que vous me voyez, ma chère demoiselle,
+Vous ne le croiriez pas, on me prend pour un sot ;
+Et mon maître, en trois mois, ne m'a pas dit un mot.
+
+-*who_pasquin
+Que t'importe cela ?
+
+-*who_lafleur
+      Comment donc, que m'importe ?
+Peut-il avec ses gens en user de la sorte ?
+Que je sois tout un jour dans son appartement,
+Il ne daignera pas me gronder seulement ;
+Et j'ai quitté pour lui la meilleure maîtresse...
+Qui voulait qu'on parlât, et qui parlait sans cesse.
+On ne s'ennuyait point. Tous les jours, tour à tour,
+Elle nous chantait pouille avant le point du jour.
+C'était un vrai plaisir.
+
+-*who_lisette
+      Tu veux donc qu'on te gronde ?
+
+-*who_lafleur
+Je ne hais point cela, pourvu que je réponde.
+Répondre, c'est parler. Encor vit-on. Mais bon !
+Avec monsieur le comte on ne dit oui ni non ;
+Il ne dit pas lui-même une pauvre syllabe.
+Oh ! J'aimerais autant vivre avec un arabe.
+Cela me fait sécher, cela me pousse à bout ;
+Moi, qui dis volontiers mon sentiment sur tout,
+Le silence me tue, et... vous riez ?
+
+-*who_lisette
+      Achève.
+
+-*who_lafleur
+Si je reste céans, il faudra que je crève.
+
+-*who_lisette
+Que j'aime sa franchise et sa naïveté !
+
+-*who_lafleur
+Foi de garçon d'honneur, je dis la vérité.
+
+-*who_pasquin
+Notre maître à ses gens fait garder le silence ;
+Mais ils sentent l'effet de sa magnificence ;
+Bien nourris, bien vêtus, et payés largement.
+
+-*who_lafleur
+Eh ! Tout cela pour moi n'est point contentement.
+
+-*who_lisette
+Enfin, il faut qu'il parle ; et c'est là sa folie.
+
+-*who_lafleur
+Autrement je succombe à la mélancolie.
+J'eus un maître autrefois que je regrette fort,
+Et que je ne sers plus, attendu qu'il est mort.
+Il ne me faisait pas de fort gros avantages,
+Il me nourrissait mal, me payait mal mes gages ;
+Jamais aucun profit, et souvent en hiver
+Il me laissait aller presque aussi nu qu'un ver ;
+Mais je l'aimais. Pourquoi ? C'est qu'il me faisAit rire,
+Et que de mon côté je pouvais tout lui dire.
+Il m'appelait son cher, son ami, son mignon ;
+Et nous vivions tous deux de pair à compagnon.
+Mais, pour monsieur le comte, au diantre si je l'aime !
+Il est toujours gourmé, renfermé dans lui-même,
+Toujours portant au vent, fier comme un écossais.
+Je ne puis le souffrir, à vous parler français ;
+Et, dût-il m'enrichir, que le diable m'emporte
+Si je voulais servir un maître de la sorte !
+
+-*who_pasquin
+Patience ; à ta face on s'accoutumera,
+Et tu verras qu'un jour monsieur te parlera.
+Mais ne t'échappe point. Attends l'heure propice.
+Depuis dix ans au moins je suis à son service,
+Et n'ose lui parler que par occasion.
+
+-*who_lisette
+Ce pauvre garçon-là me fait compassion.
+Faites que l'on lui dise au moins quelques paroles.
+
+-*who_lafleur
+Tenez, j'aimerais mieux deux mots que deux pistoles.
+
+-*who_pasquin
+J'y ferai de mon mieux.
+
+-*who_lafleur
+      Enfin point de milieu ;
+Il faut ou qu'on me parle, ou qu'on me chasse.
+Adieu. Voilà mon dernier mot ; c'est moi qui vous l'annonce ;
+Et je parlerai, moi, si je n'ai pas réponse.
+
+**** *book_ *id_I04 *act_I *date_1732
+
+-*who_pasquin
+J'ai pitié, comme vous, de ce pauvre La Fleur.
+
+-*who_lisette
+Le comte de Tufière est donc un fier seigneur ?
+
+-*who_pasquin
+C'est là mon second point.
+
+-*who_lisette
+      Fort bien.
+
+-*who_pasquin
+Sa politique est d'être toujours grave avec un domestique.
+S'il lui disait un mot, il croirait s'abaisser ;
+Et qu'un valet lui parle, il se fera chasser :
+Enfin, pour ébaucher en deux mots sa peinture,
+C'est l'homme le plus vain qu'ait produit la nature.
+Pour ses inférieurs plein d'un mépris choquant,
+Avec ses égaux même il prend l'air important ;
+Si fier de ses aïeux, si fier de sa noblesse,
+Qu'il croit être ici-bas le seul de son espèce ;
+Persuadé d'ailleurs de son habileté,
+Et décidant sur tout avec autorité ;
+Se croyant en tout genre un mérite suprême ;
+Dédaignant tout le monde, et s'admirant lui-même ;
+En un mot, des mortels le plus impérieux,
+Et le plus suffisant, et le plus glorieux.
+
+-*who_lisette
+Ah ! Que nous allons rire !
+
+-*who_pasquin
+      Et de quoi donc ?
+
+-*who_lisette
+      Son faste,
+Sa fierté, Ses hauteurs, font un parfait contraste
+Avec les qualités de son humble rival,
+Qui n'oserait parler de peur de parler mal,
+Qui par timidité rougit comme une fille,
+Et qui, quoique fort riche et de noble famille,
+Toujours rampant, craintif, et toujours concerté,
+Prodigue les excès de sa civilité ;
+Pour les moindres valets rempli de déférences,
+Et ne parlant jamais que par ses révérences.
+
+-*who_pasquin
+Oui, ma foi, le contraste est tout des plus parfaits,
+Et nous en pourrons voir d'assez plaisants effets.
+Ce doucereux rival, c'est Philinte, sans doute ?
+Mon maître d'un regard doit le mettre en déroute.
+
+-*who_lisette
+Mais ce comte si fier est donc bien riche aussi ?
+Du moins il le paraît.
+
+-*who_pasquin
+      Riche ? Non, dieu merci :
+Car c'est là, quelquefois, ce qui rabat sa gloire ;
+Et tout son revenu, si j'ai bonne mémoire,
+Vient de sa pension et de son régiment ;
+Mais il sait tous les jeux et joue heureusement :
+C'est par là qu'il soutient un train si magnifique.
+
+-*who_lisette
+Et faites-vous fortune ?
+
+-*who_pasquin
+      Oui, par ma politique.
+Avec moi quelquefois il prend des libertés.
+Je le boude, il sourit. Mes dépits concertés,
+Un air froid et rêveur, quelques brusques paroles,
+L'amènent où je veux. Par quatre ou cinq pistoles
+Il cherche à m'apaiser, à me calmer l'esprit ;
+Et, comme j'ai bon cour, son argent m'attendrit.
+
+-*who_lisette
+Vous m'avez mise au fait et je vais vous instruire.
+Le comte va bientôt lui-même se détruire
+Dans l'esprit d'Isabelle ; oui, soyez-en certain,
+S'il ne lui cache pas son naturel hautain.
+Elle est d'humeur liante, affable, sociable :
+L'orgueil est à ses yeux un vice insupportable ;
+Et, malgré les grands biens qui lui sont assurés,
+Son air et ses discours sont simples, mesurés,
+Honnêtes, prévenanTs et pleins de modestie.
+
+-*who_pasquin
+Si bien qu'avec mon maître elle est mal assortie ?
+
+-*who_lisette
+Il aura son congé s'il ne se contraint point.
+Donnez-lui cet avis.
+
+-*who_pasquin
+      Il est haut à tel point...
+
+-*who_lisette
+J'entends du bruit. Je crois que c'est notre vieux maître.
+Ne me laissez pas seule avec lui.
+
+-*who_pasquin
+      Ce vieux reître
+Est-il si dangereux ?
+
+-*who_lisette
+      À cinquante-cinq ans,
+Il est plus libertin que tous nos jeunes gens ;
+Et, ce qui me surprend, c'est que son fils Valère
+A toute la sagesse et la vertu d'un père.
+
+**** *book_ *id_I05 *act_I *date_1732
+
+-*who_lisimon
+Bonjour, ma chère enfant ; embrasse-moi bien fort.
+Comment donc, tu me fuis ?
+
+-*who_lisette
+      Réservez ce transport pour madame.
+
+-*who_lisimon
+Eh ! Fi donc ! Tu te moques, je pense ?
+J'arrive de campagne, et, plein d'impatience
+De te revoir, j'accours... Quel est ce garçon-là ?
+Tête à tête tous deux ? Je n'aime point cela.
+Je gage qu'avec lui tu n'étais pas si fière ?
+
+-*who_lisette
+Nous nous entretenions du comte de Tufière,
+Son maître.
+
+-*who_lisimon
+      Ce seigneur que l'on m'a proposé
+Pour ma fille ?
+
+-*who_pasquin
+      Oui, monsieur.
+
+-*who_lisimon
+      Je suis très disposé,
+Sur ce qu'on m'en écrit, à le choisir pour gendre ;
+On me le vante fort, et l'on me fait entendre
+Qu'il est homme d'honneur, de grande qualité.
+Mais est-il vif, alerte, étourdi, bien planté,
+Bon vivant ? Car je veux tout cela pour ma fille.
+
+-*who_pasquin
+Vous faites son portrait, et c'est par là qu'il brille.
+
+-*who_lisimon
+Bon. Aime-t-il la table, et boit-il largement ?
+
+-*who_pasquin
+Diable ! Il est le plus fort de tout le régiment.
+Il a fait son chef-d'oeuvre en Allemagne, en Suisse.
+
+-*who_lisimon
+Voilà mon homme. Il faut que l'autre déguerpisse.
+
+-*who_lisette
+Qui, Philinte ?
+
+-*who_lisimon
+      Lui-même. Il me cajole en vain.
+C'est un homme qui met le tiers d'eau dans son vin.
+Ce fade personnage, en ses façons discrètes,
+Me donne la colique à force de courbettes.
+Mon gendre buveur d'eau ! Fût-il prince, morbleu !
+Je le refuserais. Nous allons voir beau jeu :
+Car ma femme, dit-on, le destine à ma fille.
+Sait-elle que je suis le chef de ma famille,
+Le monarque absolu d'elle et de mes enfants,
+Que j'en veux disposer ? Mais est-elle céans ?
+
+-*who_lisette
+Oui, monsieur.
+
+-*who_lisimon
+      Tu diras à ma chère compagne
+Qu'il faut que dès ce soir elle aille à la campagne.
+
+-*who_lisette
+Et pourquoi donc ?
+
+-*who_lisimon
+      Pourquoi ? C'est que je suis ici.
+Belle demande !
+
+-*who_lisette
+      Mais...
+
+-*who_lisimon
+      Dans cette maison-ci
+Nous sommes à l'étroit et trop près l'un de l'autre,
+Et l'on travaille à force à rebâtir la nôtre.
+Mon hôtel sera vaste, et je prendrai grand soin
+Que nos appartements se regardent de loin,
+Afin qu'un même toit elle et moi nous assemble
+Sans nous apercevoir que nous logions ensemble.
+
+-*who_lisette
+Je vais voir si madame est visible.
+
+-*who_lisimon
+      Non, non ;
+J'ai deux mots à te dire. Et toi, sors, mon garçon.
+Va-t'en chercher ton maître en toute diligence :
+Il faut qu'incessamment nous fassions connaissance.
+
+-*who_lisette
+Son maître va rentrer.
+
+-*who_pasquin
+      Et je l'attends ici.
+
+-*who_lisimon
+Va l'attendre dehors. Décampe.
+
+**** *book_ *id_I06 *act_I *date_1732
+
+-*who_lisimon
+      Dieu merci,
+Nous sommes tête à tête, et ma vive tendresse...
+Où vas-tu donc ?
+
+-*who_lisette
+      Je vais rejoindre ma maîtresse,
+Elle m'appelle.
+
+-*who_lisimon
+      Non.
+
+-*who_lisette
+      Ne l'entendez-vous pas ?
+
+-*who_lisimon
+Moi ! Point.
+
+-*who_lisette
+      Moi, je l'entends, et j'y cours de ce pas.
+
+-*who_lisimon
+Qu'elle attende.
+
+-*who_lisette
+      Monsieur, voulez-vous qu'on me gronde ?
+
+-*who_lisimon
+Qui l'oserait céans ? Je veux que tout le monde
+T'y regarde en maîtresse, et me respecte en toi ;
+Que femme, enfants, valets, tout t'obéisse.
+
+-*who_lisette
+      À moi,
+Monsieur ? Y pensez-vous ?
+
+-*who_lisimon
+      Oui, ma petite reine ;
+De mon cour, De mes biens, je te rends souveraine.
+
+-*who_lisette
+Ce langage est obscur, et je ne l'entends pas.
+
+-*who_lisimon
+Je m'en vais m'expliquer. Charmé de tes appas,
+J'ai conçu le dessein de faire ta fortune.
+Pour nous débarrasser d'une foule importune,
+Je te veux à l'écart loger superbement.
+Les soirs, j'irai chez toi souper secrètement ;
+Je ferai tous les frais d'un nombreux domestique,
+D'un équipage leste autant que magnifique ;
+Habits, ajustements, rien ne te manquera ;
+Et sur tous tes désirs mon cour te préviendra :
+M'entends-tu maintenant ?
+
+-*who_lisette
+      Oui, monsieur, à merveille.
+
+-*who_lisimon
+Et ce discours, je crois, te chatouille l'oreille ?
+Que réponds-tu, ma chère, à ces conditions ?
+
+-*who_lisette
+Je ne puis accepter vos propositions,
+Monsieur, sans consulter une très bonne dame
+Que j'honore.
+
+-*who_lisimon
+      Et qui donc ?
+
+-*who_lisette
+      Madame votre femme.
+
+-*who_lisimon
+Comment, diable, ma femme !
+
+-*who_lisette
+      Oui, monsieur, s'il vous plaît.
+À ce qui me regarde elle prend intérêt,
+Et je ne doute point qu'elle ne soit ravie
+De me voir embrasser ce doux genre de vie.
+
+-*who_lisimon
+Te moques-tu ?
+
+-*who_lisette
+      Je vais aussi prendre l'avis
+De ma maîtresse, et puis de monsieur votre fils.
+Tous trois, édifiés, à ce que j'imagine,
+Du soin que vous prenez d'une pauvre orpheline,
+Seront touchés de voir que, lui prêtant la main,
+Vous la mettiez vous-même en un si beau chemin,
+Et qu'à votre âge, enfin, votre charité brille
+Jusqu'à les ruiner pour placer une fille.
+
+-*who_lisimon
+Tu le prends sur ce ton ?
+
+-*who_lisette
+      Oui, monsieur, je l'y prends.
+Apprenez, je vous prie, à connaître vos gens.
+Un cour tel que le mien méprise les richesses,
+Quand il faut les gagner par de telles bassesses.
+
+-*who_lisimon
+Oh ! Puisque mon amour, mes offres, mes discours,
+Ne peuvent rien sur toi, je prétends...
+
+-*who_lisette
+      Au secours !
+
+-*who_lisimon
+Quoi ! Friponne, me faire une telle incartade ?
+
+**** *book_ *id_I07 *act_I *date_1732
+
+-*who_valere
+Mon père, qu'avez-vous ?
+
+-*who_lisimon
+      Rien.
+
+-*who_valere
+      Êtes-vous malade ?
+
+-*who_lisimon
+Non ; je me porte bien. Que voulez-vous ?
+
+-*who_valere
+      Qui, moi ?
+On criait au secours, et, plein d'un juste effroi,
+Je suis vite accouru.
+
+-*who_lisimon
+      C'est prendre trop de peine.
+Lisette me suffit.
+
+-*who_valere
+      Mais...
+
+-*who_lisimon
+      Votre aspect me gêne,
+Sortez.
+
+-*who_valere
+      Moi, vous quitter en ce pressant besoin !
+Je n'ai garde à coup sûr. Lisette, j'aurai soin
+De monsieur ; sortez vite ; allez dire à ma mère
+Qu'elle vienne au plus tôt.
+
+-*who_lisimon
+      Eh ! Je n'en ai que faire,
+Bourreau.
+
+-*who_lisette
+      J'y vais.
+
+-*who_lisimon
+      Demeure. Et toi, sors à l'instant.
+
+-*who_valere
+S'il ne tient qu'à cela pour vous rendre content,
+Lisette restera. Mais aussi je vous jure
+De ne vous point quitter dans cette conjoncture.
+Vous voilà trop ému. Vos yeux sont tout en feu.
+Je crains quelque accident. Asseyez-vous un peu.
+Vous êtes, je le vois, fatigué du voyage.
+Il faut vous ménager un peu plus à votre âge.
+Enverrai-je chercher le médecin ?
+
+-*who_lisimon
+      Tais-toi.
+Traître, tu le payeras.
+
+**** *book_ *id_I08 *act_I *date_1732
+
+-*who_lisette
+      Vous voyez ?
+
+-*who_valere
+      Oui, je vois
+À quel indigne excès veut se porter mon père.
+Quel exemple pour moi ! Quel chagrin pour ma mère !
+Je ne m'étonne plus si sa faible santé
+L'oblige à renoncer à la société,
+Et si, toujours livrée à sa mélancolie,
+Dans son appartement elle passe sa vie.
+
+-*who_lisette
+Je veux sortir d'ici.
+
+-*who_valere
+      Non, non, ne craignez rien.
+De mon père, après tout, nous vous défendrons bien.
+
+-*who_lisette
+Je le sais ; mais enfin je veux sortir, vous dis-je.
+
+-*who_valere
+Songez-vous à quel point votre discours m'afflige ?
+Oui, si vous nous quittez, je mourrai de douleur.
+Vous savez mon dessein.
+
+-*who_lisette
+      Il ferait mon bonheur
+S'il pouvait s'accomplir ; mais il est impossible.
+Je sens de vous à moi la distance terrible.
+Un mariage en forme est ce que je prétends :
+Vous me le promettez, mais en vain je l'attends.
+Chaque jour, chaque instant détruit mon espérance.
+Vos parents sont puissants ; une fortune immense
+Doit vous faire aspirer aux plus nobles partis :
+Jugez si vous et moi nous sommes assortis.
+
+-*who_valere
+L'amour assortit tout, et mon âme ravie
+Trouve en vous ce qui fait le bonheur de la vie.
+
+-*who_lisette
+Songez que je n'ai rien, et ne sais d'où je sors.
+
+-*who_valere
+Esprit, grâces, beauté, ce sont là vos trésors,
+Vos titres, vos parents.
+
+-*who_lisette
+      Vous flattez-vous, Valère,
+De faire à notre hymen consentir votre père ?
+
+-*who_valere
+Nous nous passerons bien de son consentement.
+
+-*who_lisette
+Oui, vous, mais non pas moi.
+
+-*who_valere
+      Je puis secrètement...
+
+-*who_lisette
+Non, non, ne croyez pas qu'un vain espoir m'endorme.
+Je vous l'ai dit, je veux un mariage en forme,
+Et me garderai bien de courir le hasard...
+
+-*who_valere
+Vous n'avez rien à craindre, et... que veut ce vieillard ?
+
+-*who_lisette
+Tout pauvre qu'il paraît, sa sagesse est profonde,
+Et c'est le seul ami qui me reste en ce monde.
+Depuis près de deux ans, cet ami vertueux,
+Sensible à mes besoins, empressé, généreux,
+Fait de me secourir sa principale affaire :
+Je trouve en sa personne un guide salutaire.
+Laissez-nous un moment, s'il vous plaît.
+
+-*who_valere
+      De bon cour ;
+Mais revenez bientôt me joindre chez ma sour.
+
+**** *book_ *id_I09 *act_I *date_1732
+
+-*who_lycandre
+Enfin, je vous revois ; cette rencontre heureuse
+Me comble de plaisir.
+
+-*who_lisette
+      Moi, je suis bien honteuse
+Que vous me retrouviez dans l'état où je suis.
+
+-*who_lycandre
+Que faites-vous ici ?
+
+-*who_lisette
+      Je fais ce que je puis
+Pour me le cacher ; mais...
+
+-*who_lycandre
+      Quoi ?
+
+-*who_lisette
+      J'y suis en service.
+
+-*who_lycandre
+Juste ciel ! Et c'est donc pour ce vil exercice
+Que sans m'en avertir vous sortez du couvent ?
+
+-*who_lisette
+Autrefois pour me voir vous y veniez souvent ;
+Mais depuis quelque temps vous m'avez négligée.
+De plus, ma mère est morte. Inquiète, affligée,
+N'entendant rien de vous, sans espoir, sans appui,
+Quelle ressource avais-je en ce cruel ennui ?
+La fille de céans, à présent ma maîtresse,
+Mon amie au couvent, sensible à ma tristesse,
+Sur le point de sortir, m'offrit obligeamment
+De me prendre auprès d'elle. Elle me fit serment
+Que je serais plutôt compagne que suivante :
+Je ne pus résister à son offre pressante.
+Ce ne fut pas pourtant sans verser bien des pleurs ;
+Mais mon sort le voulut : et voilà mes malheurs.
+
+-*who_lycandre
+Ô fortune cruelle ! Et vous tient-on parole
+Par de justes égards ?
+
+-*who_lisette
+      Oui.
+
+-*who_lycandre
+      Cela me console
+D'un si triste incident, que j'aurais prévenu
+Si mes infirmités ne m'eussent retenu
+Pendant près de six mois dans la retraite
+Obscure où je mène moi-même une vie assez dure.
+Si bien que vous voilà plus heureuse aujourd'hui ?
+
+-*who_lisette
+Autant qu'on le peut être au service d'autrui.
+
+-*who_lycandre
+Hélas !
+
+-*who_lisette
+      Vous soupirez ? Dans ma triste aventure
+Je ne sais quel espoir me soutient, me rassure ;
+Mais je n'ai rien perdu de ma vivacité.
+
+-*who_lycandre
+Votre espoir est fondé. Le moment souhaité
+Peut arriver bientôt. La fortune se lasse
+De vous persécuter. Mais, dites-moi, de grâce,
+À qui parliez-vous là, quand je suis survenu ?
+
+-*who_lisette
+Au fils de la maison. S'il vous était connu,
+Vous l'estimeriez fort.
+
+-*who_lycandre
+      Il a donc votre estime ?
+Vous rougissez ?
+
+-*who_lisette
+      Qui, moi ? Me feriez-vous un crime
+De lui rendre justice ?
+
+-*who_lycandre
+      Il est jeune, bien fait,
+Riche ; Il vous voit souvent ?
+
+-*who_lisette
+      Oui, souvent, en effet.
+
+-*who_lycandre
+Vous êtes jeune, aimable, et sans expérience :
+Voilà bien des écueils.
+
+-*who_lisette
+      Soyez en assurance.
+Mon cour est au-dessus de ma condition.
+J'ai des principes sûrs contre l'occasion.
+
+-*who_lycandre
+J'y compte. Mais enfin que vous dit ce jeune homme ?
+
+-*who_lisette
+Il se nomme Valère.
+
+-*who_lycandre
+      Eh ! Mon dieu, qu'il se nomme
+Ou Valère, ou Cléon, que m'importe ? Il s'agit
+De m'informer à fond des choses qu'il vous dit.
+
+-*who_lisette
+Qu'il m'aime.
+
+-*who_lycandre
+      Est-ce là tout ?
+
+-*who_lisette
+      Oui.
+
+-*who_lycandre
+      C'est tout ? Oui, vous dis-je.
+
+-*who_lycandre
+Vous me trompez.
+
+-*who_lisette
+      Eh ! Mais... Ce reproche m'afflige.
+Eh bien donc, ce jeune homme, à ne rien déguiser,
+Si j'y veux consentir, m'offre de m'épouser en secret.
+
+-*who_lycandre
+En secret ? Il cherche à vous surprendre.
+
+-*who_lisette
+Non ; je réponds de lui. Mais, bien loin de me rendre,
+En acceptant son cour je refuse sa main,
+À moins que ses parents n'approuvent son dessein.
+Ils le rejetteront, je n'en suis que trop sûre ;
+Et, pour fuir un éclat, monsieur, je vous conjure
+De me tirer d'ici dès demain, dès ce soir,
+Pour que Valère et moi nous cessions de nous voir.
+
+-*who_lycandre
+D'un sort moins rigoureux ô fille vraiment digne !
+Ce que vous exigez est une preuve insigne
+Et de votre prudence et de votre vertu.
+Il faut vous révéler ce que je vous ai tu.
+Vous pouvez aspirer à la main de Valère,
+Et même l'épouser de l'aveu de son père.
+
+-*who_lisette
+Moi, monsieur ?
+
+-*who_lycandre
+      Je dis plus : ils se tiendront heureux,
+Dès qu'ils vous connaîtront, de former ces beaux nouds ;
+Et, respectant en vous une haute naissance,
+Ils brigueront l'honneur d'une telle alliance.
+
+-*who_lisette
+Vous vous moquez de moi. Pourquoi, jusqu'à sa mort,
+Ma mère a-t-elle eu soin de me cacher mon sort ?
+Mon père est-il vivant ?
+
+-*who_lycandre
+      Il respire, il vous aime,
+Et viendra de ce lieu vous retirer lui-même.
+
+-*who_lisette
+Et pourquoi si longtemps m'abandonner ainsi ?
+
+-*who_lycandre
+Vous saurez ses raisons. Mais demeurez ici
+Jusqu'à ce qu'il se montre, et gardez le silence ;
+C'est un point capital.
+
+-*who_lisette
+      Moi, d'illustre naissance !
+Ah ! Je ne vous crois point, si vous n'éclaircissez
+Tout ce mystère à fond.
+
+-*who_lycandre
+      Non, j'en ai dit assez.
+Pour savoir tout le reste, attendez votre père.
+Adieu. Mais dites-moi, le comte de Tufière
+Demeure-t-il céans ?
+
+-*who_lisette
+      Oui, depuis quelques mois.
+
+-*who_lycandre
+Il faut que je lui parle.
+
+-*who_lisette
+      Ah ! Monsieur, je prévois
+Qu'il vous recevra mal en ce triste équipage,
+Car on me l'a dépeint d'un orgueil si sauvage...
+
+-*who_lycandre
+Je saurai l'abaisser.
+
+-*who_lisette
+      Il vous insultera.
+
+-*who_lycandre
+J'imagine un moyen qui le corrigera.
+Jusqu'au revoir. Songez qu'une naissance illustre
+Des sentiments du cour reçoit son plus beau lustre :
+Pour les faire éclater il est de sûrs moyens ;
+Et, si le sort cruel vous a ravi vos biens,
+D'un plus rare trésor enviant le partage,
+Soyez riche en vertus : c'est là votre apanage.
+
+**** *book_ *id_II01 *act_II *date_1732
+
+-*who_lisette
+Dois-je me réjouir ? Dois-je m'inquiéter ?
+Ce que m'a dit Lycandre est bien prompt à flatter
+Mon petit amour-propre ; et pourtant plus j'y pense,
+Et moins à son discours je trouve d'apparence.
+Le bonhomme, à coup sûr, s'est diverti de moi.
+Mais non, il m'aime trop pour me railler. Je crois
+Démêler sa finesse. Il veut me rendre fière
+Afin que je me croie au-dessus de Valère,
+Et le vieillard adroit, usant de ce détour,
+Arme la vanité pour combattre l'amour.
+Oui, oui, tout bien pesé, m'en voilà convaincue.
+De toutes mes grandeurs je suis bientôt déchue !
+Je redeviens Lisette, et le sort conjuré...
+Pauvre Lisette ! Hélas ! Ton règne a peu duré !
+Je me suis endormie et j'ai fait un beau songe,
+Mais dans mon triste état le réveil me replonge.
+
+**** *book_ *id_II02 *act_II *date_1732
+
+-*who_valere
+J'avais beau vous attendre. Eh quoi ! Seule à l'écart ?
+Qu'y faites-vous ?
+
+-*who_lisette
+      Je rêve.
+
+-*who_valere
+      Il faut que ce vieillard
+Qui vous est venu voir vous ait dit quelque chose
+D'affligeant.
+
+-*who_lisette
+      Au contraire.
+
+-*who_valere
+      Et quelle est donc la cause
+De votre rêverie ?
+
+-*who_lisette
+      Un fait qui sûrement
+Devrait me réjouir ; et c'est précisément
+Ce qui m'afflige.
+
+-*who_valere
+      Oh ! Oh ! Le trait, sur ma parole,
+Est des plus surprenants.
+
+-*who_lisette
+      Vous m'allez croire folle
+Sur ce que je vous dis ; et cependant ce trait
+D'un excès de sagesse est peut-être l'effet.
+
+-*who_valere
+Je ne vous comprends point. Expliquez ce mystère.
+
+-*who_lisette
+Cela m'est défendu ; mais je ne puis me taire,
+Et, quoique l'on m'ordonne un silence discret,
+Je sens bien que pour vous je n'ai point de secret.
+Je soutiens avec peine un fardeau qui me lasse.
+
+-*who_valere
+à la tentation succombez donc, de grâce.
+
+-*who_lisette
+C'est le meilleur moyen de m'en guérir, je crois ;
+Mais, si je vais parler, vous vous rirez de moi.
+
+-*who_valere
+Quoi ! Vous pouvez...
+
+-*who_lisette
+      Jurez que, quoi que je vous dise,
+Vous n'en raillerez point.
+
+-*who_valere
+      J'en jure.
+
+-*who_lisette
+      Ma franchise,
+Ou, si vous le voulez, mon indiscrétion,
+Exige de ma part cette précaution ;
+Au surplus, vous pourrez m'éclaircir sur un doute
+Qui me tourmente fort. Or, écoutez.
+
+-*who_valere
+J'écoute.
+
+-*who_lisette
+      Ce bonhomme m'a dit... Vous allez vous moquer.
+
+-*who_valere
+Eh ! Non, vous dis-je, non.
+
+-*who_lisette
+      Avant de m'expliquer,
+Valère, permettez Que je vous interroge.
+Répondez franchement, et surtout point d'éloge.
+
+-*who_valere
+Voyons.
+
+-*who_lisette
+      Me trouvez-vous l'air de condition
+Que donne la naissance et l'éducation ?
+Et croyez-vous mes traits, mes façons, mon langage,
+Propres à soutenir un noble personnage ?
+
+-*who_valere
+Un amant sur ce point est un juge suspect.
+Mais vous m'avez d'abord inspiré le respect,
+La vénération. Qui les a pu produire ?
+Votre rang ? Votre bien ? Plût au ciel ! Je soupire
+Lorsque je vois l'état où vous réduit le sort.
+Mais pour vous abaisser il fait un vain effort,
+Et, de quelques parents que vous soyez issue,
+Chacun remarque en vous, à la première vue,
+Certain air de grandeur qui frappe, qui saisit ;
+Et ce que je vous dis, tout le monde le dit.
+
+-*who_lisette
+Ce discours est flatteur ; mais est-il bien sincère ?
+
+-*who_valere
+Oui, foi de galant homme.
+
+-*who_lisette
+      Apprenez donc, Valère,
+Ce qu'on vient de me dire, et ce qui m'est bien doux,
+Parce que son effet rejaillira sur vous.
+Par de fortes raisons, qu'on doit bientôt m'apprendre,
+On m'a caché mon rang. J'ai l'honneur de descendre
+D'une famille illustre et de condition,
+Si l'on n'a point voulu me faire illusion.
+
+-*who_valere
+Non, on vous a dit vrai, c'est moi qui vous l'assure,
+Et j'en ferai serment.
+
+-*who_lisette
+      Fort bien.
+
+-*who_valere
+      Je vous conjure,
+Charmante Lis... Ô ciel ! Je ne sais plus comment
+Vous nommer ; mais enfin, je vous prie instamment,
+Si vous m'aimez encor, d'être persuadée
+Qu'on vous donne de vous une très juste idée,
+Et souffrez que l'amour, jaloux de votre droit,
+Vous rende le premier l'hommage qu'on vous doit.
+
+-*who_lisette
+Valère, levez-vous, vous me rendez confuse.
+
+-*who_valere
+Quoi ! Vous, servir ma sour ! Ah ! Déjà je m'accuse
+D'avoir été trop lent à la désabuser ;
+À vous manquer d'égards je pourrais l'exposer.
+Mon père m'inquiète, et je sais que ma mère
+Quelquefois avec vous prend un ton trop sévère.
+Je vais donc avertir ma famille, et je crains...
+
+-*who_lisette
+Ah ! Voilà mon secret en de fort bonnes mains !
+On me défend surtout de me faire connaître.
+Si vous dites un mot à qui que ce puisse être,
+Bien loin de me servir...
+
+-*who_valere
+      Eh bien, je me tairai.
+Je suis dans une joie... Oh ! Je me contraindrai,
+Ne craignez rien.
+
+-*who_lisette
+      Paix donc ! J'aperçois Isabelle.
+
+**** *book_ *id_II03 *act_II *date_1732
+
+-*who_valere
+Ma sour, que je vous dise une grande nouvelle !
+
+-*who_lisette
+Eh bien, ne voilà pas mon étourdi ?
+
+-*who_valere
+      Mon cour
+Ne peut se contenir. Je sors. Adieu, ma sour.
+
+-*who_isabelle
+Adieu ! Vous moquez-vous ? Dites-moi donc, mon frère,
+Cette grande nouvelle.
+
+-*who_valere
+      Oh ! Ce n'est rien.
+
+-*who_isabelle
+      Valère,
+Quoi ! Vous me plaisantez ?
+
+-*who_valere
+      Non, non, quand vous saurez...
+
+-*who_lisette
+Allez-vous-en.
+
+-*who_valere
+      Ma sour, lorsque vous parlerez
+À Lisette...
+
+-*who_isabelle
+      Eh bien donc ?
+
+-*who_valere
+      Ayez toujours pour elle
+Le respect...
+
+-*who_isabelle
+      Le respect ?
+
+-*who_valere
+      Oui, car mademoiselle...
+Je veux dire Lisette, a certainement lieu
+De prétendre de vous, et de nous tous... Adieu.
+
+**** *book_ *id_II04 *act_II *date_1732
+
+-*who_isabelle
+Je ne sais que penser d'un discours aussi vague ;
+Qu'en dites-vous ? Je crois que mon frère extravague.
+
+-*who_lisette
+Quelque chose à peu près.
+
+-*who_isabelle
+      Moi, pour vous du respect !
+C'est aller un peu loin. Ce discours m'est suspect.
+Oh çà, conviendrez-vous de ce que j'imagine ?
+
+-*who_lisette
+Quoi ?
+
+-*who_isabelle
+      Mon frère vous aime. Oh ! Oui, oui, je devine,
+Votre air embarrassé confirme mon soupçon.
+
+-*who_lisette
+Et quand il m'aimerait, serait-ce un crime ?
+
+-*who_isabelle
+      Non.
+Mais...
+
+-*who_lisette
+      Si je l'en veux croire, il me trouve jolie.
+Mais bon, je n'en crois rien.
+
+-*who_isabelle
+      Pourquoi ?
+
+-*who_lisette
+      Pure saillie
+De jeune homme qui sait prodiguer les douceurs,
+Et qui, sans rien aimer, en veut à tous les cours.
+
+-*who_isabelle
+Non, mon frère n'est point de ces conteurs volages
+Qui d'objet en objet vont offrir leurs hommages.
+Je connais sa droiture et sa sincérité,
+Et, s'il dit qu'il vous aime, il dit la vérité.
+
+-*who_lisette
+Quoi ! Sérieusement ?
+
+-*who_isabelle
+      Oui, la chose est certaine.
+Je vois que ce discours ne vous fait point de peine.
+Ah ! Ma bonne !
+
+-*who_lisette
+      Quoi donc ?
+
+-*who_isabelle
+      Je pénètre aisément.
+
+-*who_lisette
+Quoi ? Que pénétrez-vous ?
+
+-*who_isabelle
+      Mon frère est votre amant,
+Et mon frère, à coup sûr, n'aime point une ingrate.
+Vous avez le cour haut et l'âme délicate.
+
+-*who_lisette
+Voici le fait. Il dit que, si je n'étais point
+Ce que je suis...
+
+-*who_isabelle
+      Eh bien ?
+
+-*who_lisette
+      Il m'estime à tel point
+Qu'il ferait son bonheur de m'obtenir pour femme.
+
+-*who_isabelle
+Ensuite ? Vous rêvez ! Je vous ouvre mon âme
+En toute occasion, Lisette, imitez-moi.
+Que lui répondez-vous ? Parlez de bonne foi.
+
+-*who_lisette
+Eh ! Mais... Je lui réponds... Vous êtes curieuse
+À l'excès.
+
+-*who_isabelle
+      Poursuivez.
+
+-*who_lisette
+      Que je serais heureuse
+Si j'étais un parti qui lui pût convenir.
+Voilà tout.
+
+-*who_isabelle
+      Je le crois. Mais je crains l'avenir.
+Votre amour vous rendra malheureux l'un et l'autre.
+
+-*who_lisette
+Vous avez votre idée, et nous avons la nôtre.
+
+-*who_isabelle
+Comment donc ?
+
+-*who_lisette
+      Quelque jour j'éclaircirai ceci.
+Sur votre frère, enfin, n'ayez aucun souci,
+Ne vous alarmez point de ce que je hasarde,
+Et venons maintenant à ce qui vous regarde.
+
+-*who_isabelle
+Volontiers.
+
+-*who_lisette
+      De mon cour vous connaissez l'état,
+Parlons un peu du vôtre. Inquiet, délicat,
+Aux révolutions il est souvent en proie.
+Comment se porte-t-il ?
+
+-*who_isabelle
+      Mal.
+
+-*who_lisette
+      J'en ai de la joie.
+Il est donc bien épris ?
+
+-*who_isabelle
+      Oui, Lisette, si bien
+Qu'il le sera toujours.
+
+-*who_lisette
+      Oh ! Ne jurons de rien.
+
+-*who_isabelle
+J'en ferais bien serment.
+
+-*who_lisette
+      Le ciel vous en préserve !
+
+-*who_isabelle
+Pourquoi donc ?
+
+-*who_lisette
+      Votre esprit a toujours en réserve
+Quelques si, quelques mais, qui, malgré votre ardeur,
+Pénètrent tôt ou tard au fond de votre cour.
+Le comte est sûrement d'une aimable figure,
+Son mérite y répond, ou du moins je l'augure ;
+Mais vous ne le voyez que depuis quelques mois,
+Vous le connaissez peu. C'est pourquoi je prévois
+Qu'avant qu'il soit huit jours, croyant le mieux connaître,
+Quelque défaut en lui vous frappera peut-être.
+
+-*who_isabelle
+Cela ne se peut pas. C'est un homme accompli.
+De ses perfections mon cour est si rempli
+Qu'il le met à couvert de ma délicatesse.
+S'il a quelque défaut, c'est son peu de tendresse.
+Il me voit rarement.
+
+-*who_lisette
+      C'est qu'il a du bon sens.
+Qui se fait souhaiter se fait aimer longtemps.
+Qui nous voit trop souvent voit bientôt qu'il nous lasse.
+
+-*who_isabelle
+Vous l'excusez toujours ; mais dites-moi, de grâce,
+Ne lui trouvez-vous point quelques défauts ?
+
+-*who_lisette
+      Qui, moi ?
+Pas le moindre.
+
+-*who_isabelle
+      Tant mieux.
+
+-*who_lisette
+      Mais, s'il en a, je crois
+Qu'ils n'échapperont pas longtemps à votre vue ;
+Et c'est tant pis pour vous. Êtes-vous résolue
+De ne prendre qu'un homme accompli de tout point ?
+Cet homme est le phénix ; il ne se trouve point.
+Si le comte à vos yeux est ce rare miracle,
+Croyez-en votre cour. Que ce soit votre oracle.
+Mettez l'esprit à part, suivez le sentiment ;
+S'il vous trompe, du moins c'est agréablement.
+Il est bon quelquefois de s'aveugler soi-même,
+Et bien souvent l'erreur est le bonheur suprême.
+
+-*who_isabelle
+Me voilà résolue à suivre vos avis.
+
+-*who_lisette
+Vous me remercierez de les avoir suivis.
+Mais que va devenir notre pauvre Philinte ?
+Son mérite autrefois a porté quelque atteinte
+À votre cour.
+
+-*who_isabelle
+      Je sens qu'il m'ennuie à mourir.
+Je l'estime beaucoup, et ne puis le souffrir.
+Le moyen d'y durer ? Toutes ses conférences
+Consistent en regards, ou bien en révérences :
+Dès qu'il parle, il s'égare, il se perd ; en un mot,
+Quoiqu'il ait de l'esprit, on le prend pour un sot.
+
+-*who_lisette
+Le voici.
+
+-*who_isabelle
+      Que veut-il ?
+
+-*who_lisette
+      À votre esprit critique
+Il vient fournir des traits pour son panégyrique.
+
+**** *book_ *id_II05 *act_II *date_1732
+
+-*who_philinte
+Madame... je crains bien de vous importuner.
+
+-*who_lisette
+Cet homme a sûrement le don de deviner.
+
+-*who_isabelle
+Un homme tel que vous...
+
+-*who_philinte
+      Ah ! Madame !... De grâce,
+Si je suis importun, punissez mon audace.
+
+-*who_isabelle
+Monsieur...
+
+-*who_philinte
+      Et faites-moi l'honneur de me chasser.
+
+-*who_isabelle
+De ma civilité vous devez mieux penser.
+
+-*who_philinte
+Madame, en vérité...
+
+-*who_isabelle
+      J'ai pour votre personne
+L'estime et les égards... Aidez-moi donc, ma bonne.
+
+-*who_lisette
+Vous plaît-il vous asseoir ?
+
+-*who_philinte
+      Que me proposez-vous ?
+Ô ciel ! Devant madame il faut être à genoux.
+
+-*who_lisette
+À vous permis, monsieur.
+      Dites-lui quelque chose.
+
+-*who_isabelle
+Je ne saurais.
+
+-*who_lisette
+      Fort bien ; l'entretien se dispose
+À devenir brillant... Monsieur, je m'aperçois
+que vous faites façon de parler devant moi.
+Je me retire.
+
+-*who_philinte
+      Non, il n'est pas nécessaire,
+Et je ne veux ici qu'admirer et me taire.
+
+-*who_lisette
+Vous vous contentez donc de lui parler des yeux ?
+
+-*who_philinte
+Je ne m'en lasse point.
+
+-*who_lisette
+      Parlez de votre mieux,
+Rien ne vous interrompt.
+
+-*who_isabelle
+      Oh ! Je perds contenance.
+
+-*who_lisette
+Eh bien, interrogez-le, il répondra, je pense.
+
+-*who_isabelle
+Vous-même avisez-vous de quelque question.
+
+-*who_lisette
+C'est à vous d'entamer la conversation.
+
+-*who_isabelle
+Quel temps fait-il, monsieur ?
+
+-*who_lisette
+      Matière intéressante !
+
+-*who_philinte
+Madame,... en vérité,... la journée est charmante.
+
+-*who_isabelle
+Monsieur, en vérité,... j'en suis ravie.
+
+-*who_lisette
+      Et moi,
+J'en suis aussi charmée, en vérité. Mais quoi !
+La conversation est donc déjà finie ?
+Ça, pour la relever employons mon génie.
+Dit-on quelque nouvelle ? Enfin, il parlera.
+
+-*who_isabelle
+N'avez-vous rien appris du nouvel opéra ?
+
+-*who_philinte
+On en parle assez mal.
+
+-*who_lisette
+      Cet homme est laconique.
+
+-*who_isabelle
+Qu'y désapprouvez-vous ? Les vers ou la musique ?
+
+-*who_philinte
+Je sais peu de musique et fais de méchants vers,
+Ainsi j'en pourrais bien juger tout de travers.
+Et d'ailleurs j'avouerai qu'au plus mauvais ouvrage
+Bien souvent, malgré moi, je donne mon suffrage.
+Un auteur, quel qu'il soit, me paraît mériter
+Qu'aux efforts qu'il a faits on daigne se prêter.
+
+-*who_lisette
+Mais on dit qu'aux auteurs la critique est utile.
+
+-*who_philinte
+La critique est aisée et l'art est difficile.
+C'est là ce qui produit ce peuple de censeurs,
+Et ce qui rétrécit les talents des auteurs.
+mais vous êtes distraite et paraissez en peine.
+
+-*who_isabelle
+Je n'en puis plus.
+
+-*who_philinte
+      Bon dieu ! Qu'avez-vous ?
+
+-*who_isabelle
+      La migraine.
+
+-*who_philinte
+Je m'enfuis.
+
+-*who_isabelle
+      Non, restez.
+
+-*who_philinte
+      Quel excès de faveur !
+
+-*who_isabelle
+C'est moi qui vais m'enfuir. Je crains que ma douleur
+Ne vous afflige trop. Je souffre le martyre.
+
+-*who_philinte
+J'en suis au désespoir. Je veux vous reconduire.
+Madame, vous plaît-il de me donner la main ?
+
+-*who_isabelle
+Je n'en ai pas la force. Adieu, jusqu'à demain.
+
+-*who_philinte
+À quelle heure, madame ?
+
+-*who_isabelle
+      Ah ! Monsieur, à toute heure.
+Mais ne me suivez point, de grâce.
+
+-*who_philinte
+      Je demeure
+Pour vous dire deux mots.
+
+-*who_lisette
+      Monsieur,... en vérité,
+J'ai la migraine aussi. Vous aurez la bonté
+De ne pas prendre garde à mon impolitesse,
+Et mon devoir m'appelle auprès de ma maîtresse.
+
+**** *book_ *id_II06 *act_II *date_1732
+
+-*who_philinte
+Cette migraine-là vient bien subitement !
+C'est moi qui l'ai donnée indubitablement.
+C'est ma timidité que je ne saurais vaincre
+Qui me rend ridicule. On vient de m'en convaincre.
+Que je suis malheureux ! Des jeunes courtisans
+Que n'ai-je le babil et les airs suffisants !
+Quiconque s'est formé sur de pareils modèles
+Est sûr de ne jamais rencontrer de cruelles.
+
+**** *book_ *id_II07 *act_II *date_1732
+
+-*who_lelaquais
+Cette lettre, monsieur, s'adresse à vous, je crois.
+
+-*who_philinte
+Au comte de Tufière. Elle n'est pas pour moi ;
+Mais il demeure ici.
+
+-*who_lelaquais
+      Pardonnez, je vous prie.
+
+-*who_philinte
+Ah ! Monsieur. C'est à lui que l'on me sacrifie.
+Madame Lisimon n'y pourra consentir,
+Et je veux lui parler avant que de sortir.
+
+**** *book_ *id_II08 *act_II *date_1732
+
+-*who_lelaquais
+Holà ! Quelqu'un des gens du comte de Tufière !
+
+-*who_pasquin
+Que voulez-vous ?
+
+-*who_lelaquais
+      Cet homme a la parole fière.
+
+-*who_pasquin
+Parlez donc.
+
+-*who_lelaquais
+      Est-ce vous qui vous nommez Pasquin ?
+
+-*who_pasquin
+C'est moi-même, en effet. Mais apprenez, faquin,
+Que le mot de monsieur n'écorche point la bouche.
+
+-*who_lelaquais
+Monsieur, je suis confus. Ce reproche me touche,
+J'ignorais qu'il fallût vous appeler monsieur,
+Mais vous me l'apprenez, j'y souscris de bon cour.
+
+-*who_pasquin
+Trêve de compliments.
+
+-*who_lelaquais
+      Voudrez-vous bien remettre
+Au comte votre maître un petit mot de lettre ?
+
+-*who_pasquin
+Donnez. De quelle part ?
+
+-*who_lelaquais
+      Je me tais sur ce point ;
+Elle est d'un inconnu qui ne se nomme point.
+Adieu, Monsieur Pasquin ; quoique mon ignorance
+Ait pour Monsieur Pasquin manqué de déférence,
+Il verra désormais à mon air circonspect
+Que pour Monsieur Pasquin je suis plein de respect.
+
+**** *book_ *id_II09 *act_II *date_1732
+
+-*who_pasquin
+Ce maroufle me raille, et même je soupçonne
+Qu'il n'a pas tort. Au fond les airs que je me donne
+Frisent l'impertinent, le suffisant, le fat ;
+Et si, tout bien pesé, je ne suis qu'un pied plat,
+Sans ce pauvre garçon j'allais me méconnaître
+Et me gonfler d'orgueil aussi bien que mon maître.
+Je sens qu'un glorieux est un sot animal !
+Mais j'entends du fracas. Ah ! C'est l'original
+De mes airs de grandeur qui vient tête levée,
+Mon éclat emprunté cesse à son arrivée.
+
+**** *book_ *id_II10 *act_II *date_1732
+
+-*who_lecomte
+L'impertinent !
+
+-*who_pasquin
+      Monsieur...
+
+-*who_lecomte
+      Le fat !
+
+-*who_pasquin
+      Monsieur...
+
+-*who_lecomte
+      Tais-toi.
+Un petit campagnard s'emporter devant moi !
+Me manquer de respect pour quatre cens pistoles !
+
+-*who_pasquin
+Il a tort.
+
+-*who_lecomte
+      Hem ! À qui s'adressent ces paroles ?
+
+-*who_pasquin
+Au petit campagnard.
+
+-*who_lecomte
+      Soit. Mais d'un ton plus bas,
+S'il vous plaît. Vos propos ne m'intéressent pas.
+Tenez, serrez cela.
+
+-*who_pasquin
+      Peste ! Qu'elle est dodue !
+À ce charmant objet je me sens l'âme émue.
+
+-*who_lecomte
+Que fais-tu ?
+
+-*who_pasquin
+      Je veux voir si cet or est de poids.
+
+-*who_lecomte
+Vous êtes curieux.
+
+-*who_pasquin
+      Monsieur, je puis, je crois,
+Sans manquer au respect, vous donner cette lettre
+Que pour vous à l'instant on vient de me remettre.
+
+-*who_lecomte
+Ah ! C'est du petit duc ?
+
+-*who_pasquin
+      Non, un homme est venu...
+
+-*who_lecomte
+C'est donc de la princesse...
+
+-*who_pasquin
+      Elle est d'un inconnu
+Qui ne se nomme pas.
+
+-*who_lecomte
+      Et qui vous l'a remise ?
+
+-*who_pasquin
+Un laquais mal vêtu...
+
+-*who_lecomte
+      C'est assez ; qu'on la lise,
+Et qu'on m'en rende compte. Entendez-vous ?
+
+-*who_pasquin
+      J'entends.
+
+-*who_lecomte
+Monsieur Pasquin ?
+
+-*who_pasquin
+      Monsieur.
+
+-*who_lecomte
+      Faites sortir mes gens.
+
+-*who_pasquin
+Sortez.
+
+-*who_lafleur
+      Monsieur...
+
+-*who_lecomte
+      Comment ?
+
+-*who_lafleur
+      Oserais-je vous dire ?...
+
+-*who_lecomte
+Il me parle, je crois ! Holà ! Qu'il se retire,
+Qu'on lui donne congé.
+
+-*who_pasquin
+      Je te l'avais prédit.
+Va-t'en, je tâcherai de lui calmer l'esprit.
+
+**** *book_ *id_II11 *act_II *date_1732
+
+-*who_lecomte
+Tu ne partiras point ; et c'est une bassesse
+Dans les gens de mon rang d'outrer la politesse.
+Un homme tel que moi se ferait déshonneur
+Si sa plume à quelqu'un donnait du monseigneur.
+Non, mon petit seigneur, vous n'aurez pas la gloire
+De gagner sur la mienne une telle victoire.
+Vous pourriez m'assurer un bonheur très complet,
+Mais, si c'est à ce prix, je suis votre valet.
+Ôte-moi cette table. Eh bien, que dit l'épître ?
+
+-*who_pasquin
+Elle roule, monsieur, sur un certain chapitre
+Qui ne vous plaira point.
+
+-*who_lecomte
+      Pourquoi donc ? Lis toujours.
+
+-*who_pasquin
+Vous me l'ordonnez, mais...
+
+-*who_lecomte
+      Oh ! Trêve de discours.
+
+-*who_pasquin
+Celui qui vous écrit...
+
+-*who_lecomte
+      Qui vous écrit ! Le style
+Est familier.
+
+-*who_pasquin
+      Il va vous échauffer la bile.
+« Celui qui vous écrit, s'intéressant à vous,
+Monsieur, vous avertit sans crainte et sans scrupule
+Que par vos procédés, dont il est en courroux,
+Vous vous rendez très ridicule. »
+
+-*who_lecomte
+Si je tenais le fat qui m'ose écrire ainsi...
+
+-*who_pasquin
+Poursuivrai-je ?
+
+-*who_lecomte
+      Oui, voyons la fin de tout ceci.
+
+-*who_pasquin
+« Vous ne manquez pas de mérite,
+Mais...
+
+-*who_lecomte
+Vous ne manquez pas ! Ah ! Vraiment je le crois.
+Bel éloge ! En parlant d'un homme tel que moi.
+
+-*who_pasquin
+« Vous ne manquez pas de mérite,  
+Mais, bien loin de vous croire un prodige étonnant,
+Apprenez que chacun s'irrite
+De votre orgueil impertinent. »
+
+-*who_lecomte
+Comment, maraud ?...
+
+-*who_pasquin
+      Fort bien, le trait est impayable,
+De ce qu'on vous écrit suis-je donc responsable ?
+Au diable l'écrivain avec ses vérités !
+
+-*who_lecomte
+Ah ! Je vous apprendrai...
+
+-*who_pasquin
+      Quoi ! Vous me maltraitez
+Pour les fautes d'autrui ? Si jamais je m'avise
+D'être votre lecteur...
+
+-*who_lecomte
+      Faut-il que je vous dise
+Une seconde fois de serrer cet argent ?
+Tenez, voilà ma clef, et soyez diligent.
+
+-*who_pasquin
+Savez-vous à combien cette somme se monte ?
+
+-*who_lecomte
+Non, pas exactement.
+
+-*who_pasquin
+      Je vous en rendrai compte.
+Je m'en vais du soufflet me payer par mes mains.
+
+**** *book_ *id_II12 *act_II *date_1732
+
+-*who_lecomte
+Puissé-je devenir le plus vil des humains,
+Si j'épargne celui qui m'a fait cette injure !
+Voyons si je pourrais connaître l'écriture.
+« L'ami de qui vous vient cette utile leçon
+Emprunte une main étrangère ;  »
+Il fait fort bien.
+« Mais il ne vous cache son nom
+Que pour donner le temps à votre âme trop fière
+De se prêter à la seule raison ;
+Et lui-même, ce soir, il viendra sans façon
+Vous demander si votre humeur altière
+Aura baissé de quelque ton. »
+Voilà, sur ma parole, un hardi personnage ;
+S'il vient, il payera cher un si sensible outrage.
+Qui peut m'avoir écrit ce libelle outrageant ?
+Plus j'y pense...
+
+**** *book_ *id_II13 *act_II *date_1732
+
+-*who_pasquin
+      Monsieur, j'ai compté cet argent.
+
+-*who_lecomte
+Il se monte ?
+
+-*who_pasquin
+      À trois cent quatre-vingt-dix pistoles.
+
+-*who_lecomte
+Mais...
+
+-*who_pasquin
+Si vous y trouvez seulement deux oboles de plus,
+Je suis un fat.
+
+-*who_lecomte
+      Mais cependant mon gain
+Montait à quatre cens, et j'en suis très certain.
+
+-*who_pasquin
+C'est vous qui vous trompez, ou c'est moi qui vous trompe ;
+Et vous ne pensez pas que l'argent me corrompe ?
+
+-*who_lecomte
+Monsieur Pasquin ?
+
+-*who_pasquin
+      Monsieur.
+
+-*who_lecomte
+      Vous êtes un fripon.
+
+-*who_pasquin
+Je vous respecte trop pour vous dire que non ;
+Mais...
+
+-*who_lecomte
+      Brisons là-dessus.
+
+-*who_pasquin
+      Oui. Parlons d'Isabelle.
+Vous vous refroidissez, ce me semble, pour elle.
+Elle s'en plaint, du moins.
+
+-*who_lecomte
+      Elle sait mon amour.
+J'ai parlé, c'est assez.
+
+-*who_pasquin
+      Son père est de retour.
+
+-*who_lecomte
+C'est à lui de venir et de m'offrir sa fille.
+
+-*who_pasquin
+Ah ! Monsieur ! Vous voulez qu'un père de famille
+Fasse les premiers pas ?
+
+-*who_lecomte
+      Oui, monsieur, je le veux.
+Un homme de mon rang doit tout exiger d'eux.
+
+-*who_pasquin
+Prenez une manière un peu moins dédaigneuse :
+Car Lisette m'a dit...
+
+-*who_lecomte
+      Petite raisonneuse
+Qui veut parler sur tout, et ne dit jamais rien.
+
+-*who_pasquin
+Pour une raisonneuse, elle raisonne bien.
+
+-*who_lecomte
+Et que dit-elle donc ?
+
+-*who_pasquin
+      Elle dit qu'Isabelle
+A pour les glorieux une haine mortelle.
+
+-*who_lecomte
+Que dites-vous ?
+
+-*who_pasquin
+      Moi ? Rien. C'est Lisette. J'espère...
+
+-*who_lecomte
+On vient ; voyez qui c'est.
+
+-*who_pasquin
+      Ma foi, c'est le beau-père.
+
+-*who_lecomte
+J'étais bien assuré qu'il ferait son devoir.
+
+-*who_pasquin
+Il faudrait vous lever pour l'aller recevoir.
+
+-*who_lecomte
+Je crois que ce coquin prétend m'apprendre à vivre.
+Allez, faites-le entrer, et moi, je vais vous suivre.
+
+**** *book_ *id_II14 *act_II *date_1732
+
+-*who_lisimon
+Le comte de Tufière est-il ici, mon cour ?
+
+-*who_pasquin
+Oui, monsieur, le voici.
+
+-*who_lisimon
+      Cher comte, serviteur.
+
+-*who_lecomte
+Cher comte ! Nous voilà grands amis, ce me semble.
+
+-*who_lisimon
+Ma foi, je suis ravi que nous logions ensemble.
+
+-*who_lecomte
+J'en suis fort aise aussi.
+
+-*who_lisimon
+      Parbleu ! Nous boirons bien.
+Vous buvez sec, dit-on ; moi, je n'y laisse rien.
+Je suis impatient de vous verser rasade,
+Et ce sera bientôt. Mais êtes-vous malade ?
+à votre froide mine, à votre sombre accueil...
+
+-*who_lecomte
+Faites asseoir monsieur... Non, offrez le fauteuil.
+Il ne le prendra pas, mais...
+
+-*who_lisimon
+      Je vous fais excuse,
+Puisque vous me l'offrez, trouvez bon que j'en use.
+Que je m'étale aussi : car je suis sans façon,
+Mon cher, et cela doit vous servir de leçon.
+Et je veux qu'entre nous toute cérémonie,
+Dès ce même moment, pour jamais soit bannie.
+Oh çà, mon cher garçon, veux-tu venir chez moi ?
+Nous serons tous ravis de dîner avec toi.
+
+-*who_lecomte
+Me parlez-vous, monsieur ?
+
+-*who_lisimon
+      À qui donc, je te prie ?
+À Pasquin ?
+
+-*who_lecomte
+      Je l'ai cru.
+
+-*who_lisimon
+      Tout de bon ?
+Je parie qu'un peu de vanité t'a fait croire cela ?
+
+-*who_lecomte
+Non, mais je suis peu fait à ces manières-là.
+
+-*who_lisimon
+Oh bien ! Tu t'y feras, mon enfant. Sur les tiennes,
+À mon âge, crois-tu que je forme les miennes ?
+
+-*who_lecomte
+Vous aurez la bonté d'y faire vos efforts.
+
+-*who_lisimon
+Tiens, chez moi le dedans gouverne le dehors.
+Je suis franc.
+
+-*who_lecomte
+      Quant à moi, j'aime la politesse.
+
+-*who_lisimon
+Moi, je ne l'aime point, car c'est une traîtresse
+Qui fait dire souvent ce qu'on ne pense pas.
+Je hais, je fuis ces gens qui font les délicats,
+Dont la fière grandeur d'un rien se formalise,
+Et qui craint qu'avec elle on ne familiarise ;
+Et ma maxime, à moi, c'est qu'entre bons amis
+Certains petits écarts doivent être permis.
+
+-*who_lecomte
+D'amis avec amis on fait la différence.
+
+-*who_lisimon
+Pour moi, je n'en fais point.
+
+-*who_lecomte
+      Les gens de ma naissance
+Sont un peu délicats sur les distinctions,
+Et je ne suis ami qu'à ces conditions.
+
+-*who_lisimon
+Ouais ! Vous le prenez haut. Écoute, mon cher comte,
+Si tu fais tant le fier, ce n'est pas là mon compte.
+Ma fille te plaît fort, à ce que l'on m'a dit :
+elle est riche, elle est belle, elle a beaucoup d'esprit ;
+Tu lui plais ; j'y souscris du meilleur de mon âme,
+D'autant plus que par là je contredis ma femme,
+Qui voudrait m'engendrer d'un grand complimenteur,
+Qui ne dit pas un mot sans dire une fadeur.
+Mais aussi, si tu veux que je sois ton beau-père,
+Il faut baisser d'un cran et changer de manière,
+Ou sinon, marché nul.
+
+-*who_lecomte
+      Je vais le prendre au mot.
+
+-*who_pasquin
+Vous en mordrez vos doigts, ou je ne suis qu'un sot.
+Pour un faux point d'honneur perdre votre fortune ?
+
+-*who_lecomte
+Mais si...
+
+-*who_lisimon
+      Toute contrainte, en un mot, m'importune.
+L'heure du dîner presse, allons, veux-tu venir ?
+Nous aurons le loisir de nous entretenir
+Sur nos arrangements ; mais commençons par boire.
+Grand soif, bon appétit, et surtout point de gloire.
+C'est ma devise. On est à son aise chez moi,
+Et vivre comme on veut, c'est notre unique loi.
+Viens, et, sans te gourmer avec moi de la sorte,
+Laisse en entrant chez nous ta grandeur à la porte.
+
+**** *book_ *id_II15 *act_II *date_1732
+
+-*who_pasquin
+Voilà mon glorieux bien tombé ! Sa hauteur
+Avait, ma foi, besoin d'un pareil précepteur,
+Et, si cet homme-là ne le rend pas traitable,
+Il faut que son orgueil soit un mal incurable.
+
+**** *book_ *id_III01 *act_III *date_1732
+
+-*who_lecomte
+Oui, quoiqu'à mes valets je parle rarement,
+Je veux bien en secret m'abaisser un moment,
+Et descendre avec toi jusqu'à la confiance.
+De ton attachement j'ai fait l'expérience ;
+Je te vois attentif à tous mes intérêts,
+Et tu seras charmé d'apprendre mes progrès.
+
+-*who_pasquin
+Je vois que vous avez empaumé le beau-père.
+
+-*who_lecomte
+Il m'adore à présent.
+
+-*who_pasquin
+      J'en suis ravi.
+
+-*who_lecomte
+      J'espère
+Que me connaissant mieux il me respectera,
+Et je te garantis qu'il se corrigera.
+
+-*who_pasquin
+Du moins pour le gagner vous avez fait merveilles,
+Et vous avez vidé presque vos deux bouteilles
+Avec tant de sang-froid et d'intrépidité
+Que le futur beau-père en était enchanté.
+
+-*who_lecomte
+Il vient de me jurer que je serais son gendre ;
+Sa fille était ravie, et me faisait entendre
+Combien à ce discours son cour prenait de part ;
+Et moi, j'ai bien voulu, par un tendre regard,
+Partager le plaisir qu'elle laissait paraître.
+
+-*who_pasquin
+Quel excès de bonté ! Si son père est le maître,
+L'affaire ira grand train. Par mon air de grandeur
+J'ai frappé le bonhomme ; il contraint son humeur,
+Et n'ose presque plus me tutoyer.
+
+-*who_pasquin
+      Cet homme
+Sent ce que vous valez ; mais je veux qu'on m'assomme
+Si vous venez à bout de le rendre poli.
+
+-*who_lecomte
+D'où vient ?
+
+-*who_pasquin
+      C'est qu'il est vieux et qu'il a pris son pli.
+D'ailleurs, il compte fort que sa richesse immense
+Est du moins comparable à la haute naissance.
+
+-*who_lecomte
+Il veut le faire croire, et pourtant n'en croit rien.
+Je vois clair ; je suis sûr que, malgré tout son bien,
+Il sent qu'il a besoin de se donner du lustre,
+et d'acheter l'éclat d'une alliance illustre.
+De ces hommes nouveaux c'est là l'ambition.
+L'avarice est d'abord leur grande passion ;
+Mais ils changent d'objet dès qu'elle est satisfaite,
+Et courent les honneurs quand la fortune est faite.
+Lisimon, nouveau noble et fils d'un père heureux
+Qui, le comblant de biens, n'a pu combler ses voux,
+Souhaite de s'enter sur la vieille noblesse ;
+Et sa fille, sans doute, a la même faiblesse.
+Un homme tel que moi flatte leur vanité ;
+Et c'est là ce qui doit redoubler ma fierté.
+Je veux me prévaloir du droit de ma naissance ;
+Et, pour les amener à l'humble déférence
+Qu'ils doivent à mon sang, je vais dans le discours
+Leur donner à penser que mon père est toujours
+Dans cet état brillant, superbe et magnifique
+Qui soutint si longtemps notre noblesse antique,
+Et leur persuader que, par rapport au bien
+Qui fait tout leur orgueil, je ne leur cède en rien.
+
+-*who_pasquin
+Mais ne pourront-ils point découvrir le contraire ?
+Car un vieux serviteur de monsieur votre père
+Autrefois m'a conté les cruels accidents
+Qui lui sont arrivés, et peut-être...
+
+-*who_lecomte
+      Le temps
+Les a fait oublier. D'ailleurs notre province,
+Où mon père autrefois tenait l'état d'un prince,
+Est si loin de Paris qu'à coup sûr ces gens-ci
+De nos adversités n'ont rien su jusqu'ici,
+Si ta discrétion...
+
+-*who_pasquin
+      Croyez...
+
+-*who_lecomte
+      Point de harangue ;
+Les effets parleront.
+
+-*who_pasquin
+      Disposez de ma langue.
+Je la gouvernerai tout comme il vous plaira.
+
+-*who_lecomte
+Sur l'état de mes biens on t'interrogera.
+Sans entrer en détail, réponds en assurance
+Que ma fortune au moins égale ma naissance :
+À Lisette surtout persuade-le bien.
+Pour établir ce fait c'est le plus sûr moyen :
+Car elle a du crédit sur toute la famille.
+
+-*who_pasquin
+Ma foi, vous devriez ménager cette fille.
+Elle vous veut du bien, à ce qu'elle m'a dit.
+
+-*who_lecomte
+D'une suivante, moi, ménager le crédit !
+J'aurais trop à rougir d'une telle bassesse.
+Près d'elle, j'y consens, fais agir ton adresse,
+Sans dire que ce soit de concert avec moi ;
+J'approuve ce commerce, il convient d'elle à toi.
+On vient, sors, et surtout fais bien ton personnage.
+
+-*who_pasquin
+Oh ! Quand il faut mentir nous avons du courage.
+
+**** *book_ *id_III02 *act_III *date_1732
+
+-*who_isabelle
+Je vous trouve à propos, et mon père veut bien
+Que nous ayons tous deux un moment d'entretien.
+Il me destine à vous ; l'affaire est sérieuse.
+
+-*who_lecomte
+Et j'ose me flatter qu'elle n'est pas douteuse ;
+Que par vous mon bonheur me sera confirmé ;
+J'aspire à votre main ; mais je veux être aimé.
+à ce bonheur parfait oserais-je prétendre ?
+C'est un charmant aveu que je brûle d'entendre.
+
+-*who_lisette
+Je sais ce qu'elle pense, et je crois qu'en effet
+Vous avez lieu, monsieur, d'en être satisfait.
+
+-*who_lecomte
+Eh ! Faites-moi l'honneur de répondre vous-même.
+
+-*who_lisette
+Une fille, monsieur, ne dit point : " je vous aime " ;
+Mais garder le silence en cette occasion,
+C'est assez bien répondre à votre question.
+
+-*who_lecomte
+Ne parlez-vous jamais que par une interprète ?
+
+-*who_isabelle
+Comme elle est mon amie, et qu'elle est très discrète...
+
+-*who_lecomte
+Votre amie ?
+
+-*who_isabelle
+      Oui, monsieur.
+
+-*who_lecomte
+      Cette fille est à vous,
+Ce me semble ?
+
+-*who_isabelle
+      Il est vrai ; mais ne m'est-il pas doux
+D'avoir en sa personne une compagne aimable,
+Dont la société rend ma vie agréable ?
+
+-*who_lecomte
+Quoi ! Lisette avec vous est en société ?
+Je ne vous croyais pas cet excès de bonté.
+
+-*who_isabelle
+Et pourquoi non, monsieur ?
+
+-*who_lecomte
+      Chacun a sa manière
+De penser, mais pour moi...
+
+-*who_lisette
+      Le comte de Tufière
+Est un franc glorieux ; on me l'avait bien dit.
+
+-*who_isabelle
+Je lui trouve un bon cour joint avec de l'esprit,
+De la sincérité, de l'amitié, du zèle,
+Et je ne puis avoir trop de retour pour elle :
+Car enfin...
+
+-*who_lecomte
+      Votre père a-t-il fixé le jour
+Où je dois recevoir le prix de mon amour ?
+
+-*who_isabelle
+Vous allez un peu vite, et nous devons peut-être
+Avant le mariage un peu mieux nous connaître ;
+Examiner à fond quels sont nos sentiments,
+Et ne pas nous fier aux premiers mouvements.
+C'est peu qu'à nous unir le penchant nous anime,
+Il faut que ce penchant soit fondé sur l'estime,
+Et...
+
+-*who_lecomte
+      J'attendais de vous, à parler franchement,
+Moins de précaution et plus d'empressement.
+Je croyais mériter que d'une ardeur sincère
+Votre cour appuyât l'aveu de votre père,
+Et que, sur votre hymen me voyant vous presser,
+Vous me fissiez l'honneur de ne pas balancer.
+
+-*who_isabelle
+Moi, j'ai cru mériter que, du moins pour ma gloire,
+Vous me fissiez l'honneur de ne pas tant vous croire ;
+Que, de votre personne osant moins présumer,
+Vous parussiez moins sûr que l'on dût vous aimer ;
+Et ce doute obligeant, qui ne pourrait vous nuire,
+Calmerait un soupçon que je voudrais détruire.
+
+-*who_lecomte
+Quel soupçon, s'il vous plaît ?
+
+-*who_isabelle
+      Le soupçon d'un défaut
+Dont l'effet contre vous n'agirait que trop tôt.
+
+**** *book_ *id_III03 *act_III *date_1732
+
+-*who_valere
+Dois-je croire, ma sour, ce qu'on vient de m'apprendre ?
+
+-*who_isabelle
+Quoi ?
+
+-*who_valere
+      Que vous épousez monsieur.
+
+-*who_lecomte
+      J'ose m'attendre,
+Monsieur, que son dessein aura votre agrément.
+
+-*who_valere
+Je crois...
+
+-*who_lecomte
+      Et vous pouvez m'en faire compliment.
+J'en serai très flatté. Je rejoins votre père,
+pour lui donner parole et conclure l'affaire.
+
+-*who_valere
+Vous pourrez y trouver quelque difficulté.
+
+-*who_lecomte
+Moi, monsieur ?
+
+-*who_valere
+      J'en ai peur.
+
+-*who_lecomte
+      Aurez-vous la bonté
+De me faire savoir qui peut la faire naître ?
+Qui me traversera ?
+
+-*who_valere
+      Mais... Ma mère, peut-être.
+
+-*who_lecomte
+Votre mère !
+
+-*who_valere
+      Oui, monsieur.
+
+-*who_lecomte
+      Cela serait plaisant.
+
+-*who_isabelle
+Il prend avec mon frère un ton bien suffisant.
+
+-*who_lecomte
+Elle ne sait donc pas que j'adore Isabelle,
+Et qu'un ami commun m'a proposé pour elle ?
+
+-*who_valere
+Pardonnez-moi, monsieur.
+
+-*who_lecomte
+      Vous m'étonnez.
+
+-*who_valere
+      Pourquoi ?
+
+-*who_lecomte
+C'est que j'avais compté qu'elle serait pour moi.
+J'avais imaginé que mon rang, ma naissance,
+Méritaient des égards et de la déférence ;
+Que bien d'autres raisons que je pourrais citer,
+Si j'étais assez vain pour oser me vanter,
+Feraient pencher pour moi madame votre mère.
+Mais je me suis trompé, je le vois bien.
+Qu'y faire ? Peut-être en ma faveur suis-je trop prévenu.
+Oui, j'ai quelque défaut qui ne m'est pas connu,
+Et, loin que le mépris et m'offense et m'irrite,
+Je ne m'en prends jamais qu'à mon peu de mérite.
+
+-*who_valere
+Qui, nous, vous mépriser ? En recherchant ma sour,
+Certainement, monsieur, vous nous faites honneur.
+
+-*who_lecomte
+Ah ! Mon dieu, point du tout.
+
+-*who_valere
+      Mais, à parler sans feinte,
+Depuis assez longtemps ma mère est pour Philinte ;
+Elle a même avec lui quelques engagements,
+Et l'amitié, l'estime, en sont les fondements.
+
+-*who_lecomte
+Oh ! Je le crois. Philinte est un homme admirable.
+
+-*who_valere
+Non, mais, à dire vrai, c'est un homme estimable ;
+Quoiqu'il ne soit plus jeune, il peut se faire aimer ;
+Et, riche sans orgueil...
+
+-*who_lecomte
+      Vous allez m'alarmer
+Par le portrait brillant que vous en voulez faire.
+Je commence à sentir que je suis téméraire
+D'entrer en concurrence avec un tel rival,
+Quoiqu'il soit, m'a-t-on dit, un franc original.
+Oui, oui, j'ouvre les yeux. Ma figure, mon âge,
+Tout ce qu'on vante en moi n'est qu'un faible avantage,
+Sitôt qu'avec Philinte on veut me comparer,
+Et c'est lui faire tort que de délibérer.
+
+-*who_lisette
+Quoi ! N'admirez-vous pas cette humble repartie ?
+
+-*who_isabelle
+Je n'en suis point la dupe, et cette modestie
+N'est, selon mon avis, qu'un orgueil déguisé.
+
+-*who_lecomte
+Madame, en vain pour vous je m'étais proposé.
+Mon ardeur est trop vive et trop peu circonspecte ;
+On m'oppose un rival qu'il faut que je respecte.
+
+-*who_isabelle
+Philinte du respect veut bien vous dispenser.
+
+-*who_lecomte
+Il me fait trop d'honneur.
+
+-*who_valere
+      Mais, sans vous offenser,
+Il a cent qualités respectables. Du reste,
+Plus on veut l'en convaincre, et plus il est modeste.
+Il se tait sur son rang, sur sa condition.
+
+-*who_lecomte
+Et fait très sagement : car, sans prévention,
+Il aurait un peu tort de vanter sa naissance.
+
+-*who_valere
+Il est bien gentilhomme.
+
+-*who_lecomte
+      On a la complaisance
+De le croire.
+
+-*who_valere
+      Et de plus il le prouve.
+
+-*who_lecomte
+      Ma foi,
+c'est tout ce qu'il peut faire. À des gens tels que moi,
+Ce n'est pas là-dessus que l'on en fait accroire,
+Et j'ose me vanter, sans me donner de gloire,
+Car je suis ennemi de la présomption,
+Que, si Philinte était d'une condition
+Et de quelque famille un peu considérable,
+Nous n'aurions pas sur lui de dispute semblable,
+Et que bien sûrement il me serait connu.
+Mais son nom jusqu'ici ne m'est pas parvenu ;
+Preuve que sa noblesse est de nouvelle date.
+
+-*who_valere
+C'est ce qu'on ne dit pas dans le monde.
+
+-*who_lecomte
+      On le flatte.
+Par exemple, monsieur, vous connaissiez mon nom
+Avant de m'avoir vu.
+
+-*who_valere
+      Je vous jure que non.
+
+-*who_lecomte
+Tant pis pour vous, Monsieur : car le nom de Tufière
+Nous ne le prenons pas d'une gentilhommière,
+Mais d'un château fameux. L'histoire en cent endroits
+Parle de mes aïeux et vante leurs exploits.
+Daignez la parcourir, vous verrez qui nous sommes,
+Et qu'entre mes vassaux j'ai trois cents gentilshommes
+Plus nobles que Philinte.
+
+-*who_valere
+      Ah ! Monsieur, je le crois.
+
+-*who_lecomte
+Les gens de qualité le savent mieux que moi.
+Pour moi, je n'en dis rien, il faut être modeste.
+
+-*who_valere
+C'est très bien fait à vous. L'orgueil...
+
+-*who_lecomte
+      Je le déteste.
+Les grands perdent toujours à se glorifier,
+Et rien ne leur sied mieux que de s'humilier.
+Vous sortez ?
+
+-*who_valere
+      Oui, monsieur, je quitte la partie,
+Et je sors enchanté de votre modestie.
+
+-*who_lecomte
+Sommes-nous bons amis ?
+
+-*who_valere
+      Ce m'est bien de l'honneur,
+Et je...
+
+-*who_lecomte
+      Parbleu, je suis votre humble serviteur.
+Si vous voyez Philinte, engagez-le, de grâce,
+À ne pas m'obliger à lui céder la place.
+Il fera beaucoup mieux, s'il renonce à l'espoir
+D'épouser votre sour et cesse de la voir.
+Dites-lui que je crois qu'il aura la prudence
+De ne me pas porter à quelque violence :
+Car, je vous le déclare en termes très exprès,
+S'il l'emportait sur moi, nous nous verrions de près.
+
+-*who_valere
+à cet égard, Monsieur, je ne puis rien vous dire,
+Mais j'entends ce discours, et je vais l'en instruire.
+
+**** *book_ *id_III04 *act_III *date_1732
+
+-*who_isabelle
+Vous traitez vos rivaux avec bien du mépris !
+
+-*who_lecomte
+Personne, selon moi, n'en doit être surpris.
+Je n'ai pas de fierté ; mais, à parler sans feinte,
+Je suis choqué de voir qu'on m'oppose Philinte.
+Un rival comme lui n'est pas fait, que je crois,
+Pour traverser les voux d'un homme tel que moi.
+
+-*who_isabelle
+D'un homme tel que moi ! Ce terme-là m'étonne ;
+Il me paraît bien fort.
+
+-*who_lecomte
+      C'est selon la personne.
+Je conviens avec vous qu'il sied à peu de gens.
+Mais je crois que l'on peut me le passer.
+
+-*who_isabelle
+J'entends. Le ciel vous a fait naître avec tant d'avantage
+Que tout le genre humain vous doit un humble hommage.
+
+-*who_lecomte
+Comment donc ! D'un rival prenez-vous le parti ?
+
+-*who_isabelle
+Non pas ; mais, à présent que mon frère est sorti,
+Souffrez que je vous parle avec moins de contrainte
+Et blâme vos hauteurs à l'égard de Philinte.
+
+-*who_lecomte
+J'en attendais de vous un plus juste retour,
+Et ma vivacité vous prouve mon amour.
+
+-*who_isabelle
+Dites votre amour-propre. Oui, tout me le fait croire,
+Vous avez moins d'amour que vous n'avez de gloire.
+
+-*who_lecomte
+L'un et l'autre m'anime, et la gloire que j'ai
+Soutient les intérêts de l'amour outragé.
+Elle n'a pu souffrir l'indigne préférence
+Dont j'étais menacé, même en votre présence :
+Vous dites qu'elle est fière et parle avec hauteur.
+Mais qu'est-ce que ma gloire, après tout ? C'est l'honneur.
+Cet honneur, il est vrai, veut le respect, l'estime ;
+Mais il est généreux, sincère, magnanime ;
+Et, pour dire en deux mots quelque chose de plus,
+Il est et fut toujours la source des vertus.
+
+-*who_isabelle
+Des effets de l'honneur je suis persuadée ;
+Mais a-t-il de soi-même une si haute idée
+Qu'il la laisse éclater en propos fastueux ?
+Le véritable honneur est moins présomptueux ;
+Il ne se vante point, il attend qu'on le vante ;
+Et c'est la vanité, qui, lasse de l'attente,
+Et qui, fière des droits qu'elle sait s'arroger,
+Croit obtenir l'estime en osant l'exiger.
+Mais, loin d'y réussir, elle offense, elle irrite,
+Et ternit tout l'éclat du plus parfait mérite.
+
+-*who_lecomte
+De grâce, à quel propos cette distinction ?
+
+-*who_isabelle
+Je vous laisse le soin de l'application ;
+Et, de la modestie embrassant la défense,
+Je soutiens que par elle on voit la différence
+Du mérite apparent au mérite parfait.
+L'un veut toujours briller, l'autre brille en effet
+Sans jamais y prétendre, et sans même le croire.
+L'un est superbe et vain, l'autre n'a point de gloire.
+Le faux aime le bruit, le vrai craint d'éclater ;
+L'un aspire aux égards, l'autre à les mériter.
+Je dirai plus. Les gens nés d'un sang respectable
+Doivent se distinguer par un esprit affable,
+Liant, doux, prévenant ; au lieu que la fierté
+Est l'ordinaire effet d'un éclat emprunté.
+La hauteur est partout odieuse, importune.
+Avec la politesse, un homme de fortune
+Est mille fois plus grand qu'un grand toujours gourmé,
+D'un limon précieux se présumant formé,
+Traitant avec dédain, et même avec rudesse,
+Tout ce qui lui paraît d'une moins noble espèce ;
+Croyant que l'on est tout quand on est de son sang,
+Et croyant qu'on n'est rien au-dessous de son rang.
+
+-*who_lecomte
+Ce discours est fort beau ; mais que voulez-vous dire ?
+
+-*who_isabelle
+Lisette, mieux que moi, saura vous en instruire.
+Je lui laisse le soin de vous interpréter
+Un discours qui paraît déjà vous irriter.
+
+-*who_lecomte
+Non, de grâce, avec vous souffrez que je m'explique.
+Cette fille, après tout, est votre domestique ;
+Ne me commettez pas.
+
+-*who_isabelle
+      Quand vous la connaîtrez,
+Des gens de son état vous la distinguerez,
+Et vous me ferez voir une preuve fidèle
+De vos égards pour moi dans vos égards pour elle.
+Elle connaît à fond mon esprit, mon humeur ;
+Écoutez, profitez, et méritez mon cour.
+Adieu.
+
+**** *book_ *id_III05 *act_III *date_1732
+
+-*who_lecomte
+      Vous restez donc ?
+
+-*who_lisette
+      Excusez mon audace,
+Et souffrez une fois que je me satisfasse.
+Il faut que je vous parle ; on me l'ordonne, et moi
+J'en meurs d'envie aussi ; mais je ne sais pourquoi.
+
+-*who_lecomte
+Votre ton familier m'importune et me blesse.
+
+-*who_lisette
+Vous n'êtes occupé que de votre noblesse ;
+Mais, en interprétant ce que l'on vous a dit,
+Quand on fait trop le grand, on paraît bien petit.
+
+-*who_lecomte
+Quoi ! Vous osez ?...
+
+-*who_lisette
+      Oui, j'ose ; et votre erreur extrême
+Me force à vous prouver à quel point je vous aime.
+Vous vous perdez, monsieur.
+
+-*who_lecomte
+      Comment donc, je me perds ?
+
+-*who_lisette
+Votre orgueil a percé. Vos hauteurs, vos grands airs,
+Vous décèlent d'abord, malgré la politesse
+Dont vous les décorez. La gloire est bien traîtresse.
+Le discours d'Isabelle était votre portrait,
+Et son discernement vous a peint trait pour trait.
+Dût la gloire en souffrir, je ne saurais me taire.
+Je ne vous dirai pas : " Changez de caractère " ,
+Car on n'en change point, je ne le sais que trop.
+Chassez le naturel, il revient au galop ;
+Mais du moins je vous dis : " Songez à vous contraindre,
+Et devant Isabelle efforcez-vous de feindre ;
+Paraissez quelque temps de l'humeur dont elle est,
+Et faites que l'orgueil se prête à l'intérêt. "
+" Voilà mon sentiment. Profitez-en ou non,
+Mon cour seul m'a dicté cette utile leçon.
+Votre gloire irritée en paraît mécontente,
+Je lui baise les mains, et je suis sa servante.
+
+**** *book_ *id_III06 *act_III *date_1732
+
+-*who_lecomte
+Il n'est donc plus permis de sentir ce qu'on vaut ?
+Savoir tenir son rang passe ici pour défaut ?
+Et ces petits bourgeois traiteront d'arrogance
+Les sentiments qu'inspire une haute naissance ?
+Si je m'en croyais... Non, je veux prendre sur moi,
+L'amour et l'intérêt m'en imposent la loi.
+Oui, devant Isabelle il faudra me contraindre.
+Mais l'indigne rival qu'on veut me faire craindre
+Va dès ce même instant me voir tel que je suis,
+S'il m'ose disputer l'objet que je poursuis.
+Je veux connaître un peu ce petit personnage,
+Et lui parler d'un ton à le rendre plus sage.
+
+**** *book_ *id_III07 *act_III *date_1732
+
+-*who_philinte
+Je ne viens vous troubler dans vos réflexions
+Que pour vous assurer de mes soumissions,
+Monsieur. Depuis longtemps je vous dois cet hommage,
+Et je ne le saurais différer davantage.
+
+-*who_lecomte
+Très obligé, Monsieur. D'où nous connaissons-nous ?
+
+-*who_philinte
+Si je n'ai pas l'honneur d'être connu de vous,
+J'aurai bientôt celui de me faire connaître.
+Mon nom n'impose pas, mais...
+
+-*who_lecomte
+      Cela peut bien être.
+
+-*who_philinte
+Tel qu'il est, puisqu'il faut qu'il vous soit décliné...
+Je m'appelle Philinte.
+
+-*who_lecomte
+      Oh ! J'ai donc deviné.
+Je vous ai reconnu d'abord aux révérences.
+
+-*who_philinte
+Je ne puis vous marquer par trop de déférences
+Combien je vous honore.
+
+-*who_lecomte
+      Et vous avez raison.
+Mais de quoi s'agit-il ? Parlez-moi sans façon.
+
+-*who_philinte
+Valère est mon ami, vous le savez, je pense.
+
+-*who_lecomte
+Que m'importe cela ?
+
+-*who_philinte
+      Tantôt, en sa présence,
+Si j'en crois son rapport, et j'en suis peu surpris,
+Vous m'avez honoré... d'un assez grand mépris.
+
+-*who_lecomte
+Il vous exaltait fort, moi, j'ai dit ma pensée.
+Votre délicatesse en est-elle blessée ?
+
+-*who_philinte
+Ah ! Monsieur ! Point du tout ; je me connais ; je crois
+Qu'on peut avec raison dire du mal de moi.
+Mais on ajoute encore, à l'égard d'Isabelle,
+Que vous me défendez de revenir chez elle.
+
+-*who_lecomte
+Voilà précisément ce que j'ai prétendu
+Qu'on vous dît.
+
+-*who_philinte
+      Je croyais avoir mal entendu.
+
+-*who_lecomte
+Pourquoi ?
+
+-*who_philinte
+      Vous exigez un cruel sacrifice,
+Et je doute bien fort que je vous obéisse.
+
+-*who_lecomte
+Vous en doutez, Monsieur ?
+
+-*who_philinte
+      Jamais, jusqu'à ce jour,
+Je ne me suis senti si plein de mon amour.
+
+-*who_lecomte
+Je vous en guérirai.
+
+-*who_philinte
+      Monsieur, j'en désespère,
+Et j'en viens d'assurer Isabelle et sa mère.
+
+-*who_lecomte
+Et vous venez me faire un pareil compliment ?
+
+-*who_philinte
+Avec confusion, mais très distinctement.
+La nature, envers moi moins mère que marâtre,
+M'a formé très rétif et très opiniâtre,
+Surtout lorsque quelqu'un veut m'imposer la loi.
+
+-*who_lecomte
+L'opiniâtreté ne tient point contre moi,
+Je vous en avertis.
+
+-*who_philinte
+      La mienne est bien mutine.
+Plus on lui fait la guerre, et plus elle s'obstine ;
+Et jamais la hauteur ne pourra la dompter.
+
+-*who_lecomte
+Vous êtes bien hardi de venir m'insulter !
+Un petit gentilhomme ose avoir cette audace ?
+
+-*who_philinte
+Moi, monsieur ? Je vous viens demander une grâce.
+
+-*who_lecomte
+Et c'est ?
+
+-*who_philinte
+      De m'accorder le plaisir et l'honneur...
+de me couper la gorge avec vous.
+
+-*who_lecomte
+      La faveur
+Est bien grande, en effet. Vous êtes téméraire.
+Vous vous méconnaissez. Mais il faut vous complaire.
+L'honneur que vous avez d'être un de mes rivaux
+Va vous faire monter au rang de mes égaux.
+
+-*who_philinte
+Je suis reconnaissant de cette grâce insigne,
+Et je vais vous prouver que mon cour en est digne.
+
+-*who_lecomte
+Trêve de compliment. Moi, je vais vous prouver
+Que l'on court un grand risque en osant me braver.
+
+**** *book_ *id_III08 *act_III *date_1732
+
+-*who_lisimon
+Chez moi, morbleu, chez moi faire un pareil vacarme ?
+Par la mort, le premier...
+
+-*who_philinte
+      Le respect me désarme.
+
+-*who_lisimon
+Ah ! Vous êtes mutin, monsieur le doucereux ?
+
+-*who_philinte
+Quelquefois.
+
+-*who_lecomte
+      Par bonheur il n'est pas dangereux.
+
+-*who_philinte
+C'est ce qu'il faudra voir. Du moins je vous assure
+Que de cette maison si quelqu'un peut m'exclure,
+Ce ne sera pas vous.
+
+-*who_lisimon
+      Non, mais ce sera moi.
+
+-*who_philinte
+Je prends la liberté de vous dire...
+
+-*who_lisimon
+      Je crois
+Qu'un père de famille en ce cas est le maître.
+
+-*who_philinte
+J'en conviens.
+
+-*who_lisimon
+      Et je prends la liberté de l'être,
+En dépit de ma femme et de ses adhérents :
+Si tu ne le sais pas, c'est moi qui te l'apprends.
+Le comte aime ma fille, il a droit d'y prétendre ;
+J'ai pris la liberté de le choisir pour gendre.
+Ma fille en est d'accord, et prend la liberté
+De se soumettre en tout à mon autorité.
+Ainsi, sans te flatter contre toute apparence,
+En prenant ton congé tire ta révérence.
+
+-*who_philinte
+J'aurai l'honneur, Monsieur, de répondre à cela
+Que madame n'est pas de ce sentiment-là.
+
+-*who_lisimon
+Madame n'en est pas ? J'ai donné ma parole.
+Si pour me chicaner madame est assez folle,
+Madame sur-le-champ, par le pouvoir que j'ai,
+En même temps que toi, recevra son congé.
+
+-*who_philinte
+J'adore votre fille ; et l'aveu de sa mère
+Me permet d'aspirer au bonheur de lui plaire.
+Dès qu'elles m'excluront, je leur obéirai.
+Jusque-là j'ai mes droits, et je les soutiendrai.
+
+**** *book_ *id_III09 *act_III *date_1732
+
+-*who_lisimon
+Quelle obstination !
+
+-*who_lecomte
+      Ceci vient de Valère,
+Et je m'en vengerais si vous n'étiez son père.
+
+-*who_lisimon
+Je veux le faire, moi, mourir sous le bâton,
+Ou le gueux dès ce soir quittera ma maison.
+Il m'a joué d'un tour... Eh ! Là là, patience !
+
+-*who_lecomte
+C'est un petit monsieur rempli de suffisance.
+
+-*who_lisimon
+Le portrait de sa mère, un sot, un freluquet
+Qui fait le bel esprit et n'a que du caquet.
+Oh ! La méchante femme ! Avec son air affable,
+Composé, doucereux ; c'est un tyran, un diable
+De sang-froid. Tout à l'heure, en termes éloquents,
+Et tous bien de niveau, mais malins et piquants,
+Devant ma fille même, elle m'a fait entendre
+Qu'elle me quittera si je vous prends pour gendre ;
+Et moi, j'ai répondu que j'étais résigné
+À souffrir ce malheur dès qu'elle aurait signé ;
+Qu'immédiatement après sa signature
+Elle pourrait aller à sa bonne aventure.
+Sur cela, force pleurs, évanouissement.
+Isabelle et Lisette avec gémissement
+L'ont vite secourue, et, par cérémonie,
+Toutes trois à présent pleurent de compagnie :
+Car qu'une femme pleure, une autre pleurera,
+Et toutes pleureront tant qu'il en surviendra.
+
+-*who_lecomte
+Ainsi notre projet souffre de grands obstacles ?
+
+-*who_lisimon
+Pour en venir à bout je ferai des miracles.
+Ce que j'apprends de toi me réchauffe le cour.
+Je ne te croyais pas un si puissant seigneur.
+Comment, diable ! Ton père, à ce que l'on m'assure,
+Fait dans sa baronnie une noble figure.
+
+-*who_lecomte
+Allez, mon cher, allez, quand vous me connaîtrez,
+De vos tons familiers vous vous corrigerez ;
+Vous ne tutoierez plus un gendre de ma sorte.
+
+-*who_lisimon
+Ma foi, sans y penser l'habitude m'emporte,
+Au cérémonial enfin je me soumets.
+
+-*who_lecomte
+Me le promettez-vous ?
+
+-*who_lisimon
+      Oui, je te le promets.
+Va, tu seras content.
+
+-*who_lecomte
+      Fort bien. Belle manière
+De se corriger !
+
+-*who_lisimon
+      Oh ! Trêve à votre humeur fière,
+Et consultons tous deux comment je m'y prendrai
+Pour finir.
+
+-*who_lecomte
+      Le conseil que je vous donnerai,
+C'est de ne plus souffrir qu'ici l'on se hasarde
+À dire son avis sur ce qui me regarde.
+Pour trancher en un mot toute difficulté,
+Sachez vous prévaloir de votre autorité.
+
+-*who_lisimon
+Si vous vouliez m'aider...
+
+-*who_lecomte
+      Non, monsieur, je vous jure.
+Quand vous serez d'accord, je suis prêt à conclure.
+
+**** *book_ *id_III10 *act_III *date_1732
+
+-*who_lisimon
+Il faut que je sois bien possédé du démon
+Pour souffrir les hauteurs d'un pareil rodomont,
+Et que l'ambition m'ait bien tourné la tête,
+Puisque dans mon dépit son empire m'arrête.
+Je vais rompre. Attendons. Si je prends ce parti,
+De mon autorité me voilà départi ;
+Je ferai triompher et mon fils et ma femme,
+Et monsieur, désormais, dépendra de madame.
+Bel honneur que je fais à messieurs les maris !
+Non, il n'en sera rien. Le dépit m'a surpris ;
+Mais l'honneur me réveille ; il m'excite à combattre,
+Et je m'en vais pour lui faire le diable à quatre.
+
+**** *book_ *id_IV01 *act_IV *date_1732
+
+-*who_lisette
+Quoi ! Sans me regarder doubler ainsi le pas ?
+
+-*who_pasquin
+Ah ! Ma reine, pardon, je ne vous voyais pas.
+Auriez-vous par hasard quelque chose à me dire ?
+
+-*who_lisette
+Oui, sur de certains faits voudriez-vous m'instruire ?
+
+-*who_pasquin
+Le puis-je ?
+
+-*who_lisette
+      Assurément.
+
+-*who_pasquin
+      Vous avez donc grand tort
+d'en douter.
+
+-*who_lisette
+      Mais sur vous il faut faire un effort.
+
+-*who_pasquin
+Vous n'avez qu'à parler. Je suis homme à tout faire
+Pour vous marquer mon zèle et tâcher de vous plaire.
+Quel est ce grand effort que votre autorité
+M'impose ?
+
+-*who_lisette
+      De me dire ici la vérité.
+
+-*who_pasquin
+Rien ne me coûte moins.
+
+-*who_lisette
+      Pour entrer en matière,
+Avez-vous jamais vu le château de Tufière ?
+
+-*who_pasquin
+Si je l'ai vu ? Cent fois.
+      C'est mentir hardiment.
+
+-*who_lisette
+Est-ce un si bel endroit qu'on nous l'a dit ?
+
+-*who_pasquin
+      Comment !
+C'est le plus beau château qui soit sur la Garonne.
+Vous le voyez de loin qui forme un pentagone...
+
+-*who_lisette
+Pentagone ! Bon dieu ! Quel grand mot est-ce là ?
+
+-*who_pasquin
+C'est un terme de l'art.
+
+-*who_lisette
+      Je veux croire cela.
+Mais expliquez-moi bien ce que ce mot veut dire.
+
+-*who_pasquin
+Cela m'est très facile, et je vais vous décrire
+Ce superbe château, pour que vous en jugiez,
+Et même beaucoup mieux que si vous le voyiez.
+D'abord, ce sont sept tours entre seize courtines...
+Avec deux tenaillons placés sur trois collines...
+Qui forment un vallon, dont le sommet s'étend
+Jusque sur... un donjon... entouré d'un étang...
+Et ce donjon, placé justement... sous la zone,...
+Par trois angles saillants forme le pentagone.
+
+-*who_lisette
+Voilà, je vous l'avoue, un merveilleux château.
+
+-*who_pasquin
+Je crois, sans vanité, que vous le trouvez beau.
+
+-*who_lisette
+Et c'est donc en ce lieu que le père du comte
+Tient sa cour ?
+
+-*who_pasquin
+      Oui, ma reine ; et faites votre compte
+Que dans tout le royaume il n'est point de seigneur
+Qui soutienne son rang avec plus de splendeur.
+Meutes, chevaux, piqueurs, superbes équipages,
+Table ouverte en tout temps, deux écuyers, six pages,
+Domestiques sans nombre et bien entretenus,
+Tout cela ne saurait manger ses revenus.
+
+-*who_lisette
+Mais c'est donc un seigneur d'une richesse immense ?
+
+-*who_pasquin
+Vous en pouvez juger par sa magnificence.
+
+-*who_lisette
+Je trouve en vos récits quelque petit défaut.
+Vous mentez à présent, ou vous mentiez tantôt.
+
+-*who_pasquin
+Comment donc ?
+
+-*who_lisette
+      Un menteur qui n'a pas de mémoire
+Se décèle d'abord. Si je veux vous en croire,
+Le comte est grand seigneur : dans un autre entretien,
+Cous m'avez assuré qu'il n'avait pas de bien.
+
+-*who_pasquin
+Tout franc, votre argument me paraît sans réplique.
+Naturellement, moi, je suis très véridique.
+Mais j'obéis. Au fond les faits sont très constants,
+Et nous n'avons menti qu'en allongeant le temps.
+
+-*who_lisette
+Rendez-moi, s'il vous plaît, cette énigme plus claire.
+
+-*who_pasquin
+Quinze ans auparavant, ce que j'ai dit du père
+Se trouvera très vrai. Depuis, tout a changé.
+Dans un piteux état le bonhomme est plongé,
+Et le pauvre seigneur traîne une vie obscure.
+Mais mon maître, voulant qu'il fasse encor figure,
+Par un récit pompeux, fruit de sa vanité,
+Vient de le rétablir de son autorité.
+Qu'entre nous, s'il vous plaît, la chose soit secrète.
+
+-*who_lisette
+Allez, ne craignez rien. Si j'étais indiscrète,
+Je ferais tort au comte. Et si je fais des voux,
+C'est pour pouvoir l'aider à devenir heureux.
+Valère à mes efforts sans relâche s'oppose ;
+Mais à les seconder je veux qu'il se dispose.
+Il vient fort à propos.
+
+-*who_pasquin
+      Fort à propos aussi
+Je vais me retirer, puisqu'il vous cherche ici.
+
+**** *book_ *id_IV02 *act_IV *date_1732
+
+-*who_lisette
+Ah ! Vous voilà, Monsieur ? Vraiment j'en suis ravie.
+
+-*who_valere
+Quoi ! Vous voulez gronder ?
+
+-*who_lisette
+      J'en aurais bien envie.
+
+-*who_valere
+Et sur quoi, s'il vous plaît ?
+
+-*who_lisette
+      Mais sur vos beaux exploits.
+Mes moindres volontés, dites-vous, sont vos lois ?
+
+-*who_valere
+Il est vrai.
+
+-*who_lisette
+      Cependant devant monsieur le comte
+Vous m'avez témoigné n'en faire pas grand compte,
+Et, contre mon avis, votre zèle emporté
+A su porter Philinte à toute extrémité.
+
+-*who_valere
+J'ai dit à mon ami qu'on avait eu l'audace
+De risquer contre lui jusques à la menace.
+Je n'ai rien dit de plus. C'est un homme de cour,
+Qui n'a dû sur le reste écouter que l'honneur.
+
+-*who_lisette
+Que l'honneur ! Ce discours me fatigue et m'irrite.
+
+-*who_valere
+Mais par quelle raison ? Philinte a du mérite.
+
+-*who_lisette
+Si vous n'employez pas vos soins avec ardeur
+Pour faire que le comte épouse votre sour,
+Et pour bannir d'ici cet ennuyeux Philinte,
+Je vous déclare, moi, sans mystère et sans feinte,
+Que, demoiselle ou non, comme le ciel voudra,
+Lisette, de ses jours, ne vous épousera.
+J'ai conclu. C'est à vous maintenant de conclure.
+
+-*who_valere
+Par quel motif ?... Eh quoi ! Cette vieille figure
+Viendra-t-elle toujours troubler nos entretiens ?
+
+-*who_lisette
+Il faut que je lui parle.
+
+-*who_valere
+      Adieu donc.
+
+**** *book_ *id_IV03 *act_IV *date_1732
+
+-*who_lycandre
+      Je reviens,
+et je vous trouve encore en même compagnie ?
+
+-*who_lisette
+Oui ; mais nous querellions. Valère a la manie
+De vouloir empêcher que ce jeune seigneur
+Qui demeure céans ne prétende à sa sour.
+
+-*who_lycandre
+Et vous, vous soutenez le comte de Tuffière ?
+
+-*who_lisette
+Oui, monsieur, contre tous et de toute manière.
+Il est vrai que le comte est si présomptueux
+Qu'on ne peut se prêter à ses airs fastueux :
+Il ne respecte rien, ne ménage personne ;
+Et plus je le connais, plus sa gloire m'étonne.
+
+-*who_lycandre
+Ah ! Que vous m'affligez !
+
+-*who_lisette
+      Et pourquoi, s'il vous plaît ?
+
+-*who_lycandre
+Mais vous-même, pourquoi prenez-vous intérêt
+À ce qui le concerne ? Est-il donc bien possible
+Qu'à votre empressement il se montre sensible
+Jusques à vous marquer des égards, des bontés ?
+
+-*who_lisette
+Il n'a payé mes soins que par des duretés.
+Je ne puis y penser sans répandre des larmes.
+N'importe ; à le servir je trouve mille charmes.
+
+-*who_lycandre
+Qu'entends-je ? Juste ciel ! Quel bon cour d'un côté !
+De l'autre, quel excès d'insensibilité !
+Ô détestable orgueil ! Non, il n'est point de vice
+Plus funeste aux mortels, plus digne de supplice.
+Voulant tout asservir à ses injustes droits,
+De l'humanité même il étouffe la voix.
+
+-*who_lisette
+Je l'éprouve.
+
+-*who_lycandre
+      Pour vous, vous serez, je l'espère,
+La consolation d'un trop malheureux père.
+
+-*who_lisette
+À chaque instant, monsieur, vous me parlez de lui.
+Il devait à mes yeux se montrer aujourd'hui ;
+Mais il ne paraît point. Vous me trompiez, peut-être.
+
+-*who_lycandre
+Un peu de patience ; il va bientôt paraître.
+
+-*who_lisette
+Pourquoi diffère-t-il de trop heureux moments ?
+Que ne vient-il s'offrir à mes embrassements ?
+
+-*who_lycandre
+Malgré votre bon cour, il craint que sa présence
+Ne vous afflige.
+
+-*who_lisette
+      Moi ? Se peut-il qu'il le pense ?
+
+-*who_lycandre
+Il craint que ses malheurs, trop dignes de pitié,
+Ne refroidissent même un peu votre amitié.
+
+-*who_lisette
+Ah ! Qu'il me connaît mal !
+
+-*who_lycandre
+      Enfin, avant qu'il vienne,
+Sur sa triste aventure il veut qu'on vous prévienne.
+Peut-être espérez-vous le voir dans son éclat,
+Et vous le trouverez dans un cruel état.
+
+-*who_lisette
+Il m'en sera plus cher, et, loin qu'il m'importune,
+Il verra que mon cour, plein de son infortune,
+Redoublera pour lui de tendresse et d'amour.
+Tout baigné de mes pleurs, avant la fin du jour
+Il sera possesseur du peu que je possède.
+Mon zèle à ses malheurs servira de remède.
+Je ferai tout pour lui. Si je n'ai point d'argent,
+J'ai de riches habits dont on m'a fait présent ;
+Je garde un diamant que m'a laissé ma mère.
+Je vais tout engager, tout vendre pour mon père ;
+Heureuse si je puis, et mille et mille fois,
+Lui prouver que je l'aime autant que je le dois !
+
+-*who_lycandre
+Arrêtez. Laissez-moi respirer, je vous prie.
+Donnez quelque relâche à mon âme attendrie.
+Vous aimez votre père, il n'est plus malheureux.
+
+-*who_lisette
+Ah ! Puisqu'il est si lent à contenter mes voux,
+Apprenez-moi quel monstre a causé sa misère.
+
+-*who_lycandre
+Quel monstre ?
+
+-*who_lisette
+      Oui.
+
+-*who_lycandre
+      L'orgueil. L'orgueil de votre mère.
+Par son faste, les biens se sont évanouis ;
+Son orgueil a causé des malheurs inouïs.
+
+-*who_lisette
+Eh ! Comment ?
+
+-*who_lycandre
+      Une dame assez considérable,
+Lui disputant le pas dans un lieu respectable,
+En reçut un affront si sanglant, si cruel,
+Qu'elle en fit éclater un déplaisir mortel.
+L'époux de cette dame, enflammé de colère,
+Pour venger cet affront attaqua votre père
+Au retour d'une chasse, et prit si bien son temps
+Qu'ils se trouvèrent seuls pendant quelques instanTs.
+D'un trop funeste effet sa fureur fut suivie.
+Il voulait se venger ; il y perdit la vie.
+En un mot, votre père, en défendant ses jours,
+Tua son ennemi, mais sans autre secours
+Que celui de son bras armé pour sa défense.
+Les parents du défunt poussèrent la vengeance
+Jusqu'à faire passer ce malheureux combat,
+Pur effet du hasard, pour un assassinat.
+Des témoins subornés soutiennent l'imposture.
+On les croit. Votre père, outré de cette injure,
+Se défend, mais en vain. Il se cache. Aussitôt
+Un arrêt le condamne. Et, pour fuir l'échafaud,
+Il passe en Angleterre, où quelques jours ensuite
+Votre mère devient compagne de sa fuite,
+Le rejoint avec vous qui sortiez du berceau ;
+Et son orgueil puni la conduit au tombeau.
+
+-*who_lisette
+Ciel ! Que m'apprenez-vous ? Ce n'est donc pas ma mère
+Que j'avais au couvent, et qui m'était si chère ?
+
+-*who_lycandre
+C'était votre nourrice. Elle vous ramena,
+Suivit exactement l'ordre que lui donna
+Votre père, deux ans après sa décadence,
+De venir dans ces lieux élever votre enfance,
+Se disant votre mère et cachant votre nom.
+
+-*who_lisette
+Mais pourquoi ce secret ? Et par quelle raison
+Me laisser ignorer de quel sang j'étais née ?
+
+-*who_lycandre
+Pour vous rendre modeste autant qu'infortunée,
+Et pour vous épargner des regrets, des douleurs,
+Jusqu'à ce que le ciel adoucît vos malheurs.
+C'est ainsi que l'avait ordonné votre père,
+Et sa précaution vous était nécessaire.
+
+-*who_lisette
+Je brûle de le voir, et je tremble pour lui.
+Comment osera-t-il se montrer aujourd'hui,
+Après l'injuste arrêt ?...
+
+-*who_lycandre
+      Pendant sa longue absence,
+De fidèles amis, sûrs de son innocence
+Et puissants à la cour, ont eu tant de succès
+Qu'ils l'ont déterminée à revoir le procès ;
+Et deux des faux témoins, prêts à perdre la vie,
+Ont enfin avoué leur noire calomnie.
+Votre père, caché depuis près de deux ans,
+Attendait les effets de ces secours puissants.
+On vient de lui donner d'agréables nouvelles ;
+Il touche au terme heureux de ses peines mortelles.
+
+-*who_lisette
+Qu'il ne s'expose point. Je crains quelque accident,
+Quelque piège caché. N'est-il pas plus prudent
+Que nous l'allions chercher ? Par notre diligence
+Prévenons ses bontés et son impatience.
+Sortons, monsieur ; je veux embrasser ses genoux
+Et mourir de plaisir dans des transports si doux.
+
+-*who_lycandre
+Vous n'irez pas bien loin pour goûter cette joie.
+Vous voulez la chercher, et le ciel vous l'envoie.
+Oui, ma fille, voici ce père malheureux ; il vous voit,
+Il vous parle, il est devant vos yeux.
+
+-*who_lisette
+      Quoi !
+C'est vous-même ? Ô ciel ! Que mon âme est ravie !
+Je goûte le moment le plus doux de ma vie.
+
+-*who_lycandre
+Ma fille, levez-vous. Je connais votre cour,
+Et, je vous l'ai prédit, vous ferez mon bonheur.
+Mais, hélas ! Que je crains de revoir votre frère !
+
+-*who_lisette
+Mon frère ! Et quel est-il ?
+
+-*who_lycandre
+      Le comte de Tufière.
+
+-*who_lisette
+Je ne sais où j'en suis, je ne respire plus.
+Daignez me soutenir.
+
+-*who_lycandre
+      Qu'il doit être confus
+Quand il vous connaîtra !
+
+-*who_lisette
+      Moi, sa sour ?
+
+-*who_lycandre
+      Oui, ma fille.
+
+-*who_lisette
+Sans doute, nous sortons de la même famille ;
+Oui, le comte est mon frère ; et, dès que je l'ai vu,
+À travers ses mépris mon cour l'a reconnu.
+De mon faible pour lui je ne suis plus surprise.
+
+-*who_lycandre
+Votre cour le prévient, et l'ingrat vous méprise !
+Ah ! Je veux profiter de cette occasion
+Pour jouir devant vous de sa confusion,
+Quand le temps permettra de vous faire connaître.
+
+-*who_lisette
+Jusque-là, devant lui ne dois-je plus paraître ?
+
+-*who_lycandre
+Non. Je vais le trouver. La conversation
+Sera vive à coup sûr, et sa présomption
+Mérite qu'avec lui prenant le ton de père,
+Je fasse à ses hauteurs une leçon sévère.
+
+-*who_lisette
+S'il ne vous connaît pas, vous les éprouverez.
+
+-*who_lycandre
+Non. Nous nous sommes vus. Il me connaît. Rentrez,
+Ma fille. Quelqu'un vient ; gardez bien le silence.
+
+-*who_lisette
+Mon père, attendez tout de mon obéissance.
+
+**** *book_ *id_IV04 *act_IV *date_1732
+
+-*who_lycandre
+Le Comte de Tufière est-il chez lui ?
+
+-*who_pasquin
+      Pourquoi ?
+
+-*who_lycandre
+Je voudrais lui parler.
+
+-*who_pasquin
+      Lui parler ? Qui ? Vous ?
+
+-*who_lycandre
+      Moi.
+
+-*who_pasquin
+Cela ne se peut pas.
+
+-*who_lycandre
+      La raison, je vous prie ?
+
+-*who_pasquin
+C'est qu'il est en affaire.
+
+-*who_lycandre
+      Oh ! Je vous certifie,
+Quelque occupé qu'il soit, que, dès qu'il apprendra
+Que je veux lui parler, il y consentira.
+
+-*who_pasquin
+Eh ! Qu'êtes-vous ?
+
+-*who_lycandre
+      Je suis, ... car je perds patience,
+Un homme très choqué de votre impertinence.
+
+-*who_pasquin
+Il a, ma foi, raison. Je retombe toujours,
+Et je veux m'en punir. Je vois que mon discours,
+Monsieur, n'a pas le don de vous être agréable ;
+Mais, si je suis si fier, je suis très excusable.
+
+-*who_lycandre
+Et par où, s'il vous plaît ?
+
+-*who_pasquin
+      Pour le dire en un mot,
+Et sans trop me vanter, c'est que je suis un sot.
+
+-*who_lycandre
+Allez, on ne l'est point quand on connaît sa faute.
+
+-*who_pasquin
+Mon maître a très souvent la parole si haute,
+Il est si suffisant, que par occasion
+Je le deviens aussi, mais sans réflexion.
+Heureusement pour moi, la raison, la prudence,
+Abrègent les accès de mon impertinence.
+Vous voyez que d'abord j'ai bien baissé mon ton.
+Mais daignez, s'il vous plaît, me dire votre nom.
+
+-*who_lycandre
+Mon enfant, dites-lui, s'il veut bien le permettre,
+Que je viens demander sa réponse à la lettre
+Que l'on vous a pour lui remise de ma part.
+L'a-t-il lue ?
+
+-*who_pasquin
+      Oui, monsieur. Seriez-vous par hasard
+L'inconnu ?...
+
+-*who_lycandre
+      Je le suis.
+
+-*who_pasquin
+      Moi, que je vous annonce !
+Eh ! Vite, sauvez-vous. J'ai reçu sa réponse,
+Et je la sens encor.
+
+-*who_lycandre
+      Ne craignez rien pour moi.
+Il sera plus honnête en me répondant.
+
+-*who_pasquin
+      Quoi !
+Vous vous exposez ?...
+
+-*who_lycandre
+      Oui, j'en veux courir le risque.
+
+-*who_pasquin
+Pour jouer avec lui, prenez mieux votre bisque.
+
+-*who_lycandre
+Dépêchez-vous, de grâce.
+
+-*who_pasquin
+      En vérité, je crains...
+
+-*who_lycandre
+Ah !
+
+-*who_pasquin
+      S'il vous en prend mal, je m'en lave les mains.
+
+**** *book_ *id_IV05 *act_IV *date_1732
+
+-*who_lycandre
+Par les airs du valet on peut juger du maître.
+Ah ! Du moins, si mon fils pouvait se reconnaître,
+Se blâmer quelquefois, comme fait ce garçon,
+Tôt ou tard sa fierté plierait sous sa raison.
+Mais je n'ose espérer...
+
+**** *book_ *id_IV06 *act_IV *date_1732
+
+-*who_lecomte
+      Quel est le téméraire,
+Quel est l'audacieux qui m'ose...? Ah ! C'est mon père !
+
+-*who_lycandre
+L'accueil est très touchant ; j'en suis édifié.
+
+-*who_pasquin
+Comment donc ? Le voilà comme pétrifié !
+
+-*who_lecomte
+Un premier mouvement quelquefois nous abuse.
+Excusez-moi, monsieur.
+
+-*who_pasquin
+      Il lui demande excuse !
+
+-*who_lecomte
+Je croyais...
+      Sors, Pasquin.
+
+-*who_lycandre
+      Pourquoi le chassez-vous ?
+Laissez-le ici ; je veux...
+
+-*who_lecomte
+      Sors, ou crains mon courroux.
+
+-*who_lycandre
+Reste.
+
+-*who_pasquin
+      Il y fait trop chaud. Je fais ce qu'on m'ordonne.
+
+-*who_lecomte
+Si quelqu'un vient me voir, je n'y suis pour personne.
+
+**** *book_ *id_IV07 *act_IV *date_1732
+
+-*who_lycandre
+Que veut dire ceci ?
+
+-*who_lecomte
+      J'ai mes raisons.
+
+-*who_lycandre
+      Pourquoi
+marquez-vous tant d'ardeur à l'éloigner de moi ?
+
+-*who_lecomte
+Aux regards d'un valet dois-je exposer mon père ?
+
+-*who_lycandre
+Vous craignez bien plutôt d'exposer ma misère.
+Voilà votre motif. Et, loin d'être charmé
+De me voir près de vous, votre orgueil alarmé
+Rougit de ma présence. Il se sent au supplice.
+De sa confusion votre cour est complice ;
+Et, tout bouffi de gloire, il n'ose se prêter
+Aux tendres mouvemenTs qui devraient l'agiter.
+Ah ! Je ne vois que trop, en cette conjoncture,
+Qu'une mauvaise honte étouffe la nature.
+C'est en vain qu'un billet vous avait prévenu ;
+Et je me suis trompé, croyant qu'un inconnu
+Vous corrigerait mieux qu'un père misérable,
+Qu'à vos yeux la fortune a rendu méprisable.
+
+-*who_lecomte
+Qui ? Moi ! Je vous méprise ? Osez-vous le penser ?
+Qu'un soupçon si cruel a droit de m'offenser !
+Croyez que votre fils vous respecte, vous aime.
+
+-*who_lycandre
+Vous ? Prouvez-le-moi donc, et dans ce moment même.
+
+-*who_lecomte
+Vous pouvez disposer de tout ce que je puis.
+Parlez, qu'exigez-vous ?
+
+-*who_lycandre
+      Qu'en l'état où je suis
+Vous vous fassiez honneur de bannir tout mystère,
+Et de me reconnaître en qualité de père
+Dans cette maison-ci. Voyons si vous l'osez.
+
+-*who_lecomte
+Songez-vous au péril où vous vous exposez ?
+
+-*who_lycandre
+Dois-je me défier d'une honnête famille ?
+Allons voir Lisimon, menez-moi chez sa fille.
+
+-*who_lecomte
+De grâce, à vous montrer ne soyez pas si prompt.
+Vous les exposeriez à vous faire un affront.
+Vous ne savez donc pas jusqu'où va l'arrogance
+D'un bourgeois anobli, fier de son opulence ?
+Si le faste et l'éclat ne soutiennent le rang,
+Il traite avec dédain le plus illustre sang.
+Mesurant ses égards aux dons de la fortune,
+Le mérite indigent le choque, l'importune,
+Et ne peut l'aborder qu'en faisant mille efforts
+Pour cacher ses besoins sous un brillant dehors.
+Depuis votre malheur, mon nom et mon courage
+Font toute ma richesse ; et ce seul avantage,
+Rehaussé par l'éclat de quelques actions,
+M'a tenu lieu de biens et de protections.
+J'ai monté par degrés, et, riche en apparence,
+Je fais une figure égale à ma naissance ;
+Et, sans ce faux relief, ni mon rang ni mon nom
+N'auraient pu m'introduire auprès de Lisimon.
+
+-*who_lycandre
+On me l'a peint tout autre, et j'ai peine à vous croire ;
+Tout ce discours ne tend qu'à cacher votre gloire.
+Mais, pour moi qui ne suis ni superbe ni vain,
+Je prétends me montrer, et j'irai mon chemin.
+
+-*who_lecomte
+Différez quelques jours ; la faveur n'est pas grande :
+Je me jette à vos pieds, et je vous la demande.
+
+-*who_lycandre
+J'entends. La vanité me déclare à genoux
+Qu'un père infortuné n'est pas digne de vous.
+Oui, oui, j'ai tout perdu par l'orgueil de ta mère ;
+Et tu n'as hérité que de son caractère.
+
+-*who_lecomte
+Eh ! Compatissez donc à la noble fierté
+Dont mon cour, il est vrai, n'a que trop hérité.
+Du reste, soyez sûr que ma plus forte envie
+Serait de vous servir aux dépens de ma vie ;
+Mais du moins ménagez un honneur délicat ;
+Pour mon intérêt même évitons un éclat.
+
+-*who_lycandre
+Vous me faites pitié. Je vois votre faiblesse,
+Et veux, en m'y prêtant, vous prouver ma tendresse ;
+Mais à condition que si votre hauteur
+Éclate devant moi, dès l'instant...
+
+**** *book_ *id_IV08 *act_IV *date_1732
+
+-*who_lisimon
+      Serviteur.
+Je vous cherchais, mon cher ; votre froideur m'étonne :
+Car il est temps d'agir. Je crois, dieu me pardonne,
+Que ma femme devient raisonnable.
+
+-*who_lecomte
+      Comment ?
+
+-*who_lisimon
+Elle n'a plus pour vous ce grand éloignement
+Qu'elle a marqué d'abord. La bonne dame est sage :
+Car j'allAis sans cela faire un joli tapage.
+Je vais vous procurer un moment d'entretien
+Avec ma digne épouse ; et puis tout ira bien,
+Pourvu que vous vouliez lui faire politesse.
+N'y manquez pas, au moins : car c'est une princesse
+Aussi fière que vous, et dont les préjugés...
+
+-*who_lecomte
+Je suis ravi de voir que vous vous corrigez.
+
+-*who_lisimon
+Tu le vois, mon enfant, je cherche à te complaire.
+
+-*who_lecomte
+Fort bien.
+
+-*who_lisimon
+      Enfin, monsieur, le succès de l'affaire
+Est en votre pouvoir. Ainsi donc, croyez-moi,
+de ce que je vous dis faites-vous une loi.
+
+-*who_lycandre
+Monsieur vous parle juste, et pour votre avantage.
+Que votre unique objet soit votre mariage,
+Et mettez à profit cet heureux incident.
+
+-*who_lisimon
+Quel est cet homme-là ?
+
+-*who_lecomte
+      C'est..., c'est mon intendant.
+
+-*who_lisimon
+Il a l'air bien grêlé. Selon toute apparence,
+Cet homme n'a pas fait fortune à l'intendance.
+
+-*who_lecomte
+C'est un homme d'honneur.
+
+-*who_lisimon
+      Il y paraît.
+
+-*who_lycandre
+Je vois qu'il trompe Lisimon en lui parlant de moi.
+Sa gloire est alarmée à l'aspect de son père.
+Sachez encor...
+
+-*who_lisimon
+      Eh bien ?
+
+-*who_lycandre
+      Je retiens ma colère,
+Espérant que bientôt il me sera permis
+De me faire connaître et de punir mon fils ;
+Et mon juste dépit lui prépare une scène
+Où je veux mettre enfin son orgueil à la gêne.
+
+-*who_lecomte
+Contraignez-vous, de grâce, et ne lui dites rien
+Qui lui fasse augurer qui vous êtes.
+
+-*who_lycandre
+      Fort bien.
+
+-*who_lecomte
+C'est un homme économe autant qu'il est fidèle.
+
+-*who_lisimon
+Oh çà, je vous ai dit une bonne nouvelle :
+Ne la négligeons pas. Ma femme veut vous voir ;
+Pour gagner son esprit, faites votre devoir.
+
+-*who_lecomte
+Mon devoir ?
+
+-*who_lisimon
+      Oui, vraiment.
+
+-*who_lecomte
+      L'expression est forte.
+
+-*who_lycandre
+Quoi ! Faut-il pour un mot vous cabrer de la sorte ?
+
+-*who_lisimon
+Il parle de bon sens.
+
+-*who_lycandre
+      Il est bien question
+De chicaner ici sur une expression !
+
+-*who_lecomte
+Mais, monsieur...
+
+-*who_lycandre
+      Mais, monsieur, je dis ce qu'il faut dire ;
+Faites ce qu'il faut faire au plus tôt.
+
+-*who_lecomte
+      Quel martyre !
+Il va se découvrir.
+
+-*who_lisimon
+      Ce vieillard est bien vert,
+Ce me semble ?
+
+-*who_lecomte
+      Il est vrai.
+      Votre discours me perd.
+Devant cet homme, au moins, tâchez de vous contraindre.
+
+-*who_lycandre
+Faites ce qu'il désire, ou je cesse de feindre.
+
+-*who_lisimon
+Ma femme vous attend : venez, d'un air soumis,
+Prévenant, la prier d'être de vos amis.
+
+-*who_lycandre
+Soumis ; vous entendez ?
+
+-*who_lecomte
+      Oui, j'entends à merveille.
+Ciel !
+
+-*who_lisimon
+      Vous approuvez donc ce que je lui conseille ?
+Bonhomme, expliquez-vous.
+
+-*who_lycandre
+      Oui, je l'approuve fort,
+Et, s'il ne s'y rend pas, il aura très grand tort.
+Vous lui donnez, monsieur, une leçon très sage.
+Il en avait besoin. Je le connais.
+
+-*who_lecomte
+J'enrage.
+
+-*who_lisimon
+      Vous êtes donc à lui depuis longtemps ?
+
+-*who_lecomte
+      Sortons.
+Je regrette, monsieur, le temps que nous perdons.
+
+-*who_lisimon
+Un moment.
+      À quoi vont les revenus du comte ?
+
+-*who_lycandre
+Je ne saurais vous dire à quoi cela se monte.
+
+-*who_lisimon
+Mais encor ?
+
+-*who_lecomte
+      Dites-lui...
+
+-*who_lycandre
+      Je ne veux point mentir.
+Une affaire, monsieur, m'oblige de sortir.
+Mais, avant qu'il soit peu, je veux vous satisfaire.
+Vous pouvez cependant conclure votre affaire ;
+Et j'ose me flatter qu'avec un peu de temps
+Vous aurez lieu tous deux d'en être fort contents.
+Adieu.
+
+**** *book_ *id_IV09 *act_IV *date_1732
+
+-*who_lisimon
+      Votre intendant avec vous fait le maître,
+Que veut dire cela ? Hem !
+
+-*who_lecomte
+      Comme il m'a vu naître,
+Avec moi bien souvent il prend ces libertés.
+
+-*who_lisimon
+Allons trouver ma femme, et trêve de fiertés.
+
+-*who_lecomte
+J'irai, si vous voulez. Mais que faut-il lui dire ?
+
+-*who_lisimon
+Plaisante question ! Quoi ! Faut-il vous instruire ?
+
+-*who_lecomte
+Mais je suis assez neuf sur ces démarches-là.
+Prier ! Solliciter ! Je n'entends point cela.
+Je souhaite de faire avec vous alliance ;
+Mais songez aux égards qu'exige ma naissance.
+Parlez pour moi vous-même, et faites bien ma cour.
+Cela suffit, je crois ?
+
+-*who_lisimon
+      Est-ce là le retour
+Sont vous payez mes soins ? Suivi de ma famille,
+Dois-je venir ici vous présenter ma fille,
+Vous priant à genoux de vouloir l'accepter ?
+Si tu te l'es promis, tu n'as qu'à décompter.
+Ma fille vaut bien peu, si l'on ne la demande.
+Je te baise les mains, et je me recommande à ta grandeur.
+Adieu.
+
+**** *book_ *id_IV10 *act_IV *date_1732
+
+-*who_lecomte
+      Que ces gens inconnus sont fiers !
+Voilà l'orgueil de tous nos parvenus.
+C'est peu qu'à leurs grands biens notre gloire
+S'immole, il faut, pour les avoir, fléchir devant l'idole.
+Ah ! Maudite fortune, à quoi me réduis-tu ?
+Si tes coups redoublés ne m'ont point abattu,
+Veux-tu m'humilier par l'appât des richesses,
+Et n'a-t-on tes faveurs qu'à force de bassesses ?
+
+**** *book_ *id_V01 *act_V *date_1732
+
+-*who_lisette
+Oh çà, mademoiselle, expliquons-nous un peu,
+Nous pouvons librement nous parler en ce lieu.
+
+-*who_isabelle
+Et sur quoi, s'il vous plaît ?
+
+-*who_lisette
+      Votre mère apaisée
+À vos tendres désirs paraît moins opposée.
+Vous pouvez espérer d'épouser votre amant.
+Mais, loin de témoigner ce doux ravissement
+Que vous devez sentir sur le point d'être heureuse,
+Je ne vous vis jamais si triste et si rêveuse.
+
+-*who_isabelle
+Il est vrai.
+
+-*who_lisette
+      Vous vouliez le comte pour époux ;
+Son amour à vos yeux s'est signalé pour vous ;
+Il vous a demandée ; et cette âme si fière
+Vient de plier enfin.
+
+-*who_isabelle
+      Mais de quelle manière ?
+De ses soumissions la choquante froideur,
+Son souris dédaigneux, son air fier et moqueur,
+Son silence affecté, tout me faisait comprendre
+Que son cour jusqu'à nous avait peine à descendre.
+Mon père avec ardeur sollicitait pour lui ;
+À peine de deux mots lui prêtait-il l'appui ;
+Et, sans votre crédit sur l'esprit de mon frère,
+Qui s'est servi du sien pour ramener ma mère,
+Le comte a si bien fait que tout était rompu.
+Pour cacher mon dépit j'ai fait ce que j'ai pu.
+Mais plus de cet instant j'occupe ma pensée,
+Plus je sens que j'en suis vivement offensée.
+Pour un cour délicat quel triste événement !
+
+-*who_lisette
+Si bien que votre amour est mort subitement ?
+
+-*who_isabelle
+Il est bien refroidi.
+
+-*who_lisette
+      Parlez en conscience.
+N'entre-t-il point ici quelque peu d'inconstance ?
+
+-*who_isabelle
+Vous me connaissez mal.
+
+-*who_lisette
+      Oh ! Que pardonnez-moi,
+Et, s'il faut s'expliquer ici de bonne foi...
+
+-*who_isabelle
+Eh bien ?
+
+-*who_lisette
+      D'aucun roman, à ce que j'imagine,
+Vous ne pourrez jamais devenir l'héroïne.
+
+-*who_isabelle
+Croyez-vous m'amuser quand vous me plaisantez ?
+
+-*who_lisette
+Je ne plaisante point, je dis vos vérités.
+Le soupçon d'un défaut vous trouble et vous alarme ;
+Dès qu'il est confirmé, votre cour se gendarme.
+Trop de délicatesse est un autre défaut,
+Dont vous serez punie, et peut-être trop tôt.
+
+-*who_isabelle
+Le comte me désole à chaque occasion.
+
+-*who_lisette
+Quoi ! Pour un peu de gloire et de présomption ?
+C'est là ce qui fait voir la grandeur de son âme.
+Il est fier à présent ; mais devenez sa femme,
+L'amant fier deviendra mari tendre et soumis.
+
+-*who_isabelle
+Un espoir si flatteur peut-il m'être permis ?
+
+**** *book_ *id_V02 *act_V *date_1732
+
+-*who_lisette
+Vous voilà bien rêveur ?
+
+-*who_valere
+      Et j'ai sujet de l'être.
+Aux yeux de mon ami je n'ose plus paraître.
+J'ai servi son rival. Je ne puis m'empêcher,
+Même devant vous deux, de me le reprocher.
+C'est une trahison dont j'étais incapable
+Si l'amour n'eût voulu que j'en fusse coupable.
+
+-*who_lisette
+Vous vous en repentez ?
+
+-*who_valere
+      Je m'en repentirais,
+Si je vous aimais moins. Mais enfin je voudrais
+Que vous déclarassiez le motif qui vous porte
+À marquer pour le comte une amitié si forte.
+
+-*who_lisette
+Ce motif est très juste, et, quand vous l'apprendrez,
+Bien loin de m'en blâmer, vous m'en applaudirez.
+
+-*who_valere
+Je le veux croire ainsi ; mais daignez m'en instruire.
+
+-*who_lisette
+Je l'ignorais tantôt, et ne pouvais le dire.
+Je le sais à présent, et ne le dirai point.
+
+-*who_valere
+Pourquoi vous obstiner à me cacher ce point ?
+Quoi ! Faut-il qu'un amant vous trouve si discrète ?
+
+-*who_isabelle
+Mais c'est donc tout de bon que vous aimez Lisette ?
+
+-*who_valere
+Je l'aime, et m'en fais gloire.
+
+-*who_isabelle
+      Un tel attachement
+Prouve mieux que jamais votre discernement.
+Mais quel en est l'objet ? Quelle est votre espérance ?
+
+-*who_lisette
+Souffrez que là-dessus nous gardions le silence.
+
+-*who_isabelle
+J'y veux bien consentir, et me fais cet effort,
+Jusqu'à ce que l'on ait décidé de mon sort.
+
+-*who_valere
+Il est tout décidé.
+
+-*who_isabelle
+      Juste ciel !
+
+-*who_valere
+      Et mon père,
+Pour dicter le contrat, est chez notre notaire.
+
+-*who_isabelle
+Ma mère n'y met plus aucun empêchement ?
+
+-*who_valere
+Non, et vous me devez un si prompt changement.
+
+**** *book_ *id_V03 *act_V *date_1732
+
+-*who_lisimon
+Ça, réjouissons-nous. Enfin, vaille que vaille,
+L'ennemi se soumet. J'ai gagné la bataille ;
+Le champ m'est demeuré. Je craignais un éclat ;
+Mais votre mère enfin va signer le contrat.
+Elle a banni Philinte, et j'attends le notaire
+Pour terminer enfin cette importante affaire.
+Excepté quelques points dont il faut convenir,
+Je ne prévois plus rien qui pût nous retenir.
+Tu seras dès ce soir madame la comtesse, ma fille.
+
+-*who_isabelle
+Dès ce soir ?
+
+-*who_lisimon
+      Sans délai.
+
+-*who_isabelle
+      Rien ne presse.
+Cette affaire mérite un peu d'attention ;
+Et j'ai fait sur cela quelque réflexion.
+
+-*who_lisimon
+Quelque réflexion ? Comment ! Mademoiselle,
+Allez-vous nous donner une scène nouvelle,
+Et vous dédire ici, comme vous avez fait
+Sur cinq ou six projets qui n'ont point eu d'effet ?
+Pensez-vous que le comte entende raillerie,
+Et soit homme à souffrir votre bizarrerie ?
+
+-*who_valere
+Mais, mon père, après tout...
+
+-*who_lisimon
+      Mais après tout, mon fils,
+Croyez-vous que d'un fat j'écoute les avis ?
+Quoi donc ! J'aurai su faire un miracle incroyable
+En rendant aujourd'hui ma femme raisonnable
+(Chose qu'on n'a point vue, et qu'on ne verra plus),
+Et mes enfants rendront mes travaux superflus ?
+Un chef-d'oeuvre si beau deviendrait inutile ?
+Non, parbleu. Gardez-vous de m'échauffer la bile,
+Ou vous aurez sujet de vous en repentir,
+Et mon juste courroux se fera ressentir.
+
+-*who_lisette
+Voilà parler, monsieur, en père de famille.
+Courage ! Disposez enfin de votre fille :
+Ne l'abandonnez plus à ses réflexions ;
+C'est à vous à trancher dans ces occasions.
+
+-*who_isabelle
+Quoi ! Lisette ?...
+
+-*who_lisette
+      Monsieur a prononcé l'oracle :
+À l'accomplissement rien ne peut mettre obstacle.
+S'il vous destine au comte, il faut que ce dessein
+S'exécute en dépit de tout le genre humain.
+
+-*who_lisimon
+Cette fille me charme. Oui, ma chère Lisette,
+Tiens, sois un peu moins sage, et tu seras parfaite.
+L'avis est bon.
+
+-*who_lisimon
+      Le tien vient de m'édifier ;
+Et je veux t'embrasser pour te remercier.
+
+-*who_lisette
+Réservez, s'il vous plaît, cette tendre saillie
+Jusqu'à ce que je sois une fille accomplie.
+
+-*who_lisimon
+J'attendrais trop longtemps. Il faut absolument
+Que ma reconnaissance éclate en ce moment.
+
+-*who_valere
+Vous vous échaufferez, prenez garde, mon père.
+
+-*who_lisimon
+Monsieur le médecin, ce n'est pas votre affaire.
+Que je m'échauffe ou non, vous aurez la bonté
+De ne vous plus charger du soin de ma santé.
+Je crois que ce coquin est jaloux de Lisette,
+Et je soupçonne entre eux quelque intrigue secrète.
+Je veux m'en éclaircir. Sachons un peu...
+
+-*who_valere
+      Voici
+Votre notaire.
+
+-*who_lisimon
+      Ah ! Bon ! Non, non, demeure ici.
+Dans un petit moment nous compterons ensemble.
+
+**** *book_ *id_V04 *act_V *date_1732
+
+-*who_lisimon
+Approche, Monsieur Josse.
+
+-*who_monsieurjosse
+      Est-ce ici qu'on s'assemble ?
+
+-*who_lisimon
+Oui.
+
+-*who_monsieurjosse
+      Lisons ma minute. À trois articles près,
+Monsieur, j'ai stipulé vos communs intérêts.
+C'est donc là la future ?
+
+-*who_lisimon
+      À peu près. C'est ma fille.
+
+-*who_monsieurjosse
+Voilà de quoi former une belle famille.
+Où donc est le futur ?
+
+-*who_isabelle
+      Je n'en sais encor rien.
+
+-*who_monsieurjosse
+Comment ! Se faire attendre ? Oh ! Cela n'est pas bien ;
+Et vous méritez fort...
+
+-*who_lisimon
+      Le voici qui s'avance.
+Assieds-toi, Monsieur Josse ; et nous, prenons séance.
+
+**** *book_ *id_V05 *act_V *date_1732
+
+-*who_monsieurjosse
+Par-devant...
+
+-*who_lisimon
+      Écoutez.
+
+-*who_monsieurjosse
+      Les conseillers du roi,
+Notaires soussignés, furent présents...
+
+-*who_lisimon
+      Eh quoi !
+Vous ne vous tairez point ? Est-il temps que l'on cause ?
+Valère, ici. Laissez cette fille, et pour cause.
+
+-*who_monsieurjosse
+Votre nom, s'il vous plaît, vos titres, votre rang :
+Je ne les savais point ; ils sont restés en blanc.
+
+-*who_lecomte
+Je vais vous les dicter. N'oubliez rien, de grâce.
+Vous avez pour cela laissé bien peu de place.
+
+-*who_monsieurjosse
+La marge y suppléera. Voyez quelle largeur !
+
+-*who_lecomte
+Écrivez donc. Très haut et très puissant seigneur...
+
+-*who_monsieurjosse
+Monsieur, considérez qu'on ne se qualifie...
+
+-*who_lecomte
+Point de raisonnements, je vous le signifie.
+
+-*who_monsieurjosse
+Et très puissant seigneur...
+
+-*who_lecomte
+      Monseigneur Carloman,
+Alexandre, César, Henry, Jules, Armand,
+Philogène, Louis...
+
+-*who_monsieurjosse
+      Oh ! Quelle kyrielle !
+Ma foi, sur tant de noms ma mémoire chancelle !
+Philogène, Louis... après ?
+
+-*who_lecomte
+      De Mont-Sur-Mont.
+
+-*who_monsieurjosse
+Sur-Mont.
+
+-*who_lecomte
+      Chevalier...
+
+-*who_monsieurjosse
+      Lier.
+
+-*who_lecomte
+      Continuez. Baron
+De Montorgueil.
+
+-*who_monsieurjosse
+      Orgueil.
+
+-*who_lecomte
+      Bon ! Marquis de Tufière.
+
+-*who_lisimon
+Quoi ! Vous êtes marquis ?
+
+-*who_lecomte
+      Proprement, c'est mon père.
+Mais, comme après sa mort j'aurai ce marquisat,
+J'en prends d'avance ici le titre en mon contrat.
+
+-*who_lisimon
+C'est bien fait, mon garçon ; la chose t'est permise.
+Je te fais compliment, madame la marquise.
+
+-*who_monsieurjosse
+Est-ce tout ?
+
+-*who_lecomte
+      Comment tout ? Seigneur...
+
+-*who_monsieurjosse
+      Et caetera.
+Cette tirade-là jamais ne finira.
+
+-*who_lecomte
+Mettez "et autres lieux", en très gros caractère.
+
+-*who_isabelle
+En lettres d'or.
+
+-*who_lisette
+      Paix donc !
+
+-*who_isabelle
+      Je ne saurais me taire.
+Je ne puis me prêter à tant de vanité.
+
+-*who_lisette
+C'est le faible commun des gens de qualité.
+Leurs titres bien souvent font tout leur patrimoine.
+
+-*who_monsieurjosse
+À vous présentement, monsieur. Messire Antoine
+Lisimon...
+
+-*who_lecomte
+      Antoine !
+
+-*who_lisimon
+      Oui.
+
+-*who_lecomte
+      Quoi ! C'est là votre nom ?
+Antoine ! Est-il possible ?
+
+-*who_lisimon
+      Eh ! Parbleu, pourquoi non ?
+
+-*who_lecomte
+Ce nom est bien bourgeois !
+
+-*who_lisimon
+      Mais pas plus que les autres ;
+Je crois que mon patron valait bien tous les vôtres.
+
+-*who_lecomte
+Passons, monsieur, passons. Vos titres. C'est le point
+dont il s'agit ici.
+
+-*who_lisimon
+      Qui, moi ? Je n'en ai point.
+
+-*who_lecomte
+Comment donc ? Vous n'avez aucune seigneurie ?
+
+-*who_lisimon
+Ah ! Je me souviens d'une. Écrivez, je vous prie.
+Antoine Lisimon, écuyer.
+
+-*who_lecomte
+      Rien de plus ?
+
+-*who_lisimon
+Et seigneur suzerain... d'un million d'écus.
+
+-*who_lecomte
+Vous vous moquez, je crois ? L'argent est-il un titre ?
+
+-*who_lisimon
+Plus brillant que les tiens. Et j'ai dans mon pupitre
+Des billets au porteur dont je fais plus de cas
+Que de vieux parchemins, nourriture des rats.
+
+-*who_monsieurjosse
+Il a raison.
+
+-*who_lecomte
+      Pour moi, je tiens que la noblesse...
+
+-*who_monsieurjosse
+Oh ! Nous autres bourgeois, nous tenons pour l'espèce.
+Çà, stipulons la dot.
+
+-*who_lisimon
+      Le gendre que je prends
+M'engage à la porter à neuf cent mille francs.
+
+-*who_monsieurjosse
+Voilà pour la future un titre magnifique,
+Et qui soutiendra bien votre noblesse antique.
+
+-*who_lecomte
+Monsieur le garde-note, oui, l'argent nous soutient ;
+Mais nous purifions la source dont il vient.
+
+-*who_monsieurjosse
+Et quel douaire aura l'épouse contractante ?
+
+-*who_lecomte
+Quel douaire, monsieur ? Vingt mille francs de rente.
+
+-*who_lisette
+Mon frère est magnifique. En tout cas, je sais bien
+Que, s'il donne beaucoup, il ne s'engage à rien.
+
+-*who_monsieurjosse
+Sur quoi l'assignez-vous ?
+
+-*who_lisimon
+      Oui.
+
+-*who_lecomte
+      Sur la baronnie
+De Montorgueil.
+
+-*who_monsieurjosse
+      Voilà votre affaire finie.
+
+-*who_lisimon
+Signons donc maintenant. La noce se fera
+Aussitôt qu'à Paris ton père arrivera.
+
+-*who_lecomte
+Mon père, dites-vous ? Il ne faut point l'attendre.
+Jamais en ce pays il ne pourra se rendre.
+La goutte le retient au lit depuis six mois.
+
+-*who_lisette
+Mon frère, en vérité, ment fort bien quelquefois.
+
+-*who_lecomte
+Mais nous irons le voir après le mariage.
+
+-*who_lisimon
+Avec bien du plaisir je ferai le voyage.
+
+**** *book_ *id_V06 *act_V *date_1732
+
+-*who_lecomte
+Ah ! Le voici lui-même. Ô ciel ! Quel incident !
+
+-*who_lisimon
+Que voulez-vous ? Parbleu, c'est monsieur l'intendant.
+
+-*who_lycandre
+Je viens savoir, mon fils...
+
+-*who_valereetisabelle
+      Son fils !
+
+-*who_lecomte
+      Je meurs de honte.
+
+-*who_lisimon
+Vous m'aviez donc trompé ? Répondez, mon cher Comte.
+
+-*who_lecomte
+Eh quoi ! Dans cet état osez-vous vous montrer ?
+
+-*who_lycandre
+Superbe, mon aspect ne peut que t'honorer.
+Mon arrivée ici t'alarme et t'importune ;
+Mais apprends que mes droits vont devant ta fortune.
+Rends-leur hommage, ingrat, par un plus tendre accueil.
+
+-*who_lecomte
+Eh ! Le puis-je, au moment... ?
+
+-*who_lisimon
+      Baron de Montorgueil,
+C'est donc là ce superbe et brillant équipage
+Dont tu faisais tantôt un si bel étalage ?
+
+-*who_lycandre
+L'état où je parais et sa confusion
+D'un excessif orgueil sont la punition.
+Je la lui réservais. Je bénis ma misère,
+Puisqu'elle t'humilie et qu'elle venge un père.
+Ah ! Bien loin de rougir, adoucis mes malheurs.
+Parle, reconnais-moi.
+
+-*who_isabelle
+      Vous voilà tout en pleurs,
+Lisette ?
+
+-*who_lisette
+      Vous allez en apprendre la cause.
+
+-*who_lycandre
+Je vois qu'à ton penchant ta vanité s'oppose.
+Mais je veux la dompter. Redoute mon courroux,
+Ma malédiction, ou tombe à mes genoux.
+
+-*who_lecomte
+Je ne puis résister à ce ton respectable. Eh bien !
+Vous le voulez, rendez-moi méprisable.
+Jouissez du plaisir de me voir si confus.
+Mon cour, tout fier qu'il est, ne vous méconnaît plus.
+Oui, je suis votre fils, et vous êtes mon père.
+Rendez votre tendresse à ce retour sincère.
+Il me coûte assez cher pour avoir mérité
+D'éprouver désormais toute votre bonté.
+
+-*who_lisimon
+Il a, ma foi, raison. Par ce qu'il vient de faire,
+Je jurerais, morbleu, que vous êtes son père.
+
+-*who_lycandre
+En sondant votre cour, j'ai frémi, j'ai tremblé.
+Mais, malgré votre orgueil, la nature a parlé.
+Qu'en ce moment pour moi ce triomphe a de charmes !
+Je dois donc maintenant terminer vos alarmes,
+Oublier vos écarts qui sont assez punis.
+Mon fils, rassurez-vous. Nos malheurs sont finis.
+Le ciel, enfin pour nous devenu plus propice,
+A de mes ennemis confondu la malice.
+Notre auguste monarque, instruit de mes malheurs
+Et des noirs attentats de mes persécuteurs,
+Vient par un juste arrêt de finir ma misère.
+Il me rend mon honneur ; à vous il rend un père
+Rétabli dans ses droits, dans ses biens, dans son rang,
+Enfin dans tout l'éclat qui doit suivre mon sang.
+J'en reçois la nouvelle. Et ma joie est extrême
+De pouvoir à présent vous l'annoncer moi-même.
+
+-*who_lecomte
+Qu'entends-je ? Juste ciel ! Fortune, ta faveur
+Au mérite, aux vertus, égale le bonheur ;
+Oui, tu me rends mes biens, mon rang et ma naissance,
+Et j'en ai désormais la pleine jouissance.
+
+-*who_lycandre
+Devenez plus modeste en devenant heureux.
+
+-*who_lisimon
+C'est bien dit. Je vous fais compliment à tous deux.
+Je n'ai pas attendu ce que je viens d'apprendre
+Pour choisir votre fils en qualité de gendre,
+Parce qu'à l'orgueil près il est joli garçon.
+Voici notre contrat ; signez-le sans façon.
+
+-*who_lycandre
+Quoique notre fortune ait bien changé de face,
+De vos bontés pour lui je dois vous rendre grâce ;
+Et, pour m'en acquitter encor plus dignement,
+Je prétends avec vous m'allier doublement.
+
+-*who_lisimon
+Comment ?
+
+-*who_lycandre
+      Pour votre fils je vous offre ma fille.
+
+-*who_valere
+Je suis perdu.
+
+-*who_lisimon
+      L'honneur est grand pour ma famille.
+Très agréablement vous me voyez surpris.
+J'accepte le projet. Mais est-elle à Paris,
+Votre fille ?
+
+-*who_lycandre
+      Sans doute. Approchez-vous, Constance,
+Et recevez l'époux...
+
+-*who_lisimon
+      Vous vous moquez, je pense ?
+C'est Lisette.
+
+-*who_lycandre
+      Ce nom a causé votre erreur.
+Venez, ma fille. Comte, embrassez votre sour.
+
+-*who_lisimon
+Sa sour, femme de chambre ?
+
+-*who_lycandre
+      Une telle aventure
+Des jeux de la fortune est une preuve sûre.
+Grâce au ciel, votre sour est digne de son sang.
+Sa vertu, plus que moi, la remet dans son rang.
+
+-*who_valere
+Quel heureux dénouement ! Je vais mourir de joie.
+
+-*who_isabelle
+Je prends part au bonheur que le ciel vous envoie.
+
+-*who_lisette
+En me reconnaissant, confirmez mon bonheur.
+
+-*who_lecomte
+Je m'en fais un plaisir. Je m'en fais un honneur.
+
+-*who_lisimon
+Et moi, de mon côté, je veux que ma famille
+Puisse donner un rang sortable à votre fille :
+Car avec de l'argent on acquiert de l'éclat ;
+Et je suis en marché d'un très beau marquisat,
+Dont je veux que mon fils décore sa future.
+Dès ce soir, Monsieur Josse, il faudra le conclure.
+Allez voir le vendeur ; et que demain mon fils
+Ne se réveille point sans se trouver marquis.
+Êtes-vous satisfait ?
+
+-*who_lecomte
+      On ne peut davantage.
+
+-*who_lisimon
+Bon ! Nous allons donc faire un double mariage.
+
+-*who_isabelle
+Mon cour parle pour vous ; mais je crains vos hauteurs.
+
+-*who_lecomte
+L'amour prendra le soin d'assortir nos humeurs,
+Comptez sur son pouvoir ; que faut-il pour vous plaire ?
+Vos goûts, vos sentiments, feront mon caractère.
+
+-*who_lycandre
+Mon fils est glorieux ; mais il a le cour bon.
+Cela répare tout.
+
+-*who_lisimon
+      Oui, vous avez raison.
+Et, s'il reste entiché d'un peu de vaine gloire,
+Avec tant de mérite on peut s'en faire accroire.
+
+-*who_lecomte
+Non, je n'aspire plus qu'à triompher de moi ;
+Du respect, de l'amour, je veux suivre la loi.
+Ils m'ont ouvert les yeux ; qu'ils m'aident à me vaincre.
+Il faut se faire aimer, on vient de m'en convaincre ;
+Et je sens que la gloire et la présomption
+N'attirent que la haine et l'indignation.

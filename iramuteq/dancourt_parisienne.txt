@@ -1,0 +1,1588 @@
+
+
+**** *book_ *id_I01 *act_I *date_1691
+
+-*who_damis
+Hem, hem, hem.
+
+-*who_lavigne
+Voilà une mauvaise espèce de rhume.
+
+-*who_damis
+Quand cette toux me tient une fois, j'ai toutes les peines du monde à m'en défaire.
+
+-*who_lavigne
+Cependant vous êtes jeune, et la force du tempérament…,
+
+-*who_damis
+Oui, je suis jeune : mais je suis presque toujours enrhumé.
+Hem, hem.
+
+-*who_lavigne
+Cela n'est rien, Monsieur, et le mariage vous tirera d'affaire ; il faut qu'il emporte le rhume, ou que le rhume vous emporte, il n'y a pas de milieu.
+Entrez chez votre jeune maîtresse, puisque vous y voici ; sa présence seulement, peut-être, adoucira l'aigreur de votre rhume.
+
+-*who_damis
+Au contraire, il augmente encore quand je me trouve auprès d'elle ; et comme elle est simple, ingénue, innocente enfin, chaque fois que je tousse, elle me fait de grandes révérences, comme si j'éternuais ; j'ai beau lui dire, elle n'en démord point, et cela me fait enrager.
+
+-*who_lavigne
+C'est une fille qui sait vivre.
+
+-*who_damis
+Elle n'a pas d'esprit, et c'est ce qui me la fait épouser plutôt qu'une autre ; car enfin, il faut que je me marie.
+Hem, hem ; et je sens bien que je suis né pour la société.
+
+-*who_lavigne
+Vous avez raison.
+À votre âge, le moyen de demeurer veuf !
+
+-*who_damis
+Mon fils est à l'armée malgré moi, c'est un libertin, un évaporé, qui n'en reviendra pas ; et cela m'oblige en conscience de me marier, pour faire souche, et pour ne pas laisser périr la famille.
+
+-*who_lavigne
+Vos intentions sont bonnes, il en sera ce qui pourra.
+
+-*who_damis
+Va-t-en donner le bonjour de ma part à cette belle enfant.
+
+-*who_lavigne
+Venez le lui donner vous-même.
+
+-*who_damis
+Non, je vais achever de tousser chez mon Notaire.
+Dis à Madame Olimpe que je l'y attends, pour signer le contrat, ainsi que nous en sommes convenus.
+Hem, hem : va vite.
+Hem, hem.
+
+**** *book_ *id_I02 *act_I *date_1691
+
+-*who_lavigne
+Le pauvre bonhomme, avec son envie de faire souche !
+Il est bien pressé de faire le voyage de l'autre monde.
+Tant pis pour lui, c'est son affaire, et la mienne est de pousser ma pointe auprès de la servante ; elle est jeune et jolie, et le mariage ne sera mortel ni pour elle ni pour moi.
+
+-*who_eraste
+Quelle fatalité !
+
+-*who_lavigne
+J'entends quelqu'un : entrons, et voyons d'abord ma maîtresse ; j'aurai du temps de reste pour parler à celle de mon maître.
+
+**** *book_ *id_I03 *act_I *date_1691
+
+-*who_lolive
+Le voilà bien fâché ?
+
+-*who_eraste
+Ah que les enfants sont malheureux, dont les pères sont déraisonnables !
+
+-*who_lolive
+Que les valets sont misérables, dont les maîtres sont amoureux !
+
+-*who_eraste
+Quelle extravagance de m'être éloigné de Paris, pour m'en aller à l'armée !
+
+-*who_lolive
+Quelle sagesse, d'avoir quitté l'armée pour revenir à Paris !
+
+-*who_eraste
+Je suis né sous une planète bien malheureuse !
+
+-*who_lolive
+L'affaire est touchante, je l'avoue.
+
+-*who_eraste
+Fils d'un père puissamment riche…
+
+-*who_lolive
+Il nous réduit par sa vilenie à vivre d'emprunt et de savoir faire.
+
+-*who_eraste
+Oh !
+Je lui passe son avarice.
+
+-*who_lolive
+Quelle bonté !
+
+-*who_eraste
+Mais pour le désespoir où il a réduit mon amour, je ne puis le lui pardonner.
+
+-*who_lolive
+C'est une chose impardonnable, vous avez raison.
+
+-*who_eraste
+En visitant une parente dans un couvent, j'y trouve une jeune personne toute charmante, toute adorable.
+
+-*who_lolive
+Vous en devenez passionnément amoureux.
+
+-*who_eraste
+Pouvais-je ne le pas devenir ?
+
+-*who_lolive
+Bon, le moyen de s'en empêcher : j'en serais devenu fou, moi.
+
+-*who_eraste
+Je lui rends des respects, et des soins.
+
+-*who_lolive
+Y a-t-il rien de plus naturel ?
+
+-*who_eraste
+Elle est sensible à ma tendresse, et j'obtiens d'elle la permission de la demander en mariage.
+
+-*who_lolive
+Tout allait fort bien jusques-là.
+
+-*who_eraste
+Je propose la chose à mon père.
+
+-*who_lolive
+Ici, cela commence à mal aller.
+
+-*who_eraste
+Il refuse d'y consentir.
+
+-*who_lolive
+Il y a de la malice dans son fait : car de raison il n'y en a point.
+
+-*who_eraste
+Désespéré de ses refus, je me jette aux pieds d'Angélique ; je la conjure de sortir du Couvent, et de m'épouser en secret.
+
+-*who_lolive
+Sans la crainte de sa mère, c'était une affaire faite : mais ce sont d'incommodes personnes que ces mères, et surtout quand les filles sont timides.
+
+-*who_eraste
+Enfin, outré de rage et de désespoir, je vais en Italie, attendre le moment favorable de pouvoir disposer de moi sans le consentement de mon père.
+
+-*who_lolive
+Ce moment favorable est venu, vous voilà majeur ; et c'est grand dommage que vous ne trouviez plus votre maîtresse.
+
+-*who_eraste
+Qu'est-elle devenue, mon pauvre l'Olive. ?
+
+-*who_lolive
+Ne vous l'a-t-on pas dit ?
+Sa mère l'a fait sortir du couvent, sans lui donner le temps de dire adieu à personne.
+On l'a vue depuis dans ce quartier, et peut-être y demeure-t-elle.
+
+-*who_eraste
+Je ne serai point assez heureux pour l'y rencontrer.
+
+-*who_lolive
+Pourquoi non ?
+Il est bon de n'avoir rien à se reprocher.
+Çà voyons, par où commencerons-nous ?
+
+-*who_eraste
+Demeure ici, promène-toi aux environs de ce quartier, et tâche d'apprendre des nouvelles, par le moyen de quelques personnes du voisinage.
+
+-*who_lolive
+Laissez-moi faire.
+
+-*who_eraste
+Pour moi, je retourne au couvent m'informer de quelques particularités que mon trouble et mon chagrin m'ont fait oublier de demander.
+
+-*who_lolive
+Vous attendrai-je ici ?
+
+-*who_eraste
+Si tu découvres quelque chose, viens au plus vite me le dire.
+
+**** *book_ *id_I04 *act_I *date_1691
+
+-*who_lolive
+Il est à plaindre, et je conçois que c'est une triste occupation que celle de courir après sa maîtresse.
+Il n'en est pas de même d'une femme ; et plût au Ciel que pendant notre voyage d'Italie, la mienne, qui ne sait ce que je suis devenu, se fut mis en tête de quitter Paris !
+Je ne la chercherais pas où je croirais la pouvoir trouver.
+Mais qu'est-ce ci ?
+Voilà, je crois, le valet du père de mon Maître.
+D'où sort-il, et que cherche-t-il dans un quartier si éloigné ?
+
+**** *book_ *id_I05 *act_I *date_1691
+
+-*who_lavigne
+Pense que c'est l'Olive !
+
+-*who_lolive
+Il m'a vu, tenons bonne contenance.
+
+-*who_lavigne
+Hé bonjour, Monsieur de l'Olive.
+Et depuis quand de retour ?
+Je te croyais dans le fond de l'Italie !
+
+-*who_lolive
+Paix, ne fais pas semblant de me voir, je suis ici incognito.
+
+-*who_lavigne
+Que diantre veux-tu dire, avec ton incognito ?
+
+-*who_lolive
+Ah, mon pauvre garçon, que la jeunesse est extravagante !
+
+-*who_lavigne
+La vieillesse ne l'est pas mal aussi.
+
+-*who_lolive
+Assurément ; et le bonhomme, surtout, est un étrange personnage.
+
+-*who_lavigne
+C'est le plus beau fou qu'on ait jamais vu.
+
+-*who_lolive
+Il ne lui manquait plus, quand nous partîmes, que de devenir amoureux, pour être un petit modèle de perfection.
+
+-*who_lavigne
+Il est donc parfait, rien ne lui manque.
+
+-*who_lolive
+Est-il possible !
+
+-*who_lavigne
+Que ton Maître n'apprenne rien de ceci, au moins.
+
+-*who_lolive
+Fi, est-ce ce que je lui dis jamais ce que je ne veux pas qu'il sache ?
+Ne crains rien.
+
+-*who_lavigne
+Son père a pris le temps de son absence pour se marier.
+
+-*who_lolive
+Ah le débauché, qui contracte un mariage clandestin !
+Et quelle malheureuse veut être la femme d'un homme de soixante et quatre ans, infirme, goutteux, avare, et de mauvaise humeur, comme lui ?
+
+-*who_lavigne
+C'est une petite personne, qui n'a pas encore apparemment l'esprit de réfléchir sur ce qu'on lui fait faire, et qui dépend d'une mère qui la force à ce mariage.
+
+-*who_lolive
+Ah !
+Quel meurtre !
+Et tu souffres cela, toi ?
+Tu n'as pas de conscience.
+
+-*who_lavigne
+La chose n'est pas encore conclue.
+Il y a dans le logis une certaine fille de chambre, qui n'est pas contente d'un assortiment si bizarre, et qui prendra soin des intérêts de la petite fille en dépit d'elle-même.
+
+-*who_lolive
+Ma foi, je lui en sais bon gré.
+Il faut que ce soit une fille d'honneur que cette fille-là.
+C'est ta maîtresse à toi, apparemment ?
+
+-*who_lavigne
+Belle demande !
+Cela peut-il être autrement ?
+
+-*who_lolive
+Elle est éprise de ton mérite ?
+
+-*who_lavigne
+Je t'en réponds.
+Nous attendons, pour nous épouser, le certificat de la mort d'un mari qu'elle avait.
+S'il vient, à la bonne heure ; s'il ne vient pas, on s'en passera.
+
+-*who_lolive
+Cela est de fort bon sens.
+Et est-ce là le logis ?
+
+-*who_lavigne
+Justement.
+Demeure ici quelque temps, tu pourras y voir entrer notre vieil Adonis.
+
+-*who_lolive
+Non, je craindrais qu'il me vît, et nous ne voulons pas mon Maître et moi qu'il nous sache ici.
+
+-*who_lavigne
+C'est-à-dire qu'il y a quelques amourettes en campagne.
+
+-*who_lolive
+Ne va pas nous trahir, au moins.
+
+-*who_lavigne
+Je n'ai garde.
+Ne parle pas de ce que je t'ai dit.
+
+-*who_lolive
+N'ayez point d'inquiétude.
+
+-*who_lavigne
+Allons avertir le bonhomme que son fils est à Paris.
+
+-*who_lolive
+Courons apprendre à mon Maître l'extravagance de son père.
+
+**** *book_ *id_I06 *act_I *date_1691
+
+-*who_lisette
+Ah double chien !
+C'est toi ; je te trouve à la fin, après t'avoir si longtemps cherché ?
+
+-*who_lolive
+On ne peut éviter son malheur : c'est ma femme.
+
+-*who_lisette
+Qu'as-tu fait, infâme, depuis que tu as tout déménagé de chez moi ?
+
+-*who_lolive
+Hé bien !
+Qu'est-ce mon enfant ?
+De quoi s'agit-il ?
+Si tu prétends crier, je m'en vais.
+
+-*who_lisette
+Non, traître, tu ne m'échapperas pas.
+
+-*who_lolive
+Parlons donc sans nous emporter, je vous prie.
+
+-*who_lisette
+Comment, coquin, sans nous emporter ?
+
+-*who_lolive
+Oui, j'aime le sens froid, moi.
+
+-*who_lisette
+Je ne sais qui me tient…
+
+-*who_lolive
+Oh, oh, oh, si nous ne parlons doucement, la conversation finira mal, je vous en avertis.
+
+-*who_lisette
+Abandonner ainsi sa femme !
+
+-*who_lolive
+Me voilà retrouvé ; de quoi te plains-tu ?
+
+-*who_lisette
+Me laisser sur le pave, comme une malheureuse !
+
+-*who_lolive
+Hé bien, ai-je une meilleure fortune ?
+Qu'as-tu à dire ?
+
+-*who_lisette
+Me réduire à la nécessité de me mettre en condition !
+
+-*who_lolive
+Le grand malheur !
+Est-ce que je ne sers pas aussi ?
+Où demeures-tu ?
+Çà, voyons, il faut faire une fin, et je suis las du libertinage.
+
+-*who_lisette
+Tu fais le railleur, mais…
+
+-*who_lolive
+Non, je te parle de bonne foi.
+Où demeures-tu, te dis-je ?
+Es-tu dans tes meubles ?
+
+-*who_lisette
+Où je demeure ?
+Je sers dans ce logis, où j'ai de la peine et du chagrin tout ce qu'on en peut avoir.
+
+-*who_lolive
+Où dis-tu ?
+
+-*who_lisette
+Dans cette maison.
+
+-*who_lolive
+Oui ?
+Ah, ah !
+Par ma foi, j'en suis fort aise.
+Et Monsieur de la Vigne, comment le gouvernez-vous, je vous prie ?
+
+-*who_lisette
+Monsieur de la Vigne !
+
+-*who_lolive
+Vraiment, ma petite femme, ma mie, vous êtes une jolie personne.
+
+-*who_lisette
+Que veux-tu dire ?
+
+-*who_lolive
+Et le certificat, ma Princesse, quand deviez-vous l'avoir ?
+
+-*who_lisette
+Il faut qu'il soit sorcier.
+
+-*who_lolive
+Je vous en dois de reste, vraiment, et c'était à bonne intention que vous cherchiez de mes nouvelles.
+
+-*who_lisette
+Oh, sans emportement, je vous prie ; j'aime le sens froid aussi bien que vous.
+
+-*who_olimpe
+Lisette ?
+
+-*who_lisette
+On m'appelle : tu es bienheureux que je n'aie pas le temps de te faire expliquer.
+
+-*who_lolive
+Hé, va, va, nous aurons du temps de reste, il suffit que je sache où te trouver.
+
+**** *book_ *id_I07 *act_I *date_1691
+
+-*who_olimpe
+À qui parlais-tu là, Lisette.
+
+-*who_lisette
+C'est un de mes cousins, Madame, qui m'est venu dire des nouvelles de ma tante.
+
+-*who_olimpe
+Que fait ma fille ?
+Et pourquoi n'es-tu point auprès d'elle ?
+
+-*who_lisette
+Elle m'a dit de la laisser seule.
+Elle est triste ; et je crois que pour la réjouir un peu, il lui faudrait une autre compagnie que la mienne.
+
+-*who_olimpe
+Non, tout le monde lui déplaît, c'est le couvent qui lui a donné cet engourdissement de cœur et d'esprit, qui la rend insensible à tout.
+
+-*who_lisette
+Cela pourrait être ; mais, elle court risque d'être longtemps engourdie, et ce ne sera pas le mari que vous lui destinez, qui la tirera de son engourdissement, sur ma parole.
+Un homme de soixante et cinq ans épouser une fille de seize !
+Et où est la symétrie, Madame ?
+
+-*who_olimpe
+Il ne s'en donne que cinquante, Lisette.
+
+-*who_lisette
+C'est un fripon, Madame, il s'en dérobe plus d'une douzaine.
+Mais, quand il ne s'en volerait point, de bonne foi, est-ce à une fille comme elle qu'il faut donner un homme comme lui ?
+Que diantre voulez-vous qu'elle en fasse ?
+
+-*who_olimpe
+Eh, que veux-tu qu'elle devienne ?
+Je l'aime, et je ne cherche point à la contraindre ; mais, je n'ai point de bien à lui donner ; et cette inégalité d'âge, qui se trouve entre Monsieur Damis et elle, lui fera d'autant moins de peine, qu'elle n'a point encore assez d'esprit pour faire des réflexions.
+
+-*who_lisette
+Oui ; mais l'esprit vient aux filles, comme vous savez : elle réfléchira dans la suite, et ces réflexions tardives mènent quelquefois à de très dangereuses conséquences.
+Et qui sait si elle n'a point déjà quelque secrète inclination ?
+
+-*who_olimpe
+Cela ne se peut ; elle sort d'un Couvent où elle n'a jamais vu personne.
+
+-*who_lisette
+Elle soupire, elle pleure, et ne dit mot ; ce sont de grands préjugés.
+
+-*who_olimpe
+Mais, qui pourrait l'empêcher de me découvrir ses pensées ?
+
+-*who_lisette
+Les jeunes filles ne sont point libres avec leurs mères, Madame ; et la crainte de paraître quelquefois un peu trop formées pour leur âge, gâte toutes leurs affaires.
+
+-*who_olimpe
+Ma fille est encore si simple et si fort innocente, que le nom même de l'Amour est un terme inconnu pour elle.
+Elle n'a pas d'esprit, te dis-je.
+
+-*who_lisette
+Et, mort de ma vie, Madame, ce n'est pas l'esprit qui donne de l'amour, c'est l'amour qui fait venir de l'esprit.
+Ne précipitez point les choses, Madame ; on vous attend chez le Notaire, allez-y, mais ne signez rien.
+La voici ; laissez-moi seule avec elle, je la ferai parler, ou elle aura perdu la parole.
+
+-*who_olimpe
+Hé bien, tâche de pénétrer ses pensées, et songe à mon retour à m'en rendre compte.
+
+**** *book_ *id_I08 *act_I *date_1691
+
+-*who_lisette
+Dans quelle rêverie la voilà plongée !
+Je suis toujours pour ce que j'en ai dit ; elle a quelque amourette en tête.
+
+-*who_angelique
+Que je suis malheureuse !
+Je n'ose confier mes chagrins à personne, et je serai peut-être la victime de ma timidité.
+
+-*who_lisette
+Sa cervelle est plus embarrassée que la mienne.
+
+-*who_angelique
+Ah, Lisette, que fais-tu là ?
+
+-*who_lisette
+Je vous regardais en pitié ; car, je suis fort humaine, moi ; et je ne puis souffrir les personnes, que je n'aie une passion extraordinaire de les soulager.
+
+-*who_angelique
+Ah, Ciel !
+
+-*who_lisette
+Vous allez pleurer ; je m'en vais.
+Et de quoi vous sert-il de gémir, de soupirer ?
+On ne sait point au juste ce que cela veut dire.
+Parlez, on vous entendra ; et je répondrais quasi, moi, de donner bon ordre à ce qui vous chagrine.
+
+-*who_angelique
+Et que veux-tu que je te dise ?
+
+-*who_lisette
+Ce que vous pensez.
+
+-*who_angelique
+Je ne pense rien.
+
+-*who_lisette
+Ce sont des contes : à votre âge, il n'y a point de filles qui ne pensent quelque chose.
+
+-*who_angelique
+Je ne suis pas comme les autres.
+
+-*who_lisette
+Ouais ; mais voici un étrange endurcissement !
+Vous me soupçonnez apparemment d'être indiscrète, c'est ce qui vous empêche de me déclarer vos petits sentiments ; mais je vous avertis que je les devine, et qu'il ne tient qu'à moi…
+
+-*who_angelique
+Si tu les devines, Lisette, pourquoi me les demandes-tu ?
+
+-*who_lisette
+Pour en avoir l'aveu de votre propre bouche, et pour être en droit de vous offrir mes petits services.
+
+-*who_angelique
+Et quels services me voudrais-tu rendre, Lisette ?
+
+-*who_lisette
+Tous ceux dont vous auriez besoin.
+
+-*who_angelique
+Mais encore ?
+
+-*who_lisette
+Mais, par exemple…
+
+-*who_angelique
+Quoi, par exemple ?
+
+-*who_lisette
+Si ce mariage bizarre que votre mère s'est mis en tête vous faisait peine, on trouverait des moyens pour le rompre.
+
+-*who_angelique
+Et quels moyens pourrait-on trouver ?
+
+-*who_lisette
+Mais par exemple, si vous avez quelque autre vue, et que vous m'en fissiez confidence…
+
+-*who_angelique
+Hé bien, que ferais-tu pour moi ?
+
+-*who_lisette
+Voulez-vous encore un exemple ?
+
+-*who_angelique
+Oui, oui, tes exemples sont tout à fait justes.
+
+-*who_lisette
+D'accord ; mais les choses mêmes sont plus sensibles.
+Allons, ne craignez point de m'ouvrir votre cœur, j'aime mieux vous interroger.
+Vous aimez quelqu'un apparemment, et ce serait une chose honteuse que vous n'aimassiez personne à votre âge ; je me moquerais de cous la première, si vous ne saviez pas ce que c'est que l'amour.
+
+-*who_angelique
+Oh, je le sais, ne t'en moque point.
+
+-*who_lisette
+Ah, bon cela, voilà qui me plaît.
+J'aime les personnes de bonne foi : expliquez-moi donc bien toutes choses, et ne me cachez rien surtout.
+
+-*who_angelique
+Mais, interroge-moi donc, Lisette, si tu veux que je réponde.
+
+-*who_lisette
+Il n'y a rien de plus juste ; c'est un grand secours pour la pudeur, au moins.
+Premièrement, vous aimez quelque jeune homme, je gage ?
+
+-*who_angelique
+Tu l'as deviné.
+C'est Éraste.
+
+-*who_lisette
+Fort bien, Éraste !
+Voilà d'abord un nom qui m'intéresse : Éraste, il a de l'esprit cet Éraste !
+
+-*who_angelique
+Je n'en ai point assez pour m'y connaître.
+
+-*who_lisette
+Il vous en viendra, donnez-vous patience.
+
+-*who_angelique
+Ah, si j'en puis avoir, je m'en servirai bien, je t'en réponds.
+
+-*who_lisette
+Vous ne manquerez point de matière.
+Revenons à Éraste, vous l'aimez beaucoup ?
+
+-*who_angelique
+Oui, je l'aime ; mais je n'ai point de ses nouvelles.
+
+-*who_lisette
+Comment ?
+
+-*who_angelique
+Il est à l'armée.
+Et pour n'être point la femme de Monsieur Damis…
+
+-*who_lisette
+Hé bien ?
+
+-*who_angelique
+Tu ne m'interroges point sur ce que j'ai de plus pressant à te dire ?
+
+-*who_lisette
+Est-ce que pendant son absence vous avez fait quelque autre amant ?
+
+-*who_angelique
+Tu devines encore ; mais je suis bien embarrassée, ma pauvre Lisette.
+
+-*who_lisette
+Çà, de quoi s'agit-il ?
+Voyons.
+
+-*who_angelique
+J'ai donné ici un rendez-vous à Dorante.
+
+-*who_lisette
+Ah !
+L'heureux petit naturel.
+Et qu'est-ce que Dorante ?
+Est-il de robe, officier, ou courtisan ?
+Car, il faut qu'un amant soit quelque chose.
+
+-*who_angelique
+Il n'est de robe que les matins ; et les soirs, il porte une épée.
+
+-*who_lisette
+Fort bien.
+
+-*who_angelique
+Sa sœur était avec moi dans le couvent, et c'est elle qui m'a priée de l'aimer.
+
+-*who_lisette
+Quand deux filles sont bonnes amies, elles ont peine à se refuser.
+
+-*who_angelique
+Non, sans l'absence d'Éraste, je ne l'aurais jamais aimé.
+
+-*who_lisette
+Les absents ont toujours tort, elle a raison.
+Mais enfin, que puis-je faire pour vous ?
+
+-*who_angelique
+J'ai aussi fait dire à Lisimon qu'il pouvait venir.
+
+-*who_lisette
+Encore un rendez-vous ?
+Les belles dispositions de fille !
+
+-*who_angelique
+C'est ce qui m'inquiète, et je crains qu'ils ne viennent tous deux en même temps.
+
+-*who_lisette
+Et pourquoi ne leur pas marquer des heures différentes ?
+
+-*who_angelique
+Que veux-tu ?
+Je n'y ai pas songé ; et la crainte d'être Madame Damis me trouble si fort l'imagination, que je ne sais ce que je fais.
+Mais le temps et les réflexions m'empêcheront dans la suite de faire de fausses démarches.
+
+-*who_lisette
+Voilà une petite personne qui ira loin, sur ma parole.
+
+-*who_angelique
+Que dis-tu ?
+
+-*who_lisette
+Moi ?
+Je dis que je vous servirai de tout mon cœur, et que je vous en donne ma parole.
+
+-*who_angelique
+Je ne serai pas malheureuse, si tu ne m'abandonnes pas.
+
+-*who_lisette
+Vous abandonner ?
+Vous valez trop ; et je ne vous quitterai de ma vie.
+
+**** *book_ *id_I09 *act_I *date_1691
+
+-*who_lolive
+Oui, votre père va se marier, ce n'est point un conte.
+
+-*who_eraste
+Hé, qu'il se marie mille fois ; que m'importe, pourvu que je retrouve ce que j'ai perdu ?
+
+-*who_angelique
+Voici quelqu'un, rentrons au logis.
+
+-*who_lisette
+C'est peut-être Dorante ?
+
+-*who_angelique
+Non, ce n'est pas lui.
+Mais, que vois-je ?
+
+-*who_eraste
+Mon pauvre l'Olive, c'est Angélique !
+
+-*who_lolive
+Hé, parbleu oui, c'est elle-même.
+
+-*who_angelique
+Ma chère Lisette, c'est Éraste !
+
+-*who_lisette
+Éraste !
+Et qu'allons-nous faire des deux autres ?
+
+-*who_lolive
+Qu'avez-vous donc ?
+Êtes-vous muet ?
+
+-*who_eraste
+Donne-moi le temps de respirer.
+
+-*who_lisette
+Est-ce que vous avez perdu la parole ?
+
+-*who_angelique
+Je me meurs, soutiens-moi.
+
+-*who_lolive
+Morbleu, voilà des gens qui s'aiment.
+
+-*who_lisette
+Tu es un bon traître, toi ; et tu m'aimes d'une belle manière.
+
+-*who_lolive
+Je t'aimais autrefois ; mais le certificat m'a corrigé.
+
+-*who_angelique
+Hé, d'où venez-vous, Éraste ?
+Qui vous a mandé qu'on m'allait marier ?
+
+-*who_eraste
+On va vous marier, Madame !
+Ah, juste Ciel !
+Quelle aventure met le comble à mon désespoir.
+
+-*who_lolive
+Attendez, attendez, Monsieur, ne nous pressons point de nous désespérer, l'aventure n'est point si terrible.
+Premièrement, c'est Monsieur votre père qui est votre rival.
+
+-*who_eraste
+Mon père !
+
+-*who_lolive
+Lui-même.
+La Vigne m'a tout conté ; il allait épouser ma femme, lui.
+
+-*who_lisette
+Que veux-tu dire ?
+
+-*who_angelique
+Lisette est ta femme ?
+
+-*who_lolive
+Oui, Madame.
+Et si elle peut faire en sorte que vous deveniez celle de mon Maître, je lui pardonnerai d'avoir eu dessein de n'être plus la mienne.
+Vous voyez ce que je fais pour votre service.
+
+-*who_eraste
+Ma chère enfant, ne nous abandonne pas !
+
+-*who_angelique
+Dorante et Lisimon vont venir, Lisette.
+
+-*who_lolive
+Songe à m'apaiser ; car, selon toutes les règles, je dois être fort en colère.
+
+-*who_lisette
+Suivez-moi dans le logis, et reposez-vous sur mon petit savoir-faire.
+
+-*who_eraste
+Mais enfin, que résolvez-vous ?
+
+-*who_angelique
+Faites ce qu'elle vous dit, et me laissez seule disposer de certaines choses qui achèveront de me déterminer.
+Enferme-les dans mon cabinet, et viens me retrouver ici.
+
+-*who_eraste
+Mais, que je sache…
+
+-*who_lisette
+Allons, passez vite, nous n'avons point de temps à perdre.
+
+-*who_lolive
+Songe à expier l'affaire du certificat, au moins.
+
+-*who_lisette
+Bon, bon, voilà une belle bagatelle, tu es bienheureux que j'aie eu la patience de l'attendre.
+
+**** *book_ *id_I10 *act_I *date_1691
+
+-*who_angelique
+En vérité, c'est pourtant une chose embarrassante, que plusieurs amants à la foi ; et si j'avais pu compter sur le retour d'Éraste, je n'aurais point donné de rendez-vous à Dorante et à Lisimon.
+Une fille d'esprit ne tomberait point dans ces inconvénients ; mais, il me semble, pour moi, que dans l'incertitude, il est toujours bon de ne pas manquer faute de précaution.
+Hé bien, Lisette ?
+
+**** *book_ *id_I11 *act_I *date_1691
+
+-*who_lisette
+Ils sont dans votre cabinet.
+
+-*who_angelique
+Les as-tu enfermés ?
+
+-*who_lisette
+Ils ne peuvent sortir sans mon congé.
+Mais, pourquoi les tenir sous la clef, je vous prie ?
+Craignez-vous qu'ils vous échappent une seconde fois ?
+
+-*who_angelique
+Dorante va venir, et je suis bien aise d'être sûre qu'Éraste ne pourra rien entendre de notre conversation.
+
+-*who_lisette
+Quoi !
+Vous prétendez les ménager…
+
+-*who_angelique
+Nullement.
+Je ne songeais à Dorante que depuis l'absence d'Éraste.
+Éraste est de retour, il m'aime, je n'ai plus que faire de Dorante.
+
+-*who_lisette
+Avec tout cela, il y a une espèce de fidélité dans cette manière d'inconstance.
+Et Lisimon, que deviendra-t-il ?
+
+-*who_angelique
+Fi, c'est un Gascon, un extravagant, que je ne souffrais que parce que je ne comptais pas trop sur Dorante.
+
+-*who_lisette
+Voici quelqu'un.
+
+-*who_angelique
+C'est Dorante : tâchons de nous en débarrasser avant que Lisimon survienne.
+
+-*who_lisette
+Hé, dites-lui naturellement les choses : faut-il tant de ménagement pour un soupirant du Palais ?
+
+-*who_angelique
+Non, Lisette ; Fais la Gouvernante incommode, c'est un moyen sûr pour faire bientôt finir la conversation.
+
+-*who_lisette
+Ma foi, vive Paris : l'esprit ne vient point si vite aux filles de Province.
+
+**** *book_ *id_I12 *act_I *date_1691
+
+-*who_dorante
+Enfin, Madame, je m'arrache aux affaires les plus importantes, pour ne pas perdre le moment favorable de vous exprimer.
+
+-*who_angelique
+Je suis exacte, comme vous voyez ; mais ne parlez pas devant cette fille, elle redit tout à ma mère.
+
+-*who_dorante
+Quelle contrainte !
+Toujours obsédée d'une mère ou de ses surveillants.
+
+-*who_lisette
+Monsieur, si c'est Madame Olimpe que vous demandez, c'est à moi qu'il faut parler, s'il vous plaît ; si c'est Mademoiselle, c'est encore à moi.
+
+-*who_dorante
+On ne peut donc manquer en s'adressant à vous ?
+Et je suis ravi d'avoir occasion…
+
+-*who_lisette
+Ah !
+Fort bien, j'entends votre affaire : il n'est pas besoin de me dire à qui des deux vous en voulez.
+Mademoiselle, prendrai-je la bourse ?
+
+-*who_angelique
+Garde-toi bien de le faire.
+
+-*who_dorante
+Que dites-vous ?
+
+-*who_angelique
+Que vous me perdez, Dorante.
+
+-*who_dorante
+Ma chère enfant !
+Soyez discrète, je ne vous demande pas autre chose.
+
+-*who_lisette
+Elle paraît fort bien garnie.
+
+-*who_dorante
+Plaît-il ?
+
+-*who_angelique
+Cette fille n'est point traitable, Dorante.
+
+-*who_lisette
+Le Ciel me préserve de l'être, j'aimerais mieux mourir ; c'est à mes soins qu'on vous a confiée, et je ne prétends pas qu'il soit dit dans le monde…
+
+-*who_dorante
+Hé, ne faites point de bruit, je vous en conjure, et gardez cela pour l'amour de moi.
+
+-*who_lisette
+Il m'en prie de si bonne grâce…
+
+-*who_angelique
+Es-tu folle ?
+
+-*who_lisette
+Fi, Monsieur, cela n'est ni beau ni honnête à un homme de robe, de vouloir séduire de jeunes personnes.
+Pour les gens d'épée, encore passe.
+Mais, vous autres !
+Des défenseurs de la vertu, des protecteurs de l'innocence, sont les premiers à la corrompre !
+Allez, encore une fois cela n'est pas bien, et le Justice est injuste de n'en pas faire quelque punition exemplaire.
+
+-*who_dorante
+Mais vraiment, c'est une espèce de folle que votre gouvernante.
+
+-*who_lisette
+Comment folle !
+Je suis un dragon de vertu, entendez-vous ?
+
+-*who_angelique
+Adieu, je trouverai moyen de vous donner de mes nouvelles.
+
+-*who_dorante
+Vous me le promettez.
+
+-*who_lisette
+Oh, finissons donc.
+Adieu.
+Adieu, Monsieur, adressez-vous mieux une autre fois, et souvenez-vous que Lisette est une petite personne incorruptible.
+
+-*who_dorante
+L'incommode chose qu'une fille de chambre honnête fille !
+On est bien heureux qu'elles soient rares.
+
+-*who_angelique
+Ah !
+Lisette, je crains que voici Lisimon.
+Dorante et lui vont se rencontrer, et je tremble qu'ils ne se querellent.
+
+-*who_lisette
+Il faut faire entrer Dorante au logis, jusqu'à ce que vous ayez congédié Lisimon.
+
+-*who_angelique
+St, st, Dorante ?
+
+-*who_lisette
+Hé la, la, revenez.
+Je ne suis pas si mauvaise que je pensais l'être.
+
+-*who_dorante
+En vérité, vous êtes bien méchante.
+
+-*who_lisette
+Ce n'est pas en faveur de la bourse, au moins.
+
+-*who_dorante
+Elle est à vous.
+
+-*who_lisette
+Je ne la prends pas ; mais, je vous la garde.
+Entrez vite dans le logis, et montez tout en haut de l'escalier, on ira bientôt vous en faire des cendre.
+Ce sont de bonnes gens que ces Messieurs de la Justice, les femmes en font tout ce qu'elles veulent.
+
+**** *book_ *id_I13 *act_I *date_1691
+
+-*who_angelique
+As-tu perdu l'esprit, Lisette, d'avoir accepté la bourse de Dorante ?
+
+-*who_lisette
+Je ne sais comment cela s'est fait.
+Mais, votre Lisimon ne vient point ; apparemment, c'est la crainte de le voir qui vous a fait croire l'avoir vu.
+
+-*who_angelique
+Non, le voici, je ne me trompe point, c'était lui-même.
+
+-*who_lisette
+Mort de ma vie !
+Celui-ci n'a pas la physionomie si traitable que l'autre.
+
+**** *book_ *id_I14 *act_I *date_1691
+
+-*who_lisimon
+Diantre soit fait des importuns !
+Deux petits collets, maltraités du Lansquenet, Madame, qui depuis un quart d'heure m'arrêtent à cent pas d'ici, et pour quoi.
+Pour de l'argent, que je suis fat de leur prêter ; mais, il n'importe.
+Vous y perdez autant que moi, la belle.
+Ils vous ont volée ; et sans savoir vous trouver ici, je vous avais destiné ma bourse.
+
+-*who_lisette
+Oh, Monsieur…
+
+-*who_lisimon
+Je dis vrai, la peste m'étouffe.
+Hé bien, Madame, me voilà, que devenons-nous ?
+J'ai du bien, je suis d'une noblesse distinguée, et d'une profession à mériter quelque jour des emplois très considérables, apprentif Maréchal de France.
+Je vous adore ; vous m'aimez !
+Eh, croyez-moi, déclarons-nous.
+Il faudrait que votre maman eût perdu l'esprit pour ne pas consentir à ce mariage.
+
+-*who_lisette
+Il n'a pas mauvaise opinion de sa petite personne.
+
+-*who_angelique
+Lisette, ma mère va bientôt rentrer, prends garde à ne point nous laisser surprendre.
+
+-*who_lisette
+Ma foi, Mademoiselle, je ne réponds de rien.
+Le plus sûr serait de vous séparer, et de prendre le temps d'une plus longue absence, pour vous entretenir avec plus de loisir.
+
+-*who_angelique
+Elle a raison, je rentre ; vous avez trop tardé, je crains que ma mère ne nous surprenne ensemble.
+
+-*who_lisimon
+Hé ; fi ; les mères d'aujourd'hui ne sont pas si à craindre que vous le dites.
+
+-*who_lisette
+Oh ; il y a des mères et des mères, Monsieur ; et la seule vue d'un plumet, ou d'un justaucorps rouge, ferait prendre à celle-ci des résolutions terribles contre sa fille.
+
+-*who_lisimon
+La pauvre Dame : elle n'est donc pas de ce monde ?
+Juger des gens par les habits !
+Hé, cadédis, les plus modestes ne sont pas les moins dangereux.
+Mais, parlons net ; car, je suis homme de réflexion ; cette mère que l'on craint tant, on ne la craint pas sans sujet.
+Dites, ai-je quelque rival qui se serve du pouvoir maternel, pour se faire épouser par force ?
+N'hésitez point à me le dire, il n'en mourra pas, je vous en réponds.
+Je suis prudent, et je n'aime pas les affaires : ses deux oreilles me suffiront.
+
+-*who_lisette
+Il n'y a rien de plus honnête, et vous jugez bien qu'après une assurance de la sorte, on ne vous ferait pas mystère de la chose.
+
+-*who_angelique
+Ah !
+Qu'il y a dans le monde des personnages dangereux, Lisette !
+
+-*who_lisette
+Ce n'est que l'expérience qui apprend à les connaître.
+
+-*who_lisimon
+Vous hésitez à me répondre, et vous allez aux opinions.
+Le vent du bureau n'est pas bon pour moi ; mais je n'ai qu'une bagatelle à représenter.
+Je suis endiablé d'amour pour vous, et je ne suis pas seul, sans doute.
+Dans quelque moment de dépit contre un plus fortuné que moi, vous avez tantôt reçu mon message, et vous avez dit, oui, qu'il vienne.
+Ce dépit est passé, vous enragez d'avoir topé.
+Je comprends la chose à merveille ; mais, je le connaîtrai, ce fortuné : et il me sera garant de tout, sur mon honneur.
+
+-*who_lisette
+Voilà Monsieur Damis.
+
+-*who_angelique
+Ah, Ciel !
+
+-*who_lisimon
+Quoi ?
+Qu'est-ce ?
+Qu'avez-vous ?
+
+**** *book_ *id_I15 *act_I *date_1691
+
+-*who_damis
+Un jeune homme avec Angélique !
+
+-*who_lavigne
+Ne toussez pas, vous les effaroucheriez.
+
+-*who_angelique
+Ma pauvre Lisette !
+
+-*who_lisimon
+Mon ressentiment vous émeut, c'est quelque chose.
+Adieu, Madame, je vous abandonne à vos réflexions.
+Je porte une épée, et le pistolet quelquefois.
+Tombe sur moi, le Firmament, si le drôle ne meurt de ma main.
+
+**** *book_ *id_I16 *act_I *date_1691
+
+-*who_lavigne
+Rassurez-vous, ce ne sont point des douceurs qu'il lui dit.
+
+-*who_lisette
+Il a entendu toute la fin de la conversation.
+
+-*who_angelique
+À la bonne heure.
+Ah, Monsieur, vous voilà !
+Si vous étiez venu quelque moment plutôt, vous auriez eu, comme moi, une frayeur épouvantable.
+
+-*who_damis
+Que vous est-il donc arrivé ?
+Parlez.
+
+-*who_angelique
+Donnez-moi le temps de me remettre, je vous prie.
+
+-*who_damis
+Comment ?
+Qu'est-ce que cette aventure, Lisette ?
+
+-*who_lisette
+Ce que c'est ?
+Demandez, demandez-lui à elle-même, elle vous contera mieux la chose que je ne pourrais faire.
+
+-*who_damis
+Hé bien ?
+
+-*who_angelique
+Je viens de sauver la vie à un jeune homme qu'on a pensé tuer à mes yeux.
+
+-*who_damis
+Comment diantre ?
+
+-*who_lisette
+Où ceci nous mènera-t-il ?
+
+-*who_angelique
+Heureusement, j'ai eu le temps de le faire sauver dans le logis.
+
+-*who_damis
+Vous avez fort bien fait.
+
+-*who_lisette
+La petite rusée !
+
+-*who_angelique
+Sans mon secours, c'était un homme mort infailliblement.
+
+-*who_lisette
+Il était impossible qu'il en réchappât.
+
+-*who_angelique
+Le ciel vous a conduit ici bien heureusement pour achever ce que nous avons commencé.
+
+-*who_damis
+Comment ?
+
+-*who_angelique
+Il faut, s'il vous plaît, Monsieur, que vous serviez d'escorte à ce pauvre garçon, et que vous ne le quittiez qu'il ne soit en lieu sûr ?
+
+-*who_damis
+En lieu de sûreté ?
+
+-*who_angelique
+Oui, Monsieur, je vous en conjure.
+
+-*who_lisette
+La fourberie est bien naturelle aux filles.
+
+-*who_damis
+Lieu de sûreté ?
+Mais, puisqu'il est chez vous, qu'il y demeure : à quoi bon s'exposer mal à propos ?
+
+-*who_angelique
+Comment, Monsieur, qu'il y demeure !
+Ah, Ciel !
+Un homme caché dans le logis sans l'aveu de ma mère !
+Non, Monsieur, et je vous prie bien fort qu'elle ne sache rien de tout ceci.
+
+-*who_damis
+La pauvre enfant, sa simplicité me charme !
+
+-*who_lisette
+Elle est sur toutes ces bagatelles, d'un scrupule qui surpasse l'imagination.
+
+-*who_damis
+Allez, allez, mignonne, il n'y a point de mal à cela, et je rendrai compte à votre mère de l'innocence de votre procédé.
+
+-*who_angelique
+Hé, de grâce, si vous m'aimez, ne me refusez point ce que je vous demande.
+J'ai mille raisons pour le souhaiter.
+
+-*who_lisette
+Allons, Monsieur, un peu de complaisance pour elle ; les jeunes filles des choses les plus innocentes.
+Je vais le faire sortir.
+
+-*who_damis
+Allons donc, puisqu'il faut que j'en passe par là.
+
+-*who_lavigne
+Tu nous en donnes furieusement à garder.
+
+-*who_lisette
+Tais-toi, sur les yeux de ta tête.
+
+-*who_lavigne
+Je suis bon Prince.
+Et le certificat ?
+
+-*who_lisette
+Il est arrivé ; mais sois sage.
+
+**** *book_ *id_I17 *act_I *date_1691
+
+-*who_angelique
+Vous voilà devenu rêveur, qu'avez-vous ?
+
+-*who_damis
+Moi ?
+Je n'ai rien.
+Mais, je songe que vous me faites faire une corvée bien inutile, et un personnage qui ne convient guères à mon âge.
+Moi !
+Servir d'escorte à un jeune homme !
+
+-*who_lavigne
+Il serait plus naturel qu'il vous en servît ; mais, à la pareille.
+La première fois qu'on voudra vous tuer…
+
+-*who_damis
+La Vigne ?
+
+-*who_lavigne
+Monsieur.
+
+-*who_damis
+Ne me quitte pas, au moins.
+
+-*who_lavigne
+Je n'ai garde.
+J'escorte l'escorte, moi.
+
+**** *book_ *id_I18 *act_I *date_1691
+
+-*who_lisette
+Au moins, en chemin faisant, n'allez pas oublier qu'elle vous a sauvé la vie, et que vous êtes avec un Oncle qui n'entend point de raison sur le chapitre de sa nièce.
+
+-*who_dorante
+Mais, quand puis-je espérer…
+
+-*who_lisette
+Laissez-moi faire.
+
+-*who_dorante
+Je ne sais, Madame, comment reconnaître l'important service…
+
+-*who_lisette
+Encore ?
+Hé, trêve de cérémonie.
+Emmenez-les, Monsieur de la Vigne, ils se complimenteront en chemin.
+
+-*who_lavigne
+Elle a raison ; puisque c'est une chose qu'il faut faire, dépêchons d'en être quittes.
+Que Monsieur marche le premier, vous le suivrez ; et moi, je ferai l'arrière-garde.
+
+-*who_dorante
+Adieu, Madame.
+
+-*who_damis
+Ne t'éloigne pas.
+
+-*who_lavigne
+Ne vous mettez pas en peine.
+Voilà un bel ordre de bataille.
+
+**** *book_ *id_I19 *act_I *date_1691
+
+-*who_lisette
+Enfin, nous voilà débarrassées de tous nos importuns.
+Mais, Madame votre mère ne tardera pas à revenir, que ferons-nous de nos prisonniers ?
+Il faut se déterminer à quelque chose.
+
+-*who_angelique
+C'est ici que j'ai besoin de tes conseils, ma chère Lisette.
+Tu sais…
+
+-*who_lisette
+Oui, je sais bien les conseils qu‘il vous faut.
+Madame votre mère est bonne personne, déclarez-lui la tendresse que vous sentez pour Éraste, pleurez, priez, embrassez ses genoux, elle n'aura jamais la force de résister à vos larmes.
+
+-*who_angelique
+Et moi, je n'aurai jamais celle de lui faire un pareil aveu.
+
+-*who_lisette
+Hé bien, je parlerai : avouez-moi de ce que je lui dirai seulement.
+Elle vient : voilà la clef de votre cabinet, allez entretenir votre amant, et me laissez le soin de vos affaires.
+
+**** *book_ *id_I20 *act_I *date_1691
+
+-*who_lisette
+Vivat, Madame !
+J'ai pénétré les secrets de Mademoiselle votre fille, je sais la cause de ses chagrins ; et si vous êtes toujours dans les sentiments de ne la point contraindre, vous en ferez la plus heureuse personne du monde.
+
+-*who_olimpe
+Tu dis, Lisette ?
+
+-*who_lisette
+Qu'elle hait Monsieur Damis en perfection, et que si jamais elle est sa femme, elle a, Dieu merci, tout l'esprit pour le punir terriblement de l'avoir épousée par force.
+
+-*who_olimpe
+Tu me dis là des choses de ma fille !…
+
+-*who_lisette
+Oh, Madame, c'est en tout bien et en tout honneur, qu'elle a de l'esprit.
+Qu'on lui donne un mari qu'elle aime, je suis caution de sa vertu ; mais, avec Monsieur Damis, je ne répondrais, ma foi, pas de la mienne.
+
+-*who_olimpe
+Fais-la descendre, Lisette, je veux savoir ses sentiments de sa propre bouche.
+
+-*who_lisette
+Mais, Madame, malgré tout son esprit, elle aura peine à s'expliquer, si vous ne l'enhardissez un peu.
+
+-*who_olimpe
+Qu'elle vienne, je ferai ce qu'il faudra faire.
+
+-*who_lisette
+Les choses sont en bon chemin.
+
+**** *book_ *id_I21 *act_I *date_1691
+
+-*who_olimpe
+La résolution en est prise : je n'autoriserai point ma fille à manquer à ce qu'elle doit ; et si quelque jour elle n'est pas contente, elle ne m'accusera pas du moins d'avoir sacrifié son repos à mon entêtement, ou à l'avarice.
+
+**** *book_ *id_I22 *act_I *date_1691
+
+-*who_lavigne
+Hé bien, Monsieur, nous en voilà revenus, et nous avons fait une bonne action à peu de frais, comme vous voyez.
+
+-*who_damis
+Tais-toi, voici Madame Olimpe.
+Je vous ai longtemps attendu chez mon notaire, Madame ; mais, l'impatience…
+
+-*who_olimpe
+Vous sortiez de chez lui quand j'y ai passé ; mais, ce que je viens d'apprendre me console de ne vous y avoir pas trouvé.
+
+-*who_damis
+Et qu'avez-vous appris, Madame ?
+
+-*who_olimpe
+Vous allez tout savoir.
+Vous êtes un galant homme, et vous prendrez les choses du bon côté.
+
+-*who_lavigne
+Voilà un discours qui veut dire quelque chose, et qui ne veut rien dire de bon.
+
+**** *book_ *id_I23 *act_I *date_1691
+
+-*who_lisette
+Vous n'avez qu'à parler, vous dis-je.
+
+-*who_angelique
+Mais, Lisette.
+
+-*who_olimpe
+Approchez, Angélique, et ne me déguisez rien, vous n'avez point à vous plaindre de mes manières, et je ne vous faisais violence que parce que je ne croyais pas la faire.
+
+-*who_angelique
+Avant que je réponde à toutes vos bontés, permettez-moi, Madame…
+
+-*who_damis
+Qu'est-ce que cette cérémonie, Madame ?
+Je regarde, j'écoute, et je n'y comprends rien.
+
+-*who_angelique
+Monsieur, c'est que je ne vous aime point, et Madame a la bonté de vouloir bien que je vous le dise.
+
+-*who_damis
+Quoi, Madame, vous autorisez un discours de la sorte dans les termes où nous sommes ?
+
+-*who_angelique
+Que voulez-vous, Monsieur ?
+J'ai cru les sentiments de ma fille conformes aux miens, et je me suis trompée.
+Voudriez-vous la rendre malheureuse en forçant son inclination ?
+
+-*who_damis
+Le serait-elle en m'épousant ?
+
+-*who_angelique
+Oh pour cela oui, Monsieur, et je vous jure que nous ne serions contents ni l'un ni l'autre.
+
+-*who_lisette
+Elle a de l'esprit, au moins, cette petite personne ; et si vous l'épousez, je vous garantis qu'il lui en viendra cent fois davantage.
+
+-*who_damis
+Hé bien, à la bonne heure, elle m'en aura obligation.
+
+-*who_lisette
+Oui ; mais, gare la reconnaissance.
+Les filles de Paris la poussent loin quelquefois.
+
+-*who_olimpe
+Vous voyez, Monsieur, que ma fille…
+
+-*who_angelique
+Moi, Madame, je ferai tout ce que vous me commanderez ; mais, je ne conseille pas à Monsieur de souhaiter que vous me commandiez d'être sa femme.
+
+-*who_damis
+La Vigne ?
+
+-*who_lavigne
+Ma foi, Monsieur, si j'étais en votre place, je ne m'y fierais que de la bonne manière.
+
+-*who_angelique
+Je satisferais au devoir de fille, en vous obéissant, Madame ; et je remplirais les devoirs de femme, en donnant à Monsieur tous les chagrins imaginables.
+
+-*who_lavigne
+Monsieur, vous auriez beau tousser, elle ne vous ferait plus de révérences.
+
+-*who_lisette
+Vous vouliez une femme sans esprit, celle-ci n'est point votre affaire.
+
+-*who_angelique
+Pourquoi, Lisette ?
+Ce n'est pas par esprit, c'est par antipathie naturelle que j'ai de la répugnance pour Monsieur.
+
+-*who_lavigne
+De toutes les bonnes qualités, il ne lui est demeuré que de l'ingénuité.
+
+-*who_olimpe
+Après cela, Monsieur, vous voyez bien qu'il n'y a pas d'apparence…
+
+-*who_damis
+Quoi, Madame ?...
+
+-*who_lisette
+Croyez-moi, Monsieur, ne nous réduisez point à la nécessité de vous tromper.
+Vous croiriez n'être que le mari de Mademoiselle, et vous seriez le plus souvent son Maître de cérémonies.
+Par exemple, ce jeune Monsieur que vous venez de conduire si bonnement…
+
+-*who_damis
+Hé bien, ce jeune homme que je viens de conduire ?
+
+-*who_lisette
+C'est un de vos rivaux, l'auriez-vous cru ?
+
+-*who_olimpe
+Comment donc ?
+
+-*who_lisette
+Ne vous effarouchez point, il n'en est rien.
+
+-*who_damis
+Quoi, ce jeune homme est amoureux de vous ?
+
+-*who_angelique
+Oui, Monsieur, et je vous suis fort obligée de la peine que vous avez bien voulu prendre.
+
+-*who_damis
+Ah, je suis enragé, quelle hardiesse !
+
+-*who_lisette
+Oh, ne vous fâchez point, Monsieur, vous n'y êtes pas encore.
+Ce justaucorps rouge qui vous a paru si brutal.
+
+-*who_damis
+Hé bien ?
+
+-*who_lisette
+Autre soupirant de Mademoiselle.
+
+-*who_angelique
+Ne l'auriez-vous pas aussi ramené chez lui, Monsieur, si je vous en avais prié ?
+
+-*who_lisette
+Belle demande !
+C'est le meilleur homme du monde que Monsieur Damis.
+
+-*who_damis
+Oh, parbleu, je vous ferai bien voir le contraire dans la suite.
+
+-*who_lisette
+Il nous reste encore dans le cabinet de Mademoiselle un jeune homme avec son valet de chambre.
+
+-*who_olimpe
+Quoi, ma fille !
+Un homme dans votre cabinet ?
+
+-*who_angelique
+Elle ne sait ce qu'elle dit, Madame.
+
+-*who_damis
+Il faut approfondir cette affaire, Madame, et voir un peu…
+
+-*who_lisette
+Vous verrez un jeune homme, vous dis-je, nouvellement arrivé de l'armée, qui n'a point encore de logis arrêté, à qui Monsieur aura la bonté de donner un appartement chez lui, s'il lui plaît.
+
+-*who_damis
+Qu'est-ce à dire, un appartement chez moi ?
+
+-*who_lisette
+Oui, Monsieur, puisque vous reconduisez les autres, vous ne pouvez moins faire pour celui-ci.
+C'est le véritable, au moins, je vais vous l'amener.
+
+-*who_lavigne
+Cette pièce de cabinet sera quelque chose de fort curieux à voir apparemment.
+
+**** *book_ *id_I24 *act_I *date_1691
+
+-*who_olimpe
+Serait-il possible, ma fille, que vous vous fissiez oubliée jusqu'au point…
+
+-*who_angelique
+Ne me condamnez point avant que de m'entendre, Madame, deux mots suffiront pour me justifier.
+
+-*who_damis
+La peste, quelle innocente !
+Où diantre m'étais-je fourré ?
+
+**** *book_ *id_I25 *act_I *date_1691
+
+-*who_eraste
+Mon père, ce n'est qu'en tremblant que j'ose paraître.
+
+-*who_olimpe
+Son père !
+
+-*who_damis
+Hé vraiment oui, Madame, c'est mon fils.
+
+-*who_lavigne
+Je vous l'avais bien dit, qu'il était revenu.
+
+-*who_olimpe
+Que deviendra tout ceci, Monsieur ?
+
+-*who_damis
+Ce que cala deviendra ?
+
+-*who_lavigne
+Monsieur, vous ne vouliez vous remarier que pour faire souche, et Monsieur votre fils fera mieux souche que vous.
+
+-*who_olimpe
+Quelle est votre résolution, Monsieur ?
+
+-*who_damis
+Ma résolution, Madame, est qu'on les marie, et tout au plus vite, ils seront fort bien ensemble, il n'y aura du moins qu'un ménage de gâté.
+
+-*who_eraste
+Ah, mon père, que je suis redevable !
+
+-*who_damis
+Ne vous pressez point de me remercier, Monsieur mon fils.
+
+-*who_lisette
+Oh, il ne sait pas si bien vivre que vous, et il ne reconduira personne.
+
+-*who_damis
+Tais-toi, insolente.
+On te mettra dehors, toi, et je veux que ce soit le premier article du Contrat.
+
+-*who_eraste
+Puis-je me flatter, Madame…
+
+-*who_olimpe
+Ma fille vous aime, cela me suffit : puissiez-vous être longtemps heureux !
+
+-*who_lolive
+Et nous, Lisette ; à quand la noce ?
+
+-*who_lisette
+Voilà le certificat qui m'est venu, il n'y a rien à faire.
+
+-*who_lolive
+Comment ?
+
+-*who_lavigne
+Oui, mon cher Monsieur de l'Olive, je vous certifie, que grâces au Ciel, je me porte bien ; et que pour mes péchés, c'est là ma femme.
+
+-*who_lolive
+Quoi ?
+C'est ta femme ?
+
+-*who_lavigne
+Oui, mon enfant, et je voudrais bien qu'il me fût permis de m'en défaire en ta faveur, je ferais volontiers les frais de la noce ; je crois ma foi que j'y gagnerais encore.

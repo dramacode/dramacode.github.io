@@ -1,0 +1,1363 @@
+
+
+**** *book_ *id_I01 *act_I *date_1728
+
+-*who_plutus
+J'aperçois Apollon ; il est descendu dans ces lieux pour y faire sa cour à sa nouvelle maîtresse.
+Je m'avisai l'autre jour de lui dire que je voulais en avoir une ; Monsieur le blondin me railla fort ; il me défia d'en être aimé, me traita comme un imbécile, et je viens ici exprès pour souffler la sienne.
+Il ne se doute de rien ; nous allons voir beau jeu.
+Cet aigrefin de dieu qui veut tenir contre Plutus ?
+Contre le dieu des trésors !
+Chut !...
+Le voilà !
+Ne faisons semblant de rien.
+
+**** *book_ *id_I02 *act_I *date_1728
+
+-*who_apollon
+Que vois-je ?
+Je crois que c'est Plutus déguisé en financier.
+Venez donc que je vous embrasse.
+
+-*who_plutus
+Bonjour, bonjour, seigneur Apollon.
+
+-*who_apollon
+Peut-on vous demander ce que vous venez faire ici ?
+
+-*who_plutus
+J'y viens faire l'amour à une fille.
+
+-*who_apollon
+C'est-à-dire, pour parler d'une façon plus convenable, que vous y avez une inclination.
+
+-*who_plutus
+Une fille ou une inclination, n'est-ce pas la même chose ?
+
+-*who_apollon
+Apparemment que la petite contestation que nous avons eue l'autre jour vous a piqué ; vous n'en voulez pas avoir le démenti, c'est fort bien fait.
+Eh !
+Dites-moi, votre maîtresse est-elle aimable ?
+
+-*who_plutus
+C'est un morceau à croquer ; je l'ai vue l'autre jour en traversant les airs, et je veux lui en dire deux mots.
+
+-*who_apollon
+Écoutez, Seigneur Plutus, si elle a l'esprit délicat, je ne vous conseille pas de vous servir avec elle d'expressions si massives : un morceau à croquer ; lui en dire deux mots ; ce style de douanier la rebuterait.
+
+-*who_plutus
+Bon !
+Bon !
+Vous voilà toujours avec votre esprit pindarisé ; je parle net et clair, et outre cela mes ducats ont un style qui vaut bien celui de l'Académie.
+Entendez-vous ?
+
+-*who_apollon
+Ah !
+Je ne songeais pas à vos ducats ; ce sont effectivement de grands orateurs.
+
+-*who_plutus
+Et qui épargnent bien des fleurs de rhétorique.
+
+-*who_apollon
+Je connais pourtant des femmes qu'ils ne persuaderont pas, et je viens, comme vous, voir ici une jolie personne auprès de qui je soupçonne que je ne serais rien, si je n'avais que cette ressource ; votre maîtresse sera peut-être de même.
+
+-*who_plutus
+Qu'elle soit comme elle voudra, je ne m'embarrasse point ; avec de l'argent j'ai tout ce qu'il me faut ; mais qu'est-ce que votre maîtresse à vous ?
+Est-elle veuve, fille, et cætera ?
+
+-*who_apollon
+C'est une fille.
+
+-*who_plutus
+La mienne aussi.
+
+-*who_apollon
+La mienne est sous la direction d'un oncle qui cherche à la marier ; elle est assez riche, et il lui veut un bon parti.
+
+-*who_plutus
+Oh !
+Oh !
+C'est là l'histoire de ma petite brune ; elle est aussi chez un oncle qui s'appelle Armidas.
+
+-*who_apollon
+C'est cela même.
+Nous aimons donc en même lieu, seigneur Plutus ?
+
+-*who_plutus
+Ma foi, j'en suis fâché pour vous.
+
+-*who_apollon
+Ah !
+Ah !
+Ah !
+
+-*who_plutus
+Vous riez, Monsieur le faiseur de madrigaux !
+Déguisé en muguet, vous vous moquez de moi à cause de votre bel esprit et de vos cheveux blonds.
+
+-*who_apollon
+Franchement, vous n'êtes pas fait pour me disputer un coeur.
+
+-*who_plutus
+Parce que je suis fait pour l'emporter d'emblée.
+
+-*who_apollon
+Nous verrons, nous verrons ; j'ai une petite chose à vous dire : c'est que votre belle, je la connais, je lui ai déjà parlé, et, sans vanité, elle est dans d'assez bonnes dispositions pour nous.
+
+-*who_plutus
+Qu'est-ce que cela me fait à moi ?
+J'ai un écrin plein de bijoux qui se moque de toutes ces dispositions-là ; laissez-moi faire.
+
+-*who_apollon
+Je ne vous crains point, mon cher rival ; mais vous savez que voici où loge la belle.
+J'en vois sortir sa femme de chambre, je vais l'aborder, je ne me suis déguisé que pour cela.
+Vous pouvez ici rester, si vous voulez, et lui parler à votre tour ; voyez bien que je suis de bonne composition, quand je ne vois point de danger.
+
+-*who_plutus
+Bon, je le veux bien, abordez, j'irai mon train, et vous le vôtre.
+
+**** *book_ *id_I03 *act_I *date_1728
+
+-*who_apollon
+Bonjour, ma chère Spinette ; comment se porte ta maîtresse ?
+
+-*who_spinette
+Je suis charmée de vous voir de retour, Monsieur Ergaste.
+Pendant votre absence, je vous ai rendu auprès de ma maîtresse tous les petits services qui dépendaient de moi.
+
+-*who_apollon
+Je n'en serai point ingrat, et je t'en témoignerai ma reconnaissance.
+
+-*who_spinette
+J'ai cru que vous disiez que vous alliez me la témoigner.
+
+-*who_plutus
+Eh !
+Donnez-lui quelque madrigal.
+
+-*who_apollon
+Tu ne perdras rien pour attendre, Spinette ; je suis né généreux.
+
+-*who_spinette
+Vous me l'avez toujours dit ; mais, Monsieur, est-ce que vous allez voir Mademoiselle Aminte avec Monsieur que voilà ?
+
+-*who_apollon
+C'est un de mes amis qui m'a suivi, et dont je veux donner la connaissance à Armidas, l'oncle d'Aminte.
+
+-*who_plutus
+Oui, on m'a dit que c'était un si honnête homme, et j'aime tous les honnêtes gens, moi.
+
+-*who_spinette
+C'est fort bien fait, Monsieur.
+Votre ami a l'air bien épais.
+
+-*who_apollon
+Cela passe l'air.
+Mais je te quitte, Spinette ; mon impatience ne me permet pas de différer davantage d'entrer.
+Venez, Monsieur.
+
+-*who_plutus
+Allez toujours m'annoncer.
+Je serais bien aise de causer un moment avec ce joli enfant-ci ; vous viendrez me reprendre.
+
+-*who_apollon
+Soit, vous êtes le maître.
+
+**** *book_ *id_I04 *act_I *date_1728
+
+-*who_spinette
+Peut-on vous demander, Monsieur, ce que vous me voulez ?
+
+-*who_plutus
+Je ne te veux que du bien.
+
+-*who_spinette
+Tout le monde m'en veut, mais personne ne m'en fait.
+
+-*who_plutus
+Oh !
+Ce n'est pas de même ; je ne m'appelle pas Ergaste, moi ; j'ai nom Richard, et je suis bien nommé ; en voici la preuve.
+
+-*who_spinette
+Ah !
+Que cette preuve-là est claire !
+Elle est d'une force qui m'étourdit.
+
+-*who_plutus
+Prends, prends ; si ce n'est pas assez d'une preuve, je ne suis pas en peine d'en donner deux, et même trois.
+
+-*who_spinette
+Vous êtes bien le maître de prouver tant qu'il vous plaira, et s'il ne s'agit que de douter du fait, je douterai de reste.
+
+-*who_plutus
+Voilà pour le doute qui te prend.
+
+-*who_spinette
+Monsieur, munissez-vous encore pour le doute qui me prendra.
+
+-*who_plutus
+Tu n'as qu'à parler ; mais c'est à condition que tu seras de mes amies.
+
+-*who_spinette
+Quel homme est-ce donc que cela ?
+Monsieur, vous demandez, à être de mes amis ; comment l'entendez-vous ?
+Est-ce amourette que vous voulez dire ?
+La proposition ne serait point de mon goût, et je suis fille d'honneur.
+
+-*who_plutus
+Oh !
+Garde ton honneur, ce n'est pas là ma fantaisie.
+
+-*who_spinette
+Ah !...
+Votre fantaisie serait un assez bon goût.
+Mais qu'exigez-vous donc ?
+
+-*who_plutus
+C'est que j'aime ta maîtresse ; je suis riche, un richissime négociant, à qui l'or et l'argent ne coûtent rien, et je voudrais bien n'aimer pas tout seul.
+
+-*who_spinette
+Effectivement, ce serait dommage, et vous méritez bien compagnie ; mais la chose est un peu difficile, voyez-vous !
+Ma maîtresse a aussi un honneur à garder.
+
+-*who_plutus
+Mais cela n'empêche pas qu'on ne s'aime.
+
+-*who_spinette
+Cela est vrai, quand c'est dans de bonnes vues ; mais les vôtres n'ont pas l'air d'être bien régulières.
+Si vous demandiez à vous en faire aimer pour l'épouser, riche comme vous êtes, et de la meilleure pâte d'homme qu'il y ait, à ce qu'il me paraît, je ne doute pas que vous ne vinssiez à bout de votre projet, avec mes soins, à condition que les preuves iront leur chemin, quand j'en aurai besoin.
+
+-*who_plutus
+Tant que tu voudras.
+
+-*who_spinette
+Oh !
+Quel homme !
+Oh ça, est-ce que vous voudriez épouser ma maîtresse ?
+
+-*who_plutus
+Oui-da, je ferai tout ce qu'on voudra, moi.
+
+-*who_spinette
+Fort bien, je vous sers de bon coeur à ce prix-là ; mais Monsieur Ergaste, votre ami, avec qui vous êtes venu, est amoureux d'Aminte, et je crois même qu'il ne lui déplaît pas ; il parle de mariage aussi, il est d'une figure assez aimable, beaucoup d'esprit, et il faudra lutter contre tout cela.
+
+-*who_plutus
+Et moi je suis riche ; cela vaut mieux que tout ce qu'il a ; car je t'avertis qu'il n'a pour tout vaillant que sa figure.
+
+-*who_spinette
+Je le crois comme vous ; car il ne m'a jamais rien prouvé que le talent qu'il a de promettre.
+Armidas a pourtant de l'amitié pour lui ; mais Armidas est intéressé, et vos richesses pourront l'éblouir.
+Ergaste, au reste, se dit un gentilhomme à son aise, et sous ce titre, il fait son chemin tant qu'il peut dans le coeur de ma maîtresse, qui est un peu précieuse, et qui l'écoute à cause de son esprit.
+
+-*who_plutus
+Aime-t-elle la dépense, ta maîtresse ?
+
+-*who_spinette
+Beaucoup.
+
+-*who_plutus
+Nous la tenons, Spinette ; ne t'embarrasse pas.
+Vante-moi seulement auprès d'elle, je lui donnerai tout ce qu'elle voudra ; elle n'aura qu'à souhaiter ; d'ailleurs je ne me trouve pas si mal fait, moi, on peut passer avec mon air ; et pour mon visage, il y en a de pires.
+J'ai l'humeur franche et sans façon.
+Dis-lui tout cela ; dis-lui encore que mon or et mon argent sont toujours beaux ; cela ne prend point de rides ; un louis d'or de quatre-vingts ans est tout aussi beau qu'un louis d'or d'un jour, et cela est considérable d'être toujours jeune du côté du coffre-fort.
+
+-*who_spinette
+Malepeste !
+La belle riante jeunesse !
+Allez, allez, je ferai votre cour.
+Tenez ; moi d'abord, en vous voyant, je vous trouvais la physionomie assez commune, et l'esprit à l'avenant ; mais depuis que je vous connais, vous êtes tout un autre homme, vous me paraissez presque aimable, et dès demain je vous trouverai charmant ; du moins il ne tiendra qu'à vous.
+
+-*who_plutus
+Oh !
+J'aurai des charmes, je t'en assure ; je te ferai ta fortune, mais une fortune qui sera bien nourrie ; tu verras, tu verras.
+
+-*who_spinette
+Mais, si cela continue, vous allez devenir un Narcisse.
+
+-*who_plutus
+Quelqu'un vient à nous ; qui est-ce ?
+
+-*who_spinette
+Ah !
+C'est Arlequin, valet de Monsieur Ergaste.
+
+**** *book_ *id_I05 *act_I *date_1728
+
+-*who_arlequin
+Bonjour, Spinette, comment te portes-tu ?
+Je suis bien aise de te revoir.
+Mon maître est-il arrivé ?
+
+-*who_spinette
+Oui, il est au logis.
+
+-*who_plutus
+Bonjour, mon garçon.
+
+-*who_arlequin
+Que le ciel vous le rende !
+Voilà un galant homme qui me salue sans me connaître.
+
+-*who_spinette
+Oh !
+Le plus galant homme qu'on puisse trouver, je t'en assure.
+
+-*who_plutus
+Eh bien !
+Mon fils, tu sers donc Ergaste ?
+
+-*who_arlequin
+Hélas !
+Oui, Monsieur ; je le sers par amitié, faut dire ; car ce n'est pas pour ma fortune.
+
+-*who_plutus
+Est-ce que tu n'es pas grassement chez lui ?
+
+-*who_arlequin
+Non, je suis aussi maigre qu'il était quand il m'a pris.
+
+-*who_plutus
+Et tes gages sont-ils bons ?
+
+-*who_arlequin
+Bons ou mauvais, je ne les ai pas encore vus.
+Cependant tous les jours je demande à en avoir un petit échantillon ; mais, à vous parler franchement, je crois que mon maître n'a ni l'échantillon ni la pièce.
+
+-*who_spinette
+Je suis de son avis.
+
+-*who_plutus
+As-tu besoin d'argent ?
+
+-*who_arlequin
+Oh !
+Besoin, depuis que je suis au monde, je n'ai que ce besoin-là.
+
+-*who_plutus
+Tu me touches, tu as la physionomie d'un bon enfant.
+Tiens, voilà de quoi boire à ma santé.
+
+-*who_arlequin
+Mais, Monsieur, cela me confond ; suis-je bien réveillé ?
+Dix louis d'or pour boire à votre santé !
+Spinette, fait-il jour ?
+N'est-ce pas un rêve ?
+
+-*who_spinette
+Non, Monsieur m'a déjà fait rêver de même.
+
+-*who_arlequin
+Voilà un rêve qui me mènera réellement au cabaret.
+
+-*who_plutus
+Je veux que tu sois de mes amis aussi.
+
+-*who_arlequin
+Pardi !
+Quand vous ne le voudriez pas, je ne saurais m'en empêcher.
+
+-*who_plutus
+J'aime la maîtresse d'Ergaste.
+
+-*who_arlequin
+Mademoiselle Aminte ?
+
+-*who_plutus
+Oui ; Spinette m'a promis de me servir auprès d'elle, et je serai bien aise que tu en sois de moitié.
+
+-*who_arlequin
+Ne vous embarrassez pas.
+
+-*who_plutus
+Si Ergaste ne te paie pas tes gages, je te les paierai, moi.
+
+-*who_arlequin
+Vous pouvez en toute sûreté m'en avancer le premier quartier ; aussi bien y a-t-il longtemps qu'il me l'a promis.
+
+-*who_spinette
+Tu n'es pas honteux, à ce que je vois.
+
+-*who_arlequin
+Ce serait bien dommage, Monsieur est si bon !
+
+-*who_plutus
+Tiens, je ne compte pas avec toi ; je te paie à mon taux.
+
+-*who_arlequin
+Et moi, je ne regarde pas après vous ; je suis sûr d'avoir mon compte.
+Que voilà un honnête gentilhomme !
+Oh !
+Monsieur, vos manières sont inimitables.
+
+-*who_spinette
+Doucement, voici l'oncle de Mademoiselle Aminte qui va nous aborder.
+Monsieur, faites-lui votre compliment.
+
+**** *book_ *id_I06 *act_I *date_1728
+
+-*who_armidas
+Ah !
+Te voilà, Arlequin ; est-ce que ton maître est arrivé ?
+
+-*who_arlequin
+On dit que oui, Monsieur ; car je ne fais que d'arriver moi-même : je m'étais arrêté dans un village pour m'y rafraîchir ; et comme il fait extrêmement chaud, vous me permettrez d'en aller faire autant dans l'office.
+
+-*who_armidas
+Tu es le maître.
+
+-*who_plutus
+Monsieur, Spinette m'a dit que vous vous appelez Monsieur Armidas.
+
+-*who_armidas
+Oui, Monsieur ; que vous plaît-il de moi ?
+
+-*who_plutus
+C'est que si mon amitié pouvait vous accommoder, la vôtre me conviendrait on ne peut pas mieux.
+
+-*who_armidas
+Monsieur, vous me faites bien de l'honneur ; le compliment est singulier.
+
+-*who_plutus
+J'y vais rondement, comme vous voyez ; mais franchise vaut mieux que politesse, n'est-ce pas ?
+
+-*who_armidas
+Monsieur, mon amitié est due à tous les honnêtes gens ; et quand j'aurai l'honneur de vous connaître...
+
+-*who_spinette
+Tenez, dans les compliments on s'embrouille, et il y a mille honnêtes gens qui n'en savent point faire.
+Monsieur me paraît de ce nombre.
+Voyez de quoi il s'agit : Monsieur est ami du seigneur Ergaste ; ils viennent d'arriver ensemble.
+Monsieur Ergaste est au logis, je vous laisse.
+
+-*who_plutus
+Et je m'amusais, en attendant, à demander de vos nouvelles à cet enfant.
+
+-*who_armidas
+Monsieur, vous ne pouviez manquer d'être bien venu sous les auspices de Monsieur Ergaste, que j'estime beaucoup.
+Je suis fâché de n'être pas venu plus tôt ; mais j'ai été occupé d'une affaire que je voulais finir.
+
+-*who_plutus
+Ah !
+Pour une affaire, voulez-vous bien me la dire ?
+C'est que j'ai des expédients pour les affaires, moi.
+
+-*who_armidas
+Eh bien !
+Monsieur, c'est une terre que j'ai, assez éloignée d'ici, qui n'est pas à ma bienséance, et que je voudrais vendre.
+J'ai dessein de marier ma nièce près de moi, et je lui donnerai en mariage le provenu de la vente.
+Elle est de vingt mille écus ; mais la personne qui la marchande ne veut m'en donner que quinze, et nous ne saurions nous accommoder.
+
+-*who_plutus
+Touchez là, Monsieur Armidas.
+
+-*who_armidas
+Comment !
+
+-*who_plutus
+Touchez là.
+
+-*who_armidas
+Que voulez-vous dire ?
+
+-*who_plutus
+La terre est à moi, et l'argent à vous.
+Je vais vous la payer.
+
+-*who_armidas
+Mais, Monsieur, j'ai peine à vous la vendre de cette manière ; vous ne l'avez pas vue, et vous n'aimeriez peut-être pas le pays où elle est ?
+
+-*who_plutus
+Point du tout, j'aime tous les pays, moi ; n'est-ce pas des arbres et des campagnes partout ?
+
+-*who_armidas
+Je vous en donnerai le plan, si vous voulez.
+
+-*who_plutus
+Je ne m'y connais pas ; il suffit, c'est une terre ; je ne l'ai point vue, mais je vous vois ; vous avez la physionomie d'un honnête homme, et votre terre vous ressemble.
+
+-*who_armidas
+Puisque vous le voulez, Monsieur, j'y consens.
+
+-*who_plutus
+Tenez, connaissez-vous ce billet-là, et la signature ?
+
+-*who_armidas
+Oh !
+Monsieur, cela est excellent ; je vous suis entièrement obligé.
+
+-*who_plutus
+Ah ! çà !
+Si le marché ne vous plaît pas demain, je vous la revendrai, moi ; et je vous ferai crédit, afin que cela ne vous incommode point.
+
+-*who_armidas
+Vous me comblez d'honnêtetés, Monsieur, je ne sais comment les reconnaître.
+
+-*who_plutus
+Oh !
+Que si, vous les reconnaîtriez, si vous vouliez.
+
+-*who_armidas
+Dites-m'en les moyens.
+
+-*who_plutus
+Votre nièce est bien jolie, Monsieur Armidas.
+
+-*who_armidas
+Eh bien, Monsieur ?
+
+-*who_plutus
+Eh bien, troquons ; reprenez la terre gratis, et je prends la nièce sur le même pied.
+
+-*who_armidas
+Vous l'avez donc vue ma nièce, Monsieur ?
+
+-*who_plutus
+Oui, il y a quelques mois que, passant par ici, j'aperçus une moitié de visage qui me fit grand plaisir.
+Je m'en suis toujours ressouvenu.
+J'ai demandé qui c'était.
+On me dit que c'était Mademoiselle Aminte, nièce d'un homme de bien, nommé Monsieur Armidas.
+Parbleu !
+Dis-je en moi-même, ce visage-là tout entier doit être bien aimable.
+Je fis dessein de l'avoir à moi.
+Ergaste, mon ami, me dit quelques jours après qu'il venait ici ; je l'ai suivi pour le supplanter ; car il aime aussi votre nièce, et je ne m'en soucie guère, si nous sommes d'accord.
+C'est mon ami, mais je n'y saurais que faire ; l'amour se moque de l'amitié, et moi aussi ; je suis trop franc pour être scrupuleux.
+
+-*who_armidas
+Il est vrai, Monsieur, qu'Ergaste me paraît rechercher ma nièce.
+
+-*who_plutus
+Bon !
+Bon !
+La voilà bien lotie, la pauvre fille !
+
+-*who_armidas
+Il se dit gentilhomme assez accommodé et il parle de s'établir ici.
+Il est d'ailleurs homme de mérite.
+
+-*who_plutus
+Homme de mérite, lui !
+Il n'a pas le sol.
+
+-*who_armidas
+Si cela est, c'est un grand défaut, et je suis bien aise que vous m'avertissiez.
+Mais, Monsieur, peut-on vous demander de quelle profession vous êtes ?
+
+-*who_plutus
+Moi, j'ai des millions de père en fils ; voilà mon principal métier, et par amusement je fais un gros commerce, qui me rapporte des sommes considérables, et tout cela pour me divertir, comme je vous dis.
+Ce gain-là sera pour les menus plaisirs de ma femme.
+Au reste, je prouverai sur table, au moins.
+Voilà ce qu'on appelle avoir du mérite, de l'esprit et de la taille, qui ne me manquent pourtant pas, ni l'un ni l'autre.
+Est-ce que, si vous étiez fille à marier, ma figure romprait le marché ?
+On voit bien que je fais bonne chère ; mon embonpoint fait l'éloge de ma table.
+Vraiment, si j'épouse Mademoiselle Aminte, je prétends bien que dans six mois vous soyez plus en chair que vous n'êtes.
+Voilà un menton qui triplera, sur ma parole ; et puis du ventre !...
+
+-*who_armidas
+Votre humeur me convient à merveille.
+
+-*who_plutus
+Elle est aussi commode que ma fortune.
+
+-*who_armidas
+Et je parlerai à ma nièce, je vous assure ; je suis sûr qu'elle se conformera à mes volontés.
+
+-*who_plutus
+Pardi !
+Un homme comme moi, c'est un trésor.
+
+-*who_armidas
+La voilà qui vient : si vous le voulez bien, après le premier compliment, vous nous laisserez un moment ensemble, et vous irez vous rafraîchir chez moi en attendant.
+
+**** *book_ *id_I07 *act_I *date_1728
+
+-*who_armidas
+Ma nièce, où est donc le seigneur Ergaste ?
+
+-*who_aminte
+Il s'est enfermé dans une chambre pour composer un divertissement qu'il veut me donner en musique.
+
+-*who_plutus
+Oh !
+Pour de la musique, Mademoiselle, il vous en apprendra tant, que vous pourrez la montrer vous-même.
+
+-*who_aminte
+Ce n'est pas l'usage que j'en veux faire.
+Mais Monsieur n'est-il pas la personne qu'Ergaste a amené avec lui ?
+Il ressemble au portrait qu'il m'en a fait.
+
+-*who_armidas
+Oui, ma nièce, Monsieur est un galant homme ; qui, depuis le peu de temps que je le connais, m'a déjà donné pour lui une estime toute particulière.
+
+-*who_plutus
+Oh !
+Point du tout, je ne suis qu'un bon homme ; mais j'ai de bons yeux ; je me connais en beautés, et je déclare tout net que Mademoiselle en est une.
+Voilà mes galanteries, à moi ; je ne sais point chercher mes phrases, Mademoiselle : vous êtes belle comme un astre, et le tout sans compliment.
+
+-*who_aminte
+La comparaison est forte, quoique ordinaire.
+
+-*who_plutus
+Ma foi, je vous la donne comme elle m'est venue.
+
+-*who_armidas
+Passons, passons.
+Ma nièce, je vous prie de regarder Monsieur comme mon ami, et comme le meilleur que j'aie encore trouvé.
+
+-*who_aminte
+Je vous obéirai, mon cher oncle.
+
+-*who_spinette
+Allez, allez, quand Mademoiselle connaîtra bien Monsieur, on n'aura que faire de lui recommander.
+
+-*who_plutus
+Oh ! cela est vrai, on m'aime toujours quand on me connaît bien.
+Elle n'a pas goûté ma comparaison ; une autre fois, je l'attraperai mieux.
+Il ne tient qu'à moi, par exemple, de vous comparer à Vénus.
+Aimez-vous mieux celle-là ?
+Vous n'avez qu'à choisir.
+Je ne serais pas pourtant bien aise que vous lui ressemblassiez tout à fait ; la bonne dame a un mari dont je ne voudrais pas être la copie.
+
+-*who_armidas
+Monsieur, ma nièce...
+
+-*who_plutus
+Ce que j'en dis n'est que pour plaisanter.
+Mais à propos, Ergaste fait des vers à votre louange, et moi il faut bien aussi que je vous imagine quelque chose ; je vous quitte pour y rêver.
+Notre oncle, je me recommande à vous : allez droit en besogne.
+
+**** *book_ *id_I08 *act_I *date_1728
+
+-*who_aminte
+Voudriez-vous bien, Monsieur, me dire pourquoi cet homme-là vous plaît tant ; ce qui a pu vous le rendre si estimable en un quart d'heure ?
+Pour moi, je le trouve si ridicule, qu'il m'en paraît original.
+
+-*who_spinette
+Pour original, vous avez raison, je ne crois pas même qu'il ait de copie.
+
+-*who_armidas
+Ma nièce, cet homme que vous trouvez si ridicule, encore une fois, je ne puis l'estimer assez.
+
+-*who_spinette
+Faut-il vous dire tout ?
+Il vous a déjà vue en passant par ici, il vous aime ; il n'est revenu que pour vous revoir.
+Savez-vous bien par où il a débuté avec moi afin de m'intéresser à son amour ?
+Tenez, que dites-vous de cette bague-là ?
+
+-*who_aminte
+Comment !
+Elle est fort jolie.
+D'où cela te vient-il ?
+
+-*who_armidas
+Gageons qu'il te l'a donnée ?
+
+-*who_spinette
+De la meilleure grâce du monde.
+
+-*who_aminte
+Sur ce pied-là, je l'avoue, on ne saurait lui disputer le titre d'homme généreux et magnifique.
+
+-*who_armidas
+Sais-tu bien, ma nièce, que Monsieur Richard fait un commerce étonnant qui lui procure des biens immenses ?
+Devine à quoi il destine ce gain ?
+
+-*who_aminte
+Quoi ?
+À bâtir ?
+
+-*who_armidas
+À tes menus plaisirs.
+
+-*who_aminte
+Il faut tomber d'accord que vous me contez là des espèces de fables.
+
+-*who_armidas
+Tu ne sais pas ?
+J'ai vendu cette terre dont je destinais l'argent pour te marier.
+
+-*who_aminte
+Est-ce que vous ne le voulez plus, mon cher oncle ?
+
+-*who_armidas
+Bon !
+Il est bien question de cela !
+C'est Monsieur Richard qui a acheté la terre sans l'avoir vue, sur ma parole, au prix que je demandais, sans hésiter.
+Tenez, m'a-t-il dit, vous voilà payé.
+En effet, voici des billets que j'en ai reçus.
+
+-*who_aminte
+Ah !
+Quel dommage qu'un homme d'une si brillante fortune soit si rustique !
+
+-*who_armidas
+Lui, rustique !
+
+-*who_spinette
+Monsieur Richard, rustique !
+
+-*who_aminte
+Ah !
+Vous conviendrez qu'il n'a pas d'esprit, et qu'il est d'une figure épaisse.
+
+-*who_spinette
+C'est une épaisseur qui ne vient que d'embonpoint.
+
+-*who_armidas
+Allons, allons, Ergaste disparaît au prix de cela ; sans compter qu'il a le caractère un peu gascon.
+
+-*who_aminte
+Mais, mon oncle, le rival que vous lui substituez est bien grossier ; cela m'arrête, car je me pique de quelque délicatesse.
+
+-*who_spinette
+Et mort de ma vie, grossier !
+Et moi je vous dis qu'il a autant d'esprit qu'un autre, mais qu'il ne veut s'en servir qu'à sa commodité.
+
+**** *book_ *id_I09 *act_I *date_1728
+
+-*who_armidas
+Que nous veux-tu, Arlequin ?
+
+-*who_arlequin
+Je venais, ne vous en déplaise, Monsieur, m'acquitter d'une petite commission auprès de Mademoiselle Aminte.
+
+-*who_aminte
+Eh bien !
+De quoi s'agit-il ?
+
+-*who_arlequin
+Oh !
+Mais, je n'oserais parler à cause de Monsieur ; cependant, comme je suis hardi de mon naturel, si vous me laissez faire, j'aurai bientôt dit.
+
+-*who_armidas
+Parle ; voilà qui est bien mystérieux !
+
+-*who_arlequin
+C'est que j'ai des louis d'or dans ma poche à qui j'ai promis de vous recommander Monsieur Richard, ma belle demoiselle.
+
+-*who_spinette
+Oh ! vraiment, à propos, ses libéralités se sont aussi étendues sur Arlequin.
+
+-*who_arlequin
+Il m'a fait l'honneur de me demander ma protection auprès de vous, et, ma foi, il l'a bien payée ce qu'elle vaut.
+
+-*who_armidas
+Cela est étonnant.
+
+-*who_arlequin
+C'est lui qui m'a payé les gages que Monsieur Ergaste me doit ; cela est bien honnête.
+
+-*who_spinette
+J'étais témoin de tout ce qu'il vous dit là.
+
+-*who_arlequin
+Je l'épouse aussi, moi, cela est résolu.
+
+-*who_armidas
+Qu'appelles-tu : tu l'épouses ?
+
+-*who_arlequin
+Oui, je me donne à lui ; il m'a déjà fait les présents de noce.
+
+-*who_armidas
+Ma nièce, il ne faut point que cet homme-là vous échappe.
+
+-*who_arlequin
+Il vous aime comme un perdu ; il est drôle, bouffon, gaillard.
+Il dit toujours : tiens, prends ; et ne dit jamais : rends.
+Il a une face de jubilation.
+Tenez, le voilà lui-même, voyez-le plutôt.
+Mais il m'a donné une commission, j'y vais.
+
+**** *book_ *id_I10 *act_I *date_1728
+
+-*who_plutus
+Eh bien, sommes-nous en joie, ma reine ?
+Mais comment faites-vous donc ?
+Vous êtes encore plus belle que vous n'étiez tout à l'heure.
+Ergaste vous fait là-haut des vers ; chacun a sa poésie, et voilà la mienne.
+
+-*who_spinette
+Une rime à ces vers-là serait bien riche.
+
+-*who_plutus
+Oh ! nous rimerons, nous rimerons ; j'ai la rime dans ma poche.
+
+-*who_aminte
+Ah !
+Monsieur, des vers, une chanson, se reçoivent ; mais pour un bracelet de cette magnificence, ce n'est pas de même.
+
+-*who_plutus
+Les vers se lisent, et cela se met au bras ; voilà toute la différence.
+Présentez le bras, ma déesse.
+
+-*who_aminte
+Monsieur, en vérité, ce serait trop...
+
+-*who_armidas
+Ma nièce, je vous permets de l'accepter.
+
+-*who_plutus
+Voilà le premier oncle du monde.
+Tenez, j'ai donné mon coeur, et quand cela est parti, le reste en coûte plus rien à déménager ; car je vous aime, il n'y a que moi qui puisse aimer comme cela ; et cela ira toujours en augmentant.
+Quel plaisir !
+Goûtez-en un peu, mon adorable ; je suis le meilleur garçon du monde ; j'apprendrai à faire des sornettes, des vaudevilles, des couplets ; j'ai bon esprit, mais je n'aime pas à le gêner, il n'y a que mon coeur que je laisse aller.
+Il va à vous ; prenez-le, ma charmante, et en attendant, placez ce petit bracelet.
+
+-*who_spinette
+Peut-on s'expliquer de meilleure grâce ?
+
+-*who_aminte
+En vérité, je vous trouve bien pressant.
+
+-*who_plutus
+Là, dites-moi comment vous me trouvez.
+
+-*who_aminte
+Mais, je vous trouve bien.
+
+-*who_plutus
+Tant mieux, je m'en doutais un peu ; m'aimeriez-vous aussi ?
+Mon humeur vous revient-elle ?
+On fait de moi ce que l'on veut.
+Vous serez si heureuse, vous aurez tant de bon temps, que vous n'en saurez que faire.
+Allons, est-ce marché fait ?
+Je suis pressé ; car vos yeux sont si vite en besogne !
+Finissons-nous, mon oncle ?
+Mettons-nous à genoux devant elle.
+Spinette, à notre secours !
+
+-*who_armidas
+Rends-toi, ma nièce ; peux-tu trouver mieux ?
+
+-*who_spinette
+Ma maîtresse, ma chère maîtresse, ayez pitié de l'amour de cet honnête homme.
+
+-*who_plutus
+Je vous en conjure avec cent mille écus que j'ai porté sur moi pour échantillon de ma cassette.
+Tenez, prenez-les, vous les examinerez vous-même.
+
+-*who_spinette
+Peut-on faire fumer un plus bel encens ?
+
+-*who_aminte
+Mais vous m'accablez.
+Je veux mourir si je suis la maîtresse de dire non.
+Il y a dans ses manières je ne sais quoi d'engageant qui vous entraîne.
+Il est plusieurs sortes de mérites, et vous avez le vôtre, Monsieur ; mais que deviendrait Ergaste ?
+
+-*who_plutus
+Eh bien !
+Il partira, et je lui paierai son voyage.
+
+-*who_armidas
+Le voilà qui arrive avec sa chanson.
+
+-*who_spinette
+Ce sont là ses millions, à lui.
+
+-*who_armidas
+Que diable, avec sa musique !
+On a bien affaire de cela.
+
+**** *book_ *id_I11 *act_I *date_1728
+
+-*who_apollon
+Là, là, là !
+Je prélude, Madame, et voici des acteurs pour exécuter la pièce.
+Monsieur Armidas, vous serez bien aise d'entendre cela ; je le crois joli, pas tout à fait si amusant que la conversation de Monsieur Richard, mais n'importe.
+
+-*who_spinette
+La conversation de Monsieur Richard est magnifique.
+
+-*who_armidas
+Et soutenue d'un bout à l'autre.
+
+-*who_plutus
+Grand merci, notre oncle, je la soutiendrai toujours de même.
+Qu'en dites-vous, ma reine ?
+Êtes-vous de leur avis ?
+
+-*who_aminte
+Assurément.
+
+-*who_apollon
+Il vous ennuyait, je gage, et je suis venu bien à propos.
+
+-*who_aminte
+Voyons donc votre musique.
+
+-*who_apollon
+Allons, Messieurs, commencez.
+
+**** *book_ *id_I12 *act_I *date_1728
+
+-*who_chanteurs
+Dieu des amants, ne crains plus désormais
+Qu'on puisse échapper à tes armes ;
+Je vois dans ce séjour un objet plein de charmes,
+Où tu pourras trouver d'inévitables traits.
+Que de triomphes et d'hommages
+Tu vas devoir à ses beaux yeux !
+On ne verra plus en ces lieux
+D'indifférents ni de volages.
+
+-*who_apollon
+Il semble que cela n'ait point été de votre goût, Monsieur Armidas.
+
+-*who_armidas
+Oh !
+Ne prenez point garde à moi ; toute la musique m'ennuie.
+
+-*who_spinette
+Elle commençait à m'endormir.
+
+-*who_apollon
+Et vous, Madame, vous a-t-elle déplu ?
+
+-*who_aminte
+Il y a quelque chose de galant, mais l'exécution m'en a paru un peu froide.
+
+-*who_plutus
+C'est que les musiciens ont la voix enrouée ; il faut un peu graisser ces gosiers-là.
+
+-*who_apollon
+Doucement ! il n'est pas besoin que vous payiez mes musiciens.
+
+-*who_musicien
+Comment, Monsieur !
+C'est un présent que Monsieur nous fait ; que vous importe ?
+Vous ne nous en paierez pas moins, et il ne tient qu'à vous de le faire tout à l'heure.
+
+-*who_plutus
+C'est bien dit ; contente-les, si tu peux.
+J'ai aussi une fête à vous donner, moi, et une musique qui se mesure à l'aune ; j'attends ceux qui doivent y danser.
+
+**** *book_ *id_I13 *act_I *date_1728
+
+-*who_arlequin
+Monsieur !
+
+-*who_apollon
+Que veux-tu ?
+Y a-t-il quelque chose de nouveau ?
+
+-*who_arlequin
+Oui, Monsieur ; mais cela ne vous regarde point.
+Je viens dire à Monsieur Richard que les musiciens qu'il a mandés seront ici dans un moment.
+
+-*who_apollon
+Je voudrais bien savoir de quoi tu te mêles ; sont-ce là tes affaires ?
+
+-*who_plutus
+Monsieur Armidas, vous allez entendre une drôle de musique.
+
+-*who_armidas
+Je la crois curieuse.
+
+-*who_plutus
+Des sons moelleux, magnifiques, une harmonie qui fait danser tout le monde ; il n'y a personne qui n'ait de l'oreille pour cette musique-là.
+
+-*who_armidas
+J'ai grande envie de l'entendre.
+
+-*who_spinette
+Je m'en meurs d'impatience.
+
+-*who_musicien
+Cela n'empêchera pas, Monsieur, si vous voulez, que nous ne vous donnions tantôt un petit divertissement à votre honneur et gloire.
+
+-*who_plutus
+Oui-da, cela ne gâtera rien, et vous vous joindrez à mes danseurs que je vois entrer.
+
+-*who_armidas
+Je vous avoue, Monsieur, que je n'ai point encore entendu de symphonie de ce goût-là.
+
+-*who_plutus
+Ce qu'il y a de commode, c'est que cela se chante à livre ouvert.
+
+-*who_arlequin
+Voilà ma chanson, à moi, et je déloge.
+
+-*who_plutus
+Allez porter toutes ces musiques-là chez Monsieur Armidas.
+Hé bien, Mademoiselle, qu'en dites-vous ?
+
+-*who_apollon
+Ces airs-là sont-ils aussi de votre goût, Mademoiselle ?
+
+-*who_armidas
+Elle serait bien difficile.
+
+-*who_apollon
+Vous ne dites rien.
+Ah !
+Je ne vois que trop ce que ce silence m'annonce.
+Qui vous aurait cru de ce caractère, ingrate que vous êtes !
+
+-*who_plutus
+Ah !
+Ah !
+Tu te fâches ?
+
+-*who_aminte
+Mais, en effet, je vous trouve admirable, d'en venir avec moi aux invectives !
+Qu'appelez-vous ingrate ?
+
+-*who_apollon
+Perfide, est-ce là les fruits de tant de soins ?
+Méritez-vous tant d'amour ?
+
+-*who_plutus
+Oh !
+Que voilà qui est chromatique !
+Faisons une petite fugue, ma reine ; allons-nous-en.
+
+-*who_armidas
+Allons, ma nièce, c'est trop s'amuser ; suis-moi.
+
+-*who_plutus
+Et allons, séparez-vous bons amis, et ne vous revoyez jamais.
+Il n'y a rien de si beau que les bienséances ; crois-moi, Ergaste, ne te fâche que dans un sonnet, ou bien, pour te consoler, va composer un opéra ; cela te vaudra toujours quelque chose.
+
+**** *book_ *id_I14 *act_I *date_1728
+
+-*who_apollon
+Arrêtez !
+Êtes-vous de moitié dans l'affront que l'on me fait ?
+Approuvez-vous le procédé de Mademoiselle votre nièce ?
+
+-*who_armidas
+Mais...
+C'est une fille assez raisonnable, comme vous savez.
+
+-*who_apollon
+Vous m'avez pourtant fait espérer...
+
+-*who_armidas
+Espérer !
+Et quand cela ?
+Je ne me souviens de rien.
+
+-*who_apollon
+Qu'entends-je ?
+Est-ce là tout ce que vous avez à me dire ?
+
+-*who_armidas
+Tenez, vous êtes aujourd'hui de mauvaise humeur ; nous aurons le temps de nous revoir.
+Vous ne partez pas ce soir ; à demain.
+
+**** *book_ *id_I15 *act_I *date_1728
+
+-*who_spinette
+Monsieur, on vous attend.
+
+-*who_armidas
+J'y vais.
+Votre valet très humble.
+
+-*who_apollon
+Spinette, de grâce, un petit mot.
+
+-*who_spinette
+Je n'ai guère le temps, au moins.
+
+-*who_apollon
+Quoi !
+Spinette, où en sommes-nous donc ?
+M'abandonnes-tu aussi ?
+Tu avais tant de bonté pour moi !
+
+-*who_spinette
+Bon !
+Vous étiez bien riche ; mais je crois qu'on m'appelle ; je suis votre servante.
+
+-*who_apollon
+Oh parbleu, tu me diras la raison de tout ce que je vois.
+
+-*who_spinette
+Et que voyez-vous donc de si rare ?
+
+-*who_apollon
+Que ta maîtresse me fuit, que tout le monde m'abandonne.
+
+-*who_spinette
+Je ne sais pas le remède à cela.
+
+-*who_apollon
+Monsieur Richard est donc maître du champ de bataille ?
+
+-*who_spinette
+Je ne vous entends point ; Où donc est ce champ de bataille ?
+
+-*who_apollon
+Tu ne m'entends point ?
+Ignores-tu de quel oeil nous nous regardons, ta maîtresse et moi ?
+
+-*who_spinette
+Hé !
+Vous me faites perdre ici mon temps ; le dîner est prêt ; est-ce que vous n'en êtes point ?
+J'en suis bien fâchée.
+Adieu, Monsieur ; un peu de part dans vos bonnes grâces.
+
+-*who_arlequin
+Spinette, on va servir.
+
+**** *book_ *id_I16 *act_I *date_1728
+
+-*who_apollon
+Ah !
+Mon pauvre Arlequin, approche ; je suis au désespoir.
+
+-*who_arlequin
+Et moi, j'ai une faim canine.
+
+-*who_apollon
+Que dis-tu de ce qui se passe aujourd'hui à mon égard ?
+
+-*who_arlequin
+Mais je n'ai rien vu passer de nouveau ; je ne sais ce que vous voulez dire.
+
+-*who_apollon
+Veux-tu faire aussi l'imbécile avec moi ?
+
+-*who_arlequin
+À qui en avez-vous donc ?
+Mon maître m'attend, dépêchez.
+
+-*who_apollon
+Ton maître ?
+Eh !
+Qui l'est donc, si ce n'est moi ?
+
+-*who_arlequin
+Je vous ai servi, moi !
+
+-*who_apollon
+Comment, misérable !
+Avec qui es-tu venu ici ?
+
+-*who_arlequin
+Cela est vrai ; nous nous tenions compagnie dans le chemin.
+
+-*who_apollon
+Quoi !
+Il n'y a pas jusqu'à mon valet qui me méconnaisse !
+
+-*who_arlequin
+Attendez, attendez ; j'ai quelque souvenir éloigné d'avoir autrefois servi un certain Monsieur...
+Aidez-moi, aidez-moi : Monsieur Orga, Orga, Er, Er, Ergaste, oui, Ergaste.
+
+-*who_apollon
+Coquin !
+
+-*who_arlequin
+Non, ce n'était pas un coquin ; c'était un fort honnête homme qui ne payait pas ses gens.
+Oh !
+Nous avons changé tout cela ; et je l'ai troqué contre un certain Monsieur Richard, qui habille et paie encore mieux.
+Oh !
+Cela vaut mieux que Monsieur Ergaste.
+Adieu, Monsieur.
+Si vous le voyez, dites-lui que je me recommande à lui.
+Le pauvre homme !
+
+-*who_apollon
+L'insolent !
+
+**** *book_ *id_I17 *act_I *date_1728
+
+-*who_musicien
+Le seigneur Richard n'est-il pas dans la maison, Monsieur ?
+
+-*who_apollon
+Ah !
+Monsieur, je suis bien aise de vous trouver.
+Je vous avais ordonné une fête pour ce soir ; mais il ne s'agit plus de cela ; ainsi, je vous dégage.
+
+-*who_musicien
+Oh !
+Monsieur, nous ne songions pas seulement à vous, nous avons autre chose en tête.
+C'est Monsieur Richard qui nous emploie, et que nous cherchons.
+
+-*who_apollon
+Il ne manquait plus que ce trait pour achever ma défaite ; et me voilà pleinement convaincu que l'or est l'unique divinité à qui les hommes sacrifient.
+
+-*who_spinette
+Qui est là ?
+
+-*who_musicien
+C'est pour le divertissement que Monsieur Richard nous a demandé.
+
+-*who_spinette
+Je m'en vais faire descendre la compagnie.
+
+-*who_apollon
+Puisque les voilà tous qui se rendent ici, arrêtons un moment pour leur faire voir la honte de leur choix.
+
+**** *book_ *id_I18 *act_I *date_1728
+
+-*who_apollon
+Plutus, vous l'emportez sur Apollon ; mais je ne suis point jaloux de votre triomphe.
+Il n'est point honteux pour le dieu du mérite d'être au-dessous du dieu des vices dans le coeur des hommes.
+
+-*who_plutus
+Hé, hé, hé !
+Que le voilà beau garçon avec son mérite !
+
+-*who_armidas
+Que signifie ce que nous venons d'entendre ?
+
+-*who_plutus
+Cela signifie qu'Ergaste est Apollon, et moi Plutus, qui lui a escroqué sa maîtresse.
+Ne vous alarmez pas ; je vous laisse les présents que je vous ai faits.
+Vous vous passerez bien de moi avec cela ; n'est-ce pas ?
+Adieu, la compagnie.
+Vous êtes de bonnes gens ; vous m'avez fait gagner la gageure, et je vais bien faire rire l'Olympe de cette aventure.
+Allons, divertissez-vous ; les musiciens sont payés, la fête est prête, qu'on l'exécute !
+
+**** *book_ *id_I19 *act_I *date_1728
+
+-*who_suivantdeplutus
+Dieu des trésors, quelle est ta gloire !
+Tout l'Univers encense tes autels.
+Tes attraits sur tes pas font voler la victoire,
+Et tu fais à ton gré le destin des mortels.
+Que le dieu de la guerre
+Soit prêt à lancer son tonnerre,
+Il s'arrête à ta voix ;
+Et si l'amour règne encore sur la terre,
+Il doit à ton secours sa gloire et ses exploits.
+
+-*who_suivantedeplutus
+Pour le dieu de la richesse,
+Que sans cesse
+Notre amour s'empresse.
+Si pour nous il s'intéresse,
+Ah ! Que nos coeurs seront contents !
+Nous aurons un éternel printemps ;
+C'est la puissance
+Qui dispose de l'abondance :
+Avec Plutus,
+On a Bacchus,
+On a Comus,
+On a Vénus.
+Sous sa loi souveraine,
+Tout fléchit même dans les Cieux ;
+Il entraîne
+Les suffrages de tous les dieux.
+
+-*who_chanteur
+N'attendez pas ici qu'on vous révère
+Si Plutus n'est votre dieu tutélaire.
+Sans son pouvoir,
+Tout le savoir
+Que l'on fait voir
+Ne peut valoir ;
+Rien ne répond à notre espoir.
+Le temps n'y peut rien faire.
+Mais quand on tient ce métal salutaire,
+Tout ce qu'on dit
+Charme et ravit,
+Chacun nous rit,
+Tout réussit ;
+Veut-on charge, honneurs ou crédit,
+Un jour en fait l'affaire.
+
+-*who_apollon
+Dans ce séjour on met tout à l'enchère,
+Rien ne se fait sans l'appât du salaire.
+Valets, portiers,
+Clercs et greffiers
+Commis, fermiers,
+Sont sans quartier ;
+On a beau gémir et crier,
+Le temps n'y peut rien faire.
+Mais si l'on joint l'argent à la prière,
+Le plus rétif,
+Le plus tardif,
+Devient actif,
+Expéditif ;
+Tout est vif, exact, attentif,
+Un jour finit l'affaire.
+
+-*who_chanteur
+Loin de ces lieux, une tendre bergère
+S'en tient au choix que son coeur lui suggère.
+Fût-ce un Midas
+Pour les ducats,
+S'il ne plaît pas,
+Il perd ses pas.
+De tous ses biens on ne fait cas,
+Le temps n'y peut rien faire.
+De nos beautés la maxime est contraire.
+Fût-ce un palot
+Un idiot,
+Un maître sot,
+Un ostrogoth,
+S'il est pourvu d'un bon magot,
+Un jour finit l'affaire.
+
+-*who_aminte
+Loin de ces lieux, une riche héritière
+N'est point l'objet qu'un amant considère ;
+Sagesse, honneur,
+Vertu, douceur,
+Sont de son coeur
+L'attrait vainqueur ;
+Ses feux ont toujours même ardeur ;
+Le temps n'y peut rien faire.
+De nos amants la maxime est contraire.
+Bons revenus,
+Contrats, écus,
+Sur les vertus
+Ont le dessus.
+De tels noeuds sont bientôt rompus ;
+Un jour en fait l'affaire.
+
+-*who_chanteur
+Sans dépenser, c'est en vain qu'on espère
+De s'avancer au pays de Cythère.
+Mari jaloux,
+Femme en courroux,
+Ferme sur nous
+Grille et verrous,
+Le chien nous poursuit comme loups ;
+Le temps n'y peut rien faire.
+Mais si Plutus entre dans le mystère,
+Grille et ressort
+S'ouvrent d'abord,
+Le chien s'endort,
+Le mari sort,
+Femme et soubrette sont d'accord ;
+Un jour finit l'affaire.
+Tant que Philis eut un destin prospère,
+Plus d'un amant lui dit d'un air sincère :
+Que vos beaux yeux
+Sont gracieux !
+L'Amour, pour eux,
+Fixe mes voeux ;
+Chaque instant redouble mes feux ;
+Le temps n'y peut rien faire.
+Dès que Plutus cessa de lui complaire,
+Plus de trésor,
+Plus de Médor,
+Flamme et transport
+Prirent l'essor ;
+L'Amour s'enfuit et court encor ;
+Un jour finit l'affaire.
+
+-*who_arlequin
+Lorsqu'un auteur, instruit dans l'art de plaire,
+Trouve des traits ignorés du vulgaire,
+On l'applaudit,
+On le chérit :
+Grand et petit
+En font récit ;
+Jamais l'ouvrage ne périt ;
+Le temps n'y peut rien faire.
+Si l'on ne suit qu'une route ordinaire,
+Le spectateur,
+Fin connaisseur,
+Contre l'auteur,
+Est en rumeur ;
+La pièce meurt malgré l'acteur
+Un jour en fait l'affaire.

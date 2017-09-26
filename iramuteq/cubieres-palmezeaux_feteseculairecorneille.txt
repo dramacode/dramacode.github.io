@@ -1,0 +1,716 @@
+
+
+**** *book_ *id_I01 *act_I *date_(inc
+
+-*who_alcipe
+Comme Paris me plaît par sa diversité;
+Chaque jour est marqué par quelque nouveauté.
+À Poitiers, d'où je viens, quelle monotonie !
+Il faut bien qu'en Province à la fin l'on s'ennuie ;
+Aussi je ne veux plus de ce triste séjour,
+Où l'on commente un an, la nouvelle d'un jour ;
+Où le goût et l'esprit, gênés dans des lisières,
+Ne savent rien aimer que ce qu'aimaient nos pères ;
+Où l'amour bien noté sur l'air des vieux romans,
+Fait bâiller nos beautés auprès de leurs amants ;
+Où tout respire enfin l'ennui de la constance.
+Philiste m'a déjà montré la différence,
+Des plaisirs de Paris et de nos vieux travers;
+Et c'est sous ses drapeaux désormais que je sers.
+Ici tout naît, tout meurt, tout va, tout vient, tout vole,
+La mode impunément y renverse un idole
+De son haut piédestal, pour y porter un nain,
+Qu'elle-même et le goût en chasseront demain.
+N'importe ; tout est bien, tout est gai, tout varie ;
+Le Sage veut en vain crier à la folie
+Sur la mode du jour ; elle n'est déjà plus ;
+Et ses cris surannés paraîtraient superflus.
+Ici chaque plaisir n'a qu'un instant d'ivresse ;
+L'instant est-il sonné, chacun fuit et se presse
+Vers un autre plaisir qu'indique la beauté,
+Dont l'attrait est si vif pour toute nouveauté.
+Mais Philiste est longtemps. Je me lasse d'attendre.
+
+**** *book_ *id_I02 *act_I *date_(inc
+
+-*who_alcipe
+Ah te voilà !
+
+-*who_philiste
+      Moulu ! J'ai bien cru que jamais
+Auprès de toi je ne pourrais me rendre.
+
+-*who_alcipe
+Comment ?
+
+-*who_philiste
+      Pour ces billets que je suis allé prendre,
+La grille n'était pas d'un bien facile accès.
+
+-*who_alcipe
+Aux Spectacles forains ?
+
+-*who_philiste
+      Non, c'était aux Français.
+
+-*who_alcipe
+Tu te moques de moi ?
+
+-*who_philiste
+      Rien n'est plus véritable ;
+C'était une foule incroyable ;
+Et l'on m'a dit de toutes parts
+Que dans le vrai Temple des Arts,
+Ce jour est un jour remarquable.
+
+-*who_alcipe
+Parce qu'ils sont reconnaissants,
+Les Comédiens vont-ils d'un auteur du vieux temps
+Nous faire encor l'apothéose ?
+Ils ne savent donc pas que c'est pour les vivants,
+Que l'encens doit surtout brûler à forte dose ?
+
+-*who_philiste
+Ce dernier, tout compté, donne plus de profit :
+Parmi certaines gens, c'est chose incontestable :
+L'éloge d'un vivant nourrit ;
+Celui d'un mort est impayable.
+
+-*who_alcipe
+Me diras-tu quel est ce mortel glorieux,
+Que la scène aujourd'hui doit offrir à nos yeux ?
+
+-*who_philiste
+Non. Je sais qu'il vivait au siècle mémorable,
+Qui sur les Lys François fixait tous les regards,
+Lorsque les talents et les arts,
+Trouvaient auprès du trône une main secourable.
+
+-*who_alcipe
+À ce que tu me dis, as-tu donc bien songé ?
+Par cette même main, le talent protégé,
+Brille et fleurit encor, pour l'honneur de la France ;
+Et la beauté, la bienfaisance,
+À cet égard n'ont rien changé.
+
+-*who_philiste
+C'est juste.
+
+-*who_alcipe
+      Mais le nom ?
+
+-*who_philiste
+      En très gros caractère,
+Sur l'affiche j'ai lu, LA FÉTE SÉCULAIRE,
+Pièce nouvelle. Un siècle, c'est cent ans.
+J'ai cru que tu saurais à peu près dans ce temps,
+Quel grand homme acheva sa brillante carrière.
+
+-*who_alcipe
+Quel ?... C'est le grand Corneille ! Oh ! Je suis enchanté :
+De la faiblesse de l'enfance,
+À la vigueur de la maturité,
+Par lui son art fut tout à coup porté,
+Et d'un vrai créateur il montra la puissance.
+Ah ! Comme avec transport son nom sera fêté
+Par les enfants chéris, à qui dans sa bonté
+Il laissa quelque don de son riche héritage !
+Courons dans ce grand jour voir cette nouveauté.
+
+-*who_philiste
+Attendre an lendemain, quelquefois n'est pas sage.
+
+-*who_alcipe
+À l'entour du bureau parlait-on de l'ouvrage ?
+
+-*who_philiste
+Bien plus, on le jugeait fort prématurément,
+Comme l'on juge ailleurs, chez gens de haut parage,
+En bref, par ces deux mots, détestable, ou charmant :
+Mais un homme d'un certain âge,
+Qui le connaît apparemment,
+Nous a dit que l'Auteur espérait seulement,
+Par le choix du sujet échapper au naufrage.
+
+-*who_alcipe
+D'abord sa modestie a droit à mon suffrage,
+Et je l'accorderai peut-être à son talent.
+
+-*who_philiste
+Bien vu...
+
+-*who_alcipe
+      Nous aurons donc très grande compagnie ?
+
+-*who_philiste
+Grande ! Oh ! Jamais on ne vit rien de tel.
+Et par mille étrangers cette foule grossie,
+S'empresse à partager l'hommage solennel,
+Que l'univers entier ne rend qu'au seul génie.
+
+-*who_alcipe
+Tandis que tu perçois cette foule de gens,
+Qu'un si noble sujet rassemble,
+Non loin d'ici, j'ai vu paraître ensemble,
+Trois objets très intéressants ;
+L'un était un vieillard ; dessous les cheveux blancs,
+Dont s'ombrageait sa tête vénérable,
+Brillait le feu de ses regards perçants :
+Il paraissait enfin tel que jadis la fable
+Peignit, ou Saturne, ou le Temps ;
+À ses côtés marchaient deux Belles;
+L'une au minois fripon, l'autre à l'air imposant,
+Et du Public en un moment,
+Tous les yeux, tous les coeurs se sont tournés sur elles.
+
+-*who_philiste
+Eh ! Quoi tu n'es pas accouru ?
+
+-*who_alcipe
+En un clin d'oeil ce groupe a disparu,
+Et personne n'a pu m'en dire des nouvelles:
+Tu conviendras bientôt, comme moi transporté,
+Qu'elles avaient en vérité,
+La tournure des Immortelles.
+
+-*who_philiste
+J'en conviendrai, si tu le veux :
+Mais songe donc que je ne peux
+Juger de leurs attraits avant de les connaître.
+
+-*who_alcipe
+D'accord, tu parles de bon sens ;
+Au Théâtre, à coup sûr, nous les verrons paraître :
+Allons ; dépêchons ; il est temps.
+
+**** *book_ *id_I03 *act_I *date_(inc
+
+-*who_thalie
+Quoi ! Tout ce monde là pour ma soeur Melpomène ?
+Elle est donc folle ? Elle se plaint toujours,
+Qu'elle voit s'éclipser sa gloire et ses beaux jours.
+
+-*who_ariste
+Vous le savez, Madame, aujourd'hui sur la scène,
+Le Temps va couronner l'aîné de ses enfants ;
+Et vous voyez que l'amour des talents,
+Ici pour Corneille ramène
+Les coeurs reconnaissants et les mâles esprits.
+
+-*who_thalie
+Eh ! Pourquoi donc m'a-t-on dit qu'à Paris,
+Ma soeur, pour l'aîné de ses fils,
+Avait perdu quelques suffrages,
+Et que de secrets ennemis,
+Du vif éclat de nos hommages,
+Seraient affligés et surpris ?
+
+-*who_ariste
+Rien n'est plus faux, sur ma parole.
+Ah ! Si jamais s'échappant de la Cour,
+L'envie eût quelque accès chez ce peuple frivole,
+Son règne n'y dura qu'un jour,
+Comme celui d'une mode étourdie;
+Et le Français s'honorera toujours,
+Par le culte assidu qu'il décerne au génie.
+
+-*who_thalie
+Que j'aime à voir justifier
+Ce bon peuple que j'idolâtre:
+Rire, chanter, aimer, se battre ;
+Il sait tout, hormis s'ennuyer ;
+Et ne pouvant l'humilier,
+L'orgueil cherche avec complaisance,
+Dans quelque trait léger de son inconséquence,
+Matière à le calomnier.
+
+-*who_ariste
+Tel se montre le caractère
+De nos Anglomanes fougueux ;
+Fatigués des talents qui naissent autour d'eux,
+Ils ne prisent que ceux d'une terre étrangère ;
+Et leur orgueil, plus que leur goût préfère,
+Dans la liste des noms fameux,
+Shakespeare à Corneille, et Congreve à Molière.
+
+-*who_thalie
+Que ne vont-ils en Angleterre,
+C'est-là qu'ils doivent réussir ;
+Et chez le brave Anglais une fête annuelle,
+Fait revivre par son souvenir
+Les grands noms, revêtus d'une gloire immortelle,
+De Haendel et de Shakespeare .
+
+-*who_ariste
+Mais cette mode, autant que toute autre, je pense,
+Serait bonne sans doute à rapporter en France.
+
+-*who_thalie
+J'en veux parler à mes Français ;
+Qu'en dites-vous ?
+
+-*who_ariste
+      Comptez sur un succès,
+
+-*who_thalie
+L'absence de ma soeur cependant m'inquiète :
+Ne pourrai-je savoir enfin ce qui l'arrête.
+
+-*who_ariste
+Ordonnez ; prêt à vous servir,
+Mon zèle...
+
+-*who_thalie
+      C'est pour revenir
+Paraître à la cérémonie,
+Où près de moi tantôt vous devez vous trouver :
+Vous me servirez à prouver,
+Que des gens de bon sens j'aime la compagnie.
+
+**** *book_ *id_I04 *act_I *date_(inc
+
+-*who_thalie
+Ma soeur n'arrive point... Pour me désennuyer,
+S'il me venait au moins un écuyer...
+Mais n'en est-ce pas un que je crois voir paraître ?
+Comme il court... À coup sûr il ne prétend pas être
+A cette fête le dernier...
+Feignons, pour m'amuser, de ne le pas connaître.
+
+-*who_alcipe
+C'est Thalie ! Elle feint ; fort bien ; feignons aussi !
+Et déployons l'ardeur dans ce projet hardi,
+D'un guerrier qui combat sous les yeux de son maître.
+
+**** *book_ *id_I05 *act_I *date_(inc
+
+-*who_alcipe
+Dès le premier instant que vous avez paru,
+Ah ! Madame, que n'ai-je pu,
+Me rapprocher de vous et de votre compagne ?
+Je ne la revois point ? Qu'est aussi devenu
+Ce vieillard qui vous accompagne ?
+
+-*who_thalie
+Monsieur, la curiosité
+Qui vous agite et qui vous presse
+A bien de la vivacité...
+Je croyais que la politesse...
+
+-*who_alcipe
+Je suis Français; je vois une beauté,
+Et pour elle aussitôt tout mon coeur s'intéresse.
+Dussiez-vous condamner mon importunité,
+Je ne vous quitte plus... vous semblez étrangère ?
+
+-*who_thalie
+Oui... non...
+
+-*who_alcipe
+      Lequel des deux ?... Vous riez... la colère,
+Convenez-en, ne vaut pas la gaieté.
+
+-*who_thalie
+Il a raison.
+      Mais, Monsieur, je vous prie,
+Par votre regard indiscret,
+M'avez-vous assez poursuivie ?
+
+-*who_alcipe
+J'examinais, et mon âme ravie,
+Croyait voir...
+
+-*who_thalie
+      Qui donc, s'il vous plaît ?
+
+-*who_alcipe
+Une Dame que j'ai servie.
+
+-*who_thalie
+Et cette Dame vous aimait ?
+
+-*who_alcipe
+Je me tais...
+
+-*who_thalie
+      C'est par modestie...
+Comment, elle me ressemblait ?
+
+-*who_alcipe
+Oh ! C'était vous, Madame, trait pour trait...
+Ne vous alarmez pas... Elle était fort jolie.
+
+-*who_thalie
+Son nom ?
+
+-*who_alcipe
+      Son nom ?
+
+-*who_thalie
+      Oui, je le veux...
+
+-*who_alcipe
+      Thalie.
+
+-*who_thalie
+Comment, traître, vous me jouiez ?
+
+**** *book_ *id_I06 *act_I *date_(inc
+
+-*who_melpomene
+Enfin je me vois libre, et je puis sans contrainte,
+Vous peindre les transports dont mon âme est atteinte ;
+Prêtez, ma chère soeur, l'oreille à mes discours,
+Et sachez que je vois le plus beau de mes jours.
+Si mon nom, autrefois honoré dans la Grèce,
+Fit fumer un encens qui flatta ma tendresse,
+Je ne vous dirai point par quel affreux revers,
+Depuis ces jours brillants, j'errai dans l'univers,
+Nourrissant ma douleur, et ma triste pensée,
+Du cruel souvenir de ma gloire éclipsée ;
+Mes autels renversés, mes temples abattus,
+Redisaient en tous lieux, Melpomène n'est plus !
+Mes pas irrésolus, et ma marche incertaine,
+Me conduisent enfin sur les bords de la Seine ;
+Mais son peuple égaré connaissait-il alors,
+Des passions du coeur les terribles ressorts ?
+Le Théâtre à ses yeux, dans des scènes barbares,
+N'offrait qu'un long tissu d'événements bizarres.
+Aux étranges combats des héros et des dieux,
+Succédaient brusquement des discours langoureux;
+Leurs périls, leurs malheurs, leurs tendresses, leurs flammes,
+Ne parlaient point aux coeurs, n'agitaient point les âmes;
+Et dans ces jeux, toujours l'ennui du merveilleux,
+Refroidissait la scène en fatiguant les yeux.
+J'invoquais (sans espoir) quelque dieu tutélaire,
+Qui pût dans ce chaos, débrouiller la lumière :
+Ce dieu, ce fut Corneille : il parut ; à sa voix
+Je repris tout-à-coup mon empire et mes droits.
+Cent ans sont écoulés depuis que sur la scène,
+Par ce nom glorieux je règne en souveraine.
+Le Cid me l'annonça ; je le vis, et soudain
+Je mis, sans balancer, mon sceptre dans sa main :
+Ce choix n'a point trompé ma superbe espérance,
+Sa gloire chaque jour cimentant ma puissance.
+Mille ennemis jaloux, confus, humiliés,
+Virent bientôt la France et l'Europe à mes pieds.
+Quand il eut médité sur la source profonde,
+Des malheurs, des vertus et des crimes du monde,
+Alors on entendit son éloquente voix,
+Porter la vérité dans l'oreille des Rois,
+Et ce siècle fameux, si fertile en merveilles,
+Dut son plus grand éclat à l'aîné des Corneilles.
+Ah ! Si ce sentiment paraissait une erreur,
+C'est une vérité dans le fond de mon coeur.
+Mais faut-il, en des lieux illustrés par sa gloire,
+De ses nombreux travaux rappeler la mémoire ?
+Ma voix redira-t-elle à tous les coeurs émus,
+De quel attrait puissant il orna les vertus
+De ces nobles héros que la grandeur Romaine,
+Permit à ses pinceaux de montrer sur la scène,
+Pour l'ornement du monde et l'exemple des Rois ?
+De combien de devoirs il fait chérir les lois.
+Son art veut-il former un Prince doux et juste ?
+Il présente à son coeur la clémence d'Auguste.
+Ici la même main qui si bien crayonna
+L'âme du grand Pompée et celle de Cinna.
+Prenant d'autres pinceaux, trace dans Rodogune,
+De la soif de régner, la sanglante infortune :
+Là le coeur agité par de nobles douleurs,
+De Chimène admira les combats et les pleurs ;
+Et dans ces grands tableaux que sans cesse il varie,
+Tantôt tendre, il rend cher l'amour de la patrie,
+Et tantôt plus terrible, en des traits effrayants,
+Il peint l'horreur du crime, ou l'effroi des tyrans.
+Enfin ce fils chéri, qui terrassa l'envie,
+Ne dut rien à son siècle, et tout à son génie.
+Aujourd'hui que du temps la sévère équité,
+Le ceindra d'un laurier tant de fois mérité,
+Partagez les transports d'un peuple qui s'apprête
+Au pompeux appareil de cette grande fête.
+
+-*who_thalie
+Mais entre nous, ma soeur, c'est un point arrêté,
+De ma cour et de moi, disposez je vous prie,
+Par mon ordre elle est avertie;
+Et dans cette solennité,
+Si vous saviez combien mon peuple est enchanté
+De rendre à la soeur de Thalie
+Le secours qu'elle m'a prêté
+Dans pareille cérémonie,
+Vous l'aimeriez en vérité.
+
+-*who_melpomene
+Que vous connaissez mal votre soeur Melpomène,
+Si vous la soupçonnez d'être en proie à la haine ;
+Ce sentiment affreux gâterait ce beau jour ;
+Et quand le coeur est plein d'un véritable amour,
+Il l'épanche aisément sur ce qui l'environne.
+
+-*who_thalie
+Vous ne haïssez donc personne ?
+
+-*who_melpomene
+Non.
+
+-*who_thalie
+      Pas même les envieux ?
+Dont le ciel lâchement verse sur le génie,
+Qui les choque ou les humilie,
+Son poison lent et dangereux?
+
+-*who_melpomene
+Ils sont bien assez malheureux !
+Je les plains, et je leur pardonne.
+
+-*who_thalie
+Je ne vous croyais pas si bonne.
+Pour moi ce me serait un déplaisir mortel,
+Si dans ce jour si solennel,
+Que notre amour consacre au grand nom de Corneille,
+Il nous venait des gens d'une espèce pareille.
+
+-*who_melpomene
+Quoi ! Ma soeur, la critique à ce point vous aigrit ?
+Sachez de moi qu'un bon esprit
+Assez rarement s'en afflige :
+Est-elle mauvaise, il s'en rit ;
+Est-elle bonne, il se corrige.
+
+-*who_thalie
+Prenez garde, ma soeur, que votre gravité
+S'égare dans mon apanage.
+
+-*who_melpomene
+Par moi, pour cette fois, mon fils est imité ;
+Quand jadis à votre gaieté
+Il porta son premier hommage,
+Mon coeur...
+
+-*who_thalie
+      Le mien en sut infiniment flatté.
+
+-*who_melpomene
+Permettez donc qu'ici, seules, en liberté,
+De mon austérité je suspende l'usage,
+Et je vais vous parler avec sincérité.
+Comment Apollon, je vous prie,
+En ce moment, s'est-il donc éloigné ?
+Pourrait-il avoir dédaigné
+De présider lui-même à la cérémonie ?
+
+-*who_thalie
+Ah ! Ne craignez pas qu'il oublie
+Un nom qu'il chérit à jamais ;
+Il sait qu'il le couvrit d'une gloire durable,
+En répandant sur lui ses plus rares bienfaits,
+Et sans doute il jouit d'un plaisir véritable,
+En voyant aujourd'hui, par le Temps équitable,
+Confirmer les dons qu'il a faits.
+
+-*who_melpomene
+Ce discours dissipe ma crainte
+Et vous savez me rassurer.
+Mais j'aperçois dans cette enceinte
+Quelqu'un qui cherche à pénétrer.
+
+**** *book_ *id_I07 *act_I *date_(inc
+
+-*who_thalie
+C'est Cliton...
+      Que veux-tu ?
+
+-*who_cliton
+      Trois messieurs qui me suivent,
+Et qui dans le moment arrivent,
+Désireraient entretenir,
+Dans une secrète audience,
+La dame qu'avec vous ici j'ai vu venir.
+
+-*who_thalie
+Paraissent-ils gens d'importance ?
+
+-*who_cliton
+Je les crois étrangers.
+
+-*who_melpomene
+      En toute diligence,
+Dites-leur que je suis empressée à les voir.
+
+-*who_thalie
+Ces beaux messieurs ont peut-être à vous dire
+Ce que je ne veux pas savoir.
+Permettez que je me retire
+Pour vous les laisser recevoir.
+
+**** *book_ *id_I08 *act_I *date_(inc
+
+-*who_legrec
+Le Temps, ce souverain des Dieux et des mortels,
+Ce vieillard dont la main rassemble tous les âges,
+Et qui vit notre encens fumer sur vos autels,
+Me commande à vos pieds d'apporter des hommages ;
+La Grèce est ma patrie, et ce berceau des arts
+Éclairé le premier de vos divins regards,
+Veut par son député, prendre part à la gloire,
+De ce mortel fameux qu'au temple de mémoire,
+Sophocle à ses côtés verra bientôt asseoir.
+
+-*who_melpomene
+J'aime le zèle ardent que vous me faites voir ;
+Si le temps emporta les dépouilles d'Athènes,
+Son génie et ses arts, sur des rives lointaines,
+Croyez que les climats où je reçus le jour,
+Seront toujours présents et chers à mon amour.
+
+-*who_leromain
+J'apporte aussi, Madame, au nom d'un peuple libre,
+Le tribut mérité des rivages du Tibre,
+Pour celui dont le coeur a vu dans les Romains,
+Les plus grands des héros et les Rois des humains :
+Heureux si cet hommage aux mânes d'un grand homme,
+Satisfait à la fois, vous, sa patrie et Rome.
+
+-*who_melpomene
+Seigneur, ce grand honneur qu'il reçoit aujourd'hui,
+S'il est digne de vous, est bien digne de lui ;
+Mais le culte rendu par le monde au génie,
+De cent climats divers ne fait qu'une patrie.
+
+-*who_rodrigue
+Le dirai-je, Madame ; oui, tout autre que moi,
+Au bruit de ce grand nom pourrait trembler d'effroi;
+Mais la palme du Cid qui s'élève au Parnasse,
+Je l'espère à vos yeux me fera trouver grâce :
+Souffrez donc que Rodrigue apporte à vos genoux,
+Tout ce qu'il sent d'amour pour Corneille et pour vous :
+La Castille le veut, et l'honneur me l'ordonne.
+
+-*who_melpomene
+Jeune et brillant appui de plus d'une Couronne,
+Je reçois tous vos dons, ils me sont précieux;
+Déployez près de moi le noble caractère
+De ces fameux héros, si grands, si glorieux,
+Faits pour servir d'exemple au reste de la terre ;
+Corneille en les peignant se montre aussi grand qu'eux.
+Mais déjà je vois en ces lieux
+Revenir l'aimable Thalie.
+
+**** *book_ *id_I09 *act_I *date_(inc
+
+-*who_thalie
+Ma soeur, vous me voyez suivie
+De l'élite de mes enfants ;
+Et bientôt avec eux les peuples différents,
+De cent climats divers, et nés dans tous les âges,
+Conduits près de vous par le Temps,
+À la pompe de nos hommages,
+Vont mêler leurs tendres accents.
+
+-*who_melpomene
+Ah ! Mon coeur me le dit, déjà je les entends.
+Ces sons harmonieux m'annoncent leur présence.
+Rangez-vous près de moi : que la fête commence.
+
+**** *book_ *id_I10 *act_I *date_(inc
+
+-*who_letemps
+Illustres nations que l'ardeur de la gloire
+Et l'amour des talents rassemblent sous mes yeux ;
+Dans ce sacré parvis du temple de mémoire,
+Écoutez les accents du souverain des Dieux.
+Ah ! Si sur les travaux de la plus noble vie,
+La haine a, trop de fois, attaché ses serpents,
+Ma main seule les tue, et ce n'est que le Temps
+Qui d'un jour sans nuage éclaire le génie.
+Ce jour est arrivé, consacrons aujourd'hui
+La gloire du mortel qui le premier en France,
+De l'art de Melpomène exerça la puissance,
+Et qui forma des Rois pour régner après lui.
+
+-*who_melpomene
+Seigneur daignez montrer à la foule éperdue,
+Le glorieux séjour par mon fils habité.
+
+-*who_letemps
+Temple de l'immortalité,
+Paraissez, brillez à ma vue.
+
+-*who_thalie
+Mais n'entends je pas les accents
+De quelques langues étrangères ?
+
+-*who_letemps
+Elles ne le sont point : si l'espace et le temps,
+Aux états, aux mortels, ont fixé des barrières
+Pour le génie et les talents,
+L'amour sait les franchir, tous les hommes sont frères.
+
+-*who_melpomene
+Ils renaissent pour vous, ces beaux jours où Louis
+Se créait des sujets hors du sein de la France,
+Lorsque les Arts par lui protégés et chéris,
+Vous portaient le tribut de leur reconnaissance.
+La gloire des combats offre trop de hasards,
+Fait verser trop de sang, répandre trop de larmes:
+Mais il est une gloire à l'abri des alarmes,
+Une seule durable, et c'est celle des Arts.
+
+-*who_letemps
+Qu'elle brille en ces lieux, qu'elle nous environne
+Cette gloire, l'honneur des sujets et du trône,
+Par l'exemple fameux que je vais en donner.
+Vous cependant allez environner
+Avec respect cette noble statue:
+Approchez-la de moi ; peuples à votre vue
+Saturne va la couronner.
+
+-*who_letemps
+Ô vous ! Dont l'âme ambitionne
+L'immortalité des succès,
+Rappelez-vous cette couronne,
+Et sachez qu'un laurier ne se fane jamais,
+Lorsque c'est ma main qui le donne.
+
+-*who_letemps
+Ramenez ce grand homme au sommet du Parnasse,
+À côté de Sophocle où je marque sa place.
+
+-*who_thalie
+Mais seul au premier rang de l'immortalité,
+Si Corneille, Seigneur, est aujourd'hui porté,
+A ses nobles rivaux n'est-ce point faire injure ?
+
+-*who_letemps
+Non, non, Madame, et la postérité
+Que je guide d'une main sûre,
+Doit un jour avec équité,
+Au même rang placer à son côté,
+Et celui qui peignant l'amour et la nature,
+D'un charme si touchant leur prêta la beauté ;
+Et celui dont la main démasquant l'imposture,
+Contre tous ses tyrans, servit l'humanité.
+
+-*who_thalie
+Ah ! Je comprends, c'est une galerie...
+
+-*who_letemps
+Vous plaisantez ? Pourquoi donc, je vous prie ?
+
+-*who_thalie
+Le projet n'est pas neuf, et déjà dans Paris...
+
+-*who_letemps
+Madame, je suis peu surpris
+De l'éclat de pareils hommages.
+Si les Rois ici bas tiennent le rang des Dieux,
+Ils se montrent surtout leurs plus dignes images,
+Quand ils sont éclairés et bienfaisants comme eux.
+
+-*who_melpomene
+Vous que rassemblent en ce jour
+La reconnaissance et l'amour,
+Aux yeux de la France charmée,
+Célébrez dans vos chants, consacrez dans vos jeux,
+Le nom du mortel glorieux,
+Qui ne dut qu'à lui seul toute sa renommée.

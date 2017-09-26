@@ -1,0 +1,897 @@
+---
+identifier: rousseaujb_ceinturemagique  
+creator: Rousseau Jean Baptiste  
+date: 1701  
+title: La ceinture magique  
+---
+
+
+LA CEINTURE MAGIQUE
+
+COMÉDIE EN UN ACTE
+
+M. DCC. I.
+
+par M. Jean-Baptiste ROUSSEAU
+
+
+Représentée devant le roi, au mois de février 1701 à l'Hôtel de Conti à Versailles
+
+
+# AU LECTEUR.
+
+C'est ici un ouvrage de commande, et un travail de douze heures. Ainsi j'ai lieu d'espérer que les plaisanteries n'en seront point examinées trop sérieusement. On sait que l'Intention de la comédie est de faire rire, comme celle de la tragédie est de faire pleurer. Il n'y a rien de moins naturel que de voir Jupiter déclamant les vers d'Euripide, et Hercule négociant avec les oiseaux un passage pour la fumée des sacrifices. Cependant ces plaisanteries sont reçues dans Lucien et dans Aristophane, parce qu'elles excitent la passion, et que cette première règle couvre toutes les irrégularités. Il n'est donc pas nécessaire de justifier ici ce qui pourrait sembler un peu outré dans la petite comédie que l'on va voir, puisqu'on voulait qu'elle fût ainsi, et qu'elle a produit l'effet que l'on en attendait. Il serait peut-être plus à propos de rapporter à quelle occasion elle a été faite mais la modestie ne me permet pas de nommer au public tous les acteurs illustres qui ont bien voulu s'en faire un amusement. Il me suffit de conserver pour moi-même le souvenir éternel des bontés du grand prince qui m'en a fourni l'idée, et le trop juste regret d'une auguste princesse, à qui la France doit le plus cher objet de son amour, et qui en aurait fait elle-même le bonheur et les délices, si une mort prématurée ne l'eût enlevée à la fleur de son âge.
+
+
+# PERSONNAGES.
+ – MADAME MERLUCHE, vieille.
+ – LUCETTE, sa nièce.
+ – BALIVERNE, sa nièce.
+ – OCTAVE, amant.
+ – HORACE, amant.
+ – TRUFALDIN, tuteur amoureux.
+ – LE CAPITAN, tuteur amoureux.
+ – FRANCISQUE, homme d'intrigues.La scène est dans une place publique.
+
+
+# .
+
+
+## SCÈNE PREMIÈRE. Mme MERLUCHE, LUCETTE, BALIVERNE.
+
+    MADAME MERLUCHE.
+Or ça, mes nièces, parlons un peu d'affaires. Vous commencez à devenir grandes filles, mes enfants ; et à votre âge, je le sais par mon expérience, les jours sont longs et les années sont courtes. Je crois qu'il est temps, ou jamais, de songer à vous pourvoir. Feu monsieur Goguelu, votre père, se voyant près d'aller rendre ses comptes en l'autre monde, s'avisa de faire un testament. Il eût bien mieux fait de mourir subitement, le pauvre homme ! Il n'eut pas cet esprit-là. Il vous laissa sous la tutelle, vous du Capitan, et vous du seigneur Trufaldin ; deux aussi grands benêts, sans les flatter, qu'il y en ait dans le pays. En cette qualité, il a réglé qu'ils pourraient vous épouser au bout de l'an, ou bien vous marier à leur fantaisie. Voilà l'année finie. Quelle est votre intention à toutes deux ?
+
+    LUCETTE.
+Hé mais, ma tante pour ce qui est de moi, dame, je ne sais pas que vous dire, car, voyez-vous une fille, enfin, vous comprenez bien.
+
+    MADAME MERLUCHE.
+Voilà une réponse fort claire. Et vous ?
+
+    BALIVERNE.
+Ah ma tante, en vérité, vous demandez là des choses bien extraordinaires. Comment voulez-vous qu'on vous réponde ? Et le moyen d'acheminer la pudeur et la bienséance aux termes d'une déclaration comme celle-là.
+
+    MADAME MERLUCHE.
+Oui ? Voilà donc votre réponse, mademoiselle Lucette ? Et vous, mademoiselle Baliverne, est-ce là tout ce que vous avez à me dire ?
+
+    BALIVERNE.
+Nous ne disons pas cela, mais enfin.
+
+    MADAME MERLUCHE.
+Vous ne dites pas cela, mais enfin. Mais enfin vous ne dites rien. Et moi, qui n'ai pas le loisir de lanterner, je suis votre servante. Faites vos affaires comme vous l'entendrez.
+
+    LUCETTE.
+Ah ! Ma tante, ne vous en allez pas.
+
+    BALIVERNE.
+Mon Dieu, ma tante, que vous êtes pressante ! Vous traitez les sentiments du coeur avec une autorité tyrannique, et vous ne leur donnez pas le temps de se développer par les gradations nécessaires.
+
+    MADAME MERLUCHE.
+Vous n'êtes pas mal impertinentes, mes petites nièces ! Mais enfin il n'y a qu'un oui ou un non qui servira. Vous Lucette, voulez-vous épouser le Capitan ? Eh quoi n'est-ce pas oui que vous dites ?
+
+    LUCETTE.
+Non, vraiment, ma tante.
+
+    MADAME MERLUCHE.
+Ah voilà parler. C'est quelque chose que cela. Et vous, êtes-vous dans la résolution de prendre Trufaldin pour mari ? Plaît-il ? Dépêchez-vous, je m'en vais.
+
+    BALIVERNE.
+Puisque vous me défendez de périphraser mes élocutions, et que vous exigez de mon ingénuité le laconisme d'une décision monosyllabique la particule négative est celle dont je me servirai pour vous répondre.
+
+    MADAME MERLUCHE. [1]
+Voilà bien du Phébus pour dire non. Ah jeunesse, jeunesse ! Oh ça, puisque ces deux-là ne vous conviennent point, j'en ai deux autres à vous proposer, qui vous sont venus demander ce matin à moi. Le premier est un grand garçon.
+
+    BALIVERNE.
+N'est-ce pas un jeune homme qui vient quelquefois au logis ?
+
+    MADAME MERLUCHE.
+Cela se peut.
+
+    BALIVERNE.
+Qui est si bien fait et qui a des manières si polies?
+
+    MADAME MERLUCHE.
+Oui.
+
+    BALIVERNE.
+Qui est toujours vêtu si magnifiquement ?
+
+    MADAME MERLUCHE.
+Vous y êtes.
+
+    BALIVERNE.
+Qui s'appelle Horace ?
+
+    MADAME MERLUCHE.
+Justement.
+
+    BALIVERNE.
+Et qui loge dans la grande place, vis-à-vis la maison du gouverneur ?
+
+    MADAME MERLUCHE.
+C'est cela même.
+
+    BALIVERNE.
+Je ne le connais point.
+
+    MADAME MERLUCHE. [2]
+Au diantre soit la petite mijaurée !
+
+    LUCETTE.
+Et qui est l'autre, ma tante ?
+
+    MADAME MERLUCHE.
+L'autre est un jeune homme du même âge riche, sage, bien fait, et qui s'appelle Octave. Vous riez ? Je vois bien que vous ne le connaissez pas, comme votre soeur.
+
+    LUCETTE.
+Pardonnez-moi, ma tante je le connais fort bien.
+
+    MADAME MERLUCHE.
+Elle est de bonne foi, celle-ci. Eh bien ! Consentez-vous à le recevoir pour époux ?
+
+    LUCETTE.
+Oui, ma tante.
+
+    MADAME MERLUCHE.
+Et vous, serez-vous bien aise d'épouser Horace ?
+
+    BALIVERNE.
+Je ferai tout ce qu'il vous plaira.
+
+    MADAME MERLUCHE.
+Voilà qui est bien. Rentrez chacune chez vous. Je vais parler à vos tuteurs. S'ils y consentent, l'affaire se consommera dès aujourd'hui et s'ils n'y consentent point, je saurai bien les y obliger par force ou par adresse.
+
+
+## SCÈNE II. Madame Merluche, Trufaldin, Le Capitan.
+
+    LE CAPITAN. [3]
+Qu'on porte mes armes chez le fourbisseur que mes pistolets soient bien nettoyés ; et que mon épée de combat soit prête au plus tard dans demi-heure.
+
+    TRUFALDIN. [4]
+Je reviens dans le moment qu'on m'attende au logis, et qu'on ait soin de faire bien mitonner mon potage pour ce soir.
+
+    MADAME MERLUCHE.
+Ah ! Les voici fort à propos. Je vous cherchais messieurs ; et j'ai une proposition à vous faire, à tous deux.
+
+    TRUFALDIN.
+Me voilà prêt à vous ouïr.
+
+    LE CAPITAN.
+Parlez.
+
+    MADAME MERLUCHE.
+Vous êtes tuteurs de mes nièces. Elles sont en âge d'être pourvues, et je dois, comme leur tante, penser à leur établissement. Vous, seigneur Trufaldin, vous connaissez Horace ? Il vous demande votre pupille en mariage. Et vous, seigneur Capitan, Octave est de vos voisins; il est dans le dessein de prendre Lucette pour épouse. Voyez ce que vous avez à répondre. Allons seigneur Capitan.
+
+    LE CAPITAN.
+Répondez, seigneur Trufaldin.
+
+    TRUFALDIN.
+Je ne parlerai pas le premier.
+
+    LE CAPITAN.
+Parlez parlez, je vous le permets.
+
+    TRUFALDIN.
+L'honneur vous appartient.
+
+    LE CAPITAN.
+Eh bien je vous l'ordonne.
+
+    MADAME MERLUCHE.
+Il ne faut point tant de cérémonies pour dire une parole. Parlez, vous, seigneur Trufaldin : quelle réponse faut-il que je fasse à Horace ?
+
+    TRUFALDIN.
+Vous pouvez lui répondre qu'il n'a qu'a prendre parti ailleurs, et que je ne suis pas dans le sentiment de lui donner votre nièce.
+
+    MADAME MERLUCHE.
+Et par quelle raison, je vous prie ?
+
+    TRUFALDIN.
+Par la raison que je suis dans le dessein de la prendre pour moi.
+
+    MADAME MERLUCHE.
+Fort bien. Et vous, que souhaitez-vous que je dise de votre part à Octave ?
+
+    LE CAPITAN.
+Vous lui direz, que s'il veut avoir Lucette, il n'a qu'à la venir chercher au bout de cette épée.
+
+    MADAME MERLUCHE.
+Et pourquoi cela, s'il vous plaît ?
+
+    LE CAPITAN.
+Parce que je suis résolu, moi, de lui faire l'honneur de la prendre pour femme.
+
+    MADAME MERLUCHE.
+Je ne manquerai pas de leur dire cela de votre part : mais, en attendant, je puis vous répondre de la mienne, que mes nièces ne seront ni pour vous, ni pour vous.
+
+    LE CAPITAN. [5] [6]
+Pauvre femme ! Et ou diable pouvez-vous trouver un parti plus avantageux un parti en qui se rencontrent plus éminemment le bien, la noblesse, et la valeur ? Pour mon bien, il est connu de tout le monde. J'ai huitante mille écus, à quelques zéros près, de patrimoine. Quant à la noblesse cadédis, je descends, moi qui vous parle, en droite ligne de Nembroth et pour ce qui est de la valeur, celle d'Alexandre, celle de Thémistocle, de Scipion, de Pompée, de César ; vétilles. J'ai par-devers moi trente batailles plus sanglantes que celle du Granique, sans compter les combats singuliers, et les procédés, qui feront un jour le tableau le plus splendide du théâtre d'honneur.
+
+    MADAME MERLUCHE.
+Cela est vrai : témoin ce procédé que vous eûtes, il y a quelque temps, contre un passant qui vous donna je ne sais combien de soufflets, sans que vous vous missiez en défense.
+
+    LE CAPITAN.
+Fi donc ! Vous voulez que je m'aille commettre contre un fat, qui n'est peut-être pas gentilhomme ? D'ailleurs je ne fais rien, moi, qu'avec délibération. Ce coquin me prit pendant que je délibérais ; et dans le temps que j'allais prendre mon parti, le poltron s'esquiva.
+
+    MADAME MERLUCHE.
+Eh mon ami, croyez-moi, vous êtes vous-même le plus grand poltron qu'il y ait à vingt lieues à la ronde ; comptez là-dessus. Mais, pour couper court, j'ai à vous dire, en un mot comme en cent, que je ne me soucie ni de Nembroth ni de Faribroth ; que je suis la tante de mes nièces ; et qu'à moins qu'elles ne consentent à vous épouser, je seconderai de tout mon pouvoir tous les stratagèmes qu'Horace et Octave mettront en oeuvre pour vous les enlever à l'un et à l'autre.
+
+    TRUFALDIN.
+J'empêcherai bien qu'Horace ne me l'enlève et ma maison sera si bien fermée, que je défie homme vivant d'y entrer sans canon.
+
+    LE CAPITAN. [7]
+Cadédis ! Si je vois Octave approcher mon hôtel de cinq cents pas, je le réduirai si bien en poussière, que le vent emportera ses cendres jusqu'à la moyenne région de l'air.
+
+    MADAME MERLUCHE.
+Sans tant de forfanterie, tâchez d'avoir entre ci et ce soir le consentement de mes nièces. Si vous me faites voir qu'elles vous aiment, je signerai la première à votre contrat. Sinon, je vous ferai connaître de quel bois se chauffe madame Merluche.
+
+    TRUFALDIN.
+Soit. Je rentre, et je vais sur-le-champ avoir une explication là-dessus.
+
+    LE CAPITAN.
+Je vais aussi faire expliquer Lucette. Souvenez-vous, cependant, que je suis le Capitan Escarbombardon de la Spopondrillade c'est tout dire.
+
+
+## SCÈNE III. Madame Merluche, Horace, Octave.
+
+    HORACE.
+Hé bien, madame, quelle réponse vous a-t-on faite ?
+
+    OCTAVE.
+Quelles nouvelles avez-vous à nous apprendre ?
+
+    MADAME MERLUCHE.
+Une bonne et une mauvaise. Mes nièces ne s'éloignent pas de vous épouser ; mais leurs tuteurs se sont mis dans la tête de les épouser eux-mêmes.
+
+    HORACE.
+Que ferons-nous pour détourner l'exécution de ce fatal dessein ?
+
+    OCTAVE.
+Quels moyens emploierons-nous pour empêcher ce funeste mariage ?
+
+    MADAME MERLUCHE.
+C'est à vous à y rêver. Ce sont deux hommes très propres à donner dans tous les panneaux qu'on leur voudra tendre. Mais ils vont être furieusement en garde contre vous. Votre soin est de faire en sorte de tirer mes nièces de chez eux pour les amener chez moi ; et le mien est de faire tenir vos contrats tout prêts, afin de profiter vite de l'occasion. Adieu. Songez à vos affaires je vais songer aux miennes.
+
+
+## SCÈNE IV. Horace, Octave.
+
+    HORACE.
+Mon cher Octave, n'imaginez-vous rien pour détourner l'orage qui nous menace ?
+
+    OCTAVE.
+Non.
+
+    HORACE.
+Comment faire pour sortir du labyrinthe où nous sommes ?
+
+    OCTAVE.
+Je ne sais.
+
+    HORACE.
+Ce brutal de Trufaldin ne souffrira jamais que nous entrions chez lui.
+
+    OCTAVE.
+Et ce faquin de Capitan va être en garde contre toutes les tentatives que je pourrais faire pour parler à l'aimable Lucette.
+
+    HORACE.
+Nous ne pourrons pas même leur écrire.
+
+    OCTAVE.
+Qui est-ce qui rendrait nos lettres ?
+
+    HORACE.
+Tous nos valets leur sont connus.
+
+    OCTAVE.
+Quel parti prendre ? À quelle invention recourir ? Quelle résolution former ?
+
+    HORACE.
+Rêvez un peu de votre coté, tandis que je rêverai du mien.
+
+
+## SCÈNE V. Horace, Octave, Francisque.
+
+    FRANCISQUE.
+Le mérite et les talents sont bien persécutés en ce siècle de fer ! J'ai toujours ouï dire que l'argent des sots est le patrimoine des gens d'esprit ; et cependant il n'est pas permis de prendre son bien où on le trouve, et vous êtes perpétuellement exposé aux irruptions de la populace, ou aux brutalités de la justice. Il faut voir si je serai plus heureux dans cette ville-ci que dans les autres ; et...
+
+    HORACE.
+Il me semble que j'ai vu ce coquin-là quelque part.
+
+    FRANCISQUE.
+Voilà un homme qui me connaît ; passons de l'autre côté.
+
+    OCTAVE.
+Que vois-je ? N'est-ce pas ? Oui. Eh ! C'est toi, mon pauvre Francisque ? Par quelle aventure te retrouvé-je en ce pays-ci ? Te voilà dans un plaisant équipage !
+
+    FRANCISQUE.
+Vous voyez un exemple des caprices de la fortune.
+
+    OCTAVE.
+Il semble que le ciel t'ait fait venir ici pour nous tirer d'embarras. Seigneur Horace, voilà l'homme qu'il nous faut le génie le plus heureux, l'esprit le plus fertile en expédients que nous puissions jamais trouver.
+
+    HORACE.
+J'ai quelque idée de l'avoir vu il n'y a pas longtemps.
+
+    OCTAVE.
+Qu'as-tu donc fait, depuis six ans que tu as quitté mon service ?
+
+    FRANCISQUE.
+Ma foi, monsieur, on a beau se tourmenter pour bien faire, quand on est né malheureux, on ne réussit jamais à rien. Au sortir de chez vous, me voyant en âge de prendre un parti, je m'étais jeté dans les finances. Nous étions cinq ou six qui avions fait une compagnie pour lever un droit sur les particuliers qui vont tard dans les rues. Cela allait assez bien dans les commencements ; mais dans la suite nous fûmes traversés. Un faux frère révéla les mystères de la société. Nous nous dispersâmes ; et moi, qui ai toujours eu les inclinations belliqueuses, je me jetai dans le parti des armes. Comme je ne trouvai pas d'abord d'occasion d'aller exercer ma valeur sur la frontière, je me suis mis à faire la petite guerre dans Paris, où en peu de temps je me rendis assez recommandable. Au bruit de mes grandes actions, le lieutenant-criminel fut curieux de me voir. Il m'envoya un de ses gentilshommes, et me témoigna qu'il serait bien aise que nous eussions un quart d'heure de conversation ensemble. Je ne pus me dispenser de lui particulariser quelques faits, dont il n'avait ouï parler qu'en gros. Il en fut charmé ; et, pour me récompenser, il me donna, de son pur mouvement, un emploi sur les galères de France. J'y ai servi cinq ans avec honneur je m'y suis fort distingué. Enfin, comme je n'exerçais que par commission, mon temps étant expiré j'ai été licencié et je me suis retiré dans cette province, en attendant quelque occasion qui puisse me conduire à un poste plus élevé.
+
+    OCTAVE.
+Je prends part aux dignités que ton mérite t'a procurées ; et...
+
+    HORACE.
+Ah par ma foi, je me le remets à son récit. C'est lui que j'ai vu, il y a six semaines, à Marseille, voler, en présence de toute la ville, le cheval d'un gentilhomme.
+
+    FRANCISQUE.
+Voler un cheval ! Vous me faites tort. Il est vrai que nous sortîmes ensemble de la ville à bride abattue mais ce ne fut pas ma faute.
+
+    HORACE.
+Comment ce ne fut pas ta faute ?
+
+    FRANCISQUE.
+Non vraiment. Comme je passais par une petite rue fort étroite, je trouve un cheval, qui était justement en travers du chemin. Je me mis en devoir de passer par derrière. On me cria prenez garde, il vous donnera un coup de pied. Je voulus aller par devant. On me dit n'avancez pas, il vous mordra. Si bien donc que, de peur d'être mordu ou estropié, il fallait nécessairement que je passasse par-dessus. Effectivement, je mis le pied dans un des étriers et je passai une jambe. Dans ce temps-là ce diable de cheval prend le mors aux dents, et m'emporte à vingt-cinq lieues de Là. Voyez, je vous prie si cela s'appelle voler un cheval ?
+
+    OCTAVE.
+Il a raison ce n'est pas lui qui emmena le cheval, c'est le cheval qui l'emmena.
+
+    HORACE.
+Voilà un compère qui a de l'esprit, et qui pourrait bien, s'il voulait, nous tirer de l'inquiétude où nous sommes.
+
+    OCTAVE. [8]
+Or ça, mon pauvre Francisque, te sens-tu toujours ces nobles dispositions que je t'ai vues autrefois, ce génie heureux pour la fourberie, cette généreuse tendresse pour l'argent, ce vertueux mépris des coups de bâton et des étrivières ?
+
+    FRANCISQUE.
+Toujours Monsieur. Je n'ai point varié ; et depuis que je ne vous ai vu j'ai encore fortifié mes perfections de la connaissance de tous les arts qui peuvent enrichir la profession de fourbe. Je suis empirique, astrologue, maître en fait d'armes, tailleur serrurier, maître à danser. En un mot, j'ai cinquante-trois métiers, avec lesquels je meurs de faim c'est la vérité mais si dans l'un ou dans l'autre je puis vous être bon à quelque chose, vous pouvez disposer librement de mon savoir-faire.
+
+    OCTAVE. [9]
+Il s'agit de tromper la vigilance de deux Argus qui tiennent dans l'esclavage deux filles qui sont sous leur tutelle.
+
+    HORACE.
+D'empêcher que ces deux brutaux n'épousent ces deux belles personnes.
+
+    OCTAVE.
+De faire en sorte de les tirer de leur maison pour les conduire chez leur tante, qui est dans nos intérêts.
+
+    HORACE.
+Et de trouver moyen de leur faire tenir à chacune une lettre, qui les instruise de ce que nous aurons imaginé.
+
+    OCTAVE.
+L'un d'eux est le Capitan Escarbombardon qui demeure dans ce logis.
+
+    HORACE.
+Et l'autre, nommé Trufaldin est logé dans cette maison.
+
+    FRANCISQUE.
+J'en ai déjà ouï parler comme de deux imbéciles à jouer par-dessous jambe et s'ils sont, comme on me les a dépeints, je vous les expédierai en bref, sur ma parole.
+
+    HORACE.
+J'entends ouvrir. Il ne faut pas qu'on nous voie ensemble. Sortons, et allons chez la tante concerter notre entreprise.
+
+
+## SCÈNE VI. Trufaldin, Le Capitan.
+
+    TRUFALDIN.
+Eh bien ! Seigneur Capitan en quelles dispositions avez-vous trouvé Lucette ?
+
+    LE CAPITAN.
+Par la sandis, faut-il le demander ? N'étais-je pas sûr de mon fait ? Je ne suis pas moins l'amour des belles que la terreur des ennemis.
+
+    TRUFALDIN.
+Elle a consenti à votre mariage ?
+
+    LE CAPITAN.
+Au contraire ma présence a fait une si vive impression sur son coeur, qu'elle en a perdu le sens ; et au lieu de oui, qu'elle voulait dire, elle m'a toujours répondu non.
+
+    TRUFALDIN.
+Il faut que j'aie fait la même impression sur le coeur de la mienne ; car elle m'a répondu de la même manière.
+
+    LE CAPITAN.
+Je n'en ai jamais manqué une. Je n'ai besoin que d'un regard, d'un coup d'oeil, je vous les ensorcelle toutes.
+
+    TRUFALDIN.
+Vous verrez que ces vives impressions-là seront cause que nous ne les épouserons ni l'une ni l'autre.
+
+    LE CAPITAN.
+La pudeur les retient, sur ma parole.
+
+    TRUFALDIN. [10]
+Cela se pourrait bien ; car j'ai ouï dire à la mienne, qui lit les romans, qu'Astrée ne déclara sa passion à Céladon qu'à la fin du cinquième volume.
+
+    LE CAPITAN.
+Voilà le fait. Nous n'avons qu'à attendre. Elles y viendront tôt ou tard.
+
+    TRUFALDIN.
+Je trouve la chose assez problématique et je voudrais, pour beaucoup, être éclairci de la vérité.
+
+
+## SCÈNE VII. Trufaldin, Le Caiptan, Madame Merluche.
+
+    MADAME MERLUCHE.
+Je suis bien aise de vous rencontrer. On vient de m'adresser un homme admirable, un fameux astrologue qui est arrivé depuis peu en ce pays-ci. C'est un personnage extraordinaire, un homme qui possède la philosophie cabalistique, et les sciences divinatoires, comme celui qui les a faites. Il m'a dit du premier coup, tout ce qui m'est arrivé depuis que je suis au monde et il m'a assuré qu'il vous ferait voir, clair comme le jour, si vous êtes aimés de mes nièces. Vous savez que j'ai mis votre mariage avec elles à cette condition-là ; et j'en passerai par tout ce qu'il me dira.
+
+    TRUFALDIN.
+Envoyez-le-nous promptement, madame Merluche, envoyez-le-nous promptement.
+
+    LE CAPITAN.
+Quant à moi, je suis sûr de Lucette : la sotte m'adore, autant vaut. Mais baste, ne laissez pas de m'envoyer ce pauvre diable.
+
+    MADAME MERLUCHE.
+Il est à deux pas d'ici, je vais vous le faire venir tout présentement.
+
+    TRUFALDIN.
+Il faut voir si cet habile homme nous apprendra ce que nous désirons savoir.
+
+    LE CAPITAN.
+Le voici, sans doute.
+
+
+## SCÈNE VIII. Trufaldin, Le Capitan, Francisque, habillé en docteur.
+
+    FRANCISQUE S’AVANCE AU MILIEU D’EUX, LES PREND CHACUN EU MÊME TEMPS PAR LA TÊTE, ET LES FAIT INCLINER FORT BAS, PUIS LES RELÈVE FORT BRUSQUEMENT ; APRÈS QUOI IL LEUR DIT . [11] [12]
+Puisse Jupiter, dans le signe du Lion, présider toujours à vos entreprises. Quelle diantre de cérémonie est ceci ? Je suis le célèbre astrotogue Melchior Alcofribas, issu en droite ligne de la nymphe Égérie et du sylphe Oromasis, petit-fils de Mercure Trismégiste, neveu d'Agrippa, oncle de Nostradamus, beau-frère de Mélusine, et cousin-germain de l'Almanach de Milan.
+
+    LE CAPITAN.
+Ce gentilhomme a de belles alliances.
+
+    FRANCISQUE.
+Vous voyez en moi le type, le prototype et l'archétype des philosophes, l'intendant-général des sept planètes, le commissaire ordonnateur des éclipses et le gouverneur perpétuel des deux ourses, du dragon, du serpent, du chien, de l'hydre, du taureau, du lion, du scorpion, et de toute la ménagerie céleste.
+
+    TRUFALDIN.
+Monsieur le docteur, nous voudrions...
+
+    FRANCISQUE. [13]
+C'est moi qui ai inventé la cabale, qui ai mis dans le monde les sciences occultes, chiromancie, pédomancie, hydromancie pyromancie, alectromancie, sternutomancie, négromancie, pharmacie et apoplexie.
+
+    LE CAPITAN.
+Nous voudrions savoir...
+
+    FRANCISQUE. [14]
+Il y a dix-sept cents ans que je voyage dans le monde, où je suis connu sous le nom de Juif-errant. Depuis ce temps-là, j'ai parcouru tous les royaumes de la terre : la France, l'Espagne, l'Italie, la Turquie, la Hongrie l'Esclavonie, la Moldavie, la Scythie, la Tartarie, l'Arabie, l'Abyssinie, l'Egypte et le pays du Maine et enfin je suis venu m'établir en cette ville, pour me reposer un peu de toutes mes longues fatigues.
+
+    TRUFALDIN.
+Vous devez avoir apporté beaucoup de curiosités de tous ces pays étrangers que vous venez de nommer ?
+
+    FRANCISQUE. [15]
+Sans doute; mais j'en ai donné la plus grande partie au cabinet du Roi des Terres Australes ; et je n'ai apporté avec moi qu'une pomme de canne au bec de corbin, faite d'une dent de lait de l'éléphant blanc ; une pyramide d'Égypte avec la momie de Pharaon ; un basilic d'Éthiopie qui a tué deux cent mille hommes aux guerres de Congo ; le perroquet du grand Mogol, qui parle dix-sept sortes de langues, et répondait aux harangues des ambassadeurs ; une fiole de sens commun, dont je vous ferai présent, si vous voulez ; et une perruque faite des cheveux de la comète qui parut en mille-six-cent-quatre-vingt-un.
+
+    LE CAPITAN.
+Mon ami, je veux, pour joindre à ces raretés, te faire présent d'une de mes épées. Ce sera le plus beau meuble de ton trésor.
+
+    TRUFALDIN.
+Monsieur le docteur, nous sommes persuadés de votre admirable savoir, et nous vous dirons de nous éclaircir un doute. Nous sommes tuteurs de deux jeunes personnes que nous avons dessein d'épouser mais leur tante n'y veut point consentir, qu'elle ne sache si nous en sommes aimés et elles s'expliquent là-dessus d'une manière très ambiguë. Or, nous serions bien aises, par le moyen de vos rares connaissances, d'apprendre au vrai ce qui en est.
+
+    FRANCISQUE.
+C'est-à-dire que le soleil de leurs regards a fait éclipser la lune de votre entendement ; et que vous voudriez savoir par moi si l'étoile de vos désirs se pourra trouver quelque jour en conjonction avec la planète de leur consentement.
+
+    TRUFALDIN.
+C'est cela même.
+
+    FRANCISQUE.
+Et dites-moi un peu. Quel rêve avez-vous fait cette nuit ?
+
+    TRUFALDIN.
+Ah, malepeste, j'ai fait le plus terrible rêve du monde. Je songeais que j'étais métamorphosé en chouette, et que je voyais dans l'air une quantité prodigieuse d'alouettes. J'en ai vu une entre autres, la plus appétissante du monde, et j'ai volé après elle pour la gober ; mais comme j'en étais tout proche, il est venu un étourneau qui me l'a enlevée sur la moustache et tout d'un coup j'ai repris ma figure humaine, avec cette différence que je me suis trouvé un nez si long, que je n'en ai jamais pu voir le bout. Je vous prie de me dire quel signe c'est.
+
+    FRANCISQUE.
+Quel signe c'est ?
+
+    TRUFALDIN.
+Oui.
+
+    FRANCISQUE.
+C'est signe... c'est signe... de mort subite.
+
+    TRUFALDIN. [16]
+De mort subite ?
+
+    FRANCISQUE.
+Oui c'est cela assurément. Ne dormez-vous pas volontiers, quand vous avez fait un bon repas ?
+
+    TRUFALDIN.
+Quelquefois, quand je suis seul.
+
+    FRANCISQUE.
+Mort subite. Ne vous prend-il point des envies de bâiller, quand vous voyez bâiller quelqu'un ?
+
+    TRUFALDIN.
+Pour l'ordinaire.
+
+    FRANCISQUE.
+Mort subite. Et quand il fait un vent de bise en hiver, n'avez-vous pas froid au bout du nez ?
+
+    TRUFALDIN.
+Toujours, quand je vais à l'air.
+
+    FRANCISQUE.
+Mort subite, vous dis-je ; subitus, subitum, per omnia saecula saeculorum.
+
+    TRUFALDIN.
+Comment diable, mort subite !
+
+    FRANCISQUE.
+Oui ; mais consolez vous, ce ne sera que dans soixante ou quatre-vingts ans.
+
+    TRUFALDIN.
+Passe pour cela.
+
+    FRANCISQUE.
+Or sus, je vais travailler à vous faire connaître clairement si vous êtes aimés ou non des deux pupilles que vous voulez épouser.
+
+    TRUFALDIN.
+Je vous en prie de tout mon coeur.
+
+    FRANCISQUE.
+Si j'avais achevé ma carte cosmo-géo-hydro-chorotopographique du royaume de Saturne, je vous mettrais l'affaire au net dans le moment mais au défaut de cela, j'ai une ceinture constellée qui a servi autrefois au prêtre Jean dans une semblable occasion et qui fera le même effet, après quelques préparations nécessaires.
+
+    TRUFALDIN.
+Cela fera des merveilles.
+
+    FRANCISQUE.
+Voici deux lettres qu'il faut faire tenir aux nièces.
+
+    TRUFALDIN.
+Qu'est-ce que c'est que ces deux papiers que vous tenez là ?
+
+    FRANCISQUE.
+Chut... Ce sont deux lettres... Je veux dire deux tables astronomiques, dont l'une contient votre thème natal, et l'autre l'horoscope des enfants qui doivent naître de votre mariage. Çà, commençons l'opération. Mettez-vous à genoux.
+
+    TRUFALDIN.
+À genoux ?
+
+    FRANCISQUE. [17] [18]
+Oui, à genoux, et appuyez-vous sur vos deux mains. Allons, vous monsieur le spadassin qui bâillez aux corneilles, à genoux.
+
+    LE CAPITAN.
+Comment, malheureux, à genoux, moi ! Si tout l'univers s'écroulait sur mes épaules, il n'aurait pas le talent de me faire plier la jambe.
+
+    FRANCISQUE. [19]
+Comment ! Vous êtes réfractaire aux ordonnances de l'astrologie ! Je vous déclare, de la part du zodiaque, que vous allez devenir hydropique.
+
+    LE CAPITAN.
+Hydropique ?
+
+    FRANCISQUE.
+Non seulement hydropique, mais encore pulmonique.
+
+    LE CAPITAN.
+Je suis mort !
+
+    FRANCISQUE.
+Non seulement pulmonique, mais encore épileptique.
+
+    LE CAPITAN.
+Monsieur le docteur !
+
+    FRANCISQUE.
+Non seulement épileptique, mais encore paralytique.
+
+    LE CAPITAN.
+Miséricorde !
+
+    FRANCISQUE.
+Et qu'enfin après avoir été hydropique, pulmonique, épiteptique paralytique, et par-dessus cela phrénétique, vous mourrez hérétique. Adieu.
+
+    LE CAPITAN.
+Holà, monsieur le docteur, ne vous en allez pas nous nous mettrons comme il vous plaira.
+
+    FRANCISQUE.
+Ah, que diantre, on a bien de la peine à vous mettre à la raison ! Allons, bien bas. Encore plus bas. Voilà qui est bien. Ne tournez pas la tête.
+Francisque, après avoir fait plusieurs contorsions et prononcé quelques mots barbares, leur attache, derrière le manteau, les deux lettres qu'il veut faire tenir à Lucette et à sa soeur, en leur disant de temps en temps :
+
+Ne tournez pas la tête.
+Ensuite de quoi il leur dit :
+
+Voilà qui est fait. Levez-vous.
+
+    TRUFALDIN, EN SE RELEVANT.
+C'est une chose admirable que l'astrologie.
+
+    FRANCISQUE.
+Francisque, pour empêcher qu'aucun d'eux ne puisse voir ce qui est attaché sur le manteau de l'autre, se met entre eux, et leur passe à chacun un bras sous le sien en leur tenant le discours suivant :
+
+Messieurs, voici un argument qui vous fera voir l'existence, la certitude et l'évidence de l'astrologie judiciaire. Écoutez bien ceci, s'il vous plaît. Les astres. Non. Les planètes. Si fait, je dis bien : les astres. Je crois pourtant que ce sont les planètes. Ma foi, je ne sais si ce sont les planètes ou les astres. Tant il y a que c'est l'un ou l'autre. Or ces planètes, ou ces astres, si vous voulez, ressemblent à des étoiles. Remarquez bien ceci. Les étoiles sont comme des flambeaux. Les flambeaux produisent la lumière. La lumière est ce qui nous illumine. En illuminant elle chasse les ténèbres. Les ténèbres se forment dans la nuit. La nuit... tous les chats sont gris. Alqui : le pôle arctique et le pôle antarctique formant une espèce de triangle hexagone, par la sympathie qu'il y a avec l'antipathie des rayons du soleil et de la lune il s'ensuit que la réverbération... de la subordination... qui se trouve... pour ainsi dire... par exemple... comme... dans un tourbillon : les influences... les influences... Comment vous appelez-vous ?
+
+    TRUFALDIN.
+Je m'appelle le seigneur Trufaldin.
+
+    FRANCISQUE.
+Voilà un vilain nom. Pourquoi diable vous appelez-vous comme cela ? Trufaldin ! Il ne faut qu'un nom comme celui-là, pour déconcerter tout l'observatoire.
+
+    TRUFALDIN.
+Apportez nous donc vitement votre ceinture constellée.
+
+    FRANCISQUE.
+Je vais vous la chercher. Mais vous avez là des manteaux qui vous embarrassent. Vous ne pourrez jamais vous en servir avec ce harnais. Appelez vos deux maîtresses, afin qu'elles les emportent. Aussi bien est-il nécessaire que je les voie.
+
+    LE CAPITAN.
+C'est fort bien pensé.
+
+    TRUFALDIN.
+Il a raison.
+
+
+## SCÈNE IX. Trufaldin, Le Capitan, Lucette, Baliverne, Francisque.
+
+    LE CAPITAN.
+Hola, Lucette.
+
+    TRUFALDIN.
+Descendez, Baliverne.
+
+    LUCETTE.
+Que vous plaît-il, seigneur Capitan ?
+
+    BALIVERNE.
+Que désirez-vous, seigneur Trufaldin ?
+
+    LE CAPITAN.
+Otez-moi le manteau, et me le pliez proprement.
+
+    TRUFALDIN. [20]
+Prenez ma houppelande, et gardez-vous bien de la gâter.
+
+    LUCETTE ET BALIVERNE, APERCEVANT LES DEUX LETTRES.
+Ah, ah, ah, ah, ah, ah !
+
+    LE CAPITAN.
+À qui en avez-vous donc ?
+
+    TRUFALDIN.
+Qu'est-ce que ce fou rire qui vous prend ?
+
+    LUCETTE.
+Ce n'est rien, seigneur Capitan.
+
+    BALIVERNE.
+C'est un rire de réminiscence, monsieur.
+
+    FRANCISQUE.
+Je vais maintenant chercher votre affaire.
+
+
+## SCÈNE X. Trufaldin, Le Capitan, Francisque.
+
+    TRUFALDIN.
+Voilà un homme d'un prodigieux savoir !
+
+    LE CAPITAN.
+S'il était aussi consommé dans la science des armes que dans celle de l'astrologie, j'en ferais mon valet de chambre.
+
+    FRANCISQUE.
+Je vous apporte la ceinture en question. Mais je n'ai pas songé à une chose. Le prêtre Jean est fort gros, et vous êtes tous deux assez menus. Cela ne pourra jamais vous servir séparément car pour bien faire, il faut que vous soyez extrêmement serrés.
+
+    LE CAPITAN.
+Comment ferons-nous donc ?
+
+    FRANCISQUE.
+Attendez je m'avise d'une chose. Elle a assez de longueur pour vous servir en même temps. Vous n'avez qu'à vous mettre dos à dos, et je vous l'attacherai à tous deux par le milieu du corps.
+
+    TRUFALDIN.
+Oui ; mais si on nous voit en cet état, on se moquera de nous ?
+
+    FRANCISQUE.
+Bon, bon ! Personne ne passe à l'heure qu'il est. Laissez-moi faire seulement.
+
+    TRUFALDIN.
+Elle est d'acier, monsieur le docteur ?
+
+    FRANCISQUE.
+Vraiment oui. C'est une ceinture magique, semée de talismans, gravés an signe et à l'heure de Mercure, en quadrat avec Jupiter. Vous verrez avec cela des choses terribles.
+
+    LE CAPITAN.
+Terribles ! Cela ne fera-t-il point peur au seigneur Trufaldin ?
+
+    FRANCISQUE.
+En aucune façon.
+
+    LE CAPITAN.
+Vous la fermez au cadenas, monsieur le docteur ?
+
+    FRANCISQUE.
+Et oui, vraiment. Cela est essentiel. Or sus, voilà qui est bien. Vous allez voir tout à l'heure quelque chose qui vous surprendra.
+
+    LE CAPITAN.
+Je suis fort serré, monsieur le docteur.
+
+    TRUFALDIN.
+Et moi aussi.
+
+    FRANCISQUE.
+Tant mieux, vous ne sauriez l'être trop. Demeurez là je vais faire un tour, et je reviens dans le moment.
+À part.
+
+Allons promptement faire venir nos amants.
+
+
+## SCÈNE XI. Trufaldin, Le Capitan, Francisque, Horace, Octave.
+
+    TRUFALDIN.
+Ne voyez-vous rien, seigneur Capitan ?
+
+    LE CAPITAN.
+Je ne vois rien.
+
+    FRANCISQUE, À OCTAVE ET À HORACE.
+Voilà nos renards dans le piège ; profitez-en. Je me retire.
+
+    TRUFALDIN.
+Morbleu je vois quelque chose, moi : Horace s'approche de ma maison.
+
+    LE CAPITAN.
+Ah ventre ! Octave vient à mon logis.
+
+    TRUFALDIN.
+On ouvre ma porte !
+
+    LE CAPITAN.
+On ouvre aussi la mienne !
+
+    TRUFALDIN.
+Baliverne sort avec lui !
+
+    LE CAPITAN.
+Lucette lui donne la main !
+
+    TRUFALDIN.
+Laissez-moi donc aller.
+
+    LE CAPITAN.
+Laissez-moi aller vous-même.
+
+    BALIVERNE, À TRUFALDIN.
+Seigneur Trufaldin, je vous souhaite toutes sortes de prospérités.
+
+    LUCETTE, AU CAPITAN.
+Seigneur Capitan, je suis votre très humble servante.
+
+    TRUFALDIN.
+Il me l'emmène, seigneur Capitan !
+
+    LE CAPITAN.
+Elle s'en va avec lui, seigneur Trufaldin !
+
+    TRUFALDIN.
+Ne me retenez donc pas.
+
+    LE CAPITAN.
+C'est vous qui me retenez.
+
+    TRUFALDIN.
+Ah ! Nous sommes pris pour dupes ! Je suis au Désespoir. J'enrage.
+
+
+## SCÈNE XII. Trufaldin, Le Capitan, Madame Merluche.
+
+    MADAME MERLUCHE, S’ÉTOUFFANTDE RIRE.
+Ah ! Mon Dieu ! Qu'est-ce que c'est que cela ? Êtes-vous devenus fous ? Est-ce une farce que vous jouez ?
+
+    TRUFALDIN.
+Ah, madame Merluche, votre scélérat d'astrologue.
+
+    MADAME MERLUCHE.
+Comme vous voilà fagotés ! Hé, hé, hé, hé !
+
+    LE CAPITAN.
+C'est une fourberie.
+
+    MADAME MERLUCHE.
+Qui est-ce qui vous a ajustes comme cela ? Ah, ah, ah, ah !
+
+    TRUFALDIN.
+Je vous dis que...
+
+    MADAME MERLUCHE.
+On va se moquer de vous.
+
+    LE CAPITAN.
+C'est ce coquin...
+
+    MADAME MERLUCHE.
+Vous n'êtes pas raisonnable.
+
+    TRUFALDIN.
+Je veux vous dire...
+
+    MADAME MERLUCHE.
+Un homme sérieux comme vous.
+
+    LE CAPITAN.
+Vous aurez...
+
+    MADAME MERLUCHE.
+Une personne de votre profession !
+
+    TRUFALDIN.
+Je vous dis que ce pendard que vous nous avez envoyé, qui nous a mis en cet état ; et pendant ce temps-là, Octave et Horace ont emmené vos nièces.
+
+    MADAME MERLUCHE.
+Octave et Horace ont emmené mes nièces ?
+
+    LE CAPITAN.
+Oui, mais...
+
+    MADAME MERLUCHE.
+Si cela est, c'est un signe évident qu'elles ne vous aiment point.
+
+    LE CAPITAN.
+Débarrassez-moi de cette ferraille, et je les attraperai, fussent-ils au fond des abîmes de l'océan.
+
+
+## SCÈNE XIII. Trufaldin, Le Capitan, Mme Merluche, Octave, Horace.
+
+    HORACE.
+Vous n'irez pas si loin, messieurs; nous voici.
+
+    MADAME MERLUCHE, À TRUFALDIN ET AU CAPITAN.
+Mes enfants, il faut avaler cela tout doucement. Je vous ai proposé tantôt deux partis sortables pour mes nièces. Vous avez voulu vous approprier leurs personnes et leur bien cela ne vous a pas réussi elles sont chez moi. J'ai signé leur contrat le voilà ; et si vous voulez être décadenassés, il faut que vous preniez la peine de le signer aussi.
+
+    TRUFALDIN.
+Moi, signer le contrat ?
+
+    LE CAPITAN.
+J'aimerais mieux ne porter jamais épée.
+
+    OCTAVE.
+Seigneur Capitan, je veux bien commencer par vous mettre en liberté ; mais quand vous y serez, soyez persuadé que je vous donnerai les étrivières jusqu'à ce que vous ayez signé.
+
+    LE CAPITAN.
+Donnez ; je signerai à votre considération.
+
+    TRUFALDIN.
+Puisque la chose est faite, il faut-bien s'y résoudre.
+
+    OCTAVE.
+Vous pouvez aller maintenant où il vous plaira.
+
+    MADAME MERLUCHE.
+Seigneur Octave et vous seigneur Horace venez chez moi pour y célébrer vos mariages. Et vous, messieurs, rentrez chacun dans vos logis ; et, si vous m'en croyez, ne parlez de cette aventure que le moins qu'il vous sera possible.
+
+
+## SCÈNE XIV.
+Sept masques conduits par Francisque, et portant la marque des sept planètes, viennent former une entrée mêlée de récits, par où finit la comédie.
+
+
+-------
+
+
+[1] Phébus : autre nom d'Apollon, dieu du soleil, de la lumière, des arts et de la médécine dans la mythologie antique.
+
+[2] Mijaurée : terme populaire et injurieux, que les femmes disent à Paris, quand elles se querelles. (Dict. Furetière)
+
+[3] Fourbisseur : artisan qui vend et fourbit (nettoyer, polir, rendre luisant) des épées. F
+
+[4] Mitonner : faire cuire ou chauffer quelque chose à petit feu dans quelque sauce ou liqueur afin qu'elle en soit bien imbibée. F
+
+[5] Nembroth : ou Nemrod,personnage de la Bible, fils de Cnus et arrière petit fils de Cham, passe pour le fondateur de Babylone. On place son règne fort incertain, vers 2640 ou 2230 av. J.C. B
+
+[6] Granique : petite rivière de l'Asie Mineure (Mysie), Alexandre remporta sur ses bords sa 1ère victoire sur les Perses, 334 av. JC, Lucullus y battit Mithridate l'en 73 av. JC. B
+
+[7] Cadédis : juron gascon.
+
+[8] Etrivières : Courroie à laquelle est suspendu l'étrier. Au plur. Coups d'étrivières. Recevoir les étrivières. Fig. Tout mauvais traitement qui humilie ou déshonore. L
+
+[9] Argus : personnage de la mythologique qui avait cent yeux et qui n'en fermait que cinquante pour dormir. Symbole de la vigilance.
+
+[10] Astrée : immense roman pastoral d'Honoré d'Urfé publié entre 1607 et 1627. Astrée est aussi déesse grecque personnifiant la Justice. 
+
+[11] Alcofribas Nasier : pseudonyme que François Rabelais utilisa pur publier ses oeuvres de fictions ; c'est un anagramme.
+
+[12] Nostadamus 1503-1566 : Michel de NostreDame auteur des Centuries, interpétées par certains comme prophétiques.
+
+[13] L'ensemble des sciences occultes font un galimatias comique.
+
+[14] Juif-errant : un fantôme qu'on croit avoir vu, d'un juif qui court le monde sans se reposer, en punition de ce que l'on dit qu'il empêcha Jesus-Crhist de se reposer, lorsqu'il était fatigué de porter sa croix ; et par allusion on le dit des hommes qui sont toujours par voie et par chemin, qu'on ne trouve jamais chez eux. F
+
+[15] Comète : une comète parut en 1681, il se pourrait que cela soit la comète de Halley. On assimilait poétiquement alors la queue à des cheveux.
+
+[16] cf. Molière Le Malade imaginaire acte III, scène 10.
+
+[17] Spadassin : traîneur d'épée, coupe-jarret, qui fait le métier de se battre, d'assassiner, qui ne porte l'épée que pour mal faire, et non pas pour servir le roi. F
+
+[18] Bailler aux corneilles : ne rien faire.
+
+[19] Hydropique : qui a les membres gonflés par une abondance d'eaux ou de vents. F
+
+[20] Houppelande : c'était originairement une cape, ou manteau de berger fait de cuir, dont se sont servis ensuite les voyageurs sontre le pluie. F

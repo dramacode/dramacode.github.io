@@ -1,0 +1,1706 @@
+
+
+**** *book_ *id_I01 *act_I *date_1698
+
+-*who_lepine
+Ma foi, Monsieur, c'est une sotte chose que l'amour !
+Convenez-en de bonne foi.
+Tant que vous n'avez été que libertin, vous avez vécu le plus heureux du monde : pourquoi diantre changer des manières dont vous vous êtes si bien trouvé ?
+
+-*who_clitandre
+Que veux-tu que je fasse, mon pauvre Lépine ?
+Il ne dépend pas de moi de résister aux charmes de l'aimable Colette, et son mérite et sa beauté me paraissent dignes d'une fortune plus considérable que celle que je puis lui faire.
+
+-*who_lepine
+Comment diable ?
+Voilà une passion bien sérieuse, au moins ; et pour la petite nièce d'une meunière encore !
+Cette aventure-là fera du bruit, Monsieur, et ce sera un des beaux chapitres du roman de votre vie.
+
+-*who_clitandre
+C'en sera la conclusion, mon enfant, et je borne tous mes désirs, toute ma félicité, au seul plaisir de me faire aimer d'une si charmante personne.
+
+-*who_lepine
+Hé fi donc, Monsieur, c'est bien à moi qu'il faut dire cela.
+
+-*who_clitandre
+Je te dis vrai.
+
+-*who_lepine
+Quoi ?
+Vous qui avez passé de si doux moments dans les plus agréables compagnies de la Province.
+Vous qui êtes la coqueluche de tout le Gâtinais, et les délices de toutes les coquettes de Montargis ?
+Vous allez vous borner ici, et vous amuser à filer le parfait amour dans un moulin ?
+Vous vous moquez, je pense.
+
+-*who_clitandre
+Je ne me moque point, je m'abandonne à ma destinée.
+Je n'ai jamais rien vu de plus aimable que Colette, et jamais je n'aimerai qu'elle.
+
+-*who_lepine
+C'est-à-dire que vous voilà déterminé à ne vous point marier ; car apparemment, vous ne voulez pas faire la petite Meunière autre chose qu'une maîtresse ?
+
+-*who_clitandre
+Pourquoi non ?
+Est-ce la naissance qui doit déterminer au choix d'une femme ?
+C'est le mérite et la vertu qui font les mariages, et je trouve dans la personne de Colette tout ce qu'il me faut pour me rendre heureux.
+
+-*who_lepine
+Vous êtes absolument dans ce goût-là, Monsieur, j'en suis ravi, je vous assure ; je vous en félicite, et je pourrai bien avoir l'honneur de devenir votre oncle.
+
+-*who_clitandre
+Comment, mon oncle ?
+
+-*who_lepine
+Oui, Monsieur, Madame Julienne la Meunière est comme vous savez, la tante de votre charmante Colette.
+
+-*who_clitandre
+Hé bien ?
+
+-*who_lepine
+Hé bien, Monsieur, je trouve dans la personne de la tante tout ce que vous trouvez dans celle de la nièce : et comme je ne m'oppose point à votre satisfaction, vous ne voudrez pas mettre obstacle à ma petite fortune, peut-être ?
+
+-*who_clitandre
+Quelles visions tu te mets dans la tête !
+Toi, épouser Madame Julienne !
+Il faut auparavant qu'elle devienne veuve.
+
+-*who_lepine
+Oh !
+Elle l'est, Monsieur, le Meunier est défunt, sur ma parole.
+
+-*who_clitandre
+Tu ne sais ce que tu dis, cela n'est point.
+
+-*who_lepine
+Que diantre serait-il devenu ?
+On l'a assommé quelque part, sur ma parole ; tout le monde le croit, du moins ; et il faut que Madame Julienne en soit bien sûre, elle ; car depuis quelques jours elle est d'un contentement, d'une gaîté
+
+-*who_clitandre
+Je lui pardonnerais de ne le pas regretter : un fou, un imbécile, qui sans la résistance de sa femme, aurait rendu sa pauvre petite nièce malheureuse.
+
+-*who_lepine
+Il prétendait la marier à Monsieur le Bailli, et ce Monsieur le Bailli n'a pas encore renoncé tout à fait à ses prétentions.
+
+-*who_clitandre
+Il peut se flatter tant qu'il lui plaira, mais la tante est mes intérêts.
+
+-*who_lepine
+Vos affaires sont en bonnes mains ; c'est une maîtresse femme.
+La voici, Monsieur.
+
+**** *book_ *id_I02 *act_I *date_1698
+
+-*who_julienne
+Votre sarvante, Monsieu Clitandre.
+Hé bian, qu'est-ce ?
+Êtes-vous toujours bian amoureux de ma nièce ?
+Terminerons-je cette affaire-là ?
+Il ne faut point tant barguigner, je ferons le contrat quand vous voudrez.
+À quand la noce ?
+Que j'y danserai de bon cœur !
+Je ne me suis jamais tant sentie si fort en joie.
+
+-*who_lepine
+Oh, le bonhomme Julien est trépassé, il n'y a point de milieu.
+
+-*who_clitandre
+Que je suis ravi, ma chère Madame Julienne, de vous trouver dans ces sentiments !
+Si ceux de votre charmante nièce m'étaient aussi favorables
+
+-*who_julienne
+Seriais-vous encore à vous en apercevoir ?
+Et depuis un mois que son bourru d'oncle a quitté le moulin, n'avez-vous pas eu tout le temps et toute la commodité de lui conter vos raisons, et de savoir ce qu'elle a dans l'âme ?
+
+-*who_clitandre
+Je crois lire sans ses yeux et dans ses manières qu'elle n'est pas insensible à ma tendresse : mais j'ai beau la presser de consentir à l'union que vous voulez faire, l'éloignement de votre mari, le dessein qu'il avait de lui faire épouser ce malheureux Bailli, la crainte où elle est qu'à son retour il ne fasse éclater son ressentiment contre vous
+
+-*who_julienne
+De quoi se mêle-t-elle ?
+Sont-ce là ses affaires ?
+Je veux le fâcher, moi, je veux qu'il me querelle, en cas qu'il me revienne, da, car
+
+-*who_lepine
+Oh !
+Madame Julienne sait bien ce qu'elle fait, Monsieur.
+
+-*who_julienne
+Oh !
+Pour cela, oui, j'ai toujours voulu être la maîtresse.
+Quand Julien me faisait l'amour, il m'a tant dit qu'il était mon sarviteur, que je n'en ai jamais voulu démordre.
+Du depuis que je sommes mariés, il a voulu faire le maître ; oh dame, je nous sommes trouvés deux, le nous sommes querellés, je nous sommes battus ; aussi ça fait que je ne nous aimons guères.
+À la parfin, je lui ai fait désarter la maison : et de cette magnière-là, je suis demeurée la maîtresse, moi, comme vous voyez.
+
+-*who_lepine
+Si la nièce suit l'exemple et les leçons de la tante, vous allez faire un beau mariage, Monsieur.
+
+-*who_clitandre
+Paix, tais-toi.
+
+-*who_julienne
+M'en croirez-vous, Monsieu Clitandre ?
+Sarvez-vous de l'occasion : vous aimez Colette, alle est gentille, alle a de bon bian ; j'ons vingt mille francs à elle, ça est bon à prendre ; je vous la veux bailler, parce que Julian la voulait bailler à un autre.
+Si par aventure je n'avais plus personne qui m'obstinît, je changerais d'avis, peut-être, et vous en enrageriais, je gage.
+
+-*who_clitandre
+Oui, je serais au désespoir, si vous deveniez contraire à mon amour.
+J'adore votre aimable nièce, je fais tout mon bonheur de la posséder ; disposez-la seulement à ce mariage, nous en ferons, quand il vous plaira, la cérémonie.
+
+-*who_julienne
+Dame, acoutez, je prétends que ça fasse fracas dans le pays, et que tout le monde sache que vous serez mon neveu.
+
+-*who_clitandre
+Je m'en fais trop de plaisir pour ne m'en pas faire honneur, je vous assure.
+
+-*who_julienne
+Bon, tant mieux, le Bailli en crèvera de dépit, et je m'en vais faire prier de la noce toutes les Meunières des environs, pour qu'alles aient la rage au cœur de voir Colette devenir grosse Madame.
+
+-*who_lepine
+La bonne personne que Madame Julienne !
+
+-*who_julienne
+Il faut faire les fiançailles drès aujourd'hui, Monsieu Clitandre : je baillerai le festin, moi, ayez-nous des Ménétriers tant seulement.
+
+-*who_lepine
+C'est mon affaire à moi, je m'en charge.
+
+-*who_clitandre
+Et moi, je vais avertir ma famille de la résolution que j'ai prise, les inviter à venir prendre part à mon bonheur, et je me rends ensuite auprès de votre charmante nièce, pour ne la quitter de ma vie.
+
+-*who_julienne
+L'aimable petit homme !
+Adieu, mon neveu.
+
+**** *book_ *id_I03 *act_I *date_1698
+
+-*who_julienne
+Cette parenté-là ne fera point de déshonneur à la profession, Monsieur de Lépine.
+
+-*who_lepine
+Non, vraiment, et voilà votre moulin illustré, Madame Julienne.
+
+-*who_julienne
+Vous ne sauriais croire le plaisir que ça me fait, et si pourtant je ne sis pas glorieuse.
+
+-*who_lepine
+Un peu d'ambition n'est pas blâmable.
+
+-*who_julienne
+Ça ne me tourmente point, et je voudrais que mon pauvre mari fût mort, an verrait bian que ce n'est pas la vanité qui me gouvarne.
+
+-*who_lepine
+Vous ne seriez pas fâchée d'être veuve, Madame Julienne ?
+
+-*who_julienne
+Il m'est avis que non, Monsieu de Lépine, je crois que ça est drôle ; je ne l'ai jamais été, ça me serait nouviau, et les femmes ne haïssent pas la nouviauté, comme vous savez.
+
+-*who_lepine
+Non, vraiment.
+
+-*who_julienne
+S'il était vrai, comme chacun dit, que Julian fût défunt je ne lui souhaite point du mal, le Ciel m'en préserve.
+
+-*who_lepine
+Vous avez le cœur trop bon pour cela, assurément : mais si le mal était arrivé par aventure ?
+
+-*who_julienne
+Oh dame, en cas de ça, Dieu veuille avoir son âme, cet homme-là m'a bian tourmentée.
+
+-*who_lepine
+Vous ne vous remarierai pas, je gage ?
+
+-*who_julienne
+Vous croyez cela, Monsieu de Lépeine ?
+
+-*who_lepine
+Oui, vous vous êtes si mal trouvée de ce mari-là
+
+-*who_julienne
+Hé voirement, ce serait pour être mieux, que je voudrais en prendre un autre.
+
+-*who_lepine
+Cela est de fort bon sens.
+
+-*who_julienne
+N'est-il pas vrai ?
+
+-*who_lepine
+Il faudrait bien prendre garde au choix que vous feriez.
+
+-*who_julienne
+Il est déjà tout fait, Monsieu de Lépeine.
+
+-*who_lepine
+Il est déjà fait ?
+Quelle précaution de femme ?
+
+-*who_julienne
+Oh dame, je ne sis pas une barguigneuse, moi.
+
+-*who_lepine
+Parbleu, c'est à moi qu'elle en veut, je l'avais bien prévu, je serai l'oncle de mon maître.
+
+-*who_julienne
+Drès que je suis menacée de queuque accident, je songe d'abord au remède, voyez-vous.
+
+-*who_lepine
+C'est fort prudemment fait.
+Et quel heureux mortel, Madame Julienne, serait l'antidote de votre veuvage ?
+
+-*who_julienne
+Un bon garçon, de qui je ferai la forteune, Monsieu de Lépeine.
+
+-*who_lepine
+C'est moi.
+
+-*who_julienne
+Jeune et de bonne himeur.
+
+-*who_lepine
+Justement, c'est moi.
+
+-*who_julienne
+Beau, bien fait.
+
+-*who_lepine
+Oh, c'est moi, sans contredit.
+
+-*who_julienne
+Et de qui je sis sûre que je ferai ce que je voudrai.
+
+-*who_lepine
+Oui, Madame Julienne, je vous en réponds, et vous me verrez toujours l'homme du monde le plus amoureux et le plus reconnaissant.
+
+-*who_julienne
+Je vous verrai amoureux !
+De qui ?
+Et reconnaissant !
+De quoi ?
+
+-*who_lepine
+De toutes les bontés que vous avez pour moi.
+
+-*who_julienne
+Hé voirement, je n'en ai point, ce n'est pas vous que ça regarde.
+
+-*who_lepine
+Ce n'est pas moi
+
+-*who_julienne
+Hé fy donc, vous vous gaussez, je pense.
+Oh !
+Vous n'êtes pas d'une corpulence à devenir meunier, le moulin dépérirait entre vos mains.
+Je sis bian votre sarvante, je ne veux pas quitter la profession.
+Allez nous chercher des Ménétriers.
+Jusqu'au revoir, Monsieur de Lépeine.
+
+**** *book_ *id_I04 *act_I *date_1698
+
+-*who_lepine
+Maugrebleu de la masque, avec son moulin.
+Ce sera quelque jeune meunier du voisinage qui lui aura donné dans la vue.
+À la peinture qu'elle a faite pourtant, je me suis reconnu trait pour trait : beau, bien fait.
+Il est vrai qu'elle n'a point parlé de l'esprit et du mérite, c'est quelque manant dont elle est coiffée, et voilà l'erreur de la plupart des femmes : ce n'est ni le mérite, ni l'esprit ; c'est la taille et la figure qui font aujourd'hui la fortune des hommes.
+
+**** *book_ *id_I05 *act_I *date_1698
+
+-*who_madameagathe
+Bonjour, Monsieur de Lépine, comment vous en va ?
+
+-*who_lepine
+Votre valet, Madame Agathe : fort à votre service.
+
+-*who_madameagathe
+N'auriez-vous point vu la commère Julienne, par aventure ?
+
+-*who_lepine
+Le voilà qui s'en va de ce côté.
+
+-*who_madameagathe
+Je m'en vais courir après elle, j'ai une plaisante nouvelle à lui apprendre.
+
+-*who_lepine
+Et quelle ?
+
+-*who_madameagathe
+Son mari n'est pas mort, Monsieur de Lépine.
+
+-*who_lepine
+Cette nouvelle-là ne lui plaira point, Madame Agathe, ne vous pressez point de la lui donner.
+
+-*who_madameagathe
+Hé, le plaisant n'est pas qu'il soit en vie, c'est qu'il va se marier.
+
+-*who_lepine
+Du vivant de sa femme ?
+
+-*who_madameagathe
+Oui vraiment, il ne s'embarrasse pas de ça, et il faut y mettre empêchement, n'est-ce pas ?
+
+-*who_lepine
+Oh, point du tout, il n'y a qu'à le laisser faire, elle lui rendra bien le change, sur ma parole.
+
+-*who_madameagathe
+Je sais bien qu'ils ne s'aiment guères : mais ça ne fait rien ; une femme a beau ne se pas soucier de son mari, elle aime toujours bien mieux qu'il soit mort, que non pas qu'il en épouse d'autres.
+
+-*who_lepine
+Mais, êtes-vous bien sûre de cette nouvelle-là, Madame Agathe ?
+
+-*who_madameagathe
+Si j'en suis sûre ?
+C'est le cousin Vincent qui me l'a dit.
+Il revient de Nemours, comme vous savez.
+
+-*who_lepine
+Hé bien ?
+
+-*who_madameagathe
+Hé bien, il a trouvé le Meunier qui s'est fait rat de cave.
+Ils ont joué bouteille à la boule ensemble ; et en buvant, le Meunier lui a tout conté : qu'il est amoureux de la fille d'un cabaretier ; qu'il y a trois ans que cet amour-là lui trotte dans la cervelle ; et que comme il n'aime point Madame Julienne, il a trouvé à propos de devenir veuf, sans qu'il mourût personne, et de se remarier en survivance.
+
+-*who_lepine
+Cela est fort commode : mais le meunier est fort indiscret.
+
+-*who_madameagathe
+Oh !
+Il a bien recommandé le secret au cousin.
+Aussi le cousin ne l'a dit qu'à moi, je ne l'ai dit qu'à vous, je ne le dirai plus qu'à la commère Julienne.
+
+-*who_lepine
+Et je n'en ferai confidence qu'à trois ou quatre de mes amis, moi.
+
+-*who_madameagathe
+Priez-les bien de n'en point parler, Monsieur de Lépine.
+Je meurs d'impatience de le conter à la commère ; il est bon qu'elle prenne un peu l'avis de sa famille là-dessus ; je crois qu'elle ne ferait pas ma d'avertir celle de son mari, qu'en dites-vous ?
+
+-*who_lepine
+Oui, oui, vous avez raison, un secret est bien entre vos mains, Madame Agathe.
+
+-*who_madameagathe
+Oh, je ne manque ni de discrétion, ni de jugement, ni de conduite.
+Je vous dis adieu, Monsieur de Lépine.
+
+**** *book_ *id_I06 *act_I *date_1698
+
+-*who_lepine
+Voilà un incident qui change la situation de nos affaires ; il faut en faire part à mon maître.
+Je n'ai que faire de me presser de retenir les ménétriers jusqu'à nouvel ordre ; les fiançailles et le festin pourront bien être retardés, et Madame Julienne ne dansera pas de si bon cœur qu'elle croyait, sur ma parole.
+
+**** *book_ *id_I07 *act_I *date_1698
+
+-*who_julien
+Palsanguenne, il faut jouer de notre reste : allons, bonne meine et mauvais jeu.
+
+-*who_lepine
+Hé parbleu, voilà la meunier qui revient de Nemours ; il lui a pris quelque remords de conscience, apparemment.
+
+-*who_julien
+Je vians prendre congé de mon ancien ménage ; et je tâcherai d'emporter de sti-ci de quoi commencer à tenir le nouviau.
+Quand on n'est pas bian d'un côté, il n'y a pas de mal à se torner de l'autre.
+
+-*who_lepine
+Serviteur à Monsieur Julien.
+
+-*who_julien
+Ah !
+Votre valet, Monsieur de Lépeine.
+
+-*who_lepine
+Hé, d'où diantre venez-vous donc ?
+
+-*who_julien
+Je vians de voyager ; le monde est bian grand, Monsieur de Lépeine.
+
+-*who_lepine
+Oui vraiment, et vous aimez fort à voyager, vous, Monsieur Julien ?
+
+-*who_julien
+Drès que Julianne et moi j'avons queuque grabuge, je me divartis à ça, c'est ma couteume.
+Tâtigué, que de villes et villages !
+Et si parmi tout ça, charchez-moi une bonne femme, vous n'en trouverez morgué pas tant seulement la queue d'une.
+
+-*who_lepine
+Vous êtes prévenu contre le sexe, Monsieur Julien : j'ai pourtant ouï dire qu'à Nemours il y avait d'assez bonne pâte de filles, et qui promettaient
+
+-*who_julien
+À Nemours ?
+Ce drôle-là est sorcier, ou bian la mèche est découverte.
+Faisons bonne contenance.
+
+-*who_lepine
+Vous y avez passé, à Nemours ?
+
+-*who_julien
+Oui ; mais je n'y ai passé qu'en passant Comment se porte Julienne, Monsieur de Lépeine ?
+J'aime toujours cette masque-là, queuque chagrin qu'alle me baille.
+J'avons à tout bout de champ maille à partir ensemble ; et vela déjà la troisième fois qu'alle me fait désarter la maison.
+
+-*who_lepine
+Et vous désertez toujours du côté de Nemours, Monsieur Julien.
+
+-*who_julien
+Il a morgué queuques soupçons de l'affaire.
+
+-*who_lepine
+Vous avez un grand faible pour cette Ville-là, Monsieur Julien ?
+
+-*who_julien
+Et vous itou, Monsieur de Lépeine, vous en parlez souvent : y auriais-vous queuque connaissance ?
+
+-*who_lepine
+Si j'y en ai ?
+J'y ai été rat de cave.
+
+-*who_julien
+Rat de Cave ?
+Il se gausse pargué de moi.
+
+-*who_lepine
+Il y avait dans ce temps-là une jolie fille dans une certaine hôtellerie, là ; comment appelez-vous ?
+Aidez-moi à dire.
+
+-*who_julien
+La fille de l'Écu ?
+
+-*who_lepine
+Oui, justement, la fille de l'Écu.
+
+-*who_julien
+Ce drôle-là me veux faire parler : défions-nous de ly.
+
+-*who_lepine
+Elle s'appelle, je pense, Mademoiselle j'aurai oublié son nom, Mademoiselle Mademoiselle
+
+-*who_julien
+Mademoiselle Margot ?
+
+-*who_lepine
+La voilà, Mademoiselle Margot de l'Écu, c'est elle-même.
+
+-*who_julien
+Il me tire morgué les vars du nez ; baillons-nous de garde.
+
+-*who_lepine
+C'était une aimable personne dans le temps que je l'ai vue.
+
+-*who_julien
+Oh, parguenne, alle l'est plus que jamais : si vous la voyais, c'est un petit charme.
+
+-*who_lepine
+Ah, que j'ai été vivement amoureux d'elle, Monsieur Julien !
+
+-*who_julien
+Pas tant que moi, je gage ; j'en pars l'esprit, pisqu'il faut vous le dire.
+
+-*who_lepine
+Oui, vraiment ?
+Je vous en félicite.
+Voilà donc la cause de vos fréquentes promenades, Monsieur Julien ?
+
+-*who_julien
+Morgué, je jase trop ?
+Mais je ne saurais m'en tenir.
+
+-*who_lepine
+Et si Madame Julienne vient à savoir
+
+-*who_julien
+Oh, palsangué, ne l'y en parlez pas ; ne me jouez pas ce tour-là, Monsieur de Lépeine.
+
+-*who_lepine
+Promettez-moi donc de ne vous plus opposer au mariage de mon maître avec votre nièce, et je vous promets, moi, de vous garder le secret.
+
+-*who_julien
+Pargué, de tout mon cœur.
+Touchez-là, voilà qui est fait, je baille ma parole, mais, motus, au moins.
+
+-*who_lepine
+Je vous réponds de moi.
+Mais si d'ailleurs on venait à découvrir
+
+-*who_julien
+On ne saurait, je sis trop dissimulé.
+Il y a morgué trois ans que ça dure, et parsonne de doute de rian, vous n'en savez pas le plus principal vous-même.
+Oh, pour ce qui est de ça, je sis un rusé manœuvre.
+
+**** *book_ *id_I08 *act_I *date_1698
+
+-*who_julienne
+Ah !
+Te voilà, je pense ?
+Et de quoi t'avises-tu de revenir ici, bon vaurien ?
+
+-*who_julien
+Madame Julianne ?
+
+-*who_lepine
+Voilà un mari bien reçu chez lui !
+
+-*who_madameagathe
+On disait que vous étiez mort, Monsieur Julien, cela n'est donc pas ?
+
+-*who_julien
+Non, vraiment, je ne le sis pas.
+
+-*who_julienne
+Hé, pourquoi ne l'es-tu pas, dis ?
+Je ne sais qui me tient que je ne te dévisage.
+
+-*who_lepine
+Hé, là, là, sans emportement.
+
+-*who_julien
+Vela toujours de vos magnières, Madame Julianne.
+
+-*who_julienne
+Il vaudrait bien mieux pour moi que tu le fusses, que non pas de menez la vie que tu mènes.
+
+-*who_madameagathe
+Oh, pour cela, Monsieur Julien, vous êtes un méchant homme d'abandonner comme ça tous les ans une pauvre femme qui vous adorerait si vous étiez raisonnable.
+
+-*who_julienne
+Vous savez mieux que parsonne, ma commère, toutes les pièces que ce libartin-là m'a faites, et si pourtant l'autre jour, quand on nous vint dire qu'il était défunt, queule inquiétude est-ce que ça me donnait ?
+Je vous en fais juge.
+
+-*who_madameagathe
+Et moi, ma commère ?
+Il fallait nous voir : nous étions toutes deux dans des impatiences de savoir ce qui en était.
+L'incertitude de ces choses-là fait bien souffrir une pauvre femme, Monsieur de Lépine.
+
+-*who_lepine
+Cela est vrai, tout le monde était d'une affliction Vous êtes furieusement aimé, Monsieur Julien ; et quand vous êtes arrivé, je m'en allais chercher des Ménétriers, pour nous aider ce soir à consoler tout le Village.
+
+-*who_julienne
+Ne suis-je pas bien malheureuse ?
+
+-*who_julien
+Entrons dans la maison, Madame Julianne, et nous parlerons
+
+-*who_julienne
+Dans la maison ?
+Oh, ne t'avises pas d'y mettre le pied, je ne veux pas que tu en approches.
+Si tu regardes la porte seulement
+
+-*who_julien
+Comment ?
+Comment donc ?
+Qu'est-ce que cela signifie ?
+
+-*who_lepine
+Le Meunier ne sera pas le maître dans le moulin, sur mon honneur.
+
+-*who_julienne
+J'y mettrais plutôt le feu, que non pas qu'il le fût.
+
+-*who_julien
+Quelle enragée !
+Mais acoutez donc, Madame ma femme, vous le prenez-là sur un ton
+
+-*who_julienne
+Ta femme, moi ?
+Moi, ta femme ?
+Ah, le bon traître !
+Il croit parler à sa cabaretière de Nemours, ma commère.
+
+-*who_lepine
+À la Cabaretière de Nemours !
+
+-*who_julien
+La meine est inventée : mais, chut.
+
+-*who_madameagathe
+Êtes-vous bien content de votre nouveau ménage, Monsieur Julien ?
+
+-*who_julien
+Qu'est-ce que vous voulez dire avec votre nouviau ménage ?
+Morgué, vous avez une langue de vipère, Madame Agathe.
+Vous croyez les contes qu'on vous fait, Madame Julianne ?
+
+-*who_julienne
+Des contes, bon pendard ?
+Oh !
+La gueule du juge en pètera, tu seras pendu, je t'en réponds.
+
+-*who_julien
+Je serai pendu, moi ?
+
+-*who_madameagathe
+Oui, par votre cou, mon compère Julien.
+
+-*who_julien
+Madame Julianne.
+
+-*who_julienne
+Tu m'as fait trop de fredaines, je veux devenir veuve.
+
+-*who_julien
+Madame Agathe ?
+
+-*who_madameagathe
+Un débauché qui prend deux femmes !
+Au diable, au diable, point de miséricorde.
+
+-*who_julien
+Par ma foi, vela deux méchantes carognes.
+
+-*who_julienne
+Mais, voyez ce fripon, cet insolent, qui nous injurie !
+
+-*who_madameagathe
+Ce débauché, ce misérable !
+Il perd le respect qu'il nous doit, ma commère.
+
+-*who_julien
+Comment du respect ?
+Je me donne au diable, si vous me faites prendre un tricot, je le perdrai morgué, bian davantage, prenez-y garde.
+
+-*who_julienne
+Un tricot !
+Au secours, à la force, on me roue de coups, on m'assassine, à la Justice, à la Justice.
+
+-*who_madameagathe
+Un tricot !
+Bon ferme, courage, ma commère, à la Justice, à la Justice.
+
+**** *book_ *id_I09 *act_I *date_1698
+
+-*who_julien
+Alles avont le diable au corps, Monsieur de Lépeine.
+
+-*who_lepine
+Oui, vraiment, et je vous trouve fort à plaindre d'avoir affaire à ces deux masques-là.
+
+-*who_julien
+Moi, palsangué, je ne les crains point, je les mets à pis faire.
+
+-*who_lepine
+S'il était vrai que vous eussiez épousé cette Mademoiselle Margot de l'ecu, l'affaire serait fâcheuse.
+
+-*who_julien
+Oh, ça n'est morgué pas fait à demeurer, il n'y a encore que le Contrat de dressé, voyez-vous.
+
+-*who_lepine
+Que le Contrat de dressé !
+Oh !
+Ce n'est qu'une bagatelle, on ne saurait vous faire un crime que de l'intention, et je vois bien que cela n'ira qu'aux Galères.
+
+-*who_julien
+Aux Galères, Monsieur de Lépeine ?
+
+-*who_lepine
+Oui, à moins que votre femme n'eût pour ami quelque Juge qui eût l'adresse de donner un tour à l'affaire, et de vous faire pendre à sa considération.
+
+-*who_julien
+Alle est morguenne assez malicieuse pour ça.
+Mais vela une extravagante créature !
+Alle voudrait être défaite de moi, je voudrais être débarrassé d'elle ; qu'alle me passe veuf, je la passerai veuve.
+Il m'est avis qu'il ne faudrait pour ça qu'un petit mot d'accommodement sous seing privé ; et quand je serions d'accord une fois, ce ne serait l'affaire de parsonne : qu'est-ce qui s'aviserait de nous plaider ?
+
+-*who_lepine
+Vous avez raison ; mais Madame Julienne est une femme régulière qui veut être veuve dans toutes les formes : c'est là sa folie.
+
+-*who_julien
+Ce serait bian le mienne itou : mais comment s'y prendre ?
+
+-*who_lepine
+Elle va faire sa plainte, et l'on informera contre vous.
+Je ne vous crois pas ici trop en sûreté, Monsieur Julien, si vous m'en croyez
+
+-*who_julien
+Parguenne, à bon chat, bon rat ; pis qu'alle le prend comme ça, je m'en vas l'y jouer d'un tour à quoi elle ne s'attend pas : le Bailli est plus de mes amis que des sians, alle n'a qu'à se bien tenir.
+
+-*who_lepine
+Comment ?
+Quel est votre dessein ?
+
+-*who_julien
+Tatigué, je n'en dirai mot de stila, en arrivera ce qui pourra, je varrons lequel ce sera de nous deux qui aura plutôt l'esprit de faire pendre l'autre.
+Votre valet, Monsieu de Lépeine, jusqu'au revoir.
+
+-*who_lepine
+Je vous baise les mains, Monsieur Julien.
+
+**** *book_ *id_I10 *act_I *date_1698
+
+-*who_lepine
+Voilà une agréable société !
+Il y a d'heureux mariages dans le monde.
+
+-*who_charlot
+L'amour et la jalousie me feront devenir fou, moi qui sis si sage et si raisonnable.
+
+-*who_lepine
+Voilà le garçon du moulin de Madame Julienne.
+Ah, ventrebleu !
+Ne serait-ce point lui qui lui aurait donné dans la vue, et qu'elle coucherait en joue en cas de veuvage ?
+
+-*who_charlot
+N'est-ce pas là le valet de ce Houberiau, qui fait l'amoureux de ma chère Colette ?
+
+-*who_lepine
+Que parle-t-il de Colette ?
+
+-*who_charlot
+Je ne lui ôterai pas mon chapiau le premier, je ly en veux trop.
+
+-*who_lepine
+Qu'est-ce donc, Monsieur Charlot, vous me paraissez bien fier aujourd'hui ?
+
+-*who_charlot
+Parguenne, comme de couteume, et si ça ne vous convient pas, je m'en gausse : je ne vous charchons pas, laissez-nous en repos.
+
+-*who_lepine
+Vous avez quelque chose dans la tête, à ce qu'il me semble ?
+
+-*who_charlot
+Cela est vrai, il vous semble bian, j'y ai la volonté de vous paumer la gueule, Monsieur de Lépeine.
+
+-*who_lepine
+À moi ?
+
+-*who_charlot
+Oui, palsanguenne à vous ; vous êtes un débaucheux de filles.
+Je sis garde-moulin, le meunier n'y est pas, vous en voulez à la nièce ; mais si vous me faites prendre un gourdin
+
+-*who_lepine
+Qu'est-ce à dire un gourdin ?
+
+-*who_charlot
+Je ne parle pas pour à stheure, c'est une magnière d'avertissement, pour en cas que vous y reveniais.
+
+-*who_lepine
+J'y reviendrai quand il me plaira, Monsieur Charlot.
+
+-*who_charlot
+Quand il vous plaira, Monsieur de Lépeine ?
+
+-*who_lepine
+Assurément, quand il me plaira.
+
+-*who_charlot
+Hé bian, revenez-y, ce sont vos affaires, vous êtes le maître.
+
+-*who_lepine
+Et si vous vous avisiez de faire le raisonneur, savez-vous bien que vous vous attireriez mille coups de bâton, mon petit ami ?
+
+-*who_charlot
+Mille coups de bâton !
+C'est biaucoup, Monsieur de Lépeine.
+
+-*who_lepine
+Vous les aurez, si vous raisonnez.
+
+-*who_charlot
+Hé bian, je ne raisonnerai point, vela qui est fini.
+
+-*who_lepine
+Vous ferez sagement ; et pour vous faire voir qu'on ne vous craint guères, c'est que je veux bien vous avertir que mon maître épouse aujourd'hui Colette ; entendez-vous ?
+
+-*who_charlot
+Il épouse aujourd'hui Colette, Monsieur de Lepeine ?
+
+-*who_lepine
+Oui, vous dis-je.
+
+-*who_charlot
+Et il l'épouse en vrai mariage ?
+
+-*who_lepine
+En vrai mariage.
+Le festin est commandé, les parents et les amis priés ; je m'en vais chercher les violons, moi.
+
+-*who_charlot
+Hé !
+Mais morgué, que votre maître ne fasse pas cette sottise-là, il s'en repentirait.
+Colette est amoureuse de moi, Monsieur de Lépeine.
+
+-*who_lepine
+Colette est amoureuse de vous ?
+
+-*who_charlot
+Drès le berciau, vous dit-on, je l'ai élevée à la brochette, et tenez la vela qui viant, je m'en vais vous le faire dire.
+
+-*who_lepine
+Parbleu, je le voudrais de tout mon cœur, mon maître n'aurait que ce qu'il mérite.
+
+**** *book_ *id_I11 *act_I *date_1698
+
+-*who_colette
+Bonjour, Charlot.
+
+-*who_charlot
+Comme alle me dit bonjour de bonne amitié !
+Voyez-vous ?
+
+-*who_lepine
+Cela est fort tendre.
+
+-*who_colette
+Votre servante, Monsieur de Lépine.
+
+-*who_lepine
+Je vous baise bien les mains, Mademoiselle Colette.
+
+-*who_colette
+Qu'est-ce donc, mon garçon ?
+Tu me parais tout triste ?
+
+-*who_charlot
+Hé tatigué, comment ne le serais-je pas ?
+N'en veut bailler du croc en jambe à l'amour que j'avons l'un pour l'autre.
+
+-*who_colette
+Nous avons de l'amour l'un pour l'autre ?
+Qui t'a dit cela, Charlot ?
+
+-*who_charlot
+Hé pargué, je sens bian le mien, parsonne n'a que faire de me le dire ; et pour ce qui est du vôtre, il m'est avis que du depis quatre ans vous m'en avez baillé tant de signifiance
+
+-*who_lepine
+Haye, haye, haye.
+
+-*who_colette
+Je t'ai donné des signifiances d'amour, moi ?
+Hé, qu'est-ce que c'est que l'amour, Charlot ?
+Je ne le connais pas encore.
+
+-*who_charlot
+Ô tatigué non, qualle ignorance ?
+Alle en sais morgué bian plus qu'alle ne dit, Monsieu de Lépeine.
+
+-*who_colette
+Mais vraiment, Charlot, tu perds l'esprit, et tu ferais croire des choses
+
+-*who_charlot
+Pargué, je le fais exprès ; je sis bien aise qu'on sache ce qui en est, et je ne veux pas que vous en attrapiais parsonne : oh, j'ai de la conscience, moi.
+
+-*who_lepine
+Voilà un honnête garçon.
+
+-*who_colette
+J'en ai aussi, je t'assure ; et pour te tirer de ton erreur, je te dirai en bonne conscience que je ne t'aime point, que je ne t'ai jamais aimé, et que je ne t'aimerai de ma vie.
+
+-*who_lepine
+Cela est fort clair, Monsieur Charlot, et voilà une déclaration dans les formes.
+
+-*who_charlot
+Oh palsanguenne, alle ne pense point ça, c'est pour vous le faire accroire : morgué, c'est un animal bien trompeux que la femelle d'un homme !
+
+-*who_lepine
+Il ne faut pas toujours se fier aux apparences, Monsieur Charlot.
+
+-*who_charlot
+Me traiter de la magnière !
+Allez, cela n'est pas biau, ni honnête, après tout ce qui s'est passé depis que je nous connaissons !
+
+-*who_colette
+Hé, que s'est-il passé, dis maroufle, qui te fasse penser que j'ai de l'amour pour toi ?
+
+-*who_charlot
+Quoi !
+Je n'ons pas joué ensemble à la madame, à colin-maillard, à la queuleuleu, à pétangueule ?
+
+-*who_colette
+Hé bien ?
+
+-*who_charlot
+Ce n'est rien que ça, n'est-ce pas ?
+Et quand je jouions à la cleumisette ; acoutez, ne me faites pas parler.
+
+-*who_colette
+Parle, parle, je ne te crains point : quand nous nous jouions à la cleumisette ?
+Que veux-tu dire.
+
+-*who_charlot
+On nous trouvait tous deux dans la même cache.
+Sont-ce des preuves que ça, Monsieu de Lépeine ?
+
+-*who_lepine
+Non vraiment.
+
+-*who_colette
+Voyez le grand malheur !
+Hé pourquoi m'y venais-tu trouver, dis ?
+
+-*who_charlot
+Parce que je vous aime ; mais pourquoi ne me chassiais-vous pas, vous ?
+
+-*who_colette
+Parce que je ne savais pas que tu m'aimasses, et que je ne t'aimais pas, moi.
+
+-*who_charlot
+Alle ne m'aimait pas !
+Qu'alle est trigaude !
+Quand je dansions aux chansons, alle était toujours la première à me prendre, et si alle aurait voulu pouvoir me tenir par les deux mains, tant alla était assotée de ma parsonne.
+
+-*who_colette
+Tu t'es figuré cela, mon pauvre Charlot.
+
+-*who_charlot
+Oh, pargué non, je sais bian ce que je dis.
+Tenez, Monsieu de Lépeine, alle faisait cent fois plus de caresse aux francs moigneaux que je lui dénichais, qu'à tous les marles que lui baillaient les autres.
+Morgué, n'est-ce pas là de l'amour ?
+Je vous en fais juge.
+
+-*who_lepine
+Il y a quelque chose à dire à cela, vous avez raison : mais il n'y a pas de quoi rebuter mon maître, et ces bagatelles-là ne l'empêcheront pas de conclure le mariage.
+
+-*who_charlot
+Ça ne l'en empêchera pas ?
+
+-*who_lepine
+Non vraiment.
+
+-*who_charlot
+Tatigué, que je sis fâché de ce qu'il n'y en a pas davantage.
+
+-*who_colette
+J'en suis fort contente, moi.
+Tu l'aurais dit de même ?
+
+-*who_charlot
+Oh !
+Pour stilà, oui, je vous en réponds.
+
+-*who_colette
+Où est votre maître, Monsieur de Lépine.
+
+-*who_lepine
+Vous ne tarderez pas à le voir ; je vais vous l'amener dans le moment même.
+
+-*who_colette
+Et moi, je vais l'attendre avec impatience.
+
+-*who_charlot
+Hom, la masque !
+
+**** *book_ *id_I12 *act_I *date_1698
+
+-*who_colette
+Adieu, Charlot, ne te chagrine point ; je t'aime toujours un peu.
+Va, tiens, baise ma main.
+
+-*who_charlot
+Non, morgué, je n'en ferai rian, je cracherais plutôt dessus.
+Fy pouas, la perfide, la vilaine.
+
+-*who_colette
+Tu fais le mauvais !
+Tant pis pour toi, je ne m'en soucie guères.
+
+**** *book_ *id_I13 *act_I *date_1698
+
+-*who_charlot
+Ces carognes de filles !
+Être déjà traîtresses, à cet âge-là !
+Ça ne s'apprend point, ça leur viant tout seul.
+Tians, baise ma main : le biau régal !
+C'est Madame Julianne qui fait ce mariage pour me faire pièce ; car alle est fâchée que j'aime Colette, marguenne alle me le paiera : le bailli l'aime itou cette Colette, c'est un matois qui en sait bian long ; je m'en vais le trouver, je leur baillerons du fil à retordre.
+
+**** *book_ *id_I14 *act_I *date_1698
+
+-*who_madameagathe
+Hé, où vas-tu si vite, Charlot ?
+Attends, attends, j'ai quelque chose à te dire.
+
+-*who_charlot
+Dépêchez-vous donc ; car j'ai queuque chose à faire, moi.
+
+-*who_madameagathe
+Colette va être mariée avec un Monsieur, sais-tu bien cela ?
+
+-*who_charlot
+Oh, morguenne !
+Ça n'est pas bien sûr, j'y boutrons queuque empêchement, ou je ne pourrons.
+
+-*who_madameagathe
+Hé !
+Pourquoi ça ; qu'est-ce que ça te fait ?
+
+-*who_charlot
+Comment, morgué !
+Qu'est-ce que ça me fait ?
+Ne seriait-ce point vous qui auriais baillé conseil à notre maîtresse de me jouer ce tour-là ?
+
+-*who_madameagathe
+Moi !
+Par quelle raison ?
+
+-*who_charlot
+Morgué, que sais-je ?
+Pour m'avoir peut-être ; car vous êtes folle de moi, Madame Agathe.
+
+-*who_madameagathe
+Je suis folle de toi ?
+Tu ne le mérites guères.
+
+-*who_charlot
+Si fait, parguenne, il n'y a que Colette que j'aime mieux que vous, la peste m'étouffe !
+
+-*who_madameagathe
+Hé pourquoi l'aimes-tu mieux que moi, dis ?
+
+-*who_charlot
+Pargué, parce qu'elle me plaît davantage.
+Que voulez-vous que je vous dise ?
+
+-*who_madameagathe
+Elle te plaît davantage ?
+Une petite coquette ?
+
+-*who_charlot
+Ça est vrai.
+
+-*who_madameagathe
+Qui te préfère un autre amoureux ?
+
+-*who_charlot
+Vous avez raison.
+
+-*who_madameagathe
+Et cela ne te corrige point de la passion que tu as pour elle ?
+
+-*who_charlot
+Pargué non : et je vous préfère bian, Colette, moi ; ça vous corrige-t-il ?
+
+-*who_madameagathe
+Cela le devrait bien faire.
+
+-*who_charlot
+Oui, mais ça ne le fait pas, et pourquoi velez-vous que je ne sois pas aussi mal aisé à corriger que vous, Madame Agathe ?
+
+-*who_madameagathe
+Mais, promets-moi donc que tu m'épouseras, si tu ne peux empêcher le mariage de Colette.
+
+-*who_charlot
+Oh : Pour ce qui est d'en cas de ça, je le veux bian.
+Si Colette m'échappe, je me baille à vous par désespoir, vela qui est fini.
+
+-*who_madameagathe
+Par désespoir !
+Je ne te devrais qu'à ton désespoir ?
+
+-*who_charlot
+Tatigué, qu'importe à qui ?
+Vous ne velez que m'avoir une fois, vous m'aurais, et je vous baillerai la préférence sur Madame Julianne, qui me marchande itou.
+
+-*who_madameagathe
+La commère Julienne est amoureuse de toi ?
+
+-*who_charlot
+Oui, alle me mitonne pour en cas qu'alle soit veuve : mais queuque sot, je ne m'y frotte pas.
+Drès que je serons mariés, alle en mitonnerait peut-être queuqu'autre pour être veuve de moi.
+Je n'aime morgué point ces prévoyeuses-là, Madame Agathe.
+
+-*who_madameagathe
+Et tu as bien raison.
+
+-*who_charlot
+Tatigué, je lui en veux plus qu'à une autre à stelle-là, c'est elle qui fait le mariage de Colette.
+
+-*who_madameagathe
+Toujours Colette.
+Cela te tient bien au cœur, petit vilain.
+
+-*who_charlot
+J'en serais plus qu'à demi consolé si alle épousait queuque autre que cet Houberiau, et que je trouvisse la magnière de me venger de Madame Julianne.
+Morguenne, aidez-moi à ça, Madame Agathe.
+
+-*who_madameagathe
+Très volontiers ; mais, comment s'y prendre ?
+
+-*who_charlot
+Comment, morguenne !
+Allons demander conseil à Monsieur le Bailli, c'est bian le meilleur homme, le plus honnête, le plus habile homme, pour faire du mal à queuqu'un da.
+Il sait morgué sur le bout du doigt toutes les rubriques de la Justice.
+
+-*who_madameagathe
+Ça n'est pas mal imaginé.
+Allons, viens.
+
+-*who_charlot
+Non, ne bougeons, le vela ly-même tout à point, comme si je l'avions mandé.
+Sarviteur, Monsieur le Bailli.
+
+**** *book_ *id_I15 *act_I *date_1698
+
+-*who_lebailli
+Bonjour, Monsieur Charlot, bonjour.
+
+-*who_madameagathe
+Monsieur le Bailli, je suis bien votre servante.
+
+-*who_lebailli
+Votre valet, Madame Agathe.
+Hé bien, qu'est-ce, mes enfants ?
+Voilà d'étranges nouvelles, cette scélérate de Julienne !
+
+-*who_charlot
+Morgué, bon, il enfourne bian, j'aurons bonne issue.
+Vous savez déjà ça, Monsieur le Bailli ?
+
+-*who_lebailli
+Il y a plus de quinze jours que je le soupçonne : mais je n'ai point voulu faire d'éclat que je n'en eusse quelque certitude.
+
+-*who_charlot
+Oh !
+Parguenne, n'y a point à en douter à présent, c'est une affaire sure.
+
+-*who_madameagathe
+On ne parle d'autre chose dans tout le Village.
+
+-*who_lebailli
+En savez-vous quelque particularité, et ne pourriez-vous point servir de témoins dans tout ceci, vous autres ?
+
+-*who_charlot
+Pargué, vous en sarvirez vous-mêmes ; ils allons faire la noce, et vela les Ménétriers qui allons venir.
+
+-*who_lebailli
+Comment des Ménétriers ?
+La noce de qui ?
+
+-*who_madameagathe
+La noce de Colette, que Madame Julianne fait épouser à ce Monsieur Clitandre.
+
+-*who_lebailli
+Vraiment, vraiment, elle prend bien son temps pour faire une noce.
+Oh, je troublerai la fête, sur ma parole.
+
+-*who_charlot
+Et vous ferez fort bian, Monsieu le Bailli.
+
+-*who_lebailli
+La Malheureuse !
+
+-*who_charlot
+Acoutez, c'est une méchante femme.
+Est-ce que vous sauriais queuqu'une de ses petites fredaines ?
+
+-*who_lebailli
+Oui, de ses petites fredaines, une bagatelle ; elle a fait noyer son mari seulement.
+
+-*who_charlot
+Alle a fait noyer Monsieur Julian !
+Vela pourquoi elle me mitonnait, voyez-vous.
+
+-*who_madameagathe
+Ça ne se peut pas, Monsieur le Bailli, je viens de le voir.
+
+-*who_lebailli
+Vous avez rêvé cela, Madame Agathe : il y a plus d'un mois qu'il est défunt, je le sais de bonne part.
+
+-*who_madameagathe
+Il n'y a qu'un quart d'heure que j'ai quitté Monsieur Julien, vous dis-je.
+
+-*who_lebailli
+Oui, un faux Monsieur Julien qu'elle aura attiré pour faire prendre le change.
+
+-*who_madameagathe
+Oh, point du tout, c'est le véritable, elle l'a reçu comme un vrai mari, je l'ai aidée à le battre, moi, Monsieur le Bailli, puisqu'il faut vous le dire.
+
+-*who_lebailli
+Bagatelle, je ne donne pas là-dedans ; et nous avons, le Procureur Fiscal et moi, commencé une procédure que nous soutiendrons vigoureusement.
+
+-*who_charlot
+Je vous le disais bian, Madame Agathe, c'est un bian honnête homme, un bian habile homme que notre Monsieu le Bailli.
+
+-*who_madameagathe
+Mais le compère Julien n'est point défunt, ce sont des contes.
+
+-*who_charlot
+Je crois pargué bian que si, moi, et s'il ne l'était pas, il faudrait qu'il le devenir, puisque Monsieur le Bailli le dit.
+Est-ce que la Justice est une menteuse, Madame Agathe ?
+
+-*who_lebailli
+Monsieur Charlot prend fort bien la chose, et il n'est pas qu'il n'ait quelque connaissance du fait.
+
+-*who_charlot
+Moi, Monsieur le Bailli ?
+
+-*who_lebailli
+Oui, vous : votre témoignage sera d'un grand poids dans cette affaire-ci.
+
+-*who_charlot
+Mon témoignage sera de poids ?
+
+-*who_lebailli
+Sans doute.
+
+-*who_charlot
+Pargué, bon, tant mieux, vela de quoi me venger de Madame Julianne.
+Ça voyons, qu'est-ce qu'il faut que je témoigne, Monsieur le Bailli ?
+
+-*who_lebailli
+Ce que vous savez, on ne vous demande pas autre chose.
+
+-*who_charlot
+Morgué, je ne sais rian, mais tout coup vaille.
+Si vous veulez que je nous aimions, il faut dire comme moi, Madame Agathe.
+
+-*who_madameagathe
+Je dirai la vérité.
+
+-*who_charlot
+Et moi itou ; mais aidez-nous à la dire, Monsieu le Bailli ; car ce que je savons nous, vous qui savez tout, vous le savez peut-être mieux que nous, par aventure.
+
+-*who_lebailli
+Mais le Meunier et la Meunière vivaient en très mauvaise intelligence, premièrement ?
+
+-*who_charlot
+Oh pour stilà, oui, tous les jours ils se battiont ou ils se querelliont très régulièrement à çartaine heure, je sis témoin de ça.
+
+-*who_madameagathe
+Et moi aussi, Monsieur le Bailli.
+
+-*who_lebailli
+Bon, le reste est une suite de cela, mes enfants.
+Le pauvre Julien s'enivrait quelquefois !
+
+-*who_charlot
+Queuquefois ?
+Pargué très souvent ; il était coutumier de ça quasiment autant que vous, Monsieu le Bailli.
+
+-*who_lebailli
+Voilà le fait.
+La femme aura pris le temps de l'ivresse du mari, pour exécuter son mauvais dessein.
+
+-*who_charlot
+Justement, il avait trop bu de vin, alle l'y aura voulu faire boire de l'iau ; il n'y a rien de plus naturel, ça parle tout seul.
+
+-*who_madameagathe
+Si ça est, ça est comme ça, Monsieur le Bailli.
+
+-*who_lebailli
+Oui, on l'a jeté dans la rivière, et il ne se trouve point ; voilà ce qui est d'embarrassant.
+
+-*who_charlot
+On l'y a mis une piarre au cou.
+Est-ce une chose si rare qu'une piarre ?
+En vela un gros tas tout proche du moulin, où il m'est avis qu'il en manque queuqu'une.
+
+-*who_lebailli
+Oui, il en manque quelqu'une ?
+Voilà un bon indice ; mais elle n'aura pas fait cela toute seule.
+
+-*who_charlot
+Non, voirement, il faut ly bailler des camarades.
+Hé pargué, cet amoureux de Colette, et son valet Monsieur de Lépeine.
+Le défunt ne voulait pas qu'il épousît sa nièce.
+C'est eux qui avons fait le coup, Monsieur le Bailli
+
+-*who_lebailli
+Vous croyez ça, Monsieur Charlot ?
+
+-*who_charlot
+Si je le crois ?
+Je ly en veux morgué trop pour ne pas le croire, et vous le croyez itou, vous, je gage : c'est mon rival, Monsieu le Bailli : j'en jurerais, moi, en cas de besoin ; ça suffira-t-il pour le faire pendre.
+
+-*who_lebailli
+Voilà une cruelle affaire pour ces gens-là.
+
+-*who_charlot
+J'allons pargué leur tailler de la besogne.
+
+-*who_lebailli
+Je les ferai arrêter sur votre déposition, et je vais tout de ce pas chercher le Greffier pour la venir recevoir.
+
+-*who_charlot
+Qu'il écrive ce qu'il voudra, je sommes témoins de tout, ne vous boutez pas en peine.
+Pargué je nous allons bian rire.
+
+**** *book_ *id_I16 *act_I *date_1698
+
+-*who_madameagathe
+Mais sais-tu bien que tu fais là une fort méchante action, mon pauvre Charlot ?
+
+-*who_charlot
+Bon, queu conte, ce n'est pas par méchanceté : ce n'est que pour troubler la noce, et faire enrager Madame Julianne.
+
+-*who_madameagathe
+Ce ne sont pas là des bagatelles : il y a de quoi la ruiner, tout au moins, et cela pourrait aller plus loin même.
+
+-*who_charlot
+Oh, que point, point, Madame Agathe, Je nous dédierons quand on sera prêt de la pendre.
+La voici : si vous m'aimez, laissez-moi faire, ou sans ça, la paille est rompue.
+
+**** *book_ *id_I17 *act_I *date_1698
+
+-*who_julienne
+Allons, gai, gai, mes enfants, allégresse.
+Ma commère, Julian est redécampé, je ly avons fait peur ; et vela nos parents et nos amis qui s'en allont venir aux fiançailles ; je feront notre noce tout à gogo, sans rabat joie.
+
+-*who_charlot
+Oh, pargué, je gage que non : il faudrait pour ça, qu'il n'y eût point de Charlot, ni de Bailli, Madame Julianne.
+Mais, Dieu marci, je ne sis pas noyé, moi ; tatigué que je l'ai échappé belle !
+
+-*who_julienne
+Tu n'es pas noyé ; vraiment, je le vois bian.
+
+-*who_charlot
+Non, tatigué, je ne le sis pas, ni le Bailli non plus, je vous en avartis.
+
+-*who_julienne
+Quand il le serait, il n'y aurait pas grand dommage ; mais voyez ce qu'il veut dire avec son noyé !
+Est-ce qu'il a pardu l'esprit, ma commère ?
+
+-*who_madameagathe
+Dame acoutez, si ce sti-là est fou, Monsieur le Bailli n'est pas trop sage ; ils disont comme ça tous deux, que vous avez fait noyer votre mari.
+
+-*who_julienne
+Je l'ai fait noyer, moi !
+Vous venez de lez voir, ma commère ?
+
+-*who_madameagathe
+Ç'est vrai, je l'ai vu, mais le Bailli dit que non, et Charlot dit de même, et comme ils sont deux contre un, je ne sais qu'en croire.
+
+-*who_julienne
+Tu oses dire ça, toi ?
+
+-*who_charlot
+Parguenne, oui, je l'ose dire, et je sis sûr que ça est, j'en bouterais, morgué, la main au feu.
+
+-*who_julienne
+Ah, le malheureux !
+
+**** *book_ *id_I18 *act_I *date_1698
+
+-*who_colette
+Ah !
+Ma chère tante, sauvez-vous, vous êtes perdue.
+
+-*who_julienne
+Comment, qu'est-ce qu'il y a ?
+
+-*who_colette
+Enfuyez-vous-en vivement, vous dis-je, voilà le Bailli qui amasse du monde, pour venir vous prendre prisonnière.
+
+-*who_julienne
+Prisonnière, moi ?
+
+-*who_charlot
+Pargué, bon ; ça commence bian.
+
+-*who_colette
+Tout le village dit que mon oncle est noyé ; et que c'est vous et Charlot qui avez fait cette belle affaire, pour vous marier ensemble.
+
+-*who_charlot
+Moi ?
+
+-*who_madameagathe
+Charlot ?
+
+-*who_colette
+Oui, toi-même ; et si cela est, tu feras bien de t'enfuir.
+
+-*who_charlot
+Morgué, ça n'est point, c'est votre Monsieur Clitandre que vous velez dire.
+
+-*who_colette
+Clitandre ?
+
+-*who_charlot
+Oui, le Bailli est convenu que je le dirions comme ça.
+Oh, dame !
+Si l'on fait un quiproquo, je tire mon épingle du jeu, Monsieu Julian n'est point noyé, je m'en dédis.
+
+**** *book_ *id_I19 *act_I *date_1698
+
+-*who_clitandre
+Rien ne retarde mon bonheur, j'ai donné les ordres nécessaires Mais, que vois-je ?
+Quelle consternation !
+Qu'avez-vous ?
+
+-*who_julienne
+Ah !
+Mon pauvre Monsieu Clitandre, voici de tarribles affaires !
+
+-*who_clitandre
+Comment ?
+
+-*who_julienne
+Ce Bailli de malheur qui m'accuse d'avoir fait noyer mon mari.
+
+-*who_clitandre
+Ah, quelle noirceur ?
+
+**** *book_ *id_I20 *act_I *date_1698
+
+-*who_lepine
+Voilà des Violons que je vous amenais, Monsieur : mais il faudra les renvoyer, je pense, et monsieur le Bailli nous prépare d'autres occupations, à ce que je viens d'apprendre.
+
+-*who_clitandre
+Sais-tu le fond de cette affaire ?
+
+-*who_lepine
+Non, Monsieur, je sais seulement qu'il prétend que nous ayons noyé le Meunier ; et que sur la déposition de ce maroufle, on a décrété contre vous et moi.
+
+-*who_clitandre
+Décrété contre nous ?
+
+-*who_charlot
+Ah, bon, passe pour stilà.
+
+-*who_clitandre
+Comment, maraud
+
+-*who_charlot
+Hé miséricorde, Monsieu, ne me tuez pas.
+
+-*who_madameagathe
+Hé pardonnez-lui, Monsieur Clitandre.
+
+-*who_charlot
+Ce n'est qu'une petite gaillardise que tout ça, la peste m'étouffe.
+
+-*who_clitandre
+Une gaillardise, misérable ?
+
+-*who_charlot
+Ah !
+Je sis mort.
+
+-*who_lepine
+Ne vous emportez point, Monsieur, ceci n'aura pas de suites.
+Laissez-moi faire seulement, j'y vais donner ordre.
+
+**** *book_ *id_I21 *act_I *date_1698
+
+-*who_julienne
+Les maris ne donnent jamais que du chagrin, de queuque façon que ce soit, je sis plus morte que vive.
+
+-*who_clitandre
+Ne craignez rien, cette affaire est plus désagréable que dangereuse, et le retour de votre mari
+
+-*who_julienne
+Il est revenu, Monsieur Clitandre.
+
+-*who_clitandre
+Il est revenu ?
+L'imposture ne sera pas difficile à confondre.
+
+-*who_julienne
+Le malheureux Bailli et ce coquin-là disent que ce n'est pas ly.
+
+-*who_clitandre
+Tu dis cela, pendart ?
+
+-*who_charlot
+Moi !
+Je ne dis plus rian, j'ai pardu la parole.
+
+-*who_clitandre
+Il n'a qu'à se montrer, où est-il ?
+
+-*who_julienne
+Il s'en est déjà retourné, je l'ai trop mal reçu.
+Où l'aller recharcher ?
+Ah, s'il était ici !
+Que je sis malheureuse !
+
+-*who_colette
+Voilà ce vilain Bailli avec toute sa séquelle, ma tante.
+
+**** *book_ *id_I22 *act_I *date_1698
+
+-*who_clitandre
+Avancez, Monsieur le Bailli, avancez ; mais que vos recors se tiennent écartés, surtout : car je donnerai de l'épée dans le ventre, au premier qui hasardera de s'approcher.
+
+-*who_lebailli
+Ah !
+Monsieur, point d'emportement, ce ne sont que de petites formalités, dont le devoir de ma charge ne me permet pas de me dispenser.
+
+-*who_clitandre
+Oui, vous êtes fort exact, je le vois bien.
+
+-*who_lebailli
+L'affaire est importante, Monsieur, il y a ici mort d'homme et supposition, voyez-vous ?
+
+-*who_clitandre
+Il n'y a ni l'un ni l'autre : mais il pourrait arriver, si vous vous mettez en devoir
+
+**** *book_ *id_I23 *act_I *date_1698
+
+-*who_lepine
+Tirez, tirez, Monsieur le Bailli, et rengaignez vos procédures ; le défunt n'est pas mort, le voilà que je vous amène.
+
+-*who_julienne
+Mon pauvre Julian, mon cher mari !
+
+-*who_julien
+Comment, tatigué, queu changement !
+Julianne est devenu bonne femme.
+En vous remarciant, Monsieur le Bailli, je n'avons plus que faire de vos écritures.
+
+-*who_lebailli
+Comment ?
+Hé, qui êtes-vous donc, mon ami, vous qui raisonnez ?
+
+-*who_julien
+Qui je sis ?
+Hé pargué, je sis moi : avez-vous la barlue ?
+
+-*who_lebailli
+Hé qui, vous ?
+Je ne vous connais point.
+
+-*who_julien
+Morgué !
+Tant pis pour vous.
+Vous êtes plus malade que vous ne croyais, pisque vous avez pardu connaissance.
+
+-*who_julienne
+Vous ne reconnaissez pas mon mari, Monsieur le Bailli ?
+
+-*who_lebailli
+Ce ne l'est point là, Madame Julienne.
+
+-*who_madameagathe
+Ce n'est point là le compère Julien ?
+
+-*who_lebailli
+Non, il y a plus de trois semaines qu'il est noyé.
+
+-*who_julien
+Je sis noyé, moi ?
+Palsangué, vous en avez menti, Monsieur le Bailli.
+
+-*who_lebailli
+Il y a un bon procès-verbal qui certifie le fait.
+
+-*who_julien
+Oh tatigué !
+Je cartifie le contraire.
+
+-*who_julienne
+Et je nous gaussons du procès-verbal.
+
+-*who_lebailli
+C'est ce qu'il faudra voir.
+
+-*who_clitandre
+Écoutez, Monsieur le Bailli, vous vous engagez là dabs une affaire
+
+-*who_lebailli
+Le Meunier est noyé, cela aura des suites.
+
+-*who_julien
+Oh bian !
+Morgué, si je sis noyé, c'est vous qu'il faut pendre : car c'est de votre façon, puisqu'il faut tout dire.
+
+-*who_clitandre
+Comment de sa façon ?
+
+-*who_julien
+Oui voirement, c'est ly qui m'a conseillé de laisser croire ça, pour faire pendre Julianne.
+
+-*who_clitandre
+Pour me faire pendre ?
+Tu as eu ce cœur-là, cher petit mari ?
+
+-*who_julien
+Morgué, je ne l'ai pas eu longtemps, comme tu vois, je sis sans rancune.
+Ne me fais plus enrager, je n'irai plus à Nemours, vivons bian ensemble ; la Justice en aura un pied de nez, et si alle ne le boutera morgué pas dans nos affaires.
+
+**** *book_ *id_I24 *act_I *date_1698
+
+-*who_maturin
+Madame Julianne, vela ces parsonnes que vous avez fait prier des fiançailles de Colette, qui n'osont approcher, parce qu'ils voyont ici des gens de Justice.
+
+-*who_julien
+Ils avont morgué raison ; c'est une vilaine vision.
+Mais parle donc, hé, femme, est-ce que tu maries comme ça notre nièce, sans que j'en sache rian ?
+
+-*who_julienne
+Oui, Julian, et si u n'y bailles pas ton consentement, je recommencerons à quereller, mon enfant, tu n'as qu'à dire.
+
+-*who_julien
+Oh palsangué non, ne querellons point, j'aime mieux faire tout ce que tu voudras.
+
+-*who_clitandre
+Vous n'aurez pas lieu de vous reprocher cette complaisance.
+
+-*who_julien
+Je le veux bian vela qui est fini, Monsieu Clitandre.
+
+-*who_madameagathe
+Tu sais bien ce que tu m'as promis, Charlot ?
+
+-*who_charlot
+Hé bian, touchez-là, je sis garçon de parole.
+
+-*who_julien
+À la franquette, Monsieu le Bailli, je serai moi, maugré vous, vous avez biau faire.
+Hé morgué, laissez-nous en paix, je vous baillerons de bonne amiquié ce que vous pourriais gagner à nous parsécuter.
+N'est-ce pas être raisonnables.
+
+-*who_charlot
+Allons, Monsieu le bailli, Julian n'a pas tort ; c'est vous et moi qui l'avions tantôt jeté à l'iau.
+Morgué repêchons-le, qu'est-ce que ça nous coûtera ?
+
+-*who_lebailli
+Je suis trop humain pour un Bailli, qu'il n'en soit plus parlé ; mais au moins.
+
+-*who_julien
+Je ferons bian les choses, ne vous boutez pas en peine.
+Touche-là Julianne.
+Avec les fiançailles de Colette, j'allons faire notre remariage.
+Allons palsangué, que tout le monde vianne, et que tous les Ménétriers jouions queuque drôlerie qui fasse un peu trémousser ces jeunes filles.
+
+**** *book_ *id_I25 *act_I *date_1698
+
+-*who_monsieurtouvenel
+Pour célébrer les noces de Colette,
+Folâtrons, chantons et dansons ;
+Qu'on fasse retentir les sons
+Du hautbois et de la musette,
+Et que partout l'écho répète
+Nos agréables chansons.
+
+-*who_madameagathe
+Les maris qu'on voit parmi nous,
+Sont marchandise bien mêlée,
+Pour bien faire, il faudrait les noyer presque tous.
+Et la France, faute d'époux,
+N'en serait pas moins peuplée.
+
+-*who_charlot
+Palsangué si j'avais fait bian,
+Lorsque vous caressiez ma petite meunière,
+J'aurais sur vous lâcher mon chian.
+Quoi me ravir Colette, à moi de la magnière ?
+Ça me déplaît, ça ne vaut rian,
+C'est morguenne empêcher le cours de la rivière.
+Pargué, c'est être bian malin,
+De détourner l'iau d'un moulin.
+
+-*who_mademoisellelolotte
+Je ne suis qu'une meunière ;
+Mais si l'amour
+Voulait un jour
+Me ranger sous sa loi sévère,
+Je me rirais de son dessein ;
+Et pour punir ce petit téméraire,
+J'en ferais mon garde-moulin.
+
+-*who_monsieurtouvenel
+Tu croyais en aimant Colette,
+Que tu n'aurais point de rival ;
+Mais le moulin d'une coquette,
+Est toujours un moulin banal.
+
+-*who_monsieurtouvenel
+Monsieur Clitandre a bon génie,
+En faisant même un mauvais pas ;
+Il prend meunière bien jolie,
+Son moulin ne chômera pas.
+
+-*who_mademoisellelolotte
+Avoir deux amants en nature,
+Cela se peut selon les lois ;
+C'est tirer d'un sac deux moutures,
+Qu'avoir deux époux à la fois.
+
+-*who_monsieurtouvenel
+Vous qu'Amour à l'hymen destine,
+Écoutez bien cette leçon,
+Tel croit en avoir la farine,
+Qui souvent n'en a que le son.

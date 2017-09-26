@@ -1,0 +1,3514 @@
+
+
+**** *book_ *id_I01 *act_I *date_1719
+
+-*who_nerine
+Pendant que je marchais rêvant profondément,
+Angélique est entrée en quelque appartement ;
+Elle s'égarera la petite étourdie.
+Attendons. Voici donc l'hôtel de Normandie !
+À Paris rendez-vous, des illustres Normands !
+Des nôtres aujourd'hui les intérêts sont grands.
+Haine, amour ! Nous verrons la très haineuse tante,
+L'oncle très rancunier, puis l'amoureux Dorante,
+Le galant Chevalier, le grave arbitre et moi.
+À force de rêver, je m'oubliais, je crois.
+Ah ! Je vois accourir mon aimable orpheline.
+
+**** *book_ *id_I02 *act_I *date_1719
+
+-*who_angelique
+On m'a dit que ma tante est là. Suis-moi, Nérine.
+
+-*who_nerine
+Attendez.
+
+-*who_angelique
+      Je ne puis pas attendre, tout va bien.
+Dorante est arrivé.
+
+-*who_nerine
+      Paix.
+
+-*who_angelique
+      Je n'en dirai rien.
+Mais ma tante...
+
+-*who_nerine
+      Arrêtez.
+
+-*who_angelique
+      Il faut que je la voie.
+
+-*who_nerine
+Les premiers mouvements d'espérance et de joie.
+Vous font courir.
+
+-*who_angelique
+      D'accord.
+
+-*who_nerine
+      Marchez donc lentement,
+Car vous avez encor tout à craindre.
+
+-*who_angelique
+      Comment ?
+Tout à craindre, dis-tu. ?
+
+-*who_nerine
+      Bon ! Vous voilà fixée :
+Par la crainte d'abord votre ardeur s'est glacée.
+J'admire la jeunesse, et sa vivacité !
+Passant toujours de l'une à l'autre extrémité,
+De l'excessive crainte à l'espérance folle ;
+Parlant, parlant, parlant, puis perdant la parole ;
+Courant, courant, courant, puis s'arrêtant tout court ;
+En un seul jour aimant, et perdant son amour,
+Pour un amour nouveau le retrouvant ensuite ;
+Voulant, ne voulant plus, sans règle, sans conduite,
+Sans arrêt, sans raison, que de défauts elle a
+Cette jeunesse ! On l'aime avec ces défauts-là.
+
+-*who_angelique
+Tout à craindre, dis-tu ? Je rêve, j'examine.
+Sur ce que nous voyons, que crains-tu donc, Nérine ?
+Tout me réussit mieux qu'on eût pu désirer,
+Du couvent tout exprès on vient de me tirer,
+À m'établir mon oncle écrit qu'il se dispose,
+Et ma tante, dit-on, a promis même chose.
+Elle vient de Rouen, mon oncle de Lyon,
+C'est pour se réunir, et leur désunion
+À mon bonheur, Nérine, était le seul obstacle,
+Tu me l'as dit toi-même.
+
+-*who_nerine
+      Oui. Mais suis-je un oracle ?
+
+-*who_angelique
+Nérine, ton défaut est de toujours douter.
+
+-*who_nerine
+Jeune amante, le vôtre est de trop vous flatter.
+
+-*who_angelique
+Nous verrons ; mais enfin pour ma dot ils me cèdent
+Leur terre près du Mans pour laquelle ils se plaident,
+Qui fit naître leur haine.
+
+-*who_nerine
+      Oh ! C'est la question.
+Si le procès causa leur vieille aversion,
+Les frères sans plaider quelquefois se haïssent ;
+Par les procès aussi quelques frères s'aigrissent.
+Procès engendre haine, il est vrai ; cependant
+Nul Généalogiste encor jusqu'à présent
+N'a pu nous bien prouver, si là-bas vers le Maine
+Autrefois le procès fut père de la haine,
+Ou si la haine y fut la mère du procès.
+
+-*who_angelique
+Tout cela va finir, j'attends un bon succès,
+Pyrante est leur arbitre, il les réconcilie.
+Comment peut-on haïr ? Hélas ! Quelle folie
+De se remplir le coeur de fiel et de venin !
+Il n'est pas naturel de haïr. Car enfin,
+On se fait plus de mal que l'on en fait aux autres.
+Des parents se haïr ! Pour revenir aux nôtres,
+Ils ne se sont point vus depuis quatre ou cinq ans,
+Leur haine est éteinte.
+
+-*who_nerine
+      Oh ! Je croirais bien, qu'absents
+Ils ne se sont haïs que par réminiscence ;
+Mais leur fiel s'aigrira bientôt par la présence :
+Outre qu'ils sont tous deux péris de pur levain,
+Qu'ils ont l'art de donner à tout un tour malin.
+Esprits très discordants, humeurs mal assorties
+Nature a mis en eux de ces antipathies
+Qu'on voit en quelques-uns pour les chats, les souris,
+Et que les femmes ont souvent pour leurs maris.
+
+-*who_angelique
+Ah ! Nérine, vois-tu là-bas dans ce passage...
+
+-*who_nerine
+Qui voyez-vous ? Ha, ha, c'est votre amant, je gage ;
+Oui, sans le regarder, ma foi je crois le voir ;
+Je le vois dans vos yeux, comme dans un miroir.
+
+-*who_angelique
+Avant qu'il m'ait parlé, conseille-moi, Nérine ;
+Comme il n'est pas bien sûr que l'on me le destine,
+Je devrais lui cacher encor mes sentiments !
+
+-*who_nerine
+Il est bien temps d'avoir de tels ménagements !
+Croyez-vous qu'il ignore encor votre tendresse ?
+
+-*who_angelique
+Qui l'en aurait instruit ?
+
+-*who_nerine
+      Quelque trait de jeunesse.
+Comme on a de l'amour souvent sans le savoir,
+On le déclare aussi souvent sans le vouloir.
+
+**** *book_ *id_I03 *act_I *date_1719
+
+-*who_dorante
+Que vois-je ! Quel bonheur ! L'agréable surprise !
+Belle Angélique, quoi, vous voir chez la Marquise !
+Vous voir hors du Couvent, malgré sa dureté,
+Le jour du rendez-vous pour l'accord arrêté !
+Votre oncle et votre tante apparemment conviennent
+De vous rendre aujourd'hui tous vos biens qu'ils retiennent ?
+Depuis quatre jours, moi, m'étant ici logé,
+J'ai si bien, sans m'ouvrir, prévenu, ménagé
+L'esprit e votre tante, en faisant connaissance,
+Qu'elle doit aujourd'hui me faire confidence
+D'un grand secret ; dit-elle, et je me suis flatté,
+Que ce que je désire, elle l'a projeté.
+Elle me fit hier cent offres gracieuses
+Qui, par rapport à vous, me furent précieuses.
+Je ne lui parlai point de mon amour, hélas !
+Peut-être votre coeur n'y répondra-t-il pas ;
+Puis-je enfin obtenir un aveu de tendresse ?
+
+-*who_angelique
+Mon Dieu... l'essentiel, c'est que leur haine cesse.
+
+-*who_dorante
+Ah ! L'essentiel, c'est le coeur, les sentiments ;
+Il est temps de répondre à mes empressements.
+
+-*who_angelique
+Mais ce qui presse, c'est de savoir si ma tante...
+
+-*who_dorante
+Ah ! Ce qui presse, c'est de savoir...
+
+-*who_angelique
+      Mais Dorante...
+
+-*who_dorante
+Pourquoi dans ces moments, où j'ose me flatter,
+Vous plaisez-vous encore à me laisser douter ?
+Car je n'ose expliquer pour moi votre silence.
+
+-*who_nerine
+Si le frère et la soeur sont pour vous, patience ;
+Si non vous vous trompez, nous n'aimons point.
+
+-*who_angelique
+      Mais non...
+Elle plaisante... mais au fond elle a raison.
+Car comment voulez-vous qu'on dise qu'on vous aime,
+Pendant que rien n'est sûr ?
+
+-*who_nerine
+      Jugez-en par vous-même ;
+Monsieur, vous n'aimez pas, car vous n'êtes pas sûr.
+
+-*who_dorante
+Vous m'enchantez.
+
+-*who_nerine
+      Aveu simple, naïf, et pur.
+Point de ces sentiments renflés par des paroles,
+Elle n'a point appris au couvent les grands rôles.
+
+-*who_dorante
+Trop heureux !
+
+-*who_nerine
+      Pas encor. Votre bonheur dépend
+De deux esprits...
+
+-*who_dorante
+      D'accord, bizarres ; mais pourtant
+L'arbitre réunis cette soeur et ce frère.
+
+-*who_angelique
+Je le désire encor plus que je ne l'espère.
+
+-*who_dorante
+Et moi, je me fais fort d'avoir l'aveu des deux.
+
+-*who_nerine
+Nous verrons ; mais ils sont l'un et l'autre quinteux.
+
+-*who_dorante
+Le Comte me connaît et connaît ma famille.
+
+-*who_nerine
+Oui. Mais il est brutal, son sang brûlant pétille.
+À l'égard de la soeur, cent fois je vous l'ai dit,
+L'esprit de la marquise est un terrible esprit ;
+Tantôt fausse bonté, tantôt malice pure,
+Pour son frère surtout, c'est une énigme obscure :
+De son coeur on ne peut au plus que se douter.
+Je l'interroge peu, je ne fais qu'écouter :
+Je la vois tantôt gaie, et tantôt furieuse.
+On ne peut définir cette capricieuse ;
+Elle laisse échapper à moitié ses secrets,
+Ensuite les retient, puis les déguise après ;
+Elle est en même temps indiscrète et prudente,
+Franche, dissimulée, et fière et caressante ;
+En riant elle pousse une vengeance à bout,
+Et dans ses passions met le tout pour le tout.
+
+-*who_angelique
+Je crois la voir là-bas dans cette galerie...
+C'est elle-même. Elle est dans une rêverie...
+Çà, Dorante, il faut donc, pour agir prudemment,
+Ne point paraître encor de concert.
+
+-*who_dorante
+      Non vraiment.
+Le chevalier arrive, il fera la demande :
+Pour ne rien hasarder, il faut que je l'attende.
+
+-*who_angelique
+Éloignez-vous, Dorante, elle vient.
+
+**** *book_ *id_I04 *act_I *date_1719
+
+-*who_angelique
+      Tu vois bien
+Que tu dois sans raison que je ne pense à rien ?
+J'ai pensé la première à faire fuir Dorante.
+
+-*who_nerine
+Rare effet de l'amour ! Il vous rendra prudente.
+
+-*who_angelique
+Par prudence il faudra louer ce Chevalier,
+À qui ma tante est prête à se remarier,
+Paraître bien contente.
+
+-*who_nerine
+      Oui ; mais elle est chagrine.
+
+-*who_angelique
+Ah ! Ne l'abordons pas, éloignons-nous, Nérine.
+
+-*who_nerine
+Observons le moment que ce nuage noir
+Se dissipe.
+
+-*who_angelique
+      Attendons.
+
+-*who_nerine
+      Elle est meilleure à voir.
+Quand il lui vient soudain quelque lueur de joie.
+
+-*who_lamarquise
+Malgré ma haine, enfin il faut que je le voie.
+Ce frère, il arrive. Hon !
+
+-*who_angelique
+      Ce nuage en effet
+Est bien noir.
+
+-*who_lamarquise
+      Mais tâchons d'effacer cet objet
+Par un autre. Aujourd'hui je reverrai Dorante.
+Que Dorante est charmant !
+
+-*who_angelique
+      Il paraît que ma tante
+Devient un peu plus gaie.
+
+-*who_nerine
+      Oui, son oeil s'éclaircit.
+
+-*who_lamarquise
+Mais un obstacle affreux...
+
+-*who_nerine
+      Non, non, il s'obscurcit.
+
+-*who_lamarquise
+Obstacle triste ! On va dire que je suis folle.
+Au chevalier enfin j'ai donné ma parole ;
+On le croit mon mari. Pourrai-je ?... Oui, je romprai,
+J'ai deux cent mille écus, je me contenterai,
+J'épouserai Dorante.
+      Ah ! Te voilà, Nérine ?
+
+-*who_nerine
+Je n'osais avancer, je vous voyais chagrine,
+Madame.
+
+-*who_lamarquise
+      Tu me prends entre deux passions,
+Agitée.
+
+-*who_nerine
+      Eh calmez vos agitations ;
+Ce jour pour vous doit être un jour doux, pacifique,
+Où toute haine cesse, au moins par politique.
+Pour l'autre passion, sans doute, c'est l'amour ?
+
+-*who_lamarquise
+Quoi ! Tu devines.
+
+-*who_nerine
+      Bon ! L'on m'a dit l'autre jour
+Qu'un jeune chevalier, gai, vif, et pourtant sage,
+À Rouen avec vous contractait mariage.
+
+-*who_lamarquise
+Nérine en le nommant redouble mes remords.
+
+-*who_nerine
+Ah ! Se remarier est le moindre des torts,
+Si c'en est un encore.
+
+-*who_lamarquise
+      Songeons à voir mon frère ;
+Ensuite je prendrai tes conseils, et j'espère
+Que tu me serviras dans une occasion
+Où la crainte, la honte, et la conclusion...
+
+-*who_nerine
+Je vous conseillerai de surmonter la honte ;
+Mes conseils sont humains.
+
+-*who_lamarquise
+      Sur tes conseils je compte.
+
+-*who_nerine
+Et votre nièce approuve ces conseils.
+Pour elle, elle en voudrait, il est vrai, de pareils. ;
+
+-*who_lamarquise
+Ma nièce approuve donc que je me remarie ?
+
+-*who_nerine
+Daignez la regardez de bon oeil, je vous prie.
+
+-*who_lamarquise
+Je ne te voyais pas ; viens vite m'embrasser.
+
+-*who_angelique
+Ma tante...
+
+-*who_lamarquise
+      Enfin pour toi je vais m'intéresser,
+Un oncle t'abandonne ; embrasse-moi. Tu n'oses ?
+
+-*who_angelique
+C'est le respect.
+
+-*who_lamarquise
+      Non, non, dis franchement les choses.
+Mon caressant accueil t'étonne un peu, je crois ?
+
+-*who_angelique
+Ma tante vous avez trop de bonté pour moi.
+
+-*who_lamarquise
+Pas trop, pas trop, ma nièce, au moins pour l'ordinaire ;
+Je te vois rarement, je ne te donne guère.
+
+-*who_nerine
+Vous allez lui donner un mari.
+
+-*who_lamarquise
+      Sûrement ;
+Mais de mon frère il faut l'aveu premièrement :
+Convenir de nos faits, c'est la première chose.
+Je garde le secret, de peur qu'il ne s'oppose,
+Car j'ai fait seule un choix qui te plaira, je crois,
+Suffit... Oui... Tu seras très contente de moi.
+Je veux faire cesser le blâme qu'on me donne ;
+Je te hais sans sujet, dit-on, non je suis bonne,
+Je ne te haïssais que par prévention :
+Ressemblance de traits fit cette aversion.
+En te voyant j'ai cru toujours voir feu ton père ;
+Nous étions faits, dit-on, moi, ma soeur et mon frère,
+Pour nous entre-haïr.
+
+-*who_nerine
+      On dit que de tout temps
+La haine dans Rouen distingua vos parents ;
+Oncles, tantes, cousins, frère, soeur, père, fille,
+Se reconnaissaient tous à cet air de famille.
+
+-*who_lamarquise
+Enfin cet air de haine entre mon frère et moi
+Va disparaître. Mais entrez ma nièce... et toi,
+Entre aussi ; tu sauras tantôt ma politique,
+Il faut qu'avec l'arbitre encore je m'explique,
+Laisse-moi.
+
+**** *book_ *id_I05 *act_I *date_1719
+
+-*who_lamarquise
+      Mon amour veut du secret aussi ;
+J'ai peur. Le chevalier vient m'épouser ici ;
+J'apprendrai trop tôt que j'adore Dorante.
+
+-*who_pyrante
+Je reviens vous parler.
+
+-*who_lamarquise
+      Eh bien, Monsieur Pyrante ?
+
+-*who_pyrante
+Votre frère, Madame, arrive et vient exprès,
+De Lyon, pour vous voir, et finir le procès :
+Il vient de me marquer la même impatience
+Que vous me témoignez sincèrement, je pense,
+De vous bien embrasser d'abord ; et dès ce soir,
+Quand vous vous serez vus, de me faire savoir
+Quel époux vous voulez choisir pour Angélique.
+
+-*who_lamarquise
+Il est temps qu'avec vous là-dessus je m'explique :
+Mais, Pyrante, à vous seul, sous le sceau du secret.
+
+-*who_pyrante
+Comme médiateur, je dois être discret,
+Et ne rien témoigner, pas même à votre frère,
+De ce dessein caché dont vous faites mystère.
+Si votre frère aussi me confie un secret,
+Je vous le cacherai, je dois être muet ;
+Je dois être aussi neutre, en qualité d'arbitre,
+Votre famille et vous, m'avez donné ce titre :
+Et pour vous réunir, presque juge entre vous,
+Je perds le droit d'ami.
+
+-*who_lamarquise
+      L'on exige de nous
+Qu'à ma nièce pour dot nous cédions cette terre,
+Pour laquelle on plaidait ; j'y consens, plus de guerre.
+Cette terre pourtant vaut deux cent mille francs.
+
+-*who_pyrante
+Vous remplissez par là des devoirs très pressants.
+Votre haine du moins cesse d'être publique,
+Vous ne plaiderez plus, et la nièce Angélique
+Aura ses biens, je dis ses biens, car franchement
+Vous ne les auriez pu garder qu'injustement.
+De nos plaideurs manceaux les maximes m'étonnent !
+Ce qu'ils n'usurpent pas, ils disent qu'ils le donnent !
+
+-*who_lamarquise
+Nous convenons des faits, laissons à part les mots.
+Je donne, mais d'un frère éludons les complots ;
+Vous saurez qu'il hait fort un certain Procinville,
+Homme très renommé, marquis, plaideur habile :
+Le connaissez-vous ?
+
+-*who_pyrante
+      Non.
+
+-*who_lamarquise
+      C'est lui que je choisis
+Pour ma nièce.
+
+-*who_pyrante
+      Suffit.
+
+-*who_lamarquise
+      Sur ce que je vous dis,
+Silence. Mais j'entends quereller, c'est mon frère.
+Je prendrais mal mon temps, j'essuierais sa colère.
+Et moi, de mon côté je sens un mouvement...
+J'entre chez moi, Monsieur, amusez-le un moment :
+Pour le bien embrasser, je me sens trop émue.
+
+-*who_pyrante
+Ceci ne promet pas une tendre entrevue.
+
+**** *book_ *id_I06 *act_I *date_1719
+
+-*who_lecomte
+Je joindrais ma soeur, mais je sens dans le moment
+Un fiel qui fait en moi certain soulèvement...
+Pour me tranquilliser, il me faut bien une heure.
+Laquais, j'aurais voulu faire ici ma demeure ;
+Mais pour cause cherchons un autre hôtel garni.
+
+-*who_unlaquais
+Mais, Monsieur, votre soeur loge dans celui-ci.
+
+-*who_lecomte
+Pour cela seul, maraud, je logerai dans l'autre.
+Çà, Monsieur, tout est dit, mon avis est le vôtre.
+Avant tout je verrai ma soeur, mais du secret.
+Qu'elle ne sache point que mon unique objet,
+C'est de donner ma nièce au sieur de Procinville ;
+Je vous l'ai déjà dit, c'est un Marquis habile,
+Mais comme il fut toujours ennemi de ma soeur,
+Le choix que j'en ai fait la mettrait en fureur.
+Soyez discret, silence enfin sur Procinville ;
+En cherchant un logis je vais calmer ma bile ;
+Je reviens dans une heure.
+
+**** *book_ *id_I07 *act_I *date_1719
+
+-*who_pyrante
+      Un même choix tous deux ?
+Ainsi, sans le savoir, ils sont d'accord entre eux.
+Sans le savoir ! Rêvons à cette circonstance.
+Cette affaire demande et secret, et prudence !
+Mais l'énigme pour moi, c'est le tour qu'ils ont pris,
+Car d'un côté la soeur me dit que ce marquis,
+Est ennemi du frère, et le frère au contraire
+Dit qu'il est ennemi de sa soeur. Quel mystère !
+Je ne le comprends pas.
+
+**** *book_ *id_I08 *act_I *date_1719
+
+-*who_falaise
+      Monsieur.
+
+-*who_pyrante
+      Ah !
+
+-*who_falaise
+      Pardonnez
+Si ma figure impose à vos yeux étonnés ;
+Un postillon en noir surprend Monsieur Pyrante.
+Falaise, c'est mon nom ; si ma langue éloquente,
+Si les tours les plus fins du langage normand
+Réussissaient autant dans un éloge en grand,
+Qu'en petits plaidoyers, brillants de médisance,
+Je haranguerais mieux que harangueur de France,
+Ce Pyrante fameux, ce grand médiateur,
+Réconciliateur, et pacificateur,
+Phénix dans le pays des noises, des castilles,
+Où l'on vous constitue arbitre des familles.
+
+-*who_pyrante
+Mon ami, vous m'avez l'air d'être un peu diffus.
+
+-*who_falaise
+J'en ai l'air, je le suis, et j'avouerai de plus
+Qu'étant nourri, stylé dans la basse chicane,
+Dans les discours fleuris je perds la tramontane.
+
+-*who_pyrante
+Abrégez-les donc.
+
+-*who_falaise
+      Oui, je les abrégerai.
+
+-*who_pyrante
+Que voulez-vous de moi ?
+
+-*who_falaise
+      Je vous l'expliquerai.
+Mais il faut que Falaise à vous se définisse,
+Afin d'avoir de vous audience propice.
+Au Mans, je fus jadis substitut d'un sergent ;
+Du sieur de Procinville ici je suis agent.
+
+-*who_pyrante
+Venez-vous me parler de sa part ?
+
+-*who_falaise
+      Patience.
+Il viendra demain ; mais je l'égale en science ;
+Nous avons de jeunesse ensemble plaidaillé,
+Bataillé, chicané, brétaillé, ferraillé ;
+Pour cette double guerre il fallait un prélude,
+Nous nous fîmes tous deux cadets dans une étude :
+Dans la guerre du sac chacun n'est pas heureux ;
+Il a gagné cent prix dans des combats douteux.
+Des scrupules outrés franchissant la barrière,
+Il me laissa bien loin dans la même carrière ;
+Et je ne suis enfin, avec tout mon acquis,
+Au Mans que maître clerc de monsieur le marquis.
+
+-*who_pyrante
+Plus de digressions ; allons au fait.
+
+-*who_falaise
+      J'abrège.
+Mais de mon maître, il faut vous dire le manège.
+Du couple fraternel il a gagné le coeur,
+Au frère il écrivait qu'il haïssait la soeur,
+À la soeur il disait qu'il haïssait le frère.
+
+-*who_pyrante
+Ce que tu me dis là m'éclaircit un mystère.
+
+-*who_falaise
+Aussi suis-je chargé de vous bien mettre au fait.
+Pour les rapatrier, ce manège secret,
+Comme vous l'allez voir, était très nécessaire,
+Car, pour vexer la soeur, le très rancunier frère,
+À mon maître a promis la nièce, et le procès :
+La soeur, pour chagriner le frère, donne exprès
+À mon maître sous main le procès et la nièce ;
+C'est ainsi que tous deux croyant se faire pièce,
+Seront d'accord.
+
+-*who_pyrante
+      J'entends. Tous deux séparément
+Me donnant par écrit un bon consentement,
+Pouvoir de marier la nièce à votre maître,
+Cette réunion, qui manquerait peut être,
+Se fera sûrement ; c'est mon unique objet,
+Votre maître arrivant, son mariage est fait.
+
+-*who_falaise
+Il venait aujourd'hui, sa chaise s'est brisée,
+J'ai pris du postillon la haridelle usée,
+J'arrive à toute jambe ici pour prévenir
+Monsieur Pyrante.
+
+-*who_pyrante
+      Enfin, je puis les réunir.
+
+-*who_falaise
+      Du secret.
+
+-*who_pyrante
+C'est à quoi mon ministère engage.
+
+**** *book_ *id_I09 *act_I *date_1719
+
+-*who_falaise
+Du frère, moi, je vais à la soeur dire rage,
+Je dirai pis que pendre au frère de la soeur ;
+Et disant mal des deux je ne suis point menteur,
+Quoique je sois natif de Falaise. Allons boire,
+Et me bien rafraîchir, en buvant, la mémoire
+Des manceaux documents d'un maître très sensé.
+Pateliner l'arbitre ; eh j'ai bien commencé,
+Trigauder frère et soeur, épier l'orpheline ;
+Prendre les souterrains, tournevirer Nérine ;
+Défiance surtout, ne disant oui, ni non,
+Manoeuvre plus obscure encore que le jargon.
+Je viens exprès du Mans enfin pour être traître,
+Je vais tenir ici la place de mon maître.
+Le grand homme en intrigue ! On peut dire pourtant
+Qu'il n'est pas un parfait fripon, mais cependant
+Il croit en probité les excès ridicules :
+Les sots veulent, dit-il, mettre un tas de scrupules
+Entre la probité solide, et l'intérêt ;
+C'est pour l'homme d'esprit un incommode apprêt ;
+La probité, d'accord, doit marcher la première,
+Notre intérêt après, les scrupules derrière.
+
+**** *book_ *id_II01 *act_II *date_1719
+
+-*who_angelique
+On brouille, nous dit-il, mon oncle avec ma Tante ?
+
+-*who_dorante
+Ne vous alarmez point, le Chevalier plaisante.
+
+-*who_angelique
+Mais il dit qu'un certain Falaise nous nuira ?
+
+-*who_dorante
+En tout cas cet ami nous en garantira,
+Quoique enjoué, badin, il est prudent et sage.
+
+**** *book_ *id_II02 *act_II *date_1719
+
+-*who_lechevalier
+Je veux l'appartement que j'eus l'autre voyage.
+Préparez-le-moi vite, il me convient. Eh bien !
+Tristes déjà tous deux pour un mot, sur un rien,
+Sur ce que je vous dis qu'un certain Procinville
+Veut tout brouiller ? Non, non, sa brigue est inutile :
+Dans cette affaire-ci j'agirai puissamment ;
+Mais faites comme moi, traitons ceci gaiement.
+J'ai toujours l'âme en joie, heureux don de nature !
+J'y joins même quelque art, car dans une aventure
+Je n'observe jamais que le côté plaisant,
+J'élude l'ennuyeux, je saisis l'amusant,
+Et cela par raison, étant né sans fortune.
+Sans bien, pour secouer cette idée importune,
+Je trouve un patrimoine, au moins dans ma gaîté.
+
+-*who_dorante
+Tout en riant, mon cher, tu m'avais attristé ;
+Tu nous dis qu'un Falaise arrive exprès du Maine
+Pour rompre cette paix que nous croyons certaine ?
+
+-*who_angelique
+De cette paix, Monsieur, tout mon bonheur dépend ;
+Ils me rendent mes biens en se réunissant.
+
+-*who_dorante
+Mon ami prend sur lui tout ce qui nous regarde,
+Je devais leur parler, il veut que je retarde,
+Et que d'abord on songe à les bien réunir.
+
+-*who_angelique
+J'adoucirai mon oncle.
+
+-*who_lechevalier
+      Exhortez-le à finir.
+En attendant, sachez que voulant qu'on finisse,
+Je contrains la Marquise à vous rendre justice.
+
+-*who_angelique
+L'on m'a dit vos bontés, monsieur le Chevalier.
+
+-*who_lechevalier
+Mon procédé du moins est assez singulier !
+Car je n'épouse point en fraude votre tante,
+La famille sous main en est très consentante :
+La Marquise aurait pris quelque dissipateur ;
+Ils me regardent, moi, comme un mari tuteur.
+Ils savent l'ascendant que j'ai sur la Marquise,
+Sa passion pour moi la rend bonne et soumise,
+Sensée, indifférente. Amitié de sang-froid
+Domine sur l'amour, sur elle j'ai ce droit,
+Et je m'en servirai, car épousant la tante.
+Oncle par conséquent de la nièce charmante,
+Je te fais mon neveu, respecte un oncle en moi ;
+Pour ma nièce je sais tout ce que je lui dois ;
+Épouser une tante est une hardiesse,
+Qu'on ne peut expier qu'en mariant la nièce.
+
+-*who_angelique
+Dorante, vous avez le plus adorable ami...
+
+-*who_dorante
+Et qui ne sert jamais ses amis à demi :
+Comme de la Marquise il n'est rien qu'il n'obtienne,
+Il parlera pour nous.
+
+-*who_lechevalier
+      Oh ! Qu'à cela ne tienne.
+À la nièce d'abord je fais rendre les biens,
+Et la tante par moi conservera les siens.
+À se remarier elle était résolue,
+À d'autres elle offrait la main que j'ai reçue ;
+Elle veut un mari jeune, qui n'ayant rien,
+Frustre ses héritiers en mangeant tout son bien ;
+Je ferai son affaire, et si je puis, la vôtre,
+En vous déshéritant plus sobrement qu'un autre :
+Économe des biens, dont pourtant je vivrai,
+Pour vos enfants, à vous je les conserverai.
+
+**** *book_ *id_II03 *act_II *date_1719
+
+-*who_nerine
+La Marquise de tout me fait encor mystère ;
+Éloignez-vous tous deux, je vois venir son frère.
+
+-*who_lechevalier
+Il est avec cet homme, et je veux l'observer.
+À ton amour, mon cher, chez moi va t'en rêver,
+Et Nérine, et ma nièce adouciront le Comte ;
+Je ferai la demande après.
+
+-*who_dorante
+      Sur toi je compte.
+
+**** *book_ *id_II04 *act_II *date_1719
+
+-*who_angelique
+Cet homme a là-dedans vu ma tante en secret,
+Il voit mon oncle après !
+
+-*who_nerine
+      Comme un fourbe il est fait.
+
+-*who_angelique
+Serait-ce ce Normand ?
+
+-*who_lechevalier
+      L'apparence en est grande.
+
+-*who_nerine
+Du Falaise, il a l'air ; sa parure est Normande,
+Parure à double entente, on ne sait ce qu'il est.
+
+-*who_falaise
+Vous faites pour la nièce un excellent acquêt ;
+Mon maître est à bon droit Marquis de Procinville,
+Il est brave guerrier, et plaideur très habile ;
+Tels étaient ses aïeux, la terreur des humains,
+À la plume, à l'épée, exploiteurs à deux mains.
+La noblesse normande ainsi court à la gloire :
+Exploits guerriers gravés au temple de mémoire ;
+Exploits enregistrés dans les greffes du Mans.
+Certain Robert le Roux, général des Normands,
+Conquérant renommé surtout en procédures,
+Au sortir des combats faisait ses écritures
+Lui-même.
+
+-*who_lecomte
+      Oui, j'ai besoin d'un vrai Robert le Roux
+Pour ma nièce.
+
+-*who_falaise
+      Allons donc tromper la soeur pour nous,
+Et pour nous de la nièce enfin rendez-vous maître ;
+Moi, j'observerai tout sans rien faire connaître ;
+Pour les espionner je jouerai bien mon jeu.
+
+-*who_lecomte
+Avant que de la voir, j'y vais rêver un peu.
+
+**** *book_ *id_II05 *act_II *date_1719
+
+-*who_lecomte
+Que vois-je ? Vous voilà hors du Couvent, ma nièce ?
+
+-*who_nerine
+Pardon si d'en sortir elle a la hardiesse ;
+Mais le désir d'hymen, subtil comme le vent,
+S'est par malheur glissé jusques dans son couvent,
+Je l'ai laissé souffler.
+
+-*who_lecomte
+      À mes ordres rebelle,
+Vous voyez votre tante, et vous voilà chez elle ;
+Avec elle sans doute vous complotez,
+Quand elle est à Paris, enfin vous la hantez ?
+
+-*who_nerine
+Ma foi, très rarement elle hante sa tante.
+
+-*who_lecomte
+Taisez-vous.
+
+-*who_angelique
+      Pardon.
+
+-*who_nerine
+      Mais...
+
+-*who_lecomte
+      Taisez-vous, insolente.
+
+-*who_nerine
+Nous sommes avec elle assez mal, Dieu merci,
+Quel esprit ! Quelle humeur ! Et le coeur endurci.
+
+-*who_lecomte
+Tu dis que...
+
+-*who_nerine
+      Je dis que par malice je pense,
+Elle se remarie.
+
+-*who_lecomte
+      Oui par pure vengeance.
+
+-*who_nerine
+La vengeance n'est pas son unique motif,
+Cette veuve a le sang plus que vindicatif.
+
+-*who_lecomte
+Tu lui rends bien justice ! En cela je t'estime.
+
+-*who_nerine
+Il suffit d'être bon pour être sa victime.
+Pardon, si je la hais.
+
+-*who_lecomte
+      Va, je t'en aime mieux.
+
+-*who_nerine
+Nous n'avons presque osé nous montrer à ses yeux ;
+Eh ! Monsieur, aujourd'hui protégez-nous contre elle,
+On lui voit pour sa nièce une haine mortelle,
+Parce qu'elle est la vôtre, ainsi qu'on voit souvent
+Une femme de bien haïr son propre enfant,
+Parce que son mari peut-être en est le père.
+
+-*who_lecomte
+Ma nièce, embrassez-moi : voyons ce qu'on peut faire ?
+Au fond j'aime Angélique, elle me fait pitié.
+
+-*who_angelique
+Ah ! Je ne veux de vous rien que votre amitié.
+
+-*who_nerine
+Amitié qui marie.
+
+-*who_lecomte
+      Oui, mais c'est un mystère,
+Jusqu'à ce que l'on soit d'accord, il faut se taire.
+
+-*who_angelique
+Mais ma tante, je crois, vient au-devant de vous.
+
+-*who_nerine
+Je cours chercher l'arbitre.
+
+**** *book_ *id_II06 *act_II *date_1719
+
+-*who_angelique
+      Ah ! Quel bonheur pour nous !
+Cette entrevue aura parfaite réussite.
+Ah ! Ma tante, à la paix mon oncle vous invite.
+
+-*who_lamarquise
+Pour te faire plaisir, je le vois de bon coeur.
+
+-*who_angelique
+Ma tante vient à vous.
+
+-*who_lecomte
+      Pour faire ton bonheur,
+Je vais l'embrasser.
+
+-*who_angelique
+      Bon. Ils vont s'aimer, je pense.
+
+-*who_lamarquise
+Quel effort je me fais !
+
+-*who_lecomte
+      Ah ! Quelle violence !
+
+-*who_lamarquise
+Eh ! Bonjour, mon cher frère.
+
+-*who_lecomte
+      Embrassez-moi, ma soeur.
+
+-*who_lamarquise
+C'est avec grand plaisir.
+
+-*who_lecomte
+      Ah ! C'est de tout mon coeur.
+
+-*who_lamarquise
+Qu'entre mon frère et moi, ce jour-ci renouvelle
+Pour soixante ans au moins, l'amitié fraternelle.
+
+-*who_lecomte
+Que plus longtemps, encor secondant mes désirs
+Le Ciel comble ma soeur de biens et de plaisirs.
+
+-*who_lamarquise
+Nous voilà réunis.
+
+-*who_angelique
+      Réunion charmante !
+
+-*who_lecomte
+Et l'on peut s'assurer qu'elle sera constante.
+
+-*who_lamarquise
+Oui. Quand vous promettez, on peut compter sur vous,
+Et quelques démêlés qu'on ait vus entre nous,
+À votre probité je rends toujours justice.
+
+-*who_lecomte
+Il faut me pardonner quelque petit caprice,
+Et vous avez aussi quelque petite humeur,
+Mais toujours je l'ai dit, vous avez un bon coeur.
+
+-*who_angelique
+Ah ! Vous êtes si bons tous deux !
+
+-*who_lamarquise
+      Surtout mon frère.
+
+-*who_lecomte
+Obligeante sur tout, c'est là son caractère.
+Çà, ma soeur, aujourd'hui j'ose vous demander
+Une grâce.
+
+-*who_lamarquise
+      À coup sûr je vais vous l'accorder.
+Mais je voudrais aussi vous en demander une.
+
+-*who_lecomte
+Tant mieux. C'est pour tous deux une égale fortune,
+De pouvoir sur le champ contentant son désir,
+Rendre grâce pour grâce, et plaisir pour plaisir.
+
+-*who_lamarquise
+Vous êtes effectif.
+
+-*who_lecomte
+      Je le suis, je m'en pique.
+Que puis-je faire ?
+
+-*who_lamarquise
+      C'est au sujet d'Angélique.
+
+-*who_lecomte
+C'est d'Angélique aussi que je vous parlerai.
+
+-*who_lamarquise
+Vous devez l'avouer, et moi j'en conviendrai,
+Nous avons eu tous deux pour elle un peu de haine.
+
+-*who_lecomte
+Vous m'aimez dans le fonds ?
+
+-*who_lamarquise
+      Oui ; car je suis humaine.
+
+-*who_lecomte
+La même humanité, les mêmes sentiments
+Nous viennent d'émouvoir tous deux en même temps,
+De la fraternité, c'est l'effet sympathique.
+
+-*who_lamarquise
+Attendrissons nos coeurs en faveur d'Angélique ;
+Ne la contraignons point de rester au couvent.
+
+-*who_lecomte
+C'est à quoi je rêvais tantôt en arrivant ;
+Oui, faisons-lui du bien.
+
+-*who_lamarquise
+      Du bien, c'est ma pensée.
+
+-*who_lecomte
+J'ai fait réflexion...
+
+-*who_lamarquise
+      Réflexion sensée !
+
+-*who_lecomte
+Que ce procès nourrit la discorde entre nous.
+
+-*who_lamarquise
+Même réflexion.
+
+-*who_lecomte
+      Je rompis avec vous
+Pour cette Terre.
+
+-*who_lamarquise
+      Objet de notre brouillerie :
+Faisons-en à ma nièce un don, je vous en prie.
+
+-*who_lecomte
+J'allais vous en prier, d'honneur, dans le moment.
+
+-*who_lamarquise
+De nos prétentions...
+
+-*who_lecomte
+      Faire un don.
+
+-*who_lamarquise
+      Justement.
+
+-*who_lecomte
+Chacun s'est, comme l'autre, arrangé par avance.
+
+-*who_lamarquise
+De tous nos sentiments voyez la convenance !
+J'admire que de coeur... là... nous nous prévenions !
+
+-*who_lecomte
+Sans nous être parlé que nous nous devinions !
+Car vous voulez sans doute aussi qu'on la marie ?
+
+-*who_lamarquise
+Justement ! Je le veux, même je vous en prie.
+
+-*who_lecomte
+Il est juste qu'elle ait un établissement ;
+Mais je dis au plus tôt.
+
+-*who_lamarquise
+      Oui, sans retardement.
+
+-*who_lecomte
+Nous voilà de tout point d'accord sur cette affaire,
+Nous le serons toujours.
+
+-*who_lamarquise
+      Assurément, mon frère :
+Car le choix du mari vous est indifférent ?
+
+-*who_lecomte
+Oui : qu'importe, pourvu que le mari qu'on prend
+Soit un homme de bien.
+
+-*who_lamarquise
+      C'est cela, qu'il convienne.
+
+-*who_angelique
+Il me doit convenir, de quelque part qu'il vienne,
+Ou de vous, ou de vous.
+
+-*who_lecomte
+      La chose étant ainsi,
+Je vous épargnerai l'embarras, le souci,
+De chercher un mari pour elle.
+
+-*who_lamarquise
+      Non, mon frère ;
+Moi, qui reste à Paris, je ferai cette affaire.
+
+-*who_lecomte
+Je prendrai volontiers le soin de la pourvoir.
+
+-*who_lamarquise
+Donnez-moi seulement par écrit un pouvoir.
+
+-*who_lecomte
+Non, donnez-le moi, vous, je suis prudent et sage.
+
+-*who_lamarquise
+Mieux que vous je saurai faire un bon mariage.
+
+-*who_lecomte
+Oh ! Je veux m'en charger.
+
+-*who_lamarquise
+      Monsieur, ce sera moi.
+
+-*who_lecomte
+Je m'en charge, vous dis-je, et de plus je le dois.
+Je me suis fait nommer son tuteur par justice.
+
+-*who_lamarquise
+Moi, pour la marier, je me nomme tutrice.
+
+-*who_lecomte
+Moi, j'ai promis ma nièce, et me suis engagé.
+
+-*who_lamarquise
+Mon projet, est aussi tout fait, tout arrangé.
+
+-*who_lecomte
+Cet arrangement fait n'est que pure malice.
+
+-*who_angelique
+Eh ! Ne vous brouillez pas.
+
+-*who_lecomte
+      Ah ! C'est un artifice
+Pour ne point consentir à l'homme que je veux.
+
+-*who_lamarquise
+Je reconnais mon frère, inquiet, soupçonneux.
+
+-*who_angelique
+Eh ! Ma tante !
+
+-*who_lecomte
+      Ma soeur sera toujours maligne.
+
+-*who_angelique
+Eh ! Mon oncle !
+
+-*who_lamarquise
+      Ce trait de mon frère est bien digne.
+
+-*who_lecomte
+En vain donc j'avais mis, pour avoir l'union,
+Entre nous le chemin de Paris à Lyon.
+
+-*who_lamarquise
+Et pour venir la rompre après cinq ans d'absence,
+De Lyon vous prenez exprès la diligence.
+
+-*who_angelique
+Vous voulez même chose, et vous êtes d'accord.
+
+-*who_lecomte
+Quelle femme !
+
+-*who_lamarquise
+      Quel homme !
+
+-*who_lecomte
+      Ah ! J'ai bien vu d'abord,
+Tantôt en arrivant, que nièce et gouvernante
+Avaient fait contre moi leur brigue avec la tante.
+
+-*who_angelique
+Non, mon oncle, non.
+
+-*who_lecomte
+      Oh ! Je saurai vous punir.
+
+-*who_lamarquise
+Ah ! C'est une rupture à n'y plus revenir.
+
+-*who_angelique
+Mais faut-il sur un rien...
+
+-*who_lecomte
+      Oui, ventrebleu, j'en jure...
+
+-*who_lamarquise
+Oui, j'en fais serment...
+
+-*who_angelique
+      Mais pourquoi cette rupture ?
+
+-*who_lamarquise
+Ma nièce aura celui qui plus vous déplaira.
+
+-*who_lecomte
+Je la donne à celui qui plus vous haïra.
+
+-*who_angelique
+À les raccommoder j'ai bien pris de la peine.
+
+**** *book_ *id_II07 *act_II *date_1719
+
+-*who_nerine
+Laissez-moi profiter de son accès de haine.
+
+-*who_lamarquise
+Pour ma nièce, sans doute il voulait quelque époux
+Qui fût mon ennemi.
+
+-*who_nerine
+      Mon Dieu, modérez-vous.
+
+-*who_lamarquise
+La modération me donne la migraine.
+
+-*who_nerine
+Fort bien. Ne pas goûter une passion pleine,
+Vous aimeriez autant presque n'en point avoir.
+Haïssez, j'y consens. Car j'ai bien su prévoir
+Que vous ne mariez la nièce que par pique :
+J'imagine un moyen pour pourvoir Angélique
+Qui pourra nous venger d'un frère...
+
+-*who_lamarquise
+      Vengeons-nous.
+Je veux te dire...
+
+-*who_nerine
+      Quoi !
+
+-*who_lamarquise
+      Cent choses.
+
+-*who_nerine
+      Calmez-vous.
+
+-*who_lamarquise
+J'aimais le Chevalier.
+
+-*who_nerine
+      Oui, je l'avais ouï dire.
+
+-*who_lamarquise
+Je ne l'aime plus.
+
+-*who_nerine
+      Bon, tant mieux.
+
+-*who_lamarquise
+      Que je respire !
+Ouf.
+
+-*who_nerine
+      Oui, la haine seule est digne d'un grand coeur.
+Aussi bien que l'amour, la haine a sa douceur :
+Un fiel bien ménagé coule de veine en veine,
+Part du coeur, y retourne : on fait filer la haine
+À longs traits, avec art, comme l'amour enfin,
+Chez les femmes surtout, où le plaisir malin
+Prend racine, s'étend (la terre en est si bonne !)
+Cette maligne haine, outre qu'elle y foisonne,
+Y dure beaucoup plus que le goût d'un amant.
+C'est en passant qu'on aime, on hait plus constamment.
+Le plaisir d'aimer fuit, passe avec la jeunesse,
+Et celui de haïr croit avec la vieillesse.
+D'ailleurs d'avoir aimé, femme sage a regret,
+Mais sans aucun remords la vertueuse hait.
+Que de gêne en amour ! Précaution, mystère...
+Il est souvent trompeur ; la haine est plus sincère.
+Tel vous aime, dit-il ; n'en croyez rien, il ment,
+Vous dit-on qu'on vous hait ? Croyez-le aveuglément.
+En aimant, le plaisir c'est d'être aimé de même,
+Eh ! Qui peut s'assurer d'être aimé quand il aime ?
+Peu d'amours mutuels, encore moins de constants,
+Mais qui hait, est plus sûr d'être haï longtemps.
+
+-*who_lamarquise
+Tu me fais appétit de haïr ; mais, Nérine,
+C'est sans me dégoûter d'aimer.
+
+-*who_nerine
+      Comment ?
+
+-*who_lamarquise
+      Devine ?
+Mais je songe à mon frère encor. Quelle fureur !
+Ah ! Ma fureur s'apaise, et se change en douceur.
+C'est lui.
+
+-*who_nerine
+      Qui lui ?
+
+**** *book_ *id_II08 *act_II *date_1719
+
+-*who_lamarquise
+      Celui qui calme, qui tempère...
+Mes sens étaient troublés... troublés par la colère.
+Et cet objet après avoir calmé les sens,
+Les retrouble... mais c'est d'autre façon.
+
+-*who_nerine
+J'entends.
+
+-*who_lamarquise
+      Il est charmant. Tiens, vois, Nérine... je l'adore.
+Tu ne le connais pas. Son nom, c'est...
+
+-*who_nerine
+      Je l'ignore ;
+Mais...
+
+-*who_lamarquise
+      Je tremble... Monsieur... vous paraissez rêveur.
+
+-*who_dorante
+Oui, Madame. Je vois votre frère en fureur ;
+Plus de réunion, a-t-il dit à Pyrante.
+Cette rupture à tous va paraître étonnante,
+C'est à quoi je rêvais ; car j'y prends part pour vous.
+Vous voulûtes hier, Madame, qu'entre nous
+Commençât l'union d'une amitié sincère,
+Ce sont vos propres mots. Un conseil salutaire
+Que je vous donne, c'est...
+
+-*who_lamarquise
+      Nérine, un trouble...
+
+-*who_nerine
+      Entrons.
+
+-*who_lamarquise
+Monsieur... ma honte...
+
+-*who_nerine
+      Mais, ou rentrons, ou sortons.
+
+-*who_lamarquise
+Monsieur... vous... a-t-on tant de pudeur à mon âge ?
+
+-*who_nerine
+Mais gardez-la du moins jusqu'à tantôt.
+J'enrage.
+
+-*who_lamarquise
+      Monsieur...
+
+-*who_nerine
+      C'est qu'à Madame un mal de gorge a pris.
+La luette, la langue, elle a tout entrepris :
+Venez boire.
+
+-*who_lamarquise
+      Il est vrai... je n'ose pas moi-même...
+Rougis pour moi, Nérine, et dis-lui que je l'aime.
+
+**** *book_ *id_II09 *act_II *date_1719
+
+-*who_dorante
+Qu'entends-je ?
+
+-*who_nerine
+      Elle vous aime.
+
+-*who_dorante
+      Où suis-je ?
+
+-*who_nerine
+      Vous voilà
+Dans les biens jusqu'au cou. Voyez, épousez-la.
+
+-*who_dorante
+Que devient Angélique ?
+
+-*who_nerine
+      Objet de sa rage,
+Si...
+
+-*who_dorante
+      Je perds l'espérance.
+
+-*who_nerine
+      Et moi, je perds courage.
+
+-*who_dorante
+Le coup est bien cruel !
+
+-*who_nerine
+      Ce coup m'abasourdit.
+
+-*who_dorante
+Ce mortel contretemps...
+
+-*who_nerine
+      M'abat et m'étourdit,
+Je n'ai plus...
+
+-*who_dorante
+      Juste ciel !
+
+-*who_nerine
+      La force...
+
+-*who_dorante
+      Elle ! Elle m'aime ?
+
+-*who_nerine
+D'agir.
+
+-*who_dorante
+      Quoi !
+
+-*who_nerine
+      De penser.
+
+-*who_dorante
+      Moi !
+
+-*who_nerine
+      Vous.
+
+-*who_dorante
+      Moi, moi !
+
+-*who_nerine
+      Vous-même.
+
+-*who_dorante
+Il faut...
+
+-*who_nerine
+      Quoi ?
+
+-*who_dorante
+      Voyons...
+
+-*who_nerine
+      Qui ?
+
+-*who_dorante
+      Mais sachons...
+
+-*who_nerine
+      Que savoir ?
+
+-*who_dorante
+Allons...
+
+-*who_nerine
+      Où, vous noyer.
+
+-*who_dorante
+      Je suis au désespoir.
+
+**** *book_ *id_II10 *act_II *date_1719
+
+-*who_lechevalier
+Le bel accord, mon cher, que l'entrevue opère !
+Ils ne se verront plus, l'arbitre en désespère ;
+Il faudra les gagner chacun séparément,
+Vous autres gagnerez l'oncle facilement.
+Pour moi morbleu, pour moi, je n'épouse la tante
+Qu'en exigeant...
+
+-*who_nerine
+      Tout beau, la puissance exigeante
+Vous manque ici tout net ; vous n'êtes plus mari ;
+Pour un autre que vous, son coeur s'est attendri.
+
+-*who_lechevalier
+Quoi ! Plaisantes-tu ?
+
+-*who_nerine
+      Non, l'avis que je vous donne
+N'est que trop vrai.
+
+-*who_lechevalier
+      Parbleu ! La nouvelle m'étonne,
+Mais ne m'afflige point ; c'est-à-dire pour moi,
+Car je me repentais d'avoir donné ma foi
+Presque publiquement à la folle Marquise ;
+Ainsi son changement à changer m'autorise.
+Trop constant par honneur, je n'eusse pas osé
+Accepter un parti que l'on m'a proposé,
+Femme moitié moins riche, aussi moitié plus sage,
+Amour moins pétulant, mais aussi moins volage.
+J'attends de la Marquise un refus éclatant,
+Qui me donne aujourd'hui le droit d'être inconstant.
+Mais savez-vous quel est ce rival redoutable ?
+Tel qu'il soit la Marquise y perd.
+
+-*who_nerine
+      Il est aimable.
+
+-*who_lechevalier
+J'observe exactement un traité conjugal.
+
+-*who_nerine
+Entre vous le débat, voilà votre rival.
+
+-*who_lechevalier
+Dorante ?
+
+-*who_nerine
+      Oui.
+
+-*who_lechevalier
+      Palsambleu l'incident me fait rire !
+J'en suis fâché pour toi. Ha, ha ! Tu vas me dire
+Qu'il n'est pas trop sensé de rire en pareil cas ;
+Mais si je m'affligeais, je ne trouverais pas
+De prompts expédients que ma gaieté m'inspire :
+Elle m'ouvre l'esprit. Par exemple... qu'on tire
+De la tante les biens de la nièce... on le peut,
+L'arbitre le prétend, la famille le veut ;
+Alors en gagnant l'oncle, on mariera la nièce
+Malgré la tante.
+
+-*who_nerine
+      Oui ; mais lui jouer cette pièce,
+C'est la difficulté.
+
+-*who_lechevalier
+      Nous allons y rêver,
+Entrons chez moi tous trois.
+
+-*who_dorante
+      Je vais vous y trouver,
+Mais je veux voir l'arbitre. Ah quel malheur, Nérine.
+
+-*who_lechevalier
+Je sens que malgré moi pour lui je me chagrine.
+Trouvons vite un remède à ses malheurs pressants,
+Car je ne pourrais pas être chagrin longtemps.
+
+**** *book_ *id_III01 *act_III *date_1719
+
+-*who_unlaquais
+C'est pour monsieur le Comte.
+
+-*who_nerine
+      Il est en ville ; donne ;
+Je la lui rends tantôt, à lui-même, en personne,
+Il doit venir chez nous, je la lui remettrai.
+Lettre de normandie. À fond j'éclaircirai
+D'où vient cette lettre. Mais pensons à ce qui presse.
+
+**** *book_ *id_III02 *act_III *date_1719
+
+-*who_lechevalier
+J'y rêve. Mais il faut que Dorante paraisse
+Vouloir bien épouser la Marquise. Oui, ce tour
+Serait assez plaisant ! Se servir de l'amour,
+Qu'elle a pour lui, qui fait obstacle, qui désole ;
+Se servir de l'amour qua pour lui cette folle,
+Pour lui faire livrer les biens qu'elle retient :
+Du Comte on tirera parti.
+
+-*who_nerine
+      Dorante vient ;
+Que vois-je ? Où diantre a-t-il pu joindre la Marquise ?
+
+-*who_lechevalier
+Elle l'aura surpris.
+
+-*who_nerine
+      Peste de la surprise !
+Morbleu, sur notre idée il n'est point prévenu,
+N'étant instruit de rien, qu'aura-t-il répondu ?
+Il aura tout gâté. Restez dans ce passage,
+Du contretemps tâchons de tirer avantage,
+Quand il sera pressé, je tousserai.
+
+-*who_lechevalier
+      J'entends.
+
+-*who_nerine
+Quel plaisir de servir des gens intelligents !
+
+**** *book_ *id_III03 *act_III *date_1719
+
+-*who_dorante
+Ah ! Dans quel embarras me jettes-tu ? J'essuie
+Le plus cruel assaut...
+
+-*who_nerine
+      Il faut...
+
+-*who_dorante
+      Que je la fuie,
+Elle me suit.
+
+-*who_nerine
+      Restez : stratagème impromptu !
+
+-*who_dorante
+Tu lui dis que je veux l'épouser, rêves-tu ?
+
+-*who_nerine
+Vous l'aimerez de plus j'en ai donné ma parole,
+Oui, vous l'aimez, vous dis-je, il le faut.
+
+-*who_dorante
+      Es-tu folle ?
+Je suis...
+
+-*who_nerine
+      Vous perdez tout.
+
+-*who_dorante
+      Je ne puis consentir
+À feindre.
+
+-*who_nerine
+      Équivoquez, et laissez-moi mentir ;
+En lui parlant, songez à la nièce charmante,
+Soupirez pour la nièce en parlant à la tante,
+C'est tout de même, allons, songez qu'un mot ou deux
+Procure à cette nièce un mariage heureux.
+
+**** *book_ *id_III04 *act_III *date_1719
+
+-*who_nerine
+Madame, nous parlions de l'heureux mariage...
+
+-*who_lamarquise
+Quoi ! Monsieur, vous parliez de moi ?
+
+-*who_nerine
+      C'est grand dommage
+Que ce qu'il m'en disait soit éloge perdu,
+Je voudrais que de loin vous l'eussiez entendu.
+
+-*who_lamarquise
+Que disiez-vous, monsieur ?
+
+-*who_nerine
+      Il n'ose le redire.
+La riche veuve croit que l'intérêt inspire
+Au jeune cavalier tout ce qu'il ne sent pas,
+Et qu'il lui dit... Je ris de ce double embarras.
+Je vous vois à tous deux une espèce de honte ;
+Vous restez-là muets ; la rougeur vous surmonte.
+Monsieur me disait donc qu'il était tout honteux
+De vos immenses biens ; car il est généreux.
+Monsieur rougit voyant votre grande richesse,
+Et vous, vous rougissez de sa grande jeunesse.
+Vous rougissez tous deux ; car ainsi que l'honneur,
+La générosité, madame, a sa pudeur.
+
+-*who_lamarquise
+Je vous permets d'aimer mes grands biens, car du reste
+Je crains...
+
+-*who_dorante
+      Je vous l'ai dit, madame, je proteste,
+Je jure que les biens qu'aujourd'hui vous m'offrez
+Je les méprise au point...
+
+-*who_nerine
+      Jamais vous ne croirez
+À quel point là-dessus va sa délicatesse.
+
+-*who_lamarquise
+Vous trouvez donc en moi plus que de la richesse ?
+
+-*who_nerine
+Il faut bien, puisqu'en vous il voit de la beauté,
+De l'esprit ; votre humeur, surtout, votre gaieté,
+Votre enjouement d'hier le charma.
+
+-*who_lamarquise
+      J'y pris garde.
+Reprenons la gaieté d'hier, car on hasarde ;
+On dit tout en riant, on s'explique bien mieux,
+La honte paraît trop sur un front sérieux.
+Disons donc que rien n'est d'un plus heureux présage
+Que lorsqu'en quatre jours on fait un mariage ;
+Cela prouve un rapport, que je vois entre nous,
+Et qu'on voit rarement, monsieur, dans deux époux.
+Bon esprit, belle humeur, douceur et complaisance !
+Pour l'âge, nous n'avons pas tant de convenance,
+Mais je ne vieillis point, et vous deviendrez vieux,
+Et pour épouse alors je vous conviendrai mieux.
+
+-*who_dorante
+Quand on a comme vous l'humeur vive et brillante,
+On ne vieillit point.
+
+-*who_lamarquise
+      Ah ! La réplique est galante ;
+M'aimeriez-vous un peu ? Parlez ouvertement,
+Monsieur.
+
+-*who_nerine
+      Je vous ai dit qu'il faut premièrement,
+Pour le faire parler, lever tous ses scrupules.
+
+-*who_dorante
+Oui, scrupules, j'en ai.
+
+-*who_nerine
+      Même de ridicules :
+Dans un siècle, où chacun ne se fait une loi
+D'honneur, de probité, que par rapport à soi,
+Il craint de supplanter le Chevalier.
+
+-*who_dorante
+      Je blâme
+De pareils procédés.
+
+-*who_nerine
+      Il veut du moins, Madame,
+Ne se point déclarer que vous n'ayez rompu.
+
+-*who_lamarquise
+Il me faut quelque temps ; mais j'ai déjà conçu
+Un prétexte pour rompre à peu près vraisemblable,
+
+-*who_nerine
+Pour son autre scrupule, il est très raisonnable,
+Même le Chevalier comme lui l'avait eu ;
+Avant que de signer, Madame, il a voulu
+Voir la famille en paix.
+
+-*who_lamarquise
+      Expliquez-vous Dorante ?
+
+-*who_dorante
+Oui, je voudrais bien voir la famille contente.
+
+-*who_nerine
+Comme en vous épousant il frustre de vos biens
+Une nièce, il veut voir qu'on lui rende les siens ;
+Je l'ai dit à Madame, et pour vous satisfaire
+Elle a fait un bon acte et par-devant notaire.
+
+-*who_lamarquise
+Je ne le livrerai qu'à votre occasion,
+Expliquez-vous.
+
+-*who_dorante
+      S'il faut une explication,
+Livrez-le, et vous ferez le bonheur de ma vie.
+
+-*who_lamarquise
+Ah ! Le coeur a parlé.
+
+-*who_nerine
+      Que vous voilà ravie ?
+
+-*who_lamarquise
+Ravie... oui... transportée...
+
+-*who_nerine
+      Hem.
+
+-*who_lamarquise
+      J'ai vu dans vos yeux,
+Votre bouche va donc s'exprimer mieux ;
+Vous n'êtes plus suspect d'intérêt, cher Dorante,
+J'ai vu votre embarras, votre pudeur charmante,
+La mienne enfin vaincue...
+
+-*who_nerine
+      Ah ! Fuyez promptement.
+
+-*who_lamarquise
+Qu'est-ce ?
+
+-*who_nerine
+      Je vois venir... sauvez-vous. Hem.
+
+-*who_lamarquise
+      Comment.
+Pourquoi le faire fuir.
+
+**** *book_ *id_III05 *act_III *date_1719
+
+-*who_nerine
+      À présent je respire,
+Quoi ! Vous ne voyez pas ?
+
+-*who_lamarquise
+      Qui donc ? Que veux-tu dire ?
+
+-*who_nerine
+Le Chevalier.
+
+-*who_lamarquise
+      Ô Dieux ! Qu'il vient à contretemps !
+Lui, sitôt de retour ! Nérine tous mes sens
+Se glacent.
+
+-*who_lechevalier
+      Çà, pendant qu'à Dorante elle pense,
+J'aurai de l'épouser facilement dispense ;
+Profitons du moment ; mettons-là dans son tort.
+
+-*who_lamarquise
+S'il me soupçonne, il va faire un éclat d'abord,
+Je voulais à loisir ménager la rupture ;
+J'ai des raisons. Je tremble. Ah ! La triste aventure !
+Dissimulons encor.
+
+**** *book_ *id_III06 *act_III *date_1719
+
+-*who_lechevalier
+      J'arrive dans l'instant,
+Madame. L'autre jour je vous dis en partant
+Que je ne reviendrais pas sitôt ; mais je pense
+Que vous me saurez gré de mon impatience.
+Mais... Je vois dans votre air un certain embarras,
+Même un trouble... aujourd'hui je ne vous trouve pas
+La gaieté que toujours mon abord vous inspire ;
+Je ne vous prierai point cependant de me dire
+Ce qui se passe en vous. Nous nous sommes promis
+D'être en nous mariant moins mariés, qu'amis.
+J'aime ma liberté, vous, vous aimez la vôtre,
+Ainsi ne nous rendons nul compte l'un à l'autre
+Ni de nos sentiments, ni de nos actions.
+Mais je vois le sujet de vos distractions,
+Vous savez que je suis haï de votre frère,
+Ma présence pourrait ranimer sa colère,
+Vous voulez l'adoucir ; je ne me trompe pas,
+Sans doute cela seul fait tout votre embarras ?
+
+-*who_lamarquise
+Justement !
+
+-*who_lechevalier
+      Vous craignez qu'il ne nous voie ensemble.
+
+-*who_lamarquise
+Oui. C'est de cette peur seulement que je tremble.
+
+-*who_lechevalier
+Oh ! Rassurez-vous donc, ailleurs je logerai.
+
+-*who_lamarquise
+La prudence le veut.
+
+-*who_lechevalier
+      Je ne vous reverrai
+Que quand vous aurez fait l'affaire essentielle.
+
+-*who_lamarquise
+Oui, l'accommodement.
+
+-*who_lechevalier
+      Quand j'en aurai nouvelle,
+Je viendrai. Nous n'avons rien qui presse entre nous ;
+Pour signer ce contrat nous avions rendez-vous,
+À notre aise. Ce point ne se peut trop rabattre,
+Nous devons dans deux jours signer, prenons en quatre.
+
+-*who_lamarquise
+Sept ou huit.
+
+-*who_lechevalier
+      Huit ou dix.
+
+-*who_lamarquise
+      Il faut bien quinze jours.
+
+-*who_lechevalier
+Il nous faut même plus, et d'ailleurs nos amours...
+
+-*who_lamarquise
+Oh !
+
+-*who_lechevalier
+      N'ont ni tant d'ardeur, ni tant de violence,
+Qu'un mois même nous fit maigrir d'impatience.
+
+-*who_lamarquise
+Vous plaisantez toujours, mais sérieusement :
+Vous m'avez souvent dit, et très sincèrement
+Que vous ne promettiez à ma vive tendresse
+Qu'une bonne amitié, tout le reste est faiblesse.
+
+-*who_lechevalier
+Oui, votre coeur pourrait, s'étant fortifié,
+Avoir réduit l'amour à la simple amitié.
+
+-*who_lamarquise
+Mais cela serait juste.
+
+-*who_lechevalier
+      Oh ! Je suis équitable.
+
+-*who_lamarquise
+Moins d'amour de ma part.
+
+-*who_lechevalier
+      Rendra plus convenable,
+Plus égale entre nous l'union.
+
+-*who_lamarquise
+      L'amitié.
+Et j'ai gagné cela sur moi plus d'à moitié,
+Pour rendre plus aisé le noeud qui nous engage.
+En sorte, Chevalier, que notre mariage
+N'est quasi qu'un prétexte à se voir librement.
+
+-*who_lechevalier
+Et qui ne nous oblige à rien précisément.
+
+-*who_lamarquise
+Non, car au fonds ce n'est encor qu'une promesse.
+
+-*who_lechevalier
+Promesse non signée, et même d'une espèce...
+
+-*who_lamarquise
+Promesse libre.
+
+-*who_lechevalier
+      Libre, espèce de projet.
+
+-*who_lamarquise
+Projet simple.
+
+-*who_lechevalier
+      Oui, très simple, et de ceux que l'on fait
+Presque en l'air.
+
+-*who_lamarquise
+      En l'air, car supposé que l'un change...
+
+-*who_lechevalier
+L'autre n'est point en droit de le trouver étrange.
+
+-*who_lamarquise
+Ainsi soit vous, soit moi...
+
+-*who_lechevalier
+      Toute permission.
+Çà, je vous laisse, il faut de la discrétion.
+
+-*who_lamarquise
+Vous êtes, j'en conviens, d'un charmant caractère.
+
+-*who_lechevalier
+Et commode. Allez donc terminer votre affaire,
+De moi vous voilà libre.
+
+-*who_lamarquise
+      Allez embrassez-moi.
+
+**** *book_ *id_III07 *act_III *date_1719
+
+-*who_lamarquise
+Il n'est pas soupçonneux ! J'aime la bonne foi ;
+Il n'approfondit rien, c'est un homme adorable !
+Il est si bon ! Mais quoi ! Dorante est plus aimable,
+Cela m'excuse au fond changer n'est point trahir,
+Ce n'est qu'être inconstante.
+
+**** *book_ *id_III08 *act_III *date_1719
+
+-*who_falaise
+      Ah ! Je viens de haïr...
+
+-*who_lamarquise
+Eh bien, mon cher !
+
+-*who_falaise
+      Je viens de haïr votre frère,
+Madame, presque autant que mon maître peut faire ;
+Je l'ai vu là passer, il m'a regarder noir.
+Çà, madame, allez-vous délivrer ce pouvoir,
+Et donner en secret votre nièce à mon maître ?
+Cette donation est faite ?
+
+-*who_lamarquise
+      Elle va l'être.
+Je contente par là ma haine et mon amour ;
+Ma haine, en la masquant, en prenant le grand tour ;
+Car j'oblige ton maître à bien plaider mon frère :
+Je lui cède un procès, mais un homme d'affaire
+M'a dit qu'il ne peut pas durer plus de dix ans
+Ce procès que je cède, et c'est bien peu de temps,
+Pourra-t-il en former quelque autre.
+
+-*who_falaise
+      Qui ? Mon maître !
+Le père des procès n'en pourrait faire naître ?
+Quand j'ai, car moi c'est lui, le moindre échantillon
+Tenant le bout du fil du moindre procillon,
+Un quartier de terrain dans toute une province,
+Je m'accrois, je m'étends, j'anticipe, j'évince,
+J'envahis, et le tout avec formalité
+Procédure est chez nous la règle d'équité ;
+Sur le terrain des sots j'arrondis l'héritage
+Par droit de bienséance, et droit de voisinage.
+En gagnant par justice, on, a rarement tort ;
+Mais supposé qu'on l'eût, tout est sujet au sort,
+Il est juste qu'on gagne une mauvaise cause,
+Puisqu'à perdre la bonne en plaidant on s'expose.
+Car enfin après tout, qui sait en certain cas
+Si la terre d'autrui ne m'appartiendra pas,
+Par quelque nullité, vice de procédure ?
+Pour être à mon profit dans une affaire obscure,
+Un juge bien payé verra plus clair que moi.
+
+-*who_lamarquise
+Ces maximes me font aimer ton maître et toi :
+Vous poursuivrez mon frère, et j'en rirai dans l'âme,
+J'en aurai le plaisir sans en avoir le blâme.
+En faisant cette paix, que je me vengerai !
+Ce que l'on exigeait, je l'exécuterai.
+M'en voilà quitte, enfin je me réconcilie.
+
+-*who_falaise
+Se réconcilier, veut dire en Normandie,
+Se le donner plus beau pour vexer l'ennemi.
+
+-*who_lamarquise
+L'arbitre avec mon frère au reste aura fini,
+Il s'est fait fort d'avoir en blanc sa signature.
+
+-*who_falaise
+À l'arbitre allez donc livrer...
+
+-*who_lamarquise
+      Je vais conclure.
+Avec un frère au fond il faut bien vivre en paix.
+Mais à condition de ne le voir jamais.
+
+**** *book_ *id_III09 *act_III *date_1719
+
+-*who_lecomte
+De ce qu'elle me fuit, je n'ai point de colère,
+Parce qu'elle ne fait que ce que j'allais faire.
+
+-*who_falaise
+Vous ne la fuyez, vous, que par bonté de coeur,
+Parce que vous verriez sa haine avec douleur.
+Mais elle ! Oh ! Elle hait votre propre personne.
+
+-*who_lecomte
+Moi, par un bon motif à ton maître je donne
+Ma nièce et le procès pour plaider ma soeur.
+
+-*who_falaise
+Bon.
+
+-*who_lecomte
+      Pour son bien, pour la mettre un jour à la raison.
+Car d'ailleurs de bon coeur je me réconcilie,
+Pourvu qu'on la mate, et l'arbitre la lie,
+Car il tirera d'elle un blanc signé, je crois ;
+Enfin je fais la paix autant qu'il est en moi.
+
+-*who_falaise
+Paix pour le décorum, car lorsque vous la faites,
+Retentons souterrains, et chicanes secrètes...
+Il le faut pour son bien, dites-vous.
+
+-*who_lecomte
+      Oui, sans fiel.
+
+-*who_falaise
+Tant de plaideurs dévots disent : Fasse le ciel
+Qu'un arrêt foudroyant rende un tel raisonnable.
+En conscience on peut plaider à l'amiable.
+
+-*who_lecomte
+Avant tout je voudrais voir la lettre pourtant ;
+Depuis huit jours ici cette lettre m'attend,
+Je ne la trouve point.
+
+-*who_falaise
+      Je crains quelque surprise.
+
+**** *book_ *id_III10 *act_III *date_1719
+
+-*who_nerine
+Dans quel étonnement me jette la Marquise !
+Quez me dit-elle là de sa donation ?
+Épouser Procinville est la condition.
+Ah ! J'enrage : éclatons, plaignons-nous à son frère.
+
+-*who_lecomte
+Je vais chercher ma lettre, elle m'est nécessaire.
+
+-*who_nerine
+Monsieur, le désespoir...
+
+-*who_lecomte
+      Non, non, console-toi.
+Je cède tous les biens ; et pour ma nièce, moi,
+J'ai choisi pour époux en secret Procinville :
+N'en dit mot à ma soeur. Chut !
+
+-*who_nerine
+      J'en reste immobile !
+
+**** *book_ *id_III11 *act_III *date_1719
+
+-*who_falaise
+Au seul nom de mon maître un noir chagrin lui prend.
+Tantôt avec la nièce un jeune homme galant...
+Pour tirer ce secret j'ai feint d'aimer Nérine,
+Feignons encor.
+
+-*who_nerine
+      Ceci m'étonne... j'examine...
+Ils veulent Procinville en secret tous les deux.
+Sans doute ce Falaise ici s'est joué d'eux,
+Il m'observe. Tâchons d'éclaircir ce mystère.
+Mais à propos la lettre, il se pourrait bien faire
+Qu'elle fût du marquis. Pour tirer son secret,
+Feignons qu'il m'a charmé tantôt.
+      Qu'il est bien fait
+Le Falaise !
+
+-*who_falaise
+      Qu'elle est charmante
+      La Nérine !
+
+-*who_nerine
+Contre un amour naissant ma fierté qui s'obstine,
+Me gêne.
+
+-*who_falaise
+      Mon amour...
+
+-*who_nerine
+      Ma vertu...
+
+-*who_falaise
+      Mon ardeur...
+
+-*who_nerine
+Du moins en soupirant soulageons notre coeur.
+Ouf !
+
+-*who_falaise
+      Ouf.
+
+-*who_falaise_nerine
+      Ouf !
+
+-*who_nerine
+      Est-ce ainsi que tu viens me surprendre ?
+Tu guettais ce soupir !
+
+-*who_falaise
+      Tu viens donc de m'entendre ?
+Tu me prends sur le fait ; car qui te croyait-là ?
+
+-*who_nerine
+La justesse, l'accord de ces deux soupirs-là,
+En même temps...
+
+-*who_falaise
+      C'est comme un Duo par nature.
+
+-*who_nerine
+Sans doute quelque amour a battu la mesure.
+
+-*who_falaise
+Comme amant, parlons-nous tous deux à coeur ouvert.
+
+-*who_nerine
+Oui, qu'ainsi que nos coeurs, nos esprits de concert
+S'expliquent.
+
+-*who_falaise
+      L'intérêt de ta jeune maîtresse
+M'est cher comme le tien.
+
+-*who_nerine
+      Et moi je m'intéresse
+Au Marquis, comme à toi. Dis-moi donc franchement...
+
+-*who_falaise
+Oui, tout ce que je sais. Et toi sincèrement
+Tu me diras...
+
+-*who_nerine
+      Oui tout. Sois le premier sincère.
+Quel tour a pris ton maître en trompant soeur et frère ?
+
+-*who_falaise
+Oh ! De ces tours jamais mon maître ne m'instruit ;
+Tous ses projets pour moi sont une obscure nuit ;
+Car j'y marche à tâtons, je sers à l'aveuglette.
+
+-*who_nerine
+Oh ! Ma jeune maîtresse est bien plus indiscrète.
+
+-*who_falaise
+Elle te dit donc tout ?
+
+-*who_nerine
+      Elle m'ouvre son coeur.
+
+-*who_falaise
+Qu'y vois-tu ? Parle net. Je te jure d'honneur
+Que de l'épouser, moi, j'empêcherais mon maître,
+Supposé qu'elle aimât quelqu'un. Cela peut être.
+
+-*who_nerine
+Cela ne se peut, non. Impossibilité.
+Elle emploie à haïr sa sensibilité.
+Elle tient de la tante à moitié, tout du frère,
+Et d'un grand haïsseur qui fut défunt son père.
+De leur famille on voit peu d'amants, point d'amis :
+On voit passer la haine au Mans de père en fils,
+Comme à Paris l'amour passe de mère en fille.
+
+-*who_falaise
+Hon ! La nièce, je crois, tient peu de sa famille.
+
+-*who_nerine
+Lettre de Normandie.
+
+-*who_falaise
+      Ah ciel ! Entre ses mains
+La lettre de mon maître au comte. Ah ! Que je crains !
+Saurait-elle qu'elle est de lui ?
+
+-*who_nerine
+      Par aventure...
+
+-*who_falaise
+Eh bien ?
+
+-*who_nerine
+      Connaîtrais-tu ?
+
+-*who_falaise
+      Voyons.
+
+-*who_nerine
+      Cette écriture ?
+
+-*who_falaise
+Je ne la connais point.
+
+-*who_nerine
+      Suffit. Parlons d'amour.
+
+-*who_falaise
+Lettre de Normandie, as-tu dit ?
+
+-*who_nerine
+      En un jour
+Se sentir l'un pour l'autre autant de sympathie.
+
+-*who_falaise
+Je connais un facteur ici de Normandie.
+Je saurai... donne-moi la lettre.
+
+-*who_nerine
+      Quand le coeur...
+
+-*who_falaise
+Des plaideurs me diront...
+
+-*who_nerine
+      L'amour...
+
+-*who_falaise
+      Hon ! J'ai bien peur.
+
+-*who_nerine
+..........................................
+Je vais la rendre au Comte. À tantôt la tendresse.
+
+-*who_falaise
+À tantôt.
+
+-*who_nerine
+      Il voudrait l'avoir, je suis au fait.
+
+-*who_falaise
+Elle ment en disant que cette nièce hait,
+Elle aime ce jeune homme. Allons voir.
+
+-*who_nerine
+      Oui, la lettre
+Pourrait bien détromper la tante.
+
+-*who_falaise
+      Je vais mettre
+Tout en oeuvre
+
+-*who_nerine
+      Un seul mot de toi, mais nettement...
+
+-*who_falaise
+Un de toi, mais naïf, dis-moi tout uniment...
+
+-*who_nerine
+Que sur cette écriture un mot simple s'explique ?
+T'est-elle inconnue ? Eh ?
+
+-*who_falaise
+      Oui, tout court. Angélique
+A-t-elle un amant ? Eh ?
+
+-*who_nerine
+      Non, tout court.
+
+-*who_falaise
+      Tout court. Bon.
+Langage de soubrette en cas d'amour un non
+Bien souvent veut dire, oui.
+
+-*who_nerine
+      Dans le Normand langage
+Oui, c'est-à-dire, non.
+      Mais je tremble.
+
+-*who_falaise
+      Ah ! J'enrage.
+
+**** *book_ *id_IV01 *act_IV *date_1719
+
+-*who_dorante
+Tout est perdu pour moi, mon amour découvert
+M'ôte toute ressource, et pour jamais me perd.
+
+-*who_lechevalier
+À tout autre malheur on eût trouvé remède,
+À celui-ci, mon cher, mon habileté cède.
+
+-*who_dorante
+La Marquise sait tout.
+
+-*who_nerine
+      Cet intrigant maudit,
+Ce Falaise a tout su, ce Falaise a tout dit.
+
+-*who_dorante
+Ayant quelque soupçon, et voulant me détruire,
+Au couvent d'Angélique il est allé s'instruire.
+
+**** *book_ *id_IV02 *act_IV *date_1719
+
+-*who_angelique
+Pour la dernière fois, hélas, je viens vous voir ;
+Nérine, elle sait tout, je suis au désespoir.
+Elle était bien tranquille, et j'étais avec elle,
+On lui parle tout bas, d'abord elle t'appelle,
+Et te rechasse après, et me prends par le bras,
+Et voit en moi la peur, le trouble et l'embarras.
+Vous aimez, je le sais, et vous êtes aimée,
+Me dit-elle d'abord de fureur animée ;
+Elle l'a soutenu, moi le niant toujours,
+Mais elle vous voyait, dans mon air, mes discours,
+Peut-être dans mes yeux, car nous sortions d'ensemble :
+N'y pouvant plus tenir, car encore j'en tremble,
+Je me suis dérobée à ses emportements,
+En fuyant à travers de ces appartements.
+Je mourrai de douleur.
+
+-*who_dorante
+      Consolez-vous. J'espère...
+La Marquise... voyons...
+
+-*who_angelique
+      Eh ! Que pourrait-on faire ?
+
+-*who_dorante
+Espérons tout du temps. Son amour passera.
+
+-*who_angelique
+Non, Dorante, toujours elle vous aimera.
+
+-*who_nerine
+Je le crois ; son amour est un amour tenace.
+Quand l'amour une fois dans un vieux coeur se place,
+Comme on l'y laisse en paix, il y reste longtemps.
+
+-*who_angelique
+Quoi nul expédient ?
+
+-*who_lechevalier
+      J'y rêve, j'en attends.
+Soyez d'abord par moi tant soit peu querellée
+Quoi ! N'avoir pas l'esprit d'être dissimulée !
+Devant la tante avoir tremblé, pâli, rougi ;
+Crainte, sincérité, pudeur à quinze ans ! Fi.
+De ces vices je crois que le remords vous ronge ?
+Auriez-vous la vertu de bien faire un mensonge.
+
+-*who_nerine
+Oh ! Qu'oui.
+
+-*who_lechevalier
+      J'entends quelqu'un, sors, toi cours amuser
+La Marquise.
+
+-*who_angelique
+      Je fuis.
+
+-*who_lechevalier
+      Restez.
+
+**** *book_ *id_IV03 *act_IV *date_1719
+
+-*who_lechevalier
+      Il faut ruser.
+Elle sait votre amour, elle est bien pénétrante.
+Mais a-t-elle fixé ses soupçons sur Dorante ?
+L'avez-vous nommé ?
+
+-*who_angelique
+      Non.
+
+-*who_lamarquise
+      Quel est donc son amant ?
+
+-*who_nerine
+Chimère, elle n'a vu nul homme à son couvent.
+
+-*who_lamarquise
+Je veux approfondir cet amour de ma nièce,
+À quinze ans amoureuse ! Ah ! Quelle hardiesse !
+
+-*who_lechevalier
+Il faut tout hasarder, profitons des instants,
+Feignons de ne point voir qu'elle nous voit.
+
+-*who_angelique
+J'entends.
+
+-*who_lechevalier
+      Hélas !
+      Fut-il jamais un amant plus à plaindre ?
+
+-*who_lamarquise
+Ah ! C'est le chevalier. Écoutons.
+
+-*who_lechevalier
+      Pour mieux feindre
+Essayez de m'aimer presque réellement ;
+Prenez-moi pour Dorante, il faut du sentiment.
+De pouvoir être à vous je n'ai plus d'espérance,
+J'épousais votre tante, et je crains sa vengeance.
+Vous savez que votre oncle est mon grand ennemi,
+Cet odieux mortel ne hait point à demi.
+Ainsi vous comprenez qu'à la soeur comme au frère
+De votre amour il faut encor faire mystère.
+Cachez-le bien au moins. Tout haut répondez-moi
+Qu'on vous a soupçonnée.
+
+-*who_angelique
+      Hélas ! Monsieur, je crois
+Avoir imprudemment laissé voir ma tendresse ;
+Je l'ai presque avouée.
+
+-*who_lechevalier
+      Ah ! Tant pis.
+
+-*who_angelique
+      Par faiblesse,
+Par franchise.
+
+-*who_lechevalier
+      Fort bien. Mais il faut dire mieux.
+Ah ! Charmante Angélique.
+      Attendrissez ces yeux.
+Votre tendre douleur augmente encor vos charmes.
+On va nous séparer. Il faut ici des larmes.
+Feignez de pleurer.
+
+-*who_angelique
+      Ah ! Je suis au désespoir.
+
+-*who_lechevalier
+Je vois couler vos pleurs.
+      Tirez donc le mouchoir,
+Faudra-t-il tout vous dire.
+      Ah ! Je perds Angélique,
+Il lui prend la main pour la baiser.
+Du moins...
+      La main en est, il faut du pathétique.
+
+-*who_angelique
+retirant sa main que le Chevalier lui baise.
+Mais...
+
+-*who_lechevalier
+      La tante nous voit, il ne faut point tricher ;
+Oh ! Fuyez à présent.
+
+-*who_angelique
+      Ah ! Je cours me cacher,
+Je ne puis supporter les regards de ma tante.
+
+-*who_lamarquise
+Je m'en étais doutée.
+
+-*who_nerine
+      Ah ! Qu'elle est imprudente !
+Tous deux également vous êtes indiscrets,
+Dès tantôt vos regards ont trahis vos secrets.
+Ah ! Rien n'échappe aux yeux des mères et des tantes ;
+L'expérience, hélas, les rend trop pénétrantes.
+Vous m'allez quereller en mon particulier.
+
+-*who_lamarquise
+Falaise l'avait vue avec le Chevalier.
+
+-*who_lechevalier
+Il faut bien l'avouer ; je soupirais pour elle,
+Pris en flagrant délit, m'avouant infidèle,
+Me voilà bien honteux. Que vous me haïrez !
+Mais, ma foi, quand la honte et le vin sont tirés,
+Il faut les boire.
+
+-*who_nerine
+      Allons, buvez d'intelligence.
+Honte bue à présent, ma foi, sur l'inconstance.
+Vous êtes inconstant, madame l'est aussi.
+
+-*who_lamarquise
+Il faut vous l'avouer, j'en aime un autre : ainsi
+Vous ne me voyez point jalouse, furieuse.
+Votre infidélité, d'ailleurs injurieuse,
+Paraît dans un moment favorable pour vous :
+Je suis bonne indulgente, et je dois filer doux,
+J'adore votre ami.
+
+-*who_lechevalier
+      J'avouerai ma surprise,
+Elle est très grande, mais ainsi que vous, Marquise,
+Je ne suis que surpris, et non pas furieux,
+Car je vois que l'amour a tout fait pour le mieux.
+
+-*who_nerine
+En effet il finit vos gênes, vos contraintes.
+
+-*who_lamarquise
+Cet éclaircissement a fait cesser nos feintes.
+
+-*who_lechevalier
+Nous nous gênions tantôt ; je ne m'étonne pas
+Si voulant du contrat différer l'embarras
+Vous disiez dans trois jours, dans quatre, dans huitaine,
+Renchérissant sur vous je voulais la quinzaine ;
+Nous nous donnions beau jeu pour notre changement.
+
+-*who_lamarquise
+J'ai senti des remords jusques à ce moment.
+
+-*who_lechevalier
+J'avais quelque scrupule.
+
+-*who_lamarquise
+      Oh ! L'heureuse rupture !
+
+-*who_lechevalier
+Je respire à présent.
+
+-*who_lamarquise
+      L'agréable aventure !
+
+-*who_nerine
+Voilà le bon esprit. Ne se rien reprocher ;
+Se bien rendre le change au lieu de se fâcher ;
+Faiblesse pour faiblesse, ayons chacun la nôtre :
+Passe-moi celle-ci, je te passerai l'autre.
+Que d'honnêtes maris, que de femmes d'honneur,
+Sur ces facilités ont fondé leur bonheur.
+
+-*who_lechevalier
+Çà, madame, à présent j'aurai votre suffrage ?
+Deux trahisons feront un double mariage.
+
+-*who_lamarquise
+Non, ma vivacité m'aveugle dans l'instant,
+Et me fait oublier le point fixe, important,
+À servir ma haine : oui, ma nièce est destinée,
+À Procinville enfin, elle est presque donnée.
+
+-*who_lechevalier
+Quoi ! Madame, un tel homme...
+
+-*who_nerine
+      Oui, doit vous supplanter.
+Sur sa fidélité, madame peut compter ;
+Monsieur qui le connaît, m'en a fait la peinture :
+Ce monstre moitié guerre, et moitié procédure,
+Soi-disant noble, fut maître clerc et bretteur ;
+À Falaise on l'a vu, marquis et procureur ;
+Dans la ville du Mans il s'établit ensuite,
+Là les plus fins Manceaux admiraient sa conduite ;
+Ce fut là qu'on en vit quelques échantillons :
+Il achetait sous mains de petits procillons,
+Qu'il savait élever, nourrir de procédures,
+Il les empâtait bien, et de ces nourritures
+Il en tirait de bons et gros procès du Mans.
+
+-*who_lechevalier
+Et c'est cet ennemi des accommodements,
+Qui vous jurant, madame, une amitié sincère,
+Vous trahissait sous main en servant votre frère.
+
+-*who_nerine
+Pour et contre agissant, plaideur à deux envers,
+En face il vous caresse, et vous bat à revers :
+Tenez, reconnaissez ici son écriture.
+
+-*who_lamarquise
+Il écrit à mon frère !
+
+-*who_nerine
+      Oui, faites la fracture,
+Je n'ose la faire.
+
+-*who_lamarquise
+      Ah ! Lisons.
+
+-*who_lechevalier
+      Vous alliez
+Avec un franc fripon !
+
+-*who_lamarquise
+      Que vois-je, Chevalier ?
+
+-*who_lechevalier
+À médire de vous sa plume est éloquente !
+
+-*who_nerine
+En vieux titres aussi sa plume est élégante ;
+Pour la beauté du style il change un mot, un nom :
+Signature qui soit tout à fait fausse, non ;
+Non pas tout à fait vraie aussi, mais signature
+Vraisemblable...
+
+-*who_lechevalier
+      On veut bien lui passer sa roture ;
+Mais chacun sait que c'est un homme sans honneur,
+Tourmentant ses voisins, injuste, usurpateur...
+
+-*who_lamarquise
+C'est l'homme qu'en secret avait choisi mon frère !
+Il est usurpateur, roturier et faussaire.
+Par bonheur je n'ai pas délivré le papier.
+Oui, ma nièce sera pour vous ; mais, Chevalier,
+Comment tromper mon frère ? Il sera difficile
+De le désentêter du traître Procinville.
+
+-*who_lechevalier
+C'est à quoi nous allons rêver. Faisons si bien
+Que de notre complot il ne soupçonne rien.
+
+-*who_lamarquise
+Madame, allons d'abord recacheter sa lettre,
+Et par quelque inconnu faisons-là lui remettre.
+Tantôt il la cherchait dans toute la maison,
+Sur ce que je l'avais, il aurait du soupçon.
+
+-*who_lechevalier
+Toutes deux allez donc réparer la fracture,
+Et vous triompherez de lui, je vous le jure.
+Rentrez, je vous rejoins.
+
+**** *book_ *id_IV04 *act_IV *date_1719
+
+-*who_lechevalier
+      Je me suis aperçu
+Qu'avec la nièce ici ce Falaise m'a vu,
+Ce maraud ne peut-il point nuire à mon idée ?
+Notre affaire n'est pas encore décidée.
+
+**** *book_ *id_IV05 *act_IV *date_1719
+
+-*who_falaise
+Voilà donc ce rival maudit ? Et par malheur
+Il me paraît qu'il a pour lui gagné la soeur.
+
+-*who_lechevalier
+Je crains que ce coquin ici ne nous dérange.
+Voyons si tout à l'heure il a bien pris le change,
+S'il me croit bien l'amant d'Angélique.
+Viens çà.
+
+-*who_falaise
+      Je vais à vous, monsieur.
+
+-*who_lechevalier
+      Tu me fuis ? Reste là,
+Ou morbleu...
+
+-*who_falaise
+      Pardonnez ; car, monsieur, c'est mon maître,
+Ce n'est pas moi qui veux épouser.
+
+-*who_lechevalier
+      Comment, traître,
+Travailler à m'ôter ma maîtresse ?
+
+-*who_falaise
+      J'ai peur,
+Tremblez aussi ; mon maître a pour lui le tuteur ;
+La soeur n'est pas battante à livrer Angélique ?
+C'est acquisition fausse, et non juridique.
+Une nièce, monsieur, ne peut s'aliéner ;
+C'est comme un propre. Enfin on va vous chicaner.
+Mon maître sait ravoir son bien en bonne guerre,
+Il sait bien par retrait rentrer dans une terre ;
+Oui, vous l'épousez mal, mon maître y rentrera.
+
+-*who_lechevalier
+Il est dans l'erreur, bon.
+      Pour ton maître on verra,
+Mais à toi, jusqu'au Mans tu plaides à merveilles,
+Je pourrais bien ici te couper les oreilles.
+
+-*who_falaise
+Pour me les rendre après je vous fais assigner.
+
+**** *book_ *id_IV06 *act_IV *date_1719
+
+-*who_falaise
+Pour l'oncle ils ne pourront morbleu pas le gagner ;
+Quand il saura l'amour, il les va tous confondre.
+Il faut l'attendre ici. De moi je puis répondre.
+Je gagne trop d'argent à servir un fripon,
+Pour n'être pas fidèle, et ne pas tenir bon.
+Pour mon maître je vais jouer à quitte ou double ;
+Pour ce maudit rival, la Nérine nous trouble :
+Je croyais la charmer, cet homme apparemment
+Plus libéral encor que je ne suis charmant,
+La paye bien, le reste est pure bagatelle ;
+Moi, lui faisant l'amour, qu'aurais-je tiré d'elle ?
+La faveur d'un coup d'oeil, ou d'un air minaudier ?
+Bon ! J'aime mieux avoir la faveur d'un greffier.
+Mais le Comte paraît. Laissons-là la morale,
+Et tâchons d'animer sa vengeance brutale.
+
+**** *book_ *id_IV07 *act_IV *date_1719
+
+-*who_lecomte
+Quoi, morbleu l'on apporte une Lettre pour moi,
+Ici je la demande à tous ceux que je vois...
+
+-*who_unlaquais
+D'une lettre, monsieur, vous êtes fort en peine,
+Je courais la chercher, j'étais tout hors d'haleine,
+Lorsqu'un homme inconnu...
+
+-*who_lecomte
+      Que tiens-tu ?
+
+-*who_unlaquais
+      La voilà.
+
+-*who_lecomte
+Et donne-la, maraud, sans dire tout cela.
+« De Procinville.» Hon, hon, hon... quel verbiage !
+« Votre soeur est bizarre, et maligne, et volage. »
+Bon cela. « Hon, hon, hon... l'esprit très dangereux. »
+Fort bien. « Sur le complot que nous faisons tous deux... »
+« Hon, hon... Soyez discret, prudent. » Mot inutile.
+Et morbleu croyez-vous, monsieur, de Procinville,
+Que je ne sais pas être aussi prudent que vous ?
+« Il faut... hon, hon... il faut faire un acte entre nous.
+Il faut... hon, hon... il faut s'assurer d'Angélique,
+Il faut... » Toujours il faut ? Votre ton despotique
+Impose trop. « Hon, hon... mais je crains votre soeur,
+D'ailleurs, on me menace. Hon, hon, hon... J'ai bien peur... »
+Vous êtes un poltron. « L'on m'écrit que la nièce... »
+On ment. « On dit... hon, hon... » C'est pour vous faire pièce.
+Monsieur de Procinville, et vous êtes un sot
+D'ajouter foi... « hon, hon... c'est sans doute un complot... »
+Soupçons normands. « Je crois... je n'en crois rien, vous dis-je.
+Informez-vous... hon, hon... je prétends et j'exige... »
+Vous êtes obstiné. « Je soutiens qu'on a vu... »
+Oh ! Je vous soutiens, moi... « J'en suis bien convaincu... »
+Morbleu, cet homme-là m'échauffe les oreilles !
+Car a-t-on jamais vu de disputes pareilles.
+Je me fâchais un peu, ton maître a du soupçon.
+
+-*who_falaise
+C'est qu'il connaît la soeur. Ah ! Qu'il a bien raison ;
+On vous trahit.
+
+-*who_lecomte
+      Comment ?
+
+-*who_falaise
+      Et la tante à la nièce
+Donne un amant secret.
+
+-*who_lecomte
+      Ah ! Quelle hardiesse.
+
+-*who_falaise
+Et c'est le Chevalier. J'ai vu, vu de mes yeux.
+
+-*who_lecomte
+Quoi ! Ma nièce me trompe aussi ?
+
+-*who_falaise
+      Tout de son mieux.
+De ce complot secret j'ai fait la découverte ;
+Sonnons la charge, allons, procédons, guerre ouverte.
+
+-*who_lecomte
+Heureusement morbleu je n'ai rien délivré.
+
+-*who_falaise
+De sa conquête enfin l'amant sera sevré ;
+Nous allons replaider et de tierce et de quarte.
+En procès, comme au jeu, plus on mêle la carte,
+Et plus le gain devient légitime, loyal.
+Accorder un procès, est-il un plus grand mal ?
+C'est proprement frauder les droits de la justice,
+La voler.
+
+-*who_lecomte
+      Ah ! C'est trop ruser, plus d'artifice.
+L'arbitre, la Nérine, et la soeur, et l'Amant,
+Envoyons tout au diable, et la Nièce au couvent.
+
+**** *book_ *id_V01 *act_V *date_1719
+
+-*who_dorante
+Le Chevalier se moque, il nous fait trop attendre ;
+Il nous quitte incertain du parti qu'il doit prendre,
+Il court chercher le Comte, il nous dit que chez lui,
+Il fulmine, et ne veut rien finir aujourd'hui.
+Mais s'il ne peut calmer la colère du Comte ?
+
+-*who_nerine
+Tant pis.
+
+-*who_angelique
+      Si nous n'avons une réponse prompte,
+Tout est perdu.
+
+-*who_nerine
+      D'accord.
+
+-*who_dorante
+      Je crains tout. Finissons.
+Falaise à la Marquise a donné des soupçons.
+
+-*who_nerine
+J'en tremble.
+
+-*who_dorante
+      Au fond je vois que le péril redouble,
+L'amour de la Marquise...
+
+-*who_angelique
+      Ah ! C'est ce qui me trouble.
+
+-*who_dorante
+Vous comprenez bien ?
+
+-*who_angelique
+      Oui. Tout se découvrirait.
+
+-*who_nerine
+J'attends le Chevalier.
+
+-*who_angelique
+      Mais, Nérine, il faudrait
+Pour finir promptement, prendre d'autres mesures.
+
+-*who_nerine
+Voyons.
+
+-*who_dorante
+      Il faut sans doute en prendre de plus sûres.
+
+-*who_nerine
+Prenons-en volontiers ; imaginez-les nous,
+Réformez nos desseins. Quelle idée avez-vous ?
+Quel autre expédient ?...
+
+-*who_angelique
+      Je suis bien malheureuse ?
+
+-*who_nerine
+Et votre idée à vous ?
+
+-*who_dorante
+      La Marquise amoureuse !
+
+-*who_nerine
+Et vous ?
+
+-*who_angelique
+      Hélas !
+
+-*who_nerine
+      Et vous ?
+
+-*who_dorante
+      Ah ! Ciel ! J'y périrai.
+
+-*who_nerine
+Voilà de bons avis, et je m'en servirai.
+Peste soit des amants, et de leurs faibles têtes !
+Ils ne savent qu'aimer, l'amour les rend si bêtes !
+De leurs tendres soupirs, et de leurs chagrins noirs,
+De leur joie excessive, et de leurs désespoirs,
+On ne tirerait pas une once de prudence,
+De bon conseil.
+
+-*who_angelique
+      J'entends... C'est mon oncle, je pense.
+
+-*who_dorante
+Quoi donc ! Il crie, il jure, il menace, quel bruit !
+Pas plutôt un succès, qu'un malheur le détruit.
+
+**** *book_ *id_V02 *act_V *date_1719
+
+-*who_lecomte
+Oui, plus j'y pense, et plus ma colère s'augmente.
+Têtebleu ; ventrebleu, de l'amour pour Dorante !
+
+-*who_angelique
+Il sait donc notre amour ?
+
+-*who_lecomte
+      Oh ! Vous ne l'aurez pas.
+
+-*who_dorante
+Ah ! Nous voilà perdus.
+
+-*who_nerine
+      Il va faire un fracas....
+
+-*who_dorante
+Tâchons de l'apaiser.
+
+-*who_angelique
+      En nous voyons ensemble,
+Il s'irrite encore plus.
+
+-*who_lecomte
+      Hon... têtebleu !
+
+-*who_angelique
+      Je tremble.
+
+-*who_lecomte
+Oui, vous aimez Dorante ! Ici, ma nièce, ici.
+Nous allons voir beau jeu.
+
+-*who_nerine
+      Moi, j'ai le coeur transi.
+
+-*who_lecomte
+Monsieur Dorante : un mot... la fuite est inutile.
+Ouf ! Je ne puis parler.
+
+-*who_nerine
+      C'est un torrent de bile.
+S'il pouvait l'étouffer. Monsieur, vous êtes bon.
+
+-*who_lecomte
+Vous aimez donc Dorante ?
+
+-*who_angelique
+      Ah ! Mon oncle pardon.
+
+-*who_lecomte
+Oh ! Parbleu, votre amour vous produira la rage.
+
+-*who_dorante
+Où veut-il en venir ?
+
+-*who_nerine
+      Voyons fondre l'orage.
+
+-*who_lecomte
+Songeons à la punir. Donnez-moi votre main.
+
+-*who_nerine
+Qu'en veut-il faire ? Hélas !
+
+-*who_dorante
+      Voyons jusqu'à la fin.
+
+-*who_lecomte
+Monsieur Dorante.
+
+-*who_dorante
+      Et bien, monsieur.
+
+-*who_lecomte
+      Donnez la vôtre.
+Quoi donc ! Vous hésitez ; je pense l'un et l'autre.
+
+-*who_nerine
+Ha, ha... J'entrevois...Bon, je devine, je crois.
+
+-*who_lecomte
+Traverser son amour, ah ! Quel plaisir pour moi !
+Ma soeur à cinquante ans devenir amoureuse !
+Oh ! Je m'en vengerai.
+
+-*who_nerine
+      La vengeance est heureuse.
+
+-*who_lecomte
+Je vous... marie... exprès... exprès... Pour ... la... punir...
+
+-*who_nerine
+Punissez, punissez.
+
+-*who_lecomte
+      Quel plaisir j'ai d'unir
+Deux coeurs, dont l'union va faire à la Marquise
+Un chagrin éternel.
+
+-*who_nerine
+      Mais de peur de surprise,
+Séparez-vous tous deux.
+
+-*who_dorante
+      Que d'obligation !
+
+-*who_nerine
+Moins de remerciements, plus de discrétion,
+Fuyez.
+
+-*who_angelique
+      Que de bonté !
+
+-*who_nerine
+      Courez chez votre tante,
+De vous entretenir elle est impatiente.
+
+**** *book_ *id_V03 *act_V *date_1719
+
+-*who_lecomte
+Le Chevalier m'apprend cet amour de ma soeur.
+Le Chevalier et moi nous étions en froideur ;
+En public je m'étais même mis en colère,
+De ce qu'il devenait malgré moi mon beau-frère ;
+À présent je le vais aimer de tout mon coeur ;
+Car tout ceci le fait renoncer à ma soeur,
+Il m'a donné parole, elle est sûre, et j'y compte.
+
+-*who_nerine
+Quel coup pour votre soeur ! Elle mourra de honte.
+Car elle va rester veuve entre deux amours,
+Sur le Chevalier même elle aura des retours.
+On a quelque regret de perdre, quoiqu'on change ;
+Mais surtout son amour pour Dorante vous venge :
+Elle croit le tenir, l'amour, qui porte à faux,
+Est bien piquant.
+
+-*who_lecomte
+      Oui, mais j'ai dit là quelques mots,
+Falaise m'observait, je parlais de Dorante,
+S'il m'avait entendu ? J'ai la voix éclatante :
+Il écoute encor.
+
+-*who_nerine
+      Ah ! S'il avait entendu
+Que l'amant véritable est Dorante...
+
+**** *book_ *id_V04 *act_V *date_1719
+
+-*who_lecomte
+      Il a pu
+Entendre quelques mots, car j'étais en colère.
+
+-*who_nerine
+Lui redonner le change, est tout ce qu'on peut faire.
+Oui ; sur le Chevalier confirmons son erreur.
+Pourquoi vous irriter ? Parce que votre soeur
+Au Chevalier veut bien accorder Angélique,
+Vous criez, en faisant un serment authentique.
+Qu'en vain nous espérons de vous ce tendre amant,
+Que nous ne l'aurons pas.
+
+-*who_lecomte
+      Oui, je fais un serment...
+À ton maître je fais un serment authentique.
+Qu'au Chevalier jamais je ne donne Angélique.
+
+-*who_nerine
+Et moi, je fais serment, oui, j'en jure ma foi,
+Nous mourrons au Couvent, et votre nièce et moi,
+Plutôt que d'épouser le sieur de Procinville ;
+Nous ne quitterons point Paris la bonne ville,
+Pour épouser au Mans un Marquis à dindons,
+Et nous ne savons pas engraissez des chapons.
+
+-*who_lecomte
+Laissons-la criailler, allez chez moi m'attendre.
+C'est pour nous en défaire.
+
+-*who_nerine
+      Ah ! Que c'est bien l'entendre.
+
+-*who_falaise
+Ha, ha, ha, je triomphe.
+
+**** *book_ *id_V05 *act_V *date_1719
+
+-*who_nerine
+      Ah ! Fourbe, scélérat,
+Tu m'adorais tantôt, faux amant, renégat.
+
+-*who_falaise
+Ta colère me fait respirer plus à l'aise,
+Nous avons l'esprit fort nous autres à Falaise ;
+Invectives, gros mots, injures, maudissons,
+Ce n'est que menu grain, nous nous en engraissons.
+
+-*who_nerine
+Me trahir en affaire ! En intrigue, encore passe,
+Mais en amour ? Hélas ! Je t'ai cru dans la nasse.
+
+-*who_falaise
+Je t'aimais tantôt, mais tout change avec le temps ;
+Amants Falaisiens ne sont pas si constants.
+Mon amour reviendra peut-être, mon coeur vole,
+Va, vient, reva, revient, tout comme ma parole.
+Car d'objet en objet, souvent du blanc au noir
+Je me promène moi du matin jusqu'au soir.
+Du non au oui, oui, non, ce sont mes galeries.
+
+**** *book_ *id_V06 *act_V *date_1719
+
+-*who_nerine
+Nous pouvons à présent dresser nos batteries.
+Le voilà confirmé dans l'erreur. J'ai tremblé
+Qu'il n'eût vu qu'à Dorante Angélique a parlé.
+
+**** *book_ *id_V07 *act_V *date_1719
+
+-*who_lamarquise
+Ha, ha, ha, ha, fort bien, ha, ha, qu'elle est plaisante
+La pièce que l'on joue à mon frère.
+
+-*who_lechevalier
+      Charmante.
+Car vous croyant toujours pour moi le même amour,
+Il croit, m'ôtant à vous, vous jouer un bon tour.
+Pour vous désespérer il me donne Angélique,
+À l'arbitre en secret là-dessus il s'explique.
+Je vous ai dit le reste, et vous verrez son jeu.
+J'avouerai que tromper quelqu'un me blesse un peu ;
+Mais si la tromperie en quelque cas s'excuse,
+C'est quand on fait donner un ennemi qui ruse
+Dans le piège malin, que lui-même nous tend :
+D'ailleurs pour détourner un malheur très pressant
+La feinte est quelquefois un vice nécessaire.
+Les hommes sont si faux, qu'un seul toujours sincère
+Entre eux tous paraîtrait comme un niais étrange,
+Dans un pays, où tous biaisent pour s'arranger :
+En affaire, en amour, en guerre, en marchandise,
+Même en morale on farde à présent la franchise.
+Chacun de son manège étant tout occupé
+Qui ne trompe jamais, sera souvent trompé.
+Çà, dans son piège il faut que votre frère donne ;
+Mais finissez sans moi de peur qu'il ne soupçonne
+Qu'en croyant vous punir, il va combler nos voeux.
+
+**** *book_ *id_V08 *act_V *date_1719
+
+-*who_angelique
+Je ne vois plus d'obstacle à cet accord heureux.
+
+-*who_pyrante
+Vous avez pris enfin l'expédient unique,
+Et votre frère et vous, pour pourvoir Angélique,
+C'est d'ignorer tous deux qui sera son époux.
+Eût-il été choisi par lui, comme par vous,
+Fût-il ami du Comte en secret et le vôtre.
+Sitôt que l'un saurait qu'il est choisi par l'autre,
+Vous cesseriez tous deux encor de le vouloir.
+Sur ce Marquis Manceau vous l'avez bien fait voir,
+Vous le vouliez tous deux, j'ai cru l'accord facile,
+Tous deux vous excluez à présent Procinville ;
+Le ciel en soit loué, car c'est un malheureux ;
+Mais le plus honnête homme eût été par vous deux
+Exclu et détesté par le même caprice.
+
+-*who_nerine
+Vous parlez à merveille, et vous rendez justice.
+
+-*who_pyrante
+Nous allons terminer.
+
+**** *book_ *id_V09 *act_V *date_1719
+
+-*who_lecomte
+      Je viens à vous, ma soeur,
+Avec sincérité vous découvrir mon coeur,
+Non point comme tantôt par politique feindre,
+Dire que je vous aime, en un mot, me contraindre ;
+Si je vous le disais, vous ne le croiriez pas.
+
+-*who_lamarquise
+Votre sincérité m'épargne un embarras.
+Car je ne sais pas bien au fond comment m'y prendre
+Pour vous persuader une amitié bien tendre.
+
+-*who_lecomte
+Nous nous gênions tantôt en nous tendant les bras.
+
+-*who_lamarquise
+Oui, cet expédient ne nous réussit pas.
+
+-*who_nerine
+Raccommodons-nous seulement par prudence.
+
+-*who_lecomte
+Pour éviter le blâme, enfin par bienséance.
+
+-*who_lamarquise
+Afin qu'on puisse dire, en parlant bien de vous,
+Ce que l'on dit de mieux pour louer deux époux,
+Ils se haïssent mais ils vivent bien ensemble.
+
+-*who_lecomte
+Notre premier motif, celui qui nous rassemble,
+Celui qui de si loin nous fait venir tous deux,
+C'est la famille. Enfin nous secondons ses voeux,
+Plus de procès. Il reste à pouvoir Angélique,
+Vous vouliez lui donner tantôt par politique
+Ce fourbe de Marquis, c'était là votre choix...
+
+-*who_lamarquise
+À ce scélérat, oui, vous donniez votre voix.
+
+-*who_lecomte
+Nous n'avons d'autre but à présent l'un et l'autre
+Que de l'exclure.
+
+-*who_lamarquise
+      Il est mon horreur et la vôtre.
+
+-*who_pyrante
+Vous l'excluez enfin dans vos donations.
+
+-*who_lecomte
+Pour finir entre nous ces altercations,
+Nous vous donnons pouvoir de marier ma nièce.
+
+-*who_lamarquise
+Ne nous en point mêler c'est un trait de sagesse,
+Plus d'éclats.
+
+-*who_lecomte
+      Le dernier sera donc celui-ci.
+
+-*who_lamarquise
+Notre haine sera secrète, Dieu merci.
+
+-*who_pyrante
+Votre donation.
+
+-*who_lamarquise
+      La voici.
+
+-*who_pyrante
+      Vous la vôtre.
+
+-*who_nerine
+Que vous nous épargnez de tourment l'un et l'autre.
+
+-*who_angelique
+Ah ! Quel bonheur pour moi !
+
+-*who_lamarquise
+      Ma nièce peut choisir.
+
+-*who_lecomte
+Du choix qu'elle fera donnons-nous le plaisir.
+
+-*who_lamarquise
+Nous nous sommes promis douceur et politesse.
+
+-*who_lecomte
+Nous verrons qui des deux tiendra mieux sa promesse.
+
+-*who_pyrante
+Vous me dispenserez d'être le spectateur
+De cette politesse et de cette douceur,
+J'ai fait mon ministère, et la nièce est pourvue.
+
+-*who_angelique
+Je sors, je n'aurais pas assez de retenue,
+Ma joie irriterait ma tante.
+
+-*who_lamarquise
+      Amenez-nous
+Votre amant.
+
+-*who_lecomte
+      Il viendra, ma soeur, trop tôt pour vous.
+Il est bien fait, charmant, son amant ; il enchante.
+
+-*who_nerine
+Je vous quitte aussi.
+
+-*who_lamarquise
+      Non, Nérine, sois présente,
+Je veux te faire voir ma modération ;
+Car c'est mon fort, quand j'ai ma satisfaction.
+
+-*who_lecomte
+Pour moi, je suis tranquille, et pourvu que je voie
+Mes desseins réussir, j'ai même de la joie.
+
+-*who_lamarquise
+Quand les miens tournent bien, je ris moi quelquefois.
+
+-*who_lecomte
+Ne vous fâchez donc point si je ris de son choix.
+
+-*who_lamarquise
+D'autres même en riront.
+
+-*who_nerine
+      Nous allons donc bien rire.
+
+**** *book_ *id_V10 *act_V *date_1719
+
+-*who_lechevalier
+Je vous vois tous contents : à monsieur il faut dire
+Pour augmenter sa joie encore d'un degré,
+Que nous avons rompu.
+
+-*who_lecomte
+      Je vous en sais bon gré ;
+Je ne vous haïssais que comme beau-frère.
+
+-*who_lamarquise
+Et vous l'allez haïr comme neveu, j'espère ;
+Mais par degrés je veux vous resserrer le coeur.
+Apprenez donc d'abord, monsieur, que votre soeur
+Moi, mon frère, moi, moi, j'épouserai Dorante.
+
+-*who_lecomte
+Vous croyez m'affliger, mais non, ma joie augmente,
+Car d'un seul mot je vais troubler la vôtre.
+
+**** *book_ *id_V11 *act_V *date_1719
+
+-*who_falaise
+      Non,
+Je veux tout rompre, moi, je n'entends point raison.
+
+-*who_dorante
+Arrête.
+
+-*who_falaise
+      Non morbleu.
+
+-*who_dorante
+      Tais-toi.
+
+-*who_falaise
+      Non, je criaille,
+Pour les mieux exciter à se donner bataille.
+
+-*who_dorante
+Je voulais différer d'un moment vos chagrins,
+Madame, et vous marquez au moins que je vous plains,
+J'eusse voulu pouvoir être un peu plus sincère :
+Pardonnez à l'amour...
+
+-*who_lamarquise
+      Ah ! J'entends. C'est mon frère,
+Que vous avez fâché d'avoir trompé, je crois.
+Il pardonne à l'amour que vous avez pour moi.
+
+-*who_falaise
+Eh non, madame, non, ce n'est pas vous qu'il aime,
+Car je viens en guettant être témoin moi-même !
+De l'amour pour la nièce, il lui disait des mots...
+Enfin heureusement je viens tout à propos,
+Ne leur délivrez rien, vous êtes bien nantie.
+
+-*who_nerine
+Ma foi tu viens trop tard, et la dot est partie.
+
+-*who_lecomte
+Ma nièce, choisissez.
+
+-*who_angelique
+      Je n'ose.
+
+-*who_lecomte
+      Restez-là.
+
+-*who_angelique
+Je choisis donc.
+
+-*who_lamarquise
+      Comment ! Je n'entends pas cela.
+
+-*who_lecomte
+Je viens de marier votre amant à ma nièce.
+
+-*who_lamarquise
+Au Chevalier d'accord, croyant me jouer pièce.
+
+-*who_lecomte
+Non, à votre autre amant à Dorante, ha, ha.
+
+-*who_dorante
+Venez, monsieur, venez : de grâce laissons-la.
+
+-*who_lecomte
+Ah ! Voyons son dépit, il va combler ma joie.
+
+-*who_dorante
+C'est ce qu'il ne faut pas qu'un galant homme voie.
+
+-*who_lamarquise
+Quoi ! Tous ! Le Chevalier...
+
+-*who_lechevalier
+      Je ne vous réponds rien.
+Moi, j'ai pris mon parti, Dorante a pris le sien.
+Je vous plaindrais beaucoup, si vous étiez souffrante.
+
+-*who_lamarquise
+Ma nièce !
+
+-*who_nerine
+      Je lui tiens lieu de mère.
+
+-*who_lamarquise
+      Dorante.
+
+-*who_nerine
+Nous n'avons pu pour vous en faire qu'un neveu.
+
+**** *book_ *id_V12 *act_V *date_1719
+
+-*who_falaise
+Ah ! Mon maître pour vous va mettre tout en feu,
+Mettre en combustion leurs biens de Normandie ;
+Mon maître à ses voisins pire qu'un incendie ;
+Va venger en plaidant votre amour méprisé.
+Brûlez d'un plus beau feu ; que ce coeur embrasé
+D'amour, soit possédé d'un amour de chicane ;
+Il faut pour triompher d'eux tous notre organe.
+Épouser le Marquis de Procinville... ou moi.
+
+-*who_lamarquise
+Mon seul soulagement dans tout ce que je vois.
+C'est de tourner en fiel cet amour qui me gêne ;
+Oui, je vais me livrer toute entière à la haine.

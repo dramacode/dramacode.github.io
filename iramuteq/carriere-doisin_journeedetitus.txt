@@ -1,0 +1,663 @@
+
+
+**** *book_ *id_I01 *act_I
+
+-*who_lepeuple
+Vive la Reine,
+Vive notre bon Roi
+Qu'à perdre haleine ,
+Chacun chante avec moi :
+Vive la Reine
+Vive notre bon Roi.
+Vive la Reine ,
+Vive notre Dauphin ;
+À perdre haleine
+Chantons tous ce refrain ;
+Vive la Reine,
+Vive notre Dauphin.
+Vive la Reine,
+Et nos Princes du Sang ;
+À perdre haleine
+Chantons tous , en dansant :
+Vive la Reine,
+Et nos Princes du Sang.
+
+-*who_unofficierdelamaison
+Un moment donc, Mesdames, un moment, attendez Monseigneur, à son passage.
+
+-*who_unedesfemmes
+Comment !
+À son passage ?
+Oh !
+Il a toujours été sans façons avec nous ; il fait bien que nous l'aimons de tout notre coeur...
+Mais !
+Le voici notre bon Prince, c'est lui-même !
+Monseigneur ?...
+
+-*who_leprince
+Laissez, laissez entrer.
+
+-*who_unedesfemmes
+Monseigneur, ce sont vos enfants qui viennent vous présenter les bouquets de la Famille en l'honneur de la naissance de Monseigneur le Dauphin.
+
+-*who_leprince
+Fort bien, mes amis ; je les reçois avec plaisir.
+
+-*who_unedesfemmes
+Nous n'en doutions pas, Monseigneur.
+Non, nous n'oublierons jamais comme nous avons été reçues à Metz, et surtout, cette belle fête de Saint-Cloud que vous avez donnée pour la convalescence du père de notre bon Roi Louis XVI.
+
+-*who_uneautrefemme
+Oui, Monseigneur, c'est ce jour-là que vous nous avez baillé des maris, et nous, que nous avons donné des enfants à l'État, comme de juste ; ça été plaisir et profit pour tout le monde, car, (ces enfants-là ont eu aussi des enfants, qui servent notre bon Roi, et boivent tous les jours à sa santé, ainsi qu'à la vôtre, Monseigneur.
+Vive la Reine.
+Vive notre bon Roi, etc.
+
+-*who_leprince
+À merveille, mes enfants, réjouissez-vous, l'occasion le mérite.
+
+-*who_unedesfemmes
+Assurément, Monseigneur ; le Ciel sait bien ce qu'il fait.
+En augmentant votre famille, il veille sur la nôtre.
+Vos menus-plaisirs à vous, mon Prince, c'est de faire du bien.
+
+-*who_leprince
+Je le dois, mes amis ; mais c'est assez, ménagez-vous seulement.
+Messieurs, acquittez ma dette, j'ai donné mes ordres en conséquence.
+Vive la Reine,
+Vive notre bon Roi, etc.
+
+**** *book_ *id_I02 *act_I
+
+-*who_leprince
+Que j'aime à voir la joie naïve de ce bon peuple !
+Oh !
+J'étais bien sûr que son coeur ferait honneur à ma fête.
+
+-*who_dalfons
+Comment penserait-il autrement, quand il est Français, et que vous-même, Monseigneur, lui donnez, chaque jour, un si bel exemple de l'amour que vous avez toujours eu pour votre Roi ?
+
+-*who_leprince
+Ah !
+D'Alfons, que ne puis-je donner des preuves plus sensibles des sentiments qui m'animent.
+
+-*who_dalfons
+Quelles preuves plus éclatantes , voulez-vous donc donner, Monseigneur, que toutes celles que vous avez multipliées jusqu'à présent avec tant de grandeur d'âme ?
+Au conseil, à l'armée, dans toutes les circonstances, vous vous êtes toujours montré pour le maintien des lois, la gloire et le bonheur de la Patrie ; oui, Monseigneur, mille voix s'élèvent en votre honneur, et bénissent vos bienfaits.
+
+-*who_leprince
+Il est si doux d'être aimé, et il en coûte si peu pour l'être.
+
+-*who_dalfons
+Ô mon maître !
+Que cet épanchement délicieux peint bien la beauté de votre âme !
+Aussi, notre jeune Roi, dont la sagesse se manifeste tous les jours, en sent-il tout le prix.
+
+-*who_leprince
+Oui, mon cher d'Alfons, je prévois avec délices, par les vertus avec lesquelles ce jeune Monarque signale le commencement de son règne, que la France jouira de la plus haute splendeur.
+Il connaît la vraie gloire, il veut se faire aimer.
+
+**** *book_ *id_I03 *act_I
+
+-*who_lecomte
+Pardonnez, Monseigneur ; voyant dans votre palais, au milieu de la joie publique, une famille désolée, je n'ai pu être insensible à ses larmes.
+Voici un papier qu'elle m'a prié de vous présenter.
+
+-*who_leprince
+Une famille désolée, dites-vous ?
+Ce serait troubler un si beau jour, voyons, lisons...
+Comment !
+Cette mort prématurée me rendrait tout-à-coup l'héritier du seul bien qui leur reste ?
+Monsieur, je vous sais gré de votre démarche.
+Qu'on me fasse parler à ces bonnes gens, je veux les consoler.
+
+-*who_lecomte
+Je suis à vos ordres dans l'instant, Monseigneur.
+
+**** *book_ *id_I04 *act_I
+
+-*who_leprince
+Mon ami, voici une nouvelle jouissance pour moi : un père de famille jeune encore, pour être plus en état d'élever ses enfants, veut doubler sa fortune, en conséquence il place chez moi son bien en viager ; la mort vient de l'enlever, et j'apprends ici que c'est tout ce qu'il possédait.
+C'est une imprudence, sans doute ; mais sa faute sera la mienne, et je la crois fort aisée à réparer...
+À propos, d'Alfons, songez à me faire parier aujourd'hui au père de cette jeune personne que d'Hermans voudrait épouser.
+
+-*who_dalfons
+C'est-à-dire que Monseigneur ne veut laisser échapper aucune occasion de faire des heureux.
+
+-*who_leprince
+N'est-ce pas naturel ?
+D'ailleurs, ce jeune homme m'a vraiment intéressé.
+Oh !
+Il faudra bien que le père fasse quelque chose pour moi.
+
+-*who_dalfons
+Vous devez y compter, je crois ?
+
+-*who_leprince
+Mais non, car il tient bien, dit-on, au riche parti qu'on lui offre pour sa fille ; enfin nous verrons.
+
+**** *book_ *id_I05 *act_I
+
+-*who_depolincour
+Monseigneur, voici cette famille.
+
+-*who_leprince
+Approchez, mes enfants.
+
+-*who_laveuve
+Ah !
+Monseigneur, votre présence nous rassure, et cependant nous ne pouvons nous exprimer.
+
+-*who_leprince
+Relevez-vous, mes amis ; ce n'est point une grâce que vous me demandez, c'est un plaisir pour moi.
+
+-*who_laveuve
+Vous voyez , Monseigneur, le seul bien qui me reste.
+
+-*who_leprince
+Détrompez-vous, Madame, votre époux ne m'a confié sa fortune que comme un dépôt à faire valoir, j'ai rempli ses intentions, vous allez en jouir.
+
+-*who_laveuve
+Ah !
+Mes enfants, reconnaissez à ces traits l'auguste sang des Bourbons.
+
+-*who_leprince
+Monsieur d'Alfons, conservez ce papier, vous me le remettrez au premier travail, ainsi que le testament en question.
+
+-*who_dalfons
+Oui, Monseigneur.
+
+-*who_leprince
+Monsieur, je vous recommande cette famille ; je veux qu'elle partage aujourd'hui la joie publique.
+Pour vous, Madame, venez souvent me parler de vos enfants : on m'approche aisément.
+
+-*who_laveuve
+Je me meurs de plaisir !
+
+-*who_leprince
+Ô Ciel !...
+Moi-même je vais cacher mes larmes.
+Non, j'ai besoin d'être seul un moment.
+
+**** *book_ *id_I06 *act_I
+
+-*who_dalfons
+Eh !
+Bien, Monsieur, comment ne pas aimer un si bon Prince ?
+
+-*who_depolincour
+Aussi, Monsieur d'Alfons, qui de nous ne lui est pas tendrement attaché ?...
+Mais, à propos de ces bienfaits, on prétend que le jeune d'Hermans l'a vivement intéressé.
+
+-*who_dalfons
+Et d'où tenez-vous donc cette nouvelle ?
+Ce devait être un mystère ?
+
+-*who_depolincour
+J'ai su le pénétrer, comme vous voyez.
+
+-*who_dalfons
+II est cependant de la plus grande importance pour le succès de son affaire, que d'Hermans lui même ignore jusqu'à nouvel ordre les dispositions de Monseigneur.
+
+-*who_depolincour
+Oh !
+Pour le coup, mon cher Marquis, vous avez oublié votre métier de courtisan.
+
+-*who_dalfons
+Comment !
+Que voulez-vous dire ?
+
+-*who_depolincour
+Mais, oui.
+Instruit seulement que d'Hermans avait été obligeamment questionné par le Prince, sur cet air de tristesse qui le trahissait malgré lui, j'ai pensé qu'il n'en fallait pas davantage ; et vous-même me confirmez qu'il s'intéresse en sa faveur.
+
+-*who_dalfons
+Comte, vous me donnez là une leçon ; puisque c'est ainsi, je vous demande le plus grand secret.
+
+-*who_depolincour
+Croyez que votre aveu devient une confidence...
+Mais n'est-ce pas là notre ami d'Ettingen ?
+
+-*who_dalfons
+Lui-même.
+
+**** *book_ *id_I07 *act_I
+
+-*who_dettingen
+Ah !
+C'est vous que je cherche, Monsieur ; vous voyez ici d'honnêtes gens , de bonnes gens que je vous présente.
+
+-*who_richardpere
+Oui ; Monsieur.
+Je suis un vieux soldat qui a fait ses dernières campagnes sous les ordres de notre bon Seigneur, et je n'oublierai jamais l'humanité avec laquelle il nous traitait.
+
+-*who_dalfons
+Eh !
+Bien, mon camarade, de quoi s'agit-il ?
+
+-*who_richardpere
+De me rendre un enfant coupable ; mais qui s'en repent, un enfant qui seul me reste pour le soutien de ma vieillesse et celui de sa soeur qui a perdu sa pauvre mère.
+
+-*who_dalfons
+Quel crime a-t-il donc fait ?
+
+-*who_richardpere
+Un bien grand, Monsieur, surtout, en servant sous les ordres d'un Prince aussi bon et aussi juste que Monseigneur.
+
+-*who_dalfons
+Il a donc déserté ?
+
+-*who_richardfils
+Hélas !
+Oui, Monsieur, j'ai eu ce malheur ; mais si je demande ma grâce, c'est pour resservir avec plus de fidélité.
+
+-*who_dalfons
+Je le crois ; mais, mon ami, vous connaissez la sévérité des lois.
+
+-*who_richardfils
+Et plus encore l'humanité du Prince, Monsieur.
+
+-*who_richardpere
+Oui, mon bon Seigneur, s'il faut donner mon sang pour obtenir son pardon, je déchire ma cartouche, et marche à l'ennemi.
+
+-*who_babet
+De grâce, Monsieur, ayez pitié de nous.
+
+-*who_depolincour
+Quoi !
+Vous-même aussi, bel enfant, vous vous engageriez ?
+
+-*who_babet
+Mais, oui, Monsieur, s'il le fallait.
+J'ai une une de mes cousines, qui, sous l'habit de soldat, a bravement servi pendant la guerre où Monsieur
+a, dit-on, été trouvé dans le camp à l'âge de trois ans et couvert de blessures et remis entre les mains de Monseigneur.
+
+-*who_dettingen
+C'est vrai, mes amis ; c'est de cette époque que date le bonheur de ma vie.
+Né, pour ainsi dire, au milieu du carnage, l'humanité m'a recueilli, et mon nom est le témoignage glorieux des bienfaits du Prince.
+
+-*who_richardfils
+Ah !
+Mon père, comment ai-je pu commettre une pareille faute !
+Laissez m'en punir.
+
+-*who_dettingen
+Non, je réponds de la bonté de notre Général.
+
+-*who_dalfons
+D'Ettingen a raison, allons le trouver.
+Mes enfants, espérez tout, nous allons revenir.
+
+**** *book_ *id_I08 *act_I
+
+-*who_richardpere
+Comme tout ce qui habite ce Palais respire l'humanité !
+On est tout de suite à son aise.
+
+-*who_richardfils
+Mon père, je vous cause bien du chagrin ; mais je vous le ferai oublier, et à toi aussi, ma pauvre Babet.
+
+-*who_richardpere
+Vas, mon garçon, je n'ai jamais désespéré de toi, je suis bien sûr que sans de mauvais conseils tu n'aurais jamais fait cette bassesse.
+
+-*who_richardfils
+Ô Ciel !
+Quel nom odieux vous donnez à mon égarement !
+Mon père, je n'ai point déserté par lâcheté, je voulais servir dans un autre régiment.
+
+-*who_richardpere
+Eh !
+Quel meilleur Général voulais-tu donc choisir, malheureux ?
+Tu ne connais pas toutes les vertus de celui que tu quittais.
+À l'armée, sa bravoure nous servait d'exemple, et il était si humain que pour mieux secourir le soldat, il retranchait de ses dépenses, il achetait même des champs entiers et des arbres fruitiers, pour l'empêcher de faire la maraude.
+Le premier à observer la discipline, il maintenait l'officier, comme le soldat, dans ses devoirs.
+Une bataille était-elle finie, il faisait enlever les blessés, lui-même aidait à les relever, les remettait à ses chirurgiens, et venait les visiter ?
+Voilà ce que j'ai vu de mes yeux , en servant comme un brave soldat.
+Aujourd'hui que je vis sur un de ses domaines, je suis témoin du bien qu'il fait à tous ses vassaux.
+La grêle, les débordements, les incendies, toutes les calamités sont plutôt pour lui que pour nous.
+Il vient toujours à notre secours.
+C'est en imaginant des travaux, en en détruisant exprès pour les faire rétablir, qu'il trouve le moyen de faire vivre les paresseux, malgré eux, et d'enrichir les travailleurs de bonne volonté.
+A-t-il quelques droits à défendre, si le procès devient ruineux pour les plaideurs, il ordonne qu'on le lui fasse perdre, et paye encore les frais.
+
+-*who_babet
+Quel plaisir Monseigneur a, surtout, quand il peut faire faire quelques mariages !
+Oh !
+Mon tour viendra, et tu verras , Richard, si Monseigneur...
+
+-*who_richardpere
+Fi !
+Donc, Babet, c'est de l'intérêt, ça.
+
+-*who_babet
+Mais, point du tout, mon père, je veux dire par là, que Monseigneur viendra d'un air satisfait et joyeux nous engager à bien nous divertir.
+
+-*who_richardpere
+Oh !
+Ça, j'en fuis sûr ; cependant s'il arrivait.
+
+-*who_babet
+Eh !
+Bien, mon père, achevez donc.
+
+-*who_richardpere
+Non, c'est moi qui suis un intéressé...
+Dame aussi, je désire tant de te voir heureuse.
+
+-*who_babet
+Nous le laisserons faire ; n'est-il pas vrai ; mon père ?
+
+-*who_richardpere
+Sans doute, il donne avec tant de bonté, que c'est un double plaisir de recevoir.
+
+-*who_babet
+Mais qu'as-tu donc, Richard ?
+Tu vois comme mon père est gai, veux-tu l'attrister ?
+
+-*who_richardpere
+Il a raison ; c'est bien d'être fâché d'avoir mal fait ; mais va, tout ira bien, tiens justement ; vois-tu comme ces Messieurs reviennent gaiement ?
+
+**** *book_ *id_I09 *act_I
+
+-*who_dalfons
+Mes amis, réjouissez-vous, Richard aura sa grâce.
+
+-*who_touslestrois
+Sa grâce !
+Ah !
+Monsieur...
+
+-*who_dalfons
+Oui ; mais, c'est à une condition.
+
+-*who_richardfils
+Très volontiers, je rejoins dans l'instant.
+
+-*who_dalfons
+Au contraire, vous aurez un congé absolu.
+
+-*who_richardpere
+Et son congé aussi ?
+
+-*who_dalfons
+Oui, pour qu'il travaille, et que vous, papa, vous vous reposiez.
+Il faut, en outre, qu'il cherche un mari à sa soeur ; Monseigneur se charge de la dot.
+
+-*who_babet
+Oh, bien, Monsieur, mon père sait qu'il est tout trouvé.
+
+-*who_dalfons
+Bon !
+Voilà donc la moitié de la besogne faite.
+
+-*who_richardpere
+Mais, Monsieur, parlons franchement : est-ce que je ne pourrais pas aller baiser les pas de Monseigneur ?
+Ce ne serait pas la première fois au moins.
+
+-*who_dalfons
+Dans un autre moment, mes enfants ; vous le verrez, contentez-vous seulement aujourd'hui de partager la joie publique.
+
+-*who_babet
+Oh !
+Moi, je ne serai pas la dernière à bien m'amuser.
+
+-*who_dalfons
+Bien !
+Babet, j'aime cette naïveté ; n'oubliez pas le mari, je n'oublierai pas la dot.
+
+-*who_babet
+C'est comme si je la tenais , j'en suis bien sûre.
+
+-*who_dalfons
+À merveille ; adieu, mes amis , adieu.
+
+**** *book_ *id_I10 *act_I
+
+-*who_dalfons
+À ça d'Ettingen, puisque le Prince vient de vous mettre de la confidence, voyez donc le père de la maîtresse d'Hermans.
+Vous savez qu'un bienfait est un plaisir dont on est ici toujours pressé de jouir.
+
+-*who_dettingen
+Je me charge de la commission avec d'autant plus de joie, que d'Hermans est mon ami, et mérite, à tous égards, le bonheur qui lui est promis.
+
+-*who_dalfons
+Nous le connaissons tous.
+Ne perdez donc pas un moment.
+
+-*who_dettingen
+Monsieur le Marquis, voici justement d'Hermans ?
+Il vient sans doute ici.
+
+-*who_dalfons
+En ce cas tâchez de l'éviter, il doit encore tout ignorer.
+
+**** *book_ *id_I11 *act_I
+
+-*who_dhermans
+Je vous cherchais, Monsieur.
+Vous êtes honoré de l'intimité particulière du Prince ; oserais-je vous confier l'entretien que j'ai eu hier au soir avec lui ?
+
+-*who_dalfons
+Très volontiers, Monsieur, en quoi puis-je vous être utile ?
+
+-*who_dhermans
+À fixer mon opinion sur ses sentiments à mon égard.
+Voici le fait, Monsieur : dévoré depuis longtemps du chagrin de ne pouvoir obtenir la main d'une personne que j'adore, j'ai d'abord voulu déguiser mes peines ; mais bientôt encouragé par la bienveillance du Prince, qui semblait me prévenir, j'ai osé m'expliquer.
+Ah !
+Monsieur, je n'oublierai jamais la délicatesse et les ménagements qu'il a bien voulu mettre dans les questions qu'il m'a faites.
+Ma franchise a paru lui plaire ; mais je vous avoue qu'il ne m'a rien dit d'assez positif pour rassurer, un coeur aussi vivement épris que le mien.
+De grâce, Monsieur, intéressez-vous en ma faveur, un seul mot de sa bouche peut déterminer Monsieur de Valmon à faire mon bonheur.
+
+-*who_dalfons
+Monsieur, je reconnais bien là la prudence de Monseigneur.
+Il s'agit ici de la cause d'un père, et il n'a entendu que la voix d'un jeune homme, dont l'amour né peur être un titre suffisant pour autoriser qui que ce soit à maîtriser les volontés d'une famille qu'il faut toujours respecter.
+
+-*who_dhermans
+Ah !
+Monsieur, vous connaissez, sans doute, les tourments de l'amour ?
+
+-*who_dalfons
+Croyez-moi, le Prince vous a entendu ; cela suffit.
+
+-*who_dhermans
+Ô Ciel !
+N'est-ce pas Monsieur de Valmon que j'aperçois ?
+Il est avec sa fille, que vient-il donc faire ici ?
+
+-*who_dalfons
+De la prudence, Monsieur d'Hermans, ne paraissez pas.
+
+-*who_dhermans
+Comment donc l'éviter ?
+
+**** *book_ *id_I12 *act_I
+
+-*who_dettingen
+Monsieur ?
+Voici Monsieur de Valmon qui a bien voulu m'accompagner Sur le champ.
+
+-*who_devalmon
+L'honneur que Monseigneur veut bien me faire m'est trop agréable, pour que j'y aie mis le moindre retard ; mais, Monsieur, dites-moi, je vous prie, seriez-vous mieux instruit que Monsieur du motif qui me fait demander ?
+
+-*who_dalfons
+Le Prince vous l'expliquera, Monsieur, nous n'avons été chargé que de vous présenter.
+
+-*who_devalmon
+Mais au moins, Monsieur, croyez-vous que ma fille puisse m'accompagner ?
+Elle trouve l'occasion si belle, pour voir le Prince tout à son aise, qu'elle voudrait en profiter.
+
+-*who_dalfons
+Rien de plus naturel, et Mademoiselle est faite assurément pour qu'il vous en sache même gré ; cependant, Monsieur , mon avis serait que vous vous présentassiez, d'abord, seul.
+
+-*who_devalmon
+Tu vois, mon enfant, il y a toujours une étiquette à observer ; je te l'avais bien dit.
+
+-*who_dalfons
+Non, Monsieur, détrompez-vous ; il n'est point question ici d'étiquette ; mais, peut-être...
+
+-*who_devalmon
+Oui, j'ai eu tort ; allons, ma fille...;
+
+-*who_dalfons
+Eh !
+Non, Monsieur... mais voilà bien du mouvement !
+
+-*who_devalmon
+Ne serait-ce pas le Prince ?
+Ma fille, retire-toi.
+
+-*who_dettingen
+Rien de plus aisé ; Mademoiselle sera très bien dans cet appartement.
+
+-*who_dalfons
+L'étourdi !
+Venez avec moi ; Monsieur ; je vais vous présenter.
+
+-*who_eleonore
+Quoi !
+D'Hermans est ici ?
+
+**** *book_ *id_I13 *act_I
+
+-*who_dhermans
+Ô combien je suis enchanté, charmante Eléonore ; que le hasard me procure le bonheur de pouvoir vous parler !
+
+-*who_eleonore
+Je le partagerais volontiers, d'Hermans ; mais rien ne m'excuserait si mon père nous trouvait ensemble.
+
+-*who_dettingen
+Oh !
+Pour le coup, il ne devrait en vouloir qu'à moi seul ; mais, d'honneur, si je savais le trouver là.
+
+-*who_dhermans
+De grâce, Eléonore, laissez-moi jouir du plaisir de vous voir : il y a si longtemps que par obéissance, j'ai la douleur d'en être privé.
+
+-*who_eleonore
+D'Hermans, j'ai dû obéir comme vous ; mais, dites-moi, pourquoi le Prince demande-t-il mon père, et vous , êtes-vous ici ?
+
+-*who_dhermans
+Hélas !
+Pour entendre peut-être prononcer mon arrêt ; cependant il est si généreux.
+
+-*who_eleonore
+Quoi !
+Monseigneur ?...
+
+-*who_dhermans
+Oui, charmante Eléonore ; j'ai osé lui confier mes peines, et tout me prouve, en ce moment, qu'il s'intéresse en ma faveur.
+
+-*who_dettingen
+Et qu'il réussira, soyez-en sûr.
+
+-*who_eleonore
+Ah !
+Monsieur, vous ne connaissez pas mon père : il respecte infiniment Monseigneur ; mais il a ses projets, il sera bien difficile de l'en détourner.
+
+-*who_dhermans
+Eh !
+Bien, Eléonore, nous irons alors le presser aux genoux même du Prince.
+
+-*who_eleonore
+Que dites-vous donc, d'Hermans ?
+Une démarche aussi imprudente serait une désobéissance de ma part.
+Monseigneur lui-même pourrait m'en blâmer ; cherchons, au contraire, à fléchir mon père avec le plus grand ménagement.
+
+-*who_dettingen
+Doucement ; j'entends le Prince.
+
+-*who_dhermans
+Ô Ciel !
+Que dois-je faire ?
+
+-*who_dettingen
+Rentrons dans cet appartement.
+
+**** *book_ *id_I14 *act_I
+
+-*who_leprince
+Réflechissez bien à ce que je vous dis, Monsieur ; vous sacrifiez une très grande fortune, j'en conviens, mais la seule qui puisse flatter l'ambition d'un bon père, c'est le bonheur de ses enfants.
+D'Hermans, dites-vous, est peu riche ; il mérite de l'être, et je m'en charge.
+
+-*who_devalmon
+Je le répète, Monseigneur, je n'ai plus de volonté que la vôtre.
+
+-*who_leprince
+Non, Monsieur de Valmon, il ne faut point ici de complaisance ; vous êtes père, je peux me tromper.
+
+**** *book_ *id_I15 *act_I
+
+-*who_dhermans
+Ah !
+Monseigneur, comment vous exprimer ma reconnaissance !
+De grâce Monsieur, croyez que je me rendrai digne du bonheur que j'attends.
+
+-*who_devalmon
+Viens , mon enfant, et remercie ton bienfaiteur.
+
+-*who_leprince
+Oui, mes amis, soyez heureux.
+
+-*who_tousdeux
+Ah !
+Monseigneur !
+Ah !
+Mon père !
+
+-*who_dalfons
+Mais !
+Qui cause donc cette rumeur ?
+
+**** *book_ *id_I16 *act_I
+
+-*who_lesofficiers
+Monseigneur, Monseigneur, permettez que nous entrions.
+
+-*who_leprince
+Qu'on les laisse approcher.
+
+-*who_unofficier
+Ah !
+Monseigneur, que venons-nous d'apprendre ?
+On veut que nous quittions un si bon maître, qu'on nous arrache plutôt la vie.
+
+-*who_tous
+Oui, mon Prince ; nous préférons la mort à la douleur de vous quitter.
+
+-*who_leprince
+Relevez-vous, mes enfants ; relevez-vous, vous dis-je.
+Cette preuve d'attachement de votre part m'est bien sensible ; mais les circonstances me forcent à-faire ce sacrifice : il faut être juste avant que d'être généreux.
+
+-*who_unofficier
+Ah !
+Monseigneur, ce n'est point un Prince, un bienfaiteur comme vous, qui fait des sujets mercenaires ; nous avons des femmes, des enfants, ils travailleront, ils nous soutiendront, nous nous aiderons entre nous, et notre plus chère récompense sera de vous servir avec plus de zèle.
+
+-*who_leprince
+Quel instant délicieux !
+Eh !
+Bien, allons, mes enfants, nous nous aimerons toujours, nous ne nous quitterons jamais.
+
+-*who_dalfons
+Mes amis vous m'arrachez un secret : reconnaissez dans votre maître ce généreux Luc, qui depuis si longtemps, soulage en silence tant de malheureux.
+
+-*who_leprince
+Ah !
+D'Alfons, vous troublez mes plaisirs.
+
+-*who_quelquesofficiers
+Monseigneur !
+Monseigneur !
+
+-*who_dalfons
+Oui, fixons-nous pour jamais, où règne tant de Vertus.
+
+**** *book_ *id_I17 *act_I
+
+-*who_devalmon
+Mes enfants, après ce que je viens de voir, s'il me reste quelques regrets, c'est d'avoir retardé votre bonheur.
+
+-*who_dhermans
+Ah !
+Mon père !
+Ce tendre épanchement de votre part le rend plus accompli.
+Oui, ce jour digne de Titus en est un sûr garant.
+
+-*who_dalfons
+Vous m'arrachez le mot, j'allais le prononcer ; Livrons-nous donc à l'allégresse, et que la naissance du Dauphin ranime ici les jeux.

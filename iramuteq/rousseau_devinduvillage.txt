@@ -1,0 +1,593 @@
+
+
+**** *book_ *id_I01 *act_I *date_1752
+
+-*who_colette
+
+
+J'ai perdu tout mon bonheur ;
+J'ai perdu mon serviteur :
+Colin me délaisse ;
+
+Hélas ! Il a pu changer !
+Je voudrais n'y plus songer :
+J'y songe sans cesse.
+
+J'ai perdu mon serviteur ;
+J'ai perdu tout mon bonheur :
+Colin me délaisse.
+Il m'aimait autrefois, et ce fut mon bonheur.
+Mais quelle est donc celle qui me préfère ?
+Elle est donc bien charmante ! Imprudente bergère,
+ne crains-tu point les maux que j'éprouve en ce jour ?
+Colin m'a pu changer, tu peux avoir ton tour.
+
+
+Que me sert d'y rêver sans cesse ?
+Rien ne peut guérir mon amour,
+Et tout augmente ma tristesse.
+
+J'ai perdu mon serviteur ;
+J'ai perdu tout mon bonheur :
+Colin me délaisse.
+
+Je veux le haïr. Je le dois...
+Peut-être il m'aime encore... Pourquoi me fuir sans cesse ?
+Il me cherchait tant autrefois !
+
+Le devin du canton fait ici sa demeure ;
+Il sait tout : Il saura le sort de mon amour :
+Je le vois ; et je veux m'éclaircir en ce jour.
+
+**** *book_ *id_I02 *act_I *date_1752
+
+-*who_colette
+Perdrai-je Colin sans retour .
+Dites-moi s'il faut que je meure.
+
+-*who_devin
+Je lis dans votre coeur, et j'ai lu dans le sien.
+
+-*who_colette
+Ô dieux !
+
+-*who_devin
+      Modérez-vous.
+
+-*who_colette
+      Eh bien ?
+Colin...
+
+-*who_devin
+      Vous est infidèle.
+
+-*who_colette
+Je me meurs.
+
+-*who_devin
+      Et pourtant il vous aime toujours.
+
+-*who_colette
+Que dites-vous ?
+
+-*who_devin
+      Plus adroite et moins belle,
+La dame de ces lieux...
+
+-*who_colette
+      Il me quitte pour elle !
+
+-*who_devin
+Je vous l'ai déjà dit, il vous aime toujours.
+
+-*who_colette
+Et toujours il me fuit !
+
+-*who_devin
+      Comptez sur mon secours.
+Je prétends à vos pieds ramenez le volage.
+Colin veut être brave, il aime à se parer :
+Sa vanité vous a fait un outrage
+Que son amour doit réparer.
+
+-*who_colette
+
+
+Si des galants de la ville
+J'eusse écouté les discours,
+Ah ! Qu'il m'eût été facile
+De former d'autres amours !
+
+Mise en riche demoiselle,
+Je brillerais tous les jours ;
+De rubans et de dentelle
+Je changerais mes atours.
+
+Pour l'amour de l'infidèle
+J'ai refusé mon bonheur ;
+J'aimerais mieux être moins belle,
+Et lui conserver mon coeur.
+
+-*who_devin
+
+
+Je vous rendrai le sien, ce sera mon ouvrage.
+Vous, à le mieux garder appliquez tous vos soins ;
+Pour vous faire aimer davantage,
+Feignez d'aimer un peu moins.
+
+L'amour croît, s'il s'inquiète ;
+Il s'endort, s'il est content :
+La bergère un peu coquette
+Rend le berger plus constant.
+
+-*who_colette
+À vos sages leçons Colette s'abandonne.
+
+-*who_devin
+Avec Colin prenez un autre ton.
+
+-*who_colette
+Je feindrai d'imiter l'exemple qu'il me donne.
+
+-*who_devin
+Ne l'imitez pas tout de bon ;
+Mais qu'il puisse le connaître.
+Mon art m'apprend qu'il va paraître ;
+Je vous appellerai quand il en sera temps.
+
+**** *book_ *id_I03 *act_I *date_1752
+
+-*who_devin
+J'ai tout su de Colin, et ces pauvres enfants
+Admirent tous les deux la science profonde
+Qui me fait deviner tout ce qu'ils m'ont appris.
+Leur amour à propos en ce jour me seconde ;
+Et les rendant heureux, il faut que je confonde
+De la dame du lieu les airs et les mépris.
+
+**** *book_ *id_I04 *act_I *date_1752
+
+-*who_colin
+L'amour et vos leçons m'ont enfin rendu sage ;
+Je préfère Colette à des biens superflus.
+Je sus lui plaire en habit de village :
+Sous un habit doré qu'obtiendrai-je de plus ?
+
+-*who_devin
+Colin, il n'est plus temps, et Colette t'oublie.
+
+-*who_colin
+Elle m'oublie, ô ciel ! Colette a pu changer !
+
+-*who_devin
+
+
+Elle est femme, jeune et jolie ;
+Manquerait-elle à se venger ?
+
+-*who_colin
+
+
+Non, Colette n'est point trompeuse,
+Elle m'a promis sa foi :
+Peut-elle être l'amoureuse
+D'un autre berger que moi ?
+
+-*who_devin
+Ce n'est point un berger qu'elle préfère à toi ;
+C'est un beau monsieur de la ville.
+
+-*who_colin
+Qui vous l'a dit ?
+
+-*who_devin
+      Mon art.
+
+-*who_colin
+      Je n'en saurais douter.
+Hélas ! Qu'il m'en va coûter
+Pour avoir été trop facile
+À m'en laisser conter par les dames de cour !
+
+-*who_devin
+On sert mal à la fois la fortune et l'amour.
+D'être si beau garçon quelquefois il en coûte.
+
+-*who_colin
+De grâce, apprenez-moi le moyen d'éviter
+Le coup affreux que je redoute.
+
+-*who_devin
+Laisse-moi seul un moment consulter.
+Le charme est fait. Colette en ce lieu va se rendre ;
+Il faut ici l'attendre.
+
+-*who_colin
+À l'apaiser pourrai-je parvenir ?
+Hélas ! Voudra-t-elle m'entendre ?
+
+-*who_devin
+Avec un coeur fidèle et tendre
+On a droit de tout obtenir.
+Sur ce qu'elle doit dire allons la prévenir.
+
+**** *book_ *id_I05 *act_I *date_1752
+
+-*who_colin
+
+
+Je vais revoir ma charmante maîtresse.
+Adieu, châteaux, grandeurs, richesse,
+Votre éclat ne me tente plus.
+Si mes pleurs, mes soins assidus,
+Peuvent toucher ce que j'adore,
+je vous verrai renaître encore,
+Doux moments que j'ai perdus.
+
+Quand on sait aimer et plaire,
+A-t-on besoin d'autre bien ?
+Rends-moi ton coeur, ma bergère,
+Colin t'a rendu le sien.
+
+Mon chalumeau, ma houlette,
+Soyez mes seules grandeurs ;
+Ma parure est ma Colette,
+Mes trésors sont ses faveurs.
+
+Que de seigneurs d'importance
+voudraient bien avoir sa foi !
+Malgré toute leur puissance,
+Ils sont moins heureux que moi.
+
+**** *book_ *id_I06 *act_I *date_1752
+
+-*who_colin
+Je l'aperçois... Je tremble en m'offrant à sa vue...
+Sauvons-nous... Je la perds si je fuis...
+
+-*who_colette
+Il me voit... Que je suis émue !
+Le coeur me bat...
+
+-*who_colin
+      Je ne sais où j'en suis.
+
+-*who_colette
+Trop près, sans y songer, je me suis approchée.
+
+-*who_colin
+Je ne puis m'en dédire, il a faut aborder.
+Ma Colette... Êtes-vous fâchée ?
+Je suis Colin : daignez me regarder.
+
+-*who_colette
+Colin m'aimait ; Colin m'était fidèle :
+Je vous regarde, et ne vois plus Colin.
+
+-*who_colin
+Mon coeur n'a point changé ; mon erreur trop cruelle
+Venait d'un sort jeté par quelque esprit malin :
+De devin l'a détruit ; je suis, malgré l'envie,
+Toujours Colin, toujours plus amoureux.
+
+-*who_colette
+Par un sort, à mon tour, je me sens poursuivie.
+Le devin n'y peut rien.
+
+-*who_colin
+      Que je suis malheureux !
+
+-*who_colette
+D'un amant plus contant...
+
+-*who_colin
+      Ah ! De ma mort suivi,
+Votre infidélité...
+
+-*who_colette
+      Vos soins sont superflus ;
+Non, Colin, je ne t'aime plus.
+
+-*who_colin
+Ta foi ne m'est point ravie ;
+Non, consulte mieux ton coeur :
+Toi-même, en m'ôtant la vie,
+Tu perdrais tout ton bonheur.
+
+-*who_colette
+Hélas !
+      Non, vous m'avez trahie,
+Vos soins sont superflus :
+Non, Colin, je ne t'aime plus.
+
+-*who_colin
+C'en est donc fait, vous voulez que je meure ;
+Et je vais pour jamais m'éloigner du hameau.
+
+-*who_colette
+Colin !
+
+-*who_colin
+      Quoi ?
+
+-*who_colette
+      Tu me fuis ?
+
+-*who_colin
+      Faut-il que je demeure,
+Pour vous voir un amant nouveau ?
+
+-*who_colette
+Tant qu'à mon Colin j'ai su plaire;
+Je vivais dans les plaisirs.
+
+-*who_colin
+Quand je plaisais à ma bergère,
+Mon sort comblait mes désirs.
+
+-*who_colette
+Depuis que son coeur me méprise,
+Un autre a gagné le mien.
+
+-*who_colin
+Après le doux noeud qu'elle brise,
+Serait-il un autre bien ?
+Ma Colette se dégage !
+
+-*who_colette
+Je crains un amant volage.
+
+-*who_colin_colette
+Je me dégage à mon tour.
+Mon coeur, devenu paisible,
+Oubliera, s'il est possible,
+
+-*who_colin
+Que tu lui fus cher un jour.
+
+-*who_colette
+      Que tu lui fus chère un jour.
+
+-*who_colin
+Quelque bonheur qu'on me promette
+Dans les noeuds qui me sont offerts,
+J'eusse encore préféré Colette
+À tous les biens de l'univers.
+
+-*who_colette
+Quoiqu'un seigneur jeune, aimable,
+Ma parle aujourd'hui d'amour,
+Colin m'eût semblé préférable
+À tout éclat de la Cour.
+
+-*who_colin
+Ah, Colette !
+
+-*who_colette
+      Ah ! Berger volage,
+Faut-il t'aimer malgré moi !
+
+-*who_colin_colette
+À jamais Colin
+
+-*who_colette
+      Je t'engage.
+
+-*who_colette
+      T'engage.
+
+-*who_colin
+Mon coeur et ma foi.
+
+-*who_colette
+      Son coeur et sa foi.
+
+-*who_colin_colette
+Qu'un doux mariage
+M'unisse à toi.
+Aimons toujours sans partage ;
+Que l'amour soit notre loi.
+
+**** *book_ *id_I07 *act_I *date_1752
+
+-*who_devin
+Je vous ai délivrés d'un cruel maléfice ;
+Vous vous aimez encore, malgré les envieux.
+
+-*who_colin
+Quel dont pourrait jamais payer en tel service ?
+
+-*who_devin
+Je suis assez payé si vous êtes heureux.
+Venez, jeunes garçons, venez, aimables filles,
+Rassemblez-vous, venez les imiter ;
+Venez, galants bergers, venez, beautés gentilles
+En chantant leur bonheur apprendre à le goûter.
+
+**** *book_ *id_I08 *act_I *date_1752
+
+-*who_choeur
+Colin revient à sa bergère ;
+Célébrons un retour si beau.
+Que leur amitié sincère
+Soit un charme toujours nouveau.
+Du devin de notre village
+Chantons le pouvoir éclatant :
+Il ramène un amant volage,
+Et le rend heureux et constant.
+
+-*who_colin
+Dans ma cabane obscure
+Toujours soucis nouveaux ;
+Vent, soleil ou froidure,
+Toujours peine et travaux.
+Colette, ma bergère,
+Si tu viens l'habiter,
+Colin, dans sa chaumière,
+N'a rien à regretter.
+Des champs, de la prairie,
+Retournant chaque soir,
+Chaque soir plus chérie,
+Je viendrai te revoir :
+Du soleil dans nos plaines
+Devançant le retour,
+Je charmerai mes peines
+En chantant notre amour.
+
+-*who_devin
+Il faut tous à l'envi
+Nous signaler ici :
+Si je ne puis sauter ainsi,
+Je dirai pour ma part une chanson nouvelle.
+
+
+L'art à l'amour est favorable,
+Et sans art l'amour sait charmer ;
+À la ville on est plus aimable,
+Au village on sait mieux aimer.
+Ah ! Pour l'ordinaire,
+L'amour ne sait guère
+Ce qu'il permet, ce qu'il défend ;
+C'est un enfant, c'est un enfant.
+
+-*who_colin
+
+
+Ah ! Pour l'ordinaire,
+L'amour ne sait guère
+Ce qu'il permet, ce qu'il défend ;
+C'est un enfant, C'est un enfant.
+Elle a d'autres couplets : je la trouve assez belle.
+
+-*who_colette
+Voyons, voyons ; nous chanterons aussi.
+
+
+Ici, de la simple nature
+L'amour suit la naïveté ;
+En d'autres lieux, de la parure
+Il cherche l'éclat emprunté.
+Ah ! Pour l'ordinaire
+L'amour ne sait guère
+Ce qu'il permet, ce qu'il défend ;
+C'est un enfant, c'est un enfant.
+
+-*who_choeur
+
+
+C'est un enfant, c'est un enfant.
+
+-*who_colin
+
+
+Souvent une flamme chérie
+Est celle d'un coeur ingénu ;
+Souvent par la coquetterie
+Un coeur volage est retenu.
+Ah ! Pour l'ordinaire
+L'amour ne sait guère
+Ce qu'il permet, ce qu'il défend ;
+C'est un enfant, c'est un enfant.
+C'est un enfant, c'est un enfant.
+
+-*who_devin
+
+
+L'amour, selon sa fantaisie,
+Ordonne et dispose de nous ;
+Ce dieu permet la jalousie,
+Et ce dieu punit les jaloux.
+Ah ! Pour l'ordinaire,
+L'amour ne sait guère
+Ce qu'il permet, ce qu'il défend ;
+C'est un enfant, c'est un enfant.
+
+-*who_colin
+
+
+À voltiger de belle en belle,
+On perd souvent l'heureux instant ;
+Souvent un berger trop fidèle
+Est moins aimé qu'un inconstant.
+Ah ! Pour l'ordinaire,
+L'amour ne sait guère
+Ce qu'il permet, ce qu'il défend ;
+C'est un enfant, c'est un enfant.
+
+-*who_colette
+
+
+À son caprice on est en butte,
+Il veut les ris, il veut les pleurs ;
+Par les... Par les...
+
+-*who_colin
+Par les rigueurs on le rebute.
+
+-*who_colette
+On l'affaiblit par les faveurs.
+
+-*who_ensemble
+
+
+Ah ! Pour l'ordinaire,
+L'Amour ne sait guère
+Ce qu'il permet, ce qu'il défend ;
+C'est un enfant, c'est un enfant.
+
+-*who_lechoeur
+
+
+C'est un enfant, c'est un enfant.
+
+-*who_colette
+
+
+Avec l'objet de mes amours,
+Rien ne m'afflige, tout m'enchante ;
+Sans cesse il rit, Toujours je chante :
+C'est une chaîne d'heureux jours.
+
+Quand on sait bien aimer, que la vie est charmante !
+Tel, au milieu des fleurs qui brillent sur son cours,
+Un doux ruisseau coule et serpente.
+Quand on sait bine aimer, que la vie est charmante !
+
+-*who_colette
+
+
+Allons dans sous les ormeaux,
+Animez-vous jeunes filles :
+Allons danser sous les ormeaux,
+Galants prenez vos chalumeaux.
+
+Répétons mille chansonnettes,
+Et pour avoir le cours joyeux,
+Dansons avec nos amoureux,
+Mais n'y restons jamais seulettes.
+Allons danser sous les ormeaux
+Galants prenez vos chalumeaux.
+
+-*who_lesvillageoises
+
+
+Allons danser sous les ormeaux
+Galants prenez vos chalumeaux.
+
+-*who_colette
+À la Ville on fait bien plus de fracas ;
+Mais sont-ils aussi gais dans leurs ébats ?
+
+
+Toujours contents,
+Toujours chantants ;
+Beauté sans fard,
+Plaisir sans art;
+Tous leurs concerts valent-ils nos musettes ?
+Allons danser sous les ormeaux
+Galants prenez vos chalumeaux.
+
+-*who_lesvillageoises
+Allons danser sous les ormeaux
+Galants prenez vos chalumeaux.

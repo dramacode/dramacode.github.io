@@ -1,0 +1,4105 @@
+
+
+**** *book_ *id_I01 *act_I *date_1696
+
+-*who_hector
+Il est, parbleu, grand jour. Déjà de leur ramage
+les coqs ont éveillé tout notre voisinage.
+Que servir un joueur est un maudit métier !
+Ne serai-je jamais laquais d'un sous-fermier ?
+Je ronflerais mon soûl la grasse matinée,
+Et je m'enivrerais le long de la journée :
+Je ferais mon chemin ; j'aurais un bon emploi ;
+Je serais dans la suite un conseiller du roi,
+Rat-de-cave ou commis ; et que sait-on ? Peut-être
+Je deviendrais un jour aussi gras que mon maître.
+J'aurais un bon carrosse à ressorts bien liants ;
+De ma rotondité j'emplirais le dedans :
+Il n'est que ce métier pour brusquer la fortune ;
+Et tel change de meuble et d'habit chaque lune,
+Qui, jasmin autrefois, d'un drap du sceau couvert,
+Bornait sa garde-robe à son justaucorps vert.
+Quelqu'un vient.
+
+**** *book_ *id_I02 *act_I *date_1696
+
+-*who_hector
+      Si matin, Nérine, qui t'envoie ?
+
+-*who_nerine
+Que fait Valère ?
+
+-*who_hector
+      Il dort.
+
+-*who_nerine
+      Il faut que je le voie.
+
+-*who_hector
+Va, mon maître ne voit personne quand il dort.
+
+-*who_nerine
+Je veux lui parler.
+
+-*who_hector
+      Paix, ne parle pas si fort.
+Oh ! J'entrerai, te dis-je.
+
+-*who_hector
+      Ici je suis de garde,
+Et je ne puis t'ouvrir que la porte bâtarde.
+
+-*who_nerine
+Tes sots raisonnements sont pour moi superflus.
+
+-*who_hector
+Voudrais-tu voir mon maître in naturalibus .
+
+-*who_nerine
+Quand se lèvera-t-il ?
+
+-*who_hector
+      Mais, avant qu'il se lève,
+Il faudra qu'il se couche ; et franchement...
+
+-*who_nerine
+      Achève.
+
+-*who_hector
+Je ne dis mot.
+
+-*who_nerine
+      Oh ! Parle, ou de force, ou de gré.
+
+-*who_hector
+Mon maître, en ce moment, n'est pas encor rentré.
+
+-*who_nerine
+Il n'est pas rentré ?
+
+-*who_hector
+      Non. Il ne tardera guère :
+Nous n'ouvrons pas matin. Il a plus d'une affaire,
+Ce garçon-là.
+
+-*who_nerine
+      J'entends. Autour d'un tapis vert,
+Dans un maudit brelan, ton maître joue et perd,
+Ou bien réduit à sec, d'une âme familière,
+Peut-être il parle au ciel d'une étrange manière.
+Par ordre très exprès d'Angélique, aujourd'hui
+Je viens pour rompre ici tout commerce avec lui.
+Des serments les plus forts appuyant sa tendresse,
+Tu sais qu'il a cent fois promis à ma maîtresse
+De ne toucher jamais cornet, carte, ni dé,
+Par quelque espoir de gain dont son coeur fût guidé ;
+Cependant...
+
+-*who_hector
+      Je vois bien qu'un rival domestique
+Consigne entre tes mains pour avoir Angélique.
+
+-*who_nerine
+Et quand cela serait, n'aurais-je pas raison ?
+Mon coeur ne peut souffrir de lâche trahison.
+Angélique, entre nous, serait extravagante
+De rejeter l'amour qu'à pour elle Dorante :
+Lui, c'est un homme d'ordre, et qui vit congrument.
+
+-*who_hector
+L'amour se plaît un peu dans le dérèglement.
+
+-*who_nerine
+Un amant fait et mûr.
+
+-*who_hector
+      Les filles d'ordinaire,
+Aiment mieux le fruit vert.
+
+-*who_nerine
+      D'un fort bon caractère ;
+Qui ne sut de ses jours ce que c'est que le jeu.
+
+-*who_hector
+Mais mon maître est aimé.
+
+-*who_nerine
+      Dont j'enrage. Morbleu !
+Ne verrai-je jamais les femmes détrompées
+De ces colifichets, de ces fades poupées,
+Qui n'ont, pour imposer, qu'un grand air débraillé,
+Un nez de tous côtés de tabac barbouillé,
+Une lèvre qu'on mord pour rendre plus vermeille,
+Un chapeau chiffonné qui tombe sur l'oreille,
+Une longue steinkerque à replis tortueux,
+Un haut-de-chausse bas prêt à tomber sous eux ;
+Qui, faisant le gros dos, la main dans la ceinture,
+Viennent, pour tout mérite, étaler leur figure ?
+
+-*who_hector
+C'est le goût d'à présent ; tes cris sont superflus,
+Mon enfant.
+
+-*who_nerine
+      Je veux, moi, réformer cet abus.
+Je ne souffrirai pas qu'on trompe ma maîtresse,
+Et qu'on profite ainsi d'une tendre faiblesse ;
+Qu'elle épouse un joueur, un petit brelandier,
+Un franc dissipateur, et dont tout le métier
+Est d'aller de cent lieux faire la découverte
+Où de jeux et d'amour on tient boutique ouverte,
+Et qui le conduiront tout droit à l'hôpital.
+
+-*who_hector
+Ton sermon me paraît un tant soit peu brutal.
+Mais, tant que tu voudras, parle, prêche, tempête,
+Ta maîtresse est coiffée.
+
+-*who_nerine
+      Et crois-tu, dans ta tête,
+Que l'amour sur son coeur ait un si grand pouvoir ?
+Elle est fille d'esprit ; peut-être dès ce soir
+Dorante, par mes soins, l'épousera.
+
+-*who_hector
+      Tarare !
+Elle est dans nos filets.
+
+-*who_nerine
+      Et moi je te déclare
+Que je l'en tirerai dès aujourd'hui.
+
+-*who_hector
+Bon ! Bon !
+
+-*who_nerine
+      Que Dorante a pour lui Nérine et la raison.
+
+-*who_hector
+Et nous avons l'amour. Tu sais que d'ordinaire,
+Quand l'amour veut parler, la raison doit se taire,
+Dans les femmes, s'entend.
+
+-*who_nerine
+      Tu verras que chez nous,
+Quand la raison agit, l'amour a le dessous.
+Ton maître est un amant d'une espèce plaisante !
+Son amour peut passer pour fièvre intermittente ;
+Son feu pour Angélique est un flux et reflux.
+
+-*who_hector
+Elle est, après le jeu, ce qu'il aime le plus.
+
+-*who_nerine
+Oui, c'est la passion qui seule le dévore :
+Dès qu'il a de l'argent, son amour s'évapore.
+
+-*who_hector
+Mais en revanche aussi, quand il n'a pas un sou,
+Tu m'avoueras qu'il est amoureux comme un fou.
+
+-*who_nerine
+Oh ! J'empêcherai bien...
+
+-*who_hector
+      Nous ne te craignons guère ;
+Et ta maîtresse, encor hier, promit à Valère,
+De lui donner dans peu, pour prix de son amour,
+Son portrait enrichi de brillants tout autour.
+Nous l'attendons, ma chère, avec impatience :
+Nous aimons les bijoux avec concupiscence.
+
+-*who_nerine
+Ce portrait est tout prêt, mais ce n'est pas pour lui,
+Et Dorante en sera possesseur aujourd'hui.
+
+-*who_hector
+À d'autres.
+
+-*who_nerine
+      N'est-ce pas une honte à Valère,
+Étant fils de famille, ayant encor son père,
+Qu'il vive comme il fait, et que, comme un banni,
+Depuis un an il loge en un hôtel garni ?
+
+-*who_hector
+Et vous y logez bien, et vous et votre clique.
+
+-*who_nerine
+Est-ce de même, dis ? Ma maîtresse Angélique,
+Et la veuve sa soeur, ne sont dans ce pays
+Que pour un temps, et n'ont point de père à Paris.
+
+-*who_hector
+Valère a déserté la maison paternelle,
+Mais ce n'est point à lui qu'il faut faire querelle ;
+Et si monsieur son père avait voulu sortir,
+Nous y serions encore, à ne t'en point mentir.
+Ces pères, bien souvent, sont obstinés en diable.
+
+-*who_nerine
+Il a tort, en effet, d'être si peu traitable !
+Quoi qu'il en soit, enfin, je ne t'abuse pas,
+Je fais la guerre ouverte ; et je vais de ce pas,
+Dire ce que je vois, avertir ma maîtresse
+Que Valère toujours est faux dans sa promesse ;
+Qu'il ne sera jamais digne de ses amours ;
+Qu'il a joué, qu'il joue, et qu'il jouera toujours.
+Adieu.
+
+-*who_hector
+      Bonjour.
+
+**** *book_ *id_I03 *act_I *date_1696
+
+-*who_hector
+      Autant que je m'y puis connaître,
+Cette Nérine-ci n'est pas trop pour mon maître.
+A-t-elle grand tort ? Non, c'est un panier percé,
+Qui...
+
+**** *book_ *id_I04 *act_I *date_1696
+
+-*who_hector
+      Mais je l'aperçois. Qu'il a l'air harassé !
+On soupçonne aisément, à sa triste figure,
+Qu'il cherche en vain quelqu'un qui prête à triple usure.
+
+-*who_valere
+Quelle heure est-il ?
+
+-*who_hector
+      Il est... je ne m'en souviens pas.
+
+-*who_valere
+Tu ne t'en souviens pas ?
+
+-*who_hector
+      Non, Monsieur.
+
+-*who_valere
+      Je suis las
+De tes mauvais discours ; et tes impertinences...
+
+-*who_hector
+Ma foi, la vérité répond aux apparences.
+
+-*who_valere
+Ma robe de chambre.
+      Euh !
+
+-*who_hector
+      Il jure entre ses dents.
+
+-*who_valere
+Eh bien ! Me faudra-t-il attendre encor longtemps ?
+
+-*who_hector
+Eh ! La voilà, monsieur.
+
+-*who_valere
+      Une école maudite
+Me coûte, en un moment, douze trous tout de suite.
+Que je suis un grand chien ! Parbleu, je te saurai,
+Maudit jeu de trictrac, ou bien je ne pourrai.
+Tu peux me faire perdre, ô fortune ennemie !
+Mais me faire payer, parbleu, je t'en défie :
+Car je n'ai pas un sou.
+
+-*who_hector
+      Vous plairait-il, Monsieur... ?
+
+-*who_valere
+Je me ris de tes coups, j'incague ta fureur.
+
+-*who_hector
+Votre robe de chambre est, Monsieur, toute prête.
+
+-*who_valere
+Va te coucher, maraud ; ne me romps point la tête.
+Va-t'en.
+
+-*who_hector
+      Tant mieux.
+
+**** *book_ *id_I05 *act_I *date_1696
+
+-*who_valere
+      Je veux dormir dans ce fauteuil.
+Que je suis malheureux ! Je ne puis fermer l'oeil.
+Je dois de tous côtés, sans espoir, sans ressource,
+Et n'ai pas, grâce au ciel, un écu dans ma bourse.
+Hector ! ... que ce coquin est heureux de dormir !
+Hector !
+
+**** *book_ *id_I06 *act_I *date_1696
+
+-*who_hector
+      Monsieur ?
+
+-*who_valere
+      Eh bien ! Bourreau, veux-tu venir ?
+N'es-tu pas las encor de dormir, misérable ?
+
+-*who_hector
+Las de dormir ! Monsieur ? Hé ! Je me donne au diable,
+Je n'ai pas eu le temps d'ôter mon justaucorps.
+
+-*who_valere
+Tu dormiras demain.
+
+-*who_hector
+      Il a le diable au corps.
+
+-*who_valere
+Est-il venu quelqu'un ?
+
+-*who_hector
+      Il est, selon l'usage,
+Venu maint créancier ; de plus, un gros visage,
+Un maître de trictrac qui ne m'est pas connu.
+Le maître de musique est encore venu.
+Ils reviendront bientôt.
+
+-*who_valere
+      Bon. Pour cette autre affaire,
+M'as-tu déterré... ?
+
+-*who_hector
+      Qui ? Cette honnête usurière,
+Qui nous prête, par heure, à vingt sous par écu ?
+
+-*who_valere
+Justement, elle-même.
+
+-*who_hector
+      Oui, monsieur, j'ai tout vu.
+Qu'on vend cher maintenant l'argent à la jeunesse !
+Mais enfin, j'ai tant fait, avec un peu d'adresse,
+Qu'elle m'a reconduit d'un air fort obligeant ;
+Et vous aurez, je crois, au plus tôt votre argent.
+
+-*who_valere
+J'aurais les mille écus ! ô ciel ! Quel coup de grâce !
+Hector, mon cher Hector, viens çà que je t'embrasse.
+
+-*who_hector
+Comme l'argent rend tendre !
+
+-*who_valere
+      Et tu crois qu'en effet,
+Je n'ai, pour en avoir, qu'à donner mon billet ?
+
+-*who_hector
+Qui le refuserait serait bien difficile :
+Vous êtes aussi bon que banquier de la ville.
+Pour la réduire au point où vous la souhaitez,
+Il a fallu lever bien des difficultés :
+Elle est d'accord de tout, du temps, des arrérages ;
+Il ne faut maintenant que lui donner des gages.
+
+-*who_valere
+Des gages ?
+
+-*who_hector
+      Oui, monsieur.
+
+-*who_valere
+      Mais y penses-tu bien ?
+Où les prendrai-je, dis ?
+
+-*who_hector
+      Ma foi, je n'en sais rien.
+Pour nippes, nous n'avons qu'un grand fonds d'espérance
+Sur les produits trompeurs d'une réjouissance ;
+Et dans ce siècle-ci, messieurs les usuriers,
+Sur de pareils effets prêtent peu volontiers.
+
+-*who_valere
+Mais quel gage, dis-moi, veux-tu que je lui donne ?
+
+-*who_hector
+Elle viendra tantôt elle-même en personne,
+Vous vous ajusterez ensemble en quatre mots.
+Mais, Monsieur, s'il vous plaît, pour changer de propos,
+Aimeriez-vous toujours la charmante Angélique ?
+
+-*who_valere
+Si je l'aime ? Ah ! Ce doute et m'outrage et me pique.
+Je l'adore.
+
+-*who_hector
+      Tant pis : c'est un signe fâcheux.
+Quand vous êtes sans fonds, vous êtes amoureux ;
+Et quand l'argent renaît, votre tendresse expire.
+Votre bourse est, Monsieur, puisqu'il faut vous le dire,
+Un thermomètre sûr, tantôt bas, tantôt haut,
+Marquant de votre coeur ou le froid ou le chaud.
+
+-*who_valere
+Ne crois pas que le jeu, quelque sort qu'il me donne,
+Me fasse abandonner cette aimable personne.
+
+-*who_hector
+Oui, mais j'ai bien peur, moi, qu'on ne vous plante là.
+
+-*who_valere
+Et sur quel fondement peux-tu juger cela ?
+
+-*who_hector
+Nérine sort d'ici, qui m'a dit qu'Angélique
+Pour Dorante votre oncle en ce moment s'explique ;
+Que vous jouez toujours, malgré tous vos serments,
+Et qu'elle abjure enfin ses tendres sentiments.
+
+-*who_valere
+Dieux ! Que me dis-tu là ?
+
+-*who_hector
+      Ce que je viens d'entendre.
+
+-*who_valere
+Bon ! Cela ne se peut ; on t'a voulu surprendre.
+
+-*who_hector
+Vous êtes assez riche en bonne opinion,
+À ce qu'il me paraît.
+
+-*who_valere
+      Point. Sans présomption,
+On sait ce que l'on vaut.
+
+-*who_hector
+      Mais si, sans vouloir rire,
+Tout allait comme j'ai l'honneur de vous le dire,
+Et qu'Angélique enfin pût changer...
+
+-*who_valere
+      En ce cas,
+Je prends le parti... mais cela ne se peut pas.
+
+-*who_hector
+Si cela se pouvait, qu'une passion neuve ?...
+
+-*who_valere
+En ce cas, je pourrais rabattre sur la veuve,
+la Comtesse sa soeur.
+
+-*who_hector
+      Ce dessein me plaît fort.
+J'aime un amour fondé sur un bon coffre-fort.
+Si vous vouliez un peu vous aider avec elle,
+Cette veuve, je crois, ne serait point cruelle ;
+Ce serait une éponge à presser au besoin.
+
+-*who_valere
+Cette éponge, entre nous, ne vaudrait pas ce soin.
+
+-*who_hector
+C'est, dans son caractère, une espèce parfaite,
+Un ambigu nouveau de prude et de coquette,
+Qui croit mettre les coeurs à contribution,
+Et qui veut épouser ; c'est là sa passion.
+
+-*who_valere
+Épouser ?
+
+-*who_hector
+      Un marquis, de même caractère,
+Grand épouseur aussi, la galope et la flaire.
+
+-*who_valere
+Et quel est ce marquis ?
+
+-*who_hector
+      C'est, à vous parler net,
+Un marquis de hasard fait par le lansquenet ;
+Fort brave, à ce qu'il dit, intrigant, plein d'affaires ;
+Qui croit de ses appas les femmes tributaires ;
+Qui gagne au jeu beaucoup, et qui, dit-on, jadis
+Était valet de chambre avant d'être marquis.
+Mais sauvons-nous, Monsieur, j'aperçois votre père.
+
+**** *book_ *id_I07 *act_I *date_1696
+
+-*who_geronte
+Doucement ; j'ai deux mots à vous dire, Valère.
+Pour toi, j'ai quelques coups de canne à te prêter.
+
+-*who_hector
+Excusez-moi, Monsieur, je ne puis m'arrêter.
+
+-*who_geronte
+Demeure là, maraud.
+
+-*who_hector
+      Il n'est pas temps de rire.
+
+-*who_geronte
+Pour la dernière fois, mon fils, je viens vous dire
+Que votre train de vie est si fort scandaleux,
+Que vous m'obligerez à quelque éclat fâcheux.
+Je ne puis retenir ma bile davantage,
+Et ne saurais souffrir votre libertinage.
+Vous êtes pilier-né de tous les lansquenets,
+Qui sont, pour la jeunesse, autant de trébuchets.
+Un bois plein de voleurs est un plus sûr passage ;
+Dans ces lieux, jour et nuit, ce n'est que brigandage.
+Il faut opter des deux, être dupe ou fripon.
+
+-*who_hector
+Tous ces jeux de hasard n'attirent rien de bon.
+J'aime les jeux galants où l'esprit se déploie.
+C'est, Monsieur, par exemple, un joli jeu que l'oie.
+
+-*who_geronte
+Tais-toi.
+      Non, à présent le jeu n'est que fureur :
+On joue argent, bijoux, maisons, contrats, honneur ;
+Et c'est ce qu'une femme, en cette humeur à craindre,
+Risque plus volontiers, et perd plus sans se plaindre.
+
+-*who_hector
+Oh ! Nous ne risquons pas, Monsieur, de tels bijoux.
+
+-*who_geronte
+Votre conduite enfin m'enflamme de courroux ;
+Je ne puis vous souffrir vivre de cette sorte :
+Vous m'avez obligé de vous fermer ma porte ;
+J'étais las, attendant chez moi votre retour,
+Qu'on fît du jour la nuit, et de la nuit le jour.
+
+-*who_hector
+C'est bien fait. Ces joueurs qui courent la fortune,
+Dans leurs dérèglements ressemblent à la lune,
+Se couchant le matin, et se levant le soir.
+
+-*who_geronte
+Vous me poussez à bout ; mais je vous ferai voir
+Que si vous ne changez de vie et de manière,
+Je saurai me servir de mon pouvoir de père,
+Et que de mon courroux vous sentirez l'effet.
+
+-*who_hector
+Votre père a raison.
+
+-*who_geronte
+      Comme le voilà fait !
+Débraillé, mal peigné, l'oeil hagard ! À sa mine
+On croirait qu'il viendrait, dans la forêt voisine,
+De faire un mauvais coup.
+
+-*who_hector
+      On croirait vrai de lui :
+Il a fait trente fois coupe-gorge aujourd'hui.
+
+-*who_geronte
+Serez-vous bientôt las d'une telle conduite ?
+Parlez, que dois-je enfin espérer dans la suite ?
+
+-*who_valere
+Je reviens aujourd'hui de mon égarement,
+Et ne veux plus jouer, mon père, absolument.
+
+-*who_hector
+Voilà du fruit nouveau dont son fils le régale.
+
+-*who_geronte
+Quand ils n'ont pas un sou, voilà de leur morale.
+
+-*who_valere
+J'ai de l'argent encore ; et, pour vous contenter,
+De mes dettes je veux aujourd'hui m'acquitter.
+
+-*who_geronte
+S'il est ainsi, vraiment, j'en ai bien de la joie.
+
+-*who_hector
+Vous acquitter, Monsieur ! Avec quelle monnaie ?
+
+-*who_valere
+Te tairas-tu ?
+      Mon oncle aspire dans ce jour
+À m'ôter d'Angélique et la main et l'amour :
+Vous savez que pour elle il a l'âme blessée,
+Et qu'il veut m'enlever...
+
+-*who_geronte
+      Oui, je sais sa pensée,
+Et je serai ravi de le voir confondu.
+
+-*who_hector
+Vous n'avez qu'à parler, c'est un homme tondu.
+
+-*who_geronte
+Je voudrais bien déjà que l'affaire fût faite.
+Angélique est fort riche, et point du tout coquette,
+Maîtresse de son choix. Avec ce bon dessein,
+Va te mettre en état de mériter sa main,
+Payer tes créanciers...
+
+-*who_valere
+      J'y vais, j'y cours...
+Mon père...
+
+-*who_geronte
+      Hé ! Plaît-il ?
+
+-*who_valere
+      Pour sortir entièrement d'affaire,
+Il me manque environ quatre ou cinq mille francs.
+Si vous vouliez, Monsieur...
+
+-*who_geronte
+      Ah ! Ah ! Je vous entends.
+Vous m'avez mille fois bercé de ces sornettes.
+Non ; comme vous pourrez, allez payer vos dettes.
+
+-*who_valere
+Mais, mon père, croyez...
+
+-*who_geronte
+      À d'autres, s'il vous plaît.
+
+-*who_valere
+Prêtez-moi mille écus.
+
+-*who_hector
+      Nous paierons l'intérêt
+Au denier un.
+
+-*who_valere
+      Monsieur...
+
+-*who_geronte
+      Je ne puis vous entendre.
+
+-*who_valere
+Je ne veux point, mon père, aujourd'hui vous surprendre ;
+Et pour vous faire voir quels sont mes bons desseins,
+Retenez cet argent, et payez par vos mains.
+
+-*who_hector
+Ah ! Parbleu, pour le coup, c'est être raisonnable.
+
+-*who_geronte
+Et de combien encore êtes-vous redevable ?
+
+-*who_valere
+La somme n'y fait rien.
+
+-*who_geronte
+      La somme n'y fait rien ?
+
+-*who_hector
+Non. Quand vous le verrez vivre en homme de bien,
+Vous ne regretterez nullement la dépense ;
+Et nous ferons, Monsieur, la chose en conscience.
+
+-*who_geronte
+Écoutez : je veux bien faire un dernier effort ;
+Mais, après cela, si...
+
+-*who_valere
+      Modérez ce transport ;
+Que sur mes sentiments votre âme se repose.
+Je vais voir Angélique ; et mon coeur se propose
+D'arrêter son courroux déjà prêt d'éclater.
+
+**** *book_ *id_I08 *act_I *date_1696
+
+-*who_hector
+Je m'en vais travailler, moi, pour vous contenter,
+À vous faire, en raisons claires et positives,
+Le mémoire succinct de nos dettes passives,
+Et que j'aurai l'honneur de vous montrer dans peu.
+
+**** *book_ *id_I09 *act_I *date_1696
+
+-*who_geronte
+Mon frère en son amour n'aura pas trop beau jeu.
+Non, quand ce ne serait que pour le contredire,
+Je veux rompre l'hymen où son amour aspire ;
+Et j'aurai deux plaisirs à la fois, si je puis,
+De chagriner mon frère, et marier mon fils.
+
+**** *book_ *id_I10 *act_I *date_1696
+
+-*who_toutabas
+Avec tous les respects d'un coeur vraiment sincère,
+Je viens pour vous offrir mon petit ministère.
+Je suis, pour vous servir, gentilhomme auvergnac,
+Docteur dans tous les jeux, et maître de trictrac :
+Mon nom est Toutabas, Vicomte de La Case,
+Et votre serviteur, pour terminer ma phrase.
+
+-*who_geronte
+Un maître de trictrac ! Il me prend pour mon fils.
+Quoi ! Vous montrez, Monsieur, un tel art dans Paris ?
+Et l'on ne vous a pas fait présent, en galère,
+D'un brevet d'espalier ?
+
+-*who_toutabas
+      À quel homme ai-je affaire ?
+Comment ! Je vous soutiens que dans tous les états
+On ne peut de mon art assez faire de cas ;
+Qu'un enfant de famille, et qu'on veut bien instruire,
+Devrait savoir jouer avant que savoir lire.
+
+-*who_geronte
+Monsieur le professeur, avec raisons,
+Il faudrait vous loger aux petites-maisons.
+
+-*who_toutabas
+De quoi sert, je vous prie, une foule inutile
+De chanteurs, de danseurs, qui montrent par la ville ?
+Un jeune homme en est-il plus riche quand il sait
+Chanter ré mi fa sol, ou danser un menuet ?
+Paiera-t-on des marchands la cohorte pressante
+Avec un vaudeville ou bien une courante ?
+Ne vaut-il pas bien mieux qu'un jeune cavalier
+Dans mon art au plus tôt se fasse initier ?
+Qu'il sache, quand il perd, d'une âme non commune,
+À force de savoir, rappeler la fortune ?
+Qu'il apprenne un métier qui, par de sûrs secrets,
+En le divertissant, l'enrichisse à jamais ?
+
+-*who_geronte
+Vous êtes riche, à voir ?
+
+-*who_toutabas
+      Le jeu fait vivre à l'aise
+Nombre d'honnêtes gens, fiacres, porteurs de chaise ;
+Mille usuriers fournis de ces obscurs brillants,
+Qui vont de doigts en doigts tous les jours circulants ;
+Des gascons à souper dans les brelans fidèles ;
+Des chevaliers sans ordre ; et tant de demoiselles
+Qui, sans le lansquenet et son produit caché,
+De leur faible vertu feraient fort bon marché,
+Et dont tous les hivers la cuisine se fonde
+Sur l'impôt établi d'une infaillible ronde.
+
+-*who_geronte
+S'il est quelque joueur qui vive de son gain,
+On en voit tous les jours mille mourir de faim,
+Qui, forcés à garder une longue abstinence,
+Pleurent d'avoir trop mis à la réjouissance.
+
+-*who_toutabas
+Et c'est de là que vient la beauté de mon art.
+En suivant mes leçons, on court peu ce hasard.
+Je sais, quand il le faut, par un peu d'artifice,
+D'un sort injurieux corriger la malice ;
+Je sais dans un trictrac, quand il faut un sonnez,
+Glisser des dés heureux, ou chargés, ou pipés ;
+Et quand mon plein est fait, gardant mes avantages,
+J'en substitue aussi d'autres prudents et sages,
+Qui, n'offrant à mon gré que des as à tous coups,
+Me font en un instant enfiler douze trous.
+
+-*who_geronte
+Et Monsieur Toutabas, vous avez l'insolence
+De venir dans ces lieux montrer votre science ?
+
+-*who_toutabas
+Oui, monsieur, s'il vous plaît.
+
+-*who_geronte
+      Et vous ne craignez pas
+Que j'arme contre vous quatre paires de bras,
+Qui le long de vos reins ? ...
+
+-*who_toutabas
+      Monsieur, point de colère ;
+Je ne suis point ici venu pour vous déplaire.
+
+-*who_geronte
+Maître juré filou, sortez de la maison.
+
+-*who_toutabas
+Non, je n'en sors qu'après vous avoir fait leçon ?
+
+-*who_geronte
+À moi, leçon ?
+
+-*who_toutabas
+      Je veux, par mon savoir extrême,
+Que vous escamotiez un dé comme moi-même.
+
+-*who_geronte
+Je ne sais qui me tient, tant je suis animé,
+Que quelques bons soufflets donnés à poing fermé...
+Va-t'en.
+
+-*who_toutabas
+      Puisque aujourd'hui votre humeur pétulante
+Vous rend l'âme aux leçons un peu récalcitrante,
+Je reviendrai demain pour la seconde fois.
+
+-*who_geronte
+Reviens.
+
+-*who_toutabas
+      Vous plairait-il de m'avancer le mois ?
+
+-*who_geronte
+Sortiras-tu d'ici, vrai gibier de potence ?
+
+**** *book_ *id_I11 *act_I *date_1696
+
+-*who_geronte
+Je ne puis respirer, et j'en mourrai, je pense.
+Heureusement mon fils n'a point vu ce fripon :
+Il me prenait pour lui dans cette occasion.
+Sachons ce qu'il a fait ; et, sans plus de mystère,
+Concluons son hymen, et finissons l'affaire.
+
+**** *book_ *id_II01 *act_II *date_1696
+
+-*who_angelique
+Mon coeur serait bien lâche, après tant de serments,
+D'avoir encor pour lui de tendres mouvements.
+Nérine, c'en est fait, pour jamais je l'oublie ;
+Je ne veux ni l'aimer, ni le voir de ma vie ;
+Je sens la liberté de retour dans mon coeur.
+Ne me viens pas, au moins, parler en sa faveur.
+
+-*who_nerine
+Moi, parler pour Valère ! Il faudrait être folle.
+Que plutôt à jamais je perde la parole !
+
+-*who_angelique
+Ne viens point désormais, pour calmer mon dépit,
+Rappeler à mes sens son air et son esprit ;
+Car tu sais qu'il en a.
+
+-*who_nerine
+      De l'esprit ! Lui, madame !
+Il est plus journalier mille fois qu'une femme :
+Il rêve à tout moment ; et sa vivacité
+Dépend presque toujours d'une carte, ou d'un dé.
+
+-*who_angelique
+Mon coeur est maintenant certain de sa victoire.
+
+-*who_nerine
+Madame, croyez-moi, je connais le grimoire.
+Souvent tous ces dépits sont des hoquets d'amour.
+
+-*who_angelique
+Non ; l'amour de mon coeur est banni sans retour.
+
+-*who_nerine
+Cet hôte dans un coeur a bientôt fait son gîte ;
+Mais il se garde bien d'en déloger si vite.
+
+-*who_angelique
+Ne crains rien de mon coeur.
+
+-*who_nerine
+      S'il venait à l'instant,
+Avec cet air flatteur, soumis, insinuant,
+Que vous lui connaissez ; que d'un ton pathétique,
+Il vous dît à vos pieds : "Non, charmante Angélique,
+Je ne veux opposer à tout votre courroux
+Qu'un seul mot : je vous aime, et je n'aime que vous.
+Votre âme en ma faveur n'est-elle point émue ?
+Vous ne me dites rien ! Vous détournez la vue !
+Vous voulez donc ma mort ? Il faut vous contenter."
+Peut-être en ce moment pour vous épouvanter,
+Il se soufflettera d'une main mutinée,
+Se donnera du front contre une cheminée,
+S'arrachera de rage un toupet de cheveux
+Qui ne sont pas à lui. Mais de ces airs fougueux
+Ne vous étonnez pas ; comptez qu'en sa colère
+Il ne se fera pas grand mal.
+
+-*who_angelique
+      Laisse-moi faire.
+
+-*who_nerine
+Vous voilà, grâce au ciel, bien instruite sur tout ;
+Ne vous démentez point, tenez bon jusqu'au bout.
+
+**** *book_ *id_II02 *act_II *date_1696
+
+-*who_la_comtesse
+On dit partout, ma soeur, qu'un peu moins prévenue,
+Vous épousez Dorante.
+
+-*who_angelique
+      Oui, j'y suis résolue.
+
+-*who_la_comtesse
+Mon coeur en est ravi. Valère est un vrai fou,
+Qui jouerait votre bien jusques au dernier sou.
+
+-*who_angelique
+D'accord.
+
+-*who_la_comtesse
+      J'aime à vous voir vaincre votre tendresse.
+Cet amour, entre nous, était une faiblesse.
+Il faut se dégager de ces attachements
+Que la raison condamne et qui flattent nos sens.
+
+-*who_angelique
+Il est vrai.
+
+-*who_la_comtesse
+      Rien n'est plus à craindre dans la vie,
+Qu'un époux qui du jeu ressent la tyrannie.
+J'aimerais mieux qu'il fût gueux, avaricieux,
+Coquet, fâcheux, mal fait, brutal, capricieux,
+Ivrogne, sans esprit, débauché, sot, colère,
+Que d'être un emporté joueur comme est Valère.
+
+-*who_angelique
+Je sais que ce défaut est le plus grand de tous.
+
+-*who_la_comtesse
+Vous ne voulez donc plus en faire votre époux ?
+
+-*who_angelique
+Moi ? Non : dans ce dessein nos humeurs sont conformes.
+
+-*who_nerine
+Il a, ma foi, reçu son congé dans les formes.
+
+-*who_la_comtesse
+C'est bien fait. Puisque enfin vous renoncez à lui,
+Je vais l'épouser, moi.
+
+-*who_angelique
+      L'épouser ?
+
+-*who_la_comtesse
+      Aujourd'hui.
+
+-*who_angelique
+Ce joueur, qu'à l'instant ?...
+
+-*who_la_comtesse
+      Je saurai le réduire.
+On sait sur les maris ce que l'on a d'empire.
+
+-*who_angelique
+Quoi ! Vous voulez, ma soeur, avec cet air si doux,
+Ce maintien réservé, prendre un nouvel époux ?
+
+-*who_la_comtesse
+Et pourquoi non, ma soeur ? Fais-je donc un grand crime
+De rallumer les feux d'un amour légitime ?
+J'avais fait voeu de fuir tout autre engagement.
+Pour garder du défunt le souvenir charmant,
+Je portais son portrait ; et cette vive image
+Me soulageait un peu des chagrins du veuvage :
+Mais qu'est-ce qu'un portrait, quand on aime bien fort ?
+C'est un époux vivant qui console d'un mort.
+
+-*who_nerine
+Madame n'aime pas les maris en peinture.
+
+-*who_la_comtesse
+Cela racquitte-t-il d'une perte aussi dure ?
+
+-*who_nerine
+C'est irriter le mal, au lieu de l'adoucir.
+
+-*who_angelique
+ConnAisseuse en maris, vous deviez mieux choisir.
+Vous unir à Valère !
+
+-*who_la_comtesse
+      Oui, ma soeur, à lui-même.
+
+-*who_angelique
+Mais vous n'y pensez pas. Croyez-vous qu'il vous aime ?
+
+-*who_la_comtesse
+S'il m'aime, lui ! S'il m'aime ! Ah ! Quel aveuglement !
+On a certains attraits, un certain enjouement,
+Que personne ne peut me disputer, je pense.
+
+-*who_angelique
+Après un si long temps de pleine jouissance,
+Vos attraits sont à vous sans contestation.
+
+-*who_la_comtesse
+Et je puis en user à ma discrétion.
+
+-*who_angelique
+Sans doute. Et je vois bien qu'il n'est pas impossible
+Que Valère pour vous ait eu le coeur sensible.
+L'or est d'un grand secours pour acheter un coeur ;
+Ce métal, en amour, est un grand séducteur.
+
+-*who_la_comtesse
+En vain vous m'insultez avec un tel langage ;
+La modération fut toujours mon partage :
+Mais ce n'est point par l'or que brillent mes attraits ;
+Et jamais, en aimant, je ne fis de faux frais.
+Mes sentiments, ma soeur, sont différents des vôtres ;
+Si je connais l'amour, ce n'est que dans les autres.
+J'ai beau m'armer de fier, je vois de toutes parts
+Mille coeurs amoureux suivre mes étendards :
+Un conseiller de robe, un seigneur de finance,
+Dorante, le marquis briguent mon alliance ;
+Mais si d'un nouveau noeud je veux bien me lier,
+Je prétends à Valère offrir un coeur entier.
+Je fais profession d'une vertu sévère.
+
+-*who_angelique
+Qui peut vous assurer de l'amour de Valère ?
+
+-*who_la_comtesse
+Qui peut m'en assurer ? Mon mérite, je crois.
+
+-*who_angelique
+D'autres sur lui, ma soeur, auraient les mêmes droits.
+
+-*who_la_comtesse
+Il n'eut jamais pour vous qu'une estime stérile,
+Un petit feu léger, vagabond, volatile.
+Quand on veut inspirer une solide amour,
+Il faut avoir vécu, ma soeur, bien plus d'un jour ;
+Avoir un certain poids, une beauté formée
+Par l'usage du monde, et des ans confirmée.
+Vous n'en êtes pas là.
+
+-*who_angelique
+      J'attendrai bien du temps.
+
+-*who_nerine
+Madame est prévoyante, elle a pris les devants.
+Mais on vient.
+
+**** *book_ *id_II03 *act_II *date_1696
+
+-*who_laquais
+      Le Marquis, Madame, est là qui monte.
+
+-*who_la_comtesse
+Le Marquis ? Hé ! Non, non ; il n'est pas sur mon compte.
+
+**** *book_ *id_II04 *act_II *date_1696
+
+-*who_le_marquis
+Je suis tout en désordre : un maudit embarras
+M'a fait quitter ma chaise à deux ou trois cents pas ;
+Et j'y serais encor dans des peines mortelles,
+Si l'amour, pour vous voir, ne m'eût prêté ses ailes.
+
+-*who_la_comtesse
+Que monsieur le Marquis est galant sans fadeur !
+
+-*who_le_marquis
+Oh ! Point du tout, je suis votre humble serviteur.
+Mais, à vous parler net, sans que l'esprit fatigue,
+Près du sexe je sais me démêler d'intrigue.
+Ah ! Juste ciel ! Quel est cet admirable objet !
+
+-*who_la_comtesse
+C'est ma soeur.
+
+-*who_le_marquis
+      Votre soeur ! Vraiment, c'est fort bien fait.
+Je vous sais gré d'avoir une soeur aussi belle ;
+On la prendrait, parbleu, pour votre soeur jumelle.
+
+-*who_la_comtesse
+Comme à tout ce qu'il dit il donne un joli tour !
+Qu'il est sincère ! On voit qu'il est homme de cour.
+
+-*who_le_marquis
+Homme de cour, moi ! Non. Ma foi, la cour m'ennuie ;
+L'esprit de ce pays n'est qu'en superficie ;
+Sitôt que vous voulez un peu l'approfondir,
+Vous rencontrez le tuf. J'y pourrais m'agrandir ;
+J'ai de l'esprit, du coeur, plus que seigneur de France ;
+Je joue, et j'y ferais fort bonne contenance :
+Mais je n'y vais jamais que par nécessité,
+Et pour y rendre au roi quelque civilité.
+
+-*who_nerine
+Il vous est obligé, Monsieur, de tant de peine.
+
+-*who_le_marquis
+Je n'y suis pas plus tôt, soudain je perds haleine.
+Ces fades compliments sur de grands mots montés,
+Ces protestations qui sont futilités,
+Ces serrements de mains dont on vous estropie,
+Ces grands embrassements dont un flatteur vous lie,
+M'ôtent à tout moment la respiration :
+On ne s'y dit bonjour que par convulsion.
+
+-*who_angelique
+Les dames de la cour sont bien mieux votre affaire ?
+
+-*who_le_marquis
+Point. Il faut être au moins gros fermier pour leur plaire :
+Leur sotte vanité croit ne pouvoir trop haut
+À des faveurs de cour mettre un injuste taux.
+Moi, j'aime à pourchasser des beautés mitoyennes.
+L'hiver, dans un fauteuil, avec des citoyennes,
+Les pieds sur les chenets étendus sans façons,
+Je pousse la fleurette, et conte mes raisons.
+Là toute la maison s'offre à me faire fête ;
+Valet, filles de chambre, enfants, tout est honnête :
+L'époux même discret, quand il entend minuit,
+Me laisse avec madame, et va coucher sans bruit.
+Voilà comme je vis, quand parfois dans la ville
+Je veux bien déroger...
+
+-*who_nerine
+      La manière est facile ;
+Et ce commerce-là me paraît assez doux.
+
+-*who_le_marquis
+C'est ainsi que je veux en user avec vous.
+Je suis tout naturel, et j'aime la franchise :
+Ma bouche ne dit rien que mon coeur n'autorise :
+Et quand de mon amour je vous fais un aveu,
+Madame, il est trop vrai que je suis tout en feu.
+
+-*who_la_comtesse
+Fi donc, petit badin, un peu de retenue ;
+Vous me parlez, Marquis, une langue inconnue :
+Le mot d'amour me blesse, et me fait trouver mal.
+
+-*who_le_marquis
+L'effet n'en serait pas peut-être si fatal.
+
+-*who_nerine
+Elle veut qu'en détours la chose s'enveloppe ;
+Et ce mot dit à cru lui cause une syncope.
+
+-*who_angelique
+Dans la bouche d'un autre il deviendrait plus doux.
+
+-*who_la_comtesse
+Comment ? Qu'est-ce ? Plaît-il ? Parlez ; expliquez-vous.
+Parlez donc, parlez donc. Apprenez, je vous prie,
+Que mortel, quel qu'il soit, ne me dit de ma vie
+Un mot douteux qui pût effleurer mon honneur.
+
+-*who_le_marquis
+Croirait-on qu'une veuve aurait tant de pudeur ?
+
+-*who_angelique
+Mais Valère vous aime : et souvent...
+
+-*who_le_marquis
+      Qu'est-ce à dire,
+Valère ? Un autre ici conjointement soupire !
+Ah ! Si je le savais, je lui ferais, morbleu ! ...
+Où loge-t-il ?
+
+-*who_nerine
+      Ici.
+
+-*who_le_marquis
+      Nous nous verrons dans peu.
+
+-*who_la_comtesse
+Mais quel droit avez-vous sur moi ?
+
+-*who_le_marquis
+      Quel droit, ma reine ?
+Le droit de bienséance avec celui d'aubaine.
+Vous me convenez fort, et je vous conviens mieux.
+Sur vous l'on sait assez que je jette les yeux.
+
+-*who_la_comtesse
+Vous êtes fou, Marquis, de parler de la sorte.
+
+-*who_le_marquis
+Je sais ce que je dis, ou le diable m'emporte.
+
+-*who_la_comtesse
+Sommes-nous donc liés par quelque engagement ?
+
+-*who_le_marquis
+Non pas autrement... mais...
+
+-*who_la_comtesse
+      Qu'est-ce à dire ? Comment ? ...
+Parlez.
+
+-*who_le_marquis
+      Je ne sais point prendre en main des trompettes,
+Pour publier partout les faveurs qu'on m'a faites.
+
+-*who_angelique
+Hé, ma soeur !
+
+-*who_nerine
+      Des faveurs !
+
+-*who_le_marquis
+      Suffit, je suis discret ;
+Et sais, quand il le faut, oublier un secret.
+
+-*who_la_comtesse
+On ne connaît que trop ma retenue austère.
+Il veut rire.
+
+-*who_le_marquis
+      Ah ! Parbleu, je saurai de Valère
+Quel est, en vous aimant, le but de ses désirs,
+Et de quel droit il vient chasser sur mes plaisirs.
+
+**** *book_ *id_II05 *act_II *date_1696
+
+-*who_1er_laquais
+Monsieur, c'est de la part de la grosse comtesse.
+
+-*who_le_marquis
+Je le lirai tantôt.
+
+**** *book_ *id_II06 *act_II *date_1696
+
+-*who_2nd_laquais
+      Cette jeune duchesse
+Vous attend à vingt pas pour vous mener au jeu.
+
+-*who_le_marquis
+Qu'elle attende.
+
+**** *book_ *id_II07 *act_II *date_1696
+
+-*who_3eme_laquais
+      Monsieur...
+
+-*who_le_marquis
+      Encore ! Ah ! Palsambleu,
+Il faut que de la ville enfin je me dérobe.
+
+-*who_3eme_laquais
+Je viens de voir, Monsieur, cette femme de robe,
+Qui dit que cette nuit son mari couche aux champs,
+Et que ce soir, sans bruit...
+
+-*who_le_marquis
+      Il suffit, je t'entends.
+Tu prendras ce manteau, fait pour bonne fortune,
+De couleur de muraille ; et tantôt, sur la brune,
+Va m'attendre en secret où tu fus avant-hier,
+Là...
+
+-*who_3eme_laquais
+      Je sais.
+
+**** *book_ *id_II08 *act_II *date_1696
+
+-*who_le_marquis
+      Il faudrait avoir un corps de fer
+Pour résister à tout. J'ai de l'ouvrage à faire,
+Comme vous le voyez ; mais je m'en veux distraire.
+Vous ferez désormais tous mes soins les plus doux.
+
+-*who_la_comtesse
+Si mon coeur était libre, il pourrait être à vous.
+
+-*who_le_marquis
+Adieu, charmant objet : à regret je vous quitte.
+C'est un pesant fardeau d'avoir un gros mérite.
+
+**** *book_ *id_II09 *act_II *date_1696
+
+-*who_nerine
+Cet homme-là vous aime épouvantablement.
+
+-*who_angelique
+Je ne vous croyais pas un tel engagement.
+
+-*who_la_comtesse
+Il est vif.
+
+-*who_angelique
+      Il vous aime ; et son ardeur est belle.
+
+-*who_la_comtesse
+L'amour qu'il a pour moi lui tourne la cervelle :
+Il ne m'a pourtant vue encore que deux fois.
+
+-*who_nerine
+Il en a donc bien fait la première...
+
+**** *book_ *id_II10 *act_II *date_1696
+
+-*who_nerine
+      Je crois
+Voir Valère.
+
+-*who_la_comtesse
+      L'amour auprès de moi le guide.
+
+-*who_nerine
+Il tremble en approchant.
+
+-*who_la_comtesse
+      J'aime un amant timide,
+Cela marque un bon fond. Approchez, approchez ;
+Ouvrez de votre coeur les sentiments cachés.
+Vous allez voir, ma soeur.
+
+-*who_valere
+      Ah ! Quel bonheur, Madame,
+Que vous me permettiez d'ouvrir toute mon âme ;
+Et quel plaisir de dire, en des transports si doux,
+Que mon coeur vous adore, et n'adore que vous !
+
+-*who_la_comtesse
+L'amour le trouble. Eh quoi ! Que faites-vous, Valère ?
+
+-*who_valere
+Ce que vous-même ici m'avez permis de faire.
+
+-*who_nerine
+Voici du quiproquo.
+
+-*who_valere
+      Que je serais heureux,
+S'il vous plaisait encor de recevoir mes voeux !
+
+-*who_la_comtesse
+Vous vous méprenez.
+
+-*who_valere
+      Non. Enfin, belle Angélique,
+Entre mon oncle et moi que votre coeur s'explique ;
+Le mien est tout à vous, et jamais dans un coeur...
+
+-*who_la_comtesse
+Angélique !
+
+-*who_valere
+      On ne vit une plus noble ardeur.
+
+-*who_la_comtesse
+Ce n'est donc pas pour moi que votre coeur soupire ?
+
+-*who_valere
+Madame, en ce moment je n'ai rien à vous dire.
+Regardez votre soeur ; et jugez si ses yeux
+Ont laissé dans mon coeur de place à d'autres feux.
+
+-*who_la_comtesse
+Quoi ! D'aucun feu pour moi votre âme n'est éprise ?
+
+-*who_valere
+Quelques civilités que l'usage autorise...
+
+-*who_la_comtesse
+Comment ?
+
+-*who_angelique
+      Il ne faut pas avec sévérité
+Exiger des amants trop de sincérité.
+Ma soeur, tout doucement avalez la pilule.
+
+-*who_la_comtesse
+Taisez-vous, s'il vous plaît, petite ridicule.
+
+-*who_valere
+Vous avez cent vertus, de l'esprit, de l'éclat ;
+Vous êtes belle, riche, et...
+
+-*who_la_comtesse
+Vous êtes un fat.
+
+-*who_angelique
+      La modération, qui fut votre partage,
+Vous ne la mettez pas, ma soeur, trop en usage.
+
+-*who_la_comtesse
+Monsieur vaut-il le soin qu'on se mette en courroux ?
+C'est un extravagant ; il est tout fait pour vous.
+
+**** *book_ *id_II11 *act_II *date_1696
+
+-*who_nerine
+Elle connaît ses gens.
+
+-*who_valere
+      Oui, pour vous je soupire,
+Et je voudrais avoir cent bouches pour le dire.
+
+-*who_nerine
+Allons, Madame, allons, ferme ; voici le choc :
+Point de faiblesse au moins, ayez un coeur de roc.
+
+-*who_angelique
+Ne m'abandonne point.
+
+-*who_nerine
+      Non, non ; laissez-moi faire.
+
+-*who_valere
+Mais que me sert, hélas ! Que mon coeur vous préfère ?
+Que sert mon amour un si sincère aveu ?
+Vous ne m'écoutez point, vous dédaignez mon feu.
+De vos beaux yeux pourtant, cruelle, il est l'ouvrage.
+Je sais qu'à vos beautés c'est faire un dur outrage
+De nourrir dans mon coeur des désirs partagés ;
+Que la fureur du jeu se mêle où vous régnez :
+Mais...
+
+-*who_angelique
+      Cette passion est trop forte en votre âme
+Pour croire que l'amour d'aucun feu vous enflamme.
+Suivez, suivez l'ardeur de vos emportements ;
+Mon coeur n'en aura point de jaloux sentiments.
+
+-*who_nerine
+Optimè.
+
+-*who_valere
+      Désormais, plein de votre tendresse,
+Nulle autre passion n'a rien qui m'intéresse :
+Tout ce qui n'est point vous me paraît odieux.
+
+-*who_angelique
+Non, ne vous présentez jamais devant mes yeux.
+
+-*who_nerine
+      Vous mollissez.
+
+-*who_valere
+Jamais ! Quelle rigueur extrême !
+Jamais ! Ah ! Que ce mot est cruel quand on aime !
+Hé quoi ! Rien ne pourra fléchir votre courroux ?
+Vous voulez donc me voir mourir à vos genoux ?
+
+-*who_angelique
+Je prends peu d'intérêt, Monsieur, à votre vie.
+
+-*who_nerine
+Nous allons bientôt voir jouer la comédie.
+
+-*who_valere
+Ma mort sera l'effet de mon cruel dépit.
+
+-*who_nerine
+Qu'un amant mort pour nous nous mettrait en crédit !
+
+-*who_valere
+Vous le voulez ? Eh bien ! Il faut vous satisfaire,
+Cruelle ! Il faut mourir.
+
+-*who_angelique
+      Que faites-vous, Valère ?
+
+-*who_nerine
+Eh bien ! Ne voilà pas votre tendre maudit
+Qui vous prend à la gorge ! Euh !
+
+-*who_angelique
+Tu ne m'as pas dit,
+Nérine, qu'il viendrait se percer à ma vue :
+Et je tremble de peur quand une épée est nue.
+
+-*who_nerine
+Que les amants sont sots !
+
+-*who_valere
+      Puisqu'un soin généreux
+Vous intéresse encore aux jours d'un malheureux,
+Non, ce n'est point assez de me rendre la vie ;
+Il faut que par l'amour, désarmée, attendrie,
+Vous me rendiez encor ce coeur si précieux,
+Ce coeur sans qui le jour me devient odieux.
+
+-*who_angelique
+Nérine, qu'en dis-tu ?
+
+-*who_nerine
+      Je dis qu'en la mêlée
+Vous avez moins de coeur qu'une poule mouillée.
+
+-*who_valere
+Madame, au nom des dieux, au nom de vos attraits...
+
+-*who_angelique
+Si vous me promettiez...
+
+-*who_valere
+      Oui, je vous le promets,
+Que la fureur du jeu sortira de mon âme,
+Et que j'aurai pour vous la plus ardente flamme...
+
+-*who_nerine
+Pour faire des serments il est toujours tout prêt.
+
+-*who_angelique
+Il faut encore, ingrat, vouloir ce qu'il vous plaît.
+Oui, je vous rends mon coeur.
+
+-*who_valere
+      Ah ! Quelle joie extrême !
+
+-*who_angelique
+Et pour vous faire voir à quel point je vous aime,
+Je joins à ce présent celui de mon portrait.
+
+-*who_nerine
+Hélas ! De mes sermons voilà quel est l'effet !
+
+-*who_valere
+Quel excès de faveurs !
+
+-*who_angelique
+      Gardez-le, je vous prie.
+
+-*who_valere
+Que je le garde, ô ciel ! Le reste de ma vie...
+Que dis-je ? Je prétends que ce portrait si beau
+Soit mis avec moi dans le même tombeau,
+Et que même la mort jamais ne nous sépare.
+
+-*who_nerine
+Que l'esprit d'une fille est changeant et bizarre !
+
+-*who_angelique
+Ne me trompez donc plus, Valère ; et que mon coeur
+Ne se repente point de sa facile ardeur.
+
+-*who_valere
+Fiez-vous aux serments de mon âme amoureuse.
+
+-*who_nerine
+Ah ! Que voilà pour l'oncle une époque fâcheuse !
+
+**** *book_ *id_II12 *act_II *date_1696
+
+-*who_valere
+Est-il dans l'univers de mortel plus heureux ?
+Elle me rend son coeur ; elle comble mes voeux,
+M'accable de faveurs...
+
+**** *book_ *id_II13 *act_II *date_1696
+
+-*who_hector
+      Monsieur, je viens vous dire...
+
+-*who_valere
+Je suis tout transporté. Vois, considère, admire :
+Angélique m'a fait ce généreux présent.
+
+-*who_hector
+Que les brillants sont gros ! Pour être plus content,
+Je vous amène encore un lénitif de bourse,
+Une usurière.
+
+-*who_valere
+      Et qui ?
+
+-*who_hector
+      Madame La Ressource.
+
+**** *book_ *id_II14 *act_II *date_1696
+
+-*who_valere
+Hé ! Bonjour, mon enfant : tu ne peux concevoir
+Jusqu'où va dans mon coeur le plaisir de te voir.
+
+-*who_mme_la_ressource
+Je vous suis obligée on ne peut davantage.
+
+-*who_hector
+Elle est jolie encor. Mais quel sombre équipage !
+Vous voilà, sans mentir aussi noire qu'un four.
+
+-*who_valere
+Ne vois-tu pas, Hector, que c'est un deuil de cour ?
+
+-*who_mme_la_ressource
+Oh ! Monsieur, point du tout. Je suis une bourgeoise,
+Qui sais me mesurer justement à ma toise.
+J'en connais bien pourtant, qui ne me valent pas,
+Qui se font teindre en noir du haut jusques en bas :
+Mais pour moi je n'ai point cette sotte manie ;
+Et si mon pauvre époux était encore en vie...
+
+-*who_valere
+Quoi ! Monsieur La Ressource est mort ?
+
+-*who_mme_la_ressource
+      Subitement.
+
+-*who_hector
+Subitement ? Hélas ! J'en suis fâché vraiment.
+Au fait.
+
+-*who_valere
+      J'aurais besoin, Madame La Ressource,
+De mille écus.
+
+-*who_mme_la_ressource
+      Monsieur, disposez de ma bourse.
+
+-*who_valere
+Je fais, bien entendu, mon billet au porteur.
+
+-*who_hector
+Et je veux l'endosser.
+
+-*who_mme_la_ressource
+      Avec les gens d'honneur
+On ne perd jamais rien.
+
+-*who_valere
+      Je veux que tu le prennes.
+Nous faisons ici bas des routes incertaines ;
+Je pourrais bien mourir. Ce maraud m'avait dit
+Que sur des gages sûrs tu prêtais à crédit.
+
+-*who_mme_la_ressource
+Sur des gages, Monsieur ? C'est une médisance ;
+Je sais que ce serait blesser ma conscience.
+Pour des nantissements qui valent bien leur prix,
+De la vieille vaisselle au poinçon de Paris,
+Des diamants usés, et qu'on ne saurait vendre,
+Sans risquer mon honneur, je crois que j'en puis prendre.
+
+-*who_valere
+Je n'ai pour te donner, vaisselle ni bijoux.
+
+-*who_hector
+Oh ! Parbleu, nous marchons sans crainte des filous.
+
+-*who_mme_la_ressource
+Eh bien ! Nous attendrons, Monsieur, qu'il vous en vienne.
+
+-*who_valere
+Compte, ma pauvre enfant, que ma mort est certaine,
+Si je n'ai dans ce jour mille écus.
+
+-*who_mme_la_ressource
+      Ah ! Monsieur !
+Je voudrais les avoir ; ce serait de grand coeur.
+
+-*who_valere
+Ma charmante, mon coeur, ma reine, mon aimable,
+Ma belle, ma mignonne, et ma tout adorable.
+
+-*who_hector
+Par pitié.
+
+-*who_mme_la_ressource
+      Je ne puis.
+
+-*who_hector
+      Ah ! Que nous sommes fous !
+Tous ces gens-là, Monsieur, ont des coeurs de cailloux ;
+Sans des nantissements il ne faut rien prétendre.
+
+-*who_valere
+Dis-moi donc, si tu veux, où je les pourrai prendre.
+
+-*who_hector
+Attendez... mais comment, avec un coeur d'airain,
+Refuser un billet endossé de ma main ?
+
+-*who_valere
+      Mais vois donc.
+
+-*who_hector
+Laissez-moi ; je cherche en ma boutique.
+
+-*who_valere
+Écoute... nous avons le portrait d'Angélique.
+Dans le temps difficile il faut un peu s'aider.
+
+-*who_hector
+Ah ! Que dites-vous là ? Vous devez le garder.
+
+-*who_valere
+D'accord : honnêtement je ne puis m'en défaire.
+
+-*who_mme_la_ressource
+Adieu. Quelque autre fois nous finirons l'affaire.
+
+-*who_valere
+Attendez donc.
+      Tu sais jusqu'où vont mes besoins.
+N'ayant pas son portrait, l'en aimerai-je moins ?
+
+-*who_hector
+Fort bien. Mais voulez-vous que cette perfidie ?...
+
+-*who_valere
+Il est vrai. J'ai tantôt cette grosse partie
+De ces joueurs en fonds qui doivent s'assembler.
+
+-*who_mme_la_ressource
+Adieu.
+
+-*who_valere
+      Demeurez donc : où voulez-vous aller ?
+Je ferai de l'argent ; ou celui de mon père,
+Quoi qu'il puisse arriver, nous tirera d'affaire.
+
+-*who_hector
+Que peut dire Angélique alors qu'elle apprendra
+Que de son cher portrait ? ...
+
+-*who_valere
+      Et qui le lui dira ?
+Dans une heure au plus tard nous irons le reprendre.
+
+-*who_hector
+Dans une heure ?
+
+-*who_valere
+      Oui, vraiment.
+
+-*who_hector
+      Je commence à me rendre.
+
+-*who_valere
+Je me mettrais en gage en mon besoin urgent.
+
+-*who_hector
+Sur cette nippe-là vous auriez peu d'argent.
+
+-*who_valere
+On ne perd pas toujours, je gagnerai sans doute.
+
+-*who_hector
+Votre raisonnement met le mien en déroute.
+Je sais que ce micmac ne vaut rien dans le fond.
+
+-*who_valere
+Je m'en tirerai bien, Hector, je t'en réponds.
+Peut-on, sur ce bijou, sans trop de complaisance ?...
+
+-*who_mme_la_ressource
+Oui, je puis maintenant prêter en conscience ;
+Je vois des diamants qui répondent du prêt,
+Et qui peuvent porter un modeste intérêt.
+Voilà les mille écus comptés dans cette bourse.
+
+-*who_valere
+Je vous suis obligé, Madame La Ressource.
+Au moins, ne manquez pas de revenir tantôt :
+Je prétends retirer mon portrait au plus tôt.
+
+-*who_mme_la_ressource
+Volontiers. Nous aimons à changer de la sorte.
+Plus notre argent fatigue, et plus il nous rapporte.
+Adieu, messieurs. Je suis tout à vous à ce prix.
+
+-*who_hector
+Adieu, juif, le plus juif qui soit dans tout Paris.
+
+**** *book_ *id_II15 *act_II *date_1696
+
+-*who_hector
+Vous faites là, Monsieur, une action inique.
+
+-*who_valere
+Aux maux désespérés il faut de l'émétique :
+Et cet argent, offert par les mains de l'amour,
+Me dit que la fortune est pour moi dans ce jour.
+
+**** *book_ *id_III01 *act_III *date_1696
+
+-*who_dorante
+Quel est donc le sujet pourquoi ton coeur soupire ?
+
+-*who_nerine
+Nous n'avons pas, Monsieur, tous deux, sujet de rire.
+
+-*who_dorante
+Dis-moi donc, si tu veux, le sujet de tes pleurs.
+
+-*who_nerine
+Il faut aller, Monsieur, chercher fortune ailleurs.
+
+-*who_dorante
+Chercher fortune ailleurs ! As-tu fait quelque pièce
+Qui t'aurait fait sitôt chasser de ta maîtresse ?
+
+-*who_nerine
+Non : c'est de votre sort dont j'ai compassion ;
+Et c'est à vous d'aller chercher condition.
+
+-*who_dorante
+Que dis-tu ?
+
+-*who_nerine
+      Qu'Angélique est une âme légère,
+Et s'est mieux que jamais rengagée à Valère.
+
+-*who_dorante
+Quoique pour mon amour ce coup soit assommant,
+Je ne suis point surpris d'un pareil changement.
+Je sais que cet amant tout entière l'occupe :
+De ses ardeurs pour moi je ne suis point la dupe ;
+Et lorsque de ses feux je sens quelque retour,
+Je dois tout au dépit, et rien à son amour.
+Je ne veux point, Nérine, éclater en injures,
+Ni rappeler ici ses serments, ses parjures :
+Ainsi que mon amour, je calme mon courroux.
+
+-*who_nerine
+Si vous saviez, Monsieur, ce que j'ai fait pour vous !
+
+-*who_dorante
+Tiens, reçois cette bague, et dis à ta maîtresse
+Que, malgré ses dédains, elle aura ma tendresse,
+Et que la voir heureuse est mon plus grand bonheur.
+
+-*who_nerine
+Ah ! Ah ! Je n'en puis plus ; vous me fendez le coeur.
+
+**** *book_ *id_III02 *act_III *date_1696
+
+-*who_hector
+Oui, monsieur, Angélique épousera Valère ;
+Ils ont signé la paix.
+
+-*who_geronte
+      Tant mieux.
+      Bonjour, mon frère.
+Qu'est-ce ? Eh bien ! Qu'avez-vous ? Vous êtes tout changé !
+Allons, gai. Vous a-t-on donné votre congé ?
+
+-*who_dorante
+Vous êtes bien instruit des chagrins qu'on me donne !
+On ne me verra point violenter personne ;
+Et quand je perds un coeur qui cherche à s'éloigner,
+Mon frère, je prétends moins perdre que gagner.
+
+-*who_geronte
+Voilà les sentiments d'un héros de Cassandre.
+Entre nous, vous aviez fort grand tort de prétendre
+Que sur votre neveu vous pussiez l'emporter.
+
+-*who_dorante
+Non ; je ne sus jamais jusque-là me flatter.
+La jeunesse toujours eut des droits sur les belles ;
+L'amour est un enfant qui badine avec elles :
+Et quand, à certain âge, on veut se faire aimer,
+C'est un soin indiscret qu'on devrait réprimer.
+
+-*who_geronte
+Je suis, en vérité, ravi de vous entendre ;
+Et vous prenez la chose ainsi qu'il la faut prendre.
+
+-*who_nerine
+Si l'on m'en avait cru, tout n'en irait que mieux.
+
+-*who_dorante
+Ma présence est assez inutile en ces lieux.
+Je vais de mon amour tâcher à me défaire.
+
+-*who_geronte
+Allez, consolez-vous ; c'est fort bien fait, mon frère.
+Adieu.
+
+**** *book_ *id_III03 *act_III *date_1696
+
+-*who_geronte
+      Le pauvre enfant ! Son sort me fait pitié.
+
+-*who_nerine
+J'en ai le coeur saisi.
+
+-*who_hector
+      Moi, j'en pleure à moitié.
+Le pauvre homme !
+
+**** *book_ *id_III04 *act_III *date_1696
+
+-*who_hector
+      Voilà, Monsieur, un petit rôle
+Des dettes de mon maître. Il vous tient sa parole,
+Comme vous le voyez, et croit qu'en tout ceci
+Vous voudrez bien, Monsieur, tenir la vôtre aussi.
+
+-*who_geronte
+Çà, voyons, expédie au plus tôt ton affaire.
+
+-*who_hector
+J'aurai fait en deux mots. L'honnête homme de père !
+Ah ! Qu'à notre secours à propos vous venez !
+Encore un jour plus tard, nous étions ruinés.
+
+-*who_geronte
+Je le crois.
+
+-*who_hector
+      N'allez pas sur les points vous débattre ;
+Foi d'honnête garçon, je n'en puis rien rabattre :
+Les choses sont, Monsieur, tout au plus juste prix ;
+De plus je vous promets que je n'ai rien omis.
+
+-*who_geronte
+Finis donc.
+
+-*who_hector
+      Il faut bien se mettre sur ses gardes.
+"Mémoire juste et bref de nos dettes criardes,
+Que Mathurin Géronte aurait tantôt promis,
+Et promet maintenant de payer pour son fils."
+
+-*who_geronte
+Que je les paie ou non, ce n'est pas ton affaire.
+Lis toujours.
+
+-*who_hector
+      C'est, Monsieur, ce que je m'en vais faire.
+"Item, doit à Richard cinq cents livres dix sous,
+Pour gages de cinq ans, frais, mises, loyaux-coûts."
+
+-*who_geronte
+Quel est ce Richard ?
+
+-*who_hector
+      Moi, fort à votre service.
+Ce nom n'étant point fait du tout à la propice
+D'un valet de joueur ; mon maître de nouveau
+M'a mis celui d'Hector, du valet de carreau.
+
+-*who_geronte
+Le beau nom ! Il devait appeler Angélique
+Pallas, du nom connu de la dame de pique.
+
+-*who_hector
+"Secondement, il doit à Jérémie Aaron,
+Usurier de métier, juif de religion... "
+
+-*who_geronte
+Tout beau, n'embrouillons point, s'il vous plaît, les affaires ;
+Je ne veux point payer les dettes usuraires.
+
+-*who_hector
+Eh bien ! Soit. "Plus, il doit à maints particuliers,
+Ou quidams, dont les noms, qualités et métiers
+Sont déduits plus au long avec les parties,
+Ès assignations dont je tiens les copies,
+Dont tous lesdits quidams, ou du moins peu s'en faut,
+Ont obtenu déjà sentence par défaut,
+La somme de dix mille une livre, une obole,
+Pour l'avoir, sans relâche, un an, sur sa parole,
+Habillé, voituré, coiffé, chaussé, ganté,
+Alimenté, rasé, désaltéré, porté."
+
+-*who_geronte
+Désaltéré, porté ! Que le diable t'emporte,
+Et ton maudit mémoire écrit de telle sorte.
+
+-*who_hector
+Si vous ne m'en croyez, demain, pour vous trouver,
+J'enverrai les quidams tous à votre lever.
+
+-*who_geronte
+La belle cour !
+
+-*who_hector
+      "De plus, à Margot De La Plante,
+Personne de ses droits usante et jouissante,
+Est dû loyalement deux cent cinquante écus
+Pour ses appointements de deux quartiers échus."
+
+-*who_geronte
+Quelle est cette Margot ?
+
+-*who_hector
+      Monsieur... c'est une fille...
+Chez laquelle mon maître... elle est vraiment gentille.
+
+-*who_geronte
+Deux cent cinquante écus !
+
+-*who_hector
+      Ce n'est, ma foi, pas cher :
+Demandez ; c'est, Monsieur, un prix fait en hiver.
+
+-*who_geronte
+Et tu prétends, bourreau ? ...
+
+-*who_hector
+      Monsieur, point d'invectives.
+Voici le contenu de nos dettes actives :
+Et vous allez bien voir que le compte suivant,
+Payé fidèlement, se monte à presque autant.
+
+-*who_geronte
+Voyons.
+
+-*who_hector
+      "Premièrement, Isaac De La Serre... "
+Il est connu de vous.
+
+-*who_geronte
+      Et de toute la terre :
+C'est ce négociant, ce banquier si fameux.
+
+-*who_hector
+Nous ne vous donnons pas de ces effets véreux ;
+Cela sent comme baume. Or donc ce De La Serre,
+Si bien connu de vous et de toute la terre,
+Ne nous doit rien.
+
+-*who_geronte
+      Comment !
+
+-*who_hector
+      Mais un de ses parents,
+Mort aux champs de Fleurus, nous doit dix mille francs.
+
+-*who_geronte
+Voilà certainement un effet fort bizarre !
+
+-*who_hector
+Oh ! S'il n'était pas mort, c'était de l'or en barre.
+"Plus, à mon maître est dû, du chevalier Fijac,
+Les droits hypothéqués sur un tour de trictrac."
+
+-*who_geronte
+Que dis-tu ?
+
+-*who_hector
+      La partie est de deux cents pistoles ;
+C'est une dupe ; il fait en un tour vingt écoles :
+Il ne faut plus qu'un coup.
+
+-*who_geronte
+      Tiens, maraud, le voilà,
+Pour m'offrir un mémoire égal à celui-là.
+Va porter cet argent à celui qui t'envoie.
+
+-*who_hector
+Il ne voudra jamais prendre cette monnaie.
+
+-*who_geronte
+Impertinent maraud ! Va, je t'apprendrai bien
+Avec ton trictrac...
+
+-*who_hector
+      Il a dix trous à rien.
+
+**** *book_ *id_III05 *act_III *date_1696
+
+-*who_hector
+Sa main est à frapper, non à donner, légère ;
+Et mon maître a bien fait de faire ailleurs affaire.
+
+**** *book_ *id_III06 *act_III *date_1696
+
+-*who_hector
+Mais le voici qui vient poussé d'un heureux vent :
+Il a les yeux sereins et l'accueil avenant.
+Par votre ordre, Monsieur, j'ai vu Monsieur Géronte,
+Qui de notre mémoire a fait fort peu de compte :
+Sa monnaie est frappée avec un vilain coin ;
+Et de pareil argent nous n'avons pas besoin.
+J'ai vu, chemin faisant, aussi Monsieur Dorante :
+Morbleu ! Qu'il est fâché !
+
+-*who_valere
+      Mille deux cent cinquante.
+
+-*who_hector
+La flotte est arrivée avec les galions ;
+Cela va diablement hausser nos actions.
+J'ai vu pareillement, par votre ordre, Angélique ;
+Elle m'a dit...
+
+-*who_valere
+      Morbleu ! Ce dernier coup me pique ;
+Sans les cruels revers de deux coups inouis,
+J'aurais encor gagné plus de deux cents louis.
+
+-*who_hector
+Cette fille, Monsieur, de votre amour est folle.
+
+-*who_valere
+Damon m'en doit encor deux cents sur sa parole.
+
+-*who_hector
+Monsieur, écoutez-moi ; calmez un peu vos sens ;
+Je parle d'Angélique, et depuis fort longtemps.
+
+-*who_valere
+Ah ! D'Angélique ? Eh bien ! Comment suis-je avec elle ?
+
+-*who_hector
+On n'y peut être mieux. Ah ! Monsieur, qu'elle est belle !
+Et que j'ai de plaisir à vous voir raccroché !
+
+-*who_valere
+À te dire le vrai, je n'en suis pas fâché.
+
+-*who_hector
+Comment ! Quelle froideur s'empare de votre âme !
+Quelle glace ! Tantôt vous étiez tout de flamme.
+Ai-je tort quand je dis que l'argent de retour
+Vous fait faire toujours banqueroute à l'amour ?
+Vous vous sentez en fonds, ergo plus de maîtresse.
+
+-*who_valere
+Ah ! Juge mieux, Hector, de l'amour qui me presse.
+J'aime autant que jamais ; mais sur ma passion
+J'ai fait, en te quittant, quelque réflexion.
+Je ne suis point du tout né pour le mariage.
+Des parents, des enfants, une femme, un ménage,
+Tout cela me fait peur. J'aime la liberté.
+
+-*who_hector
+Et le libertinage.
+
+-*who_valere
+      Hector, en vérité,
+Il n'est point dans le monde un état plus aimable
+Que celui d'un joueur : sa vie est agréable ;
+Ses jours sont enchaînés par des plaisirs nouveaux ;
+Comédie, opéra, bonne chère, cadeaux :
+Il traîne en tous les lieux la joie et l'abondance :
+On voit régner sur lui l'air de magnificence ;
+Tabatières, bijoux : sa poche est un trésor :
+Sous ses heureuses mains le cuivre devient or.
+
+-*who_hector
+Et l'or devient à rien.
+
+-*who_valere
+      Chaque jour mille belles
+Lui font la cour par lettre, et l'invitent chez elles :
+La porte, à son aspect, s'ouvre à deux grands battants.
+Là, vous trouvez toujours des gens divertissants ;
+Des femmes qui jamais n'ont pu fermer la bouche,
+Et qui sur le prochain vous tirent à cartouche ;
+Des oisifs de métier, et qui toujours sur eux
+Portent de tout Paris le lardon scandaleux ;
+Des Lucrèces du temps, là, de ces filles veuves,
+Qui veulent imposer et se donner pour neuves ;
+De vieux seigneurs toujours prêts à vous cajoler ;
+Des plaisants qui font rire avant que de parler.
+Plus agréablement peut-on passer la vie ?
+
+-*who_hector
+D'accord. Mais quand on perd, tout cela vous ennuie.
+
+-*who_valere
+Le jeu rassemble tout ; il unit à la fois
+Le turbulent Marquis, le paisible bourgeois.
+La femme du banquier, dorée et triomphante,
+Coupe orgueilleusement la duchesse indigente.
+Là, sans distinction, on voit aller de pair
+Le laquais d'un commis avec un duc et pair ;
+Et quoi qu'un sort jaloux nous ait fait d'injustices,
+De sa naissance ainsi l'on venge les caprices.
+
+-*who_hector
+À ce qu'on peut juger de ce discours charmant,
+Vous voilà donc en grâce avec l'argent comptant.
+Tant mieux. Pour se conduire en bonne politique,
+Il faudrait retirer le portrait d'Angélique.
+
+-*who_valere
+Nous verrons.
+
+-*who_hector
+      Vous savez...
+
+-*who_valere
+      Je dois jouer tantôt.
+
+-*who_hector
+Tirez-en mille écus.
+
+-*who_valere
+      Oh ! Non, c'est un dépôt...
+
+-*who_hector
+Pour mettre quelque chose à l'abri des orages,
+S'il vous plaisait du moins de me payer mes gages.
+
+-*who_valere
+Quoi ! Je te dois ?
+
+-*who_hector
+      Depuis que je suis avec vous,
+Je n'ai pas, en cinq ans, encor reçu cinq sous.
+
+-*who_valere
+Mon père te paiera ; l'article est au mémoire.
+
+-*who_hector
+Votre père ? Ah ! Monsieur, c'est une mer à boire.
+Son argent n'a point cours, quoiqu'il soit bien de poids.
+
+-*who_valere
+Va, j'examinerai ton compte une autre fois.
+J'entends venir quelqu'un.
+
+-*who_hector
+      Je vois votre sellière.
+Elle a flairé l'argent.
+
+-*who_valere
+      Il faut nous en défaire.
+
+-*who_hector
+Et Monsieur Galonier, votre honnête tailleur.
+
+-*who_valere
+Quel contre-temps !
+
+**** *book_ *id_III07 *act_III *date_1696
+
+-*who_valere
+      Je suis votre humble serviteur.
+Bonjour, Madame Adam. Quelle joie est la mienne !
+Vous voir ! C'est du plus loin, parbleu, qu'il me souvienne.
+
+-*who_mme_adam
+Je viens pourtant ici souvent faire ma cour ;
+Mais vous jouez la nuit, et vous dormez le jour.
+
+-*who_valere
+C'est pour cette calèche à velours à ramage ?
+
+-*who_mme_adam
+Oui, s'il vous plaît.
+
+-*who_valere
+      Je suis fort content de l'ouvrage ;
+Il faut vous la payer...
+      Songe par quel moyen
+Tu pourras me tirer de ce triste entretien.
+Vous, Monsieur Galonier, quel sujet vous amène ?
+
+-*who_m_galonier
+Je viens vous demander...
+
+-*who_hector
+      Vous prenez trop de peine.
+
+-*who_m_galonier
+Vous...
+
+-*who_hector
+      Vous faites toujours mes habits trop étroits.
+
+-*who_m_galonier
+Si...
+
+-*who_hector
+      Ma culotte s'use en deux ou trois endroits.
+
+-*who_m_galonier
+Je...
+
+-*who_hector
+      Vous cousez si mal...
+
+-*who_mme_adam
+      Nous marions ma fille.
+
+-*who_valere
+Quoi ! Vous la mariez ? Elle est vive et gentille ;
+Et son époux futur doit en être content.
+
+-*who_mme_adam
+Nous aurions grand besoin d'un peu d'argent comptant.
+
+-*who_valere
+Je veux, Madame Adam, mourir à votre vue,
+Si j'ai...
+
+-*who_mme_adam
+      Depuis longtemps cette somme m'est due.
+
+-*who_valere
+Que je sois en maraud, déshonoré cent fois,
+Si l'on m'a vu toucher un sou depuis six mois !
+
+-*who_hector
+Oui, nous avons tous deux, par pitié profonde,
+Fait voeu de pauvreté : nous renonçons au monde.
+
+-*who_m_galonier
+Que votre coeur pour moi se laisse un peu toucher !
+Notre femme est, Monsieur, sur le point d'accoucher.
+Donnez-moi cent écus sur et tant moins des dettes.
+
+-*who_hector
+Et de quoi diable aussi, du métier dont vous êtes,
+Vous avisez-vous là de faire des enfants ?
+Faites-moi des habits.
+
+-*who_m_galonier
+      Seulement deux cents francs.
+
+-*who_valere
+Et mais... si j'en avais... comptez que dans la vie
+Personne de payer n'eut jamais tant d'envie.
+Demandez...
+
+-*who_hector
+      S'il avait quelques deniers comptants,
+Ne me paierait-il pas mes gages de cinq ans ?
+Votre dette n'est pas meilleure que la mienne.
+
+-*who_mme_adam
+Mais quand faudra-t-il donc, Monsieur, que je revienne ?
+
+-*who_valere
+Mais... quand il vous plaira... dès demain ; que sait-on ?
+
+-*who_hector
+Je vous avertirai quand il y fera bon.
+
+-*who_m_galonier
+Pour moi, je ne sors point d'ici qu'on ne m'en chasse.
+
+-*who_hector
+Non, je ne vis jamais d'animal si tenace.
+
+-*who_valere
+Écoutez, je vous dis un secret qui, je crois,
+Vous plaira dans la suite autant et plus qu'à moi.
+Je vais me marier tout-à-fait : et mon père
+Avec mes créanciers doit me tirer d'affaire.
+
+-*who_hector
+Pour le coup...
+
+-*who_mme_adam
+      Il me faut de l'argent cependant.
+
+-*who_hector
+Cette raison vaut mieux que de l'argent comptant.
+Montrez-nous les talons.
+
+-*who_m_galonier
+      Monsieur, ce mariage
+Se fera-t-il bientôt ?
+
+-*who_hector
+      Tout au plus tôt. J'enrage.
+
+-*who_mme_adam
+Sera-ce dans ce jour ?
+
+-*who_hector
+      Nous l'espérons. Adieu.
+Sortez. Nous attendons la future en ce lieu :
+Si l'on vous trouve ici, vous gâterez l'affaire.
+
+-*who_mme_adam
+Vous me promettez donc ? ...
+
+-*who_hector
+      Allez, laissez-moi faire.
+
+-*who_mme_adam_m_galonier
+Mais, monsieur...
+
+-*who_hector
+      Que de bruit ! Oh ! Parbleu, détalez.
+
+**** *book_ *id_III08 *act_III *date_1696
+
+-*who_hector
+Voilà des créanciers assez bien régalés.
+Vous devriez pourtant, en fonds comme vous êtes...
+
+-*who_valere
+Rien ne porte malheur comme payer ses dettes.
+
+-*who_hector
+Ah ! Je ne dois donc plus m'étonner désormais
+Si tant d'honnêtes gens ne les payent jamais.
+
+**** *book_ *id_III09 *act_III *date_1696
+
+-*who_hector
+Mais voici le Marquis, ce héros de tendresse.
+
+-*who_valere
+C'est là le soupirant ?
+
+-*who_hector
+      Oui, de notre comtesse.
+
+-*who_le_marquis
+Que ma chaise se tienne à deux cents pas d'ici.
+Et vous, mes trois laquais, éloignez-vous aussi :
+Je suis incognito .
+
+**** *book_ *id_III10 *act_III *date_1696
+
+-*who_hector
+      Que prétend-il donc faire ?
+
+-*who_le_marquis
+N'est-ce pas vous, Monsieur, qui vous nommez Valère ?
+
+-*who_valere
+Oui, monsieur ; c'est ainsi qu'on m'a toujours nommé.
+
+-*who_le_marquis
+Jusques au fond du coeur j'en suis, parbleu, charmé.
+Faites que ce valet à l'écart se retire.
+
+-*who_valere
+Va-t'en.
+
+-*who_hector
+      Monsieur...
+
+-*who_valere
+      Va-t'en : faut-il te le redire ?
+
+**** *book_ *id_III11 *act_III *date_1696
+
+-*who_le_marquis
+Savez-vous qui je suis ?
+
+-*who_valere
+      Je n'ai pas cet honneur.
+
+-*who_le_marquis
+Courage ; allons, Marquis, montre de la vigueur : il craint.
+Je suis pourtant fort connu dans la ville ;
+Et, si vous l'ignorez, sachez que je faufile
+Avec ducs, archiducs, princes, seigneurs, Marquis,
+Et tout ce que la cour offre de plus exquis ;
+Petits-maîtres de robe à courte et longue queue.
+J'évente les beautés et leur plais d'une lieue.
+Je m'érige aux repas en maître architriclin ;
+Je suis le chansonnier et l'âme du festin.
+Je suis parfait en tout. Ma valeur est connue ;
+Je ne me bats jamais qu'aussitôt je ne tue :
+De cent jolis combats je me suis démêlé ;
+J'ai la botte trompeuse et le jeu très brouillé.
+Mes aïeux sont connus ; ma race est ancienne ;
+Mon trisaïeul était vice-bailli du Maine.
+J'ai le vol du chapon : ainsi, dès le berceau,
+Vous voyez que je suis gentilhomme manceau.
+
+-*who_valere
+On le voit à votre air.
+
+-*who_le_marquis
+      J'ai, sur certaine femme
+Jeté, sans y songer, quelque amoureuse flamme.
+J'ai trouvé la matière assez sèche de soi ;
+Mais la belle est tombée amoureuse de moi.
+Vous le croyez sans peine : on est fait d'un modèle,
+À prétendre hypothèque, à fort bon droit, sur elle ;
+Et vouloir faire obstacle à de telles amours,
+C'est prétendre arrêter un torrent dans son cours.
+
+-*who_valere
+Je ne crois pas,Monsieur, qu'on fût si téméraire.
+
+-*who_le_marquis
+On m'assure pourtant que vous le voulez faire.
+
+-*who_valere
+Moi ?
+
+-*who_le_marquis
+      Que, sans respecter ni rang, ni qualité,
+Vous nourrissez dans l'âme une velléité
+De me barrer son coeur.
+
+-*who_valere
+      C'est pure médisance ;
+Je sais ce qu'entre nous le sort mit de distance.
+
+-*who_le_marquis
+Il tremble.
+      Savez-vous, Monsieur du lansquenet,
+Que j'ai de quoi rabattre ici votre caquet ?
+
+-*who_valere
+Je le sais.
+
+-*who_le_marquis
+      Vous croyez, en votre humeur caustique,
+En agir avec moi comme avec l'as de pique.
+
+-*who_valere
+Moi, monsieur ?
+
+-*who_le_marquis
+      Il me craint.
+      Vous faites le plongeon,
+Petit noble à nasarde, enté sur sauvageon.
+Je crois qu'il a du coeur.
+      Je retiens ma colère :
+Mais...
+
+-*who_valere
+      Vous le voulez donc ? Il faut vous satisfaire.
+
+-*who_le_marquis
+Bon ! Bon ! Je ris.
+
+-*who_valere
+      Vos ris ne sont point de mon goût,
+Et vos airs insolents ne plaisent point du tout.
+Vous êtes un faquin.
+
+-*who_le_marquis
+      Cela vous plaît à dire.
+
+-*who_valere
+Un fat, un malheureux.
+
+-*who_le_marquis
+      Monsieur, vous voulez rire.
+
+-*who_valere
+Il faut voir sur-le-champ si les vice-baillis
+Sont si francs du collier que vous l'avez promis.
+
+-*who_le_marquis
+Mais faut-il nous brouiller pour un sot point de gloire ?
+
+-*who_valere
+Oh ! Le vin est tiré, monsieur ; il le faut boire.
+
+-*who_le_marquis
+Ah ! Ah ! Je suis blessé.
+
+**** *book_ *id_III12 *act_III *date_1696
+
+-*who_hector
+      Quels desseins emportés ? ...
+
+-*who_le_marquis
+Ah ! C'est trop endurer.
+
+-*who_hector
+      Ah ! Monsieur, arrêtez.
+
+-*who_le_marquis
+Laissez-moi donc.
+
+-*who_hector
+      Tout beau !
+
+-*who_valere
+      Cesse de le contraindre :
+Va, c'est un malheureux qui n'est pas bien à craindre.
+
+-*who_hector
+Quel sujet ? ...
+
+-*who_le_marquis
+      Votre maître a certains petits airs...
+Et prend mal à propos les choses de travers.
+On vient civilement pour s'éclaircir d'un doute,
+Et monsieur prend la chèvre ; il met tout en déroute,
+Fait le petit mutin. Oh ! Cela n'est pas bien.
+
+-*who_hector
+Mais encor quel sujet ?
+
+-*who_le_marquis
+      Quel sujet ? Moins que rien.
+L'amour de la Comtesse auprès de lui m'appelle...
+
+-*who_hector
+Ah ! Diable, c'est avoir une vieille querelle.
+Quoi ! Vous osez, monsieur, d'un coeur ambitieux,
+Sur notre patrimoine ainsi jeter les yeux !
+Attaquer la Comtesse, et nous le dire encore !
+
+-*who_le_marquis
+Bon ! Je ne l'aime pas ; c'est elle qui m'adore.
+
+-*who_valere
+Oh ! Vous pouvez l'aimer autant qu'il vous plaira ;
+C'est un bien que jamais on ne vous enviera :
+Vous êtes en effet un amant digne d'elle :
+Je vous cède les droits que j'ai sur cette belle.
+
+-*who_hector
+Oui, les droits sur le coeur ; mais sur la bourse,
+Non.
+
+-*who_le_marquis
+      Je le savais bien, moi, que j'en aurais raison ;
+Et voilà comme il faut se tirer d'une affaire.
+
+-*who_hector
+N'auriez-vous point besoin d'un peu d'eau vulnéraire ?
+
+-*who_le_marquis
+Je suis ravi de voir que vous ayez du coeur,
+Et que le tout se soit passé dans la douceur.
+Serviteur. Vous et moi, nous en valons deux autres.
+Je suis de vos amis.
+
+-*who_valere
+      Je ne suis pas des vôtres.
+
+**** *book_ *id_III13 *act_III *date_1696
+
+-*who_valere
+Voilà donc ce Marquis, cet homme dangereux ?
+
+-*who_hector
+Oui, monsieur, le voilà.
+
+-*who_valere
+      C'est un grand malheureux.
+Je crains que mes joueurs ne soient sortis du gîte ;
+Ils ont trop attendu ; j'y retourne au plus vite.
+J'ai dans le coeur, Hector, un bon pressentiment ;
+Et je dois aujourd'hui gagner, assurément.
+
+-*who_hector
+Votre coeur est, Monsieur, toujours insatiable.
+Ces inspirations viennent souvent du diable ;
+Je vous en avertis, c'est un futé matois.
+
+-*who_valere
+Elles m'ont réussi déjà plus d'une fois.
+
+-*who_hector
+Tant va la cruche à l'eau...
+
+-*who_valere
+      Paix ! Tu veux contredire :
+À mon âge, crois-tu m'apprendre à me conduire ?
+
+-*who_hector
+Vous ne me parlez point, Monsieur, de votre amour.
+
+-*who_valere
+Non.
+
+**** *book_ *id_III14 *act_III *date_1696
+
+-*who_hector
+      Il m'en parlera peut-être à son retour.
+
+**** *book_ *id_IV01 *act_IV *date_1696
+
+-*who_nerine
+En vain vous m'opposez une indigne tendresse,
+Je n'ai vu de mes jours avoir tant de mollesse.
+Je ne puis sur ce point m'accorder avec vous.
+Valère n'est point fait pour être votre époux ;
+Il ressent pour le jeu des fureurs nonpareilles,
+Et cet homme perdra quelque jour ses oreilles.
+
+-*who_angelique
+Le temps le guérira de cet aveuglement.
+
+-*who_nerine
+Le temps augmente encore un tel attachement.
+
+-*who_angelique
+Ne combats plus, Nérine, une ardeur qui m'enchante ;
+Tu prendrais pour l'éteindre une peine impuissante.
+Il est des noeuds formés sous des astres malins,
+Qu'on chérit malgré soi. Je cède à mes destins.
+La raison, les conseils ne peuvent m'en distraire,
+Je vois le bon parti ; mais je prends le contraire.
+
+-*who_nerine
+Eh bien ! Madame, soit ; contentez votre ardeur,
+J'y consens. Acceptez pour époux un joueur,
+Qui, pour porter au jeu son tribut volontaire,
+Vous laissera manquer même du nécessaire,
+Toujours triste ou fougueux, pestant contre le jeu,
+Ou d'avoir perdu trop, ou bien gagné trop peu.
+Quel charme qu'un époux qui, flattant sa manie,
+Fait vingt mauvais marchés tous les jours de sa vie ;
+Prend pour argent comptant, d'un usurier fripon,
+Des singes, des pavés, un chantier, du charbon ;
+Qu'on voit à chaque instant prêt à faire querelle
+Aux bijoux de sa femme, ou bien à sa vaisselle,
+Qui va, revient, retourne, et s'use à voyager
+Chez l'usurier, bien plus qu'à donner à manger,
+Quand, après quelque temps, d'intérêts surchargée,
+Il la laisse où d'abord elle fut engagée,
+Et prend, pour remplacer ses meubles écartés,
+Des diamants du temple, et des plats argentés ;
+Tant que, dans sa fureur n'ayant plus rien à vendre,
+Empruntant tous les jours, et ne pouvant plus rendre,
+Sa femme signe enfin, et voit en moins d'un an,
+Ses terres en décret, et son lit à l'encan !
+
+-*who_angelique
+Je ne veux point ici m'affliger par avance ;
+L'évènement souvent confond la prévoyance.
+Il quittera le jeu.
+
+-*who_nerine
+      Quiconque aime, aimera ;
+Et quiconque a joué, toujours joue, et jouera.
+Quelque docteur l'a dit, ce n'est point menterie.
+Et, si vous le voulez, contre vous je parie
+Tout ce que je possède, et mes gages d'un an,
+Qu'à l'heure que je parle il est dans un brelan.
+
+**** *book_ *id_IV02 *act_IV *date_1696
+
+-*who_nerine
+Nous le saurons d'hector qu'ici je vois paroître.
+
+-*who_angelique
+Te voilà bien soufflant. En quels lieux est ton maître ?
+
+-*who_hector
+En quelque lieu qu'il soit, je réponds de son coeur ;
+Il sent toujours pour vous la plus sincère ardeur.
+
+-*who_nerine
+Ce n'est point là, maraud, ce que l'on te demande.
+
+-*who_hector
+Maraud ! Je vois qu'ici je suis de contrebande.
+
+-*who_nerine
+Non, demeure un moment.
+
+-*who_hector
+      Le temps me presse. Adieu.
+
+-*who_nerine
+Tout doux ! N'est-il pas vrai qu'il est en quelque lieu
+Où, courant le hasard...
+
+-*who_hector
+      Parlez mieux, je vous prie.
+Mon maître n'a hanté de tels lieux de sa vie.
+
+-*who_angelique
+Tiens, voilà dix louis. Ne me mens pas ; dis-moi
+S'il n'est pas vrai qu'il joue à présent.
+
+-*who_hector
+      Oh ! Ma foi,
+Il est bien revenu de cette folle rage,
+Et n'aura pas de goût pour le jeu davantage.
+
+-*who_angelique
+Avec tes faux soupçons, Nérine, eh bien ! Tu vois.
+
+-*who_hector
+Il s'en donne aujourd'hui pour la dernière fois.
+
+-*who_angelique
+Il jouerait donc ?
+
+-*who_hector
+      Il joue, à dire vrai, Madame ;
+Mais ce n'est proprement que par noblesse d'âme :
+On voit qu'il se défait de son argent exprès,
+Pour n'être plus touché que de vos seuls attraits.
+
+-*who_nerine
+Eh bien ! Ai-je raison ?
+
+-*who_hector
+      Son mauvais sort, vous dis-je,
+Mieux que tous vos discours aujourd'hui le corrige.
+
+-*who_angelique
+Quoi ! ...
+
+-*who_hector
+      N'admirez-vous pas cette fidélité ?
+Perdre exprès son argent pour n'être plus tenté !
+Il sait que l'homme est faible, il se met en défense.
+Pour moi, je suis charmé de ce trait de prudence.
+
+-*who_angelique
+Quoi ! Ton maître jouerait au mépris d'un serment ?
+
+-*who_hector
+C'est la dernière fois, Madame, absolument.
+On le peut voir encor sur le champ de bataille ;
+Il frappe à droite, à gauche, et d'estoc et de taille,
+Il se défend, Madame, encor comme un lion.
+Je l'ai vu, dans l'effort de la convulsion,
+Maudissant les hasards d'un combat trop funeste :
+De sa bourse expirante il ramassait le reste ;
+Et paraissant encor plus grand dans son malheur,
+Il vendait cher son sang et sa vie au vainqueur.
+
+-*who_nerine
+Pourquoi l'as-tu quitté dans cette décadence ?
+
+-*who_hector
+Comme un aide-de-camp, je viens en diligence
+Appeler du secours : il faut faire approcher
+Notre corps de réserve, et je m'en vais chercher
+Deux cents louis qu'il a laissés dans sa cassette.
+
+-*who_nerine
+Eh bien ! Madame, eh bien ! êtes-vous satisfaite ?
+
+-*who_hector
+Les partis sont aux mains ; à deux pas on se bat,
+Et les moments sont chers en ce jour de combat.
+Nous allons nous servir de nos armes dernières,
+Et des troupes qu'au jeu l'on nomme auxiliaires.
+
+**** *book_ *id_IV03 *act_IV *date_1696
+
+-*who_nerine
+Vous l'entendez, Madame ! Après cette action,
+Pour Valère armez-vous de belle passion ;
+Cédez à votre étoile ; épousez-le. J'enrage
+Lorsque j'entends tenir ce discours à votre âge.
+Mais Dorante qui vient...
+
+-*who_angelique
+      Ah ! Sortons de ces lieux.
+Je ne puis me résoudre à paroître à ses yeux.
+
+**** *book_ *id_IV04 *act_IV *date_1696
+
+-*who_dorante
+Hé quoi ! Vous me fuyez ? Daignez au moins
+M'apprendre...
+
+**** *book_ *id_IV05 *act_IV *date_1696
+
+-*who_dorante
+      Et toi, Nérine, aussi tu ne veux pas m'entendre ?
+Veux-tu de ta maîtresse imiter la rigueur ?
+
+-*who_nerine
+Non, monsieur ; je vous sers toujours avec vigueur.
+Laissez-moi faire.
+
+**** *book_ *id_IV06 *act_IV *date_1696
+
+-*who_dorante
+      Ô ciel ! Ce trait me désespère.
+Je veux approfondir un si cruel mystère.
+
+**** *book_ *id_IV07 *act_IV *date_1696
+
+-*who_la_comtesse
+Où courez-vous, Dorante ?
+
+-*who_dorante
+      Ô contre-temps fâcheux !
+Cherchons à l'éviter.
+
+-*who_la_comtesse
+      Demeurez en ces lieux,
+J'ai deux mots à vous dire ; et votre âme contente...
+Mais non, retirez-vous ; un homme m'épouvante.
+L'ombre d'un tête-à-tête, et dedans et dehors,
+Me fait, même en été, frissonner tout le corps.
+
+-*who_dorante
+J'obéis...
+
+-*who_la_comtesse
+      Revenez. Quelque espoir qui vous guide,
+Le respect à l'amour saura servir de bride,
+N'est-il pas vrai ?
+
+-*who_dorante
+      Madame...
+
+-*who_la_comtesse
+      En ce temps, les amants
+Près du sexe d'abord sont si gesticulants...
+Quoiqu'on soit vertueuse, il faut telle paraître ;
+Et cela quelquefois coûte bien plus qu'à l'être.
+
+-*who_dorante
+Madame...
+
+-*who_la_comtesse
+      En vérité, j'ai le coeur douloureux
+Qu'Angélique si mal reconnaisse vos feux :
+Et si je n'avais pas une vertu sévère,
+Qui me fait renfermer dans un veuvage austère,
+Je pourrais bien... mais non, je ne puis vous ouïr ;
+Si vous continuez, je vais m'évanouir.
+
+-*who_dorante
+Madame...
+
+-*who_la_comtesse
+      Vos discours, votre air soumis et tendre
+Ne feront que m'aigrir, au lieu de me surprendre.
+Bannissons la tendresse ; il faut la supprimer.
+Je ne puis, en un mot, me résoudre d'aimer.
+
+-*who_dorante
+Madame, en vérité, je n'en ai nulle envie,
+Et veux bien avec vous n'en parler de ma vie.
+
+-*who_la_comtesse
+Voilà, je vous l'avoue, un fort sot compliment.
+Me trouvez-vous, Monsieur, femme à manquer d'amant ?
+J'ai mille adorateurs qui briguent ma conquête ;
+Et leur encens trop fort me fait mal à la tête.
+Ah ! Vous le prenez là sur un fort joli ton,
+En vérité !
+
+-*who_dorante
+      Madame...
+
+-*who_la_comtesse
+      Et je vous trouve bon !
+
+-*who_dorante
+Le respect...
+
+-*who_la_comtesse
+      Le respect est là mal en sa place ;
+Et l'on ne me dit point pareille chose en face.
+Si tous mes soupirants pouvaient me négliger,
+Je ne vous prendrais pas pour m'en dédommager.
+Du respect ! Du respect ! Ah ! Le plaisant visage !
+J'ai cru que vous pouviez l'inspirer à votre âge.
+Mais Monsieur le Marquis, qui paraît en ces lieux,
+Ne sera pas peut-être aussi respectueux.
+
+**** *book_ *id_IV08 *act_IV *date_1696
+
+-*who_la_comtesse
+Je suis au désespoir : je n'ai vu de ma vie
+Tant de relâchement dans la galanterie.
+Le Marquis vient ; il faut m'assurer un parti ;
+Et je n'en prétends pas avoir le démenti.
+
+**** *book_ *id_IV09 *act_IV *date_1696
+
+-*who_le_marquis
+À mon bonheur enfin, Madame, tout conspire :
+Vous êtes tout à moi.
+
+-*who_la_comtesse
+      Que voulez-vous donc dire,
+Marquis ?
+
+-*who_le_marquis
+      Que mon amour n'a plus de concurrent ;
+Que je suis et serai votre seul conquérant ;
+Que si vous ne battez au plus tôt la chamade,
+Il faudra vous résoudre à souffrir l'escalade.
+
+-*who_la_comtesse
+Moi ! Que l'on m'escalade ?
+
+-*who_le_marquis
+      Entre nous, sans façon,
+À Valère de près j'ai serré le bouton :
+Il m'a cédé les droits qu'il avait sur votre âme.
+
+-*who_la_comtesse
+Hé ! Le petit poltron !
+
+-*who_le_marquis
+      Oh ! Palsambleu, Madame,
+Il serait un Achille, un Pompée, un César,
+Je vous le conduirais poings liés à mon char.
+Il ne faut point avoir de mollesse en sa vie.
+Je suis vert.
+
+-*who_la_comtesse
+      Dans le fond, j'en ai l'âme ravie.
+Vous ne connaissez pas, Marquis, tout votre mal ;
+Vous avez à combattre encor plus d'un rival.
+
+-*who_le_marquis
+Le don de votre coeur couvre un peu trop de gloire
+Pour n'être que le prix d'une seule victoire.
+Vous n'avez qu'à nommer...
+
+-*who_la_comtesse
+      Non, non, je ne veux pas
+Vous exposer sans cesse à de nouveaux combats.
+
+-*who_le_marquis
+Est-ce ce financier de noblesse mineure,
+Qui s'est fait depuis peu gentilhomme en une heure ;
+Qui bâtit un palais sur lequel on a mis
+Dans un grand marbre noir, en or, l'hôtel Damis ;
+Lui qui voyait jadis imprimé sur sa porte,
+Bureau du pied-fourché, chair salée et chair morte ;
+Qui, dans mille portraits, expose ses aïeux,
+Son père, son grand-père, et les place en tous lieux,
+En sa maison de ville, en celle de campagne,
+Les fait venir tout droit des comtes de Champagne,
+Et de ceux de Poitou, d'autant que, pour certain,
+L'un s'appelait Champagne et l'autre Poitevin ?
+
+-*who_la_comtesse
+À vos transports jaloux un autre se dérobe.
+
+-*who_le_marquis
+C'est donc ce sénateur, cet Adonis de robe,
+Ce docteur en soupers, qui se tait au palais,
+Et sait sur des ragoûts prononcer des arrêts ;
+Qui juge sans appel sur un vin de Champagne,
+S'il est de Reims, du clos, ou bien de la montagne ;
+Qui, de livres de droit toujours débarrassé,
+Porte cuisine en poche, et poivre concassé.
+
+-*who_la_comtesse
+Non, Marquis, c'est Dorante ; et j'ai su m'en défaire.
+
+-*who_le_marquis
+Quoi ! Dorante ! Cet homme à maintien débonnaire,
+Ce croquant, qu'à l'instant je viens de voir sortir ?
+
+-*who_la_comtesse
+C'est lui-même.
+
+-*who_le_marquis
+      Eh ! Parbleu, vous deviez m'avertir ;
+Nous nous serions parlé sans sortir de la salle.
+Je ne suis pas méchant : mais, sans bruit, sans scandale,
+Sans lui donner le temps seulement de crier,
+Pour lui votre fenêtre eût servi d'escalier.
+
+-*who_la_comtesse
+Vous êtes turbulent. Si vous étiez plus sage,
+On pourrait...
+
+-*who_le_marquis
+      La sagesse est tout mon apanage.
+
+-*who_la_comtesse
+Quoiqu'un engagement m'ait toujours fait horreur,
+On aurait avec vous quelque affaire de coeur.
+
+-*who_le_marquis
+Ah ! Parbleu, volontiers. Vous me chatouillez l'âme.
+Par affaire de coeur, qu'entendez-vous, Madame ?
+
+-*who_la_comtesse
+Ce que vous entendez vous-même assurément.
+
+-*who_le_marquis
+Est-ce pour mariage, ou bien pour autrement ?
+
+-*who_la_comtesse
+Quoi ! Vous prétendriez, si j'avais la foiblesse...
+
+-*who_le_marquis
+Ah ! Ma foi ! L'on n'a plus tant de délicatesse ;
+On s'aime pour s'aimer tout autant que l'on peut
+Le mariage suit, et vient après, s'il veut.
+
+-*who_la_comtesse
+Je prétends que l'hymen soit le but de l'affaire,
+Et ne donne mon coeur que pardevant notaire.
+Je veux un bon contrat sur de bon parchemin,
+Et non pas un hymen qu'on rompt le lendemain.
+
+-*who_le_marquis
+Vous aimez chastement, je vous en félicite,
+Et je me donne à vous avec tout mon mérite,
+Quoique cent fois le jour on me mette à la main
+Des partis à fixer un empereur romain.
+
+-*who_la_comtesse
+Je crois que nos deux coeurs seront toujours fidèles.
+
+-*who_le_marquis
+Oh ! Parbleu, nous vivrons comme deux tourterelles.
+Pour vous porter, Madame, un coeur tout dégagé,
+Je vais dans ce moment signifier congé
+À des beautés sans nombre à qui mon coeur renonce ;
+Et vous aurez dans peu ma dernière réponse.
+
+-*who_la_comtesse
+Adieu. Fasse le ciel, Marquis, que dans ce jour
+Un hymen soit le sceau d'un si parfait amour !
+
+**** *book_ *id_IV10 *act_IV *date_1696
+
+-*who_le_marquis
+Eh bien ! Marquis, tu vois, tout rit à ton mérite ;
+Le rang, le coeur, le bien, tout pour toi sollicite :
+Tu dois être content de toi par tout pays :
+On le serait à moins. Allons, saute, Marquis.
+Quel bonheur est le tien ! Le ciel, à ta naissance,
+Répandit sur tes jours sa plus douce influence ;
+Tu fus, je crois, pétri par les mains de l'amour.
+N'es-tu pas fait à peindre ? Est-il homme à la cour
+Qui de la tête aux pieds porte meilleure mine,
+Une jambe mieux faite, une taille plus fine ?
+Et pour l'esprit, parbleu, tu l'as des plus exquis :
+Que te manque-t-il donc ? Allons, saute, Marquis.
+La nature, le ciel, l'amour et la fortune
+De tes prospérités font leur cause commune ;
+Tu soutiens ta valeur avec mille hauts faits ;
+Tu chantes, danses, ris, mieux qu'on ne fit jamais
+Les yeux à fleur de tête, et les dents assez belles.
+Jamais en ton chemin trouvas-tu de cruelles ?
+Près du sexe tu vins, tu vis, et tu vainquis ;
+Que ton sort est heureux ! Allons, saute, Marquis.
+
+**** *book_ *id_IV11 *act_IV *date_1696
+
+-*who_hector
+Attendez un moment. Quelle ardeur vous transporte ?
+Hé quoi ! Monsieur, tout seul vous sautez de la sorte !
+
+-*who_le_marquis
+C'est un pas de ballet que je veux repasser.
+
+-*who_hector
+Mon maître, qui me suit, vous le fera danser,
+Monsieur, si vous voulez.
+
+-*who_le_marquis
+      Que dis-tu là ? Ton maître !
+
+-*who_hector
+Oui, monsieur, à l'instant vous l'allez voir paraître.
+
+-*who_le_marquis
+En ces lieux je ne puis plus longtemps m'arrêter ;
+Pour cause, nous devons tous deux nous éviter.
+Quand ma verve me prend, je ne suis plus traitable ;
+Il est brutal, je suis emporté comme un diable ;
+Il manque de respect pour les vice-baillis,
+Et nous aurions du bruit. Allons, saute, Marquis.
+
+**** *book_ *id_IV12 *act_IV *date_1696
+
+-*who_hector
+Allons, saute, Marquis. Un tour de cette sorte
+Est volé d'un gascon, ou le diable m'emporte :
+Il vient de la Garonne. Oh ! Parbleu, dans ce temps
+Je n'aurais jamais cru les Marquis si prudents.
+Je ris : et cependant mon maître à l'agonie
+Cède en un lansquenet à son mauvais génie.
+
+**** *book_ *id_IV13 *act_IV *date_1696
+
+-*who_hector
+Le voici. Ses malheurs sur son front sont écrits :
+Il a tout le visage et l'air d'un premier pris.
+
+-*who_valere
+Non, l'enfer en courroux et toutes ses furies
+N'ont jamais exercé de telles barbaries.
+Je te loue, ô destin, de tes coups redoublés ;
+Je n'ai plus rien à perdre, et tes voeux sont comblés.
+Pour assouvir encor la fureur qui t'anime,
+Tu ne peux rien sur moi, cherche une autre victime.
+
+-*who_hector
+Il est sec.
+
+-*who_valere
+      De serpents mon coeur est dévoré ;
+Tout semble en un moment contre moi conjuré.
+Parle. As-tu jamais vu le sort et son caprice
+Accabler un mortel avec plus d'injustice,
+Le mieux assassiner ? Perdre tous les partis,
+Vingt fois le coupe-gorge, et toujours premier pris !
+Réponds-moi donc, bourreau.
+
+-*who_hector
+      Mais, ce n'est pas ma faute.
+
+-*who_valere
+As-tu vu de tes jours trahison aussi haute ?
+Sort cruel, ta malice a bien su triompher ;
+Et tu ne me flattais que pour mieux m'étouffer.
+Dans l'état où je suis, je puis tout entreprendre ;
+Confus, désespéré, je suis prêt à me pendre.
+
+-*who_hector
+Heureusement pour vous, vous n'avez pas un sou
+Dont vous puissiez, Monsieur, acheter un licou.
+Voudriez-vous souper ?
+
+-*who_valere
+      Que la foudre t'écrase.
+Ah ! Charmante Angélique, en l'ardeur qui m'embrase,
+À vos seules bontés je veux avoir recours !
+Je n'aimerai que vous ; m'aimeriez-vous toujours ?
+Mon coeur, dans les transports de sa fureur extrême,
+N'est point si malheureux, puisqu'enfin il vous aime.
+
+-*who_hector
+Notre bourse est à fond ; et, par un sort nouveau,
+Notre amour recommence à revenir sur l'eau.
+
+-*who_valere
+Calmons le désespoir où la fureur me livre.
+Approche ce fauteuil.
+      Va me chercher un livre.
+
+-*who_hector
+Quel livre voulez-vous lire en votre chagrin ?
+
+-*who_valere
+Celui qui te viendra le premier sous la main ;
+Il m'importe peu ; prends dans ma bibliothèque.
+
+-*who_hector
+Voilà Sénèque.
+
+-*who_valere
+      Lis.
+
+-*who_hector
+      Que je lise Sénèque ?
+
+-*who_valere
+Oui. Ne sais-tu pas lire ?
+
+-*who_hector
+      Eh ! Vous n'y pensez pas ;
+Je n'ai lu de mes jours que dans des almanachs.
+
+-*who_valere
+Ouvre, et lis au hasard.
+
+-*who_hector
+      Je vais le mettre en pièces.
+
+-*who_valere
+Lis donc.
+      "Chapitre six. Du mépris des richesses.
+La fortune offre aux yeux des brillants mensongers ;
+Tous les biens d'ici-bas sont faux et passagers ;
+Leur possession trouble, et leur perte est légère :
+Le sage gagne assez quand il peut s'en défaire."
+Lorsque Sénèque fit ce chapitre éloquent,
+Il avait, comme vous, perdu tout son argent.
+
+-*who_valere
+Vingt fois le premier pris ! Dans mon coeur il s'élève
+Des mouvements de rage. Allons, poursuis, achève.
+
+-*who_hector
+"L'or est comme une femme ; on n'y saurait toucher,
+Que le coeur, par amour, ne s'y laisse attacher.
+L'un et l'autre en ce temps, sitôt qu'on les manie,
+Sont deux grands rémoras pour la philosophie. "
+N'ayant plus de maîtresse, et n'ayant pas un sou,
+Nous philosopherons maintenant tout le soûl.
+
+-*who_valere
+De mon sort désormais vous serez seule arbitre,
+Adorable Angélique... achève ton chapitre.
+
+-*who_hector
+"Que faut-il ? ... "
+
+-*who_valere
+      Je bénis le sort et ses revers,
+Puisqu'un heureux malheur me rengage en vos fers.
+Finis donc.
+
+-*who_hector
+      "Que faut-il à la nature humaine ?
+Moins on a de richesse, et moins on a de peine.
+C'est posséder les biens que savoir s'en passer."
+Que ce mot est bien dit ! Et que c'est bien penser !
+Ce Sénèque, Monsieur, est un excellent homme.
+Était-il de Paris ?
+
+-*who_valere
+      Non, il était de Rome.
+Dix fois à carte triple être pris le premier !
+
+-*who_hector
+Ah ! Monsieur, nous mourrons un jour sur un fumier.
+
+-*who_valere
+Il faut que de mes maux enfin je me délivre :
+J'ai cent moyens tout prêts pour m'empêcher de vivre,
+La rivière, le feu, le poison, et le fer.
+
+-*who_hector
+Si vous vouliez, Monsieur, chanter un petit air ;
+Votre maître à chanter est ici : la musique
+Peut-être calmerait cette humeur frénétique.
+
+-*who_valere
+Que je chante !
+
+-*who_hector
+      Monsieur...
+
+-*who_valere
+      Que je chante, bourreau !
+Je veux me poignarder ; la vie est un fardeau
+Qui pour moi désormais devient insupportable.
+
+-*who_hector
+Vous la trouviez pourtant tantôt bien agréable.
+Qu'un joueur est heureux ! Sa poche est un trésor ;
+Sous ses heureuses mains le cuivre devient or,
+Disiez-vous.
+
+-*who_valere
+      Ah ! Je sens redoubler ma colère.
+
+-*who_hector
+Monsieur, contraignez-vous, j'aperçois votre père.
+
+**** *book_ *id_IV14 *act_IV *date_1696
+
+-*who_geronte
+Pour quel sujet, mon fils, criez-vous donc si fort ?
+Est-ce toi, malheureux, qui causes ce transport ?
+
+-*who_valere
+Non pas, Monsieur.
+
+-*who_hector
+      Ce sont des vapeurs de morale
+Qui nous vont à la tête, et que Sénèque exhale.
+
+-*who_geronte
+Qu'est-ce à dire Sénèque ?
+
+-*who_hector
+      Oui, Monsieur : maintenant
+Que nous ne jouons plus, notre unique ascendant
+C'est la philosophie, et voilà notre livre ;
+C'est Sénèque.
+
+-*who_geronte
+      Tant mieux : il apprend à bien vivre.
+Son livre est admirable et plein d'instructions,
+Et rend l'homme brutal maître des passions.
+
+-*who_hector
+Ah ! Si vous aviez lu son traité des richesses,
+Et le mépris qu'on doit faire de ses maîtresses ;
+Comme la femme ici n'est qu'un vrai rémora,
+Et que, lorsqu'on y touche... on en demeure là...
+Qu'on gagne quand on perd... que l'amour dans nos âmes...
+Ah ! Que ce livre-là connaissoit bien les femmes !
+
+-*who_geronte
+Hector en peu de temps est devenu docteur.
+
+-*who_hector
+Oui, Monsieur, je saurai tout Sénèque par coeur.
+
+-*who_geronte
+Je vous cherche en ces lieux avec impatience,
+Pour vous dire, mon fils, que votre hymen s'avance.
+Je quitte le notaire, et j'ai vu les parents,
+Qui, d'une et d'autre part, me paraissent contents.
+Vous avez vu, je crois, Angélique ? Et j'espère
+Que son consentement...
+
+-*who_valere
+      Non, pas encor, mon père.
+Certaine affaire m'a...
+
+-*who_geronte
+      Vraiment, pour un amant,
+Vous faites voir, mon fils, bien peu d'empressement.
+Courez-y : dites-lui que ma joie est extrême ;
+Que, charmé de ce noeud, dans peu j'irai moi-même
+Lui faire compliment, et l'embrasser...
+
+-*who_hector
+      Tout doux !
+Monsieur fera cela tout aussi bien que vous.
+
+-*who_valere
+Pénétré des bontés de celui qui m'envoie,
+Je vais de cet emploi m'acquitter avec joie.
+
+**** *book_ *id_IV15 *act_IV *date_1696
+
+-*who_hector
+Il vous plaira toujours d'être mémoratif
+D'un papier que tantôt, d'un air rébarbatif,
+Et même avec scandale...
+
+-*who_geronte
+      Oui-dà ! Laisse-moi faire.
+Le mariage fait, nous verrons cette affaire.
+
+-*who_hector
+J'irai donc, sur ce pied, vous visiter demain.
+
+**** *book_ *id_IV16 *act_IV *date_1696
+
+-*who_geronte
+Graces au ciel, mon fils est dans le bon chemin :
+Par mes soins paternels il surmonte la pente
+Où l'entraînait du jeu la passion ardente.
+Ah ! Qu'un père est heureux, qui voit en un moment
+Un cher fils revenir de son égarement !
+
+**** *book_ *id_V01 *act_V *date_1696
+
+-*who_dorante
+Hé ! Madame, cessez d'éviter ma présence.
+Je ne viens point, armé contre votre inconstance,
+Faire éclater ici mes sentiments jaloux,
+Ni par des mots piquants exhaler mon courroux.
+Plus que vous ne pensez, mon coeur vous justifie.
+Votre légèreté veut que je vous oublie :
+Mais loin de condamner votre coeur inconstant,
+Je suis assez vengé si j'en puis faire autant.
+
+-*who_angelique
+Que votre emportement en reproches éclate ;
+Je mérite les noms de volage, d'ingrate.
+Mais enfin de l'amour l'impérieuse loi
+À l'hymen que je crains m'entraîne malgré moi :
+J'en prévois les dangers ; mais un sort tyrannique...
+
+-*who_dorante
+Votre coeur est hardi, généreux, héroïque :
+Vous voyez devant vous un abîme s'ouvrir,
+Et vous ne laissez pas, Madame, d'y courir.
+
+-*who_nerine
+Quand j'en devrais mourir, je ne puis plus me taire.
+Je vous empêcherai de terminer l'affaire :
+Ou si dans cet amour votre coeur engagé
+Persiste en ses desseins, donnez-moi mon congé.
+Je suis fille d'honneur ; je ne veux point qu'on dise
+Que vous ayez sous moi fait pareille sottise.
+Valère est un indigne ; et, malgré son serment,
+Vous voyez tous les jours qu'il joue impunément.
+
+-*who_angelique
+En faveur de mon faible il faut lui faire grâce :
+De la fureur du jeu veux-tu qu'il se défasse,
+Hélas ! Quand je ne puis me défaire aujourd'hui
+Du lâche attachement que mon coeur a pour lui ?
+
+-*who_dorante
+Ces feux sont trop charmants pour vouloir les éteindre.
+Je ne suis point, Madame, ici pour vous contraindre.
+Mon neveu vous épouse ; et je viens seulement
+Donner à votre hymen un plein consentement.
+
+**** *book_ *id_V02 *act_V *date_1696
+
+-*who_nerine
+Madame La Ressource ici ! Qu'y viens-tu faire ?
+
+-*who_mme_la_ressource
+Je cherche un cavalier pour finir une affaire...
+On tâche, autant qu'on peut, dans son petit trafic,
+À gagner ses dépens en servant le public.
+
+-*who_angelique
+Cette Nérine-là connaît toute la France.
+
+-*who_nerine
+Pour vivre, il faut avoir plus d'une connoissance.
+C'est une illustre au moins, et qui sait en secret
+Couler adroitement un amoureux poulet :
+Habile en tous métiers, intrigante parfaite ;
+Qui prête, vend, revend, brocante, troque, achète,
+Met à perfection un hymen ébauché,
+Vend son argent bien cher, marie à bon marché.
+
+-*who_mme_la_ressource
+Votre bonté pour moi toujours se renouvelle ;
+Vous avez si bon coeur...
+
+-*who_nerine
+      Il fait bon avec elle,
+Je vous en avertis. En bijoux et brillants,
+En poche elle a toujours plus de vingt mille francs.
+
+-*who_dorante
+Mais ne craignez-vous point qu'un soir dans le silence ? ...
+
+-*who_nerine
+Bon, bon ! Tous les filous sont de sa connaissance.
+
+-*who_mme_la_ressource
+Nérine rit toujours.
+
+-*who_nerine
+      Montrez-nous votre écrin.
+
+-*who_mme_la_ressource
+Volontiers. J'ai toujours quelque hasard en main.
+Regardez ce brillant ; je vais en faire affaire
+Avec et pardevant un conseiller-notaire.
+Pour certaine chanteuse on dit qu'il en tient là.
+
+-*who_nerine
+Le drôle veut passer quelque acte à l'opéra.
+
+**** *book_ *id_V03 *act_V *date_1696
+
+-*who_nerine
+Mais voici la Comtesse.
+
+-*who_mme_la_ressource
+      On m'attend ; je vous quitte.
+
+-*who_nerine
+Non, non ; sur vos bijoux j'ai des droits de visite.
+
+-*who_la_comtesse
+Votre choix est-il fait ? Peut-on enfin savoir
+À qui vous prétendez vous marier ce soir ?
+
+-*who_angelique
+Oui, ma soeur, il est fait ; et ce choix doit vous plaire,
+Puisque avant moi pour vous vous avez su le faire.
+
+-*who_la_comtesse
+Apparemment, Monsieur est ce mortel heureux,
+Ce fidèle aspirant dont vous comblez les voeux ?
+
+-*who_dorante
+À ce bonheur charmant je n'ose pas prétendre.
+Si madame eût gardé son coeur pour le plus tendre,
+Plus que tout autre amant j'aurais pu l'espérer.
+
+-*who_la_comtesse
+La perte n'est pas grande, et se peut réparer.
+
+**** *book_ *id_V04 *act_V *date_1696
+
+-*who_le_marquis
+Charmé de vos beautés, je viens enfin, Madame,
+Ici mettre à vos pieds et mon corps et mon âme.
+Vous serez, par ma foi, Marquise cette fois ;
+Et j'ai sur vous enfin laissé tomber mon choix.
+
+-*who_mme_la_ressource
+Cet homme m'est connu.
+
+-*who_la_comtesse
+      Monsieur, je suis ravie
+De m'unir avec vous le reste de ma vie.
+Vous êtes gentilhomme et cela me suffit.
+
+-*who_le_marquis
+Je le suis du déluge.
+
+-*who_mme_la_ressource
+      Oui, c'est lui qui le dit.
+
+-*who_le_marquis
+En faisant avec moi cette heureuse alliance,
+Vous pourrez vous vanter que gentilhomme en France
+Ne tirera de vous, si vous me l'ordonnez,
+Des enfants de tout point mieux conditionnés.
+Vous verrez si je mens.
+      Ah ! Vous voilà, Madame.
+Et que faites-vous donc ici de cette femme ?
+
+-*who_nerine
+Vous la connaissez ?
+
+-*who_le_marquis
+      Moi ? Je ne sais ce que c'est.
+
+-*who_mme_la_ressource
+Ah ! Je vous connais trop, moi, pour mon intérêt.
+Quand vous résoudrez-vous, Monsieur le gentilhomme
+Fait du temps du déluge, à me payer ma somme,
+Mes quatre cents écus prêtés depuis cinq ans ?
+
+-*who_le_marquis
+Pour me les demander, vous prenez bien le temps.
+
+-*who_mme_la_ressource
+Je veux, aux yeux de tous, vous en faire avanie,
+À toute heure, en tous lieux.
+
+-*who_le_marquis
+      Hé ! Vous rêvez, ma mie.
+
+-*who_mme_la_ressource
+Voici le grand merci d'obliger des ingrats.
+Après l'avoir tiré d'un aussi vilain pas...
+Baste...
+
+-*who_la_comtesse
+      Parlez, parlez.
+
+-*who_mme_la_ressource
+      Non, non ; il est trop rude
+D'aller de ses parents montrer la turpitude.
+
+-*who_la_comtesse
+Comment donc ?
+
+-*who_le_marquis
+      Ah ! Je grille.
+
+-*who_mme_la_ressource
+      Au Châtelet, sans moi,
+On le verrait encor vivre aux dépens du roi.
+
+-*who_nerine
+Quoi ! Monsieur le Marquis...
+
+-*who_mme_la_ressource
+      Lui, Marquis ! C'est l'Épine.
+Je suis Marquise donc, moi qui suis sa cousine ?
+Son père était huissier à verge dans Le Mans.
+
+-*who_le_marquis
+Vous en avez menti.
+      Maugrebleu des parents !
+
+-*who_mme_la_ressource
+Mon oncle n'était pas huissier ? Qu'il t'en souvienne.
+
+-*who_le_marquis
+Son nom était connu dans le haut et bas Maine.
+
+-*who_nerine
+Votre père était donc un Marquis exploitant ?
+
+-*who_angelique
+Vous aviez là, ma soeur, un fort illustre amant.
+
+-*who_mme_la_ressource
+C'est moi qui l'ai nourri quatre mois sans reproche,
+Quand il vint à Paris en guêtres, par le coche.
+
+-*who_le_marquis
+D'accord, puisqu'on le sait, mon père était huissier,
+Mais huissier à cheval ; c'est comme chevalier.
+Cela n'empêche pas que dans ce jour, Madame,
+Nous ne mettions à fin une si belle flamme :
+Jamais ce feu pour vous ne fut si violent ;
+Et jamais tant d'appas...
+
+-*who_la_comtesse
+      Taisez-vous, insolent.
+
+-*who_le_marquis
+Insolent ! Moi qui dois honorer votre couche,
+Et par qui vous devez quelque jour faire souche !
+
+-*who_la_comtesse
+Sors d'ici, malheureux ; porte ailleurs ton amour.
+
+-*who_le_marquis
+Oui ! L'on agit de même avec les gens de cour !
+On reconnaît si mal le rang et le mérite !
+J'en suis, parbleu, ravi. Pour le coup je vous quitte,
+J'ai, pour briller ailleurs, mille talents acquis ;
+Je vais m'en consoler. Allons, saute, Marquis.
+
+**** *book_ *id_V05 *act_V *date_1696
+
+-*who_la_comtesse
+Je n'y puis plus tenir, ma soeur, et je vous laisse.
+Avec qui vous voudrez finissez de tendresse ;
+Coupez, taillez, rognez, je m'en lave les mains.
+Désormais, pour toujours, je renonce aux humains.
+
+**** *book_ *id_V06 *act_V *date_1696
+
+-*who_dorante
+Ils prennent leur parti.
+
+-*who_mme_la_ressource
+      La rencontre est plaisante !
+Je l'ai démarquisé bien loin de son attente :
+J'en voudrais faire autant à tous les faux marquis.
+
+-*who_nerine
+Vous auriez, par ma foi, bien à faire à Paris.
+Il est tant de traitants qu'on voit, depuis la guerre,
+En modernes seigneurs sortir de dessous terre,
+Qu'on ne s'étonne plus qu'un laquais, un pied-plat,
+De sa vieille mandille achète un marquisat.
+
+-*who_angelique
+Vous avez découvert ici bien du mystère.
+
+-*who_mme_la_ressource
+De quoi s'avise-t-il de me rompre en visière ?
+Mais aux grands mouvements qu'en ce lieu je puis voir,
+Madame se marie.
+
+-*who_nerine
+      Oui, vraiment, dès ce soir.
+
+-*who_mme_la_ressource
+J'en ai bien de la joie. Il faut que je lui montre
+Deux pendants de brillants que j'ai là de rencontre.
+J'en ferai bon marché. Je crois que les voilà ;
+Ils sont des plus parfaits. Non, ce n'est pas cela ;
+C'est un portrait de prix, mais il n'est pas à vendre.
+
+-*who_nerine
+Faites-le voir.
+
+-*who_mme_la_ressource
+      Non, non ; on doit me le reprendre.
+
+-*who_nerine
+Oh ! Je suis curieuse ; il faut me montrer tout.
+Que les brillants sont gros ! Ils sont fort de mon goût.
+Mais que vois-je, grands dieux ! Quelle surprise extrême !
+Aurais-je la berlue ? Eh ! Ma foi, c'est lui-même.
+Ah ! ...
+
+-*who_angelique
+      Qu'as-tu donc, Nérine ? Et te trouves-tu mal ?
+
+-*who_nerine
+Votre portrait, Madame, en propre original.
+
+-*who_angelique
+Mon portrait ! Es-tu folle ?
+
+-*who_nerine
+      Ah ! Ma pauvre maîtresse,
+Faut-il vous voir ainsi durement mise en presse ?
+
+-*who_mme_la_ressource
+Que veut dire ceci ?
+
+-*who_angelique
+      Tu te trompes. Vois mieux.
+
+-*who_nerine
+Regardez donc vous-même, et voyez par vos yeux.
+
+-*who_angelique
+Tu ne te trompes point, Nérine ; c'est lui-même ;
+C'est mon portrait, hélas ! Qu'en mon ardeur extrême
+Je viens de lui donner pour prix de ses amours,
+Et qu'il m'avait juré de conserver toujours.
+
+-*who_mme_la_ressource
+Votre portrait ! Il est à moi, sans vous déplaire ;
+Et j'ai prêté dessus mille écus à Valère.
+
+-*who_angelique
+Juste ciel !
+
+-*who_nerine
+      Le fripon !
+
+-*who_dorante
+      Je veux aussi le voir.
+
+-*who_mme_la_ressource
+Ce portrait m'appartient, et je prétends l'avoir.
+
+-*who_dorante
+Laissez-moi le garder un moment, je vous prie :
+C'est la seule faveur qu'on m'ait faite en ma vie.
+
+-*who_angelique
+C'en est fait : pour jamais je le veux oublier.
+
+-*who_nerine
+S'il met votre portrait ainsi chez l'usurier,
+Étant encore amant, il vous vendra, Madame,
+À beaux deniers comptants, quand vous serez sa femme.
+Mais le voici qui vient.
+      À trois ou quatre pas,
+De grace, éloignez-vous, et ne vous montrez pas.
+
+-*who_mme_la_ressource
+Mais pourquoi ? ...
+
+-*who_dorante
+      Du portrait ne soyez plus en peine.
+
+-*who_mme_la_ressource
+Lorsque je le verrai, j'en serai plus certaine.
+
+**** *book_ *id_V07 *act_V *date_1696
+
+-*who_valere
+Quel bonheur est le mien ! Enfin voici le jour,
+Madame, où je dois voir triompher mon amour.
+Mon coeur tout pénétré... mais, ciel ! Quelle tristesse,
+Nérine, a pu saisir ta charmante maîtresse ?
+Est-ce ainsi que tantôt ? ...
+
+-*who_nerine
+      Bon ! Ne savez-vous pas ?
+Les filles sont, Monsieur, tantôt haut, tantôt bas.
+
+-*who_valere
+Hé quoi ! Changer sitôt !
+
+-*who_angelique
+      Ne craignez point, Valère,
+Les funestes retours de mon humeur légère :
+Le portrait dont ma main vous a fait possesseur
+Vous est un sûr garant que vous avez mon coeur.
+
+-*who_valere
+Que ce tendre discours me charme et me rassure !
+
+-*who_nerine
+Tu ne seras heureux, par ma foi, qu'en peinture.
+
+-*who_angelique
+Quiconque a mon portrait, sans crainte de rival,
+Doit, avec la copie, avoir l'original.
+
+-*who_valere
+Madame, en ce moment, que mon âme est contente !
+
+-*who_angelique
+Ne consentez-vous pas à ce parti, Dorante ?
+
+-*who_dorante
+Je veux ce qu'il vous plaît : vos ordres sont pour moi
+Les décrets respectés d'une suprême loi.
+Votre bouche, Madame, a prononcé sans feindre ;
+Et mon coeur subira votre arrêt sans se plaindre.
+
+-*who_hector
+De l'arrêt tout du long il va payer les frais.
+
+-*who_angelique
+Valère, vous voyez pour vous ce que je fais.
+
+-*who_valere
+Jamais tant de bontés...
+
+-*who_angelique
+      Montrez donc, sans attendre,
+Le portrait que de moi vous avez voulu prendre ;
+Et que votre rival sache à quoi s'en tenir.
+
+-*who_valere
+Soit... mais permettez-moi de vous désobéir.
+C'est mon oncle : en voyant de votre amour ce gage,
+Il jouerait, à vos yeux, un mauvais personnage.
+Vous savez bien qui l'a.
+
+-*who_angelique
+      Vous pouvez le montrer :
+Il verra mon portrait sans se désespérer.
+
+-*who_dorante
+Madame au plus heureux accordant la victoire,
+Le triomphe est trop beau, pour n'en pas faire gloire.
+
+-*who_valere
+Puisque vous le voulez, il faut vous le chercher :
+Mais je n'aurai du moins rien à me reprocher...
+Vous voulez un témoin, il faut vous satisfaire.
+
+-*who_hector
+Ah ! Nous sommes perdus, j'aperçois l'usurière.
+
+-*who_valere
+C'est votre faute, si...
+      Qu'as-tu fait du portrait ?
+
+-*who_hector
+Du portrait ?
+
+-*who_valere
+      Oui, maraud ; parle, qu'en as-tu fait ?
+
+-*who_hector
+Madame La Ressource, un moment sans paraître,
+Prêtez-nous notre gage.
+
+-*who_valere
+      Ah ! Chien ! Ah ! Double traître !
+Tu l'as perdu.
+
+-*who_hector
+      Monsieur...
+
+-*who_valere
+      Il faut que ton trépas...
+
+-*who_hector
+Ah ! Monsieur, arrêtez, et ne me tuez pas.
+Voyant dans ce portrait Madame si jolie,
+Je l'ai mis chez un peintre ; il m'en fait la copie.
+
+-*who_valere
+Tu l'as mis chez un peintre !
+
+-*who_hector
+      Oui, monsieur.
+
+-*who_valere
+      Ah ! Maraud !
+Va, cours me le chercher, et reviens au plus tôt.
+
+-*who_dorante
+Épargnez-lui ces pas. Il n'est plus temps de feindre.
+Le voici.
+
+-*who_hector
+      Nous voilà bien achevés de peindre !
+Ah ! Carogne !
+
+-*who_valere
+      Le peintre...
+
+-*who_angelique
+      Avec de vains détours,
+Ingrat, ne croyez pas qu'on m'abuse toujours.
+
+-*who_valere
+Madame, en vérité, de telles épithètes
+Ne me vont point du tout.
+
+-*who_angelique
+      Perfide que vous êtes !
+Ce portrait, que tantôt je vous avais donné,
+Pour le gage d'un coeur le plus passionné,
+Malgré tous vos serments, parjure, à la même heure,
+Vous l'avez mis en gage !
+
+-*who_valere
+      Ah ! Qu'à vos yeux je meure...
+
+-*who_angelique
+Ah ! Cessez de vouloir plus longtemps m'outrager,
+Coeur lâche.
+
+-*who_hector
+      Nous devions tantôt le dégager ;
+Et contre mon avis vous avez fait la chose.
+
+-*who_mme_la_ressource
+De tous vos débats, moi, je ne suis point la cause ;
+Et je prétends avoir mon portrait, s'il vous plaît.
+
+-*who_dorante
+Laissez-le-moi garder ; j'en paierai l'intérêt
+Si fort qu'il vous plaira.
+
+**** *book_ *id_V08 *act_V *date_1696
+
+-*who_geronte
+      Que mon âme est ravie
+De voir qu'avec mon fils un tendre hymen vous lie !
+J'attends depuis longtemps ce fortuné moment.
+
+-*who_nerine
+Son coeur ressent, je crois, le même empressement.
+
+-*who_geronte
+De vous trouver ici je suis ravi, mon frère.
+Vous prenez, croyez-moi, comme il faut cette affaire ;
+Et l'hymen de Madame, à vous en parler net,
+N'était, en vérité, point du tout votre fait.
+
+-*who_dorante
+Il est vrai.
+
+-*who_geronte
+      Le notaire en ce lieu va se rendre ;
+Avec lui nous prendrons le parti qu'il faut prendre.
+
+-*who_nerine
+Oh ! Par ma foi, Monsieur, vous ne prendrez qu'un rat ;
+Et le notaire peut remporter son contrat.
+
+-*who_geronte
+Comment donc ?
+
+-*who_angelique
+      Autrefois mon coeur eut la faiblesse
+De rendre à votre fils tendresse pour tendresse ;
+Mais la fureur du jeu dont il est possédé,
+Pour mon portrait enfin son lâche procédé,
+Me font ouvrir les yeux ; et, contre mon attente,
+En ce moment, Monsieur, je me donne à Dorante.
+Acceptez-vous ma main ?
+
+-*who_dorante
+      Ah ! Je suis trop heureux
+Que vous vouliez encor...
+
+-*who_geronte
+      Parle, toi, si tu veux ;
+Explique ce mystère.
+
+-*who_hector
+      Oh ! Par ma foi, je n'ose ;
+Ce récit est trop triste en vers ainsi qu'en prose.
+
+-*who_geronte
+Parle donc.
+
+-*who_hector
+      Pour avoir mis, sans réflexion,
+Le portrait de madame, une heure, en pension
+Chez cette chienne-là, que Lucifer confonde,
+On nous donne un congé le plus cruel du monde.
+
+-*who_geronte
+Sans vouloir davantage ici l'interroger,
+Sa folle passion m'en fait assez juger.
+J'ai peine à retenir le courroux qui m'agite.
+Fils indigne de moi, va, je te déshérite ;
+Je ne veux plus te voir, après cette action,
+Et te donne cent fois ma malédiction.
+
+**** *book_ *id_V09 *act_V *date_1696
+
+-*who_hector
+Le beau présent de noce !
+
+-*who_angelique
+      À jamais je vous laisse.
+Si vous êtes heureux au jeu comme en maîtresse,
+Et si vous conservez aussi mal ses présents,
+Vous ne ferez, je crois, fortune de longtemps.
+
+-*who_mme_la_ressource
+Et mon portrait, Monsieur, vous plaît-il me le rendre ?
+
+-*who_dorante
+Vous n'aurez rien perdu dans ces lieux pour attendre,
+Ni toi, Nérine, aussi. Suivez-moi toutes deux.
+Quelque autre fois, Monsieur, vous serez plus heureux.
+
+**** *book_ *id_V10 *act_V *date_1696
+
+-*who_mme_la_ressource
+En toute occasion soyez sûr de mon zèle.
+
+-*who_hector
+Adieu, tison d'enfer, fesse-mathieu femelle.
+
+**** *book_ *id_V11 *act_V *date_1696
+
+-*who_nerine
+Grâce au ciel, ma maîtresse a tiré son enjeu.
+Vous épouser, Monsieur, c'était jouer gros jeu.
+
+**** *book_ *id_V12 *act_V *date_1696
+
+-*who_valere
+Où vas-tu donc ?
+
+-*who_hector
+      Je vais à la bibliothèque
+Prendre un livre, et vous lire un traité de Sénèque.
+
+-*who_valere
+Va, va, consolons-nous, Hector : et quelque jour
+Le jeu m'acquittera des pertes de l'amour.
