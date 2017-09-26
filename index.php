@@ -1,5 +1,5 @@
 <?php
-include('build.php');
+include_once('build.php');
 ?>
 <!DOCTYPE html>
 <html>

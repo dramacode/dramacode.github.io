@@ -1516,7 +1516,7 @@ Que j'apprenne son nom, et mes voeux sont contents.
 Adieu, devinez-le, je vous donne du temps,  
 Vous pouvez y penser.  
 
-    TYRÈNE L'ARRÊTANT.
+    TYRÈNE L’ARRÊTANT.
         Un mot belle bergère,  
 Je sais que vous avez des bontés pour mon frère,  
 Et prends part à l'honneur qu'il a reçu de vous.  
@@ -1560,7 +1560,7 @@ Plus que vous.
     AMARILLIS.
         Mais plus infiniment.  
 
-    TYRÈNE S'EN ALLANT DIT À CLÉONTE.
+    TYRÈNE S’EN ALLANT DIT À CLÉONTE.
 On attend votre vue avec impatience.  
 
     CLÉONTE.
@@ -1633,7 +1633,7 @@ Que celles de Lyon rendent à leurs Amants,
 Ils seraient mal fondés, et je reçois les vôtres  
 Comme un propos commun que vous tenez à d'autres.  
 
-    CLÉONTE FEIGNANT DE S'EN ALLER.
+    CLÉONTE FEIGNANT DE S’EN ALLER.
 J'ai promis de me taire, adieu. Mais quelque jour  
 On ne vous verra plus douter de mon amour.  
 
@@ -1891,7 +1891,7 @@ Je vous obéis donc.
     CÉLIDAN.
         Dieux qui l'eût jugé d'elle !  
 
-    DAPHNÉ, S'EN ALLANT.
+    DAPHNÉ, S’EN ALLANT.
 C'est me bien obéir, que de m'être fidèle.  
 
     CLÉONTE.

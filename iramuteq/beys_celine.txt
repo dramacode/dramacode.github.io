@@ -17,7 +17,7 @@ Fevrier 1637.
 
 Les exemplaires ont esté fournis.
 
-**** *book_ *id_body-301 *act_ *date_1637 *creator_beys
+**** *book_ *id_I01 *act_ *date_1637 *creator_beys
 
 -*who_agante
 Un violent desir me presse⁎ et m'importune,
@@ -92,7 +92,7 @@ Et me suy maintenant.
       Je la veux suivre exprés,
 Afin d'entretenir Lisanor de plus prés .
 
-**** *book_ *id_body-302 *act_ *date_1637 *creator_beys
+**** *book_ *id_I02 *act_ *date_1637 *creator_beys
 
 -*who_thersandre
 Quoy que Prince estranger, il faut que je soupire
@@ -218,7 +218,7 @@ Et dans leur entretien⁎, et parmy leurs affaires,
 Et joignons s'il se peut pour les avoir un jour,
 La faveur de ce peuple avecque leur amour.
 
-**** *book_ *id_body-303 *act_ *date_1637 *creator_beys
+**** *book_ *id_I03 *act_ *date_1637 *creator_beys
 
 -*who_lisanor
 Quoy peux-tu bien encor esperer du secours ?
@@ -364,7 +364,7 @@ Puissant Dieu, juste autheur⁎ de mon affection⁎,
 Empesche les effets de son ambition.
 Fin du premier Acte.
 
-**** *book_ *id_body-401 *act_ *date_1637 *creator_beys
+**** *book_ *id_II01 *act_ *date_1637 *creator_beys
 
 -*who_thersandre
 Celine sur Agante emporte la victoire,
@@ -617,7 +617,7 @@ Enfin la verité ne succede à la feinte.
 Je veux l'entretenir et paraistre discret⁎,
 Et toujours mon rival me dira son secret.
 
-**** *book_ *id_body-402 *act_ *date_1637 *creator_beys
+**** *book_ *id_II02 *act_ *date_1637 *creator_beys
 
 -*who_agante 
 Helas nostre grandeur est bien mal assurée⁎,
@@ -798,7 +798,7 @@ Pour assurer⁎ mon bien et trahir ses amours.
 Fin du 2ème.
 Acte.
 
-**** *book_ *id_body-501 *act_ *date_1637 *creator_beys
+**** *book_ *id_III01 *act_ *date_1637 *creator_beys
 
 -*who_celine 
 Dieux que par une estrange⁎ et funeste⁎ avanture⁎,
@@ -832,7 +832,7 @@ Je ne t'esprouve pas moins dur que ce rocher .
 Le voicy, je suis d'ayse⁎, et de crainte ravie,
 Si sa voix fait mourir, ses yeux rendent la vie.
 
-**** *book_ *id_body-502 *act_ *date_1637 *creator_beys
+**** *book_ *id_III02 *act_ *date_1637 *creator_beys
 
 -*who_lisanor
 Mon songe⁎ du matin n'a pas esté trompeur,
@@ -880,7 +880,7 @@ Si j'appelle ses yeux les autheurs⁎ de mes peines,
 Comme pour me guerir, il cesse de me voir,
 Et sa fuitte aussi-tost m'en oste le pouvoir.
 
-**** *book_ *id_body-503 *act_ *date_1637 *creator_beys
+**** *book_ *id_III03 *act_ *date_1637 *creator_beys
 
 -*who_lisidas
 Je vous y prends resveuse : Ah ce respect me tuë !
@@ -970,7 +970,7 @@ Et je te vange ainsi de ce dissimulé⁎ ;
 Essayons d'approcher de cette ame de roche ;
 Je le destourneray si je voy qu'il s'approche.
 
-**** *book_ *id_body-504 *act_ *date_1637 *creator_beys 
+**** *book_ *id_III04 *act_ *date_1637 *creator_beys 
 
 -*who_clarin
 Quand le Ciel a conclu d'exercer sa fureur⁎,
@@ -1040,7 +1040,7 @@ Je rencontre celuy que je trouvay sur l'onde⁎.
 Fin du 3 ème.
 Acte.
 
-**** *book_ *id_body-601 *act_ *date_1637 *creator_beys
+**** *book_ *id_IV01 *act_ *date_1637 *creator_beys
 
 -*who_agante
 Puisque vous m'honorez de vostre confidence,
@@ -1114,7 +1114,7 @@ De tromper une sœur, pour servir un amant⁎ ?
 Le voicy ; voudrois-tu me vanger d'un outrage ?
 Pourray-je disposer de ce puissant courage⁎ ?
 
-**** *book_ *id_body-602 *act_ *date_1637 *creator_beys
+**** *book_ *id_IV02 *act_ *date_1637 *creator_beys
 
 -*who_lisanor
 Madame, c'est à tort que vous me demandez,
@@ -1342,7 +1342,7 @@ M'aymer estre chercher une mort plus funeste⁎,
 Que celle du poison, des feux⁎, et de la peste !
 Que diray-je ?
 
-**** *book_ *id_body-603 *act_ *date_1637 *creator_beys
+**** *book_ *id_IV03 *act_ *date_1637 *creator_beys
 
 -*who_agante 
       Ma sœur, vous voyez un rocher
@@ -1424,7 +1424,7 @@ Ces vers me serviront, je m'en vay les rescrire,
 Je ne pouvois trouver de discours plus charmans :
 J'ay le mesme dessein, les mesmes sentimens.
 
-**** *book_ *id_body-604 *act_ *date_1637 *creator_beys
+**** *book_ *id_IV04 *act_ *date_1637 *creator_beys
 
 -*who_celine
 A la fin c'est trop vivre en ma perseverance,
@@ -1446,7 +1446,7 @@ Que je sois plus aymée, et qu'il soit moins heureux.
 Il faut à ma douleur faire un peu de contrainte⁎,
 J'ay peur que la Princesse ayt escouté ma plainte.
 
-**** *book_ *id_body-605 *act_ *date_1637 *creator_beys
+**** *book_ *id_IV05 *act_ *date_1637 *creator_beys
 
 -*who_agante
 Tu me semble, Celine, assez triste aujourd'huy,
@@ -1521,7 +1521,7 @@ Et ce puissant amour les mesmes traits⁎ me tire,
 Puisque nous nous plaignons de ce mesme demon,
 Son billet doit porter et sa plainte et mon nom.
 
-**** *book_ *id_body-701 *act_ *date_1637 *creator_beys
+**** *book_ *id_V01 *act_ *date_1637 *creator_beys
 
 -*who_lisanor 
 Quel pays servira de retraitte à ma fuite,
@@ -1547,7 +1547,7 @@ La pitié ne sçauroit esbranler ma raison.
 Ne voicy pas encor un sujet de ma gloire⁎ ?
 Ta honte, foible amour, va suivre ma victoire.
 
-**** *book_ *id_body-702 *act_ *date_1637 *creator_beys
+**** *book_ *id_V02 *act_ *date_1637 *creator_beys
 
 -*who_celine
 Je ne vous tiendray point de discours superflus ;
@@ -1555,7 +1555,7 @@ Respondez un seul mot, et je ne parle plus :
 Jettez un peu les yeux dessus cette escriture ;
 Ce qu'Agante vous dit, c'est mon cœur⁎ qui l'endure.
 
-**** *book_ *id_body-703 *act_ *date_1637 *creator_beys
+**** *book_ *id_V03 *act_ *date_1637 *creator_beys
 
 -*who_thersandre
 Ah ! voicy le rival qui trouble mon repos ;
@@ -1586,7 +1586,7 @@ Je veux vous tesmoigner que je vous suis fidelle⁎.
 -*who_celine
 O Dieux !
 
-**** *book_ *id_body-704 *act_ *date_1637 *creator_beys
+**** *book_ *id_V04 *act_ *date_1637 *creator_beys
 
 -*who_celine
       Helas, sçachez l'autheur⁎ de la querelle.
@@ -1658,7 +1658,7 @@ Parmi tant de froideur appaisez vostre flamme.
 Quelque jour vous verrez son courage⁎ soumis :
 Venez, je crain de faire encor des ennemis.
 
-**** *book_ *id_body-705 *act_ *date_1637 *creator_beys
+**** *book_ *id_V05 *act_ *date_1637 *creator_beys
 
 -*who_celine
 O Dieux je suis perduë !
@@ -1730,7 +1730,7 @@ Ma sœur que peut l'amour ?
 Perfide tu sçauras, la presence d'un pere,
 Empesche les effets de ma juste colere.
 
-**** *book_ *id_body-706 *act_ *date_1637 *creator_beys
+**** *book_ *id_V06 *act_ *date_1637 *creator_beys
 
 -*who_leroy 
 Vrayment je ne pouvois venir plus à propos,
@@ -1928,7 +1928,7 @@ Je fais encore vœu de vous servir tousjours.
 Remercions le Ciel du bien qu'il nous envoye,
 Quelqu'un vient-il icy pour troubler nostre joye ?
 
-**** *book_ *id_body-707 *act_ *date_1637 *creator_beys
+**** *book_ *id_V07 *act_ *date_1637 *creator_beys
 
 -*who_leroy 
 Quel crime⁎ a-t'il commis ?

@@ -644,7 +644,7 @@ M'a pourtant empêché de dormir à mon aise ;
 Les cousins m'ont piqué, les rats et les souris  
 M'ont pissé sur le nez, et j'ai vu des esprits.   [1]
 
-    DON DIÈGUE, IL S'EN VA..
+    DON DIÈGUE, IL S’EN VA..
 Va-t-en vite savoir où Don Félix demeure ;  
 Ne pense pas tarder plus d'un demi quart d'heure,  
 Toi qui fais quelquefois en un jour six repas.  
@@ -720,7 +720,7 @@ Et quand le peut-on voir ?
     ALPHONSE.
 Vraiment vous paraissez d'humeur assez gaillarde.  
 
-    JODELET, TANDIS QU'ALPHONSE REGARDE S'IL NE VOIT PERSONNE.
+    JODELET, TANDIS QU’ALPHONSE REGARDE S’IL NE VOIT PERSONNE.
 Je serais plus gaillard, si vous étiez plus loin.  
 Si j'osais lui donner deux ou trois coups de poing !  
 
@@ -741,10 +741,10 @@ Je m'en rapporte à vous.
         Moi ? Je n'en veux rien croire,  
 Pour votre conscience, et pour ma propre gloire.  
 
-    ALPHONSE, EN S'EN ALLANT.
+    ALPHONSE, EN S’EN ALLANT.
 Nous nous verrons encor, mon brave.  
 
-    JODELET, FAIT RÉFLEXION SUR LES PAROLES QU'IL A EUES AVEC ALPHONSE.
+    JODELET, FAIT RÉFLEXION SUR LES PAROLES QU’IL A EUES AVEC ALPHONSE.
         Et de bon coeur ;  
 Ne commandez-vous rien à votre serviteur ?  
 Et quand le peut-on voir ? Alors qu'on le regarde ?  
@@ -1023,7 +1023,7 @@ Adieu jusqu'au revoir.
         Adieu mon cher cousin,  
 Modérez tant soit peu votre esprit spadassin.  
 
-    DON GASPARD, EN S'EN ALLANT.
+    DON GASPARD, EN S’EN ALLANT.
 Je ne puis.  
 
     DON DIÈGUE.
@@ -1076,7 +1076,7 @@ Et toi, tâche à savoir le nom de cette belle.
     ALPHONSE.
 Je le saurai bientôt.  
 
-    DON DIÈGUE, TANDIS QU'ALPHONSE ENTRETIENT L'HOMME DE LUCIE.
+    DON DIÈGUE, TANDIS QU’ALPHONSE ENTRETIENT L’HOMME DE LUCIE.
         Madame, un étranger  
 Peut-il vous demander, sans se mettre en danger  
 D'être trop téméraire, ou de trop entreprendre,  
@@ -1849,7 +1849,7 @@ D'avoir fait avec moi trop de la soeur aînée,
 Et d'avoir trop pressé ce gentil Hyménée.  
 Le coeur me disait bien...  
 
-    ALPHONSE VIENT À L'ÉTOURDIE.
+    ALPHONSE VIENT À L’ÉTOURDIE.
         Monsieur, je suis pressé ;  
 Mon maître n'a-t-il point tantôt ici passé ?  
 J'ai des Lettres pour lui de son Père : et me semble  
@@ -2188,7 +2188,7 @@ Bientôt sur une roue.
         Un homme ne craint rien  
 Quand il est innocent.  
 
-    DON DIÈGUE, EN S'EN ALLANT.
+    DON DIÈGUE, EN S’EN ALLANT.
         Je te trouverai bien.  
 
     DON PEDRO.
@@ -2215,7 +2215,7 @@ Et n'en aura jamais.
         Je ne vous puis que dire :  
 Je ne l'eusse pas cru.  
 
-    DON PEDRO, EN S'EN ALLANT.
+    DON PEDRO, EN S’EN ALLANT.
         Allons, allons en rire,  
 Le péril est passé, rentrons dans la maison,  
 Pour moi j'excuse tout, fors une trahison.  
@@ -3019,7 +3019,7 @@ Haussant la voix.
 
 Et bien que dites-vous de ce nouvel Époux ?  
 
-    LUCIE FAISANT SEMBLANT DE NE L'ENTENDRE.
+    LUCIE FAISANT SEMBLANT DE NE L’ENTENDRE.
 Il n'est pas à propos de me tâter le pouls,  
 Bon si j'avais la fièvre.  
 
@@ -3063,7 +3063,7 @@ Quatre brins de fougère.
     DON PEDRO.
         Et bien, as-tu tout dit ?  
 
-    LUCIE EN SOURIT, ET SE CACHE D'UN LINGE.
+    LUCIE EN SOURIT, ET SE CACHE D’UN LINGE.
 Si je prends un bâton, Madame l'idiote,  
 Je te ferai bien taire ; au diable soit la sotte.  
 J'en aurais pourtant ri dans une autre saison.  

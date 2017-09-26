@@ -1,6 +1,6 @@
 ---
 identifier: corneillet_festinpierre  
-creator: Corneille, Thomas  
+creator: Corneille, Thomas, Thomas  
 date: 1677  
 title: Le Festin de Pierre. , comédie  
 ---
@@ -209,7 +209,7 @@ C'est lui. Prends garde au moins...
 Je t'ai conté sa vie un peu légèrement.  
 C'est à toi là-dessus de te taire ; autrement...  
 
-    GUSMAN, S'EN ALLANT.
+    GUSMAN, S’EN ALLANT.
 Ne crains rien.  
 
 
@@ -1027,7 +1027,7 @@ Il sort.
 
 ## SCÈNE II. Don Juan, Sganarelle, Charlotte.
 
-    DON JUAN, SANS VOIR D'ABORD CHARLOTTE.
+    DON JUAN, SANS VOIR D’ABORD CHARLOTTE.
 Il n'y faut plus penser, c'en est fait, Sganarelle.  
 La force entre mes bras allait mettre la Belle,  
 Lorsque ce coup de vent, difficile à prévoir,  
@@ -1365,14 +1365,14 @@ D'un bon coup d'aviron sur la tête.
     DON JUAN, LE MENAÇANT.
     Heu ?  
 
-    PIERROT, S'ÉLOIGNANT.
+    PIERROT, S’ÉLOIGNANT.
         Parsonne  
 N'me fait peur.  
 
-    DON JUAN, S'APPROCHANT DE LUI.
+    DON JUAN, S’APPROCHANT DE LUI.
         Attendez, j'aime assez qu'on raisonne.  
 
-    PIERROT, S'ÉLOIGNANT TOUJOURS.
+    PIERROT, S’ÉLOIGNANT TOUJOURS.
 Je m'gol arg' de tout, moi.  
 
     DON JUAN.
@@ -1667,10 +1667,10 @@ Tirons-nous promptement, Monsieur.
         Adieu les belles.  
 Celle que j'aime aura demain de mes nouvelles.  
 
-    MATURINE, À CHARLOTTE, S'EN ALLANT D'UN CÔTÉ.
+    MATURINE, À CHARLOTTE, S’EN ALLANT D’UN CÔTÉ.
 C'est à moi qui promet, Charlotte.  
 
-    CHARLOTTE, À MATHURINE, EN S'EN ALLANT D'UN AUTRE CÔTÉ.
+    CHARLOTTE, À MATHURINE, EN S’EN ALLANT D’UN AUTRE CÔTÉ.
         Oh ! C'est à moi.  
 
 
@@ -1982,7 +1982,7 @@ Monsieur est médecin.
     LÉONOR.
         Ce serait là sa joie.  
 
-    SGANARELLE, D'UN TON GRAVE.
+    SGANARELLE, D’UN TON GRAVE.
 Où son mal lui tient-il ? Est-ce à la rate ? Au foie ?  
 
     LÉONOR.
@@ -2271,7 +2271,7 @@ Ah, si mon cataplasme était vite appliqué...
     THÉRÈSE.
 Où donc l'applique-t-on ?  
 
-    SGANARELLE, LUI PARLANT AVEC ACTION, POUR L'EMPÊCHER DE VOIR QUE DON JUAN ENTRETIENT TOUT BAS LÉONOR.
+    SGANARELLE, LUI PARLANT AVEC ACTION, POUR L’EMPÊCHER DE VOIR QUE DON JUAN ENTRETIENT TOUT BAS LÉONOR.
         Tout droit sur la partie,  
 Où la force de l'asthme est le plus départie.  
 Comme l'obstruction se fait de ce côté,  
@@ -3073,7 +3073,7 @@ J'étais...
     DON JUAN.
 Non, si vous n'êtes là, je n'écouterai rien...  
 
-    MONSIEUR DIMANCHE S'ASSEYANT DANS UN FAUTEUIL.
+    MONSIEUR DIMANCHE S’ASSEYANT DANS UN FAUTEUIL.
 C'est pour vous obéir. Sans le besoin extrême...  
 
     DON JUAN.

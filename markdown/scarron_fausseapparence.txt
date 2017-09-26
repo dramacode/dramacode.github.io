@@ -609,7 +609,7 @@ Je vous enferme ainsi pour éviter son frère,
 Qui d'elle étant jaloux, et ne vous aimant guère,  
 S'il allait vous trouver, ferait quelque rumeur.  
 
-    DON SANCHE, S'ENFERME.
+    DON SANCHE, S’ENFERME.
 Je remets en tes mains ma vie, et mon honneur.  
 
     MARINE, SEULE.
@@ -786,7 +786,7 @@ De grâce efforcez-vous de faire bonne chère,
     FLORE.
 Je m'en vais donner ordre à le bien recevoir.  
 
-    DON LOUIS, S'EN VA.
+    DON LOUIS, S’EN VA.
 Et moi vous l'amener.  
 
     FLORE.
@@ -1329,7 +1329,7 @@ Ce sera donc, Monsieur, pour cette seule fois.
 
 ## SCÈNE IV. Don Carlos, Fabrice.
 
-    DON CARLOS SORTANT D'OÙ IL ÉTAIT CACHÉ.
+    DON CARLOS SORTANT D’OÙ IL ÉTAIT CACHÉ.
 Heureusement pour nous le vieillard prend le change.   [7]
 Ô Dieux ! Que dois-je faire en ce rencontre étrange ?  
 Dois-je pas m'éloigner d'une ingrate beauté ?  
@@ -1543,7 +1543,7 @@ Ait eu la moindre part... mais qu'est-ce que je vois ?
 
 ## SCÈNE IX. Don Sanche, Léonore, Don Louis, Don Carlos, Marine.
 
-    DON SANCHE SORTANT EFFRAYÉ D'UNE CHAMBRE, OÙ IL A TROUVÉ LÉONORE.
+    DON SANCHE SORTANT EFFRAYÉ D’UNE CHAMBRE, OÙ IL A TROUVÉ LÉONORE.
 Ombre qui me poursuis ! N'es-tu pas assouvie  
 De m'avoir vu chez toi prêt de perdre la vie,  
 Sans encore venir, spectre horrible à mes yeux,  
@@ -1591,7 +1591,7 @@ Pour une moindre offense on donne le trépas ;
 Mais fut-elle excusable, il faut savoir encore  
 Si tu ne me mens point : dit-il vrai, Léonore ?  
 
-    DON CARLOS D'OÙ IL EST CACHÉ.
+    DON CARLOS D’OÙ IL EST CACHÉ.
 Que dira cette ingrate ?  
 
     LÉONORE.
@@ -1633,7 +1633,7 @@ Je ne le puis nier.
         Ta mort est résolue :  
 Défends-toi si tu peux.  
 
-    DON CARLOS, SORTANT D'OÙ IL EST CACHÉ.
+    DON CARLOS, SORTANT D’OÙ IL EST CACHÉ.
         C'est à moi, c'est à moi,  
 De le punir encore.  
 
@@ -1654,7 +1654,7 @@ Mon Cousin, laissez-moi punir son insolence.
 Fabrice entre et veut frapper Don Sanche.   [10]
 Point de quartier, main basse.  
 
-    MARINE L'ARRÊTE.
+    MARINE L’ARRÊTE.
         Arrête malheureux.  
 
     DON SANCHE.
@@ -2113,7 +2113,7 @@ Va cruel ?
     FLORE, À PART.
     Tais-toi donc.  
 
-    DON CARLOS D'OÙ IL EST CACHÉ.
+    DON CARLOS D’OÙ IL EST CACHÉ.
         Elle n'en parle ainsi,  
 Qu'à cause qu'elle sait que je l'entends d'ici.  
 
@@ -2158,7 +2158,7 @@ Ici comme à Madrid.
     LÉONORE.
         Et c'est dont je me plains.  
 
-    FLORE, S'EN ALLANT.
+    FLORE, S’EN ALLANT.
 Songez-y Léonore.  
 
     LÉONORE.
@@ -2207,10 +2207,10 @@ Mais celle qui perdit sa réputation,
 Ne peut faire jamais une bonne action,  
 Ouvre fille perdue ! Ingrate ! Ouvre à ton père.  
 
-    LÉONORE, DE L'AUTRE CÔTÉ DE LA PORTE.
+    LÉONORE, DE L’AUTRE CÔTÉ DE LA PORTE.
 Ouvrons-lui cher Carlos.  
 
-    DON CARLOS DE L'AUTRE CÔTÉ DE LA PORTE.
+    DON CARLOS DE L’AUTRE CÔTÉ DE LA PORTE.
         Non, non, laissons le faire.  
 
     DON PEDRE.
@@ -2630,7 +2630,7 @@ Je n'en aurai jamais, ou bien vous la serez.
     FLORE.
 Quand à vous épouser, vous m'en dispenserez.  
 
-    DON CARLOS, À PART, ENTROUVRANT LA PORTE OÙ IL S'EST CACHÉ.
+    DON CARLOS, À PART, ENTROUVRANT LA PORTE OÙ IL S’EST CACHÉ.
 Flore aimait mon rival, et j'allais aimer Flore :  
 Mais je veux écouter ce qu'ils diront encore.  
 
@@ -2713,7 +2713,7 @@ Prendrais-je pour ma femme, une fille peu sage,
 Qui suit depuis Madrid un amant jusqu'ici,  
 Et peut-être un amant qui n'en veut plus aussi ?  
 
-    DON CARLOS D'OÙ IL S'EST CACHÉ.
+    DON CARLOS D’OÙ IL S’EST CACHÉ.
 J'ai donc cru faussement Léonore coupable :  
 Hélas ! Que je le suis, et qu'elle est adorable !  
 

@@ -113,7 +113,7 @@ Cependant dites-moi quel est votre destin ?
 Oui, pour te refuser j'ai le coeur trop bénin,  
 Sieds-toi.  
 
-    CLARIMOND, S'ASSEYANT AUPRÈS DE LISIS SUR L'HERBE.
+    CLARIMOND, S’ASSEYANT AUPRÈS DE LISIS SUR L’HERBE.
         Qui vit jamais plus haute extravagance !  
 
     LISIS.
@@ -290,7 +290,7 @@ Ah, Monsieur, vous voyez à quel étrange excès   [13]
 Va de ce pauvre esprit le frénétique accès,  
 Combien d'extravagance....  
 
-    LISIS, S'ÉLOIGNANT D'EUX.
+    LISIS, S’ÉLOIGNANT D’EUX.
         Ah, Charite ! Ah, Charite !  
 Si tu me fais mourir, fais que je ressuscite.  
 Il se retire au coin du Théâtre où il se couche.
@@ -448,7 +448,7 @@ J'en crois le passe-temps aussi plaisant que rare,
 Mais il faut l'avertir de ce que je prépare.  
 Étant Nymphe, chacun lui doit faire sa cour.  
 
-    LISIS, FAISANT UN HAUT CRI, COMME SORTANT D'UN PROFOND ASSOUPISSEMENT.
+    LISIS, FAISANT UN HAUT CRI, COMME SORTANT D’UN PROFOND ASSOUPISSEMENT.
 Ah !  
 
     ANSELME, COURANT À LUI.
@@ -984,7 +984,7 @@ Où courez-vous, Berger ?
         Nymphe sage et discrète,  
 Devant mon ennemi je sonne la retraite.  
 
-    CHARITE, VOYANT LUCIDE QUI S'ÉLOIGNE COMME NE VOULANT PAS ÊTRE SURPRISE AVEC LISIS.
+    CHARITE, VOYANT LUCIDE QUI S’ÉLOIGNE COMME NE VOULANT PAS ÊTRE SURPRISE AVEC LISIS.
 Quoi, Lucide aujourd'hui ne veut pas nous parler ?  
 
     LISIS, À CHARITE.
@@ -1727,7 +1727,7 @@ Suivant son ordre exprès, de l'amener ici.
     ANGÉLIQUE, EMBRASSANT LISIS.
 Venant d'un grand Druide, elle doit m'être chère.  
 
-    LISIS, AFFECTANT LA VOIX ET LA PUDEUR MODESTE D'UNE FILLE.
+    LISIS, AFFECTANT LA VOIX ET LA PUDEUR MODESTE D’UNE FILLE.
 Vous obligez beaucoup une pauvre Bergère,  
 Qui malgré ses malheurs croira son sort bien doux  
 S'il lui fait obtenir le bonheur d'être à vous.  
@@ -2197,7 +2197,7 @@ Ce chemin est-il sûr ?
         Oui, mais il sera mieux  
 Que par précaution tu te bandes les yeux.  
 
-    LISIS, MONTANT DANS LE CHAR D'HIRCAN.
+    LISIS, MONTANT DANS LE CHAR D’HIRCAN.
 J'obéis avec joie au plus sage Druide  
 Dont aux décrets du Sort la volonté préside.  
 
@@ -2438,7 +2438,7 @@ Voyez que plein de joie il la vient recevoir.
     CHARITE.
 Et Lucide en amour devait ne rien savoir ?  
 
-    LUCIDE, S'EN ALLANT.
+    LUCIDE, S’EN ALLANT.
 Je n'y sais rien aussi que la règle commune,  
 Que deux Amants ensemble, un tiers les importune.  
 
@@ -2904,7 +2904,7 @@ Sache que mon destin n'est pas moins glorieux,
 Comme eux je suis prophète, et mon bois fatidique  
 Va faire plus de bruit que le trépied Delphique.   [44]
 
-    ADRIAN, TIRANT SON ÉPÉE ET EN DONNANT QUELQUES COUPS SUR L'ÉCORCE DE L'ARBRE.
+    ADRIAN, TIRANT SON ÉPÉE ET EN DONNANT QUELQUES COUPS SUR L’ÉCORCE DE L’ARBRE.
 Fais-en enfin l'épreuve, ô le plus grand des fous ;  
 Étant ce que tu dis, tu dois sentir ces coups.  
 
@@ -3236,7 +3236,7 @@ En quels Arbres ?
         Voyez ; ma soeur est cerfière,  
 Et pour moi, le Destin m'a faite abricotière.  
 
-    LISIS, MONTRANT LES CONFITURES QU'ELLES PORTENT.
+    LISIS, MONTRANT LES CONFITURES QU’ELLES PORTENT.
 Quoi, Nymphe, sont-ce là les fruits que vous portez ?  
 
     CLORISE.
@@ -3366,7 +3366,7 @@ Par mille rejetons qui naîtront de son corps.
 
 Il vous fait signe, allez recevoir ses caresses.  
 
-    LISIS, TÂCHANT À SE TIRER D'ENTRE LES BRAS DU DIEU DE RIVIÈRE QUI LE SERRE TROP ÉTROITEMENT EN L'EMBRASSANT.
+    LISIS, TÂCHANT À SE TIRER D’ENTRE LES BRAS DU DIEU DE RIVIÈRE QUI LE SERRE TROP ÉTROITEMENT EN L’EMBRASSANT.
 Ah, pourquoi me presser ainsi que tu me presses ?  
 Tes bras réparent-ils le défaut de ta voix ?   [54]
 Arrête, Dieu muet, n'écache pas mon bois.  

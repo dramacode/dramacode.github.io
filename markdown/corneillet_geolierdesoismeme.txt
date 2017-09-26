@@ -604,12 +604,12 @@ Au contraire.
     ENRIQUE.
 Nous en sommes surpris.  
 
-    JODELET, REMETTANT SON ÉPÉE AU FOURREAU, ET S'APPROCHANT D'EUX..
+    JODELET, REMETTANT SON ÉPÉE AU FOURREAU, ET S’APPROCHANT D’EUX..
         Mettez-vous hors de peine,  
 Voici le holà mis à mon humeur hautaine.  
 Il faut un peu connaître avant que d'être ami.  
 
-    ENRIQUE, LUI SAISISSANT L'ÉPÉE..
+    ENRIQUE, LUI SAISISSANT L’ÉPÉE..
 Vous ne nous connaissez encore qu'à demi ;  
 Il faut rendre l'épée.  
 
@@ -2829,7 +2829,7 @@ Se flatte de l'espoir du bien qui m'est promis.
 Qu'il s'en flatte à présent autant que bon lui semble,  
 La Fortune vous rit.  
 
-    FLORE, À ISABELLE, QUI PARAÎT ET S'ARRÊTE À L'ENTRÉE DU THÉÂTRE.
+    FLORE, À ISABELLE, QUI PARAÎT ET S’ARRÊTE À L’ENTRÉE DU THÉÂTRE.
         Madame, ils sont ensemble.  
 
     FÉDÉRIC.

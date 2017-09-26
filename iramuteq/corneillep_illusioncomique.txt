@@ -123,7 +123,7 @@ Une vieille amitié prend part en ses malheurs.
 Rennes ainsi qu'à moi lui donna la naissance,
 Et presque entre ses bras j'ai passé mon enfance ;
 Là son fils, pareil d'âge et de condition,
-S'unissant avec moi d'étroite affection...
+S'unissant avec moi d'étroite affection…
 
 -*who_alcandre
 Dorante, c'est assez, je sais ce qui l'amène :
@@ -165,7 +165,7 @@ Pour se faire valoir et pour vous faire peur :
 Ma baguette à la main, j'en ferai davantage.
 Jugez de votre fils par un tel équipage :
 Eh bien ! Celui d'un prince a-t-il plus de splendeur ?
-Et pouvez-vous encore douter de sa grandeur ?
+Et pouvez-vous encor douter de sa grandeur ?
 
 -*who_pridamant
 D'un amour paternel vous flattez les tendresses ;
@@ -297,7 +297,7 @@ Faites-lui du silence, et l'écoutez parler.
 Quoi ! Monsieur, vous rêvez ! Et cette âme hautaine,
 Après tant de beaux faits, semble être encore en peine !
 N'êtes-vous point lassé d'abattre des guerriers,
-Et vous faut-il encore quelques nouveaux lauriers ?
+Et vous faut-il encor quelques nouveaux lauriers ?
 
 -*who_matamore
 Il est vrai que je rêve, et ne saurais résoudre
@@ -316,7 +316,7 @@ Le seul bruit de mon nom renverse les murailles,
 Défait les escadrons, et gagne les batailles.
 Mon courage invaincu contre les empereurs
 N'arme que la moitié de ses moindres fureurs ;
-D'un seul commandement que je fais aux trois parques,
+D'un seul commandement que je fais aux trois Parques,
 Je dépeuple l'état des plus heureux monarques ;
 Le foudre est mon canon, les destins mes soldats :
 Je couche d'un revers mille ennemis à bas.
@@ -340,7 +340,7 @@ Et ne crois point d'objet si ferme en sa rigueur,
 Qu'il puisse constamment vous refuser son coeur.
 
 -*who_matamore
-Je te le dis encore, ne sois plus en alarme :
+Je te le dis encor, ne sois plus en alarme :
 Quand je veux, j'épouvante ; et quand je veux, je charme ;
 Et, selon qu'il me plaît, je remplis tour à tour
 Les hommes de terreur, et les femmes d'amour.
@@ -378,7 +378,7 @@ Que j'aurais, sans cela, de poulets à vous rendre !
 
 -*who_matamore
 De quelle que ce soit, garde-toi bien d'en prendre,
-Sinon de... Tu m'entends ? Que dit-elle de moi ?
+Sinon de… Tu m'entends ? Que dit-elle de moi ?
 
 -*who_clindor
 Que vous êtes des coeurs et le charme et l'effroi ;
@@ -480,7 +480,7 @@ Comme votre valeur, votre prudence est rare.
 Hélas ! S'il est ainsi, quel malheur est le mien !
 Je soupire, j'endure, et je n'avance rien ;
 Et malgré les transports de mon amour extrême,
-Vous ne voulez pas croire encore que je vous aime.
+Vous ne voulez pas croire encor que je vous aime.
 
 -*who_isabelle
 Je ne sais pas, monsieur, de quoi vous me blâmez.
@@ -684,7 +684,7 @@ Je n'en puis plus douter.
 
 -*who_matamore
 Elle m'a beau prier : non, je n'en ferai rien.
-Et quoi qu'un fol espoir ose encore lui promettre,
+Et quoi qu'un fol espoir ose encor lui promettre,
 Je lui vais envoyer sa mort dans une lettre.
 Trouvez-le bon, ma reine, et souffrez cependant
 Une heure d'entretien de ce cher confident,
@@ -717,7 +717,7 @@ Que m'allez-vous conter ?
 -*who_clindor
       Que j'adore Isabelle,
 Que je n'ai plus de coeur ni d'âme que pour elle,
-Que ma vie...
+Que ma vie…
 
 -*who_isabelle
       Épargnez ces propos superflus ;
@@ -751,12 +751,12 @@ Les plus nobles désirs qu'enfante une belle âme.
 Je sais bien que mon père a d'autres sentiments,
 Et mettra de l'obstacle à nos contentements ;
 Mais l'amour sur mon coeur a pris trop de puissance
-Pour écouter encore les lois de la naissance.
+Pour écouter encor les lois de la naissance.
 Mon père peut beaucoup, mais bien moins que ma foi :
 Il a choisi pour lui, je veux choisir pour moi.
 
 -*who_clindor
-Confus de voir donner à mon peu de mérite...
+Confus de voir donner à mon peu de mérite…
 
 -*who_isabelle
 Voici mon importun, souffrez que je l'évite.
@@ -838,7 +838,7 @@ Mais ce n'est pas ici qu'il faut faire du bruit.
 **** *book_ *id_II08 *act_II *date_1636 *creator_corneille
 
 -*who_adraste
-Ce bélître insolent me fait encore bravade.
+Ce bélître insolent me fait encor bravade.
 
 -*who_lyse
 À ce compte, monsieur, votre esprit est malade ?
@@ -1018,7 +1018,7 @@ Ce que vous appelez un heureux hyménée
 N'est pour moi qu'un enfer si j'y suis condamnée.
 
 -*who_geronte
-Ah ! Qu'il en est encore de mieux faites que vous
+Ah ! Qu'il en est encor de mieux faites que vous
 Qui se voudraient bien voir dans un enfer si doux !
 Après tout, je le veux ; cédez à ma puissance.
 
@@ -1049,7 +1049,7 @@ Par force ou par adresse il me le faut chasser.
 
 -*who_matamore
 Ne doit-on pas avoir pitié de ma fortune ?
-Le grand vizir encore de nouveau m'importune ;
+Le grand vizir encor de nouveau m'importune ;
 Le Tartare, d'ailleurs, m'appelle à son secours ;
 Narsingue et Calicut m'en pressent tous les jours :
 Si je ne les refuse, il me faut mettre en quatre.
@@ -1074,7 +1074,7 @@ Monsieur, grâces aux dieux, je n'ai point d'ennemis.
 Mais grâces à ce bras qui vous les a soumis.
 
 -*who_geronte
-C'est une grâce encore que j'avais ignorée.
+C'est une grâce encor que j'avais ignorée.
 
 -*who_matamore
 Depuis que ma faveur pour vous s'est déclarée,
@@ -1108,7 +1108,7 @@ Je ne suis pas d'humeur à rire tant de fois
 Du grotesque récit de vos rares exploits.
 La sottise ne plaît qu'alors qu'elle est nouvelle :
 En un mot, faites reine une autre qu'Isabelle.
-Si pour l'entretenir vous venez plus ici...
+Si pour l'entretenir vous venez plus ici…
 
 -*who_matamore
 Il a perdu le sens, de me parler ainsi.
@@ -1168,7 +1168,7 @@ Va lui parler pour moi, toi qui n'es pas vaillant :
 Tu puniras à moins un valet insolent.
 
 -*who_clindor
-C'est m'exposer...
+C'est m'exposer…
 
 -*who_matamore
       Adieu : je vois ouvrir la porte,
@@ -1261,7 +1261,7 @@ Ah ! Que vous prodiguez un temps si précieux !
 Allez.
 
 -*who_clindor
-      Souviens-toi donc que si j'en aime une autre...
+      Souviens-toi donc que si j'en aime une autre…
 
 -*who_lyse
 C'est de peur d'ajouter ma misère à la vôtre :
@@ -1300,7 +1300,7 @@ Au siècle où nous vivons, qui n'en ferait autant ?
 Oublions des mépris où par force il s'excite,
 Et laissons-le jouir du bonheur qu'il mérite.
 S'il m'aime, il se punit en m'osant dédaigner,
-Et si je l'aime encore, je le dois épargner.
+Et si je l'aime encor, je le dois épargner.
 Dieux ! à quoi me réduit ma folle inquiétude,
 De vouloir faire grâce à tant d'ingratitude ?
 Digne soif de vengeance, à quoi m'exposez-vous,
@@ -1333,7 +1333,7 @@ S'il ne faut que courir, leur attente est dupée :
 J'ai le pied pour le moins aussi bon que l'épée.
 Tout de bon, je les vois : c'est fait, il faut mourir ;
 J'ai le corps si glacé, que je ne puis courir.
-Destin, qu'à ma valeur tu te montres contraire ! ...
+Destin, qu'à ma valeur tu te montres contraire ! …
 C'est ma reine elle-même, avec mon secrétaire !
 Tout mon corps se déglace : écoutons leurs discours,
 Et voyons son adresse à traiter mes amours.
@@ -1384,7 +1384,7 @@ L'un aura moins d'effet que l'autre n'a d'appas.
 Je ne vous dirai point où je suis résolue :
 Il suffit que sur moi je me rends absolue.
 Ainsi tous les projets sont des projets en l'air.
-Ainsi...
+Ainsi…
 
 -*who_matamore
       Je n'en puis plus : il est temps de parler.
@@ -1402,7 +1402,7 @@ Je vais bien l'apaiser ; n'en soyez pas en peine.
 Ah ! Traître !
 
 -*who_clindor
-      Parlez bas ; ces valets...
+      Parlez bas ; ces valets…
 
 -*who_matamore
       Eh bien ! Quoi ?
@@ -1437,8 +1437,8 @@ De fuir en diligence, ou d'être bien battu.
 
 -*who_matamore
 Me menacer encore ! Ah, ventre ! Quelle audace !
-Au lieu d'être à genoux, et d'implorer ma grâce ! ...
-Il a donné le mot, ces valets vont sortir...
+Au lieu d'être à genoux, et d'implorer ma grâce ! …
+Il a donné le mot, ces valets vont sortir…
 Je m'en vais commander aux mers de t'engloutir.
 
 -*who_clindor
@@ -1508,7 +1508,7 @@ Allez, vivez contents sous une même loi.
 Pour vous mieux obéir, je lui donne ma foi.
 
 -*who_clindor
-Commandez que sa foi de quelque effet suivie...
+Commandez que sa foi de quelque effet suivie…
 
 **** *book_ *id_III11 *act_III *date_1636 *creator_corneille
 
@@ -1588,7 +1588,7 @@ Jeter dans ton esprit un éternel effroi,
 Te reprocher ma mort, t'appeler après moi,
 Accabler de malheurs ta languissante vie,
 Et te réduire au point de me porter envie.
-Enfin...
+Enfin…
 
 **** *book_ *id_IV02 *act_IV *date_1636 *creator_corneille
 
@@ -1772,7 +1772,7 @@ Qu'accepter un mari pour qui je suis de glace,
 C'est me sacrifier à vos contentements.
 
 -*who_isabelle
-Aussi...
+Aussi…
 
 -*who_lyse
       Je ne veux point de vos remerciements.
@@ -1831,7 +1831,7 @@ Je te veux assurer tes plaisirs et ta vie ;
 Et mon amour éteint, te voyant en danger,
 Renaît pour m'avertir que c'est trop me venger.
 J'espère aussi, Clindor, que pour reconnaissance,
-De ton ingrat amour étouffant la licence...
+De ton ingrat amour étouffant la licence…
 
 **** *book_ *id_IV04 *act_IV *date_1636 *creator_corneille
 
@@ -1839,7 +1839,7 @@ De ton ingrat amour étouffant la licence...
 Quoi ! Chez nous, et de nuit !
 
 -*who_matamore
-      L'autre jour...
+      L'autre jour…
 
 -*who_isabelle
       Qu'est-ce-ci :
@@ -1909,7 +1909,7 @@ Quatre jours.
       Et vécu ?
 
 -*who_matamore
-      De nectar, d'ambrosie.
+      De nectar, d'ambroisie.
 
 -*who_lyse
 Je crois que cette viande aisément rassasie ?
@@ -1918,7 +1918,7 @@ Je crois que cette viande aisément rassasie ?
 Aucunement.
 
 -*who_isabelle
-      Enfin vous étiez descendu...
+      Enfin vous étiez descendu…
 
 -*who_matamore
 Pour faire qu'un amant en vos bras fût rendu,
@@ -1930,7 +1930,7 @@ Avouez franchement que, pressé de la faim,
 Vous veniez bien plutôt faire la guerre au pain.
 
 -*who_matamore
-L'un et l'autre, parbieu ! Cette ambrosie est fade :
+L'un et l'autre, parbieu ! Cette ambroisie est fade :
 J'en eus au bout d'un jour l'estomac tout malade.
 C'est un mets délicat, et de peu de soutien :
 À moins que d'être un dieu l'on n'en vivrait pas bien ;
@@ -1943,14 +1943,14 @@ Enfin c'est un ragoût qui ne vous plaisait pas ?
 -*who_matamore
 Quitte pour chaque nuit faire deux tours en bas,
 Et là, m'accommodant des reliefs de cuisine,
-Mêler la viande humaine avec la divine.
+Mêler la viande humaine avecque la divine.
 
 -*who_isabelle
 Vous aviez, après tout, dessein de nous voler.
 
 -*who_matamore
 Vous-mêmes, après tout, m'osez-vous quereller ?
-Si je laisse une fois échapper ma colère...
+Si je laisse une fois échapper ma colère…
 
 -*who_isabelle
 Lyse, fais-moi sortir les valets de mon père.
@@ -1978,7 +1978,7 @@ Mais vous n'aviez alors qu'à le laisser aller.
 -*who_isabelle
 Mais il m'a reconnue, et m'est venu parler.
 Moi qui, seule et de nuit, craignais son insolence,
-Et beaucoup plus encore de troubler le silence,
+Et beaucoup plus encor de troubler le silence,
 J'ai cru, pour m'en défaire et m'ôter de souci,
 Que le meilleur était de l'amener ici.
 Vois, quand j'ai ton secours, que je me tiens vaillante,
@@ -2238,7 +2238,7 @@ Et voulez-vous passer la nuit dans ce jardin ?
 -*who_isabelle
 Je ne puis plus cacher le sujet qui m'amène :
 C'est grossir mes douleurs que de taire ma peine.
-Le prince Florilame...
+Le prince Florilame…
 
 -*who_lyse
       Eh bien ! Il est absent.
@@ -2393,13 +2393,13 @@ Ingrat, c'est donc ainsi que tu rends les bienfaits ?
 Et ta reconnaissance a produit ces effets ?
 
 -*who_clindor
-Mon âme (car encore ce beau nom te demeure,
+Mon âme (car encor ce beau nom te demeure,
 Et te demeurera jusqu'à tant que je meure),
 Crois-tu qu'aucun respect ou crainte du trépas
 Puisse obtenir sur moi ce que tu n'obtiens pas ?
 Dis que je suis ingrat, appelle-moi parjure ;
 Mais à nos feux sacrés ne fais plus tant d'injure :
-Ils conservent encore leur première vigueur ;
+Ils conservent encor leur première vigueur ;
 Et si le fol amour qui m'a surpris le coeur
 Avait pu s'étouffer au point de sa naissance,
 Celui que je te porte eût eu cette puissance ;
@@ -2547,14 +2547,14 @@ Et de mon coeur jaloux les secrets mouvements
 N'ont pu rompre ce coup par leurs pressentiments !
 Ô clarté trop fidèle, hélas ! Et trop tardive,
 Qui ne fait voir le mal qu'au moment qu'il arrive !
-Fallait-il... Mais j'étouffe, et, dans un tel malheur,
+Fallait-il… Mais j'étouffe, et, dans un tel malheur,
 Mes forces et ma voix cèdent à ma douleur ;
 Son vif excès me tue ensemble et me console,
-Et puisqu'il nous rejoint...
+Et puisqu'il nous rejoint…
 
 -*who_lyse
       Elle perd la parole.
-Madame... Elle se meurt ; épargnons les discours,
+Madame… Elle se meurt ; épargnons les discours,
 Et courons au logis appeler du secours.
 
 **** *book_ *id_V05 *act_V *date_1636 *creator_corneille
@@ -2672,7 +2672,7 @@ J'ai cru la comédie au point où je l'ai vue ;
 J'en ignorais l'éclat, l'utilité, l'appas,
 Et la blâmais ainsi, ne la connaissant pas ;
 Mais depuis vos discours mon coeur plein d'allégresse
-A banni cette erreur avec sa tristesse.
+A banni cette erreur avecque sa tristesse.
 Clindor a trop bien fait.
 
 -*who_alcandre

@@ -6,16 +6,9 @@
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>
   </xsl:template>
-  <!-- vers numérotation OK -->
-  <xsl:template match="tei:l">
-    <xsl:copy>
-      <xsl:copy-of select="@*"/>
-      <xsl:apply-templates/>
-      <xsl:call-template name="copynote"/>
-    </xsl:copy>
-  </xsl:template>
-  <!-- Réinsertion des notes en fin de vers suivants -->
+  <!-- Couper les notes de Paul Fièvre -->
   <xsl:template match="tei:sp/tei:note"/>
+  <!--
   <xsl:template match="node()" mode="copynote"/>
   <xsl:template name="copynote" mode="copynote" match="tei:note">
     <xsl:if test="local-name(preceding-sibling::*[1]) = 'note'">
@@ -31,4 +24,12 @@
       </xsl:copy>
     </xsl:if>
   </xsl:template>
+  <xsl:template match="tei:l">
+    <xsl:copy>
+      <xsl:copy-of select="@*"/>
+      <xsl:apply-templates/>
+      <xsl:call-template name="copynote"/>
+    </xsl:copy>
+  </xsl:template>
+  -->
 </xsl:transform>

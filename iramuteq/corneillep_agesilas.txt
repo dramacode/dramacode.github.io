@@ -51,7 +51,7 @@ Et croirais que sa vue aurait eu le pouvoir
 D'en dissiper une partie.
 Car enfin Spitridate a l'entretien charmant,
 L'oeil vif, l'esprit aisé, le coeur bon, l'âme belle :
-À tant de qualités s'il joignait un vrai zèle...
+À tant de qualités s'il joignait un vrai zèle…
 
 -*who_aglatide
 Ma soeur, il n'est pas roi, comme l'est votre amant.
@@ -137,7 +137,7 @@ La reconnaissance et l'amour.
 -*who_aglatide
 Vous voyez cependant qu'à peine il me regarde,
 Depuis notre arrivée il ne m'a point parlé,
-Et quand ses yeux vers moi se tournent par mégarde...
+Et quand ses yeux vers moi se tournent par mégarde…
 
 -*who_elpinice
 Comme avec lui mon père a quelque démêlé,
@@ -150,7 +150,7 @@ Et dans le fond de l'âme il vit sous votre loi.
 À tous hasards, ma soeur, comme j'en suis mal sûre,
 Si vous me pouviez faire un don de votre amant,
 Je crois que je pourrais l'accepter sans murmure.
-Vous venez de parler du mien si dignement...
+Vous venez de parler du mien si dignement…
 
 -*who_elpinice
 Aimeriez-vous Cotys, ma soeur ?
@@ -191,7 +191,7 @@ Avouez tout, ma soeur : Spitridate vous plaît.
 
 -*who_elpinice
 Un peu plus que Cotys, et si votre intérêt
-Vous pouvait résoudre à l'échange...
+Vous pouvait résoudre à l'échange…
 
 -*who_aglatide
 Qu'en pouvons-nous ici résoudre vous et moi ?
@@ -208,7 +208,7 @@ N'eût pour lui des attraits plus forts que vos appas.
 
 -*who_aglatide
 Ma soeur, Spitridate est son frère,
-Et si jamais sur lui vous aviez du pouvoir...
+Et si jamais sur lui vous aviez du pouvoir…
 
 -*who_elpinice
 Le voilà qui nous considère.
@@ -259,7 +259,7 @@ Mais en cette froideur un heureux changement
 Pourrait-il fort vous satisfaire ?
 
 -*who_spitridate
-En doutez-vous, Madame, et peut-on concevoir...
+En doutez-vous, Madame, et peut-on concevoir…
 
 -*who_aglatide
 Je vous entends, Seigneur, et vois ce qu'il faut voir.
@@ -314,7 +314,7 @@ Et prendre autant de part à voir ma guérison,
 Qu'en ont eu vos attraits à faire mon supplice.
 
 -*who_elpinice
-Quoi ? Seigneur, j'aurais part...
+Quoi ? Seigneur, j'aurais part…
 
 -*who_spitridate
       C'est trop dissimuler
@@ -384,13 +384,13 @@ C'est notre souverain.
 Peut-être ai-je une soeur qu'il n'en dédira pas.
 Ce grand prince pour elle a tant de complaisance,
 Qu'à sa moindre prière il ne refuse rien,
-Et si son coeur voulait s'entendre avec le mien...
+Et si son coeur voulait s'entendre avec le mien…
 
 -*who_elpinice
 Reposez-vous, Seigneur, sur mon obéissance,
 Et contentez-vous de savoir
 Qu'aussi bien que ma soeur j'écoute mon devoir.
-Allez trouver Cotys, et sans aucun scrupule...
+Allez trouver Cotys, et sans aucun scrupule…
 
 -*who_spitridate
 Perdriez-vous pour moi son trône sans ennui ?
@@ -711,7 +711,7 @@ Agésilas, Seigneur ! Et le savez-vous bien ?
 
 -*who_spitridate
 Parler de vous sans cesse, aimer votre entretien,
-Vous donner tout crédit, ne chercher qu'à vous plaire...
+Vous donner tout crédit, ne chercher qu'à vous plaire…
 
 -*who_mandane
 Ce sont civilités envers une étrangère,
@@ -780,7 +780,7 @@ Ma seule ambition est d'être votre gendre ;
 Mais apprenez de grâce une autre vérité.
 Ce bonheur que j'attends, cette gloire où j'aspire,
 Et qui rendrait mon sort égal au sort des Dieux,
-N'a pour objet... Seigneur, je tremble à vous le dire,
+N'a pour objet… Seigneur, je tremble à vous le dire,
 Ma soeur vous l'expliquera mieux.
 
 **** *book_ *id_II03 *act_II *date_1666 *creator_corneille
@@ -884,7 +884,7 @@ Et de qui donc ?
 L'amour !
 
 -*who_cotys
-      Oui, cet amour qui me rend infidèle...
+      Oui, cet amour qui me rend infidèle…
 
 -*who_lysander
 Seigneur, du nom d'amour n'abusez point en vain,
@@ -935,7 +935,7 @@ Seigneur, pour vous les immoler !
 Car je ne saurais plus vous le dissimuler,
 Nos âmes en seront également ravies.
 Souffrez-lui donc sa part en ces ravissements,
-Et pardonnez, de grâce, à mon impatience...
+Et pardonnez, de grâce, à mon impatience…
 
 -*who_lysander
 Allez : on m'a vu jeune, et par expérience
@@ -1036,7 +1036,7 @@ Spitridate n'en fait pas moins.
 -*who_elpinice
 Si l'on nous fait quelque injustice,
 Seigneur, notre devoir s'en remet à vos soins,
-Je ne sais qu'obéir...
+Je ne sais qu'obéir…
 
 -*who_aglatide
       J'en sais donc davantage.
@@ -1068,7 +1068,7 @@ De voir qu'en dépit d'elle on lui rend du service !
 
 -*who_lysander
 Rendez-lui la pareille. Aime-t-elle Cotys ?
-Et s'il fallait changer entre vous de partis...
+Et s'il fallait changer entre vous de partis…
 
 -*who_aglatide
 Je n'ai pas besoin d'interprète,
@@ -1120,16 +1120,16 @@ Que je ne pouvais me promettre,
 Un peu de jalousie et de confusion
 Mutinait mes désirs et me soulevait l'âme,
 Et comme en cette occasion
-Mon devoir pour agir n'attendait point ma flamme...
+Mon devoir pour agir n'attendait point ma flamme…
 
 -*who_elpinice
 La gloire d'obéir à votre grand regret
 Vous faisait pester en secret,
-C'est l'ordre, et du devoir la scrupuleuse idée...
+C'est l'ordre, et du devoir la scrupuleuse idée…
 
 -*who_aglatide
 Que dites-vous, ma soeur, qu'osez-vous hasarder,
-Vous qui tantôt...
+Vous qui tantôt…
 
 -*who_elpinice
       Ma soeur, laissez-moi vous aider,
@@ -1150,7 +1150,7 @@ Mais de mon inclination
 Je mourrai fille, ou vivrai Reine.
 
 -*who_elpinice
-Achevez donc, ma soeur, dites qu'Agésilas...
+Achevez donc, ma soeur, dites qu'Agésilas…
 
 -*who_aglatide
 Ah, Seigneur, ne l'écoutez pas,
@@ -1511,7 +1511,7 @@ Se promettront plus d'heur à mieux choisir leur temps.
 Ainsi de toutes parts le péril m'environne,
 Si je veux le punir, j'expose ma couronne,
 Et si je lui fais grâce, ou veux dissimuler,
-Je dois craindre...
+Je dois craindre…
 
 -*who_xenocles
       Cotys, Seigneur, vous veut parler.
@@ -1562,7 +1562,7 @@ En est-il qui vous touche ? En est-il qui vous plaise ?
 Il en est, oui, Seigneur, il en est dans Éphèse,
 Et pour faire en ce coeur naître un nouvel amour,
 Il ne faut point aller plus loin que votre Cour.
-L'éclat et les vertus de l'illustre Mandane...
+L'éclat et les vertus de l'illustre Mandane…
 
 -*who_agesilas
 Que dites-vous, Seigneur, et quel est ce désir ?
@@ -1741,7 +1741,7 @@ Je vous le dis encor, Seigneur, pensez-y bien,
 Cotys aura Mandane, ou vous n'obtiendrez rien.
 
 -*who_spitridate
-Dites, dites un mot, et ma flamme enhardie...
+Dites, dites un mot, et ma flamme enhardie…
 
 -*who_elpinice
 Que voulez-vous que je vous die ?
@@ -1777,7 +1777,7 @@ Le vôtre est-il moins insensible ?
 
 -*who_elpinice
 S'il ne tenait qu'à lui que tout vous fût possible,
-Le devoir et l'amour...
+Le devoir et l'amour…
 
 -*who_spitridate
       Ah ! Madame, achevez,
@@ -1863,10 +1863,10 @@ Qui voulez que j'éteigne un feu digne de moi,
 Et ne sauriez vous faire une pareille loi !
 
 -*who_spitridate
-Hélas, considérez...
+Hélas, considérez…
 
 -*who_mandane
-      Considérez vous-même...
+      Considérez vous-même…
 
 -*who_spitridate
 Que j'aime, et que je suis aimé.
@@ -1886,7 +1886,7 @@ Quand la nôtre grossit sous cette retenue
 Dont le joug odieux ne sert qu'à l'irriter.
 Je vous parle, Seigneur, avec une âme ouverte,
 Et si je vous voyais capable de raison,
-Si quand l'amour domine elle était de saison...
+Si quand l'amour domine elle était de saison…
 
 -*who_spitridate
 Ah ! Si quelque lumière enfin vous est offerte,
@@ -1962,7 +1962,7 @@ S'il m'aime, un tel silence est la marque certaine
 Qu'il craint Sparte et ses dures lois,
 Qu'il voit qu'en m'épousant, s'il peut m'y faire Reine,
 Il ne peut lui donner des Rois ;
-Que sa gloire...
+Que sa gloire…
 
 -*who_spitridate
       Ma soeur, l'amour vaincra sans doute,
@@ -1985,7 +1985,7 @@ N'est-ce point hautement lui demander sa haine,
 Quand vous lui promettez l'objet de son amour ?
 
 -*who_spitridate
-Si vous saviez, ma soeur, aimer autant que j'aime...
+Si vous saviez, ma soeur, aimer autant que j'aime…
 
 -*who_mandane
 Si vous saviez, mon frère, aimer comme je fais,
@@ -2175,7 +2175,7 @@ L'étrange contre-temps que prend sa belle humeur !
 Et la froide galanterie
 D'affecter par bravade à tourner son malheur
 En importune raillerie !
-Son coeur l'en désavoue, et murmurant tout bas...
+Son coeur l'en désavoue, et murmurant tout bas…
 
 -*who_cotys
 Que cette belle humeur soit véritable, ou feinte,
@@ -2264,7 +2264,7 @@ Et par pitié d'un coeur trop ardemment épris
 L'éteindre ! Ah, se peut-il que vous m'ayez aimée ?
 
 -*who_cotys
-Jamais si digne flamme en un coeur allumée...
+Jamais si digne flamme en un coeur allumée…
 
 -*who_mandane
 Non, non, vous m'en feriez des serments superflus,
@@ -2315,7 +2315,7 @@ D'un trait assez perçant armera ma douleur
 Pour trancher de mes jours le déplorable reste.
 
 -*who_cotys
-Que dites-vous, Madame, et par quel sentiment...
+Que dites-vous, Madame, et par quel sentiment…
 
 -*who_cleon
 Spitridate, Seigneur, et Lysander vous prient
@@ -2331,7 +2331,7 @@ Voudront vous inspirer quelque chose de mieux.
 -*who_xenocles
 Je remets en vos mains et l'une et l'autre lettre
 Que l'esclave Damis aux miennes vient de mettre.
-Vous y verrez, Seigneur, quels sont les attentats...
+Vous y verrez, Seigneur, quels sont les attentats…
 
 -*who_agesilas
 AU SÉNATEUR CRATÈS, À L'ÉPHORE ARSIDAS.
@@ -2346,7 +2346,7 @@ D'obtenir que de vous ce qui ferait leur joie.
 
 -*who_agesilas
 Par cette déférence il croit les mieux aigrir,
-Et rejetant sur moi ce qu'ils ont à souffrir...
+Et rejetant sur moi ce qu'ils ont à souffrir…
 
 -*who_xenocles
 Vous avez mandé Spitridate,
@@ -2383,7 +2383,7 @@ Et j'ai trouvé ma foi plus facile à reprendre,
 Que mon coeur à redemander.
 
 -*who_agesilas
-Si vous considériez...
+Si vous considériez…
 
 -*who_spitridate
       Seigneur, que considère
@@ -2445,7 +2445,7 @@ Et je ne sais pas bien où pencherait son choix,
 Si le ciel lui donnait à choisir de deux Rois.
 Vous l'avez jusqu'ici de tant d'honneurs comblée,
 De tant de faveurs accablée,
-Qu'à vos ordres ses voeux sans peine assujettis...
+Qu'à vos ordres ses voeux sans peine assujettis…
 
 -*who_agesilas
 L'ingrate !
@@ -2482,13 +2482,13 @@ Si je l'ai jusqu'ici de tant d'honneurs comblée,
 De tant de faveurs accablée,
 Ces faveurs, ces honneurs ne lui disaient-ils rien ?
 Elle les entendait trop bien en dépit d'elle,
-Mais l'ingrate, mais la cruelle...
+Mais l'ingrate, mais la cruelle…
 Seigneur, à votre tour vous m'entendez trop bien.
 Qu'elle aille chez Cotys partager sa couronne,
 Je n'y mets point d'obstacle, et n'en veux rien savoir,
 Soit que l'ambition, soit que l'amour la donne,
 Vous avez tous deux tout pouvoir.
-Si pourtant vous m'aimiez...
+Si pourtant vous m'aimiez…
 
 -*who_spitridate
       Soyez sûr de mon zèle,
@@ -2537,7 +2537,7 @@ Nommez-vous un exil le trône d'un époux ?
 Quel trône, et quel époux ?
 
 -*who_agesilas
-      Cotys...
+      Cotys…
 
 -*who_mandane
       Je crois qu'il m'aime :
@@ -2546,7 +2546,7 @@ Et comme un protecteur que j'ai choisi moi-même,
 Puis-je sans votre aveu l'assurer de ma foi ?
 Après tant de bontés et de marques d'estime,
 À vous moins déférer je croirais faire un crime,
-Et mon âme...
+Et mon âme…
 
 -*who_agesilas
       Ah, c'est trop déférer et trop peu.
@@ -2554,7 +2554,7 @@ Quoi, pour cet hyménée exiger mon aveu !
 
 -*who_mandane
 Jusque-là mon bonheur n'aura qu'incertitude,
-Et bien qu'une couronne éblouisse aisément...
+Et bien qu'une couronne éblouisse aisément…
 
 -*who_spitridate
 Ma soeur, il faut parler un peu plus clairement.
@@ -2570,7 +2570,7 @@ Prête à de prompts refus une digne matière.
 
 -*who_agesilas
 Si vous vouliez avoir des yeux
-Pour voir de ces refus la véritable cause...
+Pour voir de ces refus la véritable cause…
 
 -*who_spitridate
 N'est-ce pas assez dire, et faut-il autre chose ?
@@ -2775,7 +2775,7 @@ Allez dire à Cotys que Mandane est à lui,
 Que si mes feux aux siens ne l'ont pas accordée,
 Pour venger son amour de ce moment d'ennui,
 Je veux la lui céder comme il me l'a cédée.
-Oyez de plus...
+Oyez de plus…
 
 **** *book_ *id_V07 *act_V *date_1666 *creator_corneille
 
@@ -2796,7 +2796,7 @@ Et que va devenir cette docte harangue,
 Qui du fameux Cléon doit ennoblir la langue ?
 
 -*who_lysander
-Seigneur...
+Seigneur…
 
 -*who_agesilas
       Nous sommes seuls, j'ai chassé Xénoclès,
@@ -2847,7 +2847,7 @@ Pour vous en faire Général.
 Je vous dois cependant et la vie et ma gloire,
 Et lorsqu'un dessein malheureux
 Peut me coûter le jour et souiller ma mémoire,
-La magnanimité de ce coeur généreux...
+La magnanimité de ce coeur généreux…
 
 -*who_agesilas
 Reprochez-moi plutôt toutes mes injustices,
@@ -2864,7 +2864,7 @@ C'est ainsi qu'avec vous je puis le partager.
 
 -*who_lysander
 Seigneur, à ces bontés que je n'osais attendre
-Que puis-je...
+Que puis-je…
 
 -*who_agesilas
       Jugez-en comme il en faut juger,

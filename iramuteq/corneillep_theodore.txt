@@ -17,7 +17,7 @@ Au-dessous des Césars, je suis ce qu'on peut être :
 À moins que de leur rang le mien ne saurait croître ;
 Et pour haut qu'on ait mis des titres si sacrés,
 On y monte souvent par de moindres degrés.
-Mais ces honneurs pour moi ne sont qu'une infâmie,
+Mais ces honneurs pour moi ne sont qu'une infamie,
 Parce que je les tiens d'une main ennemie,
 Et leur plus doux appas qu'un excès de rigueur,
 Parce que pour échange on veut avoir mon coeur.
@@ -39,7 +39,7 @@ Quoique pour vous Marcelle ait le nom de marâtre,
 Considérez, seigneur, qu'elle vous idolâtre :
 Voyez d'un oeil plus sain ce que vous lui devez,
 Les biens et les honneurs qu'elle vous a sauvés.
-Quand Dioclétian fut maître de l'empire...
+Quand Dioclétian fut maître de l'empire…
 
 -*who_placide
 Mon père était perdu, c'est ce que tu veux dire.
@@ -120,10 +120,10 @@ Qu'une amour mutuelle unirait vos deux âmes,
 Voyez où cette amour vous peut précipiter,
 Quel orage sur vous elle doit exciter,
 Ce que dira Valens, ce que fera Marcelle.
-Souffrez que son parent vous dise enfin pour elle...
+Souffrez que son parent vous dise enfin pour elle…
 
 -*who_placide
-Ah ! Si je puis encore quelque chose sur toi,
+Ah ! Si je puis encor quelque chose sur toi,
 Ne me dis rien pour elle, et dis-lui tout pour moi ;
 Dis-lui que je suis sûr des bontés de mon père,
 Ou que s'il se rendait d'une humeur trop sévère,
@@ -143,7 +143,7 @@ Fais-lui voir mon pouvoir, fais-lui voir mon ardeur :
 Son dédain est peut-être un effet de sa peur ;
 Et si tu lui pouvais arracher cette crainte,
 Tu pourrais dissiper cette froideur contrainte,
-Tu pourrais... Mais je vois Marcelle qui survient.
+Tu pourrais… Mais je vois Marcelle qui survient.
 
 **** *book_ *id_I02 *act_I *date_1645 *creator_corneille
 
@@ -335,7 +335,7 @@ Je joindrai de si près l'effet à la menace,
 Que sa perte aujourd'hui me quittera la place.
 
 -*who_placide
-Vous perdrez aujourd'hui...
+Vous perdrez aujourd'hui…
 
 -*who_marcelle
       Théodore à vos yeux.
@@ -346,7 +346,7 @@ Au pied de leurs autels en fera ma victime.
 -*who_placide
 Et je jure à vos yeux ces mêmes immortels
 Que je la vengerai jusque sur leurs autels.
-Je jure plus encore, que si je pouvais croire
+Je jure plus encor, que si je pouvais croire
 Que vous eussiez dessein d'une action si noire,
 Il n'est point de respect qui pût me retenir
 D'en punir la pensée et de vous prévenir ;
@@ -368,7 +368,7 @@ Dont le cruel destin prend un si triste cours
 Qu'aux jours de ce barbare il attache ses jours ?
 
 -*who_stephanie
-Je tremble encore de voir où sa rage l'emporte.
+Je tremble encor de voir où sa rage l'emporte.
 
 -*who_marcelle
 Ma colère en devient et plus juste et plus forte,
@@ -400,7 +400,7 @@ L'amour va rarement jusque dans un tombeau
 S'unir au reste affreux de l'objet le plus beau.
 Hasardons ; je ne vois que ce conseil à prendre.
 Théodore vivante, il n'en faut rien prétendre ;
-Et Théodore morte, on peut encore douter
+Et Théodore morte, on peut encor douter
 Quel sera le succès que tu veux redouter.
 Quoi qu'il arrive enfin, de la sorte outragée,
 C'est un plaisir bien doux que de se voir vengée.
@@ -443,7 +443,7 @@ C'est avec son orgueil être d'intelligence ;
 Aussi bien que le fils le père m'est suspect,
 Et vous manquez de foi, comme lui de respect.
 Ah ! Si vous déployiez cette haute puissance
-Que donnent aux parents les droits de la naissance...
+Que donnent aux parents les droits de la naissance…
 
 -*who_valens
 Si la haine et l'amour lui doivent obéir,
@@ -488,7 +488,7 @@ Prenez leur intérêt : Théodore est chrétienne :
 C'est la cause des dieux, et ce n'est plus la mienne.
 
 -*who_valens
-Souvent la calomnie...
+Souvent la calomnie…
 
 -*who_marcelle
       Il n'en faut plus parler,
@@ -577,7 +577,7 @@ Et qu'une âme insensible aux plus saintes ardeurs
 Cède honteusement à l'éclat des grandeurs.
 Si cette fermeté dont elle est ennoblie
 Par quelques traits d'amour pouvait être affaiblie,
-Mon coeur, plus incapable encore de vanité,
+Mon coeur, plus incapable encor de vanité,
 Ne ferait point de choix que dans l'égalité ;
 Et rendant aux grandeurs un respect légitime,
 J'honorerais Placide, et j'aimerais Didyme.
@@ -646,7 +646,7 @@ Je périrai pour lui si je ne puis l'aimer.
 
 -*who_cleobule
 Ne vous pas mieux servir d'un amour si fidèle,
-C'est...
+C'est…
 
 -*who_theodore
       Quittons ce discours, je vois venir Marcelle.
@@ -683,7 +683,7 @@ Cependant quittez-nous, que je puisse à mon tour
 Servir de confidente à cet illustre amour.
 
 -*who_cleobule
-Ne croyez pas, madame...
+Ne croyez pas, madame…
 
 -*who_marcelle
       Obéissez, de grâce :
@@ -722,7 +722,7 @@ Croyez que me tromper, c'est vous tromper vous-même ;
 Et si vous vous aimez, souffrez que je vous aime.
 
 -*who_theodore
-Je n'ai point vu, madame, encore jusqu'à ce jour
+Je n'ai point vu, madame, encor jusqu'à ce jour
 Avec tant de menace expliquer tant d'amour,
 Et peu faite à l'honneur de pareilles visites,
 J'aurais lieu de douter de ce que vous me dites ;
@@ -735,7 +735,7 @@ J'aurais assez de coeur pour ne le point cacher.
 Cette haute puissance à ses vertus rendue
 L'égale presque aux rois dont je suis descendue ;
 Et si Rome et le temps m'en ont ôté le rang,
-Il m'en demeure encore le courage et le sang.
+Il m'en demeure encor le courage et le sang.
 Dans mon sort ravalé je sais vivre en princesse :
 Je fuis l'ambition, mais je hais la faiblesse ;
 Et comme ses grandeurs ne peuvent m'ébranler,
@@ -1091,7 +1091,7 @@ L'encens que votre orgueil refuse à leurs autels.
 -*who_theodore
 Valens me fait par vous porter cette menace ;
 Mais s'il hait les chrétiens, il respecte ma race :
-Le sang d'Antiochus n'est pas encore si bas
+Le sang d'Antiochus n'est pas encor si bas
 Qu'on l'abandonne en proie aux fureurs des soldats.
 
 -*who_paulin
@@ -1115,7 +1115,7 @@ Dieu de la pureté, que vos lois sont bien autres !
 Au lieu de blasphémer, obéissez aux nôtres,
 Et ne redoublez point par vos impiétés
 La haine et le courroux de nos dieux irrités :
-Après nos châtiments ils ont encore leur foudre.
+Après nos châtiments ils ont encor leur foudre.
 On vous donne de grâce une heure à vous résoudre ;
 Vous savez votre arrêt, vous avez à choisir :
 Usez utilement de ce peu de loisir.
@@ -1162,7 +1162,7 @@ Prenez soin de la porte, et sans me répliquer :
 Ce n'est pas devant vous que je veux m'expliquer.
 
 -*who_paulin
-Seigneur...
+Seigneur…
 
 -*who_placide
       Laissez-nous, dis-je, et craignez ma colère ;
@@ -1177,7 +1177,7 @@ Vous qui ne craignez pas la colère des cieux ?
 -*who_placide
 Redoublez vos mépris, mais bannissez des craintes
 Qui portent à mon coeur de plus rudes atteintes ;
-Ils sont encore plus doux que les indignités
+Ils sont encor plus doux que les indignités
 Qu'imputent vos frayeurs à mes témérités ;
 Et ce n'est pas contre eux que mon âme s'irrite.
 Je sais qu'ils font justice à mon peu de mérite ;
@@ -1191,7 +1191,7 @@ Aussi ne pensez pas que je vous importune
 De payer mon amour, ou de voir ma fortune :
 Je ne demande pas un bien qui leur soit dû ;
 Mais je viens pour vous rendre un bien presque perdu,
-Encore le même amant qu'une rigueur si dure
+encor le même amant qu'une rigueur si dure
 A toujours vu brûler et souffrir sans murmure,
 Qui plaint du sexe en vous les respects violés,
 Votre libérateur enfin, si vous voulez.
@@ -1251,7 +1251,7 @@ Et par tous ces dédains où j'ai su recourir,
 J'ai voulu vous déplaire afin de vous guérir.
 Louez-en le dessein, en apprenant la cause :
 Un obstacle éternel à vos désirs s'oppose.
-Chrétienne, et sous les lois d'un plus puissant époux...
+Chrétienne, et sous les lois d'un plus puissant époux…
 Mais, seigneur, à ce mot ne soyez pas jaloux.
 Quelque haute splendeur que vous teniez de Rome,
 Il est plus grand que vous ; mais ce n'est point un homme :
@@ -1273,7 +1273,7 @@ Mais pour braver Marcelle et m'affranchir de honte,
 Il est une autre voie et plus sûre et plus prompte,
 Que dans l'éternité j'aurais lieu de bénir :
 La mort ; et c'est de vous que je dois l'obtenir.
-Si vous m'aimez encore, comme j'ose le croire,
+Si vous m'aimez encor, comme j'ose le croire,
 Vous devez cette grâce à votre propre gloire ;
 En m'arrachant la mienne on la va déchirer ;
 C'est votre choix, c'est vous qu'on va déshonorer.
@@ -1298,7 +1298,7 @@ Il parle, et j'obéis à son secret empire ;
 Et contre l'ordre exprès de son commandement,
 Je sens que c'est de lui que vient ce mouvement.
 Pour le suivre, seigneur, souffrez que votre épée
-Me puisse...
+Me puisse…
 
 -*who_placide
       Oui, vous l'aurez, mais dans mon sang trempée ;
@@ -1341,14 +1341,14 @@ Vous n'êtes pas celui dont Dieu s'y veut servir :
 Il saura bien sans vous en susciter un autre,
 Dont le bras moins puissant, mais plus saint que le vôtre,
 Par un zèle plus pur se fera mon appui,
-Sans porter ses desirs sur un bien tout à lui.
+Sans porter ses désirs sur un bien tout à lui.
 Mais parlez à Marcelle.
 
 **** *book_ *id_III04 *act_III *date_1645 *creator_corneille
 
 -*who_placide
       Ah, dieux, quelle infortune !
-Faut-il qu'à tous moments...
+Faut-il qu'à tous moments…
 
 -*who_marcelle
       Je vous suis importune
@@ -1373,7 +1373,7 @@ Et vous fait l'ennemi de l'empire et des dieux ?
 Tant les illustres noms d'infâme et de rebelle
 Vous semblent précieux à les porter pour elle !
 Vous trouvez, je m'assure, en un si digne lieu
-Cet objet de vos voeux encore digne d'un Dieu ?
+Cet objet de vos voeux encor digne d'un Dieu ?
 J'ai conservé son sang de peur de vous déplaire,
 Et pour ne forcer pas votre juste colère
 À ce serment conçu par tous les immortels
@@ -1416,11 +1416,11 @@ Et je n'ai pas moins qu'elle à rougir d'un supplice
 Qui profane l'autel où j'ai fait sacrifice,
 Et de l'illustre objet de mes plus saints désirs
 Fait l'infâme rebut des plus sales plaisirs.
-S'il vous demeure encore quelque espoir pour Flavie,
+S'il vous demeure encor quelque espoir pour Flavie,
 Conservez-moi l'honneur pour conserver sa vie ;
 Et songez que l'affront où vous m'abandonnez
 Déshonore l'époux que vous lui destinez.
-Je vous le dis encore, sauvez-moi cette honte :
+Je vous le dis encor, sauvez-moi cette honte :
 Ne désespérez pas une âme qui se dompte,
 Et par le noble effort d'un généreux emploi,
 Triomphez de vous-même aussi bien que de moi.
@@ -1440,8 +1440,8 @@ Que vous, qui n'aspiriez qu'à ne me devoir rien,
 Vous me vouliez devoir un si précieux bien.
 Mais comme en ses désirs aisément on se flatte,
 Dussai-je contre moi servir une âme ingrate,
-Perdre encore mes faveurs, et m'en voir abuser,
-Je vous aime encore trop pour vous rien refuser.
+Perdre encor mes faveurs, et m'en voir abuser,
+Je vous aime encor trop pour vous rien refuser.
 Oui, puisque Théodore enfin me rend capable
 De vous rendre une fois un office agréable,
 Puisque son intérêt vous force à me traiter
@@ -1466,7 +1466,7 @@ En l'état où je suis, quoi qu'il puisse avenir,
 Je vous dois tout promettre, et ne puis rien tenir ;
 Je ne vous puis donner qu'une attente frivole :
 Ne me réduisez point à manquer de parole ;
-Je crains, mais j'aime encore, et mon coeur amoureux...
+Je crains, mais j'aime encore, et mon coeur amoureux…
 
 -*who_marcelle
 Le mien est raisonnable autant que généreux.
@@ -1474,7 +1474,7 @@ Je ne demande pas que vous cessiez encore
 Ou de haïr Flavie, ou d'aimer Théodore :
 Ce grand coup doit tomber plus insensiblement,
 Et je me défierais d'un si prompt changement.
-Il faut languir encore dedans l'incertitude,
+Il faut languir encor dedans l'incertitude,
 Laisser faire le temps et cette ingratitude :
 Je ne veux à présent qu'une fausse pitié,
 Qu'une feinte douceur, qu'une ombre d'amitié.
@@ -1542,7 +1542,7 @@ Toi, va par quelque adresse amuser sa visite,
 Et sous un faux appas prolonger l'entretien.
 
 -*who_stephanie
-Donc...
+Donc…
 
 -*who_marcelle
       Le temps presse : va, sans t'informer de rien
@@ -1550,7 +1550,7 @@ Donc...
 **** *book_ *id_IV01 *act_IV *date_1645 *creator_corneille
 
 -*who_stephanie
-Seigneur...
+Seigneur…
 
 -*who_placide
       Va, Stéphanie, en vain tu me rappelles,
@@ -1560,7 +1560,7 @@ Et laisse trop durer cet ennuyeux moment.
 Pour souffrir plus longtemps un supplice si rude,
 J'ai trop d'impatience et trop d'inquiétude :
 Il faut voir Théodore, il faut savoir mon sort,
-Il faut...
+Il faut…
 
 -*who_stephanie
       Ah ! Faites-vous, seigneur, un peu d'effort.
@@ -1605,8 +1605,8 @@ Instruis-moi seulement de l'ordre de tes crimes.
 Qu'a-t-on fait de mon âme ? Où la dois-je chercher ?
 
 -*who_stephanie
-Vous n'avez pas sujet encore de vous fâcher :
-Elle est...
+Vous n'avez pas sujet encor de vous fâcher :
+Elle est…
 
 -*who_placide
       Dépêche, dis ce qu'en a fait Marcelle.
@@ -1627,7 +1627,7 @@ Et je devais juger, dans mon sort rigoureux,
 Que l'ennemi qui flatte est le plus dangereux.
 Mais souvent on s'aveugle, et dans des maux extrêmes,
 Les esprits généreux jugent tout par eux-mêmes ;
-Et lorsqu'on les trahit...
+Et lorsqu'on les trahit…
 
 **** *book_ *id_IV02 *act_IV *date_1645 *creator_corneille
 
@@ -1647,10 +1647,10 @@ Ne me fais plus languir, dis promptement.
 
 -*who_lycante
       D'abord
-Valens changeait l'arrêt en un arrêt de mort...
+Valens changeait l'arrêt en un arrêt de mort…
 
 -*who_placide
-Ah ! Si de cet arrêt jusqu'à l'effet on passe...
+Ah ! Si de cet arrêt jusqu'à l'effet on passe…
 
 -*who_lycante
 Marcelle a refusé cette sanglante grâce :
@@ -1765,7 +1765,7 @@ Quoi ? Marcelle en effet ne l'a pas garantie ?
 Que l'âme toute en feu, les yeux étincelants,
 Rapportant elle-même un ordre de Valens,
 Avec trente soldats elle a saisi la porte,
-Et tirant de ce lieu Théodore à main-forte...
+Et tirant de ce lieu Théodore à main-forte…
 
 -*who_placide
 Ô dieux ! Jusqu'à ses pieds j'ai donc pu m'abaisser,
@@ -1807,7 +1807,7 @@ Tous courent à la proie avec avidité,
 Tous montrent à l'envi même brutalité.
 Je croyais déjà voir de cette ardeur égale
 Naître quelque discorde à ces tigres fatale,
-Quand Didyme...
+Quand Didyme…
 
 -*who_placide
       Ah, le lâche ! Ah, le traître !
@@ -1834,7 +1834,7 @@ Il entre sans obstacle.
 Viens me voir dans ses bras lui faire vomir l'âme,
 Viens voir de ma colère un juste et prompt effet
 Joindre en ces mêmes lieux la peine à son forfait,
-Confondre son triomphe avec son supplice.
+Confondre son triomphe avecque son supplice.
 
 -*who_paulin
 Ce n'est pas en ces lieux qu'il vous fera justice :
@@ -1862,7 +1862,7 @@ J'en vois une partie à mes pieds abattue.
 Au spectacle sanglant que je m'étais promis,
 Cléobule survient avec quelques amis,
 Met l'épée à la main, tourne en fuite le reste,
-Entre...
+Entre…
 
 -*who_placide
       Lui seul ?
@@ -1888,7 +1888,7 @@ Qui des siens l'a suivi ?
       Cette troupe fidèle
 M'a chassé comme chef des soldats de Marcelle :
 Je n'ai rien vu de plus ; mais loin de le blâmer,
-Je présume...
+Je présume…
 
 -*who_placide
       Ah ! Je sais ce qu'il faut présumer.
@@ -1956,7 +1956,7 @@ Quand Paulin de ses yeux a vu sortir Didyme ?
 Si ses yeux l'ont trompé, l'erreur est légitime ;
 Et si vous n'en savez que ce qu'il vous a dit,
 écoutez-en, seigneur, un fidèle récit.
-Vous ignorez encore la meilleure partie :
+Vous ignorez encor la meilleure partie :
 Sous l'habit de Didyme elle-même est sortie.
 
 -*who_placide
@@ -1970,7 +1970,7 @@ Sous le sien, au lieu d'elle, est resté dans ces lieux.
 Que dis-tu, Cléobule ? Ils ont fait cet échange ?
 
 -*who_cleobule
-C'est une nouveauté qui doit sembler étrange...
+C'est une nouveauté qui doit sembler étrange…
 
 -*who_placide
 Et qui me porte encor de plus étranges coups.
@@ -2087,9 +2087,9 @@ La princesse, à ma vue également atteinte
 D'étonnement, d'horreur, de colère et de crainte,
 À tant de passions exposée à la fois,
 A perdu quelque temps l'usage de la voix :
-Aussi j'avais l'audace encore sur le visage
+Aussi j'avais l'audace encor sur le visage
 Qui parmi ces mutins m'avait donné passage,
-Et je portais encore sur le front imprimé
+Et je portais encor sur le front imprimé
 Cet insolent orgueil dont je l'avais armé.
 Enfin reprenant coeur : " arrête, me dit-elle,
 Arrête ; "Et m'allait faire une longue querelle ;
@@ -2107,7 +2107,7 @@ Fuyez sous mon habit, et me laissez, de grâce,
 Sous le vôtre en ces lieux occuper votre place ;
 C'est par ce moyen seul qu'on peut vous garantir :
 Conservez une vierge en faisant un martyr. "
-Elle, à cette prière encore demi-tremblante,
+Elle, à cette prière encor demi-tremblante,
 Et mêlant à sa joie un reste d'épouvante,
 Me demande pardon, d'un visage étonné,
 De tout ce que son âme a craint ou soupçonné.
@@ -2159,7 +2159,7 @@ Tu m'as sauvé l'honneur, j'assurerai tes jours,
 Et mourrai, s'il le faut, moi-même à ton secours.
 
 -*who_didyme
-Seigneur...
+Seigneur…
 
 -*who_placide
       Ne me dis rien. Après de tels services,
@@ -2203,7 +2203,7 @@ Que je crains pour Marcelle et même pour Valens.
 Mais a-t-il condamné ce généreux coupable ?
 
 -*who_paulin
-Il l'interroge encore, mais en juge implacable.
+Il l'interroge encor, mais en juge implacable.
 
 -*who_cleobule
 Il m'a permis pourtant de l'attendre en ce lieu,
@@ -2285,7 +2285,7 @@ Et pour cela vers moi Théodore t'envoie ?
 Son esprit adouci me veut par cette voie ?
 
 -*who_cleobule
-Non, elle ignore encore que tu sois arrêté ;
+Non, elle ignore encor que tu sois arrêté ;
 Mais ose en sa faveur te mettre en liberté ;
 Ose te dérober aux fureurs de Marcelle,
 Et Placide t'enlève en Égypte avec elle,
@@ -2387,7 +2387,7 @@ Quand ce qu'il m'a fait faire a pu m'en acquérir
 Et l'honneur du martyre et le droit de mourir.
 
 -*who_theodore
-Tu t'obstines en vain, la haine de Marcelle...
+Tu t'obstines en vain, la haine de Marcelle…
 
 **** *book_ *id_V06 *act_V *date_1645 *creator_corneille
 
@@ -2479,7 +2479,7 @@ Nous sortirons tous deux avec une couronne.
 
 -*who_didyme
 Oui, madame, on exauce et vos voeux et les miens :
-Dieu...
+Dieu…
 
 -*who_marcelle
       Vous suivrez ailleurs de si doux entretiens.
@@ -2493,7 +2493,7 @@ Et qu'il en répandra s'il trouve tout perdu !
 Allons chercher Valens : qu'à tant de violence
 Il oppose, non plus une molle prudence,
 Mais un courage mâle, et qui d'autorité,
-Sans rien craindre...
+Sans rien craindre…
 
 **** *book_ *id_V07 *act_V *date_1645 *creator_corneille
 
@@ -2584,7 +2584,7 @@ Et l'amour de Placide a bravé son effort.
 
 -*who_valens
 Marcelle a donc osé les traîner à la mort
-Sans mon su, sans mon ordre ? Et son audace extrême...
+Sans mon su, sans mon ordre ? Et son audace extrême…
 
 -*who_stephanie
 Seigneur, pleurez sa perte, elle est morte elle-même.
@@ -2596,7 +2596,7 @@ Elle est morte !
       Elle l'est.
 
 -*who_valens
-      Et Placide a commis...
+      Et Placide a commis…
 
 -*who_stephanie
 Non, ce n'est en effet ni lui ni ses amis ;
@@ -2630,7 +2630,7 @@ Quoi ? Théodore est morte !
 -*who_valens
 Et l'un et l'autre enfin de la main de Marcelle ?
 Ah ! Tout est pardonnable aux douleurs d'un amant,
-Et quoi qu'ait fait Placide en son ressentiment...
+Et quoi qu'ait fait Placide en son ressentiment…
 
 -*who_stephanie
 Il n'a rien fait, seigneur ; mais écoutez le reste :
@@ -2672,7 +2672,7 @@ Et Placide ?
 -*who_stephanie
       J'ai fui, voyant Marcelle morte,
 De peur qu'une douleur et si juste et si forte
-Ne vengeât... Mais, seigneur, je l'aperçois qui vient.
+Ne vengeât… Mais, seigneur, je l'aperçois qui vient.
 
 -*who_valens
 Arrête : de faiblesse à peine il se soutient ;
@@ -2709,7 +2709,7 @@ Je l'ai craint et prévu jusqu'à saisir ses armes ;
 Mais comme après ce soin j'en avais moins d'alarmes,
 Embrassant Théodore, un funeste hasard
 A fait dessous sa main rencontrer ce poignard,
-Par où ses déplaisirs trompant ma prévoyance...
+Par où ses déplaisirs trompant ma prévoyance…
 
 -*who_valens
 Ah ! Fallait-il avoir si peu de défiance ?
@@ -2726,10 +2726,10 @@ Il fallait que mon bras s'en mît dans l'impuissance :
 C'est par là seulement qu'il s'est pu retenir,
 Et je me suis puni de peur de te punir.
 Je te punis pourtant : c'est ton sang que je verse ;
-Si tu m'aimes encore, c'est ton sein que je perce ;
+Si tu m'aimes encor, c'est ton sein que je perce ;
 Et c'est pour te punir que je viens en ces lieux,
 Pour le moins en mourant te blesser par les yeux.
-Daigne ce juste ciel...
+Daigne ce juste ciel…
 
 -*who_valens
       Cléobule, il expire.

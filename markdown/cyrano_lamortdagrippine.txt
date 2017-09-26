@@ -2,7 +2,7 @@
 identifier: cyrano_lamortdagrippine  
 creator: Cyrano de Bergerac  
 date: 1653  
-title: La Mort d'Agrippine. , veuve de germanicus, tragédie.  
+title: La Mort d’Agrippine. , veuve de germanicus, tragédie.  
 ---
 
 
@@ -1228,7 +1228,7 @@ Il brigue contre toi la faveur du Sénat.
         Il renverse l'État,  
 Il sème de l'argent parmi la populace.  
 
-    SÉJANUS, BAS À AGRIPPINE EN SE JETANT AUX PIEDS DE L'EMPEREUR.
+    SÉJANUS, BAS À AGRIPPINE EN SE JETANT AUX PIEDS DE L’EMPEREUR.
 Nous périrons, Madame, et sans implorer grâce !  
 Oui, Seigneur, il est vrai, j'ai conjuré !  
 

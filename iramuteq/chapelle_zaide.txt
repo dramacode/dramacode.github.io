@@ -33,7 +33,7 @@ Registré sur le Livre de la Communauté le dix-huitiéme jour de Mars 1681 ;
 
 Achevé d'imprimer pour la premiere fois le vingtiéme de Mars 1681.
 
-**** *book_ *id_body-401 *act_ *date_1681 
+**** *book_ *id_I01 *act_ *date_1681 
 
 -*who_zulemar
 La princesse Fatime, Osmar, est chez le Roy ?
@@ -46,7 +46,7 @@ Oüy, Seigneur
 -*who_zulemar
       Il suffit, Osmar, je vais l'attendre.
 
-**** *book_ *id_body-402 *act_ *date_1681 
+**** *book_ *id_I02 *act_ *date_1681 
 
 -*who_zulemar
 Tu t'étonnes, Amy, des honneurs qu'on me rend.
@@ -224,7 +224,7 @@ Si je le haissois, pourois-je faire plus !
 -*who_abendax
 Le Roy vient ; cachez luy vostre flâme alarmée.
 
-**** *book_ *id_body-403 *act_ *date_1681 
+**** *book_ *id_I03 *act_ *date_1681 
 
 -*who_abderamen
 Scavez-vous qu'Alamir a quitté mon Armée,
@@ -290,7 +290,7 @@ Vous n'en croirez, Seigneur, qu'un trop ardent couroux.
 -*who_abderamen
 Gardes, qu'on se retire ; Abendax, laissez-nous.
 
-**** *book_ *id_body-404 *act_ *date_1681 
+**** *book_ *id_I04 *act_ *date_1681 
 
 -*who_abderamen
 Quoy qu'ait fait d'Alamir la valeur sans seconde⁎,
@@ -314,7 +314,7 @@ Retourner est le sien, l'y resoudre est le vostre,
 Il importe à tous deux d'estre exacts : pensez y,
 C'est ce qu'ordonne un Roy qui veut estre obeï.
 
-**** *book_ *id_body-405 *act_ *date_1681 
+**** *book_ *id_I05 *act_ *date_1681 
 
 -*who_zulemar
 Qu'entens-je ! A quel employ me vois-je destinée ?
@@ -345,7 +345,7 @@ Oüy, pour le confirmer allons trouver Fatime ;
 Allons vanter du Roy la precieuse estime,
 L'éclat du Diadême aura….Mais je la voy.
 
-**** *book_ *id_body-406 *act_ *date_1681
+**** *book_ *id_I06 *act_ *date_1681
 
 -*who_fatime
 Dois-je croire, Seigneur, ce que m'apprend le Roy :
@@ -437,7 +437,7 @@ Je sçauray m'en punir par une longue absence,
 Et mon cœur trop sensible à ces folles amours,
 Vous les dit une fois pour les taire toûjours.
 
-**** *book_ *id_body-407 *act_ *date_1681
+**** *book_ *id_I07 *act_ *date_1681
 
 -*who_zulemar
 Elle me quitte. Où suis-je, & que viens-je d'apprendre !
@@ -469,7 +469,7 @@ Epuisez tout sur moy, je suis seule coupable,
 Mais, Abendax, sortons ; viens apprendre de moy
 Ce que m'a dit Fatime, & ce que veut le Roy.
 
-**** *book_ *id_body-501 *act_ *date_1681
+**** *book_ *id_II01 *act_ *date_1681
 
 -*who_alamir
 Non, ne nous flattons point d'une vaine esperance,
@@ -563,7 +563,7 @@ Pour ternir quelque jour tout l'éclat de ma vie.
 -*who_gazul
 Seigneur, je voy Fatime, elle vient en ces lieux.
 
-**** *book_ *id_body-502 *act_ *date_1681
+**** *book_ *id_II02 *act_ *date_1681
 
 -*who_fatime
 Que voy-je, est-ce Alamir, en croiray-je mes yeux ?
@@ -635,7 +635,7 @@ Par le trouble où je suis, jugez de ma douleur,
 Et pour ne point moy-mesme affliger votre coeur,
 Souffrez que je vous cache un ennuy⁎ qui m'accable.
 
-**** *book_ *id_body-503 *act_ *date_1681
+**** *book_ *id_II03 *act_ *date_1681
 
 -*who_alamir
 Ah! Gazul, mon soupçon n'est que trop veritable,
@@ -668,7 +668,7 @@ Mes exploits prés du Roy parleront pour moy-méme,
 Il me rendra l'estime acquise à mon devoir.
 Entrons.
 
-**** *book_ *id_body-504 *act_ *date_1681
+**** *book_ *id_II04 *act_ *date_1681
 
 -*who_osmar
       Seigneur, le Roy vous défent de le voir.
@@ -691,7 +691,7 @@ Quand viendra-t'il ?
 -*who_osmar
       Seigneur, le voicy.
 
-**** *book_ *id_body-505 *act_ *date_1681
+**** *book_ *id_II05 *act_ *date_1681
 
 -*who_zulemar
       Laissez-nous,
@@ -776,7 +776,7 @@ Et je verray couler sans regret tout mon sang,
 Plûtost que de rien⁎ faire indigne de mon rang.
 Adieu.
 
-**** *book_ *id_body-506 *act_ *date_1681
+**** *book_ *id_II06 *act_ *date_1681
 
 -*who_abendax
       Vous le voyez ; une haine invincible
@@ -816,7 +816,7 @@ D'un Heros qu'elle outrage embrasser la défense...
 Elle seule, Abendax, peut calmer mon soucy :
 Viens, allons la trouver...Mais elle arrive icy.
 
-**** *book_ *id_body-507 *act_ *date_1681 
+**** *book_ *id_II07 *act_ *date_1681 
 
 -*who_fatime
 Du destin d'Alamir, Seigneur, daignez m'instruire ;
@@ -893,7 +893,7 @@ Trompons-là, tout est juste, & tout est glorieux,
 Pour sauver du trépas ce qu'on aime le mieux.
 Fin du second Acte.
 
-**** *book_ *id_body-601 *act_ *date_1681 
+**** *book_ *id_III01 *act_ *date_1681 
 
 -*who_zulemar
 Oüy tu verras changer le destin qui m'accable;
@@ -924,7 +924,7 @@ Fier, inflexible, exempt de honte, de bassesse,
 Et dont l'amour enfin est l'unique foiblesse :
 Mais j'entens Alamir : c'est luy, retire toy.
 
-**** *book_ *id_body-602 *act_ *date_1681
+**** *book_ *id_III02 *act_ *date_1681
 
 -*who_zulemar
 Seigneur dans un moment vous allez voir le Roy,
@@ -950,7 +950,7 @@ Mais les Princes, Seigneur, que l'équité soûtient,
 Veulent estre absolus, vous le sçavez. Il vient
 Je vous laisse.
 
-**** *book_ *id_body-603 *act_ *date_1681
+**** *book_ *id_III03 *act_ *date_1681
 
 -*who_alamir
       Seigneur...
@@ -1093,7 +1093,7 @@ Je vous entens, je voy ce que vous pouvez faire.
 Je sçauray profiter de cet aveu sincere.
 Pensez-y.
 
-**** *book_ *id_body-604 *act_ *date_1681
+**** *book_ *id_III04 *act_ *date_1681
 
 -*who_alamir
       Qu'ay-je à craindre en l'état où je suis :
@@ -1107,7 +1107,7 @@ De tout ce qu'elle doit à ma flâme, à sa gloire,
 Je la connois ; certain que ses vœux sont pour moy.
 Je me tiens beaucoup moins infortuné que toy.
 
-**** *book_ *id_body-605 *act_ *date_1681
+**** *book_ *id_III05 *act_ *date_1681
 
 -*who_fatime
 Ah ! que viens-je de voir ? Seigneur, le Roy vous quitte.
@@ -1169,7 +1169,7 @@ A noircy de mes jours, a détruit l'innocence.
 L'état où je vous voy m'arrache cet aveu
 Oubliez tout de moy, jusqu'à mon nom : Adieu.
 
-**** *book_ *id_body-606 *act_ *date_1681
+**** *book_ *id_III06 *act_ *date_1681
 
 -*who_alamir
 Où suis-je, juste Ciel ! L'ay-je bien entenduë⁎?
@@ -1179,7 +1179,7 @@ Helas ! voila celuy que je craignois le moins !
 Lors que je la croyois de moy seul occupée.
 La cruelle…
 
-**** *book_ *id_body-607 *act_ *date_1681 
+**** *book_ *id_III07 *act_ *date_1681 
 
 -*who_osmar
       Seigneur, donnez moy vostre épée :
@@ -1203,7 +1203,7 @@ Fait passer dans mes mains ce fer si redoutable.
 Il suffit, je rends grace, Osmar, à vos bontez.
 Marchez, conduisez⁎-moy, je vous suis.
 
-**** *book_ *id_body-608 *act_ *date_1681 
+**** *book_ *id_III08 *act_ *date_1681 
 
 -*who_zulemar
       Arrestez.
@@ -1267,7 +1267,7 @@ Tu seras satisfait : Qu'on l'oste de ces lieux,
 Je ne vous retiens plus. Gardes qu'on le saisisse ;
 Vous avez l'ordre, Osmar, faites qu'on obeïsse.
 
-**** *book_ *id_body-609 *act_ *date_1681 
+**** *book_ *id_III09 *act_ *date_1681 
 
 -*who_zulemar
 Va, cours, marche au devant d'un trépas asseuré
@@ -1286,7 +1286,7 @@ Sacrifier l'ingrat à ma juste fureur :
 Dussay-je après sa mort expirer de douleur.
 Fin du troisième Acte.
 
-**** *book_ *id_body-701 *act_ *date_1681 
+**** *book_ *id_IV01 *act_ *date_1681 
 
 -*who_zindarize
 Ouy, Madame, avec soin les portes sont gardées
@@ -1332,7 +1332,7 @@ Seul de tous ses projets le Roy sçait les raisons,
 Le secret fut toûjours sa grande politique ;
 Mais il vient : Avec vous, faites qu'il s'en explique.
 
-**** *book_ *id_body-702 *act_ *date_1681 
+**** *book_ *id_IV02 *act_ *date_1681 
 
 -*who_abderamen
 Tandis que mes Sujets sont dans l'étonnement⁎,
@@ -1451,7 +1451,7 @@ Songez-y ; sur ce point c'est à vous de resoudre,
 Vous n'avez qu'un moment pour retenir la foudre.
 Gardes à moy.
 
-**** *book_ *id_body-703 *act_ *date_1681
+**** *book_ *id_IV03 *act_ *date_1681
 
 -*who_zulemar
       Seigneur.
@@ -1549,7 +1549,7 @@ Une cruelle, enfin que j'aime, que j'adore,
 Conspirent l'un & l'autre à me percer le cœur :
 Mais qui vient en ces lieux ? que me veux-t'on ?
 
-**** *book_ *id_body-704 *act_ *date_1681
+**** *book_ *id_IV04 *act_ *date_1681
 
 -*who_osmar
       Seigneur,
@@ -1561,7 +1561,7 @@ Et je viens…
 -*who_abderamen
       Il suffit, qu'on le fasse venir.
 
-**** *book_ *id_body-705 *act_ *date_1681 
+**** *book_ *id_IV05 *act_ *date_1681 
 
 -*who_abderamen
 Pensez-vous que cedant à vos lâches envies⁎,
@@ -1569,7 +1569,7 @@ Je vous laisse joüir de tant de perfidies ?
 Vous n'insulterez point au malheur de mes feux.
 Qu'en leurs appartements on les garde tous deux.
 
-**** *book_ *id_body-706 *act_ *date_1681
+**** *book_ *id_IV06 *act_ *date_1681
 
 -*who_abderamen
 Rendez graces au Ciel, dont la bonté m'éclaire,
@@ -1650,7 +1650,7 @@ Venez donc en resoudre, & contre cet ingrat,
 Faisons de nostre haine un interest d'Etat.
 Fin du quatrième Acte
 
-**** *book_ *id_body-801 *act_ *date_1681 
+**** *book_ *id_V01 *act_ *date_1681 
 
 -*who_abendax
 Venez. Auprés de vous le Roy mesme m'envoye,
@@ -1723,7 +1723,7 @@ Puissay-je ne laisser aucun nom après moy,
 Et puisse mon secret mourir avecque toy.
 Mais, qu'est-ce qu'on nous veut ?
 
-**** *book_ *id_body-802 *act_ *date_1681
+**** *book_ *id_V02 *act_ *date_1681
 
 -*who_osmar
       Si vous voulez sa grace,
@@ -1736,7 +1736,7 @@ Madame en joüissant d'un entretien si doux,
 Songez bien que son sort ne dépend que de vous.
 Qu'on se retire.
 
-**** *book_ *id_body-803 *act_ *date_1681 
+**** *book_ *id_V03 *act_ *date_1681 
 
 -*who_fatime
       He, bien pour m'avoir trop sceu plaire,
@@ -1802,7 +1802,7 @@ Mais que vois-je ? Alamir se presente à mes yeux,
 Quel sujet le conduit⁎, quel mouvement le presse :
 O Dieux, dans ce moment soûtenez ma foiblesse.
 
-**** *book_ *id_body-804 *act_ *date_1681 
+**** *book_ *id_V04 *act_ *date_1681 
 
 -*who_zulemar
 Alamir, quel dessein porte vers moy tes pas,
@@ -1933,7 +1933,7 @@ Daignent-ils par pitié s'abaisser jusqu'à moy ?
 Daigne-tu voir mes pleurs, hélas ! infortunée…
 Mais que vois-je ? déja m'auroit-on condamnée.
 
-**** *book_ *id_body-805 *act_ *date_1681
+**** *book_ *id_V05 *act_ *date_1681
 
 -*who_zulemar
 Qu'est-ce, Osmar.
@@ -1960,7 +1960,7 @@ Le Roy sçait rasseurer sa craintive pudeur,
 Qu'à sa gloire⁎, à l'éclat de la grandeur suprême,
 Ouvrant enfin les yeux… mais le Roy vient luy-mesme.
 
-**** *book_ *id_body-806 *act_ *date_1681
+**** *book_ *id_V06 *act_ *date_1681
 
 -*who_zulemar
 Seigneur, après l'abus commis aux yeux de tous ;

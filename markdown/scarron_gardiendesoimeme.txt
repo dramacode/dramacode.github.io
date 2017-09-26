@@ -511,7 +511,7 @@ Adieu beau harangueur ; mais comme j'ai le dos.
     FILIPIN.
 Mâtine, ai-je rien dit qui ne soit à propos.  
 
-    MAURICETTE. ELLE S'EN VA.
+    MAURICETTE. ELLE S’EN VA.
 On t'a pourtant fait taire avec ton beau langage.  
 
     FILIPIN, SEUL. [10]
@@ -630,7 +630,7 @@ S'en fâche qui voudra, je ronfle quand je dors.
     LICASTE.
 Il se livre lui-même et se met dans le piège.  
 
-    FILIPIN S'ENDORMANT.
+    FILIPIN S’ENDORMANT.
 Chargé comme je suis j'avais besoin d'un siège.  
 
     LICASTE.
@@ -662,7 +662,7 @@ Ce Mars n'a pas l'amour peint sur son beau visage,
 Et sa beauté n'est pas du prix de son courage.  
 Levez-vous, Cavalier.  
 
-    FILIPIN, S'ÉVEILLANT.
+    FILIPIN, S’ÉVEILLANT.
         Qui va là ? Qui va là ?  
 Et qui m'a garrotté les mains comme cela ?  
 
@@ -1369,7 +1369,7 @@ Qu'elle vienne aussitôt dans mon appartement.
 
 ## SCÈNE I. Constance, Isabelle, Sabine.
 
-    CONSTANCE SUIVIE DE L'INFANTE QUI L'OBSERVE.
+    CONSTANCE SUIVIE DE L’INFANTE QUI L’OBSERVE.
 Ô raison qui m'avez sitôt abandonnée,  
 Revenez au secours d'une âme forcenée,  
 De ses désirs esclaves, et qui passe en un jour,  
@@ -1779,7 +1779,7 @@ Le repos de l'État si nécessaire à tous.
 J'y vois de l'apparence, il faut aujourd'hui même,  
 Jeter les fondements de notre stratagème.  
 
-    FILIPIN, À L'UN DES BOUTS DU THÉÂTRE.
+    FILIPIN, À L’UN DES BOUTS DU THÉÂTRE.
 Et l'Infante ? Sulpice.  
 
     SULPICE.
@@ -2690,7 +2690,7 @@ Qui s'étaient joints ensemble afin de le charger.
     CONSTANCE.
 C'est assez.  
 
-    SULPICE SEUL, ET S'EN ALLANT.
+    SULPICE SEUL, ET S’EN ALLANT.
         J'ai menti longtemps sans perdre haleine.  
 
     CONSTANCE.
@@ -2843,7 +2843,7 @@ Pour le mettre en son tort, s'il manque à son devoir.
 
 ## SCÈNE V. Le Prince de Sicile, Isabelle, Le Roi, etc.
 
-    LE PRINCE DE SICILE, TENANT L'INFANTE PAR LA MAIN.
+    LE PRINCE DE SICILE, TENANT L’INFANTE PAR LA MAIN.
 Tant que j'aurai de vie, ô Princesse adorable ;  
 J'aurai devant les yeux cet accueil favorable :  
 L'honneur que je reçois de vous donner la main,  
@@ -3213,7 +3213,7 @@ Qui vous ont en la tête un tel fantôme mis.
 Celui que vous croyez un Prince imaginaire  
 Est Alcandre, ma nièce.  
 
-    CONSTANCE, QUI VOIT L'INFANTE ET ALCANDRE QUI RIENT, ET PARLENT BAS.
+    CONSTANCE, QUI VOIT L’INFANTE ET ALCANDRE QUI RIENT, ET PARLENT BAS.
         Oui, qui tua mon frère.  
 Un ingrat qui me joue, et par un lâche tour  
 Me tourne en ridicule envers toute la Cour.  

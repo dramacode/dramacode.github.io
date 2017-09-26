@@ -2,7 +2,7 @@
 identifier: scarron_ecolierdesalamanque  
 creator: Scarron, Paul  
 date: 1654  
-title: L'Escolier de Salamanque.  ou les généreux ennemis, tragi-comédie  
+title: L’Escolier de Salamanque.  ou les généreux ennemis, tragi-comédie  
 ---
 
 
@@ -2993,7 +2993,7 @@ Ha traîtres ! Tant de gens me prendre à l'impourvu.
 Mais quand bien vous seriez encore davantage,  
 Je vous ferais périr.  
 
-    DON PEDRE, TUANT UN DES BRAVES D'UN COUP DE PISTOLET.
+    DON PEDRE, TUANT UN DES BRAVES D’UN COUP DE PISTOLET.
         Je suis pour vous, courage.  
 Le plus méchant est mort.  
 
@@ -3155,7 +3155,7 @@ Qu'as-tu fait de mon frère ?
 
 ## SCÈNE V. Le Comte, Léonore, Cassandre, Crispin, Béatris.
 
-    LE COMTE, SORTANT DU BORD DE L'EAU.
+    LE COMTE, SORTANT DU BORD DE L’EAU.
         Avais-je à le garder.  
 
     LÉONORE.

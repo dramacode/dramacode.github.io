@@ -107,7 +107,7 @@ Sur mes pareils, Néarque, un bel oeil est bien fort :
 Tel craint de le fâcher qui ne craint pas la mort ;
 Et s'il faut affronter les plus cruels supplices,
 Y trouver des appas, en faire mes délices,
-Votre Dieu, que je n'ose encore nommer le mien,
+Votre Dieu, que je n'ose encor nommer le mien,
 M'en donnera la force en me faisant chrétien.
 
 -*who_nearque
@@ -169,7 +169,7 @@ Mais enfin il le faut.
 -*who_polyeucte
       Je vous aime,
 Le ciel m'en soit témoin, cent fois plus que moi-même ;
-Mais...
+Mais…
 
 -*who_pauline
       Mais mon déplaisir ne vous peut émouvoir !
@@ -547,8 +547,8 @@ Vous la verrez, seigneur.
 -*who_severe
       Ah ! Quel comble de joie !
 Cette chère beauté consent que je la voie !
-Mais ai-je sur son âme encore quelque pouvoir ?
-Quelque reste d'amour s'y fait-il encore voir ?
+Mais ai-je sur son âme encor quelque pouvoir ?
+Quelque reste d'amour s'y fait-il encor voir ?
 Quel trouble, quel transport lui cause ma venue ?
 Puis-je tout espérer de cette heureuse vue ?
 Car je voudrais mourir plutôt que d'abuser
@@ -592,7 +592,7 @@ Ah ! C'en est trop, enfin éclaircis-moi ce point ;
 As-tu vu des froideurs quand tu l'en as priée ?
 
 -*who_fabian
-Je tremble à vous le dire ; elle est...
+Je tremble à vous le dire ; elle est…
 
 -*who_severe
       Quoi ?
@@ -636,7 +636,7 @@ Que mon coeur, chez les morts emportant son image,
 De son dernier soupir puisse lui faire hommage !
 
 -*who_fabian
-Seigneur, considérez...
+Seigneur, considérez…
 
 -*who_severe
       Tout est considéré.
@@ -644,7 +644,7 @@ Quel désordre peut craindre un coeur désespéré ?
 N'y consent-elle pas ?
 
 -*who_fabian
-      Oui, seigneur, mais...
+      Oui, seigneur, mais…
 
 -*who_severe
       N'importe.
@@ -688,7 +688,7 @@ Sans que l'objet présent l'irrite et le redouble.
 Fabian, je la vois.
 
 -*who_fabian
-      Seigneur, souvenez-vous...
+      Seigneur, souvenez-vous…
 
 -*who_severe
 Hélas ! Elle aime un autre, un autre est son époux.
@@ -744,9 +744,9 @@ Mais quelque autorité que sur eux elle ait prise,
 Elle n'y règne pas, elle les tyrannise ;
 Et quoique le dehors soit sans émotion,
 Le dedans n'est que trouble et que sédition.
-Un je ne sais quel charme encore vers vous m'emporte ;
+Un je ne sais quel charme encor vers vous m'emporte ;
 Votre mérite est grand, si ma raison est forte :
-Je le vois encore tel qu'il alluma mes feux,
+Je le vois encor tel qu'il alluma mes feux,
 D'autant plus puissamment solliciter mes voeux,
 Qu'il est environné de puissance et de gloire,
 Qu'en tous lieux après vous il traîne la victoire,
@@ -754,11 +754,11 @@ Que j'en sais mieux le prix, et qu'il n'a point déçu
 Le généreux espoir que j'en avais conçu.
 Mais ce même devoir qui le vainquit dans Rome,
 Et qui me range ici dessous les lois d'un homme,
-Repousse encore si bien l'effort de tant d'appas,
+Repousse encor si bien l'effort de tant d'appas,
 Qu'il déchire mon âme et ne l'ébranle pas.
 C'est cette vertu même, à nos désirs cruelle,
 Que vous louiez alors en blasphémant contre elle :
-Plaignez-vous-en encore ; mais louez sa rigueur,
+Plaignez-vous-en encor ; mais louez sa rigueur,
 Qui triomphe à la fois de vous et de mon coeur ;
 Et voyez qu'un devoir moins ferme et moins sincère
 N'aurait pas mérité l'amour du grand Sévère.
@@ -773,7 +773,7 @@ La grandeur de ma perte et ce que vous valez ;
 Et cachant par pitié cette vertu si rare,
 Qui redouble mes feux lorsqu'elle nous sépare,
 Faites voir des défauts qui puissent à leur tour
-Affaiblir ma douleur avec mon amour.
+Affaiblir ma douleur avecque mon amour.
 
 -*who_pauline
 Hélas ! Cette vertu, quoique enfin invincible,
@@ -849,7 +849,7 @@ Adieu, trop malheureux et trop parfait amant.
 **** *book_ *id_II03 *act_II *date_1643 *creator_corneille
 
 -*who_stratonice
-Je vous ai plaints tous deux, j'en verse encore des larmes ;
+Je vous ai plaints tous deux, j'en verse encor des larmes ;
 Mais du moins votre esprit est hors de ses alarmes :
 Vous voyez clairement que votre songe est vain ;
 Sévère ne vient pas la vengeance à la main.
@@ -861,7 +861,7 @@ Souffre un peu de relâche à mes esprits troublés,
 Et ne m'accable point par des maux redoublés.
 
 -*who_stratonice
-Quoi ? Vous craignez encore !
+Quoi ? Vous craignez encor !
 
 -*who_pauline
       Je tremble, Stratonice ;
@@ -895,7 +895,7 @@ Malgré les faux avis par vos dieux envoyés,
 Je suis vivant, madame, et vous me revoyez.
 
 -*who_pauline
-Le jour est encore long, et ce qui plus m'effraie,
+Le jour est encor long, et ce qui plus m'effraie,
 La moitié de l'avis se trouve déjà vraie :
 J'ai cru Sévère mort, et je le vois ici.
 
@@ -934,7 +934,7 @@ Que vous devez coûter de regrets à Sévère !
 Qu'aux dépens d'un beau feu vous me rendez heureux,
 Et que vous êtes doux à mon coeur amoureux !
 Plus je vois mes défauts et plus je vous contemple,
-Plus j'admire...
+Plus j'admire…
 
 **** *book_ *id_II05 *act_II *date_1643 *creator_corneille
 
@@ -1083,18 +1083,18 @@ D'où vient cette froideur ?
 -*who_polyeucte
 Il s'est offert pourtant : suivons ce saint effort ;
 Dressons-lui des autels sur des monceaux d'idoles.
-Il faut (je me souviens encore de vos paroles)
+Il faut (je me souviens encor de vos paroles)
 Négliger, pour lui plaire, et femme, et biens, et rang,
 Exposer pour sa gloire et verser tout son sang.
 Hélas ! Qu'avez-vous fait de cette amour parfaite
 Que vous me souhaitiez, et que je vous souhaite ?
-S'il vous en reste encore, n'êtes-vous point jaloux
-Qu'à grand'peine chrétien, j'en montre plus que vous ?
+S'il vous en reste encor, n'êtes-vous point jaloux
+Qu'à grand-peine chrétien, j'en montre plus que vous ?
 
 -*who_nearque
 Vous sortez du baptême, et ce qui vous anime,
 C'est sa grâce qu'en vous n'affaiblit aucun crime ;
-Comme encore toute entière, elle agit pleinement,
+Comme encor toute entière, elle agit pleinement,
 Et tout semble possible à son feu véhément ;
 Mais cette même grâce, en moi diminuée,
 Et par mille péchés sans cesse exténuée,
@@ -1190,10 +1190,10 @@ Se sont-ils querellés ?
 
 -*who_stratonice
       Polyeucte, Néarque,
-Les chrétiens...
+Les chrétiens…
 
 -*who_pauline
-      Parle donc : les chrétiens...
+      Parle donc : les chrétiens…
 
 -*who_stratonice
       Je ne puis.
@@ -1209,7 +1209,7 @@ L'ont-ils assassiné ?
 
 -*who_stratonice
       Ce serait peu de chose.
-Tout votre songe est vrai, Polyeucte n'est plus...
+Tout votre songe est vrai, Polyeucte n'est plus…
 
 -*who_pauline
 Il est mort !
@@ -1246,7 +1246,7 @@ Il vous donne à présent sujet de le haïr :
 Qui trahit tous nos dieux aurait pu vous trahir.
 
 -*who_pauline
-Je l'aimerais encore, quand il m'aurait trahie ;
+Je l'aimerais encor, quand il m'aurait trahie ;
 Et si de tant d'amour tu peux être ébahie,
 Apprends que mon devoir ne dépend point du sien :
 Qu'il y manque, s'il veut ; je dois faire le mien.
@@ -1259,7 +1259,7 @@ Mais quel ressentiment en témoigne mon père ?
 -*who_stratonice
 Une secrète rage, un excès de colère,
 Malgré qui toutefois un reste d'amitié
-Montre pour Polyeucte encore quelque pitié.
+Montre pour Polyeucte encor quelque pitié.
 Il ne veut point sur lui faire agir sa justice,
 Que du traître Néarque il n'ait vu le supplice.
 
@@ -1330,7 +1330,7 @@ Par une main impie à leurs pieds abattue,
 Les mystères troublés, le temple profané,
 La fuite et les clameurs d'un peuple mutiné,
 Qui craint d'être accablé sous le courroux céleste.
-Félix... Mais le voici qui vous dira le reste.
+Félix… Mais le voici qui vous dira le reste.
 
 -*who_pauline
 Que son visage est sombre et plein d'émotion !
@@ -1433,7 +1433,7 @@ Mais il est aveuglé.
 Qui chérit son erreur ne la veut pas connaître.
 
 -*who_pauline
-Mon père, au nom des dieux...
+Mon père, au nom des dieux…
 
 -*who_felix
       Ne les réclamez pas,
@@ -1446,7 +1446,7 @@ Ils écoutent nos voeux.
       Eh bien ! Qu'il leur en fasse.
 
 -*who_pauline
-Au nom de l'empereur dont vous tenez la place...
+Au nom de l'empereur dont vous tenez la place…
 
 -*who_felix
 J'ai son pouvoir en main ; mais s'il me l'a commis,
@@ -1491,7 +1491,7 @@ S'il nous semblait tantôt courir à son malheur,
 C'est d'un nouveau chrétien la première chaleur.
 
 -*who_pauline
-Si vous l'aimez encore, quittez cette espérance,
+Si vous l'aimez encor, quittez cette espérance,
 Que deux fois en un jour il change de croyance :
 Outre que les chrétiens ont plus de dureté,
 Vous attendez de lui trop de légèreté.
@@ -1514,7 +1514,7 @@ Eh bien donc ! Polyeucte aura ce qu'il désire :
 N'en parlons plus.
 
 -*who_pauline
-      Mon père...
+      Mon père…
 
 **** *book_ *id_III04 *act_III *date_1643 *creator_corneille
 
@@ -1535,7 +1535,7 @@ Et son coeur s'affermit, au lieu de s'ébranler.
 -*who_pauline
 Je vous le disais bien. Encore un coup, mon père,
 Si jamais mon respect a pu vous satisfaire,
-Si vous l'avez prisé, si vous l'avez chéri...
+Si vous l'avez prisé, si vous l'avez chéri…
 
 -*who_felix
 Vous aimez trop, Pauline, un indigne mari.
@@ -1569,7 +1569,7 @@ Tantôt jusqu'en ce lieu je le ferai venir :
 Cependant quittez-nous, je veux l'entretenir.
 
 -*who_pauline
-De grâce, permettez...
+De grâce, permettez…
 
 -*who_felix
       Laissez-nous seuls, vous dis-je :
@@ -1597,7 +1597,7 @@ Et l'autre ?
 Loin d'en être abattu, son coeur en est plus haut ;
 On l'a violenté pour quitter l'échafaud.
 Il est dans la prison où je l'ai vu conduire ;
-Mais vous êtes bien loin encore de le réduire.
+Mais vous êtes bien loin encor de le réduire.
 
 -*who_felix
 Que je suis malheureux !
@@ -1654,7 +1654,7 @@ Et les occasions tentent les plus remis.
 Peut-être, et ce soupçon n'est pas sans apparence,
 Il rallume en son coeur déjà quelque espérance ;
 Et croyant bientôt voir Polyeucte puni,
-Il rappelle un amour à grand'peine banni.
+Il rappelle un amour à grand-peine banni.
 Juge si sa colère, en ce cas implacable,
 Me ferait innocent de sauver un coupable,
 Et s'il m'épargnerait, voyant par mes bontés
@@ -1725,7 +1725,7 @@ Tu prends pour t'en venger de plus puissantes armes ;
 Je craignais beaucoup moins tes bourreaux que ses larmes.
 Seigneur, qui vois ici les périls que je cours,
 En ce pressant besoin redouble ton secours ;
-Et toi qui, tout sortant encore de la victoire,
+Et toi qui, tout sortant encor de la victoire,
 Regardes mes travaux du séjour de la gloire,
 Cher Néarque, pour vaincre un si fort ennemi,
 Prête du haut du ciel la main à ton ami.
@@ -1751,61 +1751,57 @@ Je serai de retour, seigneur, dans un moment.
 **** *book_ *id_IV02 *act_IV *date_1643 *creator_corneille
 
 -*who_polyeucte
+
+
 Source délicieuse, en misères féconde,
 Que voulez-vous de moi, flatteuses voluptés ?
 Honteux attachements de la chair et du monde,
 Que ne me quittez-vous, quand je vous ai quittés ?
 Allez, honneurs, plaisirs, qui me livrez la guerre :
-
-
 Toute votre félicité,
 Sujette à l'instabilité,
 En moins de rien tombe par terre ;
 Et comme elle a l'éclat du verre,
 Elle en a la fragilité.
+
 Ainsi n'espérez pas qu'après vous je soupire :
 Vous étalez en vain vos charmes impuissants ;
 Vous me montrez en vain par tout ce vaste empire
 Les ennemis de Dieu pompeux et florissants.
 Il étale à son tour des revers équitables
-
-
 Par qui les grands sont confondus ;
 Et les glaives qu'il tient pendus
 Sur les plus fortunés coupables
 Sont d'autant plus inévitables,
 Que leurs coups sont moins attendus.
+
 Tigre altéré de sang, Décie impitoyable,
 Ce dieu t'a trop longtemps abandonné les siens ;
 De ton heureux destin vois la suite effroyable :
 Le Scythe va venger la Perse et les chrétiens ;
 Encore un peu plus outre, et ton heure est venue ;
-
-
 Rien ne t'en saurait garantir ;
 Et la foudre qui va partir,
 Toute prête à crever la nue,
 Ne peut plus être retenue
 Par l'attente du repentir.
+
 Que cependant Félix m'immole à ta colère ;
 Qu'un rival plus puissant éblouisse ses yeux ;
 Qu'aux dépens de ma vie il s'en fasse beau-père,
 Et qu'à titre d'esclave il commande en ces lieux :
 Je consens, ou plutôt j'aspire à ma ruine.
-
-
 Monde, pour moi tu n'as plus rien :
 Je porte en un coeur tout chrétien
 Une flamme toute divine ;
 Et je ne regarde Pauline
 Que comme un obstacle à mon bien.
+
 Saintes douceurs du ciel, adorables idées,
 Vous remplissez un coeur qui vous peut recevoir :
 De vos sacrés attraits les âmes possédées
 Ne conçoivent plus rien qui les puisse émouvoir.
 Vous promettez beaucoup, et donnez davantage :
-
-
 Vos biens ne sont point inconstants ;
 Et l'heureux trépas que j'attends
 Ne vous sert que d'un doux passage
@@ -1915,7 +1911,7 @@ Et sortant du baptême, il m'envoie à la mort.
 Si vous pouviez comprendre et le peu qu'est la vie,
 Et de quelles douceurs cette mort est suivie !
 Mais que sert de parler de ces trésors cachés
-À des esprits que Dieu n'a pas encore touchés ?
+À des esprits que Dieu n'a pas encor touchés ?
 
 -*who_pauline
 Cruel, car il est temps que ma douleur éclate,
@@ -1942,7 +1938,7 @@ Hélas !
 
 -*who_pauline
       Que cet hélas a de peine à sortir !
-Encore s'il commençait un heureux repentir,
+encor s'il commençait un heureux repentir,
 Que tout forcé qu'il est, j'y trouverais de charmes !
 Mais courage, il s'émeut, je vois couler des larmes.
 
@@ -1971,12 +1967,12 @@ Que dis-tu, malheureux ? Qu'oses-tu souhaiter ?
 Ce que de tout mon sang je voudrais acheter.
 
 -*who_pauline
-Que plutôt...
+Que plutôt…
 
 -*who_polyeucte
       C'est en vain qu'on se met en défense :
 Ce dieu touche les coeurs lorsque moins on y pense.
-Ce bienheureux moment n'est pas encore venu ;
+Ce bienheureux moment n'est pas encor venu ;
 Il viendra, mais le temps ne m'en est pas connu.
 
 -*who_pauline
@@ -2024,7 +2020,7 @@ Vivez heureuse au monde, et me laissez en paix.
 
 -*who_pauline
 Oui, je t'y vais laisser ; ne t'en mets plus en peine ;
-Je vais...
+Je vais…
 
 **** *book_ *id_IV04 *act_IV *date_1643 *creator_corneille
 
@@ -2076,7 +2072,7 @@ Eussent de votre hymen honoré mes services,
 Je n'aurais adoré que l'éclat de vos yeux,
 J'en aurais fait mes rois, j'en aurais fait mes dieux ;
 On m'aurait mis en poudre, on m'aurait mis en cendre ;
-Avant que...
+Avant que…
 
 -*who_pauline
       Brisons là : je crains de trop entendre,
@@ -2085,7 +2081,7 @@ Ne pousse quelque suite indigne de tous deux.
 Sévère, connaissez Pauline toute entière.
 Mon Polyeucte touche à son heure dernière ;
 Pour achever de vivre il n'a plus qu'un moment :
-Vous en êtes la cause encore qu'innocemment.
+Vous en êtes la cause encor qu'innocemment.
 Je ne sais si votre âme, à vos désirs ouverte,
 Aurait osé former quelque espoir sur sa perte ;
 Mais sachez qu'il n'est point de si cruels trépas
@@ -2098,7 +2094,7 @@ Et si vous me croyiez d'une âme si peu saine,
 L'amour que j'eus pour vous tournerait toute en haine.
 Vous êtes généreux ; soyez-le jusqu'au bout.
 Mon père est en état de vous accorder tout,
-Il vous craint ; et j'avance encore cette parole,
+Il vous craint ; et j'avance encor cette parole,
 Que s'il perd mon époux, c'est à vous qu'il l'immole ;
 Sauvez ce malheureux, employez-vous pour lui ;
 Faites-vous un effort pour lui servir d'appui.
@@ -2108,12 +2104,12 @@ Conserver un rival dont vous êtes jaloux,
 C'est un trait de vertu qui n'appartient qu'à vous ;
 Et si ce n'est assez de votre renommée,
 C'est beaucoup qu'une femme autrefois tant aimée,
-Et dont l'amour peut-être encore vous peut toucher,
+Et dont l'amour peut-être encor vous peut toucher,
 Doive à votre grand coeur ce qu'elle a de plus cher :
 Souvenez-vous enfin que vous êtes Sévère.
 Adieu : résolvez seul ce que vous voulez faire ;
 Si vous n'êtes pas tel que je l'ose espérer,
-Pour vous priser encore je le veux ignorer.
+Pour vous priser encor je le veux ignorer.
 
 **** *book_ *id_IV06 *act_IV *date_1643 *creator_corneille
 
@@ -2127,7 +2123,7 @@ Tranche mon espérance aussitôt qu'elle est née :
 Avant qu'offrir des voeux je reçois des refus ;
 Toujours triste, toujours et honteux et confus
 De voir que lâchement elle ait osé renaître,
-Qu'encore plus lâchement elle ait osé paraître,
+Qu'encor plus lâchement elle ait osé paraître,
 Et qu'une femme enfin dans la calamité
 Me fasse des leçons de générosité.
 Votre belle âme est haute autant que malheureuse,
@@ -2164,7 +2160,7 @@ Qu'à votre faveur même il peut être fatal.
 -*who_severe
 Cet avis serait bon pour quelque âme commune.
 S'il tient entre ses mains ma vie et ma fortune,
-Je suis encore Sévère, et tout ce grand pouvoir
+Je suis encor Sévère, et tout ce grand pouvoir
 Ne peut rien sur ma gloire, et rien sur mon devoir.
 Ici l'honneur m'oblige, et j'y veux satisfaire ;
 Qu'après le sort se montre ou propice ou contraire,
@@ -2260,7 +2256,7 @@ Et loin de le tirer de ce pas dangereux,
 Ma bonté ne ferait que nous perdre tous deux.
 
 -*who_albin
-Mais Sévère promet...
+Mais Sévère promet…
 
 -*who_felix
       Albin, je m'en défie,
@@ -2346,7 +2342,7 @@ Et soyez l'instrument de nos félicités :
 Celle d'un vrai chrétien n'est que dans les souffrances ;
 Les plus cruels tourments lui sont des récompenses.
 Dieu, qui rend le centuple aux bonnes actions,
-Pour comble donne encore les persécutions.
+Pour comble donne encor les persécutions.
 Mais ces secrets pour vous sont fâcheux à comprendre :
 Ce n'est qu'à ses élus que Dieu les fait entendre.
 
@@ -2357,7 +2353,7 @@ Je te parle sans fard, et veux être chrétien.
 Qui peut donc retarder l'effet d'un si grand bien ?
 
 -*who_felix
-La présence importune...
+La présence importune…
 
 -*who_polyeucte
       Et de qui ? De Sévère ?
@@ -2442,7 +2438,7 @@ Il voit quelle douleur dans l'âme vous possède,
 Et sait qu'un autre amour en est le seul remède.
 Puisqu'un si grand mérite a pu vous enflammer,
 Sa présence toujours a droit de vous charmer :
-Vous l'aimiez, il vous aime, et sa gloire augmentée...
+Vous l'aimiez, il vous aime, et sa gloire augmentée…
 
 -*who_pauline
 Que t'ai-je fait, cruel, pour être ainsi traitée,
@@ -2532,7 +2528,7 @@ La prostitution, l'adultère, l'inceste,
 Le vol, l'assassinat, et tout ce qu'on déteste,
 C'est l'exemple qu'à suivre offrent vos immortels.
 J'ai profané leur temple, et brisé leurs autels ;
-Je le ferais encore, si j'avais à le faire,
+Je le ferais encor, si j'avais à le faire,
 Même aux yeux de Félix, même aux yeux de Sévère,
 Même aux yeux du sénat, aux yeux de l'empereur.
 
@@ -2608,7 +2604,7 @@ Ils eussent, pour le perdre, ouvert leur propre flanc.
 Votre ardeur vous séduit ; mais quoi qu'elle vous die,
 Quand vous la sentirez une fois refroidie,
 Quand vous verrez Pauline, et que son désespoir
-Par ses pleurs et ses cris saura vous émouvoir...
+Par ses pleurs et ses cris saura vous émouvoir…
 
 -*who_felix
 Tu me fais souvenir qu'elle a suivi ce traître,
@@ -2649,7 +2645,7 @@ Et saintement rebelle aux lois de la naissance,
 Une fois envers toi manquer d'obéissance.
 Ce n'est point ma douleur que par là je fais voir ;
 C'est la grâce qui parle, et non le désespoir.
-Le faut-il dire encore, Félix ? Je suis chrétienne !
+Le faut-il dire encor, Félix ? Je suis chrétienne !
 Affermis par ma mort ta fortune et la mienne :
 Le coup à l'un et l'autre en sera précieux,
 Puisqu'il t'assure en terre en m'élevant aux cieux.

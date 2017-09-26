@@ -2,7 +2,7 @@
 identifier: dorimond_ecoledescocus  
 creator: Dorimond Nicolas Drouin dit  
 date: (inc  
-title: L'école des cocus ou la précaution inutile. , comédie  
+title: L’école des cocus ou la précaution inutile. , comédie  
 ---
 
 

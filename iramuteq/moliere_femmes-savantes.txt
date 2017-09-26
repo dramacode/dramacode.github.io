@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1672
+**** *book_ *id_I01 *act_I *date_1672 *creator_moliere
 
 -*who_armande
 Quoi, le beau nom de Fille est un titre, ma Sœur,
@@ -174,7 +174,7 @@ Il nous est bien aisé de nous en éclaircir.
 Je l'aperçois qui vient, et sur cette matière
 Il pourra nous donner une pleine lumière.
 
-**** *book_ *id_I02 *act_I *date_1672
+**** *book_ *id_I02 *act_I *date_1672 *creator_moliere
 
 -*who_henriette
 Pour me tirer d'un doute où me jette ma Sœur,
@@ -282,7 +282,7 @@ Et ce sont sots discours qu'il ne faut pas entendre.
 C'est fort bien fait à vous, et vous nous faites voir
 Des modérations qu'on ne peut concevoir.
 
-**** *book_ *id_I03 *act_I *date_1672
+**** *book_ *id_I03 *act_I *date_1672 *creator_moliere
 
 -*who_henriette
 Votre sincère aveu ne l'a pas peu surprise.
@@ -380,7 +380,7 @@ Mais je vois votre Tante. Agréez, s'il vous plaît,
 Que mon cœur lui déclare ici notre mystère,
 Et gagne sa faveur auprès de votre Mère.
 
-**** *book_ *id_I04 *act_I *date_1672
+**** *book_ *id_I04 *act_I *date_1672 *creator_moliere
 
 -*who_clitandre
 Souffrez, pour vous parler, Madame, qu'un Amant
@@ -470,7 +470,7 @@ A-t-on rien vu d'égal à ces préventions ?
 Allons commettre un autre au soin que l'on me donne,
 Et prenons le secours d'une sage personne.
 
-**** *book_ *id_II01 *act_II *date_1672
+**** *book_ *id_II01 *act_II *date_1672 *creator_moliere
 
 -*who_ariste
 Oui, je vous porterai la réponse au plus tôt ;
@@ -479,7 +479,7 @@ Qu'un Amant, pour un mot, a de choses à dire !
 Et qu'impatiemment il veut ce qu'il désire !
 Jamais...
 
-**** *book_ *id_II02 *act_II *date_1672
+**** *book_ *id_II02 *act_II *date_1672 *creator_moliere
 
 -*who_ariste
       Ah, Dieu vous gard', mon frère.
@@ -539,7 +539,7 @@ Nous faisions des Jaloux.
       Voilà qui va des mieux :
 Mais venons au sujet qui m'amène en ces lieux.
 
-**** *book_ *id_II03 *act_II *date_1672
+**** *book_ *id_II03 *act_II *date_1672 *creator_moliere
 
 -*who_ariste
 Clitandre auprès de vous me fait son Interprète,
@@ -669,7 +669,7 @@ Chimères, moi ! Vraiment chimères est fort bon !
 Je me réjouis fort de chimères, mes Frères,
 Et je ne savais pas que j'eusse des chimères.
 
-**** *book_ *id_II04 *act_II *date_1672
+**** *book_ *id_II04 *act_II *date_1672 *creator_moliere
 
 -*who_chrysale
 Notre sœur est folle, oui.
@@ -724,7 +724,7 @@ Et reviendrai savoir...
       C'est une affaire faite.
 Et je vais à ma Femme en parler sans délai.
 
-**** *book_ *id_II05 *act_II *date_1672
+**** *book_ *id_II05 *act_II *date_1672 *creator_moliere
 
 -*who_martine
 Me voilà bien chanceuse ! Hélas l'an dit bien vrai :
@@ -762,7 +762,7 @@ Non, vous demeurerez, je suis content de vous ;
 Ma femme bien souvent a la tête un peu chaude,
 Et je ne veux pas moi...
 
-**** *book_ *id_II06 *act_II *date_1672
+**** *book_ *id_II06 *act_II *date_1672 *creator_moliere
 
 -*who_philaminte
       Quoi, je vous vois, Maraude ?
@@ -995,7 +995,7 @@ Vous lui parlez d'un ton tout à fait obligeant ?
 -*who_chrysale
 Moi ? Point. Allons, sortez.Va-t'en, ma pauvre Enfant.
 
-**** *book_ *id_II07 *act_II *date_1672
+**** *book_ *id_II07 *act_II *date_1672 *creator_moliere
 
 -*who_chrysale
 Vous êtes satisfaite, et la voilà partie.
@@ -1139,7 +1139,7 @@ Et de ce même sang se peut-il que je sois !
 Je me veux mal -de -mort d'être de votre race,
 Et de confusion j'abandonne la place.
 
-**** *book_ *id_II08 *act_II *date_1672
+**** *book_ *id_II08 *act_II *date_1672 *creator_moliere
 
 -*who_philaminte
 Avez-vous à lâcher encore quelque trait ?
@@ -1168,7 +1168,7 @@ Je veux à votre Fille en parler avant vous.
 J'ai des raisons à faire approuver ma conduite,
 Et je connaîtrai bien si vous l'aurez instruite.
 
-**** *book_ *id_II09 *act_II *date_1672
+**** *book_ *id_II09 *act_II *date_1672 *creator_moliere
 
 -*who_ariste
 Hé bien ? la Femme sort, mon Frère, et je vois bien
@@ -1332,7 +1332,7 @@ J'y cours tout de ce pas.
       C'est souffrir trop longtemps,
 Et je m'en vais être Homme à la barbe des Gens.
 
-**** *book_ *id_III01 *act_III *date_1672
+**** *book_ *id_III01 *act_III *date_1672 *creator_moliere
 
 -*who_philaminte
 Ah mettons-nous ici pour écouter à l'aise
@@ -1379,7 +1379,7 @@ Votre approbation lui peut servir de Mère.
 -*who_belise
 Qu'il a d'esprit !
 
-**** *book_ *id_III02 *act_III *date_1672
+**** *book_ *id_III02 *act_III *date_1672 *creator_moliere
 
 -*who_philaminte
       Holà, pourquoi donc fuyez-vous ?
@@ -1873,7 +1873,7 @@ Nul n'aura de l'esprit, hors nous et nos Amis.
 Nous chercherons partout à trouver à redire,
 Et ne verrons que nous qui sache bien écrire.
 
-**** *book_ *id_III03 *act_III *date_1672
+**** *book_ *id_III03 *act_III *date_1672 *creator_moliere
 
 -*who_l_epine
 Monsieur, un Homme est là qui veut parler à vous,
@@ -2149,7 +2149,7 @@ Je te défie en Vers, Prose, Grec, et Latin.
 -*who_trissotin
 Hé bien, nous nous verrons seul à seul chez Barbin.
 
-**** *book_ *id_III04 *act_III *date_1672
+**** *book_ *id_III04 *act_III *date_1672 *creator_moliere
 
 -*who_trissotin
 À mon emportement ne donnez aucun blâme ;
@@ -2215,7 +2215,7 @@ Ne vous pressez pas tant.
 Savez-vous bien que si… Suffit, vous m'entendez.
 Elle se rendra sage ; allons, laissons-la faire.
 
-**** *book_ *id_III05 *act_III *date_1672
+**** *book_ *id_III05 *act_III *date_1672 *creator_moliere
 
 -*who_armande
 On voit briller pour vous les soins de notre Mère ;
@@ -2244,7 +2244,7 @@ Nous devons obéir, ma Sœur, à nos Parents ;
 Une Mère a sur nous une entière puissance,
 Et vous croyez en vain par votre résistance...
 
-**** *book_ *id_III06 *act_III *date_1672
+**** *book_ *id_III06 *act_III *date_1672 *creator_moliere
 
 -*who_chrysale
 Allons, ma Fille, il faut approuver mon dessein,
@@ -2291,7 +2291,7 @@ Tenez, mon cœur s'émeut à toutes ces tendresses,
 Cela ragaillardit tout à fait mes vieux jours,
 Et je me ressouviens de mes jeunes amours.
 
-**** *book_ *id_IV01 *act_IV *date_1672
+**** *book_ *id_IV01 *act_IV *date_1672 *creator_moliere
 
 -*who_armande
 Oui, rien n'a retenu son esprit en balance.
@@ -2319,7 +2319,7 @@ Mais dans ses procédés il m'a déplu toujours.
 Il sait que Dieu merci je me mêle d'écrire,
 Et jamais il ne m'a prié de lui rien lire.
 
-**** *book_ *id_IV02 *act_IV *date_1672
+**** *book_ *id_IV02 *act_IV *date_1672 *creator_moliere
 
 -*who_armande
 Je ne souffrirais point, si j'étais que de vous,
@@ -2484,7 +2484,7 @@ Que vous désavoueriez, si vous les aviez faites.
 Si vous jugez de lui tout autrement que nous,
 C'est que nous le voyons par d'autres yeux que vous.
 
-**** *book_ *id_IV03 *act_IV *date_1672
+**** *book_ *id_IV03 *act_IV *date_1672 *creator_moliere
 
 -*who_trissotin
 Je viens vous annoncer une grande nouvelle.
@@ -2682,7 +2682,7 @@ Votre chaleur est grande, et cet emportement
 De la Nature en vous marque le mouvement.
 C'est le nom de Rival qui dans votre âme excite...
 
-**** *book_ *id_IV04 *act_IV *date_1672
+**** *book_ *id_IV04 *act_IV *date_1672 *creator_moliere
 
 -*who_julien
 Le Savant qui tantôt vous a rendu visite,
@@ -2757,7 +2757,7 @@ Oui, je vais vous servir de toute ma puissance.
 -*who_clitandre
 Et ce service est sûr de ma reconnaissance.
 
-**** *book_ *id_IV05 *act_IV *date_1672
+**** *book_ *id_IV05 *act_IV *date_1672 *creator_moliere
 
 -*who_clitandre
 Sans votre appui, Monsieur, je serai malheureux.
@@ -2835,7 +2835,7 @@ Qui m'empêchera d'être à toute autre Personne.
 Veuille le juste Ciel me garder en ce jour,
 De recevoir de vous cette preuve d'amour.
 
-**** *book_ *id_V01 *act_V *date_1672
+**** *book_ *id_V01 *act_V *date_1672 *creator_moliere
 
 -*who_henriette
 C'est sur le Mariage où ma Mère s'apprête,
@@ -2968,7 +2968,7 @@ Que je renonce au bien de vous voir mon Époux.
 Nous allons voir bientôt comment ira l'affaire ;
 Et l'on a là-dedans fait venir le Notaire.
 
-**** *book_ *id_V02 *act_V *date_1672
+**** *book_ *id_V02 *act_V *date_1672 *creator_moliere
 
 -*who_chrysale
 Ah, ma Fille, je suis bien aise de vous voir.
@@ -3079,7 +3079,7 @@ Secondez-moi bien tous.
       Laissez-moi, j'aurai soin
 De vous encourager, s'il en est de besoin.
 
-**** *book_ *id_V03 *act_V *date_1672
+**** *book_ *id_V03 *act_V *date_1672 *creator_moliere
 
 -*who_philaminte
 Vous ne sauriez changer votre style sauvage,
@@ -3275,7 +3275,7 @@ Qui doit être épuré comme l'Astre du jour ;
 La substance qui pense, y peut être reçue,
 Mais nous en bannissons la substance étendue.
 
-**** *book_ *id_V04 *act_V *date_1672
+**** *book_ *id_V04 *act_V *date_1672 *creator_moliere
 
 -*who_ariste
 J'ai regret de troubler un mystère joyeux,

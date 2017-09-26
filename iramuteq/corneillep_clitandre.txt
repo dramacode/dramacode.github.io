@@ -12,7 +12,7 @@ Sitôt que le soleil commencera de luire.
 Mais qu'elle est paresseuse à me venir trouver !
 La dormeuse m'oublie, et ne se peut lever.
 Toutefois sans raison j'accuse sa paresse :
-La nuit, qui dure encore, fait que rien ne la presse ;
+La nuit, qui dure encor, fait que rien ne la presse ;
 Ma jalouse fureur, mon dépit, mon amour,
 Ont troublé mon repos avant le point du jour ;
 Mais elle, qui n'en fait aucune expérience,
@@ -73,7 +73,7 @@ Cette inclination, qui jusqu'ici vous mène,
 À me la déguiser vous donne trop de peine.
 Il ne faut point, monsieur, beaucoup l'examiner :
 L'heure et le lieu suspects font assez deviner
-Qu'en même temps que vous s'échappe quelque dame...
+Qu'en même temps que vous s'échappe quelque dame…
 Vous m'entendez assez.
 
 -*who_rosidor
@@ -84,7 +84,7 @@ J'aime mieux contenter ton humeur curieuse,
 Qui par ces faux soupçons m'est trop injurieuse.
 Tant s'en faut que le change ait pour moi des appas,
 Tant s'en faut qu'en ces bois il attire mes pas :
-J'y vais... Mais pourrais-tu le savoir et le taire ?
+J'y vais… Mais pourrais-tu le savoir et le taire ?
 
 -*who_lysarque
 Qu'ai-je fait qui vous porte à craindre le contraire ?
@@ -92,7 +92,7 @@ Qu'ai-je fait qui vous porte à craindre le contraire ?
 -*who_rosidor
 Tu vas apprendre tout ; mais aussi, l'ayant su,
 Avise à ta retraite. Hier un cartel reçu
-De la part d'un rival...
+De la part d'un rival…
 
 -*who_lysarque
       Vous le nommez ?
@@ -104,7 +104,7 @@ Et là, l'épée au poing, nous verrons qui des deux
 Mérite d'embraser Caliste de ses feux.
 
 -*who_lysarque
-De sorte qu'un second...
+De sorte qu'un second…
 
 -*who_rosidor
       Sans me faire une offense,
@@ -197,12 +197,12 @@ Ne rencontreront plus aucun empêchement.
 Mais je m'étonne fort de son aveuglement,
 Et je ne comprends point cet orgueilleux caprice
 Qui fait qu'elle vous traite avec tant d'injustice.
-Vos rares qualités...
+Vos rares qualités…
 
 -*who_pymante
       Au lieu de me flatter,
 Voyons si le projet ne saurait avorter,
-Si la supercherie...
+Si la supercherie…
 
 -*who_geronte
       Elle est si bien tissue,
@@ -320,13 +320,13 @@ Rosidor t'est fidèle, et cette feinte amante
 Brûle aussi peu pour lui que je fais pour Pymante.
 
 -*who_caliste
-Déloyale, ainsi donc ton courage inhumain...
+Déloyale, ainsi donc ton courage inhumain…
 
 -*who_dorise
 Ces injures en l'air n'arrêtent point ma main.
 
 -*who_caliste
-Le reproche honteux d'une action si noire...
+Le reproche honteux d'une action si noire…
 
 -*who_dorise
 Qui se venge en secret, en secret en fait gloire.
@@ -342,7 +342,7 @@ C'est assez m'offenser que d'être ma rivale.
 
 -*who_rosidor
 Meurs, brigand. Ah ! Malheur ! Cette branche fatale
-A rompu mon épée. Assassins... Toutefois,
+A rompu mon épée. Assassins… Toutefois,
 J'ai de quoi me défendre une seconde fois.
 
 -*who_dorise
@@ -429,7 +429,7 @@ Qu'une âme désormais suffit à deux amants.
 
 -*who_caliste
 Hélas ! Qui me rappelle à de nouveaux tourments ?
-Si Rosidor n'est-plus, pourquoi reviens-je au monde ?
+Si Rosidor n'est plus, pourquoi reviens-je au monde ?
 
 -*who_rosidor
 Ô merveilleux effet d'une amour sans seconde !
@@ -444,7 +444,7 @@ Prends de lui ce qui reste.
 Est-ce ainsi qu'on reçoit un amant si fidèle ?
 
 -*who_caliste
-Ne m'en fais point un crime : encore pleine d'effroi,
+Ne m'en fais point un crime : encor pleine d'effroi,
 Je ne t'ai méconnu qu'en songeant trop à toi.
 J'avais si bien gravé là dedans ton image,
 Qu'elle ne voulait pas céder à ton visage.
@@ -458,7 +458,7 @@ Toi-même, qui t'a mise à telle heure en ces lieux,
 Où je te vois mourir et revivre à mes yeux ?
 
 -*who_caliste
-Quand l'amour une fois règne sur un courage...
+Quand l'amour une fois règne sur un courage…
 Mais tâchons de gagner jusqu'au premier village,
 Où ces bouillons de sang se puissent arrêter ;
 Là j'aurai tout loisir de te le raconter,
@@ -548,7 +548,7 @@ Allez, témoins honteux de mes lâches forfaits,
 N'en produisez non plus de soupçons que d'effets.
 Ainsi n'ayant plus rien qui démente ma feinte,
 Dedans cette forêt je marcherai sans crainte,
-Tant que...
+Tant que…
 
 **** *book_ *id_II02 *act_II *date_1631 *creator_corneille
 
@@ -575,16 +575,16 @@ Non, monsieur.
       Ni passer dedans ces bois sans suite ?
 
 -*who_pymante
-Attendez, il y peut avoir quelques huit jours...
+Attendez, il y peut avoir quelques huit jours…
 
 -*who_lysarque
 Je parle d'aujourd'hui : laisse là ces discours ;
 Réponds précisément.
 
 -*who_pymante
-      Pour aujourd'hui, je pense...
+      Pour aujourd'hui, je pense…
 Toutefois, si la chose était de conséquence,
-Dans le prochain village on saurait aisément...
+Dans le prochain village on saurait aisément…
 
 -*who_lysarque
 Donnons jusques au lieu ; c'est trop d'amusement.
@@ -650,7 +650,7 @@ Mais où serait son corps ?
 -*who_lysarque
       Au creux de quelque roche,
 Où les traîtres, voyant notre troupe si proche,
-N'auront pas eu loisir de mettre encore ceux-ci,
+N'auront pas eu loisir de mettre encor ceux-ci,
 De qui le seul aspect rend le crime éclairci.
 
 -*who_archer2
@@ -718,7 +718,7 @@ Avise donc ; tu sais qu'un fils peut tout sur elle.
 Malgré tous les mépris de cette âme cruelle,
 Dont un autre a charmé les inclinations,
 J'ai toujours du respect pour ses perfections,
-Et je serais marri qu'aucune violence...
+Et je serais marri qu'aucune violence…
 
 -*who_floridan
 L'amour sur le respect emporte la balance.
@@ -738,7 +738,7 @@ N'obtient, non plus que moi, le succès espéré.
 Pourra de leurs esprits rompre l'intelligence ;
 Un temps bien pris alors me donne en un moment
 Ce que depuis trois ans je poursuis vainement.
-Mon prince, trouvez bon...
+Mon prince, trouvez bon…
 
 -*who_floridan
       N'en dis pas davantage ;
@@ -811,7 +811,7 @@ Ici de tous côtés l'effroi suit mon erreur,
 Et j'y suis à moi-même une nouvelle horreur :
 L'image de Caliste à ma fureur soustraite
 Y brave fièrement ma timide retraite.
-Encore si son trépas secondant mon désir
+encor si son trépas secondant mon désir
 Mêlait à mes douleurs l'ombre d'un faux plaisir !
 Mais tels sont les excès du malheur qui m'opprime,
 Qu'il ne m'est pas permis de jouir de mon crime ;
@@ -848,7 +848,7 @@ Qu'il expose en péril, qu'il en retire ensemble;
 
 -*who_pymante
 Ô dieux ! Voici Géronte, et je le croyais mort.
-Malheureux compagnon de mon funeste sort...
+Malheureux compagnon de mon funeste sort…
 
 -*who_dorise
 Ton oeil t'abuse. Hélas ! Misérable, regarde
@@ -856,7 +856,7 @@ Qu'au lieu de Rosidor ton erreur me poignarde.
 
 -*who_pymante
 Ne crains pas, cher ami, ce funeste accident,
-Je te connais assez, je suis... Mais imprudent,
+Je te connais assez, je suis… Mais imprudent,
 Où m'allait engager mon erreur indiscrète ?
 Monsieur, pardonnez-moi la faute que j'ai faite.
 Un berger d'ici près a quitté ses brebis
@@ -878,7 +878,7 @@ Prends pitié de mes maux pour trois ou quatre jours ;
 Durant ce peu de temps, accorde une retraite
 Sous ton chaume rustique à ma fuite secrète :
 D'un ennemi puissant la haine me poursuit,
-Et n'ayant pu qu'à peine éviter cette nuit...
+Et n'ayant pu qu'à peine éviter cette nuit…
 
 -*who_pymante
 L'affaire qui me presse est assez importante
@@ -891,13 +891,13 @@ Contre cet ennemi de vous faire un asile.
 -*who_dorise
 Mais, avant ton retour, si quelque instant fatal
 M'exposait par malheur aux yeux de ce brutal,
-Et que l'emportement de son humeur altière...
+Et que l'emportement de son humeur altière…
 
 -*who_pymante
 Pour ne rien hasarder, cachez-vous là derrière.
 
 -*who_dorise
-Souffre que je te suive, et que mes tristes pas...
+Souffre que je te suive, et que mes tristes pas…
 
 -*who_pymante
 J'ai des secrets, monsieur, qui ne le souffrent pas,
@@ -926,7 +926,7 @@ Par quelque grand effet de vengeance divine,
 En ce faible témoin l'auteur de ma ruine :
 Son indice douteux, pour peu qu'il ait de jour,
 N'éclaircira que trop mon forfait à la cour.
-Simple ! J'ai peur encore que ce malheur m'advienne,
+Simple ! J'ai peur encor que ce malheur m'advienne,
 Et je puis éviter ma perte par la sienne !
 Et mêmes on dirait qu'un antre tout exprès
 Me garde mon épée au fond de ces forêts :
@@ -949,7 +949,7 @@ Je ne suis plus à moi, quand je viens à penser
 Quoi qu'il en soit, voyant tant de ses traits ensemble,
 Je porte du respect à ce qui lui ressemble.
 Misérable Pymante, ainsi donc tu te perds !
-Encore qu'il tienne un peu de celle que tu sers,
+encor qu'il tienne un peu de celle que tu sers,
 Étouffe ce témoin pour assurer ta tête :
 S'il est, comme il le dit, battu d'une tempête,
 Au lieu qu'en ta cabane il cherche quelque port,
@@ -1072,7 +1072,7 @@ Ton sang rejaillirait au visage du traître.
 -*who_rosidor
 L'apparence déçoit, et souvent on a vu
 Sortir la vérité d'un moyen imprévu,
-Bien que la conjecture y fût encore plus forte ;
+Bien que la conjecture y fût encor plus forte ;
 Du moins, sire, apaisez l'ardeur qui vous transporte ;
 Que l'âme plus tranquille et l'esprit plus remis,
 Le seul pouvoir des lois perde nos ennemis
@@ -1102,7 +1102,7 @@ Jusque dans l'antichambre où Lysarque t'attend,
 Et montre désormais un esprit plus content.
 
 -*who_rosidor
-Si près de te quitter...
+Si près de te quitter…
 
 -*who_caliste
       N'achève pas ta plainte.
@@ -1183,7 +1183,7 @@ Permettez que ma main de ces fers vous détache.
 Suis-je libre déjà ?
 
 -*who_geolier
-      Non encore, que je sache.
+      Non encor, que je sache.
 
 -*who_clitandre
 Quoi ! Ta seule pitié s'y hasarde pour moi ?
@@ -1288,7 +1288,7 @@ Et disposez de moi, qui borne mon envie
 Pymante, et quoi, faut-il qu'en l'état où je suis
 Tes importunités augmentent mes ennuis ?
 Faut-il que dans ce bois ta rencontre funeste
-Vienne encore m'arracher le seul bien qui me reste,
+Vienne encor m'arracher le seul bien qui me reste,
 Et qu'ainsi mon malheur au dernier point venu
 N'ose plus espérer de n'être pas connu ?
 
@@ -1390,7 +1390,7 @@ Sait trop ce qu'il vous doit et ce que je me dois.
 **** *book_ *id_IV01 *act_IV *date_1631 *creator_corneille
 
 -*who_dorise
-Je te le dis encore, tu perds temps à me suivre ;
+Je te le dis encor, tu perds temps à me suivre ;
 Souffre que de tes yeux ta pitié me délivre :
 Tu redoubles mes maux par de tels entretiens.
 
@@ -1496,7 +1496,7 @@ N'osant me découvrir, je ne me puis cacher.
 Mon forfait avorté se lit dans ma disgrâce,
 Et ces gouttes de sang me font suivre à la trace.
 Miraculeux effet ! Pour traître que je sois,
-Mon sang l'est encore plus, et sert tout à la fois
+Mon sang l'est encor plus, et sert tout à la fois
 De pleurs à ma douleur, d'indices à ma prise,
 De peine à mon forfait, de vengeance à Dorise.
 Ô toi qui, secondant son courage inhumain,
@@ -1519,7 +1519,7 @@ Dorise ne tient plus dedans mon souvenir
 Que ce qu'il faut de place à l'ardeur de punir :
 Je n'ai plus rien en moi qui n'en veuille à sa vie.
 Sus donc, qui me la rend ? Destins, si votre envie,
-Si votre haine encore s'obstine à mes tourments,
+Si votre haine encor s'obstine à mes tourments,
 Jusqu'à me réserver à d'autres châtiments,
 Faites que je mérite, en trouvant l'inhumaine,
 Par un nouveau forfait, une nouvelle peine ;
@@ -1580,7 +1580,7 @@ En ont tari la source et séché les ruisseaux ;
 Et déjà le soleil de ses rayons essuie
 Sur ces moites rameaux le reste de la pluie.
 Au lieu du bruit affreux des foudres décochés,
-Les petits oisillons, encore demi-cachés...
+Les petits oisillons, encor demi-cachés…
 Mais je verrai bientôt quelques-uns de ma suite :
 Je le juge à ce bruit.
 
@@ -1624,7 +1624,7 @@ Quelque respect ailleurs que ta naissance obtienne,
 Pour assurer ma vie, il faut perdre la tienne.
 
 -*who_dorise
-S'il me demeure encore quelque peu de vigueur,
+S'il me demeure encor quelque peu de vigueur,
 Si mon débile bras ne dédit point mon coeur,
 J'arrêterai le tien.
 
@@ -1736,7 +1736,7 @@ Du péril dont sans lui je ne saurais sortir,
 Ou qu'il lui fût porté de ma part une lettre,
 De la sienne en ce cas je t'ose bien promettre
 Que son retour soudain des plus riches te rend :
-Que cet anneau t'en serve et d'arrhes et de garant ;
+Que cet anneau t'en serve et d'arrhe et de garant ;
 Tends la main et l'esprit vers un bonheur si proche.
 
 -*who_geolier
@@ -1744,7 +1744,7 @@ Monsieur, jusqu'à présent j'ai vécu sans reproche,
 Et pour me suborner promesses ni présents
 N'ont et n'auront jamais de charmes suffisants.
 C'est de quoi je vous donne une entière assurance :
-Perdez-en le dessein avec l'espérance :
+Perdez-en le dessein avecque l'espérance :
 Et puisque vous dressez des pièges à ma foi,
 Adieu, ce lieu devient trop dangereux pour moi.
 
@@ -1778,7 +1778,7 @@ Ne voit rien de certain que ma honteuse mort.
 Traître, qui que tu sois, rival, ou domestique,
 Le ciel te garde encore un destin plus tragique.
 N'importe, vif ou mort, les gouffres des enfers
-Auront pour ton supplice encore de pires fers.
+Auront pour ton supplice encor de pires fers.
 Là mille affreux bourreaux t'attendent dans les flammes ;
 Moins les corps sont punis, plus ils gênent les âmes,
 Et par des cruautés qu'on ne peut concevoir,
@@ -1890,7 +1890,7 @@ Doux ou cruels, aucun désormais ne me touche.
 -*who_floridan
 L'amour dompte aisément l'esprit le plus farouche ;
 C'est à ceux de notre âge un puissant ennemi :
-Tu ne connais encore ses forces qu'à demi ;
+Tu ne connais encor ses forces qu'à demi ;
 Ta résolution, un peu trop violente,
 N'a pas bien consulté ta jeunesse bouillante.
 Mais que veux-tu, Cléon, et qu'est-il arrivé ?
@@ -1921,7 +1921,7 @@ En est-il parmi vous de qui l'heur à venir
 D'un espoir mieux fondé se puisse entretenir ?
 Mon esprit, que captive un objet adorable,
 Ne l'éprouva jamais autre que favorable.
-J'ignorerais encore ce que c'est que mépris,
+J'ignorerais encor ce que c'est que mépris,
 Si le sort d'un rival ne me l'avait appris.
 Je te plains toutefois, Clitandre, et la colère
 D'un grand roi qui te perd me semble trop sévère.
@@ -1954,14 +1954,14 @@ L'amour apprit ensemble à nos yeux à parler ;
 Et sa timidité lui donna la prudence
 De n'admettre que nous en notre confidence :
 Ainsi nos passions se dérobaient à tous ;
-Ainsi nos feux secrets n'ayant point de jaloux...
+Ainsi nos feux secrets n'ayant point de jaloux…
 Mais qui vient jusqu'ici troubler mes rêveries ?
 
 **** *book_ *id_V03 *act_V *date_1631 *creator_corneille
 
 -*who_caliste
 Celle qui voudrait voir tes blessures guéries,
-Celle...
+Celle…
 
 -*who_rosidor
       Ah, mon heur, jamais je n'obtiendrais sur moi
@@ -1982,7 +1982,7 @@ Quoiqu'à dire le vrai je ne sais pas trop bien
 En quoi je dédirais ce secret entretien,
 Si ta pleine santé me donnait lieu de dire
 Quelle borne à tes voeux je puis et dois prescrire.
-Prends soin de te guérir, et les miens plus contents...
+Prends soin de te guérir, et les miens plus contents…
 Mais je te le dirai quand il en sera temps.
 
 -*who_rosidor
@@ -2017,8 +2017,8 @@ Porterait ton espoir à trop de confiance,
 Que pour craindre trop peu tu devinerais mal.
 
 -*who_rosidor
-Quoi ! La reine ose encore soutenir mon rival,
-Et sans avoir d'horreur d'une action si noire...
+Quoi ! La reine ose encor soutenir mon rival,
+Et sans avoir d'horreur d'une action si noire…
 
 -*who_caliste
 Elle a l'âme trop haute et chérit trop la gloire,
@@ -2027,7 +2027,7 @@ Qui d'un heureux hymen récompense ta foi.
 
 -*who_rosidor
 Si notre heureux malheur a produit ce miracle,
-Qui peut à nos désirs mettre encore quelque obstacle ?
+Qui peut à nos désirs mettre encor quelque obstacle ?
 
 -*who_caliste
 Tes blessures.
@@ -2040,7 +2040,7 @@ Ce n'est pas pour un jour que je veux un mari,
 Et je ne puis souffrir que ton ardeur hasarde
 Un bien que de ton roi la prudence retarde.
 Prends soin de te guérir, mais guérir tout à fait,
-Et crois que tes désirs...
+Et crois que tes désirs…
 
 -*who_rosidor
       N'auront aucun effet.
@@ -2127,7 +2127,7 @@ A fait si lourdement trébucher ma raison,
 Approche, scélérat. Un homme de courage
 Se met avec honneur en un tel équipage ?
 Attaque, le plus fort, un rival plus heureux ?
-Et présumant encore cet exploit dangereux,
+Et présumant encor cet exploit dangereux,
 À force de présents et d'infâmes pratiques,
 D'un autre cavalier corrompt les domestiques ?
 Prend d'un autre le nom, et contrefait son seing,
@@ -2218,7 +2218,7 @@ Puisque votre clémence ordonne que je vive,
 Permettez désormais, Sire, que mes desseins
 Prennent des mouvements plus réglés et plus sains :
 Souffrez que pour pleurer mes actions brutales,
-Je fasse ma retraite avec les Vestales,
+Je fasse ma retraite avecque les Vestales,
 Et qu'une criminelle indigne d'être au jour
 Se puisse renfermer en leur sacré séjour.
 
@@ -2231,7 +2231,7 @@ N'arrêtez point au monde un objet odieux,
 De qui chacun d'horreur détournerait les yeux.
 
 -*who_floridan
-Fusses-tu mille fois encore plus méprisable,
+Fusses-tu mille fois encor plus méprisable,
 Ma faveur te va rendre assez considérable
 Pour t'acquérir ici mille inclinations.
 Outre l'attrait puissant de tes perfections,
@@ -2288,11 +2288,11 @@ Ne vous conteste plus un prix qui vous est dû.
 
 -*who_dorise
 Si le pardon du roi me peut donner le vôtre,
-Si mon crime...
+Si mon crime…
 
 -*who_caliste
       Ah ma soeur, tu me prends pour une autre,
-Si tu crois que je puisse encore m'en souvenir.
+Si tu crois que je puisse encor m'en souvenir.
 
 -*who_alcandre
 Tu ne veux plus songer qu'à ce jour à venir

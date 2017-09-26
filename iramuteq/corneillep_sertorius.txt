@@ -31,7 +31,7 @@ Et qu'aux lieux où le crime a plein droit de régner,
 L'innocence timide est seule à dédaigner ?
 L'honneur et la vertu sont des noms ridicules :
 Marius ni Carbon n'eurent point de scrupules ;
-Jamais Sylla, jamais...
+Jamais Sylla, jamais…
 
 -*who_perpenna
       Sylla ni Marius
@@ -69,14 +69,14 @@ Leur impose tribut, fait des lois à leurs princes,
 Maintient de nos Romains le reste indépendant ;
 Mais comme tout parti demande un commandant,
 Ce bonheur imprévu qui partout l'accompagne,
-Ce nom qu'il s'est acquis chez les peuples d'Espagne...
+Ce nom qu'il s'est acquis chez les peuples d'Espagne…
 
 -*who_aufide
 Ah ! C'est ce nom acquis avec trop de bonheur
 Qui rompt votre fortune et vous ravit l'honneur :
 Vous n'en sauriez douter, pour peu qu'il vous souvienne
 Du jour que votre armée alla joindre la sienne,
-Lors...
+Lors…
 
 -*who_perpenna
       N'envenime point le cuisant souvenir
@@ -139,7 +139,7 @@ Si vous rompez le coup, prévenez les indices ;
 Perdez Sertorius ou perdez vos complices.
 Craignez ce qu'il faut craindre : il en est parmi nous
 Qui pourraient bien avoir même remords que vous ;
-Et si vous différez... Mais le tyran arrive.
+Et si vous différez… Mais le tyran arrive.
 Tâchez d'en obtenir l'objet qui vous captive ;
 Et je prierai les dieux que dans cet entretien
 Vous ayez assez d'heur pour n'en obtenir rien.
@@ -263,7 +263,7 @@ Tous leurs chefs sont romains ; et leurs propres soldats
 Dispersés dans nos rangs ont fait tant de combats,
 Que la vieille amitié qui les attache aux nôtres
 Leur fait aimer nos lois et n'en vouloir point d'autres.
-Pourquoi donc tant les craindre, et pourquoi refuser... ?
+Pourquoi donc tant les craindre, et pourquoi refuser… ?
 
 -*who_sertorius
 Vous-même, Perpenna, pourquoi tant déguiser ?
@@ -276,13 +276,13 @@ Ne peut être sans honte un moment en balance.
 
 -*who_perpenna
 L'aveu que vous voulez à mon coeur est si doux,
-Que j'ose...
+Que j'ose…
 
 -*who_sertorius
       C'est assez : je parlerai pour vous.
 
 -*who_perpenna
-Ah ! Seigneur, c'en est trop ; et...
+Ah ! Seigneur, c'en est trop ; et…
 
 -*who_sertorius
       Point de repartie :
@@ -363,7 +363,7 @@ Et j'ai des sentiments trop nobles ou trop vains
 Pour le porter ailleurs qu'au plus grand des Romains.
 
 -*who_sertorius
-Ce nom ne m'est pas dû, je suis...
+Ce nom ne m'est pas dû, je suis…
 
 -*who_aristie
       Ce que vous faites
@@ -438,7 +438,7 @@ Qu'elle ne peut souffrir que ma fuite m'y range
 En captive de guerre, au péril d'un échange,
 Qu'elle veut un grand homme à recevoir ma foi,
 Qu'après vous et Pompée il n'en est point pour moi,
-Et que...
+Et que…
 
 -*who_sertorius
       Vous le verrez, et saurez sa pensée.
@@ -470,14 +470,14 @@ Ou n'ose en rien connaître, ou demeure insensible,
 Et laisse à ma pudeur des sentiments confus,
 Que l'amour-propre obstine à douter du refus.
 Épargne-m'en la honte, et prends soin de lui dire,
-À ce héros si cher... Tu le connais, Thamire ;
+À ce héros si cher… Tu le connais, Thamire ;
 Car d'où pourrait mon trône attendre un ferme appui ?
 Et pour qui mépriser tous nos rois, que pour lui ?
 Sertorius, lui seul digne de Viriate,
 Mérite que pour lui tout mon amour éclate.
 Fais-lui, fais-lui savoir le glorieux dessein
 De m'affermir au trône en lui donnant la main :
-Dis-lui... Mais j'aurais tort d'instruire ton adresse,
+Dis-lui… Mais j'aurais tort d'instruire ton adresse,
 Moi qui connais ton zèle à servir ta princesse.
 
 -*who_thamire
@@ -524,7 +524,7 @@ N'ont été que sujets sous le nom d'alliés ;
 Et ce qu'ils ont osé contre leur servitude
 N'en a rendu le joug que plus fort et plus rude.
 Qu'a fait Mandonius, qu'a fait Indibilis,
-Qu'y plonger plus avant leurs trônes as,
+Qu'y plonger plus avant leurs trônes avilis,
 Et voir leur fier amas de puissance et de gloire
 Brisé contre l'écueil d'une seule victoire ?
 Le grand Viriatus, de qui je tiens le jour,
@@ -563,7 +563,7 @@ Je n'ose vous rien dire après cet avantage,
 Et voudrais comme vous faire grâce à son âge ;
 Mais enfin ce héros, sujet au cours des ans,
 A trop longtemps vaincu pour vaincre encor longtemps,
-Et sa mort...
+Et sa mort…
 
 -*who_viriate
       Jouissons, en dépit de l'envie,
@@ -599,7 +599,7 @@ Si vous prenez un prince inconstant, infidèle,
 Ou qui pour le parti n'ait pas assez de zèle,
 Jugez en quel état nous nous verrons réduits,
 Si je pourrai longtemps encor ce que je puis,
-Si mon bras...
+Si mon bras…
 
 -*who_viriate
       Vous formez des craintes que j'admire.
@@ -614,7 +614,7 @@ Pour qui de tous ces rois êtes-vous sans soupçon ?
 -*who_sertorius
 Je voudrais faire un choix qui pût aussi vous plaire ;
 Mais à ce froid accueil que je vous vois leur faire,
-Il semble que pour tous sans aucun intérêt...
+Il semble que pour tous sans aucun intérêt…
 
 -*who_viriate
 C'est peut-être, seigneur, qu'aucun d'eux ne me plaît,
@@ -622,7 +622,7 @@ Et que de leur haut rang la pompe la plus vaine
 S'efface au seul aspect de la grandeur romaine.
 
 -*who_sertorius
-Si donc je vous offrais pour époux un Romain... ?
+Si donc je vous offrais pour époux un Romain… ?
 
 -*who_viriate
 Pourrais-je refuser un don de votre main ?
@@ -634,7 +634,7 @@ Il en a la naissance, il en a le grand coeur,
 Il est couvert de gloire, il est plein de valeur ;
 De toute votre Espagne il a gagné l'estime,
 Libéral, intrépide, affable, magnanime,
-Enfin c'est Perpenna sur qui vous emportez...
+Enfin c'est Perpenna sur qui vous emportez…
 
 -*who_viriate
 J'attendais votre nom après ces qualités :
@@ -646,7 +646,7 @@ Si vos Romains ainsi choisissent des maîtresses,
 À vos derniers tribuns il faudra des princesses.
 
 -*who_sertorius
-Madame...
+Madame…
 
 -*who_viriate
       Parlons net sur ce choix d'un époux.
@@ -685,7 +685,7 @@ Cessez de m'estimer jusqu'à lui faire injure ;
 Je ne veux que le nom de votre créature :
 Un si glorieux titre a de quoi me ravir ;
 Il m'a fait triompher en voulant vous servir ;
-Et malgré tout le peu que le ciel m'a fait naître...
+Et malgré tout le peu que le ciel m'a fait naître…
 
 -*who_viriate
 Si vous prenez ce titre, agissez moins en maître,
@@ -719,11 +719,11 @@ Sous ce titre adoptif, étant ce que vous êtes,
 Je pense bien valoir une de mes sujettes ;
 Et si quelque Romaine a causé vos refus,
 Je suis tout ce qu'elle est, et reine encor de plus.
-Peut-être la pitié d'une illustre misère...
+Peut-être la pitié d'une illustre misère…
 
 -*who_sertorius
 Je vous entends, madame, et pour ne vous rien taire,
-J'avouerai qu'Aristie...
+J'avouerai qu'Aristie…
 
 -*who_viriate
       Elle nous a tout dit :
@@ -747,7 +747,7 @@ Je tiens Sylla perdu, si vous laissez unie
 Mais vous pouvez enfin dépendre d'un époux,
 Et le seul Perpenna peut m'assurer de vous.
 Voyez ce qu'il a fait : je lui dois tant, madame,
-Qu'une juste prière en faveur de sa flamme...
+Qu'une juste prière en faveur de sa flamme…
 
 -*who_viriate
 Si vous lui devez tant, ne me devez-vous rien ?
@@ -783,7 +783,7 @@ Aux aigles de Sylla font repasser les monts.
 Et ces derniers venus auront droit de nous dire
 Qu'ils auront en ces lieux établi notre empire !
 Soyons d'un tel honneur l'un et l'autre jaloux ;
-Et quand nous pouvons tout, ne devons rien qu'à nous...
+Et quand nous pouvons tout, ne devons rien qu'à nous…
 
 -*who_sertorius
 L'espoir le mieux fondé n'a jamais trop de forces ;
@@ -802,7 +802,7 @@ D'ailleurs, considérez que Perpenna vous aime,
 Qu'il est ou qu'il se croit digne du diadème,
 Qu'il peut ici beaucoup, qu'il s'est vu de tout temps
 Qu'en gouvernant le mieux on fait des mécontents,
-Que piqué du mépris, il osera peut-être...
+Que piqué du mépris, il osera peut-être…
 
 -*who_viriate
 Tranchez le mot, seigneur : je vous ai fait mon maître,
@@ -814,23 +814,23 @@ Et si vous le craignez, craignez autant du moins
 Un long et vain regret d'avoir prêté vos soins.
 
 -*who_sertorius
-Madame, croiriez-vous...
+Madame, croiriez-vous…
 
 -*who_viriate
       Ce mot vous doit suffire.
 J'entends ce qu'on me dit, et ce qu'on me veut dire.
-Allez, faites-lui place, et ne présumez pas...
+Allez, faites-lui place, et ne présumez pas…
 
 -*who_sertorius
 Je parle pour un autre, et toutefois, hélas !
-Si vous saviez...
+Si vous saviez…
 
 -*who_viriate
       Seigneur, que faut-il que je sache ?
 Et quel est le secret que ce soupir me cache ?
 
 -*who_sertorius
-Ce soupir redoublé...
+Ce soupir redoublé…
 
 -*who_viriate
       N'achevez point ; allez :
@@ -839,19 +839,19 @@ je vous obéirai plus que vous ne voulez.
 **** *book_ *id_II03 *act_II *date_1662 *creator_corneille
 
 -*who_thamire
-Sa dureté m'étonne, et je ne puis, madame...
+Sa dureté m'étonne, et je ne puis, madame…
 
 -*who_viriate
 L'apparence t'abuse : il m'aime au fond de l'âme.
 
 -*who_thamire
-Quoi ? Quand pour un rival il s'obstine au refus...
+Quoi ? Quand pour un rival il s'obstine au refus…
 
 -*who_viriate
 Il veut que je l'amuse, et ne veut rien de plus.
 
 -*who_thamire
-Vous avez des clartés que mon insuffisance...
+Vous avez des clartés que mon insuffisance…
 
 -*who_viriate
 Parlons à ce rival : le voilà qui s'avance.
@@ -869,7 +869,7 @@ Obliger sa couronne à payer votre amour ?
 -*who_perpenna
 Par de sincères voeux, par d'assidus services,
 Par de profonds respects, par d'humbles sacrifices ;
-Et si quelques effets peuvent justifier...
+Et si quelques effets peuvent justifier…
 
 -*who_viriate
 Eh bien ! Qu'êtes-vous prêt de lui sacrifier ?
@@ -881,7 +881,7 @@ Tous mes soins, tout mon sang, mon courage, ma vie.
 Pourriez-vous la servir dans une jalousie ?
 
 -*who_perpenna
-Ah ! Madame...
+Ah ! Madame…
 
 -*who_viriate
       À ce mot en vain le coeur vous bat :
@@ -909,7 +909,7 @@ Quoi que vous m'ordonniez, tout me sera facile ;
 Mais quand Sertorius ne l'épousera pas,
 Un autre hymen vous met dans le même embarras,
 Et qu'importe, après tout, d'une autre ou d'Aristie,
-si...
+si…
 
 -*who_viriate
       Rompons, Perpenna, rompons cette partie :
@@ -924,7 +924,7 @@ Voulez-vous me servir ?
 Madame, et meurs déjà d'y consacrer mes jours.
 Mais pourrai-je espérer que ce faible service
 Attirera sur moi quelque regard propice,
-Que le coeur attendri fera suivre ?...
+Que le coeur attendri fera suivre ?…
 
 -*who_viriate
       Arrêtez !
@@ -941,7 +941,7 @@ Adieu.
       Vous le voyez, seigneur, comme on vous joue.
 Tout son coeur est ailleurs ; Sertorius l'avoue,
 Et fait auprès de vous l'officieux rival,
-Cependant que la reine...
+Cependant que la reine…
 
 -*who_perpenna
       Ah ! N'en juge point mal.
@@ -961,7 +961,7 @@ Hasardons quelques jours sur l'espoir qui nous flatte,
 Dussions-nous pour tout fruit ne faire qu'une ingrate.
 
 -*who_aufide
-Mais, seigneur...
+Mais, seigneur…
 
 -*who_perpenna
       Épargnons les discours superflus,
@@ -1147,7 +1147,7 @@ Et s'il est périlleux de s'en faire haïr,
 Il ne serait pas sûr de vous désobéir.
 Pour moi, si quelque jour je suis ce que vous êtes,
 J'en userai peut-être alors comme vous faites :
-Jusque-là...
+Jusque-là…
 
 -*who_sertorius
       Vous pourriez en douter jusque-là,
@@ -1176,7 +1176,7 @@ Elle serait extrême à trouver les moyens
 De rendre un si grand homme à ses concitoyens.
 Il est doux de revoir les murs de la patrie :
 C'est elle par ma voix, seigneur, qui vous en prie ;
-C'est Rome...
+C'est Rome…
 
 -*who_sertorius
       Le séjour de votre potentat,
@@ -1228,7 +1228,7 @@ Je ne m'éblouis point de cette illusion.
 Je connais le tyran, j'en vois le stratagème :
 Quoi qu'il semble promettre, il est toujours lui-même.
 Vous qu'à sa défiance il a sacrifié,
-Jusques à vous forcer d'être son allié...
+Jusques à vous forcer d'être son allié…
 
 -*who_pompee
 Hélas ! Ce mot me tue, et je le dis sans feinte,
@@ -1243,7 +1243,7 @@ Daigne ici l'honorer de sa protection.
 -*who_sertorius
 Protéger hautement les vertus malheureuses,
 C'est le moindre devoir des âmes généreuses :
-Aussi fais-je encore plus, je lui donne un époux.
+Aussi fais-je encor plus, je lui donne un époux.
 
 -*who_pompee
 Un époux ! Dieux ! Qu'entends-je ? Et qui, seigneur ?
@@ -1276,7 +1276,7 @@ Si j'ose m'enrichir, seigneur, de vos refus.
 **** *book_ *id_III02 *act_III *date_1662 *creator_corneille
 
 -*who_pompee
-Me dit-on vrai, madame, et serait-il possible...
+Me dit-on vrai, madame, et serait-il possible…
 
 -*who_aristie
 Oui, seigneur, il est vrai que j'ai le coeur sensible :
@@ -1375,14 +1375,14 @@ Qu'un autre hymen me rende un titre qui l'égale ;
 Qu'il me relève autant que Sylla me ravale :
 Non que je puisse aimer aucun autre que vous ;
 Mais pour venger ma gloire il me faut un époux :
-Il m'en faut un illustre, et dont la renommée...
+Il m'en faut un illustre, et dont la renommée…
 
 -*who_pompee
 Ah ! Ne vous lassez point d'aimer et d'être aimée.
 Peut-être touchons-nous au moment désiré
 Qui saura réunir ce qu'on a séparé.
 Ayez plus de courage et moins d'impatience :
-Souffrez que Sylla meure, ou quitte sa puissance...
+Souffrez que Sylla meure, ou quitte sa puissance…
 
 -*who_aristie
 J'attendrai de sa mort ou de son repentir
@@ -1434,7 +1434,7 @@ Me voulez-vous, seigneur ? Ne me voulez-vous pas ?
 Parlez : que votre choix règle ma destinée.
 Suis-je encore à l'époux à qui l'on m'a donnée ?
 Suis-je à Sertorius ? C'est assez consulté :
-Rendez-moi mes liens, ou pleine liberté...
+Rendez-moi mes liens, ou pleine liberté…
 
 -*who_pompee
 Je le vois bien, madame, il faut rompre la trêve,
@@ -1469,7 +1469,7 @@ Mérite qu'on l'étale aux bouts de l'univers,
 Pour en donner l'exemple à cent climats divers.
 
 -*who_pompee
-Ah ! C'en est trop, madame, et de nouveau je jure...
+Ah ! C'en est trop, madame, et de nouveau je jure…
 
 -*who_aristie
 Seigneur, les vérités font-elles quelque injure ?
@@ -1581,7 +1581,7 @@ Je sais qu'en ce climat, que vous nommez barbare,
 L'amour par un soupir quelquefois se déclare ;
 Mais la gloire, qui fait toutes vos passions,
 Vous met trop au-dessus de ces impressions :
-De tels désirs, trop bas pour les grands coeurs de Rome...
+De tels désirs, trop bas pour les grands coeurs de Rome…
 
 -*who_sertorius
 Ah ! Pour être romain, je n'en suis pas moins homme :
@@ -1593,7 +1593,7 @@ Ceux de la politique et ceux de l'amitié
 M'ont mis en un état à me faire pitié.
 Le souvenir m'en tue, et ma vie incertaine
 Dépend d'un peu d'espoir que j'attends de la reine.
-Si toutefois...
+Si toutefois…
 
 -*who_thamire
       Seigneur, elle a de la bonté ;
@@ -1635,7 +1635,7 @@ Dût se rompre la trêve, et dût la jalousie
 Jusqu'au dernier éclat pousser sa frénésie.
 
 -*who_sertorius
-Vous pourrez dès demain...
+Vous pourrez dès demain…
 
 -*who_viriate
       Dès ce même moment.
@@ -1666,7 +1666,7 @@ Lui donner votre main, c'est m'ordonner, madame,
 De lui céder ma place au camp et dans votre âme.
 Il est, il est trop juste, après un tel bonheur,
 Qu'il l'ait dans notre armée, ainsi qu'en votre coeur :
-J'obéis sans murmure, et veux bien que ma vie...
+J'obéis sans murmure, et veux bien que ma vie…
 
 -*who_viriate
 Avant que par cet ordre elle vous soit ravie,
@@ -1762,7 +1762,7 @@ Dont l'esprit ébranlé ne se doit pas guérir
 De cette impression qui peut nous l'acquérir.
 Pourrions-nous venger Rome après de telles pertes ?
 Pourrions-nous l'affranchir des misères souffertes ?
-Et de ses intérêts un si haut abandon...
+Et de ses intérêts un si haut abandon…
 
 -*who_viriate
 Et que m'importe à moi si Rome souffre ou non ?
@@ -1802,7 +1802,7 @@ Je vous avouerai plus, seigneur : loin d'y souscrire,
 Elle en prendra pour vous une haine où j'aspire,
 Un courroux implacable, un orgueil endurci ;
 Et c'est par où je veux vous arrêter ici.
-Qu'ai-je à faire dans Rome ? Et pourquoi, je vous prie...
+Qu'ai-je à faire dans Rome ? Et pourquoi, je vous prie…
 
 -*who_sertorius
 Mais nos Romains, madame, aiment tous leur patrie ;
@@ -1844,7 +1844,7 @@ C'est gloire de se perdre en servant ce qu'on aime.
 Mais porter dès l'abord les choses à l'extrême,
 Madame, et sans besoin faire des mécontents !
 Soyons heureux plus tard pour l'être plus longtemps.
-Une victoire ou deux jointes à quelque adresse...
+Une victoire ou deux jointes à quelque adresse…
 
 -*who_viriate
 Vous savez que l'amour n'est pas ce qui me presse,
@@ -1855,7 +1855,7 @@ Quand il a prononcé, n'aime point qu'on raisonne.
 Je vais penser à moi, vous penserez à vous.
 
 -*who_sertorius
-Ah ! Si vous écoutez cet injuste courroux...
+Ah ! Si vous écoutez cet injuste courroux…
 
 -*who_viriate
 Je n'en ai point, seigneur ; mais mon inquiétude
@@ -1880,14 +1880,14 @@ L'avez-vous mis fort loin au delà de la porte ?
 Comme assez près des murs il avait son escorte,
 Je me suis dispensé de le mettre plus loin.
 Mais de votre secours, seigneur, j'ai grand besoin.
-Tout son visage montre une fierté si haute...
+Tout son visage montre une fierté si haute…
 
 -*who_sertorius
 Nous n'avons rien conclu, mais ce n'est pas ma faute ;
-Et vous savez...
+Et vous savez…
 
 -*who_perpenna
-      Je sais qu'en de pareils débats...
+      Je sais qu'en de pareils débats…
 
 -*who_sertorius
 Je n'ai point cru devoir mettre les armes bas :
@@ -1965,7 +1965,7 @@ Pour moi, que tout mon camp sur ce bruit m'abandonne,
 Qu'il ne reste pour moi que ma seule personne,
 Je me perdrai plutôt dans quelque affreux climat,
 Qu'aller, tant qu'il vivra, briguer le consulat.
-Vous...
+Vous…
 
 -*who_perpenna
       Ce n'est pas, seigneur, ce qui me tient en peine.
@@ -1978,7 +1978,7 @@ J'y crois en sûreté les restes de ma vie.
 -*who_sertorius
 Oui ; mais je ne vois pas encor de sûreté
 À ce que vous et moi nous avions concerté.
-Vous savez que la reine est d'une humeur si fière...
+Vous savez que la reine est d'une humeur si fière…
 Mais peut-être le temps la rendra moins altière.
 Adieu : dispensez-moi de parler là-dessus.
 
@@ -2037,14 +2037,14 @@ Et quel fruit nous aurons de la violenter.
 
 -*who_perpenna
 C'est à moi de me vaincre, et la raison l'ordonne ;
-Mais d'un si grand dessein tout mon coeur qui frissonne...
+Mais d'un si grand dessein tout mon coeur qui frissonne…
 
 -*who_sertorius
 Ne vous contraignez point : dût m'en coûter le jour,
 Je tiendrai ma promesse en dépit de l'amour.
 
 -*who_perpenna
-Si vos promesses n'ont l'aveu de Viriate...
+Si vos promesses n'ont l'aveu de Viriate…
 
 -*who_sertorius
 Je ne puis de sa part rien dire qui vous flatte.
@@ -2054,7 +2054,7 @@ Je dois donc me contraindre, et j'y suis résolu.
 Oui, sur tous mes désirs je me rends absolu :
 J'en veux, à votre exemple, être aujourd'hui le maître ;
 Et malgré cet amour que j'ai laissé trop croître,
-Vous direz à la reine...
+Vous direz à la reine…
 
 -*who_sertorius
       Eh bien ! Je lui dirai ?
@@ -2095,7 +2095,7 @@ Et courir sans scrupule exécuter ses lois.
 Vous ne me dites rien ? Apprenez-moi, de grâce,
 Comment vous résolvez que le festin se passe ?
 Dissimulerez-vous ce manquement de foi ?
-Et voulez-vous...
+Et voulez-vous…
 
 -*who_perpenna
       Allons en résoudre chez moi.
@@ -2167,7 +2167,7 @@ Qu'on voie un jour le Pô redouter ses efforts,
 Et le Tibre lui-même en trembler pour ses bords.
 
 -*who_aristie
-Votre dessein est grand ; mais à quoi qu'il aspire...
+Votre dessein est grand ; mais à quoi qu'il aspire…
 
 -*who_viriate
 Il m'a dit les raisons que vous me voulez dire.
@@ -2188,20 +2188,21 @@ Est de combattre, vaincre, et triompher ici.
 Tant qu'ils verront marcher ce héros à leur tête,
 Ils iront sans frayeur de conquête en conquête.
 Un exemple si grand dignement soutenu
-Saura... Mais que nous veut ce Romain inconnu ?
+Saura… Mais que nous veut ce Romain inconnu ?
 
 **** *book_ *id_V02 *act_V *date_1662 *creator_corneille
 
 -*who_aristie
 Madame, c'est Arcas, l'affranchi de mon frère ;
 Sa venue en ces lieux cache quelque mystère.
-Parle, Arcas, et dis-nous...
+Parle, Arcas, et dis-nous…
 
 -*who_arcas
       Ces lettres mieux que moi
 Vous diront un succès qu'à peine encor je crois.
 
 -*who_aristie
+
 Chère soeur, pour ta joie il est temps que tu saches
 Que nos maux et les tiens vont finir en effet.
 Sylla marche en public sans faisceaux et sans haches,
@@ -2218,7 +2219,7 @@ En même temps qu'à Rome il rend sa liberté.
 -*who_aristie
 Le ciel s'est donc lassé de m'être impitoyable !
 Ce bonheur, comme à toi, me paraît incroyable.
-Cours au camp de Pompée, et dis-lui, cher Arcas...
+Cours au camp de Pompée, et dis-lui, cher Arcas…
 
 -*who_arcas
 Il a cette nouvelle, et revient sur ses pas.
@@ -2249,7 +2250,7 @@ Je n'en ai plus en vous, et je n'en puis douter ;
 Mais il m'en reste une autre et plus à redouter :
 Rome, que ce héros aime plus que lui-même,
 Et qu'il préférerait sans doute au diadème,
-Si contre cet amour...
+Si contre cet amour…
 
 **** *book_ *id_V03 *act_V *date_1662 *creator_corneille
 
@@ -2263,13 +2264,13 @@ Que nous disent tes pleurs ?
 
 -*who_thamire
       Que vous êtes perdue,
-Que cet illustre bras qui vous a défendue...
+Que cet illustre bras qui vous a défendue…
 
 -*who_viriate
 Sertorius ?
 
 -*who_thamire
-      Hélas ! Ce grand Sertorius...
+      Hélas ! Ce grand Sertorius…
 
 -*who_viriate
 N'achèveras-tu point ?
@@ -2300,7 +2301,7 @@ Ce sont amusements que dédaigne aisément
 Le prompt et noble orgueil d'un vif ressentiment :
 Qui pleure l'affaiblit, qui soupire l'exhale.
 Il faut plus de fierté dans une âme royale ;
-Et ma douleur, soumise aux soins de le venger...
+Et ma douleur, soumise aux soins de le venger…
 
 -*who_aristie
 Mais vous vous aveuglez au milieu du danger :
@@ -2397,7 +2398,7 @@ Qu'il s'obstinait pour vous au refus de ma main.
 
 -*who_aristie
 Et tu peux lui plonger un poignard dans le sein !
-Et ton bras...
+Et ton bras…
 
 -*who_viriate
       Permettez, madame, que j'estime
@@ -2440,7 +2441,7 @@ Et n'eût tout mon bonheur que deux jours à durer,
 Vous n'avez dès demain qu'à vous y préparer.
 J'accepte votre haine, et l'ai bien méritée ;
 J'en ai prévu la suite, et j'en sais la portée.
-Mon triomphe...
+Mon triomphe…
 
 **** *book_ *id_V05 *act_V *date_1662 *creator_corneille
 
@@ -2493,10 +2494,10 @@ Et vous reconnaîtrez, par leurs perfides traits,
 Combien Rome pour vous a d'ennemis secrets,
 Qui tous, pour Aristie enflammés de vengeance,
 Avec Sertorius étaient d'intelligence.
-Lisez...
+Lisez…
 
 -*who_aristie
-      Quoi ? Scélérat ! Quoi ? Lâche ! Oses-tu bien...
+      Quoi ? Scélérat ! Quoi ? Lâche ! Oses-tu bien…
 
 -*who_perpenna
 Madame, il est ici votre maître et le mien ;
@@ -2509,7 +2510,7 @@ Que cette perte anime à des haines égales.
 Jusques au dernier point elles m'ont outragé ;
 Mais puisque je vous vois, je suis assez vengé.
 Je vous regarde aussi comme un dieu tutélaire ;
-Et ne puis... Mais, ô dieux ! Seigneur, qu'allez-vous faire ?
+Et ne puis… Mais, ô dieux ! Seigneur, qu'allez-vous faire ?
 
 -*who_pompee
 Montrer d'un tel secret ce que je veux savoir.
@@ -2524,14 +2525,14 @@ Vous, suivez ce tribun : j'ai quelques intérêts
 Qui demandent ici des entretiens secrets.
 
 -*who_perpenna
-Seigneur, se pourrait-il qu'après un tel service...
+Seigneur, se pourrait-il qu'après un tel service…
 
 -*who_pompee
 J'en connais l'importance, et lui rendrai justice.
 Allez.
 
 -*who_perpenna
-      Mais cependant leur haine...
+      Mais cependant leur haine…
 
 -*who_pompee
       C'est assez.
@@ -2596,7 +2597,7 @@ En est-ce fait, Celsus ?
       Oui, seigneur : le perfide
 A vu plus de cent bras punir son parricide ;
 Et livré par votre ordre à ce peuple irrité,
-Sans rien dire...
+Sans rien dire…
 
 -*who_pompee
       Il suffit : Rome est en sûreté ;

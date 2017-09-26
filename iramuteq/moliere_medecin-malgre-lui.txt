@@ -156,7 +156,7 @@ Ah, ah, ah, ah.
 -*who_sganarelle
 Voilà le vrai moyen de vous apaiser.
 
-**** *book_ *id_I02 *act_I *date_1666
+**** *book_ *id_I02 *act_I *date_1666 *creator_moliere
 
 -*who_monsieur_robert
 Holà, holà, holà, fi qu'est ceci ?
@@ -313,14 +313,14 @@ Tu es une Folle, de prendre garde à cela.
 Ce sont petites choses qui sont, de temps en temps, nécessaires dans l'Amitié : et cinq ou six coups de bâton, entre Gens qui s'aiment, ne font que ragaillardir l'Affection.
 Va je m'en vais au Bois : et je te promets, aujourd'hui, plus d'un cent de Fagots.
 
-**** *book_ *id_I03 *act_I *date_1666
+**** *book_ *id_I03 *act_I *date_1666 *creator_moliere
 
 -*who_martine
 Va, quelque mine que je fasse, je n'oublie pas mon ressentiment : et je brûle en moi-même, de trouver les moyens de te punir des coups que tu me donnes.
 Je sais bien qu'une femme a toujours dans les mains, de quoi se venger d'un Mari : mais c'est une punition trop délicate pour mon Pendard.
 Je veux une vengeance qui se fasse un peu mieux sentir : et ce n'est pas contentement, pour l'injure que j'ai reçue.
 
-**** *book_ *id_I04 *act_I *date_1666
+**** *book_ *id_I04 *act_I *date_1666 *creator_moliere
 
 
 
@@ -441,7 +441,7 @@ Eh ! morguenne, laissez-nous faire, s'il ne tient qu'à battre, la Vache est à
 -*who_valere
 Nous sommes bien heureux d'avoir fait cette rencontre : et j'en conçois, pour moi, la meilleure espérance du Monde.
 
-**** *book_ *id_I05 *act_I *date_1666
+**** *book_ *id_I05 *act_I *date_1666 *creator_moliere
 
 
 
@@ -784,7 +784,7 @@ Tenez cela vous : voilà où je mets mes juleps.
 -*who_lucas
 Palsanguenne, velà un Médecin qui me plaît ; je pense qu'il réussira ; car il est Bouffon.
 
-**** *book_ *id_II01 *act_II *date_1666
+**** *book_ *id_II01 *act_II *date_1666 *creator_moliere
 
 -*who_valere
 Oui, Monsieur, je crois que vous serez satisfait : et nous vous avons amené le plus grand Médecin du Monde.
@@ -876,7 +876,7 @@ Monsieu, je veux un peu la mortifier : et ly apprendre le respect qu'alle vous 
 -*who_geronte
 Oui, mais ces gestes ne sont pas nécessaires.
 
-**** *book_ *id_II02 *act_II *date_1666
+**** *book_ *id_II02 *act_II *date_1666 *creator_moliere
 
 -*who_valere
 Monsieur préparez-vous, voici notre Médecin qui entre.
@@ -1041,7 +1041,7 @@ Je prends part, également, au bonheur de tous deux (Il continue le même jeu) 
 -*who_lucas
 Ah vartigué, Monsieu le Médecin, que de l'antiponages.
 
-**** *book_ *id_II03 *act_II *date_1666
+**** *book_ *id_II03 *act_II *date_1666 *creator_moliere
 
 -*who_geronte
 Monsieur, voici tout à l'heure, ma Fille qu'on va vous amener.
@@ -1091,7 +1091,7 @@ Fi, le vilain, qui est jaloux de sa Femme.
 -*who_geronte
 Voici ma fille.
 
-**** *book_ *id_II04 *act_II *date_1666
+**** *book_ *id_II04 *act_II *date_1666 *creator_moliere
 
 -*who_sganarelle
 Est-ce là, la Malade ?
@@ -1410,7 +1410,7 @@ L'intérêt ne me gouverne point.
 -*who_geronte
 Je n'ai pas cette pensée.
 
-**** *book_ *id_II05 *act_II *date_1666
+**** *book_ *id_II05 *act_II *date_1666 *creator_moliere
 
 -*who_sganarelle
 Ma foi, cela ne va pas mal, et pourvu que...
@@ -1519,7 +1519,7 @@ Il est vrai que les morts sont fort honnêtes Gens, sur cette matière.
 Voilà des gens qui ont la mine de me venir consulter.
 Allez toujours m'attendre auprès du Logis de votre maîtresse.
 
-**** *book_ *id_III02 *act_III *date_1666
+**** *book_ *id_III02 *act_III *date_1666 *creator_moliere
 
 -*who_thibaut
 Monsieu, je venons vous charcher, mon Fils Perrin et moi.
@@ -1603,7 +1603,7 @@ Monsieu, je vous sommes bien obligés : et j'allons li faire prendre ça tout �
 Allez.
 Si elle meurt, ne manquez pas de la faire enterrer du mieux que vous pourrez.
 
-**** *book_ *id_III03 *act_III *date_1666
+**** *book_ *id_III03 *act_III *date_1666 *creator_moliere
 
 -*who_sganarelle
 Voici la belle Nourrice.
@@ -1651,7 +1651,7 @@ Il est bien vrai, que si je n'avais, devant les yeux, que son intérêt, il pour
 Ma Foi, vous ne feriez pas mal, de vous venger de lui, avec quelqu'un.
 C'est un Homme, je vous le dis, qui mérite bien cela : et si j'étais assez heureux, belle Nourrice, pour être choisi pour...
 
-**** *book_ *id_III04 *act_III *date_1666
+**** *book_ *id_III04 *act_III *date_1666 *creator_moliere
 
 -*who_geronte
 Holà !
@@ -1669,7 +1669,7 @@ Je ne sais : mais je voudrais qu'il fût à tous les Guebles.
 -*who_geronte
 Va-t'en voir un peu, ce que fait ma Fille.
 
-**** *book_ *id_III05 *act_III *date_1666
+**** *book_ *id_III05 *act_III *date_1666 *creator_moliere
 
 -*who_geronte
 Ah !
@@ -1716,7 +1716,7 @@ Je vous entends.
 -*who_sganarelle
 Votre fille en aura besoin.
 
-**** *book_ *id_III06 *act_III *date_1666
+**** *book_ *id_III06 *act_III *date_1666 *creator_moliere
 
 -*who_jacqueline
 Monsieu, velà votre Fille qui veut un peu marcher.
@@ -1838,7 +1838,7 @@ Peut-être fera-t-elle quelque difficulté à prendre ce Remède : mais comme v
 Allez-vous-en lui faire faire un petit tour de Jardin, afin de préparer les Humeurs, tandis que j'entretiendrai ici son Père : mais surtout, ne perdez point de temps.
 Au Remède, vite, au Remède spécifique.
 
-**** *book_ *id_III07 *act_III *date_1666
+**** *book_ *id_III07 *act_III *date_1666 *creator_moliere
 
 -*who_geronte
 Quelles Drogues, Monsieur, sont celles que vous venez de dire ?
@@ -1902,7 +1902,7 @@ Et j'empêcherai bien qu'il ne la voie.
 Il n'a pas affaire à un Sot, et vous savez des Rubriques, qu'il ne sait pas.
 Plus fin que vous n'est pas bête.
 
-**** *book_ *id_III08 *act_III *date_1666
+**** *book_ *id_III08 *act_III *date_1666 *creator_moliere
 
 -*who_lucas
 Ah palsanguenne, Monsieu, vaici bian du tintamarre, votte Fille s'en est enfuie avec son Liandre, c'était lui qui était l'Apothicaire, et velà Monsieu le Médecin, qui a fait cette belle Opération-là.
@@ -1915,7 +1915,7 @@ Ah Traître, je vous ferai punir par la justice.
 -*who_lucas
 Ah par ma fi, Monsieu le Médecin, vous serez pendu, ne bougez de là seulement.
 
-**** *book_ *id_III09 *act_III *date_1666
+**** *book_ *id_III09 *act_III *date_1666 *creator_moliere
 
 -*who_martine
 Ah ! mon Dieu, que j'ai eu de peine à trouver ce Logis : dites-moi un peu des Nouvelles du Médecin que je vous ai donné.
@@ -1953,7 +1953,7 @@ Non, je veux demeurer pour t'encourager à la Mort : et je ne te quitterai poin
 -*who_sganarelle
 Ah.
 
-**** *book_ *id_III10 *act_III *date_1666
+**** *book_ *id_III10 *act_III *date_1666 *creator_moliere
 
 -*who_geronte
 Le Commissaire viendra bientôt, et l'on s'en va vous mettre en lieu, où l'on me répondra de vous.
@@ -1965,7 +1965,7 @@ Hélas, cela ne se peut-il point changer en quelques coups de bâton ?
 Non, non, la Justice en ordonnera ....
 Mais que vois-je ?
 
-**** *book_ *id_III11 *act_III *date_1666
+**** *book_ *id_III11 *act_III *date_1666 *creator_moliere
 
 -*who_leandre
 Monsieur, je viens faire paraître Léandre à vos yeux, et remettre Lucinde en votre pouvoir, nous avons eu dessein de prendre la fuite nous deux, et de nous aller marier ensemble : mais cette entreprise a fait place à un procédé plus honnête : je ne prétends point vous voler votre Fille, et ce n'est que de votre main que je veux la recevoir : ce que je vous dirai, Monsieur, c'est que je viens tout à l'heure de recevoir des lettres, par où j'apprends que mon oncle est mort, et que je suis héritier de tous ses biens.

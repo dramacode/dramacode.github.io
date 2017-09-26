@@ -1,6 +1,6 @@
 
 
-**** *book_ *id_I01 *act_I *date_1672
+**** *book_ *id_I01 *act_I *date_1672 *creator_moliere
 
 -*who_le_vicomte
 Hé, quoi Madame, vous êtes déjà ici ?
@@ -91,7 +91,7 @@ Mon Dieu, Cléante, vous avez beau dire, je vois avec tout cela que vous mourez 
 -*who_le_vicomte
 Moi, Madame, vous vous moquez, et je ne suis pas si Poète que vous pourriez bien croire, pour… Mais voici votre Madame la Comtesse d'Escarbagnas, je sors par l'autre porte pour ne la point trouver, et vais disposer tout mon monde au divertissement que je vous ai promis.
 
-**** *book_ *id_I02 *act_I *date_1672
+**** *book_ *id_I02 *act_I *date_1672 *creator_moliere
 
 -*who_la_comtesse
 Ah ! mon Dieu, Madame, vous voilà toute seule ? quelle pitié est-ce là, toute seule ; il me semble que mes gens m'avaient dit, que le Vicomte était ici ?
@@ -388,7 +388,7 @@ Ce sont gens qu'on ménage dans les Provinces pour le besoin qu'on en peut avoir
 -*who_julie
 Je vous avoue, Madame, qu'il y a merveilleusement à profiter de tout ce que vous dites, c'est une école que votre conversation, et j'y viens tous les jours attraper quelque chose.
 
-**** *book_ *id_I03 *act_I *date_1672
+**** *book_ *id_I03 *act_I *date_1672 *creator_moliere
 
 -*who_criquet
 Voilà Jeannot de Monsieur le Conseiller qui vous demande, Madame.
@@ -448,7 +448,7 @@ Je l'aurais bien pris sans toi.
 -*who_la_comtesse
 Ce qui me plaît de ce Monsieur Tibaudier, c'est qu'il sait vivre avec les personnes de ma qualité, et qu'il est fort respectueux.
 
-**** *book_ *id_I04 *act_I *date_1672
+**** *book_ *id_I04 *act_I *date_1672 *creator_moliere
 
 -*who_le_vicomte
 Madame, je viens vous avertir que la Comédie sera bientôt prête, et que dans un quart d'heure nous pouvons passer dans la Salle.
@@ -486,7 +486,7 @@ Il y a peut-être quelque mot qui n'est pas de l'Académie ; mais j'y remarque 
 -*who_julie
 Vous avez raison, Madame, et Monsieur le Vicomte dût-il s'en offenser, j'aimerais un homme qui m'écrirait comme cela.
 
-**** *book_ *id_I05 *act_I *date_1672
+**** *book_ *id_I05 *act_I *date_1672 *creator_moliere
 
 -*who_la_comtesse
 Approchez, Monsieur Tibaudier, ne craignez point d'entrer.
@@ -573,7 +573,7 @@ Mais allons voir, Madame, si ma Musique et ma Comédie, avec mes entrées de Bal
 -*who_la_comtesse
 Il faut que mon Fils le Comte soit de la partie, car il est arrivé ce matin de mon Château avec son Précepteur, que je vois là-dedans.
 
-**** *book_ *id_I06 *act_I *date_1672
+**** *book_ *id_I06 *act_I *date_1672 *creator_moliere
 
 -*who_la_comtesse
 Holà, Monsieur Bobinet, Monsieur Bobinet, approchez-vous du monde.
@@ -615,7 +615,7 @@ Soit fait, Madame, ainsi que vous le commandez.
 -*who_le_vicomte
 Ce Monsieur Bobinet, Madame, a la mine fort sage, et je crois qu'il a de l'esprit.
 
-**** *book_ *id_I07 *act_I *date_1672
+**** *book_ *id_I07 *act_I *date_1672 *creator_moliere
 
 -*who_monsieur_bobinet
 Allons, Monsieur le Comte, faites voir que vous profitez des bons documents qu'on vous donne.
@@ -694,7 +694,7 @@ Mon Dieu voyons l'affaire, on a assez d'esprit pour comprendre les choses.
 -*who_le_vicomte
 Qu'on commence le plus tôt qu'on pourra, et qu'on empêche, s'il se peut, qu'aucun fâcheux ne vienne troubler notre divertissement.
 
-**** *book_ *id_I08 *act_I *date_1672
+**** *book_ *id_I08 *act_I *date_1672 *creator_moliere
 
 -*who_monsieur_harpin
 Parbleu la chose est belle, et je me réjouis de voir ce que je vois.
@@ -786,7 +786,7 @@ Pour moi, je suis confuse de cette insolence.
 Les jaloux, Madame, sont comme ceux qui perdent leur procès, ils ont permission de tout dire.
 Prêtons silence à la Comédie.
 
-**** *book_ *id_I09 *act_I *date_1672
+**** *book_ *id_I09 *act_I *date_1672 *creator_moliere
 
 -*who_jeannot
 Voilà un billet, Monsieur, qu'on nous a dit de vous donner vite.

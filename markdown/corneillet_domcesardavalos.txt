@@ -2,7 +2,7 @@
 identifier: corneillet_domcesardavalos  
 creator: Corneille, Thomas  
 date: 1674  
-title: Don César d'Avalos. , comédie.  
+title: Don César d’Avalos. , comédie.  
 ---
 
 

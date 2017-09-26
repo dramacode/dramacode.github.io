@@ -2,7 +2,7 @@
 identifier: moliere_tartuffe64  
 creator: Molière  
 date: 1664  
-title: Le Tartuffe.  ou l'hypocrite, comédie  
+title: Le Tartuffe.  ou l’hypocrite, comédie  
 ---
 
 
@@ -1018,7 +1018,7 @@ Et...
 
 ## SCÈNE IV. DAMIS, ELMIRE, TARTUFFE.
 
-    DAMIS, SORTANT DU PETIT CABINET OÙ IL S'ÉTAIT RETIRÉ.
+    DAMIS, SORTANT DU PETIT CABINET OÙ IL S’ÉTAIT RETIRÉ.
         Non, Madame, non ceci doit se répandre.  
 J'étais en cet endroit, d'où j'ai pu tout entendre ;  
 Et la bonté du Ciel m'y semble avoir conduit,  
@@ -1872,7 +1872,7 @@ Tout conspire, Madame, à mon contentement :
 J'ai visité, de l'oeil, tout cet appartement,  
 Personne ne s'y trouve, et mon âme ravie...  
 
-    ORGON, EN L'ARRÊTANT.
+    ORGON, EN L’ARRÊTANT.
 Tout doux, vous suivez trop votre amoureuse envie,  
 Et vous ne devez pas vous tant passionner.  
 Ah, ah, l'Homme de bien, vous m'en voulez donner !  

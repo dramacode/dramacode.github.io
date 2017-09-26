@@ -522,7 +522,7 @@ Ariste sort encore du théâtre, rentre et vient annoncer.
     ARISTE.
 Regardez bien comme il tient son chapeau.
 
-    ORPHISE, DIT APRÈS L'ANNONCE.
+    ORPHISE, DIT APRÈS L’ANNONCE.
 Si l'Hôtel de Bourgogne avait un comédien comme vous, elle serait bien vengée.
 
     ARISTE.
@@ -577,7 +577,7 @@ Qu'il est plaisamment accommodé !
     LUCILE.
 Ah ! Ma tante, il est plus drôle que la comédie.
 
-    CLÉANTE, NE POUVANT S'EMPÊCHER DE RIRE.
+    CLÉANTE, NE POUVANT S’EMPÊCHER DE RIRE.
 Qui vous a fait si hardi de prendre mes habits ?
 
     PHILIPPIN.
@@ -657,7 +657,7 @@ Plus je songe à la témérité du Peintre, et moins je puis sortir de mon éton
     ARISTE.
 Il contrefaisait d'abord les marquis avec le masque de Mascarille ; il n'osait les jouer autrement ; mais à la fin, il nous a fait voir qu'il avait le visage assez plaisant pour représenter sans masque un personnage ridicule.
 
-    PHILIPPIN, HAUT À CLARICE, APRÈS AVOIR FAIT CENT SINGERIES AUTOUR D'ELLE.
+    PHILIPPIN, HAUT À CLARICE, APRÈS AVOIR FAIT CENT SINGERIES AUTOUR D’ELLE.
 Je veux avoir douze marquis pour me servir de valets, avec une calèche toute couverte de nompareille.
 
     CLARICE.
@@ -696,7 +696,7 @@ Comme ma nièce n'a pas accoutumé de manger si tard, vous n'avez qu'à souper s
 
 Et toi, si tu ne quittes au plus tôt tes habits, je te rouerai de coups. Holà ! Qu'on m'apporte un bâton.
 
-    PHILIPPIN, EN S'ENFUYANT.
+    PHILIPPIN, EN S’ENFUYANT.
 Évitons sa fureur, et ne soyons point marquis aux dépens de nos épaules.
 
 -------

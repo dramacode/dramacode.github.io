@@ -335,7 +335,7 @@ Par grace & Privilege du Roy, Donné à Paris le 12.
 Mars 1636.
 Signé par le Roy en son Conseil, VIGNERON : Il est permis au Sr Dalibray, de faire imprimer par tel Imprimeur qu'il voudra choisir un Livre intitulé, Le Torrismon du Tasse, Tragedie, en telle forme & caractere qu'il advisera bon estre, & ce durant le temps de six ans, à commencer du jour que ledit Livre sera achevé d'imprimer : Et deffences sont faites à tous Libraires & Imprimeurs, de contrefaire ledit Livre, ny en vendre ou distribuer d'autres, que de ceux dudit Dalibray, ou de ceux qui auront droit de luy durant ledit temps, à peine de cinq cens livres d'amende, confiscation des exemplaires, & de tous despens, dommages & interests.
 
-**** *book_ *id_body-701 *act_ *date_1636 *creator_vion
+**** *book_ *id_I01 *act_ *date_1636 *creator_vion
 
 -*who_nourrice
 A peine ayant quitté les portes d'Orient
@@ -517,7 +517,7 @@ Vous pouvez sans sortir vous rendre aussi contente,
 Et de vostre Palais, assise en un balcon,
 Le contempler à l'aise accompagnée ou non.
 
-**** *book_ *id_body-702 *act_ *date_1636 *creator_vion
+**** *book_ *id_I02 *act_ *date_1636 *creator_vion
 
 -*who_nourrice
 Nulle condition n'est si douce sur terre
@@ -541,7 +541,7 @@ Et ma crainte provient d'une cause ancienne,
 Qui peur tirer des pleurs de sa nouvelle peur,
 Si l'Amour ne resoud cette nuë en vapeur.
 
-**** *book_ *id_body-703 *act_ *date_1636 *creator_vion 
+**** *book_ *id_I03 *act_ *date_1636 *creator_vion 
 
 -*who_torrismon
 Quel fleuve, ou quelle mer si vaste & si profonde
@@ -886,7 +886,7 @@ Et s'il se trouve vain, mon recours est la mort,
 Qui presente à tous maux un favorable port.
 Fin du premier Acte.
 
-**** *book_ *id_body-801 *act_ *date_1636 *creator_vion
+**** *book_ *id_II01 *act_ *date_1636 *creator_vion
 
 -*who_gentilhomme
 Grand Roy dont la valeur à nulle autre ne cede,
@@ -955,7 +955,7 @@ Icy comme en Suede il est maistre absolu.
 Cependant la fatigue au repos vous invite,
 Allez, & luy rendez tout l'honneur qu'il merite.
 
-**** *book_ *id_body-802 *act_ *date_1636 *creator_vion
+**** *book_ *id_II02 *act_ *date_1636 *creator_vion
 
 -*who_torrismon
 A la fin se retire, & s'oste de mes yeux,
@@ -993,7 +993,7 @@ Et reçoive aisement une nouvelle flame?
 Ah! Si je treuve vain ce fidelle conseil,
 La mort seule à mes maux servira d'appareil⁎.
 
-**** *book_ *id_body-803 *act_ *date_1636 *creator_vion
+**** *book_ *id_II03 *act_ *date_1636 *creator_vion
 
 -*who_rosmonde
 Heureuse celle-là, soit maistresse ou suivante
@@ -1025,7 +1025,7 @@ Mais s'il hayt d'une soeur l'ardeur trop violente :
 Soyons donc sa servante, & dessous un tel nom
 Essayons de gaigner le coeur de Torrismon .
 
-**** *book_ *id_body-804 *act_ *date_1636 *creator_vion
+**** *book_ *id_II04 *act_ *date_1636 *creator_vion
 
 -*who_rusille 
 Hé quoy! n'aurois-tu peu, ma fille, encore apprendre,
@@ -1279,7 +1279,7 @@ Une fille a sa mere obeyt justement.
 -*who_rusille
 Va donc pour te parer d'un plus riche ornement.
 
-**** *book_ *id_body-805 *act_ *date_1636 *creator_vion
+**** *book_ *id_II05 *act_ *date_1636 *creator_vion
 
 -*who_rusille
 Une veuve ne peut se dire infortunée
@@ -1299,7 +1299,7 @@ Et tel qu'il se fait voir en nos festes publiques ;
 Cependant que sa sœur, autre astre de mes yeux,
 S'en va pour se parer de ce qu'elle a de mieux.
 
-**** *book_ *id_body-806 *act_ *date_1636 *creator_vion 
+**** *book_ *id_II06 *act_ *date_1636 *creator_vion 
 
 -*who_rusille
 Apres s'estre long-temps contre moy deffenduë,
@@ -1334,7 +1334,7 @@ Tesmoignent à l'envy⁎ nostre rejouïssance.
 De moy, puisque le Prince est si prés d'arriver,
 Avec mille chevaux je m'en vay le treuver.
 
-**** *book_ *id_body-901 *act_ *date_1636 *creator_vion
+**** *book_ *id_III01 *act_ *date_1636 *creator_vion
 
 -*who_conseiller
 On void peu d'amitiés qui ne fassent naufrage,
@@ -1368,7 +1368,7 @@ Quitte ce mariage, & cet amoureux chois  :
 Car encor que des deux pareille soit la gloire,
 Des vieux Goths toutesfois plus noble est la memoire.
 
-**** *book_ *id_body-902 *act_ *date_1636 *creator_vion
+**** *book_ *id_III02 *act_ *date_1636 *creator_vion
 
 -*who_rosmonde 
 Apres qu'en si haut lieu tu m'as daigné porter,
@@ -1394,7 +1394,7 @@ J'ay vescu fille heureuse, & dedans la puissance.
 Maintenant je vivray dans ma condition,
 Loin du grand bruit⁎ du monde⁎, & sans ambition.
 
-**** *book_ *id_body-903 *act_ *date_1636 *creator_vion
+**** *book_ *id_III03 *act_ *date_1636 *creator_vion
 
 -*who_torrismon
 La hayne des mortels devroit estre mortelle,
@@ -1440,7 +1440,7 @@ Mais adieu, je vous laisse avec la belle Alvide.
 -*who_torrismon
 Ah ! si tu connaissois combien je suis perfide .
 
-**** *book_ *id_body-904 *act_ *date_1636 *creator_vion
+**** *book_ *id_III04 *act_ *date_1636 *creator_vion
 
 -*who_torrismon
 Madame, ce Seigneur est venu tout expres
@@ -1478,7 +1478,7 @@ Et s'il aime Germon, je puis l'aymer de mesme.
 Toute hayme s'esteigne en ce bienheureux jour,
 Et la hayne jamais n'esteigne nostre amour.
 
-**** *book_ *id_body-905 *act_ *date_1636 *creator_vion
+**** *book_ *id_III05 *act_ *date_1636 *creator_vion
 
 -*who_gentil_homme
 Grande Reyne, ces dons viennent du Roy mon maistre,
@@ -1508,7 +1508,7 @@ Que je ne sçay comment remercier le Roy.
 Vous luy rendez, Madame, une grace assez grande,
 Agréez⁎ ses presens, c'est tout ce qu'il demande.
 
-**** *book_ *id_body-906 *act_ *date_1636 *creator_vion 
+**** *book_ *id_III06 *act_ *date_1636 *creator_vion 
 
 -*who_alvide
 Quels presens voy-je icy! Quels discours ay-je ouys!
@@ -1682,7 +1682,7 @@ Que mon cher Torrismon par une douce œillade⁎ ;
 Qu'il me console donc, & qu'il rende à mes yeux
 Agreables ces dons, ou s'il veut, odieux.
 
-**** *book_ *id_body-1001 *act_ *date_1636 *creator_vion
+**** *book_ *id_IV01 *act_ *date_1636 *creator_vion
 
 -*who_conseiller
 Sire, vostre arrivée en cette grande ville,
@@ -1790,7 +1790,7 @@ Tout ce qu'elle fera tousjours me sera doux  :
 Allez, ne manquez pas de dire à vostre maistre
 Que tout ce qu'il voudra, je suis tout prest de l'estre.
 
-**** *book_ *id_body-1002 *act_ *date_1636 *creator_vion
+**** *book_ *id_IV02 *act_ *date_1636 *creator_vion
 
 -*who_germon
 Il se faut bien garder qu'un mauvais jugement
@@ -1832,7 +1832,7 @@ Je n'ay manque de biens, ny d'aucune autre chose ;
 Que Torrismon pourtant en fasse à son plaisir,
 Je ne me conduiray que selon son desir.
 
-**** *book_ *id_body-1003 *act_ *date_1636 *creator_vion 
+**** *book_ *id_IV03 *act_ *date_1636 *creator_vion 
 
 -*who_torrismon
 Je suis à tes propos le plus confus du monde,
@@ -1962,7 +1962,7 @@ Et qu'un peuple indiscret⁎ n'en eut pas connoissance  :
 Cependant qu'on me cherche & me fasse venir
 Fauston, & le vieillard qui predit l'avenir.
 
-**** *book_ *id_body-1004 *act_ *date_1636 *creator_vion 
+**** *book_ *id_IV04 *act_ *date_1636 *creator_vion 
 
 -*who_torrismon
 Fut-il jamais douleur comparable à la nostre?
@@ -1994,7 +1994,7 @@ Hé ! par qui pourroit-elle helas ! m'estre renduë ?
 Mais du moins le moien de couvrir mon peché  :
 Mais voicy le vieillard à qui rien n'est caché.
 
-**** *book_ *id_body-1005 *act_ *date_1636 *creator_vion 
+**** *book_ *id_IV05 *act_ *date_1636 *creator_vion 
 
 -*who_torrismon
 Toy qui sçais les secrets que l'univers enserre,
@@ -2085,7 +2085,7 @@ Et que la Nuit succede à la place du jour  ;
 O Cour qui me bannis comme un homme profane,
 Que d'estranges effets⁎ tu verras dans Arane.
 
-**** *book_ *id_body-1006 *act_ *date_1636 *creator_vion 
+**** *book_ *id_IV06 *act_ *date_1636 *creator_vion 
 
 -*who_fauston
 Apres avoir gousté d'une si longue paix,
@@ -2190,7 +2190,7 @@ Envoiez en exil pour un meurtre commis,
 Celuy qui fut captif se nommoit Clitorompe,
 Et celuy qui s'enfuit, Aralde, ou je me trompe.
 
-**** *book_ *id_body-1007 *act_ *date_1636 *creator_vion 
+**** *book_ *id_IV07 *act_ *date_1636 *creator_vion 
 
 -*who_messager
 Cette soudaine mort d'un Roy si généreux
@@ -2283,7 +2283,7 @@ L'histoire est jusqu'icy demeurée en secret.
 -*who_torrismon
 Las ! elle est maintenant trop claire à mon regret.
 
-**** *book_ *id_body-1008 *act_ *date_1636 *creator_vion 
+**** *book_ *id_IV08 *act_ *date_1636 *creator_vion 
 
 -*who_germon
 Faut-il tousjours qu'un tiers entre nous s'interpose,
@@ -2334,7 +2334,7 @@ Alvide, & ses Estats sont à vous si je puis,
 Encore est-ce trop peu, veu ce que je vous suis.
 Fin du quatriesme Acte.
 
-**** *book_ *id_body-1101 *act_ *date_1636 *creator_vion
+**** *book_ *id_V01 *act_ *date_1636 *creator_vion
 
 -*who_alvide
 En quelles regions, Alvide infortunée,
@@ -2478,7 +2478,7 @@ Et bannissez de vous ses pensers pleins d'horreur  :
 Personne ne vous force, & ne vous chasse encore,
 Au contraire chacun pour Reyne vous honore.
 
-**** *book_ *id_body-1102 *act_ *date_1636 *creator_vion 
+**** *book_ *id_V02 *act_ *date_1636 *creator_vion 
 
 -*who_rusille
 A la fin la fortune apres un si long-temps,
@@ -2502,7 +2502,7 @@ Assistes si tu peux à nos contentemens  ;
 Et prends part aux grandeurs dont ton fils & ta fille
 S'en vont heureusement accroistre ta famille.
 
-**** *book_ *id_body-1103 *act_ *date_1636 *creator_vion
+**** *book_ *id_V03 *act_ *date_1636 *creator_vion
 
 -*who_rosmonde
 Quoy l'estat de ma vie est encore incertain!
@@ -2518,7 +2518,7 @@ C'est de leur tesmoigner nostre devotion  ;
 Daigne donc le grand Dieu qui lance le tonnerre,
 D'un oeil doux & benin regarder cette Terre .
 
-**** *book_ *id_body-1104 *act_ *date_1636 *creator_vion
+**** *book_ *id_V04 *act_ *date_1636 *creator_vion
 
 -*who_alvide
 Enfin je sçauray bien moy-mesme me guerir
@@ -2528,7 +2528,7 @@ Et qui peut m'exemter de refus & de honte  :
 Sus doncques⁎ tesmoignons par un dernier effort
 Qu'on nous peut bien oster la vie, & non la mort
 
-**** *book_ *id_body-1105 *act_ *date_1636 *creator_vion 
+**** *book_ *id_V05 *act_ *date_1636 *creator_vion 
 
 -*who_torrismon
 ALVIDE qu'est-ce cy ? quel penser ? quelle rage
@@ -2607,7 +2607,7 @@ Qu'il n'ait point de regret de ne me plus revoir  : 
 A Dieu, sers ce Seigneur avecques plus de gloire,
 Et conserves tousjours mon nom dans ta memoire.
 
-**** *book_ *id_body-1106 *act_ *date_1636 *creator_vion
+**** *book_ *id_V06 *act_ *date_1636 *creator_vion
 
 -*who_gentil_homme
 O Miserables Goths ! tout vostre heur, vostre appuy,
@@ -2615,7 +2615,7 @@ Et toute vostre gloire est perdue aujourd'huy  :
 O deplorable Reyne ! ô Cour infortunée !
 O cruelle avanture ! ô funeste journée!
 
-**** *book_ *id_body-1107 *act_ *date_1636 *creator_vion 
+**** *book_ *id_V07 *act_ *date_1636 *creator_vion 
 
 -*who_germon
 Quelle dolente⁎ voix, & quels cris redoublez
@@ -2728,7 +2728,7 @@ Des fantosmes hurlans pour tesmoigner son deuil⁎,
 Et pour mieux celebrer cette triste avanture,
 Qui fera mesme horreur à la race future.
 
-**** *book_ *id_body-1108 *act_ *date_1636 *creator_vion 
+**** *book_ *id_V08 *act_ *date_1636 *creator_vion 
 
 -*who_gentil_homme
 SIRE, voicy la Reyne.

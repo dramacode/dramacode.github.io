@@ -966,7 +966,7 @@ Dès que vous le verrez, il vous faut en saisir ;
 Car si vous lui donnez un moment de loisir,  
 Il se voudra défendre.  
 
-    L'ARCHER.
+    L’ARCHER.
         Attendant qu'il arrive,  
 Tenons-nous donc, Monsieur, dessus la défensive.  
 
@@ -2640,7 +2640,7 @@ Briguelle, ouvre au plus tôt ; d'où provient ta frayeur ?
 L'OMBRE DE DOM PIERRE, DOM JOUAN, BRIGUELLE.
 
 
-    L'OMBRE, ENTRANT DANS LA MAISON.
+    L’OMBRE, ENTRANT DANS LA MAISON.
 Dom Jouan, c'est ainsi que je te tiens parole,  
 Et je ne fis jamais de promesse frivole.  
 
@@ -2658,7 +2658,7 @@ Enfin je te voudrais traiter superbement,
 Mais je suis dans un lieu fort peu commodément  
 Pour te pouvoir donner ce que veut ton mérite.  
 
-    L'OMBRE.
+    L’OMBRE.
 N'aye point en ce temps de désir hypocrite,  
 Ne raille point les morts, et que leur triste aspect  
 Imprime dans ton cœur la crainte et le respect.  
@@ -2708,7 +2708,7 @@ C'est trop, laissons cela ; j'attends ma destinée
 D'une âme résolue et non pas étonnée.  
 À ta santé !  
 
-    L'OMBRE.
+    L’OMBRE.
         Poursuis, mais ne t'abuse pas :  
 Mon Ombre veut qu'ici l'on venge mon trépas,  
 D'une façon ou d'autre, il faut me satisfaire,  
@@ -2724,7 +2724,7 @@ Va, je ne fis jamais ces lâches actions.
 Tu dois te souvenir que ce fer est l'excuse  
 Que je donne à celui qui de crime m'accuse.  
 
-    L'OMBRE.
+    L’OMBRE.
 Quoi ! toi qui devant moi devrais baisser les yeux,  
 Tu me fais souvenir de ton crime odieux ?  
 Devrais-tu pas trembler en voyant ma présence ?  
@@ -2741,14 +2741,14 @@ Prononcer mes malheurs, traîner des fers, des chaînes,
 Que mes yeux à les voir n'auraient aucune peine :  
 Juge si ton aspect me doit faire trembler.  
 
-    L'OMBRE.
+    L’OMBRE.
 Songe à toi, Dom Jouan.  
 
     DOM JOUAN.
 Enfin, c'est trop parler  
 De crime, de malheurs et de mauvais augure.  
 
-    L'OMBRE.
+    L’OMBRE.
 Tu dois servir d'horreur à toute la nature,  
 Exécrable, et dans peu doit arriver ta fin.  
 
@@ -2779,7 +2779,7 @@ Je ne suis pas un cygne, et je suis catholique.
     DOM JOUAN.
 Impertinent poltron dans sa terreur panique.  
 
-    L'OMBRE.
+    L’OMBRE.
 C'est assez, Dom Jouan, je suis fort satisfait  
 De la réception qu'aujourd'hui tu m'as faite.  
 Je ne t'ai pas manqué, j'ai tenu ma promesse,  
@@ -2790,7 +2790,7 @@ Ce soir, je te convie à manger avec moi.
 Eh bien ! je m'y rendrai, toujours exempt d'effroi.  
 Où veux-tu que ce soit ?  
 
-    L'OMBRE.
+    L’OMBRE.
         Dessus ma sépulture.  
 
     DOM JOUAN.
@@ -2811,7 +2811,7 @@ Mais, ô Dieux ! de frayeur mon corps est tout de glace.
 Dieu me veuille exempter de cet esprit malin ;  
 Toutefois il s'en va, je le tiens fort bénin.  
 
-    L'OMBRE.
+    L’OMBRE.
 Adieu, tu sais le temps, ne me fais pas attendre,  
 Ou ne me promets pas.  
 
@@ -3085,7 +3085,7 @@ La Grotte s'ouvre.
 L'OMBRE, DOM JOUAN, BRIGUELLE.
 
 
-    L'OMBRE.
+    L’OMBRE.
 Dom Jouan, prends ce siège, et puisque aucune crainte  
 Ne trouble ton esprit, et que ton âme atteinte  
 D'un penser orgueilleux adresse ici tes pas,  
@@ -3118,14 +3118,14 @@ Quoi ! tu penses mourir ?
 Ah ! si Monsieur l'esprit voulait sauver ma vie,  
 Qu'il me ferait de bien !  
 
-    L'OMBRE.
+    L’OMBRE.
         Sais-tu bien quel génie  
 Te conduit en ce lieu ?  
 
     DOM JOUAN.
         Quel qu'il soit, tu m'y vois.  
 
-    L'OMBRE.
+    L’OMBRE.
 Si le vice cessait de te faire des lois,  
 Du coup qui va tomber tu te pourrais défendre,  
 Et du foudre qui va mettre ton corps en cendre.  
@@ -3149,7 +3149,7 @@ Briguelle ?
     BRIGUELLE.
         Ah ! je suis mort, il lui faut obéir.  
 
-    L'OMBRE.
+    L’OMBRE.
 Connais-tu bien quelle est l'âme de la Nature,  
 Celui qui donne l'être à toute créature ?  
 Sais-tu que sa vertu de moment en moment  
@@ -3164,7 +3164,7 @@ Si je ne connaissais l'auteur de toutes choses ;
 Je sais bien que ses mains sont les premières causes  
 Des ouvrages qu'on voit, qu'on admire ici-bas.  
 
-    L'OMBRE.
+    L’OMBRE.
 Sais-tu bien qu'à présent ce Dieu veut ton trépas ?  
 
     DOM JOUAN.
@@ -3173,7 +3173,7 @@ La force, la raison, le cœur, l'intelligence,
 Et tout cela pour vaincre et braver les destins,  
 Et non pour affliger l'ouvrage de ses mains.  
 
-    L'OMBRE.
+    L’OMBRE.
 Tu sais bien que ton père est dans la sépulture  
 Et que ton cœur, rebelle aux lois de la nature,  
 A commis ce forfait ; qu'il est dans le tombeau  
@@ -3214,14 +3214,14 @@ Lui montrant son épée.
 Si le Ciel m'attaquait, je lui ferais la guerre,  
 Tout au moins je mourrais dans cette volonté.  
 
-    L'OMBRE.
+    L’OMBRE.
 Impie ! Ah, malheureux !  
 
     DOM JOUAN.
         Ton importunité  
 M'échauffe trop le sang, tais-toi.  
 
-    L'OMBRE.
+    L’OMBRE.
         Quoi, téméraire !  
 Tu n'appréhendes point un châtiment sévère ?  
 
@@ -3229,7 +3229,7 @@ Tu n'appréhendes point un châtiment sévère ?
 Ainsi donc, spectre affreux, tu traites un vivant  
 D'injures, de menaces ?  
 
-    L'OMBRE.
+    L’OMBRE.
         C'en est trop, insolent,  
 Je t'ai traité cent fois mieux que tu ne mérites.  
 
@@ -3242,7 +3242,7 @@ Il faut que sans tarder j'en délivre mes yeux.
 Monsieur l'Esprit, ayez égard à l'innocence :  
 Ne perdez pas Briguelle.  
 
-    L'OMBRE PREND DOM JOUAN PAR LA MAIN.
+    L’OMBRE PREND DOM JOUAN PAR LA MAIN.
         Ah ! c'est trop d'insolence,  
 Et c'est trop mépriser la justice et la loi.  
 Barbare, sers d'exemple aux méchants comme toi,  

@@ -2,7 +2,7 @@
 identifier: donneaudevise_zelinde  
 creator: Donneau de Visé, Jean  
 date: 1663  
-title: Zélinde. , ou la véritable crtique de l'école des femmes ou la critique de la critique, comédie  
+title: Zélinde. , ou la véritable crtique de l’école des femmes ou la critique de la critique, comédie  
 ---
 
 

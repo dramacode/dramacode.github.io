@@ -1,128 +1,5 @@
 
 
-**** *book_ *id_A01 *act_A *date_1650 *creator_corneille
-
--*who_melpomene
-Arrête un peu ta course impétueuse :
-Mon théâtre, Soleil, mérite bien tes yeux ;
-Tu n'en vis jamais en ces lieux
-La pompe plus majestueuse :
-J'ai réuni, pour la faire admirer,
-Tout ce qu'ont de plus beau la France et l'Italie ;
-De tous leurs arts mes soeurs l'ont embellie :
-Prête-moi tes rayons pour la mieux éclairer.
-Daigne à tant de beautés, par ta propre lumière,
-Donner un parfait agrément,
-Et rends cette merveille entière
-En lui servant toi-même d'ornement.
-
--*who_soleil
-Charmante muse de la scène,
-Chère et divine Melpomène,
-Tu sais de mon destin l'inviolable loi :
-Je donne l'âme à toutes choses,
-Je fais agir toutes les causes ;
-Mais quand je puis le plus, je suis le moins à moi ;
-Par une puissance plus forte
-Le char que je conduis m'emporte :
-Chaque jour sans repos doit et naître et mourir.
-J'en suis esclave alors que j'y préside ;
-Et ce frein que je tiens aux chevaux que je guide
-Ne règle que leur route, et les laisse courir.
-
--*who_melpomene
-La naissance d'Hercule et le festin d'Atrée
-T'ont fait rompre ces lois ;
-Et tu peux faire encore ce qu'on t'a vu deux fois
-Faire en même contrée.
-Je dis plus : tu le dois en faveur du spectacle
-Qu'au monarque des lis je prépare aujourd'hui ;
-Le ciel n'a fait que miracles en lui :
-Lui voudrais-tu refuser un miracle ?
-
--*who_soleil
-Non ; mais je le réserve à ces bienheureux jours
-Qu'ennoblira sa première victoire :
-Alors j'arrêterai mon cours,
-Pour être plus longtemps le témoin de sa gloire.
-Prends cependant le soin de le bien divertir,
-Pour lui faire avec joie attendre les années
-Qui feront éclater les belles destinées
-Des peuples que son bras lui doit assujettir.
-Calliope ta soeur déjà d'un oeil avide
-Cherche dans l'avenir les faits de ce grand roi,
-Dont les hautes vertus lui donneront emploi
-Pour plus d'une Illiade et plus d'une Énéide.
-
--*who_melpomene
-Que je porte d'envie à cette illustre soeur,
-Quoique j'aie à craindre pour elle
-Que sous ce grand fardeau sa force ne chancelle !
-Mais quel qu'en soit enfin le mérite et l'honneur,
-J'aurai du moins cet avantage,
-Que déjà je le vois, que déjà je lui plais,
-Et que de ses vertus, et que de ses hauts faits
-Déjà dans ses pareils je lui trace une image.
-Je lui montre Pompée, Alexandre, César,
-Mais comme des héros attachés à son char ;
-Et tout ce haut éclat où je les fais paraître
-Lui peint plus qu'ils n'étaient, et moins qu'il ne doit être.
-
--*who_soleil
-Il en effacera les plus glorieux noms,
-Dès qu'il pourra lui-même animer son armée ;
-Et tout ce que d'eux tous a dit la renommée
-Te fera voir en lui le plus grand des Bourbons.
-Son père et son aïeul tous rayonnants de gloire,
-Ces grands rois qu'en tous lieux a suivis la victoire,
-Lui voyant emporter sur eux le premier rang,
-En deviendraient jaloux s'il n'était pas leur sang.
-Mais vole dans mon char, muse ; je veux t'apprendre
-Tout l'avenir d'un roi qui t'est si précieux.
-
--*who_melpomene
-Je sais déjà ce qu'on doit en attendre,
-Et je lis chaque jour son destin dans les cieux.
-
--*who_soleil
-Viens donc, viens avec moi faire le tour du monde ;
-Qu'unissant ensemble nos voix,
-Nous fassions résonner sur la terre et sur l'onde
-Qu'il est et le plus jeune et le plus grand des rois.
-
--*who_melpomene
-Soleil, j'y vole ; attends-moi donc, de grâce.
-
--*who_soleil
-Viens, je t'attends, et te fais place.
-
--*who_melpomene_soleil
-Cieux, écoutez ; écoutez, mers profondes ;
-Et vous, antres et bois,
-Affreux déserts, rochers battus des ondes,
-Redites après nous d'une commune voix :
-" Louis est le plus jeune et le plus grand des rois. "
-La majesté qui déjà l'environne
-Charme tous ses François ;
-Il est lui seul digne de sa couronne ;
-Et quand même le ciel l'aurait mise à leur choix,
-Il serait le plus jeune et le plus grand des rois.
-C'est à vos soins, reine, qu'on doit la gloire
-De tant de grands exploits ;
-Ils sont partout suivis de la victoire ;
-Et l'ordre merveilleux dont vous donnez ses lois
-Le rend et le plus jeune et le plus grand des rois.
-
--*who_soleil
-Voilà ce que je dis sans cesse
-Dans tout mon large tour.
-Mais c'est trop retarder le jour ;
-Allons, muse, l'heure me presse,
-Et ma rapidité
-Doit regagner le temps que sur cette province,
-Pour contempler ce prince,
-Je me suis arrêté.
-
 **** *book_ *id_I01 *act_I *date_1650 *creator_corneille
 
 -*who_cassiope
@@ -205,10 +82,11 @@ Son haleine est poison, et poison ses regards :
 Il ravage, il désole et nos champs et nos villes,
 Et contre sa fureur il n'est aucuns asiles.
 Après beaucoup d'efforts et de voeux superflus,
-Ayant souffert beaucoup, et craignant encore plus,
+Ayant souffert beaucoup, et craignant encor plus,
 Nous courons à l'oracle en de telles alarmes ;
 Et voici ce qu'Ammon répondit à nos larmes :
-" pour apaiser Neptune, exposez tous les mois
+
+"Pour apaiser Neptune, exposez tous les mois
 Au monstre qui le venge une fille à son choix,
 Jusqu'à ce que le calme à l'orage succède ;
 Le sort vous montrera
@@ -288,8 +166,8 @@ Il tient cette alliance et glorieuse et chère :
 Phinée est de son sang, il est fils de son frère.
 
 -*who_persee
-Reine, le sang des dieux vaut bien celui des rois...
-Mais nous en parlerons encore quelque autre fois.
+Reine, le sang des dieux vaut bien celui des rois…
+Mais nous en parlerons encor quelque autre fois.
 Voici le roi qui vient.
 
 **** *book_ *id_I02 *act_I *date_1650 *creator_corneille
@@ -319,7 +197,7 @@ Qui veut en bien juger n'a point le privilège
 D'aller jusqu'au blasphème et jusqu'au sacrilège.
 
 -*who_cassiope
-Ce blasphème, seigneur, de quoi vous m'accusez...
+Ce blasphème, seigneur, de quoi vous m'accusez…
 
 -*who_cephee
 Madame, après les maux que vous avez causés,
@@ -398,7 +276,7 @@ Répand sur leurs sujets le reste de leur peine.
 
 -*who_cephee
 Vous prenez mal l'oracle ; et pour l'expliquer mieux,
-Sachez... Mais quel éclat vient de frapper mes yeux ?
+Sachez… Mais quel éclat vient de frapper mes yeux ?
 D'où partent ces longs traits de nouvelles lumières ?
 
 -*who_persee
@@ -483,7 +361,7 @@ La même écho qui redisait nos plaintes
 Ne redira que des soupirs d'amour.
 
 -*who_cephee
-C'est assez... La déesse est déjà disparue ;
+C'est assez… La déesse est déjà disparue ;
 Ses dernières clartés se perdent dans la nue ;
 Allons jeter le sort pour la dernière fois.
 Malheureux le dernier que foudroiera son choix,
@@ -560,7 +438,7 @@ Vous plaindre en cet état, c'est tout ce que je puis.
 Vous vous plaindrez peut-être apprenant qui je suis.
 Vous ne vous trompiez point touchant mon origine,
 Lorsque vous la jugiez ou royale ou divine :
-Mon père est... Mais pourquoi contre vous l'animer ?
+Mon père est… Mais pourquoi contre vous l'animer ?
 Puisqu'il nous faut mourir, mourons sans le nommer ;
 Il vengerait ma mort, si j'avais fait connaître
 De quel illustre sang j'ai la gloire de naître ;
@@ -586,7 +464,7 @@ Et les dieux ont parlé, c'est à moi de céder.
 **** *book_ *id_II01 *act_II *date_1650 *creator_corneille
 
 -*who_andromede
-Nymphes, notre guirlande est encore mal ornée ;
+Nymphes, notre guirlande est encor mal ornée ;
 Et devant qu'il soit peu nous reverrons Phinée,
 Que de ma propre main j'en voulais couronner
 Pour les heureux avis qu'il vient de me donner.
@@ -597,7 +475,7 @@ C'est l'unique présent qui soit digne de lui.
 Quittez, nymphes, quittez ces peines inutiles ;
 L'augure déplairait de tant de fleurs stériles :
 Il faut à notre hymen des présages plus doux.
-Dites-moi cependant laquelle d'entre vous...
+Dites-moi cependant laquelle d'entre vous…
 Mais il faut me le dire, et sans faire les fines.
 
 -*who_aglante
@@ -744,7 +622,7 @@ A prononcé ce digne oracle :
 Le ciel lui-même, en la voyant, charmé,
 La juge incomparable ;
 Mais quoiqu'il l'ait faite adorable,
-Phinée est encore plus aimé.
+Phinée est encor plus aimé.
 
 -*who_page
 Heureux amant !
@@ -809,7 +687,7 @@ Il n'en faut point mentir, leur accord m'a surprise.
 Madame, c'est ainsi que tout me favorise,
 Et que tous vos sujets soupirent en ces lieux
 Après l'heureux effet de cet arrêt des dieux,
-que leurs souhaits unis...
+que leurs souhaits unis…
 
 **** *book_ *id_II03 *act_II *date_1650 *creator_corneille
 
@@ -827,7 +705,7 @@ Le pire des malheurs.
 
 -*who_timante
 Non, seigneur ; mais enfin le triste choix du sort
-Vient de tomber... Hélas ! Pourrai-je vous le dire ?
+Vient de tomber… Hélas ! Pourrai-je vous le dire ?
 
 -*who_andromede
 Est-ce sur quelque objet pour qui ton coeur soupire ?
@@ -932,7 +810,7 @@ Avant qu'on l'ait pu voir sortir de sa faiblesse.
 
 -*who_phinee
 Eh bien ! Mon amour seul saura jusqu'au trépas,
-malgré tous...
+malgré tous…
 
 -*who_andromede
       Le roi vient ; ne vous emportez pas.
@@ -976,7 +854,7 @@ Honteuse obéissance à qui votre amour cède !
 
 -*who_cephee
 Obéissance illustre, et digne d'Andromède !
-Son nom comblé par là d'un immortel honneur...
+Son nom comblé par là d'un immortel honneur…
 
 -*who_phinee
 Je l'empêcherai bien, ce funeste bonheur.
@@ -985,7 +863,7 @@ Le ciel pour notre hymen a pris cette journée ;
 Vénus l'a commandé : qui me la peut ôter ?
 Le sort auprès des dieux se doit-il écouter ?
 Ah ! Si j'en vois ici les infâmes ministres
-S'apprêter aux effets de ses ordres sinistres...
+S'apprêter aux effets de ses ordres sinistres…
 
 -*who_cephee
 Apprenez que le sort n'agit que sous les dieux,
@@ -1019,7 +897,7 @@ Andromède est mon sort, et mes dieux, et mon roi ;
 Punissez un impie, et perdez un rebelle ;
 Satisfaites le sort en m'exposant pour elle :
 J'y cours ; mais autrement je jure ses beaux yeux,
-Et mes uniques rois, et mes uniques Dieux...
+Et mes uniques rois, et mes uniques Dieux…
 
 **** *book_ *id_II05 *act_II *date_1650 *creator_corneille
 
@@ -1029,10 +907,10 @@ Qui peut-être déjà menace votre tête.
 N'irritez plus les dieux déjà trop irrités.
 
 -*who_phinee
-Qu'il crève, ce nuage, et que ces déités...
+Qu'il crève, ce nuage, et que ces déités…
 
 -*who_cephee
-Ne les irritez plus, vous dis-je, et prenez garde...
+Ne les irritez plus, vous dis-je, et prenez garde…
 
 -*who_phinee
 À les trop irriter qu'est-ce que je hasarde ?
@@ -1041,7 +919,7 @@ Tombe, tombe sur moi leur foudre, s'il m'est dû !
 Mais s'il est quelque main assez lâche et traîtresse
 Pour suivre leur caprice et saisir ma princesse,
 Seigneur, encore un coup, je jure ses beaux yeux,
-Et mes uniques rois, et mes uniques dieux...
+Et mes uniques rois, et mes uniques dieux…
 
 -*who_eole
 Téméraire mortel, n'en dis pas davantage ;
@@ -1152,7 +1030,7 @@ N'attendent la fin de mes craintes
 Que du monstre qui les produit.
 Qu'il tarde à suivre mes désirs !
 Et que sa cruelle paresse
-À ce coeur dont ma flamme est encore la maîtresse
+À ce coeur dont ma flamme est encor la maîtresse
 Coûte d'amers et longs soupirs !
 Ô toi, dont jusqu'ici la douceur m'a suivie,
 Va-t'en, souvenir indiscret ;
@@ -1164,11 +1042,12 @@ C'est assez que tout l'univers
 Conspire à faire mes supplices ;
 Ne les redouble point, toi qui fus mes délices,
 En me montrant ce que je perds ;
-laisse-moi...
+laisse-moi…
 
 **** *book_ *id_III02 *act_III *date_1650 *creator_corneille
 
 -*who_cassiope
+
       Me voici, qui seule ai fait le crime ;
 Me voici, justes dieux, prenez votre victime :
 S'il est quelque justice encore parmi vous,
@@ -1191,7 +1070,7 @@ Et bientôt l'univers n'adorerait plus qu'elle.
 -*who_andromede
 En l'état où je suis le sort m'est-il trop doux,
 Si vous ne me donnez de quoi craindre pour vous ?
-Faut-il encore ce comble à des malheurs extrêmes ?
+Faut-il encor ce comble à des malheurs extrêmes ?
 Qu'espérez-vous, madame, à force de blasphèmes ?
 
 -*who_cassiope
@@ -1207,7 +1086,7 @@ Que je souffre bien plus en te voyant périr,
 Et qu'ils me feraient grâce en me faisant mourir.
 Ma fille, c'est donc là cet heureux hyménée,
 Cette illustre union par Vénus ordonnée,
-Qu'avec tant de pompe il fallait préparer,
+Qu'avecque tant de pompe il fallait préparer,
 Et que ces mêmes dieux devaient tant honorer !
 Ce que nos yeux ont vu n'était-ce donc qu'un songe,
 Déesse ? Ou ne viens-tu que pour dire un mensonge ?
@@ -1246,7 +1125,7 @@ Pour sauver la beauté qui t'était destinée ;
 Parais, il en est temps ; viens en dépit des dieux
 Sauver ton Andromède, ou périr à ses yeux ;
 L'amour te le commande, et l'honneur t'en convie ;
-Peux-tu, si tu la perds, aimer encore la vie ?
+Peux-tu, si tu la perds, aimer encor la vie ?
 
 -*who_andromede
 Il n'a manque d'amour, ni manque de valeur ;
@@ -1279,11 +1158,11 @@ Allons. Mais qui m'arrête ? Ah ! C'est mal me servir.
 -*who_timante
 Courez-vous à la mort quand on vole à votre aide ?
 Voyez par quels chemins on secourt Andromède ;
-Quel héros, ou quel dieu sur ce cheval ailé...
+Quel héros, ou quel dieu sur ce cheval ailé…
 
 -*who_cassiope
 Ah ! C'est cet inconnu par mes cris appelé,
-C'est lui-même, seigneur, que mon âme étonnée...
+C'est lui-même, seigneur, que mon âme étonnée…
 
 -*who_persee
 Reine, voyez par là si je vaux bien Phinée,
@@ -1343,10 +1222,10 @@ Ces vents, ces mêmes vents qui vous ont enlevée,
 Vont rendre de tout point ma victoire achevée :
 L'ordre que leur prescrit mon père Jupiter
 Jusqu'en votre palais les force à vous porter,
-Les force à vous remettre où tantôt leur surprise...
+Les force à vous remettre où tantôt leur surprise…
 
 -*who_andromede
-D'une frayeur mortelle à peine encore remise,
+D'une frayeur mortelle à peine encor remise,
 Pardonnez, grand héros, si mon étonnement
 N'a pas la liberté d'aucun remerciement.
 
@@ -1412,7 +1291,7 @@ Avant que de voler sous un indigne poids.
 
 -*who_cymodoce
 Oui, c'est sans doute un dieu qui vient de la défendre :
-Mais il n'est pas, mes soeurs, encore temps de nous rendre ;
+Mais il n'est pas, mes soeurs, encor temps de nous rendre ;
 Et puisqu'un dieu pour elle ose nous outrager,
 Il faut trouver aussi des dieux à nous venger.
 Du sang de notre monstre encore toutes teintes,
@@ -1439,7 +1318,7 @@ Qu'il gouverne à son gré l'éclat de son tonnerre ;
 Que même du destin il soit indépendant ;
 Mais qu'il me laisse à moi gouverner mon trident.
 C'est bien assez pour lui d'un si grand avantage,
-Sans me venir braver encore dans mon partage.
+Sans me venir braver encor dans mon partage.
 Après cet attentat sur l'empire des mers,
 Même honte à leur tour menace les enfers ;
 Aussi leur souverain prendra notre querelle :
@@ -1495,7 +1374,7 @@ Du choix de vos parents et du vouloir des dieux.
 Ils vous donnent à moi, je vous rends à vous-même ;
 Et comme enfin c'est vous, et non pas moi, que j'aime,
 J'aime mieux m'exposer à perdre un bien si doux,
-Que de vous obtenir d'un autre que vous.
+Que de vous obtenir d'un autre que de vous.
 Je garde cet espoir et hasarde le reste,
 Et me soit votre choix ou propice ou funeste,
 Je bénirai l'arrêt qu'en feront vos désirs,
@@ -1512,7 +1391,7 @@ Après que par le roi vos voeux sont exaucés,
 Vous parler d'obéir c'était vous dire assez ;
 Mais vous voulez douter, afin que je m'explique,
 Et que votre victoire en devienne publique.
-Sachez donc...
+Sachez donc…
 
 -*who_persee
       Non, madame : où j'ai tant d'intérêt,
@@ -1533,7 +1412,7 @@ Je lui voudrais du mal s'il retranchait du vôtre,
 S'il vous pouvait coûter un soupir pour quelque autre,
 Et si quittant pour moi quelques destins meilleurs,
 Votre devoir laissait votre tendresse ailleurs.
-Je vous le dis encore dans ma plus douce attente,
+Je vous le dis encor dans ma plus douce attente,
 Je mourrai trop content si vous vivez contente,
 Et si l'heur de ma vie ayant sauvé vos jours,
 La gloire de ma mort assure vos amours.
@@ -1594,7 +1473,7 @@ Qui d'un si gros torrent suit la rapidité.
 Deux amants que sépare une légère offense
 Rentrent d'un seul coup d'oeil en pleine intelligence.
 Vous reverrez en lui ce qui le fit aimer,
-Les mêmes qualités qu'il vous plut estimer...
+Les mêmes qualités qu'il vous plut estimer…
 
 -*who_andromede
 Et j'y verrai de plus cette âme lâche et basse
@@ -1603,7 +1482,7 @@ Cet ingrat trop aimé qui n'osa me sauver,
 Qui me voyant périr, voulut se conserver,
 Et crut s'être acquitté devant ce que nous sommes,
 En querellant les dieux et menaçant les hommes.
-S'il eût... Mais le voici : voyons si ses discours
+S'il eût… Mais le voici : voyons si ses discours
 Rompront de ce torrent ou grossiront le cours.
 
 **** *book_ *id_IV03 *act_IV *date_1650 *creator_corneille
@@ -1681,13 +1560,13 @@ Et quoique plus heureuse en un semblable sort,
 Je vois d'un oeil jaloux la gloire de sa mort.
 Elle avait vingt amants qui voulurent la suivre,
 Et je n'en avais qu'un, qui m'a voulu survivre.
-Encore ces vingt amants, qui vous ont alarmé,
+encor ces vingt amants, qui vous ont alarmé,
 N'étaient pas tous aimés, et vous étiez aimé :
 Ils n'avaient la plupart qu'une faible espérance,
 Et vous aviez, Phinée, une entière assurance ;
 Vous possédiez mon coeur, vous possédiez ma foi ;
 N'était-ce point assez pour mourir avec moi ?
-Pouviez-vous ? ...
+Pouviez-vous ? …
 
 -*who_phinee
       Ah ! De grâce, imputez-moi, madame,
@@ -1726,7 +1605,7 @@ Vous n'avez aucun lieu d'en devenir jaloux,
 Puisque sur ce rocher j'étais morte pour vous.
 Qui pouvait le souffrir peut me voir sans envie
 Vivre pour un héros de qui je tiens la vie ;
-Et quand l'amour encore me parlerait pour lui,
+Et quand l'amour encor me parlerait pour lui,
 Je ne puis disposer des conquêtes d'autrui.
 Adieu.
 
@@ -1744,7 +1623,7 @@ La mienne à son bonheur saura bien l'arracher ;
 Et vainqueur de tous deux en une seule tête,
 De ce qui fut mon bien je ferai ma conquête.
 La force me rendra ce que ne peut l'amour.
-Allons-y, chers amis, et montrons dès ce jour...
+Allons-y, chers amis, et montrons dès ce jour…
 
 -*who_ammon
 Seigneur, auparavant d'une âme plus remise
@@ -1820,7 +1699,7 @@ Le coeur plein d'espérance, et l'âme d'allégresse.
 Allons, seigneur, allons assembler vos amis ;
 Courons au grand succès qu'elle vous a promis :
 Aussi bien le roi vient, il faut quitter la place,
-de peur...
+de peur…
 
 -*who_phinee
       Non, demeurez pour voir ce qui se passe ;
@@ -1841,7 +1720,7 @@ La douleur s'en termine en ces chants d'allégresse.
 Vivez, vivez, heureux amants,
 Dans les douceurs que l'amour vous inspire ;
 Vivez heureux, et vivez si longtemps,
-Qu'au bout d'un siècle entier on puisse encore vous dire :
+Qu'au bout d'un siècle entier on puisse encor vous dire :
 "Vivez, heureux amants. "
 Que les plaisirs les plus charmants
 Fassent les jours d'une si belle vie ;
@@ -1857,7 +1736,7 @@ Et des bouts de la terre à l'envi nous répondent :
 -*who_cephee
 Allons, amis, allons, dans ce comble de joie,
 Rendre grâces au ciel de l'heur qu'il nous envoie.
-Allons dedans le temple avec mille voeux
+Allons dedans le temple avecque mille voeux
 De cet illustre hymen achever les beaux noeuds.
 Allons sacrifier à Jupiter son père,
 Le prier de souffrir ce que nous pensons faire,
@@ -1868,7 +1747,7 @@ Fasse un mélange heureux de son sang et du mien.
 Souffrez qu'auparavant par d'autres sacrifices
 Nous nous rendions des eaux les déités propices.
 Neptune est irrité ; les nymphes de la mer
-Ont de nouveaux sujets encore de s'animer ;
+Ont de nouveaux sujets encor de s'animer ;
 Et comme mon orgueil fit naître leur colère,
 Par mes submissions je dois les satisfaire.
 Sur leurs sables, témoins de tant de vanités,
@@ -1936,7 +1815,7 @@ Trembler devant sa haine, adorer son courroux.
 Quittez, quittez, seigneur, un respect si funeste ;
 Ôtez-vous ce rival, et hasardez le reste :
 En dût-elle à jamais dédaigner vos soupirs,
-La vengeance elle seule a de si doux plaisirs...
+La vengeance elle seule a de si doux plaisirs…
 
 -*who_phinee
 N'en cherchons les douceurs, ami, que les dernières.
@@ -1955,7 +1834,7 @@ Mais souffre à mon amour, mais souffre à ma faiblesse
 Encore un peu d'effort auprès de ma princesse.
 Un amant véritable espère jusqu'au bout,
 Tant qu'il voit un moment qui peut lui rendre tout.
-L'inconstante, peut-être encore toute étonnée,
+L'inconstante, peut-être encor toute étonnée,
 N'était pas bien à soi quand elle s'est donnée ;
 Et la reconnaissance a fait plus que l'amour
 En faveur d'une main qui lui rendait le jour.
@@ -1976,7 +1855,7 @@ M'en aura pu laisser la porte encore ouverte.
 Ah ! Si ce triste hymen se pouvait éloigner !
 
 -*who_ammon
-Quoi ? Vous voulez encore vous faire dédaigner ?
+Quoi ? Vous voulez encor vous faire dédaigner ?
 Sous ce honteux espoir votre fureur se dompte ?
 
 -*who_phinee
@@ -1995,7 +1874,7 @@ Je vous plains ; mais enfin j'obéis, et vous laisse.
 
 -*who_phinee
 Une seconde fois, adorable princesse,
-Malgré de vos rigueurs l'impérieuse loi...
+Malgré de vos rigueurs l'impérieuse loi…
 
 -*who_andromede
 Quoi ? Vous voyez la reine, et vous parlez à moi !
@@ -2035,7 +1914,7 @@ Et quand par un héros le ciel l'a garantie,
 Vous ne vous pouvez plus consoler de sa vie.
 
 -*who_phinee
-Ah ! Madame...
+Ah ! Madame…
 
 -*who_cassiope
       Eh bien ! Soit, vous avez soupiré
@@ -2044,7 +1923,7 @@ Jamais aucun tourment n'égala votre peine ;
 Certes, quelque douleur dont votre âme fût pleine,
 Ce désespoir illustre et ces nobles regrets
 Lui devaient un peu plus que des soupirs secrets.
-À ce défaut, Persée...
+À ce défaut, Persée…
 
 -*who_phinee
       Ah ! C'en est trop, madame ;
@@ -2057,7 +1936,7 @@ Et tout héros qu'il est, qu'eût-il osé pour vous,
 S'il n'eût eu que sa flamme et son bras comme nous ?
 Mille et mille auraient fait des actions plus belles,
 Si le ciel comme à lui leur eût prêté des ailes ;
-Et vous les auriez vus encore plus généreux,
+Et vous les auriez vus encor plus généreux,
 S'ils eussent vu le monstre et le péril sous eux :
 On s'expose aisément quand on n'a rien à craindre.
 Combattre un ennemi qui ne pouvait l'atteindre,
@@ -2102,7 +1981,7 @@ Préférant mes refus, préférant son trépas
 En usez-vous de même ? Et votre violence
 Garde-t-elle pour moi la même déférence ?
 Vous avez contre vous et les dieux et le roi,
-Et vous voulez encore m'obtenir malgré moi !
+Et vous voulez encor m'obtenir malgré moi !
 Sous ombre d'une foi qui se tient en réserve,
 Je dois à votre amour ce qu'un autre conserve ;
 À moins que d'être ingrate à mon libérateur,
@@ -2111,7 +1990,7 @@ Que d'être à mes parents, aux dieux mêmes rebelle,
 Vous crierez après moi sans cesse : " à l'infidèle ! "
 C'était aux yeux du monstre, au pied de ce rocher,
 Que l'effet de ma foi se devait rechercher ;
-Mon âme, encore pour vous de même ardeur pressée,
+Mon âme, encor pour vous de même ardeur pressée,
 Vous eût tendu la main au mépris de Persée,
 Et cru plus glorieux qu'on m'eût vue aujourd'hui
 Expirer avec vous que régner avec lui.
@@ -2185,14 +2064,14 @@ Jamais les feux sacrés et la mort des victimes
 N'ont daigné mieux répondre à des voeux légitimes.
 Tous auspices heureux ; et le grand Jupiter
 Par des signes plus clairs ne pouvait l'accepter,
-À moins qu'y joindre encore l'honneur de sa présence,
+À moins qu'y joindre encor l'honneur de sa présence,
 Et de sa propre bouche assurer l'alliance.
 
 -*who_cassiope
 Les nymphes de la mer nous en ont fait autant ;
 Toutes ont hors des flots paru presque à l'instant ;
 Et leurs bénins regards envoyés au rivage
-Avec notre encens ont reçu notre hommage ;
+Avecque notre encens ont reçu notre hommage ;
 Après le sacrifice honoré de leurs yeux,
 Où Neptune à l'envi mêlait ses demi-dieux,
 Toutes ont témoigné d'un penchement de tête
@@ -2219,7 +2098,7 @@ Vient de l'environner, et déjà l'assassine.
 Phinée en les joignant, furieux et jaloux,
 Leur a crié : « Main basse ! À lui seul, donnez tous ! »
 Ceux qui l'accompagnaient tout aussitôt se rendent,
-Clyte et Nylée encore vaillamment le défendent ;
+Clyte et Nylée encor vaillamment le défendent ;
 Mais ce sont vains efforts de peu d'autres suivis,
 Et je viens toute en pleurs vous en donner avis.
 
@@ -2243,7 +2122,7 @@ Y mêler notre main, c'est faire un sacrilège.
 
 -*who_cassiope
 Seigneur, sur cet espoir hasarder ce héros,
-c'est trop...
+c'est trop…
 
 **** *book_ *id_V05 *act_V *date_1650 *creator_corneille
 
@@ -2265,7 +2144,7 @@ Les siens donnent en foule, et leur troupe pressée
 Fait choir Ménale et Clyte aux pieds du grand Persée.
 Il s'écrie aussitôt : « Amis, fermez les yeux,
 Et sauvez vos regards de ce présent des cieux :
-J'atteste qu'on m'y force, et n'en fais plus d'excuse .»
+J'atteste qu'on m'y force, et n'en fais plus d'excuse.»
 Il découvre à ces mots la tête de Méduse.
 Soudain j'entends des cris qu'on ne peut achever ;
 J'entends gémir les uns, les autres se sauver ;
@@ -2281,7 +2160,7 @@ Mais l'un plein de fureur, et l'autre plein de crainte,
 En porte sur le front l'image encore empreinte ;
 Et tel voulait frapper, dont le coup suspendu
 Demeure en sa statue à demi descendu ;
-tant cet affreux prodige...
+tant cet affreux prodige…
 
 **** *book_ *id_V06 *act_V *date_1650 *creator_corneille
 
@@ -2291,7 +2170,7 @@ cet impie ?
 
 -*who_persee
       Oui, seigneur ; et si sa mort vous fâche,
-Si c'est de votre sang avoir fait peu d'état...
+Si c'est de votre sang avoir fait peu d'état…
 
 -*who_cephee
 Il n'est plus de ma race après son attentat :
@@ -2343,53 +2222,3 @@ Fais choir sur eux de nouvelles couronnes,
 Et fais-nous voir, par un heur accompli,
 Qu'ils ont tous dignement rempli
 Le rang que tu leur donnes.
-
-**** *book_ *id_V08 *act_V *date_1650 *creator_corneille
-
--*who_jupiter
-Des noces de mon fils la terre n'est pas digne,
-La gloire en appartient aux cieux,
-Et c'est là ce bonheur insigne
-Qu'en vous fermant mon temple ont annoncé les dieux.
-Roi, reine, et vous amants, venez sans jalousie
-Vivre à jamais en ce brillant séjour,
-Où le nectar et l'ambrosie
-Vous seront comme à nous prodigués chaque jour ;
-Et quand la nuit aura tendu ses voiles,
-Vos corps semés de nouvelles étoiles,
-Du haut du ciel éclairant aux mortels,
-Leur apprendront qu'il vous faut des autels.
-
--*who_junon
-Junon même y consent, et votre sacrifice
-A calmé les fureurs de son esprit jaloux.
-
--*who_neptune
-Neptune n'est pas moins propice,
-Et vos encens désarment son courroux.
-
--*who_junon
-Venez, héros, et vous Céphée,
-Prendre là-haut vos places de ma main.
-
--*who_neptune
-Reines, venez ; que ma haine étouffée
-Vous conduise elle-même à cet heur souverain.
-
--*who_persee
-Accablés et surpris d'une faveur si grande...
-
--*who_junon
-Arrêtez là votre remerciement :
-L'obéissance est le seul compliment
-Qu'agrée un Dieu quand il commande.
-
--*who_choeur
-Allez, amants, allez sans jalousie
-Vivre à jamais en ce brillant séjour,
-Où le nectar et l'ambrosie
-Vous seront comme aux dieux prodigués chaque jour ;
-Et quand la nuit aura tendu ses voiles,
-Vos corps semés de nouvelles étoiles,
-Du haut du ciel éclairant aux mortels,
-Leur apprendront qu'il vous faut des autels.

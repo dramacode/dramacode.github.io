@@ -2,7 +2,7 @@
 identifier: gillet_artderegner  
 creator: Gillet de La Tessonerie  
 date: 1644  
-title: L'Art de régner.  ou le sage gouverneur, tragi-comédie  
+title: L’Art de régner.  ou le sage gouverneur, tragi-comédie  
 ---
 
 
@@ -455,7 +455,7 @@ Juge après ce discours si je t'estime bien.
     ALEXANDRE PARLANT À UN DE LA SUITE DE PHILIPPE.
 Ami que fait le Roi, qu'a-t-il ?  
 
-    PHILIPPE, ENTENDANT QU'ALEXANDRE DEMANDE CE QU'IL A.
+    PHILIPPE, ENTENDANT QU’ALEXANDRE DEMANDE CE QU’IL A.
         Va, je n'ai rien.  
 Laisse-moi seulement en cette solitude,  
 Atalle, parle-lui de mon inquiétude.  
@@ -727,7 +727,7 @@ Hélas, quelqu'un à moi, garde !
         Rien ne m'étonne,  
 Je crains ta garde encor bien moins que ta personne.  
 
-    PHILIPPE, EN S'EN ALLANT.
+    PHILIPPE, EN S’EN ALLANT.
 Évitons, quittons-la.  
 
     MINERVE, LE SUIVANT.
@@ -867,13 +867,13 @@ Arbas, vois ce que c'est, et ce que veut cet homme.
 
 ## SCÈNE III. Camille, Arbas, L'Exempt et sa suite.
 
-    L'EXEMPT.
+    L’EXEMPT.
 Seigneur, je vous arrête, et de la part du Roi.  
 
     CAMILLE.
 De quel Roi ?  
 
-    L'EXEMPT.
+    L’EXEMPT.
         Vous savez qu'en l'armée ennemie,  
 On a tout haut donné ce nom au Grand Fabie,  
 Qui fut trois fois Consul mérite d'être Roi.  
@@ -882,7 +882,7 @@ Qui fut trois fois Consul mérite d'être Roi.
 Je lui rends cet honneur aussi bien comme toi,  
 Mais.  
 
-    L'EXEMPT.
+    L’EXEMPT.
         Je ne réponds point des ordres qu'on me donne,  
 J'exécute ma charge et ne connais personne.  
 
@@ -890,7 +890,7 @@ J'exécute ma charge et ne connais personne.
 Je ne te puis souffrir me parler de si près,  
 Ami, retire-toi.  
 
-    L'EXEMPT.
+    L’EXEMPT.
         Le Roi l'ordonne exprès,  
 Et je viens de sa part vous demander l'épée.  
 
@@ -900,7 +900,7 @@ Le Roi sait qu'en l'état où je suis aujourd'hui,
 Je ne la saurais rendre à d'autre homme qu'à lui,  
 Lui seul me la donna, lui seul la doit reprendre.  
 
-    L'EXEMPT.
+    L’EXEMPT.
 Ne vous obstinez point.  
 
     CAMILLE.
@@ -910,7 +910,7 @@ Je ne l'ai pas rendue, et ne la rendrai point,
 L'on t'a nommé mon nom sans doute pour quelque autre,  
 Tu l'as mal entendu.  
 
-    L'EXEMPT.
+    L’EXEMPT.
         Non, Seigneur, c'est le vôtre.  
 Mais sans nous amuser en discours superflus,  
 Rendez-moi votre épée, et ne contestez plus,  
@@ -921,7 +921,7 @@ Autrement vous verrez...
 Encor un coup, ami, retire-toi de Grâce,  
 Apprends à me connaître, et sache qui je suis.  
 
-    L'EXEMPT.
+    L’EXEMPT.
 Mais vous-même Seigneur, voyez ce que je puis,  
 Et ne m'obligez pas d'user de violence.  
 
@@ -1088,7 +1088,7 @@ Je mettrai mon pouvoir à t'en faire guérir.
     CAMILLE.
 Sire, vous ne pouvez, sans me faire mourir.  
 
-    FABIE, EN S'ÉTONNANT.
+    FABIE, EN S’ÉTONNANT.
 Aimer des ennemis ?  
 
     CAMILLE, EN SOUPIRANT.
@@ -1191,7 +1191,7 @@ Qu'il n'eut pas mérité, ni lui ni tous les siens ;
 Mais je veux, oubliant jusques à ta mémoire,  
 Perdre tout ce qui peut me parler à ta gloire.  
 
-    CAMILLE, ÉTANT TIRÉ PAR LES SOLDATS QUI L'ENTRAÎNENT.
+    CAMILLE, ÉTANT TIRÉ PAR LES SOLDATS QUI L’ENTRAÎNENT.
 Sire, perdez-vous donc avec tous les lauriers  
 Qui couvrent aujourd'hui le front de vos guerriers.  
 
@@ -2684,7 +2684,7 @@ Adieu, ton Écuyer me le fera savoir.
     STATIRA.
 Mon Écuyer ?  
 
-    OROONDATE, À L'ÉCART.
+    OROONDATE, À L’ÉCART.
         Ah ! Dieux, ma peine est sans pareille.  
 
     ALEXANDRE.
@@ -3523,13 +3523,13 @@ En me montrant de loin cet habillement noir ?
 
 ## SCÈNE VIII. Persée, Tibère, un Édile Romain.
 
-    L'ÉDILE, FAISANT PORTER DERRIÈRE LUI PAR UN PAGE UN VÊTEMENT NOIR ET ABORDANT BRUSQUEMENT PERSÉE.
+    L’ÉDILE, FAISANT PORTER DERRIÈRE LUI PAR UN PAGE UN VÊTEMENT NOIR ET ABORDANT BRUSQUEMENT PERSÉE.
 Esclave.  
 
     PERSÉE.
     Hélas !  
 
-    L'ÉDILE.
+    L’ÉDILE.
         Je viens te demander les marques  
 Que la coutume veut que portent les Monarques,  
 Tes Ornements Royaux.  
@@ -3537,7 +3537,7 @@ Tes Ornements Royaux.
     PERSÉE.
         Ô les biens fugitifs !  
 
-    L'ÉDILE.
+    L’ÉDILE.
 Pour te couvrir de ceux que portent les captifs,  
 C'est l'ordre du Sénat, fais donc ce qu'il commande.  
 
@@ -3582,7 +3582,7 @@ Va, va, je te déteste et connais ta malice,
 Je brise tes autels, et ferai désormais  
 Que qui te connaîtra, ne te suivra jamais.  
 
-    L'ÉDILE.
+    L’ÉDILE.
 Donne-moi donc ces biens que le Sénat demande.  
 
     PERSÉE.

@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>L’Impromptu de Versailles</title>
-        <author>Molière</author>
+        <author key="Molière (1622-1673)">Molière</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -18,7 +18,8 @@
       </editionStmt>
       <publicationStmt>
         <publisher>LABEX OBVIL</publisher>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_impromptu-versailles/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_impromptu-versailles</idno>
+        <idno type="tei">http://dramacode.github.io/moliere/moliere_impromptu-versailles.xml</idno>
       </publicationStmt>
       <sourceDesc>
         <p/>

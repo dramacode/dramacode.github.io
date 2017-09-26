@@ -181,7 +181,7 @@ J'en perdais la mémoire aussitôt que la vue ;
 Et bien que mes discours lui donnassent ma foi,
 De retour au logis, je me trouvais à moi.
 Cette façon d'aimer me semblait fort commode,
-Et maintenant encore je vivrais à ma mode ;
+Et maintenant encor je vivrais à ma mode ;
 Mais l'objet d'Amarante est trop embarrassant :
 Ce n'est point un visage à ne voir qu'en passant ;
 Un je ne sais quel charme auprès d'elle m'attache ;
@@ -210,7 +210,7 @@ Tu te défends encore, et n'en tiens qu'à demi.
 Cruel, est-ce là donc me traiter en ami ?
 Garde, pour châtiment de cet injuste outrage,
 Qu'Amarante pour toi ne change de courage,
-Et se rendant sensible à l'ardeur de mes voeux...
+Et se rendant sensible à l'ardeur de mes voeux…
 
 -*who_theante
 À cela près, poursuis ; gagne-la, si tu peux :
@@ -225,7 +225,7 @@ De faire à tes dépens cette épreuve incertaine !
 Je me confesse pris, je quitte, j'ai perdu :
 Qui veux-tu plus de moi ? Reprends ce qui t'est dû.
 Séparer plus longtemps une amour si parfaite !
-Continuer encore la faute que j'ai faite !
+Continuer encor la faute que j'ai faite !
 Elle n'est que trop grande, et pour la réparer,
 J'empêcherai Daphnis de vous plus séparer.
 Pour peu qu'à mes discours je la trouve accessible,
@@ -293,7 +293,7 @@ Je ne prendrai jamais pour un manque de foi
 D'oublier un ami pour se donner à moi.
 
 -*who_florame
-Encore si je pouvais former quelque espérance
+encor si je pouvais former quelque espérance
 De vous voir favorable à ma persévérance,
 Que vous pussiez m'aimer après tant de tourment,
 Et d'un mauvais ami faire un heureux amant !
@@ -322,7 +322,7 @@ Peut-être ; mais enfin il faut le confesser,
 Vous vous trouveriez mieux auprès de ma maîtresse.
 
 -*who_florame
-Ne pensez pas...
+Ne pensez pas…
 
 -*who_amarante
       Non, non, c'est là ce qui vous presse.
@@ -384,7 +384,7 @@ Vous en parlez ainsi, faute de le connaître.
 J'en parle et juge ainsi sur ce qu'on voit paraître.
 
 -*who_theante
-Quoi qu'il en soit, l'honneur de vous entretenir...
+Quoi qu'il en soit, l'honneur de vous entretenir…
 
 -*who_daphnis
 Brisons là ce discours : je l'aperçois venir.
@@ -518,7 +518,7 @@ Et je n'en laisserai pas un trait à quartier.
 Je ne suis point ingrat quand on me rend office.
 Peins-lui bien mon amour, offre bien mon service,
 Dis bien que mes beaux jours ne sont pas si passés
-Qu'il ne me reste encore...
+Qu'il ne me reste encor…
 
 -*who_celie
       Que vous m'étourdissez !
@@ -541,6 +541,7 @@ Essaie auparavant d'y résoudre la soeur.
 **** *book_ *id_II02 *act_II *date_1634 *creator_corneille
 
 -*who_florame
+
 Jamais ne verrai-je finie
 Cette incommode affection,
 Dont l'impitoyable manie
@@ -557,7 +558,7 @@ Dans une ardeur si violente,
 Près de l'objet de mes désirs,
 Penses-tu que je me contente
 D'un regard et de deux soupirs ?
-Et que je souffre encore cet injuste partage
+Et que je souffre encor cet injuste partage
 Où tu tiens mes discours, et Daphnis mon courage ?
 Si j'ai feint pour toi quelques feux,
 C'est à quoi plus rien ne m'oblige :
@@ -626,7 +627,7 @@ Pour moi, j'ai toujours cru qu'un amour vertueux
 N'avait point à rougir d'être présomptueux.
 Je veux bien vous nommer le bel oeil qui me dompte
 Et ma témérité ne me fait point de honte.
-Ce rare et haut sujet...
+Ce rare et haut sujet…
 
 -*who_amarante
       Tout est presque tendu.
@@ -652,7 +653,7 @@ Dont le mérite égal, le rang pareil au vôtre,
 L'esprit et les attraits également puissants,
 Ne devraient de ma part avoir que de l'encens.
 Oui, sa perfection, comme la vôtre extrême,
-N'a que vous de pareille : en un mot, c'est...
+N'a que vous de pareille : en un mot, c'est…
 
 -*who_daphnis
       Moi-même :
@@ -675,7 +676,7 @@ Que vos yeux en voudraient désavouer leurs coups ;
 Ou peut-être mon sort me rend si méprisable
 Que ma témérité vous devient incroyable.
 Mais quoi que désormais il m'en puisse arriver,
-Je fais serment...
+Je fais serment…
 
 -*who_amarante
       Vos clefs ne sauraient se trouver.
@@ -727,7 +728,7 @@ Florame, je suis fille, et je dépends d'un père.
 Mais de votre côté que faut-il que j'espère ?
 
 -*who_daphnis
-Si ma jalouse encore vous rencontrait ici,
+Si ma jalouse encor vous rencontrait ici,
 Ce qu'elle a de soupçons serait trop éclairci :
 Laissez-moi seule, allez.
 
@@ -815,7 +816,7 @@ Par curiosité vous le voulez connaître,
 Et quand il a goûté d'un si doux entretien,
 Je puis dire dès lors que je ne tiens plus rien.
 C'est ainsi que Théante a négligé ma flamme ;
-Encore tout de nouveau vous m'enlevez Florame :
+encor tout de nouveau vous m'enlevez Florame :
 Si vous continuez à rompre ainsi mes coups,
 Je ne sais tantôt plus comment vivre avec vous.
 
@@ -883,12 +884,12 @@ Que sans être jaloux je le vois et l'endure.
 -*who_amarante
 Comment le serais-tu pour un si triste objet ?
 Ses imperfections t'en ôtent tout sujet.
-C'est à toi d'admirer qu'encore qu'un beau visage
+C'est à toi d'admirer qu'encor qu'un beau visage
 Dedans ses entretiens à toute heure t'engage,
 J'ai pour toi tant d'amour et si peu de soupçon,
 Que je n'en suis jalouse en aucune façon.
 C'est aimer puissamment que d'aimer de la sorte ;
-Mais mon affection est bien encore plus forte.
+Mais mon affection est bien encor plus forte.
 Tu sais (et je le dis sans te mésestimer)
 Que quand notre Daphnis aurait su te charmer,
 Ce qu'elle est plus que toi mettrait hors d'espérance
@@ -932,20 +933,20 @@ J'étais fort à la gêne avec cette suivante.
 Celle qui te charmait te devient bien pesante.
 
 -*who_theante
-Je l'aime encore pourtant ; mais mon ambition
+Je l'aime encor pourtant ; mais mon ambition
 Ne laisse point agir mon inclination.
 Ma flamme sur mon coeur en vain est la plus forte ;
 Tous mes désirs ne vont qu'où mon dessein les porte.
 Au reste j'ai sondé l'esprit de mon rival.
 
 -*who_damon
-Et connu...
+Et connu…
 
 -*who_theante
       Qu'il n'est pas pour me faire grand mal.
 Amarante m'en vient d'apprendre une nouvelle
 Qui ne me permet plus que j'en sois en cervelle.
-Il a vu...
+Il a vu…
 
 -*who_damon
       Qui ?
@@ -955,10 +956,10 @@ Il a vu...
 Que ce qu'elle devait à sa témérité.
 
 -*who_damon
-      Comme quoi ?
+Comme quoi ?
 
 -*who_theante
-Des mépris, des rigueurs sans pareilles.
+      Des mépris, des rigueurs sans pareilles.
 
 -*who_damon
 As-tu beaucoup de foi pour de telles merveilles ?
@@ -1002,7 +1003,7 @@ Te viens-tu d'aviser de quelque invention ?
 -*who_damon
 Oui, ta seule maxime en fonde l'entreprise.
 Clarimond voit Daphnis, il l'aime, il la courtise ;
-Et quoiqu'il n'en reçoive encore que des mépris,
+Et quoiqu'il n'en reçoive encor que des mépris,
 Un moment de bonheur lui peut gagner ce prix
 
 -*who_theante
@@ -1110,7 +1111,7 @@ Est-ce rébellion que d'avoir trop de feu ?
 C'est avoir trop d'amour, et m'obéir trop peu.
 
 -*who_clarimond
-La puissance sur moi que je vous ai donnée...
+La puissance sur moi que je vous ai donnée…
 
 -*who_daphnis
 D'aucune exception ne doit être bornée.
@@ -1250,7 +1251,7 @@ L'erreur où je vous vois me fait compassion ;
 Mais pourriez-vous avoir de la discrétion ?
 
 -*who_clarimond
-Prends-en ma foi de gage, avec... Laisse-moi faire.
+Prends-en ma foi de gage, avec… Laisse-moi faire.
 
 -*who_amarante
 Vous voulez justement m'obliger à me taire ;
@@ -1258,7 +1259,7 @@ Aux filles de ma sorte il suffit de la foi :
 Réservez vos présents pour quelque autre que moi.
 
 -*who_clarimond
-Souffre...
+Souffre…
 
 -*who_amarante
       Gardez-les, dis-je, ou je vous abandonne.
@@ -1317,7 +1318,7 @@ Il s'en pâme de joie, et dessus ma parole
 De tant d'affronts reçus son âme se console ;
 Il les chérit peut-être et les tient à faveurs :
 Tant ce trompeur espoir redouble ses ferveurs !
-S'il rencontrait le père, et que mon entreprise...
+S'il rencontrait le père, et que mon entreprise…
 
 **** *book_ *id_III06 *act_III *date_1634 *creator_corneille
 
@@ -1329,7 +1330,7 @@ Amarante !
 
 -*who_geraste
       Vous faites la surprise,
-Encore que de si loin vous m'ayez vu venir,
+encor que de si loin vous m'ayez vu venir,
 Que Clarimond n'est plus à vous entretenir !
 Je donne ainsi la chasse à ceux qui vous en content !
 
@@ -1445,7 +1446,7 @@ Auprès des gens d'honneur sont trop dignes de grâce.
 Florame, il est tout vrai, dès lors que je te vis,
 Un battement de coeur me fit de cet avis ;
 Et mon père aujourd'hui souffre que dans son âme
-Les mêmes sentiments...
+Les mêmes sentiments…
 
 **** *book_ *id_III09 *act_III *date_1634 *creator_corneille
 
@@ -1612,7 +1613,7 @@ C'est acquérir ma haine avec peu de profit.
 -*who_amarante
 Si touchant vos amours on sait rien de ma bouche,
 Que je puisse à vos yeux devenir une souche !
-Que le ciel...
+Que le ciel…
 
 -*who_daphnis
       Finissez vos imprécations.
@@ -1636,11 +1637,12 @@ Que l'un de ces amants fût pris pour son rival ?
 Je ne sais où j'en suis, et toutefois j'espère :
 Sous ces obscurités je soupçonne un mystère ;
 Et mon esprit confus, à force de douter,
-Bien qu'il n'ose rien croire, ose encore se flatter.
+Bien qu'il n'ose rien croire, ose encor se flatter.
 
 **** *book_ *id_IV01 *act_IV *date_1634 *creator_corneille
 
 -*who_daphnis
+
 Qu'en l'attente de ce qu'on aime
 Une heure est fâcheuse à passer !
 Qu'elle ennuie un amour extrême
@@ -1660,11 +1662,12 @@ Ne serait tout au plus qu'un mot pour l'excuser.
 Je dois rougir de ma faiblesse ;
 C'est être trop bonne en effet.
 Daphnis, fais un peu la maîtresse,
-Et souviens-toi du moins...
+Et souviens-toi du moins…
 
 **** *book_ *id_IV02 *act_IV *date_1634 *creator_corneille
 
 -*who_geraste
+
       Adieu, cela vaut fait,
 Tu l'en peux assurer. Ma fille, je présume,
 Quelques feux dans ton coeur que ton amant allume,
@@ -1699,13 +1702,13 @@ Contre ma volonté sont d'impuissantes armes.
 Rentrez ; je ne puis voir qu'avec mille douleurs
 Votre rébellion s'exprimer par vos pleurs.
 La pitié me gagnait : il m'était impossible
-De voir encore ses pleurs, et n'être pas sensible :
+De voir encor ses pleurs, et n'être pas sensible :
 Mon injuste rigueur ne pouvait plus tenir,
 Et de peur de me rendre il la fallait bannir.
 N'importe toutefois, la parole me lie,
 Et mon amour ainsi l'a promis à Célie :
 Florise ne se peut acquérir qu'à ce prix ;
-Si Florame...
+Si Florame…
 
 **** *book_ *id_IV03 *act_IV *date_1634 *creator_corneille
 
@@ -1841,7 +1844,7 @@ J'avais mis tout exprès Cléon sur le passage.
 Théante approche-t-il ?
 
 -*who_cleon
-      Il est en ce carrefour.
+      Il est en ce car four.
 
 -*who_damon
 Adieu donc : nous pourrons le jouer tour à tour.
@@ -2103,7 +2106,7 @@ Mériter par ta mort celle où tu me réduis.
 Daphnis, à ma fureur ma bouche abandonnée
 Parle d'ôter la vie à qui te l'a donnée !
 Je t'aime, et je t'oblige à m'avoir en horreur,
-Et ne connais encore qu'à peine mon erreur !
+Et ne connais encor qu'à peine mon erreur !
 Si je suis sans respect pour ce que tu respectes,
 Que mes affections ne t'en soient pas suspectes.
 De plus réglés transports me feraient trahison ;
@@ -2118,7 +2121,7 @@ Ainsi rien ne me venge, et tout me désespère.
 **** *book_ *id_IV09 *act_IV *date_1634 *creator_corneille
 
 -*who_florame
-Célie...
+Célie…
 
 -*who_celie
       Eh bien, Célie ? Enfin elle a tant fait,
@@ -2145,7 +2148,7 @@ Il veut donner l'alarme à mes esprits timides,
 Et prend plaisir lui-même à se jouer de moi.
 Géraste a trop d'amour pour n'avoir point de foi ;
 Et s'il pouvait donner trois Daphnis pour Florise,
-Il la tiendrait encore heureusement acquise.
+Il la tiendrait encor heureusement acquise.
 D'ailleurs ce grand courroux pourrait-il être feint ?
 Aurait-il pu sitôt falsifier son teint,
 Et si bien ajuster ses yeux et son langage
@@ -2193,7 +2196,7 @@ J'ai charge de sa part de lui rendre un cartel :
 Le puis-je supprimer ?
 
 -*who_theante
-      Non, mais tu pourrais faire...
+      Non, mais tu pourrais faire…
 
 -*who_damon
 Quoi ?
@@ -2211,7 +2214,7 @@ Sinon que c'est à moi de rompre la partie.
 J'en vais semer le bruit.
 
 -*who_damon
-      Et sur ce bruit tu veux...
+      Et sur ce bruit tu veux…
 
 -*who_theante
 Qu'on leur donne dans peu des gardes à tous deux,
@@ -2238,14 +2241,14 @@ Amarante, à ce compte, est hors de ta pensée ?
 
 -*who_theante
 Son image du tout n'en est pas effacée ;
-Mais...
+Mais…
 
 -*who_damon
       Tu crains que pour elle on te fasse un duel.
 
 -*who_theante
 Railler un malheureux, c'est être trop cruel.
-Bien que ses yeux encore règnent sur mon courage,
+Bien que ses yeux encor règnent sur mon courage,
 Le bonheur de Florame à la quitter m'engage :
 Le ciel ne nous fit point et pareils et rivaux,
 Pour avoir des succès tellement inégaux.
@@ -2284,7 +2287,7 @@ Et qu'ainsi que mes maux mes crimes soient extrêmes ;
 Qu'à mille impiétés osant me dispenser,
 À votre foudre oisif je donne où se lancer ?
 Ah ! Souffrez qu'en l'état de mon sort déplorable
-Je demeure innocent, encore que misérable ;
+Je demeure innocent, encor que misérable ;
 Destinez à vos feux d'autres objets que moi :
 Vous n'en sauriez manquer, quand on manque de foi.
 Employez le tonnerre à punir les parjures,
@@ -2310,7 +2313,7 @@ Ce beau prix que l'amour m'avait si bien donné.
 
 -*who_amarante
 Ce dût vous être assez de m'avoir abusée,
-Sans faire encore de moi vos sujets de risée.
+Sans faire encor de moi vos sujets de risée.
 Je sais que le vieillard favorise vos feux,
 Et que rien que Daphnis n'est contraire à vos voeux.
 
@@ -2352,7 +2355,7 @@ Pour en venir à bout, il me les faut surprendre,
 Et quand ils se verront, écouter leurs discours,
 Pour apprendre par là le fond de ces détours.
 Voici mon vieux rêveur ; fuyons de sa présence,
-Qu'il ne m'embrouille encore de quelque confidence :
+Qu'il ne m'embrouille encor de quelque confidence :
 De crainte que j'en ai, d'ici je me bannis,
 Tant qu'avec lui je voie ou Florame ou Daphnis.
 
@@ -2539,7 +2542,7 @@ Mon esprit l'adorait ; et vous étonnez-vous
 S'il devint inventif, puisqu'il était jaloux ?
 
 -*who_geraste
-Et par là tu voulais...
+Et par là tu voulais…
 
 -*who_amarante
       Que votre âme déçue
@@ -2550,7 +2553,7 @@ Fût réduit désormais à seconder mes feux.
 -*who_florame
 Pardonnez-lui, monsieur ; et vous, daignez, madame,
 Justifier son feu par votre propre flamme :
-Si vous m'aimez encore, vous devez estimer
+Si vous m'aimez encor, vous devez estimer
 Qu'on ne peut faire un crime à force de m'aimer.
 
 -*who_daphnis
@@ -2569,7 +2572,7 @@ Mais que su maintenant il rend sa ruse vaine,
 Et donne un prompt succès à vos contentements !
 
 -*who_florame
-Vous, de qui je les tiens...
+Vous, de qui je les tiens…
 
 -*who_geraste
       Trêve de compliments :
@@ -2623,6 +2626,7 @@ Parmi votre entretien trouve à se divertir.
 **** *book_ *id_V09 *act_V *date_1634 *creator_corneille
 
 -*who_amarante
+
 Je le perds donc, l'ingrat, sans que mon artifice
 Ait tiré de ses maux aucun soulagement,
 Sans que pas un effet ait suivi ma malice,
@@ -2639,7 +2643,7 @@ Filles que la nature a si bien partagées,
 Vous devez présumer fort peu de vos attraits :
 Quelques charmants qu'ils soient, vous êtes négligées,
 À moins que la fortune en rehausse les traits.
-Mais encore que Daphnis eût captivé Florame,
+Mais encor que Daphnis eût captivé Florame,
 Le moyen qu'inégal il en fût possesseur ?
 Destins, pour rendre aisé le succès de sa flamme,
 Fallait-il qu'un vieux fou fût épris de sa soeur ?

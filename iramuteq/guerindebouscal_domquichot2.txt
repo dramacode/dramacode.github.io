@@ -15,7 +15,7 @@ Juillet mil six cens quarante.
 
 Les Exemplaires ont esté fournis.
 
-**** *book_ *id_body-301 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_I01 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_domquichot
 Ne m'importune plus.
@@ -111,7 +111,7 @@ Malgré les Enchanteurs qui me livrent la guerre,
 De vos persecuteurs j'iray purger la terre ;
 Le sort en est jetté, rien ne peut m'arrester.
 
-**** *book_ *id_body-302 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_I02 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_laniepce
 Dom Lope & le Barbier vous viennent visiter,
@@ -276,7 +276,7 @@ Que jamais Muletier ne vous froisse⁎ les os :
 Mais qu'enfin triomphant, & suivy d'Hymenée
 Vous puissiez revenir couronner Dulcinée.
 
-**** *book_ *id_body-303 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_I03 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_sanche
 Maudite ambition, que voulez-vous de moy !
@@ -348,7 +348,7 @@ Ils s'en vont comploter leur troisiesme saillie⁎.
 -*who_domquichot
 Nous les suivrons de pres pour guerir leur folie.
 
-**** *book_ *id_body-304 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_I04 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_sanche
 Enfin apres avoir querellé bien des fois,
@@ -578,7 +578,7 @@ Dom Quichot l'a juré sur le bout de sa lance,
 Est-ce assez que cela ? c'est bien ce que je pense :
 Mais voicy ma Therese.
 
-**** *book_ *id_body-305 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_I05 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_therese
       He bien tu vas partir ?
@@ -703,7 +703,7 @@ Il faut pour mon mal-heur que vous soyez Comtesse :
 Nos marys peuvent tant sur nous & sur nos biens,
 Qu'il leur faut obeïr quand ils seroient des chiens.
 
-**** *book_ *id_body-401 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_II01 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_domquichot
 Il faut l'attendre icy de crainte qu'il s'éloigne.
@@ -758,7 +758,7 @@ Il faut.
 -*who_lebarbier
 Il faut se reculer.
 
-**** *book_ *id_body-402 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_II02 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_domquichot
       Heureuse & belle nuit !
@@ -1140,7 +1140,7 @@ Allons où vous voudrez. Qu'il parle ou qu'il se taise :
 Il n'en a que trop dit, mais pour me contenter,
 Avant que l'estrangler je le veux escouter.
 
-**** *book_ *id_body-403 *act_ *date_1640 *creator_guerin_de_bouscal 
+**** *book_ *id_II03 *act_ *date_1640 *creator_guerin_de_bouscal 
 
 -*who_lebarbier
 Où vas-tu mon amy ?
@@ -1368,7 +1368,7 @@ Sans cela j'ay des mains qui defendront ma teste.
 Suffit : mais le jour vient & nos maistres aussi,
 Pour ne les pas troubler retirons nous d'icy.
 
-**** *book_ *id_body-404 *act_ *date_1640 *creator_guerin_de_bouscal 
+**** *book_ *id_II04 *act_ *date_1640 *creator_guerin_de_bouscal 
 
 -*who_domlope
 Je dis encore un coup qu'il a mordu la terre
@@ -1460,7 +1460,7 @@ Que jamais vostre bras ait pû vaincre mon coeur.
 -*who_domquichot
 Je le veux, sçachons donc qui sera le vainqueur.
 
-**** *book_ *id_body-405 *act_ *date_1640 *creator_guerin_de_bouscal 
+**** *book_ *id_II05 *act_ *date_1640 *creator_guerin_de_bouscal 
 
 -*who_leduc
 Que cett'heure est charmante, & que mon oeil adore
@@ -1471,7 +1471,7 @@ Que je prens de plaisir à voir le jour naissant,
 Et ce nuage peint d'un pourpre jaunissant !
 J'admire cet object plus je le considere.
 
-**** *book_ *id_body-406 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_II06 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_sanche
 Dieux ! mon maistre est aux mains, ah ! que
@@ -1537,7 +1537,7 @@ Que je vay me souler !
 -*who_leduc
       Hé que nous allons rire.
 
-**** *book_ *id_body-501 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_III01 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_leduc
 Je ne puis exprimer l'honneur que je reçoy
@@ -1567,7 +1567,7 @@ L'autre le plus vaillant de tous les Escuyers.
 -*who_sanche
 Ce n'est pas là mon vice.
 
-**** *book_ *id_body-502 *act_ *date_1640 *creator_guerin_de_bouscal 
+**** *book_ *id_III02 *act_ *date_1640 *creator_guerin_de_bouscal 
 
 -*who_secondvalet
       Acceptez grand Monarque
@@ -1863,7 +1863,7 @@ Enfin, voilà mon conte, & la piece est fort bonne.
 -*who_leduc
 Vous n'en fistes jamais qui fust plus à propos.
 
-**** *book_ *id_body-503 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_III03 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_sanche
 Madame Gonzalez, de grace quatre mots.
@@ -1934,7 +1934,7 @@ C'est à Dieu seulement que j'en doy rendre conte :
 Allez, fils de putain, faire ailleurs l'entendu,
 Et craignez mon courroux.
 
-**** *book_ *id_body-504 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_III04 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_laduchesse
       Quel bruit ay-je entendu ?
@@ -2191,7 +2191,7 @@ Tousjours cet accident vivroit dans sa memoire,
 Renault de Montauban eust esté son balot⁎,
 Il l'auroit estranglé sans luy dire un seul mot.
 
-**** *book_ *id_body-505 *act_ *date_1640 *creator_guerin_de_bouscal 
+**** *book_ *id_III05 *act_ *date_1640 *creator_guerin_de_bouscal 
 
 -*who_laduchesse
 Sanche, où fuyez-vous donc ?
@@ -2242,7 +2242,7 @@ Vous en serez aussi.
 -*who_lebarbier 
 Je vous estranglerois.
 
-**** *book_ *id_body-506 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_III06 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_domquichot
       Monsieur pardonnez-nous,
@@ -2288,7 +2288,7 @@ Entrons, allons les voir, remettez la salade⁎.
 -*who_lebarbier
 Nous pourrons bien crier place à la mascarade.
 
-**** *book_ *id_body-601 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_IV01 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_laduchesse
 Sanche, mettez-vous là.
@@ -2522,7 +2522,7 @@ Mais voicy Dom Quichot.
       Ce Diable l'accompagne,
 Je croy qu'il sera bon de prendre la campagne.
 
-**** *book_ *id_body-602 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_IV02 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_lebarbier
 Seigneur Sanche, arrestez.
@@ -2593,7 +2593,7 @@ En effect je suis mort s'il approche de moy.
 -*who_leduc
 Que nous veulent ces gens ? & qu'est-ce que je voy ?
 
-**** *book_ *id_body-603 *act_ *date_1640 *creator_guerin_de_bouscal 
+**** *book_ *id_IV03 *act_ *date_1640 *creator_guerin_de_bouscal 
 
 -*who_premierheraut
 Les filles du Sophy que la Perse revere.
@@ -2629,7 +2629,7 @@ Laissez là Dulcinée.
 -*who_domquichot
       Ah ! ce discours m'offence.
 
-**** *book_ *id_body-604 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_IV04 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_leduc
 Ah Dieu que de beauté, que de magnificence !
@@ -2785,7 +2785,7 @@ Mon amour en ce point me defend le reproche,
 Adieu, je vay mourir, & souhaiter pourtant
 Malgré mon déplaisir⁎ que tu vives content.
 
-**** *book_ *id_body-605 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_IV05 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_sanche
 Le coeur me fend de deuil⁎, ah Monseigneur & maistre !
@@ -2860,7 +2860,7 @@ Monsieur, vous plaist-il pas que nous allions les voir ?
 -*who_leduc
 Allons-y, le combat se fera sur le soir.
 
-**** *book_ *id_body-701 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_V01 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_leduc
 Puisque dans ce combat la gloire vous anime,
@@ -2899,7 +2899,7 @@ Je suis mort.
 -*who_leduc
       Qui va là ?
 
-**** *book_ *id_body-702 *act_ *date_1640 *creator_guerin_de_bouscal 
+**** *book_ *id_V02 *act_ *date_1640 *creator_guerin_de_bouscal 
 
 -*who_lediable
       Monsieur je suis le Diable,
@@ -2964,7 +2964,7 @@ Quel horrible spectacle apparoist en ces lieux !
 -*who_laduchesse
 Pour nous en exempter, Sanche, fermons les yeux.
 
-**** *book_ *id_body-703 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_V03 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_unvieillard
 Lirgandée est mon nom, je suis ce formidable
@@ -3002,7 +3002,7 @@ Que crains-tu mal-heureux ?
       Mais que ne crains-je pas ?
 J'en voudrois estre quite à cent coups d'eschalas.
 
-**** *book_ *id_body-704 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_V04 *act_ *date_1640 *creator_guerin_de_bouscal
 Je suis le grand Alquif, l'Enfer est ma demeure,
 La magie & l'horreur sont mes plus doux esbats :
 Je changeay l'autre jour dans un demy quart d'heure
@@ -3044,7 +3044,7 @@ Vous craignez sans raison.
 -*who_sanche
 Dieu ! finissez ma vie avec cette aventure.
 
-**** *book_ *id_body-705 *act_ *date_1640 *creator_guerin_de_bouscal 
+**** *book_ *id_V05 *act_ *date_1640 *creator_guerin_de_bouscal 
 
 -*who_unautrevieillard
 Je suis Archelaus, cet insigne Enchanteur,
@@ -3145,7 +3145,7 @@ L'Infante du Tobose !
 -*who_domquichot
       Ah qu'elle a de douceur !
 
-**** *book_ *id_body-706 *act_ *date_1640 *creator_guerin_de_bouscal 
+**** *book_ *id_V06 *act_ *date_1640 *creator_guerin_de_bouscal 
 
 -*who_leduc
 Mais la voicy venir sur le Char de l'Aurore.
@@ -3364,7 +3364,7 @@ Et mesme que Merlin l'a jugé necessaire,
 Je croy qu'il est fort bon que nous vous laissions faire.
 Adieu donc, & surtout combatez franchement.
 
-**** *book_ *id_body-707 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_V07 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_domquichot
 Il faut en ce combat nous servir de nos armes.
@@ -3471,7 +3471,7 @@ Vous vous en souviendrez.
 Et ne m'affligez point par vostre raillerie :
 J'ay l'un des bras démis.
 
-**** *book_ *id_body-708 *act_ *date_1640 *creator_guerin_de_bouscal
+**** *book_ *id_V08 *act_ *date_1640 *creator_guerin_de_bouscal
 
 -*who_sanche
       Le Duc revient icy.

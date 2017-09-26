@@ -465,13 +465,13 @@ Je préfère ma haine, à cette qualité,
 Dispensez-moi, Seigneur, de cette indignité.  
 
 
-## SCÈNE IV. Le duc de Curlande, La Roi, Alexandre, Le Prince, Octave.
+## SCÈNE IV. Le duc de Curlande, Le Roi, Alexandre, Le Prince, Octave.
 
     LE ROI.
 Étouffez cette haine, ou je prends la querelle ;  
 Duc, saluez le Prince.  
 
-    LE PRINCE, L'EMBRASSANT AVEC PEINE.
+    LE PRINCE, L’EMBRASSANT AVEC PEINE.
         Ô contrainte cruelle.  
 Ils s'embrassent.
 
@@ -1323,7 +1323,7 @@ Le vôtre....
 
 ## SCÈNE III. Cassandre, Alexandre, Le Duc.
 
-    CASSANDRE EN COLÈRE DE CHEZ L'INFANTE.
+    CASSANDRE EN COLÈRE DE CHEZ L’INFANTE.
         Et bien, Madame, il faudra se résoudre  
 À voir sur notre sort tomber ce coup de foudre ;  
 Un fruit de votre avis s'il nous jette si bas,  
@@ -1710,7 +1710,7 @@ Vous vois-je en ce sanglant et déplorable état ?
 Vous voyez ce qu'amour et Cassandre me coûte,  
 Mais faites observer qu'aucun de nous écoute.  
 
-    THÉODORE FAISANT SIGNE À LÉONOR QUI VA VOIR SI PERSONNE N'ÉCOUTE.
+    THÉODORE FAISANT SIGNE À LÉONOR QUI VA VOIR SI PERSONNE N’ÉCOUTE.
 Soignez-y, Léonor.  
 
     LE PRINCE.
@@ -1761,7 +1761,7 @@ Et suivant à ce nom la fureur qui m'emporte,
 Cours, éteins la lumière, et d'un aveugle effort  
 De trois coups de poignard blesse le Duc à mort.  
 
-    THÉODORE EFFRAYÉE S'APPUYANT SUR LÉONOR.
+    THÉODORE EFFRAYÉE S’APPUYANT SUR LÉONOR.
 Le Duc ? Qu'entends-je ? Hélas !  
 
     LE PRINCE.
@@ -2463,7 +2463,7 @@ Le roi tape du pied pour faire venir le Duc. Le duc entre avec des gardes.
 
 Duc, remenez le prince.  
 
-    LE PRINCE, S'EN ALLANT.
+    LE PRINCE, S’EN ALLANT.
         Ô vertu trop sévère !  
 Venceslas, vit encore, et je n'ai plus de père !  
 
@@ -2603,7 +2603,7 @@ Et père, devez-vous, vous rendre le dernier ?
 
 ## SCÈNE VIII. Octave, Le Roi, Le Duc, Théodore, Cassandre, Léonor, Gardes.
 
-    OCTAVE HORS D'HALEINE.
+    OCTAVE HORS D’HALEINE.
 Seigneur, d'un cri commun, toute le populace,  
 Parle en faveur du Prince, et demande sa grâce ;  
 Et surtout, un grand nombre, en la place amassé,  

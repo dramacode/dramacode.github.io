@@ -1502,10 +1502,10 @@ Si c'est là votre but, la pièce est imparfaite.
     ISABELLE.
 C'est assez, il est temps que vous fassiez retraite.  
 
-    DON FERNAND, VOULANT SORTIR PAR OÙ ON L'AVAIT FAIT ENTRER.
+    DON FERNAND, VOULANT SORTIR PAR OÙ ON L’AVAIT FAIT ENTRER.
 Adieu, ne croyez pas m'en avoir inquiété.  
 
-    ISABELLE, L'ARRÊTANT.
+    ISABELLE, L’ARRÊTANT.
 Non, non, mon Cavalier, tournez de ce côté,  
 Sortez par l'autre porte, elle vous est connue.  
 
@@ -1952,7 +1952,7 @@ J'évite le désastre, et fais tout pour le mieux.
 
 ## SCÈNE III. Don Juan, Don Fernand, Isabelle, Béatrix, Guzman.
 
-    DON JUAN, CONTREFAISANT L'ÉTONNÉ.
+    DON JUAN, CONTREFAISANT L’ÉTONNÉ.
 Que vois-je  ? Juste Ciel  ! En croirai-je mes yeux  ?  
 Vous êtes ici  ? Vous  ? Ma surprise est extrême.  
 
@@ -2303,7 +2303,7 @@ Viens dans mon cabinet en résoudre avec moi.
 
 ## SCÈNE PREMIÈRE. Béatrix, Guzman.
 
-    BÉATRIX, PARAISSANT À LA PORTE D'ISABELLE AU MÊME TEMPS QUE GUZMAN SE PRÉSENTE POUR ENTRER.
+    BÉATRIX, PARAISSANT À LA PORTE D’ISABELLE AU MÊME TEMPS QUE GUZMAN SE PRÉSENTE POUR ENTRER.
 Guzman vient seul ici  ! Qu'a-t-il fait de son Maître.  
 
     GUZMAN.
@@ -2601,20 +2601,20 @@ C'est l'unique moyen de vous justifier.
 
 ## SCÈNE IV. Isabelle, Don Fernand, Béatrix, Guzman, Un Exempt, Suite de L'Exempt.
 
-    L'EXEMPT, SAISISSANT L'ÉPÉE DE DON FERNAND.
+    L’EXEMPT, SAISISSANT L’ÉPÉE DE DON FERNAND.
 Monsieur, de par le Roi, je vous fais prisonnier.  
 
     DON FERNAND.
 Moi  ?  
 
-    L'EXEMPT.
+    L’EXEMPT.
     Vous-même.  
 
     DON FERNAND.
         Voyez quelle erreur est la vôtre,  
 Messieurs, vous me prenez sans doute pour un autre.  
 
-    L'EXEMPT.
+    L’EXEMPT.
 Don Fernand d'Avalos nous est assez connu.  
 Vous verrez le Décret contre vous obtenu.  
 Votre Partie enfin a fait voir qu'à Grenade  
@@ -2628,20 +2628,20 @@ Il faut aider la Pièce.
     DON FERNAND.
         Ah  ! Messieurs, je proteste...  
 
-    L'EXEMPT.
+    L’EXEMPT.
 C'est aux Juges demain que vous direz le reste,  
 Ces éclaircissements passent ma fonction.  
 
     ISABELLE.
 Mais ne pourrait-il pas vous donner caution  ?  
 
-    L'EXEMPT.
+    L’EXEMPT.
 Madame, à ces rigueurs la Justice est contrainte.  
 
     GUZMAN.
 Messieurs, pour un soufflet, je couche aussi ma plainte.  
 
-    L'EXEMPT.
+    L’EXEMPT.
 Marchons sans faire éclat.  
 
     GUZMAN.

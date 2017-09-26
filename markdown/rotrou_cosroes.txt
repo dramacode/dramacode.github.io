@@ -158,7 +158,7 @@ Ce coeur, sans sentiment, et ce bras immobile.
 
 ## SCÈNE II. Mardesane, Syroës, Syra.
 
-    MARDESANE AVEC LE BÂTON DE GÉNÉRAL D'ARMÉE.
+    MARDESANE AVEC LE BÂTON DE GÉNÉRAL D’ARMÉE.
 Quel trouble, Syroës, émeut votre courroux !  
 Quoi ? La main sur l'épée ! Et la Reine avec vous !  
 Dieux !  
@@ -167,7 +167,7 @@ Dieux !
         J'y portais la main, mais sans aucune envie,  
 Que...  
 
-    SYRA S'EN ALLANT FURIEUSE.
+    SYRA S’EN ALLANT FURIEUSE.
 Que de, simplement, attenter sur ma vie.  
 
     SYROËS.
@@ -952,7 +952,7 @@ Vous voyez ; s'il profère un mot, qui ne m'offense.
 Votre fils, qui s'en tait, sert mal votre désir ;  
 Et...  
 
-    COSROËS S'EN ALLANT.
+    COSROËS S’EN ALLANT.
         Nous apprendrons tout, avec plus de loisir ;  
 Sardarigue entre avec des Gardes.
 
@@ -1003,7 +1003,7 @@ Au premier mandement, Pharnace, et Palmyras,
 Des coeurs qu'ils ont gagnés, vous vont armer les bras,  
 Et pour vous tout l'État, n'est qu'une seule brigue.  
 
-    SYROËS L'EMBRASSANT.
+    SYROËS L’EMBRASSANT.
 Et pour comble d'espoir, j'ai pour moi Sardarigue ;  
 J'ai, pour, me garantir d'un triste événement,  
 Le bras qu'on prétendait, en faire l'instrument,  
@@ -1582,7 +1582,7 @@ En la garde d'un coeur, surveillant, et sensible,
 Qui de vos ennemis, vous parera les coups,  
 Ou qu'il faudra percer, pour aller jusqu'à vous.  
 
-    SYROËS S'EN ALLANT D'UN AUTRE CÔTÉ.
+    SYROËS S’EN ALLANT D’UN AUTRE CÔTÉ.
 Réglez à votre gré, la fortune publique,  
 Usez, comme il vous plaît, d'un pouvoir tyrannique ;  
 Consommez en ce coeur, sur qui vous l'exercez,  
@@ -1998,7 +1998,7 @@ Parlant à Narsée.
 
 Et moins intéressés, me feront mieux entendre.  
 
-    NARSÉE S'EN ALLANT.
+    NARSÉE S’EN ALLANT.
 Bas.
 
 Dieux ! Quel est cette énigme, et qu'y puis-je comprendre !   [1]
@@ -2122,7 +2122,7 @@ Ne crains point, leurs conseils iront où tu prétends ;
 Hé bien perfide ! lâches suppôts de traîtres,  
 Qu'avez-vous résolu, mes Juges, et mes Maîtres ?  
 
-    SYROËS LUI MONTRANT LE POIGNARD ET LE POISON, QU'UN GARDE LUI BAILLE.
+    SYROËS LUI MONTRANT LE POIGNARD ET LE POISON, QU’UN GARDE LUI BAILLE.
 On m'a de votre part, apporté ces présents.  
 
     SYRA.

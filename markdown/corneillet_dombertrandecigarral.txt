@@ -1815,7 +1815,7 @@ Qu'ils paraissent tous deux l'un de l'autre contents !
     GUZMAN.
 Monsieur.  
 
-    DON ALVAR, ENTROUVRANT LA CHAMBRE D'ISABELLE COMME PRÊT D'EN SORTIR.
+    DON ALVAR, ENTROUVRANT LA CHAMBRE D’ISABELLE COMME PRÊT D’EN SORTIR.
     Puis-je sortir  ?  
 
     GUZMAN.
@@ -1831,7 +1831,7 @@ Rentrez encore un coup, le Diable est en campagne.
 
 ## SCÈNE VI. Don Bertran, Guzman.
 
-    DON BERTRAN, L'ÉPÉE NUE À LA MAIN.
+    DON BERTRAN, L’ÉPÉE NUE À LA MAIN.
 Qui va là  ? Qui va là pour la seconde fois  ?  
 J'ai pourtant à ma porte entendu quelques voix,  
 On y faisait du bruit, il faut que je le sache,  
@@ -1918,7 +1918,7 @@ On ne l'entend jamais.
 Car j'ai démangeaison beaucoup de babiller.  
 Qu'en pourrait-elle dire  ? Elle est presque ma femme.  
 
-    GUZMAN, L'ARRÊTANT TOUJOURS.
+    GUZMAN, L’ARRÊTANT TOUJOURS.
 Qu'avec peu de respect vous auriez peu de flamme,  
 Elle pourrait s'en plaindre avec juste raison ;  
 Mais puisque vous avez cette démangeaison,  
@@ -2072,10 +2072,10 @@ Je me suis disloqué tout le train de derrière.
     DON BERTRAN.
 Hôte, Garçon, Servante, holà, de la lumière.  
 
-    JACINTE, TIRANT DON ALVAR HORS DE LA CHAMBRE D'ISABELLE.
+    JACINTE, TIRANT DON ALVAR HORS DE LA CHAMBRE D’ISABELLE.
 Coulez-vous promptement tandis qu'on ne voit point.  
 
-    DON BERTAN, ARRÊTANT DON ALVAR QUI VEUT S'ÉCHAPPER.
+    DON BERTAN, ARRÊTANT DON ALVAR QUI VEUT S’ÉCHAPPER.
 Qui tiens-je  ? Ah, j'ai saisi mon Galant bien à point.   [17]
 Il allait sans mot dire enfiler la venelle.  
 Le nom.  
@@ -2178,7 +2178,7 @@ Il vient voir Isabelle, il l'aime.
 Ou qu'il venait encor lui conter quelque histoire.  
 À ces contes en l'air son coeur s'épanouit.  
 
-    LÉONOR, S'APPUYANT SUR GUZMAN.
+    LÉONOR, S’APPUYANT SUR GUZMAN.
 Hélas, je n'en puis plus.  
 
     GUZMAN.
@@ -2611,7 +2611,7 @@ Criez, jurez, pester, si vous le trouvez bon.
 Pour moi, si j'en démords je veux bien qu'on m'étrille.  
 Rendez-moi ma quittance, et prenez votre fille.  
 
-    DON GARCIE, TIRANT L'ÉPÉE.
+    DON GARCIE, TIRANT L’ÉPÉE.
 Ma foi, vous parlerez ainsi que je l'entends.  
 
     DON BERTRAN.
@@ -2813,7 +2813,7 @@ Si mon bien se confisque  ?
     DON BERTRAN.
 Toi-même en cas pareil te voudrais-tu bien battre ?  
 
-    GUZMAN, METTANT L'ÉPÉE À LA MAIN.
+    GUZMAN, METTANT L’ÉPÉE À LA MAIN.
 Ah ventre ! Ah tête ! Ah sang !  
 
     DON BERTRAN. [24]
@@ -3686,11 +3686,11 @@ Il s'éloigne comme pour s'en aller.
     LÉONOR.
 Vous vous faites berner.  
 
-    DON BERTRAN, TIRANT L'ÉPÉE.
+    DON BERTRAN, TIRANT L’ÉPÉE.
         Je m'en aperçois bien,  
 Mais je l'estropierai.  
 
-    GUZMAN, L'ARRÊTANT.
+    GUZMAN, L’ARRÊTANT.
         Monsieur, n'en faites rien.  
 
     DON BERTRAN.
@@ -4025,7 +4025,7 @@ Oui, mais je n'en veux plus puisqu'elle n'est pas sage,
 Elle aime mon cousin, mon Cousin l'aime aussi ;  
 Qu'il l'épouse s'il veut, j'en prends peu de souci.  
 
-    DON ALVAR, À DON BERTRAN QU'IL TIRE À QUARTIER. [35]
+    DON ALVAR, À DON BERTRAN QU’IL TIRE À QUARTIER. [35]
 Je pourrais la connaître et la trouver charmante !  
 Je pourrais soupirer pour une extravagante,  
 Qui s'ose imaginer qu'au péril de mes jours  
@@ -4163,7 +4163,7 @@ Allons voir ce que c'est.
     DON ALVAR, À ISABELLE.
         Puis-je espérer, Madame.  
 
-    DON BERTAN REVENANT APRÈS AVOIR FAIT QUATRE OU CINQ PAS POUR S'EN ALLER, ET SÉPARANT DON ALVAR D'ISABELLE.
+    DON BERTAN REVENANT APRÈS AVOIR FAIT QUATRE OU CINQ PAS POUR S’EN ALLER, ET SÉPARANT DON ALVAR D’ISABELLE.
 Peut-être que ma Soeur est prête à rendre l'âme,  
 Et vous voulez ici faire le gracieux  ?  
 

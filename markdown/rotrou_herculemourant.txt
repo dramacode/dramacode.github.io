@@ -397,7 +397,7 @@ Que tous ceux dont tes bras ont accourci le sort.
 
 ## SCÈNE III. Hercule, Iole.
 
-    HERCULE, APPUYÉ SUR LES GENOUX D'IOLE, QUI TRAVAILLE EN TAPISSERIE.
+    HERCULE, APPUYÉ SUR LES GENOUX D’IOLE, QUI TRAVAILLE EN TAPISSERIE.
 Qu'avec moins de travail les mains de la nature  
 Ont bien mis sur ton teint de plus douces peintures !  
 Attends qu'au naturel je figure ces lys  
@@ -547,7 +547,7 @@ Vois si tu dois tenir ma défaite douteuse
 Et si la continence ici n'est pas honteuse,  
 Si je dois tant souffrir près d'un si beau secours.  
 
-    DÉJANIRE, S'EN ALLANT.
+    DÉJANIRE, S’EN ALLANT.
 Madame est plus charmante encor que vos discours.  
 
     HERCULE.
@@ -920,7 +920,7 @@ Elle s'en veut aller.
     IOLE, PLEURANT ET LA RETENANT.
 Madame !  
 
-    DÉJANIRE, S'EN ALLANT.
+    DÉJANIRE, S’EN ALLANT.
         Arrête, infâme, et ne suis point mes pas !  
 
     IOLE, SEULE AVEC ARSIDÈS.
@@ -1670,7 +1670,7 @@ Crédule Déjanire, et Nesse détestable !
 Quel tourment viens-tu joindre à mes autres douleurs ?  
 Et quel nouveau malheur me demande des pleurs ?  
 
-    AGIS.'.
+    AGIS.’.
 Déjanire à nos yeux, malgré notre défense,  
 D'un ruisseau de son sang a lavé son offense.  
 
@@ -1896,7 +1896,7 @@ Que son geste est confus, et comme elle est changée !
 
 ## SCÈNE II. Alcmène, Philoctère, Agis, Lucinde.
 
-    ALCMÈNE, TIRANT UN VASE D'OR DU TOMBEAU.
+    ALCMÈNE, TIRANT UN VASE D’OR DU TOMBEAU.
 Vous qui prenez des droits sur les autres mortels,  
 À qui nos lâchetés élèvent des autels,  
 Petits dieux, méditez sur ce malheur extrême,  

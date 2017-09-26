@@ -354,7 +354,7 @@ Que ne puis-je après ces mots entendre qui me plaise ;
 Tous mes sens sont ravis d'étonnement, et d'aise ;  
 Mais las ! Dois-je espérer ?  
 
-    AMÉLIE FEIGNANT DE S'ÉVEILLER.
+    AMÉLIE FEIGNANT DE S’ÉVEILLER.
         Ô Dieux ! Qui parle ici ?  
 Quoi ? C'est vous Dionys ? On me respecte ainsi.  
 
@@ -410,7 +410,7 @@ Je souffrirai (mon coeur) ces innocents plaisirs,
 Que je ne peux défendre à tes chastes désirs ;  
 Mais qu'étaient ces propos, que d'aimables mensonges ?  
 
-    AMÉLIE S'EN ALLANT.
+    AMÉLIE S’EN ALLANT.
 Je rêvais Dionys, et tous songes sont songes.  
 
 
@@ -444,7 +444,7 @@ Il ne part rien de moi, qui ne vous importune,
 Vous fuyez tous les lieux où je dresse mes pas,  
 Et si je charmais tout je ne vous plairais pas.  
 
-    AMÉLIE S'EN ALLANT.
+    AMÉLIE S’EN ALLANT.
 On m'attend au logis.  
 
 
@@ -495,7 +495,7 @@ Est-ce tout ?
         Je dis peu, la voix même des anges  
 Ne pourrait dignement célébrer vos louanges.  
 
-    DIONYS S'EN ALLANT.
+    DIONYS S’EN ALLANT.
 Je ne m'informe point de vos intentions,  
 Et le temps résoudra toutes ces questions.  
 Il s'en va.
@@ -1003,7 +1003,7 @@ Est-il rien de pareil à ton contentement.
 
 ## SCÈNE IX. Lisidan, Dionys.
 
-    LISIDAN PRENANT CONGÉ D'ÉRANTE.
+    LISIDAN PRENANT CONGÉ D’ÉRANTE.
 Adieu, demain sans faute.  
 Il parle à Dionys.
 
@@ -1850,7 +1850,7 @@ Je pardonne ton crime, et je punis la crainte
 Dont si honteusement je vois ton âme atteinte,  
 Tu ne te défends pas ?  
 
-    DIONYS METTANT L'ÉPÉE À LA MAIN.
+    DIONYS METTANT L’ÉPÉE À LA MAIN.
         En cette extrémité  
 Il faut donc obéir à la nécessité ?  
 
@@ -1948,7 +1948,7 @@ Seule je dois souffrir pour le repos de trois.
 
 ## SCÈNE PREMIÈRE.
 
-    CLORIS, EN HABIT D'HOMME, ASSISE DANS UN BOIS, TOUCHE UNE GUITARE ET CHANTE.
+    CLORIS, EN HABIT D’HOMME, ASSISE DANS UN BOIS, TOUCHE UNE GUITARE ET CHANTE.
 Vous dois-je révéler mon amoureux souci ?  
 M'est-il permis de soupirer ici ?  
 Arbres, rochers, aimable solitude,  
@@ -2236,7 +2236,7 @@ Je perds la voix, et l'âme, en ce ravissement.
 Elle s'évanouit aussi.
 
 
-    AMÉLIE AU MILIEU D'EUX.
+    AMÉLIE AU MILIEU D’EUX.
 Dieux ! Qu'est-ce que je vois ! Cet amant infidèle,  
 Sans doute est le sujet des pleurs de cette belle ;  
 Rendez l'éclat madame à ces charmants appas,  
@@ -2393,7 +2393,7 @@ Ce dessein vous plaît-il.
         Ô dieux ! Qu'il est charmant !  
 Et que nous en rirons.  
 
-    AMÉLIE S'EN ALLANT.
+    AMÉLIE S’EN ALLANT.
         Feignez bien seulement.  
 
 
@@ -2440,7 +2440,7 @@ Commençons il nous voit.
 Ils ne m'avisent pas en un endroit si sombre,  
 Et je puis tout ouïr, en faveur de cette ombre.  
 
-    CLORIS DIT À AMÉLIE, ÉTANT ASSISE AUPRÈS D'ELLE.
+    CLORIS DIT À AMÉLIE, ÉTANT ASSISE AUPRÈS D’ELLE.
 Puisque l'occasion m'offre ici les cheveux,  
 Je ne me tairai plus cher espoir de mes voeux :  
 Votre possession est l'objet de mes larmes,  
@@ -2598,7 +2598,7 @@ Allons l'en avertir.
         Ne dis mot, je l'avise ;  
 Depuis quand Dionys se plait-il dans les bois ?  
 
-    DIONYS, LE TIRE À PART, ET LUI DIT À L'OREILLE.
+    DIONYS, LE TIRE À PART, ET LUI DIT À L’OREILLE.
 Ha sers moi, cher ami, pour la dernière fois ;  
 On a trahi mes voeux.  
 
@@ -2981,7 +2981,7 @@ Va, je suis satisfait.
 Et vous divin objet de mon affection  
 Quand prononcerez-vous.  
 
-    DIONYS LE TIRANT D'AUPRÈS AMÉLIE.
+    DIONYS LE TIRANT D’AUPRÈS AMÉLIE.
         Sors d'ici, lâche, infâme,  
 Es-tu si vain encor, que d'aborder Madame ?  
 Indigne seulement d'entendre ses refus,  

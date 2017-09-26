@@ -2,7 +2,7 @@
 identifier: boursault_portraitdupeintre  
 creator: Boursault, Edme  
 date: 1663  
-title: Le Portrait du peintre. , ou la contre-critique de l'école des femmes, comédie.  
+title: Le Portrait du peintre. , ou la contre-critique de l’école des femmes, comédie.  
 ---
 
 

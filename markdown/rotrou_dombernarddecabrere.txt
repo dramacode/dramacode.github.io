@@ -10,7 +10,7 @@ DON BERNARD DE CABRERE
 
 TRAGI-COMÉDIE
 
-M. DC. XLVII
+M. DC. XLVII.
 
 de ROTROU
 
@@ -308,7 +308,7 @@ Et de l'art de régner la plus haute science.
     LE COMTE.
 Chacun peut approcher : le Roi donne audience.  
 
-    DON LOPE S'AVANÇANT.
+    DON LOPE S’AVANÇANT.
 Si prompt à le servir, je tremble à l'aborder.  
 
     LAZARILLE.
@@ -341,7 +341,7 @@ Allez qu'un autre approche.
 
 ## SCÈNE IV. Le Secrétaire, Le Roi, Le Comte, Don Lope, Lazarille, Soldats.
 
-    DON LOPE S'AVANÇANT.
+    DON LOPE S’AVANÇANT.
         Ô Sort, sois moi propice !  
 Ne voilà pas encor, un trait de son caprice !  
 Vois combien de hasards m'ôtent l'occasion.  
@@ -362,7 +362,7 @@ Une âme assujettie au joug de sa sujette ?
     LAZARILLE.
 Quelqu'un profitera du temps que vous perdez.  
 
-    DON LOPE S'AVANÇANT.
+    DON LOPE S’AVANÇANT.
 Prince, rare ornement...  
 
     LE COMTE LE FAISANT RETIRER.
@@ -393,7 +393,7 @@ Allez.
     LE COMTE.
         Il ne lit plus, vous pouvez approcher.  
 
-    DON LOPE S'APPROCHANT.
+    DON LOPE S’APPROCHANT.
 Enfin tu seras lasse, ô cruelle fortune !  
 De me persécuter et de m'être importune ;  
 Prince amour des climats, où vous donnez la loi,  
@@ -980,7 +980,7 @@ Dans les murs ennemis, ils se firent passage,
 Et Don Lope, s'acquit un renom glorieux,  
 Qui fait revivre en lui l'éclat de ses aïeux ?  
 
-    LE ROI S'ÉVEILLANT.
+    LE ROI S’ÉVEILLANT.
 Que dira Don Bernard, d'un si profond silence ?  
 De ce fâcheux sommeil, forçons la violence :  
 Et prêtons mieux l'oreille au récit des combats,  
@@ -1195,7 +1195,7 @@ Cherchons, cherchons parti, mon maître est achevé.
 
 ## SCÈNE PREMIÈRE. L'Infante, Léonor.
 
-    L'INFANTE.
+    L’INFANTE.
 Comtesse, votre esprit trop aisément s'altère,  
 La plus belle vertu n'est pas la plus austère ;  
 Les regards, l'entretien de modestes ébats,  
@@ -1211,7 +1211,7 @@ Qui font considérer les plus parfaits Monarques ;
 Mais d'autant plus l'honneur, qu'il me fait de ses voeux,  
 En jette dans les coeurs, des sentiments douteux.  
 
-    L'INFANTE.
+    L’INFANTE.
 Fonder sur des soupçons cette rigueur extrême,  
 Est bien mal ménager l'espoir d'un diadème ;  
 Il en peut faire un jour tribut à vos appas,  
@@ -1235,7 +1235,7 @@ Par leurs ambassadeurs, votre illustre alliance ;
 Et quelque si haut trône, où vous vouliez monter  
 Il sera glorieux de l'heur de vous porter.  
 
-    L'INFANTE.
+    L’INFANTE.
 Indifférente encor je n'épouse personne,  
 Je laisse au Roi mon frère, à choisir ma Couronne,  
 Et quoi que de mon sort aient ordonné les cieux,  
@@ -1267,7 +1267,7 @@ Le Roi me permettant l'heur de cette alliance,
 Et perdant un espoir qui ne lui produit rien,  
 Avecques mon repos, rétablira le sien.  
 
-    L'INFANTE.
+    L’INFANTE.
 Quoique au choix d'un amant, mon âme irrésolue,  
 Sur cette passion, soit encor absolue,  
 Et que ce Don Bernard, de qui les qualités,  
@@ -1392,7 +1392,7 @@ Que je me rends moi-même, en vous rendant service,
 Que Don Bernard lui-même, hésiterait en vain,  
 Et dedans mon écrit reconnaîtrait sa main.  
 
-    LEONOR S'EN ALLANT.
+    LEONOR S’EN ALLANT.
 Je t'attends, mais surtout, sois discret, et fidèle.  
 
     LE SECRETAIRE.
@@ -1491,7 +1491,7 @@ Mais en puis-je être en doute, et si longtemps attendre ?
     LE SECRETAIRE ÉCRIVANT.
 Je prétends...  
 
-    LE ROI LUI ARRACHANT L'ÉCRIT.
+    LE ROI LUI ARRACHANT L’ÉCRIT.
         Voyons traître, à quoi tu peux prétendre.  
 
     LE SECRETAIRE SURPRIS.
@@ -1775,7 +1775,7 @@ Pour une occasion de l'en mériter mieux.
 
 ## SCÈNE PREMIÈRE. Le Roi, Le Comte, Léonor, Suite de gardes.
 
-    LEONOR VENANT D'UN CÔTÉ, LE ROI DE L'AUTRE.
+    LEONOR VENANT D’UN CÔTÉ, LE ROI DE L’AUTRE.
 Sire, si cette amour dont vous m'avez flattée,  
 Qu'à ma confusion, j'ai si peu méritée ;  
 Quoique sans intérêt, a quelque vérité,  
@@ -1913,7 +1913,7 @@ C'est moi qui vous la rends pour vous l'avoir ravie,
 Et sa perte sans moi, vous eut coûté la vie ;  
 Soyez-en moins prodigue, et ménagez la mieux.  
 
-    L'INFANTE.
+    L’INFANTE.
 Seigneur, ce Don Bernard ce vainqueur glorieux,  
 Qui de tant de Héros efface les Histoires,  
 Et qui peut moins compter de jours que de victoires,  
@@ -1935,7 +1935,7 @@ Contre tout ce qu'elle a de charmes et de pouvoir.
 
 ## SCÈNE IV. Don Bernard avec le bâton de Général, Don Lope, Lazarille, Soldats, Le Roi, l'Infante, Léonor.
 
-    DON LOPE ENTRANT DIT À L'OREILLE À DON BERNARD.
+    DON LOPE ENTRANT DIT À L’OREILLE À DON BERNARD.
 Quelque part que mon bras ait en votre victoire,  
 Des menaces du Roi conservez la mémoire ;  
 Et taisez-lui mon nom au récit du combat.  
@@ -1943,7 +1943,7 @@ Et taisez-lui mon nom au récit du combat.
     DON BERNARD.
 Je parlerai de vous, sous le nom de soldat.  
 
-    LE ROI L'EMBRASSANT.
+    LE ROI L’EMBRASSANT.
 Quoi c'est vous Duc d'Alcale, honneur de ma Province,  
 Glorieux compagnon des soins de votre Prince !  
 Votre retour surprend, et pour vous les instants  
@@ -2066,10 +2066,10 @@ Mais je le nomme assez en ne le nommant pas :
 Et n'en puis mieux parler que par la violence,  
 Qui me ferme la bouche, et m'oblige au silence.  
 
-    LE ROI À L'INFANTE.
+    LE ROI À L’INFANTE.
 C'est assez le nommer, que de taire son nom.  
 
-    L'INFANTE.
+    L’INFANTE.
 Certes sa modestie est sans comparaison.  
 
     LEONOR BAS.
@@ -2082,7 +2082,7 @@ M'apprend de ce soldat, le nom et la vertu ;
 Et mon faible pouvoir sait trop à quoi l'invite,  
 L'inestimable excès d'un si rare mérite.  
 
-    L'INFANTE BAS.
+    L’INFANTE BAS.
 Mon coeur est le seul prix digne de sa valeur.  
 
     DON LOPE À LAZARILLE.
@@ -2126,7 +2126,7 @@ Douter à l'Aragon qui régnera des deux ;
 Puisque ma passion après tant d'aventures,  
 Comme votre vertu doit être sans mesures.  
 
-    L'INFANTE BAS.
+    L’INFANTE BAS.
 Sans moi je le crois pauvre avecques tant de bien,  
 Et ne me donner pas, c'est ne lui donner rien.  
 
@@ -2301,7 +2301,7 @@ De ce beau basilic, qui charme, mais qui tue.
 
 ## SCÈNE II. l'Infante, Don Bernard.
 
-    L'INFANTE.
+    L’INFANTE.
 Quoi me fuir, Amiral ! quoi vouloir m'éviter !  
 Ai-je des qualités à tant épouvanter ?  
 
@@ -2309,7 +2309,7 @@ Ai-je des qualités à tant épouvanter ?
 Vous rêviez, et j'ai cru que quelque inquiétude,  
 Vous obligeait, Madame, à cette solitude.  
 
-    L'INFANTE.
+    L’INFANTE.
 Il est vrai, mais vous seul me pouvez relever,  
 Du soin qui m'inquiète et qui me fait rêver  
 Aujourd'hui Don Bernard que la Cour vous contemple,  
@@ -2335,7 +2335,7 @@ Mon plus ardent désir et ma plus chère étude,
 Sont de servir ce sexe adorable et charmant,  
 Dont toujours la conquête honore en désarmant.  
 
-    L'INFANTE.
+    L’INFANTE.
 Ces termes généraux me laissant incertaine,  
 Me laissent sans moyen de les tirer de peine ;  
 Et ne nous obligeant que d'un devoir commun,  
@@ -2348,7 +2348,7 @@ Et quelque vive ardeur dont on soit enflammé,
 L'importance n'est pas d'aimer mais d'être aimé ;  
 Et fonder son espoir dessus quelque apparence.  
 
-    L'INFANTE.
+    L’INFANTE.
 Craignez-vous de déplaire ? Aimez sans espérance.  
 
     DON BERNARD.
@@ -2375,7 +2375,7 @@ Je l'ai nommée, adieu.
 
 ## SCÈNE III.
 
-    L'INFANTE SEULE.
+    L’INFANTE SEULE.
         De ce propos confus,  
 Qu'ai-je lieu d'inférer ou dessein, ou refus,  
 Je cherche des clartés et n'en rencontre aucune,  
@@ -2415,7 +2415,7 @@ Quoique par ma naissance à la vôtre inégale,
 Mon espoir s'élevant aussitôt se ravale,  
 Et que je semble prendre un vol trop arrogant...  
 
-    L'INFANTE ÉTONNÉE.
+    L’INFANTE ÉTONNÉE.
 Ô Dieu ! Que veut ce fol ! Et cet extravagant ?  
 
     DON LOPE.
@@ -2423,7 +2423,7 @@ Vos propres mains, Madame, ont avoué l'audace,
 De ce feu qui chez vous rencontre tant de glace ;  
 Et m'ont fait espérer quand vos yeux m'ont blessé.  
 
-    L'INFANTE.
+    L’INFANTE.
 Qu'entends-je ! Holà, quelqu'un, chassez cet insensé.  
 
     DON LOPE.
@@ -2433,21 +2433,21 @@ Je brûle par votre ordre, et par lui je vous sers,
 Il m'allume mes feux, il m'attache mes fers ;  
 Et ma soumission plus que mon arrogance...  
 
-    L'INFANTE.
+    L’INFANTE.
 Dieu ! Quelle frénésie, et quelle extravagance !  
 
     DON LOPE.
 Il ne me manquait plus que cette qualité.  
 Mais de quel vain espoir m'avez-vous donc flatté ?  
 
-    L'INFANTE.
+    L’INFANTE.
 La fureur le saisit, je crains quelque disgrâce,  
 Aucun ne vient, fuyons et cédons-lui la place.  
 
     DON LOPE.
 Quoi fol et furieux ! Ô ciel ! Mais le Roi vient.  
 
-    L'INFANTE.
+    L’INFANTE.
 Sire, oyez quels discours cet insensé me tient.  
 
 
@@ -2488,7 +2488,7 @@ Quand je crois trop l'ardeur qui pour vous me consomme,
 Et quand dans les dangers où l'on me voit courir,  
 Je crois être immortel et ne pouvoir périr.  
 
-    L'INFANTE.
+    L’INFANTE.
 Jugez quel embarras me causait sa rencontre ?  
 
     DON LOPE.
@@ -2497,10 +2497,10 @@ Juste Ciel !
     LE ROI.
     Est-il fol ?  
 
-    L'INFANTE.
+    L’INFANTE.
         Son geste vous le montre ?  
 
-    DON LOPE S'APPROCHANT DU ROI.
+    DON LOPE S’APPROCHANT DU ROI.
 Mon mauvais sort, Grand Roi...  
 
     LE ROI SE RETIRANT/.
@@ -2549,7 +2549,7 @@ Ses mépris me plairaient, ses voeux étant pour lui,
 Et mon respect irait jusqu'à la déférence ;  
 De pouvoir, en amour, souffrir sa préférence.  
 
-    L'INFANTE.
+    L’INFANTE.
 Ha ! vous pouvez, Seigneur, élever un vassal,  
 Au rang d'un favori, mais non pas d'un rival ;  
 Si ce respect en vous trouvait tant de faiblesse,  
@@ -2565,7 +2565,7 @@ Je voudrais couronner son front, comme ses yeux.
 Sondons de qui son coeur reconnaît la puissance,  
 Pour m'en faire une loi d'espoir ou de déférence.  
 
-    L'INFANTE LE SUIVANT.
+    L’INFANTE LE SUIVANT.
 Enfant père des arts, Ingénieux tourment,  
 Fais régner ma rivale et m'acquiers mon amant.  
 
@@ -2607,7 +2607,7 @@ Font de mes passions un divertissement.
 
 ## SCÈNE VIII. Lazarille, Don Lope, Don Bernard.
 
-    LAZARILLE APPORTANT UNE ÉCHARPE DE TOILE D'OR, ET UNE LETTRE À DON LOPE.
+    LAZARILLE APPORTANT UNE ÉCHARPE DE TOILE D’OR, ET UNE LETTRE À DON LOPE.
 Tenez votre fortune est en haute posture,  
 Ô le divin objet ! L'aimable créature !  
 Ses charmes m'ont surpris, et jamais le Soleil,  
@@ -2663,7 +2663,7 @@ Sinon qu'elle a son nom, mais non pas son mérite.
 C'est une vieille fille et presque décrépite,  
 Qui la sert à la chambre, et dans quelque crédit.  
 
-    DON LOPE JETANT LA LETTRE ET L'ÉCHARPE.
+    DON LOPE JETANT LA LETTRE ET L’ÉCHARPE.
 Quel mortel à ce point fut jamais interdit ?  
 
     DON BERNARD.
@@ -2803,11 +2803,11 @@ Oui mon frère en son nom, je reçois votre hommage.
 
 ## SCÈNE DERNIÈRE. l'Infante, Le Comte, Léonor, Le Secrétaire d'un côté, Le Roi, Don Bernard d'autre côté.
 
-    LE ROI À L'INFANTE.
+    LE ROI À L’INFANTE.
 Un amant se déclare à qui je vous engage,  
 Ses voeux ( ma chère soeur ) seront-ils rejetés ?  
 
-    L'INFANTE.
+    L’INFANTE.
 Non, si de Don Bernard il a les qualités.  
 
     LE ROI LES FAISANT EMBRASSER.

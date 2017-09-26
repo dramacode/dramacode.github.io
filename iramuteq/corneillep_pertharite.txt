@@ -4,7 +4,7 @@
 
 -*who_rodelinde
 Oui, l'honneur qu'il me rend ne fait que m'outrager ;
-Je vous le dis encore, rien ne peut me changer :
+Je vous le dis encor, rien ne peut me changer :
 Ses conquêtes pour moi sont des objets de haine ;
 L'hommage qu'il m'en fait renouvelle ma peine,
 Et comme son amour redouble mon tourment,
@@ -34,7 +34,7 @@ C'est ne connaître pas la source de vos maux,
 Que de les imputer à ses nobles travaux.
 Laissez à sa vertu le prix qu'elle mérite,
 Et n'en accusez plus que votre Pertharite :
-Son ambition seule...
+Son ambition seule…
 
 -*who_rodelinde
       Unulphe, oubliez-vous
@@ -49,7 +49,7 @@ Qu'on vit alors deux rois en votre Lombardie,
 Pertharite à Milan, Gundebert à Pavie,
 Dont ce dernier, piqué par un tel attentat,
 Voulut entre ses mains réunir son état,
-Et ne put voir longtemps en celles de son frère...
+Et ne put voir longtemps en celles de son frère…
 
 -*who_rodelinde
 Dites qu'il fut rebelle aux ordres de son père.
@@ -96,7 +96,7 @@ Jugez à qui je puis imputer nos misères.
 
 -*who_unulphe
 Excusez un amour que vos yeux ont éteint :
-Son coeur pour Édwige en était lors atteint ;
+Son coeur pour Édüige en était lors atteint ;
 Et pour gagner la soeur à ses désirs trop chère,
 Il fallut épouser les passions du frère.
 Il arma ses sujets, plus pour la conquérir
@@ -126,7 +126,7 @@ A toujours opposé la parole donnée ;
 Si bien que ne voyant autre espoir de guérir,
 Il a fallu sans cesse et vaincre et conquérir.
 Enfin, après deux ans, Milan par sa conquête
-Lui donnait Édwige en couronnant sa tête,
+Lui donnait Édüige en couronnant sa tête,
 Si ce même Milan dont elle était le prix
 N'eût fait perdre à ses yeux ce qu'ils avaient conquis.
 Avec un autre sort il prit un coeur tout autre :
@@ -135,14 +135,14 @@ Et la princesse alors par un bizarre effet,
 Pour l'avoir voulu roi, le perdit tout à fait.
 Nous le vîmes quitter ses premières pensées,
 N'avoir plus pour l'hymen ces ardeurs empressées,
-éviter Édwige, à peine lui parler,
+éviter Édüige, à peine lui parler,
 Et sous divers prétexte à son tour reculer.
 Ce n'est pas que longtemps il n'ait tâché d'éteindre
 Un feu dont vos vertus avaient lieu de se plaindre ;
 Et tant que dans sa fuite a vécu votre époux,
 N'étant plus à sa soeur, il n'osait être à vous ;
 Mais sitôt que sa mort eut rendu légitime
-Cette ardeur qui n'était jusque-là qu'un doux crime...
+Cette ardeur qui n'était jusque-là qu'un doux crime…
 
 **** *book_ *id_I02 *act_I *date_1651 *creator_corneille
 
@@ -293,7 +293,7 @@ C'est trop que d'attenter jusqu'à ma gloire même,
 Qu'ajouter l'infamie à de si rudes coups.
 Connaissez-moi, madame, et désabusez-vous.
 Je ne vous cèle point qu'ayant l'âme royale,
-L'amour du sceptre encore me fait votre rivale,
+L'amour du sceptre encor me fait votre rivale,
 Et que je ne puis voir d'un coeur lâche et soumis
 La soeur de mon époux déshériter mon fils ;
 Mais que dans mes malheurs jamais je me dispose
@@ -319,7 +319,7 @@ Jamais d'un seul coup d'oeil je t'ai fait espérer ;
 Ou si tu veux laisser pour éternelle gêne
 À cette ambitieuse une frayeur si vaine,
 Dis-moi de mon époux le déplorable sort :
-Il vit, il vit encore, si j'en crois son rapport ;
+Il vit, il vit encor, si j'en crois son rapport ;
 De ses derniers honneurs les magnifiques pompes
 Ne sont qu'illusions avec quoi tu me trompes ;
 Et ce riche tombeau que lui fait son vainqueur
@@ -328,9 +328,9 @@ N'est qu'un appas superbe à surprendre mon coeur.
 -*who_grimoald
 Madame, vous savez ce qu'on m'est venu dire,
 Qu'allant de ville en ville et d'empire en empire
-Contre Édwige et moi mendier du secours,
+Contre Édüige et moi mendier du secours,
 Auprès du roi des Huns il a fini ses jours ;
-Et si depuis sa mort j'ai tâché de vous rendre...
+Et si depuis sa mort j'ai tâché de vous rendre…
 
 -*who_rodelinde
 Qu'elle soit vraie ou non, tu n'en dois rien attendre.
@@ -577,7 +577,7 @@ Où mon amour trahi, que j'éteins à regret,
 Lui fait contre ma haine un partisan secret !
 Quelques justes arrêts que ma bouche prononce,
 Ce sont de vains efforts où tout mon coeur renonce.
-Ce lâche malgré moi l'ose encore protéger,
+Ce lâche malgré moi l'ose encor protéger,
 Et veut mourir du coup qui m'en pourrait venger.
 Vengez-moi toutefois, mais d'une autre manière :
 Pour conserver mes jours, laissez-lui la lumière.
@@ -593,7 +593,7 @@ Implorer le pardon qu'il ne mérite pas,
 Et remettre en mes mains sa vie et son trépas.
 
 -*who_garibalde
-Ajoutez-y, madame, encore qu'à vos yeux même
+Ajoutez-y, madame, encor qu'à vos yeux même
 Cette odieuse main perce un coeur qui vous aime,
 Et que l'amant fidèle, au volage immolé,
 Expie au lieu de lui ce qu'il a violé.
@@ -643,7 +643,7 @@ Je verrai par l'effort de votre obéissance
 Où doit aller celui de ma reconnaissance.
 Cependant, s'il est vrai que j'ai pu vous charmer,
 Aimez-moi plus que vous, ou cessez de m'aimer :
-C'est par là seulement qu'on mérite Édwige.
+C'est par là seulement qu'on mérite Édüige.
 Je veux bien qu'on espère, et non pas qu'on exige.
 Je ne veux rien devoir ; mais lorsqu'on me sert bien,
 On peut attendre tout de qui ne promet rien.
@@ -668,7 +668,7 @@ Je t'aime, et puissamment, mais moins que la couronne ;
 Et mon ambition, qui tâche à te gagner,
 Ne cherche en ton hymen que le droit de régner.
 De tes ressentiments s'il faut que je l'obtienne,
-Je saurai joindre encore cent haines à la tienne,
+Je saurai joindre encor cent haines à la tienne,
 L'ériger en tyran par mes propres conseils,
 De sa perte par lui dresser les appareils,
 Mêler si bien l'adresse avec un peu d'audace,
@@ -697,7 +697,7 @@ Le dépôt de sa haine en des mains si fidèles :
 Cependant son espoir à mon trône attaché
 Par aucun de nos soins n'en peut être arraché !
 Mais as-tu bien promis ma tête à sa vengeance ?
-Ne l'as-tu point offerte avec négligence,
+Ne l'as-tu point offerte avecque négligence,
 Avec quelque froideur qui l'ait fait soupçonner
 Que tu la promettais sans la vouloir donner ?
 
@@ -772,7 +772,7 @@ N'as-tu vu pour ton roi nul espoir de guérir ?
 -*who_unulphe
 Rodelinde, seigneur, enfin plus raisonnable,
 Semble avoir dépouillé cet orgueil indomptable :
-Elle a reçu votre offre avec tant de douceur...
+Elle a reçu votre offre avec tant de douceur…
 
 -*who_grimoald
 Mais l'a-t-elle acceptée ? As-tu touché son coeur ?
@@ -783,7 +783,7 @@ Qu'a-t-elle dit enfin ?
 -*who_unulphe
       Beaucoup, sans dire rien :
 Elle a paisiblement souffert mon entretien ;
-Son âme à mes discours surprise, mais tranquille...
+Son âme à mes discours surprise, mais tranquille…
 
 -*who_grimoald
 Ah ! C'est m'assassiner d'un discours inutile :
@@ -805,7 +805,7 @@ Ses refus se seraient expliqués avec moi,
 Sans chercher la présence et le courroux d'un roi.
 
 -*who_grimoald
-Mais touchant cet époux qu'Édwige ranime ?...
+Mais touchant cet époux qu'Édüige ranime ?…
 
 -*who_unulphe
 De ce discours en l'air elle fait peu d'estime :
@@ -813,7 +813,7 @@ L'artifice est si lourd, qu'il ne peut l'émouvoir,
 Et d'une main suspecte il n'a point de pouvoir.
 
 -*who_garibalde
-Édwige elle-même est mal persuadée
+Édüige elle-même est mal persuadée
 D'un retour dont elle aime à vous donner l'idée ;
 Et ce n'est qu'un faux jour qu'elle a voulu jeter
 Pour lui troubler la vue et vous inquiéter.
@@ -867,12 +867,12 @@ Des noms les plus fameux dont se pare l'histoire,
 Et que le grand Auguste ayant osé tenter,
 N'osa prendre du coeur jusqu'à l'exécuter.
 Je viens donc y répondre, et de toute mon âme
-Te rendre pour mon fils...
+Te rendre pour mon fils…
 
 -*who_grimoald
       Ah ! C'en est trop, madame ;
 Ne vous abaissez point à des remerciements :
-C'est moi qui vous dois tout ; et si mes sentiments...
+C'est moi qui vous dois tout ; et si mes sentiments…
 
 -*who_rodelinde
 Souffre les miens, de grâce, et permets que je mette
@@ -944,7 +944,7 @@ Ose faire pour vous ce qu'on n'a jamais fait.
 
 -*who_rodelinde
 Tu ne fais que pour toi, s'il t'en faut récompense ;
-Et je te dis encore que toute ta vaillance,
+Et je te dis encor que toute ta vaillance,
 T'ayant fait vers moi seule à jamais criminel,
 A mis entre nous deux un obstacle éternel.
 Garde donc ta conquête, et me laisse ma gloire ;
@@ -968,7 +968,7 @@ Se joue impunément de mon trop de bonté.
 
 -*who_rodelinde
 Eh bien ! Deviens tyran : renonce à ton estime ;
-Renonce au nom de juste, au nom de magnanime...
+Renonce au nom de juste, au nom de magnanime…
 
 -*who_grimoald
 La vengeance est plus douce enfin que ces vains noms ;
@@ -985,7 +985,7 @@ Qui ne craint point la mort craint peu quoi qu'il ordonne.
 Vous la craindrez peut-être en quelque autre personne.
 
 -*who_rodelinde
-Quoi ? Tu voudrais...
+Quoi ? Tu voudrais…
 
 -*who_grimoald
       Allez, et ne me pressez point ;
@@ -1039,7 +1039,7 @@ Quel choix avez-vous fait ?
 
 -*who_rodelinde
       Je lui ferai connaître
-Que si...
+Que si…
 
 -*who_garibalde
       C'est avec moi qu'il vous faut achever :
@@ -1088,7 +1088,7 @@ Qu'à ce prix donc il vienne, et m'apporte sa foi.
 -*who_edwige
 Votre félicité sera mal assurée
 Dessus un fondement de si peu de durée.
-Vous avez toutefois de si puissants appas...
+Vous avez toutefois de si puissants appas…
 
 -*who_rodelinde
 Je sais quelques secrets que vous ne savez pas ;
@@ -1096,7 +1096,7 @@ Et si j'ai moins que vous d'attraits et de mérite,
 J'ai des moyens plus sûrs d'empêcher qu'on me quitte.
 
 -*who_edwige
-Mon exemple...
+Mon exemple…
 
 -*who_rodelinde
       Souffrez que je n'en craigne rien,
@@ -1113,7 +1113,7 @@ Mais votre jalousie un peu trop inquiète
 Se donne malgré moi cette gêne secrète.
 
 -*who_edwige
-Je ne suis point jalouse, et l'infidélité...
+Je ne suis point jalouse, et l'infidélité…
 
 -*who_rodelinde
 Eh bien ! Soit jalousie ou curiosité,
@@ -1141,10 +1141,10 @@ On vous aura fait peur, ou de la mort d'un fils,
 Ou de ce qu'un tyran se croit être permis,
 Et l'on fera courir quelque mauvaise excuse
 Dont la cour s'éblouisse et le peuple s'abuse.
-Mais cependant ce coeur que vous m'abandonniez...
+Mais cependant ce coeur que vous m'abandonniez…
 
 -*who_rodelinde
-Il n'est pas temps encore que vous vous en plaigniez :
+Il n'est pas temps encor que vous vous en plaigniez :
 Comme il m'a fait des lois, j'ai des lois à lui faire.
 
 -*who_edwige
@@ -1294,7 +1294,7 @@ Vous le savez, madame, et que les grandes âmes
 Ne s'abaissent jamais aux faiblesses des femmes,
 Ne s'aveuglent jamais ainsi hors de saison ;
 Que leur désespoir même agit avec raison,
-Et que...
+Et que…
 
 -*who_rodelinde
       C'en est assez : sois-moi juge équitable,
@@ -1345,7 +1345,7 @@ Voilà mon désespoir, voilà ses justes causes :
 À ces conditions prends ma main, si tu l'oses.
 
 -*who_grimoald
-Oui, je la prends, madame, et veux auparavant...
+Oui, je la prends, madame, et veux auparavant…
 
 **** *book_ *id_III04 *act_III *date_1651 *creator_corneille
 
@@ -1364,7 +1364,7 @@ N'ont-ils semé de vous que de fausses nouvelles ?
 
 -*who_pertharite
 Qui, cet époux si cher à vos chastes désirs,
-Qui vous a tant coûté de pleurs et de soupirs...
+Qui vous a tant coûté de pleurs et de soupirs…
 
 -*who_grimoald
 Va, fantôme insolent, retrouver qui t'envoie,
@@ -1398,7 +1398,7 @@ Rodelinde n'est pas du droit de ta conquête :
 Il faut, pour être à toi, qu'il m'en coûte la tête ;
 Puisqu'on m'a découvert, elle dépend de toi ;
 Prends-la comme tyran, ou l'attaque en vrai roi.
-J'en garde hors du trône encore les caractères,
+J'en garde hors du trône encor les caractères,
 Et ton bras t'a saisi de celui de mes pères.
 Je veux bien qu'il supplée au défaut de ton sang,
 Pour mettre entre nous deux égalité de rang.
@@ -1409,7 +1409,7 @@ Par un illustre effort faire place à tes voeux.
 
 -*who_grimoald
 L'artifice grossier n'a rien qui m'épouvante.
-Édwige à fourber n'est pas assez savante ;
+Édüige à fourber n'est pas assez savante ;
 Quelque adresse qu'elle aie, elle t'a mal instruit,
 Et d'un si haut dessein elle a fait trop de bruit.
 Elle en fait avorter l'effet par la menace,
@@ -1448,7 +1448,7 @@ Qui l'osa bien trahir l'osera méconnaître ;
 Et tu peux recevoir de son mortel effroi
 L'assurance qu'enfin tu n'attends pas de moi.
 Un service si haut veut une âme plus basse ;
-Et tu sais...
+Et tu sais…
 
 -*who_grimoald
       Oui, je sais jusqu'où va votre audace.
@@ -1459,7 +1459,7 @@ Veulent persuader ce que vous n'osez dire,
 Brouiller la populace, et lui faire après vous
 En un fourbe impudent respecter votre époux.
 Poussez donc jusqu'au bout, devenez plus hardie :
-Dites-nous hautement...
+Dites-nous hautement…
 
 -*who_rodelinde
       Que veux-tu que je die ?
@@ -1486,12 +1486,12 @@ Je te le donne en garde, Unulphe.
 -*who_pertharite
       Prince, écoute :
 Mille et mille témoins te mettront hors de doute ;
-Tout Milan, tout Pavie...
+Tout Milan, tout Pavie…
 
 -*who_grimoald
       Allez, sans contester :
 Vous aurez tout loisir de vous faire écouter.
-Toi, va voir Édwige, et jette dans son âme
+Toi, va voir Édüige, et jette dans son âme
 Un si flatteur espoir du retour de ma flamme,
 Qu'elle-même, déjà s'assurant de ma foi,
 Te nomme l'imposteur qu'elle déguise en roi.
@@ -1515,7 +1515,7 @@ Accablons son esprit de terreurs chimériques,
 Pour lui faire embrasser des conseils tyranniques ;
 De son trop de vertu sachons le dégager,
 Et perdons Pertharite afin de le venger.
-Peut-être qu'Édwige, à regret plus sévère,
+Peut-être qu'Édüige, à regret plus sévère,
 N'osera l'accepter teint du sang de son frère,
 Et que l'effet suivra notre prétention
 Du côté de l'amour et de l'ambition.
@@ -1527,7 +1527,7 @@ Et pour régner un jour mettons tout en usage.
 -*who_garibalde
 Je ne m'en dédis point, seigneur ; ce prompt retour
 N'est qu'une illusion qu'on fait à votre amour.
-Je ne l'ai vu que trop aux discours d'Édwige :
+Je ne l'ai vu que trop aux discours d'Édüige :
 Comme sensiblement votre change l'afflige,
 Et qu'avec le feu roi ce fourbe a du rapport,
 Sa flamme au désespoir fait ce dernier effort.
@@ -1538,7 +1538,7 @@ Et leur inimitié s'accorde à vous jouer.
 L'imposteur cependant, quoi qu'on lui donne à feindre,
 Le soutient d'autant mieux qu'il ne voit rien à craindre ;
 Car soit que ses discours puissent vous émouvoir
-Jusqu'à rendre Édwige à son premier pouvoir ;
+Jusqu'à rendre Édüige à son premier pouvoir ;
 Soit que malgré sa fourbe et vaine et languissante,
 Rodelinde sur vous reste toute-puissante,
 À l'une ou l'autre enfin votre âme à l'abandon
@@ -1557,7 +1557,7 @@ Ont été jusqu'ici toute la récompense
 De cet amour parjure où mon coeur se dispense,
 Il est temps désormais que par un juste effort
 J'affranchisse mon coeur de cet indigne sort.
-Prenons l'occasion que nous fait Édwige :
+Prenons l'occasion que nous fait Édüige :
 Aimons cette imposture où son amour l'oblige.
 Elle plaint un ingrat de tant de maux soufferts,
 Et lui prête la main pour le tirer des fers.
@@ -1586,7 +1586,7 @@ Il s'imaginera son rang seul respecté.
 Je sais bien qu'aussitôt votre haute vaillance
 De ce peuple mutin domptera l'insolence ;
 Mais tenez-vous fort sûr ce que vous prétendez
-Du côté d'Édwige, à qui vous vous rendez ?
+Du côté d'Édüige, à qui vous vous rendez ?
 J'ai pénétré, seigneur, jusqu'au fond de son âme,
 Où je n'ai vu pour vous aucun reste de flamme :
 Sa haine seule agit, et cherche à vous ôter
@@ -1619,7 +1619,7 @@ Son coeur n'aime en effet ni son maître ni moi.
 Il a son but à part, Grimoald, prends-y garde :
 Quelque dessein qu'il ait, c'est toi seul qu'il regarde.
 Examine ce coeur, juges-en comme il faut.
-Qui m'aime et me trahit aspire encore plus haut.
+Qui m'aime et me trahit aspire encor plus haut.
 
 -*who_garibalde
 Vous le voyez, seigneur, avec quelle injustice
@@ -1637,13 +1637,13 @@ Que ne faites-vous point pour obliger le roi
 Est-il rien en ces lieux que n'ait mis en usage
 L'excès de votre ardeur ou de votre courage ?
 Pour être tout à vous, j'ai fait tous mes efforts ;
-Mais je n'ai point encore fait revivre les morts.
+Mais je n'ai point encor fait revivre les morts.
 J'ai dit des vérités dont votre coeur murmure ;
 Mais je n'ai point été jusques à l'imposture,
 Et je n'ai point poussé des sentiments si beaux
 Jusqu'à faire sortir les ombres des tombeaux.
 Ce n'est point mon amour qui produit Pertharite :
-Ma flamme ignore encore cet art qui ressuscite ;
+Ma flamme ignore encor cet art qui ressuscite ;
 Et je ne vois en elle enfin rien à blâmer,
 Sinon que je trahis, si c'est trahir qu'aimer.
 
@@ -1712,7 +1712,7 @@ Et quand par ce retour il a su nous surprendre,
 Le ciel m'a plus rendu que je n'osais attendre.
 
 -*who_grimoald
-Madame...
+Madame…
 
 -*who_edwige
       Tu perds temps ; je n'écoute plus rien,
@@ -1736,14 +1736,14 @@ De vous dire, seigneur, que chacun le vient voir.
 J'ai permis à fort peu de lui rendre visite ;
 Mais tous l'ont reconnu pour le vrai Pertharite.
 Le peuple même parle, et déjà sourdement
-On entend des discours semés confusément...
+On entend des discours semés confusément…
 
 -*who_garibalde
 Voyez en quels périls vous jette l'imposture :
 Le peuple déjà parle, et sourdement murmure.
 Le feu va s'allumer, si vous ne l'éteignez.
 Pour perdre un imposteur, qu'est-ce que vous craignez ?
-La haine d'Édwige, elle qui ne prépare
+La haine d'Édüige, elle qui ne prépare
 À vos submissions qu'une fierté barbare ?
 Elle que vos mépris ayant mise en fureur,
 Rendent opiniâtre à vous mettre en erreur ?
@@ -1827,7 +1827,7 @@ Et l'aveu qu'il te faut pour te désabuser.
 -*who_rodelinde
 Veux-tu pour t'éclaircir de plus illustres marques ?
 Veux-tu mieux voir le sang de nos premiers monarques ?
-Ce grand coeur...
+Ce grand coeur…
 
 -*who_grimoald
       Oui, madame, il est fort bien instruit
@@ -1858,7 +1858,7 @@ Où tous mes alliés me refusent leurs bras,
 Mon plus cuisant chagrin est de ne vous voir pas.
 Je bénis mon destin, quelques maux qu'il m'envoie,
 Puisqu'il peut consentir à ce moment de joie ;
-Et bien qu'il ose encore de nouveau me trahir,
+Et bien qu'il ose encor de nouveau me trahir,
 En un moment si doux je ne le puis haïr.
 
 -*who_rodelinde
@@ -1903,7 +1903,7 @@ De ce que pour votre ombre on m'a vu de constance ?
 Quand je vous ai cru mort, et qu'un si grand vainqueur,
 Sa conquête à mes pieds, m'a demandé mon coeur,
 Quand toute autre en ma place eût peut-être fait gloire
-De cet hommage entier de toute sa victoire...
+De cet hommage entier de toute sa victoire…
 
 -*who_pertharite
 Je sais que vous avez dignement combattu :
@@ -1934,14 +1934,14 @@ Vous faites trop longtemps un tyran, un barbare ;
 Il l'est, mais seulement pour vaincre vos refus.
 Soyez à lui, madame, il ne le sera plus ;
 Et je tiendrai ma vie heureusement perdue,
-Puisque...
+Puisque…
 
 -*who_rodelinde
       N'achève point un discours qui me tue,
 Et ne me force point à mourir de douleur,
 Avant qu'avoir pu rompre ou venger ton malheur.
 Moi qui l'ai dédaigné dans son char de victoire,
-Couronné de vertus encore plus que de gloire,
+Couronné de vertus encor plus que de gloire,
 Magnanime, vaillant, juste, bon, généreux,
 Pour m'attacher à l'ombre, au nom d'un malheureux,
 Je pourrais à ta vue, aux dépens de ta vie,
@@ -1964,11 +1964,11 @@ Le soin de s'affermir lui rend tout légitime.
 Quand j'aurai dans ses fers cessé de respirer,
 Donnez-lui votre main, sans rien considérer :
 épargnez les efforts d'une impuissante haine,
-Et permettez au ciel de vous faire encore reine.
+Et permettez au ciel de vous faire encor reine.
 
 -*who_rodelinde
 épargnez-moi, seigneur, ce cruel sentiment.
-Vous qui savez...
+Vous qui savez…
 
 **** *book_ *id_IV06 *act_IV *date_1651 *creator_corneille
 
@@ -2024,13 +2024,13 @@ Et s'il peut une fois jusque-là l'irriter,
 Par force ou par amour il croit vous emporter.
 Mais vous n'avez, madame, aucun sujet de crainte ;
 Ce héros est à vous sans réserve et sans feinte,
-Et...
+Et…
 
 -*who_edwige
       S'il quitte sans feinte un objet si chéri,
 Sans doute au fond de l'âme il connaît son mari.
 Mais s'il le connaissait, en dépit de ce traître,
-Qui pourroait l'empêcher de le faire paraître ?
+Qui pourrait l'empêcher de le faire paraître ?
 
 -*who_unulphe
 Sur le trône conquis il craint quelque attentat,
@@ -2093,7 +2093,7 @@ Que c'est à lui d'en faire, et non d'en recevoir.
 Ne t'obstine donc plus à t'aveugler toi-même :
 Soit tel que je t'aimais, si tu veux que je t'aime ;
 Sois tel que tu parus quand tu conquis Milan :
-J'aime encore son vainqueur, mais non pas son tyran.
+J'aime encor son vainqueur, mais non pas son tyran.
 Rends-toi cette vertu pleine, haute, sincère,
 Qui t'affermit si bien au trône de mon frère ;
 Rends-lui du moins son nom, si tu me rends ton coeur.
@@ -2146,7 +2146,7 @@ Des plus cruels tyrans j'emprunte le courroux,
 Pour tirer cet aveu de la reine ou de vous ;
 Mais partout je perds temps, partout même constance
 Rend à tous mes efforts pareille résistance.
-Encore s'il ne fallait qu'éteindre ou dédaigner
+encor s'il ne fallait qu'éteindre ou dédaigner
 En des troubles si grands la douceur de régner,
 Et que pour vous aimer et ne vous point déplaire
 Ce grand titre de roi ne fût pas nécessaire,
@@ -2172,7 +2172,7 @@ Que j'ose mépriser un comte généreux
 Pour m'attacher au sort d'un tyran trop heureux ?
 Aime-moi si tu veux, mais crois-moi magnanime :
 Avec tout cet amour garde-moi ton estime ;
-Crois-moi quelque tendresse encore pour mon vrai sang,
+Crois-moi quelque tendresse encor pour mon vrai sang,
 Qu'une haute vertu me plaît mieux qu'un haut rang,
 Et que vers Gundebert je crois ton serment quitte,
 Quand tu n'aurais qu'un jour régné pour Pertharite.
@@ -2188,7 +2188,7 @@ Il fuit, et tu n'as plus à traiter d'imposteur
 De tes troubles secrets le redoutable auteur.
 Il fuit, et tu n'as plus à craindre de tempête.
 Secourant ta vertu, j'assure ta conquête ;
-Et les soins que j'ai pris... Mais la reine survient.
+Et les soins que j'ai pris… Mais la reine survient.
 
 **** *book_ *id_V03 *act_V *date_1651 *creator_corneille
 
@@ -2210,7 +2210,7 @@ Crois-tu qu'on n'ait point d'yeux pour voir ce que tu fais,
 Et jusque dans ton coeur découvrir tes forfaits ?
 
 -*who_edwige
-Madame...
+Madame…
 
 -*who_rodelinde
       Eh bien ! Madame, êtes-vous sa complice ?
@@ -2255,7 +2255,7 @@ Et lui tendre avec pompe un piège illustre et beau,
 Pour le priver un jour des honneurs du tombeau.
 Soûle-toi de son sang ; mais rends-moi ce qui reste,
 Attendant ma vengeance, ou le courroux céleste,
-Que je puisse...
+Que je puisse…
 
 -*who_grimoald
       Ah ! Madame, où me réduisez-vous
@@ -2270,10 +2270,10 @@ Seigneur, je crois savoir la route qu'il a prise ;
 Et si sa majesté veut que je l'y conduise,
 Au péril de ma tête, en moins d'une heure ou deux,
 Je m'offre de la rendre à l'objet de ses voeux.
-Allons, allons, madame, et souffrez que je tâche...
+Allons, allons, madame, et souffrez que je tâche…
 
 -*who_rodelinde
-Ô d'un lâche tyran ministre encore plus lâche,
+Ô d'un lâche tyran ministre encor plus lâche,
 Qui sous un faux semblant d'un peu d'humanité
 Penses contre mes pleurs faire sa sûreté !
 Que ne dis-tu plutôt que ses justes alarmes
@@ -2321,7 +2321,7 @@ Que dis-tu, malheureux ?
 Ô ciel ! En quel état ma fortune est réduite,
 S'il ne m'est pas permis de jouir de sa fuite !
 Faut-il que de nouveau mon coeur embarrassé
-Ne puisse... Mais dis-nous comment tout s'est passé.
+Ne puisse… Mais dis-nous comment tout s'est passé.
 
 -*who_soldat
 Le duc, ayant appris quelles intelligences
@@ -2362,7 +2362,7 @@ Pleure ce bon sujet que le mien t'a ravi.
 Hâte-toi de venger ce ministre fidèle :
 C'est toi qu'à sa vengeance en mourant il appelle.
 Signale ton amour, et parois aujourd'hui,
-S'il fut digne de toi, plus digne encore de lui.
+S'il fut digne de toi, plus digne encor de lui.
 Mais cesse désormais de traiter d'imposture
 Les traits que sur mon front imprime la nature.
 Milan m'a vu passer, et partout en passant
@@ -2406,7 +2406,7 @@ Quelque faible qu'il soit, n'a point le coeur d'esclave,
 Et montre une grande âme au-dessus du malheur,
 Qui manque de fortune, et non pas de valeur.
 Je vois donc malgré moi ma victoire asservie
-À te rendre le sceptre, ou prendre encore ta vie ;
+À te rendre le sceptre, ou prendre encor ta vie ;
 Et plus l'ambition trouble ce grand effort,
 Plus ceux de ma vertu me refusent ta mort.
 Mais c'est trop retenir ma vertu prisonnière :
@@ -2415,7 +2415,7 @@ Et mon ambition a beau s'en indigner,
 Cette vertu triomphe, et tu t'en vas régner.
 Milan, revois ton prince, et reprends ton vrai maître,
 Qu'en vain pour t'aveugler j'ai voulu méconnaître ;
-Et vous que d'imposteur à regret j'ai traité...
+Et vous que d'imposteur à regret j'ai traité…
 
 -*who_pertharite
 Ah ! C'est porter trop loin la générosité.
@@ -2428,12 +2428,12 @@ Rodelinde et Milan et mon coeur sont à vous ;
 Et je vous remettrais toute la Lombardie,
 Si comme dans Milan je régnais dans Pavie.
 Mais vous n'ignorez pas, seigneur, que le feu roi
-En fit reine Édwige ; et lui donnant ma foi,
-Je promis...
+En fit reine Édüige ; et lui donnant ma foi,
+Je promis…
 
 -*who_edwige
       Si ta foi t'oblige à la défendre,
-Ton exemple m'oblige encore plus à la rendre ;
+Ton exemple m'oblige encor plus à la rendre ;
 Et je mériterais un nouveau changement,
 Si mon coeur n'égalait celui de mon amant.
 

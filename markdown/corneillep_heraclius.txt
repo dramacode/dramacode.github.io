@@ -2,7 +2,7 @@
 identifier: corneillep_heraclius  
 creator: Corneille, Pierre  
 date: 1646  
-title: Héraclius. , empereur d'orient, tragédie  
+title: Héraclius. , empereur d’orient, tragédie  
 ---
 
 
@@ -268,7 +268,7 @@ Son choix en est le titre ; et tel est notre sort,
 Qu'une autre élection nous condamne à la mort.  
 Celle qu'on fit de moi fut l'arrêt de Maurice ;  
 J'en vis avec regret le triste sacrifice ;  
-Au repos de l'Etat il fallut l'accorder ;  
+Au repos de l'État il fallut l'accorder ;  
 Mon cœur, qui résistait, fut contraint de céder.  
 Mais pour remettre un jour l'empire en sa famille  
 Je fis ce que je pus : je conservai sa fille,  
@@ -283,7 +283,7 @@ D'être juste seigneur du bien de mes aïeux !
 Lui qui n'a pour l'empire autre droit que ses crimes,  
 Lui qui de tous les miens fit autant de victimes,  
 Croire s'être lavé d'un si noir attentat  
-En imputant leur perte au repos de l'Etat !  
+En imputant leur perte au repos de l'État !  
 Il fait plus, il me croit digne de cette excuse !  
 Souffre, souffre à ton tour que je te désabuse,  
 Apprends que si jadis quelques séditions  
@@ -292,7 +292,7 @@ L'empire était chez nous un bien héréditaire :
 Maurice ne l'obtint qu'en gendre de Tibère,  
 Et l'on voit depuis lui remonter mon destin  
 Jusqu'au grand Théodose, et jusqu'à Constantin,  
-Et je pourrais avoir l'âme assez abattue...  
+Et je pourrais avoir l'âme assez abattue…  
 
     PHOCAS.
 Eh bien, si tu le veux, je te le restitue,  
@@ -310,7 +310,7 @@ Tant de vertus qu'en lui le monde entier admire
 Ne l'ont-elles pas fait trop digne de l'empire ?  
 En ai-je eu quelque espoir qu'il n'ait assez rempli ?  
 Et voit-on sous le ciel prince plus accompli ?  
-Un cœur comme le tien, si grand, si magnanime...  
+Un cœur comme le tien, si grand, si magnanime…  
 
     PULCHÉRIE.
 Va, je ne confonds point ses vertus et ton crime.  
@@ -348,7 +348,7 @@ Tyran, descends du trône, et fais place à ton maître.
 Qu'un murmure confus fait sortir du tombeau,  
 Te donne cette audace et cette confiance !  
 Ce bruit s'est fait déjà digne de ta croyance.  
-Mais...  
+Mais…  
 
     PULCHÉRIE.
         Je sais qu'il est faux : pour t'assurer ce rang  
@@ -393,14 +393,14 @@ Dis, si tu veux, encor que ton cœur la souhaite.
 
 Approche, Martian, que je te le répète :  
 Cette ingrate furie, après tant de mépris,  
-Conspire encore la perte et du père et du fils ;  
+Conspire encor la perte et du père et du fils ;  
 Elle-même a semé cette erreur populaire  
 D'un faux Héraclius qu'elle accepte pour frère,  
 Mais quoi qu'à ces mutins elle puisse imposer,  
 Demain ils la verront mourir ou t'épouser.  
 
     HÉRACLIUS.
-Seigneur...  
+Seigneur…  
 
     PHOCAS.
         Garde sur toi d'attirer ma colère.  
@@ -427,7 +427,7 @@ Au nom d'Héraclius à demi soulevé,
 Vous verriez par sa mort le désordre achevé.  
 Il vaut mieux la priver du rang qu'elle rejette,  
 Faire régner une autre, et la laisser sujette,  
-Et d'un parti plus bas punissant son orgueil...  
+Et d'un parti plus bas punissant son orgueil…  
 
     PHOCAS.
 Quand Maurice peut tout du creux de son cercueil,  
@@ -435,7 +435,7 @@ Quand Maurice peut tout du creux de son cercueil,
 Tu parles d'ajouter un véritable gendre !  
 
     HÉRACLIUS.
-Seigneur, j'ai des amis chez qui cette moitié...  
+Seigneur, j'ai des amis chez qui cette moitié…  
 
     PHOCAS.
 À l'épreuve d'un sceptre il n'est point d'amitié,  
@@ -448,7 +448,7 @@ Elle mourra, te dis-je.
 De rejoindre les miens par un heureux trépas !  
 La vapeur de mon sang ira grossir la foudre  
 Que Dieu tient déjà prête à le réduire en poudre ;  
-Et ma mort, en servant de comble à tant d'horreurs...  
+Et ma mort, en servant de comble à tant d'horreurs…  
 
     PHOCAS.
 Par ses remerciements juge de ses fureurs.  
@@ -483,7 +483,7 @@ Et votre main illustre augmente le mérite
 Des vertus dont l'éclat pour lui me sollicite.   [4]
 Mais à d'autres pensers il me faut recourir :  
 Il n'est plus temps d'aimer alors qu'il faut mourir,  
-Et quand à ce départ une âme se prépare...  
+Et quand à ce départ une âme se prépare…  
 
     HÉRACLIUS.
 Redoutez un peu moins les rigueurs d'un barbare.  
@@ -507,7 +507,7 @@ Au nom de votre amour et de votre amitié,
 Prenez de votre sort tous deux quelque pitié.  
 Que la vertu du fils, si pleine et si sincère,  
 Vainque la juste horreur que vous avez du père,  
-Et, pour mon intérêt, n'exposez pas tous deux...  
+Et, pour mon intérêt, n'exposez pas tous deux…  
 
     HÉRACLIUS.
 Que me dis-tu, Léonce ? Et qu'est-ce que tu veux ?  
@@ -715,7 +715,7 @@ La vérité n'aura ni le nom ni l'effet
 Que d'un adroit mensonge à couvrir ce forfait,  
 Et d'une telle erreur l'ombre sera trop noire  
 Pour ne pas obscurcir l'éclat de votre gloire.  
-Je sais bien que l'ardeur de venger vos parents...  
+Je sais bien que l'ardeur de venger vos parents…  
 
     HÉRACLIUS.
 Vous en êtes aussi, Madame, et je me rends.  
@@ -821,7 +821,7 @@ Madame, Héraclius vient d'être découvert.
 Eh bien ?  
 
     EUDOXE.
-    Si...  
+    Si…  
 
     LÉONTINE, À EUDOXE.
     Taisez-vous.  
@@ -862,6 +862,7 @@ Vous en devez connaître encor le caractère.
 Léontine, lit le billet.
 
 Billet de Maurice
+
 
 « Léontine a trompé Phocas,  
 Et, livrant pour mon fils un des siens au trépas,  
@@ -924,6 +925,7 @@ Qui vous en pût un jour rendre un plein témoignage.
 Félix est mort, Madame, et naguère en mourant  
 Il remit ce dépôt à son plus cher parent,  
 Et, m'ayant tout conté : « Tiens, dit-il, Exupère,  
+
 Sers ton prince, et venge ton père. »  
 Armé d'un tel secret, Seigneur, j'ai voulu voir  
 Combien parmi le peuple il aurait de pouvoir :  
@@ -984,7 +986,7 @@ Pour lui voir sur le trône élever votre fille,
 Aurait voulu laisser l'empire en sa famille,  
 Et me faire trouver un tel destin bien doux  
 Dans l'éternelle erreur d'être sorti de vous,  
-Mais je tiendrais à crime d'une telle pensée.  
+Mais je tiendrais à crime une telle pensée.  
 Je me plains seulement d'une ardeur insensée,  
 D'un détestable amour que pour ma propre sœur  
 Vous-même vous avez allumé dans mon cœur.  
@@ -1003,7 +1005,7 @@ J'ai vu dans votre amour une source de haine,
 Et j'ose dire encor qu'un bras si renommé  
 Peut-être aurait moins fait si le cœur n'eût aimé.  
 Achevez donc, Seigneur ; et puisque Pulchérie  
-Doit craindre l'attentat d'une aveugle furie...  
+Doit craindre l'attentat d'une aveugle furie…  
 
     MARTIAN.
 Peut-être il vaudrait mieux moi-même la porter  
@@ -1022,7 +1024,7 @@ Et fais d'Héraclius un chef de conjurés
 Dont je vois les complots encor mal assurés.  
 Aucun d'eux du tyran n'approche la personne,  
 Et quand même l'issue en pourrait être bonne,  
-Peut-être il m'est honteux de reprendre l'Etat  
+Peut-être il m'est honteux de reprendre l'État  
 Par l'infâme succès d'un lâche assassinat ;  
 Peut-être il vaudrait mieux, en tête d'une armée,  
 Faire parler pour moi toute ma renommée,  
@@ -1030,7 +1032,7 @@ Et trouver à l'empire un chemin glorieux
 Pour venger mes parents d'un bras victorieux.  
 C'est dont je vais résoudre avec cette princesse,  
 Pour qui non plus l'amour, mais le sang m'intéresse.  
-Vous, avec votre Eudoxe...  
+Vous, avec votre Eudoxe…  
 
     LÉONTINE.
         Ah ! Seigneur, écoutez.  
@@ -1158,7 +1160,7 @@ En brisant les beaux fers qui me tenaient captive,
 Mais j'en condamnerais le plus doux souvenir,  
 S'il avait à mon cœur coûté plus d'un soupir.  
 Ce grand coup m'a surprise, et ne m'a point troublée :  
-Mon âme l'a reçu sans être accablée,  
+Mon âme l'a reçu sans en être accablée,  
 Et comme tous mes feux n'avaient rien que de saint,  
 L'honneur les alluma, le devoir les éteint ;  
 Je ne vois plus d'amant où je rencontre un frère ;  
@@ -1345,7 +1347,7 @@ Pour en avoir conçu la honteuse espérance,
 Et suis trop au-dessus de cette indignité  
 Pour te vouloir piquer de générosité.  
 Que ferais-tu pour moi de me laisser la vie,  
-Si pour moi sans le trône elle n'est qu'infâmie ?  
+Si pour moi sans le trône elle n'est qu'infamie ?  
 Héraclius vivrait pour te faire la cour ?  
 Rends-lui, rends-lui son sceptre, ou prive-le du jour.  
 Pour ton propre intérêt sois juge incorruptible :  
@@ -1431,7 +1433,7 @@ Il veut frapper le coup sans notre ministère ;
 Si l'on t'a bien donné Léonce pour mon frère,  
 Les quatre autres peut-être, à tes yeux abusés,  
 Ont été comme lui des Césars supposés.  
-L'Etat, qui, dans leur mort, voyait trop sa ruine,  
+L'État, qui, dans leur mort, voyait trop sa ruine,  
 Avait des généreux autres que Léontine ;  
 Ils trompaient d'un barbare aisément la fureur,  
 Qui n'avait jamais vu la cour ni l'empereur.  
@@ -1659,13 +1661,13 @@ Mais voici le tyran, et son traître Exupère.
 Qu'on la tienne en lieu sûr en attendant sa mère.  
 
     HÉRACLIUS.
-A-t-elle quelque part... ?  
+A-t-elle quelque part… ?  
 
     PHOCAS.
         Nous verrons à loisir ;  
 Il est bon cependant de la faire saisir.  
 
-    EUDOXE, S'EN ALLANT.
+    EUDOXE, S’EN ALLANT.
 Seigneur, ne croyez rien de ce qu'il vous va dire.  
 
     PHOCAS, À EUDOXE.
@@ -1675,7 +1677,7 @@ Je croirai ce qu'il faut pour le bien de l'empire.
 Ses pleurs pour ce coupable imploraient ta pitié ?  
 
     HÉRACLIUS.
-Seigneur...  
+Seigneur…  
 
     PHOCAS.
         Je sais pour lui quelle est ton amitié,  
@@ -1795,7 +1797,7 @@ Avoir tant de pitié d'un sort si glorieux,
 De crainte d'être ingrat, c'est m'être injurieux.  
 
     PHOCAS.
-En quelque trouble me jette une telle dispute !  
+En quels trouble me jette une telle dispute !  
 À quels nouveaux malheurs m'expose-t-elle en butte !  
 Lequel croire, Exupère, et lequel démentir ?  
 Tombé-je dans l'erreur, ou si j'en vais sortir ?  
@@ -1902,7 +1904,7 @@ La nature en secret aurait su m'en défendre.
     HÉRACLIUS.
 Apprends donc qu'en secret mon cœur t'a prévenu.  
 J'ai voulu conspirer, mais on m'a retenu ;  
-Et dedans mon péril Léontine timide...  
+Et dedans mon péril Léontine timide…  
 
     MARTIAN.
 N'a pu voir Martian commettre un parricide.  
@@ -2070,20 +2072,20 @@ Gêne, flatte, surprends. Vous autres, suivez-moi.
 On ne peut nous entendre. Il est juste, Madame,  
 Que je vous ouvre enfin jusqu'au fond de mon âme :  
 C'est passer trop longtemps pour traître auprès de vous.  
-Vous haïssez Phocas, nous le haïssons tous...  
+Vous haïssez Phocas, nous le haïssons tous…  
 
     LÉONTINE.
 Oui, c'est bien lui montrer ta haine et ta colère,  
 Que lui vendre ton prince et le sang de ton père.  
 
     EXUPÈRE.
-L'apparence vous trompe, et je suis en effet...  
+L'apparence vous trompe, et je suis en effet…  
 
     LÉONTINE.
 L'homme le plus méchant que la nature ait fait.  
 
     EXUPÈRE.
-Ce qui passe à vos yeux pour une perfidie...  
+Ce qui passe à vos yeux pour une perfidie…  
 
     LÉONTINE.
 Cache une intention fort noble et fort hardie !  
@@ -2094,7 +2096,7 @@ Considérez l'état de tous nos conjurés :
 Il n'est aucun de nous à qui sa violence  
 N'ait donné trop de lieu d'une juste vengeance,  
 Et nous en croyant tous dans notre âme indignés,  
-Le tyran du palais nous a éloignés.  
+Le tyran du palais nous a tous éloignés.  
 Il y fallait rentrer par quelque grand service.  
 
     LÉONTINE.
@@ -2126,10 +2128,10 @@ Qu'à le rendre aujourd'hui maître de tout l'empire.
 Esprit lâche et grossier, quelle brutalité  
 Te fait juger en moi tant de crédulité ?  
 Va, d'un piège si lourd l'appât est inutile,  
-Traître, et si tu n'as point de ruse plus subtile...  
+Traître, et si tu n'as point de ruse plus subtile…  
 
     EXUPÈRE.
-Je vous dis vrai, Madame, et vous dirai de plus...  
+Je vous dis vrai, Madame, et vous dirai de plus…  
 
     LÉONTINE.
 Ne me fais point ici de contes superflus ;  
@@ -2201,7 +2203,7 @@ Si je ne le suis en effet.
 Soutiens ma haine qui chancelle,  
 Et redoublant pour ta querelle  
 Cette noble ardeur de mourir,  
-Fais voir... Mais il m'exauce, on vient me secourir.  
+Fais voir… Mais il m'exauce, on vient me secourir.  
 
 
 ## SCÈNE II. Héraclius, Pulchérie.
@@ -2227,7 +2229,7 @@ De tout ce que le sang pourrait me révéler !
 Puisse-t-il par un trait de lumière fidèle  
 Vous le mieux révéler qu'il ne me le révèle !  
 Aidez-moi cependant, Madame, à repousser  
-Les indignes frayeurs dont je me sens presser...  
+Les indignes frayeurs dont je me sens presser…  
 
     PULCHÉRIE.
 Ah ! Prince, il ne faut point d'assurance plus claire :  
@@ -2427,14 +2429,14 @@ Dépêche, Octavian.
 
     HÉRACLIUS.
         N'attente rien, barbare !  
-Je suis...  
+Je suis…  
 
     PHOCAS.
     Avoue enfin.  
 
     HÉRACLIUS.
         Je tremble, je m'égare,  
-Et mon cœur...  
+Et mon cœur…  
 
     PHOCAS, À HÉRACLIUS.
         Tu pourras à loisir y penser.  
@@ -2443,13 +2445,13 @@ Et mon cœur...
 Frappe.  
 
     HÉRACLIUS.
-        Arrête : je suis... Puis-je le prononcer ?  
+        Arrête : je suis… Puis-je le prononcer ?  
 
     PHOCAS.
-Achève, ou ...  
+Achève, ou…  
 
     HÉRACLIUS.
-        Je suis donc, s'il faut que le die,  
+        Je suis donc, s'il faut que je le die,  
 Ce qu'il faut que je sois pour lui sauver la vie.  
 Oui, je lui dois assez, Seigneur, quoi qu'il en soit,  
 Pour vous payer pour lui de l'amour qu'il vous doit,  
@@ -2516,7 +2518,7 @@ Autrement, si leur sort demeure encor douteux,
 Je jure à mon retour qu'ils périront tous deux :  
 Je ne veux point d'un fils dont l'implacable haine  
 Prend ce nom pour affront, et mon amour pour gêne.  
-Toi...  
+Toi…  
 
     PULCHÉRIE.
         Ne menace point : je suis prête à mourir.  
@@ -2524,7 +2526,7 @@ Toi...
     PHOCAS.
 À mourir ! Jusque-là je pourrai te chérir !  
 N'espère pas de moi cette faveur suprême ;  
-Et pense...  
+Et pense…  
 
     PULCHÉRIE.
     À quoi, tyran ?  
@@ -2645,7 +2647,7 @@ Cédez, cédez tous deux aux rigueurs de mon sort :
 Il a fait contre vous un violent effort,  
 Votre malheur est grand, mais, quoi qu'il en succède,  
 La mort qu'on me refuse en sera le remède ;  
-Et moi... Mais que nous veut ce perfide ?  
+Et moi… Mais que nous veut ce perfide ?  
 
 
 ## SCÈNE VI. Héraclius, Pulchérie, Martian, Amyntas.
@@ -2735,7 +2737,7 @@ Amyntas nous fait-il un fidèle rapport ?
 
     LÉONTINE.
 Seigneur, un tel succès à peine est concevable,  
-Et d'un si grand dessein la conduite admirable...  
+Et d'un si grand dessein la conduite admirable…  
 
     HÉRACLIUS, À EXUPÈRE.
 Perfide généreux, hâte-toi d'embrasser  
@@ -2786,6 +2788,7 @@ Princes.
 Pulchérie, lit.
 
 Billet de Constantine.
+
 
 « Parmi tant de malheurs mon bonheur est étrange :  
 Après avoir donné son fils au lieu du mien ;  

@@ -6,24 +6,27 @@
 Dramacode::deps();
 set_time_limit(-1);
 
-
-if (realpath($_SERVER['SCRIPT_FILENAME']) != realpath(__FILE__)) {
-  // file is include do nothing
-}
-else if (php_sapi_name() == "cli") {
+if (php_sapi_name() == "cli") {
   Dramacode::cli();
 }
 class Dramacode
 {
   static $sets = array(
+    "bibdramatique" => array(
+      "glob" => '../bibdramatique/xml/*_*.xml',
+      "publisher" => "CELLF, Bibliothèque dramatique",
+      "identifier" => "http://bibdramatique.paris-sorbonne.fr/%s",
+      "source" => "http://dramacode.github.io/bibdramatique/%s.xml",
+    ),
     "moliere" => array(
-      "glob" => '../moliere/*.xml',
+      "glob" => '../moliere-dramacode/*_*.xml',
       "publisher" => 'OBVIL, projet Molière',
       "identifier" => "http://obvil.paris-sorbonne.fr/corpus/moliere/%s",
       "source" => "http://dramacode.github.io/moliere/%s.xml",
     ),
+    // en dernier, ne doit pas écraser les collections ci-dessus
     "tc" => array(
-      "glob" => '
+      /*
         ../tcp5/boisrobert_*.xml
         ../tcp5/boursault_*.xml
         ../tcp5/corneillep_*.xml
@@ -40,16 +43,11 @@ class Dramacode
         ../tcp5/rotrou_*.xml
         ../tcp5/scarron_*.xml
         ../tcp5/villiers_*.xml
-      ',
+      */
+      "glob" => '../tcp5/*_*.xml',
       "publisher" => "Théâtre Classique",
       "identifier" => "http://theatre-classique.fr/pages/programmes/edition.php?t=../documents/%s.xml",
       "source" => "http://dramacode.github.io/tcp5/%s.xml",
-    ),
-    "bibdramatique" => array(
-      "glob" => '../bibdramatique/*.xml',
-      "publisher" => "CELLF, Bibliothèque dramatique",
-      "identifier" => "http://bibdramatique.paris-sorbonne.fr/%s",
-      "source" => "http://dramacode.github.io/bibdramatique/%s.xml",
     ),
   );
   static $formats = array(
@@ -130,19 +128,20 @@ CREATE INDEX play_setcode ON play(setcode);
   /**
    * Produire les exports depuis le fichier XML
    */
-  public function add( $srcfile, $setcode=null, $force=false ) {
+  public function add( $srcfile, $setcode=null, $priority=0 ) {
     $set = self::$sets[$setcode];
     if (!isset($set['predir'])) $set['predir'] = ''; // used for Théâtre Classique
     $srcname = pathinfo($srcfile, PATHINFO_FILENAME);
     $srcmtime = filemtime($srcfile);
     $this->_sqlmtime->execute(array($srcname));
-    list($basemtime) = $this->_sqlmtime->fetch();
+    list( $basemtime ) = $this->_sqlmtime->fetch();
     // TODO optimize on dates
     $teinte = new Teinte_Doc($srcfile);
-    // time compared
-    if ($basemtime < $srcmtime) {
-      $this->insert($teinte, $setcode);
-    }
+    // file already exist, negative priority for this one, do nothing
+    if ( $basemtime && $priority < 0 );
+    // priority > 0 or newer, force update
+    if ( $basemtime < $srcmtime || $priority > 0) $this->insert($teinte, $setcode);
+
     // Specific Théâtre Classique
     if ($setcode == 'tc') {
       $teinte->pre(dirname(__FILE__).'/tc-norm.xsl');
@@ -153,8 +152,11 @@ CREATE INDEX play_setcode ON play(setcode);
       $dir = $set['predir'].$format;
       $destfile = dirname(__FILE__).'/'.$dir.'/'.$srcname.$row["ext"];
 
+      if ( !file_exists($destfile) ); // work to be done
+      else if ( $priority < 0 ) continue; // low priority, do not replace
+      else if ( $priority > 0 ); // force, do work
+      else if ( $srcmtime < filemtime($destfile) ) continue; // freshness, no work
 
-      if (!$force && file_exists($destfile) && $srcmtime < filemtime($destfile)) continue;
       // delete destfile if exists ?
       $echo .= " ".$format;
       // TODO git $destfile
@@ -184,7 +186,7 @@ CREATE INDEX play_setcode ON play(setcode);
   /**
    * Insertion de la pièce
    */
-  private function insert($teinte, $setcode) {
+  private function insert( $teinte, $setcode ) {
     // supprimer la pièce, des triggers doivent normalement supprimer la cascade.
     $this->pdo->exec("DELETE FROM play WHERE code = ".$this->pdo->quote($teinte->filename()));
     // globa TEI meta
@@ -217,21 +219,22 @@ CREATE INDEX play_setcode ON play(setcode);
     else
       $identifier = sprintf ( self::$sets[$setcode]['identifier'], $teinte->filename() );
 
-    $this->_insert->execute(array(
+    $values = array(
       $setcode,
       $teinte->filename(),
       $teinte->filemtime(),
       self::$sets[$setcode]['publisher'],
       $identifier,
       sprintf ( self::$sets[$setcode]['source'], $teinte->filename() ),
-      $meta['creator'],
+      $meta['byline'],
       $meta['title'],
       $meta['date'],
       $meta['acts'],
       $meta['verse'],
       $genrecode,
       $genre,
-    ));
+    );
+    $this->_insert->execute( $values );
   }
   /**
    * Ligne bibliographique pour une pièce
@@ -426,14 +429,23 @@ CREATE INDEX play_setcode ON play(setcode);
     if (!count($_SERVER['argv'])) {
       $base = new Dramacode($sqlite, STDERR);
       foreach(self::$sets as $setcode=>$setrow) {
-        foreach(preg_split('@\s+@', $setrow['glob']) as $glob) {
-          foreach(glob($glob) as $file) {
+        echo $setcode."\n";
+        if (!is_array( $setrow['glob'] )) $setrow['glob']=array( $setrow['glob'] );
+        foreach( $setrow['glob'] as $glob ) {
+          foreach( glob($glob) as $file ) {
             // attention au "livret" de Molière
             if ( strpos( $file, "-livret") !== false ) continue;
-            $base->add($file, $setcode);
+            // Théatre classique, priorité inférieure aux autres collections
+            if ( $setcode == 'tc' ) $base->add( $file, $setcode, -1 );
+            else $base->add( $file, $setcode);
           }
         }
       }
+      ob_start();
+      include( 'index.php' );
+      $html = ob_get_contents();
+      ob_end_clean();
+      file_put_contents( "index.html", $html );
       exit();
     }
     if ($_SERVER['argv'][0] == 'epubcheck') {

@@ -114,7 +114,7 @@ Commençons de charmer son cœur & ses oreilles :
 Meslons nos voix, & remplissons les champs
 Du doux bruit de nos chants.
 
-**** *book_ *id_body-501 *act_ *date_1671 *creator_perrin
+**** *book_ *id_I01 *act_ *date_1671 *creator_perrin
 
 -*who_pomone
 Passons nos jours dans ces vergers,
@@ -183,7 +183,7 @@ Passons nos jours,
       passons nos jours
 Loin des Bergers et des amours. Ritorn⁎.
 
-**** *book_ *id_body-502 *act_ *date_1671 *creator_perrin
+**** *book_ *id_I02 *act_ *date_1671 *creator_perrin
 
 -*who_flore
 Ah ! ma sœur, à quoy penses-tu ?
@@ -236,7 +236,7 @@ Qu'il est beau,
 Il a des biens, il a des peines ;
 Et je ne veux que des plaisirs.
 
-**** *book_ *id_body-503 *act_ *date_1671 *creator_perrin
+**** *book_ *id_I03 *act_ *date_1671 *creator_perrin
 
 -*who_ledieudesjardins
 Soulage donc les flames
@@ -251,7 +251,7 @@ Join mes Melons à tes Poncires ;
 Et mesle parmy tes Pignons
 Mes Truffes et mes Champignons.
 
-**** *book_ *id_body-504 *act_ *date_1671 *creator_perrin
+**** *book_ *id_I04 *act_ *date_1671 *creator_perrin
 
 -*who_faune
 C'est bien à toy, Dieu miserable,
@@ -320,7 +320,7 @@ Cueillez pour eux des guirlandes fleuries.
 Et vous, ma sœur,
 Couronnez le vainqueur.
 
-**** *book_ *id_body-505 *act_ *date_1671 *creator_perrin
+**** *book_ *id_I05 *act_ *date_1671 *creator_perrin
 
 -*who_faune_ledieudesjardins
 Donnez-luy vostre main, donnez-luy vostre cœur.
@@ -334,7 +334,7 @@ Pour vous l'épine et les chardons.
 -*who_flore_juturne_venilie_beroe
 Ah !pour un plus heureux, etc.
 
-**** *book_ *id_body-506 *act_ *date_1671 *creator_perrin
+**** *book_ *id_I06 *act_ *date_1671 *creator_perrin
 
 -*who_faune
 Voyla le prix de vos Musiques,
@@ -347,7 +347,7 @@ Et dequoy paistre ses Bourriques⁎.
 -*who_ledieudesjardins_lesjardiniers
 Voyla le fruit, etc.
 
-**** *book_ *id_body-507 *act_ *date_1671 *creator_perrin
+**** *book_ *id_I07 *act_ *date_1671 *creator_perrin
 
 -*who_vertune
 Helas !que me sert-il de changer tous les jours
@@ -367,7 +367,7 @@ Hola, Follets, venez, volez, suivez mes pas,
 Mais ne vous monstrez pas,
 A mes loix seulement rendez obeyssance.
 
-**** *book_ *id_body-701 *act_ *date_1671 *creator_perrin
+**** *book_ *id_II01 *act_ *date_1671 *creator_perrin
 
 -*who_beroe
 Ah ! n'est-ce pas assez qu'on aime et qu'on soupire
@@ -381,7 +381,7 @@ Que la glace⁎ des ans ne fait que rallumer ;
 J'ayme un Dieu… le voicy, tachons de le surprendre ;
 Il réve à ses amours, cachons-nous pour l'entendre.
 
-**** *book_ *id_body-702 *act_ *date_1671 *creator_perrin
+**** *book_ *id_II02 *act_ *date_1671 *creator_perrin
 
 -*who_vertune
 O doux Zephirs
@@ -403,7 +403,7 @@ Join à l'amour la ruse et la surprise⁎.
 Il faut l'attendre icy ; dans ce bocage⁎ vert,
 Elle cherche souvent le frais et le couvert⁎.
 
-**** *book_ *id_body-703 *act_ *date_1671 *creator_perrin
+**** *book_ *id_II03 *act_ *date_1671 *creator_perrin
 
 -*who_beroe
 Quoy toujours inflexible,
@@ -428,7 +428,7 @@ Un moment encor et je meurs.
 -*who_vertune
 Il faut l'épouvanter et luy donner la fuite.
 
-**** *book_ *id_body-704 *act_ *date_1671 *creator_perrin 
+**** *book_ *id_II04 *act_ *date_1671 *creator_perrin 
 
 -*who_beroe
 Que voyez-vous mes yeux ?
@@ -442,7 +442,7 @@ Arrache moy la vie
 Je béniray mon sort,
 Et je ne puis mourir d'une plus douce mort.
 
-**** *book_ *id_body-705 *act_ *date_1671 *creator_perrin
+**** *book_ *id_II05 *act_ *date_1671 *creator_perrin
 
 -*who_beroe
 Mais quel éclair ? quel horrible tonnerre ?
@@ -468,13 +468,13 @@ Me donner de la peur ?
 Au secours, je suis morte,
 On m'entraisne, on m'emporte.
 
-**** *book_ *id_body-706 *act_ *date_1671 *creator_perrin
+**** *book_ *id_II06 *act_ *date_1671 *creator_perrin
 
 -*who_ledieudesjardins_lesjardiniers
 Pauvre Nourrisse, helas ! tes cris sont superflus.
 Donnons, donnons, frapons dessus.
 
-**** *book_ *id_body-707 *act_ *date_1671 *creator_perrin
+**** *book_ *id_II07 *act_ *date_1671 *creator_perrin
 
 -*who_follets_bergeres1
 Tu veux m'assassiner ?
@@ -566,7 +566,7 @@ Cueillir les doux fruits de l'amour.
 -*who_jardinier1_jardinier2_jardinier3_jardinier4
 Allons sur les vertes etc.
 
-**** *book_ *id_body-708 *act_ *date_1671 *creator_perrin
+**** *book_ *id_II08 *act_ *date_1671 *creator_perrin
 
 -*who_ledieudesjardins_lesjardiniers
 Peste⁎ !quel changement⁎ ?quelle metamorphose ?
@@ -616,7 +616,7 @@ Que le sage et le tendre.
 -*who_ledieudesjardins_lesjardiniers
 Apprenez, apprenez, etc.
 
-**** *book_ *id_body-901 *act_ *date_1671 *creator_perrin
+**** *book_ *id_III01 *act_ *date_1671 *creator_perrin
 
 -*who_vertune
 A la fin délivré d'une troupe importune,
@@ -624,7 +624,7 @@ Je puis me transformer et paréstre à ses yeux.
 La voicy, cachons-nous : Destin, Amour, Fortune,
 Favorisez mes vœux.
 
-**** *book_ *id_body-902 *act_ *date_1671 *creator_perrin
+**** *book_ *id_III02 *act_ *date_1671 *creator_perrin
 
 -*who_pomone_venilie
 Sortez, petits Oyseaux, sortez de vos boccages,
@@ -635,7 +635,7 @@ Volez, doux Rossignols, volez dans ces feüillages,
 Venez, Serins, venez, venez Pinsons,
 Et meslez, etc.
 
-**** *book_ *id_body-903 *act_ *date_1671 *creator_perrin
+**** *book_ *id_III03 *act_ *date_1671 *creator_perrin
 
 -*who_vertune_pluton
 Charmé de tes accents, adorable Pomone,
@@ -648,7 +648,7 @@ Dans mes regards tu les pourras connestre :
 Si tu doutes de mes grandeurs
 Voy de quels biens je suis le maistre.
 
-**** *book_ *id_body-904 *act_ *date_1671 *creator_perrin 
+**** *book_ *id_III04 *act_ *date_1671 *creator_perrin 
 
 -*who_vertune_pluton
 Mon throne et mes tresors, ma flame et mes langueurs⁎
@@ -678,7 +678,7 @@ Liberté, liberté.
 Hé bien garde ta pauvreté,
 Adieu, c'est trop aimer une ingrate⁎ beauté.
 
-**** *book_ *id_body-905 *act_ *date_1671 *creator_perrin
+**** *book_ *id_III05 *act_ *date_1671 *creator_perrin
 
 -*who_juturne_venilie
 Liberté, liberté.
@@ -703,7 +703,7 @@ N'est qu'ombre et vanité.
 -*who_pomone_venilie_juturne
 Liberté, liberté.
 
-**** *book_ *id_body-906 *act_ *date_1671 *creator_perrin 
+**** *book_ *id_III06 *act_ *date_1671 *creator_perrin 
 
 -*who_vertune
 J'ay perdu mes soins et mes pas :
@@ -711,7 +711,7 @@ Mais je ne me rends pas :
 Achevons l'imposture⁎,
 Et l'abordons sous une autre figure.
 
-**** *book_ *id_body-907 *act_ *date_1671 *creator_perrin
+**** *book_ *id_III07 *act_ *date_1671 *creator_perrin
 
 -*who_follets_satyres1_follets_satyres2_follets_satyres3
 Place, place voisins,
@@ -768,7 +768,7 @@ Rien n'est si doux,
 -*who_follets_satyres1_follets_satyres2_follets_satyres3_pomone_juturne_venilie_vertune_bacchus
 Vive nostre aymable liqueur. Ritorn⁎.
 
-**** *book_ *id_body-908 *act_ *date_1671 *creator_perrin 
+**** *book_ *id_III08 *act_ *date_1671 *creator_perrin 
 
 -*who_faune
 O Dieux ! quelle chaleur m'enflame !
@@ -792,7 +792,7 @@ Il faut le secourir,
 Donnez-luy du meilleur du muy,
 Enfants, faites-le boire, et beuvez avec luy.
 
-**** *book_ *id_body-909 *act_ *date_1671 *creator_perrin 
+**** *book_ *id_III09 *act_ *date_1671 *creator_perrin 
 
 -*who_follets_satyres1_follets_satyres2_follets_satyres3
 Beuvons tous à la ronde,
@@ -850,7 +850,7 @@ A grand coups de leviers⁎.
 -*who_follets_satyres1_follets_satyres2_follets_satyres3 
 Ah ! le fat⁎, etc.
 
-**** *book_ *id_body-1101 *act_ *date_1671 *creator_perrin
+**** *book_ *id_IV01 *act_ *date_1671 *creator_perrin
 
 -*who_beroe
 Sors de mon cœur,
@@ -869,7 +869,7 @@ De nouveaux⁎ artifices,
 Et n'a pas épuisé sa ruse et ses malices⁎,
 Observons ses desseins, fourbe, lâche imposteur⁎.
 
-**** *book_ *id_body-1102 *act_ *date_1671 *creator_perrin 
+**** *book_ *id_IV02 *act_ *date_1671 *creator_perrin 
 
 -*who_vertune
 Amour, dy-moy, que dois-je faire,
@@ -889,7 +889,7 @@ Et luy parler moy-mesme
 De mon amour extréme,
 Je veux…mais la voicy.
 
-**** *book_ *id_body-1103 *act_ *date_1671 *creator_perrin
+**** *book_ *id_IV03 *act_ *date_1671 *creator_perrin
 
 -*who_pomone
 Qui cause ce soûpir
@@ -905,7 +905,7 @@ Dont elle est travaillée⁎,
 Allons sous la verte feüillée
 Voir danser nos cüeilleurs de fruits.
 
-**** *book_ *id_body-1104 *act_ *date_1671 *creator_perrin
+**** *book_ *id_IV04 *act_ *date_1671 *creator_perrin
 
 -*who_pomone
 Mais te voila, Nourrisse,
@@ -913,7 +913,7 @@ Hé qui t'a fait absenter si long-temps ?
 Il faut qu'un baiser t'en punisse.
 Mets-toy là, bonne mere, et voy nos passetemps.
 
-**** *book_ *id_body-1106 *act_ *date_1671 *creator_perrin 
+**** *book_ *id_IV06 *act_ *date_1671 *creator_perrin 
 
 -*who_pomone
 Hé bien ! que dis-tu ma sœur
@@ -973,7 +973,7 @@ S'ébranle en un instant.
 -*who_beroe
 Je te tiens, fourbe, lâche.
 
-**** *book_ *id_body-1107 *act_ *date_1671 *creator_perrin
+**** *book_ *id_IV07 *act_ *date_1671 *creator_perrin
 
 -*who_vertune
 Dequoy m'accuses-tu ? quel crime ay-je commis ?
@@ -1033,7 +1033,7 @@ Et je sents
       ce que je n'ose dire
 Et je sents que mon cœur partage ton martire.
 
-**** *book_ *id_body-1108 *act_ *date_1671 *creator_perrin
+**** *book_ *id_IV08 *act_ *date_1671 *creator_perrin
 
 -*who_pomone_flore_vertune
 O puissance d'amour ! ô divin changement⁎ !
@@ -1042,7 +1042,7 @@ Les honneurs, la richesse
 Ont tenté vainement ;
 L'amour et la beauté le font en un moment.
 
-**** *book_ *id_body-1109 *act_ *date_1671 *creator_perrin
+**** *book_ *id_IV09 *act_ *date_1671 *creator_perrin
 
 -*who_faune
 Pauvre Dieu des Jardins !
@@ -1071,7 +1071,7 @@ Le Ciel me faisoit la Venus ;
 Il en auroit le front aussi bien que la forme,
 Et ne cederoit point aux Dieux les plus cornus.
 
-**** *book_ *id_body-1301 *act_ *date_1671 *creator_perrin
+**** *book_ *id_V01 *act_ *date_1671 *creator_perrin
 
 -*who_pomone
 En vain tu veux me faire voir
@@ -1092,7 +1092,7 @@ Qu'une magnificence.
 Mais voicy nostre sœur, dont le soin complaisant⁎
 Nous regale aujourd'huy d'un aimable present.
 
-**** *book_ *id_body-1302 *act_ *date_1671 *creator_perrin
+**** *book_ *id_V02 *act_ *date_1671 *creator_perrin
 
 -*who_flore
 Vous ne manquez pas de couronne,
@@ -1104,7 +1104,7 @@ Est le Chappeau d'Hymen que ma main vous presente.
 Passez dans ses plaisirs et les jours et les nuits,
 Portez ses fleurs, goustez ses fruits. Ritorn⁎.
 
-**** *book_ *id_body-1303 *act_ *date_1671 *creator_perrin 
+**** *book_ *id_V03 *act_ *date_1671 *creator_perrin 
 
 -*who_ledieudesjardins
 Je vous offre, grands Dieux, le present d'un pauvre homme,
@@ -1119,7 +1119,7 @@ A ma belle maistresse.
 Pages, valets,
 Qu'on serve ma Deesse.
 
-**** *book_ *id_body-1304 *act_ *date_1671 *creator_perrin
+**** *book_ *id_V04 *act_ *date_1671 *creator_perrin
 
 -*who_vertune
 Qu'on enfonce mille tonneaux,
@@ -1127,7 +1127,7 @@ Que le vin coule à plein ruisseaux.
 Que le Haut-bois s'apreste
 A celebrer la feste.
 
-**** *book_ *id_body-1305 *act_ *date_1671 *creator_perrin
+**** *book_ *id_V05 *act_ *date_1671 *creator_perrin
 
 -*who_vertune
 Vous, Esclaves, dansez,
@@ -1139,7 +1139,7 @@ Sous mille plaisantes images,
 Et pour la divertir, formez dans les nüages
 Des spectacles charmants, et d'aymables concerts⁎.
 
-**** *book_ *id_body-1306 *act_ *date_1671 *creator_perrin
+**** *book_ *id_V06 *act_ *date_1671 *creator_perrin
 
 -*who_follets_amours 
 Venez, Dieux et mortels, à cette grande feste,
@@ -1165,7 +1165,7 @@ Voicy le jour, voicy le temps,
 Des jeux des ris, des passe-temps.
 Sautons, rions, dansons, et chantons, etc. Ritorn⁎.
 
-**** *book_ *id_body-1307 *act_ *date_1671 *creator_perrin
+**** *book_ *id_V07 *act_ *date_1671 *creator_perrin
 
 -*who_faune
 Sautons, rions, dansons, etc.
@@ -1176,7 +1176,7 @@ Nous les porterons sur le front ;
 Mais les miennes y paroistront,
 Les siennes seront invisibles.
 
-**** *book_ *id_body-1308 *act_ *date_1671 *creator_perrin
+**** *book_ *id_V08 *act_ *date_1671 *creator_perrin
 
 -*who_faune
 Et toy, Nourisse, aussi,

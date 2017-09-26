@@ -648,7 +648,7 @@ Jusques entre mes bras venir ravir ma fille !
 S'attaquer à l'honneur d'une illustre famille !  
 Il faut mourir... Ah, Ciel ! mon unique recours.  
 
-    DON JUAN, LUI PORTANT UN COUP D'ÉPÉE.
+    DON JUAN, LUI PORTANT UN COUP D’ÉPÉE.
 Appelle maintenant le Ciel à ton secours,  
 Voilà ce que mérite un insolent langage.  
 
@@ -776,7 +776,7 @@ Qu'un moment coûte cher souvent aux amoureux !
 
 ## SCÈNE IV.
 
-    PHILIPIN, SORTANT D'OÙ IL S'ÉTAIT CACHÉ.
+    PHILIPIN, SORTANT D’OÙ IL S’ÉTAIT CACHÉ.
 Les tueurs sont partis, sortons de ma cachette ;  
 Je suis presque aveuglé de faire l'échauguette,  
 Pour voir ce que ferait ce malheureux causeur :  
@@ -2555,7 +2555,7 @@ Dans cette hôtellerie, à deux cents pas d'ici.
     PHILIPIN.
 Ombre, viendrez vous pas ? dites.  
 
-    L'OMBRE.
+    L’OMBRE.
     Oui.  
 
     PHILIPIN, EN TOMBANT.
@@ -2792,7 +2792,7 @@ Quelle démarche grave !
         Ho, Philipin ! Un siège.  
 Tu sois le bienvenu.  
 
-    PHILIPIN, EN METTANT LE SIÈGE SOUS L'OMBRE.
+    PHILIPIN, EN METTANT LE SIÈGE SOUS L’OMBRE.
         Justes Dieux ! que ferai-je ?  
 L'Ombre, ou moi, sentons mal.  
 
@@ -2804,7 +2804,7 @@ Pour dire tout aussi, cette pauvre retraite
 Où tu vois que je suis fort mal commodément  
 Fait que je ne puis pas te traiter autrement.  
 
-    L'OMBRE.
+    L’OMBRE.
 Ni tes mets plus exquis, ni ta meilleure chère,  
 N'est pas ce que de toi présentement j'espère.  
 Je viens voir, sur le point de ta punition,  
@@ -2837,7 +2837,7 @@ Que je le serais plus du moindre vent qui passe.
 Tu crois m'intimider à force de parler,  
 Mais apprends que mon coeur ne se peut ébranler.  
 
-    L'OMBRE.
+    L’OMBRE.
 Tu présumes peut être, et tu te persuades,  
 Que les esprits des morts sont des esprits malades  
 Qui, dépouillés des corps, le sont de la raison,  
@@ -2894,7 +2894,7 @@ Eh bien ! approche donc et me tiens compagnie.
 À moi n'appartient pas tant tant de braverie.  
 Esprit, si vous vouliez un peu vous sustenter...  
 
-    L'OMBRE.
+    L’OMBRE.
 Ah ! J'ai bien d'autres mets dont je m'en vais goûter ;  
 Ils seront éternels, mais ce bien périssable  
 Ne durera qu'autant que tu seras à table.  
@@ -2937,7 +2937,7 @@ Le drôle a bien eu la raison.
 Ombre, qu'en dites-vous ? La chanson est gentille !  
 Chante un peu le combat gagné sur Amarille.  
 
-    L'OMBRE, SE RELEVANT ET SE LAISSANT RECHOIR.
+    L’OMBRE, SE RELEVANT ET SE LAISSANT RECHOIR.
 Ah !  
 
     DON JUAN.
@@ -2947,28 +2947,28 @@ Tu peux nous dire adieu bientôt, et grand merci.
     PHILIPIN.
 Monsieur, c'est fort bien dit, qu'il aille à tous les diables.  
 
-    L'OMBRE.
+    L’OMBRE.
 Misérable valet entre les misérables !  
 
     PHILIPIN, SE METTANT À GENOUX.
 Hélas ! Monsieur l'Esprit, je ne vous ai rien fait ;  
 Ayez pitié de moi.  
 
-    L'OMBRE.
+    L’OMBRE.
         Malheureux, en effet,  
 De suivre aveuglément les débauches d'un maître.  
 
     PHILIPIN.
 Hélas ! Vous dites vrai.  
 
-    L'OMBRE.
+    L’OMBRE.
         Plus perfide et plus traître  
 Que tous les scélérats.  
 
     PHILIPIN.
         Je lui dis tous les jours.  
 
-    L'OMBRE.
+    L’OMBRE.
 Qui l'as toujours servi dans ses sales amours.  
 
     PHILIPIN.
@@ -2994,7 +2994,7 @@ Une âme inébranlable et de crainte incapable ;
 Et quand je toucherais à mon dernier instant,  
 Je te crains aussi peu mort que j'ai fait vivant.  
 
-    L'OMBRE.
+    L’OMBRE.
 Puisque ton âme enfin est si bien résolue,  
 Que sans crainte tu pus attendre ma venue,  
 Je suis fort satisfait de ta réception ;  
@@ -3004,7 +3004,7 @@ Je te prie à souper.
     DON JUAN.
     J'irai sans faute.  
 
-    L'OMBRE.
+    L’OMBRE.
         Espère  
 Qu'un mort, quoique offensé, te fera bonne chère.  
 Je t'ai tenu parole en me trouvant ici,  
@@ -3013,13 +3013,13 @@ Me tiendras tu la tienne ?
     DON JUAN.
     Oui, sans peur.  
 
-    L'OMBRE.
+    L’OMBRE.
         Grand merci.  
 
     DON JUAN.
 Mais où vas-tu m'attendre ?  
 
-    L'OMBRE.
+    L’OMBRE.
         Au plus tard dans une heure,  
 Sur mon propre tombeau.  
 
@@ -3132,7 +3132,7 @@ Vous en aurez menti, voilà mon gendre.
     PHILÉMON.
 Lui-même.  
 
-    DON JUAN, EN FAISANT TOMBER PHILÉMON ET LE MARIÉ D'UN COUP DE PIED.
+    DON JUAN, EN FAISANT TOMBER PHILÉMON ET LE MARIÉ D’UN COUP DE PIED.
         Je le veux, mais c'est ici ma femme.  
 
     PHILÉMON.
@@ -3252,7 +3252,7 @@ La sépulture s'ouvre, et l'on voit la table garnie de crapauds, de serpents, et
 
 ## SCÈNE VII. L'Ombre, Don Juan, Philipin.
 
-    L'OMBRE.
+    L’OMBRE.
 Il ne faut point heurter, je t'ai bien entendu.  
 
     PHILIPIN, TOMBANT PAR TERRE.
@@ -3262,7 +3262,7 @@ Ah ! je suis mort.
         Tu vois que je me suis rendu  
 À l'assignation, et tenu ma parole.  
 
-    L'OMBRE.
+    L’OMBRE.
 Écoute donc la mienne, elle n'est pas frivole,  
 Et sans doute elle doit t'imprimer dans le coeur  
 Des repentirs cuisants pour ton proche malheur.  
@@ -3285,7 +3285,7 @@ De matière agréable et plus divertissante,
 Je demeure ; sinon je vais prendre congé :  
 À bien d'autres plaisirs je me suis engagé.  
 
-    L'OMBRE.
+    L’OMBRE.
 Je sais bien que ton corps tient beaucoup à la terre,  
 Malheureux, mais bientôt les éclats du tonnerre  
 Le vont réduire en poudre, et ton âme aux Enfers,  
@@ -3299,7 +3299,7 @@ Manges en attendant.
         Et que diable manger ?  
 Quels mets me sers-tu là ?  
 
-    L'OMBRE.
+    L’OMBRE.
         Nous n'en avons point d'autres.  
 Je sais très bien qu'ils sont fort différents des vôtres,  
 Mais je te donne ici ce qu'on sert chez les morts.  
@@ -3323,7 +3323,7 @@ Adieu donc, Philipin, dans un demi-quart d'heure.
     DON JUAN.
 Meurs, si tu veux ; pour moi, je ne veux pas mourir.  
 
-    L'OMBRE.
+    L’OMBRE.
 Et qui crois-tu, méchant, qui te pût secourir ?  
 Tous les dieux ont juré ta perte inévitable,  
 Tout l'univers la veut, elle est indubitable.  
@@ -3337,7 +3337,7 @@ Que tu ne reverras jamais un lendemain.
     PHILIPIN, EN TOMBANT PAR TERRE.
 Miséricorde !  
 
-    L'OMBRE.
+    L’OMBRE.
         Au Ciel crois tu tant d'injustice,  
 Qu'il voulût d'un moment différer ton supplice ?  
 Quoi ! ton père meurtri, moi même assassiné,  
@@ -3371,7 +3371,7 @@ Soit que je sois ou loin ou proche de ma fin,
 Sache que ni l'Enfer, ni le Ciel ne me touche,  
 Et que c'est un arrêt prononcé par ma bouche.  
 
-    L'OMBRE.
+    L’OMBRE.
 C'en est trop, exécrable, et le Ciel irrité  
 Va prescrire le terme à ton impiété,  
 Et ton âme exposée aux tourments légitimes  

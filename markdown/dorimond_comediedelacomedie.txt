@@ -15,7 +15,7 @@ M. DC. LXII. AVEC PRIVILEGE DU ROI.
 
 
 # EXTRAIT DU PRIVILÈGE DU ROI. Par grâce et privilège du Roi, donné à Paris le vingt-sixième Mars 1661. Signé, Par le Roi en son Conseil, DE FAYES. Il est permis au Sieur DORIMOND, Comédien de Mademoiselle, de faire imprimer une pièce de théâtre intitulée La Comédie de la Comédie et les Amours de Trapolin, par lui composée et représentée par la Troupe de Mademoiselle à Paris, par tel imprimeur et libraire qu'il voudra choisir, pendant cinq années. Et défenses sont faites à tous autres de l'imprimer ni vendre d'autre édition que celle de l'exposant, ou de ceux qui auront droit de lui, à peine de deux mille livres d'amende, de tous dépens, dommages et intérêts, comme il est porté plus amplement par lesdites Lettres de Privilège. Et ledit Sieur Dorimond a cédé et transporté son privilège à Jean Ribou, et Gabriel Quinet, marchands libraires à Paris, pour en jouir suivant l'accord fait entre eux. Registré sur le Livre de la Communauté, suivant l'Arrest de la Cour. Signé JOSSE, Syndic. Les Exemplaires ont été fournis.Achevé d'imprimer pour la première fois, le 22. Janvier 1662.À PARIS, Chez JEAN RIBOU, sur le Quai des Augustins, à L'Image Saint Louis.
-
+ [1]
 À MONSIEUR DE VAISSÉ.
 
 
@@ -35,7 +35,7 @@ DORIMOND.
  – DEUX GALANTS.
  – LE PORTIER DES COMÉDIENS.
  – UNE COMÉDIENNE.
- – TROUPE DE FILOUS. [1]
+ – TROUPE DE FILOUS.
 
 
 # .
@@ -203,19 +203,19 @@ Vous allez au théâtre où je vous conduirai.   [9]
 Ma soeur veut vous donner un fort beau point de Gênes,  
 Et moi des citrons doux, et de la porcelaine.  
 
-    L'ÉPINAI.
+    L’ÉPINAI.
 Et moi des gants d'Espagne.  
 
     LE GALANT.
         Et moi de beaux rubans.  
 
-    L'ÉPINAI.
+    L’ÉPINAI.
 Et moi de la pommade.  
 
     LE GALANT.
         Et moi de beaux pendants.  
 
-    L'ÉPINAI.
+    L’ÉPINAI.
 Et moi des épagneuls qui viennent de Boulogne.  
 
     LE GALANT.
@@ -225,13 +225,13 @@ Et moi ce que j'ai de pris de rare en Catalogne.
 Et de gâce, Messieurs, ne vous échauffez pas :  
 Pour prendre vos présents, j'ai trop peu de deux bras.  
 
-    L'ÉPINAI.
+    L’ÉPINAI.
 Elle a le teint fort beau.  
 
     LE GALANT.
         Et la taille gentille.  
 
-    L'ÉPINAI.
+    L’ÉPINAI.
 Son oeil me plaît assez.  
 
     LE GALANT.
@@ -239,7 +239,7 @@ Son oeil me plaît assez.
 Aimez-moi je, vous prie, et m'appelez « mon coeur »,  
 Et je vous nommerai ma mignonne et ma soeur.  
 
-    L'ÉPINAI.
+    L’ÉPINAI.
 Vous faites, par ma foi, fort bien la comédie :  
 Quand vous parlez d'amour, que vous estes jolie !  
 
@@ -259,7 +259,7 @@ Qui sont trop relevés pour tous vos compliments.
 Je sens que la fierté s'empare de mon âme :  
 Ce n'est que pour des rois que mon coeur est de flamme.  
 
-    L'ÉPINAI.
+    L’ÉPINAI.
 Vous allez bien jouer étant de cette humeur,  
 Votre rôle est-il plain d'amour, ou de rigueur ?  
 
@@ -268,7 +268,7 @@ Je vis hier jouer une pièce nouvelle,
 Au Théâtre François dont la prose est fort belle :   [10]
 C'est le pompeux Cinna, les traits en sont nouveaux.  
 
-    L'ÉPINAI.
+    L’ÉPINAI.
 J'aime Thomas Morus, les vers en sont forts beaux.  
 
     LA COMÉDIENNE.
@@ -282,7 +282,7 @@ Et vous parlez des vers comme font les corneilles.
     LE GALANT.
 On me vient de donner un sonnet merveilleux.  
 
-    L'ÉPINAI.
+    L’ÉPINAI.
 Combien a-t-il de vers.  
 
     LE GALANT. [11]

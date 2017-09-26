@@ -2,7 +2,7 @@
 identifier: rosimond_festindepierre  
 creator: Rosimond Jean-Baptiste du Mesnil dit Claude La Rose  
 date: 1669  
-title: Le Nouveau Festin de Pierre. , ou l'athée foudroyé. tragi-comédie.  
+title: Le Nouveau Festin de Pierre. , ou l’athée foudroyé. tragi-comédie.  
 ---
 
 
@@ -469,7 +469,7 @@ Remettez-leur le soin de vous être propices.
     LÉONOR.
 Ah ! Crains leur châtiment...  
 
-    DON JUAN, S'EN ALLANT.
+    DON JUAN, S’EN ALLANT.
         Vous m'en parlez en vain,  
 J'en attends les effets pour en être certain.  
 
@@ -884,7 +884,7 @@ La personne est jolie ; où courez-vous, la belle ?
     CARRILLE.
 Voici pour mon patron une dîme nouvelle.  
 
-    THOMASSE, VOULANT S'EN ALLER, DON JUAN LA RETIENT.
+    THOMASSE, VOULANT S’EN ALLER, DON JUAN LA RETIENT.
 Ah ! ne m'arrêtez pas.  
 
     DON JUAN.
@@ -1821,7 +1821,7 @@ Trois, quatre, cinq, hélas !
         Sans doute ce sont eux.  
 Comme on me l'a dépeint, c'est Don Juan.  
 
-    CARRILLE, S'ENFUYANT.
+    CARRILLE, S’ENFUYANT.
         Mon maître,  
 Et vite, sauvons-nous, nous voilà pris !  
 
@@ -1935,7 +1935,7 @@ Carrille, le dessin m'en parait assez beau.
 On voit un tombeau accompagné de figures. Don Pierre sur un genou, une main sur un prie-Dieu.
 
 
-    CARRILLE, L'AYANT REGARDÉ.
+    CARRILLE, L’AYANT REGARDÉ.
 C'est votre Commandeur, c'est lui-même, mon maître.  
 ÉPITAPHE.
 
@@ -2306,7 +2306,7 @@ Un valet donne à laver, et Carrille présente la serviette.
 Ah, que de tous ces mets, l'odeur est agréable !  
 Si je pouvais...  
 
-    DON FELIX, APRÈS QU'ILS SONT TOUS À TABLE.
+    DON FELIX, APRÈS QU’ILS SONT TOUS À TABLE.
         Ma foi, ce souper est passable.  
 
     DON JUAN.
@@ -2488,12 +2488,12 @@ Que ne suis-je bien loin ?
 
 ## SCÈNE IV. Don Juan, Don Lope, Don Felix, Carrille, L'Ombre.
 
-    DON JUAN, APRÈS QUE L'OMBRE EST SUR SON SIÈGE ET QU'ILS SE SOIENT REMIS À TABLE HORS CARRILLE QUI EST À UN BOUT DU THÉÂTRE.
+    DON JUAN, APRÈS QUE L’OMBRE EST SUR SON SIÈGE ET QU’ILS SE SOIENT REMIS À TABLE HORS CARRILLE QUI EST À UN BOUT DU THÉÂTRE.
 Ombre, tu viens à temps, pour faire bonne chère,  
 Et si tu veux manger, tu peux te satisfaire.  
 Goûte de ce morceau. Quoi ! Tu ne manges pas ?  
 
-    L'OMBRE.
+    L’OMBRE.
 Je ne viens point ici pour faire un repas,  
 Ces soutiens infinis de la terre et de l'onde,  
 Dont le pouvoir tira d'un rien l'être du monde,  
@@ -2512,7 +2512,7 @@ Que viens-tu nous conter ?
     DON FELIX.
         L'agréable entretien !  
 
-    L'OMBRE.
+    L’OMBRE.
 Et vous, ses chers amis, qui n'appréhendez rien,  
 Vous dont il a suivi les damnables maximes,  
 Craignez les châtiments qui sont dûs à vos crimes,  
@@ -2526,7 +2526,7 @@ Tu ne viens donc ici qu'à dessein de prêcher ?
 Va, va, tu perds ton temps à vouloir nous toucher,  
 Laisse là tes avis, et parlons d'autre chose.  
 
-    L'OMBRE.
+    L’OMBRE.
 Songez, songez au choix qu'ici je vous propose,  
 Changez tous trois de vie, et redoutez les dieux.  
 
@@ -2545,7 +2545,7 @@ Et l'on doit sans remords jouir de ses appâts,
 Se servir du présent, et sans tant nous contraindre  
 Pour l'avenir...  
 
-    L'OMBRE.
+    L’OMBRE.
         Et c'est ce que vous devez craindre.  
 
     DON JUAN.
@@ -2560,7 +2560,7 @@ Dont l'homme résolu ne s'épouvante guère,
 Et ce qu'il souffre en nous fait connaître en tous lieux  
 La faiblesse de l'homme et l'abus de tes dieux.  
 
-    L'OMBRE.
+    L’OMBRE.
 Impie ! Ah, Don Juan ! songe à te reconnaître.  
 
     DON JUAN.
@@ -2576,7 +2576,7 @@ Que, sans aucun remords, je prétends la poursuivre.
 Tu sais déjà le mien, rien ne me changera,  
 Et soit perte ou bonheur, arrive qui pourra.  
 
-    L'OMBRE.
+    L’OMBRE.
 Tremblez au nom des dieux, et craignez leur puissance ;  
 Ils m'ont remis le soin de leur juste vengeance,  
 Et le sort de tous trois se trouve en mon pouvoir.  
@@ -2584,10 +2584,10 @@ Et le sort de tous trois se trouve en mon pouvoir.
     DON FELIX.
 Va, va, nous le croirons, si tu nous le fais voir.  
 
-    L'OMBRE.
+    L’OMBRE.
 Malheureux, songe à toi. Je puis dans cette place...  
 
-    DON FELIX, METTANT L'ÉPÉE À LA MAIN.
+    DON FELIX, METTANT L’ÉPÉE À LA MAIN.
 Ah ! C'est trop endurer, qu'une Ombre nous menace.  
 
     DON LOPE, TIRANT AUSSI LA SIENNE.
@@ -2596,20 +2596,20 @@ Et délivrons nos yeux de ce fâcheux censeur.
 Don Juan demande à boire, et, ses amis périssant, il quitte son verre. Mais après le mot que l'Ombre dit : Qu'en dis-tu ? il boit.
 
 
-    L'OMBRE, LES FAIT ABÎMER AUX DEUX BOUTS DE LA TABLE OÙ ILS SONT, ET CARRILLE TOMBE À TERRE EN MÊME TEMPS.
+    L’OMBRE, LES FAIT ABÎMER AUX DEUX BOUTS DE LA TABLE OÙ ILS SONT, ET CARRILLE TOMBE À TERRE EN MÊME TEMPS.
 Ah ! Périssez, méchants, et lui servez d'exemples.  
 Voilà de ton destin une preuve assez ample.  
 
     CARRILLE, TOMBANT.
 Je suis mort.  
 
-    L'OMBRE.
+    L’OMBRE.
     Qu'en dis-tu ?  
 
     DON JUAN.
         C'est un coup du hasard.  
 
-    L'OMBRE.
+    L’OMBRE.
 Pour ton propre intérêt, tu dois y prendre part.  
 
     DON JUAN.
@@ -2618,7 +2618,7 @@ Ce n'est que pour leur sort, qui doit me faire envie.
 Mourir dans les plaisirs est un destin si doux  
 Qu'à ne rien te celer, Ombre, j'en suis jaloux.  
 
-    L'OMBRE.
+    L’OMBRE.
 Connais plutôt nos dieux, ce qu'ils ont fait paraître...  
 
     DON JUAN, RIANT.
@@ -2650,7 +2650,7 @@ Trouvez bon que d'ici, Monsieur, je me retire.
     DON JUAN.
 Demeure, je le veux, ou les coups de bâton...  
 
-    CARRILLE, S'EN ALLANT TOUT DOUCEMENT.
+    CARRILLE, S’EN ALLANT TOUT DOUCEMENT.
 N'importe, adroitement, sortons de la maison.  
 
     DON JUAN.
@@ -2692,7 +2692,7 @@ Est prête à se casser.
         Point de nouvelle,  
 Nous allons trop danser le branle de la mort.  
 
-    L'OMBRE.
+    L’OMBRE.
 Oui, Don Juan, dans peu tu finiras ton sort.  
 
     CARRILLE.
@@ -2705,13 +2705,13 @@ Tu me suivras partout.
         Bon ma fortune est faite  
 Sans aller en Hollande.  
 
-    L'OMBRE.
+    L’OMBRE.
         Enfin que résous-tu, Don Juan ?  
 
     DON JUAN.
 De mourir ainsi que j'ai vécu.  
 
-    L'OMBRE.
+    L’OMBRE.
 Un exemple pareil devrait être capable...  
 
     DON JUAN.
@@ -2719,7 +2719,7 @@ Non, dans mes sentiments je suis inébranlable,
 Et je verrais ici tout prêt pour mon trépas,  
 Que, malgré tes avis, je ne changerais pas.  
 
-    L'OMBRE.
+    L’OMBRE.
 C'est assez. Cependant leur justice offensée  
 Te donne encore le temps de changer de pensée,  
 Et pour savoir de moi quel sera ton destin,  
@@ -2728,7 +2728,7 @@ Je t'invite à manger.
     DON JUAN.
         Où sera ce festin ?  
 
-    L'OMBRE.
+    L’OMBRE.
 Sur mon tombeau.  
 
     DON JUAN.
@@ -2741,7 +2741,7 @@ Que promettez-vous là ?
     DON JUAN.
         Vous tairez-vous, maraud !  
 
-    L'OMBRE.
+    L’OMBRE.
 Amène ce valet.  
 
     CARRILLE.
@@ -3193,10 +3193,10 @@ Non, s'il vous plaît, Monsieur.
     DON JUAN.
 Mais quoi, pour me servir, n'es-tu pas nécessaire ?  
 
-    CARRILLE, S'EN ALLANT.
+    CARRILLE, S’EN ALLANT.
 Les morts vous serviront.  
 
-    DON JUAN, L'ARRÊTANT PAR LE BRAS.
+    DON JUAN, L’ARRÊTANT PAR LE BRAS.
         Et tu crois t'esquiver ?  
 Tu me suivras partout, quoi qu'il puisse arriver.  
 
@@ -3319,7 +3319,7 @@ Le tombeau paraît comme au troisième acte.
     CARRILLE.
 Ah ! Que pour mon profit ne suis-je loin d'ici !  
 
-    L'OMBRE.
+    L’OMBRE.
 Don Juan, songe à toi, tu vas cesser de vivre,  
 Si tu ne veux tenir le chemin qu'on doit suivre.  
 
@@ -3331,7 +3331,7 @@ Quoi ! de ton souvenir serait-elle effacée ?
 Faut-il te répéter qu'un coeur comme le mien  
 S'affranchit des remords et ne redoute rien ?  
 
-    L'OMBRE.
+    L’OMBRE.
 Non, mais ces mêmes dieux que ta fureur offense  
 Toujours vers les mortels penchent à la clémence.  
 Le délai de ta perte augmentait leur bonté,  
@@ -3358,7 +3358,7 @@ Je prétends dès demain dans l'ardeur qui m'anime,
 Entasser mort sur mort et crime sur le crime.  
 Oui, malgré tes avis...  
 
-    L'OMBRE.
+    L’OMBRE.
         Redoute mon pouvoir.  
 
     DON JUAN.
@@ -3367,7 +3367,7 @@ Va, va, je n'en crois rien si tu ne le fais voir.
     CARRILLE.
 Taisez-vous, méchant homme, ou souffrez que je sorte.  
 
-    L'OMBRE.
+    L’OMBRE.
 Ah ! Cesse, Don Juan, la fureur qui t'emporte !  
 Repens-toi, repens-toi.  
 
@@ -3381,7 +3381,7 @@ Et je saurais mourir plutôt que d'en parler ;
 Et pour te faire voir qu'on ne peut m'y résoudre  
 Tonne quand il voudra, j'attends le coup de foudre.  
 
-    L'OMBRE.
+    L’OMBRE.
 Va, méchant, expier tes crimes dans les fers  
 Et connaître les Dieux par l'horreur des Enfers.  
 On entend un coup de tonnerre qui fait abîmer Don Juan et le théâtre paraît en feu.

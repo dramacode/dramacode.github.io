@@ -22,7 +22,7 @@ Représenté pour la première fois en décembre 1642 au Théâtre du Marais.
 
 # MONSEIGNEUR,.
 
-Je présente le grand Pompée à Votre Éminence, c'est-à-dire le plus grand personnage de l'ancienne Rome au plus illustre de la nouvelle. Je mets sous la protection du premier ministre de notre jeune roi un héros qui dans sa bonne fortune fut le protecteur de beaucoup de rois, et qui dans sa mauvaise eut encore des rois pour ses ministres. Il espère de la générosité de Votre Éminence qu'elle ne dédaignera pas de lui conserver cette seconde vie que j'ai tâché de lui redonner, et que lui rendant cette justice qu'elle fait rendre par tout le royaume, elle le vengera pleinement de la mauvaise politique de la cour d'Egypte. Il l'espère, et avec raison, puisque dans le peu de séjour qu'il a fait en France, il a déjà su de la voix publique que les maximes dont vous vous servez pour la conduite de cet Etat ne sont point fondées sur d'autres principes que sur ceux de la vertu. Il a su d'elle les obligations que vous a la France de l'avoir choisie pour votre seconde mère, qui vous est d'autant plus redevable, que les grands services que vous lui ren-dez sont de purs effets de votre inclination et de votre zèle, et non pas des devoirs de votre naissance. Il a su d'elle que Rome s'est acquittée envers notre jeune monarque de ce qu'elle devait à ses prédécesseurs, par le présent qu'elle lui a fait de votre personne. Il a su d'elle enfin que la solidité de votre prudence et la netteté de vos lumières enfantent des conseils si avantageux pour le gouvernement, qu'il semble que ce soit vous à qui, par un esprit de prophétie, notre Virgile ait adressé ce vers il y a plus de seize siècles :
+Je présente le grand Pompée à Votre Éminence, c'est-à-dire le plus grand personnage de l'ancienne Rome au plus illustre de la nouvelle. Je mets sous la protection du premier ministre de notre jeune roi un héros qui dans sa bonne fortune fut le protecteur de beaucoup de rois, et qui dans sa mauvaise eut encore des rois pour ses ministres. Il espère de la générosité de Votre Éminence qu'elle ne dédaignera pas de lui conserver cette seconde vie que j'ai tâché de lui redonner, et que lui rendant cette justice qu'elle fait rendre par tout le royaume, elle le vengera pleinement de la mauvaise politique de la cour d'Egypte. Il l'espère, et avec raison, puisque dans le peu de séjour qu'il a fait en France, il a déjà su de la voix publique que les maximes dont vous vous servez pour la conduite de cet État ne sont point fondées sur d'autres principes que sur ceux de la vertu. Il a su d'elle les obligations que vous a la France de l'avoir choisie pour votre seconde mère, qui vous est d'autant plus redevable, que les grands services que vous lui ren-dez sont de purs effets de votre inclination et de votre zèle, et non pas des devoirs de votre naissance. Il a su d'elle que Rome s'est acquittée envers notre jeune monarque de ce qu'elle devait à ses prédécesseurs, par le présent qu'elle lui a fait de votre personne. Il a su d'elle enfin que la solidité de votre prudence et la netteté de vos lumières enfantent des conseils si avantageux pour le gouvernement, qu'il semble que ce soit vous à qui, par un esprit de prophétie, notre Virgile ait adressé ce vers il y a plus de seize siècles :
 Tu regere imperio populos, Romane, memento.  
 
 Voilà, Monseigneur, ce que ce grand homme a appris en apprenant à parler français :
@@ -267,7 +267,7 @@ A fait rendre le sceptre au feu roi Ptolomée ;
 Mais la reconnaissance et l'hospitalité  
 Sur les âmes des rois n'ont qu'un droit limité.  
 Quoi que doive un monarque, et dût-il sa couronne,  
-Il doit à ses sujets encore plus qu'à personne,  
+Il doit à ses sujets encor plus qu'à personne,  
 Et cesse de devoir quand la dette est d'un rang  
 À ne point s'acquitter qu'aux dépens de leur sang.  
 S'il est juste d'ailleurs que tout se considère,  
@@ -379,7 +379,7 @@ Du trône et non du coeur je la veux éloigner,
 Car c'est ne régner pas qu'être deux à régner ;  
 Un roi qui s'y résout est mauvais politique :  
 Il détruit son pouvoir quand il le communique ;  
-Et les raisons d'état... Mais, seigneur, la voici.  
+Et les raisons d'état… Mais, seigneur, la voici.  
 
 
 ## SCÈNE III. Ptolomée, Cléopâtre, Photin.
@@ -446,10 +446,10 @@ Et que pour mon état j'ai jugé nécessaire.
     CLÉOPÂTRE.
 Je ne le vois que trop, Photin et ses pareils  
 Vous ont empoisonné de leurs lâches conseils :  
-Ces âmes que le ciel ne forma que de boue...  
+Ces âmes que le ciel ne forma que de boue…  
 
     PHOTIN.
-Ce sont de nos conseils, oui, madame, et j'avoue...  
+Ce sont de nos conseils, oui, madame, et j'avoue…  
 
     CLÉOPÂTRE.
 Photin, je parle au roi ; vous répondrez pour tous  
@@ -461,7 +461,7 @@ Je sais votre innocence, et je connais sa haine ;
 Après tout, c'est ma soeur, oyez sans repartir.  
 
     CLÉOPÂTRE.
-Ah ! S'il est encore temps de vous en repentir,  
+Ah ! S'il est encor temps de vous en repentir,  
 Affranchissez-vous d'eux et de leur tyrannie ;  
 Rappelez la vertu par leurs conseils bannie :  
 Cette haute vertu dont le ciel et le sang  
@@ -488,7 +488,7 @@ Fit quitter au feu roi son trône et sa patrie,
 Et que jusque dans Rome il alla du sénat  
 Implorer la pitié contre un tel attentat,  
 Il nous mena tous deux pour toucher son courage :  
-Vous, assez jeune encore ; moi, déjà dans un âge  
+Vous, assez jeune encor ; moi, déjà dans un âge  
 Où ce peu de beauté que m'ont donné les cieux  
 D'un assez vif éclat faisait briller mes yeux.  
 César en fut épris, et du moins j'eus la gloire  
@@ -505,7 +505,7 @@ Son amour en voulut seconder les efforts,
 Et nous ouvrant son coeur, nous ouvrit ses trésors :  
 Nous eûmes de ses feux, encore en leur naissance,  
 Et les nerfs de la guerre, et ceux de la puissance ;  
-Et les mille talents qui lui sont encore dûs  
+Et les mille talents qui lui sont encor dûs  
 Remirent en nos mains tous nos états perdus.  
 Le roi, qui s'en souvint à son heure fatale,  
 Me laissa comme à vous la dignité royale,  
@@ -615,7 +615,7 @@ Il croit cette âme basse, et se montre sans foi ;
 Mais s'il croyait la sienne, il agirait en roi.  
 
     CHARMION.
-Ainsi donc de César l'amante et l'ennemie...  
+Ainsi donc de César l'amante et l'ennemie…  
 
     CLÉOPÂTRE.
 Je lui garde ma flamme exempte d'infamie,  
@@ -644,7 +644,7 @@ La fortune le suit, et l'amour l'accompagne.
 Son bras ne dompte point de peuples ni de lieux  
 Dont il ne rende hommage au pouvoir de mes yeux ;  
 Et de la même main dont il quitte l'épée,  
-Fumante encore du sang des amis de Pompée,  
+Fumante encor du sang des amis de Pompée,  
 Il trace des soupirs, et d'un style plaintif  
 Dans son champ de victoire il se dit mon captif.  
 Oui, tout victorieux il m'écrit de Pharsale ;  
@@ -694,7 +694,7 @@ Qu'elle mène sans honte au faîte des grandeurs ;
 Et je la désavoue alors que sa manie  
 Nous présente le trône avec ignominie.  
 Ne t'étonne donc plus, Charmion, de me voir  
-Défendre encore Pompée et suivre mon devoir.  
+Défendre encor Pompée et suivre mon devoir.  
 Ne pouvant rien de plus pour sa vertu séduite,  
 Dans mon âme en secret je l'exhorte à la fuite,  
 Et voudrais qu'un orage, écartant ses vaisseaux,  
@@ -836,7 +836,7 @@ Et d'un peu de poussière élever un tombeau
 À celui qui du monde eut le sort le plus beau.  
 Mais comme vers l'Afrique on poursuit Cornélie,  
 On voit d'ailleurs César venir de Thessalie :  
-Une flotte paraît qu'on a peine à compter...  
+Une flotte paraît qu'on a peine à compter…  
 
     CLÉOPÂTRE.
 C'est lui-même, Achorée, il n'en faut point douter.  
@@ -927,7 +927,7 @@ Que nos deux intérêts ont quelque différence.
 
     PTOLÉMÉE.
 Oui, ma soeur ; car l'état dont mon coeur est content,  
-Sur quelques bords du Nil à grand'peine s'étend ;  
+Sur quelques bords du Nil à grand-peine s'étend ;  
 Mais César, à vos lois soumettant son courage,  
 Vous va faire régner sur le Gange et le Tage.  
 
@@ -1033,7 +1033,7 @@ Quelques feux que d'abord il lui fasse paraître,
 Il partira bientôt, et vous serez le maître.  
 L'amour à ses pareils ne donne point d'ardeur  
 Qui ne cède aisément aux soins de leur grandeur.  
-Il voit encore l'Afrique et l'Espagne occupées  
+Il voit encor l'Afrique et l'Espagne occupées  
 Par Juba, Scipion et les jeunes Pompées ;  
 Et le monde à ses lois n'est point assujetti,  
 Tant qu'il verra durer ces restes du parti.  
@@ -1150,7 +1150,7 @@ S'il aime sa grandeur, il hait la perfidie ;
 Il se juge en autrui, se tâte, s'étudie,  
 Examine en secret sa joie et ses douleurs,  
 Les balance, choisit, laisse couler des pleurs ;  
-Et forçant sa vertu d'être encore la maîtresse,  
+Et forçant sa vertu d'être encor la maîtresse,  
 Se montre généreux par un trait de faiblesse ;  
 Ensuite il fait ôter ce présent de ses yeux,  
 Lève les mains ensemble et les regards aux cieux,  
@@ -1259,7 +1259,7 @@ Et pour en bien parler, nous vous devons le tout.
 Nous avons honoré votre ami, votre gendre,  
 Jusqu'à ce qu'à vous-même il ait osé se prendre ;  
 Mais voyant son pouvoir, de vos succès jaloux,  
-Passer en tyrannie, et s'armer contre vous...  
+Passer en tyrannie, et s'armer contre vous…  
 
     CÉSAR.
 Tout beau : que votre haine en son sang assouvie  
@@ -1294,7 +1294,7 @@ Et que ce sacrifice, offert par mon devoir,
 Vous assure la vôtre avec votre pouvoir.  
 
     CÉSAR.
-Vous cherchez, Ptolomée, avec trop de ruses,  
+Vous cherchez, Ptolomée, avecque trop de ruses,  
 De mauvaises couleurs et de froides excuses.  
 Votre zèle était faux, si seul il redoutait  
 Ce que le monde entier à pleins voeux souhaitait,  
@@ -1339,7 +1339,7 @@ Antoine, avez-vous vu cette reine adorable ?
 
     ANTOINE.
 Oui, seigneur, je l'ai vue : elle est incomparable ;  
-Le ciel n'a point encore, par de si doux accords,  
+Le ciel n'a point encor, par de si doux accords,  
 Uni tant de vertus aux grâces d'un beau corps.  
 Une majesté douce épand sur son visage  
 De quoi s'assujettir le plus noble courage ;  
@@ -1394,7 +1394,7 @@ Donner en liberté ce qui reste du jour ?
 ## SCÈNE IV. César, Cornélie, Antoine, Lépide, Septime.
 
     SEPTIME.
-Seigneur...  
+Seigneur…  
 
     CÉSAR.
         Allez, Septime, allez vers votre maître.  
@@ -1409,7 +1409,7 @@ Et tu ne prétends pas qu'il m'abatte le coeur
 Jusqu'à te rendre hommage, et te nommer seigneur :  
 De quelque rude trait qu'il m'ose avoir frappée,  
 Veuve du jeune Crasse, et veuve de Pompée,  
-Fille de Scipion, et pour dire encore plus,  
+Fille de Scipion, et pour dire encor plus,  
 Romaine, mon courage est encore au-dessus ;  
 Et de tous les assauts que sa rigueur me livre,  
 Rien ne me fait rougir que la honte de vivre.  
@@ -1697,7 +1697,7 @@ Et tournant le discours sur une autre matière,
 Il n'a ni refusé, ni souffert ma prière.  
 Je veux bien toutefois encor m'y hasarder,  
 Mes efforts redoublés pourront mieux succéder ;  
-Et j'ose croire...  
+Et j'ose croire…  
 
     PTOLÉMÉE.
         Il vient ; souffrez que je l'évite :  
@@ -1769,11 +1769,11 @@ Ce sceptre par vos mains dans les miennes remis,
 À mes voeux innocents sont autant d'ennemis.  
 Ils allument contre eux une implacable haine :  
 Ils me font méprisable alors qu'ils me font reine ;  
-Et si Rome est encore telle qu'auparavant,  
+Et si Rome est encor telle qu'auparavant,  
 Le trône où je me sieds m'abaisse en m'élevant ;  
 Et ces marques d'honneur, comme titres infâmes,  
 Me rendent à jamais indigne de vos flammes.  
-J'ose encore toutefois, voyant votre pouvoir,  
+J'ose encor toutefois, voyant votre pouvoir,  
 Permettre à mes désirs un généreux espoir.  
 Après tant de combats, je sais qu'un si grand homme  
 A droit de triompher des caprices de Rome,  
@@ -1815,7 +1815,7 @@ C'est trop, c'est trop, seigneur, souffrez que j'en abuse :
 Votre amour fait ma faute, il fera mon excuse.  
 Vous me rendez le sceptre, et peut-être le jour ;  
 Mais si j'ose abuser de cet excès d'amour,  
-Je vous conjure encore, par ses plus puissants charmes,  
+Je vous conjure encor, par ses plus puissants charmes,  
 Par ce juste bonheur qui suit toujours vos armes,  
 Par tout ce que j'espère et que vous attendez,  
 De n'ensanglanter pas ce que vous me rendez.  
@@ -1823,7 +1823,7 @@ Faites grâce, seigneur, ou souffrez que j'en fasse,
 Et montre à tous par là que j'ai repris ma place.  
 Achillas et Photin sont gens à dédaigner :  
 Ils sont assez punis en me voyant régner ;  
-Et leur crime...  
+Et leur crime…  
 
     CÉSAR.
         Ah ! Prenez d'autres marques de reine :  
@@ -1833,7 +1833,7 @@ Choisissez des sujets dignes de vos bontés.
 Ne vous donnez sur moi qu'un pouvoir légitime,  
 Et ne me rendez point complice de leur crime.  
 C'est beaucoup que pour vous j'ose épargner le roi,  
-Et si mes feux n'étaient...  
+Et si mes feux n'étaient…  
 
 
 ## SCÈNE IV. César, Cornélie, Cléopâtre, Achorée, Antoine, Lépide, Charmion, romains.
@@ -1977,7 +1977,7 @@ Un grand coeur à ses maux applique d'autres charmes.
 Les faibles déplaisirs s'amusent à parler,  
 Et quiconque se plaint cherche à se consoler.  
 Moi, je jure des dieux la puissance suprême,  
-Et pour dire encore plus, je jure par vous-même,  
+Et pour dire encor plus, je jure par vous-même,  
 Car vous pouvez bien plus sur ce coeur affligé  
 Que le respect des dieux qui l'ont mal protégé :  
 Je jure donc par vous, ô pitoyable reste,  
@@ -2001,7 +2001,7 @@ De rendre à ce héros ce funèbre devoir ?
 Tout couvert de son sang, et plus mort que lui-même,  
 Après avoir cent fois maudit le diadème,  
 Madame, j'ai porté mes pas et mes sanglots  
-Du côté que le vent poussait encore les flots.  
+Du côté que le vent poussait encor les flots.  
 Je cours longtemps en vain ; mais enfin d'une roche  
 J'en découvre le tronc vers un sable assez proche,  
 Où la vague en courroux semblait prendre plaisir  
@@ -2093,7 +2093,7 @@ Si pourtant, à l'aspect de ce qu'il vous renvoie,
 Vos douleurs laissaient place à quelque peu de joie ;  
 Si la vengeance avait de quoi vous soulager,  
 Je vous dirais aussi qu'on vient de vous venger,  
-Que le traître Photin... Vous le savez peut-être ?  
+Que le traître Photin… Vous le savez peut-être ?  
 
     CORNÉLIE.
 Oui, princesse, je sais qu'on a puni ce traître.  
@@ -2163,7 +2163,7 @@ Ne nous déguisez rien, parlez sans me flatter :
 Qu'ai-je à craindre, Achorée, ou qu'ai-je à regretter ?  
 
     ACHORÉE.
-Aussitôt que César eut su la perfidie...  
+Aussitôt que César eut su la perfidie…  
 
     CLÉOPÂTRE.
 Ce ne sont pas ses soins que je veux qu'on me die.  
@@ -2179,7 +2179,7 @@ Que César l'a rejoint ; et je ne doute pas
 Qu'il n'ait su vaincre encore, et punir Achillas.  
 
     ACHORÉE.
-Oui, madame, on a vu son bonheur ordinaire...  
+Oui, madame, on a vu son bonheur ordinaire…  
 
     CLÉOPÂTRE.
 Dites-moi seulement s'il a sauvé mon frère,  
@@ -2260,7 +2260,7 @@ Et souffre que ma haine agisse en liberté.
 À cet empressement j'ajoute une requête :  
 Vois l'urne de Pompée ; il y manque sa tête :  
 Ne me la retiens plus, c'est l'unique faveur  
-Dont je te puis encore prier avec honneur.  
+Dont je te puis encor prier avec honneur.  
 
     CÉSAR.
 Il est juste, et César est tout prêt de vous rendre  
@@ -2282,7 +2282,7 @@ Ne me refusez pas ce bonheur souverain.
 Faites un peu de force à votre impatience ;  
 Vous êtes libre après : partez en diligence ;  
 Portez à notre Rome un si digne trésor ;  
-Portez...  
+Portez…  
 
     CORNÉLIE.
         Non pas, César, non pas à Rome encore :  

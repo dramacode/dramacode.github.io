@@ -19,7 +19,7 @@ Représentée pour la première fois, à Paris,sur le Théâtre de la Porte-Sain
 Par ALEXANDRE DUMAS, musique de M. PICCINI, décors de MM. CICÉRI, NOLAU, DEVOIR, POURCHET.
 
 PARIS. MARCHANT, ÉDITEUR DU MAGASIN THÉÂTRAL, BOULEVARD SAINT-MARTIN, 12. Imprimerie de Ve DONDEY-DUPRÉ, Rue Saint-Louis, N°46
-Représentée pour la première fois, à Paris,sur le Théâtre de la Porte-Saint-Martin, le 30 avril 1836
+Représentée pour la première fois, à Paris,sur le Théâtre de la Porte-Saint-Martin, le 30 avril 1836 [1]
 
 
 # PERSONNAGES.
@@ -51,7 +51,7 @@ Représentée pour la première fois, à Paris,sur le Théâtre de la Porte-Sain
  – JUANA Mme Cordier
  – SOEUR URSULE Mme Aimé
  – UN ANGE M. Lequien
- – LA VIERGE. [1]
+ – LA VIERGE.
 
 
 # ACTE I.
@@ -202,7 +202,7 @@ Oh ! Sur mon honneur, voilà un trait merveilleux et qui demande récompense.
 Il porte la main à sa chaîne d'or.
 
 
-    VITTORIA, L'ARRÊTANT.
+    VITTORIA, L’ARRÊTANT.
 Si tu as quelque chose à me donner, Monseigneur, donne-moi ton poignard.
 
     DON JUAN.
@@ -246,7 +246,7 @@ Lui effeuillant son bouquet de roses sur la tête.
 
 L'infant deviendra roi.
 
-    DON JUAN, L'EMBRASSANT.
+    DON JUAN, L’EMBRASSANT.
 C'est chose dite, j'emprunte.
 
     DON CHRISTOVAL.
@@ -468,7 +468,7 @@ Me voilà, mon père...
 Au moment où il va entrer, on entend une voix du côté opposé : c'est celle de Don Josès.
 
 
-    DON JOSÈS, DANS L'ANTICHAMBRE.
+    DON JOSÈS, DANS L’ANTICHAMBRE.
 Don Juan !
 
     DON JUAN, LAISSANT RETOMBER LA PORTIÈRE.
@@ -479,7 +479,7 @@ Il revient tranquillement en scène.
 
 ## SCÈNE VI. Don Josès, Don Juan.
 
-    DON JOSÈS, S'ÉLANÇANT EN SCÈNE.
+    DON JOSÈS, S’ÉLANÇANT EN SCÈNE.
 Don Juan ! Don Juan ! Est-il encore temps ? Verrai-je encore mon père ?
 
     DON JUAN, METTANT LE DOIGT SUR SA BOUCHE.
@@ -529,7 +529,7 @@ Oui, tu as raison, j'aurais bien besoin de réparer mes forces : il y a trois jo
     DON JUAN.
 Je te dis qu'il dort. Viens, viens.
 
-    LE COMTE, D'UNE VOIX MOURANTE.
+    LE COMTE, D’UNE VOIX MOURANTE.
 Don Josès !...
 
     DON JOSÈS.
@@ -576,7 +576,7 @@ Tandis que Don Josès, par un destin contraire,
 Est pauvre... Allons, Don Juan, tends les bras à ton frère,  
 Et que tes trésors soient les siens.  
 
-    LE MAUVAIS ANGE, SORTANT DE TERRE ET S'APPUYANT SUR LE DOSSIER DU FAUTEUIL DU CÔTÉ OPPOSÉ.
+    LE MAUVAIS ANGE, SORTANT DE TERRE ET S’APPUYANT SUR LE DOSSIER DU FAUTEUIL DU CÔTÉ OPPOSÉ.
 Ton frère n'a pas droit, Don Juan, à ta fortune :  
 C'est un bâtard jaloux, dont la vue importune  
 Depuis longtemps lasse tes yeux.  
@@ -616,7 +616,7 @@ Avec de longs baisers, brûlants comme une flamme,
 Et des regards ardents qui pénètrent dans l'âme  
 Comme deux rayons de soleil.  
 
-    LE BON ANGE, S'ÉLOIGNANT.
+    LE BON ANGE, S’ÉLOIGNANT.
 Adieu ! Pauvre insensé qu'entraîne un mauvais songe,  
 De cette vie, un jour, tu sauras le mensonge,  
 Et tu me chercheras d'un douloureux regard ;  
@@ -626,7 +626,7 @@ Mais peut-être que Dieu répondra : « C'est trop tard ! »
 Il disparaît.
 
 
-    LE MAUVAIS ANGE, S'ENFONÇANT LENTEMENT EN TERRE.
+    LE MAUVAIS ANGE, S’ENFONÇANT LENTEMENT EN TERRE.
 Adieu, noble Don Juan ! Le monde est ta conquête,  
 Au-dessus de ses fils tu peux lever la tête ;  
 Car tu n'as plus de maître, et toi seul es ton roi ;  
@@ -705,7 +705,7 @@ Vous êtes folle, Paquita.
 Elle se remet à lire.
 
 
-    PAQUITA, SE LEVANT ET S'APPROCHANT DE TERESINA.
+    PAQUITA, SE LEVANT ET S’APPROCHANT DE TERESINA.
 Mais le plus joli de tout cela, madame, c'est qu'un jour, en se promenant au bord de la mer, elle trouva sur le rivage un vase de grès scellé avec du plomb ; elle s'approcha de ce vase, et elle entendit une petite voix plaintive qui en sortait ; elle le fit briser aussitôt, et elle se trouva en face d'un beau génie qui lui dit de souhaiter trois choses, et qu'elles seraient accomplies... Quand nous nous promènerons au bord de la mer, il faudra bien regarder !
 
     TERESINA.
@@ -848,7 +848,7 @@ Chantant.
 
 La la la la la...
 
-    TERESINA, L'ARRÊTANT.
+    TERESINA, L’ARRÊTANT.
 Paquita !
 
     PAQUITA.
@@ -948,10 +948,10 @@ En se retournant, elle aperçoit Don Juan sur le seuil de la porte.
     DON JUAN, DE LA PORTE DU FOND.
 Seule ?
 
-    PAQUITA, DE L'AUTRE PORTE.
+    PAQUITA, DE L’AUTRE PORTE.
 Seule.
 
-    DON JUAN, S'APPROCHANT.
+    DON JUAN, S’APPROCHANT.
 Tant mieux !
 
     PAQUITA.
@@ -1151,7 +1151,7 @@ Parce que cela a paru lui faire une peine !...
     TERESINA.
 C'est bien... Aidez-moi à me déshabiller, Paquita.
 
-    PAQUITA, PORTANT LA MAIN SUR SA MAÎTRESSE ET S'ARRÊTANT.
+    PAQUITA, PORTANT LA MAIN SUR SA MAÎTRESSE ET S’ARRÊTANT.
 Chut !...
 
     TERESINA.
@@ -1294,7 +1294,7 @@ Madame me permet-elle de me retirer ?
     TERESINA.
 Oui.
 
-    PAQUITA, ALLANT JUSQU'À LA PORTE ET REVENANT.
+    PAQUITA, ALLANT JUSQU’À LA PORTE ET REVENANT.
 À propos, ces bijoux ?
 
     TERESINA, ÉTENDANT LA MAIN DESSUS.
@@ -1430,7 +1430,7 @@ Ah !
     PAQUITA, ENTRANT ET SORTANT AUSSITÔT.
 Señora, señora, Monseigneur Don Josès arrive... Je vais l'arrêter un instant.
 
-    TERESINA, S'ARRACHANT DES BRAS DE DON JUAN.
+    TERESINA, S’ARRACHANT DES BRAS DE DON JUAN.
 Oui, va, va !... Don Josès ! Oh ! Je suis sauvée !...Merci, mon Dieu, merci !
 
 
@@ -1759,7 +1759,7 @@ Ah !
 Elle tombe dans les bras de Paquita.
 
 
-    DON JUAN, SE TOURNANT VERS SES HOMMES D'ARMES.
+    DON JUAN, SE TOURNANT VERS SES HOMMES D’ARMES.
 Vous voyez que cet homme est fou, mes maîtres ; emmenez-le !
 Les hommes d'armes saisissent Don Josès et l'emmènent sans qu'il prononce une parole.
 
@@ -1823,7 +1823,7 @@ Hussein sort le dernier et ferme la porte.
     PAQUITA.
 Voilà, Monseigneur, voilà ! Personne ! Où sont-ils ?
 
-    DON JOSÈS, AU BAS DE L'ESCALIER.
+    DON JOSÈS, AU BAS DE L’ESCALIER.
 Teresina !
 
     PAQUITA.
@@ -1835,10 +1835,10 @@ Teresina !
     PAQUITA.
 Il vient ! S'il apprenait... Mon Dieu !
 
-    DON JOSÈS, SE PRÉCIPITANT DANS L'APPARTEMENT PAR LA PORTE DE LA CHAMBRE DE TERESINA, PÂLE ET SANS POURPOINT.
+    DON JOSÈS, SE PRÉCIPITANT DANS L’APPARTEMENT PAR LA PORTE DE LA CHAMBRE DE TERESINA, PÂLE ET SANS POURPOINT.
 Teresina !
 
-    PAQUITA, FUYANT PAR LA MÊME PORTE QU'IL A LAISSÉE OUVERTE.
+    PAQUITA, FUYANT PAR LA MÊME PORTE QU’IL A LAISSÉE OUVERTE.
 Notre-Dame de la Garde, ayez pitié de moi !
 Elle ferme la porte.
 
@@ -1981,7 +1981,7 @@ Jamais, jamais je ne ferai un tel sacrilége !...
     LE MAUVAIS ANGE.
 Alors, il faut renoncer à te venger de ton frère.
 
-    DON JOSÈS, D'UNE VOIX SOMBRE.
+    DON JOSÈS, D’UNE VOIX SOMBRE.
 Je descendrai dans la tombe de mon père ; après ?
 
     LE MAUVAIS ANGE.
@@ -2002,7 +2002,7 @@ Donnez-moi la main.
     DON JOSÈS.
 La voilà.
 
-    LE MAUVAIS ANGE, S'ENFONÇANT EN TERRE AVEC LUI.
+    LE MAUVAIS ANGE, S’ENFONÇANT EN TERRE AVEC LUI.
 Allons !
 Ils disparaissent.
 
@@ -2244,7 +2244,7 @@ Don Juan y alluma le sien, et dit : « Merci. »
 Il va s'asseoir à la place réservée par Sandoval.
 
 
-    DON PEDRO, LUI FRAPPANT L'ÉPAULE.
+    DON PEDRO, LUI FRAPPANT L’ÉPAULE.
 Seigneur cavalier !
 
     DON JUAN.
@@ -2354,7 +2354,7 @@ Alors, nous allons nous entendre... Asseyons-nous, et causons.
     DON JUAN.
 Volontiers.
 
-    SANDOVAL, S'ASSEYANT.
+    SANDOVAL, S’ASSEYANT.
 On vous dit brave cavalier ?
 
     DON JUAN.
@@ -2596,7 +2596,7 @@ Henriquez, donnez les cartes !
 Henriquez donne les cartes.
 
 
-    DON JUAN, MONTRANT L'AS QUI LUI EST ÉCHU.
+    DON JUAN, MONTRANT L’AS QUI LUI EST ÉCHU.
 Votre maîtresse est à moi, Don Luis.
 
     SANDOVAL.
@@ -2635,7 +2635,7 @@ Maintenant, seigneur Don Juan, écoutez un avis qu'il est de mon honneur de vous
     DON JUAN.
 Merci ; mais, à mon tour, un mot, seigneur Don Luis : votre dernier enjeu valait mieux que tout ce que j'aurais pu mettre contre lui ; reprenez donc, je vous prie, cette bourse et cette agrafe ; quant au manoir de vos pères, je suis un fils trop pieux pour vous en déshériter.
 
-    SANDOVAL, DONNANT LA BOURSE ET L'AGRAFE À SES AMIS.
+    SANDOVAL, DONNANT LA BOURSE ET L’AGRAFE À SES AMIS.
 Tenez, Pedro ; tenez, Henriquez, prenez ceci en mémoire de moi. Mon château d'Almonacil est à vous, Don Fabrique. Messieurs, vous attesterez que je le lui ai vendu.
 
     DON FABRIQUE.
@@ -2867,7 +2867,7 @@ Alors, madame, vous avez vu choir un noble gentilhomme.
     INÈS, PRENANT UN FLAMBEAU.
 C'est bon, je reviens.
 
-    DON JUAN, L'ARRÊTANT.
+    DON JUAN, L’ARRÊTANT.
 Où allez-vous ?
 
     INÈS.
@@ -2941,7 +2941,7 @@ Eh bien, qu'y a-t-il, mon amour ?
 Il boit.
 
 
-    INÈS, SE SOUTENANT AU DOSSIER D'UN FAUTEUIL.
+    INÈS, SE SOUTENANT AU DOSSIER D’UN FAUTEUIL.
 Rien ! Rien !
 
     DON JUAN, SE LEVANT.
@@ -2984,13 +2984,13 @@ C'est bien.
     DON JOSÈS.
 Tant mieux, et que la colère de Dieu s'amasse sur sa tête !
 
-    LE MAUVAIS ANGE, S'ARRÊTANT.
+    LE MAUVAIS ANGE, S’ARRÊTANT.
 Vraiment, si Votre Seigneurie n'était si pressée, je lui ferais observer que nous traversons en ce moment une mine d'argent qui n'appartient à personne, et qui attend un pauvre pour en faire un riche.
 
     DON JOSÈS.
 Tu sais que ce n'est point cela que je cherche... Marche !
 
-    LE MAUVAIS ANGE, DESCENDANT QUELQUE ESCALIERS ET S'ARRÊTANT DE NOUVEAU.
+    LE MAUVAIS ANGE, DESCENDANT QUELQUE ESCALIERS ET S’ARRÊTANT DE NOUVEAU.
 Maître, voilà sur mon honneur un filon de l'or le plus pur. Il fallait que le roi Ferdinand fût bien fou pour envoyer chercher au Mexique ce qu'il pouvait trouver en grattant cette noble terre d'Espagne. De l'or, maître, de l'or ! va dénoncer cette mine à Charles-Quint, et il te fera ministre ; et il te permettra de garder ton chapeau devant lui, et il te pendra au cou un mouton au bout d'une chaîne.
 
     DON JOSÈS.
@@ -3023,7 +3023,7 @@ Passez, Monseigneur ; quant à moi, je vous attends ici, j'aime autant ne pas me
 
 ## SCÈNE II. Le mauvais Ange, assis sur la dernière marche de l'escalier, Don Josès, entrant dans le tombeau du Comte.
 
-    DON JOSÈS, S'AVANÇANT AVEC RESPECT.
+    DON JOSÈS, S’AVANÇANT AVEC RESPECT.
 Pardon, mon père, si je descends dans votre tombeau avec d'autres mots à la bouche que des mots de prière, avec un autre sentiment dans le coeur que celui de l'amour filial. Mais vous savez ce qui est arrivé, mon père ; eh bien, s'il est vrai que vous ayez aimé ma mère d'un amour conjugal ; s'il est vrai qu'elle fut toujours pure et que je suis votre fils aîné ; s'il est vrai qu'au moment de mourir vous vouliez me reconnaître pour l'héritier de votre nom ; si ce parchemin que je vous apporte est l'expression de votre volonté ; s'il est écrit de votre main, s'il est scellé de votre sceau, s'il n'y manque que votre signature, si la mort seule a fait tomber la plume de vos doigts, par l'amour de l'amant, par l'honneur du chevalier, par le coeur du père, je vous adjure, entendez-vous ? votre fils bien-aimé sur le sein duquel vous avez rendu le dernier soupir ; votre fils au désespoir vous adjure de demander à Dieu, comme unique récompense de votre noble vie, qu'il délie les chaînes glacées qui vous attachent au cercueil, afin que vous vous souleviez sur votre tombe, et mettiez votre signature au bas de cet acte.
 L'effigie du comte se soulève lentement sur le tombeau, prend la plume et le parchemin des mains de Don Josès, signe, laisse tomber le parchemin, et se recouche sans pousser un soupir, sans prononcer une parole.
 
@@ -3063,7 +3063,7 @@ QUATRIÈME TABLEAU. Une église avec des tombeaux.
 Les vêpres finissent.
 
 
-    DON JUAN, S'ADRESSANT À DON SANCHEZ, QUI VA SORTIR.
+    DON JUAN, S’ADRESSANT À DON SANCHEZ, QUI VA SORTIR.
 Mon révérend, pourriez-vous me dire laquelle de ces jeunes filles est soeur Marthe ?
 
     DON SANCHEZ.
@@ -3079,7 +3079,7 @@ Don Sanchez sort ; toutes les religieuses se sont éloignées ; il ne reste plus
 Après un moment de silence, Marthe se lève et s'avance vers le bénitier.
 
 
-    DON JUAN, LUI PRÉSENTANT DE L'EAU BÉNITE.
+    DON JUAN, LUI PRÉSENTANT DE L’EAU BÉNITE.
 Dieu soit avec vous, soeur Marthe !
 
     MARTHE, LE REGARDANT.
@@ -3120,7 +3120,7 @@ Je vais donc avoir un sacrifice méritoire à faire à Dieu ; car, lorsque j'ent
     DON JUAN.
 Et comptez-vous pour rien le sacrifice de vos quinze ans, d'un coeur qui n'avait pas encore battu, et d'une beauté qui rendrait le roi jaloux de Dieu ?
 
-    MARTHE, VOULANT S'ÉLOIGNER.
+    MARTHE, VOULANT S’ÉLOIGNER.
 Mon frère, il nous est défendu d'écouter des paroles mondaines.
 
     DON JUAN.
@@ -3266,13 +3266,13 @@ Va !
     DON JUAN.
 Maintenant, Doña-Inès, pardon de n'avoir pas suivi ponctuellement vos instructions ; mais pourquoi votre soeur est-elle si belle, que je n'ai pu lui parler que d'amour ?... D'ailleurs, vous avez contracté certain engagement avec moi, et vous êtes morte sans l'acquitter... Marthe ne fera que payer une dette de famille... Vous m'avez aidé en bonne chrétienne, je ne l'oublierai pas, et maintenant je vous dois, non-seulement des prières, mais encore des remerciements, et, si je savais laquelle parmi toutes ces tombes est la vôtre...
 
-    LA STATUE, AGENOUILLÉE SUR LE TOMBEAU D'INÈS.
+    LA STATUE, AGENOUILLÉE SUR LE TOMBEAU D’INÈS.
 Celle-ci.
 
-    DON JUAN, RECULANT D'UN PAS.
+    DON JUAN, RECULANT D’UN PAS.
 Qu'est-ce à dire ?... Je crois que la statue a parlé ! Est-ce une erreur ou bien ai-je réellement entendu ? Écoute, femme ou statue, ange ou démon, voix du ciel ou de l'enfer, parle une seconde fois, et je jure Dieu que j'irai lever ton voile de marbre, afin de savoir de quelle bouche sont sorties tes paroles.
 
-    LA STATUE D'INÈS.
+    LA STATUE D’INÈS.
 Viens.
 
     DON JUAN.
@@ -3280,12 +3280,12 @@ Me voilà.
 Il monte sur la première marche ; mais, au moment où il porte la main à son voile, la statue le saisit par les cheveux, se lève lentement debout, et lui tourne la tête vers le choeur.
 
 
-    LA STATUE D'INÈS.
+    LA STATUE D’INÈS.
 Regarde !
 Un cercueil recouvert d'un drap noir, et sur lequel sont les armes de Marana, sort de terre au milieu du choeur, avec quatre cierges aux quatre coins, et un à la tête ; en même temps, une dalle se lève devant l'autel. Le moine tué par Don Juan paraît, et la lampe du tabernacle s'allume toute seule. Alors, à la gauche du tombeau, une deuxième dalle se lève : Carolina paraît, et le cierge qui est près d'elle s'allume tout seul. À droite, et sans interruption, une troisième pierre se lève : Vittoria paraît, et un troisième cierge s'allume tout seul. Même jeu de machine pour Teresina et pour Sandoval, qui paraît le dernier. Toutes ces apparitions se font lentement et solennellement, au bruit de l'orgue qui fait entendre le De profundis.
 
 
-    DOM MORTÈS, APRÈS QUE LE DERNIER SOUPIR DE L'ORGUE S'EST ÉTEINT.
+    DOM MORTÈS, APRÈS QUE LE DERNIER SOUPIR DE L’ORGUE S’EST ÉTEINT.
 Je suis Don Mortès, révérend prieur des dominicains. Sans pitié, sans religion pour mon ministère, Don Juan a levé le poignard sur moi et m'a frappé... Vengeance contre le meurtrier ! Vengeance !...
 La lampe du tabernacle s'éteint.
 
@@ -3310,13 +3310,13 @@ Je suis Don Luis-de-Sandoval d'Ojedo. J'ai joué contre Don Juan ma fortune, le 
 Le cierge s'éteint.
 
 
-    L'ANGE DU JUGEMENT, UNE ÉPÉE FLAMBOYANTE À LA MAIN, DESCEND DU CIEL ET S'ARRÊTE À UNE QUINZAINE DE PIEDS AU-DESSUS DU CERCUEIL.
+    L’ANGE DU JUGEMENT, UNE ÉPÉE FLAMBOYANTE À LA MAIN, DESCEND DU CIEL ET S’ARRÊTE À UNE QUINZAINE DE PIEDS AU-DESSUS DU CERCUEIL.
 N'y a-t-il aucune voix qui s'élève en faveur de Don Juan ?
 
     LE COMTE DE MARANA.
 Je suis le vieux comte de Marana. Seigneur ! Seigneur ! Ayez pitié de mon fils !
 
-    L'ANGE DU JUGEMENT.
+    L’ANGE DU JUGEMENT.
 Dieu donne à Don Juan une heure pour se repentir !
 L'ange remonte au ciel et les fantômes rentrent en terre. La statue lâche Don Juan, qui tombe sur le pavé de l'église.
 
@@ -3376,7 +3376,7 @@ J'ai voulu prier aussi, moi ; puis, quand j'ai vu que je ne pouvais prier, j'ai 
     DON SANCHEZ.
 Ce sont les nuits d'orage qui font les jours tranquilles ; voyez, mon fils, comme le soleil est brillant, comme le jour qui a commencé si sombre va finir pur ! Il en est ainsi de la vie ; les orages du coeur ressemblent à ceux de la nature ; et les uns et les autres se calment au souffle de Dieu !
 
-    DON JUAN, S'ASSEYANT.
+    DON JUAN, S’ASSEYANT.
 Qu'il souffle donc sur mon front, s'il ne veut pas qu'il se brise à l'angle de quelque tombe.
 
     DON SANCHEZ.
@@ -3395,13 +3395,13 @@ Il s'accoude sur un tombeau et reste les yeux levés au ciel.
 
 ## SCÈNE III. Don Juan, Marthe.
 
-    MARTHE, VÊTUE D'UNE ROBE BLANCHE DÉCHIRÉE ET VERDIE PAR L'HERBE, LES CHEVEUX ÉPARS, PASSE PAR UNE BRÈCHE, ET ENTRE EN SCÈNE.
+    MARTHE, VÊTUE D’UNE ROBE BLANCHE DÉCHIRÉE ET VERDIE PAR L’HERBE, LES CHEVEUX ÉPARS, PASSE PAR UNE BRÈCHE, ET ENTRE EN SCÈNE.
 Oh ! Le beau jardin, et comme les marguerites y poussent ! J'en aurai bientôt assez pour me faire une couronne, s'ils ne me rattrapent pas.
 Elle se cache derrière un cyprès.
 
 Don Juan ! Don Juan !
 
-    DON JUAN, L'APERCEVANT.
+    DON JUAN, L’APERCEVANT.
 Grand Dieu, est-ce Marthe ? Oh ! Mon Dieu, donnez-moi des forces contre l'amour !
 Il reste immobile.
 
@@ -3478,7 +3478,7 @@ Tant que terre nous portera...
 La voix se perd dans le lointain.
 
 
-    DON JUAN, MARCHANT DERRIÈRE ELLE JUSQU'AUX CYPRÈS.
+    DON JUAN, MARCHANT DERRIÈRE ELLE JUSQU’AUX CYPRÈS.
 Ô mon Dieu ! Je suis un être bien fatal aux autres et à moi-même ; tout ce que je touche se brise ou se flétrit ; et ceux à qui je n'ôte pas la vie perdent la raison.
 
 
@@ -3501,7 +3501,7 @@ Sous ce costume ?
     LE MAUVAIS ANGE.
 Regardez.
 
-    DON JOSÈS, S'ÉLANÇANT PAR-DESSUS LE MUR.
+    DON JOSÈS, S’ÉLANÇANT PAR-DESSUS LE MUR.
 Oui, je le reconnais.
 Il s'approche de Don Juan, et, arrivé près de lui, il laisse tomber son manteau et plante deux épées en terre.
 
@@ -3633,7 +3633,7 @@ Don Josès, tu feras plus que tout cela : tu me feras perdre mon âme.
     DON JOSÈS, LE FRAPPANT DU PLAT DE SON ÉPÉE.
 Tiens !
 
-    DON JUAN, S'ÉLANÇANT SUR L'ÉPÉE.
+    DON JUAN, S’ÉLANÇANT SUR L’ÉPÉE.
 Ah !
 
     DON JOSÈS.
@@ -3668,7 +3668,7 @@ SIXÈME TABLEAU. Une cellule au couvent de Notre-Dame du Rosaire. Marthe est cou
 
 ## SCÈNE PREMIÈRE. Marthe, Ursule.
 
-    UN ANGE, ENTR'OUVRANT LES RIDEAUX DU LIT.
+    UN ANGE, ENTR’OUVRANT LES RIDEAUX DU LIT.
 Pauvre créature brisée,  
 Qui, pour briller un jour en ce monde mortel,  
 Comme une goutte de rosée,  
@@ -3999,7 +3999,7 @@ Portant la coupe à sa bouche, et l'écartant aussitôt.
 
 Qu'est-ce que ce vin ?
 
-    UN HOMME ENVELOPPÉ D'UN MANTEAU.
+    UN HOMME ENVELOPPÉ D’UN MANTEAU.
 Le sang que tu as fait couler.
 
     DON JUAN, JETANT LE VIN, ET TENDANT LA COUPE.
@@ -4008,13 +4008,13 @@ Après avoir porté la coupe à sa bouche.
 
 Qu'est-ce que cette eau ?
 
-    L'HOMME AU MANTEAU.
+    L’HOMME AU MANTEAU.
 Les larmes que tu as fait répandre !
 
     DON JUAN, SE RETOURNANT FURIEUX.
 Et toi, qui es-tu ?
 
-    L'HOMME, ÉCARTANT SON MANTEAU, ET MONTRANT SA POITRINE ENSANGLANTÉE.
+    L’HOMME, ÉCARTANT SON MANTEAU, ET MONTRANT SA POITRINE ENSANGLANTÉE.
 Don Luis-de-Sandoval d'Ojedo.
 
     DON JUAN.
@@ -4083,7 +4083,7 @@ Don Juan, je suis l'ange du pardon, parce que je suis l'ange de l'amour... Je vi
     DON JUAN.
 Il est trop tard ! Minuit va sonner...
 
-    MARTHE, ARRÊTANT L'AIGUILLE.
+    MARTHE, ARRÊTANT L’AIGUILLE.
 Les autres ont avancé l'aiguille pour te perdre : je l'arrête pour te sauver. Il te reste une seconde... Repens-toi, Don Juan, repens-toi !
 
     DON JUAN.

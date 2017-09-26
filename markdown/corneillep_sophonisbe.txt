@@ -168,7 +168,7 @@ Et trouva de la gloire à choisir mon refus.
 Ce fut pour empêcher ce fâcheux hyménée  
 Que Syphax fit la guerre à cette infortunée,  
 La surprit dans sa ville, et fit en ma faveur  
-Ce qu'il n'entreprenait que pour venger sa s?ur ;  
+Ce qu'il n'entreprenait que pour venger sa sœur ;  
 Car tu sais qu'il l'offrit à ce généreux prince,  
 Et lui voulut pour dot remettre sa province.  
 
@@ -246,7 +246,7 @@ Et les grands intérêts qu'il y faut ajuster
 Demandent plus d'une heure à les bien concerter.  
 
     ÉRYXE.
-Alors que des deux chefs la volonté conspire...  
+Alors que des deux chefs la volonté conspire…  
 
     SOPHONISBE.
 Que sert la volonté d'un chef qu'on peut dédire ?  
@@ -289,11 +289,11 @@ Et d'avoir à trembler pour ses propres murailles.
 
     SOPHONISBE.
 Rome nous aurait donc appris l'art de trembler.  
-Annibal...  
+Annibal…  
 
     ÉRYXE.
         Annibal a pensé l'accabler ;  
-Mais ce temps-là n'est plus, et la valeur d'un homme...  
+Mais ce temps-là n'est plus, et la valeur d'un homme…  
 
     SOPHONISBE.
 On ne voit point d'ici ce qui se passe à Rome.  
@@ -882,11 +882,11 @@ Et quelque amour en moi que vous voyiez renaître,
 Quelques charmes en vous qui puissent me ravir,  
 Je ne puis que vous plaindre, et non pas vous servir.  
 C'est vous parler sans doute avec trop de franchise ;  
-Mais le péril...  
+Mais le péril…  
 
     SOPHONISBE.
         De grâce, excusez ma surprise.  
-Syphax encor vivant, voulez-vous qu'aujourd'hui...  
+Syphax encor vivant, voulez-vous qu'aujourd'hui…  
 
     MASSINISSE.
 Vous me fûtes promise auparavant qu'à lui ;  
@@ -898,7 +898,7 @@ Et sa captivité qui rompt cet hyménée
 Laisse votre main libre et la sienne enchaînée.  
 Rendez-vous à vous-même ; et s'il vous peut venir  
 De notre amour passé quelque doux souvenir,  
-Si ce doux souvenir peut avoir quelque force...  
+Si ce doux souvenir peut avoir quelque force…  
 
     SOPHONISBE.
 Quoi ? Vous pourriez m'aimer après un tel divorce,  
@@ -960,7 +960,7 @@ Si Rome se pouvait éviter qu'à ce prix.
 
     MASSINISSE.
 À ces conditions prenez toute mon âme ;  
-Et s'il vous faut encor quelques nouveaux serments...  
+Et s'il vous faut encor quelques nouveaux serments…  
 
     SOPHONISBE.
 Ne perdez point, seigneur, ces précieux moments ;  
@@ -968,7 +968,7 @@ Et puisque sans contrainte il m'est permis de vivre,
 faites tout préparer ; je m'apprête à vous suivre.  
 
     MASSINISSE.
-J'y vais ; mais de nouveau gardez que Lélius...  
+J'y vais ; mais de nouveau gardez que Lélius…  
 
     SOPHONISBE.
 Cessez de vous gêner par des soins superflus ;  
@@ -1059,7 +1059,7 @@ Cette union à tous promet des biens solides,
 Et réunit sous vous tous les coeurs des Numides.  
 
     MASSINISSE.
-Mais Éryxe... ?  
+Mais Éryxe… ?  
 
     MÉZÉTULLE.
         J'ai mis des gens à l'observer,  
@@ -1072,7 +1072,7 @@ Du moins à ce grand coup elle a paru surprise ;
 Mais un moment après, entièrement remise,  
 Elle a voulu sourire, et m'a dit froidement :  
 "Le roi n'use pas mal de mon consentement ;  
-Allez, et dites-lui que pour reconnaissance... "  
+Allez, et dites-lui que pour reconnaissance… "  
 Mais, seigneur, devers vous elle-même s'avance,  
 Et vous expliquera mieux que je n'aurais fait  
 Ce qu'elle ne m'a pas expliqué tout à fait.  
@@ -1249,7 +1249,7 @@ Et reine, c'est mon sort en vous que je contemple.
 
     SOPHONISBE.
 Vous avez du crédit, le roi n'en manque point ;  
-Et si chez les Romains l'un à l'autre se joint...  
+Et si chez les Romains l'un à l'autre se joint…  
 
     ÉRYXE.
 Votre félicité sera longtemps parfaite,  
@@ -1289,11 +1289,11 @@ Et qu'ils pussent noircir de quelque indignité
 Mon trop de confiance en votre autorité.  
 Si dès qu'ils paraîtront, vous n'êtes plus le maître,  
 C'est d'eux qu'il faut savoir ce que je vous puis être ;  
-Et puisque Lélius doit entrer dès demain...  
+Et puisque Lélius doit entrer dès demain…  
 
     MASSINISSE.
 Ah ! Je n'ai pas reçu le coeur avec la main.  
-Si votre amour...  
+Si votre amour…  
 
     SOPHONISBE.
         Seigneur, je parle avec franchise.  
@@ -1348,7 +1348,7 @@ Et prends pour seul objet ma gloire à satisfaire.
 Madame, à cet excès de générosité,  
 Je n'ai presque plus d'yeux pour ma captivité ;  
 Et malgré de mon sort la disgrâce éclatante,  
-Je suis encore heureux quand je vous vois constante.  
+Je suis encor heureux quand je vous vois constante.  
 Un rival triomphant veut place en votre coeur,  
 Et vous osez pour moi dédaigner ce vainqueur !  
 Vous préférez mes fers à toute sa victoire,  
@@ -1367,7 +1367,7 @@ Et quelle indigne loi m'y pourrait obliger,
 Lorsque vous m'apportez des fers à partager ?  
 
     SYPHAX.
-Ce soin de votre gloire, et de lui satisfaire...  
+Ce soin de votre gloire, et de lui satisfaire…  
 
     SOPHONISBE.
 Quand vous l'entendrez bien, vous dira le contraire.  
@@ -1406,7 +1406,7 @@ Mais si l'essai du trône en fait durer l'envie
 Dans l'âme la plus haute à l'égal de la vie,  
 Un roi né pour la gloire, et digne de son sort,  
 À la honte des fers sait préférer la mort ;  
-Et vous m'aviez promis en partant...  
+Et vous m'aviez promis en partant…  
 
     SYPHAX.
         Ah ! Madame,  
@@ -1683,10 +1683,10 @@ Je n'ai plus rien à dire, et vous en laisse faire.
 Nous saurons profiter d'un avis salutaire.  
 Allez m'attendre au camp : je vous suivrai de près.  
 Je dois ici l'oreille à d'autres intérêts ;  
-Et ceux de Massinisse...  
+Et ceux de Massinisse…  
 
     SYPHAX.
-        Il osera vous dire...  
+        Il osera vous dire…  
 
     LÉLIUS.
 Ce que vous m'avez dit, seigneur, vous doit suffire.  
@@ -1715,7 +1715,7 @@ Son père et son amour m'en avaient fait le don.
 
     LÉLIUS.
 Ce don pour tout effet n'eut qu'un lâche abandon.  
-Dès que Syphax parut, cet amour sans puissance...  
+Dès que Syphax parut, cet amour sans puissance…  
 
     MASSINISSE.
 J'étois lors en Espagne, et durant mon absence  
@@ -1780,7 +1780,7 @@ Traînez à votre Rome un vainqueur enchaîné.
 Je suis à Sophonisbe, et mon amour fidèle  
 Dédaigne et diadème et liberté sans elle ;  
 Je ne veux ni régner, ni vivre qu'en ses bras :  
-Non, je ne veux...  
+Non, je ne veux…  
 
     LÉLIUS.
         Seigneur, ne vous emportez pas.  
@@ -1804,7 +1804,7 @@ Est-ce avant notre aveu qu'il vous en faut saisir ?
     MASSINISSE.
 Ah ! Si vous aviez fait la moindre expérience  
 De ce qu'un digne amour donne d'impatience,  
-Vous sauriez... Mais pourquoi n'en auriez-vous pas fait ?  
+Vous sauriez… Mais pourquoi n'en auriez-vous pas fait ?  
 Pour aimer à notre âge en est-on moins parfait ?  
 Les héros des Romains ne sont-ils jamais hommes ?  
 Leur Mars a tant de fois été ce que nous sommes,  
@@ -1821,7 +1821,7 @@ Qu'il a dans votre camp des maîtres parmi vous ?
 Je l'ai dû toutefois, et je m'en tiens coupable.  
 Ce crime est-il si grand qu'il soit irréparable ?  
 Et sans considérer mes services passés,  
-Sans excuser l'amour par qui nos coeurs forcés...  
+Sans excuser l'amour par qui nos coeurs forcés…  
 
     LÉLIUS.
 Vous parlez tant d'amour, qu'il faut que je confesse  
@@ -1893,7 +1893,7 @@ Et j'en rapporterai d'autres ordres pour vous.
 Je les suivrai, seigneur, sans en être jaloux.  
 
     MASSINISSE.
-Mais avant mon retour si l'on saisit la reine...  
+Mais avant mon retour si l'on saisit la reine…  
 
     LÉLIUS.
 J'en réponds jusque-là, n'en soyez point en peine.  
@@ -1909,7 +1909,7 @@ Et jusques au retour ne vous vantez de rien.
 
     MASSINISSE.
 Voyez-la donc, seigneur, voyez tout son mérite,  
-Voyez s'il est aisé qu'un héros... Il me quitte,  
+Voyez s'il est aisé qu'un héros… Il me quitte,  
 Et d'un premier éclat le barbare alarmé  
 N'ose exposer son coeur aux yeux qui m'ont charmé.  
 Il veut être inflexible, et craint de ne plus l'être,  
@@ -2006,7 +2006,7 @@ Dites que vous m'aimez, j'en pourrai davantage ;
 J'en deviendrai plus fort auprès de Scipion.  
 Montrez pour mon bonheur un peu de passion,  
 Montrez que votre flamme au même bien aspire :  
-Ne régnez plus sur elle, et laissez-lui me dire...  
+Ne régnez plus sur elle, et laissez-lui me dire…  
 
     SOPHONISBE.
 Allez, seigneur, allez ; je vous aime en époux,  
@@ -2014,7 +2014,7 @@ Et serais à mon tour aussi faible que vous.
 
     MASSINISSE.
 Faites, faites-moi voir cette illustre faiblesse :  
-Que ses douceurs...  
+Que ses douceurs…  
 
     SOPHONISBE.
         Ma gloire en est encor maîtresse.  
@@ -2050,7 +2050,7 @@ Si tant d'amour pour vous s'impute à trop d'audace,
 Il faut un peu de temps pour en obtenir grâce :  
 Moins on la rend facile, et plus elle a de poids.  
 Scipion s'en fera prier plus d'une fois ;  
-Et peut-être son âme encore irrésolue...  
+Et peut-être son âme encore irrésolue…  
 
     SOPHONISBE.
 Sur moi, quoi qu'il en soit, je me rends absolue ;  
@@ -2068,7 +2068,7 @@ Ce héros a trop fait de m'avoir épousée ;
 De sa seule pitié s'il m'eût favorisée,  
 Cette pitié peut-être en ce triste et grand jour  
 Auroit plus fait pour moi que cet excès d'amour.  
-Il devait voir que Rome en juste défiance...  
+Il devait voir que Rome en juste défiance…  
 
     HERMINIE.
 Mais vous lui témoigniez pareille impatience ;  
@@ -2120,13 +2120,13 @@ Je ne dois pas douter un moment de sa haine.
     MÉZÉTULLE.
 Si vous pouviez douter encor de son ardeur,  
 Si vous n'aviez pas vu jusqu'au fond de son coeur,  
-Je vous dirais...  
+Je vous dirais…  
 
     SOPHONISBE.
         Que Rome à présent l'intimide ?  
 
     MÉZÉTULLE.
-Madame, vous savez...  
+Madame, vous savez…  
 
     SOPHONISBE.
         Je sais qu'il est numide.  
@@ -2137,7 +2137,7 @@ J'aurois tort de vouloir qu'il en eût davantage.
     MÉZÉTULLE.
 Que peut en cet état le plus ferme courage ?  
 Scipion ou l'obsède ou le fait observer ;  
-Dès demain vers Utique il le veut enlever...  
+Dès demain vers Utique il le veut enlever…  
 
     SOPHONISBE.
 N'avez-vous de sa part autre chose à me dire ?  
@@ -2146,7 +2146,7 @@ N'avez-vous de sa part autre chose à me dire ?
 Par grâce on a souffert qu'il ait pu vous écrire,  
 Qu'il l'ait fait sans témoins ; et par ce peu de mots,  
 Qu'ont arrosé ses pleurs, qu'ont suivi ses sanglots,  
-Il vous fera juger...  
+Il vous fera juger…  
 
     SOPHONISBE.
     Donnez.  
@@ -2156,6 +2156,7 @@ Il vous fera juger...
 Voilà ce qu'en vos mains j'ai charge de remettre.  
 
     SOPHONISBE, LIT.
+
 Il ne m'est pas permis de vivre votre époux ;  
 Mais enfin je vous tiens parole,  
 Et vous éviterez l'aspect du Capitole,  
@@ -2194,7 +2195,7 @@ Vous la voyez, elle entre.
 
     SOPHONISBE.
         Elle va plus savoir.  
-Si vous avez connu le prince Massinisse...  
+Si vous avez connu le prince Massinisse…  
 
     ÉRYXE.
 N'en parlons point, madame ; il vous a fait justice.  
@@ -2223,7 +2224,7 @@ Couvrir ses plus hauts faits de taches éternelles.
 Portez-lui ma réponse ; allez.  
 
     MÉZÉTULLE.
-        Dans ses ennuis...  
+        Dans ses ennuis…  
 
     SOPHONISBE.
 C'est trop m'importuner en l'état où je suis.  
@@ -2253,7 +2254,7 @@ Vous le conserverez plus dignement que moi.
 Madame, pour le moins j'ai su garder ma foi ;  
 Et ce que mon espoir en a reçu d'outrage  
 N'a pu jusqu'à la plainte emporter mon courage.  
-Aucun de nos Romains sur mes ressentiments...  
+Aucun de nos Romains sur mes ressentiments…  
 
     SOPHONISBE.
 Je ne demande point ces éclaircissements,  
@@ -2411,7 +2412,7 @@ De sa haine pour nous elle a su se punir.
     LÉLIUS.
 Je l'avais bien prévu, je vous l'ai dit moi-même,  
 Que ce dessein de vivre était un stratagème,  
-Qu'elle voudrait mourir ; mais ne pouviez-vous pas...  
+Qu'elle voudrait mourir ; mais ne pouviez-vous pas…  
 
     LÉPIDE.
 Ma présence n'a fait que hâter son trépas.  
@@ -2471,7 +2472,7 @@ Lorsque vous aurez vu comme il saura régner.
     ÉRYXE.
 En l'état où je suis, je fais ce qu'on m'ordonne ;  
 Mais ne disposez point, seigneur, de ma personne ;  
-Et si de ce héros les désirs inconstants...  
+Et si de ce héros les désirs inconstants…  
 
     LÉLIUS.
 Madame, encore un coup, laissons-en faire au temps.  

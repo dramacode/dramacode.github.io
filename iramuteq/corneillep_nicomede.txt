@@ -4,9 +4,9 @@
 
 -*who_laodice
 Après tant de hauts faits, il m'est bien doux, Seigneur,
-De voir encore mes yeux régner sur votre coeur ;
+De voir encor mes yeux régner sur votre coeur ;
 De voir, sous les lauriers qui vous couvrent la tête,
-Un si grand conquérant être encore ma conquête,
+Un si grand conquérant être encor ma conquête,
 Et de toute la gloire acquise à ses travaux
 Faire un illustre hommage à ce peu que je vaux.
 Quelques biens toutefois que le ciel me renvoie,
@@ -18,8 +18,8 @@ Ne voit que par ses yeux, seule la considère,
 Pour souveraine loi n'a que sa volonté :
 Jugez après cela de votre sûreté.
 La haine que pour vous elle a si naturelle
-À mon occasion encore se renouvelle.
-Votre frère son fils, depuis peu de retour...
+À mon occasion encor se renouvelle.
+Votre frère son fils, depuis peu de retour…
 
 -*who_nicomede
 Je le sais, ma princesse, et qu'il vous fait la cour ;
@@ -38,7 +38,7 @@ D'avoir perdu mon maître et de craindre pour vous,
 J'ai laissé mon armée aux mains de Théagène,
 Pour voler en ces lieux au secours de ma reine.
 Vous en aviez besoin, madame, et je le vois,
-Puisque Flaminius obsède encore le roi.
+Puisque Flaminius obsède encor le roi.
 Si de son arrivée Annibal fut la cause,
 Lui mort, ce long séjour prétend quelque autre chose ;
 Et je ne vois que vous qui le puisse arrêter,
@@ -64,7 +64,7 @@ Qui tremble à voir un aigle, et respecte un édile !
 Plutôt, plutôt la mort, que mon esprit jaloux
 Forme des sentiments si peu dignes de vous.
 Je crains la violence, et non votre faiblesse ;
-Et si Rome une fois contre nous s'intéresse...
+Et si Rome une fois contre nous s'intéresse…
 
 -*who_laodice
 Je suis reine, Seigneur ; et Rome a beau tonner,
@@ -110,7 +110,7 @@ Quelque haute valeur que puisse être la vôtre,
 Vous n'avez en ces lieux que deux bras comme un autre ;
 Et fussiez-vous du monde et l'amour et l'effroi,
 Quiconque entre au palais porte sa tête au roi.
-Je vous le dis encore, retournez à l'armée ;
+Je vous le dis encor, retournez à l'armée ;
 Ne montrez à la cour que votre renommée ;
 Assurez votre sort pour assurer le mien ;
 Faites que l'on vous craigne, et je ne craindrai rien.
@@ -120,7 +120,7 @@ Retourner à l'armée ! Ah ! Sachez que la reine
 La sème d'assassins achetés par sa haine.
 Deux s'y sont découverts, que j'amène avec moi
 Afin de la convaincre et détromper le roi.
-Quoiqu'il soit son époux, il est encore mon père ;
+Quoiqu'il soit son époux, il est encor mon père ;
 Et quand il forcera la nature à se taire,
 Trois sceptres à son trône attachés par mon bras
 Parleront au lieu d'elle, et ne se tairont pas.
@@ -184,7 +184,7 @@ Disputer cette place et l'emporter sur lui !
 -*who_nicomede
 La place à l'emporter coûterait bien des têtes,
 Seigneur : ce conquérant garde bien ses conquêtes,
-Et l'on ignore encore parmi ses ennemis
+Et l'on ignore encor parmi ses ennemis
 L'art de reprendre un fort qu'une fois il a pris.
 
 -*who_attale
@@ -270,7 +270,7 @@ Dès l'âge de quatre ans ils vous ont éloigné ;
 Jugez si c'est pour voir ce titre dédaigné,
 Pour vous voir renoncer, par l'hymen d'une reine,
 À la part qu'ils avaient à la grandeur romaine.
-D'un si rare trésor l'un et l'autre jaloux...
+D'un si rare trésor l'un et l'autre jaloux…
 
 -*who_attale
 Madame, encore un coup, cet homme est-il à vous ?
@@ -285,7 +285,7 @@ Qu'un prince votre aîné doit être votre maître,
 Craindre de lui déplaire, et savoir que le sang
 Ne vous empêche pas de différer de rang,
 Lui garder le respect qu'exige sa naissance,
-Et loin de lui voler son bien en son absence...
+Et loin de lui voler son bien en son absence…
 
 -*who_attale
 Si l'honneur d'être à vous est maintenant son bien,
@@ -298,7 +298,7 @@ Sachez qu'il n'en est point que le ciel n'ait fait naître
 Pour commander aux rois, et pour vivre sans maître ;
 Sachez que mon amour est un noble projet
 Pour éviter l'affront de me voir son sujet ;
-Sachez...
+Sachez…
 
 -*who_laodice
       Je m'en doutais, Seigneur, que ma couronne
@@ -309,7 +309,7 @@ Et s'il était ici, peut-être en sa présence
 Vous penseriez deux fois à lui faire une offense.
 
 -*who_attale
-Que ne puis-je l'y voir ! Mon courage amoureux...
+Que ne puis-je l'y voir ! Mon courage amoureux…
 
 -*who_nicomede
 Faites quelques souhaits qui soient moins dangereux,
@@ -331,15 +331,16 @@ Que n'étant point connu, prince, vous ne savez
 Si je vous dois respect, ou si vous m'en devez.
 
 -*who_attale
-Ah ! Madame, souffrez que ma juste colère...
+Ah ! Madame, souffrez que ma juste colère…
 
 -*who_laodice
 Consultez-en, Seigneur, la reine votre mère ;
+Elle entre.
 
 **** *book_ *id_I03 *act_I *date_1650 *creator_corneille
 
 -*who_nicomede
-Instruisez mieux le prince votre fils,
+      Instruisez mieux le prince votre fils,
 Madame, et dites-lui, de grâce, qui je suis :
 Faute de me connaître, il s'emporte, il s'égare ;
 Et ce désordre est mal dans une âme si rare :
@@ -401,7 +402,7 @@ Madame, c'est donc là le prince Nicomède ?
 Oui, c'est moi qui viens voir s'il faut que je vous cède.
 
 -*who_attale
-Ah ! Seigneur, excusez si vous connaissant mal...
+Ah ! Seigneur, excusez si vous connaissant mal…
 
 -*who_nicomede
 Prince, faites-moi voir un plus digne rival.
@@ -433,7 +434,7 @@ Dedans mon cabinet amène-le sans suite,
 Et de ton heureux sort laisse-moi la conduite.
 
 -*who_attale
-Mais, madame, s'il faut...
+Mais, madame, s'il faut…
 
 -*who_arsinoe
       Va, n'appréhende rien,
@@ -623,7 +624,7 @@ Juge, Araspe, où j'en suis s'il veut tout ce qu'il peut.
 Pour tout autre que lui je sais comme s'explique
 La règle de la vraie et saine politique.
 Aussitôt qu'un sujet s'est rendu trop puissant,
-Encore qu'il soit sans crime, il n'est pas innocent :
+encor qu'il soit sans crime, il n'est pas innocent :
 On n'attend point alors qu'il s'ose tout permettre ;
 C'est un crime d'état que d'en pouvoir commettre ;
 Et qui sait bien régner l'empêche prudemment
@@ -645,23 +646,23 @@ Il est l'astre naissant qu'adorent mes états ;
 Il est le dieu du peuple et celui des soldats.
 Sûr de ceux-ci, sans doute il vient soulever l'autre,
 Fondre avec son pouvoir sur le reste du nôtre ;
-Mais ce peu qui m'en reste, encore que languissant,
-N'est pas peut-être encore tout à fait impuissant.
+Mais ce peu qui m'en reste, encor que languissant,
+N'est pas peut-être encor tout à fait impuissant.
 Je veux bien toutefois agir avec adresse,
 Joindre beaucoup d'honneur à bien peu de rudesse,
 Le chasser avec gloire, et mêler doucement
 Le prix de son mérite à mon ressentiment ;
 Mais s'il ne m'obéit, ou s'il ose s'en plaindre,
 Quoi qu'il ait fait pour moi, quoi que j'en voie à craindre,
-dussai-je voir par là tout l'état hasardé...
+Dussai-je voir par là tout l'état hasardé…
 
 -*who_araspe
-      Il vient.
+Il vient.
 
 **** *book_ *id_II02 *act_II *date_1650 *creator_corneille
 
 -*who_prusias
-Vous voilà, Prince ! Et qui vous a mandé ?
+      Vous voilà, Prince ! Et qui vous a mandé ?
 
 -*who_nicomede
 La seule ambition de pouvoir en personne
@@ -751,7 +752,7 @@ Puis nous verrons quel ordre on y doit apporter.
 
 -*who_flaminius
 Sur le point de partir, Rome, Seigneur, me mande
-Que je vous fasse encore pour elle une demande.
+Que je vous fasse encor pour elle une demande.
 Elle a nourri vingt ans un prince votre fils ;
 Et vous pouvez juger les soins qu'elle en a pris
 Par les hautes vertus et les illustres marques
@@ -772,7 +773,7 @@ Je crois que pour régner il en a les mérites,
 Et n'en veux point douter après ce que vous dites ;
 Mais vous voyez, Seigneur, le prince son aîné,
 Dont le bras généreux trois fois m'a couronné ;
-Il ne fait que sortir encore d'une victoire ;
+Il ne fait que sortir encor d'une victoire ;
 Et pour tant de hauts faits je lui dois quelque gloire :
 Souffrez qu'il ait l'honneur de répondre pour moi.
 
@@ -794,7 +795,7 @@ Pour de pareils amis il faut se faire effort.
 
 -*who_nicomede
 Qui partage vos biens aspire à votre mort ;
-Et de pareils amis, en bonne politique...
+Et de pareils amis, en bonne politique…
 
 -*who_prusias
 Ah ! Ne me brouillez point avec la république :
@@ -857,7 +858,7 @@ Et lorsqu'Antiochus fut par eux détrôné,
 Sous les lois du plus jeune on vit marcher l'aîné.
 Les bords de l'Hellespont, ceux de la mer Égée,
 Les restes de l'Asie à nos côtés rangée,
-Offrent une matière à son ambition...
+Offrent une matière à son ambition…
 
 -*who_flaminius
 Rome prend tout ce reste en sa protection ;
@@ -877,7 +878,7 @@ Nous pourrons lui trouver un lac de Trasimène.
 -*who_prusias
 Prince, vous abusez trop tôt de ma bonté :
 Le rang d'ambassadeur doit être respecté ;
-Et l'honneur souverain qu'ici je vous défère...
+Et l'honneur souverain qu'ici je vous défère…
 
 -*who_nicomede
 Ou laissez-moi parler, sire, ou faites-moi taire.
@@ -959,7 +960,7 @@ Et vous pourrez avoir des visions plus claires.
 -*who_nicomede
 Le temps pourra donner quelque décision
 Si la pensée est belle, ou si c'est vision.
-Cependant...
+Cependant…
 
 -*who_flaminius
       Cependant, si vous trouvez des charmes
@@ -1128,11 +1129,11 @@ Adieu.
 **** *book_ *id_III02 *act_III *date_1650 *creator_corneille
 
 -*who_flaminius
-      Madame, enfin une vertu parfaite...
+      Madame, enfin une vertu parfaite…
 
 -*who_laodice
 Suivez le roi, Seigneur, votre ambassade est faite ;
-Et je vous dis encore, pour ne vous point flatter,
+Et je vous dis encor, pour ne vous point flatter,
 Qu'ici je ne la dois ni la veux écouter.
 
 -*who_flaminius
@@ -1203,7 +1204,7 @@ Que ce que par pitié vous lui laissez avoir.
 Quoi ? Même vous allez jusques à faire grâce !
 Après cela, madame, excusez mon audace ;
 Souffrez que Rome enfin vous parle par ma voix :
-Recevoir ambassade est encore de vos droits ;
+Recevoir ambassade est encor de vos droits ;
 Ou si ce nom vous choque ailleurs qu'en Arménie,
 Comme simple Romain souffrez que je vous die
 Qu'être allié de Rome, et s'en faire un appui,
@@ -1214,7 +1215,7 @@ Qu'un prince est dans son trône à jamais affermi
 Quand il est honoré du nom de son ami ;
 Qu'Attale avec ce titre est plus roi, plus monarque
 Que tous ceux dont le front ose en porter la marque ;
-Et qu'enfin...
+Et qu'enfin…
 
 -*who_laodice
       Il suffit ; je vois bien ce que c'est :
@@ -1257,10 +1258,10 @@ L'Asie en fait l'épreuve, où trois sceptres conquis
 Font voir en quelle école il en a tant appris.
 Ce sont des coups d'essai, mais si grands que peut-être
 Le Capitole a droit d'en craindre un coup de maître,
-Et qu'il ne puisse un jour...
+Et qu'il ne puisse un jour…
 
 -*who_flaminius
-      Ce jour est encore loin,
+      Ce jour est encor loin,
 Madame, et quelques-uns vous diront, au besoin,
 Quels dieux du haut en bas renversent les profanes,
 Et que même au sortir de Trébie et de Cannes,
@@ -1303,7 +1304,7 @@ Je m'emporte ?
 
 -*who_flaminius
       Sachez qu'il n'est point de contrée
-Où d'un ambassadeur la dignité sacrée...
+Où d'un ambassadeur la dignité sacrée…
 
 -*who_nicomede
 Ne nous vantez plus tant son rang et sa splendeur :
@@ -1323,7 +1324,7 @@ Voilà tous les honneurs que vous aurez de moi :
 S'ils ne vous satisfont, allez vous plaindre au roi.
 
 -*who_flaminius
-Il me fera justice, encore qu'il soit bon père,
+Il me fera justice, encor qu'il soit bon père,
 Ou Rome à son refus se la saura bien faire.
 
 -*who_nicomede
@@ -1507,7 +1508,7 @@ Vous les saurez de lui, c'est trop le faire attendre.
 Je commence, madame, enfin à vous entendre :
 Son amour conjugal, chassant le paternel,
 Vous fera l'innocente, et moi le criminel.
-Mais...
+Mais…
 
 -*who_arsinoe
       Achevez, Seigneur ; ce mais, que veut-il dire ?
@@ -1596,7 +1597,7 @@ Madame, je n'ai vu que des vertus à Rome.
 -*who_arsinoe
 Le temps vous apprendra par de nouveaux emplois
 Quelles vertus il faut à la suite des rois.
-Cependant, si le prince est encore votre frère,
+Cependant, si le prince est encor votre frère,
 Souvenez-vous aussi que je suis votre mère ;
 Et malgré les soupçons que vous avez conçus,
 Venez savoir du roi ce qu'il croit là-dessus.
@@ -1634,7 +1635,7 @@ Ah ! C'est trop de scrupule, et trop mal présumer
 D'un mari qui vous aime et qui vous doit aimer.
 La gloire est plus solide après la calomnie,
 Et brille d'autant mieux qu'elle s'en vit ternie.
-Mais voici Nicomède, et je veux qu'aujourd'hui...
+Mais voici Nicomède, et je veux qu'aujourd'hui…
 
 **** *book_ *id_IV02 *act_IV *date_1650 *creator_corneille
 
@@ -1642,7 +1643,7 @@ Mais voici Nicomède, et je veux qu'aujourd'hui...
 Grâce, grâce, Seigneur, à notre unique appui !
 Grâce à tant de lauriers en sa main si fertiles !
 Grâce à ce conquérant, à ce preneur de villes !
-Grâce...
+Grâce…
 
 -*who_nicomede
       De quoi, madame ? Est-ce d'avoir conquis
@@ -1770,7 +1771,7 @@ Et ces esprits légers, approchant des abois,
 Pourraient bien se dédire une seconde fois.
 
 -*who_arsinoe
-Seigneur...
+Seigneur…
 
 -*who_nicomede
       Parlez, madame, et dites quelle cause
@@ -1837,7 +1838,7 @@ Et je ne veux pas voir cette haine éternelle,
 Ni que des sentiments que j'aime à voir durer
 Ne règnent dans mon coeur que pour le déchirer.
 J'y veux mettre d'accord l'amour et la nature,
-être père et mari dans cette conjoncture...
+être père et mari dans cette conjoncture…
 
 -*who_nicomede
 Seigneur, voulez-vous bien vous en fier à moi ?
@@ -1903,7 +1904,7 @@ Et ce vieux droit d'aînesse est souvent si puissant,
 Que pour remplir un trône il rappelle un absent.
 Que si leurs sentiments se règlent sur les vôtres,
 Sous le joug de vos lois j'en ai bien rangé d'autres ;
-Et dussent vos Romains en être encore jaloux,
+Et dussent vos Romains en être encor jaloux,
 Je ferai bien pour moi ce que j'ai fait pour vous.
 
 -*who_prusias
@@ -1921,7 +1922,7 @@ le voilà qui m'entend.
 -*who_prusias
       Va, sans verser mon sang,
 Je saurai bien, ingrat ! L'assurer en ce rang ;
-et demain...
+et demain…
 
 **** *book_ *id_IV04 *act_IV *date_1650 *creator_corneille
 
@@ -1981,7 +1982,7 @@ Je l'avouerai pourtant, le trône de mon père
 Ne fait pas le bonheur que plus je considère :
 Ce qui touche mon coeur, ce qui charme mes sens,
 C'est Laodice acquise à mes voeux innocents.
-La qualité de roi qui me rend digne d'elle...
+La qualité de roi qui me rend digne d'elle…
 
 -*who_flaminius
 Ne rendra pas son coeur à vos voeux moins rebelle.
@@ -2003,7 +2004,7 @@ En vous qui de sa chute êtes l'unique auteur ?
 -*who_attale
 Ce prince hors d'ici, Seigneur, que fera-t-elle ?
 Qui contre Rome et nous soutiendra sa querelle ?
-Car j'ose me promettre encore votre secours.
+Car j'ose me promettre encor votre secours.
 
 -*who_flaminius
 Les choses quelquefois prennent un autre cours ;
@@ -2050,7 +2051,7 @@ Rome de votre hymen prendra soin elle-même.
 Mais s'il arrive enfin que Laodice m'aime ?
 
 -*who_flaminius
-Ce serait mettre encore Rome dans le hasard
+Ce serait mettre encor Rome dans le hasard
 Que l'on crût artifice ou force de sa part :
 Cet hymen jetterait une ombre sur sa gloire.
 Prince, n'y pensez plus, si vous m'en pouvez croire ;
@@ -2110,7 +2111,7 @@ Qui loin de te donner des rigueurs à souffrir,
 T'épargneront bientôt la peine de t'offrir.
 
 -*who_attale
-Mais, madame...
+Mais, madame…
 
 -*who_arsinoe
       Eh bien ! Soit, je veux qu'elle se rende :
@@ -2187,7 +2188,7 @@ Comme vous semblez faire en cette occasion.
 -*who_arsinoe
 Après ce grand exemple en vain on délibère :
 Ce qu'a fait le sénat montre ce qu'il faut faire ;
-et le roi... Mais il vient.
+et le roi… Mais il vient.
 
 **** *book_ *id_V03 *act_V *date_1650 *creator_corneille
 
@@ -2203,7 +2204,7 @@ J'en avais soupçonné déjà son artifice.
 Ainsi votre tendresse et vos soins sont payés !
 
 -*who_flaminius
-Seigneur, il faut agir ; et si vous m'en croyez...
+Seigneur, il faut agir ; et si vous m'en croyez…
 
 **** *book_ *id_V04 *act_V *date_1650 *creator_corneille
 
@@ -2261,7 +2262,7 @@ Aura peine elle-même à trouver sûreté.
 
 -*who_prusias
 Il faut donc se résoudre à tout ce qu'il m'ordonne,
-Lui rendre Nicomède avec ma couronne :
+Lui rendre Nicomède avecque ma couronne :
 Je n'ai point d'autre choix ; et s'il est le plus fort,
 Je dois à son idole ou mon sceptre ou la mort.
 
@@ -2427,7 +2428,7 @@ C'est fait de votre vie, et je vous le promets.
 -*who_laodice
 Vous tiendrez mal parole, ou bientôt sur ma tombe
 Tout le sang de vos rois servira d'hécatombe.
-Mais avez-vous encore parmi votre maison
+Mais avez-vous encor parmi votre maison
 Quelque autre Métrobate, ou quelque autre Zénon ?
 N'appréhendez-vous point que tous vos domestiques
 Ne soient déjà gagnés par mes sourdes pratiques ?
@@ -2445,7 +2446,7 @@ Mais hâtez-vous, de grâce, et faites bien ramer,
 Car déjà sa galère a pris le large en mer.
 
 -*who_laodice
-Ah ! Si je le croyais ! ...
+Ah ! Si je le croyais ! …
 
 -*who_arsinoe
       N'en doutez point, madame.
@@ -2457,12 +2458,12 @@ Je n'ai plus ni respect ni générosité.
 Mais plutôt demeurez pour me servir d'otage,
 Jusqu'à ce que ma main de ses fers le dégage.
 J'irai jusque dans Rome en briser les liens,
-Avec tous vos sujets, avec tous les miens ;
+Avec tous vos sujets, avecque tous les miens ;
 Aussi bien Annibal nommait une folie
 De présumer la vaincre ailleurs qu'en Italie.
 Je veux qu'elle me voie au coeur de ses états
 Soutenir ma fureur d'un million de bras ;
-Et sous mon désespoir rangeant sa tyrannie...
+Et sous mon désespoir rangeant sa tyrannie…
 
 -*who_arsinoe
 Vous voulez donc enfin régner en Bithynie ?
@@ -2513,7 +2514,7 @@ Et qui dans cette porte a pu le poignarder ?
 
 -*who_attale
 Dix ou douze soldats qui semblaient la garder.
-Et ce prince...
+Et ce prince…
 
 -*who_arsinoe
       Ah ! Mon fils, qu'il est partout de traîtres !
@@ -2522,7 +2523,7 @@ Mais de qui savez-vous un désastre si grand ?
 
 -*who_attale
 Des compagnons d'Araspe, et d'Araspe mourant.
-Mais écoutez encore ce qui me désespère.
+Mais écoutez encor ce qui me désespère.
 J'ai couru me ranger auprès du roi mon père ;
 Il n'en était plus temps : ce monarque étonné
 À ses frayeurs déjà s'était abandonné,
@@ -2583,7 +2584,7 @@ Je sais par quels motifs vous m'êtes si contraire :
 Votre amour maternel veut voir régner mon frère ;
 Et je contribuerai moi-même à ce dessein,
 Si vous pouvez souffrir qu'il soit roi de ma main.
-Oui, l'Asie à mon bras offre encore des conquêtes ;
+Oui, l'Asie à mon bras offre encor des conquêtes ;
 Et pour l'en couronner mes mains sont toutes prêtes :
 Commandez seulement, choisissez en quels lieux,
 Et j'en apporterai la couronne à vos yeux.
@@ -2592,7 +2593,7 @@ Et j'en apporterai la couronne à vos yeux.
 Seigneur, faut-il si loin pousser votre victoire,
 Et qu'ayant en vos mains et mes jours et ma gloire,
 La haute ambition d'un si puissant vainqueur
-Veuille encore triompher jusque dedans mon coeur ?
+Veuille encor triompher jusque dedans mon coeur ?
 Contre tant de vertu je ne puis le défendre ;
 Il est impatient lui-même de se rendre.
 Joignez cette conquête à trois sceptres conquis,
@@ -2627,7 +2628,7 @@ Pour la voir seule agir contre notre injustice,
 Sans la préoccuper par ce faible service ;
 Et me venger enfin ou sur vous ou sur moi,
 Si j'eusse mal jugé de tout ce que je vois.
-Mais, madame...
+Mais, madame…
 
 -*who_arsinoe
       Il suffit : voilà le stratagème

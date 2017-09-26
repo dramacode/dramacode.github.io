@@ -91,7 +91,7 @@ Et je vous l'avouerai, pour les plus belles vies
 L'orgueil de la naissance a bien des tyrannies :
 Souvent les beaux désirs n'y servent qu'à gêner ;
 Ce qu'on se doit combat ce qu'on se veut donner :
-L'amour gémit en vain sous ce devoir sévère...
+L'amour gémit en vain sous ce devoir sévère…
 Ah ! Si je n'avais eu qu'un sénateur pour père !
 Mais mon sang dans mon sexe a mis les plus grands coeurs ;
 Eudoxe et Placidie ont eu des empereurs :
@@ -115,7 +115,7 @@ Que vous m'êtes cruel, que vous m'êtes injuste
 D'attacher tout mon coeur au seul titre d'Auguste !
 Quoi que de ma naissance exige la fierté,
 Vous seul ferez ma joie et ma félicité :
-De tout autre empereur la grandeur odieuse...
+De tout autre empereur la grandeur odieuse…
 
 -*who_leon
 Mais vous l'épouserez, heureuse ou malheureuse ?
@@ -129,7 +129,7 @@ Le ciel m'inspirera ce que je devrai faire.
 -*who_leon
 Il vous inspirera quelque sage douleur,
 Qui n'aura qu'un soupir à perdre en ma faveur.
-Oui, de si grands rivaux...
+Oui, de si grands rivaux…
 
 -*who_pulcherie
       Ils ont tous des maîtresses.
@@ -184,7 +184,7 @@ M'aiderez-vous, Irène, à couronner un frère ?
 
 -*who_irene
 Un si faible secours vous est peu nécessaire,
-Madame, et le sénat...
+Madame, et le sénat…
 
 -*who_pulcherie
       N'en agissez pas moins :
@@ -271,7 +271,7 @@ Ma soeur !
 -*who_leon
 N'y perdons aucun temps : hâtez-vous de m'instruire ;
 Hâtez-vous de m'ouvrir la route à m'y conduire ;
-Et si votre bonheur peut dépendre du mien...
+Et si votre bonheur peut dépendre du mien…
 
 -*who_irene
 Apprenez le secret de ne hasarder rien.
@@ -311,12 +311,12 @@ Pour peu qu'il vous appuie, allez, l'affaire est sûre.
 
 -*who_leon
 Aspar vient : faites-lui, ma soeur, quelque ouverture ;
-Voyez...
+Voyez…
 
 -*who_irene
       C'est un esprit qu'il faut mieux ménager ;
 Nous découvrir à lui, c'est tout mettre en danger :
-Il est ambitieux, adroit, et d'un mérite...
+Il est ambitieux, adroit, et d'un mérite…
 
 **** *book_ *id_I04 *act_I *date_1672 *creator_corneille
 
@@ -339,7 +339,7 @@ Fera de son ami son collègue à l'empire ;
 Et pour nous l'assurer, voyons sur qui des deux
 Il est plus à propos de jeter tant de voeux :
 Quel nom serait plus propre à s'attirer le reste.
-Pour moi, j'y suis tout prêt, et dès ici j'atteste...
+Pour moi, j'y suis tout prêt, et dès ici j'atteste…
 
 -*who_leon
 Votre nom pour ce choix est plus fort que le mien,
@@ -355,7 +355,7 @@ Certes, s'il faut choisir l'amant le plus fidèle,
 Vous l'allez emporter sur tous sans contredit ;
 Mais ce n'est pas, seigneur, le point dont il s'agit :
 Le plus flatteur effort de la galanterie
-Ne peut...
+Ne peut…
 
 -*who_leon
       Que voulez-vous ? J'adore Pulchérie ;
@@ -408,7 +408,7 @@ Que s'il ne le devient, vous aurez peine à l'être ?
 -*who_aspar
 C'est aller un peu vite, et bientôt m'insulter
 En soeur de souverain qui cherche à me quitter.
-Je vous aime, et jamais une ardeur plus sincère...
+Je vous aime, et jamais une ardeur plus sincère…
 
 -*who_irene
 Seigneur, est-ce m'aimer que de perdre mon frère ?
@@ -434,7 +434,7 @@ Et des vertus du temps l'âme persuadée
 Hait de ces vieux héros la surprenante idée.
 
 -*who_aspar
-Il y va de ma gloire, et les siècles passés...
+Il y va de ma gloire, et les siècles passés…
 
 -*who_irene
 Elle n'est pas, seigneur, peut-être où vous pensez ;
@@ -442,7 +442,7 @@ Et quoi qu'un juste espoir ose vous faire croire,
 S'exposer au refus, c'est hasarder sa gloire.
 La princesse peut tout, ou du moins plus que vous.
 Vous vous attirerez sa haine et son courroux.
-Son amour l'intéresse, et son âme hautaine...
+Son amour l'intéresse, et son âme hautaine…
 
 -*who_aspar
 Qu'on me fasse empereur, et je crains peu sa haine.
@@ -534,7 +534,7 @@ Et jamais, à ton âge, on ne plaignit l'état.
 -*who_justine
 À mon âge, un soupir semble dire qu'on aime :
 Cependant vous avez soupiré tout de même,
-Seigneur ; et si j'osais vous le dire à mon tour...
+Seigneur ; et si j'osais vous le dire à mon tour…
 
 -*who_martian
 Ce n'est point à mon âge à soupirer d'amour,
@@ -714,7 +714,7 @@ Aucun n'en veut douter.
 
 -*who_martian
       Je le crois comme eux tous.
-Qu'y trouve-t-on à dire, et quelle défiance... ?
+Qu'y trouve-t-on à dire, et quelle défiance… ?
 
 -*who_aspar
 Il est jeune, et l'on craint son peu d'expérience.
@@ -871,10 +871,10 @@ Son choix n'est plus pour moi, puisqu'elle le diffère :
 L'amour n'est point le maître alors qu'on délibère ;
 Et je ne saurais plus me promettre sa foi,
 Moi qui n'ai que l'amour qui lui parle pour moi.
-Ah ! Madame...
+Ah ! Madame…
 
 -*who_justine
-      Seigneur...
+      Seigneur…
 
 -*who_leon
       Auriez-vous pu le croire ?
@@ -996,7 +996,7 @@ Prévenir leur révolte, et calmer les mutins
 Qui porteront envie à nos heureux destins.
 
 -*who_martian
-Aspar vous aura vue, et cette âme chagrine...
+Aspar vous aura vue, et cette âme chagrine…
 
 -*who_pulcherie
 Il m'a vue, et j'ai vu quel chagrin le domine ;
@@ -1008,7 +1008,7 @@ Et des plus grands desseins qui veut venir à bout
 Prête l'oreille à tous, et fait profit de tout.
 
 -*who_martian
-Mais vous avez promis, et la foi qui vous lie...
+Mais vous avez promis, et la foi qui vous lie…
 
 -*who_pulcherie
 Je suis impératrice, et j'étais Pulchérie.
@@ -1022,7 +1022,7 @@ Et jalouse déjà de mon pouvoir suprême,
 Pour l'affermir sur tous, je le prends sur moi-même.
 
 -*who_martian
-Ainsi donc ce Léon qui vous était si cher...
+Ainsi donc ce Léon qui vous était si cher…
 
 -*who_pulcherie
 Je l'aime d'autant plus qu'il m'en faut détacher.
@@ -1102,7 +1102,7 @@ J'y vais, madame.
 -*who_pulcherie
       Quoi ? Martian m'abandonne,
 Quand il faut sur ma tête affermir la couronne !
-Lui, de qui le grand coeur, la prudence, la foi...
+Lui, de qui le grand coeur, la prudence, la foi…
 
 -*who_martian
 Tout le prix que j'en veux, c'est de mourir à moi.
@@ -1114,7 +1114,7 @@ Que me dit-il, Justine, et de quelle retraite
 Ose-t-il menacer l'hymen qu'il me souhaite ?
 De Léon près de moi ne se fait-il l'appui
 Que pour mieux dédaigner de me servir sous lui ?
-Le hait-il ? Le craint-il ? Et par quelle autre cause...
+Le hait-il ? Le craint-il ? Et par quelle autre cause…
 
 -*who_justine
 Qui que vous épousiez, il voudra même chose.
@@ -1181,8 +1181,8 @@ Je sors d'un sang, madame, à me rendre assez vaine
 Pour attendre un époux d'une main souveraine ;
 Et n'ayant point d'amour que pour ma liberté,
 S'il la faut immoler à votre sûreté,
-J'oserai... Mais voici ce cher Léon, madame ;
-Voulez-vous...
+J'oserai… Mais voici ce cher Léon, madame ;
+Voulez-vous…
 
 -*who_pulcherie
       Laisse-moi consulter mieux mon âme ;
@@ -1266,7 +1266,7 @@ Me laisse avec respect la liberté du choix ;
 Mais il attend de moi celui du plus grand homme
 Qui respire aujourd'hui dans l'une et l'autre Rome :
 Vous l'êtes, j'en suis sûre, et toutefois, hélas !
-Un jour on le croira, mais...
+Un jour on le croira, mais…
 
 -*who_leon
       On ne le croit pas,
@@ -1337,7 +1337,7 @@ Demandait un autre art que celui d'un amant ?
 Si le sénat eût joint ses suffrages aux vôtres,
 J'en aurais paru digne autant ou plus qu'un autre :
 Ce grand art de régner eût suivi tant de voix ;
-Et vous-même...
+Et vous-même…
 
 -*who_pulcherie
       Oui, seigneur, j'aurais suivi ce choix,
@@ -1349,7 +1349,7 @@ Et méprisant en moi ce que l'amour m'inspire,
 Respecterait en lui le démon de l'empire.
 
 -*who_leon
-Mais l'offre qu'il vous fait d'en croire tous vos voeux...
+Mais l'offre qu'il vous fait d'en croire tous vos voeux…
 
 -*who_pulcherie
 N'est qu'un refus moins rude et plus respectueux.
@@ -1364,7 +1364,7 @@ Me font le plus aimable et le moins estimé ?
 Arrêtez : mon amour ne vient que de l'estime.
 Je vous vois un grand coeur, une vertu sublime,
 Une âme, une valeur digne de mes aïeux ;
-Et si tout le sénat avait les mêmes yeux...
+Et si tout le sénat avait les mêmes yeux…
 
 -*who_leon
 Laissons là le sénat, et m'apprenez, de grâce,
@@ -1597,7 +1597,7 @@ Et même en n'aimant plus, il est doux d'être aimée.
 
 -*who_justine
 Vous souvient-il encor de me l'avoir donné,
-Madame ? Et ce doux soin dont votre esprit gêné...
+Madame ? Et ce doux soin dont votre esprit gêné…
 
 -*who_pulcherie
 Souffre un reste d'amour qui me trouble et m'accable.
@@ -1676,7 +1676,7 @@ Et pleurant pour le frère en ce grand changement,
 Je m'en consolerais à voir régner l'amant.
 Des deux têtes qu'au monde on me voit les plus chères,
 Élevez l'une ou l'autre au trône de vos pères :
-Daignez...
+Daignez…
 
 -*who_pulcherie
       Aspar serait digne d'un tel honneur,
@@ -1793,7 +1793,7 @@ En obtenant pour moi ce qu'on n'obtint jamais.
 
 -*who_aspar
 Oui ; mais qui voulez-vous que le sénat vous donne,
-Madame, si Léon...
+Madame, si Léon…
 
 -*who_pulcherie
       Ou Léon, ou personne.
@@ -1995,7 +1995,7 @@ Et le déguisement n'en détruit point la gloire.
 -*who_justine
 Que les choses bientôt prendraient un autre tour
 Si le sénat prenait le parti de l'amour !
-Que bientôt... Mais je vois Aspar avec mon père.
+Que bientôt… Mais je vois Aspar avec mon père.
 
 -*who_pulcherie
 Sachons d'eux quel destin le ciel vient de me faire.
@@ -2081,7 +2081,7 @@ Il faut faire un heureux, le jour n'en est pas loin :
 Pardonnez à l'horreur d'en être le témoin,
 Si mes maux et ce feu digne de votre haine
 Cherchent dans un exil leur remède, et sa peine.
-Adieu : vivez heureuse ; et si tant de jaloux...
+Adieu : vivez heureuse ; et si tant de jaloux…
 
 -*who_pulcherie
 Ne partez pas, seigneur, je les tromperai tous ;
@@ -2097,7 +2097,7 @@ Madame.
 Seigneur, jusques ici vous m'avez bien servie ;
 Vos lumières ont fait tout l'éclat de ma vie ;
 La vôtre s'est usée à me favoriser :
-Il faut encor plus faire, il faut...
+Il faut encor plus faire, il faut…
 
 -*who_martian
       Quoi ?
@@ -2147,14 +2147,14 @@ L'ôter à vos rivaux, vous mettre au-dessus d'eux,
 Et de tous mes amants vous voir le plus heureux.
 
 -*who_martian
-Madame...
+Madame…
 
 -*who_pulcherie
       À vos hauts faits je dois ce grand salaire ;
 Et j'acquitte envers vous et l'état et mon frère.
 
 -*who_martian
-Aurait-on jamais cru, madame... ?
+Aurait-on jamais cru, madame… ?
 
 -*who_pulcherie
       Allez, seigneur,
@@ -2165,7 +2165,7 @@ Ou si votre souhait ne répond pas au mien,
 Faites grâce à mon sexe, et ne m'en dites rien.
 
 -*who_martian
-Souffrez qu'à vos genoux, madame...
+Souffrez qu'à vos genoux, madame…
 
 -*who_pulcherie
       Allez, vous dis-je :
@@ -2213,7 +2213,7 @@ Une seconde fois vous paraissez de glace !
 -*who_aspar
 Madame, Aréobinde et Procope tous deux
 Ont engagé leur coeur et formé d'autres voeux :
-Sans cela je dirais...
+Sans cela je dirais…
 
 -*who_pulcherie
       Et sans cela moi-même
@@ -2224,7 +2224,7 @@ Justine n'aurait pas une âme assez hardie
 Pour accepter un coeur noirci de perfidie,
 Et vous regarderait comme un volage esprit
 Toujours prêt à donner où la fortune rit.
-N'en savez-vous aucun de qui l'ardeur fidèle...
+N'en savez-vous aucun de qui l'ardeur fidèle…
 
 -*who_aspar
 Madame, vos bontés choisiront mieux pour elle ;
@@ -2263,15 +2263,15 @@ Je me le disais bien, que vos nouveaux serments,
 Madame, ne seraient que des amusements.
 
 -*who_pulcherie
-Vous commencez d'un air...
+Vous commencez d'un air…
 
 -*who_leon
       J'achèverai de même,
 Ingrate ! Ce n'est plus ce Léon qui vous aime ;
-Non, ce n'est plus...
+Non, ce n'est plus…
 
 -*who_pulcherie
-      Sachez...
+      Sachez…
 
 -*who_leon
       Je ne veux rien savoir,

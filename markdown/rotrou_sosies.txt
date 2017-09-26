@@ -814,7 +814,7 @@ Ce qui m'est ordonné, par une charge expresse ?
 Oui, mais non à la mienne, ou de ce même seuil,  
 Où tu veux aborder, je ferai ton cercueil.  
 
-    SOSIE, S'EN ALLANT.
+    SOSIE, S’EN ALLANT.
 Retirons-nous plutôt, ô prodige ! Ô nature !  
 Où me suis-je perdu ? Quelle est cette aventure ?  
 Qui croira ce miracle, aux mortels inconnu ?  
@@ -848,7 +848,7 @@ Taisons-nous, le voici, la porte a fait du bruit.
 
 ## SCÈNE V. Jupiter, Alcmène, Mercure.
 
-    JUPITER, SOUS LA FIGURE D'AMPHITRYON.
+    JUPITER, SOUS LA FIGURE D’AMPHITRYON.
 Avecque ce baiser, je te laisse mon âme,  
 Adieu, conserve autant, que j'emporte de flamme,  
 Hyménée, à mes yeux, ne fut jamais si beau,  
@@ -1162,7 +1162,7 @@ Quelque tard qu'il arrive, il vient encore tard ;
 J'ignore quelle fin son retour se propose,  
 Mais je bénis l'effet, quelle qu'en soit la cause.  
 
-    AMPHITRYON, L'ABORDANT.
+    AMPHITRYON, L’ABORDANT.
 Le Ciel te rie, Alcmène, et soient bénis les Dieux,   [9]
 Dont le soin provident, me ramène en ces lieux.  
 Viens-je aussi désiré, que je te suis fidèle ?  
@@ -1597,7 +1597,7 @@ Consens-tu, si sa voix convainc tes faussetés,
 Soit qu'il prouve ma faute, ou me trouve innocente,  
 Si vous le désirez, il faut que j'y consente.  
 
-    AMPHITRYON, S'EN ALLANT.
+    AMPHITRYON, S’EN ALLANT.
 Je reviens, va Sosie, entre, et m'attends chez nous.  
 
     ALCMÈNE.
@@ -2321,7 +2321,7 @@ Qui me rend plus vaincu, que n'est le vaincu même ;
 Et d'un si long voyage, et si laborieux,  
 Le seul travail est mien, la gloire en est aux Dieux.  
 
-    SOSIE, L'ÉCOUTANT, DIT AUX CAP.
+    SOSIE, L’ÉCOUTANT, DIT AUX CAP.
 Arrêtez, un mot seul, me tirera de peine.  
 
     AMPHITRYON.
@@ -2692,7 +2692,7 @@ Mais chacun aujourd'hui.
     AMPHITRYON.
 Voilà qu'un suborneur.  
 
-    JUPITER, METTANT L'ÉPÉE À LA MAIN.
+    JUPITER, METTANT L’ÉPÉE À LA MAIN.
         Arrête, tu mens traître.  
 Fais mieux faire à ta main, que ta bouche n'a fait,  
 Et du discours, enfin prouvons-nous par l'effet.  
@@ -3290,7 +3290,7 @@ Mais quel nouvel orage, à ce calme succède ?
 Le Ciel s'ouvre.
 
 
-    JUPITER, EN L'AIR.
+    JUPITER, EN L’AIR.
 
 
 Rassemble, Amphitryon, et possède tes sens,  

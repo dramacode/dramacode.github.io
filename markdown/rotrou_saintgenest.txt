@@ -464,7 +464,7 @@ Mon bonheur et ma gloire, au-dessus de mes voeux.
 LE THÉÂTRE S'OUVRE.
 
 
-    GENEST, S'HABILLANT, ET TENANT SON RÔLE, CONSIDÈRE LE THÉÂTRE, ET DIT AU DÉCORATEUR.
+    GENEST, S’HABILLANT, ET TENANT SON RÔLE, CONSIDÈRE LE THÉÂTRE, ET DIT AU DÉCORATEUR.
 Il est beau ; mais encor, avec peu de dépense,  
 Vous pouviez ajouter à sa magnificence ;  
 N'y laisser rien d'aveugle, y mettre plus de jour,  
@@ -516,7 +516,7 @@ Et meurs, sans t'ébranler, debout, et dans ton rang.
 
 ## SCÈNE III. Marcelle, Genest.
 
-    MARCELE ACHEVANT DE S'HABILLER, ET TENANT SON RÔLE.
+    MARCELE ACHEVANT DE S’HABILLER, ET TENANT SON RÔLE.
 Dieux ! Comment en ce lieu faire la Comédie ?  
 De combien d'importuns j'ai la tête étourdie !  
 Combien à les ouïr, je fais de languissants !  
@@ -657,7 +657,7 @@ Et de qui l'action, m'est d'importance extrême,
 Et n'a pas un objet moindre que le ciel même ;  
 Préparons la musique, et laissons-les placer.  
 
-    LE DÉCORATEUR S'EN ALLANT, AYANT ALLUMÉ. .
+    LE DÉCORATEUR S’EN ALLANT, AYANT ALLUMÉ. .
 Il repassait son rôle, et s'y veut surpasser.  
 
 
@@ -704,7 +704,7 @@ LA PIÈCE COMMENCE.
 
 ## SCÈNE VII. GENEST seul sur le Théâtre élevé, Diolcétian, Maximin, Valérie, Camille, Plancien, Gardes, assis. Suite de Soldats.
 
-    GENEST SOUS LE NOM D'ADRIAN.
+    GENEST SOUS LE NOM D’ADRIAN.
 Ne délibère plus, Adrian, il est temps,  
 De suivre avec ardeur ces fameux combattants ;  
 Si la gloire te plaît, l'occasion est belle ;  
@@ -1150,7 +1150,7 @@ Et qui fuit ma faveur, éprouvera ma haine.
 Flavie emmène Adrian avec des gardes.
 
 
-    ADRIAN S'EN ALLANT.
+    ADRIAN S’EN ALLANT.
 Comme je te soutiens, Seigneur, sois mon soutien,  
 Qui commence à souffrir, commence, d'être tien.  
 
@@ -1252,7 +1252,7 @@ Est la fin de la mort, plutôt que de la vie !
 Qu'il n'est amour ni vie en ce terrestre lieu,  
 Et qu'on ne peut s'aimer, ni vivre qu'avec Dieu.  
 
-    NATALIE L'EMBRASSANT.
+    NATALIE L’EMBRASSANT.
 Ô d'un dieu tout puissant, merveilles souveraines !  
 Laisse-moi, cher époux, prendre part en tes chaînes !  
 Et si ni notre hymen, ni ma chaste amitié,  
@@ -1430,7 +1430,7 @@ Que je te vais attendre à ce port désirable ;
 Allons, exécutez le décret favorable,  
 Dont j'attends mon salut, plutôt que le trépas.  
 
-    FLAVIE LE LIVRANT AU GEÔLIER, ET S'EN ALLANT.
+    FLAVIE LE LIVRANT AU GEÔLIER, ET S’EN ALLANT.
 Vous en êtes coupable, en ne l'évitant pas.  
 
 
@@ -1683,7 +1683,7 @@ Implore-moi du ciel, la grâce et le courage,
 De vaincre la nature en cet heureux malheur,  
 Avec une constance égale à ma douleur.  
 
-    NATALIE L'EMBRASSANT.
+    NATALIE L’EMBRASSANT.
 Pardonne à mon ardeur, cher et généreux frère,  
 L'injuste impression d'un soupçon téméraire,  
 Qu'en l'apparent état de cette liberté,  
@@ -2545,7 +2545,7 @@ J'ai mis la tragédie, à sa dernière scène ;
 Et fait, avec sa tête, ensemble séparer,  
 Le cher nom de son dieu, qu'il voulait proférer.  
 
-    DIOCLÉTIAN S'EN ALLANT.
+    DIOCLÉTIAN S’EN ALLANT.
 Ainsi reçoive un prompt et sévère supplice,  
 Quiconque ose des dieux irriter la justice.  
 

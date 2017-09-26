@@ -43,7 +43,7 @@ On m'avoit tellement persuadé que je devois faire rire le Public, si je voulois
 Cependant cet Acte n'a pas laissé d'estre si generalement condamné, que le Public ayant souhaité que je le changeasse, j'en ay fait un nouveau dans le goust des quatre premiers, & je l'ay fait avec d'autant plus de plaisir, que j'ay esté détrompé par là de la mauvaise opinion qu'on m'avoit voulu donner du goust du Parterre, & que j'ay connu que les Ouvrages fins, delicats & travaillez, plairont toujours plus que ceux dont les traits seront trop marquez, pour ne pas dire, qui auront un comique plus bas.
 Ainsi la carriere est presentement ouverte à tous ceux qui croyoient que l'esprit devoit estre banny du theatre, & qui dans cette pensée n'osoient faire paroistre sur la Scene des Ouvrages dont ils s'imaginoient que le Public eust perdu le goust.
 
-**** *book_ *id_body-401 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_I01 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_silvanire
 Et bien, as-tu trouvé Monsieur Polidor ?
@@ -77,7 +77,7 @@ Est-ce que les Vieillards pécunieux n'en content⁎ pas à toutes les Filles ?
 Il te connoist mal quand il s'adresse à toy.
 Mais le voicy.
 
-**** *book_ *id_body-402 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_I02 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_polidor
 Vous le voyez, Madame, je viens selon vos ordres.
@@ -194,7 +194,7 @@ Elle ira, Monsieur Polidor.
 -*who_marton 
 Ouy, vous n'avez qu'à m'attendre.
 
-**** *book_ *id_body-403 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_I03 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_marton
 Il aime ses commoditez⁎, il faut aller chez luy.
@@ -301,14 +301,14 @@ Fais-luy honte de la vie qu'il mene, tourne-la en ridicule.
 Ces sortes de remontrances⁎ font quelquefois plus d'effet que les conseils & les reprimandes.
 Je vais écrire à mon Frere, pour me plaindre de son silence.
 
-**** *book_ *id_body-404 *act_ *date_1695 *creator_donneau_de_vize 
+**** *book_ *id_I04 *act_ *date_1695 *creator_donneau_de_vize 
 
 -*who_marton
 Ma réputation doit estre bonne, puisqu'on me choisit pour faire des remontrances⁎.
 Cependant je ne suis pas faite d'un air à ne servir que pour le conseil, mais par bonheur pour moy, je suis munie d'une fierté qui assomme tous les importuns conteurs de sornettes.
 Je vois nostre Amant Banal.
 
-**** *book_ *id_body-405 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_I05 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_marton
 Quoy, Monsieur ?
@@ -393,7 +393,7 @@ Ah, Monsieur, vostre peau dureroit moins que celle d'Orphée, si toutes les honn
 -*who_lisandre
 Les honnestes Femmes ! mais voila Pasquin bien effaré.
 
-**** *book_ *id_body-406 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_I06 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_pasquin
 Je viens d'apprendre, Monsieur, que vous avez une Maistresse de moins, & que Belise qui ne vouloit point aller à la Campagne, où sa mere la veut marier, vient de partir.
@@ -561,7 +561,7 @@ Les Femmes sont bien enragées, d'aimer leur plus grand ennemy.
 -*who_lisandre
 Adieu ; je vais faire plaisir à trois ou quatre Belles, en leur laissant croire qu'elles ne me sont pas indifferentes.
 
-**** *book_ *id_body-407 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_I07 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_marton
 Pasquin ?
@@ -691,7 +691,7 @@ Ce nombre doit estre grand.
 J'en ay les noms sur mes Tablettes.
 Je suis Conseiller Garde-Maistresses de mon Maistre.
 
-**** *book_ *id_body-408 *act_ *date_1695 *creator_donneau_de_vize 
+**** *book_ *id_I08 *act_ *date_1695 *creator_donneau_de_vize 
 
 -*who_henriette
 Pasquin, mon Frere est-il icy ?
@@ -770,7 +770,7 @@ Il sera plus raisonnable que tu ne le crois.
 Les enfants de Paris sont volontaires⁎.
 Ils ne font que ce qu'ils ont en teste.
 
-**** *book_ *id_body-409 *act_ *date_1695 *creator_donneau_de_vize 
+**** *book_ *id_I09 *act_ *date_1695 *creator_donneau_de_vize 
 
 -*who_marton
 Vous estes bien obligée à cette future Belle-sœur, qui n'ayant de Frere que vostre Amant, luy doit laisser tout son bien.
@@ -796,7 +796,7 @@ Si tous les hommes estoient faits comme luy, peu de Filles voudroient aller au C
 -*who_marton
 Ah, ah, quelle vivacité !
 
-**** *book_ *id_body-410 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_I10 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_alcippe
 Je n'ay pû rien sçavoir davantage, Madame, sinon que ma Mere peut arriver à tout moment, & qu'elle ne vient point par la voye ordinaire.
@@ -828,7 +828,7 @@ L'Amour ressemble à la Lune ; il diminuë lorsqu'il ne sçauroit plus croistre
 Allons observer les Lunaisons.
 Fin du premier Acte.
 
-**** *book_ *id_body-501 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_II01 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_henriette
 Mais, mon Frere, vous devriez faire plus d'attention à ce que je vous dis.
@@ -879,7 +879,7 @@ En tout cas le bien que vous laisse la Sœur d'Alcippe vous recompensera.
 -*who_henriette
 J'apperçois ma Mere, elle n'est pas contente de vous.
 
-**** *book_ *id_body-502 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_II02 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_henriette
 Sçavez-vous, Madame, qu'Alcippe est allé au devant de sa Mere, & que lors qu'il a feint d'ignorer par quelle voye elle devoit venir, ce n'estoit que pour vous épargner la peine d'aller au devant d'elle ?
@@ -945,7 +945,7 @@ Madame me permettra bien de feindre  quelque affaire, afin de pouvoir sortir si
 -*who_silvanire
 En verité, mon Fils, vous devenez bien ridicule⁎.
 
-**** *book_ *id_body-503 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_II03 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_marton
 Enfin vous n'attendrez plus, & vous perdrez bien-tost le nom de Fille.
@@ -986,7 +986,7 @@ Vostre lenteur est cause qu'elles nous ont prevenuës⁎.
 -*who_lisandre
 N'avez-vous point peur que cela ne fasse rompre vostre mariage ?
 
-**** *book_ *id_body-504 *act_ *date_1695 *creator_donneau_de_vize 
+**** *book_ *id_II04 *act_ *date_1695 *creator_donneau_de_vize 
 
 -*who_silvanire
 Si j'avois sçû vostre arrivée, Madame, nous aurions esté au devant de vous pour joüir quelques momens plutost du plaisir de vous voir.
@@ -1096,7 +1096,7 @@ Le hazard l'a fait tomber en bonne main, & celuy qui a le bonheur de le posseder
 Allons dans ma chambre.
 Je vous aurois plutost priée d'y entrer, si je n'avois apprehendé d'interrompre vos titres de Noblesse.
 
-**** *book_ *id_body-505 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_II05 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_lisandre
 Madame, un moment.
@@ -1161,7 +1161,7 @@ Quoy, Madame…
 -*who_hortense
 Vous me permettrez, s'il vous plaist, d'allez rejoindre la Compagnie⁎.
 
-**** *book_ *id_body-506 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_II06 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_pasquin
 Monsieur.
@@ -1176,7 +1176,7 @@ La bien-seance ne me permet pas de demeurer plus long temps icy.
 -*who_lisandre
 Que je vais souffrir sans estre plaint !
 
-**** *book_ *id_body-507 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_II07 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_lisandre
 Non, jamais destinée ne fut égale à la mienne.
@@ -1349,13 +1349,13 @@ Je ne dois plus différer à découvrir tout ce que je sens à la belle Hortense
 L'aveu sera un peu precipité, mais il est necessaire, puisqu'il pourra arrester la donation de son bien, & sa retraite dans le Convent, & dans la suite empescher peut-estre l'une et l'autre, si je puis trouver le secret de m'en faire aimer.
 Allons donc chercher les moyens de luy faire pressentir tout mon amour d'une maniere qui l'empesche d'en douter.
 
-**** *book_ *id_body-508 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_II08 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_pasquin
 La playe est profonde, & l'amour bien violent, lors qu'on ne peut demeurer en place.
 Quand les cœurs sont si remplis d'amour, il faut des remedes bien specifiques pour guerir de pareilles repletions⁎.
 
-**** *book_ *id_body-509 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_II09 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_pasquin
 Ah, Marton, il y a bien des nouvelles.
@@ -1425,7 +1425,7 @@ L'expedient est admirable.
 Ouy, mais je ne m'en serviray pas souvent.
 Le voicy.
 
-**** *book_ *id_body-510 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_II10 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_lisandre
 Moins j'ay sujet d'esperer, plus je sens croistre mon amour.
@@ -1488,7 +1488,7 @@ Prendray-je des eaux pour le teint, si on en apporte de nouvelles ?
 -*who_lisandre
 Sans doute.
 
-**** *book_ *id_body-511 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_II11 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_marton
 Vous voulez plaire, Monsieur, c'est-à-dire que vous avez dessein de tromper.
@@ -1607,7 +1607,7 @@ Nous allons voir.
 Celuy-cy est des plus difficiles, & l'amour sera bien habile, s'il en peut venir à bout.
 Fin du second Acte.
 
-**** *book_ *id_body-601 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_III01 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_alcippe
 Non, Madame, non, je n'en puis douter.
@@ -1638,7 +1638,7 @@ Ce n'est pas ce qui m'inquiette, mais nos Meres n'entrent point dans nos sentime
 Elles n'aiment pas, & n'ont que l'interest en vûë.
 Mais j'apperçois la vostre.
 
-**** *book_ *id_body-602 *act_ *date_1695 *creator_donneau_de_vize 
+**** *book_ *id_III02 *act_ *date_1695 *creator_donneau_de_vize 
 
 -*who_orasie
 J'aime à voir deux Amans ensemble sur le point d'estre unis, & j'en tire un bon augure pour la suite.
@@ -1649,7 +1649,7 @@ Vous m'avez engagé dans de si beaux liens, que je ne me lasseray jamais de les 
 -*who_orasie
 Laissez-nous, je veux entretenir vostre Sœur.
 
-**** *book_ *id_body-603 *act_ *date_1695 *creator_donneau_de_vize 
+**** *book_ *id_III03 *act_ *date_1695 *creator_donneau_de_vize 
 
 -*who_orasie
 C'est en vain que vous prétendez me déguiser vostre chagrin ; il paroist trop depuis nostre arrivée.
@@ -1763,7 +1763,7 @@ Je voudrois pouvoir vous accorder ce que vous me demandez, mais cela marqueroit 
 Je vais songer à cent choses necessaires pour sortir d'affaire entierement.
 Cela finira dans trois ou quatre jours, & vous irez ensuite jouïr de la tranquillité qu'on ne trouve point dans le monde.
 
-**** *book_ *id_body-604 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_III04 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_lisette
 Voila une bonne Mere, elle veut que vous dansiez à la Noce, mais elle ne vous laissera pas écouter les complimens du lendemain.
@@ -1861,7 +1861,7 @@ Mais je le voy.
 Lisette, ne m'abandonne pas.
 Je serois au desespoir qu'il connust ma foiblesse, tu m'aideras à la cacher.
 
-**** *book_ *id_body-605 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_III05 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_lisandre
 Madame… mais que vois-je ?
@@ -1927,7 +1927,7 @@ Quand on ne sçait ce qu'on veut, peut-on sçavoir ce qu'on fait ?
 Et quoy ? vous me quittez si cruellement ?
 Si l'Ingrate sentoit pour moy tout ce que je sens pour elle, elle trouveroit autant de raisons pour justifier son amour, qu'elle en trouve pour justifier ses refus.
 
-**** *book_ *id_body-606 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_III06 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_lisandre
 Ah, ma pauvre Marton, mes affaires reculent au lieu d'avancer, & je suis le plus malheureux de tous les mortels.
@@ -2064,7 +2064,7 @@ Ne tarde point, cours, & reviens m'en dire des nouvelles.
 -*who_marton
 Si je puis aller aussi viste que vos souhaits, vous serez bien-tost satisfait.
 
-**** *book_ *id_body-607 *act_ *date_1695 *creator_donneau_de_vize 
+**** *book_ *id_III07 *act_ *date_1695 *creator_donneau_de_vize 
 
 -*who_pasquin
 Il faut l'avouër, les Femmes sont habiles en tout.
@@ -2190,7 +2190,7 @@ Par là les plus fins sont dupez, & les plus belles en tiennent.
 -*who_lisandre
 C'est assez, je n'oublieray rien, mais songe à ce que tu me promets.
 
-**** *book_ *id_body-608 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_III08 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_pasquin
 S'il réüssit, mes avis seront récompensez.
@@ -2204,7 +2204,7 @@ Les desordres des Maistres ne doivent pas moins contribuer à l'établissement d
 Allons mettre à profit nos maximes & nos lumieres.
 Fin du troisiéme Acte.
 
-**** *book_ *id_body-701 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_IV01 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_orasie
 Quoy ! vous croyez que Lisandre aime vostre Sœur.
@@ -2243,7 +2243,7 @@ Soyez en repos là-dessus.
 La voicy.
 Je me retire, son embarras me feroit trop de peine.
 
-**** *book_ *id_body-702 *act_ *date_1695 *creator_donneau_de_vize 
+**** *book_ *id_IV02 *act_ *date_1695 *creator_donneau_de_vize 
 
 -*who_orasie
 Venez, ma Fille, venez apprendre une nouvelle qui doit vous réjoüir.
@@ -2360,7 +2360,7 @@ En un mot, je ne veux point sçavoir si Lisandre vous aime, ny si vous l'aimez.
 Je ne veux rien voir, j'excuse tout.
 Vous avez pris le party du Convent, vous m'avez fait prendre des mesures là-dessus, vous m'avez fait venir à Paris ; vous sçavez ce que cela veut dire, je vous y laisse resver⁎.
 
-**** *book_ *id_body-703 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_IV03 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_lisette
 Cela veut dire qu'il faut vous resoudre à partir.
@@ -2379,7 +2379,7 @@ Il faut de l'adresse pour enroler.
 Je vois la Mere de Lisandre.
 Retirons-nous, je ne suis pas en estat de luy parler.
 
-**** *book_ *id_body-704 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_IV04 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_silvanire
 Il semble qu'Hortense ait voulu m'éviter.
@@ -2468,14 +2468,14 @@ Dis-moy seulement le nom de la personne qu'il aime.
 Vous l'apprendrez de sa bouche.
 Je vais luy dire que vous luy voulez parler.
 
-**** *book_ *id_body-705 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_IV05 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_silvanire
 Je seray bien-aise de l'interroger sur son amour, avant qu'il se soit préparé à me répondre.
 Il ignore que sa passion me soit connuë.
 Mais voicy Orasie.
 
-**** *book_ *id_body-706 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_IV06 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_silvanire
 Vous venez tout à propos, Madame, pour vous réjoüir avec moy.
@@ -2574,7 +2574,7 @@ Je vous ay ouvert mon cœur, & nous nous sommes chagrinées faute de nous entend
 Mais j'apperçois mon Fils.
 Je veux luy parler doucement, pour mieux travailler à sa guerison.
 
-**** *book_ *id_body-707 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_IV07 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_silvanire
 Que viens-je d'apprendre, mon Fils ?
@@ -2611,7 +2611,7 @@ Voulez-vous, Madme, que nous y travaillions ?
 -*who_silvanire
 Entrons dans mon Cabinet, pour estre moins interrompuës.
 
-**** *book_ *id_body-708 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_IV08 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_lisandre
 Peut-on trouver un Amant dans une situation plus cruelle ?
@@ -2619,7 +2619,7 @@ Le cœur rempli de la plus violente passion qui fut jamais, méprisé par la Bea
 Mais j'apperçois Hortense.
 Faut-il que tout s'oppose à mon Amour ?
 
-**** *book_ *id_body-709 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_IV09 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_hortense
 Je le vois.
@@ -2785,7 +2785,7 @@ Vous n'y pensez pas, Lisandre.
 Vous n'avez à present que le chagrin de ne pouvoir estre à ce qui ne vous aime pas, & vous auriez celuy de ne pouvoir posseder ce qui vous aimeroit.
 Cet aveu seroit si cruel, que je vous aime trop pour vous dire que je vous aime.
 
-**** *book_ *id_body-710 *act_ *date_1695 *creator_donneau_de_vize 
+**** *book_ *id_IV10 *act_ *date_1695 *creator_donneau_de_vize 
 
 -*who_marton
 Je vous cherchois, pour vous dire d'aller parler à vostre Mere.
@@ -2846,13 +2846,13 @@ Travaillez-y tous deux, je m'en vais penser au reste.
 -*who_lisandre
 Et moy, je vais penser à toy, comme je le dois.
 
-**** *book_ *id_body-711 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_IV11 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_lisandre
 Mes affaires prennent un assez bon train, mais quand il s'agit de mariage, le bien en fait plus avorter que l'amour n'en fait conclurre.
 Mais voicy Pasquin.
 
-**** *book_ *id_body-712 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_IV12 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_pasquin
 Enfin, Monsieur, tout va le mieux du monde.
@@ -2885,7 +2885,7 @@ Mais laissez-moy faire, & vous serez content.
 -*who_lisandre
 Je te laisse.
 
-**** *book_ *id_body-713 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_IV13 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_pasquin
 Te voila tout à propos, écoute.
@@ -3053,7 +3053,7 @@ Je le croy, il y a assez d'Officiers qui cherchent à les divertir.
 -*who_lisette
 Il me croit plus ingenuë que je ne suis, mais je n'ay dit que ce que j'ay voulu dire.
 
-**** *book_ *id_body-714 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_IV14 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_pasquin
 Victoire, victoire.
@@ -3065,7 +3065,7 @@ Mon Maistre avoit perdu tout espoir d'épouser Hortense.
 Il faut voir si mon adresse sera employée inutilement.
 Fin du quatriéme Acte.
 
-**** *book_ *id_body-801 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_V01 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_hortense
 Non, il n'y a rien de plus cruel que l'estat où je me trouve.
@@ -3121,7 +3121,7 @@ Je sçavois bien, moy, que vous ne tiendriez pas vostre serment.
 -*who_hortense
 Tu vas voir si je veux manquer à le tenir.
 
-**** *book_ *id_body-802 *act_ *date_1695 *creator_donneau_de_vize 
+**** *book_ *id_V02 *act_ *date_1695 *creator_donneau_de_vize 
 
 -*who_hortense
 Si vous avez quelque égard pour moy, j'ay une grace à vous demander.
@@ -3161,7 +3161,7 @@ Ah, Lisandre, que vous ay-je fait ?
 Au nom de vostre amour, faites-en moins paroistre pour moy.
 Que tu me connoissois bien, Lisette, & qu'il est mal-aisé de fuir ce qui plaist !
 
-**** *book_ *id_body-803 *act_ *date_1695 *creator_donneau_de_vize 
+**** *book_ *id_V03 *act_ *date_1695 *creator_donneau_de_vize 
 
 -*who_orasie
 Quoy, ma Fille avec Lisandre !
@@ -3269,7 +3269,7 @@ Mais, Madame, permettez que je la cherche pour me justifier.
 -*who_orasie
 Elle sçait trop son devoir pour vous écouter davantage.
 
-**** *book_ *id_body-804 *act_ *date_1695 *creator_donneau_de_vize 
+**** *book_ *id_V04 *act_ *date_1695 *creator_donneau_de_vize 
 
 -*who_orasie
 Je dois plus que jamais m'opposer à son amour.
@@ -3280,7 +3280,7 @@ Il faut rompre ou conclurre, & je me trouve dans un cruel embarras.
 J'ay fait dire à Marton que je voulois luy parler.
 Je la vois, elle pourra m'éclaircir de bien des choses.
 
-**** *book_ *id_body-805 *act_ *date_1695 *creator_donneau_de_vize 
+**** *book_ *id_V05 *act_ *date_1695 *creator_donneau_de_vize 
 
 -*who_orasie
 Je veux prendre soin de ta fortune, Marton.
@@ -3358,7 +3358,7 @@ Je suis seure qu'il ne me déguisera rien de tout ce qui regarde Monsieur Richar
 -*who_marton
 Sans aller plus loin, voicy un homme qui vous dira mieux que personne tout ce que vous voulez sçavoir.
 
-**** *book_ *id_body-806 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_V06 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_polidor
 Que vois-je ?
@@ -3493,7 +3493,7 @@ Tu écouteras donc ?
 -*who_marton
 Ouy, j'écoute tant qu'on veut, mais je ne conclus jamais.
 
-**** *book_ *id_body-807 *act_ *date_1695 *creator_donneau_de_vize 
+**** *book_ *id_V07 *act_ *date_1695 *creator_donneau_de_vize 
 
 -*who_silvanire
 Le Contrat est dressé, Madame, & nous le signerons quand il vous plaira.
@@ -3522,7 +3522,7 @@ Je ne puis donner trop de larmes à la perte d'un Frere qui m'aimoit tendrement.
 -*who_marton
 Pleurez donc pour la forme, & riez pour le fond.
 
-**** *book_ *id_body-808 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_V08 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_lisandre
 Ah, Madame, si mon Oncle est mort, comme on vient de me le dire, je croy que vous voudrez bien consentir que j'épouse la belle Hortense.
@@ -3535,7 +3535,7 @@ Remerciez Madame vostre Mere, qui a bien voulu consentir à ce mariage.
 -*who_lisandre
 Madame, que vous me rendez heureux !
 
-**** *book_ *id_body-809 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_V09 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_pasquin
 Ah, Monsieur ! il y a bien des nouvelles.
@@ -3582,7 +3582,7 @@ Je suis dans une inquietude mortelle.
 -*who_pasquin
 Voicy Lisette, qui en sçait plus que moy.
 
-**** *book_ *id_body-810 *act_ *date_1695 *creator_donneau_de_vize
+**** *book_ *id_V10 *act_ *date_1695 *creator_donneau_de_vize
 
 -*who_lisette
 Ah, Madame ! je ne sçaurois parler.

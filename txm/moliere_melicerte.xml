@@ -3,7 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title>Mélicerte</title>
-        <author>Molière</author>
+        <author key="Molière (1622-1673)">Molière</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -19,6 +19,7 @@
       <publicationStmt>
         <publisher>LABEX OBVIL</publisher>
         <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/moliere_melicerte/</idno>
+        <idno type="tei">http://dramacode.github.io/moliere/moliere_melicerte.xml</idno>
       </publicationStmt>
       <sourceDesc>
         <p/>

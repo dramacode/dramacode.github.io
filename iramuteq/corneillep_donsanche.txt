@@ -53,7 +53,7 @@ De l'inconnu Carlos l'éclatante valeur
 Aux mérites du comte a fermé votre coeur.
 Tout est illustre en lui, moi-même je l'avoue ;
 Mais son sang, que le ciel n'a formé que de boue,
-Et dont il cache exprès la source obstinément...
+Et dont il cache exprès la source obstinément…
 
 -*who_elvire
 Vous pourriez en juger plus favorablement ;
@@ -243,7 +243,7 @@ Et comme votre coeur n'est pas sans autre amour,
 Vous savez des deux parts faire bien votre cour.
 
 -*who_alvar
-Madame...
+Madame…
 
 -*who_isabelle
       C'est assez ; que chacun prenne place.
@@ -263,7 +263,7 @@ Seigneur, ce que je suis ne me fait point de honte.
 Depuis plus de six ans il ne s'est fait combat
 Qui ne m'ait bien acquis ce grand nom de soldat :
 J'en avais pour témoin le feu roi votre frère,
-Madame ; et par trois fois...
+Madame ; et par trois fois…
 
 -*who_manrique
       Nous vous avons vu faire,
@@ -365,7 +365,7 @@ Tout autre qu'un marquis ou comte le profane.
 Eh bien ! Seyez-vous donc, marquis de Santillane,
 Comte de Pennafiel, gouverneur de Burgos.
 Don Manrique, est-ce assez pour faire seoir Carlos ?
-Vous reste-t-il encore quelque scrupule en l'âme ?
+Vous reste-t-il encor quelque scrupule en l'âme ?
 
 -*who_manrique
 Achevez, achevez ; faites-le roi, madame :
@@ -385,13 +385,13 @@ Arrêtez, insolent : votre reine pardonne
 Ce qu'une indigne crainte imprudemment soupçonne ;
 Et pour la démentir, veut bien vous assurer
 Qu'au choix de ses états elle veut demeurer ;
-Que vous tenez encore même rang dans son âme ;
+Que vous tenez encor même rang dans son âme ;
 Qu'elle prend vos transports pour un excès de flamme,
 Et qu'au lieu d'en punir le zèle injurieux,
 Sur un crime d'amour elle ferme les yeux.
 
 -*who_manrique
-Madame, excusez donc si quelque antipathie...
+Madame, excusez donc si quelque antipathie…
 
 -*who_isabelle
 Ne faites point ici de fausse modestie :
@@ -402,7 +402,7 @@ Je rende à ses vertus un honneur légitime,
 Vous devez respecter, quels que soient mes desseins,
 Ou le choix de mon coeur, ou l'oeuvre de mes mains.
 Je l'ai fait votre égal ; et quoiqu'on s'en mutine,
-Sachez qu'à plus encore ma faveur le destine.
+Sachez qu'à plus encor ma faveur le destine.
 Je veux qu'aujourd'hui même il puisse plus que moi :
 J'en ai fait un marquis, je veux qu'il fasse un roi.
 S'il a tant de valeur que vous-mêmes le dites,
@@ -446,7 +446,7 @@ Un juge que sans honte on ne peut soupçonner ;
 Ce sera votre épée et votre bras lui-même.
 Comtes, de cet anneau dépend le diadème :
 Il vaut bien un combat ; vous avez tous du coeur,
-Et je le garde...
+Et je le garde…
 
 -*who_lope
       À qui, Carlos ?
@@ -506,7 +506,7 @@ C'est à nous d'honorer ce que la reine honore.
 
 -*who_manrique
 Vous la respectez fort ; mais y prétendez-vous ?
-On dit que l'Aragon a des charmes si doux...
+On dit que l'Aragon a des charmes si doux…
 
 -*who_alvar
 Qu'ils me soient doux ou non, je ne crois pas sans crime
@@ -643,14 +643,14 @@ J'ai fait beaucoup pour vous, et tout ce que j'ai fait
 Ne vous a pas coûté seulement un souhait.
 Si cette récompense est pourtant si petite
 Qu'elle ne puisse aller jusqu'à votre mérite,
-S'il vous en reste encore quelque autre à souhaiter,
+S'il vous en reste encor quelque autre à souhaiter,
 Parlez, et donnez-moi moyen de m'acquitter.
 
 -*who_carlos
 Après tant de faveurs à pleines mains versées,
 Dont mon coeur n'eût osé concevoir les pensées,
 Surpris, troublé, confus, accablé de bienfaits,
-Que j'osasse former encore quelques souhaits !
+Que j'osasse former encor quelques souhaits !
 
 -*who_isabelle
 Vous êtes donc content ; et j'ai lieu de me plaindre.
@@ -694,7 +694,7 @@ N'auriez-vous point pensé que si ce grand courage
 Vous pouvait sur tous trois donner quelque avantage,
 On dirait que l'état, me cherchant un époux,
 N'en aurait pu trouver de comparable à vous ?
-Ah ! Si je vous croyais si vain, si téméraire...
+Ah ! Si je vous croyais si vain, si téméraire…
 
 -*who_carlos
 Madame, arrêtez là votre juste colère ;
@@ -711,7 +711,7 @@ De n'être pas né roi pour pouvoir espérer ;
 Et les yeux éblouis de cet éclat suprême,
 Baisser soudain la vue, et rentrer en moi-même ;
 Mais que je laisse aller d'ambitieux soupirs,
-Un ridicule espoir, de criminels désirs ! ...
+Un ridicule espoir, de criminels désirs ! …
 Je vous aime, madame, et vous estime en reine ;
 Et quand j'aurais des feux dignes de votre haine,
 Si votre âme, sensible à ces indignes feux,
@@ -757,14 +757,14 @@ Le plus digne héros de régner en ces lieux ;
 Et craignant que mes feux osassent me séduire,
 J'ai voulu m'en remettre à vous pour m'en instruire.
 Mais je crois qu'il suffit que cet objet d'amour
-Perde le trône et moi sans perdre encore le jour ;
+Perde le trône et moi sans perdre encor le jour ;
 Et mon coeur qu'on lui vole en souffre assez d'alarmes,
 Sans que sa mort pour moi me demande des larmes.
 
 -*who_carlos
 Ah ! Si le ciel tantôt me daignait inspirer
 En quel heureux amant je vous dois révérer,
-Que par une facile et soudaine victoire...
+Que par une facile et soudaine victoire…
 
 -*who_isabelle
 Ne pensez qu'à défendre et vous et votre gloire.
@@ -826,7 +826,7 @@ Que d'un combat illustre achète la licence ?
 Tu murmures, ce semble ? Achève ; explique-toi.
 La reine a-t-elle droit de te faire la loi ?
 Tu n'es point son sujet, l'Aragon m'a vu naître.
-Ô ciel ! Je m'en souviens, et j'ose encore paraître !
+Ô ciel ! Je m'en souviens, et j'ose encor paraître !
 Et je puis, sous les noms de comte et de marquis,
 D'un malheureux pêcheur reconnaître le fils !
 Honteuse obscurité, qui seule me fais craindre !
@@ -842,14 +842,14 @@ Et ne viens point m'ôter plus que tu ne me donnes.
 Je n'ai plus rien à toi : la guerre a consumé
 Tout cet indigne sang dont tu m'avais formé ;
 J'ai quitté jusqu'au nom que je tiens de ta haine,
-Et ne puis... Mais voici ma véritable reine.
+Et ne puis… Mais voici ma véritable reine.
 
 **** *book_ *id_II04 *act_II *date_1649 *creator_corneille
 
 -*who_elvire
 Ah ! Carlos, car j'ai peine à vous nommer marquis,
 Non qu'un titre si beau ne vous soit bien acquis,
-Non qu'avec justice il ne vous appartienne,
+Non qu'avecque justice il ne vous appartienne,
 Mais parce qu'il vous vient d'autre main que la mienne,
 Et que je présumais n'appartenir qu'à moi
 D'élever votre gloire au rang où je la vois.
@@ -889,7 +889,7 @@ Vous ont fait oublier ce que vous me devez,
 Rendez-lui ces honneurs qu'un tel oubli profane,
 Rendez-lui Pennafiel, Burgos, et Santillane ;
 L'Aragon a de quoi vous payer ces refus,
-Et vous donner encore quelque chose de plus.
+Et vous donner encor quelque chose de plus.
 
 -*who_carlos
 Et Carlos, et marquis, je suis à vous, madame :
@@ -991,7 +991,7 @@ Ou cet honneur se trompe, ou cet amour s'abuse ;
 Et je ne comprends point, dans un si mauvais tour,
 Ni quel est cet honneur, ni quel est cet amour.
 Tout l'honneur d'un amant, c'est d'être amant fidèle :
-Si vous m'aimez encore, que prétendez-vous d'elle ?
+Si vous m'aimez encor, que prétendez-vous d'elle ?
 Et si vous l'acquérez, que voulez-vous de moi ?
 Aurez-vous droit alors de lui manquer de foi ?
 La mépriserez-vous quand vous l'aurez acquise ?
@@ -1060,7 +1060,7 @@ Que vous daignez en moi prendre quelque intérêt.
 -*who_elvire
 Le crime, Don Alvar, dont je semble irritée,
 C'est qu'on me persécute après m'avoir quittée ;
-Et pour vous dire encore quelque chose de plus,
+Et pour vous dire encor quelque chose de plus,
 Je me fâche d'entendre accuser mes refus.
 Je suis reine sans sceptre, et n'en ai que le titre ;
 Le pouvoir m'en est dû, le temps en est l'arbitre.
@@ -1098,7 +1098,7 @@ Vous auriez donc voulu que l'honneur d'un tel choix
 Eût montré votre amant le plus lâche des trois ?
 Que pour lui cette gloire eût eu trop peu d'amorces,
 Jusqu'à ce qu'un rival eût épuisé ses forces ?
-Que...
+Que…
 
 -*who_elvire
       Vous achèverez au sortir du combat,
@@ -1113,7 +1113,7 @@ Hélas ! Pour le bien voir je n'ai que trop de jour.
 
 -*who_manrique
 Qui vous traite le mieux, la fortune ou l'amour ?
-La reine charme-t-elle auprès de Dona Elvire ?
+La reine charme-t-elle auprès de Done Elvire ?
 
 -*who_alvar
 Si j'emporte la bague, il faudra vous le dire.
@@ -1245,7 +1245,7 @@ Plutôt qu'à voir jamais de pareils hyménées
 Ternir en un moment l'éclat de mille années.
 Ne cherchez point par là cette union d'esprits :
 Votre sceptre, madame, est trop cher à ce prix ;
-Et jamais...
+Et jamais…
 
 -*who_isabelle
       Ainsi donc vous me faites connaître
@@ -1272,7 +1272,7 @@ Que mon sceptre en vos mains porte quelque infamie ?
 Si je suis jusque-là de moi-même ennemie,
 En quelle qualité, de sujet, ou d'amant,
 M'osez-vous expliquer ce noble sentiment ?
-Ah ! Si vous n'apprenez à parler d'autre sorte...
+Ah ! Si vous n'apprenez à parler d'autre sorte…
 
 -*who_lope
 Madame, pardonnez à l'ardeur qui l'emporte ;
@@ -1325,7 +1325,7 @@ Qui n'auront leur effet que pour le malheureux :
 Il me devra sa soeur, s'il faut qu'il vous obtienne ;
 Et si je suis à vous, je lui devrai la mienne.
 Celui qui doit vous perdre, ainsi, malgré son sort,
-À s'approcher de vous fait encore son effort ;
+À s'approcher de vous fait encor son effort ;
 Ainsi, pour consoler l'une et l'autre infortune,
 L'une et l'autre est promise, et nous n'en devons qu'une :
 Nous ignorons laquelle ; et vous la choisirez,
@@ -1430,7 +1430,7 @@ Ah ! Ce n'est pas pour moi qu'il est si téméraire ;
 Tantôt dans ses respects j'ai trop vu le contraire :
 Si l'éclat de mon sceptre avait pu le charmer,
 Il ne m'aurait jamais défendu de l'aimer.
-S'il aime en lieu si haut, il aime Dona Elvire ;
+S'il aime en lieu si haut, il aime Done Elvire ;
 Il doit l'accompagner jusque dans son empire,
 Et fait à mes amants ces défis généreux,
 Non pas pour m'acquérir, mais pour se venger d'eux.
@@ -1446,7 +1446,7 @@ Et j'aimerai des trois qui m'en saura venger.
 -*who_blanche
 Que vous peut offenser sa flamme ou sa retraite,
 Puisque vous n'aspirez qu'à vous en voir défaite ?
-Je ne sais pas s'il aime ou Dona Elvire ou vous,
+Je ne sais pas s'il aime ou Done Elvire ou vous,
 Mais je ne comprends point ce mouvement jaloux.
 
 -*who_isabelle
@@ -1471,7 +1471,7 @@ forme de son respect la trompeuse apparence :
 faux respect qui me brave, et veut régner sans moi !
 
 -*who_blanche
-Pour aimer Dona Elvire, il n'est pas encore roi.
+Pour aimer Done Elvire, il n'est pas encor roi.
 
 -*who_isabelle
 Elle est reine, et peut tout sur l'esprit de sa mère.
@@ -1497,7 +1497,7 @@ Que ne m'en ont permis ces tristes lois d'honneur.
 
 -*who_blanche
 La belle occasion que votre jalousie,
-Douteuse encore qu'elle est, a promptement saisie !
+Douteuse encor qu'elle est, a promptement saisie !
 
 -*who_isabelle
 Allons l'examiner, Blanche, et tâchons de voir
@@ -1529,7 +1529,7 @@ Comtes, flatte trop tôt ma nouvelle espérance :
 D'un avis si douteux j'attends fort peu de fruit ;
 Et ce grand bruit enfin peut-être n'est qu'un bruit.
 Mais jugez-en tous deux, et me daignez apprendre
-Ce qu'avec raison mon coeur en doit attendre.
+Ce qu'avecque raison mon coeur en doit attendre.
 Les troubles d'Aragon vous sont assez connus ;
 Je vous en ai souvent tous deux entretenus,
 Et ne vous redis point quelles longues misères
@@ -1649,7 +1649,7 @@ Recevez, comme roi, notre premier hommage.
 
 -*who_carlos
 Comtes, ces faux respects dont je me vois surpris
-Sont plus injurieux encore que vos mépris.
+Sont plus injurieux encor que vos mépris.
 Je pense avoir rendu mon nom assez illustre
 Pour n'avoir pas besoin qu'on lui donne un faux lustre.
 Reprenez vos honneurs où je n'ai point de part.
@@ -1667,7 +1667,7 @@ On la fait avec grâce aussi bien qu'avec gloire.
 Mais vous précipitez un peu trop ce dessein :
 La bague de la reine est encore en ma main ;
 Et l'inconnu Carlos, sans nommer sa famille,
-Vous sert encore d'obstacle au trône de Castille.
+Vous sert encor d'obstacle au trône de Castille.
 Ce bras, qui vous sauva de la captivité,
 Peut s'opposer encore à votre avidité.
 
@@ -1676,7 +1676,7 @@ Pour n'être que Carlos, vous parlez bien en maître,
 Et tranchez bien du prince en déniant de l'être.
 Si nous avons tantôt jusqu'au bout défendu
 L'honneur qu'à notre rang nous voyions être dû,
-Nous saurons bien encore jusqu'au bout le défendre ;
+Nous saurons bien encor jusqu'au bout le défendre ;
 Mais ce que nous devons, nous aimons à le rendre.
 Que vous soyez Don Sanche, ou qu'un autre le soit,
 L'un et l'autre de nous lui rendra ce qu'il doit.
@@ -1820,7 +1820,7 @@ Souffrez qu'en m'éloignant je dérobe ma tête
 À l'indigne revers que sa fureur m'apprête.
 Je le vois de trop loin pour l'attendre en ce lieu ;
 Souffrez que je l'évite en vous disant adieu ;
-Souffrez...
+Souffrez…
 
 -*who_isabelle
       Quoi ? Ce grand coeur redoute une couronne !
@@ -1866,7 +1866,7 @@ Il m'a donné d'un roi le nom et le courage ;
 Et depuis que mon coeur est capable d'aimer,
 À moins que d'une reine, il n'a pu s'enflammer :
 Voilà mon premier crime, et je ne puis vous dire
-Qui m'a fait infidèle, ou vous, ou Dona Elvire ;
+Qui m'a fait infidèle, ou vous, ou Done Elvire ;
 Mais je sais que ce coeur, des deux parts engagé,
 Se donnant à vous deux, ne s'est point partagé,
 Toujours prêt d'embrasser son service et le vôtre,
@@ -1880,9 +1880,9 @@ Et perdre en plus d'un lieu des soupirs et des voeux :
 Voilà mon second crime ; et quoique ma souffrance
 Jamais à ce beau feu n'ait permis d'espérance,
 Je ne puis, sans mourir d'un désespoir jaloux,
-Voir dans les bras d'un autre, ou Dona Elvire, ou vous.
+Voir dans les bras d'un autre, ou Done Elvire, ou vous.
 Voyant que votre choix m'apprêtait ce martyre,
-Je voulais m'y soustraire en suivant Dona Elvire,
+Je voulais m'y soustraire en suivant Done Elvire,
 Et languir auprès d'elle, attendant que le sort
 Par un semblable hymen m'eût envoyé la mort.
 Depuis, l'occasion que vous-même avez faite,
@@ -1900,7 +1900,7 @@ Les raisons de l'état règlent toujours leur choix ;
 Leur sévère grandeur jamais ne se ravale,
 Ayant devant les yeux un prince qui l'égale ;
 Et puisque le saint noeud qui le fait votre époux
-Arrête comme soeur Dona Elvire avec vous,
+Arrête comme soeur Done Elvire avec vous,
 Que je ne puis la voir sans voir ce qui me tue,
 Permettez que j'évite une fatale vue,
 Et que je porte ailleurs les criminels soupirs
@@ -1955,7 +1955,7 @@ Vous êtes généreux, mais votre impatience
 Sur un bruit incertain prend trop de confiance ;
 Et cette prompte ardeur de rentrer dans mes fers
 Me console trop tôt d'un trône que je perds.
-Ma perte n'est encore qu'une rumeur confuse
+Ma perte n'est encor qu'une rumeur confuse
 Qui du nom de Carlos, malgré Carlos, abuse ;
 Et vous ne savez pas, à vous en bien parler,
 Par quelle offre et quels voeux on m'en peut consoler.
@@ -1992,7 +1992,7 @@ Jusques à me forcer à dire : " je vous aime. "
 Ce mot est un peu rude à prononcer pour nous ;
 Souffrez qu'à m'expliquer j'en trouve de plus doux.
 Je vous dirai beaucoup, sans pourtant vous rien dire.
-Je sais depuis quel temps vous aimez Dona Elvire ;
+Je sais depuis quel temps vous aimez Done Elvire ;
 Je sais ce que je dois, je sais ce que je puis ;
 Mais, encore une fois, sachons ce que je suis ;
 Et si vous n'aspirez qu'au bonheur de me plaire,
@@ -2001,7 +2001,7 @@ Carlos a tant de lieu de vous considérer,
 Que s'il devient mon roi, vous devez espérer.
 
 -*who_alvar
-Madame...
+Madame…
 
 -*who_elvire
       En ma faveur donnez-vous cette peine,
@@ -2045,7 +2045,7 @@ En cette incertitude on peut faire espérer.
 
 -*who_elvire
 On peut attendre aussi pour en délibérer :
-On agit autrement quand le pouvoir suprême...
+On agit autrement quand le pouvoir suprême…
 
 **** *book_ *id_V03 *act_V *date_1649 *creator_corneille
 
@@ -2091,14 +2091,14 @@ Ah ! Madame !
 
 -*who_blanche
       La funeste journée !
-Votre Carlos...
+Votre Carlos…
 
 -*who_isabelle
       Eh bien ?
 
 -*who_blanche
       Son père est en ces lieux,
-Et n'est...
+Et n'est…
 
 -*who_isabelle
       Quoi ?
@@ -2113,10 +2113,10 @@ Et n'est...
       Mes yeux.
 
 -*who_isabelle
-      Tes yeux ?
+Tes yeux ?
 
 -*who_blanche
-Mes propres yeux.
+      Mes propres yeux.
 
 -*who_isabelle
       Que j'ai peine à les croire !
@@ -2135,7 +2135,7 @@ Et forme une vertu qui n'a lustre que d'elle.
 Parle, Blanche, et dis-nous comme il voit ce malheur.
 
 -*who_blanche
-Avec beaucoup de honte, et plus encore de coeur.
+Avec beaucoup de honte, et plus encor de coeur.
 Du haut de l'escalier je le voyais descendre ;
 En vain de ce faux bruit il se voulait défendre ;
 Votre cour, obstinée à lui changer de nom,
@@ -2171,7 +2171,7 @@ Ses plus grands envieux l'en sauvent malgré lui.
 Il tempête, il menace, et bouillant de colère,
 Il crie à pleine voix qu'on lui rende son père :
 On tremble devant lui sans croire son courroux ;
-Et rien... Mais le voici qui vient s'en plaindre à vous.
+Et rien… Mais le voici qui vient s'en plaindre à vous.
 
 **** *book_ *id_V05 *act_V *date_1649 *creator_corneille
 
@@ -2181,7 +2181,7 @@ Voilà le digne fruit de mon obéissance.
 J'ai prévu ce malheur, et l'aurais évité,
 Si vos commandements ne m'eussent arrêté.
 Ils m'ont livré, madame, à ce moment funeste ;
-Et l'on m'arrache encore le seul bien qui me reste !
+Et l'on m'arrache encor le seul bien qui me reste !
 On me vole mon père ! On le fait criminel !
 On attache à son nom un opprobre éternel !
 Je suis fils d'un pêcheur, mais non pas d'un infâme :
@@ -2191,7 +2191,7 @@ Avec bien plus d'honneur qu'aux sentiments de fils :
 Rien n'en peut effacer le sacré caractère.
 De grâce, commandez qu'on me rende mon père.
 Ce doit leur être assez de savoir qui je suis,
-Sans m'accabler encore par de nouveaux ennuis.
+Sans m'accabler encor par de nouveaux ennuis.
 
 -*who_manrique
 Forcez ce grand courage à conserver sa gloire,
@@ -2299,7 +2299,7 @@ La reine d'Aragon agrandirait son fils.
 Si vous le recevez avec autant de joie,
 Madame, que par moi ce vieillard vous l'envoie,
 Vous donnerez sans doute à cet illustre fils
-Un rang encore plus haut que celui de marquis.
+Un rang encor plus haut que celui de marquis.
 Ce bonhomme en paraît l'âme toute comblée.
 
 -*who_isabelle
@@ -2366,7 +2366,7 @@ Si bien que ce pêcheur, d'aise tout transporté,
 Avait couru chercher ce fils si fort vanté.
 
 -*who_leonor
-Don Raymond, si vos yeux pouvaient le reconnaître...
+Don Raymond, si vos yeux pouvaient le reconnaître…
 
 -*who_raymond
 Oui, je le vois, madame. Ah ! Seigneur, ah ! Mon maître !
@@ -2379,11 +2379,12 @@ La vérité paraît ; cédez aux voeux de tous.
 Don Sanche, voulez-vous être seul incrédule ?
 
 -*who_carlos
-Je crains encore du sort un revers ridicule.
+Je crains encor du sort un revers ridicule.
 Mais, madame, voyez si le billet du roi
 Accorde à Don Raymond ce qu'il vous dit de moi.
 
 -*who_leonor
+
 Pour tromper un tyran je vous trompe vous-même.
 Vous reverrez ce fils que je vous fais pleurer :
 Cette erreur lui peut rendre un jour le diadème ;
@@ -2412,7 +2413,7 @@ Croyez-en vos vertus et votre grand courage.
 
 -*who_carlos
 Ce serait mal répondre à ce rare bonheur
-Que vouloir me défendre encore d'un tel honneur.
+Que vouloir me défendre encor d'un tel honneur.
 Je reprends toutefois Nugne pour mon vrai père,
 Si vous ne m'ordonnez, madame, que j'espère.
 
@@ -2422,7 +2423,7 @@ Je vous avais fait tort en vous faisant marquis ;
 Et vous n'aurez pas lieu désormais de vous plaindre
 De ce retardement où j'ai su vous contraindre.
 Et pour moi, que le ciel destinait pour un roi,
-Digne de la Castille, et digne encore de moi,
+Digne de la Castille, et digne encor de moi,
 J'avais mis cette bague en des mains assez bonnes
 Pour la rendre à Don Sanche, et joindre nos couronnes.
 
@@ -2430,7 +2431,7 @@ Pour la rendre à Don Sanche, et joindre nos couronnes.
 Je ne m'étonne plus de l'orgueil de mes voeux,
 Qui, sans le partager, donnaient mon coeur à deux :
 Dans les obscurités d'une telle aventure,
-L'amour se confondait avec la nature.
+L'amour se confondait avecque la nature.
 
 -*who_elvire
 Le nôtre y répondait sans faire honte au rang,
@@ -2454,7 +2455,7 @@ C'est la même vertu sous une autre maxime.
 
 -*who_raymond
 Souffrez qu'à l'Aragon il daigne se montrer.
-Nos députés, madame, impatients d'entrer...
+Nos députés, madame, impatients d'entrer…
 
 -*who_isabelle
 Il vaut mieux leur donner audience publique,

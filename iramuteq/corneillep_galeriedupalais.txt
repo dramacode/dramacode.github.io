@@ -65,7 +65,7 @@ J'aime son entretien, je chéris sa présence ;
 Mais cela n'est enfin qu'un peu de complaisance,
 Qu'un mouvement léger qui passe en moins d'un jour.
 Vos seuls commandements produiront mon amour,
-Et votre volonté, de la mienne suivie...
+Et votre volonté, de la mienne suivie…
 
 -*who_pleirante
 Favorisant ses voeux, seconde ton envie.
@@ -99,7 +99,7 @@ Et comment vous voulez qu'il passe la journée.
 -*who_celidee
 Je serai chez Daphnis toute l'après-dînée,
 Et s'il m'aime, je crois que nous l'y pourrons voir.
-Autrement...
+Autrement…
 
 -*who_aronte
       Ne pensez qu'à l'y bien recevoir.
@@ -152,7 +152,7 @@ J'aime mieux en payer le double et davantage,
 Et voir ma marchandise en un bel étalage.
 
 -*who_libraire
-Vous avez bien raison ; mais à ce que j'entends...
+Vous avez bien raison ; mais à ce que j'entends…
 Monsieur, vous plaît-il voir quelques livres du temps ?
 
 **** *book_ *id_I05 *act_I *date_1633 *creator_corneille
@@ -207,7 +207,7 @@ Voilà du point d'esprit, de Gênes, et d'Espagne.
 Ceci n'est guère bon qu'à des gens de campagne.
 
 -*who_lingere
-Voyez bien : s'il en est deux pareils dans Paris...
+Voyez bien : s'il en est deux pareils dans Paris…
 
 -*who_hippolyte
 Ne les vantez point tant, et dites-nous le prix.
@@ -324,7 +324,7 @@ Est fort extravagant dedans un cabinet ;
 Il y faut bien louer la beauté qu'on adore,
 Sans mépriser Vénus, sans médire de Flore,
 Sans que l'éclat des lis, des roses, d'un beau jour,
-Ait rien à démêler avec notre amour.
+Ait rien à démêler avecque notre amour.
 O pauvre comédie, objet de tant de veines,
 Si tu n'es qu'un portrait des actions humaines,
 On te tire souvent sur un original
@@ -364,7 +364,7 @@ Des gants, des baudriers, des rubans, des castors.
 **** *book_ *id_I08 *act_I *date_1633 *creator_corneille
 
 -*who_dorimant
-Je ne saurais encore te suivre, si tu sors :
+Je ne saurais encor te suivre, si tu sors :
 Faisons un tour de salle, attendant mon Cléante.
 
 -*who_lysandre
@@ -426,7 +426,7 @@ C'est un autre discours ; à présent je ne touche
 Qu'aux ruses de l'amour contre un esprit farouche,
 Qu'il faut apprivoiser presque insensiblement,
 Et contre ses froideurs combattre finement.
-Des naturels plus doux...
+Des naturels plus doux…
 
 **** *book_ *id_I09 *act_I *date_1633 *creator_corneille
 
@@ -463,7 +463,7 @@ J'aime à te voir ainsi décharger ton courroux ;
 Mais voudrais-tu parler franchement entre nous ?
 
 -*who_dorimant
-Quoi ! Tu doutes encore de ma juste colère ?
+Quoi ! Tu doutes encor de ma juste colère ?
 
 -*who_lysandre
 En ce qui le regarde, elle n'est que légère :
@@ -567,7 +567,7 @@ Dis promptement, de grâce.
 -*who_florice
       À présent l'heure presse,
 Et je ne vous saurais donner qu'un mot d'adresse :
-Cette voisine et vous... Mais déjà la voici.
+Cette voisine et vous… Mais déjà la voici.
 
 **** *book_ *id_I11 *act_I *date_1633 *creator_corneille
 
@@ -621,7 +621,7 @@ On voit un tel éclat en vos brillants appas,
 Qu'on ne peut l'exprimer, ni ne l'adorer pas.
 
 -*who_hippolyte
-Ni ne l'adorer pas ! Par là vous voulez dire...
+Ni ne l'adorer pas ! Par là vous voulez dire…
 
 -*who_dorimant
 Que mon coeur désormais vit dessous votre empire,
@@ -650,7 +650,7 @@ Aussi prompt à brûler que mes yeux à vous voir.
 
 -*who_hippolyte
 Avoir connu d'abord combien je suis aimable,
-Encore qu'à votre avis il soit inexprimable,
+encor qu'à votre avis il soit inexprimable,
 Ce grand et prompt effet m'assure puissamment
 De la vivacité de votre jugement.
 Pour moi, que la nature a faite un peu grossière,
@@ -674,7 +674,7 @@ Adoucir vos rigueurs et finir mes supplices.
 **** *book_ *id_II02 *act_II *date_1633 *creator_corneille
 
 -*who_hippolyte
-Peut-être l'avenir... Tout beau, coureur, tout beau !
+Peut-être l'avenir… Tout beau, coureur, tout beau !
 On n'est pas quitte ainsi pour un coup de chapeau :
 Vous aimez l'entretien de votre fantaisie ;
 Mais pour un cavalier c'est peu de courtoisie,
@@ -689,7 +689,7 @@ J'ai mieux aimé manquer à la civilité.
 
 -*who_hippolyte
 Voilà parer mon coup d'un galant artifice,
-Comme si je pouvais... Que me veux-tu, Florice ?
+Comme si je pouvais… Que me veux-tu, Florice ?
 Dis-lui que je m'en vais. Messieurs, pardonnez-moi :
 On me vient d'apporter une fâcheuse loi ;
 Incivile à mon tour, il faut que je vous quitte.
@@ -697,7 +697,7 @@ Une mère m'appelle.
 
 -*who_dorimant
       Adieu, belle Hippolyte,
-Adieu, souvenez-vous...
+Adieu, souvenez-vous…
 
 -*who_hippolyte
       Mais vous, n'y songez plus.
@@ -711,7 +711,7 @@ Quoi, Dorimant, ce mot t'a rendu tout confus !
 Ce mot à mes désirs laisse peu d'espérance.
 
 -*who_lysandre
-Tu ne la vois encore qu'avec indifférence ?
+Tu ne la vois encor qu'avec indifférence ?
 
 -*who_dorimant
 Comme toi Célidée.
@@ -730,7 +730,7 @@ Sais-tu bien que c'est là justement mon visage,
 Celui que j'avais vu le matin au palais ?
 
 -*who_lysandre
-À ce compte...
+À ce compte…
 
 -*who_dorimant
       J'en tiens, ou l'on n'en tint jamais.
@@ -750,7 +750,7 @@ Leur coup, pour les connaître, en est-il moins fatal ?
 -*who_lysandre
 Non, mais du moins ton coeur n'est plus à la torture
 De voir tes voeux forcés d'aller à l'aventure ;
-Et cette belle humeur de l'objet qui t'a pris...
+Et cette belle humeur de l'objet qui t'a pris…
 
 -*who_dorimant
 Sous un accueil riant cache un subtil mépris.
@@ -927,7 +927,7 @@ Il ne vit rien à craindre, il n'eut rien à souffrir ;
 Il vit sa récompense acquise avant la peine,
 Et devant le combat sa victoire certaine.
 Un homme est bien cruel quand il ne donne pas
-Un coeur qu'on lui demande avec tant d'appas.
+Un cœur qu'on lui demande avecque tant d'appas.
 Qu'à ce prix la constance est une chose aisée,
 Et qu'autrefois par là je me vis abusée !
 Alcidor, que mes yeux avaient si fort épris,
@@ -1171,7 +1171,7 @@ Que voudrait donc par là mon ingrate maîtresse ?
 Elle vous joue un tour de la plus haute adresse.
 Avez-vous bien pris garde au temps de ses mépris ?
 Tant qu'elle vous a cru légèrement épris,
-Que votre chaîne encore n'était pas assez forte,
+Que votre chaîne encor n'était pas assez forte,
 Vous a-t-elle jamais gouverné de la sorte ?
 Vous ignoriez alors l'usage des soupirs ;
 Ce n'étaient que douceurs, ce n'étaient que plaisirs :
@@ -1274,7 +1274,7 @@ C'est par où ses dédains se seront fait entendre.
 Mes amours du passé ne m'ont que trop appris
 Avec quelles couleurs il faut peindre un mépris.
 À peine faisait-on semblant de me connaître,
-De sorte...
+De sorte…
 
 -*who_florice
       Aronte, eh bien ! Qu'as-tu fait vers ton maître ?
@@ -1285,7 +1285,7 @@ Le verrons-nous bientôt ?
 Dans une heure au plus tard je te le rends ici.
 
 -*who_florice
-Prêt à lui témoigner...
+Prêt à lui témoigner…
 
 -*who_aronte
       Tout prêt. Adieu : je tremble
@@ -1297,14 +1297,14 @@ Que de chez Célidée on ne nous voie ensemble.
 D'où vient que mon abord l'oblige à te quitter ?
 
 -*who_florice
-Tant s'en faut qu'il vous fuie, il vient de me conter...
+Tant s'en faut qu'il vous fuie, il vient de me conter…
 Toutefois je ne sais si je vous le dois dire.
 
 -*who_hippolyte
 Que tu te plais, Florice, à me mettre en martyre !
 
 -*who_florice
-Il faut vous préparer à des ravissements...
+Il faut vous préparer à des ravissements…
 
 -*who_hippolyte
 Ta longueur m'y prépare avec bien des tourments :
@@ -1344,10 +1344,10 @@ Tu m'en voudras du mal.
 -*who_hippolyte
       Du mal ? Et l'apparence ?
 Je ne sais pas aimer de si mauvaise foi ;
-Et tout à l'heure encore je lui parlais de toi.
+Et tout à l'heure encor je lui parlais de toi.
 
 -*who_celidee
-Je me retire donc, afin que sans contrainte...
+Je me retire donc, afin que sans contrainte…
 
 -*who_hippolyte
 Quitte cette grimace, et mets à part la feinte.
@@ -1357,7 +1357,7 @@ Mais tu meurs de savoir ce que nous en disions.
 -*who_celidee
 Tu meurs de le conter plus que moi de l'apprendre,
 Et tu prendrais pour crime un refus de l'entendre.
-Puis donc que tu le veux, ma curiosité...
+Puis donc que tu le veux, ma curiosité…
 
 -*who_hippolyte
 Vraiment, tu me confonds de ta civilité.
@@ -1377,7 +1377,7 @@ Je présumais beaucoup de ses affections,
 Mais je n'attendais pas tant de submissions.
 Jamais le désespoir qui saisit son courage
 N'en put tirer un mot à mon désavantage ;
-Il tenait mes dédains encore trop précieux,
+Il tenait mes dédains encor trop précieux,
 Et ses reproches même étaient officieux.
 Aussi ce grand amour a rallumé ma flamme :
 Le change n'a plus rien qui chatouille mon âme ;
@@ -1425,7 +1425,7 @@ Si j'en dis un peu trop, ne t'en offense pas.
 **** *book_ *id_III05 *act_III *date_1633 *creator_corneille
 
 -*who_lysandre
-Merveille des beautés, seul objet qui m'engage...
+Merveille des beautés, seul objet qui m'engage…
 
 -*who_celidee
 N'oublierez-vous jamais cet importun langage ?
@@ -1454,7 +1454,7 @@ Puisqu'en le conservant je penserais à vous.
 
 -*who_lysandre
 Beauté de qui les yeux, nouveaux rois de mon âme,
-Me font être léger sans en craindre le blâme...
+Me font être léger sans en craindre le blâme…
 
 -*who_hippolyte
 Ne vous emportez point à ces propos perdus,
@@ -1467,10 +1467,10 @@ Vous, faites-en autant, sans chercher de retraite
 Aux importunités dont elle s'est défaite.
 
 -*who_lysandre
-Que son exemple encore réglât mes actions !
+Que son exemple encor réglât mes actions !
 Cela fut bon du temps de mes affections :
 À présent que mon coeur adore une autre reine,
-À présent qu'Hippolyte en est la souveraine...
+À présent qu'Hippolyte en est la souveraine…
 
 -*who_hippolyte
 C'est elle seulement que vous voulez flatter.
@@ -1498,7 +1498,7 @@ Souffrez donc que mon coeur sans exemple soupire,
 Qu'il aime sans exemple, et que mes passions
 S'égalent seulement à vos perfections.
 Je vaincrai vos rigueurs par mon humble service,
-Et ma fidélité...
+Et ma fidélité…
 
 -*who_celidee
       Viens avec moi, Florice :
@@ -1547,8 +1547,8 @@ Doit rendre comme vous ma flamme incomparable.
 
 -*who_hippolyte
 Épargnez avec moi ces propos affétés.
-Encore hier Célidée avait ces qualités ;
-Encore hier en mérite elle était sans pareille.
+encor hier Célidée avait ces qualités ;
+encor hier en mérite elle était sans pareille.
 Si je suis aujourd'hui cette unique merveille,
 Demain quelque autre objet, dont vous suivrez la loi,
 Gagnera votre coeur et ce titre sur moi.
@@ -1614,7 +1614,7 @@ Qu'il a presque arraché Lysandre de ce lieu ?
 
 -*who_chrysante
 Simple, ce qu'il en fait, ce n'est qu'à sa prière ;
-Et Lysandre tient même à faveur singulière...
+Et Lysandre tient même à faveur singulière…
 
 -*who_hippolyte
 Je sais que Dorimant est un de ses amis ;
@@ -1660,30 +1660,38 @@ Et j'en aurais pitié si je n'aimais Lysandre.
 **** *book_ *id_III10 *act_III *date_1633 *creator_corneille
 
 -*who_celidee
+
+
 Infidèles témoins d'un feu mal allumé,
 Soyez-les de ma honte, et vous fondant en larmes,
 Punissez-vous, mes yeux, d'avoir trop présumé
 Du pouvoir de vos charmes.
+
 De quoi vous a servi d'avoir su me flatter,
 D'avoir pris le parti d'un ingrat qui me trompe,
 S'il ne fit le constant qu'afin de me quitter
 Avec plus de pompe ?
+
 Quand je m'en veux défaire, il est parfait amant ;
 Quand je veux le garder, il n'en fait plus de conte ;
 Et n'ayant pu le perdre avec contentement,
 Je le perds avec honte.
+
 Ce que j'eus lors de joie augmente mon regret ;
 Par là mon désespoir davantage se pique.
 Quand je le crus constant, mon plaisir fut secret,
 Et ma honte est publique.
+
 Le traître avait senti qu'alors me négliger,
 C'était à Dorimant livrer toute mon âme ;
 Et la constance plut à cet esprit léger
 Pour amortir ma flamme.
+
 Autant que j'eus de peine à l'éteindre en naissant,
 Autant m'en faudra-t-il à la faire renaître :
 De peur qu'a cet amour d'être encore impuissant,
 Il n'ose plus paraître ;
+
 Outre que de mon coeur pleinement exilé,
 Et n'y conservant plus aucune intelligence,
 Il est trop glorieux pour n'être rappelé
@@ -1705,7 +1713,7 @@ Ou bientôt vos douleurs l'accableront d'ennuis.
 -*who_celidee
 Il est cause en effet de l'état où je suis,
 Non pas en la façon qu'un ami s'imagine,
-Mais...
+Mais…
 
 -*who_dorimant
       Vous n'achevez point, faut-il que je devine ?
@@ -1719,7 +1727,7 @@ Et m'obligez demain que je vous puisse voir.
 
 -*who_dorimant
 De sorte qu'à présent on n'en peut rien savoir ?
-Dieux ! Elle se dérobe, et me laisse en un doute...
+Dieux ! Elle se dérobe, et me laisse en un doute…
 Poursuivons toutefois notre première route ;
 Peut-être ces beaux yeux, dont l'éclat me surprit,
 De ce fâcheux soupçon purgeront mon esprit.
@@ -1765,7 +1773,7 @@ Et comme s'il avait reconnu son erreur,
 Vos yeux lui sont à charge et sa feinte en horreur :
 Même il m'a commandé d'aller vers sa cruelle
 Lui jurer que son coeur n'a brûlé que pour elle,
-Attaquer son orgueil par des submissions...
+Attaquer son orgueil par des submissions…
 
 -*who_hippolyte
 J'entends assez le but de tes commissions.
@@ -1781,7 +1789,7 @@ Je ne réponds de rien. L'amour qu'ils ont tous deux
 Vaincra notre artifice et parlera pour eux.
 
 -*who_hippolyte
-Sa maîtresse éblouie ignore encore ma flamme,
+Sa maîtresse éblouie ignore encor ma flamme,
 Et laisse à mes conseils tout pouvoir sur son âme.
 Ainsi tout est à nous, s'il ne faut qu'empêcher
 Qu'un si fidèle amant n'en puisse rapprocher.
@@ -1862,7 +1870,7 @@ Et te vient d'envoyer lui faire un compliment.
 
 -*who_celidee
 Après cette retraite et ce morne silence,
-Pouvez-vous bien encore demeurer en balance ?
+Pouvez-vous bien encor demeurer en balance ?
 
 -*who_dorimant
 Je n'en ai que trop vu, mes yeux m'en ont trop dit :
@@ -1911,7 +1919,7 @@ Sans les voir l'un ni l'autre en péril exposés,
 Il est pour vous venger des moyens plus aisés.
 Pour peu que vous fussiez de mon intelligence,
 Vous auriez bientôt pris une juste vengeance ;
-Et vous pourriez sans bruit ôter à l'inconstant...
+Et vous pourriez sans bruit ôter à l'inconstant…
 
 -*who_dorimant
 Quoi ? Ce qu'il m'a volé ?
@@ -1951,7 +1959,7 @@ Ma plus douce fortune est de tout ignorer :
 Je serais trop heureux sans le rapport d'Aronte.
 
 -*who_aronte
-Encore pour Dorimant, il en a quelque honte :
+encor pour Dorimant, il en a quelque honte :
 Vous voyant, il a fui.
 
 -*who_lysandre
@@ -1987,7 +1995,7 @@ Vous en devez, monsieur, présumer beaucoup mieux.
 Conseiller importun, ôte-toi de mes yeux.
 
 -*who_aronte
-Son âme...
+Son âme…
 
 -*who_lysandre
       Ôte-toi, dis-je, et dérobe ta tête
@@ -2021,7 +2029,7 @@ Mais vous pourrais-je aimer, quand vous m'osez trahir ?
 Qu'un rigoureux combat déchire mon courage !
 Ma jalousie augmente et redouble ma rage ;
 Mais quelques fiers projets qu'elle jette en mon coeur,
-L'amour... Ah ! Ce mot seul me range à la douceur.
+L'amour… Ah ! Ce mot seul me range à la douceur.
 Celle que nous aimons jamais ne nous offense ;
 Un mouvement secret prend toujours sa défense :
 L'amant souffre tout d'elle, et dans son changement,
@@ -2036,7 +2044,7 @@ S'il vous faut épargner le sujet de mes feux,
 Que ce traître du moins réponde pour tous deux.
 Vous me devez son sang pour expier son crime :
 Contre sa lâcheté tout vous est légitime ;
-Et quelques châtiments... Mais, dieux ! Que vois-je ici ?
+Et quelques châtiments… Mais, dieux ! Que vois-je ici ?
 
 **** *book_ *id_IV06 *act_IV *date_1633 *creator_corneille
 
@@ -2046,7 +2054,7 @@ Ce visage enflammé, ces yeux pleins de colère,
 En font voir au dehors une marque trop claire.
 Je prends assez de part en tous vos intérêts
 Pour vouloir en aveugle y mêler mes regrets ;
-Mais si vous me disiez ce qui cause vos peines...
+Mais si vous me disiez ce qui cause vos peines…
 
 -*who_lysandre
 Ah ! Ne m'imposez point de si cruelles gênes ;
@@ -2083,7 +2091,7 @@ Avant qu'il fût longtemps, interrompraient leur cours !
 Dans ce peu de succès des ruses de Florice,
 J'ai manqué de bonheur, mais non pas de malice ;
 Et si j'en puis jamais trouver l'occasion,
-J'y mettrai bien encore de la division.
+J'y mettrai bien encor de la division.
 Si notre pauvre amant est plein de jalousie,
 Ma rivale, qui sort, n'en est pas moins saisie.
 
@@ -2149,7 +2157,7 @@ Outre, hélas ! Que le ciel s'oppose à nos attentes,
 Lysandre n'a plus rien à rengager ma foi.
 
 -*who_hippolyte
-Mais l'autre, tu voudrais...
+Mais l'autre, tu voudrais…
 
 **** *book_ *id_IV09 *act_IV *date_1633 *creator_corneille
 
@@ -2181,10 +2189,10 @@ Mais de grâce, monsieur, parlez plus clairement :
 Je ne puis deviner ce que vous voulez dire.
 
 -*who_pleirante
-Un certain cavalier pour vos beaux yeux soupire...
+Un certain cavalier pour vos beaux yeux soupire…
 
 -*who_hippolyte
-Vous en voulez par là...
+Vous en voulez par là…
 
 -*who_pleirante
       Ce n'est point fiction
@@ -2228,7 +2236,7 @@ Lysandre !
       Oui, ton Lysandre.
 
 -*who_celidee
-      Et lui-même cajole...
+      Et lui-même cajole…
 
 -*who_pleirante
 Quoi ? Que cajole-t-il ?
@@ -2280,7 +2288,7 @@ Il faut que nous manquions, vous et moi, de promesse ?
 Quittez, pour votre bien, ces fantasques refus.
 
 -*who_celidee
-Monsieur...
+Monsieur…
 
 -*who_pleirante
       Quittez-les, dis-je, et ne contestez plus.
@@ -2292,7 +2300,7 @@ Fâcheux commandement d'un incrédule père !
 Qu'il me fut doux jadis, et qu'il me désespère !
 J'avais, auparavant qu'on m'eût manqué de foi,
 Le devoir et l'amour tout d'un parti chez moi,
-Et ma flamme, d'accord avec sa puissance,
+Et ma flamme, d'accord avecque sa puissance,
 Unissait mes désirs à mon obéissance ;
 Mais, hélas ! Que depuis cette infidélité
 Je trouve d'injustice en son autorité !
@@ -2304,7 +2312,7 @@ Nous avons l'un pour l'autre une pareille haine,
 Et l'on m'attache à lui d'une éternelle chaîne.
 Mais s'il ne m'aimait plus, parlerait-il d'amour
 À celui dont je tiens la lumière du jour ?
-Mais s'il m'aimait encore, verrait-il Hippolyte ?
+Mais s'il m'aimait encor, verrait-il Hippolyte ?
 Mon coeur en même temps se retient et s'excite.
 Je ne sais quoi me flatte, et je sens déjà bien
 Que mon feu ne dépend que de croire le sien.
@@ -2323,7 +2331,7 @@ Sans que mes yeux encore aident à ma ruine.
 
 -*who_lingere
 J'enverrai tout à bas, puis après on verra.
-Ardez, vraiment c'est-mon, on vous l'endurera !
+Ardez, vraiment cémon, on vous l'endurera !
 Vous êtes un bel homme, et je dois fort vous craindre !
 
 -*who_mercier
@@ -2399,7 +2407,7 @@ Eh bien, qu'en dites-vous ?
 
 -*who_florice
       J'en suis toute ravie,
-Et n'ai rien encore vu de pareil en ma vie.
+Et n'ai rien encor vu de pareil en ma vie.
 Vous aurez notre argent, si l'on croit mon rapport.
 Que celui-ci me semble et délicat et fort !
 Que cet autre me plaît ! Que j'en aime l'ouvrage !
@@ -2419,7 +2427,7 @@ Mais avisez alors à me récompenser.
 
 -*who_florice
 L'offre n'est pas mauvaise, et vaut bien y penser :
-Vous me verrez demain avec ma maîtresse.
+Vous me verrez demain avecque ma maîtresse.
 
 **** *book_ *id_IV14 *act_IV *date_1633 *creator_corneille
 
@@ -2470,7 +2478,7 @@ De suivante qui m'aide à tromper sa maîtresse.
 
 -*who_lingere
 Quand il faut dire tout, on s'entre-connaît bien ;
-Chacun sait son métier, et... Mais je ne dis rien.
+Chacun sait son métier, et… Mais je ne dis rien.
 
 -*who_mercier
 Vous ferez un grand coup si vous pouvez vous taire.
@@ -2484,7 +2492,7 @@ Je ne réplique point à des gens en colère.
 Indiscrète vengeance, imprudentes chaleurs,
 Dont l'impuissance ajoute un comble à mes malheurs,
 Ne me conseillez plus la mort de ce faussaire.
-J'aime encore Célidée, et n'ose lui déplaire :
+J'aime encor Célidée, et n'ose lui déplaire :
 Priver de la clarté ce qu'elle aime le mieux,
 Ce n'est pas le moyen d'agréer à ses yeux.
 L'amour, en la perdant, me retient en balance ;
@@ -2505,7 +2513,7 @@ Si tu te sens trop faible, appelle à ton secours
 Le souvenir de mille et de mille heureux jours,
 Où ses désirs, d'accord avec mon espérance,
 Ne laissaient à nos voeux aucune différence.
-Je pense avoir encore ce qui la sut charmer,
+Je pense avoir encor ce qui la sut charmer,
 Les mêmes qualités qu'elle voulut aimer.
 Peut-être mes douleurs ont changé mon visage ;
 Mais en revanche aussi je l'aime davantage ;
@@ -2636,7 +2644,7 @@ Pleirante, qui rompit ces ennuyeux discours,
 Sait bien que mon amour n'en changea point de cours :
 Contre votre froideur une modeste plainte
 Fut tout notre entretien au sortir de la feinte ;
-Et je le priai lors...
+Et je le priai lors…
 
 -*who_celidee
       D'user de son pouvoir ?
@@ -2720,7 +2728,7 @@ Mérite bien qu'en hâte on le tire d'erreur.
 
 -*who_lysandre
 Vous craignez qu'à vos yeux cette belle Hippolyte
-N'ait encore de ma bouche une hommage hypocrite ?
+N'ait encor de ma bouche une hommage hypocrite ?
 
 -*who_celidee
 Non : je fuis Dorimant qu'ensemble j'aperçois ;
@@ -2743,7 +2751,7 @@ En voici presque trois que je n'ai pu vous voir,
 Pour rendre à vos beautés ce que je sais devoir ;
 Et n'était qu'aujourd'hui cette heureuse rencontre,
 Sur le point de rentrer, par hasard me les montre,
-Je crois que ce jour même aurait encore passé
+Je crois que ce jour même aurait encor passé
 Sans moyen de m'en plaindre aux yeux qui m'ont blessé.
 
 -*who_hippolyte
@@ -2891,7 +2899,7 @@ Lysandre me plaisait, et tout mon artifice
 N'allait qu'à détourner son coeur de ton service.
 J'ai fait ce que j'ai pu pour brouiller vos esprits ;
 J'ai, pour me l'attirer, pratiqué tes mépris ;
-Mais puisqu'ainsi le ciel rejoint votre hyménée...
+Mais puisqu'ainsi le ciel rejoint votre hyménée…
 
 -*who_dorimant
 Votre rigueur vers moi doit être terminée.
@@ -2901,7 +2909,7 @@ Vous savez trop à quoi la parole vous lie.
 
 -*who_hippolyte
 À vous dire le vrai, j'ai fait une folie :
-Je les croyais encore loin de se réunir,
+Je les croyais encor loin de se réunir,
 Et moi, par conséquent, loin de vous la tenir.
 
 -*who_dorimant
@@ -2918,7 +2926,7 @@ Je crois qu'eux deux ensemble en parlent à présent.
 Après cette faveur qu'on me vient de promettre,
 Je crois que mes devoirs ne se peuvent remettre :
 J'espère tout de lui ; mais pour un bien si doux
-Je ne saurais...
+Je ne saurais…
 
 -*who_lysandre
       Arrête : ils s'avancent vers nous.
@@ -2938,7 +2946,7 @@ Si vous avez gagné ses inclinations,
 Soyez sûr du succès de vos affections ;
 Mais je ne suis pas femme à forcer son courage ;
 Je sais ce que la force est en un mariage.
-Il me souvient encore de tous mes déplaisirs
+Il me souvient encor de tous mes déplaisirs
 Lorsqu'un premier hymen contraignit mes désirs ;
 Et sage à mes dépens, je veux bien qu'Hippolyte
 Prenne ou laisse, à son choix, un homme de mérite.

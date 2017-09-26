@@ -487,7 +487,7 @@ Oui.
     LÉANDRE.
 Éloignez ce valet.  
 
-    LE CAMPAGNARD, À JODELET QUI S'APPROCHE.
+    LE CAMPAGNARD, À JODELET QUI S’APPROCHE.
         Trêve de confidence !  
 
     JODELET.
@@ -654,7 +654,7 @@ Qui depuis quelques mois était venu de Rome
 Et que, si vous vouliez faire le moindre trait,  
 Vous feriez un miracle, et non pas un portrait.  
 
-    LÉANDRE, LUI MONTRANT L'HABIT QU'IL PORTE ET QUI SEMBLE TROP RICHE POUR UN PEINTRE.
+    LÉANDRE, LUI MONTRANT L’HABIT QU’IL PORTE ET QUI SEMBLE TROP RICHE POUR UN PEINTRE.
 Qu'as-tu dit pour laisser l'habit de broderie ?  
 
     ANSELME.
@@ -948,13 +948,13 @@ Lisez donc ce billet, et gardez qu'il n'entende.
     JODELET.
 Que disent-ils tout bas ?  
 
-    ALCIPE, S'EN ALLANT QU'ILS SE SONT PARLÉS BAS.
+    ALCIPE, S’EN ALLANT QU’ILS SE SONT PARLÉS BAS.
         La peine n'est pas grande.  
 
 
 ## SCÈNE III. Jodelet, Le Campagnard.
 
-    LE CAMPAGNARD, LISANT LE BILLET QU'ALCIPE LUI A LAISSÉ.
+    LE CAMPAGNARD, LISANT LE BILLET QU’ALCIPE LUI A LAISSÉ.
 Je ne vous connais plus pour ami désormais,  
 Ayant fait cent discours a mon désavantage,  
 Et pour me satisfaire en homme de courage,  
@@ -1280,7 +1280,7 @@ Monsieur, je n'en ai point d'aucun peintre moderne.
     LE CAMPAGNARD.
 Pensez qu'en ce pays ils sont tous ignorants ?  
 
-    LÉANDRE, AU CAMPAGNARD, VOYANT QU'IL PRENAIT "MODERNE" POUR LE NOM D'UNE VILLE.
+    LÉANDRE, AU CAMPAGNARD, VOYANT QU’IL PRENAIT "MODERNE" POUR LE NOM D’UNE VILLE.
 Moderne, ce n'est pas un pays.  
 
     LE CAMPAGNARD.
@@ -1473,7 +1473,7 @@ Ma nièce, je reviens ici dans un moment.
     LE CAMPAGNARD.
 Que faisait en ce lieu le plus savant des hommes?  
 
-    ANSELME, D'UN TON GRAVE.
+    ANSELME, D’UN TON GRAVE.
 Nous en sommes le moindre, en l'état où nous sommes,  
 Et verrions notre esprit tous les jours en défaut,   [39]
 Sans les rayons infus qui nous viennent d'en haut.  
@@ -1868,7 +1868,7 @@ J'y veux encor penser. Mais quelqu'un vient ici.
 
 ## SCÈNE IV. La Campagnard, Bazile, Cliton, Phénice, Philis, Jodelet.
 
-    BAZILE, À CLIRON, POUR L'ACCOMODER AVEC LE CAMPAGNARD.
+    BAZILE, À CLIRON, POUR L’ACCOMODER AVEC LE CAMPAGNARD.
 Vous devez avancer, puisqu'il avance aussi,  
 Et parier le premier, ayant 6meu l'affaire.  
 Embrassez-vous.  
@@ -2470,7 +2470,7 @@ Je porte à mon côté de quoi vous le défendre.
     LE CAMPAGNARD.
 En autre lieu qu'ici je pourrais l'entreprendre.  
 
-    CLITON, METTANT L'ÉPÉE À LA MAIN.
+    CLITON, METTANT L’ÉPÉE À LA MAIN.
 Ah ! C'est trop !  
 
     LE CAMPAGNARD.
@@ -2548,7 +2548,7 @@ C'en est trop de vouloir contraindre les désirs.
     BAZILE.
 Il est vrai, mais il faut accommoder la chose.  
 
-    CLITON, EN S'EN ALLANT.
+    CLITON, EN S’EN ALLANT.
 Le démêlé finit, puisque je hais la cause,  
 Et pour le témoigner, je suis son serviteur.  
 
@@ -2765,7 +2765,7 @@ Que l'on nomme à la cour les dieux des symphonies.
     PHILIS.
 Ne nous en chantez point qui soient si sérieux.  
 
-    JODELET, S'ESSAYANT À CHANTER.
+    JODELET, S’ESSAYANT À CHANTER.
 La, la, j'ai votre fait, mais il est un peu vieux.  
 Ah ! Que cet instrument a l'accord difficile !  
 Je n'en touchai jamais sans m'échauffer la bile.   [52]
@@ -2951,7 +2951,7 @@ Maraud !
     PHILIS, À LÉANDRE.
     Contraignez-vous.  
 
-    LE CAMPAGNARD, L'ÉPÉE À LA MAIN.
+    LE CAMPAGNARD, L’ÉPÉE À LA MAIN.
         Apprends à te connaître.  
 
     LÉANDRE.
@@ -2997,7 +2997,7 @@ Et peut-être tantôt...
     LE CAMPAGNARD.
         Il faut que je l'assomme.  
 
-    LÉANDRE, PRENANT L'ÉPÉE QUE JODELET AVAIT ÔTÉE EN CHANTANT.
+    LÉANDRE, PRENANT L’ÉPÉE QUE JODELET AVAIT ÔTÉE EN CHANTANT.
 Mais qu'à propos je vois l'arme de Jodelet !  
 Ça, voyons.  
 

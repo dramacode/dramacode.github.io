@@ -25,7 +25,7 @@ Achevé d'imprimer pour la premiere fois le 8 Mars 1668. à Roüen, par L. MAURR
 
 Les Exemplaires ont esté fournis.
 
-**** *book_ *id_body-401 *act_ *date_1668 *creator_corneille
+**** *book_ *id_I01 *act_ *date_1668 *creator_corneille
 
 -*who_axiane
 Quoy, le Senat députe⁎, et sans daigner attendre
@@ -222,7 +222,7 @@ Juge, Alcine …
 -*who_alcine
       Voyez que l'amour vous l'amene.
 
-**** *book_ *id_body-402 *act_ *date_1668 *creator_corneille
+**** *book_ *id_I02 *act_ *date_1668 *creator_corneille
 
 -*who_ariarate
 Madame, vous sçavez le dessein de la Reyne.
@@ -371,7 +371,7 @@ Et que quoy que l'amour vous forçast d'entreprendre
 Vous pourriez esperer le succez le plus doux,
 Si l'orgueil de mon rang n'estoit pas contre vous.
 
-**** *book_ *id_body-403 *act_ *date_1668 *creator_corneille
+**** *book_ *id_I03 *act_ *date_1668 *creator_corneille
 
 -*who_phradate
 Voudrez-vous l'advouër ? La Princesse Axiane
@@ -554,7 +554,7 @@ Ce sera lors…
 Laissez-moi penetrer ce qu'il ose prétendre,
 Ses projets n'ont plus lieu d'alarmer vôtre amour.
 
-**** *book_ *id_body-404 *act_ *date_1668 *creator_corneille
+**** *book_ *id_I04 *act_ *date_1668 *creator_corneille
 
 -*who_anaxandre
 Phradate prend grand soin de vous faire sa Cour,
@@ -634,7 +634,7 @@ Allez trouver la Reyne, et recevez ma foy
 Que le Trône est à vous si son choix est pour moy.
 Fin du premier acte.
 
-**** *book_ *id_body-501 *act_ *date_1668 *creator_corneille
+**** *book_ *id_II01 *act_ *date_1668 *creator_corneille
 
 -*who_cleone
 Madame, on est surpris que dés aujourd'huy mesme
@@ -776,7 +776,7 @@ Et me plaignes du moins…
       Escoute-moy,
 Et voy si je répons à ce que je me doy.
 
-**** *book_ *id_body-502 *act_ *date_1668 *creator_corneille
+**** *book_ *id_II02 *act_ *date_1668 *creator_corneille
 
 -*who_laodice
 Il faut faire un grand choix, Oronte, et mon adresse
@@ -910,7 +910,7 @@ Il ne faut plus cacher…
 Que je voudrois encor déguiser mon dessein,
 Comme il est resolu je consents qu'il éclate.
 
-**** *book_ *id_body-503 *act_ *date_1668 *creator_corneille
+**** *book_ *id_II03 *act_ *date_1668 *creator_corneille
 
 -*who_laodice
 Prince, j'entens toûjours parler d'Ariarate,
@@ -954,7 +954,7 @@ Malgré vous, malgré Rome il sera vostre Maistre,
 Et si quelque insolent murmure de mon choix,
 Je suis Reyne, et le Sceptre est la foudre des Rois.
 
-**** *book_ *id_body-504 *act_ *date_1668 *creator_corneille
+**** *book_ *id_II04 *act_ *date_1668 *creator_corneille
 
 -*who_anaxandre
 Dans l'espoir dont je voy que la Reyne vous flate
@@ -1007,7 +1007,7 @@ Vous n'avez rien pour vous de plus fort que son choix.
 -*who_anaxandre
 Quoy, déjà Souverain jusqu'à disposer d'elle ?
 
-**** *book_ *id_body-505 *act_ *date_1668 *creator_corneille
+**** *book_ *id_II05 *act_ *date_1668 *creator_corneille
 
 -*who_theodot
 Ah, Seigneur, sçavez-vous une grande nouvelle ?
@@ -1063,7 +1063,7 @@ Vostre sort sera beau, quoy que le Ciel ordonne,
 Et du moins un moment, Phradate que je voy
 Peut adorer en vous le Fantosme d'un Roy.
 
-**** *book_ *id_body-506 *act_ *date_1668 *creator_corneille
+**** *book_ *id_II06 *act_ *date_1668 *creator_corneille
 
 -*who_phradate
 Seigneur, d'où naist ce bruit qui tout à coup éclate,
@@ -1104,7 +1104,7 @@ Et j'iray découvrir quand il s'agit d'un Roy,
 Quels secrets sentimens Axiane a pour moy
 Fin du second Acte.
 
-**** *book_ *id_body-601 *act_ *date_1668 *creator_corneille
+**** *book_ *id_III01 *act_ *date_1668 *creator_corneille
 
 -*who_axiane
 Je veux bien l'avouër, que malgré vôtre flame
@@ -1253,7 +1253,7 @@ Sçachez…
 -*who_axiane
       La Reyne vient, et c'est trop t'écouter.
 
-**** *book_ *id_body-602 *act_ *date_1668 *creator_corneille
+**** *book_ *id_III02 *act_ *date_1668 *creator_corneille
 
 -*who_laodice
 Princesse, enfin le Ciel par d'éclatantes marques
@@ -1301,7 +1301,7 @@ Je vous la jure entiere, et vous l'éprouverez.
 -*who_laodice
 Qu'on me laisse icy seule; Oronte, demeurez.
 
-**** *book_ *id_body-603 *act_ *date_1668 *creator_corneille
+**** *book_ *id_III03 *act_ *date_1668 *creator_corneille
 
 -*who_ariarate
 Madame, j'attendois à vous faire paroistre
@@ -1518,7 +1518,7 @@ D'avoir donné mon sang au refus d'un forfait.
 C'est trop, n'en parlons plus, tant de vertu me lasse.
 A moy, quelqu'un.
 
-**** *book_ *id_body-604 *act_ *date_1668 *creator_corneille
+**** *book_ *id_III04 *act_ *date_1668 *creator_corneille
 
 -*who_cleone
       Madame.
@@ -1561,7 +1561,7 @@ Et bien ?
       Allez, vous dis je,
 Je connois vostre cœur, vous le mien, il suffit.
 
-**** *book_ *id_body-605 *act_ *date_1668 *creator_corneille
+**** *book_ *id_III05 *act_ *date_1668 *creator_corneille
 
 -*who_cleone
 Quel nouveau trouble encor agite vostre esprit ?
@@ -1586,7 +1586,7 @@ Comme si pouvant seul adoucir vostre ennuy…
 Viens, suy-moy, tu sçaura ce que je veux de luy.
 Fin du troisième acte.
 
-**** *book_ *id_body-701 *act_ *date_1668 *creator_corneille
+**** *book_ *id_IV01 *act_ *date_1668 *creator_corneille
 
 -*who_laodice
 En vain tu me fais voir que le peuple est à craindre.
@@ -1659,7 +1659,7 @@ Y voir briller sa gloire, et faire en ce grand jour
 Servir l'ambition de prétexte à l'amour.
 C'est par là seulement que ma honte s'efface.
 
-**** *book_ *id_body-702 *act_ *date_1668 *creator_corneille
+**** *book_ *id_IV02 *act_ *date_1668 *creator_corneille
 
 -*who_axiane
 Ah, Madame, apprenez une étrange disgrace⁎,
@@ -1693,7 +1693,7 @@ On parle seulement de desordre, d'insulte
 Qu'a causé pour les rangs un impréveu tumulte,
 Mais sans que rien s'explique, et si l'on peut douter…
 
-**** *book_ *id_body-703 *act_ *date_1668 *creator_corneille
+**** *book_ *id_IV03 *act_ *date_1668 *creator_corneille
 
 -*who_laodice
 Que m'apprend-on, Phradate, et qu'ay-je à redouter ?
@@ -1776,7 +1776,7 @@ Si j'oubliois si-tost la mort d'Ariarate.
 Vangez-la, punissez un perfide assassin,
 Et le Senat aprés reglera mon Destin.
 
-**** *book_ *id_body-704 *act_ *date_1668 *creator_corneille
+**** *book_ *id_IV04 *act_ *date_1668 *creator_corneille
 
 -*who_laodice
 Et bien, mon Fils est mort, Anaxandre ?
@@ -1847,7 +1847,7 @@ Un sensible interest à punir vous invite,
 Madame, et je craindrois dans un sort si cruel
 D'avoir de mauvais yeux à voir le criminel.
 
-**** *book_ *id_body-705 *act_ *date_1668 *creator_corneille
+**** *book_ *id_IV05 *act_ *date_1668 *creator_corneille
 
 -*who_laodice
 Viens, Oronte, et répons, c'est en vain qu'on t'excuse,
@@ -1877,7 +1877,7 @@ Et n'ayant point de part à la coupable ardeur…
 -*who_ariarate
 Vous pourrez achever devant l'Ambassadeur.
 
-**** *book_ *id_body-706 *act_ *date_1668 *creator_corneille
+**** *book_ *id_IV06 *act_ *date_1668 *creator_corneille
 
 -*who_laodice
 Seigneur, qui l'auroit crû qu'un jour si plein de charmes
@@ -1993,7 +1993,7 @@ Et ne soufrirez⁎ pas que l'on me pousse à bout.
 -*who_aquilius
 Suivez, Lucilian, et prenez garde à tout.
 
-**** *book_ *id_body-707 *act_ *date_1668 *creator_corneille
+**** *book_ *id_IV07 *act_ *date_1668 *creator_corneille
 
 -*who_laodice
 Estes-vous satisfait, Seigneur, de ma franchise ?
@@ -2071,7 +2071,7 @@ Venez pourvoir à tout, et selon vos souhaits
 Ordonnez de la ville ainsy que du Palais.
 Fin du quatriéme Acte.
 
-**** *book_ *id_body-801 *act_ *date_1668 *creator_corneille
+**** *book_ *id_V01 *act_ *date_1668 *creator_corneille
 
 -*who_ariarate
 Quoy, malgré tant d'efforts pour calmer sa furie
@@ -2130,7 +2130,7 @@ La voicy, laissez-moy sur cette ame trop dure
 Faire un dernier effort pour vaincre la nature,
 Le temps de ce triomphe est peut-estre arrivé.
 
-**** *book_ *id_body-802 *act_ *date_1668 *creator_corneille
+**** *book_ *id_V02 *act_ *date_1668 *creator_corneille
 
 -*who_laodice
 Vous l'emportez, Oronte, et mon Fils est sauvé,
@@ -2373,7 +2373,7 @@ Il m'en ouvre la voye, et j'y sçauray pourvoir.
 Les prieres d'un Fils auront quelque pouvoir,
 Et si le temps fait tout, il m'est permis de croire…
 
-**** *book_ *id_body-803 *act_ *date_1668 *creator_corneille
+**** *book_ *id_V03 *act_ *date_1668 *creator_corneille
 
 -*who_laodice
 Princesse, joüissez enfin de vôtre gloire⁎.
@@ -2386,7 +2386,7 @@ Vous ne douterez point s'il est digne de vous,
 Je vous laisse avec luy partager cette joye,
 Il vous en dira plus.
 
-**** *book_ *id_body-804 *act_ *date_1668 *creator_corneille
+**** *book_ *id_V04 *act_ *date_1668 *creator_corneille
 
 -*who_axiane
       Que faut-il que je croye ?
@@ -2418,7 +2418,7 @@ Et ce hardy tumulte où sa crainte l'engage
 De sa fidelité me donne un nouveau gage,
 Mais il faut le calmer, et c'est ce que je puis.
 
-**** *book_ *id_body-805 *act_ *date_1668 *creator_corneille
+**** *book_ *id_V05 *act_ *date_1668 *creator_corneille
 
 -*who_ariarate
 Seigneur, il n'est plus temps de cacher qui je suis.
@@ -2445,7 +2445,7 @@ On y feroit sans vous des efforts superflus.
 -*who_ariarate
 J'y cours, mais...
 
-**** *book_ *id_body-806 *act_ *date_1668 *creator_corneille
+**** *book_ *id_V06 *act_ *date_1668 *creator_corneille
 
 -*who_phradate
       Ah, Seigneur, la Reyne ne vit plus.

@@ -2,7 +2,7 @@
 identifier: corneillet_mortempereurcommode  
 creator: Corneille, Thomas  
 date: 1657  
-title: La Mort de l'empereur Commode. , tragédie  
+title: La Mort de l’empereur Commode. , tragédie  
 ---
 
 
@@ -2343,7 +2343,7 @@ S'il me tient lieu de peine, il doit la partager.
 
 ## SCÈNE PREMIÈRE. Marcia, Laetus, Lucie.
 
-    MARCIA, TENANT LES TABLETTES DE L'EMPEREUR.
+    MARCIA, TENANT LES TABLETTES DE L’EMPEREUR.
 Je ne le cèle point ; l'entreprise est si noire  
 Qu'à bien l'examiner j'ose à peine la croire,  
 Et douterais encor d'un si lâche dessein  

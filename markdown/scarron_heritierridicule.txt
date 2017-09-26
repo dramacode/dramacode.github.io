@@ -2,7 +2,7 @@
 identifier: scarron_heritierridicule  
 creator: Scarron, Paul  
 date: 1649  
-title: L'Héritier ridicule.  ou la dame intéressée  
+title: L’Héritier ridicule.  ou la dame intéressée  
 ---
 
 
@@ -1841,7 +1841,7 @@ Personne contre vous n'a d'assez fortes armes.
     BÉATRIX.
 Madame.  
 
-    LÉONOR, ELLE PARLE À L'OREILLE.
+    LÉONOR, ELLE PARLE À L’OREILLE.
         Approchez-vous ; est-il déjà là-bas ?  
 
     BÉATRIX.

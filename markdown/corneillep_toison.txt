@@ -2,7 +2,7 @@
 identifier: corneillep_toison  
 creator: Corneille, Pierre  
 date: 1660  
-title: La Conquête de la Toison d'or. , tragédie  
+title: La Conquête de la Toison d’or. , tragédie  
 ---
 
 
@@ -72,7 +72,7 @@ Et quand je vois quel prix me coûtent vos lauriers,
 J'en vois avec chagrin couronner mes guerriers.  
 
     LA VICTOIRE.
-Je ne me repents point, incomparable France,  
+Je ne me repens point, incomparable France,  
 De vous avoir suivie avec tant de constance :  
 Je vous prépare encor mêmes attachements ;  
 Mais j'attendais de vous d'autres remerciements.  
@@ -91,7 +91,7 @@ Ils prennent droit par là de ronger mes entrailles :
 Leur retour me punit de mon trop de bonheur,  
 Et mes bras triomphants me déchirent le coeur.  
 À vaincre tant de fois mes forces s'affaiblissent :  
-L'Etat est florissant, mais les peuples gémissent ;  
+L'État est florissant, mais les peuples gémissent ;  
 Leurs membres décharnés courbent sous mes hauts faits,  
 Et la gloire du trône accable les sujets.  
 Voyez autour de moi que de tristes spectacles !  
@@ -229,11 +229,11 @@ L'Hyménée paraît, couronné de leurs, portant en sa main droite un dard semé
 En vain tu le veux croire, orgueilleuse captive :  
 Pourrions-nous fuir le secours qui t'arrive ?  
 
-    L'ENVIE.
+    L’ENVIE.
 Pourrions-nous craindre un dieu qui contre nos fureurs  
 Ne prend pour armes que des fleurs ?  
 
-    L'HYMÉNÉE.
+    L’HYMÉNÉE.
 Oui, monstres, oui, craignez cette main vengeresse ;  
 Mais craignez encor plus cette grande princesse  
 Pour qui je viens allumer mon flambeau :  
@@ -254,7 +254,7 @@ Un bien dont les dieux même ont lieu d'être jaloux ;
 Mais ce n'est pas assez, il est temps de descendre,  
 Et de remplir les voeux qu'en terre on fait pour nous.  
 
-    L'HYMÉNÉE.
+    L’HYMÉNÉE.
 Il en est temps, déesse, et c'est trop faire attendre  
 Les effets d'un espoir si doux.  
 Vous donc, mes ministres fidèles,  
@@ -296,15 +296,15 @@ Par un effort d'amour réponds à leurs miracles ;
 Fais éclater ta joie en de pompeux spectacles :  
 Ton théâtre a souvent d'assez riches couleurs  
 Pour n'avoir pas besoin d'emprunter rien ailleurs.  
-Ose donc, et fais voir que ta reconnaissance...  
+Ose donc, et fais voir que ta reconnaissance…  
 
     LA FRANCE.
 De grâce, voyez mieux quelle est mon impuissance.  
 Est-il effort humain qui jamais ait tiré  
 Des spectacles pompeux d'un sein si déchiré ?  
-Il faudroit que vos soins par le cours des années...  
+Il faudroit que vos soins par le cours des années…  
 
-    L'HYMÉNÉE.
+    L’HYMÉNÉE.
 Ces traits divins n'ont pas des forces si bornées.  
 Mes roses et mes lys par eux en un moment  
 À ces lieux désolés vont servir d'ornement.  
@@ -312,9 +312,9 @@ Promets, et tu verras l'effet de ma parole.
 
     LA FRANCE.
 J'entreprendrai beaucoup ; mais ce qui m'en console  
-C'est que sous votre aveu...  
+C'est que sous votre aveu…  
 
-    L'HYMÉNÉE.
+    L’HYMÉNÉE.
         Va, n'appréhende rien :  
 Nous serons à l'envi nous-mêmes ton soutien.  
 Porte sur ton théâtre une chaleur si belle,  
@@ -352,7 +352,7 @@ Faire un appui de Mars du favori des Grâces,
 Et sous d'autres climats couronner ses hauts faits  
 Des lauriers qu'en ceux-ci lui dérobe la Paix !  
 
-    L'HYMÉNÉE.
+    L’HYMÉNÉE.
 Tu vas voir davantage, et les dieux, qui m'ordonnent  
 Qu'attendant tes lauriers mes myrtes le couronnent,  
 Lui vont donner un prix de toute autre valeur  
@@ -372,7 +372,7 @@ Et pour les commencer par de nouveaux miracles,
 Toi que rend tout-puissant ce chef-d'oeuvre des cieux,  
 Hymen, fais-lui changer la face de ces lieux.  
 
-    L'HYMÉNÉE, SEULE.
+    L’HYMÉNÉE, SEULE.
 Naissez à cet aspect, fontaines, fleurs, bocages ;  
 Chassez de ces débris les funestes images,  
 Et formez des jardins tels qu'avec quatre mots  
@@ -395,7 +395,7 @@ Parmi ces grands sujets d'allégresse publique,
 Vous portez sur le front un air mélancolique :  
 Votre humeur paroît sombre ; et vous semblez, ma soeur,  
 Murmurer en secret contre notre bonheur.  
-La veuve de Phryxus et la fille d'Aaete  
+La veuve de Phryxus et la fille d'Aæte  
 Plaint-elle de Persès la honte et la défaite ?  
 Vous faut-il consoler de ces illustres coups  
 Qui partent d'un héros parent de votre époux ?  
@@ -405,7 +405,7 @@ Alors que dans son trône il rétablit mon père ?
     CHALCIOPE.
 Vous m'offensez, ma soeur : celles de notre rang  
 Ne savent point trahir leur pays ni leur sang ;  
-Et j'ai vu les combats de Persès et d'Aaete  
+Et j'ai vu les combats de Persès et d'Aæte  
 Toujours avec des yeux de fille et de sujette.  
 Si mon front porte empreints quelques troubles secrets,  
 Sachez que je n'en ai que pour vos intérêts.  
@@ -471,7 +471,7 @@ Il a vaincu Persès, il a servi mon père,
 Il a sauvé l'état, sans chercher qu'à me plaire.  
 Vous l'avez vu peut-être, et vos yeux sont témoins  
 De combien chaque jour il y donne de soins,  
-Avec combien d'ardeur...  
+Avec combien d'ardeur…  
 
     CHALCIOPE.
         Oui, je l'ai vu moi-même,  
@@ -482,7 +482,7 @@ Je vous vois chaque jour avec inquiétude
 Chercher ou sa présence ou quelque solitude,  
 Et dans ces grands jardins sans cesse repasser  
 Le souvenir des traits qui vous ont su blesser.  
-En un mot, vous l'aimez, et ce que j'appréhende...  
+En un mot, vous l'aimez, et ce que j'appréhende…  
 
     MÉDÉE.
 Je suis prête à l'aimer, si le roi le commande ;  
@@ -494,7 +494,7 @@ Quittez ce faux devoir dont l'ombre vous amuse.
 Vous irez plus avant si le roi le refuse ;  
 Et quoi que votre erreur vous fasse présumer,  
 Vous obéirez mal s'il vous défend d'aimer.  
-Je sais... Mais le voici, que le prince accompagne.  
+Je sais… Mais le voici, que le prince accompagne.  
 
 
 ## SCÈNE II. Aaete, Absyrte, Chalciope, Médée.
@@ -551,7 +551,7 @@ Oui, j'y consens, Absyrte, et tiendrai même à grâce
 Que du roi d'Albanie il remplisse la place,  
 Que la mort de Styrus permette à votre soeur  
 L'incomparable choix d'un si grand successeur.  
-Ma fille, si jamais les droits de la naissance...  
+Ma fille, si jamais les droits de la naissance…  
 
     CHALCIOPE.
 Seigneur, je vous réponds de son obéissance ;  
@@ -660,7 +660,7 @@ Et s'il en est encore, après un sort si doux,
 Que vos commandements puissent vouloir de nous,  
 Vous avez en vos mains un trop digne salaire,  
 Et pour ce qu'on a fait et pour ce qu'on peut faire ;  
-Et s'il nous est permis de vous le demander...  
+Et s'il nous est permis de vous le demander…  
 
     AAETE.
 Attendez tout d'un roi qui veut tout accorder :  
@@ -675,7 +675,7 @@ Que vous voyez la fleur des princes de la Grèce,
 Qui vous demandent tous d'une commune voix  
 Un trésor qui jadis fut celui de ses rois :  
 La toison d'or, seigneur, que Phryxus, votre gendre,  
-Phryxus, notre parent...  
+Phryxus, notre parent…  
 
     AAETE.
         Ah ! Que viens-je d'entendre !  
@@ -699,7 +699,7 @@ Dure, dure à jamais votre bannissement !
 Princes, tel est mon sort, que la toison ravie  
 Me doit coûter le sceptre, et peut-être la vie.  
 De sa perte dépend celle de tout l'état ;  
-En former un desir, c'est faire un attentat ;  
+En former un désir, c'est faire un attentat ;  
 Et si jusqu'à l'effet vous pouvez le réduire,  
 Vous ne m'avez sauvé que pour mieux me détruire  
 
@@ -742,7 +742,7 @@ C'est à l'heur du retour que leur courage aspire,
 Et non pas à l'honneur de me faire un empire.  
 
     AAETE.
-Rien ne peut donc changer ce rigoureux desir ?  
+Rien ne peut donc changer ce rigoureux désir ?  
 
     JASON.
 Seigneur, nous n'avons pas le pouvoir de choisir.  
@@ -784,7 +784,7 @@ Vous en avez, Jason ; mais peut-être, après tout,
 Ce que vous en avez n'en viendra pas à bout.  
 
     JASON.
-Madame, si jamais...  
+Madame, si jamais…  
 
     MÉDÉE.
         Ne dis rien, téméraire.  
@@ -833,7 +833,7 @@ Il faut avoir de force un bien qui nous est dû.
 
     JASON.
 De Médée en courroux dissipez donc les charmes ;  
-Combattez ce dragon, ces taureaux, ces gensdarmes.  
+Combattez ce dragon, ces taureaux, ces gendarmes.  
 
     IPHITE.
 Les dieux nous ont sauvés de mille autres dangers,  
@@ -900,7 +900,7 @@ L'amour fera votre destin,
 Et vous donnera tout, s'il vous donne Médée.  
 
     JASON.
-Eh bien ! Si mes conseils...  
+Eh bien ! Si mes conseils…  
 
     PÉLÉE.
         N'en parlons plus, Jason :  
@@ -943,7 +943,7 @@ Et qu'un secret retour le force à ressentir
 De sa fureur trop prompte un tendre repentir.  
 
     JASON.
-Déesse, quels encens...  
+Déesse, quels encens…  
 
     JUNON.
         Traitez-moi de princesse,  
@@ -952,13 +952,13 @@ Quand vous serez en Grèce il y faudra penser ;
 Mais ici vos devoirs s'en doivent dispenser :  
 Par ce respect suprême ils m'y feroient connoître.  
 Laissez-y-moi passer pour ce que je feins d'être,  
-Jusqu'à ce que le coeur de Médée adouci...  
+Jusqu'à ce que le coeur de Médée adouci…  
 
     JASON.
 Madame, puisqu'il faut ne vous nommer qu'ainsi,  
 Vos ordres me seront des lois inviolables :  
 J'aurai pour les remplir des soins infatigables ;  
-Et mon amour plus fort...  
+Et mon amour plus fort…  
 
     JUNON.
         Je sais que vous aimez,  
@@ -1035,7 +1035,7 @@ Si votre coeur étoit encore à se donner,
 Je ferois mes efforts à vous en détourner :  
 Je vous dirois encor ce que j'ai su vous dire ;  
 Mais l'amour sur tous deux a déjà trop d'empire :  
-Il vous aime, et je vois qu'avec les mêmes traits...  
+Il vous aime, et je vois qu'avec les mêmes traits…  
 
     MÉDÉE.
 Que dites-vous, ma soeur ? Il ne m'aima jamais.  
@@ -1065,7 +1065,7 @@ J'ai mérité la mort si j'ai pu vous déplaire ;
 Mais cessez contre moi d'armer votre colère :  
 Vos taureaux, vos dragons sont ici superflus ;  
 Dites-moi seulement que vous ne m'aimez plus :  
-Ces deux mots suffiront pour réduire en poussière...  
+Ces deux mots suffiront pour réduire en poussière…  
 
     MÉDÉE.
 Va, quand il me plaira, j'en sais bien la manière ;  
@@ -1121,7 +1121,7 @@ Auriez-vous pu m'aimer couvert de cette honte ?
 
     JUNON.
 Ma soeur, dites le vrai, n'étiez-vous point trop prompte ?  
-Qu'a-t-il fait qu'un coeur noble et vraiment généreux...  
+Qu'a-t-il fait qu'un coeur noble et vraiment généreux…  
 
     MÉDÉE.
 Ma soeur, je le voulois seulement amoureux.  
@@ -1171,7 +1171,7 @@ Quel heur de pouvoir dire en terminant mon sort :
 " un respect amoureux a seul causé ma mort ! "  
 Quel heur de voir ma mort charger la renommée  
 De tout ce digne excès dont vous êtes aimée,  
-Et dans tout l'avenir...  
+Et dans tout l'avenir…  
 
     MÉDÉE.
         Va, ne me dis plus rien ;  
@@ -1210,14 +1210,14 @@ Sous les climats brûlants, sous les zones glacées,
 Les routes me plairont que vous m'aurez tracées :  
 J'y baiserai partout les marques de vos pas.  
 Point pour moi de patrie où vous ne serez pas ;  
-Point pour moi...  
+Point pour moi…  
 
     MÉDÉE.
         Quoi ? Jason, tu pourrois pour Médée  
 Etouffer de ta Grèce et l'amour et l'idée ?  
 
     JASON.
-Je le pourrai, madame, et de plus...  
+Je le pourrai, madame, et de plus…  
 
 
 ## SCÈNE III. Adsyrte, Junon, Jason, Médée.
@@ -1300,7 +1300,7 @@ Se sont plu d'animer ses plus rares trésors,
 Souffrez qu'au nom du roi dont je tiens la naissance,  
 Je vous offre en ces lieux une entière puissance :  
 Régnez dans ses états, régnez dans son palais ;  
-Et pour premier hommage à vos divins attraits...  
+Et pour premier hommage à vos divins attraits…  
 
     HYPSIPYLE.
 Faites moins d'honneur, prince, à mon peu de mérite :  
@@ -1310,7 +1310,7 @@ Dites-moi pour le moins si vous me connoissez.
 
     JASON.
 Je sais bien qu'à Lemnos vous étiez Hypsipyle ;  
-Mais ici...  
+Mais ici…  
 
     HYPSIPYLE.
         Qui vous rend de la sorte immobile ?  
@@ -1340,7 +1340,7 @@ Volage, et reçois mieux cette grande princesse.
 Adieu : des yeux si beaux valent bien la toison.  
 
     JASON.
-Ah ! Madame, voyez qu'avec peu de raison...  
+Ah ! Madame, voyez qu'avec peu de raison…  
 
     JUNON.
 Suivez sans perdre temps, je saurai vous rejoindre.  
@@ -1362,7 +1362,7 @@ Si j'osois faire voir à ces divins tyrans
 Ce qu'ont déjà soumis de si doux conquérants,  
 Je mettrois à vos pieds le trône et la couronne  
 Où le ciel me destine et que le sang me donne.  
-Mais puisque vos douleurs font taire mes desirs,  
+Mais puisque vos douleurs font taire mes désirs,  
 Ne vous offensez pas du moins de mes soupirs ;  
 Et tant que le respect m'imposera silence,  
 Expliquez-vous pour eux toute leur violence.  
@@ -1499,7 +1499,7 @@ Que le besoin colore, et que la crainte explique.
 Mais n'ayant que moi-même à vous parler pour moi,  
 Je n'osois espérer d'être écouté d'un roi,  
 Ni que sur ma parole il me crût de naissance  
-À porter mes desirs jusqu'à son alliance.  
+À porter mes désirs jusqu'à son alliance.  
 Maintenant qu'une reine a fait voir que mon sang  
 N'est pas fort au-dessous de cet illustre rang,  
 Qu'un refus de son sceptre après votre victoire  
@@ -1674,7 +1674,7 @@ Pour me les épargner, vous voyez qu'en ces lieux
 Je fuis votre présence, et j'évite vos yeux.  
 L'amour vous montre aux miens toujours charmante et belle ;  
 Chaque moment allume une flamme nouvelle ;  
-Mais ce qui de mon coeur fait les plus chers desirs,  
+Mais ce qui de mon coeur fait les plus chers désirs,  
 De mon change forcé fait tous les déplaisirs ;  
 Et dans l'affreux supplice où me tient votre vue,  
 Chaque coup d'oeil me perce, et chaque instant me tue.  
@@ -1720,7 +1720,7 @@ Et c'est faire un hommage et ridicule et vain
 De présenter le coeur et retirer la main.  
 
     JASON.
-L'un et l'autre est à vous, si...  
+L'un et l'autre est à vous, si…  
 
     HYPSIPYLE.
         N'achève pas, traître ;  
@@ -1731,7 +1731,7 @@ Un véritable amour ne parle point ainsi.
 Trouvez donc les moyens de nous tirer d'ici.  
 La toison emportée, il agira, madame,  
 Ce véritable amour qui vous donne mon âme ;  
-Sinon... Mais dieux ! Que vois-je ? ô ciel ! Je suis perdu,  
+Sinon… Mais dieux ! Que vois-je ? ô ciel ! Je suis perdu,  
 Si j'ai tant de malheur qu'elle m'aye entendu.  
 
 
@@ -1801,7 +1801,7 @@ Tant qu'il aura des yeux vous n'avez rien à craindre.
 
     MÉDÉE.
 J'allume peu de feux qu'un autre puisse éteindre ;  
-Et puisqu'il me promet un coeur ferme et constant...  
+Et puisqu'il me promet un coeur ferme et constant…  
 
     HYPSIPYLE.
 Autrefois à Lemnos il m'en promit autant.  
@@ -1811,7 +1811,7 @@ D'un amant qui s'en va de quoi sert la parole ?
 
     HYPSIPYLE.
 À montrer qu'on vous peut voler ce qu'on me vole.  
-Ces beaux feux qu'en mon île il n'osoit démentir...  
+Ces beaux feux qu'en mon île il n'osoit démentir…  
 
     MÉDÉE.
 Eurent un peu de tort de le laisser partir.  
@@ -1845,7 +1845,7 @@ Le passé mal conduit n'est qu'un miroir trompeur,
 Où l'oeil bien éclairé ne fonde espoir ni peur.  
 
     HYPSIPYLE.
-Si j'ai conçu pour vous des craintes mal fondées...  
+Si j'ai conçu pour vous des craintes mal fondées…  
 
     MÉDÉE.
 Laissons faire Jason, et gardons nos idées.  
@@ -1863,13 +1863,13 @@ Profitez des avis que ma pitié vous donne.
 
     HYPSIPYLE.
 À vous dire le vrai, cette hauteur m'étonne.  
-Je suis reine, madame, et les fronts couronnés...  
+Je suis reine, madame, et les fronts couronnés…  
 
     MÉDÉE.
 Et moi je suis Médée, et vous m'importunez.  
 
     HYPSIPYLE.
-Cet indigne mépris que de mon rang vous faites...  
+Cet indigne mépris que de mon rang vous faites…  
 
     MÉDÉE.
 Connoissez-moi, madame, et voyez où vous êtes.  
@@ -1924,8 +1924,8 @@ Quel prodige nouveau ! Cet amas de nuages
 Vient-il dessus ma tête éclater en orages ?  
 Vous qui nous gouvernez, dieux, quel est votre but ?  
 M'annoncez-vous par là ma perte ou mon salut ?  
-Le nuage descend, il s'arrête, il s'entr'ouvre ;  
-Et je vois... Mais, ô dieux, qu'est-ce que j'y découvre ?  
+Le nuage descend, il s'arrête, il s'entrouvre ;  
+Et je vois… Mais, ô dieux, qu'est-ce que j'y découvre ?  
 Seroit-ce bien le prince ?  
 Un nuage descend jusqu'à terre, et, s'y séparant en deux moitiés, qui se perdent chacune de son côté, il laisse sur le théâtre le prince Absyrte.
 
@@ -1962,7 +1962,7 @@ Prince digne en effet de toute mon estime.
 
     ABSYRTE.
 N'aurez-vous rien de plus pour des voeux si constants ?  
-Et ne pourrai-je...  
+Et ne pourrai-je…  
 
     HYPSIPYLE.
         Allons, et laissez faire au temps.  
@@ -2020,7 +2020,7 @@ Et qu'à la conquérir faire le moindre effort,
 C'est se livrer soi-même et courir à la mort.  
 Oui, mon frère, prenez un esprit plus tranquille,  
 Si la mort d'un rival vous assure Hypsipyle ;  
-Et croyez...  
+Et croyez…  
 
     ABSYRTE.
         Ah ! Ma soeur, ce seroit me trahir  
@@ -2072,7 +2072,7 @@ Mais quitter l'un pour l'autre est un échange heureux.
 
     MÉDÉE.
 Un amant tel que vous, pour gagner ce qu'il aime,  
-Changeroit sans remords d'air et de diadème...  
+Changeroit sans remords d'air et de diadème…  
 Comme j'ai d'autres yeux, j'ai d'autres sentiments,  
 Et ne me règle pas sur vos attachements.  
 Envoyez-moi ma soeur, que je puisse avec elle  
@@ -2112,7 +2112,7 @@ Silence, raison importune ;
 Est-il temps de parler quand mon coeur s'est donné ?  
 Du bien que tu lui veux ce lâche est si gêné,  
 Que ton meilleur avis lui tient lieu d'infortune.  
-Ce que tu mets d'obstacle à ses desirs mutins  
+Ce que tu mets d'obstacle à ses désirs mutins  
 Anime leur révolte et le livre aux destins,  
 Contre qui tu prends sa défense :  
 Ton effort odieux ne sert qu'à les hâter ;  
@@ -2143,7 +2143,7 @@ Qu'il lui laisse encor lieu de me pouvoir séduire ?
     JUNON.
 Modérez ces chaleurs de votre esprit jaloux :  
 Prenez des sentiments plus justes et plus doux ;  
-Et sans vous emporter souffrez que je vous die...  
+Et sans vous emporter souffrez que je vous die…  
 
     MÉDÉE.
 Qu'il pense m'acquérir par cette perfidie ?  
@@ -2186,7 +2186,7 @@ Sans vouloir être ingrate, et l'être avec éclat ?
 Si c'est votre dessein, en faisant la cruelle,  
 D'obliger ce héros à retourner vers elle,  
 Vous en pourrez avoir un succès assez prompt ;  
-Sinon...  
+Sinon…  
 
     MÉDÉE.
         Plutôt la mort qu'un si honteux affront.  
@@ -2242,7 +2242,7 @@ Vous me rappellerez, s'il a besoin d'appui.
 Faut-il du champ de Mars vous ouvrir la barrière,  
 Vous donner nos taureaux pour tracer des sillons  
 D'où naîtront contre vous de soudains bataillons ?  
-Pour dompter ces taureaux et vaincre ces gensdarmes,  
+Pour dompter ces taureaux et vaincre ces gendarmes,  
 Avez-vous d'Hypsipyle emprunté quelques charmes ?  
 Je ne demande point quel est votre souci ;  
 Mais si vous la cherchez, elle n'est pas ici ;  
@@ -2296,7 +2296,7 @@ Perfide, et porte ailleurs cette vénale foi
 Qu'obtiendroit ma rivale à même prix que moi.  
 Il est, il est encor des âmes toutes prêtes  
 À recevoir mes lois et grossir mes conquêtes ;  
-Il est encor des rois dont je fais le desir ;  
+Il est encor des rois dont je fais le désir ;  
 Et si parmi tes Grecs il me plaît de choisir,  
 Il en est d'attachés à ma seule personne,  
 Qui n'ont jamais su l'art d'être à qui plus leur donne,  
@@ -2338,7 +2338,7 @@ Si par le choix d'un roi vous pouvez me punir,
 Je puis vous imiter, je puis vous prévenir ;  
 Et si je me bannis par là de ma patrie,  
 Un exil couronné peut faire aimer la vie.  
-Mille autres en ma place, au lieu de s'alarmer...  
+Mille autres en ma place, au lieu de s'alarmer…  
 
     MÉDÉE.
 Eh bien ! Je t'aimerai, s'il ne faut que t'aimer :  
@@ -2367,7 +2367,7 @@ Et moi, je n'aime point, à moins que je te serve ?
 Cherche un autre prétexte à lui rendre ta foi ;  
 J'aurai soin de ta gloire aussi bien que de toi.  
 Si ce noble intérêt te donne tant d'alarmes,  
-Tiens, voilà de quoi vaincre et taureaux et gensdarmes ;  
+Tiens, voilà de quoi vaincre et taureaux et gendarmes ;  
 Laisse à tes compagnons combattre le dragon :  
 Ils veulent comme toi leur part à la toison ;  
 Et comme ainsi qu'à toi la gloire leur est chère,  
@@ -2377,13 +2377,13 @@ Qu'aux routes des oiseaux leur naissance a formés,
 Y préparent déjà leurs ailes enhardies  
 D'avoir pour coup d'essai triomphé des Harpies ;  
 Orphée avec ses chants se promet le bonheur  
-D'assoupir...  
+D'assoupir…  
 
     JASON.
         Ah ! Madame, ils auront tout l'honneur,  
 Ou du moins j'aurai part moi-même à leur défaite,  
 Si je laisse comme eux la conquête imparfaite :  
-Il me la faut entière ; et je veux vous devoir...  
+Il me la faut entière ; et je veux vous devoir…  
 
     MÉDÉE.
 Va, laisse quelque chose, ingrat, en mon pouvoir ;  
@@ -2429,7 +2429,7 @@ Le trouble où je vous vois peut espérer de lui.
 Le ciel s'ouvre et fait voior le palais de Vénus , composé de Termes à face humaine et revêtus de gazes d'or, qui lui servent de colonnes ; le lambris n'en est pas moins riche. L'Amour y araît seul, et sitôt qu'il a parlé, il s'élance ne l'air, et traverse le théâtre en volant, non pas d'un côté à l'autre, comme se font les vols ordinaires, mais d'un bout à l'autre, en tirant vers les spectateurs, ce qui n'a point encore été pratique en France de cette manière.
 
 
-    L'AMOUR.
+    L’AMOUR.
 Cessez de m'accuser, soupçonneuse déesse ;  
 Je sais tenir promesse :  
 C'est en vain que les dieux s'assemblent chez leur roi ;  
@@ -2468,7 +2468,7 @@ Cette toison enfin, dont Mars est si jaloux :
 Chacun impunément la peut voir comme nous ;  
 Ce monstrueux dragon, dont les fureurs la gardent,  
 Semble exprès se cacher aux yeux qui la regardent ;  
-Il laisse agir sans crainte un curieux desir,  
+Il laisse agir sans crainte un curieux désir,  
 Et ne fond que sur ceux qui s'en veulent saisir.  
 Lors, d'un cri qui suffit à punir tout leur crime,  
 Sous leur pied téméraire il ouvre un noir abîme,  
@@ -2479,7 +2479,7 @@ Doit opposer sur l'heure à qui l'aura semée :
 Sa voix perdant alors cet effroyable éclat,  
 Contre les ravisseurs le réduit au combat.  
 Telles furent les lois que Circé par ses charmes  
-Sut faire à ce dragon, aux taureaux, aux gensdarmes :  
+Sut faire à ce dragon, aux taureaux, aux gendarmes :  
 Circé, soeur de mon père, et fille du soleil,  
 Circé, de qui ma soeur tient cet art sans pareil  
 Dont tantôt à vous perdre eût abusé sa rage,  
@@ -2533,7 +2533,7 @@ Et sur ce faux soupçon se venger elle-même.
 Pour bien rompre le coup d'un malheur si pressant,  
 Peut-être que son art n'est pas assez puissant :  
 De grâce en ma faveur joignez-y tout le vôtre ;  
-Et si...  
+Et si…  
 
     ABSYRTE.
         Quoi ? Vous voulez qu'il vive pour un autre ?  
@@ -2558,7 +2558,7 @@ Et lui sauver le jour, c'est me faire périr.
 Puisqu'il faut qu'un des deux cesse aujourd'hui de vivre,  
 Je vais hâter sa perte, où lui-même il se livre :  
 Je veux bien qu'on l'impute à mon dépit jaloux ;  
-Mais vous, qui m'y forcez, ne l'imputez yu'à vous.  
+Mais vous, qui m'y forcez, ne l'imputez qu'à vous.  
 
     HYPSIPYLE.
 Ce reste d'intérêt que je prends en sa vie  
@@ -2638,15 +2638,15 @@ Qu'a fait Jason, seigneur, et quel mal vous menace,
 Quand nous voyons encor la toison en sa place ?  
 
     AAETE.
-Nos taureaux sont domptés, nos gensdarmes défaits,  
+Nos taureaux sont domptés, nos gendarmes défaits,  
 Absyrte : après cela crains les derniers effets.  
 
     ABSYRTE.
-Quoi ? Son bras...  
+Quoi ? Son bras…  
 
     AAETE.
         Oui, son bras, secondé par ses charmes,  
-A dompté nos taureaux et défait nos gensdarmes :  
+A dompté nos taureaux et défait nos gendarmes :  
 Juge si le dragon pourra faire plus qu'eux !  
 Ils ont poussé d'abord de gros torrents de feux ;  
 Ils l'ont enveloppé d'une épaisse fumée,  
@@ -2661,7 +2661,7 @@ Tous n'en veulent qu'à lui ; mais son âme plus fière
 Ne daigne contre eux tous s'armer que de poussière.  
 À peine il la répand, qu'une commune erreur  
 D'eux tous, l'un contre l'autre, anime la fureur,  
-Ils s'entr'immolent tous au commun adversaire :  
+Ils s'entrimmolent tous au commun adversaire :  
 Tous pensent le percer, quand ils percent leur frère ;  
 Leur sang partout regorge, et Jason au milieu  
 Reçoit ce sacrifice en posture d'un dieu ;  
@@ -2705,7 +2705,7 @@ Le destin ne me perd que par l'ordre des miens,
 Et mon trône est brisé par ses propres soutiens.  
 
     ABSYRTE.
-Quoi ? Seigneur, vous croiriez qu'une action si noire...  
+Quoi ? Seigneur, vous croiriez qu'une action si noire…  
 
     AAETE.
 Je sais ce qu'il faut craindre, et non ce qu'il faut croire.  
@@ -2750,12 +2750,12 @@ Par ce qu'ont vu vos yeux jugez ce que je puis :
 Tout me paroît facile en l'état où je suis ;  
 Et si la force enfin répond mal au courage,  
 Il en est parmi nous qui peuvent davantage.  
-Souffrez donc que l'ardeur dont je me sens brûler...  
+Souffrez donc que l'ardeur dont je me sens brûler…  
 
 
 ## SCÈNE IV. Aaete, Absyrte, Hypsipyle, Médée, Jason, Orphée, Zéthès, Calïs.
 
-    MÉDÉE, SUR LE DRAGON, ÉLÉVÉE EN L'AIR À LA HAUTEUR D'UN HOMME.
+    MÉDÉE, SUR LE DRAGON, ÉLÉVÉE EN L’AIR À LA HAUTEUR D’UN HOMME.
 Arrête, déloyal, et laisse-moi parler :  
 Que je rende un plein lustre à ma gloire ternie  
 Par l'outrageux éclat que fait la calomnie.  
@@ -2777,7 +2777,7 @@ Puissiez-vous conserver ces nobles sentiments !
 
     MÉDÉE.
 N'en croyez plus, seigneur, que les événements.  
-Ce ne sont plus ici ces taureaux, ces gensdarmes  
+Ce ne sont plus ici ces taureaux, ces gendarmes  
 Contre qui son audace a pu trouver des charmes :  
 Ce n'est point le dragon dont il est menacé ;  
 C'est Médée elle-même, et tout l'art de Circé.  
@@ -2879,7 +2879,7 @@ Zéthès, Calaïs et Orphée s'enfuient.
 
     MÉDÉE.
 Allez, vaillants guerriers, envoyez-moi Pélée,  
-Mopse, Iphite, échion, Eurydamas, Oilée,  
+Mopse, Iphite, Échion, Eurydamas, Oilée,  
 Et tout ce reste enfin pour qui votre Jason  
 Avec tant de chaleur demandoit la toison.  
 Aucun d'eux ne paroît ! Ces âmes intrépides  
@@ -2899,7 +2899,7 @@ Ah ! Perfide, est-ce ainsi que tu me tiens parole,
 Toi qui me promettois, même aux yeux de Jason,  
 Qu'on t'ôteroit le jour avant que la toison ?  
 
-    MÉDÉE, NE S'ENVOLANT.
+    MÉDÉE, NE S’ENVOLANT.
 Encor tout de nouveau je vous en fais promesse,  
 Et vais vous la garder au milieu de la Grèce.  
 Du pays et du sang l'amour rompt les liens,  
@@ -2921,7 +2921,7 @@ Mes filles toutes deux contre moi se ranger !
 Toutes deux à ma perte à l'envi s'engager !  
 
     JUNON, DANS SON CHAR.
-On vous abuse, Aaete ; et Médée elle-même,  
+On vous abuse, Aæte ; et Médée elle-même,  
 Dans l'amour qui la force à suivre ce qu'elle aime,  
 S'abuse comme vous.  
 Chalciope n'a point de part en cet ouvrage :  
@@ -3010,7 +3010,7 @@ Je ne mets point d'obstacle à de si justes voeux ;
 Mais laissez ma puissance entière ;  
 Et si l'ordre du sort se rompt à sa prière,  
 D'un hymen que j'ai fait ne rompez pas les noeuds.  
-Comme je ne veux point détruire son Aaete,  
+Comme je ne veux point détruire son Aæte,  
 Ne détruisez pas mes héros :  
 Assurez à ses jours gloire, sceptre, repos ;  
 Assurez-lui tous les biens qu'il souhaite ;  
@@ -3027,7 +3027,7 @@ Qui donne Jason à Médée
 Servira de supplice à l'infidélité  
 Où pour lui contre un père elle s'est hasardée.  
 Persès dans la Scythie arme un bras souverain ;  
-Sitôt qu'il paraîtra, quittez ces lieux, Aaete,  
+Sitôt qu'il paraîtra, quittez ces lieux, Aæte,  
 Et par une prompte retraite,  
 Épargnez tout le sang qui coulerait en vain.  
 De Lemnos faites votre asile ;  
@@ -3062,7 +3062,7 @@ J'obéis avec joie à tout ce qu'il m'ordonne :
 Un prince si bien né vaut mieux qu'une couronne.  
 Sitôt que je le vis, il en eut mon aveu,  
 Et ma foi pour Jason nuisoit seule à son feu ;  
-Mais à présent, seigneur, cette foi dégagée...  
+Mais à présent, seigneur, cette foi dégagée…  
 
     AAETE.
 Ah ! Madame, ma perte est déjà trop vengée,  

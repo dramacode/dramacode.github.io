@@ -794,10 +794,10 @@ Sachez...
     ISABELLE.
 Voyez...  
 
-    DON FÉLIX, S'EN ALLANT.
+    DON FÉLIX, S’EN ALLANT.
     Ah, j'ai trop vu, parjure.  
 
-    ISABELLE, L'ARRÊTANT.
+    ISABELLE, L’ARRÊTANT.
         Où courez-vous ?  
 Quoi ? Me quitter ainsi ?  
 
@@ -1383,7 +1383,7 @@ Et je vous laisserais le soin de me venger ?
     DON CÉSAR.
 Mais ce n'est qu'un rival que touche cette offense.  
 
-    DON FADRIQUE, S'EN ALLANT.
+    DON FADRIQUE, S’EN ALLANT.
 Et bien donc, je le suis.  
 
     DON CÉSAR.
@@ -2579,7 +2579,7 @@ Voyez dans quel péril...
 Puisque par cette porte on ne peut plus sortir,  
 J'entre en ce cabinet.  
 
-    ISABELLE, L'EMPÊCHANT D'ENTRER DANS LE CABINET OÙ S'EST CACHÉ DON FADRIQUE.
+    ISABELLE, L’EMPÊCHANT D’ENTRER DANS LE CABINET OÙ S’EST CACHÉ DON FADRIQUE.
         Ah Dieux, c'est encore pire,  
 Arrêtez, tous les soirs c'est là qu'il se retire.  
 
@@ -2793,7 +2793,7 @@ Qu'avez-vous vu ?
     ISABELLE.
 C'était quelque Valet, qui peut-être en ce lieu...  
 
-    DON FÉLIX, S'EN ALLANT.
+    DON FÉLIX, S’EN ALLANT.
 C'était cela sans doute... Adieu, Madame, adieu.  
 
     ISABELLE, SEULE.
@@ -2869,7 +2869,7 @@ Ah, volage !
 
 ## SCÈNE XI. Leonel, Don Félix, Isabelle, Béatrix.
 
-    LÉONEL, SORTANT L'ÉPÉE À LA MAIN.
+    LÉONEL, SORTANT L’ÉPÉE À LA MAIN.
         Que vois-je ? Ô Fille sans honneur !  
 Et j'ai pu tantôt croire un lâche suborneur.  
 
@@ -3114,7 +3114,7 @@ Entrons ici.
 Elle va à la porte du cabinet où Isabelle s'est enfermée.
 
 
-    DON FADRIQUE, L'ARRÊTANT.
+    DON FADRIQUE, L’ARRÊTANT.
     Sachez...  
 
     ELVIRE, AYANT ENTREVUE ISABELLE QUI LUI FERME LA PORTE.
@@ -3142,7 +3142,7 @@ Et dans une autre chambre allez le recevoir.
     DON FADRIQUE.
 Il entre en celle-ci, je ne le puis, Madame.  
 
-    ELVIRE, À CÉLIE QUI EST DE L'AUTRE CÔTÉ.
+    ELVIRE, À CÉLIE QUI EST DE L’AUTRE CÔTÉ.
 Cache-toi bien, Célie. Ah, de douleur je pâme,  
 Et je crois déjà voir l'heure de mon trépas.  
 

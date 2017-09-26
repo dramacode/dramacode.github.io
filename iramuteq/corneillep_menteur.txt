@@ -13,7 +13,7 @@ Dis-moi, me trouves-tu bien fait en cavalier ?
 Ne vois-tu rien en moi qui sente l'écolier ?
 Comme il est malaisé qu'aux royaumes du code
 On apprenne à se faire un visage à la mode,
-J'ai lieu d'appréhender...
+J'ai lieu d'appréhender…
 
 -*who_cliton
       Ne craignez rien pour vous :
@@ -21,7 +21,7 @@ Vous ferez en une heure ici mille jaloux.
 Ce visage et ce port n'ont point l'air de l'école,
 Et jamais comme vous on ne peignit Bartole :
 Je prévois du malheur pour beaucoup de maris.
-Mais que vous semble encore maintenant de Paris ?
+Mais que vous semble encor maintenant de Paris ?
 
 -*who_dorante
 J'en trouve l'air bien doux, et cette loi bien rude
@@ -140,7 +140,7 @@ Puisque c'est un cocher, il aime à discourir.
 **** *book_ *id_I02 *act_I *date_1644 *creator_corneille
 
 -*who_clarice
-Aïe !
+Ay !
 
 -*who_dorante
       Ce malheur me rend un favorable office,
@@ -228,7 +228,7 @@ Que lui va-t-il conter ?
 Il ne s'est fait combats, ni sièges importants,
 Nos armes n'ont jamais remporté de victoire,
 Où cette main n'ait eu bonne part à la gloire :
-Et même la gazette a souvent divulgués...
+Et même la gazette a souvent divulgués…
 
 -*who_cliton
 Savez-vous bien, monsieur, que vous extravaguez ?
@@ -237,7 +237,7 @@ Savez-vous bien, monsieur, que vous extravaguez ?
 Tais-toi.
 
 -*who_cliton
-      Vous rêvez, dis-je, ou...
+      Vous rêvez, dis-je, ou…
 
 -*who_dorante
       Tais-toi, misérable.
@@ -466,13 +466,13 @@ Si je n'en avais fait, j'aurais bien peu d'adresse,
 Moi qui depuis un mois suis ici de retour.
 Il est vrai que je sors fort peu souvent de jour :
 De nuit, incognito, je rends quelques visites ;
-Ainsi...
+Ainsi…
 
 -*who_cliton
       Vous ne savez, Monsieur, ce que vous dites.
 
 -*who_dorante
-Tais-toi ; si jamais plus tu me viens avertir...
+Tais-toi ; si jamais plus tu me viens avertir…
 
 -*who_cliton
 J'enrage de me taire et d'entendre mentir !
@@ -639,7 +639,7 @@ Que ce qu'il veut m'apprendre a de quoi m'étonner,
 Je le sers aussitôt d'un conte imaginaire,
 Qui l'étonne lui-même, et le force à se taire.
 Si tu pouvais savoir quel plaisir on a lors
-De leur faire rentrer leurs nouvelles au corps...
+De leur faire rentrer leurs nouvelles au corps…
 
 -*who_cliton
 Je le juge assez grand ; mais enfin ces pratiques
@@ -770,7 +770,7 @@ Se résoudra pour moi d'écrire un compliment :
 J'admire ton adresse à trouver cette ruse.
 
 -*who_isabelle
-Puis-je vous dire encore que si je ne m'abuse,
+Puis-je vous dire encor que si je ne m'abuse,
 Tantôt cet inconnu ne vous déplaisait pas ?
 
 -*who_clarice
@@ -796,7 +796,7 @@ Alcippe, qu'avez-vous ? Qui vous fait soupirer ?
 
 -*who_alcippe
 Ce que j'ai, déloyale ! Et peux-tu l'ignorer ?
-Parle à ta conscience, elle devrait t'apprendre...
+Parle à ta conscience, elle devrait t'apprendre…
 
 -*who_clarice
 Parlez un peu plus bas, mon père va descendre.
@@ -804,7 +804,7 @@ Parlez un peu plus bas, mon père va descendre.
 -*who_alcippe
 Ton père va descendre, âme double et sans foi !
 Confesse que tu n'as un père que pour moi.
-La nuit, sur la rivière...
+La nuit, sur la rivière…
 
 -*who_clarice
       Eh bien ! Sur la rivière ?
@@ -844,7 +844,7 @@ Je meure, en vos discours si je puis rien comprendre !
 -*who_alcippe
 Quand je te veux parler, ton père va descendre,
 Il t'en souvient alors ; le tour est excellent !
-Mais pour passer la nuit auprès de ton galant...
+Mais pour passer la nuit auprès de ton galant…
 
 -*who_clarice
 Alcippe, êtes-vous fol ?
@@ -877,10 +877,10 @@ Dorante !
       Continue, et fais bien l'ignorante.
 
 -*who_clarice
-Si je le vis jamais, et si je le connais ! ...
+Si je le vis jamais, et si je le connais ! …
 
 -*who_alcippe
-Ne viens-je pas de voir son père avec toi ?
+Ne viens-je pas de voir son père avecque toi ?
 Tu passes, infidèle, âme ingrate et légère,
 La nuit avec le fils, le jour avec le père !
 
@@ -890,10 +890,10 @@ Son père, de vieux temps, est grand ami du mien.
 -*who_alcippe
 Cette vieille amitié faisait votre entretien ?
 Tu te sens convaincue, et tu m'oses répondre !
-Te faut-il quelque chose encore pour te confondre ?
+Te faut-il quelque chose encor pour te confondre ?
 
 -*who_clarice
-Alcippe, si je sais quel visage a le fils...
+Alcippe, si je sais quel visage a le fils…
 
 -*who_alcippe
 La nuit était fort noire alors que tu le vis.
@@ -1036,7 +1036,7 @@ Fais ce que je t'ordonne.
 -*who_dorante
       Il faut jouer d'adresse.
 Quoi ? Monsieur, à présent qu'il faut dans les combats
-acquérir quelque nom, et signaler mon bras...
+acquérir quelque nom, et signaler mon bras…
 
 -*who_geronte
 Avant qu'être au hasard qu'un autre bras t'immole,
@@ -1060,13 +1060,13 @@ Impossible ! Et comment ?
 -*who_dorante
       Souffrez qu'aux yeux de tous
 Pour obtenir pardon j'embrasse vos genoux.
-Je suis...
+Je suis…
 
 -*who_geronte
       Quoi ?
 
 -*who_dorante
-      Dans Poitiers...
+      Dans Poitiers…
 
 -*who_geronte
       Parle donc, et te lève.
@@ -1081,7 +1081,7 @@ Sans mon consentement ?
       On m'a violenté :
 Vous ferez tout casser par votre autorité,
 Mais nous fûmes tous deux forcés à l'hyménée
-Par la fatalité la plus inopinée...
+Par la fatalité la plus inopinée…
 Ah ! Si vous le saviez !
 
 -*who_geronte
@@ -1089,7 +1089,7 @@ Ah ! Si vous le saviez !
 
 -*who_dorante
 Elle est de fort bon lieu, mon père ; et pour son bien,
-S'il n'est du tout si grand que votre humeur souhaite...
+S'il n'est du tout si grand que votre humeur souhaite…
 
 -*who_geronte
 Sachons, à cela près, puisque c'est chose faite.
@@ -1214,7 +1214,7 @@ Et tu ne viens d'ouïr qu'un trait de gentillesse
 Pour conserver mon âme et mon coeur à Lucrèce.
 
 -*who_cliton
-Quoi ? La montre, l'épée, avec le pistolet...
+Quoi ? La montre, l'épée, avec le pistolet…
 
 -*who_dorante
 Industrie.
@@ -1233,7 +1233,7 @@ Et de tous mes secrets le grand dépositaire.
 -*who_cliton
 Avec ces qualités j'ose bien espérer
 Qu'assez malaisément je pourrai m'en parer.
-Mais parlons de vos feux. Certes cette maîtresse...
+Mais parlons de vos feux. Certes cette maîtresse…
 
 **** *book_ *id_II07 *act_II *date_1644 *creator_corneille
 
@@ -1251,7 +1251,7 @@ Dis-lui que j'y viendrai. Doute encore, Cliton,
 À laquelle des deux appartient ce beau nom.
 Lucrèce sent sa part des feux qu'elle fait naître,
 Et me veut cette nuit parler par sa fenêtre.
-Dis encore que c'est l'autre, ou que tu n'es qu'un sot.
+Dis encor que c'est l'autre, ou que tu n'es qu'un sot.
 Qu'aurait l'autre à m'écrire, à qui je n'ai dit mot ?
 
 -*who_cliton
@@ -1292,7 +1292,7 @@ Et que, la chose égale, ainsi je vous sépare :
 Mon heur en est extrême, et l'aventure rare.
 
 -*who_dorante
-L'aventure est encore bien plus rare pour moi,
+L'aventure est encor bien plus rare pour moi,
 Qui lui faisais raison sans avoir su de quoi.
 Mais, Alcippe, à présent tirez-moi hors de peine :
 Quel sujet aviez-vous de colère ou de haine ?
@@ -1323,7 +1323,7 @@ Ce procédé m'étonne, et j'ai lieu de penser
 Que vous n'avez rien fait qu'afin de m'offenser.
 
 -*who_dorante
-Si vous pouviez encore douter de mon courage,
+Si vous pouviez encor douter de mon courage,
 Je ne vous guérirais ni d'erreur ni d'ombrage,
 Et nous nous reverrions, si nous étions rivaux ;
 Mais comme vous savez tous deux ce que je vaux,
@@ -1348,7 +1348,7 @@ Adieu : je suis à vous.
 **** *book_ *id_III02 *act_III *date_1644 *creator_corneille
 
 -*who_philiste
-      Ce coeur encore soupire !
+      Ce coeur encor soupire !
 
 -*who_alcippe
 Hélas ! Je sors d'un mal pour tomber dans un pire.
@@ -1394,7 +1394,7 @@ Il vint hier de Poitiers, et sans faire aucun bruit,
 Chez lui paisiblement a dormi toute nuit.
 
 -*who_alcippe
-Quoi ! Sa collation...
+Quoi ! Sa collation…
 
 -*who_philiste
       N'est rien qu'un pur mensonge ;
@@ -1429,7 +1429,7 @@ Mais vous ?
 -*who_alcippe
       La jalousie aveugle un coeur atteint,
 Et sans examiner, croit tout ce qu'elle craint.
-Mais laissons là Dorante avec son audace ;
+Mais laissons là Dorante avecque son audace ;
 allons trouver Clarice et lui demander grâce :
 Elle pouvait tantôt m'entendre sans rougir.
 
@@ -1441,7 +1441,7 @@ Ne vous exposez point, pour gagner un moment,
 aux premières chaleurs de son ressentiment.
 
 -*who_alcippe
-Si du jour cri s'enfuit la lumière est fidèle,
+Si du jour qui s'enfuit la lumière est fidèle,
 Je pense l'entrevoir avec son Isabelle.
 Je suivrai tes conseils, et fuirai son courroux
 Jusqu'à ce qu'elle ait ri de m'avoir vu jaloux.
@@ -1452,7 +1452,7 @@ Jusqu'à ce qu'elle ait ri de m'avoir vu jaloux.
 Isabelle, il est temps, allons trouver Lucrèce.
 
 -*who_isabelle
-Il n'est pas encore tard, et rien ne vous en presse.
+Il n'est pas encor tard, et rien ne vous en presse.
 Vous avez un pouvoir bien grand sur son esprit :
 À peine ai-je parlé, qu'elle a sur l'heure écrit.
 
@@ -1527,7 +1527,7 @@ Quoi ? Votre coeur se change, et désobéira ?
 
 -*who_clarice
 Tu vas sortir de garde, et perdre tes mesures.
-Explique, si tu peux, encore ses impostures :
+Explique, si tu peux, encor ses impostures :
 Il était marié sans que l'on en sût rien ;
 Et son père a repris sa parole du mien,
 Fort triste de visage et fort confus dans l'âme.
@@ -1577,7 +1577,7 @@ D'un et d'autre côté j'en entendrais de bonnes.
 -*who_dorante
 Le ciel fait cette grâce à fort peu de personnes :
 Il y faut promptitude, esprit, mémoire, soins,
-Ne se brouiller jamais, et rougir encore moins.
+Ne se brouiller jamais, et rougir encor moins.
 Mais la fenêtre s'ouvre, approchons.
 
 **** *book_ *id_III05 *act_III *date_1644 *creator_corneille
@@ -1602,7 +1602,7 @@ Mais parle sous mon nom, c'est à moi de me taire.
 Qui veux vivre et mourir sous votre seule loi.
 
 -*who_lucrece
-Sa fleurette pour toi prend encore même style.
+Sa fleurette pour toi prend encor même style.
 
 -*who_clarice
 Il devrait s'épargner cette gêne inutile.
@@ -1655,10 +1655,10 @@ Est-il un plus grand fourbe ?
 
 -*who_dorante
 Je ne le fus jamais ; et si par cette voie
-On pense...
+On pense…
 
 -*who_clarice
-      Et vous pensez encore que je vous croie ?
+      Et vous pensez encor que je vous croie ?
 
 -*who_dorante
 Que le foudre à vos yeux m'écrase, si je mens !
@@ -1716,7 +1716,7 @@ Mais si de ces détours vous seule étiez la cause ?
 Moi ?
 
 -*who_dorante
-      Vous. écoutez-moi. Ne pouvant consentir...
+      Vous. écoutez-moi. Ne pouvant consentir…
 
 -*who_cliton
 De grâce, dites-moi si vous allez mentir.
@@ -1725,7 +1725,7 @@ De grâce, dites-moi si vous allez mentir.
 Ah ! Je t'arracherai cette langue importune.
 Donc, comme à vous servir j'attache ma fortune,
 L'amour que j'ai pour vous ne pouvant consentir
-Qu'un père à d'autres lois voulût m'assujettir...
+Qu'un père à d'autres lois voulût m'assujettir…
 
 -*who_clarice
 Il fait pièce nouvelle, écoutons.
@@ -1757,7 +1757,7 @@ Il est homme de robe, adroit et retenu ;
 Dix mille écus de rente en font le revenu ;
 Vous perdîtes un frère aux guerres d'Italie ;
 Vous aviez une soeur qui s'appelait Julie.
-Vous connais-je à présent ? Dites encore que non.
+Vous connais-je à présent ? Dites encor que non.
 
 -*who_clarice
 Cousine, il te connaît, et t'en veut tout de bon.
@@ -1807,7 +1807,7 @@ Quelqu'un auprès de vous m'a fait cette imposture.
 Écoutez l'imposteur ; c'est hasard s'il n'en jure.
 
 -*who_dorante
-Que du ciel...
+Que du ciel…
 
 -*who_clarice
       L'ai-je dit ?
@@ -1847,7 +1847,7 @@ Peut-être. Qu'en crois-tu ?
       Le peut-être est gaillard.
 
 -*who_dorante
-Penses-tu qu'après tout j'en quitte encore ma part,
+Penses-tu qu'après tout j'en quitte encor ma part,
 Et tienne tout perdu pour un peu de traverse ?
 
 -*who_cliton
@@ -1972,13 +1972,13 @@ Je le laissai pour tel.
 
 -*who_cliton
       Certes, je plains son sort :
-Il était honnête homme ; et le ciel ne déploie...
+Il était honnête homme ; et le ciel ne déploie…
 
 **** *book_ *id_IV02 *act_IV *date_1644 *creator_corneille
 
 -*who_alcippe
 Je te veux, cher ami, faire part de ma joie.
-Je suis heureux : mon père...
+Je suis heureux : mon père…
 
 -*who_dorante
       Eh bien ?
@@ -2123,7 +2123,7 @@ N'envoyer qu'un valet sentirait son mépris.
 -*who_dorante
 De vos civilités il sera bien surpris,
 Et pour moi, je suis prêt ; mais je perdrai ma peine :
-Il ne souffrira pas encore qu'on vous l'amène ;
+Il ne souffrira pas encor qu'on vous l'amène ;
 Elle est grosse.
 
 -*who_geronte
@@ -2185,7 +2185,7 @@ Son père sait la cour.
 
 -*who_geronte
       Ne me fais plus attendre,
-Dis-moi...
+Dis-moi…
 
 -*who_dorante
       Que lui dirai-je ?
@@ -2225,7 +2225,7 @@ L'esprit a secouru le défaut de mémoire.
 -*who_cliton
 Mais on éclaircira bientôt toute l'histoire.
 Après ce mauvais pas où vous avez bronché,
-Le reste encore longtemps ne peut être caché :
+Le reste encor longtemps ne peut être caché :
 On le sait chez Lucrèce, et chez cette Clarice,
 Qui d'un mépris si grand piquée avec justice,
 Dans son ressentiment prendra l'occasion
@@ -2245,14 +2245,14 @@ De bien penser à toi quand j'eus lu cette lettre ;
 Mais tu n'y perdras rien, et voici pour le port.
 
 -*who_sabine
-Ne croyez pas, monsieur...
+Ne croyez pas, monsieur…
 
 -*who_dorante
       Tiens.
 
 -*who_sabine
       Vous me faites tort.
-Je ne suis pas de...
+Je ne suis pas de…
 
 -*who_dorante
       Prends.
@@ -2312,7 +2312,7 @@ Je vous conterai lors tout ce que j'aurai fait.
 -*who_cliton
 Tu vois que les effets préviennent les paroles ;
 C'est un homme qui fait litière de pistoles ;
-Mais comme auprès de lui je puis beaucoup pour toi...
+Mais comme auprès de lui je puis beaucoup pour toi…
 
 -*who_sabine
 Fais tomber de la pluie, et laisse faire à moi.
@@ -2616,7 +2616,7 @@ Qui fait de ces cantons le plus digne ornement ?
 -*who_philiste
 Croyez que cette Orphise, Armédon, et Pyrandre,
 Sont gens dont à Poitiers on ne peut rien apprendre.
-S'il vous faut sur ce point encore quelque garant...
+S'il vous faut sur ce point encor quelque garant…
 
 -*who_geronte
 En faveur de mon fils vous faites l'ignorant ;
@@ -2683,7 +2683,7 @@ Il me fait le trompette et le second auteur !
 Comme si c'était peu pour mon reste de vie
 De n'avoir à rougir que de son infamie,
 L'infâme, se jouant de mon trop de bonté,
-Me fait encore rougir de ma crédulité !
+Me fait encor rougir de ma crédulité !
 
 **** *book_ *id_V03 *act_V *date_1644 *creator_corneille
 
@@ -2741,7 +2741,7 @@ Qui vous dit que je mens ?
 -*who_geronte
       Qui me le dit, infâme ?
 Dis-moi, si tu le peux, dis le nom de ta femme.
-Le conte qu'hier au soir tu m'en fis publier...
+Le conte qu'hier au soir tu m'en fis publier…
 
 -*who_cliton
 Dites que le sommeil vous l'a fait oublier.
@@ -2793,7 +2793,7 @@ Voici pour votre adresse une assez rude touche.
 -*who_dorante
 Épris d'une beauté qu'à peine j'ai pu voir
 Qu'elle a pris sur mon âme un absolu pouvoir,
-De Lucrèce, en un mot, vous la pouvez connaître...
+De Lucrèce, en un mot, vous la pouvez connaître…
 
 -*who_geronte
 Dis vrai : je la connais, et ceux qui l'ont fait naître ;
@@ -2806,7 +2806,7 @@ Le choix que vos bontés avaient fait de Clarice,
 Sitôt que je le sus, me parut un supplice ;
 Mais comme j'ignorais si Lucrèce et son sort
 Pouvaient avec le vôtre avoir quelque rapport,
-Je n'osai pas encore vous découvrir la flamme
+Je n'osai pas encor vous découvrir la flamme
 Que venaient ses beautés d'allumer dans mon âme ;
 Et j'avais ignoré, monsieur, jusqu'à ce jour
 Que l'adresse d'esprit fût un crime en amour.
@@ -2834,7 +2834,7 @@ Donne plus de croyance à ton valet qu'à toi !
 Je veux encore un coup montrer un coeur de père,
 Je veux encore un coup pour toi me hasarder.
 Je connais ta Lucrèce, et la vais demander ;
-Mais si de ton côté le moindre obstacle arrive...
+Mais si de ton côté le moindre obstacle arrive…
 
 -*who_dorante
 Pour vous mieux assurer, souffrez que je vous suive.
@@ -2927,7 +2927,7 @@ Mais Sabine survient.
 En de si belles mains as-tu su la remettre ?
 
 -*who_sabine
-Oui, monsieur, mais...
+Oui, monsieur, mais…
 
 -*who_dorante
       Quoi ? Mais !
@@ -2956,7 +2956,7 @@ Tends la main.
       Eh ! Monsieur.
 
 -*who_dorante
-      Ose encore lui parler.
+      Ose encor lui parler.
 Je ne perds pas sitôt toutes mes espérances.
 
 -*who_cliton
@@ -2969,7 +2969,7 @@ Elle a donc déchiré mon billet sans le lire ?
 
 -*who_sabine
 Elle m'avait donné charge de vous le dire ;
-Mais à parler sans fard...
+Mais à parler sans fard…
 
 -*who_cliton
       Sait-elle son métier ?
@@ -3030,7 +3030,7 @@ Vérité.
 Peut-être.
 
 -*who_dorante
-      Et quand encore ?
+      Et quand encor ?
 
 -*who_sabine
       Quand elle vous croira.
@@ -3044,7 +3044,7 @@ Quand elle vous croira, dites qu'elle vous aime.
 -*who_dorante
 Je le dis déjà donc, et m'en ose vanter,
 Puisque ce cher objet n'en saurait plus douter :
-Mon père...
+Mon père…
 
 -*who_sabine
       La voici qui vient avec Clarice.
@@ -3056,7 +3056,7 @@ Il peut te dire vrai, mais ce n'est pas son vice.
 Comme tu le connais, ne précipite rien.
 
 -*who_dorante
-Beauté qui pouvez seule et mon mal et mon bien...
+Beauté qui pouvez seule et mon mal et mon bien…
 
 -*who_clarice
 On dirait qu'il m'en veut, et c'est moi qu'il regarde.
@@ -3088,7 +3088,7 @@ Mais écoute.
 
 -*who_dorante
 Hélas ! Que cette amour vous est indifférente !
-Depuis que vos regards m'ont mis sous votre loi...
+Depuis que vos regards m'ont mis sous votre loi…
 
 -*who_clarice
 Crois-tu que le discours s'adresse encore à toi ?
@@ -3113,7 +3113,7 @@ Le sien auprès de vous me serait trop fatal :
 Elle a quelque sujet de me vouloir du mal.
 
 -*who_lucrece
-Ah ! Je n'en ai que trop, et si je ne me venge...
+Ah ! Je n'en ai que trop, et si je ne me venge…
 
 -*who_clarice
 Ce qu'elle me disait est de vrai fort étrange.
@@ -3131,11 +3131,11 @@ Que je fis aussitôt maîtresse de mon sort.
 
 -*who_clarice
 Si je veux toutefois en croire son rapport,
-Pour une autre déjà votre âme inquiétée...
+Pour une autre déjà votre âme inquiétée…
 
 -*who_dorante
 Pour une autre déjà je vous aurais quittée ?
-Que plutôt à vos pieds mon coeur sacrifié...
+Que plutôt à vos pieds mon coeur sacrifié…
 
 -*who_clarice
 Bien plus, si je la crois, vous êtes marié.
@@ -3251,7 +3251,7 @@ Je vous ai mise en peine, et je m'en suis vengé.
 Mais que disiez-vous hier dedans les Tuileries ?
 
 -*who_dorante
-Clarice fut l'objet de mes galanteries...
+Clarice fut l'objet de mes galanteries…
 
 -*who_clarice
 Veux-tu longtemps encore écouter ce moqueur ?
@@ -3279,7 +3279,7 @@ après son témoignage, en voudrez-vous quelque autre ?
 
 -*who_lucrece
 Après son témoignage il faudra consulter
-Si nous aurons encore quelque lieu d'en douter.
+Si nous aurons encor quelque lieu d'en douter.
 
 -*who_dorante
 Qu'à de telles clartés votre erreur se dissipe.

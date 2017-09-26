@@ -435,7 +435,7 @@ J'obéis.
 
 ## SCÈNE V.
 
-    SPADARILLE SEUL, OUVRANT LA PORTE DE LA CHAMBRE D'OLIMPIE.
+    SPADARILLE SEUL, OUVRANT LA PORTE DE LA CHAMBRE D’OLIMPIE.
         Je vous tiens, ô la double traîtresse,  
 Qui dans l'âpre dessein d'acquérir du renom,  
 Avez l'air d'une Sainte, et l'esprit d'un Démon.  
@@ -812,7 +812,7 @@ Et tandis que Cléandre attendra mon retour.
     SPADARILLE.
 C'est fort bien dit, allez.  
 
-    OLIMPIE, À CLÉANDRE EN S'EN ALLANT.
+    OLIMPIE, À CLÉANDRE EN S’EN ALLANT.
         Je prépare un détour,  
 Et quoi que de ma part ce perfide prétende.  
 
@@ -837,7 +837,7 @@ Or ça, notre Beau-père, et vous Sire Cléandre,
 Qui jadis malgré lui vouliez être son gendre,  
 Je vais vous faire voir Olimpie à l'instant.  
 
-    ALCIDOR, QUI CRAINT QU'OLIMPIE NE SOIT PAS ENCORE RENTRÉE.
+    ALCIDOR, QUI CRAINT QU’OLIMPIE NE SOIT PAS ENCORE RENTRÉE.
 Si j'en suis cru, Monsieur, ne vous hâtez pas tant.  
 
     SPADARILLE.
@@ -894,7 +894,7 @@ Ainsi.
 Venez ça. Pourquoi donc se frotter la prunelle ?  
 Qu'avez-vous ?  
 
-    OLIMPIE, FAISANT EXPRÈS L'ENDORMIE.
+    OLIMPIE, FAISANT EXPRÈS L’ENDORMIE.
         Du sommeil, les pavots gracieux  
 Assoupissent mon âme, et me sillent les yeux ;  
 Depuis une heure ou deux, leur douceur pour confondre.  
@@ -905,7 +905,7 @@ Vraiment ! ça la dormeuse au sommeil un peu dur,
 Qui n'avez pu m'entendre à travers de ce mur,  
 Ouvrez les yeux.  
 
-    OLIMPIE, FAISANT L'ÉTONNÉE.
+    OLIMPIE, FAISANT L’ÉTONNÉE.
         Mon Père ! ô destin quelle grâce !  
 
     ALCIDOR.
@@ -1098,7 +1098,7 @@ Mais je vois Aspasie.
 
 ## SCÈNE XIII. Olimpie sous le nom d'Aspasie, Sspadarille, Cléandre, Aalcidor, Cascaret.
 
-    OLIMPIE SOUS LE NOM D'ASPASIE.
+    OLIMPIE SOUS LE NOM D’ASPASIE.
         À présent pour vous plaire  
 Sur ce que j'ai promis je vous viens satisfaire.  
 Je puis voir Olimpie, et je suis sur le point  
@@ -1108,7 +1108,7 @@ De lui rendre.
         À présent, vous ne la verrez point,  
 Vous voilà ce me semble assez bien attrapée.  
 
-    OLIMPIE, SOUS LE NOM D'ASPASIE.
+    OLIMPIE, SOUS LE NOM D’ASPASIE.
 Vous rendez en effet mon attente trompée,  
 Me manquer de parole, et depuis un instant.  
 
@@ -1116,7 +1116,7 @@ Me manquer de parole, et depuis un instant.
 Olimpie en un mot, ne vous aime pas tant,  
 Si vous ne m'en croyez pas, demandez à Cléandre.  
 
-    OLIMPIE, SOUS LE NOM D'ASPASIE.
+    OLIMPIE, SOUS LE NOM D’ASPASIE.
 Quel sujet aurait-elle.  
 
     SPADARILLE.
@@ -1129,7 +1129,7 @@ Lors.
         De vous écouter je n'ai pas le loisir,  
 Partez, ou demeurez, vous n'avez qu'à choisir.  
 
-    OLIMPIE, SOUS LE NOM D'ASPASIE.
+    OLIMPIE, SOUS LE NOM D’ASPASIE.
 Et quoi.  
 
     SPADARILLE.

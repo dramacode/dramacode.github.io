@@ -17,7 +17,7 @@ M. DC. LXXVII.
 par Monsieur Thomas Corneille
 
 # . Avec Privilège des États de Holl. et Westf.À AMSTERDAM, Chez les Frères Chatelain, près de la Maison de Ville. Nouvelle Édition reliée, augmentée des Pièces dont l'Avis au Lecteur fait mention, et enrichie de tailles douces.
-
+Représenté pour la première fois le 1er février 1677 au Théâtre Guénégaud.
 
 
 # ARGUMENT.
@@ -26,7 +26,7 @@ Le Sujet de cette Pièce est tiré du 14 Livre des Métamorphoses d'Ovide. Glauc
 
 Le dépit de n'avoir pu en venir à bout, porta si loin son ressentiment, que pour se venger, elle empoisonna une fontaine où Silla avait accoutumé de s'aller baigner. Cette malheureuse Nymphe ne s'y fut pas si tôt plongée, qu'elle vit naître des chiens, qui s'attachant à son corps, l'effrayèrent par leurs aboiements ; et l'horreur qu'elle eut d'elle-même dans ce déplorable état, fut si forte, qu'elle s'alla précipiter dans la mer, où elle fut changée en un rocher qui a conservé son nom, et contre qui les flots se brisant, imitent par le bruit qu'ils font les aboiements des chiens qui avaient fait son supplice.
 
-Je n'ai rien ajouté à cette Fable, que Mélicerte aimé de Silla, et cette même Silla changée en Néréide après tous ses malheurs, pour avoir lieu de finir la pièce par un spectacle de réjouissance. Le succès en a été grand, et il ne s'en faut pas étonner, puisqu'on n'a rien vu jusqu'ici de si beau, ni de si surprenant, que les Machines qui en ont fait le principal ornement.Représenté pour la première fois le 1er février 1677 au Théâtre Guénégaud.
+Je n'ai rien ajouté à cette Fable, que Mélicerte aimé de Silla, et cette même Silla changée en Néréide après tous ses malheurs, pour avoir lieu de finir la pièce par un spectacle de réjouissance. Le succès en a été grand, et il ne s'en faut pas étonner, puisqu'on n'a rien vu jusqu'ici de si beau, ni de si surprenant, que les Machines qui en ont fait le principal ornement.
 
 
 # ACTEURS DU PROLOGUE.
@@ -209,7 +209,7 @@ Toutes ces grandes Vérités
 Ne semblent-elles pas des Contes inventés,  
 Et lorsque je les dis, m'estime-t-on sincère ?  
 
-    L'AMOUR.
+    L’AMOUR.
 Vous en donnez si souvent à garder,  
 Qu'il est bon qu'une fois vous en soyez punie ;  
 Mais par LOUIS quand ma gloire est ternie,  
@@ -224,7 +224,7 @@ D'où ce chagrin vous peut-il naître,
 Quand nous voyons que ce Grand Roi,  
 En gagnant tous les coeurs, chaque jour fait connaître...  
 
-    L'AMOUR.
+    L’AMOUR.
 Mais c'est par lui qu'il s'en rend maître,  
 Et ce n'est pas mon compte, à moi  
 Car enfin je voudrais qu'il me dût quelque chose ;  
@@ -242,7 +242,7 @@ Pourvu que tout vous soit soumis,
 Que vos droits soient bien affermis,  
 Qu'importe...  
 
-    L'AMOUR.
+    L’AMOUR.
         Passe encor pour ce qui me regarde ;  
 Mais ce qui fait tout mon ressentiment,  
 Et m'est une peine cruelle,  
@@ -264,7 +264,7 @@ La faiblesse de mon Empire.
 Que n'usez-vous alors de tout votre pouvoir,  
 Pour rappeler ceux que la Guerre attire ?  
 
-    L'AMOUR.
+    L’AMOUR.
 Il ne tient pas à la vouloir ;  
 Mais j'ai beau faire, j'ai beau dire.  
 Charmés de voir LOUIS, de marcher sur ses pas,  
@@ -284,7 +284,7 @@ Mais que vois-je ?
 
 ## SCÈNE III. La Gloire, Mars, La Renommée, La Fortune, L'Amour.
 
-    L'AMOUR.
+    L’AMOUR.
 La Gloire, à qui le Ciel toujours  
 Donna les héros à défendre.  
 De ce Temple où j'ai soin chaque jour de me rendre,  
@@ -356,7 +356,7 @@ Attachez-vous à le considérer,
 À voir sa gloire, à l'admirer,  
 Et vous aurez assez à faire.  
 
-    L'AMOUR.
+    L’AMOUR.
 Je veux suivre votre conseil.  
 
     LA FORTUNE.
@@ -3036,7 +3036,7 @@ Allons chercher mille témoins.
 Voilà comme souvent l'Amour pour nous s'emploie,  
 Lorsque nous l'espérons le moins.  
 
-    MÉLICERTE, AYANT L'ANNEAU.
+    MÉLICERTE, AYANT L’ANNEAU.
 Il est vrai. Qui l'eût cru, que pour finir ma peine,  
 L'Amour dût amener Silla dans ce Palais ?  
 Mais n'en crois-je point trop mes amoureux souhaits,  
@@ -4426,7 +4426,7 @@ Honorez du Destin les Décrets Souverains.
 Les faunes, les sylvains, les dryades, et les autres divinités champêtres, se mêlent ensemble par différentes figures qui sont accompagnées des chansons suivantes, dont la première fait voir, par l'exemple de Glaucus, que la froideur des eaux est un vain obstacle contre les feux de l'amour.
 
 
-    CHANSON D'UN SYLVAIN.
+    CHANSON D’UN SYLVAIN.
 Tout aime  
 Sur la terre et dans les cieux.  
 L'Amour par un pouvoir suprême  
@@ -4450,7 +4450,7 @@ Les plaisirs sont de toutes les saisons.
 Ce choeur étant fini, les faunes et les sylvains témoignent leur joie par des sauts surprenants ; et les divinités de la mer, accompagnées de plusieurs fleuves,donnent pareillement des marques de leur allégresse par plusieurs figures extraordinaires ;ce qu'ils font à différentes reprises,et même après les deux premiers couplets de la chanson suivante.
 
 
-    CHANSON D'UN SYLVAIN D'UNE DRYADE ENSEMBLE.
+    CHANSON D’UN SYLVAIN D’UNE DRYADE ENSEMBLE.
 Il n'est point de plaisir véritable,  
 Si l'amour ne l'assaisonne pas.  
 On a beau dans le bien le plus stable  

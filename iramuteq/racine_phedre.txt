@@ -1,22 +1,22 @@
 
 
-**** *book_ *id_I01 *act_I *date_1677 *creator_racine
+**** *book_ *id_I01 *act_I *date_1677
 
 -*who_hippolyte
 Le dessein en est pris, je pars, cher Théramène,
 Et quitte le séjour de l'aimable Trézène.
 Dans le doute mortel dont je suis agité,
 Je commence à rougir de mon oisiveté.
-Depuis plus de six mois éloigné de mon père,
+Depuis plus de six mois éloigné de mon père
 J'ignore le destin d'une tête si chère.
 J'ignore jusqu'aux lieux qui le peuvent cacher.
 
 -*who_theramene
 Et dans quels lieux, Seigneur, l'allez-vous donc chercher ?
-Déjà pour satisfaire à votre juste crainte,
+Déjà pour satisfaire à votre juste crainte
 J'ai couru les deux mers que sépare Corinthe.
 J'ai demandé Thésée aux peuples de ces bords
-Où l'on voit l'Achéron se perdre chez les morts.
+Où l'on voit l'Achéron se perdre chez les Morts.
 J'ai visité l'Élide, et laissant le Ténare,
 Passé jusqu'à la mer, qui vit tomber Icare.
 Sur quel espoir nouveau, dans quels heureux climats
@@ -24,14 +24,14 @@ Croyez-vous découvrir la trace de ses pas ?
 Qui sait même, qui sait si le roi votre père
 Veut que de son absence on sache le mystère ?
 Et si lorsque avec vous nous tremblons pour ses jours,
-Tranquille, et nous cachant de nouvelles amours,
+Tranquille, et nous cachant de nouvelles amours
 Ce héros n'attend point qu'une amante abusée...
 
 -*who_hippolyte
 Cher Théramène, arrête, et respecte Thésée.
-De ses jeunes erreurs désormais revenu,
+De ses jeunes erreurs désormais revenu
 Par un indigne obstacle il n'est point retenu ;
-Et fixant de ses voeux l'inconstance fatale,
+Et fixant de ses voeux l'inconstance fatale
 Phèdre depuis longtemps ne craint plus de rivale.
 Enfin en le cherchant je suivrai mon devoir,
 Et je fuirai ces lieux que je n'ose plus voir.
@@ -40,22 +40,22 @@ Et je fuirai ces lieux que je n'ose plus voir.
 Hé depuis quand, Seigneur, craignez-vous la présence
 De ces paisibles lieux, si chers à votre enfance,
 Et dont je vous ai vu préférer le séjour
-Au tumulte pompeux d'Athènes et de la cour ?
+Au tumulte pompeux d'Athènes, de la Cour ?
 Quel péril, ou plutôt quel chagrin vous en chasse ?
 
 -*who_hippolyte
 Cet heureux temps n'est plus. Tout a changé de face
-Depuis que sur ces bords les dieux ont envoyé
+Depuis que sur ces bords les Dieux ont envoyé
 La fille de Minos et de Pasiphaé.
 
 -*who_theramene
 J'entends. De vos douleurs la cause m'est connue,
-Phèdre ici vous chagrine, et blesse votre vue.
+Phèdre ici vous chagrine, et blesse votre vue,
 Dangereuse marâtre, à peine elle vous vit,
 Que votre exil d'abord signala son crédit.
 Mais sa haine sur vous autrefois attachée,
 Ou s'est évanouie, ou s'est bien relâchée.
-Et d'ailleurs, quels périls vous peut faire courir
+Et d'ailleurs, quel péril vous peut faire courir
 Une femme mourante, et qui cherche à mourir ?
 Phèdre atteinte d'un mal qu'elle s'obstine à taire,
 Lasse enfin d'elle-même, et du jour qui l'éclaire,
@@ -63,12 +63,12 @@ Peut-elle contre vous former quelques desseins ?
 
 -*who_hippolyte
 Sa vaine inimitié n'est pas ce que je crains.
-Hippolyte en partant fuit une autre ennemie.
+Hippolyte en partant fuit une autre ennemie,
 Je fuis, je l'avouerai, cette jeune Aricie,
 Reste d'un sang fatal conjuré contre nous.
 
 -*who_theramene
-Quoi ! vous-même, Seigneur, la persécutez-vous ?
+Quoi vous-même, Seigneur, la persécutez-vous ?
 Jamais l'aimable soeur des cruels Pallantides
 Trempa-t-elle aux complots de ses frères perfides ?
 Et devez-vous haïr ses innocents appas ?
@@ -83,7 +83,7 @@ Implacable ennemi des amoureuses lois,
 Et d'un joug que Thésée a subi tant de fois ?
 Vénus par votre orgueil si longtemps méprisée,
 Voudrait-elle à la fin justifier Thésée ?
-Et vous mettant au rang du reste des mortels,
+Et vous mettant au rang du reste des mortels
 Vous a-t-elle forcé d'encenser ses autels ?
 Aimeriez-vous, Seigneur ?
 
@@ -92,16 +92,16 @@ Aimeriez-vous, Seigneur ?
 Toi qui connais mon coeur depuis que je respire,
 Des sentiments d'un coeur si fier, si dédaigneux,
 Peux-tu me demander le désaveu honteux ?
-C'est peu qu'avec son lait une mère amazone
+C'est peu qu'avec son lait une mère Amazone
 M'ait fait sucer encor cet orgueil qui t'étonne.
-Dans un âge plus mûr moi-même parvenu,
+Dans un âge plus mûr moi-même parvenu
 Je me suis applaudi, quand je me suis connu.
-Attaché près de moi par un zèle sincère,
+Attaché près de moi par un zèle sincère
 Tu me contais alors l'histoire de mon père.
-Tu sais combien mon âme attentive à ta voix,
+Tu sais combien mon âme attentive à ta voix
 S'échauffait au récit de ses nobles exploits ;
 Quand tu me dépeignais ce héros intrépide
-Consolant les mortels de l'absence d'Alcide,
+Consolant les mortels de l'absence d'Alcide ;
 Les monstres étouffés, et les brigands punis,
 Procuste, Cercyon, et Sciron, et Sinnis,
 Et les os dispersés du géant d'Épidaure,
@@ -114,43 +114,43 @@ Tant d'autres, dont les noms lui sont même échappés,
 Trop crédules esprits que sa flamme a trompés ;
 Ariane aux rochers contant ses injustices,
 Phèdre enlevée enfin sous de meilleurs auspices ;
-Tu sais comme à regret écoutant ce discours,
+Tu sais, comme à regret écoutant ce discours,
 Je te pressais souvent d'en abréger le cours.
-Heureux ! si j'avais pu ravir à la mémoire
+Heureux ! Si j'avais pu ravir à la Mémoire
 Cette indigne moitié d'une si belle histoire.
 Et moi-même à mon tour je me verrais lié ?
 Et les dieux jusque-là m'auraient humilié ?
 Dans mes lâches soupirs d'autant plus méprisable,
 Qu'un long amas d'honneurs rend Thésée excusable,
-Qu'aucuns monstres par moi domptés jusqu'aujourd'hui,
+Qu'aucuns monstres par moi domptés jusqu'aujourd'hui
 Ne m'ont acquis le droit de faillir comme lui.
 Quand même ma fierté pourrait s'être adoucie,
 Aurais-je pour vainqueur dû choisir Aricie ?
 Ne souviendrait-il plus à mes sens égarés
-De l'obstacle éternel qui nous a séparés ?
+De l'obstacle éternel qui nous a séparés.
 Mon père la réprouve, et par des lois sévères
-Il défend de donner des neveux à ses frères ;
+Il défend de donner des neveux à ses frères,
 D'une tige coupable il craint un rejeton.
 Il veut avec leur soeur ensevelir leur nom,
-Et que jusqu'au tombeau soumise à sa tutelle,
+Et que jusqu'au tombeau soumise à sa tutelle
 Jamais les feux d'hymen ne s'allument pour elle.
 Dois-je épouser ses droits contre un père irrité ?
 Donnerai-je l'exemple à la témérité ?
 Et dans un fol amour ma jeunesse embarquée...
 
 -*who_theramene
-Ah, Seigneur ! si votre heure est une fois marquée,
-Le ciel de nos raisons ne sait point s'informer.
+Ah, Seigneur ! Si votre heure est une fois marquée,
+Le Ciel de nos raisons ne sait point s'informer.
 Thésée ouvre vos yeux en voulant les fermer,
 Et sa haine irritant une flamme rebelle,
 Prête à son ennemie une grâce nouvelle.
 Enfin d'un chaste amour pourquoi vous effrayer ?
-S'il a quelque douceur, n'osez-vous l'essayer ?
+S'il a quelque douceur n'osez-vous l'essayer ?
 En croirez-vous toujours un farouche scrupule ?
 Craint-on de s'égarer sur les traces d'Hercule ?
 Quels courages Vénus n'a-t-elle pas domptés !
 Vous-même où seriez-vous, vous qui la combattez,
-Si toujours Antiope à ses lois opposée,
+Si toujours Antiope à ses lois opposée
 D'une pudique ardeur n'eût brûlé pour Thésée ?
 Mais que sert d'affecter un superbe discours ?
 Avouez-le, tout change. Et depuis quelques jours
@@ -176,16 +176,16 @@ Seigneur ?
 Voyons-la, puisque ainsi mon devoir me l'ordonne.
 Mais quel nouveau malheur trouble sa chère Oenone ?
 
-**** *book_ *id_I02 *act_I *date_1677 *creator_racine
+**** *book_ *id_I02 *act_I *date_1677
 
 -*who_oenone
-Hélas, Seigneur ! quel trouble au mien peut-être égal ?
+Hélas, Seigneur ! Quel trouble au mien peut-être égal ?
 La reine touche presque à son terme fatal.
-En vain à l'observer jour et nuit je m'attache.
+En vain à l'observer jour et nuit je m'attache,
 Elle meurt dans mes bras d'un mal qu'elle me cache.
 Un désordre éternel règne dans son esprit.
 Son chagrin inquiet l'arrache de son lit.
-Elle veut voir le jour ; et sa douleur profonde
+Elle veut voir le jour. Et sa douleur profonde
 M'ordonne toutefois d'écarter tout le monde...
 Elle vient.
 
@@ -193,11 +193,11 @@ Elle vient.
       Il suffit, je la laisse en ces lieux,
 Et ne lui montre point un visage odieux.
 
-**** *book_ *id_I03 *act_I *date_1677 *creator_racine
+**** *book_ *id_I03 *act_I *date_1677
 
 -*who_phedre
 N'allons point plus avant. Demeurons, chère Oenone.
-Je ne me soutiens plus, ma force m'abandonne.
+Je ne me soutiens plus. Ma force m'abandonne.
 Mes yeux sont éblouis du jour que je revois,
 Et mes genoux tremblants se dérobent sous moi.
 Hélas !
@@ -215,7 +215,7 @@ Tout m'afflige et me nuit, et conspire à me nuire.
 Comme on voit tous ses voeux l'un l'autre se détruire !
 Vous-même condamnant vos injustes desseins,
 Tantôt à vous parer vous excitiez nos mains.
-Vous-même rappelant votre force première,
+Vous-même rappelant votre force première
 Vous vouliez vous montrer et revoir la lumière ;
 Vous la voyez, Madame, et prête à vous cacher,
 Vous haïssez le jour que vous veniez chercher ?
@@ -227,8 +227,8 @@ Qui peut-être rougis du trouble où tu me vois,
 Soleil, je te viens voir pour la dernière fois.
 
 -*who_oenone
-Quoi ! vous ne perdrez point cette cruelle envie ?
-Vous verrai-je toujours, renonçant à la vie,
+Quoi ! Vous ne perdrez point cette cruelle envie ?
+Vous verrai-je toujours renonçant à la vie
 Faire de votre mort les funestes apprêts ?
 
 -*who_phedre
@@ -240,15 +240,15 @@ Suivre de l'oeil un char fuyant dans la carrière ?
 Quoi, Madame !
 
 -*who_phedre
-      Insensée, où suis-je ? et qu'ai-je dit ?
-Où laissé-je égarer mes voeux, et mon esprit ?
+      Insensée, où suis-je ? Et qu'ai-je dit ?
+Où laissai-je égarer mes voeux, et mon esprit ?
 Je l'ai perdu. Les dieux m'en ont ravi l'usage.
 Oenone, la rougeur me couvre le visage,
 Je te laisse trop voir mes honteuses douleurs,
 Et mes yeux malgré moi se remplissent de pleurs.
 
 -*who_oenone
-Ah ! s'il vous faut rougir, rougissez d'un silence,
+Ah ! S'il vous faut rougir, rougissez d'un silence,
 Qui de vos maux encore aigrit la violence.
 Rebelle à tous nos soins, sourde à tous nos discours,
 Voulez-vous sans pitié laisser finir vos jours ?
@@ -260,7 +260,7 @@ Et le jour a trois fois chassé la nuit obscure,
 Depuis que votre corps languit sans nourriture.
 À quel affreux dessein vous laissez-vous tenter ?
 De quel droit sur vous-même osez-vous attenter ?
-Vous offensez les dieux auteurs de votre vie.
+Vous offensez les Dieux auteurs de votre vie.
 Vous trahissez l'époux à qui la foi vous lie,
 Vous trahissez enfin vos enfants malheureux,
 Que vous précipitez sous un joug rigoureux.
@@ -285,7 +285,7 @@ J'aime à vous voir frémir à ce funeste nom.
 Vivez donc. Que l'amour, le devoir vous excite.
 Vivez, ne souffrez pas que le fils d'une Scythe,
 Accablant vos enfants d'un empire odieux,
-Commande au plus beau sang de la Grèce, et des dieux.
+Commande au plus beau sang de la Grèce, et des Dieux,
 Mais ne différez point, chaque moment vous tue.
 Réparez promptement votre force abattue,
 Tandis que de vos jours prêts à se consumer
@@ -295,12 +295,12 @@ Le flambeau dure encore, et peut se rallumer.
 J'en ai trop prolongé la coupable durée.
 
 -*who_oenone
-Quoi ! de quelques remords êtes-vous déchirée ?
+Quoi ! De quelques remords êtes-vous déchirée ?
 Quel crime a pu produire un trouble si pressant ?
 Vos mains n'ont point trempé dans le sang innocent ?
 
 -*who_phedre
-Grâces au ciel, mes mains ne sont point criminelles.
+Grâces au Ciel, mes mains ne sont point criminelles.
 Plût aux dieux que mon coeur fût innocent comme elles !
 
 -*who_oenone
@@ -312,7 +312,7 @@ Je t'en ai dit assez. Épargne moi le reste.
 Je meurs, pour ne point faire un aveu si funeste.
 
 -*who_oenone
-Mourez donc, et gardez un silence inhumain.
+Mourez donc, et gardez un silence inhumain,
 Mais pour fermer vos yeux cherchez une autre main.
 Quoiqu'il vous reste à peine une faible lumière,
 Mon âme chez les morts descendra la première.
@@ -328,7 +328,7 @@ Quel fruit espères-tu de tant de violence ?
 Tu frémiras d'horreur si je romps le silence.
 
 -*who_oenone
-Et que me direz-vous, qui ne cède, grands dieux !
+Et que me direz-vous, qui ne cède, grands Dieux !
 À l'horreur de vous voir expirer à mes yeux ?
 
 -*who_phedre
@@ -347,7 +347,7 @@ Tu le veux. Lève-toi.
       Parlez. Je vous écoute.
 
 -*who_phedre
-Ciel ! que lui vais-je dire ? Et par où commencer ?
+Ciel ! Que lui vais-je dire ? Et par où commencer ?
 
 -*who_oenone
 Par de vaines frayeurs cessez de m'offenser.
@@ -362,7 +362,7 @@ Un silence éternel cache ce souvenir.
 
 -*who_phedre
 Ariane, ma soeur ! De quel amour blessée,
-Vous mourûtes aux bords où vous fûtes laissée ?
+Vous mourûtes aux bords où vous fûtes laissée !
 
 -*who_oenone
 Que faites-vous, Madame ? Et quel mortel ennui,
@@ -394,15 +394,15 @@ J'aime...
 Ce prince si longtemps par moi-même opprimé.
 
 -*who_oenone
-Hippolyte ! Grands dieux !
+Hippolyte ? Grands dieux !
 
 -*who_phedre
       C'est toi qui l'as nommé.
 
 -*who_oenone
-Juste ciel ! tout mon sang dans mes veines se glace.
+Juste ciel ! Tout mon sang dans mes veines se glace.
 Ô désespoir ! Ô crime ! Ô déplorable race !
-Voyage infortuné ! Rivage malheureux !
+Voyage infortuné ! Rivage malheureux,
 Fallait-il approcher de tes bords dangereux ?
 
 -*who_phedre
@@ -422,10 +422,10 @@ De victimes moi-même à toute heure entourée,
 Je cherchais dans leurs flancs ma raison égarée.
 D'un incurable amour remèdes impuissants !
 En vain sur les autels ma main brûlait l'encens.
-Quand ma bouche implorait le nom de la déesse,
+Quand ma bouche implorait le nom de la Déesse,
 J'adorais Hippolyte, et le voyant sans cesse,
 Même au pied des autels que je faisais fumer,
-J'offrais tout à ce dieu, que je n'osais nommer.
+J'offrais tout à ce Dieu, que je n'osais nommer.
 Je l'évitais partout. Ô comble de misère !
 Mes yeux le retrouvaient dans les traits de son père.
 Contre moi-même enfin j'osai me révolter.
@@ -434,7 +434,7 @@ Pour bannir l'ennemi dont j'étais idolâtre,
 J'affectai les chagrins d'une injuste marâtre,
 Je pressai son exil, et mes cris éternels
 L'arrachèrent du sein, et des bras paternels.
-Je respirais, Oenone ; et depuis son absence,
+Je respirais, Oenone. Et depuis son absence,
 Mes jours moins agités coulaient dans l'innocence.
 Soumise à mon époux, et cachant mes ennuis,
 De son fatal hymen je cultivais les fruits.
@@ -442,7 +442,7 @@ Vaines précautions ! Cruelle destinée !
 Par mon époux lui-même à Trézène amenée
 J'ai revu l'ennemi que j'avais éloigné.
 Ma blessure trop vive aussitôt a saigné.
-Ce n'est plus une ardeur dans mes veines cachée :
+Ce n'est plus une ardeur dans mes veines cachée.
 C'est Vénus tout entière à sa proie attachée.
 J'ai conçu pour mon crime une juste terreur.
 J'ai pris la vie en haine, et ma flamme en horreur.
@@ -455,7 +455,7 @@ Tu ne m'affliges plus par d'injustes reproches,
 Et que tes vains secours cessent de rappeler
 Un reste de chaleur, tout prêt à s'exhaler.
 
-**** *book_ *id_I04 *act_I *date_1677 *creator_racine
+**** *book_ *id_I04 *act_I *date_1677
 
 -*who_panope
 Je voudrais vous cacher une triste nouvelle,
@@ -467,7 +467,7 @@ Et ce malheur n'est plus ignoré que de vous.
 Panope, que dis-tu ?
 
 -*who_panope
-      Que la reine abusée
+      Que la Reine abusée
 En vain demande au ciel le retour de Thésée,
 Et que par des vaisseaux arrivés dans le port
 Hippolyte son fils vient d'apprendre sa mort.
@@ -479,7 +479,7 @@ Ciel !
       Pour le choix d'un maître Athènes se partage.
 Au prince votre fils l'un donne son suffrage,
 Madame, et de l'État l'autre oubliant les lois
-Au fils de l'étrangère ose donner sa voix.
+Au fils de l'Étrangère ose donner sa voix.
 On dit même qu'au trône une brigue insolente
 Veut placer Aricie, et le sang de Pallante.
 J'ai cru de ce péril vous devoir avertir.
@@ -491,7 +491,7 @@ Qu'il n'entraîne après lui tout un peuple volage.
 Panope, c'est assez. La reine qui t'entend,
 Ne négligera point cet avis important.
 
-**** *book_ *id_I05 *act_I *date_1677 *creator_racine
+**** *book_ *id_I05 *act_I *date_1677
 
 -*who_oenone
 Madame, je cessais de vous presser de vivre.
@@ -504,7 +504,7 @@ Sa mort vous laisse un fils à qui vous vous devez,
 Esclave, s'il vous perd, et roi, si vous vivez.
 Sur qui dans son malheur voulez-vous qu'il s'appuie ?
 Ses larmes n'auront plus de main qui les essuie.
-Et ses cris innocents portés jusques aux dieux,
+Et ses cris innocents portés jusques aux Dieux,
 Iront contre sa mère irriter ses aïeux.
 Vivez, vous n'avez plus de reproche à vous faire.
 Votre flamme devient une flamme ordinaire.
@@ -515,7 +515,7 @@ Et vous pouvez le voir sans vous rendre coupable.
 Peut-être convaincu de votre aversion
 Il va donner un chef à la sédition.
 Détrompez son erreur, fléchissez son courage.
-Roi de ces bords heureux, Trézène est son partage,
+Roi de ces bords heureux, Trézène est son partage.
 Mais il sait que les lois donnent à votre fils
 Les superbes remparts que Minerve a bâtis.
 Vous avez l'un et l'autre une juste ennemie.
@@ -524,10 +524,10 @@ Unissez-vous tous deux pour combattre Aricie.
 -*who_phedre
 Hé bien ! À tes conseils je me laisse entraîner.
 Vivons, si vers la vie on peut me ramener,
-Et si l'amour d'un fils en ce moment funeste,
+Et si l'amour d'un fils en ce moment funeste
 De mes faibles esprits peut ranimer le reste.
 
-**** *book_ *id_II01 *act_II *date_1677 *creator_racine
+**** *book_ *id_II01 *act_II *date_1677
 
 -*who_aricie
 Hippolyte demande à me voir en ce lieu ?
@@ -542,11 +542,11 @@ Aricie à la fin de son sort est maîtresse,
 Et bientôt à ses pieds verra toute la Grèce.
 
 -*who_aricie
-Ce n'est donc point, Ismène, un bruit mal affermi ?
+Ce n'est donc point, Ismène, un bruit mal affermi.
 Je cesse d'être esclave, et n'ai plus d'ennemi ?
 
 -*who_ismene
-Non, Madame, les dieux ne vous sont plus contraires,
+Non, Madame, les Dieux ne vous sont plus contraires,
 Et Thésée a rejoint les mânes de vos frères.
 
 -*who_aricie
@@ -559,7 +559,7 @@ Les flots ont englouti cet époux infidèle.
 On dit même, et ce bruit est partout répandu,
 Qu'avec Pirithoüs aux Enfers descendu
 Il a vu le Cocyte et les rivages sombres,
-Et s'est montré vivant aux infernales ombres ;
+Et s'est montré vivant aux infernales ombres,
 Mais qu'il n'a pu sortir de ce triste séjour,
 Et repasser les bords, qu'on passe sans retour.
 
@@ -621,7 +621,7 @@ On craint que de la soeur les flammes téméraires
 Ne raniment un jour la cendre de ses frères.
 Mais tu sais bien aussi de quel oeil dédaigneux
 Je regardais ce soin d'un vainqueur soupçonneux.
-Tu sais que de tout temps à l'amour opposée,
+Tu sais que de tout temps à l'amour opposée
 Je rendais souvent grâce à l'injuste Thésée
 Dont l'heureuse rigueur secondait mes mépris.
 Mes yeux alors, mes yeux n'avaient pas vu son fils.
@@ -640,7 +640,7 @@ Et d'entrer dans un coeur de toutes parts ouvert.
 Mais de faire fléchir un courage inflexible,
 De porter la douleur dans une âme insensible,
 D'enchaîner un captif de ses fers étonné,
-Contre un joug qui lui plaît vainement mutiné :
+Contre un joug qui lui plaît vainement mutiné ;
 C'est là ce que je veux, c'est là ce qui m'irrite.
 Hercule à désarmer coûtait moins qu'Hippolyte,
 Et vaincu plus souvent, et plutôt surmonté
@@ -656,7 +656,7 @@ Aurais-je pu fléchir...
       Vous l'entendrez lui-même,
 Il vient à vous.
 
-**** *book_ *id_II02 *act_II *date_1677 *creator_racine
+**** *book_ *id_II02 *act_II *date_1677
 
 -*who_hippolyte
       Madame, avant que de partir,
@@ -699,7 +699,7 @@ Mais si pour concurrent je n'avais que mon frère,
 Madame, j'ai sur lui de véritables droits
 Que je saurais sauver du caprice des lois.
 Un frein plus légitime arrête mon audace.
-Je vous cède, ou plutôt je vous rends une place,
+Je vous cède, ou plutôt je vous rends une place ;
 Un sceptre, que jadis vos aïeux ont reçu
 De ce fameux mortel que la Terre a conçu.
 L'adoption le mit entre les mains d'Égée.
@@ -707,7 +707,7 @@ Athènes par mon père accrue, et protégée
 Reconnut avec joie un roi si généreux,
 Et laissa dans l'oubli vos frères malheureux.
 Athènes dans ses murs maintenant vous rappelle.
-Assez elle a gémi d'une longue querelle,
+Assez elle a gémi d'une longue querelle
 Assez dans ses sillons votre sang englouti
 A fait fumer le champ dont il était sorti.
 Trézène m'obéit. Les campagnes de Crète
@@ -718,11 +718,11 @@ Réunir tous les voeux partagés entre nous.
 -*who_aricie
 De tout ce que j'entends étonnée et confuse
 Je crains presque, je crains qu'un songe ne m'abuse.
-Veillé-je ? Puis-je croire un semblable dessein ?
-Quel dieu, Seigneur, quel dieu l'a mis dans votre sein ?
+Veillai-je ? Puis-je croire un semblable dessein ?
+Quel Dieu, Seigneur, quel Dieu l'a mis dans votre sein ?
 Qu'à bon droit votre gloire en tous lieux est semée !
-Et que la vérité passe la renommée !
-Vous-même en ma faveur vous voulez vous trahir !
+Et que la vérité passe la Renommée !
+Vous-même en ma faveur vous voulez vous trahir ?
 N'était-ce pas assez de ne me point haïr ?
 Et d'avoir si longtemps pu défendre votre âme
 De cette inimitié...
@@ -777,14 +777,14 @@ Songez que je vous parle une langue étrangère,
 Et ne rejetez pas des voeux mal exprimés,
 Qu'Hippolyte sans vous n'aurait jamais formés.
 
-**** *book_ *id_II03 *act_II *date_1677 *creator_racine
+**** *book_ *id_II03 *act_II *date_1677
 
 -*who_theramene
-Seigneur, la reine vient, et je l'ai devancée.
+Seigneur, la Reine vient, et je l'ai devancée.
 Elle vous cherche.
 
 -*who_hippolyte
-      Moi !
+      Moi ?
 
 -*who_theramene
       J'ignore sa pensée,
@@ -811,15 +811,15 @@ J'accepte tous les dons que vous me voulez faire.
 Mais cet empire enfin si grand, si glorieux,
 N'est pas de vos présents le plus cher à mes yeux.
 
-**** *book_ *id_II04 *act_II *date_1677 *creator_racine
+**** *book_ *id_II04 *act_II *date_1677
 
 -*who_hippolyte
-Ami, tout est-il prêt ? Mais la reine s'avance.
+Ami, tout est-il prêt ? Mais la Reine s'avance.
 Va, que pour le départ tout s'arme en diligence.
 Fais donner le signal, cours, ordonne, et reviens
 Me délivrer bientôt d'un fâcheux entretien.
 
-**** *book_ *id_II05 *act_II *date_1677 *creator_racine
+**** *book_ *id_II05 *act_II *date_1677
 
 -*who_phedre
 Le voici. Vers mon coeur tout mon sang se retire.
@@ -836,7 +836,7 @@ Mon fils n'a plus de père, et le jour n'est pas loin
 Qui de ma mort encor doit le rendre témoin.
 Déjà mille ennemis attaquent son enfance,
 Vous seul pouvez contre eux embrasser sa défense.
-Mais un secret remords agite mes esprits :
+Mais un secret remords agite mes esprits.
 Je crains d'avoir fermé votre oreille à ses cris.
 Je tremble que sur lui votre juste colère
 Ne poursuive bientôt une odieuse mère.
@@ -868,21 +868,21 @@ Toute autre aurait pour moi pris les mêmes ombrages,
 Et j'en aurais peut-être essuyé plus d'outrages.
 
 -*who_phedre
-Ah, Seigneur ! que le ciel, j'ose ici l'attester,
-De cette loi commune a voulu m'excepter !
+Ah, Seigneur ! Que le ciel, j'ose ici l'attester,
+De cette loi commune a voulu m'excepter.
 Qu'un soin bien différent me trouble, et me dévore !
 
 -*who_hippolyte
 Madame, il n'est pas temps de vous troubler encore.
 Peut-être votre époux voit encore le jour.
 Le ciel peut à nos pleurs accorder son retour.
-Neptune le protège, et ce dieu tutélaire
+Neptune le protège, et ce Dieu tutélaire
 Ne sera pas en vain imploré par mon père.
 
 -*who_phedre
 On ne voit point deux fois le rivage des morts,
 Seigneur. Puisque Thésée a vu les sombres bords,
-En vain vous espérez qu'un dieu vous le renvoie,
+En vain vous espérez qu'un Dieu vous le renvoie,
 Et l'avare Achéron ne lâche point sa proie.
 Que dis-je ? Il n'est point mort, puisqu'il respire en vous.
 Toujours devant mes yeux je crois voir mon époux.
@@ -898,10 +898,10 @@ Toujours de son amour votre âme est embrasée.
 Oui, Prince, je languis, je brûle pour Thésée.
 Je l'aime, non point tel que l'ont vu les Enfers,
 Volage adorateur de mille objets divers,
-Qui va du dieu des morts déshonorer la couche ;
+Qui va du Dieu des morts déshonorer la couche ;
 Mais fidèle, mais fier, et même un peu farouche,
 Charmant, jeune, traînant tous les coeurs après soi,
-Tel qu'on dépeint nos dieux, ou tel que je vous vois.
+Tel qu'on dépeint nos Dieux, ou tel que je vous vois.
 Il avait votre port, vos yeux, votre langage.
 Cette noble pudeur colorait son visage,
 Lorsque de notre Crète il traversa les flots,
@@ -911,7 +911,7 @@ Des héros de la Grèce assembla-t-il l'élite ?
 Pourquoi trop jeune encor ne pûtes-vous alors
 Entrer dans le vaisseau qui le mit sur nos bords ?
 Par vous aurait péri le monstre de la Crète
-Malgré tous les détours de sa vaste retraite.
+Malgré tous les détours de sa vaste retraite,
 Pour en développer l'embarras incertain
 Ma soeur du fil fatal eût armé votre main.
 Mais non, dans ce dessein je l'aurais devancée.
@@ -940,9 +940,9 @@ Ma honte ne peut plus soutenir votre vue.
 Et je vais...
 
 -*who_phedre
-      Ah ! cruel, tu m'as trop entendue.
+      Ah ! Cruel, tu m'as trop entendue.
 Je t'en ai dit assez pour te tirer d'erreur.
-Hé bien, connais donc Phèdre et toute sa fureur.
+Hé bien ! Connais donc Phèdre et toute sa fureur.
 J'aime. Ne pense pas qu'au moment que je t'aime,
 Innocente à mes yeux je m'approuve moi-même,
 Ni que du fol amour qui trouble ma raison
@@ -954,7 +954,7 @@ Ont allumé le feu fatal à tout mon sang,
 Ces dieux qui se sont fait une gloire cruelle
 De séduire le coeur d'une faible mortelle.
 Toi-même en ton esprit rappelle le passé.
-C'est peu de t'avoir fui, cruel, je t'ai chassé.
+C'est peu de t'avoir fui, Cruel, je t'ai chassé.
 J'ai voulu te paraître odieuse, inhumaine.
 Pour mieux te résister, j'ai recherché ta haine.
 De quoi m'ont profité mes inutiles soins ?
@@ -968,10 +968,10 @@ Cet aveu si honteux, le crois-tu volontaire ?
 Tremblante pour un fils que je n'osais trahir,
 Je te venais prier de ne le point haïr.
 Faibles projets d'un coeur trop plein de ce qu'il aime !
-Hélas ! je ne t'ai pu parler que de toi-même.
+Hélas ! Je ne t'ai pu parler que de toi-même.
 Venge-toi, punis-moi d'un odieux amour.
 Digne fils du héros qui t'a donné le jour,
-Délivre l'univers d'un monstre qui t'irrite.
+Délivre l'Univers d'un monstre qui t'irrite.
 La veuve de Thésée ose aimer Hippolyte ?
 Crois-moi, ce monstre affreux ne doit point t'échapper.
 Voilà mon coeur. C'est là que ta main doit frapper.
@@ -988,22 +988,22 @@ Donne.
 Mais on vient. Évitez des témoins odieux,
 Venez, rentrez, fuyez une honte certaine.
 
-**** *book_ *id_II06 *act_II *date_1677 *creator_racine
+**** *book_ *id_II06 *act_II *date_1677
 
 -*who_theramene
 Est-ce Phèdre qui fuit, ou plutôt qu'on entraîne ?
 Pourquoi, Seigneur, pourquoi ces marques de douleur ?
-Je vous vois sans épée, interdit, sans couleur ?
+Je vous vois sans épée, interdit, sans couleur.
 
 -*who_hippolyte
 Théramène, fuyons. Ma surprise est extrême.
 Je ne puis sans horreur me regarder moi-même.
-Phèdre... Mais non, grands dieux ! Qu'en un profond oubli
+Phèdre... Mais non, grands Dieux ! Qu'en un profond oubli
 Cet horrible secret demeure enseveli.
 
 -*who_theramene
 Si vous voulez partir, la voile est préparée.
-Mais Athènes, Seigneur, s'est déjà déclarée.
+Mais Athènes, Seigneur, s'est déjà déclarée,
 Ses chefs ont pris les voix de toutes ses tribus.
 Votre frère l'emporte, et Phèdre a le dessus.
 
@@ -1013,14 +1013,14 @@ Phèdre ?
 -*who_theramene
       Un héraut chargé des volontés d'Athènes
 De l'État en ses mains vient remettre les rênes.
-Son fils est roi, Seigneur.
+Son fils est Roi, Seigneur.
 
 -*who_hippolyte
       Dieux, qui la connaissez,
 Est-ce donc sa vertu que vous récompensez ?
 
 -*who_theramene
-Cependant un bruit sourd veut que le roi respire.
+Cependant un bruit sourd veut que le Roi respire.
 On prétend que Thésée a paru dans l'Épire.
 Mais moi qui l'y cherchai, Seigneur, je sais trop bien...
 
@@ -1031,21 +1031,21 @@ S'il ne mérite pas d'interrompre ma course,
 Partons, et quelque prix qu'il en puisse coûter,
 Mettons le sceptre aux mains dignes de le porter.
 
-**** *book_ *id_III01 *act_III *date_1677 *creator_racine
+**** *book_ *id_III01 *act_III *date_1677
 
 -*who_phedre
-Ah ! que l'on porte ailleurs les honneurs qu'on m'envoie.
+Ah ! Que l'on porte ailleurs les honneurs qu'on m'envoie.
 Importune, peux-tu souhaiter qu'on me voie ?
 De quoi viens-tu flatter mon esprit désolé ?
 Cache-moi bien plutôt, je n'ai que trop parlé.
 Mes fureurs au dehors ont osé se répandre.
 J'ai dit ce que jamais on ne devait entendre.
-Ciel ! comme il m'écoutait ! Par combien de détours
+Ciel ! Comme il m'écoutait ! Par combien de détours
 L'insensible a longtemps éludé mes discours !
 Comme il ne respirait qu'une retraite prompte !
 Et combien sa rougeur a redoublé ma honte !
 Pourquoi détournais-tu mon funeste dessein ?
-Hélas ! quand son épée allait chercher mon sein,
+Hélas ! Quand son épée allait chercher mon sein,
 A-t-il pâli pour moi ? Me l'a-t-il arrachée ?
 Il suffit que ma main l'ait une fois touchée,
 Je l'ai rendue horrible à ses yeux inhumains,
@@ -1086,14 +1086,14 @@ Par tes conseils flatteurs tu m'as su ranimer.
 Tu m'as fait entrevoir que je pouvais l'aimer.
 
 -*who_oenone
-Hélas ! de vos malheurs innocente ou coupable,
+Hélas ! De vos malheurs innocente ou coupable,
 De quoi pour vous sauver n'étais-je point capable ?
 Mais si jamais l'offense irrita vos esprits,
 Pouvez-vous d'un superbe oublier les mépris ?
 Avec quels yeux cruels sa rigueur obstinée
 Vous laissait à ses pieds peu s'en faut prosternée !
 Que son farouche orgueil le rendait odieux !
-Que Phèdre en ce moment n'avait-elle mes yeux !
+Que Phèdre en ce moment n'avait-elle mes yeux ?
 
 -*who_phedre
 Oenone, il peut quitter cet orgueil qui te blesse.
@@ -1118,7 +1118,7 @@ Enfin, tous tes conseils ne sont plus de saison.
 Sers ma fureur, Oenone, et non point ma raison.
 Il oppose à l'amour un coeur inaccessible.
 Cherchons pour l'attaquer quelque endroit plus sensible.
-Les charmes d'un empire ont paru le toucher.
+Les charmes d'un Empire ont paru le toucher.
 Athènes l'attirait, il n'a pu s'en cacher.
 Déjà de ses vaisseaux la pointe était tournée,
 Et la voile flottait aux vents abandonnée.
@@ -1132,15 +1132,15 @@ Peut-être il voudra bien lui tenir lieu de père.
 Je mets sous son pouvoir et le fils et la mère.
 Pour le fléchir enfin tente tous les moyens.
 Tes discours trouveront plus d'accès que les miens.
-Presse, pleure, gémis, plains-lui Phèdre mourante.
+Presse, pleure, gémis, peins-lui Phèdre mourante.
 Ne rougis point de prendre une voix suppliante.
 Je t'avouerai de tout, je n'espère qu'en toi.
 Va, j'attends ton retour pour disposer de moi.
 
-**** *book_ *id_III02 *act_III *date_1677 *creator_racine
+**** *book_ *id_III02 *act_III *date_1677
 
 -*who_phedre
-Ô toi ! qui vois la honte où je suis descendue,
+Ô toi ! Qui vois la honte où je suis descendue,
 Implacable Vénus, suis-je assez confondue ?
 Tu ne saurais plus loin pousser ta cruauté.
 Ton triomphe est parfait, tous tes traits ont porté.
@@ -1153,7 +1153,7 @@ Déesse, venge-toi, nos causes sont pareilles.
 Qu'il aime ! Mais déjà tu reviens sur tes pas,
 Oenone ? On me déteste, on ne t'écoute pas.
 
-**** *book_ *id_III03 *act_III *date_1677 *creator_racine
+**** *book_ *id_III03 *act_III *date_1677
 
 -*who_oenone
 Il faut d'un vain amour étouffer la pensée,
@@ -1182,7 +1182,7 @@ J'ai suivi tes conseils, je meurs déshonorée.
 Vous mourez ?
 
 -*who_phedre
-      Juste ciel ! Qu'ai-je fait aujourd'hui ?
+      Juste ciel ! Qu'ai-je fait aujourd'hui !
 Mon époux va paraître, et son fils avec lui.
 Je verrai le témoin de ma flamme adultère
 Observer de quel front j'ose aborder son père,
@@ -1190,25 +1190,25 @@ Le coeur gros de soupirs, qu'il n'a point écoutés,
 L'oeil humide de pleurs, par l'ingrat rebutés.
 Penses-tu que sensible à l'honneur de Thésée,
 Il lui cache l'ardeur dont je suis embrasée ?
-Laissera-t-il trahir et son père et son roi ?
+Laissera-t-il trahir et son père et son Roi ?
 Pourra-t-il contenir l'horreur qu'il a pour moi ?
 Il se tairait en vain. Je sais mes perfidies,
 Oenone, et ne suis point de ces femmes hardies,
-Qui goûtant dans le crime une tranquille paix
+Qui goûtant dans le crime une tranquille paix,
 Ont su se faire un front qui ne rougit jamais.
 Je connais mes fureurs, je les rappelle toutes.
 Il me semble déjà que ces murs, que ces voûtes
 Vont prendre la parole, et prêts à m'accuser
 Attendent mon époux, pour le désabuser.
 Mourons. De tant d'horreurs, qu'un trépas me délivre.
-Est-ce un malheur si grand, que de cesser de vivre ?
+Est-ce un malheur si grand que de cesser de vivre ?
 La mort aux malheureux ne cause point d'effroi.
 Je ne crains que le nom que je laisse après moi.
 Pour mes tristes enfants quel affreux héritage !
 Le sang de Jupiter doit enfler leur courage.
 Mais quelque juste orgueil qu'inspire un sang si beau,
 Le crime d'une mère est un pesant fardeau.
-Je tremble qu'un discours, hélas ! trop véritable,
+Je tremble qu'un discours hélas ! trop véritable,
 Un jour ne leur reproche une mère coupable.
 Je tremble qu'opprimés de ce poids odieux,
 L'un ni l'autre jamais n'ose lever les yeux.
@@ -1220,13 +1220,13 @@ Mais à de tels affronts, pourquoi les exposer ?
 Pourquoi contre vous-même allez-vous déposer ?
 C'en est fait. On dira que Phèdre trop coupable,
 De son époux trahi fuit l'aspect redoutable.
-Hippolyte est heureux qu'aux dépens de vos jours,
+Hippolyte est heureux qu'aux dépens de vos jours
 Vous-même en expirant appuyiez ses discours.
 À votre accusateur, que pourrai-je répondre ?
 Je serai devant lui trop facile à confondre.
 De son triomphe affreux je le verrai jouir,
 Et conter votre honte à qui voudra l'ouïr.
-Ah ! que plutôt du ciel la flamme me dévore !
+Ah ! Que plutôt du ciel la flamme me dévore !
 Mais ne me trompez point, vous est-il cher encore ?
 De quel oeil voyez-vous ce prince audacieux ?
 
@@ -1235,7 +1235,7 @@ Je le vois comme un monstre effroyable à mes yeux.
 
 -*who_oenone
 Pourquoi donc lui céder une victoire entière ?
-Vous le craignez... Osez l'accuser la première
+Vous le craignez. Osez l'accuser la première
 Du crime dont il peut vous charger aujourd'hui.
 Qui vous démentira ? Tout parle contre lui.
 Son épée en vos mains heureusement laissée,
@@ -1244,7 +1244,7 @@ Son père par vos cris dès longtemps prévenu,
 Et déjà son exil par vous-même obtenu.
 
 -*who_phedre
-Moi, que j'ose opprimer et noircir l'innocence !
+Moi, que j'ose opprimer et noircir l'innocence ?
 
 -*who_oenone
 Mon zèle n'a besoin que de votre silence.
@@ -1252,7 +1252,7 @@ Tremblante comme vous, j'en sens quelques remords.
 Vous me verriez plus prompte affronter mille morts.
 Mais puisque je vous perds sans ce triste remède,
 Votre vie est pour moi d'un prix à qui tout cède.
-Je parlerai. Thésée aigri par mes avis,
+Je parlerai. Thésée aigri par mes avis
 Bornera sa vengeance à l'exil de son fils.
 Un père en punissant, Madame, est toujours père.
 Un supplice léger suffit à sa colère.
@@ -1265,12 +1265,12 @@ Il faut immoler tout, et même la vertu.
 On vient, je vois Thésée.
 
 -*who_phedre
-      Ah ! je vois Hippolyte.
-Dans ses yeux insolents je vois ma perte écrite.
+      Ah ! Je vois Hippolyte.
+Dans ses yeux insolents je vois ma perte écrite !
 Fais ce que tu voudras, je m'abandonne à toi.
-Dans le trouble où je suis, je ne peux rien pour moi.
+Dans le trouble où je suis je ne peux rien pour moi.
 
-**** *book_ *id_III04 *act_III *date_1677 *creator_racine
+**** *book_ *id_III04 *act_III *date_1677
 
 -*who_thesee
 La fortune à mes voeux cesse d'être opposée,
@@ -1285,7 +1285,7 @@ N'a pas en votre absence épargné votre épouse,
 Indigne de vous plaire, et de vous approcher,
 Je ne dois désormais songer qu'à me cacher.
 
-**** *book_ *id_III05 *act_III *date_1677 *creator_racine
+**** *book_ *id_III05 *act_III *date_1677
 
 -*who_thesee
 Quel est l'étrange accueil qu'on fait à votre père,
@@ -1302,15 +1302,15 @@ Disparaisse des lieux que votre épouse habite.
 Vous, mon fils, me quitter ?
 
 -*who_hippolyte
-      Je ne la cherchais pas,
+      Je ne la cherchais pas.
 C'est vous qui sur ces bords conduisîtes ses pas.
 Vous daignâtes, Seigneur, aux rives de Trézène
 Confier en partant Aricie, et la reine.
 Je fus même chargé du soin de les garder.
 Mais quels soins désormais peuvent me retarder ?
-Assez dans les forêts mon oisive jeunesse,
+Assez dans les forêts mon oisive jeunesse
 Sur de vils ennemis a montré son adresse.
-Ne pourrai-je en fuyant un indigne repos,
+Ne pourrai-je, en fuyant un indigne repos,
 D'un sang plus glorieux teindre mes javelots ?
 Vous n'aviez pas encore atteint l'âge où je touche,
 Déjà plus d'un tyran, plus d'un monstre farouche
@@ -1318,14 +1318,14 @@ Avait de votre bras senti la pesanteur.
 Déjà de l'insolence heureux persécuteur,
 Vous aviez des deux mers assuré les rivages.
 Le libre voyageur ne craignait plus d'outrages.
-Hercule respirant sur le bruit de vos coups,
+Hercule respirant sur le bruit de vos coups
 Déjà de son travail se reposait sur vous.
 Et moi, fils inconnu d'un si glorieux père,
 Je suis même encor loin des traces de ma mère.
 Souffrez que mon courage ose enfin s'occuper.
 Souffrez, si quelque monstre a pu vous échapper,
 Que j'apporte à vos pieds sa dépouille honorable ;
-Ou que d'un beau trépas la mémoire durable,
+Ou que d'un beau trépas la mémoire durable
 Éternisant des jours si noblement finis,
 Prouve à tout l'avenir que j'étais votre fils.
 
@@ -1333,7 +1333,7 @@ Prouve à tout l'avenir que j'étais votre fils.
 Que vois-je ? Quelle horreur dans ces lieux répandue
 Fait fuir devant mes yeux ma famille éperdue ?
 Si je reviens si craint, et si peu désiré,
-Ô ciel ! de ma prison pourquoi m'as-tu tiré ?
+Ô ciel ! De ma prison pourquoi m'as-tu tiré ?
 Je n'avais qu'un ami. Son imprudente flamme
 Du tyran de l'Épire allait ravir la femme.
 Je servais à regret ses desseins amoureux.
@@ -1343,21 +1343,21 @@ J'ai vu Pirithoüs, triste objet de mes larmes,
 Livré par ce barbare à des monstres cruels,
 Qu'il nourrissait du sang des malheureux mortels.
 Moi-même il m'enferma dans des cavernes sombres,
-Lieux profonds, et voisins de l'empire des ombres.
+Lieux profonds, et voisins de l'Empire des Ombres.
 Les dieux après six mois enfin m'ont regardé.
-J'ai su tromper les yeux de qui j'étais gardé.
+J'ai su tromper les yeux par qui j'étais gardé.
 D'un perfide ennemi j'ai purgé la nature.
 À ses monstres lui-même a servi de pâture.
 Et lorsqu'avec transport je pense m'approcher
 De tout ce que les dieux m'ont laissé de plus cher ;
-Que dis-je ? quand mon âme à soi-même rendue
+Que dis-je ? Quand mon âme à soi-même rendue
 Vient se rassasier d'une si chère vue ;
 Je n'ai pour tout accueil que des frémissements.
 Tout fuit, tout se refuse à mes embrassements.
 Et moi-même éprouvant la terreur que j'inspire,
 Je voudrais être encor dans les prisons d'Épire.
 Parlez. Phèdre se plaint que je suis outragé.
-Qui m'a trahi ? Pourquoi ne suis-je pas vengé ?
+Qui m'a trahi ? Pourquoi ne suis-je pas vengé !
 La Grèce, à qui mon bras fut tant de fois utile,
 A-t-elle au criminel accordé quelque asile ?
 Vous ne répondez point. Mon fils, mon propre fils
@@ -1366,13 +1366,13 @@ Entrons. C'est trop garder un doute qui m'accable.
 Connaissons à la fois le crime et le coupable.
 Que Phèdre explique enfin le trouble où je la vois.
 
-**** *book_ *id_III06 *act_III *date_1677 *creator_racine
+**** *book_ *id_III06 *act_III *date_1677
 
 -*who_hippolyte
 Où tendait ce discours qui m'a glacé d'effroi ?
-Phèdre toujours en proie à sa fureur extrême,
+Phèdre toujours en proie à sa fureur extrême
 Veut-elle s'accuser et se perdre elle-même ?
-Dieux ! que dira le roi ? Quel funeste poison
+Dieux ! Que dira le roi ? Quel funeste poison
 L'amour a répandu sur toute sa maison !
 Moi-même plein d'un feu que sa haine réprouve,
 Quel il m'a vu jadis, et quel il me retrouve !
@@ -1383,22 +1383,22 @@ Je pourrai de mon père émouvoir la tendresse,
 Et lui dire un amour qu'il peut vouloir troubler,
 Mais que tout son pouvoir ne saurait ébranler.
 
-**** *book_ *id_IV01 *act_IV *date_1677 *creator_racine
+**** *book_ *id_IV01 *act_IV *date_1677
 
 -*who_thesee
-Ah ! Qu'est-ce que j'entends ? Un traître, un téméraire
+Ah ! Qu'est-ce que j'entends ! Un traître, un téméraire
 Préparait cet outrage à l'honneur de son père ?
 Avec quelle rigueur, Destin, tu me poursuis !
 Je ne sais où je vais, je ne sais où je suis.
 Ô tendresse ! Ô bonté trop mal récompensée !
-Projet audacieux ! détestable pensée !
-Pour parvenir au but de ses noires amours,
+Projet audacieux ! Détestable pensée !
+Pour parvenir au but de ses noires amours
 L'insolent de la force empruntait le secours.
-J'ai reconnu le fer, instrument de sa rage,
+J'ai reconnu le fer, instrument de sa rage ;
 Ce fer dont je l'armai pour un plus noble usage.
-Tous les liens du sang n'ont pu le retenir !
-Et Phèdre différait à le faire punir !
-Le silence de Phèdre épargnait le coupable !
+Tous les liens du sang n'ont pu le retenir ?
+Et Phèdre différait à le faire punir ?
+Le silence de Phèdre épargnait le coupable ?
 
 -*who_oenone
 Phèdre épargnait plutôt un père déplorable.
@@ -1407,7 +1407,7 @@ Et du feu criminel qu'il a pris dans ses yeux,
 Phèdre mourait, Seigneur, et sa main meurtrière
 Éteignait de ses yeux l'innocente lumière.
 J'ai vu lever le bras, j'ai couru la sauver.
-Moi seule à votre amour j'ai su la conserver ;
+Moi seule à votre amour j'ai su la conserver.
 Et plaignant à la fois son trouble et vos alarmes,
 J'ai servi malgré moi d'interprète à ses larmes.
 
@@ -1420,7 +1420,7 @@ Mais ce coupable amour dont il est dévoré,
 Dans Athènes déjà s'était-il déclaré ?
 
 -*who_oenone
-Seigneur, souvenez-vous des plaintes de la reine.
+Seigneur, souvenez-vous des plaintes de la Reine.
 Un amour criminel causa toute sa haine.
 
 -*who_thesee
@@ -1428,13 +1428,13 @@ Et ce feu dans Trézène a donc recommencé ?
 
 -*who_oenone
 Je vous ai dit Seigneur, tout ce qui s'est passé.
-C'est trop laisser la reine à sa douleur mortelle.
+C'est trop laisser la Reine à sa douleur mortelle.
 Souffrez que je vous quitte et me range auprès d'elle.
 
-**** *book_ *id_IV02 *act_IV *date_1677 *creator_racine
+**** *book_ *id_IV02 *act_IV *date_1677
 
 -*who_thesee
-Ah ! le voici. Grands dieux ! À ce noble maintien
+Ah ! Le voici. Grands dieux ! À ce noble maintien
 Quel oeil ne serait pas trompé comme le mien ?
 Faut-il que sur le front d'un profane adultère
 Brille de la vertu le sacré caractère ?
@@ -1449,9 +1449,9 @@ N'osez-vous confier ce secret à ma foi ?
 -*who_thesee
 Perfide, oses-tu bien te montrer devant moi ?
 Monstre, qu'a trop longtemps épargné le tonnerre,
-Reste impur des brigands dont j'ai purgé la terre.
-Après que le transport d'un amour plein d'horreur,
-Jusqu'au lit de ton père a porté sa fureur,
+Reste impur des brigands dont j'ai purgé la Terre.
+Après que le transport d'un amour plein d'horreur
+Jusqu'au lit de ton père a porté ta fureur,
 Tu m'oses présenter une tête ennemie,
 Tu parais dans des lieux pleins de ton infamie,
 Et ne vas pas chercher sous un ciel inconnu
@@ -1470,11 +1470,11 @@ Fuis, dis-je, et sans retour précipitant tes pas,
 De ton horrible aspect purge tous mes États.
 Et toi, Neptune, et toi, si jadis mon courage
 D'infâmes assassins nettoya ton rivage,
-Souviens-toi que pour prix de mes efforts heureux,
+Souviens-toi que pour prix de mes efforts heureux
 Tu promis d'exaucer le premier de mes voeux.
 Dans les longues rigueurs d'une prison cruelle
 Je n'ai point imploré ta puissance immortelle.
-Avare du secours que j'attends de tes soins
+Avares du secours que j'attends de tes soins
 Mes voeux t'ont réservé pour de plus grands besoins.
 Je t'implore aujourd'hui. Venge un malheureux père.
 J'abandonne ce traître à toute ta colère.
@@ -1482,13 +1482,13 @@ J'abandonne ce traître à toute ta colère.
 Thésée à tes fureurs connaîtra tes bontés.
 
 -*who_hippolyte
-D'un amour criminel Phèdre accuse Hippolyte ?
-Un tel excès d'horreur rend mon âme interdite ;
-Tant de coups imprévus m'accablent à la fois,
+D'un amour criminel Phèdre accuse Hippolyte !
+Un tel excès d'horreur rend mon âme interdite,
+Tant de coups imprévus m'accablent à la fois
 Qu'ils m'ôtent la parole, et m'étouffent la voix.
 
 -*who_thesee
-Traître, tu prétendais qu'en un lâche silence,
+Traître, tu prétendais qu'en un lâche silence
 Phèdre ensevelirait ta brutale insolence.
 Il fallait en fuyant ne pas abandonner
 Le fer, qui dans ses mains aide à te condamner.
@@ -1503,7 +1503,7 @@ Approuvez le respect qui me ferme la bouche ;
 Et sans vouloir vous-même augmenter vos ennuis,
 Examinez ma vie, et songez qui je suis.
 Quelques crimes toujours précèdent les grands crimes.
-Quiconque a pu franchir les bornes légitimes,
+Quiconque a pu franchir les bornes légitimes
 Peut violer enfin les droits les plus sacrés.
 Ainsi que la vertu, le crime a ses degrés.
 Et jamais on n'a vu la timide innocence
@@ -1512,9 +1512,9 @@ Un jour seul ne fait point d'un mortel vertueux
 Un perfide assassin, un lâche incestueux.
 Élevé dans le sein d'une chaste héroïne,
 Je n'ai point de son sang démenti l'origine.
-Pitthée estimé sage entre tous les humains,
+Pitthée estimé sage entre tous les humains
 Daigna m'instruire encore au sortir de ses mains.
-Je ne veux point me peindre avec trop d'avantage ;
+Je ne veux point me peindre avec trop d'avantage.
 Mais si quelque vertu m'est tombée en partage,
 Seigneur, je crois surtout avoir fait éclater
 La haine des forfaits qu'on ose m'imputer.
@@ -1538,8 +1538,8 @@ Je confesse à vos pieds ma véritable offense.
 J'aime, j'aime, il est vrai, malgré votre défense.
 Aricie à ses lois tient mes voeux asservis.
 La fille de Pallante a vaincu votre fils.
-Je l'adore, et mon âme à vos ordres rebelle,
-Ne peut ni soupirer, ni brûler que pour elle.
+Je l'adore, et mon âme à vos ordres rebelle
+Ne peut ni soupirer ni brûler que pour elle.
 
 -*who_thesee
 Tu l'aimes ? Ciel ! Mais non, l'artifice est grossier.
@@ -1550,7 +1550,7 @@ Seigneur, depuis six mois je l'évite, et je l'aime.
 Je venais en tremblant vous le dire à vous-même.
 Hé quoi ? De votre erreur rien ne vous peut tirer ?
 Par quel affreux serment faut-il vous rassurer ?
-Que la terre, le ciel, que toute la nature...
+Que la Terre, le Ciel, que toute la Nature...
 
 -*who_thesee
 Toujours les scélérats ont recours au parjure.
@@ -1558,11 +1558,11 @@ Cesse, cesse, et m'épargne un importun discours,
 Si ta fausse vertu n'a point d'autre secours.
 
 -*who_hippolyte
-Elle vous paraît fausse, et pleine d'artifice ;
+Elle vous paraît fausse, et pleine d'artifice.
 Phèdre au fond de son coeur me rend plus de justice.
 
 -*who_thesee
-Ah ! que ton impudence excite mon courroux !
+Ah ! Que ton impudence excite mon courroux !
 
 -*who_hippolyte
 Quel temps à mon exil, quel lieu prescrivez-vous ?
@@ -1577,29 +1577,29 @@ Quels amis me plaindront quand vous m'abandonnez ?
 
 -*who_thesee
 Va chercher des amis, dont l'estime funeste
-Honore l'adultère, applaudisse à l'inceste ;
+Honore l'adultère, applaudisse à l'inceste,
 Des traîtres, des ingrats, sans honneur et sans loi,
 Dignes de protéger un méchant tel que toi.
 
 -*who_hippolyte
-Vous me parlez toujours d'inceste et d'adultère !
+Vous me parlez toujours d'inceste et d'adultère ?
 Je me tais. Cependant Phèdre sort d'une mère,
 Phèdre est d'un sang, Seigneur, vous le savez trop bien,
 De toutes ces horreurs plus rempli que le mien.
 
 -*who_thesee
-Quoi ! ta rage à mes yeux perd toute retenue ?
+Quoi ! Ta rage à mes yeux perd toute retenue ?
 Pour la dernière fois ôte-toi de ma vue.
 Sors, traître. N'attends pas qu'un père furieux
 Te fasse avec opprobre arracher de ces lieux.
 
-**** *book_ *id_IV03 *act_IV *date_1677 *creator_racine
+**** *book_ *id_IV03 *act_IV *date_1677
 
 -*who_thesee
 Misérable, tu cours à ta perte infaillible.
 Neptune par le fleuve aux dieux mêmes terrible,
 M'a donné sa parole, et va l'exécuter.
-Un dieu vengeur te suit, tu ne peux l'éviter.
+Un Dieu vengeur te suit, tu ne peux l'éviter.
 Je t'aimais. Et je sens que malgré ton offense,
 Mes entrailles pour toi se troublent par avance.
 Mais à te condamner tu m'as trop engagé.
@@ -1607,7 +1607,7 @@ Jamais père en effet fut-il plus outragé ?
 Justes dieux, qui voyez la douleur qui m'accable,
 Ai-je pu mettre au jour un enfant si coupable ?
 
-**** *book_ *id_IV04 *act_IV *date_1677 *creator_racine
+**** *book_ *id_IV04 *act_IV *date_1677
 
 -*who_phedre
 Seigneur, je viens à vous pleine d'un juste effroi.
@@ -1626,10 +1626,10 @@ Une immortelle main de sa perte est chargée.
 Neptune me la doit, et vous serez vengée.
 
 -*who_phedre
-Neptune vous la doit ! Quoi ! Vos voeux irrités...
+Neptune vous la doit ! Quoi vos voeux irrités...
 
 -*who_thesee
-Quoi ! craignez-vous déjà qu'ils ne soient écoutés ?
+Quoi craignez-vous déjà qu'ils ne soient écoutés ?
 Joignez-vous bien plutôt à mes voeux légitimes.
 Dans toute leur noirceur retracez-moi ses crimes.
 Échauffez mes transports trop lents, trop retenus.
@@ -1649,14 +1649,14 @@ Espérons de Neptune une prompte justice.
 Je vais moi-même encore au pied de ses autels,
 Le presser d'accomplir ses serments immortels.
 
-**** *book_ *id_IV05 *act_IV *date_1677 *creator_racine
+**** *book_ *id_IV05 *act_IV *date_1677
 
 -*who_phedre
 Il sort. Quelle nouvelle a frappé mon oreille ?
 Quel feu mal étouffé dans mon coeur se réveille ?
-Quel coup de foudre, ô ciel ! et quel funeste avis !
-Je volais toute entière au secours de son fils.
-Et m'arrachant des bras d'Oenone épouvantée,
+Quel coup de foudre, ô ciel ! Et quel funeste avis !
+Je volais toute entière au secours de son fils :
+Et m'arrachant des bras d'Oenone épouvantée
 Je cédais au remords dont j'étais tourmentée.
 Qui sait même où m'allait porter ce repentir ?
 Peut-être à m'accuser j'aurais pu consentir,
@@ -1666,7 +1666,7 @@ Hippolyte est sensible, et ne sent rien pour moi !
 Aricie a son coeur ! Aricie a sa foi !
 Ah dieux ! Lorsqu'à mes voeux l'ingrat inexorable
 S'armait d'un oeil si fier, d'un front si redoutable,
-Je pensais qu'à l'amour son coeur toujours fermé,
+Je pensais qu'à l'amour son coeur toujours fermé
 Fût contre tout mon sexe également armé.
 Une autre cependant a fléchi son audace.
 Devant ses yeux cruels une autre a trouvé grâce.
@@ -1674,7 +1674,7 @@ Peut-être a-t-il un coeur facile à s'attendrir.
 Je suis le seul objet qu'il ne saurait souffrir.
 Et je me chargerais du soin de le défendre !
 
-**** *book_ *id_IV06 *act_IV *date_1677 *creator_racine
+**** *book_ *id_IV06 *act_IV *date_1677
 
 -*who_phedre
 Chère Oenone, sais-tu ce que je viens d'apprendre ?
@@ -1702,25 +1702,25 @@ Aricie a trouvé le chemin de son coeur.
 Aricie ?
 
 -*who_phedre
-      Ah, douleur non encore éprouvée !
+      Ah douleur non encore éprouvée !
 À quel nouveau tourment je me suis réservée !
 Tout ce que j'ai souffert, mes craintes, mes transports,
 La fureur de mes feux, l'horreur de mes remords,
 Et d'un refus cruel l'insupportable injure
 N'était qu'un faible essai du tourment que j'endure.
-Ils s'aiment ! par quel charme ont-ils trompé mes yeux ?
+Ils s'aiment ! Par quel charme ont-ils trompé mes yeux ?
 Comment se sont-ils vus ? Depuis quand ? Dans quels lieux ?
 Tu le savais. Pourquoi me laissais-tu séduire ?
 De leur furtive ardeur ne pouvais-tu m'instruire ?
 Les a-t-on vus souvent se parler, se chercher ?
 Dans le fond des forêts allaient-ils se cacher ?
-Hélas ! ils se voyaient avec pleine licence.
-Le ciel de leurs soupirs approuvait l'innocence.
+Hélas ! Ils se voyaient avec pleine licence.
+Le Ciel de leurs soupirs approuvait l'innocence.
 Ils suivaient sans remords leur penchant amoureux.
 Tous les jours se levaient clairs et sereins pour eux.
 Et moi, triste rebut de la nature entière,
 Je me cachais au jour, je fuyais la lumière.
-La mort est le seul dieu que j'osais implorer.
+La mort est le seul Dieu que j'osais implorer.
 J'attendais le moment où j'allais expirer,
 Me nourrissant de fiel, de larmes abreuvée,
 Encor dans mon malheur de trop près observée,
@@ -1753,25 +1753,25 @@ Pour qui ? Quel est le coeur où prétendent mes voeux ?
 Chaque mot sur mon front fait dresser mes cheveux.
 Mes crimes désormais ont comblé la mesure.
 Je respire à la fois l'inceste et l'imposture.
-Mes homicides mains promptes à me venger,
+Mes homicides mains promptes à me venger
 Dans le sang innocent brûlent de se plonger.
 Misérable ! Et je vis ? Et je soutiens la vue
-De ce sacré soleil dont je suis descendue ?
-J'ai pour aïeul le père et le maître des dieux.
-Le ciel, tout l'univers est plein de mes aïeux.
-Où me cacher ? Fuyons dans la nuit infernale.
+De ce sacré Soleil dont je suis descendue ?
+J'ai pour aïeul le père et le maître des Dieux.
+Le Ciel, tout l'Univers est plein de mes aïeux.
+Où me cacher ? Fuyons dans la Nuit infernale.
 Mais que dis-je ? Mon père y tient l'urne fatale.
 Le sort, dit-on, l'a mise en ses sévères mains.
 Minos juge aux Enfers tous les pâles humains.
-Ah ! combien frémira son ombre épouvantée,
+Ah ! Combien frémira son ombre épouvantée,
 Lorsqu'il verra sa fille à ses yeux présentée,
 Contrainte d'avouer tant de forfaits divers,
-Et des crimes peut-être inconnus aux Enfers ?
+Et des crimes, peut-être inconnus aux Enfers.
 Que diras-tu, mon père, à ce spectacle horrible ?
-Je crois voir de ta main tomber l'urne terrible,
+Je crois voir de ta main tomber l'urne terrible.
 Je crois te voir cherchant un supplice nouveau,
 Toi-même de ton sang devenir le bourreau.
-Pardonne. Un dieu cruel a perdu ta famille.
+Pardonne. Un Dieu cruel a perdu ta famille.
 Reconnais sa vengeance aux fureurs de ta fille.
 Hélas ! Du crime affreux dont la honte me suit,
 Jamais mon triste coeur n'a recueilli le fruit.
@@ -1779,16 +1779,16 @@ Jusqu'au dernier soupir de malheurs poursuivie,
 Je rends dans les tourments une pénible vie.
 
 -*who_oenone
-Hé ! repoussez, Madame, une injuste terreur.
+Hé ! Repoussez, Madame, une injuste terreur.
 Regardez d'un autre oeil une excusable erreur.
 Vous aimez. On ne peut vaincre sa destinée.
 Par un charme fatal vous fûtes entraînée.
 Est-ce donc un prodige inouï parmi nous ?
 L'amour n'a-t-il encor triomphé que de vous ?
-La faiblesse aux humains n'est que trop naturelle.
-Mortelle, subissez le sort d'une mortelle.
+La faiblesse aux Humains n'est que trop naturelle.
+Mortelle subissez le sort d'une mortelle.
 Vous vous plaignez d'un joug imposé dès longtemps.
-Les dieux même, les dieux de l'Olympe habitants,
+Les Dieux même, les Dieux de l'Olympe habitants,
 Qui d'un bruit si terrible épouvantent les crimes,
 Ont brûlé quelquefois de feux illégitimes.
 
@@ -1796,7 +1796,7 @@ Ont brûlé quelquefois de feux illégitimes.
 Qu'entends-je ? Quels conseils ose-t-on me donner ?
 Ainsi donc jusqu'au bout tu veux m'empoisonner,
 Malheureuse ? Voilà comme tu m'as perdue.
-Au jour que je fuyais, c'est toi qui m'as rendue.
+Au jour que je fuyais c'est toi qui m'as rendue.
 Tes prières m'ont fait oublier mon devoir.
 J'évitais Hippolyte, et tu me l'as fait voir.
 De quoi te chargeais-tu ? Pourquoi ta bouche impie
@@ -1805,25 +1805,25 @@ Il en mourra peut-être, et d'un père insensé
 Le sacrilège voeu peut-être est exaucé.
 Je ne t'écoute plus. Va-t'en, monstre exécrable.
 Va, laisse-moi le soin de mon sort déplorable.
-Puisse le juste ciel dignement te payer ;
+Puisse le juste ciel dignement te payer.
 Et puisse ton supplice à jamais effrayer
 Tous ceux qui, comme toi, par de lâches adresses,
 Des princes malheureux nourrissent les faiblesses,
 Les poussent au penchant où leur coeur est enclin,
-Et leur osent du crime aplanir le chemin :
+Et leur osent du crime aplanir le chemin ;
 Détestables flatteurs, présent le plus funeste
 Que puisse faire aux rois la colère céleste.
 
 -*who_oenone
-Ah, dieux ! Pour la servir, j'ai tout fait, tout quitté.
+Ah, Dieux ! Pour la servir, j'ai tout fait, tout quitté.
 Et j'en reçois ce prix ? Je l'ai bien mérité.
 
-**** *book_ *id_V01 *act_V *date_1677 *creator_racine
+**** *book_ *id_V01 *act_V *date_1677
 
 -*who_aricie
-Quoi ! vous pouvez vous taire en ce péril extrême ?
+Quoi vous pouvez vous taire en ce péril extrême ?
 Vous laissez dans l'erreur un père qui vous aime ?
-Cruel, si de mes pleurs méprisant le pouvoir,
+Cruel, si de mes pleurs méprisant le pouvoir
 Vous consentez sans peine à ne me plus revoir,
 Partez, séparez-vous de la triste Aricie.
 Mais du moins en partant assurez votre vie.
@@ -1834,20 +1834,20 @@ Laissez-vous le champ libre à votre accusatrice ?
 Éclaircissez Thésée.
 
 -*who_hippolyte
-      Hé ! que n'ai-je point dit ?
+      Hé ! Que n'ai-je point dit ?
 Ai-je dû mettre au jour l'opprobre de son lit ?
 Devais-je, en lui faisant un récit trop sincère,
 D'une indigne rougeur couvrir le front d'un père ?
 Vous seule avez percé ce mystère odieux.
-Mon coeur pour s'épancher n'a que vous et les dieux.
+Mon coeur pour s'épancher n'a que vous et les Dieux.
 Je n'ai pu vous cacher, jugez si je vous aime,
 Tout ce que je voulais me cacher à moi-même.
 Mais songez sous quel sceau je vous l'ai révélé.
 Oubliez, s'il se peut, que je vous ai parlé,
 Madame. Et que jamais une bouche si pure
 Ne s'ouvre pour conter cette horrible aventure.
-Sur l'équité des dieux osons nous confier.
-Ils ont trop d'intérêt à me justifier ;
+Sur l'équité des Dieux osons nous confier.
+Ils ont trop d'intérêt à me justifier.
 Et Phèdre tôt ou tard de son crime punie,
 N'en saurait éviter la juste ignominie.
 C'est l'unique respect que j'exige de vous.
@@ -1856,9 +1856,9 @@ Sortez de l'esclavage où vous êtes réduite.
 Osez me suivre. Osez accompagner ma fuite.
 Arrachez-vous d'un lieu funeste et profané,
 Où la vertu respire un air empoisonné.
-Profitez pour cacher votre prompte retraite,
+Profitez, pour cacher votre prompte retraite,
 De la confusion que ma disgrâce y jette.
-Je vous puis de la fuite assurer les moyens,
+Je vous puis de la fuite assurer les moyens.
 Vous n'avez jusqu'ici de gardes que les miens.
 De puissants défenseurs prendront notre querelle.
 Argos nous tend les bras, et Sparte nous appelle.
@@ -1873,19 +1873,19 @@ Quand je suis tout de feu, d'où vous vient cette glace ?
 Sur les pas d'un banni craignez-vous de marcher ?
 
 -*who_aricie
-Hélas ! qu'un tel exil, Seigneur, me serait cher !
+Hélas ! Qu'un tel exil, Seigneur, me serait cher !
 Dans quels ravissements, à votre sort liée
 Du reste des mortels je vivrais oubliée !
 Mais n'étant point unis par un lien si doux,
 Me puis-je avec honneur dérober avec vous ?
 Je sais que sans blesser l'honneur le plus sévère
 Je me puis affranchir des mains de votre père.
-Ce n'est point m'arracher du sein de mes parents,
-Et la fuite est permise à qui fuit ses tyrans ;
+Ce n'est point m'arracher du sein de mes parents.
+Et la fuite est permise à qui fuit ses tyrans.
 Mais vous m'aimez, Seigneur ; et ma gloire alarmée...
 
 -*who_hippolyte
-Non, non : j'ai trop de soin de votre renommée.
+Non non, j'ai trop de soin de votre renommée.
 Un plus noble dessein m'amène devant vous.
 Fuyez vos ennemis, et suivez votre époux.
 Libres dans nos malheurs, puisque le ciel l'ordonne,
@@ -1900,7 +1900,7 @@ Et craignant d'y trouver la mort inévitable,
 Le mensonge n'a point de frein plus redoutable.
 Là, si vous m'en croyez, d'un amour éternel
 Nous irons confirmer le serment solennel.
-Nous prendrons à témoin le dieu qu'on y révère.
+Nous prendrons à témoin le Dieu qu'on y révère.
 Nous le prierons tous deux de nous servir de père.
 Des dieux les plus sacrés j'attesterai le nom.
 Et la chaste Diane, et l'auguste Junon,
@@ -1908,12 +1908,12 @@ Et tous les dieux enfin témoins de mes tendresses
 Garantiront la foi de mes saintes promesses.
 
 -*who_aricie
-Le roi vient. Fuyez, Prince, et partez promptement.
+Le Roi vient. Fuyez, Prince, et partez promptement.
 Pour cacher mon départ je demeure un moment.
 Allez, et laissez-moi quelque fidèle guide,
 Qui conduise vers vous ma démarche timide.
 
-**** *book_ *id_V02 *act_V *date_1677 *creator_racine
+**** *book_ *id_V02 *act_V *date_1677
 
 -*who_thesee
 Dieux, éclairez mon trouble, et daignez à mes yeux
@@ -1922,17 +1922,17 @@ Montrer la vérité, que je cherche en ces lieux.
 -*who_aricie
 Songe à tout, chère Ismène, et sois prête à la fuite.
 
-**** *book_ *id_V03 *act_V *date_1677 *creator_racine
+**** *book_ *id_V03 *act_V *date_1677
 
 -*who_thesee
-Vous changez de couleur, et semblez interdite
-Madame ! que faisait Hippolyte en ce lieu ?
+Vous changez de couleur, et semblez interdite,
+Madame. Que faisait Hippolyte en ce lieu ?
 
 -*who_aricie
 Seigneur, il me disait un éternel adieu.
 
 -*who_thesee
-Vos yeux ont su dompter ce rebelle courage ;
+Vos yeux ont su dompter ce rebelle courage.
 Et ses premiers soupirs sont votre heureux ouvrage.
 
 -*who_aricie
@@ -1959,7 +1959,7 @@ Avez-vous de son coeur si peu de connaissance ?
 Discernez-vous si mal le crime et l'innocence ?
 Faut-il qu'à vos yeux seuls un nuage odieux
 Dérobe sa vertu qui brille à tous les yeux ?
-Ah ! c'est trop le livrer à des langues perfides.
+Ah ! C'est trop le livrer à des langues perfides.
 Cessez. Repentez-vous de vos voeux homicides.
 Craignez, Seigneur, craignez que le ciel rigoureux
 Ne vous haïsse assez pour exaucer vos voeux.
@@ -1982,7 +1982,7 @@ Je l'affligerais trop, si j'osais achever.
 J'imite sa pudeur, et fuis votre présence
 Pour n'être pas forcée à rompre le silence.
 
-**** *book_ *id_V04 *act_V *date_1677 *creator_racine
+**** *book_ *id_V04 *act_V *date_1677
 
 -*who_thesee
 Quelle est donc sa pensée ? Et que cache un discours
@@ -1996,10 +1996,10 @@ Une seconde fois interrogeons Oenone.
 Je veux de tout le crime être mieux éclairci.
 Gardes. Qu'Oenone sorte et vienne seule ici.
 
-**** *book_ *id_V05 *act_V *date_1677 *creator_racine
+**** *book_ *id_V05 *act_V *date_1677
 
 -*who_panope
-J'ignore le projet que la reine médite,
+J'ignore le projet que la Reine médite,
 Seigneur. Mais je crains tout du transport qui l'agite.
 Un mortel désespoir sur son visage est peint.
 La pâleur de la mort est déjà sur son teint.
@@ -2012,7 +2012,7 @@ Et les flots pour jamais l'ont ravie à nos yeux.
 Qu'entends-je ?
 
 -*who_panope
-      Son trépas n'a point calmé la reine.
+      Son trépas n'a point calmé la Reine.
 Le trouble semble croître en son âme incertaine.
 Quelquefois pour flatter ses secrètes douleurs
 Elle prend ses enfants, et les baigne de pleurs.
@@ -2026,15 +2026,15 @@ Daignez la voir, Seigneur, daignez la secourir.
 
 -*who_thesee
 Ô ciel ! Oenone est morte, et Phèdre veut mourir ?
-Qu'on rappelle mon fils, qu'il vienne se défendre,
+Qu'on rappelle mon fils. Qu'il vienne se défendre,
 Qu'il vienne me parler, je suis prêt de l'entendre.
 Ne précipite point tes funestes bienfaits,
 Neptune. J'aime mieux n'être exaucé jamais.
 J'ai peut-être trop cru des témoins peu fidèles.
 Et j'ai trop tôt vers toi levé mes mains cruelles.
-Ah ! de quel désespoir mes voeux seraient suivis !
+Ah ! Se quel désespoir mes voeux seraient suivis !
 
-**** *book_ *id_V06 *act_V *date_1677 *creator_racine
+**** *book_ *id_V06 *act_V *date_1677
 
 -*who_thesee
 Théramène est-ce toi ? Qu'as-tu fait de mon fils ?
@@ -2054,8 +2054,8 @@ Dieux !
 Et j'ose dire encor, Seigneur, le moins coupable.
 
 -*who_thesee
-Mon fils n'est plus ? Hé quoi ! quand je lui tends les bras,
-Les dieux impatients ont hâté son trépas ?
+Mon fils n'est plus ! Hé quoi ? Quand je lui tends les bras,
+Les Dieux impatients ont hâté son trépas ?
 Quel coup me l'a ravi ? Quelle foudre soudaine ?
 
 -*who_theramene
@@ -2063,13 +2063,13 @@ Quel coup me l'a ravi ? Quelle foudre soudaine ?
 Il était sur son char. Ses gardes affligés
 Imitaient son silence, autour de lui rangés.
 Il suivait tout pensif le chemin de Mycènes.
-Sa main sur ses chevaux laissait flotter les rênes.
+Sa main sur les chevaux laissait flotter les rênes.
 Ses superbes coursiers, qu'on voyait autrefois
 Pleins d'une ardeur si noble obéir à sa voix,
 L'oeil morne maintenant et la tête baissée
 Semblaient se conformer à sa triste pensée.
 Un effroyable cri sorti du fond des flots
-Des airs en ce moment a troublé le repos ;
+Des airs en ce moment a troublé le repos.
 Et du sein de la terre une voix formidable
 Répond en gémissant à ce cri redoutable.
 Jusqu'au fond de nos coeurs notre sang s'est glacé.
@@ -2083,7 +2083,7 @@ Tout son corps est couvert d'écailles jaunissantes.
 Indomptable taureau, dragon impétueux,
 Sa croupe se recourbe en replis tortueux.
 Ses longs mugissements font trembler le rivage.
-Le ciel avec horreur voit ce monstre sauvage,
+Le ciel avec horreur voit ce monstre sauvage.
 La terre s'en émeut, l'air en est infecté,
 Le flot, qui l'apporta, recule épouvanté.
 Tout fuit, et sans s'armer d'un courage inutile
@@ -2097,12 +2097,12 @@ Vient aux pieds des chevaux tomber en mugissant,
 Se roule, et leur présente une gueule enflammée,
 Qui les couvre de feu, de sang, et de fumée.
 La frayeur les emporte, et sourds à cette fois,
-Ils ne connaissent plus ni le frein ni la voix.
+Ils ne connaissent plus ni le frein, ni la voix.
 En efforts impuissants leur maître se consume.
 Ils rougissent le mors d'une sanglante écume.
 On dit qu'on a vu même en ce désordre affreux
 Un dieu, qui d'aiguillons pressait leur flanc poudreux.
-À travers des rochers la peur les précipite.
+À travers les rochers la peur les précipite.
 L'essieu crie, et se rompt. L'intrépide Hippolyte
 Voit voler en éclats tout son char fracassé.
 Dans les rênes lui-même il tombe embarrassé.
@@ -2130,12 +2130,12 @@ Pour apaiser mon sang, et mon ombre plaintive,
 Dis-lui, qu'avec douceur il traite sa captive,
 Qu'il lui rende... » À ce mot ce héros expiré
 N'a laissé dans mes bras qu'un corps défiguré,
-Triste objet, où des dieux triomphe la colère,
+Triste objet où des Dieux triomphe la colère,
 Et que méconnaîtrait l'oeil même de son père.
 
 -*who_thesee
 Ô mon fils ! Cher espoir que je me suis ravi !
-Inexorables dieux, qui m'avez trop servi !
+Inexorables Dieux, qui m'avez trop servi !
 À quels mortels regrets ma vie est réservée !
 
 -*who_theramene
@@ -2149,7 +2149,7 @@ Elle veut quelque temps douter de son malheur,
 Et ne connaissant plus ce héros qu'elle adore,
 Elle voit Hippolyte, et le demande encore.
 Mais trop sûre à la fin qu'il est devant ses yeux,
-Par un triste regard elle accuse les dieux,
+Par un triste regard elle accuse les Dieux,
 Et froide, gémissante, et presque inanimée,
 Aux pieds de son amant elle tombe pâmée.
 Ismène est auprès d'elle. Ismène toute en pleurs
@@ -2160,7 +2160,7 @@ Et m'acquitter, Seigneur, du malheureux emploi,
 Dont son coeur expirant s'est reposé sur moi.
 Mais j'aperçois venir sa mortelle ennemie.
 
-**** *book_ *id_V07 *act_V *date_1677 *creator_racine
+**** *book_ *id_V07 *act_V *date_1677
 
 -*who_thesee
 Hé bien vous triomphez, et mon fils est sans vie.
@@ -2177,18 +2177,18 @@ Peut-être ne feraient qu'accroître mon malheur.
 Laissez-moi loin de vous, et loin de ce rivage
 De mon fils déchiré fuir la sanglante image.
 Confus, persécuté d'un mortel souvenir,
-De l'univers entier je voudrais me bannir.
+De l'Univers entier je voudrais me bannir.
 Tout semble s'élever contre mon injustice.
 L'éclat de mon nom même augmente mon supplice.
 Moins connu des mortels je me cacherais mieux.
-Je hais jusques au soin dont m'honorent les dieux.
+Je hais jusques au soin dont m'honorent les Dieux.
 Et je m'en vais pleurer leurs faveurs meurtrières,
 Sans plus les fatiguer d'inutiles prières.
 Quoi qu'ils fissent pour moi, leur funeste bonté
 Ne me saurait payer de ce qu'ils m'ont ôté.
 
 -*who_phedre
-Non, Thésée, il faut rompre un injuste silence :
+Non, Thésée, il faut rompre un injuste silence.
 Il faut à votre fils rendre son innocence.
 Il n'était point coupable.
 
@@ -2205,7 +2205,7 @@ Le ciel mit dans mon sein une flamme funeste.
 La détestable Oenone a conduit tout le reste.
 Elle a craint qu'Hippolyte instruit de ma fureur
 Ne découvrît un feu qui lui faisait horreur.
-La perfide abusant de ma faiblesse extrême.
+La perfide abusant de ma faiblesse extrême
 S'est hâtée à vos yeux de l'accuser lui-même.
 Elle s'en est punie, et fuyant mon courroux
 A cherché dans les flots un supplice trop doux.
@@ -2216,7 +2216,7 @@ Par un chemin plus lent descendre chez les morts.
 J'ai pris, j'ai fait couler dans mes brûlantes veines
 Un poison que Médée apporta dans Athènes.
 Déjà jusqu'à mon coeur le venin parvenu
-Dans ce coeur expirant jette un froid inconnu ;
+Dans ce coeur expirant jette un froid inconnu.
 Déjà je ne vois plus qu'à travers un nuage
 Et le ciel, et l'époux que ma présence outrage ;
 Et la mort à mes yeux dérobant la clarté
@@ -2227,7 +2227,7 @@ Elle expire, Seigneur.
 
 -*who_thesee
       D'une action si noire
-Que ne peut avec elle expirer la mémoire ?
+Que ne peut avec elle expirer la mémoire !
 Allons de mon erreur, hélas ! trop éclaircis
 Mêler nos pleurs au sang de mon malheureux fils.
 Allons de ce cher fils embrasser ce qui reste,

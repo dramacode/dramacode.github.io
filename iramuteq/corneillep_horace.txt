@@ -12,7 +12,7 @@ Ne saurait sans désordre exercer sa vertu.
 Quoique le mien s'étonne à ces rudes alarmes,
 Le trouble de mon coeur ne peut rien sur mes larmes,
 Et parmi les soupirs qu'il pousse vers les cieux,
-Ma constance du moins règne encore sur mes yeux.
+Ma constance du moins règne encor sur mes yeux.
 Quand on arrête là les déplaisirs d'une âme,
 Si l'on fait moins qu'un homme, on fait plus qu'une femme :
 Commander à ses pleurs en cette extrémité,
@@ -24,7 +24,7 @@ Qui du moindre péril se fait une infortune ;
 Mais de cette faiblesse un grand coeur est honteux,
 Il ose espérer tout dans un succès douteux.
 Les deux camps sont rangés au pied de nos murailles,
-Mais Rome ignore encore comme on perd des batailles.
+Mais Rome ignore encor comme on perd des batailles.
 Loin de trembler pour elle, il lui faut applaudir,
 Puisqu'elle va combattre, elle va s'agrandir.
 Bannissez, bannissez une frayeur si vaine,
@@ -103,7 +103,7 @@ Je crains pour l'une et l'autre en ce dernier effort,
 Et serai du parti qu'affligera le sort.
 Égale à tous les deux jusques à la victoire,
 Je prendrai part aux maux, sans en prendre à la gloire ;
-Et garde, en attendant ses funeses rigueurs,
+Et garde, en attendant ses funestes rigueurs,
 Mes larmes aux vaincus, et ma haine aux vainqueurs.
 
 -*who_julie
@@ -197,7 +197,7 @@ D'un serment solennel qui peut nous dégager ?
 
 -*who_julie
 Vous déguisez en vain une chose trop claire,
-Je vous vis encore hier entretenir Valère,
+Je vous vis encor hier entretenir Valère,
 Et l'accueil gracieux qu'il recevait de vous
 Lui permet de nourrir un espoir assez doux.
 
@@ -209,7 +209,7 @@ Mais pour sortir d'erreur sachez-en le sujet,
 Je garde à Curiace une amitié trop pure
 Pour souffrir plus longtemps qu'on m'estime parjure.
 Quelques cinq ou six mois après que de sa soeur
-L'hymenée est rendu mon frère possesseur
+L'hyménée eût rendu mon frère possesseur
 (Vous le savez Julie) il obtint de mon père
 Que de ses chastes feux je serais le salaire.
 Ce jour nous fut propice et funeste à la fois,
@@ -293,7 +293,7 @@ Du poids honteux des fers ou du sang des Romains.
 J'ai cru que vous aimiez assez Rome et la gloire
 Pour mépriser ma chaîne et haïr ma victoire,
 Et comme également en cette extrémité
-Je craignais la victoire et la captivité...
+Je craignais la victoire et la captivité…
 
 -*who_camille
 Curiace, il suffit, je devine le reste,
@@ -319,12 +319,12 @@ Qui témoignait assez une entière allégresse,
 Mais il ne m'a point vu, par une trahison,
 Indigne de l'honneur d'entrer dans sa maison.
 Je n'abandonne point l'intérêt de ma ville,
-J'aime encore mon honneur en adorant Camille ;
+J'aime encor mon honneur en adorant Camille ;
 Tant qu'a duré la guerre, on m'a vu constamment
 Aussi bon citoyen que véritable amant.
 D'Albe avec mon amour j'accordais la querelle,
 Je soupirais pour vous en combattant pour elle ;
-Et s'il fallait encore que l'on en vînt aux coups
+Et s'il fallait encor que l'on en vînt aux coups
 Je combattrais pour elle en soupirant pour vous.
 Oui, malgré les désirs de mon âme charmée
 Si la guerre durait je serais dans l'armée :
@@ -415,7 +415,7 @@ Qui doit mettre le comble à mon contentement.
 
 -*who_camille
 Je vais suivre vos pas, mais pour revoir mes frères,
-Et savoir d'eux encore la fin de nos misères.
+Et savoir d'eux encor la fin de nos misères.
 
 -*who_julie
 Allez, et cependant au pied de nos autels
@@ -552,7 +552,7 @@ Le sort qui de l'honneur nous ouvre la barrière
 Offre à notre constance une illustre matière,
 Il épuise sa force à former un malheur
 Pour mieux se mesurer avec notre valeur,
-Comme il ne nous prend pas pour des âmes peu communes,
+Comme il ne nous prend pas pour des âmes communes,
 Hors de l'ordre commun il nous fait des fortunes.
 Combattre un ennemi pour le salut de tous,
 Et contre un inconnu s'exposer seul aux coups,
@@ -592,7 +592,7 @@ Je vois que votre honneur demande tout mon sang,
 Que tout le mien consiste à vous percer le flanc,
 Près d'épouser la soeur qu'il faut tuer le frère,
 Et que pour mon pays j'ai le sort si contraire ;
-Encore qu'à mon devoir je coure sans terreur,
+encor qu'à mon devoir je coure sans terreur,
 Mon coeur s'en effarouche, et j'en frémis d'horreur ;
 J'ai pitié de moi-même, et jette un oeil d'envie
 Sur ceux dont notre guerre a consumé la vie,
@@ -601,7 +601,7 @@ Ce triste et fier honneur m'émeut sans m'ébranler,
 J'aime ce qu'il me donne, et je plains ce qu'il m'ôte,
 Et si Rome demande une vertu plus haute
 Je rends grâces aux dieux de n'être pas Romain,
-Pour conserver encore quelque chose d'humain.
+Pour conserver encor quelque chose d'humain.
 
 -*who_horace
 Si vous n'êtes romain, soyez digne de l'être,
@@ -638,7 +638,7 @@ En toute liberté goûtez un bien si doux,
 Voici venir ma soeur pour se plaindre avec vous.
 Je vais revoir la vôtre, et résoudre son âme
 À se ressouvenir qu'elle est toujours ma femme,
-À vous aimer encore, si je meurs par vos mains,
+À vous aimer encor, si je meurs par vos mains,
 Et prendre en son malheur des sentiments romains
 
 **** *book_ *id_II04 *act_II *date_1640 *creator_corneille
@@ -722,7 +722,7 @@ Le choix d'Albe et de Rome ôte toute douceur
 Aux noms jadis si doux de beau-frère et de soeur.
 
 -*who_camille
-Viendras-tu point encore me présenter sa tête
+Viendras-tu point encor me présenter sa tête
 Et demander ma main pour prix de ta conquête !
 
 -*who_curiace
@@ -756,7 +756,7 @@ Et pour le mériter, je n'ai plus d'yeux pour vous,
 Vengez-vous d'un ingrat, punissez un volage.
 Vous ne vous montrez point sensible à cet outrage ?
 Je n'ai plus d'yeux pour vous, vous en avez pour moi !
-En faut-il plus encore ? Je renonce à ma foi.
+En faut-il plus encor ? Je renonce à ma foi.
 Rigoureuse vertu dont je suis la victime
 Ne peux-tu résister sans le secours d'un crime ?
 
@@ -820,7 +820,7 @@ Vous d'Albe, vous de Rome, et moi de toutes deux.
 Quoi ? Me réservez-vous à voir une victoire
 Où pour haut appareil d'une pompeuse gloire
 Je verrai les lauriers d'un frère ou d'un mari
-Fumer encore d'un sang que j'aurai tant chéri :
+Fumer encor d'un sang que j'aurai tant chéri :
 Pourrai-je entre vous deux régler alors mon âme ?
 Satisfaire aux devoirs et de soeur et de femme ?
 Embrasser le vainqueur en pleurant le vaincu ?
@@ -851,7 +851,7 @@ Ces héros qu'Albe et Rome ont pris pour défenseurs ?
 -*who_horace
 Que t'ai-je fait, Sabine, et quelle est mon offense
 Qui t'oblige à chercher une telle vengeance ?
-Que t'a fait mon honneur, et pourquoi viens-tu
+Que t'a fait mon honneur, femme, et pourquoi viens-tu
 Avecque tout ta force attaquer ma vertu ?
 Du moins contente-toi de l'avoir étonnée
 Et me laisse achever cette grande journée.
@@ -868,7 +868,7 @@ Va, cesse de me craindre : on vient à ton secours.
 
 -*who_vieilhorace
 Qu'est-ce-ci, mes enfants ? Écoutez-vous vos flammes,
-Et perdez-vous encore le temps avec des femmes ?
+Et perdez-vous encor le temps avec des femmes ?
 Prêts à verser du sang, regardez-vous des pleurs ?
 Fuyez, et laissez-les déplorer leurs malheurs.
 Leurs plaintes ont pour vous trop d'art et de tendresse.
@@ -903,7 +903,7 @@ J'en aurai soin, allez, vos frères vous attendent,
 Ne pensez qu'aux devoirs que vos pays demandent.
 
 -*who_curiace
-Quel adieu vous dirai-je, et par quels compliments...
+Quel adieu vous dirai-je, et par quels compliments…
 
 -*who_vieilhorace
 Ah ! N'attendrissez point ici mes sentiments,
@@ -1044,7 +1044,7 @@ Lorsqu'en un sacrifice ils nous l'auront fait voir ? »
 Il se tait, et ces mots semblent être des charmes,
 Même aux six combattants ils arrachent les armes,
 Et ce désir d'honneur qui leur ferme les yeux
-Tout aveugle qu'il est respecte encore les Dieux.
+Tout aveugle qu'il est respecte encor les Dieux.
 Leur plus bouillante ardeur cède à l'avis de Tulle,
 Et soit par déférence, ou par un prompt scrupule
 Dans l'une et l'autre armée on s'en fait une loi,
@@ -1336,7 +1336,7 @@ Et ne nous rendez point tout à fait malheureuses.
 -*who_vieilhorace
 Sabine, votre coeur se console aisément,
 Nos malheurs jusqu'ici vous touchent faiblement.
-Vous n'avez point encore de part à nos misères,
+Vous n'avez point encor de part à nos misères,
 Le Ciel vous a sauvé votre époux et vos frères,
 Si nous sommes sujets c'est de votre pays,
 Vos frères sont vainqueurs quand nous sommes trahis.
@@ -1361,9 +1361,9 @@ Et toujours redouter la main de nos parents ?
 Ne me parlez jamais en faveur d'un infâme ;
 Qu'il me fuie à l'égal des frères de sa femme,
 Pour conserver un sang qu'il tient si précieux
-Il n'a rien fait encore s'il n'évite mes yeux.
+Il n'a rien fait encor s'il n'évite mes yeux.
 Sabine y peut mettre ordre, ou derechef j'atteste
-Le souverain pouvoir de la troupe céleste...
+Le souverain pouvoir de la troupe céleste…
 
 -*who_camille
 Ah ! Mon père, prenez un plus doux sentiment,
@@ -1384,7 +1384,7 @@ Taisez-vous, et sachons ce que nous veut Valère.
 
 -*who_valere
 Envoyé par le roi pour consoler un père,
-Et pour lui témoigner...
+Et pour lui témoigner…
 
 -*who_vieilhorace
       N'en prenez aucun soin,
@@ -1433,7 +1433,7 @@ Lorsqu'Albe sous ses lois range notre destin ?
 
 -*who_valere
 Que parlez-vous ici d'Albe, et de sa victoire ?
-Ignorez-vous encore la moitié de l'histoire ?
+Ignorez-vous encor la moitié de l'histoire ?
 
 -*who_vieilhorace
 Le combat par sa fuit n'est-il pas terminé ?
@@ -1512,14 +1512,14 @@ Aujourd'hui seulement on s'acquitte vers eux
 Par des chants de victoire et par de simples voeux ;
 C'est où le roi le mène, et tandis il m'envoie
 Faire office vers vous de douleur et de joie.
-Mais cet office encore n'est pas assez pour lui,
+Mais cet office encor n'est pas assez pour lui,
 Il y viendra lui-même et peut-être aujourd'hui,
 Cette belle action si puissamment le touche,
-Qu'il vous veut rendre grêce, et de sa propre bouche,
+Qu'il vous veut rendre grâce, et de sa propre bouche,
 Et combien vous montrez d'ardeur pour son service.
 
 -*who_vieilhorace
-Je vous devrai beaucoup un si bon office.
+Je vous devrai beaucoup pour un si bon office.
 
 **** *book_ *id_IV03 *act_IV *date_1640 *creator_corneille
 
@@ -1577,7 +1577,7 @@ Curiace en mon sang n'a point trempé ses mains.
 Ô dieux ! Sentais-je alors des douleurs trop légères
 Pour le malheur de Rome et la mort de deux frères,
 Et me flattais-je trop quand je croyais pouvoir
-L'aimer encore sans crime et nourrir quelque espoir ?
+L'aimer encor sans crime et nourrir quelque espoir ?
 Sa mort m'en punit bien, et la façon cruelle
 Dont mon âme éperdue en reçoit la nouvelle :
 Son rival me l'apprend, et faisant à mes yeux
@@ -1662,7 +1662,7 @@ Tu ne revois en moi qu'une amante offensée,
 Qui comme une furie attachée à tes pas,
 Te veut incessamment reprocher son trépas.
 Tigre altéré de sang, qui me défends les larmes,
-Qui veux que dans sa mort je trouve encore des charmes,
+Qui veux que dans sa mort je trouve encor des charmes,
 Et que jusques au ciel élevant tes exploits,
 Moi-même je le tue une seconde fois !
 Puissent tant de malheurs accompagner ta vie,
@@ -1684,7 +1684,7 @@ Rome, à qui vient ton bras d'immoler mon amant !
 Rome qui t'a vu naître, et que ton coeur adore !
 Rome enfin que je hais parce qu'elle t'honore !
 Puissent tous ses voisins ensemble conjurés
-Saper ses fondements encore mal assurés !
+Saper ses fondements encor mal assurés !
 Et si ce n'est assez de toute l'Italie,
 Que l'orient contre elle à l'occident s'allie ;
 Que cent peuples unis des bouts de l'univers
@@ -1856,14 +1856,14 @@ Il épargne ses fils bien souvent pour soi-même ;
 Sa vieillesse sur eux aime à se soutenir,
 Et ne les punit point, de peur de se punir.
 Je te vois d'un autre oeil que tu ne te regardes ;
-Je sais... Mais le roi vient, je vois entrer ses gardes.
+Je sais… Mais le roi vient, je vois entrer ses gardes.
 
 **** *book_ *id_V02 *act_V *date_1640 *creator_corneille
 
 -*who_vieilhorace
 Ah ! Sire, un tel honneur a trop d'excès pour moi ;
 Ce n'est point en ce lieu que je dois voir mon roi :
-Permettez qu'à genoux...
+Permettez qu'à genoux…
 
 -*who_tulle
       Non, levez-vous, mon père :
@@ -1904,7 +1904,7 @@ Et que l'état demande aux princes légitimes
 Des prix pour les vertus, des peines pour les crimes,
 Souffrez qu'un bon sujet vous fasse souvenir
 Que vous plaignez beaucoup ce qu'il vous faut punir ;
-Souffrez...
+Souffrez…
 
 -*who_vieilhorace
       Quoi ? Qu'on envoie un vainqueur au supplice ?
@@ -1922,7 +1922,7 @@ Que tous les gens de bien vous parlent par ma voix.
 Non que nos coeurs jaloux de ses honneurs s'irritent ;
 S'il en reçoit beaucoup, ses hauts faits le méritent ;
 Ajoutez-y plutôt que d'en diminuer :
-Nous sommes tous encore prêts d'y contribuer ;
+Nous sommes tous encor prêts d'y contribuer ;
 Mais puisque d'un tel crime il s'est montré capable,
 Qu'il triomphe en vainqueur, et périsse en coupable.
 Arrêtez sa fureur, et sauvez de ses mains,
@@ -2022,7 +2022,7 @@ Et que tout mon courage, après de si grands coups,
 Parvienne à des succès qui n'aillent au-dessous ;
 Si bien que pour laisser une illustre mémoire,
 La mort seule aujourd'hui peut conserver ma gloire :
-Encore la fallait-il sitôt que j'eus vaincu,
+encor la fallait-il sitôt que j'eus vaincu,
 Puisque pour mon honneur j'ai déjà trop vécu.
 Un homme tel que moi voit sa gloire ternie,
 Quand il tombe en péril de quelque ignominie ;
@@ -2112,7 +2112,7 @@ J'aime trop l'honneur, sire, et ne suis point de rang
 À souffrir ni d'affront ni de crime en mon sang.
 C'est dont je ne veux point de témoin que Valère :
 Il a vu quel accueil lui gardait ma colère,
-Lorsqu'ignorant encore la moitié du combat,
+Lorsqu'ignorant encor la moitié du combat,
 Je croyais que sa fuite avait trahi l'état.
 Qui le fait se charger des soins de ma famille ?
 Qui le fait, malgré moi, vouloir venger ma fille ?
@@ -2150,8 +2150,8 @@ Albe ne pourra pas souffrir un tel spectacle,
 Et Rome par ses pleurs y mettra trop d'obstacle.
 Vous les préviendrez, sire ; et par un juste arrêt
 Vous saurez embrasser bien mieux son intérêt.
-Ce qu'il a fait pour elle, il peut encore le faire :
-Il peut la garantir encore d'un sort contraire.
+Ce qu'il a fait pour elle, il peut encor le faire :
+Il peut la garantir encor d'un sort contraire.
 Sire, ne donnez rien à mes débiles ans :
 Rome aujourd'hui m'a vu père de quatre enfants ;
 Trois en ce même jour sont morts pour sa querelle ;
@@ -2173,18 +2173,18 @@ Ton nom demeurera grand, illustre, fameux,
 Bien que l'occasion, moins haute ou moins brillante,
 D'un vulgaire ignorant trompe l'injuste attente.
 Ne hais donc plus la vie, et du moins vis pour moi,
-Et pour servir encore ton pays et ton roi.
+Et pour servir encor ton pays et ton roi.
 Sire, j'en ai trop dit ; mais l'affaire vous touche ;
 Et Rome toute entière a parlé par ma bouche.
 
 -*who_valere
-Sire, permettez-moi...
+Sire, permettez-moi…
 
 -*who_tulle
       Valère, c'est assez :
 Vos discours par les leurs ne sont pas effacés ;
 J'en garde en mon esprit les forces plus pressantes,
-Et toutes vos raisons me sont encore présentes.
+Et toutes vos raisons me sont encor présentes.
 Cette énorme action faite presque à nos yeux
 Outrage la nature, et blesse jusqu'aux dieux.
 Un premier mouvement qui produit un tel crime

@@ -2,7 +2,7 @@
 identifier: boisrobert_amantridicule  
 creator: Boisrobert, François Le Métel de  
 date: 1655  
-title: L'Amant ridicule. , comédie représentée dans le ballet du roi  
+title: L’Amant ridicule. , comédie représentée dans le ballet du roi  
 ---
 
 
@@ -15,14 +15,14 @@ M. DC. LV. Avec Privilège du Roi.
 
 
 À PARIS, Chez Guillaume de Luynes, au Palais, sous la montée des Aides.
-Achevé d'imprimer pour le première fois le 15 avril 1655Représentée pour la première fois en 4 février 1653 au Château du Louvre.
+Achevé d'imprimer pour le première fois le 15 avril 1655Représentée pour la première fois en 4 février 1653 au Château du Louvre. [1]
 
 
 # ACTEURS.
  – LÉANDRE, amoureux d'Isabelle.
  – ALONCE, cousin de Léandre.
  – ISABELLE, amoureuse de Léandre.
- – LAURE, suivante d'Isabelle. [1]
+ – LAURE, suivante d'Isabelle.
 
 
 # ACTE I.

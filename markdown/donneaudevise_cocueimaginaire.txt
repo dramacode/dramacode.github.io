@@ -2,7 +2,7 @@
 identifier: donneaudevise_cocueimaginaire  
 creator: Donneau de Visé, Jean  
 date: 1660  
-title: Les Amours d'Alcippe et de Céphise. , la cocue imaginaire, comédie  
+title: Les Amours d’Alcippe et de Céphise. , la cocue imaginaire, comédie  
 ---
 
 
@@ -246,7 +246,7 @@ Et je vais s'il se peut la prendre sur le fait.
 Hélas ! mon pauvre maître, ah ! bon Dieu, c'en est fait,  
 Ciel !  
 
-    PAQUETTE, METTANT LA MAIN SUR LA BOUCHE D'ALCIPPE.
+    PAQUETTE, METTANT LA MAIN SUR LA BOUCHE D’ALCIPPE.
         Il respire encore, et je sens son haleine.  
 
     ROGUESPINE.
@@ -305,7 +305,7 @@ Certes cette beauté n'a rien qui ne m'attire,
 Déjà sans y penser je suis sous son empire.  
 Ah ! si ma femme avait des charmes aussi doux...  
 
-    PAQUETTE, LUI ARRACHANT LE PORTRAIT QU'IL TIENT.
+    PAQUETTE, LUI ARRACHANT LE PORTRAIT QU’IL TIENT.
 Nous t'y surprenons traître, en parlant mal de nous,  
 Pouvais-tu, dis-le moi, rencontrer une femme,  
 Qui dût plus justement régner dessus ton âme ;  
@@ -466,7 +466,7 @@ Regardant encor une fois par dessus l'épaule de Paquette.
 
 C'est mon portrait sans doute et ma crainte redouble.  
 
-    PAQUETTE, VOYANT QU'ELLE CONTINUE DE REGARDER LE PORTRAIT QU'ELLE TIENT.
+    PAQUETTE, VOYANT QU’ELLE CONTINUE DE REGARDER LE PORTRAIT QU’ELLE TIENT.
 Vous êtes curieuse ?  
 
     CÉPHISE.
@@ -746,7 +746,7 @@ Et que de mon mari d'autres feraient l'office,
 Et moi je ne veux pas faire une lâcheté,  
 Et je l'aime malgré son infidélité.  
 
-    ALCIPPE, SANS L'ÉCOUTER.
+    ALCIPPE, SANS L’ÉCOUTER.
 Oui mon coeur y consent, n'espère pas infâme,  
 Qu'aucune ardeur pour toi jamais rentre en mon âme,  
 Que j'adore jamais tes coupables appas,  
@@ -986,7 +986,7 @@ Prends courage mon coeur, sois un peu généreux,
 Et lave dans son sang ses impudiques feux :  
 Peut-être qu'il pourra seconder notre fuite.  
 
-    CÉPHISE, FAISANT DEUX OU TROIS PAS SANS DESSEIN, FAIT RETOURNER PAQUETTE QUI S'APPROCHE POUR LA TUER.
+    CÉPHISE, FAISANT DEUX OU TROIS PAS SANS DESSEIN, FAIT RETOURNER PAQUETTE QUI S’APPROCHE POUR LA TUER.
 Puisque avecque raison un tel discours t'irrite,  
 Bien loin de t'accuser de ton lâche forfait,  
 Je dois louer un choix si rare et si parfait.  

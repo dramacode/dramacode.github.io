@@ -82,7 +82,7 @@ L'heureux en ma faveur saura lui résister,
 Tant que de nos vainqueurs terrassés l'un par l'autre
 Les trônes ébranlés tombent aux pieds du nôtre.
 Quant à l'amour, apprends que mon plus doux souci
-N'est... Mais Ardaric entre, et Valamir aussi.
+N'est… Mais Ardaric entre, et Valamir aussi.
 
 **** *book_ *id_I02 *act_I *date_1667 *creator_corneille
 
@@ -312,19 +312,19 @@ Chacun de ce grand choix vous fait voir l'importance ;
 Mais nous ne sommes point jaloux de nos avis.
 Croyez-le, croyez-moi, nous en serons ravis ;
 Ils sont les purs effets d'une amitié fidèle,
-De qui le zèle ardent...
+De qui le zèle ardent…
 
 -*who_attila
       Unissez donc ce zèle,
 Et ne me forcez point à voir dans vos débats
-Plus que je ne veux voir, et... Je n'achève pas.
+Plus que je ne veux voir, et… Je n'achève pas.
 Dites-moi seulement ce qui vous intéresse
 À protéger ici l'une et l'autre princesse.
 Leurs frères vous ont-ils, à force de présents,
 Chacun de son côté rendus leurs partisans ?
 Est-ce amitié pour l'une, est-ce haine pour l'autre,
 Qui forme auprès de moi son avis et le vôtre ?
-Par quel dessein de plaire ou de vous agrandir...
+Par quel dessein de plaire ou de vous agrandir…
 Mais derechef je veux ne rien approfondir,
 Et croire qu'où je suis on n'a pas tant d'audace.
 Vous, si vous vous aimez, faites-vous une grâce :
@@ -358,7 +358,7 @@ D'épouser Ildione, afin que par ce choix
 Il laisse à mon hymen Honorie et ses droits.
 Ne vous opposez plus aux grandeurs d'Ildione,
 Souffrez en ma faveur qu'elle monte à ce trône ;
-Et si jamais pour vous je puis en faire autant...
+Et si jamais pour vous je puis en faire autant…
 
 -*who_ardaric
 Vous le pouvez, seigneur, et dès ce même instant.
@@ -496,7 +496,7 @@ Retournerai-je à Rome, où j'ai laissé mon frère
 Enflammé contre moi de haine et de colère,
 Et qui, sans la terreur d'un nom si redouté,
 Jamais n'eût mis de borne à ma captivité ?
-Moi qui prétends pour dot la moitié de l'empire...
+Moi qui prétends pour dot la moitié de l'empire…
 
 -*who_flavie
 Ce serait d'un malheur vous jeter dans un pire.
@@ -541,7 +541,7 @@ C'est un peu plus qu'à l'autre.
       Et peut-être bien moins.
 
 -*who_flavie
-Quoi ? Ce qu'à l'éviter il apporte de soins...
+Quoi ? Ce qu'à l'éviter il apporte de soins…
 
 -*who_honorie
 Peut-être il ne la fuit que de peur de se rendre ;
@@ -556,11 +556,11 @@ Mais laquelle des deux voulez-vous qu'il choisisse ?
 Mon âme des deux parts attend même supplice :
 Ainsi que mon amour, ma gloire a ses appas ;
 Je meurs s'il me choisit, ou ne me choisit pas ;
-Et... Mais Valamir entre, et sa vue en mon âme
+Et… Mais Valamir entre, et sa vue en mon âme
 Fait trembler mon orgueil, enorgueillit ma flamme.
 Flavie, il peut sur moi bien plus que je ne veux :
 Pour peu que je l'écoute, il aura tous mes voeux.
-Dis-lui... Mais il vaut mieux faire effort sur moi-même.
+Dis-lui… Mais il vaut mieux faire effort sur moi-même.
 
 **** *book_ *id_II02 *act_II *date_1667 *creator_corneille
 
@@ -625,7 +625,7 @@ Qu'à tous les rois ce coeur voudrait vous préférer.
 
 -*who_valamir
 Quelle hauteur, Flavie, et que faut-il qu'espère
-Un roi dont tous les voeux...
+Un roi dont tous les voeux…
 
 -*who_flavie
       Seigneur, laissez-la faire :
@@ -744,7 +744,7 @@ Tout ce qu'a d'éclatant la majesté du père,
 Tout ce qu'ont de charmant les grâces de la mère,
 Tout brille sur ce front, dont l'aimable fierté
 Porte empreints et ce charme et cette majesté.
-L'amour et le respect qu'un si jeune mérite...
+L'amour et le respect qu'un si jeune mérite…
 Mais la princesse vient, seigneur, et je vous quitte.
 
 **** *book_ *id_II06 *act_II *date_1667 *creator_corneille
@@ -796,7 +796,7 @@ Et que je souffrirai s'il ne s'y résout pas !
 -*who_ardaric
 Qu'il serait glorieux de le faire vous-même,
 D'en épargner la honte à votre diadème !
-J'entends celui des Francs, qu'au lieu de maintenir...
+J'entends celui des Francs, qu'au lieu de maintenir…
 
 -*who_ildione
 C'est à mon frère alors de venger et punir ;
@@ -810,7 +810,7 @@ Puisse-t-il se résoudre à me manquer de foi !
 C'est tout ce que je puis et pour vous et pour moi.
 S'il vous faut des souhaits, je n'en suis point avare ;
 S'il vous faut des regrets, tout mon coeur s'y prépare,
-Et veut bien...
+Et veut bien…
 
 -*who_ardaric
       Que feront d'inutiles souhaits
@@ -860,7 +860,7 @@ Mais vous épouserez Attila.
 
 -*who_ildione
       J'en soupire,
-Et mon coeur...
+Et mon coeur…
 
 -*who_ardaric
       Que fait-il, ce coeur, que m'abuser,
@@ -925,7 +925,7 @@ Octar, as-tu pris soin de redoubler ma garde ?
 
 -*who_octar
 Oui, seigneur, et déjà chacun s'entre-regarde,
-S'entre-demande à quoi ces ordres que j'ai mis...
+S'entre-demande à quoi ces ordres que j'ai mis…
 
 -*who_attila
 Quand on a deux rivaux, manque-t-on d'ennemis ?
@@ -946,7 +946,7 @@ Qu'en disent nos deux rois ?
 -*who_octar
       Leurs âmes, alarmées
 De voir par ce renfort leurs tentes enfermées,
-affectent de montrer une tranquillité...
+affectent de montrer une tranquillité…
 
 -*who_attila
 De leur tente à la mienne ils ont la liberté.
@@ -1025,7 +1025,7 @@ Ardaric, Valamir, ne m'importe des deux.
 Mais voir en d'autres bras l'objet de tous mes voeux !
 Vouloir qu'à mes yeux même un autre le possède !
 Ah ! Le mal est encor plus doux que le remède.
-Dis-lui, fais-lui savoir...
+Dis-lui, fais-lui savoir…
 
 -*who_octar
       Quoi, seigneur ?
@@ -1143,7 +1143,7 @@ Faites-moi l'accepter, et pour reconnaissance
 Quels climats voulez-vous sous votre obéissance ?
 Si la Gaule vous plaît, vous la partagerez :
 J'en offre la conquête à vos yeux adorés ;
-Et mon amour...
+Et mon amour…
 
 -*who_ildione
       À quoi que cet amour s'apprête,
@@ -1166,7 +1166,7 @@ Souvenez-vous enfin que je suis Attila,
 Et que c'est dire tout que d'aller jusque-là.
 
 -*who_ildione
-Il faut donc me résoudre ? Eh bien ! J'ose... De grâce,
+Il faut donc me résoudre ? Eh bien ! J'ose… De grâce,
 Dispensez-moi du reste, il y faut trop d'audace.
 Je tremble comme un autre à l'aspect d'Attila,
 Et ne me puis, seigneur, oublier jusque-là.
@@ -1288,7 +1288,7 @@ Et suis plus glorieuse encor qu'elle n'est belle.
 -*who_attila
 J'adore cet orgueil, il est égal au mien,
 Madame ; et nos fiertés se ressemblent si bien,
-Que si la ressemblance est par où l'on s'entr'aime,
+Que si la ressemblance est par où l'on s'entraime,
 J'ai lieu de vous aimer comme une autre moi-même.
 
 -*who_honorie
@@ -1389,7 +1389,7 @@ Mais bien loin qu'avec gloire on te puisse imiter,
 La vertu des tyrans est même à détester.
 Irais-je à ton exemple assassiner mon frère ?
 Sur tous mes alliés répandre ma colère ?
-Me baigner dans leur sang, et d'un orgueil jaloux... ?
+Me baigner dans leur sang, et d'un orgueil jaloux… ?
 
 -*who_attila
 Si nous nous emportons, j'irai plus loin que vous,
@@ -1405,10 +1405,10 @@ Vous voyez le passé, jugez de l'avenir.
 Je vous laisse y penser. Adieu, madame.
 
 -*who_honorie
-Ah ! Traître !
+      Ah ! Traître !
 
 -*who_attila
-      Je suis encore amant, demain je serai maître.
+Je suis encore amant, demain je serai maître.
 Remenez la princesse, Octar.
 
 -*who_honorie
@@ -1508,7 +1508,7 @@ Cependant que ravie elle assure à son âme
 La douceur d'être toute à l'objet de sa flamme ;
 Car je ne doute point qu'elle n'ait de l'amour.
 Ardaric qui s'attache à la voir chaque jour,
-Les respects qu'il lui rend, et les soins qu'il se donne...
+Les respects qu'il lui rend, et les soins qu'il se donne…
 
 -*who_flavie
 J'ose vous dire plus, Attila l'en soupçonne :
@@ -1516,7 +1516,7 @@ Il est fier et colère ; et s'il sait une fois
 Qu'Ildione en secret l'honore de son choix,
 Qu'Ardaric ait sur elle osé jeter la vue,
 Et briguer cette foi qu'à lui seul il croit due,
-Je crains qu'un tel espoir, au lieu de s'affermir...
+Je crains qu'un tel espoir, au lieu de s'affermir…
 
 -*who_honorie
 Que n'ai-je donc mieux tu que j'aimais Valamir !
@@ -1557,7 +1557,7 @@ Si votre illustre amour pour son premier effet
 Ne venge hautement l'outrage qu'on lui fait.
 Puis-je voir sans rougir qu'à la belle Ildione
 Vous demandiez congé de m'offrir votre trône,
-Que... ?
+Que… ?
 
 -*who_attila
       Toujours Ildione, et jamais Attila !
@@ -1609,7 +1609,7 @@ Quel est-il, cet amant ?
 Qu'elle adore Ardaric, et qu'Ardaric l'adore ?
 
 -*who_attila
-Qu'on m'amène Ardaric. Mais de qui savez-vous...
+Qu'on m'amène Ardaric. Mais de qui savez-vous…
 
 -*who_honorie
 C'est une vision de mes soupçons jaloux ;
@@ -1645,7 +1645,7 @@ Et s'il faut un sujet à qui dédaigne un roi,
 Choisissez dans une heure, ou d'Octar, ou de moi.
 
 -*who_honorie
-D'Octar, ou...
+D'Octar, ou…
 
 -*who_attila
       Les grands coeurs parlent avec franchise,
@@ -1723,7 +1723,7 @@ Dont tous les intérêts aux vôtres soient soumis,
 Et ne le pas choisir parmi vos ennemis.
 D'une fière beauté la haine opiniâtre
 Donne à ce qu'elle hait jusqu'au bout à combattre ;
-Et pour peu que la veuille écouter un époux...
+Et pour peu que la veuille écouter un époux…
 
 -*who_attila
 Il lui faut donc, seigneur, ou Valamir, ou vous.
@@ -1828,7 +1828,7 @@ Votre coeur d'Ardaric agréerait-il la flamme ?
 
 -*who_ildione
 C'est à moi d'obéir, si vous le souhaitez ;
-Mais, seigneur...
+Mais, seigneur…
 
 -*who_attila
       Il y fait quelques difficultés ;
@@ -1908,7 +1908,7 @@ Et quand à notre amour ce triomphe est fatal,
 La gloire qui le suit nous en console mal.
 
 -*who_ardaric
-Vous vengerez ma mort ; et mon âme ravie...
+Vous vengerez ma mort ; et mon âme ravie…
 
 -*who_ildione
 Ah ! Venger une mort n'est pas rendre une vie :
@@ -1932,7 +1932,7 @@ Parlez à Valamir, et voyez avec lui
 S'il n'est aucun remède à ce mortel ennui.
 
 -*who_ardaric
-Madame...
+Madame…
 
 -*who_ildione
       Allez, seigneur : nos maux et le temps pressent,
@@ -2036,7 +2036,7 @@ D'y porter l'un et l'autre une épée au côté.
 Il promet à tous deux de nous la faire rendre,
 Dès qu'il saura de nous ce qu'il en doit attendre,
 Quel est notre dessein, ou pour en mieux parler,
-Dès que nous résoudrons de nous entr'immoler.
+Dès que nous résoudrons de nous entrimmoler.
 Cependant il réduit à l'entière impuissance
 Ce noble désespoir qui punit par avance,
 Et qui se faisant droit avant que de mourir,
@@ -2114,14 +2114,14 @@ Tu pourrais être lâche et cruel jusque-là !
 Encor plus, s'il le faut, mais toujours Attila,
 Toujours l'heureux objet de la haine publique,
 Fidèle au grand dépôt du pouvoir tyrannique,
-Toujours...
+Toujours…
 
 -*who_honorie
       Achève, et dis que tu veux en tout lieu
 Être l'effroi du monde, et le fléau de Dieu.
 Étale insolemment l'épouvantable image
 De ces fleuves de sang où se baignait ta rage.
-Fais voir...
+Fais voir…
 
 -*who_attila
       Que vous perdez de mots injurieux
@@ -2168,7 +2168,7 @@ Tyran, que pour les joindre il faut bientôt partir.
 -*who_attila
 Ce n'est rien ; et pour moi s'il n'est point d'autre foudre,
 J'aurai pour ce départ du temps à m'y résoudre.
-D'autres vous envoyeraient leur frayer le chemin ;
+D'autres vous enverraient leur frayer le chemin ;
 Mais j'en laisserai faire à votre grand destin,
 Et trouverai pour vous quelques autres vengeances,
 Quand l'humeur me prendra de punir tant d'offenses.
@@ -2215,7 +2215,7 @@ Qu'avec la même horreur qu'on voit une furie ;
 Et tout ce que le ciel a formé de plus doux,
 Tout ce qu'il peut de mieux, je crois le voir en vous ;
 Mais dans votre coeur même un autre amour murmure,
-Lorsque...
+Lorsque…
 
 -*who_ildione
       Vous pourriez croire une telle imposture !
@@ -2230,7 +2230,7 @@ Votre main lui donnait ce qu'il avait d'aimable ;
 Et je ne l'ai tantôt accepté pour époux
 Que par cet ordre exprès que j'ai reçu de vous.
 Vous aviez déjà vu qu'en dépit de ma flamme,
-Pour vous faire empereur...
+Pour vous faire empereur…
 
 -*who_attila
       Vous me trompez, madame ;
@@ -2307,7 +2307,7 @@ Et deux mots en son âme ont jeté tant d'alarmes,
 Qu'exprès à votre suite il m'attache aujourd'hui,
 Pour m'ôter tout moyen de m'approcher de lui.
 Pour peu que je vous quitte il y va de ma vie,
-Et s'il peut découvrir que j'adore Flavie...
+Et s'il peut découvrir que j'adore Flavie…
 
 -*who_honorie
 Il le saura de moi, si tu ne veux agir,

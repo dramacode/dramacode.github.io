@@ -2,7 +2,7 @@
 identifier: corneillet_amouralamode  
 creator: Corneille, Thomas  
 date: 1651  
-title: L'Amour à la mode. , comédie.   
+title: L’Amour à la mode. , comédie.   
 ---
 
 
@@ -956,7 +956,7 @@ Encor que de mon coeur la garde me soit chère,
 Je pourrais me résoudre enfin à m'en défaire.  
 Par là juge, Lisette, où j'en suis aujourd'hui  
 
-    LISETTE, MONTRANT DEUX BILLETS QU'ELLE TIENT..
+    LISETTE, MONTRANT DEUX BILLETS QU’ELLE TIENT..
 L'un de ces deux billets ne vient donc pas de lui,  
 Puisque sans demander seulement à les lire...  
 
@@ -1264,7 +1264,7 @@ Pour aller la rejoindre il faut faire retraite.
 
 ## SCÈNE VII.
 
-    DOROTÉE, RENTRANT PAR L'AUTRE CÔTÉ DU THÉÂTRE LA COIFFE ABATTUE.
+    DOROTÉE, RENTRANT PAR L’AUTRE CÔTÉ DU THÉÂTRE LA COIFFE ABATTUE.
 Je ne vois plus paraître Oronte ni Lisette.  
 J'éprouve en ce rencontre un bizarre destin,  
 Qu'un Père m'ait contrainte à rebrousser chemin,  
@@ -2230,7 +2230,7 @@ Mais c'en est déjà fait.
 
 ## SCÈNE IX. Argante, Oronte, Cliton.
 
-    ARGANTE, L'ÉPÉE À LA MAIN.
+    ARGANTE, L’ÉPÉE À LA MAIN.
         Que vois-je ? C'est Oronte.  
 Ô Fille dont l'amour me couvrira de honte !  
 Meurs, lâche suborneur.  
@@ -2283,7 +2283,7 @@ On l'enverra dormir à grands coups de bâton.
     ORONTE.
 Écoute, on parle ici.  
 
-    ARGANTE, PARLANT À ÉRASTE QU'IL A TROUVÉ DANS SA MAISON, ET FERMANT LA PORTE POUR L'EMPÊCHER DE VOIR ORONTE.
+    ARGANTE, PARLANT À ÉRASTE QU’IL A TROUVÉ DANS SA MAISON, ET FERMANT LA PORTE POUR L’EMPÊCHER DE VOIR ORONTE.
         Demeurez-là de grâce.  
 
     CLITON.
@@ -2333,7 +2333,7 @@ Appelons ici l'autre, et le faisons sortir.
 
 ## SCÈNE X. Argante, Éraste.
 
-    ARGANTE, OUVRANT LA PORTE QU'IL AVAIT FERMÉE EN RENTRANT.
+    ARGANTE, OUVRANT LA PORTE QU’IL AVAIT FERMÉE EN RENTRANT.
 Éraste.  
 
     ÉRASTE, BAS.
@@ -3712,7 +3712,7 @@ Si je viens par amour, ou bien par complaisance,
 Et que votre ordre exprès peut faire présumer  
 Que c'est vous obéir, et non pas vous aimer.  
 
-    LISETTE, PARAISSANT AVEC LUCIE QU'ELLE OBLIGE INCONTINENT DE RENTRER.
+    LISETTE, PARAISSANT AVEC LUCIE QU’ELLE OBLIGE INCONTINENT DE RENTRER.
 Un Cavalier, madame, est encore avec elle ;  
 Demeurez.  
 
@@ -3821,7 +3821,7 @@ Un peu trop de scrupule à votre amour est joint.
 Des termes si communs ne vous regardent point  
 Mais j'entends du bruit.  
 
-    DOROTÉE, CONTREFAISANT L'ÉTONNÉE.
+    DOROTÉE, CONTREFAISANT L’ÉTONNÉE.
         Où ?  
 
     ORONTE.
@@ -3842,7 +3842,7 @@ Qu'est-elle devenue ?
         Elle est entrée ici,  
 Je m'en vais l'appeler.  
 
-    DOROTÉE, FEIGNANT DE L'ARRÊTER AVEC EMPRESSEMENT.
+    DOROTÉE, FEIGNANT DE L’ARRÊTER AVEC EMPRESSEMENT.
         Dieux ! Que voulez-vous faire ?  
 
     ORONTE.
@@ -3864,7 +3864,7 @@ Vous m'accusâtes hier, et depuis ce reproche...
     ORONTE.
 Trouvez bon seulement que Lisette s'approche.  
 
-    DOROTÉE, L'ARRÊTANT TOUJOURS.
+    DOROTÉE, L’ARRÊTANT TOUJOURS.
 Sous ce prétexte feint vos soupçons imprudents  
 Veulent...  
 

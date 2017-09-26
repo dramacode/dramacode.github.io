@@ -73,7 +73,7 @@ Du doux bruit du doux bruit
 -*who_vertumne_lanymphedelaseine
 De nos Chants.
 
-**** *book_ *id_body-501 *act_ *date_1671 *creator_perrin
+**** *book_ *id_I01 *act_ *date_1671 *creator_perrin
 
 -*who_pomone
 Passons nos jours
@@ -150,7 +150,7 @@ Passons nos jours,
 Passons nos jours,
 Loin des Bergers et des amours.
 
-**** *book_ *id_body-502 *act_ *date_1671 *creator_perrin
+**** *book_ *id_I02 *act_ *date_1671 *creator_perrin
 
 -*who_flore
 Ah ! ma Sœur, à quoy penses-tu,
@@ -203,7 +203,7 @@ de vivre dans ses chaisnes.
 Il a ses biens, il a ses peines,
 Et je ne veux que des plaisirs.
 
-**** *book_ *id_body-503 *act_ *date_1671 *creator_perrin
+**** *book_ *id_I03 *act_ *date_1671 *creator_perrin
 
 -*who_dieudesjardins
 Soulage donc les flames du grand Dieu des Jardins.
@@ -217,7 +217,7 @@ Joint mes Melons à tes Poncires,
 Et mesle parmy tes pignons,
 Mes truffes et mes champigons.
 
-**** *book_ *id_body-504 *act_ *date_1671 *creator_perrin
+**** *book_ *id_I04 *act_ *date_1671 *creator_perrin
 
 -*who_faune
 C'est bien à toy, Dieu miserable,
@@ -334,7 +334,7 @@ Cueillez Nymphes dans ces prairies,
 Cueillez pour eux des guirlandes fleuries,
 Et vous ma sœur couronnez le vainqueur.
 
-**** *book_ *id_body-505 *act_ *date_1671 *creator_perrin
+**** *book_ *id_I05 *act_ *date_1671 *creator_perrin
 
 -*who_dieudesjardins
 Donnez-luy vostre main,
@@ -367,7 +367,7 @@ Pour vous l'Epine et les chardons?
 Ah ! Pour un plus heureux on garde, on garde les fleurettes,
 Pour vous, Pour vous l'Epine et les chardons.
 
-**** *book_ *id_body-506 *act_ *date_1671 *creator_perrin
+**** *book_ *id_I06 *act_ *date_1671 *creator_perrin
 
 -*who_faune
 Voila le prix de vos Musiques,
@@ -385,7 +385,7 @@ Et dequoy paistre, paistre ses bourriques.
 Voicy le fruit du Dieu des Champs,
 Et dequoy paistre ses bourriques. (bis)
 
-**** *book_ *id_body-507 *act_ *date_1671 *creator_perrin
+**** *book_ *id_I07 *act_ *date_1671 *creator_perrin
 
 -*who_vertumne
 Helas ! Que me sert-il de changer tous les jours
@@ -409,7 +409,7 @@ Fin du premier Acte.
 Entr'acte.
 INTERMEDE I. Symphonie.
 
-**** *book_ *id_body-601 *act_ *date_1671 *creator_perrin
+**** *book_ *id_II01 *act_ *date_1671 *creator_perrin
 
 -*who_beroe
 Ah! N'est-ce pas assez qu'on ayme et qu'on soûpire,
@@ -424,7 +424,7 @@ J'ayme un Dieu, le voicy, tachons de le surprendre,
 Il resve à ses amours,
 Cachons-nous pour l'entendre.
 
-**** *book_ *id_body-602 *act_ *date_1671 *creator_perrin
+**** *book_ *id_II02 *act_ *date_1671 *creator_perrin
 
 -*who_vertumne
 O Doux Zephir vous enflammez la terre par vos soûpirs,
@@ -440,7 +440,7 @@ Joins à l'amour la ruse et la surprise;
 Il faut l'attendre icy dans ce boccage vert,
 Elle y cherche souvent le frais et le couvert.
 
-**** *book_ *id_body-603 *act_ *date_1671 *creator_perrin
+**** *book_ *id_II03 *act_ *date_1671 *creator_perrin
 
 -*who_beroe
 Quoy? Toûjours inflexible,
@@ -465,7 +465,7 @@ Un moment encor et je meurs.
 -*who_vertumne
 Il faut l'épouvanter et luy donner la fuite?
 
-**** *book_ *id_body-604 *act_ *date_1671 *creator_perrin
+**** *book_ *id_II04 *act_ *date_1671 *creator_perrin
 
 -*who_beroe
 Que voyez-vous mes yeux,
@@ -480,7 +480,7 @@ Je beniray mon sort,
 Et je ne puis mourir,
 Et je ne puis mourir d'une plus douce mort ?
 
-**** *book_ *id_body-605 *act_ *date_1671 *creator_perrin
+**** *book_ *id_II05 *act_ *date_1671 *creator_perrin
 Mais quel éclair, quel horrible tonnerre,
 Quel tremblement de terre ?
 Quels fantosmes affreux et quelles visions ?

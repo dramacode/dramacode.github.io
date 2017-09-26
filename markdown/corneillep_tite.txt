@@ -26,7 +26,7 @@ Vespasianus à Senatu Absens imperator creatur, Titusque et Domitianus Cesares d
 
 Domitianus animum ad amorem Domitiae filiae Corbulonis applicaverat, camque à Lucio Lamio AEmiliano viro ejus abductam Secum habebat in numero amicarum, eamdemque postea uxorem duxit.
 
-Per id tempus Berenic maxime florebat, ob eamque causam cum Agrippa fratre Rosam venit. Is Prétoriis honribus auctus est, ipsa habitavit in Palatio, coapitque cum Tito coire : Spes erat eam Tito nuptem iri, jam enim omnia, ut si effet uxor, gerebat. Sed Titus cum intelligeret populum Romanum id moleste ferre, eam repudiavit, praesertim quòd de iis rebud magni rumores perferrentur.
+Per id tempus Berenic maxime florebat, ob eamque causam cum Agrippa fratre Rosam venit. Is Prétoriis honribus auctus est, ipsa habitavit in Palatio, coapitque cum Tito coire : Spes erat eam Tito nuptem iri, jam enim omnia, ut si effet uxor, gerebat. Sed Titus cum intelligeret populum Romanum id moleste ferre, eam repudiavit, praesertim quod de iis rebud magni rumores perferrentur.
 
 
 # IN TITO.
@@ -106,7 +106,7 @@ Maître de l'univers, a-t-il un maître à craindre ?
 J'ai quelques droits, Plautine, à l'empire romain,  
 Que le choix d'un époux peut mettre en bonne main :  
 Mon père avant le sien élu pour cet Empire  
-Préféra... Tu le sais, et c'est assez t'en dire :  
+Préféra… Tu le sais, et c'est assez t'en dire :  
 C'est par cet intérêt qu'il m'apporte sa foi,  
 Mais pour le coeur, te dis-je, il n'est pas tout à moi.  
 
@@ -171,7 +171,7 @@ L'Orient de leurs noms fut à peine averti,
 Qu'il fit Vespasian chef d'un plus fort parti.  
 Le ciel l'en avoua : ce guerrier magnanime  
 Par Tite son aîné fit assiéger Solyme,  
-Et tandis qu'en égypte il prit d'autres emplois,  
+Et tandis qu'en Égypte il prit d'autres emplois,  
 Domitian ici vint dispenser ses lois.  
 Je le vis et l'aimai : ne blâme point ma flamme,  
 Rien de plus grand que lui n'éblouissait mon âme,  
@@ -306,18 +306,18 @@ Ah si vous n'acceptez sa main qu'avec contrainte,
 Venez, venez, Madame, autoriser ma plainte :  
 L'empereur m'aime assez pour quittez vos liens,  
 Quand je lui porterai vos voeux avec les miens.  
-Dites que vous m'aimez, et que tout son empire...  
+Dites que vous m'aimez, et que tout son empire…  
 
     DOMITIE.
 C'est ce qu'à dire vrai j'aurai peine à lui dire,  
-Seigneur, et le respect qui n'y eut consentir...  
+Seigneur, et le respect qui n'y eut consentir…  
 
     DOMITIAN.
 Non, votre ambition ne se peut démentir,  
 Ne la déguisez plus, montrez-la toute entière,  
 Cette âme que le trône a su rendre si fière,  
 Cette âme dont j'ai fait les plaisirs les plus doux,  
-Cette âme...  
+Cette âme…  
 
     DOMITIE.
         Voyez-la, cette âme toute à vous,  
@@ -345,11 +345,11 @@ Vous dites qu'il vous aime, et je ne puis le croire,
 Si je ne vois sur vous un rayon de sa gloire.  
 On vous a vus tous deux sortir d'un même flanc,  
 Ayez mêmes honneurs ainsi que même sang,  
-Dites-lui que le droit qu'a ce sang à l'empire...  
+Dites-lui que le droit qu'a ce sang à l'empire…  
 
     DOMITIAN.
-C'est là qu'à son tour j'aurais peine à lui dire,  
-Madame, et le devoir qui n'y peut consentir...  
+C'est là ce qu'à son tour j'aurais peine à lui dire,  
+Madame, et le devoir qui n'y peut consentir…  
 
     DOMITIE.
 À mes vives douleurs daignez donc compatir,  
@@ -359,7 +359,7 @@ Sans qu'un reproche injuste augmente mon supplice.
     DOMITIAN.
 Et bien dans cet hymen qui n'en a que pour moi,  
 J'applaudirai moi-même à votre peu de foi,  
-Je dirai que le ciel doit à votre mérite...  
+Je dirai que le ciel doit à votre mérite…  
 
     DOMITIE.
 Non, Seigneur, faites mieux, et quittez qui vous quitte.  
@@ -384,7 +384,7 @@ Qui ne pût malgré moi vous déplaire ou me nuire.
 ## SCÈNE III. Domitian, Albin.
 
     ALBIN.
-Elle se défend bien, Seigneur, et dans la cour...  
+Elle se défend bien, Seigneur, et dans la cour…  
 
     DOMITIAN.
 Aucun n'a plus d'esprit, Albin, et moins d'amour.  
@@ -428,7 +428,7 @@ En l'état où je suis les maux dont je soupire
 M'ôtent la liberté de te rien contredire :  
 Cherchons-en le remède, au lieu de raisonner  
 Sur l'amour où le ciel se plaît à m'obstiner.  
-N'est-il point de secret ? N'est-il point d'artifice...  
+N'est-il point de secret ? N'est-il point d'artifice…  
 
     ALBIN.
 Oui, Seigneur, il en est, rappelons Bérénice,  
@@ -497,7 +497,7 @@ Albin, serait-il vrai ?
     ALBIN.
         La nouvelle vous flatte ;  
 Peut-être est-elle fausse, attendez qu'elle éclate :  
-Surtout à l'Empereur déguisez-la si bien...  
+Surtout à l'Empereur déguisez-la si bien…  
 
     DOMITIAN.
 Va, je lui parlerai comme n'en sachant rien.  
@@ -526,7 +526,7 @@ J'aurais trop à rougir si j'y souffrais leur vue,
 Et recevais les yeux de ses propres sujets  
 Pour envieux témoins du vol que je lui fais.  
 Car mon coeur fut son bien, à cette belle Reine,  
-Et pourrait l'être encore malgré Rome, et sa haine,  
+Et pourrait l'être encor malgré Rome, et sa haine,  
 Si ce divin objet qui fut tout mon désir  
 Par quelque doux regard s'en venait ressaisir.  
 Mais du haut de son trône elle aime mieux me rendre  
@@ -732,7 +732,7 @@ Contre un rival heureux épargneriez-vous rien,
     TITE.
 Vengez-vous, j'y consens, que rien ne vous retienne,  
 Je prends votre maîtresse, allez, prenez la mienne,  
-Épousez Bérénice, et...  
+Épousez Bérénice, et…  
 
     DOMITIAN.
         Vous n'achevez point,  
@@ -839,7 +839,7 @@ Et que de vos pareils les hautes destinées
 Ne le consultent point sur ces grands hyménées.  
 
     TITE.
-Si le vôtre, Madame, était de moindre prix...  
+Si le vôtre, Madame, était de moindre prix…  
 Mais que veut Flavian ?  
 
 
@@ -848,11 +848,11 @@ Mais que veut Flavian ?
     FLAVIAN.
         Vous en serez surpris,  
 Seigneur, je vous apporte une grande nouvelle,  
-La Reine Bérénice...  
+La Reine Bérénice…  
 
     TITE.
         Eh bien ? Est infidèle ?  
-Et son esprit charmé par un plus doux souci...  
+Et son esprit charmé par un plus doux souci…  
 
     FLAVIAN.
 Elle est dans ce palais, Seigneur, et la voici.  
@@ -879,7 +879,7 @@ Et prendre sur les rois cet illustre avantage
 De leur donner l'exemple à vous en faire hommage.  
 Je ne vous dirai point avec quelles langueurs  
 D'un si cruel exil j'ai souffert les longueurs,  
-Vous savez trop...  
+Vous savez trop…  
 
     TITE.
         Je sais votre zèle, et l'admire,  
@@ -974,7 +974,7 @@ Est-elle plus charmante ? Ai-je moins de mérite ?
 Suis-je moins digne qu'elle enfin du coeur de Tite ?  
 
     PLAUTINE.
-Madame...  
+Madame…  
 
     DOMITIE.
         Je m'emporte, et mes sens interdits  
@@ -1125,7 +1125,7 @@ Attendre que l'honneur de ce grand hyménée
 Vous renvoyât la foi que vous m'avez donnée :  
 Si vous vouliez passer pour véritable amant,  
 Il fallait espérer jusqu'au dernier moment,  
-Il vous fallait...  
+Il vous fallait…  
 
     DOMITIAN.
         Eh bien, puisqu'il faut que j'espère,  
@@ -1319,12 +1319,12 @@ J'aille de votre main attendre un coup mortel ?
 M'y verrez-vous mourir sans verser une larme ?  
 Vous y préparez-vous sans trouble et sans alarme ?  
 Et si vous concevez l'excès de ma douleur,  
-N'en rejaillit rien jusque dans votre coeur ?  
+N'en rejaillit-il rien jusque dans votre coeur ?  
 
     TITE.
 Hélas, Madame, hélas, pourquoi vous ai-je vue,  
 Et dans quel contretemps êtes-vous revenue ?  
-Ce qu'on fit d'njustice à ce si chers appas  
+Ce qu'on fit d'injustice à de si chers appas  
 M'avait assez coûté pour ne l'enviez pas,  
 Votre absence et le temps m'avaient fait quelque grâce,  
 J'en craignais un peu moins les malheurs où je passe,  
@@ -1334,7 +1334,7 @@ La contrainte semblait tourner en habitude,
 Le joug que je prenais m'en paraissait moins rude,  
 Et j'allais être heureux, du moins aux yeux de tous,  
 Autant qu'on le peut être en n'étant point à vous,  
-J'allais...  
+J'allais…  
 
     BÉRÉNICE.
         N'achevez point, c'est là ce qui me tue,  
@@ -1366,7 +1366,7 @@ Qu'il revient tout entier faire hommage à vos yeux.
 
     BÉRÉNICE.
 N'importe, ayez pitié, Seigneur, de ma faiblesse,  
-Vous avez un coeur à changer de maîtresse,  
+Vous avez un coeur fait à changer de maîtresse,  
 Vous ne savez que trop l'art de manquer de foi,  
 Ne l'exercerez-vous jamais que contre moi ?  
 
@@ -1381,10 +1381,10 @@ Rome qui l'a choisie y consentira-t-elle ?
     BÉRÉNICE.
 Quoi, Rome ne veut pas, quand vous avez voulu ?  
 Que faites-vous, Seigneur du pouvoir absolu ?  
-N'êtes-vous pas dans ce trône où tant de monde aspire  
+N'êtes-vous dans ce trône où tant de monde aspire  
 Que pour assujettir l'empereur à l'empire ?  
 Sur ses plus hauts degrés Rome vous fait la loi !  
-Elle affermit ou rompt le don de sa foi !  
+Elle affermit ou rompt le don de votre foi !  
 Ah ! Si j'en puis juger sur ce qu'on voit paraître,  
 Vous en êtes l'esclave encor plus que le maître.  
 
@@ -1400,7 +1400,7 @@ Cette invincible horreur qui passe jusqu'aux reines,
 Jusques à leurs époux, et vos yeux adorés  
 Verraient de notre hymen naître cent conjurés.  
 Encor s'il n'y fallait hasarder que ma vie,  
-Si ma perte aussitôt de la votre suivie...  
+Si ma perte aussitôt de la votre suivie…  
 
     BÉRÉNICE.
 Non, Seigneur, ce n'est pas aux reines comme moi  
@@ -1447,14 +1447,14 @@ Que faire donc, Madame ?
 
     BÉRÉNICE.
         Assurer votre vie,  
-Et s'il faut enfin la main de Domitie...  
+Et s'il y faut enfin la main de Domitie…  
 Mais, Adieu, sur ce point si vous pouvez douter,  
 Ce n'est pas moi, Seigneur qu'il en faut consulter.  
 
     TITE, À BÉRÉNICE QUI SE RETIRE.
 Non, Madame, et dut-il m'en coûter trône et vie,  
 Vous ne me verrez point épouser Domitie  
-Ciel, si vous ne voulez pas qu'elle règne en ces lieux .  
+Ciel, si vous ne voulez qu'elle règne en ces lieux.  
 Que vous m'êtes cruel de la rendre à mes yeux ?  
 
 
@@ -1512,7 +1512,7 @@ Mais achevez, Philon, ne dit-on autre chose ?
 
     PHILON.
 On parle des périls où votre âme l'expose.  
-De cet hymen, dit-on, les noeuds désirez  
+De cet hymen, dit-on, les noeuds si désirés  
 Serviront de prétexte à mille conjurés,  
 Ils pourront soulever jusqu'à son propre frère,  
 Il se voulut jadis cantonner contre un père,  
@@ -1525,14 +1525,14 @@ Pour peu qu'eut Céréal écouté sa fureur.
 Il aime Domitie, et règne dans son âme,  
 Si Tite ne l'épouse, il en fera sa femme,  
 Vous savez de tous deux qu'elle est l'ambition,  
-Jugez ce qui peut suivre d'une telle union.  
+Jugez ce qui peut suivre une telle union.  
 
     BÉRÉNICE.
 Ne dit-on rien de plus ?  
 
     PHILON.
         Ah, madame, je tremble  
-À vous dire encor...  
+À vous dire encor…  
 
     BÉRÉNICE.
     Quoi ?  
@@ -1596,7 +1596,7 @@ Mais je puis dire aussi que le rang que je tiens
 M'a fait assez d'amis pour opposer aux siens,  
 Et que si dès l'abord il ne les font pas taire,  
 Ils rompront le grand coup qui seul nous peut déplaire.  
-Non, que cet espoir ne court grand hasard,  
+Non, que tout cet espoir ne coure grand hasard,  
 Si votre amant volage y prend la moindre part,  
 On l'aime, et si son ordre à nos amis s'appose,  
 Leur plus fidèle ardeur osera peu de chose.  
@@ -1611,13 +1611,13 @@ N'y perdez point de temps portez-y tous vos charmes,
 N'en oubliez aucun dans un péril si grand.  
 Peut être ainsi que vous ce dessein le surprend ;  
 Mais je crains qu'après tout son âme irrésolue,  
-Ne relâche une peu trop sa puissance absolue,  
+Ne relâche un peu trop sa puissance absolue,  
 Et ne laisse au sénat décider de ses voeux,  
 Pour se faire une excuse envers l'une des deux.  
 
     BÉRÉNICE.
 Quelques efforts qu'on fasse, et quelque art qu'on déploie,  
-Je vous réponds de tout, pourvue que je le voie,  
+Je vous réponds de tout, pourvu que je le voie,  
 Et je ne crois pas même au pouvoir de vos dieux  
 De lui faire épouser Domitie à mes yeux.  
 Si vous l'aimez encor, ce mot vous doit suffire.  
@@ -1644,10 +1644,10 @@ J'en veux à Bérénice, à l'empereur, à vous.
 À lui, qui n'ose plus m'aimer en sa présence,  
 À Vous, qui vous mettez de leur intelligence,  
 Et dont tous les amis vont servir un amour  
-Qui me rend vos yeux la fable de la cour.  
+Qui me rend à vos yeux la fable de la cour.  
 Si vous m'aimez, Seigneur, il faut sauver ma gloire,  
 M'assurer par vos soins une pleine victoire.  
-Il faut ...  
+Il faut …  
 
     DOMITIAN.
         Si vous croyez votre bonheur douteux,  
@@ -1676,7 +1676,7 @@ Et trouverai peut être à Rome assez d'appui
 Pour me venger de vous aussi bien que de lui.  
 
     DOMITIAN.
-Et c'est du nom de romain la gloire qui vous touche,  
+Et c'est du nom romain la gloire qui vous touche,  
 Madame ? Et vous l'avez au coeur comme en la bouche ?  
 Ah, que le nom de Rome est un nom précieux  
 Alors qu'en la servant on se sert encor mieux,  
@@ -1710,7 +1710,7 @@ De vos destins aux siens pressez-vous l'union
 Sans vouloir aucun fruit de tant de passion ?  
 
     DOMITIE.
-Peut être en ce dessein ne suis-je pas intéressée  
+Peut être en ce dessein ne suis-je intéressée  
 Que par l'intérêt seul de ma gloire blessée :  
 Croyez-vous généreuse, et soyez généreux,  
 N'aimez plus, ou n'aimez que comme je le veux.  
@@ -1726,12 +1726,12 @@ Tous mes emportements pour la grandeur suprême
 Ne vous déguisent point, Seigneur, que je vous aime,  
 Et l'on ne voit que trop quel droit j'ai de haïr  
 Un empereur sans foi qui meurt de me trahir.  
-Me condamnerez-vous voir que Bérénice  
+Me condamnerez-vous à voir que Bérénice  
 M'enlève de hauteur le rang d'impératrice ?  
 Lui pourrez-vous aider à ma perdre d'honneur ?  
 
     DOMITIAN.
-Ne pouvez-vous le mettre faire mon bonheur ?  
+Ne pouvez-vous le mettre à faire mon bonheur ?  
 
     DOMITIE.
 J'ai quelque orgueil encor, Seigneur, je le confesse,  
@@ -1803,7 +1803,7 @@ Seigneur, telle est l'humeur de la plupart des femmes.
 L'amour sous leur empire eut-il rangé mille âmes,  
 Elles regardent tout comme leur propre bien,  
 Et ne peuvent souffrir qu'il leur échappe rien.  
-Un captif mal gardé leur semble une infâmie,  
+Un captif mal gardé leur semble une infamie,  
 Qui l'ose recevoir devient leur ennemie,  
 Et sans leur faire un vol on ne peut disposer  
 D'un coeur qu'un autre choix les force à refuser :  
@@ -1881,7 +1881,7 @@ Seigneur ?
         Oui, mais j'en suis comptable à tout le monde,  
 Comme dépositaire il faut que j'en réponde,  
 Un monarque a souvent des lois à s'imposer,  
-Et qui veut tout, ne doit pas tout oser.  
+Et qui veut pouvoir tout, ne doit pas tout oser.  
 
     DOMITIAN.
 Que refuserez-vous aux désirs de votre âme,  
@@ -1905,10 +1905,10 @@ J'en ai trop, et le mets peut-être trop au jour.
 
     DOMITIAN.
 Si vous en aviez tant, vous auriez peu de peine  
-À faire rendre Domitie à sa première chaîne.  
+À rendre Domitie à sa première chaîne.  
 
     TITE.
-Ah, s'il s'agissait que de vous la céder  
+Ah, s'il ne s'agissait que de vous la céder  
 Vous auriez peu de peine à ma persuader,  
 Et pour vous rendre heureux me rendre à Bérénice  
 Ne serait pas vous faire un fort grand sacrifice.  
@@ -1939,7 +1939,7 @@ Seigneur, que de la mettre entre les mains d'un frère ?
 
     TITE.
 Non, je ne puis la mettre en de plus sûres mains,  
-Mais plus vous m'êtes, Prince, et plus je vous crains.  
+Mais plus vous m'êtes cher, Prince, et plus je vous crains.  
 De ceux qu'unit le sang plus douces sont les chaînes,  
 Plus leur désunion met l'aigreur dans leur haines,  
 L'offense en est plus rude, et le courroux plus grand,  
@@ -2012,7 +2012,7 @@ Ne la soupçonnez point d'un si bas sentiment ;
 Elle n'en peut souffrir, non pas même la feinte.  
 
     TITE.
-As-tu vu dans son coeur encore la même atteinte ?  
+As-tu vu dans son coeur encor la même atteinte ?  
 
     FLAVIAN.
 Elle veut vous parler, c'est tout ce que j'en sais.  
@@ -2060,7 +2060,7 @@ Je le dis seulement parce qu'il le faut dire,
 Et qu'étant au-dessus de tous les potentats  
 Il me serait honteux de ne la dire pas.  
 De quoi s'enorgueillit un souverain de Rome,  
-Si par respect pour elle il doit cesser d'être un homme  
+Si par respect pour elle il doit cesser d'être homme  
 Éteindre un feu qui plaît, ou ne le ressentir  
 Que pour s'en faire honte, et pour le démentir ?  
 Cette toute-puissance est bien imaginaire  
@@ -2073,12 +2073,12 @@ Et quand d'un bel objet j'en vois quelqu'un charmé,
 J'applaudis au bonheur d'aimer et d'être aimé.  
 Quand je l'obtiens du ciel, me portent-ils envie ?  
 Quand d'amer pour eux tous les douceurs de ma vie ?  
-Et par quel intérêt...  
+Et par quel intérêt…  
 
     FLAVIAN.
         Ils perdraient tout en vous ;  
 Vous faites le bonheur et le salut de tous,  
-Seigneur, et l'univers de qui vous êtes l'âme...  
+Seigneur, et l'univers de qui vous êtes l'âme…  
 
     TITE.
 Ne perds plus de raisons à combattre ma flamme,  
@@ -2105,7 +2105,7 @@ Tout ce qu'ils ont soumis à l'effort de mes armes.
 Par elle j'ai vaincu, pour elle il faut périr.  
 
     FLAVIAN.
-Seigneur...  
+Seigneur…  
 
     TITE.
         Oui, Flavian, c'est à faire à mourir.  
@@ -2116,7 +2116,7 @@ Chaque instant de la vie est un pas vers la mort.
 
     FLAVIAN.
 Flattez mieux les désirs de votre ambitieuse,  
-Et ne la changez pas de fière en ambitieuse.  
+Et ne la changez pas de fière en furieuse.  
 Elle vient vous parler.  
 
     TITE.
@@ -2240,7 +2240,7 @@ Suivez-le, mais tremblez s'il flatte trop son maître.
 Ce grand corps tous les ans, change d'âme et de coeurs,  
 C'est le même sénat et d'autres sénateurs.  
 S'il alla pour Néron jusqu'à l'idolâtrie,  
-Il le traita depuis traître à sa patrie,  
+Il le traita depuis de traître à sa patrie,  
 Et réduisit ce Prince indigne de son rang  
 À la nécessité de se percer le flanc.  
 Vous êtes son amour, craignez d'être sa haine  
@@ -2262,7 +2262,7 @@ Où par tous mes désirs je la sens condamnée ?
     FLAVIAN.
 Je vous l'ai déjà dit, Seigneur, pensez-y bien,  
 Et surtout de la Reine évitez l'entretien,  
-Redoutez... Mais elle entre, et sa moindre tendresse  
+Redoutez… Mais elle entre, et sa moindre tendresse  
 De toutes nos raisons va montrer la faiblesse.  
 
 
@@ -2270,7 +2270,7 @@ De toutes nos raisons va montrer la faiblesse.
 
     TITE.
 Et bien, Madame, et bien, faut-il tout hasarder,  
-Et venez-vous ici me le commander ?  
+Et venez-vous ici pour me le commander ?  
 
     BÉRÉNICE.
 De ce qui m'est permis je sais mieux la mesure,  
@@ -2321,7 +2321,7 @@ Pour aller de mes feux vous demander le fruit,
 Je quitterais l'empire et tout ce qui leur nuit.  
 
     BÉRÉNICE.
-Daigne me préserver le ciel...  
+Daigne me préserver le ciel…  
 
     TITE.
         De quoi, Madame ?  
@@ -2344,7 +2344,7 @@ Que d'un tel attentat notre rang est jaloux,
 Et que tout mon amour ne m'asservit qu'à vous.  
 
     TITE.
-Mais peut-être, Madame...  
+Mais peut-être, Madame…  
 
     BÉRÉNICE.
         Il n'est point de peut-être,  
@@ -2383,7 +2383,7 @@ Et le peuple à grands cris montre sa passion
 De voir un plein effet de cette adoption.  
 
     TITE.
-Madame...  
+Madame…  
 
     BÉRÉNICE.
         Permettez, Seigneur, que je prévienne  
@@ -2428,13 +2428,13 @@ Le ciel de ces périls saura trop nous garder.
 Je les vois de trop près pour vous y hasarder.  
 
     TITE.
-Quand Rome vous appelle à la grandeur suprême...  
+Quand Rome vous appelle à la grandeur suprême…  
 
     BÉRÉNICE.
 Jamais un tendre amour n'expose ce qu'il aime.  
 
     TITE.
-Mais, Madame, tout cède, et nos voeux exaucés...  
+Mais, Madame, tout cède, et nos voeux exaucés…  
 
     BÉRÉNICE.
 Votre coeur est à moi, j'y règne et c'est assez.  
@@ -2471,7 +2471,7 @@ Adieu, Seigneur, je pars.
         Ah, Madame, arrêtez.  
 
     DOMITIAN.
-Est-ce donc pour moi, l'effet de vos bontés,  
+Est-ce donc là pour moi, l'effet de vos bontés,  
 Madame, est-ce le prix de vous avoir servie ?  
 J'assure votre gloire, et vous m'ôtez la vie.  
 

@@ -250,7 +250,7 @@ Et m'oblige à chercher Menandre, ou le trépas.
     THÉANDRE.
         Je plains ton mal, le Ciel guide tes pas.  
 
-    CLÉAGÉNOR IL S'EN VA SEUL.
+    CLÉAGÉNOR IL S’EN VA SEUL.
 Si de son châtiment ma mort était suivie  
 Je perdrais sans regret la lumière et la vie  
 Son mal soulagerait mon tourment infini :  
@@ -353,7 +353,7 @@ Leur pouvoir est moins fort que celui de tes charmes.
         Rien ne peut divertir,  
 En l'état où je suis.  
 
-    CLÉAGÉNOR ALLANT À LUI L'ÉPÉE À LA MAIN.
+    CLÉAGÉNOR ALLANT À LUI L’ÉPÉE À LA MAIN.
         Ton juste repentir  
 Que les Dieux irrités.  
 
@@ -576,7 +576,7 @@ Tu consultes pendard.
 
 ## SCÈNE V.
 
-    CLÉAGÉNOR PORTANT DE L'EAU DANS SON CHAPEAU.
+    CLÉAGÉNOR PORTANT DE L’EAU DANS SON CHAPEAU.
 En voilà, Doristée, et de claire et de belle :  
 Mais quelle prompte peur ? quelle frayeur nouvelle  
 Détruit mon espérance et glace mes esprits ?  
@@ -590,7 +590,7 @@ Car de l'imaginer ou volage ou perfide.
 
 ## SCÈNE VI. Les Archers, Cléagénor.
 
-    1ER ARCHER VOYANT LE CORPS D'OZANOR.
+    1ER ARCHER VOYANT LE CORPS D’OZANOR.
 Arrête.  
 
     CLÉAGÉNOR.
@@ -600,7 +600,7 @@ Arrête.
         Confesse l'homicide :  
 Amis qu'on le saisisse.  
 
-    CLÉAGÉNOR, METTANT L'ÉPÉE À LA MAIN.
+    CLÉAGÉNOR, METTANT L’ÉPÉE À LA MAIN.
         Ô destins inhumains :  
 Il est vrai, cette mort est un coup de mes mains,  
 Mais plus juste, cruels, que votre violence.  
@@ -740,7 +740,7 @@ Au dessein de forcer mon destin misérable.
     SUITE DE THEANDRE.
 Sus, le cerf reconnu, qu'un glorieux effort.  
 
-    PHILEMOND L'ÉPÉE À LA MAIN.
+    PHILEMOND L’ÉPÉE À LA MAIN.
 Arrête, j'obéis à la loi de mon sort,  
 Deux voleurs m'ont contraint à ce point d'insolence,  
 Armez-vous avec moi contre leur violence :  
@@ -1198,7 +1198,7 @@ Reposez-vous sur eux d'un semblable souci.
     DORANTE.
 Faites ce qu'il vous plaît, mais tirez-vous d'ici.  
 
-    DIANE S'EN ALLANT.
+    DIANE S’EN ALLANT.
 Dure loi de mon sort, importune contrainte  
 Qui m'ôte le plaisir et me défend la plainte,  
 J'aimerai toutefois ce charmeur de mes sens  
@@ -2651,7 +2651,7 @@ Ne peuvent renverser l'ordre de tes arrêts.
 
 ## SCÈNE VI. Cléagénor, Dorante, Diane, Théandre, Philacte.
 
-    CLÉAGÉNOR, L'ÉPÉE À LA MAIN, ET SANS CHAPEAU ENTRE EN DÉSORDRE.
+    CLÉAGÉNOR, L’ÉPÉE À LA MAIN, ET SANS CHAPEAU ENTRE EN DÉSORDRE.
 Enfin un juste effort à ma rage assouvie,  
 Il vomit sur la poudre et le sang et la vie,  
 Et ce brutal esprit va chercher aux enfers  
@@ -2660,7 +2660,7 @@ L'effet de son amour et le prix de ses fers.
     THÉANDRE.
 Parlez-vous de Menandre ?  
 
-    CLÉAGÉNOR S'ÉTANT ASSIS.
+    CLÉAGÉNOR S’ÉTANT ASSIS.
         Il est mort le perfide.  
 Il est mort, et ce bras est son juste homicide,  
 Vous saurez la rencontre et son événement  

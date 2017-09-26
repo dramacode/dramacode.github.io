@@ -16,11 +16,6 @@ par M. DE SCARRON
 
 # EXTRAIT DU PRIVILÈGE DU ROI. Par grâce et Privilège du Roi, donné à Paris le vingt-cinquième jour d'Avril 1645. Signé par le Roi en son Conseil le Brun. Il est permis à Toussaint Quinet Marchand Libraire à Paris, d'imprimer ou faire imprimer une Comédie intitulée, Le Jodelet, ou le Maître-Valet, et ce durant le temps et espace de cinq ans à compter du jour que ledit Livre sera achevé d'imprimer, et défenses à tous autres d'en vendre ni distribuer d'autre Impression que de celle qu'aura fait ou fait faire ledit Quinet, à peine de trois mil livres d'amende, ainsi qu'il est plus amplement porté dans les lettres ci-dessus datées. Les Exemplaires ont été fournis.Achevé d'imprimer pour la seconde fois, le 10. Mai 1648.À PARIS, Chez TOUSSAINT QUINET, au Palais, sous la montée de la Cour des Aides.
 
-
-
-# .
-
-
 À MONSIEUR LE COMMANDEUR de Souvré.
 
 
@@ -31,6 +26,11 @@ Il faudrait que je fusse aussi ingrat que malade, si je ne vous dédiais pas ma 
 
 Monsieur, Votre très humble, très obéissant et très obligé serviteur,
 Scarron.
+
+
+
+# .
+
 
 
 
@@ -1242,7 +1242,7 @@ Cette chambre est fort belle, et je m'y plairai fort.
     DON JUAN, À PART.
         Ô qu'elle était bien peinte !  
 
-    JODELET S'ENTRETAILLANT AVEC UN DES ÉPERONS.
+    JODELET S’ENTRETAILLANT AVEC UN DES ÉPERONS.
 Ce maudit éperon m'a blessé d'une atteinte.  
 
     DON FERNAND, À JODELET.
@@ -1771,7 +1771,7 @@ Laissez-là Don Juan, je l'aime comme il est.
 Ha vraiment Béatrix, la sotte si mon père  
 Apprend ce bel avis.  
 
-    DON FERNAND, S'APPROCHANT D'ISABELLE.
+    DON FERNAND, S’APPROCHANT D’ISABELLE.
         Vous êtes en colère.  
 
     ISABELLE.
@@ -2354,7 +2354,7 @@ Je veux fermer la porte.
     DON JUAN.
 Il faut, ô Don louis, faire valoir sa valeur.  
 
-    DON LOUIS, À DON JUAN, METTANT L'ÉPÉE À LA MAIN.
+    DON LOUIS, À DON JUAN, METTANT L’ÉPÉE À LA MAIN.
 Tu mourras de ma main.  
 
     DON JUAN, JOIGNANT LE FER.
@@ -2403,7 +2403,7 @@ Qui n'avez fait encore ici que quereller ?
     DON LOUIS.
 Vous allez tout savoir.  
 
-    DON JUAN, L'INTERROMPANT.
+    DON JUAN, L’INTERROMPANT.
         Non laissez-moi parler,  
 À Don Fernand.
 
@@ -2432,7 +2432,7 @@ Il faut qu'il ait été caché tout aujourd'hui :
 Car je n'ai pas levé l'oeil de dessus la rue,  
 Et l'on n'a pu sortir sans passer à ma vue.  
 
-    DON LOUIS, S'ÉLANÇANT SUR LUI.
+    DON LOUIS, S’ÉLANÇANT SUR LUI.
 Ha ! C'est pour un Valet trop de raffinement.  
 Don Fernand les sépare.
 
@@ -2446,7 +2446,7 @@ Je ne puis donc manquer en un cas si douteux,
 Puisqu'en toutes les deux il peut aller du nôtre  
 D'achever Don Louis, ou pour l'un ou pour l'autre.  
 
-    DON LOUIS, S'ÉLANÇANT ENCORE.
+    DON LOUIS, S’ÉLANÇANT ENCORE.
 D'achever, tu n'as pas encore commencé.  
 
     DON FERNAND, LES SÉPARE.
@@ -3354,10 +3354,10 @@ Et vous m'avez blessé, mais je m'en vengerai.
 
 ## SCÈNE VI. Don Fernand, Don Louis, Don Juan, Jodelet dans l'alcôve.
 
-    DON FERNAND, DEHORS, L'APPELANT.
+    DON FERNAND, DEHORS, L’APPELANT.
 Béatrix.  
 
-    DON JUAN, BAS, À JODELET DANS L'ACLÔVE.
+    DON JUAN, BAS, À JODELET DANS L’ACLÔVE.
         Sors, sors vite, ou je t'étranglerai.  
 Jodelet sort de l'alcôve, et Don Juan y entre.
 
@@ -3415,7 +3415,7 @@ J'ai trompé votre soeur, j'ai tué votre frère,
 Je le ferais encor si je l'avais à faire,  
 Il ne me reste plus qu'à vous tuer aussi.  
 
-    DON JUAN, SORTANT DE L'ALCÔVE, À DON LOUIS.
+    DON JUAN, SORTANT DE L’ALCÔVE, À DON LOUIS.
 Vous ne connaissez pas Don Juan, le voici,  
 Vous trompâtes ma soeur, vous tuâtes mon frère,  
 Mais bientôt votre mort s'en va me satisfaire,  

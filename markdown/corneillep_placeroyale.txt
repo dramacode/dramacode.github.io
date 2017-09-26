@@ -2,7 +2,7 @@
 identifier: corneillep_placeroyale  
 creator: Corneille, Pierre  
 date: 1634  
-title: La Place Royale.  ou l'amoureux extravagant, comédie  
+title: La Place Royale.  ou l’amoureux extravagant, comédie  
 ---
 
 
@@ -79,9 +79,9 @@ Je puis bien m'empêcher d'en être importunée,
 Feindre un peu de migraine, ou me faire celer,  
 C'est un moyen bien court de ne lui plus parler ;  
 Mais ce qui m'en déplaît, et qui me désespère,  
-C'est de perdre la sour pour éviter le frère,  
+C'est de perdre la sœur pour éviter le frère,  
 Et me violenter à fuir ton entretien,  
-Puisque te voir encore c'est m'exposer au sien,  
+Puisque te voir encor c'est m'exposer au sien,  
 Que s'il me faut quitter cette douce pratique,  
 Ne mets point en oubli l'amitié d'Angélique,  
 Sûre que ses effets auront leur premier cours  
@@ -100,7 +100,7 @@ Et par quelle raison négliger son martyre ?
 
     ANGÉLIQUE.
 Vois-tu, j'aime Alidor, et c'est assez tout dire ;  
-Le reste des mortels pourrait m'offrir des voux,  
+Le reste des mortels pourrait m'offrir des vœux,  
 Je suis aveugle, sourde, insensible pour eux,  
 La pitié de leurs maux ne peut toucher mon âme  
 Que par des sentiments dérobés à ma flamme,  
@@ -186,7 +186,7 @@ Il aura qu'avec lui je vivrai franchement.
     PHILIS.
 Franchement, c'est-à-dire avec mille rudesses,  
 Le mépriser, le fuir, et par quelques adresses  
-Qu'il tâche d'adoucir... Quoi ! Me quitter ainsi !  
+Qu'il tâche d'adoucir… Quoi ! Me quitter ainsi !  
 Et sans me dire adieu ! Le sujet ?  
 
 
@@ -206,7 +206,7 @@ Je te fais plus parfait mille fois que tu n'es :
 Ton feu ne peut aller au point où je le mets ;  
 J'invente des raisons à combattre sa haine ;  
 Je blâme, flatte, prie, et perds toujours ma peine,  
-En grand péril d'y perdre encore son amitié,  
+En grand péril d'y perdre encor son amitié,  
 Et d'être en tes malheurs avec toi de moitié.  
 
     DORASTE.
@@ -228,14 +228,14 @@ Mais j'ai bien plus d'esprit que de m'en affliger.
 Il n'est point de douleur si forte en un courage  
 Qui ne perde sa force auprès de mon visage ;  
 C'est toujours de tes maux autant de rabattu :  
-Confesse, ont-ils encore le pouvoir qu'ils ont eu ?  
+Confesse, ont-ils encor le pouvoir qu'ils ont eu ?  
 Ne sens-tu point déjà ton âme un peu plus gaie ?  
 
     DORASTE.
 Tu me forces à rire en dépit que j'en aie ;  
 Je souffre tout de toi, mais à condition  
 D'employer tous tes soins à mon affection.  
-Dis-moi par quelle ruse il faut...  
+Dis-moi par quelle ruse il faut…  
 
     PHILIS.
         Rentrons, mon frère :  
@@ -287,12 +287,13 @@ Mais plutôt vois te préférer
 Et ton amitié sans seconde  
 N'aura plus de quoi murmurer.  
 Ainsi je veux punir ma flamme déloyale ;  
-Ainsi...  
+Ainsi…  
 
 
 ## SCÈNE IV. Alidor, Cléandre.
 
     ALIDOR.
+
         Te rencontrer dans la place Royale,  
 Solitaire, et si près de ta douce prison,  
 Montre bien que Philis n'est pas à la maison.  
@@ -315,7 +316,7 @@ Un moment de froideur, et je pourrais guérir ;
 Une mauvaise oeillade, un peu de jalousie,  
 Et j'en aurais soudain passé ma fantaisie ;  
 Mais las ! Elle est parfaite, et sa perfection  
-N'approche point encore de son affection ;  
+N'approche point encor de son affection ;  
 Point de refus pour moi, point d'heures inégales ;  
 Accablé de faveurs à mon repos fatales,  
 Sitôt qu'elle voit jour à d'innocents plaisirs,  
@@ -378,7 +379,7 @@ Et mériter enfin un doux commandement
 Qui prononce l'arrêt de mon bannissement.  
 Ce remède est cruel, mais pourtant nécessaire :  
 Puisqu'elle me plaît trop, il me faut lui déplaire.  
-Tant que j'aurai chez elle encore le moindre accès,  
+Tant que j'aurai chez elle encor le moindre accès,  
 Mes desseins de guérir n'auront point de succès.  
 
     CLÉANDRE.
@@ -425,7 +426,7 @@ Mais songe que l'hymen fait bien des malheureux.
     CLÉANDRE.
 J'en veux bien faire essai ; mais d'ailleurs, quand j'y pense,  
 Peut-être seulement le nom d'époux t'offense,  
-Et tu voudrais qu'un autre...  
+Et tu voudrais qu'un autre…  
 
     ALIDOR.
         Ami, que me dis-tu ?  
@@ -438,7 +439,7 @@ J'évite l'apparence autant comme le crime ;
 Je fuis un compliment qui semble illégitime ;  
 Et le jeu m'en déplaît, quand on fait à tous coups  
 Causer un médisant et rêver un jaloux.  
-Encore que dans mon feu mon cour ne s'intéresse,  
+encor que dans mon feu mon cour ne s'intéresse,  
 Je veux pouvoir prétendre où ma bouche l'adresse,  
 Et garder, si je puis, parmi ces fictions,  
 Un renom aussi pur que mes intentions.  
@@ -468,7 +469,7 @@ Et mon devoir, mal propre à de si lâches coups,
 Manque aussitôt vers lui que son amour vers vous.  
 
     ANGÉLIQUE.
-Contre ce que je vois le mien encore s'obstine.  
+Contre ce que je vois le mien encor s'obstine.  
 Qu'Alidor ait écrit cette lettre à Clarine,  
 Et qu'ainsi d'Angélique il se voulût jouer !  
 
@@ -478,7 +479,7 @@ Opposez-lui ces traits, battez-le de ses armes :
 Pour s'en pouvoir défendre il lui faudrait des charmes.  
 Mais surtout cachez-lui ce que je fais pour vous,  
 Et ne m'exposez point aux traits de son courroux ;  
-Que je vous puisse encore trahir son artifice,  
+Que je vous puisse encor trahir son artifice,  
 Et pour mieux vous servir, rester à son service.  
 
     ANGÉLIQUE.
@@ -487,13 +488,13 @@ Je sais ce qu'il faut dire, et ce qu'il faut cacher.
 
     POLYMAS.
 Feignez d'avoir reçu ce billet de Clarine,  
-Et que...  
+Et que…  
 
     ANGÉLIQUE.
         Ne m'instruis point, et va, qu'il ne devine.  
 
     POLYMAS.
-Mais...  
+Mais…  
 
     ANGÉLIQUE.
     Ne réplique plus, et va-t'en.  
@@ -523,7 +524,7 @@ Passe entre deux amants pour moins qu'une journée.
 Avec de tels discours oses-tu m'aborder,  
 Perfide, et sans rougir peux-tu me regarder ?  
 As-tu cru que le ciel consentît à ma perte,  
-Jusqu'à souffrir encore ta lâcheté couverte ?  
+Jusqu'à souffrir encor ta lâcheté couverte ?  
 Apprends, perfide, apprends que je suis hors d'erreur :  
 Tes yeux ne me sont plus que des objets d'horreur ;  
 Je ne suis plus charmée, et mon âme plus saine  
@@ -542,6 +543,7 @@ Et puis accuse-moi de te faire une injure !
 LETTRE SUPPOSÉE d'ALIDOR À CLARINE.
 
 Alidor lit la lettre entre les mains d'Angélique.
+
 
 Clarine, je suis tout à vous,  
 Ma liberté vous rend les armes,  
@@ -563,7 +565,7 @@ Est-ce là tant de quoi ?
     ANGÉLIQUE.
         Tant de quoi ! L'impudence !  
 Après mille serments il me manque de foi,  
-Et me demande encore si c'est là tant de quoi !  
+Et me demande encor si c'est là tant de quoi !  
 Change si tu le veux : je n'y perds qu'un volage ;  
 Mais en m'abandonnant laisse en paix mon visage ;  
 Oublie avec ta foi ce que j'ai de défauts ;  
@@ -597,7 +599,7 @@ Qu'on doive tout à l'heure être mis en morceaux ?
 Si ce crime autrement ne saurait se remettre,  
 Il lui présente aux yeux un miroir qu'elle porte pendu à sa ceinture.
 
-Cassez : ceci vous dit encore pis que ma lettre.  
+Cassez : ceci vous dit encor pis que ma lettre.  
 
     ANGÉLIQUE.
 S'il me dit mes défauts autant ou plus que toi,  
@@ -693,7 +695,7 @@ Le ciel n'en a point fait au mal qui me possède.
 Choisis de mes amants, sans t'affliger si fort,  
 Et n'appréhende pas de me faire grand tort :  
 J'en pourrais, au besoin, fournir toute la ville,  
-Qu'il m'en demeurerait encore plus de deux mille.  
+Qu'il m'en demeurerait encor plus de deux mille.  
 
     ANGÉLIQUE.
 Tu me ferais mourir avec de tels propos ;  
@@ -704,7 +706,7 @@ Ma soeur.
         Plût au bon Dieu que tu voulusses l'être !  
 
     ANGÉLIQUE.
-Eh quoi, tu ris encore ! C'est bien faire paraître...  
+Eh quoi, tu ris encor ! C'est bien faire paraître…  
 
     PHILIS.
 Que je ne saurais voir d'un visage affligé  
@@ -720,7 +722,7 @@ Après que cet ingrat me quitte pour Clarine ?
     PHILIS.
 De le garder longtemps elle n'a pas la mine,  
 Et j'estime si peu ces nouvelles amours,  
-Que je te plége encore son retour dans deux jours ;  
+Que je te pleige encor son retour dans deux jours ;  
 Et lors ne pense pas, quoi que tu te proposes,  
 Que de tes volontés devant lui tu disposes.  
 Prépare tes dédains, arme-toi de rigueur,  
@@ -753,7 +755,7 @@ Elle frappe à sa porte, et Dorante sort.
 Il faut donc se hâter qu'elle ne refroidisse.  
 Frère, quelque inconnu t'a fait un bon office :  
 Il ne tiendra qu'à toi d'être un second Médor ;  
-On a fait qu'Angélique...  
+On a fait qu'Angélique…  
 
     DORASTE.
     Eh bien ?  
@@ -778,7 +780,7 @@ Et s'il ne s'en dédit, tiens l'affaire pour faite.
 
     DORASTE.
 Bien qu'un si bon avis ne soit à mépriser,  
-Je crains...  
+Je crains…  
 
     PHILIS.
         Lysis m'aborde, et tu me veux causer !  
@@ -823,7 +825,7 @@ Cléandre va pour entrer chez Angélique.
 J'aime des serviteurs qui pour une maîtresse  
 Souffrent ce qui leur nuit, aiment ce qui les blesse.  
 Si tu vois quelque jour tes feux récompensés,  
-Souviens-toi... Qu'est-ce-ci ? Cléandre, vous passez ?  
+Souviens-toi… Qu'est-ce-ci ? Cléandre, vous passez ?  
 
 
 ## SCÈNE VII. Cléandre, Philis, Lisis.
@@ -845,7 +847,7 @@ Le moyen que je sois insensible à ce point ?
 Quoi ! Pour l'entretenir, ne vous aimé-je point ?  
 
     CLÉANDRE.
-Encore que votre ardeur à la mienne réponde,  
+encor que votre ardeur à la mienne réponde,  
 Je ne veux plus d'un bien commun à tout le monde.  
 
     PHILIS.
@@ -935,7 +937,7 @@ Avec moi, si tu veux, aime toute la terre,
 Sans craindre que jamais je t'en fasse la guerre.  
 Je reconnais assez mes imperfections ;  
 Et quelque part que j'aie en tes affections,  
-C'est encore trop pour moi ; seulement ne rejette  
+C'est encor trop pour moi ; seulement ne rejette  
 La parfaite amitié d'une fille imparfaite.  
 
     CLÉANDRE.
@@ -951,11 +953,11 @@ Il faut que de tes mains un adieu me délivre.
 Si tu sais t'en aller, je saurai bien te suivre ;  
 Et quelque occasion qui t'amène en ces lieux,  
 Tu ne lui diras pas grand secret à mes yeux.  
-Je suis plus incommode encore qu'il ne te semble.  
+Je suis plus incommode encor qu'il ne te semble.  
 Parlons plutôt d'accord, et composons ensemble.  
 Hier un peintre excellent m'apporta mon portrait :  
 Tandis qu'il t'en demeure encore quelque trait,  
-Qu'encore tu me connais, et que de ta pensée  
+Qu'encor tu me connais, et que de ta pensée  
 Mon image n'est pas tout à fait effacée,  
 Ne m'en refuse point ton petit jugement.  
 
@@ -1058,7 +1060,7 @@ Et l'un et l'autre ici marchent d'un pas égal ;
 Soutenant un ami, tu t'ôtes un rival.  
 Ne diffère donc plus ce que l'honneur commande,  
 Et lui gagne Angélique, afin qu'il te la rende.  
-Il faut...  
+Il faut…  
 
 
 ## SCÈNE IV.
@@ -1133,7 +1135,7 @@ Va-t'en donc, et me laisse auprès de ta maîtresse
 De mon reste d'amour faire jouer l'adresse.  
 
     CLÉANDRE.
-Cher ami...  
+Cher ami…  
 
     ALIDOR.
         Va-t'en, dis-je, et par tes compliments  
@@ -1159,6 +1161,7 @@ Et que la peine est douce à qui sert ses amis.
 ## SCÈNE V.
 
     ANGÉLIQUE, DANS SON CABINET.
+
 Quel malheur partout m'accompagne !  
 Qu'un indiscret hymen me venge à mes dépens !  
 Que de pleurs en vain je répands,  
@@ -1192,7 +1195,7 @@ Ne me présente plus les traits qui m'ont déçue ;
 N'attaque point mon cour en me blessant la vue.  
 Penses-tu que je sois, après ton changement,  
 Ou sans ressouvenir, ou sans ressentiment ?  
-S'il te souvient encore de ton brutal caprice,  
+S'il te souvient encor de ton brutal caprice,  
 Dis-moi, que viens-tu faire au lieu de ton supplice ?  
 Garde un exil si cher à tes légèretés :  
 Je ne veux plus savoir de toi mes vérités.  
@@ -1264,7 +1267,7 @@ Que puis-je à de tels maux appliquer pour remède ?
 
     ALIDOR.
 Ce qu'ordonne l'amour aux âmes qu'il possède.  
-Si vous m'aimez encore, vous saurez dès ce soir  
+Si vous m'aimez encor, vous saurez dès ce soir  
 Rompre les noirs effets d'un juste désespoir.  
 Quittez avec le bal vos malheurs pour me suivre,  
 Ou soudain à vos yeux je vais cesser de vivre.  
@@ -1322,6 +1325,7 @@ Alidor s'en va et Angélique continue.
 
 
     ANGÉLIQUE.
+
 Que promets-tu, pauvre aveuglée ?  
 À quoi t'engage ici ta folle passion ?  
 Et de quelle indiscrétion  
@@ -1335,7 +1339,7 @@ Une si douce erreur n'est qu'à mon avantage.
 Me manquât-il de foi, je la lui dois garder,  
 Et pour perdre Doraste il faut tout hasarder.  
 
-    ALIDOR, SORTANT DE LA PORTE D'ANGÉLIQUE ET REPASSANT SUR LE THÉÂTRE.
+    ALIDOR, SORTANT DE LA PORTE D’ANGÉLIQUE ET REPASSANT SUR LE THÉÂTRE.
 Cléandre, elle est à toi ; j'ai fléchi son courage.  
 Que ne peut l'artifice, et le fard du langage ?  
 Et si pour un ami ces effets je produis,  
@@ -1346,7 +1350,7 @@ Lorsque j'agis pour moi, qu'est-ce que je ne puis ?
 
     PHILIS.
 Alidor à mes yeux sort de chez Angélique,  
-Comme s'il y gardait encore quelque pratique ;  
+Comme s'il y gardait encor quelque pratique ;  
 Et même, à son visage, il semble assez content.  
 Aurait-il regagné cet esprit inconstant ?  
 Oh ! Qu'il ferait bon voir que cette humeur volage  
@@ -1366,7 +1370,7 @@ Quoi ! Lysis, ta retraite est de peu de durée !
 
     LYSIS.
 L'heure de mon congé n'est qu'à peine expirée ;  
-Mais vous voyant ici sans frère et sans amant...  
+Mais vous voyant ici sans frère et sans amant…  
 
     PHILIS.
 N'en présume pas mieux pour ton contentement.  
@@ -1446,13 +1450,13 @@ Fais ce beau coup pour toi ; suis l'ardeur qui te presse.
 Mais trahir ton ami ! Mais trahir ta maîtresse !  
 Je n'en veux obliger pas un à me haïr,  
 Et ne sais qui des deux, ou servir, ou trahir.  
-Quoi ! Je balance encore, je m'arrête, je doute !  
+Quoi ! Je balance encor, je m'arrête, je doute !  
 Mes résolutions, qui vous met en déroute ?  
 Revenez, mes desseins, et ne permettez pas  
 Qu'on triomphe de vous avec un peu d'appas.  
 En vain pour Angélique ils prennent la querelle ;  
 Cléandre, elle est à toi, nous sommes deux contre elle.  
-Ma liberté conspire avec tes ardeurs ;  
+Ma liberté conspire avecque tes ardeurs ;  
 Les miennes désormais vont tourner en froideurs ;  
 Et lassé de souffrir un si rude servage,  
 J'ai l'esprit assez fort pour combattre un visage.  
@@ -1466,7 +1470,7 @@ Je ne me résoudrai jamais à l'hyménée
 Que d'une volonté franche et déterminée,  
 Et celle à qui ses noeuds m'uniront pour jamais  
 M'en sera redevable, et non à ses attraits ;  
-Et ma flamme...  
+Et ma flamme…  
 
 
 ## SCÈNE II. Alidor, Cléandre.
@@ -1570,7 +1574,7 @@ Il n'en faut point douter, sa perte est évidente ;
 Le cour me le disait, le voyant en sortir,  
 Et mon frère dès lors se devait avertir.  
 Je te trahis, mon frère, et par ma négligence,  
-Étant sans y penser de leur intelligence...  
+Étant sans y penser de leur intelligence…  
 Alidor paraît avec Cléandre accompagné d'une troupe, et après lui avoir montré Philis, qu'il croit être Angélique, il se retire en un coin du théâtre, et Cléandre enlève Philis, et lui met d'abord la main sur la bouche.
 
 
@@ -1616,7 +1620,7 @@ Je sais trop maintenir ce que je me propose,
 Et souverain sur moi, rien que moi n'en dispose.  
 En vain un peu d'amour me déguise en forfait  
 Du bien que je me veux le généreux effet :  
-De nouveau j'y consens, et prêt à l'entreprendre...  
+De nouveau j'y consens, et prêt à l'entreprendre…  
 
 
 ## SCÈNE VI.
@@ -1638,10 +1642,10 @@ Qui vous a fait sitôt de leurs mains vous sauver ?
 Quel soudain repentir, quelle crainte de blâme,  
 Et quelle ruse enfin vous dérobe à ma flamme ?  
 Ne vous suffit-il point de me manquer de foi,  
-Sans prendre encore plaisir à vous jouer de moi ?  
+Sans prendre encor plaisir à vous jouer de moi ?  
 
     ANGÉLIQUE.
-Que tes gens cette nuit m'aient vue ou saisie !  
+Que tes gens cette nuit m'ayent vue ou saisie !  
 N'ouvre point ton esprit à cette fantaisie.  
 
     ALIDOR.
@@ -1688,7 +1692,7 @@ Mais enfin, Alidor, tes gens se sont mépris ?
 Dans ce coup de malheur, et confus, et surpris,  
 Je vois tous mes desseins succéder à ma honte ;  
 Mais il me faut donner quelque ordre à ce mécompte :  
-Permettez...  
+Permettez…  
 
     ANGÉLIQUE.
         Cependant, à qui me laisses-tu ?  
@@ -1723,7 +1727,7 @@ Et ne pouvez-vous point d'une seule journée
 Retarder le malheur de ce triste hyménée ?  
 Peut-être le désordre et la confusion  
 Qui naîtront dans le bal de cette occasion  
-Le remettront pour vous ; et l'autre nuit, je jure...  
+Le remettront pour vous ; et l'autre nuit, je jure…  
 
     ANGÉLIQUE.
 Que tu seras encore ou timide ou parjure.  
@@ -1735,7 +1739,7 @@ Rejetant mon bonheur ainsi sur un peut-être.
     ALIDOR.
 Quoi qu'ose mon amour appréhender pour vous,  
 Puisque vous le voulez, fuyons, je m'y résous ;  
-Et malgré ces périls... Mais on ouvre la porte :  
+Et malgré ces périls… Mais on ouvre la porte :  
 Alidor s'échappe, et Angélique le veut suivre, mais Doraste l'arrête.
 
 C'est Doraste qui sort, et nous suit à main-forte.  
@@ -1748,7 +1752,7 @@ Quoi ! Ne m'attendre pas ? C'est trop me dédaigner ;
 Je ne viens qu'à dessein de vous accompagner ;  
 Car vous n'entreprenez si matin ce voyage  
 Que pour vous préparer à notre mariage.  
-Encore que vous partiez beaucoup devant le jour,  
+encor que vous partiez beaucoup devant le jour,  
 Vous ne serez jamais assez tôt de retour ;  
 Vous vous éloignez trop, vu que l'heure nous presse.  
 Infidèle ! Est-ce là me tenir ta promesse ?  
@@ -1779,7 +1783,7 @@ Tu suivais Alidor !
     ANGÉLIQUE.
         Ta funeste arrivée,  
 En arrêtant mes pas, de ce bien m'a privée ;  
-Mais si...  
+Mais si…  
 
     DORASTE.
     Tu le suivais !  
@@ -1809,6 +1813,7 @@ Que tu ne fuis ces lieux que pour suivre Alidor.
 Billet de Cléandre à Angélique.
 
 Angélique lit.
+
 
 Angélique, reçois ce gage  
 De la foi que je te promets,  
@@ -1841,7 +1846,7 @@ Que parles-tu d'une autre en ta place ravie ?
 
     ANGÉLIQUE.
 J'en ignore le nom, mais elle m'a suivie,  
-Et ceux qui m'attendaient dans l'ombre de la nuit...  
+Et ceux qui m'attendaient dans l'ombre de la nuit…  
 
     DORASTE.
 C'en est assez, mes yeux du reste m'ont instruit :  
@@ -1863,7 +1868,7 @@ Ma rougeur aussitôt prendra part à l'injure ;
 Et les mêmes couleurs qui peindront ses forfaits  
 Des miens en même temps exprimeront les traits.  
 Mais quel aveuglement nos deux crimes égale,  
-Puisque c'est pour lui que je suis déloyale ?  
+Puisque c'est pour lui seul que je suis déloyale ?  
 L'amour m'a fait trahir (qui n'en trahirait pas ?),  
 Et la trahison seule a pour lui des appas.  
 Son crime est sans excuse, et le mien pardonnable :  
@@ -1946,7 +1951,7 @@ Si vous me refusez, m'écouteront-ils mieux ?
 Le monde vous croit riche, et mes parents sont vieux.  
 
     CLÉANDRE.
-Puis-je sur cet espoir...  
+Puis-je sur cet espoir…  
 
     PHILIS.
         C'est assez vous en dire.  
@@ -1965,7 +1970,7 @@ Et maintenant, ami, c'est encore elle-même :
 Son orgueil se redouble étant en liberté,  
 Et devient plus hardi d'agir en sûreté.  
 J'espère toutefois, à quelque point qu'il monte,  
-Qu'à la fin...  
+Qu'à la fin…  
 
     PHILIS.
 Elle rentre, et Cléandre la voulant suivre, Alidor l'arrête.
@@ -2034,7 +2039,7 @@ Et ce tyran secret de nos affections
 Saisit trop puissamment nos inclinations.  
 Aussi ma liberté n'a plus rien qui me flatte ;  
 Le grand soin que j'en eus partait d'une âme ingrate ;  
-Et mes desseins, d'accord avec mes désirs,  
+Et mes desseins, d'accord avecque mes désirs,  
 À servir Angélique ont mis tous mes plaisirs.  
 Mais, hélas ! Ma raison est-elle assez hardie  
 Pour croire qu'on me souffre après ma perfidie ?  
@@ -2104,7 +2109,7 @@ Mais, dieux ! Voilà Philis qu'il a déjà rendue.
 Ma soeur, je te retrouve après t'avoir perdue !  
 Et de grâce, quel lieu me cache le voleur  
 Qui, pour s'être mépris, a causé ton malheur ?  
-Que son trépas...  
+Que son trépas…  
 
     PHILIS.
         Tout beau ; peut-être ta colère,  
@@ -2134,7 +2139,7 @@ C'est à toi de régler ton esprit sur le mien.
 Je respecte mon père, et le tiens assez sage  
 Pour ne résoudre rien à mon désavantage.  
 Si Cléandre le gagne, et m'en peut obtenir,  
-Je crois de mon devoir...  
+Je crois de mon devoir…  
 
     LYCANTE.
         Je l'aperçois venir.  
@@ -2206,7 +2211,7 @@ Puisque vous me pouvez accepter sans parjure,
 Pouvez-vous consentir que votre rigueur dure ?  
 Vos yeux sont-ils changés, vos feux sont-ils éteints ?  
 Et quand mon amour croît, produit-il vos dédains ?  
-Voulez-vous...  
+Voulez-vous…  
 
     ANGÉLIQUE.
         Déloyal, cesse de me poursuivre :  

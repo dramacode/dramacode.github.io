@@ -13,7 +13,7 @@ Octobre mil six cens trente-neuf.
 
 Les Exemplaires ont esté fournis.
 
-**** *book_ *id_body-301 *act_ *date_1639 *creator_guerin_de_bouscal
+**** *book_ *id_I01 *act_ *date_1639 *creator_guerin_de_bouscal
 
 -*who_domlope
 Ce sont là vos amours & vos contentemens,
@@ -97,7 +97,7 @@ Ils deviennent plus fiers, mettent tout en usage,
 Et par cette indulgence au crime abandonnez,
 Perdent les gens de bien qui les ont pardonnez.
 
-**** *book_ *id_body-302 *act_ *date_1639 *creator_guerin_de_bouscal
+**** *book_ *id_I02 *act_ *date_1639 *creator_guerin_de_bouscal
 
 -*who_dorotee
 Va meschant, va perfide au fonds du precipice,
@@ -331,7 +331,7 @@ Mon cœur chassez bien loin l'amour, la jalousie,
 Je ne veux plus vous voir amoureux, ny jaloux,
 Soyez recognoissant, je veux cela de vous.
 
-**** *book_ *id_body-303 *act_ *date_1639 *creator_guerin_de_bouscal 
+**** *book_ *id_I03 *act_ *date_1639 *creator_guerin_de_bouscal 
 
 -*who_barbero
 J'ay bien eu de la peine à tenter⁎ cette femme
@@ -531,7 +531,7 @@ Que vous nous obligez.
 -*who_domlope
 Un jour vos charitez auront leur recompense.
 
-**** *book_ *id_body-304 *act_ *date_1639 *creator_guerin_de_bouscal 
+**** *book_ *id_I04 *act_ *date_1639 *creator_guerin_de_bouscal 
 
 -*who_barbero
 Celuy qui vient à nous n'est-ce pas Sancho Pance?
@@ -663,7 +663,7 @@ Suivez-moi seulement, je vay vous y conduire.
 -*who_domlope
 Allez un peu devant, Dieu que nous alons rire.
 
-**** *book_ *id_body-401 *act_ *date_1639 *creator_guerin_de_bouscal
+**** *book_ *id_II01 *act_ *date_1639 *creator_guerin_de_bouscal
 
 -*who_domquixote
 Qu'elle soit Reyne ou non, je sçay bien mon devoir.
@@ -802,7 +802,7 @@ Mais dis-moy que fis-tu ?
 -*who_domquixote
 Reservons ce discours pour une autre saison.
 
-**** *book_ *id_body-402 *act_ *date_1639 *creator_guerin_de_bouscal 
+**** *book_ *id_II02 *act_ *date_1639 *creator_guerin_de_bouscal 
 
 -*who_domlope
 Jettez-vous à ses pieds.
@@ -1183,7 +1183,7 @@ Il faut bien-tost partir.
 -*who_domlope
 J'ay dans cette Taverne un coche qui m'attend.
 
-**** *book_ *id_body-501 *act_ *date_1639 *creator_guerin_de_bouscal
+**** *book_ *id_III01 *act_ *date_1639 *creator_guerin_de_bouscal
 
 -*who_fernande
 Il faut disner icy devant que de partir,
@@ -1409,7 +1409,7 @@ Qui peut vous égaler ?
 -*who_fernande
       Qui peut vous resister ?
 
-**** *book_ *id_body-502 *act_ *date_1639 *creator_guerin_de_bouscal 
+**** *book_ *id_III02 *act_ *date_1639 *creator_guerin_de_bouscal 
 
 -*who_levalet
 Monsieur on vous attend.
@@ -1471,7 +1471,7 @@ Allons donc.
 -*who_lucinde
       Je crain tout, & je n'espere rien.
 
-**** *book_ *id_body-503 *act_ *date_1639 *creator_guerin_de_bouscal
+**** *book_ *id_III03 *act_ *date_1639 *creator_guerin_de_bouscal
 
 -*who_domquixote
 Vous devez esperer que vostre grande Reyne
@@ -1537,7 +1537,7 @@ Ah siecle⁎ dépravé!
 -*who_lescuyer
       Mais que veut Sancho Pance.
 
-**** *book_ *id_body-504 *act_ *date_1639 *creator_guerin_de_bouscal 
+**** *book_ *id_III04 *act_ *date_1639 *creator_guerin_de_bouscal 
 
 -*who_sancho
 Monsieur vous pouvez bien me donner vostre lance,
@@ -1615,7 +1615,7 @@ Je ne dors ny ne songe, & vous vous mesprenez,
 Vous ne le croyez pas, venez le voir venez,
 Ils sont peut-estre encor ; mais ils sortent, courage.
 
-**** *book_ *id_body-505 *act_ *date_1639 *creator_guerin_de_bouscal
+**** *book_ *id_III05 *act_ *date_1639 *creator_guerin_de_bouscal
 
 -*who_fernande
 Oüy nous le conduirons jusques à vostre village,
@@ -1790,7 +1790,7 @@ Les plaisirs de la Cour dedans la solitude⁎:
 Allons y travailler, ne perdons point de temps,
 Et monstrons desormais que nous sommes contents.
 
-**** *book_ *id_body-601 *act_ *date_1639 *creator_guerin_de_bouscal
+**** *book_ *id_IV01 *act_ *date_1639 *creator_guerin_de_bouscal
 
 -*who_fernande
 Je vous l'ay desja dit à ma confusion,
@@ -1868,7 +1868,7 @@ Que j'aymeray tousjours.
 Les beautez de Madame excusent vostre erreur.
 Mais tréve à ce discours, voicy nostre Empereur.
 
-**** *book_ *id_body-602 *act_ *date_1639 *creator_guerin_de_bouscal 
+**** *book_ *id_IV02 *act_ *date_1639 *creator_guerin_de_bouscal 
 
 -*who_domquixote
 Desja de toutes parts la terre est esclairée,
@@ -1989,7 +1989,7 @@ La plaisante raison.
 -*who_cardenie
       Qu'il a l'esprit perdu.
 
-**** *book_ *id_body-603 *act_ *date_1639 *creator_guerin_de_bouscal
+**** *book_ *id_IV03 *act_ *date_1639 *creator_guerin_de_bouscal
 
 -*who_lebarbier
 Larron rends ce bassin.
@@ -2069,7 +2069,7 @@ Consolez-vous, adieu pour la dernière fois.
 -*who_lebarbier
 A ce que je puis voir les plus forts font les loix.
 
-**** *book_ *id_body-604 *act_ *date_1639 *creator_guerin_de_bouscal
+**** *book_ *id_IV04 *act_ *date_1639 *creator_guerin_de_bouscal
 
 -*who_lebarbier
 Messieurs soyez tesmoins de cette violence,
@@ -2256,7 +2256,7 @@ Nous pourra bien servir pour le mieux decevoir⁎.
 Allons preparer tout, je veux que chacun die
 Que ce seul incident⁎ vaut une Comedie.
 
-**** *book_ *id_body-701 *act_ *date_1639 *creator_guerin_de_bouscal
+**** *book_ *id_V01 *act_ *date_1639 *creator_guerin_de_bouscal
 
 -*who_reine
 Puis qu'il faut aujourd'huy commencer le voyage
@@ -2299,7 +2299,7 @@ Mais que veut ce Tambour ?
 -*who_sancho
       Il ne sonne pas mal.
 
-**** *book_ *id_body-702 *act_ *date_1639 *creator_guerin_de_bouscal
+**** *book_ *id_V02 *act_ *date_1639 *creator_guerin_de_bouscal
 
 -*who_letambour
 Messeigneurs qui de vous est le grand Dom Quixote ?
@@ -2346,7 +2346,7 @@ Ah ce manque de cœur ne m'est pas agreable.
 -*who_sancho
 Hazard, demeurons donc.
 
-**** *book_ *id_body-703 *act_ *date_1639 *creator_guerin_de_bouscal
+**** *book_ *id_V03 *act_ *date_1639 *creator_guerin_de_bouscal
 
 -*who_domquixote
       Quel port si venerable !
@@ -2689,7 +2689,7 @@ En fin il est au rang des illustres chevaux ;
 Si Malembrun consent à la fin de nos maux
 Vous le verrez bien-tost.
 
-**** *book_ *id_body-704 *act_ *date_1639 *creator_guerin_de_bouscal 
+**** *book_ *id_V04 *act_ *date_1639 *creator_guerin_de_bouscal 
 
 -*who_fernande
       Quels objets effroyables
